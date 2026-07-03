@@ -19,7 +19,7 @@ lang: zh-hk
 _srcHash: 577fe6ba24cabac9e25b60ffb7d97c56
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fa001ec17be16c90af2ed5df4564bccc.jpg)
+![探索峇里島嘅文化瑰寶：Balerung Stage 傳統表演體驗](https://images.gobaligo.id/vocus/vocus_fa001ec17be16c90af2ed5df4564bccc.jpg)
 
 如果你想深度體驗峇里島嘅傳統文化，咁 Balerung Stage 嘅表演絕對唔可以錯過！呢個位於烏布嘅傳統舞台，每星期都會上演經典嘅峇里舞蹈同音樂，俾觀眾有機會感受呢座島嶼豐富嘅文化遺產。同商業化嘅旅遊表演唔同，Balerung Stage 以其真實性同純粹嘅藝術表現著稱，令你彷彿置身於峇里嘅過去，沉浸喺舞蹈同音樂嘅魅力之中。
 
@@ -61,7 +61,7 @@ Balerung Stage專業演出片段：__VID0__
 
 📩 **立即加入「峇里島旅遊攻略」網誌，成為峇里島旅遊達人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![註冊加入我哋嘅網誌](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

@@ -111,7 +111,7 @@ Truly a hidden gem! Check out Xiao Jie's introduction in the video below:
 
 🔹 1F: A massive candy wonderland 🍭 *Candylicious*, bursting with colors — a true paradise for kids 🫧 (visited). The children couldn’t get enough of this candy heaven; they had a blast, and I loved seeing their happiness.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c6082ea9e6e06a45c3157784ad9da261.jpg)
+![Notes & Reflections](https://images.gobaligo.id/vocus/vocus_c6082ea9e6e06a45c3157784ad9da261.jpg)
 
 🔹 3F: *MM Juice* 🍹 — reviewers say the juice is great but the food is terrible (not visited). Though I heard the juice is good, we chose other restaurants; maybe next time I’ll give it a try.
 
@@ -135,7 +135,7 @@ We followed the recommendations from 'Xiao Jie Indonesia.' If you're interested 
 
 ### 
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_21d540de87f478b39fd7f1dee26b368a.jpg)
+![Notes & Reflections](https://images.gobaligo.id/vocus/vocus_21d540de87f478b39fd7f1dee26b368a.jpg)
 
 Want more Kuta guides? [Click here](/blog/2023-12-13-657598bdfd8978000120fe20/)
 
@@ -181,7 +181,7 @@ Screenshot from the "Let's Play and Eat Ho Chi Minh City" Facebook page
 
 **📍Contact info right here for you:**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cfd36517ed8ca2fc9f81c8f6f8a3ced5.png)
+![Recommended Bali Private Driver](https://images.gobaligo.id/vocus/vocus_cfd36517ed8ca2fc9f81c8f6f8a3ced5.png)
 
 🚘A good driver takes you to heaven—travel hassle-free, Bali GO🥳🥳🥳🥳
 

@@ -23,7 +23,7 @@ _srcHash: 847176702f89664058ae348683e58a89
 
 Sejak Februari 2024, Bali memberlakukan pajak turis untuk semua wisatawan internasional. Setiap orang wajib bayar 150.000 IDR (sekitar USD$10). Pajak ini dipakai buat dukung pembangunan infrastruktur Bali, jaga budaya lokal, dan lingkungan alam. Kamu bisa bayar online lewat LoveBali App, nanti mungkin juga bisa di bandara atau beberapa hotel dan agen travel. Setelah bayar, kamu bakal dapet QR code yang harus selalu siap-siap kalau petugas pajak turis mau ngecek. (Cara bayar lengkap: [Panduan Pajak Turis Bali: Aturan Baru 2024, Cara Bayar, dan Tips Antar-Pulau](/blog/2026-bali-tourism-tax-guide/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_45e18794a5fa7b3c863c8a06c4e980d8.png)
+![1. Apa Itu Pajak Turis Bali?](https://images.gobaligo.id/vocus/vocus_45e18794a5fa7b3c863c8a06c4e980d8.png)
 
 ### 2. Kenapa Pajak Ini Diberlakukan?
 
@@ -43,7 +43,7 @@ Untuk mengatasi masalah ini, Penjabat Gubernur Bali, Sang Made Mahendra Jaya, ba
 
 Pemerintah juga sadar bahwa proses pembayaran saat ini masih belum sempurna. Banyak wisatawan yang sudah antre berjam-jam di bandara, lalu harus antre lagi untuk membayar pajak—ini sangat merepotkan. Untuk mengatasi masalah ini, pemerintah berencana melibatkan lebih banyak hotel, penginapan, bahkan agen perjalanan, sehingga wisatawan bisa membayar pajak ini saat check-in atau selama perjalanan, bukan di menit-menit terakhir.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c60cfb777dca92337369cae5415def17.png)
+![5. Pemerintah Juga Berusaha Memperbaiki Proses Pembayaran](https://images.gobaligo.id/vocus/vocus_c60cfb777dca92337369cae5415def17.png)
 
 ### 6. Dampak pada Pariwisata Bali
 

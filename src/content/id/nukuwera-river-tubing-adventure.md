@@ -22,7 +22,7 @@ lang: id
 _srcHash: fd6dc5f050a200db5d4db3dbee11336a
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_055e134951ab6017808fda25010fb9d3.jpg)
+![Petualangan Arus Sungai Goa di Bali: River Tubing Nukuwera y](https://images.gobaligo.id/vocus/vocus_055e134951ab6017808fda25010fb9d3.jpg)
 
 Bali nggak cuma soal pantai dan pura yang kece, tapi juga punya banyak aktivitas seru yang bikin kamu surprise. Kali ini keluarga kami nyobain pengalaman River Tubing di Nukuwera & Pandawa — petualangan arus sungai dalam goa. Ini beneran jadi salah satu highlight paling难忘 dari trip keluarga 6 hari 5 malam kami di Bali. Beda sama arung jeram biasa, river tubing ini gabungin eksplorasi sejarah sama petualangan air, jadi semua anggota keluarga dari kecil sampai dewasa bisa ikut dengan aman dan seru. Di bawah ini aku bakal cerita pengalaman river tubing yang seru banget dan penuh tawa!
 
@@ -51,7 +51,7 @@ Pemandu menyerahkan kami ke ketua tim arung jeram. Ketua tim memberi pengarahan 
 
 ## Petualangan Gua dan Arung Jeram
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e9b2be803404579b2db6d3b25ee4f683.jpg)
+![Petualangan Gua dan Arung Jeram](https://images.gobaligo.id/vocus/vocus_e9b2be803404579b2db6d3b25ee4f683.jpg)
 
 **Sorotan Rute Arung Jeram**:
 

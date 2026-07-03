@@ -25,7 +25,7 @@ Taking elderly parents on international trips may seem like a heartwarming gestu
 
 ## Why Is Traveling with Elders So Challenging?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e3af29c3d44c3341f926bc65755d9b29.png)
+![Why Is Traveling with Elders So Challenging?](https://images.gobaligo.id/vocus/vocus_e3af29c3d44c3341f926bc65755d9b29.png)
 
 ### **1. The Challenge of Physical Differences**
 
@@ -51,7 +51,7 @@ Some elderly travelers may feel anxious in unfamiliar environments, becoming ove
 
 ## Painful Experiences: Cases of Elders Being Uncooperative
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c0d8fb61ba227fd4d75c613228e45179.png)
+![Painful Experiences: Cases of Elders Being Uncooperative](https://images.gobaligo.id/vocus/vocus_c0d8fb61ba227fd4d75c613228e45179.png)
 
 When traveling with elderly parents, differences in habits or psychological discomfort can lead to uncooperative behavior, stalling the entire trip. Here are a few real-life stories that many readers might relate to:
 
@@ -99,7 +99,7 @@ These "painful experiences" may seem minor, but when accumulated during a trip, 
 
 ## How to Reduce "Effort Without Reward" Situations?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7d15cb1eb2935e503e5fa653a8b8eb9e.jpg)
+![How to Reduce "Effort Without Reward" Situations?](https://images.gobaligo.id/vocus/vocus_7d15cb1eb2935e503e5fa653a8b8eb9e.jpg)
 
 **"Traveling to Bali with Elders" Quick Reference:**
 
@@ -178,7 +178,7 @@ A family stayed at a hotel in the bustling Kuta area of Bali. The constant music
 
 **Recommendation**: Choose hotels away from busy areas, such as Sanur or Jimbaran, where the environment is relatively quiet and comfortable.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_df8557ed9dccbc6cfc980f5c4810bf35.png)
+![9. Avoid Noisy Areas, Prioritize Peace and Comfort](https://images.gobaligo.id/vocus/vocus_df8557ed9dccbc6cfc980f5c4810bf35.png)
 
 **Quick Reference:**
 
@@ -273,7 +273,7 @@ Traveling with elderly family members requires patience above all. They might co
 
 ## Final Reminder: Every Moment on the Journey is a Memory
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_696668bc21571e4b94503611a5a3bc51.png)
+![Final Reminder: Every Moment on the Journey is a Memory](https://images.gobaligo.id/vocus/vocus_696668bc21571e4b94503611a5a3bc51.png)
 
 Despite the numerous details to pay attention to when traveling abroad with elderly family members, these shared travel times are likely to become the most precious memories in the future. Through prior preparation, patient communication, and appropriate compromises, the journey can become smoother and more meaningful. Try to relax and view this trip as a 'journey of repairing and maintaining family bonds.' Believe that no matter how the process unfolds, the memories will be sweet! 😊
 

@@ -34,7 +34,7 @@ _srcHash: 0e5698fa1a7a883cc0d092001d703e06
 
 In Bali, motorcycles are a common mode of transportation for locals, especially in places like Ubud, where locals often ride through the fields. Many tourists, seeing this, might be tempted by the idea that motorcycles are both economical and convenient for freely exploring Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff2d79a6384a7682bb6d83c4de623131.jpg)
+![【Bali Motorcycle Rental Guide】Safety Risk Checklist: Complet](https://images.gobaligo.id/vocus/vocus_ff2d79a6384a7682bb6d83c4de623131.jpg)
 
 ## Is Riding a Motorcycle in Bali Safe?
 
@@ -62,7 +62,7 @@ Motorcycle rental costs in Bali vary depending on the model, age of the bike, an
 
 **Fuel** Street vendors in Bali often sell gasoline in old vodka bottles, priced at around 10,000 IDR (~USD$0.6) per liter.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9c66c50875ad9077897e9537cffffec5.jpg)
+![What Are the Costs of Renting a Motorcycle?](https://images.gobaligo.id/vocus/vocus_9c66c50875ad9077897e9537cffffec5.jpg)
 
 ## Reasons Not to Ride a Scooter in Bali 🚫🏍️
 
@@ -98,7 +98,7 @@ Bali offers many affordable transportation options, such as private cars, ride-h
 
 > Further reading: [Calling a Motorcycle Taxi via App: A Time-Saving and Effortless Experience!](/blog/bali-travel-app-motorcycle-taxi/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_49791dac6020e950bda56dde7ee4e7f5.jpg)
+![6. Affordable Alternatives](https://images.gobaligo.id/vocus/vocus_49791dac6020e950bda56dde7ee4e7f5.jpg)
 
 {{block:klook}}
 
@@ -119,7 +119,7 @@ If you're still determined to use a scooter as your main mode of transportation,
 
 Don’t just take the keys and ride off! Before starting the engine or leaving the shop, take out your phone, start recording, and carefully inspect the following points while documenting everything.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_de43e176127f414dfd12cd2155b28955.png)
+![The Devil’s in the Details (Pre-Ride Inspection)](https://images.gobaligo.id/vocus/vocus_de43e176127f414dfd12cd2155b28955.png)
 
 **1. Exterior Condition (Are You the Scratch King?)**
 
@@ -187,7 +187,7 @@ https://youtu.be/lIV-T2jYhVk?si=KOKR7HFKOtrw1EAb
 
 While renting a scooter is indeed the most economical and convenient way to explore Bali, safety should always be the top priority when traveling abroad. Especially in a foreign land, if an unfortunate accident occurs, not only are you unfamiliar with the surroundings, but you may also face exorbitant medical costs, making it not worth the risk. It's recommended to consider safer transportation options when exploring this beautiful island, allowing you to truly enjoy Bali's scenery and culture without worries.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_65aeba9cc2da686003182b4431afa2a8.jpg)
+![Conclusion](https://images.gobaligo.id/vocus/vocus_65aeba9cc2da686003182b4431afa2a8.jpg)
 
 Remember, safety comes first! This isn't meant to scare you, but rather to remind you of the preciousness of life—it's not worth risking for the sake of saving a few dollars!
 

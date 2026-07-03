@@ -72,7 +72,7 @@ China Airlines juga lagi ada promo buat rute tertentu, sekarang tiket langsung B
 
 ## 💡 Mau Lebih Hemat? 2 Trik Jitu dari Traveler Berpengalaman
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780475662097-784822114470339384.png)
+![Mau Lebih Hemat? 2 Trik Jitu dari Traveler Berpengalaman](https://images.gobaligo.id/images/2026-06/1780475662097-784822114470339384.png)
 
 {{block:klook}}
 

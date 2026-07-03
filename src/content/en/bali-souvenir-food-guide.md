@@ -20,7 +20,7 @@ lang: en
 _srcHash: 2e7125285e4596c3c7b7f4d389ddfbbb
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b48db35889325f45edd5237d8e0b427a.jpg)
+![Bali's Must-Buy Souvenirs: Snacks & Food Edition](https://images.gobaligo.id/vocus/vocus_b48db35889325f45edd5237d8e0b427a.jpg)
 
 ➡️ Click here for more great deals in Bali ⬅️
 

@@ -21,7 +21,7 @@ lang: en
 _srcHash: e8e5b386eb1fcbb815f25a8a5815a559
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3dc7be54d646651c0baffd85a2b0e7c2.jpg)
+![Discover Bali's Culinary Treasure: Mr. Lobster Seafood Resta](https://images.gobaligo.id/vocus/vocus_3dc7be54d646651c0baffd85a2b0e7c2.jpg)
 
 When you visit Bali, aside from admiring the beautiful seascapes and enjoying the sun and sand, you absolutely must not miss the local cuisine. Today, I want to introduce a seafood restaurant that will make your mouth water—Mr. Lobster Seafood Restaurant.
 
@@ -53,13 +53,13 @@ If you're planning a trip to Bali, then Mr. Lobster Seafood Restaurant is a must
 
 ## Mr Lobster Canggu Branch (Opening July 2025, Currently Under Renovation)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_adc8f803a5987f7d3df34ca6da8de9cb.jpg)
+![Mr Lobster Canggu Branch (Opening July 2025, Currently Under](https://images.gobaligo.id/vocus/vocus_adc8f803a5987f7d3df34ca6da8de9cb.jpg)
 
 Located on the southern edge of Canggu, near Café del Mar Beach Club, address: Jl. Subak sari, tibubeneng, kec. Kuta utara, badung, Bali, 80361
 
 ## Mr Lobster Nusa Dua Branch (Opening September 2025)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f5804e7062fa15e6aa013cbd08fcd74.png)
+![Mr Lobster Nusa Dua Branch (Opening September 2025)](https://images.gobaligo.id/vocus/vocus_2f5804e7062fa15e6aa013cbd08fcd74.png)
 
 Address: Jl. Pratama No.83, tanjung, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361
 

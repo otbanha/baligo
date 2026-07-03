@@ -30,33 +30,33 @@ lang: id
 _srcHash: ad022c00a5b2c1b8ebd7f1ede2f1c259
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ed4e23babe897f0039aae5be80a2e83.jpg)
+![【Wajib Coba buat Keluarga di Bali】Naik Balon Udara Pertama K](https://images.gobaligo.id/vocus/vocus_6ed4e23babe897f0039aae5be80a2e83.jpg)
 
 ## **Petualangan Balon Udara di Ubud, Bali: Kencan Impian Keluarga Bertiga**
 
 “Ma, kita beneran mau terbang?” Tanya si kecil (5 tahun) sambil menggenggam erat ujung bajuku, tapi matanya berbinar-binar penuh semangat. Suamiku di samping sambil nyetel kamera: “Tenang, Papa lindungin kamu.” Ini petualangan paling spesial kami bertiga di Bali — pertama kali naik balon udara di Ubud.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8dfa66b04dd9de71bb06a72e584ab9f2.jpg)
+![Petualangan Balon Udara di Ubud, Bali: Kencan Impian Keluarg](https://images.gobaligo.id/vocus/vocus_8dfa66b04dd9de71bb06a72e584ab9f2.jpg)
 
 ## **Satu-satunya Petualangan Udara Keluarga di Bali**
 
 Sebagai satu-satunya balon udara tipe *tethered* di seluruh pulau, balon raksasa pelangi setinggi 23 meter ini cocok banget buat keluarga. Staf lihat kami bawa anak, langsung kasih bangku kecil: “Anak-anak bisa naik dari sini dulu, ya!” Keranjang anyaman rotan ternyata lebih luas dari yang dibayangkan, kami bertiga muat pas (batas berat total 150 kg, keluarga bawa anak aman kok).
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6e9034faa46931a5d78d8a868afb0691.jpg)
+![Satu-satunya Petualangan Udara Keluarga di Bali](https://images.gobaligo.id/vocus/vocus_6e9034faa46931a5d78d8a868afb0691.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_53df4fd79dcf0d9ad18ecdcc8d22e6d8.jpg)
+![Satu-satunya Petualangan Udara Keluarga di Bali](https://images.gobaligo.id/vocus/vocus_53df4fd79dcf0d9ad18ecdcc8d22e6d8.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f74860f9a16d702dbf66d0716f8631ea.jpg)
+![Satu-satunya Petualangan Udara Keluarga di Bali](https://images.gobaligo.id/vocus/vocus_f74860f9a16d702dbf66d0716f8631ea.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d798af7e9de04eb902533d427cf3cede.jpg)
+![Satu-satunya Petualangan Udara Keluarga di Bali](https://images.gobaligo.id/vocus/vocus_d798af7e9de04eb902533d427cf3cede.jpg)
 
 ## **Momen Ajaib Saat Senja**
 
 Kami pilih jadwal favorit: **penerbangan senja pukul 17:30**. Saat api “whoosh” menyembur, si kecil kaget dan merapat ke dada Papa, tapi detik berikutnya langsung tertawa geli karena sensasi naik. Dari ketinggian 50 meter, sawah Ubud terlihat seperti dilapisi emas di bawah sinar matahari sore, Gunung Agung di kejauhan tampak samar-samar di senja. Suamiku memelukku dengan satu tangan, tangan satunya melindungi si kecil yang menjulurkan kepala. Pemandangan Bali dari sini, beneran beda!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_744e80db7118b1ac94e5824e71a6c7a2.jpg)
+![Momen Ajaib Saat Senja](https://images.gobaligo.id/vocus/vocus_744e80db7118b1ac94e5824e71a6c7a2.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_11a27578173ce42535d398d29a100f31.jpg)
+![Momen Ajaib Saat Senja](https://images.gobaligo.id/vocus/vocus_11a27578173ce42535d398d29a100f31.jpg)
 
 ## **Layanan Spesial buat Keluarga**
 

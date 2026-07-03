@@ -28,7 +28,7 @@ _srcHash: 265d2d39f7fd19f5bc0dc17a935ebc36
 
 When visiting Indonesia or Bali, you definitely can't miss the authentic local cuisine. These are the must-try foods of Indonesia/Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e2ddcde23d6a0567f42e35a6547d104c.jpg)
+![Indonesia/Bali Must-Try Popular Foods Bali's Must-Eat Street](https://images.gobaligo.id/vocus/vocus_e2ddcde23d6a0567f42e35a6547d104c.jpg)
 
 Watch the video introduction
 

@@ -53,7 +53,7 @@ Kami tidak ingin langsung menaikkan harga dasar sewa, karena itu tidak adil bagi
 
 > Dengan cara ini, kalian tetap bisa melihat tarif sewa yang jelas seperti dulu, dan kami bisa mendapat kompensasi untuk biaya BBM yang memang sudah mahal.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
+![Cara Perhitungan Biaya Baru (Diputuskan Bersama oleh Para Dr](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
 
 ## 📅 Tanggal Berlaku & Siapa yang Terkena
 

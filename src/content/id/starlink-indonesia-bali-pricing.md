@@ -24,7 +24,7 @@ _srcHash: d6a740a675710987818b3e52c7aeade4
 
 Starlink, layanan internet satelit milik Elon Musk, akhirnya resmi beroperasi di Indonesia. Ini adalah perubahan besar bagi pasar internet di Indonesia. Sebagai layanan internet berbasis satelit, Starlink bertujuan memberikan kecepatan tinggi, latensi rendah, dan jangkauan luas, terutama di daerah yang sulit dijangkau oleh layanan internet tradisional.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d80b8733ea687ed1824f15698fdb22a7.jpg)
+![Starlink Masuk ke Indonesia/Bali｜Berapa Sebulan? Cara Order?](https://images.gobaligo.id/vocus/vocus_d80b8733ea687ed1824f15698fdb22a7.jpg)
 
 ## **Apa Itu Starlink?**
 
@@ -46,7 +46,7 @@ Karena berbasis satelit, Starlink bisa menjangkau daerah terpencil dan pedesaan 
 
 ## **Tiga Paket Starlink di Indonesia**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1028050853b28dee096aa9f86ada818.png)
+![Tiga Paket Starlink di Indonesia](https://images.gobaligo.id/vocus/vocus_a1028050853b28dee096aa9f86ada818.png)
 
 ### Paket Residensial
 
@@ -60,7 +60,7 @@ Paket Jelajah seharga Rp990.000 per bulan, khusus buat kamu yang sering travelin
 
 Paket Kapal ditujukan buat pengguna di atas kapal, menyediakan koneksi global dengan biaya bulanan Rp4.345.000 dan kuota 50 GB. Ada juga pilihan premium dengan biaya Rp17.160.000 per bulan (kuota 1 TB).
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ebd499392b68335bf3dd648e11a14cac.png)
+![Paket Kapal](https://images.gobaligo.id/vocus/vocus_ebd499392b68335bf3dd648e11a14cac.png)
 
 ## **Perangkat Keras Starlink**
 
@@ -106,7 +106,7 @@ Ke depannya, Starlink berencana luncurin lebih banyak satelit buat ningkatin kua
 
 ## **Pertanyaan yang Sering Diajukan**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4ab8901d91d52527524ab1a4f42631d7.png)
+![Pertanyaan yang Sering Diajukan](https://images.gobaligo.id/vocus/vocus_4ab8901d91d52527524ab1a4f42631d7.png)
 
 1. **Seberapa cepat sih internet Starlink?**
 2. - Rata-rata kecepatan download bisa tembus 100-200 Mbps. Kalahin semua provider internet di Indonesia, bro!

@@ -27,7 +27,7 @@ _srcHash: 7f9be073f53d8674cc4d1e70ae74b712
 
 根据印尼移民总局的最新公告，您的印尼电子落地签证（eVisa/e-VoA）一旦申请并核发后，**可否修改取决于错误的字段**。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7fbe71f8afe8094370bc8e00d775dc60.png)
+![最新规定请注意：](https://images.gobaligo.id/vocus/vocus_7fbe71f8afe8094370bc8e00d775dc60.png)
 
 ## **关键资料错误：无法修改，必须重新申请**
 
@@ -59,7 +59,7 @@ _srcHash: 7f9be073f53d8674cc4d1e70ae74b712
 3. **非关键资料错误：** 如果是性别、出生地等次要信息错误，您可以衡量风险。虽然官方表示仍可使用，但为求心安，特别是若您的行程紧凑或有重要商务安排，建议仍重新申请一份。
 4. **联系官方管道：** 若您有任何疑问，建议直接通过印尼移民总局的官方联系方式寻求协助。但请注意，根据目前规定，他们也无法为您修改已核发的eVisa上的关键资料。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ee608e06a5095bab9988e48785dd299.png)
+![处理步骤总结](https://images.gobaligo.id/vocus/vocus_6ee608e06a5095bab9988e48785dd299.png)
 
 ## **重要提醒：**
 

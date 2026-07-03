@@ -31,7 +31,7 @@ _srcHash: 27a6cacd9d7903d1b48737a38430438f
 
 Terletak di pesisir selatan, cuma sekitar 30 menit dari bandara, Seminyak adalah pusat beach club kece, kawasan belanja yang rame, dan deretan tempat makan hits. Di sini, kehidupan kota berpadu serasi dengan vibe pantai yang santai dan villa-villa mewah — ini adalah kota wisata paling trendi, kekinian, dan seru di pulau ini.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_801e028b3cc35fdd2fdf8edbe6a9eb0d.jpg)
+![【2026 Seminyak一日遊】Bali最時髦城鎮攻略：從網美早午餐、精品購物到奢華海景夕陽](https://images.gobaligo.id/vocus/vocus_801e028b3cc35fdd2fdf8edbe6a9eb0d.jpg)
 
 Kalau Canggu lebih menarik anak muda yang suka makanan murah dan musik dansa mainstream, Seminyak justru jadi magnet buat mereka yang doyan liburan kelas atas. Area ini terkenal dengan standar tinggi dan gaya khasnya yang beda jauh dari daerah lain di Bali. Minuman dari bartender profesional dijamin kualitasnya oke punya. Klub dan bar di sini mainin musik dari elektronik, house, jazz, reggae, lagu pop, sampai rock lawas. Kamu bakal lihat ada yang asyik joget di lantai dansa, ada juga tamu elegan yang santai menikmati malam.
 
@@ -122,7 +122,7 @@ https://youtu.be/RodQvCZKwD0
 
 ## Nikmati Pesta Kuliner & Budaya
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_33178d4decc68d64f632191f4c37c918.png)
+![Nikmati Pesta Kuliner & Budaya](https://images.gobaligo.id/vocus/vocus_33178d4decc68d64f632191f4c37c918.png)
 
 Nikmati makan malam Bali asli dan pertunjukan budaya di tengah taman yang hijau. Cicipi kelezatan prasmanan malam Bali, saksikan tarian Bali, Tari Barong, dan pertunjukan api — malam yang indah banget. Ajak teman atau orang tersayang, dan ciptakan pengalaman makan yang tak terlupakan di sini!
 

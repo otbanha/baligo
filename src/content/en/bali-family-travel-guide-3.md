@@ -85,7 +85,7 @@ This couple is always on the go. With their children grown up and either working
 
 Once the elders relax, a family trip is half successful, so I highly recommend this couple. If you're planning a trip to Bali, consider them. (Contact info at the end of the article.)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cd6bb25d8811027023b8a4df960278b0.png)
+![Private Car Charter Experience](https://images.gobaligo.id/vocus/vocus_cd6bb25d8811027023b8a4df960278b0.png)
 
 ### **Taxis and Traffic Conditions**
 
@@ -123,7 +123,7 @@ Since this trip was all about relaxing and unwinding, I focused on booking villa
 
 In Bali, the more luxurious the villa, the more remote its location tends to be, often sacrificing the convenience of staying in town. So, based on my family's personalities and needs, I tried to strike a balance between "luxury" and "convenience." The villas I booked were all in areas where Grab food delivery or taxis were easy to come by, ensuring we could handle meals and transportation whenever needed.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_16220458feb59e44fa83e1669a7981f0.jpg)
+![Latest Update: December 2025](https://images.gobaligo.id/vocus/vocus_16220458feb59e44fa83e1669a7981f0.jpg)
 
 That said, this stay taught me a few lessons. Villa designs in Bali often feature open-air or semi-outdoor living spaces—like the living room, dining area, and kitchen—to bring guests closer to nature. While this setup feels wonderfully resort-like, it also means more bugs, which was tough for someone like me who's a mosquito magnet. Next time, I'll be more careful to choose villas with air-conditioned, enclosed common areas, so I can enjoy a comfortable environment without the bug problem.
 
@@ -215,7 +215,7 @@ This time in Ubud, I tried the Deep Tissue Massage at Nata Spa. The pressure was
 
 ### Surprising Discovery: Hot Bamboo SPA
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c72ed5775df8b39abb816fd5c7abd11d.jpg)
+![Surprising Discovery: Hot Bamboo SPA](https://images.gobaligo.id/vocus/vocus_c72ed5775df8b39abb816fd5c7abd11d.jpg)
 
 Once in Canggu, I started searching for nearby massage places and stumbled upon 'Hot Bamboo SPA.' After reading the reviews, I was immediately drawn to its uniqueness. They offer a massage using warm bamboo, hence the name 'Hot Bamboo.' The reviews were overwhelmingly positive, especially regarding the pressure—claimed to be the most intense in Bali.
 
@@ -265,7 +265,7 @@ If you’re planning a trip to Bali with seniors and kids, this couple is defini
 
 ### Ani’s Contact Info:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bd53e832ee785ea764ee8e285404bdf0.jpg)
+![Ani’s Contact Info:](https://images.gobaligo.id/vocus/vocus_bd53e832ee785ea764ee8e285404bdf0.jpg)
 
 Line: agussolihin72
 

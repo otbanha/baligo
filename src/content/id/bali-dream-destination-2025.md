@@ -31,7 +31,7 @@ _srcHash: 200f517e1a3643e313db8f5ce785b615
 
 Menurut survei Go2Africa, Bali menjadi destinasi impian paling populer dengan lebih dari 2,28 juta pencarian, mantap di puncak.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d4ba57e219f9b6e16abe1a7812239161.jpg)
+![Bali: Jumlah Pencarian Tembus 2,28 Juta Kali](https://images.gobaligo.id/vocus/vocus_d4ba57e219f9b6e16abe1a7812239161.jpg)
 
 Analis bilang, Bali punya daya tarik yang super beragam — cocok buat bulan madu, petualangan, pengalaman budaya, liburan keluarga, seru-seruan bareng anak, sampai surfer profesional. Semua bisa nemu yang cocok di sini. Selain itu, Bali juga dianggap sebagai pusat spiritual, jadi banyak traveler yang datang buat healing dan pencarian jiwa.
 
@@ -145,7 +145,7 @@ Buat liburan singkat, traveler dari beberapa negara kayak Singapura, Malaysia, H
 
 ## 📩 **Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Bali!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Ba](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

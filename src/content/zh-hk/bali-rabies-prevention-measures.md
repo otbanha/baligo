@@ -36,7 +36,7 @@ _srcHash: 75c8dfc8e69ee17304b86178c70eeae3
 
 喺烏布嘅猴林或者烏魯瓦圖廟等景點，遊客成日會同啲猴子互動。不過，呢啲野生動物都有可能帶有狂犬病毒，所以建議唔好餵食、摸或者行得太近。同動物保持距離，係預防疾病傳播嘅重要步驟。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7ecdb7478b9ea22d445e3af5411b84df.jpg)
+![猴子亦可能成為病毒媒介](https://images.gobaligo.id/vocus/vocus_7ecdb7478b9ea22d445e3af5411b84df.jpg)
 
 ## **專家努力下，峇里島依然係安全嘅旅遊天堂**
 

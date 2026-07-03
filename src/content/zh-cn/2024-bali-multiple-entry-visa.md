@@ -17,7 +17,7 @@ lang: zh-cn
 _srcHash: 7d7957e20b95631318a66ccdab2f0bdf
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_75a017bcc23776bfdf405a8361b72773.jpg)
+![巴厘岛D1多次入境签证：2024年最新巴厘岛签证更新](https://images.gobaligo.id/vocus/vocus_75a017bcc23776bfdf405a8361b72773.jpg)
 
 巴厘岛一直是旅游者的热门目的地，而签证问题一直是许多人关注的焦点。在这篇文章中，我们将探讨巴厘岛2024年开始的最新 [Multiple Entry Visa 多次入境签证] (D1签证)，并解释如何获得这种签证以及其相关条件。
 
@@ -38,7 +38,7 @@ D1签证一次的有效期限为60天，可延长两次，因此可以得到 60 
 3. 最近三个月的银行账单，余额不低于2000美元。
 4. 背景为单色墙的清晰照片，确保自拍照片清晰可见。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7867ad9edfc76e26bbc9392e89cde713.png)
+![D1签证相关条件](https://images.gobaligo.id/vocus/vocus_7867ad9edfc76e26bbc9392e89cde713.png)
 
 **预订、省钱就看这里：**
 

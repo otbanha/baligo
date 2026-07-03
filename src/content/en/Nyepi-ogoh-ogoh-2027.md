@@ -35,7 +35,7 @@ Bali Nyepi Day is one of the island's most unique and sacred festivals. In an in
 
 Bali Nyepi 2027 Timeline Reminder
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780156597160-mixcollage-30-may-2026-10-55-pm-1082.jpg)
+![First, Get the Timeline Right (Super Important!)](https://images.gobaligo.id/images/2026-05/1780156597160-mixcollage-30-may-2026-10-55-pm-1082.jpg)
 
 ### Starting Afternoon of March 8th
 
@@ -80,7 +80,7 @@ This is the highlight of the night before Nyepi! Giant, colorful (and sometimes 
 4. **Ubud: Central / near Ubud Palace or Monkey Forest** – More cultural and artistic. The parade is relatively elegant and theatrical, ideal for those seeking a deeper experience. The area around Peliatan Royal Palace is also bustling.
 5. **Other chill spots: Sanur (near McDonald's), Canggu (Batu Bolong & Berawa), Kerobokan (Lio Square)** – If you're staying in these areas, just step out of your hotel to catch a local community version—more intimate and less crowded.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_973019ee2bd0d68dc174e5e569c030a0.png)
+![Best Viewing Spots (from the most spectacular to more chill)](https://images.gobaligo.id/vocus/vocus_973019ee2bd0d68dc174e5e569c030a0.png)
 
 **Quick tip**: Many areas start road closures in the afternoon, so Grab or taxis may not be able to get through. It's best to arrange a private driver in advance or walk. After the parade, some Ogoh-ogoh are burned, creating heavy smoke—wear a mask or stay upwind.
 
@@ -111,7 +111,7 @@ During Nyepi, you can't go anywhere, so choosing the right resort is ten times m
 
 ### 🏆 AYANA Bali (Jimbaran) – The Ultimate Nyepi Experience
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780156879456-rock-bar-bali-3-1024x1024_large.jpeg)
+![AYANA Bali (Jimbaran) – The Ultimate Nyepi Experience](https://images.gobaligo.id/images/2026-05/1780156879456-rock-bar-bali-3-1024x1024_large.jpeg)
 
 The top recommendation, no contest. AYANA's Nyepi program is a complete three-day package—on the evening of March 8th, they host their signature Ogoh-ogoh parade with two giant statues representing destruction and renewal, creating an incredibly ceremonial atmosphere. When the Day of Silence begins, sunrise yoga, aqua pilates, qigong, sound therapy, singing bowl baths, and mindfulness meditation rotate throughout the day, filling nearly every hour.
 
@@ -129,7 +129,7 @@ The top recommendation, no contest. AYANA's Nyepi program is a complete three-da
 
 ### 🌿 Four Seasons Bali (Jimbaran Bay) – Culture Meets Family Fun
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780157440412-445066142_858533772982574_1049567968307874559_n.jpeg)
+![Four Seasons Bali (Jimbaran Bay) – Culture Meets Family Fun](https://images.gobaligo.id/images/2026-05/1780157440412-445066142_858533772982574_1049567968307874559_n.jpeg)
 
 The Four Seasons at Jimbaran Bay is renowned for its grand Ogoh-ogoh parade. The kids' club offers puppet-making, gentle yoga, storytelling, and more, catering to both adults and children.
 
@@ -141,7 +141,7 @@ The Four Seasons at Jimbaran Bay is renowned for its grand Ogoh-ogoh parade. The
 
 ### 🤫 The Apurva Kempinski Bali (Nusa Dua) — The Most Profound Silent Retreat
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780158026812-543684014.jpg)
+![The Apurva Kempinski Bali (Nusa Dua) — The Most Profound Sil](https://images.gobaligo.id/images/2026-05/1780158026812-543684014.jpg)
 
 If you see Nyepi as a true spiritual retreat rather than just being 'stuck in the hotel,' the Apurva Kempinski's 'MAUNA: The Art of Silence' program is designed for you. Centered on four pillars—mindfulness, movement, nourishment, and sleep—it spans sacred ceremonies, meditation, and sleep workshops, leaving you feeling like you've completed a full mind-body detox after three days. Add in the stunning ocean-facing architecture, and the energy is unmatched.
 

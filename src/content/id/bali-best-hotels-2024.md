@@ -38,7 +38,7 @@ lang: id
 _srcHash: 38ce7a6d342cc0f7b494b292601adf59
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eeb44772338cef2351250be97f6b6087.jpg)
+![Bali kembali jadi sorotan dunia! Hotel terbaik 2024 diumumka](https://images.gobaligo.id/vocus/vocus_eeb44772338cef2351250be97f6b6087.jpg)
 
 ### **Adiwana Suweta dan Padma Resort Ubud Masuk 10 Besar Dunia**
 
@@ -50,7 +50,7 @@ Berbeda dengan ajang "World's 50 Best Hotels" yang dinilai oleh juri profesional
 
 ## **Adiwana Suweta — Surga Boutique yang Tenang di Ubud**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_108df877bd7660fc575238c51ab89cac.jpg)
+![Adiwana Suweta — Surga Boutique yang Tenang di Ubud](https://images.gobaligo.id/vocus/vocus_108df877bd7660fc575238c51ab89cac.jpg)
 
 **Adiwana Suweta** terletak di Ubud, sebuah hotel butik yang menyatu sempurna dengan alam. Tempat ini dirancang sebagai destinasi liburan yang bikin kamu benar-benar rileks, dikelilingi oleh rimbunnya pepohonan hijau dan udara tropis yang segar — suasananya aja udah cukup buat ngilangin semua penat dan stres perjalanan.
 
@@ -58,21 +58,21 @@ Berbeda dengan ajang "World's 50 Best Hotels" yang dinilai oleh juri profesional
 
 ✅ **Kolam renang tanpa batas (infinity pool)** — menghadap ke hutan dan sawah yang memukau. Pagi hari, kabut tipis menyelimuti bumi; sore hari, kamu bisa menikmati sisa cahaya matahari dan suara jangkrik yang berpadu jadi simfoni alam.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f1bb5865b683d7395cfc793e926a3c3.jpg)
+![Keunggulan & Daya Tarik](https://images.gobaligo.id/vocus/vocus_9f1bb5865b683d7395cfc793e926a3c3.jpg)
 
 ✅ **Lingkungan hijau yang damai** — cocok buat meditasi, yoga, atau sekadar duduk santai sambil menikmati pelukan alam.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_31b4356e43a85d5f810631821852e3e6.jpg)
+![Keunggulan & Daya Tarik](https://images.gobaligo.id/vocus/vocus_31b4356e43a85d5f810631821852e3e6.jpg)
 
 ### **🏯 Arsitektur & Desain**
 
 Adiwana Suweta **memadukan gaya minimalis modern dengan tradisi Bali** secara apik. Semua vila dan suite dibuat dari material alami seperti kayu jati, batu vulkanik, dan furnitur anyaman rotan, menciptakan nuansa elegan yang selaras dengan alam.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b15e282e4cc041dade52be72e40baf80.jpg)
+![Arsitektur & Desain](https://images.gobaligo.id/vocus/vocus_b15e282e4cc041dade52be72e40baf80.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_33df37ab142d0ed4cc32aa45243b3b91.jpg)
+![Arsitektur & Desain](https://images.gobaligo.id/vocus/vocus_33df37ab142d0ed4cc32aa45243b3b91.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1011fa3499b530b7fc6928a9c2a7690a.jpg)
+![Arsitektur & Desain](https://images.gobaligo.id/vocus/vocus_1011fa3499b530b7fc6928a9c2a7690a.jpg)
 
 ### **🍽 Pengalaman Kuliner**
 
@@ -82,13 +82,13 @@ Restoran **Elys Kitchen** di hotel ini menyajikan masakan Indonesia dengan sentu
 
 Sejak dibuka tahun 2021, Adiwana Suweta langsung jadi **favorit para travel blogger dan influencer**, bahkan menarik beberapa tokoh internasional untuk liburan (meski hotel merahasiakan identitas tamu selebriti). Bahkan bintang R&B Amerika, **Usher**, pernah bilang saat liburan di Bali: "Ini momen paling bahagia dalam hidupku!"
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ed8803c0d358d2ef9abedf6efaceda22.jpg)
+![Surga Liburan Idola Selebriti](https://images.gobaligo.id/vocus/vocus_ed8803c0d358d2ef9abedf6efaceda22.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c9c4173fee5ed61e3e0fbb3bc83190e0.jpg)
+![Surga Liburan Idola Selebriti](https://images.gobaligo.id/vocus/vocus_c9c4173fee5ed61e3e0fbb3bc83190e0.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d5f7d3494fa5a96a55801f9b654d6f66.jpg)
+![Surga Liburan Idola Selebriti](https://images.gobaligo.id/vocus/vocus_d5f7d3494fa5a96a55801f9b654d6f66.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c266aff0aff0f378c309761e50112ec1.jpg)
+![Surga Liburan Idola Selebriti](https://images.gobaligo.id/vocus/vocus_c266aff0aff0f378c309761e50112ec1.jpg)
 
 ### **💰 Referensi Harga Kamar**
 
@@ -102,27 +102,27 @@ Lihat rekomendasi hotel Ubud lainnya: [Akomodasi Unik di Ubud, Nikmati Petualang
 
 Kalau Adiwana Suweta lebih ke suasana tenang, **Padma Resort Ubud ini beda banget—destinasi liburan seru yang penuh energi**, cocok banget buat liburan keluarga.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_10707485329bc50ff4b3928871c8927d.jpg)
+![Padma Resort Ubud——Surga Liburan Keluarga](https://images.gobaligo.id/vocus/vocus_10707485329bc50ff4b3928871c8927d.jpg)
 
 Di sini fasilitasnya lengkap banget, mulai dari:
 
 ✅ Kolam renang infinity super besar
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_15f97804182358ad7ab96973b8f6b901.jpg)
+![Padma Resort Ubud——Surga Liburan Keluarga](https://images.gobaligo.id/vocus/vocus_15f97804182358ad7ab96973b8f6b901.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6605cd26d9b9a6b20be1ee55b1f7ac2d.jpg)
+![Padma Resort Ubud——Surga Liburan Keluarga](https://images.gobaligo.id/vocus/vocus_6605cd26d9b9a6b20be1ee55b1f7ac2d.jpg)
 
 ✅ Kebun binatang mini
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0e775adcd037a3cfbdf29ccc56896d9e.jpg)
+![Padma Resort Ubud——Surga Liburan Keluarga](https://images.gobaligo.id/vocus/vocus_0e775adcd037a3cfbdf29ccc56896d9e.jpg)
 
 ✅ Klub anak-anak
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a96c93e8ce82a8548154e34510af9cfb.jpg)
+![Padma Resort Ubud——Surga Liburan Keluarga](https://images.gobaligo.id/vocus/vocus_a96c93e8ce82a8548154e34510af9cfb.jpg)
 
 ✅ Kelas Yoga
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f261e6157d9d07d3dd856beb0ba531f3.jpg)
+![Padma Resort Ubud——Surga Liburan Keluarga](https://images.gobaligo.id/vocus/vocus_f261e6157d9d07d3dd856beb0ba531f3.jpg)
 
 ✅ Restoran mewah beberapa pilihan
 
@@ -130,19 +130,19 @@ Di sini fasilitasnya lengkap banget, mulai dari:
 
 ✅ Taman petualangan hutan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0ebee93ea22de280f09ba27748a4d68e.jpg)
+![Padma Resort Ubud——Surga Liburan Keluarga](https://images.gobaligo.id/vocus/vocus_0ebee93ea22de280f09ba27748a4d68e.jpg)
 
 ### **🏡  Ruangan Luas, Nyaman Banget**
 
 Resort ini punya **area yang super luas**, jadi meskipun lagi musim ramai, kamu nggak bakal merasa sesak. Kamu bisa jalan-jalan di jalur hutan, berinteraksi dengan rusa di mini zoo, atau meditasi di teras yang menghadap lembah — pokoknya nikmatin banget ketenangan dan keindahan Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a171ec61f7f4d79ddb0eb32f22c5f04.jpg)
+![Ruangan Luas, Nyaman Banget](https://images.gobaligo.id/vocus/vocus_9a171ec61f7f4d79ddb0eb32f22c5f04.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_32163a18e498abbadd24ae4eef26de11.jpg)
+![Ruangan Luas, Nyaman Banget](https://images.gobaligo.id/vocus/vocus_32163a18e498abbadd24ae4eef26de11.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2c2ce81267ba85db5dea36c65d41d1a0.jpg)
+![Ruangan Luas, Nyaman Banget](https://images.gobaligo.id/vocus/vocus_2c2ce81267ba85db5dea36c65d41d1a0.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f465d276c615a2d77f5d17a7548b0f95.jpg)
+![Ruangan Luas, Nyaman Banget](https://images.gobaligo.id/vocus/vocus_f465d276c615a2d77f5d17a7548b0f95.jpg)
 
 ### **🎭  Arsitektur & Gaya**
 
@@ -166,7 +166,7 @@ Sejak buka tahun 2015, Padma Resort Ubud terus meraih penghargaan **Resor Ramah 
 
 Tempat ini juga jadi pilihan utama banyak **fotografer, travel blogger, dan bintang Hollywood**. Tapi resor ini sangat menjaga privasi, jadi mereka nggak pernah ngungkapin identitas tamu terkenal.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_11f7f2760451df535b5ef10579243b5d.jpg)
+![Spot Rahasia Favorit Selebriti](https://images.gobaligo.id/vocus/vocus_11f7f2760451df535b5ef10579243b5d.jpg)
 
 ### **💰 Harga Kamar**
 
@@ -212,7 +212,7 @@ Adiwana Suweta lebih cocok buat bulan madu, karena punya vila pribadi dan suasan
 
 ## Lebih Banyak Rekomendasi Makan & Main di Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
+![Lebih Banyak Rekomendasi Makan & Main di Ubud](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
 Ubud adalah pusat seni dan budaya Bali, terkenal dengan sawah terasering yang hijau, hutan yang tenang, dan tradisi yang dalam banget. Di sini ada kuil-kuil keren, pasar seni yang memikat, serta pengalaman yoga dan meditasi yang bikin rileks. Cocok banget buat kamu yang mau melepas penat. Mau eksplorasi tradisi lokal, nikmatin alam, atau coba aktivitas outdoor seru plus kuliner dan pemandangan kece — Ubud bakal kasih pengalaman yang beda! Mau tahu lebih banyak tips Ubud? [Klik di sini](/blog/ubud-guide/).
 

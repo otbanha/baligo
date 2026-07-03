@@ -20,7 +20,7 @@ _srcHash: 00a90d074e596c0d5891a07f756136e5
 
 峇里島作為旅遊勝地，同樣適合年長者前來探索。對長輩嚟講，呢度有好多令人心曠神怡嘅魅力所在。峇里島嘅自然景觀既壯麗又舒緩，海灘上嘅細軟沙灘同微風拂面，為年長者提供咗放鬆身心嘅絕佳場所。除此之外，峇里島擁有豐富嘅文化傳統，呢種文化氛圍唔單止能夠讓長輩感受到獨特之處，仲能夠讓他們更深入地了解呢個島嶼嘅魅力。峇里島嘅一啲景點亦相對較為溫和且適合放鬆，咁樣嘅環境更符合長者嘅需求。綜合而言，峇里島唔單止擁有吸引年輕人嘅美景與活力，同時亦提供咗適合長輩放鬆身心、感受文化同享受寧靜時光嘅場所。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3a83a08c9cce24c3e2bf4a2b383001f9.png)
+![帶長輩去旅行：適合長者嘅峇里島旅行指南 - 安全、舒適與注意事項](https://images.gobaligo.id/vocus/vocus_3a83a08c9cce24c3e2bf4a2b383001f9.png)
 
 請睇我哋嘅專文：
 
@@ -44,7 +44,7 @@ _srcHash: 00a90d074e596c0d5891a07f756136e5
 
 峇里島嘅另一個優勢係，用簡單嘅英文就可以溝通。呢度嘅好多居民可以用基本嘅英文同遊客溝通，唔需要學習其他特殊嘅語言。對於年長者嚟講，呢種語言上嘅便利性係一大優點，能夠減少溝通上嘅障礙，讓佢哋更輕鬆咁享受旅程，同埋同當地人交流互動。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f273c63bed919ca582fb295da6343c6.png)
+![優點](https://images.gobaligo.id/vocus/vocus_2f273c63bed919ca582fb295da6343c6.png)
 
 ## 缺點
 
@@ -64,7 +64,7 @@ _srcHash: 00a90d074e596c0d5891a07f756136e5
 
 部分景點或活動可能較為適合後生仔參與，對於身體狀況較差或行動不便嘅長者嚟講就唔太適合或者無法參與。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e0e0d2211d282a7dc668cfc7f71b8bf6.png)
+![缺點](https://images.gobaligo.id/vocus/vocus_e0e0d2211d282a7dc668cfc7f71b8bf6.png)
 
 ## 帶長輩旅行注意事項
 
@@ -81,7 +81,7 @@ _srcHash: 00a90d074e596c0d5891a07f756136e5
 - **隨身物品**：隨身腰包帶必需品，例如藥品、護照、銀包等，以防遺失或者隨時使用。
 - **詢問醫師**：若果長輩有慢性病，出發前最好先問吓醫生。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5ed2b7e9ff814fd266633841e5087c92.png)
+![帶長輩旅行注意事項](https://images.gobaligo.id/vocus/vocus_5ed2b7e9ff814fd266633841e5087c92.png)
 
 ## 帶長輩旅行必備物品
 
@@ -98,7 +98,7 @@ _srcHash: 00a90d074e596c0d5891a07f756136e5
 - **便攜式電子產品**：如手機、充電器、相機、尿袋等，以便隨時保持聯繫同記錄旅程。
 - **拐杖椅**：拐杖椅係一個好實用嘅裝備，特別係對於行動不便或者唔可以企耐嘅長輩嚟講。咁樣嘅物品能夠喺行路時作為拐杖，提供支撐，同時喺需要休息或者等候時，佢又可以即刻變成椅，俾長者隨時可以坐低休息。讓長者喺旅途中能夠更加輕鬆自在地享受旅行。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c88609c439e0ad62c560ca0aa3590ca5.png)
+![帶長輩旅行必備物品](https://images.gobaligo.id/vocus/vocus_c88609c439e0ad62c560ca0aa3590ca5.png)
 
 帶年長者去峇里島旅行係一個美好嘅體驗，然而需要謹慎考慮同周全準備！
 

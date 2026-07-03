@@ -21,7 +21,7 @@ _srcHash: 8d44c7e6705c7427084343d58f8e138a
 
 ### Jelajahi Taman Dedari (Taman Bidadari) di Ubud, Bali: Sejarah & Keindahan Alam
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_921321dbf778f7e34410e97542da931c.jpg)
+![Jelajahi Taman Dedari (Taman Bidadari) di Ubud, Bali: Sejara](https://images.gobaligo.id/vocus/vocus_921321dbf778f7e34410e97542da931c.jpg)
 
 Taman Dedari (Taman Bidadari) yang terletak di Ubud, Bali, adalah destinasi wisata baru yang dibuka pada awal tahun 2021. Tempat ini berada di Desa Kedewatan, Kecamatan Ubud, Kabupaten Gianyar, tepatnya di Jalan Raya Kedewatan. Nama 'Dedari' berarti 'bidadari', terinspirasi dari legenda Rsi Markandeya. Konon, saat sang resi bermeditasi di dekat Sungai Ayung, ia menyaksikan pemandangan ajaib para bidadari turun dari langit. Sungai itu pun dinamakan Ayung River, melambangkan keindahan dan kesucian.
 
@@ -29,21 +29,21 @@ Taman Dedari (Taman Bidadari) yang terletak di Ubud, Bali, adalah destinasi wisa
 
 Taman Dedari bukan sekadar taman cantik, tapi juga tempat yang sarat makna sejarah dan budaya. Patung ikonik di dalamnya — Patung Bidadari Dedari — dirancang berdasarkan legenda Rsi Markandeya. Konon, saat bermeditasi, Rsi Markandeya menyaksikan para bidadari turun ke Sungai Ayung, dan itulah asal-usul nama taman ini. Pendirian Taman Dedari bukan cuma untuk tujuan komersial, tapi juga untuk melestarikan dan mempromosikan budaya serta tradisi Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_507d4792f3af26b330c57419a7fe12e2.jpg)
+![Latar Belakang Sejarah & Budaya Taman Dedari](https://images.gobaligo.id/vocus/vocus_507d4792f3af26b330c57419a7fe12e2.jpg)
 
 ### Spot-Spot Kece di Dalam Taman
 
 Taman Dedari berada di kawasan restoran dan hotel The Royal Pita Maha, dengan luas 1,5 hektar di tepi Sungai Ayung. Pemandangan alamnya bikin speechless! Yang paling mencuri perhatian adalah patung Dedari raksasa setinggi 10 meter — bukan cuma karya seni, tapi juga simbol budaya Bali. Selain itu, ada sekitar 50 patung dengan berbagai ukuran: empat patung setinggi 10 meter, empat patung setinggi 5-6 meter, dan sisanya patung kecil. Semuanya berjejer di sepanjang Sungai Ayung, memamerkan keahlian ukir yang luar biasa.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dde72065ebff44d7a848894e3a6637c9.jpg)
+![Spot-Spot Kece di Dalam Taman](https://images.gobaligo.id/vocus/vocus_dde72065ebff44d7a848894e3a6637c9.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_70a9c334b350777948c0603cb9a299e7.jpg)
+![Spot-Spot Kece di Dalam Taman](https://images.gobaligo.id/vocus/vocus_70a9c334b350777948c0603cb9a299e7.jpg)
 
 ### Perpaduan Sempurna antara Alam & Seni
 
 Taman Dedari bukan cuma tempat buat ngapresiasi seni, tapi juga surga buat menikmati keindahan alam. Rindangnya pepohonan, gemericik air sungai — semuanya menampilkan pesona alam Ubud yang khas. Mau foto-foto atau sekadar menikmati suasana, di sini kamu bisa merasakan ketenangan dan keindahan alam yang maksimal. Ada banyak spot foto kece, baik dengan latar belakang bukit hijau yang menjulang maupun patung-patung megah — dijamin hasil fotonya stunning banget!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1862dd5bf57adc27c8b2cc0bc568e380.jpg)
+![Perpaduan Sempurna antara Alam & Seni](https://images.gobaligo.id/vocus/vocus_1862dd5bf57adc27c8b2cc0bc568e380.jpg)
 
 ### Makanan & Santapan Seru
 
@@ -83,7 +83,7 @@ Taman Dedari adalah destinasi unik yang memadukan sejarah, budaya, seni, dan kei
 
 ## Lebih Banyak Rekomendasi Makan & Main di Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
+![Lebih Banyak Rekomendasi Makan & Main di Ubud](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
 [Klik di sini untuk panduan lengkap Ubud!](/blog/ubud-guide/)
 

@@ -23,7 +23,7 @@ lang: id
 _srcHash: 6cf4b1b4a3196b2aaaf951a3c722f361
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ab1c8d7414065034efc9da1640b4bd60.jpg)
+![13 Rekomendasi Kafe & Restoran dengan Pemandangan Gunung Ber](https://images.gobaligo.id/vocus/vocus_ab1c8d7414065034efc9da1640b4bd60.jpg)
 
 Kintamani memang nggak punya pantai, tapi terkenal banget sama pemandangan megah Gunung Batur dan Danau Kintamani — bener-bener dataran tinggi cantik di Bali. Udara sejuk dan panorama kerennya bikin Kintamani jadi tempat paling oke buat ngopi sambil santai! Nih, gue pilihkan 13 kafe dengan pemandangan yang wajib kamu coba, masing-masing punya pesona dan menu andalan sendiri. Yuk, kita lihat! 😊
 
@@ -37,7 +37,7 @@ Kintamani memang nggak punya pantai, tapi terkenal banget sama pemandangan megah
 
 **Rekomendasi Spesial**: Mujair Nyat Nyat (masakan ikan khas Bali), Bali Brew Coffee
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d2dd9af64e7be0e027a233cab63e34a8.jpg)
+![1. Paperhills](https://images.gobaligo.id/vocus/vocus_d2dd9af64e7be0e027a233cab63e34a8.jpg)
 
 Kalau kamu mau ngopi sambil menikmati pemandangan Gunung Batur dan danau yang megah, Paperhills wajib banget jadi pilihan utama! Kafe dengan desain serba putih ini nggak cuma estetik, tapi juga spot foto yang kece. Menu andalannya seperti jamur enoki goreng renyah dan Mujair Nyat Nyat khas Bali bikin nagih.
 
@@ -53,7 +53,7 @@ Kalau kamu mau ngopi sambil menikmati pemandangan Gunung Batur dan danau yang me
 
 **Rekomendasi Spesial**: Mujair Nyat Nyat, Sushi Andalan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_688280bb76d5f3d97abff526591c6b84.jpg)
+![2. El Lago](https://images.gobaligo.id/vocus/vocus_688280bb76d5f3d97abff526591c6b84.jpg)
 
 Yang bikin El Lago unik, setiap lantai punya menu beda. Lantai bawah tanah nyajiin masakan tradisional Indonesia, lantai dua fokus ke sushi — jadi kamu bisa puas cobain berbagai rasa dalam satu tempat. Ditambah pemandangan Kintamani yang ciamik, tempat ini wajib banget kamu kunjungi!
 
@@ -69,7 +69,7 @@ Yang bikin El Lago unik, setiap lantai punya menu beda. Lantai bawah tanah nyaji
 
 **Rekomendasi Spesial**: Kopi Kintamani (kopi lokal), Truffle Fettuccine
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_68c2649ee5203227a89b548fde6cfe9c.jpg)
+![3. Montana Del Cafe](https://images.gobaligo.id/vocus/vocus_68c2649ee5203227a89b548fde6cfe9c.jpg)
 
 Montana Del Cafe adalah kafe yang memanjakan mata dan lidah. Klepon Cake (kue ketan isi gula merah khas Indonesia) di sini cocok banget dipadu sama kopi. Area outdoor-nya juga punya banyak spot foto, jadi tempat ini hidden gem buat kamu yang hobi foto-foto!
 
@@ -83,7 +83,7 @@ Montana Del Cafe adalah kafe yang memanjakan mata dan lidah. Klepon Cake (kue ke
 
 **Rekomendasi Spesial**: Kopi Kintamani, Kopi V60
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e2109ec9558c9b56b214814e845fc383.jpg)
+![4. Akasa Coffee](https://images.gobaligo.id/vocus/vocus_e2109ec9558c9b56b214814e845fc383.jpg)
 
 Di Akasa Coffee, kamu nggak cuma bisa menikmati kopi segar yang di-roasting langsung di tempat, tapi juga bisa duduk hangat dengan selimut yang disediakan sambil ngelihat pemandangan gunung berapi yang megah. Aroma kopi di sini kuat banget, apalagi yang recommended banget adalah Kopi Kintamani dan Kopi Tamarillo.
 
@@ -97,7 +97,7 @@ Di Akasa Coffee, kamu nggak cuma bisa menikmati kopi segar yang di-roasting lang
 
 **Rekomendasi Spesial**: Kopi Kintamani
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6f919d401ba98749a34b60e91f50035a.jpg)
+![5. Eco Bike Coffee](https://images.gobaligo.id/vocus/vocus_6f919d401ba98749a34b60e91f50035a.jpg)
 
 Yang bikin kafe ini beda adalah ada layanan sewa sepeda ramah lingkungan, jadi setelah puas ngopi dan ngemil, kamu bisa lanjut eksplorasi keindahan Kintamani naik sepeda. Kalau datang pagi-pagi, kamu juga bisa dapetin momen sunrise yang keren abis!
 
@@ -111,7 +111,7 @@ Yang bikin kafe ini beda adalah ada layanan sewa sepeda ramah lingkungan, jadi s
 
 **Rekomendasi Spesial**: Mujair Nyat Nyat, Nasi Goreng
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e2e118f1bce8556e7ad8a799e62bc16a.jpg)
+![6. Ritatkala Cafe](https://images.gobaligo.id/vocus/vocus_e2e118f1bce8556e7ad8a799e62bc16a.jpg)
 
 Ritatkala Cafe punya desain outdoor yang unik banget — jalan setapak dari batu putih dipadu kursi payung, bikin kamu santai sambil nyobain Mujair Nyat Nyat khas atau nasi goreng super besar yang porsinya cukup buat 2-3 orang!
 
@@ -125,7 +125,7 @@ Ritatkala Cafe punya desain outdoor yang unik banget — jalan setapak dari batu
 
 **Rekomendasi Spesial**: Coconut Coffee, Mujair Nyat Nyat
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7ada5b76fd91f49716bbd16c1c7d251d.jpg)
+![7. La Vista Coffee & Eatery](https://images.gobaligo.id/vocus/vocus_7ada5b76fd91f49716bbd16c1c7d251d.jpg)
 
 Kafe ini nggak cuma kasih pemandangan kece, tapi juga ada paket glamping! Kalau nginep di sini, pas bangun pagi kamu langsung disuguhi pemandangan gunung berapi yang megah. Makanannya sih andalan kopi kelapa yang hangat dan ikan goreng khas.
 
@@ -139,7 +139,7 @@ Kafe ini nggak cuma kasih pemandangan kece, tapi juga ada paket glamping! Kalau 
 
 **Rekomendasi Spesial**: Shabu Shabu, Sushi Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1f4990a7de7a3e611ead2095f04cfeb6.jpg)
+![8. Mahen Cafe](https://images.gobaligo.id/vocus/vocus_1f4990a7de7a3e611ead2095f04cfeb6.jpg)
 
 Mahen Cafe adalah pilihan premium di daerah Kintamani, cocok buat kamu yang pengin menikmati sushi, hotpot, atau hidangan kelas atas lainnya. Area outdoor-nya luas banget, jadi kamu bisa makan sambil menikmati pemandangan pegunungan yang epik.
 
@@ -153,7 +153,7 @@ Mahen Cafe adalah pilihan premium di daerah Kintamani, cocok buat kamu yang peng
 
 **Rekomendasi Spesial**: Pizza Margherita, Fudgy Brownies
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ebcae692d98b9023680a55b67b59ac6e.jpg)
+![9. Jezera Cafe](https://images.gobaligo.id/vocus/vocus_ebcae692d98b9023680a55b67b59ac6e.jpg)
 
 Jezera Cafe bergaya minimalis dengan jendela besar yang bikin kamu bisa lihat pemandangan Gunung Batur secara langsung tanpa halangan. Dessert-nya kayak Tiramisu dan Brownies bikin para pecinta manis susah move on.
 
@@ -167,7 +167,7 @@ Jezera Cafe bergaya minimalis dengan jendela besar yang bikin kamu bisa lihat pe
 
 **Rekomendasi Spesial**: Carbonara Pasta, Gurame Nyat Nyat
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8698f9a2796cbbc17ae8c2f659da1c8d.jpg)
+![10. Himalila](https://images.gobaligo.id/vocus/vocus_8698f9a2796cbbc17ae8c2f659da1c8d.jpg)
 
 Himalila bukan cuma kafe, tapi juga tempat menginap yang nyaman. Dengan desain ruang yang Instagramable, setiap sudutnya jadi latar foto yang kece.
 
@@ -183,7 +183,7 @@ Himalila bukan cuma kafe, tapi juga tempat menginap yang nyaman. Dengan desain r
 
 **Rekomendasi Spesial:** Makan Siang Prasmanan + Pemandangan Gunung dan Danau
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_58dfead2ca767243e7d7a546370e3aa5.jpg)
+![11. The Amora Bali](https://images.gobaligo.id/vocus/vocus_58dfead2ca767243e7d7a546370e3aa5.jpg)
 
 The Amora Bali adalah salah satu restoran dengan pemandangan paling populer di Kintamani. Mereka punya banyak pilihan prasmanan yang cocok buat seluruh keluarga sambil menikmati pemandangan Gunung Batur dan danau yang megah. Disarankan booking lewat Klook biar dapet harga lebih murah!
 
@@ -199,7 +199,7 @@ The Amora Bali adalah salah satu restoran dengan pemandangan paling populer di K
 
 **Rekomendasi Spesial:** Restoran di dataran tinggi + spot foto IG wajib banget
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b67a6bf3082057d01b13b3696181fe2.jpg)
+![12. Oculus Bali](https://images.gobaligo.id/vocus/vocus_3b67a6bf3082057d01b13b3696181fe2.jpg)
 
 Oculus Bali kasih pengalaman visual yang jarang ada di Kintamani, plus paket makanan yang enak. Disarankan reservasi tempat dari jauh dan manfaatkan voucher diskon!
 
@@ -211,7 +211,7 @@ Oculus Bali kasih pengalaman visual yang jarang ada di Kintamani, plus paket mak
 
 ## 13. Grand Puncak Sari Restaurant - Makan Siang Prasmanan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_549ceb75893adec2b584d1b1a6322ce5.png)
+![13. Grand Puncak Sari Restaurant - Makan Siang Prasmanan](https://images.gobaligo.id/vocus/vocus_549ceb75893adec2b584d1b1a6322ce5.png)
 
 📍 Alamat: Jl. Raya Penelokan, Kintamani, Batur Tengah, Kec. Bangli, Kabupaten Bangli, Bali 80652 + 💲 Rata-rata biaya: Rp 153.500/orang
 

@@ -23,7 +23,7 @@ _srcHash: d7f3fde71789dc874d2ad9b686c30f9c
 ---
 Here’s a guide to celebrating Lunar New Year in Bali in 2025. If you and your family are visiting Bali during the Lunar New Year, you can also experience the festive atmosphere in a foreign land!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_18bd7cbd5a329497c0a6de2563f31473.png)
+![【Must-Save】Guide to Celebrating Lunar New Year in Bali](https://images.gobaligo.id/vocus/vocus_18bd7cbd5a329497c0a6de2563f31473.png)
 
 ---
 
@@ -52,7 +52,7 @@ Bali's Lunar New Year celebrations go beyond just food, offering rich cultural e
 - **Traditional Music and Dance**: At the Kang Xi Temple in Tugu Bali Hotel, visitors can enjoy guzheng performances and lion dances, followed by an 8-course traditional family feast. ([Source](https://blog.tuguhotels.com/lunar-legends-celebrating-the-wood-snake-year-at-the-historic-kang-xi-temple/))
 - **Festive Decorations and Markets**: The streets of Denpasar are adorned with red lanterns and festive decorations, creating a vibrant holiday atmosphere. Traditional handicrafts and holiday gifts can be purchased at the markets. ([Source](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0fdf9297e023a767c306109772cc60c1.png)
+![3. Cultural and Art Activities](https://images.gobaligo.id/vocus/vocus_0fdf9297e023a767c306109772cc60c1.png)
 
 ---
 
@@ -114,7 +114,7 @@ Many luxury resorts and restaurants in Bali are hosting vibrant celebrations, al
 - Price: IDR 400,000/person (excl. tax)
 - Contact: Please refer [here](/blog/mr-lobster-seafood-bali/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f0cbbe41bdf5a551a04e2873a8a52853.png)
+![Kuta / Legian](https://images.gobaligo.id/vocus/vocus_f0cbbe41bdf5a551a04e2873a8a52853.png)
 
 ### Seminyak
 
@@ -237,7 +237,7 @@ The 2025 Lunar New Year celebrations in Bali beautifully blend Chinese tradition
 
 ## 📩 **Join the "Bali Travel Guide" Now and Become a Bali Travel Expert!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Join the "Bali Travel Guide" Now and Become a Bali Travel Ex](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **By subscribing for free, you'll get:**
 

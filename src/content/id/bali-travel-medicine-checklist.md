@@ -22,7 +22,7 @@ lang: id
 _srcHash: aa29e1ab70b925db743e2577f78348c0
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fef7bd48652aa47030dcbfd2f97f36cf.png)
+![Apa aja sih obat-obatan wajib yang harus dibawa pas liburan ](https://images.gobaligo.id/vocus/vocus_fef7bd48652aa47030dcbfd2f97f36cf.png)
 
 Pas baru sampai Bali, beberapa orang mungkin bakal kena diare atau nggak cocok sama lingkungan — ini sering disebut "Bali belly" dalam bahasa Inggris. Kadang, satu keluarga kena semua, sial banget! Ada turis yang sampai harus nginep di hotel berhari-hari, nggak bisa jalan-jalan.
 
@@ -38,7 +38,7 @@ Obat darurat apa aja yang ada di Bali? Bahasa Indonesianya gimana? Cara beli oba
 
 Terus, kalau digigit nyamuk dan gatal banget, rekomendasi obat gatal andalan dari Indonesia: "Minyak Herbal Hijau (Tjing Tjau Balsem, bentuknya kayak salep)". Bisa dipake buat gigitan serangga, sakit kepala, luka gores, mengurangi berbagai rasa sakit, dan segala macam gatal serta gigitan. Efeknya buat ngilangin bengkak dan gatal tuh ajaib banget!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_78d52231e9d18e42ba51fe2efe3ee238.jpg)
+![Apa aja sih obat-obatan wajib yang harus dibawa pas liburan ](https://images.gobaligo.id/vocus/vocus_78d52231e9d18e42ba51fe2efe3ee238.jpg)
 
 Entah buat pencegahan atau antisipasi hal yang nggak terduga, jaga kesehatan itu kunci utama biar liburanmu menyenangkan. Semoga tips ini bikin perjalananmu di Bali aman dan seru!
 

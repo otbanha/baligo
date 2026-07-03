@@ -13,7 +13,7 @@ lang: zh-hk
 _srcHash: dda8b8ebf47372e113d397ef6f9dbf5d
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b1e5967cae6882486fc6485a6b958227.jpg)
+![峇里島親子遊點樣安排？帶小朋友去峇里島 六大玩樂景點 大人細路都開心！](https://images.gobaligo.id/vocus/vocus_b1e5967cae6882486fc6485a6b958227.jpg)
 
 峇里島親子遊點樣安排？帶小朋友去峇里島 六大玩樂景點推薦 峇里島帶小朋友唔使煩惱啦！小傑精選帶小朋友去峇里島嘅親子遊樂景點，等峇里島都成為小朋友嘅玩樂天堂！
 

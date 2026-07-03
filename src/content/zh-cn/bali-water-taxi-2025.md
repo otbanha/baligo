@@ -51,7 +51,7 @@ _srcHash: 5a41da3fd1adbcd5bac7d68aad159644
 
 ## GoBoat 海上出租车路线的细节
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_758cb8328c22d3ffda18f453d04f626c.png)
+![GoBoat 海上出租车路线的细节](https://images.gobaligo.id/vocus/vocus_758cb8328c22d3ffda18f453d04f626c.png)
 
 这条崭新的海上出租车路线将设有三个主要停靠点：
 

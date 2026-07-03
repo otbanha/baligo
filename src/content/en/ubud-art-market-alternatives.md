@@ -25,7 +25,7 @@ lang: en
 _srcHash: 600295c0176e9576547dfc373b850a78
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_90c38ac72764dbb29c604f9b35b3f960.jpg)
+![With Ubud Art Market closed, what are the alternative shoppi](https://images.gobaligo.id/vocus/vocus_90c38ac72764dbb29c604f9b35b3f960.jpg)
 
 **Ubud Art Market**, one of Bali's most famous tourist attractions, has drawn countless visitors to purchase local artworks and handicrafts. However, following a devastating fire last week and its aftermath, this bustling market will remain closed for the near future. The fire occurred on August 17, 2024, destroying the new market building and causing significant impact on the local economy and thousands of vendors.
 
@@ -41,7 +41,7 @@ Commissioner Pol Jansen Avitus Panjaitan, the public relations head of the Bali 
 
 ## **Alternative Shopping Options for Tourists**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b760e753c909251d2d41f17357a8e93d.png)
+![Alternative Shopping Options for Tourists](https://images.gobaligo.id/vocus/vocus_b760e753c909251d2d41f17357a8e93d.png)
 
 Despite the current closure of Ubud Art Market, tourists can still enjoy shopping experiences at other locations in Bali. Our **Ubud Guide Map** offers "[Five Alternatives to Ubud Market](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)," ensuring visitors don't miss out on purchasing local artworks and handicrafts.
 
@@ -59,7 +59,7 @@ This is How to Experience Ubud: [50 Ways to Deeply Explore Ubud | Discover the C
 
 📩 **Join the 'Bali Travel Guide' Blog Now and Become a Bali Travel Expert!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Sign Up for Our Blog](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **By subscribing for free, you'll get:**
 

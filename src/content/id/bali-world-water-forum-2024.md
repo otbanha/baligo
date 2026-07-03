@@ -26,7 +26,7 @@ Sebuah konferensi internasional super gede, 'World Water Forum', bakal digelar d
 
 Acara gede ini pasti bakal berdampak ke daerah sekitar, misalnya lalu lintas di bandara dan jalan raya, serta kebutuhan kamar hotel. Tapi panitia bakal berusaha keras biar acaranya lancar, sambil tetap memasukkan kearifan budaya lokal, misalnya ngajak delegasi ngelihat sistem irigasi dan sawah di Jatiluwih.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8553c25fe7dc3cc7fa673d7ba8aa922a.png)
+![Akhir Mei di Bali bakal rame banget! Lebih dari 50.000 deleg](https://images.gobaligo.id/vocus/vocus_8553c25fe7dc3cc7fa673d7ba8aa922a.png)
 
 Sumber daya air itu penting banget buat destinasi wisata kayak Bali. Isunya mencakup pengelolaan air lokal, polusi plastik di laut, dan lainnya. Semoga konferensi ini bisa bawa strategi baru buat pengelolaan air global.
 

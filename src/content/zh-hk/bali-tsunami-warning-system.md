@@ -20,7 +20,7 @@ _srcHash: 94c8afe74efafac08018fc9ec6959342
 
 峇里島政府近日正式啟用咗全新嘅**海嘯預警與應變系統中心（InaTEWS）**。呢項重大工程係印尼全國「災害韌性發展計劃」嘅一環，由印尼氣象、氣候與地球物理局（BMKG）主導，並獲得世界銀行支持。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_43ca548104ab6c5262edd593b1bb1e00.jpg)
+![峇里島加強防災建設，海嘯預警系統全面升級啟用](https://images.gobaligo.id/vocus/vocus_43ca548104ab6c5262edd593b1bb1e00.jpg)
 
 呢棟新嘅警報中心設於峇里島，唔單止能夠即時監測地震與海嘯，亦將會作為**雅加達總指揮中心嘅備援據點**，一旦發生重大天災，即可快速傳達訊息並啟動應變行動。
 

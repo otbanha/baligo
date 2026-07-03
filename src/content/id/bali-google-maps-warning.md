@@ -34,7 +34,7 @@ Pesan dan hemat, lihat di sini:
 Meskipun Google Maps adalah alat navigasi yang praktis, di tempat kayak Bali, mending tetap waspada dan pertimbangkan pilihan navigasi lain. Ini bisa termasuk minta saran dari penduduk lokal, atau pakai aplikasi navigasi lokal. Ini bisa bantu kamu nemuin tujuan dengan lebih akurat, dan pastiin perjalananmu lancar tanpa hambatan.
 
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e7754da22cf1ad2b6561b833de1a9148.png)
+![Di Bali, jangan percaya Google Maps!](https://images.gobaligo.id/vocus/vocus_e7754da22cf1ad2b6561b833de1a9148.png)
 
 首先，Google地圖可能會顯示錯誤的路線。儘管Google地圖是一個功能強大的導航工具，但在峇里島這樣的地方，它可能會出現一些不準確的路線指示，或是把你導航到連摩托車都無法通行的小巷。這可能是因為地理資訊不完整或者道路建設的變更導致的。因此，當你在峇里島使用Google地圖時，最好還是將它作為參考而不是絕對依賴。
 

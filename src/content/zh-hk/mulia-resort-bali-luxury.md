@@ -54,9 +54,9 @@ _srcHash: 4b0bee0e4213bd68708dc5588ce95336
 
 穆利雅度假村提供一流嘅運動設施，令你喺度假嘅時候都可以保持活力。度假村有設備齊全嘅健身中心，仲有網球場俾你揮灑汗水。如果你鍾意水上運動，度假村提供非機動水上運動，令你喺海上盡情冒險。此外，你可以喺度假村嘅室外游泳池游水，或者喺私人海灘上享受陽光。若果你對潛水有興趣，仲可以參加度假村提供嘅潛水體驗，探索峇里島嘅靚海底世界。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_147ec876f11de5cd52d18f2048685ee6.jpg)
+![豐富嘅運動設施令你保持活力](https://images.gobaligo.id/vocus/vocus_147ec876f11de5cd52d18f2048685ee6.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3886ea278983c995241f888fe171c2f1.jpg)
+![豐富嘅運動設施令你保持活力](https://images.gobaligo.id/vocus/vocus_3886ea278983c995241f888fe171c2f1.jpg)
 
 ### **無微不至嘅便利設施**
 
@@ -70,9 +70,9 @@ _srcHash: 4b0bee0e4213bd68708dc5588ce95336
 
 穆利雅度假村擁有多樣化嘅餐飲設施，滿足你各種口味需求。度假村入面嘅咖啡店同餐廳提供豐富嘅選擇，你可以品嚐到正宗嘅印尼美食同國際料理。除咗喺餐廳用餐，度假村仲提供客房服務，令你喺房間入面輕鬆享用美食。每日嘅自助早餐同歐式早餐為你嘅一日提供美好嘅開始。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a31ef1e83d70eb6959a75d6a79c2e078.jpg)
+![一流嘅餐飲體驗](https://images.gobaligo.id/vocus/vocus_a31ef1e83d70eb6959a75d6a79c2e078.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ca40efc15b6b85ed98ccda46ff7e1666.jpg)
+![一流嘅餐飲體驗](https://images.gobaligo.id/vocus/vocus_ca40efc15b6b85ed98ccda46ff7e1666.jpg)
 
 👉Mulia [五星自助餐美食體驗 USD$ 21.89起](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94019-dining-experience-the-mulia-resort-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5ddeb73f43)
 
@@ -80,11 +80,11 @@ _srcHash: 4b0bee0e4213bd68708dc5588ce95336
 
 穆利雅度假村提供多款豪華客房，令你嘅住宿更加奢華。無論你揀Grandeur Deluxe、Lagoon Access Room，定係Royal Ocean Court View Suite，每間房都有現代化設施，仲有舒服嘅床鋪。呢啲客房唔單止闊落，仲有靚景，等你可以喺假期期間盡情放鬆。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1d42e8a895b02d5507f3ce9175d8a165.jpg)
+![豪華嘅客房選擇](https://images.gobaligo.id/vocus/vocus_1d42e8a895b02d5507f3ce9175d8a165.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1f1895e1d7f0fd99d81da8dc7e232cee.jpg)
+![豪華嘅客房選擇](https://images.gobaligo.id/vocus/vocus_1f1895e1d7f0fd99d81da8dc7e232cee.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e55df0d8776c7671ccd3854434594e2.jpg)
+![豪華嘅客房選擇](https://images.gobaligo.id/vocus/vocus_3e55df0d8776c7671ccd3854434594e2.jpg)
 
 👉[Mulia Resort 空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6532982)
 
@@ -130,7 +130,7 @@ https://www.tiktok.com/@themuliabali/video/7379878015309761797?is_from_webapp=1&
 
 ### 更多努沙杜瓦吃喝玩樂介紹
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
+![更多努沙杜瓦吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
 
 努沙杜瓦（Nusa Dua）係峇里島以豪華度假村出名嘅地區，有潔白嘅沙灘、碧藍嘅海水同完善嘅旅遊設施，係追求高級享受同寧靜假期嘅首選。呢度仲有頂級水療、水上活動，同埋適合一家大細嘅休閒活動，係各類旅客嘅天堂。想知更多努沙杜瓦攻略？[請撳呢度](/blog/nusa-dua-guide/)
 
@@ -140,7 +140,7 @@ https://www.tiktok.com/@themuliabali/video/7379878015309761797?is_from_webapp=1&
 
 穆利雅度假村提供嘅奢華設施同卓越服務令佢物超所值。無論係豪華客房、完善嘅娛樂設施定係一流嘅服務，穆利雅度假村都可以帶嚟無與倫比嘅度假體驗。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_30bd2ff59e0502681dc8f252c98c474b.jpg)
+![價格同價值](https://images.gobaligo.id/vocus/vocus_30bd2ff59e0502681dc8f252c98c474b.jpg)
 
 穆利雅度假村以高品質嘅設施同服務贏咗好多正面評價。客人普遍滿意，仲讚賞酒店員工嘅專業同熱情。無論你想放鬆定係冒險，穆利雅度假村都係你喺峇里島嘅理想選擇。
 
@@ -152,7 +152,7 @@ https://www.tiktok.com/@themuliabali/video/7379878015309761797?is_from_webapp=1&
 
 ## 住客真實評價
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fbe5c8d9366184e5c302970ce5259a43.jpg)
+![住客真實評價](https://images.gobaligo.id/vocus/vocus_fbe5c8d9366184e5c302970ce5259a43.jpg)
 
 呢次係我第一次入住呢間酒店，朝早同朋友一齊參加咗佢哋嘅早間瑜伽班。坐接駁車去到一個面向廣闊草原嘅戶外瑜伽場地，清晨嘅微風輕輕吹，伴住雀仔嘅叫聲，成個過程令人身心放鬆。課程內容唔算難，主要係一啲基本動作，好適合開始新嘅一日。
 
@@ -160,7 +160,7 @@ https://www.tiktok.com/@themuliabali/video/7379878015309761797?is_from_webapp=1&
 
 ***
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a453cc99c786072992ba3e62998ab4d1.jpg)
+![住客真實評價](https://images.gobaligo.id/vocus/vocus_a453cc99c786072992ba3e62998ab4d1.jpg)
 
 由踏入酒店嘅第一刻開始，你就會感受到好似王后咁嘅待遇！服務人員幫手拎行李，入住手續簡單快捷。房間嘅清潔度令人驚艷，枱面同玻璃乾淨到好似新嘅一樣，浴室寬敞光猛，床單一塵不染。
 
@@ -168,7 +168,7 @@ https://www.tiktok.com/@themuliabali/video/7379878015309761797?is_from_webapp=1&
 
 ***
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b657ddd6500f3db4c5b5943ddc057cb6.jpg)
+![住客真實評價](https://images.gobaligo.id/vocus/vocus_b657ddd6500f3db4c5b5943ddc057cb6.jpg)
 
 我哋七日嘅住宿揀咗11月初嘅淡季，成個度假村好寧靜祥和。就算後期入住人數多咗，仍然覺得好舒服，無論係早餐時間定係泳池周圍，都可以享受到足夠嘅私人空間。
 
@@ -176,7 +176,7 @@ https://www.tiktok.com/@themuliabali/video/7379878015309761797?is_from_webapp=1&
 
 喺其他餐廳好似Table 8（中餐）同Edogin（日料）嘅用餐體驗都好令人滿意，價錢合理，質素優良。而我哋最鍾意嘅餐廳係Soleil，佢哋嘅木柴烤披薩同東南亞料理令我哋驚喜不已，完全媲美泰國同越南最好嘅餐廳嘅美味。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4bcfdf917a8ce2ececcbf56925a317e4.jpg)
+![住客真實評價](https://images.gobaligo.id/vocus/vocus_4bcfdf917a8ce2ececcbf56925a317e4.jpg)
 
 設施方面，度假村嘅健身房有先進嘅設備，但好少人用，好適合想靜靜哋做運動嘅旅客。度假村入面嘅多個泳池提供唔同風格嘅選擇，其中Ocean Pool最受歡迎。
 
@@ -188,7 +188,7 @@ https://www.tiktok.com/@themuliabali/video/7379878015309761797?is_from_webapp=1&
 
 ## 更多Nusa Dua五星渡假村介紹
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_61e40f31590a0967d2f549906c95a0c4.jpg)
+![更多Nusa Dua五星渡假村介紹](https://images.gobaligo.id/vocus/vocus_61e40f31590a0967d2f549906c95a0c4.jpg)
 
 **Nusa Dua 係峇里島南部一個著名嘅高級渡假勝地，以寧靜嘅環境、潔白嘅沙灘同世界級嘅奢華體驗聞名。** 如果你正在搵奢華五星級渡假村，Nusa Dua 提供咗好多頂尖選擇，由專屬私人海灘到精緻嘅餐飲同水療，應有盡有。
 

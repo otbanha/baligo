@@ -29,7 +29,7 @@ lang: zh-hk
 _srcHash: 441b04dc04abfec8c551ef6981202764
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_69325ed505e288e110803e6f0e1eccbd.jpg)
+![Alila Villas Uluwatu｜烏魯瓦圖懸崖無邊際泳池頂奢別墅 2026 - Go Bali Go](https://images.gobaligo.id/vocus/vocus_69325ed505e288e110803e6f0e1eccbd.jpg)
 
 ## ✨ **關於Alila Uluwatu：得獎無數嘅建築奇蹟**
 
@@ -43,29 +43,29 @@ _srcHash: 441b04dc04abfec8c551ef6981202764
 
 呢度更加係 **碧咸、安祖蓮娜祖莉** 等巨星低調度假嘅愛店，亦係Instagram上爆紅嘅 **「懸崖婚禮」** 首選地！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a026a6668fd17837c1103d9e4a691334.jpg)
+![關於Alila Uluwatu：得獎無數嘅建築奇蹟](https://images.gobaligo.id/vocus/vocus_a026a6668fd17837c1103d9e4a691334.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8180246c79212254ec2cdceb412758d0.jpg)
+![關於Alila Uluwatu：得獎無數嘅建築奇蹟](https://images.gobaligo.id/vocus/vocus_8180246c79212254ec2cdceb412758d0.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0f64bd7e59e49b34ead68ddd54219215.jpg)
+![關於Alila Uluwatu：得獎無數嘅建築奇蹟](https://images.gobaligo.id/vocus/vocus_0f64bd7e59e49b34ead68ddd54219215.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c500d8872d1dede845df617fd5a02847.jpg)
+![關於Alila Uluwatu：得獎無數嘅建築奇蹟](https://images.gobaligo.id/vocus/vocus_c500d8872d1dede845df617fd5a02847.jpg)
 
 
 ### 🌊 **度假村亮點｜唔止泳池令人尖叫！**
 
 ### **1. 64棟絕景泳池Villa**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361001332-suite_5_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361001785-bathroom_1_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361002160-bathroom.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361002627-suite_1_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361003078-suite_2_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361004208-suite_3_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361004610-suite_4_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361004957-suite_6_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361005442-suite_7_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361006063-suite.jpg)
+![1. 64棟絕景泳池Villa](https://images.gobaligo.id/images/2026-03/1774361001332-suite_5_.jpg)
+![1. 64棟絕景泳池Villa](https://images.gobaligo.id/images/2026-03/1774361001785-bathroom_1_.jpg)
+![1. 64棟絕景泳池Villa](https://images.gobaligo.id/images/2026-03/1774361002160-bathroom.jpg)
+![1. 64棟絕景泳池Villa](https://images.gobaligo.id/images/2026-03/1774361002627-suite_1_.jpg)
+![1. 64棟絕景泳池Villa](https://images.gobaligo.id/images/2026-03/1774361003078-suite_2_.jpg)
+![1. 64棟絕景泳池Villa](https://images.gobaligo.id/images/2026-03/1774361004208-suite_3_.jpg)
+![1. 64棟絕景泳池Villa](https://images.gobaligo.id/images/2026-03/1774361004610-suite_4_.jpg)
+![1. 64棟絕景泳池Villa](https://images.gobaligo.id/images/2026-03/1774361004957-suite_6_.jpg)
+![1. 64棟絕景泳池Villa](https://images.gobaligo.id/images/2026-03/1774361005442-suite_7_.jpg)
+![1. 64棟絕景泳池Villa](https://images.gobaligo.id/images/2026-03/1774361006063-suite.jpg)
 
 * 每間別墅都係**現代峇里島風格**，設備有：
   ✅ 私人泳池/部分無邊際泳池
@@ -75,16 +75,16 @@ _srcHash: 441b04dc04abfec8c551ef6981202764
 
 ### **2. 世界級餐飲體驗**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361095330-restaurant_1_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361095881-restaurant.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361096236-the-warung--v7009636.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361096680-the-warung--v7010079.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361097097-the-warung--v7010097.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361097439-cire_65272817457344bffbd1d9_cire_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361098031-cire-restaurant--v7009653.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361098431-cire-restaurant--v7009757.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361098827-cire-restaurant--v7009933.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361099242-cire-restaurant--v7009963.jpg)
+![2. 世界級餐飲體驗](https://images.gobaligo.id/images/2026-03/1774361095330-restaurant_1_.jpg)
+![2. 世界級餐飲體驗](https://images.gobaligo.id/images/2026-03/1774361095881-restaurant.jpg)
+![2. 世界級餐飲體驗](https://images.gobaligo.id/images/2026-03/1774361096236-the-warung--v7009636.jpg)
+![2. 世界級餐飲體驗](https://images.gobaligo.id/images/2026-03/1774361096680-the-warung--v7010079.jpg)
+![2. 世界級餐飲體驗](https://images.gobaligo.id/images/2026-03/1774361097097-the-warung--v7010097.jpg)
+![2. 世界級餐飲體驗](https://images.gobaligo.id/images/2026-03/1774361097439-cire_65272817457344bffbd1d9_cire_.jpg)
+![2. 世界級餐飲體驗](https://images.gobaligo.id/images/2026-03/1774361098031-cire-restaurant--v7009653.jpg)
+![2. 世界級餐飲體驗](https://images.gobaligo.id/images/2026-03/1774361098431-cire-restaurant--v7009757.jpg)
+![2. 世界級餐飲體驗](https://images.gobaligo.id/images/2026-03/1774361098827-cire-restaurant--v7009933.jpg)
+![2. 世界級餐飲體驗](https://images.gobaligo.id/images/2026-03/1774361099242-cire-restaurant--v7009963.jpg)
 
 🍽️ **The Warung**｜開放式廚房即場整地道峇里島菜
 
@@ -100,7 +100,7 @@ _srcHash: 441b04dc04abfec8c551ef6981202764
 
 > 試下 [Alila Uluwatu SPA體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1052540&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F149732-spa-experience-at-alila-villas-uluwatu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4ffe873d07)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_65b818dd7691344e2a1bfcfd92541364.jpg)
+![3. 其他頂級設施](https://images.gobaligo.id/vocus/vocus_65b818dd7691344e2a1bfcfd92541364.jpg)
 
 * **藝廊+圖書館**：展示印尼當代藝術，免費借閱設計雜誌
 * **隱藏服務**：私人管家代訂 **Sunday Beach Club** 行程（距離5分鐘）
@@ -136,9 +136,9 @@ _srcHash: 441b04dc04abfec8c551ef6981202764
 2. **Villa 38號**：懸崖轉角位，海景構圖最完美
 3. **CIRE餐廳露台**：用廣角鏡頭捕捉「泳池+海洋」層次感
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361285482-sunset_cabana_bar-alila_villas_uluwatu.jpg)
+![影相攻略｜攝影師獨家角度](https://images.gobaligo.id/images/2026-03/1774361285482-sunset_cabana_bar-alila_villas_uluwatu.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361285940-three-bedroom-hillside-villa--v70.jpeg)
+![影相攻略｜攝影師獨家角度](https://images.gobaligo.id/images/2026-03/1774361285940-three-bedroom-hillside-villa--v70.jpeg)
 
 **🔍 實用資訊**
 
@@ -165,7 +165,7 @@ _srcHash: 441b04dc04abfec8c551ef6981202764
 
 ## 住客評論
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b6865db29e0c00795365ff6e10f30941.jpg)
+![住客評論](https://images.gobaligo.id/vocus/vocus_b6865db29e0c00795365ff6e10f30941.jpg)
 
 去過Ayana同其他好多別墅，呢間大概係我哋住過最令人驚嘆嘅別墅。雖然天氣唔係幾好，陰雲密佈仲落雨，但呢啲完全唔影響別墅嘅壯麗景色——佢坐落喺烏魯瓦圖懸崖之巔。每一分錢都使得好值，我哋擁有峇里島最美嘅視野、超正嘅早餐、貼心嘅服務，每次出入別墅房間到主區都有接駁車接送。呢棟別墅空間寬敞而且維護得極好，我哋喺度影咗孕婦相，已經等唔切想睇成品。呢度設施豐富，咖啡館/Cire餐廳就喺主泳池隔籬，我哋同堂兄弟們一邊食早餐，一邊俯瞰懸崖同藍天，呢個絕對係我哋所有人一生難忘嘅體驗。別墅提供嘅咖啡同早餐水準極高，食到喺峇里島最好嘅牛角包。唔使幾耐一定要帶阿媽嚟呢度。滿分10分嘅話，我要俾11分！
 

@@ -24,7 +24,7 @@ lang: zh-cn
 _srcHash: 0caa2742ace25f7c28b674f0719dc484
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e753d11092ea6e75b9d46f601928451.png)
+![巴厘岛雨季旅行指南：这些注意事项让你的行程更顺畅](https://images.gobaligo.id/vocus/vocus_3e753d11092ea6e75b9d46f601928451.png)
 
 巴厘岛以其热带气候和全年阳光普照而闻名，但随着每年的雨季到来，这座岛屿进入了另一种截然不同的季节体验。如果你计划在雨季期间造访巴厘岛，以下信息将帮助你提前做好准备，享受一场无忧的旅行。
 
@@ -71,7 +71,7 @@ _srcHash: 0caa2742ace25f7c28b674f0719dc484
 - **咖啡馆踩店**：雨天是悠闲探索巴厘岛独特咖啡馆的绝佳机会，例如**乌布**的隐秘森林咖啡店。
 - **60项下雨天的备案**：我们也准备了完整的下雨天备案，让你可以在遇到下雨时也不无聊！请看[这里](/blog/2026-bali-indoor-activities/)。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c998b2b80ee7599ccd5311ab3e33b94c.png)
+![3. 灵活选择活动](https://images.gobaligo.id/vocus/vocus_c998b2b80ee7599ccd5311ab3e33b94c.png)
 
 ### **4. 保持警惕并密切关注天气**
 

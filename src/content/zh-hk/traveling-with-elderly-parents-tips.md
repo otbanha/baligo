@@ -17,7 +17,7 @@ _srcHash: 7b2d8e58979744267bfc36ca0ae81a18
 
 ### **1. 體力差異嘅挑戰**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e3af29c3d44c3341f926bc65755d9b29.png)
+![1. 體力差異嘅挑戰](https://images.gobaligo.id/vocus/vocus_e3af29c3d44c3341f926bc65755d9b29.png)
 
 長輩嘅體能狀況多數已經唔及後生仔，一場你認為輕鬆寫意嘅行程，對佢哋可能係身體上嘅巨大負擔。例如，行程安排中如果有大量步行或者爬坡，可能導致長輩疲憊不堪，甚至身體不適。最誇張嘅係曾經有網友分享，佢哋一家人去峇里島嘅金巴蘭海灘睇日落，長輩因為大約十幾米嘅沙地難行，無法靠近海邊，最後選擇坐喺停車場等，令大家都感到無奈。
 
@@ -43,7 +43,7 @@ _srcHash: 7b2d8e58979744267bfc36ca0ae81a18
 
 ## 慘痛經驗分享：長輩唔肯配合嘅案例
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c0d8fb61ba227fd4d75c613228e45179.png)
+![慘痛經驗分享：長輩唔肯配合嘅案例](https://images.gobaligo.id/vocus/vocus_c0d8fb61ba227fd4d75c613228e45179.png)
 
 帶長輩去旅行時，因為生活習慣或者心理落差，成日會出現唔肯配合嘅情況，搞到成個行程陷入僵局。以下幾個真實故事，可能會令好多讀者有共鳴：
 
@@ -91,7 +91,7 @@ _srcHash: 7b2d8e58979744267bfc36ca0ae81a18
 
 ## 如何減少「吃力不討好」嘅狀況？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7d15cb1eb2935e503e5fa653a8b8eb9e.jpg)
+![如何減少「吃力不討好」嘅狀況？](https://images.gobaligo.id/vocus/vocus_7d15cb1eb2935e503e5fa653a8b8eb9e.jpg)
 
 **「帶長輩同遊峇里島」快速參考：**
 
@@ -170,7 +170,7 @@ _srcHash: 7b2d8e58979744267bfc36ca0ae81a18
 
 **建議**：選擇遠離鬧區嘅酒店，例如沙努爾（Sanur）或者金巴蘭（Jimbaran）嘅區域，環境相對安靜舒適。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_df8557ed9dccbc6cfc980f5c4810bf35.png)
+![9. 避免嘈雜環境，保持安靜舒適](https://images.gobaligo.id/vocus/vocus_df8557ed9dccbc6cfc980f5c4810bf35.png)
 
 **快速參考：**
 
@@ -265,7 +265,7 @@ _srcHash: 7b2d8e58979744267bfc36ca0ae81a18
 
 ## 最後嘅提醒：旅途嘅每個時刻都係回憶
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_696668bc21571e4b94503611a5a3bc51.png)
+![最後嘅提醒：旅途嘅每個時刻都係回憶](https://images.gobaligo.id/vocus/vocus_696668bc21571e4b94503611a5a3bc51.png)
 
 雖然帶長輩出國旅行有好多細節要留意，但無論點，呢啲一齊出遊嘅時光可能係未來最珍貴嘅回憶。透過事先準備、耐心溝通、適度妥協，可以令呢段旅程變得更順暢，亦更有意義。不妨放鬆心態，將呢次旅行當作一場「親情修復與維繫之旅」，相信無論過程點樣，回憶都會係甜美嘅！ 😊
 

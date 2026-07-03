@@ -21,15 +21,15 @@ _srcHash: 9c44bd354dd3af2ea17d0987b1b734b7
 
 如果您想更深入了解巴厘岛的文化和精神遗产,不妨花时间探索两处著名的水上宫殿和寺庙 - **Tirta Gangga**和**Pura Tirta Empul**。让我们一起来看看这两个神圣之地的独特魅力。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_daa2c7b876bb63a589fcdb9e5d85154d.jpg)
+![探索巴厘岛的圣泉:从Tirta Gangga到Tirta Empul](https://images.gobaligo.id/vocus/vocus_daa2c7b876bb63a589fcdb9e5d85154d.jpg)
 
 ## Tirta Gangga:宁静的水上宫殿
 
 Tirta Gangga（翻译为：**蒂尔塔冈加水上宫殿**或**恒河圣泉花园**）坐落在巴厘岛东部郁郁葱葱的山丘上,是一座迷人的水上宫殿。这座占地1.2公顷的遗址由Karangasem最后一位国王于1946年建造,融合了巴厘岛和中国的建筑风格。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_366be6165bbc016df666dfe1b6176fbe.jpg)
+![Tirta Gangga:宁静的水上宫殿](https://images.gobaligo.id/vocus/vocus_366be6165bbc016df666dfe1b6176fbe.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8634a1b05ac12f9b0f0f63ba42b0e2f7.jpg)
+![Tirta Gangga:宁静的水上宫殿](https://images.gobaligo.id/vocus/vocus_8634a1b05ac12f9b0f0f63ba42b0e2f7.jpg)
 
 宫殿分为三层,每层都提供独特的体验:
 

@@ -83,7 +83,7 @@ ATV / 漂流泛舟不会翻船
 
 火山看日出 / 黑色火山熔岩
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_068e3f341e55646489c9b84c8f8b19f9.jpg)
+![巴杜尔火山日出吉普车](https://images.gobaligo.id/vocus/vocus_068e3f341e55646489c9b84c8f8b19f9.jpg)
 
   **小建议**：记得穿长袖外套，山顶的清晨气温相当低。我们当时只穿短袖短裤，冷到直发抖，但这段经历却成了我们的难忘回忆。
 
@@ -198,7 +198,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 **门票费用**：150,000 印尼盾
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f7365ccab1629758df838b22b7d55cb3.jpg)
+![海神庙](https://images.gobaligo.id/vocus/vocus_f7365ccab1629758df838b22b7d55cb3.jpg)
 
 早上，我们提早出发以避开交通堵塞，顺利抵达海神庙。这座建筑位于海中岩石上，涨潮时整个寺庙被海水包围，景观非常壮丽，独一无二，是巴厘岛不可错过的地标景点。我们拍了许多照片，感受到了自然与宗教的结合之美。
 
@@ -217,7 +217,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 **低消费用**：每人约 USD$45（可抵餐饮）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9e56de4fed9244834cd98822ed579110.jpg)
+![Rock Bar 岩石酒吧](https://images.gobaligo.id/vocus/vocus_9e56de4fed9244834cd98822ed579110.jpg)
 
 Rock Bar 是巴厘岛最知名的悬崖酒吧之一，坐落于海边悬崖上，可俯瞰整片印度洋。我们下午 5 点抵达，刚好找到很棒的位置，一边欣赏壮丽的日落，一边品尝酒吧的特调饮品。伴随着海浪声与夕阳美景，这里的氛围浪漫到令人难忘。
 
@@ -250,7 +250,7 @@ https://youtube.com/shorts/tHRxnJqxqbw
 
 这段公路两侧是高耸的岩壁，景色壮丽无比，是巴厘岛最美的景点之一，令人叹为观止。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dfb4281a0aa43733669ec08ef1cb4e0b.jpg)
+![蓝色公路](https://images.gobaligo.id/vocus/vocus_dfb4281a0aa43733669ec08ef1cb4e0b.jpg)
 
 🏖️🪨🌊探索蓝色公路悬崖之美，劈开的壮丽景观，随手一拍就是 Instagram 打卡胜地！▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F114124-tanah-barak-cliff-garuda-wisnu-kencana-malini-sunset-tour-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8aad5d46e9)
 
@@ -312,7 +312,7 @@ https://youtu.be/hdIKOX5wghU
 
 您觉得高荣繁他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![结语](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 点击这里观看更多巴厘岛精彩游记
 

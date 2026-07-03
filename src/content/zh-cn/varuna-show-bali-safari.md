@@ -36,7 +36,7 @@ _srcHash: ea81d57c7d96e1e0f4b47860a06c0fc2
 
 位于Gianyar的Marine Safari Bali旁边就是有名的 Bali Safari Park，现在两个园区一起叫做「[Bali Safari and Marine Park](https://www.balisafarimarinepark.com/)」，也就是官方说的「一个目的地，两个世界」
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a852c7ca33d5bd372e588be693151a71.jpg)
+![交通与入园](https://images.gobaligo.id/vocus/vocus_a852c7ca33d5bd372e588be693151a71.jpg)
 
 由于位置不是在闹区，建议大家包车前往。园区比想象中更大，一进门就被热带风情的造景和欢乐的气氛感染。我们提前在Klook购买了[Day Varuna Premium套票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)，虽然价格不菲，但绝对物超所值！
 
@@ -44,7 +44,7 @@ _srcHash: ea81d57c7d96e1e0f4b47860a06c0fc2
 
 套票包含的午餐是在一个精心设计的「海底世界」主题餐厅享用。整个餐厅以蓝色调为主，墙面装饰着珊瑚、海草等海洋元素，搭配特殊灯光效果，让人仿佛置身海底宫殿。餐点是精致的西式套餐，特别推荐他们的巴厘岛特色饮品，孩子们对造型可爱的甜点也爱不释手。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dde920a2ff3ff6a19c243c058206babf.jpg)
+![海底主题餐厅的惊喜](https://images.gobaligo.id/vocus/vocus_dde920a2ff3ff6a19c243c058206babf.jpg)
 
 ## 🎭 Varuna Show 震撼登场
 
@@ -57,11 +57,11 @@ _srcHash: ea81d57c7d96e1e0f4b47860a06c0fc2
 - 舞台机关瞬间转换场景，从珊瑚礁到深海峡谷一气呵成
 - 环绕音效让人身临其境
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a9ec96e68a4dfb925af37572839d993b.jpg)
+![Varuna Show 震撼登场](https://images.gobaligo.id/vocus/vocus_a9ec96e68a4dfb925af37572839d993b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ccc79478004fb80ee3858ecaf2f76d1b.jpg)
+![Varuna Show 震撼登场](https://images.gobaligo.id/vocus/vocus_ccc79478004fb80ee3858ecaf2f76d1b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_71a7166954f577ff3a806abb0a4bff99.jpg)
+![Varuna Show 震撼登场](https://images.gobaligo.id/vocus/vocus_71a7166954f577ff3a806abb0a4bff99.jpg)
 
 ## 📸 与演员合影
 

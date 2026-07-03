@@ -33,7 +33,7 @@ _srcHash: b641998a2b1530297f91cf5a1d464f39
 
 Kalau kamu lagi cari villa di Bali yang privat tapi tetap dekat dengan fasilitas, mewah tapi tetap terasa hangat, **Arpana Luxury Private Pool Villas** wajib masuk wishlist. Villa dengan kolam renang pribadi ini terletak di bukit Jimbaran, baru buka tahun **2024** dan masih hidden gem banget. Ada 10 villa dengan kolam renang pribadi yang tersebar di lereng hijau, jauh dari keramaian tapi cuma 15 menit dari bandara. Cocok buat keluarga atau pasangan yang pengen suasana tenang.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa79ad6da7b57dcb4312b29bdfc6674c.jpg)
+![Villa Bali Baru Dibuka Tahun 2024, Kemewahan Penyembuh di At](https://images.gobaligo.id/vocus/vocus_aa79ad6da7b57dcb4312b29bdfc6674c.jpg)
 
 ## 🗺️ Lokasi: Bukit Sepi yang Jauh dari Hiruk Pikuk, Dekat Bandara tapi Tetap Privat
 
@@ -49,9 +49,9 @@ Seluruh villa ini **baru dibangun tahun 2024**, total ada 10 villa dengan kolam 
 
 Fasilitas umumnya ada **Bar** yang suasananya kece, menyediakan minuman lokal dan internasional, kadang ada live music malam hari. **Restoran**-nya menyajikan masakan China dan Western, dan ada pilihan makanan Halal.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e8dbbb8777395fce324dd243c677363e.jpg)
+![Fasilitas: Kolam Renang Pribadi, Bar, Restoran Lengkap, Park](https://images.gobaligo.id/vocus/vocus_e8dbbb8777395fce324dd243c677363e.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c7260412a94e444f0ecd1d0b247568f7.jpg)
+![Fasilitas: Kolam Renang Pribadi, Bar, Restoran Lengkap, Park](https://images.gobaligo.id/vocus/vocus_c7260412a94e444f0ecd1d0b247568f7.jpg)
 
 Layanan tambahan lainnya:
 
@@ -81,15 +81,15 @@ Setiap vila dilengkapi dengan:
 - Air mineral gratis, teh celup, kopi instan
 - Kulkas besar, peralatan masak dasar, peralatan makan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_627739e780290182670139c3b78b8050.jpg)
+![Tipe Kamar: Vila luas 500 m², cocok untuk 4–6 orang](https://images.gobaligo.id/vocus/vocus_627739e780290182670139c3b78b8050.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c3c17b805695bc614fe0543af09fff6e.jpg)
+![Tipe Kamar: Vila luas 500 m², cocok untuk 4–6 orang](https://images.gobaligo.id/vocus/vocus_c3c17b805695bc614fe0543af09fff6e.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_448270fb7a93df1d319e3f8212339598.jpg)
+![Tipe Kamar: Vila luas 500 m², cocok untuk 4–6 orang](https://images.gobaligo.id/vocus/vocus_448270fb7a93df1d319e3f8212339598.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7912a396041b9cdee3af4e36cdef3ea0.jpg)
+![Tipe Kamar: Vila luas 500 m², cocok untuk 4–6 orang](https://images.gobaligo.id/vocus/vocus_7912a396041b9cdee3af4e36cdef3ea0.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f0d98c68e23ab0980fe4e15fd2ca6fa9.jpg)
+![Tipe Kamar: Vila luas 500 m², cocok untuk 4–6 orang](https://images.gobaligo.id/vocus/vocus_f0d98c68e23ab0980fe4e15fd2ca6fa9.jpg)
 
 Soal harga, semalam sekitar **USD$202–$260 (sekitar NT$6.000–7.600)**, dengan ruang dan kualitas yang ditawarkan, ini termasuk pilihan mewah kelas menengah ke atas yang worth it banget.
 
@@ -118,7 +118,7 @@ Villa ini adalah penemuan baru yang paling bikin saya kagum akhir-akhir ini. Har
 
 > ▶️[**Cek Ketersediaan & Harga Arpana Luxury Private Pool Villas**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=64961377)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8d5ad2e2d7609bc307d6ab558884e63e.jpg)
+![Jujur dari Redaksi](https://images.gobaligo.id/vocus/vocus_8d5ad2e2d7609bc307d6ab558884e63e.jpg)
 
 Jimbaran di Bali punya pantai yang spektakuler dan pemandangan yang bikin takjub. Daerah ini terkenal dengan resort-resort memukau, lengkap dengan pasir pantai keemasan, sunset cantik, dan hotel-hotel mewah. Di sini semuanya ada—mulai dari santai, kuliner, belanja, sampai hiburan—jadi favorit wisatawan. Klik [di sini](/blog/jimbaran-beachfront-hotels-guide/) buat lihat beberapa penginapan tepi pantai terkenal di Jimbaran.
 

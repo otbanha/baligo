@@ -25,7 +25,7 @@ _srcHash: d7fa5f69cb41a838a8c6d9936b3e1955
 ---
 This initiative, launched by the Denpasar Transportation Agency, is specifically designed for the Sanur resort area, differing from the existing Trans Metro Dewata bus routes. The Sanur shuttle bus will operate exclusively within the Sanur area, offering a 'hop-on, hop-off' model for tourists.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_68d4b99726fb49ba913d10972a6a4dbe.jpg)
+![Sanur, Bali Launches New Tourist Shuttle Bus Trial Operation](https://images.gobaligo.id/vocus/vocus_68d4b99726fb49ba913d10972a6a4dbe.jpg)
 
 The shuttle bus features an open design, allowing passengers to enjoy the scenery and natural ventilation along the route. However, some passengers have noted that the experience might be slightly affected during heavy rain or strong winds.
 
@@ -41,11 +41,11 @@ The current bus route includes:
 - Danau Toba Road
 - The final stop is near the SMP Wisata area, adjacent to the Sanur Special Economic Zone.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e4d803fc5df07426b0f5021662e241ee.jpg)
+![Sanur, Bali Launches New Tourist Shuttle Bus Trial Operation](https://images.gobaligo.id/vocus/vocus_e4d803fc5df07426b0f5021662e241ee.jpg)
 
 Regarding the fares and payment methods for the electric shuttle bus (Shuttle / Bemo Listrik) in Sanur, Bali:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_52fb126f2de8603997d344ea4caf16c6.jpg)
+![Sanur, Bali Launches New Tourist Shuttle Bus Trial Operation](https://images.gobaligo.id/vocus/vocus_52fb126f2de8603997d344ea4caf16c6.jpg)
 
 ### 1. Is there a fee now?
 
@@ -87,7 +87,7 @@ The Badung Regency government has confirmed that the plans are in the final stag
 
 ## More Sanur Food and Fun
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
+![More Sanur Food and Fun](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
 Sanur is a tranquil seaside town on Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. With family-friendly resorts, traditional markets, and a wealth of local cuisine, it's an ideal destination for those seeking a slower pace and cultural exploration. Whether strolling along the coastline or immersing yourself in local charm, Sanur offers an incredibly relaxing holiday experience! Want to learn more about Sanur? [Click here](/blog/sanur-guide/).
 

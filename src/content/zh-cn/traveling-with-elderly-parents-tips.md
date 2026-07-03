@@ -19,7 +19,7 @@ _srcHash: 7b2d8e58979744267bfc36ca0ae81a18
 
 ## 为什么带长辈旅游那么简单？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e3af29c3d44c3341f926bc65755d9b29.png)
+![为什么带长辈旅游那么简单？](https://images.gobaligo.id/vocus/vocus_e3af29c3d44c3341f926bc65755d9b29.png)
 
 ### **1. 体力差异的挑战**
 
@@ -45,7 +45,7 @@ _srcHash: 7b2d8e58979744267bfc36ca0ae81a18
 
 ## 惨痛经验分享：长辈不愿配合的案例
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c0d8fb61ba227fd4d75c613228e45179.png)
+![惨痛经验分享：长辈不愿配合的案例](https://images.gobaligo.id/vocus/vocus_c0d8fb61ba227fd4d75c613228e45179.png)
 
 带长辈旅游时，因为生活习惯或心理落差，常常会出现不愿配合的情况，导致整个行程陷入僵局。以下几个真实故事，或许会让许多读者感同身受：
 
@@ -93,7 +93,7 @@ _srcHash: 7b2d8e58979744267bfc36ca0ae81a18
 
 ## 如何减少「吃力不讨好」的状况？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7d15cb1eb2935e503e5fa653a8b8eb9e.jpg)
+![如何减少「吃力不讨好」的状况？](https://images.gobaligo.id/vocus/vocus_7d15cb1eb2935e503e5fa653a8b8eb9e.jpg)
 
 **「带长辈同游巴厘岛」快速参考：**
 
@@ -172,7 +172,7 @@ _srcHash: 7b2d8e58979744267bfc36ca0ae81a18
 
 **建议**：选择远离闹区的酒店，例如沙努尔（Sanur）或金巴兰（Jimbaran）的区域，环境相对安静舒适。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_df8557ed9dccbc6cfc980f5c4810bf35.png)
+![9. 避免嘈杂环境，保持安静舒适](https://images.gobaligo.id/vocus/vocus_df8557ed9dccbc6cfc980f5c4810bf35.png)
 
 **快速参考：**
 
@@ -267,7 +267,7 @@ _srcHash: 7b2d8e58979744267bfc36ca0ae81a18
 
 ## 最后的提醒：旅途中的每个时刻都是回忆
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_696668bc21571e4b94503611a5a3bc51.png)
+![最后的提醒：旅途中的每个时刻都是回忆](https://images.gobaligo.id/vocus/vocus_696668bc21571e4b94503611a5a3bc51.png)
 
 尽管带长辈出国旅游有太多细节要留心，但不管怎么样，这些一起出游的时光可能是未来最珍贵的回忆。通过事先准备、耐心沟通、适度妥协，能让这段旅程变得更顺畅，也更具意义。不妨将心态放轻松，把这次旅游看作一场“亲情修复与维系之旅”，相信无论过程如何，回忆都会是甜美的！ 😊
 

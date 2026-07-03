@@ -25,7 +25,7 @@ _srcHash: 52607748c0beba97229ee7276ef4eec3
 
 现在，就让我们一起来看看，印尼签证申请最常见的错误以及如何避免这些问题。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fa817dcbf8920a031cce812823af7cc3.jpg)
+![如何避免印尼签证申请中的常见错误？](https://images.gobaligo.id/vocus/vocus_fa817dcbf8920a031cce812823af7cc3.jpg)
 
 ---
 
@@ -109,7 +109,7 @@ _srcHash: 52607748c0beba97229ee7276ef4eec3
 
 ## **🛂 如何申请印尼电子落地签（eVisa on Arrival）？**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_70703b99831da726cd9eeac97e780116.png)
+![如何申请印尼电子落地签（eVisa on Arrival）？](https://images.gobaligo.id/vocus/vocus_70703b99831da726cd9eeac97e780116.png)
 
 ✅ **申请时间：** 最早可在 **入境前 90 天** 申请
 
@@ -151,7 +151,7 @@ _srcHash: 52607748c0beba97229ee7276ef4eec3
 
 ## 📩 **立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **通过免费订阅，你将获得：**
 

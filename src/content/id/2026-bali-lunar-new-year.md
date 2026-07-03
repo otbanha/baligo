@@ -29,11 +29,11 @@ Pertunjukan Barongsai adalah acara utama Imlek di Bali. Hampir semua mal besar d
 
 ### 🏮 Jadwal Pertunjukan Imlek 2026 di Hotel-Hotel Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e647a22175ae6ca92b4d7ecae82447d.jpg)
+![Jadwal Pertunjukan Imlek 2026 di Hotel-Hotel Bali](https://images.gobaligo.id/vocus/vocus_2e647a22175ae6ca92b4d7ecae82447d.jpg)
 
 ### 💡 Tips Nonton Barongsai:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_993aa3285ebffeae0ee54016c25350b0.png)
+![Tips Nonton Barongsai:](https://images.gobaligo.id/vocus/vocus_993aa3285ebffeae0ee54016c25350b0.png)
 
 - **Datang Lebih Awal**: Pertunjukan Barongsai biasanya ramai banget, baik tamu hotel maupun wisatawan luar. Kalau mau dapet tempat bagus, terutama di lobby, datanglah **15-20 menit** sebelumnya.
 - **Interaksi Seru**: Pas nonton Barongsai di Bali, kamu bisa kasih angpao ke singa. Ini dianggap sebagai dukungan buat pemain dan juga doa rezeki buat diri sendiri (uang kertas IDR 50.000 atau 100.000 recommended).
@@ -55,7 +55,7 @@ Kalau kamu ingin merasakan suasana religius yang lebih tradisional, bisa mampir 
 
 ## 🍴 Pesta Tahun Baru Spesial (Menu Keberuntungan)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_049126344feb3f43d3f4e43323b1203c.jpg)
+![Pesta Tahun Baru Spesial (Menu Keberuntungan)](https://images.gobaligo.id/vocus/vocus_049126344feb3f43d3f4e43323b1203c.jpg)
 
 **KUTA & LEGIAN**
 

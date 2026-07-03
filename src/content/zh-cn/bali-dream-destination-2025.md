@@ -29,7 +29,7 @@ _srcHash: 200f517e1a3643e313db8f5ce785b615
 
 根据 Go2Africa 的调查，巴厘岛以超过 228 万次的搜索量成为最受欢迎的梦幻旅游地点，稳居榜首。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d4ba57e219f9b6e16abe1a7812239161.jpg)
+![巴厘岛：搜索热度超过 228 万次](https://images.gobaligo.id/vocus/vocus_d4ba57e219f9b6e16abe1a7812239161.jpg)
 
 分析师指出，巴厘岛拥有多元魅力，无论是蜜月旅行、冒险探索、文化体验、家庭度假、亲子玩乐、还是专业冲浪者，都能在这里找到满足。此外，巴厘岛被视为灵性中心，吸引了注重养生与心灵探索的旅客。
 
@@ -143,7 +143,7 @@ Julia Roberts主演的Eat, Pray, Love有很多在巴厘岛拍摄的片段
 
 ## 📩 **立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **通过免费订阅，你将获得：**
 

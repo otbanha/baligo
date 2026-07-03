@@ -18,7 +18,7 @@ _srcHash: 45801afecaf2a3dc727539a2ede2a0db
 ---
 當旅客到達峇里島時，可能會感到驚訝：聽講要交嘅150,000印尼盾（折合美金約10蚊）觀光稅/旅遊稅，好似唔交都得？？因為並冇檢查係咪有事先線上繳交，或者強制喺機場櫃檯支付觀光稅。然而我哋必須知道，呢個觀光稅制度更加似係一種希望旅客了解同支持嘅理念，而唔係一個強制性嘅繳交要求。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8b15da7a473fb11a6f634d981fffbfa9.jpg)
+![唔交都得？峇里島觀光稅/旅遊稅究竟係咩？](https://images.gobaligo.id/vocus/vocus_8b15da7a473fb11a6f634d981fffbfa9.jpg)
 
 峇里島嘅觀光稅被設立為一種手段，用來改善峇里島嘅交通、垃圾處理、文化保存等議題。呢種做法反映咗峇里島當局嘅智慧同對永續旅遊嘅承諾。
 
@@ -32,7 +32,7 @@ _srcHash: 45801afecaf2a3dc727539a2ede2a0db
 
 由於實際有繳交觀光稅嘅旅客只有七成，[峇里島已於3/26開始旅遊稅抽查！](/blog/bali-tourism-tax-update/)當個稱職嘅峇里島觀光客，我哋仲係建議您要繳交喔！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7b65cf3a3a36d6fec5bc94d0b20dc173.png)
+![唔交都得？峇里島觀光稅/旅遊稅究竟係咩？](https://images.gobaligo.id/vocus/vocus_7b65cf3a3a36d6fec5bc94d0b20dc173.png)
 
 **觀光稅係旅客應盡嘅義務，唔係可逃可不逃嘅選擇題！**
 
@@ -51,7 +51,7 @@ _srcHash: 45801afecaf2a3dc727539a2ede2a0db
 
 ## 📩 **立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

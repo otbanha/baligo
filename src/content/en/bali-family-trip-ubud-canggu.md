@@ -152,7 +152,7 @@ Awan’s contact details are included in the [Bali Private Car Drivers Hall of F
 
 Did you find Zhao Kangkang's itinerary fascinating? It's time to plan your own Bali adventure! We also welcome everyone to share your travel experiences in our community!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5a1e2aa439de59150271c058d384f2c2.jpg)
+![Recommended Driver: Bali Holiday Awan](https://images.gobaligo.id/vocus/vocus_5a1e2aa439de59150271c058d384f2c2.jpg)
 
 Click here to explore more amazing Bali travel stories
 

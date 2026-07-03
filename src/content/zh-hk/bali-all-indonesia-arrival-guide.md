@@ -41,7 +41,7 @@ _srcHash: 6db4a49a25dd6cac409553dc7362bec3
 1. 務必先完成申請電子簽證eVisa。請參考[呢度](/blog/bali-evisa-application-guide/)有進一步嘅說明，避免進入詐騙網站。
 2. 出發前三天完成AIAC入境卡，並**截圖QR Code**備查。請睇本站整理[常見問題FAQ](/blog/bali-evisa-customs-health-declaration/)。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_47def0beb4f9737f8e70065afa8db58b.png)
+![行前必做：](https://images.gobaligo.id/vocus/vocus_47def0beb4f9737f8e70065afa8db58b.png)
 
 ### **1️⃣ 落機**
 
@@ -87,7 +87,7 @@ _srcHash: 6db4a49a25dd6cac409553dc7362bec3
 
 睇圖一目了然
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776906855235-chatgpt_image_2026_4_23_08_13_09.png)
+![⏰ 幾耐前要辦理？](https://images.gobaligo.id/images/2026-04/1776906855235-chatgpt_image_2026_4_23_08_13_09.png)
 
 ***
 
@@ -113,7 +113,7 @@ _srcHash: 6db4a49a25dd6cac409553dc7362bec3
 
 通過海關後，恭喜你完成入境流程！而家可以去接機大堂，同預訂嘅司機或者家人朋友會合，開始你嘅美好旅程！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e41a1f6d506de9fed49c3228e4407a8.png)
+![通過海關後，恭喜你正式入境！](https://images.gobaligo.id/vocus/vocus_4e41a1f6d506de9fed49c3228e4407a8.png)
 
 **📌 分享俾即將旅行嘅朋友，避免卡關！**
 

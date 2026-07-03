@@ -26,7 +26,7 @@ _srcHash: 671728e86b980b5d6da81d64158fa792
 ---
 Natal nggak harus di salju! Di Bali, pulau tropis yang penuh pesona ini, sinar matahari, pasir pantai, dan suasana perayaan yang kental udah siap menyambut kamu. Selain cuacanya yang nyaman, ada banyak banget acara seru, makan malam Natal yang lezat, dan pilihan akomodasi ramah keluarga yang nggak terhitung.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_11ffbe9dcaf563fad4940c2f7e5fa268.jpg)
+![Liburan Natal & Tahun Baru di Bali: Panduan Lengkap Liburan ](https://images.gobaligo.id/vocus/vocus_11ffbe9dcaf563fad4940c2f7e5fa268.jpg)
 
 ## **Apakah Bali Hujan Saat Natal?**
 
@@ -47,7 +47,7 @@ Mau di pusat keramaian? Daerah selatan kayak **Seminyak**, **Kuta**, dan **Cangg
 
 Kalau kamu pengen liburan yang tenang tapi tetap kental nuansa budayanya, **Ubud** bisa jadi pilihan yang pas. Tapi kalau lebih suka suasana damai sambil tinggal di pinggir pantai, cobain deh **Sanur** atau **Nusa Dua**. Kamu juga bisa sewa chef pribadi yang masakin menu Natal spesial di villa kamu.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_45dd2d1531eeed43e5e6776b3205d148.jpg)
+![Daerah dengan Nuansa Budaya dan Ketenangan](https://images.gobaligo.id/vocus/vocus_45dd2d1531eeed43e5e6776b3205d148.jpg)
 
 - [100 Cara Seru Eksplor Ubud](/blog/ubud-guide/)
 - [50 Rekomendasi Makan & Main di Sanur](/blog/sanur-guide/)
@@ -69,7 +69,7 @@ Bali bagian selatan itu surganya belanja! Mal-mal di sini pas Natal dihias lampu
 
   **(Tempat makan yang cocok buat keluarga maupun pasangan)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_850f61c951612c37d0a45ff66bced1ae.png)
+![Rekomendasi Makan Malam Natal 2025 di Bali](https://images.gobaligo.id/vocus/vocus_850f61c951612c37d0a45ff66bced1ae.png)
 
 ## **Bali Selatan**
 
@@ -217,7 +217,7 @@ Menyajikan paket Natal dengan cita rasa lokal, cocok buat keluarga atau pasangan
 
 ## 🎅 **Rekomendasi Aktivitas Natal 2025 di Bali yang Wajib Dicoba Bareng Keluarga**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e15f0308eb39c585ce14134b728b87e.png)
+![Rekomendasi Aktivitas Natal 2025 di Bali yang Wajib Dicoba B](https://images.gobaligo.id/vocus/vocus_2e15f0308eb39c585ce14134b728b87e.png)
 
 Entah kamu pertama kali merayakan Natal di Bali, atau udah jadi tradisi tahunan, acara Natal 2025 bakal lebih meriah dan seru. Berbagai resor, pusat perbelanjaan, dan beach club di pulau ini udah mulai siap-siap dari jauh-jauh hari, terutama aktivitas interaktif yang cocok untuk keluarga dan pasar Natal.
   ---
@@ -232,7 +232,7 @@ Ini salah satu pasar Natal paling ikonik di Bali, lengkap dengan stan kerajinan 
 
 ### **3️⃣ Pertunjukan Spesial Natal The Devdan Show (Nusa Dua)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4942bb2f258729509d2c8f3e4d4d2001.jpg)
+![3⃣ Pertunjukan Spesial Natal The Devdan Show (Nusa Dua)](https://images.gobaligo.id/vocus/vocus_4942bb2f258729509d2c8f3e4d4d2001.jpg)
 
 📅 **Waktu: 24 & 26 Desember 2025 jam 7 malam**
 
@@ -274,13 +274,13 @@ Salah satu aktivitas favorit para pelancong keluarga! Selain bikin anak-anak kre
 
 ## Pesta Kembang Api Malam Tahun Baru
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bbdf8ffd9786b923efa25ec0c6d6af2b.png)
+![Pesta Kembang Api Malam Tahun Baru](https://images.gobaligo.id/vocus/vocus_bbdf8ffd9786b923efa25ec0c6d6af2b.png)
 
 Sebagian besar beach club akan menyalakan kembang api saat hitung mundur malam Tahun Baru 2025 (malam 31 Des). Di area pantai terkenal seperti Pantai Kuta, Pantai Seminyak, Pantai Canggu, kamu bisa nonton kembang api gratis di pinggir pantai sambil hitung mundur dan menikmati percikan api di langit malam, suasananya seru banget dan worth it.
 
 ### Pesta Kembang Api & Musik di GWK Cultural Park
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c629cf7be55dd5d7bc55b961c4b14c2c.jpg)
+![Pesta Kembang Api & Musik di GWK Cultural Park](https://images.gobaligo.id/vocus/vocus_c629cf7be55dd5d7bc55b961c4b14c2c.jpg)
 
 GWK Cultural Park di Jimbaran akan menyalakan 12.000 kembang api pada malam Tahun Baru 31 Des – 1 Jan dari tiga titik peluncuran sekaligus, dalam lima detik mengelilingi area penonton. Line-up panggung termasuk MALIQ & D'Essentials, Lomba Sihir, Lolot, Navicula, dan artis lokal terkenal lainnya, dipandu oleh Duo Giga. Dari 26 Des – 3 Jan akan ada pasar MyMelali x Pasar Keliling yang mengumpulkan ratusan UMKM lokal, plus penampilan spesial dari Sunar Sanggita Music School (diajar oleh guru tunanetra). Juga dijual koin edisi terbatas GWK 2026, kolektor yang punya koin 2025 dan 2026 bisa ikut undian. Tiket terbagi menjadi tiket reguler dan VIP terbatas, tiket VIP termasuk area depan panggung, aksesoris bercahaya, goodie bag, kupon minuman, dan promo beli dua gratis dua. Restoran Jendela Bali juga menyediakan paket makan malam Tahun Baru dengan menu tiga hidangan, koktail, dan tiket area VIP. Situs resmi GWK: [www.gwkbali.com](https://www.gwkbali.com/)
 
@@ -290,7 +290,7 @@ GWK Cultural Park di Jimbaran akan menyalakan 12.000 kembang api pada malam Tahu
 
 - **Café del Mar Beach Club**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_35cd94ccdece9d16014aa43f59f88f92.png)
+![Seminyak](https://images.gobaligo.id/vocus/vocus_35cd94ccdece9d16014aa43f59f88f92.png)
 
 - Rayakan malam Tahun Baru 2025 kamu di Café del Mar Beach Club, Seminyak!
 - Ada penampilan spesial dari DJ Top 100, Dash Berlin, di Café del Mar Bali — bikin makin seru!
@@ -307,7 +307,7 @@ GWK Cultural Park di Jimbaran akan menyalakan 12.000 kembang api pada malam Tahu
 
 - **White Rock Beach Club**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ab580ea147d393d5850d15099096cff9.png)
+![Uluwatu](https://images.gobaligo.id/vocus/vocus_ab580ea147d393d5850d15099096cff9.png)
 
 - Dari sunset sampai larut malam, hiburan seru tanpa henti — siap-siap goyang!
 - Pengalaman pesta lengkap (face painting, airbrush tattoo, games seru, dan hadiah keren).
@@ -323,7 +323,7 @@ GWK Cultural Park di Jimbaran akan menyalakan 12.000 kembang api pada malam Tahu
 
 - **Atlas Beach Club Malam Tahun Baru 2025: Penampilan Swae Lee**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7102eab05ee780825f2d22decc95df64.jpg)
+![Canggu](https://images.gobaligo.id/vocus/vocus_7102eab05ee780825f2d22decc95df64.jpg)
 
 - Rayakan malam pergantian tahun di Atlas Beach Fest, klub pantai terbesar di Bali!
 
@@ -339,7 +339,7 @@ GWK Cultural Park di Jimbaran akan menyalakan 12.000 kembang api pada malam Tahu
 
   **Canna Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a88c69235165dcd9b69ea3f2505e68c9.png)
+![Nusa Dua](https://images.gobaligo.id/vocus/vocus_a88c69235165dcd9b69ea3f2505e68c9.png)
 
 Sambut fajar pertama 2025 di Canna Bali, di mana musik, kuliner, dan kembang api berpadu sempurna di tepi pantai tropis. Dari senja hingga hitung mundur tengah malam, pesta Tahun Baru yang megah ini akan menyajikan pesta sensasi sepanjang malam — Duo DJ Redline Rhythm menghadirkan irama yang menghentak, band live memainkan melodi yang menyentuh, para penari memukau dengan gerakan indah, dan pertunjukan kembang api spektakuler yang menerangi langit dan laut di tengah malam. Prasmanan malam yang mewah menyajikan berbagai hidangan lezat, meningkatkan kenikmatan rasa dan pendengaran secara bersamaan. Pembawa acara yang enerjik memeriahkan suasana, penari api menyulut semangat dengan kobaran api, dan seniman pertunjukan modern menghadirkan kejutan, bersama-sama menciptakan malam Tahun Baru yang tak terlupakan ini. Di surga tepi pantai Canna, menari dan tertawa bersama orang-orang tercinta, ucapkan selamat tinggal pada masa lalu dengan cara yang paling gemilang, dan sambut tahun 2025 yang baru.
 

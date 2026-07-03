@@ -17,7 +17,7 @@ _srcHash: 9649e924980e051716eb99788bc03c2b
 
 2026 年峇里島「高品質旅遊」政策解析：3 月起財力證明與行程查核新制
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1316fab9941800e7f0a4551426ccb6e.png)
+![入境峇里島存款證明/財力證明 2026/03起嚴格執行 & 常見問題](https://images.gobaligo.id/vocus/vocus_a1316fab9941800e7f0a4551426ccb6e.png)
 
 一句話總結： 呢項新政策並唔係要喺海關對所有旅客進行「普查」，而係將移民官既有嘅查核權力「明文制度化」同「查核方式數位化」。目的係精準篩選優質旅客，同時打擊非法打工。
 
@@ -61,7 +61,7 @@ https://youtu.be/7JIqxDIyDF0
 
 ## 📋 2026 年 3 月起入境峇里島必備文件清單
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_164e1666147c790e2ecfa35259c44293.png)
+![2026 年 3 月起入境峇里島必備文件清單](https://images.gobaligo.id/vocus/vocus_164e1666147c790e2ecfa35259c44293.png)
 
 ### 核心證件
 

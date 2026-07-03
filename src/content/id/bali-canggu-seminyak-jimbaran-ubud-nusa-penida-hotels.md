@@ -19,7 +19,7 @@ _srcHash: f1f1fcb4a5fce1d821083bf0cba16bfa
 ---
 Bali terkenal banget sama pemandangan alamnya yang memukau dan budayanya yang kaya, setiap tahunnya menarik jutaan wisatawan. Pilihan akomodasi di pulau ini juga nggak kalah variatif, dari resort super mewah sampai guesthouse yang terjangkau. Mau kamu cari pengalaman mewah atau sekadar tempat nginep yang worth it, di Bali pasti ada yang cocok.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc04ae4423e5707c3b4106ae8ab988b9.jpg)
+![【Video Asli】12 Rekomendasi Penginapan di Bali dari Canggu, S](https://images.gobaligo.id/vocus/vocus_cc04ae4423e5707c3b4106ae8ab988b9.jpg)
 
 Di video YouTube di bawah ini, Camilla Johannesen, seorang travel blogger, ngajak kamu eksplorasi pilihan penginapan terbaik di Bali. Dia nunjukin berbagai opsi dari resort mewah sampai homestay hemat, cocok buat semua selera traveling dan budget.
 

@@ -22,7 +22,7 @@ _srcHash: 58a6177ce06680a5fceed3e80f40481e
 
 如果你跟我一样，不是个爱花时间做功课的旅人，但又想把巴厘岛的美景一次看个够，那我真心推荐把Klook一日游排进你的行程里！这趟七天六夜的巴厘岛自由行，我们总共安排了三次Klook一日游（第2天、第4天、第6天），每一次都玩得既轻松又精彩～真的是「上车睡觉、下车拍照」的极致体验，想分享给也想轻松玩巴厘岛的你 ❤️
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8badcdcbd6c7256c545b844ddc28d7cb.png)
+![巴厘岛七天六夜自由行游记｜三个Klook一日游行程，懒人也能轻松玩遍精华景点！](https://images.gobaligo.id/vocus/vocus_8badcdcbd6c7256c545b844ddc28d7cb.png)
 
 这次旅程安排得轻松不费脑，既能悠哉享受巴厘岛的度假氛围，又能探索知名景点、秘境与文化，不得不说：**Klook 真的是自由行玩家的好帮手！**
 
@@ -34,25 +34,25 @@ https://youtu.be/SpcgZ4iK7qs
 
 我们入住的 Griya Santrian 是一间位于海滩第一排的度假村，从泳池走几步就能踩到沙滩，超适合喜欢泡水或海滩控的旅人。这里的建筑保有巴厘岛传统风格，花园景观悠然舒适。酒店还有提供SPA、瑜伽课与海景餐厅，非常适合想要享受「慢活沙努尔」魅力的旅人。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016458746-465499230.jpg)
+![Day 1：抵达巴厘岛，放空模式启动！](https://images.gobaligo.id/images/2026-05/1780016458746-465499230.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016459384-465499684.jpg)
+![Day 1：抵达巴厘岛，放空模式启动！](https://images.gobaligo.id/images/2026-05/1780016459384-465499684.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016459954-465501520.jpg)
+![Day 1：抵达巴厘岛，放空模式启动！](https://images.gobaligo.id/images/2026-05/1780016459954-465501520.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016472294-31015540.jpg)
+![Day 1：抵达巴厘岛，放空模式启动！](https://images.gobaligo.id/images/2026-05/1780016472294-31015540.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016472800-31015802.jpg)
+![Day 1：抵达巴厘岛，放空模式启动！](https://images.gobaligo.id/images/2026-05/1780016472800-31015802.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016473503-31089846.jpg)
+![Day 1：抵达巴厘岛，放空模式启动！](https://images.gobaligo.id/images/2026-05/1780016473503-31089846.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016474013-31089847.jpg)
+![Day 1：抵达巴厘岛，放空模式启动！](https://images.gobaligo.id/images/2026-05/1780016474013-31089847.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016474638-187032805.jpg)
+![Day 1：抵达巴厘岛，放空模式启动！](https://images.gobaligo.id/images/2026-05/1780016474638-187032805.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016475139-187032965.jpg)
+![Day 1：抵达巴厘岛，放空模式启动！](https://images.gobaligo.id/images/2026-05/1780016475139-187032965.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016476225-465495528.jpg)
+![Day 1：抵达巴厘岛，放空模式启动！](https://images.gobaligo.id/images/2026-05/1780016476225-465495528.jpg)
 
 > ➡️ [**Griya Santrian a Beach Resort 房价 & 空房查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10336) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685091&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxMLFJMEk1c3CsXTJrZNsQsyGBkYGj9gsLhg6Xl9cYMul3e7gefirRkz_oR6HAJ6IKQeeT2NP5OyST353JNChi5EVLDCDcfELzRWMjBsZ17k_rBKJS3PYwch0gJHpBONWxQVMdyessz_Fwsyxj-0Sy1em6Gql7NRKJSsTHaWSzJKcVCUrpWdzep92z3yxabeSjlJKanEyUAjISszNL80rAbJNDE31DAyAIiWJFZ4pSlbmOkrJiTnJpTmJJakhlQVAE8x0lDKLnUuKMguCUnMzS0pSgarSEnOKU0HiQanFQJlksKCSH9CYIqhAZn4eRLsBilhYYk5pKsQJQAvdUqF2GNfqYLr86aJ5Txv2PF_RSpzLTajtckNiXG5YG_uIhSk69hMLwy8WhiZWhi5WZo5TTJOA5FbFXay8wa4Rxv7huoYhulG6hhdY_ytLKRoaGBgYmZoamesaJFpaGJmkpuqaWJoYWZrqGpkYGBqZmWt8-76i6amxkbUUJAUoMGoJxod4eroYlhSmmhWWWuYUFZgaMJ5ilDI0N7YwNDI0NDIysjTWM7FIMyu2yCu2yM2K8GAMYnM2MbV0c4qy4WIODXYR7D8ETGn60g5SzCHhLopBLm2heyaettdi9nQJMrz3nyVXW9nSPtDiixj_e8sF9pEP0mMsBCadtk9ircrQDQnP6BUvYGxgZOpi5BZg9GCMYKwA8hhXMbJzMRsYGQowbWBk3MH4HwYYXzGCLAEA6DBSVgADAAA&masterhotelid_tracelogid=100025527-0a9824ee-494295-2401267&detailFilters=17|1~17~1*31|685091~31~685091*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=375&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/PAFloKEn)
 
@@ -84,7 +84,7 @@ https://youtu.be/zePMt3KSwTo
 
 最后一站是我很喜欢的 **维珍海滩（Virgin Beach）**，这个秘境海滩远离喧嚣，水清沙白，当地人也不多，非常适合放空、晒太阳、喝椰子水🌞🥥。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_696826291682eab27ccef9883b60882a.jpg)
+![Day 2：Klook「巴厘岛东部网红打卡之旅」](https://images.gobaligo.id/vocus/vocus_696826291682eab27ccef9883b60882a.jpg)
 
 大约 17:30 回程，一整天行程丰富却不匆忙，完全不用自己找路、也不用担心交通问题，超级省心！
 
@@ -107,21 +107,21 @@ https://youtu.be/uFv_4Wr6YsI
 
 来到巴厘岛怎么能不享受一下villa！？我们住的 Ayuterra Resort 这是一间让我走不出泳池的VILLA🏞️。房间设计时尚又宽敞，户外私人无边泳池直接对着阿勇河峡谷，每一秒都像在拍明信片📸。晚上泡在池子里看星星、早上听着鸟鸣醒来，是我乌布旅程中最放松、最浪漫的一晚❤️。非常推荐给蜜月或庆祝特别日子的情侣！
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016752353-94811283.jpeg)
+![Day 3：乌布半日自由行＋SPA时光](https://images.gobaligo.id/images/2026-05/1780016752353-94811283.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016752966-158456810.jpeg)
+![Day 3：乌布半日自由行＋SPA时光](https://images.gobaligo.id/images/2026-05/1780016752966-158456810.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016753882-158456815.jpeg)
+![Day 3：乌布半日自由行＋SPA时光](https://images.gobaligo.id/images/2026-05/1780016753882-158456815.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016754420-165248513.jpeg)
+![Day 3：乌布半日自由行＋SPA时光](https://images.gobaligo.id/images/2026-05/1780016754420-165248513.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016755011-165249780.jpeg)
+![Day 3：乌布半日自由行＋SPA时光](https://images.gobaligo.id/images/2026-05/1780016755011-165249780.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016755582-165249794.jpeg)
+![Day 3：乌布半日自由行＋SPA时光](https://images.gobaligo.id/images/2026-05/1780016755582-165249794.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016756442-165250377.jpeg)
+![Day 3：乌布半日自由行＋SPA时光](https://images.gobaligo.id/images/2026-05/1780016756442-165250377.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016756957-165250385.jpeg)
+![Day 3：乌布半日自由行＋SPA时光](https://images.gobaligo.id/images/2026-05/1780016756957-165250385.jpeg)
 
 > 👉[**Ayuterra Resort 房价及空房查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1637022) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=9056301&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6y8TFJMEkdY2JY-XNFSdYhZgNDYw07rMZ3Ge02CrvKLLO_WHViT4Hz0JbruuLL05yCOCJmHLg-TT2RK_qZn2fI4EOXYysYIEZjGsfrGDZyGgMAtnZDjsYmQ4wMp1gvKu9gOnWizfcp1iYOX6zX2LZzRhdrZSdWqlkZaKjVJJZkpOqZKX0dNG8pw17nq9oVdJRSkktTgYKAVmJufmleSVAtqGBoaWegQFQqCSxwjMFrDU5MSe5NCexJDWksgBohJGOUmaxc0lRZkFQam5mSUkqUFVaYk5xKkg8KLUYKJMMFgQZXATlZ-bnQXQboIiFJeaUpkJUAu1zS4VaYVgb-4iFKTr2Bct9tk8sDL9YGJpYGbpYmTlOMU0Ckne1d7Hy-vmbmHr56hqG6EbpGl5gXWMspWhoYGBgZGpqZK5rkGiZaJGakqJrYmliZGmia2JhaGRuYaJx5NTSxqfGRtZSkJBUYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobgzUYmhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmTg6mpqFmXDxRwa7CL4XHb5Cw89aQcp5pBwF8WVN5nXHphw2l6L2dMlyPDef5ZcbWVL-0CLL2L87y0X2EcGubSF7pl42j6JtSpDNyQ8o1e8gLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQAcqVk9EsCAAA&masterhotelid_tracelogid=100025527-0a9a8edd-494294-4812784&detailFilters=17|1~17~1*31|9056301~31~9056301*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=882&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/0xcNRC9t)
 
@@ -133,11 +133,11 @@ https://youtu.be/uFv_4Wr6YsI
 
 我们早上 **08:30从酒店出发**，第一站来到世界文化遗产级的绝美稻田景点——**Tegallalang 梯田**。层层叠叠的稻田如同绿色波浪，景色真的超壮观，无论站在哪里拍照都像明信片一样梦幻！🌾📷
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_55c19053b01f715dbb5fe2d0dc3a3e72.jpg)
+![Day 4：Klook「乌布热门景点私人一日游」｜文化自然全包，一天解锁乌布精华！](https://images.gobaligo.id/vocus/vocus_55c19053b01f715dbb5fe2d0dc3a3e72.jpg)
 
 接着我们体验了乌布经典的 **空中秋千**，荡出去那一瞬间真的是又刺激又好玩，底下是茂密的热带雨林与山谷，瞬间觉得自己像在电影场景里飞翔！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_81b50f6d3f97aacd54da321c458cacce.jpg)
+![Day 4：Klook「乌布热门景点私人一日游」｜文化自然全包，一天解锁乌布精华！](https://images.gobaligo.id/vocus/vocus_81b50f6d3f97aacd54da321c458cacce.jpg)
 
 第三站是 **乌布圣猴森林**，这里是巴厘长尾猴的自然栖息地，虽然猴子们非常活泼好奇，但别担心，只要不喂食或挑衅它们，基本上不会有危险～导游还有教我们怎么正确与猴子保持距离，是个特别又有趣的体验 🐒🌳
 
@@ -145,11 +145,11 @@ https://youtu.be/uFv_4Wr6YsI
 
 吃饱后我们来到 **Tirta Empul 圣泉寺**，这是我很期待的一个点。寺庙里的圣泉据说有净化心灵的能量，许多当地信徒与游客都会进入水池中一一接受灌顶洗礼。虽然我没下水，但静静坐在旁边欣赏这片虔诚的景象，内心也不自觉平静了下来 🙏💧
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8b762a26998eb9109cd20d800e686b26.jpg)
+![Day 4：Klook「乌布热门景点私人一日游」｜文化自然全包，一天解锁乌布精华！](https://images.gobaligo.id/vocus/vocus_8b762a26998eb9109cd20d800e686b26.jpg)
 
 最后一站是乌布人气瀑布——**Tegenungan Waterfall**。这个瀑布非常壮观，水声轰隆，场面震撼，不过因为游客真的有点多，加上很多人在这里玩水、拍照，我自己感觉稍微商业化了些，也就没有待太久。这部分就看个人喜好囉～
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_99403f7db64395a7fa81d169116fa952.jpg)
+![Day 4：Klook「乌布热门景点私人一日游」｜文化自然全包，一天解锁乌布精华！](https://images.gobaligo.id/vocus/vocus_99403f7db64395a7fa81d169116fa952.jpg)
 
 大约 **17:00回到酒店**，这趟将近10小时的旅程，真的是充实又不疲惫。特别要感谢我们的司机 **Yogi**，他人超级Nice，不但行程规划妥当，还帮我们避开高峰人潮，真的值得大大推荐！
 
@@ -179,25 +179,25 @@ https://youtu.be/zxDZJ93EqA4
 
 我们在穆利亚度假村享受下午茶时光，泡在泳池里一边看海一边喝咖啡吃甜点，顺便逛逛附近的购物商场。这天是属于“发呆日”，什么也不做就是最棒的行程！
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016932392-6532982_19052213430074651656_large.jpeg)
+![Day 5：自由活动＋沙滩下午茶](https://images.gobaligo.id/images/2026-05/1780016932392-6532982_19052213430074651656_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016933130-a6f2689a3b9e0bbc99243b017418e30d.jpg)
+![Day 5：自由活动＋沙滩下午茶](https://images.gobaligo.id/images/2026-05/1780016933130-a6f2689a3b9e0bbc99243b017418e30d.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016933700-9d5cd0ab70caa0e4c39605cb63aedae2_large.jpeg)
+![Day 5：自由活动＋沙滩下午茶](https://images.gobaligo.id/images/2026-05/1780016933700-9d5cd0ab70caa0e4c39605cb63aedae2_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016934332-033c00f7f5a3cff31e603ba7005216e2_large.jpeg)
+![Day 5：自由活动＋沙滩下午茶](https://images.gobaligo.id/images/2026-05/1780016934332-033c00f7f5a3cff31e603ba7005216e2_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016968898-423587cf2a05b1a8d7e9585ac5aa9b51_large.jpeg)
+![Day 5：自由活动＋沙滩下午茶](https://images.gobaligo.id/images/2026-05/1780016968898-423587cf2a05b1a8d7e9585ac5aa9b51_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016969557-6532982_19013015410071862948_large.jpeg)
+![Day 5：自由活动＋沙滩下午茶](https://images.gobaligo.id/images/2026-05/1780016969557-6532982_19013015410071862948_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016970159-6532982_19013015410071862949_large.jpeg)
+![Day 5：自由活动＋沙滩下午茶](https://images.gobaligo.id/images/2026-05/1780016970159-6532982_19013015410071862949_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016970890-6532982_19013015410071862951_large.jpeg)
+![Day 5：自由活动＋沙滩下午茶](https://images.gobaligo.id/images/2026-05/1780016970890-6532982_19013015410071862951_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016971463-6532982_19013015410071862953_large.jpeg)
+![Day 5：自由活动＋沙滩下午茶](https://images.gobaligo.id/images/2026-05/1780016971463-6532982_19013015410071862953_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016971982-6532982_19022510000072495025_large.jpeg)
+![Day 5：自由活动＋沙滩下午茶](https://images.gobaligo.id/images/2026-05/1780016971982-6532982_19022510000072495025_large.jpeg)
 
 > 👉 [**穆利亚度假村详细介绍**](/blog/mulia-resort-bali-luxury/)
 
@@ -229,13 +229,13 @@ https://youtu.be/hQbBTktqEqY
 
 这座建于悬崖上的古老寺庙，不仅是巴厘岛六大圣庙之一，更是欣赏印度洋壮丽海景的绝佳位置。这里的猴子顽皮可爱，建议随身物品要收好（墨镜、帽子都要留意！）。在导游带领下我们了解了乌鲁瓦图寺的历史与宗教意涵，也更明白当地人对自然与神灵的尊敬。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f221761e8c64cd4b7a6f2dcc5e6f1859.jpg)
+![16:30 乌鲁瓦图寺（Uluwatu Temple）](https://images.gobaligo.id/vocus/vocus_f221761e8c64cd4b7a6f2dcc5e6f1859.jpg)
 
 ### 🔥 18:00 卡恰火舞（Kecak Dance）表演（重点：**免排队入场！**）
 
 这场表演真的是我们此行的重头戏之一！卡恰舞不靠任何乐器，而是由数十位赤膊男声以「chak-chak-chak」的节奏声营造氛围，加上表演者火焰跳舞与互动桥段，把印度史诗《罗摩衍那》**的经典场景搬上舞台！表演在夕阳下开始，最后火光四射、群众欢呼，气氛超震撼🔥🔥🔥
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3ae76de3e2f7cbfb46b702bcaa7a626e.jpg)
+![18:00 卡恰火舞（Kecak Dance）表演（重点：免排队入场！）](https://images.gobaligo.id/vocus/vocus_3ae76de3e2f7cbfb46b702bcaa7a626e.jpg)
 
 （这个行程是**免排队**直接入场，真的省了超多等待时间，超推荐这点！）
 
@@ -245,7 +245,7 @@ https://youtu.be/hQbBTktqEqY
 
 结束视觉盛宴之后，来到海边享用烧烤海鲜晚餐。一边听着海浪声、一边大啖烤龙虾、烤虾与炸鱿鱼，这种浪漫的氛围真的只有在巴厘岛才能体会到💕
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b8853265196d9f74c4f5461505927dc.jpg)
+![19:00 金巴兰海滩晚餐（Jimbaran Beach）](https://images.gobaligo.id/vocus/vocus_0b8853265196d9f74c4f5461505927dc.jpg)
 
 > [巴厘岛金巴兰11家海鲜餐厅：不踩雷推荐](/blog/jimbaran-seafood-restaurants-list/)
 
@@ -322,7 +322,7 @@ A：Klook上有[超过100种的巴厘岛一日游](https://affiliate.klook.com/r
 
 您觉得他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_46698f5af1760b1706d64aa484378402.jpg)
+![11.Q：有更多的一日游可以选吗?](https://images.gobaligo.id/vocus/vocus_46698f5af1760b1706d64aa484378402.jpg)
 
 点击这里观看更多巴厘岛精彩游记
 

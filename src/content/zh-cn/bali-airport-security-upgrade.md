@@ -20,7 +20,7 @@ _srcHash: c40c3d0478cc27d0675b0cde6e5caa0f
 
 巴厘岛的努拉莱国际机场将于2025年迎来新一阶段的现代化升级。先进的安检设备已在雅加达成功实施，未来将使旅客的通过量从每小时200人提升至500人。这项升级不仅让旅客的安检过程更加快速，也让机场工作人员的效率大幅提升。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7219f7c1515b7944a761ff88aa41b1a1.jpg)
+![巴厘岛机场加速安检流程 – 效率提升2.5倍！](https://images.gobaligo.id/vocus/vocus_7219f7c1515b7944a761ff88aa41b1a1.jpg)
 
 ### 自动化托盘回传系统：提升旅客流动效率
 
@@ -34,7 +34,7 @@ _srcHash: c40c3d0478cc27d0675b0cde6e5caa0f
 
 这些改进不仅能提升旅客的体验，还能有效减少旅行压力。旅客在安检线上花费的时间减少，意味着他们有更多时间在登机前放松、购物或用餐。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d7c937fec0e1fbaf7b7decd596fb2992.png)
+![提升旅客体验，减少旅行压力](https://images.gobaligo.id/vocus/vocus_d7c937fec0e1fbaf7b7decd596fb2992.png)
 
 ### 三大优先升级领域
 
@@ -62,7 +62,7 @@ _srcHash: c40c3d0478cc27d0675b0cde6e5caa0f
 
 ## 📩 **立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **通过免费订阅，你将获得：**
 

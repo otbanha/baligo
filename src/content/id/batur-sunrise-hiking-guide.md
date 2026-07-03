@@ -25,7 +25,7 @@ _srcHash: 60e806d45890a74ca79a9328d6aea50c
 
 Bicara soal Bali, kebanyakan orang pasti langsung kepikiran pantai cantik dan air laut yang berkilau. Tapi, pesona Bali nggak cuma sampai di situ aja, lho. Ada satu keajaiban alam yang sayang banget kalau dilewatkan, yaitu sunrise spektakuler dari Gunung Batur. Kenapa sih harus milih naik Gunung Batur buat lihat matahari terbit? Ini pengalaman yang bakal bikin kamu nggak bisa lupa — dari tantangan mendaki sampai berdiri di puncak menyaksikan fajar, setiap langkahnya adalah petualangan yang worth it.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1a33444c5f40194580ec6dd76eebda6d.png)
+![Nikmati Sunrise Megah di Puncak Gunung Batur, Bali](https://images.gobaligo.id/vocus/vocus_1a33444c5f40194580ec6dd76eebda6d.png)
 
 ### **Persiapan Sebelum Berangkat**
 
@@ -54,7 +54,7 @@ Sesampainya di kaki Gunung Batur, aku ketemu pemanduku, Sri Ayu, seorang wanita 
 
 Gambaran rute pendakian: dari kaki gunung sampai puncak, total ada tiga pos istirahat utama. Setiap pos jadi tempat yang pas buat santai dan isi ulang energi.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_943cfde45f0d5e4c8028776be7761d3b.png)
+![Proses Pendakian](https://images.gobaligo.id/vocus/vocus_943cfde45f0d5e4c8028776be7761d3b.png)
 
 ### **Pos Istirahat Pertama**
 
@@ -68,7 +68,7 @@ Semakin dekat ke puncak, udaranya makin dingin, tapi rasa excited di dalam hati 
 
 Akhirnya, kita sampai di puncak Gunung Batur. Dari sini, pemandangan 360 derajat terbentang luas, bikin napas tersengal. Tiga gunung berapi yang megah — Gunung Agung, Gunung Abang, dan Gunung Batur — membentuk lukisan alam yang sempurna. Saat matahari perlahan naik, langit berubah dari gelap jadi jingga kemerahan, momen ini bikin kita merasakan pesona alam yang luar biasa.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_040067c34db9397ea52aaa21df16c3bd.png)
+![Matahari Terbit Spektakuler di Puncak Gunung Batur](https://images.gobaligo.id/vocus/vocus_040067c34db9397ea52aaa21df16c3bd.png)
 
 ### **Aktivitas Setelah Matahari Terbit**
 
@@ -82,7 +82,7 @@ Setelah puas menikmati pemandangan dan sarapan di puncak, kami mulai turun. Renc
 
 Dalam perjalanan balik ke Kuta, kami mampir di beberapa kafe yang punya pemandangan gunung keren banget. Tempat ini pas banget buat istirahat sambil mengenang pengalaman mendaki tadi. Sesampainya di hotel, aku merasa puas banget — perjalanan ke Gunung Batur ini mewujudkan impianku selama bertahun-tahun.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb64b843848cfe5be13410cb5bb851ac.png)
+![Kembali ke Kuta](https://images.gobaligo.id/vocus/vocus_eb64b843848cfe5be13410cb5bb851ac.png)
 
 ### **Kesimpulan**
 

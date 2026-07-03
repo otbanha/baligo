@@ -31,7 +31,7 @@ _srcHash: 4531af3bf4e8a60f9d4af772fea87386
 ---
 Tukad Badung Riverside, also known as Tukad Badung Riverside, is one of the most successful urban renewal projects under Denpasar's 'Green City, Friendly Citizens' initiative. This 1-kilometer-long, 4-meter-wide artificial waterway was once a murky, foul-smelling drainage ditch. However, since 2020, through collaboration between the Bali provincial government, municipal units, and the community, it has been thoroughly cleaned, redesigned, and transformed into a modern aesthetic and functional public space.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9bcc97b4941d0def4b645b5e493dc7ac.jpg)
+![Bali's Version of Cheonggyecheon? A Complete Guide to Taman ](https://images.gobaligo.id/vocus/vocus_9bcc97b4941d0def4b645b5e493dc7ac.jpg)
 
 The pathway is nicknamed 'Taman Tukad Korea' because its design draws inspiration from Seoul's Cheonggyecheon. It mimics the orderly riverbank design and lighting arrangements while incorporating local cultural elements, creating a unique blend of Eastern beauty and tropical charm.
 
@@ -41,7 +41,7 @@ Moreover, the riverbank is lined with wild cherry blossoms and tropical plants, 
 
 Beyond its scenic design, Tukad Badung Riverside emphasizes 'life participation.' You can sit on bamboo chairs by the river, savor hot grilled corn and satay, sip chilled passion fruit juice, and enjoy street performers playing traditional gamelan or local pop music. Handicraft markets and street artists are often present, allowing you to feel the city's creative pulse.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c5169911503e79727e1b2f6ff164cd5f.jpg)
+![Bali's Version of Cheonggyecheon? A Complete Guide to Taman ](https://images.gobaligo.id/vocus/vocus_c5169911503e79727e1b2f6ff164cd5f.jpg)
 
 In late 2023, the local government established an 'Ecological Education Corner' near the Kumbasari Market bridge. Through illustrations and text, it educates visitors about river ecosystems and water conservation, offering insights while they relax. Future plans include outdoor stages, community performance areas, and small ecological ponds to enhance educational and tourism integration.
 

@@ -19,7 +19,7 @@ _srcHash: 18ce798020f15cfe4d0dc26e5f3dce1a
 
 峇里島係一個充滿驚喜同奇幻嘅旅遊勝地，但係對於一啲遊客嚟講，面對當地嘅衛生習慣可能會感到困惑同不解。其中一個最令台灣人無法接受嘅文化差異就係佢哋用嚟大便後清理屎忽嘅 - 「屎忽槍（bum gun）」。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d3ec54a485047d9aca008c31271be6cc.jpg)
+![去印尼/峇里島旅行記得帶廁紙！](https://images.gobaligo.id/vocus/vocus_d3ec54a485047d9aca008c31271be6cc.jpg)
 
 預訂、慳錢就睇呢度：
 

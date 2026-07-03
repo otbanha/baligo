@@ -23,7 +23,7 @@ _srcHash: db1dde478f0454c3c4caee51548e8a62
 
 In this episode, we’ll take you through six must-buy snacks and souvenirs from Bali, each offering flavors that are hard to find in Taiwan!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c8fe13b748804b43b366d08d4fab4f51.png)
+![Bali Food Souvenirs Recommendation! Expert Picks for Six Loc](https://images.gobaligo.id/vocus/vocus_c8fe13b748804b43b366d08d4fab4f51.png)
 
 First, we consulted Bali's official tourism website to ensure our recommendations are authentic local specialties. After thorough research, we visited a souvenir shop highly regarded by locals as an 'expert' choice. This shop’s products are not only popular locally but also top sellers on auction websites, making them reliable picks!
 
@@ -31,5 +31,5 @@ These treats are not just a way to savor exotic flavors but also a wonderful way
 
 Watch Xiao Jie and his dad’s recommendations (if the video doesn’t display, [click here](https://youtu.be/4EzO1rpSMic?si=jRNSvt4ar5KU_U60)):
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7b88e2ef3c0369dbdd5c48cbdd9067d3.png)
+![Bali Food Souvenirs Recommendation! Expert Picks for Six Loc](https://images.gobaligo.id/vocus/vocus_7b88e2ef3c0369dbdd5c48cbdd9067d3.png)
 

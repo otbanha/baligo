@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: 1289e00e9ae25d7cdc0b8d225a4748d9
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_994e1b38fe9e5ae02d04c9e178525e3b.jpg)
+![【深入峇里島】峇里島夜市街頭小食｜峇里島夜市 Pasar Kreneng 係峇里島最大嘅夜市｜有咩係峇里島夜市必食、必買](https://images.gobaligo.id/vocus/vocus_994e1b38fe9e5ae02d04c9e178525e3b.jpg)
 
 峇里島行夜市有咩峇里島小食？行夜市係最能深入峇里島嘅一種方式嚟㗎！
 

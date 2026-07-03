@@ -92,7 +92,7 @@ Kiri: Langit mendung dengan senja di Mari Beach Club | Kanan: Bodyworks Spa
 
 ### Kontak Sopir:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f1744a892b82fbb9e71172be7468b200.png)
+![Kontak Sopir:](https://images.gobaligo.id/vocus/vocus_f1744a892b82fbb9e71172be7468b200.png)
 
 - Facebook - Fovix Ketut
 - Instagram - ketutfovik

@@ -20,7 +20,7 @@ _srcHash: d7fa5f69cb41a838a8c6d9936b3e1955
 ---
 呢項由登巴薩交通局推出嘅計劃，特別針對沙努爾度假區內部設計，唔同於已有嘅 Trans Metro Dewata 巴士路線，沙努爾接駁巴士將專門喺沙努爾區域內行駛，提供遊客「隨上隨下」嘅自由行動模式。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_68d4b99726fb49ba913d10972a6a4dbe.jpg)
+![峇里島沙努爾推出全新旅遊接駁巴士試營運](https://images.gobaligo.id/vocus/vocus_68d4b99726fb49ba913d10972a6a4dbe.jpg)
 
 此接駁巴士採用開放式設計，讓乘客能夠喺欣賞沿路風景嘅同時享受自然通風。不過部分乘客表示，若遇到大雨或強風，乘坐體驗可能會受到些許影響。
 
@@ -36,11 +36,11 @@ _srcHash: d7fa5f69cb41a838a8c6d9936b3e1955
 - Danau Toba路
 - 最後停靠點為沙努爾醫療特區（Sanur Special Economic Zone）鄰近嘅SMP Wisata區域
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e4d803fc5df07426b0f5021662e241ee.jpg)
+![峇里島沙努爾推出全新旅遊接駁巴士試營運](https://images.gobaligo.id/vocus/vocus_e4d803fc5df07426b0f5021662e241ee.jpg)
 
 關於峇里島沙努爾（Sanur）地區嘅電動接駁車（Shuttle / Bemo Listrik）收費與支付方式如下：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_52fb126f2de8603997d344ea4caf16c6.jpg)
+![峇里島沙努爾推出全新旅遊接駁巴士試營運](https://images.gobaligo.id/vocus/vocus_52fb126f2de8603997d344ea4caf16c6.jpg)
 
 ### 1. 目前是否收費？
 
@@ -82,7 +82,7 @@ _srcHash: d7fa5f69cb41a838a8c6d9936b3e1955
 
 ## 更多沙努爾吃喝玩樂介紹
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
+![更多沙努爾吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
 沙努爾係峇里島上一個充滿寧靜氣息嘅海濱小鎮，以平靜嘅沙灘、悠閒嘅氛圍同壯麗嘅日出景色聞名。呢度有適合家庭嘅度假村、傳統市場同豐富嘅當地美食，係享受慢生活同探索文化嘅理想之地。無論係漫步海岸線定係感受當地風情，沙努爾都可以帶俾你無比放鬆嘅假期體驗！想了解更多沙努爾攻略？[請點擊呢度](/blog/sanur-guide/)。
 

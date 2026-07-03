@@ -49,25 +49,25 @@ Provided by Yi Chen Lai
 
 In the evening, we headed straight to Ubud to stay at 【The Ambengan Villas Ubud by Pramana Villas】. I give this Villa a five-star recommendation!🌟🌟🌟🌟🌟
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360355434-69f2625bca68d359eae19ce16c2cd065.jpeg)
+![Day 1: Beach Sunset, Ubud Mountains, Here We Come!](https://images.gobaligo.id/images/2026-03/1774360355434-69f2625bca68d359eae19ce16c2cd065.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360355995-71f8d2ec8c6bf42b8cee817a6fd4c008.jpeg)
+![Day 1: Beach Sunset, Ubud Mountains, Here We Come!](https://images.gobaligo.id/images/2026-03/1774360355995-71f8d2ec8c6bf42b8cee817a6fd4c008.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360356536-182f722c4b1530a8093ee637063ad49a.jpeg)
+![Day 1: Beach Sunset, Ubud Mountains, Here We Come!](https://images.gobaligo.id/images/2026-03/1774360356536-182f722c4b1530a8093ee637063ad49a.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360357094-548958744.jpg)
+![Day 1: Beach Sunset, Ubud Mountains, Here We Come!](https://images.gobaligo.id/images/2026-03/1774360357094-548958744.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360357561-558872149.jpg)
+![Day 1: Beach Sunset, Ubud Mountains, Here We Come!](https://images.gobaligo.id/images/2026-03/1774360357561-558872149.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360357977-558872169.jpg)
+![Day 1: Beach Sunset, Ubud Mountains, Here We Come!](https://images.gobaligo.id/images/2026-03/1774360357977-558872169.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360358349-562314643.jpg)
+![Day 1: Beach Sunset, Ubud Mountains, Here We Come!](https://images.gobaligo.id/images/2026-03/1774360358349-562314643.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360358805-562314653.jpg)
+![Day 1: Beach Sunset, Ubud Mountains, Here We Come!](https://images.gobaligo.id/images/2026-03/1774360358805-562314653.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360359319-c9c19c0e48144c9e42c8f5cdd5656c7a.jpeg)
+![Day 1: Beach Sunset, Ubud Mountains, Here We Come!](https://images.gobaligo.id/images/2026-03/1774360359319-c9c19c0e48144c9e42c8f5cdd5656c7a.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360359884-d239345d1540ed321f9c749ed1a4279b.jpeg)
+![Day 1: Beach Sunset, Ubud Mountains, Here We Come!](https://images.gobaligo.id/images/2026-03/1774360359884-d239345d1540ed321f9c749ed1a4279b.jpeg)
 
 Featured in [20 Stunning Bali Villas in Ubud](/blog/ubud-villa-pool-guide/)
 
@@ -168,7 +168,7 @@ Photo by Yi Chen Lai
 
 We rented flowing long skirts for the occasion, costing **370,000 IDR (approximately USD$23)**. While a bit pricey, the photos turned out absolutely stunning—especially when the swing reaches its peak, with the entire rice terrace in the background, making you feel like a cover model for a travel magazine 😍
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ad3a7d83fdef931866103201d21e5d3.jpg)
+![Tegalalang Rice Terrace & Instagram Swing](https://images.gobaligo.id/vocus/vocus_6ad3a7d83fdef931866103201d21e5d3.jpg)
 
 https://youtu.be/e1QnJGYvL0U
 
@@ -363,7 +363,7 @@ Bali, we’ll see you next time! 🌴🌞 Wishing everyone smooth and joyful jou
 
 Do you find [Yi Chen Lai](https://www.facebook.com/share/p/1AUuB62LBX/)'s itinerary exciting? Start planning your own Bali adventure now! We also welcome everyone to share your itineraries in our community!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Perfect Ending: The Right Driver Makes All the Difference!](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Click here to explore more amazing Bali travel stories
 

@@ -20,7 +20,7 @@ _srcHash: 99e224ac56424b6e24d43064ba0fdba8
 
 Di surga tropis Bali, pilihan transportasi jadi salah satu hal yang paling dipikirin wisatawan. Buat kamu yang pengin santai keliling Bali, milih moda transportasi yang pas itu penting banget.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6fbcb3d72a50baf9dfcc3f9e66920b05.jpg)
+![【Tips Travel Bali】Bawa Barang Seadanya! Panggil Ojek lewat A](https://images.gobaligo.id/vocus/vocus_6fbcb3d72a50baf9dfcc3f9e66920b05.jpg)
 
 Seorang teman grup, Pingping, yang lagi rencanain liburan ke Bali, nanya soal transportasi: kalau mereka berdua cuma mau jalan-jalan di sekitar hotel, dan jarak ke pasar, pantai, restoran, dan spa nggak lebih dari 15 menit jalan kaki, lebih baik sewa motor sendiri atau panggil ojek lewat aplikasi? Soalnya katanya Bali macet parah, dia nggak mau buang waktu di jalan cuma buat jarak pendek.
 

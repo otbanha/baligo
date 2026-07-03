@@ -27,7 +27,7 @@ On June 17, 2025, at 5:35 PM, **Lewotobi Laki-Laki Volcano** on Flores Island, I
 
 The Indonesian government raised the volcano alert to the highest level (Level 4), and the Geological Agency expanded the evacuation zone to a radius of 7 kilometers, extending up to 8 kilometers in the southwest and northeast directions.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e5f5a4ccdcad653ff2020614af44a039.jpg)
+![⏰ Details of the Volcanic Eruption](https://images.gobaligo.id/vocus/vocus_e5f5a4ccdcad653ff2020614af44a039.jpg)
 
 ---
 
@@ -86,7 +86,7 @@ Wings Air has canceled six flights, affecting routes such as:
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_55d9582fe743fd8c3c890cd3ca1665e3.jpg)
+![Flores Island Domestic Flights and Airport Status](https://images.gobaligo.id/vocus/vocus_55d9582fe743fd8c3c890cd3ca1665e3.jpg)
 
 ### **🎒 Travel Safety and Recommendations**
 

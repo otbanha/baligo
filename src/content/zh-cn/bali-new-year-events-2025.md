@@ -21,13 +21,13 @@ _srcHash: 5e2af44f54b0478c9b50e86368dadea2
 
 ## 🌟 **你准备好在巴厘岛迎接2025年跨年了吗？** 🌟
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_455df24745833ffc85f293afad9815dc.png)
+![你准备好在巴厘岛迎接2025年跨年了吗？](https://images.gobaligo.id/vocus/vocus_455df24745833ffc85f293afad9815dc.png)
 
 这篇文章将为你提供一个简单的指南，带你进入这个热闹非凡的庆祝盛会！作为印尼最具魅力的旅游胜地之一，巴厘岛凭借它无与伦比的自然风光和当地人热情友善的待客之道，成为东南亚跨年活动的首选之地。如果你正在计划在巴厘岛度过2025年的新年夜，那么这里的海滩派对和烟火秀一定会让你印象深刻。
 
 ## 🎉 巴厘岛跨年庆祝 🎉
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f9175389ceba0a39f7a52a4dd6e98c71.png)
+![巴厘岛跨年庆祝](https://images.gobaligo.id/vocus/vocus_f9175389ceba0a39f7a52a4dd6e98c71.png)
 
 巴厘岛在跨年期间吸引了来自全球的游客和当地人，特别是在库塔（Kuta）海滩举行的年度嘉年华活动中，你可以白天就加入热闹的庆祝行列。当夜幕降临时，许多游客涌向岛上的海滩、酒吧和餐厅，围着篝火跳舞，迎接2025年的到来。烟火在午夜时分点亮天空，为新的一年拉开序幕。
 
@@ -41,7 +41,7 @@ _srcHash: 5e2af44f54b0478c9b50e86368dadea2
 
 ## 🎆 巴厘岛跨年烟火秀：点亮夜空 🎆
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c36d85803771613e03024fe8d2bc03d.png)
+![巴厘岛跨年烟火秀：点亮夜空](https://images.gobaligo.id/vocus/vocus_1c36d85803771613e03024fe8d2bc03d.png)
 
 每到新年，巴厘岛的天空都会被绚丽的烟火点亮。最好的观赏地点包括：
 
@@ -54,7 +54,7 @@ _srcHash: 5e2af44f54b0478c9b50e86368dadea2
 
 ## 🏨 2025年巴厘岛跨年酒店优惠 🏨
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f364f7a761a9b1b9e6d31f92a2f3fe44.png)
+![2025年巴厘岛跨年酒店优惠](https://images.gobaligo.id/vocus/vocus_f364f7a761a9b1b9e6d31f92a2f3fe44.png)
 
 巴厘岛的跨年庆祝活动不仅限于户外的派对，当地的酒店也提供丰富的跨年套餐和活动。以下是一些热门的酒店，提前预订才能享受优惠价格：
 
@@ -74,7 +74,7 @@ _srcHash: 5e2af44f54b0478c9b50e86368dadea2
 
 ## 🎉狂欢派对🎉
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_700d8e5ab02bc66cfc6e9213e960bc2d.png)
+![狂欢派对](https://images.gobaligo.id/vocus/vocus_700d8e5ab02bc66cfc6e9213e960bc2d.png)
 
 如果你是个派对爱好者，那么绝对不能错过巴厘岛几乎所有的海滩俱乐部，在跨年夜各大俱乐部都有精彩的庆祝活动，让你在派对中尽情狂欢。👉 [[点击这里查看巴厘岛顶级海滩俱乐部推荐](/blog/bali-beach-clubs-free-entry-list/)]
 
@@ -91,7 +91,7 @@ _srcHash: 5e2af44f54b0478c9b50e86368dadea2
 
 📩 **立即加入「巴厘岛旅游攻略」博客，成为巴厘岛旅游达人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![注册加入我们的博客](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **通过免费订阅，你将获得：**
 

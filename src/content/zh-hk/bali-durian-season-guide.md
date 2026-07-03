@@ -38,7 +38,7 @@ _srcHash: 861edd1f78bb96600434d414a80a2d3d
 
 如果你係榴槤控，嚟峇里島真係要揀啱時間，唔係可能只聞到味道但食唔到「爆量版本」😂
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775544264541-balipostcom_unik-ada-tradisi-persembahan-durian-di-sidatapa_01.jpg)
+![峇里島榴槤產季全攻略｜幾時最香、最平？](https://images.gobaligo.id/images/2026-04/1775544264541-balipostcom_unik-ada-tradisi-persembahan-durian-di-sidatapa_01.jpg)
 
 ## 📅 峇里島榴槤產季時間
 
@@ -76,7 +76,7 @@ _srcHash: 861edd1f78bb96600434d414a80a2d3d
 - 間中會有「第二波小產季」
 - 但品質同數量唔穩定
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775544297904-banyuwnagi-durian.jpg)
+![隨緣型旅人](https://images.gobaligo.id/images/2026-04/1775544297904-banyuwnagi-durian.jpg)
 
 ***
 

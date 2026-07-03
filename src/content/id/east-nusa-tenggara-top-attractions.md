@@ -31,7 +31,7 @@ _srcHash: 4c7b6519f6231624c2f62cc4d7dae706
 
 **10 Destinasi Wisata Super Indah di Nusa Tenggara Timur (NTT): Jelajahi Keajaiban Alam Tenggara Indonesia**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d533378734952d93925747e329aad969.jpg)
+![【Kejutan di Luar Komodo】10 Destinasi Wajib di Nusa Tenggara ](https://images.gobaligo.id/vocus/vocus_d533378734952d93925747e329aad969.jpg)
 
 Nusa Tenggara Timur (NTT) itu hidden gem banget di Indonesia, punya banyak tempat wisata alam dan budaya yang bikin melongo. Provinsi di tenggara Indonesia ini terkenal dengan kepulauannya yang memesona dan ekosistem yang beragam. Artikel ini bakal ajak kamu kenalan lebih dalam sama beberapa tempat wajib kunjung pas traveling ke NTT.
 
@@ -139,7 +139,7 @@ Alor Island
 
 Semua lokasi detail di atas bisa kamu lihat di Google Maps yang udah kita siapin. Klik [di sini](https://www.google.com/maps/d/u/0/edit?mid=1yez9rhVYwAPXJbLL5LS7d_xEOy4eM9Q&usp=sharing)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8b8da8fc080d7b575e99856a701148b8.png)
+![Peta Tempat Wisata](https://images.gobaligo.id/vocus/vocus_8b8da8fc080d7b575e99856a701148b8.png)
 
 ## **Kesimpulan**
 

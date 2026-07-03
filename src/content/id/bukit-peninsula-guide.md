@@ -76,7 +76,7 @@ Pantai Jimbaran terkenal dengan dinner seafood cahaya lilin. Meja-meja berjejer 
 
 ### **Garuda Wisnu Kencana Cultural Park (GWK Plaza)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_385788101230f38177f03e95e94495a0.jpg)
+![Garuda Wisnu Kencana Cultural Park (GWK Plaza)](https://images.gobaligo.id/vocus/vocus_385788101230f38177f03e95e94495a0.jpg)
 
 GWK Cultural Park (Patung Garuda Wisnu Kencana) yang terletak di Jimbaran adalah destinasi budaya bertema mitologi Hindu Bali. Di sini ada patung Garuda Wisnu Kencana setinggi 120 meter yang jadi ikon Bali. Di dalam taman juga sering diadakan pertunjukan tari tradisional dan musik, bikin kamu makin paham soal seni dan budaya lokal.
 
@@ -154,7 +154,7 @@ Lebih lengkap soal tempat wisata dan rekomendasi hotel di Nusa Dua, cek di sini:
 
 ## Pilihan Pertama: Petualangan di Uluwatu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_134f994f3e774c47d5e56694a2b1052e.png)
+![Pilihan Pertama: Petualangan di Uluwatu](https://images.gobaligo.id/vocus/vocus_134f994f3e774c47d5e56694a2b1052e.png)
 
 ### **Pagi: Jelajahi Pura Uluwatu yang Megah dan Tebing Cantik**
 
@@ -211,7 +211,7 @@ Buat kamu yang pengen nonton pertunjukan tari api, bisa cek paket wisata populer
 
 ## **Cara Main Kedua: Seafood Jimbaran & Pengalaman Budaya**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6e4d3f6a3f09b6ef0d2c063e9bc05d69.jpg)
+![Cara Main Kedua: Seafood Jimbaran & Pengalaman Budaya](https://images.gobaligo.id/vocus/vocus_6e4d3f6a3f09b6ef0d2c063e9bc05d69.jpg)
 
 ### **Pagi: Kunjungi Desa Nelayan & Pasar Jimbaran**
 
@@ -239,7 +239,7 @@ Di kawasan Jimbaran, banyak banget resort SPA mewah dan pusat perawatan yang sia
 
 Kalau masih ada waktu, mampir ke spot hits yang lagi viral di kawasan Uluwatu, namanya **Batu Barak** — tempat foto keren yang dijuluki 'jalan biru'.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_46d76bd229be43ff141a38c7465377ec.jpg)
+![Sore: Relaksasi SPA](https://images.gobaligo.id/vocus/vocus_46d76bd229be43ff141a38c7465377ec.jpg)
 
 [Batu Barak 藍色公路最新介紹](/blog/pandawa-beach-traffic-policy/)
 

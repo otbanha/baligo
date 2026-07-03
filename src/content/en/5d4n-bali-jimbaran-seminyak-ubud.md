@@ -47,7 +47,7 @@ _srcHash: be6c3e1d5dc0f6ddadf8636806eda96e
 
 If you haven't read the previous post yet, I recommend starting with **《[Bali 5-Day 4-Night Independent Travel (Part 1)](https://gobaligo.id/blog/2026-03-29-092243/)》**, which covers everything from arriving in Bali, airport entry, Jimbaran accommodation, food, beach sunsets, SPA, and the itinerary for the first two days—reading it will give you a more cohesive experience.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1782646762456-_2026-06-28_18.38.54.png)
+![Bali 5-Day 4-Night Independent Travel (Part 2): Seminyak, Ub](https://images.gobaligo.id/images/2026-06/1782646762456-_2026-06-28_18.38.54.png)
 
 [Click here for Part 1: Four Seasons Jimbaran Accommodation Experience](https://gobaligo.id/blog/2026-03-29-092243/)
 
@@ -91,25 +91,25 @@ The villa came with a private pool, a small kitchen, and a small soaking tub whe
 
 If we had to choose between the two villas we stayed in on this trip, we personally preferred **Berry Amour Romantic Villas**. The overall layout, comfort, and romantic ambiance suited our tastes better.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366773073-496455867.jpg)
+![Day 3](https://images.gobaligo.id/images/2026-03/1774366773073-496455867.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366773500-114432965.jpg)
+![Day 3](https://images.gobaligo.id/images/2026-03/1774366773500-114432965.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366773901-194194465.jpg)
+![Day 3](https://images.gobaligo.id/images/2026-03/1774366773901-194194465.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366774242-198621447.jpg)
+![Day 3](https://images.gobaligo.id/images/2026-03/1774366774242-198621447.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366774616-207488169.jpg)
+![Day 3](https://images.gobaligo.id/images/2026-03/1774366774616-207488169.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366775025-414836014.jpg)
+![Day 3](https://images.gobaligo.id/images/2026-03/1774366775025-414836014.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366775332-496458074.jpg)
+![Day 3](https://images.gobaligo.id/images/2026-03/1774366775332-496458074.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366775742-496458171.jpg)
+![Day 3](https://images.gobaligo.id/images/2026-03/1774366775742-496458171.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366776152-496458198.jpg)
+![Day 3](https://images.gobaligo.id/images/2026-03/1774366776152-496458198.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366776561-496470436.jpg)
+![Day 3](https://images.gobaligo.id/images/2026-03/1774366776561-496470436.jpg)
 
 Berry Amour Romantic Villas is a five-star romantic villa complex with 20 villas, accepting only couples and guests aged 16 and above. [Here](https://gobaligo.id/blog/seminyak-private-villas-guide/#berry-amour-romantic-villas) is a detailed introduction.
 
@@ -117,7 +117,7 @@ Berry Amour Romantic Villas is a five-star romantic villa complex with 20 villas
 
 In the evening, we didn't go out again but ordered delivery via **Grab** and enjoyed dinner leisurely at the villa. We ordered pizza, Pad Thai, and Tom Yum soup. Not only was the delivery fast, but the prices were also much cheaper than expected, and everything tasted great.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1782548454843-pizza.jpg)
+![Day 3](https://images.gobaligo.id/images/2026-06/1782548454843-pizza.jpg)
 
 (Provided by Dr. Huang)
 
@@ -143,7 +143,7 @@ Upon entering the area, a local guide accompanied us, handing out a bag of peanu
 
 The most fun part was that the guide would occasionally make specific sounds to attract the monkeys. Before long, monkeys would voluntarily jump onto shoulders, arms, or nearby trees, giving us plenty of opportunities for interaction and photos. The whole process felt natural, and you could tell the guide was very familiar with these monkeys.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1782548550073-mixcollage-27-jun-2026-03-16-pm-9129.jpg)
+![Day Four](https://images.gobaligo.id/images/2026-06/1782548550073-mixcollage-27-jun-2026-03-16-pm-9129.jpg)
 
 (Provided by Dr. Huang)
 
@@ -167,7 +167,7 @@ We ordered **coconut ice, coconut lemonade, and an American coffee**. The icy co
 
 After our break, we discovered a shop selling **Kopi Luwak (civet coffee)**. The best part? We could actually interact with real civet cats up close!
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1782548311880-luwak.jpg)
+![Day Four](https://images.gobaligo.id/images/2026-06/1782548311880-luwak.jpg)
 
 The civet cats at the shop were much larger than I expected, weighing about **10 kilograms**. The staff even let us hold them for photos, which was quite a unique experience.
 
@@ -177,7 +177,7 @@ After walking around, our feet started protesting, so we headed to the nearby **
 
 This time, we chose the **Rice Farmer Massage** package, which includes a **60-minute Rice Farmer Massage** plus a **30-minute foot massage**, priced at about **NT$800 (USD$26)** per person.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1782548370433-spa.jpg)
+![Day Four](https://images.gobaligo.id/images/2026-06/1782548370433-spa.jpg)
 
 (Provided by Dr. Huang)
 
@@ -227,7 +227,7 @@ Looking back, these five days only let us explore a small part of Bali, yet we'v
 
 The food here makes you want to savor it again, the SPA massages remain a high-value indulgence, and the Monkey Forest and civet cat interactions were both fascinating. The two villas we stayed in each had their own charm and are highly recommendable.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1782548632198-benny.jpg)
+![Day 5](https://images.gobaligo.id/images/2026-06/1782548632198-benny.jpg)
 
 (Provided by Dr. Huang)
 

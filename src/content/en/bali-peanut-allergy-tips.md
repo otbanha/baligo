@@ -22,7 +22,7 @@ _srcHash: 6dfdad5ade61f0cd3b2a09443b4b2295
 
 When traveling in Bali, it's essential for those with peanut allergies to steer clear of foods containing peanuts. While Bali offers diverse cuisine, peanuts are commonly used in certain dishes and sauces, so extra caution is necessary.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_560250c5a2572c49e425faaa459bceb2.png)
+![Peanut Allergy? Here's What to Do in Bali](https://images.gobaligo.id/vocus/vocus_560250c5a2572c49e425faaa459bceb2.png)
 
 Here are some foods and products to avoid or approach with caution in Bali, as they may contain peanuts:
 
@@ -35,7 +35,7 @@ When traveling in Bali, understanding food ingredients and preparation methods i
 
 Most importantly, to avoid accidental consumption, don't forget to carry emergency allergy relief supplies with you at all times in case of unexpected reactions.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa7648471037473f80418f211f4b41ad.png)
+![Peanut Allergy? Here's What to Do in Bali](https://images.gobaligo.id/vocus/vocus_aa7648471037473f80418f211f4b41ad.png)
 
 Before reading our **"Ultimate Bali Travel Guide"**, we sincerely invite you to subscribe to our YouTube channel **"Jason Indonesia"** for more visual experience sharing. [Click here](http://bit.ly/youtube-jason) to subscribe now.
 

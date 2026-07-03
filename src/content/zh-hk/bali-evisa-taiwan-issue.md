@@ -39,7 +39,7 @@ _srcHash: bf33bc37c3d9a2095f2718f0b437c479
 
 結果就見到呢一幕...
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7a0749e55a6adfe7ad66dfd5d10f8945.jpg)
+![尋找嘅過程](https://images.gobaligo.id/vocus/vocus_7a0749e55a6adfe7ad66dfd5d10f8945.jpg)
 
 ## 被「和諧」嘅結果
 

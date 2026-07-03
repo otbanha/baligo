@@ -40,7 +40,7 @@ update：2026/06/16
 
 作为文化爱好者的天堂，乌布皇宫每周四晚上都会举行传统的巴厘舞蹈表演，其中包括充满神秘感的「卡恰火舞」表演。这些表演是巴厘岛最具代表性的艺术活动之一，吸引着众多来自世界各地的游客。表演票价为100K印尼盾，活动通常在每星期四晚间7点到8点之间进行，适合在日落余晖下享受这场视觉盛宴。对于想深入了解巴厘文化的游客来说，这是一次难得的体验。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e2005bd1999f438cbe9fc3d2a10ac176.png)
+![乌布皇宫的亮点：艺术表演](https://images.gobaligo.id/vocus/vocus_e2005bd1999f438cbe9fc3d2a10ac176.png)
 
 > [乌布皇宫卡恰火舞购票优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=944134&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2deaa6927)
 
@@ -116,7 +116,7 @@ https://youtu.be/JtxZHtijEkE
 
 乌布皇宫不仅是乌布当地的地标建筑，更是巴厘岛历史和艺术的珍贵宝藏。在这里，你可以感受到巴厘皇室昔日的辉煌，欣赏到纯正的传统艺术，并深入了解巴厘岛独特的文化背景。而其周边景点提供了丰富多样的体验，让游客既能欣赏巴厘岛的历史文化，又能享受购物乐趣，还能近距离接触大自然。无论你是热爱历史、喜欢购物，还是偏爱自然景观，这里都能满足你的需求，让你的巴厘岛之旅充满惊喜与收获。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7ed2f29faae88b539880459d2bf83b98.jpg)
+![小结](https://images.gobaligo.id/vocus/vocus_7ed2f29faae88b539880459d2bf83b98.jpg)
 
 ## 乌布皇宫 FAQ 常见问题
 

@@ -213,7 +213,7 @@ https://youtu.be/KPGb6MmwfZw
 
 建议用有提供海外消费回馈、低或没有海外手续费的信用卡，在大型酒店或大餐厅消费使用，这样可能更划算。这样既能享受到美金换汇的好汇率，又保留了弹性！小提醒：有团友曾在**小超市使用信用卡就被盗刷**，信用卡请谨慎使用！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2378c7ff4f1c9c76019a72c8491a8a65.png)
+![17.信用卡刷卡消费](https://images.gobaligo.id/vocus/vocus_2378c7ff4f1c9c76019a72c8491a8a65.png)
 
 **快速参考：**
 

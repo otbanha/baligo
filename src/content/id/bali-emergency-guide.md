@@ -39,7 +39,7 @@ Walaupun kita semua berharap liburan mulus, siapa tahu ada hal tak terduga. Misa
 
 Artikel ini ngumpulin **nomor darurat paling lengkap dan penting di Bali**. Gue saranin banget **copy dan simpan langsung di kontak HP sebelum berangkat**, atau simpan gambar panduan ini di galeri biar siap sedia!
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779254222775-emergency.jpg)
+![【2026 Bali Darurat】Saat Genting Bisa Nyelametin! Panduan Nom](https://images.gobaligo.id/images/2026-05/1779254222775-emergency.jpg)
 
 ## 📱 Lima Nomor Darurat Utama di Bali
 

@@ -29,7 +29,7 @@ lang: en
 _srcHash: b8d9fe589de91ecb44a6df7a05f06b2a
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_49316950dc7a762a8401be7816d1dd28.jpg)
+![Flight Attendant Secrets You Never Knew: Carry-On Luggage Ti](https://images.gobaligo.id/vocus/vocus_49316950dc7a762a8401be7816d1dd28.jpg)
 
 Carry-on luggage management is an unavoidable challenge for every air traveler. As a flight attendant with 6 years of experience at a U.S. airline, CiCi has observed and accumulated extensive practical knowledge about passengers' carry-on habits. Here, she shares common mistakes and solutions to help you breeze through boarding and enjoy a comfortable flight.
 

@@ -19,7 +19,7 @@ _srcHash: e7dd9a23ce387c149f6665cc1e9a1361
 
 **遊客在熱門嘅峇里島海灘須謹慎保管個人物品**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_576a4ec49c3bef2abbd893a23d4ca79c.png)
+![峇里島警方發出提醒：海灘、餐廳、咖啡館請提高警覺！](https://images.gobaligo.id/vocus/vocus_576a4ec49c3bef2abbd893a23d4ca79c.png)
 
 ## **峇里島警方迅速破案，提醒遊客提高警覺**
 
@@ -27,7 +27,7 @@ _srcHash: e7dd9a23ce387c149f6665cc1e9a1361
 
 **佩瑞瑞南海灘位於峇里島著名嘅坎古地區**，呢度啱啱被《TimeOut》雜誌評為 **2024 年全球最型街區**。不過，雖然呢度風景好靚，當地警方仍然提醒遊客要提高安全意識，避免個人物品被偷。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fa6310b2330c70805eaf2135cc3228a7.jpg)
+![峇里島警方迅速破案，提醒遊客提高警覺](https://images.gobaligo.id/vocus/vocus_fa6310b2330c70805eaf2135cc3228a7.jpg)
 
 ---
 
@@ -84,7 +84,7 @@ GK 立即向孟威警察局報案，警方迅速展開調查。
 
 雖然發生咗呢單盜竊案件，**佩瑞瑞南（Pererenan）依然係峇里島最受歡迎嘅旅遊勝地之一**。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2cdb04da2788cc31bb905d141d05d5b0.png)
+![佩瑞瑞南海灘仍然係 2024 年度最型旅行勝地](https://images.gobaligo.id/vocus/vocus_2cdb04da2788cc31bb905d141d05d5b0.png)
 
 呢個地方位於 **坎古（Canggu）中心**，有壯麗嘅海景、悠閒嘅咖啡館，同埋多樣化嘅購物選擇，被評選為 **2024 年度全球最型街區**。
 
@@ -98,7 +98,7 @@ GK 立即向孟威警察局報案，警方迅速展開調查。
 
 ## 更多坎古吃喝玩樂介紹
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b47b6501ceec6425040cb1bda360b29.jpg)
+![更多坎古吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_3b47b6501ceec6425040cb1bda360b29.jpg)
 
 [坎古攻略請點我！](/blog/canggu-guide/)
 
@@ -124,6 +124,6 @@ GK 立即向孟威警察局報案，警方迅速展開調查。
 
 「機會型小偷」（英文：Opportunistic Thief）係指冇預先計劃犯罪，而係當下發現有偷竊機會就臨時起意偷嘢嘅小偷。呢類小偷通常唔會針對特定目標，而係隨機選擇大意嘅受害者，趁對方唔為意時快手偷嘢。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3a66a8655835f15ac8c6a8903d09e534.png)
+![4. 咩係「機會型小偷」？](https://images.gobaligo.id/vocus/vocus_3a66a8655835f15ac8c6a8903d09e534.png)
 
 ###

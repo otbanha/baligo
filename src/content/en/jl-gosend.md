@@ -61,7 +61,7 @@ The discovery was made at 7 PM, by which time the couple had already arrived in 
 
 Under such circumstances, they were almost ready to give up.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777187750922-screenshot_20260426_133549.jpg)
+![A Forgotten Neck Pillow](https://images.gobaligo.id/images/2026-04/1777187750922-screenshot_20260426_133549.jpg)
 
 ***
 
@@ -119,7 +119,7 @@ He didn't say much, just smiled and handed over the item.
 
 This simple gesture instantly brought the journey's emotions back on track.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777187824352-screenshot_20260426_133636.jpg)
+![A Silent Yet Crucial Moment](https://images.gobaligo.id/images/2026-04/1777187824352-screenshot_20260426_133636.jpg)
 
 ***
 
@@ -131,7 +131,7 @@ Back in their room, the couple was still amazed by the whole experience:
 👉 About 1 hour
 👉 Only USD$4
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777187885962-screenshot_20260426_133622.jpg)
+![A Little Extra Gesture](https://images.gobaligo.id/images/2026-04/1777187885962-screenshot_20260426_133622.jpg)
 
 In the end, they decided to add an extra IDR 30,000 tip through the platform as a token of their gratitude.
 

@@ -64,7 +64,7 @@ _srcHash: c4d68e52ce62d543675f828f82170bd6
 * 投資簽證 (Investment Visa)
 * 藝術家與表演者簽證 (Artists and Performers Visa)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778570595314-image_1778570565623.jpg)
+![3. 點樣揀啱簽證？](https://images.gobaligo.id/images/2026-05/1778570595314-image_1778570565623.jpg)
 
 {{block:戶外}}
 

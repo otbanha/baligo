@@ -32,7 +32,7 @@ _srcHash: 305a7a0bcb7b501e073fe04c65fba4b1
 
 Bali punya pemandangan alam yang super beragam dan budaya yang dalem banget. Dari sawah terasering, gunung, pantai, sampai pura dan jalanan kota — setiap sudutnya Instagramable abis.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a44a207f22d8db8ffa088304a901919c.jpg)
+![Pilih Paket Foto Prewedding di Bali? Rekomendasi Fotografer,](https://images.gobaligo.id/vocus/vocus_a44a207f22d8db8ffa088304a901919c.jpg)
 
 Ditambah lagi, cahaya alami di Bali tuh lembut, warnanya kaya, dan baju adatnya unik banget — cocok banget buat foto portrait atau seni. Jadi, baik buat dokumentasi perjalanan atau foto tema, hasilnya pasti berkualitas tinggi.
 
@@ -73,7 +73,7 @@ Kalau kamu mau pakai baju adat Bali yang mewah, berfoto dengan latar nuansa Bali
 
 Pas pakai sarung, selendang, dan hiasan kepala, suasananya langsung berubah total, dalem banget secara budaya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_de3aa30663aad14db9d0327ca03a15b5.jpg)
+![Fotografi Baju Adat Tradisional](https://images.gobaligo.id/vocus/vocus_de3aa30663aad14db9d0327ca03a15b5.jpg)
 
 Fotografi macam ini bukan cuma foto doang, tapi juga pengalaman seni dan budaya yang seru.
 
@@ -107,7 +107,7 @@ Detail-detail ini bisa banget ningkatin kualitas dan pengalaman fotomu.
 
 ***
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_31d6065de06df0fb4e9e2fa6f84d01d3.jpg)
+![Tips Foto Profesional di Bali](https://images.gobaligo.id/vocus/vocus_31d6065de06df0fb4e9e2fa6f84d01d3.jpg)
 
 ## **Pertanyaan Umum (FAQ)**
 

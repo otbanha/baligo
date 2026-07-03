@@ -22,7 +22,7 @@ _srcHash: 1ebc420a426fd7a710d35602729a53af
 
 對好多遊客嚟講，峇里島唔只係陽光同沙灘嘅代名詞，佢仲蘊含住豐富嘅藝術文化同歷史傳承。呢座美麗嘅島嶼令人哋返屋企時唔單止帶住滿滿嘅回憶同相片，仲可以帶住具有象徵意義、別具文化價值嘅紀念品。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3326e23359c6b24fc3c03ae195c1a0f0.jpg)
+![峇里島文化紀念品：讓旅遊回憶永存心中](https://images.gobaligo.id/vocus/vocus_3326e23359c6b24fc3c03ae195c1a0f0.jpg)
 
 ## **藝術與手工藝品：峇里島嘅靈魂體現**
 
@@ -40,7 +40,7 @@ _srcHash: 1ebc420a426fd7a710d35602729a53af
 
 ## **沙龍布：多功能又富文化意義嘅布料**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b2c783681d7b2cfdfc2a9d8ddc62b04.jpg)
+![沙龍布：多功能又富文化意義嘅布料](https://images.gobaligo.id/vocus/vocus_0b2c783681d7b2cfdfc2a9d8ddc62b04.jpg)
 
 沙龍（Sarong）係峇里島最經典嘅紀念品之一。呢種傳統布料不但價錢親民，仲具備多重用途，例如：
 
@@ -54,9 +54,9 @@ _srcHash: 1ebc420a426fd7a710d35602729a53af
 
 ## **木雕工藝：栩栩如生嘅傳統藝術**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1e945f926f2964e4e6a40d6d309af9fe.jpg)
+![木雕工藝：栩栩如生嘅傳統藝術](https://images.gobaligo.id/vocus/vocus_1e945f926f2964e4e6a40d6d309af9fe.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_389d421a515ce3f1b42d7541d961aaea.jpg)
+![木雕工藝：栩栩如生嘅傳統藝術](https://images.gobaligo.id/vocus/vocus_389d421a515ce3f1b42d7541d961aaea.jpg)
 
 由和平象徵、生命之樹、神話角色到大象造型，峇里島嘅木雕全部都係出自當地技藝嫻熟嘅匠人之手。烏布同德哥拉朗（Tegallalang）地區係木雕藝術嘅重要發源地，遊客亦可以報名參加木雕課程，親身體驗呢門古老工藝。
 
@@ -70,7 +70,7 @@ _srcHash: 1ebc420a426fd7a710d35602729a53af
 - 編織手帶
 - 香薰線香
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff10ebf58e5c2d63903933319ff19bda.jpg)
+![輕便小物：適合送禮同收藏嘅經典選擇](https://images.gobaligo.id/vocus/vocus_ff10ebf58e5c2d63903933319ff19bda.jpg)
 
 呢啲小物唔單止價錢親民，喺各大藝術市場都輕鬆買到，係遊客返去送俾親友嘅好選擇。
 

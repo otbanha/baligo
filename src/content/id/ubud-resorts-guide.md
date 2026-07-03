@@ -81,7 +81,7 @@ Di artikel ini, kita bakal bahas tuntas keunikan dan daya tarik setiap akomodasi
 
 ## Hunian Tenang di Tengah Hutan Hujan: The Kayon Jungle Resort
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4981dd2dd06665126fad41dc7c1a5b8a.jpg)
+![Hunian Tenang di Tengah Hutan Hujan: The Kayon Jungle Resort](https://images.gobaligo.id/vocus/vocus_4981dd2dd06665126fad41dc7c1a5b8a.jpg)
 
 The Kayon Jungle Resort terletak di tengah hutan hujan tropis Ubud, Bali, dikelilingi sungai yang mengalir tenang, menciptakan suasana damai dan elegan. Kamar dan suite resort ini mengusung arsitektur tradisional Bali, dilengkapi kolam renang pribadi atau balkon, biar kamu bisa menikmati keindahan alam dengan privasi maksimal.
 
@@ -93,7 +93,7 @@ The Kayon Jungle Resort adalah pilihan tepat buat kamu yang ingin kabur dari hir
 
 ## Surga Tersembunyi di Hutan Hujan Bali: **Aksari Resort Ubud**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aed929ee9dba24b82eece871e7c38f61.jpg)
+![Surga Tersembunyi di Hutan Hujan Bali: Aksari Resort Ubud](https://images.gobaligo.id/vocus/vocus_aed929ee9dba24b82eece871e7c38f61.jpg)
 
 Kamu pencinta budaya? Jangan lewatkan Ubud, pusat seni Bali! Mau pertama kali atau sudah sering ke sini, Aksari Resort bisa bikin kamu dapet pengalaman baru di tengah hutan.
 
@@ -109,7 +109,7 @@ Resort ini punya kolam renang infinity yang bikin takjub.
 
 ## Tempat Tenang di Tepi Sungai Ayung: Fivelements Bali Retreat
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3cf4a48303612e718c38be30a94bcb72.jpg)
+![Tempat Tenang di Tepi Sungai Ayung: Fivelements Bali Retreat](https://images.gobaligo.id/vocus/vocus_3cf4a48303612e718c38be30a94bcb72.jpg)
 
 Tersembunyi di tepi Sungai Ayung yang sakral, Fivelements Bali Retreat terkenal dengan fasilitas yoga, pijat, dan meditasi kelas atas — ini surga penyembuhan jiwa dan raga nomor satu di Bali. Sungai Ayung dianggap suci oleh warga setempat, sering dipakai buat bersihin hati. Villa dan suite resort semuanya menghadap sungai, jadi pagi-pagi kamu bisa dibangunin sama suara air yang menenangkan, memulai hari dengan damai.
 
@@ -121,7 +121,7 @@ Fivelements Bali Retreat adalah pilihan pas buat kamu yang cari keseimbangan jiw
 
 ## Hidden Gem Sawah di Bali: Maya Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_009902a2e1b438f7cc688b351b11cafa.jpg)
+![Hidden Gem Sawah di Bali: Maya Ubud](https://images.gobaligo.id/vocus/vocus_009902a2e1b438f7cc688b351b11cafa.jpg)
 
 Tersembunyi di Ubud yang tenang di tepi Sungai Petanu, Maya Ubud bagaikan oasis alami seluas 10 hektar. Kamu bisa nginep di private pool villa dan kamar mewah yang didesain cantik banget.
 
@@ -135,7 +135,7 @@ Maya Ubud adalah pilihan tepat buat kamu yang ingin merasakan pesona pedesaan Ba
 
 ## Hidden Gem Jepang di Bali: **Hoshinoya Bali** Tersembunyi di Hutan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_529d6f1035b1646318c27215a2340060.jpg)
+![Hidden Gem Jepang di Bali: Hoshinoya Bali Tersembunyi di Hut](https://images.gobaligo.id/vocus/vocus_529d6f1035b1646318c27215a2340060.jpg)
 
 Begitu masuk Hoshinoya Bali (虹夕諾雅), rasanya kayak melompat ke dimensi lain. Kamu dikelilingi arsitektur khas Jepang, dengan sungai suci yang mengalir di bawah rimbunnya pepohonan.
 
@@ -151,7 +151,7 @@ Kalau kamu lagi cari retreat yang tenang, urusan makanan juga nggak perlu pusing
 
 ## Surga Tersembunyi di Bali: **Natya Resort**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_51c91f9878bd2d4e544ee3503c042f00.jpg)
+![Surga Tersembunyi di Bali: Natya Resort](https://images.gobaligo.id/vocus/vocus_51c91f9878bd2d4e544ee3503c042f00.jpg)
 
 Natya Resort tersembunyi di tengah hutan tropis yang hijau, sinar matahari menyinari kolam renang, kursi santai di teras bikin betah berlama-lama, spa aromaterapi memanjakan tubuh, pusat kebugaran penuh semangat, restoran wangi semerbak, ditambah bar BBQ yang bikin suasana makin seru. Di sini, kamu pasti betah dan bakal menikmati pengalaman liburan mewah ala Bali.
 
@@ -163,7 +163,7 @@ Natya Resort pilihan ideal buat liburan keluarga — suite dengan kolam renang b
 
 ## Kehijauan Tersembunyi di Bali: ADIWANA BISMA
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4b3a07f8695a63e8af4fa8a484eb388f.jpg)
+![Kehijauan Tersembunyi di Bali: ADIWANA BISMA](https://images.gobaligo.id/vocus/vocus_4b3a07f8695a63e8af4fa8a484eb388f.jpg)
 
 Suasananya romantis banget dengan sentuhan tradisional yang kental, plus pemandangan hutan dan sawah dari ketinggian — ADIWANA BISMA ini salah satu penginapan paling berkesan di Ubud. Ada kolam renang, bar, taman di sekeliling, setiap pagi dimulai dengan sarapan kontinental yang bikin semangat, ditambah seluncuran air di kolam rooftop buat santai-santai.
 
@@ -177,7 +177,7 @@ Baik keluarga, pasangan, atau solo traveler, ADIWANA BISMA bisa memenuhi liburan
 
 ## Kemewahan Modern & Penyembuhan Jiwa: COMO Uma Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_28db3409a019a24ff52a8b865746945e.jpg)
+![Kemewahan Modern & Penyembuhan Jiwa: COMO Uma Ubud](https://images.gobaligo.id/vocus/vocus_28db3409a019a24ff52a8b865746945e.jpg)
 
 COMO Uma Ubud tersembunyi di pusat Ubud, dengan 46 kamar bergaya Asia modern, suite, dan vila, menawarkan pengalaman Bali yang mewah dan santai. Sinar matahari memenuhi ruangan, bikin tubuh dan pikiran rileks.
 
@@ -189,7 +189,7 @@ COMO Uma Ubud menawarkan pemandangan lembah Campuhan yang memukau, lengkap denga
 
 ## Permata di Tengah Hutan Tropis: The Udaya Resort and Spa
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_daa4c20f4cb743acd2d7105c21264d7c.jpg)
+![Permata di Tengah Hutan Tropis: The Udaya Resort and Spa](https://images.gobaligo.id/vocus/vocus_daa4c20f4cb743acd2d7105c21264d7c.jpg)
 
 The Udaya Resort and Spa tuh kayak hidden gem di antara destinasi hits Bali, terkenal banget sama suasana mewah dan fasilitas top-notch-nya. Spa pemenang penghargaan, vila dengan kolam renang pribadi, suite luas, dan pondok yoga di atap — semuanya bikin kamu bisa relaksasi total jiwa raga.
 
@@ -203,7 +203,7 @@ Kemewahan The Udaya Resort and Spa udah siap kamu jelajahi!
 
 ## Surga Seni Bali: TANAH MERAH ART RESORT
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7206454ea934ad9a9e2b1e2dd2df6a0c.jpg)
+![Surga Seni Bali: TANAH MERAH ART RESORT](https://images.gobaligo.id/vocus/vocus_7206454ea934ad9a9e2b1e2dd2df6a0c.jpg)
 
 Nempel di tebing Sungai Petanu, terkenal dengan bangunan kayu yang super estetik, TANAH MERAH ART RESORT adalah salah satu penginapan paling stunning di Ubud. Resort ini penuh dengan dekorasi tropis yang memajang seni dan tekstil lokal, plus ada pusat kebugaran, spa, dan dua kolam renang buat kamu relaks maksimal.
 
@@ -217,7 +217,7 @@ Rekomendasi buat traveler yang cari liburan seru bareng keluarga, villa dan kama
 
 ## Liburan Romantis di Ubud, Bali: Kamandalu Ubud Resort
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_08838e5eee8c9061c34fd2dbba966889.jpg)
+![Liburan Romantis di Ubud, Bali: Kamandalu Ubud Resort](https://images.gobaligo.id/vocus/vocus_08838e5eee8c9061c34fd2dbba966889.jpg)
 
 Mau liburan mewah dan romantis di Ubud? Resort bintang lima ini tersembunyi di lereng hijau Ubud, perpaduan sempurna antara gaya tradisional dan modern. Suasananya yang tenang bikin kamu serasa lagi di desa pegunungan asli Bali, tapi dengan sentuhan kemewahan ekstra.
 
@@ -231,7 +231,7 @@ Salah satu pengalaman paling favorit adalah naik perahu pribadi di tengah laguna
 
 ## Oase Hutan Tropis Mewah yang Tersembunyi: Viceroy Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f02523603bdfa6964c8f677af256da3.jpg)
+![Oase Hutan Tropis Mewah yang Tersembunyi: Viceroy Bali](https://images.gobaligo.id/vocus/vocus_4f02523603bdfa6964c8f677af256da3.jpg)
 
 Viceroy Bali bukan sekadar hotel, tapi surga pribadi yang dikelola keluarga, cuma lima menit dari pusat Ubud. 40 villa mewah dengan kolam renang pribadi dikelilingi hutan tropis yang rimbun. Begitu kamu buka pintu balkon, pemandangan hijau langsung menyambut dan bikin semua penat hilang.
 
@@ -243,7 +243,7 @@ Viceroy Bali adalah pilihan tepat buat kamu yang pengin kabur dari hiruk-pikuk k
 
 ## Surga Sawah di Bali: CAHAYA INDAH VILLAS
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f492fbb588a78f89d51e3e16a69eee1c.jpg)
+![Surga Sawah di Bali: CAHAYA INDAH VILLAS](https://images.gobaligo.id/vocus/vocus_f492fbb588a78f89d51e3e16a69eee1c.jpg)
 
 Tersembunyi di antara sawah dan hutan, CAHAYA INDAH VILLAS terkenal dengan desain open-space dan nuansa tropisnya — salah satu penginapan paling memesona di Ubud. Villa ini punya taman teras yang luas dan kolam renang pribadi, perpaduan sempurna antara budaya tradisional Bali dan kemewahan modern.
 
@@ -257,7 +257,7 @@ Cocok banget buat pasangan yang pengin liburan romantis, atau keluarga yang butu
 
 ## Hidden Gem Ubud Bali: Kastara Resort
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f828dc5d662cd9ac286c25883526aa36.jpg)
+![Hidden Gem Ubud Bali: Kastara Resort](https://images.gobaligo.id/vocus/vocus_f828dc5d662cd9ac286c25883526aa36.jpg)
 
 Tersembunyi di Ubud, Kastara Resort menyambut tamu dengan 40 kamar yang masing-masing menghadap pemandangan hutan yang megah. Saat sinar matahari pagi menyinari, pemandangannya benar-benar bikin takjub.
 
@@ -269,7 +269,7 @@ Kastara Resort adalah tempat tinggal ideal buat kamu yang mau eksplorasi budaya 
 
 ## Hidden Gem di Bali: Padma Resort Ubud, Nikmati Ketenangan dan Kemewahan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f38028688f83a980a0c35657d91d0fca.jpg)
+![Hidden Gem di Bali: Padma Resort Ubud, Nikmati Ketenangan da](https://images.gobaligo.id/vocus/vocus_f38028688f83a980a0c35657d91d0fca.jpg)
 
 Tersembunyi di lembah sungai alami, menghadap hutan perawan yang memukau, Padma Resort Ubud dengan 149 kamar adalah resor mewah yang luas dan tenang. Setiap kamar atau suite menawarkan pemandangan yang bikin mata sejuk, mengusung layanan kelas atas khas Padma, dengan spa premium, kolam renang infinity sepanjang 89 meter yang bikin speechless, restoran kelas dunia, dan tempat acara modern.
 
@@ -279,7 +279,7 @@ Padma Resort Ubud kayak surga tersembunyi, cocok banget buat relaksasi dan ekspl
 
 ## Hidden Gem Boutique di Perbukitan Bali: Chapung Sebali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_99b29d93bbf098d447152250498a706d.jpg)
+![Hidden Gem Boutique di Perbukitan Bali: Chapung Sebali](https://images.gobaligo.id/vocus/vocus_99b29d93bbf098d447152250498a706d.jpg)
 
 Tersembunyi di perbukitan hijau, cuma 10 menit berkendara dari pusat Ubud, Chapung Sebali bagaikan surga rahasia di tengah padang rumput dan sawah terasering. Tempat ini ideal buat kamu yang mau kabur dari hiruk-pikuk dan memeluk alam.
 
@@ -293,7 +293,7 @@ Kalau kamu cari privasi maksimal, vila adalah pilihan yang pas banget buat kamu.
 
 ## Surga Tenang di Bali: Mandapa, A Ritz-Carlton Reserve
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8e1ba599ed57179fd62e67e057a5cedd.jpg)
+![Surga Tenang di Bali: Mandapa, A Ritz-Carlton Reserve](https://images.gobaligo.id/vocus/vocus_8e1ba599ed57179fd62e67e057a5cedd.jpg)
 
 Bagaikan tempat perlindungan jiwa yang mewah, Mandapa, A Ritz-Carlton Reserve — namanya diambil dari bahasa Sanskerta yang berarti 'kuil' — terletak di Ubud, pusat budaya Bali, dengan Sungai Ayung yang mengalir tenang di sampingnya. Setiap vila dan suite memadukan arsitektur tradisional Bali dengan kenyamanan modern, dilengkapi ruang tamu luas, teras pribadi atau kolam renang, serta pemandangan sungai atau sawah terasering yang memukau.
 
@@ -307,7 +307,7 @@ Mandapa, A Ritz-Carlton Reserve adalah tempat menginap ideal buat kamu yang ingi
 
 ## Resort Romantis di Pusat Ubud buat Bulan Madu: Kaamala Resort Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8a51b441496df32cd0411552a8602e7a.jpg)
+![Resort Romantis di Pusat Ubud buat Bulan Madu: Kaamala Resor](https://images.gobaligo.id/vocus/vocus_8a51b441496df32cd0411552a8602e7a.jpg)
 
 Kaamala Resort Ubud ada di pusat Ubud, aksesnya gampang banget buat jalan-jalan ke tempat-tempat utama. Resort ini punya kamar yang nyaman dan stylish, lengkap dengan WiFi gratis, AC, TV layar datar, dan kamar mandi pribadi. Ada juga kolam renang outdoor, spa, restoran, dan bar.
 
@@ -319,7 +319,7 @@ Resort ini juga punya banyak aktivitas seru, kayak kelas yoga, meditasi, kelas m
 
 ## Kemewahan yang Menyatu dengan Alam: Blue Karma Dijiwa Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1d7b198e167d2a6515bbc60dc274bd3d.jpg)
+![Kemewahan yang Menyatu dengan Alam: Blue Karma Dijiwa Ubud](https://images.gobaligo.id/vocus/vocus_1d7b198e167d2a6515bbc60dc274bd3d.jpg)
 
 Blue Karma Dijiwa Ubud pakai kayu jati buat bikin suite ala Joglo yang penuh nuansa etnik, bikin kamu ngerasain pengalaman mewah yang unik. Setiap suite punya pemandangan beda, bisa lihat hutan tropis, sawah terasering hijau, dan kolam renang infinity yang keren abis.
 
@@ -331,7 +331,7 @@ Blue Karma Dijiwa Ubud bikin kamu tenggelam di alam Ubud yang indah, suasana ten
 
 ## Perjalanan Penyembuhan yang Tenang di Ubud: Adiwana Resort Jembawan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_420952e1b770bc85f60adad5f3e98ff5.jpg)
+![Perjalanan Penyembuhan yang Tenang di Ubud: Adiwana Resort J](https://images.gobaligo.id/vocus/vocus_420952e1b770bc85f60adad5f3e98ff5.jpg)
 
 Tersembunyi di pusat Ubud, Adiwana Resort Jembawan bukan sekadar penginapan—ini adalah tempat retret kesehatan yang fokus pada pemulihan jiwa dan raga. Resort ini punya tim berpengalaman, termasuk dokter Ayurveda, instruktur yoga, ahli gizi, dan konsultan gaya hidup, yang siap merancang program sesuai kebutuhan pribadimu untuk bantu kamu menemukan keseimbangan hidup.
 
@@ -345,7 +345,7 @@ Adiwana Resort Jembawan dekat dengan tempat-tempat terkenal seperti Puri Ubud, M
 
 ## Romantisme Mewah di Tengah Hutan: Capella Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e8029d1375646a90b5cba56b3f998772.jpg)
+![Romantisme Mewah di Tengah Hutan: Capella Ubud](https://images.gobaligo.id/vocus/vocus_e8029d1375646a90b5cba56b3f998772.jpg)
 
 Pernah dinobatkan sebagai **nomor satu di '100 Hotel Terbaik Dunia'** oleh majalah perjalanan internasional, Capella Ubud terletak di hutan hujan tropis Ubud, Bali—perpaduan sempurna antara kemewahan ekstrem dan romantisme.
 
@@ -361,23 +361,23 @@ Kalau kamu lagi cari resort mewah dan romantis, Capella Ubud adalah pilihan yang
 
 ## Hidden Gem di Tengah Hutan: Rijasa Agung Resort and Villas
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540114271-510412195.jpg)
+![Hidden Gem di Tengah Hutan: Rijasa Agung Resort and Villas](https://images.gobaligo.id/images/2026-03/1774540114271-510412195.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540114911-510412197.jpg)
+![Hidden Gem di Tengah Hutan: Rijasa Agung Resort and Villas](https://images.gobaligo.id/images/2026-03/1774540114911-510412197.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540115367-510412214.jpg)
+![Hidden Gem di Tengah Hutan: Rijasa Agung Resort and Villas](https://images.gobaligo.id/images/2026-03/1774540115367-510412214.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540115684-510411925.jpg)
+![Hidden Gem di Tengah Hutan: Rijasa Agung Resort and Villas](https://images.gobaligo.id/images/2026-03/1774540115684-510411925.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540116002-510411967.jpg)
+![Hidden Gem di Tengah Hutan: Rijasa Agung Resort and Villas](https://images.gobaligo.id/images/2026-03/1774540116002-510411967.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540116455-510411969.jpg)
+![Hidden Gem di Tengah Hutan: Rijasa Agung Resort and Villas](https://images.gobaligo.id/images/2026-03/1774540116455-510411969.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540116844-510412090.jpg)
+![Hidden Gem di Tengah Hutan: Rijasa Agung Resort and Villas](https://images.gobaligo.id/images/2026-03/1774540116844-510412090.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540117252-510412091.jpg)
+![Hidden Gem di Tengah Hutan: Rijasa Agung Resort and Villas](https://images.gobaligo.id/images/2026-03/1774540117252-510412091.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540117611-510412149.jpg)
+![Hidden Gem di Tengah Hutan: Rijasa Agung Resort and Villas](https://images.gobaligo.id/images/2026-03/1774540117611-510412149.jpg)
 
 Rijasa Agung Resort and Villas terletak di tengah hutan hujan Ubud, persis di atas Sungai Ayung, dengan pemandangan Gunung Batukaru yang megah. Cuma 20 menit dari pusat Ubud, dan hotelnya menyediakan shuttle gratis — jadi kamu bisa menikmati suasana tenang tanpa jauh dari keramaian.
 
@@ -389,25 +389,25 @@ Kamar Rijasa Agung Resort memadukan gaya modern dan klasik, dengan lantai marmer
 
 ## Menginap Mewah ala Selebriti di Soulshine Bali
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540170557-201679127.jpg)
+![Menginap Mewah ala Selebriti di Soulshine Bali](https://images.gobaligo.id/images/2026-03/1774540170557-201679127.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540171132-201780130.jpg)
+![Menginap Mewah ala Selebriti di Soulshine Bali](https://images.gobaligo.id/images/2026-03/1774540171132-201780130.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540171527-394535033.jpg)
+![Menginap Mewah ala Selebriti di Soulshine Bali](https://images.gobaligo.id/images/2026-03/1774540171527-394535033.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540171895-409156505.jpg)
+![Menginap Mewah ala Selebriti di Soulshine Bali](https://images.gobaligo.id/images/2026-03/1774540171895-409156505.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540172475-409516149.jpg)
+![Menginap Mewah ala Selebriti di Soulshine Bali](https://images.gobaligo.id/images/2026-03/1774540172475-409516149.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540172943-409516170.jpg)
+![Menginap Mewah ala Selebriti di Soulshine Bali](https://images.gobaligo.id/images/2026-03/1774540172943-409516170.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540173492-409519257.jpg)
+![Menginap Mewah ala Selebriti di Soulshine Bali](https://images.gobaligo.id/images/2026-03/1774540173492-409519257.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540173891-416032895.jpg)
+![Menginap Mewah ala Selebriti di Soulshine Bali](https://images.gobaligo.id/images/2026-03/1774540173891-416032895.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540174293-480127600.jpg)
+![Menginap Mewah ala Selebriti di Soulshine Bali](https://images.gobaligo.id/images/2026-03/1774540174293-480127600.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540174706-148375661.jpg)
+![Menginap Mewah ala Selebriti di Soulshine Bali](https://images.gobaligo.id/images/2026-03/1774540174706-148375661.jpg)
 
 **Lokasi** | Soulshine Bali ada di Ubud, dikelilingi taman cantik, dan menyediakan parkir pribadi gratis. Resort ini punya vibe santai dan pemandangan alam yang indah — cocok banget buat kamu yang cari ketenangan dan relaksasi.
 
@@ -421,25 +421,25 @@ Kamar Rijasa Agung Resort memadukan gaya modern dan klasik, dengan lantai marmer
 
 ## Oasis Mewah di Pusat Ubud: Komaneka at Rasa Sayang
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540235749-41962612.jpg)
+![Oasis Mewah di Pusat Ubud: Komaneka at Rasa Sayang](https://images.gobaligo.id/images/2026-03/1774540235749-41962612.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540236113-65851106.jpg)
+![Oasis Mewah di Pusat Ubud: Komaneka at Rasa Sayang](https://images.gobaligo.id/images/2026-03/1774540236113-65851106.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540236532-73659685.jpg)
+![Oasis Mewah di Pusat Ubud: Komaneka at Rasa Sayang](https://images.gobaligo.id/images/2026-03/1774540236532-73659685.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540236944-77405319.jpg)
+![Oasis Mewah di Pusat Ubud: Komaneka at Rasa Sayang](https://images.gobaligo.id/images/2026-03/1774540236944-77405319.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540237368-123036078.jpg)
+![Oasis Mewah di Pusat Ubud: Komaneka at Rasa Sayang](https://images.gobaligo.id/images/2026-03/1774540237368-123036078.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540237688-225377465.jpg)
+![Oasis Mewah di Pusat Ubud: Komaneka at Rasa Sayang](https://images.gobaligo.id/images/2026-03/1774540237688-225377465.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540238090-309262633.jpg)
+![Oasis Mewah di Pusat Ubud: Komaneka at Rasa Sayang](https://images.gobaligo.id/images/2026-03/1774540238090-309262633.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540238486-5906331.jpg)
+![Oasis Mewah di Pusat Ubud: Komaneka at Rasa Sayang](https://images.gobaligo.id/images/2026-03/1774540238486-5906331.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540238892-5906377.jpg)
+![Oasis Mewah di Pusat Ubud: Komaneka at Rasa Sayang](https://images.gobaligo.id/images/2026-03/1774540238892-5906377.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540239209-33964023.jpg)
+![Oasis Mewah di Pusat Ubud: Komaneka at Rasa Sayang](https://images.gobaligo.id/images/2026-03/1774540239209-33964023.jpg)
 
 **Lokasi**｜Resort Komaneka at Rasa Sayang terletak di pusat Ubud, tepat di Jalan Monkey Forest yang ramai. Hanya perlu jalan kaki sekitar 5 menit untuk sampai ke Pasar Ubud (Ubud Market). Lokasi yang ideal ini bikin kamu gampang banget menjelajahi pesona Ubud—baik kuliner, belanja, maupun pengalaman budaya, semuanya dekat.
 
@@ -453,25 +453,25 @@ Kamar Rijasa Agung Resort memadukan gaya modern dan klasik, dengan lantai marmer
 
 ## Pelayanan Kelas Dunia di Adiwana Suweta
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540281530-287594869.jpg)
+![Pelayanan Kelas Dunia di Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540281530-287594869.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540282734-293729686.jpg)
+![Pelayanan Kelas Dunia di Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540282734-293729686.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540283356-306215810.jpg)
+![Pelayanan Kelas Dunia di Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540283356-306215810.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540283930-306219185.jpg)
+![Pelayanan Kelas Dunia di Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540283930-306219185.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540284598-322118154.jpg)
+![Pelayanan Kelas Dunia di Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540284598-322118154.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540285202-322118171.jpg)
+![Pelayanan Kelas Dunia di Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540285202-322118171.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540285985-324929256.jpg)
+![Pelayanan Kelas Dunia di Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540285985-324929256.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540286736-324929343.jpg)
+![Pelayanan Kelas Dunia di Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540286736-324929343.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540287243-432766801.jpg)
+![Pelayanan Kelas Dunia di Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540287243-432766801.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540287809-536098818.jpg)
+![Pelayanan Kelas Dunia di Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540287809-536098818.jpg)
 
 Masuk daftar "Hotel Terbaik 2024", dan menempati peringkat ke-3 ["25 Hotel Terbaik se-Asia"](/blog/top-bali-hotels-asia-rankings/)!
 
@@ -487,17 +487,17 @@ Masuk daftar "Hotel Terbaik 2024", dan menempati peringkat ke-3 ["25 Hotel Terba
 
 ## Hotel Bintang 5 Baru 2024: Anantara Ubud Bali Resort
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540320301-2b34b0dc6727962b47c87de0497dc01e_large.jpeg)
+![Hotel Bintang 5 Baru 2024: Anantara Ubud Bali Resort](https://images.gobaligo.id/images/2026-03/1774540320301-2b34b0dc6727962b47c87de0497dc01e_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540321404-10b1c7c3e8731e224e11707a74bc5810_large.jpeg)
+![Hotel Bintang 5 Baru 2024: Anantara Ubud Bali Resort](https://images.gobaligo.id/images/2026-03/1774540321404-10b1c7c3e8731e224e11707a74bc5810_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540322522-31c9379f443d45c20d49e0d0809ca71a_large.jpeg)
+![Hotel Bintang 5 Baru 2024: Anantara Ubud Bali Resort](https://images.gobaligo.id/images/2026-03/1774540322522-31c9379f443d45c20d49e0d0809ca71a_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540323609-9212cd660b8d31b2fd1d7dee05166755_large.jpeg)
+![Hotel Bintang 5 Baru 2024: Anantara Ubud Bali Resort](https://images.gobaligo.id/images/2026-03/1774540323609-9212cd660b8d31b2fd1d7dee05166755_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540324369-419804782.jpg)
+![Hotel Bintang 5 Baru 2024: Anantara Ubud Bali Resort](https://images.gobaligo.id/images/2026-03/1774540324369-419804782.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540325205-553027720.jpg)
+![Hotel Bintang 5 Baru 2024: Anantara Ubud Bali Resort](https://images.gobaligo.id/images/2026-03/1774540325205-553027720.jpg)
 
 **Lokasi**｜Anantara, grup hotel mewah, punya properti keempat di Bali—Anantara Ubud Bali Resort—yang terletak di Desa Payangan, Ubud. Tersembunyi di tengah hutan tropis dan sawah hijau, tempat ini menawarkan ketenangan dan privasi yang nggak ada duanya. Dari sini, ke pusat Ubud dan Kintamani cuma sekitar 20 menit naik mobil. Resort ini agak terpencil, jadi kamu bisa menikmati pemandangan hutan tropis 360 derajat tanpa halangan.
 
@@ -511,25 +511,25 @@ Masuk daftar "Hotel Terbaik 2024", dan menempati peringkat ke-3 ["25 Hotel Terba
 
 ## Oase Tenang di Tengah Keramaian Ubud: Plataran Ubud Hotel & Spa
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540640396-8925d7643bde18e69beeabb5fe6eb521.webp)
+![Oase Tenang di Tengah Keramaian Ubud: Plataran Ubud Hotel & ](https://images.gobaligo.id/images/2026-03/1774540640396-8925d7643bde18e69beeabb5fe6eb521.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540640852-489880_17022014250051126256.webp)
+![Oase Tenang di Tengah Keramaian Ubud: Plataran Ubud Hotel & ](https://images.gobaligo.id/images/2026-03/1774540640852-489880_17022014250051126256.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540641235-489880_17022014370051126583.webp)
+![Oase Tenang di Tengah Keramaian Ubud: Plataran Ubud Hotel & ](https://images.gobaligo.id/images/2026-03/1774540641235-489880_17022014370051126583.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540641644-489880_17022014390051126654.webp)
+![Oase Tenang di Tengah Keramaian Ubud: Plataran Ubud Hotel & ](https://images.gobaligo.id/images/2026-03/1774540641644-489880_17022014390051126654.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540642063-489880_17022108550051144034.webp)
+![Oase Tenang di Tengah Keramaian Ubud: Plataran Ubud Hotel & ](https://images.gobaligo.id/images/2026-03/1774540642063-489880_17022108550051144034.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540642444-489880_17071810210054510876.webp)
+![Oase Tenang di Tengah Keramaian Ubud: Plataran Ubud Hotel & ](https://images.gobaligo.id/images/2026-03/1774540642444-489880_17071810210054510876.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540642897-38586847.jpg)
+![Oase Tenang di Tengah Keramaian Ubud: Plataran Ubud Hotel & ](https://images.gobaligo.id/images/2026-03/1774540642897-38586847.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540643274-89601994.jpg)
+![Oase Tenang di Tengah Keramaian Ubud: Plataran Ubud Hotel & ](https://images.gobaligo.id/images/2026-03/1774540643274-89601994.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540643741-460827383.jpg)
+![Oase Tenang di Tengah Keramaian Ubud: Plataran Ubud Hotel & ](https://images.gobaligo.id/images/2026-03/1774540643741-460827383.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540644199-461665298.jpg)
+![Oase Tenang di Tengah Keramaian Ubud: Plataran Ubud Hotel & ](https://images.gobaligo.id/images/2026-03/1774540644199-461665298.jpg)
 
 **Lokasi** Plataran Ubud Hotel & Spa terletak di gang kecil di samping pusat kota Ubud. Hanya butuh sekitar 3 menit jalan kaki ke pusat kota Ubud yang ramai, tapi kamu tetap bisa menikmati suasana tenang yang dikelilingi sawah. Lokasi ini benar-benar menggabungkan keunggulan 'ramai di luar, tenang di dalam', cocok banget buat kamu yang ingin relaksasi dan menjauh dari kebisingan.
 **Fasilitas** Hotel ini punya berbagai fasilitas lengkap, termasuk:
@@ -560,27 +560,27 @@ Plataran Ubud Hotel & Spa adalah pilihan menginap sempurna yang menggabungkan al
 
 ## The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sawah Ubud
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540697666-390304260.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540697666-390304260.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540698104-5ea6bf57fd6de61fcfea7c64d46d3735.jpeg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540698104-5ea6bf57fd6de61fcfea7c64d46d3735.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540698468-30a1dedd43aaae131a75a676c6fbc2f7.jpeg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540698468-30a1dedd43aaae131a75a676c6fbc2f7.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540698789-69bc041104d66ab3b2f484f56bdeb206.jpeg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540698789-69bc041104d66ab3b2f484f56bdeb206.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540699193-840c0a1e4bea2c5304781f9796109326.jpeg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540699193-840c0a1e4bea2c5304781f9796109326.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540699630-4335a6541bb8acc4128063e8b8ab1378.jpeg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540699630-4335a6541bb8acc4128063e8b8ab1378.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540699966-244533532.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540699966-244533532.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540700269-244558525.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540700269-244558525.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540700590-244558820.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540700590-244558820.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540700927-244559070.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540700927-244559070.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540701345-295876106.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540701345-295876106.jpg)
 
 **Lokasi** Jantung Budaya Ubud, Tenang tapi Tetap Aksesibel
 
@@ -609,37 +609,37 @@ Terletak di pusat seni dan budaya Bali, Ubud, resort ini dikelilingi hamparan sa
 
 > ▶ [Cek Harga & Ketersediaan The Garcia Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10934083) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=50298330&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NqYeFikmCS-svMcWz65kdsQowGFr8FHbmuLy6wtSty8Fzn_rBK5FKZQwBPxJQDz6exJ266vtv-XqSLQxcjK1hgBuOt33_FNzL2H_qqEeMf5LCDkekAI9MJxoW8C5ia5z22OMXCzHGF6RLLV6boaqXs1EolKxMdpZLMkpxUJSulZ3N6n3bPfLFpt5KOUkpqcTJQCMhKzM0vzSsBsg3NDfQMDIAiJYkVnilKVuY6SsmJOcmlOYklqSGVBUATzHSUMoudS4oyC4JSczNLSlKBqtISc4pTQeJBqcVAmWSwoJIf0JgiqEBmfh5EuwGKWFhiTmkqxAlAC91SoXYY1-pguvzponlPG_Y8X9FKnMtNqO1yQ2Jcblgb-4iFKTr2EwvDLxaGJlaGLlZmjr2Mk4DkQt5drGwhTpHGgSEXWO_xSckZGhgYmBoam5rqGiRaJpoaJxvqmliaGBua6RoamppqnH1_belTYyNrKUisKzBqCcaHeHq6GJYUppoVllrmFBWYGjCeYpQyNDe2MDQyNDQyMrI01jOxSDMrtsgrtsjNivBgDGKzMHZzdDGNsuFi9nQJErz3nyVXW9nSXoo5JNxFceVN5rUHJpy21wLJGcLkAi2-iPG_t1xgHwmTT2KtytANCc_oFS9gbGBk6mLkFmD0YIxgrADyGFcxMmxgZNzB-B8GGF8xgkwHAHNAzhLoAgAA&masterhotelid_tracelogid=100051355-0a9a53c1-494316-1155&detailFilters=17|1~17~1*31|50298330~31~50298330*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=682&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/4Zm2NA4e)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540785083-788133697.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540785083-788133697.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540786049-788133744.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540786049-788133744.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540786556-788133773.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540786556-788133773.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540786958-789987751.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540786958-789987751.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540787354-794333962.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540787354-794333962.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540787767-794333979.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540787767-794333979.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540788110-794333984.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540788110-794333984.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540788487-l.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540788487-l.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540788884-l2.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540788884-l2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540789243-l3.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540789243-l3.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540789715-s.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540789715-s.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540790207-1.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540790207-1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540790639-787397547.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540790639-787397547.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540791032-788133426.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540791032-788133426.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540791336-788133611.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540791336-788133611.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540791630-788133656.jpg)
+![The Garcia Ubud: Surga Tersembunyi Bintang Lima di Tengah Sa](https://images.gobaligo.id/images/2026-03/1774540791630-788133656.jpg)
 
 Pada 15 Januari 2026, jaringan Tribute Portfolio dari Marriott Bonvoy meluncurkan resor baru bernama Hiliwatu di Ubud, Bali. HiliWatu melambangkan hubungan mendalam dengan bumi. Resor ini menempati lahan seluas 26.000 meter persegi, hanya memiliki 38 unit kamar termasuk suite dan vila, serta dilengkapi helipad dan lobby setinggi 24 meter yang unik.
 
@@ -658,25 +658,25 @@ Resor ini sangat terhubung dengan budaya lokal, menyediakan workshop kerajinan t
 
 Kalau kamu pengin nginep di 'hutan beneran' di Ubud, Sthala mungkin salah satu pilihan paling mendekati mimpi itu. Hotel bintang lima ini bagian dari jaringan Tribute Portfolio milik Marriott, terletak di bukit Desa Lodtunduh, tepat di tepi Sungai Wos. Dari 143 kamarnya, hampir semuanya menghadap lembah sungai dan hutan hujan — begitu keluar balkon, langsung disambut pemandangan hijau sejauh mata memandang.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775730802238-unnamed_2_.webp)
+![Hidden Gem Sungai Hutan di Ubud — Sthala, a Tribute Portfoli](https://images.gobaligo.id/images/2026-04/1775730802238-unnamed_2_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775730803119-unnamed_3_.webp)
+![Hidden Gem Sungai Hutan di Ubud — Sthala, a Tribute Portfoli](https://images.gobaligo.id/images/2026-04/1775730803119-unnamed_3_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775730803541-unnamed.webp)
+![Hidden Gem Sungai Hutan di Ubud — Sthala, a Tribute Portfoli](https://images.gobaligo.id/images/2026-04/1775730803541-unnamed.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775730803870-2026-03-07_1_.webp)
+![Hidden Gem Sungai Hutan di Ubud — Sthala, a Tribute Portfoli](https://images.gobaligo.id/images/2026-04/1775730803870-2026-03-07_1_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775730804255-2026-03-07_2_.webp)
+![Hidden Gem Sungai Hutan di Ubud — Sthala, a Tribute Portfoli](https://images.gobaligo.id/images/2026-04/1775730804255-2026-03-07_2_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775730804622-2026-03-07_3_.webp)
+![Hidden Gem Sungai Hutan di Ubud — Sthala, a Tribute Portfoli](https://images.gobaligo.id/images/2026-04/1775730804622-2026-03-07_3_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775730804989-2026-03-07_4_.webp)
+![Hidden Gem Sungai Hutan di Ubud — Sthala, a Tribute Portfoli](https://images.gobaligo.id/images/2026-04/1775730804989-2026-03-07_4_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775730805363-2026-03-07_5_.webp)
+![Hidden Gem Sungai Hutan di Ubud — Sthala, a Tribute Portfoli](https://images.gobaligo.id/images/2026-04/1775730805363-2026-03-07_5_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775730805730-2026-03-07.webp)
+![Hidden Gem Sungai Hutan di Ubud — Sthala, a Tribute Portfoli](https://images.gobaligo.id/images/2026-04/1775730805730-2026-03-07.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775730806136-unnamed_1_.webp)
+![Hidden Gem Sungai Hutan di Ubud — Sthala, a Tribute Portfoli](https://images.gobaligo.id/images/2026-04/1775730806136-unnamed_1_.webp)
 
 **📍 Lokasi**｜Hotel ini sekitar 15 menit berkendara dari pusat Ubud. Meski nggak di jantung kota, hotel menyediakan shuttle gratis ke pusat Ubud setiap hari — bener-bener helpful. Ubud Monkey Forest sekitar 10 menit, Bali Zoo dan Bali Bird Park dalam radius 3 km, jadi gampang banget atur itinerary. Kekurangannya, kalau kamu juga mau main ke Bali selatan (Seminyak, Canggu, Uluwatu), bolak-balik bakal capek. Hotel ini lebih cocok buat kamu yang fokus eksplor Ubud aja.
 
@@ -692,25 +692,25 @@ Kalau kamu pengin nginep di 'hutan beneran' di Ubud, Sthala mungkin salah satu p
 
 ## 叢林靜謐療癒系 - Ubud Nyuh Bali Resort & Spa
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779504901746-1mc3f12000rfbxdjc9ee5_w_1280_853_r5.webp)
+![叢林靜謐療癒系 - Ubud Nyuh Bali Resort & Spa](https://images.gobaligo.id/images/2026-05/1779504901746-1mc3f12000rfbxdjc9ee5_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779504902783-1mc5f12000rfclp3316f2_w_1280_853_r5.webp)
+![叢林靜謐療癒系 - Ubud Nyuh Bali Resort & Spa](https://images.gobaligo.id/images/2026-05/1779504902783-1mc5f12000rfclp3316f2_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779504903294-1mc5h12000rfbiamb5259_w_1280_853_r5.webp)
+![叢林靜謐療癒系 - Ubud Nyuh Bali Resort & Spa](https://images.gobaligo.id/images/2026-05/1779504903294-1mc5h12000rfbiamb5259_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779504903801-1mc5n12000rf9dvreef6b_w_1280_853_r5.webp)
+![叢林靜謐療癒系 - Ubud Nyuh Bali Resort & Spa](https://images.gobaligo.id/images/2026-05/1779504903801-1mc5n12000rf9dvreef6b_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779504904399-0220m12000ri8p5xg684c_w_1280_853_r5.webp)
+![叢林靜謐療癒系 - Ubud Nyuh Bali Resort & Spa](https://images.gobaligo.id/images/2026-05/1779504904399-0220m12000ri8p5xg684c_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779504904907-0221912000l0qwtc66c31_w_1280_853_r5.webp)
+![叢林靜謐療癒系 - Ubud Nyuh Bali Resort & Spa](https://images.gobaligo.id/images/2026-05/1779504904907-0221912000l0qwtc66c31_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779504905434-0222412000sb09gw62f9e_w_1280_853_r5.webp)
+![叢林靜謐療癒系 - Ubud Nyuh Bali Resort & Spa](https://images.gobaligo.id/images/2026-05/1779504905434-0222412000sb09gw62f9e_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779504905964-0224412000l0qwoi61c9f_w_1280_853_r5.webp)
+![叢林靜謐療癒系 - Ubud Nyuh Bali Resort & Spa](https://images.gobaligo.id/images/2026-05/1779504905964-0224412000l0qwoi61c9f_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779504906525-1mc0m12000rf983196ec5_w_1280_853_r5.webp)
+![叢林靜謐療癒系 - Ubud Nyuh Bali Resort & Spa](https://images.gobaligo.id/images/2026-05/1779504906525-1mc0m12000rf983196ec5_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779504907037-1mc1r12000rf9es6kdfc7_w_1280_853_r5.webp)
+![叢林靜謐療癒系 - Ubud Nyuh Bali Resort & Spa](https://images.gobaligo.id/images/2026-05/1779504907037-1mc1r12000rf9es6kdfc7_w_1280_853_r5.webp)
 
 Resort villa bintang lima yang tersembunyi di desa Lodtunduh, selatan Ubud. Jauh dari keramaian pusat Ubud, seluruh area resort dikelilingi sawah dan taman tropis. Konsepnya holistic retreat — yoga, meditasi, spa, semuanya lengkap. Cocok banget buat kamu yang ke Bali memang ingin benar-benar melepas penat, bukan sekadar hunting foto.
 
@@ -731,25 +731,25 @@ Resort villa bintang lima yang tersembunyi di desa Lodtunduh, selatan Ubud. Jauh
 
 ## Sanggraloka Ubud - Baru Buka 2026
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513260709-1mc0812000p1vcdvd6973_w_1280_853_r5.webp)
+![Sanggraloka Ubud - Baru Buka 2026](https://images.gobaligo.id/images/2026-06/1781513260709-1mc0812000p1vcdvd6973_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513338926-0226612000oy42u9o5345_w_1280_853_r5.webp)
+![Sanggraloka Ubud - Baru Buka 2026](https://images.gobaligo.id/images/2026-06/1781513338926-0226612000oy42u9o5345_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513559571-1mc4e12000p6jzw3z9944_w_1280_853_r5.webp)
+![Sanggraloka Ubud - Baru Buka 2026](https://images.gobaligo.id/images/2026-06/1781513559571-1mc4e12000p6jzw3z9944_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513562113-1mc1z12000p6kh64d03bc_w_1280_853_r5.webp)
+![Sanggraloka Ubud - Baru Buka 2026](https://images.gobaligo.id/images/2026-06/1781513562113-1mc1z12000p6kh64d03bc_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513562490-1mc2n12000p6kh2o77c18_w_1280_853_r5.webp)
+![Sanggraloka Ubud - Baru Buka 2026](https://images.gobaligo.id/images/2026-06/1781513562490-1mc2n12000p6kh2o77c18_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513633878-unnamed_1_.webp)
+![Sanggraloka Ubud - Baru Buka 2026](https://images.gobaligo.id/images/2026-06/1781513633878-unnamed_1_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513635848-1mc3112000s0w5l6he366_w_1280_853_r5.webp)
+![Sanggraloka Ubud - Baru Buka 2026](https://images.gobaligo.id/images/2026-06/1781513635848-1mc3112000s0w5l6he366_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513637123-unnamed.webp)
+![Sanggraloka Ubud - Baru Buka 2026](https://images.gobaligo.id/images/2026-06/1781513637123-unnamed.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513405660-0221s12000p80y955ef27_w_1280_853_r5.webp)
+![Sanggraloka Ubud - Baru Buka 2026](https://images.gobaligo.id/images/2026-06/1781513405660-0221s12000p80y955ef27_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513428141-1mc0512000p1v4wqs8d67_w_1280_853_r5.webp)
+![Sanggraloka Ubud - Baru Buka 2026](https://images.gobaligo.id/images/2026-06/1781513428141-1mc0512000p1v4wqs8d67_w_1280_853_r5.webp)
 
 📍 **Lokasi**｜Sanggraloka Ubud terletak di Desa Bresela, Payangan, dataran tinggi utara Ubud, dikelilingi hutan tropis dan lembah, sekitar 15 menit berkendara dari pusat Ubud. Tempat-tempat menarik di sekitarnya seperti Tegallalang Rice Terrace dan Jungle Swing bisa dicapai dalam 16 menit berkendara. Cocok banget buat kamu yang ingin menjauh dari keramaian dan menyelami suasana pegunungan.
 

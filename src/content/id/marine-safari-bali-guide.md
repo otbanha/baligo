@@ -57,11 +57,11 @@ Akhir Desember 2024, Bali kedatangan destinasi wisata baru yang kece banget — 
 
 Marine Safari Bali ngajak pengunjung menjelajah dari ekosistem air tawar (kayak hutan hujan, danau, sungai) sampai ke ekosistem laut dalam. Di dalamnya ada lebih dari **10.000 ekor ikan** dan **300 spesies biota laut**, termasuk **pinguin Humboldt** yang langka dan **hiu** yang berenang bebas di akuarium raksasa.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_64eb64d4aa8e7e4b44be96d9ffe26221.jpg)
+![Pengalaman Ekologi yang Beragam](https://images.gobaligo.id/vocus/vocus_64eb64d4aa8e7e4b44be96d9ffe26221.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_60e130480bee4b9a72c113d35aaf30f1.jpg)
+![Pengalaman Ekologi yang Beragam](https://images.gobaligo.id/vocus/vocus_60e130480bee4b9a72c113d35aaf30f1.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4765208e7e8bbb826c9dca02f0bd69b9.jpg)
+![Pengalaman Ekologi yang Beragam](https://images.gobaligo.id/vocus/vocus_4765208e7e8bbb826c9dca02f0bd69b9.jpg)
 
 ![也有超級可愛的水豚君](https://images.gobaligo.id/vocus/vocus_1ba7d62c7da4059ebbb1701b9476b99b.jpg)
 
@@ -75,11 +75,11 @@ Ada juga kapibara yang super gemoy banget!
 
 Di lingkungan yang aman dan profesional, pengunjung bisa menyentuh hiu dan pari dari dekat, merasakan sensasi seru berinteraksi dengan makhluk laut.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_53e7d75cc224462f065d1d30b8d004fb.png)
+![Interaksi dengan Hiu dan Pari](https://images.gobaligo.id/vocus/vocus_53e7d75cc224462f065d1d30b8d004fb.png)
 
 ### Teater Pachamaya
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6dcdee0c7f549af283587f1f2e153523.png)
+![Teater Pachamaya](https://images.gobaligo.id/vocus/vocus_6dcdee0c7f549af283587f1f2e153523.png)
 
 Masuk ke jantung hutan hujan! Pertunjukan spektakuler selama 20–25 menit ini bakal membawa kamu melintasi waktu, menghidupkan tradisi lewat pertunjukan memukau dan narasi yang hidup. Live show yang bikin terpukau ini pasti meninggalkan kenangan tak terlupakan untuk semua usia.
 
@@ -87,25 +87,25 @@ Jadwal: Setiap hari pukul 12:00 dan 15:30
 
 ### Fun Zone & Coralbay Waterpark
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4cb8f0b56e1cc748ab6c74985d9ed096.png)
+![Fun Zone & Coralbay Waterpark](https://images.gobaligo.id/vocus/vocus_4cb8f0b56e1cc748ab6c74985d9ed096.png)
 
 Tempat wisata ramah keluarga ini punya banyak fasilitas air dan seluncuran yang cocok untuk segala usia, dijamin bikin senang dan momen tak terlupakan.
 
 ### Jungle Cruise
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7c8208c819c0d0b89a93cc402bae49ad.png)
+![Jungle Cruise](https://images.gobaligo.id/vocus/vocus_7c8208c819c0d0b89a93cc402bae49ad.png)
 
 Jalan-jalan di area Jungle Cruise yang hijau, di sini ada 12 habitat darat yang menampilkan hewan dan burung eksotis dari ekosistem tropis. Area ini didesain dengan gaya Aztec yang memesona, menunjukkan keindahan dan misteri peradaban Aztec kuno.
 
 ### Kolam Sentuh Reptil
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b1ec83e598dad23430f97d0d6140fee2.png)
+![Kolam Sentuh Reptil](https://images.gobaligo.id/vocus/vocus_b1ec83e598dad23430f97d0d6140fee2.png)
 
 Masuk ke dunia reptil dan amfibi yang penuh pesona, lengkap dengan 13 habitat interaktif. Jangan sampai kelewatan area sentuh — tempat yang pas banget buat belajar sambil seru-seruan!
 
 ### Pertunjukan Makan Piranha
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_457011e0a856451638b8d3834de34d6c.png)
+![Pertunjukan Makan Piranha](https://images.gobaligo.id/vocus/vocus_457011e0a856451638b8d3834de34d6c.png)
 
 Pengunjung bisa kasih makan piranha dan lihat mereka ngejar mangsa dengan gigi tajamnya.
 
@@ -141,7 +141,7 @@ Peta Taman
 - Tur edukasi
 - Pertunjukan eksklusif di Varuna Underwater Theatre
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f30460e416a4d8130afa6b21f0416de.jpg)
+![Acara Spesial Pembukaan](https://images.gobaligo.id/vocus/vocus_9f30460e416a4d8130afa6b21f0416de.jpg)
 
 ***
 
@@ -208,7 +208,7 @@ Di kompleks yang sama ada [Taman Safari Bali](https://www.balisafarimarinepark.c
 
 ***
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_246e166544ded3c7a2c5b43d87236a78.jpg)
+![5. Tempat lain yang bisa dimasukin ke itinerary?](https://images.gobaligo.id/vocus/vocus_246e166544ded3c7a2c5b43d87236a78.jpg)
 
 Ubud adalah pusat budaya dan seni Bali, terkenal dengan sawah yang hijau, pura yang cantik, dan vibes spiritual yang kental. Mau kamu pencinta yoga, foodie, suka seni dan kerajinan tangan, atau doyan aktivitas seru, Ubud pasti bisa memenuhi ekspektasi kamu. Tempat ini cocok banget buat healing dan liburan yang menenangkan jiwa.
 

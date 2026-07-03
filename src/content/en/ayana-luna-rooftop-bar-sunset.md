@@ -21,7 +21,7 @@ _srcHash: 57d80483457511923aa646e2dda8be38
 
 Perched atop AYANA Segara in Bali, Luna Rooftop Bar is a hidden gem for relaxation, offering stunning sunset views and a dynamic atmosphere. From this elevated vantage point, the interplay of the sunset's glow and the vast ocean creates a perfect backdrop for photography enthusiasts. At Luna, it's not just about the food and drinks, but also about creating unforgettable memories.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bdd57f5319e4fb3e4f7b0462ca1a4ef3.jpg)
+![More Chill Than Rock Bar! Experience the 360-Degree Sunset V](https://images.gobaligo.id/vocus/vocus_bdd57f5319e4fb3e4f7b0462ca1a4ef3.jpg)
 
 ## Location and Views of Luna Rooftop Bar
 
@@ -31,13 +31,13 @@ Luna Rooftop Bar is located at one of the highest points within the AYANA Resort
 
 The sunset views here are especially enchanting, captivating many visitors. It's recommended to arrive in the early evening to enjoy the best light and atmosphere. The warm hues of the sunset create a romantic and serene ambiance, perfect for sharing with a loved one.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_53f629d119501685a9ae4da166c9a0a7.jpg)
+![Enjoy a Magical Sunset Experience](https://images.gobaligo.id/vocus/vocus_53f629d119501685a9ae4da166c9a0a7.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4233d5300544088ef3e713f58c905c2a.jpg)
+![Enjoy a Magical Sunset Experience](https://images.gobaligo.id/vocus/vocus_4233d5300544088ef3e713f58c905c2a.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_10e65b350f77448a9df09ffab1a40f25.jpg)
+![Enjoy a Magical Sunset Experience](https://images.gobaligo.id/vocus/vocus_10e65b350f77448a9df09ffab1a40f25.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_83809eb6100d3bff72790c195ae6da41.jpg)
+![Enjoy a Magical Sunset Experience](https://images.gobaligo.id/vocus/vocus_83809eb6100d3bff72790c195ae6da41.jpg)
 
 ## Diverse Selection of Drinks and Cocktails
 
@@ -55,9 +55,9 @@ Luna offers an extensive selection of Tapas, perfect for sharing. Whether it's g
 
 Luna also provides a special floating breakfast experience, allowing guests to enjoy a refined meal in the pool. This personalized service is ideal for celebrating special moments, offering a more intimate and romantic experience.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e16dc5f8231bc5902149d09263b71961.jpg)
+![Luxurious Floating Breakfast Experience](https://images.gobaligo.id/vocus/vocus_e16dc5f8231bc5902149d09263b71961.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_282275d75dea817107793d72f8484856.jpg)
+![Luxurious Floating Breakfast Experience](https://images.gobaligo.id/vocus/vocus_282275d75dea817107793d72f8484856.jpg)
 
 ## Service Quality and Guest Experience
 
@@ -77,11 +77,11 @@ The atmosphere here strikes the perfect balance—neither too noisy nor too quie
 
 Luna Rooftop Bar is a hidden Instagram-worthy spot, offering breathtaking ocean sunset views and unique design elements that make it an ideal backdrop for photos.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cf9cdee49c2e0cdbf8f58107e107271e.jpg)
+![A Hidden Gem for Social Media](https://images.gobaligo.id/vocus/vocus_cf9cdee49c2e0cdbf8f58107e107271e.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b0f3a6decfe569795afba79fca1ccbea.jpg)
+![A Hidden Gem for Social Media](https://images.gobaligo.id/vocus/vocus_b0f3a6decfe569795afba79fca1ccbea.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8c8697add989ee9443c0ab7df4d5fdfd.jpg)
+![A Hidden Gem for Social Media](https://images.gobaligo.id/vocus/vocus_8c8697add989ee9443c0ab7df4d5fdfd.jpg)
 
 ## Should I Visit Rock Bar or Luna Rooftop Bar?
 

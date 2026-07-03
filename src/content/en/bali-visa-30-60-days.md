@@ -25,7 +25,7 @@ lang: en
 _srcHash: a837a1551e09d7434e439b245c00e380
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_674269d54ebfc7ede1f3a11443914ba7.png)
+![Bali Visa Application Must-Read: 30 Days vs. 60 Days, Explai](https://images.gobaligo.id/vocus/vocus_674269d54ebfc7ede1f3a11443914ba7.png)
 
 During the process of applying for an Indonesian visa, a traveler shared her experience. Although she confirmed she would stay for more than 30 days, she still recommended applying for a 30-day visa, as according to online information, visas for stays within 30 days are usually approved immediately after application and payment. As for applying for a 60-day visa, she was uncertain about it. The immigration officer told her it might take 5-7 working days, or even longer, so she suggested that travelers planning to stay for more than 30 days should first apply for a **B1 visa** for stays within 30 days, and consider extending the visa before it expires if they plan to stay longer.
 
@@ -33,13 +33,13 @@ During the process of applying for an Indonesian visa, a traveler shared her exp
 
 Due to negligence, this traveler did not notice that applying for a visa for more than 60 days required a longer processing time and proof of financial means. She completed her application and payment on the 27th, but when she was about to enter on the 29th, she found that the review was not yet completed. Faced with this predicament, although she presented the payment receipt at Bali Airport, the immigration officer on-site could not process it immediately and she still had to wait for the review. The immigration officer told her that if she returned within 3 months, she could use the visa she had successfully applied for before.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4eff791ff802d92ca4edfab546001a72.png)
+![Bali Visa Application Must-Read: 30 Days vs. 60 Days, Explai](https://images.gobaligo.id/vocus/vocus_4eff791ff802d92ca4edfab546001a72.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5a57f7219abcf2a9037e8348cbf294b6.png)
+![Bali Visa Application Must-Read: 30 Days vs. 60 Days, Explai](https://images.gobaligo.id/vocus/vocus_5a57f7219abcf2a9037e8348cbf294b6.png)
 
 Therefore, she ended up applying for a visa on-site again and paid once more. This story reminds us to carefully read the relevant terms when applying for a visa to avoid unnecessary trouble. We hope this traveler's experience can provide some reference for others, making their travels smoother and more enjoyable.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_efc81c47d5b097135559dfd30b494018.png)
+![Bali Visa Application Must-Read: 30 Days vs. 60 Days, Explai](https://images.gobaligo.id/vocus/vocus_efc81c47d5b097135559dfd30b494018.png)
 
 Before reading our **"Ultimate Bali Travel Guide"**, we sincerely invite you to subscribe to our YouTube channel **"Jason Indonesia"** for more visual experience sharing. [Click here](http://bit.ly/youtube-jason) to subscribe now.
 

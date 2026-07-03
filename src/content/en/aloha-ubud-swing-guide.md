@@ -23,7 +23,7 @@ _srcHash: 4de1639af35acaa325e9ea8d93d94a92
 
 Aloha Ubud Swing is a unique and popular tourist attraction in Bali, located in the Tegallalang area of Gianyar Regency. Not only does it boast stunning natural scenery, but it also offers a variety of swings at different heights and styles, making it an ideal spot for capturing beautiful photos.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b0009d10d4a49c1dd25cfb6722a31391.jpg)
+![The Swing in Ubud: Aloha Ubud Swing](https://images.gobaligo.id/vocus/vocus_b0009d10d4a49c1dd25cfb6722a31391.jpg)
 
 ## **The Appeal of Aloha Ubud Swing**
 

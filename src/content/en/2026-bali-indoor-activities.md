@@ -38,7 +38,7 @@ _srcHash: c92d14c9c8c1fe7083458f14444cd67a
 
 On a vacation in **Bali**, nothing is more frustrating than an unexpected afternoon thunderstorm or the scorching midday sun that’s hard to bear. But don’t let the weather ruin your holiday spirit! Beyond its stunning beaches, this island hides countless beautifully curated indoor spaces. Whether you want to shop leisurely in air-conditioned comfort, let the kids burn off energy at a five-star indoor playground, or enjoy a serene silver jewelry-making class amidst the misty Ubud jungle, these 60 carefully selected indoor backups will reveal a refined and cozy side of **Bali**.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775523399587-mixcollage-07-apr-2026-07-56-am-5133.jpg)
+![【2026 Bali Rain/Heat Backup Itineraries】Must-See for Rainy o](https://images.gobaligo.id/images/2026-04/1775523399587-mixcollage-07-apr-2026-07-56-am-5133.jpg)
 
 Bali Rainy Day/Sun Escape Backup Guide
 
@@ -70,7 +70,7 @@ Upside Down World Bali is a quirky attraction on the island. It features seven s
 
 ### Ice Skating Rink
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ed02bd7b74729a4efdb65c31a67a5cbf.png)
+![Ice Skating Rink](https://images.gobaligo.id/vocus/vocus_ed02bd7b74729a4efdb65c31a67a5cbf.png)
 
 Looking for a unique way to cool off on a scorching hot or rainy day in Bali? Head to **Bali Ice Skating Arena** on the 3rd floor of the West Wing at MAL BALI GALERIA in Kuta. Glide across the ice and feel like a pro as you show off your moves and drift freely on the frozen surface.
 
@@ -80,7 +80,7 @@ Each session is limited to 45 skaters, and every ticket gives you 1.5 hours of s
 
 ### 🎮 ZONE OUT Bali: Kuta’s Coolest Indoor VR Adventure Base!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f635515f259943ac474f59a6751779c.jpg)
+![ZONE OUT Bali: Kuta’s Coolest Indoor VR Adventure Base!](https://images.gobaligo.id/vocus/vocus_2f635515f259943ac474f59a6751779c.jpg)
 
 Looking for a fun activity in Bali that’s safe from the sun and rain? ZONE OUT Bali, located in Kuta’s Legian area, is your top pick! This high-tech indoor playground specializes in VR virtual reality experiences, letting you become a race car driver, space explorer, or even a zombie hunter in incredibly realistic scenes.
 
@@ -145,13 +145,13 @@ Check out the [map guide here](https://www.google.com/maps/d/u/0/edit?mid=1il-sY
 
 ### Shopping
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_21b20c72ddb3adc1f8b85870c9b75792.jpg)
+![Shopping](https://images.gobaligo.id/vocus/vocus_21b20c72ddb3adc1f8b85870c9b75792.jpg)
 
 If rain catches you, head to Seminyak Village—a modern glass-and-light architectural gem that’s Bali’s chic shopping and dining haven. Located in the heart of Seminyak, this lifestyle mall adds a fresh dimension to the typical beach-resort shopping scene. And right next door is Seminyak Square, so you can enjoy a comfortable shopping and dining experience even on a rainy day.
 
 ### Join a Workshop
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0e743d5db1650f11fd93ecf482b38441.png)
+![Join a Workshop](https://images.gobaligo.id/vocus/vocus_0e743d5db1650f11fd93ecf482b38441.png)
 
 When rain hits Seminyak, why not spice things up with a fun cooking class? Seminyak is packed with hands-on workshops for food lovers—whether you’re learning to whip up traditional Indonesian dishes or trying your hand at exotic desserts, you’ll discover the joy of creating from scratch. These classes are perfect for beginners and seasoned cooks alike, guided by professional chefs who blend food and creativity. Spend a rainy day productively and enjoyably with friends or family. Here are some classes you can book online:
 
@@ -172,7 +172,7 @@ On a rainy day in Canggu, here's how to pass the time:
 
 ### Bounce Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0f7c35106c3dbcfbe5b4b4f11acfd0a6.jpg)
+![Bounce Bali](https://images.gobaligo.id/vocus/vocus_0f7c35106c3dbcfbe5b4b4f11acfd0a6.jpg)
 
 If you're caught in the rain in Bali, head to Bounce Bali! It's the first trampoline park on the island, located inside the Canggu Club. This air-conditioned venue is designed purely for the joy of bouncing—unlike home trampolines, Bounce features specially engineered spring frames that let you jump higher! With trampolines covering every inch of the 360-degree space, there's nothing else like it in Bali. All frames and springs are covered with two-inch-thick safety padding, so as long as you love to bounce, this is your paradise.
 
@@ -180,19 +180,19 @@ At Bounce Bali, you can free-jump and practice tricks, or join organized games l
 
 ### Fitness & Workouts
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_321421d5b6c376f44537b4ea57e6f539.jpg)
+![Fitness & Workouts](https://images.gobaligo.id/vocus/vocus_321421d5b6c376f44537b4ea57e6f539.jpg)
 
 Not sure where to go on a rainy day in Canggu? This area is a fitness lover's paradise, with 20 to 30 gyms to choose from. You can use the rainy time to build a strong body and stay active. Popular gyms include **CrossFit Wanderlust**, **Body Factory Bali**, and **Avenue Fitness**. Whether you're into strength training or cardio, you'll find the perfect workout to make your rainy day productive and healthy!
 
 ### Rock Climbing Fun
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_38f97362bae8b91ae23e97debe1fb670.jpg)
+![Rock Climbing Fun](https://images.gobaligo.id/vocus/vocus_38f97362bae8b91ae23e97debe1fb670.jpg)
 
 Located in Canggu, **Bali Climbing** is a semi-outdoor climbing gym just a few steps from the beach. Here, you can get fit, have fun, and make new friends. They offer a variety of climbing routes suitable for both beginners and seasoned climbers. **Bali Climbing** also provides climbing classes for kids and adults, retreats, climbing trips, and event spaces. Their goal is to make everyone feel part of this passionate community—even on a rainy day, you can spend an energetic day here.
 
 ### Go Bowling
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_92693933716c5496982c2f770ef67351.jpg)
+![Go Bowling](https://images.gobaligo.id/vocus/vocus_92693933716c5496982c2f770ef67351.jpg)
 
 Head to **Strike Bowling Bali** for a fun-filled bowling session even on rainy days! Whether you're out with family, friends, or colleagues, bowling is a great way to bond and have a blast. Strike offers Bali's most modern ten-pin bowling experience, featuring six automatic lanes with a computerized scoring system. To help little ones (or anyone else!), they also provide bumpers to prevent balls from rolling into the gutters.
 
@@ -202,7 +202,7 @@ Whether you're 3 or 80 years old, **Strike Bowling Bali** is a fantastic choice 
 
 ### Join a Workshop Experience
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a9e14939d0a0d7cd0ddfbe64ece1edb3.png)
+![Join a Workshop Experience](https://images.gobaligo.id/vocus/vocus_a9e14939d0a0d7cd0ddfbe64ece1edb3.png)
 
 If it rains in Canggu, there are plenty of fun hands-on workshops to explore! Among them, a silver jewelry-making workshop is a top pick. Here, you can learn how to craft pure silver into beautiful accessories—whether rings, earrings, or pendants—designing and creating your own unique pieces. This experience blends creativity with craftsmanship, letting you take home a special souvenir while immersing yourself in the satisfaction of the making process.
 
@@ -216,7 +216,7 @@ Beyond that, cooking classes in Canggu are also worth trying. There are many cou
 
 ### Yoga
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00c37155e45e8f136987588e13821a2c.jpg)
+![Yoga](https://images.gobaligo.id/vocus/vocus_00c37155e45e8f136987588e13821a2c.jpg)
 
 If you want to relax on a rainy day, the yoga centers in Canggu are an excellent choice. There are many well-known yoga studios here where you can stretch your body and mind in a tranquil setting. Notable ones include **Guan Yin Yoga Shala**, **Canggu Yoga Centre**, **The Practice**, **Samasti Yoga**, and **Samadi Bali Yoga Health Hub**. Whether you're a beginner or an experienced practitioner, these places offer a variety of classes, from meditation to intense yoga poses. On a rainy day, come here to find inner peace through slow breathing and recharge your body and mind.
 
@@ -229,7 +229,7 @@ Online Booking:
 
 ### **Shopping at Love Anchor & Canggu Center**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_10ec4a262314307c49bf7f9ef148359f.jpg)
+![Shopping at Love Anchor & Canggu Center](https://images.gobaligo.id/vocus/vocus_10ec4a262314307c49bf7f9ef148359f.jpg)
 
 Even on a rainy day in Bali, you can still have fun in Canggu! Head to Love Anchor or Canggu Center to escape the bad weather while enjoying a unique shopping experience. Love Anchor is a bohemian market selling handmade crafts, accessories, and clothing, perfect for leisurely browsing souvenirs. Meanwhile, Canggu Center offers more modern shopping options, from trendy items to local specialties, satisfying all your shopping desires. Let the rainy day be full of surprises and rewards!
 
@@ -241,7 +241,7 @@ If you're near Ubud when it rains, here are some activities to consider:
 
 ### Join a Workshop Experience
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d6581c6040ade12c3dcdb42b1a7bc04c.jpg)
+![Join a Workshop Experience](https://images.gobaligo.id/vocus/vocus_d6581c6040ade12c3dcdb42b1a7bc04c.jpg)
 
 Ubud is not only a treasure trove of natural beauty but also a cradle of art and craftsmanship. Participating in workshops like batik, wood carving, pottery, silver jewelry, or chocolate making offers a rich cultural experience. These workshops provide professional guidance and let you create Balinese-style handicrafts with your own hands, bringing local art home as unique souvenirs.
 
@@ -259,7 +259,7 @@ Ubud is not only a treasure trove of natural beauty but also a cradle of art and
 
 ### Ubud Cooking Classes
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a06a0bd308129f244507a2130d8ea06e.jpg)
+![Ubud Cooking Classes](https://images.gobaligo.id/vocus/vocus_a06a0bd308129f244507a2130d8ea06e.jpg)
 
 Ubud's cooking classes offer a fantastic opportunity to dive deep into the local food culture. The experience typically includes a market visit, learning cooking techniques, hands-on preparation, and tasting your creations. Participants head to the market with their instructor to pick fresh ingredients and learn unique Balinese cooking methods. Then, it's into the kitchen to whip up classic dishes, followed by sitting down to enjoy the delicious meal you've made. It's a culturally rich culinary journey that will make you fall in love with Bali's distinctive flavors.
 
@@ -273,7 +273,7 @@ Ubud's cooking classes offer a fantastic opportunity to dive deep into the local
 
 ### Yoga Classes
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_281074552386a45c6fc694f724dccfbe.jpg)
+![Yoga Classes](https://images.gobaligo.id/vocus/vocus_281074552386a45c6fc694f724dccfbe.jpg)
 
 In the serene surroundings of Ubud, joining a yoga class is a wonderful way to relax both body and mind. Amidst lush green rice paddies or in an open-air yoga space at a resort, you can follow a yoga instructor's guidance, feeling the stretch of your body and the calm of your breath. It's not just a practice for physical wellness but also a journey of inner peace and balance.
 
@@ -285,7 +285,7 @@ In the serene surroundings of Ubud, joining a yoga class is a wonderful way to r
 
 ### Pottery Studio: Serayu Pot
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ebebcc7f1c233b8b49f2afdb5ceb44b7.png)
+![Pottery Studio: Serayu Pot](https://images.gobaligo.id/vocus/vocus_ebebcc7f1c233b8b49f2afdb5ceb44b7.png)
 
 Located in the heart of Ubud, Serayu Pot is a pottery studio and gallery. This unique venue not only showcases exquisite traditional pottery craftsmanship but also offers a chance to interact with artists. Visitors can join pottery workshops to learn the process from clay to finished ceramics, immersing themselves in the charm of art. At Serayu Pot, you can find unique pottery pieces while appreciating the creative works of local artists. It's an excellent spot to experience Ubud's cultural arts, allowing you to feel the magic of pottery firsthand. Plus, you can take pottery-making classes here!
 
@@ -293,7 +293,7 @@ Located in the heart of Ubud, Serayu Pot is a pottery studio and gallery. This u
 
 ### Visit Museums/Art Galleries
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_02e79fb63f43cff44aff4a8392dc635b.jpg)
+![Visit Museums/Art Galleries](https://images.gobaligo.id/vocus/vocus_02e79fb63f43cff44aff4a8392dc635b.jpg)
 
 Bali's rainy season brings occasional downpours, but most don't last long. On rainy days, why not arrange to experience Bali's unique culture and arts?
 
@@ -305,7 +305,7 @@ Bali's museums and galleries are ideal places to spend a rainy day immersed in a
 
 ### Rainy Day Shopping in Ubud: Sukawati Art Market & Ubud Art Market
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_13fc70b14f3fd6fbd65046b37141bdb3.jpg)
+![Rainy Day Shopping in Ubud: Sukawati Art Market & Ubud Art M](https://images.gobaligo.id/vocus/vocus_13fc70b14f3fd6fbd65046b37141bdb3.jpg)
 
 On a rainy day in Ubud, head to two of the most iconic local art markets—Sukawati Art Market and the new Ubud Art Market—for a unique shopping experience.
 
@@ -317,7 +317,7 @@ These two markets in Ubud are not only great for shopping but also provide shelt
 
 ### Bali Purma Art & Workshop
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_32e3e2ff190ef21bf1d040baa79002e7.jpg)
+![Bali Purma Art & Workshop](https://images.gobaligo.id/vocus/vocus_32e3e2ff190ef21bf1d040baa79002e7.jpg)
 
 Bali Purma Art & Workshop offers a variety of interactive experiences, from batik painting and handmade sterling silver jewelry to learning how to make *canang sari* offerings—a daily essential for Balinese people—allowing travelers to truly connect with local living aesthetics. If you're interested in more intricate crafts, they also offer advanced courses in wood carving and stone carving, bringing you closer to the soul of Balinese art.
 
@@ -341,20 +341,20 @@ Rainy days in Bali can still be exciting and meaningful!
 
 ###
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4548e46a1c68e1c1f46eb1d22ea3a4f3.jpg)
+![AeroXSpace Adventure Indoor Playground](https://images.gobaligo.id/vocus/vocus_4548e46a1c68e1c1f46eb1d22ea3a4f3.jpg)
 
 Opened at the end of August 2024, the "AeroXSpace Adventure Indoor Playground" spans over 1,000 ping (about 35,000 sq ft) and offers endless fun for both adults and children! Detailed introduction and ticket links are available [here](/blog/aeroxspace-sanur-indoor-playground/).
 
 ### Kids Soho Playground Indoor Playground
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e193d4e94c5a18949169d2bf072d25b.png)
+![Kids Soho Playground Indoor Playground](https://images.gobaligo.id/vocus/vocus_3e193d4e94c5a18949169d2bf072d25b.png)
 
 If you're stuck on a rainy day and looking for a safe, caring environment where kids can socialize, play, and learn, Kids Soho Sanur is a great choice. It focuses on providing positive early learning experiences through play and peer interaction across different age groups.
 
 ### Silver Jewelry Making
 On a rainy day, head to Sanur and craft your own silver jewelry alongside an experienced silversmith. Here, you'll learn the basics of metalworking, including how to safely use essential tools and simple techniques. Using silver wire and sheet, you can design and create a one-of-a-kind piece for yourself or a loved one. Each participant works with 5 grams of pure silver to produce a personalized work of art—it's not just a chance to pick up a new skill, but a creative and fun way to spend a rainy day.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8871ae2398624f68aab635e42892888f.png)
+![Silver Jewelry Making](https://images.gobaligo.id/vocus/vocus_8871ae2398624f68aab635e42892888f.png)
 
 - [Book Sanur Silver Jewelry Making Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F124447-silver-jewelry-making-class-in-sanur%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df1e2fd5ed6)
 
@@ -365,7 +365,7 @@ Clip 'n Climb Bali combines sport and entertainment, making it one of Bali's new
 
 > [Buy Clip 'n Climb Discount Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1026544&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F150182-clip-n-climb-pass-in-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b7aec2eea)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b8939e59e7c9c142707627c653fa9d12.jpg)
+![Clip 'n Climb Indoor Rock Climbing](https://images.gobaligo.id/vocus/vocus_b8939e59e7c9c142707627c653fa9d12.jpg)
 
 ### Kevala Studio Ceramic
 Looking for a relaxing yet creative indoor activity in Bali? Kevala Studio Ceramic in Sanur is well worth a visit. They offer three distinct pottery approaches: you can sit at a potter's wheel and watch the clay take shape under your fingers, paint pre-formed ceramics with delicate colors, or use hand-building techniques to mold unique organic forms—even mix and match methods to create your own style. Kevala Studio is the 'little sister' brand of the renowned Kevala Ceramics on the island. Though small, the space is cozy and dedicated to pottery creation and experiences, letting travelers unleash their inner artist here.
@@ -374,7 +374,7 @@ Looking for a relaxing yet creative indoor activity in Bali? Kevala Studio Ceram
 
 ### Kevala Studio Ceramic
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_834e7aaf8284c99975a986b66df9dd1e.jpg)
+![Kevala Studio Ceramic](https://images.gobaligo.id/vocus/vocus_834e7aaf8284c99975a986b66df9dd1e.jpg)
 
 在峇里島想找一種既放鬆又能激發創意的室內活動？位於沙努爾的 Kevala Studio Ceramic 絕對值得一試。這裡提供三種截然不同的陶藝方式：你可以坐在拉坯機前，看著泥土在指尖下慢慢成形；也能選擇繪製已成型的陶器，細細為它添上色彩；或是運用手塑技法捏出獨具個性的有機造型，甚至混搭多種技巧玩出自己的風格。Kevala Studio 是島上知名 Kevala Ceramics 的「小姊妹」品牌，空間不大卻溫馨，專注於陶藝創作與體驗，讓旅人能在這裡盡情發揮內心的藝術家魂。
 
@@ -423,7 +423,7 @@ Check out the links below:
 
 ## Indoor Balinese Art Photography
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_35b0a39a8078b481c31d12454f96572e.jpg)
+![Indoor Balinese Art Photography](https://images.gobaligo.id/vocus/vocus_35b0a39a8078b481c31d12454f96572e.jpg)
 
 Balinese traditional attire blends religion, aesthetics, and handcraft. Once you put on the sarong, sash, and headdress, the entire atmosphere shifts, offering deep cultural richness. This type of photography is more than just taking pictures—it's an experience of art and culture.
 
@@ -444,7 +444,7 @@ Even without prior photography experience, you can create a set of high-quality 
 
 ## Singing Bowl Sound Healing
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775522389141-d8d933ec-c361-46e3-819c-10e161969091.jpg)
+![Singing Bowl Sound Healing](https://images.gobaligo.id/images/2026-04/1775522389141-d8d933ec-c361-46e3-819c-10e161969091.jpg)
 
 If Ubud is the soul of Bali, then singing bowl sound healing is the island’s warmest breath. Many worry about their English skills, but the healing power of sound transcends language—just let go, allow the resonant tones to guide you into a dreamlike state of consciousness, and release the fatigue buried deep in your body. I’ve handpicked a few miraculous venues that maintain perfect Google ratings, combining stunning tropical rainforest views with professional sound healing guidance. Even first-timers can quickly settle in, making this the ultimate self-investment for your 2026 off-season travels!
 

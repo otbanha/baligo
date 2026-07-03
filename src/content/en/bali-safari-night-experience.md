@@ -50,7 +50,7 @@ Through interactive learning and fun animal shows, children can learn about wild
 
 ## 🏨 Overnight Safari Experience: Mara River Safari Lodge
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_48a0d20a925461edf1ebf06084a8e220.jpg)
+![Overnight Safari Experience: Mara River Safari Lodge](https://images.gobaligo.id/vocus/vocus_48a0d20a925461edf1ebf06084a8e220.jpg)
 
 ### Accommodation Choice: Spacious KIFARA Family Room
 
@@ -66,7 +66,7 @@ Staying at Mara River Safari Lodge comes with exclusive benefits:
 - Free for lodge guests; day visitors must pay extra
   **Close Encounters with Elephants**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_23dd2debd50dce6286f3bac4b38e501a.jpg)
+![Exclusive Perks: Animal Interactions for Guests](https://images.gobaligo.id/vocus/vocus_23dd2debd50dce6286f3bac4b38e501a.jpg)
 
 - While swimming, you might encounter an elephant carrying visitors
 - Feed the elephant with a basket of fruit (apples, mangoes, bananas) provided by the hotel
@@ -82,7 +82,7 @@ Staying at Mara River Safari Lodge comes with exclusive benefits:
 
 ### Night Safari Experience
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5fa7bf128755b8b15e16f9d8430efba7.jpg)
+![Night Safari Experience](https://images.gobaligo.id/vocus/vocus_5fa7bf128755b8b15e16f9d8430efba7.jpg)
 
 The park offers a "Night Safari" program, including:
 
@@ -98,7 +98,7 @@ The park offers a "Night Safari" program, including:
 
 ## 🗓️ Perfect Itinerary Planning
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4003d7d14e61bfa23fdb225e3da15ed8.jpg)
+![Perfect Itinerary Planning](https://images.gobaligo.id/vocus/vocus_4003d7d14e61bfa23fdb225e3da15ed8.jpg)
 
 ### Must-See Shows and Activities
 
@@ -119,13 +119,13 @@ The park offers a "Night Safari" program, including:
 
 ## 🐘 Activity Suggestions Suitable for All Ages
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_82a2a745225e95c372e193f37e56fa60.jpg)
+![Activity Suggestions Suitable for All Ages](https://images.gobaligo.id/vocus/vocus_82a2a745225e95c372e193f37e56fa60.jpg)
 
 ### Recommended Activities by Age
 
 **Recommended Activities by Age Group**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4b09794f279b554fc896f533c28236c9.jpg)
+![Recommended Activities by Age](https://images.gobaligo.id/vocus/vocus_4b09794f279b554fc896f533c28236c9.jpg)
 
 **2-4 Years Old**
 
@@ -141,7 +141,7 @@ Bali Agung Show, Tiger Show
 
 **1. Safari Journey Tour**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0f0fe4668967c56fac9ce5a18e2c3664.jpg)
+![Must-Try Activities](https://images.gobaligo.id/vocus/vocus_0f0fe4668967c56fac9ce5a18e2c3664.jpg)
 
 - The park's signature activity, ride an air-conditioned Safari Bus to see most of the park's animals
 - Safely observe giraffes, zebras, lions, and other wildlife up close
@@ -182,7 +182,7 @@ Bali Agung Show, Tiger Show
 - Camera to capture precious moments
 - A relaxed attitude and curious spirit for exploration
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0c1629a05b76a6ff80f296309e982fd1.jpg)
+![Essential Items to Bring](https://images.gobaligo.id/vocus/vocus_0c1629a05b76a6ff80f296309e982fd1.jpg)
 
 ## 🌟 Summary
 

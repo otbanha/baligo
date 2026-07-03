@@ -22,19 +22,19 @@ lang: en
 _srcHash: 0c61c3621a3b617b22c5bef0108dc132
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dd3f3b7cadfa7c280b3748820ff69beb.jpg)
+![Top 10 Attractions/Must-Do Activities in Uluwatu, Bali](https://images.gobaligo.id/vocus/vocus_dd3f3b7cadfa7c280b3748820ff69beb.jpg)
 
 Every moment spent in Uluwatu feels like a slice of paradise, and we're not exaggerating! Uluwatu in Bali is highly underrated, and today, we'll take you through the top 10 attractions and must-do activities in Uluwatu.
 
 ## #10: Visit Uluwatu Temple
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b953b86f0cdb3e5f162eec96ac861d2d.jpg)
+![10: Visit Uluwatu Temple](https://images.gobaligo.id/vocus/vocus_b953b86f0cdb3e5f162eec96ac861d2d.jpg)
 
 Uluwatu Temple is considered one of Bali's most famous temples, alongside Tanah Lot and Besakih Temple. Perched on a 17-meter-high cliff overlooking the Indian Ocean, Uluwatu Temple is one of Bali's three iconic temples and embodies the foundation of Balinese spirituality. Beyond its religious significance, visitors are drawn to its breathtaking ocean views. You can also enjoy a stunning sunset here. Be cautious of the mischievous monkeys, known as some of the most unruly in Southeast Asia, so remove your glasses and jewelry.
 
 ## #9: Watch the Kecak Fire Dance
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8e1e2cb735b2c791a156b870f1022afc.jpg)
+![9: Watch the Kecak Fire Dance](https://images.gobaligo.id/vocus/vocus_8e1e2cb735b2c791a156b870f1022afc.jpg)
 
 Visitors to Uluwatu Temple can also enjoy the famous Kecak Fire Dance. This unique Balinese dance doesn't rely on musical instruments but is accompanied by a chorus of men chanting rhythmically. Like all Balinese dances, it tells a story through movement. The best place to watch the fire dance in Bali is on the stage at Uluwatu Temple, where you can admire the sunset behind the dancers.
 
@@ -91,7 +91,7 @@ A popular spot for surfers who use the cave to access the wild waves, you'll nee
 
 ## #5: Explore GWK Cultural Park
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6c3c61665afdc5719285358d3e0c4bd9.jpg)
+![5: Explore GWK Cultural Park](https://images.gobaligo.id/vocus/vocus_6c3c61665afdc5719285358d3e0c4bd9.jpg)
 
 Garuda Wisnu Kencana Cultural Park is Indonesia's largest cultural park, dedicated to the Hindu god Wisnu and his mount, the mythical bird Garuda. The park's centerpiece is Indonesia's tallest statue of Wisnu riding Garuda. This cultural landmark also offers shopping opportunities and traditional Balinese dance performances.
 
@@ -103,7 +103,7 @@ Garuda Wisnu Kencana Cultural Park is Indonesia's largest cultural park, dedicat
 
 ## Fourth Place: Balangan Viewpoint
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc2912da85b54c0124095c6a7ac446b1.jpg)
+![Fourth Place: Balangan Viewpoint](https://images.gobaligo.id/vocus/vocus_bc2912da85b54c0124095c6a7ac446b1.jpg)
 
 Balangan Cliff Sunset Point is a captivating location renowned for its stunning coastal views. It's one of the best spots in Bali to witness the island's spectacular sunsets, where you can watch the sun gradually sink below the horizon, leaving behind unforgettable beauty. Additionally, you can enjoy hiking through the rocks, immersing yourself in nature's splendor, or simply relaxing on the beach.
 
@@ -121,7 +121,7 @@ Further Reading: [Exploring Bali's Hidden Gems: A Guide to 6 Secret Beaches / Ho
 
 ## Second Place: Tanah Barak Cliff Scenic Road / Blue Road
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7ae1b58d8b51712366caf4610c73688a.jpg)
+![Second Place: Tanah Barak Cliff Scenic Road / Blue Road](https://images.gobaligo.id/vocus/vocus_7ae1b58d8b51712366caf4610c73688a.jpg)
 
 Bali's Tanah Barak Cliff (also known as Pantai Batu Barak) is a hidden gem that has recently become a popular attraction. This newly opened beach features stunning blue waters and colorful rocks that make it unique. Besides the magnificent sea views, the road here is carved through massive limestone cliffs, with towering rock walls on either side and the azure sea in the distance, creating a dramatic visual impact. You can also climb the central rocks for better photo angles. Tanah Barak is about a 30-minute drive from the airport, and entry requires a ticket (currently Rp8,000 for adults, Rp3,000 for children). It's open daily from 6:00 AM to 6:00 PM.
 
@@ -151,7 +151,7 @@ For couples, enjoy a romantic atmosphere at Malini Uluwatu restaurant. This clif
 
 ## Number One: Surfing and Diving
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f237c3322eff064a02804f4e6cffcc22.jpg)
+![Number One: Surfing and Diving](https://images.gobaligo.id/vocus/vocus_f237c3322eff064a02804f4e6cffcc22.jpg)
 
 With its excellent surf spots along the Uluwatu coastline, this area is a dream destination for surfers and a major draw for visitors. Nearby, you'll find numerous surf camps and instructional courses at beaches like Uluwatu Beach, Padang Padang Beach, Bingin Beach, Green Bowl Beach, and Suluban Beach, among many others. Take Uluwatu Beach, for example—it's considered Uluwatu's biggest attraction. Beyond the famous cliffside temple, it's also a popular spot for surfing and various water activities. You can comfortably watch the sunset on the beach or enjoy delicious meals at nearby restaurants, undoubtedly captivated by the beach's enchanting charm. Whether you're looking to experience thrilling surfing or simply want to relax and watch, this is a must-visit destination.
 

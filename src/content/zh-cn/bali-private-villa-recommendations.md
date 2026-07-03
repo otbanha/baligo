@@ -25,7 +25,7 @@ lang: zh-cn
 _srcHash: 2e192c8ab4953fd84a7976ad975e4dc0
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f7f110d84c5d9f2da6f3b4a97a26a58f.png)
+![巴厘岛住宿新选择：私人别墅 Villa 推荐大全，感受比酒店更自由的度假生活](https://images.gobaligo.id/vocus/vocus_f7f110d84c5d9f2da6f3b4a97a26a58f.png)
 
 巴厘岛作为全球知名的旅游胜地，每年吸引无数游客。然而，旅游趋势不断变化，新兴的住宿选择和旅游方式逐渐改变了游客的偏好。最近的旅游数据显示，越来越多的旅客开始偏好私人别墅（private villa），而非传统酒店。这一趋势的背后有什么原因？
 

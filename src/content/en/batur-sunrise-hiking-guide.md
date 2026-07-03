@@ -23,7 +23,7 @@ _srcHash: 60e806d45890a74ca79a9328d6aea50c
 
 When people think of Bali, the first images that come to mind are usually its beautiful beaches and sparkling waters. However, Bali's charm extends far beyond that, and one natural wonder you shouldn't miss is the magnificent sunrise at Mount Batur. Why choose to hike Mount Batur for sunrise? It's an unforgettable experience, from the challenge of the hike to standing at the summit watching the sunrise—every step is an adventure worth remembering.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1a33444c5f40194580ec6dd76eebda6d.png)
+![Enjoy the Magnificent Sunrise at the Summit of Mount Batur, ](https://images.gobaligo.id/vocus/vocus_1a33444c5f40194580ec6dd76eebda6d.png)
 
 ### **Preparation Before Departure**
 
@@ -52,7 +52,7 @@ When I arrived at the base of Mount Batur, I met my guide, Sri Ayu, a gentle yet
 
 Route overview: From the base to the summit, there are three main rest stops. Each one is a great place to relax and recharge.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_943cfde45f0d5e4c8028776be7761d3b.png)
+![The Hike](https://images.gobaligo.id/vocus/vocus_943cfde45f0d5e4c8028776be7761d3b.png)
 
 ### **First Rest Stop**
 
@@ -66,7 +66,7 @@ As we approached the summit, the air grew colder, but the excitement within me g
 
 Finally, we stood atop Mount Batur. From here, a 360-degree panoramic view unfolded before our eyes, showcasing breathtaking scenery. The majestic trio of Mount Agung, Mount Abang, and Mount Batur formed a perfect natural canvas. As the sun slowly rose, the sky transitioned from darkness to hues of orange and red, a moment that truly captured the infinite charm of nature.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_040067c34db9397ea52aaa21df16c3bd.png)
+![The Majestic Sunrise at Mount Batur Summit](https://images.gobaligo.id/vocus/vocus_040067c34db9397ea52aaa21df16c3bd.png)
 
 ### **Post-Sunrise Activities**
 
@@ -80,7 +80,7 @@ After savoring the summit's beauty and breakfast, we began our descent. Planning
 
 On our way back to Kuta, we stopped at several cafes, each offering stunning mountain views, perfect for resting and reflecting on our climb. Back at the hotel, I felt immensely satisfied; this Mount Batur expedition fulfilled a long-held dream.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb64b843848cfe5be13410cb5bb851ac.png)
+![Returning to Kuta](https://images.gobaligo.id/vocus/vocus_eb64b843848cfe5be13410cb5bb851ac.png)
 
 ### **Conclusion**
 

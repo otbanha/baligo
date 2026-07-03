@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: 7e2a39b24e3790fd45e2735d2142045b
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_498ee7f36925a8e9d53a0b9cf326a3cc.jpg)
+![峇里島新景點｜Taman Tukad Korea 韓國河濱公園｜청계천｜Taman Kumbasari in Denpa](https://images.gobaligo.id/vocus/vocus_498ee7f36925a8e9d53a0b9cf326a3cc.jpg)
 
 探索峇里島美景，「韓國清溪川河濱公園」點解會搬咗去峇里島嘅 Denpasar 嘅？！
 

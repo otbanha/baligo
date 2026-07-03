@@ -19,7 +19,7 @@ _srcHash: 028a8ed8d691117a4a2d0b0f46f9e387
 
 如果你去到巴厘岛，千万不要错过在巴厘岛的卡恰火舞表演！这是个会让你终身难忘的精彩表演喔！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f8c6296d8f2f09b45c9843546731b432.jpg)
+![Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演（附订票信息）](https://images.gobaligo.id/vocus/vocus_f8c6296d8f2f09b45c9843546731b432.jpg)
 
 ## 震撼人心的表演
 
@@ -35,7 +35,7 @@ _srcHash: 028a8ed8d691117a4a2d0b0f46f9e387
 
 ## 故事内容
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f2406be4ab4d6ea6026d450f8c08440e.jpg)
+![故事内容](https://images.gobaligo.id/vocus/vocus_f2406be4ab4d6ea6026d450f8c08440e.jpg)
 
 乌鲁瓦图的卡恰火舞表演其实是一场极具巴厘岛特色的传统舞剧，它的故事情节主要来自印度史诗《罗摩衍那》。这个表演的重点是在讲述英雄罗摩王子（Rama）拯救妻子悉多（Sita）的故事。
 
@@ -45,7 +45,7 @@ _srcHash: 028a8ed8d691117a4a2d0b0f46f9e387
 
 ## 卡恰火舞起源
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a406dcf7d7e0aeedce7bcc6494100b63.jpg)
+![卡恰火舞起源](https://images.gobaligo.id/vocus/vocus_a406dcf7d7e0aeedce7bcc6494100b63.jpg)
 
 卡恰火舞据说起源于巴厘岛的一种古老仪式，称为Sanghyang，旨在作为一种驱魔或驱赶邪灵的形式，舞者在其中陷入恍惚。该舞蹈首次出现在1930年，当时巴厘岛的舞蹈家Wayan Limbak与德国画家Walter Spies合作，将史诗《罗摩衍那》的传奇故事融入其中，创造了一个戏剧性的Sanghyang表演版本。他们带着这一创新成果进行了世界巡回演出，因此该舞蹈从此开始流行。
 

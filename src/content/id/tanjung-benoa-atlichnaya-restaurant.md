@@ -21,7 +21,7 @@ lang: id
 _srcHash: a33e6f46bb67db97ecc619d69d4f5bc4
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_38647df609dcb467b362b277fb732075.jpg)
+![Restoran Terbaik dengan Harga Terjangkau di Tanjung Benoa, B](https://images.gobaligo.id/vocus/vocus_38647df609dcb467b362b277fb732075.jpg)
 
 Pas lagi di Tanjung Benoa atau Nusa Dua, jangan sampai kelewatan Atlichnaya — restoran murah meriah yang bikin kagum. Hidden gem di sudut jalan ini terkenal banget di kalangan traveler karena rasa juara, suasananya ramah, dan harganya super bersahabat. Cocok banget jadi rekomendasi tempat makan di area Tanjung Benoa/Nusa Dua.
 

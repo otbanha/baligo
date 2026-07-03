@@ -35,7 +35,7 @@ It's hard to imagine that an island roughly twice the size of New Taipei City is
 
 Among so many restaurants, this one praised as 'Bali's Most Beautiful Restaurant' is not to be missed!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a516952fa874238cf08ef63be006c56d.jpg)
+![【Bali's Most Beautiful Restaurant】La Brisa Bali Guide: Enter](https://images.gobaligo.id/vocus/vocus_a516952fa874238cf08ef63be006c56d.jpg)
 
 La Brisa is located on the foreshore of Echo Beach in Canggu, Bali's hottest tourist spot (check out [Canggu 80 Spots Guide](/blog/canggu-guide/)), one of Bali's most famous beaches, offering absolutely stunning, endless cuisine and genuine Balinese hospitality.
 

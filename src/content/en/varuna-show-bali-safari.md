@@ -41,7 +41,7 @@ Making waves since its 2025 opening, even featured in Indonesia's Time magazine
 
 Located in Gianyar, Marine Safari Bali is right next to the famous Bali Safari Park. The two parks are now collectively called [Bali Safari and Marine Park](https://www.balisafarimarinepark.com/), marketed as 'One Destination, Two Worlds'.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a852c7ca33d5bd372e588be693151a71.jpg)
+![Transportation & Entry](https://images.gobaligo.id/vocus/vocus_a852c7ca33d5bd372e588be693151a71.jpg)
 
 Since it's not in a central area, I recommend hiring a private car. The park is larger than expected, and you'll be immediately immersed in tropical scenery and cheerful atmosphere upon entry. We pre-purchased the [Day Varuna Premium package](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D) on Klook - while pricey, it's absolutely worth every penny!
 
@@ -49,7 +49,7 @@ Since it's not in a central area, I recommend hiring a private car. The park is 
 
 The package includes lunch at a beautifully designed 'Underwater World' themed restaurant. Dominated by blue tones with coral and seaweed decorations on the walls, enhanced by special lighting effects, it feels like dining in an underwater palace. The meal is a refined Western-style set menu, with their Balinese specialty drinks being particularly recommended. Kids couldn't get enough of the adorable dessert designs.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dde920a2ff3ff6a19c243c058206babf.jpg)
+![Underwater Theme Restaurant Surprises](https://images.gobaligo.id/vocus/vocus_dde920a2ff3ff6a19c243c058206babf.jpg)
 
 ## 🎭 Varuna Show Takes Center Stage
 
@@ -62,11 +62,11 @@ The performance centered around the adventures of Varuna, the guardian of the se
 - Stage mechanisms seamlessly transitioned scenes from coral reefs to deep-sea canyons
 - Surround sound effects immersed the audience in the experience
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a9ec96e68a4dfb925af37572839d993b.jpg)
+![Varuna Show Takes Center Stage](https://images.gobaligo.id/vocus/vocus_a9ec96e68a4dfb925af37572839d993b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ccc79478004fb80ee3858ecaf2f76d1b.jpg)
+![Varuna Show Takes Center Stage](https://images.gobaligo.id/vocus/vocus_ccc79478004fb80ee3858ecaf2f76d1b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_71a7166954f577ff3a806abb0a4bff99.jpg)
+![Varuna Show Takes Center Stage](https://images.gobaligo.id/vocus/vocus_71a7166954f577ff3a806abb0a4bff99.jpg)
 
 ## 📸 Photo Opportunities with Actors
 

@@ -25,7 +25,7 @@ lang: zh-cn
 _srcHash: d867aa050268294f5def51dd914e2047
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_db855d72e3a3f085829e4471ce055f11.jpg)
+![巴厘岛网卡推荐：SIM卡、eSIM 与漫游方案优缺点完全比较](https://images.gobaligo.id/vocus/vocus_db855d72e3a3f085829e4471ce055f11.jpg)
 
 巴厘岛的旅馆虽然提供免费的Wi-Fi，但当你出门在外需要查资料、导航、打卡或上传照片时，行动网络仍然是必不可少的。
 
@@ -69,7 +69,7 @@ _srcHash: d867aa050268294f5def51dd914e2047
 
 如果你的手机可以使用eSIM，信号最稳定、最推荐的eSIM方案是[这个](/blog/bali-esim-travel-guide/)！
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774795350035-d191a0b14c5f198b32ba296c4e0035b1.jpg)
+![eSIM推荐](https://images.gobaligo.id/images/2026-03/1774795350035-d191a0b14c5f198b32ba296c4e0035b1.jpg)
 
 {{block:klook}}
 

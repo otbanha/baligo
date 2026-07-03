@@ -23,7 +23,7 @@ lang: id
 _srcHash: 64c57f2ec05132c594910d48e40a1697
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1a3b754a96b4f0e921c41865215e967b.png)
+![Wajib Tahu Sebelum ke Bali: Satu Kata Ajaib Bahasa Indonesia](https://images.gobaligo.id/vocus/vocus_1a3b754a96b4f0e921c41865215e967b.png)
 
 預訂、省錢就看這裡：
 
@@ -33,7 +33,7 @@ _srcHash: 64c57f2ec05132c594910d48e40a1697
 
 Buat kamu yang liburan singkat ke Bali, belajar sedikit bahasa Indonesia itu penting banget. Soalnya bisa bikin kamu lebih dekat sama warga lokal dan terhindar dari situasi canggung. Nah, dari sekian banyak kata, yang paling wajib kamu kuasai dan paling sering dipakai adalah 'Terima kasih'.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1f891a42530fb2762a08646fe2f6600.png)
+![Wajib Tahu Sebelum ke Bali: Satu Kata Ajaib Bahasa Indonesia](https://images.gobaligo.id/vocus/vocus_a1f891a42530fb2762a08646fe2f6600.png)
 
 Selama perjalanan, pasti ada momen di mana kamu perlu ngucapin terima kasih — entah karena dibantu warga lokal, menikmati makanan enak, atau dapat pelayanan ramah pas belanja. Pakai kata 'Terima kasih' ini bukan cuma bikin kamu keliatan lebih sopan, tapi juga bikin warga lokal ngerasa dihargai dan dihormati.
 

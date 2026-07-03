@@ -22,7 +22,7 @@ _srcHash: 2e5ad6c20d699ffd99fb6b25fe61686d
 
 電子簽證（electronic visa on arrival，簡稱eVoA/eVisa），係指旅客喺出發前，透過印尼移民總局嘅官方網站線上申請嘅簽證。電子簽證嘅申請費用同落機排隊辦理人工落地簽證一樣為50萬印尼盾（約USD$32），有效期為30日，可延長一次，最多居留60日。然而刷卡繳費需多付一啲手續費。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b494c08f27d320e4d119e85eb298d600.png)
+![乜嘢係電子簽證？](https://images.gobaligo.id/vocus/vocus_b494c08f27d320e4d119e85eb298d600.png)
 
 ## 電子簽證申請步驟
 

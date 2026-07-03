@@ -25,7 +25,7 @@ lang: en
 _srcHash: 43b0081549c4a1f5d85271ee68273e88
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4d890c56008750b221724ab34dc371a1.png)
+![【Bali Family-Friendly Attraction】Jungle Kids Bali Nuanu's Ki](https://images.gobaligo.id/vocus/vocus_4d890c56008750b221724ab34dc371a1.png)
 
 In Bali's **Nuanu Creative City**, there's a space specifically designed for children — **Jungle Kids**. This isn't just an ordinary playground, but a multifunctional venue that combines exploration, learning, and creative experiences. It offers a variety of play facilities, from outdoor rope parks to indoor play areas, as well as daily art and craft workshops, allowing children to learn through play and develop creativity and social skills.
 
@@ -126,7 +126,7 @@ If you’re planning a trip to Bali with your kids and want to include some chil
 
 ## More Attractions in Nuanu Creative City
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bb0d733b3270a1b16dd953918caac13d.jpg)
+![More Attractions in Nuanu Creative City](https://images.gobaligo.id/vocus/vocus_bb0d733b3270a1b16dd953918caac13d.jpg)
 
 Nuanu Creative City is Bali's latest emerging creative hub, promoting zero carbon emissions and becoming the island's newest sustainable tourism landmark. It's already attracting global creatives as the next must-visit hotspot!
 

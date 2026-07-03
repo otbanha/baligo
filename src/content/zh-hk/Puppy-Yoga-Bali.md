@@ -30,7 +30,7 @@ _srcHash: de3eafb7eef3d46985774638ed3c8637
 
 峇里島嘅 Puppy Yoga 唔係死板嘅傳統瑜伽課程，而係一場 **「以玩為主、瑜伽為輔」** 嘅歡樂體驗。喺呢度，瑜伽墊變咗遊樂場，小狗可以自由穿梭、舐你塊面、咬你條瑜伽褲、甚至喺你做下犬式時捐入你身體下面。呢堂課嘅核心精神好簡單：**放低對「完美體位」嘅執著，張開雙手擁抱混亂又可愛嘅 puppy 能量。**
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781161790095-mixcollage-11-jun-2026-01-46-pm-4950.jpg)
+![【可愛到融】Puppy Yoga 小狗瑜伽攻略：結合狗狗領養、身心靈療癒同網美打卡避雷指南](https://images.gobaligo.id/images/2026-06/1781161790095-mixcollage-11-jun-2026-01-46-pm-4950.jpg)
 
 ## 🐕 Play Time 先係主角：小狗瑜伽中嘅玩樂環節（佔時約25-30分鐘）
 
@@ -53,7 +53,7 @@ _srcHash: de3eafb7eef3d46985774638ed3c8637
 
 ## 🐶 呢堂課適合邊個？
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781162169791-mixcollage-11-jun-2026-01-47-pm-4715.jpg)
+![呢堂課適合邊個？](https://images.gobaligo.id/images/2026-06/1781162169791-mixcollage-11-jun-2026-01-47-pm-4715.jpg)
 
 - **所有年齡層同瑜伽程度** – 就算從未上過瑜伽課都完全冇問題。導師設計嘅動作好基礎，重點係玩得開心。
 - **想釋放壓力、獲得療癒嘅旅客** – 小狗嘅單純同熱情可以好快令人忘記煩惱。
@@ -73,7 +73,7 @@ https://www.instagram.com/reel/DLOYzxLSP47/?utm_source=ig_web_button_share_sheet
 
 峇里島嘅 Puppy Yoga 多數同當地動物救援組織合作。參與課程嘅幼犬都係俾人救返嚟嘅浪浪，透過同人大量互動玩耍，佢哋學會信任人類、適應環境，大大增加被領養嘅機會。你俾嘅課程費用，有一部分會直接用嚟支付小狗嘅疫苗、飼料同醫療開支。**呢場係雙向療癒：你得到快樂，佢哋得到未來嘅希望。**
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781162218450-8aa81110ade716a674f839158ffd5698.jpg)
+![背後嘅溫暖意義](https://images.gobaligo.id/images/2026-06/1781162218450-8aa81110ade716a674f839158ffd5698.jpg)
 
 ## 📍 地點選擇
 

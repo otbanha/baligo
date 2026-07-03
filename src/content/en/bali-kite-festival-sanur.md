@@ -26,7 +26,7 @@ _srcHash: f0535b9fd7b48d658caaf59737e64854
 
 Bali's annual 'International Kite Festival' will be held from July 20th to 21st at Padang Galak Beach on the Sanur coast, one of the most colorful and exciting cultural events on the island.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0381acf98f09de3dc7f0b3d4f3abac5f.jpg)
+![Festival Dates and Location](https://images.gobaligo.id/vocus/vocus_0381acf98f09de3dc7f0b3d4f3abac5f.jpg)
 
 ### **Historical Background of the Kite Festival**
 

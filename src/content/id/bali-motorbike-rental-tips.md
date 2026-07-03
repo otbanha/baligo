@@ -33,7 +33,7 @@ _srcHash: 0e5698fa1a7a883cc0d092001d703e06
 
 Di Bali, motor adalah kendaraan sehari-hari warga lokal, apalagi di Ubud — mereka sering ngebut di antara sawah. Banyak turis lihat jadi kepengen juga, karena motor dianggap murah, praktis, dan bebas jelajahi Bali. 
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff2d79a6384a7682bb6d83c4de623131.jpg)
+![【Panduan Sewa Motor di Bali】Checklist Keamanan: Harga Sewa, ](https://images.gobaligo.id/vocus/vocus_ff2d79a6384a7682bb6d83c4de623131.jpg)
 
 ## Apakah Aman Naik Motor di Bali? 
 
@@ -61,7 +61,7 @@ Harga sewa motor di Bali beda-beda tergantung tipe, umur motor, dan lokasi.
 
 **Isi Bensin** Di pinggir jalan Bali, banyak pedagang kaki lima yang jual bensin pakai botol bekas vodka, harganya sekitar 10.000 IDR (sekitar USD$0.3) per liter.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9c66c50875ad9077897e9537cffffec5.jpg)
+![Berapa Biaya Sewa Motor?](https://images.gobaligo.id/vocus/vocus_9c66c50875ad9077897e9537cffffec5.jpg)
 
 ## Beberapa Alasan Kenapa Naik Motor di Bali Kurang Disarankan 🚫🏍️
 
@@ -97,7 +97,7 @@ Sebenernya Bali punya banyak pilihan transportasi yang terjangkau, kayak sewa mo
 
 > Baca juga: [Panggil ojek lewat aplikasi, cara hemat waktu dan tenaga!](/blog/bali-travel-app-motorcycle-taxi/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_49791dac6020e950bda56dde7ee4e7f5.jpg)
+![6. Alternatif lain yang lebih hemat](https://images.gobaligo.id/vocus/vocus_49791dac6020e950bda56dde7ee4e7f5.jpg)
 
 {{block:klook}}
 
@@ -118,7 +118,7 @@ Kalau kamu masih nekat pakai motor sebagai alat transportasi, perhatikan beberap
 
 Jangan langsung bawa kabur motornya pas dikasih kunci sama bos! Pastiin kamu **belum nyalain mesin** dan **belum ninggalin tempat rental**, terus keluarin HP, buka mode video, dan rekam dari beberapa titik penting ini buat bukti.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_de43e176127f414dfd12cd2155b28955.png)
+![Detail Kecil Sebelum Ambil Motor (Cek Kondisi)](https://images.gobaligo.id/vocus/vocus_de43e176127f414dfd12cd2155b28955.png)
 
 **1. Body Motor (Punya banyak lecet nggak?)**
 
@@ -186,7 +186,7 @@ https://youtu.be/lIV-T2jYhVk?si=KOKR7HFKOtrw1EAb
 
 Meskipun nyewa motor emang cara paling murah dan praktis buat keliling Bali, tapi di luar sana keselamatan tetap prioritas utama. Apalagi di tempat asing kalau sampai terjadi kecelakaan, selain nggak kenal daerah, kamu juga harus bayar biaya medis yang selangit, rugi banget. Saran gue, pas menjelajahi pulau cantik ini, mending pilih cara transportasi yang lebih aman biar bisa bener-bener santai nikmatin pemandangan dan budaya Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_65aeba9cc2da686003182b4431afa2a8.jpg)
+![Penutup](https://images.gobaligo.id/vocus/vocus_65aeba9cc2da686003182b4431afa2a8.jpg)
 
 Inget, **keselamatan nomor satu**! Ini bukan buat nakutin kamu, tapi buat ngingetin betapa berharganya nyawa, nggak sebanding buat ambil risiko cuma demi hemat sedikit uang, ya!
 

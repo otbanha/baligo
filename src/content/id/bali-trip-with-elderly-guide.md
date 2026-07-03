@@ -203,9 +203,9 @@ Ini pertama kalinya aku nulis rekomendasi, khusus buat kalian yang baru pertama 
 
 Terakhir, aku mau rekomendasiin tim sewa mobil dan pemandu profesional yang kami temukan lewat grup Facebook [Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo/) di "[Daftar Rekomendasi Sopir Sewa Mobil Bali](/blog/bali-private-car-drivers-guide/)". Mereka bikin perjalanan pertama ke Bali jadi super nyaman dan aman.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_da313eec958216453bae20d6d64fe17c.jpg)
+![【Penutup Perjalanan】](https://images.gobaligo.id/vocus/vocus_da313eec958216453bae20d6d64fe17c.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_008c9c268af88a82a7d01fce6193cf53.png)
+![【Penutup Perjalanan】](https://images.gobaligo.id/vocus/vocus_008c9c268af88a82a7d01fce6193cf53.png)
 
 Perjalanan tujuh hari enam malam ini bikin aku bisa bawa keluarga besar tanpa khawatir, menjelajahi Bali dengan tenang. Layanan sewa mobil juga mengurangi repot bawa koper, dan memastikan orang tua punya waktu istirahat yang cukup. Aku tulus merekomendasikan tim sewa mobil Edi dan pemandu bahasa Mandarin profesional. Buat yang pertama kali ke Bali, pengaturan kayak gini bikin aman dan nyaman, apalagi kalau bawa orang tua — jadi lebih santai dan menyenangkan. Dengan antar-jemput khusus, bawa koper jadi lebih gampang, orang tua bisa istirahat di mobil kapan aja, dan perjalanan jadi lebih mulus.
 
@@ -217,7 +217,7 @@ Perjalanan tujuh hari enam malam ini bikin aku bisa bawa keluarga besar tanpa kh
 
 Kamu pikir itinerary Claire Chen mereka seru banget? Yuk, segera atur rencana liburan mandiri ke Bali versi kamu! Juga, jangan ragu buat kirim itinerary kamu di grup ya!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Panduan Liburan ke Bali Bareng Orang Tua:](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Klik di sini buat lihat lebih banyak cerita perjalanan seru di Bali
 

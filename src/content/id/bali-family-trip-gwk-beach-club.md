@@ -30,7 +30,7 @@ _srcHash: b6e65c18a282abb51491e746cf3b1a30
 
 Hari kedua liburan keluarga pertama ke Bali, itinerary hari ini:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_85927681da5e54d9cc9e2a0075146d7b.jpg)
+![【Dua Dewasa Dua Anak di Bali】Day 2: GWK Cultural Park, Panta](https://images.gobaligo.id/vocus/vocus_85927681da5e54d9cc9e2a0075146d7b.jpg)
 
 Berangkat dari Aloft Kuta yang super nyaman (cek [cerita sebelumnya di sini](/blog/bali-family-trip-aloft-kuta/)) > GWK Cultural Park di Jimbaran > Kelly's Warung, restoran dengan pemandangan laut di Uluwatu > Pura Uluwatu > Tari Kecak > jajanan pinggir jalan
 

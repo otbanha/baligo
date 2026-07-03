@@ -17,7 +17,7 @@ lang: zh-cn
 _srcHash: 30feb5cbfc23de66e0c3782c293b666f
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac4148122f55882304ae14a57d853f86.jpg)
+![【2026年版】仍在举办的巴厘岛四个假日市集：最接地气的购物体验](https://images.gobaligo.id/vocus/vocus_ac4148122f55882304ae14a57d853f86.jpg)
 
 在疫情过后，许多网络上关于巴厘岛假日市集（Sunday Market）的信息已经过时。然而，2026年仍有一些精彩的市集持续举办。我们特别整理了这些真正的假日市集，而非那些每天都在营业的市集。以下是我们所列出的2026年仍在举办的假日市集：
 
@@ -75,7 +75,7 @@ SUNDAZE ULUWATU MARKET 位于巴厘岛南端的 Hatch Bali Uluwatu，每逢星
 
 ### 更多乌鲁瓦图吃喝玩乐介绍
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
+![更多乌鲁瓦图吃喝玩乐介绍](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
 乌鲁瓦图是巴厘岛南部最受欢迎的地区之一，以壮丽的悬崖景观、迷人的海滩和绝佳的冲浪点闻名。这里充满热带度假的浪漫氛围，是享受日落美景与放松时光的完美选择。如果你也想住在乌鲁瓦图，可以参考下列我们精心整理的吃喝玩乐介绍，让你的旅程更加丰富有趣：[【乌鲁瓦图攻略】乌鲁瓦图景点 吃喝玩乐推荐](/blog/uluwatu-guide/)
 

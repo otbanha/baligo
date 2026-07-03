@@ -45,7 +45,7 @@ https://youtube.com/shorts/fiYs5GKdINU
 
 ## What is the Melukat Purification Ritual? Can Non-Hindus Participate?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5ba2abc7963542e2253bb38ebb3360ef.jpg)
+![What is the Melukat Purification Ritual? Can Non-Hindus Part](https://images.gobaligo.id/vocus/vocus_5ba2abc7963542e2253bb38ebb3360ef.jpg)
 
 Melukat is a purification ritual in Balinese Hinduism, where devotees pass through 26 fountains in sequence within the spring water, cleansing their spirit through splashing water and prayers.
 
@@ -84,13 +84,13 @@ The cool, clear spring water flows over your body, as if washing away the fatigu
 
 **Outer Courtyard (Jaba Pura)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3f2cc19c62eca50170a62be966baf1f4.jpg)
+![The Three Main Areas of Tirta Empul](https://images.gobaligo.id/vocus/vocus_3f2cc19c62eca50170a62be966baf1f4.jpg)
 
 Upon entering the temple gate, you'll find the outer courtyard, a serene space with a koi pond and lush greenery—perfect for quiet meditation.
 
 **Central Courtyard (Jaba Tengah)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4700e8862974289fdc9dfce583117aec.jpg)
+![The Three Main Areas of Tirta Empul](https://images.gobaligo.id/vocus/vocus_4700e8862974289fdc9dfce583117aec.jpg)
 
 This is the main area for purification rituals, featuring two large pools and 26 spring spouts, each representing a different spiritual wish.
 
@@ -104,7 +104,7 @@ Note: Some springs (e.g., Tirta Pengentas) are reserved for death rituals—plea
 
 **Inner Sanctum (Jeroan)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_623a206ab810a4a260d720844b62f5f3.jpg)
+![The Three Main Areas of Tirta Empul](https://images.gobaligo.id/vocus/vocus_623a206ab810a4a260d720844b62f5f3.jpg)
 
 The most sacred area, housing the main shrine and the source of the spring water. It's a place for sitting in meditation and making wishes after completing the Melukat ritual. Generally, non-Hindus should not enter casually.
 
@@ -156,7 +156,7 @@ Address: Tampaksiring District, Gianyar, Bali
 
 ## Dress Code & Worship Etiquette
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_de538df8b6d201321be97e49b49d502a.jpg)
+![Dress Code & Worship Etiquette](https://images.gobaligo.id/vocus/vocus_de538df8b6d201321be97e49b49d502a.jpg)
 
 **Essential Attire:**
 

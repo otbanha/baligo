@@ -21,7 +21,7 @@ _srcHash: 94c8afe74efafac08018fc9ec6959342
 
 巴厘岛政府近日正式启用了全新的**海啸预警与应变系统中心（InaTEWS）**。这项重大工程是印尼全国「灾害韧性发展计划」的一环，由印尼气象、气候与地球物理局（BMKG）主导，并获得世界银行支持。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_43ca548104ab6c5262edd593b1bb1e00.jpg)
+![巴厘岛加强防灾建设，海啸预警系统全面升级启用](https://images.gobaligo.id/vocus/vocus_43ca548104ab6c5262edd593b1bb1e00.jpg)
 
 这栋新的警报中心设于巴厘岛，不仅能即时监测地震与海啸，也将作为**雅加达总指挥中心的备援据点**，一旦发生重大天灾，即可快速传达讯息并启动应变行动。
 

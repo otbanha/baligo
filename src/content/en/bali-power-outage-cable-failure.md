@@ -34,7 +34,7 @@ _srcHash: 00edf4a720b1e6d266e4095de16e85e1
 
 On May 2, 2025, at 4 PM, a sudden power outage plunged almost the entire island of Bali into darkness. This major blackout significantly impacted local livelihoods, transportation, and the tourism industry. PT PLN (Indonesia's State Electricity Company) quickly initiated repair efforts and continued to update the power supply situation.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_da277efc556c6ee025a7bfedbf8bd7e8.jpg)
+![Sudden Major Power Outage Leaves Bali in Darkness](https://images.gobaligo.id/vocus/vocus_da277efc556c6ee025a7bfedbf8bd7e8.jpg)
 
 ---
 

@@ -100,7 +100,7 @@ Ini dia beberapa trik biar perjalanan pulang makin tenang:
 
 ***
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2d587c023d2943d0c6828cc28462bc8b.png)
+![Tips Bawa Oleh-Oleh dari Bali ke Taiwan](https://images.gobaligo.id/vocus/vocus_2d587c023d2943d0c6828cc28462bc8b.png)
 
 ## Pengalaman Pribadi Saya 🌴
 

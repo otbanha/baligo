@@ -25,9 +25,9 @@ _srcHash: c5a96100277e15739b98f26c07b3b98a
 
 Buat kamu yang baru-baru ini mampir ke **destinasi hits di Bali — Pura Luhur Uluwatu**, pasti lihat ada serangkaian pekerjaan di tebing yang menopang pura. Pura suci berusia ribuan tahun ini berdiri di atas **tebing setinggi 70 meter**, bukan cuma simbol penting kepercayaan lokal, tapi juga spot kece yang bikin wisatawan global terpana.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f2702453d13f4f8d935ff2119beb4ab.jpg)
+![Menyelamatkan Pura Uluwatu: Proyek Restorasi Bersejarah Sege](https://images.gobaligo.id/vocus/vocus_4f2702453d13f4f8d935ff2119beb4ab.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2fb345962fe3405edfa541170dd85eb9.jpg)
+![Menyelamatkan Pura Uluwatu: Proyek Restorasi Bersejarah Sege](https://images.gobaligo.id/vocus/vocus_2fb345962fe3405edfa541170dd85eb9.jpg)
 
 Tapi belakangan, para ahli nemuin **retakan besar di struktur tebing**, bikin banyak orang khawatir bakal ambrol dan merusak pura. Pemerintah sama tim insinyur udah mulai proyek perkuatan dan restorasi total, ditargetkan rampung **Februari 2025**, biar warisan budaya ini aman dan lestari.
 
@@ -87,7 +87,7 @@ Yang lebih bikin khawatir, beberapa video di internet menunjukkan tim konstruksi
 
 ## **Kesimpulan: Masa Depan Pura Uluwatu**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_63da293a2e7ca055c3aa81845d8a3e2e.jpg)
+![Kesimpulan: Masa Depan Pura Uluwatu](https://images.gobaligo.id/vocus/vocus_63da293a2e7ca055c3aa81845d8a3e2e.jpg)
 
 Meskipun proyek ini menghadapi **banyak tantangan dan kontroversi**, pemerintah Bali dan tim ahli tetap gencar mendorong rencana perbaikan demi **keamanan struktur Pura Uluwatu**. Ini bukan cuma soal pelestarian warisan agama dan budaya, tapi juga berdampak besar pada **keberlanjutan pariwisata lokal**.
 
@@ -119,7 +119,7 @@ Penjelasan lebih lanjut soal Pura Uluwatu, plus spot wajib lihat dan tips travel
 
 ## Lebih Banyak Rekomendasi Kuliner & Wisata di Uluwatu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
+![Lebih Banyak Rekomendasi Kuliner & Wisata di Uluwatu](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
 [Rekomendasi Kuliner & Wisata di Uluwatu](/blog/uluwatu-guide/)
 

@@ -22,7 +22,7 @@ lang: en
 _srcHash: ae3798dbb5ce32043260eb7700a552d5
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_75accaa2bc49a2e100d7be4df6a8016b.jpg)
+![2024 Taiwan Entry Regulations: Beware of Bringing the Wrong ](https://images.gobaligo.id/vocus/vocus_75accaa2bc49a2e100d7be4df6a8016b.jpg)
 
 According to the latest regulations from the Ministry of Finance's Customs Administration, starting from June 26, 2024, the duty-free allowance for luggage items brought in by inbound travelers has been increased from NT$20,000 to NT$35,000, allowing tourists to shop to their heart's content! But do you know which items cannot be brought into Taiwan? Many people may not be aware, so to avoid having items confiscated by customs, it's essential to pay attention to Taiwan's entry regulations to avoid wasting money!
 
@@ -37,7 +37,7 @@ Starting from June 26, the duty-free allowance for luggage items brought in by i
 
 ## Taiwan Entry Restrictions
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c1d6ac4830b9bdc7166a59c589adf9fb.png)
+![Taiwan Entry Restrictions](https://images.gobaligo.id/vocus/vocus_c1d6ac4830b9bdc7166a59c589adf9fb.png)
 
 ### Food Items
 
@@ -151,7 +151,7 @@ If carrying amounts exceeding the limit, please complete the '[Customs Declarati
 - Counterfeit goods
 - Various meat products and meat floss (including ham, jerky, sausages, etc.), beef, lamb, pork, duck, goose, etc., are all prohibited
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_33e89c6d295003e7b33fc47475d158f0.jpg)
+![Prohibited Items](https://images.gobaligo.id/vocus/vocus_33e89c6d295003e7b33fc47475d158f0.jpg)
 
 **Bookings and Savings Tips Here:**
 

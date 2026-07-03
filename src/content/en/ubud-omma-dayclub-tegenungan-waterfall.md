@@ -17,7 +17,7 @@ lang: en
 _srcHash: 5aa479a47f722af494f13570e4017925
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c17bf195fd6ecbe15f62352549f17db8.jpg)
+![OMMA Dayclub in Ubud, Bali: Experience the Chill Vibes and R](https://images.gobaligo.id/vocus/vocus_c17bf195fd6ecbe15f62352549f17db8.jpg)
 
 ➡️[Click here for more great deals in Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 

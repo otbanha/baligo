@@ -19,7 +19,7 @@ lang: zh-cn
 _srcHash: 68cb58f78123a5316d6dbd80e7b3362c
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4987be535ea54598e53f32ecf38facc4.jpg)
+![“Double bed room”竟然不是“双床房”！订房千万别闹笑话！](https://images.gobaligo.id/vocus/vocus_4987be535ea54598e53f32ecf38facc4.jpg)
 
 在选择住宿时，不同房型的名称常常让人摸不着头脑，特别是如果我们只凭字面翻译，可能会让人误解。为了让每次订房都能选到最适合的房间，让我们仔细了解几个常见房型的差异。
 

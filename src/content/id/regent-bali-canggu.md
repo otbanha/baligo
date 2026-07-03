@@ -52,23 +52,23 @@ Regent Bali Canggu ada di **Jl. Pantai Batu Bolong No. 93**, langsung menghadap 
 
 Alamatnya tertulis Canggu, tapi lebih tepatnya sih di pesisir antara Batu Bolong dan Echo Beach. Area ini adalah bagian paling berkarakter dari Canggu — bukan yang penuh turis berdesakan, tapi lebih ke suasana santai dengan kafe, toko kurasi, dan beach club yang tersebar.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368644865-b906975f65623d0fddae203932431dbd.webp)
+![Lokasi & Lingkungan Sekitar](https://images.gobaligo.id/images/2026-04/1777368644865-b906975f65623d0fddae203932431dbd.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368645335-d7c1d86ebd938eb97335fd3c041beb0e.webp)
+![Lokasi & Lingkungan Sekitar](https://images.gobaligo.id/images/2026-04/1777368645335-d7c1d86ebd938eb97335fd3c041beb0e.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368645975-0e8d29a878b2b2852c4f42d6e75dcaf6.webp)
+![Lokasi & Lingkungan Sekitar](https://images.gobaligo.id/images/2026-04/1777368645975-0e8d29a878b2b2852c4f42d6e75dcaf6.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368646486-3f1ecbee2201b47561c2709865bb186e.webp)
+![Lokasi & Lingkungan Sekitar](https://images.gobaligo.id/images/2026-04/1777368646486-3f1ecbee2201b47561c2709865bb186e.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368647099-7bcff011aff8f2f91acf97006d018ce1.webp)
+![Lokasi & Lingkungan Sekitar](https://images.gobaligo.id/images/2026-04/1777368647099-7bcff011aff8f2f91acf97006d018ce1.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368647694-9bbf88408ac6b14cab6b26db3ce8d905.webp)
+![Lokasi & Lingkungan Sekitar](https://images.gobaligo.id/images/2026-04/1777368647694-9bbf88408ac6b14cab6b26db3ce8d905.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368648441-89a853b052f5db5b39701a674edea786.webp)
+![Lokasi & Lingkungan Sekitar](https://images.gobaligo.id/images/2026-04/1777368648441-89a853b052f5db5b39701a674edea786.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368649051-0402e9a56058a4f547a63be175d01baf.webp)
+![Lokasi & Lingkungan Sekitar](https://images.gobaligo.id/images/2026-04/1777368649051-0402e9a56058a4f547a63be175d01baf.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368649668-715023085.jpg)
+![Lokasi & Lingkungan Sekitar](https://images.gobaligo.id/images/2026-04/1777368649668-715023085.jpg)
 
 Skor lokasi di Agoda langsung tembus **9.5/10**, udah cukup jelas banget kan?
 
@@ -102,61 +102,61 @@ Total **150 kamar dan suite**, semuanya menghadap laut atau taman — nggak ada 
 
 Tipe kamar utama dibagi beberapa level:
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367763483-a57b5d36ef85ac244f892b9886ae4c94.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777367763483-a57b5d36ef85ac244f892b9886ae4c94.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367764532-2d6547b6b2199debc741c58877517798.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777367764532-2d6547b6b2199debc741c58877517798.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367765123-7dc6f19bfb6d48f5c2ec755d4bb77d6c.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777367765123-7dc6f19bfb6d48f5c2ec755d4bb77d6c.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367765731-632068125.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777367765731-632068125.jpg)
 
 **▲ Studio Suite 1 King｜Kamar Studio Klasik (King Bed)** Perpaduan estetika modern antara kamar tidur dan ruang tamu. Begitu buka jendela, kamu langsung bisa merasakan angin laut Canggu. Ini pilihan paling oke buat liburan berdua.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367848684-1309018ac4bebe9814449f293e56d9a6.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777367848684-1309018ac4bebe9814449f293e56d9a6.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367849224-2d6547b6b2199debc741c58877517798.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777367849224-2d6547b6b2199debc741c58877517798.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367849911-632068118.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777367849911-632068118.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367850525-72e2b5ae900228d14430054b06b89ec9.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777367850525-72e2b5ae900228d14430054b06b89ec9.webp)
 
 **▲ Studio Suite Lagoon Access 2 Twin｜Kamar Studio dengan Akses Kolam Renang (Dua Single Bed)** Balkon langsung terhubung ke kolam renang biru yang jernih. Begitu bangun pagi, kamu bisa langsung nyebur dan nikmatin hidup santai di tepi air.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367917118-4de3d3c99d6eaed720bb9a961dcb24b3.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777367917118-4de3d3c99d6eaed720bb9a961dcb24b3.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367917716-1e5aff89eb1d990e2d24dc7624dcb445.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777367917716-1e5aff89eb1d990e2d24dc7624dcb445.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367918270-70419011abac9e716de5d8077999e91b.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777367918270-70419011abac9e716de5d8077999e91b.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367918939-b245c2da4b9580f2f0ebf9d9f0fbb052.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777367918939-b245c2da4b9580f2f0ebf9d9f0fbb052.webp)
 
 **▲ Two Bedroom Suite｜Suite Dua Kamar Tidur Premium** Dirancang khusus buat keluarga atau liburan bareng teman. Punya ruang tamu bersama yang luas dan kamar mandi pribadi, jadi seimbang antara privasi dan kebersamaan.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367985372-644007066.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777367985372-644007066.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367985904-8bc0731d695fa3e879d43ea7c7e231c6.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777367985904-8bc0731d695fa3e879d43ea7c7e231c6.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367986464-32daff611a7a941f17e0792188a6816a.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777367986464-32daff611a7a941f17e0792188a6816a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367987151-093b725bff8fbfa7e57f769b736a74e7.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777367987151-093b725bff8fbfa7e57f769b736a74e7.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367987844-146c120da84e775b6ea13e53b4bc43ae.jpeg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777367987844-146c120da84e775b6ea13e53b4bc43ae.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367988448-675862491.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777367988448-675862491.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367989111-dd46256df3c05958d4946de263266b7a.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777367989111-dd46256df3c05958d4946de263266b7a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367989614-e7a2b049917766feca044ed4f0dc025b.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777367989614-e7a2b049917766feca044ed4f0dc025b.webp)
 
 **▲ Two Bedroom Penthouse Oceanfront Private Pool｜Apartemen Dua Kamar Tidur dengan Pemandangan Laut & Kolam Renang Pribadi** Pemandangan laut yang spektakuler, dilengkapi kolam renang pribadi. Di puncak Canggu, ini definisi kemewahan tertinggi.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368056120-a23d6f7ac0e49d2feb231b17de6ace0b.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777368056120-a23d6f7ac0e49d2feb231b17de6ace0b.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368056755-8a9dd68cfb48a1813b0c23c7d943bfe4.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777368056755-8a9dd68cfb48a1813b0c23c7d943bfe4.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368057483-61658f238225b3ab66fb0cc6adf3ded4.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777368057483-61658f238225b3ab66fb0cc6adf3ded4.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368058092-e7a2b049917766feca044ed4f0dc025b.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777368058092-e7a2b049917766feca044ed4f0dc025b.webp)
 
 **▲ One Bedroom Villa Beachfront Private Pool｜Villa Pribadi Tepi Pantai dengan Kolam Renang Pribadi** Simbol kemewahan maksimal. Begitu keluar kamar, langsung ada pasir lembut. Nikmati sunset dan deburan ombak Samudra Hindia sendirian di tepi kolam renang pribadi.
 
@@ -190,7 +190,7 @@ Yang perlu dicatat: ada traveler senior yang bilang, kalau dibandingkan dengan p
 
 ***
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368558286-caption.jpg)
+![Info Pemesanan](https://images.gobaligo.id/images/2026-04/1777368558286-caption.jpg)
 
 Secara keseluruhan, Regent Bali Canggu adalah pilihan akomodasi dengan spesifikasi hardware tertinggi di kawasan Canggu saat ini—tanpa tandingan. Kalau kamu suka vibe kehidupan di Canggu dan ingin menginap di tempat yang nggak perlu kompromi soal kenyamanan, ini adalah landmark baru yang paling layak dipertimbangkan sekarang.
 

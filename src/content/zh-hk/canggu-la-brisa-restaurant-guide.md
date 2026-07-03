@@ -27,7 +27,7 @@ _srcHash: 4cfa444ee25fc21ee52707522a17b76b
 
 喺咁多餐廳之中，被譽為「峇里島最靚嘅餐廳」嘅呢間餐廳，你千祈唔好錯過啦！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a516952fa874238cf08ef63be006c56d.jpg)
+![【峇里島最靚餐廳】La Brisa Bali 攻略：走入坎古夢幻海盜船、Echo Beach 日落預約與必影景點](https://images.gobaligo.id/vocus/vocus_a516952fa874238cf08ef63be006c56d.jpg)
 
 La Brisa坐落喺峇里島而家最熱門觀光點嘅坎古Echo海灘嘅前灘（你可以睇吓小傑[坎古80個景點攻略](/blog/canggu-guide/)），係峇里島最知名嘅海灘之一，呢度有絕對令人驚嘆嘅、源源不絕嘅美食同真正嘅峇里島式熱情。
 

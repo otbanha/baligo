@@ -19,7 +19,7 @@ lang: id
 _srcHash: 2e7125285e4596c3c7b7f4d389ddfbbb
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b48db35889325f45edd5237d8e0b427a.jpg)
+![Bali Wajib Beli Oleh-Oleh: Camilan/Makanan](https://images.gobaligo.id/vocus/vocus_b48db35889325f45edd5237d8e0b427a.jpg)
 
 ➡️Klik di sini untuk diskon spesial Bali lainnya⬅️
 

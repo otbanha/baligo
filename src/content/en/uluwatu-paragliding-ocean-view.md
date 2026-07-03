@@ -80,7 +80,7 @@ But getting ready to take on my first paragliding experience, I couldn't help fe
 
 ### **🌟 Verdict: Safer and More Fun Than Expected!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_967be453cf97a01700bb55bec2eb3271.jpg)
+![Verdict: Safer and More Fun Than Expected!](https://images.gobaligo.id/vocus/vocus_967be453cf97a01700bb55bec2eb3271.jpg)
 
 I thought it would be terrifying, but once in the air, it was **incredibly stable**—like floating gently in the sky. The instructor was super friendly and even pointed out landmarks in English. **The most breathtaking moment was seeing the Indian Ocean from above—that shade of blue is unforgettable!**
 

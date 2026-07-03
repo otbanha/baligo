@@ -26,7 +26,7 @@ _srcHash: f966769b66accb9dfd13c23312c144ad
 
 Bali, renowned worldwide for its unique natural beauty and rich culture, now faces new challenges. With mounting pressure from overdevelopment on both the environment and local culture, the Balinese government is planning to implement new tourism development restrictions in the southern region. This ban primarily targets the construction of hotels, resorts, and other tourism facilities and could extend for up to ten years.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3480635877a3cd735d124f721b373446.png)
+![Bali Enacts Ban on New Hotels and Villas: Addressing Overdev](https://images.gobaligo.id/vocus/vocus_3480635877a3cd735d124f721b373446.png)
 
 ## **Background and Motivation Behind the Ban**
 
@@ -54,7 +54,7 @@ Secondly, for developers looking to invest in southern Bali, this policy will un
 
 However, in the long run, the implementation of this ban may encourage Bali's tourism industry to shift toward a more sustainable development model. By limiting overdevelopment, Bali will be able to protect its unique natural and cultural resources, laying a more solid foundation for future tourism.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_10c0006ac7d25dc9cf50ee86b964bd71.png)
+![Potential Impacts and Outlook](https://images.gobaligo.id/vocus/vocus_10c0006ac7d25dc9cf50ee86b964bd71.png)
 
 ## **Addressing the Challenges of Overdevelopment**
 

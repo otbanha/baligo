@@ -21,7 +21,7 @@ _srcHash: 5d247844ffca1338188eb51bcadaca52
 
 Latest data released on March 8, 2025 shows that Bali's international tourism demand continues to rise even during the off-season.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf32e66b76078f0a296d4db9e4cd0f1b.png)
+![Bali's Off-Season Boom: International Tourism Demand Surges ](https://images.gobaligo.id/vocus/vocus_bf32e66b76078f0a296d4db9e4cd0f1b.png)
 
 According to statistics from Bali's International Airport Immigration Office, the number of arrivals and departures at Bali International Airport in January 2025 increased by 22% compared to the same period in 2024. Alexander Maxwell, Head of Information and Communication Technology at the Immigration Office, revealed that a total of 611,603 people arrived in Bali and 632,833 departed in January 2025. Typically, departures exceed arrivals in January as tourists return home after Christmas and New Year holidays.
 
@@ -40,7 +40,7 @@ In January 2025, Bali's top international tourist source countries remained simi
 9. Singapore (15,942)
 10. Japan (12,112)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c921dc4310098a99930838894970f765.png)
+![Bali's Off-Season Boom: International Tourism Demand Surges ](https://images.gobaligo.id/vocus/vocus_c921dc4310098a99930838894970f765.png)
 
 Bali Governor Wayan Koster noted that tourism significantly impacts Indonesia's overall economy, even during the off-season. In 2024, Bali contributed IDR 107 trillion to the national tourism industry, accounting for 44% of foreign exchange earnings. Koster emphasized that Bali's economy is highly dependent on tourism and stressed the need for economic restructuring to balance tourism and non-tourism sectors.
 

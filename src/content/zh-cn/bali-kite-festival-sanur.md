@@ -25,7 +25,7 @@ _srcHash: f0535b9fd7b48d658caaf59737e64854
 
 巴厘岛一年一度的「国际风筝节（international kite festival）」将于7月20日至21日在沙努尔海岸的Padang Galak海滩举行，这是巴厘岛上最色彩缤纷且令人兴奋的文化盛事之一。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0381acf98f09de3dc7f0b3d4f3abac5f.jpg)
+![节日期间和地点](https://images.gobaligo.id/vocus/vocus_0381acf98f09de3dc7f0b3d4f3abac5f.jpg)
 
 ### **风筝节的历史背景**
 

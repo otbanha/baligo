@@ -21,7 +21,7 @@ _srcHash: 22653dfb5ee22bc5ab7f129687e4436a
 
 继巴厘岛的第一阶段轻轨（LRT）工程已于 2024 年 9 月 4 日正式启动，并在库塔中央停车场举行了仪式之后。地铁（MRT）的建设计划将于 2025 年 4 月开始挖掘，这是当地交通基础设施的一大突破。接下来，我们将详细探讨巴厘岛地铁的各个阶段、施工过程以及未来对旅游和当地居民的影响。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_99819bd6538fcfc0eb8fcc36f0c1005b.jpg)
+![【巴厘岛交通改善计划之三】巴厘岛地铁 (MRT) 挖掘工程将于 2025 年 4 月展开](https://images.gobaligo.id/vocus/vocus_99819bd6538fcfc0eb8fcc36f0c1005b.jpg)
 
 ## 地铁的背景
 
@@ -47,7 +47,7 @@ _srcHash: 22653dfb5ee22bc5ab7f129687e4436a
 
 这次项目将使用八台大型隧道掘进机（TBM），比雅加达地铁使用的多六台。巴厘岛所使用的 TBM 直径为 7.2 米，超过了雅加达的 6 米，这意味着巴厘地铁的隧道将更加宽敞。这些设备将于 2025 年 4 月运抵巴厘岛，届时将开始隧道的掘进工程。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_639d9f2561697e36de04070031810cf0.jpg)
+![TBM 掘进机的技术规格](https://images.gobaligo.id/vocus/vocus_639d9f2561697e36de04070031810cf0.jpg)
 
 ## 地下隧道深度
 
@@ -73,7 +73,7 @@ _srcHash: 22653dfb5ee22bc5ab7f129687e4436a
 
 根据巴厘岛政府的规划，第一阶段的捷运建设预计在 2030 年完成。虽然这项计划非常具有野心，但政府和相关部门预计将面临许多挑战，特别是在施工进度、技术难题和资金运用方面。然而，政府对该项目的未来充满信心，并表示将尽全力确保如期完工。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d8ad90a6b1d78f7cae9048e486a4789c.jpg)
+![项目时间表](https://images.gobaligo.id/vocus/vocus_d8ad90a6b1d78f7cae9048e486a4789c.jpg)
 
 ## 对当地交通的影响
 
@@ -115,7 +115,7 @@ _srcHash: 22653dfb5ee22bc5ab7f129687e4436a
 
 📩 **立即加入「巴厘岛旅游攻略」博客，成为巴厘岛旅游达人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![注册加入我们的博客](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **通过免费订阅，你将获得：**
 

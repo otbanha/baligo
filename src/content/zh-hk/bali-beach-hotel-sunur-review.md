@@ -26,17 +26,17 @@ _srcHash: 793ad1f7cc34cfb399dd2544d1f5b842
 
 沙努爾新開幕嘅五星級酒店「Bali Beach Hotel」入住體驗！估唔到只需 USD$130 左右（淡季價格），就可以住到真正嘅沙努爾海灘第一排海景房，更重要嘅係地點極具戰略性，無論係觀光定係醫療需求都可以完美滿足！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0ae1a0cf484e76a83b84689923c3127a.jpg)
+![USD$130 住無敵海景第一排！Bali Beach Hotel 地點完美、安心旅遊首選](https://images.gobaligo.id/vocus/vocus_0ae1a0cf484e76a83b84689923c3127a.jpg)
 
 ## **絕佳地理位置：觀光醫療兩相宜嘅黃金地段**
 
 Bali Beach Hotel 坐落喺沙努爾嘅呢個地段，唔單止係度假天堂，更加係安心旅遊嘅保證。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d2093d81fe41a5c3894b1230e714ccfd.jpg)
+![絕佳地理位置：觀光醫療兩相宜嘅黃金地段](https://images.gobaligo.id/vocus/vocus_d2093d81fe41a5c3894b1230e714ccfd.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5c204627e861dce5d4e64356ca27b5ea.jpg)
+![絕佳地理位置：觀光醫療兩相宜嘅黃金地段](https://images.gobaligo.id/vocus/vocus_5c204627e861dce5d4e64356ca27b5ea.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_68ec455cc77b49aa6b95ae997337ffd1.jpg)
+![絕佳地理位置：觀光醫療兩相宜嘅黃金地段](https://images.gobaligo.id/vocus/vocus_68ec455cc77b49aa6b95ae997337ffd1.jpg)
 
 - **醫療保障喺身邊**：酒店距離興建中嘅峇里島大型醫療項目「Bali International Hospital」只有 500 米！呢個由印尼政府同美國約翰霍普金斯醫院合作嘅國際醫療中心，會為旅客提供最完善嘅醫療保障。對於年長者、有慢性病史嘅旅客，或者帶小朋友嘅家庭嚟講，呢個絕對係選擇住宿時嘅一大加分項。
 - **跳島遊最佳基地**：對於計劃去藍夢島、佩尼達島嘅旅客嚟講，呢度簡直係完美選擇！從酒店往北行去 Sanur Harbour 唔使 10 分鐘，朝早可以悠閒咁食完早餐再行去碼頭，完全唔使趕船。跳島遊結束後，亦可以快速返到酒店休息，慳返長途車程嘅疲累。
@@ -69,12 +69,12 @@ __VID5__
 
 ## **酒店設施豐富多元**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774362103926-caption_1_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774362104321-caption_16_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774362104811-597216766.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774362105217-699408025.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774362105651-ac8f24c25e043f1bdf1649d9684f3111.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774362106058-c84a96d8442b157a0939204702a13343.jpeg)
+![酒店設施豐富多元](https://images.gobaligo.id/images/2026-03/1774362103926-caption_1_.jpg)
+![酒店設施豐富多元](https://images.gobaligo.id/images/2026-03/1774362104321-caption_16_.jpg)
+![酒店設施豐富多元](https://images.gobaligo.id/images/2026-03/1774362104811-597216766.jpg)
+![酒店設施豐富多元](https://images.gobaligo.id/images/2026-03/1774362105217-699408025.jpg)
+![酒店設施豐富多元](https://images.gobaligo.id/images/2026-03/1774362105651-ac8f24c25e043f1bdf1649d9684f3111.jpeg)
+![酒店設施豐富多元](https://images.gobaligo.id/images/2026-03/1774362106058-c84a96d8442b157a0939204702a13343.jpeg)
 
 - **無邊際泳池**：超大泳池水質清澈，人唔多游起身特別舒服，而且泳池區同海灘只係一步之遙，視野開闊。
 - **私人海灘**：沙灘乾淨整潔，非常適合散步或者曬太陽。
@@ -90,7 +90,7 @@ __VID5__
 
 ## **餐飲與服務**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_66cc11f851548537055ba149665df287.jpg)
+![餐飲與服務](https://images.gobaligo.id/vocus/vocus_66cc11f851548537055ba149665df287.jpg)
 
 早餐種類豐富，從亞洲當地美食到西式早餐應有盡有，麵包種類多元且品質唔錯。雖然芝士同冷盤選擇較少，但整體嚟講非常滿意。
 
@@ -110,7 +110,7 @@ Bali Beach Hotel 完全顛覆咗我對高性價比酒店嘅想像！唔單止價
 
 ## 更多沙努爾吃喝玩樂介紹
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
+![更多沙努爾吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
 [家庭度假首選沙努爾攻略](/blog/sanur-guide/)
 

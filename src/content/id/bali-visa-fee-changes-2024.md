@@ -25,7 +25,7 @@ _srcHash: 28cb7212f78fe322cb52c936d858cdbb
 ---
 Imigrasi Indonesia pada **17 Desember 2024** ngumumin aturan baru soal penyesuaian biaya visa, mulai dari visa turis jangka pendek sampai izin tinggal tetap. Biayanya dihitung secara bertahap berdasarkan lama tinggal. Artikel ini bakal bantu kamu paham gimana perubahan ini memengaruhi traveler yang rencana ke Bali dan daerah lain di Indonesia.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4665dca7b9f0b0d9da1e5f9572d12a25.png)
+![Penyesuaian Biaya Visa Tinggal/Liburan Jangka Panjang di Bal](https://images.gobaligo.id/vocus/vocus_4665dca7b9f0b0d9da1e5f9572d12a25.png)
 
 ---
 
@@ -74,7 +74,7 @@ Langkah-langkah imigrasi ini menunjukkan bahwa mereka nggak cuma berusaha memper
 
 Pada November 2024, Imigrasi Indonesia mengumumkan kerja sama dengan perusahaan pemroses visa global VFS Global, dan berencana memperbarui sistem aplikasi visa secara total pada 2025. Menurut Kepala Imigrasi Silmy Karim, langkah ini bertujuan mengoptimalkan proses aplikasi visa lewat solusi digital, biar makin banyak turis internasional yang tertarik datang ke Indonesia.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2a17481fa0552a095e3b2d8d24feaf1b.jpg)
+![Masa Depan: Gimana Dampak Kerja Sama dengan VFS Global?](https://images.gobaligo.id/vocus/vocus_2a17481fa0552a095e3b2d8d24feaf1b.jpg)
 
 Perubahan ke depannya mungkin mencakup penyesuaian kategori visa dan model baru aplikasi, detail spesifiknya masih menunggu pengumuman lebih lanjut.
 

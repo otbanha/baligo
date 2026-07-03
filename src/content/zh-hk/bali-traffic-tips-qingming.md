@@ -49,7 +49,7 @@ _srcHash: aad6c8100db5e4dd4fefcba72ba6bcfe
 
 清明節-開齋節峇里島會大塞車嗎？我應唔應該去跑景點？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9749c24c3bb6a64ec5579ecf7b89dc27.png)
+![交通](https://images.gobaligo.id/vocus/vocus_9749c24c3bb6a64ec5579ecf7b89dc27.png)
 
 以下係呢個特殊時期峇里島交通嘅一啲具體建議：
 
@@ -125,7 +125,7 @@ _srcHash: aad6c8100db5e4dd4fefcba72ba6bcfe
 - [峇里島親子旅遊攻略 - 沙努爾篇](/blog/sanur-family-travel-guide-2/)
 - 峇里島家庭親子旅遊專欄
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_02b21980932dcbfaf9c9146ef6bf887b.png)
+![家庭出遊 大家都快樂嘅指南](https://images.gobaligo.id/vocus/vocus_02b21980932dcbfaf9c9146ef6bf887b.png)
 
 ## 結語
 

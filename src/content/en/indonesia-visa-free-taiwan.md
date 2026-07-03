@@ -27,7 +27,7 @@ He mentioned the United States, Japan, China (including Hong Kong), India, the U
 
 According to current regulations, Taiwanese or Hong Kong visitors can apply for a visa on arrival or pay for an electronic visa on arrival (e-VOA), costing approximately USD$32 (Rp. 500,000). The document is valid for 30 days and can be extended once.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_62407b2522dba31e259fd695ae51864b.png)
+![Travel Convenience Upgraded! Indonesia Considering Visa-Free](https://images.gobaligo.id/vocus/vocus_62407b2522dba31e259fd695ae51864b.png)
 
 Before reading our **"Ultimate Bali Travel Guide"**, we sincerely invite you to subscribe to our YouTube channel **"Jason Indonesia"** for more visual experience sharing. [Click here](http://bit.ly/youtube-jason) to subscribe now.
 

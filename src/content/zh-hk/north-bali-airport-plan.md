@@ -22,7 +22,7 @@ _srcHash: 57c79bc601a3143facb222c7d6ef2304
 
 ### 峇里島南部嘅觀光壓力分析
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ddcf2efb5bdc04fff77367001f49ae77.jpg)
+![峇里島南部嘅觀光壓力分析](https://images.gobaligo.id/vocus/vocus_ddcf2efb5bdc04fff77367001f49ae77.jpg)
 
 峇里島南部集中咗大量嘅觀光資源同設施，尤其係庫塔、水明漾同金巴蘭等熱門景點，隨住遊客數量激增，當地嘅交通擠塞問題愈嚟愈嚴重。呢啲地區嘅居民長期受到高密度旅遊活動嘅影響，生態環境亦面臨壓力，點樣有效分散人流成為政府急住解決嘅難題。
 
@@ -48,7 +48,7 @@ _srcHash: 57c79bc601a3143facb222c7d6ef2304
 
 ### 新機場嘅可能挑戰
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3aa1251d09e91877d2c9603f0930a0c4.png)
+![新機場嘅可能挑戰](https://images.gobaligo.id/vocus/vocus_3aa1251d09e91877d2c9603f0930a0c4.png)
 
 起新機場嘅過程中，可能會面臨由籌錢到執行嘅多方面挑戰。更重要嘅係，北部機場係咪真係可以有效分散南部嘅旅遊人潮，仍然係一個未知數。
 
@@ -74,7 +74,7 @@ _srcHash: 57c79bc601a3143facb222c7d6ef2304
 
 ## 📩 **立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

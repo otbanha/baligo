@@ -31,7 +31,7 @@ Video seri Bali kita udah sampai episode ke-55, nih! Di episode kali ini, kita b
 
 Saat kamu mulai merencanakan petualangan seru ke Bali, pasti banyak pertanyaan yang muncul di kepala. Mau itu pertama kali atau udah sering ke sini, semua orang pasti pengen dapet tips praktis biar perjalananmu lancar dan seru abis. Di blog ini, kita bakal kasih kamu beberapa tips liburan Bali yang berharga, mulai dari koneksi internet, penukaran uang, liburan musim hujan, atur transportasi, tips nego belanja, sampai cara jago pakai Gojek.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8a1baefa013608a227bca57993852e49.png)
+![Panduan Liburan ke Bali: Cara Dapat Internet? Tukar Uang di ](https://images.gobaligo.id/vocus/vocus_8a1baefa013608a227bca57993852e49.png)
 
 {{block:攻略}}
 

@@ -20,7 +20,7 @@ _srcHash: db1dde478f0454c3c4caee51548e8a62
 
 在这一集中，我们将带大家一窥巴厘岛必买的零食伴手礼，共有六项推荐，每一样都是台湾难以找到的美味佳肴！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c8fe13b748804b43b366d08d4fab4f51.png)
+![巴厘岛美食伴手礼推荐！行家推荐六款当地特色美食](https://images.gobaligo.id/vocus/vocus_c8fe13b748804b43b366d08d4fab4f51.png)
 
 首先，我们特地参考了印尼巴厘岛的官方旅游网站，以确保提供给观众的推荐都是当地的特色美食。经过深入研究后，我们前往了一家被当地人称为「行家」的伴手礼专卖店。这家店的产品不仅在当地销售量颇高，更在拍卖官网上拥有最热销的几个品项，绝对是有销量保证的好选择！
 
@@ -28,5 +28,5 @@ _srcHash: db1dde478f0454c3c4caee51548e8a62
 
 请看小杰和小杰爸的介绍 (如影片没有显示[请点这里](https://youtu.be/4EzO1rpSMic?si=jRNSvt4ar5KU_U60))：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7b88e2ef3c0369dbdd5c48cbdd9067d3.png)
+![巴厘岛美食伴手礼推荐！行家推荐六款当地特色美食](https://images.gobaligo.id/vocus/vocus_7b88e2ef3c0369dbdd5c48cbdd9067d3.png)
 

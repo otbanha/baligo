@@ -153,7 +153,7 @@ Cocok banget buat:
 - Backpacker
 - Yang punya jadwal liburan fleksibel
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780735520988-asian_beautiful_655f42b6-83f4-422e-806c-396f6443638d.png)
+![3. Campur Aduk Maskapai](https://images.gobaligo.id/images/2026-06/1780735520988-asian_beautiful_655f42b6-83f4-422e-806c-396f6443638d.png)
 
 # 二、Langsung VS Transit: Pilih Mana di 2026?
 

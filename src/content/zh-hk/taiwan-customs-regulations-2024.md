@@ -18,7 +18,7 @@ lang: zh-hk
 _srcHash: ae3798dbb5ce32043260eb7700a552d5
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_75accaa2bc49a2e100d7be4df6a8016b.jpg)
+![2024年入境台灣必知規定，帶錯嘢小心被罰！](https://images.gobaligo.id/vocus/vocus_75accaa2bc49a2e100d7be4df6a8016b.jpg)
 
 財政部關稅署最新規定，自2024年6月26日起，入境旅客攜帶行李物品嘅免稅額度由原本嘅USD$645提高到USD$1,129，等遊客可以盡情購物！但你知道有啲咩物品係唔可以帶返台灣㗎嗎？好多人可能並唔清楚，為咗避免帶返國嘅物品被海關沒收，一定要注意台灣入境嘅相關規定，先唔會使錢當冤大頭！
 
@@ -33,7 +33,7 @@ _srcHash: ae3798dbb5ce32043260eb7700a552d5
 
 ## 台灣入境規定限制
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c1d6ac4830b9bdc7166a59c589adf9fb.png)
+![台灣入境規定限制](https://images.gobaligo.id/vocus/vocus_c1d6ac4830b9bdc7166a59c589adf9fb.png)
 
 ### 食品類
 
@@ -149,7 +149,7 @@ _srcHash: ae3798dbb5ce32043260eb7700a552d5
 關於入境嘅最新規定，唔單止要遵守免稅額度同攜帶品項嘅限制，更加要了解邊啲係完全禁止嘅物品。咁樣先可以避免不必要嘅麻煩，等你返國時能夠順利通關，享受旅途嘅美好回憶。希望呢篇文章能夠為你提供有用嘅資訊，祝你有一個愉快嘅旅行！
 
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_33e89c6d295003e7b33fc47475d158f0.jpg)
+![禁攜物品](https://images.gobaligo.id/vocus/vocus_33e89c6d295003e7b33fc47475d158f0.jpg)
 
 **預訂、慳錢就睇呢度：**
 

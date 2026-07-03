@@ -29,19 +29,19 @@ _srcHash: 62204b213493b9099809571fba8940aa
 
 ### **在金塔马尼咖啡馆享受全景美景**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1126f01c021db4ab3da7ea01137c0210.png)
+![在金塔马尼咖啡馆享受全景美景](https://images.gobaligo.id/vocus/vocus_1126f01c021db4ab3da7ea01137c0210.png)
 
 旅程从风景优美的金塔马尼咖啡馆开始，这里是欣赏巴图尔山全景的绝佳地点。你可以一边品尝饮品，一边放松身心，感受巴厘岛的宁静与壮丽。这里的景色绝对会让你忍不住拿起相机，捕捉每一个美好瞬间。
 
 ### **搭乘私人越野吉普车，直达最佳日落观景点**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_51baf19d13912a5c5021b14dc9cbb0fb.png)
+![搭乘私人越野吉普车，直达最佳日落观景点](https://images.gobaligo.id/vocus/vocus_51baf19d13912a5c5021b14dc9cbb0fb.png)
 
 与传统的健行路线不同，这次旅程将带你搭乘私人越野吉普车，直接前往巴图尔山的最佳日落观景点。无需徒步，你就能轻松抵达高处，欣赏到令人屏息的壮丽景色。
 
 ### **专业吉普车司机兼摄影师，记录你的冒险历程**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d822e273f831f69bd3678ed61c1e3ff6.png)
+![专业吉普车司机兼摄影师，记录你的冒险历程](https://images.gobaligo.id/vocus/vocus_d822e273f831f69bd3678ed61c1e3ff6.png)
 
 这次旅程特别安排了专业的吉普车司机兼摄影师，他们不仅熟悉路线，还知道如何捕捉最美的瞬间。无论是日落的光影变化，还是你与火山的合影，都会被完美记录下来，成为你旅途中难忘的回忆。
 
@@ -76,7 +76,7 @@ _srcHash: 62204b213493b9099809571fba8940aa
 
 {{block:戶外}}
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f43b3b9571911431dbce6426cdaa603a.png)
+![费用包含哪些服务？](https://images.gobaligo.id/vocus/vocus_f43b3b9571911431dbce6426cdaa603a.png)
 
 ***
 

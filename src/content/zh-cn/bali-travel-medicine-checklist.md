@@ -18,7 +18,7 @@ lang: zh-cn
 _srcHash: aa29e1ab70b925db743e2577f78348c0
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fef7bd48652aa47030dcbfd2f97f36cf.png)
+![印尼巴厘岛旅游必备成药/药品有哪些？防蚊液/防晒乳怎么买？](https://images.gobaligo.id/vocus/vocus_fef7bd48652aa47030dcbfd2f97f36cf.png)
 
 初到巴厘岛有些人可能会遇到腹泻、水土不服等情况，这在英文中被戏称为「巴厘岛肚子（Bali belly）」。有时候，甚至全家人都会受到影响，这可真是有够倒霉！有些游客因此不得不在旅馆里蹲了好几天，无法外出游玩。
 
@@ -34,7 +34,7 @@ _srcHash: aa29e1ab70b925db743e2577f78348c0
 
 此外，若被蚊虫叮咬瘙痒难耐，推荐你们一个印尼的止痒良药「青草油（Tjing Tjau Balsem，实际为膏状）」，可用于蚊虫咬伤、头痛、刮伤、能够减少各种痛状，及各种痒症及虫咬等。对于消肿止痒有很神奇的效果哦！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_78d52231e9d18e42ba51fe2efe3ee238.jpg)
+![印尼巴厘岛旅游必备成药/药品有哪些？防蚊液/防晒乳怎么买？](https://images.gobaligo.id/vocus/vocus_78d52231e9d18e42ba51fe2efe3ee238.jpg)
 
 无论是出于预防还是应对意外情况，保持身体健康是一次愉快旅行的重要保障。希望这些建议能够帮助大家在巴厘岛的旅程中度过愉快且安全的时光。
 

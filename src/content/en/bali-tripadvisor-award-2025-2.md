@@ -22,7 +22,7 @@ _srcHash: ba4f8dd22196437d0b7d408bb642d8a0
 
 The renowned travel platform Tripadvisor recently announced its 2025 "[Travelers' Choice](https://www.tripadvisor.com/TravelersChoice)" awards, with Bali securing the top spot in Southeast Asia thanks to its unique culture, temples, traditional dances, and breathtaking natural scenery! This ranking is based on traveler reviews and reports from 2023 to 2024, showcasing the most popular travel destinations.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b43456d6cb1c1433b4d1bbc93eb1ba7.jpg)
+![Bali Tops Tripadvisor's 2025 Travelers' Choice Awards](https://images.gobaligo.id/vocus/vocus_0b43456d6cb1c1433b4d1bbc93eb1ba7.jpg)
 
 ## Bali's Irresistible Charm
 

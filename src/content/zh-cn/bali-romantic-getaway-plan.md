@@ -108,7 +108,7 @@ https://youtu.be/lbDfKut2J7M
 
 编者按：The Cave这边还有一个悬崖泳池的日间俱乐部，也是这一带的必游景点喔！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a41f7059b9d933b43ebc4cfd56684828.png)
+![The Cave 洞穴餐厅，一生必体验的梦幻晚餐](https://images.gobaligo.id/vocus/vocus_a41f7059b9d933b43ebc4cfd56684828.png)
 
 [探索Oneeighty Day Club：巴厘岛悬崖边的游泳池极致美景](/blog/oneeighty-dayclub-uluwatu-pool/)
 

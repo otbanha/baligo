@@ -20,7 +20,7 @@ _srcHash: 22653dfb5ee22bc5ab7f129687e4436a
 ---
 繼峇里島嘅第一階段輕軌（LRT）工程已於 2024 年 9 月 4 日正式啟動，並喺庫塔中央停車場舉行咗儀式之後。地鐵（MRT）嘅建設計劃將於 2025 年 4 月開始挖掘，呢個係當地交通基礎設施嘅一大突破。接下來，我哋將詳細探討峇里島地鐵嘅各個階段、施工過程以及未來對旅遊同當地居民嘅影響。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_99819bd6538fcfc0eb8fcc36f0c1005b.jpg)
+![【峇里島交通改善計劃之三】峇里島地鐵 (MRT) 挖掘工程將於 2025 年 4 月展開](https://images.gobaligo.id/vocus/vocus_99819bd6538fcfc0eb8fcc36f0c1005b.jpg)
 
 ## 地鐵嘅背景
 
@@ -46,7 +46,7 @@ _srcHash: 22653dfb5ee22bc5ab7f129687e4436a
 
 今次項目會用八台大型隧道鑽掘機（TBM），比雅加達地鐵用嘅多六台。峇里島所用嘅 TBM 直徑為 7.2 米，超過咗雅加達嘅 6 米，即係話峇里捷運嘅隧道會更加寬敞。呢啲設備會喺 2025 年 4 月運到峇里島，到時就會開始隧道嘅挖掘工程。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_639d9f2561697e36de04070031810cf0.jpg)
+![TBM 挖掘機嘅技術規格](https://images.gobaligo.id/vocus/vocus_639d9f2561697e36de04070031810cf0.jpg)
 
 ## 地下隧道深度
 
@@ -72,7 +72,7 @@ _srcHash: 22653dfb5ee22bc5ab7f129687e4436a
 
 根據峇里島政府嘅規劃，第一階段嘅地鐵建設預計喺2030年完成。雖然呢個計劃好有野心，但係政府同埋相關部門預計會面對好多挑戰，特別係喺施工進度、技術難題同埋資金運用方面。不過，政府對呢個項目嘅未來充滿信心，並表示會盡全力確保如期完工。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d8ad90a6b1d78f7cae9048e486a4789c.jpg)
+![項目時間表](https://images.gobaligo.id/vocus/vocus_d8ad90a6b1d78f7cae9048e486a4789c.jpg)
 
 ## 對當地交通嘅影響
 
@@ -114,7 +114,7 @@ _srcHash: 22653dfb5ee22bc5ab7f129687e4436a
 
 📩 **立即加入「峇里島旅遊攻略」網誌，成為峇里島旅遊達人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![註冊加入我哋嘅網誌](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

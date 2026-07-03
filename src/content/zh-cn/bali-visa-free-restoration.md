@@ -20,7 +20,7 @@ _srcHash: b9c544a0f0d0199a4cb7fd1ce7415ce4
 
 印尼旅游部长最近宣布，计划推动立法变更，让来自二十个最常到访印尼的国家恢复免签待遇。这一消息引起了广泛关注，特别是对于那些经常到访巴厘岛的游客来说，更是受到了极大的关注和期待。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_df4c423f689ad952426bcbfc63faea8f.png)
+![重磅消息：印尼/巴厘岛即将恢复免签待遇！](https://images.gobaligo.id/vocus/vocus_df4c423f689ad952426bcbfc63faea8f.png)
 
 ### 印尼旅游签证的历史
 

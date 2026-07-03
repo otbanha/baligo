@@ -15,7 +15,7 @@ lang: zh-cn
 _srcHash: 1f6b66f9749efbf860430c692f4872e8
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_94270edad192312ca18cd296ef31f4ae.jpg)
+![浪漫双人船上用餐体验：乌布卡曼达鲁的锦鲤漂流河盛宴](https://images.gobaligo.id/vocus/vocus_94270edad192312ca18cd296ef31f4ae.jpg)
 
 在巴厘岛乌布的心脏地带，卡曼达鲁度假村（Kamandalu Ubud）为情侣们打造了一个如梦似幻的用餐体验——锦鲤漂流河双人船上用餐。这不仅仅是一顿饭，更是一场融合自然美景、精致美食与浪漫氛围的感官盛宴。
 
@@ -25,13 +25,13 @@ _srcHash: 1f6b66f9749efbf860430c692f4872e8
 
 这个一小时的体验特别适合情侣庆祝特殊时刻，或是单纯想要逃离日常喧嚣，享受两人世界的甜蜜时光。度假村提供灵活的时间段选择，无论是阳光明媚的午后，还是夕阳西下的黄昏，都能找到最适合您的浪漫时刻。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3648fd618b175b7daa976538684257e2.jpg)
+![漂浮在锦鲤之间的浪漫](https://images.gobaligo.id/vocus/vocus_3648fd618b175b7daa976538684257e2.jpg)
 
 ## 精致美食盛宴
 
 在如此特别的环境中，卡曼达鲁准备了精心设计的菜单，满足各种味蕾需求：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eae8f33d1d9a12f0c82a4651c147dd3e.png)
+![精致美食盛宴](https://images.gobaligo.id/vocus/vocus_eae8f33d1d9a12f0c82a4651c147dd3e.png)
 
 **常规菜单**提供多样选择：
 

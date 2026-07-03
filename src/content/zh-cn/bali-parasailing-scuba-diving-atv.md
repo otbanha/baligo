@@ -37,27 +37,27 @@ update: 2026/05/26
 
 我自己先排了大致的行程，再请欧ㄟ帮我顺一下。他也很贴心地给了一些行程上的建议。到达巴厘岛后整趟旅程的沟通也是非常顺畅，他不仅能听懂我们的闲聊，还能和我们说笑，这真是请中文司机的好处！他还帮我们解决了一些突发问题，例如改餐厅时间、临时想按摩、陪我们砍价等。以下是我们参考了很多[小杰印尼](https://www.youtube.com/@j_indonesia)在YouTube上的指南后，所制定的行程计划：
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794607534-1.jpg)
+![行程规划与沟通](https://images.gobaligo.id/images/2026-05/1779794607534-1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794608102-2.jpg)
+![行程规划与沟通](https://images.gobaligo.id/images/2026-05/1779794608102-2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794608628-3.jpg)
+![行程规划与沟通](https://images.gobaligo.id/images/2026-05/1779794608628-3.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794609481-4.jpg)
+![行程规划与沟通](https://images.gobaligo.id/images/2026-05/1779794609481-4.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794610083-5.jpg)
+![行程规划与沟通](https://images.gobaligo.id/images/2026-05/1779794610083-5.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794610572-6.jpg)
+![行程规划与沟通](https://images.gobaligo.id/images/2026-05/1779794610572-6.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794611205-7.jpg)
+![行程规划与沟通](https://images.gobaligo.id/images/2026-05/1779794611205-7.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794612128-8.jpg)
+![行程规划与沟通](https://images.gobaligo.id/images/2026-05/1779794612128-8.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794613152-9.jpg)
+![行程规划与沟通](https://images.gobaligo.id/images/2026-05/1779794613152-9.jpg)
 
 所以，如果你们要带家人去巴厘岛，欢迎找欧ㄟ哦！他的Line ID是：mangloco94。对了，他虽然会讲中文，但看不懂也不会打中文，所以一开始可以先用英文跟他打招呼。如果英文不好也可以直接打给他，他说可以用翻译软件来帮助沟通。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc0d1457f9ad845aaff9a109114ba614.png)
+![行程规划与沟通](https://images.gobaligo.id/vocus/vocus_bc0d1457f9ad845aaff9a109114ba614.png)
 
 > [巴厘岛旅游注意事项：第一次去巴厘岛必看的32项旅游攻略](/blog/bali-ultimate-guide-2026/)
 
@@ -71,7 +71,7 @@ update: 2026/05/26
 
 ### **多带换洗内衣裤**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b0f8826462eff2a98579a54724fb9ffa.png)
+![多带换洗内衣裤](https://images.gobaligo.id/vocus/vocus_b0f8826462eff2a98579a54724fb9ffa.png)
 
 巴厘岛的湿气非常重，如果有玩水的活动，一天通常需要换两套衣服。我原本以为可以把衣服洗一洗晾干，但实际上，由于湿气很重，衣服不容易完全干燥。建议多带一些快干材质的衣物，特别是内衣裤，这样可以保证每天都有干净舒适的衣物可穿。
 
@@ -87,25 +87,25 @@ https://youtu.be/IReL1ztxL7c
 
 过个马路就到达库塔海滩，附近有热闹的夜生活。虽然这里并非最新的旅馆，但它的房间宽敞且干净，设施也十分齐全。工作人员友善热情，让人感到宾至如归。尤其是海鲜晚餐和乐队的现场表演，非常精彩，让我们度过了一些愉快的夜晚。我们在这里的住宿体验十分美好，性价比超高！
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794750451-21ceb288ce176b586af3db9a05d094fc.webp)
+![住宿](https://images.gobaligo.id/images/2026-05/1779794750451-21ceb288ce176b586af3db9a05d094fc.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794751078-35e3f66bf77cd40f26c91c4e217412fc.webp)
+![住宿](https://images.gobaligo.id/images/2026-05/1779794751078-35e3f66bf77cd40f26c91c4e217412fc.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794751619-59ce114cefe481787aac107045c9bfed.webp)
+![住宿](https://images.gobaligo.id/images/2026-05/1779794751619-59ce114cefe481787aac107045c9bfed.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794752215-528f598aa382f9c0f3d7ce1f6304d448.jpeg)
+![住宿](https://images.gobaligo.id/images/2026-05/1779794752215-528f598aa382f9c0f3d7ce1f6304d448.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794752824-472740031.jpg)
+![住宿](https://images.gobaligo.id/images/2026-05/1779794752824-472740031.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794753310-500398018.jpg)
+![住宿](https://images.gobaligo.id/images/2026-05/1779794753310-500398018.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794753787-661675161.jpg)
+![住宿](https://images.gobaligo.id/images/2026-05/1779794753787-661675161.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794754275-825496088.jpg)
+![住宿](https://images.gobaligo.id/images/2026-05/1779794754275-825496088.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794754769-c3e9792212b335b6394f7537283cf6d9.webp)
+![住宿](https://images.gobaligo.id/images/2026-05/1779794754769-c3e9792212b335b6394f7537283cf6d9.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794755377-dde10217f990c21bc9d88fda23331bec.webp)
+![住宿](https://images.gobaligo.id/images/2026-05/1779794755377-dde10217f990c21bc9d88fda23331bec.webp)
 
 **Grand Istana Rama Hotel:** [**Agoda订房**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65512) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685197&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oay8LFJMEkNY2F4-ykhc_YhBgNNO6zWfwWdDQGgeQ8B883gTvkWpmLHQJ4IqYceD6NPZE35Nj-8wyODoUMIJBQ6NDImAYCZbkOXYysYDUzGHtfam5k7D_0VSOm389hByPTCcYO7gVMrxbNZjrFwswxh-kSy1em6Gql7NRKJSsTHaWSzJKcVCUrpaeL5j1t2PN8RauSjlJKanEyUAjISszNL80rAbINTYz0DAyAIiWJFZ4pYJ3JiTnJpTmJJakhlQVAE8x0lDKLnUuKMguCUnMzS0pSgarSEnOKU0HiQanFQJlksKCSH9CYIqhAZn4eRLshilhYYk5pKsQJQAvdUqF2GNbqYLr82Zzep90zX2zaTZzLzantcgNiXG5cG_uIhSk69gXLfbZPLAy_gFHRydXEytDFyswxj3ESkOzg3sXKFuIa5W5ieoG1Q1xKwdDAwMDI1NTIXNcg0TLRyCTVQNfE0sTI3EDXwsAAyNA4e-3LtSfGRtZSkKhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxOZmaeFqZhJlw8Xs6RIk-EHv-fZ2a0t7KeaQcBdFe9l-yRU9p-21QHKGMLnAPa9zTtgbL7CPPN7w5uu7_tP2SaxVGboh4RnHxQoYGxiZuhi5BRg9GCMYK4A8xlWMDBsYGXcw_ocBxleMINMBGJ7oZwMDAAA&masterhotelid_tracelogid=100025527-0a9a24e0-494270-800942&detailFilters=17|1~17~1*31|685197~31~685197*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1596&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/q1KxlNcJ)
 

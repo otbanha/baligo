@@ -303,7 +303,7 @@ https://youtube.com/shorts/ymx-kClfA1I
 
 ### 14. 落機到出機場嘅正確流程
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778988530785-_5.png)
+![14. 落機到出機場嘅正確流程](https://images.gobaligo.id/images/2026-05/1778988530785-_5.png)
 
 **千祈唔好亂行，跟住以下次序：**
 

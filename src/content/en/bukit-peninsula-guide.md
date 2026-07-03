@@ -77,7 +77,7 @@ Jimbaran Beach is famous for its seafood candlelight dinners, with tables lined 
 
 ### **Garuda Wisnu Kencana Cultural Park (GWK)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_385788101230f38177f03e95e94495a0.jpg)
+![Garuda Wisnu Kencana Cultural Park (GWK)](https://images.gobaligo.id/vocus/vocus_385788101230f38177f03e95e94495a0.jpg)
 
 Located in Jimbaran, the Garuda Wisnu Kencana Cultural Park (GWK) is a cultural attraction themed around Balinese culture and Hindu mythology. The park features the iconic 120-meter-tall Garuda Wisnu Kencana statue, one of Bali's landmarks. Traditional dance and music performances are also held here, offering visitors a deeper insight into local arts and culture.
 
@@ -155,7 +155,7 @@ For more attractions and accommodation recommendations in Nusa Dua, check out:
 
 ## Option 1: Uluwatu Adventure
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_134f994f3e774c47d5e56694a2b1052e.png)
+![Option 1: Uluwatu Adventure](https://images.gobaligo.id/vocus/vocus_134f994f3e774c47d5e56694a2b1052e.png)
 
 ### **Morning: Explore the Majestic Uluwatu Temple and Cliffside Views**
 
@@ -212,7 +212,7 @@ For those interested in watching the fire dance performance, consider the highly
 
 ## Second Itinerary: Jimbaran Seafood & Cultural Experience
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6e4d3f6a3f09b6ef0d2c063e9bc05d69.jpg)
+![Second Itinerary: Jimbaran Seafood & Cultural Experience](https://images.gobaligo.id/vocus/vocus_6e4d3f6a3f09b6ef0d2c063e9bc05d69.jpg)
 
 ### **Morning: Visit the Fishing Village & Jimbaran Market**
 
@@ -240,7 +240,7 @@ The Jimbaran area offers a variety of luxurious spa resorts and wellness centers
 
 If you have time, head to Batu Barak, the current hotspot in Uluwatu, known as the Blue Road, for some great photo opportunities.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_46d76bd229be43ff141a38c7465377ec.jpg)
+![Afternoon: Spa Relaxation](https://images.gobaligo.id/vocus/vocus_46d76bd229be43ff141a38c7465377ec.jpg)
 
 > [Latest Guide to Batu Barak Blue Road](/blog/pandawa-beach-traffic-policy/)
 

@@ -31,15 +31,15 @@ Setelah pandemi, aku juga terbang ke beberapa negara, tapi perjalanan 7 hari 6 m
 
 Pertama-tama, aku mampir ke Seminyak yang ramai. Kemewahan dan nuansa modern di sini jelas jadi salah satu ikon Bali. Aku memilih nginep di **Indigo Seminyak**. Hotel ini lokasinya juara banget, tinggal jalan kaki ke Double Six Beach. Setiap sore, pesan minuman, duduk menghadap pantai, dan menunggu matahari terbenam—rasanya tenang banget, bikin lupa sama hiruk-pikuk sehari-hari. Serasa surga liburan.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835771159-118392087.jpeg)
+![Suasana Seminyak yang Memikat](https://images.gobaligo.id/images/2026-06/1780835771159-118392087.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835771763-212202084.jpeg)
+![Suasana Seminyak yang Memikat](https://images.gobaligo.id/images/2026-06/1780835771763-212202084.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835772181-373471619.jpeg)
+![Suasana Seminyak yang Memikat](https://images.gobaligo.id/images/2026-06/1780835772181-373471619.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835772688-5c6f62c2e91e3690f2783aa9f8c60b8a.jpeg)
+![Suasana Seminyak yang Memikat](https://images.gobaligo.id/images/2026-06/1780835772688-5c6f62c2e91e3690f2783aa9f8c60b8a.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835773221-44a9e8d668fba5907a6dc3e0cf5bb218.jpeg)
+![Suasana Seminyak yang Memikat](https://images.gobaligo.id/images/2026-06/1780835773221-44a9e8d668fba5907a6dc3e0cf5bb218.jpeg)
 
 > ▶ Diskon booking Indigo Seminyak: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1220348) [Trip](https://hk.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=7599479&checkIn=2026-12-02&checkOut=2026-12-03&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-PqZeFikmCSamPh-P715icWIUYjg0usFledHHfItb4ODJrg4Hl9cYEt14HJDgE8hQxgEOowg_H7q_PMKxgZNzJ-04jpP5Sb7bCDkekE47mdKxkXMH3f0CB6ioWF49Yp5Ussv5miq5WyUyuVrEx0lEoyS3JSlayUns3pfdo988Wm3Uo6SimpxclAISArMTe_NK8EyDY2MDW2MNIzMAAKliRWeKYoWZnrKCUn5iSX5iSWpIZUFgANMdNRyix2LinKLAhKzc0sKUkFqkpLzClOBYkHpRYDZZLBgkp-QGOKoAKZ-XkQ7QYoYmGJOaWpEFcALXRLhdphXKuD6fini-Y9bdjzfEUrdscbmZubGRmgON5kQBxvWBv7iIUpOvYTC8MvYGy8PcHbxMrQxcowiZWVY0XLWcZdrDxRge6RAZa6hrpRuoYXWHc3bWeUkjc0MDAwNTQ2NdU1SLRMNDRMS9M1sTQxMzfTNbUwMTXX-HXm1oRXxkbWUqxTDjyfxq7AqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzdTZ2MDYMsqGizk02EVwlycPk7a6tIMUs6dLkOLz-9vfXJ5tYa8FkjOEyQUGHp-7cbMgr30kTD6JtSpD18M744xYAWMXI7cAowdjBGMFYwMj4ypGdi5mAyNDAaYNjIw7GP_DAOMrRpANALTIIjL2AgAA&masterhotelid_tracelogid=100051355-0a9a11ff-494676-58457&detailFilters=17|1~17~1*31|7599479~31~7599479*80|0|1~80~0*29|1~29~1|2&display=exavg&subStamp=1566&isCT=true&isFlexible=F&locale=zh-HK&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17670361) [Booking](https://booking.tpm.li/Wod9awed)
 

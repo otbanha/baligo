@@ -27,7 +27,7 @@ _srcHash: 94c8afe74efafac08018fc9ec6959342
 
 The Bali government recently inaugurated the new **Tsunami Early Warning and Response System Center (InaTEWS)**. This major project is part of Indonesia's national "Disaster Resilience Development Plan," led by the Indonesian Meteorology, Climatology, and Geophysical Agency (BMKG) with support from the World Bank.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_43ca548104ab6c5262edd593b1bb1e00.jpg)
+![Bali Enhances Disaster Preparedness Infrastructure, Launches](https://images.gobaligo.id/vocus/vocus_43ca548104ab6c5262edd593b1bb1e00.jpg)
 
 The new warning center, located in Bali, not only monitors earthquakes and tsunamis in real-time but also serves as a **backup site for the Jakarta Command Center**. In the event of a major disaster, it will quickly relay information and initiate response actions.
 

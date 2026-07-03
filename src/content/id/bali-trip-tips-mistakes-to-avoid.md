@@ -29,7 +29,7 @@ Kali ini aku mau sharing pengalaman liburan ke Bali. Bali, yang dijuluki 'Pulau 
 
 Karena di grup banyak yang cerita ribetnya urus eVOA, akhirnya kami memutuskan ambil Visa on Arrival (VoA) aja. Sesampainya di bandara, antrean cuma sekitar 15-20 menit, lumayan cepat sih. Tapi meskipun urusan visa cepet, ambil bagasi tetap aja lama. Jadi sambil nunggu koper, kami cuma bisa garuk-garuk kepala 😅. Intinya, kalau ambil VoA, siapin waktu ekstra buat jaga-jaga kalau ada delay.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a26a7527e1e934bfe40d5158bf8470d7.png)
+![Visa:](https://images.gobaligo.id/vocus/vocus_a26a7527e1e934bfe40d5158bf8470d7.png)
 
 > Baca juga: [Panduan Masuk Bali 2025/08 Pakai Sistem 'All Indonesia'｜Pahamin Proses Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](/blog/bali-all-indonesia-arrival-guide/)
 

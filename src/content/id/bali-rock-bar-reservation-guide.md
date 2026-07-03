@@ -28,13 +28,13 @@ _srcHash: 2bc919fd64a630edd64532fd8936fcb5
 ---
 Rock Bar yang terletak di Ayana Resort Bali ini adalah salah satu bar tepi pantai wajib dikunjungi di Bali. Dengan pemandangan tebing dan laut yang spektakuler, baik saat sunset yang memukau maupun pesta bintang di malam hari, dijamin bikin kamu betah!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_20b286256cc5c66114943238c84d5fe3.jpg)
+![Cara Reservasi Rock Bar Jimbaran Bali? Panduan Lengkap!](https://images.gobaligo.id/vocus/vocus_20b286256cc5c66114943238c84d5fe3.jpg)
 
 ## Kenapa Kamu Wajib Datang ke Rock Bar?
 
 Rock Bar pernah dinobatkan oleh **CNN** sebagai salah satu dari "10 Tempat Terbaik di Dunia untuk Melihat Sunset". Berada di tebing Jimbaran, Bali, bar ini punya lokasi unik dan pemandangan sunset yang luar biasa — makanya nggak heran kalau banyak wisatawan rela antre buat menikmati senja di tepi laut yang super dreamy.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f6a2aac5f35e04e5132f61773a4c19e3.jpg)
+![Kenapa Kamu Wajib Datang ke Rock Bar?](https://images.gobaligo.id/vocus/vocus_f6a2aac5f35e04e5132f61773a4c19e3.jpg)
 
 Rock Bar punya pemandangan dan desain yang bikin mata nggak bisa berkedip. Selain sunset laut yang juara, ada juga elemen batu alami yang bikin suasana makin khas. Kesan liburan di Bali bakal makin membekas di sini. Desain open space-nya bikin kamu bisa lihat laut dari dekat, sambil lihat matahari tenggelam perlahan di cakrawala — kayak lukisan hidup yang indah banget. Suasananya juga kece abis, cocok buat ngopi santai sambil ngobrol atau minum cocktail bareng teman.
 
@@ -46,13 +46,13 @@ https://youtube.com/shorts/tHRxnJqxqbw
 
 Dirancang oleh seniman Jepang, Rock Bar membentang sepanjang 270 meter di sepanjang garis pantai. Konsepnya minimalis banget, memadukan batu alam dan platform kayu yang melingkari area bar utama. Desainnya bersih dan rapi, bikin kamu bisa menikmati suasana elegan khas Ayana Resort. Apalagi pas sunset, pemandangan di area bar ini makin magical — serasa lagi di surga!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_178e5d235463083325b94206376fce44.jpg)
+![Pesona Desain Rock Bar](https://images.gobaligo.id/vocus/vocus_178e5d235463083325b94206376fce44.jpg)
 
 ***
 
 ## Panduan Wajib: Cara Nikmatin Rock Bar dengan Elegan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f840ddbf6798af98977bcb17e4977cdc.jpg)
+![Panduan Wajib: Cara Nikmatin Rock Bar dengan Elegan](https://images.gobaligo.id/vocus/vocus_f840ddbf6798af98977bcb17e4977cdc.jpg)
 
 1. **Datang lebih awal, hindari antrean**: Rock Bar itu hits banget, jadi saran gue sih datang lebih pagi. Buka jam 4 sore, usahakan udah sampai sekitar jam 3:45. Kalau nggak mau berdesakan sama pengunjung sunset, kamu juga bisa datang setelah matahari terbenam buat nikmatin pesta malam.
 2. **Menginap di Ayana atau RIMBA dapat prioritas akses**: Kalau kamu nginep di Ayana Resort atau hotel mana pun di kawasan Ayana, kamu bakal dapat prioritas masuk — nggak perlu antre panjang.
@@ -67,7 +67,7 @@ https://youtube.com/shorts/lbDfKut2J7M
 
 Menu minuman di Rock Bar super lengkap. Bartender terkenal, Bonnefoi, udah bikin banyak koktail spesial yang campurannya pakai tanaman lokal dan buah-buahan khas Bali — bikin kamu ngerasain cita rasa unik Pulau Dewata. Pas malam tiba, suasananya makin rame dengan pertunjukan band live dan DJ terkenal. Kadang-kadang ada juga guest DJ dari klub Ibiza yang bikin makin seru — malam kamu pasti penuh kejutan!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_22dd7744b4378f4b30816cde3a9fd1f0.jpg)
+![Minuman Ikonik & Hiburan di Rock Bar](https://images.gobaligo.id/vocus/vocus_22dd7744b4378f4b30816cde3a9fd1f0.jpg)
 
 ***
 
@@ -106,9 +106,9 @@ Biar semua tamu dapet pengalaman yang oke, Rock Bar punya minimum spending buat 
 
 ## Prosedur Reservasi & Hal yang Perlu Diperhatikan 📋
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ca4a8c21021d64ec6450d217865e1c72.jpg)
+![Prosedur Reservasi & Hal yang Perlu Diperhatikan](https://images.gobaligo.id/vocus/vocus_ca4a8c21021d64ec6450d217865e1c72.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_079073365a460e891ca233854ec1d384.jpg)
+![Prosedur Reservasi & Hal yang Perlu Diperhatikan](https://images.gobaligo.id/vocus/vocus_079073365a460e891ca233854ec1d384.jpg)
 
 1. **Konfirmasi Reservasi**: Abis berhasil booking, kamu bakal dapet email konfirmasi. Jangan lupa cek bagian 'Penting untuk Diketahui' di email itu buat tau kebijakan terbaru Rock Bar dan aturan masuk.
 2. **Cuaca & Keterbatasan Tempat**: Rock Bar bisa aja tutup mendadak atau stop nerima tamu karena cuaca atau tempat penuh, tanpa pemberitahuan duluan. Harap maklum, dan saran cek dulu status operasional sebelum berangkat.

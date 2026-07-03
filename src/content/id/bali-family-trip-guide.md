@@ -57,11 +57,11 @@ Tentu, perjalanan ini juga punya beberapa hal yang perlu adaptasi: lalu lintas d
 
 Setelah penerbangan panjang, akhirnya kami mendarat di Bali. Proses imigrasi ternyata lebih cepat dari yang dibayangkan. Setelah mengambil bagasi, kami langsung bertemu dengan sopir mobil sewaan yang sudah dipesan sebelumnya. Mobil melaju meninggalkan hiruk-pikuk bandara, dan pemandangan di sepanjang jalan perlahan berubah dari bangunan modern menjadi sawah yang hijau dan pura-pura kecil yang indah — mengingatkan kami bahwa kami benar-benar sudah tiba di 'Pulau Dewata' ini.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_872fd38d85050291bdc0602b42d36dd9.jpg)
+![Hari Pertama: Tiba di Ubud, Prolog Santai di Villa](https://images.gobaligo.id/vocus/vocus_872fd38d85050291bdc0602b42d36dd9.jpg)
 
 Saat tiba di **Villa** yang sudah dipesan di Ubud, rasa lelah perjalanan langsung sirna oleh pemandangan di depan mata. Villa ini tersembunyi di tengah rimbunnya tanaman hijau, punya kolam renang pribadi dan bale santai yang luas. Anak-anak langsung bersorak begitu melihat kolam renang, sementara orang dewasa sibuk membongkar koper, buru-buru menyeduh teh, dan duduk di bale sambil menikmati udara tenang khas Ubud. Malam harinya, diiringi simfoni alami suara jangkrik dan katak, kami mengakhiri hari pertama yang santai dan menyenangkan, siap untuk petualangan selanjutnya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fc948ca985ea8069ac9dd4b23dbc3d0e.jpg)
+![Hari Pertama: Tiba di Ubud, Prolog Santai di Villa](https://images.gobaligo.id/vocus/vocus_fc948ca985ea8069ac9dd4b23dbc3d0e.jpg)
 
 > **Referensi Cepat:** [Paket Liburan Kelompok Bebas di Bali: Rekomendasi Sewa Villa Pribadi 3/4/5/6 Kamar atau Lebih untuk Keluarga](/blog/bali-group-villa-stay/)
 
@@ -71,7 +71,7 @@ Hari ini penuh dengan kontras antara budaya dan alam, benar-benar padat dan seru
 
 - **Pura Tirta Empul:** Pagi-pagi, kami datang ke Pura Tirta Empul yang terkenal. Meskipun turisnya lumayan banyak, suasana sakral dan khidmat di dalam pura tetap terasa kuat. Melihat penduduk setempat dan wisatawan dari berbagai negara antre bergiliran mandi dan berdoa di kolam suci, dengan ekspresi serius dan penuh keyakinan, hati pun ikut merasa tenang. Anak-anak penasaran dengan ritual 'antre di air' ini, sementara kami menjelaskan makna religiusnya — benar-benar pengalaman budaya yang berharga.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b60719f084e134a94fa7186d3e2c18f7.jpg)
+![Hari Kedua: Berkah Air Suci, Pemandangan Gunung Berapi, dan ](https://images.gobaligo.id/vocus/vocus_b60719f084e134a94fa7186d3e2c18f7.jpg)
 
 > **Referensi Cepat:** [Panduan Lengkap Tirta Empul 2026: Pengalaman Pura Penyucian Tersakral di Bali](/blog/tirta-empul-temple-guide/)
 
@@ -79,13 +79,13 @@ Hari ini penuh dengan kontras antara budaya dan alam, benar-benar padat dan seru
 
 - **Kintamani:** Selanjutnya, mobil berkelok naik ke atas menuju Kintamani. Saat pemandangan **Gunung Batur** dan danau kawah di kakinya terbentang penuh di depan mata, seruan kagum menggema di dalam mobil. Kami makan siang di restoran dengan pemandangan, sambil menikmati cita rasa lokal dan panorama alam yang megah ini. Kadang-kadang kabut melintas, membuat pemandangan gunung berubah setiap saat, penuh dengan nuansa puitis.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8de97539719cb37d06c510346db2230d.jpg)
+![Hari Kedua: Berkah Air Suci, Pemandangan Gunung Berapi, dan ](https://images.gobaligo.id/vocus/vocus_8de97539719cb37d06c510346db2230d.jpg)
 
 > **Referensi Cepat:** [13 Kafe & Restoran dengan Pemandangan Gunung Berapi di Kintamani, Bali 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
 
 - **Desa Penglipuran:** Setelah makan, kami mengunjungi Desa Penglipuran. Tempat ini lebih tenang dibandingkan tempat wisata populer, dan kamu bisa merasakan ritme kehidupan desa tradisional Bali. Berjalan-jalan di sini, kamu bisa melihat penduduk desa yang fokus pada kerajinan tangan atau sekadar mengobrol santai, seolah waktu berjalan lebih lambat.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3638ed5e8a2500e413dca3df549ac608.jpg)
+![Hari Kedua: Berkah Air Suci, Pemandangan Gunung Berapi, dan ](https://images.gobaligo.id/vocus/vocus_3638ed5e8a2500e413dca3df549ac608.jpg)
 
 > **Referensi Cepat:** [Menembus Waktu di Desa Penglipuran: Rasakan Pesona Kuno Bali](/blog/penglipuran-village-bali-experience/)
 
@@ -106,21 +106,21 @@ Perjalanan hari ini penuh dengan kontras dan kejutan, dari hutan hingga sawah te
 
 - **Hutan Monyet Sangeh (Sangeh Monkey Forest):** Kami memasuki hutan monyet ini dengan perasaan campur aduk antara antusias dan deg-degan, karena kami dengar **monyet-monyet di Ubud Monkey Forest** sama sekali tidak takut pada manusia. Mereka akan melompat dengan lincah, mengejar, bahkan mencoba merebut makanan atau kantong plastik yang 'terlalu mencolok' dari tangan wisatawan. Kami benar-benar mengingat prinsip 'jangan makan, jangan tatap langsung, jangan sentuh', dan mengamati perilaku mereka dari jarak aman. Anak-anak merasa tegang sekaligus seru. Untungnya, monyet di sini lebih jinak! Namun, ini tetap menjadi pelajaran hidup yang mengingatkan kita untuk menghormati satwa liar.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_51bb260e63986ad1a2b199d4be1babee.jpg)
+![Hari Ketiga: Menjelajahi Antara Spiritualitas Alam dan Keram](https://images.gobaligo.id/vocus/vocus_51bb260e63986ad1a2b199d4be1babee.jpg)
 
 > 🐒 Tiket Masuk Sacred Monkey Forest Ubud ▶[Promo Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F67185-sacred-monkey-forest-ubud-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D39f6fcbd47)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a804dbb47152b6d827a07473286d114f.jpg)
+![Hari Ketiga: Menjelajahi Antara Spiritualitas Alam dan Keram](https://images.gobaligo.id/vocus/vocus_a804dbb47152b6d827a07473286d114f.jpg)
 
 > **Referensi Cepat:** [Panduan Mengunjungi Dua Area Terasering Sawah di Bali: Tegalalang dan Jatiluwih | Berapa Tiket Masuknya? Waktu/Musim Terbaik Berkunjung?](/blog/bali-rice-terraces-comparison/)
 
 - **Wisata Kayu Putih (Pohon Putih):** Sebagai perbandingan, tempat wisata pohon ini benar-benar memberi kami kejutan besar! Pohon kayu putih raksasa ini terasa khidmat dan penuh energi spiritual. Berdiri di bawah pohon raksasa ini, manusia terasa sangat kecil. Jalur hutan di sekitarnya tenang, udaranya seolah dipenuhi kekuatan yang menenangkan, **bikin hati langsung adem dan tenang—ini highlight terbaik hari itu**. Sangat direkomendasikan buat kamu yang suka suasana alam dan ketenangan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_751dc0dccc323e14cebcee8cc564bbe0.jpg)
+![Hari Ketiga: Menjelajahi Antara Spiritualitas Alam dan Keram](https://images.gobaligo.id/vocus/vocus_751dc0dccc323e14cebcee8cc564bbe0.jpg)
 
 - **Ubud Palace (Puri Ubud) dan Pasar Ubud (Ubud Market):** Sore hari kembali ke pusat kota Ubud. Puri Ubud memang tidak terlalu besar, tapi ukiran bangunannya detail dan memancarkan aura kerajaan tradisional. Pasar Ubud yang bersebelahan sangat hidup, dari kerajinan tangan, tas anyaman, sampai kain sarung, semuanya ada. Di sini kamu bisa merasakan serunya tawar-menawar (ingat mulai dari harga sepertiga ya!), dan cari oleh-oleh khas buat keluarga atau teman.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d83da6954901731170a3f42382dc19f8.jpg)
+![Hari Ketiga: Menjelajahi Antara Spiritualitas Alam dan Keram](https://images.gobaligo.id/vocus/vocus_d83da6954901731170a3f42382dc19f8.jpg)
 
 > **Referensi Cepat:** [【Destinasi Wajib di Ubud】Puri Ubud: Permata Sejarah dan Budaya Bali | Jam Buka, Tiket Masuk, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Tur Sehari](/blog/ubud-royal-palace-tour-guide/)
 
@@ -132,9 +132,9 @@ Perjalanan hari ini penuh dengan kontras dan kejutan, dari hutan hingga sawah te
 - **Makan Malam: Taman Dedari (Taman Bidadari)**
   Restoran ini punya suasana yang sangat indah. Kami datang dengan penuh harapan dan memesan bebek betutu yang terkenal, tapi rasanya biasa aja, **tidak terlalu direkomendasikan**. Namun, **kopi dan minumannya lumayan enak**. Yang lebih penting, sore hari cari tempat duduk yang enak di taman, ditemani angin sepoi dan senja, pemandangan lembah Ubud terbentang di depan mata—benar-benar tempat **ngopi sambil menikmati pemandangan** yang oke banget.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e6567ad4ac82156d8ce30a9c60feb578.jpg)
+![Hari Ketiga: Menjelajahi Antara Spiritualitas Alam dan Keram](https://images.gobaligo.id/vocus/vocus_e6567ad4ac82156d8ce30a9c60feb578.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_37891f30f3e1e93406a35d99756c09cd.jpg)
+![Hari Ketiga: Menjelajahi Antara Spiritualitas Alam dan Keram](https://images.gobaligo.id/vocus/vocus_37891f30f3e1e93406a35d99756c09cd.jpg)
 
 > **Referensi Cepat:** [【Rekomendasi Kuliner + Pemandangan Ubud】Taman Dedari (Taman Bidadari)](/blog/taman-dedari-ubud-food-scenery/)
 
@@ -187,25 +187,25 @@ ATV menurutku kurang cocok buat orang tua dan anak di bawah 7 tahun, soalnya ter
 
 Hari ini kita pindah dari Ubud yang kental budaya ke Kuta yang ramai di tepi pantai.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780206389-49112982.jpg)
+![Hari Keenam: Pamitan dari Ubud, Menikmati Suasana Pantai Kut](https://images.gobaligo.id/images/2026-03/1774780206389-49112982.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780207164-115642639.jpg)
+![Hari Keenam: Pamitan dari Ubud, Menikmati Suasana Pantai Kut](https://images.gobaligo.id/images/2026-03/1774780207164-115642639.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780207536-115681714.jpg)
+![Hari Keenam: Pamitan dari Ubud, Menikmati Suasana Pantai Kut](https://images.gobaligo.id/images/2026-03/1774780207536-115681714.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780207954-116841359.jpg)
+![Hari Keenam: Pamitan dari Ubud, Menikmati Suasana Pantai Kut](https://images.gobaligo.id/images/2026-03/1774780207954-116841359.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780208361-120634515.jpg)
+![Hari Keenam: Pamitan dari Ubud, Menikmati Suasana Pantai Kut](https://images.gobaligo.id/images/2026-03/1774780208361-120634515.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780208721-195261402.jpg)
+![Hari Keenam: Pamitan dari Ubud, Menikmati Suasana Pantai Kut](https://images.gobaligo.id/images/2026-03/1774780208721-195261402.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780209040-195261448.jpg)
+![Hari Keenam: Pamitan dari Ubud, Menikmati Suasana Pantai Kut](https://images.gobaligo.id/images/2026-03/1774780209040-195261448.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780209486-195404224.jpg)
+![Hari Keenam: Pamitan dari Ubud, Menikmati Suasana Pantai Kut](https://images.gobaligo.id/images/2026-03/1774780209486-195404224.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780209848-195404320.jpg)
+![Hari Keenam: Pamitan dari Ubud, Menikmati Suasana Pantai Kut](https://images.gobaligo.id/images/2026-03/1774780209848-195404320.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780210178-574173017.jpg)
+![Hari Keenam: Pamitan dari Ubud, Menikmati Suasana Pantai Kut](https://images.gobaligo.id/images/2026-03/1774780210178-574173017.jpg)
 
 Kita nginep di hotel Kuta **Amnaya Resort**, pemenang [2025 Agoda Traveller Choice Award]
 
@@ -241,7 +241,7 @@ Perjalanan udah sampai di penghujung.
 
 ## **Catatan Perjalanan & Tips Praktis**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2a859b507a199d6500bc5d3d47023c43.png)
+![Catatan Perjalanan & Tips Praktis](https://images.gobaligo.id/vocus/vocus_2a859b507a199d6500bc5d3d47023c43.png)
 
 Berdasarkan pengalaman langsung ini, kita rangkum beberapa tips kecil buat kamu yang mau ke sini nanti:
 
@@ -278,7 +278,7 @@ Melihat ke belakang, perjalanan keluarga ke Bali ini bisa dibilang **liburan yan
 
 Kamu pikir itinerary [Lin Konglong](https://www.facebook.com/share/p/1DMYqVwzhq/) mereka seru? Yuk, segera rencanakan liburan Bali versi kamu sendiri! Jangan lupa juga posting itinerary kamu di grup ya!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Tips Liburan Musim Hujan](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 

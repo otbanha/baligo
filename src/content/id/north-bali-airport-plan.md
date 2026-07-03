@@ -29,7 +29,7 @@ Pada tahun 2024, saat masih menjadi calon presiden Indonesia, Prabowo Subianto (
 
 ### Analisis Tekanan Pariwisata di Bali Selatan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ddcf2efb5bdc04fff77367001f49ae77.jpg)
+![Analisis Tekanan Pariwisata di Bali Selatan](https://images.gobaligo.id/vocus/vocus_ddcf2efb5bdc04fff77367001f49ae77.jpg)
 
 Bali selatan memusatkan banyak sumber daya dan fasilitas wisata, terutama di tempat-tempat populer seperti Kuta, Seminyak, dan Jimbaran. Seiring melonjaknya jumlah wisatawan, masalah kemacetan lalu lintas di daerah ini semakin parah. Warga setempat sudah lama terdampak oleh aktivitas pariwisata yang padat, dan lingkungan ekologis juga tertekan. Bagaimana cara efektif menyebarkan arus pengunjung menjadi tantangan yang harus segera diatasi pemerintah.
 
@@ -55,7 +55,7 @@ Bali terkenal banget sama budaya dan tradisinya yang unik — ini yang bikin par
 
 ### Tantangan Bandara Baru
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3aa1251d09e91877d2c9603f0930a0c4.png)
+![Tantangan Bandara Baru](https://images.gobaligo.id/vocus/vocus_3aa1251d09e91877d2c9603f0930a0c4.png)
 
 Proses bangun bandara baru pasti nemuin banyak tantangan, dari urusan dana sampe eksekusi. Yang lebih penting, apakah bandara di utara ini beneran bisa ngurangin keramaian turis di selatan? Masih tanda tanya besar.
 
@@ -81,7 +81,7 @@ Perusahaan konstruksi China, Changye Construction Group, udah sepakat investasi 
 
 ## 📩 **Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Bali!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Ba](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

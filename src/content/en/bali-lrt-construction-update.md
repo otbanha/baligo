@@ -36,7 +36,7 @@ Light Rail Transit (LRT) is an important mode of modern urban transportation tha
 
 ## Project Phases
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c2b672737b7461372de346e8ee4c0706.jpg)
+![Project Phases](https://images.gobaligo.id/vocus/vocus_c2b672737b7461372de346e8ee4c0706.jpg)
 
 ### Phase One: Airport to Kuta
 

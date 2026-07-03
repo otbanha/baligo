@@ -35,7 +35,7 @@ Nyepi Day di Bali, ini salah satu hari paling unik dan sakral di Bali. Pulau yan
 
 Timeline Nyepi Bali 2027
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780156597160-mixcollage-30-may-2026-10-55-pm-1082.jpg)
+![Pahami Dulu Timeline-nya (Penting Banget!)](https://images.gobaligo.id/images/2026-05/1780156597160-mixcollage-30-may-2026-10-55-pm-1082.jpg)
 
 ### Mulai Sore 8 Maret
 
@@ -80,7 +80,7 @@ Timeline Nyepi Bali 2027
 4. **Ubud (Pusat / dekat Ubud Palace atau Monkey Forest)** — Lebih kental nuansa budaya dan seni. Pawainya relatif elegan dan dramatis, cocok buat yang suka pengalaman mendalam. Sekitar Peliatan Royal Palace juga ramai.
 5. **Tempat chill lainnya: Sanur (dekat McDonald's), Canggu (Batu Bolong & Berawa), Kerobokan (Lio Square)** — Kalau kamu nginep di area ini, tinggal keluar hotel udah bisa lihat versi komunitas lokal, lebih akrab dan nggak terlalu padat.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_973019ee2bd0d68dc174e5e569c030a0.png)
+![最佳觀賞地點（從最盛大到chill一點的排序）：](https://images.gobaligo.id/vocus/vocus_973019ee2bd0d68dc174e5e569c030a0.png)
 
 **Catatan kecil:** Banyak tempat udah mulai tutup jalan sejak sore, Grab atau taksi mungkin nggak bisa masuk. Saran: booking mobil dari awal atau jalan kaki. Setelah pawai, beberapa Ogoh-ogoh dibakar, asapnya tebal, pakai masker atau hindari area yang kena angin.
 
@@ -111,7 +111,7 @@ Selama Nyepi, kamu nggak bisa ke mana-mana, jadi milih resort yang tepat itu sep
 
 ### 🏆 AYANA Bali (Jimbaran) — Pengalaman Nyepi Paling Lengkap
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780156879456-rock-bar-bali-3-1024x1024_large.jpeg)
+![AYANA Bali (Jimbaran) — Pengalaman Nyepi Paling Lengkap](https://images.gobaligo.id/images/2026-05/1780156879456-rock-bar-bali-3-1024x1024_large.jpeg)
 
 Ini pilihan paling recommended, nggak ada duanya. AYANA punya paket lengkap tiga hari untuk Nyepi — malam 3/8 mereka ngadain parade Ogoh-ogoh khas resort, dua patung raksasa yang melambangkan kehancuran dan pembaruan, seremoninya keren banget. Pas hari hening, ada sunrise yoga, pilates di air, qigong, terapi suara, mandi suara gong, dan meditasi mindfulness bergantian, hampir full seharian.
 
@@ -129,7 +129,7 @@ Ini pilihan paling recommended, nggak ada duanya. AYANA punya paket lengkap tiga
 
 ### 🌿 Four Seasons Bali (Jimbaran Bay) — Budaya dan Keluarga Seimbang
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780157440412-445066142_858533772982574_1049567968307874559_n.jpeg)
+![Four Seasons Bali (Jimbaran Bay) — Budaya dan Keluarga Seimb](https://images.gobaligo.id/images/2026-05/1780157440412-445066142_858533772982574_1049567968307874559_n.jpeg)
 
 Four Seasons di Jimbaran Bay terkenal dengan parade Ogoh-ogoh yang meriah. Klub anak-anak ngadain aktivitas bikin boneka kayu, yoga ringan, dongeng, dan lainnya — jadi orang tua dan anak-anak sama-sama terurus.
 
@@ -141,7 +141,7 @@ Four Seasons di Jimbaran Bay terkenal dengan parade Ogoh-ogoh yang meriah. Klub 
 
 ### 🤫 The Apurva Kempinski Bali（Nusa Dua）——Tema Meditasi Paling Mendalam
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780158026812-543684014.jpg)
+![The Apurva Kempinski Bali（Nusa Dua）——Tema Meditasi Paling Me](https://images.gobaligo.id/images/2026-05/1780158026812-543684014.jpg)
 
 Kalau kamu menganggap Nyepi sebagai retret spiritual yang sesungguhnya, bukan sekadar 'terjebak di hotel', program 'MAUNA: Seni Keheningan' dari Apurva Kempinski ini cocok banget buatmu. Berpusat pada empat pilar utama: mindfulness, olahraga, makanan, dan tidur—mulai dari ritual sakral, meditasi, hingga workshop tidur—tiga hari di sini terasa seperti detoksifikasi tubuh dan pikiran secara menyeluruh. Ditambah arsitektur megah yang menghadap Samudra Hindia, vibes-nya benar-benar nggak ada duanya.
 

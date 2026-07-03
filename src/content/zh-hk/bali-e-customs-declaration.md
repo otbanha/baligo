@@ -20,7 +20,7 @@ _srcHash: 9f8862ab56e55158e6b925254da7d999
 
 峇里島電子海關申報表（eCD）係印尼政府規定所有入境旅客都必須填寫嘅數位海關表格。呢項制度取代咗傳統紙本版本，旅客需要喺抵達峇里島前，喺線上填寫並提交資料，以便快速通關。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a91d6ead0d074002298ce1381182700c.png)
+![乜嘢係峇里島電子海關申報表？](https://images.gobaligo.id/vocus/vocus_a91d6ead0d074002298ce1381182700c.png)
 
 表格主要用途係搜集旅客個人資訊、行程安排同埋係咪攜帶需要申報嘅物品。無論係外國遊客定係印尼公民返國，都需要完成呢項申報。
 
@@ -44,7 +44,7 @@ _srcHash: 9f8862ab56e55158e6b925254da7d999
 
 喺表格入面，你需要填寫以下資料：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_21d862589075e1a383688c90186a2d82.png)
+![第二頁：個人資料欄位](https://images.gobaligo.id/vocus/vocus_21d862589075e1a383688c90186a2d82.png)
 
 - Passport Number 護照號碼（一定要同護照一致）
 - Date of Arrival 抵達日期
@@ -56,7 +56,7 @@ _srcHash: 9f8862ab56e55158e6b925254da7d999
 - Number of Baggage Arriving with you 總行李件數（包括托運、登機行李。隨身背囊可以唔計）
 - Family Arriving with You 同行家人人數（唔包括你自己，最多十人。如果有同行親屬，需要額外填寫佢哋嘅護照同個人資料）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f680fec20d1b6bf1f1cf3c81af7329d5.jpg)
+![第二頁：個人資料欄位](https://images.gobaligo.id/vocus/vocus_f680fec20d1b6bf1f1cf3c81af7329d5.jpg)
 
 表格右下角嘅 [+Add] 按鈕可以增加同行嘅旅伴，最多可以再加多10位旅伴
 
@@ -66,7 +66,7 @@ _srcHash: 9f8862ab56e55158e6b925254da7d999
 
 ### **IMEI登記**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c76056591f440cfde9bebd9abb547364.png)
+![IMEI登記](https://images.gobaligo.id/vocus/vocus_c76056591f440cfde9bebd9abb547364.png)
 
 新版嘅eCD增加咗一條「你是否打算使用喺國外購買嘅手機、掌上電腦或平板，喺抵達印尼後連接當地行動網」
 

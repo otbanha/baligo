@@ -19,7 +19,7 @@ _srcHash: 9d6feac5e9732622c480441f317876fa
 
 去峇里島通常被視為好多人嘅夢想度假之地，呢度有美麗嘅沙灘、充滿活力嘅文化同埋可以逃避煩惱嘅熱帶天堂。不過，過去一星期嘅一連串不幸事件提醒我哋，去呢個受歡迎嘅目的地時，擁有全面嘅醫療同旅遊保險至關重要。本文回顧咗幾位遊客嘅恐怖經歷，強調喺呢類冒險之前需要徹底準備同埋了解保險政策。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aabb2a4c1d2f606be093bb46df0ab3b6.png)
+![【峇里島驚魂】旅遊保險嘅重要性：峇里島一週內嘅五大悲劇](https://images.gobaligo.id/vocus/vocus_aabb2a4c1d2f606be093bb46df0ab3b6.png)
 
 ## 旅遊保險嘅至關重要性
 
@@ -27,7 +27,7 @@ _srcHash: 9d6feac5e9732622c480441f317876fa
 
 ## 山姆·霍里根嘅案例：一單悲劇性嘅肇事逃逸
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a3fdc7fa3f375c887f74b4f21a22024.jpg)
+![山姆·霍里根嘅案例：一單悲劇性嘅肇事逃逸](https://images.gobaligo.id/vocus/vocus_9a3fdc7fa3f375c887f74b4f21a22024.jpg)
 
 最令人震驚嘅事件之一涉及山姆·霍里根（Sam Hourigan**）**，呢位著名嘅自由潛水者，目前喺峇里島因一單肇事逃逸事故處於穩定但危急嘅狀態。霍里根喺Padang-Padang橋上被一架逆向行駛而且冇車燈嘅電單車撞倒。當佢瞓喺地上失去意識時，第二架電單車又撞上佢，導致嚴重嘅內出血、脾臟破裂同埋肋骨骨折。
 
@@ -35,7 +35,7 @@ _srcHash: 9d6feac5e9732622c480441f317876fa
 
 ## 瑞貝卡·奧德：努沙倫邦岸島上嘅神秘事故
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_914891e37f27c832e2702dbeae0b8479.jpg)
+![瑞貝卡·奧德：努沙倫邦岸島上嘅神秘事故](https://images.gobaligo.id/vocus/vocus_914891e37f27c832e2702dbeae0b8479.jpg)
 
 另一單無關但同樣悲慘嘅事件涉及瑞貝卡·奧德（Rebecca Ode），呢位澳洲遊客喺藍夢島嘅一條路上被發現半昏迷。奧德遭受嚴重嘅腦部同眼部損傷，立即被送往重症監護病房進行重大重建手術。雖然目前佢嘅狀態穩定，但佢仍面臨失去雙眼嘅風險。
 
@@ -43,7 +43,7 @@ _srcHash: 9d6feac5e9732622c480441f317876fa
 
 ## 凱瑟琳·柯蒂斯：巴杜爾山行山嘅意外
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8ef6f21bdbfc62433b211a1643e4b39b.jpg)
+![凱瑟琳·柯蒂斯：巴杜爾山行山嘅意外](https://images.gobaligo.id/vocus/vocus_8ef6f21bdbfc62433b211a1643e4b39b.jpg)
 
 56歲嘅澳洲人凱瑟琳·柯蒂斯（Catherine Curtis）喺巴杜爾山行山時遇到咗一連串挑戰。成功登頂呢座神聖嘅山峰後，柯蒂斯喺落山時絆倒，整斷咗腳嘅兩處。好彩嘅係，柯蒂斯有涵蓋醫療費用嘅旅遊同醫療保險，否則佢將要面對超過2.3萬澳元嘅醫療費用。
 
@@ -51,7 +51,7 @@ _srcHash: 9d6feac5e9732622c480441f317876fa
 
 ## 兩位英國遊客嘅幸運獲救
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ce2f0bdcf56747e3b1eca773373369d2.jpg)
+![兩位英國遊客嘅幸運獲救](https://images.gobaligo.id/vocus/vocus_ce2f0bdcf56747e3b1eca773373369d2.jpg)
 
 喺一個幸運嘅轉折點中，兩位年輕嘅英國遊客（首字母AF同MF）喺阿貢山迷路後被峇里島嘅搜救隊救出。兩兄弟嘗試喺冇導遊嘅情況下攀登呢座山峰，呢個係一個極為冒險嘅行為！雖然佢哋被發現時冇受傷，但每年喺阿貢山上至少有十幾名遊客受傷或死亡。
 

@@ -50,11 +50,11 @@ AI示意图
 
 经过长途飞行，我们顺利降落巴厘岛。通关流程比预期中更为迅速，领完行李后，便与事先预约的包车司机会合。车子驶离机场的喧嚣，沿途的景致逐渐由现代建筑转为葱茏的田野与精致的神龕，提醒我们已真正踏入这座「诸神之岛」。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_872fd38d85050291bdc0602b42d36dd9.jpg)
+![第一天：抵达乌布，入住 Villa 的悠闲序幕](https://images.gobaligo.id/vocus/vocus_872fd38d85050291bdc0602b42d36dd9.jpg)
 
 抵达乌布（Ubud）预订的 **Villa** 时，旅途的疲惫瞬间被眼前的景色洗去。Villa 隐身于一片绿意之中，拥有私人泳池和开阔的发呆亭。孩子们一看到泳池便欢呼起来，大人们则忙着卸下行李，迫不及待地泡壶茶，坐在凉亭里感受乌布特有的宁静空气。夜晚，在虫鸣蛙叫的天然交响乐中，我们结束了轻松惬意的第一天，为接下来的旅程养精蓄锐。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fc948ca985ea8069ac9dd4b23dbc3d0e.jpg)
+![第一天：抵达乌布，入住 Villa 的悠闲序幕](https://images.gobaligo.id/vocus/vocus_fc948ca985ea8069ac9dd4b23dbc3d0e.jpg)
 
 > **快速参考：**[巴厘岛团体自由行旅游：包栋villa 三房/四房/五房/六房以上的家庭别墅住宿推荐](/blog/bali-group-villa-stay/)
 
@@ -64,7 +64,7 @@ AI示意图
 
 - **圣泉寺 (Tirta Empul)：** 清晨，我们来到著名的圣泉寺。虽然游客不少，但寺内庄严肃穆的氛围依然浓厚。看着当地信众与各国旅客在泉池中依序进行沐浴祈福，神情专注而虔诚，内心也感到一股平静。孩子们对这个「在水里排队」的仪式充满好奇，我们则在旁解释其宗教意义，是一次很好的文化体验。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b60719f084e134a94fa7186d3e2c18f7.jpg)
+![第二天：圣泉洗礼、火山远眺与味觉探索之旅](https://images.gobaligo.id/vocus/vocus_b60719f084e134a94fa7186d3e2c18f7.jpg)
 
 > **快速参考：**[【2026】Tirta Empul 圣泉寺完整指南：巴厘岛最神圣的净化水庙体验](/blog/tirta-empul-temple-guide/)
 
@@ -72,13 +72,13 @@ AI示意图
 
 - **金塔玛尼火山 (Kintamani)：** 接着，车子蜿蜒上山，前往金塔玛尼。当**巴杜尔火山 (Mount Batur)** 与其脚下的火山湖全景豁然展现于眼前时，车内响起一片赞叹。我们在观景餐厅享用午餐，一边品尝当地风味，一边欣赏这幅壮丽的自然画卷。云雾时而飘过，让火山景色瞬息万变，充满诗意。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8de97539719cb37d06c510346db2230d.jpg)
+![第二天：圣泉洗礼、火山远眺与味觉探索之旅](https://images.gobaligo.id/vocus/vocus_8de97539719cb37d06c510346db2230d.jpg)
 
 > **快速参考：**[巴厘岛金塔玛尼13大景观火山咖啡馆/餐厅推荐 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
 
 - **普兰村 (Penglipurang)：** 饭后我们造访了普兰村。这里相较于热门景点更为宁静，能感受到巴厘传统村落的生活节奏。漫步其中，可以看到村民专注于手工艺或闲话家常，时间的流速仿佛也慢了下来。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3638ed5e8a2500e413dca3df549ac608.jpg)
+![第二天：圣泉洗礼、火山远眺与味觉探索之旅](https://images.gobaligo.id/vocus/vocus_3638ed5e8a2500e413dca3df549ac608.jpg)
 
 > **快速参考：**[穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/blog/penglipuran-village-bali-experience/)
 
@@ -100,21 +100,21 @@ AI示意图
 
 > 🐒乌布圣猴森林公园门票▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F67185-sacred-monkey-forest-ubud-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D39f6fcbd47)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_51bb260e63986ad1a2b199d4be1babee.jpg)
+![第三天：穿梭于自然灵性与市井喧嚣之间](https://images.gobaligo.id/vocus/vocus_51bb260e63986ad1a2b199d4be1babee.jpg)
 
 - **Jatiluwih 梯田：** 接着驱车前往被列为世界文化遗产的Jatiluwih梯田。广阔的绿色阶梯沿著山势铺展，景色开阔而宁静。或许是因为天气或季节关系，整体景观 **「感觉普普」**，没有预想中那般震撼，但仍不失为一个呼吸新鲜空气、感受巴厘岛农业文明的宁静去处。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a804dbb47152b6d827a07473286d114f.jpg)
+![第三天：穿梭于自然灵性与市井喧嚣之间](https://images.gobaligo.id/vocus/vocus_a804dbb47152b6d827a07473286d114f.jpg)
 
 > **快速参考：**[巴厘岛Tegalalang德格拉朗、Jatiluwih贾提鲁维两大梯田区拜访攻略｜入场门票多少钱？最佳拜访时间/季节？](/blog/bali-rice-terraces-comparison/)
 
 - **Wisata Kayu Putih 神木：** 相比之下，神木景点给了我们极大的惊喜！这棵巨大的白木树（Kayu Putih）庄严肃穆，充满灵性能量。站在巨树之下，人类显得格外渺小。周遭森林步道清幽，空气中仿佛弥漫着一股宁静的力量，**让人内心瞬间沉淀下来，是当天最棒的亮点**，非常推荐给喜欢自然与静谧氛围的旅人。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_751dc0dccc323e14cebcee8cc564bbe0.jpg)
+![第三天：穿梭于自然灵性与市井喧嚣之间](https://images.gobaligo.id/vocus/vocus_751dc0dccc323e14cebcee8cc564bbe0.jpg)
 
 - **乌布皇宫 (Ubud Palace) 与乌布市场 (Ubud Market)：** 下午回到乌布市中心。乌布皇宫规模不大，但建筑雕刻精致，透露出传统王朝的气息。紧邻的乌布市场则是活力十足，从手工艺品、编织包到沙龙布应有尽有。在这里可以体验砍价的乐趣（记得从三折开始出价！），为家人朋友挑选特色纪念品。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d83da6954901731170a3f42382dc19f8.jpg)
+![第三天：穿梭于自然灵性与市井喧嚣之间](https://images.gobaligo.id/vocus/vocus_d83da6954901731170a3f42382dc19f8.jpg)
 
 > **快速参考：**[【乌布必访景点】乌布皇宫：巴厘岛文化历史的瑰宝｜开放时间、门票、表演时间、周边景点、一日游推荐](/blog/ubud-royal-palace-tour-guide/)
 
@@ -126,9 +126,9 @@ AI示意图
 - **晚餐：Taman Dedari 仙女园**
   这是一家环境极为优美的景观餐厅。我们抱着期待点了著名的脏鸭餐，但口感略显普通，**不算特别推荐**。然而，这里的**咖啡与饮品水准不错**，更重要的是，在傍晚时分于庭园中找个好位置坐下，伴随着凉风与暮色，整个乌布河谷的景色尽收眼底，绝对是「喝咖啡、赏风景」的绝佳地点。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e6567ad4ac82156d8ce30a9c60feb578.jpg)
+![第三天：穿梭于自然灵性与市井喧嚣之间](https://images.gobaligo.id/vocus/vocus_e6567ad4ac82156d8ce30a9c60feb578.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_37891f30f3e1e93406a35d99756c09cd.jpg)
+![第三天：穿梭于自然灵性与市井喧嚣之间](https://images.gobaligo.id/vocus/vocus_37891f30f3e1e93406a35d99756c09cd.jpg)
 
 > **快速参考：**[【乌布美食+美景推荐】Taman Dedari 仙女公园](/blog/taman-dedari-ubud-food-scenery/)
 
@@ -181,25 +181,25 @@ ATV 我觉得老人和7岁以下不适合，太刺激怕会掉下来😄
 
 今天要从文化中心的乌布转移到热闹的库塔海滨。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780206389-49112982.jpg)
+![第六天：告别乌布，拥抱库塔的海岸风情](https://images.gobaligo.id/images/2026-03/1774780206389-49112982.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780207164-115642639.jpg)
+![第六天：告别乌布，拥抱库塔的海岸风情](https://images.gobaligo.id/images/2026-03/1774780207164-115642639.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780207536-115681714.jpg)
+![第六天：告别乌布，拥抱库塔的海岸风情](https://images.gobaligo.id/images/2026-03/1774780207536-115681714.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780207954-116841359.jpg)
+![第六天：告别乌布，拥抱库塔的海岸风情](https://images.gobaligo.id/images/2026-03/1774780207954-116841359.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780208361-120634515.jpg)
+![第六天：告别乌布，拥抱库塔的海岸风情](https://images.gobaligo.id/images/2026-03/1774780208361-120634515.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780208721-195261402.jpg)
+![第六天：告别乌布，拥抱库塔的海岸风情](https://images.gobaligo.id/images/2026-03/1774780208721-195261402.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780209040-195261448.jpg)
+![第六天：告别乌布，拥抱库塔的海岸风情](https://images.gobaligo.id/images/2026-03/1774780209040-195261448.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780209486-195404224.jpg)
+![第六天：告别乌布，拥抱库塔的海岸风情](https://images.gobaligo.id/images/2026-03/1774780209486-195404224.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780209848-195404320.jpg)
+![第六天：告别乌布，拥抱库塔的海岸风情](https://images.gobaligo.id/images/2026-03/1774780209848-195404320.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780210178-574173017.jpg)
+![第六天：告别乌布，拥抱库塔的海岸风情](https://images.gobaligo.id/images/2026-03/1774780210178-574173017.jpg)
 
 我们入住【2025 Agoda旅人鉴赏优胜】的库塔酒店 Amnaya Resort
 
@@ -235,7 +235,7 @@ ATV 我觉得老人和7岁以下不适合，太刺激怕会掉下来😄
 
 ## **旅程备忘录与实用建议**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2a859b507a199d6500bc5d3d47023c43.png)
+![旅程备忘录与实用建议](https://images.gobaligo.id/vocus/vocus_2a859b507a199d6500bc5d3d47023c43.png)
 
 根据这次的亲身体验，我们总结了以下几点小诀窍，供未来计划前往的朋友参考：
 
@@ -272,7 +272,7 @@ https://youtu.be/mx2zwlUovew
 
 您觉得[林恐龙](https://www.facebook.com/share/p/1DMYqVwzhq/)他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![雨季旅游心得](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 点击这里观看更多巴厘岛精彩游记
 

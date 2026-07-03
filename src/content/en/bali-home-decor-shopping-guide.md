@@ -34,20 +34,20 @@ lang: en
 _srcHash: 56ff22384070d65e9bc5a1dd511e7722
 ---
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776061962467-mixcollage-13-apr-2026-01-25-pm-4838.jpg)
+![【Bali Home Decor Treasures】Seashell Chandeliers Under $32! S](https://images.gobaligo.id/images/2026-04/1776061962467-mixcollage-13-apr-2026-01-25-pm-4838.jpg)
 
 > Shared by Facebook group member Huang Yu-Ning | Really only available here!
 
 When in Bali, besides lounging in villas and sightseeing, **the most worthwhile thing to do**—
 is hauling back a whole box of home decor and crafts! 🎁
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776062071750-mixcollage-13-apr-2026-01-27-pm-5893.jpg)
+![【Bali Home Decor Treasures】Seashell Chandeliers Under $32! S](https://images.gobaligo.id/images/2026-04/1776062071750-mixcollage-13-apr-2026-01-27-pm-5893.jpg)
 
 These shops **aren't in tourist areas**, known only to insiders.
 **Prices are super affordable**, half of tourist spots, and **you can bargain**!
 (Thanks to my driver for helping me score great deals 🥰)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776062185728-mixcollage-13-apr-2026-01-29-pm-2344.jpg)
+![【Bali Home Decor Treasures】Seashell Chandeliers Under $32! S](https://images.gobaligo.id/images/2026-04/1776062185728-mixcollage-13-apr-2026-01-29-pm-2344.jpg)
 
 {{block:包車}}
 
@@ -58,7 +58,7 @@ Packed **flat**, super easy to bring back.
 Each **under $32**⋯⋯
 Now I'm wondering why I didn't buy another suitcase to bring more back haha~
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776062138927-mixcollage-13-apr-2026-01-31-pm-5074.jpg)
+![Must-Buy Highlight: Seashell Chandeliers](https://images.gobaligo.id/images/2026-04/1776062138927-mixcollage-13-apr-2026-01-31-pm-5074.jpg)
 
 Now my room is fully Bali-style,
 every day feels like I'm still staying in a villa🌿

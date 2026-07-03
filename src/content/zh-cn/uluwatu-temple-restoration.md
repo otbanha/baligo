@@ -22,9 +22,9 @@ _srcHash: c5a96100277e15739b98f26c07b3b98a
 ---
 最近有去游览 **巴厘岛知名景点——乌鲁瓦图庙（Pura Luhur Uluwatu）** 的朋友们，一定注意到支撑庙体的悬崖正在进行一系列的施工。这座拥有千年历史的神圣寺庙，坐落于 **70 米高的悬崖顶端**，不仅是当地宗教信仰的重要象征，更是吸引全球旅客的绝美景点。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f2702453d13f4f8d935ff2119beb4ab.jpg)
+![拯救乌鲁瓦图庙：历史性修复工程即将完成](https://images.gobaligo.id/vocus/vocus_4f2702453d13f4f8d935ff2119beb4ab.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2fb345962fe3405edfa541170dd85eb9.jpg)
+![拯救乌鲁瓦图庙：历史性修复工程即将完成](https://images.gobaligo.id/vocus/vocus_2fb345962fe3405edfa541170dd85eb9.jpg)
 
 然而，近年来专家发现 **悬崖结构存在重大裂缝**，引发人们担忧其是否会崩塌，导致寺庙受到毁损。政府与工程专家团队已全面展开加固与修复工程，并计划于 **2025 年 2 月** 前完工，以确保这座文化遗产的安全与永续发展。
 
@@ -84,7 +84,7 @@ _srcHash: c5a96100277e15739b98f26c07b3b98a
 
 ## **结论：乌鲁瓦图庙的未来**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_63da293a2e7ca055c3aa81845d8a3e2e.jpg)
+![结论：乌鲁瓦图庙的未来](https://images.gobaligo.id/vocus/vocus_63da293a2e7ca055c3aa81845d8a3e2e.jpg)
 
 尽管该工程面临 **诸多挑战与争议**，巴厘岛政府与专家团队仍积极推动修复计划，以确保 **乌鲁瓦图庙的结构安全**。这不仅攸关宗教与文化遗产的保存，也对 **当地旅游业的永续发展** 产生深远影响。
 
@@ -116,7 +116,7 @@ _srcHash: c5a96100277e15739b98f26c07b3b98a
 
 ## 更多乌鲁瓦图吃喝玩乐介绍
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
+![更多乌鲁瓦图吃喝玩乐介绍](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
 [乌鲁瓦图吃喝玩乐推荐](/blog/uluwatu-guide/)
 

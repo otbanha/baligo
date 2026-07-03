@@ -28,7 +28,7 @@ _srcHash: a95eee94e24978fa8b2f66f93d6d1a7e
 
 Kleo Seminyak adalah properti pertama dari brand JdV by Hyatt di Asia Tenggara, mulai beroperasi Juli 2025. Berlokasi di kawasan Seminyak yang super hidup, hotel ini langsung jadi salah satu akomodasi paling hits di sana.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bd8bb7aac4749701f20259e706c43985.jpg)
+![【Hyatt JdV Hadir di Bali】Hotel Baru Juli 2025 – Kleo Seminya](https://images.gobaligo.id/vocus/vocus_bd8bb7aac4749701f20259e706c43985.jpg)
 
 **JdV by Hyatt** adalah brand hotel lifestyle butik di bawah Hyatt Hotels Corporation. Nama lengkapnya dari bahasa Prancis **“Joie de Vivre”**, artinya 'kegembiraan hidup'.
 
@@ -47,18 +47,18 @@ Kleo Seminyak mengusung konsep 'butik resort + social space', dengan fasilitas:
 - **Kolam Renang Atap & Rooftop Social Bar**: Sambil berenang, kamu bisa menikmati pemandangan laut saat matahari terbenam. Malam harinya, tempat ini cocok banget buat ngumpul sambil minum-minum.
 - **Zia Tina Italian Restaurant**: Dikepalai oleh koki asli dari Puglia, Italia, menyajikan pasta handmade, pizza tipis renyah, dan hidangan kreatif yang memadukan bahan lokal.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b3fc6b14ff3ead56f8834ff3b650b5f.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_ee29eddb089fdceecbd2be36297332d7.jpg)
+![Fasilitas](https://images.gobaligo.id/vocus/vocus_9b3fc6b14ff3ead56f8834ff3b650b5f.jpg)
+![Fasilitas](https://images.gobaligo.id/vocus/vocus_ee29eddb089fdceecbd2be36297332d7.jpg)
 
 - **Gym & Spa**: Cocok buat kamu yang tetap ingin olahraga atau relaksasi selama liburan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_427a513c20ffd59336421ba5d1987b39.jpg)
+![Fasilitas](https://images.gobaligo.id/vocus/vocus_427a513c20ffd59336421ba5d1987b39.jpg)
 
 - **Resepsionis 24 jam, Wi-Fi gratis, layanan antar-jemput bandara (berbayar), dan tempat tidur bayi (tersedia berdasarkan permintaan)**.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_328133ed79128721a1ea2b1f14673ea4.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_65a950a2a300de31f8f988df159d8bfa.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_332472681811b4af5964fef2e8334dd9.jpg)
+![Fasilitas](https://images.gobaligo.id/vocus/vocus_328133ed79128721a1ea2b1f14673ea4.jpg)
+![Fasilitas](https://images.gobaligo.id/vocus/vocus_65a950a2a300de31f8f988df159d8bfa.jpg)
+![Fasilitas](https://images.gobaligo.id/vocus/vocus_332472681811b4af5964fef2e8334dd9.jpg)
 
 
 ## 🛏 Kamar
@@ -69,12 +69,12 @@ Total ada sekitar 60 kamar dengan desain mid-century modern yang berani, dipaduk
 - Kamar mandi luas dengan perlengkapan mandi berkualitas
 - Beberapa tipe kamar punya balkon dengan pemandangan kolam renang atau jalanan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ee5b2ea08566ad96e76a572749291871.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_e258f4710790cab4e04ebf1bd24f6969.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_d06dc8f7e6b94245662bf6c6aba37078.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_3f43fe2b2a72a4e9b7fc9934ea27d3d4.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_f5be7d35b44eda0f63d6c357a45b8ee9.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_25555c4e531b726d2311500f44da1e44.jpg)
+![Kamar](https://images.gobaligo.id/vocus/vocus_ee5b2ea08566ad96e76a572749291871.jpg)
+![Kamar](https://images.gobaligo.id/vocus/vocus_e258f4710790cab4e04ebf1bd24f6969.jpg)
+![Kamar](https://images.gobaligo.id/vocus/vocus_d06dc8f7e6b94245662bf6c6aba37078.jpg)
+![Kamar](https://images.gobaligo.id/vocus/vocus_3f43fe2b2a72a4e9b7fc9934ea27d3d4.jpg)
+![Kamar](https://images.gobaligo.id/vocus/vocus_f5be7d35b44eda0f63d6c357a45b8ee9.jpg)
+![Kamar](https://images.gobaligo.id/vocus/vocus_25555c4e531b726d2311500f44da1e44.jpg)
 
 > ▶[**Cek Ketersediaan & Harga Kamar Kleo Seminyak**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2419197) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=10163270&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6z8zFJMEk9YKZ48Gs_dPZhBiNDKYwWzTrOFaLrHN_KNDp4JkGAiF9DgE8MxiPrXjDsoKRcSMjUK5KhC_VYQcj0wnGmcoLmJrenRU9xcLM0cd2ieUrU3S1UnZqpZKViY5SSWZJTqqSldKzOb1Pu2e-2LRbSUcpJbU4GSgEZCXm5pfmlQDZJoYGegYGQJGSxArPFCUrcx2l5MSc5NKcxJLUkMoCoAlmOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlhQyQ9oTBFUIDM_D6LdAEUsLDGnNBXiBKCFbqlQO4xrdTBd_nTRvKcNe56vaMXucmNzIxSXmwyIyw1rYx-xMEXHfmJh-MXC0MTK0MXKMImVmWOm8i5WniBzX6fIMF1D3ShdQyl5QwMDA1NDY1NTXYNESwtjo0QLXRNLE2MDS11jMzMDS42tx9bMempsZC3FOuXA82nsCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9hMDYxNHF2jbLiYQ4NdBAttua4vNpB2kGIOCXdRXHmTee2BCafttZg9XYIM7_1nydVWtrQPtPgixv_ecoF9JEw-ibUqQzckPKNXvICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANzjES3bAgAA&masterhotelid_tracelogid=100051355-0a9832a8-494309-36609&detailFilters=17|1~17~1*31|10163270~31~10163270*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=448&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/3Xxi1GpI)
 

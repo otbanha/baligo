@@ -17,7 +17,7 @@ lang: zh-cn
 _srcHash: 67c5b69a4535e8c0b128e06fc9703ab7
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1dc67621e6338385b170b597a9c2822a.jpg)
+![努沙杜瓦/南湾美食推荐│巴厘岛必吃猪肋排│鸡肉咖喱超赞│Ketut's BBQ Kitchen](https://images.gobaligo.id/vocus/vocus_1dc67621e6338385b170b597a9c2822a.jpg)
 
 这家餐厅是TripAdvisor网友评鉴南湾区美食餐厅第九名哦！
 

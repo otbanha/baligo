@@ -22,7 +22,7 @@ _srcHash: 3d7a3b82e63aa50696b61b70a062841b
 
 ## **Gojek 係咩？**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1f4958d2598d7d48eed642e73e1e4321.jpg)
+![Gojek 係咩？](https://images.gobaligo.id/vocus/vocus_1f4958d2598d7d48eed642e73e1e4321.jpg)
 
 **Gojek**起源於印尼，係一個涵蓋廣泛服務嘅超級應用程式，提供由**電單車同汽車叫車服務**、**外賣**、**快遞**到**家政服務**等多項功能。最早，Gojek只係作為一個電單車的士平台（稱為“Gojek”），而家佢已經發展成為印尼人民日常生活中不可或缺嘅工具。
 
@@ -41,7 +41,7 @@ Gojek嘅每一項服務都旨在為用戶提供便利，尤其係嗰啲日程繁
 
 ## **GoPay 是什麼？**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_266f68e9481da62f1e5b062c15fa8123.jpg)
+![GoPay 是什麼？](https://images.gobaligo.id/vocus/vocus_266f68e9481da62f1e5b062c15fa8123.jpg)
 
 作為Gojek嘅電子錢包系統，**GoPay**讓用戶可以透過手機進行安全又方便嘅支付。無論係支付Gojek平台內嘅服務費用，定係進行線上、線下購物支付，GoPay都可以令交易更加無縫。
 

@@ -18,7 +18,7 @@ _srcHash: 2d202f88c4914fe6f66099c1deda6bab
 
 ## 峇里島日落時間
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_231febd4ab153a9d1e05dfaf75ce3f24.png)
+![峇里島日落時間](https://images.gobaligo.id/vocus/vocus_231febd4ab153a9d1e05dfaf75ce3f24.png)
 
 峇里島嘅日落時間會隨住季節變化，一般嚟講喺當地時間下晝6:00到6:45之間。由於峇里島鄰近赤道，所以日落時間嘅變化比較細。又因為峇里島身處赤道以南嘅特性，令到日落時間喺十二月、一月嘅時候會稍微遲一啲。要查詢特定日期嘅精確日落時間，可以用天氣網站或者應用程式提供嘅日出日落時間。
 

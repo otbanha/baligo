@@ -36,7 +36,7 @@ _srcHash: b219fa34fb319e8bcc27c7c9d4aa582d
 
 Dear Bali enthusiasts, does the thought of traveling from the airport to Canggu conjure up images of being stuck in endless traffic? Great news! The Indonesian government has officially announced the construction of a 'Water Taxi' route directly from **Ngurah Rai International Airport** to **Canggu**, promising to avoid the frustrating land traffic, **reaching your destination in just 30 minutes**!
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775968380470-water-taxi-di-bali-hotel-bali-batiqa-hotels_ts6wi.jpg)
+![Bali Transportation Solution? Airport to Canggu 'Water Taxi'](https://images.gobaligo.id/images/2026-04/1775968380470-water-taxi-di-bali-hotel-bali-batiqa-hotels_ts6wi.jpg)
 
 ## 🚤 Why Build This Waterway?
 
@@ -61,7 +61,7 @@ Until the water taxi service launches, the most reliable way to get from the air
 
 {{block:包車}}
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775968411674-pelindo.jpeg)
+![Current Best Alternative: Private Transfers](https://images.gobaligo.id/images/2026-04/1775968411674-pelindo.jpeg)
 
 ***
 

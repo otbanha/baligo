@@ -21,7 +21,7 @@ _srcHash: 37055e34ac72ef21dbbd1163a1f55043
 
 去年底，印尼政府原本计划在巴厘岛南部的几个热门旅游区，像是坎古、乌鲁瓦图、库塔、雷吉安、水明漾和努沙杜瓦等地，[禁止新建酒店、海滩俱乐部和其他旅游相关设施](/blog/bali-hotel-construction-ban/)。不过，即将连任上任的巴厘岛省长瓦扬·科斯特（Wayan Koster）最近公开表示，**他不会执行这项禁令**。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5912b3283e6ebf4f0e8a8eefd1896b05.png)
+![巴厘岛新政策转向：省长拒绝实施旅游开发禁令](https://images.gobaligo.id/vocus/vocus_5912b3283e6ebf4f0e8a8eefd1896b05.png)
 
 ### 为什么会有这个禁令？
 
@@ -51,7 +51,7 @@ _srcHash: 37055e34ac72ef21dbbd1163a1f55043
 
 ### 未来会怎么样？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7325c0c5d1f9e4f57fb207e86a712a4b.png)
+![未来会怎么样？](https://images.gobaligo.id/vocus/vocus_7325c0c5d1f9e4f57fb207e86a712a4b.png)
 
 现在，禁令被取消了，巴厘岛的旅游业会怎么发展，还是一个大问号。科斯特省长的想法是通过加强现有法规来管理旅游业，而不是直接禁止新建设施。不过，如何在经济发展和环境保护之间找到平衡，仍然是巴厘岛面临的最大挑战。
 
@@ -59,7 +59,7 @@ _srcHash: 37055e34ac72ef21dbbd1163a1f55043
 
 ## 📩 **立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **通过免费订阅，你将获得：**
 

@@ -29,7 +29,7 @@ Besakih寺廟係峇里島最神聖嘅宗教聖地，政府計劃喺2026年開始
 
 ## 3. **Turyapada塔建設**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9ef21eaffced56df44feef966df44d3c.jpg)
+![3. Turyapada塔建設](https://images.gobaligo.id/vocus/vocus_9ef21eaffced56df44feef966df44d3c.jpg)
 
 預計喺2026年中完工嘅Turyapada塔，將會成為新嘅地標，提升峇里島嘅通訊同廣播覆蓋範圍，並促進周邊地區嘅經濟發展。
 
@@ -59,7 +59,7 @@ Besakih寺廟係峇里島最神聖嘅宗教聖地，政府計劃喺2026年開始
 
 南峇里島環狀線（JLS）計劃預計會沿住峇里島南部半島嘅東、南、西側興建，總長約36.5公里。呢個計劃旨在改善峇里島南部嘅交通狀況，紓緩主要道路嘅擠塞問題，並提升區域之間嘅連接效率。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_72f78e28f3bd99c5de7b3888a31b57cf.jpg)
+![9. 南峇里島環狀線計劃](https://images.gobaligo.id/vocus/vocus_72f78e28f3bd99c5de7b3888a31b57cf.jpg)
 
 支持者呼籲將呢個計劃列為「國家戰略項目」（PSN），以獲得中央政府嘅資金支持。2022年3月29日，峇里省公共工程與住房局（PUPR）局長IB Surya Suamba證實，巴東縣長I Nyoman Giri Prasta已經簽署書面建議，將原定以公私合夥模式進行嘅計劃改為國家戰略項目。呢個建議已經提交畀國家發展規劃部（Bappenas），如果獲批准，中央政府將會承擔全額費用。
 
@@ -74,7 +74,7 @@ Besakih寺廟係峇里島最神聖嘅宗教聖地，政府計劃喺2026年開始
 
 ## 10. **Gilimanuk-Mengwi高速公路與南峇里地鐵**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7302d77149a17f404dbbd2b8322bd71b.jpg)
+![10. Gilimanuk-Mengwi高速公路與南峇里地鐵](https://images.gobaligo.id/vocus/vocus_7302d77149a17f404dbbd2b8322bd71b.jpg)
 
 Gilimanuk-Mengwi高速公路計劃將會繼續推進，並會新增南峇里地鐵系統，進一步提升南部旅遊熱點嘅交通便利性，減少車流壓力。
 

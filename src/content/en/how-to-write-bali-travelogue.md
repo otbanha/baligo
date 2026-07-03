@@ -21,7 +21,7 @@ _srcHash: 3ceaf3d3130598bb291a0f42f004669b
 
 Have you ever sought advice in Facebook groups like [[Bali/Indonesia Food, Fun & Travel](https://www.facebook.com/groups/indonesia.travelguide/)] or [[Go Bali Go Bali Travel](https://www.facebook.com/groups/baligo/)], or referenced the over 40 travelogues collected on this blog? This information has undoubtedly provided significant help in planning your trip.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e6aacccee7d013aa323bc47900aea7e1.png)
+![How to Write an Amazing Bali Travelogue](https://images.gobaligo.id/vocus/vocus_e6aacccee7d013aa323bc47900aea7e1.png)
 
 Now, would you like to contribute your own amazing travelogue? Your selfless contribution will help many more travelers heading to Bali!
 
@@ -39,7 +39,7 @@ Before you start writing, you can share why you chose to travel to Bali. Was it 
 
 ## **2. Pre-Trip Preparation**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_60272d510a19f0660d0f87d9ac0c7ef5.png)
+![2. Pre-Trip Preparation](https://images.gobaligo.id/vocus/vocus_60272d510a19f0660d0f87d9ac0c7ef5.png)
 
 Before heading to Bali, what preparations did you make? Could you share your pre-trip guide, including flight and hotel bookings, itinerary planning, visa arrangements, and packing tips? This information can help other travelers preparing for their Bali trip.
 
@@ -51,7 +51,7 @@ Before heading to Bali, what preparations did you make? Could you share your pre
 
 ## **3. Daily Itinerary**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f69316f2cf96c7f3a04f4f9266deefa1.png)
+![3. Daily Itinerary](https://images.gobaligo.id/vocus/vocus_f69316f2cf96c7f3a04f4f9266deefa1.png)
 
 This is the highlight of your travelogue. You can write based on your daily itinerary. For each day, you can detail:
 
@@ -68,7 +68,7 @@ This is the highlight of your travelogue. You can write based on your daily itin
 
 ## **4. Driver Recommendation**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_561337d8175ccbadeeef76b67d4d97f2.png)
+![4. Driver Recommendation](https://images.gobaligo.id/vocus/vocus_561337d8175ccbadeeef76b67d4d97f2.png)
 
 If you hired a private driver during your stay in Bali, you can share your recommendation. Introduce the driver's service attitude, driving skills, and pricing.
 
@@ -80,7 +80,7 @@ If you hired a private driver during your stay in Bali, you can share your recom
 
 ## **5. Travel Reflections**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a577f9bc0d5c02c673874a6c29404c4.png)
+![5. Travel Reflections](https://images.gobaligo.id/vocus/vocus_9a577f9bc0d5c02c673874a6c29404c4.png)
 
 At the end of your travelogue, you can share your overall feelings about your trip to Bali. What did you gain? What experiences and lessons are worth sharing? Your insights will help other travelers better plan their Bali adventures.
 
@@ -92,7 +92,7 @@ At the end of your travelogue, you can share your overall feelings about your tr
 
 ## **Here are some additional suggestions:**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c391482abfdb4919d7749336f8e8589a.png)
+![Here are some additional suggestions:](https://images.gobaligo.id/vocus/vocus_c391482abfdb4919d7749336f8e8589a.png)
 
 - Use images and videos to enrich your travelogue.
 - Keep the article concise and readable.

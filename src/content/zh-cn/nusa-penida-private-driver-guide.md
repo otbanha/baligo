@@ -19,7 +19,7 @@ _srcHash: 0d703b4444cb6ed9576c9ba48ed2efb7
 
 想去佩尼达岛自由行却担心交通安排？其实，大多数游客会选择由**巴厘岛本岛的包车司机**协助规划行程。本篇帮你了解佩尼达岛包车的方式、推荐做法与注意事项。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6346fb2575580dc3cc5c5a5c8fd584b9.jpg)
+![佩尼达岛包车司机怎么选？｜旅人实用推荐包车与安排方式](https://images.gobaligo.id/vocus/vocus_6346fb2575580dc3cc5c5a5c8fd584b9.jpg)
 
 ## 佩尼达岛可以自由行吗？
 
@@ -42,7 +42,7 @@ _srcHash: 0d703b4444cb6ed9576c9ba48ed2efb7
 
 不需要自己找司机，除非你熟悉当地语言或旅游模式。多数巴厘岛本岛司机都有稳定合作的佩尼达岛司机，专业且懂得怎么带旅客避开人潮。也会协助翻译与时间安排，让你玩得更安心。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_787038b9a39f629e9ca2d266a53c3bad.jpg)
+![是否需要额外联系佩尼达岛当地司机？](https://images.gobaligo.id/vocus/vocus_787038b9a39f629e9ca2d266a53c3bad.jpg)
 
 ## 找巴厘岛包车司机安排的理由
 
@@ -77,7 +77,7 @@ Klook 不仅提供一日游与多日行程选项，还有一些方案是**包含
 4. [佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/blog/nusa-penida-transport-guide/)
 5. [13间从奢华到平价的 Nusa Penida 好评住宿](/blog/nusa-penida-hotels-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0cb95fce009e6a0b11e1c5639d83ec4d.jpg)
+![佩尼达岛完整攻略](https://images.gobaligo.id/vocus/vocus_0cb95fce009e6a0b11e1c5639d83ec4d.jpg)
 
 ---
 

@@ -29,7 +29,7 @@ _srcHash: fcd56b6d80589ef4d70fb2f9a47b7f9b
 
 在出发前，最好先上[外交部领事事务局的官方网站](https://www.boca.gov.tw/sp-foof-countrycp-03-12-c23b0-02-1.html)查询自己要携带的药物在当地是否合法。另外，如果确实需要携带特殊药物，也建议事先咨询当地医生或大使馆，以确保遵守当地法律法规，避免不必要的麻烦和延误。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc8a421dd3f00e888995468c395919ec.png)
+![携带安眠药/特殊处方药物前往印尼/巴厘岛的重要注意事项](https://images.gobaligo.id/vocus/vocus_cc8a421dd3f00e888995468c395919ec.png)
 
 预订、省钱就看这里：
 

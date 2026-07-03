@@ -50,7 +50,7 @@ Lewat pembelajaran interaktif dan pertunjukan hewan yang seru, anak-anak bisa ke
 
 ## 🏨  Nginep di Kebun Binatang: Pengalaman Seru di Mara River Safari Lodge
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_48a0d20a925461edf1ebf06084a8e220.jpg)
+![Nginep di Kebun Binatang: Pengalaman Seru di Mara River Safa](https://images.gobaligo.id/vocus/vocus_48a0d20a925461edf1ebf06084a8e220.jpg)
 
 ###  Pilihan Menginap: Kamar Keluarga KIFARA yang Luas dan Nyaman
 
@@ -66,7 +66,7 @@ Keuntungan terbesar nginep di Mara River Safari Lodge adalah bisa menikmati bany
 - Gratis buat tamu hotel, tamu一日游 kena biaya tambahan
   **Deket-deketan dengan Gajah**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_23dd2debd50dce6286f3bac4b38e501a.jpg)
+![Keuntungan Eksklusif: Interaksi dengan Hewan Khusus Tamu Hot](https://images.gobaligo.id/vocus/vocus_23dd2debd50dce6286f3bac4b38e501a.jpg)
 
 - Pas lagi renang, bisa aja ketemu gajah jaga yang lagi bawa tamu jalan ke arah kamu
 - Hotel kasih sekeranjang buah (apel, mangga, pisang) buat kasih makan gajah
@@ -82,7 +82,7 @@ Keuntungan terbesar nginep di Mara River Safari Lodge adalah bisa menikmati bany
 
 ###  Pengalaman Safari Malam
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5fa7bf128755b8b15e16f9d8430efba7.jpg)
+![Pengalaman Safari Malam](https://images.gobaligo.id/vocus/vocus_5fa7bf128755b8b15e16f9d8430efba7.jpg)
 
 Taman ini punya paket malam **Night Safari**, termasuk:
 
@@ -98,7 +98,7 @@ Taman ini punya paket malam **Night Safari**, termasuk:
 
 ## 🗓️ Rencana Perjalanan Sempurna
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4003d7d14e61bfa23fdb225e3da15ed8.jpg)
+![Rencana Perjalanan Sempurna](https://images.gobaligo.id/vocus/vocus_4003d7d14e61bfa23fdb225e3da15ed8.jpg)
 
 ### Pertunjukan & Aktivitas Wajib Ditonton
 
@@ -119,13 +119,13 @@ Taman ini punya paket malam **Night Safari**, termasuk:
 
 ## 🐘 Rekomendasi Aktivitas untuk Semua Usia
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_82a2a745225e95c372e193f37e56fa60.jpg)
+![Rekomendasi Aktivitas untuk Semua Usia](https://images.gobaligo.id/vocus/vocus_82a2a745225e95c372e193f37e56fa60.jpg)
 
 ### Rekomendasi Aktivitas Berdasarkan Usia
 
 **Rekomendasi Aktivitas Berdasarkan Usia**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4b09794f279b554fc896f533c28236c9.jpg)
+![Rekomendasi Aktivitas Berdasarkan Usia](https://images.gobaligo.id/vocus/vocus_4b09794f279b554fc896f533c28236c9.jpg)
 
 **2-4 Tahun**
 
@@ -141,7 +141,7 @@ Bali Agung Show, Tiger Show
 
 **1. Safari Journey (Naik Bus Keliling)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0f0fe4668967c56fac9ce5a18e2c3664.jpg)
+![Aktivitas Wajib Coba](https://images.gobaligo.id/vocus/vocus_0f0fe4668967c56fac9ce5a18e2c3664.jpg)
 
 - Aktivitas andalan taman — naik Safari Bus ber-AC buat lihat sebagian besar hewan di taman
 - Lihat jerapah, zebra, singa, dan satwa liar lainnya dari jarak aman dan dekat
@@ -166,7 +166,7 @@ Bali Agung Show, Tiger Show
 
 - Area taman nggak terlalu gede, bisa santai keliling semua spot utama dalam dua hari
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0c1629a05b76a6ff80f296309e982fd1.jpg)
+![Saran Itinerary](https://images.gobaligo.id/vocus/vocus_0c1629a05b76a6ff80f296309e982fd1.jpg)
 
 - Manfaatin pass dua hari buat tamu hotel, atur waktu nonton show dan istirahat dengan baik
 

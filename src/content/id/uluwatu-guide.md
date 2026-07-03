@@ -16,7 +16,7 @@ lang: id
 _srcHash: cf22cf6e073a478fb4ad6d20632307a3
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f125d4fe43a2ab601b5eee023689000a.jpg)
+![【Uluwatu攻略】50 Rekomendasi Tempat Makan, Minum, dan Main di U](https://images.gobaligo.id/vocus/vocus_f125d4fe43a2ab601b5eee023689000a.jpg)
 
 Uluwatu terletak di ujung selatan Bali, wilayahnya luas banget — seluruh area selatan Bali bisa disebut Uluwatu. Nama Uluwatu unik banget: 'Ulu' artinya 'ujung daratan', sedangkan 'Watu' berarti 'batu'. Karena sebagian besar terdiri dari bebatuan, topografi Uluwatu sangat bervariasi dan terjal — ini adalah area yang terbentuk dari tebing laut raksasa, dengan banyak perbukitan dan bukit kecil.
 
@@ -24,7 +24,7 @@ Uluwatu terkenal dengan pemandangan tebing yang spektakuler, banyak hidden beach
 
 Ini dia rekomendasi tempat wajib dikunjungi pas liburan di Uluwatu:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f2bf46c2ae5b8af8d849b77c261cfcf2.png)
+![【Uluwatu攻略】50 Rekomendasi Tempat Makan, Minum, dan Main di U](https://images.gobaligo.id/vocus/vocus_f2bf46c2ae5b8af8d849b77c261cfcf2.png)
 
 ## Tempat Wajib Dikunjungi di Uluwatu
 
@@ -58,7 +58,7 @@ Klook punya 4 paket tur sehari ke pantai-pantai rahasia di Uluwatu yang bisa dii
 
 ### Pura Uluwatu (📌[Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_73f1698ba36e1b9c8e46a30af016165b.jpg)
+![Pura Uluwatu (Lokasi di Peta)](https://images.gobaligo.id/vocus/vocus_73f1698ba36e1b9c8e46a30af016165b.jpg)
 
 Pura Uluwatu (Uluwatu Temple) adalah salah satu pura tepi laut paling terkenal di Bali, terletak di tebing tinggi di kawasan Uluwatu dengan pemandangan Samudra Hindia yang spektakuler. Pura ini dibangun pada abad ke-11 dan termasuk pura tertua di Bali. Selain nilai religiusnya, Pura Uluwatu juga terkenal dengan pemandangan sunset di tebingnya yang dramatis — setiap sore banyak wisatawan datang buat menikmatinya.
 
@@ -68,7 +68,7 @@ Penjelasan lengkapnya bisa cek [Panduan Wisata Pura Uluwatu / Tebing Cinta: High
 
 ### Tari Kecak Api Kecak Fire Dance (📌[Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9bb712068745724f248cc567be7b531d.jpg)
+![Tari Kecak Api Kecak Fire Dance (Peta Lokasi)](https://images.gobaligo.id/vocus/vocus_9bb712068745724f248cc567be7b531d.jpg)
 
 「Tari Kecak Api」 ini intinya menceritakan salah satu bagian dari epos Ramayana, yaitu pertarungan antara Raja Kera dan raksasa. Dengan api yang menyala-nyala dan kostum warna-warni, bikin mata terpana banget! Buat yang penasaran sama pertunjukan Hindu yang terkenal ini, bisa [klik di sini](/blog/kecak-fire-dance-bali/), kami udah pernah bahas detail. Pertunjukan ini hampir semua yang nonton bilang worth it banget!
 
@@ -82,7 +82,7 @@ Buat kamu yang pengen nonton pertunjukan tari api, bisa cek paket wisata populer
 
 ### Balangan Viewpoint (📌[Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a8d6822261073280c90836feccfdebd6.jpg)
+![Balangan Viewpoint (Peta Lokasi)](https://images.gobaligo.id/vocus/vocus_a8d6822261073280c90836feccfdebd6.jpg)
 
 Balangan cliff sunset point adalah tempat yang mempesona, terkenal dengan pemandangan tepi laut yang spektakuler. Ini adalah salah satu spot terbaik untuk menikmati sunset di Bali. Kamu bisa melihat matahari perlahan tenggelam ke cakrawala laut dari tebing, meninggalkan pemandangan yang tak terlupakan. Selain itu, kamu juga bisa menikmati jalan-jalan di bebatuan, merasakan keindahan alam, atau sekadar bersantai di pantai.
 
@@ -90,7 +90,7 @@ Tempat ini juga jadi lokasi favorit untuk foto prewedding, banyak pasangan yang 
 
 ### Oneeighty Day Club (📌[Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_44e74ce8b0647d69768d007cb4a8c9c4.jpg)
+![Oneeighty Day Club (Peta Lokasi)](https://images.gobaligo.id/vocus/vocus_44e74ce8b0647d69768d007cb4a8c9c4.jpg)
 
 Gimana rasanya berdiri di atas tebing setinggi 162 meter?
 
@@ -104,7 +104,7 @@ Video perkenalan Jie
 
 ### Pandawa Beach / Tebing Tanah Barak / Jalan Biru (📌[Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e249047f24fcaf820748a7f940fc9d01.jpg)
+![Pandawa Beach / Tebing Tanah Barak / Jalan Biru (Peta Lokasi](https://images.gobaligo.id/vocus/vocus_e249047f24fcaf820748a7f940fc9d01.jpg)
 
 Pandawa Beach di Bali (ada juga yang nyebut Tanah Barak Cliff) adalah hidden gem yang lagi hits banget akhir-akhir ini. Pantai ini baru dibuka dan punya air laut biru kece serta bebatuan warna-warni yang bikin tempat ini unik. Selain pemandangan laut yang epik, jalannya juga dipahat langsung di tebing batu kapur raksasa — birunya laut di kejauhan, tebing-tebing tinggi di kiri kanan jalan, semuanya nyatu jadi visual yang super wow. Jarak Pandawa Beach dari bandara cuma sekitar 30 menit naik mobil, tapi masuknya bayar tiket. Buka setiap hari dari jam 6 pagi sampai jam 6 sore.
 
@@ -114,7 +114,7 @@ Ada panduan lengkap soal Jalan Biru Tebing ini di sini: </blog/batu-barak-cliff-
 
 ## Beach Club (📌[Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1f61b880151584d38425225bd478a00c.jpg)
+![Beach Club (Peta Lokasi)](https://images.gobaligo.id/vocus/vocus_1f61b880151584d38425225bd478a00c.jpg)
 
 Selain Oneeighty, beach club di Uluwatu jadi salah satu daya tarik utama di kawasan ini. Tempat-tempat ini kasih pengalaman santai di pantai yang nyaman dan stylish. Beach club ini ada di pinggir laut atau di bawah tebing Uluwatu, dengan pasir pantai yang warnanya goldish, berkilau kena sinar matahari. Tekstur pasirnya halus banget, enak dipijak, cocok banget buat jalan kaki tanpa alas atau main di pantai. Pengunjung bisa puas menikmati sinar matahari dan serunya pantai.
 
@@ -143,7 +143,7 @@ Ada juga beberapa yang punya kupon diskon, lho! Ini beberapa promo dari Klook:
 
 ### Beach Club Baru Buka 2025 (📌[Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6f087b868b59c7b3133b7951c608e6fa.jpg)
+![Beach Club Baru Buka 2025 (Peta Lokasi)](https://images.gobaligo.id/vocus/vocus_6f087b868b59c7b3133b7951c608e6fa.jpg)
 
 **KLive Beach Club** — spot hidden gem di pesisir selatan Bali! Pemandangan lautnya bikin speechless, sunset-nya unforgettable, cocok banget buat kamu yang cari tempat santai sekaligus petualangan seru.
 
@@ -157,7 +157,7 @@ Jangan lupa cobain makanan mereka — dari rasa sampai porsinya juara banget �
 
 ## 20 Rekomendasi Kuliner di Uluwatu (📌[Peta Lokasi & Info Lengkap](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0f39c8a8f3576316f187513658937f7b.jpg)
+![20 Rekomendasi Kuliner di Uluwatu (Peta Lokasi & Info Lengka](https://images.gobaligo.id/vocus/vocus_0f39c8a8f3576316f187513658937f7b.jpg)
 
 Jelajahi petualangan kuliner di Uluwatu! Dari restoran romantis di atas tebing hingga kafe santai di pinggir pantai, kami pilihkan sederet tempat makan unik dan bikin ngiler. Mau nikmatin pemandangan laut yang ciamik, atau nyobain makanan khas lokal di kursi outdoor yang nyaman, semua restoran ini siap memanjakan kamu. [Klik di sini](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing) buat lihat peta kuliner 15 rekomendasi Uluwatu versi kami, lengkap dengan info detail tiap tempat. Dijamin liburanmu di Bali makin seru dan penuh kenangan!
 
@@ -173,13 +173,13 @@ Surya Cafe di Suluban Beach, Bali, adalah kafe santai dengan pemandangan laut ya
 
 ### Malini Uluwatu(📌[Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f2bf3915729534d5f40cc569f713a94e.png)
+![Malini Uluwatu(Peta Lokasi)](https://images.gobaligo.id/vocus/vocus_f2bf3915729534d5f40cc569f713a94e.png)
 
 Restoran ini ada di tebing Uluwatu, menghadap langsung ke Samudra Hindia yang luas. Pemandangan sunset-nya juara banget, jadi tempat favorit buat dinner romantis.
 
 ### Voucher Diskon 20% Tsune Japanese Restaurant(📌[Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4d39e55a3359fd0ad27f8567b24da0dd.png)
+![Voucher Diskon 20% Tsune Japanese Restaurant(Peta Lokasi)](https://images.gobaligo.id/vocus/vocus_4d39e55a3359fd0ad27f8567b24da0dd.png)
 
 Tsune Uluwatu adalah restoran Jepang autentik yang tampilannya dan rasanya sama-sama bikin terpukau. Terletak di Uluwatu yang indah, dengan pemandangan spektakuler, tempat ini ideal buat kamu yang pengin santap dengan tenang dan penuh gaya.
 
@@ -187,13 +187,13 @@ Tsune Uluwatu adalah restoran Jepang autentik yang tampilannya dan rasanya sama-
 
 ### Rockfish at The Uluwatu — Restoran Goa Tanpa Minimum Pembelian (📌[Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d0b76dff6e6f6157a4f6b1d375d36dc3.jpg)
+![Rockfish at The Uluwatu — Restoran Goa Tanpa Minimum Pembeli](https://images.gobaligo.id/vocus/vocus_d0b76dff6e6f6157a4f6b1d375d36dc3.jpg)
 
 Rockfish di tebing Uluwatu ini menggabungkan desain industrial modern dengan pemandangan laut lepas Samudra Hindia yang megah. Tempat ini alternatif sempurna buat kamu yang ingin menghindari klub pantai terkenal yang penuh sesak. Keunggulan utama restoran ini adalah pelayanannya yang super ramah, **\*_tanpa minimum pembelian sama sekali_**, sesuatu yang langka di kawasan Uluwatu dengan view kelas satu. Kamu bisa santai masuk, **cukup pesan satu gelas air kelapa dingin, kopi spesial, atau minuman beralkohol**, lalu duduk di ruang semi-terbuka sambil menikmati ombak selancar yang spektakuler dan sunset cantik — tanpa tekanan harus pesan makanan berat. Tren aktivitas lokal tahun 2026 lebih condong ke pengalaman 'light travel' kayak gini. Rockfish sering ngadain diskon minuman Happy Hour di sore hari平日, cocok banget buat traveler budget terbatas atau yang cuma mau duduk santai sambil diterpa angin. Suasananya antara restoran kelas atas dan wine bar jalanan — tetap profesional dalam kualitas makanan, tapi super santai dan bebas. Tempat ini wajib masuk _hidden gem_ di **Bali** buat kamu yang ingin me time, lihat laut, atau bahkan bawa laptop kerja sambil nikmatin sinar matahari. Dengan harga yang ramah di kantong, kamu bisa dapetin pemandangan laut dan langit yang mewah banget.
 
 ### Uma Beach House — Kolam Renang Resort Bintang 5 Gratis (📌[Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_604bf04adc489428e669fb626bbf77fd.png)
+![Uma Beach House — Kolam Renang Resort Bintang 5 Gratis (Peta](https://images.gobaligo.id/vocus/vocus_604bf04adc489428e669fb626bbf77fd.png)
 
 Pesan satu kali makan, eh malah bisa gratis pakai kolam renang resort bintang 5 🏊 Hal kayak gini beneran ada di Bali, lho!
 
@@ -227,7 +227,7 @@ Selain fasilitas bermain reguler, bisa juga dipakai untuk pesta ulang tahun atau
 
 ## Belanja di Uluwatu (📌[Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1dc2f0c2149160f91de8e9b9aa544137.jpg)
+![Belanja di Uluwatu (Peta Lokasi)](https://images.gobaligo.id/vocus/vocus_1dc2f0c2149160f91de8e9b9aa544137.jpg)
 
 Suasana liburan pulau yang santai bikin Uluwatu punya beberapa butik berkualitas tinggi yang menjual semua kebutuhan pantai kamu—sebagian besar buatan lokal. Kamu bakal nemuin bikini buatan Bali dari ELCE, butik pakaian desainer The Find Bali, pakaian ala pulau dan laut dari Drifter, dan lain-lain.
 
@@ -235,7 +235,7 @@ Untuk lokasi toko-toko ini, cek "[Peta Panduan Uluwatu](https://www.google.com/m
 
 ### Pasar Akhir Pekan SUNDAZE ULUWATU MARKET (📌[Lokasi di Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_31780ca28b4ab70f84049322bda1a491.jpg)
+![Pasar Akhir Pekan SUNDAZE ULUWATU MARKET (Lokasi di Google M](https://images.gobaligo.id/vocus/vocus_31780ca28b4ab70f84049322bda1a491.jpg)
 
 SUNDAZE ULUWATU MARKET ada di ujung selatan Bali, tepatnya di Hatch Bali Uluwatu. Setiap hari Minggu dari jam 11 pagi sampai 6 sore, tempat ini berubah jadi pasar yang super hidup. Kamu bisa dengerin musisi akustik keren yang main live, cobain BBQ enak dari vendor lokal — mau cari barang unik atau sekadar ngemil, pasar ini tempat pas buat santai dan ngumpul sama teman-teman. Bener-bener bikin vibe akhir pekan di Uluwatu makin asik dan santai!
 
@@ -245,7 +245,7 @@ Baca juga: [【Edisi 2026】Empat Pasar Akhir Pekan di Bali yang Masih Jalan: Be
 
 ## Aktivitas di Uluwatu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_678bb4fb32a1ba904eeafae220c4249f.jpg)
+![Aktivitas di Uluwatu](https://images.gobaligo.id/vocus/vocus_678bb4fb32a1ba904eeafae220c4249f.jpg)
 
 ### Surfing
 
@@ -255,7 +255,7 @@ Buat kamu yang suka surfing, Uluwatu punya kursus surfing level pemula dan menen
 
 ### Paralayang
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_09e07f049ec2370016fc28e80f9805ba.png)
+![Paralayang](https://images.gobaligo.id/vocus/vocus_09e07f049ec2370016fc28e80f9805ba.png)
 
 Kalau kamu mau lihat sunset Bali yang spektakuler, Uluwatu juga punya paket paralayang plus sunset trip. Dengan bimbingan profesional, kamu bakal pakai parasut dan terbang dari ketinggian, lihat garis pantai Uluwatu dan pemandangan sunset yang indah banget. Pengalaman ini bakal bikin kamu betah dan susah move on!
 
@@ -277,7 +277,7 @@ Kalau sudah puas main, SPA di hotel bintang lima Renaissance bisa bikin kamu ril
 
 ### Tur Wisata Mobil VW Convertible di Uluwatu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c3823c6ce132f1d58e3e0a26e106e32b.jpg)
+![Tur Wisata Mobil VW Convertible di Uluwatu](https://images.gobaligo.id/vocus/vocus_c3823c6ce132f1d58e3e0a26e106e32b.jpg)
 
 Naik VW convertible keliling Bali selatan! Mampir ke Pantai Padang-Padang dan Pandawa, nikmati pemandangan, sampai ke Pura Uluwatu buat lihat sunset, lalu santap seafood dinner di Jimbaran. Paket ini udah termasuk jemputan, sopir, dan bensin — jadi kamu tinggal duduk manis dan nikmatin keindahan Bali!
 
@@ -297,7 +297,7 @@ Menjelang malam, saksikan pertunjukan api Kecak Uluwatu yang terkenal. Cocok ban
 
 ### SPA di Alila Uluwatu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c7ee057bd6df4ae04e4dbf609562072c.jpg)
+![SPA di Alila Uluwatu](https://images.gobaligo.id/vocus/vocus_c7ee057bd6df4ae04e4dbf609562072c.jpg)
 
 Bicara soal pengalaman relaksasi kelas atas di Bali, SPA di Alila Villas Uluwatu jelas jadi simbol kemewahan dan ketenangan. Resort tersembunyi di atas tebing setinggi 100 meter di Uluwatu ini nggak cuma terkenal dengan arsitektur sarang burung ikonik dan desain ramah lingkungan, tapi juga menawarkan pengalaman SPA yang memadukan kearifan lokal dengan filosofi penyembuhan modern. Cocok buat kamu yang mencari ketenangan jiwa dan raga. Saat angin laut Samudra Hindia berhembus melewati bangunan terbuka, saat terapi tradisional Bali bertemu estetika minimalis kontemporer — sebuah perjalanan sensorik yang luar biasa dimulai...
 
@@ -305,7 +305,7 @@ Bicara soal pengalaman relaksasi kelas atas di Bali, SPA di Alila Villas Uluwatu
 
 ### Kursus Selancar di Pantai Balangan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7641db035b0f3f726c5a75e5b8266b0c.jpg)
+![Kursus Selancar di Pantai Balangan](https://images.gobaligo.id/vocus/vocus_7641db035b0f3f726c5a75e5b8266b0c.jpg)
 
 Sebagai surga selancar kelas dunia, gimana bisa ke Bali — khususnya Uluwatu — tanpa coba berselancar? Kalau kamu pernah mimpi berdiri di atas papan selancar di bawah sinar matahari dan menaklukkan ombak biru, jangan lewatkan kursus profesional dari Cakrawala Asia Surf School ini!
 
@@ -326,7 +326,7 @@ Entah kamu baru pertama kali nyobain surfing atau mau naikin skill, di ombak Bal
 
 ## Rekomendasi Penginapan di Uluwatu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5a25b1905cf8632964f3b6154aaece5c.jpg)
+![Rekomendasi Penginapan di Uluwatu](https://images.gobaligo.id/vocus/vocus_5a25b1905cf8632964f3b6154aaece5c.jpg)
 
 Uluwatu adalah salah satu kawasan wisata paling populer di ujung selatan Bali. Daerah Uluwatu punya banyak pilihan akomodasi yang cocok buat berbagai kebutuhan dan budget wisatawan. Yang spesial, ada beberapa resort mewah dan vila pribadi yang biasanya berada di tebing dengan pemandangan laut yang spektakuler. Resort-resort ini menawarkan kenyamanan maksimal, dilengkapi fasilitas mewah seperti kolam renang pribadi, spa, restoran, bahkan ada yang punya pantai pribadi sendiri.
 
@@ -336,7 +336,7 @@ Kalau kamu lagi cari penginapan yang nyaman, mewah, dan punya pemandangan laut t
 
 ## Nikmati Resor Mewah (👉🏼 Peta: [Rekomendasi Penginapan Jimbaran](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_830861404e997a67dbdccf0fdea30853.jpg)
+![Nikmati Resor Mewah ( Peta: Rekomendasi Penginapan Jimbaran)](https://images.gobaligo.id/vocus/vocus_830861404e997a67dbdccf0fdea30853.jpg)
 
 Udah dapet penginapan, di hotel/villa yang cantik gitu masa nggak foto-foto!? Nah, floating bed bentuk lucu adalah道具 wajib di kolam renang pas liburan di pulau tropis. Tapi sayangnya, floating bed plus pompa ukurannya gede dan berat, jadi agak repot dibawa ke luar negeri. Tapi dengan layanan di Bali ini, kamu nggak perlu pusing soal itu. Cukup nginep di area selatan kayak Jimbaran, Kuta, Legian, Seminyak, Canggu, Uluwatu, Nusa Dua, dan Sanur, kamu bisa dengan mudah menikmati serunya berbagai floating bed bentuk lucu.
 
@@ -348,7 +348,7 @@ Layanan ini diantar langsung ke pintu hotel atau vila tempat kamu menginap, ada 
 
 ## Peta Panduan Uluwatu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e323fdfd98f3d0a3a7db516860026e01.png)
+![Peta Panduan Uluwatu](https://images.gobaligo.id/vocus/vocus_e323fdfd98f3d0a3a7db516860026e01.png)
 
 Biar kamu makin paham lokasi tempat-tempat yang udah disebutin di atas, kami siapkan "[Peta Panduan Uluwatu](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing)" yang nandain semua posisi spot-spotnya. Kalau kamu mau jalan-jalan atau eksplor ke Uluwatu, jangan lupa simpan ya!
 

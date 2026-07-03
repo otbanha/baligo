@@ -25,7 +25,7 @@ _srcHash: 93ce059168068ebaf7a6a3b6f6127b24
 
 > 来自网络分享
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_990d4c5e2869e66cd2014b805fca6160.jpg)
+![巴厘岛海鲜餐厅【龙虾先生】海鲜盛宴：多样选择，味蕾的极致享受](https://images.gobaligo.id/vocus/vocus_990d4c5e2869e66cd2014b805fca6160.jpg)
 
 此次来到巴厘岛，不仅让我尽情陶醉于海岛的绝美景致，在龙虾先生餐厅更让我大快朵颐，品尝到琳琅满目的极致海鲜。从龙虾到笋壳鱼，每一口都令人惊艳。以下是这次盛宴中的美食经历分享：
 
@@ -57,7 +57,7 @@ https://youtube.com/shorts/0pk0syQh5sw
 
 ## 顾客C：老板亲自热情接待
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_70793e8257b18b6ad0ebe8b35fa45423.jpg)
+![顾客C：老板亲自热情接待](https://images.gobaligo.id/vocus/vocus_70793e8257b18b6ad0ebe8b35fa45423.jpg)
 
 非常感谢龙虾老板昨天的热情接待。真心感受到台湾人照顾台湾人的那份大心与温暖。
 
@@ -75,13 +75,13 @@ Facebook: [许炳辉](https://www.facebook.com/hsu.dick.7)
 
 ### Mr Lobster 坎古店（整修中）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c6c755469885ecc828371fdcaede4a98.jpg)
+![Mr Lobster 坎古店（整修中）](https://images.gobaligo.id/vocus/vocus_c6c755469885ecc828371fdcaede4a98.jpg)
 
 位在坎古的南缘，靠近 Café del Mar Beach Club，地址：Jl. Subak sari, tibubeneng, kec. Kuta utara, badung, Bali, 80361
 
 ### Mr Lobster 南湾店（2025/9开幕）
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775972820703-_2026-04-12_12.46.41.png)
+![Mr Lobster 南湾店（2025/9开幕）](https://images.gobaligo.id/images/2026-04/1775972820703-_2026-04-12_12.46.41.png)
 
 地址：Jl. Pratama No.83, tanjung, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361
 

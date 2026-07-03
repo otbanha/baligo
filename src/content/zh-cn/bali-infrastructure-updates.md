@@ -29,7 +29,7 @@ Besakih寺庙是巴厘岛最神圣的宗教圣地，政府计划于2026年开始
 
 ## 3. **Turyapada塔建设**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9ef21eaffced56df44feef966df44d3c.jpg)
+![3. Turyapada塔建设](https://images.gobaligo.id/vocus/vocus_9ef21eaffced56df44feef966df44d3c.jpg)
 
 预计于2026年中完工的Turyapada塔，将成为新的地标，提升巴厘岛的通讯与广播覆盖范围，并促进周边地区的经济发展。
 
@@ -59,7 +59,7 @@ Besakih寺庙是巴厘岛最神圣的宗教圣地，政府计划于2026年开始
 
 南巴厘岛环状线（JLS）计划预计沿巴厘岛南部半岛的东、南、西侧兴建，总长约36.5公里。此计划旨在改善巴厘岛南部的交通状况，缓解主要道路的拥堵问题，并提升区域间的连接效率。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_72f78e28f3bd99c5de7b3888a31b57cf.jpg)
+![9. 南巴厘岛环状线计划](https://images.gobaligo.id/vocus/vocus_72f78e28f3bd99c5de7b3888a31b57cf.jpg)
 
 支持者呼吁将此计划列为“国家战略项目”（PSN），以获得中央政府的资金支持。2022年3月29日，巴厘省公共工程与住房局（PUPR）局长IB Surya Suamba证实，巴东县长I Nyoman Giri Prasta已签署书面建议，将原定以公私合伙模式进行的计划改为国家战略项目。此建议已提交国家发展规划部（Bappenas），若获批准，中央政府将承担全额费用。
 
@@ -74,7 +74,7 @@ Besakih寺庙是巴厘岛最神圣的宗教圣地，政府计划于2026年开始
 
 ## 10. **Gilimanuk-Mengwi高速公路与南巴厘地铁**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7302d77149a17f404dbbd2b8322bd71b.jpg)
+![10. Gilimanuk-Mengwi高速公路与南巴厘地铁](https://images.gobaligo.id/vocus/vocus_7302d77149a17f404dbbd2b8322bd71b.jpg)
 
 Gilimanuk-Mengwi高速公路计划将持续推进，并将新增南巴厘地铁系统，进一步提升南部旅游热区的交通便利性，减少车流压力。
 

@@ -39,7 +39,7 @@ _srcHash: 394acbc314bfbf3c2eac9245a415864e
 
 当地旅游局表示，缴纳旅游税的过程不会超过 23 秒，强烈建议游客提前支付。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776095669943-mixcollage-13-apr-2026-10-53-pm-603.jpg)
+![2024/2/14 起，前往巴厘岛旅游必须多支出折合 10 美元](https://images.gobaligo.id/images/2026-04/1776095669943-mixcollage-13-apr-2026-10-53-pm-603.jpg)
 
 ## 跳岛还要再缴一次？
 

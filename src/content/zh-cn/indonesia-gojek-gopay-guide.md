@@ -22,7 +22,7 @@ _srcHash: 3d7a3b82e63aa50696b61b70a062841b
 
 在印尼或巴厘岛旅行或居住，大家对**Gojek**这个名字一定不陌生。作为印尼最受欢迎的共享经济平台之一，Gojek不仅仅提供交通服务，还有各种外卖、购物、金融支付等服务。而其中一项重要功能，便是与其紧密结合的支付系统——**GoPay**。本文将深入探讨Gojek与GoPay的方方面面，并为您详细介绍如何注册和使用这些服务，帮助您在印尼更轻松便捷地生活。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1f4958d2598d7d48eed642e73e1e4321.jpg)
+![Grab好？Gojek好？印尼/巴厘岛的Gojek与GoPay注册、使用、充值教学全面指南](https://images.gobaligo.id/vocus/vocus_1f4958d2598d7d48eed642e73e1e4321.jpg)
 
 ## **Gojek 是什么？**
 
@@ -41,7 +41,7 @@ Gojek的每一项服务都旨在为用户提供便利，尤其是那些日程繁
 
 ## **GoPay 是什么？**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_266f68e9481da62f1e5b062c15fa8123.jpg)
+![GoPay 是什么？](https://images.gobaligo.id/vocus/vocus_266f68e9481da62f1e5b062c15fa8123.jpg)
 
 作为Gojek的电子钱包系统，**GoPay**让用户能够通过手机进行安全便捷的支付。无论是支付Gojek平台内的服务费用，还是进行线上、线下购物支付，GoPay都可以让交易更加无缝。
 

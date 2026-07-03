@@ -22,7 +22,7 @@ _srcHash: 6b15e9a90d8801a4c7e451c842655927
 
 ## 🗞️ Today's Highlights: Post-Disaster Recovery and Conservation Efforts
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777039875036-club-med-bali-nusa-dua-terbakar_01-696x464.jpg)
+![Today's Highlights: Post-Disaster Recovery and Conservation ](https://images.gobaligo.id/images/2026-04/1777039875036-club-med-bali-nusa-dua-terbakar_01-696x464.jpg)
 
 - **Club Med Bali Fire Aftermath and Operations**: Located in Nusa Dua, Club Med Bali experienced a fire yesterday.
 Cause of the fire: Preliminary investigations suggest the source may have been a deep fryer in the kitchen. Staff were preparing breakfast when the oil overheated and ignited. Although employees attempted to extinguish the flames with fire extinguishers, the fire quickly spread to the wooden ceiling and thatched roof (Sirap).

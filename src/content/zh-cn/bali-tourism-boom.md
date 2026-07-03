@@ -19,7 +19,7 @@ _srcHash: 5d247844ffca1338188eb51bcadaca52
 
 2025年3月8日发布的最新数据显示，巴厘岛的国际旅游需求即使在淡季也持续攀升。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf32e66b76078f0a296d4db9e4cd0f1b.png)
+![巴厘岛淡季也疯狂！国际旅游需求暴增22%](https://images.gobaligo.id/vocus/vocus_bf32e66b76078f0a296d4db9e4cd0f1b.png)
 
 根据巴厘岛国际机场移民局的统计，2025年1月巴厘岛国际机场的出入境人数较2024年同期增长了22%。移民局信息与通信技术负责人Alexander Maxwell透露，2025年1月共有611,603人抵达巴厘岛，632,833人离境。通常1月的离境人数高于入境人数，因游客结束圣诞和新年假期返乡。
 
@@ -38,7 +38,7 @@ Maxwell表示，外国游客仍是入境主力，达540,122人，同比增长27%
 9. 新加坡（15,942人）
 10. 日本（12,112人）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c921dc4310098a99930838894970f765.png)
+![巴厘岛淡季也疯狂！国际旅游需求暴增22%](https://images.gobaligo.id/vocus/vocus_c921dc4310098a99930838894970f765.png)
 
 巴厘省省长Wayan Koster指出，旅游业对印尼整体经济影响显著，即使在淡季也不例外。2024年，巴厘省为国家旅游业贡献了107兆印尼盾，占外汇收入的44%。Koster强调，巴厘经济高度依赖旅游业，未来需进行经济结构转型，以平衡旅游业与非旅游业的发展。
 

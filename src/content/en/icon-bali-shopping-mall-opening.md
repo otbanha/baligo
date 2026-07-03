@@ -21,13 +21,13 @@ lang: en
 _srcHash: 5ee6cd0a5c459bd4dc9be383755bb2b4
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0932df0257cef6b9a3ca00177d132010.jpg)
+![Bali's largest shopping mall, Icon Bali, is set to open in M](https://images.gobaligo.id/vocus/vocus_0932df0257cef6b9a3ca00177d132010.jpg)
 
 Bali is about to reach a significant milestone as its largest shopping mall is scheduled to open on May 17, 2024, in Sanur. This marks a major transformation in Bali's tourism industry, offering countless shopping and entertainment options for both tourists and locals.
 
 ## 1. Introduction to ICON Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d6e8e706581570f18b613f5e5d516295.jpg)
+![1. Introduction to ICON Bali](https://images.gobaligo.id/vocus/vocus_d6e8e706581570f18b613f5e5d516295.jpg)
 
 ### 1.1 Overview of the Shopping Mall
 
@@ -39,7 +39,7 @@ ICON Mall will feature two beach clubs, numerous dining and entertainment facili
 
 ## 2. Features of ICON Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_001e553c6013a7c8c412e960f0af0372.jpg)
+![2. Features of ICON Bali](https://images.gobaligo.id/vocus/vocus_001e553c6013a7c8c412e960f0af0372.jpg)
 
 ### 2.1 Bali Floating Market
 
@@ -67,7 +67,7 @@ Further Reading: [Sanur Guide Map | 45 Recommendations for Food, Fun, and Accomm
 
 The opening of ICON Bali will bring new shopping and entertainment experiences to the island, marking a significant milestone in Bali's tourism development. Visitors will have the opportunity to savor delicious cuisine, shop, and enjoy beach experiences here, creating endless fun and lasting memories.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bd9efca76177b6f53e3e5da6ddf624f9.png)
+![Conclusion](https://images.gobaligo.id/vocus/vocus_bd9efca76177b6f53e3e5da6ddf624f9.png)
 
 Before reading our **"Ultimate Bali Travel Guide"**, we sincerely invite you to subscribe to our YouTube channel **"Jason Indonesia"** for more visual experience sharing. [Click here](http://bit.ly/youtube-jason) to subscribe now.
 

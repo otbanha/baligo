@@ -32,7 +32,7 @@ _srcHash: 4531af3bf4e8a60f9d4af772fea87386
 
 Tukad Badung Riverside, atau yang juga dikenal sebagai Tukad Badung Riverside, adalah salah satu proyek revitalisasi perkotaan paling sukses dari program "Kota Hijau, Ramah Warga" yang digagas Pemerintah Kota Denpasar, Bali. Dulu, saluran air sepanjang 1 km dan lebar 4 meter ini adalah selokan kotor dan bau. Tapi sejak 2020, lewat kerja sama Pemprov Bali, dinas kota, dan komunitas, tempat ini dibersihkan total, didesain ulang, dan disulap jadi ruang publik modern yang estetik dan fungsional.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9bcc97b4941d0def4b645b5e493dc7ac.jpg)
+![Bali punya versi Cheonggyecheon? Yuk Intip Taman Tukad Korea](https://images.gobaligo.id/vocus/vocus_9bcc97b4941d0def4b645b5e493dc7ac.jpg)
 
 Jalur setapak ini dijuluki "Taman Tukad Korea" karena desainnya terinspirasi dari Cheonggyecheon di Seoul, Korea Selatan. Gak cuma meniru desain tepian sungai yang rapi dan tata lampu yang kece, tapi juga memadukan unsur budaya lokal. Hasilnya? Suasana unik yang memadukan estetika Timur dengan nuansa tropis yang bikin betah.
 
@@ -42,7 +42,7 @@ Gak cuma itu, di sepanjang sungai juga ditanami banyak bunga sakura liar dan tan
 
 Selain desainnya yang kece, Tukad Badung Riverside juga mengedepankan "partisipasi hidup". Kamu bisa duduk di kursi bambu sambil nyemilin jagung bakar dan sate yang masih panas, ditemani es markisa dingin. Sambil itu, nikmatin pertunjukan musik gamelan atau lagu-lagu pop lokal dari seniman jalanan. Sering juga ada bazar kerajinan tangan dan pelukis jalanan yang bikin kamu ngerasain denyut kreativitas kota ini.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c5169911503e79727e1b2f6ff164cd5f.jpg)
+![Bali punya versi Cheonggyecheon? Yuk Intip Taman Tukad Korea](https://images.gobaligo.id/vocus/vocus_c5169911503e79727e1b2f6ff164cd5f.jpg)
 
 Akhir 2023 lalu, pemerintah setempat juga bikin "Pojok Edukasi Ekologi" di dekat jembatan Pasar Kumbasari. Di sini ada poster dan info tentang ekologi sungai serta konservasi air, jadi sambil santai kamu juga bisa belajar. Ke depannya, rencananya bakal dibangun panggung outdoor, area pertunjukan komunitas, dan kolam ekologi kecil buat nambah fungsi edukasi dan wisata.
 

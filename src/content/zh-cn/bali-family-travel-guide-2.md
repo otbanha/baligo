@@ -124,7 +124,7 @@ _srcHash: 0130dba156399429786ff8fd55338a2d
 
 ### 保姆资源：不一定要自己撑
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7f570b4b0f39515ecb5982207e21e909.png)
+![保姆资源：不一定要自己撑](https://images.gobaligo.id/vocus/vocus_7f570b4b0f39515ecb5982207e21e909.png)
 
 很多台湾家长不知道，巴厘岛有相当成熟的保姆产业，许多外籍家庭和旅客都有在使用。如果你想偶尔让自己喘息一下，或需要在大人有行程的时候有人照顾孩子，巴厘岛保姆其实比你想像的好找。要如何找到保姆？有什么注意事项？费用如何？请看这里的专题「[巴厘岛找保姆指南：如何找到适合的保姆及费用概况](/blog/bali-nanny-hiring-guide/)」
 

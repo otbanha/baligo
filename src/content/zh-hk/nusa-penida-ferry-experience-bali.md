@@ -45,7 +45,7 @@ Mei Yi Liao提供：沙努爾嘅登船處，沙努港口設施好完善，上落
 
 ## 探索島上嘅美景同美食
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d8505be114d780f2f4c578a7fcfc798d.png)
+![探索島上嘅美景同美食](https://images.gobaligo.id/vocus/vocus_d8505be114d780f2f4c578a7fcfc798d.png)
 
 帕尼達島嘅景色絕對唔可以錯過。無論係出名嘅克林金海灘（Kelingking Beach），定係天使浴池（Angel's Billabong），都令人驚嘆不已。呢啲景點唔單止有壯麗嘅自然風光，仲有清澈見底嘅海水同壯觀嘅懸崖景色，令人流連忘返。
 
@@ -67,7 +67,7 @@ Mei Yi Liao提供：沙努爾嘅登船處，沙努港口設施好完善，上落
 
 ## 結語
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc858943113e1373efd0c30989c2c3c2.png)
+![結語](https://images.gobaligo.id/vocus/vocus_bc858943113e1373efd0c30989c2c3c2.png)
 
 今次嘅佩尼達島之行，令我哋深深感受到大自然嘅壯麗同埋當地人嘅熱情。無論係海上航行嘅刺激，定係島上美景同美食嘅享受，都令我哋難以忘懷。非常感謝之前社友提供嘅資料，今次嘅旅程真係受益匪淺，我都希望呢篇遊記可以對大家有所幫助。如果你計劃去佩尼達島，一定唔好錯過呢啲美麗嘅景點同美食，祝你有一個美好嘅旅程！
 

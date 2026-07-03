@@ -33,7 +33,7 @@ _srcHash: a920d3d04a3614ca237e4fd0b1de5b84
 
 Bali emang jadi destinasi favorit, dan buat kebutuhan wisata lansia, banyak tempat dan aktivitas yang ramah dan nyaman. Di episode sebelumnya kita udah bahas tips dan barang wajib bawa orang tua ke Bali — yang ketinggalan bisa klik [di sini](/blog/bali-elderly-travel-guide/).
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_44e5969c67eb5de211f0583803f0d6d4.jpg)
+![Bawa Orang Tua ke Bali: Panduan Lengkap Tempat Wisata Bali y](https://images.gobaligo.id/vocus/vocus_44e5969c67eb5de211f0583803f0d6d4.jpg)
 
 Episode kali ini kita bakal bahas detail tempat wisata Bali yang cocok buat lansia, dari pemandangan alam sampai pengalaman budaya, biar liburan kalian santai tapi tetap seru.
 
@@ -59,7 +59,7 @@ Info lengkap dan promo 13 kafe dengan pemandangan bisa kamu lihat [di sini](/blo
 
 ### **Pengalaman Royal Songan Cruise di Danau Batur**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3c735ffe06ddb90b462c63337529b0c5.jpg)
+![Pengalaman Royal Songan Cruise di Danau Batur](https://images.gobaligo.id/vocus/vocus_3c735ffe06ddb90b462c63337529b0c5.jpg)
 
 Kalau kamu pengin menikmati keindahan alam dan budaya Bali dengan santai, **Royal Songan Cruise di Danau Batur** adalah pilihan paling pas buat orang tua. Perjalanan sekitar 60 menit, kapalnya stabil dan nyaman — tanpa perlu jalan kaki atau naik-turun, kamu sudah bisa menikmati pemandangan **Gunung Batur dan Gunung Abang** yang spektakuler. Di tengah perjalanan, kamu juga akan melewati **Desa Trunyan** yang terkenal dan **Patung Dewi Danau**, bikin kamu merasakan perpaduan budaya tradisional Bali dengan keajaiban alam. Di atas kapal ada **pertunjukan budaya langsung**, **layanan teh**, dan **sambutan tanpa repot** — paket all-in yang bikin nyaman dan aman, cocok banget buat keluarga dan lansia yang ingin menikmati wisata danau yang santai dan seru.
 
@@ -67,13 +67,13 @@ Kalau kamu pengin menikmati keindahan alam dan budaya Bali dengan santai, **Roya
 
 ### **Rendam di Pemandian Air Panas sambil Nikmati Pemandangan**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1b2c36cce167df14bcd2e664efd956d0.jpg)
+![Rendam di Pemandian Air Panas sambil Nikmati Pemandangan](https://images.gobaligo.id/vocus/vocus_1b2c36cce167df14bcd2e664efd956d0.jpg)
 
 Setelah selesai naik gunung dan ngopi, mampir ke **Pemandian Air Panas Toya Devasya** buat relaksasi. Berendam di kolam air panas alami dari panas bumi gunung berapi sambil memandang gunung dan danau di kejauhan — benar-benar penutup yang paling menyembuhkan.
 
 Selain berendam, tempat ini juga punya water park besar lho!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e239669b1787a60c45be7f558d30237.png)
+![Rendam di Pemandian Air Panas sambil Nikmati Pemandangan](https://images.gobaligo.id/vocus/vocus_4e239669b1787a60c45be7f558d30237.png)
 
 ▶[Tiket Masuk Pemandian Air Panas Toya Devasya](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1140524&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F24959-toya-devasya-hot-springs-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3De7714021bf)
 
@@ -125,7 +125,7 @@ Pura di tepi Danau Beratan ini juga dikenal sebagai «Pura Air», yang merupakan
 
 ### **Pura Batuan**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc4bf00488586e10c8d1c0e2175ad00e.jpg)
+![Pura Batuan](https://images.gobaligo.id/vocus/vocus_bc4bf00488586e10c8d1c0e2175ad00e.jpg)
 
 Pura berusia seribu tahun dari abad ke-11 ini terletak di antara Ubud dan Denpasar, merupakan representasi klasik arsitektur Hindu. Terletak tepat di pinggir jalan raya, dengan jalur berjalan kaki yang datar dan ukiran yang indah, menjadikannya destinasi budaya yang ramah bagi lansia.
 
@@ -181,7 +181,7 @@ https://www.instagram.com/reel/DDbHzDmy62G/?utm_source=ig_web_copy_link&igsh=NTc
 
 ### Devdan Show｜Sekali Nonton, Langsung Kenal Tradisi 5 Pulau Besar Indonesia
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_da57a867b3692e265b54efaf60f6a0fc.jpg)
+![Devdan Show｜Sekali Nonton, Langsung Kenal Tradisi 5 Pulau Be](https://images.gobaligo.id/vocus/vocus_da57a867b3692e265b54efaf60f6a0fc.jpg)
 
 **Devdan Show** adalah pertunjukan budaya paling terkenal di Bali. Saat ini, selain Agung Show, ini adalah pertunjukan budaya panggung terbesar di Bali. Pertunjukan spektakuler selama **90 menit** ini menggabungkan tarian tradisional Indonesia dengan koreografi modern, ditambah akrobat udara, efek cahaya dan suara canggih, serta panggung yang super megah.
 
@@ -196,7 +196,7 @@ https://www.instagram.com/reel/DDbHzDmy62G/?utm_source=ig_web_copy_link&igsh=NTc
 
 ### **Bali Bird Park**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fb0c797e7e8c3d44ec2d7b7690b13779.jpg)
+![Bali Bird Park](https://images.gobaligo.id/vocus/vocus_fb0c797e7e8c3d44ec2d7b7690b13779.jpg)
 
 Bali Bird Park adalah pilihan wisata yang santai dan seru. Di dalamnya ada lebih dari 1000 jenis burung dari seluruh dunia. Area tamannya datar dan nyaman, cocok banget buat jalan-jalan santai sama orang tua.
 
@@ -204,7 +204,7 @@ Bali Bird Park adalah pilihan wisata yang santai dan seru. Di dalamnya ada lebih
 
 ### Magic Garden
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d14ee96448df6989769c7f7945ba593c.jpg)
+![Magic Garden](https://images.gobaligo.id/vocus/vocus_d14ee96448df6989769c7f7945ba593c.jpg)
 
 Kalau kamu rencana ajak orang tua ke daerah Tanah Lot, **Magic Garden** yang baru buka November 2024 ini wajib banget dicek! Berlokasi di Nuanu City, Tabanan, Bali, taman alam seluas 3600 meter persegi ini bukan cuma pemandangannya cantik, tapi juga punya konsep edukasi dan konservasi alam. Cocok banget buat orang tua yang suka jalan-jalan di alam.
 
@@ -220,7 +220,7 @@ Penjelasan lebih detail bisa lihat [di sini](/blog/nuanu-magic-garden-bali/)
 
 ### Saksikan Keajaiban Bawah Air di Bali Marine Park lewat *Varuna Show*
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4b37f0c92eecf8b3c86588e2eb82d22e.jpg)
+![Saksikan Keajaiban Bawah Air di Bali Marine Park lewat Varun](https://images.gobaligo.id/vocus/vocus_4b37f0c92eecf8b3c86588e2eb82d22e.jpg)
 
 Kalau kamu pergi bareng orang tua dan anak-anak, **Marine Safari Bali** adalah pilihan paling hangat, aman, dan penuh kejutan!
 
@@ -246,13 +246,13 @@ Daftar SPA terbaik di berbagai area Bali udah dirangkum [di sini](/blog/spa/).
 
 Jalan setapak yang landai di Pura Uluwatu bikin lansia bisa jalan-jalan dengan nyaman. Tapi hati-hati sama monyet-monyet nakal di sini, mending minta sopir pribadi jadi bodyguard aja! Setelah matahari terbenam, kamu juga bisa nikmatin makan malam seafood romantis di Pantai Jimbaran.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d060f2af34794d80dfa0b9caba695e08.png)
+![Sunset Cruise & Makan Malam di Uluwatu](https://images.gobaligo.id/vocus/vocus_d060f2af34794d80dfa0b9caba695e08.png)
 
 ▶ Ikut [tur harian pantai selatan Bali terbaik](https://affiliate.klook.com/redirect?aid=116349&aff_adid=956289&k_site=https%3A%2F%2Faffiliate.klook.com%2Fredirect%3Fk_site%3Dhttps%253A%252F%252Fwww.klook.com%252Fzh-TW%252Factivity%252F44132-bali-top-southern-beaches-uluwatu-kecak-dance-day-seafood-dinner%252F%253Fspm%253DSearchResult.SearchResult_LIST%26clickId%3D681542f1ab) yang ratingnya tinggi banget
 
 Kamu juga bisa ajak orang tua naik sunset cruise. Ini tuh kayak 'tur setengah hari ala kapal pesiar palsu', mulai dari sore sampai jam 20:45. Rasain sensasi unik menikmati pesisir Bali dan liburan ala kapal pesiar, kasih pengalaman seru yang beda buat orang tua.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_55a7c2a17c393c2267d3730e0717fbeb.png)
+![Sunset Cruise & Makan Malam di Uluwatu](https://images.gobaligo.id/vocus/vocus_55a7c2a17c393c2267d3730e0717fbeb.png)
 
 ▶ [Pesan paket Sunset Dinner Cruise di Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=956289&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F877-sunset-dinner-cruise-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db1d875e9b1)
 
@@ -260,7 +260,7 @@ Kamu juga bisa ajak orang tua naik sunset cruise. Ini tuh kayak 'tur setengah ha
 
 Meskipun kami sudah menulis artikel tentang [50 Aktivitas Outdoor di Bali](/blog/bali-top-50-outdoor-activities/), ternyata ATV terlalu berguncang, arung jeram terlalu melelahkan, menyelam terlalu menegangkan... tidak ada satu pun yang benar-benar cocok untuk orang tua! Apa para lansia cuma bisa duduk di mobil wisata sambil foto-foto? Tidak! Arung Gua adalah aktivitas outdoor yang dirancang khusus untuk orang tua—duduk santai di perahu karet sambil mengikuti arus, tanpa perlu mendayung, kamu bisa melewati gua-gua alami yang spektakuler. Sepanjang perjalanan, kamu bisa menikmati pemandangan gua yang menakjubkan. Pemandu profesional menemani sepanjang jalan, bahkan nenek berusia 70 tahun pun tertawa bahagia! Ini benar-benar pengalaman petualangan paling cocok untuk orang tua saat liburan tiga generasi.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0559730d7ad9dfee1b899d50afc9f1a0.jpg)
+![Satu-satunya Aktivitas Outdoor yang Paling Cocok untuk Orang](https://images.gobaligo.id/vocus/vocus_0559730d7ad9dfee1b899d50afc9f1a0.jpg)
 
 Ada saran khusus untuk liburan bersama orang tua? Lanjutkan baca [artikel ini](/blog/nukuwera-river-tubing-adventure/)
 
@@ -270,7 +270,7 @@ Ada saran khusus untuk liburan bersama orang tua? Lanjutkan baca [artikel ini](/
 
 ### **Pantai Jimbaran**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa25e6f8588e1243f56caa9f0e1993d9.jpg)
+![Pantai Jimbaran](https://images.gobaligo.id/vocus/vocus_aa25e6f8588e1243f56caa9f0e1993d9.jpg)
 
 Kalau bicara soal pilihan pantai yang cocok untuk lansia, aku pribadi menempatkan Pantai Jimbaran di urutan teratas. Pantai ini tidak seramai Kuta atau Seminyak, tidak terlalu banyak aktivitas air yang ekstrem, suasananya relatif tenang dan santai—sangat sesuai dengan 'rasa rileks' yang diinginkan orang tua saat liburan.
 
@@ -284,7 +284,7 @@ Ada tempat wisata lain di dekat sini? Lihat [Panduan Jimbaran: 30 Rekomendasi Te
 
 ### **Pantai Pandawa**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e8692cafe3424584512491226be16dc5.jpg)
+![Pantai Pandawa](https://images.gobaligo.id/vocus/vocus_e8692cafe3424584512491226be16dc5.jpg)
 
 Pantai Pandawa terkenal dengan ombaknya yang tenang dan fasilitas yang mudah diakses. Dari tempat parkir ke pantai nggak perlu jalan jauh, jadi cocok banget buat yang udah sepuh. Di sini ada pilihan makanan dengan harga terjangkau, plus ada juga penyewaan kano.
 

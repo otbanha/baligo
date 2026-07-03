@@ -23,7 +23,7 @@ _srcHash: 3c3c5eaef1257a3040e929f048c484e6
 
 ## **🚖 峇里島的士司機抗議後 政府加強監管網約車**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9fcfc4a88f2af864cc1d6061296a6c6c.jpg)
+![峇里島的士司機抗議後 政府加強監管網約車](https://images.gobaligo.id/vocus/vocus_9fcfc4a88f2af864cc1d6061296a6c6c.jpg)
 
 峇里島政府即將推出一系列新規定，以保護本地嘅士司機嘅生計。呢個決定係喺2025年1月5日，[數百名的士司機喺登帕薩（Denpasar）舉行大規模抗議](https://www.facebook.com/share/p/1BJfdZGmQQ/)後作出嘅。
 
@@ -55,7 +55,7 @@ _srcHash: 3c3c5eaef1257a3040e929f048c484e6
 
 示威者仲強調，應該限制來自其他地區嘅司機喺峇里島工作，因為佢哋成日違規，影響本地嘅士行業嘅聲譽。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_16bdddb821585be8cda7dedab15236b9.png)
+![當地司機嘅不滿同擔憂](https://images.gobaligo.id/vocus/vocus_16bdddb821585be8cda7dedab15236b9.png)
 
 ---
 
@@ -107,7 +107,7 @@ _srcHash: 3c3c5eaef1257a3040e929f048c484e6
 
 ## 📩 **立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

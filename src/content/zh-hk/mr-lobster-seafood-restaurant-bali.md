@@ -25,7 +25,7 @@ _srcHash: 93ce059168068ebaf7a6a3b6f6127b24
 
 > 來自網絡分享
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_990d4c5e2869e66cd2014b805fca6160.jpg)
+![峇里島海鮮餐廳【龍蝦先生】海鮮盛宴：多款選擇，味蕾嘅極致享受](https://images.gobaligo.id/vocus/vocus_990d4c5e2869e66cd2014b805fca6160.jpg)
 
 今次嚟到峇里島，唔單止令我盡情陶醉於海島嘅絕美景致，喺龍蝦先生餐廳更加令我大快朵頤，品嚐到琳瑯滿目嘅極致海鮮。由龍蝦到筍殼魚，每一啖都令人驚艷。以下係今次盛宴中嘅美食經歷分享：
 
@@ -57,7 +57,7 @@ https://youtube.com/shorts/0pk0syQh5sw
 
 ## 顧客C：老闆親自熱情接待
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_70793e8257b18b6ad0ebe8b35fa45423.jpg)
+![顧客C：老闆親自熱情接待](https://images.gobaligo.id/vocus/vocus_70793e8257b18b6ad0ebe8b35fa45423.jpg)
 
 好多謝龍蝦老闆琴日嘅熱情招待。真心感受到台灣人照顧台灣人嗰份大心同溫暖。
 
@@ -75,13 +75,13 @@ Facebook: [許炳輝](https://www.facebook.com/hsu.dick.7)
 
 ### Mr Lobster 坎古店（裝修中）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c6c755469885ecc828371fdcaede4a98.jpg)
+![Mr Lobster 坎古店（裝修中）](https://images.gobaligo.id/vocus/vocus_c6c755469885ecc828371fdcaede4a98.jpg)
 
 位於坎古嘅南邊，近住 Café del Mar Beach Club，地址：Jl. Subak sari, tibubeneng, kec. Kuta utara, badung, Bali, 80361
 
 ### Mr Lobster 努沙杜瓦店（2025/9開幕）
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775972820703-_2026-04-12_12.46.41.png)
+![Mr Lobster 努沙杜瓦店（2025/9開幕）](https://images.gobaligo.id/images/2026-04/1775972820703-_2026-04-12_12.46.41.png)
 
 地址：Jl. Pratama No.83, tanjung, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361
 

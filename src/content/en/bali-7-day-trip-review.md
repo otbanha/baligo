@@ -68,7 +68,7 @@ During this trip, we met the gentle and attentive Komang, who said his greatest 
 
 Here is the driver's contact info:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_34f3486136ba023e864d48829bee5a03.png)
+![Your Private Driver Is Extremely Important!](https://images.gobaligo.id/vocus/vocus_34f3486136ba023e864d48829bee5a03.png)
 
 > ID Line : 31011994bopeas
 

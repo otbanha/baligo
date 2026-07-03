@@ -22,7 +22,7 @@ _srcHash: 3d4af2102d04536ee543c985c9b8c345
 
 **巴厘岛的 Candi Bentar 有什么意义? 为何中文翻译成"善恶门"是错的?**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c95607d6aa39c056b9b5f30917cf982a.jpg)
+![原来'善恶门'是错误翻译!? Candi Bentar的意义和正确叫法](https://images.gobaligo.id/vocus/vocus_c95607d6aa39c056b9b5f30917cf982a.jpg)
 
 ## Candi Bentar 的起源与历史
 

@@ -24,7 +24,7 @@ _srcHash: eee75c5a05bdbb49f1c996b0794fed87
 
 I want to give back to this community. In March, I traveled solo to Bali for 8 days. Since there’s not much info online about women traveling alone in Bali, I’m here to share my itinerary and insights.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6152213cb48cec104b8463302a71617d.jpg)
+![8 Days Solo in Bali – A Woman’s Solo Travel Experience](https://images.gobaligo.id/vocus/vocus_6152213cb48cec104b8463302a71617d.jpg)
 
 Actually, in Bali, you’ll see plenty of foreign women traveling solo too. From my experience, as long as you keep basic safety awareness—like not getting into a stranger’s car and avoiding eye contact or conversation with anyone who harasses you on the street—most locals are warm, friendly, and it’s quite safe.
 
@@ -44,11 +44,11 @@ https://youtu.be/UoGlRyAdyB8?si=zU9O679PYB4OFz3U
 
 10:30 AM - 4:30 PM: One Eighty. This place has great facilities, stunning scenery, and quality food. I recommend getting the VIP pass to stay for 6 hours.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775484439544-099a1c07-c28f-46a0-b084-620c9d8be763.jpg)
+![Sunday, March 18](https://images.gobaligo.id/images/2026-04/1775484439544-099a1c07-c28f-46a0-b084-620c9d8be763.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775484441733-94010308-3b40-4dff-aaf2-bde805a776a2.jpg)
+![Sunday, March 18](https://images.gobaligo.id/images/2026-04/1775484441733-94010308-3b40-4dff-aaf2-bde805a776a2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775484443433-d2afa4e9-95d6-4542-b6ba-b0fd80619d3a.jpg)
+![Sunday, March 18](https://images.gobaligo.id/images/2026-04/1775484443433-d2afa4e9-95d6-4542-b6ba-b0fd80619d3a.jpg)
 
 > Read more: [Exploring Oneeighty Day Club: Bali's Cliffside Pool with Breathtaking Views](/blog/oneeighty-dayclub-uluwatu-pool/)
 
@@ -70,33 +70,33 @@ https://youtu.be/hQbBTktqEqY
 
 **6:00 PM**: Dine at Kagemusha, a Japanese restaurant with delicious food and a beautiful setting.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485583127-resize.jpeg)
+![Monday, March 19](https://images.gobaligo.id/images/2026-04/1775485583127-resize.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485583692-resize_1_.jpeg)
+![Monday, March 19](https://images.gobaligo.id/images/2026-04/1775485583692-resize_1_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485584078-resize_2_.jpeg)
+![Monday, March 19](https://images.gobaligo.id/images/2026-04/1775485584078-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485584497-resize_3_.jpeg)
+![Monday, March 19](https://images.gobaligo.id/images/2026-04/1775485584497-resize_3_.jpeg)
 
 ## **Tuesday, March 20**
 
 **09:00** Start the day with a visit to Abian Desa Rice Terraces to take in the scenic beauty.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485447749-resize_1_.jpeg)
+![Tuesday, March 20](https://images.gobaligo.id/images/2026-04/1775485447749-resize_1_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485448308-resize_2_.jpeg)
+![Tuesday, March 20](https://images.gobaligo.id/images/2026-04/1775485448308-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485448712-resize_3_.jpeg)
+![Tuesday, March 20](https://images.gobaligo.id/images/2026-04/1775485448712-resize_3_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485449072-resize_4_.jpeg)
+![Tuesday, March 20](https://images.gobaligo.id/images/2026-04/1775485449072-resize_4_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485449875-resize.jpeg)
+![Tuesday, March 20](https://images.gobaligo.id/images/2026-04/1775485449875-resize.jpeg)
 
 **11:00** Have lunch at Tis Cafe, a dreamy and adorable restaurant.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485639513-resize.jpeg)
+![Tuesday, March 20](https://images.gobaligo.id/images/2026-04/1775485639513-resize.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485639925-resize_1_.jpeg)
+![Tuesday, March 20](https://images.gobaligo.id/images/2026-04/1775485639925-resize_1_.jpeg)
 
 **Afternoon** Stroll through Ubud Market and the Royal Palace.
 
@@ -110,9 +110,9 @@ https://youtu.be/JtxZHtijEkE
 
 **08:00** Head to Kanto Lampo Waterfall for sightseeing and photos. Hiring someone to take photos for you costs about USD$3 per session.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485795059-resize_2_.jpeg)
+![Wednesday, March 21](https://images.gobaligo.id/images/2026-04/1775485795059-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485795494-resize.jpeg)
+![Wednesday, March 21](https://images.gobaligo.id/images/2026-04/1775485795494-resize.jpeg)
 
 > Further reading: [Can’t Miss This Bali Waterfall for Stunning Photos? Kanto Lampo Waterfall](/blog/kanto-lampo-waterfall-ig-spot/)
 
@@ -122,13 +122,13 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 **Afternoon** Head to Saba Beach, a less popular beach with quite a bit of trash on the shore. However, the near-shore water is clean and great for photos. There’s no shade and the sun is intense, so it’s best to visit between 4:00 PM and 6:30 PM.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485835808-resize_1_.jpeg)
+![Wednesday, March 21](https://images.gobaligo.id/images/2026-04/1775485835808-resize_1_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485836239-resize_2_.jpeg)
+![Wednesday, March 21](https://images.gobaligo.id/images/2026-04/1775485836239-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485836641-resize_3_.jpeg)
+![Wednesday, March 21](https://images.gobaligo.id/images/2026-04/1775485836641-resize_3_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485837035-resize.jpeg)
+![Wednesday, March 21](https://images.gobaligo.id/images/2026-04/1775485837035-resize.jpeg)
 
 **Dinner** Dine at SHOOQ restaurant. Recommended: shawarma, with all sauces served separately so you can add them to your liking.
 
@@ -157,19 +157,19 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 **14:00–17:00** Head to Kelingking Beach, the most iconic spot on Nusa Penida.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485905937-resize_4_.jpeg)
+![March 22, Thursday](https://images.gobaligo.id/images/2026-04/1775485905937-resize_4_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485908837-resize_5_.jpeg)
+![March 22, Thursday](https://images.gobaligo.id/images/2026-04/1775485908837-resize_5_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485909163-resize_6_.jpeg)
+![March 22, Thursday](https://images.gobaligo.id/images/2026-04/1775485909163-resize_6_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485909990-resize.jpeg)
+![March 22, Thursday](https://images.gobaligo.id/images/2026-04/1775485909990-resize.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485910386-resize_1_.jpeg)
+![March 22, Thursday](https://images.gobaligo.id/images/2026-04/1775485910386-resize_1_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485910891-resize_2_.jpeg)
+![March 22, Thursday](https://images.gobaligo.id/images/2026-04/1775485910891-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485916831-resize_3_.jpeg)
+![March 22, Thursday](https://images.gobaligo.id/images/2026-04/1775485916831-resize_3_.jpeg)
 
 > Read more: [【Bali - Nusa Penida Complete Guide】Map, Ferry, Accommodation, Transport, Private Car, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
 
@@ -179,21 +179,21 @@ On Nusa Penida, the only way to get around is by private car. I booked a ferry t
 
 **18:00** Grab a drink at Penida Colada Beach Bar
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485969886-resize_6_.jpeg)
+![March 22, Thursday](https://images.gobaligo.id/images/2026-04/1775485969886-resize_6_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485985948-resize_7_.jpeg)
+![March 22, Thursday](https://images.gobaligo.id/images/2026-04/1775485985948-resize_7_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485986764-resize.jpeg)
+![March 22, Thursday](https://images.gobaligo.id/images/2026-04/1775485986764-resize.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485989491-resize_1_.jpeg)
+![March 22, Thursday](https://images.gobaligo.id/images/2026-04/1775485989491-resize_1_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485989875-resize_2_.jpeg)
+![March 22, Thursday](https://images.gobaligo.id/images/2026-04/1775485989875-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485990295-resize_3_.jpeg)
+![March 22, Thursday](https://images.gobaligo.id/images/2026-04/1775485990295-resize_3_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485990765-resize_4_.jpeg)
+![March 22, Thursday](https://images.gobaligo.id/images/2026-04/1775485990765-resize_4_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485991344-resize_5_.jpeg)
+![March 22, Thursday](https://images.gobaligo.id/images/2026-04/1775485991344-resize_5_.jpeg)
 
 **20:00** Head back to the homestay to rest
 
@@ -201,27 +201,27 @@ On Nusa Penida, the only way to get around is by private car. I booked a ferry t
 
 **05:00** Head out early to the treehouse viewpoint to wait for sunrise
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486048013-resize_1_.jpeg)
+![Friday, March 23](https://images.gobaligo.id/images/2026-04/1775486048013-resize_1_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486048494-resize_8_.jpeg)
+![Friday, March 23](https://images.gobaligo.id/images/2026-04/1775486048494-resize_8_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486049511-resize.jpeg)
+![Friday, March 23](https://images.gobaligo.id/images/2026-04/1775486049511-resize.jpeg)
 
 **After sunrise** Continue exploring Diamond Beach
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486089768-resize_2_.jpeg)
+![Friday, March 23](https://images.gobaligo.id/images/2026-04/1775486089768-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486090201-resize_3_.jpeg)
+![Friday, March 23](https://images.gobaligo.id/images/2026-04/1775486090201-resize_3_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486090638-resize_4_.jpeg)
+![Friday, March 23](https://images.gobaligo.id/images/2026-04/1775486090638-resize_4_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486091038-resize_5_.jpeg)
+![Friday, March 23](https://images.gobaligo.id/images/2026-04/1775486091038-resize_5_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486091502-resize_6_.jpeg)
+![Friday, March 23](https://images.gobaligo.id/images/2026-04/1775486091502-resize_6_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486092014-resize.jpeg)
+![Friday, March 23](https://images.gobaligo.id/images/2026-04/1775486092014-resize.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486092563-resize_1_.jpeg)
+![Friday, March 23](https://images.gobaligo.id/images/2026-04/1775486092563-resize_1_.jpeg)
 
 **Noon** Return to Penida Colada Beach Bar for lunch
 
@@ -229,21 +229,21 @@ On Nusa Penida, the only way to get around is by private car. I booked a ferry t
 
 **14:40** Take a taxi to Le Cielo Villa in Seminyak
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486145121-resize_7_.jpeg)
+![Friday, March 23](https://images.gobaligo.id/images/2026-04/1775486145121-resize_7_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486149163-resize.jpeg)
+![Friday, March 23](https://images.gobaligo.id/images/2026-04/1775486149163-resize.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486153064-resize_1_.jpeg)
+![Friday, March 23](https://images.gobaligo.id/images/2026-04/1775486153064-resize_1_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486153481-resize_2_.jpeg)
+![Friday, March 23](https://images.gobaligo.id/images/2026-04/1775486153481-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486155798-resize_3_.jpeg)
+![Friday, March 23](https://images.gobaligo.id/images/2026-04/1775486155798-resize_3_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486156672-resize_4_.jpeg)
+![Friday, March 23](https://images.gobaligo.id/images/2026-04/1775486156672-resize_4_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486157120-resize_5_.jpeg)
+![Friday, March 23](https://images.gobaligo.id/images/2026-04/1775486157120-resize_5_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486157534-resize_6_.jpeg)
+![Friday, March 23](https://images.gobaligo.id/images/2026-04/1775486157534-resize_6_.jpeg)
 
 ![訂房優惠請按我](https://images.gobaligo.id/vocus/vocus_f7010c765684fab833955dda6b4e5836.jpg)
 

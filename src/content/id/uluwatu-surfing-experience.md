@@ -20,7 +20,7 @@ lang: id
 _srcHash: 5146fbe35ea8e803160f8c006aac8e29
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9fe91c6a839a47c4f5e72632bb07328a.jpg)
+![Bawa dua cewek cantik surfing di Uluwatu!](https://images.gobaligo.id/vocus/vocus_9fe91c6a839a47c4f5e72632bb07328a.jpg)
 
 YouTuber terkenal "Ocean Man" upload video di internet, ngajak kamu kenalan sama Uluwatu yang jadi spot surfing hits.
 
@@ -40,7 +40,7 @@ Abis itu, mereka santap makanan di pantai, Ocean Man cerita pengalaman seru perj
 
 Di akhir video, dia menekankan kalau harus memenuhi kebutuhan teman-teman seperjalanan dulu, baru bisa benar-benar menikmati serunya berselancar.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9468e44e84f0c2df36e48c0335495cf1.jpg)
+![Bawa dua cewek cantik surfing di Uluwatu!](https://images.gobaligo.id/vocus/vocus_9468e44e84f0c2df36e48c0335495cf1.jpg)
 
 Untuk tempat-tempat lain yang nggak sempat dibahas di video, kayak jalur biru 'Tanah Barak Cliff', 11 klub pantai di Uluwatu, 16 rekomendasi restoran kece, dua restoran ramah keluarga, empat tempat belanja, dan berbagai aktivitas seru... semuanya bisa kamu cek di artikel '[【Panduan Uluwatu】50 Rekomendasi Wisata & Kuliner di Uluwatu](/blog/uluwatu-guide/)'.
 
@@ -50,7 +50,7 @@ Aktivitas di Uluwatu juga seru banget, lho!
 
 Menurut kamu itinerary mereka seru? Yuk, rencanakan liburanmu sendiri ke Bali! Jangan lupa juga kirim itinerary kamu ke grup, ya!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Bawa dua cewek cantik surfing di Uluwatu!](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Klik di sini buat lihat lebih banyak cerita perjalanan seru di Bali
 

@@ -81,7 +81,7 @@ At 600m elevation, it's 4–6°C cooler than Kuta or Ubud city areas. Early morn
 
 👉 [Map and overview of eastern Bali attractions](/map/ubud/) | [Day trip itinerary from Ubud to eastern Bali](/blog/bali-east-tour-guide/)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779103229342-_2026-05-18_18.20.11.png)
+![Location—Where in Bali? How Far from Where You’re Staying?](https://images.gobaligo.id/images/2026-05/1779103229342-_2026-05-18_18.20.11.png)
 
 ## Lempuyang isn't just one temple—complete structure of six temples (99% of visitors only reach the lowest level)
 
@@ -107,7 +107,7 @@ The 'Gates of Heaven' is merely the **lowest entrance** of the entire Lempuyang 
 
 99% of visitors leave after taking reflection photos, but the higher you go, the quieter it gets. The second temple, Pura Pasar Agung, is almost tourist-free, offering a completely different atmosphere from the base. If you have an extra 1.5 hours and decent stamina, continuing upward is highly rewarding.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779103398760-pura-lempuyang-temple-top-view.jpg)
+![Lempuyang isn't just one temple—complete structure of six te](https://images.gobaligo.id/images/2026-05/1779103398760-pura-lempuyang-temple-top-view.jpg)
 
 ## Full cost breakdown (2026 on-site rates)
 
@@ -127,7 +127,7 @@ The 'Gates of Heaven' is merely the **lowest entrance** of the entire Lempuyang 
 
 👉 [How much does private car hire cost? Day trip expenses](/blog/bali-private-car-hire-guide/)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779103736991-lempuyang-temple-opening-hours.jpg)
+![Full cost breakdown (2026 on-site rates)](https://images.gobaligo.id/images/2026-05/1779103736991-lempuyang-temple-opening-hours.jpg)
 
 ## Opening hours & best visiting times
 
@@ -227,7 +227,7 @@ Public restrooms are available near the parking area, costing 2,000–5,000 IDR.
 
 Just visiting the Gates of Heaven (first temple): Low physical demand, 20–30 minutes of mostly flat walking. Climbing further up the temple: Basic hiking stamina recommended, 2.5–3 hours one way with continuous stone steps. Not advisable for those with severe knee issues or poor cardiovascular health.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779103988684-aa7d6728-0a81-4109-8337-59b1ab86c587_sunrise-at-heaven-s-gate-lempuyang-luhur-bali.png)
+![Physical Requirements](https://images.gobaligo.id/images/2026-05/1779103988684-aa7d6728-0a81-4109-8337-59b1ab86c587_sunrise-at-heaven-s-gate-lempuyang-luhur-bali.png)
 
 ## Reflection Photo On-Site Guide
 
@@ -299,7 +299,7 @@ During the rainy season or on cloudy days, there's a high chance Mount Agung wil
 - If you're willing to continue up to the second and third temples → The authentic Balinese temple culture awaits there
 - If you're staying in Amed or the eastern region → It's close, takes little time, and can be done in half a day
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779104346761-pura-lempuyang-8.jpg)
+![Things to Know Before You Go: The Disappointment List](https://images.gobaligo.id/images/2026-05/1779104346761-pura-lempuyang-8.jpg)
 
 ## Frequently Asked Questions
 

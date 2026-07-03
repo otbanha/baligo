@@ -20,7 +20,7 @@ _srcHash: d7662a688d1f4fccdecbd7e401f29844
 
 身为印尼华人YouTuber的VY Journey冰冰晶晶，这次她展开了前往印尼巴厘岛北部Lovina Beach的旅程。通过这支视频，她以自己的观点，生动记录了整个行程。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_43ea8b73cf8a96d8efa3ca1b7c584d45.jpg)
+![巴厘岛Lovina看海豚游记](https://images.gobaligo.id/vocus/vocus_43ea8b73cf8a96d8efa3ca1b7c584d45.jpg)
 
 一开始，她说明了这次造访Lovina的主要原因，就是希望能有机会一睹传说中的海豚群芳踪。为了实现这个梦想，她特地安排在这里住上两天一夜。
 

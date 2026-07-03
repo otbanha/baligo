@@ -24,7 +24,7 @@ lang: en
 _srcHash: 70de6169fdf38ef0da33216e4c88f5d6
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6fb17aeb28479bd7b7d5a57f318dea63.jpg)
+![How to buy Bali Banana as a souvenir at Bali International A](https://images.gobaligo.id/vocus/vocus_6fb17aeb28479bd7b7d5a57f318dea63.jpg)
 
 Bali is a tourist paradise, and before leaving, many visitors choose to buy some souvenirs to take home. Bali Banana, this delicious banana cake, is a very popular choice.
 
@@ -54,13 +54,13 @@ Along the way, you'll see signs for "Domestic Terminal" — simply follow these 
 
 After roughly a 6-minute walk, you'll arrive at the "Domestic Arrival" exit. The distance isn't long, but it's best to maintain a steady pace.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f056d22cf1bed835ef9123c318dd302f.png)
+![3. About a 6-Minute Walk](https://images.gobaligo.id/vocus/vocus_f056d22cf1bed835ef9123c318dd302f.png)
 
 ### 4. Photo-Worthy Spot
 
 Near the domestic arrival exit, look to your right, and you'll find a spot perfect for taking photos. It's a great place to capture a memory, so don't forget to snap a picture.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6aff46880bacb87bf78aa5df4a4251d9.png)
+![4. Photo-Worthy Spot](https://images.gobaligo.id/vocus/vocus_6aff46880bacb87bf78aa5df4a4251d9.png)
 
 ### 5. Enter the Domestic Arrival Shopping Street
 
@@ -70,13 +70,13 @@ After taking photos, continue straight ahead into the domestic arrival shopping 
 
 In the shopping street, you'll find a very famous shop — Mixue (Mixue Bingcheng). As of 2023, Mixue is a chain beverage brand with over 36,000 stores in China, making it the largest chain brand by store count in China and the second-largest globally. If you're feeling tired, stop by for an ice cream to cool off.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d49906b7bc7fe633af4aebcab6a869de.png)
+![6. Enjoy Mixue Ice Cream](https://images.gobaligo.id/vocus/vocus_d49906b7bc7fe633af4aebcab6a869de.png)
 
 ### 7. Find Bali Banana
 
 Right next to Milksha, you'll find Bali Banana. This shop offers a variety of banana cakes, allowing you to choose your favorite flavors.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb25ddbefa192a9797a0f1a384548675.png)
+![7. Find Bali Banana](https://images.gobaligo.id/vocus/vocus_eb25ddbefa192a9797a0f1a384548675.png)
 
 ### 8. Approximately 10 Minutes
 

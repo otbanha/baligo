@@ -30,7 +30,7 @@ Baru masuk minggu kerja pertama tahun 2026, pemerintah provinsi Bali udah ngelua
 
 Selama ini, Bali fokus banget narik 'wisatawan berkualitas'. Baru-baru ini, Gubernur Bali Wayan Koster bilang ke depan bakal ada sistem seleksi yang lebih ketat buat mastiin turis asing yang masuk ke Bali punya kemampuan ekonomi yang cukup, plus bisa hormati budaya dan aturan setempat.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c1dcd6e46a27f2e95283d42fa682ab0e.jpg)
+![Bali Bakal Periksa Keuangan Turis Asing Hal yang Perlu Kamu ](https://images.gobaligo.id/vocus/vocus_c1dcd6e46a27f2e95283d42fa682ab0e.jpg)
 
 ---
 
@@ -50,7 +50,7 @@ Selain bukti finansial, pemerintah provinsi juga lagi pertimbangin minta turis k
 
 Arah kebijakan ini juga didukung oleh Menteri Pariwisata Indonesia, Widiyanti Wardhana. Berdasarkan data resmi, Bali menerima total 7,05 juta wisatawan pada tahun 2025, dan pemerintah provinsi berharap setidaknya bisa mempertahankan, atau bahkan melampaui angka tersebut di tahun 2026.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_77d1703ca43de56f00afd3828c760100.jpg)
+![Nggak Cuma Tabungan, Rencana Perjalanan Juga Bakal Dicek](https://images.gobaligo.id/vocus/vocus_77d1703ca43de56f00afd3828c760100.jpg)
 
 ---
 
@@ -92,7 +92,7 @@ Menanggapi hal ini, Gubernur Koster menyimpulkan: 'Kami sedang mengerahkan berba
 
 Ia menegaskan, ke depannya Bali tidak hanya mengejar jumlah wisatawan, tetapi benar-benar mewujudkan arah pengembangan pariwisata berkualitas tinggi melalui peraturan daerah dan tata kelola pariwisata yang baik.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3502f8f803871789aef085601ff7fd99.jpg)
+![Gubernur Tekankan Perencanaan Jangka Panjang, Fokus pada 'Wi](https://images.gobaligo.id/vocus/vocus_3502f8f803871789aef085601ff7fd99.jpg)
 
 ---
 

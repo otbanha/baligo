@@ -30,7 +30,7 @@ _srcHash: 6b5f9250a2aa069024f46ebab018511f
 
 同庫塔同水明漾呢啲熱門旅遊區相比，沙努爾更加寧靜、深沉。呢度嘅海灘寬闊平緩，適合散步同放鬆。同嗰啲充斥住派對同購物嘅地方相比，沙努爾更加關注家庭度假嘅度假村同自然之美。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_073aa8625b9752317012e08a6c4b75d8.jpg)
+![沙努爾同峇里島其他區域氛圍嘅唔同](https://images.gobaligo.id/vocus/vocus_073aa8625b9752317012e08a6c4b75d8.jpg)
 
 {{block:klook}}
 

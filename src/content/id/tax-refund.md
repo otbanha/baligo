@@ -46,7 +46,7 @@ Pemerintah Indonesia punya program 'Tax Refund for Tourists' yang ngasih kesempa
 
 ## 2. **Apa yang Perlu Diperhatikan Waktu Belanja?**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776321690797-untitled_design_24_.webp)
+![2. Apa yang Perlu Diperhatikan Waktu Belanja?](https://images.gobaligo.id/images/2026-04/1776321690797-untitled_design_24_.webp)
 
 - **Hanya** di toko yang ada logo **'Tax Refund for Tourists'** atau **'VAT Refund for Tourists'** (kebanyakan mal besar, toko branded, daerah Kuta, Seminyak, Ubud, dll udah punya).
 - **Wajib tunjukin paspor** waktu belanja, bilang ke kasir mau refund PPN, nanti toko bakal kasih **faktur pajak resmi** (valid tax invoice) beserta struk pembayaran.
@@ -84,7 +84,7 @@ Pemerintah Indonesia punya program 'Tax Refund for Tourists' yang ngasih kesempa
 - Jasa (akomodasi, restoran, sewa mobil, tur guide, dll) gak bisa refund.
 - Toko tanpa logo resmi, faktur tanpa paspor, barang yang gak dibawa keluar negeri, semuanya gak bisa refund.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776321764381-vat_refund_11zon.jpeg)
+![5. Barang yang Gak Bisa Direfund](https://images.gobaligo.id/images/2026-04/1776321764381-vat_refund_11zon.jpeg)
 
 ## 6. **Tips Praktis (Wajib Tahu buat yang Belanja di Bali)**
 

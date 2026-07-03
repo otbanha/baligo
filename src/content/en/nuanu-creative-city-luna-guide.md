@@ -32,9 +32,9 @@ _srcHash: e37517f7aacfb95ec4046a9aaa34470d
 
 Nuanu Creative City is a 44-hectare creative complex located in Tabanan, Bali (south of Tanah Lot Temple), founded in 2020 by Russian tech entrepreneur Sergey Solonin with a total investment of USD$100 million. The ambitious project's name, **Nuanu**, derives from Balinese, meaning **'in progress,'** symbolizing the evolving and developing nature of this creative city. Solonin initiated the project after relocating to Bali five years ago, aiming to create an ecosystem where art, technology, and nature coexist harmoniously.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_230a98391040576dc238fdc78997c8bd.jpg)
+![【2026 Bali's New Landmark】Nuanu Creative City Complete Guide](https://images.gobaligo.id/vocus/vocus_230a98391040576dc238fdc78997c8bd.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_050f83e3bdd651c44e727413c0513b60.jpg)
+![【2026 Bali's New Landmark】Nuanu Creative City Complete Guide](https://images.gobaligo.id/vocus/vocus_050f83e3bdd651c44e727413c0513b60.jpg)
 
 ## Founding Philosophy and Principles
 
@@ -78,7 +78,7 @@ This creative city represents a new model of urban development, demonstrating th
 
 Nuanu Creative City Map
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e37cdbf758682d226891a2cda8d4620f.png)
+![Community Engagement and Global Vision](https://images.gobaligo.id/vocus/vocus_e37cdbf758682d226891a2cda8d4620f.png)
 
 ***
 
@@ -88,7 +88,7 @@ Nuanu Creative City has completed several independent projects, with more curren
 
 ### The Earth Sentinels (📍 [Map Location](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5dcdfe9ea3388581b2c312023e4c5bc6.jpg)
+![The Earth Sentinels ( Map Location)](https://images.gobaligo.id/vocus/vocus_5dcdfe9ea3388581b2c312023e4c5bc6.jpg)
 
 At the entrance of Nuanu Creative City in Bali, stand two towering 14-meter sculptures titled 'The Earth Sentinels,' created by renowned South African artist Daniel Popper. This piece combines natural and human forms, symbolizing the connection between humanity and the Earth, serving as a striking artistic landmark.
 
@@ -96,7 +96,7 @@ We have a more detailed introduction [here](/blog/the-earth-sentinels-nuanu/)
 
 ### Aurora Media Park (📍 [Map Location](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ccadbb50791853d081d5c1d8594d1117.jpg)
+![Aurora Media Park ( Map Location)](https://images.gobaligo.id/vocus/vocus_ccadbb50791853d081d5c1d8594d1117.jpg)
 
 Aurora Media Park Bali is a new landmark that merges nature with interactive multimedia technology. Located in the Nuanu Creative Area of Tabanan Regency, this attraction offers a 1-kilometer-long open forest experience filled with interactive light and sound games, utilizing artificial intelligence (AI) to create an immersive multimedia environment. Visitors can experience both visual and auditory sensations in this 5,000-square-meter natural forest, while also finding spiritual inspiration, as if entering a new dimension.
 
@@ -104,9 +104,9 @@ For more details, check out [this link](/blog/aurora-media-park-canggu/).
 
 ### Luna Beach Club (📍 [Map Location](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2ebe42f33b8582367dc14571293e4f30.jpg)
+![Luna Beach Club ( Map Location)](https://images.gobaligo.id/vocus/vocus_2ebe42f33b8582367dc14571293e4f30.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_862e1c3dc36808c270c370d7aa53a18e.jpg)
+![Luna Beach Club ( Map Location)](https://images.gobaligo.id/vocus/vocus_862e1c3dc36808c270c370d7aa53a18e.jpg)
 
 Luna Beach Club is a lifestyle destination within Nuanu Creative City that combines natural beauty, artistic creativity, and diverse experiences. Opened in 2024, this beach club stands out with its unique design and innovative entertainment concept, becoming a shining gem on Bali's west coast. From stunning ocean views to imaginative architecture, Luna Beach Club offers visitors an escape from daily life, immersing them in a dreamlike space where nature and art intertwine.
 
@@ -114,7 +114,7 @@ For a detailed introduction, please visit [here](/blog/luna-beach-club-nuanu-tab
 
 ### Magic Garden (📍 [Map Location](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0dc9c81538fe90ee177b3d0b4ec47b86.jpg)
+![Magic Garden ( Map Location)](https://images.gobaligo.id/vocus/vocus_0dc9c81538fe90ee177b3d0b4ec47b86.jpg)
 
 Magic Garden, a newly opened natural park in November 2024, is perfect for family and children's outings. This 3,600-square-meter attraction features a rich variety of plants and interactive experiences that are both educational and fun.
 
@@ -122,7 +122,7 @@ For more details, check out [here](/blog/nuanu-magic-garden-bali/)
 
 ### Pacha Alpaca Alpaca Interaction Picnic: A Natural Classroom for Kids (📍 [Map Location](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f5c503cbc02f081c28df1c69935caf4.jpg)
+![Pacha Alpaca Alpaca Interaction Picnic: A Natural Classroom ](https://images.gobaligo.id/vocus/vocus_9f5c503cbc02f081c28df1c69935caf4.jpg)
 
 If you're planning a fun and educational family trip, the **Pacha Alpaca Alpaca Interaction Experience** is the perfect choice! Located in the Nuanu Nature Reserve, this attraction not only allows children to get up close with adorable alpacas but also lets the whole family enjoy a peaceful and unforgettable time in nature.
 
@@ -130,11 +130,11 @@ This is a healing journey suitable for the whole family. For a more in-depth int
 
 ### Labyrinth Collective (📍 [Map Location](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a2a71ff6c53251d78f27c760d922bc51.jpg)
+![Labyrinth Collective ( Map Location)](https://images.gobaligo.id/vocus/vocus_a2a71ff6c53251d78f27c760d922bc51.jpg)
 
 Bali's creative and cultural development has a new highlight! Located in Nuanu Creative City, Labyrinth Collective is an innovative space that blends art, technology, and sustainable development, offering travelers a unique immersive experience and creative environment. From the **Immersive Dome Theater** to the **Music Studio** and **Maker Space**, this place provides a stage to transform art, sound, and creativity into reality.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_98e5092dee7ea89f0fccc3ef0b416d34.png)
+![Labyrinth Collective ( Map Location)](https://images.gobaligo.id/vocus/vocus_98e5092dee7ea89f0fccc3ef0b416d34.png)
 
 Especially the immersive dome theater, which hosts spectacular song and dance shows every Friday, equipped with 12 16,000-lumen projectors for panoramic projection mapping, creating a surreal visual experience. The 30-meter diameter dome, combined with projection technology, immerses the audience in the world of the story, delivering an unprecedented audio-visual feast.
 
@@ -150,7 +150,7 @@ We have an in-depth introduction [here](/blog/labyrinth-collective-nuanu-bali/)
 
 ### Jungle Kids Bali: More Than Just a Playground (📍 [Map Location](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1762eae74f516e39616361546f7f4074.png)
+![Jungle Kids Bali: More Than Just a Playground ( Map Location](https://images.gobaligo.id/vocus/vocus_1762eae74f516e39616361546f7f4074.png)
 
 This is not just an ordinary playground, but a multifunctional space that combines exploration, learning, and creative experiences. It offers a variety of play facilities, from outdoor rope parks to indoor play areas, as well as daily art and craft workshops, allowing children to learn through play and develop creativity and social skills.
 
@@ -170,7 +170,7 @@ Detailed introduction can be found [here](/blog/lumeira-wellness-bali-spa/)
 
 ## Activities at Nuanu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c695b816c2bf67f3e9b73fb5eeacbd91.png)
+![Activities at Nuanu](https://images.gobaligo.id/vocus/vocus_c695b816c2bf67f3e9b73fb5eeacbd91.png)
 
 In addition to the aforementioned unique attractions, Nuanu's official website is packed with fascinating activities! These activities are essential for anyone interested in Nuanu as a city of creativity!
 
@@ -216,7 +216,7 @@ Surrounded by an artistic and eco-friendly atmosphere, just a short walk from Nu
 
 ## Nuanu Creative City Guide Map
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6899d9926a3116e505047c8aca248632.png)
+![Nuanu Creative City Guide Map](https://images.gobaligo.id/vocus/vocus_6899d9926a3116e505047c8aca248632.png)
 
 For a detailed map, click [here](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing).
 

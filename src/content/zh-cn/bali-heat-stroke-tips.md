@@ -14,7 +14,7 @@ lang: zh-cn
 _srcHash: d7700bf26d728e7acbb694714e598472
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0d7db454b968029e4ed332b57c147411.jpg)
+![【巴厘岛生存指南】中暑了怎么办？当地人才知道的 3 大消暑神水与SPA、急救建议！](https://images.gobaligo.id/vocus/vocus_0d7db454b968029e4ed332b57c147411.jpg)
 
 在巴厘岛旅游时，由于气候湿热，中暑（Heat Exhaustion/印尼文 Kelelahan panas）或热衰竭是相当常见的状况。除了标准的躲进阴凉处和大量喝水外，巴厘岛当地有一些非常有特色的「解暑良方」可以帮助你快速恢复：
 
@@ -50,7 +50,7 @@ _srcHash: d7700bf26d728e7acbb694714e598472
 
 ## 中暑后可以按摩或spa吗？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1120e315e89abf9baad7f4e4f333bee6.png)
+![中暑后可以按摩或spa吗？](https://images.gobaligo.id/vocus/vocus_1120e315e89abf9baad7f4e4f333bee6.png)
 
 中暑之后是否可以按摩或进行 SPA，取决于你目前的**身体状况**与**疗程类型**。在巴厘岛这种热带气候下，错误的按摩可能会加重中暑症状，因此需要特别谨慎。
 

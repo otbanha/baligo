@@ -23,7 +23,7 @@ _srcHash: 833cd7e2c527d89c0890f0a731ee4045
 
 ### Kementerian Kesehatan Indonesia baru-baru ini mengumumkan bahwa karena meningkatnya kasus Mpox (sebelumnya dikenal sebagai cacar monyet) secara global, prosedur skrining di Bali dan daerah lain akan diperketat. Mpox adalah virus yang sangat menular, jadi kita semua perlu lebih waspada.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_69c98b8211e806d7a145a78b20e10aca.jpg)
+![Kementerian Kesehatan Indonesia baru-baru ini mengumumkan ba](https://images.gobaligo.id/vocus/vocus_69c98b8211e806d7a145a78b20e10aca.jpg)
 
 Pada 18 Agustus, Pelaksana Tugas Direktur Jenderal Kementerian Kesehatan, Yudhi Pramono, dalam konferensi pers menyatakan bahwa semua wisatawan asing yang masuk ke Indonesia kini wajib mengisi kuesioner kesehatan saat tiba. Kuesioner ini akan menanyakan kondisi kesehatan, riwayat kontak terbaru, dan tempat-tempat yang baru saja dikunjungi.
 

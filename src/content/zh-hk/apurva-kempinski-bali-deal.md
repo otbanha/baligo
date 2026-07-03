@@ -24,7 +24,7 @@ _srcHash: 6f4d356ff73058914e79b4017633c5db
 
 位於努沙杜瓦嘅頂級度假村 The Apurva Kempinski Bali 推出限時房價，**每晚只需 USD$350 起**，而且仲包早餐同下午茶。透過本站訂購，**再加送峇里島旅遊稅**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_33659c491db9821772fe0b9e2999c6bf.jpg)
+![峇里島凱賓斯基 Apurva Kempinski 限時優惠！ USD$350 入住五星酒店，包早餐＋下午茶](https://images.gobaligo.id/vocus/vocus_33659c491db9821772fe0b9e2999c6bf.jpg)
 
 對於想體驗峇里島奢華度假嘅旅客嚟講，呢個價錢確實相當少見。
 
@@ -97,13 +97,13 @@ The Apurva Kempinski Bali 可以話係近幾年峇里島討論度非常高嘅五
 
 酒店入口嘅巨型階梯同水景設計非常震撼，唔少旅客第一次行入大堂都會有「似皇宮咁」嘅感覺。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b2c6dd4d64edfb27d9a59fc360146e46.jpg)
+![1⃣ 峇里島最壯觀酒店建築之一](https://images.gobaligo.id/vocus/vocus_b2c6dd4d64edfb27d9a59fc360146e46.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0ae99415650fae4cc93da41258861288.jpg)
+![1⃣ 峇里島最壯觀酒店建築之一](https://images.gobaligo.id/vocus/vocus_0ae99415650fae4cc93da41258861288.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5037d4181b4843d1402440636aaa2bcb.jpg)
+![1⃣ 峇里島最壯觀酒店建築之一](https://images.gobaligo.id/vocus/vocus_5037d4181b4843d1402440636aaa2bcb.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_48c7cc7bc07742ffc352eadce74c52a1.jpg)
+![1⃣ 峇里島最壯觀酒店建築之一](https://images.gobaligo.id/vocus/vocus_48c7cc7bc07742ffc352eadce74c52a1.jpg)
 
 ## 2️⃣ 努沙杜瓦懸崖海景
 
@@ -125,25 +125,25 @@ The Apurva Kempinski Bali 可以話係近幾年峇里島討論度非常高嘅五
 
 如果時間確定，用咁嘅價錢體驗五星級度假村，其實係一個幾唔錯嘅機會。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_19d07c063a34a6a3f66c1b7738e56e1a.jpg)
+![峇里島旅遊觀察](https://images.gobaligo.id/vocus/vocus_19d07c063a34a6a3f66c1b7738e56e1a.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9eb0670415cc57a9b35245d39769bf37.jpg)
+![峇里島旅遊觀察](https://images.gobaligo.id/vocus/vocus_9eb0670415cc57a9b35245d39769bf37.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e2c54d836c5c2c5e0e464e79857d4241.jpg)
+![峇里島旅遊觀察](https://images.gobaligo.id/vocus/vocus_e2c54d836c5c2c5e0e464e79857d4241.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dda9a12566442ff8f2c06d7ac0e585e3.jpg)
+![峇里島旅遊觀察](https://images.gobaligo.id/vocus/vocus_dda9a12566442ff8f2c06d7ac0e585e3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ea14bbc58b3483b771c8f7f341641297.jpg)
+![峇里島旅遊觀察](https://images.gobaligo.id/vocus/vocus_ea14bbc58b3483b771c8f7f341641297.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d3343477e91ad3fc975a859517612ee8.jpg)
+![峇里島旅遊觀察](https://images.gobaligo.id/vocus/vocus_d3343477e91ad3fc975a859517612ee8.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_97014a532ae072a7353ed84d4de00453.jpg)
+![峇里島旅遊觀察](https://images.gobaligo.id/vocus/vocus_97014a532ae072a7353ed84d4de00453.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_10f5bf0f2e443a37f18dcaa1d0e61f4b.jpg)
+![峇里島旅遊觀察](https://images.gobaligo.id/vocus/vocus_10f5bf0f2e443a37f18dcaa1d0e61f4b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_109ae1e8bae39cc9c36aa072d7cf536f.jpg)
+![峇里島旅遊觀察](https://images.gobaligo.id/vocus/vocus_109ae1e8bae39cc9c36aa072d7cf536f.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_896b96bc68a66ab60d55c0e4e8f689fc.jpg)
+![峇里島旅遊觀察](https://images.gobaligo.id/vocus/vocus_896b96bc68a66ab60d55c0e4e8f689fc.jpg)
 
 酒店最吸引人嘅，當屬其知名嘅水族館餐廳KORAL。呢間座落喺酒店底層嘅餐廳，內有一個巨大嘅水族箱環繞，box座可以近距離欣賞熱帶魚類緩緩游動，視覺效果振奮人心。遊客點咗餐廳嘅"KORAL探索菜單"，每一道菜都富有創意，擺盤精緻別緻，運用當地新鮮食材，味道清新怡人。除咗主菜，餐前嘅可頌麵包同綜合沙拉油醋醬亦都令人印象深刻，開胃美味。
 

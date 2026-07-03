@@ -19,7 +19,7 @@ lang: zh-hk
 _srcHash: 600295c0176e9576547dfc373b850a78
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_90c38ac72764dbb29c604f9b35b3f960.jpg)
+![烏布藝術市場關閉，遊客有咩其他購物選擇？](https://images.gobaligo.id/vocus/vocus_90c38ac72764dbb29c604f9b35b3f960.jpg)
 
 **烏布藝術市場**作為峇里島最出名嘅旅遊景點之一，吸引咗無數遊客嚟買當地藝術品同手工藝品。不過，上個禮拜一場毀滅性嘅火災同埋後續善後，呢個繁華嘅市場將會喺近期持續關閉。呢場火災喺2024年8月17號發生，摧毀咗新嘅市場建築，俾當地經濟同埋上千名商販帶嚟咗巨大嘅衝擊。
 
@@ -35,7 +35,7 @@ _srcHash: 600295c0176e9576547dfc373b850a78
 
 ## **遊客嘅替代購物選擇**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b760e753c909251d2d41f17357a8e93d.png)
+![遊客嘅替代購物選擇](https://images.gobaligo.id/vocus/vocus_b760e753c909251d2d41f17357a8e93d.png)
 
 雖然烏布藝術市場而家關閉，但係遊客仍然可以喺峇里島嘅其他地點享受購物體驗。我哋嘅「**烏布攻略地圖**」提供咗「[五個烏布市場替代方案](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)」，等遊客唔使錯過買當地藝術品同手工藝品嘅機會。
 
@@ -53,7 +53,7 @@ _srcHash: 600295c0176e9576547dfc373b850a78
 
 📩 **立即加入「峇里島旅遊攻略」網誌，成為峇里島旅遊達人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![註冊加入我哋嘅網誌](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

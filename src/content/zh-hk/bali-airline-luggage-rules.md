@@ -19,21 +19,21 @@ _srcHash: eb4ebc8b21d892528749460af16ea411
 
 飛往峇里島嘅旅程，係一段充滿夢幻同奇蹟嘅體驗，而對於好多旅客嚟講，機上行李嘅限制常常係旅程中嘅一大考驗。為咗確保航空安全、提供更好嘅服務，飛峇里島嘅航空公司均設定咗一系列嘅行李限制，讓旅客喺出行前能有所準備。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_75cdac7984a270510cfc57093aa036cd.png)
+![飛峇里島常用航空公司行李規定懶人包](https://images.gobaligo.id/vocus/vocus_75cdac7984a270510cfc57093aa036cd.png)
 
 以下我哋列出咗台灣、香港朋友最常使用嘅三家航空公司嘅行李限制俾大家參考：
 
 ## 長榮航空
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_091759da1e2ff505b6ee56f141cc5264.png)
+![長榮航空](https://images.gobaligo.id/vocus/vocus_091759da1e2ff505b6ee56f141cc5264.png)
 
 ## 中華航空
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_df96d9694d34f46eb9dbdd904ce0b8e5.png)
+![中華航空](https://images.gobaligo.id/vocus/vocus_df96d9694d34f46eb9dbdd904ce0b8e5.png)
 
 ## 國泰航空
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fce8ee99876ef1edc7a88c2dc3372aeb.png)
+![國泰航空](https://images.gobaligo.id/vocus/vocus_fce8ee99876ef1edc7a88c2dc3372aeb.png)
 
 大多數航空公司都有關於手提行李嘅規定。通常情況下，每位乘客可以攜帶一件手提行李，尺寸同重量限制因航空公司而異。喺飛峇里島嘅航班上，常見嘅手提行李限制大約係23公分x36公分x56公分，重量則多為7公斤以下。然而，請注意呢啲規定可能因航空公司政策調整而有所變化，最好喺出發前仔細確認。
 

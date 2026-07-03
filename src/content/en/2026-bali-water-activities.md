@@ -101,7 +101,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### 6. Scuba Diving
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e4f9d3574fd448e635155a11a63a9ec0.png)
+![6. Scuba Diving](https://images.gobaligo.id/vocus/vocus_e4f9d3574fd448e635155a11a63a9ec0.png)
 
 - **Overview**: Bali is a world-class diving destination with rich marine biodiversity, suitable for everyone from beginners to technical divers. You can see coral reefs, shipwrecks, and even manta rays and sunfish (Mola Mola).
 - **Recommended Dive Sites**:
@@ -119,13 +119,13 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### 6.1 Snorkeling
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8931b9fe6f6fd60c4c95f35857142770.jpg)
+![6.1 Snorkeling](https://images.gobaligo.id/vocus/vocus_8931b9fe6f6fd60c4c95f35857142770.jpg)
 
 > Check out [The Ultimate Guide to Bali’s Best Snorkeling Spots: A Beginner-Friendly Ocean Adventure](/blog/bali-snorkeling-spots/)
 
 ### 7. Sea Walking
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f7bdbcc0d649ea079dbe5163739266a5.jpg)
+![7. Sea Walking](https://images.gobaligo.id/vocus/vocus_f7bdbcc0d649ea079dbe5163739266a5.jpg)
 
 - **Overview**: Wearing a special oxygen helmet, you walk on the seabed and get up close to coral reefs and tropical fish. No diving experience or swimming skills required—you don’t even need to take off your glasses. Perfect for those afraid of water or travelers who want an easy underwater experience.
 - **Recommended Location**: Tanjung Benoa.
@@ -137,7 +137,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### 8. White Water Rafting
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f2a9d8b8bce68c18fddbd3554831cf6a.jpg)
+![8. White Water Rafting](https://images.gobaligo.id/vocus/vocus_f2a9d8b8bce68c18fddbd3554831cf6a.jpg)
 
 - **Overview**: Go white water rafting on rivers in central Bali, passing through tropical rainforests, rice terraces, and canyons, with chances to see waterfalls and wildlife along the way. The rapids are graded at different levels, suitable for families or thrill-seeking adventurers.
 - **Recommended Locations**:
@@ -178,7 +178,7 @@ https://youtube.com/shorts/0f-eAQ78no4?si=L7S8-kjpwt_VcsLh
 
 ### 12. Dolphin Watching
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_399f7b08094dc7f6d4273d9eaabb76c6.jpg)
+![12. Dolphin Watching](https://images.gobaligo.id/vocus/vocus_399f7b08094dc7f6d4273d9eaabb76c6.jpg)
 
 - **Overview**: Set out by boat around 6 AM to watch wild dolphins in the northern waters of Bali. You can often see dozens of dolphins leaping and playing—a spectacular sight. It's recommended to book in advance and depart on time to increase your chances of a successful sighting.
 - **Recommended Location**: Lovina.
@@ -221,9 +221,9 @@ Beach clubs scattered across Bali are a must-visit for travelers looking to soak
 
   **Luxury Float Rental Service**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c068d50978234e879e8f87aec69d92f5.png)
+![Bonus: Pool Floating](https://images.gobaligo.id/vocus/vocus_c068d50978234e879e8f87aec69d92f5.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_790a033adc23cb620a87c55b53d1cf83.png)
+![Bonus: Pool Floating](https://images.gobaligo.id/vocus/vocus_790a033adc23cb620a87c55b53d1cf83.png)
 
 Under Bali's warm sun, let a stylish float add a trendy touch to your vacation! Providers offer a convenient delivery service straight to your hotel room or villa doorstep, so you don't have to lift a finger. Both kids and adults can enjoy the water fun. From classic round designs to dreamy unicorns and tropical flamingo shapes, there's a wide range of sizes, shapes, and styles to choose from, adding more joy and photo-worthy moments to your pool time!
 

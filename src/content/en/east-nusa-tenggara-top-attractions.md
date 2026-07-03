@@ -31,7 +31,7 @@ _srcHash: 4c7b6519f6231624c2f62cc4d7dae706
 ---
 **Top 10 Stunning Tourist Attractions in East Nusa Tenggara (NTT): Exploring Southeast Indonesia's Natural Wonders**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d533378734952d93925747e329aad969.jpg)
+![Beyond Komodo: East Nusa Tenggara's Top 10 Must-See Landscap](https://images.gobaligo.id/vocus/vocus_d533378734952d93925747e329aad969.jpg)
 
 East Nusa Tenggara (Nusa Tenggara Timur, NTT) is a hidden gem of Indonesia, boasting numerous breathtaking natural and cultural attractions. Located in southeastern Indonesia, this province attracts visitors with its enchanting islands and diverse ecosystems. This article will take you deeper into some must-visit spots in NTT.
 
@@ -139,7 +139,7 @@ Alor Island
 
 For all the detailed locations mentioned above, please refer to the Google Map we've prepared. Click [here](https://www.google.com/maps/d/u/0/edit?mid=1yez9rhVYwAPXJbLL5LS7d_xEOy4eM9Q&usp=sharing).
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8b8da8fc080d7b575e99856a701148b8.png)
+![Attractions Map](https://images.gobaligo.id/vocus/vocus_8b8da8fc080d7b575e99856a701148b8.png)
 
 ## **Conclusion**
 

@@ -20,7 +20,7 @@ _srcHash: 3ceaf3d3130598bb291a0f42f004669b
 ---
 Pernah minta saran di grup Facebook [[Bali/Indonesia吃喝玩樂](https://www.facebook.com/groups/indonesia.travelguide/)] atau [[Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo/)]? Atau lihat-lihat 40+ catatan perjalanan anggota grup yang udah dikumpulin di blog ini? Info-info itu pasti bantu banget buat rencana perjalanan kamu.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e6aacccee7d013aa323bc47900aea7e1.png)
+![Cara Menulis Catatan Perjalanan Bali yang Keren](https://images.gobaligo.id/vocus/vocus_e6aacccee7d013aa323bc47900aea7e1.png)
 
 Sekarang giliran kamu yang mau bagi-bagi cerita perjalanan? Kontribusi tulus kamu bakal bantu banyak wisatawan yang mau ke Bali!
 
@@ -38,7 +38,7 @@ Sebelum mulai nulis, kamu bisa cerita dulu kenapa milih liburan ke Bali. Mau san
 
 ## **2. Persiapan Sebelum Berangkat**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_60272d510a19f0660d0f87d9ac0c7ef5.png)
+![2. Persiapan Sebelum Berangkat](https://images.gobaligo.id/vocus/vocus_60272d510a19f0660d0f87d9ac0c7ef5.png)
 
 Sebelum berangkat ke Bali, persiapan apa aja yang kamu lakukan? Boleh dong share tips persiapan perjalanan kamu, termasuk cara booking tiket pesawat dan hotel, rencana itinerary, urusan visa, packing barang, dan lain-lain. Info ini pasti berguna banget buat traveler lain yang mau ke Bali.
 
@@ -50,7 +50,7 @@ Sebelum berangkat ke Bali, persiapan apa aja yang kamu lakukan? Boleh dong share
 
 ## **3. Itinerary Harian**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f69316f2cf96c7f3a04f4f9266deefa1.png)
+![3. Itinerary Harian](https://images.gobaligo.id/vocus/vocus_f69316f2cf96c7f3a04f4f9266deefa1.png)
 
 Ini bagian paling seru dari catatan perjalanan. Kamu bisa nulis sesuai urutan hari. Buat tiap hari, ceritain detail ini:
 
@@ -67,7 +67,7 @@ Ini bagian paling seru dari catatan perjalanan. Kamu bisa nulis sesuai urutan ha
 
 ## **4. Rekomendasi Driver**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_561337d8175ccbadeeef76b67d4d97f2.png)
+![4. Rekomendasi Driver](https://images.gobaligo.id/vocus/vocus_561337d8175ccbadeeef76b67d4d97f2.png)
 
 Kalau selama di Bali kamu pakai jasa driver sewaan, boleh share rekomendasi driver kamu. Ceritain sikap pelayanan driver, kemampuan nyetir, dan soal tarifnya.
 
@@ -79,7 +79,7 @@ Kalau selama di Bali kamu pakai jasa driver sewaan, boleh share rekomendasi driv
 
 ## **5. Pengalaman Liburan**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a577f9bc0d5c02c673874a6c29404c4.png)
+![5. Pengalaman Liburan](https://images.gobaligo.id/vocus/vocus_9a577f9bc0d5c02c673874a6c29404c4.png)
 
 Di akhir cerita perjalanan, kamu bisa bagiin kesan umum soal liburan ke Bali. Apa aja yang kamu dapet? Ada pengalaman atau pelajaran berharga yang bisa dibagi? Cerita kamu bakal bantu traveler lain buat rencanain liburan ke Bali dengan lebih oke.
 
@@ -91,7 +91,7 @@ Di akhir cerita perjalanan, kamu bisa bagiin kesan umum soal liburan ke Bali. Ap
 
 ## **Beberapa Saran Tambahan:**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c391482abfdb4919d7749336f8e8589a.png)
+![Beberapa Saran Tambahan:](https://images.gobaligo.id/vocus/vocus_c391482abfdb4919d7749336f8e8589a.png)
 
 - Pakai foto dan video biar cerita perjalanan kamu makin hidup.
 - Jaga tulisan tetap singkat dan enak dibaca.

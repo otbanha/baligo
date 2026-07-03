@@ -28,7 +28,7 @@ _srcHash: 27f30d178dcd0eb894fce9668f7f5411
 
 ## **Liburan ke Bali, Bawa Tunai atau Kartu Kredit?**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_832db431875e09d43fff04ac9260f412.jpg)
+![Liburan ke Bali, Bawa Tunai atau Kartu Kredit?](https://images.gobaligo.id/vocus/vocus_832db431875e09d43fff04ac9260f412.jpg)
 
 Bali itu destinasi favorit banget buat traveler dari Taiwan, Hong Kong, Singapura, Malaysia — baik hotel mewah, restoran unik, atau SPA pijat, bayar pakai kartu kredit keliatannya praktis, tapi sebenarnya banyak risiko tersembunyi. Masalah kayak kartu kredit dicuri, biaya admin gede, penipuan pedagang sering banget terjadi. Kalau nggak hati-hati, liburan seru bisa berubah jadi mimpi buruk keuangan.
 
@@ -93,7 +93,7 @@ Di Bali, beberapa merchant kadang melakukan hal ini tanpa sepengetahuan kamu:
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5f0902c94005ab50560d815cb81e2471.png)
+![Tiga: Biaya Tambahan & Tip Paksa dari Merchant](https://images.gobaligo.id/vocus/vocus_5f0902c94005ab50560d815cb81e2471.png)
 
 ## **Empat: Risiko Pre-authorization**
 

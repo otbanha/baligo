@@ -16,7 +16,7 @@ _srcHash: 3a31ae50ed5d048579cb422a3e04925f
 
 峇里島唔單止以自然風光聞名，更加係文化藝術嘅寶庫。對於熱愛深入當地文化嘅旅人嚟講，參與傳統銀飾工坊，係一種深度體驗嘅方式。從一塊純銀開始，經歷打磨、塑形、雕刻，再到親手完成一件屬於自己嘅飾品，呢個過程唔單止係創作，更加係一段文化嘅探索。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f94752e3483bb66819ab469739a0853.png)
+![點解你唔可以錯過峇里島嘅銀匠體驗？](https://images.gobaligo.id/vocus/vocus_9f94752e3483bb66819ab469739a0853.png)
 
 ## **銀匠工藝嘅歷史與文化意義**
 
@@ -46,7 +46,7 @@ Celuk 村一直係峇里島銀飾嘅重鎮。當地著名銀飾品牌 Celuk Bali
 
 ▶[坎古銀飾製作工坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1079090&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F122280-silver-jewelry-making-class-in-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D87d5cc33a5)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_80cd9d0a888b0c36ad377197e03ea429.png)
+![烏布同坎古嘅小型工作坊](https://images.gobaligo.id/vocus/vocus_80cd9d0a888b0c36ad377197e03ea429.png)
 
 ### 其他地區嘅銀飾工坊
 
@@ -58,7 +58,7 @@ Celuk 村一直係峇里島銀飾嘅重鎮。當地著名銀飾品牌 Celuk Bali
 
 ▶[烏魯瓦圖銀飾製作工作坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1079090&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F124445-silver-jewelry-making-class-in-uluwatu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5fc62a37c7)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b62601a500ecbf580fa9aa3280386f36.png)
+![其他地區嘅銀飾工坊](https://images.gobaligo.id/vocus/vocus_b62601a500ecbf580fa9aa3280386f36.png)
 
 ## **點樣預約同準備參加工作坊？**
 

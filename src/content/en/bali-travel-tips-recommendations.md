@@ -104,7 +104,7 @@ Ku De Ta is one of Seminyak's beachfront restaurant series, where you can enjoy 
 
 Potato Head is another restaurant in Seminyak and the biggest surprise of this trip. We visited on a Saturday and enjoyed Indonesian and Balinese dishes—every single one was delicious and far exceeded my expectations. The beach next to the restaurant is also stunning, making this my top pick for the foodie tour. The average cost per person was around USD$32; I’ve forgotten the exact price, but it was absolutely worth it. I’d give this restaurant a 99 out of 100.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6f15aa6fe69a04c67c5c8622b55bb1ab.png)
+![Potato Head](https://images.gobaligo.id/vocus/vocus_6f15aa6fe69a04c67c5c8622b55bb1ab.png)
 
 ### Warung Nia
 
@@ -112,7 +112,7 @@ Warung Nia is a very popular pork rib spot in downtown Seminyak. When we went fo
 
 ### Koral
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0bda877aa3ae4ea0760efc8f0b0bd4b4.jpg)
+![Koral](https://images.gobaligo.id/vocus/vocus_0bda877aa3ae4ea0760efc8f0b0bd4b4.jpg)
 
 Koral is a high-end restaurant inside the Kempinski Hotel. Since we had a large group, we booked three tables. But when we arrived, we were told two tables had been canceled, and the staff loudly claimed they had contacted me two days earlier with no reply. That really ticked me off—I was either on the beach, in the pool, or enjoying food the whole time; who has time to check emails? And their attitude was incredibly arrogant. If you’re not a white person decked out in designer brands, I’d advise you not to put up with that treatment. In the end, I argued with them in English, and their attitude softened a bit, but the overall experience was terrible. I’d give this restaurant a 0 out of 100.
 
@@ -128,7 +128,7 @@ He responds to messages very quickly, and communicating with him in English is c
 
 ## Summary
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3266a1005589ebc80036e11447500755.png)
+![Summary](https://images.gobaligo.id/vocus/vocus_3266a1005589ebc80036e11447500755.png)
 
 This trip to Bali, from luxurious accommodations to authentic local cuisine, allowed me to experience the unique charm of this island. Although there were a few hiccups along the way, they only made the journey more memorable. If you're planning a trip to Bali, I hope my experience can offer you some practical tips to make your journey smoother and more enjoyable. Whether you're seeking luxury or exploring local culture, Bali is sure to leave you with unforgettable memories.
 

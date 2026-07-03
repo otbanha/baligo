@@ -25,19 +25,19 @@ Jimbaran, surganya Bali, terkenal banget sama sunset di pantai dan seafood-nya. 
 
 Kenalan Sama Jimbaran dalam 3 Menit
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0787dc59265571ddcbf186366b00e3b5.png)
+![Panduan Liburan ke Jimbaran, Bali: 30+ Tempat Wisata Wajib D](https://images.gobaligo.id/vocus/vocus_0787dc59265571ddcbf186366b00e3b5.png)
 
 Peta Panduan Jimbaran yang Bisa Diperbesar & Disimpan
 
 ## Pantai Cantik di Jimbaran (👉🏼 Peta: [Spot Wajib Kunjung di Jimbaran](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0bdc3d1ef8702189f170e20bc619a2a3.jpg)
+![Pantai Cantik di Jimbaran ( Peta: Spot Wajib Kunjung di Jimb](https://images.gobaligo.id/vocus/vocus_0bdc3d1ef8702189f170e20bc619a2a3.jpg)
 
 Yang paling bikin Jimbaran bikin jatuh hati ya pantainya yang cantik banget. Pantai Jimbaran itu surga banget — pasir putih lembut yang membentang, air laut jernih yang hangat, dan pemandangan laut yang spektakuler. Mau santai berjemur, jalan-jalan di tepi pantai, atau main air di laut, semua bisa kamu lakukan di sini. Sunset di Jimbaran juga udah terkenal seantero dunia! Setiap sore saat matahari tenggelam, seluruh pantai diselimuti cahaya jingga kemerahan, menciptakan suasana romantis yang bikin hati meleleh.
 
 ## Cicipi Seafood Lezat (👉🏼 Peta: [Restoran Seafood dengan Pemandangan Sunset](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f95206ce600cf65cd22d6a6a27db0448.jpg)
+![Cicipi Seafood Lezat ( Peta: Restoran Seafood dengan Pemanda](https://images.gobaligo.id/vocus/vocus_f95206ce600cf65cd22d6a6a27db0448.jpg)
 
 Jimbaran terkenal banget sama seafood-nya yang juara, jadi jangan sampai kelewatan ya! Di sepanjang pantai ada banyak restoran seafood yang terkenal dengan bahan segar dan teknik masak yang oke punya. Mau kamu suka ikan bakar, lobster, atau aneka bumbu lezat, restoran seafood di Jimbaran pasti bisa memuaskan lidahmu. Plus, sebagian besar restorannya punya pemandangan laut yang keren, jadi kamu bisa nikmatin makanan enak sambil lihat panorama laut yang memukau. Biar nggak salah pilih dan nggak kena harga mahal, cek dulu rekomendasi kami di "[10 Restoran Seafood Jimbaran, Bali: Rekomendasi Anti Gagal](/blog/jimbaran-seafood-restaurants-list/)".
 
@@ -66,7 +66,7 @@ Mau main? Wajib booking dulu ya:
 
 ## GWK Culture Park: Harta Karun Budaya Bali (👉🏼 Peta: [Destinasi Wajib di Jimbaran](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b7bbdc8f5e366d675157e3db28abb0c6.jpg)
+![GWK Culture Park: Harta Karun Budaya Bali ( Peta: Destinasi ](https://images.gobaligo.id/vocus/vocus_b7bbdc8f5e366d675157e3db28abb0c6.jpg)
 
 GWK Culture Park (Garuda Wisnu Kencana Cultural Park) adalah salah satu spot kece di Bali, lokasinya dekat Jimbaran. Taman budaya ini terkenal banget sama patung-patung megah, arsitektur keren, dan perpaduan budaya Bali yang kental. Begitu kamu masuk, kamu bakal dikelilingi sama patung dan bangunan spektakuler yang nunjukin kekayaan budaya Bali. Patung paling ikonik di sini adalah patung raksasa setinggi 121 meter yang menggabungkan Dewa Siwa Hindu dan burung Garuda dari mitologi Indonesia — ini patung tertinggi keempat di dunia! Nah, bangunan mirip menara yang sering kamu lihat di pinggir pantai Seminyak dan Canggu itu ternyata patung ini, lho!
 
@@ -81,7 +81,7 @@ Wilayah Jimbaran nggak cuma punya pantai cantik, tapi juga beberapa pantai kelas
 
 ## Nongkrong Seharian di Beach Club (👉🏼 Peta: [Destinasi Wajib di Jimbaran](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fb5828757cb51bb97da7adae4e92beac.jpg)
+![Nongkrong Seharian di Beach Club ( Peta: Destinasi Wajib di ](https://images.gobaligo.id/vocus/vocus_fb5828757cb51bb97da7adae4e92beac.jpg)
 
 Beach club di sekitar Jimbaran menawarkan berbagai aktivitas seru, baik di air maupun di darat. Klub-klub ini punya kolam renang, spa, aktivitas pantai, dan berbagai kegiatan yang cocok buat seluruh keluarga. Kamu bisa santai, nikmatin sinar matahari, atau ikut olahraga air seperti berlayar, naik kano, dan kayak. Beach club di sini adalah tempat liburan yang pas buat kamu yang pengen rileks dan bersenang-senang.
 
@@ -103,7 +103,7 @@ Kalau kamu lagi cari tempat buat lihat laut, nikmatin sunset, makan enak, dan be
 
 ## Nikmatin Makan Malam di Rock Bar (👉🏼 Peta: [Spot Wajib Kunjung di Jimbaran](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c5d73fcafda88280f1c041c3ca7a606f.jpg)
+![Nikmatin Makan Malam di Rock Bar ( Peta: Spot Wajib Kunjung ](https://images.gobaligo.id/vocus/vocus_c5d73fcafda88280f1c041c3ca7a606f.jpg)
 
 Rock Bar adalah restoran dan bar terkenal di Jimbaran yang punya pemandangan laut yang keren abis. Tempat ini terkenal karena posisinya yang unik di atas batu karang, persis di tepi tebing, dikelilingi lautan. Di sini, kamu bisa menikmati makanan internasional dan Indonesia yang lezat sambil lihat perubahan warna laut saat matahari terbenam. Rock Bar juga jadi tempat nongkrong malam yang populer, dengan berbagai koktail enak dan pertunjukan musik yang bikin makin seru.
 
@@ -111,7 +111,7 @@ Harus reservasi dulu, cara reservasinya [cek di sini](/blog/ayana-resort-bali-gu
 
 ## Naik Unta Sambil Lihat Pemandangan Laut, Nikmatin Waktu Santai (👉🏼 Peta: [Spot Wajib Kunjung di Jimbaran](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1fa3bd493c898afe802b800d39ad3818.jpg)
+![Naik Unta Sambil Lihat Pemandangan Laut, Nikmatin Waktu Sant](https://images.gobaligo.id/vocus/vocus_1fa3bd493c898afe802b800d39ad3818.jpg)
 
 Mau coba petualangan yang nggak bakal terlupakan? Di Kelan Beach, Jimbaran, ada pengalaman naik unta yang super unik! Di atas pasir putih yang cantik, ditemani suara ombak yang lembut, kamu bisa jalan-jalan naik unta — rasanya kayak lagi di negeri dongeng. Jangan lupa bawa HP atau kamera ya, biar bisa foto-foto sama unta-unta yang ramah ini dan abadikan pemandangan Kelan Beach yang juara. Aktivitas ini aman banget buat dewasa maupun anak-anak, soalnya pihak penyelenggara profesional bakal jagain keamanan kamu sepenuhnya, plus kasih panduan naik unta yang gampang dimengerti. Siap-siap buat petualangan pantai yang seru dan bikin kenangan unik!
 
@@ -119,7 +119,7 @@ Mau coba petualangan yang nggak bakal terlupakan? Di Kelan Beach, Jimbaran, ada 
 
 ## **Wisata Matahari Terbenam di Pura Uluwatu & Tari Kecak** (👉🏼 Peta: [Tempat Wajib Kunjung di Jimbaran](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_217afb04c28455f43d3135b503b3c6cd.jpg)
+![Wisata Matahari Terbenam di Pura Uluwatu & Tari Kecak ( Peta](https://images.gobaligo.id/vocus/vocus_217afb04c28455f43d3135b503b3c6cd.jpg)
 
 Warisan religi dan budaya Bali mencapai puncaknya lewat wisata ke Pura Uluwatu (Uluwatu Temple) dan pertunjukan Tari Kecak (Kecak Dance). Pura Uluwatu adalah salah satu pura paling spektakuler di Bali, berdiri di atas tebing yang menghadap langsung ke Samudra Hindia yang megah. Pura ini bukan cuma tempat ibadah penting, tapi juga spot kece buat lihat matahari terbenam. Pas matahari mulai turun, siluet Pura Uluwatu terpantul di langit jingga — pemandangannya bener-bener epic!
 
@@ -129,7 +129,7 @@ Apa sih isi pertunjukan Tari Kecak? Gimana cara pesan tiketnya? [Cek di sini](/b
 
 ## **Nikmati SPA: Wisata Relaksasi dan Penyembuhan di Bali** (👉🏼 Peta: [Rekomendasi SPA](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a4f111dbad2cd69e4a30fb09d6f0baba.jpg)
+![Nikmati SPA: Wisata Relaksasi dan Penyembuhan di Bali ( Peta](https://images.gobaligo.id/vocus/vocus_a4f111dbad2cd69e4a30fb09d6f0baba.jpg)
 
 Bali terkenal banget sama kekayaan alamnya dan pengalaman SPA yang menyembuhkan. Di kawasan Jimbaran, ada banyak resort SPA mewah dan pusat perawatan yang siap kasih kamu liburan relaksasi dan penyembuhan yang oke punya.
 
@@ -143,7 +143,7 @@ Di sini, kamu bisa pilih SPA outdoor di pinggir pantai, atau fasilitas SPA di te
 
 > [Sekar Jepun Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84346-sekar-jepun-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbdce49c54a)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e41e33ca4611cfd69a5a3d28eb35176f.png)
+![Nikmati SPA: Wisata Relaksasi dan Penyembuhan di Bali ( Peta](https://images.gobaligo.id/vocus/vocus_e41e33ca4611cfd69a5a3d28eb35176f.png)
 
 > [Ayutaya Flower Bath Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87655-ayutaya-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D96e7764301)
 
@@ -151,7 +151,7 @@ Di sini, kamu bisa pilih SPA outdoor di pinggir pantai, atau fasilitas SPA di te
 
 > [Raffles Spa](https://www.klook.com/zh-TW/activity/167025-balinese-healing-massage-at-raffles-spa-jimbaran/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9d8dd71616fd2e54cba7e488087cd293.jpg)
+![Nikmati SPA: Wisata Relaksasi dan Penyembuhan di Bali ( Peta](https://images.gobaligo.id/vocus/vocus_9d8dd71616fd2e54cba7e488087cd293.jpg)
 
 ## Makan Siang/Makan Malam Bintang Lima
 
@@ -159,11 +159,11 @@ Hotel Raffles di Bali, yang lebih dari sekadar bintang lima, adalah pilihan idea
 
 ▶ [Pesan Pengalaman Makan di Raffles Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1117521&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F167012-dining-experience-at-raffles-bali%2F)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8b544b02ff49fd0c221cb43b0dba1357.png)
+![Makan Siang/Makan Malam Bintang Lima](https://images.gobaligo.id/vocus/vocus_8b544b02ff49fd0c221cb43b0dba1357.png)
 
 ## Nikmati Resor Mewah (👉🏼 Peta: [Rekomendasi Penginapan Jimbaran](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_95e272186db9a8a64102950e3b8fdd0d.jpg)
+![Nikmati Resor Mewah ( Peta: Rekomendasi Penginapan Jimbaran)](https://images.gobaligo.id/vocus/vocus_95e272186db9a8a64102950e3b8fdd0d.jpg)
 
 Udah beres urusan akomodasi, di hotel/villa yang cantik gini, masa sih nggak foto-foto!? Nah, floating bed besar yang kece ini jadi道具 wajib di kolam renang pas liburan di pulau tropis. Tapi masalahnya, floating bed plus pompa angin ukurannya gede dan berat, jadi agak repot dibawa ke luar negeri. Tapi tenang, ada layanan di Bali yang bikin kamu nggak perlu pusing soal itu. Asal kamu nginep di area selatan kayak Jimbaran, Kuta, Legian, Seminyak, Canggu, Uluwatu, Nusa Dua, dan Sanur, kamu bisa dengan mudah menikmati serunya berbagai floating bed besar dengan banyak model.
 

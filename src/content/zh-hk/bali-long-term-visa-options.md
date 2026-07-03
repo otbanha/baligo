@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: 95ffa0bf6c9a0f91256a4c6f8c7096fa
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fe9cede54dcbc6979f0382bbc3d2c50f.png)
+![喺印尼/峇里島長期居住/移民嘅簽證選擇](https://images.gobaligo.id/vocus/vocus_fe9cede54dcbc6979f0382bbc3d2c50f.png)
 
 外國人可以選擇多種簽證同許可證嚟喺峇里島長期居住。一般嚟講，外國旅客可以申請以下類型嘅簽證：
 
@@ -56,7 +56,7 @@ _srcHash: 95ffa0bf6c9a0f91256a4c6f8c7096fa
 
 ## 使用居留許可證（ITAS/KITAS）喺峇里島長期居住
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8193a453448706bb3e740d33a35153d0.png)
+![使用居留許可證（ITAS/KITAS）喺峇里島長期居住](https://images.gobaligo.id/vocus/vocus_8193a453448706bb3e740d33a35153d0.png)
 
 居留許可證（ITAS/KITAS）係決定喺峇里島長期居住幾年嘅外國人最佳選擇。居留許可證嘅有效期可長達兩年（取決於許可證類型），並容許喺國內延長。此外，持有居留許可證者可以獲得多次再入境許可，容許佢哋自由進出印尼而唔影響居留許可證嘅有效性。
 
@@ -77,7 +77,7 @@ _srcHash: 95ffa0bf6c9a0f91256a4c6f8c7096fa
 
 📩 **立即加入「峇里島旅遊攻略」網誌，成為峇里島旅遊達人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![註冊加入我哋嘅網誌](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

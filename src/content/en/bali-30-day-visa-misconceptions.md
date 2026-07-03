@@ -26,7 +26,7 @@ _srcHash: 56cbb0f6e63ee5d5a1b3274a034c02f1
 
 Have you ever wondered if you can leave Indonesia on the 30th day with a 30-day visa on arrival? This is a common question among many travelers planning a trip to Indonesia/Bali. In this article, we will delve into all aspects of Indonesia's 30-day visa on arrival, answer your questions, and provide some practical travel tips.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_70896cbf940eae1c0bc1643d987e809d.png)
+![Indonesia/Bali Travel Guide: Common Misconceptions and Answe](https://images.gobaligo.id/vocus/vocus_70896cbf940eae1c0bc1643d987e809d.png)
 
 ## What is Indonesia's 30-Day Visa on Arrival?
 
@@ -66,7 +66,7 @@ If you wish to extend your stay in Indonesia, you can apply for a visa extension
 
 > Further Reading: [2024 Indonesia/Bali Online Visa Extension Guide](/blog/2024-bali-visa-extension/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_463dbab8ca6996865a358ae3450237dd.png)
+![Options for Extending Your Stay](https://images.gobaligo.id/vocus/vocus_463dbab8ca6996865a358ae3450237dd.png)
 
 Most searched for...
 
@@ -82,7 +82,7 @@ In addition to the 30-day visa on arrival, Indonesia offers other types of visas
 
 Indonesia's 30-day visa on arrival provides convenience for travelers, but it's important to carefully adhere to the relevant regulations. We hope this article has answered your questions and helped you plan your trip to Indonesia smoothly. Whether you're exploring Bali's beautiful beaches or experiencing Yogyakarta's historical culture, as long as you follow visa regulations and prepare in advance, you're sure to enjoy a carefree and wonderful journey. Wishing you an unforgettable time in Indonesia!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4a7b05fc53b5458c828b2e0087fcc74b.png)
+![Summary](https://images.gobaligo.id/vocus/vocus_4a7b05fc53b5458c828b2e0087fcc74b.png)
 
 Before reading our **"Ultimate Bali Travel Guide"**, we sincerely invite you to subscribe to our YouTube channel **"Jason Indonesia"** for more visual experience sharing. [Click here](http://bit.ly/youtube-jason) to subscribe now.
 

@@ -20,7 +20,7 @@ _srcHash: 737045a8b4d0f83dd1defb95afb1cdc5
 
 不久前才出炉的「十大全球浪漫旅游目的地」，根据Agoda旅行平台的大数据，其中巴厘岛名列全球第六名（[请看这里](/blog/valentines-day-romantic-destinations/)）；而另一份Tripadvisor 2024年度统计资料，巴厘岛更被列为度蜜月目的地的顶尖宝座，[击败马尔代夫夺得全世界冠军！](/blog/bali-honeymoon-destination/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b4f537565e91e25fd6de607522f7cb4d.jpg)
+![为何越来越多人选择巴厘岛度蜜月？巴厘岛度蜜月常见问题解答](https://images.gobaligo.id/vocus/vocus_b4f537565e91e25fd6de607522f7cb4d.jpg)
 
 到底巴厘岛为什么适合度蜜月？有什么是需要知道的？请看我们的介绍：
 
@@ -34,7 +34,7 @@ _srcHash: 737045a8b4d0f83dd1defb95afb1cdc5
 4. **豪华的住宿选择**：巴厘岛拥有各种各样的豪华住宿选择，从私人别墅到度假村和精品酒店，新人可以根据自己的喜好和预算找到理想的住宿。
 5. **温暖的气候**：巴厘岛享有温暖的热带气候，全年都适合度假，让新人可以随时前来享受阳光和海滩。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_26bfe55fe0402d823b5d3c0616e4eb56.jpg)
+![巴厘岛是蜜月的好地方吗？](https://images.gobaligo.id/vocus/vocus_26bfe55fe0402d823b5d3c0616e4eb56.jpg)
 
 请参考我们超过100家住宿推荐的「巴厘岛住宿指南」
 
@@ -44,7 +44,7 @@ _srcHash: 737045a8b4d0f83dd1defb95afb1cdc5
 
 ## 巴厘岛有什么景点？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_578a2c80200e7a9b72c15603321a0f47.jpg)
+![巴厘岛有什么景点？](https://images.gobaligo.id/vocus/vocus_578a2c80200e7a9b72c15603321a0f47.jpg)
 
 我们是最专业的巴厘岛旅游情报网站，我们提供了五百多个巴厘岛最新的热门旅游景点，您一定能在我们的攻略中找到很想去的景点！请看：
 
@@ -85,7 +85,7 @@ _srcHash: 737045a8b4d0f83dd1defb95afb1cdc5
 
 > 延伸阅读：[20间度蜜月度假村、浪漫villa推荐](/blog/bali-honeymoon-resorts-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0a0f01ddd3f1dbf1a47d1c9e05e9534b.png)
+![如何预订巴厘岛行程？](https://images.gobaligo.id/vocus/vocus_0a0f01ddd3f1dbf1a47d1c9e05e9534b.png)
 
 以下是一些评价很高的热门一日游：
 
@@ -115,7 +115,7 @@ _srcHash: 737045a8b4d0f83dd1defb95afb1cdc5
 
 ## 我只想去享受，不想自己规划
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6a98a77387904e995d38fd10ec0a471d.png)
+![我只想去享受，不想自己规划](https://images.gobaligo.id/vocus/vocus_6a98a77387904e995d38fd10ec0a471d.png)
 
 对于正在规划蜜月或浪漫之旅的情侣们来说，巴厘岛是一个充满魅力与浪漫氛围的目的地。虽然自行策划旅程有其乐趣，但要真正深入了解巴厘岛，需要更多的时间和资源。许多情侣希望能够轻松安排行程，专注于享受彼此的时光，这时候选择一家优秀的旅行社就显得格外重要。
 

@@ -20,7 +20,7 @@ _srcHash: c40c3d0478cc27d0675b0cde6e5caa0f
 
 峇里島嘅努拉萊國際機場將會喺2025年迎嚟新一階段嘅現代化升級。先進嘅安檢設備已經喺雅加達成功實施，未來會令旅客嘅通過量由每小時200人提升到500人。呢項升級唔單止令旅客嘅安檢過程更加快速，亦令機場工作人員嘅效率大幅提升。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7219f7c1515b7944a761ff88aa41b1a1.jpg)
+![峇里島機場加快安檢流程 – 效率提升2.5倍！](https://images.gobaligo.id/vocus/vocus_7219f7c1515b7944a761ff88aa41b1a1.jpg)
 
 ### 自動化托盤回傳系統：提升旅客流動效率
 
@@ -34,7 +34,7 @@ _srcHash: c40c3d0478cc27d0675b0cde6e5caa0f
 
 呢啲改進唔單止可以提升旅客嘅體驗，仲可以有效減少旅行壓力。旅客喺安檢線上花費嘅時間減少，意味住佢哋有更多時間喺登機前放鬆、購物或者食嘢。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d7c937fec0e1fbaf7b7decd596fb2992.png)
+![提升旅客體驗，減少旅行壓力](https://images.gobaligo.id/vocus/vocus_d7c937fec0e1fbaf7b7decd596fb2992.png)
 
 ### 三大優先升級領域
 
@@ -62,7 +62,7 @@ _srcHash: c40c3d0478cc27d0675b0cde6e5caa0f
 
 ## 📩 **立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

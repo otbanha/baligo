@@ -24,7 +24,7 @@ _srcHash: 982cf84d358bdbe2150bdf0c134be6e1
 
 Ini catatan perjalanan seru kami sekeluarga berempat di Bali dan Pulau Komodo. Kami nginep tiga hari di Bali, lalu dua hari di Komodo, total lima hari petualangan, dan ikut paket liveaboard dua hari satu malam di Komodo.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2d9f08d24d85d4d49023c4b8db0a7e5f.jpg)
+![Bali 3 Hari + Komodo 2D1N Liveaboard: Wajib Coba Banget!](https://images.gobaligo.id/vocus/vocus_2d9f08d24d85d4d49023c4b8db0a7e5f.jpg)
 
 ## Pengalaman Seru di Bali
 
@@ -92,7 +92,7 @@ Terakhir, kalau kamu juga mau liburan di Bali yang bebas ribet, penuh budaya lok
 
 Kamu pikir itinerary dari Tyty Chow seru banget? Yuk, buruan atur liburan seru kamu ke Bali! Jangan lupa juga kirim itinerary kamu di grup ya!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f3c9335329415b15de58f37454557bb.jpg)
+![Paket Tour "Bali + Pulau Komodo"](https://images.gobaligo.id/vocus/vocus_4f3c9335329415b15de58f37454557bb.jpg)
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 

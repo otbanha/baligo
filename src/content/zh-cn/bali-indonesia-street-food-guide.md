@@ -23,7 +23,7 @@ _srcHash: 265d2d39f7fd19f5bc0dc17a935ebc36
 
 来到印尼或巴厘岛 一定不能错过的就是当地地道的国民美食 这是印尼/巴厘岛的必吃美食
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e2ddcde23d6a0567f42e35a6547d104c.jpg)
+![印尼/巴厘岛必吃人气美食清单｜巴厘岛必吃路边小吃｜印尼便宜小吃](https://images.gobaligo.id/vocus/vocus_e2ddcde23d6a0567f42e35a6547d104c.jpg)
 
 看视频介绍
 

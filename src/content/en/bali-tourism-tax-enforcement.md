@@ -27,7 +27,7 @@ _srcHash: e13a0925bb2db98903d667536c3ef21f
 
 ### Starting February 2024, in addition to visa fees, visitors to Bali will be required to pay a tourism tax of USD$10 (or 150,000 Indonesian Rupiah). However, many travelers have failed to comply with this regulation, prompting local authorities to discuss potential penalties for violators. One proposed measure is to deny entry to Bali for tourists who have not paid the tourism tax.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_858d130a6da34f4a9f0e9e9766d18106.jpg)
+![Starting February 2024, in addition to visa fees, visitors t](https://images.gobaligo.id/vocus/vocus_858d130a6da34f4a9f0e9e9766d18106.jpg)
 
 ---
 
@@ -66,7 +66,7 @@ Based on the current situation, the government has no immediate plans to increas
 
 Additionally, authorities hope to ensure that tourists are aware of the importance of paying tourism taxes through enhanced publicity and education.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ec2b84d7b61087b5c15202af5110313f.jpg)
+![Future Plans](https://images.gobaligo.id/vocus/vocus_ec2b84d7b61087b5c15202af5110313f.jpg)
 
 ---
 
@@ -94,7 +94,7 @@ As of now, detailed usage of the funds has not been announced, but the tax is ex
 
 ## 📩 **Join the "Bali Travel Guide" Now and Become a Bali Travel Expert!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Join the "Bali Travel Guide" Now and Become a Bali Travel Ex](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **By subscribing for free, you'll get:**
 

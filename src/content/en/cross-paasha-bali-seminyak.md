@@ -41,7 +41,7 @@ _srcHash: 7ed2ebb005462493084e271330eacd62
 
 If you want to stay right in the heart of Seminyak, where you can walk everywhere and return to a rooftop pool to watch the sunset, then Cross Paasha Bali Seminyak, a four-star design boutique hotel, is worth considering. Formerly known as U Paasha, it was renamed Cross Paasha and is still located at Jl. Laksmana No. 77, in the core area of Kayu Aya Street. All 99 rooms are suite-level, spacious and strongly designed, making it one of the high-value options in Seminyak.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231500443-roof1.jpg)
+![Cross Paasha Bali Seminyak｜Seminyak Art Boutique Villa Full ](https://images.gobaligo.id/images/2026-04/1776231500443-roof1.jpg)
 
 ***
 
@@ -59,19 +59,19 @@ The overall vibe of the Seminyak area is a mix of boutique shopping and nightlif
 
 Stepping into the lobby, the first impression is unlike traditional Balinese-style resorts — with its high ceilings, geometric brick walls, and streamlined furniture, the industrial vibe and modern design blend together quite tastefully. Upon check-in, complimentary welcome drinks are offered. The lobby bar area is dimly lit with a cool atmosphere, primarily attracting younger guests and couples.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231575224-lobi.webp)
+![Facility Introduction](https://images.gobaligo.id/images/2026-04/1776231575224-lobi.webp)
 
 The hotel's standout feature is its **Rooftop Pool**. This pool is sufficiently long and spacious, surrounded by palm trees, lounge chairs, and sun umbrellas. On clear evenings, you can enjoy views of Seminyak's cityscape and even catch a glimpse of the sea. Adjacent to the pool is a bar where you can order cocktails, and during Happy Hour, there's reportedly a buy-one-get-one-free deal, making it the social hub of the hotel.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231634104-roof3.webp)
+![Facility Introduction](https://images.gobaligo.id/images/2026-04/1776231634104-roof3.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231634525-roof2.webp)
+![Facility Introduction](https://images.gobaligo.id/images/2026-04/1776231634525-roof2.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231635037-roof5.jpg)
+![Facility Introduction](https://images.gobaligo.id/images/2026-04/1776231635037-roof5.jpg)
 
 The restaurant ALCOVE offers a breakfast buffet with both Asian and Western options, rotating daily. It includes a live egg station, pancakes, and Indonesian fried rice.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231683899-canteen1.webp)
+![Facility Introduction](https://images.gobaligo.id/images/2026-04/1776231683899-canteen1.webp)
 
 The hotel also features a gym with basic equipment. A unique policy here is the **24-hour check-in system**: your stay begins exactly 24 hours from your check-in time, allowing flexible check-out without the traditional noon check-in/11 AM check-out constraints, which is particularly convenient for travelers with unpredictable flight schedules.
 
@@ -81,15 +81,15 @@ The hotel also features a gym with basic equipment. A unique policy here is the 
 
 Cross Paasha's 99 rooms are uniformly referred to as Suites, positioning them a notch above standard rooms. Starting from 55 square meters, with the largest suite reaching 110 square meters, the rooms are quite spacious for this price range.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231736986-86495544.jpg)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1776231736986-86495544.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231737371-558542199.jpg)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1776231737371-558542199.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231737832-1c93851cb69bca784431d5ea40507f08.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1776231737832-1c93851cb69bca784431d5ea40507f08.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231738211-683edcbff56e61d844944a683b65f028.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1776231738211-683edcbff56e61d844944a683b65f028.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231738613-45807d9b3c69fd21a57adfb2190c610a.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1776231738613-45807d9b3c69fd21a57adfb2190c610a.webp)
 
 The decor follows a light industrial and modern design theme: plenty of light wood furniture, concrete floors, and details like hexagonal mirrors, creating a clean and crisp aesthetic, far from the traditional Balinese carved wood decor. Each room features a private balcony, a separate seating area, a flat-screen TV, a minibar, free Wi-Fi, and air conditioning. The bathrooms are open-plan with rain showers.
 

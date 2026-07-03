@@ -16,7 +16,7 @@ _srcHash: b9bbbe21aedcf932dd24fe3633aae4ea
 
 提到巴厘岛的海滩度假区，很多人第一个想到的是库塔，但其实**Sanur才是巴厘岛最早发展的海滨度假区**。它低调、优雅、不张扬，却一直稳稳地存在。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_56f887fcf84745b1d038cc5391594203.jpg)
+![巴厘岛沙努尔/ Sanur 大升级！为什么现在是冲一波的最佳时机？](https://images.gobaligo.id/vocus/vocus_56f887fcf84745b1d038cc5391594203.jpg)
 
 而现在的Sanur，正在悄悄蜕变。
 
@@ -30,7 +30,7 @@ https://youtu.be/SpcgZ4iK7qs
 
 Sanur已被规划为**医疗与健康观光经济特区（Special Economic Zone）**，并设立了世界级的**Bali International Hospital**。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_885b670ebe416d1159e92918145534e4.jpg)
+![Sanur的新定位：医疗与健康观光特区](https://images.gobaligo.id/vocus/vocus_885b670ebe416d1159e92918145534e4.jpg)
 
 这代表什么？
 
@@ -91,7 +91,7 @@ https://www.instagram.com/reel/DM-DKa6TUir/?utm_source=ig_web_copy_link&igsh=NTc
 
 虽然沙努尔不像库塔那样容易受到大量塑料垃圾潮影响，但大雨与强风时仍会有垃圾被冲上岸。现在当地观光业者、清洁团队与传统村落合作，加强巡逻与清洁频率。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9abcbc0ac1493db0c28dcd921a2cf2ff.jpg)
+![海滩环境更干净](https://images.gobaligo.id/vocus/vocus_9abcbc0ac1493db0c28dcd921a2cf2ff.jpg)
 
 结果是什么？
 

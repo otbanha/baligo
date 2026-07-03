@@ -18,7 +18,7 @@ lang: zh-hk
 _srcHash: 4e7c60e358e7138e38d4f0d2de3e6ab9
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_93ba80c66bbeb7d6d88fcee66ca33fac.png)
+![峇里島換錢血淚史：團友親身經歷揭密，千祈唔好貪平！](https://images.gobaligo.id/vocus/vocus_93ba80c66bbeb7d6d88fcee66ca33fac.png)
 
 上個禮拜啱啱從峇里島返嚟嘅朋友，喺我哋峇里島社團分享咗佢哋一班人遇到嘅換錢詐騙事件。聽完整個過程，我覺得有必要寫低提醒所有準備去峇里島玩嘅旅客：換錢呢件事，真係千祈唔好貪平！
 
@@ -39,7 +39,7 @@ _srcHash: 4e7c60e358e7138e38d4f0d2de3e6ab9
 4. 就喺呢疊錢嘅一瞬間！鈔票就咁樣神不知鬼不覺地被抽走咗！
 5. 整個過程唔到三秒，手法之快簡直好似變魔術咁
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d5349e8eafe348b139cbac9a4ce74ddb.jpg)
+![魔術手法大揭密：團友嘅錢就係咁樣被偷走嘅！](https://images.gobaligo.id/vocus/vocus_d5349e8eafe348b139cbac9a4ce74ddb.jpg)
 
 ### **網友血淚經驗談：呢個唔係單一事件！**
 
@@ -67,7 +67,7 @@ _srcHash: 4e7c60e358e7138e38d4f0d2de3e6ab9
 
 ## **峇里島換錢安全守則：咁樣做先可以保護自己嘅血汗錢**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_790c4aaf4dab053d3e6bae094881f2f9.jpg)
+![峇里島換錢安全守則：咁樣做先可以保護自己嘅血汗錢](https://images.gobaligo.id/vocus/vocus_790c4aaf4dab053d3e6bae094881f2f9.jpg)
 
 綜合網友嘅建議，整理出以下安全守則：
 

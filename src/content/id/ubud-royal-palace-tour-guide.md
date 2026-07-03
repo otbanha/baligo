@@ -44,7 +44,7 @@ Perlu dicatat, meskipun Ubud Royal Palace luas banget, area yang dibuka untuk um
 
 Buat kamu yang pecinta budaya, setiap Kamis malam di Ubud Palace ada pertunjukan tari tradisional Bali, termasuk yang super mistis namanya Tari Kecak (Kecak Fire Dance). Pertunjukan ini termasuk salah satu seni paling ikonik di Bali, dan selalu ramai didatangi turis dari berbagai penjuru dunia. Tiketnya cuma 100K IDR, acaranya biasanya mulai jam 7 sampai 8 malam, pas banget buat dinikmati sambil suasana senja. Kalau kamu pengen lebih dalam merasakan budaya Bali, ini pengalaman yang wajib banget dicoba!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e2005bd1999f438cbe9fc3d2a10ac176.png)
+![Sorotan Ubud Royal Palace: Pertunjukan Seni](https://images.gobaligo.id/vocus/vocus_e2005bd1999f438cbe9fc3d2a10ac176.png)
 
 > [Diskon Tiket Tari Kecak di Ubud Palace](https://affiliate.klook.com/redirect?aid=116349&aff_adid=944134&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2deaa6927)
 
@@ -120,7 +120,7 @@ Di Ubud, jarak antar tempat wisata nggak terlalu jauh, jadi kamu bisa atur semua
 
 Puri Ubud bukan cuma landmark di Ubud, tapi juga harta karun sejarah dan seni Bali. Di sini, kamu bisa merasakan kejayaan kerajaan Bali tempo dulu, nikmati seni tradisional asli, dan pahami budaya unik Bali. Tempat-tempat di sekitarnya juga menawarkan pengalaman seru—dari sejarah, belanja, sampai alam. Apapun minatmu, pasti puas dan bikin liburanmu di Bali makin berkesan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7ed2f29faae88b539880459d2bf83b98.jpg)
+![Kesimpulan](https://images.gobaligo.id/vocus/vocus_7ed2f29faae88b539880459d2bf83b98.jpg)
 
 ## FAQ Puri Ubud
 

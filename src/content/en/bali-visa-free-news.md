@@ -22,7 +22,7 @@ _srcHash: e6558e46b4b332ba94c581fc8fcd69ae
 
 Bali, this breathtaking travel paradise, is welcoming some exciting news. For those planning to visit Bali between late 2024 and early 2025, it's a double delight! Let's dive into the details.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f85fa645aa1e3c8e6f8072438ebb869.png)
+![Double the Excitement, Head to Bali!](https://images.gobaligo.id/vocus/vocus_9f85fa645aa1e3c8e6f8072438ebb869.png)
 
 ## Expanded Routes, Enhanced Convenience
 
@@ -40,7 +40,7 @@ Countries included in the visa-free list are **Taiwan**, **China**, Australia, I
 
 For travelers from these countries, the visa-free policy will greatly simplify entry procedures, saving time and costs, making it easier for everyone to plan trips to Indonesia or Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aed753c113ee78e8ec5aa2c8a186485b.png)
+![Visa-Free Policy, Boosting Tourism](https://images.gobaligo.id/vocus/vocus_aed753c113ee78e8ec5aa2c8a186485b.png)
 
 ## Double Benefits, Welcoming a New Tourism Peak
 

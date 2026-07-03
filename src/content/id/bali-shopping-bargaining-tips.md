@@ -29,7 +29,7 @@ Oleh-oleh dan kerajinan tangan di Bali itu banyak banget, macam-macamnya nggak a
 4. Bandingin harga: Di Bali, banyak pasar dan toko yang jual barang serupa, jadi pas nego kamu bisa bandingin harga buat cari yang paling pas. Kamu bisa bandingin antar penjual, lalu pilih yang paling oke buat transaksi.
 5. Tetap sopan: Pas nego, harus tetap sopan dan ramah. Meskipun negosiasi mentok atau nggak sesuai harapan, jangan sampai hilang kendali, tetap tenang dan rasional biar transaksi akhirnya jadi.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b96d9863e2698a7118c41cfc5ad150e.png)
+![Cara Nego di Bali? Panduan Belanja](https://images.gobaligo.id/vocus/vocus_0b96d9863e2698a7118c41cfc5ad150e.png)
 
 Pesan dan hemat, cek di sini:
 

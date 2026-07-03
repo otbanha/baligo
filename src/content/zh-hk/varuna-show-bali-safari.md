@@ -35,7 +35,7 @@ _srcHash: ea81d57c7d96e1e0f4b47860a06c0fc2
 
 位於吉安雅嘅 Marine Safari Bali 隔離就係有名嘅 Bali Safari Park，而家兩個園區一齊叫做「[Bali Safari and Marine Park](https://www.balisafarimarinepark.com/)」，亦即係官方講嘅「一個目的地，兩個世界」
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a852c7ca33d5bd372e588be693151a71.jpg)
+![交通與入園](https://images.gobaligo.id/vocus/vocus_a852c7ca33d5bd372e588be693151a71.jpg)
 
 由於位置唔係喺鬧區，建議大家包車前往。園區比想像中更大，一入門就被熱帶風情嘅造景同歡樂嘅氣氛感染。我哋提前喺 Klook 購買咗[Day Varuna Premium套票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)，雖然價格唔平，但絕對物超所值！
 
@@ -43,7 +43,7 @@ _srcHash: ea81d57c7d96e1e0f4b47860a06c0fc2
 
 套票包含嘅午餐係喺一個精心設計嘅「海底世界」主題餐廳享用。成個餐廳以藍色調為主，牆面裝飾住珊瑚、海草等海洋元素，搭配特殊燈光效果，令人彷彿置身海底宮殿。餐點係精緻嘅西式套餐，特別推薦佢哋嘅峇里島特色飲品，小朋友對造型可愛嘅甜品都愛不釋手。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dde920a2ff3ff6a19c243c058206babf.jpg)
+![海底主題餐廳嘅驚喜](https://images.gobaligo.id/vocus/vocus_dde920a2ff3ff6a19c243c058206babf.jpg)
 
 ## 🎭 Varuna Show 震撼登場
 
@@ -56,11 +56,11 @@ _srcHash: ea81d57c7d96e1e0f4b47860a06c0fc2
 - 舞台機關瞬間轉換場景，從珊瑚礁到深海峽谷一氣呵成
 - 環繞音效讓人身臨其境
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a9ec96e68a4dfb925af37572839d993b.jpg)
+![Varuna Show 震撼登場](https://images.gobaligo.id/vocus/vocus_a9ec96e68a4dfb925af37572839d993b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ccc79478004fb80ee3858ecaf2f76d1b.jpg)
+![Varuna Show 震撼登場](https://images.gobaligo.id/vocus/vocus_ccc79478004fb80ee3858ecaf2f76d1b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_71a7166954f577ff3a806abb0a4bff99.jpg)
+![Varuna Show 震撼登場](https://images.gobaligo.id/vocus/vocus_71a7166954f577ff3a806abb0a4bff99.jpg)
 
 ## 📸 同演員影相
 

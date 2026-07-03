@@ -36,7 +36,7 @@ Di hari yang sama, tragedi lain terjadi di Bingin Beach, Uluwatu. Seorang wisata
 
 Baca juga: Pantai Tersembunyi di Uluwatu [47 Rekomendasi Tempat Wisata & Kuliner di Uluwatu](/blog/uluwatu-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e535492ebd1e221d48aa49d449d3fde.png)
+![Dua Tempat Wisata Populer di Bali Alami Kecelakaan, Ini Peri](https://images.gobaligo.id/vocus/vocus_3e535492ebd1e221d48aa49d449d3fde.png)
 
 Dua insiden ini bikin warga lokal dan pelaku wisata makin peduli soal keselamatan. Meski petugas Nusa Penida janji bakal tingkatkan keamanan di tempat wisata, politikus dan industri pariwisata setempat mendesak pemerintah buat mempercepat aturan keselamatan yang lebih ketat demi melindungi nyawa pengunjung. Mereka bilang, perlu kerja sama dan koordinasi antar instansi buat bikin standar keamanan seragam di destinasi populer, biar tragedi serupa nggak terulang.
 

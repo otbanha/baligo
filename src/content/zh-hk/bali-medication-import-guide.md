@@ -29,7 +29,7 @@ _srcHash: fcd56b6d80589ef4d70fb2f9a47b7f9b
 
 出發之前，最好先上[外交部領事事務局嘅官方網站](https://www.boca.gov.tw/sp-foof-countrycp-03-12-c23b0-02-1.html)查詢自己要帶嘅藥物喺當地係咪合法。另外，如果真係需要帶特別藥物，都建議事先諮詢當地醫生或者大使館，以確保遵守當地法律法規，避免不必要嘅麻煩同延誤。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc8a421dd3f00e888995468c395919ec.png)
+![帶安眠藥/特別處方藥物去印尼/峇里島嘅重要注意事項](https://images.gobaligo.id/vocus/vocus_cc8a421dd3f00e888995468c395919ec.png)
 
 預訂、慳錢就睇呢度：
 

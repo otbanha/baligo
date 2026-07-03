@@ -23,7 +23,7 @@ _srcHash: 801c91e2ec4352fd7f96f0b041beca37
 
 峇里島係整個亞洲最熱門嘅團體旅遊目的地之一，但係規劃10人以上嘅團體旅行時，由行程安排到突發情況處理，處處都隱藏住重重考驗。以下係籌劃10人以上團體旅遊時常見嘅五大挑戰，同埋點樣透過專業旅行社化解危機，打造完美旅程。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f185d21cca0ea1179fff3e7a15c7aad9.png)
+![峇里島10人以上團體旅遊嘅挑戰同解決方法](https://images.gobaligo.id/vocus/vocus_f185d21cca0ea1179fff3e7a15c7aad9.png)
 
 ## 10人以上團體旅遊嘅5大挑戰
 
@@ -51,7 +51,7 @@ _srcHash: 801c91e2ec4352fd7f96f0b041beca37
 
 面對上述挑戰，深耕峇里島旅遊市場嘅 isBali 旅行社，憑藉十年以上經驗同埋在地資源，提供一站式解決方案，專為10人以上嘅團體打造流暢體驗：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_81e1c944afa9687db6a693da1de31ab9.png)
+![專業解方：專業旅行社嘅無縫服務](https://images.gobaligo.id/vocus/vocus_81e1c944afa9687db6a693da1de31ab9.png)
 
 - 客製化行程設計：透過行前溝通精準掌握成員偏好，結合峇里島秘境同埋經典景點，設計分組彈性行程。
 - 嚴選在地資源：合作車隊配備有經驗嘅司機同埋中文導遊，精選無障礙設施完善嘅酒店同埋 villa。

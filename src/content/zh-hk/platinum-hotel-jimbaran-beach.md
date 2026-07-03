@@ -43,7 +43,7 @@ _srcHash: d37b284156456a78c044a0321a0015ac
 
 呢間全新開幕嘅 **Platinum Hotel Jimbaran Beach Bali** 位於峇里島金巴蘭，距離著名嘅 **Kedonganan Beach** 同 **金巴蘭海灘** 只需行 30 秒！無論係曬太陽、海灘漫步定係水上活動，都可以輕鬆享受。另外，酒店距離 **伍拉·賴國際機場（DPS）** 只有 1 公里，仲提供 **付費機場接送服務**，令你嘅旅程更加輕鬆順暢。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_835c4c583383e70d2a8da4f6fe81970b.jpg)
+![金巴蘭CP值最高 USD$70起入住2024新開幕 Platinum Hotel Jimbaran Beach](https://images.gobaligo.id/vocus/vocus_835c4c583383e70d2a8da4f6fe81970b.jpg)
 
 ***
 
@@ -51,35 +51,35 @@ _srcHash: d37b284156456a78c044a0321a0015ac
 
 🌊 **無邊際泳池** —— 同海天一色嘅美景融為一體
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f12aca084330b4ed4e3c734b9e976b2a.jpg)
+![‍ 頂級設施與服務，一站式滿足所有需求！](https://images.gobaligo.id/vocus/vocus_f12aca084330b4ed4e3c734b9e976b2a.jpg)
 
 💪 **現代化健身中心** —— 即使旅行都可以保持運動習慣
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_197d04dedc3bc74d8db11694d2faa1eb.jpg)
+![‍ 頂級設施與服務，一站式滿足所有需求！](https://images.gobaligo.id/vocus/vocus_197d04dedc3bc74d8db11694d2faa1eb.jpg)
 
 🧸 **兒童遊戲區** —— 親子旅客嘅貼心選擇
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5ef7dd4d45fdd6d89d042ba4f7334445.jpg)
+![‍ 頂級設施與服務，一站式滿足所有需求！](https://images.gobaligo.id/vocus/vocus_5ef7dd4d45fdd6d89d042ba4f7334445.jpg)
 
 🏢 **多功能宴會廳 & 會議場地** —— 提供多種大型宴客同商務會議場地，適合婚禮、企業會議、私人派對等活動
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_800c0e16650c48c44f0fa4cede8f200e.jpg)
+![‍ 頂級設施與服務，一站式滿足所有需求！](https://images.gobaligo.id/vocus/vocus_800c0e16650c48c44f0fa4cede8f200e.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5a5f182e86dd969bd1613ad063de5a53.jpg)
+![‍ 頂級設施與服務，一站式滿足所有需求！](https://images.gobaligo.id/vocus/vocus_5a5f182e86dd969bd1613ad063de5a53.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_10e597f85c8aed119e3fa41be40cf289.jpg)
+![‍ 頂級設施與服務，一站式滿足所有需求！](https://images.gobaligo.id/vocus/vocus_10e597f85c8aed119e3fa41be40cf289.jpg)
 
 🌅 **屋頂露台** —— 絕美日落景觀，適合放鬆身心
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_63c15d19c04d073e111c618a44259d12.jpg)
+![‍ 頂級設施與服務，一站式滿足所有需求！](https://images.gobaligo.id/vocus/vocus_63c15d19c04d073e111c618a44259d12.jpg)
 
 🛁 **桑拿 & 熱水按摩池** —— 讓疲憊嘅身體得到舒緩
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5d5e9d37f3273745494590d6b07634b3.jpg)
+![‍ 頂級設施與服務，一站式滿足所有需求！](https://images.gobaligo.id/vocus/vocus_5d5e9d37f3273745494590d6b07634b3.jpg)
 
 🍹 **餐廳 & 酒吧** —— 精選美食同飲品，等每一餐都充滿儀式感
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_798c5e0e40a6ea012edc5500f1b96ee6.jpg)
+![‍ 頂級設施與服務，一站式滿足所有需求！](https://images.gobaligo.id/vocus/vocus_798c5e0e40a6ea012edc5500f1b96ee6.jpg)
 
 ***
 
@@ -87,11 +87,11 @@ _srcHash: d37b284156456a78c044a0321a0015ac
 
 🏠 **標準雙人房 / 豪華雙人房 / 家庭房 / 商務套房** —— 滿足唔同旅客嘅需求
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_db2a78d94eb0073500209e713be79b8b.jpg)
+![舒適客房選擇，打造專屬你嘅度假時光！](https://images.gobaligo.id/vocus/vocus_db2a78d94eb0073500209e713be79b8b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0bb3138ba42979585b7c49e0c9bababe.jpg)
+![舒適客房選擇，打造專屬你嘅度假時光！](https://images.gobaligo.id/vocus/vocus_0bb3138ba42979585b7c49e0c9bababe.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_15fd0ce3f96d72e96ec21a2b28919884.jpg)
+![舒適客房選擇，打造專屬你嘅度假時光！](https://images.gobaligo.id/vocus/vocus_15fd0ce3f96d72e96ec21a2b28919884.jpg)
 
 🔥 **部分客房配備簡易廚房**，有 **雪櫃、微波爐同爐具**，啱晒 **長住旅客** 或者 **鍾意自己煮嘢食嘅旅人**
 
@@ -163,15 +163,15 @@ _srcHash: d37b284156456a78c044a0321a0015ac
 
 ## 真實住客評論
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f0eb3b2f52dbfd682153e687a5413648.jpg)
+![真實住客評論](https://images.gobaligo.id/vocus/vocus_f0eb3b2f52dbfd682153e687a5413648.jpg)
 
 酒店位置超正，行路就可以去到金巴蘭海灘同埋周邊海鮮餐廳。酒店全新裝修，乾淨企理，工作人員亦都好友善，令人覺得賓至如歸。早餐每日轉款，第一晚仲貼心提供免費迎賓飲品，真係好用心！下次嚟峇里島，一定會再嚟！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c58c27c83278b991f9c4e360c95c7103.jpg)
+![真實住客評論](https://images.gobaligo.id/vocus/vocus_c58c27c83278b991f9c4e360c95c7103.jpg)
 
 呢間新開嘅酒店令我眼前一亮！無論係設施、服務定係地點都相當完美——行出酒店就係金巴蘭沙灘，頂樓露台更加係睇日落嘅最佳地點。想租車都好方便，櫃檯人員會幫手聯絡車行，慳返唔少麻煩。早餐種類豐富，餐點好味，每一日嘅體驗都好愉快，CP 值真係超高！大力推薦！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b413de50a1ff59ee50146212e0153c77.jpg)
+![真實住客評論](https://images.gobaligo.id/vocus/vocus_b413de50a1ff59ee50146212e0153c77.jpg)
 
 酒店嘅地理位置真係冇得彈，頂樓露台嘅景觀無可挑剔，可以俯瞰成片金巴蘭沙灘，日頭同夜晚各有唔同嘅美感。不過，啱啱入住嘅房間有啲濃嘅消毒水味，後來換咗房之後改善咗唔少。另外，因為臨海嘅關係，夜晚仲係會聽到啲環境噪音（例如遠處嘅音樂聲或者野狗叫聲），對聲音比較敏感嘅旅客可能要準備耳塞。不過以呢個價錢嚟講，都係非常值得入住嘅選擇！
 
@@ -179,7 +179,7 @@ _srcHash: d37b284156456a78c044a0321a0015ac
 
 ## 更多金巴蘭吃喝玩樂介紹
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c81d870630ca07dead1d2e8614f923c4.jpg)
+![更多金巴蘭吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_c81d870630ca07dead1d2e8614f923c4.jpg)
 
 [金巴蘭完整攻略請點我](/blog/jimbaran-guide/)
 

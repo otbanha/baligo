@@ -56,11 +56,11 @@ Of course, there were some aspects of the trip that required adjustment: urban t
 
 After a long flight, we landed smoothly in Bali. The immigration process was quicker than expected, and after collecting our luggage, we met our pre-booked private driver. As we drove away from the airport's hustle and bustle, the scenery gradually shifted from modern buildings to lush fields and intricate shrines, reminding us that we had truly arrived on the "Island of the Gods."
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_872fd38d85050291bdc0602b42d36dd9.jpg)
+![Day 1: Arrival in Ubud, A Relaxing Prelude at Our Villa](https://images.gobaligo.id/vocus/vocus_872fd38d85050291bdc0602b42d36dd9.jpg)
 
 Upon arriving at our booked **Villa** in Ubud, the fatigue of the journey was instantly washed away by the view before us. Nestled amidst greenery, the villa featured a private pool and a spacious gazebo. The children cheered at the sight of the pool, while the adults hurried to unpack and brew a pot of tea, eager to sit in the gazebo and soak in Ubud's unique tranquility. As night fell, accompanied by the natural symphony of insects and frogs, we ended our relaxing first day, recharging for the adventures ahead.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fc948ca985ea8069ac9dd4b23dbc3d0e.jpg)
+![Day 1: Arrival in Ubud, A Relaxing Prelude at Our Villa](https://images.gobaligo.id/vocus/vocus_fc948ca985ea8069ac9dd4b23dbc3d0e.jpg)
 
 > **Quick Reference:** [Bali Group Villa Stay: Recommended Villas with 3+ Bedrooms for Families](/blog/bali-group-villa-stay/)
 
@@ -70,7 +70,7 @@ This day was packed with a rich mix of cultural and natural contrasts.
 
 - **Tirta Empul Temple:** Early in the morning, we visited the famous Tirta Empul Temple. Despite the number of tourists, the temple's solemn atmosphere remained palpable. Watching both locals and international visitors perform the ritual bathing in the sacred pools with focused and devout expressions brought a sense of peace to our hearts. The children were curious about this "queueing in the water" ritual, and we took the opportunity to explain its religious significance—a wonderful cultural experience.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b60719f084e134a94fa7186d3e2c18f7.jpg)
+![Day 2: A Journey of Spiritual Cleansing, Volcanic Views, and](https://images.gobaligo.id/vocus/vocus_b60719f084e134a94fa7186d3e2c18f7.jpg)
 
 > **Quick Reference:** [Tirta Empul Temple Complete Guide: Bali's Most Sacred Purification Experience](/blog/tirta-empul-temple-guide/)
 
@@ -78,13 +78,13 @@ This day was packed with a rich mix of cultural and natural contrasts.
 
 - **Kintamani Volcano:** Next, our car wound its way up the mountain to Kintamani. When the panoramic view of **Mount Batur** and the volcanic lake at its base suddenly unfolded before us, the car erupted in awe. We enjoyed lunch at a scenic restaurant, savoring local flavors while admiring this magnificent natural canvas. The drifting clouds added a poetic touch, constantly transforming the volcanic landscape.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8de97539719cb37d06c510346db2230d.jpg)
+![Day 2: A Journey of Spiritual Cleansing, Volcanic Views, and](https://images.gobaligo.id/vocus/vocus_8de97539719cb37d06c510346db2230d.jpg)
 
 > **Quick Reference:** [13 Best Volcano Cafes/Restaurants in Kintamani, Bali 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
 
 - **Penglipuran Village:** After lunch, we visited Penglipuran Village. Compared to popular tourist spots, it felt much quieter, allowing us to experience the rhythm of traditional Balinese village life. Strolling through, we saw villagers focused on handicrafts or chatting leisurely, as if time itself had slowed down.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3638ed5e8a2500e413dca3df549ac608.jpg)
+![Day 2: A Journey of Spiritual Cleansing, Volcanic Views, and](https://images.gobaligo.id/vocus/vocus_3638ed5e8a2500e413dca3df549ac608.jpg)
 
 > **Quick Reference:** [Step Back in Time at Penglipuran Village: Experience Bali's Ancient Charm](/blog/penglipuran-village-bali-experience/)
 
@@ -106,21 +106,21 @@ This day’s itinerary was full of contrasts and surprises, taking us from fores
 
 > 🐒 Ubud Sacred Monkey Forest Admission ▶[Klook Deals](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F67185-sacred-monkey-forest-ubud-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D39f6fcbd47)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_51bb260e63986ad1a2b199d4be1babee.jpg)
+![Day 3: Between Nature’s Spirit and Urban Buzz](https://images.gobaligo.id/vocus/vocus_51bb260e63986ad1a2b199d4be1babee.jpg)
 
 - **Jatiluwih Rice Terraces:** Next, we drove to the Jatiluwih Rice Terraces, a UNESCO World Heritage site. The vast green steps cascading down the hillside offered a serene and expansive view. Perhaps due to the weather or season, the overall scenery felt **"just okay"** — not as awe-inspiring as expected — but it remained a peaceful spot to breathe fresh air and appreciate Bali’s agricultural heritage.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a804dbb47152b6d827a07473286d114f.jpg)
+![Day 3: Between Nature’s Spirit and Urban Buzz](https://images.gobaligo.id/vocus/vocus_a804dbb47152b6d827a07473286d114f.jpg)
 
 > **Quick Reference:** [Bali Rice Terraces Comparison: Tegalalang vs Jatiluwih | Ticket Prices, Best Time to Visit](/blog/bali-rice-terraces-comparison/)
 
 - **Wisata Kayu Putih Sacred Tree:** Compared to other spots, the sacred tree was a delightful surprise! This massive Kayu Putih tree exudes a solemn and spiritual energy. Standing beneath it, one feels incredibly small. The surrounding forest trail is serene, and the air seems to carry a calming force, **instantly grounding your mind—it was the highlight of the day**. Highly recommended for travelers who love nature and tranquility.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_751dc0dccc323e14cebcee8cc564bbe0.jpg)
+![Day 3: Between Nature’s Spirit and Urban Buzz](https://images.gobaligo.id/vocus/vocus_751dc0dccc323e14cebcee8cc564bbe0.jpg)
 
 - **Ubud Palace & Ubud Market:** In the afternoon, we returned to central Ubud. The Ubud Palace is modest in size but features intricate carvings that reflect traditional royal heritage. Adjacent to it, the Ubud Market is bustling with energy, offering everything from handicrafts to woven bags and sarongs. Here, you can enjoy the thrill of bargaining (start with 30% of the asking price!) and pick up unique souvenirs for friends and family.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d83da6954901731170a3f42382dc19f8.jpg)
+![Day 3: Between Nature’s Spirit and Urban Buzz](https://images.gobaligo.id/vocus/vocus_d83da6954901731170a3f42382dc19f8.jpg)
 
 > **Quick Reference:** [Ubud Royal Palace: A Cultural Gem of Bali | Opening Hours, Tickets, Performances, Nearby Attractions, Day Trip Recommendations](/blog/ubud-royal-palace-tour-guide/)
 
@@ -132,9 +132,9 @@ This day’s itinerary was full of contrasts and surprises, taking us from fores
 - **Dinner: Taman Dedari**
   This is a beautifully scenic restaurant. We ordered the famous crispy duck with high expectations, but it was somewhat underwhelming, **not particularly recommended**. However, the **coffee and drinks were excellent**, and more importantly, finding a good spot in the garden during the evening, accompanied by cool breezes and twilight, offers a panoramic view of the Ubud Valley—a perfect place for coffee and scenery.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e6567ad4ac82156d8ce30a9c60feb578.jpg)
+![Day 3: Between Nature’s Spirit and Urban Buzz](https://images.gobaligo.id/vocus/vocus_e6567ad4ac82156d8ce30a9c60feb578.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_37891f30f3e1e93406a35d99756c09cd.jpg)
+![Day 3: Between Nature’s Spirit and Urban Buzz](https://images.gobaligo.id/vocus/vocus_37891f30f3e1e93406a35d99756c09cd.jpg)
 
 > **Quick Reference:** [Taman Dedari: Ubud Dining with a View](/blog/taman-dedari-ubud-food-scenery/)
 
@@ -187,25 +187,25 @@ ATV might not be suitable for the elderly and children under 7, as it's too thri
 
 Today, we moved from the cultural hub of Ubud to the lively coastal area of Kuta.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780206389-49112982.jpg)
+![Day 6: Farewell to Ubud, Embrace the Coastal Vibes of Kuta](https://images.gobaligo.id/images/2026-03/1774780206389-49112982.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780207164-115642639.jpg)
+![Day 6: Farewell to Ubud, Embrace the Coastal Vibes of Kuta](https://images.gobaligo.id/images/2026-03/1774780207164-115642639.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780207536-115681714.jpg)
+![Day 6: Farewell to Ubud, Embrace the Coastal Vibes of Kuta](https://images.gobaligo.id/images/2026-03/1774780207536-115681714.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780207954-116841359.jpg)
+![Day 6: Farewell to Ubud, Embrace the Coastal Vibes of Kuta](https://images.gobaligo.id/images/2026-03/1774780207954-116841359.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780208361-120634515.jpg)
+![Day 6: Farewell to Ubud, Embrace the Coastal Vibes of Kuta](https://images.gobaligo.id/images/2026-03/1774780208361-120634515.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780208721-195261402.jpg)
+![Day 6: Farewell to Ubud, Embrace the Coastal Vibes of Kuta](https://images.gobaligo.id/images/2026-03/1774780208721-195261402.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780209040-195261448.jpg)
+![Day 6: Farewell to Ubud, Embrace the Coastal Vibes of Kuta](https://images.gobaligo.id/images/2026-03/1774780209040-195261448.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780209486-195404224.jpg)
+![Day 6: Farewell to Ubud, Embrace the Coastal Vibes of Kuta](https://images.gobaligo.id/images/2026-03/1774780209486-195404224.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780209848-195404320.jpg)
+![Day 6: Farewell to Ubud, Embrace the Coastal Vibes of Kuta](https://images.gobaligo.id/images/2026-03/1774780209848-195404320.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780210178-574173017.jpg)
+![Day 6: Farewell to Ubud, Embrace the Coastal Vibes of Kuta](https://images.gobaligo.id/images/2026-03/1774780210178-574173017.jpg)
 
 We stayed at the Amnaya Resort Kuta, a winner of the **2025 Agoda Travelers' Choice Awards**.
 
@@ -241,7 +241,7 @@ The journey came to an end.
 
 ## **Travel Memo & Practical Tips**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2a859b507a199d6500bc5d3d47023c43.png)
+![Travel Memo & Practical Tips](https://images.gobaligo.id/vocus/vocus_2a859b507a199d6500bc5d3d47023c43.png)
 
 Based on our firsthand experience, we've summarized the following tips for friends planning to visit in the future:
 
@@ -278,7 +278,7 @@ Looking back, this Bali family trip was a **perfect and heartwarming vacation**.
 
 Did you find [Lin Konglong's](https://www.facebook.com/share/p/1DMYqVwzhq/) itinerary exciting? Start planning your own Bali adventure! We also welcome everyone to share their itineraries in our community!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Rainy Season Travel Tips](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Click here to explore more amazing Bali travel stories
 

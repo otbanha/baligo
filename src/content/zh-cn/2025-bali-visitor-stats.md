@@ -27,7 +27,7 @@ _srcHash: 6d7be69354475bbdabc0d2c2de2a7476
 
 从 2025 年最新的直飞旅客统计来看，巴厘岛的旅游结构正在慢慢转变，但有些现象却意外地稳定——像新加坡的旅客越来越多；台湾旅客二十年如一日地维持在差不多的数量；也有一些过去占据版面的市场，悄悄缩水。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fcd184a1c39fce756fde3b709e6fe710.png)
+![澳洲不再第一？2025 巴厘岛旅客排名与入境签证/财力证明懒人包](https://images.gobaligo.id/vocus/vocus_fcd184a1c39fce756fde3b709e6fe710.png)
 
 更有意思的是，一直被认为是“巴厘岛最大客源”的澳洲，这一次首度被欧洲超越。
 
@@ -41,7 +41,7 @@ _srcHash: 6d7be69354475bbdabc0d2c2de2a7476
 
 ## 2025巴厘岛国别/人次统计
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_99a8db2673d75441daa04e66ea7fd9aa.jpg)
+![2025巴厘岛国别/人次统计](https://images.gobaligo.id/vocus/vocus_99a8db2673d75441daa04e66ea7fd9aa.jpg)
 
 这张表，其实很值得细看。
 
@@ -66,7 +66,7 @@ _srcHash: 6d7be69354475bbdabc0d2c2de2a7476
 
 目前最常见的就是 B1 跟 C1 这两种：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dd1d15ae602a759d1d7e072cbd771d4d.jpg)
+![再补充一个很多人会问的重点：EVOA 电子落地签怎么选？](https://images.gobaligo.id/vocus/vocus_dd1d15ae602a759d1d7e072cbd771d4d.jpg)
 
 **快速参考：**[印尼/巴厘岛电子签证eVisa/eVoa全攻略：申请步骤、注意事项一次掌握！](/blog/bali-evisa-application-guide/)
 
@@ -94,7 +94,7 @@ C1 的重点不是「玩」，而是「访问」。
 
 ## 那一般旅客该怎么选？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d26a3e513ac8df95013e940223bf7017.png)
+![那一般旅客该怎么选？](https://images.gobaligo.id/vocus/vocus_d26a3e513ac8df95013e940223bf7017.png)
 
 答案其实很简单。
 
@@ -166,6 +166,6 @@ C1 则强调访问、交流、考察，但一样不能工作。
 
 巴厘岛的签证规定，偶尔会有微调， 出发前 1–2 周再快速确认一次最新公告，会是最保险的做法。但以目前多数旅客的实际经验来看， 选对签证，入境巴厘岛真的不难。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_62b21a3da69035eb65ae0f1b4e641bfc.png)
+![最后的小提醒](https://images.gobaligo.id/vocus/vocus_62b21a3da69035eb65ae0f1b4e641bfc.png)
 
 剩下的，就是好好享受这座岛了 🌴

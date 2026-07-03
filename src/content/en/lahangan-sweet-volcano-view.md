@@ -32,7 +32,7 @@ _srcHash: bbe57b1e1c58cac276425b056dfa5b77
 
 **If you love stunning natural landscapes or are searching for the perfect Instagram spot, Lahangan Sweet should definitely be on your itinerary! Offering a 360-degree view, you can clearly see Bali's iconic Mount Agung, especially during sunrise or sunset, when the scenery is truly breathtaking! 🌅**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e5ed27e67efa310391c42389e2fd071c.jpg)
+![【Bali's Hidden Gem】Lahangan Sweet Guide: Stunning Wooden Pla](https://images.gobaligo.id/vocus/vocus_e5ed27e67efa310391c42389e2fd071c.jpg)
 
 ## **About Lahangan Sweet**
 

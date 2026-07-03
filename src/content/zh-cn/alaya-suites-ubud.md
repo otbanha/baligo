@@ -37,25 +37,25 @@ _srcHash: 14fb8d0e0cae160e1e965c146d88a176
 
 Alaya Suites Ubud 是 Alaya Hotels & Resorts 旗下**最新开业**的项目，目前是整个集团最新的成员。坐落于 Pengosekan 区，定位比集团旗下老牌的 Alaya Resort 更安静、更私密。整体设计融合现代感与巴厘岛文化元素，提供 45 间套房与 6 间一卧室 Villa，整栋走的是低调奢华路线——不是那种金碧辉煌的热带度假村，而是让人住进去就想放慢脚步的那种地方。**想抢在人潮涌入前体验全新项目，现在正是时机。**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472490843-852951792.jpg)
+![【2026 乌布新酒店】Alaya Suites Ubud 开箱：隐于绿意的静谧质感套房，乌布慢活度假的新据点](https://images.gobaligo.id/images/2026-04/1777472490843-852951792.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472491419-a611bbc941fec1a34b3b99fb3ce68605.webp)
+![【2026 乌布新酒店】Alaya Suites Ubud 开箱：隐于绿意的静谧质感套房，乌布慢活度假的新据点](https://images.gobaligo.id/images/2026-04/1777472491419-a611bbc941fec1a34b3b99fb3ce68605.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472492025-f6c7a869824033a0177e603a1550a376.webp)
+![【2026 乌布新酒店】Alaya Suites Ubud 开箱：隐于绿意的静谧质感套房，乌布慢活度假的新据点](https://images.gobaligo.id/images/2026-04/1777472492025-f6c7a869824033a0177e603a1550a376.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472492671-851866281.jpg)
+![【2026 乌布新酒店】Alaya Suites Ubud 开箱：隐于绿意的静谧质感套房，乌布慢活度假的新据点](https://images.gobaligo.id/images/2026-04/1777472492671-851866281.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472493180-7d28b428eeb72d6d2ede07a817f4d540.webp)
+![【2026 乌布新酒店】Alaya Suites Ubud 开箱：隐于绿意的静谧质感套房，乌布慢活度假的新据点](https://images.gobaligo.id/images/2026-04/1777472493180-7d28b428eeb72d6d2ede07a817f4d540.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472494100-77cce6dcd37e66bcc07fa7107b0f19bd.webp)
+![【2026 乌布新酒店】Alaya Suites Ubud 开箱：隐于绿意的静谧质感套房，乌布慢活度假的新据点](https://images.gobaligo.id/images/2026-04/1777472494100-77cce6dcd37e66bcc07fa7107b0f19bd.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472494715-787059718.jpg)
+![【2026 乌布新酒店】Alaya Suites Ubud 开箱：隐于绿意的静谧质感套房，乌布慢活度假的新据点](https://images.gobaligo.id/images/2026-04/1777472494715-787059718.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472495330-832520057.jpg)
+![【2026 乌布新酒店】Alaya Suites Ubud 开箱：隐于绿意的静谧质感套房，乌布慢活度假的新据点](https://images.gobaligo.id/images/2026-04/1777472495330-832520057.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472496048-832521339.jpg)
+![【2026 乌布新酒店】Alaya Suites Ubud 开箱：隐于绿意的静谧质感套房，乌布慢活度假的新据点](https://images.gobaligo.id/images/2026-04/1777472496048-832521339.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472496660-832526984.jpg)
+![【2026 乌布新酒店】Alaya Suites Ubud 开箱：隐于绿意的静谧质感套房，乌布慢活度假的新据点](https://images.gobaligo.id/images/2026-04/1777472496660-832526984.jpg)
 
 ***
 
@@ -83,39 +83,39 @@ Spa 部分沿用 Alaya 集团的招牌品牌 DaLa Spa，设有 6 间疗愈室，
 
 套房分为 King Suite（大床）与 Twin Suite（双床）两种，房型均为 65 平方米，配备私人阳台、浴缸与淋浴间，天然色调搭配层次纹理设计，氛围安静。Villa 为一卧室规格，面积 100 平方米，附私人泡池，面向乌布绿意，含户外日光浴椅与户外餐饮区。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472682366-fffd3905d66e6da5545a409f0d9e58c1.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1777472682366-fffd3905d66e6da5545a409f0d9e58c1.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472682928-19adb99d99838fe1862717c78d22d6b0.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1777472682928-19adb99d99838fe1862717c78d22d6b0.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472683543-1841621b5a3e7b840cc3bb4e0e01e1af.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1777472683543-1841621b5a3e7b840cc3bb4e0e01e1af.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472684048-710537273.jpg)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1777472684048-710537273.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472684963-710548136.jpg)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1777472684963-710548136.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472685689-763342072.jpg)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1777472685689-763342072.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472686299-763342078.jpg)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1777472686299-763342078.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472686805-a3c1c1f815c0b011192516c1a8cc585b.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1777472686805-a3c1c1f815c0b011192516c1a8cc585b.webp)
 
 ▲全馆 51 间客房均配备空调、Smart TV、免费 Wi-Fi，浴室采用分离式浴缸与淋浴设计，部分房型含 minibar（含部分免费饮品）。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472822019-8e6939614ad0f2096a4297f6e073eda4.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1777472822019-8e6939614ad0f2096a4297f6e073eda4.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472822599-805cf84bd1a18c785dd952bc0e7ebfb7.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1777472822599-805cf84bd1a18c785dd952bc0e7ebfb7.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472823216-853a591959aa2854b16157b06e68c983.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1777472823216-853a591959aa2854b16157b06e68c983.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472823830-1951e371b3683b718aaa9ca74aab05f2.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1777472823830-1951e371b3683b718aaa9ca74aab05f2.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472824337-710537210.jpg)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1777472824337-710537210.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472824860-710537288.jpg)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1777472824860-710537288.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472825360-787058557.jpg)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1777472825360-787058557.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472825990-a0a795ffaebb960680b68844827cf8a9.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1777472825990-a0a795ffaebb960680b68844827cf8a9.webp)
 
 ▲预算允许的话，推荐直接订 Villa——私人泡池加上乌布的绿景，早上泡个澡配鸟叫声，这才是来乌布的意义。
 
@@ -133,7 +133,7 @@ Spa 部分沿用 Alaya 集团的招牌品牌 DaLa Spa，设有 6 间疗愈室，
 
 另一则评论细细列出服务团队的名字——餐厅、Spa、接驳司机、管家——每一位都有具体评价，说这种个性化服务的细致程度「非常罕见」。能在新开业初期就收到这种等级的评论，服务底子显然不差。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472937188-caption.jpg)
+![住客真实评论](https://images.gobaligo.id/images/2026-04/1777472937188-caption.jpg)
 
 ***
 

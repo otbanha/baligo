@@ -23,7 +23,7 @@ _srcHash: ff59f86e695c891ebd35c730a1fa60c3
 
 印尼移民局自2025年5月29日起正式实施新的签证延长流程。该制度结合线上注册与实体办理，适用于包括巴厘岛在内的全国各地移民办公室，影响范围涵盖游客、长期居留者、商务签证与社会文化签证持有者。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_05dab2ad74b02830d37c34b349f59630.jpg)
+![印尼签证延长制度迎来重大变革](https://images.gobaligo.id/vocus/vocus_05dab2ad74b02830d37c34b349f59630.jpg)
 
 ---
 
@@ -90,7 +90,7 @@ _srcHash: ff59f86e695c891ebd35c730a1fa60c3
 - 同样适用于新混合制度延长
 - 延长费用为IDR 500,000
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b58a503de185affe73271afa17955bf4.png)
+![适用签证类型与费用](https://images.gobaligo.id/vocus/vocus_b58a503de185affe73271afa17955bf4.png)
 
 ## 常见问答 FAQ
 

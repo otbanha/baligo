@@ -32,9 +32,9 @@ _srcHash: 8863bf03cd1589851b70b830f00c3c9c
 
 Standing on the terrace of CIRE restaurant at Alila Villas Uluwatu, the Indian Ocean breeze gently caresses your cheeks while the awe-inspiring cliffside view stretches beneath your feet. This isn't just any brunch date—it's a gastronomic marathon that lasts from noon until dusk.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e55c018e9b192b77298e2d3ab4f021e4.jpg)
+![【Bali's Best Sunday Brunch】Alila Villas Uluwatu Brisa Brunch](https://images.gobaligo.id/vocus/vocus_e55c018e9b192b77298e2d3ab4f021e4.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a2eb3064d9941b060c7ff0260527c5d.jpg)
+![【Bali's Best Sunday Brunch】Alila Villas Uluwatu Brisa Brunch](https://images.gobaligo.id/vocus/vocus_9a2eb3064d9941b060c7ff0260527c5d.jpg)
 
 ## When "Brunch" Meets Bali Time
 
@@ -42,7 +42,7 @@ Honestly, when I first saw that "Brisa Brunch" runs from 12 PM to 4 PM, I couldn
 
 KLOOK's newly launched "[Dining Experience at Alila Villas Uluwatu](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063734&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F156213-dining-experience-at-alila-villas-uluwatu%2F)" allows budget-conscious travelers like us to indulge in luxury. We booked a 1 PM reservation, planning to savor this culinary journey throughout the afternoon.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cd123f46c39552d4bf8ae22a5cc40d7e.png)
+![When "Brunch" Meets Bali Time](https://images.gobaligo.id/vocus/vocus_cd123f46c39552d4bf8ae22a5cc40d7e.png)
 
 ## A Seafood Lover's Paradise
 
@@ -56,7 +56,7 @@ Just when we thought we'd tried everything, the server mysteriously handed us a 
 
 The dessert section resembled a modern art exhibition, especially the "Shattered Chocolate Sphere." The waiter poured hot passion fruit sauce over it right at the table, watching the chocolate shell crack like molten lava, revealing coconut ice cream and tropical fruits inside. The kids at the next table were utterly mesmerized, even forgetting their mobile games. My personal favorite was the pandan tiramisu—a rebellious romance between Southeast Asian herbs and Italian dessert, offering a uniquely delicious twist.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9d5b33c029f609db6725ad75ff99f312.jpg)
+![The Pastry Chef's Prank](https://images.gobaligo.id/vocus/vocus_9d5b33c029f609db6725ad75ff99f312.jpg)
 
 ## Digesting by the Cliff
 

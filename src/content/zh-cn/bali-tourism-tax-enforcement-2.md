@@ -21,7 +21,7 @@ _srcHash: 00189c3fd4083afe634ab8a893a5b21e
 
 自2024年2月起，所有入境巴厘岛的**国际旅客**必须缴纳一笔**150,000印尼盾（约USD$10）的旅游税**。这笔费用主要用于：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_faa81d91ecf80644e97531f94ad11639.png)
+![巴厘岛旅游税是什么？](https://images.gobaligo.id/vocus/vocus_faa81d91ecf80644e97531f94ad11639.png)
 
 - 保护当地文化与遗产
 - 维护自然环境

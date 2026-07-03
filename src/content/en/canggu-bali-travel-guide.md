@@ -40,7 +40,7 @@ The roads in Canggu may seem complicated at first glance, and newcomers might fi
 
 Canggu is primarily traversed by the bustling Jl. Raya Canggu, a road known as 'Canggu Main Road' in Chinese. If you're vacationing in Canggu, you'll likely find yourself frequently traveling along this road, as it connects to various beaches via smaller roads branching off from it.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bcb115402d89cc7fbbb2a73787e279fc.png)
+![Understanding Canggu's Layout/Map](https://images.gobaligo.id/vocus/vocus_bcb115402d89cc7fbbb2a73787e279fc.png)
 
 To reach the beaches from Canggu Main Road, you'll need to take one of the following three routes:
 
@@ -54,7 +54,7 @@ Let's start with the rightmost road, "Jl. Pantai Berawa." This road connects to 
 
 It's worth mentioning the public beach outside Finns Beach Club. What's special about this beach? Normally, when taking photos of people against a beach sunset, those far from the camera/phone end up as silhouettes. Without any lighting equipment and using just a phone, we managed to capture a clear, well-lit portrait with a beautiful sunset backdrop on this beach.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f1c4750ee129a41dac2aeb26089d470.jpg)
+![Jl. Pantai Berawa (Berawa Beach Road)](https://images.gobaligo.id/vocus/vocus_2f1c4750ee129a41dac2aeb26089d470.jpg)
 
 [What else can you do in Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
@@ -62,7 +62,7 @@ So how was it achieved? It's because Finns Beach Club shines strong lights onto 
 
 Not far from Finns Beach Club, Panama Kitchen & Pool is a great spot for photography.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_23dd7b71fb7b2d801ea8d76cd23e8dcb.jpg)
+![Jl. Pantai Berawa (Berawa Beach Road)](https://images.gobaligo.id/vocus/vocus_23dd7b71fb7b2d801ea8d76cd23e8dcb.jpg)
 
 [What else can you do in Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
@@ -74,7 +74,7 @@ Located in the middle of Jl. Pantai Batu Bolong (Batu Bolong Beach Road), this s
 
 Along this road, you'll find 'Love Anchor,' a semi-open-air market selling exquisite handmade crafts. While the items are beautiful, they come with a hefty price tag. However, the atmosphere here is uniquely special, with an indescribable vibe. It's a great spot for snapping some artsy photos!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3d86b5d411474b4ceddab20f8043ebe4.jpg)
+![Jl. Pantai Batu Bolong (Batu Bolong Beach Road)](https://images.gobaligo.id/vocus/vocus_3d86b5d411474b4ceddab20f8043ebe4.jpg)
 
 [What else can you do in Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
@@ -82,7 +82,7 @@ Canggu is home to several other distinctive markets. For those who love treasure
 
 Continuing toward the beach, Jl. Pantai Batu Bolong leads to the popular Old Man's Bar and the sunset viewing spot at Batu Bolong Beach. Don't forget to take a photo with the iconic Old Man mural and sign, a true landmark of Canggu!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4fd792a343a64ca8c0d7ed572e451f5a.jpg)
+![Jl. Pantai Batu Bolong (Batu Bolong Beach Road)](https://images.gobaligo.id/vocus/vocus_4fd792a343a64ca8c0d7ed572e451f5a.jpg)
 
 [What else can you do in Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
@@ -111,9 +111,9 @@ The third main thoroughfare, Jl. Padang Lingjong, connects to Echo Beach. Recent
 Further reading:
 [La Brisa: How Did It Stand Out Among Tens of Thousands of Restaurants as 'The Most Beautiful Restaurant in Bali'?](/blog/canggu-la-brisa-restaurant-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ba0b7ff191ef1623871c136afd30e67a.jpg)
+![Jl. Padang Lingjong (Padang Lingjong Road)](https://images.gobaligo.id/vocus/vocus_ba0b7ff191ef1623871c136afd30e67a.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9325d7376edebec9e1b034f658cf5b36.jpg)
+![Jl. Padang Lingjong (Padang Lingjong Road)](https://images.gobaligo.id/vocus/vocus_9325d7376edebec9e1b034f658cf5b36.jpg)
 
 [What else can you do in Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 

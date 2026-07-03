@@ -37,7 +37,7 @@ Kalau kamu merasa riset itu repot, atau gak punya bayangan soal daerah dan lokas
 
 Di platform Klook, ada lebih dari **200 tur harian dengan tema berbeda**, mulai dari pemandangan alam, situs budaya, aktivitas air, spot Instagramable, kuliner, sampai akomodasi mewah dan makan malam sunset—cocok buat semua gaya traveling!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_347c525c2e3191eb083fef2d9875c8e3.png)
+![Gak Mau Ribet? Tur Harian Ini Bikin Kamu 'Tidur di Mobil, Fo](https://images.gobaligo.id/vocus/vocus_347c525c2e3191eb083fef2d9875c8e3.png)
 
 Buat **turis yang pertama kali ke Bali**, atau traveler yang pengen santai aja tanpa repot atur jadwal, tur harian Klook jelas solusi paling praktis.
 
@@ -96,7 +96,7 @@ Cukup pakai aplikasi Klook, pesan instan, konfirmasi langsung — nggak perlu kh
 
 🚗 [Day Trip ke Nusa Penida dengan Pemandu Mandarin](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3D7e1e0da9d2)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1bdaa0b5ff810875bcbeb9606d8dbdd3.png)
+![Rekomendasi Tur Sehari Paling Populer](https://images.gobaligo.id/vocus/vocus_1bdaa0b5ff810875bcbeb9606d8dbdd3.png)
 
 Masih banyak pilihan lain ▶ [Aktivitas Seru di Bali Pilihan Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807836&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fpage%3D1%26sort%3Dparticipants%26frontend_id_list%3D9%2C10%2C14%2C29%2C13%2C127%2C162%2C163)
 
@@ -118,7 +118,7 @@ Tur sehari ini pas banget buat traveler berikut:
 
 1. Masuk ke halaman「[Tur Sehari di Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1039997&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%25E4%25B8%2580%25E6%2597%25A5%25E9%2581%258A%26spm%3DHome.TopNavigation.SearchInput%26clickId%3Df3b088389d)」, lalu pilih tur yang cocok berdasarkan minat, ulasan, dan harga
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e29052eab2810585aa0bb550a20c7c55.jpg)
+![Cara Ikut & Tips Kecil](https://images.gobaligo.id/vocus/vocus_e29052eab2810585aa0bb550a20c7c55.jpg)
 
 ***
 

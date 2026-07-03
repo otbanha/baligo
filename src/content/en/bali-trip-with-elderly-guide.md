@@ -201,9 +201,9 @@ This is my first time writing a recommendation, especially for those visiting So
 
 Finally, I'd like to especially recommend the professional private car team and guide we found through the Facebook group [Go Bali Go Bali Tourism](https://www.facebook.com/groups/baligo/) on the [Bali Private Car Driver Recommendation Hall of Fame](/blog/bali-private-car-drivers-guide/), which made our first trip to Bali incredibly safe and comfortable.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_da313eec958216453bae20d6d64fe17c.jpg)
+![【Conclusion of the Trip】](https://images.gobaligo.id/vocus/vocus_da313eec958216453bae20d6d64fe17c.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_008c9c268af88a82a7d01fce6193cf53.png)
+![【Conclusion of the Trip】](https://images.gobaligo.id/vocus/vocus_008c9c268af88a82a7d01fce6193cf53.png)
 
 The seven-day, six-night itinerary allowed me to explore Bali with my family, worry-free. The private car service also reduced the hassle of carrying luggage and ensured that the elderly had plenty of time to rest. I sincerely recommend Edi's private car tour team and professional Chinese-speaking guide. For first-time visitors to Bali, this arrangement is both reassuring and comfortable, making it especially enjoyable when traveling with elderly family members. With dedicated transfers, luggage handling became much easier, and the elderly could rest in the car at any time, making the entire trip much smoother.
 
@@ -215,7 +215,7 @@ The seven-day, six-night itinerary allowed me to explore Bali with my family, wo
 
 Do you think Claire Chen and their group had an amazing itinerary? Start planning your own Bali free-and-easy trip now! Feel free to share your itinerary in the community as well!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Guide to Traveling to Bali with Elderly Family Members:](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Click here to see more amazing Bali travel stories.
 

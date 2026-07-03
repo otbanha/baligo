@@ -17,7 +17,7 @@ lang: zh-cn
 _srcHash: 266394f3096e0a18feabb33af1a471f0
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5560b9a7da5290e0882e25695ee01bd2.png)
+![印尼/巴厘岛电子签证申请小插曲：如何修改e-VOA资料错误？](https://images.gobaligo.id/vocus/vocus_5560b9a7da5290e0882e25695ee01bd2.png)
 
 近日，有一位名为Mike Chiu的团友在申请印尼电子签证（e-VOA）时遇到了一些问题。他在我们的脸书社团中询问大家的意见。Mike表示，他在填写申请表时，正确地将出生地输入为“TAIWAN”，并且已经再次确认了输入的正确性。然而，当他收到最后的电子签证时，却发现出生地被显示为“Talwan”，“i”长高变成“l”了。Mike不确定这样是否可以，并询问是否需要重新编辑申请或者应该如何处理。
 
@@ -25,7 +25,7 @@ _srcHash: 266394f3096e0a18feabb33af1a471f0
 
 最终，Mike Chiu确实按照建议行事，并且很快收到了官方的回复，问题得以顺利解决。这次经历提醒大家，在申请签证过程中，如果遇到类似的问题，可以通过联系官方来进行修改和确认，以免影响旅行计划。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e14cb6937b166fd9b0d25c773930b373.png)
+![印尼/巴厘岛电子签证申请小插曲：如何修改e-VOA资料错误？](https://images.gobaligo.id/vocus/vocus_e14cb6937b166fd9b0d25c773930b373.png)
 
 ## 具体该如何做？
 
@@ -33,7 +33,7 @@ _srcHash: 266394f3096e0a18feabb33af1a471f0
 
 电子邮件往返最好能一针见血，让人家知道你的问题在哪里。请依照下列格式在email中检附信息，就能以最快的速度完成电子签证上姓名、出生地...等等常见的错误：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_80450c2b7c5ff9cfb7b1177c97a2ec51.png)
+![具体该如何做？](https://images.gobaligo.id/vocus/vocus_80450c2b7c5ff9cfb7b1177c97a2ec51.png)
 
 预订、省钱就看这里：
 
@@ -57,7 +57,7 @@ _srcHash: 266394f3096e0a18feabb33af1a471f0
 
 如果你在申请电子签遇到问题，我们在这里整理了所有在申请电子签证遇到的疑难杂症，希望可以帮你顺利解决申请时的问题：[2024最新版印尼/巴厘岛入境签证&电子签证eVoA 填写相关 FAQ](/blog/indonesia-bali-visa-evoa-faq/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b0b0ca8e3bd37264a24e891674da1e9.png)
+![其他申请电子签证的问题](https://images.gobaligo.id/vocus/vocus_3b0b0ca8e3bd37264a24e891674da1e9.png)
 
 在阅读我们的「巴厘岛自由行究极旅行攻略」之前，我们诚挚地邀请您先订阅我们更多视觉体验分享的YouTube频道「小杰 印尼」。[点击这里](http://bit.ly/youtube-jason)[，立即订阅](http://bit.ly/youtube-jason)
 

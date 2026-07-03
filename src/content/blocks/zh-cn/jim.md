@@ -8,7 +8,7 @@ _srcHash: 2ce75d8d614b75a1235deb27a265d257
 
 ## 更多金巴兰吃喝玩乐介绍
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365095258-index.jpg)
+![更多金巴兰吃喝玩乐介绍](https://images.gobaligo.id/images/2026-03/1774365095258-index.jpg)
 
 金巴兰（Jimbaran）是巴厘岛上一个以浪漫气氛和美食闻名的海滨天堂，拥有迷人的金色沙滩与壮丽的日落景色。这里的海鲜餐厅是不可错过的美食体验，同时还有豪华度假村和宁静的渔村风情，让旅客既能享受奢华又能贴近当地生活。无论是家庭出游还是浪漫约会，金巴兰都能满足您的期待！想了解更多金巴兰？请点击[这里](/blog/jimbaran-guide/)
 

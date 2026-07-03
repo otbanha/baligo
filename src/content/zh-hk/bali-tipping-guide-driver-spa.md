@@ -46,7 +46,7 @@ https://youtube.com/shorts/oBLpQ-MH4kY
 
 ## 快速懶人包
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775609629639-_2026-04-08_07.52.53.png)
+![快速懶人包](https://images.gobaligo.id/images/2026-04/1775609629639-_2026-04-08_07.52.53.png)
 
 {{block:一日團}}
 

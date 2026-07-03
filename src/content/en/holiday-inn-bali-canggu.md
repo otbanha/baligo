@@ -35,7 +35,7 @@ _srcHash: b57fcaa03e4759ab006ac79829776a71
 
 If you're looking for a resort that embraces Bali's natural beauty while offering modern convenience, the newly opened **Holiday Inn Resort Bali Canggu By IHG** is definitely worth considering. This five-star resort not only boasts an excellent location but also impresses with thoughtful service, top-notch facilities, and great value for money, earning an outstanding **comprehensive rating of 9.4** across major platforms.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4164487f518e958a96464f1555658ad1.jpg)
+![Holiday Inn Resort Bali Canggu: Two Adults Stay Free with Tw](https://images.gobaligo.id/vocus/vocus_4164487f518e958a96464f1555658ad1.jpg)
 
 ***
 
@@ -50,15 +50,15 @@ Surf enthusiasts can easily head to Echo Beach or Berawa Beach to catch waves, w
 ## 🛏️ Spacious, Comfortable, and Thoughtfully Designed Rooms
 
 The hotel offers 10 room types, ranging from standard rooms to family suites. The most popular among families is the **1 Bedroom Kids Suite**, which is thoughtfully designed—kids can sleep in their own dedicated bunk bed area, and with a sliding partition, it becomes a private little haven, preserving the joy of family interaction while giving everyone their own space.
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350877857-517838674.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350878683-517839093.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350879194-519119964.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350879593-569654844.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350880009-588605925.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350880415-caption_1_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350880928-caption_5_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350881223-caption_6_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350881649-kr.jpg)
+![Spacious, Comfortable, and Thoughtfully Designed Rooms](https://images.gobaligo.id/images/2026-03/1774350877857-517838674.jpg)
+![Spacious, Comfortable, and Thoughtfully Designed Rooms](https://images.gobaligo.id/images/2026-03/1774350878683-517839093.jpg)
+![Spacious, Comfortable, and Thoughtfully Designed Rooms](https://images.gobaligo.id/images/2026-03/1774350879194-519119964.jpg)
+![Spacious, Comfortable, and Thoughtfully Designed Rooms](https://images.gobaligo.id/images/2026-03/1774350879593-569654844.jpg)
+![Spacious, Comfortable, and Thoughtfully Designed Rooms](https://images.gobaligo.id/images/2026-03/1774350880009-588605925.jpg)
+![Spacious, Comfortable, and Thoughtfully Designed Rooms](https://images.gobaligo.id/images/2026-03/1774350880415-caption_1_.jpg)
+![Spacious, Comfortable, and Thoughtfully Designed Rooms](https://images.gobaligo.id/images/2026-03/1774350880928-caption_5_.jpg)
+![Spacious, Comfortable, and Thoughtfully Designed Rooms](https://images.gobaligo.id/images/2026-03/1774350881223-caption_6_.jpg)
+![Spacious, Comfortable, and Thoughtfully Designed Rooms](https://images.gobaligo.id/images/2026-03/1774350881649-kr.jpg)
 
 Many guests rave about the comfort of the rooms:
 
@@ -72,7 +72,7 @@ The hotel's restaurant offers a variety of international and local cuisine, but 
 
 "The breakfast buffet is outstanding, from fresh tropical fruits to delicious international dishes—it makes every morning a treat."
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f3023a2f7b257b63a50bff27203069b8.jpg)
+![Diverse Dining Options, Highly Praised Breakfast](https://images.gobaligo.id/vocus/vocus_f3023a2f7b257b63a50bff27203069b8.jpg)
 
 "The breakfast choices are diverse, including many healthy options and an à la carte menu included in the buffet, ensuring a great start to each day."
 
@@ -123,9 +123,9 @@ The staff’s enthusiasm and professionalism elevate the overall stay experience
 
 The average price of hotels in Bali ranges from about $76 to $100 USD, and while the Holiday Inn Resort Bali Canggu is priced slightly higher (around $151–$200), the facilities, services, and experience it offers are well worth it. Many guests have said, 'Excellent value for money—the overall experience easily exceeds expectations.'
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f46a46076ac4642c59561fdae72f94bd.jpg)
+![Great Value for Money, Fair Pricing](https://images.gobaligo.id/vocus/vocus_f46a46076ac4642c59561fdae72f94bd.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_03096e8f8cdecab5d48ef06a3ec5cd91.jpg)
+![Great Value for Money, Fair Pricing](https://images.gobaligo.id/vocus/vocus_03096e8f8cdecab5d48ef06a3ec5cd91.jpg)
 
 ***
 

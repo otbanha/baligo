@@ -40,9 +40,9 @@ This thought led us to drive to this spot, not only a popular Instagram photo lo
 
 ## **Seating Surprise: Is a Sea View Seat Luck-Based?**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0aba435d4a72f0834a51addd13688a0b.jpg)
+![Seating Surprise: Is a Sea View Seat Luck-Based?](https://images.gobaligo.id/vocus/vocus_0aba435d4a72f0834a51addd13688a0b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e855f67b3fccd15a9a4b91865ac3d263.jpg)
+![Seating Surprise: Is a Sea View Seat Luck-Based?](https://images.gobaligo.id/vocus/vocus_e855f67b3fccd15a9a4b91865ac3d263.jpg)
 
 Upon entering the hotel lobby, the soaring wooden structures and exquisite Balinese carvings immediately catch the eye. The central pond reflects the sunlight, with several koi fish swimming leisurely, no wonder many children gather here excitedly. We had pre-booked the **afternoon tea at Selasar Deli** on **Klook**, and the staff warmly guided us to our seats.
 
@@ -50,9 +50,9 @@ Upon entering the hotel lobby, the soaring wooden structures and exquisite Balin
 
 Originally assigned an indoor seat, we inquired about moving to the **terrace area**, and the manager readily agreed. This change instantly broadened our view—layered pools, lush tropical gardens, and further out, the vast blue of the Indian Ocean unfolded before us.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_891ef34fcd0b0a643147be73ce53583b.jpg)
+![Seating Surprise: Is a Sea View Seat Luck-Based?](https://images.gobaligo.id/vocus/vocus_891ef34fcd0b0a643147be73ce53583b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_59f0bb045f9fca4930237ee9f250e592.jpg)
+![Seating Surprise: Is a Sea View Seat Luck-Based?](https://images.gobaligo.id/vocus/vocus_59f0bb045f9fca4930237ee9f250e592.jpg)
 
 **⚠️ Important Reminder:**
 
@@ -70,7 +70,7 @@ We booked Friday afternoon tea through **Klook** at a discounted price of **USD$
 
 **Sunday to Thursday (Set Menu):**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d4360aaab8ec5a4b870ed0151ffbe862.jpg)
+![Afternoon Tea Time: Different Experiences on Weekdays vs. We](https://images.gobaligo.id/vocus/vocus_d4360aaab8ec5a4b870ed0151ffbe862.jpg)
 
 **Friday to Saturday (Buffet Style):**
 
@@ -86,7 +86,7 @@ After afternoon tea, take the elevator down **more than ten floors** directly to
 
 🏊 Enjoy free access to the infinity pool 🏖️ Enter the private beach (the sand is super fine!) 🍹 Beach club drinks are extra (around IDR 150,000 per cup)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b34b076d8897f9eb4a0bb1f33e08010b.jpg)
+![Hotel Adventure: Luxury on the Cliff](https://images.gobaligo.id/vocus/vocus_b34b076d8897f9eb4a0bb1f33e08010b.jpg)
 
 We lounged on the Daybed by the pool, watching the sunset paint the sky in shades of pink and purple, completely reluctant to leave...
 

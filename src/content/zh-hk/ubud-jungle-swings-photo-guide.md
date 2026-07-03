@@ -24,7 +24,7 @@ lang: zh-hk
 _srcHash: 3a8e5a8164836526bc0a14e0784460b7
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d6c9e5d49efaee82590a18611f2cfdcf.jpg)
+![【烏布鞦韆攻略】8 大最美叢林鞦韆推薦：租禮服技巧、影相角度同避開人潮全指南](https://images.gobaligo.id/vocus/vocus_d6c9e5d49efaee82590a18611f2cfdcf.jpg)
 
 峇里島以其迷人嘅自然風光、豐富嘅文化底蘊同獨特嘅體驗聞名於世，而喺眾多令人難忘嘅活動中，烏布嘅巨型鞦韆無疑係最受歡迎嘅網紅打卡點之一。如果你正計劃前往呢個熱帶天堂，千祈唔好錯過呢個讓你在綠意盎然嘅叢林中自由飛翔嘅絕佳機會！
 
@@ -48,7 +48,7 @@ _srcHash: 3a8e5a8164836526bc0a14e0784460b7
 
 ## 唔止係鞦韆：鳥巢影相位
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4ef7199022406e03f5f39ff72f782af7.jpg)
+![唔止係鞦韆：鳥巢影相位](https://images.gobaligo.id/vocus/vocus_4ef7199022406e03f5f39ff72f782af7.jpg)
 
 除咗刺激嘅鞦韆體驗外，好多園區仲設置咗真人大小嘅人工鳥巢。呢啲精心設計嘅鳥巢位於樹冠之間或者懸崖邊緣，為遊客提供咗另一種獨特嘅影相機會。坐喺鳥巢入面，被熱帶叢林包圍，彷彿自己都成為咗呢片自然環境嘅一部分，呢種同自然融為一體嘅感覺特別療癒。
 
@@ -89,7 +89,7 @@ _srcHash: 3a8e5a8164836526bc0a14e0784460b7
 1. **唔同套裝或者款式**：比較簡單嘅款式可能 USD$10，而豪華禮服或者特別場景可能會貴啲。
 2. **包套服務差異**：有啲價錢可能包埋攝影、化妝、專屬更衣室等服務。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_803fa654a326d9e9f94d488950a1825f.jpg)
+![服裝建議](https://images.gobaligo.id/vocus/vocus_803fa654a326d9e9f94d488950a1825f.jpg)
 
 ### 用家友善建議
 

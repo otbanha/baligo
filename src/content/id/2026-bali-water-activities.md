@@ -102,7 +102,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### 6. Scuba Diving
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e4f9d3574fd448e635155a11a63a9ec0.png)
+![6. Scuba Diving](https://images.gobaligo.id/vocus/vocus_e4f9d3574fd448e635155a11a63a9ec0.png)
 
 - **Deskripsi**: Bali punya spot diving kelas dunia dengan keanekaragaman hayati laut yang kaya, cocok dari pemula sampai penyelam teknis. Kamu bisa lihat terumbu karang, bangkai kapal, bahkan Manta Ray dan Mola Mola.
 - **Spot Rekomendasi**:
@@ -120,13 +120,13 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### 6.1 Snorkeling
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8931b9fe6f6fd60c4c95f35857142770.jpg)
+![6.1 Snorkeling](https://images.gobaligo.id/vocus/vocus_8931b9fe6f6fd60c4c95f35857142770.jpg)
 
 > Lihat [Kumpulan Spot Snorkeling Terindah di Bali: Panduan Petualangan Laut Ramah Pemula](/blog/bali-snorkeling-spots/)
 
 ### 7. Sea Walking (Jalan-jalan di Dasar Laut)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f7bdbcc0d649ea079dbe5163739266a5.jpg)
+![7. Sea Walking (Jalan-jalan di Dasar Laut)](https://images.gobaligo.id/vocus/vocus_f7bdbcc0d649ea079dbe5163739266a5.jpg)
 
 - **Deskripsi**: Pakai helm oksigen khusus, jalan-jalan di dasar laut, lihat terumbu karang dan ikan tropis dari dekat. Nggak perlu pengalaman menyelam atau bisa berenang, bahkan kacamata pun nggak perlu dilepas. Cocok banget buat yang takut air atau pengin nikmatin dunia bawah laut dengan santai.
 - **Lokasi Rekomendasi**: Tanjung Benoa.
@@ -138,7 +138,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### 8. Arung Jeram (White Water Rafting)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f2a9d8b8bce68c18fddbd3554831cf6a.jpg)
+![8. Arung Jeram (White Water Rafting)](https://images.gobaligo.id/vocus/vocus_f2a9d8b8bce68c18fddbd3554831cf6a.jpg)
 
 - **Deskripsi**: Arung jeram di sungai-sungai di tengah Bali, melewati hutan tropis, sawah terasering, dan ngarai. Sepanjang jalan bisa lihat air terjun dan satwa liar. Sungainya punya level berbeda, cocok buat keluarga atau petualang yang cari tantangan.
 - **Lokasi Rekomendasi**:
@@ -179,7 +179,7 @@ https://youtube.com/shorts/0f-eAQ78no4?si=L7S8-kjpwt_VcsLh
 
 ### 12. Dolphin Watching (Melihat Lumba-lumba)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_399f7b08094dc7f6d4273d9eaabb76c6.jpg)
+![12. Dolphin Watching (Melihat Lumba-lumba)](https://images.gobaligo.id/vocus/vocus_399f7b08094dc7f6d4273d9eaabb76c6.jpg)
 
 - **Deskripsi**: Sekitar jam 6 pagi, naik perahu ke laut utara Bali untuk melihat kawanan lumba-lumba liar. Biasanya kamu bisa lihat puluhan lumba-lumba melompat dan bermain, pemandangannya spektakuler. Saran: pesan dari jauh dan berangkat tepat waktu biar peluang lihatnya makin besar.
 - **Lokasi rekomendasi**: Lovina.
@@ -222,9 +222,9 @@ Beach club yang tersebar di seluruh Bali adalah destinasi wajib bagi traveler ya
 
 **Layanan Sewa Pelampung Mewah**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c068d50978234e879e8f87aec69d92f5.png)
+![Bonus Tambahan: Floating di Kolam Renang](https://images.gobaligo.id/vocus/vocus_c068d50978234e879e8f87aec69d92f5.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_790a033adc23cb620a87c55b53d1cf83.png)
+![Bonus Tambahan: Floating di Kolam Renang](https://images.gobaligo.id/vocus/vocus_790a033adc23cb620a87c55b53d1cf83.png)
 
 Di bawah sinar matahari Bali yang hangat, biarkan pelampung lucu menambah gaya liburanmu! Penyedia jasa siap antar langsung ke kamar hotel atau pintu vila, jadi kamu nggak perlu repot. Baik anak-anak maupun dewasa bisa menikmati serunya main air. Dari bentuk klasik bulat hingga unicorn impian, flamingo tropis, berbagai ukuran, bentuk, dan desain siap kamu pilih, bikin waktu di kolam makin seru dan penuh momen foto!
 

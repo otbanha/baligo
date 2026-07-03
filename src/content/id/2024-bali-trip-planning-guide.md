@@ -49,7 +49,7 @@ Nih, beberapa tips cuti biar kamu bisa liburan paling panjang pakai cuti tahunan
 
 **Hari Nasional Taiwan** Awalnya libur 1 hari, kalau ambil cuti 7–9, 11 Oktober bisa libur 9 hari.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_314b25a412fd8c7714d54b50d3888e62.png)
+![Tips cuti 2024: 7 long weekend buat liburan 9 hari! Mau ke B](https://images.gobaligo.id/vocus/vocus_314b25a412fd8c7714d54b50d3888e62.png)
 
 ➡️[Cari penginapan di Bali klik di sini](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️  
 ➡️[Lebih banyak promo Bali klik di sini](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
@@ -58,15 +58,15 @@ Tips cuti kayak gini seru banget! Di tahun 2024, tinggal atur cuti tahunan denga
 
 Bali, permata Samudra Hindia yang indah banget, lagi nunggu kamu datang. Dengan bandingin hari libur di Taiwan dan Bali, kamu bisa ngerasain budaya yang beda di Bali. Misalnya, pas Taiwan libur, Bali mungkin lagi ada upacara keagamaan penting, ini bakal kasih pengalaman budaya yang dalem, atau malah saran buat hindari musim ramai. Cek tabel dan penjelasan di bawah (cuma yang liburnya barengan):
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a9345467ba7d6d69b803fe56f042b3d8.png)
+![Tips cuti 2024: 7 long weekend buat liburan 9 hari! Mau ke B](https://images.gobaligo.id/vocus/vocus_a9345467ba7d6d69b803fe56f042b3d8.png)
 
 **Sebaiknya hindari:** Tahun Baru Imlek adalah musim liburan paling ramai di Bali, tiap tahun menarik turis dari seluruh dunia, apalagi negara-negara Asia Timur yang jadikan Imlek sebagai satu-satunya libur panjang setahun. Tanggal 10 Februari (tahun baru Imlek) adalah hari libur nasional Indonesia, dan 8 Februari kebetulan adalah Isra Mikraj Nabi Muhammad (hari libur nasional Indonesia), ditambah akhir pekan, Indonesia libur panjang 8–11 Februari. Ditambah lagi 14 Februari pemilu presiden Indonesia, banyak orang Indonesia juga ambil cuti 12 dan 13 Februari jadi libur 7 hari, diperkirakan bakal bikin macet parah di Bali. Cek juga [Panduan Liburan Keluarga di Bali saat Imlek](/blog/2026-bali-lunar-new-year-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_700e68141838114c4ae9cbc8dd92b922.png)
+![Tips cuti 2024: 7 long weekend buat liburan 9 hari! Mau ke B](https://images.gobaligo.id/vocus/vocus_700e68141838114c4ae9cbc8dd92b922.png)
 
 **Bisa ikutan:** 28 Februari–9 Maret Galungan & Kuningan: Ini salah satu festival terpenting di Bali, biasanya berlangsung sekitar 10 hari, merayakan penciptaan alam semesta dan kemenangan kebaikan atas kejahatan. Selama festival ini, orang-orang sembahyang leluhur di rumah, minta berkah, dan juga adakan upacara di pura sebagai penghormatan pada dewa. Selama ini, sekolah di Bali libur dua minggu, kebayang seberapa pentingnya!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_075f5585db131960b6ac37cd4a560582.png)
+![Tips cuti 2024: 7 long weekend buat liburan 9 hari! Mau ke B](https://images.gobaligo.id/vocus/vocus_075f5585db131960b6ac37cd4a560582.png)
 
 **Jangan datang:** Libur panjang Idul Fitri 2024 di Indonesia mulai 8 April (Jumat) sampai 15 April. Idul Fitri adalah hari libur terpenting di Indonesia, meskipun rayain berakhirnya bulan puasa Ramadan (10 April), tapi juga jadi momen buat orang Indonesia kumpul sama keluarga dan teman, maknanya kayak Imlek kita. Biasanya sekitar 5 April, Bali mulai dipenuhi turis lokal dari berbagai daerah, penuh sesak sama orang Indonesia, ini adalah puncak musim ramai nomor satu dari lima musim ramai di Bali. Ini liburan yang wajib kamu hindari, jangan ke Bali!
 
@@ -74,11 +74,11 @@ Bali, permata Samudra Hindia yang indah banget, lagi nunggu kamu datang. Dengan 
 
 Foto berita: Suasana Bali saat libur panjang Idul Fitri tahun-tahun sebelumnya
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7185467fe5f715272809d1814766a390.png)
+![Tips cuti 2024: 7 long weekend buat liburan 9 hari! Mau ke B](https://images.gobaligo.id/vocus/vocus_7185467fe5f715272809d1814766a390.png)
 
 **Bisa diikuti:** 1–5 Mei 2024: Bali Spirit Festival 2024 bakal digelar dari 1 sampai 5 Mei. Festival ini adalah perayaan musik, kesehatan, dan yoga yang dirancang buat ngasih pengalaman holistik buat tubuh, pikiran, dan jiwa. Acaranya diadakan di Ubud. Selama festival, kamu bisa ikut workshop yoga, dance, musik, dan terapi, plus connect sama orang-orang dari seluruh dunia. Tujuan Bali Spirit Festival adalah menciptakan komunitas global yang peduli sama lingkungan sekitar.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_78e2b82008d7640eff35d35211a75671.png)
+![Tips cuti 2024: 7 long weekend buat liburan 9 hari! Mau ke B](https://images.gobaligo.id/vocus/vocus_78e2b82008d7640eff35d35211a75671.png)
 
 **Rekomendasi buat diikuti:** Acara paling seru di bulan September adalah 'Bali Carnival'! Ini festival budaya tahunan yang diadakan di beberapa tempat di Bali setiap September. Festival ini terkenal dengan tarian tradisional, musik, dan pertunjukan seni yang penuh warna, yang menarik wisatawan dari seluruh dunia. Belakangan ini, makin banyak bule ganteng dan cewek cantik yang ikut serta dalam parade! Tanggalnya belum pasti.
 
@@ -86,7 +86,7 @@ Foto berita: Suasana Bali saat libur panjang Idul Fitri tahun-tahun sebelumnya
 
 Bali Carnival rencananya digelar September, tanggal belum pasti
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8d69ad5056bfab74ce6c678fbcd9f109.png)
+![Tips cuti 2024: 7 long weekend buat liburan 9 hari! Mau ke B](https://images.gobaligo.id/vocus/vocus_8d69ad5056bfab74ce6c678fbcd9f109.png)
 
 **Bisa diikuti:** 3–12 Oktober: Navaratri adalah festival Hindu yang merayakan kemenangan Dewi Durga. Festival ini biasanya diadakan setiap September atau Oktober, berlangsung selama 9 hari, diisi dengan puasa, doa, persembahan bunga, dan tarian. Hari terakhir Navaratri adalah Dussehra, yang merayakan kemenangan Pangeran Rama atas Raja Iblis Ravana. Kalau kamu liburan ke Bali sekitar tanggal 10 Oktober, selain menikmati liburan panjang, kamu juga bisa ikut festival Navaratri dan merasakan langsung suasana sakral Hindu, bikin perjalanan makin berkesan.
 

@@ -19,7 +19,7 @@ lang: en
 _srcHash: 888736a2cac3be3a63bac12545cf9017
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_02f9e0629db3fa5a8e4dc621e9b2389f.jpg)
+![2024 Bali Investment Regulations: Impact on Foreign Investor](https://images.gobaligo.id/vocus/vocus_02f9e0629db3fa5a8e4dc621e9b2389f.jpg)
 
 At the end of October 2023, Bali announced new regulations targeting foreigners doing business in Bali and investor residence permits. These regulations bring significant changes that are particularly important for foreigners planning to invest, do business, or reside on this beautiful island.
 

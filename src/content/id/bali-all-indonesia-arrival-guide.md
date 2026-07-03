@@ -47,7 +47,7 @@ Mulai sekarang **nggak perlu lagi isi terpisah** deklarasi bea cukai (e-CD) dan 
 1. Pastikan udah selesai urus eVisa. Cek [di sini](/blog/bali-evisa-application-guide/) untuk penjelasan lebih lanjut, biar nggak masuk website penipuan.
 2. Tiga hari sebelum berangkat, isi AIAC Arrival Card dan **screenshot QR Code** buat diperiksa. Lihat [FAQ](/blog/bali-evisa-customs-health-declaration/) yang udah kami siapkan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_47def0beb4f9737f8e70065afa8db58b.png)
+![Wajib Dilakukan Sebelum Berangkat:](https://images.gobaligo.id/vocus/vocus_47def0beb4f9737f8e70065afa8db58b.png)
 
 ### **1️⃣ Turun Pesawat**
 
@@ -93,7 +93,7 @@ Setelah ambil bagasi, langsung jalan lewat pos pemeriksaan bea cukai
 
 Lihat gambar, langsung paham
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776906855235-chatgpt_image_2026_4_23_08_13_09.png)
+![⏰ Kapan Harus Urus?](https://images.gobaligo.id/images/2026-04/1776906855235-chatgpt_image_2026_4_23_08_13_09.png)
 
 ***
 
@@ -119,7 +119,7 @@ Cek [FAQ di sini](/blog/bali-evisa-customs-health-declaration/) ya
 
 Setelah lewat bea cukai, selamat ya — proses masuk sudah selesai! Sekarang kamu bisa langsung ke hall penjemputan, ketemu sopir yang sudah dipesan atau keluarga/teman, dan mulai petualangan seru!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e41a1f6d506de9fed49c3228e4407a8.png)
+![Setelah lewat bea cukai, selamat kamu resmi masuk!](https://images.gobaligo.id/vocus/vocus_4e41a1f6d506de9fed49c3228e4407a8.png)
 
 **📌 Share ke teman yang mau traveling biar nggak stuck di imigrasi!**
 

@@ -20,7 +20,7 @@ _srcHash: 56cbb0f6e63ee5d5a1b3274a034c02f1
 
 你是否曾经好奇过印尼的30天落地签证可以第30天才离开吗？这是一个许多计划前往印尼/巴厘岛旅游的人常问的问题。在这篇文章中，我们将深入探讨印尼30天落地签证的各方面信息，解答你的疑问，并提供一些实用的旅游建议。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_70896cbf940eae1c0bc1643d987e809d.png)
+![印尼/巴厘岛旅行必读：30天落地签证的常见误区与解答](https://images.gobaligo.id/vocus/vocus_70896cbf940eae1c0bc1643d987e809d.png)
 
 ## 什么是印尼30天落地签证？
 
@@ -60,7 +60,7 @@ _srcHash: 56cbb0f6e63ee5d5a1b3274a034c02f1
 
 > 延伸阅读：[2024印尼/巴厘岛线上延长签证教学](/blog/2024-bali-visa-extension/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_463dbab8ca6996865a358ae3450237dd.png)
+![延长停留时间的选择](https://images.gobaligo.id/vocus/vocus_463dbab8ca6996865a358ae3450237dd.png)
 
 最多人在找的...
 
@@ -76,7 +76,7 @@ _srcHash: 56cbb0f6e63ee5d5a1b3274a034c02f1
 
 印尼的30天落地签证为旅行者提供了便利，但也需要谨慎遵守相关规定。希望这篇文章能够解答你的疑问，并帮助你顺利计划印尼之行。无论是探索巴厘岛的美丽海滩，还是体验日惹的历史文化，只要遵守签证规定并提前做好准备，你一定能享受一段无忧无虑的美好旅程。祝你在印尼度过难忘的时光！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4a7b05fc53b5458c828b2e0087fcc74b.png)
+![总结](https://images.gobaligo.id/vocus/vocus_4a7b05fc53b5458c828b2e0087fcc74b.png)
 
 在阅读我们的**「巴厘岛自由行究极旅行攻略」**之前，我们诚挚地邀请您先订阅我们更多视觉体验分享的YouTube频道**「小杰 印尼」**。[点击这里](http://bit.ly/youtube-jason)，立即订阅
 

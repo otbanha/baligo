@@ -27,7 +27,7 @@ e-CD表格的详细信息如下：你必须提供关于你自己的身份资料�
 
 ## e-CD已改为一站式申请，请看[这里](https://s.id/AllInsonesia)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aec365f19ae3d56f56b52024fc0a209d.jpg)
+![e-CD已改为一站式申请，请看这里](https://images.gobaligo.id/vocus/vocus_aec365f19ae3d56f56b52024fc0a209d.jpg)
 
 ## 以下是一些填写e-CD表格的小贴士：
 

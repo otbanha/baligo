@@ -27,7 +27,7 @@ _srcHash: 305a7a0bcb7b501e073fe04c65fba4b1
 
 峇里島有好多唔同嘅自然景觀同深厚文化底蘊。由梯田、火山、沙灘，到神廟同街景，每個地方都好有畫面感。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a44a207f22d8db8ffa088304a901919c.jpg)
+![峇里島旅拍點樣揀？攝影師推介、傳統服飾體驗價格同拍照穿搭全攻略](https://images.gobaligo.id/vocus/vocus_a44a207f22d8db8ffa088304a901919c.jpg)
 
 同時，峇里島嘅自然光線柔和，色彩層次豐富，傳統服飾好有特色，好適合人像同藝術攝影。所以，無論係旅途紀錄定係主題寫真，都可以影到高質素嘅作品。
 
@@ -68,7 +68,7 @@ https://youtube.com/shorts/fG9pNzin-94
 
 着返沙龍、腰布同頭飾之後，整體氛圍即刻轉變，好有文化深度。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_de3aa30663aad14db9d0327ca03a15b5.jpg)
+![傳統服飾寫真攝影](https://images.gobaligo.id/vocus/vocus_de3aa30663aad14db9d0327ca03a15b5.jpg)
 
 呢類攝影唔止係影相，更加係一場藝術同文化嘅體驗。
 
@@ -102,7 +102,7 @@ https://youtube.com/shorts/5DXF_ptzH2c?si=nkXYBB6rTdSz5jLz
 
 ***
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_31d6065de06df0fb4e9e2fa6f84d01d3.jpg)
+![峇里島專業旅拍小提醒](https://images.gobaligo.id/vocus/vocus_31d6065de06df0fb4e9e2fa6f84d01d3.jpg)
 
 ## **常見問題 FAQ**
 

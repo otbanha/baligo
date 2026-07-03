@@ -24,7 +24,7 @@ _srcHash: 98d208d414f7cf798cbd21cd612a88f1
 
 长期以来，巴厘岛致力于吸引「高品质旅游客群」。近日，巴厘岛省长瓦扬・科斯特（Wayan Koster）公开说明，未来将通过更严谨的审核机制，确保进入巴厘岛的外国旅客具备足够的经济能力，同时也能尊重当地文化与法规。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c1dcd6e46a27f2e95283d42fa682ab0e.jpg)
+![巴厘岛拟对外国旅客进行财力审查 旅客赴巴厘岛前须知重点一次看](https://images.gobaligo.id/vocus/vocus_c1dcd6e46a27f2e95283d42fa682ab0e.jpg)
 
 ---
 
@@ -44,7 +44,7 @@ _srcHash: 98d208d414f7cf798cbd21cd612a88f1
 
 该政策方向也获得印尼旅游部长维迪扬蒂·瓦尔达娜（Widiyanti Wardhana）的支持。根据官方数据，巴厘岛在 2025 年共接待 705 万名旅客，省政府希望在 2026 年至少维持，甚至超越这个数字。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_77d1703ca43de56f00afd3828c760100.jpg)
+![不只看存款 旅游行程也将列入审核](https://images.gobaligo.id/vocus/vocus_77d1703ca43de56f00afd3828c760100.jpg)
 
 ---
 
@@ -86,7 +86,7 @@ _srcHash: 98d208d414f7cf798cbd21cd612a88f1
 
 他最后强调，未来巴厘岛将不只追求观光人数，而是通过区域法规与完善的旅游治理，真正落实以高品质为核心的观光发展方向。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3502f8f803871789aef085601ff7fd99.jpg)
+![省长强调长期规划 聚焦「高品质观光」](https://images.gobaligo.id/vocus/vocus_3502f8f803871789aef085601ff7fd99.jpg)
 
 ---
 

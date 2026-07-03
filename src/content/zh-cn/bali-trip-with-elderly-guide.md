@@ -199,9 +199,9 @@ https://youtu.be/JtxZHtijEkE
 
 最后特别要推荐的是我们透过脸书社团【[Go Bali Go 巴厘岛旅游](https://www.facebook.com/groups/baligo/)】在「[巴厘岛包车司机推荐名人榜](/blog/bali-private-car-drivers-guide/)」找到的专业包车团队和导游，让这趟首次前往巴厘岛的旅程无比安心舒适。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_da313eec958216453bae20d6d64fe17c.jpg)
+![【旅程结语】](https://images.gobaligo.id/vocus/vocus_da313eec958216453bae20d6d64fe17c.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_008c9c268af88a82a7d01fce6193cf53.png)
+![【旅程结语】](https://images.gobaligo.id/vocus/vocus_008c9c268af88a82a7d01fce6193cf53.png)
 
 七天六夜的行程让我得以携家带眷、无忧无虑地探索巴厘岛。包车服务也减少了我们携带行李的麻烦，并且确保了长辈有充裕的休息时间。诚心推荐Edi的包车旅游团队和专业的中文导游。对于初次造访巴厘岛的旅人，这样的安排既安心又舒适，带着长辈同行格外轻松愉快。透过专车接送，行李搬运变得轻松许多，长辈在车上也能随时休息，整趟旅程因此变得更加顺畅。
 
@@ -213,7 +213,7 @@ https://youtu.be/JtxZHtijEkE
 
 您觉得Claire Chen他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![带长辈同游巴厘岛指南：](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 点击这里观看更多巴厘岛精彩游记
 

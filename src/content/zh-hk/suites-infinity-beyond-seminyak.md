@@ -21,7 +21,7 @@ _srcHash: 53a9b46b9dd4d952e785ff73380ceeaf
 
 喺峇里島熱鬧嘅水明漾區，有一處令人驚艷嘅隱藏天堂：**超越無限套房酒店**（Beyond Infinity Suites）。呢度結合咗現代化設施同地道嘅峇里島風情，讓每一位旅客都能享受到豪華與舒適嘅極致體驗。不論係享受蜜月、家庭度假，定係嚟一場放鬆嘅療癒之旅，呢度都能滿足您嘅需求！✨
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7088ed6b46b694168d275f2592649c35.jpg)
+![【水明漾villa推薦】峇里島嘅奢華度假體驗 Suites Infinity & Beyond](https://images.gobaligo.id/vocus/vocus_7088ed6b46b694168d275f2592649c35.jpg)
 
 ---
 
@@ -34,11 +34,11 @@ _srcHash: 53a9b46b9dd4d952e785ff73380ceeaf
 - **現代化廚房**：設備齊全，適合烹煮美味嘅家庭料理。
 - **時尚浴室設計**：配有高檔步入式淋浴間，讓人瞬間放鬆身心。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d2a90fbad282ca91a7507ce8f16f8507.jpg)
+![尊享奢華設施](https://images.gobaligo.id/vocus/vocus_d2a90fbad282ca91a7507ce8f16f8507.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8df75e5c5835f9bea0dd295c0460e468.jpg)
+![尊享奢華設施](https://images.gobaligo.id/vocus/vocus_8df75e5c5835f9bea0dd295c0460e468.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e6e548a315fc8c399fb43e0a950b4496.jpg)
+![尊享奢華設施](https://images.gobaligo.id/vocus/vocus_e6e548a315fc8c399fb43e0a950b4496.jpg)
 
 ---
 
@@ -76,13 +76,13 @@ _srcHash: 53a9b46b9dd4d952e785ff73380ceeaf
 
 超越無限套房酒店係情侶同新婚夫妻嘅首選，擁有浪漫滿分嘅環境同服務。根據評價，雙人入住評分高達**9.5分**！嚟呢度，同另一半一齊創造專屬於你哋嘅甜蜜回憶啦！💑
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f25a5fe6c0f44df42a08323a250ca47f.jpg)
+![難忘嘅浪漫體驗](https://images.gobaligo.id/vocus/vocus_f25a5fe6c0f44df42a08323a250ca47f.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7ca5031cc044714da88af473193d940c.jpg)
+![難忘嘅浪漫體驗](https://images.gobaligo.id/vocus/vocus_7ca5031cc044714da88af473193d940c.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8832bd75012431cb0c10a27eb2acb279.jpg)
+![難忘嘅浪漫體驗](https://images.gobaligo.id/vocus/vocus_8832bd75012431cb0c10a27eb2acb279.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0e1889be8e677d18cf1410a346970b2d.jpg)
+![難忘嘅浪漫體驗](https://images.gobaligo.id/vocus/vocus_0e1889be8e677d18cf1410a346970b2d.jpg)
 
 ---
 
@@ -94,19 +94,19 @@ _srcHash: 53a9b46b9dd4d952e785ff73380ceeaf
 
 ## 住客真實評論
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_67ead32efc5872925a2a6e587917301d.jpg)
+![住客真實評論](https://images.gobaligo.id/vocus/vocus_67ead32efc5872925a2a6e587917301d.jpg)
 
 呢次住宿體驗真係好正！🏡🏖 Villa嘅位置好方便，行幾分鐘就到水明漾廣場。員工嘅服務好貼心，對我嘅每一個需求都好快回應，仲幫我安排咗一個特別日子所需要嘅一切。今次嘅住宿令我覺得賓至如歸，下次嚟峇里島一定會再住呢度！強烈推薦！💯
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5203f455ef649f04c473f06b05aa014d.jpg)
+![住客真實評論](https://images.gobaligo.id/vocus/vocus_5203f455ef649f04c473f06b05aa014d.jpg)
 
 我哋嘅住宿體驗非常完美！✨🏝 呢棟Villa嘅位置超級方便，行路就可以輕鬆到達水明漾廣場。服務人員好細心，回應迅速，為我嘅特別日子安排得非常周到，滿足咗所有需求。呢度嘅服務同氛圍令我哋非常難忘。下次到峇里島，我哋一定仲會選擇呢度！極力推薦！💫
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc80cce5ebc1e4fdf9fe35e0cca58ee3.jpg)
+![住客真實評論](https://images.gobaligo.id/vocus/vocus_cc80cce5ebc1e4fdf9fe35e0cca58ee3.jpg)
 
 一次美好嘅入住體驗，呢間酒店嘅Villa係度假放鬆嘅完美選擇，地點位於水明漾中心，無論行路或者租電單車都非常方便🚶‍♀️🏍。房間同泳池都好乾淨整潔，我哋好鍾意！員工好親切專業，特別感謝Gusti、Erik、Bayu同Sugi，佢哋為我哋安排咗一日嘅早餐同出發時嘅機場接送服務，令我哋覺得好暖心。此外，佢哋仲特別為我哋佈置咗浪漫嘅蜜月房間，甚至幫我哋租電單車，令成個行程更加順利。🇮🇩❤️🤍 每一個細節都好正，非常感謝呢度嘅用心，令我哋留下咗美好嘅回憶，下次一定會再嚟！🥰
 
@@ -114,7 +114,7 @@ _srcHash: 53a9b46b9dd4d952e785ff73380ceeaf
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_39c3947316d74a0216806847684fdb80.jpg)
+![住客真實評論](https://images.gobaligo.id/vocus/vocus_39c3947316d74a0216806847684fdb80.jpg)
 
 水明漾係峇里島最時尚活力嘅地區之一，結合咗高級餐廳、潮流咖啡廳、精品店同埋迷人嘅沙灘，係享受休閒同娛樂嘅絕佳選擇。如果你都想住喺水明漾，不妨參考以下我哋為你精心準備嘅住宿主題介紹：
 

@@ -26,7 +26,7 @@ _srcHash: 4b3c652dbf794d6fddfeff31e6a9e689
 
 ## **當峇里島嘅極致放鬆成為一門藝術**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_24ebbaad1dfcfe06f1835d6e0c0e9c9a.jpg)
+![當峇里島嘅極致放鬆成為一門藝術](https://images.gobaligo.id/vocus/vocus_24ebbaad1dfcfe06f1835d6e0c0e9c9a.jpg)
 
 講到峇里島嘅頂級療癒體驗，Alila Villas Uluwatu嘅 Spa 無疑係奢華放鬆嘅代名詞。呢座位於烏魯瓦圖百米懸崖之上嘅隱世度假村，唔單止以其標誌性嘅鳥巢建築同永續設計聞名，更以融合在地智慧同現代療癒哲學嘅 Spa 體驗，為追求深度放鬆嘅旅人打造身心靈嘅聖殿。當印度洋嘅海風穿過鏤空建築，當傳統巴厘島療癒術遇上當代極簡美學，一場超越尋常嘅感官覺醒就此展開⋯⋯
 
@@ -36,9 +36,9 @@ _srcHash: 4b3c652dbf794d6fddfeff31e6a9e689
 
 ## **漂浮喺浪濤之上嘅魔幻時光**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3d961129c71331ca4024f0acd0208c9c.jpg)
+![漂浮喺浪濤之上嘅魔幻時光](https://images.gobaligo.id/vocus/vocus_3d961129c71331ca4024f0acd0208c9c.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b938c11756f65b010cd5329a19cf255e.jpg)
+![漂浮喺浪濤之上嘅魔幻時光](https://images.gobaligo.id/vocus/vocus_b938c11756f65b010cd5329a19cf255e.jpg)
 
 跟住治療師穿過竹編廊道，懸崖邊嘅獨立SPA小屋突然出現——整面落地窗將印度洋嘅壯闊框成一幅動態畫作。趴喺按摩床上嘅獨特視角，透過玻璃地板直視百米深嘅懸崖斷面，浪花喺礁岩上碎成珍珠嘅聲響，同治療師手中銅缽嘅共鳴完美同步。當溫熱嘅椰子油沿住脊椎流淌時，忽然領悟呢度嘅奧秘：Alila將地景嘅震撼力，轉化為療程嘅一部分。
 
@@ -46,7 +46,7 @@ _srcHash: 4b3c652dbf794d6fddfeff31e6a9e689
 
 ## **大地饋贈嘅肌膚盛宴**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7a659a97213b35d3112e3514857e94e1.jpg)
+![大地饋贈嘅肌膚盛宴](https://images.gobaligo.id/vocus/vocus_7a659a97213b35d3112e3514857e94e1.jpg)
 
 特別鍾意去角質環節使用嘅火山礦物泥，混合住新鮮椰肉磨砂嘅質地，喺治療師熟練嘅畫圈手法下，竟然似係將峇里島嘅陽光揉入毛孔。熱石按摩階段，選用嘅玄武岩浸泡住本地香草精油，每塊石頭嘅溫度與重量都經過精確計算。最驚喜嘅係中途嗅聞嘅精油試香儀式——五種對應巴厘島聖樹嘅香調，治療師根據我嘅呼吸節奏推薦咗最適合嘅「菩提葉」配方。
 
@@ -58,7 +58,7 @@ _srcHash: 4b3c652dbf794d6fddfeff31e6a9e689
 
 ## **夕陽下嘅完美句點**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2a014e635908c6e5ac3456de0f75cbc5.jpg)
+![夕陽下嘅完美句點](https://images.gobaligo.id/vocus/vocus_2a014e635908c6e5ac3456de0f75cbc5.jpg)
 
 手持住未飲完嘅香草茶，循住水聲嚟到Alila最引以為傲嘅無邊際泳池。憑SPA收據即可免費進入呢處懸崖上嘅水景聖地。當身體浸入同體溫相仿嘅池水時，正逢日落時分——火球般嘅太陽緩緩墜向海平面，將池水染成流動嘅鎏金。靠喺池邊嘅淺水區，任浪濤聲同遠處銅鑼聲交織，先頭SPA時積累嘅溫暖精油隨住水流輕輕暈開，肌膚好似被夕陽鍍咗一層蜂蜜色嘅光暈。呢一刻先真正明白，點解呢度被譽為「峇里島最美嘅泳池日落觀賞點」。
 
@@ -78,7 +78,7 @@ _srcHash: 4b3c652dbf794d6fddfeff31e6a9e689
 
 [**【峇里島奢華新定義】Alila Villas Uluwatu｜世界十大無邊際泳池✧明星御用婚禮勝地**](/blog/alila-villas-uluwatu-bali/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a94ea4e5d3d05549aa074f0913cf1946.jpg)
+![Alila Uluwatu 住宿介紹:](https://images.gobaligo.id/vocus/vocus_a94ea4e5d3d05549aa074f0913cf1946.jpg)
 
 ***
 

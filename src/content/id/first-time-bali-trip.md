@@ -22,13 +22,13 @@ _srcHash: 73fd0049b0c0926df9622dfbde18bcca
 
 > Cerita perjalanan berikut diadaptasi dari postingan [YiShawn Huang](https://www.facebook.com/share/p/1DmyQYJF6M/)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774767611515-779059604094166643.png)
+![【Cerita Perjalanan Bali】Pertama Kali ke Pulau Dewata: Trip B](https://images.gobaligo.id/images/2026-03/1774767611515-779059604094166643.png)
 
 Ini pertama kalinya aku dan istri ke **Bali**. Untuk perjalanan yang sudah lama kami nantikan ini, kami memilih trip bebas plus sewa mobil, biar bisa jelajahi pulau ini dengan ritme paling santai. Gak nyangka, dua hari pertama aja udah kasih kami banyak kejutan—dari keramahan penduduk lokal sampai makanan yang bikin melongo, semuanya terasa pas banget.
 
 ## 🚗 Sahabat Seperjalanan: Sopir Sewa Benny
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774768349655-banny_new.jpg)
+![Sahabat Seperjalanan: Sopir Sewa Benny](https://images.gobaligo.id/images/2026-03/1774768349655-banny_new.jpg)
 
 Sebelum berangkat, kami riset online dan akhirnya nemu sopir sewa bernama Benny. Begitu ketemu dia di tengah keramaian bandara, perjalanan resmi dimulai! Benny super ramah, selama perjalanan kami ngobrol banyak banget. Dia bukan cuma profesional, tapi kayak teman lama. Bahkan setelah pulang ke Taiwan, kami masih sesekali chat di FB. Kalau kalian mau **Bali** trip bebas, kami rekomendasi banget pakai dia!
 
@@ -48,13 +48,13 @@ https://youtu.be/UoGlRyAdyB8
 
 ## 🏡 住進肉桂天堂：Kayumanis Jimbaran Private Estate & Spa
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774768824256-v1.jpg)
+![住進肉桂天堂：Kayumanis Jimbaran Private Estate & Spa](https://images.gobaligo.id/images/2026-03/1774768824256-v1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774768825417-v4.jpg)
+![住進肉桂天堂：Kayumanis Jimbaran Private Estate & Spa](https://images.gobaligo.id/images/2026-03/1774768825417-v4.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774768826092-v3.jpg)
+![住進肉桂天堂：Kayumanis Jimbaran Private Estate & Spa](https://images.gobaligo.id/images/2026-03/1774768826092-v3.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774768826591-v2.jpg)
+![住進肉桂天堂：Kayumanis Jimbaran Private Estate & Spa](https://images.gobaligo.id/images/2026-03/1774768826591-v2.jpg)
 
 Dua malam pertama kami nginep di **Kayumanis Villa**, Jimbaran. Ini adalah villa pribadi kayu manis paling terkenal di Bali. Begitu sampai, stafnya ramah banget ngasih sambutan, bahkan ngasih kejutan—diupgrade ke **Villa 2 Kamar Tidur**! Pas masuk, ada kolam renang besar, ruang tamu terbuka, ruang makan, dan dapur lengkap. Di kamar, ada welcome drink (jus jahe kayu manis), salak, dan cookies kayu manis yang khas banget. Yang paling bikin hati hangat, villa ini juga ngasih voucher pijat 15 menit gratis—terapisnya langsung datang ke kamar, tekniknya jempolan dan tekanannya pas, sambil ngobrolin drama China favoritnya (ternyata dia juga fans Yang Yang, lho!).
 
@@ -64,7 +64,7 @@ Dua malam pertama kami nginep di **Kayumanis Villa**, Jimbaran. Ini adalah villa
 
 - **Makan malam hari pertama: Wahaha Pork Rib** Kami pesan Grab ke tempat iga babi ini. Suasananya santai banget, ada musik, iga dan babi garingnya standar sih, dagingnya agak keras. Kalau nginep di dekat sini, mampir aja, tapi nggak usah sengaja jauh-jauh ke sini.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774769004063-wahaha2.jpg)
+![住進肉桂天堂：Kayumanis Jimbaran Private Estate & Spa](https://images.gobaligo.id/images/2026-03/1774769004063-wahaha2.jpg)
 
 https://youtu.be/RodQvCZKwD0
 
@@ -74,7 +74,7 @@ https://youtu.be/RodQvCZKwD0
 
 Pagi kedua, meskipun hujan turun, sarapan **Balinese** di villa tetap asyik banget.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774768866032-face.jpg)
+![Sarapan Enak di Tengah Hujan & Kejutan Ultah](https://images.gobaligo.id/images/2026-03/1774768866032-face.jpg)
 
 - **Rekomendasi wajib coba:** Kami suka banget **Mie Goreng** dan roti handmade-nya. Jus hijau sehat (isi alpukat, apel, nanas, dll) manisnya pas, bikin seger banget.
 - **Makan siang spesial:** Siangnya kami makan di restoran villa, **Bebek Goreng** paling bikin kaget—dagingnya lepas dari tulang dan teksturnya juara; **singkong goreng keju leleh** juga unik banget, bentuknya kayak ubi tapi rasanya kayak kentang.
@@ -84,17 +84,17 @@ Pagi kedua, meskipun hujan turun, sarapan **Balinese** di villa tetap asyik bang
 
 ## 🍫 Pengalaman Mewah: Petualangan Cokelat di Avisha Wellness & Spa
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774769054658-spa1.jpg)
+![Pengalaman Mewah: Petualangan Cokelat di Avisha Wellness & S](https://images.gobaligo.id/images/2026-03/1774769054658-spa1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774769055885-spa2.jpg)
+![Pengalaman Mewah: Petualangan Cokelat di Avisha Wellness & S](https://images.gobaligo.id/images/2026-03/1774769055885-spa2.jpg)
 
 Sore harinya kami ke **Avisha Wellness** yang dekat villa, buat nyobain paket pijat ganda super unik "**Love Escape**" (2,5 jam, sekitar USD$155). Begitu masuk ruangan kecil, aroma cokelat kental banget langsung menyambut. Selain pijat seluruh tubuh, yang paling spesial adalah **scrub dengan butiran cokelat**, lalu seluruh badan dilapisi **masker cokelat**. Rasanya kayak kita dijadikan camilan cokelat! Terakhir, berendam di bak bunga romantis, ditemani hidangan penutup cokelat yang mewah. Meskipun rasanya agak manis, ini pasti **pengalaman spa paling mewah** di Bali.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774768922372-r1.jpg)
+![Pengalaman Mewah: Petualangan Cokelat di Avisha Wellness & S](https://images.gobaligo.id/images/2026-03/1774768922372-r1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774768923003-r2.jpg)
+![Pengalaman Mewah: Petualangan Cokelat di Avisha Wellness & S](https://images.gobaligo.id/images/2026-03/1774768923003-r2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774768923637-r3.jpg)
+![Pengalaman Mewah: Petualangan Cokelat di Avisha Wellness & S](https://images.gobaligo.id/images/2026-03/1774768923637-r3.jpg)
 
 ## 🍽️ Makan Malam Ultah Mewah: Restoran Cuca Rekomendasi Michelin
 

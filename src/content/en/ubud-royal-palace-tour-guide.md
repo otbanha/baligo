@@ -46,7 +46,7 @@ It's worth noting that while the palace grounds are extensive, only a small port
 
 As a paradise for culture lovers, Ubud Palace hosts traditional Balinese dance performances every Thursday evening, including the mysterious 'Kecak Fire Dance.' These performances are among the most iconic artistic events in Bali, drawing visitors from around the world. Tickets cost 100K Indonesian Rupiah, and the event typically runs from 7:00 PM to 8:00 PM every Thursday, offering a visual feast under the sunset glow. For travelers eager to delve into Balinese culture, this is an unforgettable experience.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e2005bd1999f438cbe9fc3d2a10ac176.png)
+![Highlight of Ubud Royal Palace: Art Performances](https://images.gobaligo.id/vocus/vocus_e2005bd1999f438cbe9fc3d2a10ac176.png)
 
 > [Ubud Palace Kecak Fire Dance Ticket Discount](https://affiliate.klook.com/redirect?aid=116349&aff_adid=944134&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2deaa6927)
 
@@ -122,7 +122,7 @@ Attractions in Ubud are close to each other, so it's recommended to plan a day t
 
 Ubud Palace is not only a landmark in Ubud but also a precious treasure of Bali's history and art. Here, you can feel the former glory of the Balinese royalty, appreciate authentic traditional art, and gain deep insight into Bali's unique cultural background. The surrounding attractions offer a rich variety of experiences, allowing visitors to enjoy Bali's history and culture, indulge in shopping, and get close to nature. Whether you love history, shopping, or natural landscapes, this place has something for everyone, making your Bali trip full of surprises and rewards.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7ed2f29faae88b539880459d2bf83b98.jpg)
+![Summary](https://images.gobaligo.id/vocus/vocus_7ed2f29faae88b539880459d2bf83b98.jpg)
 
 ## Ubud Palace FAQ
 

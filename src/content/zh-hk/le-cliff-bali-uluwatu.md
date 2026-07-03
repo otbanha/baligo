@@ -35,11 +35,11 @@ _srcHash: 995e4f14b08f4b7e4ae2e209ed915bb7
 ---
 峇里島烏魯瓦圖有好多面海嘅酒店，但係可以令你字面意義上「住喺懸崖岸邊上」嘅，大概只有呢一間。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776336998991-d983334a9253e13b11b8294497cc9420.jpeg)
+![Le Cliff Bali｜烏魯瓦圖懸崖海景第一排 浪漫蜜月 Villa 推薦 2026 - Go Bali Go](https://images.gobaligo.id/images/2026-04/1776336998991-d983334a9253e13b11b8294497cc9420.jpeg)
 
 Le Cliff Bali 就嵌喺烏魯瓦圖嘅峭壁岩石之間，面對 Padang Padang 嘅知名衝浪點，推開房門就係無邊際海景，瞓喺床度可以睇到成片地平線。呢度唔係嗰種「海景房要加價升級」嘅酒店，係每一間房本來就面海嘅地方。均價約 $223 美金一晚，比峇里島平均住宿貴少少，但呢個景色，係俾錢都買唔到嘅稀缺體驗。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337035647-88f735cf4f34df6313d11c091f41965f.webp)
+![Le Cliff Bali｜烏魯瓦圖懸崖海景第一排 浪漫蜜月 Villa 推薦 2026 - Go Bali Go](https://images.gobaligo.id/images/2026-04/1776337035647-88f735cf4f34df6313d11c091f41965f.webp)
 
 ***
 
@@ -59,7 +59,7 @@ https://youtube.com/shorts/isVxI2UEq6U
 
 由停車場行落嗰兩百幾級石梯，你會開始懷疑自己做緊咩——但當成片印度洋出現喺眼前，大概所有抱怨都會瞬間消失。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337278582-188944639.jpg)
+![設施介紹](https://images.gobaligo.id/images/2026-04/1776337278582-188944639.jpg)
 
 酒店規模唔大，只有 10 間房，走精品小型住宿嘅路線。公共空間緊貼岩壁而建，有戶外陽台同礁石上嘅繩床可以瞓喺度睇海。住客提到有一個繩索懸掛式嘅日光浴躺床，直接懸喺海面上方，係呢度最有記憶點嘅設計之一。
 
@@ -71,31 +71,31 @@ Wi-Fi訊號喺懸崖底比較弱，呢個唔算意外，要預咗。現場有提
 
 ## 🛏️ 房型介紹
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337507275-6383164_19040413210073485988.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1776337507275-6383164_19040413210073485988.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337507692-258264712.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1776337507692-258264712.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337508130-259184111.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1776337508130-259184111.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337508527-298804791.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1776337508527-298804791.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337508981-351383905.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1776337508981-351383905.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337509441-351383906.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1776337509441-351383906.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337509907-351384124.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1776337509907-351384124.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337510619-351384126.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1776337510619-351384126.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337511221-351384128.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1776337511221-351384128.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337511739-399743495.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1776337511739-399743495.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337512066-c59be9da2326ca82aaaca4f85b9fd465.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1776337512066-c59be9da2326ca82aaaca4f85b9fd465.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337512495-3ade9d776ca1280f7de5fbef0da56e4d.jpeg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1776337512495-3ade9d776ca1280f7de5fbef0da56e4d.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337512863-19ea088939e853d9e85d171946dc68f9.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1776337512863-19ea088939e853d9e85d171946dc68f9.webp)
 
 房型分為幾個等級：基本嘅Deluxe Double Room、有露台嘅Deluxe Double with Balcony、同埋有海景嘅海景房型。所有房都係對住海，分別在於露台大細同景觀角度。
 
@@ -117,7 +117,7 @@ Wi-Fi訊號喺懸崖底比較弱，呢個唔算意外，要預咗。現場有提
 
 「住咗入嚟之後完全唔捨得走，瞓喺床度就可以睇到成個地平線，夕陽直接從窗打入嚟。就係要小心啲猴子，佢哋真係好大膽，將食物放喺露台好快就會被搶。」（來源：Agoda ⭐ 8.5）
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337652862-188944707.jpg)
+![住客真實評論](https://images.gobaligo.id/images/2026-04/1776337652862-188944707.jpg)
 
 ***
 
@@ -130,7 +130,7 @@ Wi-Fi訊號喺懸崖底比較弱，呢個唔算意外，要預咗。現場有提
 - **停車場目前有限制**：因為鄰近廟宇用地，建議自己揸電單車或者電單車過嚟，揸車嘅話可能要停喺主路再行路
 - **入住時間 15:00–隔日12:00**，超過時間要提前聯絡酒店
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337785405-486736413_18492010798053481_7956499200462328279_n.jpg)
+![入住前必知](https://images.gobaligo.id/images/2026-04/1776337785405-486736413_18492010798053481_7956499200462328279_n.jpg)
 
 ***
 

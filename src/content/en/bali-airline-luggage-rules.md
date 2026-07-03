@@ -21,21 +21,21 @@ _srcHash: eb4ebc8b21d892528749460af16ea411
 ---
 Embarking on a journey to Bali is a dreamlike and magical experience, yet baggage restrictions often pose a significant challenge for many travelers. To ensure aviation safety and provide better service, airlines flying to Bali have established a series of baggage limits, allowing passengers to prepare adequately before their trip.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_75cdac7984a270510cfc57093aa036cd.png)
+![Essential Guide to Baggage Policies for Flights to Bali](https://images.gobaligo.id/vocus/vocus_75cdac7984a270510cfc57093aa036cd.png)
 
 Below, we've listed the baggage restrictions for the three airlines most commonly used by travelers from Taiwan and Hong Kong for your reference:
 
 ## EVA Air
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_091759da1e2ff505b6ee56f141cc5264.png)
+![EVA Air](https://images.gobaligo.id/vocus/vocus_091759da1e2ff505b6ee56f141cc5264.png)
 
 ## China Airlines
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_df96d9694d34f46eb9dbdd904ce0b8e5.png)
+![China Airlines](https://images.gobaligo.id/vocus/vocus_df96d9694d34f46eb9dbdd904ce0b8e5.png)
 
 ## Cathay Pacific
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fce8ee99876ef1edc7a88c2dc3372aeb.png)
+![Cathay Pacific](https://images.gobaligo.id/vocus/vocus_fce8ee99876ef1edc7a88c2dc3372aeb.png)
 
 Most airlines have specific regulations regarding carry-on luggage. Typically, each passenger is allowed to bring one piece of carry-on luggage, with size and weight limits varying by airline. On flights to Bali, common carry-on luggage restrictions are approximately 23cm x 36cm x 56cm, with a weight limit usually under 7kg. However, please note that these regulations may change based on airline policies, so it's best to confirm details before departure.
 

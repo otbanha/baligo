@@ -28,7 +28,7 @@ _srcHash: 27f30d178dcd0eb894fce9668f7f5411
 
 ## **Bali Travel: Cash or Credit Card?**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_832db431875e09d43fff04ac9260f412.jpg)
+![Bali Travel: Cash or Credit Card?](https://images.gobaligo.id/vocus/vocus_832db431875e09d43fff04ac9260f412.jpg)
 
 Bali is a favorite vacation destination for travelers from Taiwan, Hong Kong, Singapore, and Malaysia. Whether it's luxury hotels, unique restaurants, or spa treatments, using credit cards may seem convenient, but it actually hides many risks. Issues like credit card fraud, high transaction fees, and merchant scams are frequently reported. If not handled carefully, a pleasant holiday can turn into a financial nightmare.
 
@@ -93,7 +93,7 @@ In Bali, some businesses may:
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5f0902c94005ab50560d815cb81e2471.png)
+![3. Additional Charges and Mandatory Tips](https://images.gobaligo.id/vocus/vocus_5f0902c94005ab50560d815cb81e2471.png)
 
 ## **4. Pre-authorization Risks**
 

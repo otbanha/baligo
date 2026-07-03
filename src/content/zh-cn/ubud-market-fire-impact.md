@@ -17,7 +17,7 @@ lang: zh-cn
 _srcHash: f8e3c90379831dd8f43780313923d235
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_06367c77917f8c1c8b1ed21fc957cc5a.jpg)
+![乌布市场发生火灾，1,033名商贩受影响](https://images.gobaligo.id/vocus/vocus_06367c77917f8c1c8b1ed21fc957cc5a.jpg)
 
 今日8/17午后，乌布市场的地下室发生火灾，火势从中午持续至傍晚仍未能扑灭。这场火灾导致市场内的1,033名商贩无法继续营业。
 

@@ -24,7 +24,7 @@ _srcHash: c112bd6fdbf754d4c76c1156ddb6b826
 
 Mulai 1 September 2024, maskapai full-service asal Taiwan, Starlux Airlines (StarLux), resmi meluncurkan penerbangan langsung dari Taipei ke Jakarta, Indonesia, dengan frekuensi lima kali seminggu. Starlux Airlines adalah maskapai pendatang baru yang didirikan pada 2017 oleh Chang Kuo-wei, putra dari pendiri EVA Group, Chang Yung-fa. Sejak penerbangan perdananya pada Januari 2020, Starlux langsung mencuri perhatian — tiketnya sering ludes terjual.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cd9f2da6965d05b446647f287aad4937.jpg)
+![Kenalan Sama Maskapai Full-Service Taiwan "StarLux"](https://images.gobaligo.id/vocus/vocus_cd9f2da6965d05b446647f287aad4937.jpg)
 
 ## Dari Awal Berdiri Sampai Ekspansi: Perjalanan Starlux
 
@@ -36,7 +36,7 @@ Februari tahun ini, di Singapore Airshow, Starlux menandatangani perjanjian deng
 
 Desain interior kabin Starlux dikerjakan oleh BMW Designworks, dan semua kelas dilengkapi dengan sistem hiburan. Di kelas ekonomi, kursi dilengkapi layar 720p 10,1 inci, plus Wi-Fi gratis dasar (termasuk fitur SMS). Aroma khas di dalam kabin diciptakan oleh P.Seven, memadukan aroma kayu, kulit, dan bunga — bikin pengalaman terbang makin nyaman. Seragam pramugari didesain oleh desainer lokal Sean Yin, dengan inspirasi gaya retro-futuristik era 1940-an dan 1950-an.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dddd215a460c4e3b870614c74ec256fa.jpg)
+![Desain Kabin dan Keunggulan Layanan](https://images.gobaligo.id/vocus/vocus_dddd215a460c4e3b870614c74ec256fa.jpg)
 
 ## Masuk ke Pasar Indonesia
 
@@ -52,7 +52,7 @@ Rute Taipei-Jakarta Starlux Airlines dioperasikan lima kali seminggu, yaitu seti
 
 Selain rute Taipei-Jakarta yang udah beroperasi, Starlux Airlines juga lagi merencanakan penerbangan ke Bali. Mereka lagi ngitung-ngitung waktu terbaik dari Taipei ke Bali biar rute baru ini sukses diluncurkan. Bali sebagai destinasi wisata top di Indonesia selalu menarik turis dari seluruh dunia. Starlux Airlines berharap lewat rute baru ini, wisatawan dari Taiwan dan negara lain bisa dapet pilihan perjalanan yang lebih praktis dan berkualitas.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_853089ec747ba33cc3aef1679d018364.jpg)
+![Starlux Rencana Terbang ke Bali](https://images.gobaligo.id/vocus/vocus_853089ec747ba33cc3aef1679d018364.jpg)
 
 Peluncuran rute baru ini bakal makin memperkuat koneksi antara Taiwan dan Indonesia, dan buat turis Taiwan yang doyan Bali, bakal kasih jalur perjalanan yang lebih langsung tanpa perlu transit. Seiring ekspansi Starlux yang terus berlanjut, mereka perlahan-lahan membangun jaringan rute yang luas mencakup destinasi utama di Asia dan global. Starlux memperkirakan, ke depannya bakal makin banyak turis Taiwan dan internasional yang eksplorasi keindahan Bali lewat rute ini.
 

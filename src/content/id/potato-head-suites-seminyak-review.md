@@ -49,21 +49,21 @@ Tas pantai dan topi bisa dipakai langsung
 
 Di tengah kamar ada tempat tidur besar, di sampingnya ada TV dan jendela besar. Cahaya alami dari luar masuk, bikin ruangan makin terang.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f2c95d81b00912f89eccd75dd5d7acf7.jpg)
+![【Rekomendasi Hotel Seminyak】Pengalaman Menginap di Potato He](https://images.gobaligo.id/vocus/vocus_f2c95d81b00912f89eccd75dd5d7acf7.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_86eaf7a5d1e0e482b08f8910ca4d552f.jpg)
+![【Rekomendasi Hotel Seminyak】Pengalaman Menginap di Potato He](https://images.gobaligo.id/vocus/vocus_86eaf7a5d1e0e482b08f8910ca4d552f.jpg)
 
 Di ujung tempat tidur ada sofa kecil dan area duduk, plus balkon kecil. Meskipun nggak terlalu luas, cukup buat jemur baju dan handuk.
 
 Kamar terhubung sama kamar mandi yang luas, perlengkapannya lengkap banget. Selain wastafel besar, ada juga perlengkapan mandi ramah lingkungan yang terbuat dari botol daur ulang lokal. Shower besar di kamar mandi dilengkapi sampo, kondisioner, dan sabun mandi gratis, bikin mandi jadi makin nyaman.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_03c56be8f36ad023774da57abc8e471b.jpg)
+![【Rekomendasi Hotel Seminyak】Pengalaman Menginap di Potato He](https://images.gobaligo.id/vocus/vocus_03c56be8f36ad023774da57abc8e471b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9050d7cd284b1b6474c85a728582bf48.jpg)
+![【Rekomendasi Hotel Seminyak】Pengalaman Menginap di Potato He](https://images.gobaligo.id/vocus/vocus_9050d7cd284b1b6474c85a728582bf48.jpg)
 
 Yang bikin makin oke, di dalam kamar juga ada meja kerja, cocok buat kamu yang perlu kerja sambil jalan. Selain itu, mereka juga sediain air minum gratis, es teh, dan alat kopi, plus satu set alat bikin cocktail.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fea2bcd678f3f5cff498351b47eb41bd.jpg)
+![【Rekomendasi Hotel Seminyak】Pengalaman Menginap di Potato He](https://images.gobaligo.id/vocus/vocus_fea2bcd678f3f5cff498351b47eb41bd.jpg)
 
 ![房間裡居然有冰桶！](https://images.gobaligo.id/vocus/vocus_a96796d1f73432da32150eda85492971.jpg)
 
@@ -71,7 +71,7 @@ Di kamar ternyata ada ember es!
 
 Hotelnya juga nyiapin paket kecil 'zero waste' yang isinya sunscreen, alkohol disinfektan, dan lain-lain, dan bisa diisi ulang kapan aja — ramah banget buat lingkungan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_04d14622aa32d95291b796ecaed54b35.jpg)
+![【Rekomendasi Hotel Seminyak】Pengalaman Menginap di Potato He](https://images.gobaligo.id/vocus/vocus_04d14622aa32d95291b796ecaed54b35.jpg)
 
 Seluruh kamar dengan nuansa kayu dan estetika alami bikin kita ngerasa desainnya bener-bener diperhatiin detail. Hotel ini juga punya beberapa restoran dan satu rooftop bar. Di sini kita sempat nikmatin beberapa cocktail dan camilan sambil lihat pemandangan sore, baru balik ke kamar buat dinner.
 
@@ -79,9 +79,9 @@ Besok paginya, sarapan disajikan di luar ruangan, menghadap pantai yang cantik, 
 
 Selain pilihan makanan yang oke, fasilitas hotel juga lengkap, termasuk spa dan pusat kebugaran. Tapi alasan utama nginep di sini ya Potato Head Beach Club. Sebagai tamu hotel, kita bisa kapan aja ke beach club, nikmatin infinity pool, dan pakai area lounge-nya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9bfa3048a2d0683c68a4fce83ed210f3.jpg)
+![【Rekomendasi Hotel Seminyak】Pengalaman Menginap di Potato He](https://images.gobaligo.id/vocus/vocus_9bfa3048a2d0683c68a4fce83ed210f3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_905b2082439f71892d4a0ab1d2232208.jpg)
+![【Rekomendasi Hotel Seminyak】Pengalaman Menginap di Potato He](https://images.gobaligo.id/vocus/vocus_905b2082439f71892d4a0ab1d2232208.jpg)
 
 Kita habiskan momen senja yang nggak terlupakan di sini, lihat matahari tenggelam pelan-pelan, langit berubah warna-warni cantik. Pengalaman nginep kali ini bener-bener menyenangkan, kita puas banget, dan nggak sabar buat balik lagi ke Potato Head Suites & Studios, buat nikmatin pesona uniknya lagi.
 

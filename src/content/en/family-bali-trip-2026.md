@@ -92,7 +92,7 @@ It’s recommended to exchange USD$100 in Taiwan first, then convert it to Indon
 
 For this trip, we were fortunate to meet Betty Pingky through a group recommendation. From pre-trip itinerary planning and hotel suggestions to professional guidance and thoughtful companionship during the journey, she made everything feel safe and warm.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_36d1ca9ccd350f82b4fc77b4c476186e.jpg)
+![※ Private Driver Guide Experience](https://images.gobaligo.id/vocus/vocus_36d1ca9ccd350f82b4fc77b4c476186e.jpg)
 
 Sometimes, she even provided "one-person service with two-person care," as her husband Xiao Wu joined us for two days, filling the trip with laughter.
 
@@ -102,7 +102,7 @@ On one day when the hotel didn’t provide breakfast and we had an early start, 
 
 ## ※ Itinerary Overview
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1ddc462d2d0248effc0fb73f6691b047.png)
+![※ Itinerary Overview](https://images.gobaligo.id/vocus/vocus_1ddc462d2d0248effc0fb73f6691b047.png)
 
 ### **Day 1: Arrival in Bali → Jimbaran Beach Sunset & Seafood Dinner**
 
@@ -112,7 +112,7 @@ On one day when the hotel didn’t provide breakfast and we had an early start, 
 
 Upon arriving in Bali, Betty was already waiting at the airport with a welcoming smile that instantly eased the fatigue from the long flight. We headed to the villa to drop off our luggage and then made our way to **Jimbaran Beach**. Even after 23 years, the sunset at Jimbaran remains as breathtaking as ever, with the aroma of grilled seafood wafting from the neatly lined stalls along the beach. Dinner at **Malafi Cafe Jimbaran** featured fresh seafood accompanied by live music, as we sat together on the sand, feet buried in the fine grains, gazing at the orange-hued sunset over the sea — pure bliss.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e474fcc7e6a5290032324cbaa76ba48.png)
+![Day 1: Arrival in Bali → Jimbaran Beach Sunset & Seafood Din](https://images.gobaligo.id/vocus/vocus_3e474fcc7e6a5290032324cbaa76ba48.png)
 
 For the first two nights, our villa accommodation offered options ranging from one to four bedrooms. For those interested, check out [Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952).
 
@@ -126,7 +126,7 @@ For the first two nights, our villa accommodation offered options ranging from o
 - **Dining**: Lunch at WARUNG LAOTA, dinner at a nearby market
 - **Accommodation**: [Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f24fff8b05526923028a41d85303f88f.jpg)
+![Day 2: Blue Cliff Road → Uluwatu Temple → Relaxing Spa](https://images.gobaligo.id/vocus/vocus_f24fff8b05526923028a41d85303f88f.jpg)
 
 Betty took us along the **Blue Cliff Road**, where the deep blue sea contrasted sharply with the steep cliffs. Along the way, we spotted several couples taking wedding photos, adding a romantic touch to the scenery. Next, we visited **Uluwatu Temple**, marveling at the ancient Hindu architecture and intricate stone carvings. In the afternoon, we indulged in a traditional Balinese massage at **Sakar Jepun Spa**, rejuvenating ourselves for the adventures ahead.
 
@@ -142,7 +142,7 @@ Betty took us along the **Blue Cliff Road**, where the deep blue sea contrasted 
 - **Dining**: Lunch at Joni's Garden Restaurant (Dirty Duck Rice), Dinner at Freddies Resort & Villas
 - **Accommodation**: [Freddies Resort & Villas Ubud by Kanaya Hospitality](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=23125492) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=24141779&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6wcTFJMEkdZGJY9GexSeYhJgNDYw0jrIYPGC02CrvuEOu9XXggxQHz2qRde4Pb2U6BPBETDnwfBp74nL73xOVnMwduhhZwQIzGC_vP8i9kZHr-uIC21fODjsYmU4wHmFfwLTx6nHuUyzMHDsZL7HsYoyuVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DCVM_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBSEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLgswtgvIz8_Mgug1QxMISc0pTISqB9rmlQq0wrI19xMIUHfuC5SjLJxaGXywMTawMXaxMHDmTWJk5jrDvYuW1NAoNdjHUNQzRjdI1vMB6lENK0dDAwMDI1NTIXNcg0dLY1MDQQtfE0sTYwFLXyMzExNDMSOPBgiOznhobWUtBAlGBUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm6GJqZGRaZQNFzPQDYKFtsBIMJB2kGIOCXdRXHmTee2BCafttZg9XYIM7_1nydVWtrQPtPgixv_ecoF9JEw-ibUqQzckPKNXvICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANm0y3ZGAgAA&masterhotelid_tracelogid=100025527-0a935018-494309-2644162&detailFilters=17|1~17~1*31|24141779~31~24141779*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=912&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Fma46mCo)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4a04261efc67f7ef8c6413d589e1ae9c.jpg)
+![Day 3: Safari Park → Countryside Dinner](https://images.gobaligo.id/vocus/vocus_4a04261efc67f7ef8c6413d589e1ae9c.jpg)
 
 **Taman Safari Bali** is a favorite among children, offering close encounters with elephants, tigers, and other animals. You can also take a safari bus into the wild area, experiencing the vastness of an African savanna. Dinner is served at **Freddies Resort & Villas**, where the serene environment and exquisite dishes make for a delightful evening.
 
@@ -156,7 +156,7 @@ Betty took us along the **Blue Cliff Road**, where the deep blue sea contrasted 
 - **Dining**: Lunch included with rafting, Dinner at iiga warung (BBQ Ribs)
 - **Accommodation**: [Freddies Resort & Villas Ubud by Kanaya Hospitality](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=23125492) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=24141779&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6wcTFJMEkdZGJY9GexSeYhJgNDYw0jrIYPGC02CrvuEOu9XXggxQHz2qRde4Pb2U6BPBETDnwfBp74nL73xOVnMwduhhZwQIzGC_vP8i9kZHr-uIC21fODjsYmU4wHmFfwLTx6nHuUyzMHDsZL7HsYoyuVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DCVM_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBSEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLgswtgvIz8_Mgug1QxMISc0pTISqB9rmlQq0wrI19xMIUHfuC5SjLJxaGXywMTawMXaxMHDmTWJk5jrDvYuW1NAoNdjHUNQzRjdI1vMB6lENK0dDAwMDI1NTIXNcg0dLY1MDQQtfE0sTYwFLXyMzExNDMSOPBgiOznhobWUtBAlGBUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm6GJqZGRaZQNFzPQDYKFtsBIMJB2kGIOCXdRXHmTee2BCafttZg9XYIM7_1nydVWtrQPtPgixv_ecoF9JEw-ibUqQzckPKNXvICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANm0y3ZGAgAA&masterhotelid_tracelogid=100025527-0a935018-494309-2644162&detailFilters=17|1~17~1*31|24141779~31~24141779*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=912&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Fma46mCo)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9896437fb78834627a8728b3cc73f5b5.jpg)
+![Day 4: Ubud Rafting → Art Village → Rice Terrace Swing → BBQ](https://images.gobaligo.id/vocus/vocus_9896437fb78834627a8728b3cc73f5b5.jpg)
 
 Start the morning with **Ayung River Rafting**, where the lush tropical rainforest scenery and gentle currents make it perfect for family fun—you can even jump in for a swim! Next, visit **Penglipuran Village**, a traditional Balinese art village rich in cultural heritage. The jungle swing at **Tegallalang Rice Terrace** is a must-visit spot for Instagram-worthy photos. Our family couldn't resist taking a turn, soaring high above the emerald-green rice terraces—thrilling and breathtaking. Dinner at **iiga warung** features delicious BBQ ribs with a sweet and savory sauce that we still reminisce about.
 
@@ -172,7 +172,7 @@ Start the morning with **Ayung River Rafting**, where the lush tropical rainfore
 
 ### **Day 5: Seminyak Shopping → Beachwalk Mall → Final Spa**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c6935750f850b8396f64672ffab4392f.jpg)
+![Day 5: Seminyak Shopping → Beachwalk Mall → Final Spa](https://images.gobaligo.id/vocus/vocus_c6935750f850b8396f64672ffab4392f.jpg)
 
 - **Attractions**: Bali Handara Cafe, Seminyak Street, Beachwalk Shopping Center, SPA
 - **Dining**: Lunch at Secret Garden Restaurant, Dinner at Beachwalk Shopping Center
@@ -194,7 +194,7 @@ The last day is reserved for a relaxed shopping spree. **Seminyak Street** and *
 
 Start your morning with a walk along **Kuta Beach**, soaking up Bali's final sea breeze and sunshine. Then head to **Mal Bali Galeria** for some last-minute shopping. After lunch, Betty kindly escorted us to the airport, staying with us until the departure hall for a heartfelt farewell.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_409ecb0e626c9e5a6ade93ac2775018f.jpg)
+![Day 6: Stroll Along Kuta Beach → Airport Transfer](https://images.gobaligo.id/vocus/vocus_409ecb0e626c9e5a6ade93ac2775018f.jpg)
 
 ***
 

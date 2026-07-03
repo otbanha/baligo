@@ -20,7 +20,7 @@ _srcHash: 154f774b55110e6875f694fc5bc0f1c9
 
 作為印尼17,000個島嶼中最璀璨嘅明珠，峇里島唔單止有絕靚海景，仲隱藏住令人驚艷嘅美食宇宙。呢度嘅料理大膽運用薑黃、香茅、辣椒等幾十種香料，搭配獨特嘅慢烤工法，創造出層次豐富嘅南洋滋味。跟住呢份美食地圖，開始你嘅味覺冒險啦！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc5e43f9b9126b6589178e4ba6533000.png)
+![峇里島必試10大印尼美食指南：由髒鴨飯到燒乳豬，舌尖上嘅南洋風味](https://images.gobaligo.id/vocus/vocus_cc5e43f9b9126b6589178e4ba6533000.png)
 
 ---
 
@@ -39,13 +39,13 @@ _srcHash: 154f774b55110e6875f694fc5bc0f1c9
 
 ### 1. **Nasi Campur（綜合飯）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ba61bd1cca025325f216cead628b0be6.jpg)
+![1. Nasi Campur（綜合飯）](https://images.gobaligo.id/vocus/vocus_ba61bd1cca025325f216cead628b0be6.jpg)
 
 峇里島嘅「自助餐」概念！自選白/紅/黃米飯，配搭幾十款小菜：辣炒蛋、咖哩魚頭、甜醬燉雞、炸天貝（Tempeh）等，每間Warung（小食檔）都有獨門組合。**必配 Sambal 辣椒醬**，敢食辣記得挑戰「Sambal Matah」生辣椒醬！
 
 ### 2. **Babi Guling（燒乳豬）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8c8b1c1ab0f2a6f07b153fbf717d6fa1.jpg)
+![2. Babi Guling（燒乳豬）](https://images.gobaligo.id/vocus/vocus_8c8b1c1ab0f2a6f07b153fbf717d6fa1.jpg)
 
 峇里島限定！（印尼多數地區伊斯蘭教禁豬肉）小乳豬填入香料慢燒，脆皮好似玻璃咁晶亮，內臟會做成血腸（Urutan）。推薦去專賣店品嚐。
 
@@ -53,7 +53,7 @@ _srcHash: 154f774b55110e6875f694fc5bc0f1c9
 
 ### 3. **Bebek Betutu（香料燜鴨）—— 峇里島嘅24小時慢火儀式**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_424d54a38db06d3ba8596b74b05187fa.png)
+![3. Bebek Betutu（香料燜鴨）—— 峇里島嘅24小時慢火儀式](https://images.gobaligo.id/vocus/vocus_424d54a38db06d3ba8596b74b05187fa.png)
 
 喺峇里島美食殿堂裡，**Bebek Betutu**絕對係「功夫菜」嘅代名詞！呢道需要耗時成日製作嘅傳統料理，堪稱印尼版嘅「叫化鴨」，但風味層次卻複雜十倍——
 
@@ -114,7 +114,7 @@ _srcHash: 154f774b55110e6875f694fc5bc0f1c9
 
 ### 5. **Iga Babi Panggang（蜜汁烤豬肋排）—— 峇里島嘅罪惡快樂**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4ee77298a14e6cba766ff1f7336a0f17.jpg)
+![5. Iga Babi Panggang（蜜汁烤豬肋排）—— 峇里島嘅罪惡快樂](https://images.gobaligo.id/vocus/vocus_4ee77298a14e6cba766ff1f7336a0f17.jpg)
 
 如果你覺得烤乳豬（Babi Guling）太傳統，**Iga Babi Panggang** （英文 pork ribs）就係峇里島版嘅「美式BBQ肋排」——但更甜、更香、更多層次！
 
@@ -133,7 +133,7 @@ _srcHash: 154f774b55110e6875f694fc5bc0f1c9
 
 ### 6. **Nasi Goreng 峇里島「國民炒飯」**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1285e1be061d17bb96ecb35f176c3aec.jpg)
+![6. Nasi Goreng 峇里島「國民炒飯」](https://images.gobaligo.id/vocus/vocus_1285e1be061d17bb96ecb35f176c3aec.jpg)
 
 點可以忘記印尼嘅靈魂料理——**Nasi Goreng（印尼炒飯）**！呢個唔係普通嘅炒飯，而係用 **甜醬油（Kecap Manis）** 同 **參巴醬（Sambal）** 爆炒嘅「暗黑系」美味，鑊氣直逼澳門鑊仔飯！
 
@@ -154,7 +154,7 @@ _srcHash: 154f774b55110e6875f694fc5bc0f1c9
 
 ### **7.Mie Goreng（印尼炒麵）—— 平民宵夜之王**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f312682b08f56f3ab8dd0284244c584e.jpg)
+![7.Mie Goreng（印尼炒麵）—— 平民宵夜之王](https://images.gobaligo.id/vocus/vocus_f312682b08f56f3ab8dd0284244c584e.jpg)
 
 如果話Nasi Goreng係印尼炒飯嘅代表，咁**Mie Goreng**就係佢嘅「麵條版兄弟」，同樣係峇里島人日常最愛嘅街頭美食！
 
@@ -175,7 +175,7 @@ _srcHash: 154f774b55110e6875f694fc5bc0f1c9
 
 ### 8. **Bebek Bengil（髒鴨餐）—— 峇里島最傳奇嘅田園盛宴**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6c3ebab1d089d9493682b46c684d8502.jpg)
+![8. Bebek Bengil（髒鴨餐）—— 峇里島最傳奇嘅田園盛宴](https://images.gobaligo.id/vocus/vocus_6c3ebab1d089d9493682b46c684d8502.jpg)
 
 喺烏布翠綠嘅梯田環抱中，藏住一道令無數食客魂牽夢縈嘅傳奇料理——**Bebek Bengil**（英文 Dirty Duck，直譯"骯髒嘅鴨子"）。呢道被CNN評為「峇里島必食」嘅經典，絕唔只係名堂噱頭，而係一場美味嘅儀式！
 
@@ -207,7 +207,7 @@ _srcHash: 154f774b55110e6875f694fc5bc0f1c9
 
 ### **9.Sop Buntut（印尼牛尾湯）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4627aa4329d41d2364576f0df857fb02.jpg)
+![9.Sop Buntut（印尼牛尾湯）](https://images.gobaligo.id/vocus/vocus_4627aa4329d41d2364576f0df857fb02.jpg)
 
 當峇里島嘅熱帶暴雨突然殺到，或者你俾辛辣料理刺激到需要緩和嘅時候，一碗冒住蒸氣嘅**Sop Buntut**就係上天賜予嘅救贖！呢道源自爪哇宮廷嘅濃郁湯品，完美融合咗「炭烤香、香料魂、膠質甜」，連骨頭都可以吸出骨髓精華～
 
@@ -227,11 +227,11 @@ _srcHash: 154f774b55110e6875f694fc5bc0f1c9
 
 牛尾湯據信係從爪哇島傳至峇里島嘅，但係兩者嘅口味有啲唔同：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_820beff0195c26060788b20dd33dbebb.png)
+![9.Sop Buntut（印尼牛尾湯）](https://images.gobaligo.id/vocus/vocus_820beff0195c26060788b20dd33dbebb.png)
 
 ### **10.Bubur Injin（黑米布丁）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac3ba68004d65e62711e83be4a0b29f9.jpg)
+![10.Bubur Injin（黑米布丁）](https://images.gobaligo.id/vocus/vocus_ac3ba68004d65e62711e83be4a0b29f9.jpg)
 
 喺食完辛辣重口味嘅峇里島料理之後，一碗泛住珍珠光澤嘅**Bubur Injin**，絕對係甜點控同養生派唔可以錯過嘅完美句點！呢道用古老「紫稈稻」製作嘅甜品，唔只係糖水，更加係峇里島人傳承千年嘅「滋補聖品」～
 

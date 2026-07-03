@@ -15,9 +15,9 @@ lang: id
 _srcHash: 102cc6386fbdfa9d7808664e621a3992
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_703008611ebd42c8436934b38f0c4796.jpg)
+![Rekomendasi Utama Liburan Keluarga di Bali: Pantai Bermain A](https://images.gobaligo.id/vocus/vocus_703008611ebd42c8436934b38f0c4796.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f356d2504f0b3db23b5d182776a6431.jpg)
+![Rekomendasi Utama Liburan Keluarga di Bali: Pantai Bermain A](https://images.gobaligo.id/vocus/vocus_2f356d2504f0b3db23b5d182776a6431.jpg)
 
 Bali sebagai salah satu pulau liburan paling populer di Asia Tenggara punya banyak pantai dengan karakter berbeda. Tapi Sanur itu beda sendiri — jauh dari keramaian, air lautnya tenang, dan punya suasana komunitas yang memadukan tradisi dan modern. **Ini surga liburan yang beneran dirancang buat keluarga.**
 
@@ -39,7 +39,7 @@ Meski musim ramai, area lautnya nggak padat. Airnya jernih, bisa lihat ikan keci
 
 ## **2. Jalur Tepi Pantai Super Panjang, Cocok Buat Jalan-Jalan Bawa Stroller**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f0769a0abf8ac8bba5dcab050cd2d8fe.jpg)
+![2. Jalur Tepi Pantai Super Panjang, Cocok Buat Jalan-Jalan B](https://images.gobaligo.id/vocus/vocus_f0769a0abf8ac8bba5dcab050cd2d8fe.jpg)
 
 Jalur tepi pantai Sanur adalah yang paling bagus di seluruh Bali. Panjangnya hampir 5 km, menghubungkan banyak pantai dan resor. Jalurnya rata semua, cocok banget buat:
 
@@ -60,11 +60,11 @@ Yang bikin Sanur nyaman banget adalah komunitasnya yang peduli sama fasilitas ra
 - Restoran keluarga & pilihan makanan sehat
 - Taman bermain kecil buat anak-anak biar bisa ganti suasana dan habisin energi
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7ecb3439b0c9960145a6ba676da32a81.jpg)
+![3. Fasilitas Keluarga Lengkap: Toilet, Taman Bermain, Restor](https://images.gobaligo.id/vocus/vocus_7ecb3439b0c9960145a6ba676da32a81.jpg)
 
 Selain itu, di banyak titik pantai ada papan peringatan dan bendera merah sebagai petunjuk — orang tua bisa tenang pilih tempat bermain air yang aman.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_040dcf7983bdd82007caaf3d5f3e5e15.jpg)
+![3. Fasilitas Keluarga Lengkap: Toilet, Taman Bermain, Restor](https://images.gobaligo.id/vocus/vocus_040dcf7983bdd82007caaf3d5f3e5e15.jpg)
 
 ***
 
@@ -76,7 +76,7 @@ Sanur bukan cuma pantai, tapi juga **desa seni dan budaya** yang hidup. Kalau tr
 - **Museum Le Mayeur**: kenalin seni lukis Bali dan sejarah lokal
 - **Upacara Dewa Laut & Tari Barong** setiap hari: pagi dan sore sering ada ritual sembahyang ke dewa laut — anak bisa lihat budaya yang beda banget
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_80ff2b2d757c2db1a5833027236a9ba5.jpg)
+![4. Pasar Tradisional & Desa Budaya yang Kaya Seni](https://images.gobaligo.id/vocus/vocus_80ff2b2d757c2db1a5833027236a9ba5.jpg)
 
 Ini bukan cuma tempat wisata, tapi juga kesempatan edukasi buat anak memahami budaya yang berbeda.
 
@@ -86,7 +86,7 @@ Ini bukan cuma tempat wisata, tapi juga kesempatan edukasi buat anak memahami bu
 
 Komunitas Sanur terkenal dengan suasananya yang damai dan tenang. Dibandingkan dengan kawasan wisata lainnya yang ramai, hampir tidak ada bar yang bising atau aktivitas komersial yang berlebihan di sini.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_080d296fb2d7efae7eec21f143f2e67a.jpg)
+![5. Lingkungan Aman & Suasana Komunitas yang Ramah](https://images.gobaligo.id/vocus/vocus_080d296fb2d7efae7eec21f143f2e67a.jpg)
 
 Selain itu, kawasan Sanur juga dilengkapi dengan:
 
@@ -100,17 +100,17 @@ Baik siang maupun malam, Sanur adalah salah satu dari sedikit tempat yang cocok 
 
 ## **6. Surga Matahari Terbit: Sinar Mentari dari Cakrawala Laut**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b1bace36b3e10319328a19a32787a92.jpg)
+![6. Surga Matahari Terbit: Sinar Mentari dari Cakrawala Laut](https://images.gobaligo.id/vocus/vocus_3b1bace36b3e10319328a19a32787a92.jpg)
 
 Berbeda dengan kebanyakan pantai di Bali yang menawarkan pemandangan matahari terbenam, Sanur adalah tempat yang sempurna untuk menikmati **matahari terbit**. Setiap pagi, banyak penggemar fotografi dan yoga berkumpul di pantai untuk menyambut matahari yang perlahan muncul dari permukaan laut.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4989790b918f9c30c76d757469419082.jpg)
+![6. Surga Matahari Terbit: Sinar Mentari dari Cakrawala Laut](https://images.gobaligo.id/vocus/vocus_4989790b918f9c30c76d757469419082.jpg)
 
 Ini adalah momen lembut yang bisa kamu bagikan dengan anak-anak, sekaligus pengalaman meditasi dan napas bersama yang langka untuk seluruh keluarga.
 
 ## 7. Taman Bermain Indoor Besar
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_993f8e3198ccd7c0661ccff47a5f03f0.jpg)
+![7. Taman Bermain Indoor Besar](https://images.gobaligo.id/vocus/vocus_993f8e3198ccd7c0661ccff47a5f03f0.jpg)
 
 Di Sanur juga ada beberapa taman bermain indoor ber-AC yang super besar, lho! Kalau cuaca terlalu panas atau hujan, tempat ini pasti jadi pilihan yang tepat. Cek panduan lengkapnya di [Panduan Sanur](https://s.id/sanurguide)
 
@@ -118,7 +118,7 @@ Di Sanur juga ada beberapa taman bermain indoor ber-AC yang super besar, lho! Ka
 
 ## Lebih Banyak Info Seru di Sanur
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
+![Lebih Banyak Info Seru di Sanur](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
 Sanur adalah sebuah kota kecil di pesisir Bali yang penuh ketenangan, terkenal dengan pantainya yang tenang, suasana santai, dan pemandangan matahari terbit yang spektakuler. Di sini ada resor ramah keluarga, pasar tradisional, dan beragam kuliner lokal yang kaya—tempat ideal buat menikmati slow living sambil eksplorasi budaya. Mau jalan-jalan di sepanjang garis pantai atau merasakan vibe lokal, Sanur bakal kasih kamu liburan yang super rileks! Mau tahu lebih banyak tips Sanur? [Klik di sini](/blog/sanur-guide/).
 
@@ -158,6 +158,6 @@ Di lapak penyewaan pantai lokal, kamu bisa sewa floating board, kano, SUP paddle
 
 Kami udah kumpulin 20+ rekomendasi penginapan di Sanur, dari hotel bintang 5 tepi pantai sampai pilihan budget yang cocok buat tinggal lama. Cek di sini ya [sini](</blog/sanur-luxury-budget-resorts/>)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a30e6d3bb9254b52e79802119cfaaaf2.jpg)
+![Ada rekomendasi penginapan di Sanur?](https://images.gobaligo.id/vocus/vocus_a30e6d3bb9254b52e79802119cfaaaf2.jpg)
 
 {{block:住宿}}

@@ -21,7 +21,7 @@ _srcHash: 982cf84d358bdbe2150bdf0c134be6e1
 
 呢篇係記錄我哋一家四口喺峇里島同科摩多島嘅精彩旅程。我哋喺峇里島留咗三日，之後去科摩多島玩咗兩日，總共玩咗五日，仲參加咗個科摩多兩日一夜船宿行程。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2d9f08d24d85d4d49023c4b8db0a7e5f.jpg)
+![峇里島3日＋科摩多島2日1夜船宿：唔可以錯過嘅旅遊精華](https://images.gobaligo.id/vocus/vocus_2d9f08d24d85d4d49023c4b8db0a7e5f.jpg)
 
 ## 峇里島嘅美好體驗
 
@@ -89,7 +89,7 @@ _srcHash: 982cf84d358bdbe2150bdf0c134be6e1
 
 你覺得Tyty Chow佢哋嘅行程好精彩咩？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家去社團投稿你嘅行程㗎！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f3c9335329415b15de58f37454557bb.jpg)
+![「峇里島+科摩多島」嘅套裝行程](https://images.gobaligo.id/vocus/vocus_4f3c9335329415b15de58f37454557bb.jpg)
 
 撳呢度睇更多峇里島精彩遊記
 

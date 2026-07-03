@@ -23,7 +23,7 @@ _srcHash: 239273b90c081cb6162ee1b4842ec7b6
 
 其次，峇里島嘅天氣問題並唔係旅行嘅重點。峇里島係一個充滿住美麗風景同豐富文化嘅地方，無論天氣點樣，你都可以搵到好多有趣嘅嘢嚟做。冇必要放太多精力喺天氣預測上，反而應該更加專注於探索呢個美麗嘅地方，體驗當地嘅文化同美食。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_26c4410d90cfbacef24b366044b27875.png)
+![點解唔好再問峇里島嘅天氣？落雨又點？](https://images.gobaligo.id/vocus/vocus_26c4410d90cfbacef24b366044b27875.png)
 
 > 延伸閱讀：[峇里島碰到落雨天點算？峇里島落雨天嘅60個備案攻略](/blog/2026-bali-indoor-activities/)
 
@@ -33,7 +33,7 @@ _srcHash: 239273b90c081cb6162ee1b4842ec7b6
 
 最後，天氣總係會有不可預測嘅因素。即使天氣預報顯示係個晴天，亦都可能突然間落起雨嚟。呢種情況下，如果你對天氣有住固定嘅期待，可能會令你嘅行程受到干擾，甚至感到失望。相反，如果你能夠接受天氣變化，並隨遇而安咁享受每一刻，你嘅旅行將會更加愉快同豐富。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7c700014e74e4a3c01835cdc77c9b23e.png)
+![點解唔好再問峇里島嘅天氣？落雨又點？](https://images.gobaligo.id/vocus/vocus_7c700014e74e4a3c01835cdc77c9b23e.png)
 
 {{block:戶外}}
 

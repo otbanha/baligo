@@ -20,7 +20,7 @@ lang: en
 _srcHash: 495891613c800eb74c82c40fde964a7f
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a59ccd132da7a87eaa0ea98af1f573a0.png)
+![Traveling to Bali with Baby: Precautions for Carrying Pork a](https://images.gobaligo.id/vocus/vocus_a59ccd132da7a87eaa0ea98af1f573a0.png)
 
 ## **1. Indonesia Customs Regulations on Meat Products**
 
@@ -92,7 +92,7 @@ If you're concerned about your baby adapting to local foods, you can bring the f
 2. **Airline Policies**: Some airlines have specific policies regarding baby food. Please check with your airline about what items and quantities are allowed.
 3. **Utilize Online Shopping Services**: If you're worried about finding suitable complementary foods locally, you can also use Indonesian e-commerce platforms like **Tokopedia** or **Shopee Indonesia** to purchase items in advance and have them delivered to your hotel.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8872bc854565fd2d359000082644bfa4.png)
+![IV. Additional Tips](https://images.gobaligo.id/vocus/vocus_8872bc854565fd2d359000082644bfa4.png)
 
 ***
 

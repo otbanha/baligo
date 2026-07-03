@@ -22,7 +22,7 @@ _srcHash: 9286a7dd96a5b3771ec731165a1d2d9d
 
 ## 巴厘岛跃升世界前3！《Travel + Leisure》2025最佳岛屿排行揭晓
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd614936412bc49943234a0f0b484811.jpg)
+![巴厘岛跃升世界前3！《Travel + Leisure》2025最佳岛屿排行揭晓](https://images.gobaligo.id/vocus/vocus_fd614936412bc49943234a0f0b484811.jpg)
 
 在权威旅游杂志[《Travel + Leisure》2025年「全球最佳岛屿」（World's Best Islands）](https://www.travelandleisure.com/worlds-best-awards-2025-islands-world-11749514)票选中，巴厘岛荣登第3名，再次展现其在国际旅游舞台的巨大吸引力。这是巴厘岛连续第十一年跻身榜单，并在数十万位读者票选中脱颖而出，显示出它的文化魅力与自然之美仍深深打动着世界各地的旅人。
 
@@ -32,7 +32,7 @@ _srcHash: 9286a7dd96a5b3771ec731165a1d2d9d
 
 巴厘岛不仅是印尼最受欢迎的旅游地之一，更是一座集自然风光与灵性文化于一身的神圣之岛。从拥有超过10,000座寺庙的宗教传统，到被联合国教科文组织认可的梯田与火山景观，每一处都蕴含着独特的故事与能量。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8eeac6deb511c17075b54478c049814f.jpg)
+![巴厘岛为何能吸引全球旅人？](https://images.gobaligo.id/vocus/vocus_8eeac6deb511c17075b54478c049814f.jpg)
 
 无论你想要入住世界级的奢华度假村，还是选择当地风情的平价旅店，巴厘岛通通满足你。许多住宿提供高品质服务与令人惊艳的景观，价格却远比其他国际热门地点亲民，**性价比爆表**，成为预算控与高端旅人共同推荐的首选地。
 
@@ -47,19 +47,19 @@ _srcHash: 9286a7dd96a5b3771ec731165a1d2d9d
 
 ### 乌布
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
+![乌布](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
 乌布（Ubud）是巴厘岛的文化与艺术中心，以绿意盎然的梯田、静谧的丛林以及深厚的传统文化吸引着无数旅人。这里是放松身心的理想之地。无论是探索当地传统、享受自然美景、还是各种有趣刺激的户外活动美食+美景的独特体验，乌布都能带给您独特的感动！想了解更多乌布攻略？[请点击这里](/blog/ubud-guide/)
 
 ### 库塔
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
+![库塔](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
 
 库塔（Kuta）是巴厘岛上最具活力的旅游热点，以其热闹的夜生活、繁华的街道以及适合冲浪的新手海滩吸引着世界各地的旅人。这里聚集了琳琅满目的商店、餐厅和娱乐场所，是寻求刺激与购物的绝佳去处。无论是体验热情的派对氛围还是享受日落美景，库塔都能让您的假期充满精彩回忆！想了解更多库塔攻略？[请点击这里](/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 ### 水明漾
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_366287b60b610bfff45aea753d91ba55.jpg)
+![水明漾](https://images.gobaligo.id/vocus/vocus_366287b60b610bfff45aea753d91ba55.jpg)
 
 水明漾是巴厘岛上结合时尚与传统的迷人地区，拥有顶级餐厅、精品店与活力四射的夜生活，是度假者的天堂！想知道更多精彩景点、美食、SPA、海滩俱乐部介绍的信息？
 
@@ -67,7 +67,7 @@ _srcHash: 9286a7dd96a5b3771ec731165a1d2d9d
 
 ### 坎古
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b47b6501ceec6425040cb1bda360b29.jpg)
+![坎古](https://images.gobaligo.id/vocus/vocus_3b47b6501ceec6425040cb1bda360b29.jpg)
 
 坎古（Canggu）是巴厘岛上结合悠闲氛围与时尚潮流的热点，不仅拥有迷人的海滩，还聚集了许多特色咖啡厅、创意餐厅与精品小店，深受冲浪爱好者与年轻旅行者喜爱。无论是追求自然风光还是探索当地文化，坎古都能满足您的期待！
 
@@ -75,19 +75,19 @@ _srcHash: 9286a7dd96a5b3771ec731165a1d2d9d
 
 ### 乌鲁瓦图吃喝玩乐介绍
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
+![乌鲁瓦图吃喝玩乐介绍](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
 乌鲁瓦图是巴厘岛南部最受欢迎的地区之一，以壮丽的悬崖景观、迷人的海滩和绝佳的冲浪点闻名。这里充满热带度假的浪漫氛围，是享受日落美景与放松时光的完美选择。如果你也想住在乌鲁瓦图，可以参考下列我们精心整理的吃喝玩乐介绍，让你的旅程更加丰富有趣：[【乌鲁瓦图攻略】乌鲁瓦图景点 吃喝玩乐推荐](/blog/uluwatu-guide/)
 
 ### 努沙杜瓦
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b44c89e53b6c550aa22f958f7e8008f5.png)
+![努沙杜瓦](https://images.gobaligo.id/vocus/vocus_b44c89e53b6c550aa22f958f7e8008f5.png)
 
 努沙杜瓦（Nusa Dua）是巴厘岛以豪华度假村闻名的地区，拥有洁白的沙滩、碧蓝的海水以及完善的旅游设施，是追求高端享受与宁静假期的首选。这里还提供顶级水疗、水上活动、以及适合全家大小的休闲活动，是各类旅客的天堂。想了解更多努沙杜瓦攻略？请点[这里](/blog/nusa-dua-guide/)
 
 ### 沙努尔
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
+![沙努尔](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
 沙努尔（Sanur）是巴厘岛上一个充满宁静气息的海滨小镇，以平静的沙滩、悠闲的氛围和壮丽的日出景色著称。这里拥有适合家庭的度假村、传统市场以及丰富的当地美食，是享受慢生活与探索文化的理想之地。无论是漫步海岸线还是感受当地风情，沙努尔都能带给您无比放松的假期体验！想了解更多沙努尔攻略？[请点击这里](/blog/sanur-guide/)。
 
@@ -108,7 +108,7 @@ _srcHash: 9286a7dd96a5b3771ec731165a1d2d9d
 - **日常仪式与祭祀活动贯穿生活每个角落**
 - **当地人对自然与神灵的敬畏**，塑造了独特的生活哲学
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2664ad6d94007006dec606128661dd90.jpg)
+![巴厘岛文化特色](https://images.gobaligo.id/vocus/vocus_2664ad6d94007006dec606128661dd90.jpg)
 
 这一切融合成巴厘岛特有的「和谐之道」（Tri Hita Karana），将神、人与自然完美结合。
 
@@ -373,7 +373,7 @@ _srcHash: 9286a7dd96a5b3771ec731165a1d2d9d
 
 ## 结语：现在就把巴厘岛加入你的旅行清单吧！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ff6bfd6f62e7305aee6046d2b4eafb4.png)
+![结语：现在就把巴厘岛加入你的旅行清单吧！](https://images.gobaligo.id/vocus/vocus_6ff6bfd6f62e7305aee6046d2b4eafb4.png)
 
 巴厘岛不只是热带天堂！无论你是向往与大自然共舞的探险者、喜欢在寺庙与稻田中静心的文化旅人，还是渴望享受海滩与奢华住宿的度假迷，**巴厘岛都能为你带来一场身心灵全面满足的旅程**。
 
@@ -383,7 +383,7 @@ _srcHash: 9286a7dd96a5b3771ec731165a1d2d9d
 
 ## 📩 **「巴厘岛旅游攻略」首页说明
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
+![「巴厘岛旅游攻略」首页说明](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 
 **通过免费订阅，你将获得：**
 

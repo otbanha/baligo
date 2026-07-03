@@ -21,7 +21,7 @@ lang: en
 _srcHash: 5fe98de24e8dbead53681c70bfd8d0aa
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f99e6c8463ebffb2d3f909bbd209ef22.jpg)
+![【Canggu/Nuanu New Landmark】 Bali's Most Stunning Art Icon: T](https://images.gobaligo.id/vocus/vocus_f99e6c8463ebffb2d3f909bbd209ef22.jpg)
 
 At the entrance of Nuanu Creative City in Tabanan, Bali, stand two breathtaking giant sculptures — **The Earth Sentinels**. This is one of the representative works by South African artist Daniel Popper, combining nature, mythology, and light projection technology, becoming one of Bali's most iconic art landmarks.
 
@@ -50,7 +50,7 @@ As night falls, *The Earth Sentinels* come alive through the light projection te
 
 As a travel blogger passionate about Balinese culture, 'The Earth Sentinels' is not just an art piece, but a bridge connecting us with nature. Standing before these two monumental sculptures, one feels not only visual awe but also reverence for nature and life. Whether it's the magnificent daytime scenery or the changing light and shadow at night, 'The Earth Sentinels' is worth experiencing firsthand.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_936139a7a7beb6eea4320eb4498aa1d2.jpg)
+![Blogger's Perspective: A Must-Visit Art Landmark](https://images.gobaligo.id/vocus/vocus_936139a7a7beb6eea4320eb4498aa1d2.jpg)
 
 ---
 
@@ -62,7 +62,7 @@ During your Bali trip, beyond the sun and beaches, consider visiting Nuanu Creat
 
 ## More Attractions in Nuanu Creative City
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d1b9756c666257aa52804cadea6bbadb.jpg)
+![More Attractions in Nuanu Creative City](https://images.gobaligo.id/vocus/vocus_d1b9756c666257aa52804cadea6bbadb.jpg)
 
 Nuanu Creative City is Bali's latest emerging creative hub, promoting zero carbon emissions and becoming the island's newest sustainable tourism landmark. It's already attracting global creatives as the next must-visit hotspot!
 

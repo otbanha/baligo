@@ -19,7 +19,7 @@ lang: id
 _srcHash: fe53cedde55a5fea14acec548ac86ddc
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f0c03f764badb198fc2e90c575d202a6.jpg)
+![Ubud Sound Healing / Singing Bowl Meditation](https://images.gobaligo.id/vocus/vocus_f0c03f764badb198fc2e90c575d202a6.jpg)
 
 Ubud adalah tempat yang sempurna buat kamu yang lagi nyari penyembuhan jiwa dan raga. Penyembuhan dengan gong (singing bowl meditation) di 'Pulau Dewata' ini udah jadi pengalaman wellness yang hits banget, menggabungkan terapi suara kuno dengan vibe spiritual khas Bali. Saat gong tembaga dipukul atau digesek pelan, suara resonansi yang dalam dan harmonis bakal keluar. Gelombang suara ini bisa menembus tubuh, bantu lepaskan stres, seimbangkan chakra, dan bawa kamu ke kondisi meditasi yang dalam. Ngalami terapi gong di hutan tropis Bali, di pinggir sawah, atau di tepi sungai, bikin kamu makin nyambung sama energi alam, dan dapet relaksasi total buat tubuh, pikiran, dan jiwa.
 
@@ -54,7 +54,7 @@ Ini dia kenapa bahasa bukan halangan, plus beberapa kata kunci yang perlu kamu t
 
 Sebelum atau sesudah sesi, instruktur mungkin ngomong gini:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a6052ec2cda08abdf74e460afd4e53a8.png)
+![2. Ini dia kata kunci yang perlu kamu pahami (instruksi)](https://images.gobaligo.id/vocus/vocus_a6052ec2cda08abdf74e460afd4e53a8.png)
 
 ### 3. Catatan & Tips Kecil
 
@@ -68,7 +68,7 @@ Sebelum atau sesudah sesi, instruktur mungkin ngomong gini:
 
 ## 💡 Tips Ikut Sound Healing (Edisi 2026)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0637db6806040294fe1d22fd68ddf89f.jpg)
+![Tips Ikut Sound Healing (Edisi 2026)](https://images.gobaligo.id/vocus/vocus_0637db6806040294fe1d22fd68ddf89f.jpg)
 
 - **Saran Pakaian:** Pakai baju yang **nyaman, longgar, dan hangat**. Walaupun Bali panas, pas sound healing tubuh diam aja, dan di dalam ruangan biasanya ada kipas angin. Kalau rebus lama bakal kedinginan (apalagi pas tidur suhu tubuh turun), jangan lupa selimutin pakai selimut yang disediakan.
 - **Keuntungan Low Season:** Pas low season ikut kelas kayak gini, ruangan yang biasanya penuh 30 orang mungkin cuma 10 orang. Ruangan lebih luas, gangguan lebih sedikit, kamu bakal lebih bisa ngerasain getaran gelombang dari singing bowl.

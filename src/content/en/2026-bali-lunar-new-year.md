@@ -30,11 +30,11 @@ Lion dances are a highlight of Bali’s New Year celebrations, with most large s
 
 🏮 2026 Bali Hotel Spring Festival Performance Schedule
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e647a22175ae6ca92b4d7ecae82447d.jpg)
+![2026 Bali Lunar New Year Celebration Guide](https://images.gobaligo.id/vocus/vocus_2e647a22175ae6ca92b4d7ecae82447d.jpg)
 
 💡 Tips for Watching Performances:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_993aa3285ebffeae0ee54016c25350b0.png)
+![2026 Bali Lunar New Year Celebration Guide](https://images.gobaligo.id/vocus/vocus_993aa3285ebffeae0ee54016c25350b0.png)
 
 - **Early Bird Seating**: Lion dance performances often attract large crowds of guests and tourists, especially those held in hotel lobbies. Arrive **15-20 minutes early** to secure a good spot.
 - **Interactive Tradition**: When watching lion dances in Bali, prepare red envelopes (Angpao) to feed the lion. This is seen as a way to support the performers and bring good luck for yourself (suggested amounts: IDR 50,000 or 100,000).
@@ -56,7 +56,7 @@ For a more traditional religious atmosphere, visit the Chinese temples (Klenteng
 
 ## 🍴 Curated New Year Feast (Fortune-Bringing Dishes)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_049126344feb3f43d3f4e43323b1203c.jpg)
+![Curated New Year Feast (Fortune-Bringing Dishes)](https://images.gobaligo.id/vocus/vocus_049126344feb3f43d3f4e43323b1203c.jpg)
 
 **KUTA & LEGIAN**
 

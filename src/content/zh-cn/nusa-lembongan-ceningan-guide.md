@@ -67,7 +67,7 @@ https://youtube.com/shorts/exdiGPLkVjw?si=sbLmSwieLvWyJ2uL
 
 Dream Beach是岛上主要区域之外的人气海滩，也稍显拥挤。早晨的访问会更令人愉快。漫步至岩石区域，你可以找到有趣的拍照点，如岩石结构或小洞穴。此外，这里还有一个悬崖跳水点，但最好询问当地导游，确保跳水的安全性。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774856395255-ee223d94-0ff6-4945-b4f9-1ae8dc763676.jpg)
+![海滩探索](https://images.gobaligo.id/images/2026-03/1774856395255-ee223d94-0ff6-4945-b4f9-1ae8dc763676.jpg)
 
 Dream Beach
 
@@ -93,7 +93,7 @@ https://youtube.com/shorts/yerwXithouw?si=nDV7gK4eyEVeKb16
 
 在Jungut Batu或Mushroom Bay地区的海滩餐厅度过一个悠闲的下午最为舒适。这里有许多价格合理的海边餐厅。由于这里也是到达和离开的主要点，港口就在这两个地方，你可以观察到白天人来人往的景象。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1f56eb2c4193e81b53d33fffa1b1f7c.jpg)
+![悠闲的一天](https://images.gobaligo.id/vocus/vocus_a1f56eb2c4193e81b53d33fffa1b1f7c.jpg)
 
 日落时分，Jungut Batu是观赏日落的好去处。如果你整个下午都待在这里，从繁忙的活动过渡到完全宁静的景象，会是一种简单而纯粹的愉悦体验。
 
@@ -129,7 +129,7 @@ https://youtube.com/shorts/a4mL69nASLY?si=UciZXsalBlU3fOjo
 
 除了潜水与浮潜，蓝梦岛还提供多种水上活动，满足各种爱好者的需求。你可以尝试滑水、立桨冲浪（SUP）、香蕉船，甚至是有着不一样感觉的海底漫步（Seawalker）。此外，也可以参加环岛游船，从不同角度欣赏岛屿的壮丽美景，并享受与水亲密接触的乐趣，感受海洋的魅力。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_09d594070b2f07c9219129b07ab8f49d.png)
+![水上活动与冒险](https://images.gobaligo.id/vocus/vocus_09d594070b2f07c9219129b07ab8f49d.png)
 
 ## 佩尼达岛的壮观景点
 
@@ -139,11 +139,11 @@ https://youtube.com/shorts/a4mL69nASLY?si=UciZXsalBlU3fOjo
 
 ## 岛上美食与夜生活
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d17c2f51c9aeff110410081b920e48f1.png)
+![岛上美食与夜生活](https://images.gobaligo.id/vocus/vocus_d17c2f51c9aeff110410081b920e48f1.png)
 
 蓝梦岛的餐厅和海滩俱乐部提供了多样化的美食选择，从当地的印尼料理到国际风味的菜肴应有尽有。在Jungut Batu和Mushroom Bay，你可以找到许多临海的餐厅和酒吧，享受美食和美景的双重飨宴。夜幕降临后，岛上的夜生活也开始热闹起来，许多酒吧和海滩俱乐部会举行现场音乐表演和派对，让你尽情放松和享受。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4658ef6acc04406ea26445d61ca062df.jpg)
+![岛上美食与夜生活](https://images.gobaligo.id/vocus/vocus_4658ef6acc04406ea26445d61ca062df.jpg)
 
 这里有30家蓝梦岛/金银岛美食餐厅、酒吧、海滩俱乐部推荐哦：[【蓝梦岛攻略二】餐厅美食篇](/blog/nusa-lembongan-restaurants/)
 

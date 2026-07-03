@@ -41,7 +41,7 @@ _srcHash: 7ed2ebb005462493084e271330eacd62
 
 Kalau kamu mau nginep di pusat Seminyak, jalan kaki ke mana-mana, dan pas balik ke hotel ada kolam renang di atap buat lihat sunset, Cross Paasha Bali Seminyak — hotel butik desain bintang empat ini — worth banget dipertimbangkan. Dulu hotel ini namanya U Paasha, sekarang ganti jadi Cross Paasha, lokasinya masih di Jl. Laksmana No. 77, jantung kawasan Kayu Aya. 99 kamar semuanya tipe suite, luas dan penuh gaya, jadi salah satu pilihan dengan value for money yang oke di Seminyak.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231500443-roof1.jpg)
+![Cross Paasha Bali Seminyak｜Review Lengkap Villa Artisanal di](https://images.gobaligo.id/images/2026-04/1776231500443-roof1.jpg)
 
 ***
 
@@ -59,19 +59,19 @@ Suasana Seminyak secara keseluruhan adalah perpaduan belanja butik dan kehidupan
 
 Begitu masuk lobby, kesan pertama nggak seperti resort tradisional Bali — plafon tinggi, dinding bata geometris, furnitur bergaris lengkung, perpaduan gaya industrial dan desain modern yang kelihatan berkelas. Pas check-in dapat minuman sambutan gratis. Area bar lobby agak remang, suasananya keren, dan tamu yang datang memang didominasi anak muda dan pasangan.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231575224-lobi.webp)
+![Fasilitas](https://images.gobaligo.id/images/2026-04/1776231575224-lobi.webp)
 
 Fasilitas paling unggul di hotel ini adalah **kolam renang atap (Rooftop Pool)**. Kolamnya panjang, luas, dikelilingi pohon palem, kursi santai, dan payung matahari. Kalau cuaca cerah di sore hari, kamu bisa lihat pemandangan kota Seminyak bahkan samar-samar lihat laut. Di sampingnya ada pool bar buat pesan cocktail, dan katanya Happy Hour ada promo beli satu gratis satu — jadi pusat sosial di hotel ini.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231634104-roof3.webp)
+![Fasilitas](https://images.gobaligo.id/images/2026-04/1776231634104-roof3.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231634525-roof2.webp)
+![Fasilitas](https://images.gobaligo.id/images/2026-04/1776231634525-roof2.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231635037-roof5.jpg)
+![Fasilitas](https://images.gobaligo.id/images/2026-04/1776231635037-roof5.jpg)
 
 Restoran ALCOVE menyediakan prasmanan sarapan Asia dan Barat, menu berganti setiap hari, ada stasiun telur dadar, pancake, nasi goreng Indonesia, dll.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231683899-canteen1.webp)
+![Fasilitas](https://images.gobaligo.id/images/2026-04/1776231683899-canteen1.webp)
 
 Hotel ini juga punya gym, alatnya cukup standar. Yang unik adalah kebijakan **24-hour check-in**: kamu check-in jam berapa, waktu nginep dihitung 24 jam penuh dari jam itu, check-out jadi super fleksibel, nggak terikat aturan tradisional check-in jam 12/check-out jam 11. Ini sangat membantu buat traveler dengan jadwal penerbangan yang nggak tetap.
 
@@ -81,15 +81,15 @@ Hotel ini juga punya gym, alatnya cukup standar. Yang unik adalah kebijakan **24
 
 99 kamar Cross Paasha semuanya disebut Suite — ini levelnya lebih tinggi dari kamar standar biasa. Luas kamar mulai dari 55 meter persegi, tipe terbesar bisa sampai 110 meter persegi, lumayan lega untuk harga segini.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231736986-86495544.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776231736986-86495544.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231737371-558542199.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776231737371-558542199.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231737832-1c93851cb69bca784431d5ea40507f08.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776231737832-1c93851cb69bca784431d5ea40507f08.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231738211-683edcbff56e61d844944a683b65f028.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776231738211-683edcbff56e61d844944a683b65f028.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231738613-45807d9b3c69fd21a57adfb2190c610a.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776231738613-45807d9b3c69fd21a57adfb2190c610a.webp)
 
 Desainnya industrial ringan plus modern: banyak furnitur kayu terang, lantai beton, cermin heksagonal sebagai detail — overall clean dan rapi, bukan gaya Bali tradisional dengan ukiran kayu ala rumah nenek. Setiap kamar punya balkon pribadi, area duduk sendiri, TV datar, minibar, Wi-Fi gratis, dan AC. Kamar mandi open-plan dengan rain shower.
 

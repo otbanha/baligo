@@ -33,7 +33,7 @@ Update: 2026/05/31
 
 帶屋企人去峇里島，最怕遇到大太陽曬到頭暈，或者下晝突然落一場傾盆大雨打亂晒行程——呢種情況我遇過唔止一次。後來發現咗 **Trans Studio Bali**，成個行程規劃就輕鬆好多。呢座峇里島唯一嘅大型室內主題樂園，就藏喺 Trans Studio Mall 入面，無論出面天氣點，入面玩得開心最緊要。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780232865078-_unnamed.jpeg)
+![【峇里島室內景點】Trans Studio Bali 完全攻略：必玩五大設施、門票優惠與防曬雨天備案行程規劃](https://images.gobaligo.id/images/2026-05/1780232865078-_unnamed.jpeg)
 
 ***
 
@@ -41,7 +41,7 @@ Update: 2026/05/31
 
 簡單嚟講，佢係峇里島目前規模最大嘅**全室內主題樂園**，位於庫塔/水明漾附近嘅 Trans Studio Mall（地址：Jl. Imam Bonjol No.440）。園區分成五大主題區，每一區嘅風格都截然不同，由紐約風嘅動作特技區到充滿峇里文化嘅神殿探險區，玩法多到一日根本行唔晒。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233421375-1-1-trans-studio-bali-by-riskidarmawan_-740x592.webp)
+![咩係 Trans Studio Bali？](https://images.gobaligo.id/images/2026-05/1780233421375-1-1-trans-studio-bali-by-riskidarmawan_-740x592.webp)
 
 最適合帶小朋友、長輩，或者唔想俾日曬雨淋搞砸嘅旅客。對怕熱嘅人嚟講更友善嘅係：呢度完全唔需要擔心熱帶天氣，冷氣吹住，設施盡情玩。
 
@@ -51,7 +51,7 @@ Update: 2026/05/31
 
 ### 1. Boomerang 過山車 — 商場天台嘅極限挑戰
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780232942005-1.webp)
+![1. Boomerang 過山車 — 商場天台嘅極限挑戰](https://images.gobaligo.id/images/2026-05/1780232942005-1.webp)
 
 就算你平時唔玩過山車，呢個設施都值得試吓。佢喺 Trans Studio Mall 嘅頂樓，迴圈式軌道設計令你喺高空中以高速俯衝，嗰種瞬間飛衝出去嘅感覺，真係會令心跳漏一拍。
 
@@ -59,7 +59,7 @@ Update: 2026/05/31
 
 ### 2. 飛越印尼（Flying Over Indonesia）— 空中環遊印尼
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233003802-2.jpeg)
+![2. 飛越印尼（Flying Over Indonesia）— 空中環遊印尼](https://images.gobaligo.id/images/2026-05/1780233003802-2.jpeg)
 
 呢個係成個樂園我覺得最有趣嘅設施之一，亦都係**全印尼唯一**嘅飛行模擬劇院體驗。坐上模擬器，配合 4D 體感技術，加上氣流、薄霧等特效，從空中一路飄過婆羅浮屠、科摩多島、峇里梯田……不知不覺就對印尼其他地方產生興趣。
 
@@ -67,7 +67,7 @@ Update: 2026/05/31
 
 ### 3. Formula Kart 電動卡丁車 — 峇里島最大室內賽道
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233063250-3.webp)
+![3. Formula Kart 電動卡丁車 — 峇里島最大室內賽道](https://images.gobaligo.id/images/2026-05/1780233063250-3.webp)
 
 呢個賽道幾乎佔咗成層樓，係目前峇里島規模最大嘅室內卡丁車場。電動卡丁車操作穩定安全，連細路都可以上場（有身高限制，記得提前確認），玩起嚟真係好過癮。
 
@@ -75,7 +75,7 @@ Update: 2026/05/31
 
 ### 4. ### Forbidden Temple Adventure 禁忌神廟漂漂河 — 家庭同樂最佳選擇
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233135156-4.jpg)
+![4. Forbidden Temple Adventure 禁忌神廟漂漂河 — 家庭同樂最佳選擇](https://images.gobaligo.id/images/2026-05/1780233135156-4.jpg)
 
 呢條漂漂河融入咗峇里神殿嘅探險主題，途中仲有一段短暫駛出戶外嘅區段，可以睇到庫塔/水明漾嘅城市風景。整體刺激度唔算高，但勝在親切好玩，帶長輩或者小朋友特別適合。
 
@@ -83,7 +83,7 @@ Update: 2026/05/31
 
 ### 5. 精彩表演與大遊行 — 請認真安排呢個時段
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233157309-5.webp)
+![5. 精彩表演與大遊行 — 請認真安排呢個時段](https://images.gobaligo.id/images/2026-05/1780233157309-5.webp)
 
 好多人將表演當成走馬看花嘅附帶節目，但 Trans Studio Bali 嘅表演真係唔同，值得**特登空出時段**好好睇。
 
@@ -110,13 +110,13 @@ Update: 2026/05/31
 - **幻覺屋 Frank House**：迷宮加上視覺錯亂，行出嚟會懷疑人生
 - **鐵達尼號區域**：巨型鐵達尼號裝置藝術，入場前必影嘅打卡位
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233233500-titanic.webp)
+![其他值得一探嘅特色設施](https://images.gobaligo.id/images/2026-05/1780233233500-titanic.webp)
 
 - **殭屍與狼人射擊任務（City of the Dead）**：拎雷射槍對抗虛擬怪物，睇下邊個準
 - **Bali Senses 沉浸式數位藝術區**：用峇里文化同科技打造嘅互動數位空間，入場第一站就係呢度
 - **i-Fly 室內跳傘**（另外畀錢）：驚高但想體驗飛翔感？呢個係最安全嘅方式
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233460315-fly.jpg)
+![其他值得一探嘅特色設施](https://images.gobaligo.id/images/2026-05/1780233460315-fly.jpg)
 
 ***
 

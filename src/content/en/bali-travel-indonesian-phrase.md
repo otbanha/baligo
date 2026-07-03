@@ -20,7 +20,7 @@ lang: en
 _srcHash: 64c57f2ec05132c594910d48e40a1697
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1a3b754a96b4f0e921c41865215e967b.png)
+![Essential Indonesian Phrase for Bali Travelers](https://images.gobaligo.id/vocus/vocus_1a3b754a96b4f0e921c41865215e967b.png)
 
 Book and save here:
 
@@ -30,7 +30,7 @@ Book and save here:
 
 For short-term tourists visiting Bali, learning some basic Indonesian phrases is essential as it helps you connect better with locals and avoid awkward situations. Among these phrases, the most important and widely used one is 'Thank you' (Terima kasih).
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1f891a42530fb2762a08646fe2f6600.png)
+![Essential Indonesian Phrase for Bali Travelers](https://images.gobaligo.id/vocus/vocus_a1f891a42530fb2762a08646fe2f6600.png)
 
 During your travels, you may encounter situations where you need to express gratitude, whether it's receiving help from locals, enjoying delicious food, or experiencing friendly service while shopping. Using 'Thank you' in Indonesian not only makes you appear more polite but also allows locals to feel your respect and goodwill.
 

@@ -43,7 +43,7 @@ But honestly, this tour is nothing like the typical Nusa Penida trip you imagine
 
 It's more like a combination of a 'luxury cruise ship + sea club + water park,' rather than the classic itinerary of rushing through sights and chasing the T-Rex cliff at Kelingking Beach all day.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779116295637-paket-kapal-pesiar-nusa-lembongan-day-cruise.jpg)
+![【2026 Bali Great Barrier Reef Cruise】Bounty Cruise Nusa Peni](https://images.gobaligo.id/images/2026-05/1779116295637-paket-kapal-pesiar-nusa-lembongan-day-cruise.jpg)
 
 After doing my own research and gathering plenty of real online reviews, here's a complete rundown:
 
@@ -87,7 +87,7 @@ To put it bluntly, it sells the experience of a 'sea club + floating water park,
 
 **So if you're expecting to take those Instagram-worthy photos at Kelingking, this tour really isn't for you.**
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779116369907-seeingbali-bounty_catamaran_cruise-19.jpg)
+![But Bounty Cruise is completely different](https://images.gobaligo.id/images/2026-05/1779116369907-seeingbali-bounty_catamaran_cruise-19.jpg)
 
 ## What's Actually Included in the Itinerary?
 
@@ -140,7 +140,7 @@ So if you're prone to seasickness, not a strong swimmer, or get nervous easily, 
 
 ## Is it suitable for families? I think it's quite suitable.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779116418270-bounty-cruise-wibit-nusa-penida.webp)
+![Is it suitable for families? I think it's quite suitable.](https://images.gobaligo.id/images/2026-05/1779116418270-bounty-cruise-wibit-nusa-penida.webp)
 
 Compared to other Nusa Penida tours, I find Bounty Cruise **more family-friendly**, for three reasons:
 
@@ -152,7 +152,7 @@ Compared to other Nusa Penida tours, I find Bounty Cruise **more family-friendly
 
 ## But the downsides are also obvious, so think it through first.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779116743335-fcaf7ed9-920c-463a-b2d0-336fbe75c193-1737435892472-3ebd596edf8f61fb7ab49bd4cc2bc9c2.webp)
+![But the downsides are also obvious, so think it through firs](https://images.gobaligo.id/images/2026-05/1779116743335-fcaf7ed9-920c-463a-b2d0-336fbe75c193-1737435892472-3ebd596edf8f61fb7ab49bd4cc2bc9c2.webp)
 
 After all those pros, I have to be honest about the cons too.
 
@@ -211,7 +211,7 @@ But if it's your first time visiting Nusa Penida, I'd strongly recommend you—*
 
 {{block:penidaguide}}
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779116461664-dji_20241120120125_0070_d.jpg.webp)
+![Final Advice: Treat It as a 'Sea Vacation Experience'](https://images.gobaligo.id/images/2026-05/1779116461664-dji_20241120120125_0070_d.jpg.webp)
 
 [Bounty Cruise Klook Discounted Price](https://mn-tz.com/re?campaign_id=137&marker=654252&p=4110&trs=519937&u=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F205637-bali-luxury-and-romantic-evening-dinner-cruise-with-entertainments%2F&product_type=linkswitcher&journey_id=CfEcXJoa7Qb2DkGYBqSLX&trace_id=Zzdcb8b4fbf46a43c0950b9df-654252&promo_kind=tp_other&page_url=https%3A%2F%2Fgobaligo.id%2Fblog%2Fbounty-cruise-nusa-penida%2F&install_type=partner)
 

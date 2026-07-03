@@ -35,7 +35,7 @@ _srcHash: 1136e0fb7d2fe73fd38b807d28d20f68
 ---
 Nusa Dua is a resort area on the southern coast of Bali, renowned for its luxurious beachfront five-star resorts and hotels.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_45506b59e53f3929c79b4d1a511643fb.png)
+![【Nusa Dua Guide】Ultimate Nusa Dua & Tanjung Benoa Travel Map](https://images.gobaligo.id/vocus/vocus_45506b59e53f3929c79b4d1a511643fb.png)
 
 Located on the east coast of southern Bali, Nusa Dua is just a 30-minute drive from the airport via the toll road. With its golden sandy beaches, crystal-clear waters, and lush tropical vegetation, it's the perfect place to soak up the sun, sand, and sea.
 
@@ -63,7 +63,7 @@ Although most restaurants are located within five-star resorts, don't worry—ev
 
 ### Piasan Restaurant (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac29b7de42d95e43872828ca86401ec7.jpg)
+![Piasan Restaurant ( Location Map)](https://images.gobaligo.id/vocus/vocus_ac29b7de42d95e43872828ca86401ec7.jpg)
 
 Tucked away in Kayu Manis Nusa Dua, Piasan Restaurant is a five-star Italian eatery offering delicious Italian cuisine and a unique dining experience. The atmosphere here is enchanting, with a quiet, magical ambiance that captures the true essence of an Italian family meal. The dishes are meticulously prepared and bursting with flavor, each bite unforgettable. Using the finest ingredients blended with tropical touches, the restaurant delivers a distinctive culinary adventure. If you're seeking a top-quality dining spot, Piasan Restaurant is an excellent choice.
 
@@ -73,7 +73,7 @@ Tucked away in Kayu Manis Nusa Dua, Piasan Restaurant is a five-star Italian eat
 
 ### Mulia Resort Dining Experience (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_546854596e721986c3454a1e8f8d769b.png)
+![Mulia Resort Dining Experience ( Location Map)](https://images.gobaligo.id/vocus/vocus_546854596e721986c3454a1e8f8d769b.png)
 
 The Mulia Resort in Nusa Dua, Bali, is part of Indonesia's renowned luxury hotel group, famous for its top-notch service and consistently named one of the world's best resorts by leading travel magazines. The resort houses several upscale restaurants, including The Café, Table8, and Cascade Lounge, where you can indulge in exquisite dining even if you're not a guest. At Mulia Resort, share wonderful moments with your loved ones and experience the allure of Bali's luxury dining.
 
@@ -83,7 +83,7 @@ The Mulia Resort in Nusa Dua, Bali, is part of Indonesia's renowned luxury hotel
 
 ### Dining Experience at The Ritz-Carlton (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a6b96e1124e2c1fb137ad50235c56c0c.jpg)
+![Dining Experience at The Ritz-Carlton ( Location Map)](https://images.gobaligo.id/vocus/vocus_a6b96e1124e2c1fb137ad50235c56c0c.jpg)
 
 This hotel group operates over 100 hotels and resorts across more than 90 countries and regions worldwide. Founded in 1983, it is one of the leading luxury hotel and resort brands globally. The Ritz-Carlton, Bali offers an unparalleled luxurious stay, targeting the top-tier clientele.
 
@@ -95,7 +95,7 @@ The Ritz-Carlton in Nusa Dua presents three unforgettable dining experiences. Fi
 
 ### Samabe Beach Cave Dining Experience (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dfb9f299710048cf4319fec2e021b751.jpg)
+![Samabe Beach Cave Dining Experience ( Location Map)](https://images.gobaligo.id/vocus/vocus_dfb9f299710048cf4319fec2e021b751.jpg)
 
 Samabe Bali Suites & Villas is part of the Indonesia Tourism Development Corporation (ITDC) group, a state-owned enterprise fully owned by the Indonesian government, headquartered in Jakarta. ITDC manages several top-tier resort brands, including Hotel Indonesia Kempinski, The Apurva Kempinski, and Grand Hyatt Bali. Samabe Bali Suites & Villas is one of ITDC's signature luxury private beach resort brands.
 
@@ -107,7 +107,7 @@ Samabe Cave Dining is a unique dining venue within Samabe Bali Suites & Villas, 
 
 ### Dining Experience at Koral Restaurant, The Apurva Kempinski Bali (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9fc04b75fe12f30118b914321d81bf86.jpg)
+![Dining Experience at Koral Restaurant, The Apurva Kempinski ](https://images.gobaligo.id/vocus/vocus_9fc04b75fe12f30118b914321d81bf86.jpg)
 
 The Apurva Kempinski, Bali is a five-star luxury resort located in the Nusa Dua area of Bali. Opened in 2022, it is Kempinski's flagship hotel in Bali.
 
@@ -133,7 +133,7 @@ At the Kempinski, besides the aquarium restaurant, there's also the stunning aft
 
 ### Canna Bali's Cliffside Restaurant
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5b49549c5f7cae80ec976c334737fb40.png)
+![Canna Bali's Cliffside Restaurant](https://images.gobaligo.id/vocus/vocus_5b49549c5f7cae80ec976c334737fb40.png)
 
 Cliff at Canna is dedicated to crafting a romantic and refined dining experience, whether for lunch or afternoon tea, immersing you in a dual delight of exquisite cuisine and breathtaking views. Through expansive floor-to-ceiling windows, the restaurant offers sweeping vistas of Nusa Dua's stunning beaches and azure sea, making every bite a feast accompanied by awe-inspiring natural scenery for an unforgettable sensory journey.
 
@@ -195,7 +195,7 @@ Manarai Beach House is a wonderful spot to enjoy delicious food, beautiful scene
 
 ### Bebek Bengil Dirty Duck Rice (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_03227d5ca04a23150a86bda0c7abaac6.jpg)
+![Bebek Bengil Dirty Duck Rice ( Location Map)](https://images.gobaligo.id/vocus/vocus_03227d5ca04a23150a86bda0c7abaac6.jpg)
 
 Bebek Bengil is a long-established and famous roast duck restaurant in Bali, hailed as the 'best roast duck in Bali.'
 
@@ -215,7 +215,7 @@ The Royal Kitchen Bali is a renowned Indian restaurant on the island, often hail
 
 ### Dining Experience at The St. Regis Bali Resort
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b585c6a17daa7175a500e9f16f4284c.png)
+![Dining Experience at The St. Regis Bali Resort](https://images.gobaligo.id/vocus/vocus_9b585c6a17daa7175a500e9f16f4284c.png)
 
 The St. Regis Bali Resort offers a unique dining experience, making it an ideal choice for food lovers. Boneka Restaurant is renowned for showcasing the best five-star breakfasts, brunches, and dinner buffets in Bali, allowing you to indulge in a feast of flavors.
 
@@ -260,7 +260,7 @@ Water activities in Nusa Dua are relatively limited compared to Tanjung Benoa, a
 
 ### Nusa Dua Beach (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_acb04fe54ab144df2f9cfbfb9b7b0522.png)
+![Nusa Dua Beach ( Location Map)](https://images.gobaligo.id/vocus/vocus_acb04fe54ab144df2f9cfbfb9b7b0522.png)
 
 At Nusa Dua Beach, you can enjoy a range of exciting water activities. Start with a thrilling banana boat ride, zipping across the azure sea on a buoyant inflatable, feeling the wind in your face. If you crave soaring through the sky, parasailing is a must-try adventure—guided by professional instructors, you'll fly over the blue horizon, taking in stunning coastal views. Looking for speed and control? Jet skiing lets you carve through the waves, blending speed with adrenaline. For underwater explorers, sea walking offers a chance to get up close with the marine world—don a helmet and marvel at colorful corals and sea life. If you want to test your balance, flyboarding is a fantastic choice, gliding gracefully over the water. Finally, consider a water sports combo package for a full day of aquatic fun, making your time at Nusa Dua Beach a highlight of your unforgettable Bali trip.
 
@@ -268,7 +268,7 @@ At Nusa Dua Beach, you can enjoy a range of exciting water activities. Start wit
 
 ### Tanjung Benoa (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_82d973b544b91c9f5f74aa5bdcf0d73f.png)
+![Tanjung Benoa ( Location Map)](https://images.gobaligo.id/vocus/vocus_82d973b544b91c9f5f74aa5bdcf0d73f.png)
 
 Just north of Nusa Dua lies Tanjung Benoa, commonly known as 'South Bay,' the hub of water sports across all of Bali. This vibrant stretch of sea offers a wide array of exhilarating activities, promising an unmatched adventure. Jet skis race across the blue waters, letting you feel the wild wind, while parasailing takes you high above for panoramic ocean views, blending wonder with the azure sky. Banana boats and donut boats provide fast-paced fun, perfect for families and friends to enjoy together.
 
@@ -292,7 +292,7 @@ Although the waves can sometimes be a bit strong and underwater visibility may b
 
 ### Golf (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ce8e073add04f7914d81b28a1da9d1c5.jpg)
+![Golf ( Location Map)](https://images.gobaligo.id/vocus/vocus_ce8e073add04f7914d81b28a1da9d1c5.jpg)
 
 In Bali, beyond the beautiful beaches and cultural charm, Bali National Golf Club Nusa Dua offers a truly unique experience, allowing you to challenge your golf skills in a leisurely resort atmosphere. This 18-hole golf course in Nusa Dua is regarded as one of Bali's premier golf courses.
 
@@ -302,7 +302,7 @@ Bali National Golf Club Nusa Dua blends the elegant ambiance of a luxury resort 
 
 ### Dapur Bali Cooking Class (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_637aebfbb06d66216cc833cda4f50395.png)
+![Dapur Bali Cooking Class ( Location Map)](https://images.gobaligo.id/vocus/vocus_637aebfbb06d66216cc833cda4f50395.png)
 
 The Dapur Bali cooking class, held within the Kayumanis Nusa Dua Private Villa, offers a unique Balinese culinary experience. The course includes learning to prepare classic Balinese dishes, delving into the history of the cuisine, and a guided visit to a local market to select fresh ingredients. After the class, you'll savor the delicious dishes you've made yourself, perfectly complemented by Bali's natural beauty. It's an unforgettable journey that blends cooking skills, culture, and a market experience.
 
@@ -310,7 +310,7 @@ The Dapur Bali cooking class, held within the Kayumanis Nusa Dua Private Villa, 
 
 ### Canna Beach Club (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e061b557bfab6d27160a4fb99829ea61.jpg)
+![Canna Beach Club ( Location Map)](https://images.gobaligo.id/vocus/vocus_e061b557bfab6d27160a4fb99829ea61.jpg)
 
 Beyond the [Manarai Beach House](https://youtu.be/BUl5vPzVHGw) we introduced above, Canna Beach Club in Nusa Dua is another beach club that exudes trendiness and luxury. This captivating beach haven not only boasts a spacious sun deck for you to bask in the sun but also offers stunning pool and beach facilities. Known for its stylish design and laid-back atmosphere, Canna Beach Club is the perfect spot for relaxation and socializing.
 
@@ -320,7 +320,7 @@ The dining experience here is equally memorable, with a diverse menu that blends
 
 ### Sea Fishing in Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5bb72d3f7207d29f6c6d6524074921bd.jpg)
+![Sea Fishing in Bali](https://images.gobaligo.id/vocus/vocus_5bb72d3f7207d29f6c6d6524074921bd.jpg)
 
 Bali's fishing trips depart from Tanjung Benoa, offering an adventurous sea fishing experience. You'll have the chance to catch a variety of sought-after fish, including grouper, snapper, triggerfish, and many other colorful tropical species.
 
@@ -330,7 +330,7 @@ Whether you're a first-timer or an experienced angler, this activity provides fi
 
 ### 🎭 Bali's Must-See Devdan Show 🎶
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ab5ece28ded1d750897fc0c35de3d97e.jpg)
+![Bali's Must-See Devdan Show](https://images.gobaligo.id/vocus/vocus_ab5ece28ded1d750897fc0c35de3d97e.jpg)
 
 【Devdan Show】💫 Aerial acrobatics, the culture of five islands, and a dazzling stage all in one show!
 
@@ -343,7 +343,7 @@ For a detailed introduction, check out [this article](/blog/devdan-show-nusa-dua
 
 ### Turtle Island, Glass-Bottom Boat, and Mangrove Cruise
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4cab4e18847962c033e94cf68f67b39e.png)
+![Turtle Island, Glass-Bottom Boat, and Mangrove Cruise](https://images.gobaligo.id/vocus/vocus_4cab4e18847962c033e94cf68f67b39e.png)
 
 Start by snorkeling and feeding fish in the sea, experiencing the joy of getting up close with marine life. Then, take a small boat slowly into the mangroves to explore this unique coastal ecosystem. Next, hop on a glass-bottom boat to Turtle Island, admiring the rich underwater world through the clear floor. Upon arrival, you'll have the chance to participate in sea turtle conservation activities and learn about these precious creatures. Besides turtles, you can also see and even touch other rare animals up close—a delightful surprise that will surely be a highlight of your entire trip.
 
@@ -373,7 +373,7 @@ Detailed guide: [Bali Exotic Marine Park Guide: Ultra-Close Encounters, Swimming
 
 ### Enjoy a Spa (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_638b053ba68a83d4518818b74c044ecb.png)
+![Enjoy a Spa ( Location Map)](https://images.gobaligo.id/vocus/vocus_638b053ba68a83d4518818b74c044ecb.png)
 
 If you've had an exhilarating and fulfilling time with water and land activities in Nusa Dua/Tanjung Benoa, why not treat yourself to Bali's world-famous spa afterward for the ultimate relaxation experience?
 
@@ -407,7 +407,7 @@ To avoid disrupting your itinerary by not booking SPA services in advance, be su
 
 ## Hotel/Resort Recommendations (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e988c7792e47e20ef753233cdd7f5e4.jpg)
+![Hotel/Resort Recommendations ( Location Map)](https://images.gobaligo.id/vocus/vocus_2e988c7792e47e20ef753233cdd7f5e4.jpg)
 
 ### Top 16 Five-Star Hotels/Resorts
 
@@ -419,7 +419,7 @@ https://youtu.be/-CJsTy4C3AQ
 
 ### Rent a Large Floating Mat for Stunning Photos
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c8ea263dd91e7e5781d702fd3f7de7f8.png)
+![Rent a Large Floating Mat for Stunning Photos](https://images.gobaligo.id/vocus/vocus_c8ea263dd91e7e5781d702fd3f7de7f8.png)
 
 Once you've sorted out your accommodation, how could you not snap some stunning photos in a beautiful hotel or villa!? On a tropical island getaway, a large, stylish pool float is an essential prop for those perfect shots. However, a big float plus an air pump can be bulky and heavy, making them inconvenient to bring abroad. But with this service in Bali, you don't need to worry about those issues. As long as you're staying in the southern area—such as Kuta, Legian, Seminyak, Canggu, Uluwatu, Nusa Dua, and Sanur—you can easily enjoy the fun of a wide variety of large pool floats.
 

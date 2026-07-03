@@ -25,7 +25,7 @@ _srcHash: 90e0e9d0c295236569a62c9418364712
 
 If you're planning a trip to Bali or currently in Indonesia, Gojek is an essential app for both your travels and daily life. Let's dive into this innovative convenience tool and discover how it can enhance your experience.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b1addd430f34b7a65092885063d5a3e5.jpg)
+![Essential App for Traveling in Indonesia/Bali: The Complete ](https://images.gobaligo.id/vocus/vocus_b1addd430f34b7a65092885063d5a3e5.jpg)
 
 ### **Gojek: Your Convenient Lifestyle Companion**
 

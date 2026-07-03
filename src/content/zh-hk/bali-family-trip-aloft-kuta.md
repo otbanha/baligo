@@ -108,7 +108,7 @@ check-in > Beachwalk shopping 3F睇日落 > 食小傑介紹嘅烤豬飯Warung Ba
 
 🔹1F : 佔地巨大嘅糖果天地🍭「Candylicious」，五顏六色、五彩繽紛，係傳說中細路嘅天堂🫧（造訪）。細路對於呢個糖果天地愛不釋手，佢哋喺度過咗一個快樂嘅時光，我都感受到細路嘅快樂。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c6082ea9e6e06a45c3157784ad9da261.jpg)
+![雜記&心得](https://images.gobaligo.id/vocus/vocus_c6082ea9e6e06a45c3157784ad9da261.jpg)
 
 🔹3F : 「MM Juice🍹」，網友推薦果汁好飲，但係餐點難食（無造訪）。雖然聽講呢度嘅果汁唔錯，但我哋揀咗其他餐廳，可能下次有機會再嚟試吓。
 
@@ -132,7 +132,7 @@ check-in > Beachwalk shopping 3F睇日落 > 食小傑介紹嘅烤豬飯Warung Ba
 
 ### 
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_21d540de87f478b39fd7f1dee26b368a.jpg)
+![雜記&心得](https://images.gobaligo.id/vocus/vocus_21d540de87f478b39fd7f1dee26b368a.jpg)
 
 想知多啲庫塔攻略？[請撳呢度](/blog/2023-12-13-657598bdfd8978000120fe20/)
 
@@ -178,7 +178,7 @@ check-in > Beachwalk shopping 3F睇日落 > 食小傑介紹嘅烤豬飯Warung Ba
 
 **📍聯絡資料幫你放喺呢度：**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cfd36517ed8ca2fc9f81c8f6f8a3ced5.png)
+![峇里島包車司機推薦](https://images.gobaligo.id/vocus/vocus_cfd36517ed8ca2fc9f81c8f6f8a3ced5.png)
 
 🚘好司機帶你上天堂，旅遊冇煩惱，峇里島GO🥳🥳🥳🥳
 

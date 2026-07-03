@@ -27,13 +27,13 @@ lang: zh-hk
 _srcHash: 016eccf12e2c8e5e46735be4998cd8ab
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb57e77a7b3e161346b3b64e697d7f09.jpg)
+![【峇里島戶外活動】50種超人氣戶外體驗全攻略：泛舟、ATV、浮潛、水上活動同全家避雷裝備指南](https://images.gobaligo.id/vocus/vocus_eb57e77a7b3e161346b3b64e697d7f09.jpg)
 
 峇里島唔單止有迷人嘅沙灘同奢華度假村，仲隱藏住好多唔同種類嘅戶外活動，等緊鍾意冒險嘅旅人嚟探索。無論你係追求刺激嘅冒險家，定係想喺大自然入面放鬆身心嘅旅行者，峇里島都可以滿足你嘅需求。以下係六大分類，總共50種熱門戶外活動：
 
 ## **水上活動嘅樂趣**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ce09db19692dd56e3b3a093b40972a73.jpg)
+![水上活動嘅樂趣](https://images.gobaligo.id/vocus/vocus_ce09db19692dd56e3b3a093b40972a73.jpg)
 
 ### **1.衝浪：**
 
@@ -43,7 +43,7 @@ _srcHash: 016eccf12e2c8e5e46735be4998cd8ab
 
 ### **2.水上活動：**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d7262888e7876432492b931371460638.jpg)
+![2.水上活動：](https://images.gobaligo.id/vocus/vocus_d7262888e7876432492b931371460638.jpg)
 
 - 峇里島庫塔嘅Waterbom水上樂園係成個亞洲排名頂級嘅水上樂園之一，以刺激嘅滑水道、熱帶園林景觀同環保理念聞名。樂園入面有各種適合唔同年齡層嘅設施，包括高速滑道、懶人河同兒童專區，仲注重可持續發展，係家庭遊客同冒險愛好者嘅熱門目的地。[預定門票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1051935&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F175-waterbom-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D396a21103d)
     - 南灣提供豐富嘅水上活動，例如拖曳傘、水上摩托車、香蕉船等，等你盡情享受熱帶海灘嘅活力。建議事先預訂，唔係到時畀人劏到一頸血！[南灣水上活動預訂](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520water%2520activities%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D50eabd6d63)
@@ -59,7 +59,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
     - [唔使舟車勞頓嘅四個知名潛點](/blog/nusa-penida-snorkeling-guide/)
   **沙努爾搭船十分鐘嘅浮潛聖地：**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2b63fa1a7c1a8b0c7cf46359930783e9.png)
+![3.浮潛：](https://images.gobaligo.id/vocus/vocus_2b63fa1a7c1a8b0c7cf46359930783e9.png)
 
 嚟體驗Sanur海岸嘅水下奇蹟，等浮潛之旅成為你峇里島行程嘅難忘亮點！
 
@@ -74,7 +74,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ## **陸地冒險嘅刺激**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e0d879d5d2802e1977fcfd6a95a19c1f.jpg)
+![陸地冒險嘅刺激](https://images.gobaligo.id/vocus/vocus_e0d879d5d2802e1977fcfd6a95a19c1f.jpg)
 
 ### 5.ATV：
 
@@ -96,7 +96,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ## **大自然嘅壯麗**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_795bf27ce53988e8be88005fa5bb0c84.jpg)
+![大自然嘅壯麗](https://images.gobaligo.id/vocus/vocus_795bf27ce53988e8be88005fa5bb0c84.jpg)
 
 ### **8. 火山日出：**
 
@@ -106,7 +106,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### **9. 叢林鞦韆：**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d553645908858eefdee8ef82ec07084d.jpg)
+![9. 叢林鞦韆：](https://images.gobaligo.id/vocus/vocus_d553645908858eefdee8ef82ec07084d.jpg)
 
 - - 喺烏布嘅叢林入面玩高空鞦韆，喺綠油油嘅景色中盡情釋放壓力。
     - [烏布玩鞦韆：峇里島最靚嘅8個鞦韆影相位｜烏布鞦韆/租禮服攻略](/blog/ubud-jungle-swings-photo-guide/)
@@ -150,14 +150,14 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### **17.留喺villa入面：享受私隱同陽光：**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_83e375c72f9c2ff3f495a1ed4af60bbd.png)
+![17.留喺villa入面：享受私隱同陽光：](https://images.gobaligo.id/vocus/vocus_83e375c72f9c2ff3f495a1ed4af60bbd.png)
 
 - - 峇里島有好多豪華villa，搵一間有私人泳池嘅villa，好好咁放鬆，享受屬於自己嘅時光。
     - 享受私隱同陽光[峇里島推薦villa大全](/blog/bali-private-villa-recommendations/)
 
 ## **探索峇里島嘅景點/文化**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e84b1acf30f6b03dde2682201c0822b8.jpg)
+![探索峇里島嘅景點/文化](https://images.gobaligo.id/vocus/vocus_e84b1acf30f6b03dde2682201c0822b8.jpg)
 
 ### **18.500個最新峇里島人氣景點一次蒐集齊：**
 
@@ -166,7 +166,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ## 更多推薦
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1f5f98ae3adf257e0ce00cc125d478d8.png)
+![更多推薦](https://images.gobaligo.id/vocus/vocus_1f5f98ae3adf257e0ce00cc125d478d8.png)
 
 如果你以為峇里島得沙灘同水上活動先係重點，咁就大錯特錯喇！呢個島其實仲有好多令人驚艷嘅戶外體驗，由叢林探險、梯田漫步到懸崖泳池，每一項都值得加入行程 🏞️☀️ 以下係精選推薦更多峇里島戶外活動，每一個都可以令你嘅旅程更加精彩：
 
@@ -248,7 +248,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 登上巴杜爾火山（Mount Batur），睇住太陽慢慢升起，係旅行者心中最震撼嘅回憶。行完山之後，不妨試下新興嘅湖上活動——**巴杜爾湖皇家松根遊輪（Royal Songan Cruise）**。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3ca74bdad12e693945d91b0c5b5888cf.jpg)
+![40.巴杜爾火山湖遊船湖](https://images.gobaligo.id/vocus/vocus_3ca74bdad12e693945d91b0c5b5888cf.jpg)
 
 呢段大約60至90分鐘嘅遊湖行程，會帶你穿過：
 
@@ -262,7 +262,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### 41.金塔瑪尼山林遊樂場 The Grand Lagunas
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a9a882fda8e0d1a069384ba95922dc4.png)
+![41.金塔瑪尼山林遊樂場 The Grand Lagunas](https://images.gobaligo.id/vocus/vocus_9a9a882fda8e0d1a069384ba95922dc4.png)
 
 喺The Grand Lagunas挑戰極限，體驗刺激冒險同絕美景色！呢度提供好多唔同嘅戶外活動設施，包括繽紛彩虹滑道(Rainbow Slide)、飛索(Flying Fox)、樹頂探險(Tree Top)、蘇丹籃(Keranjang Sultan)、彈跳床(Trampoline Jump)、吊床(Hammock)、鳥巢(Nest)、攀爬網(Climbing Net)、爬樹體驗(Climbing Tree)同叢林吊橋(Jungle Bridge)、仲有ATV騎乘等精彩項目，等你盡情釋放冒險精神。
 
@@ -272,19 +272,19 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### 42.溫泉、賞美景
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1b2c36cce167df14bcd2e664efd956d0.jpg)
+![42.溫泉、賞美景](https://images.gobaligo.id/vocus/vocus_1b2c36cce167df14bcd2e664efd956d0.jpg)
 
 喺 **Toya Devasya 溫泉** 放鬆身心，浸喺天然火山地熱泉入面，望住遠處嘅火山同湖泊，真係最療癒嘅時光。
 
 除咗浸溫泉，呢度仲係一個大型嘅溫泉水上樂園㗎！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e239669b1787a60c45be7f558d30237.png)
+![42.溫泉、賞美景](https://images.gobaligo.id/vocus/vocus_4e239669b1787a60c45be7f558d30237.png)
 
 ▶[Toya Devasya 溫泉門票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1140524&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F24959-toya-devasya-hot-springs-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3De7714021bf)
 
 ### 43.水明漾海灘騎馬
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ffcb0744d2b3309967f33941bc647514.jpg)
+![43.水明漾海灘騎馬](https://images.gobaligo.id/vocus/vocus_ffcb0744d2b3309967f33941bc647514.jpg)
 
 大家去水明漾，唔係衝酒吧就係衝夕陽—— 但有一件事，好多人去咗三次峇里島都未試過。
 

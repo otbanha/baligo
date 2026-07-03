@@ -35,7 +35,7 @@ _srcHash: 1cacde9c52f32e42bb58eed28746cd7c
 ---
 Kamu pernah nggak sih pas liburan di Bali, semangat-semangatnya nulis beberapa kartu pos, terus masukin ke kotak pos atau nitip ke hotel buat dikirim, eh pas pulang ke Indonesia udah nunggu lama banget tapi kartu posnya nggak kunjung datang?
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776055227572-17225212_387746f7-a12a-4c08-84ef-76a5c1f51d50_2048_2048.jpg_tplv-aphluv4xwc-white-pad-v1_1600_1600.jpeg)
+![Dari Bali kirim kartu pos butuh waktu berapa lama? Pengalama](https://images.gobaligo.id/images/2026-04/1776055227572-17225212_387746f7-a12a-4c08-84ef-76a5c1f51d50_2048_2048.jpg_tplv-aphluv4xwc-white-pad-v1_1600_1600.jpeg)
 
 Tenang aja, kamu nggak sendirian!
 
@@ -67,7 +67,7 @@ Ada juga yang pas check-out dari hotel bintang lima pada Oktober 2023, minta res
 
 Netizen lain cuma bisa pasrah ninggalin satu kalimat: 'Yang terakhir nggak ada yang sampai...'
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776055334513-d015eaa7e8d747c99159192428275ef1_tplv-aphluv4xwc-white-pad-v1_1600_1600.jpeg)
+![Ada juga yang 'hilang ditelan bumi'](https://images.gobaligo.id/images/2026-04/1776055334513-d015eaa7e8d747c99159192428275ef1_tplv-aphluv4xwc-white-pad-v1_1600_1600.jpeg)
 
 {{block:klook}}
 

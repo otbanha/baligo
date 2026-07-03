@@ -86,7 +86,7 @@ This is the third installment of our Nusa Lembongan/Nusa Ceningan guide. Want to
 
 ## 1. Jungut Batu Beach – The Best Area for Nightlife, Dining, and Accommodation in Nusa Lembongan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d197878ac3f5fc80de1603ea6963e74b.jpg)
+![1. Jungut Batu Beach – The Best Area for Nightlife, Dining, ](https://images.gobaligo.id/vocus/vocus_d197878ac3f5fc80de1603ea6963e74b.jpg)
 
 Located on the northwest coast of Nusa Lembongan, **Jungut Batu Beach** boasts the island's longest and most beautiful stretch of sand, making it the premier beach destination on the island. Known for its stunning sunsets and crystal-clear waters, it attracts numerous travelers and serves as one of the main ports for those arriving from Bali. Even if you're not staying here, you'll likely pass by this beach.
 
@@ -102,7 +102,7 @@ Jungut Batu is also a culinary paradise on Nusa Lembongan, with most restaurants
 
 As the sun sets, Jungut Batu Beach transforms into a vibrant nightlife hub. Bars and venues along the beach light up, offering a variety of evening entertainment, from relaxed live music to DJ sets at beachfront restaurants.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_45fff3abe533d6254991ca31e44a7a9c.png)
+![Nightlife](https://images.gobaligo.id/vocus/vocus_45fff3abe533d6254991ca31e44a7a9c.png)
 
 **Ohana's Beach Club** is one of our top recommendations. The laid-back atmosphere is perfect for enjoying a drink during sunset happy hour. You can easily spend an entire day here, soaking in the good vibes.
 
@@ -122,25 +122,25 @@ Jungut Batu is an ideal location for accommodation, offering a diverse range of 
 
 ### The Tamarind Resort - Top Accommodation on Nusa Lembongan (🗺️ [Map Location](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442745816-136493330.jpg)
+![The Tamarind Resort - Top Accommodation on Nusa Lembongan ( ](https://images.gobaligo.id/images/2026-03/1774442745816-136493330.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442746300-136493333.jpg)
+![The Tamarind Resort - Top Accommodation on Nusa Lembongan ( ](https://images.gobaligo.id/images/2026-03/1774442746300-136493333.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442746689-136493400.jpg)
+![The Tamarind Resort - Top Accommodation on Nusa Lembongan ( ](https://images.gobaligo.id/images/2026-03/1774442746689-136493400.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442747093-136493419.jpg)
+![The Tamarind Resort - Top Accommodation on Nusa Lembongan ( ](https://images.gobaligo.id/images/2026-03/1774442747093-136493419.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442747524-136493785.jpg)
+![The Tamarind Resort - Top Accommodation on Nusa Lembongan ( ](https://images.gobaligo.id/images/2026-03/1774442747524-136493785.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442747932-136493789.jpg)
+![The Tamarind Resort - Top Accommodation on Nusa Lembongan ( ](https://images.gobaligo.id/images/2026-03/1774442747932-136493789.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442748342-136493791.jpg)
+![The Tamarind Resort - Top Accommodation on Nusa Lembongan ( ](https://images.gobaligo.id/images/2026-03/1774442748342-136493791.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442748763-136493794.jpg)
+![The Tamarind Resort - Top Accommodation on Nusa Lembongan ( ](https://images.gobaligo.id/images/2026-03/1774442748763-136493794.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442749158-136493939.jpg)
+![The Tamarind Resort - Top Accommodation on Nusa Lembongan ( ](https://images.gobaligo.id/images/2026-03/1774442749158-136493939.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442749507-156951897.jpg)
+![The Tamarind Resort - Top Accommodation on Nusa Lembongan ( ](https://images.gobaligo.id/images/2026-03/1774442749507-156951897.jpg)
 
 The Tamarind Resort - Nusa Lembongan offers a world-class accommodation experience on the picturesque island of Nusa Lembongan. This 5-star resort features a variety of facilities and services, including an outdoor swimming pool, fitness center, restaurant and bar, along with a 24-hour front desk and free WiFi.
 
@@ -154,25 +154,25 @@ The Tamarind Resort - Nusa Lembongan offers a world-class accommodation experien
 
 ### Ohana's Beachfront Resort - The Ultimate Choice for a Stylish Party Getaway (🗺️ [Map Location](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442911138-158601775.jpg)
+![Ohana's Beachfront Resort - The Ultimate Choice for a Stylis](https://images.gobaligo.id/images/2026-03/1774442911138-158601775.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442911549-165973210.jpg)
+![Ohana's Beachfront Resort - The Ultimate Choice for a Stylis](https://images.gobaligo.id/images/2026-03/1774442911549-165973210.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442912086-185479759.jpg)
+![Ohana's Beachfront Resort - The Ultimate Choice for a Stylis](https://images.gobaligo.id/images/2026-03/1774442912086-185479759.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442912611-324347692.jpeg)
+![Ohana's Beachfront Resort - The Ultimate Choice for a Stylis](https://images.gobaligo.id/images/2026-03/1774442912611-324347692.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442913204-417108962.jpeg)
+![Ohana's Beachfront Resort - The Ultimate Choice for a Stylis](https://images.gobaligo.id/images/2026-03/1774442913204-417108962.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442913929-417108969.jpeg)
+![Ohana's Beachfront Resort - The Ultimate Choice for a Stylis](https://images.gobaligo.id/images/2026-03/1774442913929-417108969.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442914422-417111419.jpeg)
+![Ohana's Beachfront Resort - The Ultimate Choice for a Stylis](https://images.gobaligo.id/images/2026-03/1774442914422-417111419.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442915049-417111422.jpeg)
+![Ohana's Beachfront Resort - The Ultimate Choice for a Stylis](https://images.gobaligo.id/images/2026-03/1774442915049-417111422.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442915591-417111967.jpeg)
+![Ohana's Beachfront Resort - The Ultimate Choice for a Stylis](https://images.gobaligo.id/images/2026-03/1774442915591-417111967.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442916172-417112013.jpeg)
+![Ohana's Beachfront Resort - The Ultimate Choice for a Stylis](https://images.gobaligo.id/images/2026-03/1774442916172-417112013.jpeg)
 
 Ohana's Beachfront Resort boasts a relaxed beachfront atmosphere, chic Boho-style rooms, a private beach area, and two swimming pools. Offering mid-range accommodations, it's a great value-for-money vacation option.
 
@@ -188,25 +188,25 @@ https://youtube.com/shorts/C1JJL-eyDRU
 
 ### Lembongan Beach Club & Resort - Private Pool Villas + Beach Club (🗺️ [Map Location](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443118679-531879503.jpg)
+![Lembongan Beach Club & Resort - Private Pool Villas + Beach ](https://images.gobaligo.id/images/2026-03/1774443118679-531879503.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443119142-500935226.jpg)
+![Lembongan Beach Club & Resort - Private Pool Villas + Beach ](https://images.gobaligo.id/images/2026-03/1774443119142-500935226.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443119486-500935235.jpg)
+![Lembongan Beach Club & Resort - Private Pool Villas + Beach ](https://images.gobaligo.id/images/2026-03/1774443119486-500935235.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443119834-531879505.jpg)
+![Lembongan Beach Club & Resort - Private Pool Villas + Beach ](https://images.gobaligo.id/images/2026-03/1774443119834-531879505.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443120250-539487752.jpg)
+![Lembongan Beach Club & Resort - Private Pool Villas + Beach ](https://images.gobaligo.id/images/2026-03/1774443120250-539487752.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443120788-539487768.jpg)
+![Lembongan Beach Club & Resort - Private Pool Villas + Beach ](https://images.gobaligo.id/images/2026-03/1774443120788-539487768.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443121265-539779379.jpg)
+![Lembongan Beach Club & Resort - Private Pool Villas + Beach ](https://images.gobaligo.id/images/2026-03/1774443121265-539779379.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443121687-539793798.jpg)
+![Lembongan Beach Club & Resort - Private Pool Villas + Beach ](https://images.gobaligo.id/images/2026-03/1774443121687-539793798.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443122075-579063500.jpg)
+![Lembongan Beach Club & Resort - Private Pool Villas + Beach ](https://images.gobaligo.id/images/2026-03/1774443122075-579063500.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443122435-579063505.jpg)
+![Lembongan Beach Club & Resort - Private Pool Villas + Beach ](https://images.gobaligo.id/images/2026-03/1774443122435-579063505.jpg)
 
 Lembongan Beach Club & Resort offers a tropical getaway experience, featuring an on-site restaurant and a club-style swimming pool overlooking the stunning white sands of Jungut Batu Beach. The resort provides water sports facilities and can arrange diving and snorkeling activities upon request, allowing guests to fully immerse themselves in island life.
 
@@ -220,7 +220,7 @@ Lembongan Beach Club & Resort offers a tropical getaway experience, featuring an
 
 ## **2. Mushroom Bay: A Family-Friendly Haven**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_53529b252174ee423d2a36c69be328a2.jpg)
+![2. Mushroom Bay: A Family-Friendly Haven](https://images.gobaligo.id/vocus/vocus_53529b252174ee423d2a36c69be328a2.jpg)
 
 Mushroom Bay lies to the south of Jungut Batu Beach. Known for its tranquil, picturesque shoreline and child-friendly shallow waters, it’s the perfect spot for families with kids. The beach features fine sand and shallow areas, making it safe for young children to enjoy the seaside. Although it’s the second busiest port for boats traveling between Bali and Nusa Lembongan, the bay’s relaxed atmosphere still makes it worth a visit.
 
@@ -244,25 +244,25 @@ Mushroom Bay, with its compact and convenient layout and family-friendly environ
 
 ### Hai Tide Beach Resort - A Four-Star Beachfront Stay (🗺️ [Map Location](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443486402-217395363.jpg)
+![Hai Tide Beach Resort - A Four-Star Beachfront Stay ( Map Lo](https://images.gobaligo.id/images/2026-03/1774443486402-217395363.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443486846-98618659.jpg)
+![Hai Tide Beach Resort - A Four-Star Beachfront Stay ( Map Lo](https://images.gobaligo.id/images/2026-03/1774443486846-98618659.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443487158-217395369.jpg)
+![Hai Tide Beach Resort - A Four-Star Beachfront Stay ( Map Lo](https://images.gobaligo.id/images/2026-03/1774443487158-217395369.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443487517-217395375.jpg)
+![Hai Tide Beach Resort - A Four-Star Beachfront Stay ( Map Lo](https://images.gobaligo.id/images/2026-03/1774443487517-217395375.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443487974-392504360.jpg)
+![Hai Tide Beach Resort - A Four-Star Beachfront Stay ( Map Lo](https://images.gobaligo.id/images/2026-03/1774443487974-392504360.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443488487-425740833.jpg)
+![Hai Tide Beach Resort - A Four-Star Beachfront Stay ( Map Lo](https://images.gobaligo.id/images/2026-03/1774443488487-425740833.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443488893-425741204.jpg)
+![Hai Tide Beach Resort - A Four-Star Beachfront Stay ( Map Lo](https://images.gobaligo.id/images/2026-03/1774443488893-425741204.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443489406-425742517.jpg)
+![Hai Tide Beach Resort - A Four-Star Beachfront Stay ( Map Lo](https://images.gobaligo.id/images/2026-03/1774443489406-425742517.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443489818-425744045.jpg)
+![Hai Tide Beach Resort - A Four-Star Beachfront Stay ( Map Lo](https://images.gobaligo.id/images/2026-03/1774443489818-425744045.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443490220-597458175.jpg)
+![Hai Tide Beach Resort - A Four-Star Beachfront Stay ( Map Lo](https://images.gobaligo.id/images/2026-03/1774443490220-597458175.jpg)
 
 Hai Tide Beach Resort is located right beside Mushroom Bay beach, offering a unique resort experience facing the Indian Ocean with a tranquil four-star accommodation setting. The resort underwent a complete renovation in 2013, refreshing its traditional Balinese thatched-roof style accommodations.
 
@@ -276,25 +276,25 @@ Hai Tide Beach Resort is located right beside Mushroom Bay beach, offering a uni
 
 ### The Acala Shri Sedana: A Scenic Retreat (🗺️ [Map Location](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443615776-412761812.jpg)
+![The Acala Shri Sedana: A Scenic Retreat ( Map Location)](https://images.gobaligo.id/images/2026-03/1774443615776-412761812.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443616616-135727499.jpg)
+![The Acala Shri Sedana: A Scenic Retreat ( Map Location)](https://images.gobaligo.id/images/2026-03/1774443616616-135727499.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443616943-135727592.jpg)
+![The Acala Shri Sedana: A Scenic Retreat ( Map Location)](https://images.gobaligo.id/images/2026-03/1774443616943-135727592.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443617348-224046039.jpg)
+![The Acala Shri Sedana: A Scenic Retreat ( Map Location)](https://images.gobaligo.id/images/2026-03/1774443617348-224046039.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443617679-404321113.jpg)
+![The Acala Shri Sedana: A Scenic Retreat ( Map Location)](https://images.gobaligo.id/images/2026-03/1774443617679-404321113.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443618249-404321115.jpg)
+![The Acala Shri Sedana: A Scenic Retreat ( Map Location)](https://images.gobaligo.id/images/2026-03/1774443618249-404321115.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443618593-404321116.jpg)
+![The Acala Shri Sedana: A Scenic Retreat ( Map Location)](https://images.gobaligo.id/images/2026-03/1774443618593-404321116.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443618951-420728496.jpg)
+![The Acala Shri Sedana: A Scenic Retreat ( Map Location)](https://images.gobaligo.id/images/2026-03/1774443618951-420728496.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443619374-493422591.jpg)
+![The Acala Shri Sedana: A Scenic Retreat ( Map Location)](https://images.gobaligo.id/images/2026-03/1774443619374-493422591.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443619702-526918233.jpg)
+![The Acala Shri Sedana: A Scenic Retreat ( Map Location)](https://images.gobaligo.id/images/2026-03/1774443619702-526918233.jpg)
 
 The Acala Shri Sedana is perched atop a hill on Nusa Lembongan, approximately 3 kilometers from Mushroom Bay. Known for its breathtaking elevated views and luxurious romantic suites, this resort offers top-notch facilities, ensuring guests enjoy a serene mountaintop getaway. A variety of comfortable room types are available to cater to different preferences.
 
@@ -308,25 +308,25 @@ The Acala Shri Sedana is perched atop a hill on Nusa Lembongan, approximately 3 
 
 ### The Palm Grove Villas: A 4-Star Stay (🗺️ [Map Location](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443703529-123569809.jpg)
+![The Palm Grove Villas: A 4-Star Stay ( Map Location)](https://images.gobaligo.id/images/2026-03/1774443703529-123569809.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443703959-53532225.jpg)
+![The Palm Grove Villas: A 4-Star Stay ( Map Location)](https://images.gobaligo.id/images/2026-03/1774443703959-53532225.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443704354-53532706.jpg)
+![The Palm Grove Villas: A 4-Star Stay ( Map Location)](https://images.gobaligo.id/images/2026-03/1774443704354-53532706.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443704763-123569813.jpg)
+![The Palm Grove Villas: A 4-Star Stay ( Map Location)](https://images.gobaligo.id/images/2026-03/1774443704763-123569813.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443705288-123569831.jpg)
+![The Palm Grove Villas: A 4-Star Stay ( Map Location)](https://images.gobaligo.id/images/2026-03/1774443705288-123569831.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443705685-123569875.jpg)
+![The Palm Grove Villas: A 4-Star Stay ( Map Location)](https://images.gobaligo.id/images/2026-03/1774443705685-123569875.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443706199-123569889.jpg)
+![The Palm Grove Villas: A 4-Star Stay ( Map Location)](https://images.gobaligo.id/images/2026-03/1774443706199-123569889.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443706721-124120103.jpg)
+![The Palm Grove Villas: A 4-Star Stay ( Map Location)](https://images.gobaligo.id/images/2026-03/1774443706721-124120103.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443707114-124121664.jpg)
+![The Palm Grove Villas: A 4-Star Stay ( Map Location)](https://images.gobaligo.id/images/2026-03/1774443707114-124121664.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443707526-364700747.jpg)
+![The Palm Grove Villas: A 4-Star Stay ( Map Location)](https://images.gobaligo.id/images/2026-03/1774443707526-364700747.jpg)
 
 The Palm Grove Villas is just 100 meters from the famous Mushroom Beach, offering villas with traditional Balinese thatched roofs and private entrances. Surrounded by beautiful scenery and close to several popular diving spots, it’s an ideal choice for travelers seeking both relaxation and adventure.
 
@@ -340,7 +340,7 @@ The Palm Grove Villas is just 100 meters from the famous Mushroom Beach, offerin
 
 ## **3. Dream Beach**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2cede1c5928bd642dfc32a9cbe865f57.jpg)
+![3. Dream Beach](https://images.gobaligo.id/vocus/vocus_2cede1c5928bd642dfc32a9cbe865f57.jpg)
 
 **Dream Beach**, located on the southern coast of Nusa Lembongan, is renowned for its secluded charm and crystal-clear turquoise waters, making it an ideal escape from crowded tourist spots. This small yet stunning beach is surrounded by dramatic cliffs and features soft, fine sand, perfect for sunbathing and relaxation. Dream Beach is close to Nusa Lembongan's main tourist areas: about 4 kilometers from Jungut Batu and 1.8 kilometers from Mushroom Bay. The waves here are strong, so swimmers should exercise caution, and families with young children may find it unsuitable for swimming.
 
@@ -368,31 +368,31 @@ Dream Beach is not known for its nightlife, and compared to Jungut Batu or Mushr
 
 While Dream Beach offers fewer accommodation choices compared to Jungut Batu or Mushroom Bay, it is renowned for its tranquility and stunning scenery. Some hotels feature infinity pools with panoramic beach views, making it ideal for travelers seeking privacy and a connection with nature. The absence of busy boat traffic makes it perfect for those looking to relax in peace.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444242748-dream-beach-nusa-lembongan-1024x682.jpeg)
+![Accommodation Options at Dream Beach](https://images.gobaligo.id/images/2026-03/1774444242748-dream-beach-nusa-lembongan-1024x682.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444271311-d_byas_dream_beach_club.jpg)
+![Accommodation Options at Dream Beach](https://images.gobaligo.id/images/2026-03/1774444271311-d_byas_dream_beach_club.jpg)
 
 ### Dream Beach Huts: Infinity Pool Adds Major Points (🗺️ [Map Location](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444314506-153871246.jpg)
+![Dream Beach Huts: Infinity Pool Adds Major Points ( Map Loca](https://images.gobaligo.id/images/2026-03/1774444314506-153871246.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444314861-148951276.jpg)
+![Dream Beach Huts: Infinity Pool Adds Major Points ( Map Loca](https://images.gobaligo.id/images/2026-03/1774444314861-148951276.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444315270-153871959.jpg)
+![Dream Beach Huts: Infinity Pool Adds Major Points ( Map Loca](https://images.gobaligo.id/images/2026-03/1774444315270-153871959.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444315699-153872007.jpg)
+![Dream Beach Huts: Infinity Pool Adds Major Points ( Map Loca](https://images.gobaligo.id/images/2026-03/1774444315699-153872007.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444316305-181470576.jpg)
+![Dream Beach Huts: Infinity Pool Adds Major Points ( Map Loca](https://images.gobaligo.id/images/2026-03/1774444316305-181470576.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444316661-181470583.jpg)
+![Dream Beach Huts: Infinity Pool Adds Major Points ( Map Loca](https://images.gobaligo.id/images/2026-03/1774444316661-181470583.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444317119-181470585.jpg)
+![Dream Beach Huts: Infinity Pool Adds Major Points ( Map Loca](https://images.gobaligo.id/images/2026-03/1774444317119-181470585.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444317529-181470595.jpg)
+![Dream Beach Huts: Infinity Pool Adds Major Points ( Map Loca](https://images.gobaligo.id/images/2026-03/1774444317529-181470595.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444317932-413721614.jpg)
+![Dream Beach Huts: Infinity Pool Adds Major Points ( Map Loca](https://images.gobaligo.id/images/2026-03/1774444317932-413721614.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444318337-415848748.jpg)
+![Dream Beach Huts: Infinity Pool Adds Major Points ( Map Loca](https://images.gobaligo.id/images/2026-03/1774444318337-415848748.jpg)
 
 Dream Beach Huts is a unique resort located on Dream Beach, featuring charming wooden structures. Situated on the southern coast of Lembongan Island, the resort boasts its own private beach area, offering guests a perfect seaside getaway.
 
@@ -406,25 +406,25 @@ Dream Beach Huts is a unique resort located on Dream Beach, featuring charming w
 
 ### Komodo Garden Luxury Boutique (🗺️ [Map Location](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444394742-32861955.jpg)
+![Komodo Garden Luxury Boutique ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444394742-32861955.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444395289-32861942.jpg)
+![Komodo Garden Luxury Boutique ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444395289-32861942.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444395757-32861949.jpg)
+![Komodo Garden Luxury Boutique ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444395757-32861949.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444396102-32861952.jpg)
+![Komodo Garden Luxury Boutique ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444396102-32861952.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444396473-32861958.jpg)
+![Komodo Garden Luxury Boutique ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444396473-32861958.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444396891-32861959.jpg)
+![Komodo Garden Luxury Boutique ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444396891-32861959.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444397304-32861967.jpg)
+![Komodo Garden Luxury Boutique ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444397304-32861967.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444397822-32861982.jpg)
+![Komodo Garden Luxury Boutique ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444397822-32861982.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444398222-32861985.jpg)
+![Komodo Garden Luxury Boutique ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444398222-32861985.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444398636-32861990.jpg)
+![Komodo Garden Luxury Boutique ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444398636-32861990.jpg)
 
 Komodo Garden is a boutique resort located on Lembongan Island, just 550 meters from Dream Beach. This resort offers a cozy accommodation environment and is renowned for its traditional wooden architectural style.
 
@@ -438,13 +438,13 @@ Komodo Garden is a boutique resort located on Lembongan Island, just 550 meters 
 
 ## 4. Sandy Bay Tranquil and Charming Bay Area
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1b5537036ea0ba11b0f278dcb4f1ff64.jpg)
+![4. Sandy Bay Tranquil and Charming Bay Area](https://images.gobaligo.id/vocus/vocus_1b5537036ea0ba11b0f278dcb4f1ff64.jpg)
 
 Sandy Bay is located in the southern part of Lembongan Island, a serene and enchanting bay perfectly situated between Mushroom Bay and Dream Beach. It's a 14-minute drive (approximately 4 kilometers) to the bustling Jungutbatu Beach on the island, and about 3 kilometers east to the famous Yellow Bridge—the landmark connecting Lembongan Island and Ceningan Island. Though small, this bay has a unique charm, with soft white sands embraced by a small cove, making it an ideal choice for travelers seeking tranquility. Due to its proximity to the Devil's Tear, the waves here are quite turbulent, making it unsuitable for swimming, but this adds a touch of wild beauty to the bay.
 
 ### Dining Recommendations
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3fbe2f16bdf9935ef1f695d8949749b6.png)
+![Dining Recommendations](https://images.gobaligo.id/vocus/vocus_3fbe2f16bdf9935ef1f695d8949749b6.png)
 
 The culinary experience at Sandy Bay is primarily centered around the Sandy Bay Beach Club. This is not only an excellent dining spot but also the perfect place to enjoy the sunset. The restaurant features a stunning infinity pool where you can savor your meal while admiring the magnificent sea views. The atmosphere is relaxed and comfortable, with no noisy music, allowing guests to truly unwind and enjoy the perfect combination of food and scenery. Whether it's afternoon tea or a romantic dinner, this place offers an unforgettable dining experience for visitors.
 
@@ -462,25 +462,25 @@ Accommodations in Sandy Bay are boutique-style, with limited options but each on
 
 ### Staying at a Beach Resort in Sandy Bay (🗺️ [Map Location](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444536899-467174804.jpg)
+![Staying at a Beach Resort in Sandy Bay ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444536899-467174804.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444537242-467174791.jpg)
+![Staying at a Beach Resort in Sandy Bay ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444537242-467174791.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444537556-467174795.jpg)
+![Staying at a Beach Resort in Sandy Bay ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444537556-467174795.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444537857-467174800.jpg)
+![Staying at a Beach Resort in Sandy Bay ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444537857-467174800.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444538426-467174802.jpg)
+![Staying at a Beach Resort in Sandy Bay ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444538426-467174802.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444538828-467174812.jpg)
+![Staying at a Beach Resort in Sandy Bay ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444538828-467174812.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444539223-467174815.jpg)
+![Staying at a Beach Resort in Sandy Bay ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444539223-467174815.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444539732-531582924.jpg)
+![Staying at a Beach Resort in Sandy Bay ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444539732-531582924.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444540059-531583022.jpg)
+![Staying at a Beach Resort in Sandy Bay ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444540059-531583022.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444540372-531583060.jpg)
+![Staying at a Beach Resort in Sandy Bay ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444540372-531583060.jpg)
 
 Sandy Bay is a refined resort destination, known for its unique landscaped environment and high-quality service. Not only does it provide comfortable accommodations, but it also creates a perfect holiday experience for guests. The resort's design emphasizes privacy and comfort, allowing guests to enjoy a peaceful and relaxing vacation.
 
@@ -494,25 +494,25 @@ Sandy Bay is a refined resort destination, known for its unique landscaped envir
 
 ### Villa Waru One - Four-Bedroom Villa (🗺️ [Map Location](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444601532-113940825.jpg)
+![Villa Waru One - Four-Bedroom Villa ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444601532-113940825.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444601882-113940739.jpg)
+![Villa Waru One - Four-Bedroom Villa ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444601882-113940739.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444602227-113940749.jpg)
+![Villa Waru One - Four-Bedroom Villa ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444602227-113940749.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444602600-113940777.jpg)
+![Villa Waru One - Four-Bedroom Villa ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444602600-113940777.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444603013-113940783.jpg)
+![Villa Waru One - Four-Bedroom Villa ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444603013-113940783.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444603424-113940794.jpg)
+![Villa Waru One - Four-Bedroom Villa ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444603424-113940794.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444603747-119615035.jpg)
+![Villa Waru One - Four-Bedroom Villa ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444603747-119615035.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444604146-266089427.jpg)
+![Villa Waru One - Four-Bedroom Villa ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444604146-266089427.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444604559-266089499.jpg)
+![Villa Waru One - Four-Bedroom Villa ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444604559-266089499.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444604973-266105768.jpg)
+![Villa Waru One - Four-Bedroom Villa ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444604973-266105768.jpg)
 
 Villa Waru One is a luxurious four-bedroom villa located in Sandy Bay, offering a high-end vacation experience. This oceanfront villa is renowned for its spacious interiors and exceptional service, providing 24-hour front desk assistance and tour arrangements.
 
@@ -526,7 +526,7 @@ Villa Waru One is a luxurious four-bedroom villa located in Sandy Bay, offering 
 
 ## 5. Tamarind Beach - A Quiet Haven
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_450cdadfea1fc8e2288ae567f6b68421.jpg)
+![5. Tamarind Beach - A Quiet Haven](https://images.gobaligo.id/vocus/vocus_450cdadfea1fc8e2288ae567f6b68421.jpg)
 
 Tamarind Beach is nestled between the two popular accommodation areas of Jungut Batu and Mushroom Bay. While it may not be the most sought-after spot on the island, its understated charm makes it uniquely appealing. Positioned between the famous Mushroom Bay and the expansive Jungutbatu Beach, this beach serves as a tranquil retreat. The rocky formations on either side act as natural barriers, keeping the waters calm and mild year-round, making it ideal for swimmers of all levels, especially families with children. What sets this beach apart is its perfect balance of serenity and convenience, with popular attractions just a short walk away.
 
@@ -548,25 +548,25 @@ Accommodation options in the Tamarind area focus on balancing affordability with
 
 ### Morin Resort - A Subtle Luxury Accommodation Option (🗺️ [Map Location](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444763417-490186364.jpg)
+![Morin Resort - A Subtle Luxury Accommodation Option ( Map Lo](https://images.gobaligo.id/images/2026-03/1774444763417-490186364.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444763944-459481765.jpg)
+![Morin Resort - A Subtle Luxury Accommodation Option ( Map Lo](https://images.gobaligo.id/images/2026-03/1774444763944-459481765.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444764685-489369796.jpg)
+![Morin Resort - A Subtle Luxury Accommodation Option ( Map Lo](https://images.gobaligo.id/images/2026-03/1774444764685-489369796.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444765104-489369801.jpg)
+![Morin Resort - A Subtle Luxury Accommodation Option ( Map Lo](https://images.gobaligo.id/images/2026-03/1774444765104-489369801.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444765637-489370029.jpg)
+![Morin Resort - A Subtle Luxury Accommodation Option ( Map Lo](https://images.gobaligo.id/images/2026-03/1774444765637-489370029.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444765981-489370031.jpg)
+![Morin Resort - A Subtle Luxury Accommodation Option ( Map Lo](https://images.gobaligo.id/images/2026-03/1774444765981-489370031.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444766468-490184069.jpg)
+![Morin Resort - A Subtle Luxury Accommodation Option ( Map Lo](https://images.gobaligo.id/images/2026-03/1774444766468-490184069.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444766911-490184107.jpg)
+![Morin Resort - A Subtle Luxury Accommodation Option ( Map Lo](https://images.gobaligo.id/images/2026-03/1774444766911-490184107.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444767406-490184122.jpg)
+![Morin Resort - A Subtle Luxury Accommodation Option ( Map Lo](https://images.gobaligo.id/images/2026-03/1774444767406-490184122.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444767888-490186423.jpg)
+![Morin Resort - A Subtle Luxury Accommodation Option ( Map Lo](https://images.gobaligo.id/images/2026-03/1774444767888-490186423.jpg)
 
 Morin Resort is a boutique resort located on Lembongan Island, renowned for its stunning sea views and exquisite service. The resort offers various types of villa accommodations, including family villas, sea-view villas, and private pool villas, catering to different traveler needs. The resort's design and service have received high praise from guests, especially its professional and friendly staff.
 
@@ -580,25 +580,25 @@ Morin Resort is a boutique resort located on Lembongan Island, renowned for its 
 
 ### Lembongan Cliff Villas (🗺️ [Map Location](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444831043-121250967.jpg)
+![Lembongan Cliff Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444831043-121250967.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444831865-440274899.jpg)
+![Lembongan Cliff Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444831865-440274899.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444832315-11231708.jpg)
+![Lembongan Cliff Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444832315-11231708.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444832726-12595608.jpg)
+![Lembongan Cliff Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444832726-12595608.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444833049-52530794.jpg)
+![Lembongan Cliff Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444833049-52530794.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444833432-116841637.jpg)
+![Lembongan Cliff Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444833432-116841637.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444833897-117635370.jpg)
+![Lembongan Cliff Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444833897-117635370.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444834341-121249462.jpg)
+![Lembongan Cliff Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444834341-121249462.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444834676-121250708.jpg)
+![Lembongan Cliff Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444834676-121250708.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444835093-121250891.jpg)
+![Lembongan Cliff Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444835093-121250891.jpg)
 
 Lembongan Cliff Villas is a luxurious resort perched on a cliff, renowned for its stunning views and diverse accommodation options. The resort offers one- and two-bedroom villa suites, making it particularly suitable for families. Built into the hillside and surrounded by tropical gardens, the resort creates a serene and elegant atmosphere for guests.
 
@@ -612,21 +612,21 @@ Lembongan Cliff Villas is a luxurious resort perched on a cliff, renowned for it
 
 ### Lembongan Harmony Villas (🗺️ [Map Location](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444903987-215404338.jpg)
+![Lembongan Harmony Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444903987-215404338.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444904387-130151521.jpg)
+![Lembongan Harmony Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444904387-130151521.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444904806-130196873.jpg)
+![Lembongan Harmony Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444904806-130196873.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444905196-130198781.jpg)
+![Lembongan Harmony Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444905196-130198781.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444905546-464066109.jpg)
+![Lembongan Harmony Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444905546-464066109.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444905929-555749507.jpg)
+![Lembongan Harmony Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444905929-555749507.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444906328-555749776.jpg)
+![Lembongan Harmony Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444906328-555749776.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444906745-555751044.jpg)
+![Lembongan Harmony Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774444906745-555751044.jpg)
 
 Lembongan Harmony Villas is one of the ideal accommodation choices for first-time visitors to Nusa Lembongan. Perched on a hilltop, the villas offer stunning views overlooking Jungut Batu Beach and Mount Agung, providing guests with a breathtaking visual experience. The one-bedroom and two-bedroom villas here feature private plunge pools and are popular choices, often requiring reservations months in advance.
 
@@ -640,7 +640,7 @@ Lembongan Harmony Villas is one of the ideal accommodation choices for first-tim
 
 ## **6.Nusa Ceningan - Golden Island**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c824e22f70b4f9dccca3dc1971f175a6.png)
+![6.Nusa Ceningan - Golden Island](https://images.gobaligo.id/vocus/vocus_c824e22f70b4f9dccca3dc1971f175a6.png)
 
 **Nusa Ceningan (Golden Island)** is located southeast of Nusa Lembongan, not far from the larger Nusa Penida, and is connected to Nusa Lembongan by the famous Yellow Bridge. This bridge is not only a landmark of Nusa Ceningan but also a convenient transportation hub linking the two islands. Compared to Nusa Lembongan, Nusa Ceningan is more tranquil, making it perfect for travelers seeking to escape the hustle and bustle and enjoy a secluded atmosphere.
 
@@ -651,11 +651,11 @@ If you choose to stay here, we recommend renting a scooter, as it allows you to 
 - **Cross the Yellow Bridge**: Drive or walk across this iconic Yellow Bridge, a must-visit attraction connecting Nusa Lembongan and Nusa Ceningan.
 - **Explore the Blue Lagoon**: Known for its stunning coastal views, the Blue Lagoon on Nusa Ceningan features crystal-clear turquoise waters against dramatic cliffs, making it a perfect spot for photos.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_40df0be93358669e693c1cc77aa919be.jpg)
+![Must-Do Activities](https://images.gobaligo.id/vocus/vocus_40df0be93358669e693c1cc77aa919be.jpg)
 
 - **Visit Sea Breeze Cafe**: This cafe offers delicious meals, a prime location, and excellent ocean views, making it an ideal place to relax and enjoy a leisurely afternoon.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f45f1e5afcba5c9631cc572a74cc9214.jpg)
+![Must-Do Activities](https://images.gobaligo.id/vocus/vocus_f45f1e5afcba5c9631cc572a74cc9214.jpg)
 
 - For more beach clubs on Nusa Ceningan, check out our guide: [28 Best Restaurants, Bars, and Beach Clubs in Nusa Lembongan and Nusa Ceningan](/blog/nusa-lembongan-restaurants/)
 
@@ -665,25 +665,25 @@ Although remote, Nusa Ceningan attracts travelers seeking unique experiences wit
 
 ### Blue Lagoon Avia Villas (🗺️ [Map Location](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774445000420-222487082.jpg)
+![Blue Lagoon Avia Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774445000420-222487082.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774445000777-222489183.jpg)
+![Blue Lagoon Avia Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774445000777-222489183.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774445001167-265341441.jpg)
+![Blue Lagoon Avia Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774445001167-265341441.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774445001544-265341443.jpg)
+![Blue Lagoon Avia Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774445001544-265341443.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774445002105-265341454.jpg)
+![Blue Lagoon Avia Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774445002105-265341454.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774445002534-265341467.jpg)
+![Blue Lagoon Avia Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774445002534-265341467.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774445003046-265341517.jpg)
+![Blue Lagoon Avia Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774445003046-265341517.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774445003546-265341754.jpg)
+![Blue Lagoon Avia Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774445003546-265341754.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774445003938-265341981.jpg)
+![Blue Lagoon Avia Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774445003938-265341981.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774445004350-266914453.jpg)
+![Blue Lagoon Avia Villas ( Map Location)](https://images.gobaligo.id/images/2026-03/1774445004350-266914453.jpg)
 
 Located by the beautiful Blue Lagoon, Blue Lagoon Avia Villas offers one-bedroom and two-bedroom private pool villas, along with a shared infinity pool and restaurant. With breathtaking views and a relaxed atmosphere, it’s the perfect base for exploring Nusa Ceningan.
 
@@ -697,7 +697,7 @@ Located by the beautiful Blue Lagoon, Blue Lagoon Avia Villas offers one-bedroom
 
 ## Nusa Lembongan Travel Guide Map
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2aabc8867ff2279da8bff154396cf2b5.png)
+![Nusa Lembongan Travel Guide Map](https://images.gobaligo.id/vocus/vocus_2aabc8867ff2279da8bff154396cf2b5.png)
 
 A comprehensive Nusa Lembongan travel guide map marking all attractions, dining spots, and accommodations
 

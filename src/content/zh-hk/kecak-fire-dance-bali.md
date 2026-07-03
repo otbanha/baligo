@@ -19,7 +19,7 @@ _srcHash: 028a8ed8d691117a4a2d0b0f46f9e387
 
 如果你去峇里島，千祈唔好錯過峇里島嘅卡恰火舞表演！呢個係會令你終身難忘嘅精彩表演嚟㗎！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f8c6296d8f2f09b45c9843546731b432.jpg)
+![Kecak Fire Dance卡恰火舞秀 峇里島必睇嘅震撼表演（附訂票資訊）](https://images.gobaligo.id/vocus/vocus_f8c6296d8f2f09b45c9843546731b432.jpg)
 
 ## 震撼人心嘅表演
 
@@ -35,7 +35,7 @@ _srcHash: 028a8ed8d691117a4a2d0b0f46f9e387
 
 ## 故事內容
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f2406be4ab4d6ea6026d450f8c08440e.jpg)
+![故事內容](https://images.gobaligo.id/vocus/vocus_f2406be4ab4d6ea6026d450f8c08440e.jpg)
 
 烏魯瓦圖嘅Kecak火舞表演其實係一場極具峇里島特色嘅傳統舞劇，佢嘅故事情節主要嚟自印度史詩《羅摩衍那》。呢個表演嘅重點係講述英雄羅摩王子（Rama）拯救妻子悉多（Sita）嘅故事。
 
@@ -45,7 +45,7 @@ _srcHash: 028a8ed8d691117a4a2d0b0f46f9e387
 
 ## 卡恰火舞起源
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a406dcf7d7e0aeedce7bcc6494100b63.jpg)
+![卡恰火舞起源](https://images.gobaligo.id/vocus/vocus_a406dcf7d7e0aeedce7bcc6494100b63.jpg)
 
 卡恰火舞據說起源於峇里島嘅一種古老儀式，稱為Sanghyang，旨在作為一種驅魔或驅趕邪靈嘅形式，舞者喺其中陷入恍惚。該舞蹈首次出現喺1930年，當時峇里島嘅舞蹈家Wayan Limbak同德國畫家Walter Spies合作，將史詩《羅摩衍那》嘅傳奇故事融入其中，創造咗一個戲劇性嘅Sanghyang表演版本。佢哋帶住呢個創新成果進行咗世界巡迴演出，因此該舞蹈從此開始流行。
 

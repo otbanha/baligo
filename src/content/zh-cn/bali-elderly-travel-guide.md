@@ -20,7 +20,7 @@ _srcHash: 00a90d074e596c0d5891a07f756136e5
 
 巴厘岛作为旅游胜地，同样适合年长者前来探索。对长辈来说，这里有许多令人心旷神怡的魅力所在。巴厘岛的自然景观既壮丽又舒缓，海滩上的细软沙滩和微风拂面，为年长者提供了放松身心的绝佳场所。除此之外，巴厘岛拥有丰富的文化传统，这种文化氛围不仅能够让长辈感受到独特之处，还能让他们更深入地了解这个岛屿的魅力。巴厘岛的一些景点也相对较为温和且适合放松，这样的环境更符合长者的需求。综合而言，巴厘岛不仅拥有吸引年轻人的美景与活力，同时也提供了适合长辈放松身心、感受文化和享受宁静时光的场所。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3a83a08c9cce24c3e2bf4a2b383001f9.png)
+![带长辈去旅行：适合长者的巴厘岛旅行指南 - 安全、舒适与注意事项](https://images.gobaligo.id/vocus/vocus_3a83a08c9cce24c3e2bf4a2b383001f9.png)
 
 请看我们的专文：
 
@@ -44,7 +44,7 @@ _srcHash: 00a90d074e596c0d5891a07f756136e5
 
 巴厘岛的另一优势是，以简单的英文即可沟通。这里的许多居民能够用基本的英文与游客沟通，无需学习其他特殊的语言。对于年长者而言，这种语言上的便利性是一大优点，能够减少沟通上的障碍，让他们更轻松地享受旅程，并和当地人交流互动
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f273c63bed919ca582fb295da6343c6.png)
+![优点](https://images.gobaligo.id/vocus/vocus_2f273c63bed919ca582fb295da6343c6.png)
 
 ## 缺点
 
@@ -64,7 +64,7 @@ _srcHash: 00a90d074e596c0d5891a07f756136e5
 
 部分景点或活动可能较为适合年轻人参与，对于身体状况较差或行动不便的长者来说就不太适合或无法参与。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e0e0d2211d282a7dc668cfc7f71b8bf6.png)
+![缺点](https://images.gobaligo.id/vocus/vocus_e0e0d2211d282a7dc668cfc7f71b8bf6.png)
 
 ## 带长辈旅行注意事项
 
@@ -81,7 +81,7 @@ _srcHash: 00a90d074e596c0d5891a07f756136e5
 - **随身物品**：随身腰包携带必需品，例如药品、护照、钱包等，以防遗失或随时使取用。
 - **询问医师**：若长辈有慢性病，行前最好先咨询医师。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5ed2b7e9ff814fd266633841e5087c92.png)
+![带长辈旅行注意事项](https://images.gobaligo.id/vocus/vocus_5ed2b7e9ff814fd266633841e5087c92.png)
 
 ## 带长辈旅行必备物品
 
@@ -98,7 +98,7 @@ _srcHash: 00a90d074e596c0d5891a07f756136e5
 - **便携式电子产品**：如手机、充电器、相机、行动电源等，以便随时保持联系和记录旅程。
 - **拐杖椅**：拐杖椅是一个很实用的装备，特别是对于行动不便或不能久站的长辈而言。这样的物品能够在走路时作为拐杖，提供支撑，同时在需要休息或等候时，它又能立即变成椅子，让长者随时可以坐下休息。让长者在旅途中能够更加轻松自在地享受旅行。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c88609c439e0ad62c560ca0aa3590ca5.png)
+![带长辈旅行必备物品](https://images.gobaligo.id/vocus/vocus_c88609c439e0ad62c560ca0aa3590ca5.png)
 
 带年长者前往巴厘岛旅行是一个美好的体验，然而需要谨慎考虑和周全准备！
 

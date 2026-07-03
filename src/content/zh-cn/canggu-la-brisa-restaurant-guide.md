@@ -28,7 +28,7 @@ _srcHash: 4cfa444ee25fc21ee52707522a17b76b
 
 在这么多的餐厅之中，被赞誉为「巴厘岛最漂亮的餐厅」的这家餐厅，你可千万别错过哦！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a516952fa874238cf08ef63be006c56d.jpg)
+![【巴厘岛最美餐厅】La Brisa Bali 攻略：走进坎古（Canggu）梦幻海盗船、Echo Beach 日落预约与](https://images.gobaligo.id/vocus/vocus_a516952fa874238cf08ef63be006c56d.jpg)
 
 La Brisa坐落在巴厘岛现在最热门观光点的坎古 Echo海滩的前滩（你可以看看小杰[坎古 80个景点攻略](/blog/canggu-guide/)），是巴厘岛最知名的海滩之一，这里有绝对令人惊叹的、源源不绝的美食和真正的巴厘岛式的热情。
 

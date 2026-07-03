@@ -32,7 +32,7 @@ Detail formulir e-CD: kamu harus kasih info terbaru tentang identitas diri, renc
 
 ## Tips isi formulir e-CD:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aec365f19ae3d56f56b52024fc0a209d.jpg)
+![Tips isi formulir e-CD:](https://images.gobaligo.id/vocus/vocus_aec365f19ae3d56f56b52024fc0a209d.jpg)
 
 1. Buka <https://allindonesia.imigrasi.go.id/>
 2. Kamu bisa isi formulir e-CD dari jauh-jauh hari, atau pas baru sampai di bandara Indonesia/Bali juga bisa

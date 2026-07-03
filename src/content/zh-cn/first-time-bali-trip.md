@@ -16,13 +16,13 @@ _srcHash: 73fd0049b0c0926df9622dfbde18bcca
 
 > 以下游记改编自 [YiShawn Huang](https://www.facebook.com/share/p/1DmyQYJF6M/) 分享游记
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774767611515-779059604094166643.png)
+![【巴厘岛游记】第一次造访神仙之岛：包车自由行、超大泳池Villa与米其林盛宴的庆生惊喜](https://images.gobaligo.id/images/2026-03/1774767611515-779059604094166643.png)
 
 这是我和老婆第一次来到**巴厘岛**。对于这趟期待已久的旅程，我们选择了自由行搭配包车的方式，希望能用最自在的步调探索这座岛屿。没想到，这头两天的行程就给了我们无数惊喜，从温暖的人情味到令人惊艳的美食，一切都安排得刚刚好。
 
 ## 🚗 旅途的神队友：包车司机 Benny
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774768349655-banny_new.jpg)
+![旅途的神队友：包车司机 Benny](https://images.gobaligo.id/images/2026-03/1774768349655-banny_new.jpg)
 
 出发前我们在网上做了不少功课，最后找到了包车司机 Benny。在机场茫茫人海中见到他的那一刻，旅程正式开始！Benny 非常热情，整个包车过程中我们聊了非常多，他不仅专业，更像是一位老朋友。甚至回台湾后，我们偶尔还会在 FB 上聊天，如果你们想来**巴厘岛**自由行，我们真的很推荐找他！
 
@@ -42,13 +42,13 @@ https://youtu.be/UoGlRyAdyB8
 
 ## 🏡 住进肉桂天堂：Kayumanis Jimbaran Private Estate & Spa
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774768824256-v1.jpg)
+![住进肉桂天堂：Kayumanis Jimbaran Private Estate & Spa](https://images.gobaligo.id/images/2026-03/1774768824256-v1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774768825417-v4.jpg)
+![住进肉桂天堂：Kayumanis Jimbaran Private Estate & Spa](https://images.gobaligo.id/images/2026-03/1774768825417-v4.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774768826092-v3.jpg)
+![住进肉桂天堂：Kayumanis Jimbaran Private Estate & Spa](https://images.gobaligo.id/images/2026-03/1774768826092-v3.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774768826591-v2.jpg)
+![住进肉桂天堂：Kayumanis Jimbaran Private Estate & Spa](https://images.gobaligo.id/images/2026-03/1774768826591-v2.jpg)
 
 前两晚我们下榻在金巴兰（Jimbaran）的 **Kayumanis Villa**。这是巴厘岛最具盛名的「肉桂私人别墅」。一抵达，小管家就亲切地引导我们，还给了我们惊喜——升级成**双主卧 Villa**！ 一进去，大泳池、开放式客厅、餐厅和厨房一应俱全。房间送上的迎宾果汁（肉桂姜汁）、蛇皮果和肉桂饼干都非常有特色。最贴心的是，Villa 还附赠 15 分钟的按摩体验，师傅直接来房间服务，技术精湛且力道十足，还跟我们聊起了他喜欢看的陆剧（原来他也是杨洋的粉丝呢！）。
 
@@ -58,7 +58,7 @@ https://youtu.be/UoGlRyAdyB8
 
 - **第一晚晚餐：Wahaha Pork Rib** 我们叫了 Grab 去吃这间猪肋排。环境很 chill 还有音乐，肋排和脆皮猪的表现算是正常水准，肉质稍硬一些，如果住在附近可以顺便吃，但不用特地跑一趟。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774769004063-wahaha2.jpg)
+![住进肉桂天堂：Kayumanis Jimbaran Private Estate & Spa](https://images.gobaligo.id/images/2026-03/1774769004063-wahaha2.jpg)
 
 https://youtu.be/RodQvCZKwD0
 
@@ -68,7 +68,7 @@ https://youtu.be/RodQvCZKwD0
 
 第二天一早虽然下起了雨，但在 Villa 里享受 **Balinese 早餐** 依然很惬意。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774768866032-face.jpg)
+![雨中的美味早餐与惊喜庆生](https://images.gobaligo.id/images/2026-03/1774768866032-face.jpg)
 
 - **必点推荐：** 我们超爱他的 **Mie Goreng（炒面）** 和手工面包，健康绿果汁（含洛梨、苹果、凤梨等）甜而不腻，非常消暑。
 - **午餐飨宴：** 中午直接在 Villa 餐厅用餐，**炭烤鸭（Bebek Goreng）** 最令人惊艳，骨肉分离且口感极佳；**炸木薯配融化起司**也超特别，外型像番薯但口感像马铃薯。
@@ -78,17 +78,17 @@ https://youtu.be/RodQvCZKwD0
 
 ## 🍫 奢华体验：Avisha Wellness & Spa 的巧克力之旅
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774769054658-spa1.jpg)
+![奢华体验：Avisha Wellness & Spa 的巧克力之旅](https://images.gobaligo.id/images/2026-03/1774769054658-spa1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774769055885-spa2.jpg)
+![奢华体验：Avisha Wellness & Spa 的巧克力之旅](https://images.gobaligo.id/images/2026-03/1774769055885-spa2.jpg)
 
 下午我们前往附近的 **Avisha Wellness**，体验了超特别的「**Love Escape**」双人按摩行程（2.5 小时，约 USD$155）。 一踏进小房间，浓郁的巧克力香气扑面而来。除了全身按摩，最特别的是用**巧克力颗粒去角质**，接着全身敷上**巧克力膜**。感觉自己就像被做成了巧克力点心一样！最后再泡个浪漫的花瓣浴，搭配一份精致的巧克力甜点大餐，虽然口味偏甜，但绝对是**巴厘岛**数一数二的奢华享受。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774768922372-r1.jpg)
+![奢华体验：Avisha Wellness & Spa 的巧克力之旅](https://images.gobaligo.id/images/2026-03/1774768922372-r1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774768923003-r2.jpg)
+![奢华体验：Avisha Wellness & Spa 的巧克力之旅](https://images.gobaligo.id/images/2026-03/1774768923003-r2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774768923637-r3.jpg)
+![奢华体验：Avisha Wellness & Spa 的巧克力之旅](https://images.gobaligo.id/images/2026-03/1774768923637-r3.jpg)
 
 ## 🍽️ 顶级庆生大餐：米其林指南餐厅 Cuca
 

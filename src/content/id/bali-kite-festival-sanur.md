@@ -26,7 +26,7 @@ _srcHash: f0535b9fd7b48d658caaf59737e64854
 
 Festival Layang-Layang Internasional (international kite festival) tahunan di Bali akan berlangsung pada 20-21 Juli di Pantai Padang Galak, Sanur. Ini adalah salah satu acara budaya paling colorful dan seru di Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0381acf98f09de3dc7f0b3d4f3abac5f.jpg)
+![Waktu dan Lokasi Festival](https://images.gobaligo.id/vocus/vocus_0381acf98f09de3dc7f0b3d4f3abac5f.jpg)
 
 ### **Sejarah di Balik Festival Layang-Layang**
 

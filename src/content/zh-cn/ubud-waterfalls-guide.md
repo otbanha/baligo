@@ -23,7 +23,7 @@ _srcHash: 52c77d250b18d30c38c68fb29d904b1f
 
 ## **Tegenungan瀑布：宏伟而宁静的瀑布**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6a9db9041f0434772c136e35c8293b08.jpg)
+![Tegenungan瀑布：宏伟而宁静的瀑布](https://images.gobaligo.id/vocus/vocus_6a9db9041f0434772c136e35c8293b08.jpg)
 
 **▶地点和进入方式**
 
@@ -71,7 +71,7 @@ https://youtu.be/-0KOzA9nPGY
 
 ## **Tukad Cepung瀑布：迷人的隐藏宝藏**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_83d5c4a6079fa0ee5aa98ce68a90fe06.jpg)
+![Tukad Cepung瀑布：迷人的隐藏宝藏](https://images.gobaligo.id/vocus/vocus_83d5c4a6079fa0ee5aa98ce68a90fe06.jpg)
 
 **▶隐藏的仙境**
 

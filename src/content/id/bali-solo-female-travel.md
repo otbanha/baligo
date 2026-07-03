@@ -24,7 +24,7 @@ _srcHash: eee75c5a05bdbb49f1c996b0794fed87
 
 Awalnya dapet info dari grup, jadi pengen balas budi. Bulan Maret kemarin aku solo trip ke Bali selama 8 hari. Karena di internet jarang ada info soal solo trip cewek ke Bali, kali ini aku mau share itinerary dan pengalamanku.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6152213cb48cec104b8463302a71617d.jpg)
+![8 Hari Jelajah Bali Sendirian - Cerita Solo Trip Cewek](https://images.gobaligo.id/vocus/vocus_6152213cb48cec104b8463302a71617d.jpg)
 
 Sebenernya di Bali banyak banget turis asing cewek yang traveling sendirian. Menurut pengalamanku, selama kamu jaga kewaspadaan dasar—misalnya jangan naik mobil orang asing, hindari kontak mata atau ngobrol sama cowok lokal yang iseng—kebanyakan penduduk lokal ramah dan aman kok.
 
@@ -44,11 +44,11 @@ https://youtu.be/UoGlRyAdyB8?si=zU9O679PYB4OFz3U
 
 10:30 AM - 4:30 PM: One Eighty. Fasilitasnya lengkap, pemandangannya cantik, makanannya juga berkualitas. Recommended banget beli VIP dan stay 6 jam.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775484439544-099a1c07-c28f-46a0-b084-620c9d8be763.jpg)
+![18 Maret - Minggu](https://images.gobaligo.id/images/2026-04/1775484439544-099a1c07-c28f-46a0-b084-620c9d8be763.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775484441733-94010308-3b40-4dff-aaf2-bde805a776a2.jpg)
+![18 Maret - Minggu](https://images.gobaligo.id/images/2026-04/1775484441733-94010308-3b40-4dff-aaf2-bde805a776a2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775484443433-d2afa4e9-95d6-4542-b6ba-b0fd80619d3a.jpg)
+![18 Maret - Minggu](https://images.gobaligo.id/images/2026-04/1775484443433-d2afa4e9-95d6-4542-b6ba-b0fd80619d3a.jpg)
 
 > Baca juga: [Eksplor Oneeighty Day Club: Kolam Renang Tepi Tebing Bali yang Super Indah](/blog/oneeighty-dayclub-uluwatu-pool/)
 
@@ -70,33 +70,33 @@ https://youtu.be/hQbBTktqEqY
 
 **6:00 PM**: Makan malam di restoran Jepang Kagemusha. Makanannya enak, suasananya asyik.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485583127-resize.jpeg)
+![19 Maret - Senin](https://images.gobaligo.id/images/2026-04/1775485583127-resize.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485583692-resize_1_.jpeg)
+![19 Maret - Senin](https://images.gobaligo.id/images/2026-04/1775485583692-resize_1_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485584078-resize_2_.jpeg)
+![19 Maret - Senin](https://images.gobaligo.id/images/2026-04/1775485584078-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485584497-resize_3_.jpeg)
+![19 Maret - Senin](https://images.gobaligo.id/images/2026-04/1775485584497-resize_3_.jpeg)
 
 ## **20 Maret, Selasa**
 
 **09:00** Mulai hari dengan jalan-jalan ke sawah terasering Abian Desa, nikmatin pemandangannya.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485447749-resize_1_.jpeg)
+![20 Maret, Selasa](https://images.gobaligo.id/images/2026-04/1775485447749-resize_1_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485448308-resize_2_.jpeg)
+![20 Maret, Selasa](https://images.gobaligo.id/images/2026-04/1775485448308-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485448712-resize_3_.jpeg)
+![20 Maret, Selasa](https://images.gobaligo.id/images/2026-04/1775485448712-resize_3_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485449072-resize_4_.jpeg)
+![20 Maret, Selasa](https://images.gobaligo.id/images/2026-04/1775485449072-resize_4_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485449875-resize.jpeg)
+![20 Maret, Selasa](https://images.gobaligo.id/images/2026-04/1775485449875-resize.jpeg)
 
 **11:00** Makan siang di Tis Cafe, restoran ini cantik banget, kayak mimpi.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485639513-resize.jpeg)
+![20 Maret, Selasa](https://images.gobaligo.id/images/2026-04/1775485639513-resize.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485639925-resize_1_.jpeg)
+![20 Maret, Selasa](https://images.gobaligo.id/images/2026-04/1775485639925-resize_1_.jpeg)
 
 **Siang** Jalan-jalan di pasar dan keraton Ubud.
 
@@ -110,9 +110,9 @@ https://youtu.be/JtxZHtijEkE
 
 **08:00** Pergi ke air terjun KantoLampo untuk foto-foto dan jalan-jalan. Sewa jasa fotografer pribadi sekali sekitar USD$3.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485795059-resize_2_.jpeg)
+![21 Maret, Rabu](https://images.gobaligo.id/images/2026-04/1775485795059-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485795494-resize.jpeg)
+![21 Maret, Rabu](https://images.gobaligo.id/images/2026-04/1775485795494-resize.jpeg)
 
 > Baca juga: [Gak Mau Ketinggalan Foto Keren di Air Terjun Bali? Cek Kanto Lampo Waterfall](/blog/kanto-lampo-waterfall-ig-spot/)
 
@@ -122,13 +122,13 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 **Sore** Main ke Pantai Saba Beach. Pantai ini lumayan banyak sampah di darat, jadi kurang populer. Tapi di dekat laut bersih, fotonya cantik banget. Matahari terik tanpa tempat berteduh, mending datang jam 4:00 PM - 6:30 PM.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485835808-resize_1_.jpeg)
+![21 Maret, Rabu](https://images.gobaligo.id/images/2026-04/1775485835808-resize_1_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485836239-resize_2_.jpeg)
+![21 Maret, Rabu](https://images.gobaligo.id/images/2026-04/1775485836239-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485836641-resize_3_.jpeg)
+![21 Maret, Rabu](https://images.gobaligo.id/images/2026-04/1775485836641-resize_3_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485837035-resize.jpeg)
+![21 Maret, Rabu](https://images.gobaligo.id/images/2026-04/1775485837035-resize.jpeg)
 
 **Makan malam** di restoran SHOOQ. Rekomendasi: Shawarma, sausnya dipisah semua, bisa ditambah sesuai selera.
 
@@ -157,19 +157,19 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 **14:00-17:00** Lanjut ke Kelingking Beach, ini spot paling hits di Nusa Penida.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485905937-resize_4_.jpeg)
+![22 Maret, Kamis](https://images.gobaligo.id/images/2026-04/1775485905937-resize_4_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485908837-resize_5_.jpeg)
+![22 Maret, Kamis](https://images.gobaligo.id/images/2026-04/1775485908837-resize_5_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485909163-resize_6_.jpeg)
+![22 Maret, Kamis](https://images.gobaligo.id/images/2026-04/1775485909163-resize_6_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485909990-resize.jpeg)
+![22 Maret, Kamis](https://images.gobaligo.id/images/2026-04/1775485909990-resize.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485910386-resize_1_.jpeg)
+![22 Maret, Kamis](https://images.gobaligo.id/images/2026-04/1775485910386-resize_1_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485910891-resize_2_.jpeg)
+![22 Maret, Kamis](https://images.gobaligo.id/images/2026-04/1775485910891-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485916831-resize_3_.jpeg)
+![22 Maret, Kamis](https://images.gobaligo.id/images/2026-04/1775485916831-resize_3_.jpeg)
 
 > Baca juga: [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)
 
@@ -179,21 +179,21 @@ Di Nusa Penida, satu-satunya cara ya sewa mobil. Aku pesan tiket kapal + sewa mo
 
 **18:00** Nongkrong di Penida Colada Beach Bar, pesan minuman
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485969886-resize_6_.jpeg)
+![22 Maret, Kamis](https://images.gobaligo.id/images/2026-04/1775485969886-resize_6_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485985948-resize_7_.jpeg)
+![22 Maret, Kamis](https://images.gobaligo.id/images/2026-04/1775485985948-resize_7_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485986764-resize.jpeg)
+![22 Maret, Kamis](https://images.gobaligo.id/images/2026-04/1775485986764-resize.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485989491-resize_1_.jpeg)
+![22 Maret, Kamis](https://images.gobaligo.id/images/2026-04/1775485989491-resize_1_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485989875-resize_2_.jpeg)
+![22 Maret, Kamis](https://images.gobaligo.id/images/2026-04/1775485989875-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485990295-resize_3_.jpeg)
+![22 Maret, Kamis](https://images.gobaligo.id/images/2026-04/1775485990295-resize_3_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485990765-resize_4_.jpeg)
+![22 Maret, Kamis](https://images.gobaligo.id/images/2026-04/1775485990765-resize_4_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485991344-resize_5_.jpeg)
+![22 Maret, Kamis](https://images.gobaligo.id/images/2026-04/1775485991344-resize_5_.jpeg)
 
 **20:00**  balik ke penginapan istirahat
 
@@ -201,27 +201,27 @@ Di Nusa Penida, satu-satunya cara ya sewa mobil. Aku pesan tiket kapal + sewa mo
 
 **05:00**  bangun pagi-pagi menuju spot pohon rumah untuk nunggu sunrise
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486048013-resize_1_.jpeg)
+![23 Maret, Jumat](https://images.gobaligo.id/images/2026-04/1775486048013-resize_1_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486048494-resize_8_.jpeg)
+![23 Maret, Jumat](https://images.gobaligo.id/images/2026-04/1775486048494-resize_8_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486049511-resize.jpeg)
+![23 Maret, Jumat](https://images.gobaligo.id/images/2026-04/1775486049511-resize.jpeg)
 
 **Setelah sunrise**  lanjut eksplor Diamond Beach, pantai pasir putih impian
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486089768-resize_2_.jpeg)
+![23 Maret, Jumat](https://images.gobaligo.id/images/2026-04/1775486089768-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486090201-resize_3_.jpeg)
+![23 Maret, Jumat](https://images.gobaligo.id/images/2026-04/1775486090201-resize_3_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486090638-resize_4_.jpeg)
+![23 Maret, Jumat](https://images.gobaligo.id/images/2026-04/1775486090638-resize_4_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486091038-resize_5_.jpeg)
+![23 Maret, Jumat](https://images.gobaligo.id/images/2026-04/1775486091038-resize_5_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486091502-resize_6_.jpeg)
+![23 Maret, Jumat](https://images.gobaligo.id/images/2026-04/1775486091502-resize_6_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486092014-resize.jpeg)
+![23 Maret, Jumat](https://images.gobaligo.id/images/2026-04/1775486092014-resize.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486092563-resize_1_.jpeg)
+![23 Maret, Jumat](https://images.gobaligo.id/images/2026-04/1775486092563-resize_1_.jpeg)
 
 **Siang**  mampir lagi ke Penida Colada Beach Bar buat makan siang
 
@@ -229,21 +229,21 @@ Di Nusa Penida, satu-satunya cara ya sewa mobil. Aku pesan tiket kapal + sewa mo
 
 **14:40**  panggil taksi menuju Le Cielo Villa di Seminyak buat nginep
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486145121-resize_7_.jpeg)
+![23 Maret, Jumat](https://images.gobaligo.id/images/2026-04/1775486145121-resize_7_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486149163-resize.jpeg)
+![23 Maret, Jumat](https://images.gobaligo.id/images/2026-04/1775486149163-resize.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486153064-resize_1_.jpeg)
+![23 Maret, Jumat](https://images.gobaligo.id/images/2026-04/1775486153064-resize_1_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486153481-resize_2_.jpeg)
+![23 Maret, Jumat](https://images.gobaligo.id/images/2026-04/1775486153481-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486155798-resize_3_.jpeg)
+![23 Maret, Jumat](https://images.gobaligo.id/images/2026-04/1775486155798-resize_3_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486156672-resize_4_.jpeg)
+![23 Maret, Jumat](https://images.gobaligo.id/images/2026-04/1775486156672-resize_4_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486157120-resize_5_.jpeg)
+![23 Maret, Jumat](https://images.gobaligo.id/images/2026-04/1775486157120-resize_5_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486157534-resize_6_.jpeg)
+![23 Maret, Jumat](https://images.gobaligo.id/images/2026-04/1775486157534-resize_6_.jpeg)
 
 ![訂房優惠請按我](https://images.gobaligo.id/vocus/vocus_f7010c765684fab833955dda6b4e5836.jpg)
 

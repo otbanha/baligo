@@ -24,7 +24,7 @@ lang: en
 _srcHash: 4e7c60e358e7138e38d4f0d2de3e6ab9
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_93ba80c66bbeb7d6d88fcee66ca33fac.png)
+![Bali Money Exchange Horror Story: A Traveler's Firsthand Acc](https://images.gobaligo.id/vocus/vocus_93ba80c66bbeb7d6d88fcee66ca33fac.png)
 
 The incident happened on the streets of Ubud. They were originally planning to exchange money at 'BMC,' recommended by their hotel, but along the way, they passed by an exchange booth advertising a rate of '16675,' significantly higher than the normal rate of around 16325 that day. One of the group members thought it was a rare opportunity and decided to exchange there. Everything seemed fine at first, but when other members went in to exchange, the nightmare began...
 
@@ -45,7 +45,7 @@ How did they do it? Here's how the scam unfolded:
 
 ### **Netizens' Blood and Tears: This Isn't an Isolated Incident!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d5349e8eafe348b139cbac9a4ce74ddb.jpg)
+![Netizens' Blood and Tears: This Isn't an Isolated Incident!](https://images.gobaligo.id/vocus/vocus_d5349e8eafe348b139cbac9a4ce74ddb.jpg)
 
 ### **網友血淚經驗談：這不是單一事件！**
 
@@ -73,7 +73,7 @@ After my friend posted their experience online, many netizens also shared their 
 
 ## **Bali Money Exchange Safety Tips: Protect Your Hard-Earned Cash**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_790c4aaf4dab053d3e6bae094881f2f9.jpg)
+![Bali Money Exchange Safety Tips: Protect Your Hard-Earned Ca](https://images.gobaligo.id/vocus/vocus_790c4aaf4dab053d3e6bae094881f2f9.jpg)
 
 Based on suggestions from fellow travelers, here are some safety guidelines:
 

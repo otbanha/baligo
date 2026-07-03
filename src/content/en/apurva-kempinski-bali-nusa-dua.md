@@ -33,23 +33,23 @@ Bali has always been a popular vacation destination for travelers, and the Apurv
 
 ## First Impressions
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0ba7ec1336d306ac33ce9f09e61244ad.jpg)
+![First Impressions](https://images.gobaligo.id/vocus/vocus_0ba7ec1336d306ac33ce9f09e61244ad.jpg)
 
 Guests pass through security at the hotel entrance, and stepping into the lobby, they are awed by the opulent decor and soaring ceilings. As suite guests, they can check in at the spacious Cliff Lounge, which offers a different scene entirely: a private pool, bar, and open terrace with panoramic views of the main building and the sea. The suites are elegantly simple, with soft beige tones that create a warm and cozy ambiance. The balcony features a private infinity pool, where guests can lounge on sofas and soak in Bali's stunning landscapes.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf8ae667c6b5a147ec65b212288f8de7.jpg)
+![First Impressions](https://images.gobaligo.id/vocus/vocus_bf8ae667c6b5a147ec65b212288f8de7.jpg)
 
 ## Culinary Feast
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0722cd994a58476ddeb92b7e27372965.jpg)
+![Culinary Feast](https://images.gobaligo.id/vocus/vocus_0722cd994a58476ddeb92b7e27372965.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_909669893fdde6fb3613b61b9e2de9cf.jpg)
+![Culinary Feast](https://images.gobaligo.id/vocus/vocus_909669893fdde6fb3613b61b9e2de9cf.jpg)
 
 The hotel's most captivating feature is its renowned aquarium restaurant, KORAL. Located on the lower level, the restaurant is surrounded by a massive aquarium, with box seats allowing guests to watch tropical fish glide by up close—a visually stunning experience. Guests who order the "KORAL Discovery Menu" enjoy creative dishes with exquisite presentation, using fresh local ingredients that taste light and refreshing. Beyond the main courses, the pre-meal croissants and mixed salad with vinaigrette are also memorable and appetizing.
 
 [Aquarium Restaurant Dining Experience from USD$100](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90340-koral-restaurant-dining-the-apurva-kempinski-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd2225956a4)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ba53c5ecb5f27b7b8c273c29a84450be.jpg)
+![Culinary Feast](https://images.gobaligo.id/vocus/vocus_ba53c5ecb5f27b7b8c273c29a84450be.jpg)
 
 The hotel's Cliff Lounge serves a variety of cocktails and fine snacks, making it an ideal spot to watch the sunset. During afternoon tea, Selasar Dele offers an extensive selection of sweet and savory treats and hot drinks, leaving guests feeling like they can't finish it all. Breakfast is served at the Pala restaurant's buffet area, with clearly divided sections for Chinese, Indonesian, Western, and other cuisines, catering to diverse tastes.
 
@@ -65,21 +65,21 @@ The Breathtaking Views of Selasar Deli Afternoon Tea
 
 ## Extensive Facilities
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_47d3a5babc0a5ecb929b2e148990adf9.jpg)
+![Extensive Facilities](https://images.gobaligo.id/vocus/vocus_47d3a5babc0a5ecb929b2e148990adf9.jpg)
 
 The hotel's facilities are top-notch. The gym is spacious with a solid, level floor, and floor-to-ceiling windows make the workout space even more inviting. The spa offers traditional Balinese treatments like hot stone massages. The Kid's Club is a dedicated play area for children, featuring a game room, reading room, and more.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ff66fdd5f84ad3f3f1b8b1c84321167.jpg)
+![Extensive Facilities](https://images.gobaligo.id/vocus/vocus_6ff66fdd5f84ad3f3f1b8b1c84321167.jpg)
 
 The private beach is the hotel's greatest asset, almost feeling like a secluded stretch of sand just for guests. The fine white sand is soft, and the expansive beach is lined with sun loungers, pools, and the REEH BEACH CLUB restaurant, allowing guests to relax here all day long. There's also the unique water sport of 'water balls,' where visitors can walk across the water inside a giant orb. The pool in front of the main building is equally impressive, with a poolside bar serving snacks and drinks—an ideal spot to unwind.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_76729aaf5f976905c196a129eec8168d.jpg)
+![Extensive Facilities](https://images.gobaligo.id/vocus/vocus_76729aaf5f976905c196a129eec8168d.jpg)
 
 ## Attentive Service
 
 As a newly opened hotel, Apurva Kempinski boasts brand-new, top-tier hardware facilities that exude high quality throughout. The staff are exceptionally friendly and professional, making guests feel truly at home.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_60f2cbfeb4ec539f5c41a8eddff8d2f8.jpg)
+![Attentive Service](https://images.gobaligo.id/vocus/vocus_60f2cbfeb4ec539f5c41a8eddff8d2f8.jpg)
 
 Staying at Apurva Kempinski is an unforgettable luxury getaway—an unbeatable choice for exploring Bali. With its unparalleled natural beauty, modern luxury amenities, and thoughtful service, guests leave with a profound sense of value. This is a place worth revisiting to fully savor the leisurely moments!
 

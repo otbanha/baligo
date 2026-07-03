@@ -45,7 +45,7 @@ Bali Safari不像传统动物园，它设计了多种让游客与动物近距离
 
 ## 🏨 夜宿野生动物园：Mara River Safari Lodge全体验
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_48a0d20a925461edf1ebf06084a8e220.jpg)
+![夜宿野生动物园：Mara River Safari Lodge全体验](https://images.gobaligo.id/vocus/vocus_48a0d20a925461edf1ebf06084a8e220.jpg)
 
 ### 住宿选择：宽敞舒适的KIFARA家庭房
 
@@ -61,7 +61,7 @@ Bali Safari不像传统动物园，它设计了多种让游客与动物近距离
 - 住宿客人免费喂食，一日游客人需额外付费
   **与大象亲密接触**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_23dd2debd50dce6286f3bac4b38e501a.jpg)
+![专属福利：住宿客人独享的动物互动](https://images.gobaligo.id/vocus/vocus_23dd2debd50dce6286f3bac4b38e501a.jpg)
 
 - 游泳时可能遇到值班大象载着游客向你走来
 - 酒店赠送的一篮水果（苹果、芒果、香蕉）可喂食大象
@@ -77,7 +77,7 @@ Bali Safari不像传统动物园，它设计了多种让游客与动物近距离
 
 ### 夜间Safari体验
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5fa7bf128755b8b15e16f9d8430efba7.jpg)
+![夜间Safari体验](https://images.gobaligo.id/vocus/vocus_5fa7bf128755b8b15e16f9d8430efba7.jpg)
 
 园区推出夜间「Night Safari」行程，包含：
 
@@ -93,7 +93,7 @@ Bali Safari不像传统动物园，它设计了多种让游客与动物近距离
 
 ## 🗓️ 完美行程规划
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4003d7d14e61bfa23fdb225e3da15ed8.jpg)
+![完美行程规划](https://images.gobaligo.id/vocus/vocus_4003d7d14e61bfa23fdb225e3da15ed8.jpg)
 
 ### 推荐必看表演与活动
 
@@ -114,13 +114,13 @@ Bali Safari不像传统动物园，它设计了多种让游客与动物近距离
 
 ## 🐘 适合各年龄层的活动建议
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_82a2a745225e95c372e193f37e56fa60.jpg)
+![适合各年龄层的活动建议](https://images.gobaligo.id/vocus/vocus_82a2a745225e95c372e193f37e56fa60.jpg)
 
 ### 按年龄推荐活动
 
 **年龄层推荐活动**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4b09794f279b554fc896f533c28236c9.jpg)
+![按年龄推荐活动](https://images.gobaligo.id/vocus/vocus_4b09794f279b554fc896f533c28236c9.jpg)
 
 **2-4岁**
 
@@ -136,7 +136,7 @@ Bali Agung Show、老虎秀
 
 **1. Safari Journey游园车**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0f0fe4668967c56fac9ce5a18e2c3664.jpg)
+![必体验活动](https://images.gobaligo.id/vocus/vocus_0f0fe4668967c56fac9ce5a18e2c3664.jpg)
 
 - 园区招牌活动，搭乘有空调的Safari Bus观赏大部分园区动物
 - 安全近距离观看长颈鹿、斑马、狮子等野生动物
@@ -177,7 +177,7 @@ Bali Agung Show、老虎秀
 - 相机捕捉难得时刻
 - 轻松的心情和探索的好奇心
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0c1629a05b76a6ff80f296309e982fd1.jpg)
+![准备物品](https://images.gobaligo.id/vocus/vocus_0c1629a05b76a6ff80f296309e982fd1.jpg)
 
 ## 🌟 总结
 

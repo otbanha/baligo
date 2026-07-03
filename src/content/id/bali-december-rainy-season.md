@@ -25,7 +25,7 @@ _srcHash: 30da34127bdb0012bb8de0d97fb29688
 Buat kamu yang lagi rencana liburan ke Bali akhir tahun atau awal tahun depan, udah lihat belum pengumuman terbaru dari BMKG (Badan Meteorologi, Klimatologi, dan Geofisika Indonesia) yang kami share di [grup Facebook](https://www.facebook.com/share/p/1DCH98qzUf/)? Ini adalah peringatan tentang hujan deras periode akhir Desember sampai awal Januari—momen yang paling perlu diwaspadai selama musim hujan.
 Sebagai penulis travel yang udah lama tinggal di Indonesia dan sering bolak-balik ke Bali, aku udah nyusun panduan biar rencana liburanmu Januari–Februari 2027 makin terarah.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_900409df53579a6382a92eb5f137d800.jpg)
+![Tips Liburan ke Bali Saat Musim Hujan (Desember–Februari)](https://images.gobaligo.id/vocus/vocus_900409df53579a6382a92eb5f137d800.jpg)
 
 ## 🌧 Curah Hujan Capai 300–500mm: Puncak Musim Hujan Akhir Desember–Awal Januari
 
@@ -55,7 +55,7 @@ Yang bakal kamu rasain biasanya:
 - Malam sering kembali tenang, bisa makan malam, jalan-jalan, foto-foto
 Jadi yang perlu kamu lakukan adalah '**manfaatin cuaca bagus di pagi hari**'.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f65b6856f52789decc1d59a008ae02ed.jpg)
+![Jangan Salah Paham! Musim Hujan Masih Ada Sinar Matahari, Te](https://images.gobaligo.id/vocus/vocus_f65b6856f52789decc1d59a008ae02ed.jpg)
 
 ## 🎒 **Rekomendasi Liburan ke Bali Januari–Februari 2027**
 
@@ -83,7 +83,7 @@ Masih bakal turun hujan sih, tapi ritmenya lebih kayak musim hujan biasa, nggak 
 
 ## 🌈 Musim Hujan di Bali, Ternyata Seru Juga
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_30a080584a5be323dabd95d7c05fdcf7.jpg)
+![Musim Hujan di Bali, Ternyata Seru Juga](https://images.gobaligo.id/vocus/vocus_30a080584a5be323dabd95d7c05fdcf7.jpg)
 
 Jujur, aku pribadi suka banget sama Bali di musim hujan. Setelah hujan reda, seluruh pulau kayak habis dicuci: udaranya segar, hijaunya makin pekat, debit air terjun melimpah, dan sawah di Ubud jadi kayak lukisan. Plus, turis lebih sedikit dibanding musim ramai, akomodasi lebih murah — buat kamu yang suka slow travel, foto alam, kulineran, atau spa, periode ini malah lebih nyaman daripada musim ramai.
 

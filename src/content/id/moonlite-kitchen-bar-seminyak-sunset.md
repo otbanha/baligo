@@ -32,13 +32,13 @@ _srcHash: de30b44dc452957a1c137e8be873a321
 
 Kalau kamu lagi merencanakan liburan ke Bali, MoonLite Kitchen and Bar di Seminyak wajib banget masuk itinerary. Restoran ini nggak cuma menang penghargaan Travelers' Choice 2024, tapi juga terkenal dengan lokasi rooftop-nya yang kece dan pemandangan sunset yang memukau. Jadi favorit banyak turis dan lokal.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c3116c8e96d04b55300645c652026c0a.jpg)
+![【Restoran Sunset Seminyak】MoonLite Kitchen and Bar: Rooftop ](https://images.gobaligo.id/vocus/vocus_c3116c8e96d04b55300645c652026c0a.jpg)
 
 ## Suasana & Pemandangan
 
 Yang paling bikin MoonLite Kitchen and Bar spesial adalah pemandangannya yang juara. Restoran ini ada di rooftop, punya area dek yang menghadap laut. Pas sunset, langit berubah jadi keemasan, garis pantai di kejauhan berpadu dengan sinar mentari — pokoknya spot foto yang Instagramable banget. Kalau mau view terbaik, saran aku reservasi kursi di pinggir balkon. Pemandangannya worth it banget buat usaha ekstra.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_674ee74440c72c45e1bd53fb44a24b28.jpg)
+![Suasana & Pemandangan](https://images.gobaligo.id/vocus/vocus_674ee74440c72c45e1bd53fb44a24b28.jpg)
 
 ## Pengalaman Kuliner
 
@@ -46,23 +46,23 @@ Menu andalannya masakan Asia Tenggara modern, rasanya autentik dan cocok banget 
 
 Soal harga, MoonLite Kitchen and Bar termasuk kelas menengah ke atas, sedikit lebih mahal dari restoran biasa. Tapi kalau lihat suasana dan kualitas makanannya, harga segitu masih oke. Minumannya kisaran harga sama kayak di hotel, masih wajar.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0a3864dc336d38a65972c371aefaa416.jpg)
+![Pengalaman Kuliner](https://images.gobaligo.id/vocus/vocus_0a3864dc336d38a65972c371aefaa416.jpg)
 
 ## Pelayanan & Pengalaman
 
 Dari segi pelayanan, restoran ini standar aja. Stafnya ramah, tapi kadang karena tamu banyak, pelayanannya agak lambat. Kamu mungkin perlu ingetin mereka buat ambil pesanan atau kasih menu. Kalau datang rombongan, tempat duduknya luas banget, cocok buat kumpul-kumpul. Tapi kalau ada acara spesial (misal anniversary atau perayaan), saran aku reservasi dari jauh dan konfirmasi tempat duduk, biar nggak kayak pengalamanku — kursi yang sudah dipesan dipakai orang lain. Untungnya akhirnya dipindah ke pinggir balkon, jadi malah dapet view yang lebih bagus.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ddfd1d0ef97cf9a73865532cbeedb699.jpg)
+![Pelayanan & Pengalaman](https://images.gobaligo.id/vocus/vocus_ddfd1d0ef97cf9a73865532cbeedb699.jpg)
 
 ## Aktivitas Sekitar
 
 Restorannya dekat dengan pantai cantik di Seminyak, jadi setelah makan kamu bisa jalan-jalan santai sambil menikmati angin laut dan suasana tenang khas Bali. Kalau kamu tertarik dengan dunia masak-memasak, kamu juga bisa mampir ke dapur terbuka restoran untuk lihat langsung bagaimana para koki mengubah bahan segar jadi hidangan lezat.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_817ecc14f927df5954e877b4ffda63a3.jpg)
+![Aktivitas Sekitar](https://images.gobaligo.id/vocus/vocus_817ecc14f927df5954e877b4ffda63a3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6df0d543f919566fd7f68b9e73d2359f.jpg)
+![Aktivitas Sekitar](https://images.gobaligo.id/vocus/vocus_6df0d543f919566fd7f68b9e73d2359f.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cf122bf423f51ebba76c3b55b1af9c0e.jpg)
+![Aktivitas Sekitar](https://images.gobaligo.id/vocus/vocus_cf122bf423f51ebba76c3b55b1af9c0e.jpg)
 
 ## Kesimpulan
 

@@ -29,17 +29,17 @@ James Lin's experience suggests that if you're traveling with children, seniors 
 
 Another netizen, Zhou Jiuren, shared his experience of choosing to apply for an on-arrival visa upon arrival in Jakarta. He found himself in a queue of about 20 people and had to patiently wait. Two hours later, it was finally his turn to go through immigration. However, he was very disappointed with the efficiency, finding the entire process extremely time-consuming.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d4795a2a87033f9707380eee93dc2028.png)
+![Entry Options for Indonesia/Bali: On-Arrival Visa vs. E-Visa](https://images.gobaligo.id/vocus/vocus_d4795a2a87033f9707380eee93dc2028.png)
 
 Other group members who have experienced this firsthand responded:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_193f7fd3a8395cc01c0fd9f1f5e26aaf.png)
+![Entry Options for Indonesia/Bali: On-Arrival Visa vs. E-Visa](https://images.gobaligo.id/vocus/vocus_193f7fd3a8395cc01c0fd9f1f5e26aaf.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f52e815ec87fdcaf14859d6c996c30b3.jpg)
+![Entry Options for Indonesia/Bali: On-Arrival Visa vs. E-Visa](https://images.gobaligo.id/vocus/vocus_f52e815ec87fdcaf14859d6c996c30b3.jpg)
 
 Another group member, Huang Junjie, added some additional information:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d5ae856e88dfdd6239eb60a49618a6d5.png)
+![Entry Options for Indonesia/Bali: On-Arrival Visa vs. E-Visa](https://images.gobaligo.id/vocus/vocus_d5ae856e88dfdd6239eb60a49618a6d5.png)
 
 > Extended Reading: [Using the 'All Indonesia' Declaration System for Bali Entry in 2026｜1-Minute Guide to the Latest Process: From Landing to Customs to Baggage Claim](/blog/bali-all-indonesia-arrival-guide/)
 
@@ -49,15 +49,15 @@ From the experiences of some group members. They were fortunate to quickly obtai
 
 If you encounter a large crowd going through immigration procedures, the situation becomes entirely different. Waiting in line at the airport for over two hours not only tests travelers' patience but also means wasting precious vacation relaxation time.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_75e0b7b75b7ad28994890343c6c92319.png)
+![Why do I hear that the on-arrival visa is quick?](https://images.gobaligo.id/vocus/vocus_75e0b7b75b7ad28994890343c6c92319.png)
 
 > Further reading: [Indonesia/Bali eVOA Guide: Application Steps & Important Notes!](/blog/bali-evisa-application-guide/)
 
 Regarding on-site payment for visa on arrival, netizens' experiences vary significantly. Some report that payment was very quick with almost no queue, while others mention that during peak tourist seasons or when many flights arrive simultaneously, waiting times can be lengthy, sometimes exceeding an hour.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9c5c856be3a0a3b3d83a2591980933e3.jpg)
+![Why do I hear that the on-arrival visa is quick?](https://images.gobaligo.id/vocus/vocus_9c5c856be3a0a3b3d83a2591980933e3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ee9b6ab6d9b455c0a1cc65c4ddcb5b6e.jpg)
+![Why do I hear that the on-arrival visa is quick?](https://images.gobaligo.id/vocus/vocus_ee9b6ab6d9b455c0a1cc65c4ddcb5b6e.jpg)
 
 We strongly recommend applying for the **Electronic Visa on Arrival (e-VOA)** before departure. Why? Because when traveling, many things are unpredictable, especially the situation upon arrival at the airport. If you've already obtained your electronic visa, you can proceed directly through immigration upon arrival in Bali, saving time queuing for payment and filling out forms, and avoiding potential hassles due to language barriers or requests for tips.
 

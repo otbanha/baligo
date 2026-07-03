@@ -47,7 +47,7 @@ _srcHash: 0539aa9a3202e6b26a52b70bb6555916
 
 如果你到印尼旅游，一定要试试 **Nasi Goreng Petai（臭豆炒饭）**。乍听之下有点挑战，但其实臭豆加在经典的印尼炒饭里，经过热锅快炒，原本浓烈的味道会被驯化，反而释放出一种淡淡的、类似坚果与青草的香气。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778028180819-nasigoreng_petai.jpeg)
+![在印尼，我们其实很喜欢吃「臭豆炒饭」](https://images.gobaligo.id/images/2026-05/1778028180819-nasigoreng_petai.jpeg)
 
 米饭因为酱油、蒜头、辣椒与虾酱而咸香够味，配上几颗脆脆的臭豆，咬开时微微的苦甘与清脆口感，意外地平衡了炒饭的油腻。在雅加达或泗水的路边摊，一份 Nasi Goreng Petai 常常搭配煎蛋、炸鸡或虾饼，是许多印尼人的疗愈美食。
 

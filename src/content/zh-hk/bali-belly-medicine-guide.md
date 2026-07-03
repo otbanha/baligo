@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: b2b3157087be1bc95f5a016766e79610
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4d4eba54aefdb7fa2355dfd2cba7bd0b.png)
+![峇里島肚屙/腸胃炎/污水病點自救？Bali Belly 紓緩成藥攻略](https://images.gobaligo.id/vocus/vocus_4d4eba54aefdb7fa2355dfd2cba7bd0b.png)
 
 去到峇里島之後，最驚嘅唔係曬黑，而係突然間嘅 **Bali Belly（峇里島肚屙）**。無論係因為飲食水土不服、細菌感染，定係腸胃比較敏感，症狀一嚟真係會搞到成個旅程好狼狽。呢篇文章就幫大家整理一份「喺峇里島藥房就買得到嘅自救清單」，由補水、止屙、退燒到幾時應該睇醫生，一次過搞掂，遇到狀況都唔會慌！
 
@@ -29,7 +29,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 1. 口服補液鹽 (ORS) – 治療核心
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a81dcdb7ad41f0217c48c227f3d2376a.jpg)
+![1. 口服補液鹽 (ORS) – 治療核心](https://images.gobaligo.id/vocus/vocus_a81dcdb7ad41f0217c48c227f3d2376a.jpg)
 
 · 作用：預防同糾正肚屙引起嘅脫水，呢樣比單純止屙更重要。
 
@@ -39,7 +39,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 2. 止屙藥 (吸附劑) – 用於輕度肚屙
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_29f49f8dcdb2f01829087cc9573e464d.jpg)
+![2. 止屙藥 (吸附劑) – 用於輕度肚屙](https://images.gobaligo.id/vocus/vocus_29f49f8dcdb2f01829087cc9573e464d.jpg)
 
 · 作用：吸附腸道入面嘅細菌、毒素，舒緩症狀，唔係主要治療。
 
@@ -49,7 +49,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 3. 止瀉藥 (抗蠕動劑) – 應急使用
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f236c2f98d598a09ea38642c11f57cad.jpg)
+![3. 止瀉藥 (抗蠕動劑) – 應急使用](https://images.gobaligo.id/vocus/vocus_f236c2f98d598a09ea38642c11f57cad.jpg)
 
 · 作用：強效控制腹瀉次數，只係短期應急用（例如長途交通）。
 
@@ -59,7 +59,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 4. 止痛/退燒藥
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a30fbcb9351a7bd327b8c2e225f94572.jpg)
+![4. 止痛/退燒藥](https://images.gobaligo.id/vocus/vocus_a30fbcb9351a7bd327b8c2e225f94572.jpg)
 
 · 作用：舒緩肚痛、發燒。
 
@@ -69,7 +69,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 5. 腸胃解痙
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f1999375de63a55c0537c176c31bd193.jpg)
+![5. 腸胃解痙](https://images.gobaligo.id/vocus/vocus_f1999375de63a55c0537c176c31bd193.jpg)
 
 ·Scopma Plu (hyoscine）→ 直接放鬆腸胃平滑肌, 減緩絞痛
 

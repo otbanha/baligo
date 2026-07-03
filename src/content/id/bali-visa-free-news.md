@@ -23,7 +23,7 @@ _srcHash: e6558e46b4b332ba94c581fc8fcd69ae
 
 Bali, surga wisata yang kece abis, lagi dapat kabar baik yang bikin semangat. Buat kamu yang berencana liburan ke Bali akhir 2024 sampai awal 2025, ini dobel kejutan! Yuk, kita intip lebih dalam.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f85fa645aa1e3c8e6f8072438ebb869.png)
+![Dobel Kejutan, Siap-siap ke Bali!](https://images.gobaligo.id/vocus/vocus_9f85fa645aa1e3c8e6f8072438ebb869.png)
 
 ## Tambah Rute, Makin Gampang Jalan-jalan
 
@@ -41,7 +41,7 @@ Negara yang masuk daftar bebas visa termasuk **Taiwan**, **China**, Australia, I
 
 Buat traveler dari negara-negara ini, kebijakan bebas visa bakal bikin proses imigrasi jadi lebih gampang banget, hemat waktu dan biaya, jadi kamu bisa lebih santai rencanain liburan ke Indonesia atau Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aed753c113ee78e8ec5aa2c8a186485b.png)
+![Bebas Visa, Dorong Wisata](https://images.gobaligo.id/vocus/vocus_aed753c113ee78e8ec5aa2c8a186485b.png)
 
 ## Dua Kabar Baik, Sambut Puncak Wisata Baru
 

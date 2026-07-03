@@ -22,13 +22,13 @@ _srcHash: 9c08866751c60925d9812a60ccc40fb5
 
 巴厘岛是世界知名的旅游胜地，吸引了来自全球的旅客。在您抵达巴厘岛后，确保旅程的顺利开始是非常重要的。本文将介绍几种从机场前往住宿地的交通选择，分析它们的优缺点，并比较这些方式适合哪一类型的游客。此外，还会分享一些抵达巴厘岛第一天的实用建议，确保您能妥善安排好所有必要事项。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_38be3952880eed542a841cd845dae0e2.png)
+![抵达巴厘岛：接机的交通选择及第一天的实用建议](https://images.gobaligo.id/vocus/vocus_38be3952880eed542a841cd845dae0e2.png)
 
 ## 巴厘岛适用的五种接机方式：
 
 ### 1.酒店接机服务
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4a470c5460357e7d1804c0a4459c0158.png)
+![1.酒店接机服务](https://images.gobaligo.id/vocus/vocus_4a470c5460357e7d1804c0a4459c0158.png)
 
 **优点：**
 
@@ -46,7 +46,7 @@ _srcHash: 9c08866751c60925d9812a60ccc40fb5
 
 ### 2.机场出租车
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17ac364acfdfbde04d7875db9b0b5fda.png)
+![2.机场出租车](https://images.gobaligo.id/vocus/vocus_17ac364acfdfbde04d7875db9b0b5fda.png)
 
 **优点：**
 
@@ -65,7 +65,7 @@ _srcHash: 9c08866751c60925d9812a60ccc40fb5
 
 ### 3.包车接机
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_030460f311b7bc1474d394d7ca2c1c3d.png)
+![3.包车接机](https://images.gobaligo.id/vocus/vocus_030460f311b7bc1474d394d7ca2c1c3d.png)
 
 **优点：**
 
@@ -87,7 +87,7 @@ _srcHash: 9c08866751c60925d9812a60ccc40fb5
 
 ### 4.Klook/KKday预订机场接送
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8364f77b753d918f2c5549655bed128a.png)
+![4.Klook/KKday预订机场接送](https://images.gobaligo.id/vocus/vocus_8364f77b753d918f2c5549655bed128a.png)
 
 **优点：**
 

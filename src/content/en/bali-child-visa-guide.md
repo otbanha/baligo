@@ -22,7 +22,7 @@ _srcHash: a8fcf57b28bcf092b8f65bca6b56ace2
 
 Taking a family vacation to Bali is a dream for many families. However, visa issues often cause headaches for parents before departure, especially questions like "What visa does my two-year-old need?" and "Does the whole family need to queue for visa on arrival together?" This article will answer all your questions, ensuring your family trip starts smoothly from the moment you arrive!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b12e310451ce513776f9b8ae272b6ee.png)
+![Complete Guide to Children's Visas for Bali Family Trips](https://images.gobaligo.id/vocus/vocus_9b12e310451ce513776f9b8ae272b6ee.png)
 
 ## Can a Two-Year-Old Apply for an Electronic Visa?
 
@@ -61,7 +61,7 @@ While it's theoretically possible to opt for visa-on-arrival for the entire fami
 
 ## Practical Experience Sharing: Arrival at Bali Airport
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf7e7e7e9e394b75fc46a3b7bffd0242.png)
+![Practical Experience Sharing: Arrival at Bali Airport](https://images.gobaligo.id/vocus/vocus_bf7e7e7e9e394b75fc46a3b7bffd0242.png)
 
 Based on real experiences shared by community members, the arrival process at Bali Airport is now very modern and user-friendly. Here’s what to expect when traveling with children:
 
@@ -85,7 +85,7 @@ Practical experience shows:
 
 A parent visiting Bali shared: 'When customs officers saw our family had only one child who couldn't use automated clearance, they immediately took the child to a dedicated counter nearby. The efficiency was remarkable, with no queuing at all.'
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_76c9b5544365f93581cd66180920e6d7.png)
+![What about children under 6?](https://images.gobaligo.id/vocus/vocus_76c9b5544365f93581cd66180920e6d7.png)
 
 ## Steps to Apply for an E-Visa
 
@@ -95,7 +95,7 @@ A parent visiting Bali shared: 'When customs officers saw our family had only on
 4. **Online Payment**: **IDR 500,000** per person, payable by credit card\*\*(transaction fees apply)\*\*
 5. **Receive Visa**: Usually received within 12 hours, remember to print or save it on your phone
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a0603b99fe6343a76c317f76555a027a.png)
+![Steps to Apply for an E-Visa](https://images.gobaligo.id/vocus/vocus_a0603b99fe6343a76c317f76555a027a.png)
 
 **Further Reading:** [Bali, Indonesia Entry Using 'All Indonesia' Arrival Card｜1-Minute Guide to the Latest Process: From Disembarking to Customs Clearance and Baggage Claim](/blog/bali-all-indonesia-arrival-guide/)
 
@@ -120,7 +120,7 @@ A parent visiting Bali shared: 'When customs officers saw our family had only on
 ✅ **Utilize automated gates** - Fast entry for members over 6, dedicated lanes for those under 6
 ✅ **Don't worry** - Airport staff are friendly and professional, ready to assist families with children
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_73f1a040162a13ae8da89393c144d3ba.png)
+![Summary Recommendations](https://images.gobaligo.id/vocus/vocus_73f1a040162a13ae8da89393c144d3ba.png)
 
 Bali's entry system is now very well-developed and user-friendly. With proper preparation, entering with children can be smooth and stress-free. Families with kids, don't forget to check out our family travel column! Wishing you a wonderful family vacation!
 

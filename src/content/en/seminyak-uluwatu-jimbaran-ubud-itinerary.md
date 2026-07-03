@@ -24,7 +24,7 @@ _srcHash: 68961278a02d4ac3db9866103542b7a3
 
 This time, we traveled to Bali in July to attend a friend's wedding. The travel information for Bali is quite overwhelming, and it took us two to three months to plan the itinerary.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a22d6c37c8a63306b663eaf1af023ba8.jpg)
+![【Seminyak - Uluwatu - Jimbaran - Ubud】Complete Bali Itinerar](https://images.gobaligo.id/vocus/vocus_a22d6c37c8a63306b663eaf1af023ba8.jpg)
 
 During our pre-trip planning, we discovered that local traffic is chaotic, with drivers often refusing cross-region passengers or hiking up prices midway. To avoid these hassles, we decided to hire a private driver, which not only saved us the trouble of finding transportation but also made our trip smoother and more worry-free. Our driver was Komang WikaSutresna (introduced at the bottom). In the end, we felt that choosing a private driver was a truly wise decision!
 
@@ -72,15 +72,15 @@ Today’s itinerary took us from Jimbaran to Ubud. Along the way, we found that 
 
 Also, at Gefecon Villa Ubud where we stayed that night, there was a Taiwanese supervisor who was incredibly warm and helpful—she was happy to answer any questions we had.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780822969520-86325578.jpg)
+![Day 4:](https://images.gobaligo.id/images/2026-06/1780822969520-86325578.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780822970048-86325579.jpg)
+![Day 4:](https://images.gobaligo.id/images/2026-06/1780822970048-86325579.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780822970587-86325585.jpg)
+![Day 4:](https://images.gobaligo.id/images/2026-06/1780822970587-86325585.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780822971092-86334506.jpg)
+![Day 4:](https://images.gobaligo.id/images/2026-06/1780822971092-86334506.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780822971461-87102433.jpg)
+![Day 4:](https://images.gobaligo.id/images/2026-06/1780822971461-87102433.jpg)
 
 > Gefecon Villa Ubud [Best price on Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1770500)
 
@@ -132,7 +132,7 @@ At the end of the trip, we invited Komang to join us for dinner to thank him for
 
 In summary, for first-time visitors to Bali who want to explore attractions but lack direction, hiring a private driver is an excellent choice. Not only do you get professional advice, but route planning is also more convenient, and you don't have to worry about luggage.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1fd9d65047cadfd58a1e16cce702fbb1.jpg)
+![Recommended Private Driver Service](https://images.gobaligo.id/vocus/vocus_1fd9d65047cadfd58a1e16cce702fbb1.jpg)
 
 Our driver, Komang Wika Sutresna, is a very friendly person. When he heard we were attending a wedding, he was delighted and even shared his own wedding video from six months ago, along with a video call with his adorable son. Komang's English is decent, and he is very attentive. Feel free to ask him any questions during the trip—he will patiently answer them.
 
@@ -140,7 +140,7 @@ Komang takes every guest seriously. Throughout our journey, he was extremely met
 
 ### Driver Information:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d417da9787e70ff453294eb643a0276a.png)
+![Driver Information:](https://images.gobaligo.id/vocus/vocus_d417da9787e70ff453294eb643a0276a.png)
 
 - ID Line: 31011994bopeas
 - WhatsApp: +62 821-4433-9665

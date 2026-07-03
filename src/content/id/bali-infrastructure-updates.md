@@ -32,7 +32,7 @@ Pemerintah bakal mulai bangun Pusat Kebudayaan Bali di daerah Klungkung pada akh
 
 ## 3. **Pembangunan Menara Turyapada**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9ef21eaffced56df44feef966df44d3c.jpg)
+![3. Pembangunan Menara Turyapada](https://images.gobaligo.id/vocus/vocus_9ef21eaffced56df44feef966df44d3c.jpg)
 
 Menara Turyapada ditargetkan rampung pertengahan 2026, bakal jadi landmark baru yang ningkatin jangkauan komunikasi dan siaran di Bali, sekaligus dorong ekonomi daerah sekitarnya.
 
@@ -62,7 +62,7 @@ Di kawasan Sanur akan dibangun gedung parkir dan disediakan shuttle bus untuk me
 
 Rencana Jalan Lingkar Selatan Bali (JLS) diperkirakan akan dibangun di sepanjang sisi timur, selatan, dan barat semenanjung selatan Bali, dengan total panjang sekitar 36,5 km. Proyek ini bertujuan untuk memperbaiki kondisi lalu lintas di Bali selatan, mengurangi kemacetan di jalan-jalan utama, dan meningkatkan efisiensi konektivitas antar wilayah.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_72f78e28f3bd99c5de7b3888a31b57cf.jpg)
+![9. Rencana Jalan Lingkar Selatan Bali](https://images.gobaligo.id/vocus/vocus_72f78e28f3bd99c5de7b3888a31b57cf.jpg)
 
 Para pendukung mendesak agar proyek ini ditetapkan sebagai "Proyek Strategis Nasional" (PSN) untuk mendapatkan dukungan dana dari pemerintah pusat. Pada 29 Maret 2022, Kepala Dinas Pekerjaan Umum dan Perumahan Rakyat (PUPR) Provinsi Bali, IB Surya Suamba, mengonfirmasi bahwa Bupati Badung, I Nyoman Giri Prasta, telah menandatangani rekomendasi tertulis untuk mengubah proyek yang semula menggunakan skema kemitraan publik-swasta menjadi Proyek Strategis Nasional. Rekomendasi ini telah diajukan ke Kementerian Perencanaan Pembangunan Nasional (Bappenas). Jika disetujui, pemerintah pusat akan menanggung seluruh biaya.
 
@@ -77,7 +77,7 @@ Pembangunan jalan lingkar ini akan membantu mendistribusikan arus lalu lintas, m
 
 ## 10. **Jalan Tol Gilimanuk-Mengwi dan MRT Bali Selatan**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7302d77149a17f404dbbd2b8322bd71b.jpg)
+![10. Jalan Tol Gilimanuk-Mengwi dan MRT Bali Selatan](https://images.gobaligo.id/vocus/vocus_7302d77149a17f404dbbd2b8322bd71b.jpg)
 
 Proyek Jalan Tol Gilimanuk-Mengwi akan terus dilanjutkan, dan akan ditambah dengan sistem MRT Bali Selatan untuk semakin meningkatkan kemudahan transportasi di kawasan wisata populer selatan serta mengurangi tekanan lalu lintas.
 

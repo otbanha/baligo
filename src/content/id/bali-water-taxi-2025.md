@@ -52,7 +52,7 @@ Proyek ini dianggap sebagai tonggak penting dalam pengembangan pariwisata ke dep
 
 ## Detail Rute Taksi Laut GoBoat
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_758cb8328c22d3ffda18f453d04f626c.png)
+![Detail Rute Taksi Laut GoBoat](https://images.gobaligo.id/vocus/vocus_758cb8328c22d3ffda18f453d04f626c.png)
 
 Rute taksi laut baru ini akan memiliki tiga titik pemberhentian utama:
 

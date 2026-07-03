@@ -17,7 +17,7 @@ lang: zh-cn
 _srcHash: cf55c43f26cf9ed4897138539a805b43
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_53ad30b22fb7ff7092abe536a294b524.jpg)
+![巴厘岛同一个地方待四天能玩什么？四天乌布之旅程记录](https://images.gobaligo.id/vocus/vocus_53ad30b22fb7ff7092abe536a294b524.jpg)
 
 乌布是所有去到巴厘岛的旅客不能错过的地方,这名Youtube网红[[Jits into the Sunset](https://www.youtube.com/@JitsIntoTheSunset)]发布在网络上的视频,带大家认识这个文化荟萃之都。
 

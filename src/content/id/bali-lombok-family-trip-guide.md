@@ -94,17 +94,17 @@ Dokumentasi oleh Libra Li
 
 Jarak jalan kaki ke pantai sekitar 15 menit — worth it banget buat yang cari akomodasi dengan harga terjangkau.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780840649186-580705156.jpg)
+![Minggu, 4 Agustus: Tiba di Bali - Sewa Motor & Makan Malam](https://images.gobaligo.id/images/2026-06/1780840649186-580705156.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780840649662-580705490.jpg)
+![Minggu, 4 Agustus: Tiba di Bali - Sewa Motor & Makan Malam](https://images.gobaligo.id/images/2026-06/1780840649662-580705490.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780840650157-587688827.jpg)
+![Minggu, 4 Agustus: Tiba di Bali - Sewa Motor & Makan Malam](https://images.gobaligo.id/images/2026-06/1780840650157-587688827.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780840650560-580703456.jpg)
+![Minggu, 4 Agustus: Tiba di Bali - Sewa Motor & Makan Malam](https://images.gobaligo.id/images/2026-06/1780840650560-580703456.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780840651087-580704177.jpg)
+![Minggu, 4 Agustus: Tiba di Bali - Sewa Motor & Makan Malam](https://images.gobaligo.id/images/2026-06/1780840651087-580704177.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780840651588-580704246.jpg)
+![Minggu, 4 Agustus: Tiba di Bali - Sewa Motor & Makan Malam](https://images.gobaligo.id/images/2026-06/1780840651588-580704246.jpg)
 
 > ▶ Link booking Sara Residence: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=186649) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685291&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6xMTFJMEkdZqJ49zB5weYhZgNDUwMHjBabJV37D_0VSNGu8rBs1pknftDnQaHAJ6IKQeeT2NPvMuusLXzto9DFyMrWGAG4-uXmhsZZ80Egp0RDjsYWU4wPhFawHTv1ivGUyzMHKeZL7HsYoyuVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg28TUUs_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBSEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLgswtgvIz8_Mgug1QxMISc0pTISqB9rmlQq0wrI19xMIUHfuJheEXC0MTK0MXKzNHD9MkIPlEaBcrn5mXkYeTt65hmK6Tqa7LBdYPIlKKhgYGBkampkbmugaJlhZJiQZGuiaWJsbGQMrMyMTUxFDjXtfjQ0-NjaylICGowKglGB_i6eliWFKYalZYaplTVGBqwHiKUcrQ3NjC0MjQ0MjIyNJYz8QizazYIq_YIjcrwoMxiM3C1NTR1SDKhos5NNhFsNCW6_piA2kHKeaQcBfFlTeZ1x6YcNpei9nTJcjw3n-WXG1lS_tAiy9i_O8tF9hHwuSTWKsydEPCM3rFCxgbGJm6GLkFGD0YIxgrgDzGVYzsXMwGJoYCLBsYGXcw_ocBxleMIEsA_fdKbUACAAA&masterhotelid_tracelogid=100025527-0a98ba02-494332-4624541&detailFilters=17|1~17~1*31|685291~31~685291*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=180&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/TxX6cCEc)
 
@@ -172,13 +172,13 @@ Pengalaman nginep di **Mövenpick Resort Jimbaran** bener-bener menyenangkan. Aw
 
 Jam 4 sore, hotel juga ngasih **Candy Bar gratis** yang disukai banget sama anak-anak. Aneka permen dan camilan bikin mereka heboh. Layanan ini wajib banget dicoba, apalagi buat keluarga yang bawa anak kecil. Selain itu, meskipun kami udah check-out, hotel tetap izinin kami pakai fasilitasnya, jadi anak-anak bisa lanjut main dan nikmatin kolam renang serta fasilitas lainnya.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780841023008-264423318.jpeg)
+![7 Agustus (Rabu) Movenpick Resort & Spa Jimbaran Bali + Jimb](https://images.gobaligo.id/images/2026-06/1780841023008-264423318.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780841023521-287058610.jpeg)
+![7 Agustus (Rabu) Movenpick Resort & Spa Jimbaran Bali + Jimb](https://images.gobaligo.id/images/2026-06/1780841023521-287058610.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780841024033-435107955.jpeg)
+![7 Agustus (Rabu) Movenpick Resort & Spa Jimbaran Bali + Jimb](https://images.gobaligo.id/images/2026-06/1780841024033-435107955.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780841024445-movenpick-resort-spa-jimbaran-bali-5.jpeg)
+![7 Agustus (Rabu) Movenpick Resort & Spa Jimbaran Bali + Jimb](https://images.gobaligo.id/images/2026-06/1780841024445-movenpick-resort-spa-jimbaran-bali-5.jpeg)
 
 > ▶Mövenpick Resort Jimbaran 訂房連結 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1615522) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6373265&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazMLFJMEk1cPCMa3nwTk2IUYjA3mLr4KOSwpsua6vb3PwPHsGCF51OwTwREw58HwaeyJQfHHB_kCHRsZZM4FgZZhDFyMrWGoG48T_LcwbGcF6X6c47GBkOsG4XWEB0_2PnVKnWJg5OtkusXxliq5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDb2NxAz8AAKFKSWOGZAtaZnJiTXJqTWJIaUlkANMFMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQboIiFJeaUpkKcALTQLRVqh2GtDqbLn83pfdo988Wm3dhdbmJgjuJy8wFxuXFt7CMWpujYTywMv1gYmlgZuliZOU4xTQKS2xV2sfIEG_kEO0XoGupG6RpeYG1UllI0NDAwMDI1NTLXNUi0TEwyNLPQNbE0MTIz0zU0NzY1NjDUeHVl3YUnxkbWUpC4V2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xSgF1GBhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxOZqZuDs5Rxlw8Xs6RIk-EHv-fZ2a0t7KeaQcBfFD8uPeZt3nrbXAskZwuQC97zOOWFvvMA-EiafxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANq-PmcBAwAA&masterhotelid_tracelogid=100025527-0a9ab168-494266-1735301&detailFilters=17|1~17~1*31|6373265~31~6373265*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=216&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/JMjDzQtC)
 
@@ -206,13 +206,13 @@ https://youtu.be/UoGlRyAdyB8
 
 Malam ini kita nginep di **Puri Padma Hotel**, hotel yang terletak di area Ubud yang lebih tenang. Suasananya nyaman banget, cocok buat istirahat maksimal sebelum lanjut petualangan besok.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780841256175-58899769.jpg)
+![8 Agustus (Kamis) Santai di Movenpick Resort + Pindah ke Ubu](https://images.gobaligo.id/images/2026-06/1780841256175-58899769.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780841256534-58899605.jpg)
+![8 Agustus (Kamis) Santai di Movenpick Resort + Pindah ke Ubu](https://images.gobaligo.id/images/2026-06/1780841256534-58899605.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780841256980-58899150.jpg)
+![8 Agustus (Kamis) Santai di Movenpick Resort + Pindah ke Ubu](https://images.gobaligo.id/images/2026-06/1780841256980-58899150.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780841257386-207279886.jpg)
+![8 Agustus (Kamis) Santai di Movenpick Resort + Pindah ke Ubu](https://images.gobaligo.id/images/2026-06/1780841257386-207279886.jpg)
 
 > ▶ Link booking Puri Padma Hotel [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=624030) [Trip](https://hk.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1826711&checkIn=2026-12-02&checkOut=2026-12-03&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-PqYOFikmCSamThaNl7YjOzEKOBxW9BRwYQeJHg4Hn2DBAsSXEI4CkEixmUODQyglkiBQ4zGKfvz9_ImAYCz2wddjAyHWBkOsH4rFtsAdPJI1-ZTrGwcPS9Y7nE8pMpulopO7VSycpER6kksyQnVclK6emieU8b9jxf0aqko5SSWpwMFAKyEnPzS_NKgGxjSwtDUz0DA6BYSWKFZwpYb3JiTnJpTmJJakhlAdAMMx2lzGLnkqLMgqDU3MySklSgqrTEnOJUkHhQajFQJhksqOQHNKYIKpCZnwfRbogiFpaYU5oKcQTQQrdUqB2GtTqYbn82p_dp98wXm3YT63ZzarvdgBi3G9fGPmJhio79xMLwCxgXazaZNLEydLEyTGJl4fjyU2oXK5uZc4iRmd8F1kn7vKTkDQ0MDEwNjU1NdQ0SLRMtUhLNdU0sTczMLXQNjQzMzDVe3F82-ZWxkbUU65QDz6exKzBqCcaHeHq6GJYUppoVllrmFBWYGjCeYpQyNDe2MDQyNDQyMrI01jOxSDMrtsgrtsjNivBgDGJzdDI0M3CMsuFi9nQJEnx-f_uby7Mt7KVAPEUYTwvEM4TxAgOPz924WZDXPhImksRalaHr4Z1xRqyAsYuRW4DRgzGCsYKxgZFxFSPDBkbGHYz_YYDxFSPIMABwZ5kL6gIAAA&masterhotelid_tracelogid=100051355-0a9a8da7-494678-12067&detailFilters=17|1~17~1*31|1826711~31~1826711*80|0|1~80~0*29|1~29~1|2&display=exavg&subStamp=1656&isCT=true&isFlexible=F&locale=zh-HK&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17670361)
 
@@ -264,7 +264,7 @@ Hari ini tujuan pertama kita adalah **Monkey Forest Ubud (Sacred Monkey Forest S
 
 Siang harinya, kita ikut **Ketut's Bali Cooking Class**, ini pengalaman yang seru banget. Kelas masak ini nggak cuma ngajarin kita beberapa masakan tradisional Bali, tapi juga anak-anak bisa ikut serta tanpa biaya tambahan. Prosesnya interaktif dan edukatif, bikin anak-anak jadi tertarik sama masak, dan kita juga dapet banyak tips masak. Kelas ini benar-benar worth it buat sekeluarga.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6675b91e8be6f47759b14da4dcaf7419.jpg)
+![8月11日（日）Monkey Forest Ubud + Cooking Class + Campuhan Ridge ](https://images.gobaligo.id/vocus/vocus_6675b91e8be6f47759b14da4dcaf7419.jpg)
 
 ▶[**Pesan Ketut's Bali Cooking Class di Klook**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=928391&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23861-cooking-class-ketut-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D15b1727648)
 
@@ -352,7 +352,7 @@ Penyu yang terlihat saat island hopping di Gili T
 
 Malamnya, kita mampir ke **Pasar Malam Gili T**. Di sini banyak pedagang jual aneka jajanan lokal, jadi kita bisa cobain berbagai macam kuliner khas Bali. Suasana pasar malam ramai, pengunjung banyak, pilihan makanan beragam. Tapi kayaknya harganya kurang ramah di kantong.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1585db25c8a2397fdbff20cb10b84586.jpg)
+![15 Agustus (Kamis) Snorkeling Island Hopping + Pasar Malam G](https://images.gobaligo.id/vocus/vocus_1585db25c8a2397fdbff20cb10b84586.jpg)
 
 Setelah makan malam yang memuaskan, kami memilih pijat lokal dan menikmati sesi relaksasi. Di akhir hari itu, kami semua merasa tubuh dan pikiran benar-benar terisi ulang, siap untuk petualangan selanjutnya.
 
@@ -392,17 +392,17 @@ https://youtu.be/2zlyuSQXR3w
 
 Keluarga kami juga ikut beberapa permainan, anak-anak senang banget. Acara perayaan yang penuh nuansa lokal kayak gini tuh spesial banget — selain bikin wisatawan ngerasain suka cita hari raya, juga bikin kita makin paham sejarah dan budaya Indonesia.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842123714-187402078.jpg)
+![17 Agustus (Sabtu) Holiday Resort Lombok — Acara Spesial Har](https://images.gobaligo.id/images/2026-06/1780842123714-187402078.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842124125-187402091.jpg)
+![17 Agustus (Sabtu) Holiday Resort Lombok — Acara Spesial Har](https://images.gobaligo.id/images/2026-06/1780842124125-187402091.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842124573-187408558.jpg)
+![17 Agustus (Sabtu) Holiday Resort Lombok — Acara Spesial Har](https://images.gobaligo.id/images/2026-06/1780842124573-187408558.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842125141-187408701.jpg)
+![17 Agustus (Sabtu) Holiday Resort Lombok — Acara Spesial Har](https://images.gobaligo.id/images/2026-06/1780842125141-187408701.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842125523-187903022.jpg)
+![17 Agustus (Sabtu) Holiday Resort Lombok — Acara Spesial Har](https://images.gobaligo.id/images/2026-06/1780842125523-187903022.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842126063-187903423.jpg)
+![17 Agustus (Sabtu) Holiday Resort Lombok — Acara Spesial Har](https://images.gobaligo.id/images/2026-06/1780842126063-187903423.jpg)
 
 > ▶[Link booking Holiday Resort Lombok](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10371)
 
@@ -440,13 +440,13 @@ Menjelang sore, kita sampai di **Taman Sangkareang**, salah satu pasar malam fav
 
 Malam ini kita nginep di **Lombok Raya Hotel**, hotel nyaman di pusat Mataram. Kamarnya luas dan bersih, sekitarnya juga mudah buat cari kebutuhan. Tempat ini ideal buat eksplor Mataram.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842249382-38029347.jpg)
+![18 Agustus (Minggu) Eksplorasi Kota Mataram + Menginap di Lo](https://images.gobaligo.id/images/2026-06/1780842249382-38029347.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842250083-183599889.jpg)
+![18 Agustus (Minggu) Eksplorasi Kota Mataram + Menginap di Lo](https://images.gobaligo.id/images/2026-06/1780842250083-183599889.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842251212-189718798.jpg)
+![18 Agustus (Minggu) Eksplorasi Kota Mataram + Menginap di Lo](https://images.gobaligo.id/images/2026-06/1780842251212-189718798.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842251606-569580149.jpg)
+![18 Agustus (Minggu) Eksplorasi Kota Mataram + Menginap di Lo](https://images.gobaligo.id/images/2026-06/1780842251606-569580149.jpg)
 
 ▶[Link booking Lombok Raya Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=97579)
 
@@ -502,17 +502,17 @@ Kiri: Sunset hiking di Novotel resort Lombok, ada pemandu yang anterin kami / Ka
 
 Yang paling berkesan buat kami adalah aktivitas eksplorasi **zona intertidal** di dekat hotel. Setiap kali air surut, kami ajak anak-anak untuk mengamati makhluk hidup di zona intertidal. Kami menemukan banyak hewan laut yang seru, seperti bintang laut, kepiting, dan berbagai ikan kecil. Eksplorasi ini bikin anak-anak makin tertarik sama ekologi alam, dan seluruh keluarga menikmati momen akrab dengan alam ini.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842474766-251656487.jpg)
+![21 Agustus (Rabu) – 24 Agustus (Sabtu): Waktu Santai di Novo](https://images.gobaligo.id/images/2026-06/1780842474766-251656487.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842475251-251656488.jpg)
+![21 Agustus (Rabu) – 24 Agustus (Sabtu): Waktu Santai di Novo](https://images.gobaligo.id/images/2026-06/1780842475251-251656488.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842475759-251656490.jpg)
+![21 Agustus (Rabu) – 24 Agustus (Sabtu): Waktu Santai di Novo](https://images.gobaligo.id/images/2026-06/1780842475759-251656490.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842476141-251656496.jpg)
+![21 Agustus (Rabu) – 24 Agustus (Sabtu): Waktu Santai di Novo](https://images.gobaligo.id/images/2026-06/1780842476141-251656496.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842476539-251656510.jpg)
+![21 Agustus (Rabu) – 24 Agustus (Sabtu): Waktu Santai di Novo](https://images.gobaligo.id/images/2026-06/1780842476539-251656510.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842476873-377035202.jpg)
+![21 Agustus (Rabu) – 24 Agustus (Sabtu): Waktu Santai di Novo](https://images.gobaligo.id/images/2026-06/1780842476873-377035202.jpg)
 
 ▶[Link Booking Novotel Lombok Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10372)
 
@@ -520,7 +520,7 @@ Novotel Lombok Resort punya arsitektur khas Suku Sasak yang keren banget, wajib 
 
 Novotel Lombok Resort juga punya Kid's Club, walaupun kecil, tapi bisa nitip anak tanpa biaya tambahan. Banyak turis asing yang nitip anak mereka main di sana, setiap hari ada aktivitas berbeda.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2ae1ab0d7586cddcf82115d28ca18e4a.jpg)
+![21 Agustus (Rabu) – 24 Agustus (Sabtu): Waktu Santai di Novo](https://images.gobaligo.id/vocus/vocus_2ae1ab0d7586cddcf82115d28ca18e4a.jpg)
 
 ***
 
@@ -534,7 +534,7 @@ Hari terakhir, kami packing barang dan siap mengakhiri perjalanan 26 hari ini. M
 
 Kami transit dari Kuala Lumpur, naik pesawat OD890 dini hari jam 03:20, dan akhirnya tiba di Kaohsiung jam 07:55, mengakhiri liburan yang indah ini. Perjalanan kali ini, baik untuk kami orang dewasa maupun anak-anak, penuh dengan kenangan dan pengalaman yang tak terlupakan. Dari eksplorasi kota hingga pemandangan alam yang menakjubkan, perjalanan keluarga ke Kuala Lumpur, Bali, dan Lombok ini sangat seru dan berkesan, bikin kami merasakan keragaman pesona Asia Tenggara. Nggak sabar menanti petualangan traveling selanjutnya!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2dbf473273852904e6fb1d32cada58ed.jpg)
+![25 Agustus (Minggu) Kuala Lumpur kembali ke Kaohsiung](https://images.gobaligo.id/vocus/vocus_2dbf473273852904e6fb1d32cada58ed.jpg)
 
 Kamu merasa perjalanan Libra Li seru banget? Yuk, segera rencanakan liburan seru ke Bali versi kamu sendiri! Jangan lupa juga kirim itinerary kamu ke grup ya!
 

@@ -25,7 +25,7 @@ _srcHash: af205f5bf322819e33e5e0f910c7749c
 
 根據現行規定，台灣或香港訪客可以申請落地簽證或付費申請電子落地簽（e-VOA），費用約USD$32（Rp. 500,000）。該文件有效期為30天，可以延期一次。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_62407b2522dba31e259fd695ae51864b.png)
+![旅遊便利升級！印尼或擬開放免簽，台灣遊客福利大增](https://images.gobaligo.id/vocus/vocus_62407b2522dba31e259fd695ae51864b.png)
 
 喺閱讀我哋嘅**「峇里島自由行究極旅行攻略」**之前，我哋誠摯咁邀請您先訂閱我哋更多視覺體驗分享嘅YouTube頻道**「小傑 印尼」**。[點擊呢度](http://bit.ly/youtube-jason)，立即訂閱
 

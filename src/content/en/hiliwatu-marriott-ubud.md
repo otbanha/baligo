@@ -36,7 +36,7 @@ _srcHash: a5fd66dde9f9b837eb5163c24fbf66da
 
 On January 15, 2026, Ubud, Bali welcomed a striking new landmark—**Hiliwatu, Bali Ubud**, the latest addition to Marriott International’s Tribute Portfolio in Indonesia. Nestled in the village of Bresela, about 9 kilometers north of Ubud, this hotel introduces a fresh chapter to Bali’s boutique hotel scene with its unique architectural design, deep cultural connections, and commitment to sustainability.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b650a19390bad70b88c0d6c9c06bd150.jpg)
+![New Ubud Landmark Opens: Hiliwatu, a Marriott Tribute Portfo](https://images.gobaligo.id/vocus/vocus_b650a19390bad70b88c0d6c9c06bd150.jpg)
 
 ## The Story Behind the Name
 
@@ -52,9 +52,9 @@ Unlike traditional hotel entrances, Hiliwatu features a dedicated **helipad**, a
 
 Stepping into the hotel, the first thing that captures your attention is the **stunning 24-meter-high lobby**. This space features sculptural architectural elements paired with cascading water features, where light dances across the water’s surface, creating an atmosphere that is both serene and awe-inspiring. The designers have masterfully blended modern architectural aesthetics with traditional Balinese elements, allowing every visitor to feel the space’s spirituality and power.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8e8d87b283a1457b4ea57c3ff9bf92e9.jpg)
+![A 24-Meter-High Lobby](https://images.gobaligo.id/vocus/vocus_8e8d87b283a1457b4ea57c3ff9bf92e9.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3327f8f080c3540d745eba743144671e.jpg)
+![A 24-Meter-High Lobby](https://images.gobaligo.id/vocus/vocus_3327f8f080c3540d745eba743144671e.jpg)
 
 ### The Pavilion: An Open-Air Chapel
 
@@ -89,7 +89,7 @@ As the hotel's flagship restaurant, Omber is renowned for its Mediterranean gril
 
 Overlooking the endless terraced rice paddies, sipping a signature cocktail here makes time seem to slow down.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_815310cb578a55d3a12c773c5e5ed205.jpg)
+![Culinary Delights: From Bali to the Mediterranean](https://images.gobaligo.id/vocus/vocus_815310cb578a55d3a12c773c5e5ed205.jpg)
 
 **A Healing Journey for Body and Soul: Samya Wellness**
 

@@ -20,7 +20,7 @@ _srcHash: dae99eb3988cdd6b6c1f0ee016e24c6b
 
 自2024年起，印尼將鼓勵計劃前往峇里島嘅遊客使用線上移民服務。遊客可以線上申請各種印尼簽證，亦可以線上辦理簽證延期手續，唔使再跑到移民局辦公室親自辦理啦！（2025/05/29最新更新：而家又改咗要去移民局辦公室按手指模囉！請睇[呢度](/blog/indonesia-visa-rules-2025/)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3251272747de6e2dc78cc7eb7b80f815.png)
+![2024印尼/峇里島線上延長簽證教學](https://images.gobaligo.id/vocus/vocus_3251272747de6e2dc78cc7eb7b80f815.png)
 
 ## **以下簽證類別而家可以線上進行延期手續：**
 
@@ -36,35 +36,35 @@ _srcHash: dae99eb3988cdd6b6c1f0ee016e24c6b
 
 首先，延長簽證嘅時機係喺**簽證到期前14-15日**開始提供。延長eVOA時前往網站<https://evisa.imigrasi.go.id/>，呢度係你申請eVOA嘅地方。登入你申請簽證時創建嘅個人帳號。唔好忘記剔"我唔係機械人"嘅方格。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7588f61376146af654817d34f825ab40.jpg)
+![點樣延長簽證呢？](https://images.gobaligo.id/vocus/vocus_7588f61376146af654817d34f825ab40.jpg)
 
 喺主頁上，搵到選單中嘅"extend"選項並點擊進入。喺列表入面搵到你嘅有效eVOA。如果呢次係你第一次延長簽證，咁列表入面應該只有一個項目。選擇佢。你唔需要填寫任何表格；所有資料都會自動從你嘅個人帳戶轉移過嚟。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c4b568bd6c4125eef1b63f378e2ef77.jpg)
+![點樣延長簽證呢？](https://images.gobaligo.id/vocus/vocus_1c4b568bd6c4125eef1b63f378e2ef77.jpg)
 
 跟住，我哋檢查地址，地址如果有更改，請相應地更新為有效地址。喺頁面底部，剔同意條款嘅方格，然後點擊"提交"按鈕。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ba194796e94419070d08435e6c11c16e.jpg)
+![點樣延長簽證呢？](https://images.gobaligo.id/vocus/vocus_ba194796e94419070d08435e6c11c16e.jpg)
 
 喺下一個頁面上，我哋檢查所有嘅資料，如果一切正確，咁就點擊下方嘅"進行付款"按鈕進行付款。請注意，你將有23個鐘嘅時間進行付款。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ea1406d7d97acc6798000b0f38ea9c38.jpg)
+![點樣延長簽證呢？](https://images.gobaligo.id/vocus/vocus_ea1406d7d97acc6798000b0f38ea9c38.jpg)
 
 跟住，你需要輸入信用卡嘅詳細資料，好似下面張截圖咁。輸入完之後，撳底個紅色掣"而家支付"（BAYAR SAKARANG）。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_69f06b8d2e0884856ce77e56026ff835.jpg)
+![點樣延長簽證呢？](https://images.gobaligo.id/vocus/vocus_69f06b8d2e0884856ce77e56026ff835.jpg)
 
 成功支付之後，返去首頁嘅"extend"。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_76022c8cab8e7779a726198a53e9255e.jpg)
+![點樣延長簽證呢？](https://images.gobaligo.id/vocus/vocus_76022c8cab8e7779a726198a53e9255e.jpg)
 
 喺右邊嘅"狀態"部分，你會見到一條綠底嘅信息"已支付"，表示支付成功。喺呢條信息下面，有個標住"e-ITK"嘅掣；撳佢就可以睇到你嘅簽證。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_54f8adbc9ef97bf9854a067cbf9d4f00.jpg)
+![點樣延長簽證呢？](https://images.gobaligo.id/vocus/vocus_54f8adbc9ef97bf9854a067cbf9d4f00.jpg)
 
 好似咁...
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f91aac2b48376f8dcb455a7cab7ad2da.jpg)
+![點樣延長簽證呢？](https://images.gobaligo.id/vocus/vocus_f91aac2b48376f8dcb455a7cab7ad2da.jpg)
 
 我哋建議你截圖或者列印呢份文件，因為...當你離開印尼/峇里島嗰陣，你本護照上面唔會有任何註記表明你已經延長咗你嘅簽證，所以截圖或者印出嚟方便出示畀相關人員會比較穩陣。
 

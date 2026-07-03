@@ -14,7 +14,7 @@ lang: zh-hk
 _srcHash: 7fa947adf33727addbea3f57bc91b390
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1b5b22fcfc2865b59258bb6b654c3539.jpg)
+![【峇里島親子遊攻略】帶埋小朋友去峇里島家庭旅行嘅20個注意事項](https://images.gobaligo.id/vocus/vocus_1b5b22fcfc2865b59258bb6b654c3539.jpg)
 
 峇里島係好多人鍾意嘅度假勝地，亦係親子旅行嘅熱門目的地。呢度有豐富嘅自然景觀、多元嘅文化體驗同好玩嘅水上活動，好啱帶埋小朋友一齊去玩。
 
@@ -22,7 +22,7 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 ## **出發前準備**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_77d2a3cab5d6865647f5e4179987a87c.jpg)
+![出發前準備](https://images.gobaligo.id/vocus/vocus_77d2a3cab5d6865647f5e4179987a87c.jpg)
 
 ### 簽證/電子申報單/繳交旅遊稅:
 
@@ -90,7 +90,7 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 ## 行程安排
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_feef5165b467326e7a089f07de002636.png)
+![行程安排](https://images.gobaligo.id/vocus/vocus_feef5165b467326e7a089f07de002636.png)
 
 ### 機場接機：
 
@@ -139,7 +139,7 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 ## **旅遊安全**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_544de9041650a95c389aa81a7ae9a10a.png)
+![旅遊安全](https://images.gobaligo.id/vocus/vocus_544de9041650a95c389aa81a7ae9a10a.png)
 
 ### 餐飲：
 

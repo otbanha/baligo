@@ -58,9 +58,9 @@ Di Mulia Resort, ada banyak banget fasilitas hiburan yang bisa kamu nikmati. Mau
 
 Mulia Resort punya fasilitas olahraga kelas satu, jadi kamu tetap bisa aktif selama liburan. Ada pusat kebugaran dengan alat lengkap, plus lapangan tenis buat kamu yang suka olah raga. Kalau kamu pecinta olahraga air, resort juga menyediakan olahraga air non-motor, siap buat petualangan seru di laut. Selain itu, kamu bisa berenang di kolam renang outdoor, atau berjemur di pantai pribadi. Tertarik diving? Ikut program diving yang ditawarkan resort, dan jelajahi keindahan bawah laut Bali yang memukau.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_147ec876f11de5cd52d18f2048685ee6.jpg)
+![Fasilitas Olahraga Lengkap Biar Tetap Bugar](https://images.gobaligo.id/vocus/vocus_147ec876f11de5cd52d18f2048685ee6.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3886ea278983c995241f888fe171c2f1.jpg)
+![Fasilitas Olahraga Lengkap Biar Tetap Bugar](https://images.gobaligo.id/vocus/vocus_3886ea278983c995241f888fe171c2f1.jpg)
 
 ### **Fasilitas Praktis yang Bikin Betah**
 
@@ -74,9 +74,9 @@ Mulia Resort punya banyak pilihan transportasi buat memudahkan kamu menjelajah s
 
 Mulia Resort punya beragam pilihan tempat makan yang cocok buat semua selera. Kafe dan restoran di resort menawarkan banyak pilihan, dari masakan Indonesia asli hingga hidangan internasional. Selain makan di restoran, ada juga layanan kamar, jadi kamu bisa santap di kamar dengan nyaman. Sarapan prasmanan dan sarapan Eropa setiap hari jadi awal yang sempurna buat harimu.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a31ef1e83d70eb6959a75d6a79c2e078.jpg)
+![Pengalaman Kuliner Kelas Atas](https://images.gobaligo.id/vocus/vocus_a31ef1e83d70eb6959a75d6a79c2e078.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ca40efc15b6b85ed98ccda46ff7e1666.jpg)
+![Pengalaman Kuliner Kelas Atas](https://images.gobaligo.id/vocus/vocus_ca40efc15b6b85ed98ccda46ff7e1666.jpg)
 
 👉Mulia [Pengalaman Makan Prasmanan Bintang 5 Mulai USD$ 22](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94019-dining-experience-the-mulia-resort-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5ddeb73f43)
 
@@ -84,11 +84,11 @@ Mulia Resort punya beragam pilihan tempat makan yang cocok buat semua selera. Ka
 
 Mulia Resort menawarkan berbagai kamar mewah yang bikin liburanmu makin terasa spesial. Mau pilih Grandeur Deluxe, Lagoon Access Room, atau Royal Ocean Court View Suite, setiap kamar dilengkapi fasilitas modern dan kasur yang nyaman banget. Kamar-kamarnya nggak cuma luas, tapi juga punya pemandangan indah, bikin kamu bisa relaks maksimal selama liburan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1d42e8a895b02d5507f3ce9175d8a165.jpg)
+![Pilihan Kamar Mewah](https://images.gobaligo.id/vocus/vocus_1d42e8a895b02d5507f3ce9175d8a165.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1f1895e1d7f0fd99d81da8dc7e232cee.jpg)
+![Pilihan Kamar Mewah](https://images.gobaligo.id/vocus/vocus_1f1895e1d7f0fd99d81da8dc7e232cee.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e55df0d8776c7671ccd3854434594e2.jpg)
+![Pilihan Kamar Mewah](https://images.gobaligo.id/vocus/vocus_3e55df0d8776c7671ccd3854434594e2.jpg)
 
 👉[Cek Ketersediaan Kamar & Harga Mulia Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6532982)
 
@@ -134,7 +134,7 @@ Selain restoran di dalam resor, di sekitar Mulia Resort juga ada banyak restoran
 
 ### **Lebih Banyak Info Seru soal Nusa Dua**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
+![Lebih Banyak Info Seru soal Nusa Dua](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
 
 Nusa Dua adalah kawasan di Bali yang terkenal dengan resor mewahnya. Punya pantai pasir putih, air laut biru jernih, dan fasilitas wisata yang lengkap—cocok banget buat kamu yang cari pengalaman kelas atas dan liburan yang tenang. Di sini juga ada spa premium, olahraga air, dan aktivitas santai yang ramah keluarga. Surga banget buat semua tipe traveler. Mau tahu lebih banyak tips soal Nusa Dua? [Klik di sini](/blog/nusa-dua-guide/)
 
@@ -144,7 +144,7 @@ Nusa Dua adalah kawasan di Bali yang terkenal dengan resor mewahnya. Punya panta
 
 Mulia Resort menawarkan fasilitas mewah dan layanan luar biasa yang bikin semuanya worth it. Mulai dari kamar mewah, fasilitas hiburan yang lengkap, sampai pelayanan kelas satu—Mulia Resort bikin pengalaman liburanmu nggak ada duanya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_30bd2ff59e0502681dc8f252c98c474b.jpg)
+![Harga & Nilai](https://images.gobaligo.id/vocus/vocus_30bd2ff59e0502681dc8f252c98c474b.jpg)
 
 Mulia Resort dapet banyak ulasan positif berkat kualitas fasilitas dan layanannya. Para tamu pada puas banget, dan memuji profesionalisme serta keramahan staf hotel. Mau kamu cari relaksasi atau petualangan, Mulia Resort adalah pilihan ideal di Bali.
 
@@ -156,7 +156,7 @@ Baik kamu liburan atau perjalanan bisnis, Mulia Resort kasih pengalaman menginap
 
 ## Review Nyata dari Tamu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fbe5c8d9366184e5c302970ce5259a43.jpg)
+![Review Nyata dari Tamu](https://images.gobaligo.id/vocus/vocus_fbe5c8d9366184e5c302970ce5259a43.jpg)
 
 Ini pertama kalinya aku nginep di hotel ini. Pagi-pagi ikut kelas yoga bareng teman-teman. Naik shuttle ke tempat yoga outdoor yang menghadap padang rumput luas. Angin pagi sepoi-sepoi, ditemani kicauan burung, bikin badan dan pikiran rileks banget. Gerakannya nggak susah, mostly gerakan dasar, cocok banget buat memulai hari.
 
@@ -164,7 +164,7 @@ Instrukturnya pake bahasa Inggris yang simpel dan gampang dimengerti, jadi peser
 
 ***
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a453cc99c786072992ba3e62998ab4d1.jpg)
+![Review Nyata dari Tamu](https://images.gobaligo.id/vocus/vocus_a453cc99c786072992ba3e62998ab4d1.jpg)
 
 Dari detik pertama masuk hotel, kamu bakal ngerasa diperlakukan kayak ratu! Staf bantuin angkat koper, proses check-in simpel dan cepet. Kebersihan kamar bikin takjub — meja dan kaca kinclong, kamar mandi luas dan terang, seprai bersih tanpa noda.
 
@@ -172,7 +172,7 @@ Sarapan prasmanan super lengkap dan enak, setiap hidangan bikin pengen nambah. C
 
 ***
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b657ddd6500f3db4c5b5943ddc057cb6.jpg)
+![Review Nyata dari Tamu](https://images.gobaligo.id/vocus/vocus_b657ddd6500f3db4c5b5943ddc057cb6.jpg)
 
 Kami nginep 7 hari di awal November pas low season, jadi suasana resortnya tenang banget dan damai. Meskipun pas akhir-akhir tamu mulai banyak, tetap terasa nyaman — baik pas sarapan maupun di sekitar kolam renang, kami masih bisa menikmati privasi yang cukup.
 
@@ -180,7 +180,7 @@ Sarapan jadi highlight hari! Restorannya menyediakan makanan internasional yang 
 
 Pengalaman makan di restoran lain seperti Table 8 (Chinese) dan Edogin (Jepang) juga memuaskan banget, harga masuk akal, kualitas oke. Tapi restoran favorit kami adalah Soleil — pizza kayu bakar dan masakan Asia Tenggaranya bikin kami kaget, rasanya setara sama makanan terbaik yang pernah kami coba di Thailand dan Vietnam.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4bcfdf917a8ce2ececcbf56925a317e4.jpg)
+![Review Nyata dari Tamu](https://images.gobaligo.id/vocus/vocus_4bcfdf917a8ce2ececcbf56925a317e4.jpg)
 
 Dari segi fasilitas, gym resort punya alat-alat canggih tapi jarang dipakai, cocok buat traveler yang cari tempat olahraga yang sepi. Resort ini punya beberapa kolam renang dengan gaya berbeda, dan Ocean Pool jadi yang paling populer.
 
@@ -192,7 +192,7 @@ Ini pertama kalinya kami ke Bali, dan Mulia Resort jadi awal yang sempurna. Dari
 
 ## Lebih Banyak Review Resort Bintang Lima di Nusa Dua
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_61e40f31590a0967d2f549906c95a0c4.jpg)
+![Lebih Banyak Review Resort Bintang Lima di Nusa Dua](https://images.gobaligo.id/vocus/vocus_61e40f31590a0967d2f549906c95a0c4.jpg)
 
 **Nusa Dua adalah kawasan resor mewah terkenal di selatan Bali, dengan suasana tenang, pantai pasir putih, dan pengalaman mewah kelas dunia.** Kalau kamu lagi cari resort bintang lima yang mewah, Nusa Dua punya banyak pilihan top — dari pantai pribadi eksklusif sampai restoran dan spa yang ciamik.
 

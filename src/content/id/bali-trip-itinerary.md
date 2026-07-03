@@ -48,25 +48,25 @@ Yi Chen Lai menyediakan
 
 Malamnya kami langsung menuju Ubud dan check-in di 【The Ambengan Villas Ubud by Pramana Villas】. Villa ini aku rekomendasiin bintang lima! 🌟🌟🌟🌟🌟
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360355434-69f2625bca68d359eae19ce16c2cd065.jpeg)
+![Day 1: Pantai senja, hutan Ubud, kita datang!](https://images.gobaligo.id/images/2026-03/1774360355434-69f2625bca68d359eae19ce16c2cd065.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360355995-71f8d2ec8c6bf42b8cee817a6fd4c008.jpeg)
+![Day 1: Pantai senja, hutan Ubud, kita datang!](https://images.gobaligo.id/images/2026-03/1774360355995-71f8d2ec8c6bf42b8cee817a6fd4c008.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360356536-182f722c4b1530a8093ee637063ad49a.jpeg)
+![Day 1: Pantai senja, hutan Ubud, kita datang!](https://images.gobaligo.id/images/2026-03/1774360356536-182f722c4b1530a8093ee637063ad49a.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360357094-548958744.jpg)
+![Day 1: Pantai senja, hutan Ubud, kita datang!](https://images.gobaligo.id/images/2026-03/1774360357094-548958744.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360357561-558872149.jpg)
+![Day 1: Pantai senja, hutan Ubud, kita datang!](https://images.gobaligo.id/images/2026-03/1774360357561-558872149.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360357977-558872169.jpg)
+![Day 1: Pantai senja, hutan Ubud, kita datang!](https://images.gobaligo.id/images/2026-03/1774360357977-558872169.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360358349-562314643.jpg)
+![Day 1: Pantai senja, hutan Ubud, kita datang!](https://images.gobaligo.id/images/2026-03/1774360358349-562314643.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360358805-562314653.jpg)
+![Day 1: Pantai senja, hutan Ubud, kita datang!](https://images.gobaligo.id/images/2026-03/1774360358805-562314653.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360359319-c9c19c0e48144c9e42c8f5cdd5656c7a.jpeg)
+![Day 1: Pantai senja, hutan Ubud, kita datang!](https://images.gobaligo.id/images/2026-03/1774360359319-c9c19c0e48144c9e42c8f5cdd5656c7a.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360359884-d239345d1540ed321f9c749ed1a4279b.jpeg)
+![Day 1: Pantai senja, hutan Ubud, kita datang!](https://images.gobaligo.id/images/2026-03/1774360359884-d239345d1540ed321f9c749ed1a4279b.jpeg)
 
 Termasuk dalam [20 Villa Bali yang Bikin Tercengang di Ubud](/blog/ubud-villa-pool-guide/)
 
@@ -167,7 +167,7 @@ Dokumentasi/Yi Chen Lai
 
 Kita juga nyewa dress panjang yang flowy, sewanya **370.000 IDR (sekitar USD$12)**. Walaupun agak mahal sih, tapi hasil fotonya bener-bener kece badai～ Apalagi pas ayunan meluncur ke depan, latar belakangnya sawah terhampar luas, rasanya kayak jadi model sampul majalah traveling 😍
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ad3a7d83fdef931866103201d21e5d3.jpg)
+![Tegalalang Rice Terrace & Ayunan Instagramable](https://images.gobaligo.id/vocus/vocus_6ad3a7d83fdef931866103201d21e5d3.jpg)
 
 https://youtu.be/e1QnJGYvL0U
 
@@ -362,7 +362,7 @@ Bali, sampai jumpa lagi! 🌴🌞 Semoga perjalanan kalian semua lancar dan happ
 
 Kamu pikir itinerary dari [Yi Chen Lai](https://www.facebook.com/share/p/1AUuB62LBX/) seru banget? Yuk, buruan atur liburan mandiri ke Bali versi kamu! Juga, jangan ragu buat kirim itinerary kalian ke grup ya!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Akhir yang Sempurna: Dapat Sopir yang Tepat, Perjalanan Lanc](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 

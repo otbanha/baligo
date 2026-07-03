@@ -50,7 +50,7 @@ Buat yang mau apply e-visa, usahakan dari jauh-jauh hari! Soalnya pas libur Leba
 
 Pas libur Qingming-Lebaran, Bali bakal macet parah nggak sih? Mending aku pergi ke tempat wisata atau nggak?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9749c24c3bb6a64ec5579ecf7b89dc27.png)
+![Transportasi](https://images.gobaligo.id/vocus/vocus_9749c24c3bb6a64ec5579ecf7b89dc27.png)
 
 Ini dia beberapa tips khusus soal lalu lintas Bali di periode spesial ini:
 
@@ -126,7 +126,7 @@ Buat anak-anak, Bali kasih kesempatan liburan yang seru. Aktivitas outdoor, kebu
 - [Panduan Liburan Keluarga di Bali - Bagian Sanur](/blog/sanur-family-travel-guide-2/)
 - Kolom Liburan Keluarga di Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_02b21980932dcbfaf9c9146ef6bf887b.png)
+![Panduan Liburan Keluarga Biar Semua Happy](https://images.gobaligo.id/vocus/vocus_02b21980932dcbfaf9c9146ef6bf887b.png)
 
 ## Penutup
 

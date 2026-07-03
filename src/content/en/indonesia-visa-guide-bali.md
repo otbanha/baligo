@@ -29,7 +29,7 @@ Officials stated: "Having a visa rejected is frustrating, but many situations ca
 
 Now, let's take a look at the most common mistakes in Indonesia visa applications and how to avoid these issues.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fa817dcbf8920a031cce812823af7cc3.jpg)
+![How to Avoid Common Mistakes in Indonesia Visa Applications?](https://images.gobaligo.id/vocus/vocus_fa817dcbf8920a031cce812823af7cc3.jpg)
 
 ---
 
@@ -113,7 +113,7 @@ Apart from the eVisa on Arrival, other types of visas may require applicants to 
 
 ## **🛂 How to Apply for Indonesia's eVisa on Arrival?**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_70703b99831da726cd9eeac97e780116.png)
+![How to Apply for Indonesia's eVisa on Arrival?](https://images.gobaligo.id/vocus/vocus_70703b99831da726cd9eeac97e780116.png)
 
 ✅ **Application Time:** Earliest **90 days before arrival**
 
@@ -155,7 +155,7 @@ Please refer to our [Indonesia/Bali Visa Guide](/blog/indonesia-bali-visa-evoa-f
 
 ## 📩 **Join the "Bali Travel Guide" Now and Become a Bali Travel Expert!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Join the "Bali Travel Guide" Now and Become a Bali Travel Ex](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **By subscribing for free, you'll get:**
 

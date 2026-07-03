@@ -56,7 +56,7 @@ This means that even if it only rains for a brief minute during the day, the wea
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_de7cab4b2e1639fa6a19b826f78c172b.jpg)
+![Misconception 2: Daily Thunderstorms = Will It Rain Heavily ](https://images.gobaligo.id/vocus/vocus_de7cab4b2e1639fa6a19b826f78c172b.jpg)
 
 ## 📸 Pro tip: Make good use of the weather forecast timeline
 
@@ -87,6 +87,6 @@ Bali's weather changes rapidly, and mobile app forecasts tend to be overly conse
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_09e4e66f29ac27a468ecc350cf0c839d.png)
+![Quick summary: Don’t let the weather forecast icons scare yo](https://images.gobaligo.id/vocus/vocus_09e4e66f29ac27a468ecc350cf0c839d.png)
 
 If you're really worried about rainy days affecting your itinerary, check out 【[60 recommended rainy day backup activities](/blog/2026-bali-indoor-activities/)】 and save it for later!

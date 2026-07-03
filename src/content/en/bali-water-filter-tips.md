@@ -39,7 +39,7 @@ _srcHash: 20de54f94613dfa8da2f364db8ff84f8
 
 Update: June 9, 2026
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775969828533-c51dc973-6ac0-43ac-be44-111664f2624f.png)
+![Is the Water in Bali Safe? Do You Need to Bring Your Own Fil](https://images.gobaligo.id/images/2026-04/1775969828533-c51dc973-6ac0-43ac-be44-111664f2624f.png)
 
 Recently, someone in our Facebook group [asked](https://www.facebook.com/share/p/1CZKDGoT7N/): '**Do I need to bring my own shower head for Bali? Should I use bottled or drinking water for brushing my teeth and rinsing?**' The original poster noted that online info is all over the place and wanted to hear from those who’ve actually been. The comments section was incredibly active, with experiences ranging across different body types, accommodation types, and tales of both 'getting hit' and 'being fine.'
 
@@ -53,7 +53,7 @@ One person shared, 'We’ve stayed at several hotels without any problems—used
 
 **But here’s a key counterintuitive finding**: Star rating ≠ guaranteed water quality. One traveler checked into a five-star hotel in Kuta and found black particles in the bathtub, forcing them to use bottled water for brushing the entire stay. So while some saw their filter yellow at a five-star, others found it spotless at a branded hotel. **The key isn’t necessarily the hotel’s star rating, but whether they properly maintain their water filtration system.**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775969361098-shower_head.jpg)
+![High-End Hotels and Resorts: Usually No Issues, But There Ar](https://images.gobaligo.id/images/2026-04/1775969361098-shower_head.jpg)
 
 ## Ubud Villas and Homestays: The Area Where Filters Show Their True Colors Most
 

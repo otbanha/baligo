@@ -30,7 +30,7 @@ _srcHash: de3eafb7eef3d46985774638ed3c8637
 
 巴厘岛的 Puppy Yoga 并非一板一眼的传统瑜伽课程，而是一场 **「以玩耍为主、瑜伽为辅」** 的欢乐体验。在这里，瑜伽垫变成了游乐场，小狗可以自由穿梭、舔你的脸、咬你的瑜伽裤、甚至在你做下犬式时钻到你身体下方。这堂课的核心精神很简单：**放下对「完美体式」的执着，张开双手拥抱混乱又可爱的 puppy 能量。**
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781161790095-mixcollage-11-jun-2026-01-46-pm-4950.jpg)
+![【可爱到被融化】Puppy Yoga 小狗瑜伽攻略：结合狗狗领养、身心疗愈与网红打卡避雷指南](https://images.gobaligo.id/images/2026-06/1781161790095-mixcollage-11-jun-2026-01-46-pm-4950.jpg)
 
 ## 🐕 Play Time 才是主角：小狗瑜伽中的玩耍环节（约占时25-30分钟）
 
@@ -53,7 +53,7 @@ _srcHash: de3eafb7eef3d46985774638ed3c8637
 
 ## 🐶 这堂课适合谁？
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781162169791-mixcollage-11-jun-2026-01-47-pm-4715.jpg)
+![这堂课适合谁？](https://images.gobaligo.id/images/2026-06/1781162169791-mixcollage-11-jun-2026-01-47-pm-4715.jpg)
 
 - **所有年龄层与瑜伽程度** – 即使从未上过瑜伽课也完全没问题。导师设计的动作非常基础，重点是玩得开心。
 - **想释放压力、获得疗愈的旅客** – 小狗的单纯与热情能快速让人忘记烦恼。
@@ -73,7 +73,7 @@ https://www.instagram.com/reel/DLOYzxLSP47/?utm_source=ig_web_button_share_sheet
 
 巴厘岛的 Puppy Yoga 大多与当地动物救援组织合作。参与课程的幼犬都是被救援回来的流浪狗，通过与人的大量互动玩耍，它们学会信任人类、适应环境，大大提高被领养的机会。你支付的课程费用中，一部分会直接用于支付小狗的疫苗、饲料与医疗开销。**这是一场双向疗愈：你得到快乐，它们得到未来的希望。**
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781162218450-8aa81110ade716a674f839158ffd5698.jpg)
+![背后的温暖意义](https://images.gobaligo.id/images/2026-06/1781162218450-8aa81110ade716a674f839158ffd5698.jpg)
 
 ## 📍 地点选择
 

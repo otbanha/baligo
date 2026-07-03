@@ -21,7 +21,7 @@ lang: zh-cn
 _srcHash: 3007240e5e966ffdc403079d1a5664db
 ---
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774870755237-e6b7f45d429dc39d54ecae13ff2c6401.jpg)
+![【2026 寒暑假巴厘岛】带小孩亲子长辈攻略：四大区域推荐、干季天气与住宿推荐](https://images.gobaligo.id/images/2026-03/1774870755237-e6b7f45d429dc39d54ecae13ff2c6401.jpg)
 
 每年暑假一到，最常被问的就是：**「七月、八月去巴厘岛，天气到底好不好？」**
 
@@ -49,7 +49,7 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 
 ### 📍 沙努尔（Sanur）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774867127299-_.jpeg)
+![沙努尔（Sanur）](https://images.gobaligo.id/images/2026-03/1774867127299-_.jpeg)
 
 沙努尔是常被忽略、但其实非常适合亲子旅游的区域。海浪平稳、海滩干净，没有水明漾那样的派对人潮，步行就能到海边，夜晚也很安静。如果家有年幼的孩子或同行长辈，沙努尔是让人很放心的选择。
 
@@ -57,7 +57,7 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 
 ### 📍 水明漾（Seminyak）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774867278224-cassie-gallegos-6wcwcpwmrjy.jpeg)
+![水明漾（Seminyak）](https://images.gobaligo.id/images/2026-03/1774867278224-cassie-gallegos-6wcwcpwmrjy.jpeg)
 
 水明漾的优势在于「什么都有」——购物、餐厅、海滩俱乐部、高品质度假村一应俱全。如果家长也想享有自己的度假时光，不希望行程全围绕着孩子转，水明漾能兼顾大人与小孩的需求。
 
@@ -65,7 +65,7 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 
 ### 📍 乌布（Ubud）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774867612552-tegerarang.jpeg)
+![乌布（Ubud）](https://images.gobaligo.id/images/2026-03/1774867612552-tegerarang.jpeg)
 
 乌布带来的是截然不同的体验。这里没有海滩，取而代之的是梯田、文化、森林与大量亲子活动——而且很多小朋友到了乌布，反而比去海边玩得更开心，因为可以参与的体验实在太多了。
 
@@ -81,7 +81,7 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 
 ### 📍努沙杜瓦（Nusa Dua）
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775130814476-2893e5d6-29ad-4199-8041-45c2ab39bf47.jpg)
+![努沙杜瓦（Nusa Dua）](https://images.gobaligo.id/images/2026-04/1775130814476-2893e5d6-29ad-4199-8041-45c2ab39bf47.jpg)
 
 努沙杜瓦是巴厘岛最省心的亲子度假首选。这里属于封闭式的度假区，道路平整宽敞、环境极度安全且安静，非常适合推着婴儿车散步。这里的沙滩浪潮平缓，孩子可以安全地在海边玩沙踏浪，而区内密集的五星级酒店大多设有完善的儿童俱乐部与戏水设施，让全家人进了酒店就能展开「定点度假」模式。
 
@@ -93,7 +93,7 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 
 暑假出游，有时是三代同堂一起出发——爷爷奶奶也跟上了，行程规划的难度就会提高不少。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774867740868-a8b2ff7d-d160-4baf-ac89-271e79e94a80.png)
+![有长辈同行？先读这两篇](https://images.gobaligo.id/images/2026-03/1774867740868-a8b2ff7d-d160-4baf-ac89-271e79e94a80.png)
 
 长辈最在意的通常是：路好不好走、会不会太热、需不需要爬很多楼梯、身体不适时该怎么办。
 我们针对这些需求整理了两篇文章：
@@ -110,7 +110,7 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 
 如果这次暑假是三代同堂、多组家庭一起出发，比起订两三间酒店房间，**包栋Villa**其实是更聪明、也更贴心的选择。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774868006588-e1895231-3a0b-477a-a1ae-cb01fbf71399.png)
+![家族出游首推包栋Villa](https://images.gobaligo.id/images/2026-03/1774868006588-e1895231-3a0b-477a-a1ae-cb01fbf71399.png)
 
 为什么这么说？因为包栋Villa的好处远比想象中多：
 
@@ -132,7 +132,7 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 
 最后分享一个限时优惠，正在考虑顶级酒店/度假村的朋友可以留意。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774868228560-543684090.jpg)
+![五星度假村](https://images.gobaligo.id/images/2026-03/1774868228560-543684090.jpg)
 
 位于努沙杜瓦（Nusa Dua）的 The Apurva Kempinski Bali（巴厘岛凯宾斯基）目前推出限时促销，**Grand Deluxe 豪华房每晚只要 USD 317 起**，含税、含双人早餐，再加赠两人一次下午茶。通过我们客服预订，还会额外送巴厘岛旅游税。
 

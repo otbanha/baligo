@@ -45,7 +45,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 ## 衫點樣帶？峇里島唔止得夏天感 🌤️
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780113888602-773697685317409029.png)
+![衫點樣帶？峇里島唔止得夏天感](https://images.gobaligo.id/images/2026-05/1780113888602-773697685317409029.png)
 
 雖然峇里島大部分時間都好熱，但我都係好建議一定要帶一件薄外套或者秋裝外套。
 
@@ -198,7 +198,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 ## 信用卡簽唔簽好？💳
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_832db431875e09d43fff04ac9260f412.jpg)
+![信用卡簽唔簽好？](https://images.gobaligo.id/vocus/vocus_832db431875e09d43fff04ac9260f412.jpg)
 
 關於信用卡呢件事，我自己其實偏向保守。
 
@@ -251,13 +251,13 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 尤其峇里島好多 Villa 都好有度假 feel，夜晚返房浸泳池、攤喺度發呆，真係會有種「呢個價錢係真㗎？」嘅感覺。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780114462274-710079305_27672521962408667_6924101564756584708_n.jpg)
+![1｜住宿 CP 值真係好高](https://images.gobaligo.id/images/2026-05/1780114462274-710079305_27672521962408667_6924101564756584708_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780114465997-709844031_27672522442408619_5599951080656028313_n.jpg)
+![1｜住宿 CP 值真係好高](https://images.gobaligo.id/images/2026-05/1780114465997-709844031_27672522442408619_5599951080656028313_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780114466457-708979531_27672522732408590_7580802711457911215_n.jpg)
+![1｜住宿 CP 值真係好高](https://images.gobaligo.id/images/2026-05/1780114466457-708979531_27672522732408590_7580802711457911215_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780114466879-709266529_27672523185741878_3244504790469808433_n.jpg)
+![1｜住宿 CP 值真係好高](https://images.gobaligo.id/images/2026-05/1780114466879-709266529_27672523185741878_3244504790469808433_n.jpg)
 
 今次我哋住咗一間感覺好正嘅精品小型旅館。詳細介紹：[Dune Seseh 坎古旁最新秘境美學公寓 極簡野奢](https://gobaligo.id/blog/dune-seseh/)
 
@@ -477,7 +477,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 ## 12｜便利店好多 🏪
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779190670051-mixcollage-19-may-2026-06-26-pm-7181.jpg)
+![12｜便利店好多](https://images.gobaligo.id/images/2026-05/1779190670051-mixcollage-19-may-2026-06-26-pm-7181.jpg)
 
 呢點真係好加分。
 

@@ -12,9 +12,9 @@ lang: zh-hk
 _srcHash: 102cc6386fbdfa9d7808664e621a3992
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_703008611ebd42c8436934b38f0c4796.jpg)
+![峇里島家庭親子遊首選：最安全嘅玩水海灘 - 沙努爾](https://images.gobaligo.id/vocus/vocus_703008611ebd42c8436934b38f0c4796.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f356d2504f0b3db23b5d182776a6431.jpg)
+![峇里島家庭親子遊首選：最安全嘅玩水海灘 - 沙努爾](https://images.gobaligo.id/vocus/vocus_2f356d2504f0b3db23b5d182776a6431.jpg)
 
 峇里島作為東南亞最受歡迎嘅度假島嶼之一，擁有多種風貌嘅海灘。而沙努爾（Sanur）就係一個獨樹一幟嘅存在——呢度遠離喧囂、海水平靜，擁有傳統同現代融合嘅社區氛圍，係**真正為家庭設計嘅度假天堂**。
 
@@ -36,7 +36,7 @@ _srcHash: 102cc6386fbdfa9d7808664e621a3992
 
 ## **2. 超長濱海步道，親子推車散步首選**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f0769a0abf8ac8bba5dcab050cd2d8fe.jpg)
+![2. 超長濱海步道，親子推車散步首選](https://images.gobaligo.id/vocus/vocus_f0769a0abf8ac8bba5dcab050cd2d8fe.jpg)
 
 沙努爾嘅濱海步道係成個峇里島最完善嘅一條，綿延近5公里，串連多個海灘同度假村。呢條步道全程平坦，非常適合：
 
@@ -57,11 +57,11 @@ _srcHash: 102cc6386fbdfa9d7808664e621a3992
 - 親子餐廳同健康食物選擇
 - 小型兒童遊樂場，等小朋友轉換環境消耗體力
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7ecb3439b0c9960145a6ba676da32a81.jpg)
+![3. 多元化親子設施：廁所、遊樂場、餐廳一應俱全](https://images.gobaligo.id/vocus/vocus_7ecb3439b0c9960145a6ba676da32a81.jpg)
 
 此外，多數沙灘路段都設有地面警告牌同紅旗提示區域，家長可以根據指示安心選擇玩水地點。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_040dcf7983bdd82007caaf3d5f3e5e15.jpg)
+![3. 多元化親子設施：廁所、遊樂場、餐廳一應俱全](https://images.gobaligo.id/vocus/vocus_040dcf7983bdd82007caaf3d5f3e5e15.jpg)
 
 ***
 
@@ -73,7 +73,7 @@ _srcHash: 102cc6386fbdfa9d7808664e621a3992
 - **Le Mayeur 美術館**：認識峇里島嘅繪畫藝術同當地歷史
 - **每日海神祭典與巴龍舞**：朝早同傍晚常見當地人祭拜海神嘅儀式，等小朋友見識唔同嘅信仰文化
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_80ff2b2d757c2db1a5833027236a9ba5.jpg)
+![4. 傳統市集與藝術氣息濃厚嘅文化村落](https://images.gobaligo.id/vocus/vocus_80ff2b2d757c2db1a5833027236a9ba5.jpg)
 
 呢啲唔單止係觀光景點，更加係教育小朋友理解唔同文化嘅好機會。
 
@@ -83,7 +83,7 @@ _srcHash: 102cc6386fbdfa9d7808664e621a3992
 
 沙努爾社區以平靜同埋寧靜聞名，同其他旅遊熱點相比，幾乎冇嘈吵嘅酒吧同埋過度開發嘅商業活動。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_080d296fb2d7efae7eec21f143f2e67a.jpg)
+![5. 安全環境與友善社區氛圍](https://images.gobaligo.id/vocus/vocus_080d296fb2d7efae7eec21f143f2e67a.jpg)
 
 除此之外，沙努爾地區仲有：
 
@@ -97,17 +97,17 @@ _srcHash: 102cc6386fbdfa9d7808664e621a3992
 
 ## **6. 日出天堂：從海平面升起嘅陽光**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b1bace36b3e10319328a19a32787a92.jpg)
+![6. 日出天堂：從海平面升起嘅陽光](https://images.gobaligo.id/vocus/vocus_3b1bace36b3e10319328a19a32787a92.jpg)
 
 同峇里島大多數沙灘欣賞日落唔同，沙努爾係觀賞**日出**嘅絕佳地點。每日清晨，大批攝影愛好者同埋瑜伽愛好者聚集喺沙灘，迎接太陽從海面緩緩升起。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4989790b918f9c30c76d757469419082.jpg)
+![6. 日出天堂：從海平面升起嘅陽光](https://images.gobaligo.id/vocus/vocus_4989790b918f9c30c76d757469419082.jpg)
 
 呢個係一個可以同小朋友分享寧靜時刻嘅溫柔時光，亦係難得一家人一齊冥想、呼吸嘅靜心體驗。
 
 ## 7. 大型室內遊樂場
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_993f8e3198ccd7c0661ccff47a5f03f0.jpg)
+![7. 大型室內遊樂場](https://images.gobaligo.id/vocus/vocus_993f8e3198ccd7c0661ccff47a5f03f0.jpg)
 
 喺沙努爾仲有幾個超大嘅冷氣室內遊樂場㗎！如果天氣太熱或者落雨，匿入去呢度就啱晒！請參考我哋嘅[沙努爾攻略](https://s.id/sanurguide)
 
@@ -115,7 +115,7 @@ _srcHash: 102cc6386fbdfa9d7808664e621a3992
 
 ## 更多沙努爾吃喝玩樂介紹
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
+![更多沙努爾吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
 沙努爾係峇里島上一個充滿寧靜氣息嘅海濱小鎮，以平靜嘅沙灘、悠閒嘅氛圍同壯麗嘅日出景色聞名。呢度有適合家庭嘅度假村、傳統市場同豐富嘅當地美食，係享受慢生活同探索文化嘅理想之地。無論係漫步海岸線定係感受當地風情，沙努爾都可以帶俾你無比放鬆嘅假期體驗！想了解更多沙努爾攻略？[請點擊呢度](/blog/sanur-guide/)。
 
@@ -155,6 +155,6 @@ _srcHash: 102cc6386fbdfa9d7808664e621a3992
 
 我哋收集咗沙努爾20幾間住宿推薦，由海邊5星級到平價適合長住嘅選擇都有，請參考[呢度](</blog/sanur-luxury-budget-resorts/>)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a30e6d3bb9254b52e79802119cfaaaf2.jpg)
+![沙努爾有咩住宿選擇？](https://images.gobaligo.id/vocus/vocus_a30e6d3bb9254b52e79802119cfaaaf2.jpg)
 
 {{block:住宿}}

@@ -28,7 +28,7 @@ lang: id
 _srcHash: 0caa2742ace25f7c28b674f0719dc484
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e753d11092ea6e75b9d46f601928451.png)
+![Panduan Liburan Musim Hujan di Bali: Tips Biar Trip-mu Makin](https://images.gobaligo.id/vocus/vocus_3e753d11092ea6e75b9d46f601928451.png)
 
 Bali emang terkenal dengan iklim tropis dan sinar matahari sepanjang tahun, tapi begitu musim hujan tiba, pulau ini berubah jadi pengalaman musim yang beda banget. Kalau kamu berencana liburan ke Bali pas musim hujan, info berikut bakal bantu kamu siap-siap biar liburan tetap seru tanpa hambatan.
 
@@ -75,7 +75,7 @@ Hujan bukan berarti liburan berakhir, kok. Ini beberapa rekomendasi aktivitas ya
 - **Hunting kafe**: Hujan adalah momen pas buat santai sambil eksplor kafe-kafe unik di Bali, misalnya **kafe hutan tersembunyi di Ubud**.
 - **60 ide aktivitas saat hujan**: Kami juga punya daftar lengkap aktivitas indoor biar kamu nggak bosen pas hujan! Cek di sini → [60 Ide Aktivitas Indoor Saat Hujan di Bali](/blog/2026-bali-indoor-activities/).
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c998b2b80ee7599ccd5311ab3e33b94c.png)
+![3. Pilih Aktivitas dengan Fleksibel](https://images.gobaligo.id/vocus/vocus_c998b2b80ee7599ccd5311ab3e33b94c.png)
 
 ### **4. Tetap Waspada & Pantau Cuaca**
 

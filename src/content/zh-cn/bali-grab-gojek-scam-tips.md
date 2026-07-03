@@ -41,7 +41,7 @@ _srcHash: fff6fc97cacfb2b014cac845d0acd907
 
 **心得与建议**：使用Grab等网约车服务时，遇到司机推销包车等情况要保持警惕。如果司机要求用现金支付，尽量避免落入没有零钱找的陷阱。同时，记录行程中的不愉快经历，并及时反馈给平台，有助于改善服务质量。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_606a8a4395b4fdaae837688326b106ac.png)
+![故事二：包车推销套路](https://images.gobaligo.id/vocus/vocus_606a8a4395b4fdaae837688326b106ac.png)
 
 这些游客实际碰到的亲身经历，希望能给大家提供一些参考。网约车平台本身还是非常便捷的，遇到不良司机的概率也不算高，但在旅行中保持警惕总是有必要的。
 

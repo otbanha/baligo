@@ -22,7 +22,7 @@ _srcHash: 7e0b102882345880650a1fc5416eb061
 
 ## **Gelombang Sampah Musim Hujan Serang Bali Lagi, Pantai Jadi Tempat Sampah!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7a30c67de4958f26b5fb7805f41de3f3.jpg)
+![Gelombang Sampah Musim Hujan Serang Bali Lagi, Pantai Jadi T](https://images.gobaligo.id/vocus/vocus_7a30c67de4958f26b5fb7805f41de3f3.jpg)
 
 ### **Pantai Jimbaran Penuh Sampah, Pemandangannya Bikin Syok**
 
@@ -97,7 +97,7 @@ Kamu bisa berkontribusi dengan mengurangi pemakaian plastik sekali pakai, menduk
 
 ## 📩 **Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Bali!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Ba](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

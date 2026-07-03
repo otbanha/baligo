@@ -23,7 +23,7 @@ _srcHash: 379bf670e7b72ae565b3951bb3745655
 ---
 Bali emang jadi destinasi favorit liburan keluarga, dan Ubud adalah salah satu area yang penuh pesona budaya dan alam. Ubud terkenal dengan pemandangan sawah yang tenang, seni tradisional, dan aktivitas ramah anak yang melimpah — cocok banget buat dijelajahi sama seluruh keluarga. Panduan ini bakal kasih kamu info lengkap soal tips liburan ke Ubud bareng anak pas liburan sekolah, plus rekomendasi aktivitas dan tempat wisata paling oke.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fa7d646b093b338f4b1f347324225ade.png)
+![【2026 Liburan Keluarga ke Ubud】Liburan Sekolah Bawa Anak ke ](https://images.gobaligo.id/vocus/vocus_fa7d646b093b338f4b1f347324225ade.png)
 
 ### Empat Area Rekomendasi Liburan Keluarga
 
@@ -49,7 +49,7 @@ Ubud terletak di pedalaman Bali, udaranya lebih sejuk daripada pantai. Tapi pas 
 
 Kalau rencananya mau ke daerah pegunungan sekitar (misal Gunung Batur, Kintamani), suhu pagi-malam cukup dingin — siapkan jaket tipis atau baju hangat. Yang butuh referensi, cek [Panduan Trekking Sunrise Gunung Batur](/blog/batur-sunrise-hiking-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_351c6775dde8c47b62b05190d216ba54.png)
+![1. Cuaca & Pakaian](https://images.gobaligo.id/vocus/vocus_351c6775dde8c47b62b05190d216ba54.png)
 
 ***
 
@@ -70,7 +70,7 @@ Transportasi di Ubud mostly pakai mobil sewaan, saran booking jasa sewa mobil ya
 - [Panduan Lengkap Sewa Mobil di Bali - Biaya, Cara Booking, Kelebihan](/blog/bali-private-car-hire-guide/)
 - [Rekomendasi 500 Tempat Wisata Bali Terbaru 2025](/blog/bali-top-500-attractions/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42e21a087b9c9ec368e4430460776e17.png)
+![3. Transportasi & Mobilitas](https://images.gobaligo.id/vocus/vocus_42e21a087b9c9ec368e4430460776e17.png)
 
 ***
 
@@ -121,7 +121,7 @@ Ubud adalah pusat budaya dan alam Bali, punya banyak pilihan aktivitas keluarga,
 
 ### **1. Monkey Forest Ubud (Hutan Monyet Ubud)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_af30d0f747853d90c8a36fb6bd7ff8a3.jpg)
+![1. Monkey Forest Ubud (Hutan Monyet Ubud)](https://images.gobaligo.id/vocus/vocus_af30d0f747853d90c8a36fb6bd7ff8a3.jpg)
 
 1. - Anak-anak bisa mengamati monyet dari dekat dan merasakan keajaiban alam. Ingatkan orang tua untuk tidak membawa makanan atau barang berharga, biar nggak direbut monyet.
 
@@ -129,7 +129,7 @@ Ubud adalah pusat budaya dan alam Bali, punya banyak pilihan aktivitas keluarga,
 
 ### **2. Sawah Terasering (Rice Terrace)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2b2b830ebcd41891b639f1bf0b86ee52.jpg)
+![2. Sawah Terasering (Rice Terrace)](https://images.gobaligo.id/vocus/vocus_2b2b830ebcd41891b639f1bf0b86ee52.jpg)
 
 1. - Sawah terasering adalah destinasi sawah paling terkenal di Ubud, cocok untuk jalan-jalan sekeluarga, menikmati pemandangan sawah yang spektakuler, dan bisa juga mencoba ayunan sawah.
 
@@ -137,7 +137,7 @@ Ubud adalah pusat budaya dan alam Bali, punya banyak pilihan aktivitas keluarga,
 
 ### **3. Bali Safari Park**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6e1e1e300c9375e42280870218b8c85b.jpg)
+![3. Bali Safari Park](https://images.gobaligo.id/vocus/vocus_6e1e1e300c9375e42280870218b8c85b.jpg)
 
 1. - Terletak di dekat Ubud, punya banyak jenis hewan, menawarkan pengalaman interaktif seperti memberi makan hewan, naik gajah, dan petualangan satwa malam hari.
 
@@ -147,7 +147,7 @@ Ubud adalah pusat budaya dan alam Bali, punya banyak pilihan aktivitas keluarga,
 
 ### **4. Bali Marine Park**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b3cd4744040dcb2d73b4454d3dc08578.jpg)
+![4. Bali Marine Park](https://images.gobaligo.id/vocus/vocus_b3cd4744040dcb2d73b4454d3dc08578.jpg)
 
 1. - Taman laut di sisi lain Bali Safari Park, ini adalah destinasi keluarga baru yang dibuka tahun 2025. Di sini anak-anak bisa mengamati kehidupan laut dari dekat, memberi makan kapibara, atau menonton pertunjukan hewan yang seru. Cocok banget buat keluarga yang suka laut.
 
@@ -157,7 +157,7 @@ Ubud adalah pusat budaya dan alam Bali, punya banyak pilihan aktivitas keluarga,
 
 ### **5. Workshop Kerajinan Tangan**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4eda109f17b48989ae2086ca7124eeb3.jpg)
+![5. Workshop Kerajinan Tangan](https://images.gobaligo.id/vocus/vocus_4eda109f17b48989ae2086ca7124eeb3.jpg)
 
 1. - Di Ubud banyak workshop kerajinan tradisional, seperti batik, ukiran kayu, dan pembuatan perak. Anak-anak bisa berkreasi dan pulang dengan oleh-oleh yang unik.
 
@@ -168,7 +168,7 @@ Ubud adalah pusat budaya dan alam Bali, punya banyak pilihan aktivitas keluarga,
 
 ### **6. Naik ATV**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_339662603b42e081cf5267c2a2fbc03a.jpg)
+![6. Naik ATV](https://images.gobaligo.id/vocus/vocus_339662603b42e081cf5267c2a2fbc03a.jpg)
 
 1. - Cocok buat anak yang lebih besar dan orang tua yang mau merasakan serunya naik ATV off-road. Melewati sawah, hutan, dan jalan desa, dijamin petualangannya seru!
 
@@ -182,7 +182,7 @@ Ubud adalah pusat budaya dan alam Bali, punya banyak pilihan aktivitas keluarga,
 
 ### **8. Jungle Cart Ubud (Jungle Cart)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_895ae420ddaa68109e64502fe66fa68e.jpg)
+![8. Jungle Cart Ubud (Jungle Cart)](https://images.gobaligo.id/vocus/vocus_895ae420ddaa68109e64502fe66fa68e.jpg)
 
 1. - Ini adalah aktivitas yang menggabungkan sliding car dan petualangan alam, cocok untuk seluruh keluarga. Kamu bisa melintasi hutan dan pedesaan, merasakan kecepatan dan adrenalin.
 2. - [Jungle Cart Ubud Bali](/blog/ubud-jungle-cart-adventure/) — info lengkap & link pendaftaran
@@ -191,7 +191,7 @@ https://youtube.com/shorts/v7NAvCARzKY
 
 ### **9. Bali Bird Park**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f1b4f38368e5f007da7a50db9f4a6508.jpg)
+![9. Bali Bird Park](https://images.gobaligo.id/vocus/vocus_f1b4f38368e5f007da7a50db9f4a6508.jpg)
 
 1. - Punya lebih dari 1.000 spesies burung. Anak-anak bisa lihat dari dekat, berinteraksi, ikut sesi memberi makan, sambil belajar tentang alam.
 
@@ -206,7 +206,7 @@ https://youtube.com/shorts/v7NAvCARzKY
 
 ### 11. Bali Exotic Marine Park — Destinasi Laut Wajib untuk Keluarga
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779866556839-_2026-05-27_14.22.19.png)
+![11. Bali Exotic Marine Park — Destinasi Laut Wajib untuk Kel](https://images.gobaligo.id/images/2026-05/1779866556839-_2026-05-27_14.22.19.png)
 
 Biar anak-anak bisa interaksi langsung dengan lumba-lumba, itu daya tarik utama Bali Exotic Marine Park. Terletak dekat Ubud, taman laut yang didesain khusus untuk keluarga ini punya koleksi biota laut, program edukasi, dan pengalaman interaktif yang seru banget. Pilihan sempurna buat liburan keluarga.
 
@@ -230,7 +230,7 @@ Di Ubud, biar anak-anak tetap happy selama liburan, ini beberapa rekomendasi hot
 
 ### **Padma Resort Ubud**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_47ba2a212f3b822fc2bb3b0ed2126204.jpg)
+![Padma Resort Ubud](https://images.gobaligo.id/vocus/vocus_47ba2a212f3b822fc2bb3b0ed2126204.jpg)
 
 Resort ini punya Wolly Kids Club khusus untuk anak usia 4–12 tahun, dengan berbagai aktivitas dan mainan edukatif, jadi si kecil bisa bermain sepuasnya di bawah pengawasan staf profesional.
 
@@ -238,7 +238,7 @@ Resort ini punya Wolly Kids Club khusus untuk anak usia 4–12 tahun, dengan ber
 
 ### **Maya Ubud Resort & Spa**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_43fbd60b2db66894c3768e73f627887c.jpg)
+![Maya Ubud Resort & Spa](https://images.gobaligo.id/vocus/vocus_43fbd60b2db66894c3768e73f627887c.jpg)
 
 Kids Club di Maya Ubud punya area bermain indoor dan outdoor buat anak usia 4–12 tahun, buka setiap hari dari jam 8.30 pagi sampai 1.30 siang. Biar si kecil bisa eksplor dan belajar di lingkungan yang aman.
 
@@ -246,7 +246,7 @@ Kids Club di Maya Ubud punya area bermain indoor dan outdoor buat anak usia 4–
 
 ### **Four Seasons Resort Bali at Sayan**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d2221dff502b5bf29a56a1aa7868e210.jpg)
+![Four Seasons Resort Bali at Sayan](https://images.gobaligo.id/vocus/vocus_d2221dff502b5bf29a56a1aa7868e210.jpg)
 
 Pici Pici Kids Club di sini kasih program aktivitas kreatif gratis buat anak usia 4–12 tahun, jadi orang tua bisa menikmati waktu santai sendiri.
 
@@ -254,7 +254,7 @@ Pici Pici Kids Club di sini kasih program aktivitas kreatif gratis buat anak usi
 
 ### **Mandapa, a Ritz-Carlton Reserve**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f0b959d7345e5c940fe6c3e72a1a6c0c.jpg)
+![Mandapa, a Ritz-Carlton Reserve](https://images.gobaligo.id/vocus/vocus_f0b959d7345e5c940fe6c3e72a1a6c0c.jpg)
 
 Resor mewah ini terletak di pinggiran Ubud, suasananya asri banget. Menyediakan suite dan vila yang luas, cocok buat keluarga.
 
@@ -266,7 +266,7 @@ Resor mewah ini terletak di pinggiran Ubud, suasananya asri banget. Menyediakan 
 
 ## Lebih Banyak Rekomendasi Makan & Main di Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
+![Lebih Banyak Rekomendasi Makan & Main di Ubud](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
 [Klik di sini untuk panduan lengkap Ubud!](/blog/ubud-guide/)
 

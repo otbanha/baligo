@@ -78,7 +78,7 @@ Rencana seharian penuh, mau bawa baju ganti, kamera, atau perlengkapan lain? **D
 
 **Rekomendasi Brand**: Ocean Pack, Sea to Summit
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779436782674-waterproof_bags_on_sale_in_thailand.jpg)
+![3⃣ Dry Bag — Andalan Kalau Bawa Banyak Barang](https://images.gobaligo.id/images/2026-05/1779436782674-waterproof_bags_on_sale_in_thailand.jpg)
 
 Ocean Pack adalah brand yang udah aku pakai sendiri. Dry bag mereka beneran anti air dan tahan lama — sekali pakai langsung sadar worth it investasinya. Cocok banget buat petualangan multi-hari.
 

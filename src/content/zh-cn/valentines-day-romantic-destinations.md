@@ -20,7 +20,7 @@ _srcHash: 6d00bc3132489c8e76d625fd72338930
 
 玫瑰花、蛋糕、巧克力，还有浪漫的旅行地点，二月十四日的西方情人节，你知道今年全世界最受欢迎的情人节旅游目的地是哪些城市吗？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa2d254bf0cc097ffe98b22e6d6fde35.jpg)
+![情人节浪漫指南：Agoda评选的2024年十大国际浪漫旅游目的地！](https://images.gobaligo.id/vocus/vocus_aa2d254bf0cc097ffe98b22e6d6fde35.jpg)
 
 这份最浪漫目的地清单是由Agoda旅行平台编排的。他们根据情人节期间情侣们的旅行偏好，公布了当前最受欢迎的十个国际城市的旅游目的地。
 
@@ -28,7 +28,7 @@ _srcHash: 6d00bc3132489c8e76d625fd72338930
 
 除此之外，印尼的巴厘岛也在清单之中。还有普吉岛，两个拥有多样海滩景点的城市。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6215ad9ad25ef58453bfc1181abcabf6.png)
+![情人节浪漫指南：Agoda评选的2024年十大国际浪漫旅游目的地！](https://images.gobaligo.id/vocus/vocus_6215ad9ad25ef58453bfc1181abcabf6.png)
 
 情人节对情侣们来说是创造新回忆的绝佳机会。你想跟你的爱侣度过难忘的浪漫之旅吗？可以参考一下：
 

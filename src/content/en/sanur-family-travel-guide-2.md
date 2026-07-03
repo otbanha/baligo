@@ -26,7 +26,7 @@ Sanur Beach in Bali is an ideal choice for family travel with its serene atmosph
 
 This guide will provide detailed tips for traveling to Sanur with kids during summer/winter breaks and recommend the best family-friendly activities and attractions.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ed9b72292a5f511d44ba07fbf94e878b.png)
+![【2026 Bali Family Travel】Sanur Complete Guide: The Easiest V](https://images.gobaligo.id/vocus/vocus_ed9b72292a5f511d44ba07fbf94e878b.png)
 
 ## Top 3 Recommended Areas for Summer/Winter Family Travel
 
@@ -93,13 +93,13 @@ Although Sanur is more modernized, it still retains Bali's traditional culture. 
 
 ### **1. The Charm of Sanur Beach**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5e82dc6665e39c659dd66b7a031d7c99.jpg)
+![1. The Charm of Sanur Beach](https://images.gobaligo.id/vocus/vocus_5e82dc6665e39c659dd66b7a031d7c99.jpg)
 
 Sanur Beach boasts calm, shallow waters that are perfect for children to splash and play in. Parents can feel at ease letting their kids enjoy the gentle waves and clean beach. Additionally, the beachside promenade is ideal for family strolls, bike rides, or jogs, with plenty of restaurants and cafes along the way for a quick break.
 
 ### 2. Water Activities
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_96eaf38d1524e5a6a49dd46a55480bf7.png)
+![2. Water Activities](https://images.gobaligo.id/vocus/vocus_96eaf38d1524e5a6a49dd46a55480bf7.png)
 
 In Sanur, the number one activity is water sports! Canoeing and Stand-Up Paddleboarding (SUP) are two of the most popular water activities here. You can enjoy the serene ocean atmosphere on calm waters or challenge your balance and strength. This beautiful sea will bring you both fun and challenges, ensuring a delightful time.
 
@@ -107,7 +107,7 @@ In Sanur, the number one activity is water sports! Canoeing and Stand-Up Paddleb
 
 ### 3. Beach Promenade Cycling/Picnicking
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0d4b00a6a1290b4b1dcef2ff8f035538.jpg)
+![3. Beach Promenade Cycling/Picnicking](https://images.gobaligo.id/vocus/vocus_0d4b00a6a1290b4b1dcef2ff8f035538.jpg)
 
 When talking about Sanur, one cannot overlook the over four-kilometer-long beach promenade! This lengthy promenade is one of Sanur's most distinctive features. You can stroll along the shops, jog, or rent a bike and leisurely ride with your kids on the flat path. The beach on one side of the promenade, with its length and variety, guarantees you'll find a spot to call your own—complete with large trees and lovely shade, and free from smoking tourists! Spread out a mat and relax in your private area.
 
@@ -121,7 +121,7 @@ Detailed information/discount tickets [here](/blog/aeroxspace-sanur-indoor-playg
 
 ### 5.Big Garden Corner
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e149dc34fb8b3dd7119b6a6b272d0bf2.jpg)
+![5.Big Garden Corner](https://images.gobaligo.id/vocus/vocus_e149dc34fb8b3dd7119b6a6b272d0bf2.jpg)
 
 If you want to introduce your kids to nature, Big Garden Corner is an excellent choice. For children, there's a playground and a water park, offering a space full of fun and energy. Additionally, Big Garden Corner features many photo-worthy spots, such as Buddha stone carvings, Borobudur temple replicas, treehouses, and more, allowing visitors to create wonderful memories and unique photos. This attraction is a perfect place for families and friends to explore and enjoy together, definitely worth a visit.
 
@@ -129,7 +129,7 @@ Tickets start at 50K IDR, approximately USD$3.
 
 ### 6.Kidz Cafe Sanur （📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ae0c3d10004d2e98248fbadf3ea8c449.jpg)
+![6.Kidz Cafe Sanur （Map）](https://images.gobaligo.id/vocus/vocus_ae0c3d10004d2e98248fbadf3ea8c449.jpg)
 
 Kidz Cafe Sanur is a child-friendly café. Designed specifically for families and children, it offers a safe and comfortable environment where kids and parents can enjoy meals and relaxed moments together.
 
@@ -137,7 +137,7 @@ Kidz Cafe Sanur features a variety of children's play facilities, such as indoor
 
 ### 7.**Shotgun Social Bali** （📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6d2e33ef463d4dc4b92c42d7fed81a0c.jpg)
+![7.Shotgun Social Bali （Map）](https://images.gobaligo.id/vocus/vocus_6d2e33ef463d4dc4b92c42d7fed81a0c.jpg)
 
 Shotgun Social Bali is a popular social space in Sanur. It offers a variety of facilities, including an international restaurant, bar, and café, making it an ideal spot for a casual dining experience. For families with children, the outdoor playground is a great feature, allowing kids to play and have fun while parents enjoy their meal. Its social space concept is perfect for those looking to enjoy a relaxed and comfortable dining experience while still savoring high-quality food and drinks.
 
@@ -145,7 +145,7 @@ If you're in Sanur, Bali, don't miss out on the delicious food and cozy atmosphe
 
 ### 8.Byrd House Bali/Kids Club（📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8cbe01b85a26f4c044bb6b5ac2fe351e.jpg)
+![8.Byrd House Bali/Kids Club（Map）](https://images.gobaligo.id/vocus/vocus_8cbe01b85a26f4c044bb6b5ac2fe351e.jpg)
 
 Byrd House Bali is an ideal choice for a family vacation. From dawn to dusk, the place is filled with a serene Mediterranean vibe, allowing you to savor delicious meals at the main restaurant or enjoy freshly baked pastries at the bakery. The dedicated Kids Club features a playground and swimming pool, ensuring children can play safely while parents indulge in exquisite martinis or relax by the pool, enjoying a leisurely vacation.
 
@@ -157,7 +157,7 @@ Entry fee: 35K IDR, approximately USD$2
 
 ### 10.Baby Turtle Release （📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b24ecb325dc0b72ff903e05b73c5f49f.jpg)
+![10.Baby Turtle Release （Map）](https://images.gobaligo.id/vocus/vocus_b24ecb325dc0b72ff903e05b73c5f49f.jpg)
 
 In Sanur, Bali, there are three turtle conservation centers, which are very meaningful places, especially for visiting with children. This is home to baby turtles, where they are cared for and protected until adulthood. By visiting the turtle sanctuary, children can not only observe and learn about turtle life up close but also understand the importance of protecting marine life. This valuable educational experience will help inspire children's awareness of environmental protection and biodiversity, while also being an unforgettable family activity.
 
@@ -165,7 +165,7 @@ Quick Reference: [🐢Complete Guide to Turtle Watching in Bali: From Kuta to Sa
 
 ### Bonus: Sanur Offshore Snorkeling Experience
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2b63fa1a7c1a8b0c7cf46359930783e9.png)
+![Bonus: Sanur Offshore Snorkeling Experience](https://images.gobaligo.id/vocus/vocus_2b63fa1a7c1a8b0c7cf46359930783e9.png)
 
 Explore the underwater world off the coast of Sanur, Bali! This 1.5-hour snorkeling experience takes just 10 minutes by boat to reach the snorkeling site, where you'll get up close with rich marine life in crystal-clear waters. You'll see a variety of beautiful fish, vibrant coral reefs, and unique underwater Balinese stone gates. The highlight is the fish feeding experience, where schools of tropical fish surround you, creating a magical underwater spectacle. The entire experience is recorded with a GoPro, allowing you to take home precious underwater memories.
 
@@ -179,13 +179,13 @@ Come experience the underwater wonders of Sanur's coast and make snorkeling a me
 
 ## Sanur's Culinary Scene
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d2bb27d79fb2b1c6da979a27483ead23.jpg)
+![Sanur's Culinary Scene](https://images.gobaligo.id/vocus/vocus_d2bb27d79fb2b1c6da979a27483ead23.jpg)
 
 Sanur in Bali is renowned for its diverse culinary scene. We recommend 24 restaurants and cafes offering a wide range of flavors and styles. These include traditional Indonesian cuisine, fresh seafood, international dishes, and local specialties, catering to all dietary preferences and tastes. Let's explore these captivating dining spots together!
 
 ### Sanur InterContinental Hotel Pier Eight Afternoon Tea （📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9fa5a626ef5caf7ba54d29e86d351bfe.png)
+![Sanur InterContinental Hotel Pier Eight Afternoon Tea （Map）](https://images.gobaligo.id/vocus/vocus_9fa5a626ef5caf7ba54d29e86d351bfe.png)
 
 Enjoy a discounted afternoon tea at this five-star hotel with a prime oceanfront location in Sanur. Indulge in delicacies such as pistachio madeleines, strawberry tarts, raspberry chocolate cake, pandan scones, dadar gulung, mint pralines, vegetable quiche, and chicken sandwiches. Pair your treats with a cup of coffee or tea for a relaxing and delightful afternoon.
 
@@ -193,7 +193,7 @@ Enjoy a discounted afternoon tea at this five-star hotel with a prime oceanfront
 
 ### Sanur Naughty Nuri's Warung Dining Experience （📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b10a1c8e093bdad1ab089a09f31f7f8f.png)
+![Sanur Naughty Nuri's Warung Dining Experience （Map）](https://images.gobaligo.id/vocus/vocus_b10a1c8e093bdad1ab089a09f31f7f8f.png)
 
 Naughty Nuri's Warung is a famous pork rib restaurant originally located in Seminyak, and now they have opened a new branch in the bustling area of Sanur. Renowned for its rich and juicy pork ribs, this restaurant attracts numerous food enthusiasts. The new Sanur branch maintains the unique style and delicious dishes of the original location, offering both locals and tourists a fresh culinary experience.
 
@@ -201,7 +201,7 @@ Naughty Nuri's Warung is a famous pork rib restaurant originally located in Semi
 
 ### Massimo Italian Restaurant （📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8f108fdd76d4d1408592b1742d6ccf94.png)
+![Massimo Italian Restaurant （Map）](https://images.gobaligo.id/vocus/vocus_8f108fdd76d4d1408592b1742d6ccf94.png)
 
 Sanur's Italian restaurant serves Italian cuisine and gelato. Their gelato is handmade using natural ingredients from Italy and Indonesia. There are 48 flavors to choose from, check out [Jay's video](https://youtu.be/laRb_l8BdLM?si=pie6QIzYUNimI4vc&t=884).
 
@@ -211,7 +211,7 @@ Every time Jay visits Sanur, he makes sure to dine here and enjoy their ice crea
 
 Sanur offers a wide variety of delicious food options. You can refer to our [Sanur Family Guide Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing), which highlights highly recommended local restaurants, food stalls, and cafes. From traditional Indonesian cuisine and fresh seafood to international dishes and local specialties, there's something to satisfy every palate. Join us in exploring Sanur's culinary delights!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f7afab619992133c3fa648e7d61de5fa.png)
+![Other Sanur Dining Options (Map)](https://images.gobaligo.id/vocus/vocus_f7afab619992133c3fa648e7d61de5fa.png)
 
 [The 'Sanur Family Guide Map' provides detailed directions for each location](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)
 
@@ -223,7 +223,7 @@ Sanur offers a wide variety of delicious food options. You can refer to our [San
 
 ### Maya Sanur Resort & Spa
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_45441e4f7a35747bb8e116f4e5e23996.jpg)
+![Maya Sanur Resort & Spa](https://images.gobaligo.id/vocus/vocus_45441e4f7a35747bb8e116f4e5e23996.jpg)
 
 Maya Sanur Resort & Spa in Bali offers a wealth of children's facilities and activities, ensuring that kids have a fun-filled holiday. The resort's Kids Club, located on the fourth floor, is designed for children aged 4 to 12 and operates from 8:30 AM to 4:30 PM.
 
@@ -235,7 +235,7 @@ Adjacent to the children's pool is an outdoor playground, open from 9 AM to 6 PM
 
 ### Andaz Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ade07c5fff4b98f0de46dc490ae594f6.jpg)
+![Andaz Bali](https://images.gobaligo.id/vocus/vocus_ade07c5fff4b98f0de46dc490ae594f6.jpg)
 
 Andaz Bali resort offers a variety of child-friendly facilities and activities for family travelers, ensuring kids have a blast during their vacation.
 
@@ -249,7 +249,7 @@ Andaz Bali's accommodation options cater to family needs. For example, the Andaz
 
 ### The Meru Sanur
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_701d7db3e97d2219a7cc2e260b3075ac.jpg)
+![The Meru Sanur](https://images.gobaligo.id/vocus/vocus_701d7db3e97d2219a7cc2e260b3075ac.jpg)
 
 The Meru Sanur resort is renowned for its family-friendly environment. The kids' club here is an ideal spot for family bonding. Open daily from 8 AM to 8 PM, it offers both indoor and outdoor activity spaces.
 
@@ -259,7 +259,7 @@ Here, children can participate in a variety of fun and educational activities, a
 
 ### Prama Sanur Beach Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7902b1c9b7023b9cb0d2f967c440c5ea.jpg)
+![Prama Sanur Beach Bali](https://images.gobaligo.id/vocus/vocus_7902b1c9b7023b9cb0d2f967c440c5ea.jpg)
 
 Prama Sanur Beach Bali is renowned for its family-friendly facilities. The hotel features a dedicated children's pool area with slides and shallow zones, ensuring kids can play safely. Additionally, the hotel offers a kids' club with a range of fun activities to keep young guests entertained. Parents can unwind at the nearby pool bar, savoring the leisurely pace of their vacation.
 

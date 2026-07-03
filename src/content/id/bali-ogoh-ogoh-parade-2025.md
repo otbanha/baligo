@@ -29,7 +29,7 @@ _srcHash: 5ec763b4e4d88fd9e6a911cd5da5cd93
 
 Bali, surga tropis yang dijuluki 'Pulau Dewata', nggak cuma terkenal sama pantai-pantai cantik, sawah terasering yang memukau, dan budaya Hindu yang kaya, tapi juga punya banyak festival tradisional unik. Salah satunya, Pawai Ogoh-Ogoh yang digelar setiap tahun pas malam sebelum 'Hari Raya Nyepi', pasti jadi salah satu acara budaya paling bikin merinding. Ini adalah perayaan besar yang menggabungkan seni, agama, dan semangat komunitas, dan udah menarik banyak wisatawan dan warga lokal buat ikut meramaikan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_47e34998f736eff49fecf749970e2c98.jpg)
+![2025 Bali Pawai Ogoh-Ogoh: Pawai Raksasa yang Bikin Merindin](https://images.gobaligo.id/vocus/vocus_47e34998f736eff49fecf749970e2c98.jpg)
 
 ## **Apa Itu Pawai Ogoh-Ogoh?**
 
@@ -93,7 +93,7 @@ Banyak daerah di Bali yang ngadain Pawai Ogoh-Ogoh. Ini beberapa spot favorit bu
 - **Hormati Budaya Lokal**: Pawai Ogoh-Ogoh itu acara keagamaan, jadi hormati adat setempat dan hindari tingkah yang nggak sopan.
 - **Bawa Kamera**: Ini pesta visual yang keren abis, jangan lupa bawa kamera buat abadikan momen tak terlupakan!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e9a990889ea64ed410745074d370f00.jpg)
+![Tips Nonton Pawai](https://images.gobaligo.id/vocus/vocus_3e9a990889ea64ed410745074d370f00.jpg)
 
 ---
 

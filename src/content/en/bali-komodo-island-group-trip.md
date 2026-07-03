@@ -26,7 +26,7 @@ This time, the six of us—all girls—traveled to Bali and Komodo Island in Sep
 
 What touched us most on this trip, aside from the stunning scenery, was our private driver, Gede Arimbawa! He was not only thoughtful but also incredibly kind and helpful. He respected our itinerary and offered practical advice at just the right moments, making our days in Bali go smoothly. Whether reminding us about travel times or helping book restaurants and activities, his service gave us immense peace of mind. Highly recommend this wonderful driver! 🥰
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9c6297afa65717ca1de714d7b83a7289.jpg)
+![1. Recommended Private Driver: Gede Arimbawa](https://images.gobaligo.id/vocus/vocus_9c6297afa65717ca1de714d7b83a7289.jpg)
 
 Gede has received tons of praise in the community! [Check it out here](/blog/bali-private-car-drivers-guide/)
 
@@ -126,7 +126,7 @@ In Ubud, we encountered some motorcycle taxi drivers who haggled with us. We boo
 
 > Editor's note: You can avoid this by using a ride-hailing app: [Must-Download APP for Traveling in Indonesia/Bali: Gojek Full Guide](/blog/gojek-bali-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_132b0fdbdbd2b8f1e37a9dc51b38bd58.png)
+![13. Beware of the Motorcycle Scam!](https://images.gobaligo.id/vocus/vocus_132b0fdbdbd2b8f1e37a9dc51b38bd58.png)
 
 These are some of our experiences from this trip. There are still many details I haven't had time to share, but I'll add more if I think of them. Once again, a big thank you to our driver Gede. Even though we went to another island for the last three days, he stayed in touch and helped us solve problems anytime. Although the trip had a few bumps, overall it was a wonderful experience! If you're planning a trip to Bali, I hope these tips are helpful. Wishing you a great journey! 💼🌞
 

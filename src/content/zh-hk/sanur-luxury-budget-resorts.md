@@ -45,7 +45,7 @@ _srcHash: 1c64fa23c5e01f87aaf2773354427ebb
 
 大多數沙努爾酒店位於熱鬧嘅市中心附近或者沙努爾長達 8 公里嘅美麗海灘上。安靜、悠閒嘅小鎮、實惠嘅酒店價格同埋優秀嘅海灘令沙努爾成為峇里島上最適合家庭同經濟型旅行者嘅住宿選擇之一。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b0ec323650ca5195ad2c4c714b78fa99.jpg)
+![【沙努爾住宿推薦】20+ Sanur 度假村同 Villa 全攻略：奢華海景、平價舒適、親子避雷指南](https://images.gobaligo.id/vocus/vocus_b0ec323650ca5195ad2c4c714b78fa99.jpg)
 
 沙努爾鎮擁有悠閒放鬆嘅氛圍，而且保持住濃厚嘅峇里文化。除咗商店、酒吧同餐廳之外，沙努爾仲有 Le Mayeur 藝術博物館同各種水上運動可以揀。你可以喺沙努爾嘅酒店享受積極嘅旅行或者完全放鬆嘅住宿體驗，一切取決於你自己。
 
@@ -63,25 +63,25 @@ https://youtu.be/SpcgZ4iK7qs
 
 ### Maya Sanur Resort＆Spa - 豪華海濱度假村首選
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774446873665-282099320.jpg)
+![Maya Sanur Resort＆Spa - 豪華海濱度假村首選](https://images.gobaligo.id/images/2026-03/1774446873665-282099320.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774446876315-282099436.jpg)
+![Maya Sanur Resort＆Spa - 豪華海濱度假村首選](https://images.gobaligo.id/images/2026-03/1774446876315-282099436.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774446876887-282099451.jpg)
+![Maya Sanur Resort＆Spa - 豪華海濱度假村首選](https://images.gobaligo.id/images/2026-03/1774446876887-282099451.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774446877389-282099478.jpg)
+![Maya Sanur Resort＆Spa - 豪華海濱度假村首選](https://images.gobaligo.id/images/2026-03/1774446877389-282099478.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774446878272-282100287.jpg)
+![Maya Sanur Resort＆Spa - 豪華海濱度假村首選](https://images.gobaligo.id/images/2026-03/1774446878272-282100287.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774446879912-377471174.jpg)
+![Maya Sanur Resort＆Spa - 豪華海濱度假村首選](https://images.gobaligo.id/images/2026-03/1774446879912-377471174.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774446880523-377471194.jpg)
+![Maya Sanur Resort＆Spa - 豪華海濱度假村首選](https://images.gobaligo.id/images/2026-03/1774446880523-377471194.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774446881042-388152399.jpg)
+![Maya Sanur Resort＆Spa - 豪華海濱度假村首選](https://images.gobaligo.id/images/2026-03/1774446881042-388152399.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774446881547-282095419.jpg)
+![Maya Sanur Resort＆Spa - 豪華海濱度假村首選](https://images.gobaligo.id/images/2026-03/1774446881547-282095419.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774446881987-282097212.jpg)
+![Maya Sanur Resort＆Spa - 豪華海濱度假村首選](https://images.gobaligo.id/images/2026-03/1774446881987-282097212.jpg)
 
 Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努爾，地理位置優越，設施齊全，為旅客提供完美嘅度假體驗。度假村有個戶外游泳池同四個餐廳酒吧，等客人在度假時有多元化嘅餐飲選擇。免費WiFi同免費停車場令住宿更加方便。
 
@@ -97,25 +97,25 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 ### **Seascape Resort Sanur By Ini Vie Hospitality – 豪華蜜月理想選擇**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774446961355-568284582.jpg)
+![Seascape Resort Sanur By Ini Vie Hospitality – 豪華蜜月理想選擇](https://images.gobaligo.id/images/2026-03/1774446961355-568284582.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774446962194-558108294.jpg)
+![Seascape Resort Sanur By Ini Vie Hospitality – 豪華蜜月理想選擇](https://images.gobaligo.id/images/2026-03/1774446962194-558108294.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774446962545-558108511.jpg)
+![Seascape Resort Sanur By Ini Vie Hospitality – 豪華蜜月理想選擇](https://images.gobaligo.id/images/2026-03/1774446962545-558108511.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774446962953-558108572.jpg)
+![Seascape Resort Sanur By Ini Vie Hospitality – 豪華蜜月理想選擇](https://images.gobaligo.id/images/2026-03/1774446962953-558108572.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774446963378-558109599.jpg)
+![Seascape Resort Sanur By Ini Vie Hospitality – 豪華蜜月理想選擇](https://images.gobaligo.id/images/2026-03/1774446963378-558109599.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774446963770-558110951.jpg)
+![Seascape Resort Sanur By Ini Vie Hospitality – 豪華蜜月理想選擇](https://images.gobaligo.id/images/2026-03/1774446963770-558110951.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774446964182-558111237.jpg)
+![Seascape Resort Sanur By Ini Vie Hospitality – 豪華蜜月理想選擇](https://images.gobaligo.id/images/2026-03/1774446964182-558111237.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774446964697-558111531.jpg)
+![Seascape Resort Sanur By Ini Vie Hospitality – 豪華蜜月理想選擇](https://images.gobaligo.id/images/2026-03/1774446964697-558111531.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774446965104-565872665.jpg)
+![Seascape Resort Sanur By Ini Vie Hospitality – 豪華蜜月理想選擇](https://images.gobaligo.id/images/2026-03/1774446965104-565872665.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774446965511-568284443.jpg)
+![Seascape Resort Sanur By Ini Vie Hospitality – 豪華蜜月理想選擇](https://images.gobaligo.id/images/2026-03/1774446965511-568284443.jpg)
 
 **位置**｜Seascape Resort位於沙努爾嘅郊區，交通方便，可以去沙努爾最好嘅海灘。距離Sindhu海灘1.2公里，去Padang Galak海灘只需6分鐘車程，令你隨時享受陽光、沙灘同海洋。
 
@@ -129,25 +129,25 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 ### **Hyatt Regency Bali – 最適合家庭入住嘅豪華Sanur旅館之一**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447077410-214614428.jpg)
+![Hyatt Regency Bali – 最適合家庭入住嘅豪華Sanur旅館之一](https://images.gobaligo.id/images/2026-03/1774447077410-214614428.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447078083-214614756.jpg)
+![Hyatt Regency Bali – 最適合家庭入住嘅豪華Sanur旅館之一](https://images.gobaligo.id/images/2026-03/1774447078083-214614756.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447078459-214614768.jpg)
+![Hyatt Regency Bali – 最適合家庭入住嘅豪華Sanur旅館之一](https://images.gobaligo.id/images/2026-03/1774447078459-214614768.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447078766-214614778.jpg)
+![Hyatt Regency Bali – 最適合家庭入住嘅豪華Sanur旅館之一](https://images.gobaligo.id/images/2026-03/1774447078766-214614778.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447079123-214614812.jpg)
+![Hyatt Regency Bali – 最適合家庭入住嘅豪華Sanur旅館之一](https://images.gobaligo.id/images/2026-03/1774447079123-214614812.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447079480-214614816.jpg)
+![Hyatt Regency Bali – 最適合家庭入住嘅豪華Sanur旅館之一](https://images.gobaligo.id/images/2026-03/1774447079480-214614816.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447079899-217944378.jpg)
+![Hyatt Regency Bali – 最適合家庭入住嘅豪華Sanur旅館之一](https://images.gobaligo.id/images/2026-03/1774447079899-217944378.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447080413-160819699.jpg)
+![Hyatt Regency Bali – 最適合家庭入住嘅豪華Sanur旅館之一](https://images.gobaligo.id/images/2026-03/1774447080413-160819699.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447080818-214614384.jpg)
+![Hyatt Regency Bali – 最適合家庭入住嘅豪華Sanur旅館之一](https://images.gobaligo.id/images/2026-03/1774447080818-214614384.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447081234-214614427.jpg)
+![Hyatt Regency Bali – 最適合家庭入住嘅豪華Sanur旅館之一](https://images.gobaligo.id/images/2026-03/1774447081234-214614427.jpg)
 
 **位置**｜Hyatt Regency位於Sanur海灘，周圍有好多咖啡館、餐廳同酒吧，行路就到。
 
@@ -161,25 +161,25 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 ### **Andaz Bali – a Concept by Hyatt – Sanur最奢華嘅五星級酒店之一**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447149768-540266088.jpg)
+![Andaz Bali – a Concept by Hyatt – Sanur最奢華嘅五星級酒店之一](https://images.gobaligo.id/images/2026-03/1774447149768-540266088.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447150694-540266091.jpg)
+![Andaz Bali – a Concept by Hyatt – Sanur最奢華嘅五星級酒店之一](https://images.gobaligo.id/images/2026-03/1774447150694-540266091.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447151272-540266092.jpg)
+![Andaz Bali – a Concept by Hyatt – Sanur最奢華嘅五星級酒店之一](https://images.gobaligo.id/images/2026-03/1774447151272-540266092.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447151700-540266099.jpg)
+![Andaz Bali – a Concept by Hyatt – Sanur最奢華嘅五星級酒店之一](https://images.gobaligo.id/images/2026-03/1774447151700-540266099.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447152203-540266101.jpg)
+![Andaz Bali – a Concept by Hyatt – Sanur最奢華嘅五星級酒店之一](https://images.gobaligo.id/images/2026-03/1774447152203-540266101.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447152596-540266131.jpg)
+![Andaz Bali – a Concept by Hyatt – Sanur最奢華嘅五星級酒店之一](https://images.gobaligo.id/images/2026-03/1774447152596-540266131.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447153022-540266161.jpg)
+![Andaz Bali – a Concept by Hyatt – Sanur最奢華嘅五星級酒店之一](https://images.gobaligo.id/images/2026-03/1774447153022-540266161.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447153528-540266167.jpg)
+![Andaz Bali – a Concept by Hyatt – Sanur最奢華嘅五星級酒店之一](https://images.gobaligo.id/images/2026-03/1774447153528-540266167.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447154038-540266178.jpg)
+![Andaz Bali – a Concept by Hyatt – Sanur最奢華嘅五星級酒店之一](https://images.gobaligo.id/images/2026-03/1774447154038-540266178.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447154420-540266087.jpg)
+![Andaz Bali – a Concept by Hyatt – Sanur最奢華嘅五星級酒店之一](https://images.gobaligo.id/images/2026-03/1774447154420-540266087.jpg)
 
 **位置**｜呢間適合家庭入住嘅海濱五星級酒店距離Sanur熱鬧嘅地區唔遠，鬧中取靜。離Ngurah Rai國際機場15公里。
 
@@ -193,25 +193,25 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 ### **Griya Santrian a Beach Resort – Sanur最好嘅海灘酒店之一**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447243465-465495528.jpg)
+![Griya Santrian a Beach Resort – Sanur最好嘅海灘酒店之一](https://images.gobaligo.id/images/2026-03/1774447243465-465495528.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447244394-465499230.jpg)
+![Griya Santrian a Beach Resort – Sanur最好嘅海灘酒店之一](https://images.gobaligo.id/images/2026-03/1774447244394-465499230.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447244744-465499684.jpg)
+![Griya Santrian a Beach Resort – Sanur最好嘅海灘酒店之一](https://images.gobaligo.id/images/2026-03/1774447244744-465499684.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447245252-465501520.jpg)
+![Griya Santrian a Beach Resort – Sanur最好嘅海灘酒店之一](https://images.gobaligo.id/images/2026-03/1774447245252-465501520.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447245726-31015540.jpg)
+![Griya Santrian a Beach Resort – Sanur最好嘅海灘酒店之一](https://images.gobaligo.id/images/2026-03/1774447245726-31015540.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447246072-31015802.jpg)
+![Griya Santrian a Beach Resort – Sanur最好嘅海灘酒店之一](https://images.gobaligo.id/images/2026-03/1774447246072-31015802.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447246406-31089846.jpg)
+![Griya Santrian a Beach Resort – Sanur最好嘅海灘酒店之一](https://images.gobaligo.id/images/2026-03/1774447246406-31089846.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447246893-31089847.jpg)
+![Griya Santrian a Beach Resort – Sanur最好嘅海灘酒店之一](https://images.gobaligo.id/images/2026-03/1774447246893-31089847.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447247518-187032805.jpg)
+![Griya Santrian a Beach Resort – Sanur最好嘅海灘酒店之一](https://images.gobaligo.id/images/2026-03/1774447247518-187032805.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447247962-187032965.jpg)
+![Griya Santrian a Beach Resort – Sanur最好嘅海灘酒店之一](https://images.gobaligo.id/images/2026-03/1774447247962-187032965.jpg)
 
 **位置**｜Griya Santrian直接坐落喺海灘上，係Sanur海灘上最好嘅酒店之一。酒店設喺美麗嘅園林入面。
 
@@ -225,25 +225,25 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 ### **The Pavilions Bali – Sanur提供私人泳池嘅豪華別墅**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447304389-149715765.jpg)
+![The Pavilions Bali – Sanur提供私人泳池嘅豪華別墅](https://images.gobaligo.id/images/2026-03/1774447304389-149715765.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447304794-149717022.jpg)
+![The Pavilions Bali – Sanur提供私人泳池嘅豪華別墅](https://images.gobaligo.id/images/2026-03/1774447304794-149717022.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447305193-236537655.jpg)
+![The Pavilions Bali – Sanur提供私人泳池嘅豪華別墅](https://images.gobaligo.id/images/2026-03/1774447305193-236537655.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447305512-236537661.jpg)
+![The Pavilions Bali – Sanur提供私人泳池嘅豪華別墅](https://images.gobaligo.id/images/2026-03/1774447305512-236537661.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447305896-239601443.jpg)
+![The Pavilions Bali – Sanur提供私人泳池嘅豪華別墅](https://images.gobaligo.id/images/2026-03/1774447305896-239601443.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447306305-239602196.jpg)
+![The Pavilions Bali – Sanur提供私人泳池嘅豪華別墅](https://images.gobaligo.id/images/2026-03/1774447306305-239602196.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447306718-239602892.jpg)
+![The Pavilions Bali – Sanur提供私人泳池嘅豪華別墅](https://images.gobaligo.id/images/2026-03/1774447306718-239602892.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447307148-239603203.jpg)
+![The Pavilions Bali – Sanur提供私人泳池嘅豪華別墅](https://images.gobaligo.id/images/2026-03/1774447307148-239603203.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447307528-239603228.jpg)
+![The Pavilions Bali – Sanur提供私人泳池嘅豪華別墅](https://images.gobaligo.id/images/2026-03/1774447307528-239603228.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447307834-239603238.jpg)
+![The Pavilions Bali – Sanur提供私人泳池嘅豪華別墅](https://images.gobaligo.id/images/2026-03/1774447307834-239603238.jpg)
 
 **位置**｜呢間酒店位於精華嘅Sindhu海灘附近。
 
@@ -257,25 +257,25 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 ### Sudamala Suites & Villas **– 最具峇里風格嘅酒店**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447397326-328449347.jpg)
+![Sudamala Suites & Villas – 最具峇里風格嘅酒店](https://images.gobaligo.id/images/2026-03/1774447397326-328449347.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447398178-410501789.jpg)
+![Sudamala Suites & Villas – 最具峇里風格嘅酒店](https://images.gobaligo.id/images/2026-03/1774447398178-410501789.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447398667-455573146.jpg)
+![Sudamala Suites & Villas – 最具峇里風格嘅酒店](https://images.gobaligo.id/images/2026-03/1774447398667-455573146.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447399081-469546393.jpg)
+![Sudamala Suites & Villas – 最具峇里風格嘅酒店](https://images.gobaligo.id/images/2026-03/1774447399081-469546393.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447399398-496488253.jpg)
+![Sudamala Suites & Villas – 最具峇里風格嘅酒店](https://images.gobaligo.id/images/2026-03/1774447399398-496488253.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447399802-83958890.jpg)
+![Sudamala Suites & Villas – 最具峇里風格嘅酒店](https://images.gobaligo.id/images/2026-03/1774447399802-83958890.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447400209-328446907.jpg)
+![Sudamala Suites & Villas – 最具峇里風格嘅酒店](https://images.gobaligo.id/images/2026-03/1774447400209-328446907.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447400528-328447341.jpg)
+![Sudamala Suites & Villas – 最具峇里風格嘅酒店](https://images.gobaligo.id/images/2026-03/1774447400528-328447341.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447400909-328448062.jpg)
+![Sudamala Suites & Villas – 最具峇里風格嘅酒店](https://images.gobaligo.id/images/2026-03/1774447400909-328448062.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774447401350-328448273.jpg)
+![Sudamala Suites & Villas – 最具峇里風格嘅酒店](https://images.gobaligo.id/images/2026-03/1774447401350-328448273.jpg)
 
 **位置**｜呢間靚靚度假村位於一條安靜嘅小路，距離Sanur海灘僅5分鐘步行路程。距離Ngurah Rai機場同庫塔有30分鐘車程。Sudamala嘅中心位置意味住附近有好多餐飲選擇。
 
@@ -289,29 +289,29 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 ### Bali Beach Hotel - 沙努爾超高CP值五星級親子天堂
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448113545-2024-07-02.jpeg)
+![Bali Beach Hotel - 沙努爾超高CP值五星級親子天堂](https://images.gobaligo.id/images/2026-03/1774448113545-2024-07-02.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448113931-2025-01-09.jpeg)
+![Bali Beach Hotel - 沙努爾超高CP值五星級親子天堂](https://images.gobaligo.id/images/2026-03/1774448113931-2025-01-09.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448115723-5386d1f3fa4af6baadc16c127cd00b7f.jpeg)
+![Bali Beach Hotel - 沙努爾超高CP值五星級親子天堂](https://images.gobaligo.id/images/2026-03/1774448115723-5386d1f3fa4af6baadc16c127cd00b7f.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448116096-572115132.jpg)
+![Bali Beach Hotel - 沙努爾超高CP值五星級親子天堂](https://images.gobaligo.id/images/2026-03/1774448116096-572115132.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448116434-597216766.jpg)
+![Bali Beach Hotel - 沙努爾超高CP值五星級親子天堂](https://images.gobaligo.id/images/2026-03/1774448116434-597216766.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448116950-699408025.jpg)
+![Bali Beach Hotel - 沙努爾超高CP值五星級親子天堂](https://images.gobaligo.id/images/2026-03/1774448116950-699408025.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448117374-ac8f24c25e043f1bdf1649d9684f3111.jpeg)
+![Bali Beach Hotel - 沙努爾超高CP值五星級親子天堂](https://images.gobaligo.id/images/2026-03/1774448117374-ac8f24c25e043f1bdf1649d9684f3111.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448117799-c84a96d8442b157a0939204702a13343.jpeg)
+![Bali Beach Hotel - 沙努爾超高CP值五星級親子天堂](https://images.gobaligo.id/images/2026-03/1774448117799-c84a96d8442b157a0939204702a13343.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448118292-caption_1_.jpg)
+![Bali Beach Hotel - 沙努爾超高CP值五星級親子天堂](https://images.gobaligo.id/images/2026-03/1774448118292-caption_1_.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448118697-434c81694b21c11cbdbafe57ab13085e.jpeg)
+![Bali Beach Hotel - 沙努爾超高CP值五星級親子天堂](https://images.gobaligo.id/images/2026-03/1774448118697-434c81694b21c11cbdbafe57ab13085e.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448119157-526902560.jpg)
+![Bali Beach Hotel - 沙努爾超高CP值五星級親子天堂](https://images.gobaligo.id/images/2026-03/1774448119157-526902560.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448119493-unnamed.jpeg)
+![Bali Beach Hotel - 沙努爾超高CP值五星級親子天堂](https://images.gobaligo.id/images/2026-03/1774448119493-unnamed.jpeg)
 
 沙努爾嘅Bali Beach Hotel，以驚人嘅性價比重新定義咗五星級度假體驗。只需美金129蚊起，就可以入住海景第一排客房，仲打造咗真正適合親子同樂嘅完美環境，從專業嘅兒童俱樂部到貼心嘅家庭設施，處處都見到對旅客嘅用心。
 
@@ -327,16 +327,16 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 ### 沙努爾最靚五星療癒度假村 — The Meru Sanur
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780211240355-2024-07-02.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-05/1780211241125-549267171.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-05/1780211241929-597219416.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-05/1780211242489-a654724c299c2c110131e3bcb1612476.webp)
-![raw-image](https://images.gobaligo.id/images/2026-05/1780211243061-537982534.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-05/1780211243462-537983614.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-05/1780211243969-575293685.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-05/1780211244555-a9144c28a802b8643d969866520aa8ad.webp)
-![raw-image](https://images.gobaligo.id/images/2026-05/1780211245048-c53d3d8855e7461478a4b778ad054e9a.webp)
-![raw-image](https://images.gobaligo.id/images/2026-05/1780211245452-2ce8751393783e79ec077dd2adf4dc61.webp)
+![沙努爾最靚五星療癒度假村 — The Meru Sanur](https://images.gobaligo.id/images/2026-05/1780211240355-2024-07-02.jpeg)
+![沙努爾最靚五星療癒度假村 — The Meru Sanur](https://images.gobaligo.id/images/2026-05/1780211241125-549267171.jpg)
+![沙努爾最靚五星療癒度假村 — The Meru Sanur](https://images.gobaligo.id/images/2026-05/1780211241929-597219416.jpg)
+![沙努爾最靚五星療癒度假村 — The Meru Sanur](https://images.gobaligo.id/images/2026-05/1780211242489-a654724c299c2c110131e3bcb1612476.webp)
+![沙努爾最靚五星療癒度假村 — The Meru Sanur](https://images.gobaligo.id/images/2026-05/1780211243061-537982534.jpg)
+![沙努爾最靚五星療癒度假村 — The Meru Sanur](https://images.gobaligo.id/images/2026-05/1780211243462-537983614.jpg)
+![沙努爾最靚五星療癒度假村 — The Meru Sanur](https://images.gobaligo.id/images/2026-05/1780211243969-575293685.jpg)
+![沙努爾最靚五星療癒度假村 — The Meru Sanur](https://images.gobaligo.id/images/2026-05/1780211244555-a9144c28a802b8643d969866520aa8ad.webp)
+![沙努爾最靚五星療癒度假村 — The Meru Sanur](https://images.gobaligo.id/images/2026-05/1780211245048-c53d3d8855e7461478a4b778ad054e9a.webp)
+![沙努爾最靚五星療癒度假村 — The Meru Sanur](https://images.gobaligo.id/images/2026-05/1780211245452-2ce8751393783e79ec077dd2adf4dc61.webp)
 
 2024 年開幕，Agoda 評分 9.1，攞咗 2025 旅人鑑賞優勝，一出場就企穩咗沙努爾頂級住宿嘅位置。
 
@@ -374,27 +374,27 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 ### Maison Aurelia Sanur – 情侶套房嘅最佳選擇
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448226233-524375767.jpg)
+![Maison Aurelia Sanur – 情侶套房嘅最佳選擇](https://images.gobaligo.id/images/2026-03/1774448226233-524375767.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448226589-524375768.jpg)
+![Maison Aurelia Sanur – 情侶套房嘅最佳選擇](https://images.gobaligo.id/images/2026-03/1774448226589-524375768.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448227010-524375771.jpg)
+![Maison Aurelia Sanur – 情侶套房嘅最佳選擇](https://images.gobaligo.id/images/2026-03/1774448227010-524375771.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448227509-524375772.jpg)
+![Maison Aurelia Sanur – 情侶套房嘅最佳選擇](https://images.gobaligo.id/images/2026-03/1774448227509-524375772.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448227903-524386598.jpg)
+![Maison Aurelia Sanur – 情侶套房嘅最佳選擇](https://images.gobaligo.id/images/2026-03/1774448227903-524386598.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448228331-524386644.jpg)
+![Maison Aurelia Sanur – 情侶套房嘅最佳選擇](https://images.gobaligo.id/images/2026-03/1774448228331-524386644.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448228763-524387959.jpg)
+![Maison Aurelia Sanur – 情侶套房嘅最佳選擇](https://images.gobaligo.id/images/2026-03/1774448228763-524387959.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448229270-524375164.jpg)
+![Maison Aurelia Sanur – 情侶套房嘅最佳選擇](https://images.gobaligo.id/images/2026-03/1774448229270-524375164.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448229674-524375166.jpg)
+![Maison Aurelia Sanur – 情侶套房嘅最佳選擇](https://images.gobaligo.id/images/2026-03/1774448229674-524375166.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448230070-524375710.jpg)
+![Maison Aurelia Sanur – 情侶套房嘅最佳選擇](https://images.gobaligo.id/images/2026-03/1774448230070-524375710.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448230474-524375752.jpg)
+![Maison Aurelia Sanur – 情侶套房嘅最佳選擇](https://images.gobaligo.id/images/2026-03/1774448230474-524375752.jpg)
 
 **位置** | Maison Aurelia位於Sanur嘅中心地帶，離海灘唔遠。我哋特別鍾意呢個區，因為附近有好多餐廳同咖啡館任你揀。另外，附近仲有間大型超市，你可以喺嗰度買酒精飲品同零食。
 
@@ -408,25 +408,25 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 ### Akaya Bali – 適合長期住宿嘅Sanur住宿選擇
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448291150-203226786.jpg)
+![Akaya Bali – 適合長期住宿嘅Sanur住宿選擇](https://images.gobaligo.id/images/2026-03/1774448291150-203226786.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448291543-203226890.jpg)
+![Akaya Bali – 適合長期住宿嘅Sanur住宿選擇](https://images.gobaligo.id/images/2026-03/1774448291543-203226890.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448292055-203229358.jpg)
+![Akaya Bali – 適合長期住宿嘅Sanur住宿選擇](https://images.gobaligo.id/images/2026-03/1774448292055-203229358.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448292452-204583153.jpg)
+![Akaya Bali – 適合長期住宿嘅Sanur住宿選擇](https://images.gobaligo.id/images/2026-03/1774448292452-204583153.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448292893-216924402.jpg)
+![Akaya Bali – 適合長期住宿嘅Sanur住宿選擇](https://images.gobaligo.id/images/2026-03/1774448292893-216924402.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448293197-227536004.jpg)
+![Akaya Bali – 適合長期住宿嘅Sanur住宿選擇](https://images.gobaligo.id/images/2026-03/1774448293197-227536004.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448293554-227536016.jpg)
+![Akaya Bali – 適合長期住宿嘅Sanur住宿選擇](https://images.gobaligo.id/images/2026-03/1774448293554-227536016.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448293924-227536029.jpg)
+![Akaya Bali – 適合長期住宿嘅Sanur住宿選擇](https://images.gobaligo.id/images/2026-03/1774448293924-227536029.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448294264-227536038.jpg)
+![Akaya Bali – 適合長期住宿嘅Sanur住宿選擇](https://images.gobaligo.id/images/2026-03/1774448294264-227536038.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448294688-228042295.jpg)
+![Akaya Bali – 適合長期住宿嘅Sanur住宿選擇](https://images.gobaligo.id/images/2026-03/1774448294688-228042295.jpg)
 
 **位置** | Akaya Bali距離Segara海灘步行約10分鐘，Karang同Sanur海灘以及好多餐飲選擇都喺步行範圍內。
 
@@ -438,25 +438,25 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 ### Bebek Cottages – 最有峇里島風情嘅中價住宿選擇
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448356816-296499891.jpg)
+![Bebek Cottages – 最有峇里島風情嘅中價住宿選擇](https://images.gobaligo.id/images/2026-03/1774448356816-296499891.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448357269-296499923.jpg)
+![Bebek Cottages – 最有峇里島風情嘅中價住宿選擇](https://images.gobaligo.id/images/2026-03/1774448357269-296499923.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448357673-296499924.jpg)
+![Bebek Cottages – 最有峇里島風情嘅中價住宿選擇](https://images.gobaligo.id/images/2026-03/1774448357673-296499924.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448358074-296499925.jpg)
+![Bebek Cottages – 最有峇里島風情嘅中價住宿選擇](https://images.gobaligo.id/images/2026-03/1774448358074-296499925.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448358397-296499929.jpg)
+![Bebek Cottages – 最有峇里島風情嘅中價住宿選擇](https://images.gobaligo.id/images/2026-03/1774448358397-296499929.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448358789-296499942.jpg)
+![Bebek Cottages – 最有峇里島風情嘅中價住宿選擇](https://images.gobaligo.id/images/2026-03/1774448358789-296499942.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448359073-296499950.jpg)
+![Bebek Cottages – 最有峇里島風情嘅中價住宿選擇](https://images.gobaligo.id/images/2026-03/1774448359073-296499950.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448359403-296499954.jpg)
+![Bebek Cottages – 最有峇里島風情嘅中價住宿選擇](https://images.gobaligo.id/images/2026-03/1774448359403-296499954.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448359742-296499964.jpg)
+![Bebek Cottages – 最有峇里島風情嘅中價住宿選擇](https://images.gobaligo.id/images/2026-03/1774448359742-296499964.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448360123-348842016.jpg)
+![Bebek Cottages – 最有峇里島風情嘅中價住宿選擇](https://images.gobaligo.id/images/2026-03/1774448360123-348842016.jpg)
 
 **位置** | Bebek Cottages 遠離 Sanur 中心嘅嘈雜，係體驗傳統峇里島風情嘅理想選擇。呢間酒店距離 Mertasari 海灘只係幾步路，特別啱鍾意玩風箏衝浪同風帆衝浪嘅遊客。另外，Pengembak 海灘、Semawang 海灘同好多餐廳、咖啡館都喺步行範圍之內。
 
@@ -470,25 +470,25 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 ### Natah Bale Villas – 最啱冇車嘅旅客嘅 Sanur 住宿選擇
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448473722-26246929.jpg)
+![Natah Bale Villas – 最啱冇車嘅旅客嘅 Sanur 住宿選擇](https://images.gobaligo.id/images/2026-03/1774448473722-26246929.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448474855-49762995.jpg)
+![Natah Bale Villas – 最啱冇車嘅旅客嘅 Sanur 住宿選擇](https://images.gobaligo.id/images/2026-03/1774448474855-49762995.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448475868-346904979.jpg)
+![Natah Bale Villas – 最啱冇車嘅旅客嘅 Sanur 住宿選擇](https://images.gobaligo.id/images/2026-03/1774448475868-346904979.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448476675-346905055.jpg)
+![Natah Bale Villas – 最啱冇車嘅旅客嘅 Sanur 住宿選擇](https://images.gobaligo.id/images/2026-03/1774448476675-346905055.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448477205-346905093.jpg)
+![Natah Bale Villas – 最啱冇車嘅旅客嘅 Sanur 住宿選擇](https://images.gobaligo.id/images/2026-03/1774448477205-346905093.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448477952-346905395.jpg)
+![Natah Bale Villas – 最啱冇車嘅旅客嘅 Sanur 住宿選擇](https://images.gobaligo.id/images/2026-03/1774448477952-346905395.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448479132-26246321.jpg)
+![Natah Bale Villas – 最啱冇車嘅旅客嘅 Sanur 住宿選擇](https://images.gobaligo.id/images/2026-03/1774448479132-26246321.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448479865-26246644.jpg)
+![Natah Bale Villas – 最啱冇車嘅旅客嘅 Sanur 住宿選擇](https://images.gobaligo.id/images/2026-03/1774448479865-26246644.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448480552-26246684.jpg)
+![Natah Bale Villas – 最啱冇車嘅旅客嘅 Sanur 住宿選擇](https://images.gobaligo.id/images/2026-03/1774448480552-26246684.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448481103-26246729.jpg)
+![Natah Bale Villas – 最啱冇車嘅旅客嘅 Sanur 住宿選擇](https://images.gobaligo.id/images/2026-03/1774448481103-26246729.jpg)
 
 **位置** | Natah Bale Villas 距離 Sanur 海灘只係行五分鐘。
 
@@ -502,25 +502,25 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 ### The Samata by LifestyleRetreats – 最啱靜修嘅精品度假村
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448559956-65710330.jpg)
+![The Samata by LifestyleRetreats – 最啱靜修嘅精品度假村](https://images.gobaligo.id/images/2026-03/1774448559956-65710330.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448560338-65710339.jpg)
+![The Samata by LifestyleRetreats – 最啱靜修嘅精品度假村](https://images.gobaligo.id/images/2026-03/1774448560338-65710339.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448560723-65710343.jpg)
+![The Samata by LifestyleRetreats – 最啱靜修嘅精品度假村](https://images.gobaligo.id/images/2026-03/1774448560723-65710343.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448561049-65710535.jpg)
+![The Samata by LifestyleRetreats – 最啱靜修嘅精品度假村](https://images.gobaligo.id/images/2026-03/1774448561049-65710535.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448561407-65710665.jpg)
+![The Samata by LifestyleRetreats – 最啱靜修嘅精品度假村](https://images.gobaligo.id/images/2026-03/1774448561407-65710665.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448561764-200734180.jpg)
+![The Samata by LifestyleRetreats – 最啱靜修嘅精品度假村](https://images.gobaligo.id/images/2026-03/1774448561764-200734180.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448562155-65710152.jpg)
+![The Samata by LifestyleRetreats – 最啱靜修嘅精品度假村](https://images.gobaligo.id/images/2026-03/1774448562155-65710152.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448562559-65710187.jpg)
+![The Samata by LifestyleRetreats – 最啱靜修嘅精品度假村](https://images.gobaligo.id/images/2026-03/1774448562559-65710187.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448562971-65710210.jpg)
+![The Samata by LifestyleRetreats – 最啱靜修嘅精品度假村](https://images.gobaligo.id/images/2026-03/1774448562971-65710210.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448563389-65710249.jpg)
+![The Samata by LifestyleRetreats – 最啱靜修嘅精品度假村](https://images.gobaligo.id/images/2026-03/1774448563389-65710249.jpg)
 
 **位置** | The Samata喺Sanur嘅北部，周圍係稻田，位置比較偏僻。雖然附近有幾個僻靜嘅海灘可以行過去，但呢啲海灘冇主Sanur海灘咁乾淨。
 
@@ -534,25 +534,25 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 ### Holiday Inn Bali Sanur – 適合家庭同長期住宿
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448645691-320740606.jpg)
+![Holiday Inn Bali Sanur – 適合家庭同長期住宿](https://images.gobaligo.id/images/2026-03/1774448645691-320740606.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448646203-320740862.jpg)
+![Holiday Inn Bali Sanur – 適合家庭同長期住宿](https://images.gobaligo.id/images/2026-03/1774448646203-320740862.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448647200-377710552.jpg)
+![Holiday Inn Bali Sanur – 適合家庭同長期住宿](https://images.gobaligo.id/images/2026-03/1774448647200-377710552.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448647797-379416804.jpg)
+![Holiday Inn Bali Sanur – 適合家庭同長期住宿](https://images.gobaligo.id/images/2026-03/1774448647797-379416804.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448648492-428942822.jpg)
+![Holiday Inn Bali Sanur – 適合家庭同長期住宿](https://images.gobaligo.id/images/2026-03/1774448648492-428942822.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448649090-428942833.jpg)
+![Holiday Inn Bali Sanur – 適合家庭同長期住宿](https://images.gobaligo.id/images/2026-03/1774448649090-428942833.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448649692-428942836.jpg)
+![Holiday Inn Bali Sanur – 適合家庭同長期住宿](https://images.gobaligo.id/images/2026-03/1774448649692-428942836.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448650292-435814389.jpg)
+![Holiday Inn Bali Sanur – 適合家庭同長期住宿](https://images.gobaligo.id/images/2026-03/1774448650292-435814389.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448650749-435816153.jpg)
+![Holiday Inn Bali Sanur – 適合家庭同長期住宿](https://images.gobaligo.id/images/2026-03/1774448650749-435816153.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448651492-435819354.jpg)
+![Holiday Inn Bali Sanur – 適合家庭同長期住宿](https://images.gobaligo.id/images/2026-03/1774448651492-435819354.jpg)
 
 **地點** | 呢間酒店喺Sanur海灘前面，行路就去到當地嘅餐廳同商店。
 
@@ -566,25 +566,25 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 ### ARTOTEL Sanur Bali – 藝術愛好者嘅天堂
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448749552-235812462.jpg)
+![ARTOTEL Sanur Bali – 藝術愛好者嘅天堂](https://images.gobaligo.id/images/2026-03/1774448749552-235812462.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448750465-235812534.jpg)
+![ARTOTEL Sanur Bali – 藝術愛好者嘅天堂](https://images.gobaligo.id/images/2026-03/1774448750465-235812534.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448750870-533650590.jpg)
+![ARTOTEL Sanur Bali – 藝術愛好者嘅天堂](https://images.gobaligo.id/images/2026-03/1774448750870-533650590.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448751495-533650810.jpg)
+![ARTOTEL Sanur Bali – 藝術愛好者嘅天堂](https://images.gobaligo.id/images/2026-03/1774448751495-533650810.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448751791-533650811.jpg)
+![ARTOTEL Sanur Bali – 藝術愛好者嘅天堂](https://images.gobaligo.id/images/2026-03/1774448751791-533650811.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448752205-533650852.jpg)
+![ARTOTEL Sanur Bali – 藝術愛好者嘅天堂](https://images.gobaligo.id/images/2026-03/1774448752205-533650852.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448752535-533650859.jpg)
+![ARTOTEL Sanur Bali – 藝術愛好者嘅天堂](https://images.gobaligo.id/images/2026-03/1774448752535-533650859.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448752901-533654001.jpg)
+![ARTOTEL Sanur Bali – 藝術愛好者嘅天堂](https://images.gobaligo.id/images/2026-03/1774448752901-533654001.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448753239-67218094.jpg)
+![ARTOTEL Sanur Bali – 藝術愛好者嘅天堂](https://images.gobaligo.id/images/2026-03/1774448753239-67218094.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448753540-235812382.jpg)
+![ARTOTEL Sanur Bali – 藝術愛好者嘅天堂](https://images.gobaligo.id/images/2026-03/1774448753540-235812382.jpg)
 
 **地點** | ARTOTEL Sanur Bali喺Sanur嘅熱鬧地帶，行幾步就到Sanur沙灘，附近有好多餐廳同咖啡館，好啱鍾意都市生活嘅旅客。
 
@@ -598,25 +598,25 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 ### Prime Plaza Hotel Sanur 跳島旅客首選
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448843585-295294271.jpg)
+![Prime Plaza Hotel Sanur 跳島旅客首選](https://images.gobaligo.id/images/2026-03/1774448843585-295294271.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448844188-319052857.jpg)
+![Prime Plaza Hotel Sanur 跳島旅客首選](https://images.gobaligo.id/images/2026-03/1774448844188-319052857.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448844597-374898980.jpg)
+![Prime Plaza Hotel Sanur 跳島旅客首選](https://images.gobaligo.id/images/2026-03/1774448844597-374898980.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448844986-374899972.jpg)
+![Prime Plaza Hotel Sanur 跳島旅客首選](https://images.gobaligo.id/images/2026-03/1774448844986-374899972.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448845417-589707837.jpg)
+![Prime Plaza Hotel Sanur 跳島旅客首選](https://images.gobaligo.id/images/2026-03/1774448845417-589707837.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448845818-58642116.jpg)
+![Prime Plaza Hotel Sanur 跳島旅客首選](https://images.gobaligo.id/images/2026-03/1774448845818-58642116.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448846418-60088489.jpg)
+![Prime Plaza Hotel Sanur 跳島旅客首選](https://images.gobaligo.id/images/2026-03/1774448846418-60088489.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448846827-60088664.jpg)
+![Prime Plaza Hotel Sanur 跳島旅客首選](https://images.gobaligo.id/images/2026-03/1774448846827-60088664.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448847162-60088847.jpg)
+![Prime Plaza Hotel Sanur 跳島旅客首選](https://images.gobaligo.id/images/2026-03/1774448847162-60088847.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448847654-60089070.jpg)
+![Prime Plaza Hotel Sanur 跳島旅客首選](https://images.gobaligo.id/images/2026-03/1774448847654-60089070.jpg)
 
 **位置**｜Prime Plaza Hotel Sanur－Bali 酒店坐落喺熱帶花園入面，距離沙努爾港（Sanur Port）行路只需10分鐘。方便來回佩尼達島、藍夢島
 
@@ -628,25 +628,25 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 ### Respati Beach Hotel - 位置超方便
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133406631-45699931.jpg)
+![Respati Beach Hotel - 位置超方便](https://images.gobaligo.id/images/2026-05/1780133406631-45699931.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133407043-45700385.jpg)
+![Respati Beach Hotel - 位置超方便](https://images.gobaligo.id/images/2026-05/1780133407043-45700385.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133407768-45700399.jpg)
+![Respati Beach Hotel - 位置超方便](https://images.gobaligo.id/images/2026-05/1780133407768-45700399.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133408330-45700402.jpg)
+![Respati Beach Hotel - 位置超方便](https://images.gobaligo.id/images/2026-05/1780133408330-45700402.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133408808-45700681.jpg)
+![Respati Beach Hotel - 位置超方便](https://images.gobaligo.id/images/2026-05/1780133408808-45700681.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133409286-45700868.jpg)
+![Respati Beach Hotel - 位置超方便](https://images.gobaligo.id/images/2026-05/1780133409286-45700868.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133409871-45700923.jpg)
+![Respati Beach Hotel - 位置超方便](https://images.gobaligo.id/images/2026-05/1780133409871-45700923.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133410381-45699136.jpg)
+![Respati Beach Hotel - 位置超方便](https://images.gobaligo.id/images/2026-05/1780133410381-45699136.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133410787-45699394.jpg)
+![Respati Beach Hotel - 位置超方便](https://images.gobaligo.id/images/2026-05/1780133410787-45699394.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133411307-45699611.jpg)
+![Respati Beach Hotel - 位置超方便](https://images.gobaligo.id/images/2026-05/1780133411307-45699611.jpg)
 
 **📍 位置**
 位於沙努爾（Sanur）海灘中心，坐擁珊瑚細沙海灘，直達私人沙灘。鄰近Icon Bali Mall，距離國際機場約30分鐘車程。行路5分鐘可到Pasar Sindu市集，周邊餐廳同商店好密集。靠近Patal Temple同Sanur Village Festival，可以望到Nusa Penida、Nusa Ceningan同Nusa Lembongan島嶼。
@@ -666,25 +666,25 @@ Agoda評分8.8，住客讚揚地點優越、海灘直達、早餐豐富同員工
 
 ### Abian Harmony Resort Hotel and Spa - 休閒度假嘅理想選擇
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448909657-66640251.jpg)
+![Abian Harmony Resort Hotel and Spa - 休閒度假嘅理想選擇](https://images.gobaligo.id/images/2026-03/1774448909657-66640251.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448910007-235186248.jpg)
+![Abian Harmony Resort Hotel and Spa - 休閒度假嘅理想選擇](https://images.gobaligo.id/images/2026-03/1774448910007-235186248.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448910339-411008911.jpg)
+![Abian Harmony Resort Hotel and Spa - 休閒度假嘅理想選擇](https://images.gobaligo.id/images/2026-03/1774448910339-411008911.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448910752-411008996.jpg)
+![Abian Harmony Resort Hotel and Spa - 休閒度假嘅理想選擇](https://images.gobaligo.id/images/2026-03/1774448910752-411008996.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448911133-411010052.jpg)
+![Abian Harmony Resort Hotel and Spa - 休閒度假嘅理想選擇](https://images.gobaligo.id/images/2026-03/1774448911133-411010052.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448911534-411010302.jpg)
+![Abian Harmony Resort Hotel and Spa - 休閒度假嘅理想選擇](https://images.gobaligo.id/images/2026-03/1774448911534-411010302.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448911817-411010522.jpg)
+![Abian Harmony Resort Hotel and Spa - 休閒度假嘅理想選擇](https://images.gobaligo.id/images/2026-03/1774448911817-411010522.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448912162-411010641.jpg)
+![Abian Harmony Resort Hotel and Spa - 休閒度假嘅理想選擇](https://images.gobaligo.id/images/2026-03/1774448912162-411010641.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448912471-456352132.jpg)
+![Abian Harmony Resort Hotel and Spa - 休閒度假嘅理想選擇](https://images.gobaligo.id/images/2026-03/1774448912471-456352132.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448912781-456352159.jpg)
+![Abian Harmony Resort Hotel and Spa - 休閒度假嘅理想選擇](https://images.gobaligo.id/images/2026-03/1774448912781-456352159.jpg)
 
 **位置 |** Abian Harmony Resort Hotel and Spa 位於沙努爾嘅繁華區域，行5至10分鐘就可以去到沙努爾海灘。附近仲有出名嘅意大利Gelato同好多餐廳聚集。
 
@@ -698,25 +698,25 @@ Agoda評分8.8，住客讚揚地點優越、海灘直達、早餐豐富同員工
 
 ### Sanur Lodge – 性價比最高嘅住宿選擇
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448987218-503842357.jpg)
+![Sanur Lodge – 性價比最高嘅住宿選擇](https://images.gobaligo.id/images/2026-03/1774448987218-503842357.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448987633-503842368.jpg)
+![Sanur Lodge – 性價比最高嘅住宿選擇](https://images.gobaligo.id/images/2026-03/1774448987633-503842368.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448988079-503842370.jpg)
+![Sanur Lodge – 性價比最高嘅住宿選擇](https://images.gobaligo.id/images/2026-03/1774448988079-503842370.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448988442-503842532.jpg)
+![Sanur Lodge – 性價比最高嘅住宿選擇](https://images.gobaligo.id/images/2026-03/1774448988442-503842532.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448988880-503842983.jpg)
+![Sanur Lodge – 性價比最高嘅住宿選擇](https://images.gobaligo.id/images/2026-03/1774448988880-503842983.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448989233-505191313.jpg)
+![Sanur Lodge – 性價比最高嘅住宿選擇](https://images.gobaligo.id/images/2026-03/1774448989233-505191313.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448989604-505197854.jpg)
+![Sanur Lodge – 性價比最高嘅住宿選擇](https://images.gobaligo.id/images/2026-03/1774448989604-505197854.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448989960-505198005.jpg)
+![Sanur Lodge – 性價比最高嘅住宿選擇](https://images.gobaligo.id/images/2026-03/1774448989960-505198005.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448990289-414996643.jpg)
+![Sanur Lodge – 性價比最高嘅住宿選擇](https://images.gobaligo.id/images/2026-03/1774448990289-414996643.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774448990726-493428192.jpg)
+![Sanur Lodge – 性價比最高嘅住宿選擇](https://images.gobaligo.id/images/2026-03/1774448990726-493428192.jpg)
 
 **位置** | Sanur Lodge 離海岸有啲遠，行去海灘大約要20分鐘。雖然唔係喺沙努爾嘅餐飲區中心，但我哋發現咗幾間令人驚喜嘅餐廳。
 
@@ -730,19 +730,19 @@ Agoda評分8.8，住客讚揚地點優越、海灘直達、早餐豐富同員工
 
 ### Villa Griya Harum – 適合大家庭嘅靈活住宿選擇
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449077479-159823802.jpg)
+![Villa Griya Harum – 適合大家庭嘅靈活住宿選擇](https://images.gobaligo.id/images/2026-03/1774449077479-159823802.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449077853-159823804.jpg)
+![Villa Griya Harum – 適合大家庭嘅靈活住宿選擇](https://images.gobaligo.id/images/2026-03/1774449077853-159823804.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449078273-162968882.jpg)
+![Villa Griya Harum – 適合大家庭嘅靈活住宿選擇](https://images.gobaligo.id/images/2026-03/1774449078273-162968882.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449078595-162969578.jpg)
+![Villa Griya Harum – 適合大家庭嘅靈活住宿選擇](https://images.gobaligo.id/images/2026-03/1774449078595-162969578.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449078977-226192411.jpg)
+![Villa Griya Harum – 適合大家庭嘅靈活住宿選擇](https://images.gobaligo.id/images/2026-03/1774449078977-226192411.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449079306-226192412.jpg)
+![Villa Griya Harum – 適合大家庭嘅靈活住宿選擇](https://images.gobaligo.id/images/2026-03/1774449079306-226192412.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449079791-159823774.jpg)
+![Villa Griya Harum – 適合大家庭嘅靈活住宿選擇](https://images.gobaligo.id/images/2026-03/1774449079791-159823774.jpg)
 
 **位置** | Villa Griya Harum位於沙努爾偏南邊一個安靜嘅位置，距離Semawang海灘大約2公里，距離Sanur海灘唔夠3公里。行路範圍內有幾間酒吧、餐廳同超市。
 
@@ -756,21 +756,21 @@ Agoda評分8.8，住客讚揚地點優越、海灘直達、早餐豐富同員工
 
 ### Bali Komang Guest House – 超值抵玩又充滿貼心設施
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449154419-230393438.jpg)
+![Bali Komang Guest House – 超值抵玩又充滿貼心設施](https://images.gobaligo.id/images/2026-03/1774449154419-230393438.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449154853-230393442.jpg)
+![Bali Komang Guest House – 超值抵玩又充滿貼心設施](https://images.gobaligo.id/images/2026-03/1774449154853-230393442.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449155186-285763674.jpg)
+![Bali Komang Guest House – 超值抵玩又充滿貼心設施](https://images.gobaligo.id/images/2026-03/1774449155186-285763674.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449155493-285763693.jpg)
+![Bali Komang Guest House – 超值抵玩又充滿貼心設施](https://images.gobaligo.id/images/2026-03/1774449155493-285763693.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449155810-285764027.jpg)
+![Bali Komang Guest House – 超值抵玩又充滿貼心設施](https://images.gobaligo.id/images/2026-03/1774449155810-285764027.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449156135-285764033.jpg)
+![Bali Komang Guest House – 超值抵玩又充滿貼心設施](https://images.gobaligo.id/images/2026-03/1774449156135-285764033.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449156483-285764131.jpg)
+![Bali Komang Guest House – 超值抵玩又充滿貼心設施](https://images.gobaligo.id/images/2026-03/1774449156483-285764131.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449156776-285764141.jpg)
+![Bali Komang Guest House – 超值抵玩又充滿貼心設施](https://images.gobaligo.id/images/2026-03/1774449156776-285764141.jpg)
 
 **位置** | Bali Komang Guest House距離Sanur沙灘大約3公里。
 
@@ -784,21 +784,21 @@ Agoda評分8.8，住客讚揚地點優越、海灘直達、早餐豐富同員工
 
 ### Duyung Homestay – 最方便嘅民宿選擇
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449238105-82280538.jpg)
+![Duyung Homestay – 最方便嘅民宿選擇](https://images.gobaligo.id/images/2026-03/1774449238105-82280538.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449238437-82280539.jpg)
+![Duyung Homestay – 最方便嘅民宿選擇](https://images.gobaligo.id/images/2026-03/1774449238437-82280539.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449238738-82280544.jpg)
+![Duyung Homestay – 最方便嘅民宿選擇](https://images.gobaligo.id/images/2026-03/1774449238738-82280544.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449239057-121125105.jpg)
+![Duyung Homestay – 最方便嘅民宿選擇](https://images.gobaligo.id/images/2026-03/1774449239057-121125105.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449239930-121125157.jpg)
+![Duyung Homestay – 最方便嘅民宿選擇](https://images.gobaligo.id/images/2026-03/1774449239930-121125157.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449240489-121125519.jpg)
+![Duyung Homestay – 最方便嘅民宿選擇](https://images.gobaligo.id/images/2026-03/1774449240489-121125519.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449241299-122669920.jpg)
+![Duyung Homestay – 最方便嘅民宿選擇](https://images.gobaligo.id/images/2026-03/1774449241299-122669920.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449241882-122669933.jpg)
+![Duyung Homestay – 最方便嘅民宿選擇](https://images.gobaligo.id/images/2026-03/1774449241882-122669933.jpg)
 
 **位置** | 呢間係Sanur最平嘅酒店之一，位於繁華嘅Sanur中心，周圍有咖啡店、酒吧同餐廳。行5分鐘就去到沙灘。
 
@@ -812,21 +812,21 @@ Agoda評分8.8，住客讚揚地點優越、海灘直達、早餐豐富同員工
 
 ### Agus Villa – 沙努爾經濟型住宿嘅極佳選擇
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449286335-153495866.jpg)
+![Agus Villa – 沙努爾經濟型住宿嘅極佳選擇](https://images.gobaligo.id/images/2026-03/1774449286335-153495866.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449286711-191769625.jpg)
+![Agus Villa – 沙努爾經濟型住宿嘅極佳選擇](https://images.gobaligo.id/images/2026-03/1774449286711-191769625.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449287098-199393693.jpg)
+![Agus Villa – 沙努爾經濟型住宿嘅極佳選擇](https://images.gobaligo.id/images/2026-03/1774449287098-199393693.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449287522-200965116.jpg)
+![Agus Villa – 沙努爾經濟型住宿嘅極佳選擇](https://images.gobaligo.id/images/2026-03/1774449287522-200965116.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449287938-200970158.jpg)
+![Agus Villa – 沙努爾經濟型住宿嘅極佳選擇](https://images.gobaligo.id/images/2026-03/1774449287938-200970158.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449288275-201188127.jpg)
+![Agus Villa – 沙努爾經濟型住宿嘅極佳選擇](https://images.gobaligo.id/images/2026-03/1774449288275-201188127.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449288691-201189533.jpg)
+![Agus Villa – 沙努爾經濟型住宿嘅極佳選擇](https://images.gobaligo.id/images/2026-03/1774449288691-201189533.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774449289094-201189566.jpg)
+![Agus Villa – 沙努爾經濟型住宿嘅極佳選擇](https://images.gobaligo.id/images/2026-03/1774449289094-201189566.jpg)
 
 **位置** | Agus Villa距離Karang海灘得500米。佢位於一個靜區，但係行幾分鐘就到商店、咖啡館同超市。
 

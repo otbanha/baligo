@@ -22,7 +22,7 @@ _srcHash: 8a0e213d4cc073388ee993153c69c0f4
 
 Waktu traveling, jaga kesehatan itu nomor satu! Bali, tempat yang bikin hati terpikat, penuh sama pemandangan keren dan pengalaman yang nggak bakal terlupa. Tapi, pas kamu eksplor destinasi cantik ini, inget buat jaga kesehatan, karena di sini, air minum dan kebersihan makanan yang kita konsumsi tiap hari perlu perhatian ekstra. Kalau badan bermasalah pas liburan, bisa-bisa seluruh perjalanan berantakan!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e6c20db282b94567bf42043a94cbc99.png)
+![Tips Kesehatan Travel ke Bali: Panduan Air Minum di Bali & D](https://images.gobaligo.id/vocus/vocus_3e6c20db282b94567bf42043a94cbc99.png)
 
 ## Pentingnya Kualitas Air
 
@@ -57,11 +57,11 @@ Kalau kamu lagi liburan di Bali, sangat disarankan beli air kemasan di supermark
 
 > Pengalaman pahit seorang pembaca: ➡️ "Gue sekarang laporan hasil pemakaian. Tadi malem di Bali mulai diare, cair banget kayak air, muncrat-muncrat. Jam 8 pagi ke apotek dekat hotel beli Entrostop, total diminum 6 butir, masih nggak berhenti. Ganti ke Imodium Loperamide, cuma dua butir langsung berhenti.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ca70e37df46a2f3bcd0338a0bda4d23.jpg)
+![Rekomendasi Merek Air Kemasan](https://images.gobaligo.id/vocus/vocus_6ca70e37df46a2f3bcd0338a0bda4d23.jpg)
 
 > Kayaknya dua obat ini beda fungsi tergantung jenis diare: **Entrostop mungkin cocok buat diare biasa aja**, harganya 10.000 IDR per strip; **Imodium Loperamide cocok buat diare akut**, kayak diare cair, harganya 108.000 IDR per strip — 10 kali lipat Entrostop. Makasih lagi rekomendasi dari Xiao Jie!"
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3492fe649d1b46ef46788731bf208c73.png)
+![Rekomendasi Merek Air Kemasan](https://images.gobaligo.id/vocus/vocus_3492fe649d1b46ef46788731bf208c73.png)
 
 👉**Ada versi baru di sini:** [Panduan Lengkap Obat Diare/Maag di Bali](/blog/bali-belly-medicine-guide/)
 

@@ -19,7 +19,7 @@ lang: zh-cn
 _srcHash: 4e7c60e358e7138e38d4f0d2de3e6ab9
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_93ba80c66bbeb7d6d88fcee66ca33fac.png)
+![巴厘岛换钱血泪史：团友亲身经历揭密，千万别贪小便宜！](https://images.gobaligo.id/vocus/vocus_93ba80c66bbeb7d6d88fcee66ca33fac.png)
 
 上周刚从巴厘岛回来的朋友，在我们巴厘岛社团分享了他们一行人遭遇的换钱诈骗事件。听完整个过程，我觉得有必要写下来提醒所有准备去巴厘岛玩的旅客：换钱这件事情，真的千万不要贪小便宜！
 
@@ -40,7 +40,7 @@ _srcHash: 4e7c60e358e7138e38d4f0d2de3e6ab9
 4. 就在这叠钱的一瞬间！钞票就这样神不知鬼不觉地被抽走了！
 5. 整个过程不到三秒，手法之快简直像在变魔术
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d5349e8eafe348b139cbac9a4ce74ddb.jpg)
+![魔术手法大揭密：团友的钱就是这样被偷走的！](https://images.gobaligo.id/vocus/vocus_d5349e8eafe348b139cbac9a4ce74ddb.jpg)
 
 ### **网友血泪经验谈：这不是单一事件！**
 
@@ -68,7 +68,7 @@ _srcHash: 4e7c60e358e7138e38d4f0d2de3e6ab9
 
 ## **巴厘岛换钱安全守则：这样做才能保护自己的血汗钱**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_790c4aaf4dab053d3e6bae094881f2f9.jpg)
+![巴厘岛换钱安全守则：这样做才能保护自己的血汗钱](https://images.gobaligo.id/vocus/vocus_790c4aaf4dab053d3e6bae094881f2f9.jpg)
 
 综合网友们的建议，整理出以下安全守则：
 

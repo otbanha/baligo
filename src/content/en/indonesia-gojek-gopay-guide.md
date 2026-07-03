@@ -30,7 +30,7 @@ _srcHash: 3d7a3b82e63aa50696b61b70a062841b
 
 When traveling or living in Indonesia or Bali, the name **Gojek** is undoubtedly familiar to everyone. As one of Indonesia's most popular sharing economy platforms, Gojek offers not only transportation services but also various food delivery, shopping, and financial payment services. One of its key features is its closely integrated payment system—**GoPay**. This article will delve into all aspects of Gojek and GoPay, providing you with a detailed guide on how to register and use these services, helping you live more conveniently and easily in Indonesia.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1f4958d2598d7d48eed642e73e1e4321.jpg)
+![Grab or Gojek? A Comprehensive Guide to Registering, Using, ](https://images.gobaligo.id/vocus/vocus_1f4958d2598d7d48eed642e73e1e4321.jpg)
 
 ## **What is Gojek?**
 
@@ -49,7 +49,7 @@ Each service offered by Gojek aims to provide convenience, especially for those 
 
 ## **What is GoPay?**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_266f68e9481da62f1e5b062c15fa8123.jpg)
+![What is GoPay?](https://images.gobaligo.id/vocus/vocus_266f68e9481da62f1e5b062c15fa8123.jpg)
 
 As Gojek's e-wallet system, **GoPay** allows users to make secure and convenient payments through their mobile phones. Whether paying for services within the Gojek platform or making online and offline shopping payments, GoPay makes transactions seamless.
 

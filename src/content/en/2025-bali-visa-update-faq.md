@@ -29,7 +29,7 @@ Let's first explain in detail the most commonly needed tourist visa.
 
 Do you need to apply for an e-visa to enter Indonesia/Bali for tourism? The Indonesian Immigration Directorate General has revised the types of e-visas (EVOA) available. The previous B213 visa is no longer available. The tourist visa has been updated to **TOURISM SINGLE ENTRY VISITOR VISA-60DAYS** and **B1 - TOURISM(VISA ON ARRIVAL)-30DAYS**.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b50f446bf85ff20e26f33059953c16c.png)
+![Tourist Visa](https://images.gobaligo.id/vocus/vocus_3b50f446bf85ff20e26f33059953c16c.png)
 
 So, which one should you apply for general tourism?
 
@@ -41,7 +41,7 @@ On the other hand, **TOURISM SINGLE ENTRY VISITOR VISA-60DAYS (Single Entry Tour
 
 Here is a comparison of the two application types:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f3ec80b73a526b4e7ca96f0c3b82a89.png)
+![Tourist Visa](https://images.gobaligo.id/vocus/vocus_2f3ec80b73a526b4e7ca96f0c3b82a89.png)
 
 ➡️[Find Bali accommodations here](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️  
 ➡️[Click here for more great Bali deals](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
@@ -87,7 +87,7 @@ We recommend applying in advance to avoid wasting valuable travel time.
 
 ## Brief Instructions:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_587d0faa86baaf1230364fe6675ef04f.png)
+![Brief Instructions:](https://images.gobaligo.id/vocus/vocus_587d0faa86baaf1230364fe6675ef04f.png)
 
 ➡️[Find Bali accommodations here](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️  
 ➡️[More great Bali deals click here](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️

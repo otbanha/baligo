@@ -48,7 +48,7 @@ Popular tourist areas like Kuta and Seminyak face earthquake and tsunami risks. 
 
 ## 📩 **Join the "Bali Travel Guide" Now and Become a Bali Travel Expert!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Join the "Bali Travel Guide" Now and Become a Bali Travel Ex](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **By subscribing for free, you'll get:**
 

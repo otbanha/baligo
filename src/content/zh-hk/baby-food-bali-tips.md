@@ -13,7 +13,7 @@ lang: zh-hk
 _srcHash: 495891613c800eb74c82c40fde964a7f
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a59ccd132da7a87eaa0ea98af1f573a0.png)
+![帶BB去峇里島：攜帶含豬肉、雞肉副食品嘅注意事項](https://images.gobaligo.id/vocus/vocus_a59ccd132da7a87eaa0ea98af1f573a0.png)
 
 ## **一、印尼海關對肉類製品嘅規定**
 
@@ -85,7 +85,7 @@ _srcHash: 495891613c800eb74c82c40fde964a7f
 2. **航空公司規範**：部分航空公司對攜帶嬰幼兒食品有特別政策，出發前請向航空公司確認可以帶嘅品項同數量。
 3. **善用網購服務**：如果擔心當地搵唔到適合嘅副食品，你亦可以透過印尼本地電商平台（例如**Tokopedia**、**Shopee Indonesia**）提前購買，送到你嘅酒店。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8872bc854565fd2d359000082644bfa4.png)
+![四、額外貼心提醒](https://images.gobaligo.id/vocus/vocus_8872bc854565fd2d359000082644bfa4.png)
 
 ***
 

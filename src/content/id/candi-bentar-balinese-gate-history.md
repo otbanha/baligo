@@ -26,7 +26,7 @@ _srcHash: 3d4af2102d04536ee543c985c9b8c345
 
 **Apa sih makna Candi Bentar di Bali? Kenapa terjemahan bahasa Mandarin jadi "Gerbang Baik-Jahat" itu salah?**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c95607d6aa39c056b9b5f30917cf982a.jpg)
+![Ternyata 'Gerbang Baik-Jahat' Itu Terjemahan yang Salah!? Ma](https://images.gobaligo.id/vocus/vocus_c95607d6aa39c056b9b5f30917cf982a.jpg)
 
 ## Asal-usul dan Sejarah Candi Bentar
 

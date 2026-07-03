@@ -52,7 +52,7 @@ We don't want to simply raise the base charter price, as that would be unfair fo
 
 By doing this, you can still clearly see the original fare, and we can fairly compensate for the increased fuel costs.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
+![New Billing Method (Jointly Decided by the Drivers)](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
 
 ## 📅 Effective Date and Applicability
 

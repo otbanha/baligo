@@ -29,7 +29,7 @@ In 2024, Prabowo Subianto, then a presidential candidate (now the President of I
 
 ### Analysis of Tourism Pressure in Southern Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ddcf2efb5bdc04fff77367001f49ae77.jpg)
+![Analysis of Tourism Pressure in Southern Bali](https://images.gobaligo.id/vocus/vocus_ddcf2efb5bdc04fff77367001f49ae77.jpg)
 
 Southern Bali is home to a concentration of tourism resources and facilities, particularly in popular areas like Kuta, Seminyak, and Jimbaran. With the surge in tourist numbers, traffic congestion has become increasingly severe. Residents in these areas have long been affected by high-density tourism activities, and the ecological environment is under strain. Effectively dispersing the tourist flow has become an urgent challenge for the government.
 
@@ -55,7 +55,7 @@ Bali is famous for its unique culture and traditions, which bring irreplaceable 
 
 ### Potential Challenges of the New Airport
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3aa1251d09e91877d2c9603f0930a0c4.png)
+![Potential Challenges of the New Airport](https://images.gobaligo.id/vocus/vocus_3aa1251d09e91877d2c9603f0930a0c4.png)
 
 The construction of a new airport may face multiple challenges, from funding to execution. More importantly, whether the northern airport can effectively disperse tourist traffic from the south remains uncertain.
 
@@ -81,7 +81,7 @@ China Construction Company Changye Construction Group has secured a USD$1 billio
 
 ## 📩 **Join the "Bali Travel Guide" Now and Become a Bali Travel Expert!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Join the "Bali Travel Guide" Now and Become a Bali Travel Ex](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **By subscribing for free, you'll get:**
 

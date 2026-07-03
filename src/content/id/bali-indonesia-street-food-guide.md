@@ -29,7 +29,7 @@ _srcHash: 265d2d39f7fd19f5bc0dc17a935ebc36
 
 Pas liburan ke Indonesia atau Bali, jangan sampai kelewatan jajanan lokal yang legendaris banget. Ini dia daftar makanan wajib coba di Bali & Indonesia
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e2ddcde23d6a0567f42e35a6547d104c.jpg)
+![Daftar Makanan Hits Wajib Coba di Bali & Indonesia Jajanan P](https://images.gobaligo.id/vocus/vocus_e2ddcde23d6a0567f42e35a6547d104c.jpg)
 
 Tonton videonya ya
 

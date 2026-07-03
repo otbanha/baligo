@@ -17,7 +17,7 @@ lang: zh-cn
 _srcHash: e7ed214b40695e00714f8d1e8588dc59
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_59d05b720539abbe8811f51ddbca8203.jpg)
+![巴厘岛旅游惊魂｜台湾游客被狗咬，狂犬病疫苗医疗费用竟高达5800美元！](https://images.gobaligo.id/vocus/vocus_59d05b720539abbe8811f51ddbca8203.jpg)
 
 [我们社团的网友郭先生](https://www.facebook.com/share/p/19Uc2bARQY/)日前分享他的亲身经历，他在巴厘岛热门地点库塔街上被一只流浪狗咬了两口，惊吓之余立刻前往医院打针急救。
 
@@ -77,7 +77,7 @@ _srcHash: e7ed214b40695e00714f8d1e8588dc59
 - **90% 是由狗造成**
 - **268人确诊感染**，其中 **已有5人死亡**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b133111133db257eb753f27f250e9fb.jpg)
+![最新疫情警示：巴厘岛狂犬病急升！已有13人被狗咬伤！](https://images.gobaligo.id/vocus/vocus_3b133111133db257eb753f27f250e9fb.jpg)
 
 ### 巴厘岛当局呼吁：
 

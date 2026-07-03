@@ -70,13 +70,13 @@ _srcHash: 4e651050603a5ce6c277a12e90532e71
 
 坎古吸引咗好多外國人去嗰度定居，除咗有好多精緻 villa 之外，仲有穩定又高速嘅網絡，呢兩個條件吸引咗好多靠網絡就可以工作嘅 Digital nomad（數位遊牧）喺度定居同工作。喺坎古有好多適合上網工作嘅 coworking space，呢啲 coworking space 提供咗高速網絡、枱，同埋適合工作嘅環境氛圍，另外仲有好多餐廳同咖啡廳都可以上網工作。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6e1a64061183f9d6f68721a785eeb899.jpg)
+![坎古究竟係咩樣㗎呢？](https://images.gobaligo.id/vocus/vocus_6e1a64061183f9d6f68721a785eeb899.jpg)
 
 [坎古仲有咩好玩?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
 坎古有一種迷人嘅特質，呢度有啲波西米亞風、有啲嬉皮，融合咗波希米亞（Bohemia）同 70 年代嘅嬉皮（Hippie）嘅風格，英文叫做「Boho Chic」。Boho Chic 代表嘅係一種時尚、無拘無束嘅生活風格，由路邊嘅餐飲咖啡廳、出租嘅 villa、公寓，甚至係街上嘅外國人，坎古到處都散發出呢種 Boho Chic 嘅風格。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ffb02ea677f9abc576938a811cd06254.jpg)
+![坎古究竟係咩樣㗎呢？](https://images.gobaligo.id/vocus/vocus_ffb02ea677f9abc576938a811cd06254.jpg)
 
 定居喺坎古嘅數位遊牧，佢哋唔係每日只係上網嘅書呆子㗎！坎古亦都係一個熱愛運動人士嘅天堂，喺度你可以喺大片嘅稻田小路中晨跑，享受大自然，每日朝早所有嘅路上都可以見到慢跑嘅人。
 
@@ -88,7 +88,7 @@ _srcHash: 4e651050603a5ce6c277a12e90532e71
 
 ## 坎古衝浪
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1292b0d5576cbd014063f58cf1ee47e4.jpg)
+![坎古衝浪](https://images.gobaligo.id/vocus/vocus_1292b0d5576cbd014063f58cf1ee47e4.jpg)
 
 [坎古仲有咩好玩?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
@@ -106,7 +106,7 @@ _srcHash: 4e651050603a5ce6c277a12e90532e71
 
 準備好展開一場坎古嘅冒險之旅未？下面連結有峇里島坎古嘅精彩地圖，唔好忘記收藏起嚟，令你喺峇里島嘅旅程更加充實豐盛！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf5fcaa065da06946a4591707d1e05be.jpg)
+![坎古嘅 50 個推薦景點/咖啡廳](https://images.gobaligo.id/vocus/vocus_bf5fcaa065da06946a4591707d1e05be.jpg)
 
 ## 延伸閱讀
 

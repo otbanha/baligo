@@ -47,7 +47,7 @@ _srcHash: be6c3e1d5dc0f6ddadf8636806eda96e
 
 Kalau belum baca bagian pertama, saran baca dulu **《**[**Bali 5 Hari 4 Malam Trip Bebas (Bagian 1)**](https://gobaligo.id/blog/2026-03-29-092243/)**》**, mulai dari kedatangan di Bali, sharing proses imigrasi bandara, penginapan Jimbaran, kuliner, sunset pantai, SPA, dan itinerary hari pertama & kedua — biar lebih nyambung bacanya.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1782646762456-_2026-06-28_18.38.54.png)
+![Bali 5 Hari 4 Malam Trip Bebas (Bagian 2): Seminyak, Ubud, K](https://images.gobaligo.id/images/2026-06/1782646762456-_2026-06-28_18.38.54.png)
 
 [Klik sini buat lihat pengalaman nginep Four Seasons Jimbaran di bagian 1](https://gobaligo.id/blog/2026-03-29-092243/)
 
@@ -91,25 +91,25 @@ Villa-nya punya kolam renang pribadi, dapur kecil, dan ada bak mandi kecil buat 
 
 Kalau harus milih antara dua villa yang kita tinggali selama trip ini, secara pribadi kita lebih suka **Berry Amour Romantic Villas**. Tata ruang, kenyamanan, dan suasana romantisnya lebih cocok sama selera kita.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366773073-496455867.jpg)
+![Hari Ketiga](https://images.gobaligo.id/images/2026-03/1774366773073-496455867.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366773500-114432965.jpg)
+![Hari Ketiga](https://images.gobaligo.id/images/2026-03/1774366773500-114432965.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366773901-194194465.jpg)
+![Hari Ketiga](https://images.gobaligo.id/images/2026-03/1774366773901-194194465.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366774242-198621447.jpg)
+![Hari Ketiga](https://images.gobaligo.id/images/2026-03/1774366774242-198621447.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366774616-207488169.jpg)
+![Hari Ketiga](https://images.gobaligo.id/images/2026-03/1774366774616-207488169.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366775025-414836014.jpg)
+![Hari Ketiga](https://images.gobaligo.id/images/2026-03/1774366775025-414836014.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366775332-496458074.jpg)
+![Hari Ketiga](https://images.gobaligo.id/images/2026-03/1774366775332-496458074.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366775742-496458171.jpg)
+![Hari Ketiga](https://images.gobaligo.id/images/2026-03/1774366775742-496458171.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366776152-496458198.jpg)
+![Hari Ketiga](https://images.gobaligo.id/images/2026-03/1774366776152-496458198.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366776561-496470436.jpg)
+![Hari Ketiga](https://images.gobaligo.id/images/2026-03/1774366776561-496470436.jpg)
 
 Berry Amour Romantic Villas adalah kompleks villa bergaya romantis dengan rating bintang lima, total 20 villa, dan hanya menerima tamu pasangan serta tamu usia 16 tahun ke atas. [Di sini](https://gobaligo.id/blog/seminyak-private-villas-guide/#berry-amour-romantic-villas) ada info lengkapnya.
 
@@ -117,7 +117,7 @@ Berry Amour Romantic Villas adalah kompleks villa bergaya romantis dengan rating
 
 Malamnya kami nggak keluar, langsung aja pesan lewat **Grab** dan makan malam santai di villa. Kali ini pesan pizza, Pad Thai, dan tom yum. Selain antar cepat, harganya juga lebih murah dari perkiraan, dan rasanya enak-enak.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1782548454843-pizza.jpg)
+![Hari Ketiga](https://images.gobaligo.id/images/2026-06/1782548454843-pizza.jpg)
 
 (Dok. dr. Huang)
 
@@ -143,7 +143,7 @@ Begitu masuk area, ada pemandu lokal yang nemenin. Mereka kasih kita satu bungku
 
 Yang paling seru, pemandu sesekali bersuara khas buat narik perhatian monyet. Nggak lama, monyet-monyet langsung lompat ke pundak, lengan, atau pohon di dekat kita — jadi makin banyak kesempatan buat interaksi dan foto. Prosesnya alami banget, dan keliatan kalau pemandu udah akrab banget sama kawanan monyet di sini.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1782548550073-mixcollage-27-jun-2026-03-16-pm-9129.jpg)
+![Hari Keempat](https://images.gobaligo.id/images/2026-06/1782548550073-mixcollage-27-jun-2026-03-16-pm-9129.jpg)
 
 (Dok. dr. Huang)
 
@@ -167,7 +167,7 @@ Kali ini kami pesan **Es Kelapa, Minuman Lemon Kelapa, dan American Coffee**, mi
 
 Setelah istirahat, kami nemu lagi toko yang jual **Kopi Luwak**. Yang paling spesial, di sini kita bisa interaksi jarak dekat sama luwak asli!
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1782548311880-luwak.jpg)
+![Hari Keempat](https://images.gobaligo.id/images/2026-06/1782548311880-luwak.jpg)
 
 Musang luwak di sini ukurannya lebih besar dari yang dibayangkan, sekitar **10 kg**. Stafnya juga ngajak kita foto sambil gendong, lumayan jadi pengalaman unik banget.
 
@@ -177,7 +177,7 @@ Jalan-jalan terus, kaki udah mulai protes. Akhirnya kita mampir ke **Ubud Tradit
 
 Kali ini kita ambil paket **Rice Farmer Massage**, isinya **60 menit Rice Farmer Massage** plus **30 menit pijat kaki**. Harganya sekitar **USD$26** per orang.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1782548370433-spa.jpg)
+![Hari Keempat](https://images.gobaligo.id/images/2026-06/1782548370433-spa.jpg)
 
 (Dok. Dr. Wong)
 
@@ -227,7 +227,7 @@ Kalau dilihat lagi, lima hari ini sebenarnya cuma menjelajahi sebagian kecil dar
 
 Makanan di sini bikin pengin balik lagi, SPA dan pijat masih worth it dengan harga terjangkau, interaksi sama monyet di Monkey Forest dan luwak juga seru banget; dua Villa yang kami tinggali punya ciri khas masing-masing, semuanya layak direkomendasikan.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1782548632198-benny.jpg)
+![Hari Kelima](https://images.gobaligo.id/images/2026-06/1782548632198-benny.jpg)
 
 (Disediakan oleh Dokter Huang)
 

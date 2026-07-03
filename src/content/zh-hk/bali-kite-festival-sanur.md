@@ -25,7 +25,7 @@ _srcHash: f0535b9fd7b48d658caaf59737e64854
 
 峇里島一年一度嘅「國際風箏節（international kite festival）」將會喺7月20號至21號喺沙努爾海岸嘅Padang Galak沙灘舉行，呢個係峇里島上最色彩繽紛同埋令人興奮嘅文化盛事之一。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0381acf98f09de3dc7f0b3d4f3abac5f.jpg)
+![節日期間同地點](https://images.gobaligo.id/vocus/vocus_0381acf98f09de3dc7f0b3d4f3abac5f.jpg)
 
 ### **風箏節嘅歷史背景**
 

@@ -59,7 +59,7 @@ Therefore, on this day, you cannot go out! Fortunately, hotels and resorts usual
 
 On the night of this day, if the weather is clear and cloudless, remember to step outside (within the resort, not outside!) to admire Bali's starry sky without any light pollution. It's a truly breathtaking experience!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b880067968c2c57882b9affade998d12.png)
+![What can you do during Nyepi? What can't you do?](https://images.gobaligo.id/vocus/vocus_b880067968c2c57882b9affade998d12.png)
 
 ## The Ogoh-Ogoh Parade on the Eve of Nyepi
 

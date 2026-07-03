@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: cdfc1aabc19f413b6edebbc2ba57ca38
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b0f447cc3f00ad2869b6c9d9b734cc6.png)
+![旅行購物必知：安全又方便嘅消費指南](https://images.gobaligo.id/vocus/vocus_3b0f447cc3f00ad2869b6c9d9b734cc6.png)
 
 【購物】通常係旅行行程中嘅一項重要活動。喺旅行購物時，方便性同安全性係非常值得注意嘅重要事項。購物時，你可能會專注於想買嘅嘢，但呢種情況可能令你變得唔夠警惕。所以，因為銀包跌咗或者俾人扒手而冇咗錢嘅風險係好有可能嘅。
 

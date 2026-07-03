@@ -34,7 +34,7 @@ lang: id
 _srcHash: 441b04dc04abfec8c551ef6981202764
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_69325ed505e288e110803e6f0e1eccbd.jpg)
+![Alila Villas Uluwatu｜Kolam Renang Infinity di Tebing Uluwatu](https://images.gobaligo.id/vocus/vocus_69325ed505e288e110803e6f0e1eccbd.jpg)
 
 ## ✨ **Tentang Alila Uluwatu: Keajaiban Arsitektur yang Mendunia**
 
@@ -48,29 +48,29 @@ Dirancang oleh tim arsitektur top Singapura **WOHA**, sejak dibuka tahun 2009 la
 
 Tempat ini juga menjadi favorit liburan low-key para bintang seperti **Beckham, Angelina Jolie**, dan menjadi pilihan utama untuk **'pernikahan di tebing'** yang viral di Instagram!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a026a6668fd17837c1103d9e4a691334.jpg)
+![Tentang Alila Uluwatu: Keajaiban Arsitektur yang Mendunia](https://images.gobaligo.id/vocus/vocus_a026a6668fd17837c1103d9e4a691334.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8180246c79212254ec2cdceb412758d0.jpg)
+![Tentang Alila Uluwatu: Keajaiban Arsitektur yang Mendunia](https://images.gobaligo.id/vocus/vocus_8180246c79212254ec2cdceb412758d0.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0f64bd7e59e49b34ead68ddd54219215.jpg)
+![Tentang Alila Uluwatu: Keajaiban Arsitektur yang Mendunia](https://images.gobaligo.id/vocus/vocus_0f64bd7e59e49b34ead68ddd54219215.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c500d8872d1dede845df617fd5a02847.jpg)
+![Tentang Alila Uluwatu: Keajaiban Arsitektur yang Mendunia](https://images.gobaligo.id/vocus/vocus_c500d8872d1dede845df617fd5a02847.jpg)
 
 
 ### 🌊 **Sorotan Resor: Bukan Cuma Kolam Renang yang Bikin Heboh!**
 
 ### **1. 64 Vila dengan Kolam Renang Pemandangan Spektakuler**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361001332-suite_5_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361001785-bathroom_1_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361002160-bathroom.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361002627-suite_1_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361003078-suite_2_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361004208-suite_3_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361004610-suite_4_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361004957-suite_6_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361005442-suite_7_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361006063-suite.jpg)
+![1. 64 Vila dengan Kolam Renang Pemandangan Spektakuler](https://images.gobaligo.id/images/2026-03/1774361001332-suite_5_.jpg)
+![1. 64 Vila dengan Kolam Renang Pemandangan Spektakuler](https://images.gobaligo.id/images/2026-03/1774361001785-bathroom_1_.jpg)
+![1. 64 Vila dengan Kolam Renang Pemandangan Spektakuler](https://images.gobaligo.id/images/2026-03/1774361002160-bathroom.jpg)
+![1. 64 Vila dengan Kolam Renang Pemandangan Spektakuler](https://images.gobaligo.id/images/2026-03/1774361002627-suite_1_.jpg)
+![1. 64 Vila dengan Kolam Renang Pemandangan Spektakuler](https://images.gobaligo.id/images/2026-03/1774361003078-suite_2_.jpg)
+![1. 64 Vila dengan Kolam Renang Pemandangan Spektakuler](https://images.gobaligo.id/images/2026-03/1774361004208-suite_3_.jpg)
+![1. 64 Vila dengan Kolam Renang Pemandangan Spektakuler](https://images.gobaligo.id/images/2026-03/1774361004610-suite_4_.jpg)
+![1. 64 Vila dengan Kolam Renang Pemandangan Spektakuler](https://images.gobaligo.id/images/2026-03/1774361004957-suite_6_.jpg)
+![1. 64 Vila dengan Kolam Renang Pemandangan Spektakuler](https://images.gobaligo.id/images/2026-03/1774361005442-suite_7_.jpg)
+![1. 64 Vila dengan Kolam Renang Pemandangan Spektakuler](https://images.gobaligo.id/images/2026-03/1774361006063-suite.jpg)
 
 * Setiap vila mengusung **gaya Bali modern**, dilengkapi:
   ✅ Kolam renang pribadi / sebagian infinity pool
@@ -80,16 +80,16 @@ Tempat ini juga menjadi favorit liburan low-key para bintang seperti **Beckham, 
 
 ### **2. Pengalaman Kuliner Kelas Dunia**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361095330-restaurant_1_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361095881-restaurant.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361096236-the-warung--v7009636.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361096680-the-warung--v7010079.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361097097-the-warung--v7010097.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361097439-cire_65272817457344bffbd1d9_cire_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361098031-cire-restaurant--v7009653.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361098431-cire-restaurant--v7009757.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361098827-cire-restaurant--v7009933.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361099242-cire-restaurant--v7009963.jpg)
+![2. Pengalaman Kuliner Kelas Dunia](https://images.gobaligo.id/images/2026-03/1774361095330-restaurant_1_.jpg)
+![2. Pengalaman Kuliner Kelas Dunia](https://images.gobaligo.id/images/2026-03/1774361095881-restaurant.jpg)
+![2. Pengalaman Kuliner Kelas Dunia](https://images.gobaligo.id/images/2026-03/1774361096236-the-warung--v7009636.jpg)
+![2. Pengalaman Kuliner Kelas Dunia](https://images.gobaligo.id/images/2026-03/1774361096680-the-warung--v7010079.jpg)
+![2. Pengalaman Kuliner Kelas Dunia](https://images.gobaligo.id/images/2026-03/1774361097097-the-warung--v7010097.jpg)
+![2. Pengalaman Kuliner Kelas Dunia](https://images.gobaligo.id/images/2026-03/1774361097439-cire_65272817457344bffbd1d9_cire_.jpg)
+![2. Pengalaman Kuliner Kelas Dunia](https://images.gobaligo.id/images/2026-03/1774361098031-cire-restaurant--v7009653.jpg)
+![2. Pengalaman Kuliner Kelas Dunia](https://images.gobaligo.id/images/2026-03/1774361098431-cire-restaurant--v7009757.jpg)
+![2. Pengalaman Kuliner Kelas Dunia](https://images.gobaligo.id/images/2026-03/1774361098827-cire-restaurant--v7009933.jpg)
+![2. Pengalaman Kuliner Kelas Dunia](https://images.gobaligo.id/images/2026-03/1774361099242-cire-restaurant--v7009963.jpg)
 
 🍽️ **The Warung**｜Dapur terbuka masak langsung masakan khas Bali
 
@@ -105,7 +105,7 @@ Tempat ini juga menjadi favorit liburan low-key para bintang seperti **Beckham, 
 
 > Coba deh [SPA Experience di Alila Uluwatu](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1052540&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F149732-spa-experience-at-alila-villas-uluwatu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4ffe873d07)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_65b818dd7691344e2a1bfcfd92541364.jpg)
+![3. Fasilitas Premium Lainnya](https://images.gobaligo.id/vocus/vocus_65b818dd7691344e2a1bfcfd92541364.jpg)
 
 * **Galeri + Perpustakaan**: Pameran seni kontemporer Indonesia, bisa pinjam majalah desain gratis
 * **Layanan Rahasia**: Private assistant bisa pesanin itinerary **Sunday Beach Club** (cuma 5 menit dari sini)
@@ -141,9 +141,9 @@ Tempat ini juga menjadi favorit liburan low-key para bintang seperti **Beckham, 
 2. **Villa No. 38**: Di tikungan tebing, komposisi pemandangan laut paling sempurna
 3. **Teras Restoran CIRE**: Pakai lensa wide-angle buat menangkap lapisan 'kolam renang + laut'
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361285482-sunset_cabana_bar-alila_villas_uluwatu.jpg)
+![Tips Foto｜Sudut Eksklusif Fotografer](https://images.gobaligo.id/images/2026-03/1774361285482-sunset_cabana_bar-alila_villas_uluwatu.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361285940-three-bedroom-hillside-villa--v70.jpeg)
+![Tips Foto｜Sudut Eksklusif Fotografer](https://images.gobaligo.id/images/2026-03/1774361285940-three-bedroom-hillside-villa--v70.jpeg)
 
 **🔍 Informasi Praktis**
 
@@ -170,7 +170,7 @@ Meski resor ini nggak punya pantai, spa di tebing sukses nutupin kekurangan itu.
 
 ## Ulasan Tamu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b6865db29e0c00795365ff6e10f30941.jpg)
+![Ulasan Tamu](https://images.gobaligo.id/vocus/vocus_b6865db29e0c00795365ff6e10f30941.jpg)
 
 Pernah ke Ayana dan banyak villa lain, ini mungkin villa paling keren yang pernah kami tinggali. Meski cuaca kurang bersahabat—mendung dan hujan—pemandangan dari tebing Uluwatu tetap spektakuler. Setiap senilai dengan uang yang dikeluarkan: kami dapet pemandangan terbaik di Bali, sarapan enak, pelayanan ramah, dan antar-jemput setiap kali keluar-masuk villa ke area utama. Villa ini luas dan terawat banget, kami sempat foto prewed di sini, udah nggak sabar lihat hasilnya. Fasilitas lengkap, kafe/restoran Cire di samping kolam renang utama—kami sarapan bareng sepupu sambil lihat tebing dan langit biru, pengalaman yang nggak terlupakan seumur hidup. Kopi dan sarapan di villa kualitasnya top, croissant terbaik yang pernah saya coba di Bali. Nanti pasti ajak ibu ke sini. Skor 10 dari 10, saya kasih 11!
 

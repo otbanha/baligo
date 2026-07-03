@@ -19,7 +19,7 @@ lang: zh-cn
 _srcHash: 932b5cafa872083702e601e1d743063a
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d3fe29fb0bf4ee0c337c1560d8efee0f.jpg)
+![2025最新版印尼/巴厘岛入境签证&电子签证eVoA 填写相关 FAQ](https://images.gobaligo.id/vocus/vocus_d3fe29fb0bf4ee0c337c1560d8efee0f.jpg)
 
 
 

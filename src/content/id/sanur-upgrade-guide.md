@@ -18,7 +18,7 @@ _srcHash: b9bbbe21aedcf932dd24fe3633aae4ea
 ---
 Bicara soal kawasan pantai di Bali, kebanyakan orang langsung inget Kuta. Padahal, **Sanur adalah kawasan wisata pantai pertama yang berkembang di Bali**. Suasananya low profile, elegan, nggak norak, tapi tetap eksis dengan caranya sendiri.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_56f887fcf84745b1d038cc5391594203.jpg)
+![Bali Sanur naik level banget! Kenapa sekarang adalah waktu t](https://images.gobaligo.id/vocus/vocus_56f887fcf84745b1d038cc5391594203.jpg)
 
 Dan sekarang, Sanur lagi bertransformasi secara diam-diam.
 
@@ -32,7 +32,7 @@ https://youtu.be/SpcgZ4iK7qs
 
 Sanur udah ditetapkan sebagai **Kawasan Ekonomi Khusus (KEK) untuk wisata medis dan kesehatan**, dan dilengkapi dengan **Bali International Hospital** yang berstandar internasional.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_885b670ebe416d1159e92918145534e4.jpg)
+![Posisi Baru Sanur: Zona Khusus Wisata Medis & Kesehatan](https://images.gobaligo.id/vocus/vocus_885b670ebe416d1159e92918145534e4.jpg)
 
 Artinya apa?
 
@@ -93,7 +93,7 @@ Secara keseluruhan, vibe Sanur udah balik lagi. Rasanya hidup banget.
 
 Meskipun Sanur nggak separah Kuta yang gampang kena banjir sampah plastik, pas hujan deras atau angin kencang tetap aja ada sampah yang terdampar. Sekarang, pelaku wisata lokal, tim kebersihan, dan desa adat kerja sama buat ningkatin patroli dan frekuensi bersih-bersih.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9abcbc0ac1493db0c28dcd921a2cf2ff.jpg)
+![Pantai Lebih Bersih Sekarang](https://images.gobaligo.id/vocus/vocus_9abcbc0ac1493db0c28dcd921a2cf2ff.jpg)
 
 Hasilnya?
 

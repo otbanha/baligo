@@ -26,7 +26,7 @@ _srcHash: d7b52d82ff6d54ddadadd5a546f47157
 
 2026 年来巴厘岛，别再只跑咖啡馆了！真正懂玩的人，开始「Beach Club Jumping」🌊🍹
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_798440c5b6e0bb700e10113413c9259e.jpg)
+![【2026 巴厘岛必玩】别再只去咖啡馆！懂玩的人都在「Beach Club Jumping」全岛跳店攻略](https://images.gobaligo.id/vocus/vocus_798440c5b6e0bb700e10113413c9259e.jpg)
 
 来巴厘岛度假的美好之处，就在于选择永远比时间多。短短两周内，你可以每天切换不同身份：早上是冲浪咖，下午变成自然派旅人，傍晚躺在躺椅上看夕阳，晚上再切换成派对模式。这种自由感，正是巴厘岛最迷人的地方。
 

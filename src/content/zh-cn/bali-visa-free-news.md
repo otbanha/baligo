@@ -20,7 +20,7 @@ _srcHash: e6558e46b4b332ba94c581fc8fcd69ae
 
 巴厘岛这个绝美的旅游天堂正迎来一波令人振奋的好消息。对于计划在2024年底至2025年初前往巴厘岛的旅客来说，这是个双重惊喜！让我们来一探究竟。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f85fa645aa1e3c8e6f8072438ebb869.png)
+![双重惊喜 前进巴厘岛！](https://images.gobaligo.id/vocus/vocus_9f85fa645aa1e3c8e6f8072438ebb869.png)
 
 ## 增加航线，便利旅行
 
@@ -38,7 +38,7 @@ _srcHash: e6558e46b4b332ba94c581fc8fcd69ae
 
 对于来自这些国家的旅客来说，免签政策将大大简化入境手续，节省时间和费用，让大家能够更轻松地计划前往印尼或巴厘岛旅行。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aed753c113ee78e8ec5aa2c8a186485b.png)
+![免签政策，促进旅游](https://images.gobaligo.id/vocus/vocus_aed753c113ee78e8ec5aa2c8a186485b.png)
 
 ## 双重利好，共迎旅游新高峰
 

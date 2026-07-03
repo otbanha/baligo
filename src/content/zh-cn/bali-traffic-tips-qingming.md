@@ -50,7 +50,7 @@ _srcHash: aad6c8100db5e4dd4fefcba72ba6bcfe
 
 清明节-开斋节巴厘岛会大塞车吗？我该不该去跑景点？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9749c24c3bb6a64ec5579ecf7b89dc27.png)
+![交通](https://images.gobaligo.id/vocus/vocus_9749c24c3bb6a64ec5579ecf7b89dc27.png)
 
 以下是这个特殊时期巴厘岛交通的一些具体建议：
 
@@ -126,7 +126,7 @@ _srcHash: aad6c8100db5e4dd4fefcba72ba6bcfe
 - [巴厘岛亲子旅游攻略 - 沙努尔篇](/blog/sanur-family-travel-guide-2/)
 - 巴厘岛家庭亲子旅游专栏
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_02b21980932dcbfaf9c9146ef6bf887b.png)
+![家庭出游 大家都快乐的指南](https://images.gobaligo.id/vocus/vocus_02b21980932dcbfaf9c9146ef6bf887b.png)
 
 ## 结语
 

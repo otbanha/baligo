@@ -72,7 +72,7 @@ China Airlines also has promotional offers on select routes. Currently, round-tr
 
 ## 💡 Want to Save Even More? 2 Advanced Money-Saving Tips from Travel Pros
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780475662097-784822114470339384.png)
+![Want to Save Even More? 2 Advanced Money-Saving Tips from Tr](https://images.gobaligo.id/images/2026-06/1780475662097-784822114470339384.png)
 
 {{block:klook}}
 

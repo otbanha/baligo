@@ -19,7 +19,7 @@ _srcHash: 7e0b102882345880650a1fc5416eb061
 
 ## **雨季垃圾潮再袭巴厘岛，海滩变成垃圾场！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7a30c67de4958f26b5fb7805f41de3f3.jpg)
+![雨季垃圾潮再袭巴厘岛，海滩变成垃圾场！](https://images.gobaligo.id/vocus/vocus_7a30c67de4958f26b5fb7805f41de3f3.jpg)
 
 ### **金巴兰海滩垃圾堆满，画面让人震惊**
 
@@ -94,7 +94,7 @@ _srcHash: 7e0b102882345880650a1fc5416eb061
 
 ## 📩 **立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **通过免费订阅，你将获得：**
 

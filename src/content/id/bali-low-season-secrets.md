@@ -19,7 +19,7 @@ lang: id
 _srcHash: 71d553c79c955517996b74c129b24910
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_06359c6b865bb73af6ccde17df378b20.png)
+![Tujuh Rahasia Low Season di Bali: Dilewatkan Turis, Dicintai](https://images.gobaligo.id/vocus/vocus_06359c6b865bb73af6ccde17df378b20.png)
 
 Kamu pernah dengar napas Bali?
 

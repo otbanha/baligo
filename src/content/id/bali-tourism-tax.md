@@ -27,7 +27,7 @@ _srcHash: 0f1dbfeed3fa8c245f24b14186f49257
 
 Bali lagi mempertimbangkan untuk menerapkan **pajak harian** bagi turis asing, langkah yang meniru Bhutan. Tujuannya? Menarik wisatawan 'berkualitas' dan menambah pemasukan pemerintah.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8577e4982baadfd2f9b3e465a7b5c8ea.png)
+![Bali Pertimbangkan Pajak Turis Harian — Bakal Jadi 'Bhutan K](https://images.gobaligo.id/vocus/vocus_8577e4982baadfd2f9b3e465a7b5c8ea.png)
 
 Ketua Aliansi Pariwisata Bali, **Puspa Negara**, menekankan perlunya sistem seleksi wisatawan ala Bhutan, plus rencana mengembangkan destinasi lokal dan meningkatkan kualitas SDM. Usulannya kemungkinan besar bakal didukung pemerintah daerah dan jadi fondasi kebijakan pariwisata ke depan.
 
@@ -53,7 +53,7 @@ Tapi, kalau pajak turis harian dinaikin drastis, struktur sosial Bali bisa berub
 
 Bali kayak gitu, masih bakal jadi surga liburan yang penuh jiwa dan energi di mata turis?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7817b31199234c7f040aeea7339a27e9.png)
+![Kebijakan 'Wisatawan Berkualitas' Bisa Ubah Wajah Bali](https://images.gobaligo.id/vocus/vocus_7817b31199234c7f040aeea7339a27e9.png)
 
 ### **Bali Udah Punya 'Biaya Masuk'**
 

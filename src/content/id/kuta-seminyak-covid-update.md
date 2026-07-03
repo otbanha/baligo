@@ -21,6 +21,6 @@ lang: id
 _srcHash: 623be481cabc973f25b5e5601ed872a1
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5945f572e93cd251dcb51c84aa6a5af4.png)
+![Bali Kuta｜Update Terbaru Seminyak｜Bali Tanpa Turis｜Situasi T](https://images.gobaligo.id/vocus/vocus_5945f572e93cd251dcb51c84aa6a5af4.png)
 
 Update terbaru Bali, Indonesia Oktober 2020. Ke Bali buat liburan, Kuta dan Seminyak yang biasanya rame banget sekarang sepi banget. Karena dampak virus Corona, destinasi wisata Bali lagi mengalami masa-masa sulit yang belum pernah terjadi sebelumnya...

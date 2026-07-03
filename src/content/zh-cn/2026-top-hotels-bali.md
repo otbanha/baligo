@@ -48,7 +48,7 @@ _srcHash: 18d90ccc69d3edf507bcb178e23779ec
 
 ## 盖在沙努尔，这个选址有点出乎意料
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776479383196-stunning-beachfront-bali-resort-wins-best-new-hotel-in-2026-at-tourism-awards-768x512.jpg)
+![盖在沙努尔，这个选址有点出乎意料](https://images.gobaligo.id/images/2026-04/1776479383196-stunning-beachfront-bali-resort-wins-best-new-hotel-in-2026-at-tourism-awards-768x512.jpg)
 
 沙努尔（Sanur）长期以来被定位成「安静版巴厘岛」——没有库塔的混乱、没有水明漾的喧嚣，喜欢它的人是想要一个有点传统、步调慢一点的地方。
 
@@ -66,25 +66,25 @@ _srcHash: 18d90ccc69d3edf507bcb178e23779ec
 
 客房全部都是「套房」规格起跳——最基本的 Tropical Suite 也有 83 平方米，独立浴缸、雨淋浴、私人阳台一样不少。最高等级的 Presidential Suite 则达到 209 平方米，进去大概要走一下子才能找到厕所在哪。设计上融入了大量印尼本地木材和传统巴厘岛工艺，不是那种冰冷的现代豪华，而是有温度的精緻感。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776477261153-537982534.jpg)
+![住进去是什么感觉？](https://images.gobaligo.id/images/2026-04/1776477261153-537982534.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776477261595-537983614.jpg)
+![住进去是什么感觉？](https://images.gobaligo.id/images/2026-04/1776477261595-537983614.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776477262414-575293685.jpg)
+![住进去是什么感觉？](https://images.gobaligo.id/images/2026-04/1776477262414-575293685.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776477262854-537982447.jpg)
+![住进去是什么感觉？](https://images.gobaligo.id/images/2026-04/1776477262854-537982447.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776477263396-2ce8751393783e79ec077dd2adf4dc61.webp)
+![住进去是什么感觉？](https://images.gobaligo.id/images/2026-04/1776477263396-2ce8751393783e79ec077dd2adf4dc61.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776477263994-8b8afa9c27b4d95ba8efe416dfe60ec5.webp)
+![住进去是什么感觉？](https://images.gobaligo.id/images/2026-04/1776477263994-8b8afa9c27b4d95ba8efe416dfe60ec5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776477264527-0267ab8bb759f1442ea29ba0efff2808.webp)
+![住进去是什么感觉？](https://images.gobaligo.id/images/2026-04/1776477264527-0267ab8bb759f1442ea29ba0efff2808.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776477265019-549267171.jpg)
+![住进去是什么感觉？](https://images.gobaligo.id/images/2026-04/1776477265019-549267171.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776477265525-2024-07-02.webp)
+![住进去是什么感觉？](https://images.gobaligo.id/images/2026-04/1776477265525-2024-07-02.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776477265942-a654724c299c2c110131e3bcb1612476.webp)
+![住进去是什么感觉？](https://images.gobaligo.id/images/2026-04/1776477265942-a654724c299c2c110131e3bcb1612476.webp)
 
 餐饮方面，主餐厅 Arunika 提供自助早餐，每天早上 6:30 开始。另外听说周日 Brunch 的阵势非常吓人，烤羊、烤猪、活烤明虾、生鱼片还有甜点站，等级完全不输巴厘岛老牌饭店的特色餐。水疗 Taru Pramana 则走疗愈系路线，强调身心灵平衡，不只是普通的 massage 服务。
 

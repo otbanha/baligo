@@ -307,7 +307,7 @@ Avoid these times, and you can save 1/3 on airfare and skip the crowds.
 
 ### 14. The Correct Process from Landing to Exiting the Airport
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778988530785-_5.png)
+![14. The Correct Process from Landing to Exiting the Airport](https://images.gobaligo.id/images/2026-05/1778988530785-_5.png)
 
 **Don’t wander around—follow these steps:**
 

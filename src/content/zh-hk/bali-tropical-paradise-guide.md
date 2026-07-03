@@ -19,7 +19,7 @@ _srcHash: 74eb52e639bee9fe31d3e33a2e80f9dd
 
 ## 《Travel + Leisure》2025最佳島嶼排行揭曉
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0fb49de5bd304997a85ec98c2fd49fbf.jpg)
+![《Travel + Leisure》2025最佳島嶼排行揭曉](https://images.gobaligo.id/vocus/vocus_0fb49de5bd304997a85ec98c2fd49fbf.jpg)
 
 喺《Travel + Leisure》2025年「全球最佳島嶼」（World's Best Islands）票選中，峇里島榮登第3名，再次展現佢喺國際旅遊舞台嘅巨大吸引力。呢個係峇里島連續第十一年躋身榜單，並喺數十萬位讀者票選中脫穎而出，顯示出佢嘅文化魅力同自然之美仍然深深打動住世界各地嘅旅客。
 
@@ -27,7 +27,7 @@ _srcHash: 74eb52e639bee9fe31d3e33a2e80f9dd
 
 ## 峇里島點解能夠吸引全球旅客？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_10ace788c917c861a18f1195469f8fe9.jpg)
+![峇里島點解能夠吸引全球旅客？](https://images.gobaligo.id/vocus/vocus_10ace788c917c861a18f1195469f8fe9.jpg)
 
 峇里島唔單止係印尼最受歡迎嘅旅遊地之一，更加係一座集自然風光同靈性文化於一身嘅神聖之島。從擁有超過10,000座寺廟嘅宗教傳統，到被聯合國教科文組織認可嘅梯田同火山景觀，每一處都蘊含住獨特嘅故事同能量。
 
@@ -51,7 +51,7 @@ _srcHash: 74eb52e639bee9fe31d3e33a2e80f9dd
 - **阿貢火山（Mount Agung）**：攀登呢座神聖火山係挑戰者嘅夢想，亦係一種靈性體驗。
 - **離島探索（如佩尼達島同藍夢島/金銀島）**：短程船程就可以去到嘅夢幻小島，有透藍海水、珊瑚礁同純淨沙灘，係浮潛、跳島同放空嘅絕佳去處。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_895231e33f59069691018914869b9500.jpg)
+![峇里島嘅多面向風貌](https://images.gobaligo.id/vocus/vocus_895231e33f59069691018914869b9500.jpg)
 
 **快速參考:**
 
@@ -73,7 +73,7 @@ _srcHash: 74eb52e639bee9fe31d3e33a2e80f9dd
 
 呢一切融合成峇里島特有嘅「和諧之道」（Tri Hita Karana），將神、人同自然完美結合。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1abbcbb94700deb2371135ae469477ed.jpg)
+![峇里島文化特色](https://images.gobaligo.id/vocus/vocus_1abbcbb94700deb2371135ae469477ed.jpg)
 
 ---
 
@@ -94,7 +94,7 @@ _srcHash: 74eb52e639bee9fe31d3e33a2e80f9dd
 
 峇里島都可以提供豐富又多樣化嘅旅遊體驗。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b012e7f5a1ce494fdea82cf9b35272da.png)
+![峇里島適合咩樣嘅旅人？](https://images.gobaligo.id/vocus/vocus_b012e7f5a1ce494fdea82cf9b35272da.png)
 
 **快速參考:**
 
@@ -107,7 +107,7 @@ _srcHash: 74eb52e639bee9fe31d3e33a2e80f9dd
 
 ### 常見問題解答（FAQ）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_640971bfbf7d64d46d8e26288d18de85.jpg)
+![常見問題解答（FAQ）](https://images.gobaligo.id/vocus/vocus_640971bfbf7d64d46d8e26288d18de85.jpg)
 
 **峇里島點解可以持續受到全球旅人喜愛？**
 
@@ -123,4 +123,4 @@ _srcHash: 74eb52e639bee9fe31d3e33a2e80f9dd
 
 全島排名
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_04de3906f722244206c14d27f61baa60.jpg)
+![常見問題解答（FAQ）](https://images.gobaligo.id/vocus/vocus_04de3906f722244206c14d27f61baa60.jpg)

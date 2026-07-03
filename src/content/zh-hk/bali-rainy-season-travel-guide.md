@@ -34,7 +34,7 @@ _srcHash: 3eb3144268c8553e2e0d512acf4370b9
 
 「平均氣溫」係實際量度嘅空氣溫度，而體感溫度就係人體感受到嘅冷熱程度，會受濕度、風速同陽光影響。例如，同樣係30°C，濕度高嘅時候體感溫度會覺得更加悶熱，有風嘅時候就會涼爽啲。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cad1d4b85960806ae37730b1da52e654.png)
+![溫度嘅解釋](https://images.gobaligo.id/vocus/vocus_cad1d4b85960806ae37730b1da52e654.png)
 
 ## **適合旅遊指數**
 

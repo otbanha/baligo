@@ -59,7 +59,7 @@ You can also choose to do the walk before sunset. Although it starts off quite h
 
 We don't recommend doing the Campuhan Ridge Walk in the afternoon or evening. During the day, it can get uncomfortably hot with little shade from the sun. At night, there's no lighting, so you'll miss all the beautiful views and the walk will be more challenging.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ca019e5698041f7f563b3908fefb07b6.jpg)
+![Best Time to Visit the Ubud Skywalk](https://images.gobaligo.id/vocus/vocus_ca019e5698041f7f563b3908fefb07b6.jpg)
 
 ### Is there an entrance fee for the Ubud Skywalk?
 

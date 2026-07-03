@@ -30,7 +30,7 @@ Bali has once again proven its unshakable status by winning the prestigious titl
 
 ## **Bali Crowned as the Most Romantic Destination: Surpassing Global Competitors**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_af426de64cc37e8302ca86645a9ec988.png)
+![Bali Crowned as the Most Romantic Destination: Surpassing Gl](https://images.gobaligo.id/vocus/vocus_af426de64cc37e8302ca86645a9ec988.png)
 
 At the 2024 World Travel Awards, Bali triumphed over numerous world-renowned destinations, including Chile's Atacama Desert, St Lucia, Seychelles, The Bahamas, and Turks and Caicos Islands, to claim the title of the world's most romantic destination.
 

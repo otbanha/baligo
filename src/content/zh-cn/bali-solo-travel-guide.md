@@ -23,7 +23,7 @@ _srcHash: e29d1305e3a0ccc38d607f71df84f8d2
 
 巴厘岛是我心目中最适合独旅的东南亚目的地之一。它安全、观光成熟、物价合理，而且“一个人”在这里从来不会尴尬。无论是想静静放空，还是想认识新朋友，巴厘岛都能满足你。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775350592267-mixcollage-05-apr-2026-07-55-am-578.jpg)
+![巴厘岛独旅建议：一个人的天堂，也可以很精彩](https://images.gobaligo.id/images/2026-04/1775350592267-mixcollage-05-apr-2026-07-55-am-578.jpg)
 
 以下是我亲身走过後，整理给独旅者的实用建议：
 
@@ -31,7 +31,7 @@ _srcHash: e29d1305e3a0ccc38d607f71df84f8d2
 
 ## 一、住哪里？选对区域很重要
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775351493354-mixcollage-05-apr-2026-08-11-am-1312.jpg)
+![一、住哪里？选对区域很重要](https://images.gobaligo.id/images/2026-04/1775351493354-mixcollage-05-apr-2026-08-11-am-1312.jpg)
 
 巴厘岛很大，不同区域氛围完全不同：
 
@@ -91,7 +91,7 @@ https://youtu.be/VuG8s-u_I0Q
 
 ## 四、安全吗？给独旅者的真心话
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775351807418-3e530ee91368827f35ce3d2046220e06.jpg)
+![四、安全吗？给独旅者的真心话](https://images.gobaligo.id/images/2026-04/1775351807418-3e530ee91368827f35ce3d2046220e06.jpg)
 
 巴厘岛整体算安全，但还是有几点要注意：
 
@@ -111,7 +111,7 @@ https://youtu.be/VuG8s-u_I0Q
 
 一个人来，不代表要一个人玩到底。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775352447434-54bd8eecd33bfc05d58f6767e3816f0a.jpg)
+![五、独旅最棒的事：认识新朋友](https://images.gobaligo.id/images/2026-04/1775352447434-54bd8eecd33bfc05d58f6767e3816f0a.jpg)
 
 - **住青旅（Hostel）**：乌布和坎古有很多超棒的青旅，公共空间、免费早餐、瑜伽课、共同工作空间⋯⋯很容易聊起来。推荐：Ubud Raya、Puri Garden、Tribal Bali。
 - **参加一日团**：像是爬巴杜尔火山看日出、浮潜、泰式烹饪课。团体中很多也是 solo traveler。
@@ -146,7 +146,7 @@ https://youtu.be/hQbBTktqEqY
 
 巴厘岛会用它的温柔告诉你：一个人，也可以很完整。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775353631404-10819a3acdc4d57f5f5a684e1dfea4ed.jpg)
+![七、最后的提醒：放慢步调](https://images.gobaligo.id/images/2026-04/1775353631404-10819a3acdc4d57f5f5a684e1dfea4ed.jpg)
 
 > 独自旅行游记参考：[🌺 独自闯荡巴厘岛8天 - 女子独自旅行体验分享 🌺](/blog/bali-solo-female-travel/)
 

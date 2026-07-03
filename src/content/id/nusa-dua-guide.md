@@ -37,7 +37,7 @@ _srcHash: 1136e0fb7d2fe73fd38b807d28d20f68
 
 Nusa Dua adalah kawasan resor di selatan Bali yang terkenal dengan deretan hotel/resor bintang lima mewah di tepi pantai.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_45506b59e53f3929c79b4d1a511643fb.png)
+![【Nusa Dua攻略】Nusa Dua / Tanjung Benoa Panduan Liburan Mandiri](https://images.gobaligo.id/vocus/vocus_45506b59e53f3929c79b4d1a511643fb.png)
 
 Nusa Dua terletak di pesisir timur Bali bagian selatan, hanya 30 menit berkendara dari bandara via jalan tol berbayar. Nusa Dua punya pantai berpasir keemasan, air laut jernih, dan vegetasi tropis yang rimbun — tempat ideal buat menikmati sinar matahari, pasir, dan laut.
 
@@ -65,7 +65,7 @@ Meskipun sebagian besar restoran ada di dalam resort bintang lima, tenang aja �
 
 ### Piasan Restaurant （📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac29b7de42d95e43872828ca86401ec7.jpg)
+![Piasan Restaurant （ Peta Lokasi）](https://images.gobaligo.id/vocus/vocus_ac29b7de42d95e43872828ca86401ec7.jpg)
 
 Tersembunyi di Kayu Manis Nusa Dua, Piasan Restaurant adalah restoran Italia bintang lima yang menyajikan masakan Italia lezat dan pengalaman bersantap unik. Suasananya memesona banget, tenang, dan penuh nuansa magis — bikin kamu merasakan esensi makan malam ala keluarga Italia. Setiap hidangan dibuat dengan hati-hati, rasanya nikmat, dan setiap gigitan bikin nagih. Mereka pakai bahan-bahan terbaik yang dipadukan dengan sentuhan tropis, kasih pengalaman kuliner yang beda. Kalau kamu lagi cari restoran berkualitas tinggi, Piasan Restaurant wajib banget kamu coba.
 
@@ -75,7 +75,7 @@ Tersembunyi di Kayu Manis Nusa Dua, Piasan Restaurant adalah restoran Italia bin
 
 ### Pengalaman Kuliner di Mulia Resort（📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_546854596e721986c3454a1e8f8d769b.png)
+![Pengalaman Kuliner di Mulia Resort（ Peta Lokasi）](https://images.gobaligo.id/vocus/vocus_546854596e721986c3454a1e8f8d769b.png)
 
 Mulia Resort di Nusa Dua, Bali adalah grup hotel mewah terkenal di Indonesia yang terkenal dengan pelayanannya yang top. Resort ini pernah dinobatkan sebagai salah satu resort terbaik dunia oleh beberapa majalah travel terkenal. Di dalamnya ada beberapa restoran kelas atas seperti The Café, Table8, dan Cascade Lounge — meskipun kamu nggak nginep di sini, kamu tetap bisa menikmati hidangan istimewa. Di Mulia Resort, habiskan waktu berkualitas bareng orang tersayang dan rasakan pesona makan mewah ala Bali.
 
@@ -85,7 +85,7 @@ Mulia Resort di Nusa Dua, Bali adalah grup hotel mewah terkenal di Indonesia yan
 
 ### Pengalaman Kuliner di The Ritz-Carlton (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a6b96e1124e2c1fb137ad50235c56c0c.jpg)
+![Pengalaman Kuliner di The Ritz-Carlton ( Peta Lokasi)](https://images.gobaligo.id/vocus/vocus_a6b96e1124e2c1fb137ad50235c56c0c.jpg)
 
 Grup hotel ini punya lebih dari 100 hotel dan resort di lebih dari 90 negara. Berdiri sejak 1983, mereka jadi salah satu brand hotel mewah terdepan di dunia. The Ritz-Carlton, Bali menawarkan pengalaman menginap super mewah yang emang sasarannya tamu kelas atas banget.
 
@@ -97,7 +97,7 @@ The Ritz-Carlton di Nusa Dua punya tiga pilihan makan yang bakal bikin kamu terk
 
 ### Pengalaman Makan Malam di Gua Samabe (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dfb9f299710048cf4319fec2e021b751.jpg)
+![Pengalaman Makan Malam di Gua Samabe ( Peta Lokasi)](https://images.gobaligo.id/vocus/vocus_dfb9f299710048cf4319fec2e021b751.jpg)
 
 Samabe Bali Suites & Villas adalah bagian dari grup Indonesia Tourism Development Corporation (ITDC), perusahaan BUMN besar yang ngembangin dan ngelola resort mewah di Indonesia. Kantor pusatnya di Jakarta. ITDC punya banyak brand resort top kayak Hotel Indonesia Kempinski, The Apurva Kempinski, Grand Hyatt Bali, dan lainnya. Samabe Bali Suites & Villas jadi salah satu brand resort pantai mewah dan privat yang ikonik dari ITDC.
 
@@ -109,7 +109,7 @@ Samabe Cave Dining adalah tempat makan unik di dalam Samabe Bali Suites & Villas
 
 ### Pengalaman Makan di Restoran Bawah Laut Koral, The Apurva Kempinski Bali (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9fc04b75fe12f30118b914321d81bf86.jpg)
+![Pengalaman Makan di Restoran Bawah Laut Koral, The Apurva Ke](https://images.gobaligo.id/vocus/vocus_9fc04b75fe12f30118b914321d81bf86.jpg)
 
 The Apurva Kempinski, Bali adalah resor mewah bintang lima yang terletak di kawasan Nusa Dua, Bali. Resor ini dibuka pada tahun 2022 dan merupakan hotel flagship terbaru Kempinski Group di Bali.
 
@@ -135,7 +135,7 @@ Di Kempinski, selain restoran akuarium, ada juga restoran minum teh sore dengan 
 
 ### Restoran Tebing di Canna Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5b49549c5f7cae80ec976c334737fb40.png)
+![Restoran Tebing di Canna Bali](https://images.gobaligo.id/vocus/vocus_5b49549c5f7cae80ec976c334737fb40.png)
 
 Cliff at Canna bener-bener fokus bikin pengalaman makan yang romantis dan elegan. Mau makan siang atau minum teh sore, kamu bakal tenggelam dalam kenikmatan makanan dan pemandangan yang kece abis. Lewat jendela besar dari lantai ke langit-langit, restoran ini menyuguhkan pemandangan pantai Nusa Dua yang megah dan laut biru yang memukau — setiap suapan ditemani alam yang bikin speechless, benar-benar pesta untuk indra.
 
@@ -197,7 +197,7 @@ Manarai Beach House adalah tempat yang pas buat menikmati makanan enak, pemandan
 
 ### Bebek Bengil (Bebek Goreng Kotor) (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_03227d5ca04a23150a86bda0c7abaac6.jpg)
+![Bebek Bengil (Bebek Goreng Kotor) ( Peta Lokasi)](https://images.gobaligo.id/vocus/vocus_03227d5ca04a23150a86bda0c7abaac6.jpg)
 
 Bebek Bengil adalah restoran bebek panggang yang legendaris dan terkenal di Bali, dijuluki sebagai 'Bebek Panggang Terbaik di Bali'.
 
@@ -217,7 +217,7 @@ The Royal Kitchen Bali adalah restoran India paling terkenal di Bali, dijuluki s
 
 ### Pengalaman Bersantap di The St. Regis Bali Resort
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b585c6a17daa7175a500e9f16f4284c.png)
+![Pengalaman Bersantap di The St. Regis Bali Resort](https://images.gobaligo.id/vocus/vocus_9b585c6a17daa7175a500e9f16f4284c.png)
 
 The St. Regis Bali Resort kasih kamu pengalaman bersantap yang unik, cocok banget buat para pecinta kuliner. Restoran Boneka terkenal dengan sarapan bintang lima, brunch, dan prasmanan malam terbaik di Bali — bikin kamu puas dengan hidangan melimpah.
 
@@ -262,7 +262,7 @@ Kalau soal水上活動, Nusa Dua pilihannya lebih terbatas dibanding Tanjung Ben
 
 ### Pantai Nusa Dua (Nusa Dua Beach) (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_acb04fe54ab144df2f9cfbfb9b7b0522.png)
+![Pantai Nusa Dua (Nusa Dua Beach) ( Peta Lokasi)](https://images.gobaligo.id/vocus/vocus_acb04fe54ab144df2f9cfbfb9b7b0522.png)
 
 Di Pantai Nusa Dua, kamu bisa puas mencoba berbagai aktivitas air yang seru. Pertama, coba sensasi super cepat naik banana boat, duduk di perahu karet yang lincah, melintasi laut biru jernih, dan merasakan angin menerpa wajah. Kalau kamu pengen terbang di langit, parasailing wajib banget dicoba. Dipandu instruktur profesional, kamu akan terbang di langit biru, menikmati pemandangan garis pantai yang indah banget. Cari keseruan kecepatan dan kendali? Jet ski siap bikin kamu bergoyang di atas ombak, perpaduan sempurna antara kecepatan dan adrenalin. Buat yang suka petualangan bawah laut,海底漫步 (sea walker) kasih kesempatan deket-deket sama dunia bawah laut. Pakai helm khusus, kamu bisa lihat karang dan biota laut yang warna-warni. Kalau mau tantang keseimbangan, flying board jadi pilihan kece, meluncur dengan anggun di atas permukaan air. Terakhir, kalau mau petualangan air seharian, coba aja paket kombo水上活動. Dijamin kamu bakal habiskan waktu seru dan penuh tawa di Pantai Nusa Dua. Di pantai kayak surga ini, biarkan水上活動 jadi highlight liburan Bali-mu yang nggak terlupakan.
 
@@ -270,7 +270,7 @@ Di Pantai Nusa Dua, kamu bisa puas mencoba berbagai aktivitas air yang seru. Per
 
 ### Tanjung Benoa (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_82d973b544b91c9f5f74aa5bdcf0d73f.png)
+![Tanjung Benoa ( Peta Lokasi)](https://images.gobaligo.id/vocus/vocus_82d973b544b91c9f5f74aa5bdcf0d73f.png)
 
 Dari Nusa Dua ke utara sedikit, kamu bakal sampai di Tanjung Benoa, yang biasa disebut "Tanjung Benoa". Ini adalah markas besar水上活動 di seluruh Bali. Area lautnya super hidup, menawarkan berbagai aktivitas air yang bikin deg-degan, siap kasih petualangan nggak terlupakan buat wisatawan. Jet ski melesat cepat di atas air biru, bikin kamu merasakan liar-nya angin. Sementara itu, parasailing ngajak kamu terbang tinggi buat lihat pemandangan laut yang indah dari atas, bikin takjub dan biru menyatu. Banana boat dan donat boat adalah aktivitas air yang kasih keseruan cepat, cocok buat keluarga dan teman-teman nikmati bareng.
 
@@ -294,7 +294,7 @@ Walaupun ombak kadang agak besar dan jarak pandang bawah laut biasa aja, overall
 
 ### Golf (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ce8e073add04f7914d81b28a1da9d1c5.jpg)
+![Golf ( Peta Lokasi)](https://images.gobaligo.id/vocus/vocus_ce8e073add04f7914d81b28a1da9d1c5.jpg)
 
 Ke Bali, selain pantai cantik dan budaya yang keren, Bali National Golf Club Nusa Dua nawarin pengalaman unik banget — main golf sambil santai di resort. Lapangan 18 hole ini diakui sebagai salah satu lapangan golf terbaik di Bali.
 
@@ -304,7 +304,7 @@ Bali National Golf Club Nusa Dua menggabungkan suasana elegan resort mewah denga
 
 ### Kelas Memasak Dapur Bali (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_637aebfbb06d66216cc833cda4f50395.png)
+![Kelas Memasak Dapur Bali ( Peta Lokasi)](https://images.gobaligo.id/vocus/vocus_637aebfbb06d66216cc833cda4f50395.png)
 
 Dapur Bali Cooking Class ada di dalam Kayumanis Nusa Dua Private Villa, kasih pengalaman kuliner Bali yang unik banget. Kelasnya termasuk belajar masak hidangan klasik Bali, dapet insight sejarah makanannya, plus diajak jalan-jalan ke pasar lokal buat milih bahan. Abis masak, kamu bisa nikmatin hasil masakanmu sendiri, makin syahdu dengan pemandangan alam Bali. Ini petualangan seru yang gabungin skill masak, budaya, dan pengalaman pasar.
 
@@ -312,7 +312,7 @@ Dapur Bali Cooking Class ada di dalam Kayumanis Nusa Dua Private Villa, kasih pe
 
 ### Canna Beach Club（📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e061b557bfab6d27160a4fb99829ea61.jpg)
+![Canna Beach Club（ Peta Lokasi）](https://images.gobaligo.id/vocus/vocus_e061b557bfab6d27160a4fb99829ea61.jpg)
 
 Selain [Manarai Beach House](https://youtu.be/BUl5vPzVHGw) yang udah kita bahas di atas, Canna Beach Club di Nusa Dua juga jadi beach club yang super trendi dan mewah. Tempat pantai yang bikin hati ini punya sun deck luas buat kamu berjemur, plus kolam renang dan fasilitas pantai yang keren abis. Canna Beach Club terkenal dengan desain stylish dan suasananya yang santai, cocok banget buat chilling dan hangout.
 
@@ -322,7 +322,7 @@ Pengalaman makannya juga nggak kalah memorable, dengan pilihan makanan beragam y
 
 ### Memancing di Laut Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5bb72d3f7207d29f6c6d6524074921bd.jpg)
+![Memancing di Laut Bali](https://images.gobaligo.id/vocus/vocus_5bb72d3f7207d29f6c6d6524074921bd.jpg)
 
 Aktivitas memancing di Bali berangkat dari Tanjung Benoa, kasih pengalaman petualangan laut yang seru banget. Kamu berkesempatan dapat berbagai ikan incaran, kayak kerapu, kakap, triggerfish, dan berbagai ikan tropis warna-warni lainnya.
 
@@ -332,7 +332,7 @@ Baik kamu pemula atau jagoan mancing, aktivitas ini udah sedia alat pancing, ump
 
 ### 🎭 Pertunjukan Taman Langit Wajib Nonton di Bali 🎶
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ab5ece28ded1d750897fc0c35de3d97e.jpg)
+![Pertunjukan Taman Langit Wajib Nonton di Bali](https://images.gobaligo.id/vocus/vocus_ab5ece28ded1d750897fc0c35de3d97e.jpg)
 
 【Devdan Show】💫 Akrobat Udara + Budaya 5 Pulau + Panggung Spektakuler dalam Satu Pertunjukan!
 
@@ -345,7 +345,7 @@ Kami punya ulasan lengkap, cek [di sini](/blog/devdan-show-nusa-dua/)
 
 ### Pulau Penyu, Perahu Kaca, & Jelajah Mangrove
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4cab4e18847962c033e94cf68f67b39e.png)
+![Pulau Penyu, Perahu Kaca, & Jelajah Mangrove](https://images.gobaligo.id/vocus/vocus_4cab4e18847962c033e94cf68f67b39e.png)
 
 Dimulai dari snorkeling kasih makan ikan di laut, kamu bakal ngerasain serunya dekat banget sama biota laut. Lalu naik perahu kecil pelan-pelan masuk ke hutan mangrove, eksplorasi ekosistem pesisir yang unik ini. Setelah itu, naik perahu kaca menuju Pulau Penyu, nikmatin pemandangan bawah laut yang kaya lewat dasar perahu yang bening. Sesampainya di Pulau Penyu, kamu bisa ikut langsung kegiatan konservasi penyu dan belajar lebih dalam tentang ekosistem makhluk berharga ini. Selain penyu, di sini juga bisa lihat dari dekat bahkan sentuh hewan-hewan langka lainnya—bikin takjub dan pasti jadi highlight perjalanan yang nggak terlupakan.
 
@@ -375,7 +375,7 @@ Penjelasan lengkap: [Panduan Bali Exotic Marine Park: Interaksi Super Dekat, Ber
 
 ### Nikmati SPA (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_638b053ba68a83d4518818b74c044ecb.png)
+![Nikmati SPA ( Peta Lokasi)](https://images.gobaligo.id/vocus/vocus_638b053ba68a83d4518818b74c044ecb.png)
 
 Kalau kamu sudah habiskan waktu seru dan padat dengan aktivitas air dan darat di Nusa Dua/Tanjung Benoa, setelah selesai, nggak ada salahnya coba SPA terkenal di Bali, buat diri sendiri pengalaman relaksasi maksimal.
 
@@ -409,7 +409,7 @@ Biar nggak ganggu jadwal liburan karena lupa booking SPA, pastikan kamu reservas
 
 ## Rekomendasi Hotel/Resor (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e988c7792e47e20ef753233cdd7f5e4.jpg)
+![Rekomendasi Hotel/Resor ( Peta Lokasi)](https://images.gobaligo.id/vocus/vocus_2e988c7792e47e20ef753233cdd7f5e4.jpg)
 
 ### Top 16 Hotel/Resor Bintang Lima
 
@@ -421,7 +421,7 @@ https://youtu.be/-CJsTy4C3AQ
 
 ### Sewa Pelampung Besar buat Foto Kece
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c8ea263dd91e7e5781d702fd3f7de7f8.png)
+![Sewa Pelampung Besar buat Foto Kece](https://images.gobaligo.id/vocus/vocus_c8ea263dd91e7e5781d702fd3f7de7f8.png)
 
 Udah beres urusan akomodasi, di hotel/villa yang cantik, masa sih nggak foto-foto!? Nah, di sini, floating bed besar yang kece abis jadi道具 wajib di kolam renang pas liburan di pulau tropis. Tapi, floating bed besar plus pompa angin itu ukurannya gede dan beratnya lumayan, jadi agak repot dibawa ke luar negeri. Tapi tenang, dengan layanan di Bali ini, kamu nggak perlu pusing soal itu. Asal kamu nginep di daerah selatan kayak Kuta, Legian, Seminyak, Canggu, Uluwatu, Nusa Dua, dan Sanur, kamu bisa dengan mudah menikmati serunya berbagai floating bed besar yang lucu-lucu.
 

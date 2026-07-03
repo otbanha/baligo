@@ -25,7 +25,7 @@ lang: zh-hk
 _srcHash: 2e192c8ab4953fd84a7976ad975e4dc0
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f7f110d84c5d9f2da6f3b4a97a26a58f.png)
+![峇里島住宿新選擇：私人別墅 Villa 推薦大全，感受比酒店更自由嘅度假生活](https://images.gobaligo.id/vocus/vocus_f7f110d84c5d9f2da6f3b4a97a26a58f.png)
 
 峇里島作為全球知名嘅旅遊勝地，每年吸引無數遊客。不過，旅遊趨勢不斷變化，新興嘅住宿選擇同旅遊方式逐漸改變咗遊客嘅偏好。最近嘅旅遊數據顯示，越來越多嘅旅客開始偏好私人別墅（private villa），而唔係傳統酒店。呢個趨勢背後有咩原因？
 

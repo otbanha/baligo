@@ -215,7 +215,7 @@ No, but it's generally negligible. Check out this explanation here: [Bali USD Ex
 
 It's recommended to use a credit card that offers overseas spending rewards and has low or no foreign transaction fees, especially for purchases at large hotels or major restaurants. This way, you can benefit from favorable USD exchange rates while maintaining flexibility! A quick reminder: a group member once had their credit card skimmed at a **small supermarket**, so use credit cards cautiously!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2378c7ff4f1c9c76019a72c8491a8a65.png)
+![17. Credit Card Payments](https://images.gobaligo.id/vocus/vocus_2378c7ff4f1c9c76019a72c8491a8a65.png)
 
 **Quick Reference:**
 

@@ -20,7 +20,7 @@ _srcHash: a3a7e3af1823f7e124ec1425d964dca6
 
 巴厘岛最高峰、神圣的阿贡山将从10月1日到11月30日暂时对外关闭。这段时间，无论是游客还是当地居民，都不允许进入阿贡山，因为当地社区将进行每十年一次的大型宗教仪式。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7d1b23f13bb45f8f4090e3555ac1a358.png)
+![巴厘岛神山阿贡火山关闭两个月，禁止游客登山](https://images.gobaligo.id/vocus/vocus_7d1b23f13bb45f8f4090e3555ac1a358.png)
 
 阿贡山是巴厘岛最具灵性的地标之一，同时也是一座活火山。每年都有大量的游客凌晨出发，为了在山顶欣赏壮丽的日出。然而，对于巴厘岛的印度教徒来说，阿贡山不仅仅是一座火山，它是必须按照传统和宗教进行尊敬的神圣之地。
 
@@ -34,7 +34,7 @@ _srcHash: a3a7e3af1823f7e124ec1425d964dca6
 
 虽然阿贡山在这两个月期间关闭，对许多游客来说可能有点失望，但巴厘岛上还有其他著名的山峰开放，像是巴杜尔山（Mount Batur）和巴图卡鲁山（Mount Batukaru）。如果天气好，从巴杜尔山的山顶还可以看到阿贡山的美景呢！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1efeaab1b55ccb879580aa7b6c6fac01.png)
+![巴厘岛神山阿贡火山关闭两个月，禁止游客登山](https://images.gobaligo.id/vocus/vocus_1efeaab1b55ccb879580aa7b6c6fac01.png)
 
 另外，登山的时候一定要**记得请当地向导**，无论你要爬的是大山还是小山。巴厘岛的山路虽然没有像喜马拉雅山或阿尔卑斯山那么高，但路线并不好走，标示也不清楚，每个月当地的救援队都要去救援迷路或受伤的登山客。
 
@@ -44,7 +44,7 @@ _srcHash: a3a7e3af1823f7e124ec1425d964dca6
 
 📩 **立即加入「巴厘岛旅游攻略」博客，成为巴厘岛旅游达人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![注册加入我们的博客](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **通过免费订阅，你将获得：**
 

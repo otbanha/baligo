@@ -18,7 +18,7 @@ _srcHash: 556657c7c4385faeb880a9bced4baeb9
 ---
 ## ✈️ 充電寶（行動電源）攜帶規定
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0f872f41d331409831d5203d1221cea7.png)
+![充電寶（行動電源）攜帶規定](https://images.gobaligo.id/vocus/vocus_0f872f41d331409831d5203d1221cea7.png)
 
 ---
 

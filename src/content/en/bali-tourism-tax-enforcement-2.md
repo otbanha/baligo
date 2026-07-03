@@ -26,7 +26,7 @@ _srcHash: 00189c3fd4083afe634ab8a893a5b21e
 
 Starting February 2024, all international travelers entering Bali are required to pay a tourism tax of 150,000 Indonesian Rupiah (approximately USD$10). This fee is mainly used for:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_faa81d91ecf80644e97531f94ad11639.png)
+![What is the Bali Tourism Tax?](https://images.gobaligo.id/vocus/vocus_faa81d91ecf80644e97531f94ad11639.png)
 
 - Protecting local culture and heritage
 - Maintaining natural environments

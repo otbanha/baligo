@@ -22,13 +22,13 @@ _srcHash: 70c55e2aa9622646b6a068bab2eecef5
 
 峇里島天氣悶熱，棉質或亞麻衫可以快啲吸汗兼保持涼爽。揀寬鬆設計，令身體更自在。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a6b46fd51ba6d985a07cb61791313f0a.jpg)
+![1. 輕薄透氣嘅棉質或亞麻衫](https://images.gobaligo.id/vocus/vocus_a6b46fd51ba6d985a07cb61791313f0a.jpg)
 
 ### **2. 泳裝同罩衫**
 
 無論你去沙灘、泳池定玩水上活動，泳裝絕對係必需品。配埋罩衫，可以隨時喺公共場合保持得體。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f8cb19086d47180f21ac0f6848ebd3e.jpg)
+![2. 泳裝同罩衫](https://images.gobaligo.id/vocus/vocus_9f8cb19086d47180f21ac0f6848ebd3e.jpg)
 
 ### **3. 沙灘拖鞋同舒適涼鞋**
 
@@ -42,25 +42,25 @@ _srcHash: 70c55e2aa9622646b6a068bab2eecef5
 
 ### **5. 遮陽帽同太陽眼鏡**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e75dcedd23563598fbcc7650921fd693.jpg)
+![5. 遮陽帽同太陽眼鏡](https://images.gobaligo.id/vocus/vocus_e75dcedd23563598fbcc7650921fd693.jpg)
 
 峇里島陽光好猛，遮陽帽同太陽眼鏡可以有效保護皮膚同眼睛，仲可以增加造型感。
 
 ### **6. 圍巾或者紗巾**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f738266f27e5ef1f771b5f6ce8ab836.jpg)
+![6. 圍巾或者紗巾](https://images.gobaligo.id/vocus/vocus_9f738266f27e5ef1f771b5f6ce8ab836.jpg)
 
 紗巾用途好多，可以當防曬披肩，又可以做沙灘墊，或者喺寺廟入面用嚟遮蓋身體，實用性極高。
 
 ### **7. 舒適嘅運動或者瑜伽衫褲**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6237cbb3b9b8e7fbbff80595b763db1c.jpg)
+![7. 舒適嘅運動或者瑜伽衫褲](https://images.gobaligo.id/vocus/vocus_6237cbb3b9b8e7fbbff80595b763db1c.jpg)
 
 峇里島好興瑜伽同靜心體驗，一套輕便運動衫褲既可以上堂，又可以在朝早散步嗰陣著。
 
 ### **8. 長裙**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_09ba60a375fe418b2affec49a430d379.jpg)
+![8. 長裙](https://images.gobaligo.id/vocus/vocus_09ba60a375fe418b2affec49a430d379.jpg)
 
 長裙唔單止清涼透氣，仲有飄逸美感；喺市集、餐廳或者去寺廟參拜嗰陣都可以保持優雅同莊重。佢結合咗時尚同實用性，係女性旅客必備嘅單品。
 
@@ -94,11 +94,11 @@ _srcHash: 70c55e2aa9622646b6a068bab2eecef5
 
 熱帶海島玩水嘅機會好多，建議最少帶兩套泳裝，方便替換同清洗。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_208a55db1381471b5ef0c2d0ce4155f9.png)
+![5. 泳裝要帶幾多套先夠？](https://images.gobaligo.id/vocus/vocus_208a55db1381471b5ef0c2d0ce4155f9.png)
 
 ### 6. 幾時先需要帶禦寒外套？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ca6860ca39548567bb5b9b78723ab08.png)
+![6. 幾時先需要帶禦寒外套？](https://images.gobaligo.id/vocus/vocus_6ca6860ca39548567bb5b9b78723ab08.png)
 
 如果你嘅旅遊目的地係峇里島嘅平地或者烏布山區，你唔需要帶禦寒外套。只有凌晨參加火山健行/火山吉普車嘅旅人，高山氣溫凌晨得十幾度，先需要帶防風/防寒外套。
 

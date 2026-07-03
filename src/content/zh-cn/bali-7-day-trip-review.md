@@ -66,7 +66,7 @@ _srcHash: 16dcf59ad80a2eaece57d6e99ae0c622
 
 也放上司机的联系方式：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_34f3486136ba023e864d48829bee5a03.png)
+![包车司机非常重要！](https://images.gobaligo.id/vocus/vocus_34f3486136ba023e864d48829bee5a03.png)
 
 > ID Line : 31011994bopeas
 

@@ -20,7 +20,7 @@ _srcHash: b9c544a0f0d0199a4cb7fd1ce7415ce4
 
 印尼旅遊部長最近宣布，計劃推動立法變更，讓來自二十個最常到訪印尼嘅國家恢復免簽待遇。呢個消息引起咗廣泛關注，特別係對於嗰啲經常到訪峇里島嘅遊客嚟講，更加受到極大嘅關注同期待。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_df4c423f689ad952426bcbfc63faea8f.png)
+![重磅消息：印尼/峇里島即將恢復免簽待遇！](https://images.gobaligo.id/vocus/vocus_df4c423f689ad952426bcbfc63faea8f.png)
 
 ### 印尼旅遊簽證嘅歷史
 

@@ -20,7 +20,7 @@ lang: id
 _srcHash: cc63d2cd55e68d902595329253abf5ae
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17da9c41fcd163fd15b07a37a4a2e397.jpg)
+![Maluku versi budget: Surga Pulau di Indonesia Timur](https://images.gobaligo.id/vocus/vocus_17da9c41fcd163fd15b07a37a4a2e397.jpg)
 
 Maluku (Kepulauan Maluku) berada di wilayah timur Indonesia, secara geografis:
 
@@ -37,7 +37,7 @@ Maluku Tengah (Maluku Tengah) berada di Provinsi Maluku, merupakan salah satu ka
 
 Maluku Tengah mencakup beberapa pulau, terutama **Pulau Seram** dan pulau-pulau kecil di sekitarnya. Pulau-pulau ini dikelilingi oleh perairan pertemuan Samudra Hindia dan Pasifik, dengan iklim hutan hujan tropis yang hangat dan lembab sepanjang tahun — sangat cocok untuk diving dan aktivitas laut.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_57c6d073011f69505b098fcad7c34d6f.jpg)
+![1. Lokasi Geografis & Iklim](https://images.gobaligo.id/vocus/vocus_57c6d073011f69505b098fcad7c34d6f.jpg)
 
 ---
 
@@ -45,21 +45,21 @@ Maluku Tengah mencakup beberapa pulau, terutama **Pulau Seram** dan pulau-pulau 
 
 Maluku Tengah adalah surga bagi pecinta alam. Hutan hujan tropis yang masih perawan dan laut yang jernih banget bikin banyak petualang jatuh cinta. Ini dia beberapa spot alam yang wajib kamu kunjungi:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ad1e695a7be1c5cad8bfce79b7be2668.jpg)
+![2. Pemandangan Alam](https://images.gobaligo.id/vocus/vocus_ad1e695a7be1c5cad8bfce79b7be2668.jpg)
 
 - **Taman Nasional Manusela (Manusela National Park)**  
   Taman Nasional Manusela adalah destinasi utama di Pulau Seram, dengan hutan hujan lebat dan keanekaragaman hayati yang kaya. Tempat ini impian buat para pecinta trekking dan pengamat satwa liar. Banyak burung endemik dan tanaman unik yang bisa kamu temui di sini.
 - **Teluk Ora (Ora Beach)**  
   Dijuluki sebagai versi Indonesia dari Maladewa, Teluk Ora punya pantai pasir putih yang bersih, laguna biru yang tenang, dan terumbu karang yang cocok untuk snorkeling. Wajib coba buat kamu yang suka aktivitas air!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1cf25a9f62b17efd19365e6e7abf3564.jpg)
+![2. Pemandangan Alam](https://images.gobaligo.id/vocus/vocus_1cf25a9f62b17efd19365e6e7abf3564.jpg)
 
 - **Hutan Hujan Tropis Daratan**  
   Hutan hujan di Pulau Seram masih alami banget, cocok buat hiking, camping, dan ngelihat banyak flora fauna yang cuma ada di daerah ini.
 - **Pantai Ngurtafur**  
   Punya gundukan pasir putih yang menjorok ke laut, bentuknya kayak pita putih panjang. Panjang gundukan ini bisa sampai 2 km.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a7de8d6e803d45ae699dbe6b6fd12be9.jpg)
+![2. Pemandangan Alam](https://images.gobaligo.id/vocus/vocus_a7de8d6e803d45ae699dbe6b6fd12be9.jpg)
 
 ---
 
@@ -100,7 +100,7 @@ Di Maluku nginep di pondok laut, semalem mulai USD$40
 
 ## 📩 **Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Bali!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Ba](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

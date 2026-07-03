@@ -21,13 +21,13 @@ _srcHash: 9edd33dc7e0594b5d24d2cd8b6501e00
 
 ## 真实旅客票选出的梦幻蜜月天堂
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_75878e321ed7f026e1f649587a44c6ea.png)
+![真实旅客票选出的梦幻蜜月天堂](https://images.gobaligo.id/vocus/vocus_75878e321ed7f026e1f649587a44c6ea.png)
 
 根据 Tripadvisor 2026 年旅行者之选奖「最佳中的最佳蜜月目的地」([Travelers' Choice Awards – Best of the Best Honeymoon](https://www.tripadvisor.com/TravelersChoice-Destinations-cHoneymoon-g1)) 榜单，**巴厘岛以压倒性优势击败马尔代夫、毛里求斯等世界级海岛度假胜地，荣登全球最佳蜜月目的地冠军宝座！**
 
 这个榜单的特别之处在于，它完全基于**过去 12 个月来自世界各地真实旅客的评价和评分**。这意味着巴厘岛的第一名不是营销包装出来的，而是无数对新婚夫妻和情侣亲身体验后的真心推荐！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7163dc1719be7e1b3f6afbebcbfba8f4.jpg)
+![真实旅客票选出的梦幻蜜月天堂](https://images.gobaligo.id/vocus/vocus_7163dc1719be7e1b3f6afbebcbfba8f4.jpg)
 
 ## 📊 2026 全球最佳蜜月胜地 Top 5
 
@@ -45,7 +45,7 @@ _srcHash: 9edd33dc7e0594b5d24d2cd8b6501e00
 
 ### 🏖️ 绝美海滩与水下世界
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2ea0af0466146178ccdd433e437641de.jpg)
+![绝美海滩与水下世界](https://images.gobaligo.id/vocus/vocus_2ea0af0466146178ccdd433e437641de.jpg)
 
 想象一下，在细腻洁白的沙滩上沐浴阳光，或是潜入清澈海水中，与热带鱼群一同探索五彩缤纷的珊瑚礁。对于喜欢冒险的情侣来说，你们甚至可以在二战沉船遗迹周围潜水，体验独特的海底探险。
 
@@ -53,13 +53,13 @@ _srcHash: 9edd33dc7e0594b5d24d2cd8b6501e00
 
 ### 🌿 绿意盎然的丛林秘境
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_428b3d8807d59bccd068ab70f8e9a3d2.jpg)
+![绿意盎然的丛林秘境](https://images.gobaligo.id/vocus/vocus_428b3d8807d59bccd068ab70f8e9a3d2.jpg)
 
 回到陆地上，茂密的热带丛林中隐藏着古老的石造寺庙和调皮的猴子。这种原始自然与灵性氛围的结合，让巴厘岛散发出其他海岛度假胜地难以比拟的独特魅力。
 
 ### 🎨 乌布：艺术与灵性的心灵绿洲
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_32e20c8a70ab8c438a8f8ea85aa59074.jpg)
+![乌布：艺术与灵性的心灵绿洲](https://images.gobaligo.id/vocus/vocus_32e20c8a70ab8c438a8f8ea85aa59074.jpg)
 
 被誉为“艺术之都”的乌布，是体验巴厘岛文化精髓的最佳地点。在这里，你们可以：
 
@@ -71,7 +71,7 @@ _srcHash: 9edd33dc7e0594b5d24d2cd8b6501e00
 
 ### 💎 多元体验，满足所有蜜月幻想
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_71f4db4b6e4779ccea28a333c8b1e425.jpg)
+![多元体验，满足所有蜜月幻想](https://images.gobaligo.id/vocus/vocus_71f4db4b6e4779ccea28a333c8b1e425.jpg)
 
 巴厘岛最迷人之处，就是能同时满足不同类型情侣的需求：
 

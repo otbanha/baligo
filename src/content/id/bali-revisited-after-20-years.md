@@ -96,7 +96,7 @@ Walaupun tiket masuk kebun binatang ini lumayan mahal, sekitar USD$32 per orang,
 
 ## Restoran Pantai Jimbaran
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_44cc47df3248d9b0ec1e2f48f78c0678.png)
+![Restoran Pantai Jimbaran](https://images.gobaligo.id/vocus/vocus_44cc47df3248d9b0ec1e2f48f78c0678.png)
 
 Restoran di pinggir pantai Jimbaran biasanya mahal-mahal, tapi pemandu kita rekomendasiin Menega Cafe yang harganya lebih ramah di kantong. Sayangnya hari itu mendung, jadi kita nggak bisa lihat sunset. Tapi bisa makan bareng tiga generasi di luar negeri — momen berharga kayak gitu bikin kita bersyukur banget.
 
@@ -130,7 +130,7 @@ Kalau mau lihat manta ray di Nusa Penida, mending nginep di pulau sehari sebelum
 
 ## Budaya Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d2bcc00956186161b74a5936edb7dc14.png)
+![Budaya Bali](https://images.gobaligo.id/vocus/vocus_d2bcc00956186161b74a5936edb7dc14.png)
 
 Di Bali, setiap rumah punya pura sendiri, dan di temboknya ada banyak ukiran batu yang cantik. Pemandu wisata Mr. Fovix menjelaskan, penduduk setempat berdoa dua kali sehari, dan bangunan rumah tidak boleh lebih tinggi dari pura sebagai bentuk penghormatan kepada dewa. Itu juga kenapa sebagian besar tempat di Bali tidak punya gedung tinggi.
 
@@ -144,7 +144,7 @@ Buat kamu yang suka pemandangan laut, pantai, dan sawah, Bali itu tempat yang bi
 
 #### **Mr. Liega**
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781187526230-_2026-06-11_20.39.43.png)
+![Mr. Liega](https://images.gobaligo.id/images/2026-06/1781187526230-_2026-06-11_20.39.43.png)
 
 - Whatsapp: +62 81338563884
 - ID Line: ligabali
@@ -152,7 +152,7 @@ Buat kamu yang suka pemandangan laut, pantai, dan sawah, Bali itu tempat yang bi
 
 #### **Mr. Fovix**
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781177513360-_2026-06-11_18.29.16.png)
+![Mr. Fovix](https://images.gobaligo.id/images/2026-06/1781177513360-_2026-06-11_18.29.16.png)
 
 - Facebook: Fovix Ketut
 - Instagram: ketutfovik

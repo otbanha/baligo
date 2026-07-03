@@ -20,7 +20,7 @@ lang: en
 _srcHash: f8e3c90379831dd8f43780313923d235
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_06367c77917f8c1c8b1ed21fc957cc5a.jpg)
+![Fire breaks out at Ubud Market, affecting 1,033 vendors](https://images.gobaligo.id/vocus/vocus_06367c77917f8c1c8b1ed21fc957cc5a.jpg)
 
 On the afternoon of August 17, a fire erupted in the basement of Ubud Market, lasting from noon until evening and still not extinguished. This fire has left 1,033 vendors unable to continue their businesses.
 

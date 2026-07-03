@@ -24,15 +24,15 @@ _srcHash: a3a42d169d84f9440e9a9bc9d2b5710f
 
 ## Di pinggiran Ubud, Bali, ada sebuah resort yang tenang banget namanya Bidadari Private Villas & Retreat. Tempat ini bukan cuma kasih pelayanan kelas dunia, tapi juga pilihan sempurna buat kamu yang pengin liburan privat jauh dari keramaian.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5eeb79e31fcccab312b7ac39f8bb4798.jpg)
+![Di pinggiran Ubud, Bali, ada sebuah resort yang tenang bange](https://images.gobaligo.id/vocus/vocus_5eeb79e31fcccab312b7ac39f8bb4798.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_952b1b6a3e0f3af379455c275246fa2b.jpg)
+![Di pinggiran Ubud, Bali, ada sebuah resort yang tenang bange](https://images.gobaligo.id/vocus/vocus_952b1b6a3e0f3af379455c275246fa2b.jpg)
 
 ## Lokasi Kece & Lingkungan Alami
 
 Resort ini cuma 10 menit berkendara dari pusat Ubud, dikelilingi tanaman tropis yang rimbun, bikin suasana tenang jauh dari hiruk-pikuk. Meskipun ke restoran atau ikut aktivitas di pusat Ubud butuh waktu 20-30 menit naik mobil, ketenangan inilah yang justru dicari banyak traveler buat suasana liburan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6b8adc024203a185bf9014f2776882c1.jpg)
+![Lokasi Kece & Lingkungan Alami](https://images.gobaligo.id/vocus/vocus_6b8adc024203a185bf9014f2776882c1.jpg)
 
 ## Fasilitas Mewah & Praktis
 
@@ -46,7 +46,7 @@ Setiap vila dilengkapi fasilitas modern yang oke banget:
 
 Resort ini punya Matahari Spa yang kasih pijat tradisional Bali dan berbagai perawatan tubuh, bikin kamu bisa rileks total. Selain itu, ada perpustakaan dengan koleksi buku dan DVD yang bisa kamu pinjam buat memperkaya liburan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_08f9445a47bf2dd88f2f79568e3693af.jpg)
+![Fasilitas Mewah & Praktis](https://images.gobaligo.id/vocus/vocus_08f9445a47bf2dd88f2f79568e3693af.jpg)
 
 ## Pilihan Akomodasi yang Beragam
 
@@ -56,15 +56,15 @@ Bidadari punya berbagai tipe villa yang bisa disesuaikan dengan kebutuhan kamu:
 - **Villa 2 Kamar Tidur** yang luas cocok buat keluarga atau rombongan teman, setiap kamar punya privasi yang cukup.
 - **Villa 4 Kamar Tidur** jadi pilihan ideal buat keluarga besar atau grup, punya ruang bersama yang lega buat ngadain acara pribadi.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0c74642d35f3bbee1024c4e4074244f6.jpg)
+![Pilihan Akomodasi yang Beragam](https://images.gobaligo.id/vocus/vocus_0c74642d35f3bbee1024c4e4074244f6.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1d7046517c42029198cb0f82ab198d47.jpg)
+![Pilihan Akomodasi yang Beragam](https://images.gobaligo.id/vocus/vocus_1d7046517c42029198cb0f82ab198d47.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_68f128b37f785e07e18896b3661d0b8a.jpg)
+![Pilihan Akomodasi yang Beragam](https://images.gobaligo.id/vocus/vocus_68f128b37f785e07e18896b3661d0b8a.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ca6cfd582278c36f80bbd2c283700770.jpg)
+![Pilihan Akomodasi yang Beragam](https://images.gobaligo.id/vocus/vocus_ca6cfd582278c36f80bbd2c283700770.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_addccd6e651f2ba948ee0cd654683237.jpg)
+![Pilihan Akomodasi yang Beragam](https://images.gobaligo.id/vocus/vocus_addccd6e651f2ba948ee0cd654683237.jpg)
 
 Dari fasilitas, suasana, sampai pelayanannya, Bidadari Private Villas & Retreat benar-benar menghadirkan esensi liburan mewah yang bikin liburanmu di Bali jadi momen yang nggak terlupakan.
 
@@ -72,19 +72,19 @@ Dari fasilitas, suasana, sampai pelayanannya, Bidadari Private Villas & Retreat 
 
 ## Tripadvisor Rating Bintang Lima Penuh dari Wisatawan Global
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c0402c15b214ae6467ce39fa4f1f401d.png)
+![Tripadvisor Rating Bintang Lima Penuh dari Wisatawan Global](https://images.gobaligo.id/vocus/vocus_c0402c15b214ae6467ce39fa4f1f401d.png)
 
 ## Ulasan Nyata dari Tamu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c53de270ff7745a91fdc2025040f5046.jpg)
+![Ulasan Nyata dari Tamu](https://images.gobaligo.id/vocus/vocus_c53de270ff7745a91fdc2025040f5046.jpg)
 
 Saat tiba, kami benar-benar kelelahan setelah perjalanan beberapa hari sebelumnya, tapi hanya dalam tiga malam menginap, kami merasa segar kembali. Setiap detail di sini dirancang dengan sangat teliti, stafnya ramah dan suka membantu, makanannya segar dan enak, vilanya seperti surga pribadi. Meskipun saat kami pesan semua kamar penuh, kami merasa seperti memiliki seluruh tempat yang tenang ini sendirian. Buat pasangan yang ingin relaksasi, ini pilihan yang sempurna — kami sudah nggak sabar buat datang lagi. Terima kasih banyak buat tim Bidadari yang luar biasa, kami sudah mulai merindukan semuanya di sini.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a73de5f0fcbc96e86b979f61f601f2fb.jpg)
+![Ulasan Nyata dari Tamu](https://images.gobaligo.id/vocus/vocus_a73de5f0fcbc96e86b979f61f601f2fb.jpg)
 
 Kami menginap selama lima malam di villa dua kamar tidur bersama dua anak (9 dan 11 tahun), dan momen indah ini benar-benar berkesan dari awal sampai akhir. Villa ini menyatu dengan hutan hujan, luas dan terawat dengan baik, perabotannya elegan. Tempat tidurnya nyaman, kamar mandi didesain dengan perlengkapan yang oke. Kolam renang infinity-nya luas dan menyenangkan, area kolam juga dilengkapi kursi berjemur yang nyaman. Staf hotel ramah dan profesional, siap melayani 24 jam. Kami memesan sopir hotel untuk mengantar kami keliling tempat-tempat lokal, pengalamannya keren banget. Setelah pergi, kami sangat merindukan tim Bidadari. Kalau ke Bali lagi, pasti ini pilihan utama kami.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f69fa2f028001dd8e44f87cab086e73.jpg)
+![Ulasan Nyata dari Tamu](https://images.gobaligo.id/vocus/vocus_2f69fa2f028001dd8e44f87cab086e73.jpg)
 
 Kami menginap dua malam di villa satu kamar tidur, dikelilingi alam, dengan pemandangan hutan yang memukau dari kolam renang pribadi. Jaraknya sekitar 15 menit berkendara dari Ubud, vilanya luas dan desainnya cantik, pemandangan hutan bisa dinikmati dari lantai atas dan area kolam. Kami suka banget sama tempat tidur four-poster dan bathtub outdoor yang elegan. Nggak ada restoran di sini, semua makanan disajikan di villa, jadi sangat privat. Kami menikmati makan malam romantis di tepi kolam dengan lilin, bunga, dan musik, benar-benar nggak terlupakan. Kamu juga bisa pilih makan sambil mengapung di kolam, tapi ada biaya tambahan. Stafnya ramah dan baik, seluruh lingkungan terasa tersembunyi dan tenang, kami nggak pernah bertemu tamu lain — ini benar-benar pengalaman menginap yang luar biasa!
 
@@ -92,6 +92,6 @@ Kami menginap dua malam di villa satu kamar tidur, dikelilingi alam, dengan pema
 
 ## Lebih Banyak Rekomendasi Villa di Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f07a86db6cc56e8e0fb884c9454a6d96.png)
+![Lebih Banyak Rekomendasi Villa di Ubud](https://images.gobaligo.id/vocus/vocus_f07a86db6cc56e8e0fb884c9454a6d96.png)
 
 Pengen liburan yang kayak mimpi? 🌴 Villa dengan kolam renang pribadi di Ubud bakal kasih kamu kemewahan dan relaksasi maksimal! Kolam renang pribadi, pemandangan cakep, fasilitas top — semuanya ada biar liburanmu makin sempurna. Langsung klik [di sini](/blog/ubud-villa-pool-guide/) buat lihat lebih banyak rekomendasi villa kece di Ubud, dan mulai petualangan liburan eksklusifmu! ✨

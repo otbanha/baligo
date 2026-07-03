@@ -25,7 +25,7 @@ _srcHash: b4f69323313ca2a78c24e581f3916bd7
 
 Jungle Cart offers a unique racing adventure! You'll traverse through the sacred jungles of Bali, rice fields, temples, and traditional Balinese villages. This is not just a journey of speed and laughter, but also an opportunity to experience the beauty of local nature and culture.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a0cb8ab68e4f45ea3ddcc113fbc65860.jpg)
+![Get Ready for a Jungle Adventure!](https://images.gobaligo.id/vocus/vocus_a0cb8ab68e4f45ea3ddcc113fbc65860.jpg)
 
 The emerging activity Jungle Cart Bali only has three sessions per day: morning, noon, and afternoon, with a maximum of 17 participants per session. So, is Jungle Cart Bali fun? Is it worth experiencing? Below is Xiao Jie's firsthand experience, let's take a look at his personal journey.
 
@@ -43,7 +43,7 @@ After completing the registration process, Jungle Cart Bali arranged a shuttle t
 
 Upon arrival at the racetrack, staff will assist you in putting on elbow pads and helmets. Once everyone is suited up, we move on to the briefing session. During this time, the instructor will thoroughly explain the operation of the vehicles and safety precautions to ensure all participants can safely and enjoyably embark on this jungle karting adventure.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_894219efac8b6d017c1fc0d5e1759e3a.jpg)
+![Arriving at the Racing Track](https://images.gobaligo.id/vocus/vocus_894219efac8b6d017c1fc0d5e1759e3a.jpg)
 
 You'll receive professional coaching on how to safely operate the Jungle Cart. The instructor will detail track precautions and driving techniques to help you quickly grasp the essentials.
 
@@ -75,7 +75,7 @@ This leaves everyone utterly bewildered! People are asking, "Huh? Is that it? Ha
 
 ## Enjoying Local Delicacies
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ee0d2b5244dd4b4778d542bc019c0d51.jpg)
+![Enjoying Local Delicacies](https://images.gobaligo.id/vocus/vocus_ee0d2b5244dd4b4778d542bc019c0d51.jpg)
 
 Finally, after savoring the traditional Indonesian drink and delicious fried bananas provided, the vehicle that brought you to the Jungle Cart site is waiting in the same open area. We board the same vehicle and return to the Jungle Cart Bali office.
 
@@ -85,7 +85,7 @@ Jungle Cart Bali spans a total of 4.5 kilometers. If you've been to Sentosa in S
 
 ## Frequently Asked Questions
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1bb3377773813896348c09834529b16c.jpg)
+![Frequently Asked Questions](https://images.gobaligo.id/vocus/vocus_1bb3377773813896348c09834529b16c.jpg)
 
 **What services are included?**
 
@@ -124,7 +124,7 @@ Provided by Lin Xiaozhao
 
 ## More Ubud Dining and Entertainment Recommendations
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
+![More Ubud Dining and Entertainment Recommendations](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
 [Click here for the complete Ubud guide!](/blog/ubud-guide/)
 

@@ -42,11 +42,11 @@ _srcHash: 88227f58f271c7f64b0482f1929e31bc
 
 最驚喜嘅係，佢仲教我哋擺出各種「網美姿勢」。「向左望！手自然放喺膝頭上面！手舉高啲！」不得不講，當地人真係最識點樣影出震撼嘅火山相！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2548f4b65016cb5cef84dc3c7e33a73b.jpg)
+![火山日出嘅魔幻時刻](https://images.gobaligo.id/vocus/vocus_2548f4b65016cb5cef84dc3c7e33a73b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ed3565f3c65cba330867a9465af3308d.jpg)
+![火山日出嘅魔幻時刻](https://images.gobaligo.id/vocus/vocus_ed3565f3c65cba330867a9465af3308d.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_461bde39900fa14c25d20ebbc554c6fc.jpg)
+![火山日出嘅魔幻時刻](https://images.gobaligo.id/vocus/vocus_461bde39900fa14c25d20ebbc554c6fc.jpg)
 
 **呢趟行程最正嘅係——導遊會免費幫你影日出紀念相！** 佢哋熟知每個最佳取景角度，仲會指導你企喺吉普車旁邊或者**直接爬上車頂**，影出超有冒險感嘅「火山日出大片」。
 
@@ -58,7 +58,7 @@ _srcHash: 88227f58f271c7f64b0482f1929e31bc
 
 有趣嘅係，喺度遇到另外兩個都係啱啱睇完日出嘅台灣女仔，我哋交換咗各自嘅吉普車冒險故事！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_36abb17e76dcf903be948e0b5ecd4a4f.jpg)
+![意外收穫：Paperhills Cafe嘅療癒時光](https://images.gobaligo.id/vocus/vocus_36abb17e76dcf903be948e0b5ecd4a4f.jpg)
 
 ### **4. 烏布景點順遊（可選附加行程）**
 
@@ -66,11 +66,11 @@ _srcHash: 88227f58f271c7f64b0482f1929e31bc
 
 - **德格拉朗梯田（Tegalalang Rice Terrace）**：峇里島最出名嘅梯田景觀。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f7521c2109d0f81313a9289b3b3ccec0.jpg)
+![4. 烏布景點順遊（可選附加行程）](https://images.gobaligo.id/vocus/vocus_f7521c2109d0f81313a9289b3b3ccec0.jpg)
 
 - **Tukad Cepung 瀑布**：隱藏喺洞穴中嘅夢幻瀑布，陽光灑落時超適合影相！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b495d43fc3c4658844ab8c165bd29a1.jpg)
+![4. 烏布景點順遊（可選附加行程）](https://images.gobaligo.id/vocus/vocus_9b495d43fc3c4658844ab8c165bd29a1.jpg)
 
 {{block:戶外}}
 

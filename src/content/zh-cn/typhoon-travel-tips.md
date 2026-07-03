@@ -23,7 +23,7 @@ _srcHash: a29d8bd52180177e25974d69770f4794
 
 不过别担心，只要事前准备得当，就能大幅降低风险，享受更安心的旅程。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ef24ed91fc095869c613bcf7510c0920.jpg)
+![出国碰上台风季？旅程开始前的万全准备](https://images.gobaligo.id/vocus/vocus_ef24ed91fc095869c613bcf7510c0920.jpg)
 
 ---
 
@@ -57,7 +57,7 @@ _srcHash: a29d8bd52180177e25974d69770f4794
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3296188a90670c29043b2d367e9bef2e.jpg)
+![储存航空公司与订票平台联系方式](https://images.gobaligo.id/vocus/vocus_3296188a90670c29043b2d367e9bef2e.jpg)
 
 ## 气象预警：追踪天气预报是基本功
 

@@ -70,7 +70,7 @@ You can also find [discounted tickets on Klook](https://affiliate.klook.com/redi
 
 AeroXSpace plans to add more facilities in the future to attract more visitors and aims to become a long-term family hotspot in Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c87376e37b6384cc0991bd5077a8556.jpg)
+![Future Plans and Development](https://images.gobaligo.id/vocus/vocus_1c87376e37b6384cc0991bd5077a8556.jpg)
 
 ### Expert Opinions and Visitor Feedback
 
@@ -84,7 +84,7 @@ It's recommended to visit in the morning or afternoon to avoid the midday heat a
 
 AeroXSpace also has a hidden highlight that drives kids wild—every Saturday after 5 PM, the park transforms into a party paradise exclusively for children. With DJs spinning tunes, dancers performing, and aerialists showering candy and red envelopes from above, the atmosphere is incredibly lively.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2ebc3daabf903126c0b5d744f860c0b5.jpg)
+![Saturday Exclusive Party Time: A 'Mini Nightclub' for Kids](https://images.gobaligo.id/vocus/vocus_2ebc3daabf903126c0b5d744f860c0b5.jpg)
 
 The event runs from 5 PM to 9 PM, and purchasing a ticket includes a party pack containing clothes, socks, glowing glasses, an LED ring, and a fluorescent bracelet, allowing kids to fully immerse themselves in the party atmosphere from head to toe.
 

@@ -19,7 +19,7 @@ _srcHash: 7e0b102882345880650a1fc5416eb061
 
 ## **雨季垃圾潮再襲峇里島，沙灘變咗垃圾場！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7a30c67de4958f26b5fb7805f41de3f3.jpg)
+![雨季垃圾潮再襲峇里島，沙灘變咗垃圾場！](https://images.gobaligo.id/vocus/vocus_7a30c67de4958f26b5fb7805f41de3f3.jpg)
 
 ### **金巴蘭沙灘垃圾堆滿，畫面令人震驚**
 
@@ -94,7 +94,7 @@ _srcHash: 7e0b102882345880650a1fc5416eb061
 
 ## 📩 **立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

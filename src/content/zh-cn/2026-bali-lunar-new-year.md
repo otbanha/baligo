@@ -27,11 +27,11 @@ _srcHash: 90e1147bea467ba7218483d02935e815
 
 ### 🏮 2026 巴厘岛酒店春节表演时间表
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e647a22175ae6ca92b4d7ecae82447d.jpg)
+![2026 巴厘岛酒店春节表演时间表](https://images.gobaligo.id/vocus/vocus_2e647a22175ae6ca92b4d7ecae82447d.jpg)
 
 ### 💡 观赏表演小贴士：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_993aa3285ebffeae0ee54016c25350b0.png)
+![观赏表演小贴士：](https://images.gobaligo.id/vocus/vocus_993aa3285ebffeae0ee54016c25350b0.png)
 
 - **早鸟位子**：舞狮表演通常会吸引大量住客与外来游客观看，特别是大厅的表演，建议提前 **15-20 分钟** 抵达大厅占位。
 - **互动习俗**：在巴厘岛观看舞狮时，可以准备红包（Angpao）喂给狮子，这被视为给表演者的支持，也是为自己祈求好运的举动（建议面额为 IDR 50,000 或 100,000）。
@@ -53,7 +53,7 @@ _srcHash: 90e1147bea467ba7218483d02935e815
 
 ## 🍴 精选新春飨宴 (开运年菜)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_049126344feb3f43d3f4e43323b1203c.jpg)
+![精选新春飨宴 (开运年菜)](https://images.gobaligo.id/vocus/vocus_049126344feb3f43d3f4e43323b1203c.jpg)
 
 **库塔 & 雷吉安**
 

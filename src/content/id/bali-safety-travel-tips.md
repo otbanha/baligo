@@ -25,13 +25,13 @@ _srcHash: d92713c540275bdca3862f25621553f2
 
 Bali, surga tropis yang dijuluki 'Pulau Dewata', setiap tahunnya menarik jutaan wisatawan buat menikmati sinar matahari, ombak, dan pengalaman budaya yang unik. Tapi, sambil menikmati keindahan tempat ini, keselamatan traveling jangan sampai diabaikan. Kementerian Pariwisata Indonesia baru aja ngeluarin panduan keamanan terbaru. Yuk, kita simak gimana caranya menikmati liburan di Bali yang seru sekaligus aman.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d5e5a03dcd19172c76d45268e8d6719b.png)
+![Panduan Aman Traveling di Bali: Bikin Liburan Surgamu Makin ](https://images.gobaligo.id/vocus/vocus_d5e5a03dcd19172c76d45268e8d6719b.png)
 
 ## Risiko Gunung Berapi dan Aktivitas Pendakian
 
 Indonesia punya banyak gunung berapi aktif, dan banyak di antaranya jadi destinasi favorit para petualang buat mendaki. Tapi, aktivitas pendakian ini punya risiko yang cukup besar, terutama buat wisatawan yang kurang siap secara fisik. Kejadian baru-baru ini di Gunung Rinjani yang menewaskan seorang turis jadi pengingat bahwa jalur populer sekalipun bisa berbahaya buat mereka yang meremehkan tantangannya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_10d1e80e41f46cec5b7c5eba8ef445cc.png)
+![Risiko Gunung Berapi dan Aktivitas Pendakian](https://images.gobaligo.id/vocus/vocus_10d1e80e41f46cec5b7c5eba8ef445cc.png)
 
 **Yang wajib diperhatikan sebelum mendaki:**
 
@@ -55,7 +55,7 @@ Indonesia terletak di jalur gempa aktif, jadi rawan letusan gunung berapi, gempa
 
 Pantai-pantai di Bali memang menggoda dengan airnya yang jernih, tapi lautnya bisa sangat berbahaya. Arus kuat dan ombak yang nggak terduga, terutama saat musim kemarau (Juli-Agustus), jadi ancaman buat wisatawan. Banyak pantai di Bali, termasuk Kuta, Uluwatu, dan Seminyak yang jadi spot surfing populer, nggak punya penjaga pantai — bikin risiko berenang dan surfing makin tinggi.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_76626bc1ae78dd16e22babc6fb96f8f1.png)
+![Tips Keamanan di Laut](https://images.gobaligo.id/vocus/vocus_76626bc1ae78dd16e22babc6fb96f8f1.png)
 
 **Peringatan Penting:**
 
@@ -124,7 +124,7 @@ A: Hindari aktivitas berisiko tinggi seperti panjat tebing, diving laut dalam, a
 
 ## 📩 **Penjelasan Halaman Depan 'Panduan Wisata Bali'**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
+![Penjelasan Halaman Depan 'Panduan Wisata Bali'](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

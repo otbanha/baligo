@@ -20,7 +20,7 @@ _srcHash: 37b0efb237dfaf2b2ac21ca7d26c823c
 ---
 Banyak orang yang bingung soal visa buat liburan ke Indonesia / Bali — nggak tahu mulai dari mana, apalagi kalau baru pertama kali backpackeran. Urus eVisa emang keliatan ribet dan asing.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_082327d58c16280d93d97286908a1644.jpg)
+![Video Tutorial Cara Lengkap Mengurus eVisa Bali / Indonesia](https://images.gobaligo.id/vocus/vocus_082327d58c16280d93d97286908a1644.jpg)
 
 ➡️[Klik di sini untuk lebih banyak penawaran menarik di Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
@@ -32,7 +32,7 @@ Di video ini, Cheng Gong Jun nunjukin cara ngurus eVisa Bali sendiri. Videonya f
 
 Pertama, Cheng Gong Jun jelasin cara buka situs resmi imigrasi Indonesia, terus ngasih tau cara isi formulir. Dia bilang isi formulirnya gampang banget, tinggal ikutin aja. Abis itu, dia nunjukin cara milih tipe visa dan isi data diri. Semua sumber data dan cara ngisinya dijelasin detail biar kamu paham dan bisa langsung praktik.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6b80ce0998aa766ae367666be74db23e.jpg)
+![Video Tutorial Cara Lengkap Mengurus eVisa Bali / Indonesia](https://images.gobaligo.id/vocus/vocus_6b80ce0998aa766ae367666be74db23e.jpg)
 
 Setelah formulir selesai, dia demo cara bayar — jangan lupa siapin kartu kredit. Katanya proses bayarnya simpel, tapi penting banget buat bayar dalam waktu yang ditentukan.
 

@@ -63,7 +63,7 @@ https://youtu.be/Y0KW6eo79fU
 
 ## The Viral H2O / River Pool
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776081381855-pools-beach-ayana-river.jpeg)
+![The Viral H2O / River Pool](https://images.gobaligo.id/images/2026-04/1776081381855-pools-beach-ayana-river.jpeg)
 
 Unlike the casual, no-wait photo sessions of the past at Ayana's River Pool (H2O Pool), new rules have been implemented as mentioned in the video:
 

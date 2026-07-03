@@ -29,7 +29,7 @@ _srcHash: 160760cbe0a54d52e06446696eb1eae8
 
 烏魯瓦圖廟（Uluwatu Temple）已經成為遊客好熟悉嘅目的地，當地人叫佢做「Pura Luhur Uluwatu」。呢間寺廟唔單止提升咗峇里島南部景點嘅知名度，仲因為佢獨特嘅地理位置同文化意義而備受推崇。寺廟坐落喺 97 米高嘅懸崖上面，唔單止係信徒嘅朝聖地，仲提供咗令人驚嘆嘅壯麗景色，絕對會令你大開眼界。喺呢篇烏魯瓦圖廟旅遊指南入面，我會為你提供晒所有必備資訊，幫你更好咁規劃行程，包括門票價格、歷史背景、參觀時嘅衣着建議等。準備好展開一場冒險未？我哋開始啦！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0942869a24bc2de969579c4727678bef.jpg)
+![【峇里島景點】烏魯瓦圖廟情人崖全攻略：卡恰舞火舞搶票、落日卡位同野生獼猴避雷指南](https://images.gobaligo.id/vocus/vocus_0942869a24bc2de969579c4727678bef.jpg)
 
 ***
 
@@ -51,7 +51,7 @@ _srcHash: 160760cbe0a54d52e06446696eb1eae8
 
 所以，好多情侶會嚟呢度，一邊欣賞壯麗嘅海景，一邊為愛情祈福。特別係喺日落時分，情人崖嘅浪漫氣氛更加令人陶醉。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f1205c8b56146e8e887c4182b3cdb14.jpg)
+![點解又叫「情人崖」？](https://images.gobaligo.id/vocus/vocus_2f1205c8b56146e8e887c4182b3cdb14.jpg)
 
 ***
 
@@ -70,7 +70,7 @@ _srcHash: 160760cbe0a54d52e06446696eb1eae8
 
 當你踏入烏魯瓦圖寺，你就會進入一個唔同嘅世界——呢度有令人屏息嘅美景，仲有頑皮嘅猴子。以下係你需要知道嘅資訊，確保你嘅參訪安全又愉快。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a6b613c677f33ef44de0d9ba843cb008.jpg)
+![烏魯瓦圖廟嘅參訪指南：入口、森林同猴子](https://images.gobaligo.id/vocus/vocus_a6b613c677f33ef44de0d9ba843cb008.jpg)
 
 1. **北門同南門嘅選擇**
    無論你揀由北門定南門入，都會帶你入去一片好密嘅森林，呢度住咗出名嘅長尾灰猴。兩個入口差唔多，但如果你想快啲去到主要景點，揀邊個入口都得。不過要準備好，一入去就會見到呢班毛茸茸嘅朋友！
@@ -92,9 +92,9 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 ## **烏魯瓦圖廟嘅獨特風景同建築**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cbc08e1711f806a3dc723f3ad3f4e928.jpg)
+![烏魯瓦圖廟嘅獨特風景同建築](https://images.gobaligo.id/vocus/vocus_cbc08e1711f806a3dc723f3ad3f4e928.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6d11065583fa43ec011666c8b8938d2c.jpg)
+![烏魯瓦圖廟嘅獨特風景同建築](https://images.gobaligo.id/vocus/vocus_6d11065583fa43ec011666c8b8938d2c.jpg)
 
 烏魯瓦圖廟唔單止係一個靚地方，更加係一個感官嘅盛宴，有令人驚嘆嘅風景同獨特嘅建築。
 
@@ -114,9 +114,9 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 > 快速參考：[【掌握峇里島日落時間最佳觀賞指南】七大峇里島日落觀賞地點，你去過幾個？](/blog/bali-sunset-spots-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_83bd89800dff26aa55bcb32163b06b3b.jpg)
+![烏魯瓦圖廟嘅獨特風景同建築](https://images.gobaligo.id/vocus/vocus_83bd89800dff26aa55bcb32163b06b3b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a3357e6294ca9b8324ea49d03103abbb.jpg)
+![烏魯瓦圖廟嘅獨特風景同建築](https://images.gobaligo.id/vocus/vocus_a3357e6294ca9b8324ea49d03103abbb.jpg)
 
 ***
 
@@ -131,7 +131,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 - **門票**：入烏魯瓦圖廟要俾門票錢，建議提前上網查最新價格。目前國際遊客嘅門票係成人60,000印尼盾，6至12歲細路40,000印尼盾，6歲以下免費入場。呢個門票唔包卡洽火舞表演嘅入場費。印尼本地遊客有少少折扣，成人票係30,000印尼盾，細路票係15,000印尼盾。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_937f3b037d46adb49c30bb19a624a580.jpg)
+![烏魯瓦圖廟嘅門票同卡洽火舞表演資訊](https://images.gobaligo.id/vocus/vocus_937f3b037d46adb49c30bb19a624a580.jpg)
 
 - **卡洽舞表演**：每日傍晚6:00至7:00同7:00至8:00有兩場表演，建議早啲到霸定最佳觀賞位。目前舞蹈表演嘅門票係每人150,000印尼盾。
 - **優惠票**：卡洽火舞優惠票[呢度買](https://affiliate.klook.com/redirect?aid=116349&aff_adid=983750&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21638-uluwatu-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D83f53db339)！

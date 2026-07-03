@@ -72,7 +72,7 @@ _srcHash: fcdd5baec1f997f9ad991de8a2b5e6d4
 
 **晚餐：Naughty Nuri's Warung, Sanur（好味豬肋骨）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_44e005ebfa77730c958280ed8a16e897.jpg)
+![第一日行程：](https://images.gobaligo.id/vocus/vocus_44e005ebfa77730c958280ed8a16e897.jpg)
 
 去到峇里島嘅第一餐，我哋揀咗位於Sanur嘅Naughty Nuri's Warung，呢度以招牌豬肋骨聞名。果然名不虛傳，肉質嫩滑，配埋秘製醬汁，成個味蕾都醒晒，真係好好食！嚟峇里島，呢間舖絕對係必食清單之一。
 
@@ -80,19 +80,19 @@ _srcHash: fcdd5baec1f997f9ad991de8a2b5e6d4
 
 **入住：Maison Aurelia Sanur, Bali by ​​Preference**
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780844012829-524375767.jpg)
+![第一日行程：](https://images.gobaligo.id/images/2026-06/1780844012829-524375767.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780844013272-524375768.jpg)
+![第一日行程：](https://images.gobaligo.id/images/2026-06/1780844013272-524375768.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780844013740-524375771.jpg)
+![第一日行程：](https://images.gobaligo.id/images/2026-06/1780844013740-524375771.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780844014346-524375772.jpg)
+![第一日行程：](https://images.gobaligo.id/images/2026-06/1780844014346-524375772.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780844014874-524386598.jpg)
+![第一日行程：](https://images.gobaligo.id/images/2026-06/1780844014874-524386598.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780844015367-524386644.jpg)
+![第一日行程：](https://images.gobaligo.id/images/2026-06/1780844015367-524386644.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780844015782-524387959.jpg)
+![第一日行程：](https://images.gobaligo.id/images/2026-06/1780844015782-524387959.jpg)
 
 > ➡️ Maison Aurelia Sanur 房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1294268) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6024011&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaysLFJMEk1cfC0Xp9lqgQo4HFb0FHBhAoKXXwnDUTCEKrHAJ4IqYceD6NPfHFvcOqx0vdHQrBSg6EODQyGoPA5ECHLkZWsJoZjKevvWfayJgGAm3BDjsYmU4wLudfwNR65T3TKRZmjldMl1i-MkVXK2WnVipZmegolWSW5KQqWSk9XTTvacOe5ytalXSUUlKLk4FCQFZibn5pXgmQbWhhqGdgABQpSazwTAHrTE7MSS7NSSxJDaksAJpgpqOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFlfyAxhRBBTLz8yDaDVHEwhJzSlMhTgBa6JYKtcOwVgfT5c_m9D7tnvli027iXG5ObZcbEONy49rYRyxM0bGfWBh-AaOhkbmJlaGLlZnjFuMkILmcfxcra6C7d7jTBdYmESl5QwMDA1NDY1NTXYNEy0QLM4tkXRNLEyNzA11DMzNTU41v_Z3XnxgbWUtBYl2BUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm4WZo6Gja5QNF7OnS5DgB73n29utLe2lmEPCXRRLVz9f8r33tL0WSM4QJhe453XOCXvjBfaRMPkk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkaGDYyMOxj_wwDjK0aQ6QCpFEtY-gIAAA&masterhotelid_tracelogid=100051355-0a9a868c-494270-16655&detailFilters=17|1~17~1*31|6024011~31~6024011*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=130&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/XNwjIsZ7)
 
@@ -140,7 +140,7 @@ https://youtu.be/laRb_l8BdLM
 **晚餐：意大利餐廳 Forketta Bali**
 晚餐揀咗Sanur嘅意大利餐廳——Forketta Bali。呢間餐廳以精緻嘅意大利菜聞名，我哋點咗招牌嘅手工意大利麵同烤薄餅，口感同味道都好正宗，食得好滿足。咁好味嘅意大利菜，為充實嘅一日畫上完美句號，真係一流！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_142fdb8c22f4c172038e3ade269ef6ef.jpg)
+![第二日行程（藍夢島探險）：](https://images.gobaligo.id/vocus/vocus_142fdb8c22f4c172038e3ade269ef6ef.jpg)
 
 {{block:sanur}}
 
@@ -153,7 +153,7 @@ https://youtu.be/laRb_l8BdLM
 
 **網美咖啡店：盪鞦韆影相**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_57b0b41ac469b22436f739a53fe74f4f.jpg)
+![第三日行程（烏布一日遊）：](https://images.gobaligo.id/vocus/vocus_57b0b41ac469b22436f739a53fe74f4f.jpg)
 
 泛舟結束之後，嚟到一間好出名嘅網美咖啡店，呢度嘅特色係巨型盪鞦韆，可以一邊盪鞦韆，一邊望住壯麗嘅稻田景色。當地人真係好識影相，成個氛圍令每張相都靚到好似明信片咁，絕對係影相打卡嘅好地方。
 
@@ -197,19 +197,19 @@ https://youtu.be/JtxZHtijEkE
 
 > 延伸閱讀：超過50位網友推薦嘅Canggu美食餐廳，請睇「[Canggu攻略地圖](https://gobaligo.id/map/canggu/)」
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e7a6051d70eb94791ccd07270bdcf2e8.png)
+![第四日行程（坎古區Chill一日遊）：](https://images.gobaligo.id/vocus/vocus_e7a6051d70eb94791ccd07270bdcf2e8.png)
 
 **海神廟探訪**
 晏晝，我哋去咗峇里島嘅地標之一——海神廟。呢座位於海岸邊嘅寺廟好似浮喺海上嘅奇景，無論係壯麗嘅景色定係神聖嘅氣氛，都令人心生敬畏。呢度亦係睇夕陽嘅絕佳地點，嚟到峇里島絕對唔可以錯過。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c8901a744d0d658d299564b9ec2515af.jpg)
+![第四日行程（坎古區Chill一日遊）：](https://images.gobaligo.id/vocus/vocus_c8901a744d0d658d299564b9ec2515af.jpg)
 
 > [峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](https://gobaligo.id/blog/bali-tanah-lot-guide/)
 
 **The Lawn Canggu Beach Club**
 今日最後一站係Canggu嘅知名沙灘俱樂部——The Lawn。呢度有陽光、沙灘、美食，仲有比堅尼美女同靚仔。我哋喺度享受咗一個悠閒嘅下午，浸喺泳池入面，飲住冰凍嘅雞尾酒，等住峇里島出名嘅夕陽慢慢落下。夜晚嚟到之後，沙灘上燈火通明，氣氛寫意又浪漫，令我哋徹底放鬆，享受度假嘅每一刻。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_324fe7d0c94f96b7efa72d056ac411f2.jpg)
+![第四日行程（坎古區Chill一日遊）：](https://images.gobaligo.id/vocus/vocus_324fe7d0c94f96b7efa72d056ac411f2.jpg)
 
 {{block:canggu}}
 
@@ -220,12 +220,12 @@ https://youtu.be/JtxZHtijEkE
 **Canggu Love Anchor 逛街**
 今日第一站，我哋嚟到Canggu好受歡迎嘅Love Anchor市集。呢度有各式各樣嘅飾物同紀念品可以揀，無論係手工藝品、衫褲定係小飾物，都充滿峇里島嘅風情。記得一定要講價，呢度嘅商品價格有好大嘅浮動空間，我哋成功將唔少商品價格砍低咗一半，真係超抵！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_adaedf1ccf645b4c1f61c85aa8b81cb6.jpg)
+![第五日行程（準備返屋企喇！）：](https://images.gobaligo.id/vocus/vocus_adaedf1ccf645b4c1f61c85aa8b81cb6.jpg)
 
 **返Villa享受最後嘅度假時光**
 購物完之後，我哋返到Villa，享受最後幾個鐘嘅悠閒時光。Villa嘅氣氛寧靜舒適，浸喺泳池曬住暖陽，令我哋徹底放鬆，為呢趟美好嘅峇里島之旅畫上完美句號。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1d42efde3fdde2dbb838bb53c0a00f79.jpg)
+![第五日行程（準備返屋企喇！）：](https://images.gobaligo.id/vocus/vocus_1d42efde3fdde2dbb838bb53c0a00f79.jpg)
 
 **前往機場，準備搭16:30嘅飛機**
 離開Villa之後，我哋提前三個鐘到達機場，呢個係出行嘅好習慣，特別係喺國際機場，早啲到可以避免因為各種手續或者突發情況而趕頭趕命。準備好晒所有證件，安心等上機。
@@ -253,7 +253,7 @@ https://youtu.be/JtxZHtijEkE
 
 至於我提到嘅超正中文包車司機，就係「Wayan Suantara」，亦即係大家熟悉嘅「康哥」。加咗佢嘅Line之後，我即刻講低自己想安排嘅行程，康哥唔單止快脆俾出安排，仲提供咗唔少專業建議，令成個行程更加完美。真心大推佢！❤️ 完全值得信賴👍
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0942104964f65a1688cea7612940f267.jpg)
+![司機推薦](https://images.gobaligo.id/vocus/vocus_0942104964f65a1688cea7612940f267.jpg)
 
 呢趟峇里島之旅充滿咗驚喜同回憶，由美景到美食，由冒險到放鬆，無論係體驗峇里島嘅自然風光，定係享受佢嘅悠閒氛圍，呢度都係度假天堂。期待下次再嚟！
 

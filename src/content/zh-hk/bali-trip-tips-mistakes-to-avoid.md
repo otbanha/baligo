@@ -26,7 +26,7 @@ _srcHash: c7c839f9af8339206038edcf25a9d806
 
 由於喺群組中見到大家辦理電子簽證（eVOA）時遇到好多問題，我哋決定改辦落地簽證。到達機場後，排隊等候大約15-20分鐘就輪到我哋，速度都算可以接受。然而，即使辦理簽證相對快速，行李提取依舊需要一啲時間，所以我哋喺等行李時感到有啲無奈😅。所以，若果你選擇辦理落地簽證，請預留充足嘅時間以應對可能嘅延遲。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a26a7527e1e934bfe40d5158bf8470d7.png)
+![簽證：](https://images.gobaligo.id/vocus/vocus_a26a7527e1e934bfe40d5158bf8470d7.png)
 
 > 延伸閱讀：[2025/08印尼峇里島入境使用「All Indonesia」申報系統｜1分鐘搞掂最新流程：落飛機→過海關→攞行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
 

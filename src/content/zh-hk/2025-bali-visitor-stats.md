@@ -27,7 +27,7 @@ _srcHash: 6d7be69354475bbdabc0d2c2de2a7476
 
 從2025年最新嘅直飛旅客統計嚟睇，峇里島嘅旅遊結構正慢慢轉變，但係有啲現象卻意外地穩定——好似新加坡嘅旅客越來越多；台灣旅客二十年如一日地維持喺差唔多嘅數量；亦都有啲過去佔據版面嘅市場，悄悄縮水。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fcd184a1c39fce756fde3b709e6fe710.png)
+![澳洲唔再係第一？2025年峇里島旅客排名同入境簽證/財力證明懶人包](https://images.gobaligo.id/vocus/vocus_fcd184a1c39fce756fde3b709e6fe710.png)
 
 更有意思嘅係，一直被認為係「峇里島最大客源」嘅澳洲，今次首次被歐洲超越。
 
@@ -41,7 +41,7 @@ _srcHash: 6d7be69354475bbdabc0d2c2de2a7476
 
 ## 2025峇里島國別/人次統計
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_99a8db2673d75441daa04e66ea7fd9aa.jpg)
+![2025峇里島國別/人次統計](https://images.gobaligo.id/vocus/vocus_99a8db2673d75441daa04e66ea7fd9aa.jpg)
 
 呢張表，其實好值得細睇。
 
@@ -66,7 +66,7 @@ _srcHash: 6d7be69354475bbdabc0d2c2de2a7476
 
 而家最常見嘅就係 B1 同 C1 呢兩種：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dd1d15ae602a759d1d7e072cbd771d4d.jpg)
+![再補充一個好多人會問嘅重點：EVOA 電子落地簽點揀？](https://images.gobaligo.id/vocus/vocus_dd1d15ae602a759d1d7e072cbd771d4d.jpg)
 
 **快速參考：**[印尼/峇里島電子簽證eVisa/eVoa全攻略：申請步驟、注意事項一次掌握！](/blog/bali-evisa-application-guide/)
 
@@ -94,7 +94,7 @@ C1 嘅重點唔係「玩」，而係「訪問」。
 
 ## 咁一般旅客應該點揀？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d26a3e513ac8df95013e940223bf7017.png)
+![咁一般旅客應該點揀？](https://images.gobaligo.id/vocus/vocus_d26a3e513ac8df95013e940223bf7017.png)
 
 答案其實好簡單。
 
@@ -167,6 +167,6 @@ C1 就強調訪問、交流、考察，但一樣唔可以工作。
 
 峇里島嘅簽證規定，間中會有微調， 出發前 1–2 個禮拜再快速確認一次最新公告，會係最穩陣嘅做法。但以目前多數旅客嘅實際經驗嚟睇， 揀啱簽證，入境峇里島真係唔難。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_62b21a3da69035eb65ae0f1b4e641bfc.png)
+![最後嘅小提醒](https://images.gobaligo.id/vocus/vocus_62b21a3da69035eb65ae0f1b4e641bfc.png)
 
 剩低嘅，就係好好享受呢座島啦 🌴

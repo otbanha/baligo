@@ -28,7 +28,7 @@ Kita bahas detail dulu soal visa turis yang paling banyak dicari.
 
 Mau masuk Indonesia/Bali buat liburan dan perlu apply eVisa? Direktorat Jenderal Imigrasi Indonesia udah ngubah jenis pengajuan eVisa (EVOA). Yang dulu namanya B213 udah nggak ada. Sekarang visa turis dibagi jadi **TOURISM SINGLE ENTRY VISITOR VISA-60DAYS** dan **B1 - TOURISM(VISA ON ARRIVAL)-30DAYS**.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b50f446bf85ff20e26f33059953c16c.png)
+![Visa Turis](https://images.gobaligo.id/vocus/vocus_3b50f446bf85ff20e26f33059953c16c.png)
 
 Terus, buat liburan biasa pilih yang mana?
 
@@ -40,7 +40,7 @@ Sedangkan **TOURISM SINGLE ENTRY VISITOR VISA-60DAYS (Visa Turis Sekali Masuk 60
 
 Berikut perbandingan dua jenis pengajuan:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f3ec80b73a526b4e7ca96f0c3b82a89.png)
+![Visa Turis](https://images.gobaligo.id/vocus/vocus_2f3ec80b73a526b4e7ca96f0c3b82a89.png)
 
 ➡️[Cari penginapan di Bali klik di sini](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️  
 ➡️[Lebih banyak promo seru di Bali klik di sini](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
@@ -86,7 +86,7 @@ Saran sih, ajukan dari jauh-jauh hari biar nggak buang-buang waktu liburan kamu.
 
 ## Penjelasan Singkat:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_587d0faa86baaf1230364fe6675ef04f.png)
+![Penjelasan Singkat:](https://images.gobaligo.id/vocus/vocus_587d0faa86baaf1230364fe6675ef04f.png)
 
 ➡️[Cari penginapan di Bali klik di sini](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️  
 ➡️[Lebih banyak promo Bali worth it klik saya](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️

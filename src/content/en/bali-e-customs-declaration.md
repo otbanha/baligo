@@ -26,7 +26,7 @@ _srcHash: 9f8862ab56e55158e6b925254da7d999
 
 Bali's Electronic Customs Declaration Form (eCD) is a digital customs form mandated by the Indonesian government for all incoming travelers. This system replaces the traditional paper version, requiring passengers to complete and submit the form online before arriving in Bali to facilitate swift customs clearance.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a91d6ead0d074002298ce1381182700c.png)
+![What is Bali's Electronic Customs Declaration Form?](https://images.gobaligo.id/vocus/vocus_a91d6ead0d074002298ce1381182700c.png)
 
 The form primarily collects travelers' personal information, itinerary details, and whether they are carrying any items that need to be declared. Both foreign tourists and returning Indonesian citizens must complete this declaration.
 
@@ -50,7 +50,7 @@ First, switch the language to English in the top right corner and read the instr
 
 In the form, you’ll need to fill in the following information:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_21d862589075e1a383688c90186a2d82.png)
+![Page 2: Personal Information Fields](https://images.gobaligo.id/vocus/vocus_21d862589075e1a383688c90186a2d82.png)
 
 - Passport Number (must match your passport)
 - Date of Arrival
@@ -62,7 +62,7 @@ In the form, you’ll need to fill in the following information:
 - Number of Baggage Arriving with You (includes checked and carry-on luggage; personal backpacks can be excluded)
 - Family Arriving with You (number of accompanying family members, excluding yourself; maximum of 10. If traveling with family, additional passport and personal details are required)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f680fec20d1b6bf1f1cf3c81af7329d5.jpg)
+![Page 2: Personal Information Fields](https://images.gobaligo.id/vocus/vocus_f680fec20d1b6bf1f1cf3c81af7329d5.jpg)
 
 The [+Add] button in the bottom right corner allows you to add up to 10 additional travel companions.
 
@@ -72,7 +72,7 @@ Each item category has a 'Yes / No' option. If you select 'Yes,' you’ll need t
 
 ### **IMEI Registration**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c76056591f440cfde9bebd9abb547364.png)
+![IMEI Registration](https://images.gobaligo.id/vocus/vocus_c76056591f440cfde9bebd9abb547364.png)
 
 The updated eCD includes a new question: 'Do you intend to use a mobile phone, handheld device, or tablet purchased abroad to connect to the local mobile network in Indonesia?'
 

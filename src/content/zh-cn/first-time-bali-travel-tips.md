@@ -31,7 +31,7 @@ _srcHash: 923fd0e1fb54af637a4b91a2ed01cf48
 
 ### 1.护照和签证：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b4636d492eccd4bbd66f297fe294aaee.jpg)
+![1.护照和签证：](https://images.gobaligo.id/vocus/vocus_b4636d492eccd4bbd66f297fe294aaee.jpg)
 
 确保你的护照还有六个月以上的有效期，并且检查你是否需要签证前往巴厘岛。根据你的国籍，可能需要提前办理签证。
 
@@ -53,7 +53,7 @@ _srcHash: 923fd0e1fb54af637a4b91a2ed01cf48
 
 ### 4.换汇：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a272cc601fcba762d6af46ebde80bb20.png)
+![4.换汇：](https://images.gobaligo.id/vocus/vocus_a272cc601fcba762d6af46ebde80bb20.png)
 
 巴厘岛使用印尼盾（Rupiah, 代号IDR）作为市面上流通唯一货币。您需要在您的出发国先换好“美金”。为什么呢？请看下面换汇懒人包：
 
@@ -62,7 +62,7 @@ _srcHash: 923fd0e1fb54af637a4b91a2ed01cf48
 
 ### 5.要带什么行李？：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_91ec7922f1447500e4a3e09b3f71f767.jpg)
+![5.要带什么行李？：](https://images.gobaligo.id/vocus/vocus_91ec7922f1447500e4a3e09b3f71f767.jpg)
 
 根据你的旅行计划，准备好轻便且合适的行李。如果你计划参加水上活动或探索巴厘岛的自然景点，携带合适的服装和鞋子是很重要的。其他的提醒如防晒、是不是要带雨具、电压/插头...等细项请参考：[巴厘岛旅行要带什么？必备的21项物品](/blog/bali-travel-essentials/)
 
@@ -100,7 +100,7 @@ _srcHash: 923fd0e1fb54af637a4b91a2ed01cf48
 
 ### 9.简单认识各区域的特色：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6356a43e38fd4c13798ef054dd542006.png)
+![9.简单认识各区域的特色：](https://images.gobaligo.id/vocus/vocus_6356a43e38fd4c13798ef054dd542006.png)
 
 巴厘岛虽然不大，但是每个区域都有很不一样的旅游特色。先认识巴厘岛各区的独特之处，才能找到适合不同旅行者喜好和度假需求的住宿选择。
 
@@ -110,7 +110,7 @@ _srcHash: 923fd0e1fb54af637a4b91a2ed01cf48
 
 ### 10.旅馆与交通：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_be1215ff80c1c04f4739b07341c65c49.png)
+![10.旅馆与交通：](https://images.gobaligo.id/vocus/vocus_be1215ff80c1c04f4739b07341c65c49.png)
 
 巴厘岛是一个热门的旅游目的地，特别是在旺季，所以提前预订可以确保你有一个愉快的旅行体验。住宿的预订可以参考我们超过300家的巴厘岛住宿推荐，有依区域划分的住宿推荐，还有亲子、蜜月的主题。重点这是一份保证不踩雷的住宿清单哦：「[巴厘岛住宿推荐指南](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)」
 
@@ -158,7 +158,7 @@ _srcHash: 923fd0e1fb54af637a4b91a2ed01cf48
 
 ### 15. 巴厘岛景点介绍：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8a91a2159ba5f4964ed4c3f662098f5d.png)
+![15. 巴厘岛景点介绍：](https://images.gobaligo.id/vocus/vocus_8a91a2159ba5f4964ed4c3f662098f5d.png)
 
 巴厘岛有「十大标志性景点」。这些景点集中展现了巴厘岛的文化、自然风光和特色魅力，让您在短时间内深入体验巴厘岛的独特魅力。同时这些地方也是拍照打卡/到此一游的热门景点。
 
@@ -179,13 +179,13 @@ https://youtube.com/shorts/lltGiElNWBA
 
 ### 17.巴厘岛旅游高手规划的行程
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8eeed2c49e4d80410fa6844fe5acfee8.png)
+![17.巴厘岛旅游高手规划的行程](https://images.gobaligo.id/vocus/vocus_8eeed2c49e4d80410fa6844fe5acfee8.png)
 
 最具参考价值的行程安排参考指南，让你玩得轻松，还玩得比别人多，比别人充实！请看这里：[爽玩巴厘岛自由行攻略：交通、住宿、景点、美食、购物、SPA、夜生活，全方位规划](/blog/bali-free-travel-guide/)
 
 ### 18.关注巴厘岛新闻
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00c25a545869e8e2c4c2172ed512f261.png)
+![18.关注巴厘岛新闻](https://images.gobaligo.id/vocus/vocus_00c25a545869e8e2c4c2172ed512f261.png)
 
 关注巴厘岛新闻有几个重要原因:
 
@@ -238,7 +238,7 @@ https://youtu.be/H5N5_UuK7TI
 
 第一次前往巴厘岛时，你有几种选择可以在机场安排接机服务，以便顺利抵达你的目的地。以下是几种常见的接机选项：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_af69234c1b871e47f94b6a3b032a1756.png)
+![21. 机场接机：](https://images.gobaligo.id/vocus/vocus_af69234c1b871e47f94b6a3b032a1756.png)
 
 1. **酒店接机服务：**
 2. - 部分巴厘岛的酒店提供接机服务，你可以在预订住宿时询问酒店是否提供这项服务。这是一种方便且放心的选择，酒店会派专车前来接你，让你在抵达后无需担心交通安排。
@@ -259,7 +259,7 @@ https://youtu.be/0fqEvAzAy9A
 
 ### 22.水土不服：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9bada757dd54b88e20b23272c92cd00a.png)
+![22.水土不服：](https://images.gobaligo.id/vocus/vocus_9bada757dd54b88e20b23272c92cd00a.png)
 
 为了确保您愉快、健康的旅游，「饮用水」是在到达巴厘岛后第一项你应该注意的最重要事项！在巴厘岛，由于当地水质不能生饮，建议尽量避免饮用自来水，以免引起严重的肠胃不适。你可以轻松地在超市、小商店或路边摊购买瓶装水。如果不慎还是中招了怎么办？底下的链接教您快速缓解。
 
@@ -358,7 +358,7 @@ https://youtu.be/B_oT905RkQw
 - 安全保障：正规旅游平台提供的行程，有完善的保险和服务保障
 - 即时预订确认：手机APP轻松预订，获得即时确认
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d7641c00180a7f9f6448bbc934ec19fa.png)
+![30.不动脑一日游推荐：](https://images.gobaligo.id/vocus/vocus_d7641c00180a7f9f6448bbc934ec19fa.png)
 
 对于第一次到访巴厘岛的旅客或是想轻松玩的游客，参加一至两个Klook一日游作为行程的一部分，可以在不增加规划压力的情况下，丰富你的巴厘岛体验！
 
@@ -380,13 +380,13 @@ https://youtu.be/B_oT905RkQw
 
 ### 31.避免18个常见的旅行者错误
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7d8713436ffa82cf25fb5f537d208897.jpg)
+![31.避免18个常见的旅行者错误](https://images.gobaligo.id/vocus/vocus_7d8713436ffa82cf25fb5f537d208897.jpg)
 
 游客在巴厘岛旅游时，经常会犯一些错误，这些错误不仅会影响旅行体验，还可能浪费宝贵的时间与金钱。以下是18个常见的错误及对应的实用建议，让你可以享受一趟更加愉快、无忧的旅程。请看「[巴厘岛不踩雷攻略：18个常见错误与建议](/blog/bali-travel-mistakes-tips/)」。
 
 ### 32.最不麻烦的旅游方式-寻求专业旅行社：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_955e9a4b7d4291ec8f7a27a262e7e48d.png)
+![32.最不麻烦的旅游方式-寻求专业旅行社：](https://images.gobaligo.id/vocus/vocus_955e9a4b7d4291ec8f7a27a262e7e48d.png)
 
 虽然自行规划巴厘岛旅程有自己做功课的乐趣，但是要真的比较了解巴厘岛，可不是一两天的研究就可以搞定！很多团友要我们推荐旅行社，可以帮他们搞定所有的行程！只要列出旅行的预算、想去的景点，其他麻烦事都有专人帮你解决。在旅行的过程中还有熟门熟路的司机和中文导游，省心省力随心所欲的安排旅行时间、计划。
 

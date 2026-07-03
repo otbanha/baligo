@@ -41,27 +41,27 @@ After some research, I saw someone in the group recommending Mang Loco, who said
 
 I initially drafted a rough itinerary and then asked Ou Ei to help refine it. He was very considerate and offered some great suggestions for the schedule. Throughout our trip in Bali, communication was smooth and effortless. Not only could he understand our casual chats, but he also joked around with us, which is one of the perks of hiring a Chinese-speaking driver! He also helped us handle unexpected issues, such as changing restaurant reservations, arranging last-minute massages, and even bargaining with vendors. Below is the itinerary we planned after referencing many guides from [Xiao Jie Indonesia](https://www.youtube.com/@j_indonesia) on YouTube.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794607534-1.jpg)
+![Itinerary Planning and Communication](https://images.gobaligo.id/images/2026-05/1779794607534-1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794608102-2.jpg)
+![Itinerary Planning and Communication](https://images.gobaligo.id/images/2026-05/1779794608102-2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794608628-3.jpg)
+![Itinerary Planning and Communication](https://images.gobaligo.id/images/2026-05/1779794608628-3.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794609481-4.jpg)
+![Itinerary Planning and Communication](https://images.gobaligo.id/images/2026-05/1779794609481-4.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794610083-5.jpg)
+![Itinerary Planning and Communication](https://images.gobaligo.id/images/2026-05/1779794610083-5.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794610572-6.jpg)
+![Itinerary Planning and Communication](https://images.gobaligo.id/images/2026-05/1779794610572-6.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794611205-7.jpg)
+![Itinerary Planning and Communication](https://images.gobaligo.id/images/2026-05/1779794611205-7.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794612128-8.jpg)
+![Itinerary Planning and Communication](https://images.gobaligo.id/images/2026-05/1779794612128-8.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794613152-9.jpg)
+![Itinerary Planning and Communication](https://images.gobaligo.id/images/2026-05/1779794613152-9.jpg)
 
 So, if you’re planning to take your family to Bali, feel free to reach out to Ou Ei! His Line ID is: mangloco94. By the way, while he can speak Chinese, he can’t read or type it, so you can start by greeting him in English. If your English isn’t strong, you can also call him directly—he mentioned using translation apps to help with communication.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc0d1457f9ad845aaff9a109114ba614.png)
+![Itinerary Planning and Communication](https://images.gobaligo.id/vocus/vocus_bc0d1457f9ad845aaff9a109114ba614.png)
 
 > [Bali Travel Tips: 32 Must-Know Tips for First-Time Visitors](/blog/bali-ultimate-guide-2026/)
 
@@ -75,7 +75,7 @@ In Bali, it’s best to avoid drinks from non-chain stores, small eateries, or s
 
 ### **Bring Extra Underwear**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b0f8826462eff2a98579a54724fb9ffa.png)
+![Bring Extra Underwear](https://images.gobaligo.id/vocus/vocus_b0f8826462eff2a98579a54724fb9ffa.png)
 
 Bali’s humidity is intense, and if you’re planning water activities, you’ll likely need to change clothes twice a day. I initially thought I could wash and dry my clothes, but due to the heavy humidity, they didn’t dry completely. I recommend packing quick-dry clothing, especially underwear, to ensure you have clean and comfortable clothes every day.
 
@@ -91,25 +91,25 @@ https://youtu.be/IReL1ztxL7c
 
 Just across the street is Kuta Beach, with vibrant nightlife nearby. Although the hotel isn't the newest, its rooms are spacious, clean, and well-equipped. The staff are friendly and welcoming, making you feel right at home. The seafood dinners and live band performances were particularly enjoyable, adding to our pleasant evenings. Our stay here was fantastic, offering great value for money!
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794750451-21ceb288ce176b586af3db9a05d094fc.webp)
+![Accommodation](https://images.gobaligo.id/images/2026-05/1779794750451-21ceb288ce176b586af3db9a05d094fc.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794751078-35e3f66bf77cd40f26c91c4e217412fc.webp)
+![Accommodation](https://images.gobaligo.id/images/2026-05/1779794751078-35e3f66bf77cd40f26c91c4e217412fc.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794751619-59ce114cefe481787aac107045c9bfed.webp)
+![Accommodation](https://images.gobaligo.id/images/2026-05/1779794751619-59ce114cefe481787aac107045c9bfed.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794752215-528f598aa382f9c0f3d7ce1f6304d448.jpeg)
+![Accommodation](https://images.gobaligo.id/images/2026-05/1779794752215-528f598aa382f9c0f3d7ce1f6304d448.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794752824-472740031.jpg)
+![Accommodation](https://images.gobaligo.id/images/2026-05/1779794752824-472740031.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794753310-500398018.jpg)
+![Accommodation](https://images.gobaligo.id/images/2026-05/1779794753310-500398018.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794753787-661675161.jpg)
+![Accommodation](https://images.gobaligo.id/images/2026-05/1779794753787-661675161.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794754275-825496088.jpg)
+![Accommodation](https://images.gobaligo.id/images/2026-05/1779794754275-825496088.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794754769-c3e9792212b335b6394f7537283cf6d9.webp)
+![Accommodation](https://images.gobaligo.id/images/2026-05/1779794754769-c3e9792212b335b6394f7537283cf6d9.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794755377-dde10217f990c21bc9d88fda23331bec.webp)
+![Accommodation](https://images.gobaligo.id/images/2026-05/1779794755377-dde10217f990c21bc9d88fda23331bec.webp)
 
 **Grand Istana Rama Hotel:** [**Agoda Booking**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65512) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685197&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oay8LFJMEkNY2F4-ykhc_YhBgNNO6zWfwWdDQGgeQ8B883gTvkWpmLHQJ4IqYceD6NPZE35Nj-8wyODoUMIJBQ6NDImAYCZbkOXYysYDUzGHtfam5k7D_0VSOm389hByPTCcYO7gVMrxbNZjrFwswxh-kSy1em6Gql7NRKJSsTHaWSzJKcVCUrpaeL5j1t2PN8RauSjlJKanEyUAjISszNL80rAbINTYz0DAyAIiWJFZ4pYJ3JiTnJpTmJJakhlQVAE8x0lDKLnUuKMguCUnMzS0pSgarSEnOKU0HiQanFQJlksKCSH9CYIqhAZn4eRLshilhYYk5pKsQJQAvdUqF2GNbqYLr82Zzep90zX2zaTZzLzantcgNiXG5cG_uIhSk69gXLfbZPLAy_gFHRydXEytDFyswxj3ESkOzg3sXKFuIa5W5ieoG1Q1xKwdDAwMDI1NTIXNcg0TLRyCTVQNfE0sTI3EDXwsAAyNA4e-3LtSfGRtZSkKhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxOZmaeFqZhJlw8Xs6RIk-EHv-fZ2a0t7KeaQcBdFe9l-yRU9p-21QHKGMLnAPa9zTtgbL7CPPN7w5uu7_tP2SaxVGboh4RnHxQoYGxiZuhi5BRg9GCMYK4A8xlWMDBsYGXcw_ocBxleMINMBGJ7oZwMDAAA&masterhotelid_tracelogid=100025527-0a9a24e0-494270-800942&detailFilters=17|1~17~1*31|685197~31~685197*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1596&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/q1KxlNcJ)
 

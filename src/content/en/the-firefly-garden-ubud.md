@@ -16,7 +16,7 @@ _srcHash: 65cafecc8491186ccc8c998fb16bd6c0
 
 ## Bali's Firefly Garden Wins Ecotourism Award
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e0baadbdee967562986d7a819549be8b.jpg)
+![Bali's Firefly Garden Wins Ecotourism Award](https://images.gobaligo.id/vocus/vocus_e0baadbdee967562986d7a819549be8b.jpg)
 
 Located in Taro Village, Bali, the Firefly Garden, also known as the 'Firefly Conservation Home', recently won an ecotourism award during Indonesia's 80th Independence Day celebrations. This locally-founded attraction has been highly praised for its environmental conservation and community involvement.
 
@@ -24,9 +24,9 @@ Located in Taro Village, Bali, the Firefly Garden, also known as the 'Firefly Co
 
 ## A Model of Conservation Meets Tourism
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3d7022976ea005fa26f775014ebf0974.jpg)
+![A Model of Conservation Meets Tourism](https://images.gobaligo.id/vocus/vocus_3d7022976ea005fa26f775014ebf0974.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8d0cf183d7ade2531fe06e968399fcc4.jpg)
+![A Model of Conservation Meets Tourism](https://images.gobaligo.id/vocus/vocus_8d0cf183d7ade2531fe06e968399fcc4.jpg)
 
 Fireflies are considered bioindicators of environmental health, being highly sensitive to pollution. The garden features a small laboratory dedicated to researching firefly reproduction, life cycles, and behavior, while promoting organic farming to reduce chemical pesticide use. Manager Wayan Wardika aims to expand the fireflies' activity radius to 2 kilometers through farmer cooperation, requiring 27 hectares of farmland.
 

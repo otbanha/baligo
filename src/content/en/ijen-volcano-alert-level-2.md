@@ -23,7 +23,7 @@ _srcHash: 6630fed63e6ec37b671d3e22fb536e1a
 
 Mount Ijen (Gunung Ijen) is famous for its breathtaking crater lake, drawing numerous tourists. However, as reported in mid-July 2024 in Indonesia, the volcano's activity status has recently been elevated to Level II alert, and the reasons have been unveiled. Based on assessments by the Center for Volcanology and Geological Hazard Mitigation (PVMBG) under the Ministry of Energy and Mineral Resources, Mount Ijen has shown a significant increase in activity, prompting the alert level to be raised.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_55b09cfdbb9d40a520cfc527ec731075.jpg)
+![Volcano Alert! Mount Ijen Elevated to Level II Alert, Reason](https://images.gobaligo.id/vocus/vocus_55b09cfdbb9d40a520cfc527ec731075.jpg)
 
 ## Changes in Activity Status
 
@@ -45,7 +45,7 @@ From June 1, 2024, to July 12, 2024, the frequency of shallow and deep volcanic 
 
 From 17:00 to 21:00 on July 12, 2024, tremor activity significantly intensified, with amplitudes fluctuating between 5 and 25 millimeters. After 21:10, the tremor amplitude exceeded 46 millimeters, reaching an off-scale level.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f45741c9d2433eb75ba4613f8a412449.png)
+![Recent Volcanic Activity Records](https://images.gobaligo.id/vocus/vocus_f45741c9d2433eb75ba4613f8a412449.png)
 
 ## Preventive Measures
 

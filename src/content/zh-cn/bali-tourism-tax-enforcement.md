@@ -20,7 +20,7 @@ _srcHash: e13a0925bb2db98903d667536c3ef21f
 
 ### 2024年2月起，除了签证费外，前往巴厘岛的游客需支付10美元（或150,000印尼盾）的观光税。然而，许多旅客未遵守此规定，导致当地政府讨论对违规者实施惩罚的可能性。其中一项建议是禁止未缴纳观光税的旅客进入巴厘岛。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_858d130a6da34f4a9f0e9e9766d18106.jpg)
+![2024年2月起，除了签证费外，前往巴厘岛的游客需支付10美元（或150,000印尼盾）的观光税。然而，许多旅客未遵守此](https://images.gobaligo.id/vocus/vocus_858d130a6da34f4a9f0e9e9766d18106.jpg)
 
 ---
 
@@ -59,7 +59,7 @@ _srcHash: e13a0925bb2db98903d667536c3ef21f
 
 此外，当局也希望通过强化宣传与教育，确保游客知晓缴纳观光税的重要性。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ec2b84d7b61087b5c15202af5110313f.jpg)
+![未来规划](https://images.gobaligo.id/vocus/vocus_ec2b84d7b61087b5c15202af5110313f.jpg)
 
 ---
 
@@ -87,7 +87,7 @@ _srcHash: e13a0925bb2db98903d667536c3ef21f
 
 ## 📩 **立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **通过免费订阅，你将获得：**
 

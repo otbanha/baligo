@@ -117,7 +117,7 @@ To make your Bali trip safer and more comfortable, it’s crucial to avoid commo
 
 **Mistake**: Making large purchases with a credit card without considering the risk of fraud.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0648b8fa6386a0758be5f8b1fa666c66.jpg)
+![7. Bank Card Security](https://images.gobaligo.id/vocus/vocus_0648b8fa6386a0758be5f8b1fa666c66.jpg)
 
 Some areas in Bali may pose a risk of credit card fraud, so it's recommended to protect your funds using the following methods:
 
@@ -145,7 +145,7 @@ It's recommended to buy mosquito repellent locally, as it's cheap and effective:
 
 >   **Mistake**: Ignoring the rapid weather changes during Bali's rainy season and failing to prepare accordingly.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c86655f684007466ca064fac6b244c4f.png)
+![9. Dealing with the Rainy Season](https://images.gobaligo.id/vocus/vocus_c86655f684007466ca064fac6b244c4f.png)
 
 Bali's rainy season typically occurs from November to April. While it doesn't rain every day, the weather changes quickly, often shifting suddenly from sunny to heavy rain.
 
@@ -175,7 +175,7 @@ In certain areas of Bali, such as Uluwatu (Uluwatu Temple) and the Monkey Forest
 
 > **Mistake**: Ignoring local religious and cultural etiquette, leading to disrespectful behavior.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2051bf25b8c56908609a59e3c8151f2a.jpg)
+![11. Respect Local Culture](https://images.gobaligo.id/vocus/vocus_2051bf25b8c56908609a59e3c8151f2a.jpg)
 
 Bali is a cultural hub of Hinduism, where locals place great importance on religious rituals and traditions. Respecting their customs is especially important for visitors. Here are some key cultural etiquettes:
 

@@ -22,7 +22,7 @@ _srcHash: f9ce2d07ffb00c7e6459e72f160ae40d
 
 Bali, destinasi wisata paling terkenal di Indonesia, mungkin bakal punya atraksi baru yang bikin heboh—kasino. Kabar ini jelas bikin banyak orang kaget, soalnya di Indonesia, judi dalam bentuk apa pun hampir semuanya ilegal. Tapi, penggagas rencana ini yakin kalau kasino bisa kasih suntikan semangat baru buat pariwisata Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5b78330cd9efd740214a865ffa087058.jpg)
+![Bali Bakal Punya Kasino Besar buat Dorong Pariwisata!?](https://images.gobaligo.id/vocus/vocus_5b78330cd9efd740214a865ffa087058.jpg)
 
 ## Latar Belakang Rencana Kasino
 
@@ -64,7 +64,7 @@ Menurut Pasal 303 KUHP Indonesia, aktivitas perjudian hampir sepenuhnya dilarang
 
 Untuk mewujudkan rencana kasino, diperlukan dukungan dan kerja sama kuat dari pemerintah Indonesia dan lembaga legislatif. Ini melibatkan revisi undang-undang yang ada serta pengelolaan dan pengarahan opini publik. Meskipun proses ini penuh tantangan, jika berhasil, akan membawa perubahan besar bagi pariwisata Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5f10bd6525e738e9939687ccc4589d35.jpg)
+![Kemungkinan Perubahan Hukum](https://images.gobaligo.id/vocus/vocus_5f10bd6525e738e9939687ccc4589d35.jpg)
 
 ## Dampak Kasino terhadap Pariwisata Bali
 

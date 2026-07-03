@@ -23,7 +23,7 @@ lang: id
 _srcHash: 42d2e0176bbae81b53cf8664c6706f4b
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_86b840290627cc094416ab3efb84a7cf.png)
+![【Begini Caranya Biar Nggak Macet!】Seru-seruan Liburan ke Bal](https://images.gobaligo.id/vocus/vocus_86b840290627cc094416ab3efb84a7cf.png)
 
 Bali adalah destinasi wisata favorit di Indonesia, terkenal sama pantainya yang cantik, budaya yang kaya, dan sejarahnya. Tapi, masalah transportasi di Bali sering bikin pusing wisatawan—bisa ganggu jadwal bahkan bikin kamu ketinggalan pesawat.
 

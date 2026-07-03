@@ -27,7 +27,7 @@ _srcHash: ca2bd56f1565c488f66cc506d37d493a
 
 ## ❗❗2026/5新优惠，含台北直飞巴厘岛机票 USD$1,350/人❗❗
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775402779415-8c1c7efa856f2ba9f2984560bfefe7f9.jpeg)
+![2026/5新优惠，含台北直飞巴厘岛机票 USD$1,350/人](https://images.gobaligo.id/images/2026-04/1775402779415-8c1c7efa856f2ba9f2984560bfefe7f9.jpeg)
 
 荣获「[全球最美度假胜地](/blog/komodo-national-park-global-award/)」第一名的科莫多！这趟豪华五日游让您享受独特且无压力的旅游体验，无购物行程、无隐藏费用，适合喜爱探索自然和放松的您。以下是专属于您的独特行程：
 
@@ -47,31 +47,31 @@ _srcHash: ca2bd56f1565c488f66cc506d37d493a
 
 💆 **SPA体验**：放松身心的SPA疗程，释放旅途中的疲劳。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400820309-soosantai_481475287_621160430528146_7038106125601092078_n.jpg)
+![2026/5新优惠，含台北直飞巴厘岛机票 USD$1,350/人](https://images.gobaligo.id/images/2026-04/1775400820309-soosantai_481475287_621160430528146_7038106125601092078_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400821711-travelinladies_84524993_2784703768262696_2739865864881217045_n.jpg)
+![2026/5新优惠，含台北直飞巴厘岛机票 USD$1,350/人](https://images.gobaligo.id/images/2026-04/1775400821711-travelinladies_84524993_2784703768262696_2739865864881217045_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400822183-1b951d023befce770ac6a933fc4f7fcc.jpg)
+![2026/5新优惠，含台北直飞巴厘岛机票 USD$1,350/人](https://images.gobaligo.id/images/2026-04/1775400822183-1b951d023befce770ac6a933fc4f7fcc.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400822816-47bb810e756a862a305201e3ee73438c.jpg)
+![2026/5新优惠，含台北直飞巴厘岛机票 USD$1,350/人](https://images.gobaligo.id/images/2026-04/1775400822816-47bb810e756a862a305201e3ee73438c.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400823325-894370a6ee3b602aa66786441b1d31f0.jpg)
+![2026/5新优惠，含台北直飞巴厘岛机票 USD$1,350/人](https://images.gobaligo.id/images/2026-04/1775400823325-894370a6ee3b602aa66786441b1d31f0.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400823771-460046268_936177495218201_5695431567290022604_n.jpg)
+![2026/5新优惠，含台北直飞巴厘岛机票 USD$1,350/人](https://images.gobaligo.id/images/2026-04/1775400823771-460046268_936177495218201_5695431567290022604_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775402880946-340126390_210320728300650_7686768025195654202_n.jpg)
+![2026/5新优惠，含台北直飞巴厘岛机票 USD$1,350/人](https://images.gobaligo.id/images/2026-04/1775402880946-340126390_210320728300650_7686768025195654202_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400824342-komodo-yang-ukurannya.jpg)
+![2026/5新优惠，含台北直飞巴厘岛机票 USD$1,350/人](https://images.gobaligo.id/images/2026-04/1775400824342-komodo-yang-ukurannya.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400824893-ommabali_367490010_18004272835941138_2684289920586922652_n.jpg)
+![2026/5新优惠，含台北直飞巴厘岛机票 USD$1,350/人](https://images.gobaligo.id/images/2026-04/1775400824893-ommabali_367490010_18004272835941138_2684289920586922652_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400825387-ommabali_431671209_739317778403032_4328506991357886198_n.jpg)
+![2026/5新优惠，含台北直飞巴厘岛机票 USD$1,350/人](https://images.gobaligo.id/images/2026-04/1775400825387-ommabali_431671209_739317778403032_4328506991357886198_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400825981-taka_makassar.jpg)
+![2026/5新优惠，含台北直飞巴厘岛机票 USD$1,350/人](https://images.gobaligo.id/images/2026-04/1775400825981-taka_makassar.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775403145344-3.jpeg)
+![2026/5新优惠，含台北直飞巴厘岛机票 USD$1,350/人](https://images.gobaligo.id/images/2026-04/1775403145344-3.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400826391-taman-laut-handayani-labuan-bajo.jpeg)
+![2026/5新优惠，含台北直飞巴厘岛机票 USD$1,350/人](https://images.gobaligo.id/images/2026-04/1775400826391-taman-laut-handayani-labuan-bajo.jpeg)
 
 ### 项目包含：
 
@@ -89,13 +89,13 @@ _srcHash: ca2bd56f1565c488f66cc506d37d493a
 
 ▲二晚在科莫多岛（Labuan Bajo）的标准住宿
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775401403371-hotel-in-labuan-bajo-meruorah-komodo-labuan-bajo-5-2.jpg)
+![项目包含：](https://images.gobaligo.id/images/2026-04/1775401403371-hotel-in-labuan-bajo-meruorah-komodo-labuan-bajo-5-2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775401403887-hotel-in-labuan-bajo-meruorah-komodo-labuan-bajo-1-3.jpg)
+![项目包含：](https://images.gobaligo.id/images/2026-04/1775401403887-hotel-in-labuan-bajo-meruorah-komodo-labuan-bajo-1-3.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775401404463-meruorah-kodomo-labuan-bajo-infinity-pool-1.jpg)
+![项目包含：](https://images.gobaligo.id/images/2026-04/1775401404463-meruorah-kodomo-labuan-bajo-infinity-pool-1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775401404950-647628827.jpg)
+![项目包含：](https://images.gobaligo.id/images/2026-04/1775401404950-647628827.jpg)
 
 ▲科莫多的住宿也可以指定五星旅馆
 
@@ -111,7 +111,7 @@ _srcHash: ca2bd56f1565c488f66cc506d37d493a
 - 本项目为限时特价促销，订购后不可取消或退款。
 - 保证登岛,不受[人数限流影响](/blog/komodo-booking-2026/)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775403013880-573914366_1243124144524262_1616867715591804103_n.jpg)
+![特别说明：](https://images.gobaligo.id/images/2026-04/1775403013880-573914366_1243124144524262_1616867715591804103_n.jpg)
 
 世界级奇景：三色沙滩
 

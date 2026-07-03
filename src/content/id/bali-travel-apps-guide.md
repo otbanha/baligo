@@ -23,13 +23,13 @@ lang: id
 _srcHash: 613bf99553342fc72116b1097c55b3c9
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3490f5eb895795476132e2b764f8802c.jpg)
+![8 Aplikasi Wajib untuk Travel ke Indonesia/Bali](https://images.gobaligo.id/vocus/vocus_3490f5eb895795476132e2b764f8802c.jpg)
 
 Kalau kamu lagi rencana liburan ke **Indonesia/Bali**, pulau eksotis yang penuh pesona ini, penting banget tahu beberapa aplikasi yang bakal bikin perjalananmu makin praktis. Mulai dari transportasi, navigasi, sampai komunikasi — teknologi modern udah siap bantu semuanya. Ini dia rekomendasi aplikasi pilihan yang bisa bikin kamu eksplor Bali dengan mudah dan seru.
 
 ## **1. Gojek dan Grab: Aplikasi Ojek & Pesan Antar Wajib di Lokal**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aac64bc3dfb324f8ad1e48c4ed05d19c.png)
+![1. Gojek dan Grab: Aplikasi Ojek & Pesan Antar Wajib di Loka](https://images.gobaligo.id/vocus/vocus_aac64bc3dfb324f8ad1e48c4ed05d19c.png)
 
 Di Indonesia/Bali, **Gojek** dan **Grab** adalah aplikasi ojek dan pesan-antar paling populer. Buat turis asing, aplikasi ini super berguna buat naik kendaraan tanpa ribet ngomong sama sopir atau khawatir soal bahasa. Nggak cuma transportasi, dua aplikasi ini juga bisa buat pesan makanan, beli kebutuhan sehari-hari, bahkan pijat dan jasa kirim barang. Kamu bisa langsung panggil motor atau mobil dengan cepat dan harga bersahabat.
 
@@ -84,7 +84,7 @@ Saat pakai mata uang lokal Rupiah (IDR) di Bali, nilai tukar bisa bikin bingung.
 
 ## **5. AccuWeather: Pantau Cuaca di Bali Kapan Saja**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1a67606183cb5c94ac1291befa8a5801.png)
+![5. AccuWeather: Pantau Cuaca di Bali Kapan Saja](https://images.gobaligo.id/vocus/vocus_1a67606183cb5c94ac1291befa8a5801.png)
 
 Cuaca di Bali itu suka berubah-ubah, apalagi pas musim hujan tiba — bisa tiba-tiba hujan deras atau bahkan angin kencang. Makanya, punya aplikasi cuaca yang andal itu penting banget. **AccuWeather** adalah aplikasi prakiraan cuaca yang populer banget, kasih info detail kayak update cuaca per jam, kemungkinan hujan, dan tren cuaca beberapa hari ke depan.
 
@@ -100,7 +100,7 @@ Baca juga: [Musim Hujan di Bali: Gimana Kalau Kehujanan? 60 Alternatif Aktivitas
 
 ## **6. WhatsApp: Tetap Terhubung dengan Lokal dan Penyedia Layanan**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_799fe5846dd2f07d32ee824c034ba63e.png)
+![6. WhatsApp: Tetap Terhubung dengan Lokal dan Penyedia Layan](https://images.gobaligo.id/vocus/vocus_799fe5846dd2f07d32ee824c034ba63e.png)
 
 Di Indonesia/Bali, **WhatsApp** adalah aplikasi komunikasi paling populer dan paling umum dipakai. Mau hubungi sopir lokal, pemandu wisata, atau pemilik penginapan — WhatsApp adalah pilihan terbaikmu. Lewat aplikasi ini, kamu bisa pakai Wi-Fi atau data seluler buat kirim pesan, foto, bahkan telepon suara atau video. Ini sangat praktis buat traveler yang nggak mau bayar mahal biaya telepon internasional.
 

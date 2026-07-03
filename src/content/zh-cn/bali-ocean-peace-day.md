@@ -21,7 +21,7 @@ _srcHash: f5dbb49b6ba162ed7788f0638802ab5e
 
 巴厘岛的爱好者大多听过「静居日」（Nyepi），这是巴厘岛一年一度的特殊日子。但少有人知道另一个较为神秘的节日「海洋宁静日」（Nyepi Laut）。在今年的10月18日，「海洋宁静日」即将到来，这意味着计划前往巴厘岛、努沙佩尼达岛、金银岛和蓝梦岛的游客需要仔细检查他们的行程，以避免不必要的麻烦。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a2a7c26b85cb99ddd485b2133702d2e2.png)
+![巴厘岛文化节庆可能影响10月18日的旅游计划](https://images.gobaligo.id/vocus/vocus_a2a7c26b85cb99ddd485b2133702d2e2.png)
 
 ## **什么是海洋**宁静**日？**
 
@@ -49,7 +49,7 @@ _srcHash: f5dbb49b6ba162ed7788f0638802ab5e
 
 从10月19日清晨开始，所有海上活动将逐渐恢复正常，船运、浮潜、潜水等旅游活动将重新开始。因此，计划在18日进行这些活动的游客，应考虑更改行程，以避开这一神圣的节日。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5ed269a843a5f1ff7a8651552695af98.png)
+![什么时候恢复正常？](https://images.gobaligo.id/vocus/vocus_5ed269a843a5f1ff7a8651552695af98.png)
 
 延伸阅读：[【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)
 
@@ -91,7 +91,7 @@ _srcHash: f5dbb49b6ba162ed7788f0638802ab5e
 
 📩 **立即加入「巴厘岛旅游攻略」博客，成为巴厘岛旅游达人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![注册加入我们的博客](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **通过免费订阅，你将获得：**
 

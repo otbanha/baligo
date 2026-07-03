@@ -17,7 +17,7 @@ lang: zh-cn
 _srcHash: 77cf510601ad6e9c9b41e0adfd79d096
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3fa8eca8f249ece1b5a18ffb6e79bbdf.jpg)
+![巴厘岛秘境沙滩介绍｜巴厘岛海滩推荐｜最棒的拍照海滩｜巴厘岛IG拍照｜Green Bowl Beach](https://images.gobaligo.id/vocus/vocus_3fa8eca8f249ece1b5a18ffb6e79bbdf.jpg)
 
 在巴厘岛有一个不用晒太阳的秘境沙滩哦！
 

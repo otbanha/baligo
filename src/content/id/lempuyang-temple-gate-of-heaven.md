@@ -80,7 +80,7 @@ Ketinggian 600m bikin suhu lebih sejuk 4–6°C dibanding Kuta atau pusat Ubud. 
 
 👉 [Peta dan daftar tempat wisata Bali Timur](/map/ubud/) ｜ [Paket tur sehari dari Ubud ke timur](/blog/bali-east-tour-guide/)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779103229342-_2026-05-18_18.20.11.png)
+![Lokasi — di mana sih di Bali? Jauh nggak dari tempat kamu ng](https://images.gobaligo.id/images/2026-05/1779103229342-_2026-05-18_18.20.11.png)
 
 ## Lempuyang Bukan Cuma Satu Pura—Enam Pura Lengkap (99% Turis Cuma Sampai Paling Bawah)
 
@@ -106,7 +106,7 @@ Ketinggian 600m bikin suhu lebih sejuk 4–6°C dibanding Kuta atau pusat Ubud. 
 
 99% wisatawan langsung pergi setelah foto refleksi, tapi makin ke atas makin sepi. Candi kedua, Pura Pasar Agung, hampir nggak ada turis — suasananya beda banget sama yang paling bawah. Kalau kamu punya waktu 1,5 jam lebih dan tenaga masih cukup, lanjut ke atas itu sangat worth it.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779103398760-pura-lempuyang-temple-top-view.jpg)
+![Lempuyang Bukan Cuma Satu Pura—Enam Pura Lengkap (99% Turis ](https://images.gobaligo.id/images/2026-05/1779103398760-pura-lempuyang-temple-top-view.jpg)
 
 ## Rincian Biaya (Harga Asli di Lapangan 2026)
 
@@ -126,7 +126,7 @@ Ketinggian 600m bikin suhu lebih sejuk 4–6°C dibanding Kuta atau pusat Ubud. 
 
 👉 [Gimana cara hitung biaya sewa mobil? Biaya tur sehari penuh](/blog/bali-private-car-hire-guide/)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779103736991-lempuyang-temple-opening-hours.jpg)
+![Rincian Biaya (Harga Asli di Lapangan 2026)](https://images.gobaligo.id/images/2026-05/1779103736991-lempuyang-temple-opening-hours.jpg)
 
 ## Jam Buka & Waktu Terbaik Berkunjung
 
@@ -226,7 +226,7 @@ Parkirannya ada toilet umum, biayanya 2.000–5.000 IDR. Kalau udah masuk pura, 
 
 Kalau cuma ke Pura Pintu Surga (pura pertama): tingkat kesulitan rendah, jalan kaki 20–30 menit, medan datar. Kalau lanjut naik ke pura di atas: disarankan punya basic hiking, perjalanan satu arah 2,5–3 jam, ada tangga batu bersambung. Buat yang punya masalah lutut parah atau jantung kurang fit, nggak disarankan ambil rute full.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779103988684-aa7d6728-0a81-4109-8337-59b1ab86c587_sunrise-at-heaven-s-gate-lempuyang-luhur-bali.png)
+![Tingkat Kesulitan Fisik](https://images.gobaligo.id/images/2026-05/1779103988684-aa7d6728-0a81-4109-8337-59b1ab86c587_sunrise-at-heaven-s-gate-lempuyang-luhur-bali.png)
 
 ## Panduan Praktis Foto Refleksi di Lokasi
 
@@ -298,7 +298,7 @@ Di musim hujan atau hari berawan, kemungkinan Gunung Agung tertutup awan cukup b
 - Kamu yang rela jalan terus ke pura kedua dan ketiga → budaya asli pura Bali ada di sana
 - Tinggal di Amed atau daerah timur Bali → deket, nggak makan waktu, setengah hari beres
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779104346761-pura-lempuyang-8.jpg)
+![Daftar Kekecewaan yang Perlu Kamu Tahu Sebelum ke Sana](https://images.gobaligo.id/images/2026-05/1779104346761-pura-lempuyang-8.jpg)
 
 ## FAQ (Pertanyaan yang Sering Ditanyain)
 

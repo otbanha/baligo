@@ -23,13 +23,13 @@ _srcHash: 7575875190e2340bdecc1f4400e93e02
 
 Bali's Uluwatu Bingin Beach, a favorite among tourists and surfers, is set for major changes. The government announced that over 40 structures in the area, due to illegal land occupation and violation of spatial planning regulations, will be forcibly demolished starting July 21, 2025.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e640f066067761e239d9a5078ca6aaf9.jpg)
+![Bali's Uluwatu Bingin Beach Demolition Officially Begins: Ov](https://images.gobaligo.id/vocus/vocus_e640f066067761e239d9a5078ca6aaf9.jpg)
 
 Businesses in the Bingin area have been receiving official notices from Bali's Badung regional government over the past two months, demanding improvements to building structures and land use practices. However, the government ultimately determined that most buildings did not comply with regulations and decided to proceed with legal action.
 
 Satpol PP (Bali Civil Police) stated that investigations revealed most structures were illegally built without proper permits, with some even occupying state-owned land.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d544e0f8149e61f7127439067bf1ae52.jpg)
+![Bali's Uluwatu Bingin Beach Demolition Officially Begins: Ov](https://images.gobaligo.id/vocus/vocus_d544e0f8149e61f7127439067bf1ae52.jpg)
 
 Badung Regional Head Adi Arnawa emphasized that residents and business owners were well aware these structures were built on non-private land and must take responsibility for the consequences. He stressed the government's firm stance to fully implement demolition recommendations based on provincial and Satpol PP investigations.
 
@@ -41,13 +41,13 @@ An anonymous Bingin Beach business owner lamented that the area was once just a 
 
 Currently, 45 structures including guesthouses, restaurants, tourist facilities, and beach villas are affected by the demolition. Violations include illegal land occupation, breaches of environmental and spatial use regulations, and impacts on natural landscape conservation areas.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cfc438cb31168c561a1c08f14d14dadd.jpg)
+![Bali's Uluwatu Bingin Beach Demolition Officially Begins: Ov](https://images.gobaligo.id/vocus/vocus_cfc438cb31168c561a1c08f14d14dadd.jpg)
 
 ---
 
 ## If you're looking for more hidden beaches and want to know more about Uluwatu's food and entertainment scene:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
+![If you're looking for more hidden beaches and want to know m](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
 Uluwatu is one of Bali's most popular southern regions, famous for its breathtaking cliff views, enchanting beaches, and excellent surf spots. Filled with a romantic tropical vacation atmosphere, it's the perfect choice for enjoying sunset views and relaxing moments. If you're planning to stay in Uluwatu, check out our carefully curated guide to food, fun, and activities to make your trip even more enriching: [Uluwatu Guide: Uluwatu Attractions & Recommendations](/blog/uluwatu-guide/)
 

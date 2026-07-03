@@ -85,7 +85,7 @@ https://www.youtube.com/watch?v=faJH5pOjzpo
 
 Did you find their itinerary exciting? Start planning your own Bali adventure now! We also welcome everyone to share your itineraries in our community!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Watch the Full Video](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Click here to watch more exciting Bali travelogues
 

@@ -20,7 +20,7 @@ _srcHash: d7f3fde71789dc874d2ad9b686c30f9c
 ---
 以下是关于2025年在巴厘岛庆祝农历新年的活动资讯整理，如果您和家人在农历新年期间到访巴厘岛，也可以在异国感受新年的气氛喔！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_18bd7cbd5a329497c0a6de2563f31473.png)
+![【必收藏】巴厘岛庆祝农历新年的活动资讯整理](https://images.gobaligo.id/vocus/vocus_18bd7cbd5a329497c0a6de2563f31473.png)
 
 ---
 
@@ -49,7 +49,7 @@ _srcHash: d7f3fde71789dc874d2ad9b686c30f9c
 - **传统音乐与舞蹈**：在[Tugu Bali Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3164)的Kang Xi寺庙，游客可以欣赏到古筝演奏和舞狮表演，并参与8道菜的传统家宴。（[参考来源](https://blog.tuguhotels.com/lunar-legends-celebrating-the-wood-snake-year-at-the-historic-kang-xi-temple/)）
 - **节日装饰与市集**：登巴萨的街道会装饰红灯笼和节日装饰，营造出浓厚的节日氛围。市集上还可以购买到传统手工艺品和节日礼品。([参考来源](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0fdf9297e023a767c306109772cc60c1.png)
+![3. 文化与艺术活动](https://images.gobaligo.id/vocus/vocus_0fdf9297e023a767c306109772cc60c1.png)
 
 ---
 
@@ -107,7 +107,7 @@ _srcHash: d7f3fde71789dc874d2ad9b686c30f9c
    - 预定电话：+62 811 3960 0130
 7. **巴厘岛龙虾先生（台湾老板的店，大家多支持！）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f0cbbe41bdf5a551a04e2873a8a52853.png)
+![库塔 / 雷吉安](https://images.gobaligo.id/vocus/vocus_f0cbbe41bdf5a551a04e2873a8a52853.png)
 
 - - 日期：即日起至2025年2月24日
   - 活动：新春优惠套餐
@@ -219,7 +219,7 @@ _srcHash: d7f3fde71789dc874d2ad9b686c30f9c
 
 ## 📩 **立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **通过免费订阅，你将获得：**
 

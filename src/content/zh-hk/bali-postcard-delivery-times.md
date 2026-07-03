@@ -29,7 +29,7 @@ _srcHash: 1cacde9c52f32e42bb58eed28746cd7c
 ---
 你係咪都試過喺峇里島旅行時，好興奮咁寫咗幾張明信片，放入郵筒或者請酒店代寄，結果返到香港等咗好耐好耐，都始終唔見明信片嘅蹤影？
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776055227572-17225212_387746f7-a12a-4c08-84ef-76a5c1f51d50_2048_2048.jpg_tplv-aphluv4xwc-white-pad-v1_1600_1600.jpeg)
+![喺峇里島寄明信片要等幾耐？網友真實經驗話你知：等幾個月係正常嘅！](https://images.gobaligo.id/images/2026-04/1776055227572-17225212_387746f7-a12a-4c08-84ef-76a5c1f51d50_2048_2048.jpg_tplv-aphluv4xwc-white-pad-v1_1600_1600.jpeg)
 
 唔使擔心，你並唔孤單！
 
@@ -61,7 +61,7 @@ _srcHash: 1cacde9c52f32e42bb58eed28746cd7c
 
 另一位網民就無奈咁留低一句：「後來都冇收到...」
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776055334513-d015eaa7e8d747c99159192428275ef1_tplv-aphluv4xwc-white-pad-v1_1600_1600.jpeg)
+![都有「石沉大海」嘅案例](https://images.gobaligo.id/images/2026-04/1776055334513-d015eaa7e8d747c99159192428275ef1_tplv-aphluv4xwc-white-pad-v1_1600_1600.jpeg)
 
 {{block:klook}}
 

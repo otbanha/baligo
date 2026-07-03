@@ -19,7 +19,7 @@ lang: id
 _srcHash: 7d7957e20b95631318a66ccdab2f0bdf
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_75a017bcc23776bfdf405a8361b72773.jpg)
+![Visa Multiple Entry Bali D1: Update Visa Bali Terbaru 2024](https://images.gobaligo.id/vocus/vocus_75a017bcc23776bfdf405a8361b72773.jpg)
 
 Bali emang jadi destinasi favorit para traveler, dan urusan visa sering bikin penasaran. Di artikel ini, kita bakal kupas tuntas soal [Multiple Entry Visa] (Visa D1) terbaru Bali yang mulai berlaku tahun 2024, plus cara dapetin dan syarat-syaratnya.
 
@@ -40,7 +40,7 @@ Buat dapetin visa D1, kamu perlu siapin dokumen-dokumen ini:
 3. Rekening koran 3 bulan terakhir, dengan saldo minimal USD$2.000.
 4. Foto jelas dengan latar belakang polos — pastikan foto selfie kamu keliatan jelas.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7867ad9edfc76e26bbc9392e89cde713.png)
+![Syarat-Syarat Visa D1](https://images.gobaligo.id/vocus/vocus_7867ad9edfc76e26bbc9392e89cde713.png)
 
 **Booking & Hemat Budget, Cek di Sini:**
 

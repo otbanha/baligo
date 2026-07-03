@@ -19,7 +19,7 @@ _srcHash: 3fab48fb8ef08bccf2f50ca53ba8e20d
 
 最近有个重要的消息要告诉大家——巴厘岛的旅游税即将进行抽查了！这项新政策已经实施了整整五个星期，而现在是时候确保每个游客都了解并遵守这个新制度了。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ba7288e1e422dd5682c5355339280724.jpg)
+![巴厘岛最新消息：3/26开始旅游税抽查！](https://images.gobaligo.id/vocus/vocus_ba7288e1e422dd5682c5355339280724.jpg)
 
 巴厘岛旅游局局长在最近的记者会上宣布了这个消息。他说，新成立的旅游警察单位将从3/26开始进行抽查，目标对准了巴厘岛的一些热门景点，包括库塔海滩、乌鲁瓦图庙、海神庙等等。这些旅游警察还将带着他们的可爱小狗一起巡逻，这些小狗不仅是警察的助手，还可以成为游客之间的友善开端，让气氛更加轻松愉快。
 
@@ -27,7 +27,7 @@ _srcHash: 3fab48fb8ef08bccf2f50ca53ba8e20d
 
 > 延伸阅读: [巴厘岛观光税/旅游税懒人包：2024年新规定、缴费方式、跳岛注意事项一次看](/blog/2026-bali-tourism-tax-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aedb16fe1f10df555de6e03c79b7719e.png)
+![巴厘岛最新消息：3/26开始旅游税抽查！](https://images.gobaligo.id/vocus/vocus_aedb16fe1f10df555de6e03c79b7719e.png)
 
 预订、省钱就看这里：
 

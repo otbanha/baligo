@@ -17,7 +17,7 @@ lang: zh-cn
 _srcHash: b2b3157087be1bc95f5a016766e79610
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4d4eba54aefdb7fa2355dfd2cba7bd0b.png)
+![Bali Belly 巴厘岛腹泻/肠胃炎/脏水病如何自救?Bali Belly 缓解药品攻略](https://images.gobaligo.id/vocus/vocus_4d4eba54aefdb7fa2355dfd2cba7bd0b.png)
 
 抵达巴厘岛后，最怕的不是晒黑，而是突如其来的 **Bali Belly（巴厘岛腹泻）**。无论是因饮食水土不服、细菌感染，还是肠胃比较敏感，症状一来真的会把旅程搞得灰头土脸。这篇文章就帮大家整理一份「在巴厘岛药局就买得到的自救清单」，从补水、止泻、退烧到何时该就医，一次搞定，遇到状况也不会慌！
 
@@ -29,7 +29,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 1. 口服补液盐 (ORS) – 治疗核心
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a81dcdb7ad41f0217c48c227f3d2376a.jpg)
+![1. 口服补液盐 (ORS) – 治疗核心](https://images.gobaligo.id/vocus/vocus_a81dcdb7ad41f0217c48c227f3d2376a.jpg)
 
 · 作用：预防和纠正腹泻引起的脱水，这比单纯止泻更重要。
 
@@ -39,7 +39,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 2. 止泻药 (吸附剂) – 用于轻度腹泻
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_29f49f8dcdb2f01829087cc9573e464d.jpg)
+![2. 止泻药 (吸附剂) – 用于轻度腹泻](https://images.gobaligo.id/vocus/vocus_29f49f8dcdb2f01829087cc9573e464d.jpg)
 
 · 作用：吸附肠道内的细菌、毒素，缓解症状，不作为主要治疗。
 
@@ -49,7 +49,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 3. 止泻药 (抗蠕动剂) – 应急使用
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f236c2f98d598a09ea38642c11f57cad.jpg)
+![3. 止泻药 (抗蠕动剂) – 应急使用](https://images.gobaligo.id/vocus/vocus_f236c2f98d598a09ea38642c11f57cad.jpg)
 
 · 作用：强效控制腹泻频率，仅供短期应急（如长途交通）。
 
@@ -59,7 +59,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 4. 止痛/退烧药
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a30fbcb9351a7bd327b8c2e225f94572.jpg)
+![4. 止痛/退烧药](https://images.gobaligo.id/vocus/vocus_a30fbcb9351a7bd327b8c2e225f94572.jpg)
 
 · 作用：缓解腹痛、发烧。
 
@@ -69,7 +69,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 5. 肠胃解痉
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f1999375de63a55c0537c176c31bd193.jpg)
+![5. 肠胃解痉](https://images.gobaligo.id/vocus/vocus_f1999375de63a55c0537c176c31bd193.jpg)
 
 ·Scopma Plu (hyoscine）→ 直接放松肠胃平滑肌, 减缓绞痛
 

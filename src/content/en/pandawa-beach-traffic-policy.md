@@ -60,7 +60,7 @@ Tanah Barak and Pandawa Beach are actually closer to the two resort areas of Nus
 
 ## Klook Day Tour:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_568255be692a8986469e07e8e88b5e4e.jpg)
+![Klook Day Tour:](https://images.gobaligo.id/vocus/vocus_568255be692a8986469e07e8e88b5e4e.jpg)
 
 Explore South Bali in a VW convertible! Stops include Padang Padang and Pandawa Beach for scenic views, followed by sunset at Uluwatu Temple, and a seafood dinner at Jimbaran. The package includes transfers, driver, and fuel, so you can fully immerse yourself in the beauty of Bali without any worries!
 
@@ -86,7 +86,7 @@ We purchased our tickets here, and their lagoon sofa beds can accommodate up to 
 
 📩 **Join the 'Bali Travel Guide' Blog Now and Become a Bali Travel Expert!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Sign Up for Our Blog](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **By subscribing for free, you'll get:**
 

@@ -40,7 +40,7 @@ Travelers to Bali and local pet owners should follow these basic rules: vaccinat
 
 At attractions like the Monkey Forest in Ubud or Uluwatu Temple, visitors often interact with monkeys. However, these wild animals may carry rabies, so it's advised not to feed, touch, or approach them. Keeping a safe distance from animals is an important step in preventing disease transmission.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7ecdb7478b9ea22d445e3af5411b84df.jpg)
+![Monkeys Can Also Be Virus Carriers](https://images.gobaligo.id/vocus/vocus_7ecdb7478b9ea22d445e3af5411b84df.jpg)
 
 ## **Thanks to Expert Efforts, Bali Remains a Safe Travel Paradise**
 

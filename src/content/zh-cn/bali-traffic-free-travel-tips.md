@@ -23,7 +23,7 @@ _srcHash: d1186ca8cc036ae07b90787068bfa5b1
 
 ## **避开混乱的交通：最佳度假地点**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1488ccb642d8606ee135d2f3a8b13875.png)
+![避开混乱的交通：最佳度假地点](https://images.gobaligo.id/vocus/vocus_1488ccb642d8606ee135d2f3a8b13875.png)
 
 巴厘岛的交通问题主要集中在机场以北的地区，如库塔（Kuta）和水明漾（Seminyak）。因为是巴厘岛最受欢迎的旅游区，但也因此成为交通最为拥堵的地区之一。尤其是2024九月初已经开始的轻轨施工，从库塔IKEA前方的停车场开始动工，更是让这些地区的交通雪上加霜，从而在好几年间势必进入「交通黑暗期」。游客在这些地区需要花费大量时间在马路上，影响度假的舒适度。
 
@@ -33,7 +33,7 @@ _srcHash: d1186ca8cc036ae07b90787068bfa5b1
 
 ## **Jimbaran（金巴兰）的魅力**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b08e5b845958481bef9a02c0814d1c6.png)
+![Jimbaran（金巴兰）的魅力](https://images.gobaligo.id/vocus/vocus_0b08e5b845958481bef9a02c0814d1c6.png)
 
 金巴兰位于巴厘岛国际机场以南，以其较为宁静的环境和美丽的海滩闻名。这里是许多追求放松和享受自然风光的游客的首选。金巴兰拥有一系列高品质的海鲜餐厅，您可以在沙滩上享用新鲜的海鲜，边欣赏夕阳西下的美景。除此之外，金巴兰海滩的水质清澈，是游泳和玩水的理想地点。金巴兰的气氛相对宁静，适合家庭和情侣前来度假。
 
@@ -43,7 +43,7 @@ _srcHash: d1186ca8cc036ae07b90787068bfa5b1
 
 ## **Uluwatu（乌鲁瓦图）的壮观景色**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb8e47da76e2a55442d0b8aaaac0778a.jpg)
+![Uluwatu（乌鲁瓦图）的壮观景色](https://images.gobaligo.id/vocus/vocus_eb8e47da76e2a55442d0b8aaaac0778a.jpg)
 
 乌鲁瓦图以其壮观的悬崖和日落景色而闻名。这里的乌鲁瓦图寺（Pura Luhur Uluwatu）是巴厘岛最神圣的海边寺庙之一，坐落在高耸的悬崖上，俯瞰印度洋，景色壮丽。在黄昏时分，您可以在这里观赏到无与伦比的日落美景。此外，乌鲁瓦图也是冲浪爱好者的天堂，拥有世界级的冲浪点。这里的氛围比起库塔和水明漾更加悠闲，是追求自然美景和户外活动的游客的不二选择。
 
@@ -57,7 +57,7 @@ _srcHash: d1186ca8cc036ae07b90787068bfa5b1
 
 努沙杜瓦位于巴厘岛的东南部，是一个专门为高端度假而设计的地区。这里拥有许多五星级的度假村和酒店，提供各种豪华设施和服务。努沙杜瓦的海滩细腻柔软，海水清澈见底，是游泳和日光浴的绝佳场所。这里的环境非常适合家庭度假，提供丰富的活动选择，包括高尔夫、浮潜和水上运动。努沙杜瓦的交通较为顺畅，远离市区的喧嚣，让人感受到真正的放松和愉悦。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7cfdc46e5646664ec23388b6d228c7e2.png)
+![Nusa Dua（努沙杜瓦）的高端度假](https://images.gobaligo.id/vocus/vocus_7cfdc46e5646664ec23388b6d228c7e2.png)
 
 延伸阅读：
 
@@ -69,7 +69,7 @@ _srcHash: d1186ca8cc036ae07b90787068bfa5b1
 
 沙努尔则是另一个适合家庭和追求悠闲氛围的游客的度假胜地。这里拥有长达五公里的沙滩步道，适合早晨散步和骑自行车。沙努尔的海滩相比库塔和水明漾更加宁静，适合游泳和享受阳光。沙努尔的码头也是前往努沙佩尼达等离岛的便捷起点，让您可以轻松展开离岛探险之旅。此外，沙努尔拥有众多的餐厅和咖啡馆，您可以在这里品尝到当地美食和国际料理，享受悠闲的假期时光。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ec44f971bdf023bb1dfac84d9a4aa698.png)
+![Sanur（沙努尔）的休闲魅力](https://images.gobaligo.id/vocus/vocus_ec44f971bdf023bb1dfac84d9a4aa698.png)
 
 延伸阅读：
 
@@ -77,7 +77,7 @@ _srcHash: d1186ca8cc036ae07b90787068bfa5b1
 
 ## **沙努尔的码头与离岛旅游**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6d090748d499c69a3fede3740b99c6d5.jpg)
+![沙努尔的码头与离岛旅游](https://images.gobaligo.id/vocus/vocus_6d090748d499c69a3fede3740b99c6d5.jpg)
 
 沙努尔拥有前往离岛的便利码头。从这里可以轻松前往佩尼达岛（Nusa Penida）和蓝梦岛等其他离岛。这些离岛拥有美丽的自然景观和丰富的海洋活动，而且不会堵车，是游客们不可错过的景点。
 

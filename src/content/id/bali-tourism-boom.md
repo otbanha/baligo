@@ -21,7 +21,7 @@ _srcHash: 5d247844ffca1338188eb51bcadaca52
 
 Data terbaru yang dirilis 8 Maret 2025 menunjukkan permintaan wisata internasional ke Bali terus meningkat meski di musim sepi.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf32e66b76078f0a296d4db9e4cd0f1b.png)
+![Bali di Musim Sepi Tetap Ramai! Permintaan Wisata Internasio](https://images.gobaligo.id/vocus/vocus_bf32e66b76078f0a296d4db9e4cd0f1b.png)
 
 Menurut data Imigrasi Bandara Internasional Bali, jumlah penumpang yang keluar-masuk Bandara Bali pada Januari 2025 naik 22% dibanding periode yang sama tahun 2024. Kepala Bagian Informasi dan Komunikasi Teknologi Imigrasi, Alexander Maxwell, mengungkapkan bahwa pada Januari 2025 total 611.603 orang tiba di Bali, sementara 632.833 orang meninggalkan Bali. Biasanya jumlah keberangkatan di bulan Januari lebih tinggi dari kedatangan karena wisatawan pulang setelah liburan Natal dan Tahun Baru.
 
@@ -40,7 +40,7 @@ Pada Januari 2025, negara asal wisatawan internasional utama Bali masih mirip se
 9. Singapura (15.942 orang)
 10. Jepang (12.112 orang)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c921dc4310098a99930838894970f765.png)
+![Bali di Musim Sepi Tetap Ramai! Permintaan Wisata Internasio](https://images.gobaligo.id/vocus/vocus_c921dc4310098a99930838894970f765.png)
 
 Gubernur Bali, Wayan Koster, menyebut pariwisata punya dampak besar bagi ekonomi Indonesia secara keseluruhan, bahkan di musim sepi sekalipun. Pada 2024, Provinsi Bali menyumbang 107 triliun rupiah untuk pariwisata nasional, atau 44% dari pendapatan devisa. Koster menekankan bahwa ekonomi Bali sangat bergantung pada pariwisata, ke depannya perlu ada transformasi struktur ekonomi untuk menyeimbangkan sektor pariwisata dan non-pariwisata.
 

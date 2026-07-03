@@ -23,7 +23,7 @@ _srcHash: 6f9424d9d8d0db47ed47bb13704ea467
 
 Bali emang jadi destinasi favorit buat liburan keluarga. Punya budaya yang kaya, pantai cantik, dan aktivitas seru buat semua umur. Mau main pasir, eksplor alam, atau belajar budaya lokal, Bali selalu bisa memenuhi kebutuhan orang tua dan anak. Panduan ini bakal kasih info lengkap soal tips liburan ke Bali pas liburan sekolah, plus rekomendasi area terbaik buat keluarga dan aktivitas yang cocok buat anak-anak.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d31426040a8d49f95f9a67ffb60d3e42.png)
+![【2026 Liburan Keluarga ke Bali】Liburan Semester & Liburan Pa](https://images.gobaligo.id/vocus/vocus_d31426040a8d49f95f9a67ffb60d3e42.png)
 
 ***
 
@@ -33,7 +33,7 @@ Bali emang jadi destinasi favorit buat liburan keluarga. Punya budaya yang kaya,
 
 Bali beriklim tropis. Pas liburan semester (Juni–Agustus) itu musim kemarau, cuaca panas dan sinar matahari terik banget. Saran: siapkan baju tipis yang nyaman, topi, kacamata hitam, dan sunscreen SPF tinggi buat anak. Sementara pas liburan akhir tahun, Bali lagi musim hujan, jadi gampang banget kehujanan sebentar-sebentar.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7c08d86c6df883cdd0f82bbf4a41a31c.png)
+![1. Cuaca & Pakaian](https://images.gobaligo.id/vocus/vocus_7c08d86c6df883cdd0f82bbf4a41a31c.png)
 
 Kalau ada rencana naik gunung buat lihat sunrise, baik trekking atau naik jeep, wajib bawa jaket tebal. Buat yang butuh info lengkap, cek [Panduan Trekking Sunrise Gunung Batur](/blog/batur-sunrise-hiking-guide/)
 
@@ -43,13 +43,13 @@ Kalau ada rencana naik gunung buat lihat sunrise, baik trekking atau naik jeep, 
 - **Air minum**: Jangan minum air keran langsung. Beli air kemasan atau air matang aja.
 - **Persiapan obat**: Siapkan obat-obatan umum kayak obat demam, obat diare, obat mabuk perjalanan, plester luka, dll. Cek juga: [Daftar Obat & Perlengkapan Wajib Liburan ke Bali](/blog/bali-travel-medicine-checklist/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1fe90182feb7b0f11bdd7ee503a63a11.png)
+![2. Kesehatan & Keamanan](https://images.gobaligo.id/vocus/vocus_1fe90182feb7b0f11bdd7ee503a63a11.png)
 
 ### 3. **Transportasi & Mobilitas**
 
 Transportasi di Bali lumayan semrawut sih, jadi saran gue booking layanan mobil sewaan yang terpercaya dan siapin car seat buat anak. Kalau anak masih kecil, hindari perjalanan jauh, pilih tempat wisata yang dekat dari penginapan biar gak bolak-balik capek.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5d7d530bfe7d4a2f4a1ffbbb9f5e99b7.jpg)
+![3. Transportasi & Mobilitas](https://images.gobaligo.id/vocus/vocus_5d7d530bfe7d4a2f4a1ffbbb9f5e99b7.jpg)
 
 **Referensi Cepat:**
 
@@ -75,7 +75,7 @@ Orang Bali ramah dan hangat, tapi budaya mereka sangat menjunjung sopan santun. 
 - [Ternyata 'Candi Bentar' Bukan 'Pintu Baik-Jahat'!? Arti dan Sejarahnya](/blog/candi-bentar-balinese-gate-history/)
 - [Tradisi Sembahyang di Bali: Canang Sari](/blog/bali-canang-sari-explained/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c21f61f96c32186966727957fc399238.png)
+![5. Etika Budaya](https://images.gobaligo.id/vocus/vocus_c21f61f96c32186966727957fc399238.png)
 
 ***
 
@@ -96,7 +96,7 @@ Seminyak adalah salah satu kawasan paling kece di Bali, cocok banget buat keluar
 
 ### **1. Petualangan Surfing**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_acd3def2c723eb7ba857e888a6b2173f.jpg)
+![1. Petualangan Surfing](https://images.gobaligo.id/vocus/vocus_acd3def2c723eb7ba857e888a6b2173f.jpg)
 
 Bali adalah salah satu destinasi surfing paling oke di dunia buat dimainin bareng keluarga! Apalagi di **Seminyak Beach** dan **Double Six Beach**, nggak cuma surga buat peselancar, tapi juga tempat asyik buat quality time keluarga. Ombaknya landai dan tenang, cocok banget buat anak-anak dan orang tua yang mau belajar surfing bareng!
 
@@ -114,7 +114,7 @@ Baik anak-anak maupun orang dewasa, semua bisa menemukan ritme berselancar merek
 
 ### 2. Dunia Air Penuh Kesenangan di Bali — Waterbom Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4a40d018acfd204d09d0db5b3cc0c0dc.jpg)
+![2. Dunia Air Penuh Kesenangan di Bali — Waterbom Bali](https://images.gobaligo.id/vocus/vocus_4a40d018acfd204d09d0db5b3cc0c0dc.jpg)
 
 **Waterbom Bali** berjarak sekitar 40 menit berkendara dari Seminyak. Ini adalah taman air super besar dan salah satu taman air paling populer di Asia! Tempat ini bukan hanya tempat yang pas buat orang dewasa bersantai, tapi juga surga impian bagi anak-anak! Di taman seluas **3,8 hektar**, ada **26** seluncuran air yang dirancang dengan apik dan berbagai fasilitas air seru lainnya, dijamin bikin seluruh keluarga betah seharian tanpa bosan!
 
@@ -142,7 +142,7 @@ https://youtube.com/shorts/POSTtRPKK5c
 
 4. **Game Interaktif Keluarga**: Ada banyak game interaktif yang seru buat dimainkan bareng keluarga, jadi ayah, ibu, dan anak-anak bisa tantang-mantang dan makin akrab!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a0be964afc58c8a68723be8041b4107e.jpg)
+![3. Taman Petualangan Ajaib di Bali — Trans Studio Bali](https://images.gobaligo.id/vocus/vocus_a0be964afc58c8a68723be8041b4107e.jpg)
 
 Baik cuaca cerah maupun hujan, **Trans Studio Bali** bakal kasih kamu tawa dan kenangan yang penuh! Yuk, datang dan mulai petualangan ajaib bareng keluarga! 🎠🎢👨‍👩‍👧‍👦
 
@@ -158,7 +158,7 @@ Shooter Bali adalah sports bar di Seminyak yang punya banyak permainan seru, kay
 
 Mai Main (dibaca: my ma-in) adalah playground anak di Canggu, sekitar 30 menit dari Seminyak. Tempat ini cocok banget buat keluarga, dengan berbagai aktivitas seru, mulai dari wahana indoor dan outdoor yang bikin anak-anak betah. Ada juga area feeding hewan, jadi si kecil bisa interaksi langsung dengan hewan-hewan lucu.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_901126dea3031592221bb60eb56d6e99.jpg)
+![4. Mai Main Playground](https://images.gobaligo.id/vocus/vocus_901126dea3031592221bb60eb56d6e99.jpg)
 
 > ➡️ Ada [Kupon Diskon Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=933324&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F128177-mai-main-playground-canggu-bali-admission-and-dining-voucher%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D72492ee430)
 
@@ -176,7 +176,7 @@ Seminyak nggak cuma pusat fashion dan kuliner di Bali, tapi juga punya banyak ke
 
 ### 8.**Kudeta Beach Club: Surga Liburan Keluarga di Pantai Seminyak**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bb59f98b34c3adfb39e974fcb3da102a.jpg)
+![8.Kudeta Beach Club: Surga Liburan Keluarga di Pantai Seminy](https://images.gobaligo.id/vocus/vocus_bb59f98b34c3adfb39e974fcb3da102a.jpg)
 
 Terletak di tepi Pantai Seminyak yang indah, Kudeta Beach Club adalah pilihan ideal buat liburan keluarga. Suasananya santai, pelayanannya oke, bikin seluruh keluarga bisa menikmati suasana pulau dengan maksimal. Tempatnya luas banget, anak-anak bisa main di pasir lembut, sementara orang tua bisa santai sambil ngemil makanan enak dan minuman segar sambil lihat pemandangan laut yang keren.
 
@@ -192,7 +192,7 @@ Saran pilih resort yang punya kids club, kolam renang, dan kamar keluarga biar l
 
 ### **Montigo Resorts Seminyak（➡️** [**Lihat Resort Ini**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1094092) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=3483854&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oay8LFJMEkNY2Fo_Pey4lsQowGFr8FHYN2yLW-_lns4KkZ03_oK0OlQwBPxJQDz6exJzLIPjvN7eXmUMgAAgLlDo2MICUaPcUOXYysYDUzGM9dvMK4gpFxI0RKJsRhByPTAUamE4zH-RYwHT1zwuIUCzPHN6ZLLF-ZoquVslMrlaxMdJRKMktyUpWslJ4umve0Yc_zFa1KOkopqcXJQCEgKzE3vzSvBMg2tDDXMzAAipQkVnimgHUmJ-Ykl-YklqSGVBYATTDTUcosdi4pyiwISs3NLClJBapKS8wpTgWJB6UWA2WSwYJKfkBjiqACmfl5EO2GKGJhiTmlqRAnAC10S4XaYVirg-nyZ3N6n3bPfLFpN3EuN6e2yw2IcblxbewjFqbo2E8sDL-A0bCOt4mVoYuVmeM84yQgeZxvFytbkK-rt1HUBdYjslJyhgYGBqaGxqamugaJlhbJxsYpuiaWJkaWprqWhpbmGrvWv2h8amxkLQWJewVGLcH4EE9PF8OSwlSzwlLLnKICUwPGU4xShubGFoZGhoZGRkaWxnomFmlmxRZ5xRa5WREejEFshiYWZuZmUTZczJ4uQYL3_rPkaitb2ksxh4S7KK68ybz2wITT9logOUOYXKDFFzH-95YL7CPzuo2kUyadtk9ircrQDQnP6BUvYGxgZOpi5BZg9GCMYKwA8hhXMTJsYGTcwfgfBhhfMYJMBwDSPAxrAQMAAA&masterhotelid_tracelogid=100051355-0a98c33d-494295-9197&detailFilters=17|1~17~1*31|3483854~31~3483854*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1216&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/J5EZ39b0)**）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5217aba9eb35e1bf8552c3d3f9b3f1ea.png)
+![Montigo Resorts Seminyak（ Lihat Resort Ini Trip Booking）](https://images.gobaligo.id/vocus/vocus_5217aba9eb35e1bf8552c3d3f9b3f1ea.png)
 
 - **Kids Club**: Tilo Kids Club, ada aktivitas seni, musik, dan seru-seruan lainnya.
 - **Family Room**: Fasilitas lengkap kayak kolam renang, pusat kebugaran, cocok buat keluarga.
@@ -200,14 +200,14 @@ Saran pilih resort yang punya kids club, kolam renang, dan kamar keluarga biar l
 
 ### **FuramaXclusive Ocean Beach （➡️** [**Lihat Penginapan Ini**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=108862) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1886140&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxMLFJMEk1c3CsbRh6zsWIXZDUzMDQwMjg4XCFrcrHLmuLy6w7cpz8Cy0BTIlih0CeCKmHHg-jT1x2ewjChv-OTh0MbKCBWYw7ukv3sgY03_oq8YcP4cdjEwnGHu4FzBN_dSvd4qFmWMO0yWWr0zR1UrZqZVKViY6SiWZJTmpSlZKz-b0Pu2e-WLTbiUdpZTU4mSgEJCVmJtfmlcCZBuaGOkZGABFShIrPFOUrMx1lJITc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdgMUsbDEnNJUiBOAFrqlQu0wrtXBdPnTRfOeNux5vqKVOJebUNvlhsS43LA29hELU3TsJxaGXywMTawMXazMHPMYJwHJHu5drPxRUaZOXqa64WaRrrpRuoYXWFfxSMkbGhgYmBoam5rqGiRaJgITRIquiaWJkZmZrrGFoZmRxudXxy48MTayloLEvQKjlmB8iKeni2FJYapZYallTlGBqQHjKUYpQ3OgBiNDQyMjI0tjPROLNLNii7xii9ysCA_GIDZTJycXR_MoGy7m0GAXweWVxzWtjKQdpJhDwl0UPyw_5m3eedpei9nTJcjwg97z7e3WlvaBe17nnLA3XmAfCZNPYq3K0A0JzzguVsDYwMjUxcgtwOjBGMFYAeQxrmJk52I2MDIUYNrAyLiD8T8MML5iBFkCAOly5M3-AgAA&masterhotelid_tracelogid=100051355-0a9a601d-494266-38162&detailFilters=17|1~17~1*31|1886140~31~1886140*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=330&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/Q31NunLZ)**）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2acc7064321a9ce3abda85ec6f928ca8.png)
+![FuramaXclusive Ocean Beach （ Lihat Penginapan Ini Trip Booki](https://images.gobaligo.id/vocus/vocus_2acc7064321a9ce3abda85ec6f928ca8.png)
 
 - **Kids Club**: Ada Waka Waka Kids Club.
 - **Family Room**: Dilengkapi water park dan kolam renang anak-anak, cocok banget buat liburan keluarga.
 
 ### **Peppers Seminyak Bali (➡️** [**Lihat Penginapan Ini**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=999336&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27396-tilo-kids-club-experience-montigo-resorts-seminyak%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Db3f22b187f)**)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e7f71247e009971c4272f7f33d35368d.png)
+![Peppers Seminyak Bali ( Lihat Penginapan Ini)](https://images.gobaligo.id/vocus/vocus_e7f71247e009971c4272f7f33d35368d.png)
 
 - **Kids Club**: Ada aktivitas anak dan ruang bermain.
 - **Villa**: Kamar luas dan villa dengan kolam renang pribadi.
@@ -216,7 +216,7 @@ Saran pilih resort yang punya kids club, kolam renang, dan kamar keluarga biar l
 
 ## Lebih Banyak Rekomendasi Makan, Main, dan Jalan-jalan di Seminyak
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_366287b60b610bfff45aea753d91ba55.jpg)
+![Lebih Banyak Rekomendasi Makan, Main, dan Jalan-jalan di Sem](https://images.gobaligo.id/vocus/vocus_366287b60b610bfff45aea753d91ba55.jpg)
 
 Seminyak adalah kawasan mempesona di Bali yang memadukan gaya modern dan tradisi, punya restoran kelas atas, butik-butik keren, dan kehidupan malam yang semarak—surga banget buat liburan! Mau tahu info lebih lanjut tentang tempat wisata seru, kuliner, SPA, beach club? [Klik di sini](/blog/seminyak-guide/).
 

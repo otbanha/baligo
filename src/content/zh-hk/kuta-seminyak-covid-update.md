@@ -19,6 +19,6 @@ lang: zh-hk
 _srcHash: 623be481cabc973f25b5e5601ed872a1
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5945f572e93cd251dcb51c84aa6a5af4.png)
+![峇里島庫塔｜水明漾現況｜冇遊客嘅峇里島｜最新狀況更新](https://images.gobaligo.id/vocus/vocus_5945f572e93cd251dcb51c84aa6a5af4.png)
 
 印尼峇里島 2020/10月最新現況。去峇里島旅遊，最熱鬧嘅庫塔、水明漾一片淒涼嘅景象。因為 Corona virus 嘅影響，旅遊勝地嘅峇里島正經歷一場前所未有嘅蕭條...

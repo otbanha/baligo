@@ -40,7 +40,7 @@ _srcHash: e37f55456232cbe5fa08f84e46c41317
 
 《DestinAsian》雜誌以其廣泛嘅英語讀者群聞名，並透過經驗豐富嘅旅行者投票，評選出年度最佳旅遊目的地。該雜誌指出：「我哋嘅讀者再次選擇峇里島作為亞太地區最受喜愛嘅島嶼目的地，呢個使峇里島**連續18年蟬聯**此項殊榮，穩坐印尼最受歡迎旅遊熱點嘅寶座。」
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e5f947f6aa60b97f7aa679736ea5334.png)
+![峇里島蟬聯18年亞洲最佳島嶼](https://images.gobaligo.id/vocus/vocus_2e5f947f6aa60b97f7aa679736ea5334.png)
 
 呢座被譽為「眾神之島」嘅旅遊勝地，以純淨嘅沙灘、翠綠嘅稻田、著名嘅滑浪勝地以及深厚嘅文化底蘊聞名於世。雜誌仲補充：「峇里島獨特嘅文化與藝術氣息激發咗全球旅人嘅靈感，加上風景如畫嘅海岸線同田園風光中眾多豪華度假村，令峇里島對現代旅客而言始終具有無法抗拒嘅吸引力。」
 
@@ -52,7 +52,7 @@ _srcHash: e37f55456232cbe5fa08f84e46c41317
 
 ## 印尼最佳度假村排行榜
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c3e2154ec4f88df171af20e9349fcbab.jpg)
+![印尼最佳度假村排行榜](https://images.gobaligo.id/vocus/vocus_c3e2154ec4f88df171af20e9349fcbab.jpg)
 
 喺「**印尼最佳度假村**」排行榜上，峇里島嘅豪華酒店幾乎包攬咗前十名：
 

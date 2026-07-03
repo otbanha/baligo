@@ -19,7 +19,7 @@ lang: zh-hk
 _srcHash: 68cb58f78123a5316d6dbd80e7b3362c
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4987be535ea54598e53f32ecf38facc4.jpg)
+![「Double bed room」竟然唔係「雙床房」！訂房千祈唔好搞錯！](https://images.gobaligo.id/vocus/vocus_4987be535ea54598e53f32ecf38facc4.jpg)
 
 喺選擇住宿時，唔同房型嘅名成日都令人摸不著頭腦，特別係如果我哋只係靠字面翻譯，可能會令人誤解。為咗每次訂房都可以揀到最啱嘅房間，等我哋仔細了解幾個常見房型嘅分別。
 

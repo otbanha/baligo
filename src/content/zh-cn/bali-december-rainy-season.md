@@ -22,7 +22,7 @@ _srcHash: 30da34127bdb0012bb8de0d97fb29688
 在计划年底或隔年年初前往巴厘岛的读者，最近有看到我们公布在[脸书社团](https://www.facebook.com/share/p/1DCH98qzUf/)的印尼 BMKG（印尼气象气候暨地球物理局）最新公告吗？这是一则关于「十二月底到隔年一月初」的强降雨提醒，也是每年雨季中最值得留意的一段时间。
 身为长期旅居印尼、经常往返巴厘岛的旅游写作者，我整理了一份攻略 ，让你在规划 2027 年 1–2 月旅行时，可以更有方向。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_900409df53579a6382a92eb5f137d800.jpg)
+![巴厘岛雨季12月-2月攻略](https://images.gobaligo.id/vocus/vocus_900409df53579a6382a92eb5f137d800.jpg)
 
 ## 🌧 雨量将达 300–500mm：十二月底至一月初是雨季高峰
 
@@ -52,7 +52,7 @@ BMKG 的预测指出，印尼将在十二月底迎来雨量增强期，预估 **
 - 晚上常恢复稳定，可以吃饭、逛街、拍照
 所以旅人真正需要做的，是「**把好天气用在上午**」。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f65b6856f52789decc1d59a008ae02ed.jpg)
+![别误会！雨季依然有晴天，也能玩得很尽兴](https://images.gobaligo.id/vocus/vocus_f65b6856f52789decc1d59a008ae02ed.jpg)
 
 ## 🎒 **2027 年 1–2 月巴厘岛旅行建议**
 
@@ -80,7 +80,7 @@ BMKG 的预测指出，印尼将在十二月底迎来雨量增强期，预估 **
 
 ## 🌈 雨季的巴厘岛，其实很迷人
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_30a080584a5be323dabd95d7c05fdcf7.jpg)
+![雨季的巴厘岛，其实很迷人](https://images.gobaligo.id/vocus/vocus_30a080584a5be323dabd95d7c05fdcf7.jpg)
 
 老实说，我自己对这段时间的巴厘岛是又爱又依赖。
 下过一场雨后，整座岛像被洗干净：空气透亮、绿意饱和、瀑布水量壮观、乌布的稻田更是像一幅油画。

@@ -27,7 +27,7 @@ _srcHash: 2e89e0f87babbd7e536c770a75446bb7
 
 Bali, surga yang bikin siapa pun jatuh cinta, bukan cuma destinasi wisata, tapi juga tempat penuh peluang bisnis. Kalau kamu mau tinggal lama di Bali sambil menjalankan usaha, mengurus Investor KITAS adalah langkah wajib. Artikel ini bakal ngebahas tuntas cara dapetin Investor KITAS, bikin PT PMA (Perusahaan Terbatas Penanaman Modal Asing), dan patuh sama aturan yang berlaku.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_59530abb9404d5e42755ddff668dce0e.jpg)
+![Cara Mendapatkan Investor KITAS di Bali dan Mengelola Bisnis](https://images.gobaligo.id/vocus/vocus_59530abb9404d5e42755ddff668dce0e.jpg)
 
 ## **Apa Itu Investor KITAS**
 

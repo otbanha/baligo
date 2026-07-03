@@ -41,7 +41,7 @@ lang: id
 _srcHash: 99efeca30db0391d6dce6443cd6f06b4
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7c732b073f5ce52b19b42925c798cc9d.jpg)
+![Rekomendasi Penginapan Yoga di Ubud, Bali: 10 Pilihan Impian](https://images.gobaligo.id/vocus/vocus_7c732b073f5ce52b19b42925c798cc9d.jpg)
 
 Di Ubud, Bali—pusat spiritual yang penuh budaya—yoga bukan cuma olahraga, tapi sudah jadi gaya hidup. Mau kamu pemula atau praktisi berpengalaman, penginapan yang menggabungkan akomodasi dengan kelas yoga bakal kasih kamu pengalaman menyegarkan buat tubuh, pikiran, dan jiwa. Ini dia 10 pilihan penginapan di Ubud yang nggak cuma nyaman, tapi juga punya kelas yoga berkualitas, bikin liburan Bali-mu makin berkesan.
 
@@ -51,15 +51,15 @@ Di Ubud, Bali—pusat spiritual yang penuh budaya—yoga bukan cuma olahraga, ta
 
 Resort yang terletak di lembah Tjampuhan ini memadukan alam dan kemewahan.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438864471-mixcollage-26-nov-2024-08-27-am-1505.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438864985-0f25141ea2b1bb3dddc1f2689352ad91.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438865393-92ae03efb8fc6f94fab51a8936f3873b.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438865770-462f83941288ee356c33977122f51d09.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438866278-305961957_6275995249084103_6511587795405109335_n.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438866830-308167555_6313933831956911_6943438452227654172_n.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438867409-309475799_6332234516793509_4640412562835553304_n.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438868010-mixcollage-19-feb-2024-09-57-pm-1181.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438868492-uma-ubud-potato.jpeg)
+![1. COMO Uma Ubud](https://images.gobaligo.id/images/2026-03/1774438864471-mixcollage-26-nov-2024-08-27-am-1505.jpg)
+![1. COMO Uma Ubud](https://images.gobaligo.id/images/2026-03/1774438864985-0f25141ea2b1bb3dddc1f2689352ad91.jpeg)
+![1. COMO Uma Ubud](https://images.gobaligo.id/images/2026-03/1774438865393-92ae03efb8fc6f94fab51a8936f3873b.jpeg)
+![1. COMO Uma Ubud](https://images.gobaligo.id/images/2026-03/1774438865770-462f83941288ee356c33977122f51d09.jpeg)
+![1. COMO Uma Ubud](https://images.gobaligo.id/images/2026-03/1774438866278-305961957_6275995249084103_6511587795405109335_n.jpg)
+![1. COMO Uma Ubud](https://images.gobaligo.id/images/2026-03/1774438866830-308167555_6313933831956911_6943438452227654172_n.jpg)
+![1. COMO Uma Ubud](https://images.gobaligo.id/images/2026-03/1774438867409-309475799_6332234516793509_4640412562835553304_n.jpg)
+![1. COMO Uma Ubud](https://images.gobaligo.id/images/2026-03/1774438868010-mixcollage-19-feb-2024-09-57-pm-1181.jpg)
+![1. COMO Uma Ubud](https://images.gobaligo.id/images/2026-03/1774438868492-uma-ubud-potato.jpeg)
 
 * **Keunggulan Yoga**: Setiap hari ada kelas yoga gratis yang dipandu instruktur profesional, plus aktivitas jalan pagi. 
 * **Fasilitas**: Kamar pakai lantai marmer dan tempat tidur four-poster, lengkap dengan minibar, brankas, dan TV satelit. Ada juga sauna, kolam renang outdoor, dan pusat kebugaran. 
@@ -74,15 +74,15 @@ Resort yang terletak di lembah Tjampuhan ini memadukan alam dan kemewahan.
 
 Terletak di tengah sawah yang indah dan taman tropis di Ubud, Kajane Yangloni adalah resort yang memadukan alam dan budaya Bali dengan sempurna.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438984667-472009710.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438985489-472005488.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438985810-472005586.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438986205-472007598.webp)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438986537-472009363.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438986938-472681482.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438987261-472682446.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438987861-_2024-11-26_08.56.03.png)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438988272-hotelimage.jpeg)
+![2. Kajane Yangloni: Penginapan Tenang yang Dikelilingi Sawah](https://images.gobaligo.id/images/2026-03/1774438984667-472009710.jpg)
+![2. Kajane Yangloni: Penginapan Tenang yang Dikelilingi Sawah](https://images.gobaligo.id/images/2026-03/1774438985489-472005488.jpg)
+![2. Kajane Yangloni: Penginapan Tenang yang Dikelilingi Sawah](https://images.gobaligo.id/images/2026-03/1774438985810-472005586.jpg)
+![2. Kajane Yangloni: Penginapan Tenang yang Dikelilingi Sawah](https://images.gobaligo.id/images/2026-03/1774438986205-472007598.webp)
+![2. Kajane Yangloni: Penginapan Tenang yang Dikelilingi Sawah](https://images.gobaligo.id/images/2026-03/1774438986537-472009363.jpg)
+![2. Kajane Yangloni: Penginapan Tenang yang Dikelilingi Sawah](https://images.gobaligo.id/images/2026-03/1774438986938-472681482.jpg)
+![2. Kajane Yangloni: Penginapan Tenang yang Dikelilingi Sawah](https://images.gobaligo.id/images/2026-03/1774438987261-472682446.jpg)
+![2. Kajane Yangloni: Penginapan Tenang yang Dikelilingi Sawah](https://images.gobaligo.id/images/2026-03/1774438987861-_2024-11-26_08.56.03.png)
+![2. Kajane Yangloni: Penginapan Tenang yang Dikelilingi Sawah](https://images.gobaligo.id/images/2026-03/1774438988272-hotelimage.jpeg)
 
 * **Keunggulan Yoga:** Ada kelas yoga privat khusus, bikin rileks di tengah sawah dan taman tropis.
 * **Fasilitas & Gaya:** Vila bergaya tradisional Bali dengan fasilitas modern, plus kolam renang dan Spa.
@@ -96,15 +96,15 @@ Terletak di tengah sawah yang indah dan taman tropis di Ubud, Kajane Yangloni ad
 
 Resort tropis mewah di tengah hamparan hijau, dengan banyak aktivitas untuk tubuh dan jiwa.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439098449-yoga-s-min.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439098847-9_copy.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439099279-59887153_140794976978807_2501876759506707461_n.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439099705-64583951_703461306732959_4818642285733213698_n.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439100087-98174243_629204687686567_2007769455198682604_n.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439100435-504315394.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439100873-bali-flower-bath-udaya-celebration-of-flowers-10.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439101487-img_0721-min.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439102083-mixcollage-19-feb-2024-10-58-pm-1089.jpg)
+![3. The Udaya Resorts and Spa](https://images.gobaligo.id/images/2026-03/1774439098449-yoga-s-min.jpg)
+![3. The Udaya Resorts and Spa](https://images.gobaligo.id/images/2026-03/1774439098847-9_copy.jpeg)
+![3. The Udaya Resorts and Spa](https://images.gobaligo.id/images/2026-03/1774439099279-59887153_140794976978807_2501876759506707461_n.jpeg)
+![3. The Udaya Resorts and Spa](https://images.gobaligo.id/images/2026-03/1774439099705-64583951_703461306732959_4818642285733213698_n.jpeg)
+![3. The Udaya Resorts and Spa](https://images.gobaligo.id/images/2026-03/1774439100087-98174243_629204687686567_2007769455198682604_n.jpeg)
+![3. The Udaya Resorts and Spa](https://images.gobaligo.id/images/2026-03/1774439100435-504315394.jpeg)
+![3. The Udaya Resorts and Spa](https://images.gobaligo.id/images/2026-03/1774439100873-bali-flower-bath-udaya-celebration-of-flowers-10.jpeg)
+![3. The Udaya Resorts and Spa](https://images.gobaligo.id/images/2026-03/1774439101487-img_0721-min.jpg)
+![3. The Udaya Resorts and Spa](https://images.gobaligo.id/images/2026-03/1774439102083-mixcollage-19-feb-2024-10-58-pm-1089.jpg)
 
 * **Keunggulan Yoga:** Rutin ada kelas yoga, bersepeda, dan trekking biar kamu makin menyatu dengan alam.
 * **Fasilitas & Tipe Kamar:** Furnitur kayu, dekorasi warna hangat, beberapa kamar punya kolam renang pribadi. Balkon atau teras pribadi buat nikmatin pemandangan taman.
@@ -119,16 +119,16 @@ Resort tropis mewah di tengah hamparan hijau, dengan banyak aktivitas untuk tubu
 
 Resor yang fokus pada kesehatan dan keseimbangan, cocok buat kamu yang pengin healing jiwa dan raga.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439195736-mixcollage-20-feb-2024-09-06-am-1544.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439196183-9-scaled.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439196642-531cf3adca69a43b344bd480330c137d.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439197063-171866559.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439197463-269893519.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439197867-270890107.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439198292-a7c4849d-34f0-4670-a70f-cff1ca0cfff5-1603908364330-8bc3a5bf9b90bd7ab90dbcc42549a986.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439198871-arj-3-yoga-class.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439199467-screen-shot-2021-08-04-at-11.13.16.png)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439200024-wakacje-i-wczasy-w-hotelu-alaya-jembawan-90910.jpeg)
+![4. Adiwana Resort Jembawan](https://images.gobaligo.id/images/2026-03/1774439195736-mixcollage-20-feb-2024-09-06-am-1544.jpg)
+![4. Adiwana Resort Jembawan](https://images.gobaligo.id/images/2026-03/1774439196183-9-scaled.jpeg)
+![4. Adiwana Resort Jembawan](https://images.gobaligo.id/images/2026-03/1774439196642-531cf3adca69a43b344bd480330c137d.jpeg)
+![4. Adiwana Resort Jembawan](https://images.gobaligo.id/images/2026-03/1774439197063-171866559.jpeg)
+![4. Adiwana Resort Jembawan](https://images.gobaligo.id/images/2026-03/1774439197463-269893519.jpg)
+![4. Adiwana Resort Jembawan](https://images.gobaligo.id/images/2026-03/1774439197867-270890107.jpg)
+![4. Adiwana Resort Jembawan](https://images.gobaligo.id/images/2026-03/1774439198292-a7c4849d-34f0-4670-a70f-cff1ca0cfff5-1603908364330-8bc3a5bf9b90bd7ab90dbcc42549a986.jpeg)
+![4. Adiwana Resort Jembawan](https://images.gobaligo.id/images/2026-03/1774439198871-arj-3-yoga-class.jpeg)
+![4. Adiwana Resort Jembawan](https://images.gobaligo.id/images/2026-03/1774439199467-screen-shot-2021-08-04-at-11.13.16.png)
+![4. Adiwana Resort Jembawan](https://images.gobaligo.id/images/2026-03/1774439200024-wakacje-i-wczasy-w-hotelu-alaya-jembawan-90910.jpeg)
 
 * **Keunggulan Yoga**: Ada kelas yoga dan workshop Ayurveda, bikin kamu makin dalam merasakan penyembuhan tubuh dan pikiran.
 * **Fasilitas & Gaya**: Desain modern dipadu sentuhan khas Bali, setiap kamar punya kamar mandi luas lengkap dengan jubah mandi dan perlengkapan mandi premium.
@@ -143,16 +143,16 @@ Resor yang fokus pada kesehatan dan keseimbangan, cocok buat kamu yang pengin he
 
 Surga tenang di tepi Sungai Petanu, dengan beragam aktivitas dan fasilitas seru.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439263842-mixcollage-19-feb-2024-09-02-pm-8319.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439264636-14.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439265100-20220425-yoga-pavilion-full-2.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439265606-20220425-yoga-pavilion-full-4.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439266093-281379039.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439266603-281384289.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439267103-281384445.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439267510-281384690.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439267921-281384809.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439268311-393013818.jpeg)
+![5. Maya Ubud Resort & Spa](https://images.gobaligo.id/images/2026-03/1774439263842-mixcollage-19-feb-2024-09-02-pm-8319.jpg)
+![5. Maya Ubud Resort & Spa](https://images.gobaligo.id/images/2026-03/1774439264636-14.jpeg)
+![5. Maya Ubud Resort & Spa](https://images.gobaligo.id/images/2026-03/1774439265100-20220425-yoga-pavilion-full-2.jpg)
+![5. Maya Ubud Resort & Spa](https://images.gobaligo.id/images/2026-03/1774439265606-20220425-yoga-pavilion-full-4.jpg)
+![5. Maya Ubud Resort & Spa](https://images.gobaligo.id/images/2026-03/1774439266093-281379039.jpeg)
+![5. Maya Ubud Resort & Spa](https://images.gobaligo.id/images/2026-03/1774439266603-281384289.jpeg)
+![5. Maya Ubud Resort & Spa](https://images.gobaligo.id/images/2026-03/1774439267103-281384445.jpeg)
+![5. Maya Ubud Resort & Spa](https://images.gobaligo.id/images/2026-03/1774439267510-281384690.jpeg)
+![5. Maya Ubud Resort & Spa](https://images.gobaligo.id/images/2026-03/1774439267921-281384809.jpeg)
+![5. Maya Ubud Resort & Spa](https://images.gobaligo.id/images/2026-03/1774439268311-393013818.jpeg)
 
 * **Keunggulan Yoga**: Ada kelas yoga setiap hari, lengkap dengan gazebo outdoor buat latihan.
 * **Fasilitas**: Kamar bergaya tradisional Bali dipadu kenyamanan modern, beberapa tipe punya kolam renang pribadi atau pemandangan taman.
@@ -167,15 +167,15 @@ Surga tenang di tepi Sungai Petanu, dengan beragam aktivitas dan fasilitas seru.
 
 Surga tersembunyi yang cocok banget buat keluarga atau pasangan yang pengen liburan pedesaan yang tenang.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439360702-331047587.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439361222-187681317.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439361604-223689835.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439362011-334497391.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439362422-334498059.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439362737-488623326.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439364106-whatsapp_image_2021-12-29_at_6.16.06_am.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439363453-489606648.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439363756-592729862.jpg)
+![6. The Hidden Paradise Ubud](https://images.gobaligo.id/images/2026-03/1774439360702-331047587.jpeg)
+![6. The Hidden Paradise Ubud](https://images.gobaligo.id/images/2026-03/1774439361222-187681317.jpeg)
+![6. The Hidden Paradise Ubud](https://images.gobaligo.id/images/2026-03/1774439361604-223689835.jpeg)
+![6. The Hidden Paradise Ubud](https://images.gobaligo.id/images/2026-03/1774439362011-334497391.jpeg)
+![6. The Hidden Paradise Ubud](https://images.gobaligo.id/images/2026-03/1774439362422-334498059.jpeg)
+![6. The Hidden Paradise Ubud](https://images.gobaligo.id/images/2026-03/1774439362737-488623326.jpeg)
+![6. The Hidden Paradise Ubud](https://images.gobaligo.id/images/2026-03/1774439364106-whatsapp_image_2021-12-29_at_6.16.06_am.jpeg)
+![6. The Hidden Paradise Ubud](https://images.gobaligo.id/images/2026-03/1774439363453-489606648.jpeg)
+![6. The Hidden Paradise Ubud](https://images.gobaligo.id/images/2026-03/1774439363756-592729862.jpg)
 
 * **Keunggulan Yoga**: Ada kelas yoga pribadi dan grup, terbuka buat instruktur yoga dari mana aja yang mau ngadain retreat di sini.
 * **Pilihan Akomodasi**: Tersedia suite atau villa dengan satu atau dua kamar tidur, cocok buat pasangan, keluarga, atau grup. Semua kamar menghadap ke Lembah Sungai Petanu, pemandangan matahari terbitnya bikin speechless.
@@ -188,16 +188,16 @@ Surga tersembunyi yang cocok banget buat keluarga atau pasangan yang pengen libu
 
 ## 7. **The Purist Villas and Spa**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439439236-124650011.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439439656-48e8d90bb62f8f003f9d7c4ed51cd3b4.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439440045-57105431.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439440458-117493365.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439440874-124650014.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439441379-124650022.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439441793-124650033.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439442194-141468369.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439442500-219176023.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439442899-_2024-11-26_09.34.49.png)
+![7. The Purist Villas and Spa](https://images.gobaligo.id/images/2026-03/1774439439236-124650011.jpeg)
+![7. The Purist Villas and Spa](https://images.gobaligo.id/images/2026-03/1774439439656-48e8d90bb62f8f003f9d7c4ed51cd3b4.jpeg)
+![7. The Purist Villas and Spa](https://images.gobaligo.id/images/2026-03/1774439440045-57105431.jpeg)
+![7. The Purist Villas and Spa](https://images.gobaligo.id/images/2026-03/1774439440458-117493365.jpeg)
+![7. The Purist Villas and Spa](https://images.gobaligo.id/images/2026-03/1774439440874-124650014.jpeg)
+![7. The Purist Villas and Spa](https://images.gobaligo.id/images/2026-03/1774439441379-124650022.jpeg)
+![7. The Purist Villas and Spa](https://images.gobaligo.id/images/2026-03/1774439441793-124650033.jpeg)
+![7. The Purist Villas and Spa](https://images.gobaligo.id/images/2026-03/1774439442194-141468369.jpeg)
+![7. The Purist Villas and Spa](https://images.gobaligo.id/images/2026-03/1774439442500-219176023.jpeg)
+![7. The Purist Villas and Spa](https://images.gobaligo.id/images/2026-03/1774439442899-_2024-11-26_09.34.49.png)
 
 Villa mewah yang memadukan desain tradisional dan modern ini menawarkan kelas yoga, kelas memasak, dan perawatan spa. Restoran dan kafenya menyajikan jajanan khas Bali, jus segar, dan koktail. Terletak di belakang desa setempat, tempat ini adalah pilihan sempurna buat kamu yang ingin mendalami budaya Bali.
 
@@ -211,16 +211,16 @@ Villa mewah yang memadukan desain tradisional dan modern ini menawarkan kelas yo
 
 Tempat ini terkenal dengan Jungle Fish pool bar ikoniknya yang menghadap ke ngarai. Menawarkan villa dengan kolam renang pribadi, aktivitas seperti kelas yoga, trekking sawah, dan bersepeda. Restorannya menyajikan hidangan modern, bikin kamu bisa menikmati kemewahan di tengah alam.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439546535-mixcollage-20-feb-2024-07-37-am-9852.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439547117-morning-yoga-in-ubud.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439547748-untitled-1064.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439548184-yoga-in-ubud.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439548705-yoga-retreats-chapung-1.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439549090-215390701.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439549606-_2024-11-26_09.38.17.png)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439550079-blissful-morning-in-ubud.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439550437-chapung-sebali-resort-and-spa_1000_560_2627_1412319636.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439550872-chapung-sebali-resort-spa-ubud-206-08543-1110x700.jpeg)
+![8. Chapung Sebali](https://images.gobaligo.id/images/2026-03/1774439546535-mixcollage-20-feb-2024-07-37-am-9852.jpg)
+![8. Chapung Sebali](https://images.gobaligo.id/images/2026-03/1774439547117-morning-yoga-in-ubud.jpg)
+![8. Chapung Sebali](https://images.gobaligo.id/images/2026-03/1774439547748-untitled-1064.jpeg)
+![8. Chapung Sebali](https://images.gobaligo.id/images/2026-03/1774439548184-yoga-in-ubud.jpg)
+![8. Chapung Sebali](https://images.gobaligo.id/images/2026-03/1774439548705-yoga-retreats-chapung-1.jpg)
+![8. Chapung Sebali](https://images.gobaligo.id/images/2026-03/1774439549090-215390701.jpeg)
+![8. Chapung Sebali](https://images.gobaligo.id/images/2026-03/1774439549606-_2024-11-26_09.38.17.png)
+![8. Chapung Sebali](https://images.gobaligo.id/images/2026-03/1774439550079-blissful-morning-in-ubud.jpg)
+![8. Chapung Sebali](https://images.gobaligo.id/images/2026-03/1774439550437-chapung-sebali-resort-and-spa_1000_560_2627_1412319636.jpeg)
+![8. Chapung Sebali](https://images.gobaligo.id/images/2026-03/1774439550872-chapung-sebali-resort-spa-ubud-206-08543-1110x700.jpeg)
 
 👉 **Keunggulan:** Jungle Fish bar, pemandangan ngarai, banyak aktivitas
 
@@ -232,16 +232,16 @@ Tempat ini terkenal dengan Jungle Fish pool bar ikoniknya yang menghadap ke ngar
 
 Ini resort spiritual yang terletak di tepi Sungai Campuhan, menawarkan kelas yoga dan program penyembuhan. Terapi di Ayusha Wellness terkenal banget kualitasnya, desain kamarnya memadukan kenyamanan dan nuansa alam, plus ada balkon pribadi. Restoran Banyan Loka menyajikan makanan vegetarian dan sehat.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439874668-243310869.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439875189-187395352.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439875567-257383331.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439875964-281372577.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439876374-307918617.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439876788-521850302.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439877306-521850564.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439877720-521850567.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439878124-521851069.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439878523-526249802.jpg)
+![9. Adiwana Svarga Loka](https://images.gobaligo.id/images/2026-03/1774439874668-243310869.jpg)
+![9. Adiwana Svarga Loka](https://images.gobaligo.id/images/2026-03/1774439875189-187395352.jpg)
+![9. Adiwana Svarga Loka](https://images.gobaligo.id/images/2026-03/1774439875567-257383331.jpg)
+![9. Adiwana Svarga Loka](https://images.gobaligo.id/images/2026-03/1774439875964-281372577.jpg)
+![9. Adiwana Svarga Loka](https://images.gobaligo.id/images/2026-03/1774439876374-307918617.jpg)
+![9. Adiwana Svarga Loka](https://images.gobaligo.id/images/2026-03/1774439876788-521850302.jpg)
+![9. Adiwana Svarga Loka](https://images.gobaligo.id/images/2026-03/1774439877306-521850564.jpeg)
+![9. Adiwana Svarga Loka](https://images.gobaligo.id/images/2026-03/1774439877720-521850567.jpeg)
+![9. Adiwana Svarga Loka](https://images.gobaligo.id/images/2026-03/1774439878124-521851069.jpeg)
+![9. Adiwana Svarga Loka](https://images.gobaligo.id/images/2026-03/1774439878523-526249802.jpg)
 
 👉 **Keunggulan:** Resort spiritual, pemandangan tepi sungai, terapi profesional
 
@@ -251,16 +251,16 @@ Ini resort spiritual yang terletak di tepi Sungai Campuhan, menawarkan kelas yog
 
 ## 10. **Honai Resort**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439966201-436201972.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439966639-85296289.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439967032-85499551.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439967429-85499814.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439967807-125690404.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439968196-125690410.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439968554-156481601.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439969107-177844978.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439969485-407775297.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439969899-436201765.jpg)
+![10. Honai Resort](https://images.gobaligo.id/images/2026-03/1774439966201-436201972.jpg)
+![10. Honai Resort](https://images.gobaligo.id/images/2026-03/1774439966639-85296289.jpg)
+![10. Honai Resort](https://images.gobaligo.id/images/2026-03/1774439967032-85499551.jpg)
+![10. Honai Resort](https://images.gobaligo.id/images/2026-03/1774439967429-85499814.jpg)
+![10. Honai Resort](https://images.gobaligo.id/images/2026-03/1774439967807-125690404.jpg)
+![10. Honai Resort](https://images.gobaligo.id/images/2026-03/1774439968196-125690410.jpg)
+![10. Honai Resort](https://images.gobaligo.id/images/2026-03/1774439968554-156481601.jpg)
+![10. Honai Resort](https://images.gobaligo.id/images/2026-03/1774439969107-177844978.jpg)
+![10. Honai Resort](https://images.gobaligo.id/images/2026-03/1774439969485-407775297.jpg)
+![10. Honai Resort](https://images.gobaligo.id/images/2026-03/1774439969899-436201765.jpg)
 
 Resort yang tersembunyi di antara sawah dan taman tropis ini menawarkan kelas yoga setiap hari. Restoran Hotapa Kitchen menyajikan makanan sehat sepanjang hari, termasuk pilihan vegetarian dan vegan. Pondok alang-alangnya bikin suasana alami banget, cocok buat kamu yang cari ketenangan.
 
@@ -272,7 +272,7 @@ Resort yang tersembunyi di antara sawah dan taman tropis ini menawarkan kelas yo
 
 ## **Tempat Wisata di Sekitar Ubud**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_843bc34c8b0e7915ed3fdffb7ffcb8f3.jpg)
+![Tempat Wisata di Sekitar Ubud](https://images.gobaligo.id/vocus/vocus_843bc34c8b0e7915ed3fdffb7ffcb8f3.jpg)
 
 Jangan lupa tonton rekomendasi kami [**100 Tempat Wisata di Sekitar Ubud**](/blog/ubud-guide/), buat eksplorasi lebih banyak keindahan alam dan budaya!
 

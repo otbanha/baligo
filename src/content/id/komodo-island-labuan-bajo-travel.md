@@ -63,7 +63,7 @@ Peta destinasi utama
 
 **Keajaiban Ekologi Warisan Dunia**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0d617fbbf9076c175c31660fc2e01571.jpg)
+![1. Petualangan Seru di Taman Nasional Komodo](https://images.gobaligo.id/vocus/vocus_0d617fbbf9076c175c31660fc2e01571.jpg)
 
 Taman nasional seluas 1.817 km² ini terdiri dari 29 pulau dan satu-satunya tempat di bumi yang bisa kamu lihat komodo liar. 'Dinosaurus hidup' yang panjangnya bisa mencapai 3 meter ini bakal kasih kamu pengalaman yang nggak terlupakan.
 
@@ -95,13 +95,13 @@ Pantai pink yang masih alami dan super cantik
 
 **Dinobatkan sebagai salah satu dari 10 destinasi diving terbaik dunia oleh *Dive Magazine***
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b832ec5131755bf8979725154b5e0337.jpg)
+![2. Diving & Snorkeling Kelas Dunia](https://images.gobaligo.id/vocus/vocus_b832ec5131755bf8979725154b5e0337.jpg)
 
 Perairan sekitar Labuan Bajo punya keanekaragaman hayati laut yang bikin melongo, suhu airnya stabil di 26-29°C sepanjang tahun, dan jarak pandang bisa tembus 30 meter.
 
 **Spot Menyelam Terbaik:**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e954070505f120c1749e80d0e97e9a9a.png)
+![2. Diving & Snorkeling Kelas Dunia](https://images.gobaligo.id/vocus/vocus_e954070505f120c1749e80d0e97e9a9a.png)
 
 **Pengalaman Spesial:**
 
@@ -125,7 +125,7 @@ Naik kapal layar kayu tradisional 'phinisi' buat island hopping. Kapal-kapal ini
 
 **Kunjungi desa tradisional yang terisolasi**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_457f7260484739919c2903410e8e79b0.jpg)
+![4. Pengalaman Budaya yang Mendalam](https://images.gobaligo.id/vocus/vocus_457f7260484739919c2903410e8e79b0.jpg)
 
 Kampung Wae Rebo: Suku kuno di atas awan. Tersembunyi di pegunungan setinggi 1.200 meter, desa ini masih mempertahankan arsitektur unik rumah kerucut jerami (Mbaru Niang). Pengalamannya meliputi:
 
@@ -136,7 +136,7 @@ Kampung Wae Rebo: Suku kuno di atas awan. Tersembunyi di pegunungan setinggi 1.2
 
 **Desa Tradisional Bena:**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6236dcdd0cdd7c355beb0fe7a7fbe981.jpg)
+![4. Pengalaman Budaya yang Mendalam](https://images.gobaligo.id/vocus/vocus_6236dcdd0cdd7c355beb0fe7a7fbe981.jpg)
 
 Terletak di daerah Bajawa, terkenal dengan budaya megalit dan ritual tradisional, cocok untuk traveler yang tertarik dengan antropologi.
 
@@ -148,13 +148,13 @@ Terletak di daerah Bajawa, terkenal dengan budaya megalit dan ritual tradisional
 
 - **Eksplorasi Gua Rangko**: Danau bawah tanah misterius dengan stalaktit
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8e27dc7a53097b4889e16ae0c095b640.jpg)
+![5. Petualangan Darat, Laut, dan Udara](https://images.gobaligo.id/vocus/vocus_8e27dc7a53097b4889e16ae0c095b640.jpg)
 
 **Aktivitas Air:**
 
 - Stand Up Paddle (SUP) menjelajahi hutan bakau
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b4ba7cea9192b849250ca40805a3348.jpg)
+![5. Petualangan Darat, Laut, dan Udara](https://images.gobaligo.id/vocus/vocus_9b4ba7cea9192b849250ca40805a3348.jpg)
 
 - Naik kano keliling pulau kecil
 - Trip memancing (bisa langsung dibakar hasil tangkapannya)
@@ -166,7 +166,7 @@ Terletak di daerah Bajawa, terkenal dengan budaya megalit dan ritual tradisional
 
 ### 6. Taka Makassar (Teluk Bulan Sabit)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8c6a59dc35b0d52483d05b5a52ddd4d6.jpg)
+![6. Taka Makassar (Teluk Bulan Sabit)](https://images.gobaligo.id/vocus/vocus_8c6a59dc35b0d52483d05b5a52ddd4d6.jpg)
 
 Taka Makassar adalah sebuah gosong pasir kecil di Taman Nasional Komodo, Indonesia, yang dijuluki 'pantai pasir putih yang mengapung di atas laut'. 🌊 Luasnya sangat kecil, saat surut akan muncul pasir putih halus, dan saat pasang hampir sepenuhnya tenggelam, makanya disebut juga 'pulau yang bisa menghilang'.
 
@@ -252,7 +252,7 @@ Pesan tur kapal cepat pribadi seharian penuh ke Pulau Komodo via Klook — bisa 
 
 **Ayana Komodo Resort**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4b45d240ec9f576e31fe74b5f65c7f23.jpg)
+![Resor Mewah](https://images.gobaligo.id/vocus/vocus_4b45d240ec9f576e31fe74b5f65c7f23.jpg)
 
 Hotel bintang 5 dengan infinity pool + pantai pribadi, worth it banget!
 
@@ -260,7 +260,7 @@ Hotel bintang 5 dengan infinity pool + pantai pribadi, worth it banget!
 
 **Plataran Komodo Beach Resort**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_89cfec656ea4cc2bd59301d92c259b32.jpg)
+![Resor Mewah](https://images.gobaligo.id/vocus/vocus_89cfec656ea4cc2bd59301d92c259b32.jpg)
 
 Gaya tradisional + pelayanan juara, wajib coba!
 
@@ -268,7 +268,7 @@ Gaya tradisional + pelayanan juara, wajib coba!
 
 **Meruorah Komodo**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_20b260f562c085f9c2d5386b969891a7.jpg)
+![Resor Mewah](https://images.gobaligo.id/vocus/vocus_20b260f562c085f9c2d5386b969891a7.jpg)
 
 Pengalaman bintang 5 yang super worth it!
 
@@ -278,7 +278,7 @@ Pengalaman bintang 5 yang super worth it!
 
 **Bintang Flores Hotel**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8a3b468957843c6389d29538aad87996.jpg)
+![Mid-Range](https://images.gobaligo.id/vocus/vocus_8a3b468957843c6389d29538aad87996.jpg)
 
 Pusat kota + rooftop bar
 
@@ -286,7 +286,7 @@ Pusat kota + rooftop bar
 
 **Loccal Collection Hotel**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9e77d8cb6be0ab3e7f9ae724b14329cc.jpg)
+![Mid-Range](https://images.gobaligo.id/vocus/vocus_9e77d8cb6be0ab3e7f9ae724b14329cc.jpg)
 
 Penginapan bergaya Mediterania
 
@@ -294,7 +294,7 @@ Penginapan bergaya Mediterania
 
 **Komodo Lodge**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b07b2ba3dd447e9c8b42b53a2898d29.jpg)
+![Mid-Range](https://images.gobaligo.id/vocus/vocus_9b07b2ba3dd447e9c8b42b53a2898d29.jpg)
 
 Dekat pelabuhan, penginapan worth it dengan rating bagus
 

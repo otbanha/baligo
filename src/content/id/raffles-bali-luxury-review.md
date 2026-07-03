@@ -60,7 +60,7 @@ Di **Writers Bar**, nikmati teh sore klasik ala Inggris, lengkap dengan kopi ata
 
 **Harga**: Rp 427.900 per orang
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5f7f7fb805c00c79b0e78731b462ad1e.png)
+![Sore Hari: Teh Sore Elegan di Writers Bar](https://images.gobaligo.id/vocus/vocus_5f7f7fb805c00c79b0e78731b462ad1e.png)
 
 > [Home Service Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32944-home-service-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da9ea51fe1b)
 
@@ -68,9 +68,9 @@ Di **Writers Bar**, nikmati teh sore klasik ala Inggris, lengkap dengan kopi ata
 
 Kalau mau santai sambil menikmati makanan di bawah sinar matahari dan angin laut, **Loloan Beach Bar & Grill** adalah pilihan yang pas. Di tepi kolam renang tanpa batas, koki menyajikan hidangan lezat dari hasil tangkapan segar dan oven kayu bakar.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb74fe66b32c4fa87938a3d5e72d1255.jpg)
+![Makan Siang: Cita Rasa Kolam Renang di Loloan Beach Bar & Gr](https://images.gobaligo.id/vocus/vocus_eb74fe66b32c4fa87938a3d5e72d1255.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a38b38d62b4c2c91f42cd13257bd62f4.png)
+![Makan Siang: Cita Rasa Kolam Renang di Loloan Beach Bar & Gr](https://images.gobaligo.id/vocus/vocus_a38b38d62b4c2c91f42cd13257bd62f4.png)
 
 **Paket Makan Siang Tiga Hidangan**:
 

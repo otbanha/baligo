@@ -17,13 +17,13 @@ _srcHash: 1f97946d83ac90da71bfc3f3ba9f1456
 
 她首先介绍了入住的酒店，这是一处隐蔽但独具风格的villa，备有私人泳池、宽敞的客房和浴室设施，服务贴心周到。随后前往猴子森林(Monkey Forest)，看可爱的野生猴群逗趣的样子，并分享了一些注意事项。之后参观了乌布传统市场和全新的室内市场。她也推荐到Alas Harum景区体验，那里集合了丛林秋千、咖啡工厂参观等多样有趣的项目。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7e5bee402e81b3e268521f36d78f557f.jpg)
+![乌布四天旅游计划 猴子森林/乌布市场/陶艺教室/Alas Harum](https://images.gobaligo.id/vocus/vocus_7e5bee402e81b3e268521f36d78f557f.jpg)
 
 ##
 
 ## 住宿
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2c83649f8235d8c15377854cd1badf84.png)
+![住宿](https://images.gobaligo.id/vocus/vocus_2c83649f8235d8c15377854cd1badf84.png)
 
 她们入住的Japa Suites & Villa隐身在一小巷内，外观低调朴实，却透着东南亚villa独有的雅致。小道入口处有专人把守，进入园区后，映入眼帘的是一处宽阔的中庭花园，郁郁葱葱的绿意与白墙黄瓦形成鲜明对比。工作人员热情迎接后，便引领她们前往villa房间。 Villa房型并不算太大，却处处彰显细腻设计与用心布置。一楼有两间单人房，采用简约现代风，以浅木质地板搭配白色墙面，营造清爽舒适的氛围。二楼则是一间大床房，地面使用暖色系地砖，墙面则以深咖色调营造出些许简约奢华感。
 
@@ -63,7 +63,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 抛开尘嚣的集市后，她们前往乌布另一知名景点Serayu Pottery，这里主打制陶、彩绘陶器等各式DIY体验活动，环境悠然怡人。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b41e6268aabe4e4c156ff8807840bee3.jpg)
+![Serayu Pottery 陶艺教室](https://images.gobaligo.id/vocus/vocus_b41e6268aabe4e4c156ff8807840bee3.jpg)
 
 一走进园区，便看到处处盘根错节的绿树与盎然陶罐，构筑出一种世外桃源的自然氛围。教室旁有一间展览馆，里头摆放了许多学员们巧手彩绘而成的精美陶瓷作品，作为参考示范品。上课前，工作人员先为她们详细介绍了陶土的各种性质与制作注意事项，从揉陶到成型，都须格外用心。接着便是动手的时间，她们先挑选了一个朴素陶罐作为彩绘载体，老师则示范各种不同的装饰技巧，如滴釉、晕色、勾勒图案等，相当有趣。彩绘过程中，主持人还分享了陶艺的源远流长历史以及艺术内涵，让她们获益良多。课程结束后，学员们完成的作品需要再经过高温烧制，才能化整为零，成为永久之作。
 

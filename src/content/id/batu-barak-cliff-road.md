@@ -43,7 +43,7 @@ Pantai Batu Barak ada di kawasan Uluwatu, Bali selatan, tepatnya di Desa Kutuh, 
 
 Jalan pesisir ini disebut 'Jalan Biru' karena tebing karangnya berpadu dengan latar langit biru, menciptakan pemandangan yang epik. Apalagi pas cuaca cerah di Bali, birunya langit kontras banget sama warna tanah, kayak jalan yang mengarah ke surga biru. Karena di kiri-kanan jalan langsung jurang curam, makanya disebut juga 'Jalan Tebing'.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_30197729f12704e67d5352e5ad465799.jpg)
+![Kenapa Dijuluki 'Jalan Biru' atau 'Jalan Tebing'?](https://images.gobaligo.id/vocus/vocus_30197729f12704e67d5352e5ad465799.jpg)
 
 ***
 
@@ -58,7 +58,7 @@ Jalan pesisir ini disebut 'Jalan Biru' karena tebing karangnya berpadu dengan la
 4. **Dekat Pantai Pandawa**:
    Pantai Batu Barak bersebelahan sama Pantai Pandawa, jadi kamu bisa jalan kaki ke sana dan nikmatin dua suasana pantai yang beda.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b1c0bf1ebb9e5f22f466bcb222140ba6.jpg)
+![Keunggulan Batu Barak/Tanah Barak](https://images.gobaligo.id/vocus/vocus_b1c0bf1ebb9e5f22f466bcb222140ba6.jpg)
 
 ***
 
@@ -100,7 +100,7 @@ Jalan pesisir ini disebut 'Jalan Biru' karena tebing karangnya berpadu dengan la
    Selesai sekitar jam 6 sore
    Kalau lagi ramai, hampir bolak-balik terus.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b6cf778b678110c9505db7ed4ee0078b.jpg)
+![Tips & Hal yang Perlu Diperhatikan](https://images.gobaligo.id/vocus/vocus_b6cf778b678110c9505db7ed4ee0078b.jpg)
 
 🏖️🪨🌊 Eksplorasi keindahan tebing biru, pemandangan yang terbelah, jepret aja langsung jadi incaran Instagram! ▶[Promo Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F114124-tanah-barak-cliff-garuda-wisnu-kencana-malini-sunset-tour-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8aad5d46e9)
 
@@ -124,7 +124,7 @@ Tanah Barak dan Pantai Pandawa sebenarnya lebih dekat ke dua resor di pesisir ti
 
 ## Tur Klook Sehari:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2d76fdef87ebfb732439f387b51af176.jpg)
+![Tur Klook Sehari:](https://images.gobaligo.id/vocus/vocus_2d76fdef87ebfb732439f387b51af176.jpg)
 
 Naik VW convertible keliling Bali selatan! Mampir ke Pantai Padang Padang dan Pantai Pandawa, nikmati pemandangan, lanjut ke Pura Uluwatu buat lihat sunset, dan dinner seafood di Jimbaran. Paket sudah termasuk jemput antar, sopir, dan bensin — bebas ribet, nikmatin aja keindahan Bali!
 
@@ -140,9 +140,9 @@ Naik VW convertible keliling Bali selatan! Mampir ke Pantai Padang Padang dan Pa
 
 2024/06 Tanah Barak
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b817fd2283ce1fac2445b9fdb010dab.jpg)
+![Pengalaman Seru:](https://images.gobaligo.id/vocus/vocus_0b817fd2283ce1fac2445b9fdb010dab.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c80da0118821fee582b6810af405631e.jpg)
+![Pengalaman Seru:](https://images.gobaligo.id/vocus/vocus_c80da0118821fee582b6810af405631e.jpg)
 
 Sore harinya di White Rock Beach Club, semua orang bilang keren banget!
 

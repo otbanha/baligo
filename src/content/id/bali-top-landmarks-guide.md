@@ -32,13 +32,13 @@ _srcHash: d98c46111dc0083bf1baf132d03466ac
 ---
 Kemarin kita baru aja bikin artikel '[500 Tempat Hits di Bali](/blog/bali-top-500-attractions/)', eh ada pembaca yang bilang daftarnya kebanyakan. Minta yang versi ringkas aja, yang penting landmark ikonik yang bisa dikunjungin dalam satu trip ke Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0c670bcc975ce84fdace5189970104b0.jpg)
+![【2026 Bali Wajib Dikunjungi】10 Landmark Ikonik Paling Kece: ](https://images.gobaligo.id/vocus/vocus_0c670bcc975ce84fdace5189970104b0.jpg)
 
 Setelah seleksi ketat, kita khusus bikin '10 Landmark Ikonik Bali'. Tempat-tempat ini mewakili budaya, pemandangan alam, dan ciri khas Bali yang paling kece. Dijamin kamu bisa ngerasain pesona unik Bali dalam waktu singkat.
 
 ## GWK Cultural Park (Garuda Wisnu Kencana)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fe7847c15db88a7191a1f728c33d7bbe.jpg)
+![GWK Cultural Park (Garuda Wisnu Kencana)](https://images.gobaligo.id/vocus/vocus_fe7847c15db88a7191a1f728c33d7bbe.jpg)
 
 GWK Culture Park adalah salah satu tempat wisata populer di Bali yang didukung penuh pemerintah. Letaknya di dekat Jimbaran, terkenal dengan patung raksasa, arsitektur megah, dan nuansa budaya Bali yang kental. Yang paling ikonik adalah patung gabungan Dewa Siwa dan Burung Garuda setinggi 121 meter — patung tertinggi keempat di dunia. Di sini juga sering diadakan acara budaya dan pertunjukan tari tradisional. Ada pusat budaya juga buat kamu yang pengen tahu lebih dalam tentang budaya Bali.
 
@@ -50,7 +50,7 @@ GWK Culture Park adalah salah satu tempat wisata populer di Bali yang didukung p
 
 ## Penglipuran Village (Desa Penglipuran)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e868ac9e82f28e32c66ef180987e2a24.jpg)
+![Penglipuran Village (Desa Penglipuran)](https://images.gobaligo.id/vocus/vocus_e868ac9e82f28e32c66ef180987e2a24.jpg)
 
 Jalan-jalan santai di Desa Penglipuran, eksplorasi sejarah dan warisan budayanya. Tempat yang dijuluki 'Desa Terindah di Bali' ini adalah salah satu komunitas tradisional paling autentik yang masih terjaga. Keistimewaannya ada pada budaya Bali asli dan gaya hidup unik yang dipertahankan. Desa ini penuh dengan nuansa budaya Bali, bener-bener hidden gem yang wajib kamu kunjungi. [Baca selengkapnya](/blog/penglipuran-village-bali-experience/)
 
@@ -60,7 +60,7 @@ Jalan-jalan santai di Desa Penglipuran, eksplorasi sejarah dan warisan budayanya
 
 ## Pura Besakih
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_145940526f93b2b01a3a93bf4e89daf3.jpg)
+![Pura Besakih](https://images.gobaligo.id/vocus/vocus_145940526f93b2b01a3a93bf4e89daf3.jpg)
 
 Pura Besakih adalah salah satu landmark penting di Bali, sekaligus salah satu pura Hindu terbesar dan tersuci di pulau ini. Pura ini terletak di lereng Gunung Agung. Dianggap sebagai pusat keagamaan Bali, pura ini dijuluki 'Pura Ibu' dan memiliki banyak kuil serta altar yang didedikasikan untuk berbagai dewa.
 
@@ -70,7 +70,7 @@ Kompleks Pura Besakih yang megah terletak di antara lembah yang indah dan sawah 
 
 ## Monkey Forest & Pura Taman Saraswati
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf494c9ed8153f01ba76c1699bb373a3.jpg)
+![Monkey Forest & Pura Taman Saraswati](https://images.gobaligo.id/vocus/vocus_bf494c9ed8153f01ba76c1699bb373a3.jpg)
 
 Monkey Forest dan Pura Taman Saraswati yang sama-sama berada di pusat Ubud adalah landmark yang wajib dikunjungi.
 
@@ -82,7 +82,7 @@ Satu lagi yang nggak jauh dari situ, Pura Taman Saraswati—tersembunyi di sudut
 
 ## Nusa Penida
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_553fda5a59aeef7e6851a80fe4136b4f.jpg)
+![Nusa Penida](https://images.gobaligo.id/vocus/vocus_553fda5a59aeef7e6851a80fe4136b4f.jpg)
 
 Akhir-akhir ini, salah satu pulau lepas Bali yang lagi hits banget, punya pemandangan alam yang juara!
 
@@ -96,7 +96,7 @@ Soal Nusa Penida, kita udah bikin lima episode panduan:
 
 ## Taman Dedari
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f5bb24e18ff5f934a2340adedcefbb65.png)
+![Taman Dedari](https://images.gobaligo.id/vocus/vocus_f5bb24e18ff5f934a2340adedcefbb65.png)
 
 Taman Dedari adalah spot hits di Ubud yang terkenal sama patung bidadari raksasa yang unik di dunia. Selain nyajiin makanan enak, tempat ini juga gabungan seni dan budaya. Di bawah naungan bidadari, kamu bisa nikmatin kuliner lokal sambil ngerasain vibe khas Ubud — bener-bener pengalaman makan yang nggak terlupakan.
 
@@ -106,7 +106,7 @@ Di dalamnya banyak banget spot foto yang instagramable, kalian bisa puas-puasin 
 
 ## Pura Tirta Empul
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2671370a86c84863c3c5f1ca502e8e1e.jpg)
+![Pura Tirta Empul](https://images.gobaligo.id/vocus/vocus_2671370a86c84863c3c5f1ca502e8e1e.jpg)
 
 Selain Pura Tirta Empul yang paling terkenal di Bali, masih ada dua pura suci lainnya yang tersembunyi di sudut tenang, jaraknya nggak terlalu jauh, siap menanti para penjelajah. Dua pura ini bukan cuma bikin kamu ngerasain budaya religius khas Bali, tapi juga bisa nikmatin pengalaman mandi suci yang tulus dan damai di lingkungan yang relatif sepi.
 
@@ -124,7 +124,7 @@ Kedua pura air suci ini punya pesona dan nilai budaya masing-masing, plus menawa
 
 ## Pura Tanah Lot
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4627595c4f7e1a1a61c20ebb613256f0.jpg)
+![Pura Tanah Lot](https://images.gobaligo.id/vocus/vocus_4627595c4f7e1a1a61c20ebb613256f0.jpg)
 
 Tanah Lot di Bali adalah landmark terkenal yang dikenal dengan pura tepi lautnya yang megah. Pura ini dibangun di atas batu besar, dan merupakan salah satu pura Hindu paling ikonik di Indonesia. Setiap sore menjelang matahari terbenam, para wisatawan berkumpul di sini buat nikmatin pemandangan spektakuler yang disinari senja — ini jadi salah satu dari sepuluh landmark paling terkenal di Bali.
 
@@ -134,7 +134,7 @@ Tapi karena tempat ini terlalu populer, kalau kamu milih datang sore hari, harus
 
 ## Pura Ulun Danau — Pura Air di Danau Bratan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7b504fc83d34c26e674b57a1c762bf58.jpg)
+![Pura Ulun Danau — Pura Air di Danau Bratan](https://images.gobaligo.id/vocus/vocus_7b504fc83d34c26e674b57a1c762bf58.jpg)
 
 Pura Ulun Danau (Pura Ulun Danau) selesai dibangun tahun 1633, terletak di tepi Danau Bratan di tengah Bali. Ada juga yang menyebutnya "Pura Air Bratan". Karena Danau Bratan adalah sumber irigasi utama bagi wilayah tengah Bali, Pura Ulun Danau dulunya digunakan sebagai tempat upacara pemujaan Dewi Danu, dewi air, danau, dan sungai di Bali. Selain itu, pura setinggi 11 tingkat ini juga dibangun untuk memuja Dewa Siwa dan Parvati. Patung Buddha juga disembah di sini, menjadikannya perpaduan antara Hindu dan Buddha.
 
@@ -144,7 +144,7 @@ Yang unik, pura air di Bali ini juga tercetak di uang kertas Indonesia, tepatnya
 
 ## Jatiluwih Rice Terrace — Terasering Sawah Jatiluwih
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6b26a35c2746bdb8c6ba7f898bc97822.jpg)
+![Jatiluwih Rice Terrace — Terasering Sawah Jatiluwih](https://images.gobaligo.id/vocus/vocus_6b26a35c2746bdb8c6ba7f898bc97822.jpg)
 
 Pemandangan terasering sawah di sekitar Ubud adalah salah satu daya tarik utama Bali. Pemandangan spektakuler bak lukisan ini bahkan dinobatkan sebagai Situs Warisan Dunia UNESCO. Ada dua area terasering utama di Ubud:
 
@@ -161,7 +161,7 @@ Waktu terbaik buat motret keindahan terasering adalah pas pagi buta, saat mataha
 
 ## Peta Panduan & Cara Mengaturnya?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c6e1c88da233ba83e7e292988927222c.png)
+![Peta Panduan & Cara Mengaturnya?](https://images.gobaligo.id/vocus/vocus_c6e1c88da233ba83e7e292988927222c.png)
 
 Kami sudah mengumpulkan semua tempat di atas dalam peta. Kamu bisa klik di sini ([tautan](https://www.google.com/maps/d/u/0/edit?mid=1VHVJ3bCGIB0d-g9aKlCtYdY8cuAYfa8&usp=sharing)) untuk menyimpan peta.
 

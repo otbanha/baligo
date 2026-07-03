@@ -21,7 +21,7 @@ _srcHash: b6c3c90a70fe5adfed3e51b22500afd0
 
 2025年5月30號至6月1號，印尼峇里島嘅文化之都——烏布，將會迎來第十屆 **Ubud Food Festival**，成為印尼年度最受矚目嘅美食盛會。呢場活動唔單止係一場味覺嘅冒險，更加係一場文化與歷史交織嘅體驗。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9493dc5a49f643520cc6d25efe3d94af.png)
+![烏布美食節十週年：一場充滿故事嘅味蕾之旅](https://images.gobaligo.id/vocus/vocus_9493dc5a49f643520cc6d25efe3d94af.png)
 
 ---
 
@@ -29,7 +29,7 @@ _srcHash: b6c3c90a70fe5adfed3e51b22500afd0
 
 今屆活動以「**Heritage 傳承**」為主題，唔單止係向祖傳食譜致敬，更加強調傳統喺當代嘅重新詮釋。由街頭小食到高級料理，由鄉村廚房到現代餐廳，每一道菜都訴說著印尼嘅文化故事。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_06b7d6f9c8d432b093dc97b394f15d62.jpg)
+![主題：「傳承」—— 唔止係回憶，更加係再創經典](https://images.gobaligo.id/vocus/vocus_06b7d6f9c8d432b093dc97b394f15d62.jpg)
 
 ---
 
@@ -40,7 +40,7 @@ _srcHash: b6c3c90a70fe5adfed3e51b22500afd0
 - **藝術融合美食**：Instagram風格嘅視覺場景設計，讓每一處都係打卡熱點。
 - **來自全國嘅頂尖人才**：邀請米其林主廚、知名食譜作家、年輕創意主廚與在地農民共襄盛舉。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5250fcaad7df6bc2c45359b406ff3fe0.jpg)
+![活動亮點亮眼登場](https://images.gobaligo.id/vocus/vocus_5250fcaad7df6bc2c45359b406ff3fe0.jpg)
 
 ---
 
@@ -54,7 +54,7 @@ _srcHash: b6c3c90a70fe5adfed3e51b22500afd0
 
 ## **必逛區域同埋活動介紹**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_646cd9326daba5d4fe0b6f40130b64b4.jpg)
+![必逛區域同埋活動介紹](https://images.gobaligo.id/vocus/vocus_646cd9326daba5d4fe0b6f40130b64b4.jpg)
 
 ### **✔ 美食市集（免費入場）**
 
@@ -96,7 +96,7 @@ _srcHash: b6c3c90a70fe5adfed3e51b22500afd0
 
 ## **❓ 常見問題 FAQ ❓**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_be530e02aa8a5b2dd52f513006292c80.jpg)
+![常見問題 FAQ](https://images.gobaligo.id/vocus/vocus_be530e02aa8a5b2dd52f513006292c80.jpg)
 
 ### **Ubud Food Festival 係咩類型嘅活動？**
 

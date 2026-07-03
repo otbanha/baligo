@@ -40,23 +40,23 @@ Here are 20 of the most stunning private pool villas in Ubud, catering to a rang
 
 ## The Purist Villas & Spa – Affordable Luxury Private Pool Villa
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354982381-48e8d90bb62f8f003f9d7c4ed51cd3b4.jpeg)
+![The Purist Villas & Spa – Affordable Luxury Private Pool Vil](https://images.gobaligo.id/images/2026-03/1774354982381-48e8d90bb62f8f003f9d7c4ed51cd3b4.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354983248-57105431.jpeg)
+![The Purist Villas & Spa – Affordable Luxury Private Pool Vil](https://images.gobaligo.id/images/2026-03/1774354983248-57105431.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354983737-117493365.jpeg)
+![The Purist Villas & Spa – Affordable Luxury Private Pool Vil](https://images.gobaligo.id/images/2026-03/1774354983737-117493365.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354984079-124650011.jpeg)
+![The Purist Villas & Spa – Affordable Luxury Private Pool Vil](https://images.gobaligo.id/images/2026-03/1774354984079-124650011.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354984459-124650014.jpeg)
+![The Purist Villas & Spa – Affordable Luxury Private Pool Vil](https://images.gobaligo.id/images/2026-03/1774354984459-124650014.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354984867-124650022.jpeg)
+![The Purist Villas & Spa – Affordable Luxury Private Pool Vil](https://images.gobaligo.id/images/2026-03/1774354984867-124650022.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354985264-124650033.jpeg)
+![The Purist Villas & Spa – Affordable Luxury Private Pool Vil](https://images.gobaligo.id/images/2026-03/1774354985264-124650033.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354985673-141468369.jpeg)
+![The Purist Villas & Spa – Affordable Luxury Private Pool Vil](https://images.gobaligo.id/images/2026-03/1774354985673-141468369.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354986009-219176023.jpeg)
+![The Purist Villas & Spa – Affordable Luxury Private Pool Vil](https://images.gobaligo.id/images/2026-03/1774354986009-219176023.jpeg)
 
 Looking for luxury in Ubud without breaking the bank? The Purist Villas & Spa is your perfect choice! This villa boasts stunning high-end interior design, offering spaciousness, privacy, and comfort at surprisingly affordable prices, making it one of Ubud's best-value private pool villas.
 
@@ -76,21 +76,21 @@ Each one or two-bedroom villa features a king-size bed, refrigerator, sofa, and 
 
 ## Tejaprana Bisma – Luxury Experience, Ubud's Premier Private Pool Villas
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355078399-166353672.jpeg)
+![Tejaprana Bisma – Luxury Experience, Ubud's Premier Private ](https://images.gobaligo.id/images/2026-03/1774355078399-166353672.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355079181-172372012.jpeg)
+![Tejaprana Bisma – Luxury Experience, Ubud's Premier Private ](https://images.gobaligo.id/images/2026-03/1774355079181-172372012.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355079570-181286567.jpeg)
+![Tejaprana Bisma – Luxury Experience, Ubud's Premier Private ](https://images.gobaligo.id/images/2026-03/1774355079570-181286567.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355079884-195410347.jpeg)
+![Tejaprana Bisma – Luxury Experience, Ubud's Premier Private ](https://images.gobaligo.id/images/2026-03/1774355079884-195410347.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355080287-195410352.jpeg)
+![Tejaprana Bisma – Luxury Experience, Ubud's Premier Private ](https://images.gobaligo.id/images/2026-03/1774355080287-195410352.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355080698-195412367.jpeg)
+![Tejaprana Bisma – Luxury Experience, Ubud's Premier Private ](https://images.gobaligo.id/images/2026-03/1774355080698-195412367.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355081029-195568639.jpeg)
+![Tejaprana Bisma – Luxury Experience, Ubud's Premier Private ](https://images.gobaligo.id/images/2026-03/1774355081029-195568639.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355081425-379533573.jpeg)
+![Tejaprana Bisma – Luxury Experience, Ubud's Premier Private ](https://images.gobaligo.id/images/2026-03/1774355081425-379533573.jpeg)
 
 Looking for a private pool villa that will leave you in awe? Tejaprana Bisma's luxurious villas are sure to meet your expectations!
 
@@ -108,21 +108,21 @@ The impressive two-bedroom villa features double-height floor-to-ceiling windows
 
 ## Bliss Spa Ubud Hotel – Affordable Private Pool Villas with Rustic Charm
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355130993-222603560.jpeg)
+![Bliss Spa Ubud Hotel – Affordable Private Pool Villas with R](https://images.gobaligo.id/images/2026-03/1774355130993-222603560.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355131406-222603569.jpeg)
+![Bliss Spa Ubud Hotel – Affordable Private Pool Villas with R](https://images.gobaligo.id/images/2026-03/1774355131406-222603569.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355131797-222729930.jpeg)
+![Bliss Spa Ubud Hotel – Affordable Private Pool Villas with R](https://images.gobaligo.id/images/2026-03/1774355131797-222729930.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355132112-222730303.jpeg)
+![Bliss Spa Ubud Hotel – Affordable Private Pool Villas with R](https://images.gobaligo.id/images/2026-03/1774355132112-222730303.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355132512-222730442.jpeg)
+![Bliss Spa Ubud Hotel – Affordable Private Pool Villas with R](https://images.gobaligo.id/images/2026-03/1774355132512-222730442.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355132945-222730739.jpeg)
+![Bliss Spa Ubud Hotel – Affordable Private Pool Villas with R](https://images.gobaligo.id/images/2026-03/1774355132945-222730739.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355133292-223011839.jpeg)
+![Bliss Spa Ubud Hotel – Affordable Private Pool Villas with R](https://images.gobaligo.id/images/2026-03/1774355133292-223011839.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355133767-290645384.jpeg)
+![Bliss Spa Ubud Hotel – Affordable Private Pool Villas with R](https://images.gobaligo.id/images/2026-03/1774355133767-290645384.jpeg)
 
 Yearning for a peaceful countryside getaway? Bliss Spa Ubud Hotel is sure to meet your expectations. This enchanting resort is nestled amidst rice fields, offering comfortable accommodations and stunning natural scenery for ultimate relaxation. The resort features private pool villas, perfect for those seeking a touch of luxury.
 
@@ -136,21 +136,21 @@ Yearning for a peaceful countryside getaway? Bliss Spa Ubud Hotel is sure to mee
 
 ## Amora Ubud Boutique Villas - Romantic Mid-Range Private Pool Villas
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355187951-466869788.jpeg)
+![Amora Ubud Boutique Villas - Romantic Mid-Range Private Pool](https://images.gobaligo.id/images/2026-03/1774355187951-466869788.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355188440-466870667.jpeg)
+![Amora Ubud Boutique Villas - Romantic Mid-Range Private Pool](https://images.gobaligo.id/images/2026-03/1774355188440-466870667.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355188949-466870739.jpeg)
+![Amora Ubud Boutique Villas - Romantic Mid-Range Private Pool](https://images.gobaligo.id/images/2026-03/1774355188949-466870739.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355189351-466870787.jpeg)
+![Amora Ubud Boutique Villas - Romantic Mid-Range Private Pool](https://images.gobaligo.id/images/2026-03/1774355189351-466870787.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355189729-466872145.jpeg)
+![Amora Ubud Boutique Villas - Romantic Mid-Range Private Pool](https://images.gobaligo.id/images/2026-03/1774355189729-466872145.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355190085-466872168.jpeg)
+![Amora Ubud Boutique Villas - Romantic Mid-Range Private Pool](https://images.gobaligo.id/images/2026-03/1774355190085-466872168.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355190589-457000330.jpeg)
+![Amora Ubud Boutique Villas - Romantic Mid-Range Private Pool](https://images.gobaligo.id/images/2026-03/1774355190589-457000330.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355191075-466869773.jpeg)
+![Amora Ubud Boutique Villas - Romantic Mid-Range Private Pool](https://images.gobaligo.id/images/2026-03/1774355191075-466869773.jpeg)
 
 Looking for top-notch private pool villas in Ubud for couples? Amora Ubud Boutique Villas is your perfect choice! This boutique resort offers just 15 secluded private villas, ideal for travelers who cherish peace and tranquility.
 
@@ -164,21 +164,21 @@ Looking for top-notch private pool villas in Ubud for couples? Amora Ubud Boutiq
 
 ## Homayoon Villa at Bisma Ubud – Mid-Range Private Pool Villa for Couples
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359243533-373419753.jpeg)
+![Homayoon Villa at Bisma Ubud – Mid-Range Private Pool Villa ](https://images.gobaligo.id/images/2026-03/1774359243533-373419753.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359243918-371681282.jpeg)
+![Homayoon Villa at Bisma Ubud – Mid-Range Private Pool Villa ](https://images.gobaligo.id/images/2026-03/1774359243918-371681282.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359244337-371681284.jpeg)
+![Homayoon Villa at Bisma Ubud – Mid-Range Private Pool Villa ](https://images.gobaligo.id/images/2026-03/1774359244337-371681284.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359244664-371681308.jpeg)
+![Homayoon Villa at Bisma Ubud – Mid-Range Private Pool Villa ](https://images.gobaligo.id/images/2026-03/1774359244664-371681308.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359245000-371681311.jpeg)
+![Homayoon Villa at Bisma Ubud – Mid-Range Private Pool Villa ](https://images.gobaligo.id/images/2026-03/1774359245000-371681311.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359245371-371681312.jpeg)
+![Homayoon Villa at Bisma Ubud – Mid-Range Private Pool Villa ](https://images.gobaligo.id/images/2026-03/1774359245371-371681312.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359245764-373419724.jpeg)
+![Homayoon Villa at Bisma Ubud – Mid-Range Private Pool Villa ](https://images.gobaligo.id/images/2026-03/1774359245764-373419724.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359246185-373419727.jpeg)
+![Homayoon Villa at Bisma Ubud – Mid-Range Private Pool Villa ](https://images.gobaligo.id/images/2026-03/1774359246185-373419727.jpeg)
 
 Looking to enjoy the luxury of a top-tier private pool villa in Ubud on a budget? Homayoon Villa is the perfect choice! Offering excellent value, the villa provides both shared pool access and secluded private pool villas.
 
@@ -194,21 +194,21 @@ Note that some villas only have access to a shared pool. For the luxury of a pri
 
 ## Beehouse Dijiwa Ubud - The Perfect Couple's Villa with Scenic Views and Privacy
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359303631-210970722.jpeg)
+![Beehouse Dijiwa Ubud - The Perfect Couple's Villa with Sceni](https://images.gobaligo.id/images/2026-03/1774359303631-210970722.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359304462-209584999.jpeg)
+![Beehouse Dijiwa Ubud - The Perfect Couple's Villa with Sceni](https://images.gobaligo.id/images/2026-03/1774359304462-209584999.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359304953-210970627.jpeg)
+![Beehouse Dijiwa Ubud - The Perfect Couple's Villa with Sceni](https://images.gobaligo.id/images/2026-03/1774359304953-210970627.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359305360-210970707.jpeg)
+![Beehouse Dijiwa Ubud - The Perfect Couple's Villa with Sceni](https://images.gobaligo.id/images/2026-03/1774359305360-210970707.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359305779-311351360.jpeg)
+![Beehouse Dijiwa Ubud - The Perfect Couple's Villa with Sceni](https://images.gobaligo.id/images/2026-03/1774359305779-311351360.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359306158-311353272.jpeg)
+![Beehouse Dijiwa Ubud - The Perfect Couple's Villa with Sceni](https://images.gobaligo.id/images/2026-03/1774359306158-311353272.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359306594-489141300.jpeg)
+![Beehouse Dijiwa Ubud - The Perfect Couple's Villa with Sceni](https://images.gobaligo.id/images/2026-03/1774359306594-489141300.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359307003-489157537.jpeg)
+![Beehouse Dijiwa Ubud - The Perfect Couple's Villa with Sceni](https://images.gobaligo.id/images/2026-03/1774359307003-489157537.jpeg)
 
 Beehouse Dijiwa Ubud offers uniquely designed private villas full of character, making it an excellent choice for couples seeking both scenic views and privacy. The villas boast rural landscapes while providing convenient access to all the exciting experiences Ubud has to offer.
 
@@ -224,21 +224,21 @@ To enjoy a private pool villa experience in Ubud, book the one-bedroom villa at 
 
 ## Ayuterra Resort – Bali's Premier Villas with Exceptional Private Pools
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359349249-94811283.jpeg)
+![Ayuterra Resort – Bali's Premier Villas with Exceptional Pri](https://images.gobaligo.id/images/2026-03/1774359349249-94811283.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359349753-158456810.jpeg)
+![Ayuterra Resort – Bali's Premier Villas with Exceptional Pri](https://images.gobaligo.id/images/2026-03/1774359349753-158456810.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359350639-158456815.jpeg)
+![Ayuterra Resort – Bali's Premier Villas with Exceptional Pri](https://images.gobaligo.id/images/2026-03/1774359350639-158456815.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359351156-165248513.jpeg)
+![Ayuterra Resort – Bali's Premier Villas with Exceptional Pri](https://images.gobaligo.id/images/2026-03/1774359351156-165248513.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359351562-165249780.jpeg)
+![Ayuterra Resort – Bali's Premier Villas with Exceptional Pri](https://images.gobaligo.id/images/2026-03/1774359351562-165249780.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359351962-165249794.jpeg)
+![Ayuterra Resort – Bali's Premier Villas with Exceptional Pri](https://images.gobaligo.id/images/2026-03/1774359351962-165249794.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359352270-165250377.jpeg)
+![Ayuterra Resort – Bali's Premier Villas with Exceptional Pri](https://images.gobaligo.id/images/2026-03/1774359352270-165250377.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359352673-165250385.jpeg)
+![Ayuterra Resort – Bali's Premier Villas with Exceptional Pri](https://images.gobaligo.id/images/2026-03/1774359352673-165250385.jpeg)
 
 The luxurious private villas at Ayuterra Resort are sure to leave you in awe. High-end design decor, spacious interiors, and breathtaking views make these villas some of Bali's top private pool villas.
 
@@ -256,25 +256,25 @@ The most impressive private pool villa in the resort is the stunning panoramique
 
 ## The Hidden Paradise – A Serene and Versatile Stay in Ubud
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359412784-223689835.jpeg)
+![The Hidden Paradise – A Serene and Versatile Stay in Ubud](https://images.gobaligo.id/images/2026-03/1774359412784-223689835.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359413214-187681317.jpeg)
+![The Hidden Paradise – A Serene and Versatile Stay in Ubud](https://images.gobaligo.id/images/2026-03/1774359413214-187681317.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359413620-331047587.jpeg)
+![The Hidden Paradise – A Serene and Versatile Stay in Ubud](https://images.gobaligo.id/images/2026-03/1774359413620-331047587.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359414009-334497391.jpeg)
+![The Hidden Paradise – A Serene and Versatile Stay in Ubud](https://images.gobaligo.id/images/2026-03/1774359414009-334497391.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359414403-334498059.jpeg)
+![The Hidden Paradise – A Serene and Versatile Stay in Ubud](https://images.gobaligo.id/images/2026-03/1774359414403-334498059.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359414734-488623326.jpeg)
+![The Hidden Paradise – A Serene and Versatile Stay in Ubud](https://images.gobaligo.id/images/2026-03/1774359414734-488623326.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359415139-488623391.jpeg)
+![The Hidden Paradise – A Serene and Versatile Stay in Ubud](https://images.gobaligo.id/images/2026-03/1774359415139-488623391.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359415550-489606648.jpeg)
+![The Hidden Paradise – A Serene and Versatile Stay in Ubud](https://images.gobaligo.id/images/2026-03/1774359415550-489606648.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359415880-592729862.jpg)
+![The Hidden Paradise – A Serene and Versatile Stay in Ubud](https://images.gobaligo.id/images/2026-03/1774359415880-592729862.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359416237-whatsapp_image_2021-12-29_at_6.16.06_am.jpeg)
+![The Hidden Paradise – A Serene and Versatile Stay in Ubud](https://images.gobaligo.id/images/2026-03/1774359416237-whatsapp_image_2021-12-29_at_6.16.06_am.jpeg)
 
 The Hidden Paradise Ubud offers a variety of accommodation options, making it ideal for different travel groups, whether it's a group of friends or multi-generational families with diverse needs. True to its name, the resort is nestled in lush greenery with expansive forest views.
 
@@ -292,21 +292,21 @@ The resort offers rooms, suites, and traditional thatched-roof villas without po
 
 ## Mandana Ubud Villa – A Top-Tier Private Pool Villa Hidden in a Tropical Paradise
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359466557-404292667.jpeg)
+![Mandana Ubud Villa – A Top-Tier Private Pool Villa Hidden in](https://images.gobaligo.id/images/2026-03/1774359466557-404292667.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359466987-404292547.jpeg)
+![Mandana Ubud Villa – A Top-Tier Private Pool Villa Hidden in](https://images.gobaligo.id/images/2026-03/1774359466987-404292547.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359467380-404292766.jpeg)
+![Mandana Ubud Villa – A Top-Tier Private Pool Villa Hidden in](https://images.gobaligo.id/images/2026-03/1774359467380-404292766.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359467776-404292854.jpeg)
+![Mandana Ubud Villa – A Top-Tier Private Pool Villa Hidden in](https://images.gobaligo.id/images/2026-03/1774359467776-404292854.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359468108-404292889.jpeg)
+![Mandana Ubud Villa – A Top-Tier Private Pool Villa Hidden in](https://images.gobaligo.id/images/2026-03/1774359468108-404292889.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359468500-404292990.jpeg)
+![Mandana Ubud Villa – A Top-Tier Private Pool Villa Hidden in](https://images.gobaligo.id/images/2026-03/1774359468500-404292990.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359468905-404293434.jpeg)
+![Mandana Ubud Villa – A Top-Tier Private Pool Villa Hidden in](https://images.gobaligo.id/images/2026-03/1774359468905-404293434.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359469314-404294538.jpeg)
+![Mandana Ubud Villa – A Top-Tier Private Pool Villa Hidden in](https://images.gobaligo.id/images/2026-03/1774359469314-404294538.jpeg)
 
 Mandana Ubud Villa seamlessly blends into the palm trees and rice fields, offering meticulously designed villas that feel like your own private sanctuary. If you crave a secluded, luxurious environment immersed in nature, Mandana Ubud Villa is your ideal choice.
 
@@ -322,21 +322,21 @@ The private infinity pool is located below the villa, complete with a small sun 
 
 ## Madani Antique Villas – Affordable Romantic Private Pool Villas for Couples
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359542577-322295691.jpeg)
+![Madani Antique Villas – Affordable Romantic Private Pool Vil](https://images.gobaligo.id/images/2026-03/1774359542577-322295691.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359543362-163696211.jpeg)
+![Madani Antique Villas – Affordable Romantic Private Pool Vil](https://images.gobaligo.id/images/2026-03/1774359543362-163696211.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359543769-322295861.jpeg)
+![Madani Antique Villas – Affordable Romantic Private Pool Vil](https://images.gobaligo.id/images/2026-03/1774359543769-322295861.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359544285-322395218.jpeg)
+![Madani Antique Villas – Affordable Romantic Private Pool Vil](https://images.gobaligo.id/images/2026-03/1774359544285-322395218.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359544686-322397093.jpeg)
+![Madani Antique Villas – Affordable Romantic Private Pool Vil](https://images.gobaligo.id/images/2026-03/1774359544686-322397093.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359545088-322397125.jpeg)
+![Madani Antique Villas – Affordable Romantic Private Pool Vil](https://images.gobaligo.id/images/2026-03/1774359545088-322397125.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359545458-333254441.jpeg)
+![Madani Antique Villas – Affordable Romantic Private Pool Vil](https://images.gobaligo.id/images/2026-03/1774359545458-333254441.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359545809-374758928.jpeg)
+![Madani Antique Villas – Affordable Romantic Private Pool Vil](https://images.gobaligo.id/images/2026-03/1774359545809-374758928.jpeg)
 
 Looking for an affordable romantic getaway in Ubud? Madani Antique Villas is the perfect choice! This spacious and private Bali-style villa, infused with romantic elements, is nestled in a picturesque rural setting yet surprisingly affordable, making it ideal for honeymoons or couples' trips.
 
@@ -352,21 +352,21 @@ The villa's wooden structure, complemented by lattice details, exudes charm and 
 
 ## Airsania Ubud Antique Villas – Embrace Nature's Perfect Private Pool Villas for Couples
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359602858-372926347.jpeg)
+![Airsania Ubud Antique Villas – Embrace Nature's Perfect Priv](https://images.gobaligo.id/images/2026-03/1774359602858-372926347.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359603316-372926346.jpeg)
+![Airsania Ubud Antique Villas – Embrace Nature's Perfect Priv](https://images.gobaligo.id/images/2026-03/1774359603316-372926346.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359603793-372927204.jpeg)
+![Airsania Ubud Antique Villas – Embrace Nature's Perfect Priv](https://images.gobaligo.id/images/2026-03/1774359603793-372927204.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359604205-372927820.jpeg)
+![Airsania Ubud Antique Villas – Embrace Nature's Perfect Priv](https://images.gobaligo.id/images/2026-03/1774359604205-372927820.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359604720-372937096.jpeg)
+![Airsania Ubud Antique Villas – Embrace Nature's Perfect Priv](https://images.gobaligo.id/images/2026-03/1774359604720-372937096.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359605231-372937756.jpeg)
+![Airsania Ubud Antique Villas – Embrace Nature's Perfect Priv](https://images.gobaligo.id/images/2026-03/1774359605231-372937756.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359605630-385611740.jpeg)
+![Airsania Ubud Antique Villas – Embrace Nature's Perfect Priv](https://images.gobaligo.id/images/2026-03/1774359605630-385611740.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359606012-385612669.jpeg)
+![Airsania Ubud Antique Villas – Embrace Nature's Perfect Priv](https://images.gobaligo.id/images/2026-03/1774359606012-385612669.jpeg)
 
 Airsania Ubud Antique Villas is a stunning four-star accommodation known for its friendly customer service. It features three private villas built in traditional Javanese architectural style, offering a warm and comfortable stay.
 
@@ -382,25 +382,25 @@ The villa boasts high wooden ceilings, stone and wooden walls, and wooden floori
 
 ## Ume Sri Villas Ubud – Affordable Pool Villas for Couples
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359648227-116437194.jpeg)
+![Ume Sri Villas Ubud – Affordable Pool Villas for Couples](https://images.gobaligo.id/images/2026-03/1774359648227-116437194.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359649042-116437197.jpeg)
+![Ume Sri Villas Ubud – Affordable Pool Villas for Couples](https://images.gobaligo.id/images/2026-03/1774359649042-116437197.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359649435-116437201.jpeg)
+![Ume Sri Villas Ubud – Affordable Pool Villas for Couples](https://images.gobaligo.id/images/2026-03/1774359649435-116437201.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359649869-116811325.jpeg)
+![Ume Sri Villas Ubud – Affordable Pool Villas for Couples](https://images.gobaligo.id/images/2026-03/1774359649869-116811325.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359650191-117312325.jpeg)
+![Ume Sri Villas Ubud – Affordable Pool Villas for Couples](https://images.gobaligo.id/images/2026-03/1774359650191-117312325.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359650558-117312326.jpeg)
+![Ume Sri Villas Ubud – Affordable Pool Villas for Couples](https://images.gobaligo.id/images/2026-03/1774359650558-117312326.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359650957-117312327.jpeg)
+![Ume Sri Villas Ubud – Affordable Pool Villas for Couples](https://images.gobaligo.id/images/2026-03/1774359650957-117312327.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359651377-117312328.jpeg)
+![Ume Sri Villas Ubud – Affordable Pool Villas for Couples](https://images.gobaligo.id/images/2026-03/1774359651377-117312328.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359651714-117312332.jpeg)
+![Ume Sri Villas Ubud – Affordable Pool Villas for Couples](https://images.gobaligo.id/images/2026-03/1774359651714-117312332.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359652030-117312339.jpeg)
+![Ume Sri Villas Ubud – Affordable Pool Villas for Couples](https://images.gobaligo.id/images/2026-03/1774359652030-117312339.jpeg)
 
 For a luxurious experience at an affordable price, Ume Sri Villas Ubud is your perfect choice! These modern villas are thoughtfully designed to maximize space, offering Ubud's most budget-friendly pool villas.
 
@@ -414,25 +414,25 @@ For a luxurious experience at an affordable price, Ume Sri Villas Ubud is your p
 
 ## Jungleight Bali - Light Luxury Bamboo Villa
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359687420-504214154.jpg)
+![Jungleight Bali - Light Luxury Bamboo Villa](https://images.gobaligo.id/images/2026-03/1774359687420-504214154.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359688053-504214368.jpg)
+![Jungleight Bali - Light Luxury Bamboo Villa](https://images.gobaligo.id/images/2026-03/1774359688053-504214368.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359688457-504214401.jpg)
+![Jungleight Bali - Light Luxury Bamboo Villa](https://images.gobaligo.id/images/2026-03/1774359688457-504214401.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359688859-504214431.jpg)
+![Jungleight Bali - Light Luxury Bamboo Villa](https://images.gobaligo.id/images/2026-03/1774359688859-504214431.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359689373-504214513.jpg)
+![Jungleight Bali - Light Luxury Bamboo Villa](https://images.gobaligo.id/images/2026-03/1774359689373-504214513.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359689784-504214543.jpg)
+![Jungleight Bali - Light Luxury Bamboo Villa](https://images.gobaligo.id/images/2026-03/1774359689784-504214543.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359690196-504522417.jpg)
+![Jungleight Bali - Light Luxury Bamboo Villa](https://images.gobaligo.id/images/2026-03/1774359690196-504522417.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359690599-504522525.jpg)
+![Jungleight Bali - Light Luxury Bamboo Villa](https://images.gobaligo.id/images/2026-03/1774359690599-504522525.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359690940-504612186.jpg)
+![Jungleight Bali - Light Luxury Bamboo Villa](https://images.gobaligo.id/images/2026-03/1774359690940-504612186.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359691289-504637988.jpg)
+![Jungleight Bali - Light Luxury Bamboo Villa](https://images.gobaligo.id/images/2026-03/1774359691289-504637988.jpg)
 
 **Location**｜Jungleight Bali is located in Tegallalang, 8.4 km from Ubud Palace. There are three beautiful scenic restaurants within a 10-minute walk.
 
@@ -446,25 +446,25 @@ This place is so fairytale-like and perfect for photography! Highly recommended 
 
 ## Alam Wayang Ubud - Quiet Jungle Style Close to the City
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359758341-308153567.jpg)
+![Alam Wayang Ubud - Quiet Jungle Style Close to the City](https://images.gobaligo.id/images/2026-03/1774359758341-308153567.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359758713-301781171.jpg)
+![Alam Wayang Ubud - Quiet Jungle Style Close to the City](https://images.gobaligo.id/images/2026-03/1774359758713-301781171.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359759103-301781965.jpg)
+![Alam Wayang Ubud - Quiet Jungle Style Close to the City](https://images.gobaligo.id/images/2026-03/1774359759103-301781965.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359759511-301782715.jpg)
+![Alam Wayang Ubud - Quiet Jungle Style Close to the City](https://images.gobaligo.id/images/2026-03/1774359759511-301782715.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359759923-301784049.jpg)
+![Alam Wayang Ubud - Quiet Jungle Style Close to the City](https://images.gobaligo.id/images/2026-03/1774359759923-301784049.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359760340-301788175.jpg)
+![Alam Wayang Ubud - Quiet Jungle Style Close to the City](https://images.gobaligo.id/images/2026-03/1774359760340-301788175.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359760741-406270498.jpg)
+![Alam Wayang Ubud - Quiet Jungle Style Close to the City](https://images.gobaligo.id/images/2026-03/1774359760741-406270498.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359761148-406270521.jpg)
+![Alam Wayang Ubud - Quiet Jungle Style Close to the City](https://images.gobaligo.id/images/2026-03/1774359761148-406270521.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359761563-406270545.jpg)
+![Alam Wayang Ubud - Quiet Jungle Style Close to the City](https://images.gobaligo.id/images/2026-03/1774359761563-406270545.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359761872-406270563.jpg)
+![Alam Wayang Ubud - Quiet Jungle Style Close to the City](https://images.gobaligo.id/images/2026-03/1774359761872-406270563.jpg)
 
 **Location**｜Alam Wayang Ubud - CHSE Certified is a 4-star resort located in Ubud, just 800 meters from Blanco Museum. The environment is serene, about a 10-minute drive from Ubud city center, with no noise at night, making it an ideal choice for relaxation. There are many small shops and yoga studios nearby, allowing guests to leisurely explore the surroundings.
 
@@ -476,25 +476,25 @@ This place is so fairytale-like and perfect for photography! Highly recommended 
 
 ## **Tanah Gajah, a Resort by Hadiprana - Ubud's Hidden Paradise**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359911872-148960887.jpg)
+![Tanah Gajah, a Resort by Hadiprana - Ubud's Hidden Paradise](https://images.gobaligo.id/images/2026-03/1774359911872-148960887.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359912309-49706884.jpg)
+![Tanah Gajah, a Resort by Hadiprana - Ubud's Hidden Paradise](https://images.gobaligo.id/images/2026-03/1774359912309-49706884.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359912716-148964233.jpg)
+![Tanah Gajah, a Resort by Hadiprana - Ubud's Hidden Paradise](https://images.gobaligo.id/images/2026-03/1774359912716-148964233.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359913223-148964236.jpg)
+![Tanah Gajah, a Resort by Hadiprana - Ubud's Hidden Paradise](https://images.gobaligo.id/images/2026-03/1774359913223-148964236.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359913542-148967973.jpg)
+![Tanah Gajah, a Resort by Hadiprana - Ubud's Hidden Paradise](https://images.gobaligo.id/images/2026-03/1774359913542-148967973.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359913942-148970216.jpg)
+![Tanah Gajah, a Resort by Hadiprana - Ubud's Hidden Paradise](https://images.gobaligo.id/images/2026-03/1774359913942-148970216.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359914306-148970219.jpg)
+![Tanah Gajah, a Resort by Hadiprana - Ubud's Hidden Paradise](https://images.gobaligo.id/images/2026-03/1774359914306-148970219.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359914653-269242725.jpg)
+![Tanah Gajah, a Resort by Hadiprana - Ubud's Hidden Paradise](https://images.gobaligo.id/images/2026-03/1774359914653-269242725.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359915061-484458616.jpg)
+![Tanah Gajah, a Resort by Hadiprana - Ubud's Hidden Paradise](https://images.gobaligo.id/images/2026-03/1774359915061-484458616.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359915471-508029509.jpg)
+![Tanah Gajah, a Resort by Hadiprana - Ubud's Hidden Paradise](https://images.gobaligo.id/images/2026-03/1774359915471-508029509.jpg)
 
 **Location**｜Tanah Gajah is located in Ubud, about 3 kilometers from the city center, surrounded by vast rice fields, offering travelers an excellent tranquil retreat environment. Far from the hustle and bustle, it is an ideal place for those seeking peace and relaxation.
 
@@ -510,25 +510,25 @@ Tanah Gajah combines luxury and tranquility, making it a paradise where both bod
 
 ## **Ubud Paradise Villa - A Serene Countryside Retreat**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359974522-489923166.jpg)
+![Ubud Paradise Villa - A Serene Countryside Retreat](https://images.gobaligo.id/images/2026-03/1774359974522-489923166.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359975005-422155003.jpg)
+![Ubud Paradise Villa - A Serene Countryside Retreat](https://images.gobaligo.id/images/2026-03/1774359975005-422155003.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359975382-422157225.jpg)
+![Ubud Paradise Villa - A Serene Countryside Retreat](https://images.gobaligo.id/images/2026-03/1774359975382-422157225.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359975819-448671160.jpg)
+![Ubud Paradise Villa - A Serene Countryside Retreat](https://images.gobaligo.id/images/2026-03/1774359975819-448671160.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359976330-489638478.jpg)
+![Ubud Paradise Villa - A Serene Countryside Retreat](https://images.gobaligo.id/images/2026-03/1774359976330-489638478.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359976742-489639147.jpg)
+![Ubud Paradise Villa - A Serene Countryside Retreat](https://images.gobaligo.id/images/2026-03/1774359976742-489639147.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359977183-489639295.jpg)
+![Ubud Paradise Villa - A Serene Countryside Retreat](https://images.gobaligo.id/images/2026-03/1774359977183-489639295.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359977656-490265875.jpg)
+![Ubud Paradise Villa - A Serene Countryside Retreat](https://images.gobaligo.id/images/2026-03/1774359977656-490265875.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359978054-490266838.jpg)
+![Ubud Paradise Villa - A Serene Countryside Retreat](https://images.gobaligo.id/images/2026-03/1774359978054-490266838.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359978456-496551218.jpg)
+![Ubud Paradise Villa - A Serene Countryside Retreat](https://images.gobaligo.id/images/2026-03/1774359978456-496551218.jpg)
 
 **Location**｜Ubud Paradise Villa is located in Ubud, surrounded by lush rice fields, with verdant tropical gardens and a private pool, allowing you to completely relax in nature. The villa is only 2.7 kilometers from Ubud Market and Ubud Palace, offering a quiet yet convenient location. Nearby, there are several cafes, authentic Balinese restaurants, and a gym, all just a 2-3 minute walk away.
 
@@ -542,23 +542,23 @@ Ubud Paradise Villa combines tranquility with convenience, making it an ideal re
 
 ## **Inara Alas Harum - A Hidden Paradise in the Jungle**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360028362-503284810.jpg)
+![Inara Alas Harum - A Hidden Paradise in the Jungle](https://images.gobaligo.id/images/2026-03/1774360028362-503284810.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360028740-465927763.jpg)
+![Inara Alas Harum - A Hidden Paradise in the Jungle](https://images.gobaligo.id/images/2026-03/1774360028740-465927763.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360029055-479855319.jpg)
+![Inara Alas Harum - A Hidden Paradise in the Jungle](https://images.gobaligo.id/images/2026-03/1774360029055-479855319.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360029442-479855331.jpg)
+![Inara Alas Harum - A Hidden Paradise in the Jungle](https://images.gobaligo.id/images/2026-03/1774360029442-479855331.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360029748-480812338.jpg)
+![Inara Alas Harum - A Hidden Paradise in the Jungle](https://images.gobaligo.id/images/2026-03/1774360029748-480812338.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360030133-480814904.jpg)
+![Inara Alas Harum - A Hidden Paradise in the Jungle](https://images.gobaligo.id/images/2026-03/1774360030133-480814904.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360030474-503284840.jpg)
+![Inara Alas Harum - A Hidden Paradise in the Jungle](https://images.gobaligo.id/images/2026-03/1774360030474-503284840.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360030884-503284846.jpg)
+![Inara Alas Harum - A Hidden Paradise in the Jungle](https://images.gobaligo.id/images/2026-03/1774360030884-503284846.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360031203-579913536.jpg)
+![Inara Alas Harum - A Hidden Paradise in the Jungle](https://images.gobaligo.id/images/2026-03/1774360031203-579913536.jpg)
 
 **Location**｜Inara Alas Harum is located 7.8 kilometers from Tegallalang rice fields. Although it's a bit removed from bustling areas, the hotel offers a complimentary shuttle service to Ubud city center, making it very convenient.
 
@@ -572,25 +572,25 @@ Ubud Paradise Villa combines tranquility with convenience, making it an ideal re
 
 ## Bidadari Private Villas & Retreat: World-Class Service
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360142434-130243921.jpg)
+![Bidadari Private Villas & Retreat: World-Class Service](https://images.gobaligo.id/images/2026-03/1774360142434-130243921.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360142820-151014316.jpg)
+![Bidadari Private Villas & Retreat: World-Class Service](https://images.gobaligo.id/images/2026-03/1774360142820-151014316.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360143214-201011185.jpg)
+![Bidadari Private Villas & Retreat: World-Class Service](https://images.gobaligo.id/images/2026-03/1774360143214-201011185.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360143616-201191798.jpg)
+![Bidadari Private Villas & Retreat: World-Class Service](https://images.gobaligo.id/images/2026-03/1774360143616-201191798.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360144043-201214363.jpg)
+![Bidadari Private Villas & Retreat: World-Class Service](https://images.gobaligo.id/images/2026-03/1774360144043-201214363.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360144377-201215647.jpg)
+![Bidadari Private Villas & Retreat: World-Class Service](https://images.gobaligo.id/images/2026-03/1774360144377-201215647.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360144857-_17140994.jpeg)
+![Bidadari Private Villas & Retreat: World-Class Service](https://images.gobaligo.id/images/2026-03/1774360144857-_17140994.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360145282-_130243891.jpeg)
+![Bidadari Private Villas & Retreat: World-Class Service](https://images.gobaligo.id/images/2026-03/1774360145282-_130243891.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360145674-_130243896.jpeg)
+![Bidadari Private Villas & Retreat: World-Class Service](https://images.gobaligo.id/images/2026-03/1774360145674-_130243896.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360146002-_516683475.jpeg)
+![Bidadari Private Villas & Retreat: World-Class Service](https://images.gobaligo.id/images/2026-03/1774360146002-_516683475.jpeg)
 
 **Location**｜Bidadari Private Villas & Retreat is located in the outskirts of Ubud, just a 10-minute drive from the city center. Surrounded by lush tropical greenery, this serene and beautiful setting makes it an ideal getaway, perfect for honeymooners or travelers seeking peace and quiet. However, if you plan to participate in Ubud's activities or dine at its renowned restaurants, be prepared for a commute of about 20 to 30 minutes.
 
@@ -616,21 +616,21 @@ Additionally, the Matahari Spa within the resort provides traditional Balinese m
 
 ## E Sanctuary Resort Ubud: Latest 5-Star Villa for 2024
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360266747-v6-honeymoon-setup-bed-scaled.jpg)
+![E Sanctuary Resort Ubud: Latest 5-Star Villa for 2024](https://images.gobaligo.id/images/2026-03/1774360266747-v6-honeymoon-setup-bed-scaled.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360267338-t080325-e.-sanctuary-resort-and-rain-forest-restauranta.1-20-scaled.jpg)
+![E Sanctuary Resort Ubud: Latest 5-Star Villa for 2024](https://images.gobaligo.id/images/2026-03/1774360267338-t080325-e.-sanctuary-resort-and-rain-forest-restauranta.1-20-scaled.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360267945-t080325-e.-sanctuary-resort-and-rain-forest-restauranta.1-21-scaled.jpg)
+![E Sanctuary Resort Ubud: Latest 5-Star Villa for 2024](https://images.gobaligo.id/images/2026-03/1774360267945-t080325-e.-sanctuary-resort-and-rain-forest-restauranta.1-21-scaled.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360268490-v24-private-pool-villa-scaled.jpg)
+![E Sanctuary Resort Ubud: Latest 5-Star Villa for 2024](https://images.gobaligo.id/images/2026-03/1774360268490-v24-private-pool-villa-scaled.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360269204-v080325-e.-sanctuary-resort-and-rain-forest-restaurant-m.2-17-scaled.jpg)
+![E Sanctuary Resort Ubud: Latest 5-Star Villa for 2024](https://images.gobaligo.id/images/2026-03/1774360269204-v080325-e.-sanctuary-resort-and-rain-forest-restaurant-m.2-17-scaled.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360269734-v080325-e.-sanctuary-resort-and-rain-forest-restauranta.1-2-scaled.jpg)
+![E Sanctuary Resort Ubud: Latest 5-Star Villa for 2024](https://images.gobaligo.id/images/2026-03/1774360269734-v080325-e.-sanctuary-resort-and-rain-forest-restauranta.1-2-scaled.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360270141-vb04f0fe6905642d5d4b9b358618e5329.jpeg)
+![E Sanctuary Resort Ubud: Latest 5-Star Villa for 2024](https://images.gobaligo.id/images/2026-03/1774360270141-vb04f0fe6905642d5d4b9b358618e5329.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360270495-vf2ef614b07e6a259ee27e0695c4f3f72.jpeg)
+![E Sanctuary Resort Ubud: Latest 5-Star Villa for 2024](https://images.gobaligo.id/images/2026-03/1774360270495-vf2ef614b07e6a259ee27e0695c4f3f72.jpeg)
 
 **Location**｜Newly opened in 2024, E Sanctuary Resort Ubud is nestled in a peaceful yet convenient spot in Ubud, Bali, about a 20–30 minute drive from the city center. It’s close to famous attractions like the Sacred Monkey Forest, Tegallalang Rice Terraces, and Ubud Traditional Market, surrounded by local culinary delights and artisan villages such as Celuk (silver village) and Mas (woodcarving village), making it an ideal base to experience Balinese culture.
 
@@ -644,25 +644,25 @@ We have a detailed review available [here](/blog/e-sanctuary-resort-ubud/)
 
 ## **The Ambengan Villas Ubud by Pramana Villas** A Serene Yet Convenient Choice
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360355434-69f2625bca68d359eae19ce16c2cd065.jpeg)
+![The Ambengan Villas Ubud by Pramana Villas A Serene Yet Conv](https://images.gobaligo.id/images/2026-03/1774360355434-69f2625bca68d359eae19ce16c2cd065.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360355995-71f8d2ec8c6bf42b8cee817a6fd4c008.jpeg)
+![The Ambengan Villas Ubud by Pramana Villas A Serene Yet Conv](https://images.gobaligo.id/images/2026-03/1774360355995-71f8d2ec8c6bf42b8cee817a6fd4c008.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360356536-182f722c4b1530a8093ee637063ad49a.jpeg)
+![The Ambengan Villas Ubud by Pramana Villas A Serene Yet Conv](https://images.gobaligo.id/images/2026-03/1774360356536-182f722c4b1530a8093ee637063ad49a.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360357094-548958744.jpg)
+![The Ambengan Villas Ubud by Pramana Villas A Serene Yet Conv](https://images.gobaligo.id/images/2026-03/1774360357094-548958744.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360357561-558872149.jpg)
+![The Ambengan Villas Ubud by Pramana Villas A Serene Yet Conv](https://images.gobaligo.id/images/2026-03/1774360357561-558872149.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360357977-558872169.jpg)
+![The Ambengan Villas Ubud by Pramana Villas A Serene Yet Conv](https://images.gobaligo.id/images/2026-03/1774360357977-558872169.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360358349-562314643.jpg)
+![The Ambengan Villas Ubud by Pramana Villas A Serene Yet Conv](https://images.gobaligo.id/images/2026-03/1774360358349-562314643.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360358805-562314653.jpg)
+![The Ambengan Villas Ubud by Pramana Villas A Serene Yet Conv](https://images.gobaligo.id/images/2026-03/1774360358805-562314653.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360359319-c9c19c0e48144c9e42c8f5cdd5656c7a.jpeg)
+![The Ambengan Villas Ubud by Pramana Villas A Serene Yet Conv](https://images.gobaligo.id/images/2026-03/1774360359319-c9c19c0e48144c9e42c8f5cdd5656c7a.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360359884-d239345d1540ed321f9c749ed1a4279b.jpeg)
+![The Ambengan Villas Ubud by Pramana Villas A Serene Yet Conv](https://images.gobaligo.id/images/2026-03/1774360359884-d239345d1540ed321f9c749ed1a4279b.jpeg)
 
 **Location**｜The Ambengan Villas Ubud by Pramana Villas is located in Ubud, Bali’s cultural heart. Situated near the Sacred Monkey Forest, Tegallalang Rice Terraces, and Ubud Market, it’s an excellent starting point for exploring both natural landscapes and local culture.
 
@@ -680,7 +680,7 @@ The Ambengan Villas boasts an impressive Agoda rating of 9.6, particularly prais
 
 Attached is the detailed location & map of the Ubud villa we continuously update and introduce. [Please click here](https://www.google.com/maps/d/u/0/edit?mid=1PWEp5tMdYpPcNV-iJrhhSD70HPtxVsE&usp=sharing)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ca3457565045cc539f1b4eece34f41ec.png)
+![Location Map](https://images.gobaligo.id/vocus/vocus_ca3457565045cc539f1b4eece34f41ec.png)
 
 {{block:ubud}}
 

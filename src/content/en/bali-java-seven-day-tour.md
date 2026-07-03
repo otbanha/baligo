@@ -27,7 +27,7 @@ _srcHash: 14eb3f27b633d1ec46cbbf2fa8f905c6
 
 ## Light Luxury No-Shopping 7-Day In-Depth Tour ⭐⭐
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cfb6a91de0086e699c1e44388be48b2b.jpg)
+![Light Luxury No-Shopping 7-Day In-Depth Tour](https://images.gobaligo.id/vocus/vocus_cfb6a91de0086e699c1e44388be48b2b.jpg)
 
 If you're seeking a **truly relaxing journey filled with world-class wonders**, this 7-day light luxury itinerary combining the best of Bali and Java, visiting **Indonesia's three major UNESCO World Heritage Sites**, will be an unforgettable experience.
 
@@ -49,7 +49,7 @@ The itinerary uniquely connects two of Indonesia's most popular tourist islands,
 
 ### Omma Dayclub
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775403717337-omma-day-club-instagram-omma-day-club_169.jpeg)
+![Omma Dayclub](https://images.gobaligo.id/images/2026-04/1775403717337-omma-day-club-instagram-omma-day-club_169.jpeg)
 
 **Omma Dayclub** is located in front of Bali's famous Tegenungan Waterfall, making it one of the few places in the world where you can enjoy a resort atmosphere while being up close to a waterfall. Combining a pool, dining, and natural scenery, it offers a relaxing experience surrounded by the sound of water and lush greenery.
 
@@ -59,7 +59,7 @@ Its biggest feature is its unparalleled location, with the waterfall cascading r
 
 **Jatiluwih Rice Terraces** are located in the mountainous region of central Bali and are one of the largest and most spectacular rice terrace landscapes on the island. The layered rice fields stretch along the mountainside, offering a vast and serene view that showcases the purest essence of Bali's countryside.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_62472c1caf4010fa626e962ecce877ef.jpg)
+![Jatiluwih Rice Terraces](https://images.gobaligo.id/vocus/vocus_62472c1caf4010fa626e962ecce877ef.jpg)
 
 This area is listed as a **UNESCO World Heritage Site**, representing the wisdom of Bali's traditional 'Subak' irrigation system. The perfect fusion of natural scenery and millennia-old agricultural culture makes Jatiluwih one of Bali's most representative and unique landmarks.
 
@@ -67,7 +67,7 @@ This area is listed as a **UNESCO World Heritage Site**, representing the wisdom
 
 Set sail early in the morning to chase wild dolphins leaping out of the sea.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_140b7005ea4564d8e14f8d3a2793e738.jpg)
+![Chasing Sunrise and Dolphins, Embracing Bali's Gentle Mornin](https://images.gobaligo.id/vocus/vocus_140b7005ea4564d8e14f8d3a2793e738.jpg)
 
 Lovina has become one of Bali's most famous dolphin-watching spots because the waters here are relatively calm, the chances of spotting dolphins are high, and their activities are natural and undisturbed by human interference. Unlike the chase-style tours at large tourist ports, this experience feels more like **a quiet morning encounter with nature**.
 
@@ -79,7 +79,7 @@ For many travelers, the sunrise and dolphins in Lovina are among the gentlest an
 
 Ulun Danu Beratan Temple is located on the shores of Lake Bratan and is one of Bali’s most iconic lake temples. The temple appears to float on the water, surrounded by mountains and mist, creating a serene and dreamlike scene that has become a classic and recognizable landmark of Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_326dbb72d243961e8dca8f15de8c3044.jpg)
+![Ulun Danu Beratan Temple, Bali](https://images.gobaligo.id/vocus/vocus_326dbb72d243961e8dca8f15de8c3044.jpg)
 
 Not only is Ulun Danu Beratan an important religious site, but it is also featured on Indonesian currency, symbolizing its national significance and cultural value. The unique combination of lake, faith, and natural landscape makes Ulun Danu Beratan one of Indonesia’s most representative landmarks.
 
@@ -91,9 +91,9 @@ Not only is Ulun Danu Beratan an important religious site, but it is also featur
 
 Borobudur is not only Indonesia’s most symbolic landmark but also a UNESCO World Heritage Site and one of the largest and best-preserved Buddhist temple ruins in the world.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bacb4fd337c601bc015b2897a79573b2.jpg)
+![Explore Yogyakarta and Visit the World Heritage Site: Borobu](https://images.gobaligo.id/vocus/vocus_bacb4fd337c601bc015b2897a79573b2.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_67953b67edf91cd45797585e2efa87e5.jpg)
+![Explore Yogyakarta and Visit the World Heritage Site: Borobu](https://images.gobaligo.id/vocus/vocus_67953b67edf91cd45797585e2efa87e5.jpg)
 
 The layered reliefs and stupas record the faith and wisdom of a thousand years ago. Only by being there in person can one truly feel its solemnity and awe.
 
@@ -101,7 +101,7 @@ The layered reliefs and stupas record the faith and wisdom of a thousand years a
 
 **Prambanan Temple**, the largest and most representative Hindu temple complex in Indonesia, is also listed as a **UNESCO World Cultural Heritage Site**. The towering spires of the temple complex stand majestically on the plains, with clean and solemn lines showcasing the extraordinary architectural aesthetics of ancient Javanese civilization.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e03ec488508284f45fb35891bb21089.jpg)
+![Prambanan Temple｜A Unique World of Stone-Carved Mythology](https://images.gobaligo.id/vocus/vocus_4e03ec488508284f45fb35891bb21089.jpg)
 
 The temple walls are adorned with intricate bas-reliefs, delicately depicting Hindu epics and mythological stories, resembling a historical scroll written in stone. The perfect fusion of religious beliefs, artistic carvings, and architectural craftsmanship makes Prambanan one of Yogyakarta's most unique and world-class cultural landmarks.
 
@@ -111,7 +111,7 @@ The temple walls are adorned with intricate bas-reliefs, delicately depicting Hi
 
 Descend deep into the Jomblang Cave, vertically entering the heart of the earth.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c1964d7aff23b6770f5d56f2f8dcd391.jpg)
+![Jomblang Cave: The Light of Heaven, a Wonder to See at Least](https://images.gobaligo.id/vocus/vocus_c1964d7aff23b6770f5d56f2f8dcd391.jpg)
 
 When sunlight pours down from the cave ceiling, creating the legendary 'Light of Heaven,' it feels like stepping into a movie scene, making it a dream sight for photography enthusiasts and adventurous travelers.
 
@@ -119,7 +119,7 @@ When sunlight pours down from the cave ceiling, creating the legendary 'Light of
 
 Pindul Cave is a natural cave filled with clear, gently flowing water. Floating on a tube, moving along with the current, offers a non-thrilling, non-bumpy, and very relaxing cave exploration experience. The soft light and tranquil atmosphere inside the cave allow visitors to peacefully enjoy the beauty of nature.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_61722699493234c35cc910cf47e68888.jpg)
+![Pindul Cave Tubing: A Relaxing and Healing Water Cave Experi](https://images.gobaligo.id/vocus/vocus_61722699493234c35cc910cf47e68888.jpg)
 
 ***
 
@@ -127,7 +127,7 @@ Pindul Cave is a natural cave filled with clear, gently flowing water. Floating 
 
 What is most awe-inspiring about **Ijen Volcano** is not the fiery lava during an eruption, but the **blue flames** that quietly burn in the depths of the night. This phenomenon is extremely rare worldwide, and Ijen Volcano is one of the few places where you can witness this natural wonder firsthand.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_925eed199d66b8736fed1a6d9634da1e.jpg)
+![Ijen Volcano Blue Flames: A Miracle Burning in the Night](https://images.gobaligo.id/vocus/vocus_925eed199d66b8736fed1a6d9634da1e.jpg)
 
 Hiking through the night, seeing the blue flames flowing and flickering among the rocky walls, resembling a river of blue lava, creates a mysterious and breathtaking scene. The awe and emotion it evokes are absolutely worth experiencing in person.
 
@@ -135,7 +135,7 @@ Hiking through the night, seeing the blue flames flowing and flickering among th
 
 Sewu Waterfall is renowned for its majestic presence, with multiple streams cascading down simultaneously, creating a thunderous spectacle.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_59771de885d64f278da9c76684ab069d.jpg)
+![Sewu Waterfall, One of Indonesia's Most Spectacular Waterfal](https://images.gobaligo.id/vocus/vocus_59771de885d64f278da9c76684ab069d.jpg)
 
 Standing before the waterfall, you can feel the raw power of nature, completely immersing yourself in the moment.
 
@@ -143,7 +143,7 @@ Standing before the waterfall, you can feel the raw power of nature, completely 
 
 Climb to the viewpoint in the early morning and await the sunrise.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1b5cfc15bfd61681b9fbd1e1adb5655.jpg)
+![Mount Bromo Sunrise, an Epic Scene Among the Volcanoes](https://images.gobaligo.id/vocus/vocus_a1b5cfc15bfd61681b9fbd1e1adb5655.jpg)
 
 As the sun slowly rises, illuminating the Mount Bromo range and the sea of clouds, the scene feels like stepping into a National Geographic moment—a truly unforgettable experience.
 
@@ -191,7 +191,7 @@ You'll realize this isn't just a trip, but a beautiful memory you'll revisit tim
 
 📩 Contact customer service now to confirm your departure date
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775403717337-omma-day-club-instagram-omma-day-club_169.jpeg)
+![Book Now for a Journey Worth Remembering for a Lifetime](https://images.gobaligo.id/images/2026-04/1775403717337-omma-day-club-instagram-omma-day-club_169.jpeg)
 
 {{block:tour-form-wonders}}
 

@@ -108,7 +108,7 @@ Pertunjukan Lampu (Dokumentasi Johnny Wei)
 
 Catatan Redaksi: Di The Cave juga ada day club kolam renang tebing yang jadi destinasi wajib di sini, lho!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a41f7059b9d933b43ebc4cfd56684828.png)
+![The Cave Restaurant, Makan Malam Impian yang Wajib Dicoba Se](https://images.gobaligo.id/vocus/vocus_a41f7059b9d933b43ebc4cfd56684828.png)
 
 [探索Oneeighty Day Club：Bali悬崖边的泳池极致美景](/blog/oneeighty-dayclub-uluwatu-pool/)
 

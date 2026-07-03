@@ -51,7 +51,7 @@ _srcHash: 436e18b361153a8ee720118766439d05
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_de7cab4b2e1639fa6a19b826f78c172b.jpg)
+![误区二：每天都写「雷雨」，是不是每天都会下到爆？](https://images.gobaligo.id/vocus/vocus_de7cab4b2e1639fa6a19b826f78c172b.jpg)
 
 ## 📸 小技巧：善用天气预报时间轴
 
@@ -82,6 +82,6 @@ _srcHash: 436e18b361153a8ee720118766439d05
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_09e4e66f29ac27a468ecc350cf0c839d.png)
+![小总结：天气预报不要看图吓自己！](https://images.gobaligo.id/vocus/vocus_09e4e66f29ac27a468ecc350cf0c839d.png)
 
 如果真的担心下雨天影响行程，【[雨天的60个备选景点推荐](/blog/2026-bali-indoor-activities/)】，赶快收藏起来吧！

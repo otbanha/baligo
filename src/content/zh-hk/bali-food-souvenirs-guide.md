@@ -20,7 +20,7 @@ _srcHash: db1dde478f0454c3c4caee51548e8a62
 
 喺呢一集入面，我哋會帶大家一窺峇里島必買嘅零食手信，總共有六項推介，每一樣都係香港難以搵到嘅美味佳餚！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c8fe13b748804b43b366d08d4fab4f51.png)
+![峇里島美食手信推介！行家推薦六款當地特色美食](https://images.gobaligo.id/vocus/vocus_c8fe13b748804b43b366d08d4fab4f51.png)
 
 首先，我哋特登參考咗印尼峇里島嘅官方旅遊網站，以確保提供俾觀眾嘅推介都係當地嘅特色美食。經過深入研究之後，我哋去咗一間被當地人稱為「行家」嘅手信專門店。呢間店嘅產品唔單止喺當地銷售量幾高，更加喺拍賣官網上擁有最熱銷嘅幾個品項，絕對係有銷量保證嘅好選擇！
 
@@ -28,5 +28,5 @@ _srcHash: db1dde478f0454c3c4caee51548e8a62
 
 請睇小傑同小傑爸嘅介紹 (如影片冇顯示[請點呢度](https://youtu.be/4EzO1rpSMic?si=jRNSvt4ar5KU_U60))：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7b88e2ef3c0369dbdd5c48cbdd9067d3.png)
+![峇里島美食手信推介！行家推薦六款當地特色美食](https://images.gobaligo.id/vocus/vocus_7b88e2ef3c0369dbdd5c48cbdd9067d3.png)
 

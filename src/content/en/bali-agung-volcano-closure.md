@@ -22,7 +22,7 @@ _srcHash: a3a7e3af1823f7e124ec1425d964dca6
 
 Bali's highest peak, the sacred Mount Agung, will be temporarily closed from October 1 to November 30. During this period, neither tourists nor locals will be allowed to enter Mount Agung, as the local community will be conducting a major religious ceremony that occurs once every decade.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7d1b23f13bb45f8f4090e3555ac1a358.png)
+![Mount Agung, Bali's Sacred Volcano, Closed to Visitors for T](https://images.gobaligo.id/vocus/vocus_7d1b23f13bb45f8f4090e3555ac1a358.png)
 
 Mount Agung is one of Bali's most spiritual landmarks and also an active volcano. Every year, large numbers of tourists set out in the early hours to witness the magnificent sunrise from its summit. However, for Bali's Hindu community, Mount Agung is more than just a volcano—it is a sacred site that must be respected according to tradition and religious practices.
 
@@ -36,7 +36,7 @@ However, in the past, some hikers have ignored the closure and secretly attempte
 
 While the closure of Mount Agung for these two months may disappoint many tourists, Bali offers other famous peaks that remain open, such as Mount Batur and Mount Batukaru. On a clear day, you can even enjoy a stunning view of Mount Agung from the summit of Mount Batur!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1efeaab1b55ccb879580aa7b6c6fac01.png)
+![Mount Agung, Bali's Sacred Volcano, Closed to Visitors for T](https://images.gobaligo.id/vocus/vocus_1efeaab1b55ccb879580aa7b6c6fac01.png)
 
 Additionally, **always hire a local guide** when hiking, whether you're tackling a major peak or a smaller one. While Bali's mountains aren't as high as the Himalayas or the Alps, the trails can be challenging and poorly marked. Every month, local rescue teams are called to assist lost or injured hikers.
 
@@ -46,7 +46,7 @@ Therefore, for safety reasons and to respect local culture, remember to follow t
 
 📩 **Join the 'Bali Travel Guide' Blog Now and Become a Bali Travel Expert!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Sign Up for Our Blog](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **By subscribing for free, you'll get:**
 

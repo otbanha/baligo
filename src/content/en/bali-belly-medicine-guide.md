@@ -17,7 +17,7 @@ lang: en
 _srcHash: b2b3157087be1bc95f5a016766e79610
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4d4eba54aefdb7fa2355dfd2cba7bd0b.png)
+![How to Self-Treat Bali Belly? A Guide to Relief Medications ](https://images.gobaligo.id/vocus/vocus_4d4eba54aefdb7fa2355dfd2cba7bd0b.png)
 
 After arriving in Bali, what you fear most isn't getting sunburned, but the sudden onset of **Bali Belly**. Whether it's due to food intolerance, bacterial infection, or a sensitive stomach, when symptoms strike, they can really ruin your trip. This article provides a comprehensive list of self-help remedies you can find at local pharmacies in Bali, covering everything from rehydration to stopping diarrhea, reducing fever, and when to seek medical attention. With this guide, you'll be prepared and won't panic when faced with such situations!
 
@@ -29,7 +29,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 1. Oral Rehydration Salts (ORS) – The Core Treatment
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a81dcdb7ad41f0217c48c227f3d2376a.jpg)
+![1. Oral Rehydration Salts (ORS) – The Core Treatment](https://images.gobaligo.id/vocus/vocus_a81dcdb7ad41f0217c48c227f3d2376a.jpg)
 
 · Function: Prevents and corrects dehydration caused by diarrhea, which is more important than simply stopping diarrhea.
 
@@ -39,7 +39,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 2. Anti-Diarrheal Medication (Adsorbents) – For Mild Diarrhea
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_29f49f8dcdb2f01829087cc9573e464d.jpg)
+![2. Anti-Diarrheal Medication (Adsorbents) – For Mild Diarrhe](https://images.gobaligo.id/vocus/vocus_29f49f8dcdb2f01829087cc9573e464d.jpg)
 
 · Function: Adsorbs bacteria and toxins in the intestines, alleviates symptoms, not intended as primary treatment.
 
@@ -49,7 +49,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 3. Anti-diarrheal (Anti-motility) – For emergency use
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f236c2f98d598a09ea38642c11f57cad.jpg)
+![3. Anti-diarrheal (Anti-motility) – For emergency use](https://images.gobaligo.id/vocus/vocus_f236c2f98d598a09ea38642c11f57cad.jpg)
 
 · Function: Strongly controls diarrhea frequency, only for short-term emergency use (e.g., long-distance travel).
 
@@ -59,7 +59,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 4. Pain reliever/Fever reducer
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a30fbcb9351a7bd327b8c2e225f94572.jpg)
+![4. Pain reliever/Fever reducer](https://images.gobaligo.id/vocus/vocus_a30fbcb9351a7bd327b8c2e225f94572.jpg)
 
 · Function: Relieves abdominal pain and fever.
 
@@ -69,7 +69,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 5. Gastrointestinal Antispasmodic
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f1999375de63a55c0537c176c31bd193.jpg)
+![5. Gastrointestinal Antispasmodic](https://images.gobaligo.id/vocus/vocus_f1999375de63a55c0537c176c31bd193.jpg)
 
 · Scopma Plu (hyoscine) → Directly relaxes gastrointestinal smooth muscles, alleviating cramps
 

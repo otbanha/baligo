@@ -21,7 +21,7 @@ _srcHash: 84ececc9b39ba24adafaf96dd6ce4764
 
 峇里島嘅交通真係變幻莫測，尤其係由烏布去機場呢條路線，隨時會遇到宗教儀式、突然塞車或者道路維修，令到呢段唔算遠嘅路程變得難以預測。為咗確保唔會錯過航班，呢篇文章會為你提供由烏布去峇里島國際機場嘅完整行程安排同時間管理建議，令你嘅最後一日唔單止充滿彈性，仲可以輕鬆掌控。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_db0768c5c03e273249cef15e302ea65c.jpg)
+![由烏布去峇里島國際機場要幾耐？點準備先唔會錯過航班？](https://images.gobaligo.id/vocus/vocus_db0768c5c03e273249cef15e302ea65c.jpg)
 
 呢篇文章會帶你由準備接送車輛到掌握時間嘅各個細節，尤其係由烏布去峇里島國際機場嘅路線同彈性安排，令你喺旅程嘅最後一日可以放心悠遊。
 
@@ -53,7 +53,7 @@ _srcHash: 84ececc9b39ba24adafaf96dd6ce4764
 
 庫塔雖然係旅客最鍾意嘅熱鬧地段之一，但係佢嘅主街多數係**單行道**，而且條路好窄，車流量又大，出入都幾麻煩。最常見嘅情況就係「入去容易出嚟難」，一入咗車陣，可能會嚴重影響行程時間。建議你喺庫塔遊覽嘅時候，盡量避開圖中標示嘅紅色框框內嘅區域，以免耽誤去機場嘅時間。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc53a99dd4d849d764bced07ef0cec43.jpg)
+![避開庫塔嘅特定地區](https://images.gobaligo.id/vocus/vocus_bc53a99dd4d849d764bced07ef0cec43.jpg)
 
 ***
 
@@ -63,7 +63,7 @@ _srcHash: 84ececc9b39ba24adafaf96dd6ce4764
 
 ## 更多庫塔吃喝玩樂介紹
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
+![更多庫塔吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
 
 [庫塔攻略請點我](/blog/2023-12-13-657598bdfd8978000120fe20/)
 
@@ -110,7 +110,7 @@ _srcHash: 84ececc9b39ba24adafaf96dd6ce4764
 
 ## 更多金巴蘭吃喝玩樂介紹
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c81d870630ca07dead1d2e8614f923c4.jpg)
+![更多金巴蘭吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_c81d870630ca07dead1d2e8614f923c4.jpg)
 
 [金巴蘭完整攻略請點我](/blog/jimbaran-guide/)
 

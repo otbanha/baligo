@@ -20,7 +20,7 @@ lang: en
 _srcHash: a33e6f46bb67db97ecc619d69d4f5bc4
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_38647df609dcb467b362b277fb732075.jpg)
+![The Best Affordable Restaurant in Tanjung Benoa, Bali: Atlic](https://images.gobaligo.id/vocus/vocus_38647df609dcb467b362b277fb732075.jpg)
 
 When you're in Tanjung Benoa or Nusa Dua, you absolutely can't miss the amazing affordable restaurant Atlichnaya. This hidden gem tucked away on a street corner is renowned among travelers for its exceptional flavors, friendly atmosphere, and incredible value for money. It's a highly recommended dining spot in the Tanjung Benoa/Nusa Dua area.
 

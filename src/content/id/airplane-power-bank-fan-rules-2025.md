@@ -26,7 +26,7 @@ _srcHash: 556657c7c4385faeb880a9bced4baeb9
 
 Saat naik pesawat, bawa power bank dan kipas leher yang ada baterainya memang harus patuh sama aturan keselamatan penerbangan tertentu. Ini dia panduan buat dua barang tersebut:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0f872f41d331409831d5203d1221cea7.png)
+![Power bank / USB fan portable & kipas leher — boleh dibawa k](https://images.gobaligo.id/vocus/vocus_0f872f41d331409831d5203d1221cea7.png)
 
 ---
 

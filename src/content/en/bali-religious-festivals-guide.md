@@ -19,7 +19,7 @@ lang: en
 _srcHash: 66a6e7a50d3286b9bb5d9b872752e6c5
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7fe2ad940dc8947435d192f8fe2e8ec3.jpg)
+![Bali Traditional Festivals: A Guide to Bali's Religious Cele](https://images.gobaligo.id/vocus/vocus_7fe2ad940dc8947435d192f8fe2e8ec3.jpg)
 
 Bali is celebrated as one of the most culturally enchanting travel destinations globally, with a profound cultural tradition. Local communities uphold these traditions while keeping the island vibrant and modern. A journey to Bali is more than just sightseeing; it may bring profound inspiration and transformation to your life.
 
@@ -31,7 +31,7 @@ Recently, Bali concluded the celebrations of Galungan and Kuningan, two festival
 
 **January 17, 2026**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d8f4c797ffa77431e43cf8aec8a9ee69.jpg)
+![Hari Siwa Ratri](https://images.gobaligo.id/vocus/vocus_d8f4c797ffa77431e43cf8aec8a9ee69.jpg)
 
 Balinese believe that on this day, Lord Shiva forgives the sins of those who meditate in His honor. Part of these rituals includes abstaining from certain activities, such as sleeping and eating. Staying awake all night, known as 'Jagra,' and fasting, called 'Upawasa,' are accompanied by maintaining silence throughout the event, referred to as 'Monabrata.' Fasting, staying awake, and maintaining silence are seen as three key levels of self-restraint, typically lasting 36 hours.
 
@@ -53,7 +53,7 @@ In the days leading up to Nyepi, lively purification ceremonies like Melasti tak
 
 Galungan and Kuningan are major festivals in Bali’s calendar, spanning ten days and symbolizing the battle between good and evil. They are seen as a bridge between the living and the spirits of ancestors. Balinese believe that during Galungan, ancestral spirits return to the island to reunite with the living. Families honor their ancestors with offerings, prayers, and devotion, seeking their blessings. The history of Galungan dates back to ancient Javanese texts from the 9th century.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b1a8c54e8548c1e5bac37440bf5200d1.jpg)
+![Galungan and Kuningan](https://images.gobaligo.id/vocus/vocus_b1a8c54e8548c1e5bac37440bf5200d1.jpg)
 
 In 2025, Galungan & Kuningan will occur twice. During this period, you’ll see numerous Penjor (ornately decorated tall bamboo poles) across the island, symbolizing prayers for abundance and devotion. At homes and temples, offerings called 'Banten' are meticulously prepared to thank the gods and ancestors. Ten days later, Kuningan marks the departure of ancestral spirits, symbolized by yellow rice and decorations representing prosperity. During these festivals, locals return to their hometowns to reunite with family and prepare traditional dishes like Lawar and Babi Guling, filling the air with festive spirit in both social and spiritual gatherings.
 
@@ -65,7 +65,7 @@ It’s worth noting that if you plan to visit Bali during this time, many local 
 
 **October 7, 2025 | September 27, 2026**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4a95e8af75a39af7fa9ae53d359af247.png)
+![Nyepi Laut (Ocean Day of Silence)](https://images.gobaligo.id/vocus/vocus_4a95e8af75a39af7fa9ae53d359af247.png)
 
 Nyepi Laut, also known as the 'Ocean Day of Silence,' is an annual special festival observed on Nusa Penida, Nusa Lembongan, and Nusa Ceningan. On this day, all marine activities come to a complete halt, ports are closed, and fishermen and tourists are asked to cease any activities at sea. The local community holds deep reverence and dependence on the ocean, and Nyepi Laut is a way to give the sea a day of 'rest,' free from daily human interference, allowing it to naturally restore and balance itself.
 
@@ -79,7 +79,7 @@ If you plan to visit the Nusa Islands during Nyepi Laut, it’s advisable to pla
 
 **Customized by each village temple**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c1e82e48c5ec0a4832664aca2d8ace9a.jpg)
+![Odalan Temple Anniversary Ceremony](https://images.gobaligo.id/vocus/vocus_c1e82e48c5ec0a4832664aca2d8ace9a.jpg)
 
 The Odalan festival marks the anniversary of a temple and holds significant importance in Bali’s spiritual and cultural life. Based on Bali’s 210-day Pawukon calendar, many temples celebrate this occasion once or even multiple times a year.
 

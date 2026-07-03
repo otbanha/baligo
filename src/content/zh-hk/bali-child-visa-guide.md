@@ -17,7 +17,7 @@ _srcHash: a8fcf57b28bcf092b8f65bca6b56ace2
 
 帶住小朋友去峇里島度假係好多家庭嘅夢想行程。不過出發之前，關於簽證嘅問題總係令家長好頭痛，尤其係「兩歲小朋友要辦咩簽證？」、「全家人要一齊排隊落地簽嗎？」呢類問題。呢篇文章會為你解答所有疑問，令你嘅家族旅行從入境開始就順順利利！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b12e310451ce513776f9b8ae272b6ee.png)
+![峇里島家族旅遊：兒童簽證完整攻略](https://images.gobaligo.id/vocus/vocus_9b12e310451ce513776f9b8ae272b6ee.png)
 
 ## 兩歲小朋友可以辦電子簽證嗎？
 
@@ -56,7 +56,7 @@ _srcHash: a8fcf57b28bcf092b8f65bca6b56ace2
 
 ## 峇里島機場入境實戰經驗分享
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf7e7e7e9e394b75fc46a3b7bffd0242.png)
+![峇里島機場入境實戰經驗分享](https://images.gobaligo.id/vocus/vocus_bf7e7e7e9e394b75fc46a3b7bffd0242.png)
 
 根據社團網友嘅實際經驗，峇里島機場嘅入境流程已經非常現代化同人性化。以下係帶住小朋友入境嘅實際情況：
 
@@ -80,7 +80,7 @@ _srcHash: a8fcf57b28bcf092b8f65bca6b56ace2
 
 一位去峇里島嘅家長分享：「海關人員見到我一家人得一個小朋友用唔到自動通關，即刻帶小朋友去旁邊嘅專屬櫃台辦理，效率好高，完全唔使排隊。」
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_76c9b5544365f93581cd66180920e6d7.png)
+![未滿6歲嘅小朋友點算？](https://images.gobaligo.id/vocus/vocus_76c9b5544365f93581cd66180920e6d7.png)
 
 ## 申請電子簽證嘅步驟
 
@@ -90,7 +90,7 @@ _srcHash: a8fcf57b28bcf092b8f65bca6b56ace2
 4. **線上付款**：每人**50萬印尼盾**，可以用信用卡支付\*\*(刷卡有手續費)\*\*
 5. **收取簽證**：通常12小時內會收到電子簽證，記得列印或者存喺手機度
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a0603b99fe6343a76c317f76555a027a.png)
+![申請電子簽證嘅步驟](https://images.gobaligo.id/vocus/vocus_a0603b99fe6343a76c317f76555a027a.png)
 
 **延伸閱讀:** [印尼峇里島入境使用「All Indonesia」入境卡｜1分鐘搞掂最新流程：落機→過海關→拎行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
 
@@ -115,7 +115,7 @@ _srcHash: a8fcf57b28bcf092b8f65bca6b56ace2
 ✅ **善用自動通關** - 6歲以上成員快速入境，未滿6歲有專屬通道
 ✅ **唔使擔心** - 機場人員友善專業，會協助帶小朋友嘅家庭
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_73f1a040162a13ae8da89393c144d3ba.png)
+![總結建議](https://images.gobaligo.id/vocus/vocus_73f1a040162a13ae8da89393c144d3ba.png)
 
 峇里島嘅入境系統已經非常完善同人性化，只要事前做好準備，帶住小朋友入境都可以輕鬆又順利。帶小朋友嘅家庭唔好忘記參考我哋嘅家庭親子專欄喔！祝你哋有個美好嘅家庭假期！
 

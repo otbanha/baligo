@@ -42,7 +42,7 @@ Fasilitas Mookiland berasal dari penyedia taman bermain kelas dunia, dan trampol
 
 Mookiland Family Park adalah salah satu taman bermain anak terbesar di Bali, menawarkan berbagai fasilitas seru tanpa henti. Baik itu dinding panjat, lintasan rintangan, atau istana lompat, setiap anak bisa menemukan tempat bahagianya di sini. Selain itu, ada area semi-tertutup seluas 500 meter persegi yang cocok untuk bermain saat cuaca panas atau hujan, dijamin keseruannya nggak berhenti.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_271eb09d4df21b35bff35f9edacbc5a9.jpg)
+![Taman Bermain Terbesar di Bali](https://images.gobaligo.id/vocus/vocus_271eb09d4df21b35bff35f9edacbc5a9.jpg)
 
 {{block:smk}}
 
@@ -88,6 +88,6 @@ Mookiland Park punya standar keamanan tinggi, termasuk pemeriksaan keamanan hari
 
 [Situs Resmi](https://balimookilandpark.com/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9df33aa1b982e28e4665ce236adfd948.jpg)
+![Pertanyaan Umum (FAQs)](https://images.gobaligo.id/vocus/vocus_9df33aa1b982e28e4665ce236adfd948.jpg)
 
 {{block:親子}}

@@ -33,7 +33,7 @@ Bali kembali membuktikan posisinya yang tak tergoyahkan dengan meraih penghargaa
 
 ## **Bali Jadi Juara Destinasi Romantis: Kalahkan Banyak Pesaing Internasional**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_af426de64cc37e8302ca86645a9ec988.png)
+![Bali Jadi Juara Destinasi Romantis: Kalahkan Banyak Pesaing ](https://images.gobaligo.id/vocus/vocus_af426de64cc37e8302ca86645a9ec988.png)
 
 Dalam 'World Travel Awards' 2024, Bali berhasil mengalahkan banyak destinasi wisata terkenal dunia, termasuk Gurun Atacama (Chili), Saint Lucia, Seychelles, Bahama, serta Kepulauan Turks dan Caicos, untuk menjadi destinasi wisata paling romantis di dunia.
 

@@ -15,7 +15,7 @@ lang: zh-hk
 _srcHash: 71d553c79c955517996b74c129b24910
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_06359c6b865bb73af6ccde17df378b20.png)
+![七個峇里島淡季秘密：遊客錯過，本地人至愛](https://images.gobaligo.id/vocus/vocus_06359c6b865bb73af6ccde17df378b20.png)
 
 你聽過峇里島嘅呼吸嗎？
 

@@ -28,15 +28,15 @@ _srcHash: 40823dd299791964e0f0f1182e5a5ab5
 
 首先来到了热闹的水明漾，这里的繁华与现代感无疑是巴厘岛的象征之一。我选择入住了 **Indigo Seminyak** 酒店，这家酒店不仅地理位置绝佳，步行即可抵达知名的双六海滩（Double Six Beach）。每天黄昏时，点上一杯饮料，面朝海滩，静待夕阳落下的那一刻，内心有一种无比放松的平静。这样的惬意生活让人彻底忘记了日常的繁忙，宛如度假天堂。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835771159-118392087.jpeg)
+![水明漾的迷人氛围](https://images.gobaligo.id/images/2026-06/1780835771159-118392087.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835771763-212202084.jpeg)
+![水明漾的迷人氛围](https://images.gobaligo.id/images/2026-06/1780835771763-212202084.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835772181-373471619.jpeg)
+![水明漾的迷人氛围](https://images.gobaligo.id/images/2026-06/1780835772181-373471619.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835772688-5c6f62c2e91e3690f2783aa9f8c60b8a.jpeg)
+![水明漾的迷人氛围](https://images.gobaligo.id/images/2026-06/1780835772688-5c6f62c2e91e3690f2783aa9f8c60b8a.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835773221-44a9e8d668fba5907a6dc3e0cf5bb218.jpeg)
+![水明漾的迷人氛围](https://images.gobaligo.id/images/2026-06/1780835773221-44a9e8d668fba5907a6dc3e0cf5bb218.jpeg)
 
 > ▶Indigo Seminyak 订房优惠 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1220348) [Trip](https://hk.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=7599479&checkIn=2026-12-02&checkOut=2026-12-03&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-PqZeFikmCSamPh-P715icWIUYjg0usFledHHfItb4ODJrg4Hl9cYEt14HJDgE8hQxgEOowg_H7q_PMKxgZNzJ-04jpP5Sb7bCDkekE47mdKxkXMH3f0CB6ioWF49Yp5Ussv5miq5WyUyuVrEx0lEoyS3JSlayUns3pfdo988Wm3Uo6SimpxclAISArMTe_NK8EyDY2MDW2MNIzMAAKliRWeKYoWZnrKCUn5iSX5iSWpIZUFgANMdNRyix2LinKLAhKzc0sKUkFqkpLzClOBYkHpRYDZZLBgkp-QGOKoAKZ-XkQ7QYoYmGJOaWpEFcALXRLhdphXKuD6fini-Y9bdjzfEUrdscbmZubGRmgON5kQBxvWBv7iIUpOvYTC8MvYGy8PcHbxMrQxcowiZWVY0XLWcZdrDxRge6RAZa6hrpRuoYXWHc3bWeUkjc0MDAwNTQ2NdU1SLRMNDRMS9M1sTQxMzfTNbUwMTXX-HXm1oRXxkbWUqxTDjyfxq7AqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzdTZ2MDYMsqGizk02EVwlycPk7a6tIMUs6dLkOLz-9vfXJ5tYa8FkjOEyQUGHp-7cbMgr30kTD6JtSpD18M744xYAWMXI7cAowdjBGMFYwMj4ypGdi5mAyNDAaYNjIw7GP_DAOMrRpANALTIIjL2AgAA&masterhotelid_tracelogid=100051355-0a9a11ff-494676-58457&detailFilters=17|1~17~1*31|7599479~31~7599479*80|0|1~80~0*29|1~29~1|2&display=exavg&subStamp=1566&isCT=true&isFlexible=F&locale=zh-HK&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17670361) [Booking](https://booking.tpm.li/Wod9awed)
 

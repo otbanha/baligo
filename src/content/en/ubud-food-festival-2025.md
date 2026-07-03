@@ -24,7 +24,7 @@ _srcHash: b6c3c90a70fe5adfed3e51b22500afd0
 
 From May 30 to June 1, 2025, Ubud, the cultural capital of Bali, Indonesia, will host the 10th **Ubud Food Festival**, becoming Indonesia's most anticipated annual culinary event. This festival is not just a taste adventure but also an experience interwoven with culture and history.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9493dc5a49f643520cc6d25efe3d94af.png)
+![10th Anniversary of Ubud Food Festival: A Flavorful Journey ](https://images.gobaligo.id/vocus/vocus_9493dc5a49f643520cc6d25efe3d94af.png)
 
 ---
 
@@ -32,7 +32,7 @@ From May 30 to June 1, 2025, Ubud, the cultural capital of Bali, Indonesia, will
 
 This year's event, themed '**Heritage**', pays homage to ancestral recipes while emphasizing the reinterpretation of tradition in contemporary times. From street food to haute cuisine, from village kitchens to modern restaurants, every dish tells a story of Indonesian culture.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_06b7d6f9c8d432b093dc97b394f15d62.jpg)
+![Theme: 'Heritage' — Not Just Memories, But Recreating Classi](https://images.gobaligo.id/vocus/vocus_06b7d6f9c8d432b093dc97b394f15d62.jpg)
 
 ---
 
@@ -43,7 +43,7 @@ This year's event, themed '**Heritage**', pays homage to ancestral recipes while
 - **Art Meets Food**: Instagram-worthy visual scene designs, making every corner a photo hotspot.
 - **Top Talent from Across the Nation**: Featuring Michelin-starred chefs, renowned cookbook authors, young creative chefs, and local farmers.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5250fcaad7df6bc2c45359b406ff3fe0.jpg)
+![Highlights of the Event](https://images.gobaligo.id/vocus/vocus_5250fcaad7df6bc2c45359b406ff3fe0.jpg)
 
 ---
 
@@ -57,7 +57,7 @@ The main venue, Taman Kuliner, will transform into a vibrant food village filled
 
 ## **Must-Visit Areas and Activities**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_646cd9326daba5d4fe0b6f40130b64b4.jpg)
+![Must-Visit Areas and Activities](https://images.gobaligo.id/vocus/vocus_646cd9326daba5d4fe0b6f40130b64b4.jpg)
 
 ### **✔ Food Market (Free Entry)**
 
@@ -99,7 +99,7 @@ In addition to savoring delicious food, you can also participate in themed guide
 
 ## **❓ Frequently Asked Questions FAQ ❓**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_be530e02aa8a5b2dd52f513006292c80.jpg)
+![Frequently Asked Questions FAQ](https://images.gobaligo.id/vocus/vocus_be530e02aa8a5b2dd52f513006292c80.jpg)
 
 ### **What type of event is the Ubud Food Festival?**
 

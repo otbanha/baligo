@@ -31,7 +31,7 @@ _srcHash: a123d5ea64c540812e88adffe72d095e
 
 延伸閱讀：烏魯瓦圖嘅秘境海灘[烏魯瓦圖景點 47個吃喝玩樂推薦](/blog/uluwatu-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e535492ebd1e221d48aa49d449d3fde.png)
+![峇里島兩大熱門景點發生意外事故，俾遊客嘅提醒！](https://images.gobaligo.id/vocus/vocus_3e535492ebd1e221d48aa49d449d3fde.png)
 
 呢兩單意外事件引發咗當地居民同旅遊業者對旅遊安全嘅廣泛關注。儘管佩尼達島嘅官員承諾會加強旅遊景點嘅安全措施，但當地嘅政界人士同旅遊業界呼籲政府加快進度，儘早制定更嚴格嘅安全規範，保護遊客嘅生命安全。佢哋認為，相關部門需要加強合作與協調，為呢啲受歡迎嘅旅遊景點建立統一嘅安全標準，以防止類似嘅悲劇再次發生。
 

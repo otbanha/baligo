@@ -29,7 +29,7 @@ _srcHash: 1cacde9c52f32e42bb58eed28746cd7c
 ---
 你是否也曾在巴厘岛旅行时，兴冲冲地写了好几张明信片，投入邮筒或请酒店代寄，结果回国后等了好久好久，却始终不见明信片的踪影？
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776055227572-17225212_387746f7-a12a-4c08-84ef-76a5c1f51d50_2048_2048.jpg_tplv-aphluv4xwc-white-pad-v1_1600_1600.jpeg)
+![从巴厘岛寄明信片要等多久？网友真实经验告诉你：等几个月是正常的！](https://images.gobaligo.id/images/2026-04/1776055227572-17225212_387746f7-a12a-4c08-84ef-76a5c1f51d50_2048_2048.jpg_tplv-aphluv4xwc-white-pad-v1_1600_1600.jpeg)
 
 别担心，你并不孤单！
 
@@ -61,7 +61,7 @@ _srcHash: 1cacde9c52f32e42bb58eed28746cd7c
 
 另一位网友则无奈地只留下一句：「后来都没收到...」
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776055334513-d015eaa7e8d747c99159192428275ef1_tplv-aphluv4xwc-white-pad-v1_1600_1600.jpeg)
+![也有「石沉大海」的案例](https://images.gobaligo.id/images/2026-04/1776055334513-d015eaa7e8d747c99159192428275ef1_tplv-aphluv4xwc-white-pad-v1_1600_1600.jpeg)
 
 {{block:klook}}
 

@@ -19,7 +19,7 @@ lang: zh-cn
 _srcHash: 577fe6ba24cabac9e25b60ffb7d97c56
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fa001ec17be16c90af2ed5df4564bccc.jpg)
+![探索巴厘岛的文化瑰宝：Balerung Stage 传统表演体验](https://images.gobaligo.id/vocus/vocus_fa001ec17be16c90af2ed5df4564bccc.jpg)
 
 如果你想要深度体验巴厘岛的传统文化，那么 Balerung Stage 的表演绝对不容错过！这个位于乌布的传统舞台，每周上演经典的巴厘舞蹈和音乐，让观众有机会感受这座岛屿丰富的文化遗产。与商业化的旅游表演不同，Balerung Stage 以其真实性和纯粹的艺术表现著称，让你仿佛置身于巴厘的过去，沉浸在舞蹈和音乐的魅力之中。
 
@@ -61,7 +61,7 @@ Balerung Stage专业演出片段：__VID0__
 
 📩 **立即加入「巴厘岛旅游攻略」博客，成为巴厘岛旅游达人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![注册加入我们的博客](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **通过免费订阅，你将获得：**
 

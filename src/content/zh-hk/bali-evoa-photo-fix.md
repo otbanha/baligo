@@ -44,7 +44,7 @@ _srcHash: 275e2082ce14b1e01d22e7ca15b64ccd
 3. 檔案唔可以大過**2MB**
 4. 適當嘅構圖
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8d4f513b24a0c87fae92aee293c19920.jpg)
+![重點都喺範例一:](https://images.gobaligo.id/vocus/vocus_8d4f513b24a0c87fae92aee293c19920.jpg)
 
 **以上四點之中嘅第三點要特別注意呀**! 而家嘅手機像素越來越高, 影出嚟嘅照片檔案大小亦都越來越大, 冇留意嘅話照片檔案隨手一拍就大過2MB, 無論你係翻拍照片定係重新影相, 絕大部分都會超過網站上傳嘅限制, 當然就唔過關啦!
 

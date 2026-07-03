@@ -36,7 +36,7 @@ Gede adalah driver langka yang juara, dan satu-satunya driver Bali yang jadi and
 
 ## Kontak Gede Arimbawa 📲
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dd732c7983a3912f26ab68d22952f136.jpg)
+![Kontak Gede Arimbawa](https://images.gobaligo.id/vocus/vocus_dd732c7983a3912f26ab68d22952f136.jpg)
 
 - **LINE ID**: Bopeas29
 - **WhatsApp**: +62 8786 2004 094
@@ -124,7 +124,7 @@ Gede 不只是專業司機，更像一位暖心的在地朋友，用心讓每個
 
 ### 更多真實推薦：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e96d46f4fff8532b766b84b03cae9eb8.png)
+![更多真實推薦：](https://images.gobaligo.id/vocus/vocus_e96d46f4fff8532b766b84b03cae9eb8.png)
 
 👍🏼[Rekomendasi netizen 1](https://www.facebook.com/groups/baligo/permalink/1173796323167611/) 👍🏼[Rekomendasi netizen 2](https://www.facebook.com/groups/baligo/permalink/1270152276865348/) 👍🏼[Rekomendasi netizen 3](https://www.facebook.com/groups/baligo/permalink/1348959758984599/) 👍🏼[Rekomendasi netizen 4](https://www.facebook.com/groups/baligo/permalink/1348360015711240/) 👍🏼[Rekomendasi netizen 5](https://www.facebook.com/groups/baligo/permalink/1260026594544583/) 👍🏼[Rekomendasi netizen 6](https://www.facebook.com/groups/baligo/permalink/1306258926588016/) 👍🏼[Rekomendasi netizen 7](https://www.facebook.com/groups/baligo/permalink/1241526689727907/) 👍🏼[Rekomendasi netizen 8](https://www.facebook.com/groups/baligo/permalink/1289682914912284/) 👍🏼[Rekomendasi netizen 9](https://www.facebook.com/groups/baligo/permalink/143661292847791/) 👍🏼[Rekomendasi netizen 10](https://www.facebook.com/groups/baligo/permalink/1343577336189508/) 👍🏼[Rekomendasi netizen 11](https://www.facebook.com/groups/indonesia.travelguide/permalink/3489776264624831/) 👍🏼[Rekomendasi netizen 12](https://www.facebook.com/groups/baligo/permalink/1409975659549675/) 👍🏼[Rekomendasi netizen 13](https://www.facebook.com/groups/baligo/permalink/1431157174098190/?mibextid=oMANbw) 👍🏼[Rekomendasi netizen 14](https://www.facebook.com/groups/baligo/permalink/1492057241341516/) 👍🏼[Rekomendasi netizen 15](https://www.facebook.com/groups/baligo/permalink/1511651786048728/) 👍🏼[Rekomendasi netizen 16](https://www.facebook.com/groups/baligo/permalink/1542004513013455/) 👍🏼[Rekomendasi netizen 17](https://www.facebook.com/groups/baligo/permalink/1555630811650825/) 👍🏼[Rekomendasi netizen 18](https://www.facebook.com/share/15Gi8idWzs/) 👍🏼[Rekomendasi netizen 19](https://www.facebook.com/share/p/1AAS7saeGk/) 👍🏼[Rekomendasi netizen 20](https://www.facebook.com/share/p/15wXLx3hKx/) 👍🏼[Rekomendasi netizen 21](https://www.facebook.com/share/p/1Gn4x5Mvke/) 👍🏼[Rekomendasi netizen 22](https://www.facebook.com/share/p/19mrC6ZkZd/) 👍🏼[Rekomendasi netizen 23](https://www.facebook.com/share/p/1AVV529xd1/) 👍🏼[Rekomendasi netizen 24](https://www.facebook.com/share/p/1FrBiTvy2p/) 👍🏼[Rekomendasi netizen 25](https://www.facebook.com/share/p/14UD2y6rqe7/) 👍🏼[Rekomendasi netizen 26](https://www.facebook.com/share/p/1BPbNtxKh2/)
 
@@ -145,9 +145,9 @@ Gede Arimbawa 不只是司機，更像一位老朋友，他的真誠跟貼心服
 
 趕快聯絡他，為你的 Bali 之旅添上更美好的回憶吧！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_080caa1b1de4d25973b11e4bdfa1101a.jpg)
+![結語：找一位值得信任的司機，旅程會更完美！](https://images.gobaligo.id/vocus/vocus_080caa1b1de4d25973b11e4bdfa1101a.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780320938200-qr.jpg)
+![結語：找一位值得信任的司機，旅程會更完美！](https://images.gobaligo.id/images/2026-06/1780320938200-qr.jpg)
 
 ***
 

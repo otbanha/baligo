@@ -17,7 +17,7 @@ lang: zh-cn
 _srcHash: 4f48c2b7b2dd28cf56e07984838cc87b
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7c237f65b50ad4d7ef93af48af7f45b0.jpg)
+![巴厘岛库塔冲浪推荐｜Bali Kuta Surfing for Beginner｜小杰的巴厘岛冲浪初体验｜内有冲浪优惠券](https://images.gobaligo.id/vocus/vocus_7c237f65b50ad4d7ef93af48af7f45b0.jpg)
 
 初试巴厘岛库塔冲浪：冒险与成长的奇妙旅程
 

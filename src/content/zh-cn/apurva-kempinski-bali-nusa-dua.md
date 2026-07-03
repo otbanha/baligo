@@ -29,23 +29,23 @@ _srcHash: 9c0ac488047dd3490482131e9b4740bc
 
 ## 入住印象
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0ba7ec1336d306ac33ce9f09e61244ad.jpg)
+![入住印象](https://images.gobaligo.id/vocus/vocus_0ba7ec1336d306ac33ce9f09e61244ad.jpg)
 
 游客在酒店大门处会先经过安检，步入大堂就能被金碧辉煌的装潢和高耸的天花板所震撼。作为套房客人，他们可在宽敞的Cliff Lounge休息室办理入住手续，那里别有一番景象：私人泳池、酒吧和开扬阳台，可远眺酒店主楼及海景。套房装修简约雅致，使用柔和的米色调，给人温馨惬意的感觉。阳台更设有私人无边泳池，住客可躺在沙发上欣赏巴厘岛的好山好水。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf8ae667c6b5a147ec65b212288f8de7.jpg)
+![入住印象](https://images.gobaligo.id/vocus/vocus_bf8ae667c6b5a147ec65b212288f8de7.jpg)
 
 ## 餐饮盛宴
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0722cd994a58476ddeb92b7e27372965.jpg)
+![餐饮盛宴](https://images.gobaligo.id/vocus/vocus_0722cd994a58476ddeb92b7e27372965.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_909669893fdde6fb3613b61b9e2de9cf.jpg)
+![餐饮盛宴](https://images.gobaligo.id/vocus/vocus_909669893fdde6fb3613b61b9e2de9cf.jpg)
 
 酒店最吸引人的，当属其知名的水族馆餐厅KORAL。这间座落在酒店底层的餐厅，内有一个巨大的水族箱环绕，box座可以近距离欣赏热带鱼类缓缓游动，视觉效果振奋人心。游客点了餐厅的"KORAL探索菜单"，每一道菜都富有创意，摆盘精致别致，运用当地新鲜食材，味道清新怡人。除了主菜，餐前的可颂面包和综合沙拉油醋酱也让人印象深刻，开胃美味。
 
 [水族馆餐厅用餐体验 USD$100起](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90340-koral-restaurant-dining-the-apurva-kempinski-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd2225956a4)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ba53c5ecb5f27b7b8c273c29a84450be.jpg)
+![餐饮盛宴](https://images.gobaligo.id/vocus/vocus_ba53c5ecb5f27b7b8c273c29a84450be.jpg)
 
 酒店的Cliff Lounge供应各式鸡尾酒和精致小食，是欣赏夕阳的理想去处。下午茶时段，Selasar Dele种类繁多的甜咸点心和热饮，令人有吃不完的错觉。早餐则在Pala餐厅的自助餐区享用，划分明确的中式、印尼式、西式等区域应有尽有，满足不同游客的胃口。
 
@@ -61,21 +61,21 @@ Selasar Deli 下午茶的无敌美景
 
 ## 丰富设施
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_47d3a5babc0a5ecb929b2e148990adf9.jpg)
+![丰富设施](https://images.gobaligo.id/vocus/vocus_47d3a5babc0a5ecb929b2e148990adf9.jpg)
 
 酒店的设施配套一流，健身房面积宽敞，地板结实平整，落地玻璃让运动空间更添舒适。水疗中心提供传统巴厘岛SPA服务，如热石按摩等。Kid's Club则是专供儿童的游乐天地，有游戏室、阅读室等设施。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ff66fdd5f84ad3f3f1b8b1c84321167.jpg)
+![丰富设施](https://images.gobaligo.id/vocus/vocus_6ff66fdd5f84ad3f3f1b8b1c84321167.jpg)
 
 私人海滩是酒店最大的资源，几乎成为酒店的私家海滩。白色细沙柔软，整个海滩面积辽阔，沿岸并排着日光浴床、泳池和REEH BEACH CLUB餐厅，让住客一整天都可在这里放松身心。还有"水球"这项冷门的水上运动，让游人能在大球中漫步海上。主楼前的游泳池同样赞不绝口，池畔酒吧供应小吃和饮料，是放松身心的理想去处。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_76729aaf5f976905c196a129eec8168d.jpg)
+![丰富设施](https://images.gobaligo.id/vocus/vocus_76729aaf5f976905c196a129eec8168d.jpg)
 
 ## 体贴服务
 
 作为新开幕的酒店，Apurva Kempinski酒店硬件设施无疑是崭新一流的，处处体现高品质。酒店的服务生更是态度友善、专业水准难能可贵，让住客宾至如归的感觉油然而生。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_60f2cbfeb4ec539f5c41a8eddff8d2f8.jpg)
+![体贴服务](https://images.gobaligo.id/vocus/vocus_60f2cbfeb4ec539f5c41a8eddff8d2f8.jpg)
 
 入住Apurva Kempinski酒店绝对是一次难忘的高端度假体验，这里将是游览巴厘岛不二之选。无与伦比的自然风光、现代化的豪华设施、贴心周到的服务，让住客有种物超所值的满足感。这里绝对值得再访，尽情享受悠闲时光！
 

@@ -34,7 +34,7 @@ _srcHash: 3eb3144268c8553e2e0d512acf4370b9
 
 “平均气温”是实际测量的空气温度，而体感温度是人体感受到的冷热程度，会受湿度、风速和阳光影响。例如，同样30°C，湿度高时体感温度会觉得更闷热，有风时则较凉爽。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cad1d4b85960806ae37730b1da52e654.png)
+![温度的解释](https://images.gobaligo.id/vocus/vocus_cad1d4b85960806ae37730b1da52e654.png)
 
 ## **适合旅游指数**
 

@@ -16,7 +16,7 @@ _srcHash: bd8d9c2ba4afd3de5e2df0cb4f0277ea
 
 **團友**[**Li Ly**](https://www.facebook.com/lily850711/)**同佢啱啱結束咗雨季嘅峇里島之旅，就即刻同我哋分享佢哋嘅旅遊心得喇！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7566854d107df6ce88ddc76fca498f38.jpg)
+![【瘋狂做SPA】峇里島自由行 & 心得分享：SPA推薦清單](https://images.gobaligo.id/vocus/vocus_7566854d107df6ce88ddc76fca498f38.jpg)
 
 多得社團好多資訊，我哋將今次二月底去峇里島自由行嘅心得分享俾大家，僅供參考噢！我哋今次嘅行程主要係：參加一啲Activity、SPA、美食，剩低嘅都叫做「享受」
 
@@ -48,7 +48,7 @@ https://youtu.be/gECdNvG16ww
 
 ### 夕陽海灘騎馬
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ff1e2744d79be91e88a8775750847dc.png)
+![夕陽海灘騎馬](https://images.gobaligo.id/vocus/vocus_6ff1e2744d79be91e88a8775750847dc.png)
 
 1. 透過網上訂票，每人接近USD$55，提供一對一教練，教練會牽住隻馬。
 2. 體驗相當唔錯，每位教練都會拎住我哋各自嘅手機幫手影相同拍片。
@@ -59,7 +59,7 @@ https://youtu.be/gECdNvG16ww
 
 ### 日出吉普車
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d007f0cd9a6adf529354c1ea176d2bd4.jpg)
+![日出吉普車](https://images.gobaligo.id/vocus/vocus_d007f0cd9a6adf529354c1ea176d2bd4.jpg)
 
 團友 Li Ly 提供
 
@@ -170,7 +170,7 @@ Inara Alas Harum
 
 喺六年前我哋曾經去過峇里島旅行（係由旅行社組織嘅八人小團），但係當時嘅體驗並唔好，其中最差嘅部分就係司機兼導遊。佢雖然識講中文，但係溝通幾乎冇辦法進行，所以我哋深切感受到咗好嘅司機對於旅行嘅重要性，佢哋可以令旅行更加完整同令人放鬆。因為Arie太貼心，所以每日我哋都俾佢20-30%嘅貼士。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_45ef0955c4149232b8c65e55bce4f72d.jpg)
+![司機推薦](https://images.gobaligo.id/vocus/vocus_45ef0955c4149232b8c65e55bce4f72d.jpg)
 
 司機推薦：ARIE
 

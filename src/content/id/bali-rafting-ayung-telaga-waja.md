@@ -31,13 +31,13 @@ _srcHash: c109e7d985b3229a611afee92a32707f
 ---
 Bali terkenal banget sama pemandangan alamnya yang indah dan budayanya yang kaya. Salah satu aktivitas yang paling banyak dicari wisatawan adalah arung jeram. Seru banget, kamu bakal menyusuri sungai yang berkelok-kelok, merasakan sensasi arus deras dan air tenang bergantian, sambil menikmati hutan tropis yang rimbun, ngarai spektakuler, dan air terjun tersembunyi. Itulah daya tarik unik arung jeram di Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e76f3c320362392046cda14d6de1b379.jpg)
+![【FAQ Arung Jeram Bali】Gak Bisa Renang Tetap Bisa Main? Batas](https://images.gobaligo.id/vocus/vocus_e76f3c320362392046cda14d6de1b379.jpg)
 
 Tapi, buat kamu yang baru pertama kali mau coba, pasti ada banyak pertanyaan, misalnya soal keamanan, sungai mana yang cocok, perlengkapan apa aja yang perlu disiapkan. Biar persiapanmu makin matang dan perjalanan makin berkesan, kami udah rangkum FAQ (pertanyaan yang sering ditanyakan) yang mencakup semua hal yang mungkin kamu khawatirkan. Dengan baca info ini, kamu bakal lebih paham soal arung jeram di Bali dan bisa langsung nyebur tanpa ragu!
 
 ## FAQ Arung Jeram
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1b29221626f7514c7a6dc6fb7797722.jpg)
+![FAQ Arung Jeram](https://images.gobaligo.id/vocus/vocus_a1b29221626f7514c7a6dc6fb7797722.jpg)
 
 ### **1. Sungai apa aja yang cocok buat arung jeram di Bali?**
 

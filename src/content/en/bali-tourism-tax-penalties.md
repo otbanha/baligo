@@ -23,7 +23,7 @@ _srcHash: 847176702f89664058ae348683e58a89
 
 Starting from February 2024, Bali has implemented a tourism tax for all international visitors, requiring each person to pay IDR 150,000 (approximately USD$10). This tax is primarily used to support Bali's infrastructure development, protect local culture, and preserve the natural environment. Tourists can pay online through the LoveBali App, and in the future, payments may also be possible at airports or through some hotels and travel agencies. After payment, tourists will receive a QR code, which they should keep ready in case of random checks by tourism tax officials. (For the payment process, see: [Bali Tourism Tax Guide: New 2024 Regulations, Payment Methods, and Island-Hopping Tips](/blog/2026-bali-tourism-tax-guide/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_45e18794a5fa7b3c863c8a06c4e980d8.png)
+![1. What is Bali's Tourism Tax?](https://images.gobaligo.id/vocus/vocus_45e18794a5fa7b3c863c8a06c4e980d8.png)
 
 ### 2. Why is This Tax Necessary?
 
@@ -43,7 +43,7 @@ To address this issue, Bali's Acting Governor Sang Made Mahendra Jaya recently s
 
 The government is well aware that the current payment process is not yet perfect. Many tourists already spend hours queuing at the airport and then have to queue again to pay the tax, which is inconvenient. To solve this problem, the government is planning to involve more hotels, homestays, and even travel agents, allowing tourists to pay the tax during their stay or trip rather than waiting until the last moment.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c60cfb777dca92337369cae5415def17.png)
+![5. The Government is Also Working to Improve the Payment Pro](https://images.gobaligo.id/vocus/vocus_c60cfb777dca92337369cae5415def17.png)
 
 ### 6. Impact on Bali's Tourism Industry
 

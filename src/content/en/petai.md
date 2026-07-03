@@ -52,7 +52,7 @@ In Indonesia, Malaysia, and southern Thailand, stink beans are a common ingredie
 
 If you visit Indonesia, you must try **Nasi Goreng Petai (Petai Fried Rice)**. It might sound challenging at first, but when stink beans are added to classic Indonesian fried rice and quickly stir-fried, their intense flavor mellows, releasing a subtle aroma reminiscent of nuts and fresh grass.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778028180819-nasigoreng_petai.jpeg)
+![In Indonesia, We Actually Love 'Petai Fried Rice'](https://images.gobaligo.id/images/2026-05/1778028180819-nasigoreng_petai.jpeg)
 
 The rice is savory and flavorful thanks to soy sauce, garlic, chili, and shrimp paste, paired with a few crunchy stink beans. When bitten into, their slight bitterness and crisp texture surprisingly balance the greasiness of the fried rice. At roadside stalls in Jakarta or Surabaya, a plate of Nasi Goreng Petai often comes with a fried egg, fried chicken, or shrimp crackers, making it a comforting dish for many Indonesians.
 

@@ -28,7 +28,7 @@ _srcHash: 5e5a8bf4561718f3404a2ed97f0dd3c4
 
 Belajar Bali Boutique Hotel & Retreat is a highly acclaimed boutique accommodation in the Canggu area. If you're planning a trip to Bali and looking for a small hotel with strong design aesthetics, excellent service, and a unique style, this might be one to add to your list. Below, we'll dive into its highlights, potential areas for improvement, and our recommendations.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7aa22519bdbfa6d3826a5a36aa6f9e3f.jpg)
+![Canggu Bohemian Boutique Stay: Belajar Bali Boutique Hotel a](https://images.gobaligo.id/vocus/vocus_7aa22519bdbfa6d3826a5a36aa6f9e3f.jpg)
 
 ***
 
@@ -36,7 +36,7 @@ Belajar Bali Boutique Hotel & Retreat is a highly acclaimed boutique accommodati
 
 Belajar Bali Boutique Hotel and Retreat is just 2.8 km from Batu Bolong Beach, a 5-star boutique resort with only eight rooms that blends tranquility and luxury.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e1137f6dfc10b014965bb6cbc578bab.jpg)
+![At a Glance](https://images.gobaligo.id/vocus/vocus_2e1137f6dfc10b014965bb6cbc578bab.jpg)
 
 Outdoor Pool: Guest rooms feature private terraces with pool views, creating a relaxing vacation atmosphere.
 
@@ -46,7 +46,7 @@ Design Style: Each room is equipped with air conditioning, a desk, a safe, and a
 
 Convenient Location: Also 2.8 km from Canggu Beach, about 8.4 km from Petitenget Temple, and just 17 km from Ngurah Rai International Airport.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b7da17399ac0cb739f0ada56fbb8724c.jpg)
+![At a Glance](https://images.gobaligo.id/vocus/vocus_b7da17399ac0cb739f0ada56fbb8724c.jpg)
 
 ***
 

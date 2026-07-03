@@ -19,7 +19,7 @@ _srcHash: 6dfdad5ade61f0cd3b2a09443b4b2295
 
 喺峇里島旅行嗰陣，如果對花生敏感嘅人，避免食含有花生嘅食物係非常重要。峇里島嘅飲食多樣，但係花生喺一啲菜式同調味料中可能會被使用，所以需要格外小心。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_560250c5a2572c49e425faaa459bceb2.png)
+![花生敏感！？去峇里島可以咁做](https://images.gobaligo.id/vocus/vocus_560250c5a2572c49e425faaa459bceb2.png)
 
 以下係一啲喺峇里島旅行時需要避免或者小心食用嘅可能含有花生嘅食物同食品：
 
@@ -32,7 +32,7 @@ _srcHash: 6dfdad5ade61f0cd3b2a09443b4b2295
 
 更重要嘅係，為咗避免誤食，花生敏感者唔好忘記隨身攜帶一啲敏感緊急救助用品，以應對意外情況。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa7648471037473f80418f211f4b41ad.png)
+![花生敏感！？去峇里島可以咁做](https://images.gobaligo.id/vocus/vocus_aa7648471037473f80418f211f4b41ad.png)
 
 喺閱讀我哋嘅**「峇里島自由行究極旅行攻略」**之前，我哋誠摯地邀請您先訂閱我哋更多視覺體驗分享嘅YouTube頻道**「小傑 印尼」**。[點擊這裡](http://bit.ly/youtube-jason)，即刻訂閱
 

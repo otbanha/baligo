@@ -26,17 +26,17 @@ lang: zh-hk
 _srcHash: db9b7c82739b9037278ef494b940a519
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac2d27b682ef6d668628cfd17400e43f.png)
+![開箱峇里島最大動物園！動物園酒店住宿體驗 Bali Safari 喺房都可以餵動物？！](https://images.gobaligo.id/vocus/vocus_ac2d27b682ef6d668628cfd17400e43f.png)
 
 呢條關於峇里島野生動物園住宿嘅開箱片，由李岳親自帶大家深入探索呢個峇里島最大嘅動物園——Bali Safari Marine Park。片一開始，李岳就帶大家行入佔地40公頃嘅動物園，介紹咗呢度嘅住宿選擇同豐富嘅設施。佢特別提到，園區內唔單止有動物園，仲有餐廳同住宿，啱晒一家大細或者情侶一齊嚟渡假幾日。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_90c04100b8e76e23940801a6470d84fc.png)
+![開箱峇里島最大動物園！動物園酒店住宿體驗 Bali Safari 喺房都可以餵動物？！](https://images.gobaligo.id/vocus/vocus_90c04100b8e76e23940801a6470d84fc.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4a36984d51e44a277e5c65e127126c2b.png)
+![開箱峇里島最大動物園！動物園酒店住宿體驗 Bali Safari 喺房都可以餵動物？！](https://images.gobaligo.id/vocus/vocus_4a36984d51e44a277e5c65e127126c2b.png)
 
 片重點展示咗Mara River Safari Lodge嘅房間開箱，呢間小屋造型獨特，打開窗就可以直接見到動物，好似住喺野生動物嘅屋企咁。李岳指出，呢度嘅房間雖然有原始風味，但設施齊全，特別啱情侶或者夫妻嚟度蜜月。佢亦提到，住喺呢度可以享受獅子早餐，呢個係一個同野生動物親密接觸嘅特別體驗。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_854c1ee94bd7ea8f672050ad4e7034c6.png)
+![開箱峇里島最大動物園！動物園酒店住宿體驗 Bali Safari 喺房都可以餵動物？！](https://images.gobaligo.id/vocus/vocus_854c1ee94bd7ea8f672050ad4e7034c6.png)
 
 李岳喺片入面仲提到咗一個實用嘅小技巧：由於動物園嘅門票唔平，所以選擇住喺動物園入面反而係一個更抵嘅選擇，因為住宿包埋入園門票同其他活動，令整體嘅價值更加突出。此外，片亦展示咗動物園內嘅其他設施，例如小型水上樂園同埋一啲定時嘅表演秀，等大家可以喺呢度渡過充實嘅假期。
 

@@ -92,7 +92,7 @@ Left: Cloudy sky with sunset glow at Mari Beach Club Right: Bodyworks Spa
 
 ### Driver Contact Info:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f1744a892b82fbb9e71172be7468b200.png)
+![Driver Contact Info:](https://images.gobaligo.id/vocus/vocus_f1744a892b82fbb9e71172be7468b200.png)
 
 - Facebook - Fovix Ketut
 - Instagram - ketutfovik

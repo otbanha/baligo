@@ -29,7 +29,7 @@ Bali itu destinasi wisata kelas dunia, setiap tahun jutaan turis berdatangan. Ta
 
 ## **Hindari Macet Parah: Destinasi Liburan Terbaik**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1488ccb642d8606ee135d2f3a8b13875.png)
+![Hindari Macet Parah: Destinasi Liburan Terbaik](https://images.gobaligo.id/vocus/vocus_1488ccb642d8606ee135d2f3a8b13875.png)
 
 Masalah lalu lintas di Bali mostly terjadi di daerah utara bandara, kayak Kuta dan Seminyak. Soalnya ini kawasan wisata paling populer di Bali, tapi sekaligus jadi salah satu zona paling macet. Apalagi sejak awal September 2024 proyek LRT (light rail) mulai dikerjakan dari parkiran depan IKEA Kuta, bikin macet di daerah ini makin parah — diprediksi bakal masuk 'zona gelap lalu lintas' selama beberapa tahun ke depan. Turis di sini bakal habiskan banyak waktu di jalan, ganggu kenyamanan liburan.
 
@@ -39,7 +39,7 @@ Makanya, milih daerah selatan bandara kayak Jimbaran, Uluwatu; atau timur bandar
 
 ## **Pesona Jimbaran**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b08e5b845958481bef9a02c0814d1c6.png)
+![Pesona Jimbaran](https://images.gobaligo.id/vocus/vocus_0b08e5b845958481bef9a02c0814d1c6.png)
 
 Jimbaran terletak di selatan Bandara Internasional Bali, terkenal dengan suasana yang lebih tenang dan pantainya yang cantik. Tempat ini jadi favorit buat kamu yang pengen relaksasi dan menikmati pemandangan alam. Jimbaran punya deretan restoran seafood berkualitas tinggi — kamu bisa makan seafood segar sambil duduk di pasir pantai, ditemani sunset yang memukau. Selain itu, air laut di Pantai Jimbaran jernih banget, cocok buat berenang dan main air. Suasana Jimbaran relatif tenang, pas banget buat liburan keluarga atau pasangan.
 
@@ -49,7 +49,7 @@ Baca juga:
 
 ## **Pemandangan Spektakuler Uluwatu**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb8e47da76e2a55442d0b8aaaac0778a.jpg)
+![Pemandangan Spektakuler Uluwatu](https://images.gobaligo.id/vocus/vocus_eb8e47da76e2a55442d0b8aaaac0778a.jpg)
 
 Uluwatu terkenal banget sama tebing-tebing dramatis dan pemandangan sunset-nya yang epik. Pura Luhur Uluwatu di sini adalah salah satu pura tepi laut paling sakral di Bali, berdiri di atas tebing tinggi yang menghadap langsung ke Samudra Hindia — pemandangannya juara! Pas senja, kamu bisa lihat sunset yang nggak ada duanya. Selain itu, Uluwatu juga surganya para peselancar, punya spot surfing kelas dunia. Suasananya lebih santai dibanding Kuta dan Seminyak, cocok banget buat kamu yang suka alam dan aktivitas outdoor.
 
@@ -63,7 +63,7 @@ Kenalan Sama Nusa Dua dalam 3 Menit
 
 Nusa Dua terletak di tenggara Bali, dan ini adalah kawasan yang sengaja didesain buat liburan mewah. Di sini banyak banget resor dan hotel bintang lima dengan fasilitas dan layanan super lengkap. Pantainya pasirnya halus, airnya jernih banget — tempat yang oke buat renang dan berjemur. Suasananya ramah banget buat liburan keluarga, dengan banyak pilihan aktivitas seperti golf, snorkeling, dan olahraga air. Lalu lintas di Nusa Dua juga lancar, jauh dari keramaian kota, bikin kamu benar-benar bisa santai dan menikmati ketenangan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7cfdc46e5646664ec23388b6d228c7e2.png)
+![Resor Mewah di Nusa Dua](https://images.gobaligo.id/vocus/vocus_7cfdc46e5646664ec23388b6d228c7e2.png)
 
 Baca juga:
 
@@ -75,7 +75,7 @@ Kenalan Sama Sanur dalam 3 Menit
 
 Sanur adalah destinasi liburan yang pas buat keluarga dan kamu yang cari suasana santai. Ada jalur pantai sepanjang lima kilometer yang cocok buat jalan pagi atau naik sepeda. Pantainya lebih tenang dibanding Kuta dan Seminyak, jadi enak buat renang dan berjemur. Dermaga Sanur juga jadi titik awal yang praktis buat trip ke Nusa Penida dan pulau-pulau lain — kamu bisa langsung mulai petualangan ke pulau terpencil. Selain itu, Sanur punya banyak restoran dan kafe, tempat kamu bisa cobain makanan lokal dan internasional sambil menikmati liburan yang santai.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ec44f971bdf023bb1dfac84d9a4aa698.png)
+![Pesona Santai Sanur](https://images.gobaligo.id/vocus/vocus_ec44f971bdf023bb1dfac84d9a4aa698.png)
 
 Baca juga:
 
@@ -83,7 +83,7 @@ Baca juga:
 
 ## **Dermaga Sanur & Trip ke Pulau Lain**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6d090748d499c69a3fede3740b99c6d5.jpg)
+![Dermaga Sanur & Trip ke Pulau Lain](https://images.gobaligo.id/vocus/vocus_6d090748d499c69a3fede3740b99c6d5.jpg)
 
 Sanur punya dermaga yang memudahkan akses ke pulau-pulau lain. Dari sini, kamu bisa dengan mudah ke Nusa Penida dan Nusa Lembongan. Pulau-pulau ini punya pemandangan alam yang cantik banget dan banyak aktivitas laut seru, plus nggak macet — wajib banget dikunjungi.
 

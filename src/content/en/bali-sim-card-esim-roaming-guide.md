@@ -29,7 +29,7 @@ lang: en
 _srcHash: d867aa050268294f5def51dd914e2047
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_db855d72e3a3f085829e4471ce055f11.jpg)
+![Bali SIM Card Guide: Comparing SIM Cards, eSIMs, and Roaming](https://images.gobaligo.id/vocus/vocus_db855d72e3a3f085829e4471ce055f11.jpg)
 
 While Bali hotels offer free Wi-Fi, mobile internet remains essential when you're out exploring, whether for navigation, research, social media updates, or photo sharing.
 
@@ -73,7 +73,7 @@ Another option is to purchase online in advance. Klook offers various packages t
 
 If your phone supports eSIM, the most reliable and highly recommended eSIM option is [this one](/blog/bali-esim-travel-guide/)!
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774795350035-d191a0b14c5f198b32ba296c4e0035b1.jpg)
+![eSIM Recommendation](https://images.gobaligo.id/images/2026-03/1774795350035-d191a0b14c5f198b32ba296c4e0035b1.jpg)
 
 {{block:klook}}
 

@@ -192,7 +192,7 @@ Terletak di dataran tinggi bagian utara, udaranya sejuk banget, punya pemandanga
 
 ### 15. Pura Ulun Danu Bratan
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781497269627-ulun-danu-bratan.webp)
+![15. Pura Ulun Danu Bratan](https://images.gobaligo.id/images/2026-06/1781497269627-ulun-danu-bratan.webp)
 
 Karena dikelilingi kabut tipis dan Danau Bratan yang tenang, saat air danau naik, pura ini kelihatan seperti mengambang dengan anggun di atas air. Cuacanya sejuk dan pemandangannya indah banget, bikin kamu merasa tenang dan damai.
 

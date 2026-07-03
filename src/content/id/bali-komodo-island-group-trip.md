@@ -28,7 +28,7 @@ Kali ini kami berenam, para cewek, memutuskan traveling ke Bali dan Pulau Komodo
 
 Yang paling bikin kami terharu selama trip ini, selain pemandangan indah, adalah driver sewa kami, Gede Arimbawa! Dia nggak cuma perhatian, tapi juga baik banget dan super helpful. Dia menghormati itinerary kami dan kasih saran praktis di waktu yang tepat, bikin hari-hari kami di Bali lancar jaya. Mulai dari ngasih tahu waktu tempuh, bantu booking restoran dan aktivitas, pelayanannya bikin kami tenang banget. Driver sebaik ini wajib banget direkomendasiin! 🥰
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9c6297afa65717ca1de714d7b83a7289.jpg)
+![1. Rekomendasi Driver Sewa: Gede Arimbawa](https://images.gobaligo.id/vocus/vocus_9c6297afa65717ca1de714d7b83a7289.jpg)
 
 Gede punya banyak review positif di grup! [Cek di sini](/blog/bali-private-car-drivers-guide/)
 
@@ -128,7 +128,7 @@ Di Ubud kami ketemu beberapa tukang ojek (motor taxi) yang nawarin harga, kami p
 
 > Catatan redaksi, pakai aplikasi panggil ojek bisa hindari kejadian ini: [Aplikasi Wajib Pas Traveling di Indonesia/Bali: Panduan Lengkap Gojek](/blog/gojek-bali-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_132b0fdbdbd2b8f1e37a9dc51b38bd58.png)
+![13. Hati-hati Penipuan Ojek!](https://images.gobaligo.id/vocus/vocus_132b0fdbdbd2b8f1e37a9dc51b38bd58.png)
 
 Itu dia beberapa pengalaman dari trip kami, masih banyak detail yang belum sempat dibagikan, nanti kalau ingat akan saya tambahin! Terima kasih lagi buat driver kami Gede, meskipun tiga hari terakhir kami ke pulau lain, dia tetap kontak dan siap bantu kapan pun. Perjalanan ini memang ada sedikit drama, tapi overall seru banget! Kalau kamu juga punya rencana ke Bali, semoga tips di atas berguna. Selamat jalan dan bersenang-senang! 💼🌞
 

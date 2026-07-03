@@ -39,7 +39,7 @@ longitude: 115.15951
 ---
 If you're traveling to Bali and want to stay in a private pool villa without venturing to remote areas, The Maya Seminyak Villas (also known as Maya Sayang Seminyak) is a great option. Hidden right next to Seminyak's bustling Eat Street (Kayu Aya Street), it's just a few minutes' walk to restaurants and shopping malls, yet once you step through the villa gates, tranquility immediately takes over, making it feel far from the city center. With only 11 villas, the property is small and offers a strong sense of privacy.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238183569-caeddccae60921b94d19b0c2e88fd0ab.jpg)
+![The Maya Seminyak Villas｜Seminyak's Most Private Pool Villa ](https://images.gobaligo.id/images/2026-04/1776238183569-caeddccae60921b94d19b0c2e88fd0ab.jpg)
 
 ***
 
@@ -49,7 +49,7 @@ Located at Jl. Mertasari No. 1 in Seminyak's Laksmana area, the villa is nestled
 
 As for the beach, Seminyak Beach is about a 20-minute walk away – not right at your doorstep, but close enough that you won't need to call a ride.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238213668-b8c519e3606601c53285a3622679d3aa.jpg)
+![Location & Surroundings](https://images.gobaligo.id/images/2026-04/1776238213668-b8c519e3606601c53285a3622679d3aa.jpg)
 
 This area is Seminyak's most concentrated hub for shopping, dining, coffee, spa treatments, and sunset views – almost everything you'd want to do in Bali can be accomplished within a few minutes' walk or bike ride. The Maya's location is cleverly chosen: close enough to the action, yet tucked away in a quiet lane.
 
@@ -59,11 +59,11 @@ This area is Seminyak's most concentrated hub for shopping, dining, coffee, spa 
 
 The property's entrance features a traditional Balinese Angkul-Angkul wooden gate, leading to a pathway lined with bamboo and tropical plants, creating a stark contrast to the bustling streets outside – the transition is swift.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238253051-62383025b5be5b788f2617facd1f0d2a.webp)
+![Facilities Overview](https://images.gobaligo.id/images/2026-04/1776238253051-62383025b5be5b788f2617facd1f0d2a.webp)
 
 In terms of facilities, there's a shared outdoor pool with a lounge area, though most guests don't use it much since each villa has its own private pool. The Maya Sayang Spa offers full-service treatments, including hot stone massage, Swedish massage, aromatherapy, body scrubs, and nail services, complete with an indoor hot tub. The restaurant serves breakfast, lunch, and dinner, focusing on Asian cuisine with Balinese, Korean, and Japanese dishes, as well as Western options, all reasonably priced according to guests.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238356883-37237cb64d90a6d2c9a38f40903f83e9.webp)
+![Facilities Overview](https://images.gobaligo.id/images/2026-04/1776238356883-37237cb64d90a6d2c9a38f40903f83e9.webp)
 
 A small highlight: breakfast can be pre-booked and delivered directly to your villa, allowing you to enjoy it without heading to the restaurant – a truly villa-style experience. Complimentary bike rentals and Seminyak area shuttle services are also available, convenient for guests who prefer not to call Grab rides. Note that there's no gym.
 
@@ -75,51 +75,51 @@ All 11 villas come in one-, two-, and three-bedroom configurations, each with it
 
 1 Bedroom Pool Villa:
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238469969-41a39af3b6dad4a345a413aff4b9088a.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776238469969-41a39af3b6dad4a345a413aff4b9088a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238470386-ab0fd810d3a7a332e394f3d6f833e95e.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776238470386-ab0fd810d3a7a332e394f3d6f833e95e.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238470818-b8ac9d69f21781cf7bc674cde68a1e6a.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776238470818-b8ac9d69f21781cf7bc674cde68a1e6a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238471233-fd1615c1e089d524045dea2c6bf269ab.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776238471233-fd1615c1e089d524045dea2c6bf269ab.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238471651-9c886ebd4f0e88a05d6deb6a4eb904d4.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776238471651-9c886ebd4f0e88a05d6deb6a4eb904d4.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238472058-3c8cb57ca27157f17cb74970049f4d3b.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776238472058-3c8cb57ca27157f17cb74970049f4d3b.webp)
 
 2 Bedroom Villa with Private Pool:
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238551189-4c432754d56927d4e807d6828a20b86e.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776238551189-4c432754d56927d4e807d6828a20b86e.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238551837-8d57cea2b00699d4277482400e078b28.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776238551837-8d57cea2b00699d4277482400e078b28.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238552341-36d29ffdda417378dd836d1ce06ecf21.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776238552341-36d29ffdda417378dd836d1ce06ecf21.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238552855-88bcb4e61f1a93c54029ca420393db6f.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776238552855-88bcb4e61f1a93c54029ca420393db6f.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238553257-580109dfcb2405046d4cfb26becde59e.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776238553257-580109dfcb2405046d4cfb26becde59e.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238553800-aca6bdec62641a08f77c1717e098d157.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776238553800-aca6bdec62641a08f77c1717e098d157.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238554188-df53a1d96bba620248efbf4b3a01a92a.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776238554188-df53a1d96bba620248efbf4b3a01a92a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238554587-0f8d796c049fc958a7b7fa616f358a44.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776238554587-0f8d796c049fc958a7b7fa616f358a44.webp)
 
 3 Bedroom Pool Villa:
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238621248-a1c4be0f6811193e61919e7d511a59f2.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776238621248-a1c4be0f6811193e61919e7d511a59f2.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238621666-a9acc023155c000e59c187093156761c.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776238621666-a9acc023155c000e59c187093156761c.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238622478-caeddccae60921b94d19b0c2e88fd0ab.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776238622478-caeddccae60921b94d19b0c2e88fd0ab.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238623014-0e048f849115682f9c2ed1e2ebe9fd63.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776238623014-0e048f849115682f9c2ed1e2ebe9fd63.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238623415-5cc218716a3a1cb80f958ee06edacbbf.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776238623415-5cc218716a3a1cb80f958ee06edacbbf.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238623836-7e042947a353e5a18a356986531799f9.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776238623836-7e042947a353e5a18a356986531799f9.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238624322-64709e287b8d56dddafe30ae2b15597d.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776238624322-64709e287b8d56dddafe30ae2b15597d.webp)
 
 The architectural style leans towards traditional Balinese thatched roofs and wood carvings. The open-plan living area faces directly onto the pool, creating a seamless indoor-outdoor flow for natural ventilation. The bedroom features air conditioning and a mosquito-netted king bed. The bathroom is semi-outdoor with a soaking tub and separate shower. The kitchen is equipped with a refrigerator, microwave, and stove, making it suitable for long-term stays where guests may wish to cook.
 
@@ -145,7 +145,7 @@ Another Tripadvisor guest noted that the villa is incredibly peaceful despite be
 
 A few practical downsides to mention. First, the villa shows its age, with some bathroom fixtures being outdated. The outdoor kitchen and semi-open bathroom areas are prone to insects, though mosquito coils are provided—something to consider if this bothers you. Second, the living area is open-plan and lacks air conditioning, which can feel stuffy during Bali’s hot midday hours, relying only on fans. Third, some villas are closer to nearby restaurants and bars, meaning occasional noise from music and chatter at night. Guests can request a quieter villa upon booking.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238746826-1e92b642c66eb69ff9555a704c386388.webp)
+![Honest Drawbacks](https://images.gobaligo.id/images/2026-04/1776238746826-1e92b642c66eb69ff9555a704c386388.webp)
 
 ***
 

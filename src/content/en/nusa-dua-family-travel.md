@@ -39,7 +39,7 @@ When it comes to traveling abroad with kids, many parents' first thoughts are: '
 
 Nusa Dua, Bali, is considered by many travelers to be one of the most family-friendly destinations in Southeast Asia. With calm beaches, clean environments, and numerous resorts, the entire area seems tailor-made for family vacations. Last time I took my kids there, from landing to returning to Taiwan, I didn't worry for a single moment.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775127824196-72633b6ac8d8fe913270cd9634656be0.jpg)
+![Nusa Dua Summer & Winter Family Vacation Guide: Top 10 Day T](https://images.gobaligo.id/images/2026-04/1775127824196-72633b6ac8d8fe913270cd9634656be0.jpg)
 
 But 'suitable' doesn't mean 'no preparation needed'. Mastering a few key points before departure can make the trip truly relaxing and enjoyable.
 
@@ -54,7 +54,7 @@ But 'suitable' doesn't mean 'no preparation needed'. Mastering a few key points 
 
 Located in southern Bali, Nusa Dua experiences temperatures between 26–33°C year-round. The dry season (May to October) is the most comfortable time to visit. During the rainy season (November to April), there may be occasional afternoon showers, but they usually don't affect travel plans.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775127893271-e7cd6a46660c3237454c5f8185b741b5.jpg)
+![Climate & Clothing](https://images.gobaligo.id/images/2026-04/1775127893271-e7cd6a46660c3237454c5f8185b741b5.jpg)
 
 For children's clothing, opt for lightweight and breathable cotton outfits, sandals or waterproof slippers, and of course, don't forget swimwear. Sunscreen is a daily essential, as the UV rays at the beach are stronger than you might think. Children's delicate skin requires extra care, so it's recommended to reapply sunscreen every two to three hours.
 
@@ -96,13 +96,13 @@ If you occasionally see small offerings (Canang Sari) on the ground, avoid stepp
 
 ### 1. 🐬 Play in the Waters of Nusa Dua Beach
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775127983449-f5518c75b96f9370968adbb0ae27c709.jpg)
+![1. Play in the Waters of Nusa Dua Beach](https://images.gobaligo.id/images/2026-04/1775127983449-f5518c75b96f9370968adbb0ae27c709.jpg)
 
 The waves here are very calm, making it the top choice for young children to play in the water. The golden sand is clean and tidy, the sea water is clear, and the shallow areas allow children to safely enjoy the water. Along the beach, there are various water activity stalls where you can rent different water toys. Just playing in the sand by the shore can keep children happy for an entire afternoon.
 
 ### 2. 🐢 Turtle Island × Glass-Bottom Boat × Mangrove Boat Tour Triple Experience
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128003311-_2026-04-02_16.11.32.png)
+![2. Turtle Island × Glass-Bottom Boat × Mangrove Boat Tour Tr](https://images.gobaligo.id/images/2026-04/1775128003311-_2026-04-02_16.11.32.png)
 
 This itinerary is hands down the best value-for-money family activity in Nusa Dua, packing three experiences into one trip that will leave your kids thoroughly satisfied.
 
@@ -114,7 +114,7 @@ The entire itinerary includes hotel transfers, making it suitable for children w
 
 ### 3. 🤿 Beginner Diving Experience (Kids' Snorkeling)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128134418-snorkeling.webp)
+![3. Beginner Diving Experience (Kids' Snorkeling)](https://images.gobaligo.id/images/2026-04/1775128134418-snorkeling.webp)
 
 The coral ecosystems off the coast of Nusa Dua are rich and vibrant, making it an ideal spot for children aged 8 and above to try introductory snorkeling courses. Many water sports centers offer kids' snorkeling lessons with professional instructors accompanying them throughout, so parents need not worry about safety. The moment your child sees colorful tropical fish swimming right beside them will be a memory they'll cherish forever.
 
@@ -122,7 +122,7 @@ The coral ecosystems off the coast of Nusa Dua are rich and vibrant, making it a
 
 ### 4. 🏄 Banana Boat & Jet Ski
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128198938-water_sports.jpg)
+![4. Banana Boat & Jet Ski](https://images.gobaligo.id/images/2026-04/1775128198938-water_sports.jpg)
 
 For slightly older kids (recommended for ages 8 and up), trying the banana boat is a must. Sitting together, being pulled by a speedboat at high speeds, occasionally flipping into the water — the laughter and screams are endless, embodying the quintessential Bali vacation vibe. Jet skiing is more suitable for teenagers, and it's safe for parents to ride along with their kids.
 
@@ -130,7 +130,7 @@ For slightly older kids (recommended for ages 8 and up), trying the banana boat 
 
 ### 5. 🌊 Bali Waterpark (Waterboom Bali)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128232527-qp1.png)
+![5. Bali Waterpark (Waterboom Bali)](https://images.gobaligo.id/images/2026-04/1775128232527-qp1.png)
 
 Located about a 30-minute drive from Nusa Dua, Waterboom Bali is one of the highest-rated waterparks in Asia. It features water slides suitable for all ages, from dedicated areas for toddlers to high-speed slides that will leave adults breathless, making it easy to spend an entire day here. It's recommended to visit on weekdays to avoid crowds, and don't forget to bring sunscreen and a change of clothes.
 
@@ -138,7 +138,7 @@ Located about a 30-minute drive from Nusa Dua, Waterboom Bali is one of the high
 
 ### 6. 🦜 Bali Cultural Village (Garuda Wisnu Kencana)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128295472-6a746e42f4cc324c672b9ade957e37ce.jpg)
+![6. Bali Cultural Village (Garuda Wisnu Kencana)](https://images.gobaligo.id/images/2026-04/1775128295472-6a746e42f4cc324c672b9ade957e37ce.jpg)
 
 GWK Cultural Park is situated on the highlands of Uluwatu, where the massive statue of Lord Vishnu is awe-inspiring and sure to leave children wide-eyed. The park regularly hosts traditional dance performances and Balinese music shows, making it a great place for kids to learn about Hindu culture. Visiting in the evening also offers a stunning sunset backdrop with the golden statue, creating a breathtaking scene.
 
@@ -152,7 +152,7 @@ Let your kids experience hands-on activities like Batik making or traditional ma
 
 ### 8. 🌺 Balinese Cooking Class (Family Edition)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128480568-hyatt-regency-bali-p111-mickey-mouse-pizza.webp)
+![8. Balinese Cooking Class (Family Edition)](https://images.gobaligo.id/images/2026-04/1775128480568-hyatt-regency-bali-p111-mickey-mouse-pizza.webp)
 
 Learning to cook Balinese dishes with local chefs is becoming increasingly popular among family travelers. Starting with a market visit to purchase ingredients and learn about various spices, then hands-on cooking to prepare dishes like fried rice or satay—kids will be fully engaged and might even insist on recreating the dishes back home. Several hotels in Nusa Dua offer family-friendly cooking classes, or you can book through travel platforms.
 
@@ -162,7 +162,7 @@ Learning to cook Balinese dishes with local chefs is becoming increasingly popul
 
 [Devdan Show] 💫 Aerial Acrobatics + Five Island Cultures + Dazzling Stage All in One!
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775127647696-devdan-show-bali-kite-dance-performance.jpeg)
+![9. Must-See Devdan Show in Bali](https://images.gobaligo.id/images/2026-04/1775127647696-devdan-show-bali-kite-dance-performance.jpeg)
 
 A grand stage performance held only three times a week, taking the audience on a cultural journey through Indonesia's five major islands via music, dance, and aerial stunts. Suitable for all ages, this is an experience you absolutely cannot miss.
 
@@ -193,23 +193,23 @@ Choosing the right hotel can make or break a family vacation. Here are five of t
 
 ### 🏨 The Westin Resort Nusa Dua, Bali ⭐ Top Pick for Families
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128567386-1.avif)
+![The Westin Resort Nusa Dua, Bali Top Pick for Families](https://images.gobaligo.id/images/2026-04/1775128567386-1.avif)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128567801-2.jpg)
+![The Westin Resort Nusa Dua, Bali Top Pick for Families](https://images.gobaligo.id/images/2026-04/1775128567801-2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128568260-3.jpg)
+![The Westin Resort Nusa Dua, Bali Top Pick for Families](https://images.gobaligo.id/images/2026-04/1775128568260-3.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128568644-4.jpg)
+![The Westin Resort Nusa Dua, Bali Top Pick for Families](https://images.gobaligo.id/images/2026-04/1775128568644-4.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128569074-5.jpg)
+![The Westin Resort Nusa Dua, Bali Top Pick for Families](https://images.gobaligo.id/images/2026-04/1775128569074-5.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128569464-494348065.jpg)
+![The Westin Resort Nusa Dua, Bali Top Pick for Families](https://images.gobaligo.id/images/2026-04/1775128569464-494348065.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128569855-504355293.jpg)
+![The Westin Resort Nusa Dua, Bali Top Pick for Families](https://images.gobaligo.id/images/2026-04/1775128569855-504355293.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128570239-552957828.jpg)
+![The Westin Resort Nusa Dua, Bali Top Pick for Families](https://images.gobaligo.id/images/2026-04/1775128570239-552957828.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128570547-429291714.jpg)
+![The Westin Resort Nusa Dua, Bali Top Pick for Families](https://images.gobaligo.id/images/2026-04/1775128570547-429291714.jpg)
 
 When it comes to family-friendly hotels in Nusa Dua, The Westin stands out as the most reliable choice. It has consistently been awarded 'Best Family Resort in Indonesia' by Australia's *Holidays with Kids* magazine—no exaggeration, just solid credentials.
 
@@ -231,23 +231,23 @@ For me, The Westin has perfected the hardest part of family travel: kids having 
 
 ### 🏨 The Apurva Kempinski Bali ⭐ Kempinski's Ultimate Luxury Aesthetics
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128664962-543684038.jpg)
+![The Apurva Kempinski Bali Kempinski's Ultimate Luxury Aesthe](https://images.gobaligo.id/images/2026-04/1775128664962-543684038.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128665368-543684090.jpg)
+![The Apurva Kempinski Bali Kempinski's Ultimate Luxury Aesthe](https://images.gobaligo.id/images/2026-04/1775128665368-543684090.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128665655-543684092.jpg)
+![The Apurva Kempinski Bali Kempinski's Ultimate Luxury Aesthe](https://images.gobaligo.id/images/2026-04/1775128665655-543684092.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128666001-595319338_1300862468749700_2611619189297659561_n.jpg)
+![The Apurva Kempinski Bali Kempinski's Ultimate Luxury Aesthe](https://images.gobaligo.id/images/2026-04/1775128666001-595319338_1300862468749700_2611619189297659561_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128666420-596957666_1300862688749678_5350672461555478575_n.jpg)
+![The Apurva Kempinski Bali Kempinski's Ultimate Luxury Aesthe](https://images.gobaligo.id/images/2026-04/1775128666420-596957666_1300862688749678_5350672461555478575_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128666780-597210417_1300862828749664_7530289180745397055_n.jpg)
+![The Apurva Kempinski Bali Kempinski's Ultimate Luxury Aesthe](https://images.gobaligo.id/images/2026-04/1775128666780-597210417_1300862828749664_7530289180745397055_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128667237-538698594.jpg)
+![The Apurva Kempinski Bali Kempinski's Ultimate Luxury Aesthe](https://images.gobaligo.id/images/2026-04/1775128667237-538698594.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128667810-image.jpeg)
+![The Apurva Kempinski Bali Kempinski's Ultimate Luxury Aesthe](https://images.gobaligo.id/images/2026-04/1775128667810-image.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128668270-20019601-8afc7f4d1142bd07265ccbf22fb801c1.jpeg)
+![The Apurva Kempinski Bali Kempinski's Ultimate Luxury Aesthe](https://images.gobaligo.id/images/2026-04/1775128668270-20019601-8afc7f4d1142bd07265ccbf22fb801c1.jpeg)
 
 If your budget allows, The Apurva Kempinski is undoubtedly the top choice for a premium family experience. This resort, inspired by Bali's traditional terraced architecture, leaves you breathless the moment you step into the lobby—the entire building is a work of art.
 
@@ -267,25 +267,25 @@ At Apurva, both parents and children can find their own happiness—this is the 
 
 ### 🏨 The Mulia & Mulia Resort ⭐ Tranquil Luxury Beach
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128747742-9d5cd0ab70caa0e4c39605cb63aedae2_large.jpeg)
+![The Mulia & Mulia Resort Tranquil Luxury Beach](https://images.gobaligo.id/images/2026-04/1775128747742-9d5cd0ab70caa0e4c39605cb63aedae2_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128748085-1.jpg)
+![The Mulia & Mulia Resort Tranquil Luxury Beach](https://images.gobaligo.id/images/2026-04/1775128748085-1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128748706-2.jpeg)
+![The Mulia & Mulia Resort Tranquil Luxury Beach](https://images.gobaligo.id/images/2026-04/1775128748706-2.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128749177-423587cf2a05b1a8d7e9585ac5aa9b51_large.jpeg)
+![The Mulia & Mulia Resort Tranquil Luxury Beach](https://images.gobaligo.id/images/2026-04/1775128749177-423587cf2a05b1a8d7e9585ac5aa9b51_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128749533-6532982_19013015410071862948_large.jpeg)
+![The Mulia & Mulia Resort Tranquil Luxury Beach](https://images.gobaligo.id/images/2026-04/1775128749533-6532982_19013015410071862948_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128749973-6532982_19013015410071862949_large.jpeg)
+![The Mulia & Mulia Resort Tranquil Luxury Beach](https://images.gobaligo.id/images/2026-04/1775128749973-6532982_19013015410071862949_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128750378-6532982_19013015410071862951_large.jpeg)
+![The Mulia & Mulia Resort Tranquil Luxury Beach](https://images.gobaligo.id/images/2026-04/1775128750378-6532982_19013015410071862951_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128750843-6532982_19052213430074651656_large.jpeg)
+![The Mulia & Mulia Resort Tranquil Luxury Beach](https://images.gobaligo.id/images/2026-04/1775128750843-6532982_19052213430074651656_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128751274-a6f2689a3b9e0bbc99243b017418e30d.jpg)
+![The Mulia & Mulia Resort Tranquil Luxury Beach](https://images.gobaligo.id/images/2026-04/1775128751274-a6f2689a3b9e0bbc99243b017418e30d.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128751709-splash-pool-for-children.jpg)
+![The Mulia & Mulia Resort Tranquil Luxury Beach](https://images.gobaligo.id/images/2026-04/1775128751709-splash-pool-for-children.jpg)
 
 Mulia is a legendary presence in Nusa Dua, boasting one of the longest private beaches in the area, complemented by multiple expansive swimming pools. You'll never feel bored just staying within the resort.
 
@@ -305,25 +305,25 @@ Mulia exudes a serene and luxurious atmosphere, making it ideal for parents who 
 
 ### 🏨 Grand Hyatt Bali ⭐ Water Kingdom
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128815136-1.jpg)
+![Grand Hyatt Bali Water Kingdom](https://images.gobaligo.id/images/2026-04/1775128815136-1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128815705-2.jpg)
+![Grand Hyatt Bali Water Kingdom](https://images.gobaligo.id/images/2026-04/1775128815705-2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128816151-3.webp)
+![Grand Hyatt Bali Water Kingdom](https://images.gobaligo.id/images/2026-04/1775128816151-3.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128816508-4.jpeg)
+![Grand Hyatt Bali Water Kingdom](https://images.gobaligo.id/images/2026-04/1775128816508-4.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128816840-4.jpg)
+![Grand Hyatt Bali Water Kingdom](https://images.gobaligo.id/images/2026-04/1775128816840-4.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128817183-539018055.jpg)
+![Grand Hyatt Bali Water Kingdom](https://images.gobaligo.id/images/2026-04/1775128817183-539018055.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128817513-539018063.jpg)
+![Grand Hyatt Bali Water Kingdom](https://images.gobaligo.id/images/2026-04/1775128817513-539018063.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128817949-539018071.jpg)
+![Grand Hyatt Bali Water Kingdom](https://images.gobaligo.id/images/2026-04/1775128817949-539018071.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128818286-539018072.jpg)
+![Grand Hyatt Bali Water Kingdom](https://images.gobaligo.id/images/2026-04/1775128818286-539018072.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128818657-539018096.jpg)
+![Grand Hyatt Bali Water Kingdom](https://images.gobaligo.id/images/2026-04/1775128818657-539018096.jpg)
 
 Grand Hyatt is one of the largest resorts in Nusa Dua, featuring a sprawling water park-style pool complex that spans the entire property. It's enough to keep the kids entertained for days without ever needing to leave.
 
@@ -341,25 +341,25 @@ Grand Hyatt is one of the largest resorts in Nusa Dua, featuring a sprawling wat
 
 ### 🏨 Grand Mirage Resort & Thalasso Bali ⭐ Lazy River Water World
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128852900-94391469.jpg)
+![Grand Mirage Resort & Thalasso Bali Lazy River Water World](https://images.gobaligo.id/images/2026-04/1775128852900-94391469.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128853625-124993412.jpg)
+![Grand Mirage Resort & Thalasso Bali Lazy River Water World](https://images.gobaligo.id/images/2026-04/1775128853625-124993412.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128853999-129846941.jpg)
+![Grand Mirage Resort & Thalasso Bali Lazy River Water World](https://images.gobaligo.id/images/2026-04/1775128853999-129846941.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128854336-225829248.jpg)
+![Grand Mirage Resort & Thalasso Bali Lazy River Water World](https://images.gobaligo.id/images/2026-04/1775128854336-225829248.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128854687-225829638.jpg)
+![Grand Mirage Resort & Thalasso Bali Lazy River Water World](https://images.gobaligo.id/images/2026-04/1775128854687-225829638.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128855031-225829648.jpg)
+![Grand Mirage Resort & Thalasso Bali Lazy River Water World](https://images.gobaligo.id/images/2026-04/1775128855031-225829648.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128855430-225829658.jpg)
+![Grand Mirage Resort & Thalasso Bali Lazy River Water World](https://images.gobaligo.id/images/2026-04/1775128855430-225829658.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128855768-225830033.jpg)
+![Grand Mirage Resort & Thalasso Bali Lazy River Water World](https://images.gobaligo.id/images/2026-04/1775128855768-225830033.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128856159-225830769.jpg)
+![Grand Mirage Resort & Thalasso Bali Lazy River Water World](https://images.gobaligo.id/images/2026-04/1775128856159-225830769.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128856501-577464057.jpg)
+![Grand Mirage Resort & Thalasso Bali Lazy River Water World](https://images.gobaligo.id/images/2026-04/1775128856501-577464057.jpg)
 
 If your child is a water enthusiast, Grand Mirage is practically a paradise tailored for them. This all-inclusive resort has a stellar reputation among families in Nusa Dua, and in 2025, it introduced a new feature that has everyone talking—**Bali’s longest Lazy River**, stretching approximately 215 meters. Once you start floating, you won’t want to get out.
 

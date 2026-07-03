@@ -19,7 +19,7 @@ lang: zh-hk
 _srcHash: cc63d2cd55e68d902595329253abf5ae
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17da9c41fcd163fd15b07a37a4a2e397.jpg)
+![平價版馬爾代夫：印尼嘅天堂島嶼：馬魯古（Maluku）介紹](https://images.gobaligo.id/vocus/vocus_17da9c41fcd163fd15b07a37a4a2e397.jpg)
 
 馬魯古（馬魯古群島）位於印尼東部地區，地理位置上：
 
@@ -36,7 +36,7 @@ _srcHash: cc63d2cd55e68d902595329253abf5ae
 
 馬魯古中部涵蓋咗多個島嶼，主要包括**塞蘭島（Seram）**以及周圍嘅好多小型島嶼。呢啲島嶼被環繞喺印度洋同太平洋交匯嘅海域，氣候屬於熱帶雨林氣候，全年溫暖濕潤，非常適合潛水同海上活動。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_57c6d073011f69505b098fcad7c34d6f.jpg)
+![1. 地理位置與氣候](https://images.gobaligo.id/vocus/vocus_57c6d073011f69505b098fcad7c34d6f.jpg)
 
 ---
 
@@ -44,21 +44,21 @@ _srcHash: cc63d2cd55e68d902595329253abf5ae
 
 馬魯古中部係自然愛好者嘅天堂，其原始嘅熱帶雨林同清澈見底嘅海洋吸引咗無數冒險家。以下係一啲不得不提嘅自然景點：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ad1e695a7be1c5cad8bfce79b7be2668.jpg)
+![2. 自然景觀](https://images.gobaligo.id/vocus/vocus_ad1e695a7be1c5cad8bfce79b7be2668.jpg)
 
 - **馬努塞拉國家公園（Manusela National Park）**  
   馬努塞拉國家公園係塞蘭島上嘅一個重要景點，擁有茂密嘅雨林同豐富嘅生物多樣性，係熱愛遠足同觀察野生動物者嘅夢幻之地。呢度仲係好多特有鳥類同植物嘅家園。
 - **奧拉海灣（Ora Beach）**  
   被譽為印尼版「馬爾代夫」，奧拉海灣擁有純淨嘅白沙灘、平靜嘅藍色潟湖，以及適合浮潛嘅珊瑚礁，特別適合鍾意水上活動嘅遊客。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1cf25a9f62b17efd19365e6e7abf3564.jpg)
+![2. 自然景觀](https://images.gobaligo.id/vocus/vocus_1cf25a9f62b17efd19365e6e7abf3564.jpg)
 
 - **內陸熱帶雨林**  
   塞蘭島上嘅雨林保留咗佢嘅原始狀態，適合行山、露營，同埋觀察好多只有喺呢片地區先睇到嘅動植物。
 - **Pantai Ngurtafur**  
   擁有一條延伸入海嘅白色沙洲，形狀似條長長嘅白色絲帶。沙洲長度可以去到2公里
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a7de8d6e803d45ae699dbe6b6fd12be9.jpg)
+![2. 自然景觀](https://images.gobaligo.id/vocus/vocus_a7de8d6e803d45ae699dbe6b6fd12be9.jpg)
 
 ---
 
@@ -99,7 +99,7 @@ _srcHash: cc63d2cd55e68d902595329253abf5ae
 
 ## 📩 **立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: 606537059b799d1c614b3546bdb12721
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7fd7545646d5af015dd7862936b090bb.png)
+![【出發去峇里島離島】沙努爾行李寄存攻略](https://images.gobaligo.id/vocus/vocus_7fd7545646d5af015dd7862936b090bb.png)
 
 沙努爾係峇里島著名嘅海灘度假勝地，擁有綿延嘅海岸線、寧靜嘅氛圍同豐富嘅海洋活動，仲有出發去佩尼達島、藍夢島、吉利群島等峇里島離島嘅港口。如果你計劃去呢啲峇里島離島玩/過夜，但又唔想帶住大行李周圍走，咁行李寄存服務就係你嘅最佳選擇。
 
@@ -45,7 +45,7 @@ Bounce Luggage Storage 係一間全球性嘅行李寄存服務供應商，喺沙
 
 Bali Store Luggage 係一間位於峇里島嘅本地行李寄存服務供應商。Bali Store Luggage 提供一星期、甚至一年嘅寄存服務。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8e1834f025431a7b33787ddaf81ff3fe.png)
+![【出發去峇里島離島】沙努爾行李寄存攻略](https://images.gobaligo.id/vocus/vocus_8e1834f025431a7b33787ddaf81ff3fe.png)
 
 喺選擇行李寄存地點時，你需要注意以下幾點：
 

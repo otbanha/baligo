@@ -21,7 +21,7 @@ _srcHash: e03dff00fcdecf9671a4929f95f2c69d
 
 想去峇里島度假，或者就快出發去印尼旅行？記住除咗訂好機票同住宿之外，仲有幾份**重要嘅入境文件**要提前準備。如果無事先搞掂，唔單止可能會耽誤登機，入境時仲可能會遇到麻煩。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2775fee2fe386d7041bb19dfab0cd31a.png)
+![印尼/峇里島旅遊入境必備！簽證、報關、觀光稅與健康聲明一次睇晒](https://images.gobaligo.id/vocus/vocus_2775fee2fe386d7041bb19dfab0cd31a.png)
 
 為咗令你順利過關，以下整理咗目前最新嘅四大入境文件，包括申辦時間、有效期限同注意事項，一次過睇晒，輕鬆準備！
 

@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: 2419c528a26d346062f0aea35d148162
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_99e3337f8aad55a08c019c50bfec06e8.jpg)
+![預算中享受奢華：Cretya Ubud 泳池俱樂部與 Alas Harum 消費指南](https://images.gobaligo.id/vocus/vocus_99e3337f8aad55a08c019c50bfec06e8.jpg)
 
 各位旅行者！今日，我哋將會探索峇里島烏布迷人嘅秘境，發現一個能夠捕捉呢個美麗島嶼精華嘅隱藏寶地。位於翠綠景觀同充滿活力嘅傳統之中嘅係 Alas Harum 同 Cretya Ubud。喺呢篇文章中，我哋會分享一啲寶貴嘅旅行貼士，幫你喺峇里島嘅 Alas Harum 同 Cretya Ubud 享受完美嘅旅行體驗。
 
@@ -42,13 +42,13 @@ Alas Harum 入場費門票約為 3.50 美金，咁你就可以進入 Alas Harum 
 冇低消嘅寶位
 
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00cc783d240cbd519bb5530130ee3758.png)
-![raw-image](https://images.gobaligo.id/vocus/vocus_5b95d59ad5a6154f98d1cd2d1b86a22c.png)
-![raw-image](https://images.gobaligo.id/vocus/vocus_e08d7719fe40ef646251e3a1103fdd73.png)
-![raw-image](https://images.gobaligo.id/vocus/vocus_4680f5d4765eb5af3ae22d14bf899e13.png)
-![raw-image](https://images.gobaligo.id/vocus/vocus_3c629ca5ab711b2fafc80496b73e38cd.png)
-![raw-image](https://images.gobaligo.id/vocus/vocus_36131fbcd473013960dd782fe21b5db2.png)
-![raw-image](https://images.gobaligo.id/vocus/vocus_ba56ed7726ab4c909d3fa14c577078aa.png)
+![學識點樣避開人群、慳錢](https://images.gobaligo.id/vocus/vocus_00cc783d240cbd519bb5530130ee3758.png)
+![學識點樣避開人群、慳錢](https://images.gobaligo.id/vocus/vocus_5b95d59ad5a6154f98d1cd2d1b86a22c.png)
+![學識點樣避開人群、慳錢](https://images.gobaligo.id/vocus/vocus_e08d7719fe40ef646251e3a1103fdd73.png)
+![學識點樣避開人群、慳錢](https://images.gobaligo.id/vocus/vocus_4680f5d4765eb5af3ae22d14bf899e13.png)
+![學識點樣避開人群、慳錢](https://images.gobaligo.id/vocus/vocus_3c629ca5ab711b2fafc80496b73e38cd.png)
+![學識點樣避開人群、慳錢](https://images.gobaligo.id/vocus/vocus_36131fbcd473013960dd782fe21b5db2.png)
+![學識點樣避開人群、慳錢](https://images.gobaligo.id/vocus/vocus_ba56ed7726ab4c909d3fa14c577078aa.png)
 
 ## 提醒事項
 
@@ -62,7 +62,7 @@ Alas Harum 入場費門票約為 3.50 美金，咁你就可以進入 Alas Harum 
 
 ## 泳池之外
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e9cbd0f15bdc73dd25d09caff791f3b2.jpg)
+![泳池之外](https://images.gobaligo.id/vocus/vocus_e9cbd0f15bdc73dd25d09caff791f3b2.jpg)
 
 除咗三層式嘅泳池之外，呢度仲有可以適合影超多靚相嘅壯麗梯田景觀、鳥巢、猩猩洞穴同 19 米高嘅印尼國父蘇卡諾雕像... 等等。至於冒險愛好者仲可以試下 35 米嘅舞動橋、極限鞦韆、超極限鞦韆、團體鞦韆同雙人鞦韆。如果呢啲仲唔夠刺激，你可以試下空中單車、巨型空中單車同飛狐飛索。Alas Harum 真係有啱每個人嘅活動！
 
@@ -88,7 +88,7 @@ Cretya Ubud 每日都係中午到傍晚最多人
 
 烏布嘅旅遊業由全面嘅住宿設施支撐，從平嘅旅館到豪華嘅度假村一應俱全。無論你嘅預算係點，都可以喺烏布搵到合適嘅住宿。可以參考底下嘅烏布住宿推薦：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_02093589e6f9903498b1c3ef6c792e6f.jpg)
+![烏布嘅住宿選擇](https://images.gobaligo.id/vocus/vocus_02093589e6f9903498b1c3ef6c792e6f.jpg)
 
 - [【峇里島烏布住宿】烏布28家特色住宿，體驗峇里島山林美景中嘅奇幻之旅！](/blog/ubud-villas-pool-guide/)
 - [探索烏布9家令人嘆為觀止嘅樹屋/竹屋別墅 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)

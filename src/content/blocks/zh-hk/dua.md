@@ -8,7 +8,7 @@ _srcHash: 51844f8307ddb6cfaf1fba4bf55f4bb1
 
 ## 更多努沙杜瓦食玩介紹
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774670664849-index.png)
+![更多努沙杜瓦食玩介紹](https://images.gobaligo.id/images/2026-03/1774670664849-index.png)
 
 努沙杜瓦係峇里島出名嘅豪華度假村地區，有雪白嘅沙灘、碧藍嘅海水同埋完善嘅旅遊設施，係追求高端享受同寧靜假期嘅首選。呢度仲提供頂級水療、水上活動、同埋適合全家大小嘅休閒活動，係各類旅客嘅天堂。想了解更多努沙杜瓦攻略？請撳[呢度](/blog/nusa-dua-guide/)
 

@@ -20,7 +20,7 @@ _srcHash: a3a7e3af1823f7e124ec1425d964dca6
 
 峇里島最高峰、神聖嘅阿貢山將會由10月1號到11月30號暫時對外關閉。呢段時間，無論係遊客定係當地居民，都唔准進入阿貢山，因為當地社區將會進行每十年一次嘅大型宗教儀式。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7d1b23f13bb45f8f4090e3555ac1a358.png)
+![峇里島神山阿貢火山關閉兩個月，禁止遊客登山](https://images.gobaligo.id/vocus/vocus_7d1b23f13bb45f8f4090e3555ac1a358.png)
 
 阿貢山係峇里島最具靈性嘅地標之一，同時亦係一座活火山。每年都有大量嘅遊客凌晨出發，為咗喺山頂欣賞壯麗嘅日出。然而，對於峇里島嘅印度教徒嚟講，阿貢山唔單止係一座火山，佢係必須按照傳統同宗教進行尊敬嘅神聖之地。
 
@@ -34,7 +34,7 @@ _srcHash: a3a7e3af1823f7e124ec1425d964dca6
 
 雖然阿貢山喺呢兩個月期間關閉，對好多遊客嚟講可能有點失望，但峇里島上仲有其他著名嘅山峰開放，好似巴杜爾山（Mount Batur）同巴圖卡魯山（Mount Batukaru）。如果天氣好，從巴杜爾山嘅山頂仲可以睇到阿貢山嘅美景呢！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1efeaab1b55ccb879580aa7b6c6fac01.png)
+![峇里島神山阿貢火山關閉兩個月，禁止遊客登山](https://images.gobaligo.id/vocus/vocus_1efeaab1b55ccb879580aa7b6c6fac01.png)
 
 另外，登山嘅時候一定要**記得請當地向導**，無論你要爬嘅係大山定係小山。峇里島嘅山路雖然冇好似喜馬拉雅山或者阿爾卑斯山咁高，但路線並唔好行，標示亦唔清楚，每個月當地嘅救援隊都要去救援迷路或者受傷嘅登山客。
 
@@ -44,7 +44,7 @@ _srcHash: a3a7e3af1823f7e124ec1425d964dca6
 
 📩 **立即加入「峇里島旅遊攻略」網誌，成為峇里島旅遊達人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![註冊加入我哋嘅網誌](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

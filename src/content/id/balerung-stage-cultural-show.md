@@ -23,7 +23,7 @@ lang: id
 _srcHash: 577fe6ba24cabac9e25b60ffb7d97c56
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fa001ec17be16c90af2ed5df4564bccc.jpg)
+![Eksplorasi Permata Budaya Bali: Pengalaman Pertunjukan Tradi](https://images.gobaligo.id/vocus/vocus_fa001ec17be16c90af2ed5df4564bccc.jpg)
 
 Kalau kamu mau ngerasain budaya tradisional Bali secara mendalam, pertunjukan di Balerung Stage wajib banget dicoba! Panggung tradisional yang terletak di Ubud ini, setiap minggunya menampilkan tarian dan musik khas Bali yang bikin penonton bisa merasakan kekayaan warisan budaya pulau ini. Berbeda dengan pertunjukan turis yang komersial, Balerung Stage terkenal dengan keaslian dan ekspresi seni murninya, bikin kamu serasa kembali ke masa lalu Bali, tenggelam dalam pesona tarian dan musik.
 
@@ -65,7 +65,7 @@ Kalau kamu berencana ke Bali, mampir langsung aja ke Balerung Stage. Setiap pert
 
 📩 **Langganan sekarang blog 'Panduan Travel Bali', jadi traveler Bali yang jago!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Daftar & Gabung Blog Kami](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

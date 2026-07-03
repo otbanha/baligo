@@ -25,7 +25,7 @@ _srcHash: 30da34127bdb0012bb8de0d97fb29688
 For readers planning to visit Bali at the end of this year or early next year, have you seen our latest announcement on the [Facebook group](https://www.facebook.com/share/p/1DCH98qzUf/) from Indonesia's BMKG (Meteorological, Climatological, and Geophysical Agency)? It's a warning about heavy rainfall from late December to early January, which is the most critical period during the annual rainy season.
 As a long-term resident of Indonesia and frequent traveler to Bali, I've compiled a guide to help you plan your trip for January-February 2027 with more clarity.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_900409df53579a6382a92eb5f137d800.jpg)
+![Bali Rainy Season Guide: December-February](https://images.gobaligo.id/vocus/vocus_900409df53579a6382a92eb5f137d800.jpg)
 
 ## 🌧 Rainfall Expected to Reach 300–500mm: Late December to Early January is Peak Rainy Season
 
@@ -55,7 +55,7 @@ The actual experience is usually:
 - Stable evenings perfect for dining, shopping, and photography
 So what travelers really need to do is "**make the most of the good weather in the morning**."
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f65b6856f52789decc1d59a008ae02ed.jpg)
+![Don't Misunderstand! Sunny Days Still Exist During the Rainy](https://images.gobaligo.id/vocus/vocus_f65b6856f52789decc1d59a008ae02ed.jpg)
 
 ## 🎒 **Bali Travel Recommendations for January-February 2027**
 
@@ -83,7 +83,7 @@ Rain will still fall, but the rhythm feels more like a typical rainy season, not
 
 ## 🌈 Bali's Rainy Season is Actually Quite Charming
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_30a080584a5be323dabd95d7c05fdcf7.jpg)
+![Bali's Rainy Season is Actually Quite Charming](https://images.gobaligo.id/vocus/vocus_30a080584a5be323dabd95d7c05fdcf7.jpg)
 
 Honestly, I have a love-hate relationship with Bali during this time. After a rain shower, the entire island feels freshly washed: the air is crisp, the greenery is lush, waterfalls are more spectacular, and Ubud's rice fields look like oil paintings. Plus, with fewer tourists and cheaper accommodations, this period can be even more enjoyable than peak season for those who love slow travel, nature photography, good food, and spa treatments.
 

@@ -19,7 +19,7 @@ _srcHash: 791c075abde39aaa48611ca605ab3965
 
 農曆新年係峇里島嘅熱門旅遊旺季，每年都會吸引來自世界各地嘅遊客前來度假，尤其係喺東亞呢一帶，將農曆新年當作一年之中唯一長假嘅國家。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aedb411b6e226d4dabf13a829b7b4a0e.png)
+![【2026版】農曆新年峇里島家庭旅遊攻略：春節嘅機票、簽證、交通、景點、注意事項全攻略](https://images.gobaligo.id/vocus/vocus_aedb411b6e226d4dabf13a829b7b4a0e.png)
 
 ➡️[搵峇里島住宿請睇呢度](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️
 
@@ -102,7 +102,7 @@ _srcHash: 791c075abde39aaa48611ca605ab3965
 
 ## ⚠️必睇⚠️2026農曆新年慶祝活動
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8e4b2a2c15a42216e739d2c0cdcbdb4f.jpg)
+![必睇2026農曆新年慶祝活動](https://images.gobaligo.id/vocus/vocus_8e4b2a2c15a42216e739d2c0cdcbdb4f.jpg)
 
 想喺今年嘅春節喺峇里島感受農曆新年嘅氣氛？我哋整理咗舞龍舞獅表演嘅地點、除夕團圓大餐嘅餐廳、新年參拜嘅中式寺廟等資訊，請睇「[2026峇里島慶祝農曆新年嘅活動資訊整理](/blog/2026-bali-lunar-new-year/)」
 

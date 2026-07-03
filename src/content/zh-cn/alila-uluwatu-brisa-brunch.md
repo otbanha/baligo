@@ -26,9 +26,9 @@ _srcHash: 8863bf03cd1589851b70b830f00c3c9c
 
 站在Alila Villas Uluwatu的CIRE餐厅露台上，印度洋的海风轻抚脸颊，脚下是令人屏息的悬崖海景。这不是普通的早午餐约会，而是一场从正午持续到黄昏的味觉马拉松。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e55c018e9b192b77298e2d3ab4f021e4.jpg)
+![【巴厘岛最强周日早午餐】Alila Villas Uluwatu Brisa Brunch：悬崖边的印度洋味觉盛宴](https://images.gobaligo.id/vocus/vocus_e55c018e9b192b77298e2d3ab4f021e4.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a2eb3064d9941b060c7ff0260527c5d.jpg)
+![【巴厘岛最强周日早午餐】Alila Villas Uluwatu Brisa Brunch：悬崖边的印度洋味觉盛宴](https://images.gobaligo.id/vocus/vocus_9a2eb3064d9941b060c7ff0260527c5d.jpg)
 
 ## 当"Brunch"遇上巴厘岛时间
 
@@ -36,7 +36,7 @@ _srcHash: 8863bf03cd1589851b70b830f00c3c9c
 
 KLOOK新推出的「[乌鲁瓦图阿丽拉别墅酒店的用餐体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063734&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F156213-dining-experience-at-alila-villas-uluwatu%2F)」让住不起 Alila 的平民老百姓如我们，也有机会撒野体验一下奢华。于是我们预约了1点的座位，打算用整个下午慢慢品味这场美食之旅。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cd123f46c39552d4bf8ae22a5cc40d7e.png)
+![当"Brunch"遇上巴厘岛时间](https://images.gobaligo.id/vocus/vocus_cd123f46c39552d4bf8ae22a5cc40d7e.png)
 
 ## 海鲜爱好者的天堂
 
@@ -50,7 +50,7 @@ KLOOK新推出的「[乌鲁瓦图阿丽拉别墅酒店的用餐体验](https://a
 
 甜点区像个现代艺术展，特别是那道"破碎巧克力球"，服务员会当场淋上热百香果酱，看着巧克力外壳如火山熔岩般裂开，露出里面的椰子冰淇淋和热带水果。隔壁桌的小朋友看得目瞪口呆，连手机游戏都忘了玩。而我私心最爱的是斑斓叶提拉米苏，东南亚香草与意式甜点的跨界恋情，吃起来有种叛逆的美味。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9d5b33c029f609db6725ad75ff99f312.jpg)
+![甜点师的恶作剧](https://images.gobaligo.id/vocus/vocus_9d5b33c029f609db6725ad75ff99f312.jpg)
 
 ## 悬崖边的消化时光
 

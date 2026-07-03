@@ -20,7 +20,7 @@ _srcHash: 1dbc40af94ee46c21de7d018afe0e0ad
 
 峇里島喺11月迎來重要節慶 **Galungan（11月18–20日）**，同埋12月嘅聖誕新年假期，街道往往更加繁忙。為咗避免事故增加，當地警方已經提前啟動年度交通管制 **「斑馬行動」**。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8885ac4311d8bdda3c5e0fd40566a5d6.jpg)
+![【峇里島進入節慶前夕：警方展開大規模交通稽查「斑馬行動」】](https://images.gobaligo.id/vocus/vocus_8885ac4311d8bdda3c5e0fd40566a5d6.jpg)
 
 喺熱門路口，你會見到更多警力部署，將近 **1700名執法人員**投入查核，尤其針對騎乘電單車嘅外國旅客。
 
@@ -86,7 +86,7 @@ _srcHash: 1dbc40af94ee46c21de7d018afe0e0ad
 
 提供司機或基礎教學，係咪可以令新手旅客更加安心？值得大家思考。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b7d148fa791d6ef5869f955394fb7967.jpg)
+![【你點睇？專業駕駛陪同係咪可以幫到初學者？】](https://images.gobaligo.id/vocus/vocus_b7d148fa791d6ef5869f955394fb7967.jpg)
 
 ---
 

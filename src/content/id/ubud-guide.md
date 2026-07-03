@@ -85,7 +85,7 @@ Istana Air Ubud sendiri nggak terlalu besar, kalau cuma jalan-jalan doang nggak 
 
 ### Tari Kecak Api di Istana Ubud (👉🏼 Peta: [Pusat Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_71b471a674052df7495db6869ab3fe8f.jpg)
+![Tari Kecak Api di Istana Ubud ( Peta: Pusat Ubud)](https://images.gobaligo.id/vocus/vocus_71b471a674052df7495db6869ab3fe8f.jpg)
 
 Saat malam tiba di Istana Ubud, ada pertunjukan spektakuler yang menampilkan keindahan mistis Tari Kecak Api. Ini adalah perpaduan unik antara tarian khas Bali, musik, dan elemen teater. Api yang berderak dan gerakan penari yang anggun berpadu di halaman istana, menghadirkan pengalaman budaya yang nggak terlupakan.
 
@@ -107,7 +107,7 @@ Tapi karena kera di sini nakal banget, pengunjung harus tetap waspada saat masuk
 
 ### Pasar Seni Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_67fb13bc56e5bc20ca5def2d59d70a41.jpg)
+![Pasar Seni Ubud](https://images.gobaligo.id/vocus/vocus_67fb13bc56e5bc20ca5def2d59d70a41.jpg)
 
 Pasar seni di Ubud nggak cuma yang terkenal 'Ubud Art Market'! Kalau kamu mau eksplorasi budaya dan keindahan seni lokal, pasar-pasar tersembunyi ini wajib banget dikunjungi. Ajak kamu jalan-jalan ke empat pasar unik yang dikelola seniman lokal, rasakan nuansa seni Ubud yang autentik. Dari kerajinan tangan sampai lukisan, setiap pasar punya harta karun unik yang siap kamu temukan.
 
@@ -115,7 +115,7 @@ Lihat: [Panduan Lengkap 5 Pasar Seni Terbaik Ubud: Beli Oleh-Oleh/Cinderamata, C
 
 ### Folk Pool & Gardens, Pool Club Tersembunyi yang Tenang di Tengah Keramaian Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2cc396ec6670466a36f49416c315f046.jpg)
+![Folk Pool & Gardens, Pool Club Tersembunyi yang Tenang di Te](https://images.gobaligo.id/vocus/vocus_2cc396ec6670466a36f49416c315f046.jpg)
 
 Di pusat keramaian Ubud, Bali, selain toko-toko yang nggak ada habisnya, barang seni unik yang bisa dijelajahi, makanan lezat dan sehat dari berbagai negara, Yoga dan Spa yang menyegarkan jiwa dan raga... ternyata ada juga surga tersembunyi yang terisolasi: Folk Pool & Garden
 
@@ -129,7 +129,7 @@ Video tempat ini ada [di sini](https://youtu.be/JtxZHtijEkE?si=BRDnMk_1u0E3eheX&
 
 ### Pemandangan Sawah Terasering Warisan Dunia (👉🏼 Peta: [Tempat Wisata Populer di Sekitar Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b32736a5ef98517bd7b4ebd87af9506f.jpg)
+![Pemandangan Sawah Terasering Warisan Dunia ( Peta: Tempat Wi](https://images.gobaligo.id/vocus/vocus_b32736a5ef98517bd7b4ebd87af9506f.jpg)
 
 Pemandangan sawah terasering di sekitar Ubud adalah salah satu daya tarik utama Bali. Pemandangan spektakuler bak lukisan ini bahkan dinobatkan sebagai Warisan Dunia UNESCO. Area sawah terasering ini nggak cuma menampilkan keajaiban alam, tapi juga menunjukkan harmoni antara alam dan manusia. Jadi destinasi wajib yang nggak boleh kamu lewatkan di Bali.
 
@@ -145,7 +145,7 @@ Waktu terbaik buat menangkap keindahan sawah terasering adalah saat pagi hari, p
 
 ### Alas Harum (👉🏼 Peta: [Tempat Hits di Sekitar Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bb9942f9c364faf4117fcfd96a564d01.jpg)
+![Alas Harum ( Peta: Tempat Hits di Sekitar Ubud)](https://images.gobaligo.id/vocus/vocus_bb9942f9c364faf4117fcfd96a564d01.jpg)
 
 Dekat dengan sawah terasering Tegalalang yang udah disebut di atas, ada satu tempat namanya Alas Harum. Lokasinya sekitar 20 menit naik mobil dari pusat Ubud ke utara. Yang paling terkenal dari Alas Harum ya pemandangan sawah teraseringnya yang keren banget.
 
@@ -205,7 +205,7 @@ Kedua pura air suci ini punya pesona dan nilai budaya masing-masing, plus suasan
 
 ### Kunjungi Desa Penglipuran (👉🏼 Peta: [Tempat wisata populer di sekitar Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_52e021ca1f655e109c3a05e03e3df486.jpg)
+![Kunjungi Desa Penglipuran ( Peta: Tempat wisata populer di s](https://images.gobaligo.id/vocus/vocus_52e021ca1f655e109c3a05e03e3df486.jpg)
 
 Jalan-jalan di Desa Penglipuran, desa tradisional yang kaya sejarah dan warisan. Dijuluki 'desa terindah di Bali', tempat ini mempertahankan salah satu komunitas tradisional Bali yang paling utuh. Maknanya spesial karena masih menjaga budaya asli Bali dan gaya hidup unik. Desa ini penuh dengan nuansa budaya Bali, benar-benar harta karun Bali yang berharga. [Baca ulasan lengkapnya](/blog/penglipuran-village-bali-experience/)
 
@@ -215,7 +215,7 @@ Jalan-jalan di Desa Penglipuran, desa tradisional yang kaya sejarah dan warisan.
 
 ### Kunjungi Taman Dedari (👉🏼 Peta: [Tempat Wisata Populer di Sekitar Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_809bfed2477253b1d4a6dff5862b0b31.png)
+![Kunjungi Taman Dedari ( Peta: Tempat Wisata Populer di Sekit](https://images.gobaligo.id/vocus/vocus_809bfed2477253b1d4a6dff5862b0b31.png)
 
 Taman Dedari adalah salah satu spot hits di Ubud yang terkenal dengan patung bidadari raksasa ikoniknya. Di sini, kamu nggak cuma bisa menikmati makanan enak, tapi juga tempat yang penuh seni dan budaya. Di bawah naungan para bidadari, kamu bisa mencicipi kuliner lokal sambil merasakan vibe khas Ubud — bikin pengalaman makan jadi tak terlupakan.
 
@@ -227,7 +227,7 @@ Di dalamnya banyak banget spot foto yang instagramable, jadi kamu bisa puas-puas
 
 ### Interaksi Dekat dengan Gajah (👉🏼 Peta: [Tempat Wisata Populer di Sekitar Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_471a6d202fac321f8d10bdd75ccfecba.jpg)
+![Interaksi Dekat dengan Gajah ( Peta: Tempat Wisata Populer d](https://images.gobaligo.id/vocus/vocus_471a6d202fac321f8d10bdd75ccfecba.jpg)
 
 Mason Elephant Park adalah taman hewan yang bikin surprise di kawasan Ubud, terkenal dengan kawasan konservasi gajahnya. Tempat ini kasih kamu kesempatan langka untuk berinteraksi langsung dengan gajah.
 
@@ -241,7 +241,7 @@ Mason Elephant Park bakal ngajak kamu petualangan seru bareng gajah, sambil teta
 
 ### Petualangan Safari Liar di Bali Safari & Marine Park (👉🏼 Peta: [Tempat Hits di Sekitar Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e404b6b5bbf85614fde2c6d98068eaa.jpg)
+![Petualangan Safari Liar di Bali Safari & Marine Park ( Peta:](https://images.gobaligo.id/vocus/vocus_2e404b6b5bbf85614fde2c6d98068eaa.jpg)
 
 Bali Safari & Marine Park adalah petualangan safari liar yang bikin kamu takjub. Taman ini mengumpulkan makhluk-makhluk paling memukau dari alam, jadi tempat favorit buat liburan keluarga yang seru sambil belajar.
 
@@ -253,7 +253,7 @@ Bali Safari & Marine Park punya mobil petualangan safari yang bakal bawa kamu ke
 
 ### Marine Safari Bali (👉🏼 Peta: [Tempat Hits di Sekitar Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7d2f30ebdf8c684b0a79022b574490b5.jpg)
+![Marine Safari Bali ( Peta: Tempat Hits di Sekitar Ubud)](https://images.gobaligo.id/vocus/vocus_7d2f30ebdf8c684b0a79022b574490b5.jpg)
 
 Pengen kunjungin satu tempat tapi bisa lihat dua dunia?
 
@@ -261,7 +261,7 @@ Pengen kunjungin satu tempat tapi bisa lihat dua dunia?
 
 Panduan lengkap 'Bali Marine Safari Park' [cek artikel kami](/blog/marine-safari-bali-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ca1f0902f94caa16d3c871e271096227.png)
+![Marine Safari Bali ( Peta: Tempat Hits di Sekitar Ubud)](https://images.gobaligo.id/vocus/vocus_ca1f0902f94caa16d3c871e271096227.png)
 
 > Pesan tiket sekarang, bisa dapet [harga spesial](https://affiliate.klook.com/redirect?aid=116349&aff_adid=986936&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D242e58b391)
 
@@ -269,7 +269,7 @@ Panduan lengkap 'Bali Marine Safari Park' [cek artikel kami](/blog/marine-safari
 
 ### Serayu Pot (👉🏼 Peta: [Tempat Hits di Sekitar Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_92cd13cd6652629a34cb2c497e611615.jpg)
+![Serayu Pot ( Peta: Tempat Hits di Sekitar Ubud)](https://images.gobaligo.id/vocus/vocus_92cd13cd6652629a34cb2c497e611615.jpg)
 
 Serayu Pot ada di jantung Ubud, tempat workshop dan galeri keramik. Tempat unik ini nggak cuma pamerin kerajinan tembikar tradisional yang kece, tapi juga kasih kesempatan buat interaksi sama senimannya. Kamu bisa ikut workshop bikin keramik langsung, belajar proses dari tanah liat sampai jadi gerabah cantik, bikin kamu ngerasain sendiri serunya seni. Di Serayu Pot, kamu bisa cari oleh-oleh keramik unik sambil nikmatin karya seniman lokal. Tempat ini wajib dikunjungi buat yang pengen ngerasain budaya dan seni Ubud. Oh iya, kamu juga bisa ikut kelas bikin keramik di sini!
 
@@ -277,7 +277,7 @@ Serayu Pot ada di jantung Ubud, tempat workshop dan galeri keramik. Tempat unik 
 
 ### Bali Bird Park (👉🏼 Peta: [Tempat Hits di Sekitar Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_37e4c8975e85f934d0d43d1f8d8f3a69.png)
+![Bali Bird Park ( Peta: Tempat Hits di Sekitar Ubud)](https://images.gobaligo.id/vocus/vocus_37e4c8975e85f934d0d43d1f8d8f3a69.png)
 
 Bali Bird Park adalah tempat seru dan penuh ilmu di area Ubud, cocok banget buat liburan keluarga. Tempat ini nggak cuma pamerin hampir 1.350 spesies burung yang indah, tapi juga jadi tempat ideal buat anak-anak belajar lebih dalam tentang dunia burung.
 
@@ -301,7 +301,7 @@ Tips: kalau mau foto bareng monyet di Bali, mending pilih sini aja, soalnya mony
 
 ### Taman Beji Griya Waterfall (👉🏼 Peta: [Destinasi Hits Sekitar Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e6e25f5e73d83736336089f22edff298.jpg)
+![Taman Beji Griya Waterfall ( Peta: Destinasi Hits Sekitar Ub](https://images.gobaligo.id/vocus/vocus_e6e25f5e73d83736336089f22edff298.jpg)
 
 Air terjun ini benar-benar tersembunyi di tengah hutan hijau yang rimbun, dianggap sebagai salah satu air terjun terindah dan paling spiritual di kawasan ini. Keunikan tempat ini adalah perpaduan antara keindahan alam dan elemen spiritual yang dalam. Pura Taman Beji Griya Gede Manuaba Punggul punya sembilan mata air dan dua air terjun, yang kasih pengalaman nggak cuma buat mata, tapi juga buat pembersihan jiwa. Sebagian besar pengunjung datang buat ikut ritual **melukat** tradisional Bali, yaitu upacara pembersihan di sumber air suci yang dipercaya bisa menghilangkan energi negatif.
 
@@ -315,7 +315,7 @@ Buat kamu yang tertarik dengan pengalaman spiritual ini, bisa ikut [Klook一日�
 
 ✨ Taman Kunang-Kunang di Bali Raih Penghargaan Ekowisata!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f390ebaed29268e4d1bc7c04e5e1a6e5.jpg)
+![Taman Kunang-Kunang The Firefly Garden（ Peta: Tempat Wisata ](https://images.gobaligo.id/vocus/vocus_f390ebaed29268e4d1bc7c04e5e1a6e5.jpg)
 
 Nikmati pemandangan kunang-kunang yang beterbangan di bawah langit malam yang romantis 🌌, sambil mendukung konservasi dan pertanian organik 🌿. 👯‍♀️ Kalau kamu ke Ubud lain kali, jangan lupa atur pengalaman malam yang ajaib ini! Info lengkap ada di [sini](/blog/the-firefly-garden-ubud/)
 
@@ -323,7 +323,7 @@ Nikmati pemandangan kunang-kunang yang beterbangan di bawah langit malam yang ro
 
 ### Pengalaman Seni Cahaya Imersif Hikaria Ubud（👉🏼 Peta: [Tempat Wisata Populer di Sekitar Ubud](https://gobaligo.id/map/ubud/)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c6bc3ac263f6d6a9188ed3aa6b2c582d.jpg)
+![Pengalaman Seni Cahaya Imersif Hikaria Ubud（ Peta: Tempat Wi](https://images.gobaligo.id/vocus/vocus_c6bc3ac263f6d6a9188ed3aa6b2c582d.jpg)
 
 Pengalaman malam imersif di Ubud, Bali, yang menggabungkan inovasi digital dan hiburan imersif. Dibuat oleh para ahli, perpaduan sempurna antara mitologi tradisional dan teknologi mutakhir. Jalur hutan sepanjang satu kilometer berubah menjadi dunia cahaya yang memukau, menceritakan legenda dewa cahaya dan dewa bayangan melalui teknologi proyeksi canggih.
 
@@ -333,7 +333,7 @@ Pengalaman malam yang unik ini cocok buat semua usia, baik untuk kencan romantis
 
 ### Wisata Kayu Putih Bayan 神木風景區（👉🏼Peta: [Tempat Populer di Sekitar Ubud](https://gobaligo.id/map/ubud/)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2c3bc45f0626ebf69733b0745a47a021.jpg)
+![Wisata Kayu Putih Bayan 神木風景區（Peta: Tempat Populer di Sekita](https://images.gobaligo.id/vocus/vocus_2c3bc45f0626ebf69733b0745a47a021.jpg)
 
 Wisata Kayu Putih Bayan terletak di Kabupaten Buleleng, Bali utara, dan terkenal dengan pohon raksasa berusia ribuan tahun. Pohon Kayu Putih (artinya 'kayu putih' dalam bahasa Indonesia) ini diperkirakan berusia lebih dari seribu tahun, dengan batang yang sangat besar hingga butuh puluhan orang untuk memeluknya, dan kanopi yang menjulang tinggi menutupi area luas. Warga setempat menganggap pohon kuno ini sakral, percaya punya kekuatan spiritual, dan sering ada yang datang untuk berdoa serta mengadakan upacara tradisional.
 
@@ -349,7 +349,7 @@ Ubud adalah salah satu pusat aktivitas wisata paling kaya di Bali. Tempat ini me
 
 ### Ikut Arung Jeram
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5854ad12287ebc9495ee29e43f9dbb53.jpg)
+![Ikut Arung Jeram](https://images.gobaligo.id/vocus/vocus_5854ad12287ebc9495ee29e43f9dbb53.jpg)
 
 Buat para petualang yang suka tantangan, ikut arung jeram (rafting) adalah pilihan yang super menarik. Sungai-sungai di sekitar Ubud berkelok-kelok, melintasi lembah biru dan hutan, memberikan petualangan baru yang seru. Dalam petualangan ini, kamu akan melewati pemandangan indah, menemui jeram deras dan aliran tenang, sehingga bisa merasakan sensasi seru sekaligus rileks. Ini bukan cuma petualangan, tapi juga kesempatan buat dekat dengan alam, merasakan energi penuh dari air, pepohonan, dan bumi.
 
@@ -429,7 +429,7 @@ Referensi cepat: [「Panduan Ubud Swing/Sewa Gaun」](https://s.id/ubud_swing)
 
 ### Pengalaman Balon Udara
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f0dac48fd42229c3542a128ffed13161.jpg)
+![Pengalaman Balon Udara](https://images.gobaligo.id/vocus/vocus_f0dac48fd42229c3542a128ffed13161.jpg)
 
 Naik balon udara itu seru banget, lho! Kamu bisa lihat pemandangan indah dari atas Bali, termasuk sawah terasering Ubud yang cantik dan pemandangan alam lainnya dari ketinggian 50 meter. Ini petualangan udara yang langka banget, bikin kamu bisa melihat bumi dari atas dan merasakan luasnya alam. Setelah selesai, kamu juga bakal dapat sertifikat balon udara sebagai kenang-kenangan, jadi momen ini bisa kamu simpan selamanya.
 
@@ -437,7 +437,7 @@ Naik balon udara itu seru banget, lho! Kamu bisa lihat pemandangan indah dari at
 
 ### Aktivitas Zipline & Sky Bike
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9463ace45d906d0629a44128f0abeebb.jpg)
+![Aktivitas Zipline & Sky Bike](https://images.gobaligo.id/vocus/vocus_9463ace45d906d0629a44128f0abeebb.jpg)
 
 Di Ubud, kamu bisa coba Zipline atau Sky Bike yang penuh petualangan sambil menikmati pemandangan sawah terasering yang cantik. Kedua aktivitas ini aman banget buat pemula karena operatornya menyediakan peralatan keselamatan berkualitas tinggi. Kamu bisa meluncur atau mengayuh di udara, melihat langsung bentuk unik Bali dari atas, dan dapat pengalaman petualangan udara yang nggak terlupakan.
 
@@ -445,7 +445,7 @@ Di Ubud, kamu bisa coba Zipline atau Sky Bike yang penuh petualangan sambil meni
 
 ### Pengalaman Sunrise Naik Jeep Off-Road
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_76ca2a47f4c5c29841e4377ac301df0a.jpg)
+![Pengalaman Sunrise Naik Jeep Off-Road](https://images.gobaligo.id/vocus/vocus_76ca2a47f4c5c29841e4377ac301df0a.jpg)
 
 Pagi hari, saat matahari baru muncul di ufuk, ikuti pengalaman seru naik jeep off-road sambil menikmati sunrise! Bangun pagi-pagi, naik jeep 4x4 melintasi Trunyan Hill — tanpa perlu trekking, kamu sudah bisa lihat pemandangan matahari terbit yang bikin speechless. Jeep akan menjelajahi lanskap unik di kaki bukit, bikin kamu bisa menyaksikan langsung keindahan lahar hitam yang membentuk pemandangan spektakuler. Petualangan ini sudah termasuk antar-jemput hotel yang praktis, jadi perjalanan pulang-pergi aman dan nyaman.
 
@@ -453,7 +453,7 @@ Pagi hari, saat matahari baru muncul di ufuk, ikuti pengalaman seru naik jeep of
 
 ### Jeep Off-Road + Trekking Gunung Batur
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ca3fb10c2862e334d2d0f094bfa2d44c.jpg)
+![Jeep Off-Road + Trekking Gunung Batur](https://images.gobaligo.id/vocus/vocus_ca3fb10c2862e334d2d0f094bfa2d44c.jpg)
 
 Ini petualangan yang menggabungkan serunya naik jeep off-road dan trekking. Naik jeep 4x4 melintasi hutan pinus di kaki Gunung Batur, sambil menikmati pemandangan gunung berapi saat matahari terbit dan merasakan sensasi off-road yang bikin adrenalin naik. Setelah sunrise, ditemani guide profesional, kamu akan jalan kaki ke puncak Gunung Batur untuk menjelajahi lahar hitam yang terkenal dari letusan ratusan tahun lalu — bikin perjalanan ini penuh sejarah dan petualangan. Pengalaman naik jeep juga bisa memperluas jangkauan petualanganmu ke tempat-tempat yang lebih jauh.
 
@@ -461,7 +461,7 @@ Ini petualangan yang menggabungkan serunya naik jeep off-road dan trekking. Naik
 
 ### Trekking Sunrise Gunung Batur
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_20dfb80e11967f92176cc823e6e386f6.png)
+![Trekking Sunrise Gunung Batur](https://images.gobaligo.id/vocus/vocus_20dfb80e11967f92176cc823e6e386f6.png)
 
 Buat kamu yang pengin banget lihat sunrise di Gunung Batur, bisa ikut trekking ini. Saat fajar menyingsing, kamu akan mendaki ke puncak Gunung Batur, memandang jauh ke cakrawala, dan merasakan atmosfer mistis gunung berapi saat matahari terbit. Selain itu, ada sarapan spesial yang disiapkan di puncak — jadi kamu bisa menikmati makanan enak sambil menyaksikan keajaiban alam yang paling megah.
 
@@ -469,7 +469,7 @@ Buat kamu yang pengin banget lihat sunrise di Gunung Batur, bisa ikut trekking i
 
 ### Jeep Off-Road Sunset Gunung Batur (termasuk Fotografer & Kustomisasi Warna Jeep)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a763e29e60960e92cc19beecc3bffb3a.png)
+![Jeep Off-Road Sunset Gunung Batur (termasuk Fotografer & Kus](https://images.gobaligo.id/vocus/vocus_a763e29e60960e92cc19beecc3bffb3a.png)
 
 Gunung Batur nggak cuma buat sunrise doang lho — ada juga pilihan sunset yang spektakuler! Naik Jeep 4WD buat private tour, eksplorasi pemandangan Gunung Batur yang megah plus udaranya yang seger banget, dikelilingi lahar hitam legendaris sisa letusan ratusan tahun lalu. Nggak usah khawatir soal foto, karena tur ini udah termasuk supir Jeep yang jago fotografi, jadi dijamin dapet foto-foto cantik selama perjalanan dan kenangan yang berharga.
 
@@ -477,7 +477,7 @@ Gunung Batur nggak cuma buat sunrise doang lho — ada juga pilihan sunset yang 
 
 ### Jungle Cart Ubud — Balapan Gokart Ala Hutan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ad4756141a707604469096b283c641de.jpg)
+![Jungle Cart Ubud — Balapan Gokart Ala Hutan](https://images.gobaligo.id/vocus/vocus_ad4756141a707604469096b283c641de.jpg)
 
 Pengalaman unik di Ubud! Jungle Cart nawarin petualangan balapan yang beda banget! Kamu bakal meluncur melewati hutan sakral Bali, sawah, pura, dan desa tradisional Bali (total sekitar 15-25 menit). Bukan cuma soal kecepatan dan tawa, tapi juga kesempatan buat merasakan keindahan alam dan budaya lokal.
 
@@ -489,7 +489,7 @@ Salah satu cuplikan Jie main (atur ke kualitas tertinggi ya):
 
 ### Ngerasain Jadi Petani Sehari
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0976bfe2e5f97ee8c6c1f971a79d3896.jpg)
+![Ngerasain Jadi Petani Sehari](https://images.gobaligo.id/vocus/vocus_0976bfe2e5f97ee8c6c1f971a79d3896.jpg)
 
 Cocok banget buat keluarga yang mau liburan sambil belajar! Aktivitas ini khusus dirancang buat orang tua dan anak (usia 7 tahun ke atas) buat merasakan sehari penuh jadi warga lokal Bali. Kamu bakal ngerasain keramahan mereka, dan mengenal lebih dalam komunitasnya. Kunjungi arsitektur khas Bali, lihat demonstrasi pandai besi, bahkan ikut bikin anggur tradisional Bali. Nggak cuma itu, kamu juga bisa lihat langsung cara bikin minyak kelapa, dan ikut menanam padi di sawah. Ini pengalaman keluarga yang super berharga buat lebih dekat sama budaya dan gaya hidup lokal. Wajib banget dicoba kalau kamu pengen liburan yang beda sama anak!
 
@@ -497,7 +497,7 @@ Cocok banget buat keluarga yang mau liburan sambil belajar! Aktivitas ini khusus
 
 ### Ikutan Workshop Seru
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_81e59086fa728481258210e23555511c.jpg)
+![Ikutan Workshop Seru](https://images.gobaligo.id/vocus/vocus_81e59086fa728481258210e23555511c.jpg)
 
 Ubud bukan cuma surga alam, tapi juga pusat seni dan kerajinan tangan. Ikutan workshop batik, ukir kayu, keramik, perak, dan lainnya bakal jadi pengalaman budaya yang kaya banget. Workshop ini nggak cuma didampingi instruktur profesional, tapi kamu juga bisa bikin sendiri kerajinan khas Bali. Jadi, kamu bisa bawa pulang seni lokal sebagai oleh-oleh unik.
 
@@ -511,7 +511,7 @@ Ubud bukan cuma surga alam, tapi juga pusat seni dan kerajinan tangan. Ikutan wo
 
 ### Kelas Masak Makanan Khas Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_521ad548041599b5da96c3537a2815fb.jpg)
+![Kelas Masak Makanan Khas Ubud](https://images.gobaligo.id/vocus/vocus_521ad548041599b5da96c3537a2815fb.jpg)
 
 Kelas masak di Ubud kasih kamu kesempatan emas buat mendalami budaya kuliner lokal. Aktivitasnya mulai dari belanja ke pasar, belajar teknik masak, masak sendiri, sampai mencicipi hasilnya. Kamu bakal diajak instruktur ke pasar buat pilih bahan segar, lalu belajar teknik masak khas Bali. Setelah itu, di dapur kamu bikin hidangan klasik, dan terakhir nikmatin makanan enak buatan sendiri. Ini petualangan kuliner penuh budaya yang bikin kamu makin cinta sama cita rasa unik Bali.
 
@@ -525,7 +525,7 @@ Kelas masak di Ubud kasih kamu kesempatan emas buat mendalami budaya kuliner lok
 
 ### 瑜珈課程
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fae45ccfe567f1b66f0d091afafeb441.png)
+![瑜珈課程](https://images.gobaligo.id/vocus/vocus_fae45ccfe567f1b66f0d091afafeb441.png)
 
 Di Ubud yang tenang, ikut kelas yoga adalah cara terbaik buat rileksin badan dan pikiran. Di tengah sawah hijau atau di ruang yoga terbuka resort, kamu bisa ikut instruktur yoga, rasain peregangan tubuh dan ketenangan napas. Ini bukan cuma buat kesehatan fisik, tapi juga buat menenangkan jiwa dan mencari keseimbangan.
 
@@ -537,7 +537,7 @@ Di Ubud yang tenang, ikut kelas yoga adalah cara terbaik buat rileksin badan dan
 
 ### Beji Guwang 隱秘峽谷 （👉🏼地圖：[Ubud 周邊熱門景點](https://gobaligo.id/map/ubud/)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9c726e647d3b2567bae6bafd56d02973.png)
+![Beji Guwang 隱秘峽谷 （地圖：Ubud 周邊熱門景點）](https://images.gobaligo.id/vocus/vocus_9c726e647d3b2567bae6bafd56d02973.png)
 
 Kamu suka hiking, river trekking, atau eksplorasi tempat tersembunyi? Kalau iya, Beji Guwang Hidden Canyon di Bali wajib banget masuk list! Tempat ini punya formasi bebatuan yang bikin kagum dan jurang yang dalam banget, cocok buat uji nyali dan fisik. Dengan pemandu profesional, kamu bakal taklukkan tempat keren ini dan dapet pengalaman petualangan yang beda dari biasanya. Bonusnya, ada transportasi pribadi dari penginapan, jadi perjalananmu nyaman dan praktis. Yuk, gabung dan eksplorasi misteri Beji Guwang Hidden Canyon!
 
@@ -545,7 +545,7 @@ Kamu suka hiking, river trekking, atau eksplorasi tempat tersembunyi? Kalau iya,
 
 ### Pusat Seni Musik/Tari Tradisional Bali — Balerung Stage (👉🏼 Peta: [Tempat Wisata Populer di Sekitar Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_49ee87d707af9054711f3b8f69d816fb.jpg)
+![Pusat Seni Musik/Tari Tradisional Bali — Balerung Stage ( Pe](https://images.gobaligo.id/vocus/vocus_49ee87d707af9054711f3b8f69d816fb.jpg)
 
 Kalau kamu mau ngerasain budaya tradisional Bali secara mendalam, pertunjukan di Balerung Stage wajib banget dicoba! Panggung tradisional yang terletak di Ubud ini menampilkan tarian dan musik khas Bali setiap minggunya, bikin penonton bisa merasakan kekayaan warisan budaya pulau ini. Berbeda dengan pertunjukan turis yang komersial, Balerung Stage dikenal dengan keaslian dan ekspresi seni yang murni, bikin kamu serasa kembali ke masa lalu Bali, tenggelam dalam pesona tari dan musik.
 
@@ -555,7 +555,7 @@ Kalau rombongannya besar, kamu juga bisa booking untuk belajar musik tradisional
 
 ### Tur Sepeda Listrik di Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_01f4b721a6de3b756ca2ddd3873a7f60.png)
+![Tur Sepeda Listrik di Ubud](https://images.gobaligo.id/vocus/vocus_01f4b721a6de3b756ca2ddd3873a7f60.png)
 
 Pemandu tur sepeda listrik di Ubud punya pengetahuan luas tentang tempat-tempat wisata di sekitar Ubud, dan kasih penjelasan mendalam buat peserta. Peserta bisa mengunjungi pura, menjelajahi rumah tradisional Bali, dan menikmati pemandangan sawah, Tegallalang, serta perkebunan kopi. Naik sepeda listrik itu seru banget, dan bikin perjalanan melewati perbukitan pedesaan jadi lebih mudah. Tur selama tiga jam ini kasih cara yang oke buat merasakan Ubud dari dekat.
 
@@ -565,7 +565,7 @@ Pemandu tur sepeda listrik di Ubud punya pengetahuan luas tentang tempat-tempat 
 
 ### Moonstone Beach Lounge (👉🏼 Peta: [Tempat Wisata Populer di Sekitar Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e79080df5037e203cea1b29016b3a72e.png)
+![Moonstone Beach Lounge ( Peta: Tempat Wisata Populer di Seki](https://images.gobaligo.id/vocus/vocus_e79080df5037e203cea1b29016b3a72e.png)
 
 Beach club impian di Gianyar, Bali — baru buka tahun 2024, cuma 15 menit berkendara dari Bali Safari & Marine Park!
 
@@ -584,7 +584,7 @@ Beach club impian di Gianyar, Bali — baru buka tahun 2024, cuma 15 menit berke
 
 ### Terapi Singing Bowl di Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5fa73cba02836c4b4259897fb3827da9.jpg)
+![Terapi Singing Bowl di Ubud](https://images.gobaligo.id/vocus/vocus_5fa73cba02836c4b4259897fb3827da9.jpg)
 
 Ubud adalah surga buat kamu yang cari penyembuhan jiwa dan raga. Terapi singing bowl (meditasi mangkuk bernada) di 'Pulau Dewata' ini udah jadi pengalaman wellness yang hits banget, menggabungkan terapi suara kuno dengan atmosfer spiritual khas Bali. Saat mangkuk tembaga dipukul atau digesek pelan, muncul resonansi harmonis yang dalam — gelombang suara ini bisa menembus tubuh, bantu lepaskan stres, seimbangkan chakra, dan bawa kamu ke kondisi meditasi yang dalam. Ngalamin terapi singing bowl di tengah hutan tropis Bali, di pinggir sawah, atau di tepi sungai bikin kamu makin nyambung sama energi alam, dapet relaksasi total buat badan, pikiran, dan jiwa.
 
@@ -601,7 +601,7 @@ Selain itu, Klook juga menyediakan beberapa layanan terapi suara mangkuk (singin
 
 ### The Grand Lagunas, Taman Bermain di Kintamani (👉🏼 Peta: [Taman Bermain & Restoran Ramah Keluarga](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a9a882fda8e0d1a069384ba95922dc4.png)
+![The Grand Lagunas, Taman Bermain di Kintamani ( Peta: Taman ](https://images.gobaligo.id/vocus/vocus_9a9a882fda8e0d1a069384ba95922dc4.png)
 
 Di The Grand Lagunas, kamu bisa tantang adrenalin sambil nikmatin pemandangan keren abis! Tempat ini punya banyak aktivitas outdoor seru, mulai dari Rainbow Slide warna-warni, Flying Fox, Tree Top, Keranjang Sultan, Trampoline Jump, Hammock, Nest, Climbing Net, Climbing Tree, Jungle Bridge, sampai ATV. Pokoknya, siap-siap buat lepas jiwa petualangmu!
 
@@ -617,7 +617,7 @@ Rasain sensasi meluncur kencang dari seluncuran warna-warni, seru banget sambil 
 
 ### Lihat Keindahan Air Terjun di D'Tukad River Club (👉🏼 Peta: [Nikmatin Pemandangan Alam](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5d0bb25e202668ccbce347399768abd7.jpg)
+![Lihat Keindahan Air Terjun di D'Tukad River Club ( Peta: Nik](https://images.gobaligo.id/vocus/vocus_5d0bb25e202668ccbce347399768abd7.jpg)
 
 D'Tukad River Club adalah day club yang terletak di atas Air Terjun Tegenungan. Tempat ini menggabungkan konsep tree house dengan pemandangan alam yang bikin takjub. Di sini, kamu bisa puas main ayunan dan berenang di kolam renang sambil tenggelam dalam nuansa seni Bali. D'Tukad punya pemandangan air terjun 360 derajat, jadi pas makan siang, kamu bisa sekalian nikmatin gemericik air terjun yang megah dan alam yang luar biasa.
 
@@ -633,7 +633,7 @@ https://youtube.com/shorts/WdPWlqgn_jY
 
 ### Omma Dayclub (👉🏼 Peta: [Nikmati Pemandangan Alam yang Memukau](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c23bae83b3bdfa50d92f9c68fff396c5.jpg)
+![Omma Dayclub ( Peta: Nikmati Pemandangan Alam yang Memukau)](https://images.gobaligo.id/vocus/vocus_c23bae83b3bdfa50d92f9c68fff396c5.jpg)
 
 Omma Dayclub terkenal banget sama pemandangan air terjunnya yang spektakuler. Air terjunnya setinggi sekitar 30 meter, kamu bisa lihat pemandangan air terjun yang megah dari dekat lewat teras klub atau kolam renang yang ada di pinggir sungai.
 
@@ -655,7 +655,7 @@ Wanna Jungle Pool & Bar adalah day club baru di Ubud yang terkenal dengan kolam 
 
 ### Cretya Ubud (👉🏼 Peta: [Nikmati Pemandangan Alam](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_78a4fa73c96848474643868d81d1d4c5.jpg)
+![Cretya Ubud ( Peta: Nikmati Pemandangan Alam)](https://images.gobaligo.id/vocus/vocus_78a4fa73c96848474643868d81d1d4c5.jpg)
 
 Cretya Ubud adalah day club mewah di kawasan Ubud dengan kolam renang tiga tingkat yang super khas. Letaknya di dalam Alas Harum yang udah disebut sebelumnya, menghadap ke sawah yang hijau subur dengan pemandangan yang bikin speechless.
 
@@ -667,7 +667,7 @@ Cretya Ubud buka setiap hari dari jam 8 pagi sampai 9 malam. Cek juga panduan le
 
 ### Bebek Bengil: Nikmatin Bebek Bengil yang Legendaris (👉🏼 Peta: [Serasa di Tengah Alam](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a11ec7ea410bd2d05da624d72bdfc547.jpg)
+![Bebek Bengil: Nikmatin Bebek Bengil yang Legendaris ( Peta: ](https://images.gobaligo.id/vocus/vocus_a11ec7ea410bd2d05da624d72bdfc547.jpg)
 
 Dari tiga kuliner khas Bali yang wajib dicoba, satu yang nggak boleh kelewat adalah **Bebek Bengil** — atau yang lebih dikenal sebagai bebek goreng khas Bali. Hidangan ini terkenal banget karena cara masaknya yang unik: kulitnya garing di luar, tapi dagingnya tetap juicy dan empuk. Di restoran Bebek Bengil di Ubud, kamu bisa menikmati bebek goreng ini sambil merasakan atmosfer kuliner lokal yang autentik.
 
@@ -675,7 +675,7 @@ Dari tiga kuliner khas Bali yang wajib dicoba, satu yang nggak boleh kelewat ada
 
 ### Spa di Tengah Hutan Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_52e7a776fd44884da1d6395c25ac3717.jpg)
+![Spa di Tengah Hutan Ubud](https://images.gobaligo.id/vocus/vocus_52e7a776fd44884da1d6395c25ac3717.jpg)
 
 Di tengah hutan tropis Ubud, kamu bisa merasakan pengalaman spa yang bikin rileks total. Resor dan pusat spa di sini menawarkan berbagai pilihan perawatan — dari pijat tradisional Bali hingga aromaterapi yang menenangkan — semuanya bikin kamu merasa damai jiwa raga sambil dipeluk alam. Dengerin suara dedaunan yang berdesir, hirup udara segar hutan, dan rasakan perjalanan penyembuhan yang bikin ketagihan.
 
@@ -707,7 +707,7 @@ Di Bebek Tebasari, kamu bisa duduk di area terbuka yang tenang sambil menikmati 
 
 ### Pengalaman Makan di The Sayan House （👉🏼 Peta: [Nikmati Pemandangan Alam](https://gobaligo.id/map/ubud/)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a63e57cac7591a54734dbb073bffa5eb.jpg)
+![Pengalaman Makan di The Sayan House （ Peta: Nikmati Pemandan](https://images.gobaligo.id/vocus/vocus_a63e57cac7591a54734dbb073bffa5eb.jpg)
 
 Duduk tinggi-tinggi sambil memandangi lembah Sungai Ayung, menikmati sunset di hutan, plus menyantap makanan enak — gimana rasanya? Di The Sayan House, kawasan Sayan, semua itu jadi kenyataan. Mereka menyajikan perpaduan unik masakan Jepang, Amerika Latin, dan Asia Tenggara. Kamu bisa menikmati hidangan lezat sambil melihat pemandangan spektakuler ngarai Ubud. The Sayan House bukan cuma soal makanan, tapi juga pesta visual dan rasa yang bakal bikin kenangan makan tak terlupakan.
 
@@ -715,7 +715,7 @@ Duduk tinggi-tinggi sambil memandangi lembah Sungai Ayung, menikmati sunset di h
 
 ### Makan Mewah di Hotel Bintang Lima (👉🏼 Peta: [Nikmati Pemandangan Alam](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_44d2c49ec964161c78a680a604d97c75.jpg)
+![Makan Mewah di Hotel Bintang Lima ( Peta: Nikmati Pemandanga](https://images.gobaligo.id/vocus/vocus_44d2c49ec964161c78a680a604d97c75.jpg)
 
 Di resor bintang lima Ubud, 'Mandapa, a Ritz-Carlton Reserve', kamu bisa menikmati pengalaman makan yang super elegan! Restorannya menghadap langsung ke sawah dan hutan tropis yang indah, buka sepanjang hari. Menu yang disajikan menonjolkan kuliner khas Bali, masakan Asia yang refined, dan hasil segar dari kebun organik sang chef — semuanya dengan konsep farm-to-table. Area makan berbentuk anyaman bambu yang elegan dan romantis ini menyajikan berbagai pilihan menu ala Prancis. Di Kubu, kamu bisa merasakan semilir angin tropis dan suara gemericik air sambil menikmati hidangan Mediterania-Eropa yang lezat, bisa pilih à la carte atau tasting menu.
 
@@ -723,7 +723,7 @@ Di resor bintang lima Ubud, 'Mandapa, a Ritz-Carlton Reserve', kamu bisa menikma
 
 ### Bebek Tepi Sawah: Makan di Tengah Sawah yang Tenang (👉🏼 Peta: [Nikmati Pemandangan Alam](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_291b7dabefee7864dcac47b291c373b6.jpg)
+![Bebek Tepi Sawah: Makan di Tengah Sawah yang Tenang ( Peta: ](https://images.gobaligo.id/vocus/vocus_291b7dabefee7864dcac47b291c373b6.jpg)
 
 Bebek Tepi Sawah adalah restoran terkenal di Ubud, namanya berarti 'bebek di pinggir sawah'. Tempat ini terkenal banget dengan olahan bebeknya, dan menyajikan berbagai masakan Indonesia yang kaya rasa — terutama bebek andalannya. Makanan di sini biasanya dimasak dengan cara tradisional lokal, jadi kamu bisa merasakan cita rasa autentik Indonesia.
 
@@ -735,7 +735,7 @@ Dekorasi interior restoran juga menampilkan gaya tradisional Bali, dengan elemen
 
 ### Boni Bali Restaurant: Restoran dengan Pemandangan Terasering (👉🏼 Peta: [Nikmati Pemandangan Alam](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5046f26f284c95d89a998876cafa9852.jpg)
+![Boni Bali Restaurant: Restoran dengan Pemandangan Terasering](https://images.gobaligo.id/vocus/vocus_5046f26f284c95d89a998876cafa9852.jpg)
 
 Sambil memandangi keindahan terasering Tegallalang, menikmati masakan tradisional Indonesia — itu salah satu keseruan liburan di Bali yang wajib kamu coba!
 
@@ -747,7 +747,7 @@ Boni Bali Restaurant berada di tepi Tegallalang Rice Terrace, menyajikan masakan
 
 ### The Cafe Lotus Ubud (👉🏼 Peta: [Nikmati Pemandangan Alam](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7fd47ea0a9d53273ba30c43bd4cb8ebe.png)
+![The Cafe Lotus Ubud ( Peta: Nikmati Pemandangan Alam)](https://images.gobaligo.id/vocus/vocus_7fd47ea0a9d53273ba30c43bd4cb8ebe.png)
 
 Nikmati makanan di tepi kolam teratai Ubud Water Palace, dan mulai harimu dengan pengalaman sarapan terapung yang unik! Santap sarapan yang tenang di samping kolam teratai yang mempesona di Ubud Water Palace, lalu jalan-jalan di sekitarnya. Kalau kamu memilih makan malam di sini, kamu juga bisa menyaksikan pertunjukan tari tradisional Bali yang spektakuler!
 
@@ -755,7 +755,7 @@ Nikmati makanan di tepi kolam teratai Ubud Water Palace, dan mulai harimu dengan
 
 ### The Jungle Club Ubud (👉🏼 Peta: [Nikmati Pemandangan Alam](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac20347e0b49990e7a03ca914ba83df0.jpg)
+![The Jungle Club Ubud ( Peta: Nikmati Pemandangan Alam)](https://images.gobaligo.id/vocus/vocus_ac20347e0b49990e7a03ca914ba83df0.jpg)
 
 Rating Google 4.9 bintang. The Jungle Club Ubud adalah taman hutan terbaru di Bali yang menggabungkan relaksasi dan kemewahan. Terletak di tengah rimbunnya hijau di selatan Ubud, surga **khusus dewasa** ini mendefinisikan ulang pengalaman day club eksklusif, memadukan keintiman, privasi, dan nuansa petualangan liar. Di sini, kamu bisa menikmati hidangan dan minuman berkualitas sambil memandangi pemandangan sungai yang megah dan hutan di sekelilingnya. Ikuti irama suara alam yang energik dari hutan, The Jungle Club Ubud menyajikan hiburan dan pertunjukan yang dirancang dengan apik setiap hari — bikin liburanmu makin seru!
 
@@ -763,7 +763,7 @@ Klook menawarkan kredit makanan yang lebih tinggi dari harga tiket, [klik di sin
 
 ### Kenran Resort (👉🏼 Peta: [Nikmati Pemandangan Alam](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3aaa84b1e68535e2fe8c12eabf926e27.png)
+![Kenran Resort ( Peta: Nikmati Pemandangan Alam)](https://images.gobaligo.id/vocus/vocus_3aaa84b1e68535e2fe8c12eabf926e27.png)
 
 Google rating 4.3 bintang. Di Grand Kenran Resort, Ubud, Bali, kamu bakal dapet pengalaman makan yang nggak ada duanya. Resort ini terletak di tengah sawah yang tenang, dikelilingi hutan hijau, dan ditemani suara gemericik Sungai Petanu — bikin kamu benar-benar tenggelam dalam pelukan alam. Mau sarapan terapung, makan siang santai, sore minum teh, atau dinner romantis pakai lilin, semuanya bisa kamu nikmati di T'dung Restaurant sambil menyantap hidangan lezat dan memandangi pemandangan Ubud yang indah banget. Dikelilingi tanaman hijau yang hidup, tempat ini ideal buat relaksasi dan memanjakan diri.
 
@@ -771,7 +771,7 @@ Google rating 4.3 bintang. Di Grand Kenran Resort, Ubud, Bali, kamu bakal dapet 
 
 ### Birdhill (👉🏼 Peta: [Nikmati Pemandangan Alam](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_953a7fbf7ac0d4d69542877b6f3cf991.jpg)
+![Birdhill ( Peta: Nikmati Pemandangan Alam)](https://images.gobaligo.id/vocus/vocus_953a7fbf7ac0d4d69542877b6f3cf991.jpg)
 
 Google rating 4.9 bintang. Di Birdhill Restaurant, kamu bakal dapet pengalaman kuliner yang luar biasa — perpaduan seni masakan asli Bali dan sentuhan masakan Barat yang elegan. Restorannya terletak di tepi kolam renang hijau, mengapung anggun di atas lembah sungai yang indah, bikin pengalaman makan yang nggak terlupakan dengan pemandangan yang bikin takjub!
 
@@ -779,7 +779,7 @@ Google rating 4.9 bintang. Di Birdhill Restaurant, kamu bakal dapet pengalaman k
 
 ### Wedja Bali (👉🏼 Peta: [Nikmati Pemandangan Alam](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_60dd495f98d0b373ca455ac4f974d9d7.jpg)
+![Wedja Bali ( Peta: Nikmati Pemandangan Alam)](https://images.gobaligo.id/vocus/vocus_60dd495f98d0b373ca455ac4f974d9d7.jpg)
 
 Google rating 4.8 bintang. Wedja Restaurant adalah salah satu restoran hits di Ubud yang wajib banget buat foto-foto! Restorannya dikelilingi kolam teratai yang memesona, bikin kamu bisa santap dengan nyaman di tengah pemandangan alam yang cantik. Di sini ada banyak pilihan masakan Bali dan Indonesia yang memanjakan lidah. Plus, Wedja punya banyak spot foto keren — perpaduan sempurna antara kuliner dan momen foto yang kece.
 
@@ -797,7 +797,7 @@ Google rating 4.7 bintang. Sans Indian Cuisine adalah restoran India asli yang t
 
 ### Pengalaman Makan & Kelas Memasak di Botanist Restaurant (👉🏼 Peta: [Nikmati Pemandangan Alam](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_abb2a14f327e01b756e00abc4a5a9ead.jpg)
+![Pengalaman Makan & Kelas Memasak di Botanist Restaurant ( Pe](https://images.gobaligo.id/vocus/vocus_abb2a14f327e01b756e00abc4a5a9ead.jpg)
 
 Google rating 4.5 bintang. Di Botanist Restaurant Ubud, kamu bisa menikmati hidangan lezat—entah itu picnic lunch bareng teman atau dinner romantis, semuanya ada. Kamu juga bisa ikut kelas memasak yang disediakan restoran buat belajar soal bahan makanan dan teknik masak, seru banget buat tambah seru liburan. Mampir ke sini pasti bikin liburanmu di Bali makin berkesan!
 
@@ -805,7 +805,7 @@ Google rating 4.5 bintang. Di Botanist Restaurant Ubud, kamu bisa menikmati hida
 
 ### Terracotta Restaurant Ubud (👉🏼 Peta: [Nikmati Pemandangan Alam](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5f14ff93899b6d0ec4ad45063b1834ee.jpg)
+![Terracotta Restaurant Ubud ( Peta: Nikmati Pemandangan Alam)](https://images.gobaligo.id/vocus/vocus_5f14ff93899b6d0ec4ad45063b1834ee.jpg)
 
 Google rating 4.7 bintang. Di Terracotta Restaurant, kamu bisa kabur dari hiruk-pikuk dan masuk ke dunia yang tenang dan romantis, sambil menikmati pemandangan sawah yang indah dan merasakan kedamaian alam. Makan enak bareng pasangan sambil tenggelam dalam keindahan alam. Ada juga kelas memasak privat yang ngajak kamu jalan-jalan kuliner buat eksplorasi cita rasa khas Bali. Selain belajar masak hidangan lokal yang lezat, kamu bisa bawa pulang trik dan inspirasinya buat bikin masakan Bali di dapur sendiri. Ikut kelas kuliner ini buat nemuin surga sejati dan dapet pengalaman mewah. Ada pilihan floating breakfast, picnic lunch, romantic dinner, cooking class, dan lainnya.
 
@@ -813,7 +813,7 @@ Google rating 4.7 bintang. Di Terracotta Restaurant, kamu bisa kabur dari hiruk-
 
 ### The Puhu Restaurant & Lounge @Padma Resort Ubud (👉🏼 Peta: [Nikmati Pemandangan Alam](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6292145b559cd7e3df3fa6b8d4c7e707.jpg)
+![The Puhu Restaurant & Lounge @Padma Resort Ubud ( Peta: Nikm](https://images.gobaligo.id/vocus/vocus_6292145b559cd7e3df3fa6b8d4c7e707.jpg)
 
 Google rating 4.8 bintang. Nikmati berbagai pengalaman kuliner di Padma Resort Ubud! Puhu Restaurant adalah restoran sepanjang hari di resort ini, menyajikan hidangan yang melimpah dengan pemandangan 180 derajat yang nggak ada duanya—bisa lihat resort, hutan, dan lembah tropis yang megah. Floating afternoon tea bawa pengalaman minum teh ke kolam renang bawah yang tersembunyi, jadi kamu bisa santai dalam suasana privat yang tenang. Di dataran tinggi Payangan, kamu bisa habiskan sore yang santai sambil menikmati aneka camilan asin dan manis, ditemani teh atau kopi. Mau rayain cinta? Nikmati dinner romantis privat di sarang bambu, dengan pilihan hidangan istimewa yang bikin momen spesialmu makin berkesan.
 
@@ -821,7 +821,7 @@ Google rating 4.8 bintang. Nikmati berbagai pengalaman kuliner di Padma Resort U
 
 ### Cretya Sunset by Alas Harum (👉🏼 Peta: [Nikmati Pemandangan Alam yang Indah](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff6e8ddd6aa93c66985c70061af1de0b.jpg)
+![Cretya Sunset by Alas Harum ( Peta: Nikmati Pemandangan Alam](https://images.gobaligo.id/vocus/vocus_ff6e8ddd6aa93c66985c70061af1de0b.jpg)
 
 Setelah sukses besar dengan Cretya Ubud yang menyajikan pemandangan sawah terasering Tegalalang, grup Alas Harum meluncurkan karya baru—Cretya Sunset by Alas Harum, Ubud. Klub siang dan restoran di Ubud ini menggabungkan kemewahan, alam, dan hiburan, dilengkapi kolam renang tanpa batas, area santai yang stylish, serta desain perpaduan modern dan tradisional Bali. Kamu bisa menikmati hidangan lezat dan koktail sambil tenggelam dalam pemandangan matahari terbenam dan sawah terasering yang memukau.
 
@@ -831,7 +831,7 @@ Cretya Sunset terletak di tengah sawah hijau subur Ubud, dengan posisi menghadap
 
 ### Piknik Perahu Romantis
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5b0556f47ff8e26625fbf54926703dbd.png)
+![Piknik Perahu Romantis](https://images.gobaligo.id/vocus/vocus_5b0556f47ff8e26625fbf54926703dbd.png)
 
 Mau menghabiskan waktu tenang dan romantis di tengah hutan Ubud, Bali? 'Piknik Perahu Romantis Ubud' akan mengajak kamu dan pasangan, teman, rekan kerja, atau keluarga naik perahu kayu yang dihias cantik, berlayar di danau tenang yang dikelilingi hutan Ubud selama satu jam yang tak terlupakan. Ini bukan cuma pilihan sempurna buat pasangan yang ingin menciptakan kenangan indah, tapi juga kesempatan seru buat berbagi pengalaman unik dengan orang tersayang! Di perahu, sudah tersedia keranjang piknik mewah berisi sandwich lezat, hummus sayuran, buah segar, yogurt granola, dan satu botol sparkling wine—jadi kamu bisa menikmati pemandangan sambil makan enak.
 
@@ -841,7 +841,7 @@ Pemandangan hutan Ubud yang megah dan suasana danau yang tenang menciptakan peng
 
 ### Tuju Tropical Club & Dining (👉🏼 Peta: [Nikmati Pemandangan Alam yang Indah](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa0ec09dc7b0ef531f313d8f5e414273.jpg)
+![Tuju Tropical Club & Dining ( Peta: Nikmati Pemandangan Alam](https://images.gobaligo.id/vocus/vocus_aa0ec09dc7b0ef531f313d8f5e414273.jpg)
 
 Di balik jalanan Ubud yang ramai, ada sebuah oasis tropis yang tenang—Tuju Tropical Club & Dining. Bangunan ini memadukan desain kontemporer dengan elemen tradisional Bali, tersembunyi di antara tanaman hijau yang rimbun. Ruang terbuka memungkinkan cahaya alami dan angin sepoi-sepoi mengalir bebas.
 
@@ -853,7 +853,7 @@ Berbeda dengan klub malam ramai yang biasa ditemukan di Ubud, Tuju lebih seperti
 
 ### Sari Timbul By Kubu Bali/ST Glass Factory (👉🏼 Peta: [Nikmati Pemandangan Alam](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e238001fbe0cdbd3b6a7710469c1ab47.jpg)
+![Sari Timbul By Kubu Bali/ST Glass Factory ( Peta: Nikmati Pe](https://images.gobaligo.id/vocus/vocus_e238001fbe0cdbd3b6a7710469c1ab47.jpg)
 
 Ini adalah restoran lanskap serbaguna di Tegallalang, Bali, yang menggabungkan kuliner, seni, dan pengalaman alam, menciptakan ruang impian seperti dongeng. Restoran ini dikelilingi oleh hutan hijau dan sawah terasering, menyajikan masakan tradisional Indonesia, Barat, Meksiko, dan India—penyajiannya cantik dan rasanya unik. Di area ini ada ayunan tinggi, kolam hutan, instalasi seni kaca, dan dry ice yang instagramable. Tiket sudah termasuk layanan fotografi, jadi pengunjung bisa dengan mudah mendapatkan foto yang keren.
 
@@ -863,7 +863,7 @@ Tempat ini bukan hanya surga kuliner, tapi juga ruang seni alam yang imersif. St
 
 ### Kamandalu Ubud Makan Malam di Atas Perahu untuk Dua Orang (👉🏼 Peta: [Nikmati Pemandangan Alam](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b322acf45856a93b3945c16a107c8ad.jpg)
+![Kamandalu Ubud Makan Malam di Atas Perahu untuk Dua Orang ( ](https://images.gobaligo.id/vocus/vocus_3b322acf45856a93b3945c16a107c8ad.jpg)
 
 Di tengah sungai koi yang tenang di resor Kamandalu, nikmati pengalaman makan malam unik di atas perahu bersama orang tersayang. Kalian berdua naik perahu kayu tradisional, dikelilingi taman tropis hijau, dengan koi warna-warni berenang di air jernih—menciptakan pemandangan romantis yang luar biasa. Koki resor menyiapkan paket makan malam bintang lima yang mewah, menggunakan bahan segar musiman, memadukan cita rasa tradisional Indonesia dengan teknik internasional, dilengkapi dengan sparkling wine dan minuman khas—memanjakan lidah dan mata secara bersamaan.
 
@@ -873,7 +873,7 @@ Tim fotografer profesional bakal mengabadikan momen berharga ini tanpa perlu kam
 
 ### D'Tukad Coffee Club: Surga Sawah Terasering di Ubud, Bali (👉🏼 Peta: [Nikmati Pemandangan Alam](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_030de012eed182d27698f8168b019df1.jpg)
+![D'Tukad Coffee Club: Surga Sawah Terasering di Ubud, Bali ( ](https://images.gobaligo.id/vocus/vocus_030de012eed182d27698f8168b019df1.jpg)
 
 D'Tukad Coffee Club di Ubud, Bali, terkenal banget karena lokasinya yang menghadap langsung ke sawah terasering Tegallalang. Kamu bisa makan sambil menikmati pemandangan sawah bertingkat yang bikin mata seger. Klub ini punya kolam renang infinity yang dikelilingi kursi santai yang nyaman, cocok buat bersantai di suasana tropis. Mereka juga menyajikan aneka makanan internasional dan koktail buatan tangan, ditambah pelayanan ramah yang bikin pengalaman makan jadi makin sempurna.
 
@@ -883,7 +883,7 @@ Kalau kamu suka pemandangan sawah terasering yang keren, tapi nggak mau tempatny
 
 ### Titi Batu Ubud Club (👉🏼 Peta: [Nikmati Pemandangan Alam](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a2bf4eb4a96fb28e441b16ba81c0c21e.jpg)
+![Titi Batu Ubud Club ( Peta: Nikmati Pemandangan Alam)](https://images.gobaligo.id/vocus/vocus_a2bf4eb4a96fb28e441b16ba81c0c21e.jpg)
 
 Titi Batu Ubud Club adalah klub gaya hidup yang menggabungkan fitness, relaksasi, dan hiburan keluarga. Di sini ada gym, lapangan basket, lapangan squash, skate park, kolam renang, SPA, ruang dansa, ruang yoga, sauna, restoran, dan area bermain anak. Mau olahraga, santai, atau ajak si kecil main air, semua bisa kamu lakukan di sini. Suasananya luas dan nyaman, dengan nuansa alami khas Ubud yang bikin betah. Tempat ini juga jadi favorit keluarga ekspat yang tinggal lama di Bali, beneran surga buat dewasa dan anak-anak.
 
@@ -901,7 +901,7 @@ Kuliner di Ubud tuh seru banget, bukan cuma masakan tradisional Indonesia, tapi 
 
 ### Nikmati Makanan Lokal yang Enak dan Terjangkau
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4182aca9b5cf1fe4d85278c159021273.jpg)
+![Nikmati Makanan Lokal yang Enak dan Terjangkau](https://images.gobaligo.id/vocus/vocus_4182aca9b5cf1fe4d85278c159021273.jpg)
 
 Ke Bali ya wajib cobain makanan lokal! Penasaran apa aja makanan khas Bali? Simak artikel '**[10 Makanan Khas Bali yang Wajib Dicoba](/blog/bali-travel-tips/)**' dari Jie — ini bakal jadi petualangan rasa yang seru.
 
@@ -911,11 +911,11 @@ Ke Bali ya wajib cobain makanan lokal! Penasaran apa aja makanan khas Bali? Sima
 
 ### Pura Air di Bali (👉🏼 Peta: [Tempat Wisata Populer Sekitar Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0bcbb190a64dc4d8d05b92348d7fda9c.jpg)
+![Pura Air di Bali ( Peta: Tempat Wisata Populer Sekitar Ubud)](https://images.gobaligo.id/vocus/vocus_0bcbb190a64dc4d8d05b92348d7fda9c.jpg)
 
 Pura Ulun Danau selesai dibangun tahun 1633, terletak di tepi Danau Bratan di tengah Bali, ada juga yang nyebut 'Pura Air Bratan'. Karena Danau Bratan adalah sumber irigasi utama buat wilayah tengah Bali, Pura Ulun Danau dulu dipakai sebagai tempat upacara pemujaan Dewi Danu, dewi air, danau, dan sungai di Bali. Selain itu, Pura Ulun Danau yang punya 11 tingkat ini juga dibangun untuk Dewa Siwa dan Dewi Parvati, bahkan patung Buddha juga disembah di sini — jadi ini pura perpaduan Hindu dan Buddha.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf3c1b5963a5c33d38b37b9e3375ccf4.jpg)
+![Pura Air di Bali ( Peta: Tempat Wisata Populer Sekitar Ubud)](https://images.gobaligo.id/vocus/vocus_bf3c1b5963a5c33d38b37b9e3375ccf4.jpg)
 
 Uniknya, pura air di Bali ini juga tercetak di uang kertas Indonesia, tepatnya di pecahan terbesar kedua yang beredar saat ini: Rp50.000, yang kira-kira setara USD$2.
 
@@ -931,7 +931,7 @@ Kawasan Kintamani terkenal dengan pemandangan Gunung Batur dan Danau Kintamani y
 
 ### Toya Devasya Waterpark Pemandian Air Panas (👉🏼 Peta: [Tempat Wisata di Sekitar Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d938aab64c88210c3c4550474c7836f5.jpg)
+![Toya Devasya Waterpark Pemandian Air Panas ( Peta: Tempat Wi](https://images.gobaligo.id/vocus/vocus_d938aab64c88210c3c4550474c7836f5.jpg)
 
 Bali sebagai pulau vulkanik punya satu pemandian air panas paling terkenal, yaitu Toya Devasya. Waterpark pemandian air panas ini dibangun di tepi Danau Batur dan jadi salah satu destinasi favorit di pulau ini. Tempat ini terkenal dengan sumber air panas alami, waterpark, dan pemandangan danau yang spektakuler.
 
@@ -957,7 +957,7 @@ Toya Devasya Waterpark Pemandian Air Panas adalah tempat ideal buat eksplorasi u
 
 ## 【天空之門周邊】
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3935fc95f48473d004b5876f6ee21fc4.jpg)
+![【天空之門周邊】](https://images.gobaligo.id/vocus/vocus_3935fc95f48473d004b5876f6ee21fc4.jpg)
 
 在峇里島東部有三個相隔不遠的景點，是可以拍出仙氣美照的好地方喔！
 
@@ -991,7 +991,7 @@ Ujung Water Palace, atau Istana Air Ujung, ada di timur Bali — sebuah istana a
 
 ### Lahangan Sweet (👉🏼 Peta: [Spot Populer di Sekitar Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_74598b56d57a7612b9194f61252b5a43.jpg)
+![Lahangan Sweet ( Peta: Spot Populer di Sekitar Ubud)](https://images.gobaligo.id/vocus/vocus_74598b56d57a7612b9194f61252b5a43.jpg)
 
 Hidden gem baru Lahangan Sweet, yuk kita buruan ambil foto-foto estetik!
 
@@ -1003,7 +1003,7 @@ Penasaran gimana caranya dapetin foto secantik 'Gerbang Surga'? Berapa tiket mas
 
 ## 【Nikmati Alam yang Tenang di Dalam Hotel】
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a8a800870e5d4dde0de0e5abdc92693c.jpg)
+![【Nikmati Alam yang Tenang di Dalam Hotel】](https://images.gobaligo.id/vocus/vocus_a8a800870e5d4dde0de0e5abdc92693c.jpg)
 
 Di hotel-hotel Ubud, kamu bisa tenggelam dalam ketenangan alam. Hotel-hotel ini biasanya terletak di tengah hutan tropis yang rimbun atau sawah yang hijau, kasih pengalaman nyaman yang menyatu dengan alam. Kamu bisa duduk di teras luas sambil nikmatin matahari terbit, atau relaks di kolam renang yang sejuk.
 
@@ -1077,7 +1077,7 @@ Selain itu, kami juga punya lima rekomendasi akomodasi tematik di Ubud lainnya, 
 
 ### Lokasi camping
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa2e5903772efc3eb6c62e1a5eb3ec46.jpg)
+![Lokasi camping](https://images.gobaligo.id/vocus/vocus_aa2e5903772efc3eb6c62e1a5eb3ec46.jpg)
 
 Glamping baru buka 2025 Toya Ubud, mulai dari USD$19 per malam. Cek [info lengkapnya](/blog/toya-ubud-new-attraction/)
 

@@ -26,7 +26,7 @@ _srcHash: c3f4c28f6e3a55c890e576444d03d2cd
 
 Sebelum liburan ke Bali, pasti kamu pernah bingung: **mending langsung tukar Rupiah pakai mata uang lokal di sana, atau tukar ke Dolar dulu di Taiwan baru ke Rupiah**? Pilihan kecil ini ternyata bisa bikin budget Taiwan yang sama jadi lebih banyak buat jajan kuliner, beli oleh-oleh, atau SPA cantik berkali-kali, lho!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ffa373a8db89c151ec8c9eeb03265b9e.png)
+![Indonesia/Bali Tukar Uang: Langsung aja vs Tukar ke Dolar Du](https://images.gobaligo.id/vocus/vocus_ffa373a8db89c151ec8c9eeb03265b9e.png)
 
 Di artikel kali ini, aku bakal pakai **data kurs real tanggal 13 Agustus 2025** buat ngitung mana cara tukar yang paling hemat, dan kenapa mata uang lokal di luar negeri sering kurang menguntungkan. Setelah baca, kamu bisa hindari jebakan tukar uang dan bikin setiap rupiah kepake maksimal.
 

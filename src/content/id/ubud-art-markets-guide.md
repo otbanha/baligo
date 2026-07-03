@@ -20,7 +20,7 @@ _srcHash: 29196d394ec8113ed85cb7d7b8b02265
 ---
 Ubud sebagai pusat budaya dan seni Bali punya beberapa pasar seni yang super khas, masing-masing menyimpan pesona dan harta karun unik. Hari ini kita bakal jelajahi lima pasar seni yang wajib dikunjungi, biar kamu bisa merasakan atmosfer budaya Bali yang paling autentik.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc06ce29e5089cfece271e264d77f120.jpg)
+![Rekomendasi 5 Pasar Seni & Art Market di Ubud: Panduan Lengk](https://images.gobaligo.id/vocus/vocus_bc06ce29e5089cfece271e264d77f120.jpg)
 
 ## 1. Ubud Art Market (Pasar Seni Ubud)
 
@@ -48,7 +48,7 @@ Film 'Eat, Pray, Love' yang dibintangi Julia Roberts mengambil lokasi di Ubud Ar
 
 Jalan ini penuh dengan nuansa seni, terkenal sama butik dan galeri seninya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dc338e01ed09d3ce9c1251be69b6b1b0.jpg)
+![2. Jalan Goutama（高塔瑪路）](https://images.gobaligo.id/vocus/vocus_dc338e01ed09d3ce9c1251be69b6b1b0.jpg)
 
 ### Yang wajib dicek:
 
@@ -68,7 +68,7 @@ Jalan ini penuh dengan nuansa seni, terkenal sama butik dan galeri seninya.
 
 Bukan cuma jalan menuju Hutan Monyet yang sakral, tapi juga surganya toko seni.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b24218c03d8ce933d431b6311628adc.jpg)
+![3. Jalan Monkey Forest（猴子森林路）](https://images.gobaligo.id/vocus/vocus_0b24218c03d8ce933d431b6311628adc.jpg)
 
 ### Barang yang wajib dibeli:
 
@@ -88,7 +88,7 @@ Bukan cuma jalan menuju Hutan Monyet yang sakral, tapi juga surganya toko seni.
 
 Ini pasar seni yang paling sering dikunjungi warga lokal, harganya lebih ramah di kantong.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_92238406ed523649c94d45eeb0afe549.jpg)
+![4. Pasar Seni Sukawati (Sukawati Art Market)](https://images.gobaligo.id/vocus/vocus_92238406ed523649c94d45eeb0afe549.jpg)
 
 ### Barang Wajib Dibeli:
 
@@ -110,7 +110,7 @@ Ini pasar seni yang paling sering dikunjungi warga lokal, harganya lebih ramah d
 
 Jarang dikunjungi turis, tempat yang oke buat cari barang seni unik.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_34b5eb5728027dd48cb10e11bda274c3.jpg)
+![5. Pasar Seni Guwang (Guwang Art Market)](https://images.gobaligo.id/vocus/vocus_34b5eb5728027dd48cb10e11bda274c3.jpg)
 
 ### Keunikan Pasar:
 
@@ -129,7 +129,7 @@ Jarang dikunjungi turis, tempat yang oke buat cari barang seni unik.
 
 ## Tips Praktis
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa743f0755f2c685561b29cc3268fda6.jpg)
+![Tips Praktis](https://images.gobaligo.id/vocus/vocus_aa743f0755f2c685561b29cc3268fda6.jpg)
 
 ### Cara Nego Harga:
 

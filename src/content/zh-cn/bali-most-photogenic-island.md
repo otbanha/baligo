@@ -23,7 +23,7 @@ _srcHash: 473ea6ff2827f7e941ef6642a5bf7c99
 
 根据英国知名旅游服务平台 Travelbag 的最新评选，巴厘岛（Bali）在 45 个热门长途旅行目的地中脱颖而出，荣登「全球最迷人的岛屿」之冠。除了风景如画的自然美景外，巴厘岛的热情好客与丰富文化亦让全球旅客为之倾倒。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_634888bfed094ae7a5caac40b1511211.jpg)
+![Bali 荣登全球最迷人岛屿宝座：英国旅游专家 Travelbag 最新评比出炉](https://images.gobaligo.id/vocus/vocus_634888bfed094ae7a5caac40b1511211.jpg)
 
 **快速参考：**  
 [巴厘岛十大重要地标景点 & 如何安排旅程](/blog/bali-top-landmarks-guide/)？
@@ -50,13 +50,13 @@ _srcHash: 473ea6ff2827f7e941ef6642a5bf7c99
 
 从乌布的山林稻田，到乌鲁瓦图的海岸峭壁，每一处景致都如诗如画。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e531c7782e0b7ad022a164b64793eb3c.jpg)
+![1. 自然景观惊艳四座](https://images.gobaligo.id/vocus/vocus_e531c7782e0b7ad022a164b64793eb3c.jpg)
 
 ### **2. 独特文化与传统**
 
 巴厘岛的节庆、舞蹈、手工艺与寺庙建筑，展现出强烈的文化认同感与传统延续。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_681feb5b5dd74234433985258d3beee0.jpg)
+![2. 独特文化与传统](https://images.gobaligo.id/vocus/vocus_681feb5b5dd74234433985258d3beee0.jpg)
 
 ### **3. 友善好客的当地人**
 
@@ -66,7 +66,7 @@ _srcHash: 473ea6ff2827f7e941ef6642a5bf7c99
 
 从冲浪、潜水到火山登山，再到静心冥想与 SPA 疗程，应有尽有。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7030ca3e24fe75b65f4b81031df4960a.jpg)
+![4. 多样化的活动选择](https://images.gobaligo.id/vocus/vocus_7030ca3e24fe75b65f4b81031df4960a.jpg)
 
 **快速参考：**  
 [巴厘岛户外活动玩什么？50种最受欢迎的户外体验](/blog/bali-top-50-outdoor-activities/)
@@ -77,7 +77,7 @@ _srcHash: 473ea6ff2827f7e941ef6642a5bf7c99
 
 许多旅游博主与评论家指出，巴厘岛提供的是一种「心灵的疗愈」，而不只是短暂的休闲假期。加上机票价格越来越亲民，与丰富住宿选择，使巴厘成为长途旅客首选地。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dc9cc4be4aa2cfe7f9e6673430ece576.jpg)
+![专家观点与旅客评价汇总](https://images.gobaligo.id/vocus/vocus_dc9cc4be4aa2cfe7f9e6673430ece576.jpg)
 
 **快速参考：**  
 精选：巴厘岛住宿推荐指南

@@ -31,7 +31,7 @@ Update:2026/06/07
 
 巴厘岛不仅以迷人的沙滩、热闹的文化活动和丰富的自然景观闻名，梯田更是其标志性的景点之一。独特的水稻梯田不仅提供壮丽的视觉享受，也展现了当地农耕文化和社会结构。**巴厘岛的两大梯田区——德格拉朗梯田**（Tegalalang Rice Terraces）和**贾提鲁维梯田**（Jatiluwih Rice Terraces），堪称世界奇观，让游客深入了解巴厘岛农村生活，并亲身体验大自然的宁静之美。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_681188d17bd939f1995e2b811dd9ea8d.jpg)
+![巴厘岛梯田介绍：探索巴厘岛两大梯田区](https://images.gobaligo.id/vocus/vocus_681188d17bd939f1995e2b811dd9ea8d.jpg)
 
 ## **什么是巴厘岛梯田？**
 
@@ -39,19 +39,19 @@ Update:2026/06/07
 
 以下，我们将深入介绍这两大梯田区的特色和最佳游览方式。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e4eb6216ccf69fd8413b958ab5010ec.png)
+![什么是巴厘岛梯田？](https://images.gobaligo.id/vocus/vocus_4e4eb6216ccf69fd8413b958ab5010ec.png)
 
 ## **德格拉朗梯田（Tegalalang Rice Terrace）**
 
 位于乌布（Ubud）北部的德格拉朗梯田，是巴厘岛最具代表性的观光梯田景点之一。其壮观又秀丽的梯田景观和丰富的周边活动吸引了无数的游客，成为摄影爱好者和自然爱好者的必访之地。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_04c9efaa4e64a1161cd73552f0fa0eaf.jpg)
+![德格拉朗梯田（Tegalalang Rice Terrace）](https://images.gobaligo.id/vocus/vocus_04c9efaa4e64a1161cd73552f0fa0eaf.jpg)
 
 ### **德格拉朗梯田的特色**
 
 德格拉朗梯田最大的特色是其**壮观的景观和独特的地理位置**。梯田的阶层高度不一，且大多位于山坡上，通过苏巴克灌溉系统让水流顺利流经每一层稻田，形成美丽的水田反射效果，尤其在日出和日落时更显得梦幻动人。此外，德格拉朗的梯田周边充满了多样的热带植物，绿意盎然的景观犹如置身于绿色天堂。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4b230e91b2e502eebc023b2f37cd16aa.jpg)
+![德格拉朗梯田的特色](https://images.gobaligo.id/vocus/vocus_4b230e91b2e502eebc023b2f37cd16aa.jpg)
 
 ### **游览德格拉朗梯田的建议**
 
@@ -73,13 +73,13 @@ Update:2026/06/07
 
 ## **贾提鲁维梯田（Jatiluwih Rice Terraces）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_03240ac24d35267825628f03033462da.jpg)
+![贾提鲁维梯田（Jatiluwih Rice Terraces）](https://images.gobaligo.id/vocus/vocus_03240ac24d35267825628f03033462da.jpg)
 
 贾提鲁维梯田位于巴厘岛中部，是一处广阔且保存良好的稻田区域。相比德格拉朗，贾提鲁维梯田更为辽阔，拥有无边无际的梯田景观，让游客徜徉于壮丽的绿色海洋中。这里的梯田风景质朴，适合喜爱宁静、追求自然美景的旅客。
 
 ### **贾提鲁维梯田的特色**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_489574c7808e044a63eb6e36357de053.jpg)
+![贾提鲁维梯田的特色](https://images.gobaligo.id/vocus/vocus_489574c7808e044a63eb6e36357de053.jpg)
 
 贾提鲁维梯田被列入**联合国教科文组织世界文化遗产**，这里的稻田以天然和谐的布局展现了苏巴克灌溉系统的精髓。贾提鲁维的梯田分布广泛，田地宽阔，周围群山环绕，气氛悠闲宁静。稻田在不同季节呈现出多样的颜色变化，从青绿到金黄，无论何时前往都能体验到自然的美丽与壮丽。
 
@@ -103,7 +103,7 @@ Update:2026/06/07
 
 德格拉朗与贾提鲁维梯田各有特色，德格拉朗梯田距离乌布较近，适合短时间游览的旅客，而贾提鲁维则更为辽阔，适合喜爱深度探索和静谧自然的旅客。无论您选择哪一个梯田，都能体验到巴厘岛独特的农业景观和丰富的文化内涵。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac65861b32e9c3e850c3f44aff108470.jpg)
+![德格拉朗与贾提鲁维梯田的比较](https://images.gobaligo.id/vocus/vocus_ac65861b32e9c3e850c3f44aff108470.jpg)
 
 ### 最佳游览季节与建议
 
@@ -114,7 +114,7 @@ Update:2026/06/07
 
 **总结来说：** 如果你想避开午后雷阵雨、拍到蓝天白云衬托的梯田，**5 月至 9 月的干季**是天气最稳定的最佳旅游季节。不过，大自然的节奏并非一成不变，当地的农民仍会根据当年的雨水与气候微调耕作时间，每次去都是一场独一无二的相遇！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_598c698b2d2bbe81b87963dc055fb955.jpg)
+![最佳游览季节与建议](https://images.gobaligo.id/vocus/vocus_598c698b2d2bbe81b87963dc055fb955.jpg)
 
 ## **摄影小技巧：如何捕捉梯田美景**
 
@@ -126,11 +126,11 @@ Update:2026/06/07
 - **尝试低角度拍摄**：蹲下或俯拍稻穗，能让画面更有立体感，也能凸显稻田的细腻细节。
 - **尊重当地居民**：若欲拍摄当地农民或村民，请事先征得同意（拍照征得同意，最简单的问法可以问：Foto, foto?）。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_514fdb7732d7569c92b6fa94c17ff4a4.jpg)
+![摄影小技巧：如何捕捉梯田美景](https://images.gobaligo.id/vocus/vocus_514fdb7732d7569c92b6fa94c17ff4a4.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3d34fb7650a517040849169ebf0f9a45.jpg)
+![摄影小技巧：如何捕捉梯田美景](https://images.gobaligo.id/vocus/vocus_3d34fb7650a517040849169ebf0f9a45.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_067412346850bdca5055baf5ad763348.jpg)
+![摄影小技巧：如何捕捉梯田美景](https://images.gobaligo.id/vocus/vocus_067412346850bdca5055baf5ad763348.jpg)
 
 巴厘岛的梯田，无论是德格拉朗还是贾提鲁维，都不仅仅是观光景点，更是当地文化和传统农业的象征。在这些梯田中，您能体验到与大自然和谐共处的感受，也能深入了解巴厘岛的农业历史和社会结构。若您计划前往巴厘岛，不妨将这些梯田景点列入行程，亲眼见证这片美丽的绿色仙境。
 
@@ -146,7 +146,7 @@ Update:2026/06/07
 
 上文提到的苏巴克（Subak）系统是巴厘岛独有的传统水稻梯田灌溉方式，已有超过千年的历史。自11世纪起，苏巴克成为了当地农业的核心，更被联合国教科文组织列为**世界文化遗产**。它并非仅仅是个技术灌溉系统，更是一个集宗教信仰、社会结构与环境保护于一体的独特文化象征。苏巴克系统以佛教和水神信仰为基础，强调人与自然的和谐，并在农民社区中建立了合作共享的精神。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0ca73e6ea28937fc21a3beff6cc1905f.jpg)
+![额外补充：什么是苏巴克系统？](https://images.gobaligo.id/vocus/vocus_0ca73e6ea28937fc21a3beff6cc1905f.jpg)
 
 苏巴克系统由当地农民共同组织管理，确保每一片梯田区都能公平分配水资源。农民们通过苏巴克组织召开会议，协调水资源的分配，并在每个耕种季节举行祭典，感谢水神和山神的庇佑。苏巴克系统也有效避免了水资源争夺，强化了农民社区之间的团结关系。
 

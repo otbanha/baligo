@@ -41,7 +41,7 @@ Mookiland's facilities come from world-class playground suppliers, with their in
 
 Mookiland Family Park is one of Bali's largest children's playgrounds, offering endless fun with various facilities. Whether it's climbing walls, obstacle courses, or bounce castles, every child can find their own happy place here. Additionally, the park features a 500-square-meter semi-covered area, perfect for play during hot or rainy weather, ensuring uninterrupted fun.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_271eb09d4df21b35bff35f9edacbc5a9.jpg)
+![Bali's Largest Playground](https://images.gobaligo.id/vocus/vocus_271eb09d4df21b35bff35f9edacbc5a9.jpg)
 
 {{block:smk}}
 
@@ -87,6 +87,6 @@ Mookiland Park implements high-standard safety measures, including daily safety 
 
 [Official Website](https://balimookilandpark.com/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9df33aa1b982e28e4665ce236adfd948.jpg)
+![Frequently Asked Questions (FAQs)](https://images.gobaligo.id/vocus/vocus_9df33aa1b982e28e4665ce236adfd948.jpg)
 
 {{block:親子}}

@@ -40,11 +40,11 @@ lang: id
 _srcHash: 4ff5faddc6bce88aab4ed60e7ac67a0f
 ---
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244520574-954a1216262b0375452a8286fe715ba5.webp)
+![IZE Seminyak｜Review Mendalam Hotel Butik CP Tinggi di Seminy](https://images.gobaligo.id/images/2026-04/1776244520574-954a1216262b0375452a8286fe715ba5.webp)
 
 Di antara pilihan hotel di Seminyak, IZE Seminyak punya ciri khas yang gampang dikenali. Berlokasi di Jl. Kayu Aya 68 — tepat di pusat Eat Street — hotel bintang empat ini mengusung gaya Skandinavia modern minimalis, dengan nuansa biru es dipadukan putih dan elemen kayu. Kesan keseluruhan: rapi, muda, dan penuh desain. Tamu yang menginap kebanyakan traveler usia 30-an yang pengin main nightlife dan belanja. Total 81 kamar di enam lantai, ukurannya nggak gede tapi fasilitas lengkap, dan reputasi servisnya selalu oke.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244750774-mixcollage-15-apr-2026-04-18-pm-2978.jpg)
+![IZE Seminyak｜Review Mendalam Hotel Butik CP Tinggi di Seminy](https://images.gobaligo.id/images/2026-04/1776244750774-mixcollage-15-apr-2026-04-18-pm-2978.jpg)
 
 ***
 
@@ -62,23 +62,23 @@ Skor 'ramah pejalan kaki' di Tripadvisor untuk kawasan ini hampir sempurna — i
 
 ## 🏨 Fasilitas Hotel
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244836255-954a1216262b0375452a8286fe715ba5.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776244836255-954a1216262b0375452a8286fe715ba5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244836702-337808_16090714250046189679.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776244836702-337808_16090714250046189679.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244837211-337808_16090714250046189694.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776244837211-337808_16090714250046189694.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244837611-20438021.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776244837611-20438021.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244838002-a11d29faecafe206d78e29095c8eaa8b.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776244838002-a11d29faecafe206d78e29095c8eaa8b.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244838851-c88868027c17c69106c76e305f225f10.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776244838851-c88868027c17c69106c76e305f225f10.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244839279-76a427872e96025600402ae56052b067.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776244839279-76a427872e96025600402ae56052b067.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244840136-458bc44a5864e208586df1f015c8da94.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776244840136-458bc44a5864e208586df1f015c8da94.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244840623-0531ef0c73a7521a52354eab5e3de73e.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776244840623-0531ef0c73a7521a52354eab5e3de73e.webp)
 
 Yang paling jadi sorotan dari IZE Seminyak adalah konsep dua kolam renangnya — tugasnya beda, fungsinya jelas.
 
@@ -98,51 +98,51 @@ IZE Seminyak punya empat tipe kamar utama, masing-masing dengan konsep yang jela
 
 **Deluxe Room** adalah tipe entry-level, luas banget. Dilengkapi balkon, AC, TV LED, minibar, brankas, mesin kopi Nespresso, dan shower hujan di kamar mandi. Beberapa kamar juga punya bak Jacuzzi (Deluxe Jacuzzi Room).
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244888349-c3d12a7579586757ea07178b869a568c.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776244888349-c3d12a7579586757ea07178b869a568c.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244888817-f2779805693ce4866339cfdd6be2dffb.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776244888817-f2779805693ce4866339cfdd6be2dffb.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244889213-337808_17072916320054759563.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776244889213-337808_17072916320054759563.webp)
 
 **Deluxe Pool Room** adalah tipe terlaris di hotel ini. Luasnya 40 meter persegi, pintu langsung terbuka ke IZE Pool di lantai dasar — kolam renang keramik biru sepanjang 30 meter ini cuma bisa dipakai tamu tipe kamar ini. Cocok banget buat kamu yang pengen renang pribadi di pagi hari. Tapi kamar ini dekat jalan, beberapa review bilang ada sedikit suara dari luar di malam hari — kalau pesan, minta kamar di sisi belakang aja.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244926357-dc1f3352a9afb0c9723adc9afe6185eb.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776244926357-dc1f3352a9afb0c9723adc9afe6185eb.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244926816-d8f703ae1c7b8465922841307f9bf774.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776244926816-d8f703ae1c7b8465922841307f9bf774.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244927269-b80feae13a89dcc06f3922e0e63657b5.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776244927269-b80feae13a89dcc06f3922e0e63657b5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244927631-740939523.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776244927631-740939523.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244928017-740940219.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776244928017-740940219.jpg)
 
 **Club Room** ada di lantai 7 paling atas, dengan langit-langit tinggi, luas 40 meter persegi. Dekorasi cokelatnya terasa lebih elegan dan tenang. Beberapa kamar punya balkon dengan pemandangan Seminyak, dan akses langsung ke kolam renang atap. Bonusnya termasuk antar-jemput bandara gratis, laundry harian, dan camilan malam plus cocktail sunset di Meja Restaurant.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244965134-cea78566622e8493224855b2796ec1de.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776244965134-cea78566622e8493224855b2796ec1de.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244965561-47efca7ba398f0a6dd20636f6373d8cf.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776244965561-47efca7ba398f0a6dd20636f6373d8cf.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244966024-740939593.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776244966024-740939593.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244966422-740939608.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776244966422-740939608.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244966948-b80feae13a89dcc06f3922e0e63657b5.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776244966948-b80feae13a89dcc06f3922e0e63657b5.webp)
 
 **Junior Suite** adalah tipe terbesar di hotel ini, ada di lantai atas, luas 80 meter persegi — dua kali lipat Club Room. Dilengkapi mesin Nespresso dan sabun tangan buatan Bali. Konsepnya kayak suite mewah pribadi di pusat kota.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244997041-8e720b5268f5490aed9a672fa4b8acf4.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776244997041-8e720b5268f5490aed9a672fa4b8acf4.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244997472-337808_19071816020078246011.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776244997472-337808_19071816020078246011.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244997982-337808_19071816020078246051.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776244997982-337808_19071816020078246051.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244998398-337808_19071816020078246060.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776244998398-337808_19071816020078246060.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244998833-337808_19071816020078246079.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776244998833-337808_19071816020078246079.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244999715-337808_16090715090046193371.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776244999715-337808_16090715090046193371.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776245000212-b4ffaab2d04faf95f68a3269f0dee016.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776245000212-b4ffaab2d04faf95f68a3269f0dee016.webp)
 
 🔗 **Catatan soal Connecting Rooms**: Ini penting banget buat diketahui. IZE Seminyak punya kamar yang bisa dihubungkan (dua kamar dengan pintu penghubung di dalam). Masing-masing kamar punya kamar mandi, AC, dan balkon sendiri, tapi bisa saling akses tanpa harus lewat koridor. Cocok banget buat keluarga dengan anak, dua pasangan yang traveling bareng, atau grup kecil yang mau tetap terhubung tapi punya privasi. Connecting Rooms tergantung ketersediaan — waktu booking, mending tulis di catatan atau hubungi hotel langsung buat konfirmasi.
 
@@ -156,7 +156,7 @@ Paling cocok buat **anak muda atau pasangan** yang suka desain, kemudahan akses 
 
 ## 💬 Ulasan Nyata Tamu
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776245143090-b857f676112e9e3718c2f58957b3b3bd.webp)
+![Ulasan Nyata Tamu](https://images.gobaligo.id/images/2026-04/1776245143090-b857f676112e9e3718c2f58957b3b3bd.webp)
 
 Seorang tamu yang review di Tripadvisor November 2025 bilang, staf hotel waktu check-in ramah banget dan proaktif, bahkan dikasih upgrade kamar gratis. Kolam renang di atap lantai 7 bikin dia terkesan, lingkungannya bersih, dan ini jadi salah satu pengalaman menginap terbaiknya di Seminyak. (Sumber: Tripadvisor ⭐ 5.0)
 

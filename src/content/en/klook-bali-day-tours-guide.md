@@ -36,7 +36,7 @@ If researching feels like too much work or you're completely unfamiliar with Bal
 
 Klook offers over **200 different themed day tours**, covering natural wonders, cultural heritage, water activities, Instagrammable spots, culinary experiences, and even luxury stays and sunset dinners—catering to all travel styles!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_347c525c2e3191eb083fef2d9875c8e3.png)
+![Don't Want to Plan? These Day Tours Let You 'Sleep on the Bu](https://images.gobaligo.id/vocus/vocus_347c525c2e3191eb083fef2d9875c8e3.png)
 
 For **first-time visitors to Bali** or free-spirited travelers who simply want to relax without spending time planning, Klook's day tours are the ultimate lazy solution.
 
@@ -94,7 +94,7 @@ Simply use the Klook APP on your phone for instant booking and confirmation, eli
 
 🚗 [Chinese-Speaking Guide Nusa Penida Day Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3D7e1e0da9d2)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1bdaa0b5ff810875bcbeb9606d8dbdd3.png)
+![Recommended Popular Day Tour Types](https://images.gobaligo.id/vocus/vocus_1bdaa0b5ff810875bcbeb9606d8dbdd3.png)
 
 Explore more options here ▶ [Klook's Top Bali Activities](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807836&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fpage%3D1%26sort%3Dparticipants%26frontend_id_list%3D9%2C10%2C14%2C29%2C13%2C127%2C162%2C163)
 
@@ -119,7 +119,7 @@ These day tours are perfect for the following travelers:
 3. Pay attention to details like the guide's language and whether lunch is included
 4. It's recommended to book popular tours at least one week in advance to avoid sold-out situations
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e29052eab2810585aa0bb550a20c7c55.jpg)
+![How to Join and Tips](https://images.gobaligo.id/vocus/vocus_e29052eab2810585aa0bb550a20c7c55.jpg)
 
 ***
 

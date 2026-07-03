@@ -23,7 +23,7 @@ _srcHash: 058ba382d1ff0853e2f08fa4a457ac50
 
 ## 上午：巴厘岛野生动物园（Bali Safari and Marine Park）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_68d89a15810370f81072ef0e87334c80.png)
+![上午：巴厘岛野生动物园（Bali Safari and Marine Park）](https://images.gobaligo.id/vocus/vocus_68d89a15810370f81072ef0e87334c80.png)
 
 ### 探索动物世界
 
@@ -41,7 +41,7 @@ _srcHash: 058ba382d1ff0853e2f08fa4a457ac50
 
 ## 傍晚：红鹤海滩俱乐部（Flamingo Beach Club）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a695f24671ea20a9e4811d22bb4e4ed3.png)
+![傍晚：红鹤海滩俱乐部（Flamingo Beach Club）](https://images.gobaligo.id/vocus/vocus_a695f24671ea20a9e4811d22bb4e4ed3.png)
 
 ### 放松时光
 
@@ -61,7 +61,7 @@ _srcHash: 058ba382d1ff0853e2f08fa4a457ac50
 
 ▶[这里买Flamingo Beach Club通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=857679&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84805-flamingo-beach-club-pass-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D008e73d36e)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_479fa43562923a8330d28ac7c6824660.png)
+![美食与休憩](https://images.gobaligo.id/vocus/vocus_479fa43562923a8330d28ac7c6824660.png)
 
 ## 小结
 

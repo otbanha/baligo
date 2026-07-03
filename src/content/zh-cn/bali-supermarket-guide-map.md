@@ -70,7 +70,7 @@ _srcHash: 364ad32bfa73a86d66cc04d30ce7ec7b
 
 ### 🍪 零食、伴手礼与泡面区
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779190258001-78dbd5473ae771c1f842dd0b00c2319e.jpg)
+![零食、伴手礼与泡面区](https://images.gobaligo.id/images/2026-05/1779190258001-78dbd5473ae771c1f842dd0b00c2319e.jpg)
 
 - **Kusuka 木薯片（Singkong）：** 印尼零食世界有名！这款木薯片口感比薯片更好，且富含纤维素、热量只有薯片的 60%，爱吃薯片又怕胖的人必买。
 - **坚果类伴手礼：**
@@ -89,7 +89,7 @@ _srcHash: 364ad32bfa73a86d66cc04d30ce7ec7b
 - **Teh Botol 瓶装茶：** 号称「印尼的可口可乐」，采用天然绿茶、茉莉花、水和糖制成，不含防腐剂，儿茶素极高。
 - **麝香猫牌白咖啡（Luwak White Koffie）：** 瓶装咖啡方便又便宜（雀巢铝箔包只要约 USD$0.3），而这款白咖啡也非常推荐。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779190305398-_2026-05-19_18.24.28.png)
+![咖啡、茶饮与酒精饮料](https://images.gobaligo.id/images/2026-05/1779190305398-_2026-05-19_18.24.28.png)
 
 ### 🥑 巴厘岛特产水果
 
@@ -105,7 +105,7 @@ _srcHash: 364ad32bfa73a86d66cc04d30ce7ec7b
 
 **【重要提醒】自备购物袋：** 巴厘岛为了推行环保，各大超市和商家**全面不提供塑料袋**，去逛街前记得随身带个环保袋喔！
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779190670051-mixcollage-19-may-2026-06-26-pm-7181.jpg)
+![隐藏版区域：服装与纪念品不需杀价](https://images.gobaligo.id/images/2026-05/1779190670051-mixcollage-19-may-2026-06-26-pm-7181.jpg)
 
 下次出发巴厘岛，记得第一站先用 [GoBaliGo 超市地图指南](/map/supermarket/) 找到最近的超市，然后把这些物资和伴手礼通通搬回酒店吧！
 

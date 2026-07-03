@@ -51,7 +51,7 @@ Di Indonesia, Malaysia, Thailand selatan, petai jadi bahan makanan rumahan dan j
 
 Kalau kamu liburan ke Indonesia, wajib coba **Nasi Goreng Petai**. Kedengerannya sih menantang, tapi begitu petai dimasak bareng nasi goreng khas Indonesia, ditumis di wajan panas, aroma awalnya yang menyengat jadi lebih kalem, malah keluar wangi kayak kacang-kacangan dan rumput yang bikin nagih.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778028180819-nasigoreng_petai.jpeg)
+![Di Indonesia, Kita Suka Banget Makan 'Nasi Goreng Petai'](https://images.gobaligo.id/images/2026-05/1778028180819-nasigoreng_petai.jpeg)
 
 Nasi gorengnya gurih banget berkat kecap, bawang putih, cabai, dan terasi. Ditambah petai renyah yang pas digigit, ada rasa pahit-manis tipis dan tekstur krenyes-krenyes yang bikin nasi gorengnya nggak terlalu berminyak. Di kaki lima Jakarta atau Surabaya, seporsi Nasi Goreng Petai biasanya ditemani telur ceplok, ayam goreng, atau kerupuk udang — ini comfort food-nya banyak orang Indonesia.
 

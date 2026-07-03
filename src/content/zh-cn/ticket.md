@@ -150,7 +150,7 @@ _srcHash: 284a7fc469e23fad930b13330563c06e
 - 背包客
 - 弹性休假族
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780735520988-asian_beautiful_655f42b6-83f4-422e-806c-396f6443638d.png)
+![3. 混搭航空公司](https://images.gobaligo.id/images/2026-06/1780735520988-asian_beautiful_655f42b6-83f4-422e-806c-396f6443638d.png)
 
 # 二、传统直飞 VS 廉航转机：2026 年怎么选？
 

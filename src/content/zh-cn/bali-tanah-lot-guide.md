@@ -27,7 +27,7 @@ _srcHash: aa2ba4e3a3c479b100b45eed2ae9dd5a
 
 位于巴厘岛塔巴南（Tabanan）区的海神庙（Tanah Lot），坐落在一座海中岩石的小岛上，成为巴厘岛最具象征性的宗教景点之一。这里不仅可以欣赏壮丽的夕阳和海浪冲击岩岸的美景，还有许多值得一试的活动，吸引了世界各地的游客前来探索。本文将为您详细介绍海神庙的历史、游览活动、潮汐信息和住宿建议，让您的巴厘岛之行更加精彩。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_36a21198d37ccb139f68e96a327f9b33.jpg)
+![巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](https://images.gobaligo.id/vocus/vocus_36a21198d37ccb139f68e96a327f9b33.jpg)
 
 ## 一、海神庙的历史背景与宗教意义
 
@@ -37,7 +37,7 @@ _srcHash: aa2ba4e3a3c479b100b45eed2ae9dd5a
 
 > 延伸阅读：[2026巴厘岛的庆典日期](/blog/2026-bali-festival-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_71c5ba824a21ebf14225e1a786a733aa.jpg)
+![一、海神庙的历史背景与宗教意义](https://images.gobaligo.id/vocus/vocus_71c5ba824a21ebf14225e1a786a733aa.jpg)
 
 ## 二、探索海神庙的热门活动
 
@@ -50,7 +50,7 @@ _srcHash: aa2ba4e3a3c479b100b45eed2ae9dd5a
 3. **捕捉夕阳与海神庙的梦幻瞬间**
    海神庙的夕阳被誉为巴厘岛最佳之一。随着太阳逐渐落入海平面，整座寺庙被染上金黄色，营造出宁静浪漫的氛围。为了欣赏「金色夕阳」的最佳观赏点，建议游客提前前往并找到理想的视角。这个时刻吸引了大量摄影爱好者，是绝佳的拍摄时间。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a57c3676b33b851b9c8fdcfbbc097fe1.jpg)
+![二、探索海神庙的热门活动](https://images.gobaligo.id/vocus/vocus_a57c3676b33b851b9c8fdcfbbc097fe1.jpg)
 
 ## 三、游览贴士：门票信息、潮汐查询与周边住宿
 
@@ -78,7 +78,7 @@ _srcHash: aa2ba4e3a3c479b100b45eed2ae9dd5a
 
 需注意的是，因为高峰时段夕阳西下时人潮众多，若想避开人潮建议提前到达。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_185691fff7731298c075e2955186123d.jpg)
+![三、游览贴士：门票信息、潮汐查询与周边住宿](https://images.gobaligo.id/vocus/vocus_185691fff7731298c075e2955186123d.jpg)
 
 离海神庙最近的Canggu（坎古区）是探访海神庙最方便的住宿基地。关于坎古的住宿可以参考：
 
@@ -87,7 +87,7 @@ _srcHash: aa2ba4e3a3c479b100b45eed2ae9dd5a
 
 ## 四、海神庙美食
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cbceb95c5a97b14017e87cfe8554cc73.png)
+![四、海神庙美食](https://images.gobaligo.id/vocus/vocus_cbceb95c5a97b14017e87cfe8554cc73.png)
 
 就在海神庙的滨海海边有一家餐厅提供巴厘岛最特别的欣赏海神庙夕阳美食体验。详细介绍及预订[请看这里](https://affiliate.klook.com/redirect?aid=116349&aff_adid=940010&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94323-de-jukung-resto-and-bar-tanah-lot-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad47504c12)。
 

@@ -36,19 +36,19 @@ Gunung Batur di Bali terkenal banget sama sunrise-nya yang spektakuler, bikin ba
 
 ### **Nikmati Panorama Penuh di Kafe Kintamani**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1126f01c021db4ab3da7ea01137c0210.png)
+![Nikmati Panorama Penuh di Kafe Kintamani](https://images.gobaligo.id/vocus/vocus_1126f01c021db4ab3da7ea01137c0210.png)
 
 Perjalanan dimulai dari Kafe Kintamani yang pemandangannya juara, tempat paling oke buat lihat panorama penuh Gunung Batur. Kamu bisa sambil ngopi atau minum favorit, rileks, dan rasakan ketenangan serta keindahan Bali. Pemandangan di sini pasti bikin kamu gak tahan buat langsung ambil kamera dan abadikan setiap momen keren.
 
 ### **Naik Jeep Off-Road Pribadi, Langsung ke Spot Sunset Terbaik**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_51baf19d13912a5c5021b14dc9cbb0fb.png)
+![Naik Jeep Off-Road Pribadi, Langsung ke Spot Sunset Terbaik](https://images.gobaligo.id/vocus/vocus_51baf19d13912a5c5021b14dc9cbb0fb.png)
 
 Beda sama jalur pendakian biasa, tur ini bakal bawa kamu naik Jeep off-road pribadi langsung ke spot terbaik buat lihat sunset di Gunung Batur. Gak perlu jalan kaki, kamu bisa sampai di tempat tinggi dengan mudah dan nikmatin pemandangan yang bikin speechless.
 
 ### **Sopir Jeep Profesional Sekaligus Fotografer, Abadikan Petualanganmu**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d822e273f831f69bd3678ed61c1e3ff6.png)
+![Sopir Jeep Profesional Sekaligus Fotografer, Abadikan Petual](https://images.gobaligo.id/vocus/vocus_d822e273f831f69bd3678ed61c1e3ff6.png)
 
 Di perjalanan ini, kamu bakal ditemani sopir jeep profesional yang juga jago foto. Mereka nggak cuma hafal rute, tapi juga tahu cara mengabadikan momen terbaik. Mulai dari perubahan cahaya saat matahari terbenam sampai foto-foto keren kamu sama gunung berapi, semuanya bakal diabadikan dengan sempurna jadi kenangan yang nggak terlupakan.
 
@@ -83,7 +83,7 @@ Selain pemandangan indah, kamu juga bisa dapet insight lebih dalam soal Gunung B
 
 {{block:戶外}}
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f43b3b9571911431dbce6426cdaa603a.png)
+![Biaya Termasuk Apa Aja?](https://images.gobaligo.id/vocus/vocus_f43b3b9571911431dbce6426cdaa603a.png)
 
 ***
 

@@ -28,7 +28,7 @@ _srcHash: b6e65c18a282abb51491e746cf3b1a30
 
 第一次全家峇里島嘅旅遊第二日，今日嘅行程係：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_85927681da5e54d9cc9e2a0075146d7b.jpg)
+![【兩大兩細嘅峇里島親子遊記】Day 2：GWK神鷹廣場、烏魯瓦圖免費海灘俱樂部、烏魯瓦圖廟、烏魯瓦圖火舞](https://images.gobaligo.id/vocus/vocus_85927681da5e54d9cc9e2a0075146d7b.jpg)
 
 從生活機能超方便嘅庫塔Aloft Kuta（[點我睇上一集嘅介紹](/blog/bali-family-trip-aloft-kuta/)）出發 > 金巴蘭神鷹廣場Garuda Wisnu Kencana Cultural Park > 烏魯瓦圖海景餐廳Kelly's Warung > 烏魯瓦圖廟 Uluwatu Temple > 火舞Kecak > 街邊小食
 

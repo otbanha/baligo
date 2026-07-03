@@ -66,7 +66,7 @@ _srcHash: 16dcf59ad80a2eaece57d6e99ae0c622
 
 都放低司機嘅聯絡資訊：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_34f3486136ba023e864d48829bee5a03.png)
+![包車司機好重要！](https://images.gobaligo.id/vocus/vocus_34f3486136ba023e864d48829bee5a03.png)
 
 > ID Line : 31011994bopeas
 

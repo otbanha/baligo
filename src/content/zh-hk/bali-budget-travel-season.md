@@ -13,7 +13,7 @@ _srcHash: 0d89a4bdd705322e890ccb668b7acd4a
 ---
 想去峇里島又怕使太多錢？其實只要掌握最佳旅遊時機同慳錢技巧，就可以用小預算享受「眾神之島」嘅美麗。本文會詳細講解最平嘅旅遊月份、住宿優惠、交通方式同美食選擇，等你可以喺淡季依然深度體驗峇里島。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6734706ff9d908499a650b64b2ebb785.png)
+![峇里島慳錢旅遊攻略：最平嘅旅遊季節完整指南](https://images.gobaligo.id/vocus/vocus_6734706ff9d908499a650b64b2ebb785.png)
 
 ## **峇里島旅遊開支重點**
 
@@ -31,7 +31,7 @@ _srcHash: 0d89a4bdd705322e890ccb668b7acd4a
 
 ## **峇里島淡季：最抵玩嘅月份**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7d538c747ad9deaaf455df6252953555.png)
+![峇里島淡季：最抵玩嘅月份](https://images.gobaligo.id/vocus/vocus_7d538c747ad9deaaf455df6252953555.png)
 
 ### **淡季嘅好處**
 
@@ -74,7 +74,7 @@ _srcHash: 0d89a4bdd705322e890ccb668b7acd4a
 
 ## **平價又精彩嘅旅遊活動**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8d0c0ccb0c0ee3d51d0ff197bed234ac.png)
+![平價又精彩嘅旅遊活動](https://images.gobaligo.id/vocus/vocus_8d0c0ccb0c0ee3d51d0ff197bed234ac.png)
 
 - **文化體驗**：參觀海神廟、烏魯瓦圖廟，門票平。
 - **舞蹈表演**：Kecak 火舞表演可以揀優惠套票。
@@ -89,7 +89,7 @@ _srcHash: 0d89a4bdd705322e890ccb668b7acd4a
 - **飲品慳錢法**：自備水樽，喺住宿或者咖啡廳免費加水。
 - **零食購買**：超市或者傳統市場有平價生果同堅果。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_56f722de5d83b2aa2ba0c4e4cebf77fc.jpg)
+![峇里島平價美食同日常開支](https://images.gobaligo.id/vocus/vocus_56f722de5d83b2aa2ba0c4e4cebf77fc.jpg)
 
 ***
 
@@ -131,7 +131,7 @@ _srcHash: 0d89a4bdd705322e890ccb668b7acd4a
 
 呢個時候島上充滿遊行、音樂、舞蹈，完全免費，可以深度感受峇里島文化。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_af2a6c5d08ffe04b97f754a61f9d1e32.jpg)
+![峇里島文化活動與免費體驗](https://images.gobaligo.id/vocus/vocus_af2a6c5d08ffe04b97f754a61f9d1e32.jpg)
 
 **快速參考：**
 [峇里島傳統節日：2025/2026年嘅峇里島宗教節慶指南](/blog/bali-religious-festivals-guide/)

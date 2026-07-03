@@ -23,7 +23,7 @@ lang: id
 _srcHash: 600295c0176e9576547dfc373b850a78
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_90c38ac72764dbb29c604f9b35b3f960.jpg)
+![Pasar Seni Ubud tutup, ada alternatif belanja lain nggak bua](https://images.gobaligo.id/vocus/vocus_90c38ac72764dbb29c604f9b35b3f960.jpg)
 
 **Pasar Seni Ubud**, sebagai salah satu destinasi wisata paling ikonik di Bali, selalu menarik banyak wisatawan yang ingin membeli karya seni dan kerajinan tangan lokal. Namun, setelah kebakaran hebat minggu lalu dan proses pemulihannya, pasar yang ramai ini akan tutup dalam waktu dekat. Kebakaran terjadi pada 17 Agustus 2024, menghancurkan bangunan pasar baru dan berdampak besar pada ekonomi lokal serta ribuan pedagang.
 
@@ -39,7 +39,7 @@ Komisioner Pol Jansen Avitus Panjaitan, juru bicara kepolisian Bali, dalam konfe
 
 ## **Alternatif Belanja untuk Wisatawan**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b760e753c909251d2d41f17357a8e93d.png)
+![Alternatif Belanja untuk Wisatawan](https://images.gobaligo.id/vocus/vocus_b760e753c909251d2d41f17357a8e93d.png)
 
 Meskipun Pasar Seni Ubud tutup, wisatawan masih bisa menikmati pengalaman belanja di tempat lain di Bali. **Peta Panduan Ubud** kami menyediakan "[Lima Alternatif Pasar Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)" biar kamu nggak kehilangan kesempatan beli karya seni dan kerajinan lokal.
 
@@ -57,7 +57,7 @@ Ubud wajib dicoba begini: [50 Cara Mendalami Ubud | Eksplor Pesona Ubud](/blog/u
 
 📩 **Langganan sekarang blog 'Panduan Travel Bali', jadi traveler Bali yang jago!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Daftar & Gabung Blog Kami](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

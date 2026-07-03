@@ -72,7 +72,7 @@ Kamu bisa atur satu hari buat jalan-jalan seru kayak gini di Bali, dijamin bakal
 
 ## Klook Denpasar World Heritage Day Trip
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_630b7e2478042e5eb703cc858917c81b.png)
+![Klook Denpasar World Heritage Day Trip](https://images.gobaligo.id/vocus/vocus_630b7e2478042e5eb703cc858917c81b.png)
 
 Kamu juga bisa ikut tur sehari penuh dari Klook ke Denpasar. Tur ini bikin kamu bisa ngerasain langsung budaya dan warisan Indonesia yang kaya. Termasuk jemputan dari hotel, kunjungan ke Pura Taman Ayun (salah satu Situs Warisan Dunia UNESCO), Museum Bali, dan tempat bersejarah lainnya. Kamu juga bakal mampir ke Pasar Badung dan Pasar Kumbasari yang legendaris, lihat-lihat produk lokal yang unik, dan seru-seruan belanja ala lokal.
 

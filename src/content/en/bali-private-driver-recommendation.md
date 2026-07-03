@@ -32,7 +32,7 @@ Gede is a rare gem of a driver and the only Bali driver I personally recommend.
 
 ## Contact Information for Gede Arimbawa 📲
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dd732c7983a3912f26ab68d22952f136.jpg)
+![Contact Information for Gede Arimbawa](https://images.gobaligo.id/vocus/vocus_dd732c7983a3912f26ab68d22952f136.jpg)
 
 - **LINE ID**: Bopeas29
 - **WhatsApp**: +62 8786 2004 094
@@ -139,9 +139,9 @@ Gede Arimbawa is not just a driver, but more like an old friend. His sincerity a
 
 Contact him now and add more wonderful memories to your Bali trip!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_080caa1b1de4d25973b11e4bdfa1101a.jpg)
+![Conclusion: Finding a Trustworthy Driver Makes the Journey M](https://images.gobaligo.id/vocus/vocus_080caa1b1de4d25973b11e4bdfa1101a.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_388b858b7f09e7aced540e2b9776c0f6.jpg)
+![Conclusion: Finding a Trustworthy Driver Makes the Journey M](https://images.gobaligo.id/vocus/vocus_388b858b7f09e7aced540e2b9776c0f6.jpg)
 
 ---
 

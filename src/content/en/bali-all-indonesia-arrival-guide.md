@@ -48,7 +48,7 @@ From this date forward, **no more separate forms** for Customs Declaration (e-CD
 1. Ensure you've applied for your eVisa in advance. Refer to [this guide](/blog/bali-evisa-application-guide/) for detailed instructions and avoid scam websites.
 2. Complete the AIAC Arrival Card three days before departure and **screenshot the QR Code** for reference. Check out our [FAQ section](/blog/bali-evisa-customs-health-declaration/) for common questions.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_47def0beb4f9737f8e70065afa8db58b.png)
+![Must-Do Before Departure:](https://images.gobaligo.id/vocus/vocus_47def0beb4f9737f8e70065afa8db58b.png)
 
 ### **1️⃣ Disembarking**
 
@@ -94,7 +94,7 @@ After collecting your luggage, proceed through the customs checkpoint.
 
 See the chart for a clear overview.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776906855235-chatgpt_image_2026_4_23_08_13_09.png)
+![⏰ How far in advance should you apply?](https://images.gobaligo.id/images/2026-04/1776906855235-chatgpt_image_2026_4_23_08_13_09.png)
 
 ***
 
@@ -120,7 +120,7 @@ Please refer to [our FAQ](/blog/bali-evisa-customs-health-declaration/)
 
 After clearing customs, congratulations on completing the entry process! Now you can head to the arrival hall to meet your pre-booked driver or family and friends, and begin your wonderful journey!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e41a1f6d506de9fed49c3228e4407a8.png)
+![Congratulations on officially entering Bali!](https://images.gobaligo.id/vocus/vocus_4e41a1f6d506de9fed49c3228e4407a8.png)
 
 **📌 Share this with friends who are about to travel to avoid any hiccups!**
 

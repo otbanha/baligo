@@ -38,7 +38,7 @@ Update: 07/06/2026
 
 Bali nggak cuma terkenal sama pantainya yang cantik, budaya yang semarak, dan alam yang melimpah. Sawah terasering juga jadi salah satu ikon yang wajib banget kamu lihat. Bentuknya yang unik ini bukan cuma enak dipandang, tapi juga jadi bukti nyata kearifan lokal dalam pertanian dan struktur sosial masyarakat Bali. **Dua kawasan sawah terasering paling terkenal di Bali—Tegalalang Rice Terraces** dan **Jatiluwih Rice Terraces**—bisa dibilang jadi keajaiban dunia yang bikin kamu bisa ngerti lebih dalam kehidupan pedesaan di Bali sambil menikmati ketenangan alam yang bikin hati adem.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_681188d17bd939f1995e2b811dd9ea8d.jpg)
+![Mengenal Sawah Terasering Bali: Dua Kawasan Tersohor](https://images.gobaligo.id/vocus/vocus_681188d17bd939f1995e2b811dd9ea8d.jpg)
 
 ## **Apa Itu Sawah Terasering Bali?**
 
@@ -46,19 +46,19 @@ Bali punya sawah terasering, Indonesia juga punya dong! Terus kenapa harus jauh-
 
 Nah, di bawah ini kita bakal bahas tuntas ciri khas dua kawasan sawah terasering ini dan gimana cara terbaik buat menjelajahinya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e4eb6216ccf69fd8413b958ab5010ec.png)
+![Apa Itu Sawah Terasering Bali?](https://images.gobaligo.id/vocus/vocus_4e4eb6216ccf69fd8413b958ab5010ec.png)
 
 ## **Tegalalang Rice Terrace**
 
 Terletak di utara Ubud, Tegalalang Rice Terrace adalah salah satu destinasi sawah terasering paling ikonik di Bali. Pemandangan teraseringnya yang megah tapi tetap asri, ditambah banyaknya aktivitas seru di sekitarnya, berhasil menarik perhatian banyak wisatawan. Tempat ini wajib banget masuk daftar kunjungan buat para pecinta fotografi dan pencinta alam.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_04c9efaa4e64a1161cd73552f0fa0eaf.jpg)
+![Tegalalang Rice Terrace](https://images.gobaligo.id/vocus/vocus_04c9efaa4e64a1161cd73552f0fa0eaf.jpg)
 
 ### **Keunikan Tegallalang Rice Terrace**
 
 Keunikan utama Tegallalang Rice Terrace adalah **pemandangannya yang spektakuler dan lokasinya yang unik**. Terasering sawahnya memiliki ketinggian yang berbeda-beda dan sebagian besar berada di lereng bukit. Sistem irigasi Subak mengalirkan air dengan lancar ke setiap petak sawah, menciptakan efek refleksi air yang indah, terutama saat matahari terbit dan terbenam yang terasa begitu magis. Selain itu, area sekitar Tegallalang dipenuhi berbagai tanaman tropis yang hijau dan rimbun, bikin kamu serasa berada di surga hijau.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4b230e91b2e502eebc023b2f37cd16aa.jpg)
+![Keunikan Tegallalang Rice Terrace](https://images.gobaligo.id/vocus/vocus_4b230e91b2e502eebc023b2f37cd16aa.jpg)
 
 ### **Tips Berkunjung ke Tegallalang Rice Terrace**
 
@@ -80,13 +80,13 @@ Saat ini, harga tiket masuk Tegallalang Rice Terrace sekitar 10.000–50.000 IDR
 
 ## **Jatiluwih Rice Terraces**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_03240ac24d35267825628f03033462da.jpg)
+![Jatiluwih Rice Terraces](https://images.gobaligo.id/vocus/vocus_03240ac24d35267825628f03033462da.jpg)
 
 Jatiluwih Rice Terraces terletak di tengah Bali, merupakan area persawahan yang luas dan terawat dengan baik. Dibandingkan Tegallalang, Jatiluwih lebih lapang dengan pemandangan terasering yang nggak ada habisnya, bikin kamu betah berlama-lama di lautan hijau yang megah. Suasana sawah di sini alami banget, cocok buat kamu yang suka ketenangan dan ingin menikmati keindahan alam.
 
 ### **Keunikan Jatiluwih Rice Terrace**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_489574c7808e044a63eb6e36357de053.jpg)
+![Keunikan Jatiluwih Rice Terrace](https://images.gobaligo.id/vocus/vocus_489574c7808e044a63eb6e36357de053.jpg)
 
 Jatiluwih Rice Terrace masuk dalam **Situs Warisan Dunia UNESCO**. Sawah di sini menampilkan sistem irigasi Subak yang tertata rapi dan alami. Area teraseringnya luas banget, dikelilingi perbukitan hijau, suasananya adem dan tenang banget. Warna sawahnya berubah-ubah tergantung musim—dari hijau segar sampai kuning keemasan. Kapan pun kamu datang, pemandangannya tetap cantik dan megah.
 
@@ -110,7 +110,7 @@ Tiket masuk Jatiluwih Rice Terrace sekitar 50.000 IDR. Dari kawasan wisata utama
 
 Tegallalang dan Jatiluwih punya keunikan masing-masing. Tegallalang lebih dekat ke Ubud, cocok buat kamu yang punya waktu terbatas. Sementara Jatiluwih lebih luas dan tenang, pas banget buat kamu yang suka eksplorasi mendalam dan suasana alami yang damai. Mana pun yang kamu pilih, kamu bakal dapet pengalaman pertanian khas Bali yang unik dan kaya budaya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac65861b32e9c3e850c3f44aff108470.jpg)
+![Perbandingan Tegallalang vs Jatiluwih Rice Terrace](https://images.gobaligo.id/vocus/vocus_ac65861b32e9c3e850c3f44aff108470.jpg)
 
 ### Musim Terbaik untuk Berkunjung & Tips
 
@@ -121,7 +121,7 @@ Sawah terasering di Bali sebenarnya **cocok dikunjungi sepanjang tahun**, karena
 
 **Kesimpulannya:** Kalau kamu ingin menghindari hujan sore dan memotret sawah terasering dengan latar langit biru dan awan putih, **musim kemarau dari Mei hingga September** adalah waktu terbaik dengan cuaca paling stabil. Tapi ritme alam nggak selalu sama—petani lokal tetap menyesuaikan waktu tanam berdasarkan curah hujan dan iklim tahun itu. Jadi setiap kunjungan adalah pertemuan yang unik!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_598c698b2d2bbe81b87963dc055fb955.jpg)
+![Musim Terbaik untuk Berkunjung & Tips](https://images.gobaligo.id/vocus/vocus_598c698b2d2bbe81b87963dc055fb955.jpg)
 
 ## **Tips Fotografi: Cara Memotret Keindahan Sawah Terasering**
 
@@ -133,11 +133,11 @@ Sawah terasering di Bali sebenarnya **cocok dikunjungi sepanjang tahun**, karena
 - **Coba angle rendah:** Jongkok atau ambil foto dari bawah bulir padi biar gambar lebih berdimensi dan detail padi lebih terlihat.
 - **Hormati penduduk setempat:** Kalau mau foto petani atau warga, minta izin dulu (cara paling simpel: tanya "Foto, foto?").
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_514fdb7732d7569c92b6fa94c17ff4a4.jpg)
+![Tips Fotografi: Cara Memotret Keindahan Sawah Terasering](https://images.gobaligo.id/vocus/vocus_514fdb7732d7569c92b6fa94c17ff4a4.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3d34fb7650a517040849169ebf0f9a45.jpg)
+![Tips Fotografi: Cara Memotret Keindahan Sawah Terasering](https://images.gobaligo.id/vocus/vocus_3d34fb7650a517040849169ebf0f9a45.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_067412346850bdca5055baf5ad763348.jpg)
+![Tips Fotografi: Cara Memotret Keindahan Sawah Terasering](https://images.gobaligo.id/vocus/vocus_067412346850bdca5055baf5ad763348.jpg)
 
 Sawah terasering di Bali, baik Tegallalang maupun Jatiluwih, bukan cuma tempat wisata—mereka adalah simbol budaya dan pertanian tradisional. Di sini, kamu bisa merasakan harmoni dengan alam, sekaligus memahami sejarah pertanian dan struktur sosial Bali. Kalau kamu berencana ke Bali, jangan lupa masukkan sawah terasering ini ke itinerary—saksikan sendiri keindahan surga hijau ini.
 
@@ -153,7 +153,7 @@ Selain sawah terasering itu sendiri, masih banyak spot menarik di sekitarnya yan
 
 Sistem Subak yang disebut di atas adalah sistem irigasi sawah terasering tradisional khas Bali yang sudah ada selama lebih dari seribu tahun. Sejak abad ke-11, Subak menjadi inti pertanian lokal dan bahkan ditetapkan oleh UNESCO sebagai **Warisan Budaya Dunia**. Sistem ini bukan sekadar teknologi irigasi, melainkan simbol budaya unik yang menggabungkan kepercayaan agama, struktur sosial, dan pelestarian lingkungan. Sistem Subak didasarkan pada ajaran Buddha dan kepercayaan pada dewa air, menekankan harmoni antara manusia dan alam, serta membangun semangat kerja sama dan berbagi di kalangan komunitas petani.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0ca73e6ea28937fc21a3beff6cc1905f.jpg)
+![Tambahan: Apa Itu Sistem Subak?](https://images.gobaligo.id/vocus/vocus_0ca73e6ea28937fc21a3beff6cc1905f.jpg)
 
 Sistem Subak dikelola bersama oleh para petani setempat untuk memastikan setiap area sawah terasering mendapatkan distribusi air yang adil. Para petani mengadakan pertemuan melalui organisasi Subak untuk mengoordinasikan pembagian air, dan setiap musim tanam mereka mengadakan upacara sebagai ungkapan terima kasih kepada dewa air dan dewa gunung. Sistem Subak juga efektif mencegah perselisihan soal air dan memperkuat solidaritas antar komunitas petani.
 

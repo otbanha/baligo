@@ -20,7 +20,7 @@ _srcHash: d9a16fe8a42077ecf9881ee87a62ec22
 ---
 在巴厘岛的前几天，我们入住了「巴厘岛喜来登库塔度假村」（Sheraton Bali Kuta Resort），这个地点实在太完美了！下楼隔壁就是超好逛的Beachwalk Shopping Center，各种品牌店铺和餐厅应有尽有，让我们逛得不亦乐乎。更棒的是，从酒店过个马路就能马上到达库塔海滩，我们每天都在这里学习冲浪，感受印度洋浪花的刺激。傍晚时分则从滨海的泳池就能欣赏到绝美的夕阳。入夜后漫步在热闹的街道上，品尝各式各样的当地美食和国际料理。库塔的夜生活让我们体验到巴厘岛年轻、充满活力的一面。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e1717a9a6a869486f410bf4911f00e0.jpg)
+![巴厘岛专业摄影师/航拍随行一日游 - 乌布与瀑布之旅](https://images.gobaligo.id/vocus/vocus_4e1717a9a6a869486f410bf4911f00e0.jpg)
 
 ## 出发前的准备
 
@@ -28,7 +28,7 @@ _srcHash: d9a16fe8a42077ecf9881ee87a62ec22
 
 在出发前一天，我们收到了摄影师兼导游的Udin通过WhatsApp发来的确认信息，详细说明了接送时间和地点。由于这次选择的是巴厘岛专业摄影师随行一日游，行程包含相机及航拍机拍摄服务，让我们对即将到来的旅程充满期待。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_25c77ae3894da2cae177666ebed9781f.jpg)
+![出发前的准备](https://images.gobaligo.id/vocus/vocus_25c77ae3894da2cae177666ebed9781f.jpg)
 
 想了解更多库塔攻略？[请点击这里](/blog/2023-12-13-657598bdfd8978000120fe20/)
 
@@ -49,7 +49,7 @@ _srcHash: d9a16fe8a42077ecf9881ee87a62ec22
 
 抵达乌布圣猴森林后，摄影师为我们购买了景点门票，这也包含在套餐服务中。踏进这片神圣的森林，我们立刻被茂密的原始森林和古老的石雕所震撼。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc3f496a03ce0af43e1dac90c9f6bda4.jpg)
+![第一站：乌布圣猴森林保护区](https://images.gobaligo.id/vocus/vocus_cc3f496a03ce0af43e1dac90c9f6bda4.jpg)
 
 在这里，调皮的猴子们成为了我们照片中的最佳配角。摄影师熟练地运用专业相机捕捉我们与猴子互动的珍贵瞬间。古老的寺庙建筑在绿荫的环绕下显得格外神秘，每一个角度都成为完美的拍摄背景。我们在这里待了快一个小时。
 
@@ -57,9 +57,9 @@ _srcHash: d9a16fe8a42077ecf9881ee87a62ec22
 
 离开猴子森林后，我们来到了著名的德哥拉朗梯田。摄影师同样为我们处理了景点门票，让我们能够无忧地享受这片绿色奇迹。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c9715ea0e3f5452bc5324c6403d129ca.jpg)
+![第二站：德哥拉朗梯田](https://images.gobaligo.id/vocus/vocus_c9715ea0e3f5452bc5324c6403d129ca.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0a56ec0011c1598693f0ffae9cb5a748.jpg)
+![第二站：德哥拉朗梯田](https://images.gobaligo.id/vocus/vocus_0a56ec0011c1598693f0ffae9cb5a748.jpg)
 
 站在观景台上，层层叠叠的稻田如同绿色的阶梯延伸到天际，这景象令我们赞叹不已。摄影师运用空拍机的优势，从各个高度和角度记录下梯田的壮丽全貌。我们也在梯田间漫步，让摄影师捕捉我们沉浸在这自然美景中的自然表情。
 
@@ -73,13 +73,13 @@ _srcHash: d9a16fe8a42077ecf9881ee87a62ec22
 
 这里离乌布有一点距离，也正因为如此可以享受人少景美的悠闲感。在车上打了一个盹，我们抵达停车场。我们的行程有包含所有景点的门票，所以我们就只要跟着 Udin 走就是。沿着小径穿越茂密的热带雨林，瀑布的声音渐渐清晰。蒂布马纳瀑布仿佛银丝从天而降，洒落在碧绿潭水中。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0f90bb6512bf564843f7ec10f5422a89.jpg)
+![第三站：蒂布马纳瀑布](https://images.gobaligo.id/vocus/vocus_0f90bb6512bf564843f7ec10f5422a89.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc0b6e8b9a4393a670407aa8edbc6aeb.jpg)
+![第三站：蒂布马纳瀑布](https://images.gobaligo.id/vocus/vocus_cc0b6e8b9a4393a670407aa8edbc6aeb.jpg)
 
 在这里摄影师充分发挥了无人机的优势，从上方拍摄瀑布的全貌，同时也用相机记录我们在瀑布前的各种姿态。清澈的池水倒映着我们开心的笑容，每一张照片都充满了生动的能量。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e4e3b5818941b29c25a2d591ec46a08d.jpg)
+![第三站：蒂布马纳瀑布](https://images.gobaligo.id/vocus/vocus_e4e3b5818941b29c25a2d591ec46a08d.jpg)
 
 想了解更多乌布攻略？[请点击这里](/blog/ubud-guide/)
 

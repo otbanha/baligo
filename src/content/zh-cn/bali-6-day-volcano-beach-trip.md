@@ -64,7 +64,7 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 > La Brisa详细介绍/如何预约？请看：[被誉为是「巴厘岛最漂亮的餐厅」：La Brisa在数以万计的美食餐厅之中如何脱颖而出？](/blog/canggu-la-brisa-restaurant-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a8d594309ff33fbcc5edd332d4309d42.jpg)
+![第一天（库塔/坎古）：](https://images.gobaligo.id/vocus/vocus_a8d594309ff33fbcc5edd332d4309d42.jpg)
 
 想了解更多坎古攻略？[请点击这里](/blog/canggu-guide/)
 
@@ -121,7 +121,7 @@ https://youtu.be/op78Dk8CjL4
 
 - 晚餐：Sun Sun Warung（超级好吃！）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1538d93829cb024ee3566067b302ce2.jpg)
+![第三天(Kintamani)：](https://images.gobaligo.id/vocus/vocus_a1538d93829cb024ee3566067b302ce2.jpg)
 
 {{block:ubud}}
 

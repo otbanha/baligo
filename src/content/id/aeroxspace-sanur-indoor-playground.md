@@ -70,7 +70,7 @@ Ada juga [tiket diskon dari Klook](https://affiliate.klook.com/redirect?aid=1163
 
 AeroXSpace berencana menambah lebih banyak wahana di masa depan untuk menarik lebih banyak pengunjung, dan diharapkan bisa menjadi destinasi wisata keluarga jangka panjang di Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c87376e37b6384cc0991bd5077a8556.jpg)
+![Rencana & Perkembangan ke Depan](https://images.gobaligo.id/vocus/vocus_1c87376e37b6384cc0991bd5077a8556.jpg)
 
 ### Pendapat Ahli & Ulasan Pengunjung
 
@@ -84,7 +84,7 @@ Disarankan datang di pagi atau sore hari untuk menghindari terik matahari, dan [
 
 AeroXSpace punya satu hidden gem yang bikin anak-anak kegirangan — setiap hari Sabtu setelah jam 5 sore, taman ini berubah jadi surga pesta khusus anak-anak. Ada DJ yang memutar musik, penari yang tampil enerjik, dan pemain trapeze yang menaburkan permen serta angpao dari ketinggian. Suasananya seru banget!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2ebc3daabf903126c0b5d744f860c0b5.jpg)
+![Party Spesial Setiap Sabtu: 'Mini Club' yang Bisa Dinikmati ](https://images.gobaligo.id/vocus/vocus_2ebc3daabf903126c0b5d744f860c0b5.jpg)
 
 Acara berlangsung dari jam 5 sore sampai jam 9 malam. Dengan membeli tiket masuk, kamu juga dapat satu paket pesta yang berisi baju, kaus kaki, kacamata glow-in-the-dark, cincin LED, dan gelang neon—bikin anak-anak dari ujung rambut sampai ujung kaki ikut merasakan vibe pestanya.
 

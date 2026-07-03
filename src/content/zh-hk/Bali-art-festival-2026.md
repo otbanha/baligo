@@ -36,7 +36,7 @@ Update: 2026/06/13
 
 今年，呢場島上最盛大嘅文化嘉年華正式迎來**第 48 屆峇里島藝術節（Pesta Kesenian Bali, 簡稱 PKB）**！無論你係第一次聽講，定係正在計劃盛夏嘅峇里島之旅，呢篇最新指南都會帶你直擊今年嘅亮點，感受最純粹嘅峇里島文化之美。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781317963625-pkb2021b.jpeg)
+![【2026 峇里島藝術節】Bali Arts Festival（PKB 2026）完整指南：開幕巡遊時間、主會場交通同文](https://images.gobaligo.id/images/2026-06/1781317963625-pkb2021b.jpeg)
 
 ## 2026 峇里島藝術節：基本資訊
 
@@ -54,13 +54,13 @@ Update: 2026/06/13
 
 #### 1. 震撼人心嘅開幕大巡遊（Peed Aya）
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781318015720-pesta-kesenian-bali-ke-46-1byl9-dom.jpg)
+![1. 震撼人心嘅開幕大巡遊（Peed Aya）](https://images.gobaligo.id/images/2026-06/1781318015720-pesta-kesenian-bali-ke-46-1byl9-dom.jpg)
 
 藝術節喺 6 月 13 日盛大揭幕！開幕最經典嘅就係喺登巴薩 Bajra Sandhi 紀念碑前面嘅「Peed Aya cultural parade」（文化大巡遊）。今年更加有超過 20,000 名藝術家同表演者一齊參與。最令人感動嘅係，巡遊隊伍入面出現咗大量後生一代同細路嘅面孔，展現咗峇里島文化生命力嘅薪火相傳。伴隨住傳統甘美朗（Gamelan）音樂嘅隆隆樂聲，幾千個着住華麗傳統服飾嘅島民夾道遊行，場面極具震撼力。
 
 #### 2. 馬拉松式嘅甘美朗同傳統舞蹈對決
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781318117923-seni1.webp)
+![2. 馬拉松式嘅甘美朗同傳統舞蹈對決](https://images.gobaligo.id/images/2026-06/1781318117923-seni1.webp)
 
 喺為期一個月嘅節慶入面，登巴薩藝術中心日日都有驚喜。嚟自峇里島各個行政區（Regencies）同村落（Banjars）嘅頂尖樂舞團體會喺度展開「文化對決」。你可以欣賞到極具張力嘅克恰舞（Kecak）、優雅嘅黎弓舞（Legong），以及各樂團之間技巧純熟、火花四射嘅甘美朗音樂比拼。
 
@@ -72,7 +72,7 @@ Update: 2026/06/13
 
 #### 4. 手工藝同世界文化交流展
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781318412419-crafts-and-produce-on-vacation.jpg)
+![4. 手工藝同世界文化交流展](https://images.gobaligo.id/images/2026-06/1781318412419-crafts-and-produce-on-vacation.jpg)
 
 除咗動態表演，藝術中心入面仲設有大型展覽區，展示峇里島引以為傲嘅木雕、編織（Ikat/Batik）同傳統繪畫。此外，今年嘅「世界文化慶典」（Bali World Culture Celebration）亦都邀請咗國際藝術團體嚟交流，展現多元文化嘅碰撞。
 
@@ -105,7 +105,7 @@ Update: 2026/06/13
 
 ### 結語
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781318485016-foto-sipa-pkb-bali-0.png)
+![結語](https://images.gobaligo.id/images/2026-06/1781318485016-foto-sipa-pkb-bali-0.png)
 
 相比專為觀光客設計嘅定型化商業表演，峇里島藝術節（PKB）係一場**由當地人民為自己嘅文化同信仰而舞**嘅真正盛宴。如果你啱啱喺呢段時間去峇里島，請一定要將登巴薩藝術中心排入你嘅行程入面。
 

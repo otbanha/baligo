@@ -21,7 +21,7 @@ lang: id
 _srcHash: e8e5b386eb1fcbb815f25a8a5815a559
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3dc7be54d646651c0baffd85a2b0e7c2.jpg)
+![Menjelajahi Hidden Gem Kuliner Bali: Mr. Lobster Seafood Res](https://images.gobaligo.id/vocus/vocus_3dc7be54d646651c0baffd85a2b0e7c2.jpg)
 
 Pas liburan ke Bali, selain nikmatin pemandangan laut yang cantik dan hangatnya sinar matahari di pantai, jangan sampai kelewatan soal kulinernya ya. Hari ini gue mau kasih tau satu restoran seafood yang bikin ngiler banget — Mr. Lobster Seafood Restaurant.
 
@@ -53,13 +53,13 @@ Kalau kamu punya rencana ke Bali, restoran seafood Mr. Lobster wajib banget masu
 
 ## Cabang Mr Lobster Canggu (Buka Juli 2025, saat ini sedang renovasi)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_adc8f803a5987f7d3df34ca6da8de9cb.jpg)
+![Cabang Mr Lobster Canggu (Buka Juli 2025, saat ini sedang re](https://images.gobaligo.id/vocus/vocus_adc8f803a5987f7d3df34ca6da8de9cb.jpg)
 
 Terletak di pinggir selatan Canggu, dekat Café del Mar Beach Club. Alamat: Jl. Subak sari, tibubeneng, kec. Kuta utara, badung, Bali, 80361
 
 ## Cabang Mr Lobster South Bay (Buka September 2025)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f5804e7062fa15e6aa013cbd08fcd74.png)
+![Cabang Mr Lobster South Bay (Buka September 2025)](https://images.gobaligo.id/vocus/vocus_2f5804e7062fa15e6aa013cbd08fcd74.png)
 
 Alamat: Jl. Pratama No.83, tanjung, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361
 

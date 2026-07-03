@@ -27,11 +27,11 @@ _srcHash: 08cb239dad3b340f26b741e60e4dbb79
 
 ## **等你的峇里島之旅HIGH到最高點！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3367ef3d85a6593784914b7333f8c98f.jpg)
+![等你的峇里島之旅HIGH到最高點！](https://images.gobaligo.id/vocus/vocus_3367ef3d85a6593784914b7333f8c98f.jpg)
 
 想像一下：喺熱帶天堂裡尖叫住由近垂直嘅滑道衝落嚟，然後悠閒咁漂浮喺懶人河上飲住椰子調酒，周圍被翠綠嘅熱帶植物包圍...呢啲就係Waterbom Bali嘅魔力！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5c80a6141d256ec92d7c933153320560.jpg)
+![等你的峇里島之旅HIGH到最高點！](https://images.gobaligo.id/vocus/vocus_5c80a6141d256ec92d7c933153320560.jpg)
 
 呢度就係**全亞洲排名第一**嘅水上樂園聖地！自1993年開業以來，Waterbom就好似一顆璀璨嘅寶石鑲嵌喺庫塔區嘅心臟地帶。2024年剛攞到「東南亞最佳水上樂園」大獎，而家正朝著世界冠軍頭銜邁進！
 
@@ -43,7 +43,7 @@ _srcHash: 08cb239dad3b340f26b741e60e4dbb79
 
 ## 💰 門票攻略：聰明慳錢大作戰
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e6db7aeaf7568233caac2ea2d5c2208d.png)
+![門票攻略：聰明慳錢大作戰](https://images.gobaligo.id/vocus/vocus_e6db7aeaf7568233caac2ea2d5c2208d.png)
 
 ### 基本款 - Single Day Pass
 
@@ -65,7 +65,7 @@ _srcHash: 08cb239dad3b340f26b741e60e4dbb79
 
 圖片展示唔到各項設施有幾好玩，我哋附上影片畀你哋自己體驗啦！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_45b0eb26bf156e5b260472badcb9c28b.jpg)
+![遊樂設施大揭秘：從天堂到地獄嘅完整體驗](https://images.gobaligo.id/vocus/vocus_45b0eb26bf156e5b260472badcb9c28b.jpg)
 
 ### 💀 膽大包天區 - 勇者限定
 
@@ -129,13 +129,13 @@ _srcHash: 08cb239dad3b340f26b741e60e4dbb79
 
 **Pleasure Pool Bar** & **Lagoon Bar** 游住水飲Cocktail，咩神仙享受嚟㗎？！椰子Long Island、熱帶水果Cocktail...喺水度飲到微醺，咁先叫度假㗎！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_188dfb35eab781771325a1c7b1cdcedb.jpg)
+![泳池酒吧 - 人生勝利組體驗](https://images.gobaligo.id/vocus/vocus_188dfb35eab781771325a1c7b1cdcedb.jpg)
 
 ## 🏖️ 涼亭租借 - VIP專屬天堂
 
 **終極舒適私隱體驗** 想要真正嘅度假Feel？租個涼亭就啱晒！園區內有**51個唔同位置**嘅涼亭揀，由隱密嘅私人角落到熱鬧嘅活動中心旁邊，總有一個完美符合你嘅需求！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0d006239532e8d89eaf2a8a0f983f0b5.png)
+![涼亭租借 - VIP專屬天堂](https://images.gobaligo.id/vocus/vocus_0d006239532e8d89eaf2a8a0f983f0b5.png)
 
 每個涼亭都有獨特嘅設施同包含項目： 🛏️ 舒適躺椅同遮陽設備 🧊 專屬冰桶服務 🍽️ 餐點直送服務 🏊‍♀️ 最佳觀景位置 💆‍♀️ 部分涼亭仲有SPA服務
 
@@ -169,7 +169,7 @@ _srcHash: 08cb239dad3b340f26b741e60e4dbb79
 
 ### **如果唔租用涼亭有地方坐嗎？**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e7ff9441c193635e2e6702586150eb77.png)
+![如果唔租用涼亭有地方坐嗎？](https://images.gobaligo.id/vocus/vocus_e7ff9441c193635e2e6702586150eb77.png)
 
 梗係有啦！園區好貼心咁準備咗多種免費休息選擇：
 
@@ -201,7 +201,7 @@ _srcHash: 08cb239dad3b340f26b741e60e4dbb79
 
 ## ⚡ 終極遊玩攻略：好似內行人咁玩
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6175291d21efae227993402759a9e029.jpg)
+![終極遊玩攻略：好似內行人咁玩](https://images.gobaligo.id/vocus/vocus_6175291d21efae227993402759a9e029.jpg)
 
 ### 🕘 時間管理術
 
@@ -213,7 +213,7 @@ _srcHash: 08cb239dad3b340f26b741e60e4dbb79
 
 **最佳季節** - 4-10月乾季，但3月同9月人最少
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_57ccf26df215e54ea7cd2588e66e6a71.jpg)
+![時間管理術](https://images.gobaligo.id/vocus/vocus_57ccf26df215e54ea7cd2588e66e6a71.jpg)
 
 ### 🎒 裝備檢查清單
 
@@ -237,7 +237,7 @@ _srcHash: 08cb239dad3b340f26b741e60e4dbb79
 
 ## ⚠️ 安全第一：唔好俾意外破壞美好回憶
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dee9cbe4d91d15d3cf88d2e34b562c7f.jpg)
+![安全第一：唔好俾意外破壞美好回憶](https://images.gobaligo.id/vocus/vocus_dee9cbe4d91d15d3cf88d2e34b562c7f.jpg)
 
 ### 基本安全常識
 
@@ -269,7 +269,7 @@ _srcHash: 08cb239dad3b340f26b741e60e4dbb79
 
 ## 🎉 最後嘅提醒
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a98984c1bd33823f8b213c1b6d5819e8.jpg)
+![最後嘅提醒](https://images.gobaligo.id/vocus/vocus_a98984c1bd33823f8b213c1b6d5819e8.jpg)
 
 Waterbom Bali唔只係個水上樂園，佢係個令你變返細路仔嘅魔法世界！喺度，你可以盡情尖叫、放聲大笑、同朋友潑水大戰，然後喺懶人河上放空發呆...
 

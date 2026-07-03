@@ -23,7 +23,7 @@ _srcHash: 101256e8032b43c87138de282b933878
 ---
 Mpox (dulu dikenal sebagai monkeypox) lagi jadi perhatian global karena kasusnya yang meningkat. Seiring Indonesia terus menyambut turis internasional, pihak berwenang di Bandara Internasional Ngurah Rai, Bali, udah nerapin prosedur screening ketat buat cegah penyebaran virus. Artikel ini bakal bahas langkah-langkah baru ini, dampaknya buat traveler, dan prospek penanganan Mpox di Bali ke depannya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dbd2920da15c527cab751ee5ad941ec2.jpg)
+![Mpox di Bali: Hal yang Perlu Kamu Tahu Sebelum Traveling](https://images.gobaligo.id/vocus/vocus_dbd2920da15c527cab751ee5ad941ec2.jpg)
 
 ### Latar Belakang dan Dampak Mpox
 
@@ -45,7 +45,7 @@ Kalau ada penumpang yang tiba di Bandara Bali dan menunjukkan gejala mirip Mpox,
 
 Sampai tahun 2024, Indonesia udah mengonfirmasi 14 kasus Mpox. Angka ini turun drastis dibandingkan 73 kasus yang dilaporkan antara Januari sampai Agustus 2023. Penurunan ini berkat efektivitas langkah skrining dan kampanye kesehatan masyarakat. Protokol yang diperketat di Bali adalah bagian dari upaya nasional buat menjaga angka tetap rendah.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6dcd733cfcdb76297d0521f99f30fca2.jpg)
+![Data Mpox Terkini di Indonesia](https://images.gobaligo.id/vocus/vocus_6dcd733cfcdb76297d0521f99f30fca2.jpg)
 
 ### Tantangan dalam Penerapan Skrining
 

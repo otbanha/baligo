@@ -22,7 +22,7 @@ _srcHash: b15bb3b16f790b35f1b763e19fdac1fe
 
 When planning your trip to Bali, booking accommodation is one of the most important steps. Bali offers a wide range of luxury hotels, exquisite villas, and affordable stays, but how do you find something that fits your budget and comfort? Here are some money-saving tips to help you save big when booking your accommodation in Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e1458b18b30d2ce80d48b7e014546a95.png)
+![7 Money-Saving Tips for Booking Accommodation in Bali](https://images.gobaligo.id/vocus/vocus_e1458b18b30d2ce80d48b7e014546a95.png)
 
 Want to have fun without breaking the bank? Check out these money-saving hacks!
 
@@ -56,7 +56,7 @@ Planning ahead and booking accommodations early can lead to significant savings.
 
 Use comparison websites or apps like Booking.com, Agoda, etc., to compare prices and reviews of different accommodation options. This ensures you find the best deal.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b53721b574da73c7eee1ef243acb1960.png)
+![Price Comparison Search](https://images.gobaligo.id/vocus/vocus_b53721b574da73c7eee1ef243acb1960.png)
 
 Book and save here:
 

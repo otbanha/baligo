@@ -39,7 +39,7 @@ Update: 31/05/2026
 
 Bawa keluarga ke Bali, yang paling ditakutin adalah kepanasan di bawah terik matahari atau tiba-tiba hujan deras sore hari yang bikin rencana berantakan — aku udah ngalamin ini berkali-kali. Tapi sejak nemu **Trans Studio Bali**, semuanya jadi lebih gampang. Taman hiburan indoor terbesar di Bali ini ada di dalam Trans Studio Mall, jadi cuaca apapun di luar, yang penting seru-seruan di dalam.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780232865078-_unnamed.jpeg)
+![【Tempat Indoor di Bali】Panduan Lengkap Trans Studio Bali: 5 ](https://images.gobaligo.id/images/2026-05/1780232865078-_unnamed.jpeg)
 
 ***
 
@@ -47,7 +47,7 @@ Bawa keluarga ke Bali, yang paling ditakutin adalah kepanasan di bawah terik mat
 
 Singkatnya, ini adalah **taman hiburan indoor** terbesar di Bali, terletak di Trans Studio Mall dekat Kuta/Seminyak (alamat: Jl. Imam Bonjol No.440). Area taman ini terbagi menjadi lima zona tematik yang masing-masing punya gaya beda banget — dari zona aksi ala New York sampai zona petualangan kuil khas Bali. Wahana dan aktivitasnya banyak banget, satu hari aja nggak cukup buat dicoba semua.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233421375-1-1-trans-studio-bali-by-riskidarmawan_-740x592.webp)
+![Apa Itu Trans Studio Bali?](https://images.gobaligo.id/images/2026-05/1780233421375-1-1-trans-studio-bali-by-riskidarmawan_-740x592.webp)
 
 Cocok banget buat yang bawa anak kecil, orang tua, atau traveler yang nggak mau liburannya terganggu panas atau hujan. Lebih ramah buat yang nggak tahan panas: di sini nggak perlu khawatir soal cuaca tropis, AC dingin sepanjang hari, wahana bisa dinikmati maksimal.
 
@@ -57,7 +57,7 @@ Cocok banget buat yang bawa anak kecil, orang tua, atau traveler yang nggak mau 
 
 ### 1. Roller Coaster Boomerang — Tantangan Ekstrem di Atas Atap Mal
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780232942005-1.webp)
+![1. Roller Coaster Boomerang — Tantangan Ekstrem di Atas Atap](https://images.gobaligo.id/images/2026-05/1780232942005-1.webp)
 
 Bahkan kalau kamu biasanya nggak suka roller coaster, wahana ini worth it buat dicoba. Letaknya di lantai atas Trans Studio Mall, dengan desain lintasan melingkar yang bikin kamu meluncur kencang di ketinggian. Sensasi melesat tiba-tiba itu bikin jantung serasa mau copot.
 
@@ -65,7 +65,7 @@ Kenapa dinamain "Boomerang"? Begitu kamu coba sendiri, pasti langsung ngerti —
 
 ### 2. Flying Over Indonesia — Keliling Indonesia dari Udara
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233003802-2.jpeg)
+![2. Flying Over Indonesia — Keliling Indonesia dari Udara](https://images.gobaligo.id/images/2026-05/1780233003802-2.jpeg)
 
 Ini salah satu wahana paling seru di taman ini, dan satu-satunya **pengalaman teater simulasi terbang di seluruh Indonesia**. Kamu naik simulator, ditemani teknologi 4D plus efek angin, kabut tipis, dan sensasi terbang — melayang dari Candi Borobudur, Pulau Komodo, sampai sawah terasering Bali… tanpa sadar jadi penasaran pengin explore tempat lain di Indonesia.
 
@@ -73,7 +73,7 @@ Dibanding cuma nonton layar biasa, sensasi "beneran terbang di udara" ini terasa
 
 ### 3. Formula Kart — Sirkuit Indoor Terbesar di Bali
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233063250-3.webp)
+![3. Formula Kart — Sirkuit Indoor Terbesar di Bali](https://images.gobaligo.id/images/2026-05/1780233063250-3.webp)
 
 Sirkuit ini hampir memenuhi satu lantai penuh, dan sekarang jadi arena gokart indoor paling besar di Bali. Gokart listriknya stabil dan aman, bahkan anak-anak pun bisa ikut (ada batasan tinggi badan, cek dulu ya). Seru banget mainnya!
 
@@ -81,7 +81,7 @@ Sirkuit ini hampir memenuhi satu lantai penuh, dan sekarang jadi arena gokart in
 
 ### 4. Forbidden Temple Adventure — Arung Jeram Santai Paling Keluarga
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233135156-4.jpg)
+![4. Forbidden Temple Adventure — Arung Jeram Santai Paling Ke](https://images.gobaligo.id/images/2026-05/1780233135156-4.jpg)
 
 Wahana arung jeram ini mengusung tema petualangan di pura Bali. Ada bagian pendek yang melaju ke luar ruangan, jadi kamu bisa lihat pemandangan kota Kuta/Seminyak. Tingkat ketegangannya nggak terlalu tinggi, tapi justru bikin seru dan ramah — cocok banget buat bawa orang tua atau anak kecil.
 
@@ -89,7 +89,7 @@ Khawatir basah? Kami main hampir nggak basah sama sekali, jadi aman bawa tas mas
 
 ### 5. Pertunjukan Seru & Parade Besar — Luangkan Waktu Khusus buat Ini
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233157309-5.webp)
+![5. Pertunjukan Seru & Parade Besar — Luangkan Waktu Khusus b](https://images.gobaligo.id/images/2026-05/1780233157309-5.webp)
 
 Banyak orang menganggap pertunjukan cuma acara tambahan yang dilihat sambil lalu, tapi pertunjukan di Trans Studio Bali benar-benar beda, **worth it banget buat luangin waktu khusus** buat nonton.
 
@@ -116,13 +116,13 @@ Selain lima daya tarik utama, beberapa area ini juga sangat recommended buat dic
 - **Rumah Ilusi Frank House**: Labirin plus ilusi visual, pas keluar bakal agak bingung sama realita
 - **Area Titanic**: Instalasi seni Titanic raksasa, spot foto wajib sebelum masuk
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233233500-titanic.webp)
+![Fasilitas Unik Lain yang Wajib Dicoba](https://images.gobaligo.id/images/2026-05/1780233233500-titanic.webp)
 
 - **Misi Tembak Zombie & Werewolf (City of the Dead)**: Pakai laser gun lawan monster virtual, lihat siapa yang paling jitu
 - **Bali Senses Area Seni Digital Imersif**: Ruang digital interaktif yang menggabungkan budaya Bali dengan teknologi, ini stasiun pertama pas masuk
 - **i-Fly Indoor Skydiving** (bayar terpisah): Takut ketinggian tapi pengen rasain sensasi terbang? Ini cara paling aman
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233460315-fly.jpg)
+![Fasilitas Unik Lain yang Wajib Dicoba](https://images.gobaligo.id/images/2026-05/1780233460315-fly.jpg)
 
 ***
 

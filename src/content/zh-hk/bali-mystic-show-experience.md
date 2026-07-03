@@ -17,9 +17,9 @@ lang: zh-hk
 _srcHash: 513677da4b0f87836b56d2d2da9ea052
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eba6378e6e692848f0831daf792f90f3.jpg)
+![峇里島最震撼大型歌舞秀登場：走進《Bali Mystic》嘅沉浸式神話世界](https://images.gobaligo.id/vocus/vocus_eba6378e6e692848f0831daf792f90f3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4c03f221b8a64ddfdcba5a3e601aba15.png)
+![峇里島最震撼大型歌舞秀登場：走進《Bali Mystic》嘅沉浸式神話世界](https://images.gobaligo.id/vocus/vocus_4c03f221b8a64ddfdcba5a3e601aba15.png)
 
 峇里島唔單止有迷人嘅海灘同豐富嘅文化，而家仲迎嚟咗一場前所未有嘅視覺同聽覺盛宴——**《Bali Mystic》**。呢場融合傳統同現代嘅沉浸式大型表演，喺 Nuanu Creative City 嘅 **Labyrinth Arts Centre** 隆重登場，帶觀眾穿越時空，體驗神話同藝術嘅交織。
 
@@ -91,7 +91,7 @@ Nuanu Creative City 係一個融合永續、藝術同科技嘅創意社區，距
 
 ## 更多Nuanu Creative City景點
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d1b9756c666257aa52804cadea6bbadb.jpg)
+![更多Nuanu Creative City景點](https://images.gobaligo.id/vocus/vocus_d1b9756c666257aa52804cadea6bbadb.jpg)
 
 Nuanu Creative City係峇里島最新崛起嘅創意園區，仲推動零碳排，成為峇里島最新嘅永續旅遊地標。依家已經開始吸引全球嘅創意人士，成為下一個必訪嘅熱點！
 

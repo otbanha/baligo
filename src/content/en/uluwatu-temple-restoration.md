@@ -25,9 +25,9 @@ _srcHash: c5a96100277e15739b98f26c07b3b98a
 ---
 However, in recent years, experts have discovered **major cracks in the cliff structure**, raising concerns about potential collapse and damage to the temple. The government and a team of engineering experts have launched comprehensive reinforcement and restoration efforts, aiming to complete the project by **February 2025** to ensure the safety and sustainability of this cultural heritage.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f2702453d13f4f8d935ff2119beb4ab.jpg)
+![Saving Uluwatu Temple: Historic Restoration Nears Completion](https://images.gobaligo.id/vocus/vocus_4f2702453d13f4f8d935ff2119beb4ab.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2fb345962fe3405edfa541170dd85eb9.jpg)
+![Saving Uluwatu Temple: Historic Restoration Nears Completion](https://images.gobaligo.id/vocus/vocus_2fb345962fe3405edfa541170dd85eb9.jpg)
 
 ## **The Cliff Crack Crisis: Origins and Development**
 
@@ -87,7 +87,7 @@ More worryingly, some online videos show that after excavating the cliff, the co
 
 ## **Conclusion: The Future of Uluwatu Temple**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_63da293a2e7ca055c3aa81845d8a3e2e.jpg)
+![Conclusion: The Future of Uluwatu Temple](https://images.gobaligo.id/vocus/vocus_63da293a2e7ca055c3aa81845d8a3e2e.jpg)
 
 Despite facing **numerous challenges and controversies**, the Bali government and expert teams continue to actively push forward with the restoration plan to ensure the **structural safety of Uluwatu Temple**. This is not only crucial for the preservation of religious and cultural heritage but also has profound implications for the **sustainable development of local tourism**.
 
@@ -119,7 +119,7 @@ For further details about Uluwatu Temple, including must-see highlights and trav
 
 ## More Uluwatu Dining and Entertainment Guide
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
+![More Uluwatu Dining and Entertainment Guide](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
 [Uluwatu Dining and Entertainment Recommendations](/blog/uluwatu-guide/)
 

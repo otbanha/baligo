@@ -21,7 +21,7 @@ Sekarang masuk ke Indonesia atau Bali masih perlu bukti vaksin dua dosis? Perlu 
 Berdasarkan regulasi penerbangan terbaru:  
 Mulai 9 Juni 2023, sesuai SE Satgas COVID-19 No. 1 Tahun 2023: **Saat masuk ke Indonesia atau Bali, kamu nggak perlu lagi menunjukkan bukti vaksinasi COVID-19 atau hasil tes COVID-19 apa pun.**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1be8b2445ff165a0588e10ac1ae9ad1e.jpg)
+![Aturan Terbaru Vaksin & Masuk ke Indonesia/Bali (Update 9 Ju](https://images.gobaligo.id/vocus/vocus_1be8b2445ff165a0588e10ac1ae9ad1e.jpg)
 
 # Kategori Wisatawan Internasional yang Diizinkan Masuk
 

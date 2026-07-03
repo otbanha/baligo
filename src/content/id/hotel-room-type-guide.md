@@ -23,7 +23,7 @@ lang: id
 _srcHash: 68cb58f78123a5316d6dbd80e7b3362c
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4987be535ea54598e53f32ecf38facc4.jpg)
+!["Double bed room" ternyata BUKAN "kamar dua tempat tidur"! J](https://images.gobaligo.id/vocus/vocus_4987be535ea54598e53f32ecf38facc4.jpg)
 
 Saat milih akomodasi, nama-nama tipe kamar sering bikin bingung, apalagi kalau kita cuma artiin secara harfiah, bisa-bisa salah paham. Biar setiap booking dapet kamar yang paling cocok, yuk kita bedain beberapa tipe kamar yang umum.
 

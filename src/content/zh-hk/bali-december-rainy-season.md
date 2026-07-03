@@ -21,7 +21,7 @@ _srcHash: 30da34127bdb0012bb8de0d97fb29688
 計劃年底或隔年年初去峇里島嘅讀者，最近有冇睇到我哋喺[Facebook群組](https://www.facebook.com/share/p/1DCH98qzUf/)公佈嘅印尼BMKG（印尼氣象氣候暨地球物理局）最新公告？呢個係關於「十二月底到隔年一月初」嘅強降雨提醒，亦係每年雨季中最值得留意嘅一段時間。
 作為長期旅居印尼、經常往返峇里島嘅旅遊寫作者，我整理咗一份攻略，等你可以更有方向地規劃2027年1–2月嘅旅行。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_900409df53579a6382a92eb5f137d800.jpg)
+![峇里島雨季12月-2月攻略](https://images.gobaligo.id/vocus/vocus_900409df53579a6382a92eb5f137d800.jpg)
 
 ## 🌧 雨量將達300–500mm：十二月底至一月初係雨季高峰
 
@@ -51,7 +51,7 @@ BMKG嘅預測指出，印尼將會喺十二月底迎來雨量增強期，預計 
 - 晚上常恢復穩定，可以食飯、行街、影相
 所以旅客真正需要做嘅，係「**將好天氣用喺上午**」。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f65b6856f52789decc1d59a008ae02ed.jpg)
+![別誤會！雨季依然有晴天，亦可以玩得好盡興](https://images.gobaligo.id/vocus/vocus_f65b6856f52789decc1d59a008ae02ed.jpg)
 
 ## 🎒 **2027年1–2月峇里島旅行建議**
 
@@ -79,7 +79,7 @@ BMKG嘅預測指出，印尼將會喺十二月底迎來雨量增強期，預計 
 
 ## 🌈 雨季嘅峇里島，其實好迷人
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_30a080584a5be323dabd95d7c05fdcf7.jpg)
+![雨季嘅峇里島，其實好迷人](https://images.gobaligo.id/vocus/vocus_30a080584a5be323dabd95d7c05fdcf7.jpg)
 
 老實講，我自己對呢段時間嘅峇里島又愛又依賴。
 落完一場雨之後，成個島好似洗乾淨咗：空氣通透、綠意飽滿、瀑布水量壯觀、烏布嘅稻田更加似一幅油畫。

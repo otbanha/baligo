@@ -84,7 +84,7 @@ _srcHash: a755a741a1f3fad0729468835f4b2128
 
 ### 准备好使用手势和肢体语言
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0ff0cc36ce9dcbe84037c3d128775f67.jpg)
+![准备好使用手势和肢体语言](https://images.gobaligo.id/vocus/vocus_0ff0cc36ce9dcbe84037c3d128775f67.jpg)
 
 即使您不会说当地语言或英语，通过使用手势、表情和肢体语言，您仍然可以与当地人沟通。这些非语言沟通方式是跨文化交流的重要工具，可以帮助您表达自己并理解他人。
 

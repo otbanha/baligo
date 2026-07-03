@@ -89,7 +89,7 @@ Spice Beach Club
 
 作为一名负责任的旅客，环保旅行已成为全球旅游趋势。在巴厘岛北部，保持环境的可持续性尤为重要。你可以通过减少使用塑料制品、支持当地的环保项目，以及选择环保认证的住宿来减少你的旅游足迹。这不仅有助于保护北部的自然资源，也能让你成为一名更具意识的旅行者。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e5760beb38d06bcff1d783e39230828b.png)
+![12. 巴厘岛北部的环保旅行提示](https://images.gobaligo.id/vocus/vocus_e5760beb38d06bcff1d783e39230828b.png)
 
 ### 13. 巴厘岛北部的未来旅游发展
 

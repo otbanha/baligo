@@ -14,7 +14,7 @@ lang: zh-cn
 _srcHash: 7fa947adf33727addbea3f57bc91b390
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1b5b22fcfc2865b59258bb6b654c3539.jpg)
+![【巴厘岛亲子游攻略】带小朋友去巴厘岛家庭旅游的20个注意要点](https://images.gobaligo.id/vocus/vocus_1b5b22fcfc2865b59258bb6b654c3539.jpg)
 
 巴厘岛是许多人喜爱的度假胜地，也是亲子旅游的热门目的地。这里有丰富的自然景观、多元的文化体验和好玩的水上活动，非常适合带小朋友一起出游。
 
@@ -22,7 +22,7 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 ## **行前准备**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_77d2a3cab5d6865647f5e4179987a87c.jpg)
+![行前准备](https://images.gobaligo.id/vocus/vocus_77d2a3cab5d6865647f5e4179987a87c.jpg)
 
 ### 签证/电子申报单/缴交观光税：
 
@@ -90,7 +90,7 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 ## 行程安排
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_feef5165b467326e7a089f07de002636.png)
+![行程安排](https://images.gobaligo.id/vocus/vocus_feef5165b467326e7a089f07de002636.png)
 
 ### 机场接机：
 
@@ -139,7 +139,7 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 ## **旅游安全**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_544de9041650a95c389aa81a7ae9a10a.png)
+![旅游安全](https://images.gobaligo.id/vocus/vocus_544de9041650a95c389aa81a7ae9a10a.png)
 
 ### 餐饮：
 

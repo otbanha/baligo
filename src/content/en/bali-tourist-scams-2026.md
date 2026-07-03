@@ -25,7 +25,7 @@ Many people have messaged me asking, 'Will I get scammed on my first trip to Bal
 
 ## **The Sleight-of-Hand at Magic Money Changers**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f72c79c18a0688540bdd57dd45f5fad.png)
+![The Sleight-of-Hand at Magic Money Changers](https://images.gobaligo.id/vocus/vocus_9f72c79c18a0688540bdd57dd45f5fad.png)
 
 Street-side shops offering suspiciously high exchange rates often use 'fast counting' tricks to whisk away bills in blind spots. Remember, an unusually high rate is almost always a sure sign of a scam. Only use reputable storefronts, and after exchanging money, always count it slowly yourself at the counter—don't rush to pocket it out of embarrassment.
 

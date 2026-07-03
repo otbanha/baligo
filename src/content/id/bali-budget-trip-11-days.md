@@ -86,7 +86,7 @@ Highlight hari ini adalah sunrise tour Gunung Batur. Kami naik jeep melewati jal
 
 Matahari terbit di gunung berapi / Lava hitam gunung berapi
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_068e3f341e55646489c9b84c8f8b19f9.jpg)
+![Jeep Sunrise Gunung Batur](https://images.gobaligo.id/vocus/vocus_068e3f341e55646489c9b84c8f8b19f9.jpg)
 
 **Tips kecil**: Jangan lupa pakai jaket lengan panjang, suhu di puncak pagi hari cukup dingin. Waktu itu kami cuma pakai kaos dan celana pendek, kedinginan banget sampai gemetar, tapi pengalaman ini jadi kenangan yang nggak terlupakan.
 
@@ -199,7 +199,7 @@ Setelah selesai dari sawah, kita lanjut ke Pantai Jimbaran buat makan malam. Den
 
   **Biaya Tiket**: 150.000 IDR
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f7365ccab1629758df838b22b7d55cb3.jpg)
+![Tanah Lot](https://images.gobaligo.id/vocus/vocus_f7365ccab1629758df838b22b7d55cb3.jpg)
 
 Pagi-pagi kita berangkat lebih awal biar nggak kena macet, dan tiba di Tanah Lot dengan lancar. Pura ini berdiri di atas batu karang di tengah laut, pas air pasang seluruh pura dikelilingi air, pemandangannya megah banget, unik, dan jadi landmark wajib di Bali. Kita foto-foto banyak, dan merasakan perpaduan indah antara alam dan religi.
 
@@ -218,7 +218,7 @@ Siang hari, sopir kami bawa ke restoran babi guling yang direkomendasikan warga 
 
   **Minimum Charge**: Sekitar USD$45 per orang (bisa ditukar makanan & minuman)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9e56de4fed9244834cd98822ed579110.jpg)
+![Rock Bar](https://images.gobaligo.id/vocus/vocus_9e56de4fed9244834cd98822ed579110.jpg)
 
 Rock Bar adalah salah satu bar tebing paling terkenal di Bali, terletak di atas tebing tepi laut dengan pemandangan langsung Samudra Hindia. Kami sampai jam 5 sore, kebetulan dapet spot keren sambil nikmatin sunset spektakuler dan minuman spesial bar. Ditambah suara ombak dan pemandangan senja, suasananya romantis banget, bikin nagih.
 
@@ -251,7 +251,7 @@ Kalau kamu ada rencana main water sports di Tanjung Benoa, jangan kayak aku yang
 
 Jalanan ini diapit tebing tinggi di kedua sisi, pemandangannya super epik — salah satu spot tercantik di Bali, bikin speechless banget.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dfb4281a0aa43733669ec08ef1cb4e0b.jpg)
+![Blue Highway](https://images.gobaligo.id/vocus/vocus_dfb4281a0aa43733669ec08ef1cb4e0b.jpg)
 
 🏖️🪨🌊 Eksplorasi keindahan tebing biru, pemandangan yang terbelah, jepret aja langsung jadi incaran Instagram! ▶[Promo Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F114124-tanah-barak-cliff-garuda-wisnu-kencana-malini-sunset-tour-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8aad5d46e9)
 
@@ -309,7 +309,7 @@ Perjalanan Bali kali ini makasih banget sama Ok Bali yang jadi supir sekaligus g
 
 Kamu pikir itinerary-nya Gao Rongfan dan tim seru? Yuk, rencanakan liburan Bali versi kamu sendiri! Jangan lupa juga kirim itinerary kamu ke grup ya!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Penutup](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 

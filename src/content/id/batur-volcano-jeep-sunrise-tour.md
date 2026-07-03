@@ -48,11 +48,11 @@ Mobil jemputan anter kami ke titik awal jeep, lalu kami pindah ke jeep dan melew
 
 Yang paling bikin surprise, dia juga ngajarin kita pose-pose 'instagramable'. 'Lihat kiri! Tangan santai di lutut! Angkat tangan!' Harus diakui, orang lokal emang paling jago soal cara motret gunung berapi yang keren abis!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2548f4b65016cb5cef84dc3c7e33a73b.jpg)
+![Momen Ajaib Matahari Terbit di Gunung](https://images.gobaligo.id/vocus/vocus_2548f4b65016cb5cef84dc3c7e33a73b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ed3565f3c65cba330867a9465af3308d.jpg)
+![Momen Ajaib Matahari Terbit di Gunung](https://images.gobaligo.id/vocus/vocus_ed3565f3c65cba330867a9465af3308d.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_461bde39900fa14c25d20ebbc554c6fc.jpg)
+![Momen Ajaib Matahari Terbit di Gunung](https://images.gobaligo.id/vocus/vocus_461bde39900fa14c25d20ebbc554c6fc.jpg)
 
 **Yang paling oke dari trip ini — tour guide-nya bakal bantuin kamu foto kenang-kenangan sunrise gratis!** Mereka tahu banget angle terbaik di setiap spot, dan bakal ngatur kamu berdiri di samping Jeep atau **langsung naik ke atap mobil**, biar dapet foto 'sunrise gunung berapi' yang super adventurous.
 
@@ -64,7 +64,7 @@ Setelah lihat sunrise, kita mampir ke Paperhills Cafe yang udah termasuk dalam p
 
 Lucunya, di sini ketemu dua cewek Taiwan yang juga baru selesai lihat sunrise, kita saling tukar cerita petualangan Jeep masing-masing!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_36abb17e76dcf903be948e0b5ecd4a4f.jpg)
+![Bonus Tak Terduga: Me Time di Paperhills Cafe](https://images.gobaligo.id/vocus/vocus_36abb17e76dcf903be948e0b5ecd4a4f.jpg)
 
 ### **4. Jalan-jalan ke Ubud (opsional tambahan)**
 
@@ -72,11 +72,11 @@ Kalau pilih paket **'Sunrise Jeep + Ubud Tour'**, kamu juga bakal diajak ke:
 
 - **Tegalalang Rice Terrace**: Sawah terasering paling terkenal di Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f7521c2109d0f81313a9289b3b3ccec0.jpg)
+![4. Jalan-jalan ke Ubud (opsional tambahan)](https://images.gobaligo.id/vocus/vocus_f7521c2109d0f81313a9289b3b3ccec0.jpg)
 
 - **Air Terjun Tukad Cepung**: Air terjun dreamy yang tersembunyi di dalam gua, pas banget buat foto-foto pas sinar matahari masuk!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b495d43fc3c4658844ab8c165bd29a1.jpg)
+![4. Jalan-jalan ke Ubud (opsional tambahan)](https://images.gobaligo.id/vocus/vocus_9b495d43fc3c4658844ab8c165bd29a1.jpg)
 
 {{block:戶外}}
 

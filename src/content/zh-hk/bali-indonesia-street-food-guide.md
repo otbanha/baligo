@@ -23,7 +23,7 @@ _srcHash: 265d2d39f7fd19f5bc0dc17a935ebc36
 
 嚟到印尼或者峇里島，一定唔可以錯過嘅就係當地地道嘅國民美食。呢啲係印尼/峇里島嘅必食美食
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e2ddcde23d6a0567f42e35a6547d104c.jpg)
+![印尼/峇里島必食人氣美食清單｜峇里島必食街頭小食｜印尼平價小食](https://images.gobaligo.id/vocus/vocus_e2ddcde23d6a0567f42e35a6547d104c.jpg)
 
 睇片介紹
 

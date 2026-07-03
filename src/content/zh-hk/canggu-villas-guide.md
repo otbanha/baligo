@@ -60,23 +60,23 @@ Canggu（發音為：坎古），呢個位於峇里島西南海岸嘅迷人小�
 
 ## ZIN Canggu Resort & Villas - 地點/舒適取勝
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451197203-520973166.jpg)
+![ZIN Canggu Resort & Villas - 地點/舒適取勝](https://images.gobaligo.id/images/2026-03/1774451197203-520973166.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451197796-520973167.jpg)
+![ZIN Canggu Resort & Villas - 地點/舒適取勝](https://images.gobaligo.id/images/2026-03/1774451197796-520973167.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451198450-520973171.jpg)
+![ZIN Canggu Resort & Villas - 地點/舒適取勝](https://images.gobaligo.id/images/2026-03/1774451198450-520973171.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451199266-520977501.jpg)
+![ZIN Canggu Resort & Villas - 地點/舒適取勝](https://images.gobaligo.id/images/2026-03/1774451199266-520977501.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451200016-520977532.jpg)
+![ZIN Canggu Resort & Villas - 地點/舒適取勝](https://images.gobaligo.id/images/2026-03/1774451200016-520977532.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451200613-520977537.jpg)
+![ZIN Canggu Resort & Villas - 地點/舒適取勝](https://images.gobaligo.id/images/2026-03/1774451200613-520977537.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451201108-520978667.jpg)
+![ZIN Canggu Resort & Villas - 地點/舒適取勝](https://images.gobaligo.id/images/2026-03/1774451201108-520978667.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451201709-376219535.jpg)
+![ZIN Canggu Resort & Villas - 地點/舒適取勝](https://images.gobaligo.id/images/2026-03/1774451201709-376219535.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451202341-520973143.jpg)
+![ZIN Canggu Resort & Villas - 地點/舒適取勝](https://images.gobaligo.id/images/2026-03/1774451202341-520973143.jpg)
 
 ZIN Resort & Villas 呢間四星住宿位於坎古嘅中心，擁有絕佳嘅地理位置，距離海灘僅一分鐘步行路程。呢種近距離令你可以輕鬆享受悠閒嘅沙灘漫步，並無縫咁去 The Lawn、Echo Beach Club、La Brisa 等知名嘅海灘俱樂部。
 
@@ -90,25 +90,25 @@ ZIN Resort & Villas 呢間四星住宿位於坎古嘅中心，擁有絕佳嘅地
 
 ## Kharista Villas & Retreat – 豪華傳統住宿體驗嘅 Canggu 別墅
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451258426-373324101.jpg)
+![Kharista Villas & Retreat – 豪華傳統住宿體驗嘅 Canggu 別墅](https://images.gobaligo.id/images/2026-03/1774451258426-373324101.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451258909-373324754.jpg)
+![Kharista Villas & Retreat – 豪華傳統住宿體驗嘅 Canggu 別墅](https://images.gobaligo.id/images/2026-03/1774451258909-373324754.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451259250-373325115.jpg)
+![Kharista Villas & Retreat – 豪華傳統住宿體驗嘅 Canggu 別墅](https://images.gobaligo.id/images/2026-03/1774451259250-373325115.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451259574-373325874.jpg)
+![Kharista Villas & Retreat – 豪華傳統住宿體驗嘅 Canggu 別墅](https://images.gobaligo.id/images/2026-03/1774451259574-373325874.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451259926-373327045.jpg)
+![Kharista Villas & Retreat – 豪華傳統住宿體驗嘅 Canggu 別墅](https://images.gobaligo.id/images/2026-03/1774451259926-373327045.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451260535-373327803.jpg)
+![Kharista Villas & Retreat – 豪華傳統住宿體驗嘅 Canggu 別墅](https://images.gobaligo.id/images/2026-03/1774451260535-373327803.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451260943-373328039.jpg)
+![Kharista Villas & Retreat – 豪華傳統住宿體驗嘅 Canggu 別墅](https://images.gobaligo.id/images/2026-03/1774451260943-373328039.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451261351-373329165.jpg)
+![Kharista Villas & Retreat – 豪華傳統住宿體驗嘅 Canggu 別墅](https://images.gobaligo.id/images/2026-03/1774451261351-373329165.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451261679-c142fa830162c7277919c6c3b4b1ad46.jpeg)
+![Kharista Villas & Retreat – 豪華傳統住宿體驗嘅 Canggu 別墅](https://images.gobaligo.id/images/2026-03/1774451261679-c142fa830162c7277919c6c3b4b1ad46.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451262153-e150aa52ef2b6c137560595e95728f0a.jpeg)
+![Kharista Villas & Retreat – 豪華傳統住宿體驗嘅 Canggu 別墅](https://images.gobaligo.id/images/2026-03/1774451262153-e150aa52ef2b6c137560595e95728f0a.jpeg)
 
 呢啲五星級豪華別墅有木地板、高茅草屋頂同木質傢俬，提供正宗嘅峇里島住宿體驗，價錢仲出奇地平。
 
@@ -124,25 +124,25 @@ ZIN Resort & Villas 呢間四星住宿位於坎古嘅中心，擁有絕佳嘅地
 
 ## La Paradis Villa – 現代化別墅，適合情侶或家庭
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451311030-190387873.jpg)
+![La Paradis Villa – 現代化別墅，適合情侶或家庭](https://images.gobaligo.id/images/2026-03/1774451311030-190387873.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451311603-190387902.jpg)
+![La Paradis Villa – 現代化別墅，適合情侶或家庭](https://images.gobaligo.id/images/2026-03/1774451311603-190387902.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451312079-202474963.jpg)
+![La Paradis Villa – 現代化別墅，適合情侶或家庭](https://images.gobaligo.id/images/2026-03/1774451312079-202474963.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451312483-202474973.jpg)
+![La Paradis Villa – 現代化別墅，適合情侶或家庭](https://images.gobaligo.id/images/2026-03/1774451312483-202474973.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451312884-202474977.jpg)
+![La Paradis Villa – 現代化別墅，適合情侶或家庭](https://images.gobaligo.id/images/2026-03/1774451312884-202474977.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451313293-202971999.jpg)
+![La Paradis Villa – 現代化別墅，適合情侶或家庭](https://images.gobaligo.id/images/2026-03/1774451313293-202971999.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451313674-202972015.jpg)
+![La Paradis Villa – 現代化別墅，適合情侶或家庭](https://images.gobaligo.id/images/2026-03/1774451313674-202972015.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451314221-202972048.jpg)
+![La Paradis Villa – 現代化別墅，適合情侶或家庭](https://images.gobaligo.id/images/2026-03/1774451314221-202972048.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451314610-186332115.jpg)
+![La Paradis Villa – 現代化別墅，適合情侶或家庭](https://images.gobaligo.id/images/2026-03/1774451314610-186332115.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451315033-186332140.jpg)
+![La Paradis Villa – 現代化別墅，適合情侶或家庭](https://images.gobaligo.id/images/2026-03/1774451315033-186332140.jpg)
 
 呢啲現代化別墅空間大又夠私隱，以佢提供嘅設施嚟講，價錢真係好抵！
 
@@ -158,25 +158,25 @@ ZIN Resort & Villas 呢間四星住宿位於坎古嘅中心，擁有絕佳嘅地
 
 ## The River Studio – 適合鍾意海灘嘅情侶嘅私人別墅
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451359250-237198464.jpg)
+![The River Studio – 適合鍾意海灘嘅情侶嘅私人別墅](https://images.gobaligo.id/images/2026-03/1774451359250-237198464.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451359552-237198467.jpg)
+![The River Studio – 適合鍾意海灘嘅情侶嘅私人別墅](https://images.gobaligo.id/images/2026-03/1774451359552-237198467.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451359893-237198469.jpg)
+![The River Studio – 適合鍾意海灘嘅情侶嘅私人別墅](https://images.gobaligo.id/images/2026-03/1774451359893-237198469.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451360292-237198476.jpg)
+![The River Studio – 適合鍾意海灘嘅情侶嘅私人別墅](https://images.gobaligo.id/images/2026-03/1774451360292-237198476.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451360669-237198477.jpg)
+![The River Studio – 適合鍾意海灘嘅情侶嘅私人別墅](https://images.gobaligo.id/images/2026-03/1774451360669-237198477.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451361113-237198479.jpg)
+![The River Studio – 適合鍾意海灘嘅情侶嘅私人別墅](https://images.gobaligo.id/images/2026-03/1774451361113-237198479.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451361447-237198482.jpg)
+![The River Studio – 適合鍾意海灘嘅情侶嘅私人別墅](https://images.gobaligo.id/images/2026-03/1774451361447-237198482.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451361769-237198484.jpg)
+![The River Studio – 適合鍾意海灘嘅情侶嘅私人別墅](https://images.gobaligo.id/images/2026-03/1774451361769-237198484.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451362112-325373751.jpg)
+![The River Studio – 適合鍾意海灘嘅情侶嘅私人別墅](https://images.gobaligo.id/images/2026-03/1774451362112-325373751.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451362457-325374076.jpg)
+![The River Studio – 適合鍾意海灘嘅情侶嘅私人別墅](https://images.gobaligo.id/images/2026-03/1774451362457-325374076.jpg)
 
 呢啲四星級、只限成人入住嘅別墅，設計好搶眼，有高斜頂屋頂、開放式樓梯，仲有時髦嘅現代家具同裝飾。
 
@@ -190,23 +190,23 @@ ZIN Resort & Villas 呢間四星住宿位於坎古嘅中心，擁有絕佳嘅地
 
 ## THE WĀVE BALI – 最啱時尚住宿嘅Canggu中心
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451425115-509980811.jpg)
+![THE WĀVE BALI – 最啱時尚住宿嘅Canggu中心](https://images.gobaligo.id/images/2026-03/1774451425115-509980811.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451425488-509980878.jpg)
+![THE WĀVE BALI – 最啱時尚住宿嘅Canggu中心](https://images.gobaligo.id/images/2026-03/1774451425488-509980878.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451425880-509980887.jpg)
+![THE WĀVE BALI – 最啱時尚住宿嘅Canggu中心](https://images.gobaligo.id/images/2026-03/1774451425880-509980887.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451426218-353355702.jpg)
+![THE WĀVE BALI – 最啱時尚住宿嘅Canggu中心](https://images.gobaligo.id/images/2026-03/1774451426218-353355702.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451426624-353355763.jpg)
+![THE WĀVE BALI – 最啱時尚住宿嘅Canggu中心](https://images.gobaligo.id/images/2026-03/1774451426624-353355763.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451427043-353355788.jpg)
+![THE WĀVE BALI – 最啱時尚住宿嘅Canggu中心](https://images.gobaligo.id/images/2026-03/1774451427043-353355788.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451427352-509980612.jpg)
+![THE WĀVE BALI – 最啱時尚住宿嘅Canggu中心](https://images.gobaligo.id/images/2026-03/1774451427352-509980612.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451427755-509980692.jpg)
+![THE WĀVE BALI – 最啱時尚住宿嘅Canggu中心](https://images.gobaligo.id/images/2026-03/1774451427755-509980692.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451428170-509980799.jpg)
+![THE WĀVE BALI – 最啱時尚住宿嘅Canggu中心](https://images.gobaligo.id/images/2026-03/1774451428170-509980799.jpg)
 
 呢間設計獨特嘅別墅係情侶或者小家庭喺充滿活力嘅Canggu中心嘅完美度假地方。
 
@@ -222,25 +222,25 @@ ZIN Resort & Villas 呢間四星住宿位於坎古嘅中心，擁有絕佳嘅地
 
 ## Ametis Villa – 完美適合情侶同家庭
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451866994-11071921.jpg)
+![Ametis Villa – 完美適合情侶同家庭](https://images.gobaligo.id/images/2026-03/1774451866994-11071921.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451867373-170260569.jpg)
+![Ametis Villa – 完美適合情侶同家庭](https://images.gobaligo.id/images/2026-03/1774451867373-170260569.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451867792-234147956.jpg)
+![Ametis Villa – 完美適合情侶同家庭](https://images.gobaligo.id/images/2026-03/1774451867792-234147956.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451868192-234148112.jpg)
+![Ametis Villa – 完美適合情侶同家庭](https://images.gobaligo.id/images/2026-03/1774451868192-234148112.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451868523-234148526.jpg)
+![Ametis Villa – 完美適合情侶同家庭](https://images.gobaligo.id/images/2026-03/1774451868523-234148526.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451868883-461667739.jpg)
+![Ametis Villa – 完美適合情侶同家庭](https://images.gobaligo.id/images/2026-03/1774451868883-461667739.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451869313-461667743.jpg)
+![Ametis Villa – 完美適合情侶同家庭](https://images.gobaligo.id/images/2026-03/1774451869313-461667743.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451869614-461667750.jpg)
+![Ametis Villa – 完美適合情侶同家庭](https://images.gobaligo.id/images/2026-03/1774451869614-461667750.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451870019-582619948.jpg)
+![Ametis Villa – 完美適合情侶同家庭](https://images.gobaligo.id/images/2026-03/1774451870019-582619948.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451870428-582625556.jpg)
+![Ametis Villa – 完美適合情侶同家庭](https://images.gobaligo.id/images/2026-03/1774451870428-582625556.jpg)
 
 呢個五星級別墅群散發住魅力同奢華。如果你喺度搵緊完美嘅坎古私人泳池別墅，Ametis應該喺你嘅首選名單上。
 
@@ -254,27 +254,27 @@ ZIN Resort & Villas 呢間四星住宿位於坎古嘅中心，擁有絕佳嘅地
 
 ## Theanna Villa and Spa – 最佳室內設計
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451910444-81019254.jpg)
+![Theanna Villa and Spa – 最佳室內設計](https://images.gobaligo.id/images/2026-03/1774451910444-81019254.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451910844-81782726.jpg)
+![Theanna Villa and Spa – 最佳室內設計](https://images.gobaligo.id/images/2026-03/1774451910844-81782726.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451911187-81782727.jpg)
+![Theanna Villa and Spa – 最佳室內設計](https://images.gobaligo.id/images/2026-03/1774451911187-81782727.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451911668-81782735.jpg)
+![Theanna Villa and Spa – 最佳室內設計](https://images.gobaligo.id/images/2026-03/1774451911668-81782735.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451912004-81782739.jpg)
+![Theanna Villa and Spa – 最佳室內設計](https://images.gobaligo.id/images/2026-03/1774451912004-81782739.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451912428-81782749.jpg)
+![Theanna Villa and Spa – 最佳室內設計](https://images.gobaligo.id/images/2026-03/1774451912428-81782749.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451912826-86887305.jpg)
+![Theanna Villa and Spa – 最佳室內設計](https://images.gobaligo.id/images/2026-03/1774451912826-86887305.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451913247-499017600.jpg)
+![Theanna Villa and Spa – 最佳室內設計](https://images.gobaligo.id/images/2026-03/1774451913247-499017600.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451913754-1.jpg)
+![Theanna Villa and Spa – 最佳室內設計](https://images.gobaligo.id/images/2026-03/1774451913754-1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451914254-78868115.jpg)
+![Theanna Villa and Spa – 最佳室內設計](https://images.gobaligo.id/images/2026-03/1774451914254-78868115.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451914667-79498238.jpg)
+![Theanna Villa and Spa – 最佳室內設計](https://images.gobaligo.id/images/2026-03/1774451914667-79498238.jpg)
 
 Theanna Villa and Spa嘅坎古精品別墅提供高端嘅室內設計同卓越嘅客戶服務。
 
@@ -288,25 +288,25 @@ Theanna Villa and Spa嘅坎古精品別墅提供高端嘅室內設計同卓越�
 
 ## The Clifton Canggu Villas – 最啱情侶嘅精品別墅
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451980350-572060941.jpg)
+![The Clifton Canggu Villas – 最啱情侶嘅精品別墅](https://images.gobaligo.id/images/2026-03/1774451980350-572060941.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451980704-572061767.jpg)
+![The Clifton Canggu Villas – 最啱情侶嘅精品別墅](https://images.gobaligo.id/images/2026-03/1774451980704-572061767.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451981044-572061795.jpg)
+![The Clifton Canggu Villas – 最啱情侶嘅精品別墅](https://images.gobaligo.id/images/2026-03/1774451981044-572061795.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451981562-572061834.jpg)
+![The Clifton Canggu Villas – 最啱情侶嘅精品別墅](https://images.gobaligo.id/images/2026-03/1774451981562-572061834.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451981954-541015371.jpg)
+![The Clifton Canggu Villas – 最啱情侶嘅精品別墅](https://images.gobaligo.id/images/2026-03/1774451981954-541015371.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451982362-572060183.jpg)
+![The Clifton Canggu Villas – 最啱情侶嘅精品別墅](https://images.gobaligo.id/images/2026-03/1774451982362-572060183.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451982769-572060343.jpg)
+![The Clifton Canggu Villas – 最啱情侶嘅精品別墅](https://images.gobaligo.id/images/2026-03/1774451982769-572060343.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451983277-572060420.jpg)
+![The Clifton Canggu Villas – 最啱情侶嘅精品別墅](https://images.gobaligo.id/images/2026-03/1774451983277-572060420.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451983685-572060829.jpg)
+![The Clifton Canggu Villas – 最啱情侶嘅精品別墅](https://images.gobaligo.id/images/2026-03/1774451983685-572060829.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774451984106-572060935.jpg)
+![The Clifton Canggu Villas – 最啱情侶嘅精品別墅](https://images.gobaligo.id/images/2026-03/1774451984106-572060935.jpg)
 
 Clifton Canggu Villas 提供舒適又豪華嘅別墅，位置超正，喺中心地帶。
 
@@ -320,25 +320,25 @@ Clifton Canggu Villas 提供舒適又豪華嘅別墅，位置超正，喺中心�
 
 ## The Cali Villas - 峇里島嘅綠洲棕櫚泉
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452021092-334598099.jpg)
+![The Cali Villas - 峇里島嘅綠洲棕櫚泉](https://images.gobaligo.id/images/2026-03/1774452021092-334598099.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452021535-334664865.jpg)
+![The Cali Villas - 峇里島嘅綠洲棕櫚泉](https://images.gobaligo.id/images/2026-03/1774452021535-334664865.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452021859-334666245.jpg)
+![The Cali Villas - 峇里島嘅綠洲棕櫚泉](https://images.gobaligo.id/images/2026-03/1774452021859-334666245.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452022196-334667511.jpg)
+![The Cali Villas - 峇里島嘅綠洲棕櫚泉](https://images.gobaligo.id/images/2026-03/1774452022196-334667511.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452022580-334667515.jpg)
+![The Cali Villas - 峇里島嘅綠洲棕櫚泉](https://images.gobaligo.id/images/2026-03/1774452022580-334667515.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452022956-334667973.jpg)
+![The Cali Villas - 峇里島嘅綠洲棕櫚泉](https://images.gobaligo.id/images/2026-03/1774452022956-334667973.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452023334-334672119.jpg)
+![The Cali Villas - 峇里島嘅綠洲棕櫚泉](https://images.gobaligo.id/images/2026-03/1774452023334-334672119.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452023651-486919249.jpg)
+![The Cali Villas - 峇里島嘅綠洲棕櫚泉](https://images.gobaligo.id/images/2026-03/1774452023651-486919249.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452024154-334597425.jpg)
+![The Cali Villas - 峇里島嘅綠洲棕櫚泉](https://images.gobaligo.id/images/2026-03/1774452024154-334597425.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452024624-334597843.jpg)
+![The Cali Villas - 峇里島嘅綠洲棕櫚泉](https://images.gobaligo.id/images/2026-03/1774452024624-334597843.jpg)
 
 除咗係IG風格咖啡館嘅聖地，坎古嘅畫布已經擴展到包括一系列靚到爆嘅別墅同酒店。
 
@@ -352,25 +352,25 @@ Clifton Canggu Villas 提供舒適又豪華嘅別墅，位置超正，喺中心�
 
 ## Shore Amora Canggu - 情侶嘅波西米亞風選擇
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452084717-235489360.jpg)
+![Shore Amora Canggu - 情侶嘅波西米亞風選擇](https://images.gobaligo.id/images/2026-03/1774452084717-235489360.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452085196-237376867.jpg)
+![Shore Amora Canggu - 情侶嘅波西米亞風選擇](https://images.gobaligo.id/images/2026-03/1774452085196-237376867.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452085578-249975981.jpg)
+![Shore Amora Canggu - 情侶嘅波西米亞風選擇](https://images.gobaligo.id/images/2026-03/1774452085578-249975981.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452086086-249976565.jpg)
+![Shore Amora Canggu - 情侶嘅波西米亞風選擇](https://images.gobaligo.id/images/2026-03/1774452086086-249976565.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452086491-249976841.jpg)
+![Shore Amora Canggu - 情侶嘅波西米亞風選擇](https://images.gobaligo.id/images/2026-03/1774452086491-249976841.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452086903-334494256.jpg)
+![Shore Amora Canggu - 情侶嘅波西米亞風選擇](https://images.gobaligo.id/images/2026-03/1774452086903-334494256.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452087423-486700580.jpg)
+![Shore Amora Canggu - 情侶嘅波西米亞風選擇](https://images.gobaligo.id/images/2026-03/1774452087423-486700580.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452087766-486700591.jpg)
+![Shore Amora Canggu - 情侶嘅波西米亞風選擇](https://images.gobaligo.id/images/2026-03/1774452087766-486700591.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452088147-486701671.jpg)
+![Shore Amora Canggu - 情侶嘅波西米亞風選擇](https://images.gobaligo.id/images/2026-03/1774452088147-486701671.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452088475-224634763.jpg)
+![Shore Amora Canggu - 情侶嘅波西米亞風選擇](https://images.gobaligo.id/images/2026-03/1774452088475-224634763.jpg)
 
 望住稻田隨風搖曳，伴隨住雀仔嘅輕輕叫聲、風嘅低吟同太陽嘅溫暖觸感，私人泳池嘅平靜感覺無可比擬。
 
@@ -384,25 +384,25 @@ Clifton Canggu Villas 提供舒適又豪華嘅別墅，位置超正，喺中心�
 
 ## La Rose Villas and Suites Camp – 令人驚豔嘅坎古別墅
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452155304-521551111.jpg)
+![La Rose Villas and Suites Camp – 令人驚豔嘅坎古別墅](https://images.gobaligo.id/images/2026-03/1774452155304-521551111.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452155663-521551115.jpg)
+![La Rose Villas and Suites Camp – 令人驚豔嘅坎古別墅](https://images.gobaligo.id/images/2026-03/1774452155663-521551115.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452156136-521551120.jpg)
+![La Rose Villas and Suites Camp – 令人驚豔嘅坎古別墅](https://images.gobaligo.id/images/2026-03/1774452156136-521551120.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452156548-521551142.jpg)
+![La Rose Villas and Suites Camp – 令人驚豔嘅坎古別墅](https://images.gobaligo.id/images/2026-03/1774452156548-521551142.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452156957-282635651.jpg)
+![La Rose Villas and Suites Camp – 令人驚豔嘅坎古別墅](https://images.gobaligo.id/images/2026-03/1774452156957-282635651.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452157356-282636013.jpg)
+![La Rose Villas and Suites Camp – 令人驚豔嘅坎古別墅](https://images.gobaligo.id/images/2026-03/1774452157356-282636013.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452157657-282644983.jpg)
+![La Rose Villas and Suites Camp – 令人驚豔嘅坎古別墅](https://images.gobaligo.id/images/2026-03/1774452157657-282644983.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452158088-520701687.jpg)
+![La Rose Villas and Suites Camp – 令人驚豔嘅坎古別墅](https://images.gobaligo.id/images/2026-03/1774452158088-520701687.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452158406-521551107.jpg)
+![La Rose Villas and Suites Camp – 令人驚豔嘅坎古別墅](https://images.gobaligo.id/images/2026-03/1774452158406-521551107.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452158712-521551109.jpg)
+![La Rose Villas and Suites Camp – 令人驚豔嘅坎古別墅](https://images.gobaligo.id/images/2026-03/1774452158712-521551109.jpg)
 
 喺La Rose Villas and Suites Camp，你會完全浸喺熱帶天堂入面。
 
@@ -418,25 +418,25 @@ Clifton Canggu Villas 提供舒適又豪華嘅別墅，位置超正，喺中心�
 
 ## Villa Canggu by Plataran - 青蔥稻田中嘅奢華住宿
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452437543-530984830.jpg)
+![Villa Canggu by Plataran - 青蔥稻田中嘅奢華住宿](https://images.gobaligo.id/images/2026-03/1774452437543-530984830.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452437970-553314929.jpg)
+![Villa Canggu by Plataran - 青蔥稻田中嘅奢華住宿](https://images.gobaligo.id/images/2026-03/1774452437970-553314929.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452438295-660127025.jpg)
+![Villa Canggu by Plataran - 青蔥稻田中嘅奢華住宿](https://images.gobaligo.id/images/2026-03/1774452438295-660127025.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452438659-660128647.jpg)
+![Villa Canggu by Plataran - 青蔥稻田中嘅奢華住宿](https://images.gobaligo.id/images/2026-03/1774452438659-660128647.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452439067-660128653.jpg)
+![Villa Canggu by Plataran - 青蔥稻田中嘅奢華住宿](https://images.gobaligo.id/images/2026-03/1774452439067-660128653.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452439455-660128659.jpg)
+![Villa Canggu by Plataran - 青蔥稻田中嘅奢華住宿](https://images.gobaligo.id/images/2026-03/1774452439455-660128659.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452439860-700474803.jpg)
+![Villa Canggu by Plataran - 青蔥稻田中嘅奢華住宿](https://images.gobaligo.id/images/2026-03/1774452439860-700474803.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452440176-251510945.jpg)
+![Villa Canggu by Plataran - 青蔥稻田中嘅奢華住宿](https://images.gobaligo.id/images/2026-03/1774452440176-251510945.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452440559-251726326.jpg)
+![Villa Canggu by Plataran - 青蔥稻田中嘅奢華住宿](https://images.gobaligo.id/images/2026-03/1774452440559-251726326.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452440975-251726579.jpg)
+![Villa Canggu by Plataran - 青蔥稻田中嘅奢華住宿](https://images.gobaligo.id/images/2026-03/1774452440975-251726579.jpg)
 
 Villa Canggu by Plataran 位於峇里島嘅青綠稻田中，坐落喺熱帶花園同河流旁邊。
 
@@ -450,25 +450,25 @@ Villa Canggu by Plataran 位於峇里島嘅青綠稻田中，坐落喺熱帶花�
 
 ## Morning Glory Villa – 設計感私人泳池別墅
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452495310-452956926.jpg)
+![Morning Glory Villa – 設計感私人泳池別墅](https://images.gobaligo.id/images/2026-03/1774452495310-452956926.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452495630-452956929.jpg)
+![Morning Glory Villa – 設計感私人泳池別墅](https://images.gobaligo.id/images/2026-03/1774452495630-452956929.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452495971-452956931.jpg)
+![Morning Glory Villa – 設計感私人泳池別墅](https://images.gobaligo.id/images/2026-03/1774452495971-452956931.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452496281-452956934.jpg)
+![Morning Glory Villa – 設計感私人泳池別墅](https://images.gobaligo.id/images/2026-03/1774452496281-452956934.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452496716-452956938.jpg)
+![Morning Glory Villa – 設計感私人泳池別墅](https://images.gobaligo.id/images/2026-03/1774452496716-452956938.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452497131-452956956.jpg)
+![Morning Glory Villa – 設計感私人泳池別墅](https://images.gobaligo.id/images/2026-03/1774452497131-452956956.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452497544-452956967.jpg)
+![Morning Glory Villa – 設計感私人泳池別墅](https://images.gobaligo.id/images/2026-03/1774452497544-452956967.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452497871-531605610.jpg)
+![Morning Glory Villa – 設計感私人泳池別墅](https://images.gobaligo.id/images/2026-03/1774452497871-531605610.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452498257-452956901.jpg)
+![Morning Glory Villa – 設計感私人泳池別墅](https://images.gobaligo.id/images/2026-03/1774452498257-452956901.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452498663-452956917.jpg)
+![Morning Glory Villa – 設計感私人泳池別墅](https://images.gobaligo.id/images/2026-03/1774452498663-452956917.jpg)
 
 如果你喺度搵Canggu Bali最好嘅豪華別墅，不妨睇下新起嘅Morning Glory Villa。佢係按高標準設計、建造同裝修，提供豪華嘅住宿體驗。
 
@@ -482,25 +482,25 @@ Villa Canggu by Plataran 位於峇里島嘅青綠稻田中，坐落喺熱帶花�
 
 ## Villa Yasa – 最啱一大班人嘅Canggu最佳別墅之一
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452543059-374888377.jpg)
+![Villa Yasa – 最啱一大班人嘅Canggu最佳別墅之一](https://images.gobaligo.id/images/2026-03/1774452543059-374888377.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452544078-374888404.jpg)
+![Villa Yasa – 最啱一大班人嘅Canggu最佳別墅之一](https://images.gobaligo.id/images/2026-03/1774452544078-374888404.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452544459-374888461.jpg)
+![Villa Yasa – 最啱一大班人嘅Canggu最佳別墅之一](https://images.gobaligo.id/images/2026-03/1774452544459-374888461.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452544889-374888465.jpg)
+![Villa Yasa – 最啱一大班人嘅Canggu最佳別墅之一](https://images.gobaligo.id/images/2026-03/1774452544889-374888465.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452545198-374888158.jpg)
+![Villa Yasa – 最啱一大班人嘅Canggu最佳別墅之一](https://images.gobaligo.id/images/2026-03/1774452545198-374888158.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452545608-374888293.jpg)
+![Villa Yasa – 最啱一大班人嘅Canggu最佳別墅之一](https://images.gobaligo.id/images/2026-03/1774452545608-374888293.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452545985-374888296.jpg)
+![Villa Yasa – 最啱一大班人嘅Canggu最佳別墅之一](https://images.gobaligo.id/images/2026-03/1774452545985-374888296.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452546344-374888344.jpg)
+![Villa Yasa – 最啱一大班人嘅Canggu最佳別墅之一](https://images.gobaligo.id/images/2026-03/1774452546344-374888344.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452546766-374888364.jpg)
+![Villa Yasa – 最啱一大班人嘅Canggu最佳別墅之一](https://images.gobaligo.id/images/2026-03/1774452546766-374888364.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452547099-374888367.jpg)
+![Villa Yasa – 最啱一大班人嘅Canggu最佳別墅之一](https://images.gobaligo.id/images/2026-03/1774452547099-374888367.jpg)
 
 如果你鍾意靚建築同光猛嘅房間，獨一無二嘅Villa Yasa就係完美選擇。
 
@@ -514,25 +514,25 @@ Villa Canggu by Plataran 位於峇里島嘅青綠稻田中，坐落喺熱帶花�
 
 ## Villa Umami – 適合團體旅行
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452588804-384481819.jpg)
+![Villa Umami – 適合團體旅行](https://images.gobaligo.id/images/2026-03/1774452588804-384481819.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452589442-384481821.jpg)
+![Villa Umami – 適合團體旅行](https://images.gobaligo.id/images/2026-03/1774452589442-384481821.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452589757-384481828.jpg)
+![Villa Umami – 適合團體旅行](https://images.gobaligo.id/images/2026-03/1774452589757-384481828.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452590111-384481834.jpg)
+![Villa Umami – 適合團體旅行](https://images.gobaligo.id/images/2026-03/1774452590111-384481834.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452590516-384481836.jpg)
+![Villa Umami – 適合團體旅行](https://images.gobaligo.id/images/2026-03/1774452590516-384481836.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452590920-384481837.jpg)
+![Villa Umami – 適合團體旅行](https://images.gobaligo.id/images/2026-03/1774452590920-384481837.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452591257-384481838.jpg)
+![Villa Umami – 適合團體旅行](https://images.gobaligo.id/images/2026-03/1774452591257-384481838.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452591606-384481848.jpg)
+![Villa Umami – 適合團體旅行](https://images.gobaligo.id/images/2026-03/1774452591606-384481848.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452592074-384481856.jpg)
+![Villa Umami – 適合團體旅行](https://images.gobaligo.id/images/2026-03/1774452592074-384481856.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452592484-384481861.jpg)
+![Villa Umami – 適合團體旅行](https://images.gobaligo.id/images/2026-03/1774452592484-384481861.jpg)
 
 呢個現代化嘅四星級別墅提供咗充足嘅空間同優良嘅自助設施。
 
@@ -546,25 +546,25 @@ Villa Canggu by Plataran 位於峇里島嘅青綠稻田中，坐落喺熱帶花�
 
 ## OXO Townhouses - 令你想當成自己屋企
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452647371-366128777.jpg)
+![OXO Townhouses - 令你想當成自己屋企](https://images.gobaligo.id/images/2026-03/1774452647371-366128777.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452647925-366132112.jpg)
+![OXO Townhouses - 令你想當成自己屋企](https://images.gobaligo.id/images/2026-03/1774452647925-366132112.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452648659-350211648.jpg)
+![OXO Townhouses - 令你想當成自己屋企](https://images.gobaligo.id/images/2026-03/1774452648659-350211648.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452648982-350214562.jpg)
+![OXO Townhouses - 令你想當成自己屋企](https://images.gobaligo.id/images/2026-03/1774452648982-350214562.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452649426-350214563.jpg)
+![OXO Townhouses - 令你想當成自己屋企](https://images.gobaligo.id/images/2026-03/1774452649426-350214563.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452649810-366114214.jpg)
+![OXO Townhouses - 令你想當成自己屋企](https://images.gobaligo.id/images/2026-03/1774452649810-366114214.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452650232-366114252.jpg)
+![OXO Townhouses - 令你想當成自己屋企](https://images.gobaligo.id/images/2026-03/1774452650232-366114252.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452650620-366127776.jpg)
+![OXO Townhouses - 令你想當成自己屋企](https://images.gobaligo.id/images/2026-03/1774452650620-366127776.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452651038-366128482.jpg)
+![OXO Townhouses - 令你想當成自己屋企](https://images.gobaligo.id/images/2026-03/1774452651038-366128482.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774452651449-366128767.jpg)
+![OXO Townhouses - 令你想當成自己屋企](https://images.gobaligo.id/images/2026-03/1774452651449-366128767.jpg)
 
 OXO Townhouses 為坎古嘅現代生活定咗新標準，提供一系列私人別墅，由一房到兩房單位，係情侶同朋友群體嘅最終避風港。
 
@@ -577,25 +577,25 @@ OXO Townhouses 為坎古嘅現代生活定咗新標準，提供一系列私人�
 
 ## Domisili Villa Canggu - 新落成精品私人度假別墅
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780716765027-469990321.jpg)
+![Domisili Villa Canggu - 新落成精品私人度假別墅](https://images.gobaligo.id/images/2026-06/1780716765027-469990321.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780716765451-497812663.jpg)
+![Domisili Villa Canggu - 新落成精品私人度假別墅](https://images.gobaligo.id/images/2026-06/1780716765451-497812663.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780716766498-562671303.jpg)
+![Domisili Villa Canggu - 新落成精品私人度假別墅](https://images.gobaligo.id/images/2026-06/1780716766498-562671303.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780716766982-562671359.jpg)
+![Domisili Villa Canggu - 新落成精品私人度假別墅](https://images.gobaligo.id/images/2026-06/1780716766982-562671359.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780716767766-562671457.jpg)
+![Domisili Villa Canggu - 新落成精品私人度假別墅](https://images.gobaligo.id/images/2026-06/1780716767766-562671457.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780716768306-562672000.jpg)
+![Domisili Villa Canggu - 新落成精品私人度假別墅](https://images.gobaligo.id/images/2026-06/1780716768306-562672000.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780716768983-562672024.jpg)
+![Domisili Villa Canggu - 新落成精品私人度假別墅](https://images.gobaligo.id/images/2026-06/1780716768983-562672024.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780716769553-562678438.jpg)
+![Domisili Villa Canggu - 新落成精品私人度假別墅](https://images.gobaligo.id/images/2026-06/1780716769553-562678438.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780716770214-562678652.jpg)
+![Domisili Villa Canggu - 新落成精品私人度假別墅](https://images.gobaligo.id/images/2026-06/1780716770214-562678652.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780716770777-469990314.jpg)
+![Domisili Villa Canggu - 新落成精品私人度假別墅](https://images.gobaligo.id/images/2026-06/1780716770777-469990314.jpg)
 
 Domisili Villa Canggu Bali By Fays Hospitality 以寬敞嘅設施、全新傢俬同精心維護出名，有個靚靚游泳池同休閒區，特別之處係獨立嘅客房別墅設計，提供更多私隱。呢間係新落成嘅精品別墅群，以現代簡約設計結合熱帶風格見稱。([**羅茜露** 推薦](https://www.facebook.com/share/p/1E4Y3wDVig/))
 

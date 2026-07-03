@@ -29,7 +29,7 @@ Kami udah rangkum review dari beberapa situs travel luar negeri, dan nemu 11 hot
 
 # Bali Bio Villas
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ded933c96382993b757ab042dc37016e.jpg)
+![Bali Bio Villas](https://images.gobaligo.id/vocus/vocus_ded933c96382993b757ab042dc37016e.jpg)
 
 Kamu nggak salah lihat! Vila bergaya Yunani ini pasti bikin kamu jepret terus! Vila putih dengan dekorasi gua ala Santorini.
 
@@ -49,7 +49,7 @@ Bali Bio Villa punya ruang yang lumayan luas, dilengkapi kolam renang umum, tera
 
 # Bliss Surfer Hotel
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_32f7ece28facdfe83f56ef7084cce9fc.jpg)
+![Bliss Surfer Hotel](https://images.gobaligo.id/vocus/vocus_32f7ece28facdfe83f56ef7084cce9fc.jpg)
 
 Baik kamu seorang peselancar atau bukan, Bliss Surfer Hotel bakal kasih kamu inspirasi nyata—coba naik papan selancar dan hadapi ombak! Desain interiornya cocok banget buat suasana pantai mana pun,
 
@@ -71,7 +71,7 @@ Kolam renangnya bikin kamu hampir gak punya alasan buat ninggalin hotel—nikmat
 
 # Cara Cara Inn
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1287f2be1969e96f07317d28caba7ba.jpg)
+![Cara Cara Inn](https://images.gobaligo.id/vocus/vocus_a1287f2be1969e96f07317d28caba7ba.jpg)
 
 Warna-warna cerah, tata ruang kamar yang seru, dan kolam renang yang penuh energi—itulah yang bikin Cara Cara Inn paling menarik.
 
@@ -89,7 +89,7 @@ Kayak taman bermain buat orang dewasa, Cara Cara Inn punya kolam renang dengan p
 
 # Fashion Hotel
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_32fda5f543fb3dc0cafc8d51cb8111d9.jpg)
+![Fashion Hotel](https://images.gobaligo.id/vocus/vocus_32fda5f543fb3dc0cafc8d51cb8111d9.jpg)
 
 Fashion Hotel Legian Bali buka di akhir tahun 2014, punya dekorasi modern dan stylish yang bikin kamu merasa kayak selebriti, plus kolam renang atap yang memukau — cocok banget buat santai sambil lihat sunset, tanpa harus berdesakan sama turis di Pantai Kuta.
 
@@ -111,7 +111,7 @@ Nggak perlu keluar banyak uang buat pamer foto penginapan keren ke teman-teman, 
 
 # Grandmas Plus Hotel @ Seminyak
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_967e76bccd9447dc4d8f45ef4570391f.jpg)
+![Grandmas Plus Hotel @ Seminyak](https://images.gobaligo.id/vocus/vocus_967e76bccd9447dc4d8f45ef4570391f.jpg)
 
 Hotel di Seminyak ini bakal bikin feed Instagram kamu penuh. Grandmas Plus Hotel benar-benar menghadirkan nuansa alami tropis yang bikin liburanmu santai dan nyaman. Hotel ini terkenal banget sama pelayanannya yang oke, staf yang ramah, plus fasilitas lengkap. Yang lebih keren lagi, semua ini bisa kamu nikmati dengan harga backpacker!
 
@@ -131,7 +131,7 @@ Layanan pijat di hotel ini kualitasnya top, tapi harganya lebih murah dibanding 
 
 # Ibis Bali Legian Street
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2c79b5dde4cb47e650fa649ec5f0b503.jpg)
+![Ibis Bali Legian Street](https://images.gobaligo.id/vocus/vocus_2c79b5dde4cb47e650fa649ec5f0b503.jpg)
 
 Selain brand Ibis yang udah terpercaya, Ibis Bali Legian Street juga punya fasilitas keren buat selfie kamu. Dari kolam renang di atap dan bar, kolam anak-anak, kamar modern (termasuk kamar yang saling terhubung), sampai pemandangan sunset — hotel ini bikin para pemburu sunset seneng banget!
 
@@ -149,7 +149,7 @@ Lokasi Ibis Bali Legian Street dekat dengan jalan belanja dan pantai — ini nil
 
 # Koa D’Surfer Hotel
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aba426ae4cc2680838ed78b81dc16d72.jpg)
+![Koa D’Surfer Hotel](https://images.gobaligo.id/vocus/vocus_aba426ae4cc2680838ed78b81dc16d72.jpg)
 
 Di Koa D'Surfer Hotel, siap-siap jepret foto pakai kamera atau HP-mu! Dijamin, pas teman-teman lihat liburanmu yang aesthetic, mereka bakal iri banget!
 
@@ -169,7 +169,7 @@ Restoran warna-warni di tepi kolam renang juga tempat kece buat nikmatin sunset 
 
 # Kubu Kutus Canggu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b583a1abeac3961aeac3a501a48e7294.jpg)
+![Kubu Kutus Canggu](https://images.gobaligo.id/vocus/vocus_b583a1abeac3961aeac3a501a48e7294.jpg)
 
 Pemandangan sawah yang luas banget bikin Kubu Kutus jadi tempat nginep yang Instagramable. Nggak banyak desain aneh-aneh, tapi pemandangannya udah cukup buat mindahin hati!
 
@@ -187,7 +187,7 @@ Berada di Canggu juga berarti kamu bakal dimanjakan sama kafe-kafe kekinian, tem
 
 # Liberta Hotel Seminyak
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3f41dcc3e40b64fc217ebd6165c15d1f.jpg)
+![Liberta Hotel Seminyak](https://images.gobaligo.id/vocus/vocus_3f41dcc3e40b64fc217ebd6165c15d1f.jpg)
 
 Bikin feed Instagram yang kece itu butuh pemilihan warna yang cermat. Kalau foto estetik kamu butuh nuansa aloha dan warna neon, wajib banget mampir ke Liberta Hotel Seminyak — dijamin setiap sudutnya punya daya tarik yang unik buat foto!
 
@@ -205,7 +205,7 @@ Hotel butik yang stunning ini cuma 5 menit jalan kaki dari Potato Head Beach Clu
 
 # MaxOne Hotels at Bukit Jimbaran
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_08cf5d87991af44c6dd4c17dfeddd11a.jpg)
+![MaxOne Hotels at Bukit Jimbaran](https://images.gobaligo.id/vocus/vocus_08cf5d87991af44c6dd4c17dfeddd11a.jpg)
 
 MaxOne Hotels di Bukit Jimbaran janjiin pemandangan yang bakal bikin kamu betah berhari-hari. Maksudnya, meskipun kamu nggak pakai Instagram, kamu tetap bisa nginep di hotel butik stylish dan terjangkau ini sambil menikmati sunset yang luar biasa dari atap!
 
@@ -223,7 +223,7 @@ Pas hari Sabtu, kamu bisa nikmatin Sunset Food Bazaar di SKYMAX garden bar — a
 
 # **Tijili Hotel Seminyak**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_660a0a168da49c818be4096b646984d0.jpg)
+![Tijili Hotel Seminyak](https://images.gobaligo.id/vocus/vocus_660a0a168da49c818be4096b646984d0.jpg)
 
 Kalau kamu mau staycation di Bali dengan budget terbatas tapi tetap dapet vibe hotel butik yang estetik, Tijili Seminyak Hotel di Seminyak wajib masuk wishlist! Hotel ini kayak galeri seni, penuh dekorasi warna-warni dan furnitur kece.
 

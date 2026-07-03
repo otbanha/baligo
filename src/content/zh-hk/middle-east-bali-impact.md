@@ -52,7 +52,7 @@ _srcHash: 8f3bd477522a9133dccce27bb4f41e03
 
 呢個代表峇里島過去喺困境時「轉向吸引國內遊客」嘅策略，今次可能行唔通——因為國內機票同樣受衝擊，消費者自然都會重新考慮係咪出遊。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776853335462-airplane.jpeg)
+![唔止國際線，連國內機票都跟住爆升](https://images.gobaligo.id/images/2026-04/1776853335462-airplane.jpeg)
 
 ## 旅遊業者點睇呢件事？
 

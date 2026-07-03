@@ -36,7 +36,7 @@ _srcHash: 75c8dfc8e69ee17304b86178c70eeae3
 
 在乌布的猴林或乌鲁瓦图庙等景点，游客经常与猴子互动。然而，这些野生动物亦可能携带狂犬病毒，因此建议不要喂食、触摸或靠近它们。与动物保持距离，是预防疾病传播的重要步骤。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7ecdb7478b9ea22d445e3af5411b84df.jpg)
+![猴子也可能成为病毒媒介](https://images.gobaligo.id/vocus/vocus_7ecdb7478b9ea22d445e3af5411b84df.jpg)
 
 ## **专家努力下，巴厘岛依然是安全的旅游天堂**
 

@@ -95,7 +95,7 @@ Understanding and respecting cultural differences is crucial during your travels
 
 As a responsible traveler, eco-tourism has become a global trend. In northern Bali, maintaining environmental sustainability is particularly important. You can reduce your travel footprint by minimizing plastic use, supporting local eco-friendly projects, and choosing accommodations with eco-certifications. This not only helps protect the natural resources of the north but also allows you to become a more conscious traveler.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e5760beb38d06bcff1d783e39230828b.png)
+![12. Eco-Friendly Travel Tips for Northern Bali](https://images.gobaligo.id/vocus/vocus_e5760beb38d06bcff1d783e39230828b.png)
 
 ### 13. The Future of Tourism Development in Northern Bali
 

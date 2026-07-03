@@ -14,7 +14,7 @@ lang: zh-cn
 _srcHash: 5aa479a47f722af494f13570e4017925
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c17bf195fd6ecbe15f62352549f17db8.jpg)
+![巴厘岛乌布的瀑布酒吧 OMMA Dayclub：感受chill氛围，阳光下的惬意时光](https://images.gobaligo.id/vocus/vocus_c17bf195fd6ecbe15f62352549f17db8.jpg)
 
 ➡️[更多巴厘岛超值优惠请点我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 

@@ -26,11 +26,11 @@ _srcHash: 90e1147bea467ba7218483d02935e815
 
 舞獅表演係**峇里島**新年嘅重頭戲，幾乎所有大型商場同度假村都會安排：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e647a22175ae6ca92b4d7ecae82447d.jpg)
+![必睇民俗表演：舞獅與舞龍（Barongsai）](https://images.gobaligo.id/vocus/vocus_2e647a22175ae6ca92b4d7ecae82447d.jpg)
 
 ### 🏮 2026 峇里島酒店春節表演時間表
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_993aa3285ebffeae0ee54016c25350b0.png)
+![2026 峇里島酒店春節表演時間表](https://images.gobaligo.id/vocus/vocus_993aa3285ebffeae0ee54016c25350b0.png)
 
 ### 💡 睇表演小貼士：
 
@@ -52,7 +52,7 @@ _srcHash: 90e1147bea467ba7218483d02935e815
 
 ## 🍴 精選新春饗宴 (開運年菜)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_049126344feb3f43d3f4e43323b1203c.jpg)
+![精選新春饗宴 (開運年菜)](https://images.gobaligo.id/vocus/vocus_049126344feb3f43d3f4e43323b1203c.jpg)
 
 **KUTA & LEGIAN**
 

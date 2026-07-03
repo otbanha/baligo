@@ -54,9 +54,9 @@ _srcHash: 4b0bee0e4213bd68708dc5588ce95336
 
 穆利雅度假村提供一流的运动设施，让您在度假期间也能保持活力。度假村拥有设备齐全的健身中心，还有网球场让您挥洒汗水。如果您喜爱水上运动，度假村提供非机动水上运动，让您在海上尽情冒险。此外，您可以在度假村的室外游泳池中游泳，或是在私人海滩上享受阳光。若您对潜水感兴趣，还可以参加度假村提供的潜水体验，探索巴厘岛的美丽海底世界。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_147ec876f11de5cd52d18f2048685ee6.jpg)
+![丰富的运动设施让您保持活力](https://images.gobaligo.id/vocus/vocus_147ec876f11de5cd52d18f2048685ee6.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3886ea278983c995241f888fe171c2f1.jpg)
+![丰富的运动设施让您保持活力](https://images.gobaligo.id/vocus/vocus_3886ea278983c995241f888fe171c2f1.jpg)
 
 ### **无微不至的便利设施**
 
@@ -70,9 +70,9 @@ _srcHash: 4b0bee0e4213bd68708dc5588ce95336
 
 穆利雅度假村拥有多样化的餐饮设施，满足您各种口味需求。度假村内的咖啡店与餐厅提供丰富的选择，您可以品尝到正宗的印尼美食和国际料理。除了在餐厅用餐，度假村还提供客房服务，让您在房间内轻松享用美食。每日的自助早餐和欧式早餐为您的一天提供美好的开始。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a31ef1e83d70eb6959a75d6a79c2e078.jpg)
+![一流的餐饮体验](https://images.gobaligo.id/vocus/vocus_a31ef1e83d70eb6959a75d6a79c2e078.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ca40efc15b6b85ed98ccda46ff7e1666.jpg)
+![一流的餐饮体验](https://images.gobaligo.id/vocus/vocus_ca40efc15b6b85ed98ccda46ff7e1666.jpg)
 
 👉[Mulia [五星自助餐美食体验 USD$ 21.89起](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94019-dining-experience-the-mulia-resort-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5ddeb73f43)
 
@@ -80,11 +80,11 @@ _srcHash: 4b0bee0e4213bd68708dc5588ce95336
 
 穆利雅度假村提供多款豪华客房，为您的住宿增添奢华感。无论您选择Grandeur Deluxe、Lagoon Access Room，还是Royal Ocean Court View Suite，每间客房都设有现代化设施，并提供舒适的床铺。这些客房不仅宽敞，还具有美丽的景观，让您能够在度假期间充分放松。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1d42e8a895b02d5507f3ce9175d8a165.jpg)
+![豪华的客房选择](https://images.gobaligo.id/vocus/vocus_1d42e8a895b02d5507f3ce9175d8a165.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1f1895e1d7f0fd99d81da8dc7e232cee.jpg)
+![豪华的客房选择](https://images.gobaligo.id/vocus/vocus_1f1895e1d7f0fd99d81da8dc7e232cee.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e55df0d8776c7671ccd3854434594e2.jpg)
+![豪华的客房选择](https://images.gobaligo.id/vocus/vocus_3e55df0d8776c7671ccd3854434594e2.jpg)
 
 👉[Mulia Resort 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6532982)
 
@@ -130,7 +130,7 @@ https://www.tiktok.com/@themuliabali/video/7379878015309761797?is_from_webapp=1&
 
 ### 更多努沙杜瓦吃喝玩乐介绍
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
+![更多努沙杜瓦吃喝玩乐介绍](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
 
 努沙杜瓦（Nusa Dua）是巴厘岛以豪华度假村闻名的地区，拥有洁白的沙滩、碧蓝的海水以及完善的旅游设施，是追求高端享受与宁静假期的首选。这里还提供顶级水疗、水上活动、以及适合全家大小的休闲活动，是各类旅客的天堂。想了解更多努沙杜瓦攻略？[请点击这里](/blog/nusa-dua-guide/)
 
@@ -140,7 +140,7 @@ https://www.tiktok.com/@themuliabali/video/7379878015309761797?is_from_webapp=1&
 
 穆利雅度假村提供的奢华设施与卓越服务使其物超所值。无论是豪华客房、完善的娱乐设施还是一流的服务，穆利雅度假村都能为您带来无与伦比的度假体验。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_30bd2ff59e0502681dc8f252c98c474b.jpg)
+![价格与价值](https://images.gobaligo.id/vocus/vocus_30bd2ff59e0502681dc8f252c98c474b.jpg)
 
 穆利雅度假村以其高品质的设施与服务赢得了大量正面评价。客户评价普遍满意，并赞扬酒店员工的专业与热情。无论您是寻求放松还是冒险，穆利雅度假村都是您在巴厘岛的理想选择。
 
@@ -152,7 +152,7 @@ https://www.tiktok.com/@themuliabali/video/7379878015309761797?is_from_webapp=1&
 
 ## 住客真实评价
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fbe5c8d9366184e5c302970ce5259a43.jpg)
+![住客真实评价](https://images.gobaligo.id/vocus/vocus_fbe5c8d9366184e5c302970ce5259a43.jpg)
 
 这是我第一次入住这家酒店，早晨与朋友一起参加了他们的早间瑜伽课。乘坐接驳车来到一个面向广阔草原的户外瑜伽场地，清晨的微风轻拂，伴随着鸟儿的啼声，整个过程令人身心放松。课程内容并不艰难，主要是一些基础动作，非常适合开启新的一天。
 
@@ -160,7 +160,7 @@ https://www.tiktok.com/@themuliabali/video/7379878015309761797?is_from_webapp=1&
 
 ***
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a453cc99c786072992ba3e62998ab4d1.jpg)
+![住客真实评价](https://images.gobaligo.id/vocus/vocus_a453cc99c786072992ba3e62998ab4d1.jpg)
 
 从踏入酒店的第一刻起，你会感受到如同王后般的待遇！服务人员帮忙提行李，入住手续简单快速。房间的清洁度令人惊艳，桌面和玻璃洁净如新，浴室宽敞明亮，床单一尘不染。
 
@@ -168,7 +168,7 @@ https://www.tiktok.com/@themuliabali/video/7379878015309761797?is_from_webapp=1&
 
 ***
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b657ddd6500f3db4c5b5943ddc057cb6.jpg)
+![住客真实评价](https://images.gobaligo.id/vocus/vocus_b657ddd6500f3db4c5b5943ddc057cb6.jpg)
 
 我们的七日住宿选在11月初的淡季，让整个度假村呈现一种宁静而祥和的氛围。即使后期入住人数渐多，仍然感觉非常舒适，无论是早餐时间还是泳池周围，都能享受足够的私人空间。
 
@@ -176,7 +176,7 @@ https://www.tiktok.com/@themuliabali/video/7379878015309761797?is_from_webapp=1&
 
 在其他餐厅如Table 8（中餐）和Edogin（日料）的用餐体验也非常令人满意，价格合理，品质优良。而我们最爱的餐厅是Soleil，它的木柴烤披萨和东南亚料理让我们惊喜不已，完全媲美在泰国和越南最好的餐厅所享用的美味。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4bcfdf917a8ce2ececcbf56925a317e4.jpg)
+![住客真实评价](https://images.gobaligo.id/vocus/vocus_4bcfdf917a8ce2ececcbf56925a317e4.jpg)
 
 设施方面，度假村的健身房拥有先进的设备，却很少有人使用，非常适合寻求安静运动的旅客。度假村内的多个泳池更是提供不同风格的选择，其中的Ocean Pool人气最高。
 
@@ -188,7 +188,7 @@ https://www.tiktok.com/@themuliabali/video/7379878015309761797?is_from_webapp=1&
 
 ## 更多努沙杜瓦五星度假村介绍
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_61e40f31590a0967d2f549906c95a0c4.jpg)
+![更多努沙杜瓦五星度假村介绍](https://images.gobaligo.id/vocus/vocus_61e40f31590a0967d2f549906c95a0c4.jpg)
 
 **努沙杜瓦是巴厘岛南部一个著名的高级度假胜地，以其宁静的环境、洁白的沙滩和世界级的奢华体验闻名。** 如果您正在寻找奢华五星级度假村，努沙杜瓦提供了众多顶尖选择，从专属私人海滩到精致的餐饮与水疗，应有尽有。
 

@@ -32,7 +32,7 @@ _srcHash: 74364af26afe130e315903b7a9874490
 
 Recently, there's been exciting news in the aviation world - Starlux Airlines is officially launching direct flights from Taipei to Bali, and it's no longer just a rumor!
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775438725248-660291592_1547503330709366_2891419081085825981_n.jpg)
+![Direct Flights Dream Come True? Starlux Airlines' New Bali R](https://images.gobaligo.id/images/2026-04/1775438725248-660291592_1547503330709366_2891419081085825981_n.jpg)
 
 For those who have long followed Bali travel, this route was expected, but now it finally has a clearer outline.
 
@@ -44,11 +44,11 @@ According to recent aviation news and industry observations:
 - ✨ Flight Frequency: 5 flights per week
 - ✨ Aircraft Model: A321neo. A model that sets high standards for economy class
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774965491151-330cabin1010px674_tcm5-5195.jpg)
+![Latest Updates](https://images.gobaligo.id/images/2026-03/1774965491151-330cabin1010px674_tcm5-5195.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774965491471-sin4_tcm5-6419_w616_h411_n.jpg)
+![Latest Updates](https://images.gobaligo.id/images/2026-03/1774965491471-sin4_tcm5-6419_w616_h411_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774965491827-starlux-a330neo-economy-class-6.jpeg)
+![Latest Updates](https://images.gobaligo.id/images/2026-03/1774965491827-starlux-a330neo-economy-class-6.jpeg)
 
 Additionally, Bali has been mentioned multiple times in market and company plans as part of Starlux Airlines' expansion blueprint.
 
@@ -74,7 +74,7 @@ Currently, competition exists on Taiwan-Bali routes, but it mainly revolves arou
 
 - Budget airlines
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775616099905-_2026-04-08_09.41.18.png)
+![3⃣ Market Competition Will Become More Interesting](https://images.gobaligo.id/images/2026-04/1775616099905-_2026-04-08_09.41.18.png)
 
 With Starlux's entry, it is likely to directly target the 'high-quality vacation flight experience' segment.
 

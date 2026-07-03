@@ -20,7 +20,7 @@ _srcHash: 00189c3fd4083afe634ab8a893a5b21e
 
 自2024年2月起，所有入境峇里島嘅國際旅客必須繳納一筆150,000印尼盾（約USD$10）嘅旅遊稅。呢筆費用主要用於：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_faa81d91ecf80644e97531f94ad11639.png)
+![峇里島旅遊稅係咩？](https://images.gobaligo.id/vocus/vocus_faa81d91ecf80644e97531f94ad11639.png)
 
 - 保護當地文化與遺產
 - 維護自然環境

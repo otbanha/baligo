@@ -20,7 +20,7 @@ _srcHash: 737045a8b4d0f83dd1defb95afb1cdc5
 
 唔耐之前先出爐嘅「十大全球浪漫旅遊目的地」，根據Agoda旅行平台嘅大數據，其中峇里島名列全球第六名（[請睇呢度](/blog/valentines-day-romantic-destinations/)）；而另一份Tripadvisor 2024年度統計資料，峇里島更被列為度蜜月目的地嘅頂尖寶座，[擊敗馬爾地夫奪得全世界冠軍！](/blog/bali-honeymoon-destination/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b4f537565e91e25fd6de607522f7cb4d.jpg)
+![點解越來越多人揀峇里島度蜜月？峇里島度蜜月常見問題解答](https://images.gobaligo.id/vocus/vocus_b4f537565e91e25fd6de607522f7cb4d.jpg)
 
 究竟峇里島點解適合度蜜月？有咩係需要知道嘅？請睇我哋嘅介紹：
 
@@ -34,7 +34,7 @@ _srcHash: 737045a8b4d0f83dd1defb95afb1cdc5
 4. **豪華嘅住宿選擇**：峇里島擁有各種各樣嘅豪華住宿選擇，由私人別墅到度假村同精品酒店，新人可以根據自己嘅喜好同預算搵到理想嘅住宿。
 5. **溫暖嘅氣候**：峇里島享有溫暖嘅熱帶氣候，全年都適合度假，讓新人可以隨時前來享受陽光同海灘。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_26bfe55fe0402d823b5d3c0616e4eb56.jpg)
+![峇里島係蜜月嘅好地方嗎？](https://images.gobaligo.id/vocus/vocus_26bfe55fe0402d823b5d3c0616e4eb56.jpg)
 
 請參考我哋超過100家住宿推薦嘅「峇里島住宿指南」
 
@@ -44,7 +44,7 @@ _srcHash: 737045a8b4d0f83dd1defb95afb1cdc5
 
 ## 峇里島有咩景點？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_578a2c80200e7a9b72c15603321a0f47.jpg)
+![峇里島有咩景點？](https://images.gobaligo.id/vocus/vocus_578a2c80200e7a9b72c15603321a0f47.jpg)
 
 我哋係最專業嘅峇里島旅遊情報網站，我哋提供咗五百幾個峇里島最新嘅熱門旅遊景點，你實會喺我哋嘅攻略度搵到好想去嘅景點！請睇：
 
@@ -85,7 +85,7 @@ _srcHash: 737045a8b4d0f83dd1defb95afb1cdc5
 
 > 延伸閱讀：[20間度蜜月度假村、浪漫villa推薦](/blog/bali-honeymoon-resorts-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0a0f01ddd3f1dbf1a47d1c9e05e9534b.png)
+![點樣預訂峇里島行程？](https://images.gobaligo.id/vocus/vocus_0a0f01ddd3f1dbf1a47d1c9e05e9534b.png)
 
 以下係一啲評價好高嘅熱門一日遊：
 
@@ -115,7 +115,7 @@ _srcHash: 737045a8b4d0f83dd1defb95afb1cdc5
 
 ## 我只係想去享受，唔想自己計劃
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6a98a77387904e995d38fd10ec0a471d.png)
+![我只係想去享受，唔想自己計劃](https://images.gobaligo.id/vocus/vocus_6a98a77387904e995d38fd10ec0a471d.png)
 
 對於計劃緊蜜月或者浪漫之旅嘅情侶嚟講，峇里島絕對係一個充滿魅力同浪漫氣氛嘅目的地。雖然自己策劃旅程有佢嘅樂趣，但要真正深入了解峇里島，需要更多嘅時間同資源。好多情侶都希望可以輕鬆安排行程，專注於享受彼此嘅時光，呢個時候選擇一間優秀嘅旅行社就顯得特別重要。
 

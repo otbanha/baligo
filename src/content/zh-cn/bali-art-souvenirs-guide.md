@@ -22,7 +22,7 @@ _srcHash: 1ebc420a426fd7a710d35602729a53af
 
 对许多游客而言，巴厘岛不只是阳光与沙滩的代名词，它还蕴含着丰富的艺术文化与历史传承。这座美丽的岛屿让人们回家时不仅带着满满的记忆和照片，更能带着具有象征意义、别具文化价值的纪念品。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3326e23359c6b24fc3c03ae195c1a0f0.jpg)
+![巴厘岛文化纪念品：让旅游回忆永存心中](https://images.gobaligo.id/vocus/vocus_3326e23359c6b24fc3c03ae195c1a0f0.jpg)
 
 ## **艺术与手工艺品：巴厘岛的灵魂体现**
 
@@ -40,7 +40,7 @@ _srcHash: 1ebc420a426fd7a710d35602729a53af
 
 ## **沙龙布：多功能又富文化意义的布料**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b2c783681d7b2cfdfc2a9d8ddc62b04.jpg)
+![沙龙布：多功能又富文化意义的布料](https://images.gobaligo.id/vocus/vocus_0b2c783681d7b2cfdfc2a9d8ddc62b04.jpg)
 
 沙龙（Sarong）是巴厘岛最经典的纪念品之一。这种传统布料不但价格亲民，还具备多重用途，例如：
 
@@ -54,9 +54,9 @@ _srcHash: 1ebc420a426fd7a710d35602729a53af
 
 ## **木雕工艺：栩栩如生的传统艺术**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1e945f926f2964e4e6a40d6d309af9fe.jpg)
+![木雕工艺：栩栩如生的传统艺术](https://images.gobaligo.id/vocus/vocus_1e945f926f2964e4e6a40d6d309af9fe.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_389d421a515ce3f1b42d7541d961aaea.jpg)
+![木雕工艺：栩栩如生的传统艺术](https://images.gobaligo.id/vocus/vocus_389d421a515ce3f1b42d7541d961aaea.jpg)
 
 从和平象征、生命之树、神话角色到大象造型，巴厘岛的木雕全数出自当地技艺娴熟的匠人之手。乌布和德哥拉朗（Tegallalang）地区是木雕艺术的重要发源地，游客也可报名参加木雕课程，亲身体验这门古老工艺。
 
@@ -70,7 +70,7 @@ _srcHash: 1ebc420a426fd7a710d35602729a53af
 - 编织手链
 - 香氛线香
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff10ebf58e5c2d63903933319ff19bda.jpg)
+![轻便小物：适合送礼与收藏的经典选择](https://images.gobaligo.id/vocus/vocus_ff10ebf58e5c2d63903933319ff19bda.jpg)
 
 这些小物不但价格亲民，在各大艺术市场都能轻松买到，是游客回国送亲友的好选择。
 

@@ -83,7 +83,7 @@ Area taman dibagi jadi beberapa zona tematik: **Zona Drive-Through Safari** adal
 
 **📍 Alamat:** Tepat di samping Taman Safari Bali, Gianyar
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780205183105-website-banner-scaled.webp)
+![3. Marine Safari Bali｜Tepat di Samping Taman Safari! Cara Ma](https://images.gobaligo.id/images/2026-05/1780205183105-website-banner-scaled.webp)
 
 Banyak wisatawan yang nggak tahu, di sebelah Taman Safari Bali ternyata ada taman hiburan bertema laut yang eksklusif — **Marine Safari Bali**. Dua taman ini jaraknya super dekat, dan pihak pengelola punya paket **tiket combo 2 hari** yang oke banget: hari pertama main di Taman Safari ala Afrika, hari kedua ganti suasana eksplorasi laut di Marine Safari. Sekali jalan, kamu dapet dua kejutan seru: darat dan laut. Budget-nya juga lebih worth it dibanding beli tiket terpisah.
 
@@ -103,7 +103,7 @@ Info lengkap: [Panduan Marine Safari Bali](https://gobaligo.id/blog/marine-safar
 
 **📍 Alamat:** Jl. Elephant Park, Taro, Tegallalang, Gianyar
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780205293049-elephant.jpeg)
+![4. Mason Elephant Park｜Momen Mandi Bareng Gajah yang Menyent](https://images.gobaligo.id/images/2026-05/1780205293049-elephant.jpeg)
 
 Di desa Taro yang tenang di utara Ubud, ada surga hijau yang melindungi gajah Sumatera langka di Bali — **Mason Elephant Park**. Tempat ini bukan cuma objek wisata, tapi juga suaka yang bertanggung jawab dalam konservasi hewan. Puluhan gajah dari Sumatera ditampung di sini, dan mereka punya habitat luas untuk bergerak bebas.
 
@@ -141,7 +141,7 @@ Penjelasan detail: [Bali Bird Park Panduan Lengkap: Spesies Burung Langka, Aktiv
 
 **📍 Alamat:** Tepat di samping Bali Bird Park, Singapadu, Gianyar
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780206204799-_2026-05-31_12.42.57.png)
+![6. Bali Reptile Park｜Ular melilit leher, biawak muncul — sur](https://images.gobaligo.id/images/2026-05/1780206204799-_2026-05-31_12.42.57.png)
 
 Tepat di sebelah Bali Bird Park, ada Bali Reptile Park—dunia unik yang bikin anak-anak antara takut dan penasaran. Taman ini punya koleksi reptil paling lengkap di Bali, termasuk berbagai jenis ular piton, kobra, biawak (kerabat dekat komodo), aneka tokek, dan kura-kura darat. Dekatin aja etalasenya udah bikin yang penakut deg-degan.
 
@@ -179,7 +179,7 @@ Info lengkap: [Panduan Bali Exotic Marine Park: Interaksi super dekat, berenang 
 
 **📍 Alamat:** Jl. Raya Singapadu, Sukawati, Gianyar
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780206729226-_2026-05-31_12.51.52.png)
+![8. Bali Zoo｜Kerajaan hewan hutan yang seru buat sekeluarga](https://images.gobaligo.id/images/2026-05/1780206729226-_2026-05-31_12.51.52.png)
 
 Bali Zoo adalah kebun binatang terbesar dan terlengkap di Bali, juga jadi pilihan utama banyak keluarga lokal buat liburan akhir pekan. Di dalamnya ada lebih dari 500 hewan, termasuk Harimau Sumatra, Orangutan, Jerapah, Zebra, dan spesies terkenal lainnya. Dengan latar belakang tanaman tropis yang rimbun, tempat ini menciptakan lingkungan alami yang mendidik sekaligus menghibur.
 
@@ -258,7 +258,7 @@ Semoga setiap keluarga yang menginjakkan kaki di pulau ini bisa mendapatkan kena
 
 _Informasi tempat wisata di artikel ini sesuai saat penulisan. Harga tiket dan jam buka aktual harap cek di situs resmi atau platform pemesanan._
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780210997008-689d437ba3e141dc624b514a766ad8d9.jpg)
+![Tips Praktis Merencanakan Liburan Keluarga ke Bali](https://images.gobaligo.id/images/2026-05/1780210997008-689d437ba3e141dc624b514a766ad8d9.jpg)
 
 [>【Ubud Wisata Keluarga】Pilihan 50+ Aktivitas Favorit Anak: Kebun Binatang, Petualangan Hutan & DIY Tradisional Lengkap](https://gobaligo.id/blog/ubud-with-kids-guide/)
 

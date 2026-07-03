@@ -22,7 +22,7 @@ _srcHash: 5ec763b4e4d88fd9e6a911cd5da5cd93
 
 巴厘岛，这座被誉为“众神之岛”的热带天堂，不仅以其迷人的海滩、壮丽的梯田和丰富的印度教文化闻名，还拥有许多独特的传统节庆。其中，每年在“宁静日”（Nyepi）前夕举行的“Pawai Ogoh-Ogoh”妖怪大游行，绝对是最令人震撼的文化活动之一。这是一场结合艺术、宗教与社区精神的盛大庆典，吸引了无数游客和当地居民共同参与。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_47e34998f736eff49fecf749970e2c98.jpg)
+![2025巴厘岛的妖怪大游行：Pawai Ogoh-Ogoh，一场震撼人心的文化盛宴 / 最佳观看地点](https://images.gobaligo.id/vocus/vocus_47e34998f736eff49fecf749970e2c98.jpg)
 
 ## **什么是Pawai Ogoh-Ogoh？**
 
@@ -86,7 +86,7 @@ Pawai Ogoh-Ogoh（妖怪大游行）是巴厘岛印度教新年“Nyepi”的前
 - **尊重当地文化**：Pawai Ogoh-Ogoh是一项宗教活动，请尊重当地习俗，避免不当行为。
 - **携带相机**：这是一场视觉盛宴，别忘了带上相机记录下这难忘的时刻！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e9a990889ea64ed410745074d370f00.jpg)
+![观看游行的小贴士](https://images.gobaligo.id/vocus/vocus_3e9a990889ea64ed410745074d370f00.jpg)
 
 ---
 

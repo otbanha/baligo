@@ -57,7 +57,7 @@ Pondok Pekak didirikan oleh Laurie Billington dan Made Sumendra pada tahun 1992.
 - **Ramah Anak**: Pondok Pekak sangat welcome buat keluarga yang ikut serta, banyak kursus yang didesain khusus versi anak-anak biar mereka belajar dalam suasana santai.
 - **Partisipasi Orang Tua**: Orang tua bisa ikut kursus bareng anak, sama-sama merasakan budaya Bali. Ini nggak cuma mempererat hubungan orang tua-anak, tapi juga bikin seluruh keluarga menciptakan kenangan unik.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5e70603124eb382fb685c77a92b992b6.jpg)
+![3. Lingkungan Ramah Keluarga](https://images.gobaligo.id/vocus/vocus_5e70603124eb382fb685c77a92b992b6.jpg)
 
 ***
 
@@ -79,23 +79,23 @@ Kursus seni yang ditawarkan Pondok Pekak nggak cuma terjangkau, tapi juga super 
 
 - **Gamelan Bali**: Dalam kursus satu jam, peserta bisa belajar memainkan alat musik orkestra klasik Bali seperti Gangsa dan Bamboo Rindik. Workshop grup seharga IDR 100.000 per orang, sementara kursus privat IDR 200.000.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0ec956a9b6f516ecd6d5aff7d188d94b.png)
+![Kursus Seni yang Super Beragam](https://images.gobaligo.id/vocus/vocus_0ec956a9b6f516ecd6d5aff7d188d94b.png)
 
 - **Tarian Bali**: Dipandu oleh Ibu Ketut, yang sudah menari sejak usia 9 tahun dan punya pemahaman mendalam tentang tarian Bali. Biaya workshop Rp100.000, untuk kelas privat Rp200.000.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a187d5fc0b52357d4f53a9b39c61bae.png)
+![Kursus Seni yang Super Beragam](https://images.gobaligo.id/vocus/vocus_9a187d5fc0b52357d4f53a9b39c61bae.png)
 
 - **Ukiran Kayu**: Kelas selama 3 jam, peserta bisa bebas berkarya di bawah bimbingan maestro pengrajin Pak Nyoman Setiawan. Biaya workshop Rp175.000, kelas privat Rp350.000.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9c074a521c04fe9831f691634396e211.png)
+![Kursus Seni yang Super Beragam](https://images.gobaligo.id/vocus/vocus_9c074a521c04fe9831f691634396e211.png)
 
 - **Pembuatan Perak**: Dalam kelas 3 jam, tamu bisa membuat liontin kalung atau cincin desain sendiri bersama pengrajin perak lokal. Ini cara yang oke banget buat bikin oleh-oleh yang bermakna.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b89e67619cdd7ae69ce05af2a214b220.png)
+![Kursus Seni yang Super Beragam](https://images.gobaligo.id/vocus/vocus_b89e67619cdd7ae69ce05af2a214b220.png)
 
 - **Ukir Buah**: Ubah semangka jadi bunga cantik! Itulah kelas ukir buah kami. Setelah selesai, kamu nggak cuma bisa pamer hasil karyamu, tapi juga berbagi semangka segar dengan teman-teman.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3d5b24e37128cae428d7f4c23da9cd73.png)
+![Kursus Seni yang Super Beragam](https://images.gobaligo.id/vocus/vocus_3d5b24e37128cae428d7f4c23da9cd73.png)
 
 {{block:親子}}
 

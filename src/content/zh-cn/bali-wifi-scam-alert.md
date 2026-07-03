@@ -24,7 +24,7 @@ _srcHash: a8757ecc9939e89c8f6569dfee987b7d
 
 ## 📶 热点分享诈骗的可能手法：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cdcce95419c06ccd0f04d397e1a75f49.png)
+![热点分享诈骗的可能手法：](https://images.gobaligo.id/vocus/vocus_cdcce95419c06ccd0f04d397e1a75f49.png)
 
 ## 1. **诱导热点分享来窃取资料**
 
@@ -58,7 +58,7 @@ _srcHash: a8757ecc9939e89c8f6569dfee987b7d
 
 像在**巴厘岛机场、咖啡厅、沙滩或购物中心**这类公共场所，若有陌生人请求你分享热点，**要礼貌但坚定地拒绝**。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_93b61b420b28fbd8de2ef93306e920b1.png)
+![实用提醒（旅游情境）](https://images.gobaligo.id/vocus/vocus_93b61b420b28fbd8de2ef93306e920b1.png)
 
 ---
 

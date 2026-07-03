@@ -113,7 +113,7 @@ https://youtube.com/shorts/9uSjE2FVGQs
 
 >   **錯誤**：用信用卡進行大額消費，冇考慮到潛在嘅盜刷風險。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0648b8fa6386a0758be5f8b1fa666c66.jpg)
+![7. 銀行卡安全](https://images.gobaligo.id/vocus/vocus_0648b8fa6386a0758be5f8b1fa666c66.jpg)
 
 峇里島某啲地區可能存在信用卡盜刷嘅風險，所以建議用以下方法嚟保護你嘅資金：
 
@@ -141,7 +141,7 @@ https://youtube.com/shorts/9uSjE2FVGQs
 
 >   **錯誤**：忽視峇里島雨季嘅快速天氣變化，冇做相應準備。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c86655f684007466ca064fac6b244c4f.png)
+![9. 應對雨季](https://images.gobaligo.id/vocus/vocus_c86655f684007466ca064fac6b244c4f.png)
 
 峇里島嘅雨季通常發生喺11月至4月，雖然唔會每日都落大雨，但天氣變化好快，經常突然由晴天轉變為暴雨。
 
@@ -171,7 +171,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 >   **錯誤**：忽略當地宗教與文化禮儀，做出唔尊重嘅行為。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2051bf25b8c56908609a59e3c8151f2a.jpg)
+![11. 尊重當地文化](https://images.gobaligo.id/vocus/vocus_2051bf25b8c56908609a59e3c8151f2a.jpg)
 
 峇里島係印度教嘅文化重鎮，當地人對宗教儀式同傳統非常重視，尊重佢哋嘅習俗對遊客嚟講尤其重要。以下係幾個關鍵文化禮儀：
 

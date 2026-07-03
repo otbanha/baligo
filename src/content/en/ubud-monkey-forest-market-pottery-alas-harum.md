@@ -18,13 +18,13 @@ This Indonesian-Chinese YouTube influencer [[TwoSis赤道女孩](https://www.you
 
 She starts by introducing the hotel she stayed at—a secluded yet stylish villa with a private pool, spacious rooms and bathrooms, and attentive service. Then she heads to the Monkey Forest to watch the adorable wild monkeys and shares some safety tips. After that, she visits Ubud's traditional market and a new indoor market. She also recommends the Alas Harum attraction, which offers a variety of fun activities like jungle swings and a coffee plantation tour.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7e5bee402e81b3e268521f36d78f557f.jpg)
+![Four-Day Ubud Itinerary: Monkey Forest, Ubud Market, Pottery](https://images.gobaligo.id/vocus/vocus_7e5bee402e81b3e268521f36d78f557f.jpg)
 
 ##
 
 ## Accommodation
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2c83649f8235d8c15377854cd1badf84.png)
+![Accommodation](https://images.gobaligo.id/vocus/vocus_2c83649f8235d8c15377854cd1badf84.png)
 
 The Japa Suites & Villa they stayed at is tucked away in a quiet alley, with a modest exterior that exudes the unique elegance of a Southeast Asian villa. A guard is stationed at the entrance of the lane, and once inside, a spacious courtyard garden greets them, where lush greenery contrasts beautifully with white walls and yellow tiles. The staff warmly welcomes them and leads the way to the villa. The villa isn't huge, but every detail reflects thoughtful design and careful arrangement. The first floor has two single rooms in a simple modern style, with light wood floors and white walls creating a fresh and cozy atmosphere. The second floor features a king-bed room with warm-toned tiles and dark brown walls that add a touch of understated luxury.
 
@@ -64,7 +64,7 @@ At the new market, they discovered several practical and interesting handicrafts
 
 Leaving the bustling market behind, they headed to another famous Ubud attraction, Serayu Pottery, known for its DIY experiences like pottery making and ceramic painting, all set in a serene and pleasant environment.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b41e6268aabe4e4c156ff8807840bee3.jpg)
+![Serayu Pottery Art Class](https://images.gobaligo.id/vocus/vocus_b41e6268aabe4e4c156ff8807840bee3.jpg)
 
 Upon entering the grounds, they were greeted by lush, intertwined trees and an array of pottery jars, creating a natural, idyllic atmosphere. Next to the classroom, an exhibition hall displayed beautifully painted ceramic works by students, serving as inspiration. Before the class, staff gave a detailed introduction to the properties of clay and key crafting tips, emphasizing care from kneading to shaping. Then it was time to get hands-on: they chose a plain clay pot as their canvas, while the instructor demonstrated various decorative techniques like glaze dripping, color blending, and pattern sketching—quite fascinating. During the painting process, the host also shared the rich history and artistic essence of pottery, enriching their experience. After the class, the finished pieces needed to be fired at high temperatures to become permanent works.
 

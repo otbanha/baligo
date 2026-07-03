@@ -26,7 +26,7 @@ _srcHash: 1d631e142b6515858e5e91bad96f9c78
 ---
 **Clip 'n Climb Bali (Taman Panjat Tebing Sanur)** adalah pusat panjat tebing indoor pertama Clip 'n Climb di Bali, Indonesia, yang berlokasi di Sanur dan menawarkan pengalaman panjat tebing seru untuk segala usia.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ffbecf4bad5c12d684ccccdaefc3a2e9.jpg)
+![Bali Punya Petualangan Indoor Kekinian: 25 Jenis Dinding Pan](https://images.gobaligo.id/vocus/vocus_ffbecf4bad5c12d684ccccdaefc3a2e9.jpg)
 
 Clip 'n Climb Bali menggabungkan olahraga dan hiburan, menjadi destinasi petualangan indoor yang lagi hits di Bali, cocok banget buat pemula maupun jagoan!
 
@@ -46,15 +46,15 @@ Clip 'n Climb Bali menggabungkan olahraga dan hiburan, menjadi destinasi petuala
   - Usia minimal **4 tahun**, dewasa tanpa batas atas, pas buat keluarga, teman, atau tim perusahaan.
   - Ada sesi khusus dewasa (usia 16+).
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a528aca5d94efe9e2be12f3859085643.jpg)
+![1. Keunikan dan Keunggulan](https://images.gobaligo.id/vocus/vocus_a528aca5d94efe9e2be12f3859085643.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c4dcac9a898eacd7046033912edc144f.jpg)
+![1. Keunikan dan Keunggulan](https://images.gobaligo.id/vocus/vocus_c4dcac9a898eacd7046033912edc144f.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_31beb3cba2f706cc37a755aadd012a71.jpg)
+![1. Keunikan dan Keunggulan](https://images.gobaligo.id/vocus/vocus_31beb3cba2f706cc37a755aadd012a71.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_df38cfa0ffd2a1aec9a9c19f5caf695c.jpg)
+![1. Keunikan dan Keunggulan](https://images.gobaligo.id/vocus/vocus_df38cfa0ffd2a1aec9a9c19f5caf695c.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c6f7e4d9b653a24feeb5c97f2e315935.jpg)
+![1. Keunikan dan Keunggulan](https://images.gobaligo.id/vocus/vocus_c6f7e4d9b653a24feeb5c97f2e315935.jpg)
 
 ---
 
@@ -74,11 +74,11 @@ Clip 'n Climb Bali menggabungkan olahraga dan hiburan, menjadi destinasi petuala
 - **Aktivitas Kelompok**: Team building perusahaan, outing sekolah.
 - **Latihan Panjat Tebing**: Pagi dan malam hari dibuka untuk latihan profesional, dengan kursus yang tersedia.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_613cc50a3e6d6b528d29212c38de90de.jpg)
+![3. Aktivitas yang Cocok](https://images.gobaligo.id/vocus/vocus_613cc50a3e6d6b528d29212c38de90de.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f5502feed2d4c42f7b8fe8127853b3b2.jpg)
+![3. Aktivitas yang Cocok](https://images.gobaligo.id/vocus/vocus_f5502feed2d4c42f7b8fe8127853b3b2.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_83c31fb4d0c2dec31008298caa7ee09a.jpg)
+![3. Aktivitas yang Cocok](https://images.gobaligo.id/vocus/vocus_83c31fb4d0c2dec31008298caa7ee09a.jpg)
 
 ▶[Beli Tiket Diskon Clip 'n Climb](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1026544&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F150182-clip-n-climb-pass-in-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b7aec2eea)
 
@@ -94,6 +94,6 @@ Clip 'n Climb Bali menggabungkan olahraga dan hiburan, menjadi destinasi petuala
 
 - **Tempat wisata di sekitar**: [Panduan 45 Aktivitas Seru di Sanur](/blog/sanur-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cf950e3526cd5cc4ac4b87c676f9d924.png)
+![4. Tips Penting](https://images.gobaligo.id/vocus/vocus_cf950e3526cd5cc4ac4b87c676f9d924.png)
 
 Sanur adalah kota kecil di pesisir Bali yang penuh ketenangan, terkenal dengan pantainya yang tenang, suasana santai, dan pemandangan matahari terbit yang spektakuler. Di sini ada resor ramah keluarga, pasar tradisional, dan beragam kuliner lokal yang kaya—tempat ideal buat menikmati slow living dan eksplorasi budaya. Mau jalan-jalan di sepanjang garis pantai atau merasakan vibe lokal, Sanur bakal kasih kamu liburan super rileks! Mau tahu lebih banyak tips Sanur? [Klik di sini](/blog/sanur-guide/).

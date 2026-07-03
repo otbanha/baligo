@@ -23,7 +23,7 @@ _srcHash: c366b6bfc4dd9c40c1bd6f44ae104d93
 ---
 Here are six of the most popular beachfront cafes in Sanur that you shouldn't miss if you're planning a trip to Bali!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_adc353863b69538f971502b9bbfe4032.jpg)
+![Top 6 Beachfront Cafes in Sanur](https://images.gobaligo.id/vocus/vocus_adc353863b69538f971502b9bbfe4032.jpg)
 
 ## **Bayside Seaview: The Perfect Spot for Sunrise (🗺️**[**Map**](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)**)**
 
@@ -119,6 +119,6 @@ Highly suitable. The spaces are mostly open and spacious, with meal options avai
 
 ## More Sanur Food and Fun
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
+![More Sanur Food and Fun](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
 Sanur is a serene coastal town on Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. It boasts family-friendly resorts, traditional markets, and a wealth of local cuisine, making it an ideal spot for enjoying a slow-paced life and exploring culture. Whether you're strolling along the coastline or soaking up the local vibe, Sanur offers an incredibly relaxing holiday experience! Want to learn more about Sanur? [Click here](/blog/sanur-guide/)

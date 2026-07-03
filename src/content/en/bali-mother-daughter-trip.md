@@ -26,7 +26,7 @@ _srcHash: 1898bad9e1b87acdb08e5e1da7b1b24c
 
 This itinerary is based on suggestions from the community group and my own personal experience, offering a detailed recap. During this trip, we stayed at three different hotels, two nights each, and hired a private driver for three days, plus a final airport transfer. Let me share the highlights and key takeaways from this journey.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_31e20a9205edd79820f5422844919002.jpg)
+![Bali Travel Diary A Mother-Daughter 7-Day, 6-Night Bali Free](https://images.gobaligo.id/vocus/vocus_31e20a9205edd79820f5422844919002.jpg)
 
 ## Driver Recommendation
 
@@ -75,14 +75,14 @@ During our Ubud trip, we enjoyed two delightful spa sessions. The first was on t
 Zhang Pingping recommends: Jaens Spa, a 2-minute walk from Purana, offers great quality.
 
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_67d624142573dbbd6d75d35a99ae4d0a.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_23fee55f2005428d57220df03b707a79.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_d569d6044f389632d132b374fb9e6975.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_75f05f60722f18b1aece6c24a88b1e2c.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f5de5388909625a9761afe9c6e33c9b.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_0a83b4e30e033c6f3cd2f47595122e87.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_aae5c805a79def5e6bafe27b45726c83.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_d085761751cc44080c6a906ecfd6bb0d.jpg)
+![Accommodation & Spa](https://images.gobaligo.id/vocus/vocus_67d624142573dbbd6d75d35a99ae4d0a.jpg)
+![Accommodation & Spa](https://images.gobaligo.id/vocus/vocus_23fee55f2005428d57220df03b707a79.jpg)
+![Accommodation & Spa](https://images.gobaligo.id/vocus/vocus_d569d6044f389632d132b374fb9e6975.jpg)
+![Accommodation & Spa](https://images.gobaligo.id/vocus/vocus_75f05f60722f18b1aece6c24a88b1e2c.jpg)
+![Accommodation & Spa](https://images.gobaligo.id/vocus/vocus_9f5de5388909625a9761afe9c6e33c9b.jpg)
+![Accommodation & Spa](https://images.gobaligo.id/vocus/vocus_0a83b4e30e033c6f3cd2f47595122e87.jpg)
+![Accommodation & Spa](https://images.gobaligo.id/vocus/vocus_aae5c805a79def5e6bafe27b45726c83.jpg)
+![Accommodation & Spa](https://images.gobaligo.id/vocus/vocus_d085761751cc44080c6a906ecfd6bb0d.jpg)
 
 ### Exploring Ubud Town
 
@@ -130,7 +130,7 @@ Photo by Zhang Pingping
 
 **Quick Reference:** [Guide to the three major waterfalls near Ubud, Bali: Tegenungan Waterfall, Kanto Lampo Waterfall, and Tukad Cepung Waterfall](/blog/ubud-waterfalls-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_237f10c60c257d436c2cec2c97feb2c8.jpg)
+![Tegenungan Waterfall](https://images.gobaligo.id/vocus/vocus_237f10c60c257d436c2cec2c97feb2c8.jpg)
 
 Want more Ubud tips? [Click here](/blog/ubud-guide/)
 
@@ -159,19 +159,19 @@ The free time at the Kempinski hotel the next day was wonderfully arranged. We h
 In the evening, we swam in the luxurious hotel room and also enjoyed the hotel's sauna facilities.
 
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a4f1c8564da0965559d93ed4a29f0f97.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_6813e166b63cd8699d764cdfa628ec7e.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_c21b96df05c7bc92319f4e704cdded8a.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_ae77aed431a2128c90de25239c34a46f.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_a150244806e7e6502c7ffcd4973e99e0.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_35f5bb940ea879028baf154f07f1941e.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_94db74dbf43c822c176159674e07adc5.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_f07357ac6b300f7dbfd8e559b1a1d9ed.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f2c7ff015dad3938830fd31a4dedacc.jpg)
+![The Apurva Kempinski Bali](https://images.gobaligo.id/vocus/vocus_a4f1c8564da0965559d93ed4a29f0f97.jpg)
+![The Apurva Kempinski Bali](https://images.gobaligo.id/vocus/vocus_6813e166b63cd8699d764cdfa628ec7e.jpg)
+![The Apurva Kempinski Bali](https://images.gobaligo.id/vocus/vocus_c21b96df05c7bc92319f4e704cdded8a.jpg)
+![The Apurva Kempinski Bali](https://images.gobaligo.id/vocus/vocus_ae77aed431a2128c90de25239c34a46f.jpg)
+![The Apurva Kempinski Bali](https://images.gobaligo.id/vocus/vocus_a150244806e7e6502c7ffcd4973e99e0.jpg)
+![The Apurva Kempinski Bali](https://images.gobaligo.id/vocus/vocus_35f5bb940ea879028baf154f07f1941e.jpg)
+![The Apurva Kempinski Bali](https://images.gobaligo.id/vocus/vocus_94db74dbf43c822c176159674e07adc5.jpg)
+![The Apurva Kempinski Bali](https://images.gobaligo.id/vocus/vocus_f07357ac6b300f7dbfd8e559b1a1d9ed.jpg)
+![The Apurva Kempinski Bali](https://images.gobaligo.id/vocus/vocus_9f2c7ff015dad3938830fd31a4dedacc.jpg)
 
 ### More to Eat, Drink, and Do in Nusa Dua
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
+![More to Eat, Drink, and Do in Nusa Dua](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
 
 Nusa Dua is a region in Bali renowned for its luxury resorts, boasting pristine white sand beaches, crystal-clear waters, and top-notch tourist facilities. It's the ultimate choice for those seeking high-end indulgence and a tranquil getaway. Here you'll find premium spas, water sports, and leisure activities perfect for the whole family—a paradise for all types of travelers. Want more Nusa Dua tips? [Click here](/blog/nusa-dua-guide/)
 
@@ -197,7 +197,7 @@ Next, we arrived at Uluwatu Temple. The monkeys here are incredibly aggressive, 
 
 ### More on Eating, Drinking, and Fun in Uluwatu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_88e1fc85f675618e40236e0e76037d1e.jpg)
+![More on Eating, Drinking, and Fun in Uluwatu](https://images.gobaligo.id/vocus/vocus_88e1fc85f675618e40236e0e76037d1e.jpg)
 
 Uluwatu is one of the most popular areas in southern Bali, renowned for its dramatic cliff views, stunning beaches, and excellent surf spots. It exudes a romantic tropical resort vibe, making it the perfect choice for enjoying sunset vistas and relaxing moments. If you’re planning to stay in Uluwatu, check out our carefully curated guide to eating, drinking, and having fun below to make your trip even more exciting: [【Uluwatu Guide】Uluwatu Attractions: Food, Drink, and Fun Recommendations](/blog/uluwatu-guide/)
 
@@ -228,14 +228,14 @@ We strolled around the area, watched the sunset, and enjoyed all the hotel's ame
 Featured in: [Bali Accommodation Guide: Seminyak's Coastal Boutique Hotels](/blog/seminyak-beach-resorts-guide/)
 
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_47fc0bf37f298d6acbf3db505b14ae96.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_0723a2cf974601ea45521fe6aa0e33aa.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_adc3b90ca0571caa56c3a873252933ec.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_06f4fcebcfb9cc4ccd4b677df6aafb22.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_fb71ab8adf245802116216e0e77edb9f.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_6938346c6b000687d89ba91d777afafc.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_3460119c4dd6a4954e75dc02009f3b62.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_847f70a16d12bf711a5f6e49cbac0649.jpg)
+![Accommodation and Surroundings](https://images.gobaligo.id/vocus/vocus_47fc0bf37f298d6acbf3db505b14ae96.jpg)
+![Accommodation and Surroundings](https://images.gobaligo.id/vocus/vocus_0723a2cf974601ea45521fe6aa0e33aa.jpg)
+![Accommodation and Surroundings](https://images.gobaligo.id/vocus/vocus_adc3b90ca0571caa56c3a873252933ec.jpg)
+![Accommodation and Surroundings](https://images.gobaligo.id/vocus/vocus_06f4fcebcfb9cc4ccd4b677df6aafb22.jpg)
+![Accommodation and Surroundings](https://images.gobaligo.id/vocus/vocus_fb71ab8adf245802116216e0e77edb9f.jpg)
+![Accommodation and Surroundings](https://images.gobaligo.id/vocus/vocus_6938346c6b000687d89ba91d777afafc.jpg)
+![Accommodation and Surroundings](https://images.gobaligo.id/vocus/vocus_3460119c4dd6a4954e75dc02009f3b62.jpg)
+![Accommodation and Surroundings](https://images.gobaligo.id/vocus/vocus_847f70a16d12bf711a5f6e49cbac0649.jpg)
 
 ## June 4 – Pickup and Return to Taiwan
 
@@ -259,7 +259,7 @@ It's worth noting that most drivers in Bali have wives and children and need to 
 
 **Add me on Line by scanning the QR Code!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_766d02bc312ff09abc32813c4404f189.png)
+![Recommended Private Driver](https://images.gobaligo.id/vocus/vocus_766d02bc312ff09abc32813c4404f189.png)
 
 During this Bali trip, I quietly pushed myself to improve my English listening skills a bit. Feel free to join our English listening practice group and grow together!
 

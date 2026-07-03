@@ -32,13 +32,13 @@ _srcHash: de30b44dc452957a1c137e8be873a321
 
 If you're planning a trip to Bali, MoonLite Kitchen and Bar in Seminyak is definitely a restaurant worth adding to your itinerary. This restaurant not only won the 2024 Travelers' Choice Award but is also renowned for its prime rooftop location and stunning sunset views, making it a popular choice among tourists and locals alike.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c3116c8e96d04b55300645c652026c0a.jpg)
+![【Seminyak Sunset Restaurant】MoonLite Kitchen and Bar: A Roof](https://images.gobaligo.id/vocus/vocus_c3116c8e96d04b55300645c652026c0a.jpg)
 
 ## Ambiance and Views
 
 The most captivating feature of MoonLite Kitchen and Bar is undoubtedly its unbeatable views. Located on the rooftop, the restaurant boasts a deck area facing the ocean. At sunset, the sky turns golden, and the coastline glows in harmony with the setting sun, creating the perfect spot for photos. For the best views, we recommend booking a seat on the edge of the balcony in advance—the scenery is well worth the extra effort.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_674ee74440c72c45e1bd53fb44a24b28.jpg)
+![Ambiance and Views](https://images.gobaligo.id/vocus/vocus_674ee74440c72c45e1bd53fb44a24b28.jpg)
 
 ## Culinary Experience
 
@@ -46,23 +46,23 @@ The restaurant specializes in modern Southeast Asian cuisine, offering authentic
 
 In terms of pricing, MoonLite Kitchen and Bar falls into the mid-to-high range, slightly more expensive than average restaurants. However, considering the ambiance and food quality, the price is justifiable. Drink prices are comparable to those in hotels, making them reasonable.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0a3864dc336d38a65972c371aefaa416.jpg)
+![Culinary Experience](https://images.gobaligo.id/vocus/vocus_0a3864dc336d38a65972c371aefaa416.jpg)
 
 ## Service and Experience
 
 The service at the restaurant is decent. While the staff is friendly, the pace can slow down during peak hours, and you might need to remind them to take your order or provide menus. For larger groups, the seating space is ample, making it ideal for gatherings. However, for special occasions (such as anniversaries or celebrations), we recommend booking in advance and confirming your seating to avoid situations like mine—where my reserved seat was taken, but I ended up with a better spot on the balcony edge, enjoying an even more stunning view.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ddfd1d0ef97cf9a73865532cbeedb699.jpg)
+![Service and Experience](https://images.gobaligo.id/vocus/vocus_ddfd1d0ef97cf9a73865532cbeedb699.jpg)
 
 ## Nearby Activities
 
 Just a short walk from the restaurant is Seminyak's beautiful beach, perfect for a post-meal stroll to enjoy Bali's sea breeze and relaxed atmosphere. If you're interested in cooking, you can also visit the restaurant's open kitchen to see how chefs transform fresh ingredients into delicious dishes.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_817ecc14f927df5954e877b4ffda63a3.jpg)
+![Nearby Activities](https://images.gobaligo.id/vocus/vocus_817ecc14f927df5954e877b4ffda63a3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6df0d543f919566fd7f68b9e73d2359f.jpg)
+![Nearby Activities](https://images.gobaligo.id/vocus/vocus_6df0d543f919566fd7f68b9e73d2359f.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cf122bf423f51ebba76c3b55b1af9c0e.jpg)
+![Nearby Activities](https://images.gobaligo.id/vocus/vocus_cf122bf423f51ebba76c3b55b1af9c0e.jpg)
 
 ## Summary
 

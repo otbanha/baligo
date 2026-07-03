@@ -20,7 +20,7 @@ _srcHash: 81034801c6d5b92490bf53fe84ddde3d
 
 带台湾泡面去巴厘岛，特别是含有肉类的泡面，是许多旅客关心的问题。泡面不仅仅是台湾人生活中的美味，更是一种家乡的味道。那么，我们能不能将这些美味带上飞机，享受异国他乡的同时也不忘台湾的滋味呢？这篇文章将详细解答这个问题。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5a3fcc70daa7978a79985c54b2c8d84a.png)
+![泡面、奶粉可以带到印尼/巴厘岛吗？](https://images.gobaligo.id/vocus/vocus_5a3fcc70daa7978a79985c54b2c8d84a.png)
 
 ## 航空公司规定
 
@@ -39,7 +39,7 @@ _srcHash: 81034801c6d5b92490bf53fe84ddde3d
 
 ## 替代方案
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fb63c3f1c6e85c650e46f2d829cc605c.png)
+![替代方案](https://images.gobaligo.id/vocus/vocus_fb63c3f1c6e85c650e46f2d829cc605c.png)
 
 预订、省钱就看这里：
 

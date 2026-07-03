@@ -65,11 +65,11 @@ Penglipuran Village
 
 游客一年四季都有机会来访这个村庄，但最佳参观时间是靠近 Galungan 宗教节庆的时候。在这些日子里，村庄将会悬挂名为「penjor」的特殊装饰，这些装饰被挂在竹竿上。在这些特殊的时刻，您还可以见证年轻女孩穿着传统的巴厘服饰，头上托着祭品，优雅地前往村庄的印度教寺庙，如同一场仪式的舞台。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c121f8a31678b02905c23f897ac7235.jpg)
+![穿越时光的体验](https://images.gobaligo.id/vocus/vocus_1c121f8a31678b02905c23f897ac7235.jpg)
 
 ## 品尝Loloh Cem-cem
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cf5b527a6abdf1c3481af814009eb8d9.jpg)
+![品尝Loloh Cem-cem](https://images.gobaligo.id/vocus/vocus_cf5b527a6abdf1c3481af814009eb8d9.jpg)
 
 Loloh Cemcem是来自彭丽普兰村的传统饮品。Cemcem叶是彭丽普兰村主要的特产之一。当地居民会将这些叶子制成对健康有益的新鲜饮料。
 

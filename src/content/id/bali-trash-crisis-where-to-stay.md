@@ -41,7 +41,7 @@ Banyak yang lagi rencanain liburan pasti mikir, 'Apa sih dampak krisis lingkunga
 
 Nah, artikel hari ini ngumpulin info terbaru dari internet dan pendapat ahli lokal, ajak kamu lihat langsung kondisi lingkungan Bali saat ini, plus rekomendasi area akomodasi yang minim dampak sampah!
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779249022443-1200x675_cmsv2_fa3d0f82-0cb8-55cd-9072-e7a749fc915e-9741630.jpeg)
+![【2026 Bali Travel Warning】Krisis Sampah Meledak? Bisa Rusak ](https://images.gobaligo.id/images/2026-05/1779249022443-1200x675_cmsv2_fa3d0f82-0cb8-55cd-9072-e7a749fc915e-9741630.jpeg)
 
 # Dua Sisi Surga: Pemandangan Sempurna vs Tantangan Infrastruktur
 

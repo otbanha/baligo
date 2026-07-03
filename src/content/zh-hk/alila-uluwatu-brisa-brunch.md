@@ -25,9 +25,9 @@ _srcHash: 8863bf03cd1589851b70b830f00c3c9c
 ---
 企喺Alila Villas Uluwatu嘅CIRE餐廳露台上，印度洋嘅海風輕輕吹過臉頰，腳下係令人屏息嘅懸崖海景。呢個唔係普通嘅早午餐約會，而係一場從正午持續到黃昏嘅味覺馬拉松。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e55c018e9b192b77298e2d3ab4f021e4.jpg)
+![【峇里島最強週日早午餐】Alila Villas Uluwatu Brisa Brunch：懸崖邊嘅印度洋味覺盛宴](https://images.gobaligo.id/vocus/vocus_e55c018e9b192b77298e2d3ab4f021e4.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a2eb3064d9941b060c7ff0260527c5d.jpg)
+![【峇里島最強週日早午餐】Alila Villas Uluwatu Brisa Brunch：懸崖邊嘅印度洋味覺盛宴](https://images.gobaligo.id/vocus/vocus_9a2eb3064d9941b060c7ff0260527c5d.jpg)
 
 ## 當"Brunch"遇上峇里島時間
 
@@ -35,7 +35,7 @@ _srcHash: 8863bf03cd1589851b70b830f00c3c9c
 
 KLOOK新推出嘅「[烏魯瓦圖阿麗拉別墅酒店嘅用餐體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063734&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F156213-dining-experience-at-alila-villas-uluwatu%2F)」讓住唔起 Alila 嘅平民老百姓如我哋，都有機會體驗一下奢華。於是我哋預約咗1點嘅座位，打算用整個下午慢慢品味呢場美食之旅。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cd123f46c39552d4bf8ae22a5cc40d7e.png)
+![當"Brunch"遇上峇里島時間](https://images.gobaligo.id/vocus/vocus_cd123f46c39552d4bf8ae22a5cc40d7e.png)
 
 ## 海鮮愛好者嘅天堂
 
@@ -49,7 +49,7 @@ KLOOK新推出嘅「[烏魯瓦圖阿麗拉別墅酒店嘅用餐體驗](https://a
 
 甜品區好似個現代藝術展，特別係嗰道"破碎朱古力球"，侍應會即場淋上熱情果醬，睇住朱古力外殼好似火山熔岩咁裂開，露出入面嘅椰子雪糕同熱帶生果。隔籬枱嘅細路睇到目瞪口呆，連手機遊戲都唔記得玩。而我私心最鍾意嘅係斑斕葉提拉米蘇，東南亞香草同意式甜品嘅跨界戀情，食落有種叛逆嘅美味。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9d5b33c029f609db6725ad75ff99f312.jpg)
+![甜品師嘅惡作劇](https://images.gobaligo.id/vocus/vocus_9d5b33c029f609db6725ad75ff99f312.jpg)
 
 ## 懸崖邊嘅消化時光
 

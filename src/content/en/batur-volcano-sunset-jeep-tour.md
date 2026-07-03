@@ -35,19 +35,19 @@ Mount Batur in Bali is famous for its spectacular sunrise, attracting countless 
 
 ### **Enjoy Panoramic Views at Kintamani Café**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1126f01c021db4ab3da7ea01137c0210.png)
+![Enjoy Panoramic Views at Kintamani Café](https://images.gobaligo.id/vocus/vocus_1126f01c021db4ab3da7ea01137c0210.png)
 
 The journey begins at the scenic Kintamani Café, an excellent spot to take in the panoramic views of Mount Batur. You can sip on a drink, relax, and soak in Bali's tranquility and grandeur. The scenery here will undoubtedly make you reach for your camera to capture every beautiful moment.
 
 ### **Ride a Private Off-Road Jeep to the Best Sunset Viewpoint**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_51baf19d13912a5c5021b14dc9cbb0fb.png)
+![Ride a Private Off-Road Jeep to the Best Sunset Viewpoint](https://images.gobaligo.id/vocus/vocus_51baf19d13912a5c5021b14dc9cbb0fb.png)
 
 Unlike traditional hiking routes, this tour will take you in a private off-road jeep directly to Mount Batur's best sunset viewpoint. Without the need for trekking, you'll effortlessly reach high ground to enjoy breathtakingly stunning views.
 
 ### **Professional Jeep Driver and Photographer to Document Your Adventure**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d822e273f831f69bd3678ed61c1e3ff6.png)
+![Professional Jeep Driver and Photographer to Document Your A](https://images.gobaligo.id/vocus/vocus_d822e273f831f69bd3678ed61c1e3ff6.png)
 
 This journey features professional jeep drivers who also double as photographers. They not only know the routes well but also how to capture the most beautiful moments. Whether it's the changing light of the sunset or your photo with the volcano, everything will be perfectly recorded, creating unforgettable memories of your trip.
 
@@ -82,7 +82,7 @@ Beyond the scenic views, you can learn more about Mount Batur and Bali's culture
 
 {{block:戶外}}
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f43b3b9571911431dbce6426cdaa603a.png)
+![What's Included in the Cost?](https://images.gobaligo.id/vocus/vocus_f43b3b9571911431dbce6426cdaa603a.png)
 
 ***
 

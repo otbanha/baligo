@@ -21,7 +21,7 @@ _srcHash: 22653dfb5ee22bc5ab7f129687e4436a
 
 繼Bali第一階段輕軌（LRT）工程已於 2024 年 9 月 4 日正式啟動，並在Kuta中央停車場舉行了儀式之後。捷運（MRT）的建設計劃將於 2025 年 4 月開始挖掘，這是當地交通基礎設施的一大突破。接下來，我們將詳細探討Bali捷運的各個階段、施工過程以及未來對旅遊和當地居民的影響。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_99819bd6538fcfc0eb8fcc36f0c1005b.jpg)
+![【Bali交通改善計畫之三】Bali捷運 (MRT) 挖掘工程將於 2025 年 4 月展開](https://images.gobaligo.id/vocus/vocus_99819bd6538fcfc0eb8fcc36f0c1005b.jpg)
 
 ## 捷運的背景
 
@@ -47,7 +47,7 @@ Menteri Energi Dubai saat berkunjung ke Bali berjanji memberikan dukungan dana s
 
 Proyek ini akan menggunakan delapan mesin bor terowongan besar (TBM), enam lebih banyak dari yang digunakan di MRT Jakarta. Diameter TBM yang digunakan di Bali adalah 7,2 meter, lebih besar dari 6 meter di Jakarta, yang berarti terowongan MRT Bali akan lebih luas. Peralatan ini akan tiba di Bali pada April 2025, dan saat itulah pekerjaan penggalian terowongan akan dimulai.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_639d9f2561697e36de04070031810cf0.jpg)
+![Spesifikasi Teknis Mesin Bor TBM](https://images.gobaligo.id/vocus/vocus_639d9f2561697e36de04070031810cf0.jpg)
 
 ## Kedalaman Terowongan Bawah Tanah
 
@@ -73,7 +73,7 @@ Setelah tahap pertama selesai, pembangunan kereta bawah tanah akan diperluas sec
 
 Menurut rencana Pemerintah Bali, pembangunan kereta bawah tanah tahap pertama diperkirakan selesai pada tahun 2030. Meskipun rencana ini sangat ambisius, pemerintah dan pihak terkait memperkirakan akan menghadapi banyak tantangan, terutama dalam hal kemajuan konstruksi, masalah teknis, dan penggunaan dana. Namun, pemerintah optimis terhadap masa depan proyek ini dan menyatakan akan berusaha maksimal untuk memastikan selesai tepat waktu.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d8ad90a6b1d78f7cae9048e486a4789c.jpg)
+![Jadwal Proyek](https://images.gobaligo.id/vocus/vocus_d8ad90a6b1d78f7cae9048e486a4789c.jpg)
 
 ## Dampak pada Transportasi Lokal
 
@@ -115,7 +115,7 @@ Begitu MRT Bali jadi, bukan cuma bakal nge-boost infrastruktur transportasi loka
 
 📩 **Langganan sekarang blog 'Panduan Travel Bali', jadi traveler Bali yang jago!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Daftar & Gabung Blog Kami](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

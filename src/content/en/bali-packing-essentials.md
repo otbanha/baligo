@@ -29,13 +29,13 @@ _srcHash: 70c55e2aa9622646b6a068bab2eecef5
 
 Bali's weather is muggy, so cotton or linen clothes wick away sweat and keep you cool. Opt for loose fits for extra comfort.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a6b46fd51ba6d985a07cb61791313f0a.jpg)
+![1. Lightweight, breathable cotton or linen clothing](https://images.gobaligo.id/vocus/vocus_a6b46fd51ba6d985a07cb61791313f0a.jpg)
 
 ### 2. Swimwear and a cover-up
 
 Whether you're hitting the beach, pool, or water activities, swimwear is a must. Pair it with a cover-up to stay modest in public spaces.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f8cb19086d47180f21ac0f6848ebd3e.jpg)
+![2. Swimwear and a cover-up](https://images.gobaligo.id/vocus/vocus_9f8cb19086d47180f21ac0f6848ebd3e.jpg)
 
 ### 3. Flip-flops and comfortable sandals
 
@@ -49,25 +49,25 @@ In the evening or in air-conditioned rooms, a light jacket may be needed. It als
 
 ### **5. Sun Hat and Sunglasses**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e75dcedd23563598fbcc7650921fd693.jpg)
+![5. Sun Hat and Sunglasses](https://images.gobaligo.id/vocus/vocus_e75dcedd23563598fbcc7650921fd693.jpg)
 
 The sun in Bali is intense. A sun hat and sunglasses effectively protect your skin and eyes while adding style to your look.
 
 ### **6. Scarf or Sarong**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f738266f27e5ef1f771b5f6ce8ab836.jpg)
+![6. Scarf or Sarong](https://images.gobaligo.id/vocus/vocus_9f738266f27e5ef1f771b5f6ce8ab836.jpg)
 
 A scarf or sarong is highly versatile—it can be used as a sun-protective wrap, a beach mat, or a cover-up in temples, making it incredibly practical.
 
 ### **7. Comfortable Activewear or Yoga Wear**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6237cbb3b9b8e7fbbff80595b763db1c.jpg)
+![7. Comfortable Activewear or Yoga Wear](https://images.gobaligo.id/vocus/vocus_6237cbb3b9b8e7fbbff80595b763db1c.jpg)
 
 Bali is a hub for yoga and mindfulness experiences. A set of lightweight activewear is perfect for classes or morning strolls.
 
 ### **8. Long Skirt**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_09ba60a375fe418b2affec49a430d379.jpg)
+![8. Long Skirt](https://images.gobaligo.id/vocus/vocus_09ba60a375fe418b2affec49a430d379.jpg)
 
 A long skirt is not only cool and breathable with a flowing elegance but also keeps you looking graceful and respectful at markets, restaurants, or temple visits. It combines fashion and practicality, making it an essential item for female travelers.
 
@@ -101,11 +101,11 @@ When traveling during the rainy season (November to March), it's a good idea to 
 
 On a tropical island, you'll have plenty of chances to hit the water, so it's best to bring at least two swimsuits for easy rotation and washing.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_208a55db1381471b5ef0c2d0ce4155f9.png)
+![5. How many swimsuits should you pack?](https://images.gobaligo.id/vocus/vocus_208a55db1381471b5ef0c2d0ce4155f9.png)
 
 ### 6. When do you need a warm jacket?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ca6860ca39548567bb5b9b78723ab08.png)
+![6. When do you need a warm jacket?](https://images.gobaligo.id/vocus/vocus_6ca6860ca39548567bb5b9b78723ab08.png)
 
 If your destination is the lowlands of Bali or the Ubud highlands, you won't need a warm jacket. Only those heading on a volcano trek or volcano jeep tour in the early morning—when mountain temperatures can drop to around 10°C (50°F)—should pack a windproof or insulated jacket.
 

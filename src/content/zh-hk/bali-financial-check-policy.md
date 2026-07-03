@@ -20,7 +20,7 @@ _srcHash: 98d208d414f7cf798cbd21cd612a88f1
 
 ## 省政府確認會檢視外國旅客財務狀況
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c1dcd6e46a27f2e95283d42fa682ab0e.jpg)
+![省政府確認會檢視外國旅客財務狀況](https://images.gobaligo.id/vocus/vocus_c1dcd6e46a27f2e95283d42fa682ab0e.jpg)
 
 ---
 
@@ -40,7 +40,7 @@ _srcHash: 98d208d414f7cf798cbd21cd612a88f1
 
 呢個政策方向亦得到印尼觀光部長維迪揚蒂・瓦爾達娜（Widiyanti Wardhana）嘅支持。根據官方數據，峇里島喺2025年總共接待咗705萬名旅客，省政府希望喺2026年至少維持，甚至超越呢個數字。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_77d1703ca43de56f00afd3828c760100.jpg)
+![唔單止睇存款 旅遊行程亦會列入審核](https://images.gobaligo.id/vocus/vocus_77d1703ca43de56f00afd3828c760100.jpg)
 
 ---
 
@@ -82,7 +82,7 @@ _srcHash: 98d208d414f7cf798cbd21cd612a88f1
 
 佢最後強調，未來峇里島將唔只追求觀光人數，而係透過區域法規同完善嘅旅遊治理，真正落實以高品質為核心嘅觀光發展方向。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3502f8f803871789aef085601ff7fd99.jpg)
+![省長強調長期規劃 聚焦「高品質觀光」](https://images.gobaligo.id/vocus/vocus_3502f8f803871789aef085601ff7fd99.jpg)
 
 ---
 

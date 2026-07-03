@@ -29,7 +29,7 @@ _srcHash: 97bcfab0dc0ba0857465c8e1978ee53d
 
 ## 仙女園 Taman Dedari (谷歌評價4.6⭐) 👉🏼地圖：[烏布周邊熱門景點](/map/ubud/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_809bfed2477253b1d4a6dff5862b0b31.png)
+![仙女園 Taman Dedari (谷歌評價4.6) 地圖：烏布周邊熱門景點](https://images.gobaligo.id/vocus/vocus_809bfed2477253b1d4a6dff5862b0b31.png)
 
 仙女園（Taman Dedari）係烏布一個備受矚目嘅景點，以佢標誌性嘅巨大仙女雕像而聞名。呢度唔單止提供美味嘅美食，更加係一個融合咗文化藝術嘅地方。喺仙女嘅庇護下，品味當地美食，感受烏布特有嘅氛圍，成為一場難忘嘅用餐體驗。
 
@@ -41,7 +41,7 @@ _srcHash: 97bcfab0dc0ba0857465c8e1978ee53d
 
 ## 在D'Tukad River Club (谷歌評價4.5⭐) 👉🏼地圖：[沈浸山水美景](/map/ubud/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2a7ca5034237daeaba3bced65f823344.jpg)
+![在D'Tukad River Club (谷歌評價4.5) 地圖：沈浸山水美景](https://images.gobaligo.id/vocus/vocus_2a7ca5034237daeaba3bced65f823344.jpg)
 
 D'Tukad河畔俱樂部位於Tegenungan瀑布頂部嘅一個日間俱樂部，結合咗樹屋概念同令人嘆為觀止嘅自然景觀。喺呢度，你可以盡情享受令人驚艷嘅鞦韆同游泳池，沉浸喺峇里島藝術嘅氛圍中。D'Tukad擁有360度瀑布景觀，令你喺午餐時同時欣賞到瀑布流水嘅壯觀同自然嘅宏偉。
 
@@ -57,7 +57,7 @@ https://youtube.com/shorts/WdPWlqgn_jY
 
 ## Omma Dayclub (Google評分4.7⭐) 👉🏼地圖：[沈浸山水美景](/map/ubud/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c23bae83b3bdfa50d92f9c68fff396c5.jpg)
+![Omma Dayclub (Google評分4.7) 地圖：沈浸山水美景](https://images.gobaligo.id/vocus/vocus_c23bae83b3bdfa50d92f9c68fff396c5.jpg)
 
 Omma Dayclub 以佢壯麗嘅瀑布景色聞名。瀑布高約30米，遊客可以喺俱樂部嘅露台、或者河邊嘅游泳池欣賞到近在眼前嘅壯麗瀑布景色。
 
@@ -81,7 +81,7 @@ Wanna Jungle Pool & Bar係烏布嘅日間俱樂部，以佢獨特嘅三層無邊
 
 ## Cretya Ubud (Google評分4.5⭐) 👉🏼地圖：[沉浸山水美景](/map/ubud/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_78a4fa73c96848474643868d81d1d4c5.jpg)
+![Cretya Ubud (Google評分4.5) 地圖：沉浸山水美景](https://images.gobaligo.id/vocus/vocus_78a4fa73c96848474643868d81d1d4c5.jpg)
 
 Cretya Ubud 係烏布區嘅一間豪華日間俱樂部，三層式嘅泳池好有特色。佢位於上面介紹過嘅Alas Harum入面，面對住綠油油嘅稻田，坐擁壯麗嘅景色。
 
@@ -93,7 +93,7 @@ Cretya Ubud 開放時間係每日上晝8點到下晝9點。請繼續參考「[Cr
 
 ## Bebek Bengil 髒鴨飯 (Google評分4.3⭐) 👉🏼地圖：[沉浸山水美景](/map/ubud/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a11ec7ea410bd2d05da624d72bdfc547.jpg)
+![Bebek Bengil 髒鴨飯 (Google評分4.3) 地圖：沉浸山水美景](https://images.gobaligo.id/vocus/vocus_a11ec7ea410bd2d05da624d72bdfc547.jpg)
 
 峇里島三大特色美食之中，唔可以錯過嘅一道菜就係「髒鴨飯」，當地叫Bebek Bengil。呢道美食以獨特嘅烹調方法聞名，外皮脆卜卜，裡面肉汁豐富。喺烏布嘅Bebek Bengil餐廳，你可以享受到呢個美味嘅髒鴨飯，同時感受當地嘅飲食文化。
 
@@ -109,7 +109,7 @@ Cretya Ubud 開放時間係每日上晝8點到下晝9點。請繼續參考「[Cr
 
 ## The Sayan House (Google評分4.6⭐) 👉🏼地圖：[沉浸山水美景](/map/ubud/)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a63e57cac7591a54734dbb073bffa5eb.jpg)
+![The Sayan House (Google評分4.6) 地圖：沉浸山水美景）](https://images.gobaligo.id/vocus/vocus_a63e57cac7591a54734dbb073bffa5eb.jpg)
 
 居高臨下俯瞰成個阿勇河溪谷，欣賞叢林日落，再加埋享受美食，呢個係點樣嘅體驗？喺Sayan地區嘅The Sayan House，呢一切都變成可能。提供融合日本、拉丁美洲同東南亞美食嘅獨特口味。你可以喺度享用美味嘅菜式，同時欣賞到壯觀嘅烏布峽谷景觀。The Sayan House唔單止提供美食，更加係一場視覺同味覺嘅雙重饗宴，會令你留下難忘嘅用餐回憶。
 
@@ -117,7 +117,7 @@ Cretya Ubud 開放時間係每日上晝8點到下晝9點。請繼續參考「[Cr
 
 ## 麗思卡爾頓度假村用餐 (Google評分4.7⭐) 👉🏼地圖：[沈浸山水美景](/map/ubud/)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_44d2c49ec964161c78a680a604d97c75.jpg)
+![麗思卡爾頓度假村用餐 (Google評分4.7) 地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_44d2c49ec964161c78a680a604d97c75.jpg)
 
 喺烏布嘅五星渡假村「麗思卡爾頓度假村」，享受一場精緻嘅用餐體驗！餐廳望住靚靚嘅稻田同熱帶森林，全日供應美食。呢度嘅菜式突顯咗峇里島美食、亞洲精緻料理同埋嚟自主廚有機花園嘅新鮮農產品，融合咗農場到餐桌嘅理念。優雅浪漫嘅竹編形狀用餐區提供法式菜單嘅多種選擇。喺Kubu，你可以感受熱帶微風同埋悠悠水聲，享用精緻嘅地中海-歐洲美食，仲可以揀單點或者品嚐菜單。
 
@@ -125,7 +125,7 @@ Cretya Ubud 開放時間係每日上晝8點到下晝9點。請繼續參考「[Cr
 
 ## Bebek Tepi Sawah (Google評分4.6⭐) 👉🏼地圖：[沈浸山水美景](/map/ubud/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_291b7dabefee7864dcac47b291c373b6.jpg)
+![Bebek Tepi Sawah (Google評分4.6) 地圖：沈浸山水美景](https://images.gobaligo.id/vocus/vocus_291b7dabefee7864dcac47b291c373b6.jpg)
 
 Bebek Tepi Sawah 係一間喺烏布好出名嘅餐廳，個名意思係「稻田邊嘅鴨仔」。呢間餐廳以佢嘅特色菜鴨肉料理聞名，提供多種風味豐富嘅印尼美食，尤其係招牌菜鴨肉最正。呢度嘅餐點通常用當地傳統烹飪方式整，令你食到地道嘅印尼美食風味。
 
@@ -137,7 +137,7 @@ Bebek Tepi Sawah 係一間喺烏布好出名嘅餐廳，個名意思係「稻田
 
 ## Boni Bali Restaurant (Google評分4.3⭐) 👉🏼地圖：[沈浸山水美景](/map/ubud/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5046f26f284c95d89a998876cafa9852.jpg)
+![Boni Bali Restaurant (Google評分4.3) 地圖：沈浸山水美景](https://images.gobaligo.id/vocus/vocus_5046f26f284c95d89a998876cafa9852.jpg)
 
 一邊望住德格拉郎梯田嘅美景，一邊食印尼傳統美食，係峇里島旅遊嘅一大樂趣。
 
@@ -149,7 +149,7 @@ Boni Bali Restaurant喺德格拉郎梯田嘅旁邊，提供印尼傳統美食。
 
 ## The Cafe Lotus Ubud (谷歌評價3.9⭐) 👉🏼地圖：[沈浸山水美景](/map/ubud/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7fd47ea0a9d53273ba30c43bd4cb8ebe.png)
+![The Cafe Lotus Ubud (谷歌評價3.9) 地圖：沈浸山水美景](https://images.gobaligo.id/vocus/vocus_7fd47ea0a9d53273ba30c43bd4cb8ebe.png)
 
 喺烏布水皇宮嘅蓮花池旁邊享受美食，以獨特嘅漂浮式早餐體驗展開你嘅一日！喺迷人嘅烏布水宮旁邊享受一餐寧靜嘅蓮花池畔早餐體驗，仲可以喺周圍散步。如果揀喺呢度食晚餐，仲可以睇到精彩絕倫嘅傳統峇里舞蹈表演㗎！
 
@@ -157,7 +157,7 @@ Boni Bali Restaurant喺德格拉郎梯田嘅旁邊，提供印尼傳統美食。
 
 ## The Jungle Club Ubud (谷歌評價4.9⭐) 👉🏼地圖：[沈浸山水美景](/map/ubud/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac20347e0b49990e7a03ca914ba83df0.jpg)
+![The Jungle Club Ubud (谷歌評價4.9) 地圖：沈浸山水美景](https://images.gobaligo.id/vocus/vocus_ac20347e0b49990e7a03ca914ba83df0.jpg)
 
 Google評價4.9粒星。The Jungle Club Ubud 係峇里島最新嘅叢林樂園，集休閒同奢華於一身。位於烏布南部茂密嘅綠意中，呢個**只限成人**嘅世外桃源重新定義咗精品日間俱樂部嘅體驗，結合咗親密、專屬同充滿野性冒險嘅氛圍。喺呢度，你可以品嚐精緻嘅美酒佳餚，同時欣賞壯麗嘅河景同四周圍繞嘅叢林美景。隨住叢林中節奏感十足嘅聲音律動迷失自我，The Jungle Club Ubud 每星期七日都有精心策劃嘅娛樂活動同表演，為你嘅旅程增添無限樂趣。
 
@@ -165,7 +165,7 @@ Klook提供比票面價格更高嘅餐飲抵扣，[撳呢度](https://affiliate.
 
 ## Kenran Resort (Google評分4.3⭐) 👉🏼地圖：[沉浸山水美景](/map/ubud/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3aaa84b1e68535e2fe8c12eabf926e27.png)
+![Kenran Resort (Google評分4.3) 地圖：沉浸山水美景](https://images.gobaligo.id/vocus/vocus_3aaa84b1e68535e2fe8c12eabf926e27.png)
 
 喺峇里島烏布嘅Grand Kenran Resort，你會體驗到無得頂嘅用餐享受。呢個度假村座落喺寧靜嘅稻田之間，周圍係綠油油嘅叢林，仲有佩塔努河嘅潺潺流水聲，令你完全沉浸喺大自然嘅懷抱。無論係食漂浮早餐、悠閒午餐、悠然下午茶，定係浪漫燭光晚餐，你都可以喺T'dung餐廳一邊品嚐美食，一邊欣賞烏布嗰啲畫咁靚嘅景致。呢度四周圍都係生機勃勃嘅綠植，係放鬆身心、獎勵自己嘅理想地方。
 
@@ -173,7 +173,7 @@ Klook提供比票面價格更高嘅餐飲抵扣，[撳呢度](https://affiliate.
 
 ## Birdhill (Google評分4.8⭐) 👉🏼地圖：[沉浸山水美景](/map/ubud/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_953a7fbf7ac0d4d69542877b6f3cf991.jpg)
+![Birdhill (Google評分4.8) 地圖：沉浸山水美景](https://images.gobaligo.id/vocus/vocus_953a7fbf7ac0d4d69542877b6f3cf991.jpg)
 
 喺Birdhill餐廳享受非凡嘅美食體驗，呢度正宗嘅峇里島美食藝術同西方精緻美食嘅精髓相得益彰。餐廳位於翠綠色嘅泳池旁邊，優雅咁漂浮喺風景如畫嘅河谷之上，為客人提供令人難忘嘅用餐體驗，環境靚到令人歎為觀止！
 
@@ -181,7 +181,7 @@ Klook提供比票面價格更高嘅餐飲抵扣，[撳呢度](https://affiliate.
 
 ## Wedja Bali (Google評分4.8⭐) 👉🏼地圖：[沉浸山水美景](/map/ubud/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_60dd495f98d0b373ca455ac4f974d9d7.jpg)
+![Wedja Bali (Google評分4.8) 地圖：沉浸山水美景](https://images.gobaligo.id/vocus/vocus_60dd495f98d0b373ca455ac4f974d9d7.jpg)
 
 Google評分4.8粒星。Wedja餐廳係烏布最啱打卡嘅熱門餐廳之一！餐廳四周圍環繞住迷人嘅荷花池，令你喺美麗嘅自然景致中享受愜意嘅用餐時光。呢度提供多種峇里島同印尼美食選擇，滿足你嘅味蕾。同時，Wedja亦都有好多絕佳嘅打卡位，係享用美食同捕捉美麗瞬間嘅完美結合地。
 
@@ -199,7 +199,7 @@ Google評分4.7粒星。Sans Indian Cuisine 餐廳係位於烏布嘅一間正宗
 
 ## Botanist by Blue Karma Secrets(Google評分4.6⭐) 👉🏼地圖：[沈浸山水美景](/map/ubud/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_abb2a14f327e01b756e00abc4a5a9ead.jpg)
+![Botanist by Blue Karma Secrets(Google評分4.6) 地圖：沈浸山水美景](https://images.gobaligo.id/vocus/vocus_abb2a14f327e01b756e00abc4a5a9ead.jpg)
 
 喺 Botanist Restaurant Ubud 盡享美味佳餚，無論係同親朋好友一齊嘅野餐午餐，定係浪漫嘅晚餐，呢度都可以滿足你嘅需求。你仲可以參加餐廳提供嘅烹飪課程，學習食物知識同烹飪技巧，增添假期嘅樂趣。喺呢度停留，一定可以令你嘅峇里島假期更上一層樓！
 
@@ -207,7 +207,7 @@ Google評分4.7粒星。Sans Indian Cuisine 餐廳係位於烏布嘅一間正宗
 
 ## Terracotta Restaurant(Google評分4.7⭐) 👉🏼地圖：[沈浸山水美景](/map/ubud/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5f14ff93899b6d0ec4ad45063b1834ee.jpg)
+![Terracotta Restaurant(Google評分4.7) 地圖：沈浸山水美景](https://images.gobaligo.id/vocus/vocus_5f14ff93899b6d0ec4ad45063b1834ee.jpg)
 
 喺 Terracotta 餐廳，訪客可以逃離塵囂，進入一個寧靜浪漫嘅世界，欣賞壯麗嘅稻田美景，感受大自然帶嚟嘅祥和氛圍。同伴侶一齊共享美味佳餚，同時沉浸喺自然嘅美景入面。呢度仲提供私人烹飪課程，俾參加者踏上一段美食之旅，探索峇里島嘅濃郁風味。唔單止可以學識烹調美味嘅地道菜餚，仲可以將呢啲技巧同靈感帶返屋企，喺自己嘅廚房重現峇里島嘅滋味。加入餐飲課程探索真正嘅天堂美味，並享受奢華嘅體驗。有漂浮早餐、野餐午餐、浪漫晚餐、烹飪課程等選項。
 
@@ -215,7 +215,7 @@ Google評分4.7粒星。Sans Indian Cuisine 餐廳係位於烏布嘅一間正宗
 
 ## Cretya Sunset (Google評分4.8⭐) 👉🏼地圖：[沈浸山水美景](/map/ubud/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff6e8ddd6aa93c66985c70061af1de0b.jpg)
+![Cretya Sunset (Google評分4.8) 地圖：沈浸山水美景](https://images.gobaligo.id/vocus/vocus_ff6e8ddd6aa93c66985c70061af1de0b.jpg)
 
 睇完德哥拉郎梯田靚景嘅 Cretya Ubub 大受歡迎之後，Alas Harum 集團推出全新力作——Cretya Sunset by Alas Harum, Ubud。呢間位於烏布嘅日間俱樂部同餐廳，結合奢華、自然同娛樂，有無邊際泳池、時尚休閒區，仲有融合現代同峇里島風格嘅設計，等你享受美食同雞尾酒嘅同時，沉浸喺絕美日落同梯田景緻入面。
 
@@ -225,7 +225,7 @@ Cretya Sunset 坐落喺烏布鬱鬱蔥蔥嘅稻田中，面向西邊嘅地理位
 
 ## 浪漫遊船野餐 (Google評價4.6⭐)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5b0556f47ff8e26625fbf54926703dbd.png)
+![浪漫遊船野餐 (Google評價4.6)](https://images.gobaligo.id/vocus/vocus_5b0556f47ff8e26625fbf54926703dbd.png)
 
 想喺峇里島烏布嘅叢林入面享受一段寧靜又浪漫嘅時光嗎？「烏布浪漫游船野餐」會帶你同摯愛、朋友、同事或家人，搭住精心裝飾嘅木船，航行喺烏布叢林環繞嘅靜謐湖面上，度過難忘嘅一個鐘。呢個唔單止係情侶共創美好回憶嘅完美選擇，亦係同親友共享獨特體驗嘅絕佳機會！船上仲提供精緻野餐籃，入面有美味嘅三文治、蔬菜鷹嘴豆泥沾醬、新鮮生果、乳酪穀物，同埋一支氣泡酒，等你邊賞景邊享用美食。
 
@@ -235,7 +235,7 @@ Cretya Sunset 坐落喺烏布鬱鬱蔥蔥嘅稻田中，面向西邊嘅地理位
 
 ## Tuju Tropical Club (Google評價4.9⭐) 👉🏼地圖：[沈浸山水美景](/map/ubud/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa0ec09dc7b0ef531f313d8f5e414273.jpg)
+![Tuju Tropical Club (Google評價4.9) 地圖：沈浸山水美景](https://images.gobaligo.id/vocus/vocus_aa0ec09dc7b0ef531f313d8f5e414273.jpg)
 
 喺烏布喧鬧嘅街區背後，藏住一處靜謐嘅熱帶綠洲——Tuju Tropical Club & Dining。呢棟融合當代設計同巴厘傳統元素嘅建築，隱身喺茂密綠植之間，開放式嘅空間令自然光同微風自由流動。
 
@@ -247,7 +247,7 @@ Cretya Sunset 坐落喺烏布鬱鬱蔥蔥嘅稻田中，面向西邊嘅地理位
 
 ## Sari Timbul/ST玻璃工廠 (Google評分4.5⭐) 👉🏼地圖：[沈浸山水美景](/map/ubud/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e238001fbe0cdbd3b6a7710469c1ab47.jpg)
+![Sari Timbul/ST玻璃工廠 (Google評分4.5) 地圖：沈浸山水美景](https://images.gobaligo.id/vocus/vocus_e238001fbe0cdbd3b6a7710469c1ab47.jpg)
 
 呢間係位於峇里島德格拉朗（Tegallalang）嘅複合式景觀餐廳，結合美食、藝術同自然體驗，打造到好似童話世界咁夢幻。餐廳被翠綠叢林同梯田包圍，提供印尼傳統菜、西式、墨西哥同印度風味等多國菜系，擺盤精緻，味道獨特。園區入面有高空鞦韆、叢林泳池、玻璃藝術裝置同夢幻乾冰等打卡熱點，門票已經包埋攝影服務，令遊客輕鬆影到絕靚相。
 
@@ -257,7 +257,7 @@ Cretya Sunset 坐落喺烏布鬱鬱蔥蔥嘅稻田中，面向西邊嘅地理位
 
 ## Kamandalu Ubud (Google評分4.5⭐) 👉🏼地圖：[沈浸山水美景](/map/ubud/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b322acf45856a93b3945c16a107c8ad.jpg)
+![Kamandalu Ubud (Google評分4.5) 地圖：沈浸山水美景](https://images.gobaligo.id/vocus/vocus_3b322acf45856a93b3945c16a107c8ad.jpg)
 
 喺卡曼達魯度假村嘅靜謐錦鯉漂流河中央，同摯愛一齊享受獨一無二嘅船上用餐體驗。兩個人坐喺傳統木船上，被翠綠熱帶花園包圍，色彩繽紛嘅錦鯉喺清澈水波之間游嚟游去，創造出絕美嘅浪漫場景。度假村主廚特別設計咗豐盛嘅五星級雙人套餐，精選當季新鮮食材，融合印尼傳統風味同國際烹飪手法，配埋精選氣泡酒同特色調飲，令味蕾同視覺同步享受。
 
@@ -267,7 +267,7 @@ Cretya Sunset 坐落喺烏布鬱鬱蔥蔥嘅稻田中，面向西邊嘅地理位
 
 ## D'Tukad Coffee Club (Google評分3.8⭐) 👉🏼地圖：[沉浸山水美景](/map/ubud/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_030de012eed182d27698f8168b019df1.jpg)
+![D'Tukad Coffee Club (Google評分3.8) 地圖：沉浸山水美景](https://images.gobaligo.id/vocus/vocus_030de012eed182d27698f8168b019df1.jpg)
 
 位於峇里島烏布嘅D'Tukad Coffee Club，以佢對住德格拉朗梯田嘅絕佳位置聞名。遊客可以一邊食嘢，一邊欣賞令人驚嘆嘅層層稻田美景。俱樂部有個無邊際泳池，周圍有舒服嘅日光浴床，等客人在熱帶氣氛入面盡情放鬆。呢度提供豐富嘅國際美食同手工調製雞尾酒，配合專業友善嘅服務團隊，營造出完美嘅用餐體驗。
 
@@ -277,7 +277,7 @@ Cretya Sunset 坐落喺烏布鬱鬱蔥蔥嘅稻田中，面向西邊嘅地理位
 
 ## Titi Batu Ubud Club (Google評分4.3⭐) 👉🏼地圖：[沉浸山水美景](/map/ubud/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a2bf4eb4a96fb28e441b16ba81c0c21e.jpg)
+![Titi Batu Ubud Club (Google評分4.3) 地圖：沉浸山水美景](https://images.gobaligo.id/vocus/vocus_a2bf4eb4a96fb28e441b16ba81c0c21e.jpg)
 
 Titi Batu Ubud Club 係一個結合健身、休閒同親子娛樂嘅生活俱樂部。呢度有健身房、籃球場、壁球場、滑板公園、游泳池、SPA、舞蹈教室、瑜伽教室、三溫暖、餐廳同兒童遊樂設施，無論你想運動流汗、放鬆身心，定係帶住小朋友一齊玩水，都可以喺呢度搵到合適嘅空間。因為環境寬敞舒服，氣氛帶點烏布獨有嘅自然氣息，所以都吸引咗唔少長居峇里島嘅外籍家庭，成為佢哋日常生活嘅一部分，係大人同小朋友嘅天堂。
 
@@ -285,7 +285,7 @@ Titi Batu Ubud Club 係一個結合健身、休閒同親子娛樂嘅生活俱樂
 
 ## 口袋名單：Folk Pool & Gardens (Google評分4.5⭐)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2cc396ec6670466a36f49416c315f046.jpg)
+![口袋名單：Folk Pool & Gardens (Google評分4.5)](https://images.gobaligo.id/vocus/vocus_2cc396ec6670466a36f49416c315f046.jpg)
 
 喺峇里島嘅烏布鬧區，除咗有數唔完嘅商店、逛唔完嘅特色藝品、好食又健康嘅各國風味美食、舒展身心靈嘅Yoga同Spa... 之外，竟然仲隱藏咗一個與世隔絕嘅世外桃源：Folk Pool & Garden
 
@@ -301,7 +301,7 @@ Titi Batu Ubud Club 係一個結合健身、休閒同親子娛樂嘅生活俱樂
 
 ## 烏布美食烹飪班
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_521ad548041599b5da96c3537a2815fb.jpg)
+![烏布美食烹飪班](https://images.gobaligo.id/vocus/vocus_521ad548041599b5da96c3537a2815fb.jpg)
 
 烏布嘅烹飪班俾你有個深入體驗當地飲食文化嘅絕佳機會。活動流程包括去街市買餸、學烹飪技巧、自己動手煮同埋試食成果。參加者會同導師一齊去街市揀新鮮食材，仲會學到峇里島特有嘅烹飪技巧。之後喺廚房整經典菜式，最後坐低食自己親手煮嘅美味大餐。呢個係一個充滿文化魅力嘅美食之旅，會令你深深愛上峇里島嘅獨特風味。
 
@@ -325,7 +325,7 @@ Titi Batu Ubud Club 係一個結合健身、休閒同親子娛樂嘅生活俱樂
 
 ### 品味好食又抵食嘅地道美食
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4182aca9b5cf1fe4d85278c159021273.jpg)
+![品味好食又抵食嘅地道美食](https://images.gobaligo.id/vocus/vocus_4182aca9b5cf1fe4d85278c159021273.jpg)
 
 嚟到峇里島梗係要試吓地道美食啦！咁峇里島有咩地道美食呢？請睇吓小傑介紹嘅「[峇里島十大當地美食](/blog/bali-travel-tips/)」，呢個會係一場美食嘅冒險之旅。
 

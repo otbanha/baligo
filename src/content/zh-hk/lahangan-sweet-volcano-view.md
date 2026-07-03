@@ -26,7 +26,7 @@ _srcHash: bbe57b1e1c58cac276425b056dfa5b77
 
 **如果你鍾意壯麗嘅自然風光，或者正喺度搵個可以影到靚靚IG相嘅地方，Lahangan Sweet 絕對值得列入你嘅行程！呢度提供咗一個360度嘅視野，可以清楚咁睇到峇里島最具標誌性嘅阿貢山，尤其喺日出或者日落時分，景色更加令人屏息！🌅**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e5ed27e67efa310391c42389e2fd071c.jpg)
+![【峇里島東部秘境】Lahangan Sweet 攻略：正對阿貢火山嘅絕美木平台、日出攝影位同空拍建議](https://images.gobaligo.id/vocus/vocus_e5ed27e67efa310391c42389e2fd071c.jpg)
 
 ## **關於 Lahangan Sweet**
 

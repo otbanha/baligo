@@ -33,7 +33,7 @@ _srcHash: ed9cd397b340b2a64218766dfcaef8ea
 
 [🚗 Mau estimasi tarif Gojek? Klik di sini](/map/gojek-fare/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_86a39e40d1c5e42fbdbb7ba5e81f3369.png)
+![【Bali Transportasi Lengkap】Kapan Harus Sewa Mobil? Kapan Pak](https://images.gobaligo.id/vocus/vocus_86a39e40d1c5e42fbdbb7ba5e81f3369.png)
 
 Bali, destinasi liburan yang indah banget, menarik turis dari seluruh dunia. Pas kamu mau ke sini, pasti bakal dihadapin satu pertanyaan penting: mending sewa mobil atau panggil ojek? Di artikel ini, aku bakal bagi pengalaman kami selama di Bali soal sewa mobil dan panggil ojek, biar kamu bisa milih yang paling pas.
 
@@ -68,7 +68,7 @@ https://youtube.com/shorts/wnhyqUekdW0
    - Sebagian besar driver ojek online nggak suka ngobrol, dan beberapa nggak bisa bahasa Inggris.
    - Nggak bisa minta layanan kayak "tiba-tiba pengen manggis", "belum pernah nyoba salak, pengen coba", "kamu tahu di mana beli gunting kecil?" ... dan lain-lain.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e9c5ae6c50e5b17cba59e0eccdf6532b.png)
+![Kelebihan & Kekurangan Panggil Ojek](https://images.gobaligo.id/vocus/vocus_e9c5ae6c50e5b17cba59e0eccdf6532b.png)
 
 ## Sewa Mobil atau Ojek Online? Gimana Cara Pilih?
 

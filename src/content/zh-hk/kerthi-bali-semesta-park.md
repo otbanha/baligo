@@ -16,7 +16,7 @@ _srcHash: 3075321664a757a0cebcbbe14c8ef50b
 
 ## **派拉蒙影業進軍峇里島｜Kerthi Bali Semesta Park 預計 2026 年開幕**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6e1514a7e3f77a9ddd98d7ba1560bd96.jpg)
+![派拉蒙影業進軍峇里島｜Kerthi Bali Semesta Park 預計 2026 年開幕](https://images.gobaligo.id/vocus/vocus_6e1514a7e3f77a9ddd98d7ba1560bd96.jpg)
 
 峇里島正踏入一個全新嘅旅遊時代。位於西峇里 **Jembrana 政府區** 嘅 **Kerthi Bali Semesta Park（KBS Park）** 項目已經進入主體建設階段，預計將會喺 **2026 年正式開幕**。呢個主題樂園由 **Paramount Pictures（派拉蒙影業）** 同 **印尼公司 PT Kios Ria Kreas（KIOS）** 一齊打造，目的係結合國際娛樂品牌同峇里島本土文化，成為印尼第一座結合電影同文化嘅綜合樂園。
 
@@ -24,7 +24,7 @@ _srcHash: 3075321664a757a0cebcbbe14c8ef50b
 
 ## **樂園主題：荷里活娛樂 × 峇里島傳說嘅完美融合**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2bdc5bdefc0003786f5f2c91e844831b.jpg)
+![樂園主題：荷里活娛樂 × 峇里島傳說嘅完美融合](https://images.gobaligo.id/vocus/vocus_2bdc5bdefc0003786f5f2c91e844831b.jpg)
 
 Kerthi Bali Semesta Park 嘅設計分為兩大主題區：
 
@@ -52,7 +52,7 @@ Jembrana 縣長 **Kembang Hartawan** 表示：「Kerthi Bali Semesta Park 是結
 
 ## **Gilimanuk-Mengwi 高速公路：連接未來的旅遊命脈**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d34afd400c1c24665aedfd62011a78c5.jpg)
+![Gilimanuk-Mengwi 高速公路：連接未來的旅遊命脈](https://images.gobaligo.id/vocus/vocus_d34afd400c1c24665aedfd62011a78c5.jpg)
 
 為了支撐龐大的觀光需求與基礎建設，印尼政府同步推進 **Gilimanuk-Mengwi 高速公路（Jagat Kerthi Bali 計畫的一部分）**，目前已完成 **超過 20% 的前期工程**。
 

@@ -46,7 +46,7 @@ Biar liburanmu makin kece kayak traveler berpengalaman, kami gabungin data cuaca
 
 # 🌦️ Cuaca & Musim: Transisi dari Puncak Musim Kering ke Awal Musim Hujan
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780917212578-mixcollage-08-jun-2026-05-52-pm-8861.jpg)
+![Cuaca & Musim: Transisi dari Puncak Musim Kering ke Awal Mus](https://images.gobaligo.id/images/2026-06/1780917212578-mixcollage-08-jun-2026-05-52-pm-8861.jpg)
 
 Enam bulan ini menyaksikan perjalanan lengkap Bali dari puncak musim kering menuju persiapan musim hujan:
 
@@ -63,7 +63,7 @@ Enam bulan ini menyaksikan perjalanan lengkap Bali dari puncak musim kering menu
 - **Iklim:** Juli adalah puncak musim kemarau. Jarang hujan, kelembapan cuma 10–20%, suhu rata-rata 24–31°C. Siang hari terik banget, malamnya sejuk dan nyaman — ini bulan paling kering dan paling enak sepanjang tahun. Pemandangan gunung di pagi hari yang langka dan visibilitas laut yang super jernih bikin bulan ini jadi impian para pecinta outdoor.
 - **Tips berpakaian:** Pakaian katun tipis yang adem, wajib bawa sunscreen high protection (SPF 50+) dan kacamata hitam. Kalau mau naik gunung pagi-pagi, siapin jaket tipis lengan panjang buat proteksi.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780922788814-7.jpg)
+![Juli: Bulan Layang-Layang Pulau & Seni yang Berkibar](https://images.gobaligo.id/images/2026-06/1780922788814-7.jpg)
 
 ### **Festival Besar:**
 
@@ -102,7 +102,7 @@ Enam bulan ini menyaksikan perjalanan lengkap Bali dari puncak musim kering menu
 - **Iklim:** Agustus masih mempertahankan cuaca musim kemarau yang sangat baik. Hujan hanya 1–3 hari, kelembapan 10–20%, suhu rata-rata 24–31°C. Sama seperti Juli, ini adalah salah satu bulan terkering sepanjang tahun. Sinar matahari melimpah, air laut jernih, cocok untuk semua olahraga air dan aktivitas luar ruangan. Satu-satunya perbedaan adalah mulai ramai pengunjung musim puncak, disarankan memesan akomodasi dan pengalaman lebih awal.
 - **Tips Berpakaian:** Sama seperti Juli: pakaian tipis dan breathable, tabir surya SPF tinggi, kacamata hitam wajib. Bawa tabir surya untuk dioles ulang setiap saat.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780923188575-8.jpg)
+![Agustus: Musim Festival Musik dan Perayaan Kemerdekaan yang ](https://images.gobaligo.id/images/2026-06/1780923188575-8.jpg)
 
 {{block:親子}}
 
@@ -140,7 +140,7 @@ Enam bulan ini menyaksikan perjalanan lengkap Bali dari puncak musim kering menu
 - **Tips Berpakaian:** Tetap pakai perlengkapan tabir surya seperti Juli-Agustus, tapi mulai bawa payung lipat tipis atau jaket anti hujan buat jaga-jaga kalau tiba-tiba hujan.
 - **Hindari Keramaian:** Akhir September mendekati Oktober, dan Oktober adalah puncak 'musim transisi', jumlah turis mulai naik. Kalau mau hindari keramaian, mending jalan-jalan di awal September.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780923472183-9.jpg)
+![September: Bulan Transisi dari Musim Kemarau ke Musim Hujan](https://images.gobaligo.id/images/2026-06/1780923472183-9.jpg)
 
 {{block:戶外}}
 
@@ -176,7 +176,7 @@ Enam bulan ini menyaksikan perjalanan lengkap Bali dari puncak musim kering menu
 - **Tips Berpakaian:** Selain pakaian pelindung matahari dan topi, jangan lupa bawa payung lipat atau jas hujan ringan. Pakaian katun cepat kering lebih praktis daripada baju musim panas.
 - **Hindari Zona Merah:** Setelah pertengahan Oktober, wisatawan cepat bertambah, harga hotel dan mobil sewaan ikut naik. Disarankan traveling di awal Oktober, atau pilih akhir September.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780923758088-10.jpg)
+![10月: Prakiraan Musim Puncak 'Musim Transisi'](https://images.gobaligo.id/images/2026-06/1780923758088-10.jpg)
 
 ### **Festival Besar:**
 
@@ -211,7 +211,7 @@ Enam bulan ini menyaksikan perjalanan lengkap Bali dari puncak musim kering menu
 - **Tips Berpakaian:** Perlengkapan anti hujan wajib dibawa. Bawa jaket anti air, pelindung tas anti air, dan sepatu air. Pakaian berbahan katun yang menyerap keringat lebih praktis daripada katun murni. Sore hari mungkin ada angin sejuk, jaket tipis lengan panjang juga berguna.
 - **Tips Bermain:** Musim hujan bukan berarti nggak bisa jalan-jalan. Pagi biasanya cerah, hujan turun sore dan malam. Sarankan bangun pagi buat aktivitas, siang balik hotel istirahat atau nikmati SPA. Pengalaman jalan-jalan di sini sering lebih mendalam karena turis sedikit, layanan lebih personal.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780924008703-11.jpg)
+![November: Awal Musim Hujan dengan Kehijauan dan Suasana Sepi](https://images.gobaligo.id/images/2026-06/1780924008703-11.jpg)
 
 {{block:klook}}
 
@@ -249,7 +249,7 @@ https://youtu.be/op78Dk8CjL4
 - **Tips Berpakaian:** Perlengkapan anti hujan wajib dibawa, tapi karena lembap dan panas, pakaian longgar dan breathable lebih disarankan. Bawa tas atau pouch anti air buat lindungi barang elektronik. Pakaian quick-dry lebih praktis daripada baju panjang.
 - **Hindari Zona Macet:** Mulai 20 Desember sampai 5 Januari adalah puncak musim liburan 'Nataru'. Harga hotel dan sewa mobil bisa naik dua kali lipat, macet parah, tempat wisata penuh sesak. Kalau kamu suka keramaian, bisa ikut merayakan; kalau cari ketenangan, hindari setelah 20 Desember.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780924308707-12.jpg)
+![Desember: Pertengahan Musim Hujan, Pembuka Natal & Tahun Bar](https://images.gobaligo.id/images/2026-06/1780924308707-12.jpg)
 
 ### **Festival Besar:**
 
@@ -281,7 +281,7 @@ https://youtu.be/op78Dk8CjL4
 
 ## Catatan Travel Pintar dari Tim Redaksi 💡
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780924530878-15.jpg)
+![Catatan Travel Pintar dari Tim Redaksi](https://images.gobaligo.id/images/2026-06/1780924530878-15.jpg)
 
 ### **Strategi Pilih Musim:**
 
@@ -302,7 +302,7 @@ https://youtu.be/op78Dk8CjL4
 - Event spesial (Jazz Festival, Writers Festival, Spiritual Festival) perlu booking sebulan sebelumnya.
 - November bisa booking mendadak, pilihan lebih banyak, harga lebih ramah di kantong.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780924627221-16.jpg)
+![Tips Reservasi:](https://images.gobaligo.id/images/2026-06/1780924627221-16.jpg)
 
 ### **Peringatan Transportasi:**
 
@@ -329,4 +329,4 @@ https://youtu.be/op78Dk8CjL4
 
 **Paruh kedua tahun di Bali adalah metamorfosis bertahap dari cerah dan kering menjadi hijau dan lembap. Mau kamu pilih kemegahan musim kemarau atau ketenangan musim hujan, pulau ini akan menyambutmu dengan wajah paling tulus. Siap menyambut festival dan pemandangan di paruh kedua tahun ini?**
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780924641842-17.jpg)
+![Referensi Cepat](https://images.gobaligo.id/images/2026-06/1780924641842-17.jpg)

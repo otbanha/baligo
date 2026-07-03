@@ -20,7 +20,7 @@ _srcHash: e6558e46b4b332ba94c581fc8fcd69ae
 
 峇里島呢個絕美嘅旅遊天堂正迎嚟一波令人振奮嘅好消息。對於計劃喺2024年底至2025年初前往峇里島嘅旅客嚟講，呢個係個雙重驚喜！等我哋嚟一探究竟。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f85fa645aa1e3c8e6f8072438ebb869.png)
+![雙重驚喜 前進峇里島！](https://images.gobaligo.id/vocus/vocus_9f85fa645aa1e3c8e6f8072438ebb869.png)
 
 ## 增加航線，便利旅行
 
@@ -38,7 +38,7 @@ _srcHash: e6558e46b4b332ba94c581fc8fcd69ae
 
 對於嚟自呢啲國家嘅旅客嚟講，免簽政策將會大大簡化入境手續，慳返時間同埋費用，等大家可以更加輕鬆咁計劃去印尼或者峇里島旅行。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aed753c113ee78e8ec5aa2c8a186485b.png)
+![免簽政策，促進旅遊](https://images.gobaligo.id/vocus/vocus_aed753c113ee78e8ec5aa2c8a186485b.png)
 
 ## 雙重利好，共迎旅遊新高峰
 

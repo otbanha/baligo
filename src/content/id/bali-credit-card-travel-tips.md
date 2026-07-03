@@ -20,7 +20,7 @@ _srcHash: 1fe8c7703f945bc572573461b0aaf955
 ---
 Di tanah magis Bali, makin banyak turis internasional, jadi penerimaan kartu kredit juga makin luas. Sebagai traveler, kamu mungkin kepikiran mau pakai kartu kredit buat bayar-bayar. Tapi, pakai kartu kredit pas liburan di Bali ada untung ruginya. Yuk kita bahas bareng-bareng.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa29ee99c92f61f5ed2131d9230f0941.jpg)
+![Pakai kartu kredit di Bali gampang nggak sih? Worth it nggak](https://images.gobaligo.id/vocus/vocus_aa29ee99c92f61f5ed2131d9230f0941.jpg)
 
 ## **Keuntungan Pakai Kartu Kredit:**
 
@@ -29,7 +29,7 @@ Di tanah magis Bali, makin banyak turis internasional, jadi penerimaan kartu kre
 3. **Dana Darurat:** Pas traveling, kadang bisa kehabisan uang. Nah, kartu kredit bisa jadi sumber dana darurat sementara, bikin kamu selamat dari kesulitan.
 4. **Dapet Reward:** Beberapa kartu kredit kasih reward traveling atau cashback transaksi luar negeri. Artinya, kamu bisa dapet bonus tambahan atau hemat biaya pas liburan, makin seru deh.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d52b3db75ded9d47fc0971a9d571c00a.png)
+![Keuntungan Pakai Kartu Kredit:](https://images.gobaligo.id/vocus/vocus_d52b3db75ded9d47fc0971a9d571c00a.png)
 
 Pesan dan hemat, cek di sini:
 

@@ -16,7 +16,7 @@ lang: en
 _srcHash: 1f6b66f9749efbf860430c692f4872e8
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_94270edad192312ca18cd296ef31f4ae.jpg)
+![Romantic Dining on a Boat: The Koi River Floating Feast at K](https://images.gobaligo.id/vocus/vocus_94270edad192312ca18cd296ef31f4ae.jpg)
 
 ## Romance Amidst the Koi
 
@@ -26,13 +26,13 @@ This one-hour experience is perfect for couples celebrating special moments or s
 
 ## Exquisite Culinary Feast
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3648fd618b175b7daa976538684257e2.jpg)
+![Exquisite Culinary Feast](https://images.gobaligo.id/vocus/vocus_3648fd618b175b7daa976538684257e2.jpg)
 
 In such a special setting, Kamandalu has prepared a thoughtfully designed menu to satisfy every palate:
 
 **Regular Menu** offers a variety of choices:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eae8f33d1d9a12f0c82a4651c147dd3e.png)
+![Exquisite Culinary Feast](https://images.gobaligo.id/vocus/vocus_eae8f33d1d9a12f0c82a4651c147dd3e.png)
 
 - Appetizers like mini spiced lamb burgers with tomato ginger sauce
 - Balinese-style grilled fish satay and chicken satay with roasted peanut sauce

@@ -22,7 +22,7 @@ _srcHash: b147dd645e3b0c1d90d37e80a961de8c
 
 Komodo National Park (Taman Nasional Komodo, abbreviated as TNK) is a world-famous tourist destination, drawing numerous visitors with its unique ecosystem and rare Komodo dragons. However, TNK is set to temporarily close in 2025, sparking widespread attention and discussion. This article will delve into TNK's closure plan and its implications.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6e73ce35eea54f6a015517795af0e262.jpg)
+![Komodo Island to Close in 2025!](https://images.gobaligo.id/vocus/vocus_6e73ce35eea54f6a015517795af0e262.jpg)
 
 ### Background of Taman Nasional Komodo (TNK)
 
@@ -30,7 +30,7 @@ TNK is located near Flores Island in eastern Indonesia, encompassing several isl
 
 ### Conservation Significance of TNK
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d861a6d9787b36856d764f3323ea611f.jpg)
+![Conservation Significance of TNK](https://images.gobaligo.id/vocus/vocus_d861a6d9787b36856d764f3323ea611f.jpg)
 
 TNK is not only the world's only habitat for Komodo dragons but also home to many other endangered species. Protecting these species and their ecosystems is crucial for maintaining global biodiversity. Additionally, TNK provides significant opportunities for scientific research and education, helping to raise awareness about ecological conservation.
 
@@ -44,7 +44,7 @@ According to the Badan Pelaksana Otorita Labuan Bajo Flores (BPOLBF), TNK is sch
 
 ### Impact on Tourism
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c8c18bd4f6caa074ba8306237e5a1ef9.jpg)
+![Impact on Tourism](https://images.gobaligo.id/vocus/vocus_c8c18bd4f6caa074ba8306237e5a1ef9.jpg)
 
 The temporary closure of TNK is expected to have a significant impact on local tourism. Many local residents and businesses rely on tourism for their livelihoods, and the closure may lead to reduced income and fewer job opportunities. Inocentius Peni, Chairman of the DPRD in Manggarai Barat, stated that TNK's closure could plunge the local tourism industry into difficulty.
 
@@ -70,7 +70,7 @@ For visitors, TNK's closure plan may elicit a range of reactions. Some tourists 
 
 ### Long-term Outlook
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_71b7ece5eaa40640a9f4523b2e8783ea.jpg)
+![Long-term Outlook](https://images.gobaligo.id/vocus/vocus_71b7ece5eaa40640a9f4523b2e8783ea.jpg)
 
 The temporary closure of TNK is a significant ecological conservation measure, but it also lays the foundation for future sustainable tourism development. The ecological restoration during the closure period will help TNK welcome visitors again, showcasing a healthier and more stable ecosystem to the world. Governments and tourism stakeholders must work together to ensure a smooth process, creating more possibilities for future development.
 

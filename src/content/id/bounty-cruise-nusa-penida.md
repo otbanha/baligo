@@ -43,7 +43,7 @@ Tapi jujur, trip ini beda banget dari bayanganmu soal Nusa Penida.
 
 Ini lebih kayak gabungan 'kapal pesiar mewah + klub laut + taman bermain air', bukan trip yang seharian ngejar spot foto, kayak Kelingking Beach buat foto tebing T-Rex.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779116295637-paket-kapal-pesiar-nusa-lembongan-day-cruise.jpg)
+![【2026 Bali Bounty Cruise】Review One Day Trip ke Nusa Penida:](https://images.gobaligo.id/images/2026-05/1779116295637-paket-kapal-pesiar-nusa-lembongan-day-cruise.jpg)
 
 Setelah riset sendiri dan ngumpulin review asli dari internet, nih aku bahas tuntas:
 
@@ -87,7 +87,7 @@ Intinya, mereka jual pengalaman 'klub laut + taman air terapung', bukan eksplora
 
 **Jadi kalau kamu berharap foto aesthetic kayak di Kelingking, trip ini emang nggak cocok.**
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779116369907-seeingbali-bounty_catamaran_cruise-19.jpg)
+![Tapi Bounty Cruise sama sekali bukan itu](https://images.gobaligo.id/images/2026-05/1779116369907-seeingbali-bounty_catamaran_cruise-19.jpg)
 
 ## Sebenarnya isi kegiatannya apa aja?
 
@@ -140,7 +140,7 @@ Jadi kalau kamu gampang mabuk laut, nggak jago berenang, atau mudah panik, inget
 
 ## Cocok buat keluarga? Menurutku sih iya
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779116418270-bounty-cruise-wibit-nusa-penida.webp)
+![Cocok buat keluarga? Menurutku sih iya](https://images.gobaligo.id/images/2026-05/1779116418270-bounty-cruise-wibit-nusa-penida.webp)
 
 Dibanding grup Penida lain, Bounty Cruise menurutku **lebih ramah keluarga**, ada tiga alasan:
 
@@ -152,7 +152,7 @@ Dibanding grup Penida lain, Bounty Cruise menurutku **lebih ramah keluarga**, ad
 
 ## Tapi kekurangannya juga jelas, harus dipikirin dulu
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779116743335-fcaf7ed9-920c-463a-b2d0-336fbe75c193-1737435892472-3ebd596edf8f61fb7ab49bd4cc2bc9c2.webp)
+![Tapi kekurangannya juga jelas, harus dipikirin dulu](https://images.gobaligo.id/images/2026-05/1779116743335-fcaf7ed9-920c-463a-b2d0-336fbe75c193-1737435892472-3ebd596edf8f61fb7ab49bd4cc2bc9c2.webp)
 
 Udah bahas banyak kelebihannya, sekarang harus jujur soal kekurangannya juga.
 
@@ -211,7 +211,7 @@ Tapi kalau ini pertama kalinya kamu ke Nusa Penida, gue tetap saranin banget—*
 
 {{block:penidaguide}}
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779116461664-dji_20241120120125_0070_d.jpg.webp)
+![Saran terakhir: Anggap aja ini 'pengalaman liburan di laut'](https://images.gobaligo.id/images/2026-05/1779116461664-dji_20241120120125_0070_d.jpg.webp)
 
 [Harga Promo Bounty Cruise di Klook](https://mn-tz.com/re?campaign_id=137&marker=654252&p=4110&trs=519937&u=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F205637-bali-luxury-and-romantic-evening-dinner-cruise-with-entertainments%2F&product_type=linkswitcher&journey_id=CfEcXJoa7Qb2DkGYBqSLX&trace_id=Zzdcb8b4fbf46a43c0950b9df-654252&promo_kind=tp_other&page_url=https%3A%2F%2Fgobaligo.id%2Fblog%2Fbounty-cruise-nusa-penida%2F&install_type=partner)
 

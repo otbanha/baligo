@@ -17,7 +17,7 @@ lang: zh-cn
 _srcHash: a33e6f46bb67db97ecc619d69d4f5bc4
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_38647df609dcb467b362b277fb732075.jpg)
+![巴厘岛/南湾区Tanjung Benoa最棒的高性价比平价餐厅 Atlichnaya](https://images.gobaligo.id/vocus/vocus_38647df609dcb467b362b277fb732075.jpg)
 
 当您身处南湾区或在努沙杜瓦，绝对不能错过的是「Atlichnaya」这家令人赞叹的平价餐厅。这个隐藏在街角的宝藏，以其卓越的美味、友好的氛围和惊人的性价比而闻名于游客之间。是在南湾区/努沙杜瓦这一带值得推荐的美食餐厅.
 

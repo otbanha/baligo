@@ -55,7 +55,7 @@ Pilihan akomodasi di Eat Street, mulai dari villa mewah di gang tersembunyi, hot
 
 ## 🎨 Cross Paasha Bali Seminyak｜設計控 + 晚飛旅人首選
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778941822751-mixcollage-16-may-2026-09-29-pm-6151.jpg)
+![Cross Paasha Bali Seminyak｜設計控 + 晚飛旅人首選](https://images.gobaligo.id/images/2026-05/1778941822751-mixcollage-16-may-2026-09-29-pm-6151.jpg)
 
 Kalau kamu suka desain minimalis, estetik, dan sering kena masalah pesawat malam atau harus berangkat lebih awal, Cross Paasha mungkin salah satu pilihan paling贴心 di Seminyak.
 
@@ -73,7 +73,7 @@ Lokasinya juga nggak main-main, di depan hotel langsung ada jalan belanja dan ka
 
 ## 🌿 The Maya Seminyak Villas｜Tenang di Tengah Keramaian, Kolam Renang Pribadi Bernuansa Tradisional
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778942029825-mixcollage-16-may-2026-09-33-pm-8216.jpg)
+![The Maya Seminyak Villas｜Tenang di Tengah Keramaian, Kolam R](https://images.gobaligo.id/images/2026-05/1778942029825-mixcollage-16-may-2026-09-33-pm-8216.jpg)
 
 Di luar adalah kawasan paling ramai di Seminyak, tapi begitu masuk, rasanya dunia lain.
 
@@ -89,7 +89,7 @@ Kalau mau merasakan jiwa liburan tropis di Seminyak tapi nggak mau diganggu kera
 
 ## 🛍️ Seminyak Square Hotel & Villas｜Cocok buat yang males ribet, tinggal turun udah di mall
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778942196560-mixcollage-16-may-2026-09-36-pm-6015.jpg)
+![Seminyak Square Hotel & Villas｜Cocok buat yang males ribet, ](https://images.gobaligo.id/images/2026-05/1778942196560-mixcollage-16-may-2026-09-36-pm-6015.jpg)
 
 Jujur, 'lokasi' hotel ini yang jadi nilai jual utamanya — dia ada di lantai dua Seminyak Square, bawahnya ada restoran, supermarket, dan pusat perbelanjaan. Intinya, kamu gak perlu jalan jauh kalau males.
 
@@ -105,7 +105,7 @@ Cocok buat kamu yang prioritasnya fungsi, gak mau tiap hari panggil Grab cuma bu
 
 ## 🎭 IZE Seminyak｜Hotel desain paling kekinian di Seminyak, kolam renang langsung nyambung ke kamar
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778942433329-mixcollage-16-may-2026-09-38-pm-8985.jpg)
+![IZE Seminyak｜Hotel desain paling kekinian di Seminyak, kolam](https://images.gobaligo.id/images/2026-05/1778942433329-mixcollage-16-may-2026-09-38-pm-8985.jpg)
 
 IZE di Seminyak tuh punya gaya yang cukup mencolok — desainnya kuat, agak artistik, dan punya vibe anak muda yang trendi.
 
@@ -121,7 +121,7 @@ Kalau kamu mau nginep di Bali yang "agak spesial, fotogenik, tapi gak sampe leve
 
 ## 💑 eqUILIBRIA Seminyak｜Pilihan Utama Bulan Madu, Kolam Air Terjun + Pramusaji Pribadi
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778942610750-mixcollage-16-may-2026-09-42-pm-843.jpg)
+![eqUILIBRIA Seminyak｜Pilihan Utama Bulan Madu, Kolam Air Terj](https://images.gobaligo.id/images/2026-05/1778942610750-mixcollage-16-may-2026-09-42-pm-843.jpg)
 
 Hotel ini gak perlu dijelasin panjang lebar — ini salah satu Villa romantis dengan rating tertinggi di pusat Seminyak.
 
@@ -139,7 +139,7 @@ Kalau ini bulan madu, hari jadi, atau sekadar pengen kasih diri sendiri pengalam
 
 ## 🏡 The Club Villas Seminyak｜Dekat Eat Street, Worth It Banget buat Liburan Keluarga
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778942812881-mixcollage-16-may-2026-09-46-pm-7754.jpg)
+![The Club Villas Seminyak｜Dekat Eat Street, Worth It Banget b](https://images.gobaligo.id/images/2026-05/1778942812881-mixcollage-16-may-2026-09-46-pm-7754.jpg)
 
 Kalau kamu liburan bareng keluarga, apalagi bawa anak-anak, The Club Villas ini pilihan yang wajib banget kamu pertimbangkan di Seminyak.
 
@@ -155,7 +155,7 @@ Jujur aja, di pusat keramaian Seminyak, kombinasi harga dan privasi kayak gini t
 
 ## 🌺 RC Villas & Spa Seminyak｜Villa Legendaris dengan SPA & Tempat Tukar Uang Resmi
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778943147560-mixcollage-16-may-2026-09-50-pm-4148.jpg)
+![RC Villas & Spa Seminyak｜Villa Legendaris dengan SPA & Tempa](https://images.gobaligo.id/images/2026-05/1778943147560-mixcollage-16-may-2026-09-50-pm-4148.jpg)
 
 Villa ini jarang banget dibahas, tapi kalau kamu mau nginep dengan harga terjangkau, low profile, dan fasilitas lengkap, RC Villas adalah pilihan yang patut dicatat.
 
@@ -171,7 +171,7 @@ Yang bikin beda, tempat ini punya **layanan penukaran uang resmi** (RC Authorize
 
 ## 🌿 Jas Green Villas and Spa｜Villa kolam renang pribadi di Seminyak, harga segini susah banget dicari
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778943410925-mixcollage-16-may-2026-09-55-pm-1212.jpg)
+![Jas Green Villas and Spa｜Villa kolam renang pribadi di Semin](https://images.gobaligo.id/images/2026-05/1778943410925-mixcollage-16-may-2026-09-55-pm-1212.jpg)
 
 Menginap di Seminyak biasanya semalam bisa jutaan, tapi Jas Green Villas and Spa tersembunyi di gang kecil Eat Street, setiap unit punya kolam renang pribadi, harganya cuma setengah dari area yang sama. Begitu keluar gang, langsung sampai Eat Street — puluhan restoran bisa dijangkau dalam dua menit jalan kaki, dan Seminyak Square juga cuma sepuluh menit. Lokasi bagus, tenang, ada kolam renang — tiga hal ini hampir mustahil ada di harga segitu, tapi di sini terwujud.
 
@@ -206,13 +206,13 @@ Di Seminyak nggak kekurangan tempat nginep, yang susah itu nemuin **yang paling 
 
 Ada satu Hotel & Villa terkenal di kawasan prime Seminyak yang nggak masuk dalam pilihan kami yang 'turun/langkah kaki langsung ke eat street', yaitu Amadea Resort & Villas Seminyak [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=263687) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=981554&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6x8TFJMEkdZ2J49mluXOYhJgNDYw07rMZPGC02CrveH1xgS1Xf7GD5xIgfT29wiGAJ2LKgefT2BM1Epe9jd_r6tDFyAoWmMG46Yv1CkbGjYzGIJAc7LCDkekAI9MJxpl8C5jOnH_FeIqFmeMF0yWWXYzR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZBubGegZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmGOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQZC5RVB-Zn4eRLcBilhYYk5pKkQl0D63VKgVhrWxj1iYomNfsNxn-8TC8IuFoYmVoYuVmeMU4yQgOZNvFyuvb0hoQGigrmGIbpSu4QXWV_xSioYGBgZGpqZG5roGiZYWqZbGRromliZGZua6RkYmJkaWhhqLX82_9MTYyFoKEpQKjFqC8SGeni6GJYWpZoWlljlFBaYGjKcYpQzNjS0MjQwNjYyMLI31TCzSzIot8ootcrMiPBiD2IwszZxNTKJsuJhDg10E9f4r_v1mKu0gxRwS7qI4OejCW9Xe0_ZaIDlDmFzgntc5J-yNF9hH2sv2S67oOW2fxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEAMUgEbtMAgAA&masterhotelid_tracelogid=100025527-0a98e932-494267-2244291&detailFilters=17|1~17~1*31|981554~31~981554*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1022&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/7BTCdKFz). Di peta sih kelihatannya persis di eat street (Jl. Kayu Aya), tapi berdasarkan pengalaman kami nginep di sana, area hotelnya masih berjarak sekitar 200 meter lebih dari eat street.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778083135838-8efa40bf66fd7171bcb7ff3c20134382.jpeg)
+![Hidden Gem yang Terlewat](https://images.gobaligo.id/images/2026-05/1778083135838-8efa40bf66fd7171bcb7ff3c20134382.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778083136469-801f63752267ce23514c4b4041cd70b1.jpeg)
+![Hidden Gem yang Terlewat](https://images.gobaligo.id/images/2026-05/1778083136469-801f63752267ce23514c4b4041cd70b1.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778083137095-263687_15022009380025478201.jpeg)
+![Hidden Gem yang Terlewat](https://images.gobaligo.id/images/2026-05/1778083137095-263687_15022009380025478201.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778083137601-474594693_3927854494201340_7555717850509845703_n.jpg)
+![Hidden Gem yang Terlewat](https://images.gobaligo.id/images/2026-05/1778083137601-474594693_3927854494201340_7555717850509845703_n.jpg)
 
 ## Peta Lokasi
 

@@ -31,7 +31,7 @@ _srcHash: 09dd0461d024c6cbe8485e55af43e551
 
 From the morning light over Tegallalang Rice Terraces to the sleepy yawns of civet cats in coffee plantations; from seeking shelter from a downpour at a fire dance ceremony to haggling over rattan bag prices at the market... This 24-hour condensed Ubud experience will make you forget the clichés of 'vacation' and instead feel like you've stepped into a living ethnographic documentary of Southeast Asia.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d693c25162de8db5b286a47a13d6fad7.jpg)
+![Ubud Day Trip: Civet Coffee Experience × Stunning Rice Terra](https://images.gobaligo.id/vocus/vocus_d693c25162de8db5b286a47a13d6fad7.jpg)
 
 ### **Quick Tips Before You Go:**
 
@@ -48,7 +48,7 @@ What is GoBike/GrabBike? Check out [Essential for Short Trips! Hailing a Motorcy
 
 Nestled amidst tropical jungles, these thousand-year-old terraced rice fields with their undulating emerald waves are truly postcard-perfect! Scattered throughout are Instagram-worthy installations like the **bamboo swing**, **giant bird's nest**, and **hanging hammock** — every shot is magazine cover material!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7a5129e82b58894bf1dc75d00e860ce4.jpg)
+![First Stop: Tegallalang Rice Terraces](https://images.gobaligo.id/vocus/vocus_7a5129e82b58894bf1dc75d00e860ce4.jpg)
 
 **▎ Insider Tips**
 
@@ -65,7 +65,7 @@ Nestled amidst tropical jungles, these thousand-year-old terraced rice fields wi
 
 **▎ The Magical Experience of Kopi Luwak**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_66cb0b79b7f354b35295114a25cbfcc2.jpg)
+![Second Stop: Petulu Coffee Plantation](https://images.gobaligo.id/vocus/vocus_66cb0b79b7f354b35295114a25cbfcc2.jpg)
 
 No trip to Bali is complete without paying homage to the legendary "Hermès of coffee" — Kopi Luwak (civet coffee)! This organic plantation hidden in Ubud's hills takes you on a journey from coffee trees to the aromatic brew in your cup.
 
@@ -116,7 +116,7 @@ If Tegenungan is the Instagram star and Tibumana is the artsy intellectual, then
 
 ## **Grand finale: Ubud shopping guide for souvenirs**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d5d65f40169a93df954cecfc9b9c6207.jpg)
+![Grand finale: Ubud shopping guide for souvenirs](https://images.gobaligo.id/vocus/vocus_d5d65f40169a93df954cecfc9b9c6207.jpg)
 
 **▎Heavenly map for handmade enthusiasts**
 
@@ -145,7 +145,7 @@ After sightseeing, it's time to unleash your shopping spirit! Ubud is essentiall
 
 When hundreds of bare-chested dancers chant "Cak! Cak! Cak!" around the fire, it feels like stepping into the mythical battlefield of the Mahabharata — this is undoubtedly Bali's most awe-inspiring traditional art experience!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_848a0f2d97a27098f971b06f3c5f6ecb.jpg)
+![Fourth Stop: Kecak Fire Dance](https://images.gobaligo.id/vocus/vocus_848a0f2d97a27098f971b06f3c5f6ecb.jpg)
 
 **▎Performance Highlights Explained**
 
@@ -183,7 +183,7 @@ On the way back, catching a glimpse of the Bali sunset in the distance, I realiz
 
 Did you find Chen Cheng's itinerary exciting? Start planning your own Bali free-and-easy trip now! We also welcome everyone to share your itineraries in our community!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Epilogue: The Magic and Reality of 24 Hours in Ubud](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Click here to explore more amazing Bali travel stories
 

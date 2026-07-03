@@ -83,12 +83,12 @@ Provided by Lin Xiaozhao
 
 During our stay in Ubud, we checked into Rijasa Agung Resort, nestled along the Ayung River. Every morning, we woke up to the soothing sound of flowing water, which was incredibly relaxing. The temperature here was just right, and our family room came with a private pool, garden, and a bale (relaxation pavilion). The space was so vast—easily over 300 square meters—that it offered incredible value for money, leaving our whole family thoroughly satisfied.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780834357439-510412090.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780834357871-510412091.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780834358323-510412149.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780834358773-510412195.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780834359359-510412197.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780834359739-510412214.jpg)
+![Rijasa Agung Resort and Villas – The Perfect Blend of Tranqu](https://images.gobaligo.id/images/2026-06/1780834357439-510412090.jpg)
+![Rijasa Agung Resort and Villas – The Perfect Blend of Tranqu](https://images.gobaligo.id/images/2026-06/1780834357871-510412091.jpg)
+![Rijasa Agung Resort and Villas – The Perfect Blend of Tranqu](https://images.gobaligo.id/images/2026-06/1780834358323-510412149.jpg)
+![Rijasa Agung Resort and Villas – The Perfect Blend of Tranqu](https://images.gobaligo.id/images/2026-06/1780834358773-510412195.jpg)
+![Rijasa Agung Resort and Villas – The Perfect Blend of Tranqu](https://images.gobaligo.id/images/2026-06/1780834359359-510412197.jpg)
+![Rijasa Agung Resort and Villas – The Perfect Blend of Tranqu](https://images.gobaligo.id/images/2026-06/1780834359739-510412214.jpg)
 
 > ▶ Check Rijasa Agung Resort and Villas rates & availability: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1744536&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/c79DvepT)
 

@@ -35,7 +35,7 @@ _srcHash: de3eafb7eef3d46985774638ed3c8637
 
 Puppy Yoga di Bali bukan kelas yoga kaku biasa, tapi **pengalaman seru yang lebih ke 'main-main, yoga cuma bonus'**. Di sini, matras yoga jadi playground, anjing kecil bebas lalu lalang, jilat muka lo, gigit celana yoga, bahkan merangkak di bawah lo pas pose downward dog. Inti kelas ini simpel banget: **lepaskan obsesi 'pose sempurna', buka tangan dan peluk energi puppy yang kacau tapi gemas**. 
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781161790095-mixcollage-11-jun-2026-01-46-pm-4950.jpg)
+![【Gemesss Banget Sampai Meleleh】Puppy Yoga Panduan Lengkap: G](https://images.gobaligo.id/images/2026-06/1781161790095-mixcollage-11-jun-2026-01-46-pm-4950.jpg)
 
 ## 🐕 Waktu Main Itu Bintang Utama: Sesi Bermain di Puppy Yoga (Durasi Sekitar 25-30 Menit)
 
@@ -58,7 +58,7 @@ Beda sama kelas yoga biasa yang minta hening & fokus, Puppy Yoga sengaja diranca
 
 ## 🐶 Kelas Ini Cocok Buat Siapa?
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781162169791-mixcollage-11-jun-2026-01-47-pm-4715.jpg)
+![Kelas Ini Cocok Buat Siapa?](https://images.gobaligo.id/images/2026-06/1781162169791-mixcollage-11-jun-2026-01-47-pm-4715.jpg)
 
 - **Semua umur & level yoga** – Bahkan yang belum pernah ikut yoga pun oke. Gerakannya basic banget, intinya senang-senang. 
 - **Traveler yang pengen lepas stres & dapet healing** – Kesederhanaan & semangat anjing bisa bikin lo lupa masalah. 
@@ -78,7 +78,7 @@ https://www.instagram.com/reel/DLOYzxLSP47/?utm_source=ig_web_button_share_sheet
 
 Puppy Yoga di Bali kebanyakan kerja sama dengan organisasi penyelamat hewan lokal. Anak anjing yang ikut kelas adalah mantan gelandangan yang diselamatkan. Lewat interaksi dan main bareng manusia, mereka belajar percaya dan beradaptasi, sehingga peluang diadopsi makin besar. Sebagian dari biaya kelas yang kamu bayar langsung dipakai buat vaksin, makanan, dan perawatan medis mereka. **Ini terapi dua arah: kamu dapat kebahagiaan, mereka dapat harapan baru.**
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781162218450-8aa81110ade716a674f839158ffd5698.jpg)
+![Makna Manis di Baliknya](https://images.gobaligo.id/images/2026-06/1781162218450-8aa81110ade716a674f839158ffd5698.jpg)
 
 ## 📍 Pilihan Lokasi
 

@@ -19,7 +19,7 @@ _srcHash: 74eb52e639bee9fe31d3e33a2e80f9dd
 
 ## 《Travel + Leisure》2025最佳岛屿排行揭晓
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0fb49de5bd304997a85ec98c2fd49fbf.jpg)
+![《Travel + Leisure》2025最佳岛屿排行揭晓](https://images.gobaligo.id/vocus/vocus_0fb49de5bd304997a85ec98c2fd49fbf.jpg)
 
 在《Travel + Leisure》2025年「全球最佳岛屿」（World's Best Islands）票选中，巴厘岛荣登第3名，再次展现其在国际旅游舞台的巨大吸引力。这是巴厘岛连续第十一年跻身榜单，并在数十万位读者票选中脱颖而出，显示出它的文化魅力与自然之美仍深深打动着世界各地的旅人。
 
@@ -27,7 +27,7 @@ _srcHash: 74eb52e639bee9fe31d3e33a2e80f9dd
 
 ## 巴厘岛为何能吸引全球旅人？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_10ace788c917c861a18f1195469f8fe9.jpg)
+![巴厘岛为何能吸引全球旅人？](https://images.gobaligo.id/vocus/vocus_10ace788c917c861a18f1195469f8fe9.jpg)
 
 巴厘岛不仅是印尼最受欢迎的旅游地之一，更是一座集自然风光与灵性文化于一身的神圣之岛。从拥有超过10,000座寺庙的宗教传统，到被联合国教科文组织认可的梯田与火山景观，每一处都蕴含着独特的故事与能量。
 
@@ -51,7 +51,7 @@ _srcHash: 74eb52e639bee9fe31d3e33a2e80f9dd
 - **阿贡火山（Mount Agung）**：攀登这座神圣火山是挑战者的梦想，也是一种灵性体验。
 - **离岛探索（如佩尼达岛与蓝梦岛/金银岛）**：短程船行即可抵达的梦幻小岛，拥有透蓝海水、珊瑚礁与纯净沙滩，是浮潜、跳岛与放空的绝佳去处。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_895231e33f59069691018914869b9500.jpg)
+![巴厘岛的多面向风貌](https://images.gobaligo.id/vocus/vocus_895231e33f59069691018914869b9500.jpg)
 
 **快速参考:**
 
@@ -73,7 +73,7 @@ _srcHash: 74eb52e639bee9fe31d3e33a2e80f9dd
 
 这一切融合成巴厘岛特有的「和谐之道」（Tri Hita Karana），将神、人与自然完美结合。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1abbcbb94700deb2371135ae469477ed.jpg)
+![巴厘岛文化特色](https://images.gobaligo.id/vocus/vocus_1abbcbb94700deb2371135ae469477ed.jpg)
 
 ---
 
@@ -94,7 +94,7 @@ _srcHash: 74eb52e639bee9fe31d3e33a2e80f9dd
 
 巴厘岛都能提供丰富又多样化的旅游体验。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b012e7f5a1ce494fdea82cf9b35272da.png)
+![巴厘岛适合什么样的旅人？](https://images.gobaligo.id/vocus/vocus_b012e7f5a1ce494fdea82cf9b35272da.png)
 
 **快速参考:**
 
@@ -107,7 +107,7 @@ _srcHash: 74eb52e639bee9fe31d3e33a2e80f9dd
 
 ### 常见问题解答（FAQ）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_640971bfbf7d64d46d8e26288d18de85.jpg)
+![常见问题解答（FAQ）](https://images.gobaligo.id/vocus/vocus_640971bfbf7d64d46d8e26288d18de85.jpg)
 
 巴厘岛为何能持续受到全球旅人喜爱？
 
@@ -123,4 +123,4 @@ _srcHash: 74eb52e639bee9fe31d3e33a2e80f9dd
 
 全部的岛屿排名
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_04de3906f722244206c14d27f61baa60.jpg)
+![常见问题解答（FAQ）](https://images.gobaligo.id/vocus/vocus_04de3906f722244206c14d27f61baa60.jpg)

@@ -21,7 +21,7 @@ lang: en
 _srcHash: cf55c43f26cf9ed4897138539a805b43
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_53ad30b22fb7ff7092abe536a294b524.jpg)
+![What can you do staying in one place in Bali for four days? ](https://images.gobaligo.id/vocus/vocus_53ad30b22fb7ff7092abe536a294b524.jpg)
 
 Ubud is an unmissable spot for anyone visiting Bali. This YouTube influencer [[Jits into the Sunset](https://www.youtube.com/@JitsIntoTheSunset)] shares videos online introducing this cultural hub.
 

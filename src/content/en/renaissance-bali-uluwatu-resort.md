@@ -35,27 +35,27 @@ _srcHash: fc02c06322b9688735a487f310d2c9b0
 
 Situated at the southern end of Bali, the Renaissance Bali Uluwatu Resort & Spa, crafted by Marriott International, is a five-star resort that opened in 2019. Located next to the renowned Uluwatu Beach, it boasts unobstructed ocean views. The resort integrates local Balinese elements into its modern architecture, offering guests a high-quality stay infused with local culture. It's perfect for couples seeking tranquility and relaxation, as well as families traveling with children.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417812568-1.jpeg)
+![Bali Uluwatu's Boutique Luxury Resort Paradise](https://images.gobaligo.id/images/2026-03/1774417812568-1.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417814467-10.jpg)
+![Bali Uluwatu's Boutique Luxury Resort Paradise](https://images.gobaligo.id/images/2026-03/1774417814467-10.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417815064-2.jpeg)
+![Bali Uluwatu's Boutique Luxury Resort Paradise](https://images.gobaligo.id/images/2026-03/1774417815064-2.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417815490-3.jpeg)
+![Bali Uluwatu's Boutique Luxury Resort Paradise](https://images.gobaligo.id/images/2026-03/1774417815490-3.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417816135-4.jpeg)
+![Bali Uluwatu's Boutique Luxury Resort Paradise](https://images.gobaligo.id/images/2026-03/1774417816135-4.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417816828-5.jpeg)
+![Bali Uluwatu's Boutique Luxury Resort Paradise](https://images.gobaligo.id/images/2026-03/1774417816828-5.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417817498-6.jpeg)
+![Bali Uluwatu's Boutique Luxury Resort Paradise](https://images.gobaligo.id/images/2026-03/1774417817498-6.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417818132-6.jpg)
+![Bali Uluwatu's Boutique Luxury Resort Paradise](https://images.gobaligo.id/images/2026-03/1774417818132-6.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417818758-7.jpg)
+![Bali Uluwatu's Boutique Luxury Resort Paradise](https://images.gobaligo.id/images/2026-03/1774417818758-7.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417819462-8.jpg)
+![Bali Uluwatu's Boutique Luxury Resort Paradise](https://images.gobaligo.id/images/2026-03/1774417819462-8.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417819885-9.jpg)
+![Bali Uluwatu's Boutique Luxury Resort Paradise](https://images.gobaligo.id/images/2026-03/1774417819885-9.jpg)
 
 > ▶[Check Agoda's Special Rates for Your Dates](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2562742)
 
@@ -63,17 +63,17 @@ Situated at the southern end of Bali, the Renaissance Bali Uluwatu Resort & Spa,
 
 Whether you're traveling as a couple, with family, or gathering with friends, the resort offers a wide variety of accommodation options:
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417612749-2025-10-03.webp)
+![Comfortable and Elegant Accommodations to Meet Every Travele](https://images.gobaligo.id/images/2026-03/1774417612749-2025-10-03.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417613137-433469507.jpg)
+![Comfortable and Elegant Accommodations to Meet Every Travele](https://images.gobaligo.id/images/2026-03/1774417613137-433469507.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417613534-433469726.jpg)
+![Comfortable and Elegant Accommodations to Meet Every Travele](https://images.gobaligo.id/images/2026-03/1774417613534-433469726.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417613914-571584367.jpg)
+![Comfortable and Elegant Accommodations to Meet Every Travele](https://images.gobaligo.id/images/2026-03/1774417613914-571584367.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417614376-643163525.jpg)
+![Comfortable and Elegant Accommodations to Meet Every Travele](https://images.gobaligo.id/images/2026-03/1774417614376-643163525.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417615277-643163528.jpg)
+![Comfortable and Elegant Accommodations to Meet Every Travele](https://images.gobaligo.id/images/2026-03/1774417615277-643163528.jpg)
 
 - Deluxe Ocean View Rooms: Enjoy panoramic views of the Indian Ocean
 - Private Pool Suites: Experience a secluded and luxurious retreat
@@ -87,15 +87,15 @@ Each room features a private balcony, rain shower bathroom, and high-quality ame
 
 One of the highlights of Renaissance Bali Uluwatu Resort & Spa tailored for family travelers is its unique two-level Kids Club. This fully-equipped space not only allows children to play to their heart's content but also gives parents peace of mind to enjoy their own time.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417905717-k0.jpg)
+![Two-Story Kids' Club: A Dream Playground for Children](https://images.gobaligo.id/images/2026-03/1774417905717-k0.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417907531-k1.jpg)
+![Two-Story Kids' Club: A Dream Playground for Children](https://images.gobaligo.id/images/2026-03/1774417907531-k1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417908694-k2.jpg)
+![Two-Story Kids' Club: A Dream Playground for Children](https://images.gobaligo.id/images/2026-03/1774417908694-k2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417910996-k3.jpg)
+![Two-Story Kids' Club: A Dream Playground for Children](https://images.gobaligo.id/images/2026-03/1774417910996-k3.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417911909-k5.jpg)
+![Two-Story Kids' Club: A Dream Playground for Children](https://images.gobaligo.id/images/2026-03/1774417911909-k5.jpg)
 
 ### Key features include:
 
@@ -123,7 +123,7 @@ The resort's restaurants are equally impressive:
 
 ## Relax Your Body and Mind at The Spa at Renaissance
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff8d34580de1fbcba4590926881018fa.jpg)
+![Relax Your Body and Mind at The Spa at Renaissance](https://images.gobaligo.id/vocus/vocus_ff8d34580de1fbcba4590926881018fa.jpg)
 
 The Spa at the resort offers a variety of traditional Balinese massages, aromatherapy treatments, and facial care. You can choose individual treatments or a private couple's suite, enjoying ultimate relaxation with the sea breeze.
 
@@ -137,7 +137,7 @@ Just a 30-minute drive from Bali International Airport, we've compiled 50 popula
 
 ## Check Agoda's Special Rates for Your Dates
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_983ab3be12c708f9b8ec24c4b9670c3f.jpg)
+![Check Agoda's Special Rates for Your Dates](https://images.gobaligo.id/vocus/vocus_983ab3be12c708f9b8ec24c4b9670c3f.jpg)
 
 > ▶ Click [here](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2562742)
 

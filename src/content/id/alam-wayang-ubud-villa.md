@@ -29,9 +29,9 @@ _srcHash: 5efe690f640d20d26539cec35d32602a
 
 Saat kawasan Ubud yang ramai bertemu dengan desa Panestanan yang tenang, muncullah surga liburan yang memadukan arsitektur tradisional Bali dengan desain mewah modern—**Alam Wayang Ubud**, siap kasih kamu pengalaman liburan yang beda banget! 🌴
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3316d15192525f4ad4fe4977ff2f16cf.jpg)
+![Hidden Gem di Ubud: Alam Wayang Ubud](https://images.gobaligo.id/vocus/vocus_3316d15192525f4ad4fe4977ff2f16cf.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4891668523695164eaf2c1c85bf74cd6.jpg)
+![Hidden Gem di Ubud: Alam Wayang Ubud](https://images.gobaligo.id/vocus/vocus_4891668523695164eaf2c1c85bf74cd6.jpg)
 
 ### **Lokasi Kece: Keseimbangan Sempurna Antara Kemudahan dan Ketenangan**
 
@@ -55,11 +55,11 @@ Alam Wayang Ubud punya 13 kamar yang kece dan beberapa pilihan private pool vill
 
 👨‍👩‍👧‍👦 **Pilihan 1-3 kamar tidur**, cocok buat bulan madu, liburan keluarga, atau kumpul-kumpul bareng teman
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c23482890a130c2b37f90bf4e9188c60.jpg)
+![Pengalaman Menginap Mewah: Perpaduan Tradisi dan Modern](https://images.gobaligo.id/vocus/vocus_c23482890a130c2b37f90bf4e9188c60.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6d3aa95c0dc16ea32654441e180c5ab9.jpg)
+![Pengalaman Menginap Mewah: Perpaduan Tradisi dan Modern](https://images.gobaligo.id/vocus/vocus_6d3aa95c0dc16ea32654441e180c5ab9.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e2957d7a762e86206096a0cc38a6e244.jpg)
+![Pengalaman Menginap Mewah: Perpaduan Tradisi dan Modern](https://images.gobaligo.id/vocus/vocus_e2957d7a762e86206096a0cc38a6e244.jpg)
 
 ### **Fasilitas Premium: Tenggelam dalam Ketenangan dan Kemewahan**
 
@@ -69,7 +69,7 @@ Alam Wayang Ubud menyediakan fasilitas lengkap dan elegan buat para traveler, bi
 
 🌿 Dikelilingi taman tropis, bikin rileks jiwa raga 💁‍♀️ Layanan 24 jam yang siap bantu apa pun kebutuhan kamu 🍳 Restoran menyajikan masakan internasional, termasuk pilihan vegetarian
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0f706426a233006736bcac38239011fe.jpg)
+![Fasilitas Premium: Tenggelam dalam Ketenangan dan Kemewahan](https://images.gobaligo.id/vocus/vocus_0f706426a233006736bcac38239011fe.jpg)
 
 ### **Layanan Eksklusif: Bikin Liburanmu Bebas Repot**
 
@@ -87,9 +87,9 @@ Alam Wayang Ubud menyediakan fasilitas lengkap dan elegan buat para traveler, bi
 
 💆‍♀️ **Waktu Santai di Kolam Renang Pribadi**: Nikmati liburan maksimal di ruang eksklusifmu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_301f6bcb747fa852085f316a425dc613.jpg)
+![Pengalaman Unik: Rasakan Jiwa Ubud](https://images.gobaligo.id/vocus/vocus_301f6bcb747fa852085f316a425dc613.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_44fedf3d6bf672d36ccd829ce3e7aeba.jpg)
+![Pengalaman Unik: Rasakan Jiwa Ubud](https://images.gobaligo.id/vocus/vocus_44fedf3d6bf672d36ccd829ce3e7aeba.jpg)
 
 ***
 
@@ -99,19 +99,19 @@ Baik kamu pasangan bulan madu, keluarga, atau traveler yang ingin hening, **Alam
 
 ## Review Asli dari Tamu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0312e9bdd2ee4c44fa549c11049af57f.jpg)
+![Review Asli dari Tamu](https://images.gobaligo.id/vocus/vocus_0312e9bdd2ee4c44fa549c11049af57f.jpg)
 
 Ini benar-benar pengalaman menginap kayak masuk ke hutan rahasia! 🌿 Kami menghabiskan liburan yang super menyenangkan di sini, bikin rileks banget dan nggak terlupakan. Selain lingkungannya yang asri, sarapannya juga bikin melongo — semua masakan dibuat fresh, bahan-bahannya segar, rasanya juara, setiap hari jadi awal yang sempurna. 🌞 Terus, stafnya ramah dan antusias banget, bikin liburan makin berkesan. Mereka selalu senyum dan siap bantu, bikin hati hangat. Penginapan kayak gini bikin betah, pasti bakal balik lagi! ❤️ Rekomendasi buat semua traveler yang cari ketenangan dan keindahan!
 
 ***
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e4574d6fc251ce695b113edbf99d10d6.jpg)
+![Review Asli dari Tamu](https://images.gobaligo.id/vocus/vocus_e4574d6fc251ce695b113edbf99d10d6.jpg)
 
 Hotel ini worth it banget buat diinapin! Desain kamarnya penuh nuansa alam, apalagi kamar mandi outdoor-nya, kayak menyatu sama lingkungan sekitar, bikin sensasi yang unik banget. 🌳 Meskipun pasti ada sedikit serangga kecil, itu bagian dari pengalaman alam, nambah petualangan seru. ✨ Secara keseluruhan, dekorasi menggabungkan elemen alam dan budaya lokal, bikin setiap momen terasa fresh dan menarik. Kalau kamu mau coba pengalaman menginap yang beda, ini pilihan yang wajib dicoba!
 
 ***
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf27d0f3004d179e20020285610e5d8e.jpg)
+![Review Asli dari Tamu](https://images.gobaligo.id/vocus/vocus_bf27d0f3004d179e20020285610e5d8e.jpg)
 
 Kami nginep dua malam di hotel ini, pengalamannya di luar dugaan! Kamarnya punya halaman pribadi, privasinya oke banget, apalagi toilet semi-outdoor-nya, bikin kita bisa nikmatin alam sambil pakai fasilitas modern. Awalnya khawatir banyak serangga, tapi pas nginep ternyata nggak perlu khawatir! Cuma lihat beberapa serangga kecil, kebersihan kamarnya dijaga rapi, bikin betah dan nyaman. 💡
 
@@ -121,7 +121,7 @@ Lokasi hotelnya juga strategis, meskipun harus ke titik jemput dulu baru naik mo
 
 ## Lebih Banyak Review Villa di Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a30b2c12d987f7f2f04e8d47f429fb9d.png)
+![Lebih Banyak Review Villa di Ubud](https://images.gobaligo.id/vocus/vocus_a30b2c12d987f7f2f04e8d47f429fb9d.png)
 
 Mau nikmatin liburan impian? 🌴 Villa kolam renang di Ubud bakal kasih kamu kemewahan dan relaksasi maksimal! Kolam renang pribadi, pemandangan cantik, fasilitas top, semuanya buat liburanmu sempurna. Klik [di sini](/blog/ubud-villa-pool-guide/) sekarang, eksplor lebih banyak villa kolam renang di Ubud yang kami rekomendasikan, dan mulai petualangan liburan spesialmu! ✨
 

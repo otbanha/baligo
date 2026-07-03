@@ -23,7 +23,7 @@ _srcHash: eb3828f87e95af9954c37b1dc5540211
 
 这次的巴厘岛之旅虽然只有短短的5天4夜，但真的觉得扣除前后两天的移动时间后，玩的时间还是太少了！这趟行程比较偏累，并不是那种轻松度假的旅行。巴厘岛的交通状况比较容易塞车，所以建议大家尽量早起，这样可以走更多的行程。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6f99182573787e91e20458dab3da02a4.jpg)
+![巴厘岛5天4夜自由行详细攻略](https://images.gobaligo.id/vocus/vocus_6f99182573787e91e20458dab3da02a4.jpg)
 
 ## 行前准备
 
@@ -62,25 +62,25 @@ _srcHash: eb3828f87e95af9954c37b1dc5540211
 - 地点：Soulshine Bali
 - 亮点：这家酒店的泳池非常美丽，而且设有滑水道，服务也很好。房价包含早餐，非常适合花较长时间待在酒店的旅客，性价比高。每晚约USD$258。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173308296-409519257.jpg)
+![5月30日](https://images.gobaligo.id/images/2026-04/1776173308296-409519257.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173309100-416032895.jpg)
+![5月30日](https://images.gobaligo.id/images/2026-04/1776173309100-416032895.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173309680-480127600.jpg)
+![5月30日](https://images.gobaligo.id/images/2026-04/1776173309680-480127600.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173310013-148375661.jpg)
+![5月30日](https://images.gobaligo.id/images/2026-04/1776173310013-148375661.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173310447-201679127.jpg)
+![5月30日](https://images.gobaligo.id/images/2026-04/1776173310447-201679127.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173310862-201780130.jpg)
+![5月30日](https://images.gobaligo.id/images/2026-04/1776173310862-201780130.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173311422-394535033.jpg)
+![5月30日](https://images.gobaligo.id/images/2026-04/1776173311422-394535033.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173311942-409156505.jpg)
+![5月30日](https://images.gobaligo.id/images/2026-04/1776173311942-409156505.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173312600-409516149.jpg)
+![5月30日](https://images.gobaligo.id/images/2026-04/1776173312600-409516149.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173313011-409516170.jpg)
+![5月30日](https://images.gobaligo.id/images/2026-04/1776173313011-409516170.jpg)
 
 > [Soulshine Bali 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2978867) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=9203399&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/djqgcgo8)
 
@@ -182,25 +182,25 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 - 地点：Villa DeDayuh Seminyak
 - 亮点：这家别墅拥有厨具、泳池和浴缸，非常适合长时间在酒店度假的旅客。服务超级好，通过WhatsApp可以获得专人详细回答。价格大概每晚USD$130。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173616565-250438251.jpg)
+![6月1日](https://images.gobaligo.id/images/2026-04/1776173616565-250438251.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173617029-250437832.jpg)
+![6月1日](https://images.gobaligo.id/images/2026-04/1776173617029-250437832.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173617376-250437834.jpg)
+![6月1日](https://images.gobaligo.id/images/2026-04/1776173617376-250437834.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173617786-250437952.jpg)
+![6月1日](https://images.gobaligo.id/images/2026-04/1776173617786-250437952.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173618342-250438170.jpg)
+![6月1日](https://images.gobaligo.id/images/2026-04/1776173618342-250438170.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173618739-250438175.jpg)
+![6月1日](https://images.gobaligo.id/images/2026-04/1776173618739-250438175.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173619217-250438213.jpg)
+![6月1日](https://images.gobaligo.id/images/2026-04/1776173619217-250438213.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173619626-250438229.jpg)
+![6月1日](https://images.gobaligo.id/images/2026-04/1776173619626-250438229.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173620242-250438241.jpg)
+![6月1日](https://images.gobaligo.id/images/2026-04/1776173620242-250438241.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173620753-250438245.jpg)
+![6月1日](https://images.gobaligo.id/images/2026-04/1776173620753-250438245.jpg)
 
 > [Villa DeDayuh Seminyak 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11088131)
 
@@ -301,7 +301,7 @@ https://youtu.be/cbACc0Ey-A4
 
 **4. Finn Beach Club**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6a021c159470db2679ed81ed74fe2715.jpg)
+![6月2日](https://images.gobaligo.id/vocus/vocus_6a021c159470db2679ed81ed74fe2715.jpg)
 
 - 时间：17:00左右开始有座位
 - 建议：好的座位需要提前预定并付款，西方人居多有泳池、DJ下面就是海滩，安检很严格，如果直接进去没点商品去玩是免费的哟！可以早点去，有餐点也可以看夕阳。这家海滩俱乐部营业至午夜12点，是放松和享受晚间氛围的好地方。

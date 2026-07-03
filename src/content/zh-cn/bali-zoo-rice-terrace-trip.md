@@ -27,13 +27,13 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 这次是我人生中第一次造访巴厘岛，虽然只有短短四天，但却是一趟充满惊喜与感动的旅程。特别感谢去年九月在网络上提问时，许多前辈提供的宝贵建议，让这次的行程安排更加顺利。为了回馈大家的帮助，我也来分享一下这次旅行的详细心得与推荐，希望能为未来计划前往巴厘岛的朋友提供一些参考。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8e1544abfb771aab905ac4e995e041bd.jpg)
+![旅行日期：2025/2/6-2/9](https://images.gobaligo.id/vocus/vocus_8e1544abfb771aab905ac4e995e041bd.jpg)
 
 ---
 
 ## 1. **Mara River Safari Lodge：与动物共眠的独特体验**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b29252ee62cf7e762ff1f447761b8fa7.jpg)
+![1. Mara River Safari Lodge：与动物共眠的独特体验](https://images.gobaligo.id/vocus/vocus_b29252ee62cf7e762ff1f447761b8fa7.jpg)
 
 这次旅行中，7岁的孩子最喜欢的就是**Mara River Safari Lodge**。这是一家位于动物园内的度假村，住在这里不仅方便，还能近距离接触各种动物。每天早上，我们一边享用早餐，一边透过玻璃窗欣赏外面的狮子，这种体验非常特别。狮子们似乎已经习惯了游客的目光，总是定点摆出各种姿势，仿佛在为我们“摆拍”，孩子看得目不转睛，兴奋不已。
 
@@ -49,7 +49,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 ## 2. **水神庙：宁静致远的灵性之地**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bbe079ae357378ab17d4b8d0b2fcadd3.jpg)
+![2. 水神庙：宁静致远的灵性之地](https://images.gobaligo.id/vocus/vocus_bbe079ae357378ab17d4b8d0b2fcadd3.jpg)
 
 对于70岁的长辈来说，**水神庙（Ulun Danu Beratan Temple）**是最让他们感到放松的地方。这里的环境非常幽静，周围被群山环绕，湖面平静如镜，微风轻拂，让人感到心旷神怡。我们在这里慢慢散步，喝着咖啡，享受着大自然的宁静与美好。山岚缭绕的景色让人仿佛置身于仙境，长辈们特别喜欢这种远离喧嚣的氛围，觉得这里是一个可以让人彻底放松心灵的地方。
 
@@ -59,7 +59,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 ## 3. **海神庙：壮丽的海蚀奇观**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e939c789a7f931dc80650833c7e66e7c.jpg)
+![3. 海神庙：壮丽的海蚀奇观](https://images.gobaligo.id/vocus/vocus_e939c789a7f931dc80650833c7e66e7c.jpg)
 
 **海神庙（Tanah Lot）**是巴厘岛的标志性景点之一，这里的海蚀门和海蚀平台非常壮观，完全符合我们对巴厘岛的想象。虽然海边的阳光有些炙热，但看着海浪拍打岩石的场景，还是让人感到无比震撼。建议来这里的朋友可以带上帽子或遮阳伞，并选择在傍晚时分造访，既能避开烈日，还能欣赏到美丽的日落。
 
@@ -71,7 +71,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 ## 4. **梯田荡秋千：老少咸宜的放电活动**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8dd0485bc0845aba22d505edb90a5413.jpg)
+![4. 梯田荡秋千：老少咸宜的放电活动](https://images.gobaligo.id/vocus/vocus_8dd0485bc0845aba22d505edb90a5413.jpg)
 
 巴厘岛的梯田景观非常有名，我们选择了一个有荡秋千的梯田景点，这里不仅适合拍照，还能让孩子和老人一起玩乐。孩子们在梯田间穿梭，上上下下地奔跑，完全放电；而长辈们则坐在一旁，欣赏着绿意盎然的梯田风光，享受着微风吹拂的舒适感。这里的氛围非常轻松，适合全家一起来体验。
 
@@ -83,7 +83,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 ## 5. **圣泉寺：沐浴仪式与总统行宫的双重惊喜**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f849d9c235d59a137fbef5de65d6f96.jpg)
+![5. 圣泉寺：沐浴仪式与总统行宫的双重惊喜](https://images.gobaligo.id/vocus/vocus_4f849d9c235d59a137fbef5de65d6f96.jpg)
 
 **圣泉寺（Tirta Empul）**是一个充满宗教氛围的地方，我们在这里看到了许多当地人进行沐浴仪式，场面非常庄严且新奇。不过，相较于沐浴仪式，我个人对山上的总统行宫更感兴趣。这座建筑充满了历史感，周围的环境也非常优美，值得花点时间细细品味。
 
@@ -95,7 +95,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 ## 6. **断崖公路：壮丽景色与交通建议**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b589b4f1505f339f21868993d57b2ec4.jpg)
+![6. 断崖公路：壮丽景色与交通建议](https://images.gobaligo.id/vocus/vocus_b589b4f1505f339f21868993d57b2ec4.jpg)
 
 **断崖公路**的景色非常壮丽，但由于日前曾发生崩塌，目前虽然修缮良好，还是建议大家搭乘接驳车前往。此外，这里的阳光非常强烈，记得带上帽子或遮阳装备，以免晒伤。
 
@@ -109,7 +109,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 ## 7. **神鹰文化公园：雄伟却略显空旷**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9ff7c54eabc3f3383b36804884d88bd9.jpg)
+![7. 神鹰文化公园：雄伟却略显空旷](https://images.gobaligo.id/vocus/vocus_9ff7c54eabc3f3383b36804884d88bd9.jpg)
 
 **神鹰文化公园（Garuda Wisnu Kencana Cultural Park）**的占地面积非常广大，其中最引人注目的就是那座巨大的神鹰雕像，其高度和规模确实令人惊叹。从机场就能看到这座雕像，足以见其壮观程度。不过，整个园区的设施似乎还不够完善，感觉有些空旷，建议来这里的朋友可以安排短暂停留，欣赏雕像后再前往其他景点。
 
@@ -123,7 +123,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 这次旅行的成功，很大一部分要归功于我们的包车司机**小吴**和他的妻子**Betty Pingky**。由于我们一行有五个人，加上行李较多，小吴特别安排了一辆大车，确保我们在旅途中能够舒适地移动。他的开车技术非常稳健，全程没有任何急刹或顿点，让感冒中的孩子和老人都能在车上好好休息。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3143a1eb899bf827d37ad8851ac6b8d4.jpg)
+![8. 包车司机：旅行的幕后功臣](https://images.gobaligo.id/vocus/vocus_3143a1eb899bf827d37ad8851ac6b8d4.jpg)
 
 此外，小吴对巴厘岛的路况非常熟悉，完美避开了塞车时段和路段，让我们的行程更加顺畅。无论是老人需要上厕所，还是孩子不停地问‘到了没’，他总能适时地抵达目的地，让整个家庭保持和乐融融的氛围。他的中文非常流利，声调也很标准，与老人和孩子都能轻松聊天，让整个旅程更加温馨。
 
@@ -141,7 +141,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 这些因素加起来，让我们的旅程更加顺畅，也让我对巴厘岛的印象大大加分。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1adbe54df9466ee492b287cdb8e6abf7.jpg)
+![9. 为什么没堵车？](https://images.gobaligo.id/vocus/vocus_1adbe54df9466ee492b287cdb8e6abf7.jpg)
 
 ---
 
@@ -184,7 +184,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 您觉得 Chingju Wang 他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3caf2926cda5d39d3255d7ffe5d141cf.jpg)
+![推荐与建议](https://images.gobaligo.id/vocus/vocus_3caf2926cda5d39d3255d7ffe5d141cf.jpg)
 
 点击这里观看更多巴厘岛精彩游记
 

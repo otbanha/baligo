@@ -20,7 +20,7 @@ _srcHash: 81034801c6d5b92490bf53fe84ddde3d
 
 帶台灣即食麵去峇里島，特別係含有肉類嘅即食麵，係好多旅客關心嘅問題。即食麵唔單止係台灣人生活中嘅美味，更加係一種家鄉嘅味道。咁我哋可唔可以將呢啲美味帶上飛機，享受異國他鄉嘅同時都唔忘記台灣嘅滋味呢？呢篇文章將會詳細解答呢個問題。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5a3fcc70daa7978a79985c54b2c8d84a.png)
+![即食麵、奶粉可以帶去印尼/峇里島嗎？](https://images.gobaligo.id/vocus/vocus_5a3fcc70daa7978a79985c54b2c8d84a.png)
 
 ## 航空公司規定
 
@@ -39,7 +39,7 @@ _srcHash: 81034801c6d5b92490bf53fe84ddde3d
 
 ## 替代方案
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fb63c3f1c6e85c650e46f2d829cc605c.png)
+![替代方案](https://images.gobaligo.id/vocus/vocus_fb63c3f1c6e85c650e46f2d829cc605c.png)
 
 預訂、慳錢就睇呢度：
 

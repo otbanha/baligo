@@ -12,9 +12,9 @@ lang: zh-cn
 _srcHash: 102cc6386fbdfa9d7808664e621a3992
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_703008611ebd42c8436934b38f0c4796.jpg)
+![巴厘岛家庭亲子旅游首选: 最安全的戏水海滩 - 沙努尔](https://images.gobaligo.id/vocus/vocus_703008611ebd42c8436934b38f0c4796.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f356d2504f0b3db23b5d182776a6431.jpg)
+![巴厘岛家庭亲子旅游首选: 最安全的戏水海滩 - 沙努尔](https://images.gobaligo.id/vocus/vocus_2f356d2504f0b3db23b5d182776a6431.jpg)
 
 巴厘岛作为东南亚最受欢迎的度假岛屿之一，拥有多种风貌的海滩。而沙努尔（Sanur）则是一个独树一帜的存在——这里远离喧嚣、海水平静，拥有传统与现代融合的社区氛围，是**真正为家庭设计的度假天堂**。
 
@@ -36,7 +36,7 @@ _srcHash: 102cc6386fbdfa9d7808664e621a3992
 
 ## **2. 超长滨海步道，亲子推车散步首选**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f0769a0abf8ac8bba5dcab050cd2d8fe.jpg)
+![2. 超长滨海步道，亲子推车散步首选](https://images.gobaligo.id/vocus/vocus_f0769a0abf8ac8bba5dcab050cd2d8fe.jpg)
 
 沙努尔的滨海步道是整个巴厘岛最完善的一条，绵延近5公里，串连多个海滩与度假村。这条步道全程平坦，非常适合：
 
@@ -57,11 +57,11 @@ _srcHash: 102cc6386fbdfa9d7808664e621a3992
 - 亲子餐厅与健康食物选择
 - 小型儿童游乐场，让孩子换换环境消耗体力
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7ecb3439b0c9960145a6ba676da32a81.jpg)
+![3. 多元亲子设施：厕所、游乐场、餐厅一应俱全](https://images.gobaligo.id/vocus/vocus_7ecb3439b0c9960145a6ba676da32a81.jpg)
 
 此外，多数沙滩路段都设有地面警告牌与红旗提示区域，家长可依据指示安心选择戏水地点。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_040dcf7983bdd82007caaf3d5f3e5e15.jpg)
+![3. 多元亲子设施：厕所、游乐场、餐厅一应俱全](https://images.gobaligo.id/vocus/vocus_040dcf7983bdd82007caaf3d5f3e5e15.jpg)
 
 ***
 
@@ -73,7 +73,7 @@ _srcHash: 102cc6386fbdfa9d7808664e621a3992
 - **Le Mayeur 美术馆**：认识巴厘岛的绘画艺术与当地历史
 - **每日海神祭典与巴龙舞**：早晨与傍晚常见当地人祭拜海神的仪式，让孩子见识不一样的信仰文化
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_80ff2b2d757c2db1a5833027236a9ba5.jpg)
+![4. 传统市集与艺术气息浓厚的文化村落](https://images.gobaligo.id/vocus/vocus_80ff2b2d757c2db1a5833027236a9ba5.jpg)
 
 这些不只是观光景点，更是教育孩子理解不同文化的好机会。
 
@@ -83,7 +83,7 @@ _srcHash: 102cc6386fbdfa9d7808664e621a3992
 
 沙努尔社区以平和与安静著称，与其他旅游热区相比，几乎没有喧闹酒吧与过度开发的商业活动。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_080d296fb2d7efae7eec21f143f2e67a.jpg)
+![5. 安全环境与亲切社区氛围](https://images.gobaligo.id/vocus/vocus_080d296fb2d7efae7eec21f143f2e67a.jpg)
 
 此外，沙努尔地区设有：
 
@@ -97,17 +97,17 @@ _srcHash: 102cc6386fbdfa9d7808664e621a3992
 
 ## **6. 日出天堂：从海平面升起的阳光**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b1bace36b3e10319328a19a32787a92.jpg)
+![6. 日出天堂：从海平面升起的阳光](https://images.gobaligo.id/vocus/vocus_3b1bace36b3e10319328a19a32787a92.jpg)
 
 与巴厘岛多数海滩欣赏夕阳不同，沙努尔则是观赏**日出**的绝佳地点。每天清晨，大批摄影爱好者与瑜伽爱好者聚集海滩，迎接太阳从海面缓缓升起。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4989790b918f9c30c76d757469419082.jpg)
+![6. 日出天堂：从海平面升起的阳光](https://images.gobaligo.id/vocus/vocus_4989790b918f9c30c76d757469419082.jpg)
 
 这是一个可以与孩子分享宁静片刻的温柔时光，也是难得一家人共同冥想、呼吸的静心体验。
 
 ## 7.大型室内游乐场
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_993f8e3198ccd7c0661ccff47a5f03f0.jpg)
+![7.大型室内游乐场](https://images.gobaligo.id/vocus/vocus_993f8e3198ccd7c0661ccff47a5f03f0.jpg)
 
 在沙努尔还有好几个超大的空调室内游乐场哦！如果天气太热或是下雨，躲到这里准没错！请参考我们的[沙努尔攻略](https://s.id/sanurguide)
 
@@ -115,7 +115,7 @@ _srcHash: 102cc6386fbdfa9d7808664e621a3992
 
 ## 更多沙努尔吃喝玩乐介绍
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
+![更多沙努尔吃喝玩乐介绍](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
 沙努尔（Sanur）是巴厘岛上一个充满宁静气息的海滨小镇，以平静的沙滩、悠闲的氛围和壮丽的日出景色著称。这里拥有适合家庭的度假村、传统市场以及丰富的当地美食，是享受慢生活与探索文化的理想之地。无论是漫步海岸线还是感受当地风情，沙努尔都能带给您无比放松的假期体验！想了解更多沙努尔攻略？[请点击这里](/blog/sanur-guide/)。
 
@@ -155,6 +155,6 @@ _srcHash: 102cc6386fbdfa9d7808664e621a3992
 
 我们收集了沙努尔20几家住宿推荐，从滨海5星到平价适合长住的选择都有，请参考[这里](</blog/sanur-luxury-budget-resorts/>)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a30e6d3bb9254b52e79802119cfaaaf2.jpg)
+![沙努尔有什么住宿选择？](https://images.gobaligo.id/vocus/vocus_a30e6d3bb9254b52e79802119cfaaaf2.jpg)
 
 {{block:住宿}}

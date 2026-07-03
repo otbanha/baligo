@@ -20,7 +20,7 @@ _srcHash: b79d63fc31e0514c1755a7e7dfae14db
 
 如果你也想 **像当地人一样吃夜市**，而不是只去观光客聚集的餐厅，这个导览绝对是巴厘岛夜间美食的最佳选择！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ea323f4078c731906c6a3114fb1178fa.png)
+![巴厘岛最大夜市美食体验记：跟着在地中文导游吃遍Kreneng夜市的道地美味](https://images.gobaligo.id/vocus/vocus_ea323f4078c731906c6a3114fb1178fa.png)
 
 「小心钱包哦！」Wayan用流利的中文提醒我，同时熟门熟路地带我钻进Kreneng夜市的一条狭窄巷弄。这位纯正巴厘岛人导游因为会说中文，让我的夜市探险少了语言障碍，多了份亲切感。
 
@@ -30,19 +30,19 @@ _srcHash: b79d63fc31e0514c1755a7e7dfae14db
 
 跟着Wayan挤到一个不起眼的摊位前，金黄酥脆的乳猪挂在铁钩上闪着油光。「这家的香料配方传了三代，」他边说边帮我点了一份「特别版」——猪皮、嫩肉、血肠的三拼组合。第一口咬下酥脆的猪皮，咖喱叶、姜黄、辣椒等十余种香料制成的腌料在口中爆炸，搭配着当地特有的辣酱，让我瞬间理解为何这能成为巴厘岛的代表美食。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_31ffd4da7ba0ffb218659fcdd49a1f74.png)
+![第一站：巴厘岛的灵魂美食——Babi Guling烤乳猪](https://images.gobaligo.id/vocus/vocus_31ffd4da7ba0ffb218659fcdd49a1f74.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3083e857526af6af07f3a45bb0469e4e.png)
+![第一站：巴厘岛的灵魂美食——Babi Guling烤乳猪](https://images.gobaligo.id/vocus/vocus_3083e857526af6af07f3a45bb0469e4e.png)
 
 ## **穿梭在夜市的惊喜：Soto Ayam与街角沙嗲**
 
 转过几个弯，Wayan带我坐在塑料矮凳上，品尝一碗热气腾腾的Soto Ayam（鸡汤面）。汤头清澈却滋味深厚，挤上青柠后更显鲜活。正当我惊叹时，导游变魔术般递来几串刚烤好的沙嗲，「这摊的老板凌晨三点就开始准备，肉都用椰糖腌过。」炭火香气裹着甜咸交织的肉块，沾上浓郁的花生酱，完美诠释了印尼的街头美味。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cafb990e508f0238d54c4f97d183eebc.png)
+![穿梭在夜市的惊喜：Soto Ayam与街角沙嗲](https://images.gobaligo.id/vocus/vocus_cafb990e508f0238d54c4f97d183eebc.png)
 
 ## **甜点巡礼：热带水果与色彩缤纷的传统点心**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f5c3127af2f536eecf8cd7936437f8fe.png)
+![甜点巡礼：热带水果与色彩缤纷的传统点心](https://images.gobaligo.id/vocus/vocus_f5c3127af2f536eecf8cd7936437f8fe.png)
 
 夜市后半段简直是甜食爱好者的天堂！Wayan帮我挑选了蛇皮果、山竹和红毛丹组成的水果拼盘，还买了Jaja Bali——用椰糖和糯米制成的传统糕点。最难忘的是现做的Martabak，厚实的煎饼夹着融化的巧克力与起司，切块时还会拉丝，甜腻得让人罪恶又幸福。
 
@@ -56,7 +56,7 @@ _srcHash: b79d63fc31e0514c1755a7e7dfae14db
 
 四个小时的味蕾探险结束时，Wayan递来冰凉的矿泉水，并确认我的接送细节。回程车上，我翻看着照片：冒烟的烤架、Wayan与摊贩熟稔的互动、那些我永远记不住名字的香料...这才惊觉，原来最好的旅行记忆，往往藏在最地道的市井气息中。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f06b1bbbf3bdf574ade0a94ac639c920.png)
+![文化观察：最真实的巴厘岛夜晚](https://images.gobaligo.id/vocus/vocus_f06b1bbbf3bdf574ade0a94ac639c920.png)
 
 ## **实用资讯：**
 

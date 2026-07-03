@@ -25,17 +25,17 @@ James Lin的经验说明，如果是带小孩、65岁以上长者或行动不便
 
 另外一名网友周久人也提供他的经验，他在入境雅加达时选择了现场办理落地签。当时，他发现自己要排队约20人之多。他只能耐心地站在那里等待。两个小时后，终于轮到了他办理入境手续。然而，他对办事的效率感到非常失望，认为整个过程真的非常耗时。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d4795a2a87033f9707380eee93dc2028.png)
+![入境印尼/巴厘岛落地签 vs. 电子签证：选择的实际建议](https://images.gobaligo.id/vocus/vocus_d4795a2a87033f9707380eee93dc2028.png)
 
 其他一些实际体验过的团友回应：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_193f7fd3a8395cc01c0fd9f1f5e26aaf.png)
+![入境印尼/巴厘岛落地签 vs. 电子签证：选择的实际建议](https://images.gobaligo.id/vocus/vocus_193f7fd3a8395cc01c0fd9f1f5e26aaf.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f52e815ec87fdcaf14859d6c996c30b3.jpg)
+![入境印尼/巴厘岛落地签 vs. 电子签证：选择的实际建议](https://images.gobaligo.id/vocus/vocus_f52e815ec87fdcaf14859d6c996c30b3.jpg)
 
 另一名团友黄俊杰则补充一些说明如下：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d5ae856e88dfdd6239eb60a49618a6d5.png)
+![入境印尼/巴厘岛落地签 vs. 电子签证：选择的实际建议](https://images.gobaligo.id/vocus/vocus_d5ae856e88dfdd6239eb60a49618a6d5.png)
 
 > 延伸阅读：[2026印尼巴厘岛入境使用「All Indonesia」申报系统｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
 
@@ -45,15 +45,15 @@ James Lin的经验说明，如果是带小孩、65岁以上长者或行动不便
 
 如果遇到一大堆人在办理入境手续，情况就会完全不同了。在机场排队等待两个小时以上，不仅是对旅客们的耐心考验，也意味着浪费了宝贵的旅游放松时间。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_75e0b7b75b7ad28994890343c6c92319.png)
+![怎么听说落地签很快？](https://images.gobaligo.id/vocus/vocus_75e0b7b75b7ad28994890343c6c92319.png)
 
 > 延伸阅读：[印尼/巴厘岛电子签证eVoa全攻略：申请步骤、注意事项一次掌握！](/blog/bali-evisa-application-guide/)
 
 关于落地签现场付费的问题，网友们的经验确实不太一致。有些人表示现场付费非常快速，几乎不用排队；但也有不少人反映，遇到旅游旺季或航班密集抵达时，排队等候的时间可能会很长，甚至超过一个小时。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9c5c856be3a0a3b3d83a2591980933e3.jpg)
+![怎么听说落地签很快？](https://images.gobaligo.id/vocus/vocus_9c5c856be3a0a3b3d83a2591980933e3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ee9b6ab6d9b455c0a1cc65c4ddcb5b6e.jpg)
+![怎么听说落地签很快？](https://images.gobaligo.id/vocus/vocus_ee9b6ab6d9b455c0a1cc65c4ddcb5b6e.jpg)
 
 强烈建议大家出发前先申请好**电子落地签（e-VOA）**。为什么呢？因为出门在外，很多事情是无法预期的，尤其是抵达机场后的情况。如果你已经事先办好电子签证，抵达巴厘岛后就可以直接通关，省去排队缴费、填写表格的时间，也能避免因为语言不通或被找麻烦/要小费而产生的麻烦。
 

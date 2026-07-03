@@ -36,7 +36,7 @@ _srcHash: 1d6f36530a3e4de974aa2268e2f464df
 
 坎古主要由一條交通繁忙嘅 Jl. Raya Canngu 橫越貫穿，呢一條中文叫做「坎古大道」嘅馬路。如果你嚟到坎古呢一區度假旅遊，肯定會成日行呢一條道路，因為向下延伸到各個唔同海灘嘅道路幾乎都係靠呢一條馬路連接。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bcb115402d89cc7fbbb2a73787e279fc.png)
+![掌握坎古嘅方位/地圖](https://images.gobaligo.id/vocus/vocus_bcb115402d89cc7fbbb2a73787e279fc.png)
 
 從呢一條坎古大道要去到海灘，必須經由以下三條路：
 
@@ -50,7 +50,7 @@ _srcHash: 1d6f36530a3e4de974aa2268e2f464df
 
 值得一提嘅係 Finns Beach Club 外面嘅公共沙灘，呢個沙灘有咩特別呢？一般我哋影海灘夕陽人像，當人距離相機/手機比較遠嘅時候通常只能影到剪影。我哋冇帶任何補光設備+用手機影相，喺呢個沙灘上影到咁樣一張清晰、人像光線充足、又有夕陽美景嘅相。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f1c4750ee129a41dac2aeb26089d470.jpg)
+![Jl. Pantai Berawa（伯拉瓦海灘路）](https://images.gobaligo.id/vocus/vocus_2f1c4750ee129a41dac2aeb26089d470.jpg)
 
 [Canggu仲有咩好玩?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
@@ -58,7 +58,7 @@ _srcHash: 1d6f36530a3e4de974aa2268e2f464df
 
 離 Finns Beach Club 唔遠嘅 Panama Kitchen & Pool 係個適合影相嘅好地方。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_23dd7b71fb7b2d801ea8d76cd23e8dcb.jpg)
+![Jl. Pantai Berawa（伯拉瓦海灘路）](https://images.gobaligo.id/vocus/vocus_23dd7b71fb7b2d801ea8d76cd23e8dcb.jpg)
 
 [Canggu仲有咩好玩?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
@@ -70,7 +70,7 @@ _srcHash: 1d6f36530a3e4de974aa2268e2f464df
 
 喺呢條路上有一個賣精美手工藝品嘅「Love Anchor」，佢係一個半露天嘅市場，啲嘢好精美但係價錢都唔平。不過嚟呢個地方嘅氛圍好特別，有一種講唔出嘅感覺。影吓假文青相都唔錯㗎！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3d86b5d411474b4ceddab20f8043ebe4.jpg)
+![Jl. Pantai Batu Bolong（巴圖伯隆海灘路）](https://images.gobaligo.id/vocus/vocus_3d86b5d411474b4ceddab20f8043ebe4.jpg)
 
 [坎古仲有咩好玩?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
@@ -78,7 +78,7 @@ _srcHash: 1d6f36530a3e4de974aa2268e2f464df
 
 繼續往海邊行，Jl. Pantai Batu Bolong 呢條路通往好受歡迎嘅 Old Man's Bar 同 Batu Bolong 海灘嘅日落觀賞點。嚟到呢度唔好忘記同可以作為坎古地標嘅 Oldman 嘅壁畫同招牌影張合照㗎！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4fd792a343a64ca8c0d7ed572e451f5a.jpg)
+![Jl. Pantai Batu Bolong（巴圖伯隆海灘路）](https://images.gobaligo.id/vocus/vocus_4fd792a343a64ca8c0d7ed572e451f5a.jpg)
 
 [坎古仲有咩好玩?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
@@ -107,9 +107,9 @@ _srcHash: 1d6f36530a3e4de974aa2268e2f464df
 延伸閱讀:
 [被譽為「峇里島最靚嘅餐廳」：La Brisa喺數以萬計嘅美食餐廳之中點樣脫穎而出？](/blog/canggu-la-brisa-restaurant-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ba0b7ff191ef1623871c136afd30e67a.jpg)
+![Jl. Padang Lingjong（巴當林瓊路）](https://images.gobaligo.id/vocus/vocus_ba0b7ff191ef1623871c136afd30e67a.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9325d7376edebec9e1b034f658cf5b36.jpg)
+![Jl. Padang Lingjong（巴當林瓊路）](https://images.gobaligo.id/vocus/vocus_9325d7376edebec9e1b034f658cf5b36.jpg)
 
 [坎古仲有咩好玩?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 

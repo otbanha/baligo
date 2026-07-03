@@ -25,7 +25,7 @@ For many, learning to surf is a dream, and it must be said that Bali is possibly
 
 ## The Allure of Surfing in Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff49c7ae6f272d0f15bd093cf980b480.jpg)
+![The Allure of Surfing in Bali](https://images.gobaligo.id/vocus/vocus_ff49c7ae6f272d0f15bd093cf980b480.jpg)
 
 Bali has been one of the world's premier surfing destinations for decades. Not only does it offer waves suitable for all skill levels, but the cost of learning to surf is quite reasonable, and the island is home to some of the most experienced surfing instructors in the world.
 
@@ -39,7 +39,7 @@ The best time to surf in Bali depends on your experience level. The dry season (
 
 Bali boasts multiple surfing spots catering to all levels of surfers. Whether you're a beginner, intermediate, or advanced surfer, this paradise has something for everyone.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bbba4f138cd247cf17b26125bcf6b02e.jpg)
+![Categorized by Skill Level](https://images.gobaligo.id/vocus/vocus_bbba4f138cd247cf17b26125bcf6b02e.jpg)
 
 ➡️[Click here for more great deals in Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
@@ -73,7 +73,7 @@ Other premium surf spots include Padang Padang, a beach break hidden within rock
 
 Bali's surf spots offer a variety of options catering to surfers of different skill levels. Let's explore these locations divided by area to find the perfect spot for your surfing proficiency.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b14a8693e646e832647aded7011bfdde.jpg)
+![By Location](https://images.gobaligo.id/vocus/vocus_b14a8693e646e832647aded7011bfdde.jpg)
 
 ### Kuta Beach
 
@@ -103,7 +103,7 @@ Surfers can rent boards and take lessons from local instructors. After a surfing
 
 ## Top Surfing Beaches You Might Not Have Heard Of
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_65c0b6aa2ffe939d66bbc4d01646d473.jpg)
+![Top Surfing Beaches You Might Not Have Heard Of](https://images.gobaligo.id/vocus/vocus_65c0b6aa2ffe939d66bbc4d01646d473.jpg)
 
 ➡️[Click here for more great deals in Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
@@ -125,7 +125,7 @@ Bali's most popular and respected surf schools can be found near Kuta, Legian, a
 
 For visitors looking to learn surfing, places like Canggu and Uluwatu may be less suitable. It's best to start with the waves in Kuta, Legian, and Seminyak. You'll also have the opportunity to learn from some of the world's most experienced surf instructors.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5f0850d15e731825ab40d379c97369c5.jpg)
+![Bali's Most Popular Surf Schools](https://images.gobaligo.id/vocus/vocus_5f0850d15e731825ab40d379c97369c5.jpg)
 
 ### Recommended Surf School in Kuta
 

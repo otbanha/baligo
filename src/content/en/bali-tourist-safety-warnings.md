@@ -31,7 +31,7 @@ Police arrested a 22-year-old Balinese man named Ketut Manih this week, who pose
 
 According to police, the incident occurred at 2:40 AM on September 16 on Jalan Kubu Anyar Gang Sada Sari in Legian. The victim, GHK, was walking back to his accommodation when Manih stopped him, offering a cheap motorcycle ride home.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1769e9a42496e7fbb75d546b2c6b9c78.png)
+![Fake Motorcycle Taxi Robbery](https://images.gobaligo.id/vocus/vocus_1769e9a42496e7fbb75d546b2c6b9c78.png)
 
 GHK accepted the offer, and they agreed on a price. After getting on the motorcycle with Manih, they turned onto Kubu Anyar Street and then into Sada Sari alley.
 
@@ -53,7 +53,7 @@ Manih explained that he decided to commit robbery due to financial difficulties,
 
 Meanwhile, in Canggu Pererenan village, a group of TikTok celebrities also experienced a villa robbery.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fef39ea57bb3392c788adfeeab368e7c.png)
+![Villa Robbery](https://images.gobaligo.id/vocus/vocus_fef39ea57bb3392c788adfeeab368e7c.png)
 
 TikTok stars Dr. Richard Lee, Willie Salim, Kenneth Seymour, and Regiena Shaelynne were staying at a villa on Jalan Babadan. They left the villa at 9:30 AM on September 21 to go sightseeing, and upon returning at 6 PM, they discovered that a MacBook Pro M2, an iPad Pro M1, cameras, iPhones, and several million Indonesian rupiah in cash were all missing.
 
@@ -73,7 +73,7 @@ Although Bali is generally a relatively safe holiday destination, tourists still
 
 📩 **Join the 'Bali Travel Guide' Blog Now and Become a Bali Travel Expert!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Sign Up for Our Blog](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **By subscribing for free, you'll get:**
 

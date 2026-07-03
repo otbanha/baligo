@@ -26,7 +26,7 @@ _srcHash: f5dbb49b6ba162ed7788f0638802ab5e
 
 Pecinta Bali pasti udah pada tahu soal 'Nyepi', hari spesial tahunan di Bali. Tapi jarang yang tahu soal festival yang lebih misterius, 'Hari Laut yang Tenang' (Nyepi Laut). Pada 18 Oktober tahun ini, 'Hari Laut yang Tenang' bakal datang, artinya wisatawan yang berencana ke Bali, Nusa Penida, Nusa Ceningan, dan Nusa Lembongan wajib cek ulang itinerary biar nggak kena masalah.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a2a7c26b85cb99ddd485b2133702d2e2.png)
+![Festival Budaya Bali Bisa Pengaruhi Rencana Liburan 18 Oktob](https://images.gobaligo.id/vocus/vocus_a2a7c26b85cb99ddd485b2133702d2e2.png)
 
 ## **Apa Itu Hari Laut yang Tenang?**
 
@@ -54,7 +54,7 @@ Meskipun "Hening Laut" nggak sebesar "Hari Raya Nyepi" di Bali yang ada pawai ma
 
 Mulai pagi 19 Oktober, semua aktivitas laut bakal berangsur normal lagi, termasuk kapal, snorkeling, diving, dan kegiatan wisata lainnya. Jadi kalau kamu rencana lakuin aktivitas itu tanggal 18, sebaiknya ubah jadwal biar nggak bentrok sama hari suci ini.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5ed269a843a5f1ff7a8651552695af98.png)
+![Kapan kembali normal?](https://images.gobaligo.id/vocus/vocus_5ed269a843a5f1ff7a8651552695af98.png)
 
 Baca juga: [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)
 
@@ -96,7 +96,7 @@ Kalau kamu lagi merencanakan liburan ke Bali tahun 2025, jangan sampai kelewatan
 
 📩 **Langganan sekarang blog 'Panduan Travel Bali', jadi traveler Bali yang jago!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Daftar & Gabung Blog Kami](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

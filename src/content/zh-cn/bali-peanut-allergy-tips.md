@@ -19,7 +19,7 @@ _srcHash: 6dfdad5ade61f0cd3b2a09443b4b2295
 
 在巴厘岛旅行时，若是对花生过敏的人，避免食用含有花生的食物是非常重要的。巴厘岛的饮食多样，但是花生在一些菜式和调味料中可能会被使用，因此需要格外小心。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_560250c5a2572c49e425faaa459bceb2.png)
+![花生过敏！？去巴厘岛可以这样做](https://images.gobaligo.id/vocus/vocus_560250c5a2572c49e425faaa459bceb2.png)
 
 以下是一些在巴厘岛旅行时需要避免或小心食用的可能含有花生的食物和食品：
 
@@ -32,7 +32,7 @@ _srcHash: 6dfdad5ade61f0cd3b2a09443b4b2295
 
 更重要的是，为避免误食，花生过敏者别忘了随身携带一些过敏紧急救助用品，以应对意外情况。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa7648471037473f80418f211f4b41ad.png)
+![花生过敏！？去巴厘岛可以这样做](https://images.gobaligo.id/vocus/vocus_aa7648471037473f80418f211f4b41ad.png)
 
 在阅读我们的**「巴厘岛自由行究极旅行攻略」**之前，我们诚挚地邀请您先订阅我们更多视觉体验分享的YouTube频道**「小杰 印尼」**。[点击这里](http://bit.ly/youtube-jason)，立即订阅
 

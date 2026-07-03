@@ -34,25 +34,25 @@ Many travelers assume that accommodation options in Seminyak are all high-end, b
 
 ## 1. **Villa Kayu Raja**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774352923959-361502515.jpg)
+![1. Villa Kayu Raja](https://images.gobaligo.id/images/2026-03/1774352923959-361502515.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774352924740-361503231.jpg)
+![1. Villa Kayu Raja](https://images.gobaligo.id/images/2026-03/1774352924740-361503231.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774352925240-361503236.jpg)
+![1. Villa Kayu Raja](https://images.gobaligo.id/images/2026-03/1774352925240-361503236.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774352925653-361503842.jpg)
+![1. Villa Kayu Raja](https://images.gobaligo.id/images/2026-03/1774352925653-361503842.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774352926073-361504299.jpg)
+![1. Villa Kayu Raja](https://images.gobaligo.id/images/2026-03/1774352926073-361504299.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774352926487-361504375.jpg)
+![1. Villa Kayu Raja](https://images.gobaligo.id/images/2026-03/1774352926487-361504375.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774352926896-_361501321.jpeg)
+![1. Villa Kayu Raja](https://images.gobaligo.id/images/2026-03/1774352926896-_361501321.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774352927340-_364875900.jpeg)
+![1. Villa Kayu Raja](https://images.gobaligo.id/images/2026-03/1774352927340-_364875900.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774352927712-_454988376.jpeg)
+![1. Villa Kayu Raja](https://images.gobaligo.id/images/2026-03/1774352927712-_454988376.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774352928019-_454988471.jpeg)
+![1. Villa Kayu Raja](https://images.gobaligo.id/images/2026-03/1774352928019-_454988471.jpeg)
 
 Villa Kayu Raja is a tranquil oasis hidden amidst the hustle and bustle of Seminyak, featuring modern Balinese design. This villa is particularly suitable for couples and travelers seeking privacy, offering a unique two-story, one-bedroom pool villa where you can escape the city noise and enjoy a perfect holiday in paradise.
 
@@ -66,25 +66,25 @@ Villa Kayu Raja is a tranquil oasis hidden amidst the hustle and bustle of Semin
 
 ## 2. **Bajra Bali Villa**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353025250-55205166.jpg)
+![2. Bajra Bali Villa](https://images.gobaligo.id/images/2026-03/1774353025250-55205166.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353025617-55205292.jpg)
+![2. Bajra Bali Villa](https://images.gobaligo.id/images/2026-03/1774353025617-55205292.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353026010-55205341.jpg)
+![2. Bajra Bali Villa](https://images.gobaligo.id/images/2026-03/1774353026010-55205341.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353026293-55205420.jpg)
+![2. Bajra Bali Villa](https://images.gobaligo.id/images/2026-03/1774353026293-55205420.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353026736-243637798.jpg)
+![2. Bajra Bali Villa](https://images.gobaligo.id/images/2026-03/1774353026736-243637798.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353027147-243680254.jpg)
+![2. Bajra Bali Villa](https://images.gobaligo.id/images/2026-03/1774353027147-243680254.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353027555-243681273.jpg)
+![2. Bajra Bali Villa](https://images.gobaligo.id/images/2026-03/1774353027555-243681273.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353027942-243681731.jpg)
+![2. Bajra Bali Villa](https://images.gobaligo.id/images/2026-03/1774353027942-243681731.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353028367-243691730.jpg)
+![2. Bajra Bali Villa](https://images.gobaligo.id/images/2026-03/1774353028367-243691730.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353028678-571176850.jpg)
+![2. Bajra Bali Villa](https://images.gobaligo.id/images/2026-03/1774353028678-571176850.jpg)
 
 Bajra Bali Villa is a true retreat, especially suitable for couples or families seeking privacy and relaxation. The elegantly designed pool villas offer ultimate tranquility, allowing you to fully enjoy your exclusive vacation.
 
@@ -98,21 +98,21 @@ Bajra Bali Villa is a true retreat, especially suitable for couples or families 
 
 ## 3. **The Tukad Villa**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353077163-62283316.jpg)
+![3. The Tukad Villa](https://images.gobaligo.id/images/2026-03/1774353077163-62283316.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353076555-62282961.jpg)
+![3. The Tukad Villa](https://images.gobaligo.id/images/2026-03/1774353076555-62282961.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353076853-62283132.jpg)
+![3. The Tukad Villa](https://images.gobaligo.id/images/2026-03/1774353076853-62283132.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353077485-_62282949.jpeg)
+![3. The Tukad Villa](https://images.gobaligo.id/images/2026-03/1774353077485-_62282949.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353077846-_62282968.jpeg)
+![3. The Tukad Villa](https://images.gobaligo.id/images/2026-03/1774353077846-_62282968.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353078135-_62283119.jpeg)
+![3. The Tukad Villa](https://images.gobaligo.id/images/2026-03/1774353078135-_62283119.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353078546-_62283133.jpeg)
+![3. The Tukad Villa](https://images.gobaligo.id/images/2026-03/1774353078546-_62283133.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353078888-_62283134.jpeg)
+![3. The Tukad Villa](https://images.gobaligo.id/images/2026-03/1774353078888-_62283134.jpeg)
 
 The Tukad Villa is a luxury villa designed for those seeking a private getaway. Located not far from the center of Seminyak, it combines convenience and tranquility, making it an ideal choice for a romantic vacation.
 
@@ -126,25 +126,25 @@ The Tukad Villa is a luxury villa designed for those seeking a private getaway. 
 
 ## 4. **New Pondok Sara Villas**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353217446-17118145.jpg)
+![4. New Pondok Sara Villas](https://images.gobaligo.id/images/2026-03/1774353217446-17118145.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353215923-16971196.jpg)
+![4. New Pondok Sara Villas](https://images.gobaligo.id/images/2026-03/1774353215923-16971196.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353216745-17116999.jpg)
+![4. New Pondok Sara Villas](https://images.gobaligo.id/images/2026-03/1774353216745-17116999.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353217086-17117503.jpg)
+![4. New Pondok Sara Villas](https://images.gobaligo.id/images/2026-03/1774353217086-17117503.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353217810-102155846.jpg)
+![4. New Pondok Sara Villas](https://images.gobaligo.id/images/2026-03/1774353217810-102155846.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353218146-131595964.jpg)
+![4. New Pondok Sara Villas](https://images.gobaligo.id/images/2026-03/1774353218146-131595964.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353218546-153864150.jpg)
+![4. New Pondok Sara Villas](https://images.gobaligo.id/images/2026-03/1774353218546-153864150.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353218952-153864172.jpg)
+![4. New Pondok Sara Villas](https://images.gobaligo.id/images/2026-03/1774353218952-153864172.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353219356-485008879.jpg)
+![4. New Pondok Sara Villas](https://images.gobaligo.id/images/2026-03/1774353219356-485008879.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353219766-493440954.jpg)
+![4. New Pondok Sara Villas](https://images.gobaligo.id/images/2026-03/1774353219766-493440954.jpg)
 
 New Pondok Sara Villas is a hidden villa filled with romantic ambiance, featuring beautiful garden views and a private pool. It's a favorite among couples, offering a convenient vacation experience just minutes from Seminyak's city center and beaches.
 
@@ -158,25 +158,25 @@ New Pondok Sara Villas is a hidden villa filled with romantic ambiance, featurin
 
 ## 5. **Desamuda Village**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353308366-14184103.jpg)
+![5. Desamuda Village](https://images.gobaligo.id/images/2026-03/1774353308366-14184103.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353308771-_181633441.jpeg)
+![5. Desamuda Village](https://images.gobaligo.id/images/2026-03/1774353308771-_181633441.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353309111-_181633539.jpeg)
+![5. Desamuda Village](https://images.gobaligo.id/images/2026-03/1774353309111-_181633539.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353309418-_181633541.jpeg)
+![5. Desamuda Village](https://images.gobaligo.id/images/2026-03/1774353309418-_181633541.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353309755-_382621137.jpeg)
+![5. Desamuda Village](https://images.gobaligo.id/images/2026-03/1774353309755-_382621137.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353310086-_385995867.jpeg)
+![5. Desamuda Village](https://images.gobaligo.id/images/2026-03/1774353310086-_385995867.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353310483-_393695433.jpeg)
+![5. Desamuda Village](https://images.gobaligo.id/images/2026-03/1774353310483-_393695433.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353310905-_399270758.jpeg)
+![5. Desamuda Village](https://images.gobaligo.id/images/2026-03/1774353310905-_399270758.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353311314-_399271171.jpeg)
+![5. Desamuda Village](https://images.gobaligo.id/images/2026-03/1774353311314-_399271171.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353311722-_399271173.jpeg)
+![5. Desamuda Village](https://images.gobaligo.id/images/2026-03/1774353311722-_399271173.jpeg)
 
 Desamuda Village is a beautiful blend of romance and luxury, nestled within tropical gardens. With 28 private villas, it's perfect for honeymooners or families and friends looking to create unforgettable memories. Each villa features a semi-open design, allowing you to immerse yourself in Bali's natural ambiance from the living room, bathroom, dining area, and kitchen. Step directly from your bedroom into the outdoor pool, enjoying nature while maintaining your privacy.
 
@@ -190,25 +190,25 @@ Desamuda Village is a beautiful blend of romance and luxury, nestled within trop
 
 ## 6. **Vinna Villa Seminyak**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353376439-426441551.jpg)
+![6. Vinna Villa Seminyak](https://images.gobaligo.id/images/2026-03/1774353376439-426441551.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353372631-254691388.jpg)
+![6. Vinna Villa Seminyak](https://images.gobaligo.id/images/2026-03/1774353372631-254691388.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353373483-383976697.jpg)
+![6. Vinna Villa Seminyak](https://images.gobaligo.id/images/2026-03/1774353373483-383976697.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353373871-383976724.jpg)
+![6. Vinna Villa Seminyak](https://images.gobaligo.id/images/2026-03/1774353373871-383976724.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353374185-383976896.jpg)
+![6. Vinna Villa Seminyak](https://images.gobaligo.id/images/2026-03/1774353374185-383976896.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353374490-426440152.jpg)
+![6. Vinna Villa Seminyak](https://images.gobaligo.id/images/2026-03/1774353374490-426440152.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353374898-426440162.jpg)
+![6. Vinna Villa Seminyak](https://images.gobaligo.id/images/2026-03/1774353374898-426440162.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353375305-426440167.jpg)
+![6. Vinna Villa Seminyak](https://images.gobaligo.id/images/2026-03/1774353375305-426440167.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353375665-426440174.jpg)
+![6. Vinna Villa Seminyak](https://images.gobaligo.id/images/2026-03/1774353375665-426440174.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353376025-426440958.jpg)
+![6. Vinna Villa Seminyak](https://images.gobaligo.id/images/2026-03/1774353376025-426440958.jpg)
 
 Vinna Villa Seminyak, located in Kerobokan, is a serene retreat offering free Wi-Fi and stunning pool views. This villa is ideal for travelers seeking relaxation, featuring an outdoor swimming pool, garden, and terrace. It's just 3.3 km from Petitenget Temple, making it convenient for exploring local attractions.
 
@@ -222,25 +222,25 @@ Vinna Villa Seminyak, located in Kerobokan, is a serene retreat offering free Wi
 
 ## 7. **The Light Exclusive Villas and SPA - CHSE Certified**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353444568-_468593427.jpeg)
+![7. The Light Exclusive Villas and SPA - CHSE Certified](https://images.gobaligo.id/images/2026-03/1774353444568-_468593427.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353443795-_205579919.jpeg)
+![7. The Light Exclusive Villas and SPA - CHSE Certified](https://images.gobaligo.id/images/2026-03/1774353443795-_205579919.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353444116-_443825871.jpeg)
+![7. The Light Exclusive Villas and SPA - CHSE Certified](https://images.gobaligo.id/images/2026-03/1774353444116-_443825871.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353444970-_468593437.jpeg)
+![7. The Light Exclusive Villas and SPA - CHSE Certified](https://images.gobaligo.id/images/2026-03/1774353444970-_468593437.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353445359-_468593445.jpeg)
+![7. The Light Exclusive Villas and SPA - CHSE Certified](https://images.gobaligo.id/images/2026-03/1774353445359-_468593445.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353445642-_468593460.jpeg)
+![7. The Light Exclusive Villas and SPA - CHSE Certified](https://images.gobaligo.id/images/2026-03/1774353445642-_468593460.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353446104-_468593463.jpeg)
+![7. The Light Exclusive Villas and SPA - CHSE Certified](https://images.gobaligo.id/images/2026-03/1774353446104-_468593463.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353446499-_468593465.jpeg)
+![7. The Light Exclusive Villas and SPA - CHSE Certified](https://images.gobaligo.id/images/2026-03/1774353446499-_468593465.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353446804-_468593476.jpeg)
+![7. The Light Exclusive Villas and SPA - CHSE Certified](https://images.gobaligo.id/images/2026-03/1774353446804-_468593476.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353447143-_468602171.jpeg)
+![7. The Light Exclusive Villas and SPA - CHSE Certified](https://images.gobaligo.id/images/2026-03/1774353447143-_468602171.jpeg)
 
 The Light Exclusive Villas and SPA is a premium villa located just a 5-minute drive from Seminyak Square. Each villa comes with a private pool, and it's only a 10-minute drive to Ku De Ta restaurant and Seminyak Beach. This is an ideal choice for travelers seeking both luxury and convenience.
 
@@ -254,25 +254,25 @@ The Light Exclusive Villas and SPA is a premium villa located just a 5-minute dr
 
 ## 8. **PANDAWA VILLAS SEMINYAK**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353523991-313017354.jpg)
+![8. PANDAWA VILLAS SEMINYAK](https://images.gobaligo.id/images/2026-03/1774353523991-313017354.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353521901-313017297.jpg)
+![8. PANDAWA VILLAS SEMINYAK](https://images.gobaligo.id/images/2026-03/1774353521901-313017297.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353522264-313017307.jpg)
+![8. PANDAWA VILLAS SEMINYAK](https://images.gobaligo.id/images/2026-03/1774353522264-313017307.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353522678-313017318.jpg)
+![8. PANDAWA VILLAS SEMINYAK](https://images.gobaligo.id/images/2026-03/1774353522678-313017318.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353523177-313017330.jpg)
+![8. PANDAWA VILLAS SEMINYAK](https://images.gobaligo.id/images/2026-03/1774353523177-313017330.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353523584-313017348.jpg)
+![8. PANDAWA VILLAS SEMINYAK](https://images.gobaligo.id/images/2026-03/1774353523584-313017348.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353524300-313017359.jpg)
+![8. PANDAWA VILLAS SEMINYAK](https://images.gobaligo.id/images/2026-03/1774353524300-313017359.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353524704-313017390.jpg)
+![8. PANDAWA VILLAS SEMINYAK](https://images.gobaligo.id/images/2026-03/1774353524704-313017390.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353525020-392575617.jpg)
+![8. PANDAWA VILLAS SEMINYAK](https://images.gobaligo.id/images/2026-03/1774353525020-392575617.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353525424-458779959.jpg)
+![8. PANDAWA VILLAS SEMINYAK](https://images.gobaligo.id/images/2026-03/1774353525424-458779959.jpg)
 
 Pandawa Villas Seminyak is a modern villa located in the Nakula area of Seminyak, just 1.3 km from Double Six Beach. It offers free Wi-Fi and a private pool, making it ideal for travelers seeking proximity to the beach.
 
@@ -286,19 +286,19 @@ Pandawa Villas Seminyak is a modern villa located in the Nakula area of Seminyak
 
 ## **9. Amadea Resort & Villas Seminyak Bali**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353658256-801f63752267ce23514c4b4041cd70b1.jpeg)
+![9. Amadea Resort & Villas Seminyak Bali](https://images.gobaligo.id/images/2026-03/1774353658256-801f63752267ce23514c4b4041cd70b1.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353657850-8efa40bf66fd7171bcb7ff3c20134382.jpeg)
+![9. Amadea Resort & Villas Seminyak Bali](https://images.gobaligo.id/images/2026-03/1774353657850-8efa40bf66fd7171bcb7ff3c20134382.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353658599-263687_15022009380025478201.jpeg)
+![9. Amadea Resort & Villas Seminyak Bali](https://images.gobaligo.id/images/2026-03/1774353658599-263687_15022009380025478201.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353658933-263687_16041415190041513033.jpeg)
+![9. Amadea Resort & Villas Seminyak Bali](https://images.gobaligo.id/images/2026-03/1774353658933-263687_16041415190041513033.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353659441-474594693_3927854494201340_7555717850509845703_n.jpg)
+![9. Amadea Resort & Villas Seminyak Bali](https://images.gobaligo.id/images/2026-03/1774353659441-474594693_3927854494201340_7555717850509845703_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353659802-474815154_3927854210868035_1146129193356846886_n.jpg)
+![9. Amadea Resort & Villas Seminyak Bali](https://images.gobaligo.id/images/2026-03/1774353659802-474815154_3927854210868035_1146129193356846886_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774353660195-474828289_3927854197534703_6248786634491304468_n.jpg)
+![9. Amadea Resort & Villas Seminyak Bali](https://images.gobaligo.id/images/2026-03/1774353660195-474828289_3927854197534703_6248786634491304468_n.jpg)
 
 **Location**: Amadea Resort & Villas is situated in the heart of Seminyak, Bali, just a 30-minute drive from the airport. It’s within walking distance to the vibrant Seminyak Beach, surrounded by boutiques, art galleries, and popular restaurants like Naughty Nuri's Warung (famous for pork ribs) and KU DE TA (beach club). Whether you’re exploring nightlife or enjoying beach sunsets, the location is extremely convenient.
 

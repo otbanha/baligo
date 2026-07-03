@@ -21,7 +21,7 @@ _srcHash: e7dd9a23ce387c149f6665cc1e9a1361
 
 **Wisatawan di pantai-pantai hits Bali harus jaga barang pribadi dengan ekstra hati-hati**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_576a4ec49c3bef2abbd893a23d4ca79c.png)
+![Polisi Bali ngasih peringatan: di pantai, restoran, kafe — m](https://images.gobaligo.id/vocus/vocus_576a4ec49c3bef2abbd893a23d4ca79c.png)
 
 ## **Polisi Bali Cepat Tangkap Pelaku, Ingatkan Wisatawan untuk Waspada**
 
@@ -29,7 +29,7 @@ Polisi Bali baru-baru ini mengonfirmasi bahwa mereka berhasil melacak dan menang
 
 **Pantai Pererenan terletak di kawasan Canggu yang terkenal di Bali** — daerah ini baru aja dinobatkan sebagai **lingkungan paling keren di dunia versi TimeOut 2024**. Meskipun pemandangannya cakep banget, polisi setempat tetap mengingatkan wisatawan untuk meningkatkan kewaspadaan biar barang berharga nggak digondol maling.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fa6310b2330c70805eaf2135cc3228a7.jpg)
+![Polisi Bali Cepat Tangkap Pelaku, Ingatkan Wisatawan untuk W](https://images.gobaligo.id/vocus/vocus_fa6310b2330c70805eaf2135cc3228a7.jpg)
 
 ---
 
@@ -86,7 +86,7 @@ Banyak kasus pencurian sebenernya bisa diungkap dalam waktu singkat, **tapi kunc
 
 Meskipun ada kasus pencurian ini, **Pererenan masih jadi salah satu tempat wisata paling hits di Bali**.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2cdb04da2788cc31bb905d141d05d5b0.png)
+![Pantai Pererenan Tetap Jadi Destinasi Travel Paling Keren 20](https://images.gobaligo.id/vocus/vocus_2cdb04da2788cc31bb905d141d05d5b0.png)
 
 Lokasinya ada di **pusat Canggu**, punya pemandangan laut yang ciamik, kafe-kafe santai, dan pilihan belanja yang variatif. Tempat ini dinobatkan sebagai **kawasan paling keren di dunia versi 2024**.
 
@@ -100,7 +100,7 @@ Pantai Pererenan juga **salah satu spot surfing terbaik di Bali**, cocok buat **
 
 ## Lebih Banyak Info Seru di Canggu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b47b6501ceec6425040cb1bda360b29.jpg)
+![Lebih Banyak Info Seru di Canggu](https://images.gobaligo.id/vocus/vocus_3b47b6501ceec6425040cb1bda360b29.jpg)
 
 [Klik di sini untuk panduan Canggu!](/blog/canggu-guide/)
 
@@ -126,6 +126,6 @@ Kamu harus ekstra hati-hati di **pantai, kafe, restoran, klub malam, beach club,
 
 Maling kesempatan (bahasa Inggris: Opportunistic Thief) adalah tipe pencuri yang nggak punya rencana kriminal sebelumnya, tapi tiba-tiba mencuri begitu lihat ada celah. Biasanya mereka nggak nargetin korban tertentu, melainkan asal pilih orang yang lagi lengah, lalu gas aja ambil barangnya saat korban nggak sadar.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3a66a8655835f15ac8c6a8903d09e534.png)
+![4. Apa Itu Maling Kesempatan?](https://images.gobaligo.id/vocus/vocus_3a66a8655835f15ac8c6a8903d09e534.png)
 
 ###

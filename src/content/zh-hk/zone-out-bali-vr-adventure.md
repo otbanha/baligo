@@ -12,7 +12,7 @@ lang: zh-hk
 _srcHash: d8ebb244e3926c192e5e5b7e8eb7435f
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_91dd4f8bae9402d0f3052dd663baad00.jpg)
+![ZONE OUT Bali：庫塔最正嘅虛擬實境冒險基地！](https://images.gobaligo.id/vocus/vocus_91dd4f8bae9402d0f3052dd663baad00.jpg)
 
 無論你係鍾意速度嘅賽車手、鍾意挑戰嘅射擊玩家，定係想同小朋友一齊體驗太空冒險、過山車或者喪屍求生，呢度都可以滿足你。每一場遊戲都有高沉浸感嘅畫面同動態設備，令人忍唔住一玩再玩。
 
@@ -27,11 +27,11 @@ _srcHash: d8ebb244e3926c192e5e5b7e8eb7435f
 - **情侶、家庭、朋友都啱**：一齊挑戰 VR 任務、比賽或者冒險，特別容易創造難忘回憶。
 - **地點超方便**：位於雷吉安（Legian）主街，距離庫塔海灘同熱門景點都唔遠。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cfedd8137f0c6d17f1b48a138e4dfd1d.jpg)
+![點解一定要嚟 ZONE OUT Bali](https://images.gobaligo.id/vocus/vocus_cfedd8137f0c6d17f1b48a138e4dfd1d.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_72aa078824a91036c852becb7b2c0677.jpg)
+![點解一定要嚟 ZONE OUT Bali](https://images.gobaligo.id/vocus/vocus_72aa078824a91036c852becb7b2c0677.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_835bc3a5864dbf77112a0383b60f6459.jpg)
+![點解一定要嚟 ZONE OUT Bali](https://images.gobaligo.id/vocus/vocus_835bc3a5864dbf77112a0383b60f6459.jpg)
 
 ### 💬 旅客評價分享
 
@@ -76,7 +76,7 @@ ZONE OUT Bali 真係超適合排喺「落雨後備方案」或者「親子娛樂
 
 ## 快速連結
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_59f40e8823a3411d9458f4a11c4dce3f.png)
+![快速連結](https://images.gobaligo.id/vocus/vocus_59f40e8823a3411d9458f4a11c4dce3f.png)
 
 [峇里島雨季：旅遊峇里島碰到落雨點算？峇里島落雨嘅60個後備方案攻略](/blog/2026-bali-indoor-activities/)
 

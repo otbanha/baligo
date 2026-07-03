@@ -96,17 +96,17 @@ Provided by Libra Li
 
 About a 15-minute walk from the beach, it's a great value-for-money accommodation option.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780840649186-580705156.jpg)
+![Sunday, August 4: Arrival in Bali – Scooter Rental & Dinner](https://images.gobaligo.id/images/2026-06/1780840649186-580705156.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780840649662-580705490.jpg)
+![Sunday, August 4: Arrival in Bali – Scooter Rental & Dinner](https://images.gobaligo.id/images/2026-06/1780840649662-580705490.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780840650157-587688827.jpg)
+![Sunday, August 4: Arrival in Bali – Scooter Rental & Dinner](https://images.gobaligo.id/images/2026-06/1780840650157-587688827.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780840650560-580703456.jpg)
+![Sunday, August 4: Arrival in Bali – Scooter Rental & Dinner](https://images.gobaligo.id/images/2026-06/1780840650560-580703456.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780840651087-580704177.jpg)
+![Sunday, August 4: Arrival in Bali – Scooter Rental & Dinner](https://images.gobaligo.id/images/2026-06/1780840651087-580704177.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780840651588-580704246.jpg)
+![Sunday, August 4: Arrival in Bali – Scooter Rental & Dinner](https://images.gobaligo.id/images/2026-06/1780840651588-580704246.jpg)
 
 > ▶ Sara Residence Booking Links: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=186649) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685291&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6xMTFJMEkdZqJ49zB5weYhZgNDUwMHjBabJV37D_0VSNGu8rBs1pknftDnQaHAJ6IKQeeT2NPvMuusLXzto9DFyMrWGAG4-uXmhsZZ80Egp0RDjsYWU4wPhFawHTv1ivGUyzMHKeZL7HsYoyuVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg28TUUs_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBSEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLgswtgvIz8_Mgug1QxMISc0pTISqB9rmlQq0wrI19xMIUHfuJheEXC0MTK0MXKzNHD9MkIPlEaBcrn5mXkYeTt65hmK6Tqa7LBdYPIlKKhgYGBkampkbmugaJlhZJiQZGuiaWJsbGQMrMyMTUxFDjXtfjQ0-NjaylICGowKglGB_i6eliWFKYalZYaplTVGBqwHiKUcrQ3NjC0MjQ0MjIyNJYz8QizazYIq_YIjcrwoMxiM3C1NTR1SDKhos5NNhFsNCW6_piA2kHKeaQcBfFlTeZ1x6YcNpei9nTJcjw3n-WXG1lS_tAiy9i_O8tF9hHwuSTWKsydEPCM3rFCxgbGJm6GLkFGD0YIxgrgDzGVYzsXMwGJoYCLBsYGXcw_ocBxleMIEsA_fdKbUACAAA&masterhotelid_tracelogid=100025527-0a98ba02-494332-4624541&detailFilters=17|1~17~1*31|685291~31~685291*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=180&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/TxX6cCEc)
 
@@ -174,13 +174,13 @@ At 4 PM, the hotel offered a **free Candy Bar** that was a huge hit with the kid
 
 下午四點，飯店還提供了非常受小朋友喜愛的 **免費Candy Bar**，各種糖果和點心讓孩子們興奮不已，這項服務我極力推薦，特別適合帶小孩的家庭。此外，即使我們在退房後，飯店依然允許我們繼續使用設施，讓孩子們能夠繼續玩耍和享受飯店的泳池和其他設施。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780841023008-264423318.jpeg)
+![August 7 (Wed) Movenpick Resort & Spa Jimbaran Bali + Jimbar](https://images.gobaligo.id/images/2026-06/1780841023008-264423318.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780841023521-287058610.jpeg)
+![August 7 (Wed) Movenpick Resort & Spa Jimbaran Bali + Jimbar](https://images.gobaligo.id/images/2026-06/1780841023521-287058610.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780841024033-435107955.jpeg)
+![August 7 (Wed) Movenpick Resort & Spa Jimbaran Bali + Jimbar](https://images.gobaligo.id/images/2026-06/1780841024033-435107955.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780841024445-movenpick-resort-spa-jimbaran-bali-5.jpeg)
+![August 7 (Wed) Movenpick Resort & Spa Jimbaran Bali + Jimbar](https://images.gobaligo.id/images/2026-06/1780841024445-movenpick-resort-spa-jimbaran-bali-5.jpeg)
 
 ▶ Mövenpick Resort Jimbaran Booking Links: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1615522) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6373265&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazMLFJMEk1cPCMa3nwTk2IUYjA3mLr4KOSwpsua6vb3PwPHsGCF51OwTwREw58HwaeyJQfHHB_kCHRsZZM4FgZZhDFyMrWGoG48T_LcwbGcF6X6c47GBkOsG4XWEB0_2PnVKnWJg5OtkusXxliq5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDb2NxAz8AAKFKSWOGZAtaZnJiTXJqTWJIaUlkANMFMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQboIiFJeaUpkKcALTQLRVqh2GtDqbLn83pfdo988Wm3dhdbmJgjuJy8wFxuXFt7CMWpujYTywMv1gYmlgZuliZOU4xTQKS2xV2sfIEG_kEO0XoGupG6RpeYG1UllI0NDAwMDI1NTLXNUi0TEwyNLPQNbE0MTIz0zU0NzY1NjDUeHVl3YUnxkbWUpC4V2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xSgF1GBhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxOZqZuDs5Rxlw8Xs6RIk-EHv-fZ2a0t7KeaQcBfFD8uPeZt3nrbXAskZwuQC97zOOWFvvMA-EiafxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANq-PmcBAwAA&masterhotelid_tracelogid=100025527-0a9ab168-494266-1735301&detailFilters=17|1~17~1*31|6373265~31~6373265*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=216&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/JMjDzQtC)
 
@@ -208,13 +208,13 @@ https://youtu.be/UoGlRyAdyB8
 
 Tonight we checked into **Puri Padma Hotel**, a peaceful retreat in a quieter part of Ubud. The atmosphere is wonderfully comfortable, perfect for a good rest before our upcoming adventures.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780841256175-58899769.jpg)
+![August 8 (Thu) Relax at Movenpick Resort + Head to Ubud](https://images.gobaligo.id/images/2026-06/1780841256175-58899769.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780841256534-58899605.jpg)
+![August 8 (Thu) Relax at Movenpick Resort + Head to Ubud](https://images.gobaligo.id/images/2026-06/1780841256534-58899605.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780841256980-58899150.jpg)
+![August 8 (Thu) Relax at Movenpick Resort + Head to Ubud](https://images.gobaligo.id/images/2026-06/1780841256980-58899150.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780841257386-207279886.jpg)
+![August 8 (Thu) Relax at Movenpick Resort + Head to Ubud](https://images.gobaligo.id/images/2026-06/1780841257386-207279886.jpg)
 
 > ▶ Puri Padma Hotel Booking Links: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=624030) [Trip](https://hk.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1826711&checkIn=2026-12-02&checkOut=2026-12-03&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-PqYOFikmCSamThaNl7YjOzEKOBxW9BRwYQeJHg4Hn2DBAsSXEI4CkEixmUODQyglkiBQ4zGKfvz9_ImAYCz2wddjAyHWBkOsH4rFtsAdPJI1-ZTrGwcPS9Y7nE8pMpulopO7VSycpER6kksyQnVclK6emieU8b9jxf0aqko5SSWpwMFAKyEnPzS_NKgGxjSwtDUz0DA6BYSWKFZwpYb3JiTnJpTmJJakhlAdAMMx2lzGLnkqLMgqDU3MySklSgqrTEnOJUkHhQajFQJhksqOQHNKYIKpCZnwfRbogiFpaYU5oKcQTQQrdUqB2GtTqYbn82p_dp98wXm3YT63ZzarvdgBi3G9fGPmJhio79xMLwCxgXazaZNLEydLEyTGJl4fjyU2oXK5uZc4iRmd8F1kn7vKTkDQ0MDEwNjU1NdQ0SLRMtUhLNdU0sTczMLXQNjQzMzDVe3F82-ZWxkbUU65QDz6exKzBqCcaHeHq6GJYUppoVllrmFBWYGjCeYpQyNDe2MDQyNDQyMrI01jOxSDMrtsgrtsjNivBgDGJzdDI0M3CMsuFi9nQJEnx-f_uby7Mt7KVAPEUYTwvEM4TxAgOPz924WZDXPhImksRalaHr4Z1xRqyAsYuRW4DRgzGCsYKxgZFxFSPDBkbGHYz_YYDxFSPIMABwZ5kL6gIAAA&masterhotelid_tracelogid=100051355-0a9a8da7-494678-12067&detailFilters=17|1~17~1*31|1826711~31~1826711*80|0|1~80~0*29|1~29~1|2&display=exavg&subStamp=1656&isCT=true&isFlexible=F&locale=zh-HK&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17670361)
 
@@ -266,7 +266,7 @@ Our first stop of the day was the **Sacred Monkey Forest Sanctuary**. Home to ma
 
 Around noon, we joined **Ketut's Bali Cooking Class**, which was a truly fun experience. This cooking class not only taught us several traditional Balinese dishes but also allowed our two kids to participate at no extra charge. The whole process was highly interactive and educational, sparking the children's interest in cooking while we picked up plenty of culinary tips. It felt well worth it for the whole family.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6675b91e8be6f47759b14da4dcaf7419.jpg)
+![Sunday, August 11: Sacred Monkey Forest + Cooking Class + Ca](https://images.gobaligo.id/vocus/vocus_6675b91e8be6f47759b14da4dcaf7419.jpg)
 
 ▶[**Book Ketut's Bali Cooking Class on Klook**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=928391&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23861-cooking-class-ketut-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D15b1727648)
 
@@ -354,7 +354,7 @@ Sea turtles spotted during Gili T island hopping
 
 In the evening, we headed to the **Gili T Night Market**, where stalls offer a wide variety of local snacks, allowing us to taste many Balinese-style dishes. The market has a lively atmosphere with lots of people, and the food choices are abundant, though the prices don't seem very affordable.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1585db25c8a2397fdbff20cb10b84586.jpg)
+![August 15 (Thursday) Snorkeling Island Hopping + Gili T Nigh](https://images.gobaligo.id/vocus/vocus_1585db25c8a2397fdbff20cb10b84586.jpg)
 
 After a satisfying dinner, we chose a local massage parlor and enjoyed a relaxing massage. By the end of the day, we all felt both physically and mentally recharged, ready for the journey ahead.
 
@@ -394,17 +394,17 @@ https://youtu.be/2zlyuSQXR3w
 
 Our family joined a few games too, and the kids had a blast. This kind of locally-inspired celebration is truly special — it not only lets visitors feel the joy of the holiday but also gives us a deeper understanding of Indonesia’s history and culture.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842123714-187402078.jpg)
+![August 17 (Sat) Holiday Resort Lombok National Independence ](https://images.gobaligo.id/images/2026-06/1780842123714-187402078.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842124125-187402091.jpg)
+![August 17 (Sat) Holiday Resort Lombok National Independence ](https://images.gobaligo.id/images/2026-06/1780842124125-187402091.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842124573-187408558.jpg)
+![August 17 (Sat) Holiday Resort Lombok National Independence ](https://images.gobaligo.id/images/2026-06/1780842124573-187408558.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842125141-187408701.jpg)
+![August 17 (Sat) Holiday Resort Lombok National Independence ](https://images.gobaligo.id/images/2026-06/1780842125141-187408701.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842125523-187903022.jpg)
+![August 17 (Sat) Holiday Resort Lombok National Independence ](https://images.gobaligo.id/images/2026-06/1780842125523-187903022.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842126063-187903423.jpg)
+![August 17 (Sat) Holiday Resort Lombok National Independence ](https://images.gobaligo.id/images/2026-06/1780842126063-187903423.jpg)
 
 > ▶[Book Holiday Resort Lombok](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10371)
 
@@ -442,13 +442,13 @@ As evening fell, we headed to **Taman Sangkareang**, one of the locals' favorite
 
 Tonight we checked into **Lombok Raya Hotel**, a comfortable hotel in the heart of Mataram. The rooms are spacious and clean, with convenient amenities nearby—an ideal base for exploring Mataram.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842249382-38029347.jpg)
+![August 18 (Sun) Exploring Mataram City + Staying at Lombok R](https://images.gobaligo.id/images/2026-06/1780842249382-38029347.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842250083-183599889.jpg)
+![August 18 (Sun) Exploring Mataram City + Staying at Lombok R](https://images.gobaligo.id/images/2026-06/1780842250083-183599889.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842251212-189718798.jpg)
+![August 18 (Sun) Exploring Mataram City + Staying at Lombok R](https://images.gobaligo.id/images/2026-06/1780842251212-189718798.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842251606-569580149.jpg)
+![August 18 (Sun) Exploring Mataram City + Staying at Lombok R](https://images.gobaligo.id/images/2026-06/1780842251606-569580149.jpg)
 
 ▶[Book Lombok Raya Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=97579)
 
@@ -504,17 +504,17 @@ Left: Sunset hike at Novotel Lombok Resort, guided by a staff member / Right: Ti
 
 What impressed us most was the **tide pool** exploration near the hotel. Every day at low tide, we took the kids to observe the creatures in the tide pools, discovering fascinating marine life like starfish, crabs, and various small fish. This exploration sparked a deep interest in nature for the kids, and the whole family enjoyed this intimate time with the natural world.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842474766-251656487.jpg)
+![August 21 (Wed) to August 24 (Sat): A Relaxing Getaway at No](https://images.gobaligo.id/images/2026-06/1780842474766-251656487.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842475251-251656488.jpg)
+![August 21 (Wed) to August 24 (Sat): A Relaxing Getaway at No](https://images.gobaligo.id/images/2026-06/1780842475251-251656488.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842475759-251656490.jpg)
+![August 21 (Wed) to August 24 (Sat): A Relaxing Getaway at No](https://images.gobaligo.id/images/2026-06/1780842475759-251656490.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842476141-251656496.jpg)
+![August 21 (Wed) to August 24 (Sat): A Relaxing Getaway at No](https://images.gobaligo.id/images/2026-06/1780842476141-251656496.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842476539-251656510.jpg)
+![August 21 (Wed) to August 24 (Sat): A Relaxing Getaway at No](https://images.gobaligo.id/images/2026-06/1780842476539-251656510.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780842476873-377035202.jpg)
+![August 21 (Wed) to August 24 (Sat): A Relaxing Getaway at No](https://images.gobaligo.id/images/2026-06/1780842476873-377035202.jpg)
 
 ▶[Book Novotel Lombok Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10372)
 
@@ -522,7 +522,7 @@ Novotel Lombok Resort features traditional Sasak-style architecture, which is de
 
 Novotel Resort also has a Kid's Club—though small, it offers free childcare, and we saw many foreign families leaving their kids there to play, with different activities each day.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2ae1ab0d7586cddcf82115d28ca18e4a.jpg)
+![August 21 (Wed) to August 24 (Sat): A Relaxing Getaway at No](https://images.gobaligo.id/vocus/vocus_2ae1ab0d7586cddcf82115d28ca18e4a.jpg)
 
 ***
 
@@ -536,7 +536,7 @@ On our final day, we packed up and prepared to end this 26-day journey. We took 
 
 We transferred in Kuala Lumpur, boarding flight OD890 at 03:20, and finally landed in Kaohsiung at 07:55, bringing this wonderful vacation to a close. This trip was filled with unforgettable memories and experiences for both us adults and the kids. From urban exploration to natural wonders, this family adventure through Kuala Lumpur, Bali, and Lombok was rich and fulfilling, letting us savor the diverse charms of Southeast Asia—and we’re already looking forward to more travel adventures ahead!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2dbf473273852904e6fb1d32cada58ed.jpg)
+![August 25 (Sun) – Kuala Lumpur back to Kaohsiung](https://images.gobaligo.id/vocus/vocus_2dbf473273852904e6fb1d32cada58ed.jpg)
 
 Think Libra Li’s itinerary sounds amazing? Start planning your own Bali getaway now! Feel free to share your own trip in the group too!
 

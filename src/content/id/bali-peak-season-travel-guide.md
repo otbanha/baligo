@@ -23,7 +23,7 @@ lang: id
 _srcHash: f019131270effdafdfbef20fcd8f51e2
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_acec44040e6eb1d33d385be4be6d0d18.jpg)
+![Panduan Liburan ke Bali Saat Musim Ramai: Cara Hindari Macet](https://images.gobaligo.id/vocus/vocus_acec44040e6eb1d33d385be4be6d0d18.jpg)
 
 Bali terkenal banget sama pantainya yang cantik, tempat wisata budaya, dan pemandangan alamnya yang memukau. Tapi pas musim ramai kayak Natal dan Tahun Baru, banyaknya turis yang datang sering bikin jalanan macet dan masalah lalu lintas. Menurut data Dinas Perhubungan Bali, selama liburan Natal 2024 sampai Tahun Baru 2025, diperkirakan ada lebih dari **322.000 kendaraan** yang keluar-masuk Bali. Dari jumlah itu, **289.000 kendaraan** datang dari Pulau Jawa (Jakarta/Surabaya) lewat Pelabuhan Gilimanuk, dan **32.000 kendaraan** lewat Pelabuhan Padangbai. Selain itu, sekitar **2,7 juta wisatawan** bakal membanjiri Bali, dengan **1,5 juta orang** lewat bandara, **1,1 juta orang** lewat Pelabuhan Gilimanuk, dan **95.000 orang** lewat Pelabuhan Padangbai.
 
@@ -51,7 +51,7 @@ Buat kamu yang cari supir handal, pengen tahu layanan mobil sewaan itu kayak gim
 
 Pas musim ramai, daerah pesisir barat kayak **Kuta**, **Seminyak**, **Canggu** pasti jadi pusat keramaian turis, macetnya udah pasti. Kalau kamu pengen liburan yang lebih tenang, coba pertimbangkan daerah-daerah ini:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a5ecb9763da3a075dbe08fcb57b1c782.png)
+![Hindari Tempat Wisata yang Lagi Ramai: Cari Spot yang Lebih ](https://images.gobaligo.id/vocus/vocus_a5ecb9763da3a075dbe08fcb57b1c782.png)
 
 - **Semenanjung Bukit**: Daerah di selatan bandara ini, lengkapnya bisa cek di [sini](/blog/bukit-peninsula-guide/).
 - **Amed**: Ada di timur Bali, terkenal sama pasir hitam yang tenang dan spot diving kece. Cek video dari Xiao Jie di bawah ini:
@@ -59,7 +59,7 @@ Pas musim ramai, daerah pesisir barat kayak **Kuta**, **Seminyak**, **Canggu** p
 - **Tabanan**: Dikenal sama sawah terasering dan pemandangan alamnya, cocok buat yang mau jauhin keramaian.
 - **Taman Nasional Bali Barat** (Bali Barat National Park): Alamnya asri dan bisa lihat satwa liar, pengalaman yang unik banget.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3a72ff04f9c651d18597734cdbcfe33f.jpg)
+![Hindari Tempat Wisata yang Lagi Ramai: Cari Spot yang Lebih ](https://images.gobaligo.id/vocus/vocus_3a72ff04f9c651d18597734cdbcfe33f.jpg)
 
 Daerah-daerah ini nggak cuma lebih sepi, tapi juga bikin kamu makin dekat sama alam Bali, liburan jadi lebih rileks.
 

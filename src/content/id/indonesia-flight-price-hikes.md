@@ -26,7 +26,7 @@ lang: id
 _srcHash: c832fa1525f93cc3e670ce578ae54c81
 ---
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775702831699-1000117790.jpg)
+![長榮、華航、星宇全部漲價！4/7起機票有感調漲！前進Bali與印尼，達人傳授3招省錢飛](https://images.gobaligo.id/images/2026-04/1775702831699-1000117790.jpg)
 
 受國際油價飆升影響，交通部民航局已宣布，自2026年4月7日起，部分（華航、長榮、星宇）從台灣出發的航線，客運燃油附加費將大幅調漲157%。這波漲勢對計畫飛長程的旅客，衝擊尤其顯著。
 
@@ -63,7 +63,7 @@ Berdasarkan tarif baru, biaya bahan bakar untuk penerbangan ke Bali (termasuk ru
 
 Ngehadapin tiket pesawat ke Bali atau Jakarta yang makin mahal, para traveler jagoan punya 3 jurus jitu buat bikin dompet kamu tetap aman:
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775702565966-1000117789.jpg)
+![Gimana Cara Ngatasinnya?](https://images.gobaligo.id/images/2026-04/1775702565966-1000117789.jpg)
 
 ### Jurus 1: Manfaatin "Transit di Luar", Hindarin Tiket Direct yang Mahal
 

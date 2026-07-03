@@ -29,7 +29,7 @@ Bali, the tropical paradise known as the 'Island of the Gods,' is world-famous f
 
 ## **1. High-End Accommodation: Stay in Top-Tier Resorts and Private Villas**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_21f3270f5edab3a81cd63906207800ba.jpg)
+![1. High-End Accommodation: Stay in Top-Tier Resorts and Priv](https://images.gobaligo.id/vocus/vocus_21f3270f5edab3a81cd63906207800ba.jpg)
 
 Bali boasts a wealth of world-class luxury resorts and private villas, offering an unparalleled stay. Whether it's a sea-view villa in Seminyak or a secluded rainforest retreat in Ubud, you can choose from our curated selection of top-tier resorts, each featuring private pools, dedicated butlers, and personal chefs. Enjoy the ultimate comfort and privacy, making every moment a blend of luxury and relaxation.
 
@@ -37,7 +37,7 @@ Bali boasts a wealth of world-class luxury resorts and private villas, offering 
 
 ## **2. Exclusive Transportation: Luxury Rides and Private Drivers**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d1129a44cfaab55741ffa79adc1d3a00.jpg)
+![2. Exclusive Transportation: Luxury Rides and Private Driver](https://images.gobaligo.id/vocus/vocus_d1129a44cfaab55741ffa79adc1d3a00.jpg)
 
 In Bali, even getting around can be a pleasure. We arrange a **Toyota Alphard** luxury vehicle with an experienced driver, ensuring every trip is comfortable and seamless. From airport transfers and island tours to evening outings, your private driver is always on standby, letting you focus on enjoying the journey without worrying about a single detail.
 
@@ -45,7 +45,7 @@ In Bali, even getting around can be a pleasure. We arrange a **Toyota Alphard** 
 
 ## **3. Unique Experiences: Deep Dive into Bali's Culture and Nature**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d93fd8d9cc495e7efa8f0a9e541ca932.png)
+![3. Unique Experiences: Deep Dive into Bali's Culture and Nat](https://images.gobaligo.id/vocus/vocus_d93fd8d9cc495e7efa8f0a9e541ca932.png)
 
 Bali's allure goes beyond its natural beauty, rooted in its profound cultural heritage. We provide a private Mandarin-speaking guide to take you deep into local villages, visit ancient temples, and participate in traditional ceremonies. You can also enjoy a private beach dinner, savoring cuisine on the romantic sands, or book a high-end spa treatment for total relaxation. If you're interested in the arts, we can arrange private dance performances or art workshops, allowing you to immerse yourself in the essence of Balinese culture.
 
@@ -53,7 +53,7 @@ Bali's allure goes beyond its natural beauty, rooted in its profound cultural he
 
 ## **4. Culinary Delights: A Taste of Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5125801e71f81fd2f4051b69bf458473.jpg)
+![4. Culinary Delights: A Taste of Bali](https://images.gobaligo.id/vocus/vocus_5125801e71f81fd2f4051b69bf458473.jpg)
 
 Bali's culinary scene is rich and diverse, ranging from local specialties to world-class international cuisine. We design a personalized food tour for you, letting you sample the most authentic Balinese flavors and dine at upscale restaurants for an ultimate gastronomic experience.
 
@@ -61,7 +61,7 @@ Bali's culinary scene is rich and diverse, ranging from local specialties to wor
 
 ## **5. Personalized Service: A Tailor-Made Journey**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00d1ccc0371b6eba96f9bd5f2b1b6104.jpg)
+![5. Personalized Service: A Tailor-Made Journey](https://images.gobaligo.id/vocus/vocus_00d1ccc0371b6eba96f9bd5f2b1b6104.jpg)
 
 Every traveler's needs are unique, so we offer fully personalized services, crafting a custom itinerary based on your preferences and requirements. Whether it's a romantic honeymoon, a warm family vacation, or a dreamy island wedding, we can tailor it just for you. Plus, our online customer support is always available to ensure your trip goes flawlessly.
 

@@ -135,25 +135,25 @@ If you're on a budget but still want to experience authentic Balinese accommodat
 
 ## Platinum Hotel Jimbaran Beach Bali
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774399998618-573844022.jpg)
+![Platinum Hotel Jimbaran Beach Bali](https://images.gobaligo.id/images/2026-03/1774399998618-573844022.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774399998987-537387050.jpg)
+![Platinum Hotel Jimbaran Beach Bali](https://images.gobaligo.id/images/2026-03/1774399998987-537387050.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774399999397-537387056.jpg)
+![Platinum Hotel Jimbaran Beach Bali](https://images.gobaligo.id/images/2026-03/1774399999397-537387056.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774399999785-537387913.jpg)
+![Platinum Hotel Jimbaran Beach Bali](https://images.gobaligo.id/images/2026-03/1774399999785-537387913.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400000221-573843759.jpg)
+![Platinum Hotel Jimbaran Beach Bali](https://images.gobaligo.id/images/2026-03/1774400000221-573843759.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400000649-573849105.jpg)
+![Platinum Hotel Jimbaran Beach Bali](https://images.gobaligo.id/images/2026-03/1774400000649-573849105.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400000996-573849267.jpg)
+![Platinum Hotel Jimbaran Beach Bali](https://images.gobaligo.id/images/2026-03/1774400000996-573849267.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400001458-35130636825987f50a3cba9e7608150b_large.jpeg)
+![Platinum Hotel Jimbaran Beach Bali](https://images.gobaligo.id/images/2026-03/1774400001458-35130636825987f50a3cba9e7608150b_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400001885-a369b8aad39feef1b1a92f1aa6a7eada_large.jpeg)
+![Platinum Hotel Jimbaran Beach Bali](https://images.gobaligo.id/images/2026-03/1774400001885-a369b8aad39feef1b1a92f1aa6a7eada_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400002303-c1ecc4daad83912e679c3459fbd6522e_large.jpeg)
+![Platinum Hotel Jimbaran Beach Bali](https://images.gobaligo.id/images/2026-03/1774400002303-c1ecc4daad83912e679c3459fbd6522e_large.jpeg)
 
 📍**Location**｜Newly opened in 2024, Platinum Hotel Jimbaran Beach Bali is just a short walk from Kedonganan Beach and Jimbaran Beach, located only 30 meters from the sand, making it easy for guests to enjoy sunbathing and beach activities. Just 1 kilometer from Bali's Ngurah Rai International Airport, it's perfect for travelers needing airport transfers, with paid shuttle services available.
 
@@ -167,17 +167,17 @@ If you're on a budget but still want to experience authentic Balinese accommodat
 
 ## Arpana Luxury Private Pool Villas
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400329409-68d5eb69-e341-43a6-af66-f6b87c7c53b1.jpg)
+![Arpana Luxury Private Pool Villas](https://images.gobaligo.id/images/2026-03/1774400329409-68d5eb69-e341-43a6-af66-f6b87c7c53b1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400329731-4fc76d8e-abc9-443b-a55b-f9e4a4a56bb3.jpg)
+![Arpana Luxury Private Pool Villas](https://images.gobaligo.id/images/2026-03/1774400329731-4fc76d8e-abc9-443b-a55b-f9e4a4a56bb3.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400330029-9d85f63b-ffa1-495b-bac8-f313799e1f91.jpg)
+![Arpana Luxury Private Pool Villas](https://images.gobaligo.id/images/2026-03/1774400330029-9d85f63b-ffa1-495b-bac8-f313799e1f91.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400330465-448ba5c0-893b-448e-a05c-3d020a567be7.jpg)
+![Arpana Luxury Private Pool Villas](https://images.gobaligo.id/images/2026-03/1774400330465-448ba5c0-893b-448e-a05c-3d020a567be7.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400330867-ac2009b9-e03c-4b0a-9973-dc2186c6ad70.jpg)
+![Arpana Luxury Private Pool Villas](https://images.gobaligo.id/images/2026-03/1774400330867-ac2009b9-e03c-4b0a-9973-dc2186c6ad70.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400331278-ff8c2225-34ee-4445-a9e0-98c2ce0c6655.jpg)
+![Arpana Luxury Private Pool Villas](https://images.gobaligo.id/images/2026-03/1774400331278-ff8c2225-34ee-4445-a9e0-98c2ce0c6655.jpg)
 
 📍Location｜Arpana Villa is situated on the hills of Jimbaran in Bali, just a 15-20 minute drive from the airport. Its quiet and scenic location, though not in the bustling area, offers easy access to Grab rides and food delivery, making it perfect for travelers seeking privacy away from the crowds.
 

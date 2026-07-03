@@ -39,7 +39,7 @@ Sebelum menjawab pertanyaan yang paling sering ditanyakan di dua grup Facebook k
 
 "Suhu rata-rata" adalah suhu udara yang diukur secara aktual, sedangkan suhu yang dirasakan tubuh adalah tingkat panas atau dingin yang dirasakan manusia, dipengaruhi oleh kelembaban, kecepatan angin, dan sinar matahari. Misalnya, pada suhu 30°C yang sama, saat kelembaban tinggi, suhu yang dirasakan akan lebih pengap dan panas, sedangkan jika ada angin, akan terasa lebih sejuk.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cad1d4b85960806ae37730b1da52e654.png)
+![Penjelasan Suhu](https://images.gobaligo.id/vocus/vocus_cad1d4b85960806ae37730b1da52e654.png)
 
 ## **Indeks Kesesuaian Wisata**
 

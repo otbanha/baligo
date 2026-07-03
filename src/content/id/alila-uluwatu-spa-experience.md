@@ -33,7 +33,7 @@ _srcHash: 4b3c652dbf794d6fddfeff31e6a9e689
 
 ## **Saat Relaksasi Ekstrem di Bali Menjadi Sebuah Seni**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_24ebbaad1dfcfe06f1835d6e0c0e9c9a.jpg)
+![Saat Relaksasi Ekstrem di Bali Menjadi Sebuah Seni](https://images.gobaligo.id/vocus/vocus_24ebbaad1dfcfe06f1835d6e0c0e9c9a.jpg)
 
 Bicara soal pengalaman relaksasi kelas atas di Bali, SPA di Alila Villas Uluwatu jelas jadi simbol kemewahan dan ketenangan. Resort tersembunyi di atas tebing setinggi 100 meter di Uluwatu ini nggak cuma terkenal dengan arsitektur sarang burung ikonik dan desain ramah lingkungan, tapi juga menawarkan pengalaman SPA yang memadukan kearifan lokal dengan filosofi penyembuhan modern. Cocok buat kamu yang mencari ketenangan jiwa dan raga. Saat angin laut Samudra Hindia berhembus melewati bangunan terbuka, saat terapi tradisional Bali bertemu estetika minimalis kontemporer — sebuah perjalanan sensorik yang luar biasa dimulai...
 
@@ -43,9 +43,9 @@ Aku memesan paket 'SPA小屋套餐' (paket pondok SPA di tebing) untuk jam tiga 
 
 ## **Waktu Ajaib yang Mengambang di Atas Ombak**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3d961129c71331ca4024f0acd0208c9c.jpg)
+![Waktu Ajaib yang Mengambang di Atas Ombak](https://images.gobaligo.id/vocus/vocus_3d961129c71331ca4024f0acd0208c9c.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b938c11756f65b010cd5329a19cf255e.jpg)
+![Waktu Ajaib yang Mengambang di Atas Ombak](https://images.gobaligo.id/vocus/vocus_b938c11756f65b010cd5329a19cf255e.jpg)
 
 Mengikuti terapis melewati lorong anyaman bambu, pondok SPA independen di tepi tebing tiba-tiba muncul—seluruh jendela dari lantai ke langit-langit membingkai luasnya Samudra Hindia menjadi lukisan dinamis. Dari sudut pandang unik saat berbaring di meja pijat, melalui lantai kaca aku bisa melihat langsung tebing setinggi 100 meter, suara ombak yang pecah menjadi mutiara di karang berpadu sempurna dengan resonansi mangkuk tembaga di tangan terapis. Saat minyak kelapa hangat mengalir di sepanjang tulang belakang, aku tiba-tiba mengerti rahasia tempat ini: Alila mengubah kekuatan lanskap menjadi bagian dari perawatan.
 
@@ -53,7 +53,7 @@ Mengikuti terapis melewati lorong anyaman bambu, pondok SPA independen di tepi t
 
 ## **Pesta Kulit dari Karunia Alam**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7a659a97213b35d3112e3514857e94e1.jpg)
+![Pesta Kulit dari Karunia Alam](https://images.gobaligo.id/vocus/vocus_7a659a97213b35d3112e3514857e94e1.jpg)
 
 Aku sangat menyukai sesi eksfoliasi yang menggunakan lumpur mineral vulkanik, dicampur dengan tekstur scrub kelapa segar. Di bawah gerakan melingkar terapis yang terampil, rasanya seperti sinar matahari Bali meresap ke dalam pori-pori. Pada tahap pijat batu panas, batu basal yang dipilih direndam dalam minyak esensial herbal lokal, suhu dan berat setiap batu telah dihitung dengan presisi. Yang paling mengejutkan adalah sesi aromaterapi di tengah perawatan—lima aroma yang sesuai dengan pohon suci Bali, dan terapis merekomendasikan formula 'Daun Bodhi' yang paling cocok berdasarkan ritme pernapasanku.
 
@@ -65,7 +65,7 @@ Setelah sesi SPA selesai, teh sore di teras adalah kelanjutan sensasi yang diran
 
 ## **Akhir Sempurna di Bawah Senja**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2a014e635908c6e5ac3456de0f75cbc5.jpg)
+![Akhir Sempurna di Bawah Senja](https://images.gobaligo.id/vocus/vocus_2a014e635908c6e5ac3456de0f75cbc5.jpg)
 
 Sambil memegang teh vanila yang belum habis, aku mengikuti suara air menuju kolam renang tanpa batas yang paling dibanggakan Alila. Dengan struk SPA, kamu bisa masuk gratis ke tempat air yang spektakuler di tebing ini. Saat tubuhku tenggelam dalam air kolam yang suhunya sama dengan suhu tubuh, tepat waktu matahari terbenam—bola api perlahan jatuh ke permukaan laut, mewarnai kolam menjadi emas cair yang mengalir. Bersandar di area dangkal kolam, biarkan suara ombak dan suara gong dari kejauhan berpadu, minyak esensial hangat yang terkumpul selama SPA tadi perlahan menyebar dengan aliran air, kulitku seperti dilapisi cahaya madu oleh senja. Saat itulah aku benar-benar mengerti kenapa tempat ini dijuluki 'titik terbaik untuk menikmati matahari terbenam di kolam renang di Bali'.
 
@@ -85,7 +85,7 @@ Sambil memegang teh vanila yang belum habis, aku mengikuti suara air menuju kola
 
 [**【Definisi Baru Kemewahan di Bali】Alila Villas Uluwatu｜Kolam Renang Infinity Terbaik Dunia ✧ Tempat Favorit Artis untuk Nikah**](/blog/alila-villas-uluwatu-bali/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a94ea4e5d3d05549aa074f0913cf1946.jpg)
+![Review Menginap di Alila Uluwatu:](https://images.gobaligo.id/vocus/vocus_a94ea4e5d3d05549aa074f0913cf1946.jpg)
 
 ***
 

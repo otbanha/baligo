@@ -22,7 +22,7 @@ _srcHash: f5dbb49b6ba162ed7788f0638802ab5e
 
 峇里島嘅愛好者大多聽過「靜居日」（Nyepi），呢個係峇里島一年一度嘅特殊日子。但少有人知道另一個較為神秘嘅節日「海洋寧靜日」（Nyepi Laut）。喺今年嘅10月18日，「海洋寧靜日」即將到嚟，呢個意味住計劃前往峇里島、努沙佩尼達島、金銀島同埋藍夢島嘅遊客需要仔細檢查佢哋嘅行程，以避免不必要嘅麻煩。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a2a7c26b85cb99ddd485b2133702d2e2.png)
+![峇里島文化節慶可能影響10月18日嘅旅遊計劃](https://images.gobaligo.id/vocus/vocus_a2a7c26b85cb99ddd485b2133702d2e2.png)
 
 ## **咩係海洋寧靜日？**
 
@@ -50,7 +50,7 @@ _srcHash: f5dbb49b6ba162ed7788f0638802ab5e
 
 由10月19號清晨開始，所有海上活動會逐漸恢復正常，船運、浮潛、潛水等旅遊活動會重新開始。所以，計劃喺18號進行呢啲活動嘅遊客，應該考慮更改行程，避開呢個神聖嘅節日。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5ed269a843a5f1ff7a8651552695af98.png)
+![幾時恢復正常？](https://images.gobaligo.id/vocus/vocus_5ed269a843a5f1ff7a8651552695af98.png)
 
 延伸閱讀：[【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/nusa-penida-guide/)
 
@@ -92,7 +92,7 @@ _srcHash: f5dbb49b6ba162ed7788f0638802ab5e
 
 📩 **立即加入「峇里島旅遊攻略」網誌，成為峇里島旅遊達人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![註冊加入我哋嘅網誌](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

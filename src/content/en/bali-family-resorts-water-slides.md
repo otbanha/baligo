@@ -32,7 +32,7 @@ Do you have a little otter who loves to splash in the water? A young sailor who 
 
 Bali is the perfect destination for a family paradise, featuring sunny beaches, a range of activities, and resorts that will delight children! Known for their stunning water slides, these resorts help families create lasting memories on the island.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f40dc94298e72b6732786f482784040e.png)
+![Bali Family Paradise: Top 15 Resorts with Water Slides for K](https://images.gobaligo.id/vocus/vocus_f40dc94298e72b6732786f482784040e.png)
 
 This article introduces the top 15 resorts in Bali that are ideal for family travel, featuring water slides. These places not only offer family-friendly accommodations but also create joyful water parks where both kids and adults can enjoy their vacation.
 
@@ -42,7 +42,7 @@ This article introduces the top 15 resorts in Bali that are ideal for family tra
 
 ### **Hard Rock Hotel Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_deea0cd79c4dc237312aa957560a52db.jpg)
+![Hard Rock Hotel Bali](https://images.gobaligo.id/vocus/vocus_deea0cd79c4dc237312aa957560a52db.jpg)
 
 A classic choice in the Kuta area, featuring a themed water park and a Kids Club that children adore, allowing your kids to play to their heart's content. The pool area includes water slides, a large waterfall, and other fun water features.
 
@@ -50,7 +50,7 @@ A classic choice in the Kuta area, featuring a themed water park and a Kids Club
 
 ### **Padma Resort Legian**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4a9e5155fb4a0550b8d717a16896c0b1.jpg)
+![Padma Resort Legian](https://images.gobaligo.id/vocus/vocus_4a9e5155fb4a0550b8d717a16896c0b1.jpg)
 
 Located in Legian, this 5-star resort features a kid-friendly water park and spacious swimming pools, making it the perfect vacation spot for families.
 
@@ -58,7 +58,7 @@ Located in Legian, this 5-star resort features a kid-friendly water park and spa
 
 ### Bali Mandira Beach Resort
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_37799cdd2dd17680c1f49c0de7e07085.jpg)
+![Bali Mandira Beach Resort](https://images.gobaligo.id/vocus/vocus_37799cdd2dd17680c1f49c0de7e07085.jpg)
 
 This resort in Legian boasts a prime beachfront location, offering a charming water park and diverse pool options, ensuring your family enjoys a relaxing and delightful stay.
 
@@ -70,7 +70,7 @@ This resort in Legian boasts a prime beachfront location, offering a charming wa
 
 ### **FuramaXclusive Ocean Beach Seminyak**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_56b587c782d5e312796c9d3e17470101.jpg)
+![FuramaXclusive Ocean Beach Seminyak](https://images.gobaligo.id/vocus/vocus_56b587c782d5e312796c9d3e17470101.jpg)
 
 Situated between Seminyak and Legian, this 4-star resort features a children's water play area and swimming pools, making it an ideal choice for a getaway.
 
@@ -80,7 +80,7 @@ Situated between Seminyak and Legian, this 4-star resort features a children's w
 
 ### **Grand Mirage Resort & Thalasso Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8532eeaf77d07f59c7e199b127cb6d61.jpg)
+![Grand Mirage Resort & Thalasso Bali](https://images.gobaligo.id/vocus/vocus_8532eeaf77d07f59c7e199b127cb6d61.jpg)
 
 This all-inclusive resort is located in the tranquil Benoa area, offering a captivating water park and fun-filled activities that will bring endless joy to your little adventurers.
 
@@ -88,7 +88,7 @@ This all-inclusive resort is located in the tranquil Benoa area, offering a capt
 
 ### **Hilton Bali Resort**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ec87a751b049af7eb5fb3000f0148d77.png)
+![Hilton Bali Resort](https://images.gobaligo.id/vocus/vocus_ec87a751b049af7eb5fb3000f0148d77.png)
 
 This five-star Hilton resort features beachfront pools, a children's water play area, and thrilling water slides, providing ultimate enjoyment for your family.
 
@@ -96,7 +96,7 @@ This five-star Hilton resort features beachfront pools, a children's water play 
 
 ### **Grand Hyatt Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c1b7b7fa062317db2fdb4c3d4520180d.jpg)
+![Grand Hyatt Bali](https://images.gobaligo.id/vocus/vocus_c1b7b7fa062317db2fdb4c3d4520180d.jpg)
 
 This luxurious resort in Nusa Dua boasts multiple pools, including an adventurous water park where your children can play to their heart's content.
 
@@ -104,7 +104,7 @@ This luxurious resort in Nusa Dua boasts multiple pools, including an adventurou
 
 ### **The Apurna Kempinski Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_741f811c3881e8ac75e8e3941fa8a179.jpg)
+![The Apurna Kempinski Bali](https://images.gobaligo.id/vocus/vocus_741f811c3881e8ac75e8e3941fa8a179.jpg)
 
 This luxurious Indonesian-style resort features multi-level water slides and a stunning main pool, making it a perfect family-friendly vacation destination.
 
@@ -112,7 +112,7 @@ This luxurious Indonesian-style resort features multi-level water slides and a s
 
 ### **The Westin Resort, Nusa Dua**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9d587ffca074a227125e9a4f9308aac3.jpg)
+![The Westin Resort, Nusa Dua](https://images.gobaligo.id/vocus/vocus_9d587ffca074a227125e9a4f9308aac3.jpg)
 
 Located in Nusa Dua, this resort offers a kids' club, water slides, and spacious pools, ensuring plenty of entertainment options for your family.
 
@@ -120,7 +120,7 @@ Located in Nusa Dua, this resort offers a kids' club, water slides, and spacious
 
 ### **Holiday Inn Resort Bali Nusa Dua**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff6c8a22e88ccf6084d4ba4121478000.jpg)
+![Holiday Inn Resort Bali Nusa Dua](https://images.gobaligo.id/vocus/vocus_ff6c8a22e88ccf6084d4ba4121478000.jpg)
 
 This family-friendly resort in South Bay features five pools, including a colorful kids' water park and water slides, ensuring unforgettable moments for you and your children.
 
@@ -132,7 +132,7 @@ This family-friendly resort in South Bay features five pools, including a colorf
 
 ### **AYANA Resort, Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5adf4aacc4cca8b902ecb041966b40c7.jpg)
+![AYANA Resort, Bali](https://images.gobaligo.id/vocus/vocus_5adf4aacc4cca8b902ecb041966b40c7.jpg)
 
 Perched on the cliffs of Jimbaran, AYANA Resort is a luxurious retreat within the AYANA estate, offering breathtaking views of the Indian Ocean. The resort features 14 different pools spread across four separate but interconnected resorts. This is one of Bali's most popular resorts—check out our [AYANA Accommodation Guide](/blog/ayana-resort-bali-guide/) for more details. The kids' pool comes with two water slides, giving children the thrill of exploring a tropical jungle.
 
@@ -140,7 +140,7 @@ Perched on the cliffs of Jimbaran, AYANA Resort is a luxurious retreat within th
 
 ### **RIMBA Jimbaran BALI by AYANA**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3c38aa29ff9f3f91747039a95dcc12d3.jpg)
+![RIMBA Jimbaran BALI by AYANA](https://images.gobaligo.id/vocus/vocus_3c38aa29ff9f3f91747039a95dcc12d3.jpg)
 
 RIMBA is a more affordable and modern resort within the AYANA estate, featuring artistic installations, stylish interiors, and stunning views of the Indian Ocean. The kids' area includes a winding two-level water slide, while nearby pool bars and sunken loungers make sipping cool drinks even more enjoyable.
 
@@ -148,7 +148,7 @@ RIMBA is a more affordable and modern resort within the AYANA estate, featuring 
 
 ### **Movenpick Resort and Spa Jimbaran**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b5efe1510f084d914feca6bba6128a01.jpg)
+![Movenpick Resort and Spa Jimbaran](https://images.gobaligo.id/vocus/vocus_b5efe1510f084d914feca6bba6128a01.jpg)
 
 This five-star resort in Jimbaran boasts a charming water park for kids, where they can play to their heart's content. The main pool wraps around the building, perfect for a refreshing swim, and there's also a bubbling hot tub.
 
@@ -160,7 +160,7 @@ This five-star resort in Jimbaran boasts a charming water park for kids, where t
 
 ### Prama Sanur Beach Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6d8c6de0de7c326d7b96fc760283790a.jpg)
+![Prama Sanur Beach Bali](https://images.gobaligo.id/vocus/vocus_6d8c6de0de7c326d7b96fc760283790a.jpg)
 
 Located on the beach in Sanur, Prama Sanur Beach Hotel offers a variety of child-friendly activities, including the super fun Splash Zone. This large water park features water slides and plenty of aquatic facilities, ensuring your family is never far from fun.
 
@@ -168,7 +168,7 @@ Located on the beach in Sanur, Prama Sanur Beach Hotel offers a variety of child
 
 ### **Prime Plaza Suites Sanur**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7f99a7e16cd34990a45592b944746edc.jpg)
+![Prime Plaza Suites Sanur](https://images.gobaligo.id/vocus/vocus_7f99a7e16cd34990a45592b944746edc.jpg)
 
 Prime Plaza Suites Sanur is one of Bali's popular family resorts. The children's water play area features an exciting 30-meter water slide and a shallow pool, making it a paradise for kids. Additionally, the resort offers a free kids' club where children can enjoy outdoor playgrounds, indoor play areas, and PS4 gaming zones.
 
@@ -176,7 +176,7 @@ Prime Plaza Suites Sanur is one of Bali's popular family resorts. The children's
 
 ## Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b5571bf2988db848cdf0c08b20164cb.png)
+![Ubud](https://images.gobaligo.id/vocus/vocus_3b5571bf2988db848cdf0c08b20164cb.png)
 
 (Read more: [Ubud Family Travel Guide: 55 Kid-Friendly Activities!](/blog/ubud-with-kids-guide/))
 

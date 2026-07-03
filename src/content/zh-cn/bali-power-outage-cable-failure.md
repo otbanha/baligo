@@ -25,7 +25,7 @@ _srcHash: 00edf4a720b1e6d266e4095de16e85e1
 
 2025年5月2日下午4点，巴厘岛突如其来的停电事件，导致全岛几乎陷入无电状态。此次大停电给当地民生、交通与旅游业造成重大影响。PT PLN（印尼国家电力公司）迅速展开修复行动，并持续更新供电情况。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_da277efc556c6ee025a7bfedbf8bd7e8.jpg)
+![巴厘岛突发大停电，全岛陷入黑暗](https://images.gobaligo.id/vocus/vocus_da277efc556c6ee025a7bfedbf8bd7e8.jpg)
 
 ---
 

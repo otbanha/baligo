@@ -25,7 +25,7 @@ _srcHash: af205f5bf322819e33e5e0f910c7749c
 
 根据现行规定，台湾或香港访客可以申请落地签证或付费申请电子落地签（e-VOA），费用约USD$32（Rp. 500,000）。该文件有效期为30天，可以延期一次。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_62407b2522dba31e259fd695ae51864b.png)
+![旅游便利升级！印尼或拟开放免签，台湾游客福利大增](https://images.gobaligo.id/vocus/vocus_62407b2522dba31e259fd695ae51864b.png)
 
 在阅读我们的**「巴厘岛自由行究极旅行攻略」**之前，我们诚挚地邀请您先订阅我们更多视觉体验分享的YouTube频道**「小杰 印尼」**。[点击这里](http://bit.ly/youtube-jason)，立即订阅
 

@@ -47,7 +47,7 @@ update:2026/06/20
 5. **孩童无忧，专业照顾** 包车司机能够提供额外的服务，包括照顾小朋友，确保他们在旅途中舒适、安全，更有的优质司机还会成为小孩子的好朋友，让父母更能放松地享受巴厘岛的美好。
 6. **解决旅程疑难杂症** 遇到旅程上的疑难杂症？包车司机是你的得力助手！无论是突发状况、临时需要买什么东西，还是需要即时的建议，司机都乐意协助，确保你的旅程顺畅无阻。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_459b731a3eb204e721ef75e310f765b7.png)
+![包车服务的优势](https://images.gobaligo.id/vocus/vocus_459b731a3eb204e721ef75e310f765b7.png)
 
 总的来说，巴厘岛包车不仅是一趟交通工具，更是你旅行中的贴心伙伴，为你提供一个无忧、舒适的度假体验。
 
@@ -75,7 +75,7 @@ update:2026/06/20
 
 ## **巴厘岛优质包车司机名人榜**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a3e164141c01ab7252a702befd2a22b0.png)
+![巴厘岛优质包车司机名人榜](https://images.gobaligo.id/vocus/vocus_a3e164141c01ab7252a702befd2a22b0.png)
 
 我们用心收集了我们经营的两个脸书社团的丰富资源：「[巴厘岛/印尼吃喝玩乐](https://www.facebook.com/groups/indonesia.travelguide)」以及「[Go Bali Go 巴厘岛旅游](https://www.facebook.com/groups/baligo)」，几乎囊括了所有团友们强力推荐的优质司机，精选制作成了「**巴厘岛优质包车司机名人榜**」！这份榜单不仅是团友们的实际旅游经验，也是我们在巴厘岛多年观察与累积的宝贵资源。从驾驶技术、服务态度到沟通能力，每位上榜司机都经过大家的严格评比，确保您能够享受到安全、舒适、且值得信赖的旅程。
 
@@ -95,7 +95,7 @@ update:2026/06/20
 
 > 巴厘岛包车的起跳价约为600.000~800,000之间，包含一台五人座车/十小时使用时间/旅游范围乌布以南
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
+![巴厘岛包车FAQ](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
 
 请看：[【2026 巴厘岛交通公告】7月1日起包车价格调整通知：司机团队最新报价、计费方式](https://gobaligo.id/blog/bali-car-charter-rates-2026/)
 
@@ -170,7 +170,7 @@ update:2026/06/20
 
 旅途中的每一次相遇，都是双向的信任与尊重。当您预约司机、导游或任何在地服务时，恳请您：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9dd3f7ee3230df05978350e00ccee88b.png)
+![最后提醒](https://images.gobaligo.id/vocus/vocus_9dd3f7ee3230df05978350e00ccee88b.png)
 
 {{block:包車}}
 

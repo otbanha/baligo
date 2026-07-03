@@ -34,20 +34,20 @@ lang: id
 _srcHash: 56ff22384070d65e9bc5a1dd511e7722
 ---
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776061962467-mixcollage-13-apr-2026-01-25-pm-4838.jpg)
+![【Bali Belanja Dekorasi Rumah】Lampu Gantung Kerang Kurang dar](https://images.gobaligo.id/images/2026-04/1776061962467-mixcollage-13-apr-2026-01-25-pm-4838.jpg)
 
 > Sharing langsung dari anggota grup Facebook, Huang Yuning | Beneran cuma di sini ada!
 
 Ke Bali, selain nge-Villa dan jalan-jalan, **hal paling worth it** —
 Bawa pulang satu koper penuh dekorasi rumah dan kerajinan tangan! 🎁
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776062071750-mixcollage-13-apr-2026-01-27-pm-5893.jpg)
+![【Bali Belanja Dekorasi Rumah】Lampu Gantung Kerang Kurang dar](https://images.gobaligo.id/images/2026-04/1776062071750-mixcollage-13-apr-2026-01-27-pm-5893.jpg)
 
 Toko-toko ini **bukan di area wisata**, jalur yang cuma orang lokal tahu.
 **Harganya super ramah kantong**, cuma setengah harga di area wisata, dan **bisa ditawar lagi!**
 (Makasih banget supir sewaanku yang bantu nego habis-habisan 🥰)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776062185728-mixcollage-13-apr-2026-01-29-pm-2344.jpg)
+![【Bali Belanja Dekorasi Rumah】Lampu Gantung Kerang Kurang dar](https://images.gobaligo.id/images/2026-04/1776062185728-mixcollage-13-apr-2026-01-29-pm-2344.jpg)
 
 {{block:包車}}
 
@@ -58,7 +58,7 @@ Bungkusnya **tipis aja**, gampang banget dibawa.
 Satu **kurang dari 500 ribu rupiah**...
 Sekarang masih mikir, kenapa gak beli koper lagi, biar bisa bawa lebih banyak haha～
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776062138927-mixcollage-13-apr-2026-01-31-pm-5074.jpg)
+![Wajib Dibeli: Lampu Gantung Kerang](https://images.gobaligo.id/images/2026-04/1776062138927-mixcollage-13-apr-2026-01-31-pm-5074.jpg)
 
 Sekarang kamar di rumah jadi penuh nuansa Bali,
 setiap hari rasanya masih nginep di Villa 🌿

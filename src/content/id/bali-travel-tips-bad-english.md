@@ -88,7 +88,7 @@ Semoga tools ini bikin perjalananmu makin lancar!
 
 ### Siap-siap pakai gestur dan bahasa tubuh
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0ff0cc36ce9dcbe84037c3d128775f67.jpg)
+![Siap-siap pakai gestur dan bahasa tubuh](https://images.gobaligo.id/vocus/vocus_0ff0cc36ce9dcbe84037c3d128775f67.jpg)
 
 Meskipun kamu nggak bisa bahasa lokal atau Inggris, kamu tetap bisa komunikasi sama penduduk setempat lewat gestur, ekspresi, dan bahasa tubuh. Cara non-verbal ini jadi alat penting buat lintas budaya, bantu kamu mengekspresikan diri dan memahami orang lain.
 

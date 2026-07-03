@@ -30,7 +30,7 @@ We've compiled a list of 11 most popular boutique hotels based on traveler revie
 
 # Bali Bio Villas
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ded933c96382993b757ab042dc37016e.jpg)
+![Bali Bio Villas](https://images.gobaligo.id/vocus/vocus_ded933c96382993b757ab042dc37016e.jpg)
 
 You read that right! This Greek-style villa will have you snapping photos non-stop! The whitewashed villa features Santorini-inspired cave decor.
 
@@ -50,7 +50,7 @@ Bali Bio Villa offers spacious accommodations with a shared pool, yoga terrace, 
 
 # Bliss Surfer Hotel
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_32f7ece28facdfe83f56ef7084cce9fc.jpg)
+![Bliss Surfer Hotel](https://images.gobaligo.id/vocus/vocus_32f7ece28facdfe83f56ef7084cce9fc.jpg)
 
 Whether you're a surfer or not, Bliss Surfer Hotel will inspire you to grab a board and face the waves! With interior design that captures any beach vibe,
 
@@ -72,7 +72,7 @@ Their pool gives you little reason to leave the hotel—relax on spacious lounge
 
 # Cara Cara Inn
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1287f2be1969e96f07317d28caba7ba.jpg)
+![Cara Cara Inn](https://images.gobaligo.id/vocus/vocus_a1287f2be1969e96f07317d28caba7ba.jpg)
 
 Vibrant colors, quirky room layouts, and a lively pool are what make Cara Cara Inn stand out.
 
@@ -90,7 +90,7 @@ Like an adult playground, Cara Cara Inn features a pool with fun floating access
 
 # Fashion Hotel
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_32fda5f543fb3dc0cafc8d51cb8111d9.jpg)
+![Fashion Hotel](https://images.gobaligo.id/vocus/vocus_32fda5f543fb3dc0cafc8d51cb8111d9.jpg)
 
 Fashion Hotel Legian Bali opened in late 2014, boasting modern and stylish decor that makes you feel like a celebrity, complete with a stunning rooftop pool—perfect for sunset relaxation without the crowds of Kuta Beach.
 
@@ -112,7 +112,7 @@ You don't need to spend a fortune to impress your friends with stunning accommod
 
 # Grandmas Plus Hotel @ Seminyak
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_967e76bccd9447dc4d8f45ef4570391f.jpg)
+![Grandmas Plus Hotel @ Seminyak](https://images.gobaligo.id/vocus/vocus_967e76bccd9447dc4d8f45ef4570391f.jpg)
 
 Located in Seminyak, this hotel is another Instagram-worthy spot that will fill your feed. Grandmas Plus Hotel perfectly embodies the natural elements of a tropical island, offering guests a relaxing and laid-back vacation. The hotel is renowned for its excellent service, highly-rated staff, and all the comfortable amenities and services. The best part? You can enjoy all this at backpacker prices!
 
@@ -132,7 +132,7 @@ The hotel offers high-quality massages at more affordable prices than surroundin
 
 # Ibis Bali Legian Street
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2c79b5dde4cb47e650fa649ec5f0b503.jpg)
+![Ibis Bali Legian Street](https://images.gobaligo.id/vocus/vocus_2c79b5dde4cb47e650fa649ec5f0b503.jpg)
 
 Beyond being a trusted brand, Ibis Bali Legian Street offers all the exclusive selfie-worthy facilities. From the rooftop pool and bar to the kids' pool and modern rooms (including interconnected rooms) with sunset views, this hotel brings immense joy to sunset chasers!
 
@@ -150,7 +150,7 @@ Ibis Bali Legian Street's location near the shopping street and nearby beaches i
 
 # Koa D’Surfer Hotel
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aba426ae4cc2680838ed78b81dc16d72.jpg)
+![Koa D’Surfer Hotel](https://images.gobaligo.id/vocus/vocus_aba426ae4cc2680838ed78b81dc16d72.jpg)
 
 Grab your camera/phone at Koa D'Surfer Hotel! We guarantee your friends will be extremely envious when they see your vacation photos!
 
@@ -170,7 +170,7 @@ The colorful restaurant by the pool is also a great place to enjoy Bali's enchan
 
 # Kubu Kutus Canggu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b583a1abeac3961aeac3a501a48e7294.jpg)
+![Kubu Kutus Canggu](https://images.gobaligo.id/vocus/vocus_b583a1abeac3961aeac3a501a48e7294.jpg)
 
 Vast rice field views define Kubu Kutus as Instagram-friendly accommodation. It doesn't have many quirky designs, but this view surpasses everything!
 
@@ -188,7 +188,7 @@ Being in Canggu also means you'll have access to trendy cafes, perfect breakfast
 
 # Liberta Hotel Seminyak
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3f41dcc3e40b64fc217ebd6165c15d1f.jpg)
+![Liberta Hotel Seminyak](https://images.gobaligo.id/vocus/vocus_3f41dcc3e40b64fc217ebd6165c15d1f.jpg)
 
 Creating eye-catching Instagram posts relies on careful use of color. If your aesthetic calls for an Aloha vibe with neon tones, tag Liberta Hotel Seminyak, as this place ensures every corner radiates unique charm!
 
@@ -206,7 +206,7 @@ This stunning boutique hotel is just a 5-minute walk from the famous Potato Head
 
 # MaxOne Hotels at Bukit Jimbaran
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_08cf5d87991af44c6dd4c17dfeddd11a.jpg)
+![MaxOne Hotels at Bukit Jimbaran](https://images.gobaligo.id/vocus/vocus_08cf5d87991af44c6dd4c17dfeddd11a.jpg)
 
 MaxOne Hotels at Bukit Jimbaran promises scenic views for your upcoming days. I mean, even if you’re not on Instagram, you can still stay at this affordable yet stylish boutique hotel and enjoy incredible rooftop sunset views!
 
@@ -224,7 +224,7 @@ On Saturdays, you can enjoy the Sunset Food Bazaar at SKYMAX Garden Bar, complet
 
 # **Tijili Hotel Seminyak**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_660a0a168da49c818be4096b646984d0.jpg)
+![Tijili Hotel Seminyak](https://images.gobaligo.id/vocus/vocus_660a0a168da49c818be4096b646984d0.jpg)
 
 If you're looking to immerse yourself in the artistic elegance of a boutique hotel on a budget during your Bali stay, Tijili Seminyak Hotel in Seminyak is a must-add to your list! This hotel resembles an art exhibition, boasting vibrant decor and exquisite furnishings!
 

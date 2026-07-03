@@ -24,7 +24,7 @@ Buat banyak orang, belajar surfing adalah salah satu mimpi mereka. Dan harus dia
 
 ## Kenapa Bali Cocok Buat Surfing
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff49c7ae6f272d0f15bd093cf980b480.jpg)
+![Kenapa Bali Cocok Buat Surfing](https://images.gobaligo.id/vocus/vocus_ff49c7ae6f272d0f15bd093cf980b480.jpg)
 
 Bali udah jadi destinasi surfing kelas dunia selama puluhan tahun. Selain ombaknya cocok buat semua level, biaya belajarnya juga cukup terjangkau. Pulau ini juga punya instruktur surfing paling berpengalaman di dunia.
 
@@ -38,7 +38,7 @@ Waktu terbaik buat surfing di Bali tergantung level kamu. Musim kemarau (April-O
 
 Bali punya banyak spot surfing yang cocok buat semua level. Mau kamu pemula, menengah, atau mahir, surga ini pasti punya yang pas buat kamu.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bbba4f138cd247cf17b26125bcf6b02e.jpg)
+![Berdasarkan Level](https://images.gobaligo.id/vocus/vocus_bbba4f138cd247cf17b26125bcf6b02e.jpg)
 
 ➡️[Klik di sini untuk lebih banyak penawaran menarik di Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
@@ -72,7 +72,7 @@ Ombak level advanced lainnya termasuk Padang Padang, ombak pantai yang tersembun
 
 Lokasi surfing di Bali menawarkan berbagai pilihan sesuai level peselancar. Yuk kita eksplor berdasarkan tempatnya, biar kamu nemu yang cocok sama kemampuanmu.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b14a8693e646e832647aded7011bfdde.jpg)
+![Berdasarkan Lokasi](https://images.gobaligo.id/vocus/vocus_b14a8693e646e832647aded7011bfdde.jpg)
 
 ### Pantai Kuta
 
@@ -102,7 +102,7 @@ Peselancar bisa nyewa papan dan ambil les sama instruktur lokal. Habis surfing, 
 
 ## Pantai Surfing Top yang Mungkin Belum Kamu Tahu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_65c0b6aa2ffe939d66bbc4d01646d473.jpg)
+![Pantai Surfing Top yang Mungkin Belum Kamu Tahu](https://images.gobaligo.id/vocus/vocus_65c0b6aa2ffe939d66bbc4d01646d473.jpg)
 
 ➡️[Klik di sini untuk lebih banyak penawaran menarik di Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
@@ -124,7 +124,7 @@ Sekolah selancar paling populer dan paling dihormati di Bali bisa ditemukan di s
 
 Bagi wisatawan yang ingin belajar berselancar, tempat seperti Canggu dan Uluwatu mungkin kurang cocok. Lebih baik belajar di ombak di Kuta, Legian, dan Seminyak. Kamu juga punya kesempatan untuk bertemu dengan instruktur selancar paling berpengalaman di dunia.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5f0850d15e731825ab40d379c97369c5.jpg)
+![Sekolah Selancar Paling Populer di Bali](https://images.gobaligo.id/vocus/vocus_5f0850d15e731825ab40d379c97369c5.jpg)
 
 ### Rekomendasi Sekolah Selancar di Kuta
 

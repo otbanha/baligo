@@ -21,7 +21,7 @@ _srcHash: 2e89e0f87babbd7e536c770a75446bb7
 
 巴厘岛，一个令人向往的天堂，不仅仅是旅游胜地，还是一个充满商业机会的地方。想要在巴厘岛长期居住并经营业务，申请投资者KITAS是一个必须的步骤。这篇文章将详细解释如何取得投资者KITAS，成立PT PMA（外国投资有限责任公司），并遵守相关法规。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_59530abb9404d5e42755ddff668dce0e.jpg)
+![如何在巴厘岛取得投资者KITAS并经营企业 - 巴厘岛投资法规详解](https://images.gobaligo.id/vocus/vocus_59530abb9404d5e42755ddff668dce0e.jpg)
 
 ## **什么是投资者KITAS**
 

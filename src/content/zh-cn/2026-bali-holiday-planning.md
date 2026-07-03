@@ -14,7 +14,7 @@ _srcHash: 215ca870e14fe17134b1f2b8c9d4f853
 
 2 月的春节连假还意犹未尽？别担心，2026 年上半年的请假攻略已经帮你算好了！ 我们不仅要请对假，更要配合**巴厘岛**当地的节庆节奏。以下这三场说走就走的假期，哪一场最让你心动？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_189c099579ec5d31c727bf21e29776a1.png)
+![2026 国定假日盘点：上半年 3 大连假请假攻略，飞「巴厘岛」爽玩 9 天！](https://images.gobaligo.id/vocus/vocus_189c099579ec5d31c727bf21e29776a1.png)
 
 ### 🗓️ 2026 年上半年请假攻略
 
@@ -27,7 +27,7 @@ _srcHash: 215ca870e14fe17134b1f2b8c9d4f853
 
   **为什么选这时候去？** 这是一个超级聪明的时间点！印尼一年中最繁忙、返乡人潮最蜂拥的「开斋节」刚结束（2026 年开斋节假期结束约在 3 月底）。当印尼人回到工作岗位，国际游客也不像旺季那么疯狂，**巴厘岛**会迎来一段短暂而珍贵的平静期。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_298e8da8b8949ce68b9c9a6ea180e1af.png)
+![【超值首选】4 月清明连假 —— 宁静后的灵性洗礼](https://images.gobaligo.id/vocus/vocus_298e8da8b8949ce68b9c9a6ea180e1af.png)
 
 - **气候状态：**干湿季交替的「黄金转折点」
   **1. 告别雨季，迎向阳光** **巴厘岛**的雨季通常在 3 月底结束。进入 4 月，降雨机率大幅下降，即便偶有阵雨，也多半是「午后雷阵雨」的形式，下得快、停得也快，通常半小时后又是大晴天，完全不影响行程。
@@ -69,7 +69,7 @@ _srcHash: 215ca870e14fe17134b1f2b8c9d4f853
 
 - 佳隆节在乌布的主要街道会立起高耸的Penjor装饰，非常壮观并且难得一见！此时也是探索[乌布100个景点](https://s.id/ubud100)的好时机！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4b32bc60b0a1fe9787825097f68cb2e8.jpg)
+![推荐行程](https://images.gobaligo.id/vocus/vocus_4b32bc60b0a1fe9787825097f68cb2e8.jpg)
 
 - 六月是超适合水上活动的时候！这时候我们的攻略就派上用场了：[巴厘岛水上活动完整指南｜巴厘岛不只浮潜！15种意想不到的水上玩法](/blog/2026-bali-water-activities/)
 

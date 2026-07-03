@@ -26,7 +26,7 @@ _srcHash: ed9cd397b340b2a64218766dfcaef8ea
 
 [🚗 想預估 Gojek 車費？請撳呢度](/map/gojek-fare/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_86a39e40d1c5e42fbdbb7ba5e81f3369.png)
+![【峇里島交通全攻略】幾時應該包車？咩場合用 Gojek/Grab？包車 vs. 叫車優缺點同場景分析](https://images.gobaligo.id/vocus/vocus_86a39e40d1c5e42fbdbb7ba5e81f3369.png)
 
 峇里島，一個風光旖旎嘅度假勝地，吸引住來自世界各地嘅遊客。當你計劃前往呢個島嶼時，必然會面臨一個重要嘅問題：係選擇包車定係叫車呢？喺呢篇文章中，我將會分享我哋喺峇里島旅行時嘅包車同叫車經驗，幫你更好地做出選擇。
 
@@ -61,7 +61,7 @@ https://youtube.com/shorts/wnhyqUekdW0
    大部分叫車司機唔鍾意傾偈，部分司機亦唔識英文。
    無法提供「突然想食山竹」、「未食過蛇皮果想試吓」、「你知邊度可以買到小剪刀嗎？」...等服務
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e9c5ae6c50e5b17cba59e0eccdf6532b.png)
+![叫車優缺點](https://images.gobaligo.id/vocus/vocus_e9c5ae6c50e5b17cba59e0eccdf6532b.png)
 
 ## 包車定叫車？點樣選擇？
 

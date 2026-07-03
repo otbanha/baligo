@@ -19,7 +19,7 @@ lang: id
 _srcHash: 495891613c800eb74c82c40fde964a7f
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a59ccd132da7a87eaa0ea98af1f573a0.png)
+![Bawa Bayi ke Bali: Hal yang Perlu Diperhatikan soal MPASI Me](https://images.gobaligo.id/vocus/vocus_a59ccd132da7a87eaa0ea98af1f573a0.png)
 
 Bawa si kecil jalan-jalan ke luar negeri, MPASI pasti jadi salah satu barang bawaan yang paling dipikirin orang tua. Tapi kalau kamu berencana bawa **MPASI bayi yang mengandung daging babi atau ayam** ke Bali, kamu wajib banget tahu aturan masuk Indonesia soal produk daging. Biar nggak kena masalah di bea cukai. Ini dia info penting dan tips biar liburan keluarga makin lancar!
 
@@ -91,7 +91,7 @@ Kalau khawatir si kecil nggak cocok sama makanan lokal, kamu bisa bawa makanan p
 2. **Aturan maskapai**: Beberapa maskapai punya kebijakan khusus buat bawa makanan bayi. Cek dulu ke maskapai soal jenis dan jumlah yang diizinkan.
 3. **Manfaatin belanja online**: Kalau khawatir susah cari makanan pendamping di sana, kamu bisa beli lewat e-commerce lokal Indonesia kayak **Tokopedia**, **Shopee Indonesia**, dan kirim langsung ke hotel.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8872bc854565fd2d359000082644bfa4.png)
+![Empat, Tips Tambahan](https://images.gobaligo.id/vocus/vocus_8872bc854565fd2d359000082644bfa4.png)
 
 ***
 

@@ -57,7 +57,7 @@ Ketika sadar, udah jam 7 malam, dan mereka udah sampai di Ubud.
 
 Dalam situasi kayak gini, awalnya mereka udah hampir menyerah.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777187750922-screenshot_20260426_133549.jpg)
+![Neck Pillow yang Tertinggal](https://images.gobaligo.id/images/2026-04/1777187750922-screenshot_20260426_133549.jpg)
 
 ***
 
@@ -115,7 +115,7 @@ Dia nggak banyak bicara, cuma tersenyum sambil menyerahkan barangnya.
 
 Tindakan sederhana ini tiba-tiba mengembalikan mood perjalanan ke jalur yang benar.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777187824352-screenshot_20260426_133636.jpg)
+![Momen Hening yang Krusial](https://images.gobaligo.id/images/2026-04/1777187824352-screenshot_20260426_133636.jpg)
 
 ***
 
@@ -127,7 +127,7 @@ Sesampainya di kamar, mereka berdua masih nggak percaya sama seluruh proses tadi
 👉 Sekitar 1 jam
 👉 Cuma USD$4
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777187885962-screenshot_20260426_133622.jpg)
+![Bonus Ekstra dari Hati](https://images.gobaligo.id/images/2026-04/1777187885962-screenshot_20260426_133622.jpg)
 
 Akhirnya, mereka memutuskan untuk kasih tambahan tip 30.000 IDR lewat platform sebagai bentuk terima kasih.
 

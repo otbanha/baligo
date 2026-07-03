@@ -20,7 +20,7 @@ _srcHash: 56cbb0f6e63ee5d5a1b3274a034c02f1
 
 你有冇諗過印尼嘅30日落地簽證可唔可以第30日先離開呢？呢個係好多計劃去印尼/峇里島旅行嘅人成日問嘅問題。喺呢篇文章入面，我哋會深入探討印尼30日落地簽證嘅各方面資訊，解答你嘅疑問，並提供一啲實用嘅旅遊建議。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_70896cbf940eae1c0bc1643d987e809d.png)
+![印尼/峇里島旅行必讀：30日落地簽證嘅常見誤區與解答](https://images.gobaligo.id/vocus/vocus_70896cbf940eae1c0bc1643d987e809d.png)
 
 ## 咩係印尼30日落地簽證？
 
@@ -60,7 +60,7 @@ _srcHash: 56cbb0f6e63ee5d5a1b3274a034c02f1
 
 > 延伸閱讀：[2024印尼/峇里島線上延長簽證教學](/blog/2024-bali-visa-extension/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_463dbab8ca6996865a358ae3450237dd.png)
+![延長停留時間嘅選擇](https://images.gobaligo.id/vocus/vocus_463dbab8ca6996865a358ae3450237dd.png)
 
 最多人搵緊嘅...
 
@@ -76,7 +76,7 @@ _srcHash: 56cbb0f6e63ee5d5a1b3274a034c02f1
 
 印尼嘅30日落地簽證為旅行者提供咗便利，但亦需要謹慎遵守相關規定。希望呢篇文章能夠解答你嘅疑問，並幫助你順利計劃印尼之行。無論係探索峇里島嘅美麗海灘，定係體驗日惹嘅歷史文化，只要遵守簽證規定並提前做好準備，你一定能享受一段無憂無慮嘅美好旅程。祝你在印尼度過難忘嘅時光！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4a7b05fc53b5458c828b2e0087fcc74b.png)
+![總結](https://images.gobaligo.id/vocus/vocus_4a7b05fc53b5458c828b2e0087fcc74b.png)
 
 喺閱讀我哋嘅**「峇里島自由行究極旅行攻略」**之前，我哋誠摯咁邀請您先訂閱我哋更多視覺體驗分享嘅YouTube頻道**「小傑 印尼」**。[點擊呢度](http://bit.ly/youtube-jason)，立即訂閱
 

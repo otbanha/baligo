@@ -20,7 +20,7 @@ lang: id
 _srcHash: 67c5b69a4535e8c0b128e06fc9703ab7
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1dc67621e6338385b170b597a9c2822a.jpg)
+![Nusa Dua/南灣美食推薦│Bali必吃豬肋排│雞肉咖哩超讚│Ketut's BBQ Kitchen](https://images.gobaligo.id/vocus/vocus_1dc67621e6338385b170b597a9c2822a.jpg)
 
 Restoran ini dinobatkan sebagai restoran nomor 9 di area Nusa Dua versi TripAdvisor lho!
 

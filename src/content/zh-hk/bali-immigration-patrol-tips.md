@@ -19,7 +19,7 @@ _srcHash: 978fa9d6c43e49e2ba03d48affc0db8c
 ---
 ## 🏝️ 峇里島移民署小隊出動啦！ 🚨
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a4aef93c9f128fe463fa8c99c7f18ed3.jpg)
+![峇里島移民署小隊出動啦！](https://images.gobaligo.id/vocus/vocus_a4aef93c9f128fe463fa8c99c7f18ed3.jpg)
 
 喂！你知唔知？我哋峇里島伍拉·賴機場移民局嘅同事，每日都喺島上進行「神秘任務」㗎！ 🕵️‍♂️
 
@@ -68,7 +68,7 @@ _srcHash: 978fa9d6c43e49e2ba03d48affc0db8c
 
 ## 峇里島嘅兩難：歡迎旅客，但需要守規矩
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7b5383757dbc1df7b9410fe6c33249c6.png)
+![峇里島嘅兩難：歡迎旅客，但需要守規矩](https://images.gobaligo.id/vocus/vocus_7b5383757dbc1df7b9410fe6c33249c6.png)
 
 峇里島依然係世界上最受歡迎嘅旅遊天堂之一，目標係喺2025年年底迎來650萬國際旅客。政府嘅努力係為咗確保：
 
@@ -104,7 +104,7 @@ _srcHash: 978fa9d6c43e49e2ba03d48affc0db8c
 
 ## 📩 **「峇里島旅遊攻略」首頁說明**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
+![「峇里島旅遊攻略」首頁說明](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

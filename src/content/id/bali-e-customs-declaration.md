@@ -25,7 +25,7 @@ _srcHash: 9f8862ab56e55158e6b925254da7d999
 
 e-Customs Declaration Bali (eCD) adalah formulir bea cukai digital yang wajib diisi semua penumpang yang masuk ke Indonesia. Sistem ini menggantikan versi kertas lama — kamu harus isi online sebelum tiba di Bali biar proses imigrasi lebih cepat.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a91d6ead0d074002298ce1381182700c.png)
+![Apa Itu e-Customs Declaration Bali?](https://images.gobaligo.id/vocus/vocus_a91d6ead0d074002298ce1381182700c.png)
 
 Form ini gunanya buat ngumpulin data pribadi, rencana perjalanan, dan barang bawaan yang perlu dilaporin. Baik turis asing maupun WNI yang pulang kampung wajib isi ini.
 
@@ -49,7 +49,7 @@ Pertama, klik pojok kanan atas untuk ganti bahasa ke Inggris, baca petunjuknya d
 
 Di formulir ini, kamu perlu mengisi informasi berikut:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_21d862589075e1a383688c90186a2d82.png)
+![Halaman Kedua: Kolom Data Diri](https://images.gobaligo.id/vocus/vocus_21d862589075e1a383688c90186a2d82.png)
 
 - Passport Number (Nomor Paspor) — pastikan sesuai dengan paspor asli
 - Date of Arrival (Tanggal Kedatangan)
@@ -61,7 +61,7 @@ Di formulir ini, kamu perlu mengisi informasi berikut:
 - Number of Baggage Arriving with You (Jumlah total bagasi) — termasuk bagasi check-in dan kabin. Tas punggung kecil bisa diabaikan
 - Family Arriving with You (Jumlah anggota keluarga yang ikut) — tidak termasuk dirimu sendiri, maksimal 10 orang. Kalau ada keluarga yang ikut, kamu harus isi data paspor mereka juga
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f680fec20d1b6bf1f1cf3c81af7329d5.jpg)
+![Halaman Kedua: Kolom Data Diri](https://images.gobaligo.id/vocus/vocus_f680fec20d1b6bf1f1cf3c81af7329d5.jpg)
 
 Tombol [+Add] di pojok kanan bawah formulir bisa dipakai buat nambahin teman perjalanan, maksimal 10 orang lagi
 
@@ -71,7 +71,7 @@ Setiap kategori barang punya opsi 'Ya / Tidak'. Kalau pilih 'Ya', kamu harus jel
 
 ### **Registrasi IMEI**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c76056591f440cfde9bebd9abb547364.png)
+![Registrasi IMEI](https://images.gobaligo.id/vocus/vocus_c76056591f440cfde9bebd9abb547364.png)
 
 eCD versi baru nambahin satu pertanyaan: 'Apakah kamu berencana menggunakan ponsel, PDA, atau tablet yang dibeli di luar negeri untuk menyambungkan jaringan lokal setelah tiba di Indonesia?'
 

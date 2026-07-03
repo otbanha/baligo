@@ -59,7 +59,7 @@ Tanah Barak dan Pantai Pandawa sebenarnya lebih dekat ke dua resor di pesisir ti
 
 ## Tur Klook Sehari:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_568255be692a8986469e07e8e88b5e4e.jpg)
+![Tur Klook Sehari:](https://images.gobaligo.id/vocus/vocus_568255be692a8986469e07e8e88b5e4e.jpg)
 
 Naik VW convertible keliling Bali selatan! Mampir ke Pantai Padang Padang dan Pantai Pandawa, nikmati pemandangan, lanjut ke Pura Uluwatu buat lihat sunset, dan dinner seafood di Jimbaran. Paket sudah termasuk jemput antar, sopir, dan bensin — bebas ribet, nikmatin aja keindahan Bali!
 
@@ -85,7 +85,7 @@ Kami beli tiket di sini, daybed laguna mereka muat delapan orang, pas banget bua
 
 📩 **Langganan sekarang blog 'Panduan Travel Bali', jadi traveler Bali yang jago!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Daftar & Gabung Blog Kami](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

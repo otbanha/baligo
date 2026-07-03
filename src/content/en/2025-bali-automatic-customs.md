@@ -26,7 +26,7 @@ _srcHash: 97083fce0d5810fae52a804187d6d01c
 
 Starting from 2024, having an electronic Visa on Arrival (eVoA) not only eliminates the need to queue for VoA (Visa on Arrival) but also bypasses the immigration queue for stamping! The time saved allows you to fully immerse yourself in the beauty of Bali!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_afba78c72d520b7b245a856eed8aeefb.png)
+![What is Automated Immigration?](https://images.gobaligo.id/vocus/vocus_afba78c72d520b7b245a856eed8aeefb.png)
 
 From January 2024, Bali began implementing this automated immigration system. It is expected to add 50 more automated gate units within a few months, bringing the total number of units at Bali's international terminal to 80 for swift immigration clearance (60 gates for arrivals/entry; 20 gates for departures/exit).
 
@@ -46,11 +46,11 @@ Not only do you skip two queues, but you also avoid potential questions or hassl
 
 (Shared by traveler Ellen Yang):
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9285cfcabb6afba44d51d4b48b661019.png)
+![Fellow Travelers' Actual Immigration Experience Sharing](https://images.gobaligo.id/vocus/vocus_9285cfcabb6afba44d51d4b48b661019.png)
 
 (Shared by travelers Sam & Sandra):
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e6c6791c8a5a8d37e4d681d0181cb60a.png)
+![Fellow Travelers' Actual Immigration Experience Sharing](https://images.gobaligo.id/vocus/vocus_e6c6791c8a5a8d37e4d681d0181cb60a.png)
 
 After arriving at Bali Airport on February 6, 2024, we used the online system to apply for an e-visa in advance and experienced the brand-new automated immigration system. The entire process was quick and smooth, taking less than three minutes to complete—truly convenient! I highly recommend applying for the visa online beforehand to save time and avoid hassle.
 
@@ -58,7 +58,7 @@ The airport staff were very friendly. Shortly after disembarking, someone asked 
 
 Editor’s Note: Currently, **children aged 6 and above can also use the automated immigration gates**. Previously, this system was only available for individuals aged 14 and older.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a832b6cb5d76f4ac85c91c899e756129.jpg)
+![Fellow Travelers' Actual Immigration Experience Sharing](https://images.gobaligo.id/vocus/vocus_a832b6cb5d76f4ac85c91c899e756129.jpg)
 
 Ellen also reminds travelers that handwritten customs declaration forms have been discontinued for some time. Many people still only realize at the final checkpoint—after collecting their luggage—that they need to fill out the electronic customs declaration form online, causing delays as they spend time completing it at the last minute. 【[Essential Guide to Indonesia’s e-CD Customs Declaration](/blog/indonesia-e-cd-guide/)】Don’t forget this crucial step!
 

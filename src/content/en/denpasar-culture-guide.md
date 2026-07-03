@@ -47,13 +47,13 @@ According to [Euromonitor International's ranking](https://www.forbes.com/sites/
 
 ### **Badung Market**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774614720760-badung_market.jpg)
+![Badung Market](https://images.gobaligo.id/images/2026-03/1774614720760-badung_market.jpg)
 
 Located in the city center, Pasar Badung is one of Bali's largest and oldest traditional markets. It's not only a daily shopping spot for locals but also an excellent place for visitors to experience Bali's local culture. Across from the market stands Pura Desa, one of Bali's most important Hindu temples.
 
 ### **Kumbasari Art Market**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774614765807-kumbasari.jpg)
+![Kumbasari Art Market](https://images.gobaligo.id/images/2026-03/1774614765807-kumbasari.jpg)
 
 Just a street away from Pasar Badung, Kumbasari Market is the best place to buy traditional Balinese handicrafts and souvenirs. It's also where locals purchase items for religious ceremonies, creating a rich cultural atmosphere.
 
@@ -65,13 +65,13 @@ Located in Puputan Renon Park in Denpasar, this monument was built to commemorat
 
 The museum houses a vast collection of Balinese historical artifacts, traditional costumes, and ancient manuscripts, making it an excellent place to learn about Bali's culture and history.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f66647194cd9d3240f658a876a9ce7b7.jpg)
+![Bali Museum (Museum Bali)](https://images.gobaligo.id/vocus/vocus_f66647194cd9d3240f658a876a9ce7b7.jpg)
 
 ### **Pura Jagatnatha Temple**
 
 This is Denpasar's most important Hindu temple, dedicated to Sang Hyang Widhi Wasa, the supreme deity of Balinese Hinduism. The temple's unique architecture is imbued with religious significance.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_36179fe2bb08dd9d6f7150e83ae45bc8.jpg)
+![Pura Jagatnatha Temple](https://images.gobaligo.id/vocus/vocus_36179fe2bb08dd9d6f7150e83ae45bc8.jpg)
 
 ### **Taman Tukad Korea Riverside Park**
 
@@ -106,7 +106,7 @@ Taman Ayun Temple beautifully blends natural scenery with cultural heritage, mak
 
 ### Living World Denpasar
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774615058614-living_world_denpasar.jpg)
+![Living World Denpasar](https://images.gobaligo.id/images/2026-03/1774615058614-living_world_denpasar.jpg)
 
 Living World Denpasar is Bali's newest shopping mall in Denpasar, combining fashion, entertainment, and dining into a popular destination for both locals and tourists. It features international and local brand stores, a modern cinema, and a diverse range of dining options, from authentic Balinese cuisine to international dishes. The mall's design is spacious and bright, incorporating traditional Balinese elements to provide a comfortable shopping experience. Whether you're shopping, enjoying delicious food, or spending leisure time with family and friends, Living World Denpasar is a modern attraction in Denpasar that shouldn't be missed!
 
@@ -128,7 +128,7 @@ Denpasar Tourism Director Ni Luh Putu Riyastiti stated that Denpasar aims to att
 
 ## Bali Arts Festival
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e2ab81ce50be7b72a8e74be0512b7aef.png)
+![Bali Arts Festival](https://images.gobaligo.id/vocus/vocus_e2ab81ce50be7b72a8e74be0512b7aef.png)
 
 The Bali Arts Festival, held annually from mid-June to mid-July, is one of Denpasar's most important cultural events. Renowned for its grand opening parade featuring thousands of dancers and performers, the festival showcases Bali's traditional arts, music, and dance. The main venue, Taman Werdhi Budaya Arts Center located in downtown Denpasar, is a cultural experience not to be missed by travelers.
 

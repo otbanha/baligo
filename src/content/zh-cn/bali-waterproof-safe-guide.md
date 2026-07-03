@@ -73,7 +73,7 @@ _srcHash: db617efe9e980f8388c09b3de587bb96
 
 **推荐品牌**：Ocean Pack、Sea to Summit
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779436782674-waterproof_bags_on_sale_in_thailand.jpg)
+![3⃣ 干燥袋（Dry Bag）——要带很多东西就靠它](https://images.gobaligo.id/images/2026-05/1779436782674-waterproof_bags_on_sale_in_thailand.jpg)
 
 Ocean Pack 这个牌子是我用过的，他们家的干燥袋真的防水又耐用，用过一次就知道投资是值得的。特别适合多日冒险活动。
 

@@ -20,13 +20,13 @@ _srcHash: f76c1baec9b201e9b63d82ced936a8a1
 
 [🚗 想预估 Gojek 车资？请点击这里](/map/gojek-fare/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
+![【印尼/巴厘岛必备APP】Gojek / Grab 叫车图文教学指南](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
 
 ## Gojek / Grab 的使用方式
 
 在**巴厘岛**旅游，Gojek 和 Grab 是两款必备的「国民 App」。它们的功能与界面极为相似，就像是 Uber 的两个不同品牌版本。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a3735af38f1bb9994a7ec1ec8fafe01e.png)
+![Gojek / Grab 的使用方式](https://images.gobaligo.id/vocus/vocus_a3735af38f1bb9994a7ec1ec8fafe01e.png)
 
 以下是为您整理的 step-by-step 使用指南，帮助您快速上手：
 
@@ -58,7 +58,7 @@ _srcHash: f76c1baec9b201e9b63d82ced936a8a1
 4. **查看价格：** 系统会跳出确定的总金额（明码实价，不用跳表或喊价）。
 5. **点击预订 (Order/Book)：** 系统会配对司机，画面会显示司机的名字、车牌与位置。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_74b7470a20e1026529e08d0e3f83681e.png)
+![Gojek / Grab 的使用方式](https://images.gobaligo.id/vocus/vocus_74b7470a20e1026529e08d0e3f83681e.png)
 
 **第四步：与司机沟通**
 
@@ -90,7 +90,7 @@ https://youtu.be/ByGkcmys01g
 · 争议焦点：在巴杜尔湖 (Lake Batur)、松干村 (Songan Village) 周边，线上叫车被指压低了当地司机的报价，引发了当地旅游交通协会的强烈反对。
 · 近期政策：根据2025年初的报道，巴厘岛当局也推出了新规定，要求网约车司机必须持有巴厘岛身份证 (KTP) 和使用本地车牌，以保护本地司机的权益。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_11b747be41152ceaf2c885a63ca4e272.jpg)
+![主要限制区域与情况](https://images.gobaligo.id/vocus/vocus_11b747be41152ceaf2c885a63ca4e272.jpg)
 
 ### 🚗 对游客的实际影响与建议
 

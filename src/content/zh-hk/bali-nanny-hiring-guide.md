@@ -19,7 +19,7 @@ _srcHash: dca28c43defdedefbe401fef86ab8c3e
 ---
 ## 點解要喺峇里島搵保母？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1dcdfc7456643fad272dc5b80065caff.png)
+![點解要喺峇里島搵保母？](https://images.gobaligo.id/vocus/vocus_1dcdfc7456643fad272dc5b80065caff.png)
 
 喺旅途中請一位當地嘅保母可以為你帶嚟極大嘅便利。無論係想喺小朋友玩樂時放鬆自己，或者安排大人之間嘅約會時光，保母嘅幫助可以令你嘅假期由繁忙變得更加悠閒。此外，峇里島嘅保母通常性情溫和而且有耐性，並且擁有豐富嘅經驗，特別適合需要額外照顧嘅小朋友。
 
@@ -33,7 +33,7 @@ _srcHash: dca28c43defdedefbe401fef86ab8c3e
 
 ## 保母費用
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a70a13d0ea212f669ce3b73d13e25e5f.png)
+![保母費用](https://images.gobaligo.id/vocus/vocus_a70a13d0ea212f669ce3b73d13e25e5f.png)
 
 ## 保母費用
 
@@ -51,7 +51,7 @@ _srcHash: dca28c43defdedefbe401fef86ab8c3e
 
 ## 注意事項及挑戰
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e8e947a01f275561c3d1d6020719d0fc.png)
+![注意事項及挑戰](https://images.gobaligo.id/vocus/vocus_e8e947a01f275561c3d1d6020719d0fc.png)
 
 喺峇里島聘請保姆亦都可能遇到一啲挑戰。例如，喺外國遊客眾多嘅地區，當地保姆嘅薪資可能會比印尼其他地區高出好多。外籍人士嘅高需求令到保姆市場嘅薪資標準水漲船高，咁樣可能會令部分在地家庭覺得負擔較大。
 

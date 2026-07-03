@@ -139,23 +139,23 @@ Berikut sekilas info tentang akomodasi yang kami coba:
 
 ### Indigo Seminyak
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775912302385-2f4e76012f490800f2005a601cdeaaf3.jpeg)
+![Indigo Seminyak](https://images.gobaligo.id/images/2026-04/1775912302385-2f4e76012f490800f2005a601cdeaaf3.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775912302831-2ee065195d9ddc8b929628ef972bed70.jpeg)
+![Indigo Seminyak](https://images.gobaligo.id/images/2026-04/1775912302831-2ee065195d9ddc8b929628ef972bed70.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775912303327-5c6f62c2e91e3690f2783aa9f8c60b8a.jpeg)
+![Indigo Seminyak](https://images.gobaligo.id/images/2026-04/1775912303327-5c6f62c2e91e3690f2783aa9f8c60b8a.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775912303954-39c921620d8ef677841da535af52850b.jpeg)
+![Indigo Seminyak](https://images.gobaligo.id/images/2026-04/1775912303954-39c921620d8ef677841da535af52850b.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775912304451-212202084.jpeg)
+![Indigo Seminyak](https://images.gobaligo.id/images/2026-04/1775912304451-212202084.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775912305395-ecfd7f09475f7cf7aac5d55a975b9144.jpeg)
+![Indigo Seminyak](https://images.gobaligo.id/images/2026-04/1775912305395-ecfd7f09475f7cf7aac5d55a975b9144.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775912305935-f35457af1775eee1ca17410bddcd9649.jpeg)
+![Indigo Seminyak](https://images.gobaligo.id/images/2026-04/1775912305935-f35457af1775eee1ca17410bddcd9649.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775912307032-455297392.jpg)
+![Indigo Seminyak](https://images.gobaligo.id/images/2026-04/1775912307032-455297392.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775912307611-b8513262c7bb23c33265b525ee008fca.jpeg)
+![Indigo Seminyak](https://images.gobaligo.id/images/2026-04/1775912307611-b8513262c7bb23c33265b525ee008fca.jpeg)
 
 Indigo Seminyak adalah hotel butik dengan desain super keren, lokasinya strategis banget di jantung Seminyak. Hotel ini memadukan gaya tradisional Bali dengan sentuhan modern, baik interior maupun lanskap outdoor-nya sama-sama cantik. Kamarnya luas dan nyaman, fasilitas lengkap, bikin betah. Kami sempat coba SAVA SPA yang terkenal di sini, ambil paket hot stone massage 90 menit — bikin rileks dan puas banget.
 
@@ -171,16 +171,16 @@ Kiri: The Apurva Kempinski Bali, tengah dan kanan: Indigo. Foto oleh Angel Wu
 
 Apurva Kempinski Bali adalah resort mewah yang terkenal dengan arsitektur megah dan infinity pool-nya. Hotel ini terletak di tebing Nusa Dua, punya pemandangan laut yang spektakuler dan fasilitas super lengkap. Kami menghabiskan waktu yang tak terlupakan di sini, menikmati berbagai fasilitas dan makanan hotel. Apalagi sarapannya — variasi banyak, rasanya enak banget, bikin kami kalap.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775913501757-543684014.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1775913502325-0b2efa16d3269c9bdf72b3713448a6e2.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1775913502842-543684026.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1775913503260-543684038.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1775913503866-543684092.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1775913504309-595319338_1300862468749700_2611619189297659561_n.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1775913504888-595674211_1300862328749714_405162077226449190_n.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1775913505220-596339451_1300862625416351_2796766566939840091_n.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1775913505810-596957666_1300862688749678_5350672461555478575_n.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1775913506317-597143234_1300862198749727_4382293073463969486_n.jpg)
+![Apurva Kempinski Bali](https://images.gobaligo.id/images/2026-04/1775913501757-543684014.jpg)
+![Apurva Kempinski Bali](https://images.gobaligo.id/images/2026-04/1775913502325-0b2efa16d3269c9bdf72b3713448a6e2.jpg)
+![Apurva Kempinski Bali](https://images.gobaligo.id/images/2026-04/1775913502842-543684026.jpg)
+![Apurva Kempinski Bali](https://images.gobaligo.id/images/2026-04/1775913503260-543684038.jpg)
+![Apurva Kempinski Bali](https://images.gobaligo.id/images/2026-04/1775913503866-543684092.jpg)
+![Apurva Kempinski Bali](https://images.gobaligo.id/images/2026-04/1775913504309-595319338_1300862468749700_2611619189297659561_n.jpg)
+![Apurva Kempinski Bali](https://images.gobaligo.id/images/2026-04/1775913504888-595674211_1300862328749714_405162077226449190_n.jpg)
+![Apurva Kempinski Bali](https://images.gobaligo.id/images/2026-04/1775913505220-596339451_1300862625416351_2796766566939840091_n.jpg)
+![Apurva Kempinski Bali](https://images.gobaligo.id/images/2026-04/1775913505810-596957666_1300862688749678_5350672461555478575_n.jpg)
+![Apurva Kempinski Bali](https://images.gobaligo.id/images/2026-04/1775913506317-597143234_1300862198749727_4382293073463969486_n.jpg)
 
 > ▶[Pesan The Apurva Kempinski Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5941544)
 
@@ -192,21 +192,21 @@ Vivara Bali Private Pool Villas & Spa / Angel Wu 提供
 
 Yang paling keren dari Vivara Bali Private Pool Villas & Spa adalah setiap kamar punya kolam renang pribadi. Kolamnya gede banget, lengkap dengan sistem sirkulasi air mancur yang bikin airnya tetap bersih. Buat yang cari tempat nginep, ini rekomendasi banget! Kolam renang yang besar dan bersih jadi alasan utama kita milih hotel ini!
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775912661709-511160052.jpeg)
+![Vivara Bali Private Pool Villas & Spa](https://images.gobaligo.id/images/2026-04/1775912661709-511160052.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775912662292-511160140.jpeg)
+![Vivara Bali Private Pool Villas & Spa](https://images.gobaligo.id/images/2026-04/1775912662292-511160140.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775912662813-511160261.jpeg)
+![Vivara Bali Private Pool Villas & Spa](https://images.gobaligo.id/images/2026-04/1775912662813-511160261.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775912663357-399460071.jpeg)
+![Vivara Bali Private Pool Villas & Spa](https://images.gobaligo.id/images/2026-04/1775912663357-399460071.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775912663881-399460105.jpeg)
+![Vivara Bali Private Pool Villas & Spa](https://images.gobaligo.id/images/2026-04/1775912663881-399460105.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775912664384-406886200.jpeg)
+![Vivara Bali Private Pool Villas & Spa](https://images.gobaligo.id/images/2026-04/1775912664384-406886200.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775912664796-434285647.jpeg)
+![Vivara Bali Private Pool Villas & Spa](https://images.gobaligo.id/images/2026-04/1775912664796-434285647.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775912665142-434285792.jpeg)
+![Vivara Bali Private Pool Villas & Spa](https://images.gobaligo.id/images/2026-04/1775912665142-434285792.jpeg)
 
 > ▶[Pesan Vivara Bali Private Pool Villas & Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=36762751) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=104656334&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-M6zsTFJMEkdYCJ4_LGq6_ZhBgNLCYKOcb0H_qqwTzBwfObBpD5dKJDAE_ElAPPp7EnelU36_scCXToYmQFC8xgPHf7s-FGxlkzgUAzzmEHI9MJxtOaC5guT1hidIqFmWMDyyWW3YzR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJuaGegZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrI19xMIUHfuJheEXC0MTK0MXKzPHKaZJQPK05i5WthAjAy9_swusU3Wk5A0NDAxMDY1NTXUNEi0TTY2TDXVNLE2MLE11DY2NLEw1zm383PjU2MhaChJyCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9hMzSzMncyjbLiYPV2CBO_9Z8nVVra0l2IOCXdRDHJpC90z8bS9FkjOECYXaPFFjP-95QL7yLxuI-mUSaftk1irMnRDwjN6xQsYGxiZuhi5BRg9GCMYK4A8xlWMDBsYGXcw_ocBxleMINMB6DkTwywCAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494295-13285&detailFilters=17|1~17~1*31|104656334~31~104656334*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=300&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/q9wlDejz)
 

@@ -17,7 +17,7 @@ lang: en
 _srcHash: 20f4a89e530443830a60aafb077c2047
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_72f1c56bdf6326c2cfb52375320fb1a9.jpg)
+![Nusa Penida's Top 10 Food Spots: Cuisine and Crystal Blue Wa](https://images.gobaligo.id/vocus/vocus_72f1c56bdf6326c2cfb52375320fb1a9.jpg)
 
 Nusa Penida is world-famous for its paradise-like beaches, crystal-clear waters, and exotic culinary scene. In this guide, we'll take you to the most captivating food spots and relaxation destinations.
 
@@ -69,7 +69,7 @@ If you're looking for the perfect beach getaway on Nusa Penida, ELEVEN PENIDA BE
 
 AMARTA Penida, a restaurant and bar nestled on the northwest coast of Nusa Penida, is a hidden gem. Set amidst lush greenery with breathtaking ocean views, it's a dream spot for every Instagram enthusiast!
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881040205-collage_maker-22-oct-2023-08-39-am-4809_.jpg)
+![AMARTA Penida](https://images.gobaligo.id/images/2026-03/1774881040205-collage_maker-22-oct-2023-08-39-am-4809_.jpg)
 
 AMARTA Penida
 
@@ -88,7 +88,7 @@ The prices here are reasonable, and diners can use the facilities for free.
 
 Secret Penida Restaurant & Bar is a hidden tropical oasis in northern Nusa Penida, offering a serene dining experience. With stunning seaside views and rattan decor, this restaurant perfectly captures the essence of a tropical island vibe.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881079508-collage_maker-22-oct-2023-08-31-am-8951_.jpg)
+![Secret Penida Beach Club](https://images.gobaligo.id/images/2026-03/1774881079508-collage_maker-22-oct-2023-08-31-am-8951_.jpg)
 
 Secret Penida Restaurant & Bar
 
@@ -107,7 +107,7 @@ https://youtube.com/shorts/pcjhbEpvc18?si=Hg9Be0aD-D1kwRwn
 
 2023 Tripadvisor Travelers' Choice Award Winner
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881138169-collage_maker-22-oct-2023-08-26-am-4108_.jpg)
+![Adiwana Warnakali Resort - Nusa Penida](https://images.gobaligo.id/images/2026-03/1774881138169-collage_maker-22-oct-2023-08-26-am-4108_.jpg)
 
 Introducing Adiwana Warnakali Resort - Nusa Penida
 
@@ -141,7 +141,7 @@ It's not the most expensive luxury resort on Nusa Penida, but it's definitely on
 
 Cactus Beach Club, located on the northeastern tip of Nusa Penida, is a sun-drenched beach club and restaurant.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881195801-collage_maker-22-oct-2023-08-21-am-4378_.jpg)
+![Cactus Beach Club](https://images.gobaligo.id/images/2026-03/1774881195801-collage_maker-22-oct-2023-08-21-am-4378_.jpg)
 
 Cactus Beach Club
 
@@ -159,7 +159,7 @@ Cactus Beach Club is an ideal spot to watch the sunset. The restaurant boasts st
 
 The Chill Penida is a beach club that offers vegetarian and vegan-friendly options.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881245134-collage_maker-22-oct-2023-08-19-am-2425_.jpg)
+![The Chill Penida](https://images.gobaligo.id/images/2026-03/1774881245134-collage_maker-22-oct-2023-08-19-am-2425_.jpg)
 
 The Chill Penida
 
@@ -177,7 +177,7 @@ The Chill Penida is also a beach club offering plant-based vegetarian cuisine. I
 
 Nestled in a secluded bay surrounded by lush tropical rainforest
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881274088-collage_maker-21-oct-2023-10-04-pm-1338_.jpg)
+![Acropora Bar & Restaurant](https://images.gobaligo.id/images/2026-03/1774881274088-collage_maker-21-oct-2023-10-04-pm-1338_.jpg)
 
 ACROPORA RESTAURANT
 
@@ -191,7 +191,7 @@ If you're seeking the perfect stay on Nusa Penida, Pramana Natura is an unmissab
 
 ## Singabu Sand Beach
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881307747-collage_maker-21-oct-2023-09-18-pm-1727_.jpg)
+![Singabu Sand Beach](https://images.gobaligo.id/images/2026-03/1774881307747-collage_maker-21-oct-2023-09-18-pm-1727_.jpg)
 
 Singabu Sand Beach
 
@@ -208,7 +208,7 @@ Singabu Bungalows [offers quality budget accommodation](https://www.agoda.com/pa
 
 ## Coco Penida Restaurant & Bar
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e82770e951d11071ffc259551c6acee0.jpg)
+![Coco Penida Restaurant & Bar](https://images.gobaligo.id/vocus/vocus_e82770e951d11071ffc259551c6acee0.jpg)
 
 Coco Penida Restaurant & Bar is a restaurant and bar located on the northern side of Nusa Penida Island. The restaurant offers a variety of Mexican, American, and Italian dishes, along with a selection of cocktails, beers, and other beverages. With its cozy atmosphere and friendly staff, it's a great place to relax and enjoy a meal.
 

@@ -20,7 +20,7 @@ _srcHash: d7f3fde71789dc874d2ad9b686c30f9c
 ---
 以下係關於2025年喺峇里島慶祝農曆新年嘅活動資訊整理，如果您同屋企人喺農曆新年期間到訪峇里島，亦可以喺異國感受新年嘅氣氛㗎！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_18bd7cbd5a329497c0a6de2563f31473.png)
+![【必收藏】峇里島慶祝農曆新年嘅活動資訊整理](https://images.gobaligo.id/vocus/vocus_18bd7cbd5a329497c0a6de2563f31473.png)
 
 ---
 
@@ -49,7 +49,7 @@ _srcHash: d7f3fde71789dc874d2ad9b686c30f9c
 - **傳統音樂與舞蹈**：喺[Tugu Bali Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3164)嘅Kang Xi Temple，遊客可以欣賞到古箏演奏同舞獅表演，仲可以參與8道菜嘅傳統家宴。（[參考來源](https://blog.tuguhotels.com/lunar-legends-celebrating-the-wood-snake-year-at-the-historic-kang-xi-temple/)）
 - **節日裝飾與市集**：Denpasar嘅街道會裝飾紅燈籠同節日裝飾，營造出濃厚嘅節日氛圍。市集上仲可以買到傳統手工藝品同節日禮品。([參考來源](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0fdf9297e023a767c306109772cc60c1.png)
+![3. 文化與藝術活動](https://images.gobaligo.id/vocus/vocus_0fdf9297e023a767c306109772cc60c1.png)
 
 ---
 
@@ -107,7 +107,7 @@ _srcHash: d7f3fde71789dc874d2ad9b686c30f9c
    - 預定電話：+62 811 3960 0130
 7. **峇里島龍蝦先生（台灣老闆嘅店，大家多支持！）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f0cbbe41bdf5a551a04e2873a8a52853.png)
+![庫塔 / 雷吉安](https://images.gobaligo.id/vocus/vocus_f0cbbe41bdf5a551a04e2873a8a52853.png)
 
 - - 日期：即日起至2025年2月24日
   - 活動：新春優惠套餐
@@ -219,7 +219,7 @@ _srcHash: d7f3fde71789dc874d2ad9b686c30f9c
 
 ## 📩 **立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

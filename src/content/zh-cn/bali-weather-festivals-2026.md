@@ -32,7 +32,7 @@ _srcHash: 6b4a6b1a1b36bca00c032720bdb98e7b
 
 ### 【2026 巴厘岛旅游展望】从雨季尾声到蔚蓝晴空：3～6 月节庆与气候全攻略
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_faf6335054f12d89f60b16fd7a533b9d.jpg)
+![【2026 巴厘岛旅游展望】从雨季尾声到蔚蓝晴空：3～6 月节庆与气候全攻略](https://images.gobaligo.id/vocus/vocus_faf6335054f12d89f60b16fd7a533b9d.jpg)
 
 想在 2026 年上半年飞往**巴厘岛**吗？这段期间是这座岛屿最「戏剧化」的时刻。你可能会遇见全岛静止的魔幻瞬间，也可能不小心掉进当地人最怕的塞车地狱。
 
@@ -42,7 +42,7 @@ _srcHash: 6b4a6b1a1b36bca00c032720bdb98e7b
 
 ### 🌦️ 气候与赛道：干雨季交替的「生存指南」
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_07409a02cddf0c7953f3992184b40d23.png)
+![气候与赛道：干雨季交替的「生存指南」](https://images.gobaligo.id/vocus/vocus_07409a02cddf0c7953f3992184b40d23.png)
 
 这四个月正好是从雨季转入干季的关键期：
 
@@ -72,11 +72,11 @@ _srcHash: 6b4a6b1a1b36bca00c032720bdb98e7b
 - **登巴萨 (Denpasar)：** 3/18 傍晚前往 Puputan 广场一带，观赏最壮观、最原汁原味的 **Ogoh-ogoh 妖怪大游行**。（请参考：[【宁静日攻略】2026巴厘岛静居日/宁静日（Nyepi Day）｜妖怪大游行须知](/blog/nyepi-day-bali-guide-2026/)）
 - **乌鲁瓦图 (Uluwatu) 断崖度假村：** 3/19-20 **静居日 (Nyepi)** 期间，留在拥有壮丽海景的度假村内。这里光害极少，是全岛观赏「静居日银河」的最佳地点。（请参考：[乌鲁瓦图 Uluwatu住宿推荐：13间无敌海景的私密别墅度假村](https://s.id/uluwatu_Stay)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_808475a368c14385c6ee2c414ee6f88b.png)
+![3 月：在极致热闹与绝对静止之间](https://images.gobaligo.id/vocus/vocus_808475a368c14385c6ee2c414ee6f88b.png)
 
 ## **4 月：身心灵的苏醒时刻**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc16394692a6e8dd69ea0fab7f62c062.png)
+![4 月：身心灵的苏醒时刻](https://images.gobaligo.id/vocus/vocus_cc16394692a6e8dd69ea0fab7f62c062.png)
 
 - **气候概况：** 进入 4 月，降雨量显著减少，阳光普照的日子变多。海水的能见度开始提升，适合浮潜与潜水的季节正式拉开序幕。气温约在 25°C - 32°C 之间。
 - 四月初的清明连假是一个超级聪明的时间点！印尼一年中最繁忙、返乡人潮最蜂拥的「开斋节」刚结束。当印尼人回到工作岗位，国际游客也不像旺季那么疯狂，巴厘岛会迎来一段短暂而珍贵的平静期。
@@ -93,11 +93,11 @@ _srcHash: 6b4a6b1a1b36bca00c032720bdb98e7b
 - **德格拉朗梯田 (Tegallalang)：** 4 月雨水减少，阳光穿透翠绿梯田的光影最迷人，适合清晨漫步避开热浪。（请参考：[巴厘岛Tegalalang德格拉朗、Jatiluwih贾提鲁维两大梯田区拜访攻略｜入场门票多少钱？最佳拜访时间/季节？](/blog/bali-rice-terraces-comparison/)）
 - **坎古山脊步道 (Campuhan Ridge Walk)：** 气候转干，步道不再湿滑，适合傍晚散步。（请参考：[乌布中心步行可到的距离居然有这样的天堂？「乌布天空步道」Campuhan Ridge Walk介绍](/blog/ubud-campuhan-ridge-walk/)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e25ce066777027e59ef06a60eb4c681b.png)
+![4 月：身心灵的苏醒时刻](https://images.gobaligo.id/vocus/vocus_e25ce066777027e59ef06a60eb4c681b.png)
 
 ## **5 月：吃货与户外控的黄金月**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b7405a76a96c0882e108c5117afe7a87.png)
+![5 月：吃货与户外控的黄金月](https://images.gobaligo.id/vocus/vocus_b7405a76a96c0882e108c5117afe7a87.png)
 
 - **气候概况：** 5 月是许多旅游达人最推荐的月份。干季正式报到，湿度大幅下降，体感舒爽不黏腻。此时天空最湛蓝，是拍摄网红大片的最佳时机。
 - **51劳动节**：请 4 天（4/27-4/30），劳工限定的 9 天长假！
@@ -117,11 +117,11 @@ _srcHash: 6b4a6b1a1b36bca00c032720bdb98e7b
 - **离岛探险/浮潜：** 5 月海况趋于稳定，是前往 **蓝梦岛** 或到 **佩尼达岛** 浮潜看魔鬼鱼的最佳时机。（请参考[蓝梦岛攻略](/blog/nusa-lembongan-ceningan-guide/) / [佩尼达岛攻略](https://s.id/penida_guide)）
 - **土兰奔 (Tulamben)：** 干季报到，水下能见度极佳，适合探索沉船潜水。(请参考[巴厘岛东北角秘境：艾眉 Amed 与土兰奔 Tulamben 完整攻略](/blog/amed-tulamben-diving-guide/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e417ec268a8acaeff77d38f72eb5db82.png)
+![5 月：吃货与户外控的黄金月](https://images.gobaligo.id/vocus/vocus_e417ec268a8acaeff77d38f72eb5db82.png)
 
 ## **6 月：文化与美感的巅峰**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dd2c5771be5e78e79e23c43530cfe5c2.png)
+![6 月：文化与美感的巅峰](https://images.gobaligo.id/vocus/vocus_dd2c5771be5e78e79e23c43530cfe5c2.png)
 
 - **气候概况：** 6 月气候极为稳定，降雨机率极低。受南半球冷空气影响，这时会吹起清凉的阵风，早晚甚至会感到些许凉意，是进行登山健行（如巴杜尔火山）的最舒适时段。
   **快速参考：**
@@ -139,7 +139,7 @@ _srcHash: 6b4a6b1a1b36bca00c032720bdb98e7b
 - **巴杜尔火山 (Mount Batur)：** 6 月是全年最干爽、清晨最凉爽的月份，非常适合攀登火山看日出，云海几率极高。（请参考[巴厘岛金塔玛尼巴杜尔火山湖｜日出登山 × 皇家游船 × 湖景咖啡馆 × 山林游乐场 × 火山温泉全攻略](/blog/batur-lake-volcano-guide/)）
 - **潘达瓦海滩 (Pandawa Beach)：** 参加 **潘达瓦海滩节**，在湛蓝的海边享受文化游行与音乐表演。（巴厘岛南端连成一体怎么玩？请看[【武吉半岛冒险指南】从金巴兰日落到乌鲁瓦图悬崖寺庙：巴厘岛南端的隐藏天堂](/blog/bukit-peninsula-guide/)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6b96e31d9a9ab513eda3d295cd7a5da3.png)
+![6 月：文化与美感的巅峰](https://images.gobaligo.id/vocus/vocus_6b96e31d9a9ab513eda3d295cd7a5da3.png)
 
 ## 💡 小编的聪明旅游笔记
 

@@ -30,7 +30,7 @@ _srcHash: b6e65c18a282abb51491e746cf3b1a30
 
 The second day of our first family trip to Bali, today's itinerary includes:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_85927681da5e54d9cc9e2a0075146d7b.jpg)
+![【Family Trip to Bali with Two Kids】Day 2: GWK Cultural Park,](https://images.gobaligo.id/vocus/vocus_85927681da5e54d9cc9e2a0075146d7b.jpg)
 
 Starting from the conveniently located Aloft Kuta in Kuta ([click here to see the previous episode](/blog/bali-family-trip-aloft-kuta/)) > Garuda Wisnu Kencana Cultural Park in Jimbaran > Kelly's Warung with Uluwatu sea views > Uluwatu Temple > Kecak Fire Dance > Street food
 

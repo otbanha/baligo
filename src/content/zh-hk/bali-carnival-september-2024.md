@@ -19,7 +19,7 @@ lang: zh-hk
 _srcHash: 95b3dc2815de4bc06579e380b6efa98b
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f4e9c66fb28c36e0481d164591317e0f.jpg)
+![峇里島嘉年華Bali Carnival九月登場｜加勒比嘅熱情同峇里島嘅豐富文化完美融合](https://images.gobaligo.id/vocus/vocus_f4e9c66fb28c36e0481d164591317e0f.jpg)
 
 ## 
 

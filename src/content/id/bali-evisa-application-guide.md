@@ -29,7 +29,7 @@ _srcHash: 2e5ad6c20d699ffd99fb6b25fe61686d
 
 eVisa (electronic visa on arrival, disingkat eVoA/eVisa) adalah visa yang diajukan secara online lewat website resmi Direktorat Jenderal Imigrasi Indonesia sebelum keberangkatan. Biayanya sama kayak visa on arrival manual di bandara, yaitu Rp500.000 (sekitar USD$16), berlaku 30 hari, bisa diperpanjang sekali sampai maksimal 60 hari. Tapi kalau bayar pakai kartu kredit, ada biaya tambahan ya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b494c08f27d320e4d119e85eb298d600.png)
+![Apa Itu eVisa?](https://images.gobaligo.id/vocus/vocus_b494c08f27d320e4d119e85eb298d600.png)
 
 ## Langkah-Langkah Mengajukan eVisa
 

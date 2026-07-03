@@ -38,7 +38,7 @@ https://youtube.com/shorts/4qrez0ZwYb4
 
 ## Tiga Hari Inti: Serahkan pada Ahlinya untuk Eksplorasi Mendalam
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00f2cd7be9f879ad828534427edb9114.jpg)
+![Tiga Hari Inti: Serahkan pada Ahlinya untuk Eksplorasi Menda](https://images.gobaligo.id/vocus/vocus_00f2cd7be9f879ad828534427edb9114.jpg)
 
 Tiga hari berikutnya adalah puncak dari perjalanan ini. Aku serahkan sepenuhnya jadwal perjalananku pada pemandu yang terkenal di grup perjalanan online — **Ani (Si Febri)** dan suaminya yang jadi sopir sewaan. Popularitasnya bikin aku harus 'bertindak sebaliknya': sebelum beli tiket pesawat di Taiwan, aku udah kontak dia buat konfirmasi ketersediaan tanggalnya, kayak booking jadwal sutradara terkenal.
 
@@ -46,15 +46,15 @@ Kepercayaan yang aku berikan lebih awal ini terbayar banget. Ani bukan cuma pema
 
 ## Rangkuman Jadwal Tiga Hari yang Padat:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a01ce62ae4692f23cef04eac4b5d0ba2.png)
+![Rangkuman Jadwal Tiga Hari yang Padat:](https://images.gobaligo.id/vocus/vocus_a01ce62ae4692f23cef04eac4b5d0ba2.png)
 
 ### **🏔️ Jiwa Petualang:**
 
 - **Sunrise Jeep Gunung Batur:** Berangkat subuh, naik jeep di udara dingin menuju sisi barat gunung. Saat matahari keemasan muncul dari lautan awan, menyinari kontur gunung dan danau, momen itu luar biasa sulit diungkapkan. Yang lebih keren, supir jeepnya jago banget, hafal setiap spot foto terbaik, dan dengan inisiatif ambil banyak foto keren yang komposisinya profesional dan megah.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_16a54196130f9e528469195d8ff9aa8c.jpg)
+![Jiwa Petualang:](https://images.gobaligo.id/vocus/vocus_16a54196130f9e528469195d8ff9aa8c.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac018a86bbb625114fb5312631d10213.jpg)
+![Jiwa Petualang:](https://images.gobaligo.id/vocus/vocus_ac018a86bbb625114fb5312631d10213.jpg)
 
 > **Referensi Cepat:** [Petualangan di Bali: Catatan Lengkap Tur Sunrise Jeep Gunung Batur](/blog/batur-volcano-jeep-sunrise-tour/)
 
@@ -66,9 +66,9 @@ https://youtube.com/shorts/lz69CKyTYLk
 
 - **Mari Beach Club:** Beach club keren di Seminyak yang terkenal dengan suasananya yang santai dan pengalaman kuliner berkualitas.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_91b70ce735921f4691d46f186989d56d.jpg)
+![Jiwa Petualang:](https://images.gobaligo.id/vocus/vocus_91b70ce735921f4691d46f186989d56d.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_89ecc49e4d384b96740899a479368307.jpg)
+![Jiwa Petualang:](https://images.gobaligo.id/vocus/vocus_89ecc49e4d384b96740899a479368307.jpg)
 
 > ▶[Lebih banyak tiket diskon Beach Club di Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1190861&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%25E6%25B5%25B7%25E7%2581%2598%25E4%25BF%25B1%25E6%25A8%2582%25E9%2583%25A8)
 
@@ -80,9 +80,9 @@ https://youtube.com/shorts/BORrtY6fafs
 
 - **Jalan Tanah Barak:** Bayar tiket masuk yang murah, kamu bisa berdiri di tembok raksasa yang menjorok ke laut, ambil foto pemandangan sepi yang kayak ujung dunia.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_07e90969bcfe06823a447f5f8dc9adc1.jpg)
+![Jiwa Petualang:](https://images.gobaligo.id/vocus/vocus_07e90969bcfe06823a447f5f8dc9adc1.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e1bf7f65cd7d7bb67c5abbd8dc732ad.jpg)
+![Jiwa Petualang:](https://images.gobaligo.id/vocus/vocus_2e1bf7f65cd7d7bb67c5abbd8dc732ad.jpg)
 
 > **Referensi cepat:** [Batu Barak/Tanah Barak: Perjalanan Indah ke Jalan Biru / Tebing](/blog/batu-barak-cliff-road/)
 
@@ -91,9 +91,9 @@ https://youtube.com/shorts/BORrtY6fafs
 - **Pura Tirta Empul:** Makasih Ani yang nambahin, kami ngerasain suasana sakral warga lokal yang membersihkan diri di air suci. Arsitektur pura-nya juga cantik banget.
 - **Kopi Luwak Golden Rabbit:** Pelajari proses pembuatan kopi luwak yang terkenal, sambil mencicipi dan beli berbagai biji kopi.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1f86a9eb7d00cbc4710b2d014a9719fc.jpg)
+![Budaya & Belanja:](https://images.gobaligo.id/vocus/vocus_1f86a9eb7d00cbc4710b2d014a9719fc.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f4da0ea959d76c02a3fd75fbbfc63aa.jpg)
+![Budaya & Belanja:](https://images.gobaligo.id/vocus/vocus_4f4da0ea959d76c02a3fd75fbbfc63aa.jpg)
 
 - **Bali Banana:** Beli banana chips yang renyah dan enak, cocok banget jadi oleh-oleh buat dikasih ke temen atau buat sendiri.
 - **Love Anchor Canggu:** Mal belanja indoor di daerah Canggu.
@@ -108,17 +108,17 @@ https://youtube.com/shorts/BORrtY6fafs
 
 https://youtu.be/kcKfLqZUSjE
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_05efa07bc26a0a68c1ddffcbc212a11a.jpg)
+![Kuliner & Relaksasi:](https://images.gobaligo.id/vocus/vocus_05efa07bc26a0a68c1ddffcbc212a11a.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f806383734c781299eece3a235b4e030.jpg)
+![Kuliner & Relaksasi:](https://images.gobaligo.id/vocus/vocus_f806383734c781299eece3a235b4e030.jpg)
 
 > ▶[Tiket Diskon D'Tukad Coffee Club](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1190857&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F120659-d-tukad-coffee-club-in-ubud-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D92d0787eb8)
 
 - **Malini Uluwatu：** Restoran di atas tebing dengan view ke Pura Uluwatu dan sunset yang juara.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1d0abcf7def6a7c790ea900abb1d022b.jpg)
+![Kuliner & Relaksasi:](https://images.gobaligo.id/vocus/vocus_1d0abcf7def6a7c790ea900abb1d022b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_44fae2b97686bf8a40d76d8e9d41d128.jpg)
+![Kuliner & Relaksasi:](https://images.gobaligo.id/vocus/vocus_44fae2b97686bf8a40d76d8e9d41d128.jpg)
 
 - **Wahaha Pork Ribs：** Tempat legendaris iga babi, dagingnya empuk banget dan bumbunya kental, worth it buat ngantri.
 
@@ -128,7 +128,7 @@ https://youtube.com/shorts/PmW1oHHS7gA
 
 - **SVaha Spa：** Nikmatin pijat tradisional di lingkungan yang elegan, bikin capek sehari-hari ilang.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_65c3535029fbc4031bee1f4e347e235f.jpg)
+![Kuliner & Relaksasi:](https://images.gobaligo.id/vocus/vocus_65c3535029fbc4031bee1f4e347e235f.jpg)
 
 > ▶[Seminyak SVaha Spa Booking & Diskon](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1190861&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F155572-svaha-spa-in-seminyak-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3De4814e9f8b)
 
@@ -158,7 +158,7 @@ Kontak Ani Si Febri
 
 Kamu pikir itinerary [廖苡妏](https://www.facebook.com/share/p/1CjoK9BEFX/) mereka seru banget? Yuk, langsung atur jadwal liburan bebasmu ke Bali! Jangan lupa juga kirim itinerary kamu ke grup ya!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c24c907b3071f894b193a7b3d195bba.jpg)
+![Kesimpulan: Lebih dari Sekali yang Indah](https://images.gobaligo.id/vocus/vocus_1c24c907b3071f894b193a7b3d195bba.jpg)
 
 Klik di sini buat lihat lebih banyak [cerita seru liburan di Bali](/blog?cat=%E9%81%8A%E8%A8%98%E5%88%86%E4%BA%AB)
 

@@ -19,7 +19,7 @@ _srcHash: 833cd7e2c527d89c0890f0a731ee4045
 
 ### 印尼衛生部最近宣佈，因為全球Mpox（之前稱為猴痘）病例上升，峇里島等地嘅篩檢程序將會更加嚴格。Mpox係一種高度傳染嘅病毒，大家需要多加注意。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_69c98b8211e806d7a145a78b20e10aca.jpg)
+![印尼衛生部最近宣佈，因為全球Mpox（之前稱為猴痘）病例上升，峇里島等地嘅篩檢程序將會更加嚴格。Mpox係一種高度傳染嘅](https://images.gobaligo.id/vocus/vocus_69c98b8211e806d7a145a78b20e10aca.jpg)
 
 8月18日，衛生部嘅代理總局長尤迪·普拉莫諾（Yudhi Pramono）喺新聞發佈會上表示，所有入境印尼嘅外國旅客而家都必須喺抵達時填寫一份健康問卷。呢份問卷會詢問大家嘅健康狀況、最近嘅接觸史以及最近去過嘅地方。
 

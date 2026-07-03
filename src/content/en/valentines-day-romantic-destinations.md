@@ -25,7 +25,7 @@ _srcHash: 6d00bc3132489c8e76d625fd72338930
 
 Roses, cakes, chocolates, and romantic travel spots—do you know which cities are the most popular Valentine's Day destinations worldwide this year?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa2d254bf0cc097ffe98b22e6d6fde35.jpg)
+![Valentine's Day Romantic Guide: Agoda's Top 10 International](https://images.gobaligo.id/vocus/vocus_aa2d254bf0cc097ffe98b22e6d6fde35.jpg)
 
 This list of the most romantic destinations was curated by the Agoda travel platform. They announced the top 10 international city destinations based on couples' travel preferences during Valentine's Day.
 
@@ -33,7 +33,7 @@ Topping the list is Thailand's famous Bangkok, a city globally renowned for its 
 
 Additionally, Bali in Indonesia also made the list, along with Phuket—both cities known for their diverse beach attractions.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6215ad9ad25ef58453bfc1181abcabf6.png)
+![Valentine's Day Romantic Guide: Agoda's Top 10 International](https://images.gobaligo.id/vocus/vocus_6215ad9ad25ef58453bfc1181abcabf6.png)
 
 Valentine's Day is the perfect opportunity for couples to create new memories. Want to embark on an unforgettable romantic journey with your loved one? Check these out:
 

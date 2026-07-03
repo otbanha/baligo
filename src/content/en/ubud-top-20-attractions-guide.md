@@ -24,19 +24,19 @@ _srcHash: f1077d0abb3ed834fff714b9a088f1cc
 
 If you're wondering where in Bali, besides its vibrant beaches, is most popular among international and Indonesian tourists? One answer is Ubud. I'm sure you've heard of Ubud's tourist spots and seen various articles about its tours and activities. Are you interested in vacationing in Ubud? If so, before planning your trip, I recommend reading this article thoroughly! Here, we provide a travel guide and tips for Ubud.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bb040f4d92b97741e7688b1d1f6d92e8.jpg)
+![Bali Travel Guide: What to Do on Your First Visit to Ubud? 2](https://images.gobaligo.id/vocus/vocus_bb040f4d92b97741e7688b1d1f6d92e8.jpg)
 
 ## The Charm of Ubud
 
 ### Natural Beauty
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_196e1575dee8964008cb839fae2973d5.png)
+![Natural Beauty](https://images.gobaligo.id/vocus/vocus_196e1575dee8964008cb839fae2973d5.png)
 
 Ubud is renowned for its natural beauty, nestled between rice fields and forested areas, surrounded by river gorges. In Ubud, you can enjoy lush hillsides, terraced rice fields, waterfalls, and pristine river landscapes.
 
 ### Art and Culture
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c5aa41f7f1a617f73a2295d168fb493.jpg)
+![Art and Culture](https://images.gobaligo.id/vocus/vocus_1c5aa41f7f1a617f73a2295d168fb493.jpg)
 
 Beyond its natural beauty, Ubud is also famous for its Balinese art and culture. Most local residents in Ubud are artists, including painters, craftsmen, and dancers. Along Ubud's streets, you can easily find galleries, wood carving, and stone carving shops. Additionally, Ubud hosts many museums, art galleries, and souvenir shops selling local crafts.
 
@@ -46,7 +46,7 @@ Daily Balinese dance performances can be found in various parts of Ubud. Moreove
 
 Ubud's tourism industry is supported by a comprehensive range of accommodations, from budget-friendly guesthouses to luxurious resorts. No matter your budget, you can find suitable lodging in Ubud. Check out the Ubud accommodation recommendations below:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_13a74a1d8c8fd5941d410b5cd70f4cf0.jpg)
+![Diverse Accommodation Options](https://images.gobaligo.id/vocus/vocus_13a74a1d8c8fd5941d410b5cd70f4cf0.jpg)
 
 - [【Bali Ubud Accommodation】28 Unique Stays in Ubud, Experience a Magical Journey Amidst Bali's Mountain Scenery!](/blog/ubud-villas-pool-guide/)
 - [Explore 9 Breathtaking Tree House/Bamboo Villa Stays in Ubud](/blog/ubud-treehouse-bamboo-villa-stays/)
@@ -83,7 +83,7 @@ Simply search "Bali scooter rental" on Google, and you'll find rental services n
 
 Additionally, an international driver's license is required to ride a scooter. You can obtain one in your home country or in Bali. Please note that helmets must be worn at all times while riding in Bali, and be aware that traffic drives on the left, opposite to Taiwan. If you're unsure about the traffic conditions, consider choosing an alternative mode of transportation.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fc84efe12c3d37e38738d93e3332713f.jpg)
+![Riding a Scooter – Ubud Transportation Guide](https://images.gobaligo.id/vocus/vocus_fc84efe12c3d37e38738d93e3332713f.jpg)
 
 For more on renting scooters, check out: [Bali Scooter Rental Guide! Should You Rent a Scooter or Hire a Private Car?](/blog/bali-motorbike-rental-guide/)
 
@@ -145,7 +145,7 @@ This temple is dedicated to Saraswati, the goddess of wisdom, and features a lot
 
 ### 4. Watch a Kecak Dance Performance
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_08e9a66f4ba8c0410cf1f1c73553fc1d.jpg)
+![4. Watch a Kecak Dance Performance](https://images.gobaligo.id/vocus/vocus_08e9a66f4ba8c0410cf1f1c73553fc1d.jpg)
 
 Ubud is an excellent place to watch Balinese dance performances. The fire dance performance takes place on Tuesdays and Sundays from 7:00 PM to 8:00 PM, while the performance at Ubud Palace is held every Thursday. The ticket price is IDR 100,000 per person. You can book discounted tickets in advance through Klook.
 
@@ -156,7 +156,7 @@ Performance Ticket Booking:
 
 ### 5. Agung Rai Museum of Art (ARMA)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f1ede73cfd2d1d8c2aa4cf499b92168.jpg)
+![5. Agung Rai Museum of Art (ARMA)](https://images.gobaligo.id/vocus/vocus_4f1ede73cfd2d1d8c2aa4cf499b92168.jpg)
 
 The Agung Rai Museum of Art is built on undulating terrain and features Balinese-style garden designs, including lotus ponds and orchid plants. This is a place in Ubud that is worth visiting at least once, with an impressive collection of Balinese-style art. Highly recommended. Although the entrance fee is not cheap, it's worth stopping by once. You may have the chance to see artists at work. The museum is open from 9:00 AM to 6:00 PM, and the ticket price is IDR 150,000 per person.
 
@@ -164,7 +164,7 @@ The Agung Rai Museum of Art is built on undulating terrain and features Balinese
 
 ### 6. Tegallalang Rice Terraces
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_32ee901d3d3b754dd1e9a11ddbb04cc4.jpg)
+![6. Tegallalang Rice Terraces](https://images.gobaligo.id/vocus/vocus_32ee901d3d3b754dd1e9a11ddbb04cc4.jpg)
 
 Tegallalang Rice Terraces is one of the famous rice terraces in Ubud, offering spectacular scenery perfect for capturing beautiful photos. There are many cafes nearby where you can enjoy the view while savoring delicious food.
 
@@ -175,7 +175,7 @@ Book a Day Tour:
 
 ### 7. Goa Gajah Temple
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_952716f4ef63ba4cb3e834ec8871d9a4.jpg)
+![7. Goa Gajah Temple](https://images.gobaligo.id/vocus/vocus_952716f4ef63ba4cb3e834ec8871d9a4.jpg)
 
 Goa Gajah is an ancient temple in Bali, but don't expect to see any elephants here! The carvings and cave interior designs are truly unique, making it a must-visit for archaeology and history enthusiasts. Opening hours are from 08:00 to 17:00.
 
@@ -185,7 +185,7 @@ Book a day tour:
 
 ### 8. Tirta Empul Temple
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_88c944a5fa78e838a7b5907d644ae8ca.jpg)
+![8. Tirta Empul Temple](https://images.gobaligo.id/vocus/vocus_88c944a5fa78e838a7b5907d644ae8ca.jpg)
 
 Tirta Empul Temple is famous for its natural spring water, which flows from within the temple, creating a clear, fresh water source. Visitors must wear sarongs and sashes to enter the temple interior, which can be rented at the entrance. Check out the [Complete Guide to Tirta Empul Temple: Bali's Most Sacred Purification Water Temple Experience](/blog/tirta-empul-temple-guide/)
 
@@ -195,7 +195,7 @@ Book a day tour:
 
 ### 9. Gunung Kawi Cliff Temple
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9bacc76e3ee7526bb8196649a060b07d.jpg)
+![9. Gunung Kawi Cliff Temple](https://images.gobaligo.id/vocus/vocus_9bacc76e3ee7526bb8196649a060b07d.jpg)
 
 The Rock Temple is an ancient temple perched on a cliff, surrounded by beautiful scenery with the soothing sounds of the Pakrisan River flowing nearby. It is open from 07:00 to 18:00.
 
@@ -225,7 +225,7 @@ Wanna Jungle Pool & Bar is a newly opened day club in Ubud, renowned for its uni
 
 ### 13. Visit Penglipuran Village
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3cbf15152fb9545d76d50dc6503fe24b.jpg)
+![13. Visit Penglipuran Village](https://images.gobaligo.id/vocus/vocus_3cbf15152fb9545d76d50dc6503fe24b.jpg)
 
 Penglipuran Village is one of the most well-preserved traditional communities in Bali. Its charm lies in the intact traditional architecture and unique lifestyle, with the village's winding streets and ancient houses embodying the rich Balinese culture, transporting you back to the old Balinese community.
 
@@ -237,7 +237,7 @@ Klook Special Offers
 
 ### 14. Cretya Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ccfc5c23d027fafbee502e39f43316da.jpg)
+![14. Cretya Ubud](https://images.gobaligo.id/vocus/vocus_ccfc5c23d027fafbee502e39f43316da.jpg)
 
 Cretya Ubud is a luxurious day club in the Ubud area, featuring a distinctive three-tiered pool facing the lush Tegallalang Rice Terraces, offering breathtaking views.
 
@@ -266,7 +266,7 @@ How to get to the Skywalk? How much time does it take? What's the best time to v
 
 ### 18. Ubud Swing
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_be98dfd4b46b605c281497c7bcd23862.jpg)
+![18. Ubud Swing](https://images.gobaligo.id/vocus/vocus_be98dfd4b46b605c281497c7bcd23862.jpg)
 
 The jungle swings in Ubud are a popular activity for Instagram-worthy photos. While there are many places to enjoy swings in Bali, Ubud is the most famous.
 
@@ -274,7 +274,7 @@ Check out [Ubud Jungle Swings: Bali's 8 Most Beautiful Swing Photo Spots｜Ubud 
 
 ### 19 Waterfall Hunting
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_68745d1fbb03c0df4da67ba5a349df4b.png)
+![19 Waterfall Hunting](https://images.gobaligo.id/vocus/vocus_68745d1fbb03c0df4da67ba5a349df4b.png)
 
 The Ubud area is not only famous for its culture and art but also boasts breathtaking natural landscapes, with waterfalls being a must-visit. The three renowned waterfalls near Ubud are Tegenungan Waterfall, Kanto Lampo Waterfall, and Tukad Cepung Waterfall. Check out [this guide to the three famous waterfalls around Ubud](/blog/ubud-waterfalls-guide/)
 

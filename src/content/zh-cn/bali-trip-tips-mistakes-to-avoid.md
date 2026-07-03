@@ -26,7 +26,7 @@ _srcHash: c7c839f9af8339206038edcf25a9d806
 
 由于在群组中看到大家办理电子签证（eVOA）时遇到许多问题，我们决定改办落地签证。到达机场后，排队等候大约15-20分钟便轮到我们，速度还算可以接受。然而，即使办理签证相对快速，行李提取依旧需要一些时间，因此我们在等待行李时感到有些无奈😅。所以，若您选择办理落地签证，请预留充足的时间以应对可能的延迟。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a26a7527e1e934bfe40d5158bf8470d7.png)
+![签证：](https://images.gobaligo.id/vocus/vocus_a26a7527e1e934bfe40d5158bf8470d7.png)
 
 > 延伸阅读：[2025/08印尼巴厘岛入境使用「All Indonesia」申报系统｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
 

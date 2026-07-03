@@ -34,7 +34,7 @@ Mau pertama kali ke Bali atau udah beberapa kali, banyak orang pasti punya perta
 
 Bali adalah pulau di Indonesia, secara geografis ada di Asia Tenggara. Pulau ini dikelilingi laut, di sebelah barat berbatasan langsung dengan Pulau Jawa, dan di timur dekat dengan Lombok. Karena punya karakter unik dan banyak banget wajah, Bali jadi destinasi liburan favorit di Asia Tenggara, tiap tahun menarik turis dari seluruh dunia.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e14497d695ce945e47d1b8738cd5faa6.gif)
+![1. Bali di mana sih? Gimana cara ke sana?](https://images.gobaligo.id/vocus/vocus_e14497d695ce945e47d1b8738cd5faa6.gif)
 
 Ada penerbangan langsung dari Taiwan, Hong Kong, China, Malaysia, Singapura, Vietnam, Korea Selatan, Jepang, Australia... dan negara-negara lain.
 
@@ -54,7 +54,7 @@ Secara umum, pariwisata di Bali itu sangat maju, banyak penduduk lokal yang kerj
 
 Buat traveler, belajar beberapa kata Indonesia sederhana kayak 'Halo', 'Terima kasih', bakal bikin komunikasi lebih seru dan akrab.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7fea812488c6425afb80a94c229ae2dc.png)
+![3. Orang Bali bisa bahasa Inggris nggak sih?](https://images.gobaligo.id/vocus/vocus_7fea812488c6425afb80a94c229ae2dc.png)
 
 ***
 
@@ -70,7 +70,7 @@ Mata uang yang dipakai di Bali adalah Rupiah Indonesia (IDR). Traveler bisa gamp
 
 Bali terletak di dekat khatulistiwa, beriklim **muson tropis**, hangat dan lembap sepanjang tahun. Iklimnya terbagi jadi dua musim utama: **musim kemarau** dan **musim hujan**, dengan karakteristik cuaca yang berbeda bikin Bali cocok dikunjungi kapan aja, tapi pengalaman travelingnya bakal sedikit beda tergantung musim.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6e7fac42f701496457dff00feb523003.png)
+![5. Gimana cuaca di Bali? Bulan apa paling enak ke Bali?](https://images.gobaligo.id/vocus/vocus_6e7fac42f701496457dff00feb523003.png)
 
 **Musim Kemarau (Mei sampai Oktober)**
 
@@ -132,7 +132,7 @@ Tapi traveling sendiri butuh persiapan yang nggak sedikit:
 
 ## 8. Agama apa yang dianut di Bali?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b900673e23545a0548d0a63419bc8b0f.jpg)
+![8. Agama apa yang dianut di Bali?](https://images.gobaligo.id/vocus/vocus_b900673e23545a0548d0a63419bc8b0f.jpg)
 
 Agama utama di Bali adalah Hindu Bali (Balinese Hinduism), yaitu perpaduan unik antara Hindu, Buddha, dan kepercayaan tradisional lokal. Kehidupan sehari-hari penduduk Bali penuh dengan aktivitas dan upacara keagamaan, kuil ada di mana-mana, dan sering diadakan persembahyangan, tarian, serta upacara. Kalau kamu punya kesempatan ikut festival keagamaan lokal, seperti Hari Raya Nyepi atau Galungan, kamu bakal ngerasain pesona budaya pulau ini.
 
@@ -234,7 +234,7 @@ Kalau waktunya mepet, pilih lima tempat aja, terus ajak guide atau driver lokal 
 
 Pas liburan di Bali, transportasi itu bagian penting yang gak boleh disepelein. Soalnya transportasi umum di sini gak terlalu maju, jadi turis biasanya andalin cara lain buat jalan-jalan. Ini dia pilihan transportasi yang umum dan tipsnya biar kamu bisa pilih yang paling pas.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8fccd4d96905da3df4d1ea5d85f185f4.png)
+![16. Panduan Transportasi Bali: Cara Atur Mobilitas Kamu](https://images.gobaligo.id/vocus/vocus_8fccd4d96905da3df4d1ea5d85f185f4.png)
 
 **1. Sewa Mobil + Sopir 🚗**
 
@@ -258,7 +258,7 @@ Sewa motor jadi pilihan favorit turis muda dan backpacker di Bali. Harga sewa mo
 
 ## 17. Cara ke Pulau Sekitar Bali (misalnya Nusa Penida)?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_535739e26a4d002cb0ccb5f6620b1eeb.jpg)
+![17. Cara ke Pulau Sekitar Bali (misalnya Nusa Penida)?](https://images.gobaligo.id/vocus/vocus_535739e26a4d002cb0ccb5f6620b1eeb.jpg)
 
 Dari Bali mau ke Nusa Penida, Nusa Lembongan, atau pulau-pulau lain di sekitarnya? Nih, gue kasih tahu beberapa pilihan transportasi utama:
 
@@ -313,7 +313,7 @@ Harga di Bali sebenarnya fleksibel banget, tergantung gaya traveling dan kebiasa
 
 ## 19. Gimana Cara Hemat Budget Liburan ke Bali?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c795af0f5b6014135ec5f32377cd075e.jpg)
+![19. Gimana Cara Hemat Budget Liburan ke Bali?](https://images.gobaligo.id/vocus/vocus_c795af0f5b6014135ec5f32377cd075e.jpg)
 
 Yang paling dihindari pas traveling itu boros, apalagi pas rencanain perjalanan, penting banget buat atur budget dengan cermat! Gimana caranya biar setiap rupiah terpakai dengan worth it? Gimana cara dapetin pengalaman liburan terbaik dengan harga paling hemat? Tenang, kami udah siapin panduan super praktis — 「[Tips Hemat Liburan ke Bali](/blog/bali-travel-money-saving-tips/)」! Artikel ini nggak cuma ngajarin kamu hindari jebakan konsumtif yang umum, tapi juga bagiin banyak trik hemat yang berguna, biar kamu gampang kuasai rahasia traveling di Bali, main puas tanpa bikin kantong bolong! Siapin buku catatan, mulai catat poin pentingnya!
 
@@ -321,7 +321,7 @@ Yang paling dihindari pas traveling itu boros, apalagi pas rencanain perjalanan,
 
 ## 20. Berapa Banyak Uang Tunai yang Harus Disiapkan untuk Liburan ke Bali?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ae701b59f0e6834d794a3ce752ddd57c.jpg)
+![20. Berapa Banyak Uang Tunai yang Harus Disiapkan untuk Libu](https://images.gobaligo.id/vocus/vocus_ae701b59f0e6834d794a3ce752ddd57c.jpg)
 
 「Berapa banyak uang tunai yang harus disiapkan buat liburan ke Bali?」、「Bawa USD berapa banyak?」 Pertanyaan kayak gini sering bikin bingung para traveler yang mau ke surga liburan Indonesia ini. Soal kapan perlu pakai uang tunai? Gimana cara ngatur budget? Sisa uang gimana? Cek artikel khusus [di sini](/blog/bali-travel-cash-budget-guide/).
 
@@ -369,7 +369,7 @@ Setelah berkali-kali eksplorasi dan observasi, kami sadar kalau wisatawan di Bal
 
 ## 24. Bali mau nginep di mana? Cari akomodasi yang pas buat kamu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_333c7ad510beaeaff91125d2978ebacd.png)
+![24. Bali mau nginep di mana? Cari akomodasi yang pas buat ka](https://images.gobaligo.id/vocus/vocus_333c7ad510beaeaff91125d2978ebacd.png)
 
 Bali punya banyak pilihan akomodasi yang super variatif, dari yang mewah buat liburan santai, guest house nyaman buat keluarga, sampai villa dan butik hotel dengan gaya unik. Berikut beberapa tema akomodasi di Bali yang bisa bantu kamu milih tempat nginep paling pas sesuai budget dan kebutuhan liburan!
 
@@ -412,7 +412,7 @@ Untuk urusan booking akomodasi di Bali, saran saya sih pertimbangkan beberapa ha
 
 ## 27. Gimana Cara Merencanakan Liburan/Backpackeran ke Bali?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ce0c50926fe0cd89378977456e91a1af.png)
+![27. Gimana Cara Merencanakan Liburan/Backpackeran ke Bali?](https://images.gobaligo.id/vocus/vocus_ce0c50926fe0cd89378977456e91a1af.png)
 
 Kalau kamu lebih suka backpackeran sendiri tapi bingung cara bikin rencana liburan Bali yang kece, tenang aja — kami udah siapin panduan simpel dan praktis buat kamu!
 
@@ -447,7 +447,7 @@ Bisa cek [info kami](/blog/bali-pasar-kreneng-night-market/)
 
 ## 31. Apa saja olahraga air populer di Bali?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_05ba6b98fa4c1f329f2c5eb93f193129.png)
+![31. Apa saja olahraga air populer di Bali?](https://images.gobaligo.id/vocus/vocus_05ba6b98fa4c1f329f2c5eb93f193129.png)
 
 Tanjung Benoa, yang biasa disebut "Teluk Selatan", adalah pusat segala aktivitas air di Bali. Perairan di sini sangat hidup, menawarkan berbagai olahraga air yang seru dan petualangan yang tak tertandingi. Naik jet ski melesat di atas air biru jernih bikin kamu merasakan sensasi liar angin, sementara parasailing membawa kamu terbang tinggi menikmati pemandangan laut yang indah, memadukan keajaiban dan birunya lautan. Banana boat dan donut boat adalah aktivitas air penuh keseruan cepat, cocok untuk keluarga dan teman-teman yang ingin bersenang-senang bersama.
 
@@ -473,7 +473,7 @@ Pengalaman SPA di Bali sudah terkenal di seluruh dunia dan jadi salah satu aktiv
 
 ## 33. Apa saja beach club populer di Bali?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_850eb2925050176d0463fbee0ea88218.jpg)
+![33. Apa saja beach club populer di Bali?](https://images.gobaligo.id/vocus/vocus_850eb2925050176d0463fbee0ea88218.jpg)
 
 Kalau ke Bali tanpa mampir ke beach club setidaknya sekali, kamu nggak bakal ngerasain romantisme dan semangat hidup di pulau ini!
 
@@ -487,7 +487,7 @@ Bali punya puluhan beach club dengan gaya yang beda-beda. Mau rebahan di pinggir
 
 ## 34. Bali cocok buat liburan keluarga? Ada wahana bermain untuk anak-anak nggak?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_201dc0764066ffc9c1748b2b07b9146b.png)
+![34. Bali cocok buat liburan keluarga? Ada wahana bermain unt](https://images.gobaligo.id/vocus/vocus_201dc0764066ffc9c1748b2b07b9146b.png)
 
 Buat kamu yang lagi liburan ke Bali sama anak-anak, pasti penasaran: apakah surga liburan yang terkenal romantis dan penuh petualangan ini juga cocok buat jalan-jalan sekeluarga? Jawabannya: iya banget! 🌟 Bali nggak cuma punya pantai cantik dan pemandangan alam yang kaya, tapi juga banyak wahana seru dan aktivitas ramah anak yang bikin semua anggota keluarga betah. Mulai dari waterpark, kebun binatang, sampai kids club yang kreatif, baik anak yang aktif banget maupun yang suka berkarya, semuanya bisa nemu hiburan yang pas. Yuk, kita lihat apa aja sih wahana ramah keluarga di Bali:
 
@@ -497,7 +497,7 @@ Buat kamu yang lagi liburan ke Bali sama anak-anak, pasti penasaran: apakah surg
 
 ## 35. Bali cocok buat bulan madu atau liburan pasangan?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_18ac60275d0b16dc639f5bf20fc415e4.png)
+![35. Bali cocok buat bulan madu atau liburan pasangan?](https://images.gobaligo.id/vocus/vocus_18ac60275d0b16dc639f5bf20fc415e4.png)
 
 **Jawabannya: iya banget! Bali emang destinasi ideal buat bulan madu dan liburan pasangan.** Pulau yang penuh romantisme ini, dengan pemandangan alam yang indah, resort mewah kelas atas, dan pengalaman unik yang nggak terlupakan, jadi incaran pasangan dari seluruh dunia. Mau kalian petualang yang suka alam, atau pasangan yang lebih suka suasana tenang, Bali bisa memenuhi semua kebutuhan kalian.
 
@@ -507,7 +507,7 @@ Buat kamu yang lagi liburan ke Bali sama anak-anak, pasti penasaran: apakah surg
 
 ## 36. Bali cocok buat bawa orang tua?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_25b835ce8ad2399a37d2c5e8dc188850.jpg)
+![36. Bali cocok buat bawa orang tua?](https://images.gobaligo.id/vocus/vocus_25b835ce8ad2399a37d2c5e8dc188850.jpg)
 
 Bali cocok nggak sih buat diajak sama orang tua? Jawabannya: tentu aja bisa! Pulau ini bukan cuma tempat favorit buat pasangan dan keluarga, tapi juga kasih pengalaman liburan yang nyaman dan beragam buat orang tua. Suasana Bali santai, banyak aktivitas dan tempat yang ramah buat orang tua, misalnya spa relaksasi, pemandangan sawah yang tenang, dan pertunjukan tari tradisional yang penuh budaya. Selain itu, restoran kelas atas, layanan antar-jemput yang gampang, dan fasilitas hotel yang ramah bikin liburan sama orang tua jadi lebih mudah. Kalau kamu rencana jalan sama orang tua, Bali jelas pilihan yang pas!
 
@@ -521,7 +521,7 @@ Bali cocok nggak sih buat diajak sama orang tua? Jawabannya: tentu aja bisa! Pul
 
 ## 37. Gimana sih kehidupan malam di Bali?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a17055031b6d408c29d2c9673ec82a8f.jpg)
+![37. Gimana sih kehidupan malam di Bali?](https://images.gobaligo.id/vocus/vocus_a17055031b6d408c29d2c9673ec82a8f.jpg)
 
 Kalau kamu lagi cari tempat buat pesta semalaman, Kuta dan Seminyak di Bali adalah tempat yang wajib kamu datangi!
 
@@ -532,7 +532,7 @@ Kalau kamu lagi cari tempat buat pesta semalaman, Kuta dan Seminyak di Bali adal
 
 ## 38. Pertunjukan Tari Tradisional di Bali Worth It Nggak Sih?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_82b8c46b8f153469d536f48be8633bf8.jpg)
+![38. Pertunjukan Tari Tradisional di Bali Worth It Nggak Sih?](https://images.gobaligo.id/vocus/vocus_82b8c46b8f153469d536f48be8633bf8.jpg)
 
 Pas liburan ke Bali, nonton tari tradisional lokal tuh wajib banget masuk bucket list! Tari Bali bukan cuma seni pertunjukan biasa, tapi juga sarat makna religi dan budaya yang dalem. Lewat kostum yang detail, gerakan yang anggun, dan ekspresi yang hidup, tarian ini bener-bener ngegambarin keunikan budaya Bali.
 
@@ -574,7 +574,7 @@ Keunikan setiap kawasan inilah yang membentuk puzzle surga tropis ini. Cara kamu
 
 ## 40. Aku males ribet, ada rekomendasi agen travel?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fc839808c11834a857c58ba81322969f.jpg)
+![40. Aku males ribet, ada rekomendasi agen travel?](https://images.gobaligo.id/vocus/vocus_fc839808c11834a857c58ba81322969f.jpg)
 
 Agen travel yang bisa 100% kustomisasi itinerary itu langka. Kami rekomendasiin isBali, agen travel yang udah punya pengalaman belasan tahun di Bali. Mereka bisa bikin rencana perjalanan paling pas sesuai budget dan lama liburanmu. Buat first-timer ke Bali, layanan ini bener-bener membantu banget. Kamu tinggal kasih budget dan beberapa tempat yang diincar, sisanya urusan isBali. Dari tiket pesawat, hotel, sampai sopir pribadi harian, semuanya diatur rapi. Model semi-paket ini nggak cuma ngirit waktu riset dan atur jadwal, tapi juga kasih fleksibilitas dan kebebasan. Diskon paket perjalanan dari kami bisa dicek [di sini](/blog/isbali-tour-agency-review/).
 
@@ -582,7 +582,7 @@ Agen travel yang bisa 100% kustomisasi itinerary itu langka. Kami rekomendasiin 
 
 ## 41. Tiket diskonan apa aja yang bikin liburanmu di Bali makin worth it?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_99d35de1a442ec6cd36b5e235338d335.jpg)
+![41. Tiket diskonan apa aja yang bikin liburanmu di Bali maki](https://images.gobaligo.id/vocus/vocus_99d35de1a442ec6cd36b5e235338d335.jpg)
 
 Sekarang **Klook** jadi platform travel yang paling lengkap buat cari diskonan di Bali. Mau kamu mau explore tempat-tempat hits di pulau ini, ikut pengalaman budaya yang unik, atau sekadar relaksasi dengan SPA, semuanya ada di Klook. Mulai dari tiket diskon water park, promo makan di beach club, sampai tour pribadi dan jemputan, lengkap banget! Dengan booking dari jauh-jauh hari, kamu bisa dapet harga lebih murah dan nggak perlu antre lama buat beli tiket. Dijamin liburanmu di Bali makin seru dan santai. Yuk, cek promo-promo kece ini dan rencanain trip impianmu! ✨
 

@@ -21,7 +21,7 @@ _srcHash: c112bd6fdbf754d4c76c1156ddb6b826
 
 自2024年9月1日起，台灣嘅全服務航空公司Starlux Airlines（星宇航空）正式啟航直飛印尼台北至雅加達嘅航班，每週飛行五次。Starlux Airlines係一家新興航空公司，由台灣長榮集團創辦人張榮發嘅兒子張國煒於2017年創立。自2020年1月首飛以來，Starlux便引起咗廣泛關注，票務常常一售而空。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cd9f2da6965d05b446647f287aad4937.jpg)
+![認識台灣全服務航空公司「星宇」](https://images.gobaligo.id/vocus/vocus_cd9f2da6965d05b446647f287aad4937.jpg)
 
 ## 從創立到擴展：Starlux嘅發展歷程
 
@@ -33,7 +33,7 @@ _srcHash: c112bd6fdbf754d4c76c1156ddb6b826
 
 Starlux嘅客艙內部設計由BMW Designworks工作室負責，所有艙位均配有娛樂系統。經濟艙嘅座位配有720p 10.1寸顯示器，提供免費基本Wi-Fi（包括SMS功能）。客艙內嘅獨特香氛由P.Seven創造，融合咗木材、皮革同花香嘅氣息，增添咗旅客嘅舒適體驗。航空公司嘅制服設計則由當地設計師Sean Yin創作，靈感來自1940同50年代嘅復古未來主義風格。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dddd215a460c4e3b870614c74ec256fa.jpg)
+![客艙設計與服務特色](https://images.gobaligo.id/vocus/vocus_dddd215a460c4e3b870614c74ec256fa.jpg)
 
 ## 進軍印尼市場
 
@@ -49,7 +49,7 @@ Starlux Airlines嘅台北-雅加達航線每週運營五次，分別係星期二
 
 除咗目前已開通嘅台北至雅加達航線外，Starlux Airlines亦正在計劃飛往峇里島。佢哋正在精心計算從台灣台北飛往峇里島嘅最佳時間，以確保呢條新航線嘅成功開通。峇里島作為印尼嘅頂級旅遊勝地，一直吸引住全球各地嘅遊客。Starlux Airlines希望透過呢條新航線，為來自台灣同其他國家嘅旅客提供更便利、更高品質嘅旅遊選擇。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_853089ec747ba33cc3aef1679d018364.jpg)
+![Starlux計劃飛往峇里島](https://images.gobaligo.id/vocus/vocus_853089ec747ba33cc3aef1679d018364.jpg)
 
 呢項新航線嘅開通將會進一步加強台灣同印尼之間嘅連接，並且對於熱愛峇里島嘅台灣旅客嚟講，亦將會提供更直接嘅旅行路徑，免去咗轉機嘅不便。隨著Starlux嘅持續擴展，佢哋正在一步步建立起一個涵蓋亞洲及全球主要旅遊目的地嘅廣泛航線網絡。Starlux預計，未來將會有更多嘅台灣遊客同國際旅客通過呢條新航線探索峇里島嘅迷人風光。
 

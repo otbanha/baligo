@@ -25,7 +25,7 @@ _srcHash: 06e84b9a1437cbda9ace1c2cca59fb2a
 
 Presiden Indonesia Joko Widodo baru-baru ini mengumumkan bahwa warga dari 13 negara bisa menikmati bebas visa masuk ke Indonesia. Kebijakan ini didasarkan pada prinsip timbal balik dan pertimbangan kepentingan ekonomi nasional Indonesia, dengan harapan bisa meningkatkan pendapatan negara dan mendukung pembangunan ekonomi domestik.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff6eba9dd0a64a0c697d3f34391751e8.png)
+![Wisatawan Hong Kong Senang, Taiwan Kecewa!? Indonesia Umumka](https://images.gobaligo.id/vocus/vocus_ff6eba9dd0a64a0c697d3f34391751e8.png)
 
 Menurut laporan dari detikFinance, kebijakan baru ini sudah dimasukkan ke dalam Peraturan Presiden Nomor 95 Tahun 2024 dan mulai berlaku efektif sejak 29 Agustus 2024. Peraturan tersebut menyatakan: 'Warga negara yang menikmati fasilitas bebas visa bisa masuk ke wilayah Indonesia tanpa visa', tetapi mereka harus masuk melalui pos pemeriksaan imigrasi yang ditentukan dan masa tinggal maksimal di Indonesia adalah 30 hari.
 
@@ -53,7 +53,7 @@ Daftar 13 negara bebas visa kali ini sebagian besar terkonsentrasi di kawasan As
 
 Selain itu, negara-negara seperti Inggris, Korea Selatan, Prancis, Jepang, Rusia, India, Selandia Baru, Spanyol, Italia, Uni Emirat Arab, dan Taiwan juga tidak mendapatkan fasilitas bebas visa kali ini. Wisatawan dari negara-negara ini masih harus mengurus prosedur masuk sesuai dengan kebijakan visa yang berlaku. Namun, dengan adanya evaluasi kebijakan setiap enam bulan, apakah negara-negara ini akan dimasukkan ke dalam daftar bebas visa di masa depan, masih perlu ditunggu dan didiskusikan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_05d8056aa79596f2f9108999a2456902.jpg)
+![Wisatawan Hong Kong Senang, Taiwan Kecewa!? Indonesia Umumka](https://images.gobaligo.id/vocus/vocus_05d8056aa79596f2f9108999a2456902.jpg)
 
 Berdasarkan peraturan yang berlaku saat ini, warga negara Taiwan yang masuk ke Indonesia bisa mengajukan visa on arrival (VOA) atau 'Electronic Visa on Arrival (eVOA)' dengan biaya 500.000 IDR (sekitar USD$16), berlaku untuk tinggal 30 hari dan bisa diperpanjang satu kali.
 

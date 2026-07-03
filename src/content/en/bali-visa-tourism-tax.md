@@ -26,7 +26,7 @@ _srcHash: ec6cfde88ad198149b3f4739e154327e
 
 Bali Governor **Wayan Koster** announced that to increase local revenue and improve tourism management, the **Tourism Tax (or Tourist Levy)** will officially be incorporated into the visa application process.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2a29412d867ed5a676e351934576fdd1.png)
+![Overview of Bali's New Tourism Tax Regulations](https://images.gobaligo.id/vocus/vocus_2a29412d867ed5a676e351934576fdd1.png)
 
 Currently, although foreign tourists are required to pay **150,000 Indonesian Rupiah** (approximately NT$300 / USD$10), the actual payment rate is only about **35%**. This has resulted in the local government losing trillions of Indonesian Rupiah in potential revenue annually.
 
@@ -58,7 +58,7 @@ Meanwhile, **354 member agencies** of the Indonesian Travel Agents Association (
 
 Currently, payments can still be made through the **LoveBali website or app (App Store / Google Play)**.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cd3ba5773e028d2fdf173741945a7708.png)
+![Payment Methods and Changes After the New System Takes Effec](https://images.gobaligo.id/vocus/vocus_cd3ba5773e028d2fdf173741945a7708.png)
 
 However, once the new system is implemented, tax payment will be directly tied to visa applications, **making evasion impossible**.
 
@@ -102,7 +102,7 @@ A5. Primarily used for **environmental conservation, infrastructure development*
 
 ## 📩 **"Bali Travel Guide" Homepage Overview**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
+!["Bali Travel Guide" Homepage Overview](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 
 **By subscribing for free, you'll get:**
 

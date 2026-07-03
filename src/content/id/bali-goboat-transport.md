@@ -26,7 +26,7 @@ _srcHash: a3edd406205b4f4618e05421c61a65c7
 
 GoBoat adalah moda transportasi cepat baru di Bali yang menghubungkan Canggu dan Uluwatu, plus spot populer lainnya. Tujuannya bikin kamu lebih cepet pindah antar daerah pesisir selatan Bali, bebas dari macet dan keterlambatan di jalan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17f2b6da316c3e1c29777e9904784804.jpg)
+![Sekilas Layanan Transportasi GoBoat Bali](https://images.gobaligo.id/vocus/vocus_17f2b6da316c3e1c29777e9904784804.jpg)
 
 ## 1. Rute Utama & Layanan
 
@@ -56,7 +56,7 @@ GoBoat cocok buat traveler yang pengin irit waktu perjalanan, terutama dari **Ca
 
 📩 **Langganan sekarang blog 'Panduan Travel Bali', jadi traveler Bali yang jago!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Daftar & Gabung Blog Kami](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

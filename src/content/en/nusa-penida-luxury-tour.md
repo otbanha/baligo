@@ -20,7 +20,7 @@ _srcHash: 45976e56d1eda096a6bb0075a7950210
 
 Experience breathtaking ocean views, bamboo forest ecology, private pool villas, and dreamy floating breakfasts with ocean-view spa massages! This is a fantasy journey tailor-made for influencers — come and immerse yourself in the stunning beauty of Bali + Nusa Penida!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f648659463f4ab0eb8d1073403822367.jpg)
+![Instagrammable Hidden Gems + Nusa Penida East & West Coast 5](https://images.gobaligo.id/vocus/vocus_f648659463f4ab0eb8d1073403822367.jpg)
 
 ![兩天一夜在佩尼達島，東西岸精華盡收眼底！](https://images.gobaligo.id/vocus/vocus_c2f532a3d57380efe193d5942bf928e5.jpg)
 
@@ -55,30 +55,30 @@ __VID7__
 
 #### **Bamboo Eco-House**: Sleep surrounded by nature and experience the charm of ecological living.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774882734128-1739703698195.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774882734674-1739703697078.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774882735234-1739703709544.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774882735735-1739703710579.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774882736286-1739703697078.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774882736671-1739703696410.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774882737049-1739703685888.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774882737426-1739703694111.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774882737858-1739703694211.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774882738239-1739703694281.jpg)
+![Bamboo Eco-House: Sleep surrounded by nature and experience ](https://images.gobaligo.id/images/2026-03/1774882734128-1739703698195.jpg)
+![Bamboo Eco-House: Sleep surrounded by nature and experience ](https://images.gobaligo.id/images/2026-03/1774882734674-1739703697078.jpg)
+![Bamboo Eco-House: Sleep surrounded by nature and experience ](https://images.gobaligo.id/images/2026-03/1774882735234-1739703709544.jpg)
+![Bamboo Eco-House: Sleep surrounded by nature and experience ](https://images.gobaligo.id/images/2026-03/1774882735735-1739703710579.jpg)
+![Bamboo Eco-House: Sleep surrounded by nature and experience ](https://images.gobaligo.id/images/2026-03/1774882736286-1739703697078.jpg)
+![Bamboo Eco-House: Sleep surrounded by nature and experience ](https://images.gobaligo.id/images/2026-03/1774882736671-1739703696410.jpg)
+![Bamboo Eco-House: Sleep surrounded by nature and experience ](https://images.gobaligo.id/images/2026-03/1774882737049-1739703685888.jpg)
+![Bamboo Eco-House: Sleep surrounded by nature and experience ](https://images.gobaligo.id/images/2026-03/1774882737426-1739703694111.jpg)
+![Bamboo Eco-House: Sleep surrounded by nature and experience ](https://images.gobaligo.id/images/2026-03/1774882737858-1739703694211.jpg)
+![Bamboo Eco-House: Sleep surrounded by nature and experience ](https://images.gobaligo.id/images/2026-03/1774882738239-1739703694281.jpg)
 
 #### **Private Pool Villa**: Luxurious and private, the ultimate choice for your vacation!
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774882812084-1739703859323.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774882812543-1739703858624.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774882813006-1739703858729.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774882813496-1739703858798.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774882814011-1739703859848.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774882814610-1739703860348.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774882815431-1739703860867.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774882816130-1739703861356.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774882816722-1739703861762.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774882817347-1739703862263.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774882817928-1739703871798.jpg)
+![Private Pool Villa: Luxurious and private, the ultimate choi](https://images.gobaligo.id/images/2026-03/1774882812084-1739703859323.jpg)
+![Private Pool Villa: Luxurious and private, the ultimate choi](https://images.gobaligo.id/images/2026-03/1774882812543-1739703858624.jpg)
+![Private Pool Villa: Luxurious and private, the ultimate choi](https://images.gobaligo.id/images/2026-03/1774882813006-1739703858729.jpg)
+![Private Pool Villa: Luxurious and private, the ultimate choi](https://images.gobaligo.id/images/2026-03/1774882813496-1739703858798.jpg)
+![Private Pool Villa: Luxurious and private, the ultimate choi](https://images.gobaligo.id/images/2026-03/1774882814011-1739703859848.jpg)
+![Private Pool Villa: Luxurious and private, the ultimate choi](https://images.gobaligo.id/images/2026-03/1774882814610-1739703860348.jpg)
+![Private Pool Villa: Luxurious and private, the ultimate choi](https://images.gobaligo.id/images/2026-03/1774882815431-1739703860867.jpg)
+![Private Pool Villa: Luxurious and private, the ultimate choi](https://images.gobaligo.id/images/2026-03/1774882816130-1739703861356.jpg)
+![Private Pool Villa: Luxurious and private, the ultimate choi](https://images.gobaligo.id/images/2026-03/1774882816722-1739703861762.jpg)
+![Private Pool Villa: Luxurious and private, the ultimate choi](https://images.gobaligo.id/images/2026-03/1774882817347-1739703862263.jpg)
+![Private Pool Villa: Luxurious and private, the ultimate choi](https://images.gobaligo.id/images/2026-03/1774882817928-1739703871798.jpg)
 
 https://youtu.be/cikegen9rIE?si=oo_bD2UNFaiXhUKI
 
@@ -88,13 +88,13 @@ https://youtu.be/cikegen9rIE?si=oo_bD2UNFaiXhUKI
 
 In addition to stunning views, we’ve handpicked local delicacies to take your taste buds on a journey too!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ab5f490a0638fbb1c0bd079aed26e11d.jpg)
+![Food Recommendations](https://images.gobaligo.id/vocus/vocus_ab5f490a0638fbb1c0bd079aed26e11d.jpg)
 
 ***
 
 ## Other Highlights
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5ff1dcc59d0a2a5cb12e34d36ec3f2a8.jpg)
+![Other Highlights](https://images.gobaligo.id/vocus/vocus_5ff1dcc59d0a2a5cb12e34d36ec3f2a8.jpg)
 
 ![還有更多精彩景點喔！](https://images.gobaligo.id/vocus/vocus_6ea1b91369688971ce287790025c64d1.jpg)
 

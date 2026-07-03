@@ -25,9 +25,9 @@ _srcHash: 517e19ae3cd4daa8b99b4a7f69c57be7
 
 Memasuki musim liburan 2025, pemerintah Bali dan pelaku pariwisata gencar mendorong berbagai festival budaya dan pertunjukan tradisional. Harapannya, lewat acara-acara ini wisatawan bisa makin mendalami budaya Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0939636b4612bd87b9e4362e9fdfeea5.jpg)
+![Bali Sambut Musim Liburan, Acara Budaya Dimaksimalkan](https://images.gobaligo.id/vocus/vocus_0939636b4612bd87b9e4362e9fdfeea5.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b33b8b112e2aa14e7269e2b8ee2884c5.jpg)
+![Bali Sambut Musim Liburan, Acara Budaya Dimaksimalkan](https://images.gobaligo.id/vocus/vocus_b33b8b112e2aa14e7269e2b8ee2884c5.jpg)
 
 ### Sekilas tentang Pura Ulun Danu Beratan
 
@@ -51,7 +51,7 @@ Untuk mengantisipasi keramaian akhir pekan, parade hari Senin hingga Jumat akan 
 
 ### **Pertunjukan Kecak dan Barong juga digelar, pesona budaya makin berlipat**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b705323d70d8400b29ebbfa065a12e47.jpg)
+![Pertunjukan Kecak dan Barong juga digelar, pesona budaya mak](https://images.gobaligo.id/vocus/vocus_b705323d70d8400b29ebbfa065a12e47.jpg)
 
 Selain parade Gebogan, penyelenggara juga menyiapkan pertunjukan tradisional seperti Tari Kecak dan Tari Barong, memberikan pengalaman budaya yang lebih beragam bagi wisatawan. Jadwal spesifik akan diumumkan secara bertahap di platform media sosial resmi.
 
@@ -67,7 +67,7 @@ Selain mengikuti parade dan pertunjukan, wisatawan juga bisa mampir ke tempat-te
 
 ### Lebih Banyak Seru-seruan di Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
+![Lebih Banyak Seru-seruan di Ubud](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
 Ubud adalah pusat seni dan budaya Bali, dengan sawah terasering yang hijau, hutan yang tenang, dan tradisi yang kaya, menarik banyak pelancong. Tempat ini ideal untuk bersantai. Mau eksplorasi tradisi lokal, nikmati keindahan alam, atau coba berbagai aktivitas outdoor seru plus pengalaman unik kuliner dan pemandangan, Ubud pasti bikin kamu terkesan! Ingin tahu lebih banyak panduan Ubud? [Klik di sini](/blog/ubud-guide/)
 

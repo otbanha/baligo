@@ -79,7 +79,7 @@ Planning to stay out all day and need to bring a change of clothes, camera, or o
 
 **Recommended Brands**: Ocean Pack, Sea to Summit
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779436782674-waterproof_bags_on_sale_in_thailand.jpg)
+![3⃣ Dry Bag – Your Solution for Carrying Lots of Gear](https://images.gobaligo.id/images/2026-05/1779436782674-waterproof_bags_on_sale_in_thailand.jpg)
 
 Ocean Pack is a brand I've used, and their dry bags are truly waterproof and durable. You'll know it's a worthwhile investment after just one use. They're especially suitable for multi-day adventure activities.
 

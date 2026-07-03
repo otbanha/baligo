@@ -21,7 +21,7 @@ _srcHash: 2bb505e944fe9f9bb35900f49d62f772
 
 Banyak traveler yang menjadikan aktivitas laut seperti diving atau snorkeling sebagai pilihan utama di Bali. Tapi karena kegiatannya biasanya di pinggir pantai atau pulau terpencil, kamu nggak bisa bawa tas ke atas kapal, apalagi brankas. Jadi pertanyaan yang paling sering muncul: 'Gimana cara amanin paspor, dompet, dan HP?'
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_13ba81f657671652cb965ba7cbdbbb32.jpg)
+![Bali Diving & Snorkeling Wajib Baca: Cara Aman Jaga Paspor &](https://images.gobaligo.id/vocus/vocus_13ba81f657671652cb965ba7cbdbbb32.jpg)
 
 Tenang aja! Berikut kami rangkum **6 cara aman dan praktis** biar kamu tetap santai sambil menikmati aktivitas laut!
 
@@ -67,7 +67,7 @@ Pas ikut aktivitas air, bawa aja barang yang penting-penting kayak HP, sunscreen
 
 Langkah pertama traveling yang aman adalah **bawaan simpel, kurangi godaan**!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5c7cb0bc463870c71435bbe2ca2920ab.jpg)
+![6. Bawaan Secukupnya, Kurangi Risiko](https://images.gobaligo.id/vocus/vocus_5c7cb0bc463870c71435bbe2ca2920ab.jpg)
 
 ---
 
@@ -105,6 +105,6 @@ Saran pertama langsung lapor ke polisi setempat. Kalau yang ilang paspor, hubung
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_16339969501f0b9ff7e0dc5c638cd48d.png)
+![5. Gimana kalau barang ilang?](https://images.gobaligo.id/vocus/vocus_16339969501f0b9ff7e0dc5c638cd48d.png)
 
 Keindahan dunia bawah laut Bali memang nggak ada obatnya, tapi jaga barang berharga juga bagian penting yang nggak boleh kamu skip. Asal persiapan matang dan pilih cara penyimpanan yang tepat, momen diving atau snorkeling kamu bakal makin sempurna dan pastinya lebih tenang.

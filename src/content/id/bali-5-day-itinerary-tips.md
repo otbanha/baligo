@@ -29,7 +29,7 @@ _srcHash: eb3828f87e95af9954c37b1dc5540211
 
 Perjalanan ke Bali kali ini cuma 5 hari 4 malam, tapi jujur, setelah dikurangi waktu perjalanan di hari pertama dan terakhir, waktu mainnya kerasa kurang banget! Trip ini lumayan capek, bukan tipe liburan santai. Lalu lintas di Bali gampang macet, jadi saran banget buat bangun pagi biar bisa visit lebih banyak tempat.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6f99182573787e91e20458dab3da02a4.jpg)
+![Bali 5 Hari 4 Malam Itinerary Lengkap](https://images.gobaligo.id/vocus/vocus_6f99182573787e91e20458dab3da02a4.jpg)
 
 ## Persiapan Sebelum Berangkat
 
@@ -68,25 +68,25 @@ Perjalanan ke Bali kali ini cuma 5 hari 4 malam, tapi jujur, setelah dikurangi w
 - Lokasi: Soulshine Bali
 - Highlight: Kolam renang hotel ini cantik banget, ada seluncuran juga, pelayanannya oke. Harga kamar udah termasuk sarapan, cocok buat kamu yang mau berlama-lama di hotel. Worth it! Harga per malam sekitar USD$260.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173308296-409519257.jpg)
+![30 Mei](https://images.gobaligo.id/images/2026-04/1776173308296-409519257.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173309100-416032895.jpg)
+![30 Mei](https://images.gobaligo.id/images/2026-04/1776173309100-416032895.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173309680-480127600.jpg)
+![30 Mei](https://images.gobaligo.id/images/2026-04/1776173309680-480127600.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173310013-148375661.jpg)
+![30 Mei](https://images.gobaligo.id/images/2026-04/1776173310013-148375661.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173310447-201679127.jpg)
+![30 Mei](https://images.gobaligo.id/images/2026-04/1776173310447-201679127.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173310862-201780130.jpg)
+![30 Mei](https://images.gobaligo.id/images/2026-04/1776173310862-201780130.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173311422-394535033.jpg)
+![30 Mei](https://images.gobaligo.id/images/2026-04/1776173311422-394535033.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173311942-409156505.jpg)
+![30 Mei](https://images.gobaligo.id/images/2026-04/1776173311942-409156505.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173312600-409516149.jpg)
+![30 Mei](https://images.gobaligo.id/images/2026-04/1776173312600-409516149.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173313011-409516170.jpg)
+![30 Mei](https://images.gobaligo.id/images/2026-04/1776173313011-409516170.jpg)
 
 > [Cek Ketersediaan & Harga Soulshine Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2978867) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=9203399&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/djqgcgo8)
 
@@ -188,25 +188,25 @@ Hari ini penuh petualangan dan seru-seruan — dari naik ATV, arung jeram di Sun
 - Tempat: Villa DeDayuh Seminyak
 - Highlight: Vila ini punya peralatan dapur, kolam renang, dan bathtub — cocok banget buat kamu yang suka santai di hotel. Pelayanannya super baik, bisa tanya-tanya lewat WhatsApp dan dijawab detail. Harga sekitar USD$130 per malam.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173616565-250438251.jpg)
+![6 Juni](https://images.gobaligo.id/images/2026-04/1776173616565-250438251.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173617029-250437832.jpg)
+![6 Juni](https://images.gobaligo.id/images/2026-04/1776173617029-250437832.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173617376-250437834.jpg)
+![6 Juni](https://images.gobaligo.id/images/2026-04/1776173617376-250437834.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173617786-250437952.jpg)
+![6 Juni](https://images.gobaligo.id/images/2026-04/1776173617786-250437952.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173618342-250438170.jpg)
+![6 Juni](https://images.gobaligo.id/images/2026-04/1776173618342-250438170.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173618739-250438175.jpg)
+![6 Juni](https://images.gobaligo.id/images/2026-04/1776173618739-250438175.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173619217-250438213.jpg)
+![6 Juni](https://images.gobaligo.id/images/2026-04/1776173619217-250438213.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173619626-250438229.jpg)
+![6 Juni](https://images.gobaligo.id/images/2026-04/1776173619626-250438229.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173620242-250438241.jpg)
+![6 Juni](https://images.gobaligo.id/images/2026-04/1776173620242-250438241.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173620753-250438245.jpg)
+![6 Juni](https://images.gobaligo.id/images/2026-04/1776173620753-250438245.jpg)
 
 > [Cek ketersediaan kamar & harga Villa DeDayuh Seminyak](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11088131)
 
@@ -307,7 +307,7 @@ https://youtu.be/cbACc0Ey-A4
 
 **4. Finn Beach Club**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6a021c159470db2679ed81ed74fe2715.jpg)
+![6 Juni](https://images.gobaligo.id/vocus/vocus_6a021c159470db2679ed81ed74fe2715.jpg)
 
 - Waktu: mulai dapat tempat sekitar jam 17:00
 - Saran: tempat duduk yang bagus harus dipesan dan dibayar di muka. Banyak turis Barat, ada kolam renang, DJ, dan langsung menghadap pantai. Keamanannya ketat banget. Kalau kamu masuk langsung tanpa pesan apa-apa, gratis kok! Bisa datang lebih awal, ada makanan dan bisa lihat sunset juga. Beach club ini buka sampai tengah malam, cocok buat santai dan nikmatin suasana malam.

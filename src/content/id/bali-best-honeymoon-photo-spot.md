@@ -25,7 +25,7 @@ _srcHash: c91524a62f2954dfb298588289ea66ee
 
 Iya, kamu nggak salah baca! Menurut penelitian terbaru, Bali resmi jadi destinasi bulan madu paling bikin pengantin baru kepo buat foto dan share di Instagram. Jumlah tagar terkait di Instagram jauh lebih banyak dibanding Maladewa yang kayak mimpi dan Paris yang romantis banget.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b0e6626d2941dbb7de99da8690e604a9.jpg)
+![Bali Kalahin Maladewa dan Paris, Jadi Destinasi Bulan Madu P](https://images.gobaligo.id/vocus/vocus_b0e6626d2941dbb7de99da8690e604a9.jpg)
 
 ## Data Bicara: Kemenangan Telak Bali
 
@@ -36,7 +36,7 @@ Sebuah studi yang dilakukan Resorts Collection pada Oktober 2025 nunjukin kalau 
 
 Studi ini didasarkan pada 50 destinasi rekomendasi Tripadvisor dan Condé Nast Traveller, dengan menghitung tiga format tagar: #honeymooninbali, #honeymoonbali, dan #balihoneymoon. Hasilnya, Bali jadi tempat paling sering di-selfie oleh pasangan pengantin baru.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b95d67832c82493c4d8a3e06e2b365e9.jpg)
+![Data Bicara: Kemenangan Telak Bali](https://images.gobaligo.id/vocus/vocus_b95d67832c82493c4d8a3e06e2b365e9.jpg)
 
 ## Lima Besar Destinasi Bulan Madu Paling Instagramable di Dunia
 
@@ -50,7 +50,7 @@ Studi ini didasarkan pada 50 destinasi rekomendasi Tripadvisor dan Condé Nast T
 
 Bali nggak cuma unggul, tapi menang telak banget. Ini semua bukan kebetulan, karena setiap sudut pulau ini cantiknya kayak kartu pos yang sempurna.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f6891bd23f289ac7363806b18cebe9a.jpg)
+![Kenapa Bali Begitu Memikat?](https://images.gobaligo.id/vocus/vocus_4f6891bd23f289ac7363806b18cebe9a.jpg)
 
 Dalam satu hari, kamu bisa:
 
@@ -79,7 +79,7 @@ Selain itu, Bali juga dapat nominasi di kategori global:
 
 Pendiri penghargaan, Graham Cooke, dalam pernyataannya menekankan: "Kami sangat bangga bisa menyelenggarakan acara penghargaan 'Asia & Oceania 2025' di Hong Kong—salah satu kota paling dinamis di dunia. Hari ini, kami memberikan penghormatan kepada yang terbaik di industri pariwisata kawasan ini, dan Bali kembali membuktikan bahwa romantisme dan kualitas bisa berjalan beriringan."
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_47eb74438ba5af076a715638d8a30b9f.jpg)
+![Dua Kebahagiaan Sekaligus: Bali Raih Gelar Destinasi Romanti](https://images.gobaligo.id/vocus/vocus_47eb74438ba5af076a715638d8a30b9f.jpg)
 
 ## Baca Juga: Bali untuk Bulan Madu / Pasangan
 
@@ -99,7 +99,7 @@ Bagi Bali, kemenangan ini bukan sekadar penghargaan, melainkan pengakuan atas st
 
 ## 📩 **Penjelasan Halaman Depan 'Panduan Wisata Bali'**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
+![Penjelasan Halaman Depan 'Panduan Wisata Bali'](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

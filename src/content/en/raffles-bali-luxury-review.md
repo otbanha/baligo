@@ -60,7 +60,7 @@ At **Writers Bar**, indulge in a classic English afternoon tea paired with coffe
 
 **Price**: Rp 427,900 per person
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5f7f7fb805c00c79b0e78731b462ad1e.png)
+![Afternoon Tea: Elegant Moments at Writers Bar](https://images.gobaligo.id/vocus/vocus_5f7f7fb805c00c79b0e78731b462ad1e.png)
 
 ▶[Book Dining at Raffles Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1117521&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F167012-dining-experience-at-raffles-bali%2F)
 
@@ -68,9 +68,9 @@ At **Writers Bar**, indulge in a classic English afternoon tea paired with coffe
 
 For a relaxing meal by the sea breeze and sunshine, **Loloan Beach Bar & Grill** is the perfect choice. By the infinity pool, the chef showcases bountiful dishes using fresh seafood and a wood-fired grill.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb74fe66b32c4fa87938a3d5e72d1255.jpg)
+![Lunch: Poolside Flavors at Loloan Beach Bar & Grill](https://images.gobaligo.id/vocus/vocus_eb74fe66b32c4fa87938a3d5e72d1255.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a38b38d62b4c2c91f42cd13257bd62f4.png)
+![Lunch: Poolside Flavors at Loloan Beach Bar & Grill](https://images.gobaligo.id/vocus/vocus_a38b38d62b4c2c91f42cd13257bd62f4.png)
 
 **Three-Course Lunch Set**:
 

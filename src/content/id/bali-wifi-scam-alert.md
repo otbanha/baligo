@@ -28,7 +28,7 @@ _srcHash: a8757ecc9939e89c8f6569dfee987b7d
 
 ## 📶 Modus Penipuan Hotspot Sharing:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cdcce95419c06ccd0f04d397e1a75f49.png)
+![Modus Penipuan Hotspot Sharing:](https://images.gobaligo.id/vocus/vocus_cdcce95419c06ccd0f04d397e1a75f49.png)
 
 ## 1. **Mengelabui dengan Hotspot buat Curi Data**
 
@@ -62,7 +62,7 @@ Bisa juga sebaliknya: penipu bikin Wi-Fi gratis atau hotspot yang kelihatan norm
 
 Di tempat umum kayak **bandara Bali, kafe, pantai, atau mal**, kalau ada orang asing minta share hotspot, **tolak dengan sopan tapi tegas**.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_93b61b420b28fbd8de2ef93306e920b1.png)
+![Tips praktis (buat situasi traveling)](https://images.gobaligo.id/vocus/vocus_93b61b420b28fbd8de2ef93306e920b1.png)
 
 ---
 

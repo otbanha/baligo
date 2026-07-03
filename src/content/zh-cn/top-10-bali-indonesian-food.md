@@ -21,7 +21,7 @@ _srcHash: 154f774b55110e6875f694fc5bc0f1c9
 
 作为印尼17,000岛屿中最璀璨的明珠，巴厘岛不仅有绝美海景，更藏着令人惊艳的美食宇宙。这里的料理大胆运用姜黄、香茅、辣椒等数十种香料，搭配独特的慢烤工法，创造出层次丰富的南洋滋味。跟着这份美食地图，开启你的味觉冒险吧！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc5e43f9b9126b6589178e4ba6533000.png)
+![巴厘岛必尝10大印尼美食指南：从脏鸭餐到烤乳猪，舌尖上的南洋风情](https://images.gobaligo.id/vocus/vocus_cc5e43f9b9126b6589178e4ba6533000.png)
 
 ---
 
@@ -40,13 +40,13 @@ _srcHash: 154f774b55110e6875f694fc5bc0f1c9
 
 ### 1. **Nasi Campur（综合饭）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ba61bd1cca025325f216cead628b0be6.jpg)
+![1. Nasi Campur（综合饭）](https://images.gobaligo.id/vocus/vocus_ba61bd1cca025325f216cead628b0be6.jpg)
 
 巴厘岛的「自助餐」概念！自选白/红/黄米饭，搭配数十种小菜：辣炒蛋、咖喱鱼头、甜酱炖鸡、炸天贝（Tempeh）等，每间Warung（小吃摊）都有独门组合。**必配 Sambal 辣椒酱**，敢吃辣记得挑战「Sambal Matah」生辣椒酱！
 
 ### 2. **Babi Guling（烤乳猪）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8c8b1c1ab0f2a6f07b153fbf717d6fa1.jpg)
+![2. Babi Guling（烤乳猪）](https://images.gobaligo.id/vocus/vocus_8c8b1c1ab0f2a6f07b153fbf717d6fa1.jpg)
 
 巴厘岛限定！（印尼多数地区伊斯兰教禁猪肉）小乳猪填入香料慢烤，脆皮如玻璃般晶亮，内脏会做成血肠（Urutan）。推荐到专卖店品尝。
 
@@ -54,7 +54,7 @@ _srcHash: 154f774b55110e6875f694fc5bc0f1c9
 
 ### 3. **Bebek Betutu（香料焖鸭）—— 巴厘岛的24小时慢火仪式**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_424d54a38db06d3ba8596b74b05187fa.png)
+![3. Bebek Betutu（香料焖鸭）—— 巴厘岛的24小时慢火仪式](https://images.gobaligo.id/vocus/vocus_424d54a38db06d3ba8596b74b05187fa.png)
 
 在巴厘岛美食殿堂里，**Bebek Betutu**绝对是「功夫菜」的代名词！这道需要耗时一整天制作的传统料理，堪称印尼版的「叫化鸭」，但风味层次却复杂十倍——
 
@@ -115,7 +115,7 @@ _srcHash: 154f774b55110e6875f694fc5bc0f1c9
 
 ### 5. **Iga Babi Panggang（蜜汁烤猪肋排）—— 巴厘岛的罪恶快乐**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4ee77298a14e6cba766ff1f7336a0f17.jpg)
+![5. Iga Babi Panggang（蜜汁烤猪肋排）—— 巴厘岛的罪恶快乐](https://images.gobaligo.id/vocus/vocus_4ee77298a14e6cba766ff1f7336a0f17.jpg)
 
 如果你觉得烤乳猪（Babi Guling）太传统，**Iga Babi Panggang** （英文 pork ribs）就是巴厘岛版的「美式BBQ肋排」——但更甜、更香、更多层次！
 
@@ -134,7 +134,7 @@ _srcHash: 154f774b55110e6875f694fc5bc0f1c9
 
 ### 6. **Nasi Goreng 巴厘岛「国民炒饭」**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1285e1be061d17bb96ecb35f176c3aec.jpg)
+![6. Nasi Goreng 巴厘岛「国民炒饭」](https://images.gobaligo.id/vocus/vocus_1285e1be061d17bb96ecb35f176c3aec.jpg)
 
 怎么能忘记印尼的灵魂料理——**Nasi Goreng（印尼炒饭）**！这可不是普通的炒饭，而是用 **甜酱油（Kecap Manis）** 和 **参巴酱（Sambal）** 爆炒的「暗黑系」美味，锅气直逼澳门镬仔饭！
 
@@ -155,7 +155,7 @@ _srcHash: 154f774b55110e6875f694fc5bc0f1c9
 
 ### **7.Mie Goreng（印尼炒面）—— 平民宵夜之王**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f312682b08f56f3ab8dd0284244c584e.jpg)
+![7.Mie Goreng（印尼炒面）—— 平民宵夜之王](https://images.gobaligo.id/vocus/vocus_f312682b08f56f3ab8dd0284244c584e.jpg)
 
 如果说Nasi Goreng是印尼炒饭的代表，那么**Mie Goreng**就是它的「面条版兄弟」，同样是巴厘岛人日常最爱的街头美食！
 
@@ -176,7 +176,7 @@ _srcHash: 154f774b55110e6875f694fc5bc0f1c9
 
 ### 8. **Bebek Bengil（脏鸭餐）—— 巴厘岛最传奇的田园飨宴**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6c3ebab1d089d9493682b46c684d8502.jpg)
+![8. Bebek Bengil（脏鸭餐）—— 巴厘岛最传奇的田园飨宴](https://images.gobaligo.id/vocus/vocus_6c3ebab1d089d9493682b46c684d8502.jpg)
 
 在乌布翠绿的梯田环抱中，藏着一道让无数食客魂牵梦萦的传奇料理——**Bebek Bengil**（英文 Dirty Duck，直译"肮脏的鸭子"）。这道被CNN评为「巴厘岛必吃」的经典，绝不只是名字噱头，而是一场美味的仪式！
 
@@ -208,7 +208,7 @@ _srcHash: 154f774b55110e6875f694fc5bc0f1c9
 
 ### **9.Sop Buntut（印尼牛尾汤）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4627aa4329d41d2364576f0df857fb02.jpg)
+![9.Sop Buntut（印尼牛尾汤）](https://images.gobaligo.id/vocus/vocus_4627aa4329d41d2364576f0df857fb02.jpg)
 
 当巴厘岛的热带暴雨突然来袭，或是你被辛辣料理刺激到需要缓和时，一碗冒着蒸气的**Sop Buntut**就是上天赐予的救赎！这道源自爪哇宫廷的浓郁汤品，完美融合了「炭烤香、香料魂、胶质甜」，连骨头都能吸出骨髓精华～
 
@@ -228,11 +228,11 @@ _srcHash: 154f774b55110e6875f694fc5bc0f1c9
 
 牛尾汤据信是从爪哇岛传至巴厘岛的，但是两者的口味却有些许不同：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_820beff0195c26060788b20dd33dbebb.png)
+![9.Sop Buntut（印尼牛尾汤）](https://images.gobaligo.id/vocus/vocus_820beff0195c26060788b20dd33dbebb.png)
 
 ### **10.Bubur Injin（黑米布丁）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac3ba68004d65e62711e83be4a0b29f9.jpg)
+![10.Bubur Injin（黑米布丁）](https://images.gobaligo.id/vocus/vocus_ac3ba68004d65e62711e83be4a0b29f9.jpg)
 
 在尝遍辛辣重口味的巴厘岛料理后，一碗泛着珍珠光泽的**Bubur Injin**，绝对是甜点控与养生派不能错过的完美句点！这道用古老「紫秆稻」制作的甜品，不只是糖水，更是巴厘岛人传承千年的「滋补圣品」～
 

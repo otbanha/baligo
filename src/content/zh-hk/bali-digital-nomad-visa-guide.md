@@ -20,7 +20,7 @@ _srcHash: 28988c437f44ad6114937fedf2da180f
 
 峇里島，呢個擁有靚海灘、濃厚文化同寧靜氛圍嘅熱門旅遊勝地，吸引咗無數嘅遊客。不過，隨住遙距工作嘅興起，越來越多人希望可以喺呢個天堂般嘅地方同時度假同工作。好彩嘅係，峇里島提供咗一啲選擇，等你可以喺度過美好時光，同時保持工作效率。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_beba0e96207beec2a351c2993fe72da6.jpg)
+![點樣喺峇里島攞簽證邊度假邊工作？峇里島數碼遊牧指南](https://images.gobaligo.id/vocus/vocus_beba0e96207beec2a351c2993fe72da6.jpg)
 
 ## **確認簽證同法律要求**
 
@@ -30,7 +30,7 @@ _srcHash: 28988c437f44ad6114937fedf2da180f
 
 >>請參考：[最新入境印尼峇里島簽證改版 FAQ](/blog/2025-bali-visa-update-faq/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dd41d77001052cf97d5e040eff2b57b5.jpg)
+![確認簽證同法律要求](https://images.gobaligo.id/vocus/vocus_dd41d77001052cf97d5e040eff2b57b5.jpg)
 
 ## **峇里島有冇遙距工作者簽證？**
 
@@ -55,7 +55,7 @@ _srcHash: 28988c437f44ad6114937fedf2da180f
 - 水明漾
 - 沙努爾
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4920ade4b3b92b2a77f89046451fee93.png)
+![選擇合適嘅住宿](https://images.gobaligo.id/vocus/vocus_4920ade4b3b92b2a77f89046451fee93.png)
 
 ## **尋找共享辦公空間**
 
@@ -93,7 +93,7 @@ _srcHash: 28988c437f44ad6114937fedf2da180f
 
 峇里島係一個絕佳嘅地方，可以同時享受度假同遠程工作嘅樂趣。只要你遵守當地嘅法律同法規，確保有穩定嘅網絡連接，並喺工作同休閒之間搵到平衡，你就可以喺呢個美麗嘅島嶼上創造出難以忘懷嘅獨特體驗。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b31a6d3832e85513687585716bfcace1.png)
+![探索當地文化同娛樂](https://images.gobaligo.id/vocus/vocus_b31a6d3832e85513687585716bfcace1.png)
 
 ➡️[更多峇里島超值優惠請點我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 

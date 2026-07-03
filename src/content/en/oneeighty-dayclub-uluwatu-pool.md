@@ -14,7 +14,7 @@ lang: en
 _srcHash: 363f177e70aa81a7bee3e2637b69b024
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8d9d260a2afbba6685fa2a3973cdfc81.jpg)
+![Discover Oneeighty Day Club: Bali's Ultimate Cliffside Pool ](https://images.gobaligo.id/vocus/vocus_8d9d260a2afbba6685fa2a3973cdfc81.jpg)
 
 What's it like to stand above a 162-meter-high cliff?
 
@@ -24,7 +24,7 @@ Oneeighty is a day pool club located within The Edge Bali in southern Bali, perc
 
 The Edge Bali resort has won numerous accolades, including the Haute Grandeur Global Hotel Award in 2016, Conde Nast Johansens Awards in 2016 and 2017, The Yak Award for Best Villa Category in 2017, and most recently, Tripadvisor's 2018 Travelers' Choice Award. Still wondering whether to visit this beloved traveler's paradise?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3652046e3d81cfaf3d93f68912d283d6.jpg)
+![Discover Oneeighty Day Club: Bali's Ultimate Cliffside Pool ](https://images.gobaligo.id/vocus/vocus_3652046e3d81cfaf3d93f68912d283d6.jpg)
 
 ➡️[Click here for more great deals in Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
@@ -34,7 +34,7 @@ Guests at Oneeighty can relax in the VIP cliffside area or stretch out on sunbed
 
 In addition to the unique pool, visitors can capture photos at the artificial river/lagoon beneath Oneeighty's glass bridge. Though man-made, its beauty rivals that of natural lakes. Many of Bali's Instagram-worthy photos are taken here!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_32615e318e839d897e9701fd01a67e9f.jpg)
+![Oneeighty Dayclub](https://images.gobaligo.id/vocus/vocus_32615e318e839d897e9701fd01a67e9f.jpg)
 
 Oneeighty is not only a highly regarded destination but also offers an unforgettable culinary journey. Popular dishes include Baja Taco, Soft Shell Crab, and Indonesian Tuna Ceviche. The main courses feature snapper, local lobster, and fish trio with mango.
 
@@ -52,7 +52,7 @@ The other option is a standard single-entry ticket priced at IDR615,000, approxi
 
 ## Spa and Romantic Dinner Packages
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7957b9fce964ee2a3f8b7de71bb12c06.jpg)
+![Spa and Romantic Dinner Packages](https://images.gobaligo.id/vocus/vocus_7957b9fce964ee2a3f8b7de71bb12c06.jpg)
 
 ### Cliffside Spa
 

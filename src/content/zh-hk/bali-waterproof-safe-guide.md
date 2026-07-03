@@ -73,7 +73,7 @@ _srcHash: db617efe9e980f8388c09b3de587bb96
 
 **推薦品牌**：Ocean Pack、Sea to Summit
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779436782674-waterproof_bags_on_sale_in_thailand.jpg)
+![3⃣ 乾燥袋（Dry Bag）——要帶好多嘢就靠佢](https://images.gobaligo.id/images/2026-05/1779436782674-waterproof_bags_on_sale_in_thailand.jpg)
 
 Ocean Pack 呢個牌子我用過，佢哋嘅乾燥袋真係防水又耐用，用過一次就知投資係值得嘅。特別啱多日冒險活動。
 

@@ -71,7 +71,7 @@ https://youtube.com/shorts/exdiGPLkVjw?si=sbLmSwieLvWyJ2uL
 
 Dream Beach adalah pantai populer di luar area utama pulau, lumayan ramai juga. Lebih enak dikunjungi pagi hari. Jalan-jalan ke area bebatuan, kamu bisa nemuin spot foto menarik kayak formasi karang atau gua kecil. Selain itu, ada juga titik lompat tebing, tapi sebaiknya tanya dulu sama guide lokal biar aman.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774856395255-ee223d94-0ff6-4945-b4f9-1ae8dc763676.jpg)
+![Eksplorasi Pantai](https://images.gobaligo.id/images/2026-03/1774856395255-ee223d94-0ff6-4945-b4f9-1ae8dc763676.jpg)
 
 Dream Beach
 
@@ -97,7 +97,7 @@ Tips penting: mending datang pas **waktu surut**, soalnya akar mangrove bakal ke
 
 Nongkrong santai di restoran tepi pantai kawasan Jungut Batu atau Mushroom Bay pas sore hari itu paling nyaman. Banyak restoran pinggir laut dengan harga bersahabat. Karena ini juga titik utama naik-turun kapal, pelabuhannya ada di dua tempat ini, kamu bisa lihat suasana ramai hilir mudik orang sepanjang hari.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1f56eb2c4193e81b53d33fffa1b1f7c.jpg)
+![Hari Santai](https://images.gobaligo.id/vocus/vocus_a1f56eb2c4193e81b53d33fffa1b1f7c.jpg)
 
 Saat matahari terbenam, Jungut Batu jadi tempat yang kece buat lihat sunset. Kalau kamu habisin sore di sini, transisi dari aktivitas yang sibuk ke suasana yang super tenang bakal jadi pengalaman simpel tapi pure banget.
 
@@ -133,7 +133,7 @@ Paket snorkeling setengah hari di Lembongan, udah termasuk jemput dari hotel, al
 
 Selain diving dan snorkeling, Lembongan juga punya banyak aktivitas air lain buat semua selera. Kamu bisa coba waterski, stand-up paddle (SUP), banana boat, atau bahkan seawalker yang beda banget sensasinya. Ada juga tur keliling pulau naik perahu, biar kamu bisa lihat pemandangan indah dari sudut lain sambil seru-seruan main air dan nikmatin pesona laut.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_09d594070b2f07c9219129b07ab8f49d.png)
+![水上活動與冒險](https://images.gobaligo.id/vocus/vocus_09d594070b2f07c9219129b07ab8f49d.png)
 
 ## 佩尼達島的壯觀景點
 
@@ -143,11 +143,11 @@ Buat info lebih lengkap, cek panduan kami yang paling komplit: «[Panduan Nusa P
 
 ## 島上美食與夜生活
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d17c2f51c9aeff110410081b920e48f1.png)
+![島上美食與夜生活](https://images.gobaligo.id/vocus/vocus_d17c2f51c9aeff110410081b920e48f1.png)
 
 Restoran dan beach club di Lembongan menawarkan pilihan makanan yang beragam, dari masakan lokal Indonesia sampai hidangan internasional. Di Jungut Batu dan Mushroom Bay, kamu bisa nemuin banyak restoran dan bar tepi pantai yang menyajikan makanan enak sambil nikmatin pemandangan. Begitu malam tiba, kehidupan malam di pulau ini mulai rame — banyak bar dan beach club yang ngadain live music dan party, bikin kamu bisa santai dan bersenang-senang.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4658ef6acc04406ea26445d61ca062df.jpg)
+![島上美食與夜生活](https://images.gobaligo.id/vocus/vocus_4658ef6acc04406ea26445d61ca062df.jpg)
 
 Ada 30 rekomendasi restoran, bar, dan beach club di Nusa Lembongan & Nusa Ceningan nih: [【Panduan Nusa Lembongan Bagian 2】Kuliner & Makanan](/blog/nusa-lembongan-restaurants/)
 

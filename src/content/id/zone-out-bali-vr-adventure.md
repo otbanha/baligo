@@ -12,7 +12,7 @@ lang: id
 _srcHash: d8ebb244e3926c192e5e5b7e8eb7435f
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_91dd4f8bae9402d0f3052dd663baad00.jpg)
+![ZONE OUT Bali: Base Petualangan VR Paling Keren di Kuta!](https://images.gobaligo.id/vocus/vocus_91dd4f8bae9402d0f3052dd663baad00.jpg)
 
 Kalau kamu lagi cari aktivitas indoor yang bikin sekeluarga lupa waktu, wajib banget mampir ke **ZONE OUT Bali** yang ada di Legian, Kuta! Tempat ini adalah pusat permainan **VR** pertama di Bali, gabungan teknologi dan hiburan yang langsung ngajak kamu ke dunia lain 🚀.
 
@@ -22,11 +22,11 @@ Baik kamu pecinta kecepatan di balap, penembak jitu yang suka tantangan, atau ma
 
 ### 🌟 Kenapa Wajib ke ZONE OUT Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cfedd8137f0c6d17f1b48a138e4dfd1d.jpg)
+![Kenapa Wajib ke ZONE OUT Bali](https://images.gobaligo.id/vocus/vocus_cfedd8137f0c6d17f1b48a138e4dfd1d.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_72aa078824a91036c852becb7b2c0677.jpg)
+![Kenapa Wajib ke ZONE OUT Bali](https://images.gobaligo.id/vocus/vocus_72aa078824a91036c852becb7b2c0677.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_835bc3a5864dbf77112a0383b60f6459.jpg)
+![Kenapa Wajib ke ZONE OUT Bali](https://images.gobaligo.id/vocus/vocus_835bc3a5864dbf77112a0383b60f6459.jpg)
 
 - **Pilihan game yang bikin adrenalin naik**: Dari balap, horor, petualangan, sampai tembak-tembakan, semua ada, dijamin bikin deg-degan.
 - **Desain super imersif**: ZONE OUT pakai headset VR nirkabel dan area 'VR Arena' yang bisa kamu jalanin bebas, jadi bukan cuma duduk doang, tapi beneran masuk ke dunia virtual.
@@ -72,7 +72,7 @@ Mau coba sesuatu yang beda di Bali? Langsung aja ke **ZONE OUT Bali** buat ngera
 
 ## Link Cepat
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_59f40e8823a3411d9458f4a11c4dce3f.png)
+![Link Cepat](https://images.gobaligo.id/vocus/vocus_59f40e8823a3411d9458f4a11c4dce3f.png)
 
 [Musim Hujan di Bali: Gimana Kalau Liburan ke Bali Ketemu Hujan? 60 Rencana Cadangan Aktivitas Indoor di Bali](/blog/2026-bali-indoor-activities/)
 

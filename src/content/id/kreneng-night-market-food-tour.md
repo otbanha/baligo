@@ -29,7 +29,7 @@ Untungnya, guide kami **Wayan** (orang Bali yang belajar bahasa Mandarin di Beij
 
 Kalau kamu juga pengen **makan di pasar malam kayak warga lokal**, bukan cuma ke restoran yang penuh turis, tur ini pasti pilihan terbaik buat kuliner malam di Bali!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ea323f4078c731906c6a3114fb1178fa.png)
+![Pengalaman Makan Malam di Pasar Terbesar Bali: Jalan-jalan K](https://images.gobaligo.id/vocus/vocus_ea323f4078c731906c6a3114fb1178fa.png)
 
 “Hati-hati dompetnya ya!” Wayan mengingatkanku dalam bahasa Mandarin yang lancar, sambil dengan lihai membawaku masuk ke gang sempit di Pasar Kreneng. Guide asli Bali ini karena bisa bahasa Mandarin, bikin petualangan malamku tanpa hambatan bahasa, malah terasa lebih akrab.
 
@@ -39,19 +39,19 @@ Jam lima sore, panas di Denpasar, ibu kota Bali, belum sepenuhnya hilang, tapi P
 
 Ikut Wayan nyempil ke lapak yang nggak mencolok, babi guling kuning keemasan tergantung di kait besi, mengilap minyak. “Resep bumbu keluarga ini udah tiga generasi,” katanya sambil memesankan porsi “spesial” — campuran kulit, daging empuk, dan sosis darah. Gigitan pertama di kulit renyah, bumbu dari belasan rempah kayak daun kari, kunyit, cabai langsung meledak di mulut, dipadukan sambal lokal yang khas. Saat itu juga aku paham kenapa ini jadi ikon kuliner Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_31ffd4da7ba0ffb218659fcdd49a1f74.png)
+![Pertama: Makanan Jiwa Bali — Babi Guling](https://images.gobaligo.id/vocus/vocus_31ffd4da7ba0ffb218659fcdd49a1f74.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3083e857526af6af07f3a45bb0469e4e.png)
+![Pertama: Makanan Jiwa Bali — Babi Guling](https://images.gobaligo.id/vocus/vocus_3083e857526af6af07f3a45bb0469e4e.png)
 
 ## **Seru-seruan di Pasar Malam: Soto Ayam dan Sate Pinggir Jalan**
 
 Belok beberapa kali, Wayan ngajak aku duduk di bangku plastik rendah, nyobain semangkuk Soto Ayam yang mengepul. Kuahnya bening tapi rasanya dalam banget, tambahin jeruk nipis makin segar. Pas aku lagi takjub, tour guide-nya kayak pesulap ngasih beberapa tusuk sate yang baru dipanggang, 'Punya abang ini udah siapin dari jam tiga pagi, dagingnya direndam gula aren dulu.' Wangi arang campur rasa manis asin di daging, dicocol saus kacang yang kental, bener-bener sempurna menggambarkan kelezatan kaki lima Indonesia.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cafb990e508f0238d54c4f97d183eebc.png)
+![Seru-seruan di Pasar Malam: Soto Ayam dan Sate Pinggir Jalan](https://images.gobaligo.id/vocus/vocus_cafb990e508f0238d54c4f97d183eebc.png)
 
 ## **Jalan-jalan Manis: Buah Tropis dan Jajan Tradisional Warna-warni**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f5c3127af2f536eecf8cd7936437f8fe.png)
+![Jalan-jalan Manis: Buah Tropis dan Jajan Tradisional Warna-w](https://images.gobaligo.id/vocus/vocus_f5c3127af2f536eecf8cd7936437f8fe.png)
 
 Bagian belakang pasar malam tuh surganya pecinta manis! Wayan milihin aku campuran buah salak, manggis, dan rambutan, plus beliin Jaja Bali—kue tradisional dari gula aren dan ketan. Paling nggak terlupakan itu Martabak yang dibuat langsung, tebal banget isinya cokelat leleh dan keju, pas dipotong masih meleleh, manisnya bikin dosa tapi bahagia.
 
@@ -65,7 +65,7 @@ Beda sama pasar malam di kawasan turis, di sini hampir nggak ada lapak suvenir, 
 
 Empat jam petualangan rasa berakhir, Wayan ngasih air mineral dingin dan ngecek detail jemputanku. Di mobil pulang, aku lihat-lihat foto: panggangan yang mengepul, interaksi akrab Wayan sama pedagang, rempah-rempah yang namanya nggak pernah aku hafal... baru sadar, ternyata kenangan traveling terbaik sering tersembunyi di hiruk-pikuk pasar paling lokal.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f06b1bbbf3bdf574ade0a94ac639c920.png)
+![Observasi Budaya: Malam Bali yang Paling Otentik](https://images.gobaligo.id/vocus/vocus_f06b1bbbf3bdf574ade0a94ac639c920.png)
 
 ## **Info Praktis:**
 

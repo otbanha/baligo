@@ -71,13 +71,13 @@ _srcHash: 4e651050603a5ce6c277a12e90532e71
 
 坎古吸引外国人前往这个地区定居，除了如雨后春笋冒出的精致 villa 之外，还有稳定又高速的网络，这两个条件吸引了许多靠网络就能工作的 Digital nomad（数字游牧），就在此地定居工作。在坎古有很多适合上网工作的 coworking space，这些 coworking space 提供了高速网络、桌子，适合工作的环境氛围，此外还有很多餐厅咖啡馆也可以上网工作。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6e1a64061183f9d6f68721a785eeb899.jpg)
+![坎古到底是什么样子的呢？](https://images.gobaligo.id/vocus/vocus_6e1a64061183f9d6f68721a785eeb899.jpg)
 
 [坎古还能玩什么?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
 坎古有一种迷人的特质，这里有一点波西米亚风、有一点嬉皮，融合波希米亚（Bohemia）与 70 年代的嬉皮（Hippie）的风格，英文叫做「Boho Chic」。Boho Chic 代表的是一种时尚、无拘无束的生活风格，从路旁的餐饮咖啡馆、出租的 villa、公寓甚至是出现在街上的外国人，坎古到处都散发出这种 Boho Chic 的风格。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ffb02ea677f9abc576938a811cd06254.jpg)
+![坎古到底是什么样子的呢？](https://images.gobaligo.id/vocus/vocus_ffb02ea677f9abc576938a811cd06254.jpg)
 
 定居在坎古的数字游牧，他们可不是每天只会上网的书呆子哦！坎古也是一个热爱运动人士的天堂，在这里你可以在大片的稻田小路中晨跑，享受大自然，每天早晨所有的道路上都可以看到正在慢跑的人们。
 
@@ -89,7 +89,7 @@ _srcHash: 4e651050603a5ce6c277a12e90532e71
 
 ## 坎古冲浪
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1292b0d5576cbd014063f58cf1ee47e4.jpg)
+![坎古冲浪](https://images.gobaligo.id/vocus/vocus_1292b0d5576cbd014063f58cf1ee47e4.jpg)
 
 [坎古还能玩什么?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
@@ -107,7 +107,7 @@ _srcHash: 4e651050603a5ce6c277a12e90532e71
 
 准备好展开一场坎古的冒险之旅了吗？下面链接有巴厘岛坎古的精彩地图，不要忘了收藏起来，让您在巴厘岛的旅程更加充实丰盛！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf5fcaa065da06946a4591707d1e05be.jpg)
+![坎古的 50 个推荐景点/咖啡厅](https://images.gobaligo.id/vocus/vocus_bf5fcaa065da06946a4591707d1e05be.jpg)
 
 ## 延伸阅读
 

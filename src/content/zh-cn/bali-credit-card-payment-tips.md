@@ -17,7 +17,7 @@ lang: zh-cn
 _srcHash: f3f69be70eb47d5a986c071837c4645c
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_49bc8b6c7bfea6941ddd4b975868e7a0.png)
+![游巴厘岛必知：提防刷卡结账的陷阱](https://images.gobaligo.id/vocus/vocus_49bc8b6c7bfea6941ddd4b975868e7a0.png)
 
 预订、省钱就看这里：
 

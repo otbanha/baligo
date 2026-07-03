@@ -33,10 +33,10 @@ Oscar Lin提供
 
 晚餐後，我哋返到當晚嘅住宿——**Komaneka at Rasa Sayang**酒店。呢間酒店真係同網上評價一樣咁靚，無論係房間設計定係整體氛圍都令人覺得好舒服。地理位置亦好方便，就喺猴林路旁邊，周圍有唔少景點同餐廳，好啱觀光同休閒。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780825441914-309262633.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780825442473-33964023.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780825442900-5906377.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780825443478-5906331.jpg)
+![8月13日：抵達烏布，享受美食與住宿](https://images.gobaligo.id/images/2026-06/1780825441914-309262633.jpg)
+![8月13日：抵達烏布，享受美食與住宿](https://images.gobaligo.id/images/2026-06/1780825442473-33964023.jpg)
+![8月13日：抵達烏布，享受美食與住宿](https://images.gobaligo.id/images/2026-06/1780825442900-5906377.jpg)
+![8月13日：抵達烏布，享受美食與住宿](https://images.gobaligo.id/images/2026-06/1780825443478-5906331.jpg)
 
 > Komaneka at Rasa Sayang 房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=256185) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685387&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaycLFJMEkNYmF4_nZrtOsQuyGpmYGhgZGBhtFLFqbGR09HlaJrDvc5uApss79YZVLj0MAT8SUA8-nsSdauroX_TwY6NDFyAoWmMF4-pXmCkbGjYzGIMCc5rCDkekAI9MJxvcKC5imLL5vdoqFmWMT2yWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJsYWOoZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGXywMTawMXazMHKeYJgHJ9wq7WPn9IkPM_Bx1w80iXXWjdA0vsO5UlpI3NDAwMDU0NjXVNUi0TDQ1TjbUNbE0MTI31DU2tjA107gztfPmE2MjaylIClBg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmpubm5mGWXDxRwa7CKYfvV5lraZtIMUc0i4i-LkoAtvVXtP22sxe7oEGX7Qe7693drSPnDP65wT9sYL7CPXz6zZfBYon8RalaEbEp7RK17A2MDI1MXILcDowRjBWAHkMa5iZOdiNjAyFGDawMi4g_E_DDC-YgRZAgB1UectBQMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-33856&detailFilters=17|1~17~1*31|685387~31~685387*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=285&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/j3XfJIPj)
 
@@ -77,11 +77,11 @@ https://youtu.be/3AqPucmnSLE
 
 結束咗一日嘅行程之後，我哋入住咗**Ulu Segara Luxury Suites & Villas**。呢間酒店雖然有啲舊，但泳池同海灘嘅景色好靚，房間仲大到令人驚喜，令我哋有個舒適嘅夜晚。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780825728102-468892650.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780825728492-22391557.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780825728856-42958802.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780825729218-209357380.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780825729535-255339430.jpg)
+![8月15日：烏布市區漫遊同烏魯瓦圖之旅](https://images.gobaligo.id/images/2026-06/1780825728102-468892650.jpg)
+![8月15日：烏布市區漫遊同烏魯瓦圖之旅](https://images.gobaligo.id/images/2026-06/1780825728492-22391557.jpg)
+![8月15日：烏布市區漫遊同烏魯瓦圖之旅](https://images.gobaligo.id/images/2026-06/1780825728856-42958802.jpg)
+![8月15日：烏布市區漫遊同烏魯瓦圖之旅](https://images.gobaligo.id/images/2026-06/1780825729218-209357380.jpg)
+![8月15日：烏布市區漫遊同烏魯瓦圖之旅](https://images.gobaligo.id/images/2026-06/1780825729535-255339430.jpg)
 
 > Ulu Segara Luxury Suites & Villas 房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=544215) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1386552&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NqYeFikmCS-svM8WDnku-sQowGFu9aGR2NQeBzu4OnfOvrwB3beh0CeCKmHHg-jT3Rq7pZ3-dIoEMXIytYYAbjjgshGxnXuT-sEuFLd9jByHSAkekE42GlBUw3TzdZn2Jh5rjBdonlK1N0tVJ2aqWSlYmOUklmSU6qkpXS00Xznjbseb6iVUlHKSW1OBkoBGQl5uaX5pUA2SZGFnoGBkCRksQKzxSwzuTEnOTSnMSS1JDKAqAJZjpKmcXOJUWZBUGpuZklJalAVWmJOcWpIPGg1GKgTDJYUMkPaEwRVCAzPw-i3RBFLCwxpzQV4gSghW6pUDsMa3UwXf5sTu_T7pkvNu0mzuXm1Ha5ATEuN66NfcTCFB37iYXhFwtDEytDFyszxymmSUDysNIuVrZAAydvY-MLrL2qUoqGBgYGRqamRua6BomWiUmGZha6JpYmxsZGuoYGZmaGBoYa3ZcOHHxqbGQtBYl3BUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWxmzgaujq5RNlzMni5Bgvf-s-RqK1vaSzGHhLsorrzJvPbAhNP2WiA5Q5hcoMUXMf73lgvsI2HySaxVGboh4Rm94gWMDYxMXYzcAowejBGMFUAe4ypGhg2MjDsY_8MA4ytGkOkAmup-MusCAAA&masterhotelid_tracelogid=100025527-0a9ab168-494332-1066101&detailFilters=17|1~17~1*31|1386552~31~1386552*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=708&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/qYbbhFzr)
 

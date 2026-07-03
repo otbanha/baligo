@@ -20,7 +20,7 @@ As the most dazzling gem among Indonesia's 17,000 islands, Bali not only boasts 
 
 🍚 **Decoding Bali's Food Culture**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc5e43f9b9126b6589178e4ba6533000.png)
+![Top 10 Must-Try Indonesian Foods in Bali: From Dirty Duck to](https://images.gobaligo.id/vocus/vocus_cc5e43f9b9126b6589178e4ba6533000.png)
 
 ---
 
@@ -38,13 +38,13 @@ Balinese people believe that "rice is the source of life," and even offerings to
 
 ### 1. **Nasi Campur (Mixed Rice)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ba61bd1cca025325f216cead628b0be6.jpg)
+![1. Nasi Campur (Mixed Rice)](https://images.gobaligo.id/vocus/vocus_ba61bd1cca025325f216cead628b0be6.jpg)
 
 Bali's 'buffet' concept! Choose from white, red, or yellow rice, paired with dozens of side dishes: spicy scrambled eggs, fish head curry, sweet soy stewed chicken, fried tempeh, and more. Each Warung (food stall) has its own unique combination. **Must pair with Sambal chili sauce** — if you dare to eat spicy, challenge yourself with 'Sambal Matah' raw chili sauce!
 
 ### 2. **Babi Guling (Roast Suckling Pig)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8c8b1c1ab0f2a6f07b153fbf717d6fa1.jpg)
+![2. Babi Guling (Roast Suckling Pig)](https://images.gobaligo.id/vocus/vocus_8c8b1c1ab0f2a6f07b153fbf717d6fa1.jpg)
 
 Exclusive to Bali! (Most regions in Indonesia prohibit pork due to Islam.) A suckling pig is stuffed with spices and slow-roasted until the skin becomes glassy and crispy. The offal is made into blood sausage (Urutan). Recommended to try at specialty shops.
 
@@ -52,7 +52,7 @@ Exclusive to Bali! (Most regions in Indonesia prohibit pork due to Islam.) A suc
 
 ### 3. **Bebek Betutu (Spiced Slow-Cooked Duck) — Bali's 24-Hour Ritual**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_424d54a38db06d3ba8596b74b05187fa.png)
+![3. Bebek Betutu (Spiced Slow-Cooked Duck) — Bali's 24-Hour R](https://images.gobaligo.id/vocus/vocus_424d54a38db06d3ba8596b74b05187fa.png)
 
 In the pantheon of Balinese cuisine, **Bebek Betutu** is the epitome of 'labor-intensive dishes'! This traditional dish, which takes an entire day to prepare, is Indonesia's version of 'beggar's duck,' but with flavors ten times more complex —
 
@@ -113,7 +113,7 @@ Premium Satay: Sate Lilit
 
 ### 5. **Iga Babi Panggang (Honey-Glazed Grilled Pork Ribs) — Bali's Guilty Pleasure**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4ee77298a14e6cba766ff1f7336a0f17.jpg)
+![5. Iga Babi Panggang (Honey-Glazed Grilled Pork Ribs) — Bali](https://images.gobaligo.id/vocus/vocus_4ee77298a14e6cba766ff1f7336a0f17.jpg)
 
 If you find roast suckling pig (Babi Guling) too traditional, **Iga Babi Panggang** (pork ribs in English) is Bali's version of "American BBQ ribs" — but sweeter, more fragrant, and more layered!
 
@@ -132,7 +132,7 @@ If you find roast suckling pig (Babi Guling) too traditional, **Iga Babi Panggan
 
 ### 6. **Nasi Goreng: Bali's 'National Fried Rice'**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1285e1be061d17bb96ecb35f176c3aec.jpg)
+![6. Nasi Goreng: Bali's 'National Fried Rice'](https://images.gobaligo.id/vocus/vocus_1285e1be061d17bb96ecb35f176c3aec.jpg)
 
 How could we forget Indonesia's soul food — **Nasi Goreng (Indonesian fried rice)**! This isn't just any ordinary fried rice; it's a 'dark cuisine' masterpiece stir-fried with **sweet soy sauce (Kecap Manis)** and **sambal**, with a wok aroma that rivals Macanese claypot rice!
 
@@ -153,7 +153,7 @@ Locals break a **sunny-side-up egg** over the rice, letting the yolk coat the gr
 
 ### **7. Mie Goreng (Indonesian Fried Noodles) — The King of Late-Night Snacks**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f312682b08f56f3ab8dd0284244c584e.jpg)
+![7. Mie Goreng (Indonesian Fried Noodles) — The King of Late-](https://images.gobaligo.id/vocus/vocus_f312682b08f56f3ab8dd0284244c584e.jpg)
 
 If Nasi Goreng represents Indonesian fried rice, then **Mie Goreng** is its 'noodle sibling,' equally beloved as Bali's go-to street food for everyday cravings!
 
@@ -174,7 +174,7 @@ If Nasi Goreng represents Indonesian fried rice, then **Mie Goreng** is its 'noo
 
 ### 8. **Bebek Bengil (Dirty Duck) — Bali's Most Legendary Countryside Feast**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6c3ebab1d089d9493682b46c684d8502.jpg)
+![8. Bebek Bengil (Dirty Duck) — Bali's Most Legendary Country](https://images.gobaligo.id/vocus/vocus_6c3ebab1d089d9493682b46c684d8502.jpg)
 
 Nestled amidst the lush rice terraces of Ubud lies a legendary dish that has captivated countless food lovers — **Bebek Bengil** (translated as "Dirty Duck"). This dish, hailed by CNN as a "must-eat in Bali," is far more than just a catchy name; it's a culinary ritual!
 
@@ -206,7 +206,7 @@ The authentic way to eat it is to tear the duck meat by hand, then mix crispy sk
 
 ### **9. Sop Buntut (Indonesian Oxtail Soup)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4627aa4329d41d2364576f0df857fb02.jpg)
+![9. Sop Buntut (Indonesian Oxtail Soup)](https://images.gobaligo.id/vocus/vocus_4627aa4329d41d2364576f0df857fb02.jpg)
 
 When Bali's tropical downpours suddenly hit, or when you need relief from spicy dishes, a steaming bowl of **Sop Buntut** is heaven-sent salvation! This rich soup, originating from Javanese royalty, perfectly blends 'charcoal-grilled aroma, spice essence, and collagen sweetness'—even the bones can be sucked dry for their marrow essence.
 
@@ -226,11 +226,11 @@ When Bali's tropical downpours suddenly hit, or when you need relief from spicy 
 
 Oxtail soup is believed to have traveled from Java to Bali, but the two versions have subtle differences:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_820beff0195c26060788b20dd33dbebb.png)
+![9. Sop Buntut (Indonesian Oxtail Soup)](https://images.gobaligo.id/vocus/vocus_820beff0195c26060788b20dd33dbebb.png)
 
 ### **10. Bubur Injin (Black Rice Pudding)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac3ba68004d65e62711e83be4a0b29f9.jpg)
+![10. Bubur Injin (Black Rice Pudding)](https://images.gobaligo.id/vocus/vocus_ac3ba68004d65e62711e83be4a0b29f9.jpg)
 
 After indulging in Bali's bold and spicy cuisine, a bowl of **Bubur Injin** with its pearl-like sheen is the perfect finale for dessert lovers and health enthusiasts alike! Made from ancient 'purple stem rice,' this dessert isn't just sweet syrup—it's Bali's thousand-year-old 'nourishing treasure.'
 

@@ -122,25 +122,25 @@ Kalau budget kamu terbatas tapi pengin merasakan suasana penginapan ala tradisio
 
 ## Platinum Hotel Jimbaran Beach Bali
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774399998618-573844022.jpg)
+![Platinum Hotel Jimbaran Beach Bali](https://images.gobaligo.id/images/2026-03/1774399998618-573844022.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774399998987-537387050.jpg)
+![Platinum Hotel Jimbaran Beach Bali](https://images.gobaligo.id/images/2026-03/1774399998987-537387050.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774399999397-537387056.jpg)
+![Platinum Hotel Jimbaran Beach Bali](https://images.gobaligo.id/images/2026-03/1774399999397-537387056.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774399999785-537387913.jpg)
+![Platinum Hotel Jimbaran Beach Bali](https://images.gobaligo.id/images/2026-03/1774399999785-537387913.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400000221-573843759.jpg)
+![Platinum Hotel Jimbaran Beach Bali](https://images.gobaligo.id/images/2026-03/1774400000221-573843759.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400000649-573849105.jpg)
+![Platinum Hotel Jimbaran Beach Bali](https://images.gobaligo.id/images/2026-03/1774400000649-573849105.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400000996-573849267.jpg)
+![Platinum Hotel Jimbaran Beach Bali](https://images.gobaligo.id/images/2026-03/1774400000996-573849267.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400001458-35130636825987f50a3cba9e7608150b_large.jpeg)
+![Platinum Hotel Jimbaran Beach Bali](https://images.gobaligo.id/images/2026-03/1774400001458-35130636825987f50a3cba9e7608150b_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400001885-a369b8aad39feef1b1a92f1aa6a7eada_large.jpeg)
+![Platinum Hotel Jimbaran Beach Bali](https://images.gobaligo.id/images/2026-03/1774400001885-a369b8aad39feef1b1a92f1aa6a7eada_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400002303-c1ecc4daad83912e679c3459fbd6522e_large.jpeg)
+![Platinum Hotel Jimbaran Beach Bali](https://images.gobaligo.id/images/2026-03/1774400002303-c1ecc4daad83912e679c3459fbd6522e_large.jpeg)
 
 📍**Lokasi** | Platinum Hotel Jimbaran Beach Bali yang baru buka tahun 2024 ini bisa dicapai dengan berjalan kaki ke Kedonganan Beach dan Pantai Jimbaran, jaraknya cuma 30 meter dari pasir, cocok buat kamu yang mau bersantai dan main di pantai. Jaraknya cuma 1 km dari Bandara Internasional Ngurah Rai Bali, pas buat yang butuh antar-jemput bandara, hotel juga menyediakan layanan antar-jemput berbayar.
 
@@ -154,17 +154,17 @@ Kalau budget kamu terbatas tapi pengin merasakan suasana penginapan ala tradisio
 
 ## Arpana Luxury Private Pool Villas
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400329409-68d5eb69-e341-43a6-af66-f6b87c7c53b1.jpg)
+![Arpana Luxury Private Pool Villas](https://images.gobaligo.id/images/2026-03/1774400329409-68d5eb69-e341-43a6-af66-f6b87c7c53b1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400329731-4fc76d8e-abc9-443b-a55b-f9e4a4a56bb3.jpg)
+![Arpana Luxury Private Pool Villas](https://images.gobaligo.id/images/2026-03/1774400329731-4fc76d8e-abc9-443b-a55b-f9e4a4a56bb3.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400330029-9d85f63b-ffa1-495b-bac8-f313799e1f91.jpg)
+![Arpana Luxury Private Pool Villas](https://images.gobaligo.id/images/2026-03/1774400330029-9d85f63b-ffa1-495b-bac8-f313799e1f91.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400330465-448ba5c0-893b-448e-a05c-3d020a567be7.jpg)
+![Arpana Luxury Private Pool Villas](https://images.gobaligo.id/images/2026-03/1774400330465-448ba5c0-893b-448e-a05c-3d020a567be7.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400330867-ac2009b9-e03c-4b0a-9973-dc2186c6ad70.jpg)
+![Arpana Luxury Private Pool Villas](https://images.gobaligo.id/images/2026-03/1774400330867-ac2009b9-e03c-4b0a-9973-dc2186c6ad70.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774400331278-ff8c2225-34ee-4445-a9e0-98c2ce0c6655.jpg)
+![Arpana Luxury Private Pool Villas](https://images.gobaligo.id/images/2026-03/1774400331278-ff8c2225-34ee-4445-a9e0-98c2ce0c6655.jpg)
 
 📍**Lokasi**｜Arpana Villa ada di bukit Jimbaran, Bali, cuma 15-20 menit dari bandara. Tempatnya tenang, pemandangannya cakep banget. Meski nggak di pusat keramaian, Grab dan delivery tetap gampang. Cocok buat kamu yang pengin jauh dari hiruk-pikuk dan butuh privasi.
 
@@ -180,29 +180,29 @@ Kalau budget kamu terbatas tapi pengin merasakan suasana penginapan ala tradisio
 
 **🏆 Pemenang Agoda Travelers' Choice 2025**
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130124419-591154787.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130124419-591154787.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130124945-591155178.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130124945-591155178.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130125365-670317057.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130125365-670317057.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130125880-688804851.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130125880-688804851.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130126214-688805055.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130126214-688805055.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130132126-84821601.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130132126-84821601.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130132637-267601565.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130132637-267601565.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130133134-437134342.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130133134-437134342.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130133548-437990866.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130133548-437990866.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130133907-591151706.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130133907-591151706.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130134293-591151960.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130134293-591151960.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130134769-591152775.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130134769-591152775.jpg)
 
 **📍 Lokasi**|Ada di Jimbaran Bay, cuma 100 meter dari pantai, jalan kaki langsung ke deretan restoran seafood terkenal. Jarak ke bandara internasional sekitar 5 km, transportasi gampang. Dekat juga dengan Kedongan Beach yang cuma 5 menit jalan kaki, suasananya bener-bener resort vibe.
 

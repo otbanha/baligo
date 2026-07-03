@@ -58,7 +58,7 @@ Kamu juga bisa milih jalan-jalan pas sebelum matahari terbenam. Awalnya emang pa
 
 Gue kurang saranin jalan-jalan di Campuhan Ridge Walk pas siang atau malam. Siang hari pasti panas banget dan kurang nyaman karena minim tempat teduh. Kalau malam, nggak ada penerangan, kamu bakal kelewatan semua pemandangan indah, dan jalannya jadi makin susah.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ca019e5698041f7f563b3908fefb07b6.jpg)
+![Waktu Terbaik buat Ubud Sky Walk](https://images.gobaligo.id/vocus/vocus_ca019e5698041f7f563b3908fefb07b6.jpg)
 
 ### Apakah Ubud Sky Walk kena tiket masuk?
 

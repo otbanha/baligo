@@ -19,7 +19,7 @@ _srcHash: a63f35179568388e9a1b4105d94f32ea
 
 在巴厘岛别相信Google地图！巴厘岛是一个令人向往的度假胜地，但是对于依赖Google地图寻找路线的游客来说，可能会遇到一些挑战。这里有两个主要的原因，让你在计划旅程时要谨慎对待Google地图。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e7754da22cf1ad2b6561b833de1a9148.png)
+![在巴厘岛别相信Google地图！](https://images.gobaligo.id/vocus/vocus_e7754da22cf1ad2b6561b833de1a9148.png)
 
 首先，Google地图可能会显示错误的路线。尽管Google地图是一个功能强大的导航工具，但在巴厘岛这样的地方，它可能会出现一些不准确的路线指示，或是把你导航到连摩托车都无法通行的小巷。这可能是因为地理信息不完整或者道路建设的变更导致的。因此，当你在巴厘岛使用Google地图时，最好还是将它作为参考而不是绝对依赖。
 

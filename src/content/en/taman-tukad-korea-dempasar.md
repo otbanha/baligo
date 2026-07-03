@@ -21,7 +21,7 @@ lang: en
 _srcHash: 7e2a39b24e3790fd45e2735d2142045b
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_498ee7f36925a8e9d53a0b9cf326a3cc.jpg)
+![Bali's New Attraction Taman Tukad Korea Riverside Park Cheon](https://images.gobaligo.id/vocus/vocus_498ee7f36925a8e9d53a0b9cf326a3cc.jpg)
 
 Exploring Bali's Beauty: How Did Seoul's Cheonggyecheon Riverside Park End Up in Denpasar, Bali?!
 

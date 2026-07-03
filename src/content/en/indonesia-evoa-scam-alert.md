@@ -38,7 +38,7 @@ Have you ever applied for an Indonesian e-Visa online?
 
 If so, be cautious. Recently, travelers on Reddit have shared a new scam targeting those who have just completed their visa applications.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775314454153-img_5278.jpeg)
+![Beware of the Latest Email Scam After Applying for an Indone](https://images.gobaligo.id/images/2026-04/1775314454153-img_5278.jpeg)
 
 ## After Applying for Your Visa, You Receive an 'Official Email' the Next Day
 
@@ -56,7 +56,7 @@ Because the "Arrival Declaration Card" is indeed a real thing.
 
 Starting from September 2025, incoming travelers to Indonesia will need to fill out an electronic declaration called the All Indonesia Arrival Card (AIAC). Scammers are exploiting this uncertainty—whether it costs money or how to proceed—by posing as official entities to charge fees.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775314476563-img_5279.jpeg)
+![Why Does It Feel So Real?](https://images.gobaligo.id/images/2026-04/1775314476563-img_5279.jpeg)
 
 But the truth is: **The AIAC declaration is completely free, with no additional charges!**
 

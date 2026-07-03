@@ -18,7 +18,7 @@ lang: zh-cn
 _srcHash: ae3798dbb5ce32043260eb7700a552d5
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_75accaa2bc49a2e100d7be4df6a8016b.jpg)
+![2024入境台湾必知规定，带错东西小心被罚！](https://images.gobaligo.id/vocus/vocus_75accaa2bc49a2e100d7be4df6a8016b.jpg)
 
 财政部关税署最新规定，自2024年6月26日起，入境旅客携带行李物品的免税额从原本的2万元提高到3.5万元，让游客可以尽情购物！但你知道有哪些物品是不能带回台湾的吗？很多人可能并不清楚，为了避免带回国的物品被海关没收，一定要注意台湾入境的相关规定，才不会花钱当冤大头！
 
@@ -33,7 +33,7 @@ _srcHash: ae3798dbb5ce32043260eb7700a552d5
 
 ## 台湾入境规定限制
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c1d6ac4830b9bdc7166a59c589adf9fb.png)
+![台湾入境规定限制](https://images.gobaligo.id/vocus/vocus_c1d6ac4830b9bdc7166a59c589adf9fb.png)
 
 ### 食品类
 
@@ -147,7 +147,7 @@ _srcHash: ae3798dbb5ce32043260eb7700a552d5
 - 仿冒商品
 - 各类肉制品及肉松（包含火腿、肉干、香肠等）、牛肉、羊肉、猪肉、鸭肉、鹅肉等均禁止
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_33e89c6d295003e7b33fc47475d158f0.jpg)
+![禁携物品](https://images.gobaligo.id/vocus/vocus_33e89c6d295003e7b33fc47475d158f0.jpg)
 
 **预订、省钱就看这里：**
 

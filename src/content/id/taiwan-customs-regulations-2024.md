@@ -21,7 +21,7 @@ lang: id
 _srcHash: ae3798dbb5ce32043260eb7700a552d5
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_75accaa2bc49a2e100d7be4df6a8016b.jpg)
+![2024 Masuk Taiwan Wajib Tahu Aturan Ini, Bawa Barang Salah B](https://images.gobaligo.id/vocus/vocus_75accaa2bc49a2e100d7be4df6a8016b.jpg)
 
 Aturan terbaru dari Direktorat Jenderal Bea dan Cukai, mulai 26 Juni 2024, batas bebas bea untuk barang bawaan penumpang naik dari NT$20.000 jadi NT$35.000 (sekitar USD$645 jadi USD$1.129). Bikin liburan makin puas belanja! Tapi kamu tahu nggak barang apa aja yang nggak boleh dibawa pulang ke Taiwan? Banyak orang mungkin belum paham, biar barang bawaanmu nggak disita bea cukai, wajib banget tahu aturan masuk Taiwan biar nggak boncos!
 
@@ -36,7 +36,7 @@ Batas bebas bea untuk barang bawaan penumpang, mulai 26 Juni naik dari NT$20.000
 
 ## Aturan Masuk Taiwan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c1d6ac4830b9bdc7166a59c589adf9fb.png)
+![Aturan Masuk Taiwan](https://images.gobaligo.id/vocus/vocus_c1d6ac4830b9bdc7166a59c589adf9fb.png)
 
 ### Kategori Makanan
 
@@ -150,7 +150,7 @@ Kalau bawa barang melebihi batas, isi formulir '[Deklarasi Bea Cukai Republik Ch
 - Barang palsu
 - Semua produk daging olahan (termasuk ham, dendeng, sosis, dll.), daging sapi, kambing, babi, bebek, angsa, dll. semuanya dilarang.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_33e89c6d295003e7b33fc47475d158f0.jpg)
+![Barang yang Dilarang Dibawa](https://images.gobaligo.id/vocus/vocus_33e89c6d295003e7b33fc47475d158f0.jpg)
 
 **Booking & Hemat Budget, Cek di Sini:**
 

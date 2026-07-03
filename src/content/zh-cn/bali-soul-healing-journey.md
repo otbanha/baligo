@@ -20,25 +20,25 @@ _srcHash: 0836ad54a0039aa3b0bd558425851ce6
 ---
 **薔薔的灵性冒险：深入巴厘岛巫医的神秘世界**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8c36c6cc8383b2e0dc0007e55495753d.jpg)
+![薔薔的巴厘岛灵魂之旅！巫医落泪揭肿瘤预兆，禁地真相震撼公开](https://images.gobaligo.id/vocus/vocus_8c36c6cc8383b2e0dc0007e55495753d.jpg)
 
 巴厘岛，这片被众神眷顾的土地，总有一种说不出的召唤力。这一次，镜头里的薔薔选择放下度假式的轻松，踏上一段通往内在与灵魂深处的旅程。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e43a0159370c6691adb3926c279afea7.jpg)
+![薔薔的巴厘岛灵魂之旅！巫医落泪揭肿瘤预兆，禁地真相震撼公开](https://images.gobaligo.id/vocus/vocus_e43a0159370c6691adb3926c279afea7.jpg)
 
 她的影片从山中寺庙展开——一场圣水净化仪式。镜头随着她缓缓走进水池，清澈的泉水自头顶冲下，每一滴水仿佛都带着祝福。她双手合十，闭上眼，让水声包围自己。这一刻，整个世界静了下来，只剩下心跳与水声，让观众仿佛也能感受到那份来自自然的力量。
 
 接着，她带着一颗开放的心前往与巫医的会面。画面中的巫医静坐在一个充满祭品与香草的空间里，身边摆放着颂钵与神秘的占卜道具。他并不多话，只是让薔薔闭上眼，轻声唱诵古老的咒语，接着用颂钵的震动为她扫描身体能量。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_86db64818390af12b6873c8df1d347d4.jpg)
+![薔薔的巴厘岛灵魂之旅！巫医落泪揭肿瘤预兆，禁地真相震撼公开](https://images.gobaligo.id/vocus/vocus_86db64818390af12b6873c8df1d347d4.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c4be50f6ec30e47a9969a648eae7dd23.jpg)
+![薔薔的巴厘岛灵魂之旅！巫医落泪揭肿瘤预兆，禁地真相震撼公开](https://images.gobaligo.id/vocus/vocus_c4be50f6ec30e47a9969a648eae7dd23.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b6bceda4fe381e47ec1566cc154bb07b.jpg)
+![薔薔的巴厘岛灵魂之旅！巫医落泪揭肿瘤预兆，禁地真相震撼公开](https://images.gobaligo.id/vocus/vocus_b6bceda4fe381e47ec1566cc154bb07b.jpg)
 
 影片中，薔薔的神情逐渐从紧张转为安定。巫医以通灵的方式，指出她身体内潜藏的不适与情绪压力，她的眼神微微泛红，仿佛那些话语触碰了某种内在的真相。整段疗愈过程既古老又神秘，却让人无法移开视线。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_019090629928b2a9907f9df22d2503fb.jpg)
+![薔薔的巴厘岛灵魂之旅！巫医落泪揭肿瘤预兆，禁地真相震撼公开](https://images.gobaligo.id/vocus/vocus_019090629928b2a9907f9df22d2503fb.jpg)
 
 隔天，薔薔前往了Trunyan村。那是一个连车子都无法抵达的地方，必须乘船穿越湖泊才能抵达。这里没有火葬，也没有土葬，逝者的遗体被安放在神树下，任由自然风化，灵魂则由神明引渡。
 

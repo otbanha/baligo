@@ -41,7 +41,7 @@ Tiba-tiba kepikiran, jangan-jangan aku dikategorikan ke 'China'? Dengan perasaan
 
 Dan ternyata nemu ini...
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7a0749e55a6adfe7ad66dfd5d10f8945.jpg)
+![Proses Pencarian](https://images.gobaligo.id/vocus/vocus_7a0749e55a6adfe7ad66dfd5d10f8945.jpg)
 
 ## Hasil yang 'di-harmonisasi'
 

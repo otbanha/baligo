@@ -14,7 +14,7 @@ _srcHash: 65cafecc8491186ccc8c998fb16bd6c0
 
 ## 巴厘岛萤火虫花园荣获生态旅游大奖
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e0baadbdee967562986d7a819549be8b.jpg)
+![巴厘岛萤火虫花园荣获生态旅游大奖](https://images.gobaligo.id/vocus/vocus_e0baadbdee967562986d7a819549be8b.jpg)
 
 巴厘岛塔罗村（Taro Village）内的萤火虫花园，又名「萤火虫保育之家」，近日荣获印尼建国80周年庆典中的生态旅游奖项。这个由当地居民创立的景点，以其环境保育与社区参与获得高度赞誉。
 
@@ -22,9 +22,9 @@ _srcHash: 65cafecc8491186ccc8c998fb16bd6c0
 
 ## 保育与旅游并行的典范
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3d7022976ea005fa26f775014ebf0974.jpg)
+![保育与旅游并行的典范](https://images.gobaligo.id/vocus/vocus_3d7022976ea005fa26f775014ebf0974.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8d0cf183d7ade2531fe06e968399fcc4.jpg)
+![保育与旅游并行的典范](https://images.gobaligo.id/vocus/vocus_8d0cf183d7ade2531fe06e968399fcc4.jpg)
 
 萤火虫被视为环境健康的生物指标，对污染极为敏感。花园内设有小型实验室，专注研究萤火虫的繁殖、生命周期与行为，同时推广有机农业，减少化学农药使用。管理者瓦尔迪卡（Wayan Wardika）更希望透过与农民合作，将萤火虫的活动半径扩大至2公里，需要27公顷的农地才能达成此目标。
 

@@ -17,7 +17,7 @@ lang: zh-cn
 _srcHash: b3882a6decf7549c87ab3baab704b975
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5ec06768be3729d47ff16e75a3e87684.jpg)
+![2026年巴厘岛自由行｜行前终极指南：出发前必看 7 大重点！签证、换汇、住宿、电压/转换器...一次搞定](https://images.gobaligo.id/vocus/vocus_5ec06768be3729d47ff16e75a3e87684.jpg)
 
 2026 年 Tripadvisor 网友评选第一名的度假胜地——**巴厘岛**，你准备好了吗？🏝️ 无论想去乌布感受梯田宁静，还是在坎古体验冲浪派对，这支影片为你整理了「2026 巴厘岛行前终极指南」！
 
@@ -77,7 +77,7 @@ https://youtu.be/H5N5_UuK7TI
 
 ### 住宿推荐
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cb23993cde9c417ee4093fb3bd3de849.jpg)
+![住宿推荐](https://images.gobaligo.id/vocus/vocus_cb23993cde9c417ee4093fb3bd3de849.jpg)
 
 我们推荐的巴厘岛住宿都是无负评的优质住宿，并且经过详细的分区/分类整理。要找巴厘岛住宿的朋友一定不能错过！请点击[这里](/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 
@@ -104,7 +104,7 @@ https://youtu.be/H5N5_UuK7TI
 
 ## 推荐深度体验
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7158202f82112fc1d0f02beb30599cff.jpg)
+![推荐深度体验](https://images.gobaligo.id/vocus/vocus_7158202f82112fc1d0f02beb30599cff.jpg)
 
 ### 水明漾/坎古手作坊
 
@@ -134,7 +134,7 @@ https://youtu.be/H5N5_UuK7TI
 
 ### 瑜伽课程
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c2fe019bafedc7eb5860b11c5d97ceea.jpg)
+![瑜伽课程](https://images.gobaligo.id/vocus/vocus_c2fe019bafedc7eb5860b11c5d97ceea.jpg)
 
 - [Canggu Yoga Centre瑜伽体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F86228-yoga-class-yoga-class-canggu-yoga-centre-pererenan-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc17fc7f020)
 - [Guan Yin瑜伽体验](https://www.klook.com/zh-TW/activity/96815-yoga-experience-guan-yin-yoga-shala-canggu/?spm=SearchResult.SearchResult_LIST&clickId=ecbfdfbfb1)
@@ -146,7 +146,7 @@ https://youtu.be/H5N5_UuK7TI
 
 ### 户外活动
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b9d08056ca87707c17ba42c41712d2da.png)
+![户外活动](https://images.gobaligo.id/vocus/vocus_b9d08056ca87707c17ba42c41712d2da.png)
 
 巴厘岛不仅拥有迷人的海滩和奢华的度假村，还隐藏着丰富多样的户外活动，等待着热爱冒险的旅人前来探索。无论您是寻求刺激的冒险家，还是渴望在大自然中放松身心的旅行者，巴厘岛都能满足您的需求。以下是六大分类，共50种热门户外活动，请点击[这里](/blog/bali-top-50-outdoor-activities/)。
 

@@ -27,7 +27,7 @@ _srcHash: fc6708b10b42864ca0e30f96bfc44555
 
 随着2026年4月的到来，印尼气象局（BMKG）已经捎来了雨季即将结束的消息。对于喜爱深度探索的旅人来说，现在正是规划「双岛跨海旅行」的最佳时机。一边是拥有深厚文化底蕴与壮阔火山的**爪哇岛**，另一边则是展现极致岛屿风情的**Bali**。这两座仅一水之隔的岛屿，性格却迥然不同。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775175561478-mixcollage-30-may-2025-09-36-pm-8249.jpg)
+![2026印尼雨季何时结束？BMKG最新预测：Bali、爪哇岛旱季旅游攻略](https://images.gobaligo.id/images/2026-04/1775175561478-mixcollage-30-may-2025-09-36-pm-8249.jpg)
 
 ***
 
@@ -56,7 +56,7 @@ Berdasarkan prakiraan cuaca terbaru, musim kemarau di Indonesia tahun ini diperk
 - **Waktu Terbaik:** Pertengahan hingga akhir April adalah titik transisi yang sangat pas. Curah hujan mulai berkurang, tapi vegetasi masih hijau subur — hasil foto kamu bakal penuh warna.
 - **Transportasi Antar-Pulau:** Saran saya, mulai dari Yogyakarta lalu lanjut ke timur sampai Banyuwangi, naik feri masuk ke **Bali**. Dijamin kamu bakal ngerasain perubahan visual yang romantis banget, dari "jalanan gunung berapi" ke "pantai pasir putih".
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775175669285-reddit.jpeg)
+![2026季节转换旅游贴士](https://images.gobaligo.id/images/2026-04/1775175669285-reddit.jpeg)
 
 > Masih ada beberapa "[cuti 4 hari, libur 9 hari](/blog/2026-bali-holiday-planning/)" di paruh pertama 2026, yuk segera rencanakan!
 
@@ -131,6 +131,6 @@ A: 1. Tabir surya dan hidrasi: Semakin dekat musim kemarau, sinar UV bakal makin
 
 {{block:klook}}
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_97dd578dfb813e3b6110fcd782d9053f.jpg)
+![Q6: Apa yang perlu diperhatikan kalau liburan di periode ini](https://images.gobaligo.id/vocus/vocus_97dd578dfb813e3b6110fcd782d9053f.jpg)
 
 [⭐⭐ 【Destinasi Kelas Dunia】Bali × Candi Borobudur Yogyakarta × Cahaya Surga × Api Biru 7 Hari Tur Mendalam](/blog/bali-java-seven-day-tour/)

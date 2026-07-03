@@ -79,7 +79,7 @@ Tapi mau challenge paralayang pertama dalam hidup, berangkat tetep aja deg-degan
 - **Pengaruh cuaca besar**: Paralayang bergantung pada angin, kalau angin terlalu kecil atau hujan bisa dibatalkan, disarankan **sisihkan waktu cadangan**.
 - **Kalau takut, bilang ke instruktur**: Mereka berpengalaman, bisa terbang lebih stabil.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_967be453cf97a01700bb55bec2eb3271.jpg)
+![Hal yang Perlu Diperhatikan & Tips Pengalaman](https://images.gobaligo.id/vocus/vocus_967be453cf97a01700bb55bec2eb3271.jpg)
 
 Awalnya kupikir bakal serem banget, tapi pas terbang ternyata **super stabil**, kayak melayang pelan di udara～ Instrukturnya baik banget, bahkan jelasin pemandangan pake bahasa Inggris. **Yang paling mindblowing itu lihat Samudra Hindia dari ketinggian, warna birunya gak bakal terlupakan seumur hidup!**
 

@@ -33,7 +33,7 @@ _srcHash: 93ce059168068ebaf7a6a3b6f6127b24
 
 > Dari sharing online
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_990d4c5e2869e66cd2014b805fca6160.jpg)
+![Restoran Seafood Bali 【Mr. Lobster】 Pesta Seafood: Banyak Pi](https://images.gobaligo.id/vocus/vocus_990d4c5e2869e66cd2014b805fca6160.jpg)
 
 Kali ini ke Bali, aku nggak cuma menikmati pemandangan pulau yang super indah, tapi di restoran Mr. Lobster juga puas banget makan, nyobain aneka seafood yang luar biasa. Dari lobster sampai ikan kerapu, setiap gigitan bikin takjub. Ini dia pengalaman kuliner dari pesta kali ini:
 
@@ -65,7 +65,7 @@ Seafood di sini bisa dinikmati langsung di tempat, atau bisa juga pilih seafood 
 
 ## Pelanggan C: Bos Sendiri yang Sambut dengan Hangat
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_70793e8257b18b6ad0ebe8b35fa45423.jpg)
+![Pelanggan C: Bos Sendiri yang Sambut dengan Hangat](https://images.gobaligo.id/vocus/vocus_70793e8257b18b6ad0ebe8b35fa45423.jpg)
 
 Makasih banget sama bos lobster atas sambutan hangat kemarin. Bener-bener ngerasa gimana orang Taiwan saling support dengan sepenuh hati dan kehangatan.
 
@@ -83,13 +83,13 @@ QR code Line Pak Bos Hsu, harap reservasi jauh-jauh hari ya!
 
 ### Mr Lobster Canggu（sedang renovasi）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c6c755469885ecc828371fdcaede4a98.jpg)
+![Mr Lobster Canggu（sedang renovasi）](https://images.gobaligo.id/vocus/vocus_c6c755469885ecc828371fdcaede4a98.jpg)
 
 Terletak di pinggir selatan Canggu, dekat Café del Mar Beach Club. Alamat: Jl. Subak sari, tibubeneng, kec. Kuta utara, badung, Bali, 80361
 
 ### Mr Lobster Sanur（buka September 2025）
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775972820703-_2026-04-12_12.46.41.png)
+![Mr Lobster Sanur（buka September 2025）](https://images.gobaligo.id/images/2026-04/1775972820703-_2026-04-12_12.46.41.png)
 
 Alamat: Jl. Pratama No.83, tanjung, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361
 

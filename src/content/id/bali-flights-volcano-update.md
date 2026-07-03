@@ -28,7 +28,7 @@ Pada 17 Juni 2025 pukul 17.35 WITA, **Gunung Lewotobi Laki-Laki** di Pulau Flore
 
 Pemerintah Indonesia menaikkan status waspada gunung ke level tertinggi (Level IV), sementara Badan Geologi memperluas zona evakuasi hingga radius 7 km, dan diperpanjang hingga 8 km ke arah barat daya dan timur laut.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e5f5a4ccdcad653ff2020614af44a039.jpg)
+![⏰ Detail Letusan Gunung](https://images.gobaligo.id/vocus/vocus_e5f5a4ccdcad653ff2020614af44a039.jpg)
 
 ---
 
@@ -87,7 +87,7 @@ Enam penerbangan Wings Air juga dibatalkan, rutenya:
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_55d9582fe743fd8c3c890cd3ca1665e3.jpg)
+![Rute Penerbangan Domestik Flores & Kondisi Bandara](https://images.gobaligo.id/vocus/vocus_55d9582fe743fd8c3c890cd3ca1665e3.jpg)
 
 ### **🎒 Tips Keamanan & Rekomendasi Perjalanan**
 

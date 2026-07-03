@@ -6,7 +6,7 @@ randomCount: 5
 
 ## 更多水明漾吃喝玩樂介紹
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354591224-index.jpg)
+![更多水明漾吃喝玩樂介紹](https://images.gobaligo.id/images/2026-03/1774354591224-index.jpg)
 
 水明漾是峇里島上結合時尚與傳統的迷人地區，擁有頂級餐廳、精品店與活力四射的夜生活，是度假者的天堂！想知道更多精彩娛樂美食介紹的資訊？請點擊[這裡](/blog/seminyak-guide/)
 

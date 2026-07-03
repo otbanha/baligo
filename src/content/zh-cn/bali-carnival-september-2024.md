@@ -19,7 +19,7 @@ lang: zh-cn
 _srcHash: 95b3dc2815de4bc06579e380b6efa98b
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f4e9c66fb28c36e0481d164591317e0f.jpg)
+![巴厘岛嘉年华Bali Carnival九月登场｜加勒比的热情与巴厘岛的丰富文化完美融合](https://images.gobaligo.id/vocus/vocus_f4e9c66fb28c36e0481d164591317e0f.jpg)
 
 ## 
 

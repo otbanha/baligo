@@ -14,13 +14,13 @@ _srcHash: 32fd17bbe3557109263aad3adb191708
 
 ## 巴厘岛独特体验：沙滩骑骆驼之旅🐪
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_78aaa239e94e16c866dd90393b901e8b.jpg)
+![巴厘岛独特体验：沙滩骑骆驼之旅](https://images.gobaligo.id/vocus/vocus_78aaa239e94e16c866dd90393b901e8b.jpg)
 
 在巴厘岛的阳光沙滩上，除了冲浪与浮潜，还有一项别具特色的活动——骑骆驼沿着海滩漫步！这项源自澳洲 Broom 海滩的浪漫体验，如今也能在巴厘岛亲身感受。以下为你介绍两个热门地点，分别代表「在地版」与「观光版」的不同魅力。
 
 ## Mertasari Beach：当地人最爱的平价骑骆驼体验
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_602a438b73356a1509afa111f1831f25.jpg)
+![Mertasari Beach：当地人最爱的平价骑骆驼体验](https://images.gobaligo.id/vocus/vocus_602a438b73356a1509afa111f1831f25.jpg)
 
 位于巴厘岛沙努尔的 Mertasari Beach，是当地人周末休闲的好去处。这里的 [Bali Camel Ride](https://www.instagram.com/balicamelride?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) 提供轻松、亲民的骑骆驼体验，非常适合亲子共游。
 
@@ -48,7 +48,7 @@ https://youtube.com/shorts/yebdtkV5tX0
 
 ## Kelan Beach：梦幻夕阳下的观光版骆驼之旅🌅
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_101fba96039bcbebaa03f5a3e76ebd38.jpg)
+![Kelan Beach：梦幻夕阳下的观光版骆驼之旅](https://images.gobaligo.id/vocus/vocus_101fba96039bcbebaa03f5a3e76ebd38.jpg)
 
 位于金巴兰（Jimbaran）的 Kelan Beach，距离巴厘岛机场仅数分钟车程。这里的 [Bali Camel Adventure](https://www.balicameladventure.com/) 以浪漫景致和高质量服务闻名，是许多情侣与旅客的首选。
 

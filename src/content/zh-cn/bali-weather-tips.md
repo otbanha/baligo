@@ -24,7 +24,7 @@ _srcHash: 239273b90c081cb6162ee1b4842ec7b6
 
 其次，巴厘岛的天气问题并不是旅行的重点。巴厘岛是一个充满着美丽风景和丰富文化的地方，无论天气如何，你都可以找到许多有趣的事情来做。没有必要把太多精力放在天气预报上，反而应该更多地专注于探索这个美丽的地方，体验当地的文化和美食。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_26c4410d90cfbacef24b366044b27875.png)
+![为什么别再问巴厘岛的天气？下雨又如何？](https://images.gobaligo.id/vocus/vocus_26c4410d90cfbacef24b366044b27875.png)
 
 > 延伸阅读：[巴厘岛碰到下雨天怎么办？巴厘岛下雨天的60个备选方案](/blog/2026-bali-indoor-activities/)
 
@@ -34,7 +34,7 @@ _srcHash: 239273b90c081cb6162ee1b4842ec7b6
 
 最后，天气总是会有不可预测的因素。即使天气预报显示是个晴天，也可能突然间下起雨来。这种情况下，如果你对天气有着固定的期待，可能会让你的行程受到干扰，甚至感到失望。相反，如果你能够接受天气变化，并随遇而安地享受每一刻，你的旅行将会更加愉快和丰富。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7c700014e74e4a3c01835cdc77c9b23e.png)
+![为什么别再问巴厘岛的天气？下雨又如何？](https://images.gobaligo.id/vocus/vocus_7c700014e74e4a3c01835cdc77c9b23e.png)
 
 {{block:戶外}}
 

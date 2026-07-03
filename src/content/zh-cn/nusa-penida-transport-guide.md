@@ -26,7 +26,7 @@ _srcHash: 41ee6c6a8520c5b39426309a56773b8d
 
 在努沙佩尼达四处移动可能有些复杂，所以提前做好准备非常重要，以确保您的旅程尽可能有趣和舒适。这份完整指南总结了所有可用的交通方式，让您可以决定哪一种对您最为适合。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e93271a5a135e6f7a082fa950125b0f4.png)
+![Nusa Penida佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](https://images.gobaligo.id/vocus/vocus_e93271a5a135e6f7a082fa950125b0f4.png)
 
 针对佩尼达岛我们共有五集介绍，一起来更深入认识这个海岛天堂！其他四集这里有传送门：
 
@@ -55,7 +55,7 @@ Nusa Penida目前目前还没有，估计以后也不会有Grab和Gojek服务，
 
 在佩尼达岛并不太可能租车并自行开车游览！这里的道路狭窄且难以行驶，有去过的朋友一定深感认同！即使对有经验的老司机来说也有一定挑战！更常见的方式是租一辆有司机的车（包车），这样四处移动会变得更加容易。由于雇用人带您游览该岛的价格非常实惠，实际上并没有租车的真正理由。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1dafe21084ec2f3f2ba1baeb2f8fed2e.png)
+![可以自己租车吗？](https://images.gobaligo.id/vocus/vocus_1dafe21084ec2f3f2ba1baeb2f8fed2e.png)
 
 **Klook提供了许多优惠行程：**
 

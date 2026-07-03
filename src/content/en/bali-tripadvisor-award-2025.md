@@ -23,7 +23,7 @@ Bali has been awarded the world's second most popular travel destination and Asi
 
 This annual award ranks the world's most popular destinations, hotels, beaches, and attractions based on authentic travel reviews and trends.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f6b09dd27d34eaf21082f597b6750950.jpg)
+![Bali Shines in TripAdvisor's 2025 Travelers' Choice Awards](https://images.gobaligo.id/vocus/vocus_f6b09dd27d34eaf21082f597b6750950.jpg)
 
 ## Bali Retains Its Position as the World's Second Most Popular Travel Destination
 

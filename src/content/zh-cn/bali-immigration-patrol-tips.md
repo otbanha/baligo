@@ -20,7 +20,7 @@ _srcHash: 978fa9d6c43e49e2ba03d48affc0db8c
 
 ## 🏝️ 巴厘岛移民署小队出动啦！ 🚨
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a4aef93c9f128fe463fa8c99c7f18ed3.jpg)
+![巴厘岛移民署小队出动啦！](https://images.gobaligo.id/vocus/vocus_a4aef93c9f128fe463fa8c99c7f18ed3.jpg)
 
 嘿！你知道吗？我们巴厘岛伍拉·赖机场移民局的同仁们，每天都在岛上进行“神秘任务”呢！ 🕵️‍♂️
 
@@ -69,7 +69,7 @@ _srcHash: 978fa9d6c43e49e2ba03d48affc0db8c
 
 ## 巴厘岛的两难：欢迎旅客，但需要规矩
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7b5383757dbc1df7b9410fe6c33249c6.png)
+![巴厘岛的两难：欢迎旅客，但需要规矩](https://images.gobaligo.id/vocus/vocus_7b5383757dbc1df7b9410fe6c33249c6.png)
 
 巴厘岛依旧是世界最受欢迎的旅游天堂之一，目标是在 2025 年底迎来 650 万国际旅客。政府的努力是为了确保：
 
@@ -105,7 +105,7 @@ _srcHash: 978fa9d6c43e49e2ba03d48affc0db8c
 
 ## 📩 **「巴厘岛旅游攻略」首页说明
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
+![「巴厘岛旅游攻略」首页说明](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 
 **通过免费订阅，你将获得：**
 

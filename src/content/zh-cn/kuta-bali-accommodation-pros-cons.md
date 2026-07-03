@@ -22,7 +22,7 @@ lang: zh-cn
 _srcHash: c62bc1e79300085638e511f5b79ea25e
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e810a0ebad0e132e5fd1ca4ccffc859.png)
+![去巴厘岛住这里最方便，却最不推荐！巴厘岛库塔区有什么优缺点？](https://images.gobaligo.id/vocus/vocus_3e810a0ebad0e132e5fd1ca4ccffc859.png)
 
 巴厘岛是一个美丽的度假胜地，拥有各种令人向往的海滩、文化景点和美食体验。然而，在选择住宿时，你需要考虑的不仅仅是风景和设施，还包括基地的交通便利性和周边环境。
 

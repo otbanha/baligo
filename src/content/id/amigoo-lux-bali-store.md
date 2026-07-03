@@ -20,7 +20,7 @@ lang: id
 _srcHash: 7d01956b971c83110a578e8f127cd7a8
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9767c31ed19ec03a80dbd9da8ada02d9.jpg)
+![Toko 'Pasar Kecil' ala Taiwan di Bali: Amigoo Lux Bali](https://images.gobaligo.id/vocus/vocus_9767c31ed19ec03a80dbd9da8ada02d9.jpg)
 
 Kalau kamu lagi cari perlengkapan rumah tangga yang murah meriah dan lengkap di Bali, Amigoo Lux Bali wajib banget kamu mampir. Toko yang baru buka empat bulan ini punya lebih dari sepuluh ribu item perlengkapan rumah tangga, mulai dari berbagai alat elektronik, kotak penyimpanan, perlengkapan dapur, meja kursi, dan lain-lain. Bisa dibilang ini versi Bali-nya 'Pasar Kecil' (小北百貨).
 
@@ -36,7 +36,7 @@ Amigoo Lux Bali punya banyak banget pilihan barang
 
 Lokasi Amigoo Lux Bali cukup strategis, berada di antara Kuta di pesisir barat dan Sanur di pesisir timur Bali. Alamat lengkapnya di Jl. Bypass Ngurah Rai No. 463, tepat di seberang Lotte Mart. Lokasi ini bikin kamu gampang banget ke sini, baik dari Kuta maupun Sanur.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8303bb4d3d19283c36364101e0e70a61.png)
+![Lokasi & Akses](https://images.gobaligo.id/vocus/vocus_8303bb4d3d19283c36364101e0e70a61.png)
 
 ## Jam Buka
 

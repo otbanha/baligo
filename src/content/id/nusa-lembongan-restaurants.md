@@ -32,43 +32,43 @@ Ini bagian kedua dari panduan Nusa Lembongan / Nusa Ceningan. Mau tahu apa aja t
 
 ### 1. Thai Pantry（🗺️ [Situs & Lokasi Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3396bcd7fb375be2e42c3163938c0f3b.jpg)
+![1. Thai Pantry（ Situs & Lokasi Google Maps）](https://images.gobaligo.id/vocus/vocus_3396bcd7fb375be2e42c3163938c0f3b.jpg)
 
 Kalau kamu suka masakan Thailand dan cocktail enak, tempat ini wajib banget dicek. Makanan Thai-nya otentik banget, dan minumannya juga juara! Suasananya santai, cocok buat hangout bareng teman atau dinner romantis.
 
 ### 2. Kayu Lembongan（🗺️ [Situs & Lokasi Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a0e3265965d5557c3a12710fbb60a9b5.png)
+![2. Kayu Lembongan（ Situs & Lokasi Google Maps）](https://images.gobaligo.id/vocus/vocus_a0e3265965d5557c3a12710fbb60a9b5.png)
 
 Kayu adalah restoran dengan makanan enak yang terkenal banget sama Frozen Margarita-nya. Menu pilihannya banyak, dari hidangan lokal sampai internasional, pas banget buat santap malam santai setelah seharian eksplorasi.
 
 ### 3. Cloudland（🗺️ [Situs Web & Lokasi Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b723e761ad9f105a43748468984140cd.jpg)
+![3. Cloudland（ Situs Web & Lokasi Peta）](https://images.gobaligo.id/vocus/vocus_b723e761ad9f105a43748468984140cd.jpg)
 
 Ini tempat ideal buat lihat sunset, dengan koktail yang harganya ramah di kantong. Pas senja, duduk santai di sini sambil nikmatin matahari tenggelam dan angin laut, dijamin jadi pengalaman yang memanjakan mata dan lidah.
 
 ### 4. Tigerlillys Beach Shack（🗺️ [Situs Web & Lokasi Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_02abe71b39d40cf449e9cfe8bef6df43.jpg)
+![4. Tigerlillys Beach Shack（ Situs Web & Lokasi Peta）](https://images.gobaligo.id/vocus/vocus_02abe71b39d40cf449e9cfe8bef6df43.jpg)
 
 Tigerlillys Beach Shack adalah restoran ramah keluarga yang terletak di pinggir pantai. Siang hari mereka sajikan sarapan enak, malam hari suasananya ramai dengan sunset vibes. Tempat ini juara buat nonton matahari terbenam, apalagi kalau ditemani segelas Aperol Spritz atau bir dingin, sambil menikmati langit warna-warni dan semilir angin laut. Akhir pekan ada Happy Hour, live music, dan malam film, bikin malam kamu makin seru dan santai.
 
 ### 5. The Deck（🗺️ [Situs Web & Lokasi Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e8986e02267a3ab18d94277f8ced41a0.jpg)
+![5. The Deck（ Situs Web & Lokasi Peta）](https://images.gobaligo.id/vocus/vocus_e8986e02267a3ab18d94277f8ced41a0.jpg)
 
 The Deck yang letaknya persis di sebelah Thai Pantry, jadi tempat lain yang oke buat makan dan nikmatin koktail. Di sini ada berbagai hidangan dan minuman kreatif, cocok banget buat kumpul-kumpul atau kencan.
 
 ### 6. Curry Traders（🗺️ [Situs Web & Lokasi Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_baadfa00828e8fadc5638879b70a7c99.jpg)
+![6. Curry Traders（ Situs Web & Lokasi Peta）](https://images.gobaligo.id/vocus/vocus_baadfa00828e8fadc5638879b70a7c99.jpg)
 
 Kalau kamu pengen merasakan pesta rempah-rempah, Curry Traders wajib banget dicoba. Restoran ini memadukan cita rasa India, Sri Lanka, dan Asia Tenggara. Dari pintu masuk, dapur terbuka sudah menyebarkan aroma yang menggoda. Menu andalannya seperti butter chicken, vegetarian curry khas Sri Lanka, dan udang kari ala Bangladesh dengan nanas, semuanya nggak boleh dilewatkan. Dipadukan dengan koktail yang diracik spesial, makin bikin pengalaman makan jadi lebih seru.
 
 ### 7. Hai Bar & Grill（🗺️ [Situs Web & Lokasi Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_59e2488ca558f8067df0b4f824052ee3.jpg)
+![7. Hai Bar & Grill（ Situs Web & Lokasi Peta）](https://images.gobaligo.id/vocus/vocus_59e2488ca558f8067df0b4f824052ee3.jpg)
 
 🍽️ Pemenang Travelers' Choice 2024, restoran pantai terbaik di Nusa Lembongan
 
@@ -88,19 +88,19 @@ Lago adalah bar terapung unik yang berada di atas laut Nusa Lembongan, ditenagai
 
 ### 10. The Coconut Hut (🗺️ [Situs Resmi & Lokasi Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7f6d154219950b848b4ab6efe45116bf.jpg)
+![10. The Coconut Hut ( Situs Resmi & Lokasi Peta)](https://images.gobaligo.id/vocus/vocus_7f6d154219950b848b4ab6efe45116bf.jpg)
 
 The Coconut Hut menggabungkan konsep restoran, bar, dan mini golf—bikin pengalaman hiburan yang unik buat pengunjung. Kamu bisa sambil minum Pina Colada sambil main mini golf, ditemani hot dog, pasta, dan musik yang asyik. Lapangan golf yang dihias lampu di malam hari, ditambah beberapa koktail, bikin tempat ini jadi spot sempurna buat main dan bersantai.
 
 ### 11. Nusa Bodega (🗺️ [Situs Resmi & Lokasi Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f90877c21bf4e189ba83b709de8963d5.jpg)
+![11. Nusa Bodega ( Situs Resmi & Lokasi Peta)](https://images.gobaligo.id/vocus/vocus_f90877c21bf4e189ba83b709de8963d5.jpg)
 
 Kalau kamu suka tapas ala Spanyol dan wine, Nusa Bodega wajib banget masuk list. Tempat kecil ini spesialis jualan aneka tapas Spanyol, ditemani wine pilihan yang oke punya. Suasananya bikin kamu lupa lagi di pulau tropis, serasa lagi di Spanyol. Mau hangout sama temen atau dinner romantis, Nusa Bodega pilihan yang pas banget.
 
 ### 12.Ginger & Jamu（🗺️ [官網&地圖位置](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e197c5eb1b1194d670f82451daa1517a.png)
+![12.Ginger & Jamu（ 官網&地圖位置）](https://images.gobaligo.id/vocus/vocus_e197c5eb1b1194d670f82451daa1517a.png)
 
 Ginger & Jamu adalah restoran di tengah Pantai Jungutbatu, Lembongan, yang fokus pada makanan sehat dan bahan lokal. Setiap hidangannya penuh serat dan nutrisi, mulai dari smoothie bowl pagi, sarapan sayur yang kaya, sampai burrito, sandwich, dan salad warna-warni. Favorit pribadi gue adalah falafel bowl yang kaya rasa dan teksturnya juara.
 
@@ -108,7 +108,7 @@ Restoran ini punya area outdoor yang luas dengan pemandangan laut, lengkap denga
 
 ### 13.La Bianca（🗺️ [官網&地圖位置](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774877991302-la_bianca.jpg)
+![13.La Bianca（ 官網&地圖位置）](https://images.gobaligo.id/images/2026-03/1774877991302-la_bianca.jpg)
 
 La Bianca adalah salah satu restoran paling cantik di Lembongan. Siang hari, kamu bisa menikmati pemandangan laut 180 derajat. Malam hari, tempat romantis ini diterangi lampu gantung dan lilin yang berkelap-kelip, menciptakan suasana hangat.
 
@@ -116,37 +116,37 @@ Restoran Eropa ini punya area outdoor dengan oven pizza kayu bakar dan pangganga
 
 ### 14.Soka Warung（🗺️ [官網&地圖位置](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_faac031e3a73966604c5bbe2056d243c.png)
+![14.Soka Warung（ 官網&地圖位置）](https://images.gobaligo.id/vocus/vocus_faac031e3a73966604c5bbe2056d243c.png)
 
 Soka Warung adalah warung kecil di dekat Pantai Mushroom, Lembongan, yang ratingnya tinggi banget dan harganya ramah kantong. Nasi goreng, pisang goreng pancake, dan corn fritter-nya enak-enak. Banyak turis bilang ini masakan Indonesia terbaik yang pernah mereka coba! Mie goreng ayam dan mie kuah ayamnya terasa homemade banget, ayam curry Bali juga recommended. Lokasinya oke, sore-sore bisa nikmatin sunset sambil dinner, suasananya cozy dan santai. Dijamin jadi pengalaman makan yang难忘.
 
 ### 15.Warung Tumpang Sari Lembongan（🗺️ [官網&地圖位置](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ec50abc0a61fade2fbdbb8ac34f5ba97.png)
+![15.Warung Tumpang Sari Lembongan（ 官網&地圖位置）](https://images.gobaligo.id/vocus/vocus_ec50abc0a61fade2fbdbb8ac34f5ba97.png)
 
 Warung Tumpang Sari adalah restoran keluarga yang hangat, terkenal dengan masakan rumahan yang lezat dan harga yang terjangkau. Kualitas makanannya bikin kagum! Wajib coba tuna katsu curry mereka, tuna pepes yang lembut dan juicy, serta gado-gado dengan saus kacang yang kental — rasanya mantap banget. Pancake pisang jadi penutup yang sempurna. Harap sabar ya, karena semua dimasak setelah dipesan, jadi dijamin segar.
 
 ### 16.Tropical Juice Corner & Foods（🗺️ [Situs Web & Lokasi Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a33335de6b9d6901039892784695731e.png)
+![16.Tropical Juice Corner & Foods（ Situs Web & Lokasi Peta）](https://images.gobaligo.id/vocus/vocus_a33335de6b9d6901039892784695731e.png)
 
 Hidden gem kuliner yang terkenal dengan semangkuk smoothie bowl tropis yang segar dan warna-warni, cocok banget buat brunch, makan siang, atau makan malam. Kami nemu tempat ini secara tidak sengaja, dan langsung jadi tempat makan favorit kami di pulau. Selain smoothie bowl yang enak, ikan khas Bali dan seafood platter yang melimpah juga bikin kagum — setiap hidangan penuh rasa segar dengan harga ramah di kantong. Meski pilihan sarapan agak terbatas, menu makan siang dan malamnya beragam, dan kopinya juga enak banget. Keramahan pemiliknya bikin tempat ini makin menarik, wajib dikunjungi buat traveler yang suka makanan autentik Bali.
 
 ### 17.Cookies Coffee Shop and Warung（🗺️ [Situs Web & Lokasi Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_573c79acf22a1fc909679946ce5dd274.png)
+![17.Cookies Coffee Shop and Warung（ Situs Web & Lokasi Peta）](https://images.gobaligo.id/vocus/vocus_573c79acf22a1fc909679946ce5dd274.png)
 
 Cookies Coffee Shop and Warung punya ruang makan yang luas, tempat kecil yang lucu dan ramah di Nusa Lembongan. Banyak turis makan di sini setiap hari dan selalu memuji menu mereka. Sarapannya juara, smoothie bowl dan kopi jadi pilihan wajib setiap hari — harganya juga murah banget. Selain itu, restoran ini juga menyajikan masakan lokal yang enak seperti sate ayam, nasi cumi, salad ayam alpukat, roti bawang putih, dan masih banyak lagi. Yang bikin tambah oke, WiFi di sini cepat banget, cocok buat kerja jarak jauh — tempat yang pas buat kerja sambil makan. Mau coba makanan lokal atau cari tempat kerja yang nyaman, ini pilihan ideal.
 
 ### 18.D Tari Warung（🗺️ [Situs Web & Lokasi Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1d03d25fd3501c11676b2d609e976121.png)
+![18.D Tari Warung（ Situs Web & Lokasi Peta）](https://images.gobaligo.id/vocus/vocus_1d03d25fd3501c11676b2d609e976121.png)
 
 Ini warung lokal yang populer banget, dijalankan oleh pasangan suami-istri yang ramah banget, terkenal dengan masakan Indonesia yang enak dan pelayanan yang hangat. Menu andalannya termasuk ikan kakap merah bakar utuh dengan harga bersaing (60.000 IDR, sekitar $4 USD) — disebut sebagai ikan bakar terbaik di Bali. Ada juga mie goreng telur, burger daging sapi handmade yang juicy, sate ayam, udang bakar, lumpia, ayam goreng, dan pisang goreng yang dinilai pelanggan sebagai "terenak seumur hidup". Mereka juga punya kelapa terbesar dan tersegar di pulau. Restoran ini terkenal dengan harga terjangkau, porsi besar, bahan segar, rasa autentik, dan pelayanan ramah. Banyak turis bilang ini makanan terbaik yang mereka makan di Bali — bahkan ada yang datang setiap hari selama enam hari, dua kali sehari! Pelanggan sering pesan menu yang sama karena sudah nemu favorit dan ogah coba yang lain. D Tari Warung bukan cuma restoran, tapi tempat buat ngerasain budaya kuliner lokal dan keramahan yang hangat — destinasi wajib di Nusa Lembongan.
 
 ### 19.Warung Makan Kevin（🗺️ [Situs Web & Lokasi Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f9d9ca291af745bdaef4685abc6b5044.png)
+![19.Warung Makan Kevin（ Situs Web & Lokasi Peta）](https://images.gobaligo.id/vocus/vocus_f9d9ca291af745bdaef4685abc6b5044.png)
 
 Warung Makan Kevin adalah warung lokal yang populer di Nusa Lembongan, dijalankan oleh keluarga yang ramah dan bersemangat. Restoran ini terkenal dengan masakan Indonesia autentik, terutama menu andalan mereka seperti ikan pepes (ikan bakar bungkus daun pisang) dan soto ayam — setiap hidangan menunjukkan keahlian memasak yang luar biasa. Nasi goreng mereka porsinya besar, penuh dengan seafood segar, dan jadi favorit banyak turis sebagai nasi goreng Indonesia terbaik. Ikan bakar seafood juga oke banget, terutama cumi bakar yang dipuji banyak pengunjung.
 
@@ -180,25 +180,25 @@ Soal makanan, mereka punya berbagai menu internasional dan minuman segar yang as
 
 ### 1. Seabreeze Ceningan (🗺️ [Situs & Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2ae7e8d96e43f10c5bb8025c3d593323.jpg)
+![1. Seabreeze Ceningan ( Situs & Peta)](https://images.gobaligo.id/vocus/vocus_2ae7e8d96e43f10c5bb8025c3d593323.jpg)
 
 Restoran ini terkenal banget sama pemandangannya yang cantik, tapi pelayanannya agak lambat. Jadi saran aku, siapin waktu yang cukup buat nikmatin pemandangan dan makanannya di sini. Duduk santai sambil lihat laut biru jernih, bener-bener pesta visual sih.
 
 ### 2. KLYF Club (🗺️ [Situs & Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8389c6bab22f04c8039d0d1098b2929c.jpg)
+![2. KLYF Club ( Situs & Peta)](https://images.gobaligo.id/vocus/vocus_8389c6bab22f04c8039d0d1098b2929c.jpg)
 
 Terletak di samping Blue Lagoon yang keren abis, KLYF Club kasih pemandangan ciamik dan makanan serta koktail yang enak banget. Suasananya super resort vibes, cocok banget buat kamu yang pengin santai sejenak sambil nikmatin kuliner.
 
 ### 3. The Dungki Bendega Resto (🗺️ [Situs & Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1d5d5314ed93c7d3a9623b60df79fee9.jpg)
+![3. The Dungki Bendega Resto ( Situs & Peta)](https://images.gobaligo.id/vocus/vocus_1d5d5314ed93c7d3a9623b60df79fee9.jpg)
 
 The Dungki Bendega Resto ini dibangun oleh chef berpengalaman, I Kadek Astawa, yang udah 15 tahun malang melintang di dapur hotel bintang lima. Semua bahan dasarnya lokal, segar, dan sehat, jadi hidangannya juara banget. Menu rekomendasi: crispy chicken burger, pork ribs, dan beef rendang.
 
 ### 4. MyBeach Ceningan (🗺️ [Situs & Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7861fe084f1ec3a41f2d7054cde0597c.jpg)
+![4. MyBeach Ceningan ( Situs & Peta)](https://images.gobaligo.id/vocus/vocus_7861fe084f1ec3a41f2d7054cde0597c.jpg)
 
 MyBeach Ceningan tempat yang pas buat quality time sama keluarga, apalagi kalau mau lunch siang atau ngopi-ngopi santai di bawah sinar matahari. Ada kolam renang yang menghadap laut, dan anak-anak bisa main ayunan di tengah laut. Harganya ramah di kantong, kari seafood-nya wajib coba, bikin nagih. Sate ayam dan fish and chips andalannya juga banyak penggemar, cocok buat seluruh keluarga.
 
@@ -206,7 +206,7 @@ Suasana di restoran ini santai banget, pelayanannya cepat dan ramah, cocok dikun
 
 ### 5. Mangrove Restaurant（🗺️ [Website & Lokasi Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_77cc621dd9cad7736bee41ac682162db.jpg)
+![5. Mangrove Restaurant（ Website & Lokasi Peta）](https://images.gobaligo.id/vocus/vocus_77cc621dd9cad7736bee41ac682162db.jpg)
 
 Mangrove Restaurant adalah restoran kecil yang tenang dan nyaman, terkenal dengan aneka hidangan lezatnya. Kepala koki, Bu Illuh, nggak cuma jago masak, tapi juga sangat perhatian sama tamu yang punya pantangan makanan — dia bakal jelasin menu dengan detail biar semua orang bisa makan dengan tenang. Pilihan makanannya banyak, dari masakan tradisional Indonesia sampai burger, kari, bahkan ada pangsit Ukraina dan pasta — cocok buat semua selera.
 
@@ -220,7 +220,7 @@ Porsi makanan di Mangrove Restaurant besar banget dan harganya masuk akal. Selai
 
 🏝️ **Perpaduan sempurna antara kemewahan dan gaya hidup santai ala pulau**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0818393dd76712be34aed51bb82f68d6.jpg)
+![1. Ohana's Beach Club（ Website & Lokasi Peta）](https://images.gobaligo.id/vocus/vocus_0818393dd76712be34aed51bb82f68d6.jpg)
 
 Ohana's Beach Club membawa tren kekinian ke Nusa Lembongan. Tempat ini menggabungkan nuansa mewah dengan suasana santai khas pulau — tempat paling oke buat bersantai. Nikmati seafood segar, salad sehat, dan steak berair, semua disajikan di samping kursi berjemur putih yang cerah, dikelilingi kolam renang yang sejuk dan payung pantai. Saran: datang lebih awal buat dapetin spot terbaik di bawah sinar matahari, dan malam harinya kamu bisa menikmati makan malam romantis di dek atas di bawah bintang-bintang.
 
@@ -230,7 +230,7 @@ https://youtube.com/shorts/C1JJL-eyDRU?si=OI-gvbWXjjWrrWmO
 
 🌅 **Salah satu beach club wajib dikunjungi di Nusa Lembongan**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_378a10dfdb8a9a70542a68c5402ec708.jpg)
+![2. Sandy Bay Beach Club（ Website & Lokasi Peta）](https://images.gobaligo.id/vocus/vocus_378a10dfdb8a9a70542a68c5402ec708.jpg)
 
 Pesona Sandy Bay Beach Club tuh nggak ada lawannya, banyak turis bahkan sengaja datang ke Nusa Lembongan cuma buat ke sini. Tempatnya ada di teluk yang indah banget, punya area santai outdoor yang terbuka, di bawah kaki ada pasir lembut ditemani suara ombak. Ini tempat yang pas buat nyobain seafood enak dan cocktail tropis. Saran, cobain dulu "snack platter", baru lanjut ke tiger shrimp segar atau rendang sapi khas Indonesia. Entah itu Bloody Mary atau Margarita, dua-duanya recommended banget! Jangan lupa pas sunset, nikmatin pemandangan senja yang cantik.
 
@@ -238,7 +238,7 @@ Pesona Sandy Bay Beach Club tuh nggak ada lawannya, banyak turis bahkan sengaja 
 
 🍹 **Surga tersembunyi di Nusa Ceningan**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2acb0c969ad35b6675da2c2663d93b7f.jpg)
+![3.Suku Beach Club（ Website & Map）](https://images.gobaligo.id/vocus/vocus_2acb0c969ad35b6675da2c2663d93b7f.jpg)
 
 Suku Beach Club ada di Nusa Ceningan, menghadap ke pasir putih dan spot surfing terkenal. Area kolam renang bertingkat ini punya restoran dan bar, bikin kamu bisa santai seharian di pinggir kolam sambil megang kelapa dingin, atau nikmatin makanan ringan di kursi santai yang nyaman. Cocktail andalannya juga sayang dilewatkan, apalagi yang pedas Aga cocktail—dibuat dari tequila, Cointreau, semangka, dan madu agave, kasih sentuhan tropis ke Margarita klasik.
 
@@ -246,7 +246,7 @@ Suku Beach Club ada di Nusa Ceningan, menghadap ke pasir putih dan spot surfing 
 
 🌴 **Beach club minimalis dan kece di Nusa Ceningan**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f0da17ee287571e58427e613849d63c3.jpg)
+![4.Le Pirate Beach Club（ Website & Map）](https://images.gobaligo.id/vocus/vocus_f0da17ee287571e58427e613849d63c3.jpg)
 
 Le Pirate ada di tepi air Nusa Ceningan, suasananya santai dan penuh vibe tropis. Desainnya simpel tapi tetap stylish, cocok banget buat kamu yang datang masih pakai baju renang, rambut basah kena air laut dan pasir, tinggal bersandar di bar bambu, pesan cocktail tropis, lalu rebahan santai di kursi bergaris sambil lihat laguna biru. Kalau nggak tega pergi, kamu juga bisa nginep di bungalow pantai mereka dan rasain hidup sederhana ala pulau.
 
@@ -254,7 +254,7 @@ Le Pirate ada di tepi air Nusa Ceningan, suasananya santai dan penuh vibe tropis
 
 🌊 **Beach club santai banget di Nusa Ceningan**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_24e0a3c88eee644eb713888ef74488a1.jpg)
+![5.The Sand Ceningan（ Website & Map）](https://images.gobaligo.id/vocus/vocus_24e0a3c88eee644eb713888ef74488a1.jpg)
 
 The Sand adalah beach bar sederhana di tepi pantai Nusa Ceningan yang menyajikan cocktail strong dan makanan santai khas pantai. Cocok banget buat kamu yang suka berjemur. Spotnya kece dengan pemandangan oke, plus ada ayunan Instagramable yang menggantung di atas air — wajib banget buat foto-foto. Bawa bikinimu, siap-siap buat hari yang seru di sini!
 
@@ -262,7 +262,7 @@ The Sand adalah beach bar sederhana di tepi pantai Nusa Ceningan yang menyajikan
 
 🌅 **Favorit Lokal, Spot Terbaik untuk Nikmatin Sunset**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7ce7cea258b5dcde446e41199097ad3f.jpg)
+![6. Agung Beach Club（ Situs Resmi & Lokasi Google Maps）](https://images.gobaligo.id/vocus/vocus_7ce7cea258b5dcde446e41199097ad3f.jpg)
 
 Agung Beach Club adalah beach club yang santai di Nusa Lembongan, disukai sama penduduk lokal dan turis asing. Tempatnya lebih tenang dan kecil, tapi punya pesona tersendiri. Kamu bisa makan di floating cottage tepi pantai, bersantai di pondok kayu kecil, atau main ayunan pasir. Recommended banget datang pas senja — langsung menghadap ke arah matahari terbenam dengan latar Gunung Agung, ideal buat nikmatin sunset.
 

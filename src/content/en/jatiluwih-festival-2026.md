@@ -49,7 +49,7 @@ For running enthusiasts, this is an interesting option—jogging while taking in
 
 ## Electric Bike Adventure Tour
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781403086604-_2026-06-14_09.05.14.png)
+![Electric Bike Adventure Tour](https://images.gobaligo.id/images/2026-06/1781403086604-_2026-06-14_09.05.14.png)
 
 Beyond the festival activities, another excellent way to explore the Jatiluwih Rice Terraces is by joining an electric bike tour. Hop on an e-bike and ride through dense jungles, bamboo groves, and local villages all the way to the UNESCO World Heritage site—the Jatiluwih Rice Terraces.
 

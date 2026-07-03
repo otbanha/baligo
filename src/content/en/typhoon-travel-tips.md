@@ -29,7 +29,7 @@ Starting every June, Taiwan and parts of Asia enter a typhoon season that lasts 
 
 But don't worry, with proper preparation beforehand, you can significantly reduce risks and enjoy a more secure journey.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ef24ed91fc095869c613bcf7510c0920.jpg)
+![Traveling during typhoon season? Comprehensive preparation b](https://images.gobaligo.id/vocus/vocus_ef24ed91fc095869c613bcf7510c0920.jpg)
 
 ---
 
@@ -63,7 +63,7 @@ Download the airline's official app early and save customer service numbers and 
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3296188a90670c29043b2d367e9bef2e.jpg)
+![Save Airline and Booking Platform Contact Information](https://images.gobaligo.id/vocus/vocus_3296188a90670c29043b2d367e9bef2e.jpg)
 
 ## Weather Alert: Tracking Forecasts is Essential
 

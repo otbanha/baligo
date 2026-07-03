@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: f3f69be70eb47d5a986c071837c4645c
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_49bc8b6c7bfea6941ddd4b975868e7a0.png)
+![去峇里島玩要知：小心碌卡結帳嘅陷阱](https://images.gobaligo.id/vocus/vocus_49bc8b6c7bfea6941ddd4b975868e7a0.png)
 
 預訂、慳錢就睇呢度：
 

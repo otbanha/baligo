@@ -33,11 +33,11 @@ _srcHash: 568b26360c7dcb4731f8be9223f3264e
 
 Recently, Poon, a member of our Facebook group, shared his travel experience in Bali, emphasizing the importance of travel safety, especially the risks of riding a motorcycle. He reminded other travelers to be extra cautious while exploring Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b84e8bf33672e13070024de3c98fb7bc.jpg)
+![Bali Motorcycle Accident Survival Guide: International Licen](https://images.gobaligo.id/vocus/vocus_b84e8bf33672e13070024de3c98fb7bc.jpg)
 
 On his return trip, Poon encountered two injured travelers, both young Asians. These injured individuals were on the same flight back as Poon. While motorcycles are convenient, the risk of accidents is significantly higher in unfamiliar environments.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1a17602d666ba618a75cd33abb72790a.png)
+![Bali Motorcycle Accident Survival Guide: International Licen](https://images.gobaligo.id/vocus/vocus_1a17602d666ba618a75cd33abb72790a.png)
 
 ## The Convenience and Danger of Motorcycle Riding
 

@@ -58,7 +58,7 @@ Planning to take your drone to Bali for dreamy rice fields and sunset beaches bu
 
 ## 1. Do I Need to Apply for Permission?
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776665614492-screenshot_2026-04-20-13-11-40-656_md.obsidian-edit.jpg)
+![1. Do I Need to Apply for Permission?](https://images.gobaligo.id/images/2026-04/1776665614492-screenshot_2026-04-20-13-11-40-656_md.obsidian-edit.jpg)
 
 **Good news**: 99% of travelers fall into the 'no application needed' category!
 
@@ -104,7 +104,7 @@ For personal use, customs usually won’t hassle you with one drone, but make su
 - Be mindful of traditional kite season (especially June-August)
 - Strongly recommend drone insurance (covers water damage or accidents involving people)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776664958144-20260420_055753_0_utc_0.png)
+![5. Practical Tips for Flying in Bali (for smoother, more stu](https://images.gobaligo.id/images/2026-04/1776664958144-20260420_055753_0_utc_0.png)
 
 ## Frequently Asked Questions
 

@@ -30,7 +30,7 @@ This is the fourth installment in our series on Nusa Penida—a magical island a
 
 Getting around Nusa Penida can be a bit tricky, so it's important to prepare in advance to ensure your journey is as fun and comfortable as possible. This comprehensive guide summarizes all available transportation options, helping you decide which one suits you best.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e93271a5a135e6f7a082fa950125b0f4.png)
+![Nusa Penida Transportation Guide: Taxis, Gojek/Grab, Private](https://images.gobaligo.id/vocus/vocus_e93271a5a135e6f7a082fa950125b0f4.png)
 
 We've dedicated five episodes to Nusa Penida—dive deeper into this island paradise! Here are the links to the other four:
 
@@ -59,7 +59,7 @@ There are plenty of scooter rental operators on Nusa Penida, but due to the isla
 
 Renting a car and driving yourself around Nusa Penida is hardly possible! The roads are narrow and tricky to navigate—anyone who's been there will agree! Even experienced drivers find it challenging. A far more common approach is to hire a car with a driver (private charter), making getting around much easier. Since hiring someone to tour the island is very affordable, there's really no reason to rent a car on your own.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1dafe21084ec2f3f2ba1baeb2f8fed2e.png)
+![Can I Rent a Car Myself?](https://images.gobaligo.id/vocus/vocus_1dafe21084ec2f3f2ba1baeb2f8fed2e.png)
 
 **Klook offers many great tours:**
 

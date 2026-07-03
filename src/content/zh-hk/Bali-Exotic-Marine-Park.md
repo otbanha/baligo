@@ -32,7 +32,7 @@ _srcHash: 936227622b71ae6284d2128328910eef
 ---
 帶細路出遊，最怕咩？就係「睇得到、摸唔到」嘅距離感。好多景點，小朋友只可以乖乖坐喺觀眾席，遠遠睇住動物表演，拍手叫好，然後就冇咗。講真，**坐喺觀眾席睇海豚表演唔稀奇，可以令小朋友同海豚互動先至稀奇**——而峇里島海豚樂園（Bali Exotic Marine Park），正正係嗰種令細路真正「走入故事裏面」嘅地方。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966642880-mixcollage-28-may-2026-06-10-pm-4374.jpg)
+![【2026 峇里島親子景點】海豚樂園 Bali Exotic Marine Park 攻略：超近距離互動、落水同海豚一齊](https://images.gobaligo.id/images/2026-05/1779966642880-mixcollage-28-may-2026-06-10-pm-4374.jpg)
 
 ## 海豚樂園喺邊度？
 
@@ -42,17 +42,17 @@ _srcHash: 936227622b71ae6284d2128328910eef
 
 好多海洋公園標榜海豚騷，但細路坐喺觀眾席上，同海豚嘅距離可能超過二十米。而喺呢度，**細路唔再係旁觀者，而係參與者**。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966737821-2023-03-10-qf52uenqtenkloe67rlay6xx1mrdvbwjy8nvpunagg.jpg)
+![真正嘅亮點：唔係睇，係「一齊玩」](https://images.gobaligo.id/images/2026-05/1779966737821-2023-03-10-qf52uenqtenkloe67rlay6xx1mrdvbwjy8nvpunagg.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966738473-5972cbaa-39fc-4cb1-a45a-642336fe54da-1717988216505-f8b66eafb1736ce1c3887a09f499ee9c.webp)
+![真正嘅亮點：唔係睇，係「一齊玩」](https://images.gobaligo.id/images/2026-05/1779966738473-5972cbaa-39fc-4cb1-a45a-642336fe54da-1717988216505-f8b66eafb1736ce1c3887a09f499ee9c.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966739071-475998762_2580436122287878_766002186653361224_n.jpg)
+![真正嘅亮點：唔係睇，係「一齊玩」](https://images.gobaligo.id/images/2026-05/1779966739071-475998762_2580436122287878_766002186653361224_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966739578-copy-of-img_8681.webp)
+![真正嘅亮點：唔係睇，係「一齊玩」](https://images.gobaligo.id/images/2026-05/1779966739578-copy-of-img_8681.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966740228-encounter-program-02.jpg)
+![真正嘅亮點：唔係睇，係「一齊玩」](https://images.gobaligo.id/images/2026-05/1779966740228-encounter-program-02.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966741320-encounter-program-03.jpg)
+![真正嘅亮點：唔係睇，係「一齊玩」](https://images.gobaligo.id/images/2026-05/1779966741320-encounter-program-03.jpg)
 
 樂園提供多種官方互動體驗，家長可以按細路年齡、水性同膽量選擇：
 
@@ -71,7 +71,7 @@ _srcHash: 936227622b71ae6284d2128328910eef
 
 ## 對家長嚟講，呢個唔止係「好玩」
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966789235-597572246_1320717816737228_5729102268253149587_n.jpg)
+![對家長嚟講，呢個唔止係「好玩」](https://images.gobaligo.id/images/2026-05/1779966789235-597572246_1320717816737228_5729102268253149587_n.jpg)
 
 好多父母會問：「使呢筆錢值唔值？」老實講，票價唔平，但你買到嘅唔止係幾分鐘嘅互動，而係：
 
@@ -81,7 +81,7 @@ _srcHash: 936227622b71ae6284d2128328910eef
 
 ## 園區仲有咩？冇落水都唔會悶
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966825794-472863975_2560314820966675_263615945628872436_n.jpg)
+![園區仲有咩？冇落水都唔會悶](https://images.gobaligo.id/images/2026-05/1779966825794-472863975_2560314820966675_263615945628872436_n.jpg)
 
 如果屋企有仲未敢落水嘅細路仔，或者想令行程更豐富，園區仲有：
   **鯊魚同魟魚觸摸池**
@@ -93,7 +93,7 @@ _srcHash: 936227622b71ae6284d2128328910eef
 
 ## 親子實用資訊（家長必讀）
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966862890-499695237_1149885913820420_3944627584317570938_n.jpg)
+![親子實用資訊（家長必讀）](https://images.gobaligo.id/images/2026-05/1779966862890-499695237_1149885913820420_3944627584317570938_n.jpg)
 
 {{block:戶外}}
 
@@ -124,7 +124,7 @@ _srcHash: 936227622b71ae6284d2128328910eef
 
 ## 優缺點一次講晒（唔收埋）
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966899573-474029370_2565750303756460_5721499334327183477_n.jpg)
+![優缺點一次講晒（唔收埋）](https://images.gobaligo.id/images/2026-05/1779966899573-474029370_2565750303756460_5721499334327183477_n.jpg)
 
 **優點**
 

@@ -23,7 +23,7 @@ _srcHash: befb7e75cc299777c97434ff49bcd797
 ---
 ## **新生態度假村Toya Ubud於峇里島烏布開幕，驚艷遊客**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f2d953ffaa337ca9f753204ede51ff78.jpg)
+![新生態度假村Toya Ubud於峇里島烏布開幕，驚艷遊客](https://images.gobaligo.id/vocus/vocus_f2d953ffaa337ca9f753204ede51ff78.jpg)
 
 2024年11月，峇里島迎嚟咗Toya Ubud嘅試營運，呢個係一個全新嘅生態公園同度假村，距離著名嘅德格拉朗梯田只係幾分鐘車程。而家，度假村已經正式全面開業，並喺過去幾星期內迎接咗首批嚟自世界各地嘅遊客，成為峇里島旅遊嘅新亮點。
 

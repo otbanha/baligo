@@ -26,7 +26,7 @@ _srcHash: 1dbc40af94ee46c21de7d018afe0e0ad
 
 Bali welcomes the important festival **Galungan (November 18–20)** in November, followed by the Christmas and New Year holidays in December, when streets tend to get busier. To prevent an increase in accidents, local police have launched the annual traffic control initiative **'Zebra Operation'** in advance.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8885ac4311d8bdda3c5e0fd40566a5d6.jpg)
+![Bali Enters Festival Season: Police Launch Large-Scale Traff](https://images.gobaligo.id/vocus/vocus_8885ac4311d8bdda3c5e0fd40566a5d6.jpg)
 
 At popular intersections, you'll see more police presence, with nearly **1,700 law enforcement officers** deployed for inspections, especially targeting foreign tourists riding scooters.
 
@@ -92,7 +92,7 @@ Bali's roads are vibrant but also complex and unpredictable. The new regulations
 
 Would providing drivers or basic training make novice travelers feel more secure? It's worth considering.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b7d148fa791d6ef5869f955394fb7967.jpg)
+![What Do You Think? Can Professional Driving Assistance Help ](https://images.gobaligo.id/vocus/vocus_b7d148fa791d6ef5869f955394fb7967.jpg)
 
 ---
 

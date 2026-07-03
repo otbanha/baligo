@@ -17,7 +17,7 @@ lang: zh-cn
 _srcHash: 55d6fb0886aeed9eaa17e2e3e67e4d4d
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_627a552e98d467b4caa36da0295751e2.png)
+![【现在去最好！？】巴厘岛几月去最舒适？](https://images.gobaligo.id/vocus/vocus_627a552e98d467b4caa36da0295751e2.png)
 
 巴厘岛气候宜人，适合全年旅游，但若要寻找最舒适的气温及最佳的旅游体验，以下几个月份是特别推荐的：
 
@@ -30,7 +30,7 @@ _srcHash: 55d6fb0886aeed9eaa17e2e3e67e4d4d
 
 ## 较不适合旅游的月份：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_46b1a5a9acc6fba7b99b110ac1aff8ee.png)
+![较不适合旅游的月份：](https://images.gobaligo.id/vocus/vocus_46b1a5a9acc6fba7b99b110ac1aff8ee.png)
 
 **十二月到三月**：
 
@@ -40,7 +40,7 @@ _srcHash: 55d6fb0886aeed9eaa17e2e3e67e4d4d
 
 延伸阅读：[巴厘岛雨季月份/降雨概率/降雨天数/平均气温/适合旅游指数...大解析](/blog/bali-rainy-season-travel-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc7919a88322f5be4a88faea86280d81.png)
+![较不适合旅游的月份：](https://images.gobaligo.id/vocus/vocus_bc7919a88322f5be4a88faea86280d81.png)
 
 ## 旅游旺季
 

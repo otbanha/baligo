@@ -33,11 +33,11 @@ _srcHash: f90c388a26e5eb1e990566b59a468c6f
 
 Garuda Wisnu Kencana (GWK) Cultural Park, located in Ungasan in southern Bali, is a stunning cultural landmark combining art, mythology, and natural scenery. It features one of the world's tallest statues and is one of the best places to explore Balinese traditional culture and mythological stories.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e6945779e5302b390d3332824786b505.jpg)
+![Complete Guide to Garuda Wisnu Kencana Cultural Park in Bali](https://images.gobaligo.id/vocus/vocus_e6945779e5302b390d3332824786b505.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f0afcf709a7704617d06a8a3a91c415.jpg)
+![Complete Guide to Garuda Wisnu Kencana Cultural Park in Bali](https://images.gobaligo.id/vocus/vocus_2f0afcf709a7704617d06a8a3a91c415.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e9d7b03023308db8184ced2d37d0b49.jpg)
+![Complete Guide to Garuda Wisnu Kencana Cultural Park in Bali](https://images.gobaligo.id/vocus/vocus_4e9d7b03023308db8184ced2d37d0b49.jpg)
 
 ***
 
@@ -45,7 +45,7 @@ Garuda Wisnu Kencana (GWK) Cultural Park, located in Ungasan in southern Bali, i
 
 In Hindu mythology, Garuda is a divine bird symbolizing strength and loyalty, while Wisnu (Vishnu) is one of the three main deities and the protector god. Legend has it that Garuda fought demons to save his enslaved mother, eventually obtaining the secret of the 'Water of Life (Amrita)' and offering it to Vishnu. Deeply moved, Vishnu allowed Garuda to become his mount, and together they protect the world, symbolizing justice and peace.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8d4e8695ec97e45be528a94384b90527.jpg)
+![The Mythological Story of Garuda Wisnu](https://images.gobaligo.id/vocus/vocus_8d4e8695ec97e45be528a94384b90527.jpg)
 
 The statue at GWK Cultural Park depicts Garuda carrying Vishnu, embodying the Balinese people's reverence and dedication to their faith and culture.
 
@@ -57,9 +57,9 @@ This 122-meter-tall statue was created by renowned Indonesian artist Nyoman Nuar
 
 The entire project took nearly 30 years and cost USD$100 million. It is not only Indonesia's tallest statue and the fourth tallest in the world but also the tallest Hindu statue globally, showcasing the artist's boundless passion and perseverance in cultural preservation.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_52c866507205ddf9d281ab9f8ab81cb7.jpg)
+![The Sculptor's Remarkable Achievement](https://images.gobaligo.id/vocus/vocus_52c866507205ddf9d281ab9f8ab81cb7.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_18620dfeba6d7c607c611b51c5ece1ae.jpg)
+![The Sculptor's Remarkable Achievement](https://images.gobaligo.id/vocus/vocus_18620dfeba6d7c607c611b51c5ece1ae.jpg)
 
 ***
 
@@ -71,7 +71,7 @@ The entire project took nearly 30 years and cost USD$100 million. It is not only
 - Visit the art market to purchase local handicrafts
 - Dine at Jendela Bali restaurant with a hilltop view overlooking Bali's landscape
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1648571abea2beee5ba8319105663c9e.jpg)
+![Why Visit GWK Cultural Park?](https://images.gobaligo.id/vocus/vocus_1648571abea2beee5ba8319105663c9e.jpg)
 
 ***
 
@@ -111,7 +111,7 @@ Motorcycle 5,000
 Small Car 10,000
 Tour Bus 20,000
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_12e2a54c4a7314731d744a9e7d1434b8.jpg)
+![Transportation and Suggested Itinerary](https://images.gobaligo.id/vocus/vocus_12e2a54c4a7314731d744a9e7d1434b8.jpg)
 
 ***
 
@@ -126,7 +126,7 @@ Tour Bus 20,000
 1. **Plaza Wisnu**: The park's highest point, overlooking the Garuda Wisnu statue and sunset
 2. **Jendela Bali (Window of Bali) Restaurant**: Dine while enjoying the sunset views
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1bb883f0f590f32b7acc8721a45c68ed.jpg)
+![Best Sunset Photography Spots:](https://images.gobaligo.id/vocus/vocus_1bb883f0f590f32b7acc8721a45c68ed.jpg)
 
 ***
 
@@ -134,11 +134,11 @@ Tour Bus 20,000
 
 ### **Garuda Wisnu Statue**: The tallest Hindu statue in the world
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e0bb2cad0bdedd204512609e4d27878.jpg)
+![Garuda Wisnu Statue: The tallest Hindu statue in the world](https://images.gobaligo.id/vocus/vocus_3e0bb2cad0bdedd204512609e4d27878.jpg)
 
 ### **Lotus Pond**: A massive outdoor plaza often hosting exhibitions and performances
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff79df23a5cb21ac9df08d3b06441299.jpg)
+![Lotus Pond: A massive outdoor plaza often hosting exhibition](https://images.gobaligo.id/vocus/vocus_ff79df23a5cb21ac9df08d3b06441299.jpg)
 
 ### Kecak Fire Dance: Daily at 18:00 at Lotus Pond
 
@@ -179,19 +179,19 @@ All performances are included in the ticket price with no additional fees. Visit
 
 ### **Jendela Bali**: A restaurant located at a higher elevation, offering authentic Balinese cuisine
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd890adbabac87a91647dbfa606e04e4.jpg)
+![Jendela Bali: A restaurant located at a higher elevation, of](https://images.gobaligo.id/vocus/vocus_fd890adbabac87a91647dbfa606e04e4.jpg)
 
 ### **GWK Food Court**
 
 A variety of local snacks, juices, and fried foods
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_03677eff3d8b3b402360ebf404cbdbb5.jpg)
+![GWK Food Court](https://images.gobaligo.id/vocus/vocus_03677eff3d8b3b402360ebf404cbdbb5.jpg)
 
 ### **The Berandas**
 
 A fusion of Western and local flavors
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9ed56f49ff0bb4cba29395e2895b0fe5.jpg)
+![The Berandas](https://images.gobaligo.id/vocus/vocus_9ed56f49ff0bb4cba29395e2895b0fe5.jpg)
 
 ***
 
@@ -201,7 +201,7 @@ At Bali's **Garuda Wisnu Kencana Cultural Park**, the vast grounds span over 60 
 
 ### 🚗 **Buggy (Golf Cart/Shuttle)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_69559b1ca561b55470711daa2d4b4839.jpg)
+![Buggy (Golf Cart/Shuttle)](https://images.gobaligo.id/vocus/vocus_69559b1ca561b55470711daa2d4b4839.jpg)
 
 This is the most popular transportation option within the park, ideal for families, elderly visitors, or those traveling with children. The buggy shuttles visitors between **Plaza Bhagawan (ticket area) and the Garuda Wisnu main statue area**, allowing you to enjoy the park's scenery while saving energy.
 
@@ -212,7 +212,7 @@ This is the most popular transportation option within the park, ideal for famili
 
 ### 🛴 **Segway / Electric Scooter Rental Experience**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc2eee52796e2a558a5efe73d57b4025.jpg)
+![Segway / Electric Scooter Rental Experience](https://images.gobaligo.id/vocus/vocus_bc2eee52796e2a558a5efe73d57b4025.jpg)
 
 Looking for a unique way to explore GWK? Try gliding on a Segway! This activity is mainly focused around the **Lotus Pond area**, offering a fun and effortless way to tour the expansive plaza and limestone landscapes.
 
@@ -263,7 +263,7 @@ All visitors can take photos and videos in front of this 122-meter-tall statue, 
 
 ## **Kencana Souvenir GWK Bali** Souvenir Shop
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3f660ab037d597a9f0e6585225003ecc.jpg)
+![Kencana Souvenir GWK Bali Souvenir Shop](https://images.gobaligo.id/vocus/vocus_3f660ab037d597a9f0e6585225003ecc.jpg)
 
 Offering four carefully selected Bali souvenirs:
 

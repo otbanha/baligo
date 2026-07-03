@@ -30,7 +30,7 @@ lang: id
 _srcHash: cef4fd9a8671e209fd48399aaad82eb3
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_595599fd567f9984fb83ddbb02a717ea.jpg)
+![【Wajib Nonton di Bali】Kecak Fire Dance di 6 Lokasi Terbaik: ](https://images.gobaligo.id/vocus/vocus_595599fd567f9984fb83ddbb02a717ea.jpg)
 
 ## Sorotan Pertunjukan Budaya Bali
 
@@ -56,7 +56,7 @@ Dengan memadukan tradisi dan sentuhan modern, tari Kecak jadi ikon budaya Bali y
 
 ### **1. Pura Uluwatu (Uluwatu Temple)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d5e4a9cfe8e4f59216a21b8f25ca0d52.jpg)
+![1. Pura Uluwatu (Uluwatu Temple)](https://images.gobaligo.id/vocus/vocus_d5e4a9cfe8e4f59216a21b8f25ca0d52.jpg)
 
 Nonton Kecak Fire Dance di Pura Uluwatu tuh pengalaman yang memanjakan mata dan jiwa. Pura di tebing ini punya latar Samudra Hindia, sinar senja yang temaram bikin pertunjukan makin magis, nggak ada duanya!
 
@@ -73,7 +73,7 @@ Nonton Kecak Fire Dance di Pura Uluwatu tuh pengalaman yang memanjakan mata dan 
 
 ### **2. Tanah Lot (Pura Tanah Lot)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_57393ae17287c457acd6b3903fbd2e82.jpg)
+![2. Tanah Lot (Pura Tanah Lot)](https://images.gobaligo.id/vocus/vocus_57393ae17287c457acd6b3903fbd2e82.jpg)
 
 Pura Tanah Lot terkenal banget sama pemandangan pantainya yang dramatis, dan pertunjukan Kecak di sini bikin perpaduan alam dan budaya makin sempurna. Pas air pasang-surut, para penari tampil di bawah cahaya api, menghidupkan kisah mitologi yang bikin merinding.
 
@@ -84,7 +84,7 @@ Pura Tanah Lot terkenal banget sama pemandangan pantainya yang dramatis, dan per
 
 ### **3. Melasti Beach**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_36a5d659d6f423d7b06381d74432f96e.png)
+![3. Melasti Beach](https://images.gobaligo.id/vocus/vocus_36a5d659d6f423d7b06381d74432f96e.png)
 
 Kalau kamu lebih suka suasana yang lebih privat, Melasti Beach pilihan yang pas. Pertunjukan Kecak di sini berlatar laut yang tenang, bikin pengalaman budaya yang santai dan unik.
 
@@ -97,7 +97,7 @@ Kalau kamu lebih suka suasana yang lebih privat, Melasti Beach pilihan yang pas.
 
 ### **4. GWK Cultural Park**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_001451924cc9b57aec59375420a24d76.jpg)
+![4. GWK Cultural Park](https://images.gobaligo.id/vocus/vocus_001451924cc9b57aec59375420a24d76.jpg)
 
 Pertunjukan Kecak di GWK Cultural Park dipadukan dengan tradisi Ogoh-Ogoh, bikin pengalaman seni dan budaya yang super megah.
 
@@ -109,7 +109,7 @@ Pertunjukan Kecak di GWK Cultural Park dipadukan dengan tradisi Ogoh-Ogoh, bikin
 
 ### **5. Discovery Mall（探索購物中心）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_765b3d6e280d63d9374bb817f5993d4a.jpg)
+![5. Discovery Mall（探索購物中心）](https://images.gobaligo.id/vocus/vocus_765b3d6e280d63d9374bb817f5993d4a.jpg)
 
 Mau belanja, kulineran, sambil nonton pertunjukan tradisional? Discovery Mall setiap hari Kamis ngasih pertunjukan Kecak gratis — cara santai buat nikmatin budaya Bali.
 
@@ -119,7 +119,7 @@ Mau belanja, kulineran, sambil nonton pertunjukan tradisional? Discovery Mall se
 
 ### **6. Fire Dance Bali（dekat Ubud Palace）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ae6916c01b4ace61282a069171a54b00.png)
+![6. Fire Dance Bali（dekat Ubud Palace）](https://images.gobaligo.id/vocus/vocus_ae6916c01b4ace61282a069171a54b00.png)
 
 Fire Dance Bali yang lokasinya dekat Ubud Palace, nawarin pertunjukan Kecak api yang memukau — bener-bener nunjukin inti budaya Bali. Suasananya intim dan penuh semangat, cocok buat semua umur.
 

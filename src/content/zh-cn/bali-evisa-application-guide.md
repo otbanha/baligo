@@ -22,7 +22,7 @@ _srcHash: 2e5ad6c20d699ffd99fb6b25fe61686d
 
 电子签证（electronic visa on arrival，简称eVoA/eVisa），是指旅客在出发前，通过印尼移民总局的官方网站在线申请的签证。电子签证的申请费用与下飞机排队办理人工落地签证一样为50万印尼盾（约USD$16），有效期为30天，可延长一次，最多居留60天。然而刷卡缴费需多付一些手续费。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b494c08f27d320e4d119e85eb298d600.png)
+![什么是电子签证？](https://images.gobaligo.id/vocus/vocus_b494c08f27d320e4d119e85eb298d600.png)
 
 ## 电子签证申请步骤
 

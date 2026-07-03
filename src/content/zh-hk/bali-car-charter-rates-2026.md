@@ -48,7 +48,7 @@ _srcHash: ea4815b69a3bd1980e5d03164eef97b3
 
 咁樣做，你仍然可以清楚見到原本嘅車費，而我哋亦都可以補貼真正貴咗嘅油錢。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
+![新嘅收費方式（由司機們共同決定）](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
 
 ## 📅 生效日期同適用對象
 - **生效日**：2026年7月1日起

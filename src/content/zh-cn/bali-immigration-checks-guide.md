@@ -19,7 +19,7 @@ _srcHash: 00c8e3f6eb9fbe4a8796b7201dd4a648
 
 ## **很多人都在问：需要打印吗？**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1ff5703b8036ffd6acb543380c8cc3dc.png)
+![很多人都在问：需要打印吗？](https://images.gobaligo.id/vocus/vocus_1ff5703b8036ffd6acb543380c8cc3dc.png)
 
 前往巴厘岛旅游时，必备文件包括：
 
@@ -107,7 +107,7 @@ _srcHash: 00c8e3f6eb9fbe4a8796b7201dd4a648
 
 ## 📩 **「巴厘岛旅游攻略」首页说明
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
+![「巴厘岛旅游攻略」首页说明](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 
 **通过免费订阅，你将获得：**
 

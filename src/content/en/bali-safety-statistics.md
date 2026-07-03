@@ -33,7 +33,7 @@ This index not only measures the effectiveness of law enforcement but also cover
 
 ## **Bali's Crime Rate Hits a Historic Low**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_26c345dd21b57218a13b8b59094e84af.jpg)
+![Bali's Crime Rate Hits a Historic Low](https://images.gobaligo.id/vocus/vocus_26c345dd21b57218a13b8b59094e84af.jpg)
 
 In 2024, Bali's crime rate was only **0.07%**, setting a record as the lowest in all of Indonesia. Compared to **0.20%** in 2022, the data continues to decline, indicating that local security is improving year by year.
 
@@ -75,7 +75,7 @@ Based on data, Bali is not only Indonesia's most popular tourist destination but
 
 ## **Frequently Asked Questions FAQ**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_03141a4e39b1177082670e3423f755ac.png)
+![Frequently Asked Questions FAQ](https://images.gobaligo.id/vocus/vocus_03141a4e39b1177082670e3423f755ac.png)
 
 ### **1. Is Bali Safe for Foreign Tourists?**
 

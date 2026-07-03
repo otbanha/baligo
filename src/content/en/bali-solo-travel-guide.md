@@ -29,7 +29,7 @@ Are you considering traveling solo to Bali? Let me tell you first: **This is def
 
 Bali is one of the most suitable Southeast Asian destinations for solo travel in my opinion. It's safe, tourist-friendly, reasonably priced, and being 'alone' here is never awkward. Whether you want to quietly unwind or meet new friends, Bali can fulfill your desires.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775350592267-mixcollage-05-apr-2026-07-55-am-578.jpg)
+![Solo Travel in Bali: A Paradise That Can Be Equally Exciting](https://images.gobaligo.id/images/2026-04/1775350592267-mixcollage-05-apr-2026-07-55-am-578.jpg)
 
 Here are practical tips I've gathered from my own experiences for solo travelers:
 
@@ -37,7 +37,7 @@ Here are practical tips I've gathered from my own experiences for solo travelers
 
 ## 1. Where to Stay? Choosing the Right Area is Crucial
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775351493354-mixcollage-05-apr-2026-08-11-am-1312.jpg)
+![1. Where to Stay? Choosing the Right Area is Crucial](https://images.gobaligo.id/images/2026-04/1775351493354-mixcollage-05-apr-2026-08-11-am-1312.jpg)
 
 Bali is vast, and different areas offer completely different vibes:
 
@@ -97,7 +97,7 @@ The only thing to note is that some high-end restaurants or beach clubs might no
 
 ## Four: Is It Safe? Honest Advice for Solo Travelers
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775351807418-3e530ee91368827f35ce3d2046220e06.jpg)
+![Four: Is It Safe? Honest Advice for Solo Travelers](https://images.gobaligo.id/images/2026-04/1775351807418-3e530ee91368827f35ce3d2046220e06.jpg)
 
 Bali is generally safe, but there are a few things to keep in mind:
 
@@ -117,7 +117,7 @@ Bali is generally safe, but there are a few things to keep in mind:
 
 Traveling alone doesn’t mean you have to stay alone.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775352447434-54bd8eecd33bfc05d58f6767e3816f0a.jpg)
+![Five: The Best Part of Solo Travel: Meeting New People](https://images.gobaligo.id/images/2026-04/1775352447434-54bd8eecd33bfc05d58f6767e3816f0a.jpg)
 
 - **Stay in hostels**: Ubud and Canggu have many fantastic hostels with common areas, free breakfast, yoga classes, and coworking spaces… making it easy to strike up conversations. Recommendations: Ubud Raya, Puri Garden, Tribal Bali.
 - **Join day tours**: Like hiking Mount Batur for sunrise, snorkeling, or taking a Thai cooking class. Many in the group are also solo travelers.
@@ -152,7 +152,7 @@ The essence of solo travel isn't about how many attractions you visit, but how c
 
 Bali will gently show you: being alone can also feel complete.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775353631404-10819a3acdc4d57f5f5a684e1dfea4ed.jpg)
+![7. Final Reminder: Slow Down](https://images.gobaligo.id/images/2026-04/1775353631404-10819a3acdc4d57f5f5a684e1dfea4ed.jpg)
 
 > Solo travel diary reference: [🌺 8 Days Solo Adventure in Bali - A Female Solo Travel Experience 🌺](/blog/bali-solo-female-travel/)
 

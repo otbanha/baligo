@@ -25,7 +25,7 @@ _srcHash: 2807c2565f672c28d5ad83a2d5af01ea
 
 ## **1. 高端住宿：入住顶级度假村与私人别墅**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_21f3270f5edab3a81cd63906207800ba.jpg)
+![1. 高端住宿：入住顶级度假村与私人别墅](https://images.gobaligo.id/vocus/vocus_21f3270f5edab3a81cd63906207800ba.jpg)
 
 巴厘岛拥有众多世界级的奢华度假村和私人别墅，为您提供无与伦比的住宿体验。无论是位于水明漾的海景别墅，还是隐藏在乌布雨林中的私人度假屋。您可以选择我们推荐的一系列顶级度假村，配备了私人泳池、专属管家和私人厨师服务，享受极致的舒适与隐私，让每一刻都充满奢华与放松。
 
@@ -33,7 +33,7 @@ _srcHash: 2807c2565f672c28d5ad83a2d5af01ea
 
 ## **2. 专属交通：豪华座驾与私人司机**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d1129a44cfaab55741ffa79adc1d3a00.jpg)
+![2. 专属交通：豪华座驾与私人司机](https://images.gobaligo.id/vocus/vocus_d1129a44cfaab55741ffa79adc1d3a00.jpg)
 
 在巴厘岛，交通也可以成为一种享受。我们为您安排**Toyota Alphard**豪华专车，搭配经验丰富的司机，确保您的每一次出行都舒适便捷。无论是机场接送、岛内游览，还是夜间活动，您的专属司机将随时待命，让您无需担心任何细节，专注于享受旅程。
 
@@ -41,7 +41,7 @@ _srcHash: 2807c2565f672c28d5ad83a2d5af01ea
 
 ## **3. 独特体验：深度探索巴厘岛的文化与自然**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d93fd8d9cc495e7efa8f0a9e541ca932.png)
+![3. 独特体验：深度探索巴厘岛的文化与自然](https://images.gobaligo.id/vocus/vocus_d93fd8d9cc495e7efa8f0a9e541ca932.png)
 
 巴厘岛的魅力不仅在于它的自然美景，更在于其深厚的文化底蕴。我们为您安排精通中文的私人导游，带您深入当地村落、参观古老寺庙，并参与传统仪式。此外，您还可以享受私人海滩晚餐，在浪漫的沙滩上品尝美食，或预约高端SPA疗程，让身心彻底放松。如果您对艺术感兴趣，我们还能安排私人舞蹈表演或艺术工作坊，让您深入体验巴厘岛的文化精髓。
 
@@ -49,7 +49,7 @@ _srcHash: 2807c2565f672c28d5ad83a2d5af01ea
 
 ## **4. 美食体验：舌尖上的巴厘岛**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5125801e71f81fd2f4051b69bf458473.jpg)
+![4. 美食体验：舌尖上的巴厘岛](https://images.gobaligo.id/vocus/vocus_5125801e71f81fd2f4051b69bf458473.jpg)
 
 巴厘岛的美食文化丰富多元，从当地特色料理到国际顶级美食，应有尽有。我们为您设计专属的美食之旅，带您品尝最地道的巴厘岛风味，并品尝高级美食餐厅，享受极致的味觉盛宴。
 
@@ -57,7 +57,7 @@ _srcHash: 2807c2565f672c28d5ad83a2d5af01ea
 
 ## **5. 个性化服务：量身定制的专属旅程**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00d1ccc0371b6eba96f9bd5f2b1b6104.jpg)
+![5. 个性化服务：量身定制的专属旅程](https://images.gobaligo.id/vocus/vocus_00d1ccc0371b6eba96f9bd5f2b1b6104.jpg)
 
 每个人的旅行需求都不同，因此我们提供完全个性化的服务，根据您的喜好和需求设计专属行程。无论是浪漫的蜜月之旅、温馨的家庭假期，还是梦幻的海岛婚礼，我们都能为您量身打造。此外，我们的在线客服将随时为您提供支持，确保您的旅程完美无缺。
 

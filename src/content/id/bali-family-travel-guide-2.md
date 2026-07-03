@@ -132,7 +132,7 @@ Bisa cek juga artikel「[21 Barang Wajib Bawa Saat Travel ke Bali](/blog/bali-tr
 
 ### **Sumber Daya Baby Sitter: Nggak Harus Nahan Sendiri**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7f570b4b0f39515ecb5982207e21e909.png)
+![Sumber Daya Baby Sitter: Nggak Harus Nahan Sendiri](https://images.gobaligo.id/vocus/vocus_7f570b4b0f39515ecb5982207e21e909.png)
 
 Banyak orang tua dari Taiwan yang nggak tahu kalau Bali punya industri baby sitter yang cukup matang, banyak keluarga ekspat dan turis yang udah pakai. Kalau kamu pengen sesekali ambil napas, atau butuh ada yang jagain anak saat orang dewasa ada acara, baby sitter di Bali ternyata lebih gampang dicari dari yang kamu bayangin. Gimana cara cari baby sitter? Apa aja yang perlu diperhatikan? Berapa biayanya? Cek artikel khusus ini: 「[Panduan Cari Baby Sitter di Bali: Cara Cari Baby Sitter yang Cocok & Perkiraan Biaya](/blog/bali-nanny-hiring-guide/)」
 

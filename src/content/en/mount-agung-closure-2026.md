@@ -32,7 +32,7 @@ _srcHash: 0a67766e4ce6b56987c15a857af9d90b
 
 If you're planning to climb Mount Agung in Bali during this period, you'll need to pause those plans.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775359906886-agung.jpeg)
+![Planning to climb Mount Agung in April? Read this before boo](https://images.gobaligo.id/images/2026-04/1775359906886-agung.jpeg)
 
 ## Mount Agung closed completely from late March to late April
 

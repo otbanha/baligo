@@ -40,23 +40,23 @@ lang: en
 _srcHash: b57669193f511efc73c74b04b27d7b60
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c62a1ab2c4b39417175e2de5c99ef7b0.jpg)
+![Bali accommodation for under $65 a night!? What's it like to](https://images.gobaligo.id/vocus/vocus_c62a1ab2c4b39417175e2de5c99ef7b0.jpg)
 
 [Melody x TPEMountain 尹行山林](https://www.youtube.com/@melodyxtpemountain) is a YouTuber who shared her experience staying at a unique bamboo hotel in Bali called [Le Sabot Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7003115).
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8fcbe4d9b0ce4a0759443d9a8fbe1762.png)
+![Bali accommodation for under $65 a night!? What's it like to](https://images.gobaligo.id/vocus/vocus_8fcbe4d9b0ce4a0759443d9a8fbe1762.png)
 
 Upon arriving at the bamboo villa, she was captivated by the pond at the entrance filled with plump koi fish, joking that she might accidentally fall in and join them. Inside, she found an open-concept space with no doors, windows, or air conditioning, just an electric fan. The room featured a hammock and a double bed, creating a very relaxing atmosphere.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_31309ad44d7f6fe899c4b724d27d950a.png)
+![Bali accommodation for under $65 a night!? What's it like to](https://images.gobaligo.id/vocus/vocus_31309ad44d7f6fe899c4b724d27d950a.png)
 
 Behind the room was a small balcony planted with lemon trees, adding a touch of greenery. There was also a full-length mirror, something many women dream of. The most unique feature was the toilet and shower area, separated by a movable bamboo wall, giving it a simple, camping-like feel. A small foldable mirror beside the sink added a cute and thoughtful touch.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e111fcde7c749bc6aad43f044d62dd41.png)
+![Bali accommodation for under $65 a night!? What's it like to](https://images.gobaligo.id/vocus/vocus_e111fcde7c749bc6aad43f044d62dd41.png)
 
 At night, Melody was surrounded by the sound of flowing water from the pond and the chirping of insects and birds, falling asleep comfortably in nature's embrace.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_75c7ea229b2049bf0233fdfb6155bade.png)
+![Bali accommodation for under $65 a night!? What's it like to](https://images.gobaligo.id/vocus/vocus_75c7ea229b2049bf0233fdfb6155bade.png)
 
 The next day, Melody visited the villa's pool area, finding it peaceful and charming. She loved this serene hideaway nestled in the jungle. Although it was a bit far from the bustling areas, its unique tranquility made it a worthwhile destination.
 

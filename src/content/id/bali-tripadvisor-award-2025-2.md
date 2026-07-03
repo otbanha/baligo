@@ -22,7 +22,7 @@ _srcHash: ba4f8dd22196437d0b7d408bb642d8a0
 
 Platform travel terkenal Tripadvisor baru aja ngumumin penghargaan '[Travelers' Choice](https://www.tripadvisor.com/TravelersChoice)' 2025, dan Bali berhasil jadi juara pertama se-Asia Tenggara! Ini berkat budaya unik, pura-pura, tarian tradisional, plus pemandangan alam yang bikin speechless. Peringkat ini berdasarkan review dan laporan traveler dari tahun 2023 sampai 2024, yang nunjukin destinasi paling favorit.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b43456d6cb1c1433b4d1bbc93eb1ba7.jpg)
+![Bali Raih Peringkat 1 Tripadvisor Travelers' Choice 2025](https://images.gobaligo.id/vocus/vocus_0b43456d6cb1c1433b4d1bbc93eb1ba7.jpg)
 
 ## Pesona Bali Nggak Ada Lawannya
 

@@ -46,7 +46,7 @@ Many users have reported difficulties during the passport photo upload step. Fir
 3. File size must not exceed **2MB**
 4. Proper composition
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8d4f513b24a0c87fae92aee293c19920.jpg)
+![Key Points in Example 1:](https://images.gobaligo.id/vocus/vocus_8d4f513b24a0c87fae92aee293c19920.jpg)
 
 **Pay special attention to the third point above!** With smartphone cameras becoming increasingly high-resolution, photos taken casually can easily exceed 2MB in size. Whether you're scanning old photos or taking new ones, most will surpass the website's upload limit, resulting in rejection!
 

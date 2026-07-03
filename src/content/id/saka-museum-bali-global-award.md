@@ -24,7 +24,7 @@ _srcHash: 5dd25d9293c0f64c8fd552db4b4a77fe
 
 ## **SAKA Museum Raih Penghargaan Arsitektur Internasional Prix Versailles**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8076762ae5af260562c2e8e6cfde5c76.jpg)
+![SAKA Museum Raih Penghargaan Arsitektur Internasional Prix V](https://images.gobaligo.id/vocus/vocus_8076762ae5af260562c2e8e6cfde5c76.jpg)
 
 Tahun 2025, SAKA Museum yang berlokasi di Jimbaran, Bali, masuk dalam daftar museum terindah di dunia dan menjadi satu-satunya museum dari Indonesia yang terpilih. Penghargaan ini diberikan oleh lembaga asal Prancis, **Prix Versailles**, yang setiap tahunnya menyeleksi bangunan dengan desain terbaik, nilai budaya, dan konsep keberlanjutan.
 
@@ -42,7 +42,7 @@ Direktur museum, Dr. Judith E. Bosnak, mengatakan: "Penghargaan ini membuktikan 
 
 Sejak dibuka pada tahun 2024, SAKA Museum langsung mencuri perhatian. **Majalah TIME** pernah memasukkannya ke dalam daftar "tempat paling worth it untuk dikunjungi di dunia", sementara **Kyoto Global Design Awards** juga memuji inovasi dan konsep arsitektur berkelanjutannya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_68d01b67a39659e0d695d4520b6645f2.jpg)
+![Sorotan Menarik SAKA Museum](https://images.gobaligo.id/vocus/vocus_68d01b67a39659e0d695d4520b6645f2.jpg)
 
 ### **Lokasi dan Suasana**
 
@@ -53,7 +53,7 @@ SAKA berada di dalam **AYANA Resort Bali** yang terkenal, terletak di antara teb
 - **《Kasanga: Pameran Khusus Hari Raya Nyepi》**
   Menampilkan gambaran lengkap hari raya paling sakral di Bali, yaitu Nyepi, melalui pameran interaktif — termasuk upacara, ritual penyucian, dan parade Ogoh-Ogoh di malam hari.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e66e535983024aa2553685842fc80922.jpg)
+![Pameran Budaya](https://images.gobaligo.id/vocus/vocus_e66e535983024aa2553685842fc80922.jpg)
 
 - **《Subak: Sistem Irigasi Kuno Bali》**
   Memperkenalkan sistem irigasi Subak yang masuk dalam Warisan Dunia UNESCO, mengungkap hubungan simbiosis antara sawah, pura, dan komunitas.
@@ -72,7 +72,7 @@ Selain ruang pameran, SAKA Museum juga punya teater, perpustakaan, ruang pertemu
 - Harga tiket: Dewasa Rp300.000, Anak-anak Rp150.000
 - Tamu AYANA Resort bisa masuk gratis, pengunjung lain bisa cek promo di website resmi.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_29ce3f0028d7e4ba68a537611585a10f.jpg)
+![Harga Tiket & Jam Buka](https://images.gobaligo.id/vocus/vocus_29ce3f0028d7e4ba68a537611585a10f.jpg)
 
 **Referensi Cepat:**
 
@@ -96,7 +96,7 @@ Sementara ini pake bahasa Inggris dan Indonesia aja, tapi beberapa pameran udah 
 
 Cocok banget! Pamerannya interaktif, jadi anak-anak bisa belajar sambil seru-seruan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0edcd294343232378ae08cd9028fd507.jpg)
+![Museum ini cocok buat anak-anak?](https://images.gobaligo.id/vocus/vocus_0edcd294343232378ae08cd9028fd507.jpg)
 
 ### **Ada oleh-oleh yang bisa dibeli?**
 

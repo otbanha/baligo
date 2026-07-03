@@ -153,7 +153,7 @@ Kalau kamu lagi di Amed dan pengin cari tempat buat santai sambil ngopi enak, **
 
 ### **Rekomendasi Makanan Premium: Pengalaman Makan di Asmat Restaurant**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774608192068-asmat_restaurant.jpg)
+![Rekomendasi Makanan Premium: Pengalaman Makan di Asmat Resta](https://images.gobaligo.id/images/2026-03/1774608192068-asmat_restaurant.jpg)
 
 Makan di **Asmat Restaurant (Asmat Restaurant at Mathis Lodge Amed)** yang ada di lereng bukit Amed itu bukan cuma soal isi perut, tapi benar-benar pesta buat mata dan lidah. Restonya ada di antara pegunungan dan pantai, pemandangannya luas banget — cocok banget buat kencan atau rayain anniversary. Paket dinner romantis spesial bikin kamu hanyut saat langit senja memerah, sambil nikmatin hidangan Western yang elegan dan cocktail segar. Suasana gunung-laut menyatu, setiap suapan terasa seperti perpanjangan cinta.
 
@@ -227,7 +227,7 @@ Kami rekomendasi banget supir lokal **Ketut Juna**, dia asli Amed dan spesialis 
 - **Atur itinerary ke Sunset Point, Lempuyang Heaven's Gate, Tirta Gangga, dll.**
 - **Reservasi/antar jemput naik Jukung lihat sunrise, mancing, dll.**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c77b7d525e0ff7d6cce396d75da372e.jpg)
+![Transportasi](https://images.gobaligo.id/vocus/vocus_1c77b7d525e0ff7d6cce396d75da372e.jpg)
 
 Baik soal transportasi, saran itinerary, atau perubahan rencana mendadak, dia selalu siap bantu. Beneran partner lokal yang super bisa diandalkan. Kalau kamu mau eksplor Amed secara mendalam, Ketut tuh kunci biar perjalananmu mulus.
 
@@ -255,7 +255,7 @@ Karena Amed dan Tulamben agak terpencil, infrastrukturnya nggak selengkap kawasa
 
 Semua spot yang disebut udah kami kumpulin di "Peta Panduan Amed/Tulamben", [klik di sini](https://www.google.com/maps/d/u/0/edit?mid=1IrHQ5679D68HUAXlXWyqhgnvITAONfE&usp=sharing) buat zoom/simpan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9422f8946b1dbb2f0592bc5416a32b91.png)
+![Peta Panduan](https://images.gobaligo.id/vocus/vocus_9422f8946b1dbb2f0592bc5416a32b91.png)
 
 ***
 
@@ -281,7 +281,7 @@ Kebanyakan restoran bisa menyediakan menu vegetarian, tapi pilihannya terbatas. 
 
 Kalau kamu punya waktu lebih, wajib banget mampir ke tiga spot cantik di sekitarnya:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ed589a98d59d6d3d1de01faf3eb0b822.jpg)
+![FAQ Pertanyaan yang Sering Ditanyakan](https://images.gobaligo.id/vocus/vocus_ed589a98d59d6d3d1de01faf3eb0b822.jpg)
 
 - **Pura Lempuyang (Sky Gate)** : Terletak di lereng gunung, terkenal dengan gerbang suci dan latar belakang gunung berapi yang megah. Surga banget buat pecinta fotografi.
 - **Taman Tirta Gangga** : Bekas taman air kerajaan, dengan patung batu dan ikan koi yang bikin pemandangan memukau. Tempat asyik buat jalan-jalan dan foto-foto.

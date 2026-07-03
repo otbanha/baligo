@@ -21,7 +21,7 @@ _srcHash: 3075321664a757a0cebcbbe14c8ef50b
 
 ## **Paramount Pictures Comes to Bali｜Kerthi Bali Semesta Park Set to Open in 2026**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6e1514a7e3f77a9ddd98d7ba1560bd96.jpg)
+![Paramount Pictures Comes to Bali｜Kerthi Bali Semesta Park Se](https://images.gobaligo.id/vocus/vocus_6e1514a7e3f77a9ddd98d7ba1560bd96.jpg)
 
 Bali is stepping into a new era of tourism. Located in the **Jembrana Regency** of West Bali, the **Kerthi Bali Semesta Park (KBS Park)** project is now in its main construction phase and is expected to **officially open in 2026**. This theme park is a collaboration between **Paramount Pictures** and **Indonesian company PT Kios Ria Kreas (KIOS)**, aiming to merge international entertainment brands with Balinese culture, making it Indonesia's first integrated theme park combining film and culture.
 
@@ -29,7 +29,7 @@ Bali is stepping into a new era of tourism. Located in the **Jembrana Regency** 
 
 ## **Park Theme: Hollywood Entertainment × Balinese Legends Perfectly Blended**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2bdc5bdefc0003786f5f2c91e844831b.jpg)
+![Park Theme: Hollywood Entertainment × Balinese Legends Perfe](https://images.gobaligo.id/vocus/vocus_2bdc5bdefc0003786f5f2c91e844831b.jpg)
 
 Kerthi Bali Semesta Park is designed with two main themed areas:
 
@@ -57,7 +57,7 @@ Jembrana Regent **Kembang Hartawan** stated: "Kerthi Bali Semesta Park is a symb
 
 ## **Gilimanuk-Mengwi Highway: The Lifeline Connecting Future Tourism**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d34afd400c1c24665aedfd62011a78c5.jpg)
+![Gilimanuk-Mengwi Highway: The Lifeline Connecting Future Tou](https://images.gobaligo.id/vocus/vocus_d34afd400c1c24665aedfd62011a78c5.jpg)
 
 To support the massive tourism demand and infrastructure, the Indonesian government is simultaneously advancing the **Gilimanuk-Mengwi Highway (part of the Jagat Kerthi Bali Project)**, with **over 20% of preliminary work already completed**.
 

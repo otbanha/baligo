@@ -22,7 +22,7 @@ lang: zh-hk
 _srcHash: c62bc1e79300085638e511f5b79ea25e
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e810a0ebad0e132e5fd1ca4ccffc859.png)
+![去峇里島住呢度最方便，但係最唔推薦！峇里島庫塔區有咩優缺點？](https://images.gobaligo.id/vocus/vocus_3e810a0ebad0e132e5fd1ca4ccffc859.png)
 
 峇里島係一個好靚嘅度假勝地，有好多令人嚮往嘅沙灘、文化景點同美食體驗。不過，揀住宿嘅時候，你唔單止要考慮風景同設施，仲要考慮交通便利性同周邊環境。
 

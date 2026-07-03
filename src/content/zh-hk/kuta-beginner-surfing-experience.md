@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: 4f48c2b7b2dd28cf56e07984838cc87b
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7c237f65b50ad4d7ef93af48af7f45b0.jpg)
+![峇里島庫塔衝浪推薦｜Bali Kuta Surfing for Beginner｜小傑嘅峇里島衝浪初體驗｜內有衝浪優惠券](https://images.gobaligo.id/vocus/vocus_7c237f65b50ad4d7ef93af48af7f45b0.jpg)
 
 初試峇里島庫塔衝浪：冒險與成長嘅奇妙旅程
 

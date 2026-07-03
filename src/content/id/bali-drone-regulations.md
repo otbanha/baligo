@@ -52,7 +52,7 @@ Mau bawa drone ke Bali buat motret sawah yang indah, sunset di pantai, tapi khaw
 
 ## 1. Apakah Saya Perlu Izin?
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776665614492-screenshot_2026-04-20-13-11-40-656_md.obsidian-edit.jpg)
+![1. Apakah Saya Perlu Izin?](https://images.gobaligo.id/images/2026-04/1776665614492-screenshot_2026-04-20-13-11-40-656_md.obsidian-edit.jpg)
 
 **Kabar baik**: 99% turis masuk kategori "nggak perlu izin"!
 
@@ -98,7 +98,7 @@ Buat satu drone buat pribadi, bea cukai biasanya nggak ribet. Tapi wajib:
 - Perhatiin musim layang-layang tradisional (terutama Juni-Agustus)
 - Sangat disarankan beli asuransi drone (buat jaga-jaga kalau jatuh ke laut atau kena orang)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776664958144-20260420_055753_0_utc_0.png)
+![5. Tips terbang di Bali biar makin lancar dan keren](https://images.gobaligo.id/images/2026-04/1776664958144-20260420_055753_0_utc_0.png)
 
 ## FAQ Tanya Jawab
 

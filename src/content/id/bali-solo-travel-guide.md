@@ -27,7 +27,7 @@ Kamu lagi mikir buat solo trip ke Bali? Gue kasih tahu dulu: **ini ide yang kere
 
 Bali adalah salah satu destinasi favorit gue di Asia Tenggara buat solo travel. Aman, pariwisatanya matang, harga masuk akal, dan 'sendirian' di sini nggak pernah canggung. Mau santai-santai aja atau cari teman baru, Bali bisa penuhi semuanya.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775350592267-mixcollage-05-apr-2026-07-55-am-578.jpg)
+![Tips Solo Travel ke Bali: Surga untuk Sendirian, Tetap Seru ](https://images.gobaligo.id/images/2026-04/1775350592267-mixcollage-05-apr-2026-07-55-am-578.jpg)
 
 Ini dia tips praktis dari pengalaman pribadi gue buat solo traveler:
 
@@ -35,7 +35,7 @@ Ini dia tips praktis dari pengalaman pribadi gue buat solo traveler:
 
 ## 1. Nginep di Mana? Pilih Daerah yang Tepat Itu Penting
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775351493354-mixcollage-05-apr-2026-08-11-am-1312.jpg)
+![1. Nginep di Mana? Pilih Daerah yang Tepat Itu Penting](https://images.gobaligo.id/images/2026-04/1775351493354-mixcollage-05-apr-2026-08-11-am-1312.jpg)
 
 Bali itu luas, dan setiap daerah punya vibe yang beda banget:
 
@@ -91,7 +91,7 @@ Yang perlu diperhatikan: beberapa restoran mewah atau beach club kurang suka kal
 
 ## 四、Aman nggak sih? Curhatan jujur buat solo traveler
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775351807418-3e530ee91368827f35ce3d2046220e06.jpg)
+![四、Aman nggak sih? Curhatan jujur buat solo traveler](https://images.gobaligo.id/images/2026-04/1775351807418-3e530ee91368827f35ce3d2046220e06.jpg)
 
 Bali secara keseluruhan cukup aman, tapi ada beberapa hal yang perlu diperhatikan:
 
@@ -111,7 +111,7 @@ Bali secara keseluruhan cukup aman, tapi ada beberapa hal yang perlu diperhatika
 
 Datang sendirian bukan berarti harus jalan sendiri terus.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775352447434-54bd8eecd33bfc05d58f6767e3816f0a.jpg)
+![5. Hal Terbaik dari Solo Travel: Kenalan Baru](https://images.gobaligo.id/images/2026-04/1775352447434-54bd8eecd33bfc05d58f6767e3816f0a.jpg)
 
 - **Nginap di hostel**: Di Ubud dan Canggu banyak hostel keren banget, ada ruang bersama, sarapan gratis, kelas yoga, coworking space… gampang banget ngobrol. Rekomendasi: Ubud Raya, Puri Garden, Tribal Bali.
 - **Ikut day trip**: Misalnya naik Gunung Batur lihat sunrise, snorkeling, kelas masak Thailand. Biasanya banyak juga solo traveler di grup.
@@ -146,7 +146,7 @@ Makna solo traveling bukan soal berapa banyak tempat yang kamu kunjungi, tapi se
 
 Bali bakal ngajarin kamu dengan lembut: sendirian pun, kamu bisa tetap utuh.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775353631404-10819a3acdc4d57f5f5a684e1dfea4ed.jpg)
+![7. Pengingat Terakhir: Santai Aja](https://images.gobaligo.id/images/2026-04/1775353631404-10819a3acdc4d57f5f5a684e1dfea4ed.jpg)
 
 > Referensi catatan solo traveling: [🌺 8 Hari Berpetualang Sendiri di Bali - Pengalaman Solo Travel Perempuan 🌺](/blog/bali-solo-female-travel/)
 

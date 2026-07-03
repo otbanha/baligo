@@ -24,7 +24,7 @@ _srcHash: e13a0925bb2db98903d667536c3ef21f
 
 ### Mulai Februari 2024, selain biaya visa, turis yang ke Bali harus bayar pajak wisata sebesar USD$10 (atau 150.000 IDR). Tapi, banyak banget traveler yang nggak patuh, sampai pemerintah setempat bahas kemungkinan ngasih hukuman buat pelanggar. Salah satu usulannya adalah melarang turis yang belum bayar pajak masuk ke Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_858d130a6da34f4a9f0e9e9766d18106.jpg)
+![Mulai Februari 2024, selain biaya visa, turis yang ke Bali h](https://images.gobaligo.id/vocus/vocus_858d130a6da34f4a9f0e9e9766d18106.jpg)
 
 ---
 
@@ -58,7 +58,7 @@ Pemerintah Provinsi Bali sama DPRD rencananya mau revisi aturan pajak wisata, fo
 
 5. **Menghapus Skema Pajak Hotel**:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ec2b84d7b61087b5c15202af5110313f.jpg)
+![Rencana Pemerintah untuk Memperketat Penerapan](https://images.gobaligo.id/vocus/vocus_ec2b84d7b61087b5c15202af5110313f.jpg)
 
 ---
 
@@ -86,7 +86,7 @@ Sampai sekarang, detail penggunaan dana belum diumumkan, tapi pajak ini rencanan
 
 ## 📩 **Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Bali!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Ba](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

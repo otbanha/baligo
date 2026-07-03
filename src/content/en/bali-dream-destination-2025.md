@@ -31,7 +31,7 @@ _srcHash: 200f517e1a3643e313db8f5ce785b615
 
 According to Go2Africa's survey, Bali tops the list as the most popular dream destination with over 2.28 million searches.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d4ba57e219f9b6e16abe1a7812239161.jpg)
+![Bali: Search Volume Exceeds 2.28 Million](https://images.gobaligo.id/vocus/vocus_d4ba57e219f9b6e16abe1a7812239161.jpg)
 
 Analysts note that Bali offers diverse attractions, catering to honeymooners, adventure seekers, cultural enthusiasts, family vacationers, kids, and professional surfers alike. Additionally, Bali is regarded as a spiritual hub, attracting travelers focused on wellness and inner exploration.
 
@@ -145,7 +145,7 @@ For short-term tourism, travelers from certain countries can enjoy visa-free ent
 
 ## 📩 **Join the "Bali Travel Guide" Now and Become a Bali Travel Expert!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Join the "Bali Travel Guide" Now and Become a Bali Travel Ex](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **By subscribing for free, you'll get:**
 

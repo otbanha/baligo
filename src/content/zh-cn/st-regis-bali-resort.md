@@ -29,7 +29,7 @@ _srcHash: 6d596115b25a3f29ef05a0527a1718ec
 
 如果你梦想中的假期包括白沙滩、私人管家服务和世界级设施，那么**瑞吉度假酒店（The St. Regis Bali Resort）**绝对不容错过！这座位于巴厘岛努沙杜瓦的五星级度假村，结合了巴厘岛的自然美景和奢华设计，让每位旅客都能在此享受无与伦比的假期体验。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b35d933791f261fb139da3160e10166e.jpg)
+![巴厘岛努沙杜瓦的顶级奢华享受](https://images.gobaligo.id/vocus/vocus_b35d933791f261fb139da3160e10166e.jpg)
 
 ## 🌴 **绝美设施与奢华住宿**
 
@@ -41,17 +41,17 @@ _srcHash: 6d596115b25a3f29ef05a0527a1718ec
 
 无论是蜜月旅行还是家庭度假，瑞吉都能提供最适合的选择，满足不同旅客的需求。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_24068cb8566c5572d784452c327cde74.jpg)
+![绝美设施与奢华住宿](https://images.gobaligo.id/vocus/vocus_24068cb8566c5572d784452c327cde74.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a4a0a6ff12e86a7133af37499971fa98.jpg)
+![绝美设施与奢华住宿](https://images.gobaligo.id/vocus/vocus_a4a0a6ff12e86a7133af37499971fa98.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff051eea68efba48b8ae356b37010901.jpg)
+![绝美设施与奢华住宿](https://images.gobaligo.id/vocus/vocus_ff051eea68efba48b8ae356b37010901.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_420b402cbfd779692e5dca0867f21465.jpg)
+![绝美设施与奢华住宿](https://images.gobaligo.id/vocus/vocus_420b402cbfd779692e5dca0867f21465.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a07284ae38a2efcd2d85df1b0e9c3bf3.jpg)
+![绝美设施与奢华住宿](https://images.gobaligo.id/vocus/vocus_a07284ae38a2efcd2d85df1b0e9c3bf3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_01b7b7da182832bf6dc6d20a401c98c3.jpg)
+![绝美设施与奢华住宿](https://images.gobaligo.id/vocus/vocus_01b7b7da182832bf6dc6d20a401c98c3.jpg)
 
 ## 🍴 **无与伦比的餐饮体验**
 
@@ -74,7 +74,7 @@ _srcHash: 6d596115b25a3f29ef05a0527a1718ec
 
 距离巴厘国际机场仅**20分钟车程**，瑞吉度假酒店提供**机场接送服务**，旅客可轻松抵达。同时，这里距离努沙杜瓦的购物中心与文化景点也非常近，方便您安排一日游或购物行程。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dc9cbcf64a780e72e199376c07467195.jpg)
+![便利的交通与位置](https://images.gobaligo.id/vocus/vocus_dc9cbcf64a780e72e199376c07467195.jpg)
 
 ## 🎉 **周边景点推荐**
 
@@ -93,7 +93,7 @@ _srcHash: 6d596115b25a3f29ef05a0527a1718ec
 
 ## 住客真实评论
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_36a94976bb81b6063d8b0a954e6fc88d.jpg)
+![住客真实评论](https://images.gobaligo.id/vocus/vocus_36a94976bb81b6063d8b0a954e6fc88d.jpg)
 
 在竞争激烈的度假区域中，圣瑞吉斯巴厘岛度假村以卓越的服务脱颖而出。从机场接待到每一位我们接触过的员工，他们的服务水平让人叹为观止。其中最让人印象深刻的是我们的管家Tu Adi，他的贴心和专业无可挑剔，我们旅游至今从未遇过这样细致入微的服务。其他管家如Adi和Manzo（希望名字没记错！）也表现得非常出色。礼宾部的绅士与女士更是展现出无与伦比的专业。
 
@@ -104,7 +104,7 @@ _srcHash: 6d596115b25a3f29ef05a0527a1718ec
 随着入住时间的推移，我们越来越爱上这里，无论是美食还是贴心服务，都让人流连忘返。感谢酒店提供的Titanium会员升等到双卧室别墅，我们一定会再回来！
   ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_112c50d7aa2f44a562717a1b39d29b08.jpg)
+![住客真实评论](https://images.gobaligo.id/vocus/vocus_112c50d7aa2f44a562717a1b39d29b08.jpg)
 
 这次旅行的开端是先生的“乌龙”订房，把4000美金误当作129美金，结果让我们迎来一场如国王般的假期，简直哭笑不得🤣！这次体验可说是我们人生中最豪华的假期。
 
@@ -113,7 +113,7 @@ _srcHash: 6d596115b25a3f29ef05a0527a1718ec
 早餐更是惊艳，是我在五星级酒店中吃过最顶级的一顿，从龙虾到牛小排，一早就能享用如此奢华的美味，简直不敢相信自己的味蕾！🤤这场意外的奢华之旅，将成为我们家庭永远难忘的回忆。
   ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1a3671ae999e6232047124818bdd0cc9.jpg)
+![住客真实评论](https://images.gobaligo.id/vocus/vocus_1a3671ae999e6232047124818bdd0cc9.jpg)
 
 我们全家来到巴厘岛度假，入住圣瑞吉斯度假村的经历令人无比满足！我们选择了一间拥有私人泳池的别墅，直接通往沙滩，仿佛置身梦境。别墅空间宽敞，设施一流，无论是设计还是细节都散发着优雅的气息。
 
@@ -125,7 +125,7 @@ _srcHash: 6d596115b25a3f29ef05a0527a1718ec
 
 ## 更多努沙杜瓦五星度假村介绍
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5ba01ec2194c29084a8317809e7a432f.jpg)
+![更多努沙杜瓦五星度假村介绍](https://images.gobaligo.id/vocus/vocus_5ba01ec2194c29084a8317809e7a432f.jpg)
 
 **努沙杜瓦是巴厘岛南部一个著名的高级度假胜地，以其宁静的环境、洁白的沙滩和世界级的奢华体验闻名。** 如果您正在寻找奢华五星级度假村，努沙杜瓦提供了众多顶尖选择，从专属私人海滩到精致的餐饮与水疗，应有尽有。
 

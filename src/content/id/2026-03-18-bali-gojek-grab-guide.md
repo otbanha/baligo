@@ -21,13 +21,13 @@ _srcHash: f76c1baec9b201e9b63d82ced936a8a1
 
 [🚗 Mau estimasi tarif Gojek? Klik di sini](/map/gojek-fare/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
+![【Bali Apps Wajib】Panduan Lengkap Panggil Gojek / Grab (Denga](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
 
 ## Cara Pakai Gojek / Grab
 
 Pas liburan di **Bali**, Gojek dan Grab adalah dua 'aplikasi nasional' yang wajib banget. Fungsinya dan tampilannya mirip banget, kayak dua versi brand berbeda dari Uber.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a3735af38f1bb9994a7ec1ec8fafe01e.png)
+![Cara Pakai Gojek / Grab](https://images.gobaligo.id/vocus/vocus_a3735af38f1bb9994a7ec1ec8fafe01e.png)
 
 Ini panduan step-by-step yang udah aku siapin biar kamu cepat paham:
 
@@ -60,7 +60,7 @@ Aplikasi mana pun yang kamu pakai, cara pakainya kurang lebih sama:
 
 **Langkah Keempat: Komunikasi dengan Supir**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_74b7470a20e1026529e08d0e3f83681e.png)
+![Cara Pakai Gojek / Grab](https://images.gobaligo.id/vocus/vocus_74b7470a20e1026529e08d0e3f83681e.png)
 
 - **Chat Bawaan:** Dua aplikasi punya fitur chat, bisa kirim pesan atau foto buat kasih tahu lokasi pasti.
 - **Fitur Translate:** Grab punya terjemahan otomatis, pesan Bahasa Indonesia dari supir bakal otomatis ke Bahasa Inggris/Mandarin; Gojek mungkin perlu komunikasi Bahasa Inggris sederhana.
@@ -94,7 +94,7 @@ Biar kamu cepat paham, aku rangkum informasinya di bawah ini:
 ### 🚗 Dampak Nyata buat Wisatawan & Tips
 Larangan memang ada, tapi dampaknya ke wisatawan nggak terlalu besar. Kamu tetap bisa jalan-jalan dengan lancar pakai cara ini:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_11b747be41152ceaf2c885a63ca4e272.jpg)
+![Dampak Nyata buat Wisatawan & Tips](https://images.gobaligo.id/vocus/vocus_11b747be41152ceaf2c885a63ca4e272.jpg)
 
 1. Area utama masih aman: Di bandara, hotel-hotel, dan jalan biasa, kamu masih bisa pakai aplikasi Grab dan Gojek dengan normal. Harganya transparan, cocok buat perjalanan pendek.
 2. Hindari tempat bertanda: Kalau di pintu masuk tempat wisata, pura, atau restoran ada papan larangan "Dilarang Parkir/Jemput Ojek Online (Online Taxi)", jangan pesan atau naik di situ (lihat gambar di atas).

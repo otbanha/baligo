@@ -24,7 +24,7 @@ _srcHash: 51cbd4e726fcc80637174c71b9481bb4
 
 每年，国际权威旅游杂志《Travel + Leisure》都会公布「亚太区最佳岛屿 Top 10」，而在2025年的最新榜单中，**巴厘岛（Bali）毫无悬念地夺下第一名宝座！**🎉
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e72e14b3875f69090dbbfa6e37a9613d.jpg)
+![巴厘岛再夺冠！2025年亚洲最佳岛屿排行榜出炉：巴厘岛荣获第一](https://images.gobaligo.id/vocus/vocus_e72e14b3875f69090dbbfa6e37a9613d.jpg)
 
 这座来自印尼的小岛，早已不是单纯的度假地点，而是让人一去再去、再访仍惊艳的灵感之地。这次一起上榜的还有泰国的苏梅岛与普吉岛、越南的富国岛、菲律宾的巴拉望与锡亚高岛等知名旅游胜地，但巴厘岛依然脱颖而出。那么，它的魅力到底在哪里？
 
@@ -34,7 +34,7 @@ _srcHash: 51cbd4e726fcc80637174c71b9481bb4
 
 ### ✨ **文化深度与宗教氛围**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8f9223a347e8ba9613072bda21eab4b8.jpg)
+![文化深度与宗教氛围](https://images.gobaligo.id/vocus/vocus_8f9223a347e8ba9613072bda21eab4b8.jpg)
 
 每天献花的身影、甘美朗音乐的声响、奥黛丽赫本也曾拜访的圣泉寺……巴厘岛保留着一种「活的文化」，信仰渗透在生活中，每一处转角都是灵性与美的交会。
 
@@ -46,7 +46,7 @@ _srcHash: 51cbd4e726fcc80637174c71b9481bb4
 
 ### ✨ **多样化的旅游体验**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1046cca8c4ba0f31d7ddd0049796210e.jpg)
+![多样化的旅游体验](https://images.gobaligo.id/vocus/vocus_1046cca8c4ba0f31d7ddd0049796210e.jpg)
 
 从乌布的瑜伽与静心，到水明漾的时尚精品店、金巴兰的海鲜夕阳晚餐，再到蓝梦岛浮潜与T岛（Gili T）看海龟，每个区域都是一种全然不同的旅行节奏。无论你是背包客、亲子旅人、蜜月情侣，都能找到属于自己的完美角落。
 
@@ -56,13 +56,13 @@ _srcHash: 51cbd4e726fcc80637174c71b9481bb4
 
 ### ✨ **与旅人连结的温度**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5864bc57f716085fbac0e64accaefd57.jpg)
+![与旅人连结的温度](https://images.gobaligo.id/vocus/vocus_5864bc57f716085fbac0e64accaefd57.jpg)
 
 巴厘岛从来不只是风景漂亮，它最迷人的地方，是人。从亲切的酒店前台、幽默的包车司机，到和在地家庭一起学做供品，这座岛给你的，不是「服务」，而是一种真诚的「连结」。
 
 ### ✨ **梦幻的住宿选择**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3dcf1ef7fcaf08a41535a4bc7fedbd8f.jpg)
+![梦幻的住宿选择](https://images.gobaligo.id/vocus/vocus_3dcf1ef7fcaf08a41535a4bc7fedbd8f.jpg)
 
 你可以住进被稻田环绕的私人Villa、充满波希米亚风情的精品旅店，也能选择悬崖边无边泳池的奢华度假村。巴厘岛的住宿不只是休息的地方，它本身就是旅行的亮点之一。每一间酒店、每一间民宿，仿佛都在讲述一段热带岛屿的梦。
 
@@ -70,7 +70,7 @@ _srcHash: 51cbd4e726fcc80637174c71b9481bb4
 
 ### ✨ **独一无二的景点**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_48652f07525b12025b37dac7c1d16d16.jpg)
+![独一无二的景点](https://images.gobaligo.id/vocus/vocus_48652f07525b12025b37dac7c1d16d16.jpg)
 
 从天空之门（Lempuyang Temple）的仙境视角，到Tegallalang梯田的壮丽视野，再到乌鲁瓦图的悬崖寺庙与火舞表演，这些景点不仅是打卡美拍，更承载着巴厘岛的地貌奇观与文化记忆。
 

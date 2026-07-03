@@ -35,7 +35,7 @@ _srcHash: 7f9be073f53d8674cc4d1e70ae74b712
 
 According to the latest announcement from the Indonesian Directorate General of Immigration, whether your Indonesian eVisa/e-VoA can be modified after application and issuance **depends on the field in which the error occurred**.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7fbe71f8afe8094370bc8e00d775dc60.png)
+![Please Note the Latest Regulations:](https://images.gobaligo.id/vocus/vocus_7fbe71f8afe8094370bc8e00d775dc60.png)
 
 ## **Critical Data Errors: Cannot Be Modified, Must Reapply**
 
@@ -67,7 +67,7 @@ According to the Immigration Bureau, in such cases, you **may still be allowed**
 3. **Non-Critical Data Error:** If the error is in secondary information like sex or place of birth, you can assess the risk. While the authorities indicate it may still be usable, for peace of mind—especially if your schedule is tight or you have important business arrangements—it is recommended to reapply.
 4. **Contact Official Channels:** If you have any questions, it is advisable to seek assistance directly through the official contact methods of the Indonesian Immigration Bureau. However, please note that, according to current regulations, they cannot modify critical data on an already issued eVisa.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ee608e06a5095bab9988e48785dd299.png)
+![Summary of Steps to Take](https://images.gobaligo.id/vocus/vocus_6ee608e06a5095bab9988e48785dd299.png)
 
 ## **Important Reminders:**
 

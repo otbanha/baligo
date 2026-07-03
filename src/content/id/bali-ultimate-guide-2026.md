@@ -306,7 +306,7 @@ Hindari waktu-waktu ini, kamu bisa hemat 1/3 biaya tiket pesawat dan nggak perlu
 
 ### 14. Proses yang Benar dari Turun Pesawat hingga Keluar Bandara
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778988530785-_5.png)
+![14. Proses yang Benar dari Turun Pesawat hingga Keluar Banda](https://images.gobaligo.id/images/2026-05/1778988530785-_5.png)
 
 **Jangan asal jalan, ikuti urutan ini:**
 

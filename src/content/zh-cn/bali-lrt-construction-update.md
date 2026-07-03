@@ -30,7 +30,7 @@ _srcHash: b0ae2bfed720973476bb40d96a2f2b60
 
 ## 项目阶段
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c2b672737b7461372de346e8ee4c0706.jpg)
+![项目阶段](https://images.gobaligo.id/vocus/vocus_c2b672737b7461372de346e8ee4c0706.jpg)
 
 ### 第一阶段：机场至库塔
 

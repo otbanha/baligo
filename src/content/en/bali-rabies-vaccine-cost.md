@@ -22,7 +22,7 @@ lang: en
 _srcHash: e7ed214b40695e00714f8d1e8588dc59
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_59d05b720539abbe8811f51ddbca8203.jpg)
+![Bali Travel Horror: Taiwanese Tourist Bitten by Dog, Rabies ](https://images.gobaligo.id/vocus/vocus_59d05b720539abbe8811f51ddbca8203.jpg)
 
 [Our community member Mr. Guo](https://www.facebook.com/share/p/19Uc2bARQY/) recently shared his personal experience. He was bitten twice by a stray dog on the streets of Kuta, a popular spot in Bali, and immediately rushed to the hospital for emergency shots.
 
@@ -82,7 +82,7 @@ According to data from Bali's health authorities, as of now:
 - **90% were caused by dogs**
 - **268 people have been confirmed infected**, with **5 fatalities**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b133111133db257eb753f27f250e9fb.jpg)
+![Latest Outbreak Alert: Rabies Cases Surge in Bali! 13 People](https://images.gobaligo.id/vocus/vocus_3b133111133db257eb753f27f250e9fb.jpg)
 
 ### Bali authorities urge:
 

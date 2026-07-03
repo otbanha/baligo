@@ -38,7 +38,7 @@ _srcHash: bf33bc37c3d9a2095f2718f0b437c479
 
 结果就看到了这一幕...
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7a0749e55a6adfe7ad66dfd5d10f8945.jpg)
+![寻找的过程](https://images.gobaligo.id/vocus/vocus_7a0749e55a6adfe7ad66dfd5d10f8945.jpg)
 
 ## 被「和谐」的结果
 

@@ -27,7 +27,7 @@ _srcHash: f5dbb49b6ba162ed7788f0638802ab5e
 
 Most Bali enthusiasts have heard of 'Nyepi,' a special annual day on the island. However, few are aware of the more mysterious 'Nyepi Laut' (Marine Silence Day). This year, Nyepi Laut falls on October 18th, meaning travelers planning trips to Bali, Nusa Penida, Ceningan Island, and Lembongan Island should review their schedules carefully to avoid disruptions.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a2a7c26b85cb99ddd485b2133702d2e2.png)
+![Bali's Cultural Festivals May Affect Travel Plans on October](https://images.gobaligo.id/vocus/vocus_a2a7c26b85cb99ddd485b2133702d2e2.png)
 
 ## **What is Marine Silence Day?**
 
@@ -55,7 +55,7 @@ Although 'Ocean Silence Day' doesn’t feature large-scale parades like Bali’s
 
 Starting early on October 19, all water activities will gradually return to normal, and boat services, snorkeling, diving, and other tourist activities will resume. Therefore, travelers planning these activities on the 18th should consider adjusting their itineraries to avoid this sacred holiday.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5ed269a843a5f1ff7a8651552695af98.png)
+![When Will Normalcy Resume?](https://images.gobaligo.id/vocus/vocus_5ed269a843a5f1ff7a8651552695af98.png)
 
 Further Reading: [Bali - Nusa Penida Complete Guide: Maps, Ferries, Accommodation, Transportation, Private Tours, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
 
@@ -97,7 +97,7 @@ If you're planning a trip to Bali in 2025, don't miss our comprehensive '[2025 I
 
 📩 **Join the 'Bali Travel Guide' Blog Now and Become a Bali Travel Expert!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Sign Up for Our Blog](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **By subscribing for free, you'll get:**
 

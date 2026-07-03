@@ -57,7 +57,7 @@ _srcHash: 8febd28eea3c045d27ed05a74560ad43
 
 **价格**：每人 Rp 427,900
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5f7f7fb805c00c79b0e78731b462ad1e.png)
+![下午茶：Writers Bar 的优雅时光](https://images.gobaligo.id/vocus/vocus_5f7f7fb805c00c79b0e78731b462ad1e.png)
 
 ▶[预订巴厘岛莱佛士用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1117521&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F167012-dining-experience-at-raffles-bali%2F)
 
@@ -65,9 +65,9 @@ _srcHash: 8febd28eea3c045d27ed05a74560ad43
 
 想要在海风与阳光下放松享受美食，**Loloan Beach Bar & Grill** 是绝佳选择。无边际泳池边，主厨以新鲜渔获与木柴烤炉呈现丰盛佳肴。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb74fe66b32c4fa87938a3d5e72d1255.jpg)
+![午餐：Loloan Beach Bar & Grill 的池畔风味](https://images.gobaligo.id/vocus/vocus_eb74fe66b32c4fa87938a3d5e72d1255.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a38b38d62b4c2c91f42cd13257bd62f4.png)
+![午餐：Loloan Beach Bar & Grill 的池畔风味](https://images.gobaligo.id/vocus/vocus_a38b38d62b4c2c91f42cd13257bd62f4.png)
 
 **三道式午餐套餐**：
 

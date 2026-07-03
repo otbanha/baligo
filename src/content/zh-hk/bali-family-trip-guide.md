@@ -50,11 +50,11 @@ AI示意圖
 
 經過長途飛行，我哋順利降落峇里島。過關流程比預期中更加迅速，拎完行李之後，就同事先預約嘅包車司機會合。架車駛離機場嘅喧嘩，沿途嘅景色逐漸由現代建築轉為綠油油嘅田野同精緻嘅神龕，提醒我哋已經真正踏入呢座「諸神之島」。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_872fd38d85050291bdc0602b42d36dd9.jpg)
+![第一日：抵達烏布，入住 Villa 嘅悠閒序幕](https://images.gobaligo.id/vocus/vocus_872fd38d85050291bdc0602b42d36dd9.jpg)
 
 抵達烏布預訂嘅 **Villa** 時，旅途嘅疲憊瞬間被眼前嘅景色洗去。Villa 隱身於一片綠意之中，擁有私人泳池同開闊嘅發呆亭。小朋友一見到泳池就歡呼起嚟，大人們就忙住卸低行李，急不及待咁沖壺茶，坐喺涼亭度感受烏布特有嘅寧靜空氣。夜晚，喺蟲鳴蛙叫嘅天然交響樂中，我哋結束咗輕鬆愜意嘅第一日，為接落嚟嘅旅程養精蓄銳。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fc948ca985ea8069ac9dd4b23dbc3d0e.jpg)
+![第一日：抵達烏布，入住 Villa 嘅悠閒序幕](https://images.gobaligo.id/vocus/vocus_fc948ca985ea8069ac9dd4b23dbc3d0e.jpg)
 
 > **快速參考：**[峇里島團體自由行旅遊：包棟villa 三房/四房/五房/六房以上嘅家庭別墅住宿推薦](/blog/bali-group-villa-stay/)
 
@@ -64,7 +64,7 @@ AI示意圖
 
 - **聖泉寺 (Tirta Empul)：** 清晨，我哋嚟到著名嘅聖泉寺。雖然遊客唔少，但寺內莊嚴肅穆嘅氛圍依然濃厚。睇住當地信眾同各國旅客喺泉池中依序進行沐浴祈福，神情專注而虔誠，內心都感到一股平靜。小朋友對呢個「喺水入面排隊」嘅儀式充滿好奇，我哋就喺旁邊解釋佢嘅宗教意義，係一次好好嘅文化體驗。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b60719f084e134a94fa7186d3e2c18f7.jpg)
+![第二日：聖泉洗禮、火山遠眺與味覺探索之旅](https://images.gobaligo.id/vocus/vocus_b60719f084e134a94fa7186d3e2c18f7.jpg)
 
 > **快速參考：**[【2026】Tirta Empul 聖泉寺完整指南：峇里島最神聖嘅淨化水廟體驗](/blog/tirta-empul-temple-guide/)
 
@@ -72,13 +72,13 @@ AI示意圖
 
 - **金塔瑪尼火山 (Kintamani)：** 跟住，架車蜿蜒上山，前往金塔瑪尼。當**巴杜爾火山 (Mount Batur)** 同佢腳下嘅火山湖全景豁然展現喺眼前時，車內響起一片讚嘆。我哋喺觀景餐廳享用午餐，一邊品嚐當地風味，一邊欣賞呢幅壯麗嘅自然畫卷。雲霧時而飄過，令火山景色瞬息萬變，充滿詩意。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8de97539719cb37d06c510346db2230d.jpg)
+![第二日：聖泉洗禮、火山遠眺與味覺探索之旅](https://images.gobaligo.id/vocus/vocus_8de97539719cb37d06c510346db2230d.jpg)
 
 > **快速參考：**[峇里島金塔瑪尼13大景觀火山咖啡廳/餐廳推薦 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
 
 - **普蘭村 (Penglipurang)：** 食完飯我哋去咗普蘭村。呢度比起熱門景點更加寧靜，可以感受到峇里傳統村落嘅生活節奏。行入去，可以見到村民專注於手工藝或者傾偈，時間嘅流逝好似都慢咗落嚟。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3638ed5e8a2500e413dca3df549ac608.jpg)
+![第二日：聖泉洗禮、火山遠眺與味覺探索之旅](https://images.gobaligo.id/vocus/vocus_3638ed5e8a2500e413dca3df549ac608.jpg)
 
 > **快速參考：**[穿越時空的 Penglipuran 村莊：體驗峇里古老的魅力](/blog/penglipuran-village-bali-experience/)
 
@@ -100,21 +100,21 @@ AI示意圖
 
 > 🐒烏布聖猴森林公園門票▶[Klook優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F67185-sacred-monkey-forest-ubud-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D39f6fcbd47)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_51bb260e63986ad1a2b199d4be1babee.jpg)
+![第三日：穿梭於自然靈性與市井喧囂之間](https://images.gobaligo.id/vocus/vocus_51bb260e63986ad1a2b199d4be1babee.jpg)
 
 - **Jatiluwih 梯田：** 跟住我哋揸車去咗被列為世界文化遺產嘅Jatiluwih梯田。廣闊嘅綠色階梯沿住山勢鋪展，景色開闊而寧靜。可能因為天氣或者季節關係，整體景觀 **「感覺普普」**，冇預期中咁震撼，但仍然不失為一個呼吸新鮮空氣、感受峇里島農業文明嘅寧靜去處。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a804dbb47152b6d827a07473286d114f.jpg)
+![第三日：穿梭於自然靈性與市井喧囂之間](https://images.gobaligo.id/vocus/vocus_a804dbb47152b6d827a07473286d114f.jpg)
 
 > **快速參考：**[峇里島Tegalalang德格拉朗、Jatiluwih賈提魯維兩大梯田區拜訪攻略｜入場門票幾錢？最佳拜訪時間/季節？](/blog/bali-rice-terraces-comparison/)
 
 - **Wisata Kayu Putih 神木：** 相比之下，神木景點俾咗我哋好大嘅驚喜！呢棵巨大嘅白木樹（Kayu Putih）莊嚴肅穆，充滿靈性能量。企喺巨樹之下，人類顯得格外渺小。周圍嘅森林步道清幽，空氣中彷彿瀰漫住一股寧靜嘅力量，**令人內心瞬間沉澱落嚟，係當日最正嘅亮點**，非常推薦俾鍾意自然同靜謐氛圍嘅旅人。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_751dc0dccc323e14cebcee8cc564bbe0.jpg)
+![第三日：穿梭於自然靈性與市井喧囂之間](https://images.gobaligo.id/vocus/vocus_751dc0dccc323e14cebcee8cc564bbe0.jpg)
 
 - **烏布皇宮 (Ubud Palace) 同烏布市集 (Ubud Market)：** 下晝返到烏布市中心。烏布皇宮規模唔大，但建築雕刻精緻，透露出傳統王朝嘅氣息。隔離嘅烏布市集就活力十足，由手工藝品、編織包到沙龍布應有盡有。喺呢度可以體驗殺價嘅樂趣（記得由三折開始出價！），為家人朋友揀特色紀念品。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d83da6954901731170a3f42382dc19f8.jpg)
+![第三日：穿梭於自然靈性與市井喧囂之間](https://images.gobaligo.id/vocus/vocus_d83da6954901731170a3f42382dc19f8.jpg)
 
 > **快速參考：**[【烏布必訪景點】烏布皇宮：峇里島文化歷史嘅瑰寶｜開放時間、門票、表演時間、周邊景點、一日遊推薦](/blog/ubud-royal-palace-tour-guide/)
 
@@ -126,9 +126,9 @@ AI示意圖
 - **晚餐：Taman Dedari 仙女園**
   呢間係環境極為優美嘅景觀餐廳。我哋抱住期待點咗著名嘅髒鴨餐，但口感略顯普通，**唔算特別推薦**。不過，呢度嘅**咖啡同飲品水準唔錯**，更重要嘅係，喺傍晚時分喺庭園中搵個好位置坐低，伴隨住涼風同暮色，成個烏布河谷嘅景色盡收眼底，絕對係「飲咖啡、賞風景」嘅絕佳地點。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e6567ad4ac82156d8ce30a9c60feb578.jpg)
+![第三日：穿梭於自然靈性與市井喧囂之間](https://images.gobaligo.id/vocus/vocus_e6567ad4ac82156d8ce30a9c60feb578.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_37891f30f3e1e93406a35d99756c09cd.jpg)
+![第三日：穿梭於自然靈性與市井喧囂之間](https://images.gobaligo.id/vocus/vocus_37891f30f3e1e93406a35d99756c09cd.jpg)
 
 > **快速參考：**[【烏布美食+美景推薦】Taman Dedari 仙女公園](/blog/taman-dedari-ubud-food-scenery/)
 
@@ -181,25 +181,25 @@ ATV 我覺得老人家同7歲以下嘅小朋友唔適合，太刺激驚會跌低
 
 今日要由文化中心嘅烏布轉移到熱鬧嘅庫塔海濱。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780206389-49112982.jpg)
+![第六日：告別烏布，擁抱庫塔嘅海岸風情](https://images.gobaligo.id/images/2026-03/1774780206389-49112982.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780207164-115642639.jpg)
+![第六日：告別烏布，擁抱庫塔嘅海岸風情](https://images.gobaligo.id/images/2026-03/1774780207164-115642639.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780207536-115681714.jpg)
+![第六日：告別烏布，擁抱庫塔嘅海岸風情](https://images.gobaligo.id/images/2026-03/1774780207536-115681714.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780207954-116841359.jpg)
+![第六日：告別烏布，擁抱庫塔嘅海岸風情](https://images.gobaligo.id/images/2026-03/1774780207954-116841359.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780208361-120634515.jpg)
+![第六日：告別烏布，擁抱庫塔嘅海岸風情](https://images.gobaligo.id/images/2026-03/1774780208361-120634515.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780208721-195261402.jpg)
+![第六日：告別烏布，擁抱庫塔嘅海岸風情](https://images.gobaligo.id/images/2026-03/1774780208721-195261402.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780209040-195261448.jpg)
+![第六日：告別烏布，擁抱庫塔嘅海岸風情](https://images.gobaligo.id/images/2026-03/1774780209040-195261448.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780209486-195404224.jpg)
+![第六日：告別烏布，擁抱庫塔嘅海岸風情](https://images.gobaligo.id/images/2026-03/1774780209486-195404224.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780209848-195404320.jpg)
+![第六日：告別烏布，擁抱庫塔嘅海岸風情](https://images.gobaligo.id/images/2026-03/1774780209848-195404320.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774780210178-574173017.jpg)
+![第六日：告別烏布，擁抱庫塔嘅海岸風情](https://images.gobaligo.id/images/2026-03/1774780210178-574173017.jpg)
 
 我哋入住【2025 Agoda旅人鑑賞優勝】嘅庫塔酒店 Amnaya Resort
 
@@ -235,7 +235,7 @@ ATV 我覺得老人家同7歲以下嘅小朋友唔適合，太刺激驚會跌低
 
 ## **旅程備忘錄同實用建議**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2a859b507a199d6500bc5d3d47023c43.png)
+![旅程備忘錄同實用建議](https://images.gobaligo.id/vocus/vocus_2a859b507a199d6500bc5d3d47023c43.png)
 
 根據今次嘅親身體驗，我哋總結咗以下幾點小貼士，供未來計劃前往嘅朋友參考：
 
@@ -272,7 +272,7 @@ https://youtu.be/mx2zwlUovew
 
 您覺得[林恐龍](https://www.facebook.com/share/p/1DMYqVwzhq/)佢哋嘅行程好精彩嗎？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家到社團投稿您嘅行程喔！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![雨季旅遊心得](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 撳呢度睇更多峇里島精彩遊記
 

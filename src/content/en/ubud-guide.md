@@ -85,7 +85,7 @@ Ubud Water Palace itself is not large, so a simple visit won't take long, but ph
 
 ### Ubud Palace Kecak Fire Dance Show (👉🏼 Map: [Ubud Center](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_71b471a674052df7495db6869ab3fe8f.jpg)
+![Ubud Palace Kecak Fire Dance Show ( Map: Ubud Center)](https://images.gobaligo.id/vocus/vocus_71b471a674052df7495db6869ab3fe8f.jpg)
 
 As night falls at Ubud Palace, a spectacular performance unfolds—explore the mystical beauty of the Kecak Fire Dance Show. This is a captivating blend of Bali's unique dance, music, and theatrical elements. Leaping flames and graceful movements intertwine in the palace courtyard, offering an unforgettable cultural feast.
 
@@ -107,7 +107,7 @@ However, because the monkeys here are quite mischievous, visitors should stay al
 
 ### Ubud Art Markets
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_67fb13bc56e5bc20ca5def2d59d70a41.jpg)
+![Ubud Art Markets](https://images.gobaligo.id/vocus/vocus_67fb13bc56e5bc20ca5def2d59d70a41.jpg)
 
 Ubud's art scene goes far beyond the famous Ubud Art Market! If you want to dive into local culture and artistic beauty, these hidden markets are well worth a visit. Let us take you to four unique markets run by local artists, where you can experience the most authentic Ubud art vibe. From handmade crafts to paintings, each market holds its own treasures waiting to be discovered.
 
@@ -115,7 +115,7 @@ Check out: [Complete Guide to Ubud's Top 5 Art Markets: Souvenirs & Gifts, Disco
 
 ### Folk Pool & Gardens: A Serene Pool Club Hidden in Bustling Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2cc396ec6670466a36f49416c315f046.jpg)
+![Folk Pool & Gardens: A Serene Pool Club Hidden in Bustling U](https://images.gobaligo.id/vocus/vocus_2cc396ec6670466a36f49416c315f046.jpg)
 
 In the heart of Ubud, Bali—amid endless shops, unique art pieces, delicious and healthy international cuisine, and rejuvenating yoga and spa experiences—there lies a hidden paradise: Folk Pool & Gardens.
 
@@ -129,7 +129,7 @@ The video of this place is [here](https://youtu.be/JtxZHtijEkE?si=BRDnMk_1u0E3eh
 
 ### World Heritage Rice Terrace Views (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b32736a5ef98517bd7b4ebd87af9506f.jpg)
+![World Heritage Rice Terrace Views ( Map: Popular Attractions](https://images.gobaligo.id/vocus/vocus_b32736a5ef98517bd7b4ebd87af9506f.jpg)
 
 The rice terraces around Ubud are a highlight of Bali, offering a breathtaking landscape like a painting and earning UNESCO World Heritage status. This terraced area not only showcases nature's wonders but also highlights the harmonious coexistence of nature and humanity, making it an unmissable destination in Bali.
 
@@ -145,7 +145,7 @@ The best time to capture the beauty of the rice terraces is at dawn, just as the
 
 ### Alas Harum (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bb9942f9c364faf4117fcfd96a564d01.jpg)
+![Alas Harum ( Map: Popular Attractions Around Ubud)](https://images.gobaligo.id/vocus/vocus_bb9942f9c364faf4117fcfd96a564d01.jpg)
 
 Near the Tegalalang Rice Terraces mentioned above, there's a complex called 'Alas Harum.' Located about a 20-minute drive north of central Ubud, Alas Harum is best known for its stunning rice terrace views.
 
@@ -205,7 +205,7 @@ These two different holy spring temples each have their own unique charm and cul
 
 ### Visiting Penglipuran Village (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_52e021ca1f655e109c3a05e03e3df486.jpg)
+![Visiting Penglipuran Village ( Map: Popular Attractions Arou](https://images.gobaligo.id/vocus/vocus_52e021ca1f655e109c3a05e03e3df486.jpg)
 
 Stroll through the traditional village of Penglipuran Village and explore its history and heritage. Known as "Bali's Most Beautiful Village," this place preserves one of the most intact traditional Balinese communities, with special significance in maintaining original Balinese culture and a unique way of life. The village is steeped in Balinese cultural influence, making it an invaluable treasure of Bali. [See the full article](/blog/penglipuran-village-bali-experience/)
 
@@ -215,7 +215,7 @@ Stroll through the traditional village of Penglipuran Village and explore its hi
 
 ### Visit Taman Dedari (👉🏼 Map: [Top Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_809bfed2477253b1d4a6dff5862b0b31.png)
+![Visit Taman Dedari ( Map: Top Attractions Around Ubud)](https://images.gobaligo.id/vocus/vocus_809bfed2477253b1d4a6dff5862b0b31.png)
 
 Taman Dedari is a standout attraction in Ubud, famous for its iconic giant fairy statue. It's not just a place for delicious food but a venue that blends culture and art. Under the fairy's watch, savor local cuisine and soak in Ubud's unique vibe for an unforgettable dining experience.
 
@@ -227,7 +227,7 @@ There are plenty of photo-worthy spots inside, so feel free to snap away and cap
 
 ### Get Up Close with Elephants (👉🏼 Map: [Top Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_471a6d202fac321f8d10bdd75ccfecba.jpg)
+![Get Up Close with Elephants ( Map: Top Attractions Around Ub](https://images.gobaligo.id/vocus/vocus_471a6d202fac321f8d10bdd75ccfecba.jpg)
 
 Mason Elephant Park is a delightful animal sanctuary in the Ubud area, renowned for its elephant conservation efforts. It offers a rare chance to interact closely with elephants.
 
@@ -241,7 +241,7 @@ Mason Elephant Park offers an animal adventure that blends conservation and anim
 
 ### Bali Safari Park: A Wild Safari Adventure (👉🏼 Map: [Top Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e404b6b5bbf85614fde2c6d98068eaa.jpg)
+![Bali Safari Park: A Wild Safari Adventure ( Map: Top Attract](https://images.gobaligo.id/vocus/vocus_2e404b6b5bbf85614fde2c6d98068eaa.jpg)
 
 Bali Safari Park is an incredible wild safari adventure. The park brings together nature's most fascinating creatures, making it a top choice for family trips that combine fun and education.
 
@@ -253,7 +253,7 @@ Bali Safari Park offers adventure safari vehicles that take you through the anim
 
 ### Marine Safari Bali: Bali's Marine Wildlife Park (👉🏼 Map: [Top Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7d2f30ebdf8c684b0a79022b574490b5.jpg)
+![Marine Safari Bali: Bali's Marine Wildlife Park ( Map: Top A](https://images.gobaligo.id/vocus/vocus_7d2f30ebdf8c684b0a79022b574490b5.jpg)
 
 Want to visit two worlds in one destination?
 
@@ -261,7 +261,7 @@ The newly opened 'Marine Safari Bali' in 2025 makes your family vacation even mo
 
 For a detailed guide to 'Marine Safari Bali', [check out our introduction](/blog/marine-safari-bali-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ca1f0902f94caa16d3c871e271096227.png)
+![Marine Safari Bali: Bali's Marine Wildlife Park ( Map: Top A](https://images.gobaligo.id/vocus/vocus_ca1f0902f94caa16d3c871e271096227.png)
 
 > Book tickets and enjoy [discounted prices](https://affiliate.klook.com/redirect?aid=116349&aff_adid=986936&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D242e58b391)
 
@@ -269,7 +269,7 @@ For a detailed guide to 'Marine Safari Bali', [check out our introduction](/blog
 
 ### Serayu Pot Pottery Factory (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_92cd13cd6652629a34cb2c497e611615.jpg)
+![Serayu Pot Pottery Factory ( Map: Popular Attractions Around](https://images.gobaligo.id/vocus/vocus_92cd13cd6652629a34cb2c497e611615.jpg)
 
 Located in the heart of Ubud, Serayu Pot is a pottery studio and gallery. This unique venue not only showcases exquisite traditional pottery craftsmanship but also offers a chance to interact with artists. Visitors can join pottery workshops to learn the process from clay to finished ceramics, immersing themselves in the art. At Serayu Pot, you can find unique pottery pieces while admiring the creative works of local artists. It's an excellent spot to experience Ubud's cultural artistry and feel the charm of pottery firsthand. Plus, you can sign up for pottery-making classes here!
 
@@ -277,7 +277,7 @@ Located in the heart of Ubud, Serayu Pot is a pottery studio and gallery. This u
 
 ### Bali Bird Park (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_37e4c8975e85f934d0d43d1f8d8f3a69.png)
+![Bali Bird Park ( Map: Popular Attractions Around Ubud)](https://images.gobaligo.id/vocus/vocus_37e4c8975e85f934d0d43d1f8d8f3a69.png)
 
 Bali Bird Park is a vibrant and educational spot in the Ubud area, especially designed for families. It's not just a beautiful showcase of nearly 1,350 different bird species, but also an ideal place for kids to dive into the world of avian ecology.
 
@@ -301,7 +301,7 @@ Warm tip: If you want to take photos with monkeys in Bali, choose this place—t
 
 ### Taman Beji Griya Waterfall (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e6e25f5e73d83736336089f22edff298.jpg)
+![Taman Beji Griya Waterfall ( Map: Popular Attractions Around](https://images.gobaligo.id/vocus/vocus_e6e25f5e73d83736336089f22edff298.jpg)
 
 Completely hidden within a lush green forest, this waterfall is considered one of the most beautiful and spiritually significant in the area. What makes this spot unique is its blend of natural beauty and deep spiritual elements. The Taman Beji Griya Gede Manuaba Punggul temple features nine springs and two waterfalls, offering visitors not only visual delight but also a soul-cleansing experience. Most visitors come here to perform the traditional Balinese **melukat** ceremony—a purification ritual at a holy spring believed to wash away all negative energy.
 
@@ -315,7 +315,7 @@ Travelers interested in this spiritual experience can join a [Klook day tour](ht
 
 ✨ Bali's Firefly Garden wins an ecotourism award!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f390ebaed29268e4d1bc7c04e5e1a6e5.jpg)
+![The Firefly Garden ( Map: Popular Attractions Around Ubud)](https://images.gobaligo.id/vocus/vocus_f390ebaed29268e4d1bc7c04e5e1a6e5.jpg)
 
 Enjoy fireflies dancing under the romantic night sky 🌌, while supporting conservation and organic farming 🌿. 👉 Next time you're in Ubud, plan a magical nighttime experience! Read more [here](/blog/the-firefly-garden-ubud/)
 
@@ -323,7 +323,7 @@ Enjoy fireflies dancing under the romantic night sky 🌌, while supporting cons
 
 ### Hikaria Immersive Light Art Experience in Ubud (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c6bc3ac263f6d6a9188ed3aa6b2c582d.jpg)
+![Hikaria Immersive Light Art Experience in Ubud ( Map: Popula](https://images.gobaligo.id/vocus/vocus_c6bc3ac263f6d6a9188ed3aa6b2c582d.jpg)
 
 An immersive nighttime light experience in Ubud, Bali, crafted by digital innovation and immersive entertainment experts, blending traditional mythology with cutting-edge technology. The one-kilometer forest trail transforms into a dreamlike world of light, using advanced projection mapping to tell the legend of the God of Light and the God of Shadow.
 
@@ -333,7 +333,7 @@ This unique nighttime experience is suitable for visitors of all ages, whether f
 
 ### Wisata Kayu Putih Bayan Sacred Tree Scenic Area (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2c3bc45f0626ebf69733b0745a47a021.jpg)
+![Wisata Kayu Putih Bayan Sacred Tree Scenic Area ( Map: Popul](https://images.gobaligo.id/vocus/vocus_2c3bc45f0626ebf69733b0745a47a021.jpg)
 
 The Wisata Kayu Putih Bayan Sacred Tree Scenic Area is located in Buleleng Regency, northern Bali, and is famous for its magnificent thousand-year-old sacred tree. This giant Kayu Putih tree (meaning 'white wood' in Indonesian) is estimated to be over a thousand years old, with a trunk so thick it takes dozens of people to encircle it, and its towering canopy covers a vast area. Local residents regard this ancient tree as sacred, believing it possesses spiritual power, and devotees often come here to pray and hold traditional ceremonies.
 
@@ -349,7 +349,7 @@ Ubud is one of the richest hubs for tourist activities in Bali. It boasts divers
 
 ### Go White Water Rafting
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5854ad12287ebc9495ee29e43f9dbb53.jpg)
+![Go White Water Rafting](https://images.gobaligo.id/vocus/vocus_5854ad12287ebc9495ee29e43f9dbb53.jpg)
 
 For adventure seekers, white water rafting is an extremely appealing option. The rivers around Ubud meander through lush valleys and jungles, offering adventure enthusiasts a brand-new expedition. On this adventure, you'll traverse scenic landscapes, encountering both rapids and calm stretches of water, allowing you to fully experience the joy of excitement and relaxation. This is not just an adventure but also an opportunity to intimately connect with nature, feeling the vibrant energy of the water, trees, and earth.
 
@@ -429,7 +429,7 @@ Quick Reference: ["Ubud Swing / Dress Rental Guide"](https://s.id/ubud_swing)
 
 ### Hot Air Balloon Experience
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f0dac48fd42229c3542a128ffed13161.jpg)
+![Hot Air Balloon Experience](https://images.gobaligo.id/vocus/vocus_f0dac48fd42229c3542a128ffed13161.jpg)
 
 Riding a hot air balloon is an exhilarating adventure, offering breathtaking views over Bali—including Ubud's stunning rice terraces and other natural landscapes from 50 meters above. This rare aerial escapade lets you gaze down at the earth from high above, feeling the grandeur and majesty of nature. After the experience, you'll even take home a hot air balloon certificate to forever preserve this unforgettable memory.
 
@@ -437,7 +437,7 @@ Riding a hot air balloon is an exhilarating adventure, offering breathtaking vie
 
 ### Zipline & Sky Bike Activities
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9463ace45d906d0629a44128f0abeebb.jpg)
+![Zipline & Sky Bike Activities](https://images.gobaligo.id/vocus/vocus_9463ace45d906d0629a44128f0abeebb.jpg)
 
 Experience the thrill of a zipline or Sky Bike in Ubud while taking in stunning rice terrace views. Both activities are beginner-friendly, with operators providing high-quality safety equipment. Glide or pedal through the air for a panoramic view of Bali’s unique terrain, offering an unforgettable high-altitude adventure.
 
@@ -445,7 +445,7 @@ Experience the thrill of a zipline or Sky Bike in Ubud while taking in stunning 
 
 ### Off-Road Jeep Sunrise Experience
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_76ca2a47f4c5c29841e4377ac301df0a.jpg)
+![Off-Road Jeep Sunrise Experience](https://images.gobaligo.id/vocus/vocus_76ca2a47f4c5c29841e4377ac301df0a.jpg)
 
 Catch the first light of dawn with an off-road jeep sunrise experience! Rise early and hop into a 4x4 jeep to traverse Trunyan Hill, where you can enjoy breathtaking sunrise views without any hiking. The jeep explores the hillside, revealing the unique landscape shaped by black lava. This adventure includes convenient hotel pickup and drop-off for a safe and comfortable round trip.
 
@@ -453,7 +453,7 @@ Catch the first light of dawn with an off-road jeep sunrise experience! Rise ear
 
 ### Off-Road Jeep + Hiking Mount Batur Volcano
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ca3fb10c2862e334d2d0f094bfa2d44c.jpg)
+![Off-Road Jeep + Hiking Mount Batur Volcano](https://images.gobaligo.id/vocus/vocus_ca3fb10c2862e334d2d0f094bfa2d44c.jpg)
 
 This adventure combines an off-road jeep ride with hiking. Drive a 4x4 jeep through the pine forests of Mount Batur, soaking in volcanic views at sunrise while feeling the thrill of off-roading. After sunrise, follow a professional guide on foot to the summit of Mount Batur, exploring the black lava fields from eruptions centuries ago—a journey rich in history and adventure. The jeep experience extends your exploration even further.
 
@@ -461,7 +461,7 @@ This adventure combines an off-road jeep ride with hiking. Drive a 4x4 jeep thro
 
 ### Mount Batur Sunrise Hiking Tour
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_20dfb80e11967f92176cc823e6e386f6.png)
+![Mount Batur Sunrise Hiking Tour](https://images.gobaligo.id/vocus/vocus_20dfb80e11967f92176cc823e6e386f6.png)
 
 To witness the sunrise over Mount Batur, join a hiking tour. Set off at dawn to reach the summit, where you can gaze into the distance and feel the volcano’s mystical atmosphere as the sun rises. A hearty breakfast is arranged, allowing you to enjoy delicious food atop Mount Batur while marveling at one of nature’s greatest wonders.
 
@@ -469,7 +469,7 @@ To witness the sunrise over Mount Batur, join a hiking tour. Set off at dawn to 
 
 ### Mount Batur Jeep Sunset Tour (with Photographer & Custom Jeep Color)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a763e29e60960e92cc19beecc3bffb3a.png)
+![Mount Batur Jeep Sunset Tour (with Photographer & Custom Jee](https://images.gobaligo.id/vocus/vocus_a763e29e60960e92cc19beecc3bffb3a.png)
 
 Mount Batur isn’t just about waking up in the middle of the night for a sunrise trek—there’s also a chance to witness its stunning sunset! Take a private tour in a 4WD jeep to explore the dramatic landscapes of Mount Batur and its fresh atmosphere, surrounded by the famous black lava left behind by eruptions centuries ago. No need to worry about taking photos, as this activity includes a jeep driver with professional photography skills, ensuring beautiful shots throughout your journey and creating lasting memories.
 
@@ -477,7 +477,7 @@ Mount Batur isn’t just about waking up in the middle of the night for a sunris
 
 ### Ubud Jungle Cart Racing
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ad4756141a707604469096b283c641de.jpg)
+![Ubud Jungle Cart Racing](https://images.gobaligo.id/vocus/vocus_ad4756141a707604469096b283c641de.jpg)
 
 Discover a unique experience in Ubud! Jungle Cart offers a special racing adventure that takes you through Bali’s sacred jungle, rice paddies, temples, and traditional villages (the ride lasts about 15–25 minutes). It’s not just a journey of speed and laughter, but also a chance to soak in the beauty of local nature and culture.
 
@@ -489,7 +489,7 @@ Here’s a clip from Xiao Jie’s ride (set to the highest quality):
 
 ### Experience Farm Life
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0976bfe2e5f97ee8c6c1f971a79d3896.jpg)
+![Experience Farm Life](https://images.gobaligo.id/vocus/vocus_0976bfe2e5f97ee8c6c1f971a79d3896.jpg)
 
 A perfect family-friendly Balinese village life experience! This activity is especially designed for parents and children to enjoy together, allowing you and kids aged 7 and up to spend a full day living like a local in Bali. Experience their warm hospitality and gain a deeper understanding of their community. You and your child will visit traditional Balinese architecture, watch a blacksmith demonstration, and even try your hand at making Balinese wine. You'll also see how coconut oil is produced and take part in rice paddy farming. This is an excellent family experience that helps you and your child better understand and connect with Balinese culture and lifestyle. For families wanting to dive deep into local life with their kids, this is an unmissable choice!
 
@@ -497,7 +497,7 @@ A perfect family-friendly Balinese village life experience! This activity is esp
 
 ### Join a Workshop Experience
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_81e59086fa728481258210e23555511c.jpg)
+![Join a Workshop Experience](https://images.gobaligo.id/vocus/vocus_81e59086fa728481258210e23555511c.jpg)
 
 Ubud is not only a treasure trove of natural beauty but also a cradle of art and craftsmanship. Joining workshops in batik, wood carving, pottery, silver jewelry, and more offers a rich cultural experience. These workshops provide professional guidance, allowing you to create your own Balinese-style handicrafts and bring local art home as unique souvenirs.
 
@@ -511,7 +511,7 @@ Ubud is not only a treasure trove of natural beauty but also a cradle of art and
 
 ### Ubud Cooking Class
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_521ad548041599b5da96c3537a2815fb.jpg)
+![Ubud Cooking Class](https://images.gobaligo.id/vocus/vocus_521ad548041599b5da96c3537a2815fb.jpg)
 
 Ubud's cooking classes offer a fantastic opportunity to dive into the local food culture. The experience typically includes a market visit, learning cooking techniques, hands-on cooking, and tasting your creations. You'll head to the market with your instructor to pick fresh ingredients and learn unique Balinese cooking methods. Then, you'll prepare classic dishes in the kitchen and finally sit down to enjoy the delicious meal you've made. It's a culturally rich culinary journey that will make you fall in love with Bali's unique flavors.
 
@@ -525,7 +525,7 @@ Ubud's cooking classes offer a fantastic opportunity to dive into the local food
 
 ### Yoga Classes
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fae45ccfe567f1b66f0d091afafeb441.png)
+![Yoga Classes](https://images.gobaligo.id/vocus/vocus_fae45ccfe567f1b66f0d091afafeb441.png)
 
 In the serene surroundings of Ubud, joining a yoga class is a wonderful way to relax both body and mind. Amidst the lush green rice paddies or in an open-air yoga space at a resort, you can follow a yoga instructor's guidance, feeling the stretch of your body and the calm of your breath. It's not just a physical wellness practice but also a way to find inner peace and balance.
 
@@ -537,7 +537,7 @@ In the serene surroundings of Ubud, joining a yoga class is a wonderful way to r
 
 ### Beji Guwang Hidden Canyon (👉🏼 Map: [Top Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9c726e647d3b2567bae6bafd56d02973.png)
+![Beji Guwang Hidden Canyon ( Map: Top Attractions Around Ubud](https://images.gobaligo.id/vocus/vocus_9c726e647d3b2567bae6bafd56d02973.png)
 
 Do you love hiking, river trekking, and exploring hidden wonders? If so, Bali's Beji Guwang Hidden Canyon is the perfect choice for you! With its breathtaking rock formations and deep, mysterious canyon, this adventure will challenge your courage and physical limits. Led by an expert guide, you'll conquer this magnificent place and experience an unforgettable journey. Plus, private round-trip transportation from your accommodation is included, ensuring a comfortable and convenient trip. Join us now and discover the secrets of Beji Guwang Hidden Canyon!
 
@@ -545,7 +545,7 @@ Do you love hiking, river trekking, and exploring hidden wonders? If so, Bali's 
 
 ### Balerung Stage: A Temple of Balinese Traditional Music and Dance (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_49ee87d707af9054711f3b8f69d816fb.jpg)
+![Balerung Stage: A Temple of Balinese Traditional Music and D](https://images.gobaligo.id/vocus/vocus_49ee87d707af9054711f3b8f69d816fb.jpg)
 
 If you want to deeply experience Bali's traditional culture, a performance at Balerung Stage is an absolute must! This traditional stage in Ubud hosts classic Balinese dance and music shows every week, offering audiences a chance to immerse themselves in the island's rich cultural heritage. Unlike commercialized tourist performances, Balerung Stage is renowned for its authenticity and pure artistic expression, making you feel as if you've stepped back into Bali's past, captivated by the charm of dance and music.
 
@@ -555,7 +555,7 @@ For larger groups, you can also book sessions to learn traditional Balinese musi
 
 ### Ubud E-Bike Tour
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_01f4b721a6de3b756ca2ddd3873a7f60.png)
+![Ubud E-Bike Tour](https://images.gobaligo.id/vocus/vocus_01f4b721a6de3b756ca2ddd3873a7f60.png)
 
 The Ubud E-Bike Tour guides are highly knowledgeable about the attractions around Ubud, providing in-depth commentary for participants. You'll have the chance to visit temples, explore traditional Balinese houses, and enjoy stunning views of rice paddies, Tegalalang, and coffee plantations. Riding an e-bike is not only fun but also makes navigating the hilly countryside much easier. This three-hour tour offers a fantastic way to experience Ubud up close.
 
@@ -565,7 +565,7 @@ The Ubud E-Bike Tour guides are highly knowledgeable about the attractions aroun
 
 ### Moonstone Beach Lounge (👉🏼 Map: [Popular Spots Around Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e79080df5037e203cea1b29016b3a72e.png)
+![Moonstone Beach Lounge ( Map: Popular Spots Around Ubud)](https://images.gobaligo.id/vocus/vocus_e79080df5037e203cea1b29016b3a72e.png)
 
 A dreamy beach bar in Gianyar, Bali, newly opened in 2024, just a 15-minute drive from Bali Safari & Marine Park!
 
@@ -584,7 +584,7 @@ A dreamy beach bar in Gianyar, Bali, newly opened in 2024, just a 15-minute driv
 
 ### Singing Bowl Healing in Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5fa73cba02836c4b4259897fb3827da9.jpg)
+![Singing Bowl Healing in Ubud](https://images.gobaligo.id/vocus/vocus_5fa73cba02836c4b4259897fb3827da9.jpg)
 
 Ubud is an ideal sanctuary for spiritual and physical healing. Singing bowl meditation has become a popular wellness experience on this 'Island of the Gods,' blending ancient sound therapy with Bali's unique spiritual atmosphere. When a bronze singing bowl is gently struck or rubbed, it produces deep, harmonious resonant frequencies. These sound waves penetrate the body, helping to release stress, balance chakras, and guide participants into deep meditative states. Experiencing singing bowl healing in Bali's tropical rainforests, beside rice paddies, or along river valleys allows one to resonate with nature's energy, achieving complete relaxation of mind, body, and soul.
 
@@ -601,7 +601,7 @@ Additionally, Klook offers some emerging singing bowl healing services, allowing
 
 ### Kintamani Mountain Playground: The Grand Lagunas (👉🏼 Map: [Family-Friendly Playground & Restaurant](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a9a882fda8e0d1a069384ba95922dc4.png)
+![Kintamani Mountain Playground: The Grand Lagunas ( Map: Fami](https://images.gobaligo.id/vocus/vocus_9a9a882fda8e0d1a069384ba95922dc4.png)
 
 Push your limits at The Grand Lagunas and experience thrilling adventures with stunning views! This place offers a wide variety of outdoor activities, including the colorful Rainbow Slide, Flying Fox, Tree Top adventure, Keranjang Sultan (Sultan Basket), Trampoline Jump, Hammock, Nest, Climbing Net, Climbing Tree, Jungle Bridge, and ATV rides—all letting you unleash your adventurous spirit.
 
@@ -617,7 +617,7 @@ Feel the rush of speeding down the vibrant slide while enjoying colorful fun aga
 
 ### Enjoy the Unique Waterfall Views at D'Tukad River Club (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5d0bb25e202668ccbce347399768abd7.jpg)
+![Enjoy the Unique Waterfall Views at D'Tukad River Club ( Map](https://images.gobaligo.id/vocus/vocus_5d0bb25e202668ccbce347399768abd7.jpg)
 
 D'Tukad River Club is a day club perched atop Tegenungan Waterfall, blending a treehouse concept with breathtaking natural scenery. Here, you can revel in stunning swings and a pool, all while soaking in the artistic vibe of Bali. With 360-degree views of the waterfall, it lets you take in the majestic cascade and nature's grandeur during lunch.
 
@@ -633,7 +633,7 @@ https://youtube.com/shorts/WdPWlqgn_jY
 
 ### Omma Dayclub (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c23bae83b3bdfa50d92f9c68fff396c5.jpg)
+![Omma Dayclub ( Map: Immerse in Scenic Beauty)](https://images.gobaligo.id/vocus/vocus_c23bae83b3bdfa50d92f9c68fff396c5.jpg)
 
 Omma Dayclub is renowned for its spectacular waterfall views. The waterfall plunges about 30 meters, and guests can admire the majestic sight up close from the club's terrace or the pool built along the river.
 
@@ -655,7 +655,7 @@ Wanna Jungle Pool & Bar is a newly opened day club in Ubud, renowned for its uni
 
 ### Cretya Ubud (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_78a4fa73c96848474643868d81d1d4c5.jpg)
+![Cretya Ubud ( Map: Immerse in Scenic Beauty)](https://images.gobaligo.id/vocus/vocus_78a4fa73c96848474643868d81d1d4c5.jpg)
 
 Cretya Ubud is a luxurious day club in the Ubud area, featuring a distinctive three-tiered pool. It's located within the aforementioned Alas Harum, facing lush rice paddies and offering stunning views.
 
@@ -667,7 +667,7 @@ Cretya Ubud is open daily from 8 AM to 9 PM. For more details, check out the "[C
 
 ### Savor the Famous Dirty Duck at Bebek Bengil (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a11ec7ea410bd2d05da624d72bdfc547.jpg)
+![Savor the Famous Dirty Duck at Bebek Bengil ( Map: Immerse i](https://images.gobaligo.id/vocus/vocus_a11ec7ea410bd2d05da624d72bdfc547.jpg)
 
 Among Bali's three signature dishes, the must-try is "Dirty Duck," locally known as Bebek Bengil. This dish is renowned for its unique cooking method—crispy on the outside, tender and juicy on the inside. At Bebek Bengil restaurant in Ubud, you can enjoy this flavorful dirty duck while soaking in the local culinary culture.
 
@@ -675,7 +675,7 @@ Among Bali's three signature dishes, the must-try is "Dirty Duck," locally known
 
 ### Jungle Spa Experience
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_52e7a776fd44884da1d6395c25ac3717.jpg)
+![Jungle Spa Experience](https://images.gobaligo.id/vocus/vocus_52e7a776fd44884da1d6395c25ac3717.jpg)
 
 Immerse yourself in the bliss of a spa amidst Ubud's tropical rainforest. Resorts and wellness centers offer a wide range of spa options, from traditional Balinese massages to rich aromatherapy, allowing you to find peace for body, mind, and soul in nature's embrace. Listen to the rustle of leaves in the breeze and breathe in the fresh rainforest air—this will be an intoxicating healing journey.
 
@@ -707,7 +707,7 @@ At Bebek Tebasari, you can sit in a serene open-air area and take in the lush gr
 
 ### The Sayan House Dining Experience (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a63e57cac7591a54734dbb073bffa5eb.jpg)
+![The Sayan House Dining Experience ( Map: Immerse in Scenic B](https://images.gobaligo.id/vocus/vocus_a63e57cac7591a54734dbb073bffa5eb.jpg)
 
 What’s it like to overlook the entire Ayung River valley from above, watch a jungle sunset, and savor delicious food? At The Sayan House in the Sayan area, this all becomes possible. It offers a unique fusion of Japanese, Latin American, and Southeast Asian cuisines. You can enjoy exquisite dishes here while taking in the stunning Ubud canyon views. The Sayan House is not just about food—it’s a feast for both the eyes and the palate, creating an unforgettable dining memory.
 
@@ -715,7 +715,7 @@ What’s it like to overlook the entire Ayung River valley from above, watch a j
 
 ### A Five-Star Hotel Dining Experience (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_44d2c49ec964161c78a680a604d97c75.jpg)
+![A Five-Star Hotel Dining Experience ( Map: Immerse in Scenic](https://images.gobaligo.id/vocus/vocus_44d2c49ec964161c78a680a604d97c75.jpg)
 
 Indulge in a refined dining experience at the five-star resort Mandapa, a Ritz-Carlton Reserve in Ubud! The restaurant overlooks lush rice paddies and tropical forests, serving food all day long. The dishes highlight Balinese cuisine, Asian fine dining, and fresh produce from the chef’s organic garden, embracing a farm-to-table philosophy. The elegant, romantic bamboo-shaped dining area offers a French menu with multiple choices. At Kubu, you can feel the tropical breeze and the gentle sound of water while enjoying exquisite Mediterranean-European cuisine, available à la carte or as a tasting menu.
 
@@ -723,7 +723,7 @@ Indulge in a refined dining experience at the five-star resort Mandapa, a Ritz-C
 
 ### Bebek Tepi Sawah: Dining Amidst Serene Rice Paddies (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_291b7dabefee7864dcac47b291c373b6.jpg)
+![Bebek Tepi Sawah: Dining Amidst Serene Rice Paddies ( Map: I](https://images.gobaligo.id/vocus/vocus_291b7dabefee7864dcac47b291c373b6.jpg)
 
 Bebek Tepi Sawah is a well-known restaurant in Ubud, whose name means 'Duck by the Rice Paddy.' It’s famous for its duck dishes, offering a variety of flavorful Indonesian cuisine, with the signature duck being a standout. The meals are typically prepared using traditional local cooking methods, letting you taste authentic Indonesian flavors.
 
@@ -735,7 +735,7 @@ Inside, the decor showcases Balinese traditional style, blending local architect
 
 ### Boni Bali Restaurant with Rice Terrace Views (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5046f26f284c95d89a998876cafa9852.jpg)
+![Boni Bali Restaurant with Rice Terrace Views ( Map: Immerse ](https://images.gobaligo.id/vocus/vocus_5046f26f284c95d89a998876cafa9852.jpg)
 
 Enjoying Indonesian traditional cuisine while overlooking the stunning Tegallalang rice terraces is one of the great pleasures of traveling to Bali.
 
@@ -747,7 +747,7 @@ Boni Bali Restaurant sits on the edge of the Tegallalang rice terraces, serving 
 
 ### The Cafe Lotus Ubud (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7fd47ea0a9d53273ba30c43bd4cb8ebe.png)
+![The Cafe Lotus Ubud ( Map: Immerse in Scenic Beauty)](https://images.gobaligo.id/vocus/vocus_7fd47ea0a9d53273ba30c43bd4cb8ebe.png)
 
 Savor a meal by the lotus pond at Ubud Water Palace and kick off your day with a unique floating breakfast experience! Enjoy a serene breakfast by the lotus pond beside the enchanting Ubud Water Palace, then take a leisurely stroll around the area. If you choose to dine here in the evening, you can also catch a spectacular traditional Balinese dance performance!
 
@@ -755,7 +755,7 @@ Savor a meal by the lotus pond at Ubud Water Palace and kick off your day with a
 
 ### The Jungle Club Ubud (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac20347e0b49990e7a03ca914ba83df0.jpg)
+![The Jungle Club Ubud ( Map: Immerse in Scenic Beauty)](https://images.gobaligo.id/vocus/vocus_ac20347e0b49990e7a03ca914ba83df0.jpg)
 
 Rated 4.9 stars on Google. The Jungle Club Ubud is Bali's newest jungle playground, blending relaxation and luxury. Nestled in the lush greenery of southern Ubud, this **adults-only** hideaway redefines the boutique day club experience with an intimate, exclusive, and wild adventure vibe. Here, you can savor exquisite food and drinks while taking in stunning river views and the surrounding jungle scenery. Lose yourself to the rhythmic beats of the jungle, as The Jungle Club Ubud offers curated entertainment and performances seven days a week, adding endless fun to your journey.
 
@@ -763,7 +763,7 @@ Klook offers dining credits that exceed the face value of the ticket. [Click her
 
 ### Kenran Resort (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3aaa84b1e68535e2fe8c12eabf926e27.png)
+![Kenran Resort ( Map: Immerse in Scenic Beauty)](https://images.gobaligo.id/vocus/vocus_3aaa84b1e68535e2fe8c12eabf926e27.png)
 
 Google rating: 4.3 stars. At Grand Kenran Resort in Ubud, Bali, you'll enjoy an unparalleled dining experience. Nestled among serene rice paddies, surrounded by lush jungle, and accompanied by the gentle flow of the Petanu River, this resort lets you fully immerse yourself in nature. Whether you're indulging in a floating breakfast, a leisurely lunch, a relaxing afternoon tea, or a romantic candlelit dinner, you can savor delicious cuisine at T'dung Restaurant while taking in Ubud's picturesque views. Surrounded by vibrant greenery, it's the perfect place to unwind and treat yourself.
 
@@ -771,7 +771,7 @@ Google rating: 4.3 stars. At Grand Kenran Resort in Ubud, Bali, you'll enjoy an 
 
 ### Birdhill (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_953a7fbf7ac0d4d69542877b6f3cf991.jpg)
+![Birdhill ( Map: Immerse in Scenic Beauty)](https://images.gobaligo.id/vocus/vocus_953a7fbf7ac0d4d69542877b6f3cf991.jpg)
 
 Google rating: 4.9 stars. Enjoy an extraordinary culinary experience at Birdhill Restaurant, where the art of authentic Balinese cuisine meets the finesse of Western fine dining. Set beside an emerald-green pool, elegantly floating above a picturesque river valley, the restaurant offers an unforgettable dining experience in a breathtaking setting.
 
@@ -779,7 +779,7 @@ Google rating: 4.9 stars. Enjoy an extraordinary culinary experience at Birdhill
 
 ### Wedja Bali (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_60dd495f98d0b373ca455ac4f974d9d7.jpg)
+![Wedja Bali ( Map: Immerse in Scenic Beauty)](https://images.gobaligo.id/vocus/vocus_60dd495f98d0b373ca455ac4f974d9d7.jpg)
 
 Google rating: 4.8 stars. Wedja Restaurant is one of Ubud's most Instagrammable dining spots! Surrounded by enchanting lotus ponds, it lets you enjoy a leisurely meal amidst beautiful natural scenery. The menu offers a wide variety of Balinese and Indonesian dishes to satisfy your taste buds. With plenty of perfect photo spots, Wedja is the ideal blend of great food and capturing beautiful moments.
 
@@ -797,7 +797,7 @@ Google rating: 4.7 stars. Sans Indian Cuisine is an authentic Indian restaurant 
 
 ### Botanist Restaurant Dining & Cooking Class Experience (📍 Map: [Immersed in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_abb2a14f327e01b756e00abc4a5a9ead.jpg)
+![Botanist Restaurant Dining & Cooking Class Experience ( Map:](https://images.gobaligo.id/vocus/vocus_abb2a14f327e01b756e00abc4a5a9ead.jpg)
 
 Google rating: 4.5 stars. Enjoy exquisite meals at Botanist Restaurant Ubud, whether it's a picnic lunch with loved ones or a romantic dinner. You can also join the restaurant's cooking classes to learn about food and cooking techniques, adding fun to your holiday. A stop here will surely elevate your Bali vacation!
 
@@ -805,7 +805,7 @@ Google rating: 4.5 stars. Enjoy exquisite meals at Botanist Restaurant Ubud, whe
 
 ### Terracotta Restaurant Ubud (📍 Map: [Immersed in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5f14ff93899b6d0ec4ad45063b1834ee.jpg)
+![Terracotta Restaurant Ubud ( Map: Immersed in Scenic Beauty)](https://images.gobaligo.id/vocus/vocus_5f14ff93899b6d0ec4ad45063b1834ee.jpg)
 
 Google rating: 4.7 stars. At Terracotta Restaurant, guests can escape the hustle and bustle into a serene, romantic world, admiring stunning rice field views and soaking in the peaceful ambiance of nature. Share delicious meals with your partner while immersing yourself in natural beauty. The restaurant also offers private cooking classes, taking participants on a culinary journey to explore Bali's rich flavors. Not only will you learn to cook delicious local dishes, but you'll also bring these skills and inspiration home to recreate the taste of Bali in your own kitchen. Join the dining program to discover true paradise flavors and enjoy a luxurious experience. Options include floating breakfasts, picnic lunches, romantic dinners, and cooking classes.
 
@@ -813,7 +813,7 @@ Google rating: 4.7 stars. At Terracotta Restaurant, guests can escape the hustle
 
 ### The Puhu Restaurant & Lounge @Padma Resort Ubud (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6292145b559cd7e3df3fa6b8d4c7e707.jpg)
+![The Puhu Restaurant & Lounge @Padma Resort Ubud ( Map: Immer](https://images.gobaligo.id/vocus/vocus_6292145b559cd7e3df3fa6b8d4c7e707.jpg)
 
 Rated 4.8 stars on Google. Enjoy a diverse culinary experience at Padma Resort Ubud! Puhu Restaurant, the resort's all-day dining venue, serves sumptuous dishes with an unparalleled 180-degree view overlooking the resort, forest, and stunning tropical valley. The floating afternoon tea brings this experience to a secluded lower pool, where you can savor treats in a tranquil, private setting. Spend a relaxing afternoon high in the Payangan jungle, indulging in a rich selection of sweet and savory bites paired with tea or coffee. Celebrating love? Enjoy a romantic private dinner in a bamboo nest, savoring a curated menu of fine dishes to make your special moment even more memorable.
 
@@ -821,7 +821,7 @@ Rated 4.8 stars on Google. Enjoy a diverse culinary experience at Padma Resort U
 
 ### Cretya Sunset by Alas Harum (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff6e8ddd6aa93c66985c70061af1de0b.jpg)
+![Cretya Sunset by Alas Harum ( Map: Immerse in Scenic Beauty)](https://images.gobaligo.id/vocus/vocus_ff6e8ddd6aa93c66985c70061af1de0b.jpg)
 
 After the huge success of Cretya Ubud, which offers breathtaking views of the Tegallalang rice terraces, the Alas Harum group unveils its latest masterpiece—Cretya Sunset by Alas Harum, Ubud. This day club and restaurant in Ubud blends luxury, nature, and entertainment, featuring an infinity pool, stylish lounge areas, and a design that fuses modern and Balinese aesthetics. Enjoy gourmet food and cocktails while soaking in stunning sunsets and rice terrace vistas.
 
@@ -831,7 +831,7 @@ Nestled among Ubud's lush rice paddies, Cretya Sunset faces west, making it an i
 
 ### Romantic Boat Picnic
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5b0556f47ff8e26625fbf54926703dbd.png)
+![Romantic Boat Picnic](https://images.gobaligo.id/vocus/vocus_5b0556f47ff8e26625fbf54926703dbd.png)
 
 Looking for a peaceful and romantic escape in the jungles of Ubud, Bali? The "Ubud Romantic Boat Picnic" invites you and your loved one, friends, colleagues, or family to board a beautifully decorated wooden boat and glide across a serene lake surrounded by Ubud's jungle for an unforgettable hour. It's not only a perfect choice for couples to create lasting memories but also a wonderful opportunity to share a unique experience with friends and family! The boat comes with a gourmet picnic basket filled with delicious sandwiches, vegetable hummus dip, fresh fruit, yogurt and granola, plus a bottle of sparkling wine—so you can dine while taking in the views.
 
@@ -841,7 +841,7 @@ The stunning jungle landscape of Ubud and the tranquil lake atmosphere create an
 
 ### Tuju Tropical Club & Dining (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa0ec09dc7b0ef531f313d8f5e414273.jpg)
+![Tuju Tropical Club & Dining ( Map: Immerse in Scenic Beauty)](https://images.gobaligo.id/vocus/vocus_aa0ec09dc7b0ef531f313d8f5e414273.jpg)
 
 Hidden behind Ubud's bustling streets lies a serene tropical oasis—Tuju Tropical Club & Dining. This building blends contemporary design with traditional Balinese elements, tucked among lush greenery, with open spaces that let natural light and breezes flow freely.
 
@@ -853,7 +853,7 @@ Unlike Ubud's typical lively nightclubs, Tuju feels more like a place for quiet 
 
 ### Sari Timbul By Kubu Bali/ST Glass Factory (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e238001fbe0cdbd3b6a7710469c1ab47.jpg)
+![Sari Timbul By Kubu Bali/ST Glass Factory ( Map: Immerse in ](https://images.gobaligo.id/vocus/vocus_e238001fbe0cdbd3b6a7710469c1ab47.jpg)
 
 This is a multi-concept scenic restaurant in Tegallalang, Bali, combining food, art, and nature to create a dreamlike space. Surrounded by lush jungle and rice terraces, the restaurant offers Indonesian traditional dishes, Western, Mexican, and Indian cuisines, with beautifully plated and uniquely flavored meals. The grounds feature Instagram-worthy spots like a high-altitude swing, jungle pool, glass art installations, and dreamy dry ice effects—admission includes photography services, letting visitors easily capture stunning photos.
 
@@ -863,7 +863,7 @@ It's not just a food paradise but an immersive natural art space. The friendly s
 
 ### Kamandalu Ubud: Dining for Two on a Boat (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b322acf45856a93b3945c16a107c8ad.jpg)
+![Kamandalu Ubud: Dining for Two on a Boat ( Map: Immerse in S](https://images.gobaligo.id/vocus/vocus_3b322acf45856a93b3945c16a107c8ad.jpg)
 
 On the serene koi river at Kamandalu Resort, enjoy a one-of-a-kind dining experience for two aboard a traditional wooden boat. Surrounded by lush tropical gardens, colorful koi fish glide through the crystal-clear waters, creating a stunningly romantic scene. The resort's chef has crafted a lavish five-star set menu for two, featuring fresh seasonal ingredients that blend Indonesian flavors with international culinary techniques, paired with selected sparkling wine and signature drinks—a feast for both the palate and the eyes.
 
@@ -873,7 +873,7 @@ A professional photography team will capture this precious moment, allowing you 
 
 ### D'Tukad Coffee Club: Ubud's Rice Terrace Paradise (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_030de012eed182d27698f8168b019df1.jpg)
+![D'Tukad Coffee Club: Ubud's Rice Terrace Paradise ( Map: Imm](https://images.gobaligo.id/vocus/vocus_030de012eed182d27698f8168b019df1.jpg)
 
 Located in Ubud, Bali, D'Tukad Coffee Club is renowned for its prime position overlooking the Tegallalang rice terraces. Guests can savor delicious food while taking in the breathtaking layered rice paddy views. The club features an infinity pool surrounded by comfortable sun loungers, inviting visitors to unwind in a tropical ambiance. It offers a rich selection of international cuisine and handcrafted cocktails, complemented by professional and friendly service, creating a perfect dining experience.
 
@@ -883,7 +883,7 @@ If you love the majestic rice terrace scenery but want to avoid the crowds of an
 
 ### Titi Batu Ubud Club (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a2bf4eb4a96fb28e441b16ba81c0c21e.jpg)
+![Titi Batu Ubud Club ( Map: Immerse in Scenic Beauty)](https://images.gobaligo.id/vocus/vocus_a2bf4eb4a96fb28e441b16ba81c0c21e.jpg)
 
 Titi Batu Ubud Club is a lifestyle club that combines fitness, leisure, and family-friendly fun. It features a gym, basketball court, squash court, skate park, swimming pool, spa, dance studio, yoga studio, sauna, restaurant, and children's play areas. Whether you want to break a sweat, relax, or bring the kids for some water fun, there's a space for everyone. With its spacious and comfortable environment, infused with Ubud's natural charm, it has become a daily retreat for many expat families living in Bali—a true paradise for both adults and children.
 
@@ -901,7 +901,7 @@ Ubud's food scene is truly vibrant, offering not only traditional Indonesian cui
 
 ### Savor Delicious and Affordable Local Food
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4182aca9b5cf1fe4d85278c159021273.jpg)
+![Savor Delicious and Affordable Local Food](https://images.gobaligo.id/vocus/vocus_4182aca9b5cf1fe4d85278c159021273.jpg)
 
 When in Bali, you've got to try the local cuisine! So what are Bali's local specialties? Check out Xiao Jie's guide to "[Top 10 Local Foods in Bali](/blog/bali-travel-tips/)" — it's a true culinary adventure.
 
@@ -911,11 +911,11 @@ When in Bali, you've got to try the local cuisine! So what are Bali's local spec
 
 ### Pura Ulun Danu Bratan (Bali's Water Temple) (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0bcbb190a64dc4d8d05b92348d7fda9c.jpg)
+![Pura Ulun Danu Bratan (Bali's Water Temple) ( Map: Popular A](https://images.gobaligo.id/vocus/vocus_0bcbb190a64dc4d8d05b92348d7fda9c.jpg)
 
 Completed in 1633, Pura Ulun Danau (Ulun Danu Temple) sits on the shores of Lake Bratan in central Bali and is also known as the "Bratan Water Temple." Since Lake Bratan is the main irrigation source for central Bali, this temple once served as a venue for ceremonies honoring Dewi Danu, the goddess of water, lakes, and rivers. Additionally, the 11-tiered Pura Ulun Danau is dedicated to Shiva and Parvati, and a statue of the Buddha is enshrined here, making it a temple that blends Hinduism and Buddhism.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf3c1b5963a5c33d38b37b9e3375ccf4.jpg)
+![Pura Ulun Danu Bratan (Bali's Water Temple) ( Map: Popular A](https://images.gobaligo.id/vocus/vocus_bf3c1b5963a5c33d38b37b9e3375ccf4.jpg)
 
 Interestingly, this Balinese water temple is featured on Indonesia's currency, appearing on the second-largest denomination in circulation: the 50,000 Indonesian rupiah note, which is worth about USD$2.
 
@@ -931,7 +931,7 @@ The Kintamani area is renowned for its stunning views of Mount Batur and Lake Ki
 
 ### Toya Devasya Hot Spring Water Park (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d938aab64c88210c3c4550474c7836f5.jpg)
+![Toya Devasya Hot Spring Water Park ( Map: Popular Attraction](https://images.gobaligo.id/vocus/vocus_d938aab64c88210c3c4550474c7836f5.jpg)
 
 As a volcanic island, Bali is home to one of its most famous hot springs: Toya Devasya. This hot spring water park, built on the shores of Lake Batur, is one of the island's most popular attractions, known for its natural hot springs, water park, and stunning lake views.
 
@@ -957,7 +957,7 @@ In 1963, Mount Agung erupted, killing 1,700 people, yet the lava flow stopped ju
 
 ## [Around the Gates of Heaven]
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3935fc95f48473d004b5876f6ee21fc4.jpg)
+![Around the Gates of Heaven](https://images.gobaligo.id/vocus/vocus_3935fc95f48473d004b5876f6ee21fc4.jpg)
 
 In eastern Bali, three nearby attractions are perfect for capturing ethereal, photo-worthy shots!
 
@@ -991,7 +991,7 @@ Ujung Water Palace, located in eastern Bali, is an ancient water palace built on
 
 ### Lahangan Sweet (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_74598b56d57a7612b9194f61252b5a43.jpg)
+![Lahangan Sweet ( Map: Popular Attractions Around Ubud)](https://images.gobaligo.id/vocus/vocus_74598b56d57a7612b9194f61252b5a43.jpg)
 
 Discover the hidden gem Lahangan Sweet, and capture dreamy photos together!
 
@@ -1003,7 +1003,7 @@ Want to know how to take ethereal photos rivaling the Gates of Heaven? What's th
 
 ## [Enjoy Peaceful Nature at Your Hotel]
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a8a800870e5d4dde0de0e5abdc92693c.jpg)
+![Enjoy Peaceful Nature at Your Hotel](https://images.gobaligo.id/vocus/vocus_a8a800870e5d4dde0de0e5abdc92693c.jpg)
 
 At hotels in Ubud, you can immerse yourself in the tranquility of nature. These hotels are often nestled in lush tropical jungles or amidst verdant rice paddies, offering a comfortable experience that blends with the natural surroundings. Relax on a spacious terrace to watch the sunrise or unwind in a cool pool.
 
@@ -1077,7 +1077,7 @@ We also have five more themed Ubud accommodations for your reference, helping yo
 
 ### Camping Sites
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa2e5903772efc3eb6c62e1a5eb3ec46.jpg)
+![Camping Sites](https://images.gobaligo.id/vocus/vocus_aa2e5903772efc3eb6c62e1a5eb3ec46.jpg)
 
 Newly opened in 2025, the luxury glamping site Toya Ubud starts from just USD$19 per night. Check out the [detailed introduction](/blog/toya-ubud-new-attraction/).
 

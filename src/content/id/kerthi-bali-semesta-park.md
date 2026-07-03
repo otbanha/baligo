@@ -20,7 +20,7 @@ _srcHash: 3075321664a757a0cebcbbe14c8ef50b
 
 ## **Paramount Masuk Bali｜Kerthi Bali Semesta Park Dijadwalkan Buka 2026**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6e1514a7e3f77a9ddd98d7ba1560bd96.jpg)
+![Paramount Masuk Bali｜Kerthi Bali Semesta Park Dijadwalkan Bu](https://images.gobaligo.id/vocus/vocus_6e1514a7e3f77a9ddd98d7ba1560bd96.jpg)
 
 Bali lagi masuk era baru pariwisata. Proyek **Kerthi Bali Semesta Park (KBS Park)** di **Kawasan Pemerintahan Jembrana**, Bali Barat, udah masuk tahap pembangunan utama dan diperkirakan bakal **resmi dibuka tahun 2026**. Taman hiburan ini digarap sama **Paramount Pictures** dan perusahaan Indonesia **PT Kios Ria Kreas (KIOS)**. Tujuannya? Menggabungkan brand hiburan internasional dengan budaya lokal Bali, jadi taman hiburan pertama di Indonesia yang memadukan film dan budaya.
 
@@ -28,7 +28,7 @@ Bali lagi masuk era baru pariwisata. Proyek **Kerthi Bali Semesta Park (KBS Park
 
 ## **Tema Taman: Hiburan Hollywood × Legenda Bali, Paduan Sempurna**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2bdc5bdefc0003786f5f2c91e844831b.jpg)
+![Tema Taman: Hiburan Hollywood × Legenda Bali, Paduan Sempurn](https://images.gobaligo.id/vocus/vocus_2bdc5bdefc0003786f5f2c91e844831b.jpg)
 
 Desain Kerthi Bali Semesta Park terbagi jadi dua zona utama:
 
@@ -56,7 +56,7 @@ Bupati Jembrana, **Kembang Hartawan**, menyatakan: "Kerthi Bali Semesta Park ada
 
 ## **Jalan Tol Gilimanuk-Mengwi: Penghubung Masa Depan Pariwisata**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d34afd400c1c24665aedfd62011a78c5.jpg)
+![Jalan Tol Gilimanuk-Mengwi: Penghubung Masa Depan Pariwisata](https://images.gobaligo.id/vocus/vocus_d34afd400c1c24665aedfd62011a78c5.jpg)
 
 Untuk mendukung permintaan pariwisata dan infrastruktur yang besar, pemerintah Indonesia secara bersamaan mendorong pembangunan **Jalan Tol Gilimanuk-Mengwi (bagian dari proyek Jagat Kerthi Bali)**, yang saat ini telah mencapai **lebih dari 20% pengerjaan tahap awal**.
 

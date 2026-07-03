@@ -24,7 +24,7 @@ lang: id
 _srcHash: 03bf2852b16acb76b236a14cdfced10e
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8ffdd23b3ea35924d1c2b50895d7406d.jpg)
+![Belanja di Bali paling murah di mana? Rekomendasi Belanja Ba](https://images.gobaligo.id/vocus/vocus_8ffdd23b3ea35924d1c2b50895d7406d.jpg)
 
 ### Pasar Grosir Seni Terbesar di Bali – Kumbasari Art Market
 

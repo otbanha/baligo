@@ -23,7 +23,7 @@ _srcHash: 3c3c5eaef1257a3040e929f048c484e6
 
 ## **🚖 巴厘岛出租车司机抗议后 政府加强监管网约车**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9fcfc4a88f2af864cc1d6061296a6c6c.jpg)
+![巴厘岛出租车司机抗议后 政府加强监管网约车](https://images.gobaligo.id/vocus/vocus_9fcfc4a88f2af864cc1d6061296a6c6c.jpg)
 
 巴厘岛政府即将推出一系列新规定，以保护本地出租车司机的生计。这项决定是在2025年1月5日，[数百名出租车司机于登巴萨（Denpasar）举行大规模抗议](https://www.facebook.com/share/p/1BJfdZGmQQ/)后做出的。
 
@@ -55,7 +55,7 @@ _srcHash: 3c3c5eaef1257a3040e929f048c484e6
 
 示威者还强调，应该限制来自其他地区的司机在巴厘岛工作，因为他们经常违规，影响本地出租车行业的声誉。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_16bdddb821585be8cda7dedab15236b9.png)
+![当地司机的不满与担忧](https://images.gobaligo.id/vocus/vocus_16bdddb821585be8cda7dedab15236b9.png)
 
 ---
 
@@ -107,7 +107,7 @@ _srcHash: 3c3c5eaef1257a3040e929f048c484e6
 
 ## 📩 **立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **通过免费订阅，你将获得：**
 

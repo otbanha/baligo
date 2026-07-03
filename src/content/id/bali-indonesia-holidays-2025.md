@@ -26,7 +26,7 @@ _srcHash: cb80a43795c31876a49ddbc82741962e
 ---
 Bali, pulau Indonesia yang indah bagaikan lukisan, punya festival dan perayaan di tahun 2025 yang bakal membawamu ke pesta budaya super meriah. Mau menghindari waktu tertentu atau pengin ikut acara seru di Bali, panduan lengkap ini bakal jadi indeks terbaikmu! Yuk, kita jelajahi festival dan perayaan penuh energi di pulau unik ini!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c0f9a3baeb0aed740edc947ff8866451.jpg)
+![Panduan Lengkap Hari Libur Nasional Indonesia & Festival Bal](https://images.gobaligo.id/vocus/vocus_c0f9a3baeb0aed740edc947ff8866451.jpg)
 
 - **Buat yang mau hindari lima musim ramai di Bali, cek:**[**Ternyata Bali Punya Lima Musim Ramai! Gimana Cara Pinter Traveling Biar Nggak Kena Macet?**](/blog/bali-peak-season-travel-tips/)
 - **Kapan musim hujan dan kemarau di Indonesia/Bali? Lihat:**[**Waktu Terbaik ke Bali? Pahamin Musim Kemarau, Hujan, Plus Minusnya**](/blog/bali-best-time-to-visit/)[**di Sini**](/blog/bali-best-time-to-visit/)
@@ -51,7 +51,7 @@ Tekan tombol "Buka Daftar Isi" buat navigasi cepat
 
 ### **29: Tahun Baru Imlek (Hari Libur Nasional Indonesia)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_09f7fefc9dd080bd21bce0fb2b64106b.png)
+![29: Tahun Baru Imlek (Hari Libur Nasional Indonesia)](https://images.gobaligo.id/vocus/vocus_09f7fefc9dd080bd21bce0fb2b64106b.png)
 
 - 1 Januari, Tahun Baru, hampir jadi hari libur nasional di seluruh dunia, termasuk Indonesia/Bali. Biasanya puncak perayaannya di malam tahun baru 31 Desember. Orang Indonesia di momen ini punya liburan ~~spontan~~ yang disebut "Nataru", lihat deskripsi festival di bagian Desember paling bawah.
 - 27 Januari, [Siwa Ratri] adalah salah satu festival penting di kalender Bali. Siwa Ratri menekankan introspeksi, meditasi, dan memohon pengampunan. Ritualnya termasuk tidak tidur selama 36 jam, puasa 24 jam, dan diam selama 12 jam. Setelah periode ini, biasanya ada upacara pembersihan di pantai, dan juga upacara di beberapa pura besar di pulau.
@@ -87,11 +87,11 @@ Libur Tahun Baru Imlek, orang dewasa dapat cuti panjang, anak-anak libur sekolah
 - Di awal bulan Maret ini, hampir 90% umat Islam di Indonesia memulai puasa selama sebulan penuh. Apa itu puasa? Kenapa harus puasa? Tanya jawab seputar bulan puasa bisa kamu simak penjelasan dari Mama Xiaojie: [Asal Usul dan Makna Bulan Puasa｜Q & A Bulan Puasa/Idul Fitri](https://youtu.be/15zXGMEE3Q8)
 - Tanggal 14 Maret 2025 adalah Holi, festival Hindu yang merayakan musim semi dan cinta, juga dikenal sebagai Festival Warna. Pada hari ini, orang-orang saling melempar bubuk warna-warni dan berbagi makanan serta manisan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e262dc875b3d385b0a30b0bbc2488dff.jpg)
+![29 Hari: Hari Raya Nyepi & Tahun Baru Hindu (Nyepi) (Libur N](https://images.gobaligo.id/vocus/vocus_e262dc875b3d385b0a30b0bbc2488dff.jpg)
 
 - 3/26 親親節「Omed Omedan」，這是峇里島最令人興奮的節日之一。在這一天，大批未婚年輕人聚集在一起，參加大規模的接吻活動。活動中男女兩組人站在對面，然後開始擁抱和親吻。旁觀者為他們加油時，會向他們潑水。這項活動歡迎外國遊客觀看，但應該避免參與其中。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6b252b2d57e214e8d6f81ceac66a1617.png)
+![29 Hari: Hari Raya Nyepi & Tahun Baru Hindu (Nyepi) (Libur N](https://images.gobaligo.id/vocus/vocus_6b252b2d57e214e8d6f81ceac66a1617.png)
 
 - 3/28 峇里島妖怪大遊行，超特別的體驗！請看小傑的介紹，有機會可以前來體會一下喔：
 
@@ -123,7 +123,7 @@ Libur Tahun Baru Imlek, orang dewasa dapat cuti panjang, anak-anak libur sekolah
 - 18 April adalah hari raya Kristen. Berdasarkan Pancasila yang menjamin kesetaraan lima agama besar, hari besar Kristen juga merupakan hari libur nasional di Indonesia.
 - Mulai 23 April ada Galungan & Kuningan, salah satu festival terpenting di Bali. Galungan jatuh pada 23 April dan berlangsung hingga Kuningan 10 hari kemudian, merayakan penciptaan alam semesta dan kemenangan kebaikan atas kejahatan. Selama festival ini, hiasan penjor yang menjulang tinggi menghiasi jalan-jalan dengan suasana meriah, sementara sesajen, ritual, dan perayaan yang melimpah memberi kamu gambaran tentang kekayaan budaya dan spiritual pulau ini. Orang-orang bersembahyang kepada leluhur di rumah, memohon berkah mereka, dan juga mengadakan upacara di pura untuk menghormati para dewa. Hari Galungan, berdasarkan kalender Pawukon Bali, juga merupakan hari penciptaan alam semesta. Selama periode ini, sekolah-sekolah di Bali libur selama dua minggu — betapa pentingnya festival ini! Perlu diingat, transportasi seperti kapal, mobil sewaan, dan taksi pasti terpengaruh! Banyak pemandu wisata dan sopir lokal ambil cuti beberapa hari selama perayaan utama, jadi sebaiknya pesan jauh-jauh hari. Keesokan harinya setelah Galungan (Manis Galungan) adalah hari di mana penduduk setempat mengunjungi kerabat atau jalan-jalan bersama, jadi kamu mungkin akan menemukan jalanan sangat padat. Perayaan besar juga bisa menyebabkan kemacetan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_915edf5929d8760c256d49e2bd7cc6c4.png)
+![23 日： Galungan & Kuningan(峇里島印度教節慶)](https://images.gobaligo.id/vocus/vocus_915edf5929d8760c256d49e2bd7cc6c4.png)
 
 ## Mei
 
@@ -217,7 +217,7 @@ Desa Penglipuran adalah pengalaman yang luar biasa
 
 - 1-2 Agustus: [Ubud Village Jazz Festival](https://ubudvillagejazzfestival.com/) (UVJF) adalah salah satu acara jazz paling penting di Asia! Festival musik ini sudah jadi ikon di pusat budaya Bali, menarik pecinta jazz dari seluruh dunia setiap tahun. UVJF 2025 akan digelar pada 1 dan 2 Agustus di STHALA UBUD, memberikan pengalaman musik dua malam yang tak terlupakan. UVJF 2025 terpilih sebagai salah satu dari sepuluh acara nasional teratas oleh Kementerian Pariwisata dan Ekonomi Kreatif Indonesia, menunjukkan pengaruh dan signifikansinya. Festival ini menghadirkan musisi jazz top dari berbagai negara, didukung oleh kedutaan besar, dan menjadi platform penting pertukaran budaya internasional.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b4d696ee672b4996982a4b26101af9ef.png)
+![27: Ganesh Chaturthi (Perayaan Hindu Bali)](https://images.gobaligo.id/vocus/vocus_b4d696ee672b4996982a4b26101af9ef.png)
 
 - 17 Agustus: Hari Kemerdekaan Indonesia alias Hari Nasional Indonesia, dirayakan setiap 17 Agustus. Pada hari ini, rakyat Indonesia mengadakan berbagai perayaan, termasuk lomba seru, parade, konser, dan pertunjukan kembang api.
 
@@ -265,7 +265,7 @@ Bali Carnival
 
 ### 19 November: Galungan & Kuningan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b0e3cc8c2f397f61aa33ecbc19333ca.jpg)
+![19 November: Galungan & Kuningan](https://images.gobaligo.id/vocus/vocus_0b0e3cc8c2f397f61aa33ecbc19333ca.jpg)
 
 Galungan & Kuningan dimulai pada 19 November. Ini adalah perayaan Galungan & Kuningan kedua di tahun 2025, dan juga salah satu festival terpenting di Bali. Galungan pada 19 November berlangsung hingga Kuningan 10 hari kemudian, merayakan penciptaan alam semesta dan kemenangan kebaikan atas kejahatan.
 
@@ -339,7 +339,7 @@ Acara festival biasanya jadi hajatan besar buat desa atau komunitas. Warga baren
 
 📩 **Langganan sekarang blog 'Panduan Travel Bali', jadi traveler Bali yang jago!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Daftar & Gabung Blog Kami](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

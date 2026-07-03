@@ -14,7 +14,7 @@ _srcHash: f1f1fcb4a5fce1d821083bf0cba16bfa
 
 巴厘岛以其迷人的自然景致、丰富的文化内涵而闻名，每年吸引无数游客到访。这个印尼著名旅游胜地的住宿选择也相当多元丰富，从奢华度假村到经济实惠的小旅馆应有尽有，无论你是追求奢华体验还是简单实惠的住宿，在巴厘岛都能找到合适的选择。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc04ae4423e5707c3b4106ae8ab988b9.jpg)
+![【实拍视频】巴厘岛从坎古、水明漾、金巴兰、乌布、佩尼达岛的12间住宿推荐](https://images.gobaligo.id/vocus/vocus_cc04ae4423e5707c3b4106ae8ab988b9.jpg)
 
 在底下这部YouTube视频中，Camilla Johannesen这位旅游博主带领观众探索巴厘岛上最佳的住宿选择。她展示了从豪华度假村到经济实惠的民宿的各种选项，无论是何种旅游喜好和预算都有适合你的选项。
 

@@ -26,7 +26,7 @@ _srcHash: d7b52d82ff6d54ddadadd5a546f47157
 
 2026 年嚟峇里島，唔好淨係去咖啡廳啦！真正識玩嘅人，開始「Beach Club Jumping」🌊🍹
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_798440c5b6e0bb700e10113413c9259e.jpg)
+![【2026 峇里島必玩】唔好淨係去咖啡廳啦！識玩嘅人都喺度玩「Beach Club Jumping」全島跳店攻略](https://images.gobaligo.id/vocus/vocus_798440c5b6e0bb700e10113413c9259e.jpg)
 
 嚟峇里島度假嘅美好之處，就喺於選擇永遠比時間多。短短兩星期內，你可以每日切換唔同身份：朝早係衝浪咖，下晝變成自然派旅人，傍晚瞓喺躺椅度睇夕陽，夜晚再切換成派對模式。呢種自由感，正係峇里島最迷人嘅地方。
 

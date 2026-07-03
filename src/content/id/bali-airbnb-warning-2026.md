@@ -28,7 +28,7 @@ _srcHash: bbc98a204fe77f471be4f6914e135336
 Kamu pasti sering kayak gini, kan?
 Buka Airbnb, nemu villa kolam renang cantik di Bali, harganya setengah dari hotel, langsung bayar tanpa pikir panjang. Lalu dengan senang hati hitung mundur hari keberangkatan…
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7bfbbcea9b14e9d87a3cf1605faa4429.jpg)
+![Ke Bali jangan buru-buru booking Airbnb! Akhir Maret 2026, h](https://images.gobaligo.id/vocus/vocus_7bfbbcea9b14e9d87a3cf1605faa4429.jpg)
 
 Tunggu dulu. Tahun 2026, kebiasaan ini bisa bikin kamu kehilangan deposit dengan sia-sia, atau bahkan pas sampai di sana baru sadar "**villa yang kamu booking ternyata nggak bisa diinapi**".
 
@@ -66,7 +66,7 @@ Kalau itinerary kamu padat banget, bawa orang tua atau anak kecil, milih hotel r
 
 ## Saran Kami
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b60a90290551cc0591b557f9259371a7.jpg)
+![Saran Kami](https://images.gobaligo.id/vocus/vocus_b60a90290551cc0591b557f9259371a7.jpg)
 
 Periode transisi dari akhir Maret sampai Juni ini adalah masa paling kacau buat pasar Airbnb di Bali. Kalau rencana liburanmu ke Bali jatuh di waktu ini, gue saranin sih hati-hati banget.
 Bukan berarti kamu jangan pergi, tapi biar perjalananmu tetap nyaman.

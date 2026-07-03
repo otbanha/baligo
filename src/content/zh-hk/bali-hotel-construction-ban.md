@@ -19,7 +19,7 @@ _srcHash: f966769b66accb9dfd13c23312c144ad
 ---
 ## **禁建計劃嘅背景與動機**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3480635877a3cd735d124f721b373446.png)
+![禁建計劃嘅背景與動機](https://images.gobaligo.id/vocus/vocus_3480635877a3cd735d124f721b373446.png)
 
 峇里島南部，包括登巴薩、峇東、吉安雅同塔巴南（統稱為Sarbagita）地區，近年嚟成為熱門嘅旅遊發展區。然而，隨住旅遊業嘅快速增長，當地嘅農田同自然景觀正面臨被過度開發嘅風險。為咗應對呢啲挑戰，峇里島代理省長桑瑪德·馬亨德拉·賈雅提出咗一項禁令提案，旨在暫停南部地區所有新酒店、別墅、夜總會及海灘俱樂部嘅興建。
 
@@ -47,7 +47,7 @@ _srcHash: f966769b66accb9dfd13c23312c144ad
 
 不過，從長遠嚟睇，呢項禁令嘅實施可能會促使峇里島嘅旅遊業轉向更加可持續嘅發展模式。通過限制過度開發，峇里島將能夠保護其獨特嘅自然同文化資源，為未來嘅旅遊業奠定更加穩固嘅基礎。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_10c0006ac7d25dc9cf50ee86b964bd71.png)
+![可能嘅影響與展望](https://images.gobaligo.id/vocus/vocus_10c0006ac7d25dc9cf50ee86b964bd71.png)
 
 ## **如何應對過度開發嘅挑戰**
 

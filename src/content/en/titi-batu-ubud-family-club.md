@@ -33,7 +33,7 @@ In Bali, most beach clubs or jungle clubs, while lively, often lack **child-frie
 
 However, **Titi Batu Ubud Club** in Ubud breaks this limitation. This multifunctional lifestyle club combines **fitness, family entertainment, and relaxation**, catering to adults' wellness needs while providing a safe, spacious, and fun environment for kids. With its natural ambiance and comfortable design, it has become a daily destination for expat families and locals alike, offering a shared paradise in Ubud.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cdccff4eb7d8371bef1024a0f77858f8.jpg)
+![【Ubud Family-Friendly Recommendation】Titi Batu Ubud Club Gui](https://images.gobaligo.id/vocus/vocus_cdccff4eb7d8371bef1024a0f77858f8.jpg)
 
 ***
 
@@ -41,7 +41,7 @@ However, **Titi Batu Ubud Club** in Ubud breaks this limitation. This multifunct
 
 ### **Fitness & Sports Areas**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eba6623de0c87553608421feec160e15.jpg)
+![Fitness & Sports Areas](https://images.gobaligo.id/vocus/vocus_eba6623de0c87553608421feec160e15.jpg)
 
 - World-class gym
 - Basketball court, squash court, ping pong area
@@ -49,7 +49,7 @@ However, **Titi Batu Ubud Club** in Ubud breaks this limitation. This multifunct
 
 ### **Water Facilities & Relaxation Spaces**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf4fce54cadd2343e4e9ffe0a5b9ff0e.jpg)
+![Water Facilities & Relaxation Spaces](https://images.gobaligo.id/vocus/vocus_bf4fce54cadd2343e4e9ffe0a5b9ff0e.jpg)
 
 - Large swimming pool
 - Hot and cold pools
@@ -57,7 +57,7 @@ However, **Titi Batu Ubud Club** in Ubud breaks this limitation. This multifunct
 
 ### **Family Entertainment**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f9cea5400791f2842a2fbb039dadaae5.jpg)
+![Family Entertainment](https://images.gobaligo.id/vocus/vocus_f9cea5400791f2842a2fbb039dadaae5.jpg)
 
 - Kids' playroom
 - Family-friendly splash pool
@@ -65,9 +65,9 @@ However, **Titi Batu Ubud Club** in Ubud breaks this limitation. This multifunct
 
 ### **Leisure & Socializing**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0d1f2f84406f7134621e2b2daa573e3c.jpg)
+![Leisure & Socializing](https://images.gobaligo.id/vocus/vocus_0d1f2f84406f7134621e2b2daa573e3c.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_954074e0c8b366b35dd5757797a2c453.jpg)
+![Leisure & Socializing](https://images.gobaligo.id/vocus/vocus_954074e0c8b366b35dd5757797a2c453.jpg)
 
 - Restaurant and café area
 - Dance studio, yoga studio
@@ -85,7 +85,7 @@ Titi Batu Ubud Club is built on sacred land near the historic **Titi Batu Bridge
 
 For detailed location, refer to the "Family-Friendly Playgrounds & Restaurants" section in the Ubud Guide Map. Click [here](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac630e4994ccfac0738986cc0f642c61.png)
+![Unique Geographical & Cultural Background](https://images.gobaligo.id/vocus/vocus_ac630e4994ccfac0738986cc0f642c61.png)
 
 ***
 

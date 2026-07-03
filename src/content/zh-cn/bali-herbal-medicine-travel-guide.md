@@ -20,7 +20,7 @@ _srcHash: 5b547a79e214f8c2a6105c7121485746
 
 当我们准备前往印尼或巴厘岛时，有些旅客有需要携带中药粉和保健食品，这些物品对他们的健康至关重要。然而，不同国家对于药品和保健食品的规定各异，尤其是印尼在药物的管制上比其他国家严格。了解并遵守这些规定至关重要，以避免不必要的麻烦和延误。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_619b4403db9a1862faf0bf6a5c9fea52.png)
+![如何安全携带中药粉和保健食品到印尼巴厘岛：完整指南](https://images.gobaligo.id/vocus/vocus_619b4403db9a1862faf0bf6a5c9fea52.png)
 
 前不久才有一名澳洲旅客携带处方药物，在印尼被视为禁药而被拘留长达4天，并接受了长达14小时的审问，惨罚USD$26,451，请看下列链接：
 
@@ -48,7 +48,7 @@ _srcHash: 5b547a79e214f8c2a6105c7121485746
 
 ## 📩 **「巴厘岛旅游攻略」首页说明
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
+![「巴厘岛旅游攻略」首页说明](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 
 **通过免费订阅，你将获得：**
 

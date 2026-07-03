@@ -57,23 +57,23 @@ Wahaha Pork Ribs (provided by Zhang Jiawei)
 
 For dinner, we chose **Wahaha Pork Ribs**, where the grilled pork ribs and corn were both satisfying. The restaurant also featured traditional Balinese Barong dance performances, adding a lot of charm to the evening. Later, we checked into Marriott's **Fairfield Legian**, which has a great location, friendly and enthusiastic staff, and a clean, beautiful pool, perfectly concluding our relaxing and enjoyable first day of the trip.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770405965-542155852.jpg)
+![September 4th: Welcome Flower Necklaces and Our First Spa Ex](https://images.gobaligo.id/images/2026-05/1778770405965-542155852.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770407107-465549953.jpg)
+![September 4th: Welcome Flower Necklaces and Our First Spa Ex](https://images.gobaligo.id/images/2026-05/1778770407107-465549953.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770407570-465549992.jpg)
+![September 4th: Welcome Flower Necklaces and Our First Spa Ex](https://images.gobaligo.id/images/2026-05/1778770407570-465549992.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770408258-465550003.jpg)
+![September 4th: Welcome Flower Necklaces and Our First Spa Ex](https://images.gobaligo.id/images/2026-05/1778770408258-465550003.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770408714-465550035.jpg)
+![September 4th: Welcome Flower Necklaces and Our First Spa Ex](https://images.gobaligo.id/images/2026-05/1778770408714-465550035.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770409260-465550045.jpg)
+![September 4th: Welcome Flower Necklaces and Our First Spa Ex](https://images.gobaligo.id/images/2026-05/1778770409260-465550045.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770409893-465550080.jpg)
+![September 4th: Welcome Flower Necklaces and Our First Spa Ex](https://images.gobaligo.id/images/2026-05/1778770409893-465550080.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770410687-465550095.jpg)
+![September 4th: Welcome Flower Necklaces and Our First Spa Ex](https://images.gobaligo.id/images/2026-05/1778770410687-465550095.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770411095-465550097.jpg)
+![September 4th: Welcome Flower Necklaces and Our First Spa Ex](https://images.gobaligo.id/images/2026-05/1778770411095-465550097.jpg)
 
 [**▶Fairfield Legian Availability Check & Rates**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2179176) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=8669641&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjM0MDAwNTQ2NdU1SLRMtDBOTNU1sTQxNrDUNTIwMdL4v-zazKfGRgZagvEhnp4uhiWFqWaFpZY5RQWmpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYnNwMnUzNo_ikmEPCXRRX3mRee2DCafsk1qoM3ZDwjF5xAAJsCP2BAAAA&masterhotelid_tracelogid=100051355-0a9a83ae-494309-2042&detailFilters=17|1~17~1*31|8669641~31~8669641*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1425&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/AaX6Ygwm)
 
@@ -81,7 +81,7 @@ For dinner, we chose **Wahaha Pork Ribs**, where the grilled pork ribs and corn 
 
 ## **September 5: Spectacular Nusa Penida Day Trip and Snorkeling Experience**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_732ed238988d475c0faa6b704e8e9383.jpg)
+![September 5: Spectacular Nusa Penida Day Trip and Snorkeling](https://images.gobaligo.id/vocus/vocus_732ed238988d475c0faa6b704e8e9383.jpg)
 
 Today's highlight was a day trip to **Nusa Penida**. We set off early, and our driver even arranged for his girlfriend Indah to be our assistant guide, accompanying us throughout the day. She helped us choose good seats on the boat, took photos for us, and kept our belongings safe. Upon arriving at Nusa Penida, we visited stunning spots like **Broken Beach** and **Kelingking Beach**, where the sapphire-blue clear waters shimmered, leaving us in awe.
 
@@ -107,7 +107,7 @@ Next, we enjoyed a **natural hot spring bath** by the volcano. Although the over
 
 > Editor’s Note: Siobak: A Balinese Dish from Singaraja
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5c5fd5848222adbc7cbc5b7ebac95bdf.jpg)
+![September 6: Sunrise at the Volcano and Pork Cuisine Adventu](https://images.gobaligo.id/vocus/vocus_5c5fd5848222adbc7cbc5b7ebac95bdf.jpg)
 
 Siobak is a traditional dish from Singaraja, made with pork. Its name originates from Chinese culture (siu yuk, meaning roasted pork), perfectly blending local and Chinese flavors. Since Hinduism is prevalent in Bali, where beef is considered sacred, pork has become a popular choice.
 
@@ -135,7 +135,7 @@ You can freely enter and exit the restaurant without worrying about missing the 
 
 That evening, we stayed at **Ubud Element by Westin** in Ubud, where the upgraded room provided us with a comfortable night's rest.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770782016-ue1.webp)
+![September 7: Waterfalls and Night Safari](https://images.gobaligo.id/images/2026-05/1778770782016-ue1.webp)
 
 [**▶Check Availability & Rates for Ubud Element by Westin**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=4949741) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=15238353&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6zczFJMEk9YWZY8ukSf9YhRiNDDgtPgk6ejysElm3u93Bc9ZMINje4xDA08gYtEOu9fVEa4cZjBc7F7GvYGTcyAhW9z7ZYQcj0wFGphOMqxUXMLV13uE5xcLM8ZT1EstXpuhqpezUSiUrEx2lksySnFQlK6Wni-Y9bdjzfEWrko5SSmpxMlAIyErMzS_NKwGyjU2N9QwMgCIliRWeKWCdyYk5yaU5iSWpIZUFQBPMdJQyi51LijILglJzM0tKUoGq0hJzilNB4kGpxUCZZLCgkh_QmCKoQGZ-HkS7AYpYWGJOaSrECUAL3VKhdhjW6mC6_Nmc3qfdM19s2o3D5RYWKC43HxCXG9fGPmJhio79xMLwi4WhiZWhi5VhEiszx2rFXaw8gV5R7kF-uoa6UbqGUiqGBgYGpobGpqa6BomWFsZGiRa6JpYmxgYWukYGJgaGhgZmppYa266cmfnU2MhainXKgefT2BUYtQTjQzw9XQxLClPNCkstc4oKTA0YTzFKGZobWxgaGRoaGRlZGuuZWKSZFVvkFVvkZkV4MAaxmbmYW5pZRtlwMXu6BAne-8-Sq61saS_FHBLuorjyJvPaAxNO22uB5AxhcoEWX8T431susI-EySexVmXohoRn9IoXMDYwMnUxcgswejBGMFYAeYyrGNm5mA2MDAWYNjAy7mD8DwOMrxhBlgAAtgEl-ewCAAA&masterhotelid_tracelogid=100051355-0a9832a8-494308-2040110659&detailFilters=17|1~17~1*31|15238353~31~15238353*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1264&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/xoKiFy4a)
 
@@ -175,21 +175,21 @@ In the evening, we arranged a special birthday dinner for her at **Cuca Restaura
 
 We stayed overnight at **VIVARA Private Pool Villas & Spa Retreats**. Upon arrival, the hotel greeted us with welcome juice shots and cold towels, which felt refreshing. A golf cart took us to our villa, where we were greeted by a spacious private pool, an outdoor kitchen, and a dining area (all drinks in the fridge were complimentary!). The room was spacious and comfortable, featuring an open-air bathroom and a bathtub with a rain shower. The only minor drawbacks were that the hot water wasn’t hot enough and the bathtub drain was a bit loose, causing water to leak. Overall, though, we were very satisfied.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770890235-434285647.jpeg)
+![September 9: A Surprise Birthday Celebration for My Girlfrie](https://images.gobaligo.id/images/2026-05/1778770890235-434285647.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770890753-434285792.jpeg)
+![September 9: A Surprise Birthday Celebration for My Girlfrie](https://images.gobaligo.id/images/2026-05/1778770890753-434285792.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770891138-511160052.jpeg)
+![September 9: A Surprise Birthday Celebration for My Girlfrie](https://images.gobaligo.id/images/2026-05/1778770891138-511160052.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770891611-511160140.jpeg)
+![September 9: A Surprise Birthday Celebration for My Girlfrie](https://images.gobaligo.id/images/2026-05/1778770891611-511160140.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770892051-511160261.jpeg)
+![September 9: A Surprise Birthday Celebration for My Girlfrie](https://images.gobaligo.id/images/2026-05/1778770892051-511160261.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770892450-399460071.jpeg)
+![September 9: A Surprise Birthday Celebration for My Girlfrie](https://images.gobaligo.id/images/2026-05/1778770892450-399460071.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770892788-399460105.jpeg)
+![September 9: A Surprise Birthday Celebration for My Girlfrie](https://images.gobaligo.id/images/2026-05/1778770892788-399460105.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770893206-406886200.jpeg)
+![September 9: A Surprise Birthday Celebration for My Girlfrie](https://images.gobaligo.id/images/2026-05/1778770893206-406886200.jpeg)
 
 [**▶Check availability & rates at VIVARA Private Pool Villas & Spa Retreats**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=36762751) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=104656334&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-M6zsTFJMEkdYCJ4_LGq6_ZhBgNLCYKOcb0H_qqwTzBwfObBpD5dKJDAE_ElAPPp7EnelU36_scCXToYmQFC8xgPHf7s-FGxlkzgUAzzmEHI9MJxtOaC5guT1hidIqFmWMDyyWW3YzR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJuaGegZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrI19xMIUHfuJheEXC0MTK0MXKzPHKaZJQPK05i5WthAjAy9_swusU3Wk5A0NDAxMDY1NTXUNEi0TTY2TDXVNLE2MLE11DY2NLEw1zm383PjU2MhaChJyCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9hMzSzMncyjbLiYPV2CBO_9Z8nVVra0l2IOCXdRDHJpC90z8bS9FkjOECYXaPFFjP-95QL7yLxuI-mUSaftk1irMnRDwjN6xQsYGxiZuhi5BRg9GCMYK4A8xlWMDBsYGXcw_ocBxleMINMB6DkTwywCAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494295-13285&detailFilters=17|1~17~1*31|104656334~31~104656334*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=300&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/q9wlDejz)
 
@@ -229,7 +229,7 @@ At the airport, we bid farewell to our driver, Dwik. With his ever-sunny smile, 
 
 As the plane gradually ascended, we waved goodbye to Bali. This trip wasn't just a celebration of a birthday, but also made more meaningful by the little hiccups along the way. Although we once faced the trouble of lost luggage, what stood out more were the warm human connections and unexpected surprises. Amidst laughter and emotion, we learned to cherish the beauty of the present moment even more.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_62c300668d567a3aacd7c5bed5ddce4b.jpg)
+![September 11th: A Reluctant Farewell](https://images.gobaligo.id/vocus/vocus_62c300668d567a3aacd7c5bed5ddce4b.jpg)
 
 The beauty of Bali lies not only in its magnificent natural scenery but also in the locals who have helped and touched us, as well as the precious moments we’ve shared together. I look forward to returning to this land someday, embarking on new adventures amidst its endless azure expanse.
 
@@ -253,7 +253,7 @@ At this point, our private driver, Dwik, showed incredible warmth and dedication
 
 ### **Recommending Driver Dwik’s Thoughtful Service**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_873fb70086b114bc81543b45f344972a.jpg)
+![Recommending Driver Dwik’s Thoughtful Service](https://images.gobaligo.id/vocus/vocus_873fb70086b114bc81543b45f344972a.jpg)
 
 Throughout our journey, our driver Dwik not only demonstrated exceptional professionalism but also made us feel incredibly welcome with his warmth and attentiveness. His fluency in English ensured smooth communication and seamless trip planning. He often went out of his way to share fascinating local insights, adding unforgettable memories to our adventure.
 
@@ -271,7 +271,7 @@ As our trip came to an end, we were left not only with the beauty of Bali’s na
 
 Did you find Zhang Jiawei’s itinerary inspiring? Start planning your own Bali adventure today! We also welcome you to share your travel stories in our community!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Recommending Driver Dwik’s Thoughtful Service](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Click here to explore more amazing Bali travel stories
 

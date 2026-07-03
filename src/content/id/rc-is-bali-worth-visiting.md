@@ -51,7 +51,7 @@ Ini aku rangkum beberapa pengalaman pribadi setelah ke Bali, buat referensi yang
 
 ## Bawa Baju Gimana? Bali Gak Cuma Panas 🌤️
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780113888602-773697685317409029.png)
+![Bawa Baju Gimana? Bali Gak Cuma Panas](https://images.gobaligo.id/images/2026-05/1780113888602-773697685317409029.png)
 
 Meskipun Bali sebagian besar waktu panas, aku tetap saranin bawa jaket tipis atau outer. Soalnya simpel:
 
@@ -205,7 +205,7 @@ Jadi mending siapin cash aja.
 
 ## Kartu kredit perlu dipakai nggak sih? 💳
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_832db431875e09d43fff04ac9260f412.jpg)
+![Kartu kredit perlu dipakai nggak sih?](https://images.gobaligo.id/vocus/vocus_832db431875e09d43fff04ac9260f412.jpg)
 
 Soal kartu kredit, aku pribadi sih agak konservatif.
 
@@ -258,13 +258,13 @@ Harga segini di banyak pulau wisata populer, hampir nggak kebayang.
 
 Apalagi banyak Villa di Bali yang beneran punya nuansa liburan banget. Malam-malam balik kamar, berendam di kolam renang, rebahan di bale bengong — rasanya kayak, 'Ini harga beneran, nggak?'
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780114462274-710079305_27672521962408667_6924101564756584708_n.jpg)
+![1｜Value for Money Akomodasi Beneran Tinggi](https://images.gobaligo.id/images/2026-05/1780114462274-710079305_27672521962408667_6924101564756584708_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780114465997-709844031_27672522442408619_5599951080656028313_n.jpg)
+![1｜Value for Money Akomodasi Beneran Tinggi](https://images.gobaligo.id/images/2026-05/1780114465997-709844031_27672522442408619_5599951080656028313_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780114466457-708979531_27672522732408590_7580802711457911215_n.jpg)
+![1｜Value for Money Akomodasi Beneran Tinggi](https://images.gobaligo.id/images/2026-05/1780114466457-708979531_27672522732408590_7580802711457911215_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780114466879-709266529_27672523185741878_3244504790469808433_n.jpg)
+![1｜Value for Money Akomodasi Beneran Tinggi](https://images.gobaligo.id/images/2026-05/1780114466879-709266529_27672523185741878_3244504790469808433_n.jpg)
 
 Kali ini kami nginep di satu butik hotel kecil yang keren banget. Detail lengkap: [Dune Seseh Apartemen Estetika Terbaru di Dekat Canggu, Minimalis & Rustic](https://gobaligo.id/blog/dune-seseh/)
 
@@ -484,7 +484,7 @@ Dari bar kecil yang santai sampai pesta besar semua ada.
 
 ## 12｜Minimarket banyak banget 🏪
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779190670051-mixcollage-19-may-2026-06-26-pm-7181.jpg)
+![12｜Minimarket banyak banget](https://images.gobaligo.id/images/2026-05/1779190670051-mixcollage-19-may-2026-06-26-pm-7181.jpg)
 
 Ini sih poin plus banget.
 

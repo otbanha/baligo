@@ -37,11 +37,11 @@ _srcHash: 4fdaaed7294fe89c30f05b242782c70d
 
 Kalau kamu sudah muak dengan macetnya jalanan Canggu dan lautan turis yang nggak ada habisnya, tapi masih pengin dekat pantai dan nggak mau jauh-jauh, Dune Seseh yang buka tahun 2024 ini mungkin jawabannya. Hotel butik kecil ini terletak di Desa Seseh, sekitar 20 menit berkendara dari Canggu, cuma punya 12 kamar, dan mengusung konsep butik yang low-key, berkarakter, dan sedikit berjiwa peselancar. Desainnya memadukan estetika hidup dari empat penjuru dunia, tapi tetap mempertahankan nuansa musim panas santai khas Pulau Dewata — pas banget disebut 'rasanya seperti pulang ke rumah dengan sentuhan mewah'. Rating tamu di Agoda 9.0, bahkan di Trip.com tembus 9.2. Prestasi ini cukup menjelaskan kualitasnya untuk hotel kecil dengan 12 kamar.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070365354-550072452.jpg)
+![Pelarian Tersembunyi di Pinggir Pantai Bali — Dune Seseh](https://images.gobaligo.id/images/2026-05/1780070365354-550072452.jpg)
 
 ***
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070482699-mixcollage-29-may-2026-11-00-pm-363.jpg)
+![Pelarian Tersembunyi di Pinggir Pantai Bali — Dune Seseh](https://images.gobaligo.id/images/2026-05/1780070482699-mixcollage-29-may-2026-11-00-pm-363.jpg)
 
 ## 📍 Lokasi & Lingkungan Sekitar
 
@@ -55,23 +55,23 @@ Kalau mau ke pusat kota Canggu, tinggal naik mobil sekitar 20 menit. **Berawa Be
 
 Meskipun Dune Seseh nggak besar, setiap ruang publik terasa 'didesain dengan baik'. Kolam renang outdoor adalah pusat hotel, dikelilingi tanaman tropis, dengan kursi santai di tepinya. Hampir semua tamu bilang wajib berendam setiap hari. Area taman yang memanjang di sampingnya dilengkapi ayunan gantung. Rebahan sambil dengar suara angin dan lihat pohon kelapa — itulah esensi Bali.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070675908-083c1734b8efd896da90a5d9bae535f9.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1780070675908-083c1734b8efd896da90a5d9bae535f9.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070676491-72e676c246fb57492dadc944bf5fd1fe.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1780070676491-72e676c246fb57492dadc944bf5fd1fe.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070677240-550072448.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1780070677240-550072448.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070677773-550071835.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1780070677773-550071835.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070678368-550072462.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1780070678368-550072462.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070679096-550072473.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1780070679096-550072473.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070681029-550072483.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1780070681029-550072483.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070682167-unnamed.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1780070682167-unnamed.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070682867-unnamed1.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1780070682867-unnamed1.webp)
 
 Bar & Kitchen adalah pusat kuliner hotel, menyajikan menu fusion 'Bali bertemu dunia'. Sarapan pakai sistem a la carte (bayar terpisah), tersedia setiap hari pukul 08.00–10.00. Beberapa tamu di Google Review secara khusus menyebut kopinya enak banget dan kualitas makanannya melebihi ekspektasi. Duduk di Bar sore-sore sambil pesan koktail, nikmati angin dan pemandangan kolam — pasti bikin kamu merasa liburan ini worth it.
 
@@ -85,49 +85,49 @@ Dune Seseh punya total 12 kamar, dan saat ini tersedia dua tipe kamar utama:
 
 ▼ **King Suite with Balcony（附陽台）**：約 40 平方公尺，配大床、私人陽台，適合想要戶外空間、喝早晨咖啡看風景的旅客。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070778511-550072989.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1780070778511-550072989.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070779066-550072990.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1780070779066-550072990.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070779942-550072992.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1780070779942-550072992.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070780428-550072993.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1780070780428-550072993.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070780941-550072994.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1780070780941-550072994.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070781480-unnamed_1_.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1780070781480-unnamed_1_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070782054-550072451.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1780070782054-550072451.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070782810-550072974.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1780070782810-550072974.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070783373-550072981.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1780070783373-550072981.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070783933-550072982.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1780070783933-550072982.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070784552-550072987.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1780070784552-550072987.jpg)
 
 ▼ **King Suite with Pool View（泳池景觀）**：更寬敞，約 50 平方公尺，部分房型有獨立露台直接望向泳池，非常適合蜜月旅客或想要沉浸感的住客。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070870522-550073143.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1780070870522-550073143.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070871191-550073785.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1780070871191-550073785.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070871713-550074830.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1780070871713-550074830.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070872370-1mc0e12000nf7db4wfede_w_1280_853_r5.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1780070872370-1mc0e12000nf7db4wfede_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070873030-1mc4u12000nf7eamta30f_w_1280_853_r5.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1780070873030-1mc4u12000nf7eamta30f_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070873943-1mc2612000nf7dl7i38c6_w_1280_853_r5.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1780070873943-1mc2612000nf7dl7i38c6_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070874606-550073122.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1780070874606-550073122.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070875206-550073124.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1780070875206-550073124.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070875995-550073126.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1780070875995-550073126.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070876581-550073141.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1780070876581-550073141.jpg)
 
 所有房間標配包含：Smart TV、冷氣、迷你吧、保險箱、免費 Wi-Fi、咖啡／茶包機、瓶裝水、吹風機、盥洗備品。最值得一提的是浴室設計——配有深泡浴缸，並附上峇里島在地浴鹽，泡個澡整個人就解放了。提醒一下，旅館不提供牙刷等個人衛生用品，記得自備。
 
@@ -139,7 +139,7 @@ Dune Seseh punya total 12 kamar, dan saat ini tersedia dua tipe kamar utama:
 
 ***
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780071002645-mixcollage-29-may-2026-11-09-pm-9681.jpg)
+![Cocok Buat Siapa](https://images.gobaligo.id/images/2026-05/1780071002645-mixcollage-29-may-2026-11-09-pm-9681.jpg)
 
 ## 💬 Ulasan Nyata Tamu
 
@@ -149,7 +149,7 @@ Dune Seseh punya total 12 kamar, dan saat ini tersedia dua tipe kamar utama:
 
 ***
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780071044446-last.jpg)
+![Ulasan Nyata Tamu](https://images.gobaligo.id/images/2026-05/1780071044446-last.jpg)
 
 ## 📌 Info Pemesanan
 

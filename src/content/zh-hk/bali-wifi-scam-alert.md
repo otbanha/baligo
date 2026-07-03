@@ -24,7 +24,7 @@ _srcHash: a8757ecc9939e89c8f6569dfee987b7d
 
 ## 📶 熱點分享詐騙嘅可能手法：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cdcce95419c06ccd0f04d397e1a75f49.png)
+![熱點分享詐騙嘅可能手法：](https://images.gobaligo.id/vocus/vocus_cdcce95419c06ccd0f04d397e1a75f49.png)
 
 ## 1. **誘導熱點分享嚟竊取資料**
 
@@ -58,7 +58,7 @@ _srcHash: a8757ecc9939e89c8f6569dfee987b7d
 
 好似喺**峇里島機場、咖啡廳、沙灘或者購物中心**呢類公共場所，如果有陌生人請求你分享熱點，**要禮貌但堅定地拒絕**。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_93b61b420b28fbd8de2ef93306e920b1.png)
+![實用提醒（旅遊情境）](https://images.gobaligo.id/vocus/vocus_93b61b420b28fbd8de2ef93306e920b1.png)
 
 ---
 

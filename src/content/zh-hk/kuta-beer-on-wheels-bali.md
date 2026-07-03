@@ -18,7 +18,7 @@ _srcHash: d39f9238c58289ba56c767e300e6adfc
 ---
 想喺峇里島體驗一場與眾不同嘅歡樂時光？咁就千祈唔好錯過 **Beer on Wheels Bali**！呢個係一個將酒吧搬到車輪上嘅獨特體驗，讓遊客喺庫塔同雷吉安地區嘅街道上，一邊暢飲冰凍啤酒，一邊享受音樂同派對氛圍。無論係同朋友、家人定係獨自旅行，呢趟2小時嘅啤酒巴士之旅絕對會讓人愛上峇里島嘅活力與熱情！難得出國就癲一次啦！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8379eb79960a502dff798167ae683904.jpg)
+![峇里島庫塔嘅啤酒巴士：Beer on Wheels Bali 無限暢飲與歡樂之旅！](https://images.gobaligo.id/vocus/vocus_8379eb79960a502dff798167ae683904.jpg)
 
 ***
 
@@ -32,7 +32,7 @@ _srcHash: d39f9238c58289ba56c767e300e6adfc
 - **秘密派對模式**：巴士仲有一個神秘嘅派對模式，等待遊客來解鎖！
 - **現場音樂表演**：有啲巴士上設有現場樂隊表演區，如果有興趣，遊客甚至可以拿起咪高峰高歌一曲！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2ca3903c76318b97fbc8680db151a0f1.jpg)
+![活動亮點：啤酒巴士嘅獨特魅力](https://images.gobaligo.id/vocus/vocus_2ca3903c76318b97fbc8680db151a0f1.jpg)
 
 ***
 
@@ -56,7 +56,7 @@ _srcHash: d39f9238c58289ba56c767e300e6adfc
 3. **講人數**：用手勢話俾工作人員知團體人數，調酒師會為遊客準備飲品。
 4. **跳上巴士**：準備好加入呢場無限暢飲嘅派對啦！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_67191f3259c604b95e89cdcc9321fcde.jpg)
+![跳上巴士系統：隨時加入歡樂之旅](https://images.gobaligo.id/vocus/vocus_67191f3259c604b95e89cdcc9321fcde.jpg)
 
 ***
 

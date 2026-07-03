@@ -23,7 +23,7 @@ _srcHash: dae99eb3988cdd6b6c1f0ee016e24c6b
 
 Mulai tahun 2024, Indonesia bakal mendorong wisatawan yang mau ke Bali buat pakai layanan imigrasi online. Kamu bisa ngurus berbagai visa Indonesia secara online, termasuk perpanjangan visa — nggak perlu repot-repot ke kantor imigrasi lagi! (Update terbaru 29/05/2025: Sekarang balik lagi harus ke kantor imigrasi buat cap jempol, ya! Cek di [sini](/blog/indonesia-visa-rules-2025/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3251272747de6e2dc78cc7eb7b80f815.png)
+![2024印尼/Bali Online Visa Extension Guide](https://images.gobaligo.id/vocus/vocus_3251272747de6e2dc78cc7eb7b80f815.png)
 
 ## **Jenis visa berikut ini bisa diperpanjang secara online:**
 
@@ -39,35 +39,35 @@ Kalau kamu udah punya eVOA (Electronic Visa on Arrival) sendiri dan mutusin buat
 
 Pertama, waktu yang tepat buat perpanjang visa adalah **14-15 hari sebelum visa habis masa berlaku**. Buat perpanjang eVOA, buka website <https://evisa.imigrasi.go.id/> — ini tempat kamu daftar eVOA dulu. Login pakai akun pribadi yang kamu buat pas ngurus visa. Jangan lupa centang kotak "Saya bukan robot".
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7588f61376146af654817d34f825ab40.jpg)
+![Gimana cara perpanjang visa?](https://images.gobaligo.id/vocus/vocus_7588f61376146af654817d34f825ab40.jpg)
 
 Di halaman utama, cari menu "extend" dan klik masuk. Di daftar, cari eVOA aktif kamu. Kalau ini pertama kali kamu perpanjang, biasanya cuma ada satu item. Pilih aja. Kamu nggak perlu isi formulir apa pun — semua data bakal otomatis kepindah dari akun pribadi kamu.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c4b568bd6c4125eef1b63f378e2ef77.jpg)
+![Gimana cara perpanjang visa?](https://images.gobaligo.id/vocus/vocus_1c4b568bd6c4125eef1b63f378e2ef77.jpg)
 
 Selanjutnya, kita cek alamat. Kalau ada perubahan, update ke alamat yang valid. Di bagian bawah halaman, centang kotak setuju syarat & ketentuan, lalu klik tombol "Submit".
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ba194796e94419070d08435e6c11c16e.jpg)
+![Gimana cara perpanjang visa?](https://images.gobaligo.id/vocus/vocus_ba194796e94419070d08435e6c11c16e.jpg)
 
 Di halaman berikutnya, kita cek semua data. Kalau udah bener semua, klik tombol "Lanjut ke Pembayaran" di bawah. Ingat, kamu cuma punya waktu 23 jam buat bayar.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ea1406d7d97acc6798000b0f38ea9c38.jpg)
+![Gimana cara perpanjang visa?](https://images.gobaligo.id/vocus/vocus_ea1406d7d97acc6798000b0f38ea9c38.jpg)
 
 Selanjutnya, kamu perlu memasukkan detail kartu kredit seperti di screenshot bawah ini. Setelah selesai, klik tombol merah di bagian bawah yang bertuliskan "Bayar Sekarang" (BAYAR SAKARANG).
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_69f06b8d2e0884856ce77e56026ff835.jpg)
+![Gimana cara perpanjang visa?](https://images.gobaligo.id/vocus/vocus_69f06b8d2e0884856ce77e56026ff835.jpg)
 
 Setelah pembayaran berhasil, kembali ke halaman utama dan cari menu "extend".
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_76022c8cab8e7779a726198a53e9255e.jpg)
+![Gimana cara perpanjang visa?](https://images.gobaligo.id/vocus/vocus_76022c8cab8e7779a726198a53e9255e.jpg)
 
 Di bagian "Status" sebelah kanan, kamu akan melihat informasi berlatar hijau bertuliskan "Sudah Dibayar", yang menandakan pembayaran sukses. Di bawah informasi ini, ada tombol bertuliskan "e-ITK"; klik untuk melihat visa kamu.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_54f8adbc9ef97bf9854a067cbf9d4f00.jpg)
+![Gimana cara perpanjang visa?](https://images.gobaligo.id/vocus/vocus_54f8adbc9ef97bf9854a067cbf9d4f00.jpg)
 
 Kurang lebih seperti ini...
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f91aac2b48376f8dcb455a7cab7ad2da.jpg)
+![Gimana cara perpanjang visa?](https://images.gobaligo.id/vocus/vocus_f91aac2b48376f8dcb455a7cab7ad2da.jpg)
 
 Kami sarankan kamu screenshot atau cetak dokumen ini, karena... saat kamu meninggalkan Indonesia/Bali, tidak akan ada tanda apa pun di paspor yang menunjukkan bahwa kamu sudah memperpanjang visa. Jadi, screenshot atau cetakan ini berguna banget untuk diperlihatkan ke petugas kalau diperlukan.
 

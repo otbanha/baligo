@@ -24,7 +24,7 @@ lang: zh-hk
 _srcHash: 0caa2742ace25f7c28b674f0719dc484
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e753d11092ea6e75b9d46f601928451.png)
+![峇里島雨季旅行指南：呢啲注意事項令你嘅行程更加順暢](https://images.gobaligo.id/vocus/vocus_3e753d11092ea6e75b9d46f601928451.png)
 
 峇里島以其熱帶氣候同全年陽光普照而聞名，但隨著每年嘅雨季到來，呢座島嶼進入咗另一種截然不同嘅季節體驗。如果你計劃喺雨季期間造訪峇里島，以下資訊將幫助你提前做好準備，享受一場無憂嘅旅行。
 
@@ -71,7 +71,7 @@ _srcHash: 0caa2742ace25f7c28b674f0719dc484
 - **咖啡館踩店**：落雨天係悠閒探索峇里島獨特咖啡館嘅絕佳機會，例如**Ubud**嘅隱秘森林咖啡店。
 - **60項落雨天嘅備案**：我哋亦準備咗完整嘅落雨天備案，等你喺遇到落雨嗰陣都唔會悶！請睇[呢度](/blog/2026-bali-indoor-activities/)。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c998b2b80ee7599ccd5311ab3e33b94c.png)
+![3. 靈活選擇活動](https://images.gobaligo.id/vocus/vocus_c998b2b80ee7599ccd5311ab3e33b94c.png)
 
 ### **4. 保持警惕並密切關注天氣**
 

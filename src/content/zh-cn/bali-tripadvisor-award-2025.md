@@ -21,7 +21,7 @@ _srcHash: 1f608179e1e3bff84665fa7172f9f378
 
 这项年度大奖根据真实的旅游评论和趋势，对全球最受欢迎的目的地、酒店、海滩和景点进行排名。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f6b09dd27d34eaf21082f597b6750950.jpg)
+![【2025年亚洲第一旅游目的地】巴厘岛在TripAdvisor 2025旅行者之选大奖中大放异彩](https://images.gobaligo.id/vocus/vocus_f6b09dd27d34eaf21082f597b6750950.jpg)
 
 ## 巴厘岛蝉联全球第二热门旅游地点
 

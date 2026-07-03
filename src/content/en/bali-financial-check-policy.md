@@ -30,7 +30,7 @@ Just as the first workweek of 2026 began, the Bali provincial government announc
 
 For a long time, Bali has been committed to attracting "high-quality tourists." Recently, Bali Governor Wayan Koster publicly stated that stricter review mechanisms will be implemented in the future to ensure that foreign tourists entering Bali have sufficient financial means while also respecting local culture and regulations.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c1dcd6e46a27f2e95283d42fa682ab0e.jpg)
+![Bali Plans to Conduct Financial Checks on Foreign Tourists K](https://images.gobaligo.id/vocus/vocus_c1dcd6e46a27f2e95283d42fa682ab0e.jpg)
 
 ---
 
@@ -50,7 +50,7 @@ Koster further explained: "This is to ensure that the overall situation can be e
 
 The policy direction has also gained support from Indonesia's Minister of Tourism, Widiyanti Wardhana. According to official data, Bali welcomed 7.05 million tourists in 2025, and the provincial government hopes to maintain or even surpass this number in 2026.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_77d1703ca43de56f00afd3828c760100.jpg)
+![Not Just About Deposits – Travel Itineraries Will Also Be Re](https://images.gobaligo.id/vocus/vocus_77d1703ca43de56f00afd3828c760100.jpg)
 
 ---
 
@@ -92,7 +92,7 @@ In response, Governor Koster summarized: 'We are mobilizing efforts to attract p
 
 He concluded by emphasizing that Bali will not merely pursue tourist numbers in the future but will focus on high-quality tourism development through regional regulations and comprehensive tourism governance.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3502f8f803871789aef085601ff7fd99.jpg)
+![Governor Emphasizes Long-Term Planning, Focusing on 'High-Qu](https://images.gobaligo.id/vocus/vocus_3502f8f803871789aef085601ff7fd99.jpg)
 
 ---
 

@@ -18,7 +18,7 @@ _srcHash: 86d72283e63ef66ca8cfb72179cdd860
 
 浮潜是巴厘岛最受欢迎的水上活动之一。即使你没有任何潜水经验，只要会一点游泳、或具备基本水中自信，就可以轻松享受巴厘岛缤纷的海底世界。这座热带天堂拥有众多适合初学者的浮潜地点，保证带来难忘的海洋邂逅。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_38db1470f7f6b3feed94185349288f6f.jpg)
+![巴厘岛最美浮潜地点大收集：新手友善海洋冒险指南](https://images.gobaligo.id/vocus/vocus_38db1470f7f6b3feed94185349288f6f.jpg)
 
 出发前，记得选择合格业者、购买旅游保险，并听从导游的安全指示，让每一趟浮潜旅程既安心又精彩。
 
@@ -84,7 +84,7 @@ https://youtube.com/shorts/qdS8Td7QPYY?si=bJjbnqgb_pig4qI4
 
 这艘著名的美国自由号沉船位于相对浅的海域，浮潜者也能轻松接触。除了沉船，周边还有珊瑚花园及丰富鱼群，是摄影爱好者的天堂。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8b993725fd631efbf943b5af66e9e26b.jpg)
+![图兰奔：与USS Liberty沉船共舞](https://images.gobaligo.id/vocus/vocus_8b993725fd631efbf943b5af66e9e26b.jpg)
 
 > [Amed/Tulemben潜水/浮潜体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1106567&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%259C%259F%25E8%2598%25AD%25E5%25A5%2594%25E6%25B5%25AE%25E6%25BD%259B)
 

@@ -147,7 +147,7 @@ Awan嘅聯絡方式收錄喺[峇里島包車司機名人榜](/blog/bali-private-
 
 你覺得趙康康佢哋嘅行程好精彩咩？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家去社團投稿你嘅行程㗎！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5a1e2aa439de59150271c058d384f2c2.jpg)
+![推薦司機Bali Holiday Awan](https://images.gobaligo.id/vocus/vocus_5a1e2aa439de59150271c058d384f2c2.jpg)
 
 撳呢度睇更多峇里島精彩遊記
 

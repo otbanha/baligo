@@ -21,7 +21,7 @@ _srcHash: 45801afecaf2a3dc727539a2ede2a0db
 ---
 Pas kamu sampai di Bali, mungkin bakal kaget: denger-denger harus bayar 150,000 IDR (sekitar USD$5) pajak wisata / tourist tax, tapi kayaknya gak bayar juga gak apa-apa?? Soalnya gak ada yang ngecek apakah udah bayar online sebelumnya, atau maksa bayar di konter bandara. Tapi kita harus tau, sistem pajak wisata ini lebih kayak konsep yang pengin dipahami dan didukung wisatawan, bukan kewajiban yang dipaksakan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8b15da7a473fb11a6f634d981fffbfa9.jpg)
+![Gak Bayar Juga Boleh? Apa Sih Pajak Wisata / Tourist Tax Bal](https://images.gobaligo.id/vocus/vocus_8b15da7a473fb11a6f634d981fffbfa9.jpg)
 
 Pajak wisata Bali dibuat sebagai cara untuk memperbaiki masalah transportasi, sampah, pelestarian budaya, dan lain-lain di Bali. Cara ini mencerminkan kearifan pemerintah Bali dan komitmen mereka terhadap pariwisata berkelanjutan.
 
@@ -35,7 +35,7 @@ Intinya, sistem pajak wisata Bali adalah cara inovatif yang bertujuan ningkatin 
 
 Karena cuma 70% wisatawan yang beneran bayar pajak wisata, [Bali udah mulai ngadain pemeriksaan acak pajak wisata sejak 26 Maret!](/blog/bali-tourism-tax-update/) Biar jadi turis Bali yang bertanggung jawab, kita saranin kamu tetap bayar ya!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7b65cf3a3a36d6fec5bc94d0b20dc173.png)
+![Gak Bayar Juga Boleh? Apa Sih Pajak Wisata / Tourist Tax Bal](https://images.gobaligo.id/vocus/vocus_7b65cf3a3a36d6fec5bc94d0b20dc173.png)
 
 **Pajak wisata itu kewajiban wisatawan, bukan pilihan yang bisa dihindari!**
 
@@ -54,7 +54,7 @@ Baca juga: [Panduan Lengkap Pajak Turis/Travel Tax Bali: Aturan Baru 2024, Cara 
 
 ## 📩 **Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Bali!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Ba](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

@@ -49,7 +49,7 @@ _srcHash: 0f2d381928adc2d16f7c0922955bafb3
 
 Baru-baru ini gue liat postingan di Threads yang bikin gue setuju banget.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776511006123-671848263_122207343458339499_1842164481499972904_n.jpg)
+![【2026 Panduan Hindari Jebakan di Bali】Empat Hari Tiga Malam ](https://images.gobaligo.id/images/2026-04/1776511006123-671848263_122207343458339499_1842164481499972904_n.jpg)
 
 Seorang cewek cerita kalau dia ke Bali 4 hari 3 malam, dan 'benar-benar menghindari air keran dan es batu' — seharusnya sih udah riset, kan? Tapi kesimpulannya tetap: **pengalaman buruk banget, gak bakal balik lagi**.
 
@@ -141,7 +141,7 @@ Grup Facebook Bali kita:
 
 ## Penutup
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776511510614-6f08d040cdd2702003ab51beb20055eb.jpg)
+![Penutup](https://images.gobaligo.id/images/2026-04/1776511510614-6f08d040cdd2702003ab51beb20055eb.jpg)
 
 Bali emang tempat yang gampang bikin jatuh cinta, tapi juga gampang banget kena jebakan.
 

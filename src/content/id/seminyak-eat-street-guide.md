@@ -37,7 +37,7 @@ _srcHash: 374027600c92266b424a7398decbeafd
 
 Artikel ini disusun berdasarkan review Google asli, bantu kamu **mengelompokkan tempat-tempat di Eat Street berdasarkan jenisnya**, lengkap dengan deskripsi singkat tiap tempat. Bisa juga dipake bareng Google Maps, biar kamu nggak perlu scroll lama buat nemuin pilihan yang cocok.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778073748862-_2026-05-06_20.22.10.png)
+![50+ Rekomendasi Makanan di Seminyak Eat Street Peta Lengkap ](https://images.gobaligo.id/images/2026-05/1778073748862-_2026-05-06_20.22.10.png)
 
 ***
 
@@ -49,7 +49,7 @@ Ini adalah zona paling kompetitif di Eat Street, dan juga format makan yang pali
 
 ## 🥇 Sisterfields
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778075395701-sisterfields-reviews.jpg)
+![Sisterfields](https://images.gobaligo.id/images/2026-05/1778075395701-sisterfields-reviews.jpg)
 
 **Alamat:** Jl. Kayu Cendana No. 7
 
@@ -118,7 +118,7 @@ Restoran masakan Thailand yang cukup populer di antara pilihan Thai di Eat Stree
 
 ## 🥇 Ginger Moon Canteen
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778075441071-ginger_moon.webp)
+![Ginger Moon Canteen](https://images.gobaligo.id/images/2026-05/1778075441071-ginger_moon.webp)
 
 **Alamat:** Jl. Kayu Aya No. 7
 
@@ -275,7 +275,7 @@ Restoran kecil dengan konsep masakan rumahan. Ulasan pada umumnya bilang porsiny
 
 ## BOSSMAN Burgers Seminyak
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778075473798-bossman.webp)
+![BOSSMAN Burgers Seminyak](https://images.gobaligo.id/images/2026-05/1778075473798-bossman.webp)
 
 Merek burger terkenal di Seminyak, terkenal dengan burger ala Amerika yang tebal dan juicy, lengkap dengan saus buatan sendiri. Porsinya bikin kenyang banget, wajib masuk bucket list pecinta burger.
 
@@ -339,7 +339,7 @@ Toko es loli handmade, pake bahan alami dengan berbagai rasa tropis. Estetik ban
 
 ## Frozen Yogi
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778075497284-frozenyogi.jpg)
+![Frozen Yogi](https://images.gobaligo.id/images/2026-05/1778075497284-frozenyogi.jpg)
 
 Toko frozen yogurt, bisa milih rasa dan topping sendiri. Segar, nggak bikin enek, apalagi pas cuaca panas — laris manis.
 
@@ -378,7 +378,7 @@ Kesimpulan: **suasananya juara, koktail oke, pelayanan agak naik turun**—tapi 
 
 ## 🥇 Red Carpet Champagne Bar
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778075518821-red-carpet-100.jpg)
+![Red Carpet Champagne Bar](https://images.gobaligo.id/images/2026-05/1778075518821-red-carpet-100.jpg)
 
 **Alamat:** Jl. Kayu Aya No. 42
 

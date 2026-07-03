@@ -19,7 +19,7 @@ _srcHash: 3fab48fb8ef08bccf2f50ca53ba8e20d
 
 Ada info penting nih buat kalian — pajak turis di Bali sebentar lagi bakal dicek secara acak! Kebijakan baru ini udah berjalan selama lima minggu penuh, dan sekarang saatnya memastikan setiap turis paham dan patuh sama aturan baru ini.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ba7288e1e422dd5682c5355339280724.jpg)
+![Kabar terbaru dari Bali: Mulai 26 Maret ada pemeriksaan acak](https://images.gobaligo.id/vocus/vocus_ba7288e1e422dd5682c5355339280724.jpg)
 
 Kepala Dinas Pariwisata Bali baru-baru ini ngumumin kabar ini dalam konferensi pers. Katanya, unit polisi wisata yang baru dibentuk bakal mulai ngelakuin pemeriksaan acak mulai 26 Maret, targetnya di beberapa tempat wisata populer di Bali, termasuk Pantai Kuta, Pura Uluwatu, Pura Tanah Lot, dan lainnya. Polisi wisata ini juga bakal bawa anjing-anjing lucu mereka pas patroli — anjing-anjing ini bukan cuma asisten polisi, tapi juga bisa jadi pembuka obrolan yang ramah sama turis, bikin suasananya lebih santai dan menyenangkan.
 
@@ -27,7 +27,7 @@ Berdasarkan data terbaru, cuma 40% turis asing yang udah bayar pajak turis. Maka
 
 > Baca juga: [Panduan Lengkap Pajak Turis/Pajak Wisata Bali: Aturan Baru 2024, Cara Bayar, & Tips Antar-Pulau](/blog/2026-bali-tourism-tax-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aedb16fe1f10df555de6e03c79b7719e.png)
+![Kabar terbaru dari Bali: Mulai 26 Maret ada pemeriksaan acak](https://images.gobaligo.id/vocus/vocus_aedb16fe1f10df555de6e03c79b7719e.png)
 
 Pesan dan hemat, cek di sini:
 

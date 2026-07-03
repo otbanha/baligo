@@ -86,7 +86,7 @@ Ini adalah episode ketiga dari panduan Nusa Lembongan/Nusa Ceningan. Mau tahu ap
 
 ## 1. Pantai Jungut Batu – Area Terbaik untuk Nightlife & Kuliner di Nusa Lembongan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d197878ac3f5fc80de1603ea6963e74b.jpg)
+![1. Pantai Jungut Batu – Area Terbaik untuk Nightlife & Kulin](https://images.gobaligo.id/vocus/vocus_d197878ac3f5fc80de1603ea6963e74b.jpg)
 
 Terletak di pesisir barat laut Nusa Lembongan, **Pantai Jungut Batu** punya pantai terpanjang dan terindah di pulau ini, jadi destinasi pantai top di Nusa Lembongan. Sunsetnya cantik banget dan airnya jernih, makanya banyak wisatawan yang datang. Ini juga salah satu pelabuhan utama dari Bali ke Nusa Lembongan, jadi meskipun kamu nggak nginep di sini, pasti bakal lewat pantai ini.
 
@@ -102,7 +102,7 @@ Jungut Batu juga surga kuliner di Nusa Lembongan. Sebagian besar restoran dan ka
 
 Begitu matahari terbenam, Pantai Jungut Batu berubah jadi pusat nightlife yang rame. Bar-bar dan tempat di sepanjang pantai mulai terang, nawarin hiburan malam dari musik santai sampai restoran dengan DJ live.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_45fff3abe533d6254991ca31e44a7a9c.png)
+![Nightlife](https://images.gobaligo.id/vocus/vocus_45fff3abe533d6254991ca31e44a7a9c.png)
 
 **Ohana's Beach Club** adalah tempat yang sangat aku rekomendasiin. Suasananya santai dan asyik, cocok buat minum-minum pas sunset sambil nikmatin Happy Hour. Kamu bahkan bisa betah seharian di sini.
 
@@ -122,25 +122,25 @@ Jungut Batu adalah tempat ideal untuk menginap dengan banyak pilihan, mulai dari
 
 ### The Tamarind Resort - Akomodasi Terbaik di Nusa Lembongan (🗺️ [Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442745816-136493330.jpg)
+![The Tamarind Resort - Akomodasi Terbaik di Nusa Lembongan ( ](https://images.gobaligo.id/images/2026-03/1774442745816-136493330.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442746300-136493333.jpg)
+![The Tamarind Resort - Akomodasi Terbaik di Nusa Lembongan ( ](https://images.gobaligo.id/images/2026-03/1774442746300-136493333.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442746689-136493400.jpg)
+![The Tamarind Resort - Akomodasi Terbaik di Nusa Lembongan ( ](https://images.gobaligo.id/images/2026-03/1774442746689-136493400.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442747093-136493419.jpg)
+![The Tamarind Resort - Akomodasi Terbaik di Nusa Lembongan ( ](https://images.gobaligo.id/images/2026-03/1774442747093-136493419.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442747524-136493785.jpg)
+![The Tamarind Resort - Akomodasi Terbaik di Nusa Lembongan ( ](https://images.gobaligo.id/images/2026-03/1774442747524-136493785.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442747932-136493789.jpg)
+![The Tamarind Resort - Akomodasi Terbaik di Nusa Lembongan ( ](https://images.gobaligo.id/images/2026-03/1774442747932-136493789.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442748342-136493791.jpg)
+![The Tamarind Resort - Akomodasi Terbaik di Nusa Lembongan ( ](https://images.gobaligo.id/images/2026-03/1774442748342-136493791.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442748763-136493794.jpg)
+![The Tamarind Resort - Akomodasi Terbaik di Nusa Lembongan ( ](https://images.gobaligo.id/images/2026-03/1774442748763-136493794.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442749158-136493939.jpg)
+![The Tamarind Resort - Akomodasi Terbaik di Nusa Lembongan ( ](https://images.gobaligo.id/images/2026-03/1774442749158-136493939.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442749507-156951897.jpg)
+![The Tamarind Resort - Akomodasi Terbaik di Nusa Lembongan ( ](https://images.gobaligo.id/images/2026-03/1774442749507-156951897.jpg)
 
 The Tamarind Resort - Nusa Lembongan menawarkan pengalaman menginap kelas dunia di pulau Nusa Lembongan yang indah. Resor bintang 5 ini punya berbagai fasilitas dan layanan, termasuk kolam renang outdoor, pusat kebugaran, restoran, dan bar, serta resepsionis 24 jam dan WiFi gratis.
 
@@ -154,25 +154,25 @@ The Tamarind Resort - Nusa Lembongan menawarkan pengalaman menginap kelas dunia 
 
 ### Ohana's Beachfront Resort – Pilihan Liburan Party Santai Mewah (🗺️ [Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442911138-158601775.jpg)
+![Ohana's Beachfront Resort – Pilihan Liburan Party Santai Mew](https://images.gobaligo.id/images/2026-03/1774442911138-158601775.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442911549-165973210.jpg)
+![Ohana's Beachfront Resort – Pilihan Liburan Party Santai Mew](https://images.gobaligo.id/images/2026-03/1774442911549-165973210.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442912086-185479759.jpg)
+![Ohana's Beachfront Resort – Pilihan Liburan Party Santai Mew](https://images.gobaligo.id/images/2026-03/1774442912086-185479759.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442912611-324347692.jpeg)
+![Ohana's Beachfront Resort – Pilihan Liburan Party Santai Mew](https://images.gobaligo.id/images/2026-03/1774442912611-324347692.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442913204-417108962.jpeg)
+![Ohana's Beachfront Resort – Pilihan Liburan Party Santai Mew](https://images.gobaligo.id/images/2026-03/1774442913204-417108962.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442913929-417108969.jpeg)
+![Ohana's Beachfront Resort – Pilihan Liburan Party Santai Mew](https://images.gobaligo.id/images/2026-03/1774442913929-417108969.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442914422-417111419.jpeg)
+![Ohana's Beachfront Resort – Pilihan Liburan Party Santai Mew](https://images.gobaligo.id/images/2026-03/1774442914422-417111419.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442915049-417111422.jpeg)
+![Ohana's Beachfront Resort – Pilihan Liburan Party Santai Mew](https://images.gobaligo.id/images/2026-03/1774442915049-417111422.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442915591-417111967.jpeg)
+![Ohana's Beachfront Resort – Pilihan Liburan Party Santai Mew](https://images.gobaligo.id/images/2026-03/1774442915591-417111967.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774442916172-417112013.jpeg)
+![Ohana's Beachfront Resort – Pilihan Liburan Party Santai Mew](https://images.gobaligo.id/images/2026-03/1774442916172-417112013.jpeg)
 
 Ohana's Beachfront Resort punya suasana pantai yang santai, kamar bergaya Boho yang kece, area pantai eksklusif, dan dua kolam renang. Dengan harga menengah, ini pilihan liburan yang worth it banget.
 
@@ -188,25 +188,25 @@ https://youtube.com/shorts/C1JJL-eyDRU
 
 ### Lembongan Beach Club & Resort – Villa Kolam Renang Pribadi + Beach Club (🗺️ [Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443118679-531879503.jpg)
+![Lembongan Beach Club & Resort – Villa Kolam Renang Pribadi +](https://images.gobaligo.id/images/2026-03/1774443118679-531879503.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443119142-500935226.jpg)
+![Lembongan Beach Club & Resort – Villa Kolam Renang Pribadi +](https://images.gobaligo.id/images/2026-03/1774443119142-500935226.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443119486-500935235.jpg)
+![Lembongan Beach Club & Resort – Villa Kolam Renang Pribadi +](https://images.gobaligo.id/images/2026-03/1774443119486-500935235.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443119834-531879505.jpg)
+![Lembongan Beach Club & Resort – Villa Kolam Renang Pribadi +](https://images.gobaligo.id/images/2026-03/1774443119834-531879505.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443120250-539487752.jpg)
+![Lembongan Beach Club & Resort – Villa Kolam Renang Pribadi +](https://images.gobaligo.id/images/2026-03/1774443120250-539487752.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443120788-539487768.jpg)
+![Lembongan Beach Club & Resort – Villa Kolam Renang Pribadi +](https://images.gobaligo.id/images/2026-03/1774443120788-539487768.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443121265-539779379.jpg)
+![Lembongan Beach Club & Resort – Villa Kolam Renang Pribadi +](https://images.gobaligo.id/images/2026-03/1774443121265-539779379.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443121687-539793798.jpg)
+![Lembongan Beach Club & Resort – Villa Kolam Renang Pribadi +](https://images.gobaligo.id/images/2026-03/1774443121687-539793798.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443122075-579063500.jpg)
+![Lembongan Beach Club & Resort – Villa Kolam Renang Pribadi +](https://images.gobaligo.id/images/2026-03/1774443122075-579063500.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443122435-579063505.jpg)
+![Lembongan Beach Club & Resort – Villa Kolam Renang Pribadi +](https://images.gobaligo.id/images/2026-03/1774443122435-579063505.jpg)
 
 Lembongan Beach Club & Resort kasih pengalaman liburan tropis banget. Di dalam resort ada restoran dan kolam renang ala klub yang menghadap langsung ke Jungut Batu Beach yang pasir putihnya cakep. Resort ini juga punya fasilitas olahraga air, dan bisa atur snorkeling atau diving sesuai permintaan tamu — bikin kamu puas nikmatin hidup di pulau.
 
@@ -220,7 +220,7 @@ Lembongan Beach Club & Resort kasih pengalaman liburan tropis banget. Di dalam r
 
 ## **2. Mushroom Bay: Pilihan Utama Liburan Keluarga**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_53529b252174ee423d2a36c69be328a2.jpg)
+![2. Mushroom Bay: Pilihan Utama Liburan Keluarga](https://images.gobaligo.id/vocus/vocus_53529b252174ee423d2a36c69be328a2.jpg)
 
 Mushroom Bay terletak di selatan Pantai Jungut Batu. Teluk ini terkenal dengan pantainya yang tenang dan indah, serta area dangkal yang ramah anak—cocok banget jadi tempat menginap terbaik buat keluarga yang bawa anak. Pantainya punya pasir halus dan air dangkal, jadi si kecil bisa bermain dengan aman di tepi laut. Meskipun di sini juga merupakan pelabuhan kedua terbesar untuk perjalanan antara Bali dan Nusa Lembongan, jadi suara mesin kapal sering terdengar, tapi suasana santai teluk ini tetap worth it untuk dikunjungi.
 
@@ -244,25 +244,25 @@ Mushroom Bay punya tata letak yang kompak dan ramah keluarga, jadi kamu nggak pe
 
 ### Hai Tide Beach Resort - Akomodasi Bintang Empat di Tepi Pantai (🗺️ [Lokasi di Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443486402-217395363.jpg)
+![Hai Tide Beach Resort - Akomodasi Bintang Empat di Tepi Pant](https://images.gobaligo.id/images/2026-03/1774443486402-217395363.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443486846-98618659.jpg)
+![Hai Tide Beach Resort - Akomodasi Bintang Empat di Tepi Pant](https://images.gobaligo.id/images/2026-03/1774443486846-98618659.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443487158-217395369.jpg)
+![Hai Tide Beach Resort - Akomodasi Bintang Empat di Tepi Pant](https://images.gobaligo.id/images/2026-03/1774443487158-217395369.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443487517-217395375.jpg)
+![Hai Tide Beach Resort - Akomodasi Bintang Empat di Tepi Pant](https://images.gobaligo.id/images/2026-03/1774443487517-217395375.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443487974-392504360.jpg)
+![Hai Tide Beach Resort - Akomodasi Bintang Empat di Tepi Pant](https://images.gobaligo.id/images/2026-03/1774443487974-392504360.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443488487-425740833.jpg)
+![Hai Tide Beach Resort - Akomodasi Bintang Empat di Tepi Pant](https://images.gobaligo.id/images/2026-03/1774443488487-425740833.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443488893-425741204.jpg)
+![Hai Tide Beach Resort - Akomodasi Bintang Empat di Tepi Pant](https://images.gobaligo.id/images/2026-03/1774443488893-425741204.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443489406-425742517.jpg)
+![Hai Tide Beach Resort - Akomodasi Bintang Empat di Tepi Pant](https://images.gobaligo.id/images/2026-03/1774443489406-425742517.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443489818-425744045.jpg)
+![Hai Tide Beach Resort - Akomodasi Bintang Empat di Tepi Pant](https://images.gobaligo.id/images/2026-03/1774443489818-425744045.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443490220-597458175.jpg)
+![Hai Tide Beach Resort - Akomodasi Bintang Empat di Tepi Pant](https://images.gobaligo.id/images/2026-03/1774443490220-597458175.jpg)
 
 Hai Tide Beach Resort terletak persis di pinggir Pantai Mushroom Bay, sebuah resor unik yang menghadap Samudra Hindia dengan suasana tenang ala bintang empat. Setelah direnovasi total pada 2013, akomodasi bergaya alang-alang tradisional Bali ini tampil segar kembali.
 
@@ -276,25 +276,25 @@ Hai Tide Beach Resort terletak persis di pinggir Pantai Mushroom Bay, sebuah res
 
 ### The Acala Shri Sedana — Pemandangan Juara (🗺️ [Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443615776-412761812.jpg)
+![The Acala Shri Sedana — Pemandangan Juara ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774443615776-412761812.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443616616-135727499.jpg)
+![The Acala Shri Sedana — Pemandangan Juara ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774443616616-135727499.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443616943-135727592.jpg)
+![The Acala Shri Sedana — Pemandangan Juara ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774443616943-135727592.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443617348-224046039.jpg)
+![The Acala Shri Sedana — Pemandangan Juara ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774443617348-224046039.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443617679-404321113.jpg)
+![The Acala Shri Sedana — Pemandangan Juara ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774443617679-404321113.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443618249-404321115.jpg)
+![The Acala Shri Sedana — Pemandangan Juara ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774443618249-404321115.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443618593-404321116.jpg)
+![The Acala Shri Sedana — Pemandangan Juara ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774443618593-404321116.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443618951-420728496.jpg)
+![The Acala Shri Sedana — Pemandangan Juara ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774443618951-420728496.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443619374-493422591.jpg)
+![The Acala Shri Sedana — Pemandangan Juara ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774443619374-493422591.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443619702-526918233.jpg)
+![The Acala Shri Sedana — Pemandangan Juara ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774443619702-526918233.jpg)
 
 The Acala Shri Sedana ada di puncak bukit di Nusa Lembongan, sekitar 3 km dari Mushroom Bay. Tempat ini terkenal banget sama pemandangan ketinggian yang spektakuler dan suite mewah yang romantis. Resort ini punya fasilitas kelas atas, bikin kamu bisa menikmati liburan di puncak yang tenang, plus pilihan kamar yang nyaman dan beragam.
 
@@ -308,25 +308,25 @@ The Acala Shri Sedana ada di puncak bukit di Nusa Lembongan, sekitar 3 km dari M
 
 ### The Palm Grove Villas — Akomodasi Bintang Empat (🗺️ [Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443703529-123569809.jpg)
+![The Palm Grove Villas — Akomodasi Bintang Empat ( Lokasi di ](https://images.gobaligo.id/images/2026-03/1774443703529-123569809.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443703959-53532225.jpg)
+![The Palm Grove Villas — Akomodasi Bintang Empat ( Lokasi di ](https://images.gobaligo.id/images/2026-03/1774443703959-53532225.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443704354-53532706.jpg)
+![The Palm Grove Villas — Akomodasi Bintang Empat ( Lokasi di ](https://images.gobaligo.id/images/2026-03/1774443704354-53532706.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443704763-123569813.jpg)
+![The Palm Grove Villas — Akomodasi Bintang Empat ( Lokasi di ](https://images.gobaligo.id/images/2026-03/1774443704763-123569813.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443705288-123569831.jpg)
+![The Palm Grove Villas — Akomodasi Bintang Empat ( Lokasi di ](https://images.gobaligo.id/images/2026-03/1774443705288-123569831.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443705685-123569875.jpg)
+![The Palm Grove Villas — Akomodasi Bintang Empat ( Lokasi di ](https://images.gobaligo.id/images/2026-03/1774443705685-123569875.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443706199-123569889.jpg)
+![The Palm Grove Villas — Akomodasi Bintang Empat ( Lokasi di ](https://images.gobaligo.id/images/2026-03/1774443706199-123569889.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443706721-124120103.jpg)
+![The Palm Grove Villas — Akomodasi Bintang Empat ( Lokasi di ](https://images.gobaligo.id/images/2026-03/1774443706721-124120103.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443707114-124121664.jpg)
+![The Palm Grove Villas — Akomodasi Bintang Empat ( Lokasi di ](https://images.gobaligo.id/images/2026-03/1774443707114-124121664.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774443707526-364700747.jpg)
+![The Palm Grove Villas — Akomodasi Bintang Empat ( Lokasi di ](https://images.gobaligo.id/images/2026-03/1774443707526-364700747.jpg)
 
 The Palm Grove Villas cuma 100 meter dari Mushroom Beach yang terkenal. Vila-vila di sini punya atap alang-alang khas Bali dan pintu masuk pribadi, pemandangannya asri dan dekat dengan beberapa spot diving populer — cocok buat kamu yang pengin santai sekaligus petualangan.
 
@@ -340,7 +340,7 @@ The Palm Grove Villas cuma 100 meter dari Mushroom Beach yang terkenal. Vila-vil
 
 ## **3. Dream Beach**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2cede1c5928bd642dfc32a9cbe865f57.jpg)
+![3. Dream Beach](https://images.gobaligo.id/vocus/vocus_2cede1c5928bd642dfc32a9cbe865f57.jpg)
 
 **Dream Beach** ada di pesisir selatan Nusa Lembongan, terkenal dengan hidden beach-nya yang memesona, air biru jernih banget, jadi tempat ideal buat kabur dari keramaian. Pantai kecil tapi cantik ini dikelilingi tebing-tebing keren, pasirnya lembut dan halus, cocok buat berjemur atau sekadar santai. Dream Beach dekat dengan area wisata utama Nusa Lembongan: sekitar 4 km dari Jungut Batu, dan 1,8 km dari Mushroom Bay. Ombaknya di sini lumayan gede, jadi hati-hati kalau mau berenang, apalagi kalau bawa anak kecil — mungkin kurang cocok buat mereka.
 
@@ -368,31 +368,31 @@ Dream Beach nggak terkenal dengan nightlife-nya, suasananya lebih tenang dibandi
 
 Pilihan akomodasi di sekitar Dream Beach memang nggak sebanyak di Jungut Batu atau Mushroom Bay, tapi tempat ini terkenal tenang dan pemandangannya juara. Beberapa hotel punya infinity pool yang menghadap langsung ke pantai yang memesona — cocok banget buat kamu yang mencari privasi dan ingin dekat dengan alam. Nggak ada lalu lintas perahu yang sibuk, jadi pas banget buat kamu yang pengin relaksasi total.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444242748-dream-beach-nusa-lembongan-1024x682.jpeg)
+![Pilihan Akomodasi di Dream Beach](https://images.gobaligo.id/images/2026-03/1774444242748-dream-beach-nusa-lembongan-1024x682.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444271311-d_byas_dream_beach_club.jpg)
+![Pilihan Akomodasi di Dream Beach](https://images.gobaligo.id/images/2026-03/1774444271311-d_byas_dream_beach_club.jpg)
 
 ### Dream Beach Huts: Infinity Pool-nya Bikin Jatuh Hati (🗺️ [Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444314506-153871246.jpg)
+![Dream Beach Huts: Infinity Pool-nya Bikin Jatuh Hati ( Lokas](https://images.gobaligo.id/images/2026-03/1774444314506-153871246.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444314861-148951276.jpg)
+![Dream Beach Huts: Infinity Pool-nya Bikin Jatuh Hati ( Lokas](https://images.gobaligo.id/images/2026-03/1774444314861-148951276.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444315270-153871959.jpg)
+![Dream Beach Huts: Infinity Pool-nya Bikin Jatuh Hati ( Lokas](https://images.gobaligo.id/images/2026-03/1774444315270-153871959.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444315699-153872007.jpg)
+![Dream Beach Huts: Infinity Pool-nya Bikin Jatuh Hati ( Lokas](https://images.gobaligo.id/images/2026-03/1774444315699-153872007.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444316305-181470576.jpg)
+![Dream Beach Huts: Infinity Pool-nya Bikin Jatuh Hati ( Lokas](https://images.gobaligo.id/images/2026-03/1774444316305-181470576.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444316661-181470583.jpg)
+![Dream Beach Huts: Infinity Pool-nya Bikin Jatuh Hati ( Lokas](https://images.gobaligo.id/images/2026-03/1774444316661-181470583.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444317119-181470585.jpg)
+![Dream Beach Huts: Infinity Pool-nya Bikin Jatuh Hati ( Lokas](https://images.gobaligo.id/images/2026-03/1774444317119-181470585.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444317529-181470595.jpg)
+![Dream Beach Huts: Infinity Pool-nya Bikin Jatuh Hati ( Lokas](https://images.gobaligo.id/images/2026-03/1774444317529-181470595.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444317932-413721614.jpg)
+![Dream Beach Huts: Infinity Pool-nya Bikin Jatuh Hati ( Lokas](https://images.gobaligo.id/images/2026-03/1774444317932-413721614.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444318337-415848748.jpg)
+![Dream Beach Huts: Infinity Pool-nya Bikin Jatuh Hati ( Lokas](https://images.gobaligo.id/images/2026-03/1774444318337-415848748.jpg)
 
 Dream Beach Huts adalah resort unik di Dream Beach dengan arsitektur kayu yang penuh pesona. Terletak di pesisir selatan Pulau Lembongan, resort ini punya area pantai pribadi yang bikin liburanmu makin sempurna.
 
@@ -406,25 +406,25 @@ Dream Beach Huts adalah resort unik di Dream Beach dengan arsitektur kayu yang p
 
 ### Komodo Garden 輕奢精品（🗺️ [Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444394742-32861955.jpg)
+![Komodo Garden 輕奢精品（ Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774444394742-32861955.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444395289-32861942.jpg)
+![Komodo Garden 輕奢精品（ Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774444395289-32861942.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444395757-32861949.jpg)
+![Komodo Garden 輕奢精品（ Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774444395757-32861949.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444396102-32861952.jpg)
+![Komodo Garden 輕奢精品（ Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774444396102-32861952.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444396473-32861958.jpg)
+![Komodo Garden 輕奢精品（ Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774444396473-32861958.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444396891-32861959.jpg)
+![Komodo Garden 輕奢精品（ Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774444396891-32861959.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444397304-32861967.jpg)
+![Komodo Garden 輕奢精品（ Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774444397304-32861967.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444397822-32861982.jpg)
+![Komodo Garden 輕奢精品（ Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774444397822-32861982.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444398222-32861985.jpg)
+![Komodo Garden 輕奢精品（ Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774444398222-32861985.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444398636-32861990.jpg)
+![Komodo Garden 輕奢精品（ Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774444398636-32861990.jpg)
 
 Komodo Garden adalah resort butik yang terletak di Pulau Lembongan, cuma 550 meter dari Dream Beach. Resort ini punya suasana menginap yang hangat dan dikenal dengan arsitektur kayu tradisionalnya.
 
@@ -438,13 +438,13 @@ Komodo Garden adalah resort butik yang terletak di Pulau Lembongan, cuma 550 met
 
 ## 4. Sandy Bay — Teluk Tenang yang Memesona
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1b5537036ea0ba11b0f278dcb4f1ff64.jpg)
+![4. Sandy Bay — Teluk Tenang yang Memesona](https://images.gobaligo.id/vocus/vocus_1b5537036ea0ba11b0f278dcb4f1ff64.jpg)
 
 Sandy Bay terletak di selatan Pulau Lembongan, sebuah teluk tenang yang bikin hati adem, persis di posisi kece antara Mushroom Bay dan Dream Beach. Dari sini ke Pantai Jungutbatu yang ramai butuh 14 menit naik kendaraan, sekitar 4 km; sementara ke Jembatan Kuning—ikon penghubung Lembongan dan Ceningan—perlu ke timur sekitar 3 km. Teluk ini kecil tapi punya pesona unik, pasir putih lembut yang dipeluk teluk mungil, jadi pilihan terbaik buat traveler yang cari ketenangan. Karena dekat dengan Devil's Tears, ombaknya cukup ganas, meski nggak cocok buat renang, tapi justru bikin teluk ini makin liar dan alami.
 
 ### Rekomendasi Kuliner
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3fbe2f16bdf9935ef1f695d8949749b6.png)
+![Rekomendasi Kuliner](https://images.gobaligo.id/vocus/vocus_3fbe2f16bdf9935ef1f695d8949749b6.png)
 
 Pengalaman kuliner di Sandy Bay mostly berpusat di Sandy Bay Beach Club. Ini bukan cuma tempat makan yang kece, tapi juga spot sempurna buat lihat sunset. Resto punya infinity pool yang bikin takjub, di sini kamu bisa nikmatin makanan sambil lihat pemandangan laut yang epik. Suasananya santai dan adem, tanpa musik yang berisik, bikin kamu benar-benar rileks menikmati perpaduan makanan dan pemandangan. Baik buat ngopi sore atau dinner romantis, tempat ini bakal kasih pengalaman makan yang nggak terlupakan.
 
@@ -462,25 +462,25 @@ Akomodasi di Sandy Bay didominasi gaya butik, meskipun pilihannya nggak banyak, 
 
 ### Sandy Bay: Menginap di Beach Resort (🗺️ [Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444536899-467174804.jpg)
+![Sandy Bay: Menginap di Beach Resort ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774444536899-467174804.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444537242-467174791.jpg)
+![Sandy Bay: Menginap di Beach Resort ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774444537242-467174791.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444537556-467174795.jpg)
+![Sandy Bay: Menginap di Beach Resort ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774444537556-467174795.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444537857-467174800.jpg)
+![Sandy Bay: Menginap di Beach Resort ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774444537857-467174800.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444538426-467174802.jpg)
+![Sandy Bay: Menginap di Beach Resort ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774444538426-467174802.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444538828-467174812.jpg)
+![Sandy Bay: Menginap di Beach Resort ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774444538828-467174812.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444539223-467174815.jpg)
+![Sandy Bay: Menginap di Beach Resort ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774444539223-467174815.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444539732-531582924.jpg)
+![Sandy Bay: Menginap di Beach Resort ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774444539732-531582924.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444540059-531583022.jpg)
+![Sandy Bay: Menginap di Beach Resort ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774444540059-531583022.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444540372-531583060.jpg)
+![Sandy Bay: Menginap di Beach Resort ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774444540372-531583060.jpg)
 
 Sandy Bay adalah destinasi resor yang elegan, terkenal dengan taman yang asri dan pelayanan berkualitas. Selain akomodasi yang nyaman, resor ini juga menciptakan pengalaman liburan yang sempurna. Desain resor mengutamakan privasi dan kenyamanan, bikin tamu bisa menikmati liburan yang tenang dan menyenangkan.
 
@@ -494,25 +494,25 @@ Sandy Bay adalah destinasi resor yang elegan, terkenal dengan taman yang asri da
 
 ### Villa Waru One - Villa 4 Kamar Tidur (🗺️ [Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444601532-113940825.jpg)
+![Villa Waru One - Villa 4 Kamar Tidur ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774444601532-113940825.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444601882-113940739.jpg)
+![Villa Waru One - Villa 4 Kamar Tidur ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774444601882-113940739.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444602227-113940749.jpg)
+![Villa Waru One - Villa 4 Kamar Tidur ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774444602227-113940749.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444602600-113940777.jpg)
+![Villa Waru One - Villa 4 Kamar Tidur ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774444602600-113940777.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444603013-113940783.jpg)
+![Villa Waru One - Villa 4 Kamar Tidur ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774444603013-113940783.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444603424-113940794.jpg)
+![Villa Waru One - Villa 4 Kamar Tidur ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774444603424-113940794.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444603747-119615035.jpg)
+![Villa Waru One - Villa 4 Kamar Tidur ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774444603747-119615035.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444604146-266089427.jpg)
+![Villa Waru One - Villa 4 Kamar Tidur ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774444604146-266089427.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444604559-266089499.jpg)
+![Villa Waru One - Villa 4 Kamar Tidur ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774444604559-266089499.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444604973-266105768.jpg)
+![Villa Waru One - Villa 4 Kamar Tidur ( Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774444604973-266105768.jpg)
 
 Villa Waru One adalah villa mewah dengan empat kamar tidur di Sandy Bay, menawarkan pengalaman liburan kelas atas. Villa tepi laut ini terkenal dengan ruangannya yang luas dan layanan berkualitas, menyediakan layanan resepsionis 24 jam dan bantuan mengatur tur.
 
@@ -526,7 +526,7 @@ Villa Waru One adalah villa mewah dengan empat kamar tidur di Sandy Bay, menawar
 
 ## 5. Tamarind Beach — Surga Tersembunyi yang Tenang
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_450cdadfea1fc8e2288ae567f6b68421.jpg)
+![5. Tamarind Beach — Surga Tersembunyi yang Tenang](https://images.gobaligo.id/vocus/vocus_450cdadfea1fc8e2288ae567f6b68421.jpg)
 
 Tamarind Beach terletak di antara dua area penginapan populer, Jungut Batu dan Mushroom Bay. Meski bukan kawasan terfavorit di pulau, justru ketenangannya yang bikin tempat ini unik. Pantai ini terselip cantik di antara Mushroom Bay yang terkenal dan Jungutbatu Beach yang panjang, menciptakan surga kecil yang damai. Tebing di kedua sisinya jadi pelindung alami, bikin air laut di sini tenang dan adem sepanjang tahun — cocok banget buat perenang segala level, apalagi keluarga yang mau main air. Keunikan pantai ini adalah bisa kasih kamu ketenangan sekaligus kemudahan akses ke tempat-tempat populer di sekitarnya.
 
@@ -548,25 +548,25 @@ Akomodasi di area Tamarind fokus pada keseimbangan antara harga terjangkau dan k
 
 ### Morin Resort - Opsi Menginap Mewah Tapi Santai (🗺️ [Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444763417-490186364.jpg)
+![Morin Resort - Opsi Menginap Mewah Tapi Santai ( Lokasi di P](https://images.gobaligo.id/images/2026-03/1774444763417-490186364.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444763944-459481765.jpg)
+![Morin Resort - Opsi Menginap Mewah Tapi Santai ( Lokasi di P](https://images.gobaligo.id/images/2026-03/1774444763944-459481765.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444764685-489369796.jpg)
+![Morin Resort - Opsi Menginap Mewah Tapi Santai ( Lokasi di P](https://images.gobaligo.id/images/2026-03/1774444764685-489369796.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444765104-489369801.jpg)
+![Morin Resort - Opsi Menginap Mewah Tapi Santai ( Lokasi di P](https://images.gobaligo.id/images/2026-03/1774444765104-489369801.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444765637-489370029.jpg)
+![Morin Resort - Opsi Menginap Mewah Tapi Santai ( Lokasi di P](https://images.gobaligo.id/images/2026-03/1774444765637-489370029.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444765981-489370031.jpg)
+![Morin Resort - Opsi Menginap Mewah Tapi Santai ( Lokasi di P](https://images.gobaligo.id/images/2026-03/1774444765981-489370031.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444766468-490184069.jpg)
+![Morin Resort - Opsi Menginap Mewah Tapi Santai ( Lokasi di P](https://images.gobaligo.id/images/2026-03/1774444766468-490184069.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444766911-490184107.jpg)
+![Morin Resort - Opsi Menginap Mewah Tapi Santai ( Lokasi di P](https://images.gobaligo.id/images/2026-03/1774444766911-490184107.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444767406-490184122.jpg)
+![Morin Resort - Opsi Menginap Mewah Tapi Santai ( Lokasi di P](https://images.gobaligo.id/images/2026-03/1774444767406-490184122.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444767888-490186423.jpg)
+![Morin Resort - Opsi Menginap Mewah Tapi Santai ( Lokasi di P](https://images.gobaligo.id/images/2026-03/1774444767888-490186423.jpg)
 
 Morin Resort adalah resort butik di Nusa Lembongan yang terkenal banget sama pemandangan lautnya yang cakep dan pelayanannya yang oke. Resort ini punya berbagai tipe villa, termasuk villa keluarga, villa dengan pemandangan laut, dan villa dengan kolam renang pribadi — cocok buat semua jenis traveler. Desain dan pelayanannya dapet pujian tinggi dari tamu, apalagi tim stafnya yang ramah dan profesional.
 
@@ -580,25 +580,25 @@ Morin Resort adalah resort butik di Nusa Lembongan yang terkenal banget sama pem
 
 ### Lembongan Cliff Villas（🗺️ [Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444831043-121250967.jpg)
+![Lembongan Cliff Villas（ Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774444831043-121250967.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444831865-440274899.jpg)
+![Lembongan Cliff Villas（ Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774444831865-440274899.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444832315-11231708.jpg)
+![Lembongan Cliff Villas（ Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774444832315-11231708.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444832726-12595608.jpg)
+![Lembongan Cliff Villas（ Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774444832726-12595608.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444833049-52530794.jpg)
+![Lembongan Cliff Villas（ Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774444833049-52530794.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444833432-116841637.jpg)
+![Lembongan Cliff Villas（ Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774444833432-116841637.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444833897-117635370.jpg)
+![Lembongan Cliff Villas（ Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774444833897-117635370.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444834341-121249462.jpg)
+![Lembongan Cliff Villas（ Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774444834341-121249462.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444834676-121250708.jpg)
+![Lembongan Cliff Villas（ Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774444834676-121250708.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444835093-121250891.jpg)
+![Lembongan Cliff Villas（ Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774444835093-121250891.jpg)
 
 Lembongan Cliff Villas adalah resor mewah yang terletak di tebing, terkenal dengan pemandangannya yang menakjubkan dan pilihan akomodasi yang beragam. Resor ini menawarkan vila satu dan dua kamar tidur, cocok banget untuk keluarga. Bangunannya dibangun di lereng bukit, dikelilingi taman tropis, menciptakan suasana liburan yang tenang dan elegan.
 
@@ -612,21 +612,21 @@ Lembongan Cliff Villas adalah resor mewah yang terletak di tebing, terkenal deng
 
 ### Lembongan Harmony Villas（🗺️ [Lokasi di Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444903987-215404338.jpg)
+![Lembongan Harmony Villas（ Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774444903987-215404338.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444904387-130151521.jpg)
+![Lembongan Harmony Villas（ Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774444904387-130151521.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444904806-130196873.jpg)
+![Lembongan Harmony Villas（ Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774444904806-130196873.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444905196-130198781.jpg)
+![Lembongan Harmony Villas（ Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774444905196-130198781.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444905546-464066109.jpg)
+![Lembongan Harmony Villas（ Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774444905546-464066109.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444905929-555749507.jpg)
+![Lembongan Harmony Villas（ Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774444905929-555749507.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444906328-555749776.jpg)
+![Lembongan Harmony Villas（ Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774444906328-555749776.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774444906745-555751044.jpg)
+![Lembongan Harmony Villas（ Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774444906745-555751044.jpg)
 
 Lembongan Harmony Villas adalah salah satu pilihan akomodasi favorit buat kamu yang pertama kali ke Nusa Lembongan. Vila di puncak bukit ini punya pemandangan yang juara banget — bisa lihat Jungut Batu Beach dan Gunung Agung (Mt. Agung) dari kejauhan, bikin pengalaman visual yang wow banget. Vila satu dan dua kamar tidur di sini dilengkapi kolam renang pribadi, jadi favorit banget dan biasanya harus booking jauh-jauh hari.
 
@@ -640,7 +640,7 @@ Lembongan Harmony Villas adalah salah satu pilihan akomodasi favorit buat kamu y
 
 ## **6. Nusa Ceningan**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c824e22f70b4f9dccca3dc1971f175a6.png)
+![6. Nusa Ceningan](https://images.gobaligo.id/vocus/vocus_c824e22f70b4f9dccca3dc1971f175a6.png)
 
 **Nusa Ceningan** terletak di tenggara Nusa Lembongan, nggak jauh dari Nusa Penida yang lebih besar, dan dihubungkan ke Nusa Lembongan lewat jembatan kuning yang ikonik. Jembatan ini bukan cuma landmark khas Nusa Ceningan, tapi juga jadi penghubung transportasi yang praktis antara dua pulau. Nusa Ceningan lebih tenang dibanding Nusa Lembongan, cocok banget buat kamu yang pengin kabur dari keramaian dan nikmatin suasana terpencil yang adem.
 
@@ -651,11 +651,11 @@ Kalau kamu nginep di sini, saran kami sih sewa motor aja — karena bakal memuda
 - **Melewati Jembatan Kuning**: Naik mobil atau jalan kaki melintasi jembatan kuning ikonik (Yellow Bridge) yang menghubungkan Nusa Lembongan dan Nusa Ceningan — wajib dikunjungi.
 - **Jelajahi Blue Lagoon**: Laguna biru di Nusa Ceningan terkenal dengan pemandangan laut yang spektakuler, air jernih kebiruan berpadu dengan tebing, cocok banget buat foto-foto.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_40df0be93358669e693c1cc77aa919be.jpg)
+![Aktivitas Wajib Coba](https://images.gobaligo.id/vocus/vocus_40df0be93358669e693c1cc77aa919be.jpg)
 
 - **Mampir ke Sea Breeze Cafe**: Kafe ini menyajikan makanan enak dengan lokasi strategis dan pemandangan laut yang oke banget. Pas banget buat bersantai sore.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f45f1e5afcba5c9631cc572a74cc9214.jpg)
+![Aktivitas Wajib Coba](https://images.gobaligo.id/vocus/vocus_f45f1e5afcba5c9631cc572a74cc9214.jpg)
 
 - Mau lihat lebih banyak beach club di Nusa Ceningan? Cek rekomendasi lengkap kami: [28 Restoran, Bar, dan Beach Club Terbaik di Nusa Lembongan & Nusa Ceningan](/blog/nusa-lembongan-restaurants/)
 
@@ -665,25 +665,25 @@ Meskipun agak terpencil, Nusa Ceningan punya pesona alam yang tenang dan memikat
 
 ### Blue Lagoon Avia Villas (🗺️ [Lokasi di Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774445000420-222487082.jpg)
+![Blue Lagoon Avia Villas ( Lokasi di Google Maps)](https://images.gobaligo.id/images/2026-03/1774445000420-222487082.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774445000777-222489183.jpg)
+![Blue Lagoon Avia Villas ( Lokasi di Google Maps)](https://images.gobaligo.id/images/2026-03/1774445000777-222489183.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774445001167-265341441.jpg)
+![Blue Lagoon Avia Villas ( Lokasi di Google Maps)](https://images.gobaligo.id/images/2026-03/1774445001167-265341441.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774445001544-265341443.jpg)
+![Blue Lagoon Avia Villas ( Lokasi di Google Maps)](https://images.gobaligo.id/images/2026-03/1774445001544-265341443.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774445002105-265341454.jpg)
+![Blue Lagoon Avia Villas ( Lokasi di Google Maps)](https://images.gobaligo.id/images/2026-03/1774445002105-265341454.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774445002534-265341467.jpg)
+![Blue Lagoon Avia Villas ( Lokasi di Google Maps)](https://images.gobaligo.id/images/2026-03/1774445002534-265341467.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774445003046-265341517.jpg)
+![Blue Lagoon Avia Villas ( Lokasi di Google Maps)](https://images.gobaligo.id/images/2026-03/1774445003046-265341517.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774445003546-265341754.jpg)
+![Blue Lagoon Avia Villas ( Lokasi di Google Maps)](https://images.gobaligo.id/images/2026-03/1774445003546-265341754.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774445003938-265341981.jpg)
+![Blue Lagoon Avia Villas ( Lokasi di Google Maps)](https://images.gobaligo.id/images/2026-03/1774445003938-265341981.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774445004350-266914453.jpg)
+![Blue Lagoon Avia Villas ( Lokasi di Google Maps)](https://images.gobaligo.id/images/2026-03/1774445004350-266914453.jpg)
 
 Blue Lagoon Avia Villas terletak di kawasan Blue Lagoon yang cantik. Menawarkan vila dengan kolam renang pribadi (1 dan 2 kamar tidur), plus kolam renang tanpa batas bersama dan restoran. Pemandangannya epik, suasananya santai — tempat ideal buat eksplorasi Pulau Nusa Ceningan.
 
@@ -697,7 +697,7 @@ Blue Lagoon Avia Villas terletak di kawasan Blue Lagoon yang cantik. Menawarkan 
 
 ## Peta Panduan Nusa Lembongan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2aabc8867ff2279da8bff154396cf2b5.png)
+![Peta Panduan Nusa Lembongan](https://images.gobaligo.id/vocus/vocus_2aabc8867ff2279da8bff154396cf2b5.png)
 
 Peta panduan Nusa Lembongan dengan semua tempat wisata, kuliner, dan akomodasi yang ditandai
 

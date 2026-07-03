@@ -48,7 +48,7 @@ The roads on Nusa Penida are quite narrow, making it a thrilling experience when
 
 ## Exploring the Island's Beauty and Cuisine
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d8505be114d780f2f4c578a7fcfc798d.png)
+![Exploring the Island's Beauty and Cuisine](https://images.gobaligo.id/vocus/vocus_d8505be114d780f2f4c578a7fcfc798d.png)
 
 The scenery on Nusa Penida is absolutely unmissable. Whether it's the famous Kelingking Beach or Angel's Billabong, each spot leaves visitors in awe. These locations boast stunning natural landscapes, crystal-clear waters, and breathtaking cliff views that make it hard to leave.
 
@@ -70,7 +70,7 @@ After a delightful few days on Nusa Penida, we prepared to take the boat back to
 
 ## Conclusion
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc858943113e1373efd0c30989c2c3c2.png)
+![Conclusion](https://images.gobaligo.id/vocus/vocus_bc858943113e1373efd0c30989c2c3c2.png)
 
 Our trip to Nusa Penida allowed us to deeply appreciate the island's natural grandeur and the warmth of its people. Whether it was the thrill of sailing or the enjoyment of the island's scenery and cuisine, everything left a lasting impression. We're incredibly grateful for the information shared by fellow travelers beforehand, which greatly enriched our experience. We hope this travelogue proves helpful to you as well. If you're planning a trip to Nusa Penida, don't miss out on these beautiful sights and delicious foods—wishing you a wonderful journey!
 

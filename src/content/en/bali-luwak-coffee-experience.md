@@ -46,7 +46,7 @@ That said, Bali’s traffic can be a headache 🤣. There’s no clear distincti
 
 Overall, Grab is a reliable transportation option in Bali, especially for travelers with elderly companions. It’s convenient and safe, but be prepared for chaotic traffic conditions. Always stay alert while driving, and be extra cautious when crossing streets, as motorcycles and cars move differently than in Taiwan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1990ed3bb904bed1268c76632f7d4c9a.jpg)
+![Transportation](https://images.gobaligo.id/vocus/vocus_1990ed3bb904bed1268c76632f7d4c9a.jpg)
 
 ***
 
@@ -62,7 +62,7 @@ We communicated with the driver via Line, and the process was seamless. First, w
 
 Our main goal for hiring the car was to explore the Ubud area, with the driver dropping us off at our next hotel afterward. The total car hire duration was 10 hours, costing approximately USD$39, which I found very reasonable. Additionally, we asked the driver to arrange activities like ATV riding, river tubing, and swing experiences. He included these costs in the total price, which we confirmed beforehand. Payment for everything was made in one go at the end of the day, making it incredibly convenient.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3017cf52f4ba0bee1447ab78b90bd1d5.jpg)
+![Itinerary and Costs:](https://images.gobaligo.id/vocus/vocus_3017cf52f4ba0bee1447ab78b90bd1d5.jpg)
 
 - 🏎️ Bali ATV Activity ▶ [Klook Discount](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%2520ATV%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D28594dcbf2)
 - 🚣 Bali Rafting Activity ▶ [Klook Discount](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%25E6%25B3%259B%25E8%2588%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D8c8ac92422)
@@ -78,7 +78,7 @@ The driver’s English was excellent, and while he didn’t speak Chinese, commu
 
 The driver was very considerate, even asking if we were hungry during the trip and taking us to a restaurant. The entire experience was relaxed and stress-free, with no need to worry about timing or route planning. If you need to switch accommodations during your Bali trip, I highly recommend this private car service. You can ask the driver to arrange a full-day itinerary and drop you off at your next lodging, saving both time and effort.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9fcdaea18d753826c3e962ebce5ecc05.jpg)
+![Flexibility in Itinerary:](https://images.gobaligo.id/vocus/vocus_9fcdaea18d753826c3e962ebce5ecc05.jpg)
 
 **More Excellent Reviews of Karuna:**
 
@@ -121,7 +121,7 @@ As soon as we entered the plantation, the staff enthusiastically explained the p
 
 The tasting experience was quite interesting. In addition to Kopi Luwak, they also prepared a variety of other coffees and herbal teas for us to sample. Each drink was accompanied by a detailed explanation, such as the flavor profile of the coffee or the benefits of the herbal tea. After finishing the tasting session, it did feel a bit awkward not to buy something.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b47855e8d20e3f0b3936512c44f670a2.jpg)
+![Plantation Tour and Tasting:](https://images.gobaligo.id/vocus/vocus_b47855e8d20e3f0b3936512c44f670a2.jpg)
 
 ### The Controversy Surrounding Kopi Luwak:
 
@@ -143,7 +143,7 @@ The civet coffee experience is considered a signature activity in Bali, but the 
 
 During this Bali trip, food was definitely one of the highlights that left a deep impression on me! Bali's culinary culture is incredibly diverse, especially the local specialties, which are truly unforgettable. Below is my detailed sharing of this dining experience, hoping to provide some references for everyone.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d7966ba428f0a4c7761ad02df03437bc.jpg)
+![Food](https://images.gobaligo.id/vocus/vocus_d7966ba428f0a4c7761ad02df03437bc.jpg)
 
 ### Bebek Bengil (Dirty Duck Rice) and Pork Ribs:
 
@@ -155,7 +155,7 @@ Interestingly, our private driver told us that although the majority of Indonesi
 
 While Bebek Bengil and pork ribs amazed us, traditional Indonesian cuisine didn't quite suit our taste buds. We even signed up for a cooking class, spending a morning learning to make six or seven Indonesian dishes. There were also a few Korean tourists in the class, and after tasting, everyone found the dishes too salty and oily, ending up only taking a bite or two before leaving them untouched. However, the process of participating in the cooking class was still fun, as being able to personally experience the making of local dishes is a unique travel experience.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ecf6911723fd212af6fd9e57f2e1e6c9.jpg)
+![Traditional Indonesian Cuisine:](https://images.gobaligo.id/vocus/vocus_ecf6911723fd212af6fd9e57f2e1e6c9.jpg)
 
 **Quick Reference:**
 
@@ -168,7 +168,7 @@ While Bebek Bengil and pork ribs amazed us, traditional Indonesian cuisine didn'
 
 Beyond the main meals, Bali's snacks were a delightful surprise! Especially the 'coconut chips,' which quickly became one of my favorite treats from this trip. Made from fresh coconuts that are dried, these chips offer a crispy texture with a natural coconut sweetness, and they're completely non-greasy, making them refreshingly light. We bought several packs at a local supermarket to bring home, but I ended up finishing them all before we even returned to Taiwan 🤣. If you're a fan of coconut-flavored snacks, you definitely shouldn't miss out on these!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3ea8ffe66b2a6770faffd5da33e37e49.png)
+![Snacks](https://images.gobaligo.id/vocus/vocus_3ea8ffe66b2a6770faffd5da33e37e49.png)
 
 Check out this guide for more recommendations: [Netizen Recommended] Six Categories, Over 20 Bali Souvenir Recommendations: The Perfect Choices to Preserve Precious Memories](/blog/bali-souvenirs-gift-guide/)
 
@@ -202,7 +202,7 @@ When exchanging money, always choose reputable currency exchange offices and avo
 
 This accommodation experience in Bali has deeply impressed upon me the importance of choosing the right location and surrounding environment. Below are some insights from my stay, which I hope will help you make more suitable choices when planning your trip.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a547a653ea0227a0f9908d938d74da36.jpg)
+![Accommodation](https://images.gobaligo.id/vocus/vocus_a547a653ea0227a0f9908d938d74da36.jpg)
 
 ### Mosquito Issue:
 
@@ -222,7 +222,7 @@ The biggest mistake in this trip was that our accommodation was quite far from t
 
 Therefore, **it’s highly recommended to consider the convenience of the surrounding area when choosing accommodation**. If you enjoy a lively atmosphere, you might want to stay in bustling areas like Kuta, Seminyak, or Ubud, where there are plenty of restaurants, shops, and evening entertainment options. However, if you opt for a more remote villa or resort, be prepared to rely on Grab delivery or private car services for your daily needs.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0391757a9b3ffecaea7406bc888c42e0.jpg)
+![Choosing the Right Accommodation Location:](https://images.gobaligo.id/vocus/vocus_0391757a9b3ffecaea7406bc888c42e0.jpg)
 
 ### Accommodation Tips:
 
@@ -236,7 +236,7 @@ Bali’s sunshine, sea breeze, and cultural charm have left us with countless be
 
 Do you find I-Hsuan Chang’s itinerary inspiring? Start planning your own Bali adventure now! We also welcome you to share your travel plans in our community!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Accommodation Tips:](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Click here to explore more amazing Bali travel stories
 

@@ -45,7 +45,7 @@ Beyond voltage, socket type is another consideration. Indonesia uses the Europea
 
 You can buy adapters at local supermarkets; they're called "Adaptor" (pronounced ah-dahp-tor in Indonesian). You can also ask your hotel if they provide one, but not all do, so it's best to pick one up locally for about NT$30–40 (around USD$1).
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cee2923f799f1f91f4f50a8eee72a53d.jpg)
+![Do You Need an Adapter?](https://images.gobaligo.id/vocus/vocus_cee2923f799f1f91f4f50a8eee72a53d.jpg)
 
 Typically, you'll need at least one adapter plus a **220V-compatible** multi-outlet extension cord to power all your devices in Indonesia and Bali. Remember, don't skimp on the extension cord—choose a reputable brand for safer use of all your electronics.
 
@@ -55,13 +55,13 @@ Typically, you'll need at least one adapter plus a **220V-compatible** multi-out
 
 Most USB chargers that modern travelers bring abroad (such as phone and tablet charging heads) already support "100V-240V wide voltage." Simply check if the input voltage range listed on the charger includes 220V—if it does, you can use it directly in Bali without an extra transformer. Before you go, look at the fine print on the charger; for example, if it says "Input: 100-240V," it's universal. If it only says 110V, you'll need to replace it.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1558c540adf790fc52dc3f5badfe3ae.jpg)
+![How to Prepare a USB Charger?](https://images.gobaligo.id/vocus/vocus_a1558c540adf790fc52dc3f5badfe3ae.jpg)
 
 If you're planning to bring a multi-outlet extension cord like the one pictured above, first make sure it supports the 110~220V range before using it. Second, check the plug type: those bought in Taiwan typically have two flat prongs as shown. You'll also need an adapter (mentioned at the very top) to use it safely in different hotels or villas. Lastly, if your devices support PD or QC fast charging, it's recommended to choose a corresponding high-power charger—this can significantly reduce charging time and ease travel anxiety!
 
 ## Can This "Square-Prong" Universal Adapter Be Used in Bali?
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779768785299-mixcollage-26-may-2026-11-12-am-9086.jpg)
+![Can This "Square-Prong" Universal Adapter Be Used in Bali?](https://images.gobaligo.id/images/2026-05/1779768785299-mixcollage-26-may-2026-11-12-am-9086.jpg)
 
 Recently, a traveler in the group asked: "Can this universal adapter be used in Bali? Some people online say you must have a fully round plug?" Many netizens shared their real-life experiences below, and the key points are actually very consistent:
 
@@ -104,7 +104,7 @@ If you bring your own hairdryer, most hairdryers purchased in Taiwan only suppor
 
 For this situation, the safest and most convenient solution is to buy a hairdryer that supports 220V locally. This way, you can ensure your hairdryer works normally in Indonesia and Bali, while also avoiding damage from voltage mismatch.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_76cf751fe4866588a6bb0606c340d312.png)
+![Can I bring my own hair dryer or curling iron?](https://images.gobaligo.id/vocus/vocus_76cf751fe4866588a6bb0606c340d312.png)
 
 ***
 

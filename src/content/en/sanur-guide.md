@@ -32,7 +32,7 @@ lang: en
 _srcHash: 25dcb5d124ee71cf2adf89db2a644274
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8f6c888982e2cf5611b55b827c0ffcaa.png)
+![Bali Family Attractions Sanur Ultimate Guide: 50+ Things to ](https://images.gobaligo.id/vocus/vocus_8f6c888982e2cf5611b55b827c0ffcaa.png)
 
 Tired of Bali's chaos? Searching for a relaxing retreat? Or just a convenient yet peaceful spot? Then Sanur is your perfect choice!
 
@@ -80,7 +80,7 @@ Another area is Mertasari Beach at the southernmost tip of Sanur (📌[Map](http
 
 ### Beach Promenade
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d124800f990b3fd545451b4c77015a4f.jpg)
+![Beach Promenade](https://images.gobaligo.id/vocus/vocus_d124800f990b3fd545451b4c77015a4f.jpg)
 
 You can't talk about Sanur without mentioning its over four-kilometer-long beach promenade! This lengthy coastal walkway is one of Sanur's most distinctive features. Stroll along the shops, walk, jog, or rent a bike and ride leisurely with your kids on the flat path. The beach on one side, with its varying length and scenery, guarantees you'll find a spot to call your own—shaded by huge trees with lovely cool spots, and no smokers nearby! Lay down a mat and relax in your private slice of paradise.
 
@@ -88,7 +88,7 @@ You might also consider joining one of these two half-day tours.
 
 ### Beach Sunrise Bike Tour
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8f65ced337e0f7409ee7a617c4d85b04.png)
+![Beach Sunrise Bike Tour](https://images.gobaligo.id/vocus/vocus_8f65ced337e0f7409ee7a617c4d85b04.png)
 
 If you were to rank the most breathtaking sunrises in Bali, the undisputed number one is the sunrise at Mount Batur (see our [Ubud Guide](/blog/ubud-guide/)). But since Sanur is on the east coast, its sunrises are also especially enchanting! Along the beach promenade, you can witness the magnificent sight of the sun rising from every angle.
 
@@ -98,7 +98,7 @@ The most famous spot to enjoy the sunrise—and one of Bali's most photogenic lo
 
 ### Sanur Village E-Bike Tour
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0cbe4eaf60ff45aa191d2966875f15fc.png)
+![Sanur Village E-Bike Tour](https://images.gobaligo.id/vocus/vocus_0cbe4eaf60ff45aa191d2966875f15fc.png)
 
 Join the Sanur Village E-Bike Tour to ride through mangroves and soak in the tranquility of nature; then cross lush green rice paddies and enjoy the beauty of the landscape.
 
@@ -111,7 +111,7 @@ After the electric bike tour ends, enjoy fresh coconuts on the beach, feel the s
 
 ### Segara Playland (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dd7a1a4960aafe8141c839ef82061102.jpg)
+![Segara Playland (Map)](https://images.gobaligo.id/vocus/vocus_dd7a1a4960aafe8141c839ef82061102.jpg)
 
 Segara Playland's main highlight is its wide variety of play facilities, including climbing structures, sand play areas, slides, and a small splash pool for kids. These features let children play to their heart's content while sparking their imagination and energy. For parents, they can relax and watch their kids play safely at Segara Playland, or join in the fun activities together, creating quality family time.
 
@@ -119,7 +119,7 @@ Admission is 25K, about USD$1.
 
 ### **Shotgun Social Bali** (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fc79a480eaeded04dda0b68ee5bc2965.jpg)
+![Shotgun Social Bali (Map)](https://images.gobaligo.id/vocus/vocus_fc79a480eaeded04dda0b68ee5bc2965.jpg)
 
 Shotgun Social Bali is a popular social space in Sanur. It offers a range of amenities, including an international restaurant, bar, and café, making it an ideal spot for a casual dining experience. For families with kids, the outdoor playground is a fantastic feature, allowing children to play and have fun while parents enjoy their meal. Its social space concept is perfect for those seeking a relaxed and comfortable dining experience without compromising on quality food and drinks.
 
@@ -127,7 +127,7 @@ If you're in Sanur, Bali, be sure to stop by Shotgun Social Bali for great food 
 
 ### Kids SoHo Playground (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aab29c9021f09388405829b6f37926dc.jpg)
+![Kids SoHo Playground (Map)](https://images.gobaligo.id/vocus/vocus_aab29c9021f09388405829b6f37926dc.jpg)
 
 Kids SoHo Playground is a popular children's playground located in Sanur, offering a fun and safe environment for families. The facility is well-equipped with various play structures that let kids have a blast, while providing a comfortable setting for parents and guardians to watch over them.
 
@@ -139,13 +139,13 @@ Admission is 100K IDR, approximately USD$6.
 
 ### Byrd House Bali/Kids Club (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3dc24c72e8b6843f128d8166c906a9b8.jpg)
+![Byrd House Bali/Kids Club (Map)](https://images.gobaligo.id/vocus/vocus_3dc24c72e8b6843f128d8166c906a9b8.jpg)
 
 Byrd House Bali is an ideal family getaway. From morning till dusk, it exudes a serene Mediterranean vibe, where you can savor delicious meals at the main restaurant or enjoy freshly baked pastries at the patisserie. The dedicated kids' club features a playground and pool, allowing children to play safely while parents sip on exquisite martinis or unwind by the pool, soaking up a relaxing holiday atmosphere.
 
 ### Lamis Resto (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2453c147ea0d93e61521ed542f155fa1.jpg)
+![Lamis Resto (Map)](https://images.gobaligo.id/vocus/vocus_2453c147ea0d93e61521ed542f155fa1.jpg)
 
 Lamis Resto is essentially a medium-sized playground! It boasts plenty of play equipment and a large grassy area for kids to burn off energy. Parents with little ones can dine here while letting their children run wild and have fun.
 
@@ -157,7 +157,7 @@ Entry fee is 35K, about USD$1.
 
 ### Kidz Cafe Sanur (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_81613c8557312ce60dcb220dc7140ae1.jpg)
+![Kidz Cafe Sanur (Map)](https://images.gobaligo.id/vocus/vocus_81613c8557312ce60dcb220dc7140ae1.jpg)
 
 Kidz Cafe Sanur is a family-friendly café designed for families and children, offering a safe and comfortable environment where kids and parents can enjoy delicious food and a relaxing time together.
 
@@ -165,7 +165,7 @@ Kidz Cafe Sanur features a wealth of children's play facilities, such as an indo
 
 ### Big Garden Corner Bali (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f5c6c33583294ef0cad5a9447c3f4614.jpg)
+![Big Garden Corner Bali (Map)](https://images.gobaligo.id/vocus/vocus_f5c6c33583294ef0cad5a9447c3f4614.jpg)
 
 Big Garden Corner is a charming attraction in Sanur. For little ones, it features a children's playground and a kids' water park, offering a space full of fun and energy. Additionally, Big Garden Corner has many photo-worthy spots, such as Buddha stone carvings, a Borobudur temple replica, and treehouses, allowing visitors to create wonderful memories and unique photos. This attraction is perfect for families and friends to explore and enjoy together—definitely worth a visit.
 
@@ -175,13 +175,13 @@ Ticket prices start from 250K
 
 ### Arta Sedana Supermarket (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fbb6d8bec2c7fbb502200a543dda4216.jpg)
+![Arta Sedana Supermarket (Map)](https://images.gobaligo.id/vocus/vocus_fbb6d8bec2c7fbb502200a543dda4216.jpg)
 
 Arta Sedana Supermarket, the largest in the Sanur area, is a well-known retail store offering a wide range of daily necessities and goods. With a spacious and comfortable shopping environment, it provides fresh food, household items, daily essentials, and a second floor selling various clothing and souvenirs, catering to all customer needs.
 
 ### Padang Galak (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ae9781a4eff3864182d1922b152c4c55.jpg)
+![Padang Galak (Map)](https://images.gobaligo.id/vocus/vocus_ae9781a4eff3864182d1922b152c4c55.jpg)
 
 On ordinary days, Padang Galak isn't a tourist beach, but between July and September each year, it transforms into a lively hub. During this period, Padang Galak becomes the unique venue for Bali's Kite Festival, drawing visitors and locals from around the world. Whether you're watching or competing, you'll see kites of all shapes, sizes, and colors dancing in the sky, filling the beach with joy and excitement. Originally a colorful celebration of gratitude to the gods, this event has become one of Bali's most captivating festivals.
 
@@ -191,7 +191,7 @@ Traveling with kids? You can't miss Sanur's famous ice cream! Gelato Secrets is 
 
 ### Massimo Italian Restaurant (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_30924183c91352405729850acdc10976.png)
+![Massimo Italian Restaurant (Map)](https://images.gobaligo.id/vocus/vocus_30924183c91352405729850acdc10976.png)
 
 Another renowned ice cream spot is this Italian restaurant in Sanur, serving Italian cuisine and gelato. Their gelato is handmade using natural ingredients from Italy and Indonesia, with 48 flavors to choose from. See [Xiao Jie's video](https://youtu.be/laRb_l8BdLM?si=pie6QIzYUNimI4vc&t=884).
 
@@ -199,7 +199,7 @@ Xiao Jie always dines here and enjoys gelato every time he visits Sanur!
 
 ### Sea Turtle Village (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c6cbeffb30f59766d3516e1d19d63b26.jpg)
+![Sea Turtle Village (Map)](https://images.gobaligo.id/vocus/vocus_c6cbeffb30f59766d3516e1d19d63b26.jpg)
 
 📍 **Location**: Sindhu Beach, Sanur
 
@@ -211,7 +211,7 @@ This is a small turtle conservation site voluntarily established by two local fi
 
 ### Sindu Dwarawati Turtle Conservation Center (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_566f468bcb5d32905907b5061d09834d.jpg)
+![Sindu Dwarawati Turtle Conservation Center (Map)](https://images.gobaligo.id/vocus/vocus_566f468bcb5d32905907b5061d09834d.jpg)
 
 📍 **Location**: Sindhu Beach, Sanur
 
@@ -225,7 +225,7 @@ Located near Sindu Beach, this site differs from Sea Turtle Village in nature, l
 
 ### Serangan Island Turtle Conservation & Education Center (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1fd0fa4a64f5f552cf0c246e66892d4e.jpg)
+![Serangan Island Turtle Conservation & Education Center (Map)](https://images.gobaligo.id/vocus/vocus_1fd0fa4a64f5f552cf0c246e66892d4e.jpg)
 
 📍 **Location**: Serangan Island (off the coast of Sanur)
 
@@ -255,13 +255,13 @@ Located at the southern end of Sanur, Mertasari Beach is a favorite weekend geta
 
 ### Genius Cafe Sanur (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd40539b9efb68f841c3cea6871ac043.jpg)
+![Genius Cafe Sanur (Map)](https://images.gobaligo.id/vocus/vocus_fd40539b9efb68f841c3cea6871ac043.jpg)
 
 Genius Cafe in Sanur is a fantastic spot for families. It offers a cozy dining environment with a variety of delicious healthy food and drinks, perfect for the whole family to enjoy together. Plus, its prime beachfront location provides stunning sea views, allowing both kids and parents to savor the seaside fun while dining. They offer a kids menu and high chairs. If you love healthy eating, vegetarian options, great coffee, and smoothie bowls, you can't miss this beachside cafe!
 
 ### Cheeky Monkeys (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_83f82b96bea58efb79337bff0e11edbd.jpg)
+![Cheeky Monkeys (Map)](https://images.gobaligo.id/vocus/vocus_83f82b96bea58efb79337bff0e11edbd.jpg)
 
 Cheeky Monkeys is a learning center designed for children and families. It offers a variety of classes and activities aimed at helping kids learn through play. The center features a large indoor play area, an outdoor playground, classrooms, and a library.
 
@@ -269,13 +269,13 @@ Cheeky Monkeys provides a range of classes and activities, including: early educ
 
 ### Museum Le Mayeur (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a7eadec18bd85e377d455169550dbd25.jpg)
+![Museum Le Mayeur (Map)](https://images.gobaligo.id/vocus/vocus_a7eadec18bd85e377d455169550dbd25.jpg)
 
 Museum Le Mayeur is located in the former home of Belgian painter Adrien-Jean Le Mayeur and his Balinese wife, Ni Pollok. Their story fills this place with a romantic and historical atmosphere. Situated at the northern end of Sanur Beach, this charming small museum showcases many of Le Mayeur's paintings, which vividly capture Bali's landscape and life before the rise of mass tourism. Although the museum's maintenance has been a subject of debate in recent years, it remains a captivating attraction for visitors who love Balinese art and culture. Strolling through this former residence, you can not only appreciate Le Mayeur's deep affection and artistic interpretation of Bali but also feel the historical essence of Sanur's past.
 
 ### Sanur Harbour (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_56a1b3475081bf70455d322015f3bcee.jpg)
+![Sanur Harbour (Map)](https://images.gobaligo.id/vocus/vocus_56a1b3475081bf70455d322015f3bcee.jpg)
 
 Sanur Harbour is an important port in Bali, located in Sanur. It provides ferry services between Bali and the eastern offshore islands, making it the most convenient port for traveling to those islands.
 
@@ -286,7 +286,7 @@ If you're planning a trip to Nusa Penida or Nusa Lembongan, check out our guides
 
 ### Icon Bali (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7a22c365ba0af5a991d81f41d0cf9fdc.jpg)
+![Icon Bali (Map)](https://images.gobaligo.id/vocus/vocus_7a22c365ba0af5a991d81f41d0cf9fdc.jpg)
 
 Icon Bali is a shopping mall that opened on June 7, 2024. It's a coastal mall with two main entrances, one on Danau Tamblingan Street and the other from Sanur Beach. Icon Bali features several unique attractions, including the largest indoor floating market, an indoor cultural stage, a vertical forest, waterfront restaurants, a beach sunset water curtain show, a beach gallery, a butterfly park, and an edible garden, among others.
 
@@ -294,19 +294,19 @@ https://youtu.be/hdIKOX5wghU?si=_9o-EEDW6YYSivzj
 
 ### Sanur Sunday Market (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6b92283c8ba5447559940806117f0c1d.jpg)
+![Sanur Sunday Market (Map)](https://images.gobaligo.id/vocus/vocus_6b92283c8ba5447559940806117f0c1d.jpg)
 
 The Mercure Resort Sanur hosts a monthly farmers' market that welcomes families and supports local businesses and artists. Held on the last Sunday of each month from 10 AM to 6 PM, it offers a relaxed and enjoyable shopping and social experience. A wide variety of goods and services are available, including handicrafts, fashion accessories, local cuisine, and eco-friendly products. Attending the market is not just about shopping—it's a way to support the local economy and creative industries.
 
 ### Sindhu Night Market (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_43ae5cf722c32ccca2d75c2ffe135672.jpg)
+![Sindhu Night Market (Map)](https://images.gobaligo.id/vocus/vocus_43ae5cf722c32ccca2d75c2ffe135672.jpg)
 
 Sindhu Night Market, located in northern Sanur, is a lively local food paradise where you can enjoy a variety of Balinese flavors at affordable prices. Whether it's Nasi Campur, satay, or Nasi Goreng, there's something here to satisfy every palate. This night market is popular not only with locals but also attracts many tourists eager to experience authentic Balinese cuisine. Additionally, Sindhu Night Market is a great place to buy fresh fruits, vegetables, and various juices, and you can even sample the unique durian. Although the market's official hours are from 6 PM to 11 PM, many stalls often open earlier and stay bustling late into the night, making it an excellent choice for an evening visit to Sanur.
 
 ### Deep Sea Fishing
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e5a751129b55192d84a6e6780bfca72e.jpg)
+![Deep Sea Fishing](https://images.gobaligo.id/vocus/vocus_e5a751129b55192d84a6e6780bfca72e.jpg)
 
 This fishing trip departs from Sanur, offering an adventurous sea fishing experience. You'll have the chance to catch a variety of prized fish, including grouper, snapper, triggerfish, and many other colorful tropical species.
 
@@ -316,7 +316,7 @@ Whether you're a first-timer or an experienced angler, this activity provides fi
 
 ### Sanur Offshore Snorkeling Experience
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_15a2c8eecada6b4cdeb2eed7d2474a5b.png)
+![Sanur Offshore Snorkeling Experience](https://images.gobaligo.id/vocus/vocus_15a2c8eecada6b4cdeb2eed7d2474a5b.png)
 
 Explore the underwater world off Sanur's coast in Bali! This 1.5-hour snorkeling experience takes just 10 minutes by boat to reach the snorkeling spot, where you can get up close with abundant marine life in crystal-clear waters. You'll see a variety of beautiful fish, vibrant coral reefs, and a unique underwater traditional Balinese stone gate. The highlight is the fish-feeding experience, where schools of tropical fish surround you, creating a dreamlike underwater spectacle. GoPro recording is provided throughout, so you can take home precious underwater memories.
 
@@ -328,7 +328,7 @@ Come experience the underwater wonders off Sanur's coast and make this snorkelin
 
 ### Tanjung Benoa Water Sports (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5704c6a04122fc501a0c2b8e65672e36.jpg)
+![Tanjung Benoa Water Sports (Map)](https://images.gobaligo.id/vocus/vocus_5704c6a04122fc501a0c2b8e65672e36.jpg)
 
 If you find the water activities in Sanur not thrilling enough, you can head south for a 30-minute drive to Tanjung Benoa, commonly known as 'South Bay'—the hub of all water sports in Bali. This vibrant stretch of sea offers an array of exhilarating activities, promising visitors an unforgettable adventure. Jet skis race across the azure waters, letting you feel the wild rush of the wind, while parasailing takes you high above to take in the stunning seascape, blending wonder with endless blue. Banana boats and doughnut boats provide fast-paced fun, perfect for families and groups of friends to enjoy together.
 
@@ -340,7 +340,7 @@ However, visitors should note that water activities in South Bay are very popula
 
 ### AeroXSpace Adventure Indoor Playground
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c11c0e168c9578f14f9bfa0b8be57f1f.jpg)
+![AeroXSpace Adventure Indoor Playground](https://images.gobaligo.id/vocus/vocus_c11c0e168c9578f14f9bfa0b8be57f1f.jpg)
 
 The opening of AeroXSpace Indoor Adventure Park has brought a new entertainment option for families and visitors in Bali. Spanning 3,500 square meters, this adventure center features 26 different attractions and games, ensuring fun for all ages, rain or shine.
 
@@ -348,7 +348,7 @@ Read the full details [here](/blog/aeroxspace-sanur-indoor-playground/).
 
 ### Clip 'n Climb Indoor Rock Climbing
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_299767d0544b5a5db93ddce11b528cb4.jpg)
+![Clip 'n Climb Indoor Rock Climbing](https://images.gobaligo.id/vocus/vocus_299767d0544b5a5db93ddce11b528cb4.jpg)
 
 Clip 'n Climb Bali combines sport and entertainment, making it a rising indoor adventure spot on the island. Whether you're a beginner or a pro, there's fun to be had! For detailed info and entry rules, check [here](/blog/clip-n-climb-sanur-bali/).
 
@@ -372,13 +372,13 @@ Detailed guide: [Bali Exotic Marine Park Guide: Ultra-Close Interaction, Swimmin
 
 ## Sanur's Culinary Scene
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_37bc5de638c92dd66ae48ac85fb4cfd2.jpg)
+![Sanur's Culinary Scene](https://images.gobaligo.id/vocus/vocus_37bc5de638c92dd66ae48ac85fb4cfd2.jpg)
 
 Sanur in Bali is famous for its rich and diverse food scene, and we recommend over 30 restaurants and cafes offering a variety of flavors and styles. These eateries include traditional Indonesian cuisine, fresh seafood, international dishes, and local street food, catering to all dietary preferences and tastes. Let's explore these enticing culinary spots together!
 
 ### Pier Eight Afternoon Tea at Sanur InterContinental (Google 4.6 stars 📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2154f66f40eb10cf3dd9e43f9569795e.png)
+![Pier Eight Afternoon Tea at Sanur InterContinental (Google 4](https://images.gobaligo.id/vocus/vocus_2154f66f40eb10cf3dd9e43f9569795e.png)
 
 Enjoy an afternoon tea deal at a five-star hotel on Sanur's beachfront, where you can savor exquisite treats against a stunning ocean backdrop. Indulge in a selection of delights including pistachio madeleines, strawberry tarts, raspberry chocolate cake, pandan scones, dadar gulung, mint praline, vegetable quiche, and chicken sandwiches. Pair your treats with a coffee or tea for a relaxing and delightful afternoon.
 
@@ -386,7 +386,7 @@ Enjoy an afternoon tea deal at a five-star hotel on Sanur's beachfront, where yo
 
 ### Naughty Nuri's Warung Sanur Dining Experience (Google 4.8 stars 📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c30b3be26b7b1ea8d571bb2c3778cccb.png)
+![Naughty Nuri's Warung Sanur Dining Experience (Google 4.8 st](https://images.gobaligo.id/vocus/vocus_c30b3be26b7b1ea8d571bb2c3778cccb.png)
 
 Naughty Nuri's Warung, a famous pork rib restaurant in Seminyak, now has a branch on a main road in Sanur. Renowned for its rich, juicy pork ribs, it draws food lovers from near and far. The new Sanur outpost carries on the original's unique vibe and delicious menu, offering a fresh dining experience for locals and travelers alike.
 
@@ -394,7 +394,7 @@ Naughty Nuri's Warung, a famous pork rib restaurant in Seminyak, now has a branc
 
 ### Tsune Japanese Cuisine (Google 4.9 stars 📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_37ec052e3c3ba0fce8ed72cd57cf05b1.png)
+![Tsune Japanese Cuisine (Google 4.9 stars Map)](https://images.gobaligo.id/vocus/vocus_37ec052e3c3ba0fce8ed72cd57cf05b1.png)
 
 Tsune Bali is an authentic Japanese restaurant that delights both the palate and the eyes with its artful presentation. Nestled along the scenic Sanur coastline, it offers breathtaking sea views for a truly rich dining experience.
 
@@ -406,7 +406,7 @@ Tsune Bali blends the essence of Japanese cuisine with Bali's tropical charm—a
 
 ### Paed Thai Sanur Thai Restaurant (Google 4.8 stars 📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8346bac0d3b03af79df1d1512afe1286.png)
+![Paed Thai Sanur Thai Restaurant (Google 4.8 stars Map)](https://images.gobaligo.id/vocus/vocus_8346bac0d3b03af79df1d1512afe1286.png)
 
 Great news for fans of sweet and sour Thai flavors! Paed Thai Sanur, a highly-rated Thai restaurant on Google, serves authentic Thai cuisine that perfectly balances sweet, salty, spicy, and sour notes, delivering an immersive and flavorful Thai dining experience. With a trendy urban design and tropical breezes, the restaurant blends seamlessly with the laid-back island lifestyle. Enjoying delicious Thai dishes here is not only a visual treat but also a unique exotic charm.
 
@@ -416,7 +416,7 @@ Paed Thai offers creative comfort food, with each dish perfect for sharing and b
 
 ### The Village Cucina Italian Restaurant (Google 4.4 stars 📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b11e794b7d674e83d3f1ddac526993f.png)
+![The Village Cucina Italian Restaurant (Google 4.4 stars Map)](https://images.gobaligo.id/vocus/vocus_9b11e794b7d674e83d3f1ddac526993f.png)
 
 The Village Cucina is a popular iconic Italian restaurant in Sanur, ideally located next to Starbucks on Sanur's main street. It draws a lively crowd to share delicious Italian food and fine wine, making it a perfect spot for conversation and connection.
 
@@ -428,7 +428,7 @@ Whether you're enjoying a casual meal with friends or a romantic dinner, The Vil
 
 ### Sanur Seaview Cafe
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dec525d7171bd1501b6db42fd4ccc185.jpg)
+![Sanur Seaview Cafe](https://images.gobaligo.id/vocus/vocus_dec525d7171bd1501b6db42fd4ccc185.jpg)
 
 We've rounded up 6 of the latest and hottest beachfront cafes. For full details, check out [here](/blog/sanur-beach-cafes-guide/)
 
@@ -444,7 +444,7 @@ Sanur has plenty more to offer. Check out our [Sanur Family Guide Map](https://w
 
 ## Sanur Shuttle Bus
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f9725710c3d0c3d75eeb1eacb77c99a6.jpg)
+![Sanur Shuttle Bus](https://images.gobaligo.id/vocus/vocus_f9725710c3d0c3d75eeb1eacb77c99a6.jpg)
 
 Starting August 2025, Sanur will offer a shuttle bus that runs exclusively within the Sanur area, giving visitors a hop-on, hop-off freedom of movement.
 
@@ -464,7 +464,7 @@ Current bus routes include:
 
 Looking for top-rated, no-regret spa treatments while vacationing in Sanur? Check out our recommendations below:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ad4d06b0cc123f9e7ea112e0b6fb25c0.png)
+![Enjoying Spa in Sanur](https://images.gobaligo.id/vocus/vocus_ad4d06b0cc123f9e7ea112e0b6fb25c0.png)
 
 > [Byrd House Spa and Wellness Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97393-spa-experience-byrd-spa-wellness-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db532f14425)
 
@@ -486,7 +486,7 @@ We've curated over 20 options, from luxurious Sanur resorts and hotels near Sanu
 
 ### Rent a Large Pool Float for Stunning Photos
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7367aefbce2dfaf311e700d4fe626662.jpg)
+![Rent a Large Pool Float for Stunning Photos](https://images.gobaligo.id/vocus/vocus_7367aefbce2dfaf311e700d4fe626662.jpg)
 
 Once you've sorted out your accommodation, how could you not snap some gorgeous photos at your beautiful hotel or villa? A stylish, oversized pool float is an essential prop for tropical island getaways. However, large floats plus an air pump take up a lot of space and are quite heavy, making them inconvenient to bring abroad. But with this service in Bali, you don't have to worry about any of that. As long as you're staying in the southern area—such as Kuta, Legian, Seminyak, Canggu, Uluwatu, Nusa Dua, or Sanur—you can easily enjoy a wide variety of oversized pool floats.
 

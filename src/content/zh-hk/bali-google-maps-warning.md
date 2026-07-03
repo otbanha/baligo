@@ -19,7 +19,7 @@ _srcHash: a63f35179568388e9a1b4105d94f32ea
 
 喺峇里島唔好信Google地圖！峇里島係一個令人嚮往嘅度假勝地，但係對於依賴Google地圖搵路線嘅遊客嚟講，可能會遇到一啲挑戰。呢度有兩個主要原因，令你喺計劃旅程時要謹慎對待Google地圖。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e7754da22cf1ad2b6561b833de1a9148.png)
+![喺峇里島唔好信Google地圖！](https://images.gobaligo.id/vocus/vocus_e7754da22cf1ad2b6561b833de1a9148.png)
 
 首先，Google地圖可能會顯示錯誤嘅路線。雖然Google地圖係一個功能強大嘅導航工具，但喺峇里島咁嘅地方，佢可能會出現一啲唔準確嘅路線指示，或者將你導航到連電單車都無法通行嘅小巷。呢個可能係因為地理資訊唔完整或者道路建設嘅變更導致嘅。因此，當你喺峇里島使用Google地圖時，最好將佢作為參考而唔係絕對依賴。
 

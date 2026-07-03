@@ -26,7 +26,7 @@ _srcHash: 1dbc40af94ee46c21de7d018afe0e0ad
 
 Bali di bulan November menyambut hari raya penting **Galungan (18–20 November)** dan libur Natal-Tahun Baru di Desember, jalanan pasti makin padat. Biar kecelakaan nggak meningkat, polisi setempat udah mulai Operasi Zebra tahunan lebih awal.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8885ac4311d8bdda3c5e0fd40566a5d6.jpg)
+![Menjelang Hari Raya: Polisi Gelar Razia Besar-besaran 'Opera](https://images.gobaligo.id/vocus/vocus_8885ac4311d8bdda3c5e0fd40566a5d6.jpg)
 
 Di persimpangan ramai, kamu bakal lihat lebih banyak petugas — hampir **1.700 personel** dikerahkan buat pemeriksaan, terutama buat turis asing yang naik motor.
 
@@ -92,7 +92,7 @@ Jalanan di Bali memang penuh semangat, tapi juga rumit dan nggak terduga. Aturan
 
 Kira-kira, dengan menyediakan sopir atau pelatihan dasar, apakah wisatawan pemula bakal lebih tenang? Patut dipikirin, sih.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b7d148fa791d6ef5869f955394fb7967.jpg)
+![【Gimana menurutmu? Apakah pendampingan pengemudi profesional](https://images.gobaligo.id/vocus/vocus_b7d148fa791d6ef5869f955394fb7967.jpg)
 
 ---
 

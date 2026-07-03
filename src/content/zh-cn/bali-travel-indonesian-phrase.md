@@ -18,7 +18,7 @@ lang: zh-cn
 _srcHash: 64c57f2ec05132c594910d48e40a1697
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1a3b754a96b4f0e921c41865215e967b.png)
+![巴厘岛旅游必学：最接地气的一句万用印尼语](https://images.gobaligo.id/vocus/vocus_1a3b754a96b4f0e921c41865215e967b.png)
 
 预订、省钱就看这里：
 
@@ -28,7 +28,7 @@ _srcHash: 64c57f2ec05132c594910d48e40a1697
 
 对于到巴厘岛短期观光的旅客来说，学习一些简单的印尼语是必要的，因为它能帮助你与当地人更加亲近，避免尴尬情况的发生。而这些印尼语当中最必须学、也是使用场景最多的就是「谢谢」（Terima kasih）。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1f891a42530fb2762a08646fe2f6600.png)
+![巴厘岛旅游必学：最接地气的一句万用印尼语](https://images.gobaligo.id/vocus/vocus_a1f891a42530fb2762a08646fe2f6600.png)
 
 在旅行过程中，你可能会遇到需要表达感谢的情况，无论是受到当地人的帮助、享受到美食的味道，或是在购物时得到了友善的服务。而用上「谢谢」这句印尼语，不仅能让你显得更加礼貌，也能让当地人感受到你的尊重和善意。
 

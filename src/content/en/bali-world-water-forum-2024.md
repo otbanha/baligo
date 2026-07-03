@@ -26,7 +26,7 @@ A major international conference, the World Water Forum, will be held in Bali in
 
 This grand event is bound to have some impact on the local area, such as airport and road traffic, hotel room demand, etc. However, the organizers will strive to ensure the smooth running of the conference while integrating local cultural wisdom, such as leading delegations to visit the irrigation systems and rice fields in Jatiluwih.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8553c25fe7dc3cc7fa673d7ba8aa922a.png)
+![Bali is bustling at the end of May! Over 50,000 delegates fl](https://images.gobaligo.id/vocus/vocus_8553c25fe7dc3cc7fa673d7ba8aa922a.png)
 
 Water resources are crucial for tourist destinations like Bali, with issues involving local water resource management and marine plastic pollution. It is hoped that this conference will bring new strategies for global water resource management.
 

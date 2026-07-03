@@ -147,7 +147,7 @@ Awan的联系方式收录在[巴厘岛包车司机名人榜](/blog/bali-private-
 
 您觉得赵康康他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5a1e2aa439de59150271c058d384f2c2.jpg)
+![推荐司机Bali Holiday Awan](https://images.gobaligo.id/vocus/vocus_5a1e2aa439de59150271c058d384f2c2.jpg)
 
 点击这里观看更多巴厘岛精彩游记
 

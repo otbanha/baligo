@@ -22,7 +22,7 @@ _srcHash: cb80a43795c31876a49ddbc82741962e
 
 巴厘岛，这片风景如画的印尼岛屿，2025年的节日和庆典将带您进入一场绚烂多彩的文化盛宴。不论你是想避开某个特定时期，或是想赶赴某个巴厘岛活动盛宴，这份完整的指南都能成为你的最佳索引! 让我们一起探索这个独特岛屿所呈现的多姿多彩和充满活力的节庆活动吧！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c0f9a3baeb0aed740edc947ff8866451.jpg)
+![2025年印尼国定假日&巴厘岛节庆一整年完整指南：精彩活动日期一览！](https://images.gobaligo.id/vocus/vocus_c0f9a3baeb0aed740edc947ff8866451.jpg)
 
 - **想避开巴厘岛五个旺季的朋友，请参考:**[**巴厘岛居然有五个旅游旺季！如何避开旺季聪明旅游？**](/blog/bali-peak-season-travel-tips/)
 - **印尼/巴厘岛雨季和旱季是什么时候?请看:**[**巴厘岛最佳旅游时间？深入了解干季、雨季/优缺点解**](/blog/bali-best-time-to-visit/)[**析**](/blog/bali-best-time-to-visit/)
@@ -47,7 +47,7 @@ _srcHash: cb80a43795c31876a49ddbc82741962e
 
 ### **29日:** 华人农历新年**(印尼国定假日)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_09f7fefc9dd080bd21bce0fb2b64106b.png)
+![29日: 华人农历新年(印尼国定假日)](https://images.gobaligo.id/vocus/vocus_09f7fefc9dd080bd21bce0fb2b64106b.png)
 
 - 1月日元旦几乎是全世界公定的国定假日，包括印尼/巴厘岛在内，通常在12/31的跨年庆祝达到高潮。印尼人在此时段会有一个~~自发性的~~「Nataru」假期，请看12月最下方的节庆介绍。
 - 1月27日的[Siwa Ratri西瓦拉特里日]是巴厘岛历书上的重要节庆之一，西瓦拉特里日强调内省、冥想和寻求宽恕。仪式包括36小时的不睡觉、24小时的断食和12小时的沉默。在此期间结束后，通常会在海滩进行净化仪式，同时在岛上的一些大型寺庙举行仪式。
@@ -83,11 +83,11 @@ _srcHash: cb80a43795c31876a49ddbc82741962e
 - 3月开头的这两天之中，占整个印尼将近九成的伊斯兰教信徒在这一天要开始进行为期一个月的斋戒啦！斋戒是什么？为什么要斋戒？关于斋戒月的Q & A请看小杰妈的讲解：[斋戒月的由来与斋戒月的意义｜斋戒月/开斋节 Q & A](https://youtu.be/15zXGMEE3Q8)
 - 3月14日是2025年的大斋节（Holi）是印度教的一个节日。大斋节是一个庆祝春天和爱的节日，也被称为颜色节。在这一天，人们会互相泼洒颜色粉末，并分享食物和甜点。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e262dc875b3d385b0a30b0bbc2488dff.jpg)
+![29 日: 巴厘岛静居日 & 印度教新年 (Nyepi) (印尼国定假日)](https://images.gobaligo.id/vocus/vocus_e262dc875b3d385b0a30b0bbc2488dff.jpg)
 
 - 3/26 亲亲节「Omed Omedan」，这是巴厘岛最令人兴奋的节日之一。在这一天，大批未婚年轻人聚集在一起，参加大规模的接吻活动。在活动中男女两组人站在对面，然后开始拥抱和亲吻。旁观者为他们加油时，会向他们泼水。这项活动欢迎外国游客观看。但是应该避免参与其中。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6b252b2d57e214e8d6f81ceac66a1617.png)
+![29 日: 巴厘岛静居日 & 印度教新年 (Nyepi) (印尼国定假日)](https://images.gobaligo.id/vocus/vocus_6b252b2d57e214e8d6f81ceac66a1617.png)
 
 - 3/28 巴厘岛妖怪大游行，超特殊的体验！请看小杰的介绍，有机会可以前来体会一下喔：
 
@@ -119,7 +119,7 @@ _srcHash: cb80a43795c31876a49ddbc82741962e
 - 4/18 是基督教的节日，根据印尼建国五原则五大宗教平等，基督教的大节日也是印尼的国定假日。
 - 4/23日开始的 Galungan & Kuningan（卡隆安节与古宁安节），这是巴厘岛最重要的节日之一，4/23 卡隆安节一直持续到10天后的古宁安节，庆祝宇宙的创造和善良战胜邪恶。 在这个节日中，高耸的penjor装饰为街道带来充满活力的氛围，同时丰富的供品、仪式和庆典让您得以一窥这座岛屿丰富的文化和灵性面貌。人们会在家中供奉祖先，祈求他们的保佑，同时也会在寺庙中举行仪式，表达对神灵的敬意。 Galungan这一天根据巴厘岛的Pawukon日历，也是宇宙的创造日。在此期间，巴厘岛的学校停课两周，其受重视的程度可见一斑！需注意的是船班/包车/出租车等交通运输都会受到影响！许多当地导游和司机会在主要庆典期间休假几天，所以最好提前预订。Galungan节隔天（Manis Galungan）是当地人探访亲友或一同出游的日子，所以您可能会发现这天路上特别拥挤。大型庆典也可能造成道路拥塞。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_915edf5929d8760c256d49e2bd7cc6c4.png)
+![23 日： Galungan & Kuningan(巴厘岛印度教节庆)](https://images.gobaligo.id/vocus/vocus_915edf5929d8760c256d49e2bd7cc6c4.png)
 
 ## 五月
 
@@ -213,7 +213,7 @@ _srcHash: cb80a43795c31876a49ddbc82741962e
 
 - 8/1~2: [乌布村庄爵士音乐节](https://ubudvillagejazzfestival.com/)（Ubud Village Jazz Festival，简称UVJF）是亚洲最重要的爵士音乐盛事之一！这场音乐节已成为巴厘岛文化中心的标志性活动，每年吸引来自世界各地的爵士乐爱好者。2025年的UVJF将于8月1日和2日在乌布的STHALA UBUD举行，为乐迷带来两晚难忘的音乐体验。UVJF 2025被印尼旅游与创意经济部评选为年度十大国家级活动之一，展现其影响力与重要性。音乐节并汇聚了来自世界各地的顶尖爵士音乐家，并获得各国大使馆的支持，成为国际文化交流的重要平台。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b4d696ee672b4996982a4b26101af9ef.png)
+![27 日: 象神诞辰 (Ganesh Chaturthi) (巴厘岛印度教节庆)](https://images.gobaligo.id/vocus/vocus_b4d696ee672b4996982a4b26101af9ef.png)
 
 - 8/17: 印尼独立日也就是印尼的国庆日，于每年的 8 月 17 日庆祝。在这一天，印度尼西亚人民会举行各种庆祝活动，包括趣味比赛、游行、音乐会和烟火表演等。
 
@@ -261,7 +261,7 @@ Bali Carnival 巴厘岛嘉年华
 
 ### 19日：Galungan & Kuningan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b0e3cc8c2f397f61aa33ecbc19333ca.jpg)
+![19日：Galungan & Kuningan](https://images.gobaligo.id/vocus/vocus_0b0e3cc8c2f397f61aa33ecbc19333ca.jpg)
 
 19日开始的 Galungan & Kuningan（卡隆安节与古宁安节），这是2025年的第二次卡隆安节与古宁安节，同时也巴厘岛最重要的节日之一，11/19 卡隆安节一直持续到10天后的古宁安节，庆祝宇宙的创造和善良战胜邪恶。
 
@@ -335,7 +335,7 @@ Bali Carnival 巴厘岛嘉年华
 
 📩 **立即加入「巴厘岛旅游攻略」博客，成为巴厘岛旅游达人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![注册加入我们的博客](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **通过免费订阅，你将获得：**
 

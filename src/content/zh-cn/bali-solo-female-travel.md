@@ -21,7 +21,7 @@ _srcHash: eee75c5a05bdbb49f1c996b0794fed87
 
 取之于社团想来回馈一下，三月份我独自前往巴厘岛旅行了8天。由于网络上比较少看到女子独旅巴厘岛的相关信息，这次特别来与大家分享一下我的独旅行程与心得。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6152213cb48cec104b8463302a71617d.jpg)
+![独自闯荡巴厘岛8天 - 女子独旅体验分享](https://images.gobaligo.id/vocus/vocus_6152213cb48cec104b8463302a71617d.jpg)
 
 其实在巴厘岛可以看到不少外国女生也是一个人在旅行，根据我的体验，只要保持一些基本的防范意识，像是不要随意上陌生人的车、避免与路边恶意骚扰女性的人对视交谈，大多数当地人其实都是热情友善且很安全的。
 
@@ -41,11 +41,11 @@ https://youtu.be/UoGlRyAdyB8?si=zU9O679PYB4OFz3U
 
 10:30 AM - 4:30 PM: One Eighty。这里设施丰富，风景美丽，餐食有水准，推荐买 VIP 待 6 小时。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775484439544-099a1c07-c28f-46a0-b084-620c9d8be763.jpg)
+![3月18日 星期日](https://images.gobaligo.id/images/2026-04/1775484439544-099a1c07-c28f-46a0-b084-620c9d8be763.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775484441733-94010308-3b40-4dff-aaf2-bde805a776a2.jpg)
+![3月18日 星期日](https://images.gobaligo.id/images/2026-04/1775484441733-94010308-3b40-4dff-aaf2-bde805a776a2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775484443433-d2afa4e9-95d6-4542-b6ba-b0fd80619d3a.jpg)
+![3月18日 星期日](https://images.gobaligo.id/images/2026-04/1775484443433-d2afa4e9-95d6-4542-b6ba-b0fd80619d3a.jpg)
 
 > 延伸阅读: [探索Oneeighty Day Club：巴厘岛悬崖边的游泳池极致美景](/blog/oneeighty-dayclub-uluwatu-pool/)
 
@@ -67,33 +67,33 @@ https://youtu.be/hQbBTktqEqY
 
 **6:00 PM**: 在 Kagemusha 日式餐厅用餐。餐食美味环境优美。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485583127-resize.jpeg)
+![3月19日 星期一](https://images.gobaligo.id/images/2026-04/1775485583127-resize.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485583692-resize_1_.jpeg)
+![3月19日 星期一](https://images.gobaligo.id/images/2026-04/1775485583692-resize_1_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485584078-resize_2_.jpeg)
+![3月19日 星期一](https://images.gobaligo.id/images/2026-04/1775485584078-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485584497-resize_3_.jpeg)
+![3月19日 星期一](https://images.gobaligo.id/images/2026-04/1775485584497-resize_3_.jpeg)
 
 ## **3月20日 星期二**
 
 **09:00** 开始一天的行程，先到 Abian Desa 梯田游览，欣赏美景。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485447749-resize_1_.jpeg)
+![3月20日 星期二](https://images.gobaligo.id/images/2026-04/1775485447749-resize_1_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485448308-resize_2_.jpeg)
+![3月20日 星期二](https://images.gobaligo.id/images/2026-04/1775485448308-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485448712-resize_3_.jpeg)
+![3月20日 星期二](https://images.gobaligo.id/images/2026-04/1775485448712-resize_3_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485449072-resize_4_.jpeg)
+![3月20日 星期二](https://images.gobaligo.id/images/2026-04/1775485449072-resize_4_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485449875-resize.jpeg)
+![3月20日 星期二](https://images.gobaligo.id/images/2026-04/1775485449875-resize.jpeg)
 
 **11:00** 到 Tis Cafe 用餐，这家餐厅梦幻可爱。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485639513-resize.jpeg)
+![3月20日 星期二](https://images.gobaligo.id/images/2026-04/1775485639513-resize.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485639925-resize_1_.jpeg)
+![3月20日 星期二](https://images.gobaligo.id/images/2026-04/1775485639925-resize_1_.jpeg)
 
 **下午** 在乌布市集和皇宫逛街。
 
@@ -107,9 +107,9 @@ https://youtu.be/JtxZHtijEkE
 
 **08:00** 前往 KantoLampo 瀑布景点拍照游览。请专人帮忙拍照服务一次约 USD$3。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485795059-resize_2_.jpeg)
+![3月21日 星期三](https://images.gobaligo.id/images/2026-04/1775485795059-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485795494-resize.jpeg)
+![3月21日 星期三](https://images.gobaligo.id/images/2026-04/1775485795494-resize.jpeg)
 
 > 延伸阅读: [巴厘岛瀑布美照怎么能错过这里？Kanto Lampo Waterfall](/blog/kanto-lampo-waterfall-ig-spot/)
 
@@ -119,13 +119,13 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 **下午** 到 Saba Beach 海滩，这是个岸上的垃圾有点多、不太热门的沙滩。但近海处没垃圾，拍照很美。日照强烈无遮蔽，建议 4:00 PM - 6:30 PM 停留。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485835808-resize_1_.jpeg)
+![3月21日 星期三](https://images.gobaligo.id/images/2026-04/1775485835808-resize_1_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485836239-resize_2_.jpeg)
+![3月21日 星期三](https://images.gobaligo.id/images/2026-04/1775485836239-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485836641-resize_3_.jpeg)
+![3月21日 星期三](https://images.gobaligo.id/images/2026-04/1775485836641-resize_3_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485837035-resize.jpeg)
+![3月21日 星期三](https://images.gobaligo.id/images/2026-04/1775485837035-resize.jpeg)
 
 **晚餐** 在 SHOOQ 餐厅用餐。推荐沙威玛，所有酱料分开放，可自行依喜好添加。
 
@@ -154,19 +154,19 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 **14:00-17:00** 前往Kelingking Beach,这是佩尼达岛上最知名的景点。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485905937-resize_4_.jpeg)
+![3月22日 星期四](https://images.gobaligo.id/images/2026-04/1775485905937-resize_4_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485908837-resize_5_.jpeg)
+![3月22日 星期四](https://images.gobaligo.id/images/2026-04/1775485908837-resize_5_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485909163-resize_6_.jpeg)
+![3月22日 星期四](https://images.gobaligo.id/images/2026-04/1775485909163-resize_6_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485909990-resize.jpeg)
+![3月22日 星期四](https://images.gobaligo.id/images/2026-04/1775485909990-resize.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485910386-resize_1_.jpeg)
+![3月22日 星期四](https://images.gobaligo.id/images/2026-04/1775485910386-resize_1_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485910891-resize_2_.jpeg)
+![3月22日 星期四](https://images.gobaligo.id/images/2026-04/1775485910891-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485916831-resize_3_.jpeg)
+![3月22日 星期四](https://images.gobaligo.id/images/2026-04/1775485916831-resize_3_.jpeg)
 
 > 延伸阅读: [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)
 
@@ -176,21 +176,21 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 **18:00** 到Penida Colada Beach Bar喝点饮料
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485969886-resize_6_.jpeg)
+![3月22日 星期四](https://images.gobaligo.id/images/2026-04/1775485969886-resize_6_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485985948-resize_7_.jpeg)
+![3月22日 星期四](https://images.gobaligo.id/images/2026-04/1775485985948-resize_7_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485986764-resize.jpeg)
+![3月22日 星期四](https://images.gobaligo.id/images/2026-04/1775485986764-resize.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485989491-resize_1_.jpeg)
+![3月22日 星期四](https://images.gobaligo.id/images/2026-04/1775485989491-resize_1_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485989875-resize_2_.jpeg)
+![3月22日 星期四](https://images.gobaligo.id/images/2026-04/1775485989875-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485990295-resize_3_.jpeg)
+![3月22日 星期四](https://images.gobaligo.id/images/2026-04/1775485990295-resize_3_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485990765-resize_4_.jpeg)
+![3月22日 星期四](https://images.gobaligo.id/images/2026-04/1775485990765-resize_4_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775485991344-resize_5_.jpeg)
+![3月22日 星期四](https://images.gobaligo.id/images/2026-04/1775485991344-resize_5_.jpeg)
 
 **20:00** 回民宿休息
 
@@ -198,27 +198,27 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 **05:00** 一早起床前往树屋景点等待日出
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486048013-resize_1_.jpeg)
+![3月23日 星期五](https://images.gobaligo.id/images/2026-04/1775486048013-resize_1_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486048494-resize_8_.jpeg)
+![3月23日 星期五](https://images.gobaligo.id/images/2026-04/1775486048494-resize_8_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486049511-resize.jpeg)
+![3月23日 星期五](https://images.gobaligo.id/images/2026-04/1775486049511-resize.jpeg)
 
 **日出后** 继续游览Diamond Beach梦幻钻石沙滩
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486089768-resize_2_.jpeg)
+![3月23日 星期五](https://images.gobaligo.id/images/2026-04/1775486089768-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486090201-resize_3_.jpeg)
+![3月23日 星期五](https://images.gobaligo.id/images/2026-04/1775486090201-resize_3_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486090638-resize_4_.jpeg)
+![3月23日 星期五](https://images.gobaligo.id/images/2026-04/1775486090638-resize_4_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486091038-resize_5_.jpeg)
+![3月23日 星期五](https://images.gobaligo.id/images/2026-04/1775486091038-resize_5_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486091502-resize_6_.jpeg)
+![3月23日 星期五](https://images.gobaligo.id/images/2026-04/1775486091502-resize_6_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486092014-resize.jpeg)
+![3月23日 星期五](https://images.gobaligo.id/images/2026-04/1775486092014-resize.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486092563-resize_1_.jpeg)
+![3月23日 星期五](https://images.gobaligo.id/images/2026-04/1775486092563-resize_1_.jpeg)
 
 **中午** 再访Penida Colada Beach Bar用餐
 
@@ -226,21 +226,21 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 **14:40** 叫车前往水明漾Le Cielo Villa住宿
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486145121-resize_7_.jpeg)
+![3月23日 星期五](https://images.gobaligo.id/images/2026-04/1775486145121-resize_7_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486149163-resize.jpeg)
+![3月23日 星期五](https://images.gobaligo.id/images/2026-04/1775486149163-resize.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486153064-resize_1_.jpeg)
+![3月23日 星期五](https://images.gobaligo.id/images/2026-04/1775486153064-resize_1_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486153481-resize_2_.jpeg)
+![3月23日 星期五](https://images.gobaligo.id/images/2026-04/1775486153481-resize_2_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486155798-resize_3_.jpeg)
+![3月23日 星期五](https://images.gobaligo.id/images/2026-04/1775486155798-resize_3_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486156672-resize_4_.jpeg)
+![3月23日 星期五](https://images.gobaligo.id/images/2026-04/1775486156672-resize_4_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486157120-resize_5_.jpeg)
+![3月23日 星期五](https://images.gobaligo.id/images/2026-04/1775486157120-resize_5_.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775486157534-resize_6_.jpeg)
+![3月23日 星期五](https://images.gobaligo.id/images/2026-04/1775486157534-resize_6_.jpeg)
 
 ![訂房優惠請按我](https://images.gobaligo.id/vocus/vocus_f7010c765684fab833955dda6b4e5836.jpg)
 

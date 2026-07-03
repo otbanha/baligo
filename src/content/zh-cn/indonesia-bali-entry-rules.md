@@ -22,7 +22,7 @@ _srcHash: 8ab6992376c46c058a03452ff1542d60
 根据最新航空法规：
 从 2023 年 6 月 9 日起，根据SE 工作组 COVID-19 2023 年第 1 号 ：**入境印尼或巴厘岛时不再需要提供 COVID-19 疫苗接种证明或任何 COVID-19 检测结果**。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1be8b2445ff165a0588e10ac1ae9ad1e.jpg)
+![搭乘飞机入境印尼/巴厘岛最新疫苗规定/入境规定 （六月九日更新）](https://images.gobaligo.id/vocus/vocus_1be8b2445ff165a0588e10ac1ae9ad1e.jpg)
 
 # 国际旅客允许入境印尼的类别
 

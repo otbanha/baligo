@@ -24,7 +24,7 @@ _srcHash: 5dd25d9293c0f64c8fd552db4b4a77fe
 
 ## **SAKA Museum Wins Prix Versailles International Architecture Award**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8076762ae5af260562c2e8e6cfde5c76.jpg)
+![SAKA Museum Wins Prix Versailles International Architecture ](https://images.gobaligo.id/vocus/vocus_8076762ae5af260562c2e8e6cfde5c76.jpg)
 
 In 2025, the SAKA Museum located in Jimbaran, Bali, was named one of the world's most beautiful museums, becoming the only Indonesian museum to make the list. This honor was awarded by the French organization **Prix Versailles**, which annually recognizes the world's most architecturally impressive, culturally significant, and sustainable buildings.
 
@@ -42,7 +42,7 @@ Museum Director Dr. Judith E. Bosnak stated, "This award proves that Balinese cu
 
 Since its opening in 2024, the SAKA Museum has garnered significant attention. **TIME Magazine** included it in its list of "World’s Greatest Places," while the **Kyoto Global Design Awards** praised its innovative and sustainable architectural concepts.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_68d01b67a39659e0d695d4520b6645f2.jpg)
+![Highlights of the SAKA Museum](https://images.gobaligo.id/vocus/vocus_68d01b67a39659e0d695d4520b6645f2.jpg)
 
 ### **Location and Environment**
 
@@ -53,7 +53,7 @@ SAKA is located within the renowned **AYANA Resort Bali**, nestled between the c
 - **"Kasanga: Nyepi Special Exhibition"**
   This interactive display showcases the essence of Bali's most sacred holiday, "Nyepi," including its rituals, purification ceremonies, and the nighttime Ogoh-Ogoh parade.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e66e535983024aa2553685842fc80922.jpg)
+![Cultural Exhibitions](https://images.gobaligo.id/vocus/vocus_e66e535983024aa2553685842fc80922.jpg)
 
 - **"Subak: Bali's Ancient Water System"**
   This exhibition introduces the Subak irrigation system, a UNESCO World Heritage site, revealing the symbiotic relationship between rice fields, temples, and communities.
@@ -72,7 +72,7 @@ Beyond its exhibition halls, SAKA Museum features a theater, library, meeting sp
 - Ticket Prices: Adults $20, Children $10
 - Guests of AYANA Resort enjoy free admission, while other visitors can check the official website for special offers.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_29ce3f0028d7e4ba68a537611585a10f.jpg)
+![Ticket Prices and Opening Hours](https://images.gobaligo.id/vocus/vocus_29ce3f0028d7e4ba68a537611585a10f.jpg)
 
 **Quick Reference:**
 
@@ -96,7 +96,7 @@ Currently, the museum primarily offers English and Indonesian guides, but some e
 
 Absolutely! The interactive exhibitions make learning fun and engaging for children.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0edcd294343232378ae08cd9028fd507.jpg)
+![Is the museum suitable for children?](https://images.gobaligo.id/vocus/vocus_0edcd294343232378ae08cd9028fd507.jpg)
 
 ### Can I purchase souvenirs at the museum?
 

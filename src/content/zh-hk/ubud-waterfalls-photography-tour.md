@@ -20,7 +20,7 @@ _srcHash: d9a16fe8a42077ecf9881ee87a62ec22
 ---
 喺峇里島嘅前幾日，我哋入住咗「峇里島喜來登庫塔渡假村」（Sheraton Bali Kuta Resort），呢個地點實在太完美喇！落樓隔離就係超好行嘅Beachwalk Shopping Center，各種品牌店鋪同餐廳應有盡有，等我哋行到唔捨得走。更正嘅係，由酒店過條馬路就可以即刻到達庫塔海灘，我哋每日都喺度學滑浪，感受印度洋浪花嘅刺激。傍晚時分就由濱海嘅泳池欣賞到絕美嘅夕陽。入夜後漫步喺熱鬧嘅街道上，品嚐各式各樣嘅當地美食同國際料理。庫塔嘅夜生活等我哋體驗到峇里島年輕、充滿活力嘅一面。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e1717a9a6a869486f410bf4911f00e0.jpg)
+![峇里島專業攝影師/空拍隨行一日遊 - 烏布與瀑布之旅](https://images.gobaligo.id/vocus/vocus_4e1717a9a6a869486f410bf4911f00e0.jpg)
 
 ## 出發前嘅準備
 
@@ -28,7 +28,7 @@ _srcHash: d9a16fe8a42077ecf9881ee87a62ec22
 
 喺出發前一日，我哋收到攝影師兼導遊Udin透過WhatsApp發嚟嘅確認訊息，詳細講咗接送時間同地點。由於今次選擇嘅係峇里島專業攝影師隨行一日遊，行程包括相機同空拍機拍攝服務，等我哋對即將到嚟嘅旅程充滿期待。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_25c77ae3894da2cae177666ebed9781f.jpg)
+![出發前嘅準備](https://images.gobaligo.id/vocus/vocus_25c77ae3894da2cae177666ebed9781f.jpg)
 
 想了解更多庫塔攻略？[請點擊這裡](/blog/2023-12-13-657598bdfd8978000120fe20/)
 
@@ -49,7 +49,7 @@ _srcHash: d9a16fe8a42077ecf9881ee87a62ec22
 
 抵達烏布聖猴森林後，攝影師幫我哋買咗景點門票，呢個都包埋喺套餐服務入面。踏入呢片神聖嘅森林，我哋即刻俾茂密嘅原始森林同古老嘅石雕震撼到。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc3f496a03ce0af43e1dac90c9f6bda4.jpg)
+![第一站：烏布聖猴森林保護區](https://images.gobaligo.id/vocus/vocus_cc3f496a03ce0af43e1dac90c9f6bda4.jpg)
 
 喺呢度，調皮嘅猴子成為咗我哋相片中嘅最佳配角。攝影師熟練地運用專業相機捕捉我哋同猴子互動嘅珍貴瞬間。古老嘅廟宇建築喺綠蔭嘅環繞下顯得格外神秘，每一個角度都成為完美嘅拍攝背景。我哋喺呢度留咗差唔多一個鐘。
 
@@ -57,9 +57,9 @@ _srcHash: d9a16fe8a42077ecf9881ee87a62ec22
 
 離開猴子森林後，我哋嚟到咗著名嘅德哥拉朗梯田。攝影師同樣幫我哋處理咗景點門票，令我哋可以無憂無慮咁享受呢片綠色奇蹟。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c9715ea0e3f5452bc5324c6403d129ca.jpg)
+![第二站：德哥拉朗梯田](https://images.gobaligo.id/vocus/vocus_c9715ea0e3f5452bc5324c6403d129ca.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0a56ec0011c1598693f0ffae9cb5a748.jpg)
+![第二站：德哥拉朗梯田](https://images.gobaligo.id/vocus/vocus_0a56ec0011c1598693f0ffae9cb5a748.jpg)
 
 企喺觀景台上，層層疊疊嘅稻田好似綠色嘅階梯延伸到天際，呢個景象令我哋讚嘆不已。攝影師運用空拍機嘅優勢，從各個高度同角度記錄低梯田嘅壯麗全貌。我哋亦喺梯田間漫步，等攝影師捕捉我哋沉浸喺呢個自然美景中嘅自然表情。
 
@@ -73,13 +73,13 @@ _srcHash: d9a16fe8a42077ecf9881ee87a62ec22
 
 呢度離烏布有啲距離，正因為咁，可以享受人少景靚嘅悠閒感覺。喺車上瞌咗一陣，我哋就到咗停車場。我哋嘅行程包晒所有景點嘅門票，所以我哋只要跟住 Udin 行就得。沿住小徑穿過茂密嘅熱帶雨林，瀑布嘅聲愈來愈清晰。蒂布馬納瀑布好似銀絲從天而降，灑落喺碧綠嘅潭水度。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0f90bb6512bf564843f7ec10f5422a89.jpg)
+![第三站：蒂布馬納瀑布](https://images.gobaligo.id/vocus/vocus_0f90bb6512bf564843f7ec10f5422a89.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc0b6e8b9a4393a670407aa8edbc6aeb.jpg)
+![第三站：蒂布馬納瀑布](https://images.gobaligo.id/vocus/vocus_cc0b6e8b9a4393a670407aa8edbc6aeb.jpg)
 
 喺呢度，攝影師充分發揮咗空拍機嘅優勢，從上面影晒瀑布嘅全貌，同時又用相機記錄低我哋喺瀑布前面嘅各種姿勢。清澈嘅池水倒映住我哋開心嘅笑容，每一張相都充滿咗生動嘅能量。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e4e3b5818941b29c25a2d591ec46a08d.jpg)
+![第三站：蒂布馬納瀑布](https://images.gobaligo.id/vocus/vocus_e4e3b5818941b29c25a2d591ec46a08d.jpg)
 
 想了解更多烏布攻略？[請點擊呢度](/blog/ubud-guide/)
 

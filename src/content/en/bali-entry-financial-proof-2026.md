@@ -17,7 +17,7 @@ _srcHash: 9649e924980e051716eb99788bc03c2b
 ---
 In summary: This new policy is not about conducting a 'census' of all travelers at customs, but rather formalizing and digitizing immigration officers' existing verification powers. The goal is to accurately select quality tourists while cracking down on illegal work.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1316fab9941800e7f0a4551426ccb6e.png)
+![Strict Implementation of Bali Entry Financial Proof Requirem](https://images.gobaligo.id/vocus/vocus_a1316fab9941800e7f0a4551426ccb6e.png)
 
 Analysis of Bali's 'High-Quality Tourism' Policy for 2026: New Financial Proof and Itinerary Verification System Starting March
 
@@ -61,7 +61,7 @@ Policy target group: This policy mainly aims to deter low-budget long-term trave
 
 ## 📋 Essential Documents for Bali Entry Starting March 2026
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_164e1666147c790e2ecfa35259c44293.png)
+![Essential Documents for Bali Entry Starting March 2026](https://images.gobaligo.id/vocus/vocus_164e1666147c790e2ecfa35259c44293.png)
 
 ### Core Documents
 

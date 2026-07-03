@@ -17,8 +17,8 @@ lang: en
 _srcHash: a2a439269ef3be36c353762f90778acf
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_95d91a1539287683737d3e0a04d1e1c8.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_b4fa1582dee57d138f6c28b896f04869.jpg)
+![【Ijen Volcano + Bali】Dreamy Blue Flames + Tumpak Sewu Waterf](https://images.gobaligo.id/vocus/vocus_95d91a1539287683737d3e0a04d1e1c8.jpg)
+![【Ijen Volcano + Bali】Dreamy Blue Flames + Tumpak Sewu Waterf](https://images.gobaligo.id/vocus/vocus_b4fa1582dee57d138f6c28b896f04869.jpg)
 
 ## ✨ Highlights
 
@@ -28,12 +28,12 @@ _srcHash: a2a439269ef3be36c353762f90778acf
 - **Magical Experience**: Swim with wild dolphins along Lovina coast
 - **Pure Play Guarantee**: No hidden fees or shopping stops, VIP private transfers throughout
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775404200123-5-5.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1775404200628-006376400_1707282570-ijen.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1775404201229-bromo-sunrise_800x533-jpg.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1775404201631-486356507_2592775824255286_8287552600759979543_n.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1775404202357-67.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1775404202716-tumpak-sewu-best-waterfall-indonesia-java-foot-1920x1281.jpg)
+![Highlights](https://images.gobaligo.id/images/2026-04/1775404200123-5-5.jpg)
+![Highlights](https://images.gobaligo.id/images/2026-04/1775404200628-006376400_1707282570-ijen.jpeg)
+![Highlights](https://images.gobaligo.id/images/2026-04/1775404201229-bromo-sunrise_800x533-jpg.jpeg)
+![Highlights](https://images.gobaligo.id/images/2026-04/1775404201631-486356507_2592775824255286_8287552600759979543_n.jpg)
+![Highlights](https://images.gobaligo.id/images/2026-04/1775404202357-67.jpg)
+![Highlights](https://images.gobaligo.id/images/2026-04/1775404202716-tumpak-sewu-best-waterfall-indonesia-java-foot-1920x1281.jpg)
 
 ***
 

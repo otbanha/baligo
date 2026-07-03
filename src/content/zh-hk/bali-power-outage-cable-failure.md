@@ -24,7 +24,7 @@ _srcHash: 00edf4a720b1e6d266e4095de16e85e1
 
 2025年5月2號下晝4點，峇里島突然發生停電事件，導致全島幾乎陷入無電狀態。今次大停電對當地民生、交通同旅遊業造成重大影響。PT PLN（印尼國家電力公司）迅速展開修復行動，並持續更新供電情況。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_da277efc556c6ee025a7bfedbf8bd7e8.jpg)
+![峇里島突發大停電，全島陷入黑暗](https://images.gobaligo.id/vocus/vocus_da277efc556c6ee025a7bfedbf8bd7e8.jpg)
 
 ---
 

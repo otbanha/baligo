@@ -27,7 +27,7 @@ _srcHash: c0142a43ae4a99aa0990567724888d6d
 
 峇里島烏布出名嘅**聖猴森林（Monkey Forest）**，因為發生咗一單令人心痛嘅悲劇，而家已經無限期關閉。呢個以自然美景同埋頑皮猴群聞名嘅景點，而家變得異常冷清。呢件事唔單止引發咗各界對旅遊安全嘅關注，亦都逼使管理方加快檢視安全措施，確保遊客將來嘅安全。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fbf73a2a2f0e51c20cfab84446f04bd0.jpg)
+![烏布聖猴森林無限期關閉：遊客悲劇引發安全關注](https://images.gobaligo.id/vocus/vocus_fbf73a2a2f0e51c20cfab84446f04bd0.jpg)
 
 ## 悲劇事件：大樹倒塌釀災
 
@@ -43,7 +43,7 @@ _srcHash: c0142a43ae4a99aa0990567724888d6d
 
 根據森林管理方嘅講法，今次意外主要係由突發嘅極端天氣所引發，而唔係管理疏忽。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_031cecfcd75e3044c50ff48bad7d4012.jpg)
+![官方聲明：樹木健康但風暴難以預防](https://images.gobaligo.id/vocus/vocus_031cecfcd75e3044c50ff48bad7d4012.jpg)
 
 ## 安撫受害者家屬：保險賠償及善後安排
 
@@ -88,7 +88,7 @@ _srcHash: c0142a43ae4a99aa0990567724888d6d
 
 旅客喺計劃前往峇里島時，特別係喺雨季期間，務必注意當地嘅天氣警報，並選擇合適嘅時間參觀各大景點。相信喺管理方嘅努力下，聖猴森林將會以更安全、更完善嘅面貌重新迎接遊客。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_40badc67ca4389e98047c26489ef7ac6.jpg)
+![結語：聖猴森林嘅未來展望](https://images.gobaligo.id/vocus/vocus_40badc67ca4389e98047c26489ef7ac6.jpg)
 
 **小提醒**：若您近期計劃前往峇里島，請密切關注天氣動態同景點最新公告，安全旅遊最重要！
 

@@ -56,25 +56,25 @@ The following 10 hotels are all located in the heart of Kuta—near Kartika Plaz
 
 This is Kuta's best-kept secret and most surprising city-center hotel. Tucked away in a small lane off Jl. Kartika Plaza, it's a world apart from the bustling streets outside. Designed by renowned architect Martin Grounds (creator of Four Seasons Jimbaran and St. Regis Bali) in collaboration with Balinese artists, the hotel features fascinating art installations throughout.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171281889-49112982.jpg)
+![Amnaya Resort Kuta](https://images.gobaligo.id/images/2026-04/1777171281889-49112982.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171282327-115642639.jpg)
+![Amnaya Resort Kuta](https://images.gobaligo.id/images/2026-04/1777171282327-115642639.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171282833-115681714.jpg)
+![Amnaya Resort Kuta](https://images.gobaligo.id/images/2026-04/1777171282833-115681714.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171283257-116841359.jpg)
+![Amnaya Resort Kuta](https://images.gobaligo.id/images/2026-04/1777171283257-116841359.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171283677-120634515.jpg)
+![Amnaya Resort Kuta](https://images.gobaligo.id/images/2026-04/1777171283677-120634515.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171284166-195261402.jpg)
+![Amnaya Resort Kuta](https://images.gobaligo.id/images/2026-04/1777171284166-195261402.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171284751-195261448.jpg)
+![Amnaya Resort Kuta](https://images.gobaligo.id/images/2026-04/1777171284751-195261448.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171285213-195404224.jpg)
+![Amnaya Resort Kuta](https://images.gobaligo.id/images/2026-04/1777171285213-195404224.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171285702-195404320.jpg)
+![Amnaya Resort Kuta](https://images.gobaligo.id/images/2026-04/1777171285702-195404320.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171286517-574173017.jpg)
+![Amnaya Resort Kuta](https://images.gobaligo.id/images/2026-04/1777171286517-574173017.jpg)
 
 📍 **Location**: Jl. Kartika Plaza Gang Puspa Ayu No. 99, within walking distance to Discovery Mall and Tuban Beach, with Waterbom Park just around the corner. The airport is approximately 5 km away. The phrase 'quiet amidst the hustle and bustle' truly applies here.
 
@@ -92,25 +92,25 @@ This is Kuta's best-kept secret and most surprising city-center hotel. Tucked aw
 
 Another boutique hotel tucked away in the Kartika Plaza area, Alaya Dedaun Kuta offers a more natural, tropical jungle vibe compared to Amnaya. Its DaLa Spa is well-regarded in the area, making it ideal for travelers prioritizing relaxation.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171421985-e799b43ff2dfc8856ac079003f9f024c.webp)
+![Alaya Dedaun Kuta](https://images.gobaligo.id/images/2026-04/1777171421985-e799b43ff2dfc8856ac079003f9f024c.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171422508-e979c2cd2bfe438da5ab05eee865d3a4.webp)
+![Alaya Dedaun Kuta](https://images.gobaligo.id/images/2026-04/1777171422508-e979c2cd2bfe438da5ab05eee865d3a4.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171422968-ec5ba32d46eeda92ddaf111c053b83b1.webp)
+![Alaya Dedaun Kuta](https://images.gobaligo.id/images/2026-04/1777171422968-ec5ba32d46eeda92ddaf111c053b83b1.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171423383-3bb748a9e2f529646a4ca6e2836fecd8.webp)
+![Alaya Dedaun Kuta](https://images.gobaligo.id/images/2026-04/1777171423383-3bb748a9e2f529646a4ca6e2836fecd8.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171423836-6a3aad528190a36d60b5183007e74ef5.webp)
+![Alaya Dedaun Kuta](https://images.gobaligo.id/images/2026-04/1777171423836-6a3aad528190a36d60b5183007e74ef5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171424358-71986_17012613450050581179.webp)
+![Alaya Dedaun Kuta](https://images.gobaligo.id/images/2026-04/1777171424358-71986_17012613450050581179.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171424863-36918584.jpg)
+![Alaya Dedaun Kuta](https://images.gobaligo.id/images/2026-04/1777171424863-36918584.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171425279-760793236.jpg)
+![Alaya Dedaun Kuta](https://images.gobaligo.id/images/2026-04/1777171425279-760793236.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171425696-760947106.jpg)
+![Alaya Dedaun Kuta](https://images.gobaligo.id/images/2026-04/1777171425696-760947106.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171426191-b81f8e5ceb970b3bba126badb2092533.webp)
+![Alaya Dedaun Kuta](https://images.gobaligo.id/images/2026-04/1777171426191-b81f8e5ceb970b3bba126badb2092533.webp)
 
 📍 **Location**: Located along Jl. Kartika Plaza, within walking distance to Discovery Mall and Waterbom Park, with the beach about a 10-15 minute walk away. The hotel remains within the Kuta area, with bars and restaurants conveniently located nearby. Location score: 9.4
 
@@ -128,25 +128,25 @@ Another boutique hotel tucked away in the Kartika Plaza area, Alaya Dedaun Kuta 
 
 A four-star brand under Marriott, offering Marriott's service quality at an affordable price. Four Points is globally renowned for its Best Brews craft beer program, which is also a feature in Bali, adding a relaxed social atmosphere.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171533371-907662_16083109570045947630.webp)
+![Four Points by Sheraton Bali Kuta](https://images.gobaligo.id/images/2026-04/1777171533371-907662_16083109570045947630.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171533782-463637322.jpg)
+![Four Points by Sheraton Bali Kuta](https://images.gobaligo.id/images/2026-04/1777171533782-463637322.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171534364-a6151fd9d95d2c135e5489eaa54611e5.webp)
+![Four Points by Sheraton Bali Kuta](https://images.gobaligo.id/images/2026-04/1777171534364-a6151fd9d95d2c135e5489eaa54611e5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171534833-c7bdab2c3e1d0aeae3af8f0169bcbc9b.webp)
+![Four Points by Sheraton Bali Kuta](https://images.gobaligo.id/images/2026-04/1777171534833-c7bdab2c3e1d0aeae3af8f0169bcbc9b.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171535276-f5778d2df50853e5f17ca522c92cc5ae.webp)
+![Four Points by Sheraton Bali Kuta](https://images.gobaligo.id/images/2026-04/1777171535276-f5778d2df50853e5f17ca522c92cc5ae.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171535669-0e5cb2ae432e87c38aa9576f19905b3d.webp)
+![Four Points by Sheraton Bali Kuta](https://images.gobaligo.id/images/2026-04/1777171535669-0e5cb2ae432e87c38aa9576f19905b3d.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171536008-62cc25ede05b2352d0dd748512add90f.webp)
+![Four Points by Sheraton Bali Kuta](https://images.gobaligo.id/images/2026-04/1777171536008-62cc25ede05b2352d0dd748512add90f.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171536473-94b119172ed56dfa2a49252d2f3ae34f.webp)
+![Four Points by Sheraton Bali Kuta](https://images.gobaligo.id/images/2026-04/1777171536473-94b119172ed56dfa2a49252d2f3ae34f.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171536862-1082aae0c8892c31af35b8b8bb18d75c.webp)
+![Four Points by Sheraton Bali Kuta](https://images.gobaligo.id/images/2026-04/1777171536862-1082aae0c8892c31af35b8b8bb18d75c.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171537413-907662_16083109570045947627.webp)
+![Four Points by Sheraton Bali Kuta](https://images.gobaligo.id/images/2026-04/1777171537413-907662_16083109570045947627.webp)
 
 📍 **Location**: Located in an alley in the center of Kuta, within walking distance to Kuta Square and Beachwalk shopping centers, and about a 5-10 minute walk to Kuta Beach.
 
@@ -164,25 +164,25 @@ A four-star brand under Marriott, offering Marriott's service quality at an affo
 
 One of the best boutique hotels in the Kartika Plaza area in terms of value for money, often leaving guests exclaiming, 'How can I stay here at this price?' With an Agoda rating of 9.0, it has a solid reputation in the area. It doesn’t need much promotion—repeat customers keep coming back.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171688441-92ac7a236afb823166029581e3f4542e.jpeg)
+![The Vira Bali Boutique Hotel & Suite](https://images.gobaligo.id/images/2026-04/1777171688441-92ac7a236afb823166029581e3f4542e.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171688909-92cc881f5c5d8162d3e20ba302a90015.jpeg)
+![The Vira Bali Boutique Hotel & Suite](https://images.gobaligo.id/images/2026-04/1777171688909-92cc881f5c5d8162d3e20ba302a90015.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171689286-1651ee6659d8864b74b81c2060c1ce30.jpeg)
+![The Vira Bali Boutique Hotel & Suite](https://images.gobaligo.id/images/2026-04/1777171689286-1651ee6659d8864b74b81c2060c1ce30.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171689770-141792786.jpg)
+![The Vira Bali Boutique Hotel & Suite](https://images.gobaligo.id/images/2026-04/1777171689770-141792786.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171690487-239860481.jpg)
+![The Vira Bali Boutique Hotel & Suite](https://images.gobaligo.id/images/2026-04/1777171690487-239860481.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171690911-239860488.jpg)
+![The Vira Bali Boutique Hotel & Suite](https://images.gobaligo.id/images/2026-04/1777171690911-239860488.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171691424-ae8738ab06b22a577a21079d18d30d6b.jpeg)
+![The Vira Bali Boutique Hotel & Suite](https://images.gobaligo.id/images/2026-04/1777171691424-ae8738ab06b22a577a21079d18d30d6b.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171691917-5f6e9c7c0d3fc8a4d10ad15b74ac78ca.jpeg)
+![The Vira Bali Boutique Hotel & Suite](https://images.gobaligo.id/images/2026-04/1777171691917-5f6e9c7c0d3fc8a4d10ad15b74ac78ca.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171692566-29aa537e3e2535b826762a3187c43ac8.jpeg)
+![The Vira Bali Boutique Hotel & Suite](https://images.gobaligo.id/images/2026-04/1777171692566-29aa537e3e2535b826762a3187c43ac8.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171693005-77ac71c0668340ca08fff167e84b6e5b.jpeg)
+![The Vira Bali Boutique Hotel & Suite](https://images.gobaligo.id/images/2026-04/1777171693005-77ac71c0668340ca08fff167e84b6e5b.jpeg)
 
 📍 **Location**: Jl. Kartika Plaza, 850 meters from Discovery Shopping Mall, within walking distance to Tuban Beach, and opposite Lippo Mall Kuta. Convenient for shopping and dining, and not far from the airport.
 
@@ -200,23 +200,23 @@ One of the best boutique hotels in the Kartika Plaza area in terms of value for 
 
 Formerly known as SOL by Meliá Kuta, recently renamed Kuta Beach Club Hotel, located on Jl. Bakungsari, about a 10-minute walk from Kuta Beach and connected to Kuta Point Shopping Mall. It’s a well-equipped, family-friendly mid-sized hotel in this commercial area.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172173501-208611559.jpg)
+![Kuta Beach Club Hotel](https://images.gobaligo.id/images/2026-04/1777172173501-208611559.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172173938-213758482.jpg)
+![Kuta Beach Club Hotel](https://images.gobaligo.id/images/2026-04/1777172173938-213758482.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172174843-321497157a643dad1e3bd2904eebfb83.webp)
+![Kuta Beach Club Hotel](https://images.gobaligo.id/images/2026-04/1777172174843-321497157a643dad1e3bd2904eebfb83.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172175264-b75bbfaf82c5072709ef80cd1fa8055d.webp)
+![Kuta Beach Club Hotel](https://images.gobaligo.id/images/2026-04/1777172175264-b75bbfaf82c5072709ef80cd1fa8055d.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172175672-c86ccb6cdc1e274eb744661fca61e6a3.webp)
+![Kuta Beach Club Hotel](https://images.gobaligo.id/images/2026-04/1777172175672-c86ccb6cdc1e274eb744661fca61e6a3.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172176070-c2238611e13fc4fcccc4f223c5f52909.webp)
+![Kuta Beach Club Hotel](https://images.gobaligo.id/images/2026-04/1777172176070-c2238611e13fc4fcccc4f223c5f52909.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172176580-ed63962e8ca47c38d2a496735cb233d8.webp)
+![Kuta Beach Club Hotel](https://images.gobaligo.id/images/2026-04/1777172176580-ed63962e8ca47c38d2a496735cb233d8.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172176990-5f41f47ce447447c9813c6005271dc5c.webp)
+![Kuta Beach Club Hotel](https://images.gobaligo.id/images/2026-04/1777172176990-5f41f47ce447447c9813c6005271dc5c.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172177717-863b59e3ecbdbfc1bada836755227f23.webp)
+![Kuta Beach Club Hotel](https://images.gobaligo.id/images/2026-04/1777172177717-863b59e3ecbdbfc1bada836755227f23.webp)
 
 📍 **Location**: Jl. Bakungsari No. 81, 900 meters from Waterbom Bali, a 15-minute walk to Discovery Shopping Mall, with Kuta Night Market nearby. The airport is about a 12-minute drive away. The name might mislead some into thinking it’s right on the beach.
 
@@ -234,23 +234,23 @@ Formerly known as SOL by Meliá Kuta, recently renamed Kuta Beach Club Hotel, lo
 
 A legendary boutique hotel on Poppies Lane 1, Poppies Bali has grown alongside Bali since the 1970s and is one of the most historically significant accommodations in Kuta. While not a five-star hotel with extensive facilities, stepping through its intricately carved wooden gate instantly transports you away from Kuta’s hustle and bustle—this is Poppies’ unique charm.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172268398-477f45fad14f672a97653be2c4605aed.webp)
+![Poppies Bali Hotel](https://images.gobaligo.id/images/2026-04/1777172268398-477f45fad14f672a97653be2c4605aed.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172268855-649c38ec88ea2ea3b20e38e40ead1f95.webp)
+![Poppies Bali Hotel](https://images.gobaligo.id/images/2026-04/1777172268855-649c38ec88ea2ea3b20e38e40ead1f95.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172269280-449801aa4f2762c25eac7bc29d213f37.webp)
+![Poppies Bali Hotel](https://images.gobaligo.id/images/2026-04/1777172269280-449801aa4f2762c25eac7bc29d213f37.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172269706-1991683_17031314020051509501.webp)
+![Poppies Bali Hotel](https://images.gobaligo.id/images/2026-04/1777172269706-1991683_17031314020051509501.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172270083-1991683_17031317050051515574.webp)
+![Poppies Bali Hotel](https://images.gobaligo.id/images/2026-04/1777172270083-1991683_17031317050051515574.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172270609-1991683_17031317050051515601.webp)
+![Poppies Bali Hotel](https://images.gobaligo.id/images/2026-04/1777172270609-1991683_17031317050051515601.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172271070-1991683_17031317090051515801.webp)
+![Poppies Bali Hotel](https://images.gobaligo.id/images/2026-04/1777172271070-1991683_17031317090051515801.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172271742-59668468.jpg)
+![Poppies Bali Hotel](https://images.gobaligo.id/images/2026-04/1777172271742-59668468.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172272189-aaf2fc0d52f310ad42e3b24ecd16f20b.webp)
+![Poppies Bali Hotel](https://images.gobaligo.id/images/2026-04/1777172272189-aaf2fc0d52f310ad42e3b24ecd16f20b.webp)
 
 📍 **Location**: Poppies Lane 1 No. 19, a 10-minute walk to Kuta Beach, 15 minutes to Beachwalk Shopping Center, and within walking distance of renowned restaurants and bars like Made’s Warung, Jalan Legian, and Sky Garden. Complimentary airport transfers are available.
 
@@ -268,25 +268,25 @@ A legendary boutique hotel on Poppies Lane 1, Poppies Bali has grown alongside B
 
 Part of the Marriott Fairfield brand, located in the Sunset Road commercial area (Kuta outer ring road), but only 20 minutes from the airport, connecting Kuta and Seminyak, making it the most convenient midpoint for travelers who enjoy exploring both areas.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172478588-d5fbcda6a0a7dc4d2cb6ad9763cc46b0.webp)
+![Fairfield by Marriott Bali Kuta Sunset Road](https://images.gobaligo.id/images/2026-04/1777172478588-d5fbcda6a0a7dc4d2cb6ad9763cc46b0.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172479009-0f77a54aa3acc0d51144bc0a55cec2a2.webp)
+![Fairfield by Marriott Bali Kuta Sunset Road](https://images.gobaligo.id/images/2026-04/1777172479009-0f77a54aa3acc0d51144bc0a55cec2a2.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172479604-1bc9ea1dd66965095818b0ca0c5598fd.webp)
+![Fairfield by Marriott Bali Kuta Sunset Road](https://images.gobaligo.id/images/2026-04/1777172479604-1bc9ea1dd66965095818b0ca0c5598fd.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172480120-3b44d99913e876dd5bb8283c2169105a.webp)
+![Fairfield by Marriott Bali Kuta Sunset Road](https://images.gobaligo.id/images/2026-04/1777172480120-3b44d99913e876dd5bb8283c2169105a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172480600-4d2d35c3cada254bab6eba3225cbf182.webp)
+![Fairfield by Marriott Bali Kuta Sunset Road](https://images.gobaligo.id/images/2026-04/1777172480600-4d2d35c3cada254bab6eba3225cbf182.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172481101-838b13fd104d48fa76969bffa016273b.webp)
+![Fairfield by Marriott Bali Kuta Sunset Road](https://images.gobaligo.id/images/2026-04/1777172481101-838b13fd104d48fa76969bffa016273b.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172481534-9263ebd6365da5e5fec4a0251eaf96a5.webp)
+![Fairfield by Marriott Bali Kuta Sunset Road](https://images.gobaligo.id/images/2026-04/1777172481534-9263ebd6365da5e5fec4a0251eaf96a5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172481961-86121a8595332b41dc08a58c877723e4.webp)
+![Fairfield by Marriott Bali Kuta Sunset Road](https://images.gobaligo.id/images/2026-04/1777172481961-86121a8595332b41dc08a58c877723e4.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172482454-463629156.jpg)
+![Fairfield by Marriott Bali Kuta Sunset Road](https://images.gobaligo.id/images/2026-04/1777172482454-463629156.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172482947-db08eed8e58b1d1715a268462a0c807e.webp)
+![Fairfield by Marriott Bali Kuta Sunset Road](https://images.gobaligo.id/images/2026-04/1777172482947-db08eed8e58b1d1715a268462a0c807e.webp)
 
 📍 **Location**: Jl. Merdeka Raya VII, situated in the Sunset Road commercial area.
 
@@ -304,25 +304,25 @@ Part of the Marriott Fairfield brand, located in the Sunset Road commercial area
 
 A vibrant hotel on Jl. Melasti in the Legian area, just a 5-minute walk from Kuta Beach, technically almost beachfront, but with a stronger urban feel in Legian, plus live entertainment like Drag Shows at night, creating an overall lively and energetic atmosphere. Opened in 2012, well-maintained, with consistently stable reputation.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172575891-8779268741c7927f8d391b1d42dce2eb.webp)
+![The Magani Hotel and Spa](https://images.gobaligo.id/images/2026-04/1777172575891-8779268741c7927f8d391b1d42dce2eb.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172576327-c64bd3887545f61c9c3eaee1e4d14457.webp)
+![The Magani Hotel and Spa](https://images.gobaligo.id/images/2026-04/1777172576327-c64bd3887545f61c9c3eaee1e4d14457.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172576803-0cd35071c4c54e72ee06ab9f4397b2bc.webp)
+![The Magani Hotel and Spa](https://images.gobaligo.id/images/2026-04/1777172576803-0cd35071c4c54e72ee06ab9f4397b2bc.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172577208-52a1bb231363b3d73171963fcc9fd1c7.webp)
+![The Magani Hotel and Spa](https://images.gobaligo.id/images/2026-04/1777172577208-52a1bb231363b3d73171963fcc9fd1c7.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172577616-335650_17030110140051308213.webp)
+![The Magani Hotel and Spa](https://images.gobaligo.id/images/2026-04/1777172577616-335650_17030110140051308213.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172578008-335650_17030110500051309316.webp)
+![The Magani Hotel and Spa](https://images.gobaligo.id/images/2026-04/1777172578008-335650_17030110500051309316.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172578420-335650_17030110500051309321.webp)
+![The Magani Hotel and Spa](https://images.gobaligo.id/images/2026-04/1777172578420-335650_17030110500051309321.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172578936-452600796.jpg)
+![The Magani Hotel and Spa](https://images.gobaligo.id/images/2026-04/1777172578936-452600796.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172579440-614423447.jpg)
+![The Magani Hotel and Spa](https://images.gobaligo.id/images/2026-04/1777172579440-614423447.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172579859-633440495.jpg)
+![The Magani Hotel and Spa](https://images.gobaligo.id/images/2026-04/1777172579859-633440495.jpg)
 
 📍 **Location**: Jl. Melasti, Legian Kelod, 3-minute walk to Kuta Beach, 15-minute walk to Beachwalk Shopping Center, Jl. Legian bar and restaurant street right at your doorstep, approximately 20-minute drive to the airport.
 
@@ -340,25 +340,25 @@ A vibrant hotel on Jl. Melasti in the Legian area, just a 5-minute walk from Kut
 
 A traditional Balinese-style resort in central Kuta, just a short walk from Kuta Art Market and Kuta Square.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172670031-ad60f4acb367d6463e79f210194ffc32.webp)
+![Ramayana Suites & Resort](https://images.gobaligo.id/images/2026-04/1777172670031-ad60f4acb367d6463e79f210194ffc32.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172670919-c3b74c25c7834d0408ea2c7cde336e2d.webp)
+![Ramayana Suites & Resort](https://images.gobaligo.id/images/2026-04/1777172670919-c3b74c25c7834d0408ea2c7cde336e2d.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172671500-0e46c6275b5bd3a4ed3b219b8d666ac8.webp)
+![Ramayana Suites & Resort](https://images.gobaligo.id/images/2026-04/1777172671500-0e46c6275b5bd3a4ed3b219b8d666ac8.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172671991-9dcfeff879afede483ad25a362875f41.webp)
+![Ramayana Suites & Resort](https://images.gobaligo.id/images/2026-04/1777172671991-9dcfeff879afede483ad25a362875f41.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172672426-550fdb423ec02d6424918dfc59898998.webp)
+![Ramayana Suites & Resort](https://images.gobaligo.id/images/2026-04/1777172672426-550fdb423ec02d6424918dfc59898998.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172673034-350619332f466749a7ed18f824bedf34.webp)
+![Ramayana Suites & Resort](https://images.gobaligo.id/images/2026-04/1777172673034-350619332f466749a7ed18f824bedf34.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172673540-851939852.jpg)
+![Ramayana Suites & Resort](https://images.gobaligo.id/images/2026-04/1777172673540-851939852.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172673963-853122362.jpg)
+![Ramayana Suites & Resort](https://images.gobaligo.id/images/2026-04/1777172673963-853122362.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172674369-853145334.jpg)
+![Ramayana Suites & Resort](https://images.gobaligo.id/images/2026-04/1777172674369-853145334.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172674763-853165180.jpg)
+![Ramayana Suites & Resort](https://images.gobaligo.id/images/2026-04/1777172674763-853165180.jpg)
 
 📍 **Location**: Jl. Bakung Sari, central Kuta, about a 10-15 minute walk to Kuta Beach.
 
@@ -376,25 +376,25 @@ A traditional Balinese-style resort in central Kuta, just a short walk from Kuta
 
 A well-known Jakarta hotel chain's outpost in Kuta, offering comprehensive facilities and professional service. It provides a stable accommodation experience, making it a familiar and safe choice for business travelers and those who prefer brand assurance.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172733762-4dacb4da08d4149bc00a824b97d7deb7.webp)
+![Aryaduta Bali](https://images.gobaligo.id/images/2026-04/1777172733762-4dacb4da08d4149bc00a824b97d7deb7.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172734373-98137dbe9998f529ecd4548a88bb450c.webp)
+![Aryaduta Bali](https://images.gobaligo.id/images/2026-04/1777172734373-98137dbe9998f529ecd4548a88bb450c.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172735491-260897a8c909057b3e8ef502477c8d91.webp)
+![Aryaduta Bali](https://images.gobaligo.id/images/2026-04/1777172735491-260897a8c909057b3e8ef502477c8d91.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172736317-138862818.jpg)
+![Aryaduta Bali](https://images.gobaligo.id/images/2026-04/1777172736317-138862818.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172736652-138864374.jpg)
+![Aryaduta Bali](https://images.gobaligo.id/images/2026-04/1777172736652-138864374.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172737132-138864380.jpg)
+![Aryaduta Bali](https://images.gobaligo.id/images/2026-04/1777172737132-138864380.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172737648-138864386.jpg)
+![Aryaduta Bali](https://images.gobaligo.id/images/2026-04/1777172737648-138864386.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172738261-490220110.jpg)
+![Aryaduta Bali](https://images.gobaligo.id/images/2026-04/1777172738261-490220110.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172738670-d4a2224d0b7afc3ac77cfe4799ab4524.webp)
+![Aryaduta Bali](https://images.gobaligo.id/images/2026-04/1777172738670-d4a2224d0b7afc3ac77cfe4799ab4524.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777172739082-f732116b93adf9d5170847444d11aff3.webp)
+![Aryaduta Bali](https://images.gobaligo.id/images/2026-04/1777172739082-f732116b93adf9d5170847444d11aff3.webp)
 
 📍 **Location**: Conveniently located near the airport, close to commercial areas and entertainment facilities, right next to Lippo Mall Kuta. Ideal for travelers using Kuta as a base for various activities.
 
@@ -420,25 +420,25 @@ For many, 'airport accommodations' are just an emergency option—but they can b
 
 One of the few truly airport-terminal-integrated chain hotels globally—not just near the airport, but actually inside it. A mere 5-10 minute walk takes you directly to the international departure hall and domestic arrival hall, eliminating all transportation hassles for early morning flight passengers.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777173310375-a4a0e49f72028f9addfb0c7f73ef30c7.webp)
+![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173310375-a4a0e49f72028f9addfb0c7f73ef30c7.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777173310792-4d606b6bfd30f9c34b4496891cb4d789.webp)
+![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173310792-4d606b6bfd30f9c34b4496891cb4d789.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777173311403-702311537.jpg)
+![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173311403-702311537.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777173311916-702311599.jpg)
+![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173311916-702311599.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777173312628-751142152.jpg)
+![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173312628-751142152.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777173313139-751142254.jpg)
+![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173313139-751142254.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777173313649-751142299.jpg)
+![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173313649-751142299.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777173314124-751142343.jpg)
+![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173314124-751142343.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777173314675-d68e2dd74a1d2daf3922fa74b103f19f.webp)
+![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173314675-d68e2dd74a1d2daf3922fa74b103f19f.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777173315187-e5d3d13d80acf1a6018e50d3cdaf39cb.webp)
+![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173315187-e5d3d13d80acf1a6018e50d3cdaf39cb.webp)
 
 📍 **Location**: Jalan Raya Ngurah Rai, Tuban, located within the I Gusti Ngurah Rai Airport complex, directly connected to the international departure hall and domestic arrival hall—just a 5-10 minute walk, no transfers needed. The beach is about a 15-20 minute walk away, while Kuta city center is a 10-minute drive (taxi fares are relatively high, so Grab is recommended).
 
@@ -456,25 +456,25 @@ One of the few truly airport-terminal-integrated chain hotels globally—not jus
 
 A Hilton-branded hotel just 500 meters from the airport, offering complimentary airport transfers and shuttle service to Kuta city shopping centers. Compared to Novotel, it boasts more spacious accommodations and family-friendly facilities, ideal for guests staying more than just overnight.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777173676061-7ea18c1e1cc821e51270f407945fa8d8.webp)
+![Hilton Garden Inn Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173676061-7ea18c1e1cc821e51270f407945fa8d8.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777173676576-8d72ac2a5c079dbe90119e21de799267.webp)
+![Hilton Garden Inn Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173676576-8d72ac2a5c079dbe90119e21de799267.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777173678209-9c41ea04d566ff7fe07b9dd1ec4d82c4.webp)
+![Hilton Garden Inn Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173678209-9c41ea04d566ff7fe07b9dd1ec4d82c4.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777173678615-96ee2dd11d8bfcb495c1f9e66924bec0.webp)
+![Hilton Garden Inn Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173678615-96ee2dd11d8bfcb495c1f9e66924bec0.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777173679120-78473ac0e6108e7050368e25cda14545.webp)
+![Hilton Garden Inn Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173679120-78473ac0e6108e7050368e25cda14545.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777173679527-629842648.jpg)
+![Hilton Garden Inn Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173679527-629842648.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777173679937-a527a56a3a1a3e0b4818d47c5bc8b2fb.webp)
+![Hilton Garden Inn Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173679937-a527a56a3a1a3e0b4818d47c5bc8b2fb.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777173680451-b67fe27872cbe0595e9677f7a69ab426.webp)
+![Hilton Garden Inn Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173680451-b67fe27872cbe0595e9677f7a69ab426.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777173681202-ebee00eb236fbd5747f55a0932a62a6c.webp)
+![Hilton Garden Inn Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173681202-ebee00eb236fbd5747f55a0932a62a6c.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777173681585-6a5b050311c4992b5e74e133df7c29f8.webp)
+![Hilton Garden Inn Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173681585-6a5b050311c4992b5e74e133df7c29f8.webp)
 
 📍 **Location**: Jalan Airport Ngurah Rai No. 7, Tuban, a 500-meter (5-7 minute) walk from the airport. Waterbom Bali is about 1.6 km away, Discovery Mall is also 1.6 km, and Kuta city center is a 10-minute drive. Complimentary airport transfers and shopping center shuttles are available.
 

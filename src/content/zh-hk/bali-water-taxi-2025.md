@@ -51,7 +51,7 @@ _srcHash: 5a41da3fd1adbcd5bac7d68aad159644
 
 ## GoBoat 海上嘅士路線嘅細節
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_758cb8328c22d3ffda18f453d04f626c.png)
+![GoBoat 海上嘅士路線嘅細節](https://images.gobaligo.id/vocus/vocus_758cb8328c22d3ffda18f453d04f626c.png)
 
 呢條全新嘅海上嘅士路線將會設有三個主要停靠點：
 

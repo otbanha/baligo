@@ -41,7 +41,7 @@ Acara ini ditentukan oleh suara lebih dari **28 juta anggota GHA DISCOVERY**, ya
 
 ## **Makna di Balik Penghargaan 'Best Sustainable Hotel'**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cfbbdb303c4d9cc59f6ee524f1fddcac.jpg)
+![Makna di Balik Penghargaan 'Best Sustainable Hotel'](https://images.gobaligo.id/vocus/vocus_cfbbdb303c4d9cc59f6ee524f1fddcac.jpg)
 
 Vincent Guironnet, General Manager The Apurva Kempinski Bali, saat menerima penghargaan bilang:
 
@@ -60,7 +60,7 @@ Setiap langkah selaras dengan prinsip keberlanjutan, menciptakan keseimbangan an
 
 ## **Praktik Keberlanjutan The Apurva Kempinski Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eed3108b28cf3ca5fc3766481d9d747b.jpg)
+![Praktik Keberlanjutan The Apurva Kempinski Bali](https://images.gobaligo.id/vocus/vocus_eed3108b28cf3ca5fc3766481d9d747b.jpg)
 
 **1. Keberlanjutan Lingkungan: Inovasi dan Aksi Hijau**
 
@@ -86,17 +86,17 @@ Hotel ini menunjukkan transparansi tinggi dalam tata kelola perusahaan, memastik
 
 ## **Perpaduan Sempurna antara Desain & Budaya**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7b344ee09db7f37785935fd0893cc7bc.jpg)
+![Perpaduan Sempurna antara Desain & Budaya](https://images.gobaligo.id/vocus/vocus_7b344ee09db7f37785935fd0893cc7bc.jpg)
 
 Selain tanggung jawab lingkungan dan sosial, The Apurva Kempinski Bali juga terkenal dengan desain unik dan pengalaman budayanya. Arsitektur hotel ini terinspirasi dari **Kerajaan Majapahit Indonesia**, menyajikan tradisi arsitektur Indonesia dan elemen alam dengan cara modern.
 
 Selain itu, kampanye pemasaran tahunan mereka '**Powerful Indonesia**' adalah penghormatan bagi budaya dan warisan Indonesia. Mulai dari pameran seni hingga pengalaman kuliner, hotel ini berdedikasi untuk berbagi keragaman budaya Indonesia dengan para tamu, memberikan pengalaman perjalanan yang kaya dan bermakna.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8546b2ac73a2501a4cdcedee144940e3.jpg)
+![Perpaduan Sempurna antara Desain & Budaya](https://images.gobaligo.id/vocus/vocus_8546b2ac73a2501a4cdcedee144940e3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_044a418e90b90d6ef815ca9a53439e92.jpg)
+![Perpaduan Sempurna antara Desain & Budaya](https://images.gobaligo.id/vocus/vocus_044a418e90b90d6ef815ca9a53439e92.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9d8178559e78ae80c6ed16ebc8bf6b1c.jpg)
+![Perpaduan Sempurna antara Desain & Budaya](https://images.gobaligo.id/vocus/vocus_9d8178559e78ae80c6ed16ebc8bf6b1c.jpg)
 
 ***
 

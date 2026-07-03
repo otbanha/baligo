@@ -27,7 +27,7 @@ _srcHash: aa2ba4e3a3c479b100b45eed2ae9dd5a
 
 位於峇里島塔巴南（Tabanan）區嘅海神廟（Tanah Lot），坐落喺一座海中岩石嘅小島上面，成為峇里島最具象徵性嘅宗教景點之一。呢度唔單止可以欣賞壯麗嘅夕陽同海浪衝擊岩岸嘅美景，仲有好多值得一試嘅活動，吸引咗世界各地嘅遊客嚟探索。本文會為你詳細介紹海神廟嘅歷史、遊覽活動、潮汐資訊同住宿建議，等你嘅峇里島之行更加精彩。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_36a21198d37ccb139f68e96a327f9b33.jpg)
+![峇里島旅遊必去景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](https://images.gobaligo.id/vocus/vocus_36a21198d37ccb139f68e96a327f9b33.jpg)
 
 ## 一、海神廟嘅歷史背景同宗教意義
 
@@ -37,7 +37,7 @@ _srcHash: aa2ba4e3a3c479b100b45eed2ae9dd5a
 
 > 延伸閱讀：[2026峇里島嘅慶典日期](/blog/2026-bali-festival-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_71c5ba824a21ebf14225e1a786a733aa.jpg)
+![一、海神廟嘅歷史背景同宗教意義](https://images.gobaligo.id/vocus/vocus_71c5ba824a21ebf14225e1a786a733aa.jpg)
 
 ## 二、探索海神廟嘅熱門活動
 
@@ -50,7 +50,7 @@ _srcHash: aa2ba4e3a3c479b100b45eed2ae9dd5a
 3. **捕捉夕陽同海神廟嘅夢幻瞬間**
    海神廟嘅夕陽被譽為峇里島最佳之一。隨住太陽逐漸落入海平面，成個寺廟俾染上金黃色，營造出寧靜浪漫嘅氛圍。為咗欣賞「金色夕陽」嘅最佳觀賞點，建議遊客提早去並搵到理想嘅視角。呢個時刻吸引咗大量攝影愛好者，係絕佳嘅拍攝時間。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a57c3676b33b851b9c8fdcfbbc097fe1.jpg)
+![二、探索海神廟嘅熱門活動](https://images.gobaligo.id/vocus/vocus_a57c3676b33b851b9c8fdcfbbc097fe1.jpg)
 
 ## 三、遊覽貼士：門票資訊、潮汐查詢同周邊住宿
 
@@ -78,7 +78,7 @@ _srcHash: aa2ba4e3a3c479b100b45eed2ae9dd5a
 
 要留意嘅係，因為高峰時段夕陽西落嗰陣人潮好多，如果想避開人潮就建議早啲到。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_185691fff7731298c075e2955186123d.jpg)
+![三、遊覽貼士：門票資訊、潮汐查詢同周邊住宿](https://images.gobaligo.id/vocus/vocus_185691fff7731298c075e2955186123d.jpg)
 
 離海神廟最近嘅坎古（長谷區）係探訪海神廟最方便嘅住宿基地。關於坎古嘅住宿可以參考：
 
@@ -87,7 +87,7 @@ _srcHash: aa2ba4e3a3c479b100b45eed2ae9dd5a
 
 ## 四、海神廟美食
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cbceb95c5a97b14017e87cfe8554cc73.png)
+![四、海神廟美食](https://images.gobaligo.id/vocus/vocus_cbceb95c5a97b14017e87cfe8554cc73.png)
 
 喺海神廟嘅海邊有一間餐廳提供峇里島最特別嘅欣賞海神廟夕陽美食體驗。詳細介紹同預訂[請睇呢度](https://affiliate.klook.com/redirect?aid=116349&aff_adid=940010&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94323-de-jukung-resto-and-bar-tanah-lot-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad47504c12)。
 

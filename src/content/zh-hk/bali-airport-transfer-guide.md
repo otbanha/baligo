@@ -21,13 +21,13 @@ _srcHash: 9c08866751c60925d9812a60ccc40fb5
 
 峇里島係世界知名嘅旅遊勝地，吸引咗來自全球嘅旅客。喺你抵達峇里島之後，確保旅程順利開始係非常重要嘅。本文會介紹幾種由機場去住宿地點嘅交通選擇，分析佢哋嘅優缺點，同埋比較呢啲方式適合邊一類型嘅遊客。另外，仲會分享一啲抵達峇里島第一日嘅實用建議，確保你可以妥善安排好所有必要事項。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_38be3952880eed542a841cd845dae0e2.png)
+![抵達峇里島：接機嘅交通選擇同第一日嘅實用建議](https://images.gobaligo.id/vocus/vocus_38be3952880eed542a841cd845dae0e2.png)
 
 ## 峇里島適用嘅五種接機方式：
 
 ### 1.酒店接機服務
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4a470c5460357e7d1804c0a4459c0158.png)
+![1.酒店接機服務](https://images.gobaligo.id/vocus/vocus_4a470c5460357e7d1804c0a4459c0158.png)
 
 **優點：**
 
@@ -45,7 +45,7 @@ _srcHash: 9c08866751c60925d9812a60ccc40fb5
 
 ### 2.機場的士
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17ac364acfdfbde04d7875db9b0b5fda.png)
+![2.機場的士](https://images.gobaligo.id/vocus/vocus_17ac364acfdfbde04d7875db9b0b5fda.png)
 
 **優點：**
 
@@ -64,7 +64,7 @@ _srcHash: 9c08866751c60925d9812a60ccc40fb5
 
 ### 3.包車接機
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_030460f311b7bc1474d394d7ca2c1c3d.png)
+![3.包車接機](https://images.gobaligo.id/vocus/vocus_030460f311b7bc1474d394d7ca2c1c3d.png)
 
 **優點：**
 
@@ -86,7 +86,7 @@ _srcHash: 9c08866751c60925d9812a60ccc40fb5
 
 ### 4.Klook/KKday預訂機場接送
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8364f77b753d918f2c5549655bed128a.png)
+![4.Klook/KKday預訂機場接送](https://images.gobaligo.id/vocus/vocus_8364f77b753d918f2c5549655bed128a.png)
 
 **優點：**
 

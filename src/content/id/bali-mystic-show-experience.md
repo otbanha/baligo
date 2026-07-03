@@ -19,9 +19,9 @@ lang: id
 _srcHash: 513677da4b0f87836b56d2d2da9ea052
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eba6378e6e692848f0831daf792f90f3.jpg)
+![Pertunjukan Tari Spektakuler Paling Keren di Bali Hadir: Mas](https://images.gobaligo.id/vocus/vocus_eba6378e6e692848f0831daf792f90f3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4c03f221b8a64ddfdcba5a3e601aba15.png)
+![Pertunjukan Tari Spektakuler Paling Keren di Bali Hadir: Mas](https://images.gobaligo.id/vocus/vocus_4c03f221b8a64ddfdcba5a3e601aba15.png)
 
 Bali nggak cuma soal pantai cantik dan budaya yang kaya, sekarang ada satu pertunjukan visual dan audio yang belum pernah ada sebelumnya — **Bali Mystic**. Perpaduan tradisi dan modern dalam bentuk pertunjukan imersif skala besar ini digelar di **Labyrinth Arts Centre**, Nuanu Creative City. Siap-siap diajak jalan-jalan lintas waktu, merasakan perpaduan mitologi dan seni yang bikin merinding.
 
@@ -93,7 +93,7 @@ Kalau kamu udah hafal banget itinerary Seminyak dan Ubud, pertunjukan ini bakal 
 
 ## Lebih banyak spot di Nuanu Creative City
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d1b9756c666257aa52804cadea6bbadb.jpg)
+![Lebih banyak spot di Nuanu Creative City](https://images.gobaligo.id/vocus/vocus_d1b9756c666257aa52804cadea6bbadb.jpg)
 
 Nuanu Creative City adalah kawasan kreatif terbaru di Bali yang mengusung konsep zero carbon, jadi destinasi wisata berkelanjutan paling hits. Sekarang udah mulai menarik para kreator global, wajib masuk bucket list!
 

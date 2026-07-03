@@ -28,7 +28,7 @@ Gede 係一位不可多得嘅好司機，亦係小編唯一指定嘅峇里島司
 
 ## Gede Arimbawa 聯絡方式 📲
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dd732c7983a3912f26ab68d22952f136.jpg)
+![Gede Arimbawa 聯絡方式](https://images.gobaligo.id/vocus/vocus_dd732c7983a3912f26ab68d22952f136.jpg)
 
 - **LINE ID**：Bopeas29
 - **WhatsApp**：+62 8786 2004 094
@@ -135,9 +135,9 @@ Gede Arimbawa 唔單止係司機，更加似一位老朋友，佢嘅真誠同貼
 
 快啲聯絡佢，為你嘅峇里島之旅增添更多美好回憶啦！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_080caa1b1de4d25973b11e4bdfa1101a.jpg)
+![結語：搵一位值得信任嘅司機，旅程會更加完美！](https://images.gobaligo.id/vocus/vocus_080caa1b1de4d25973b11e4bdfa1101a.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_388b858b7f09e7aced540e2b9776c0f6.jpg)
+![結語：搵一位值得信任嘅司機，旅程會更加完美！](https://images.gobaligo.id/vocus/vocus_388b858b7f09e7aced540e2b9776c0f6.jpg)
 
 ---
 

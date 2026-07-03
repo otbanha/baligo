@@ -32,7 +32,7 @@ _srcHash: d7b52d82ff6d54ddadadd5a546f47157
 
 Tahun 2026 ke Bali, jangan cuma nongkrong di kafe! Yang bener-bener paham vibe, udah mulai "Beach Club Jumping" 🌊🍹
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_798440c5b6e0bb700e10113413c9259e.jpg)
+![【2026 Bali Wajib Coba】Jangan Cuma ke Kafe! Yang Paham Suasan](https://images.gobaligo.id/vocus/vocus_798440c5b6e0bb700e10113413c9259e.jpg)
 
 Yang bikin liburan di Bali seru banget itu pilihannya selalu lebih banyak dari waktu. Dalam dua minggu aja, kamu bisa ganti-ganti peran tiap hari: pagi jadi surfer, siang jadi traveler pecinta alam, sore rebahan di kursi pantai sambil lihat sunset, malam ganti mode party. Kebebasan kayak gini yang bikin Bali paling memikat.
 

@@ -39,7 +39,7 @@ Update: 2026/05/31
 
 Taking family to Bali, the worst fear is encountering scorching sun that makes you dizzy or sudden afternoon downpours that disrupt your plans—I've experienced this more than once. Then I discovered **Trans Studio Bali**, and trip planning became much easier. This Bali's only large indoor theme park is hidden within Trans Studio Mall, ensuring fun regardless of the weather outside.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780232865078-_unnamed.jpeg)
+![【Bali Indoor Attractions】Trans Studio Bali Complete Guide: T](https://images.gobaligo.id/images/2026-05/1780232865078-_unnamed.jpeg)
 
 ***
 
@@ -47,7 +47,7 @@ Taking family to Bali, the worst fear is encountering scorching sun that makes y
 
 Simply put, it's Bali's largest **fully indoor theme park** located near Kuta/Seminyak at Trans Studio Mall (Address: Jl. Imam Bonjol No.440). The park is divided into five themed zones, each with a distinct style, from New York-inspired action stunt zones to Bali cultural temple adventure areas—there's so much to do that one day isn't enough.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233421375-1-1-trans-studio-bali-by-riskidarmawan_-740x592.webp)
+![What is Trans Studio Bali?](https://images.gobaligo.id/images/2026-05/1780233421375-1-1-trans-studio-bali-by-riskidarmawan_-740x592.webp)
 
 It's perfect for families with kids, elderly, or travelers who don't want their trip ruined by sun or rain. For those who dislike the heat, it's even better: no need to worry about tropical weather here, just enjoy the AC and the rides.
 
@@ -57,7 +57,7 @@ It's perfect for families with kids, elderly, or travelers who don't want their 
 
 ### 1. Boomerang Roller Coaster — An Extreme Challenge on the Mall Rooftop
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780232942005-1.webp)
+![1. Boomerang Roller Coaster — An Extreme Challenge on the Ma](https://images.gobaligo.id/images/2026-05/1780232942005-1.webp)
 
 Even if you don't usually ride roller coasters, this attraction is worth trying. Perched atop the Trans Studio Mall, its looped track design sends you plunging at high speeds through the air, creating a heart-stopping moment as you shoot forward.
 
@@ -65,7 +65,7 @@ Why is it called 'Boomerang'? You'll understand once you try it — no spoilers 
 
 ### 2. Flying Over Indonesia — Aerial Tour of Indonesia
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233003802-2.jpeg)
+![2. Flying Over Indonesia — Aerial Tour of Indonesia](https://images.gobaligo.id/images/2026-05/1780233003802-2.jpeg)
 
 This is one of the most fascinating attractions in the entire park and the **only** flight simulator theater experience in all of Indonesia. Board the simulator, enhanced with 4D sensory technology, and soar through the skies over Borobudur, Komodo Island, Bali's rice terraces, and more. Before you know it, you'll be intrigued by other parts of Indonesia.
 
@@ -73,7 +73,7 @@ Compared to simply watching a screen, the immersive 'flying through the air' sen
 
 ### 3. Formula Kart Electric Go-Karts — Bali's Largest Indoor Track
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233063250-3.webp)
+![3. Formula Kart Electric Go-Karts — Bali's Largest Indoor Tr](https://images.gobaligo.id/images/2026-05/1780233063250-3.webp)
 
 This track spans nearly an entire floor and is currently the largest indoor go-karting venue in Bali. The electric go-karts are stable and safe, even for kids (height restrictions apply, so check in advance), making it an exhilarating experience.
 
@@ -81,7 +81,7 @@ This track spans nearly an entire floor and is currently the largest indoor go-k
 
 ### 4. Forbidden Temple Adventure Lazy River — The Best Choice for Family Fun
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233135156-4.jpg)
+![4. Forbidden Temple Adventure Lazy River — The Best Choice f](https://images.gobaligo.id/images/2026-05/1780233135156-4.jpg)
 
 This river ride incorporates an adventurous temple theme, with a brief outdoor section offering views of the Kuta/Seminyak cityscape. While not particularly thrilling, it's friendly and fun, making it especially suitable for bringing elders or children.
 
@@ -89,7 +89,7 @@ Worried about getting wet? We barely got wet after riding, so you can confidentl
 
 ### 5. Spectacular Shows & Parades — Plan This Time Slot Seriously
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233157309-5.webp)
+![5. Spectacular Shows & Parades — Plan This Time Slot Serious](https://images.gobaligo.id/images/2026-05/1780233157309-5.webp)
 
 Many treat shows as a casual side activity, but the performances at Trans Studio Bali are truly different and worth **setting aside dedicated time** to fully enjoy.
 
@@ -116,13 +116,13 @@ In addition to the five highlights, these areas are also highly recommended for 
 - **Frank House**: A maze with visual illusions that will leave you questioning reality
 - **Titanic Area**: A giant Titanic installation art, a must-visit photo spot before entering
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233233500-titanic.webp)
+![Other Notable Features Worth Exploring](https://images.gobaligo.id/images/2026-05/1780233233500-titanic.webp)
 
 - **City of the Dead Zombie and Werewolf Shooting Mission**: Use laser guns to fight virtual monsters, see who's the most accurate
 - **Bali Senses Immersive Digital Art Zone**: An interactive digital space combining Balinese culture and technology, the first stop upon entry
 - **i-Fly Indoor Skydiving** (additional fee): Afraid of heights but want to experience the sensation of flying? This is the safest way
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233460315-fly.jpg)
+![Other Notable Features Worth Exploring](https://images.gobaligo.id/images/2026-05/1780233460315-fly.jpg)
 
 ***
 

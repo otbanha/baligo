@@ -17,13 +17,13 @@ lang: zh-hk
 _srcHash: 19d4bd7f370862ade8b67dccae0ee1f2
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1352d09a9967b15bf558624bb13c65f9.jpg)
+![超高評價烏布私人一日遊，私人導遊帶你探索經典景點](https://images.gobaligo.id/vocus/vocus_1352d09a9967b15bf558624bb13c65f9.jpg)
 
 ## **烏布私人一日遊亮點**
 
 烏布係峇里島上最具文化同藝術氣息嘅地區，唔單止有壯麗嘅稻田景觀、神聖嘅寺廟，仲有充滿活力嘅傳統市集同自然美景。對於初次造訪嘅旅客嚟講，烏布嘅景點實在太多，成日都唔知點樣安排。呢個時候，選擇一個精心設計嘅 **烏布私人一日遊** 就係最輕鬆嘅方式！你唔使同其他旅客拼團，亦唔使煩惱要去邊度，因為呢套行程提供多種路線可選，滿足唔同需求。最重要嘅係，呢個一日遊已經有超過 **10,000+ 人參加**，並且獲得接近滿分嘅 **4.9/5 超高評價**，口碑絕對值得信賴。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4836378a37d654793548988800e3cac1.jpg)
+![烏布私人一日遊亮點](https://images.gobaligo.id/vocus/vocus_4836378a37d654793548988800e3cac1.jpg)
 
 ## **舒適便利嘅全程服務**
 
@@ -41,9 +41,9 @@ _srcHash: 19d4bd7f370862ade8b67dccae0ee1f2
 
 此外，仲可以選擇 **巴杜爾山、海神廟日落、傳統民居** 等多條經典路線，打造專屬於你嘅峇里島冒險。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_420629d324c101009db87a1e37ef0c46.png)
+![熱門景點一次收錄](https://images.gobaligo.id/vocus/vocus_420629d324c101009db87a1e37ef0c46.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4318be6095e0db1dda238445de9e0489.jpg)
+![熱門景點一次收錄](https://images.gobaligo.id/vocus/vocus_4318be6095e0db1dda238445de9e0489.jpg)
 
 ---
 
@@ -92,6 +92,6 @@ _srcHash: 19d4bd7f370862ade8b67dccae0ee1f2
 
 ## 更多烏布吃喝玩樂介紹
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
+![更多烏布吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
 烏布（Ubud）係峇里島嘅文化同藝術中心，以綠意盎然嘅梯田、靜謐嘅叢林同深厚嘅傳統文化吸引咗無數旅人。呢度係放鬆身心嘅理想之地。無論係探索當地傳統、享受自然美景、定係各種有趣刺激嘅戶外活動美食+美景嘅獨特體驗，烏布都可以帶畀你獨特嘅感動！想了解更多烏布攻略？[請點擊呢度](/blog/ubud-guide/)

@@ -28,7 +28,7 @@ _srcHash: aec3d6b920e13090c85016df575ba7c5
 
 Canggu, Bali's newest attraction, **Aurora Media Park Bali**, is a groundbreaking landmark that seamlessly blends nature with interactive multimedia technology. Located in the Nuanu Creative Area of Tabanan Regency, this destination offers a 1-kilometer-long open forest experience filled with interactive light and sound games, creating an immersive multimedia environment powered by artificial intelligence (AI). Visitors can explore this 5,000-square-meter natural forest, experiencing a dual sensory impact of sight and sound while also finding spiritual inspiration, as if stepping into a whole new dimension.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_88cd83cae8c36c0bc84450428436accd.jpg)
+![Canggu's New Attraction: Aurora Media Park Bali - An Immersi](https://images.gobaligo.id/vocus/vocus_88cd83cae8c36c0bc84450428436accd.jpg)
 
 ### 
 
@@ -38,9 +38,9 @@ Aurora Park officially opened to the public in August 2024. According to Sergey 
 
 ## Highlights of the Visit:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f6b9f1ed04ebe13792fc027236c8aa7.jpg)
+![Highlights of the Visit:](https://images.gobaligo.id/vocus/vocus_2f6b9f1ed04ebe13792fc027236c8aa7.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ce51f823edc67e709dae2893a15016af.jpg)
+![Highlights of the Visit:](https://images.gobaligo.id/vocus/vocus_ce51f823edc67e709dae2893a15016af.jpg)
 
 **Gate (Entrance)**
 
@@ -55,9 +55,9 @@ A spiral-shaped sundial woven from light and shadow, artistically showcasing the
 **Bahasa Pillar (Language Pillar)**  
 The pillar features Indonesian poetry inscribed with Sanskrit letter projections, depicting a journey of light.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_275dbabd119cc403f9187c9efb4a4cc7.jpg)
+![Highlights of the Visit:](https://images.gobaligo.id/vocus/vocus_275dbabd119cc403f9187c9efb4a4cc7.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c07920553a497852b4f6ff5cb0c903e0.jpg)
+![Highlights of the Visit:](https://images.gobaligo.id/vocus/vocus_c07920553a497852b4f6ff5cb0c903e0.jpg)
 
 **Cone**  
 An elliptical mirror installation located in the center of the river, made of stainless steel. Interactive light projections ripple dynamically across the water's surface, activated by sensor technology as visitors walk across the bridge.
@@ -71,7 +71,7 @@ A woven rattan installation combined with 3D spiral lighting, connecting the bri
 **Crystal Oasis**  
 This installation showcases glowing stalactites and crystals, resembling the palm of Mother Earth. As visitors stand before it, the crystals and surrounding area begin to shimmer with colorful lights, creating a magical interactive experience.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_33925bc9e4116dcf8e86a59d86482b25.jpg)
+![Highlights of the Visit:](https://images.gobaligo.id/vocus/vocus_33925bc9e4116dcf8e86a59d86482b25.jpg)
 
 Aurora Park Bali is not just a nighttime attraction but an immersive space blending art, nature, and technology, perfect for adventurous explorers seeking unique charm.
 
@@ -85,7 +85,7 @@ Aurora Media Park is open daily starting at 7:00 PM, inviting visitors to explor
 
 ## More Attractions in Nuanu Creative City
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc7e8fc3aec43f2f1eff30c6e85caa52.jpg)
+![More Attractions in Nuanu Creative City](https://images.gobaligo.id/vocus/vocus_cc7e8fc3aec43f2f1eff30c6e85caa52.jpg)
 
 Nuanu Creative City is Bali's latest emerging creative hub, promoting zero carbon emissions and becoming the island's newest sustainable tourism landmark. It's already attracting global creatives as the next must-visit hotspot!
 

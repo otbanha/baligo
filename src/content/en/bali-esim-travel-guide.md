@@ -32,7 +32,7 @@ With technological advancements, traveling abroad no longer requires swapping SI
 
 Whether it's opening a map to find your way immediately after landing in Bali, sending messages, sharing photos, or even streaming videos, you won't have to worry about connection quality. Telkomsel is one of the largest telecom operators in Indonesia, with extensive network coverage that ensures stable connections even in remote areas.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5b66848dd0a737c6bd8672f358869385.png)
+![How Can You Travel to Bali Without an eSIM?](https://images.gobaligo.id/vocus/vocus_5b66848dd0a737c6bd8672f358869385.png)
 
 ---
 
@@ -79,7 +79,7 @@ If you're planning a trip to Bali, don't miss out on this highly-rated, stable, 
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_77042eb24a47229837fe9c33aaf452aa.png)
+![Conclusion: The Best Internet Choice for Your Bali Trip](https://images.gobaligo.id/vocus/vocus_77042eb24a47229837fe9c33aaf452aa.png)
 
 ## **❓FAQ**
 

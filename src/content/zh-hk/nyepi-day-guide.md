@@ -21,7 +21,7 @@ _srcHash: b14c051a065b2f64d8d6c44f19401fbc
 
 ### 峇里島政府確認即將到嚟嘅寧靜日遊客必須遵守嘅規則
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_26e4bd90b1acdf6d7ea153ac83b7542d.jpg)
+![峇里島政府確認即將到嚟嘅寧靜日遊客必須遵守嘅規則](https://images.gobaligo.id/vocus/vocus_26e4bd90b1acdf6d7ea153ac83b7542d.jpg)
 
 峇里島嘅印度教權威機構已就如何慶祝即將到嚟嘅寧靜日（Nyepi Day，峇里島寧靜日）發布咗最新指引。呢個重要嘅節日將會喺2025年3月29日舉行，屆時島上所有非印度教徒、外國人同遊客都必須遵守當日嘅規定。
 
@@ -53,7 +53,7 @@ Dwikora向記者表示：「每年我哋都會發布一份通函（包含PHDI法
 
 總之，峇里島嘅寧靜日係一個獨特而神聖嘅節日，遊客喺參與時應尊重當地嘅傳統同規定。提前規劃同了解相關規則，將有助於確保您嘅旅程順利且愉快。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fe2ab68b5c5fa3bae8679caf88ac3b2b.jpg)
+![提前準備嘅重要性](https://images.gobaligo.id/vocus/vocus_fe2ab68b5c5fa3bae8679caf88ac3b2b.jpg)
 
 ## 峇里島寧靜日（Nyepi Day）常見問題解答（FAQ）
 

@@ -85,7 +85,7 @@ The highlight of the day was the Mount Batur sunrise tour. We rode a jeep throug
 
 Volcano sunrise / Black volcanic lava
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_068e3f341e55646489c9b84c8f8b19f9.jpg)
+![Mount Batur Sunrise Jeep Tour](https://images.gobaligo.id/vocus/vocus_068e3f341e55646489c9b84c8f8b19f9.jpg)
 
 **Tip**: Remember to wear a long-sleeved jacket, as the early morning temperatures at the summit are quite chilly. We only wore shorts and T-shirts and were shivering from the cold, but this experience became an unforgettable memory.
 
@@ -200,7 +200,7 @@ After our visit to the rice terraces, we headed to Jimbaran Beach for dinner. Wi
 
 **Admission Fee**: $10 USD
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f7365ccab1629758df838b22b7d55cb3.jpg)
+![Tanah Lot Temple](https://images.gobaligo.id/vocus/vocus_f7365ccab1629758df838b22b7d55cb3.jpg)
 
 In the morning, we set out early to avoid traffic and arrived smoothly at Tanah Lot Temple. This structure sits on a rock in the sea, and during high tide, the entire temple is surrounded by water, creating a breathtaking and unique sight. It's an unmissable landmark in Bali. We took many photos and felt the beauty of nature intertwined with religion.
 
@@ -219,7 +219,7 @@ At noon, our driver took us to a local-recommended Babi Guling restaurant. The p
 
 **Minimum Spend**: Approximately $45 USD per person (can be used for food and drinks)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9e56de4fed9244834cd98822ed579110.jpg)
+![Rock Bar](https://images.gobaligo.id/vocus/vocus_9e56de4fed9244834cd98822ed579110.jpg)
 
 Rock Bar is one of Bali's most famous cliffside bars, perched on a seaside cliff overlooking the Indian Ocean. We arrived at 5 PM and secured a great spot to enjoy the magnificent sunset while sipping on the bar's signature cocktails. With the sound of waves and the sunset view, the atmosphere here is unforgettable and incredibly romantic.
 
@@ -252,7 +252,7 @@ If you plan to participate in Tanjung Benoa water sports, don’t make the same 
 
 This stretch of road is flanked by towering cliffs, offering breathtaking scenery that is one of Bali's most stunning attractions, leaving visitors in awe.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dfb4281a0aa43733669ec08ef1cb4e0b.jpg)
+![Blue Road](https://images.gobaligo.id/vocus/vocus_dfb4281a0aa43733669ec08ef1cb4e0b.jpg)
 
 🏖️🪨🌊 Explore the beauty of the Blue Road cliffs, where the dramatic landscapes make every shot an Instagram-worthy moment! ▶[Klook Deals](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F114124-tanah-barak-cliff-garuda-wisnu-kencana-malini-sunset-tour-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8aad5d46e9)
 
@@ -314,7 +314,7 @@ We are grateful to Ok Bali, our driver and guide, for his professional service d
 
 Do you find Gao Rongfan's itinerary exciting? Start planning your own Bali adventure now! We also welcome everyone to share your itineraries in our community!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Conclusion](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Click here to read more exciting Bali travelogues
 

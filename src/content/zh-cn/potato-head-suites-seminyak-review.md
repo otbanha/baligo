@@ -45,21 +45,21 @@ Potato Head Suites & Studios 迎宾大厅
 
 房间中央摆放了一张大床，床边设有电视和大窗户，窗外自然光线洒入，让空间更加明亮。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f2c95d81b00912f89eccd75dd5d7acf7.jpg)
+![【水明漾酒店推荐】Potato Head Suites & Studios住宿体验分享](https://images.gobaligo.id/vocus/vocus_f2c95d81b00912f89eccd75dd5d7acf7.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_86eaf7a5d1e0e482b08f8910ca4d552f.jpg)
+![【水明漾酒店推荐】Potato Head Suites & Studios住宿体验分享](https://images.gobaligo.id/vocus/vocus_86eaf7a5d1e0e482b08f8910ca4d552f.jpg)
 
 床尾还设有一个小沙发和座位区，另外还有一个小阳台，虽然空间不大，但足够晾晒衣物和毛巾。
 
 房间连接着一间宽敞的浴室，配置非常完善，除了大面积的洗手台，还有由当地回收瓶制成的环保备品。浴室內的大型花洒淋浴设备，配有免费的洗发精、护发素和沐浴露，让人可以舒适地享受洗浴时光。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_03c56be8f36ad023774da57abc8e471b.jpg)
+![【水明漾酒店推荐】Potato Head Suites & Studios住宿体验分享](https://images.gobaligo.id/vocus/vocus_03c56be8f36ad023774da57abc8e471b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9050d7cd284b1b6474c85a728582bf48.jpg)
+![【水明漾酒店推荐】Potato Head Suites & Studios住宿体验分享](https://images.gobaligo.id/vocus/vocus_9050d7cd284b1b6474c85a728582bf48.jpg)
 
 值得一提的是，房内还设有书桌，方便需要办公的旅客。此外，他们提供了免费的饮水、冰茶和咖啡设备，还有一套鸡尾酒调制用具。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fea2bcd678f3f5cff498351b47eb41bd.jpg)
+![【水明漾酒店推荐】Potato Head Suites & Studios住宿体验分享](https://images.gobaligo.id/vocus/vocus_fea2bcd678f3f5cff498351b47eb41bd.jpg)
 
 ![房間裡居然有冰桶！](https://images.gobaligo.id/vocus/vocus_a96796d1f73432da32150eda85492971.jpg)
 
@@ -67,7 +67,7 @@ Potato Head Suites & Studios 迎宾大厅
 
 酒店更贴心地准备了「零废弃」小套组，包括防晒乳、消毒酒精等用品，且可随时补充，非常环保。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_04d14622aa32d95291b796ecaed54b35.jpg)
+![【水明漾酒店推荐】Potato Head Suites & Studios住宿体验分享](https://images.gobaligo.id/vocus/vocus_04d14622aa32d95291b796ecaed54b35.jpg)
 
 整个房间的木质和自然美学让人感受到细腻的设计理念。酒店内还有多家餐厅和一间屋顶酒吧，我们在这里享用了几杯调酒和小吃，欣赏傍晚的美景后，才回房享用晚餐。
 
@@ -75,9 +75,9 @@ Potato Head Suites & Studios 迎宾大厅
 
 除了丰富的餐饮选择，酒店内设施齐全，包括水疗中心和健身房。当然，入住这里最重要的原因是Potato Head Beach Club。作为住客，我们可以随时前往沙滩俱乐部，享受无边泳池，并使用其中的休息区。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9bfa3048a2d0683c68a4fce83ed210f3.jpg)
+![【水明漾酒店推荐】Potato Head Suites & Studios住宿体验分享](https://images.gobaligo.id/vocus/vocus_9bfa3048a2d0683c68a4fce83ed210f3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_905b2082439f71892d4a0ab1d2232208.jpg)
+![【水明漾酒店推荐】Potato Head Suites & Studios住宿体验分享](https://images.gobaligo.id/vocus/vocus_905b2082439f71892d4a0ab1d2232208.jpg)
 
 我们在这里度过了难忘的黄昏时刻，看着太阳缓缓落下，天际染上各种美丽的色彩。这次的住宿体验十分愉快，我们玩得非常开心，也期待有机会再回来Potato Head Suites & Studios，再次享受这里的独特魅力。
 

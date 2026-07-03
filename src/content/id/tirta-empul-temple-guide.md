@@ -45,7 +45,7 @@ https://youtube.com/shorts/fiYs5GKdINU
 
 ## Apa Itu Ritual Penyucian Melukat? Bisa Diikuti Non-Hindu?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5ba2abc7963542e2253bb38ebb3360ef.jpg)
+![Apa Itu Ritual Penyucian Melukat? Bisa Diikuti Non-Hindu?](https://images.gobaligo.id/vocus/vocus_5ba2abc7963542e2253bb38ebb3360ef.jpg)
 
 Melukat adalah ritual penyucian dalam agama Hindu Bali, di mana peserta berjalan melewati 26 pancuran air suci sambil berdoa dan menyiram diri untuk membersihkan jiwa.
 
@@ -84,13 +84,13 @@ Air pancuran yang sejuk bening mengalir ke seluruh tubuh, rasanya seperti mengha
 
 **Halaman Luar (Jaba Pura)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3f2cc19c62eca50170a62be966baf1f4.jpg)
+![Mengenal Tiga Area Utama Tirta Empul](https://images.gobaligo.id/vocus/vocus_3f2cc19c62eca50170a62be966baf1f4.jpg)
 
 Setelah masuk gerbang pura, kamu langsung sampai di halaman luar. Ada kolam ikan koi yang tenang dan dikelilingi tanaman hijau — cocok banget buat meditasi atau sekadar menenangkan pikiran.
 
 **Halaman Tengah (Jaba Tengah)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4700e8862974289fdc9dfce583117aec.jpg)
+![Mengenal Tiga Area Utama Tirta Empul](https://images.gobaligo.id/vocus/vocus_4700e8862974289fdc9dfce583117aec.jpg)
 
 Ini area utama untuk ritual penyucian. Ada dua kolam besar dengan 26 sumber mata air, dan setiap sumber punya makna doa yang berbeda-beda.
 
@@ -104,7 +104,7 @@ Catatan: beberapa sumber air (misalnya Tirta Pengentas) hanya digunakan untuk up
 
 **Halaman Dalam (Jeroan)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_623a206ab810a4a260d720844b62f5f3.jpg)
+![Mengenal Tiga Area Utama Tirta Empul](https://images.gobaligo.id/vocus/vocus_623a206ab810a4a260d720844b62f5f3.jpg)
 
 Area paling sakral, ada pura utama dan sumber mata air. Tempat ini dipakai untuk duduk hening dan berdoa setelah selesai menjalani ritual Melukat. Biasanya non-Hindu tidak disarankan masuk sembarangan.
 
@@ -156,7 +156,7 @@ Alamat: Kecamatan Tampaksiring, Gianyar, Bali
 
 ## Aturan Berpakaian & Tata Cara Sembahyang
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_de538df8b6d201321be97e49b49d502a.jpg)
+![Aturan Berpakaian & Tata Cara Sembahyang](https://images.gobaligo.id/vocus/vocus_de538df8b6d201321be97e49b49d502a.jpg)
 
 **Wajib pakai:**
 

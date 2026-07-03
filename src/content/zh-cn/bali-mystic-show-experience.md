@@ -17,9 +17,9 @@ lang: zh-cn
 _srcHash: 513677da4b0f87836b56d2d2da9ea052
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eba6378e6e692848f0831daf792f90f3.jpg)
+![巴厘岛最震撼大型歌舞秀登场：走进《Bali Mystic》的沉浸式神话世界](https://images.gobaligo.id/vocus/vocus_eba6378e6e692848f0831daf792f90f3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4c03f221b8a64ddfdcba5a3e601aba15.png)
+![巴厘岛最震撼大型歌舞秀登场：走进《Bali Mystic》的沉浸式神话世界](https://images.gobaligo.id/vocus/vocus_4c03f221b8a64ddfdcba5a3e601aba15.png)
 
 巴厘岛不仅拥有迷人的海滩与丰富的文化，现在更迎来了一场前所未有的视觉与听觉盛宴——**《Bali Mystic》**。这场融合传统与现代的沉浸式大型表演，于 Nuanu Creative City 的 **Labyrinth Arts Centre** 隆重登场，带领观众穿越时空，体验神话与艺术的交织。
 
@@ -91,7 +91,7 @@ Nuanu Creative City 是一个融合永续、艺术与科技的创意社区，距
 
 ## 更多Nuanu Creative City景点
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d1b9756c666257aa52804cadea6bbadb.jpg)
+![更多Nuanu Creative City景点](https://images.gobaligo.id/vocus/vocus_d1b9756c666257aa52804cadea6bbadb.jpg)
 
 Nuanu Creative City是巴厘岛最新崛起的创意园区，并推动零碳排放，成为巴厘岛最新可持续旅游地标。现在已经开始吸引全球创意人士，成为下一个必访热点！
 

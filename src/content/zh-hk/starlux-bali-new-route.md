@@ -28,7 +28,7 @@ _srcHash: 74364af26afe130e315903b7a9874490
 
 最近航空圈又有一則讓人眼前一亮嘅消息——星宇航空即將正式開航「台北－峇里島」直飛航線，已經唔係「空穴來風」嘅消息啦！
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775438725248-660291592_1547503330709366_2891419081085825981_n.jpg)
+![直飛夢成真？星宇航空即將開航「峇里島」新航線最新解析](https://images.gobaligo.id/images/2026-04/1775438725248-660291592_1547503330709366_2891419081085825981_n.jpg)
 
 對於長期關注峇里島旅遊嘅人嚟講，呢條線其實早就被預期會出現，但而家終於有更具體嘅輪廓啦。
 
@@ -40,11 +40,11 @@ _srcHash: 74364af26afe130e315903b7a9874490
 - ✨航班頻率：每週 5 班
 - ✨執飛機型：A321neo。將經濟艙標準拉得好高嘅機型
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774965491151-330cabin1010px674_tcm5-5195.jpg)
+![最新消息整理](https://images.gobaligo.id/images/2026-03/1774965491151-330cabin1010px674_tcm5-5195.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774965491471-sin4_tcm5-6419_w616_h411_n.jpg)
+![最新消息整理](https://images.gobaligo.id/images/2026-03/1774965491471-sin4_tcm5-6419_w616_h411_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774965491827-starlux-a330neo-economy-class-6.jpeg)
+![最新消息整理](https://images.gobaligo.id/images/2026-03/1774965491827-starlux-a330neo-economy-class-6.jpeg)
 
 此外，先前市場與公司規劃中就已多次提到，峇里島本來就喺星宇航空嘅擴張藍圖中。
 
@@ -71,7 +71,7 @@ _srcHash: 74364af26afe130e315903b7a9874490
 
 星宇加入後，好可能會直接切入「高品質度假飛行體驗」呢一塊。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775616099905-_2026-04-08_09.41.18.png)
+![3⃣ 市場競爭將更有睇頭](https://images.gobaligo.id/images/2026-04/1775616099905-_2026-04-08_09.41.18.png)
 
 ## ✍️我哋嘅觀察
 

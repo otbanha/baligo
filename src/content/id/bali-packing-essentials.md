@@ -29,13 +29,13 @@ _srcHash: 70c55e2aa9622646b6a068bab2eecef5
 
 Cuaca Bali gerah, pakaian katun atau linen bisa nyerap keringat dengan cepat dan bikin tetap sejuk. Pilih model longgar biar badan lebih lega.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a6b46fd51ba6d985a07cb61791313f0a.jpg)
+![1. Bahan katun atau linen yang tipis dan adem](https://images.gobaligo.id/vocus/vocus_a6b46fd51ba6d985a07cb61791313f0a.jpg)
 
 ### **2. Baju renang dan outer/kimono tipis**
 
 Mau ke pantai, kolam renang, atau main air, baju renang jelas wajib banget. Paduin dengan outer tipis biar tetap sopan di tempat umum.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f8cb19086d47180f21ac0f6848ebd3e.jpg)
+![2. Baju renang dan outer/kimono tipis](https://images.gobaligo.id/vocus/vocus_9f8cb19086d47180f21ac0f6848ebd3e.jpg)
 
 ### **3. Sandal pantai dan sendal nyaman**
 
@@ -49,25 +49,25 @@ Malam hari atau di ruangan ber-AC mungkin perlu jaket tipis. Juga, pas ke pura, 
 
 ### **5. Topi dan Kacamata Hitam**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e75dcedd23563598fbcc7650921fd693.jpg)
+![5. Topi dan Kacamata Hitam](https://images.gobaligo.id/vocus/vocus_e75dcedd23563598fbcc7650921fd693.jpg)
 
 Matahari di Bali terik banget, topi dan kacamata hitam bisa lindungi kulit dan mata, plus bikin gaya makin kece.
 
 ### **6. Selendang atau Syal**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f738266f27e5ef1f771b5f6ce8ab836.jpg)
+![6. Selendang atau Syal](https://images.gobaligo.id/vocus/vocus_9f738266f27e5ef1f771b5f6ce8ab836.jpg)
 
 Syal ini multifungsi, bisa jadi outer anti-sinar matahari, alas pantai, atau penutup di pura — super praktis.
 
 ### **7. Baju Olahraga atau Yoga yang Nyaman**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6237cbb3b9b8e7fbbff80595b763db1c.jpg)
+![7. Baju Olahraga atau Yoga yang Nyaman](https://images.gobaligo.id/vocus/vocus_6237cbb3b9b8e7fbbff80595b763db1c.jpg)
 
 Bali terkenal dengan yoga dan meditasi, baju olahraga ringan bisa dipakai buat kelas atau jalan pagi.
 
 ### **8. Rok Panjang**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_09ba60a375fe418b2affec49a430d379.jpg)
+![8. Rok Panjang](https://images.gobaligo.id/vocus/vocus_09ba60a375fe418b2affec49a430d379.jpg)
 
 Rok panjang adem dan flowy, bikin anggun; cocok dipakai di pasar, restoran, atau pas sembahyang di pura. Perpaduan gaya dan fungsi, wajib punya buat cewek traveler.
 
@@ -101,11 +101,11 @@ Kalau traveling di musim hujan (November–Maret), bawa jas hujan tipis atau jak
 
 Di pulau tropis, kesempatan main air banyak banget. Minimal bawa dua set baju renang biar gampang ganti dan cuci.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_208a55db1381471b5ef0c2d0ce4155f9.png)
+![5. Berapa banyak baju renang yang ideal?](https://images.gobaligo.id/vocus/vocus_208a55db1381471b5ef0c2d0ce4155f9.png)
 
 ### 6. Kapan perlu jaket hangat?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ca6860ca39548567bb5b9b78723ab08.png)
+![6. Kapan perlu jaket hangat?](https://images.gobaligo.id/vocus/vocus_6ca6860ca39548567bb5b9b78723ab08.png)
 
 Kalau tujuanmu di Bali dataran rendah atau daerah Ubud, kamu nggak perlu jaket hangat. Cuma yang ikut sunrise trekking atau jeep gunung berapi dini hari, suhu di puncak bisa cuma belasan derajat, baru perlu jaket anti-angin/hangat.
 

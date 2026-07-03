@@ -22,7 +22,7 @@ _srcHash: e6d10cf550909b9bcb9287fd096c09a0
 
 ## **魔術找換店嘅點鈔手藝**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f72c79c18a0688540bdd57dd45f5fad.png)
+![魔術找換店嘅點鈔手藝](https://images.gobaligo.id/vocus/vocus_9f72c79c18a0688540bdd57dd45f5fad.png)
 
 路邊匯率高得離譜嘅細舖，成日利用「快手點鈔」喺視線死角抽走銀紙。請記住，異常高嘅匯率幾乎等於百分百嘅騙局。建議只去有門面嘅正規店，而且換完錢一定要喺櫃檯親自慢慢數一次，唔好因為唔好意思就急住收錢。
 

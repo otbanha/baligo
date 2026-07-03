@@ -40,7 +40,7 @@ Kalau ngomongin Bali, kebanyakan orang pasti langsung kebayang laut biru yang lu
 
 Di sana, tersembunyi dunia fantasi yang jarang diketahui turis — **Bali Reptile Park**.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780413643143-unnamed_5_.webp)
+![【Tempat Wisata Keluarga di Bali】Panduan Bali Reptile Park: L](https://images.gobaligo.id/images/2026-06/1780413643143-unnamed_5_.webp)
 
 Ini bukan sekadar kebun binatang biasa. Tempat ini lebih kayak museum hidup yang merangkum ekosistem reptil dari seluruh kepulauan Indonesia. Yang lebih keren lagi, lokasinya **tepat di sebelah Bali Bird Park**, satu parkiran, tinggal jalan kaki beberapa langkah aja udah bisa pindah suasana dari 'dunia hewan melata yang sunyi' ke 'surga burung warna-warni'. Kalau waktunya diatur pas, kamu pasti bisa main di dua kerajaan hewan yang beda banget tapi sama-sama seru ini!
 
@@ -60,7 +60,7 @@ Kalau nggak ada penghuni utamanya, sebagus apa pun tempatnya cuma jadi latar kos
 
 1. **Komodo Dragon (Komodo)** : Jelas ini bintang utamanya!
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780413770216-1.jpeg)
+![Deretan 'Bintang Utama' yang Gak Boleh Dilewatkan](https://images.gobaligo.id/images/2026-06/1780413770216-1.jpeg)
 
 ```plain
 這是全世界現存最大的蜥蜴，成年體長可達 3 公尺，體重超過 70 公斤。牠們是印尼的國寶級動物，僅分布在科莫多島、林卡島等少數幾個島嶼。在專業飼育員的陪伴與解說下，你可以隔著玻璃近距離觀察牠們如何吐著分岔的舌頭探測氣味，那威嚴的神情、緩慢卻充滿力量感的步伐，真的會讓你聯想到電影裡的恐龍。看著牠們一動也不動地曬太陽，或是突然起身走動，那股與史前生物面對面的震撼，絕對讓你難以忘懷。
@@ -71,7 +71,7 @@ Kalau nggak ada penghuni utamanya, sebagus apa pun tempatnya cuma jadi latar kos
 
 2. **Ular Sanca Kembang (Reticulated Python)** : Panjangnya bisa sampai **6 meter lebih**, salah satu ular terpanjang di dunia.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780413804687-2.webp)
+![Deretan 'Bintang Utama' yang Gak Boleh Dilewatkan](https://images.gobaligo.id/images/2026-06/1780413804687-2.webp)
 
 ```plain
 園區內有幾條巨大無比的個體，當牠們蜷曲在樹上或水池邊時，那粗壯的身軀會讓你重新定義「蛇」這個概念。想像一下，牠的身體比你的大腿還粗！雖然隔著玻璃，但當牠緩慢滑行時，那種無聲的壓迫感，保證讓你心跳加速。如果你膽子夠大，園區也有提供安全的互動體驗，讓你在飼育員協助下觸摸牠們光滑的鱗片。
@@ -80,7 +80,7 @@ Kalau nggak ada penghuni utamanya, sebagus apa pun tempatnya cuma jadi latar kos
 
 3. **Buaya Air Asin (Saltwater Crocodile)** : Salah satu reptil terbesar yang masih hidup, predator puncak di perairan.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780413833485-3.webp)
+![Deretan 'Bintang Utama' yang Gak Boleh Dilewatkan](https://images.gobaligo.id/images/2026-06/1780413833485-3.webp)
 
 ```plain
 這裡飼養的鹹水鱷體型驚人，部分個體長度接近 6 米。牠們大多時間像是木頭般漂浮在水中，但當牠們猛然張開大嘴，露出滿口鋒利的牙齒，或是突然躍出水面搶食時，那種爆發力絕對會讓你倒抽一口涼氣。你可以在安全的觀賞平台，感受來自遠古時代的殺戮本能。
@@ -89,7 +89,7 @@ Kalau nggak ada penghuni utamanya, sebagus apa pun tempatnya cuma jadi latar kos
 
 4. **Beragam Ular Berbisa & Kadal** :
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780413856719-4.webp)
+![Deretan 'Bintang Utama' yang Gak Boleh Dilewatkan](https://images.gobaligo.id/images/2026-06/1780413856719-4.webp)
 
 ```plain
 園區內還收藏了印尼特有的各種毒蛇，包括色彩鮮艷的黃環林蛇、具有劇毒的印尼竹葉青等。對於兩棲爬蟲愛好者來說，這裡簡直是天堂。此外，來自美洲的綠鬣蜥、傘蜥，以及張著大嘴威嚇敵人的澳洲魔蜥，同樣讓人看得目不轉睛。
@@ -98,7 +98,7 @@ Kalau nggak ada penghuni utamanya, sebagus apa pun tempatnya cuma jadi latar kos
 
 5. **Kura-kura Raksasa & Biawak Air** : Dibandingkan dengan yang sebelumnya yang 'galak', kura-kura Aldabra dan kura-kura Sulcata jauh lebih ramah. Mereka jalan santai di dalam kandang, kadang penasaran mendekati pengunjung. Sedangkan biawak air adalah 'tukang bersih-bersih' di taman ini, lincah banget, sering terlihat berenang atau manjat pohon buat jemur.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780413886060-5.webp)
+![Deretan 'Bintang Utama' yang Gak Boleh Dilewatkan](https://images.gobaligo.id/images/2026-06/1780413886060-5.webp)
 
 ## Pengalaman Interaksi yang Unik
 
@@ -110,7 +110,7 @@ Di jam tertentu (atau kamu bisa tanya langsung ke staf), dengan panduan dari paw
 
 Ngomong-ngomong, kalau waktunya pas, jangan sampai kelewatan **sesi makan**-nya. Lihat langsung buaya yang tiba-tiba melompat dari air buat nyamber ayam, atau komodo yang pakai lidah bercabangnya buat menangkap mangsa dengan presisi—kamu bakal saksikan langsung wajah asli predator puncak rantai makanan: kejam tapi juga bikin terpesona.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780413924517-mixcollage-02-jun-2026-10-20-pm-7634.jpg)
+![Pengalaman Interaksi yang Unik](https://images.gobaligo.id/images/2026-06/1780413924517-mixcollage-02-jun-2026-10-20-pm-7634.jpg)
 
 ## Info Praktis: Tiket, Transportasi & Waktu Terbaik
 
@@ -127,7 +127,7 @@ Ngomong-ngomong, kalau waktunya pas, jangan sampai kelewatan **sesi makan**-nya.
     - **Sewa mobil / Taksi**: Paling recommended. Soalnya tempat ini agak jauh dari pusat kota, dan susah nyari kendaraan buat pulang. Sewa mobil sehari (sekitar 10 jam) biasanya IDR 600.000 - 800.000 (sekitar USD$19-26), sopir bakal nunggu di parkiran — super praktis.
     - **Grab / Gojek**: Kalau cuma mau ke sini doang, bisa juga panggil ojek. Tapi ingat, pas pulang **wajib buka APP dari jauh-jauh hari** karena kendaraan di sini nggak sebanyak di pusat kota, kadang harus nunggu 15-30 menit.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780413958064-map-brp.jpg)
+![Info Praktis: Tiket, Transportasi & Waktu Terbaik](https://images.gobaligo.id/images/2026-06/1780413958064-map-brp.jpg)
 
 ## Panduan Ultimate: Satu Hari Dua Taman! Gimana Cara Aturnya?
 

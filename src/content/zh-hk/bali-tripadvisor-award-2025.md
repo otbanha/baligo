@@ -21,7 +21,7 @@ _srcHash: 1f608179e1e3bff84665fa7172f9f378
 
 呢項年度大獎根據真實嘅旅遊評論同趨勢，對全球最受歡迎嘅目的地、酒店、海灘同景點進行排名。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f6b09dd27d34eaf21082f597b6750950.jpg)
+![【2025年亞洲第一旅遊目的地】峇里島喺TripAdvisor 2025旅行者之選大獎中大放異彩](https://images.gobaligo.id/vocus/vocus_f6b09dd27d34eaf21082f597b6750950.jpg)
 
 ## 峇里島蟬聯全球第二熱門旅遊地點
 

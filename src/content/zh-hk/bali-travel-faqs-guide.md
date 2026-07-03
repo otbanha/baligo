@@ -30,7 +30,7 @@ _srcHash: 4c75a021cf69bef0b6d672dbfabb1931
 
 峇里島係屬於印尼嘅一個島嶼，地理位置喺東南亞。呢個島嶼四面環海，西面同爪哇島相鄰，東面就靠近龍目島（Lombok）。由於極具特色，而且有好多唔同嘅面貌，峇里島成為咗東南亞熱門嘅度假勝地，每年都吸引咗世界各地嘅旅客。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e14497d695ce945e47d1b8738cd5faa6.gif)
+![1.峇里島喺邊？點去？](https://images.gobaligo.id/vocus/vocus_e14497d695ce945e47d1b8738cd5faa6.gif)
 
 台灣、香港、中國、馬來西亞、新加坡、越南、南韓、日本、澳洲...等國家都有直航機。
 
@@ -50,7 +50,7 @@ ps. 台灣嘅長榮、華航都有直航機
 
 對旅客嚟講，學幾句簡單嘅印尼話詞彙，例如「你好」（Halo）、「多謝」（Terima kasih），會令溝通更加有趣同融洽。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7fea812488c6425afb80a94c229ae2dc.png)
+![3.峇里島人會唔會講英文？](https://images.gobaligo.id/vocus/vocus_7fea812488c6425afb80a94c229ae2dc.png)
 
 ***
 
@@ -66,7 +66,7 @@ ps. 台灣嘅長榮、華航都有直航機
 
 峇里島位於赤道附近，屬於熱帶季風氣候，全年溫暖潮濕。天氣分為兩個主要季節：乾季同雨季，唔同嘅氣候特色令峇里島適合全年旅遊，不過根據季節嘅唔同，旅行體驗都會有啲唔同。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6e7fac42f701496457dff00feb523003.png)
+![5.峇里島嘅天氣點樣？咩月份去峇里島最好？](https://images.gobaligo.id/vocus/vocus_6e7fac42f701496457dff00feb523003.png)
 
 **乾季（5月至10月）**
 
@@ -128,7 +128,7 @@ https://youtube.com/shorts/bqtCP1YoKCM
 
 ## 8.峇里島嘅宗教係咩？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b900673e23545a0548d0a63419bc8b0f.jpg)
+![8.峇里島嘅宗教係咩？](https://images.gobaligo.id/vocus/vocus_b900673e23545a0548d0a63419bc8b0f.jpg)
 
 峇里島嘅主流宗教係峇里島印度教（Balinese Hinduism），呢種係一種融合咗印度教、佛教同當地傳統信仰嘅獨特宗教。峇里島嘅居民日常生活中充滿咗各種宗教活動同儀式，寺廟隨處可見，並經常舉行祭祀、舞蹈同典禮。旅行者如果有機會參加當地嘅宗教節慶，例如「寧靜日」（Nyepi）或者「卡隆安節」（Galungan），可以深刻感受到呢座島嶼嘅文化魅力。
 
@@ -230,7 +230,7 @@ https://youtu.be/GivvqCXp11A
 
 喺峇里島旅行，交通係旅遊計劃中不可忽略嘅一部分。由於公共交通系統唔發達，遊客通常需要依賴其他交通方式嚟移動，以下為常見嘅遊客交通選項同建議，幫助你選擇最適合嘅交通安排。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8fccd4d96905da3df4d1ea5d85f185f4.png)
+![16.峇里島交通指南：如何規劃你嘅交通安排](https://images.gobaligo.id/vocus/vocus_8fccd4d96905da3df4d1ea5d85f185f4.png)
 
 **1. 包車 🚗**
 
@@ -254,7 +254,7 @@ https://youtube.com/shorts/9uSjE2FVGQs
 
 ## 17.峇里島點樣去周邊嘅島嶼（例如Nusa Penida）？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_535739e26a4d002cb0ccb5f6620b1eeb.jpg)
+![17.峇里島點樣去周邊嘅島嶼（例如Nusa Penida）？](https://images.gobaligo.id/vocus/vocus_535739e26a4d002cb0ccb5f6620b1eeb.jpg)
 
 由峇里島要去到努沙佩尼達島(Nusa Penida)或者藍夢島(Nusa Lembongan)同其他周邊島嶼，我嚟為你介紹幾種主要嘅交通方式：
 
@@ -309,7 +309,7 @@ https://youtube.com/shorts/9uSjE2FVGQs
 
 ## 19.點樣喺峇里島慳錢旅遊？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c795af0f5b6014135ec5f32377cd075e.jpg)
+![19.點樣喺峇里島慳錢旅遊？](https://images.gobaligo.id/vocus/vocus_c795af0f5b6014135ec5f32377cd075e.jpg)
 
 旅遊最忌諱嘅就係亂使錢，尤其係計劃旅程嗰陣，點樣精打細算就顯得格外重要！點樣令每一分錢都使得值得？點樣用最實惠嘅方式，享受最正嘅旅遊體驗？唔使擔心，我哋已經為你準備咗一份超實用嘅指南——「[峇里島旅遊慳錢大作戰](/blog/bali-travel-money-saving-tips/)」！呢篇文章唔單止教你避開常見嘅消費陷阱，仲會分享好多實用嘅慳錢技巧，令你輕鬆掌握峇里島嘅旅遊秘訣，玩得盡興又唔傷荷包！準備好筆記本，開始記低重點啦！
 
@@ -317,7 +317,7 @@ https://youtube.com/shorts/9uSjE2FVGQs
 
 ## 20.峇里島旅遊應該準備幾多現金？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ae701b59f0e6834d794a3ce752ddd57c.jpg)
+![20.峇里島旅遊應該準備幾多現金？](https://images.gobaligo.id/vocus/vocus_ae701b59f0e6834d794a3ce752ddd57c.jpg)
 
 「峇里島旅遊要準備幾多現金？」、「要帶幾多美金？」 類似咁樣嘅問題經常困擾住計劃前往呢個印尼度假勝地嘅旅客。關於幾時要用到現金？點樣預算？剩低嘅錢點算？請睇[呢度](/blog/bali-travel-cash-budget-guide/)嘅專文介紹。
 
@@ -367,7 +367,7 @@ https://youtube.com/shorts/9uSjE2FVGQs
 
 ## 24.峇里島應該住邊度？搵到適合你嘅完美住宿選擇
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_333c7ad510beaeaff91125d2978ebacd.png)
+![24.峇里島應該住邊度？搵到適合你嘅完美住宿選擇](https://images.gobaligo.id/vocus/vocus_333c7ad510beaeaff91125d2978ebacd.png)
 
 峇里島擁有豐富多樣嘅住宿選擇，無論係追求奢華度假體驗、舒適經濟嘅家庭旅館，抑或係風格獨特嘅villa同精品酒店，呢度都有。以下為大家介紹幾種主題嘅峇里島住宿選擇，幫你根據旅行預算同需求選擇最適合嘅住宿地點！
 
@@ -410,7 +410,7 @@ https://youtube.com/shorts/9uSjE2FVGQs
 
 ## 27.如何規劃我嘅峇里島旅遊/自由行？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ce0c50926fe0cd89378977456e91a1af.png)
+![27.如何規劃我嘅峇里島旅遊/自由行？](https://images.gobaligo.id/vocus/vocus_ce0c50926fe0cd89378977456e91a1af.png)
 
 如果你嘅偏好係自由行，但係唔知要點樣規劃一場完美嘅峇里島自由行，唔使擔心，我哋已經為你準備咗一套簡單又實用嘅指南！
 
@@ -445,7 +445,7 @@ https://youtube.com/shorts/9uSjE2FVGQs
 
 ## 31.峇里島有咩熱門嘅水上活動？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_05ba6b98fa4c1f329f2c5eb93f193129.png)
+![31.峇里島有咩熱門嘅水上活動？](https://images.gobaligo.id/vocus/vocus_05ba6b98fa4c1f329f2c5eb93f193129.png)
 
 Tanjung Benoa，俗稱「南灣」，係成個峇里島水上活動嘅大本營。呢度係極富活力嘅海域，提供各種令人興奮嘅水上活動，俾遊客帶嚟一場無與倫比嘅冒險之旅。電單車艇嘅疾速掠過湛藍海水，讓人感受到風嘅狂野，而滑翔傘冒險則帶您從高空俯瞰成片美麗嘅海景，將驚奇同蔚藍融為一體。香蕉船同甜甜圈船則係提供快節奏樂趣嘅水上活動，適合家庭同朋友們一齊享受。
 
@@ -471,7 +471,7 @@ https://youtube.com/shorts/arOR8IvtHbc
 
 ## 33.峇里島有咩熱門嘅海灘俱樂部？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_850eb2925050176d0463fbee0ea88218.jpg)
+![33.峇里島有咩熱門嘅海灘俱樂部？](https://images.gobaligo.id/vocus/vocus_850eb2925050176d0463fbee0ea88218.jpg)
 
 去峇里島冇至少安排一次海灘俱樂部，就無法感受到島嶼生活嘅浪漫同熱情！
 
@@ -485,7 +485,7 @@ __VID0__
 
 ## 34.峇里島有冇適合家庭親子遊？有冇小朋友嘅遊樂設施？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_201dc0764066ffc9c1748b2b07b9146b.png)
+![34.峇里島有冇適合家庭親子遊？有冇小朋友嘅遊樂設施？](https://images.gobaligo.id/vocus/vocus_201dc0764066ffc9c1748b2b07b9146b.png)
 
 帶住小朋友去峇里島旅行嘅家長一定會好奇：呢個以浪漫同冒險聞名嘅度假天堂，係咪都適合全家一齊探索呢？答案係肯定嘅！🌟 峇里島唔單止有靚嘅海灘同豐富嘅自然景觀，仲提供咗好多適合小朋友嘅遊樂設施同活動，等大人細路都可以玩得開心。由水上樂園、動物園到充滿創意嘅兒童俱樂部，無論係活潑好動嘅小朋友，定係鍾意動手創作嘅小藝術家，呢度都可以搵到適合嘅娛樂選擇。跟住落嚟，就等我哋一齊睇下峇里島有咩親子友善嘅遊樂設施啦：
 
@@ -495,7 +495,7 @@ __VID0__
 
 ## 35.峇里島適唔適合蜜月或者情侶旅行？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_18ac60275d0b16dc639f5bf20fc415e4.png)
+![35.峇里島適唔適合蜜月或者情侶旅行？](https://images.gobaligo.id/vocus/vocus_18ac60275d0b16dc639f5bf20fc415e4.png)
 
 **答案係肯定嘅！峇里島絕對係蜜月同情侶旅行嘅理想目的地之一**，呢座充滿浪漫氣息嘅島嶼，以其美麗嘅自然風光、頂級嘅奢華度假村，同埋令人難忘嘅獨特體驗，成為全球情侶夢寐以求嘅旅遊勝地。無論你哋係熱愛大自然嘅冒險者，定係鍾意享受寧靜時光嘅情侶，峇里島都可以滿足你哋嘅需求。
 
@@ -505,7 +505,7 @@ __VID0__
 
 ## 36.峇里島適唔適合帶長輩去？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_25b835ce8ad2399a37d2c5e8dc188850.jpg)
+![36.峇里島適唔適合帶長輩去？](https://images.gobaligo.id/vocus/vocus_25b835ce8ad2399a37d2c5e8dc188850.jpg)
 
 峇里島適唔適合帶長輩一齊去？答案係當然可以！呢座島嶼唔單止係情侶同親子旅遊嘅熱門地點，對於長輩嚟講更加提供咗舒適又多元嘅旅遊體驗。峇里島嘅節奏悠閒，有好多適合長輩嘅活動同景點，例如可以放鬆身心嘅溫泉療養、靜謐嘅田園風光，同埋充滿文化氣息嘅傳統舞蹈表演。此外，島上嘅高級餐廳、方便嘅交通接駁服務同貼心嘅酒店設施，亦都令帶長輩出遊變得更加輕鬆。如果你計劃同家中嘅長輩一齊旅行，峇里島無疑係個理想嘅選擇！
 
@@ -519,7 +519,7 @@ __VID0__
 
 ## 37.峇里島嘅夜生活點樣？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a17055031b6d408c29d2c9673ec82a8f.jpg)
+![37.峇里島嘅夜生活點樣？](https://images.gobaligo.id/vocus/vocus_a17055031b6d408c29d2c9673ec82a8f.jpg)
 
 如果你係想搵個地方狂歡成晚，峇里島嘅庫塔同水明漾就啱晒你喇！
 
@@ -530,7 +530,7 @@ __VID0__
 
 ## 38.峇里島嘅傳統舞蹈表演值唔值得睇？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_82b8c46b8f153469d536f48be8633bf8.jpg)
+![38.峇里島嘅傳統舞蹈表演值唔值得睇？](https://images.gobaligo.id/vocus/vocus_82b8c46b8f153469d536f48be8633bf8.jpg)
 
 嚟到峇里島，欣賞當地嘅傳統舞蹈絕對係唔可以錯過嘅體驗！峇里島嘅舞蹈唔單止係一種藝術表現，仲蘊含咗深厚嘅宗教同文化意義，透過精緻嘅服飾、優美嘅動作同埋生動嘅表情，呢啲舞蹈完美演繹咗峇里島獨特嘅文化風貌。
 
@@ -572,7 +572,7 @@ __VID0__
 
 ## 40.我唔想費心規劃，有冇推薦嘅旅行社？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fc839808c11834a857c58ba81322969f.jpg)
+![40.我唔想費心規劃，有冇推薦嘅旅行社？](https://images.gobaligo.id/vocus/vocus_fc839808c11834a857c58ba81322969f.jpg)
 
 能夠100%度身訂造行程嘅旅行社唔多，我哋推薦嘅isBali旅行社有十幾年峇里島旅遊經驗，佢哋可以根據每位旅客嘅預算同天數，精心設計出最適合嘅旅遊計劃。對於首次去峇里島嘅旅客嚟講，咁樣嘅服務無疑係極大嘅幫助。旅客只需講出預算同幾個心儀嘅景點，就可以將所有細節交俾isBali處理。由機票、酒店到每日專屬司機，一切都妥善安排。呢種半自助嘅旅遊方式，唔單止慳咗大量資料蒐集、行程安排嘅時間，更加保留咗行程嘅靈活性同自由度。我哋提供嘅行程安排優惠請睇[呢度](/blog/isbali-tour-agency-review/)。
 
@@ -580,7 +580,7 @@ __VID0__
 
 ## 41.峇里島有咩特惠票券可以令你嘅旅程更加超值？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_99d35de1a442ec6cd36b5e235338d335.jpg)
+![41.峇里島有咩特惠票券可以令你嘅旅程更加超值？](https://images.gobaligo.id/vocus/vocus_99d35de1a442ec6cd36b5e235338d335.jpg)
 
 目前 **Klook** 係擁有最多種類同數量峇里島優惠嘅旅遊平台，無論你想探索島上嘅熱門景點、參加獨特嘅文化體驗，定係享受放鬆嘅SPA服務，都可以喺Klook上搵到適合嘅選項。由水上樂園嘅折扣門票到海灘俱樂部嘅用餐優惠，甚至私人導覽同接駁服務，呢度應有盡有！透過提前預訂，唔單止可以享受更平嘅價格，仲可以慳番排隊買票嘅時間，令你嘅峇里島假期更加輕鬆愉快。快啲嚟睇下有咩超值優惠，規劃你嘅夢幻旅程啦！✨
 

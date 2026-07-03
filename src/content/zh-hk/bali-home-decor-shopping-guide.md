@@ -28,20 +28,20 @@ lang: zh-hk
 _srcHash: 56ff22384070d65e9bc5a1dd511e7722
 ---
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776061962467-mixcollage-13-apr-2026-01-25-pm-4838.jpg)
+![【峇里島家飾挖寶】貝殼吊燈唔使一千蚊美金！海運/空運攻略，將南洋度假風搬返屋企](https://images.gobaligo.id/images/2026-04/1776061962467-mixcollage-13-apr-2026-01-25-pm-4838.jpg)
 
 > 臉書社團團友黃昱寧 實地分享｜真係得呢度先買到！
 
 嚟峇里島，除咗浸 Villa、去景點，**最值得做嘅事**——
 就係搬成箱家居裝飾品同工藝品返台灣！🎁
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776062071750-mixcollage-13-apr-2026-01-27-pm-5893.jpg)
+![【峇里島家飾挖寶】貝殼吊燈唔使一千蚊美金！海運/空運攻略，將南洋度假風搬返屋企](https://images.gobaligo.id/images/2026-04/1776062071750-mixcollage-13-apr-2026-01-27-pm-5893.jpg)
 
 呢啲店舖**唔喺景區**，係內行先知道嘅路線。
 **價錢超級親民**，得景區嘅一半，而且**仲可以殺價**！
 （多謝我嘅包車司機幫我大殺價🥰）
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776062185728-mixcollage-13-apr-2026-01-29-pm-2344.jpg)
+![【峇里島家飾挖寶】貝殼吊燈唔使一千蚊美金！海運/空運攻略，將南洋度假風搬返屋企](https://images.gobaligo.id/images/2026-04/1776062185728-mixcollage-13-apr-2026-01-29-pm-2344.jpg)
 
 {{block:包車}}
 
@@ -52,7 +52,7 @@ _srcHash: 56ff22384070d65e9bc5a1dd511e7722
 一個**唔使1000蚊美金**⋯⋯
 而家仲諗緊，點解唔買多個行李箱，裝多啲返嚟哈哈哈～
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776062138927-mixcollage-13-apr-2026-01-31-pm-5074.jpg)
+![必買亮點：貝殼吊燈](https://images.gobaligo.id/images/2026-04/1776062138927-mixcollage-13-apr-2026-01-31-pm-5074.jpg)
 
 而家間房佈置成個充滿峇里島風，
 每日都覺得自己好似仲住緊 Villa🌿

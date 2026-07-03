@@ -40,7 +40,7 @@ update：2026/06/16
 
 作為文化愛好者嘅天堂，烏布皇宮逢星期四夜晚都會舉行傳統峇里舞蹈表演，其中包括充滿神秘感嘅「卡恰火舞」表演。呢啲表演係峇里島最具代表性嘅藝術活動之一，吸引咗好多來自世界各地嘅遊客。表演票價係100K印尼盾，活動通常喺每星期四夜晚7點到8點之間進行，適合喺日落餘暉下享受呢場視覺盛宴。對於想深入了解峇里文化嘅遊客嚟講，呢次係一個難得嘅體驗。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e2005bd1999f438cbe9fc3d2a10ac176.png)
+![烏布皇宮嘅亮點：藝術表演](https://images.gobaligo.id/vocus/vocus_e2005bd1999f438cbe9fc3d2a10ac176.png)
 
 > [烏布皇宮卡恰火舞購票優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=944134&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2deaa6927)
 
@@ -116,7 +116,7 @@ https://youtu.be/JtxZHtijEkE
 
 烏布皇宮唔單止係烏布當地嘅地標建築，更加係峇里島歷史同藝術嘅珍貴寶藏。喺呢度，你可以感受到峇里皇室昔日嘅輝煌，欣賞到純正嘅傳統藝術，深入了解峇里島獨特嘅文化背景。而佢周邊嘅景點提供咗豐富多樣嘅體驗，令遊客既可以欣賞峇里島嘅歷史文化，又可以享受購物樂趣，仲可以近距離接觸大自然。無論你係鍾意歷史、鍾意購物，定係偏愛自然景觀，呢度都可以滿足你嘅需求，令你嘅峇里島之旅充滿驚喜同收穫。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7ed2f29faae88b539880459d2bf83b98.jpg)
+![小結](https://images.gobaligo.id/vocus/vocus_7ed2f29faae88b539880459d2bf83b98.jpg)
 
 ## 烏布皇宮 FAQ 常見問題
 

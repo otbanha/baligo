@@ -21,7 +21,7 @@ _srcHash: 81af9f42004d92acb79a8896b36792ac
 
 巴厘岛文化艺术节（Bali Arts Festival）即将在巴厘岛拉开序幕。这是一个巴厘岛最重要的文化活动之一。来自世界各地的艺术家、音乐家和舞者将齐聚一堂，为游客展示他们的作品。在此期间，巴厘岛将变成艺术的天堂。你不必担心门票问题，因为所有巴厘岛艺术节的表演都是免费的。你将能够见证不仅是巴厘岛丰富的表演艺术，还有来自印尼其他岛屿的各种文化亮点。如果你是艺术和文化的爱好者，那么你绝对不能错过这个盛会。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_90ab703b954115885ae714b8d09db502.png)
+![2024巴厘岛艺术节将于六月十五日开始为期一个月](https://images.gobaligo.id/vocus/vocus_90ab703b954115885ae714b8d09db502.png)
 
 ## 什么是巴厘岛艺术节？
 
@@ -33,7 +33,7 @@ _srcHash: 81af9f42004d92acb79a8896b36792ac
 
 ## 巴厘岛艺术节的主题
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c32e212b2a773b031367bb0fbbad6089.jpg)
+![巴厘岛艺术节的主题](https://images.gobaligo.id/vocus/vocus_c32e212b2a773b031367bb0fbbad6089.jpg)
 
 2024年巴厘岛艺术节的主题是「Jana Kerthi Pramaguna Wikrama」，意思是「提升人类尊严与卓越」。巴厘岛艺术节的主题通常基于这些维持生命的力量之一。因此，艺术节上的表演和展览可能会带有哲学的基础，你将在节日中看到丰富的思想内涵和艺术表现。
 
@@ -43,7 +43,7 @@ _srcHash: 81af9f42004d92acb79a8896b36792ac
 
 ## 可以欣赏什么样的表演？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b37c1c6db8934d3aa8bc6d6630976a02.png)
+![可以欣赏什么样的表演？](https://images.gobaligo.id/vocus/vocus_b37c1c6db8934d3aa8bc6d6630976a02.png)
 
 ### 开幕游行
 
@@ -75,7 +75,7 @@ Werdhi Budaya Art Centre
 
 ## 参加巴厘岛艺术节的贴士
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb580db9253ea62dc0130897433dc0e1.jpg)
+![参加巴厘岛艺术节的贴士](https://images.gobaligo.id/vocus/vocus_eb580db9253ea62dc0130897433dc0e1.jpg)
 
 ### 天气和衣物
 
@@ -99,7 +99,7 @@ Werdhi Budaya Art Centre
 
 ➡️[找巴厘岛住宿请看这里](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b2948879decdfe85c71b34e38f4b7957.png)
+![住宿和门票的预订](https://images.gobaligo.id/vocus/vocus_b2948879decdfe85c71b34e38f4b7957.png)
 
 ### 结论
 

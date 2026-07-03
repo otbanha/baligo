@@ -153,7 +153,7 @@ If you're looking for a place in Amed to slow down and enjoy a good cup of coffe
 
 ### **Fine Dining Recommendation: Dining Experience at Asmat Restaurant**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774608192068-asmat_restaurant.jpg)
+![Fine Dining Recommendation: Dining Experience at Asmat Resta](https://images.gobaligo.id/images/2026-03/1774608192068-asmat_restaurant.jpg)
 
 Dining at **Asmat Restaurant (Asmat Restaurant at Mathis Lodge Amed)** on the hills of Amed is more than just a meal—it's a feast for both the eyes and the palate. Nestled between the mountains and the coast, the restaurant offers expansive views, making it a dreamy spot for dates and anniversaries. The exclusive romantic dinner set allows you to savor exquisite Western cuisine and freshly crafted cocktails while soaking in the sunset-painted sky and the breathtaking scenery where the mountains meet the sea. Every bite feels like an extension of love.
 
@@ -227,7 +227,7 @@ We highly recommend local driver **Ketut Juna**, a native of Amed who specialize
 - **Itinerary arrangements for Sunset Point, Lempuyang Temple (Gates of Heaven), Tirta Gangga, and other attractions**
 - **Jukung boat trips for sunrise viewing, fishing, and other activities**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c77b7d525e0ff7d6cce396d75da372e.jpg)
+![Transportation](https://images.gobaligo.id/vocus/vocus_1c77b7d525e0ff7d6cce396d75da372e.jpg)
 
 Whether it's transportation, itinerary suggestions, or last-minute adjustments, he can assist with everything, making him a highly reliable local partner. If you plan to explore Amed in depth, Ketut is definitely the key to ensuring a smooth journey.
 
@@ -255,7 +255,7 @@ As Amed and Tulamben are relatively remote, the infrastructure is not as develop
 
 We've compiled all the mentioned locations in the "Amed/Tulamben Guide Map". [Click here](https://www.google.com/maps/d/u/0/edit?mid=1IrHQ5679D68HUAXlXWyqhgnvITAONfE&usp=sharing) to enlarge/save.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9422f8946b1dbb2f0592bc5416a32b91.png)
+![Guide Map](https://images.gobaligo.id/vocus/vocus_9422f8946b1dbb2f0592bc5416a32b91.png)
 
 ***
 
@@ -281,7 +281,7 @@ Most restaurants can provide vegetarian dishes, but the selection is limited. It
 
 If you have more time, we recommend visiting these three stunning nearby attractions:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ed589a98d59d6d3d1de01faf3eb0b822.jpg)
+![FAQ](https://images.gobaligo.id/vocus/vocus_ed589a98d59d6d3d1de01faf3eb0b822.jpg)
 
 - **Lempuyang Temple (Gates of Heaven)**: Located on the mountainside, famous for its majestic volcanic backdrop and sacred stone gates, it's a paradise for photography enthusiasts.
 - **Tirta Gangga**: A former royal water garden, the stone sculptures and koi fish in the pools create a mesmerizing scene, making it an excellent spot for strolling and photography.

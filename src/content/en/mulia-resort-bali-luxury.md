@@ -56,9 +56,9 @@ Mulia Resort offers a wide range of entertainment facilities, catering to both t
 
 Mulia Resort boasts first-class sports facilities to keep you energized during your vacation. The resort has a well-equipped fitness center and tennis courts for those who enjoy a good workout. If water sports are your thing, non-motorized options are available for thrilling adventures at sea. You can also take a dip in the outdoor swimming pool or soak up the sun on the private beach. For diving enthusiasts, the resort offers diving experiences to explore the stunning underwater world of Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_147ec876f11de5cd52d18f2048685ee6.jpg)
+![Stay Active with Top-Notch Sports Facilities](https://images.gobaligo.id/vocus/vocus_147ec876f11de5cd52d18f2048685ee6.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3886ea278983c995241f888fe171c2f1.jpg)
+![Stay Active with Top-Notch Sports Facilities](https://images.gobaligo.id/vocus/vocus_3886ea278983c995241f888fe171c2f1.jpg)
 
 ### **Thoughtful Convenience Amenities**
 
@@ -72,9 +72,9 @@ Mulia Resort offers a variety of transportation options to help you explore ever
 
 Mulia Resort features diverse dining facilities to satisfy all tastes. The on-site coffee shop and restaurants offer a rich selection, from authentic Indonesian cuisine to international dishes. In addition to dining in, room service lets you enjoy meals in the comfort of your room. Each day starts wonderfully with a buffet breakfast or a continental breakfast.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a31ef1e83d70eb6959a75d6a79c2e078.jpg)
+![Exceptional Dining Experiences](https://images.gobaligo.id/vocus/vocus_a31ef1e83d70eb6959a75d6a79c2e078.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ca40efc15b6b85ed98ccda46ff7e1666.jpg)
+![Exceptional Dining Experiences](https://images.gobaligo.id/vocus/vocus_ca40efc15b6b85ed98ccda46ff7e1666.jpg)
 
 👉Mulia [5-Star Buffet Dining Experience from USD$21.89](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94019-dining-experience-the-mulia-resort-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5ddeb73f43)
 
@@ -82,11 +82,11 @@ Mulia Resort features diverse dining facilities to satisfy all tastes. The on-si
 
 Mulia Resort offers a range of luxurious rooms that add a touch of opulence to your stay. Whether you choose the Grandeur Deluxe, Lagoon Access Room, or Royal Ocean Court View Suite, each room is equipped with modern amenities and comfortable bedding. These spacious accommodations also boast beautiful views, allowing you to fully unwind during your vacation.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1d42e8a895b02d5507f3ce9175d8a165.jpg)
+![Luxurious Room Options](https://images.gobaligo.id/vocus/vocus_1d42e8a895b02d5507f3ce9175d8a165.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1f1895e1d7f0fd99d81da8dc7e232cee.jpg)
+![Luxurious Room Options](https://images.gobaligo.id/vocus/vocus_1f1895e1d7f0fd99d81da8dc7e232cee.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e55df0d8776c7671ccd3854434594e2.jpg)
+![Luxurious Room Options](https://images.gobaligo.id/vocus/vocus_3e55df0d8776c7671ccd3854434594e2.jpg)
 
 👉[Check Mulia Resort Room Availability & Rates](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6532982)
 
@@ -132,7 +132,7 @@ Beyond the resort's own dining options, Mulia Resort is surrounded by numerous r
 
 ### **More on Nusa Dua's Food, Fun, and Attractions**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
+![More on Nusa Dua's Food, Fun, and Attractions](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
 
 Nusa Dua is Bali's renowned area for luxury resorts, featuring pristine white beaches, turquoise waters, and top-notch tourist facilities, making it the top choice for those seeking high-end indulgence and tranquil getaways. It also offers premium spas, water sports, and family-friendly activities, catering to all types of travelers. Want to learn more about Nusa Dua? [Click here](/blog/nusa-dua-guide/)
 
@@ -142,7 +142,7 @@ Nusa Dua is Bali's renowned area for luxury resorts, featuring pristine white be
 
 Mulia Resort offers exceptional value with its luxurious amenities and outstanding service. Whether it's the lavish rooms, comprehensive recreational facilities, or first-class hospitality, Mulia Resort delivers an unparalleled vacation experience.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_30bd2ff59e0502681dc8f252c98c474b.jpg)
+![Price and Value](https://images.gobaligo.id/vocus/vocus_30bd2ff59e0502681dc8f252c98c474b.jpg)
 
 Mulia Resort has earned widespread praise for its high-quality facilities and service. Guest reviews are overwhelmingly positive, commending the staff's professionalism and warmth. Whether you seek relaxation or adventure, Mulia Resort is your ideal choice in Bali.
 
@@ -154,7 +154,7 @@ Whether you're on vacation or a business trip, Mulia Resort offers an unparallel
 
 ## Real Guest Reviews
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fbe5c8d9366184e5c302970ce5259a43.jpg)
+![Real Guest Reviews](https://images.gobaligo.id/vocus/vocus_fbe5c8d9366184e5c302970ce5259a43.jpg)
 
 This was my first stay at this hotel, and I joined their morning yoga class with friends. We took a shuttle to an outdoor yoga space overlooking a vast grassland. The gentle morning breeze and birdsong made the entire experience incredibly relaxing. The class wasn't difficult—just basic poses, perfect for starting the day.
 
@@ -162,7 +162,7 @@ The instructor's English was simple and easy to follow, allowing guests from dif
 
 ***
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a453cc99c786072992ba3e62998ab4d1.jpg)
+![Real Guest Reviews](https://images.gobaligo.id/vocus/vocus_a453cc99c786072992ba3e62998ab4d1.jpg)
 
 From the moment you step into the hotel, you feel like royalty! The staff helped with luggage, and check-in was quick and easy. The room's cleanliness was stunning—tables and glass surfaces were spotless, the bathroom was spacious and bright, and the sheets were immaculate.
 
@@ -170,7 +170,7 @@ The breakfast buffet was rich and delicious, with every dish leaving a lasting i
 
 ***
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b657ddd6500f3db4c5b5943ddc057cb6.jpg)
+![Real Guest Reviews](https://images.gobaligo.id/vocus/vocus_b657ddd6500f3db4c5b5943ddc057cb6.jpg)
 
 We chose to stay for seven nights during the low season in early November, which gave the entire resort a serene and peaceful atmosphere. Even as more guests checked in later, it still felt very comfortable—whether at breakfast or by the pool, we always had plenty of private space.
 
@@ -178,7 +178,7 @@ Breakfast was the highlight of the day! The restaurant offers a rich selection o
 
 Dining at other restaurants like Table 8 (Chinese) and Edogin (Japanese) was also very satisfying, with reasonable prices and excellent quality. Our favorite restaurant, however, was Soleil—its wood-fired pizzas and Southeast Asian dishes amazed us, rivaling the best meals we've had in Thailand and Vietnam.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4bcfdf917a8ce2ececcbf56925a317e4.jpg)
+![Real Guest Reviews](https://images.gobaligo.id/vocus/vocus_4bcfdf917a8ce2ececcbf56925a317e4.jpg)
 
 As for facilities, the resort's gym boasts state-of-the-art equipment but is rarely crowded, making it perfect for travelers seeking a quiet workout. The multiple pools offer different styles, with the Ocean Pool being the most popular.
 
@@ -190,7 +190,7 @@ This was our first time in Bali, and Mulia Resort gave us the perfect start. Fro
 
 ## More on Nusa Dua's Five-Star Resorts
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_61e40f31590a0967d2f549906c95a0c4.jpg)
+![More on Nusa Dua's Five-Star Resorts](https://images.gobaligo.id/vocus/vocus_61e40f31590a0967d2f549906c95a0c4.jpg)
 
 **Nusa Dua is a renowned upscale resort area in southern Bali, famous for its tranquil environment, pristine white beaches, and world-class luxury experiences.** If you're looking for a five-star luxury resort, Nusa Dua offers a wealth of top-tier options, from exclusive private beaches to exquisite dining and spas.
 

@@ -33,7 +33,7 @@ _srcHash: aef10a3f42e057038fd3436620ccf4b8
 
 This is the third episode of our series on Nusa Penida, the magical island. We'll introduce four famous snorkeling spots here, where both snorkelers and scuba divers can find plenty of fun.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f65ca2cf527e8b51652b690aad51a81.jpg)
+![How to Join Snorkeling in Nusa Penida? A Complete Guide to D](https://images.gobaligo.id/vocus/vocus_9f65ca2cf527e8b51652b690aad51a81.jpg)
 
 ➡️[Click here for more Bali deals](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
@@ -45,7 +45,7 @@ We have five episodes covering Nusa Penida, so let's dive deeper into this islan
 4. [Nusa Penida Taxi, Gojek/Grab, Private Car, and Scooter Transport Guide](/blog/nusa-penida-transport-guide/)
 5. [Nusa Penida Accommodation Guide: 13 Highly Rated Stays from Luxury to Budget](/blog/nusa-penida-hotels-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0efc881cd070bd9b15b0d572fe80b427.jpg)
+![How to Join Snorkeling in Nusa Penida? A Complete Guide to D](https://images.gobaligo.id/vocus/vocus_0efc881cd070bd9b15b0d572fe80b427.jpg)
 
 ## Can You Snorkel Everywhere in Bali?
 
@@ -77,7 +77,7 @@ Mola mola sunfish
 
 ## Gamat Bay
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881880928-gamatbay1.jpeg)
+![Gamat Bay](https://images.gobaligo.id/images/2026-03/1774881880928-gamatbay1.jpeg)
 
 Gamat Bay
 
@@ -117,7 +117,7 @@ Toyapakeh Wall Point is actually a cliff wall, located directly below the Adiwan
 
 This dive site features a small coral terrace at a depth of 4 to 6 meters—the best spot for snorkeling. Beyond the coral terrace, it splits into two levels: the first at about 12 to 15 meters deep, and the second at around 40 meters. It's a very popular dive site due to its clear waters and thriving coral.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881808430-toyapakeh_wall_point.jpg)
+![Toyapakeh Wall Point](https://images.gobaligo.id/images/2026-03/1774881808430-toyapakeh_wall_point.jpg)
 
 Colorful coral terrace
 

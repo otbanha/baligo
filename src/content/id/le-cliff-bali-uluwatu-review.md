@@ -35,13 +35,13 @@ _srcHash: d1655fd5f8ee714bc3c1eba02f985880
 
 Pas sampai di Uluwatu, aku baru benar-benar ngerti apa yang dimaksud dengan 'emosi Samudra Hindia'.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776350324393-671176730_122284511336018343_7573830652949289882_n.jpg)
+![Le Cliff Bali Review｜Pengalaman Private Pool di Villa Tebing](https://images.gobaligo.id/images/2026-04/1776350324393-671176730_122284511336018343_7573830652949289882_n.jpg)
 
 Liburan mandiri ke Bali kali ini, kami memutuskan untuk menyewa mobil dari selatan, mulai dari Seminyak yang ramai, melewati jalan-jalan desa yang sempit, goyang-goyang menuju ujung selatan pulau. Sopir pelan-pelan di bagian terakhir, sambil nunjuk ke luar jendela: 'Depan itu Uluwatu.' Aku belum sempat bereaksi, ombak setinggi dua meter langsung menghantam pemandangan — bukan ombak kecil yang lembut, tapi kayak pukulan tinju yang keras banget menghantam batu kapur, bikin percikan air ke mana-mana. Kekuatannya terasa primitif, kasar, kayak laut lagi nunjukin kekuasaannya.
 
 Beberapa titik hitam di permukaan laut lincah memotong dinding ombak — itu peselancar pro beneran. Mereka membungkuk, mempercepat, masuk ke dalam tube ombak, gerakannya mulus banget. Aku berdiri di tepi tebing ngeliatin lama, ada rasa kagum yang aneh — bukan takut, tapi sadar kalau tempat ini bukan milikmu, kamu cuma penonton.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776350376308-672095457_122284511564018343_2046526594648930330_n.jpg)
+![Le Cliff Bali Review｜Pengalaman Private Pool di Villa Tebing](https://images.gobaligo.id/images/2026-04/1776350376308-672095457_122284511564018343_2046526594648930330_n.jpg)
 
 ## Tantangan Tujuh Lantai
 
@@ -49,7 +49,7 @@ Hotel yang kami tempati kali ini cukup bandel, dibangun langsung di atas tebing.
 
 Mobil berhenti di jalan paling atas, aku bawa ransel lihat ke bawah — tangga batu meliuk-liuk ke bawah, kira-kira setinggi tujuh lantai. Sebelum berangkat udah tahu harus hubungi hotel duluan, tapi kami datang 15 menit lebih awal, jadinya bawa sendiri dulu. Lagi ngos-ngosan narik koper turun, dua staf dari bawah lari naik, senyum-senyum ambil koper besar, lalu balik lagi turun enam lantai. Aku kosongan di belakang aja udah lemes, mereka bawa koper hampir 20 kg, langkahnya stabil kayak jalan di tanah datar.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776350404778-672211150_122284511414018343_6399489268464153983_n.jpg)
+![Tantangan Tujuh Lantai](https://images.gobaligo.id/images/2026-04/1776350404778-672211150_122284511414018343_6399489268464153983_n.jpg)
 
 Setelah check-in, aku kasih tip 20.000 IDR, jujur ini uang paling worth it sepanjang perjalanan. Sejujurnya, tempat ini sama sekali nggak cocok buat orang tua atau anak kecil, tangga itu aja udah cukup bikin rencana batal. Tapi kalau kamu masih muda atau petualang yang masih punya tenaga, tempat ini bakal bikin kamu mimpi indah.
 
@@ -57,13 +57,13 @@ Setelah check-in, aku kasih tip 20.000 IDR, jujur ini uang paling worth it sepan
 
 Pas masuk kamar, aku diem di depan pintu kayak patung selama sepuluh detik.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776350442358-mixcollage-16-apr-2026-09-15-pm-7389.jpg)
+![Jendela Itu, Ilusi Emas yang Bikin Speechless](https://images.gobaligo.id/images/2026-04/1776350442358-mixcollage-16-apr-2026-09-15-pm-7389.jpg)
 
 Jendela besar dari lantai ke langit-langit tanpa penghalang langsung menghadap Samudra Hindia — birunya laut seakan mengalir deras ke seluruh ruangan. Nggak ada balkon, nggak ada pagar yang ganggu pandangan, rasanya kayak duduk di tepi laut. Aku booking kamar sebulan setengah sebelumnya, dan cuma dapet tipe terkecil — yang ada teras udah habis duluan. Tapi jujur, ini udah cukup. Jendela ini aja udah worth it banget.
 
 Menjelang matahari terbenam, aku lagi rebahan di kasur sambil bengong, tiba-tiba sadar seluruh kamar berubah warna. Sinar senja menyelinap masuk dari ujung cakrawala — awalnya cuma garis cahaya kuning hangat, perlahan berubah jadi oranye kemerahan, dan akhirnya seluruh ruangan kayak disiram emas bubuk: dinding jadi emas, seprai jadi emas, bahkan udaranya keliatan berkilau. Pemandangan itu terlalu nggak nyata, kayak adegan mimpi yang biasa di-slow motion di film.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776350485086-mixcollage-16-apr-2026-09-13-pm-578.jpg)
+![Jendela Itu, Ilusi Emas yang Bikin Speechless](https://images.gobaligo.id/images/2026-04/1776350485086-mixcollage-16-apr-2026-09-13-pm-578.jpg)
 
 Aku hampir melompat dari kasur, langsung pakai sandal dan lari ke pantai.
 
@@ -89,13 +89,13 @@ Semalaman nggak mimpi, atau mungkin, sepanjang malam mimpinya cuma laut.
 
 Sarapannya lumayan, ada buah tropis segar dan mie goreng Indonesia yang baru dimasak, tapi pizza untuk makan siang biasa aja — kulitnya lembek, toppingnya standar. Tapi itu semua nggak penting, karena bintang utama waktu makan siang adalah — monyet.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776350618459-672430407_122284511756018343_2605697048675478600_n.jpg)
+![Monyet Ngegas Ngambil Kentang & Teater Alam Absurd](https://images.gobaligo.id/images/2026-04/1776350618459-672430407_122284511756018343_2605697048675478600_n.jpg)
 
 Monyet Uluwatu terkenal nakal, aku udah tahu itu sebelum berangkat, tapi lihat langsung tetep aja absurd sampai bikin ngakak. Kami pesan sepiring kentang goreng di meja, cuma bangun sebentar ambil minuman, balik-balik udah ada monyet betina duduk manis di kursiku, dua tangannya masing-masing pegang segenggam kentang, mulutnya masih ngunyah tiga batang. Dia lihat aku datang, malah nggak kabur, sambil ngunyah dia tatap aku lurus-lurus, ekspresinya kayak bilang: «Kenapa?»
 
 Yang lebih seru lagi di pantai. Aku lihat sendiri ada monyet yang berenang di laut — iya, berenang. Dia pakai gaya anjing yang standar, kepalanya diangkat tinggi, kelihatan santai banget. Tapi kalau diperhatiin, di pinggir pantai ada tiga-empat monyet lain yang teriak-teriak, kayaknya nggak boleh dia naik ke darat. Monyet malang itu dipaksa bolak-balik berenang di dekat pantai beberapa kali, setiap kali mau naik langsung dikejar. Akhirnya dia memilih berenang lebih jauh ke tengah, menghilang di balik ombak.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776350532473-mixcollage-16-apr-2026-09-11-pm-7409.jpg)
+![Monyet Ngegas Ngambil Kentang & Teater Alam Absurd](https://images.gobaligo.id/images/2026-04/1776350532473-mixcollage-16-apr-2026-09-11-pm-7409.jpg)
 
 Aku nggak tahu dia akhirnya naik atau nggak. Ini mungkin teater alam paling absurd dan paling nyata di Uluwatu.
 
@@ -109,7 +109,7 @@ Ombak di sini bukan ombak santai buat main air sambil berdiri. Ombaknya kuat, be
 
 Saran: minimal udah bisa nangkep green wave (dinding ombak yang belum pecah) dulu baru ke sini. Kalau nggak, laut bakal 'ngajarin kamu jadi orang'. Laut di sini bukan tempat latihan—ini tempat ujian.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776350803625-673713602_122284511372018343_9115007488135551525_n.jpg)
+![Surf Camp: Ini Playground Para Pro](https://images.gobaligo.id/images/2026-04/1776350803625-673713602_122284511372018343_9115007488135551525_n.jpg)
 
 ## Penutup
 

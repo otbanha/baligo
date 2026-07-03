@@ -16,13 +16,13 @@ embeds:
 
 [🚗 想預估 Gojek 車資？請點擊這裡](/map/gojek-fare/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
+![【印尼/峇里島必備APP】Gojek / Grab 叫車圖文教學指南](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
 
 ## Gojek / Grab 的使用方式
 
 在**峇里島**旅遊，Gojek 和 Grab 是兩款必備的「國民 App」。它們的功能與介面極為相似，就像是 Uber 的兩個不同品牌版本。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a3735af38f1bb9994a7ec1ec8fafe01e.png)
+![Gojek / Grab 的使用方式](https://images.gobaligo.id/vocus/vocus_a3735af38f1bb9994a7ec1ec8fafe01e.png)
 
 以下是為您整理的 step-by-step 使用指南，幫助您快速上手：
 
@@ -54,7 +54,7 @@ embeds:
 4. **查看價格：** 系統會跳出確定的總金額（明碼實價，不用跳錶或喊價）。
 5. **點擊預訂 (Order/Book)：** 系統會配對司機，畫面會顯示司機的名字、車牌與位置。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_74b7470a20e1026529e08d0e3f83681e.png)
+![Gojek / Grab 的使用方式](https://images.gobaligo.id/vocus/vocus_74b7470a20e1026529e08d0e3f83681e.png)
 
 **第四步：與司機溝通**
 
@@ -86,7 +86,7 @@ https://youtu.be/ByGkcmys01g
 · 爭議焦點：在巴杜爾湖 (Lake Batur)、松干村 (Songan Village) 周邊，線上叫車被指壓低了當地司機的報價，引發了當地旅遊交通協會的強烈反對。
 · 近期政策：根據2025年初的報導，峇里島當局也推出了新規定，要求網約車司機必須持有峇里島身份證 (KTP) 和使用本地車牌，以保護本地司機的權益。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_11b747be41152ceaf2c885a63ca4e272.jpg)
+![主要限制區域與情況](https://images.gobaligo.id/vocus/vocus_11b747be41152ceaf2c885a63ca4e272.jpg)
 
 ### 🚗 對遊客的實際影響與建
 

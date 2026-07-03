@@ -33,7 +33,7 @@ Indeks ini nggak cuma ngukur efektivitas polisi, tapi juga mencakup kebebasan be
 
 ## **Tingkat Kriminalitas Bali Cetak Rekor Terendah**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_26c345dd21b57218a13b8b59094e84af.jpg)
+![Tingkat Kriminalitas Bali Cetak Rekor Terendah](https://images.gobaligo.id/vocus/vocus_26c345dd21b57218a13b8b59094e84af.jpg)
 
 Tahun 2024, tingkat kriminalitas Bali cuma **0,07%**, jadi yang terendah se-Indonesia. Dibanding 2022 yang **0,20%**, angkanya terus turun, artinya keamanan makin membaik dari tahun ke tahun.
 
@@ -75,7 +75,7 @@ Berdasarkan data, Bali bukan cuma destinasi favorit di Indonesia, tapi juga daer
 
 ## **FAQ (Pertanyaan Umum)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_03141a4e39b1177082670e3423f755ac.png)
+![FAQ (Pertanyaan Umum)](https://images.gobaligo.id/vocus/vocus_03141a4e39b1177082670e3423f755ac.png)
 
 ### **1. Apakah Bali aman buat turis asing?**
 

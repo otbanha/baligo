@@ -24,7 +24,7 @@ lang: en
 _srcHash: 95b3dc2815de4bc06579e380b6efa98b
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f4e9c66fb28c36e0481d164591317e0f.jpg)
+![Bali Carnival Kicks Off in September: A Perfect Fusion of Ca](https://images.gobaligo.id/vocus/vocus_f4e9c66fb28c36e0481d164591317e0f.jpg)
 
 ## 
 

@@ -19,7 +19,7 @@ _srcHash: 5b547a79e214f8c2a6105c7121485746
 ---
 當我哋準備去印尼或者峇里島嗰陣，有啲旅客需要帶中藥粉同保健食品，呢啲物品對佢哋嘅健康好重要。不過，唔同國家對於藥品同保健食品嘅規定都唔同，尤其係印尼喺藥物嘅管制上比其他國家嚴格。了解同遵守呢啲規定好重要，咁先可以避免不必要嘅麻煩同延誤。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_619b4403db9a1862faf0bf6a5c9fea52.png)
+![點樣安全帶中藥粉同保健食品去印尼峇里島：完整指南](https://images.gobaligo.id/vocus/vocus_619b4403db9a1862faf0bf6a5c9fea52.png)
 
 早排先有一名澳洲旅客帶處方藥物，喺印尼俾人當做禁藥而拘留咗4日，仲要接受咗14個鐘頭嘅審問，慘罰咗USD$26,451，請睇下面條連結：
 
@@ -47,7 +47,7 @@ _srcHash: 5b547a79e214f8c2a6105c7121485746
 
 ## 📩 **「峇里島旅遊攻略」首頁說明**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
+![「峇里島旅遊攻略」首頁說明](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

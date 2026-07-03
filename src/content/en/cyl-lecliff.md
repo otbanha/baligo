@@ -33,13 +33,13 @@ _srcHash: f55db40da764d49b45d69de5002584b3
 
 The moment I arrived in Uluwatu, I truly understood what 'the temper of the Indian Ocean' meant.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776350324393-671176730_122284511336018343_7573830652949289882_n.jpg)
+![Le Cliff Bali Villa Review 2026 - Private Pool Experience in](https://images.gobaligo.id/images/2026-04/1776350324393-671176730_122284511336018343_7573830652949289882_n.jpg)
 
 For this Bali free-and-easy trip, we opted for a private car journey southward, navigating from bustling Seminyak through narrow rural paths, swaying our way to the southern tip of the peninsula. The driver slowed down on the final stretch, pointing out the window, 'Here comes Uluwatu.' Before I could react, a two-meter-high reef wave crashed into view—not the gentle lapping kind, but a solid punch against the limestone, exploding into a spray of water. The raw, rugged force felt primal, as if the sea was asserting its dominance.
 
 Several black dots on the sea surface deftly sliced through the wave walls—real pros surfing. They crouched, accelerated, and dived into the wave tubes, their movements fluid and seamless. Watching from the cliff edge, I felt a strange reverence—not fear, but a clear understanding that this place wasn't mine, I was merely an observer.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776350376308-672095457_122284511564018343_2046526594648930330_n.jpg)
+![Le Cliff Bali Villa Review 2026 - Private Pool Experience in](https://images.gobaligo.id/images/2026-04/1776350376308-672095457_122284511564018343_2046526594648930330_n.jpg)
 
 ## The Seven-Floor Challenge
 
@@ -47,7 +47,7 @@ The hotel we stayed in was quite audacious, built directly on the cliff. 'Stayin
 
 The car parked by the roadside at the top level, and looking down with my luggage—the stone steps winding down estimated at least seven stories high. We knew to contact the hotel beforehand, but arriving fifteen minutes early, we had to carry our own luggage for a stretch. Panting as I dragged my suitcase down, two staff members sprinted up from below, smilingly took the heavy luggage, and descended another six floors. Even empty-handed, my legs felt weak following them; they carried nearly twenty kilograms with steps as steady as if on flat ground.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776350404778-672211150_122284511414018343_6399489268464153983_n.jpg)
+![The Seven-Floor Challenge](https://images.gobaligo.id/images/2026-04/1776350404778-672211150_122284511414018343_6399489268464153983_n.jpg)
 
 After check-in, I tipped IDR 20,000, sincerely feeling it was the most worthwhile expense of the entire trip. Honestly, this place isn't suitable for the elderly or children—the staircase alone could halt the trip. But if you're young or an adventurous soul with some stamina, this place will be where you dream with a smile.
 
@@ -55,13 +55,13 @@ After check-in, I tipped IDR 20,000, sincerely feeling it was the most worthwhil
 
 When I walked into the room, I stood frozen at the doorway for a good ten seconds.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776350442358-mixcollage-16-apr-2026-09-15-pm-7389.jpg)
+![The Golden Illusion](https://images.gobaligo.id/images/2026-04/1776350442358-mixcollage-16-apr-2026-09-15-pm-7389.jpg)
 
 The floor-to-ceiling windows faced the Indian Ocean without any obstructions, flooding the entire room with the blue of the sea. There was no balcony or railing to interrupt the view—it felt like sitting right on the edge of the ocean. I had booked the room a month and a half in advance, and only the smallest room type was left; the ones with terraces had long been snatched up. But honestly, it was enough. This window alone was worth every penny.
 
 In the evening, just before sunset, I was lying on the bed daydreaming when I suddenly noticed the room changing colors. The setting sun cast a slanting beam of warm yellow light from the horizon, gradually shifting to orange-red, until the entire room seemed drenched in gold—the walls, the bedsheets, even the air felt like it was sprinkled with golden dust. The scene was so surreal, like a dreamy moment you'd see in a movie, captured in slow motion.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776350485086-mixcollage-16-apr-2026-09-13-pm-578.jpg)
+![The Golden Illusion](https://images.gobaligo.id/images/2026-04/1776350485086-mixcollage-16-apr-2026-09-13-pm-578.jpg)
 
 I practically sprang out of bed, slipped on my sandals, and dashed toward the beach.
 
@@ -87,13 +87,13 @@ A dreamless night, or rather, a night where all the dreams were of the sea.
 
 Breakfast was decent, with fresh tropical fruits and freshly made Indonesian noodles, but the pizza for lunch was just average—soft crust, ordinary toppings. But none of that mattered, because the highlight of lunchtime was—the monkeys.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776350618459-672430407_122284511756018343_2605697048675478600_n.jpg)
+![Monkey Steals Fries and the Absurd Theater of Nature](https://images.gobaligo.id/images/2026-04/1776350618459-672430407_122284511756018343_2605697048675478600_n.jpg)
 
 The monkeys of Uluwatu are notorious, and I knew this before I arrived, but seeing it firsthand was absurdly hilarious. We ordered a plate of fries and left it on the table, but when we got up to grab a drink, we returned to find a female monkey sitting comfortably in my chair, clutching a handful of fries in each hand, with three more stuffed in her mouth. She looked at me as I approached, didn't run, just kept chewing while staring straight at me, as if to say, 'What?'
 
 The real spectacle was by the sea. I saw a monkey swimming in the ocean—yes, swimming. It paddled with a perfect doggy paddle, head held high, looking completely at ease. But upon closer inspection, there were three or four monkeys on the shore barking, seemingly forbidding it from coming ashore. The poor swimmer was forced to paddle back and forth not far from the shore, chased away whenever it tried to land. Eventually, it swam further out and disappeared into the waves.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776350532473-mixcollage-16-apr-2026-09-11-pm-7409.jpg)
+![Monkey Steals Fries and the Absurd Theater of Nature](https://images.gobaligo.id/images/2026-04/1776350532473-mixcollage-16-apr-2026-09-11-pm-7409.jpg)
 
 I don't know if it ever made it back to shore. This was probably the most absurd yet authentic theater of nature in Uluwatu.
 
@@ -107,7 +107,7 @@ The waves here aren't the kind you can play in while standing. They're powerful,
 
 I'd recommend being able to catch green waves (unbroken wave faces) on your own before coming here, otherwise the ocean will truly 'teach you a lesson'. This isn't a practice field - it's an examination hall.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776350803625-673713602_122284511372018343_9115007488135551525_n.jpg)
+![Surf Camp: A Pro's Playground](https://images.gobaligo.id/images/2026-04/1776350803625-673713602_122284511372018343_9115007488135551525_n.jpg)
 
 ## Epilogue
 

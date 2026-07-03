@@ -60,7 +60,7 @@ https://youtu.be/zePMt3KSwTo
 
 从天空之门的神山阿贡火山美景到恒河圣泉花园的如仙境般的水上宫殿，再到乌戎水宫的古代皇宫遗址，每一处都蕴藏着独特的风情和拍摄价值。无论是踏青赏花还是寻觅美景拍照，这三个景点都能满足您的游玩需求。别忘了携带好相机，让这些美景留下您的足迹与回忆。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1b788d4b2052c6e67e9c475e88df1921.jpg)
+![乌戎水宫](https://images.gobaligo.id/vocus/vocus_1b788d4b2052c6e67e9c475e88df1921.jpg)
 
 别忘了顺便造访东部的艾眉和图兰奔哦！攻略在[这儿](/blog/amed-tulamben-diving-guide/)
 

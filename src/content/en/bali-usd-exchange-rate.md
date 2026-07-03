@@ -27,7 +27,7 @@ In Bali, there are numerous places to exchange currency, from airports to hotels
 
 ### Common USD Denominations
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9bb247d0e05bae1d63368331539e85c8.png)
+![Common USD Denominations](https://images.gobaligo.id/vocus/vocus_9bb247d0e05bae1d63368331539e85c8.png)
 
 In Bali, common USD denominations include $100, $50, $20, $10, and $5. There may be some differences in exchange rates for different denominations.
 
@@ -41,7 +41,7 @@ Below is the exchange rate table for currency exchange in Bali on May 1, 2024. W
 
 以下是2024， 05， 01在峇里島換匯的匯率表，換匯的時候我們要看的是「買入 (buying)」價。讓我們來看一下：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b3e9800865e70d4ff80928aed2404b40.png)
+![Exchange Rate Differences Between Large and Small USD Bills](https://images.gobaligo.id/vocus/vocus_b3e9800865e70d4ff80928aed2404b40.png)
 
 As shown in the table, the exchange rate for USD$100 and USD$50 bills is the same (15,875), while USD$20, $10, and $5 bills have a difference of 20 Indonesian Rupiah (15,855). If you have USD$1 bills, compared to USD$100/$50 bills, the difference is 275 (15,600), which is the worst exchange rate.
 

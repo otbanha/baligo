@@ -104,7 +104,7 @@ Ku De Ta adalah salah satu restoran pantai di Seminyak, di sini kamu bisa nikmat
 
 Potato Head adalah restoran lain di Seminyak, dan ini jadi salah satu yang paling bikin aku kaget selama trip ini. Kami datang hari Sabtu, nyobain masakan Indonesia dan Bali, setiap hidangannya enak banget, jauh di atas ekspektasi. Pantai di samping restoran juga cantik banget, tempat ini jadi juara pertama di perjalanan kuliner kali ini. Rata-rata habis sekitar USD$32 per orang, harga pastinya udah lupa, pokoknya worth it banget. Aku kasih restoran ini 99 poin.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6f15aa6fe69a04c67c5c8622b55bb1ab.png)
+![Potato Head](https://images.gobaligo.id/vocus/vocus_6f15aa6fe69a04c67c5c8622b55bb1ab.png)
 
 ### Warung Nia
 
@@ -112,7 +112,7 @@ Warung Nia adalah restoran iga babi yang lagi hits di pusat Seminyak. Pas kami d
 
 ### Koral
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0bda877aa3ae4ea0760efc8f0b0bd4b4.jpg)
+![Koral](https://images.gobaligo.id/vocus/vocus_0bda877aa3ae4ea0760efc8f0b0bd4b4.jpg)
 
 Koral adalah restoran mewah di Hotel Kempinski. Karena rombongan kami banyak, kami pesan tiga meja. Tapi pas sampai, dikasih tahu dua meja dibatalkan, dan stafnya teriak-teriak bilang mereka udah hubungi aku dua hari lalu tapi nggak dibales. Ini bikin aku kesel banget, soalnya waktu itu aku lagi di pantai, kolam renang, atau lagi nikmatin makanan — siapa yang sempat cek email? Lagipula sikap mereka sombong banget. Kalau kamu bukan bule bermerek, saran aku jangan sampai ngalamin perlakuan kayak gini. Akhirnya aku debat pake bahasa Inggris, baru sikapnya agak melunak, tapi overall experience-nya jelek banget. Aku kasih 0 poin.
 
@@ -128,7 +128,7 @@ Dia bales chat super cepet, komunikasi pake bahasa Inggris juga lancar banget. A
 
 ## Kesimpulan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3266a1005589ebc80036e11447500755.png)
+![Kesimpulan](https://images.gobaligo.id/vocus/vocus_3266a1005589ebc80036e11447500755.png)
 
 Trip ke Bali kali ini, dari akomodasi mewah sampai kuliner lokal, bikin aku ngerasain pesona unik pulau ini. Meskipun ada beberapa drama kecil, justru bikin perjalanan makin berkesan. Kalau kamu lagi rencanain liburan ke Bali, semoga pengalamanku bisa kasih tips berguna biar perjalananmu makin lancar dan seru. Mau yang mewah-mewah atau eksplorasi budaya lokal, Bali pasti kasih kamu kenangan yang nggak terlupakan.
 

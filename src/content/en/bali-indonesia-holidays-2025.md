@@ -27,7 +27,7 @@ _srcHash: cb80a43795c31876a49ddbc82741962e
 
 Bali, this picturesque Indonesian island, will host a dazzling array of cultural celebrations in 2025. Whether you're aiming to avoid a particular time or join a Bali festival, this complete guide will serve as your ultimate index! Let's delve into the colorful and dynamic festivities this unique island presents!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c0f9a3baeb0aed740edc947ff8866451.jpg)
+![Complete Guide to Indonesia's Public Holidays & Bali Festiva](https://images.gobaligo.id/vocus/vocus_c0f9a3baeb0aed740edc947ff8866451.jpg)
 
 - **For those looking to avoid Bali's five peak seasons, check out:** [**Bali Actually Has Five Peak Tourist Seasons! How to Travel Smartly During Off-Peak Times?**](/blog/bali-peak-season-travel-tips/)
 - **When are Indonesia/Bali's rainy and dry seasons? See:** [**Best Time to Visit Bali? In-Depth Look at Dry Season, Rainy Season/Pros & Cons**](/blog/bali-best-time-to-visit/)
@@ -52,7 +52,7 @@ Click the 'Open Table of Contents' button for quick navigation
 
 ### **29th:** Chinese Lunar New Year**(Indonesian Public Holiday)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_09f7fefc9dd080bd21bce0fb2b64106b.png)
+![29th: Chinese Lunar New Year(Indonesian Public Holiday)](https://images.gobaligo.id/vocus/vocus_09f7fefc9dd080bd21bce0fb2b64106b.png)
 
 - January 1st, New Year's Day, is a public holiday worldwide, including in Indonesia/Bali, with celebrations peaking on December 31st. Indonesians observe a ~~spontaneous~~ 'Nataru' holiday during this period—see the festival description at the end of December.
 - January 27th marks [Siwa Ratri Day], one of the most important festivals in the Balinese calendar. Siwa Ratri emphasizes introspection, meditation, and seeking forgiveness. Rituals include staying awake for 36 hours, fasting for 24 hours, and maintaining silence for 12 hours. After this period, purification ceremonies are often held on beaches, alongside rituals at major temples across the island.
@@ -88,11 +88,11 @@ Escape the winter chill this Lunar New Year holiday! It's the perfect time for a
 - In the first two days of March, nearly 90% of Indonesia's Muslim population begins a month-long fast! What is fasting? Why fast? For a Q & A about Ramadan, check out Xiao Jie's mom's explanation: [The Origin and Significance of Ramadan｜Ramadan/Eid Q & A](https://youtu.be/15zXGMEE3Q8)
 - March 14th is Holi in 2025, a Hindu festival. Holi is a celebration of spring and love, also known as the Festival of Colors. On this day, people throw colored powder at each other and share food and sweets.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e262dc875b3d385b0a30b0bbc2488dff.jpg)
+![29th: Bali Silent Day & Hindu New Year (Nyepi) (Indonesian N](https://images.gobaligo.id/vocus/vocus_e262dc875b3d385b0a30b0bbc2488dff.jpg)
 
 - March 26: Omed Omedan, one of Bali's most exciting festivals. On this day, large groups of unmarried young people gather to participate in a mass kissing event. Men and women stand opposite each other, then begin hugging and kissing. Spectators cheer them on by splashing water. Foreign tourists are welcome to watch, but should avoid participating.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6b252b2d57e214e8d6f81ceac66a1617.png)
+![29th: Bali Silent Day & Hindu New Year (Nyepi) (Indonesian N](https://images.gobaligo.id/vocus/vocus_6b252b2d57e214e8d6f81ceac66a1617.png)
 
 - March 28: Bali's Ogoh-Ogoh Parade, a truly unique experience! Check out Xiao Jie's introduction and consider experiencing it for yourself if you have the chance:
 
@@ -123,7 +123,7 @@ The Eid al-Fitr period is also known as 'Lebaran'. For more about Eid al-Fitr, c
 - April 18th is a Christian holiday and, according to Indonesia's Pancasila principle of equality among the five major religions, it is also a national holiday in Indonesia.
 - Starting on April 23rd, Galungan & Kuningan (Galungan and Kuningan Festival) is one of Bali's most important festivals. Galungan begins on April 23rd and continues until Kuningan ten days later, celebrating the creation of the universe and the triumph of good over evil. During this festival, towering penjor decorations bring vibrant energy to the streets, while abundant offerings, rituals, and celebrations offer a glimpse into the island's rich cultural and spiritual heritage. Families honor their ancestors at home, seeking their blessings, and ceremonies are held in temples to pay respect to the gods. Galungan, according to Bali's Pawukon calendar, is also the day of the universe's creation. During this period, schools in Bali close for two weeks, highlighting the festival's significance! Note that transportation services such as ferries, private cars, and taxis may be affected. Many local guides and drivers take days off during the main celebrations, so it's best to book in advance. The day after Galungan, known as Manis Galungan, is when locals visit relatives or go out together, so you may find the roads particularly crowded. Large celebrations can also cause traffic congestion.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_915edf5929d8760c256d49e2bd7cc6c4.png)
+![April 23: Galungan & Kuningan (Balinese Hindu Festival)](https://images.gobaligo.id/vocus/vocus_915edf5929d8760c256d49e2bd7cc6c4.png)
 
 ## May
 
@@ -216,7 +216,7 @@ Penglipuran Village is a wonderful experience
 
 - August 1-2: The [Ubud Village Jazz Festival](https://ubudvillagejazzfestival.com/) (UVJF) is one of Asia's most important jazz events! This festival has become a signature event in Bali's cultural center, attracting jazz enthusiasts from around the world each year. In 2025, UVJF will take place on August 1st and 2nd at STHALA UBUD in Ubud, offering two unforgettable nights of music. UVJF 2025 has been selected by Indonesia's Ministry of Tourism and Creative Economy as one of the top ten national events of the year, highlighting its influence and significance. The festival brings together top jazz musicians from around the world and receives support from various embassies, making it an important platform for international cultural exchange.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b4d696ee672b4996982a4b26101af9ef.png)
+![August 27: Ganesh Chaturthi (Balinese Hindu Festival)](https://images.gobaligo.id/vocus/vocus_b4d696ee672b4996982a4b26101af9ef.png)
 
 - August 17: Indonesian Independence Day, also known as Indonesia's National Day, is celebrated annually on August 17th. On this day, Indonesians hold various celebratory activities, including fun competitions, parades, concerts, and fireworks displays.
 
@@ -264,7 +264,7 @@ Bali Carnival
 
 ### November 19: Galungan & Kuningan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b0e3cc8c2f397f61aa33ecbc19333ca.jpg)
+![November 19: Galungan & Kuningan](https://images.gobaligo.id/vocus/vocus_0b0e3cc8c2f397f61aa33ecbc19333ca.jpg)
 
 Starting on November 19, Galungan & Kuningan (Galungan and Kuningan Festival) is the second occurrence of this festival in 2025 and one of Bali's most important celebrations. Galungan begins on November 19 and continues until Kuningan 10 days later, celebrating the creation of the universe and the triumph of good over evil.
 
@@ -338,7 +338,7 @@ Festival activities are typically grand events for villages or communities, wher
 
 📩 **Join the 'Bali Travel Guide' Blog Now and Become a Bali Travel Expert!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Sign Up for Our Blog](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **By subscribing for free, you'll get:**
 

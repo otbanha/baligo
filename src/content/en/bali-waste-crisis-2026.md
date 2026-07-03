@@ -59,7 +59,7 @@ The outcome is predictable. Trash has begun piling up on the streets, attracting
 
 It's not just homes—trash has accumulated along roadsides, riverbanks, parks, and even around schools. In some areas, the garbage hasn't been collected for weeks, or even months.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778410715936-875170398066f6d1c6425d0677782900183c626ac4476a62b5884ef1cec23261.webp)
+![April 1: A Ban Without Backup Plans](https://images.gobaligo.id/images/2026-05/1778410715936-875170398066f6d1c6425d0677782900183c626ac4476a62b5884ef1cec23261.webp)
 
 ## The Dilemma of Garbage Truck Drivers: Nowhere to Dump
 

@@ -26,7 +26,7 @@ _srcHash: 79bfa123ab3afb11201ade9829f5116c
 
 eVoA (Electronic Visa on Arrival) adalah layanan visa praktis dari pemerintah Indonesia, bikin turis asing bisa apply visa elektronik sebelum tiba di Indonesia. Ini langkah buat dorong pariwisata dan tarik investor asing, proses visa jadi lebih simpel, pengalaman masuk Indonesia makin mulus.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ea63f982a4a65c2e26a1a5fcf1a94435.png)
+![Apa itu eVoA?](https://images.gobaligo.id/vocus/vocus_ea63f982a4a65c2e26a1a5fcf1a94435.png)
 
 ## **Negara yang Bebas Visa ke Indonesia**
 
@@ -64,7 +64,7 @@ VFS Global bakal resmi jalan **awal Desember** tahun ini, pas banget musim libur
 
 ## 📩 **Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Bali!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Ba](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

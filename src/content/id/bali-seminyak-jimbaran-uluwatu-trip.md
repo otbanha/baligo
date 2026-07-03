@@ -64,17 +64,17 @@ Hari itu cuacanya sangat bagus, kami beruntung bisa jalan ke Pura Tanah Lot sete
 
 The Tukad Villa di Seminyak ini villa yang super estetik dan bikin betah banget. Mereka sangat perhatian sama request ulang tahun yang dicatat dari awal, sampai-sampai mereka siapin kejutan ulang tahun spesial buat aku, dekorasinya sesuai banget sama seleraku.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120479887-_62282968.jpeg)
+![The Tukad Villa](https://images.gobaligo.id/images/2026-04/1777120479887-_62282968.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120480808-_62283119.jpeg)
+![The Tukad Villa](https://images.gobaligo.id/images/2026-04/1777120480808-_62283119.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120481190-_62283134.jpeg)
+![The Tukad Villa](https://images.gobaligo.id/images/2026-04/1777120481190-_62283134.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120481616-62282961.jpg)
+![The Tukad Villa](https://images.gobaligo.id/images/2026-04/1777120481616-62282961.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120482037-62283316.jpg)
+![The Tukad Villa](https://images.gobaligo.id/images/2026-04/1777120482037-62283316.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120482443-_62282949.jpeg)
+![The Tukad Villa](https://images.gobaligo.id/images/2026-04/1777120482443-_62282949.jpeg)
 
 Begitu masuk, langsung lihat kolam renang pribadi yang cantik banget, kamarnya bersih dan nyaman, bikin feel-nya kayak rumah kecil yang super chill. Semua stafnya ramah banget, dari sambutan sampai sarapan dan semua detailnya, pelayanannya setara hotel bintang lima.
 
@@ -110,7 +110,7 @@ Kalau kamu berencana surfing di Bali, wajib cari Odysseys Surf School - Bali!
 
 ## Ku De Ta Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ab0a3a5ac054d66ee5265ded695c92bc.jpg)
+![Ku De Ta Bali](https://images.gobaligo.id/vocus/vocus_ab0a3a5ac054d66ee5265ded695c92bc.jpg)
 
 Ku De Ta Bali adalah salah satu bar pantai paling cantik dan paling santai di Bali. Tempatnya luas banget, terletak di tepi pantai, bikin kamu bisa nikmatin angin laut, suara ombak, sambil menikmati minuman dan makanan enak—bener-bener kenikmatan hidup.
 
@@ -143,25 +143,25 @@ Kecuali ada monyet nakal yang hampir nyolong kacamata hitamku, sisanya semua ind
 
 Karma Jimbaran, Jimbaran Beach Villas By Nakula, jujur ini villa paling mantap, paling santai, dan paling mewah yang pernah aku tinggalin. Vila pribadi ini punya kolam renang sendiri, tiga kamar tidur, plus satu ruang tamu super besar.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120576870-73549_14070415490020155904_large.jpeg)
+![Karma Jimbaran](https://images.gobaligo.id/images/2026-04/1777120576870-73549_14070415490020155904_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120577326-73549_15111616300037773021_large.jpeg)
+![Karma Jimbaran](https://images.gobaligo.id/images/2026-04/1777120577326-73549_15111616300037773021_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120577737-73549_16062311530044006311_large.jpeg)
+![Karma Jimbaran](https://images.gobaligo.id/images/2026-04/1777120577737-73549_16062311530044006311_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120578252-73549_16062312490044008594_large.jpeg)
+![Karma Jimbaran](https://images.gobaligo.id/images/2026-04/1777120578252-73549_16062312490044008594_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120578714-b4f65ae90dc72dbc6ca9e4ec7d0262f3.jpg)
+![Karma Jimbaran](https://images.gobaligo.id/images/2026-04/1777120578714-b4f65ae90dc72dbc6ca9e4ec7d0262f3.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120579117-c43f3aa0ec5a4fee4e290504337e42c8_large.jpeg)
+![Karma Jimbaran](https://images.gobaligo.id/images/2026-04/1777120579117-c43f3aa0ec5a4fee4e290504337e42c8_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120579598-6faacc7b812ea594cffd6ff0a37b03e4_large.jpeg)
+![Karma Jimbaran](https://images.gobaligo.id/images/2026-04/1777120579598-6faacc7b812ea594cffd6ff0a37b03e4_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120579986-9e5e5d8471b8bc7327ea2cbd0b20462e.jpg)
+![Karma Jimbaran](https://images.gobaligo.id/images/2026-04/1777120579986-9e5e5d8471b8bc7327ea2cbd0b20462e.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120580521-278fb19eff62202bee14dde627edddbb_large.jpeg)
+![Karma Jimbaran](https://images.gobaligo.id/images/2026-04/1777120580521-278fb19eff62202bee14dde627edddbb_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120581033-708ec567f91f7237a8a3461084cf689c_large.jpeg)
+![Karma Jimbaran](https://images.gobaligo.id/images/2026-04/1777120581033-708ec567f91f7237a8a3461084cf689c_large.jpeg)
 
 Begitu check-in, langsung dapat minuman sambutan yang dingin. Pagi harinya, ada private chef yang masakin sarapan langsung. Malamnya, bisa nikmatin pijat massase pribadi. Pas udah di sini, bener-bener ogah pulang.
 
@@ -183,7 +183,7 @@ Di bawah pemandangan keren ini, aku harus puji lagi tour guidenya. Dia bawa rans
 
 Restoran dinner di Four Seasons, Sundara, nggak bisa dipungkiri, dari pintu masuk yang megah langsung terasa suasananya mewah. Posisinya di tepi pantai, pemandangan oke banget, ada live band juga, suasananya, pelayanannya, lingkungannya, dan semua detailnya bener-bener 💯.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4a1c285ebde315bf580e113c530ea376.jpg)
+![Sundara by Four Seasons](https://images.gobaligo.id/vocus/vocus_4a1c285ebde315bf580e113c530ea376.jpg)
 
 Tapi, maaf banget, makanannya enggak enak banget sampai nggak bisa dikasih nilai. Tempat ini pengennya buat santai nikmatin romantisme pantai, sayangnya cuma bertahan satu jam terus pergi. Koki, tolong ditingkatkan! Meskipun harganya mahal, kualitas makanannya bener-bener mengecewakan.
 

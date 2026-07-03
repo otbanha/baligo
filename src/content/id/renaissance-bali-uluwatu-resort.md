@@ -38,27 +38,27 @@ _srcHash: fc02c06322b9688735a487f310d2c9b0
 
 Terletak di ujung selatan Bali, tepatnya di Uluwatu, Renaissance Bali Uluwatu Resort & Spa adalah resor bintang lima yang dibuka tahun 2019 oleh Marriott International. Berada di dekat Pantai Uluwatu yang terkenal, resor ini menawarkan pemandangan laut yang spektakuler. Dengan memadukan elemen lokal Bali ke dalam arsitektur modern, tempat ini memberikan pengalaman menginap berkualitas tinggi yang sarat budaya. Cocok banget buat pasangan yang cari ketenangan maupun keluarga yang liburan bareng anak.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417812568-1.jpeg)
+![Surga Liburan Mewah nan Eksklusif di Uluwatu, Bali](https://images.gobaligo.id/images/2026-03/1774417812568-1.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417814467-10.jpg)
+![Surga Liburan Mewah nan Eksklusif di Uluwatu, Bali](https://images.gobaligo.id/images/2026-03/1774417814467-10.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417815064-2.jpeg)
+![Surga Liburan Mewah nan Eksklusif di Uluwatu, Bali](https://images.gobaligo.id/images/2026-03/1774417815064-2.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417815490-3.jpeg)
+![Surga Liburan Mewah nan Eksklusif di Uluwatu, Bali](https://images.gobaligo.id/images/2026-03/1774417815490-3.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417816135-4.jpeg)
+![Surga Liburan Mewah nan Eksklusif di Uluwatu, Bali](https://images.gobaligo.id/images/2026-03/1774417816135-4.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417816828-5.jpeg)
+![Surga Liburan Mewah nan Eksklusif di Uluwatu, Bali](https://images.gobaligo.id/images/2026-03/1774417816828-5.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417817498-6.jpeg)
+![Surga Liburan Mewah nan Eksklusif di Uluwatu, Bali](https://images.gobaligo.id/images/2026-03/1774417817498-6.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417818132-6.jpg)
+![Surga Liburan Mewah nan Eksklusif di Uluwatu, Bali](https://images.gobaligo.id/images/2026-03/1774417818132-6.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417818758-7.jpg)
+![Surga Liburan Mewah nan Eksklusif di Uluwatu, Bali](https://images.gobaligo.id/images/2026-03/1774417818758-7.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417819462-8.jpg)
+![Surga Liburan Mewah nan Eksklusif di Uluwatu, Bali](https://images.gobaligo.id/images/2026-03/1774417819462-8.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417819885-9.jpg)
+![Surga Liburan Mewah nan Eksklusif di Uluwatu, Bali](https://images.gobaligo.id/images/2026-03/1774417819885-9.jpg)
 
 > ▶[Cek harga promo Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2562742) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=10506934&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6zczFJMEk9YWZY_OUSf9YhRiNDDgtPgk6GoMAzyQHT5F17g-rrk11COBpZLy-uMCWiz3AYQbjtqWNrCsYGTcycoHEgvIcdjAyHWBkOsF4z2gB08pl8zlOsTBzPOe4xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsU2NzPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FugCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebduNwuaUBisvNB8TlxrWxj1iYomM_sTD8YmFoYmXoYmWYxMrMcc9oFytPoFeUe0SQrqFulK6hlLyhgYGBqaGxqamuQaJlopmBYYquiaWJkZmZromRsaWpxuVfFy88MTaylmKdcuD5NHYFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbGZGjgZGxlE2XMyeLkGCH_Seb2-3trSXYg4Jd1H8sPyYt3nnaXstkJwhTC5wz-ucE_bGC-wjYfJJrFUZuiHhGcfFChgbGJm6GLkFGD0YIxgrgDzGVYzsXMwGRoYCTBsYGXcw_ocBxleMIEsALv23-ucCAAA&masterhotelid_tracelogid=100051355-0a9a601d-494266-42395&detailFilters=17|1~17~1*31|10506934~31~10506934*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=976&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/6Y0hux6A)
 
@@ -66,17 +66,17 @@ Terletak di ujung selatan Bali, tepatnya di Uluwatu, Renaissance Bali Uluwatu Re
 
 Buat kamu yang liburan bareng pasangan, keluarga, atau teman-teman, pilihan kamar di sini beragam banget:
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417612749-2025-10-03.webp)
+![Kamar Nyaman & Elegan, Cocok buat Semua Tipe Traveler](https://images.gobaligo.id/images/2026-03/1774417612749-2025-10-03.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417613137-433469507.jpg)
+![Kamar Nyaman & Elegan, Cocok buat Semua Tipe Traveler](https://images.gobaligo.id/images/2026-03/1774417613137-433469507.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417613534-433469726.jpg)
+![Kamar Nyaman & Elegan, Cocok buat Semua Tipe Traveler](https://images.gobaligo.id/images/2026-03/1774417613534-433469726.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417613914-571584367.jpg)
+![Kamar Nyaman & Elegan, Cocok buat Semua Tipe Traveler](https://images.gobaligo.id/images/2026-03/1774417613914-571584367.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417614376-643163525.jpg)
+![Kamar Nyaman & Elegan, Cocok buat Semua Tipe Traveler](https://images.gobaligo.id/images/2026-03/1774417614376-643163525.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417615277-643163528.jpg)
+![Kamar Nyaman & Elegan, Cocok buat Semua Tipe Traveler](https://images.gobaligo.id/images/2026-03/1774417615277-643163528.jpg)
 
 - Kamar Deluxe dengan Pemandangan Laut: bisa lihat langsung Samudra Hindia dari kamar
 - Suite dengan Kolam Renang Pribadi: pengalaman liburan yang lebih privat dan mewah
@@ -90,15 +90,15 @@ Setiap kamar punya balkon pribadi, kamar mandi dengan shower hujan, dan perlengk
 
 Salah satu keunggulan Renaissance Bali Uluwatu Resort & Spa yang dirancang khusus untuk keluarga dengan anak adalah Kids Club dua lantai yang unik. Ruang yang lengkap ini tidak hanya bikin anak-anak betah main, tapi juga bikin orang tua bisa santai menikmati waktu sendiri.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417905717-k0.jpg)
+![Kids Club Dua Lantai: Surga Bermain Impian Anak-Anak](https://images.gobaligo.id/images/2026-03/1774417905717-k0.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417907531-k1.jpg)
+![Kids Club Dua Lantai: Surga Bermain Impian Anak-Anak](https://images.gobaligo.id/images/2026-03/1774417907531-k1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417908694-k2.jpg)
+![Kids Club Dua Lantai: Surga Bermain Impian Anak-Anak](https://images.gobaligo.id/images/2026-03/1774417908694-k2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417910996-k3.jpg)
+![Kids Club Dua Lantai: Surga Bermain Impian Anak-Anak](https://images.gobaligo.id/images/2026-03/1774417910996-k3.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417911909-k5.jpg)
+![Kids Club Dua Lantai: Surga Bermain Impian Anak-Anak](https://images.gobaligo.id/images/2026-03/1774417911909-k5.jpg)
 
 ### Fitur utama meliputi:
 
@@ -126,7 +126,7 @@ Restoran di resort ini juga punya ciri khas masing-masing:
 
 ## Relaksasi Tubuh dan Pikiran di The Spa at Renaissance
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff8d34580de1fbcba4590926881018fa.jpg)
+![Relaksasi Tubuh dan Pikiran di The Spa at Renaissance](https://images.gobaligo.id/vocus/vocus_ff8d34580de1fbcba4590926881018fa.jpg)
 
 Di dalam resort, The Spa menawarkan berbagai pijat tradisional Bali, perawatan aromaterapi, dan facial. Kamu bisa pilih perawatan sendiri atau paket berdua, sambil menikmati hembusan angin laut yang bikin rileks banget.
 
@@ -140,7 +140,7 @@ Cuma 30 menit berkendara dari Bandara Internasional Bali, kami sudah rangkum 50 
 
 ## Cek Harga Promo Agoda untuk Tanggal yang Kamu Pilih
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_983ab3be12c708f9b8ec24c4b9670c3f.jpg)
+![Cek Harga Promo Agoda untuk Tanggal yang Kamu Pilih](https://images.gobaligo.id/vocus/vocus_983ab3be12c708f9b8ec24c4b9670c3f.jpg)
 
 > ▶ Klik [di sini](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2562742) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=10506934&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6zczFJMEk9YWZY_OUSf9YhRiNDDgtPgk6GoMAzyQHT5F17g-rrk11COBpZLy-uMCWiz3AYQbjtqWNrCsYGTcycoHEgvIcdjAyHWBkOsF4z2gB08pl8zlOsTBzPOe4xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsU2NzPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FugCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebduNwuaUBisvNB8TlxrWxj1iYomM_sTD8YmFoYmXoYmWYxMrMcc9oFytPoFeUe0SQrqFulK6hlLyhgYGBqaGxqamuQaJlopmBYYquiaWJkZmZromRsaWpxuVfFy88MTaylmKdcuD5NHYFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbGZGjgZGxlE2XMyeLkGCH_Seb2-3trSXYg4Jd1H8sPyYt3nnaXstkJwhTC5wz-ucE_bGC-wjYfJJrFUZuiHhGcfFChgbGJm6GLkFGD0YIxgrgDzGVYzsXMwGRoYCTBsYGXcw_ocBxleMIEsALv23-ucCAAA&masterhotelid_tracelogid=100051355-0a9a601d-494266-42395&detailFilters=17|1~17~1*31|10506934~31~10506934*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=976&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/6Y0hux6A)
 

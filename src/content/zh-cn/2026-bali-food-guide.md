@@ -26,31 +26,31 @@ _srcHash: e46b7b5c4cbf781b5d6c22dad068ac6e
 
 巴厘岛不仅拥有迷人的海滩和丰富的文化，更是美食爱好者的天堂！这次要带大家深入了解巴厘岛最具代表性的10道必吃美食，从传统主菜到街头小吃，每一道都充满了印尼独特的香料风味。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b027619db0a88baf3fea8f8c63193a9d.jpg)
+![【2026 巴厘岛美食攻略】10 大必吃经典与街头小吃：烤乳猪、沙嗲到脏鸭饭全纪录](https://images.gobaligo.id/vocus/vocus_b027619db0a88baf3fea8f8c63193a9d.jpg)
 
 ## 🍖 经典主菜系列
 
 ### 1. Babi Guling（烤乳猪）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4bda84a271f14b852043e10008699dc3.jpg)
+![1. Babi Guling（烤乳猪）](https://images.gobaligo.id/vocus/vocus_4bda84a271f14b852043e10008699dc3.jpg)
 
 来巴厘岛绝对不能错过的招牌料理！整只乳猪填入香料后慢火烤制，外皮金黄酥脆，肉质软嫩多汁。通常会搭配白饭、脆皮、烤肠和甘薯一起享用，每一口都是香料的完美融合。
 
 ### 2. Nasi Campur Bali（印尼杂菜饭）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_af1ea75fd01be79bb6fc4b742a352357.jpg)
+![2. Nasi Campur Bali（印尼杂菜饭）](https://images.gobaligo.id/vocus/vocus_af1ea75fd01be79bb6fc4b742a352357.jpg)
 
 这是巴厘岛版的什锦饭，一盘集合了各式酱汁烧肉、印尼杂菜饭的精华。通常包含米饭、炸鸡或烤肉、蔬菜、花生、虾饼等丰富配料，让你一次品尝多种风味！
 
 ### 3. Betutu（香料烤鸡/鸭）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3be3ad88c261f5abe0846db474c3d02c.png)
+![3. Betutu（香料烤鸡/鸭）](https://images.gobaligo.id/vocus/vocus_3be3ad88c261f5abe0846db474c3d02c.png)
 
 这是巴厘岛传统的慢烤料理，将整只鸡或鸭用香料腌制后，包裹在香蕉叶中缓慢烤制数小时。浓郁的香料完全渗入肉质，让人吃过难忘。
 
 ### 4. Jimbaran Seafood（金巴兰海鲜烧烤）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_936c1dc67021ff7ed3d35d7002572a20.jpg)
+![4. Jimbaran Seafood（金巴兰海鲜烧烤）](https://images.gobaligo.id/vocus/vocus_936c1dc67021ff7ed3d35d7002572a20.jpg)
 
 金巴兰海滩以海鲜烧烤闻名，新鲜的海鲜配上日落美景简直是人间享受！现捞现烤的鱼、虾、龙虾等海鲜，淋上特制酱料，是到巴厘岛必须体验的浪漫用餐方式。
 
@@ -62,31 +62,31 @@ _srcHash: e46b7b5c4cbf781b5d6c22dad068ac6e
 
 ### 5. Sate Lilit（香料熟肉串）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b96032c8d4ab3b3ca235a5f349e93f34.jpg)
+![5. Sate Lilit（香料熟肉串）](https://images.gobaligo.id/vocus/vocus_b96032c8d4ab3b3ca235a5f349e93f34.jpg)
 
 巴厘岛特色烤肉串，不同于一般的串烧，Sate Lilit是将调味过的碎肉包裹在柠檬草或竹签上烤制，香气四溢，一串接一串停不下来！
 
 ### 6. Pisang Goreng（炸香蕉）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_da510f477a3b99474e4e823a2e97cbf8.jpg)
+![6. Pisang Goreng（炸香蕉）](https://images.gobaligo.id/vocus/vocus_da510f477a3b99474e4e823a2e97cbf8.jpg)
 
 炸香蕉是巴厘岛最受欢迎的街头点心。椰炸香蕉裹上面糊油炸至金黄酥脆，外酥内软，简单却令人上瘾的美味。
 
 ### 7. Klepon（椰丝米糕）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_069db0e5cc1da39c0aba61f76f04ddec.jpg)
+![7. Klepon（椰丝米糕）](https://images.gobaligo.id/vocus/vocus_069db0e5cc1da39c0aba61f76f04ddec.jpg)
 
 这款可爱的绿色糯米球是巴厘岛传统甜点，内馅包裹着椰糖，外层裹满椰丝。一口咬下，椰糖浆汁在口中爆开，甜而不腻。
 
 ### 8. Jajanan Pasar（传统市场小吃）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_27d9ed090f2e0d6d77985588b30b22e2.png)
+![8. Jajanan Pasar（传统市场小吃）](https://images.gobaligo.id/vocus/vocus_27d9ed090f2e0d6d77985588b30b22e2.png)
 
 巴厘岛传统市场里藏着各式各样的糕点小吃，色彩缤纷的传统甜点如彩虹糕、椰香糕等，每一款都充满当地特色，是体验在地文化的最佳方式。
 
 ### 9. Lawar（凉拌肉菜）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b63c90ffa74ac14509bd2a00bb1cedb3.jpg)
+![9. Lawar（凉拌肉菜）](https://images.gobaligo.id/vocus/vocus_b63c90ffa74ac14509bd2a00bb1cedb3.jpg)
 
 虽然名为「凉拌」，但Lawar其实是一道混合了蔬菜、椰肉、香料和肉类的传统料理。凉爽开胃的口感搭配浓郁的香料，非常适合作为餐前菜。
 
@@ -94,7 +94,7 @@ _srcHash: e46b7b5c4cbf781b5d6c22dad068ac6e
 
 ### 10. Kopi Bali（巴厘岛咖啡）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f3c741d3dfe2aeb90d97b02560dfe140.jpg)
+![10. Kopi Bali（巴厘岛咖啡）](https://images.gobaligo.id/vocus/vocus_f3c741d3dfe2aeb90d97b02560dfe140.jpg)
 
 巴厘岛的咖啡豆生长在火山土壤中，风味独特浓郁。来到巴厘岛，一定要品尝当地新鲜烘焙的咖啡，搭配壮丽的梯田景观，完美结束美食之旅！**有名代表**：**「Kintamani Coffee」** 就是产自该地区的知名标志。
 

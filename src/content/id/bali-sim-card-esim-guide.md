@@ -72,7 +72,7 @@ Ini dia panduan lengkap buat yang pengen tahu lebih dalam.
 
 ### Telkomsel (Jangkauan Paling Luas, Pilihan Utama Traveler)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779239732579-af57c619fd217399aaa52c62626b953e.jpg)
+![Telkomsel (Jangkauan Paling Luas, Pilihan Utama Traveler)](https://images.gobaligo.id/images/2026-05/1779239732579-af57c619fd217399aaa52c62626b953e.jpg)
 
 Provider terbesar di Indonesia, market share sekitar 55%. Di semua area Bali, termasuk desa pegunungan kayak Amed, Munduk, Sidemen, sinyal 4G Telkomsel paling stabil dibanding dua provider lainnya.
 
@@ -118,7 +118,7 @@ Di Seminyak, Kuta kecepatan 4G kadang lebih kencang dari Telkomsel, tapi batas c
 
 ### Cocok Buat Siapa?
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779239791356-1301665_720.jpg)
+![Cocok Buat Siapa?](https://images.gobaligo.id/images/2026-05/1779239791356-1301665_720.jpg)
 
 **Klook eSIM** — Paling direkomendasi buat kamu yang baru pertama kali beli eSIM. Beli lewat situs Taiwan, antarmuka Mandarin, CS pake bahasa Mandarin, kalau ada masalah bisa langsung komunikasi. Paketnya fleksibel, 5 hari 3GB sekitar USD$8–11, worth it banget, nggak kalah sama Airalo. 📎 [Klook SIM/eSIM Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1280819&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520sim)
 
@@ -140,7 +140,7 @@ Di Seminyak, Kuta kecepatan 4G kadang lebih kencang dari Telkomsel, tapi batas c
 
 ## Beli SIM Card Fisik di Mana — Panduan Lengkap
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779240020594-e5c025ea6a97e3839ab39d4ff832db68.jpg)
+![Beli SIM Card Fisik di Mana — Panduan Lengkap](https://images.gobaligo.id/images/2026-05/1779240020594-e5c025ea6a97e3839ab39d4ff832db68.jpg)
 
 ### 1. Beli di Bandara Bali (DPS)
 
@@ -209,7 +209,7 @@ Gobaligo udah ngumpulin **lokasi gerai resmi** Telkomsel, Indosat, dan XL di ber
 
 ## Panduan Instalasi Lengkap
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779240073782-069909000_1519793545-where-to-buy-sim-card-in-ho-chi-minh.webp)
+![Panduan Instalasi Lengkap](https://images.gobaligo.id/images/2026-05/1779240073782-069909000_1519793545-where-to-buy-sim-card-in-ho-chi-minh.webp)
 
 ### Instalasi eSIM di iPhone
 
@@ -273,7 +273,7 @@ Pakai SIM Bali buat internet, tetap pakai nomor Taiwan buat nelpon:
 
 ## Tabel perbandingan biaya (Mei 2026)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779240159646-16b26247f129650058de3f56b7be640d.jpg)
+![Tabel perbandingan biaya (Mei 2026)](https://images.gobaligo.id/images/2026-05/1779240159646-16b26247f129650058de3f56b7be640d.jpg)
 
 Berikut perbandingan biaya tiap paket:
 

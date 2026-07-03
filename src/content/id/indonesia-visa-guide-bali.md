@@ -27,7 +27,7 @@ Pihak resmi bilang: "Visa ditolak itu pasti bikin frustrasi, tapi sebenarnya ban
 
 Yuk, langsung aja kita bahas kesalahan paling umum saat ngurus visa Indonesia dan gimana cara ngatasinnya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fa817dcbf8920a031cce812823af7cc3.jpg)
+![Gimana Sih Biar Gak Salah Urus Visa Indonesia?](https://images.gobaligo.id/vocus/vocus_fa817dcbf8920a031cce812823af7cc3.jpg)
 
 ---
 
@@ -111,7 +111,7 @@ Selain eVisa on Arrival, jenis visa lain biasanya minta kamu kasih rencana perja
 
 ## **🛂 Cara daftar eVisa on Arrival Indonesia?**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_70703b99831da726cd9eeac97e780116.png)
+![Cara daftar eVisa on Arrival Indonesia?](https://images.gobaligo.id/vocus/vocus_70703b99831da726cd9eeac97e780116.png)
 
 ✅ **Waktu pendaftaran:** Paling cepat **90 hari sebelum masuk**
 
@@ -153,7 +153,7 @@ Cek aja [panduan visa Indonesia/Bali](/blog/indonesia-bali-visa-evoa-faq/) yang 
 
 ## 📩 **Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Bali!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Ba](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

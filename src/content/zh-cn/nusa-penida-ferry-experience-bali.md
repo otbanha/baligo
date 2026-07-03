@@ -46,7 +46,7 @@ Mei Yi Liao提供：沙努尔的登船处，沙努港口设施很完善，上下
 
 ## 探索岛上的美景和美食
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d8505be114d780f2f4c578a7fcfc798d.png)
+![探索岛上的美景和美食](https://images.gobaligo.id/vocus/vocus_d8505be114d780f2f4c578a7fcfc798d.png)
 
 佩尼达岛的景色绝对不容错过。无论是著名的克林金海滩（Kelingking Beach），还是天使浴池（Angel's Billabong），都让人惊叹不已。这些景点不仅拥有壮丽的自然风光，还有清澈见底的海水和壮观的悬崖景色，让人流连忘返。
 
@@ -68,7 +68,7 @@ Mei Yi Liao提供：沙努尔的登船处，沙努港口设施很完善，上下
 
 ## 结语
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc858943113e1373efd0c30989c2c3c2.png)
+![结语](https://images.gobaligo.id/vocus/vocus_bc858943113e1373efd0c30989c2c3c2.png)
 
 这次的佩尼达岛之行，让我们深深感受到大自然的壮丽和当地人的热情。无论是海上航行的刺激，还是岛上美景和美食的享受，都让我们难以忘怀。非常感谢之前社友提供的资料，这次的旅程真是受益匪浅，我也希望这篇游记能对大家有所帮助。如果你计划前往佩尼达岛，一定不要错过这些美丽的景点和美食，祝你有个美好的旅程！
 

@@ -43,7 +43,7 @@ _srcHash: 6f0df00f65b75e86a0b4fd0576184572
 
 Kalau kamu lagi cari tempat liburan yang bisa bikin rileks sekaligus bikin melongo, **Six Senses Uluwatu** di Bali wajib banget masuk daftar! Pengalaman nginep di sini tuh kayak petualangan mimpi, penuh kejutan dan rasa penasaran, sampai gak sabar pengen cerita ke kalian semua.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d2d4ba1a1909f10d926a153cb8dd425c.jpg)
+![Review Admin: Six Senses Uluwatu di Bali – Kemewahan di Tebi](https://images.gobaligo.id/vocus/vocus_d2d4ba1a1909f10d926a153cb8dd425c.jpg)
 
 ***
 
@@ -51,7 +51,7 @@ Kalau kamu lagi cari tempat liburan yang bisa bikin rileks sekaligus bikin melon
 
 Six Senses Uluwatu terletak di tebing Uluwatu, Bali, menghadap ke Samudra Hindia yang megah, pemandangannya bikin napas tersengal. Sebagai destinasi terakhir pengalaman mewah di Uluwatu, resort ini menggabungkan keindahan alam, kemewahan modern, dan konsep pariwisata berkelanjutan, bikin liburan kamu gak terlupakan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f685310380c86680dce3f72475d7e82.jpg)
+![Kemewahan di Tebing: Nginep di Six Senses Uluwatu](https://images.gobaligo.id/vocus/vocus_2f685310380c86680dce3f72475d7e82.jpg)
 
 Kami booking satu malam lewat platform reservasi, harganya USD$477 (harga low season). Memang lumayan mahal, tapi begitu kamu melangkah ke surga di tebing ini, kamu bakal sadar setiap sennya worth it! Hotel ini sekitar 5 km dari [**Suluban Beach**](/blog/suluban-beach-hidden-gem/), dan 3,7 km dari [**Padang Padang Beach**](/blog/bali-hidden-beaches-guide/). Jarak dari Bandara Internasional Bali sekitar 11 km, aksesnya gampang banget.
 
@@ -63,9 +63,9 @@ Dari detik pertama masuk hotel, kami langsung terpukau sama pemandangannya—Sam
 
 ## **103 Vila Pribadi: Perpaduan Sempurna Antara Kemewahan dan Privasi**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b5911c2e9e61af67452334c9bf308303.jpg)
+![103 Vila Pribadi: Perpaduan Sempurna Antara Kemewahan dan Pr](https://images.gobaligo.id/vocus/vocus_b5911c2e9e61af67452334c9bf308303.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e97dd8b05dc9f3a0a22214a85574d3a.jpg)
+![103 Vila Pribadi: Perpaduan Sempurna Antara Kemewahan dan Pr](https://images.gobaligo.id/vocus/vocus_2e97dd8b05dc9f3a0a22214a85574d3a.jpg)
 
 Six Senses Uluwatu punya **103 vila privat** yang super eksklusif, masing-masing dilengkapi kolam renang infinity dengan pemandangan laut dan taman di tengahnya. Ruangannya gede banget, desainnya mewah dan stylish, bikin kamu betah banget begitu check-in. Setiap kamar juga punya teras outdoor buat nikmatin pemandangan laut yang spektakuler. Kamar mandinya dilengkapi wastafel ganda, shower indoor dan outdoor, perlengkapan mandi premium, dan toilet canggih — bikin kamu merasa nyaman dan praktis banget.
 
@@ -75,11 +75,11 @@ Six Senses Uluwatu punya **103 vila privat** yang super eksklusif, masing-masing
 
 Kali ini milih Six Senses Uluwatu, salah satu alasan utamanya karena kami belum pernah coba **golf**, dan **ocean golf** di sini bener-bener bikin kagum! Bayangin aja, pukul bola golf ke laut, bolanya bakal terurai alami jadi makanan ikan — seru sekaligus ramah lingkungan! Cuma baca deskripsinya aja udah bikin penasaran, kan?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d4aa34e8adecc09109f23cb4eeddda62.jpg)
+![Ocean Golf: Seru dan Ramah Lingkungan](https://images.gobaligo.id/vocus/vocus_d4aa34e8adecc09109f23cb4eeddda62.jpg)
 
 Sayangnya, hari pertama cuaca kurang bersahabat, jadi kami nggak bisa ikut aktivitas ini. Hati langsung drop banget. Soalnya, ini alasan utama kami datang! Tapi pelayanan Six Senses emang nggak ada obatnya. Keesokan harinya, staf hotel khusus ngatur jadwal buat kami biar tetep bisa dapet pengalaman yang udah ditunggu-tunggu. Meskipun kami **pemula banget main golf** — asal pukul aja — sensasi ngelempar bola ke laut itu bikin kami excited luar biasa! Bener-bener pengalaman yang nggak terlupakan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3579b3cb984f87e5f72b72c3233f00ff.jpg)
+![Ocean Golf: Seru dan Ramah Lingkungan](https://images.gobaligo.id/vocus/vocus_3579b3cb984f87e5f72b72c3233f00ff.jpg)
 
 ***
 
@@ -103,9 +103,9 @@ https://youtube.com/shorts/o2Hwc21gJXo?si=aZkDvyRYMt6vOAyj
 
 Setiap kamar dilengkapi **kolam renang pribadi**, ini sih udah jadi standar liburan mewah banget! Uniknya, kartu kamarnya berbentuk **papan kayu kecil**, desainnya lucu banget. Fasilitas di dalam kamar lengkap semua, termasuk AC, TV satelit layar datar, speaker nirkabel, dan mesin kopi organik. Setiap kamar juga punya teras outdoor dengan pemandangan laut yang kece abis. Kamar mandinya dilengkapi wastafel ganda, pancuran indoor dan outdoor, perlengkapan mandi premium, dan toilet canggih, bikin kamu merasa super nyaman dan praktis.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e547727674567710bbff68e3543fbf6c.jpg)
+![Kolam Renang Pribadi & Desain yang Penuh Perhatian: Kenikmat](https://images.gobaligo.id/vocus/vocus_e547727674567710bbff68e3543fbf6c.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b4b425fba089da31328a63b6669f2db0.jpg)
+![Kolam Renang Pribadi & Desain yang Penuh Perhatian: Kenikmat](https://images.gobaligo.id/vocus/vocus_b4b425fba089da31328a63b6669f2db0.jpg)
 
 Sore hari, hotel juga menyediakan **es krim gratis**, dan ini dibuat dari buah segar! Aku coba rasa pepaya, rasanya 'super pepaya' banget! Aroma buahnya yang kuat bikin nagih.
 
@@ -115,7 +115,7 @@ Sore hari, hotel juga menyediakan **es krim gratis**, dan ini dibuat dari buah s
 
 Six Senses Uluwatu bahkan peduli sama **anabul** (anak bulu)! Kami beli oleh-oleh di toko hotel buat anjing di rumah, pelayanan yang detail begini bikin hati hangat banget.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_470cb0e716097aa7531e416f2b9e759b.jpg)
+![Kado Spesial untuk Anabul](https://images.gobaligo.id/vocus/vocus_470cb0e716097aa7531e416f2b9e759b.jpg)
 
 ***
 
@@ -123,19 +123,19 @@ Six Senses Uluwatu bahkan peduli sama **anabul** (anak bulu)! Kami beli oleh-ole
 
 Sarapan di hotel menyediakan buffet yang berlimpah, penuh pilihan sehat, bikin kamu semangat mulai hari. **Restoran Rocka** menyajikan perpaduan sempurna antara masakan Indonesia dan internasional, dengan fokus pada bahan segar dan lokal. Sedangkan **Watu Steakhouse** menggabungkan steak premium dengan masakan Jepang, tradisi dan cita rasa internasional berpadu, bikin ngiler.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a6ba0d91ec3e7fe7534901da3aa1886.jpg)
+![Makanan & SPA: Pesta untuk Lidah dan Jiwa](https://images.gobaligo.id/vocus/vocus_9a6ba0d91ec3e7fe7534901da3aa1886.jpg)
 
 https://youtube.com/shorts/X7SjftQMkXc?si=w5KIl3JI0H62Dvfw
 
 Saat makan malam, restoran menjelaskan **Sambal** khas Indonesia dengan detail banget, gambar di menu bikin langsung paham. Kami pesan pasta simpel, rasanya ternyata enak di luar dugaan!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4c5aa51fb0b9ec699583b373e96f0f19.jpg)
+![Makanan & SPA: Pesta untuk Lidah dan Jiwa](https://images.gobaligo.id/vocus/vocus_4c5aa51fb0b9ec699583b373e96f0f19.jpg)
 
 Selain itu, **pengalaman SPA** di hotel juga keren banget, fasilitasnya termasuk 8 ruang perawatan, ruang relaksasi, kolam spa, sauna, dan ruang uap, plus ada paviliun yoga ber-AC dan pusat kebugaran buka 24 jam. Kalau kamu ke sini, jangan sampai kelewatan!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ab8629f80bb2034d4e5211ce17edc244.jpg)
+![Makanan & SPA: Pesta untuk Lidah dan Jiwa](https://images.gobaligo.id/vocus/vocus_ab8629f80bb2034d4e5211ce17edc244.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fe4770ec54e1e0af8f6c7654b0171082.jpg)
+![Makanan & SPA: Pesta untuk Lidah dan Jiwa](https://images.gobaligo.id/vocus/vocus_fe4770ec54e1e0af8f6c7654b0171082.jpg)
 
 ***
 
@@ -147,7 +147,7 @@ Terakhir, ada satu detail kecil yang bikin senyum-senyum sendiri—**nada dering
 
 ## **Kesimpulan: Semalam aja nggak cukup!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17ba45bcf8d46b025a496cb54dcd0c53.jpg)
+![Kesimpulan: Semalam aja nggak cukup!](https://images.gobaligo.id/vocus/vocus_17ba45bcf8d46b025a496cb54dcd0c53.jpg)
 
 Six Senses Uluwatu adalah destinasi liburan yang nggak ada cacatnya. Dari pemandangan alam yang spektakuler sampai pelayanan yang perhatian, setiap detailnya bikin kamu kagum dan puas. Satu-satunya penyesalan? **Semalam aja terlalu singkat**! Kalau kamu punya kesempatan ke Bali, jangan sampai kelewatan surga di atas tebing ini — dijamin bakal bikin kamu betah dan nggak mau pulang!
 

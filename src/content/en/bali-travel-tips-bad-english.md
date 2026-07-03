@@ -88,7 +88,7 @@ We hope these tools make your journey smoother!
 
 ### Get Ready to Use Gestures and Body Language
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0ff0cc36ce9dcbe84037c3d128775f67.jpg)
+![Get Ready to Use Gestures and Body Language](https://images.gobaligo.id/vocus/vocus_0ff0cc36ce9dcbe84037c3d128775f67.jpg)
 
 Even if you don't speak the local language or English, you can still communicate with locals using gestures, facial expressions, and body language. These non-verbal communication methods are essential tools for cross-cultural interaction, helping you express yourself and understand others.
 

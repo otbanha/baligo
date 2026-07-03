@@ -36,7 +36,7 @@ _srcHash: 7ed2ebb005462493084e271330eacd62
 
 如果你想住在水明漾的正中心、步行就能到处逛、回酒店还有屋顶泳池可以看夕阳，那 Cross Paasha Bali Seminyak 这间四星设计风精品酒店很值得考虑。这间酒店以前叫 U Paasha，后来改名 Cross Paasha，位置一样在 Jl. Laksmana 77 号，Kayu Aya 街的核心地带，99间房全是套房等级，格局宽敞、设计感强，是水明漾这一带性价比颇高的选择之一。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231500443-roof1.jpg)
+![Cross Paasha Bali Seminyak｜水明漾艺术精品 Villa 完整评测 2026 - Go Bali](https://images.gobaligo.id/images/2026-04/1776231500443-roof1.jpg)
 
 ***
 
@@ -54,19 +54,19 @@ Cross Paasha 坐落在水明漾最精华的 Laksmana 区，就是大家说的「
 
 走进大厅，第一印象就不像传统巴厘岛风格的度假村——挑高天花板、几何砖墙、流线型家具，工业风和现代设计感结合得很有品味。入住时有免费迎宾饮料，大厅酒吧区灯光偏暗，气氛很酷，吸引的住客确实以年轻族群和情侣为主。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231575224-lobi.webp)
+![设施介绍](https://images.gobaligo.id/images/2026-04/1776231575224-lobi.webp)
 
 整间酒店最大的亮点是**屋顶泳池（Rooftop Pool）**。这条泳池够长、空间够开阔，周围有棕榈树、躺椅和日光遮阳伞，天气好的傍晚可以远眺水明漾市区甚至隐约看见海。旁边有泳池酒吧可以点调酒，Happy Hour 据说还有买一送一的优惠，算是酒店里的社交中心。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231634104-roof3.webp)
+![设施介绍](https://images.gobaligo.id/images/2026-04/1776231634104-roof3.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231634525-roof2.webp)
+![设施介绍](https://images.gobaligo.id/images/2026-04/1776231634525-roof2.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231635037-roof5.jpg)
+![设施介绍](https://images.gobaligo.id/images/2026-04/1776231635037-roof5.jpg)
 
 餐厅 ALCOVE 提供亚洲和西式早餐自助吧，菜色每天有所轮换，有现煎蛋站、松饼、印尼炒饭等。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231683899-canteen1.webp)
+![设施介绍](https://images.gobaligo.id/images/2026-04/1776231683899-canteen1.webp)
 
 酒店还附设健身房，设备算基本够用。比较特别的一个政策是**24小时入住制度**：你几点入住，就从那个时间点起算整整24小时，退房时间完全弹性，不受传统 check-in 12点/check-out 11点的规定限制，这对航班时间不固定的旅客非常友好。
 
@@ -76,15 +76,15 @@ Cross Paasha 坐落在水明漾最精华的 Laksmana 区，就是大家说的「
 
 Cross Paasha 的99间房统一称为 Suite，这是比一般标准房高一个等级的定位。房间面积从55平方米起跳，最大房型可达110平方米，以这个价位来说算是相当宽敞。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231736986-86495544.jpg)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776231736986-86495544.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231737371-558542199.jpg)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776231737371-558542199.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231737832-1c93851cb69bca784431d5ea40507f08.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776231737832-1c93851cb69bca784431d5ea40507f08.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231738211-683edcbff56e61d844944a683b65f028.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776231738211-683edcbff56e61d844944a683b65f028.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776231738613-45807d9b3c69fd21a57adfb2190c610a.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776231738613-45807d9b3c69fd21a57adfb2190c610a.webp)
 
 装修走轻工业风加现代设计路线：大量浅木色家具、混凝土地板、六角形镜子这种细节，整体很干净利落，不是传统巴厘岛那种阿妈家木雕装饰风。每间房都有私人阳台、独立座位区、平面电视、迷你吧、免费Wi-Fi和空调，浴室是开放式设计，配有雨淋莲蓬头。
 

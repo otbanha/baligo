@@ -21,7 +21,7 @@ _srcHash: 3a31ae50ed5d048579cb422a3e04925f
 
 Bali is renowned not only for its natural beauty but also as a treasure trove of cultural arts. For travelers who love immersing themselves in local culture, participating in a traditional silver jewelry workshop offers a profound experience. Starting with a piece of pure silver, you'll go through processes like polishing, shaping, and engraving to create your own unique piece. This journey is not just about crafting but also about cultural exploration.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f94752e3483bb66819ab469739a0853.png)
+![Why You Can't Miss the Silversmith Experience in Bali](https://images.gobaligo.id/vocus/vocus_9f94752e3483bb66819ab469739a0853.png)
 
 ## **The History and Cultural Significance of Silversmithing**
 
@@ -51,7 +51,7 @@ The artistic hub of Ubud is home to numerous small silver workshops, offering pr
 
 ▶[Canggu Silver Jewelry Making Workshop](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1079090&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F122280-silver-jewelry-making-class-in-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D87d5cc33a5)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_80cd9d0a888b0c36ad377197e03ea429.png)
+![Small Workshops in Ubud and Canggu](https://images.gobaligo.id/vocus/vocus_80cd9d0a888b0c36ad377197e03ea429.png)
 
 ### Silver Workshops in Other Areas
 
@@ -63,7 +63,7 @@ The artistic hub of Ubud is home to numerous small silver workshops, offering pr
 
 ▶[Uluwatu Silver Jewelry Making Workshop](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1079090&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F124445-silver-jewelry-making-class-in-uluwatu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5fc62a37c7)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b62601a500ecbf580fa9aa3280386f36.png)
+![Silver Workshops in Other Areas](https://images.gobaligo.id/vocus/vocus_b62601a500ecbf580fa9aa3280386f36.png)
 
 ## **How to Book and Prepare for the Workshop?**
 

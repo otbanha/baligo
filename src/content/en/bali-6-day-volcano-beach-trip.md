@@ -68,7 +68,7 @@ Video provided by Dai Yushan
 
 > For a detailed introduction to La Brisa and how to book, check out: [Dubbed 'Bali's Most Beautiful Restaurant': How Does La Brisa Stand Out Among Countless Dining Options?](/blog/canggu-la-brisa-restaurant-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a8d594309ff33fbcc5edd332d4309d42.jpg)
+![Day 1 (Kuta/Canggu):](https://images.gobaligo.id/vocus/vocus_a8d594309ff33fbcc5edd332d4309d42.jpg)
 
 Want more Canggu guides? [Click here](/blog/canggu-guide/)
 
@@ -125,7 +125,7 @@ Provided by Dai Yushan
 
 - Dinner: Sun Sun Warung (absolutely delicious!)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1538d93829cb024ee3566067b302ce2.jpg)
+![Day 3 (Kintamani):](https://images.gobaligo.id/vocus/vocus_a1538d93829cb024ee3566067b302ce2.jpg)
 
 {{block:ubud}}
 

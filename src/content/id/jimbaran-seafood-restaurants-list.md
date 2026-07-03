@@ -35,7 +35,7 @@ _srcHash: 2d295ffc3f44837b2cd140728e18e410
 
 Jimbaran adalah area pantai cantik di Bali yang terkenal banget sama pantainya yang kece, seafood segar, dan sunset romantis. Tempat ini punya banyak pilihan restoran seafood, di mana kamu bisa makan enak di pinggir pantai sambil nikmatin pemandangan laut yang spektakuler. Selain itu, karena Jimbaran dekat sama Bandara Internasional Bali, kamu juga bisa liat pesawat take-off dan landing pas makan malam.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b188faf24c6720d2559a5a1a246a1774.jpg)
+![【Rekomendasi Seafood Jimbaran】11 Restoran Pemandangan Anti Z](https://images.gobaligo.id/vocus/vocus_b188faf24c6720d2559a5a1a246a1774.jpg)
 
 Makanya, Pantai Jimbaran itu spot sunset yang juara, dan banyak banget pilihan restoran seafood. Kalau kamu mau cobain olahan seafood segar, berikut ini...
 
@@ -95,7 +95,7 @@ Peta lokasi 11 rekomendasi restoran seafood Jimbaran ini bisa kamu lihat di ([kl
 
 Perlu diingat, tempat makan di Pantai Jimbaran itu beragam banget. Sebagian besar restoran jujur, tapi emang ada sedikit oknum nakal yang suka nipu turis — misalnya kalau dengar kamu ngomong Inggris, mereka kasih menu dengan harga lebih mahal. Hal kayak gini bisa terjadi di beberapa tempat wisata populer, jadi kamu harus ekstra hati-hati milih restoran. Berikut beberapa tips biar aman:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_87c31a5431c311fed250d5a9e0ebe4a1.jpg)
+![Tips Memilih Restoran](https://images.gobaligo.id/vocus/vocus_87c31a5431c311fed250d5a9e0ebe4a1.jpg)
 
 {{block:klook}}
 

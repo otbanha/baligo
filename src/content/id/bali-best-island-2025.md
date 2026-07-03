@@ -26,7 +26,7 @@ _srcHash: 51cbd4e726fcc80637174c71b9481bb4
 
 Setiap tahun, majalah travel internasional terkemuka *Travel + Leisure* merilis daftar '10 Pulau Terbaik Asia-Pasifik'. Di edisi terbaru 2025, **Bali sukses merebut posisi pertama tanpa keraguan!** 🎉
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e72e14b3875f69090dbbfa6e37a9613d.jpg)
+![Bali Juara Lagi! Daftar Pulau Terbaik Asia 2025 Dirilis: Bal](https://images.gobaligo.id/vocus/vocus_e72e14b3875f69090dbbfa6e37a9613d.jpg)
 
 Pulau kecil dari Indonesia ini udah bukan sekadar tempat liburan biasa, tapi destinasi yang bikin kamu balik lagi dan lagi, selalu bikin takjub. Tahun ini, pulau-pulau lain yang ikut masuk daftar termasuk Koh Samui dan Phuket dari Thailand, Phu Quoc dari Vietnam, Palawan dan Siargao dari Filipina, serta destinasi populer lainnya. Tapi Bali tetap menonjol. Jadi, apa sih pesonanya?
 
@@ -36,7 +36,7 @@ Pulau kecil dari Indonesia ini udah bukan sekadar tempat liburan biasa, tapi des
 
 ### ✨ **Kedalaman Budaya dan Suasana Religius**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8f9223a347e8ba9613072bda21eab4b8.jpg)
+![Kedalaman Budaya dan Suasana Religius](https://images.gobaligo.id/vocus/vocus_8f9223a347e8ba9613072bda21eab4b8.jpg)
 
 Setiap hari, kamu bakal lihat sesajen Canang Sari, dengar alunan musik gamelan, dan kunjungi Pura Tirta Empul yang pernah didatangi Audrey Hepburn... Bali punya 'budaya yang hidup', di mana kepercayaan meresap dalam keseharian. Setiap sudut adalah pertemuan antara spiritualitas dan keindahan.
 
@@ -48,7 +48,7 @@ Setiap hari, kamu bakal lihat sesajen Canang Sari, dengar alunan musik gamelan, 
 
 ### ✨ **Pengalaman Wisata yang Beragam**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1046cca8c4ba0f31d7ddd0049796210e.jpg)
+![Pengalaman Wisata yang Beragam](https://images.gobaligo.id/vocus/vocus_1046cca8c4ba0f31d7ddd0049796210e.jpg)
 
 Mulai dari yoga dan meditasi di Ubud, butik fashion kekinian di Seminyak, makan malam seafood dengan sunset di Jimbaran, snorkeling di Nusa Lembongan, sampai lihat penyu di Gili Trawangan — setiap area punya ritme perjalanan yang beda banget. Mau kamu backpacker, traveler keluarga, atau pasangan bulan madu, pasti nemu sudut sempurna buat kamu.
 
@@ -58,13 +58,13 @@ Mulai dari yoga dan meditasi di Ubud, butik fashion kekinian di Seminyak, makan 
 
 ### ✨ **Kehangatan Koneksi dengan Sesama Pelancong**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5864bc57f716085fbac0e64accaefd57.jpg)
+![Kehangatan Koneksi dengan Sesama Pelancong](https://images.gobaligo.id/vocus/vocus_5864bc57f716085fbac0e64accaefd57.jpg)
 
 Bali bukan cuma soal pemandangan yang indah, yang paling bikin jatuh hati itu orang-orangnya. Dari resepsionis hotel yang ramah, supir sewaan yang humoris, sampai belajar bikin sesajen bareng keluarga lokal—pulau ini kasih kamu bukan sekadar 'layanan', tapi 'koneksi' yang tulus banget.
 
 ### ✨ **Pilihan Akomodasi yang Super Dreamy**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3dcf1ef7fcaf08a41535a4bc7fedbd8f.jpg)
+![Pilihan Akomodasi yang Super Dreamy](https://images.gobaligo.id/vocus/vocus_3dcf1ef7fcaf08a41535a4bc7fedbd8f.jpg)
 
 Kamu bisa nginep di private villa yang dikelilingi sawah, butik hotel bergaya bohemian, atau resort mewah dengan infinity pool di tepi tebing. Akomodasi di Bali bukan cuma tempat istirahat—itu sendiri adalah highlight perjalanan. Setiap hotel, setiap homestay, kayak lagi cerita tentang mimpi di pulau tropis.
 
@@ -72,7 +72,7 @@ Kamu bisa nginep di private villa yang dikelilingi sawah, butik hotel bergaya bo
 
 ### ✨ **Destinasi yang Unik dan Nggak Ada Duanya**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_48652f07525b12025b37dac7c1d16d16.jpg)
+![Destinasi yang Unik dan Nggak Ada Duanya](https://images.gobaligo.id/vocus/vocus_48652f07525b12025b37dac7c1d16d16.jpg)
 
 Dari pemandangan kayak surga di Pura Lempuyang (Gerbang Surga), sawah terasering Tegallalang yang megah, sampai Pura Uluwatu di tebing dengan tari kecak—tempat-tempat ini bukan cuma buat foto aesthetic, tapi juga menyimpan keajaiban alam dan budaya Bali.
 

@@ -31,7 +31,7 @@ _srcHash: 3d7a3b82e63aa50696b61b70a062841b
 
 Kalau kamu lagi jalan-jalan atau tinggal di Indonesia atau Bali, pasti udah nggak asing sama nama **Gojek**. Sebagai salah satu platform ekonomi berbagi paling populer di Indonesia, Gojek nggak cuma nyediain layanan transportasi, tapi juga berbagai layanan pesan-antar makanan, belanja, pembayaran digital, dan lain-lain. Salah satu fitur pentingnya adalah sistem pembayaran yang terintegrasi erat, yaitu **GoPay**. Artikel ini bakal ngebahas tuntas semua hal tentang Gojek dan GoPay, plus panduan lengkap cara daftar dan pakai layanan ini, biar hidupmu di Indonesia makin gampang dan nyaman.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1f4958d2598d7d48eed642e73e1e4321.jpg)
+![Grab lebih enak? Gojek lebih enak? Panduan Lengkap Registras](https://images.gobaligo.id/vocus/vocus_1f4958d2598d7d48eed642e73e1e4321.jpg)
 
 ## **Apa Itu Gojek?**
 
@@ -50,7 +50,7 @@ Setiap layanan Gojek dirancang buat ngasih kemudahan, terutama buat kamu yang si
 
 ## **Apa Itu GoPay?**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_266f68e9481da62f1e5b062c15fa8123.jpg)
+![Apa Itu GoPay?](https://images.gobaligo.id/vocus/vocus_266f68e9481da62f1e5b062c15fa8123.jpg)
 
 Sebagai sistem dompet digital dari Gojek, **GoPay** memungkinkan pengguna melakukan pembayaran dengan aman dan praktis lewat ponsel. Baik buat bayar layanan di dalam platform Gojek, maupun belanja online atau offline, GoPay bikin transaksi jadi lebih mulus.
 

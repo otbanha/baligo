@@ -28,7 +28,7 @@ _srcHash: 74364af26afe130e315903b7a9874490
 
 最近航空圈又有一则让人眼睛一亮的消息——  星宇航空 即将正式开航「台北－巴厘岛」直飞航线，已经不是「空穴来风」的消息了！
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775438725248-660291592_1547503330709366_2891419081085825981_n.jpg)
+![直飞梦成真？星宇航空即将开航「巴厘岛」新航线最新解析](https://images.gobaligo.id/images/2026-04/1775438725248-660291592_1547503330709366_2891419081085825981_n.jpg)
 
 对于长期关注巴厘岛旅游的人来说，这条线其实早就被预期会出现，但现在终于有更具体的轮廓了。
 
@@ -40,11 +40,11 @@ _srcHash: 74364af26afe130e315903b7a9874490
 - ✨航班频率：每周 5 班
 - ✨执飞机型：A321neo。把经济舱标准拉很高的机型
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774965491151-330cabin1010px674_tcm5-5195.jpg)
+![最新消息整理](https://images.gobaligo.id/images/2026-03/1774965491151-330cabin1010px674_tcm5-5195.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774965491471-sin4_tcm5-6419_w616_h411_n.jpg)
+![最新消息整理](https://images.gobaligo.id/images/2026-03/1774965491471-sin4_tcm5-6419_w616_h411_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774965491827-starlux-a330neo-economy-class-6.jpeg)
+![最新消息整理](https://images.gobaligo.id/images/2026-03/1774965491827-starlux-a330neo-economy-class-6.jpeg)
 
 此外，先前市场与公司规划中就已多次提到，巴厘岛本来就在星宇航空的扩张蓝图中。
 
@@ -71,7 +71,7 @@ _srcHash: 74364af26afe130e315903b7a9874490
 
 星宇加入后，很可能会直接切入“高品质度假飞行体验”这一块。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775616099905-_2026-04-08_09.41.18.png)
+![3⃣ 市场竞争将更有看头](https://images.gobaligo.id/images/2026-04/1775616099905-_2026-04-08_09.41.18.png)
 
 ## ✍️我们的观察
 

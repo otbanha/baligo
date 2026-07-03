@@ -33,13 +33,13 @@ lang: id
 _srcHash: 016eccf12e2c8e5e46735be4998cd8ab
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb57e77a7b3e161346b3b64e697d7f09.jpg)
+![【50 Aktivitas Outdoor di Bali】Panduan Lengkap 50 Pengalaman ](https://images.gobaligo.id/vocus/vocus_eb57e77a7b3e161346b3b64e697d7f09.jpg)
 
 Bali nggak cuma soal pantai kece dan resort mewah, lho. Di balik itu semua, ada segudang aktivitas outdoor seru yang siap kamu eksplor. Mau yang suka tantangan atau sekadar santai di alam, Bali punya semuanya. Nih, enam kategori besar berisi 50 aktivitas outdoor paling populer:
 
 ## **Serunya Olahraga Air**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ce09db19692dd56e3b3a093b40972a73.jpg)
+![Serunya Olahraga Air](https://images.gobaligo.id/vocus/vocus_ce09db19692dd56e3b3a093b40972a73.jpg)
 
 ### **1. Surfing:**
 
@@ -49,7 +49,7 @@ Bali nggak cuma soal pantai kece dan resort mewah, lho. Di balik itu semua, ada 
 
 ### **2. Olahraga Air Lainnya:**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d7262888e7876432492b931371460638.jpg)
+![2. Olahraga Air Lainnya:](https://images.gobaligo.id/vocus/vocus_d7262888e7876432492b931371460638.jpg)
 
 - Waterbom Bali di Kuta adalah salah satu waterpark terbaik se-Asia. Dikenal dengan seluncuran ekstrem, taman tropis yang asri, dan konsep ramah lingkungan. Ada wahana buat segala usia: seluncuran cepat, lazy river, dan area anak-anak. Cocok banget buat keluarga atau pecinta petualangan. [Pesan Tiket](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1051935&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F175-waterbom-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D396a21103d)
     - Di Tanjung Benoa, kamu bisa coba parasailing, jet ski, banana boat, dan masih banyak lagi. Dijamin seru! Saran: booking dari jauh biar nggak kena harga gila di tempat. [Pesan Aktivitas Air Tanjung Benoa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520water%2520activities%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D50eabd6d63)
@@ -65,7 +65,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
     - [Empat spot snorkeling terkenal tanpa perlu capek jalan jauh](/blog/nusa-penida-snorkeling-guide/)
   **Surga snorkeling cuma 10 menit naik perahu dari Sanur:**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2b63fa1a7c1a8b0c7cf46359930783e9.png)
+![3. Snorkeling:](https://images.gobaligo.id/vocus/vocus_2b63fa1a7c1a8b0c7cf46359930783e9.png)
 
 Yuk, nikmati keajaiban bawah laut di pesisir Sanur — bikin trip snorkeling kamu jadi highlight liburan Bali yang worth it!
 
@@ -80,7 +80,7 @@ Yuk, nikmati keajaiban bawah laut di pesisir Sanur — bikin trip snorkeling kam
 
 ## **Serunya Petualangan Darat**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e0d879d5d2802e1977fcfd6a95a19c1f.jpg)
+![Serunya Petualangan Darat](https://images.gobaligo.id/vocus/vocus_e0d879d5d2802e1977fcfd6a95a19c1f.jpg)
 
 ### 5. ATV:
 
@@ -102,7 +102,7 @@ Yuk, nikmati keajaiban bawah laut di pesisir Sanur — bikin trip snorkeling kam
 
 ## **Keindahan Alam yang Spektakuler**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_795bf27ce53988e8be88005fa5bb0c84.jpg)
+![Keindahan Alam yang Spektakuler](https://images.gobaligo.id/vocus/vocus_795bf27ce53988e8be88005fa5bb0c84.jpg)
 
 ### **8. Sunrise di Gunung Berapi:**
 
@@ -112,7 +112,7 @@ Yuk, nikmati keajaiban bawah laut di pesisir Sanur — bikin trip snorkeling kam
 
 ### **9. Ayunan Hutan:**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d553645908858eefdee8ef82ec07084d.jpg)
+![9. Ayunan Hutan:](https://images.gobaligo.id/vocus/vocus_d553645908858eefdee8ef82ec07084d.jpg)
 
 - - Coba ayunan ketinggian di hutan Ubud, lepas stres di tengah pemandangan hijau yang asri.
     - [Main Ayunan di Ubud: 8 Spot Foto Ayunan Terindah di Bali｜Panduan Ayunan/Sewa Gaun](/blog/ubud-jungle-swings-photo-guide/)
@@ -156,14 +156,14 @@ Yuk, nikmati keajaiban bawah laut di pesisir Sanur — bikin trip snorkeling kam
 
 ### **17. Chill di Villa: Nikmati Privasi dan Sinar Matahari:**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_83e375c72f9c2ff3f495a1ed4af60bbd.png)
+![17. Chill di Villa: Nikmati Privasi dan Sinar Matahari:](https://images.gobaligo.id/vocus/vocus_83e375c72f9c2ff3f495a1ed4af60bbd.png)
 
 - - Ada banyak banget villa mewah di Bali. Cari villa dengan kolam renang pribadi, santai total, dan nikmati waktu untuk diri sendiri.
     - Nikmati privasi dan sinar matahari [Kumpulan Villa Rekomendasi di Bali](/blog/bali-private-villa-recommendations/)
 
 ## **Jelajahi Tempat Wisata & Budaya Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e84b1acf30f6b03dde2682201c0822b8.jpg)
+![Jelajahi Tempat Wisata & Budaya Bali](https://images.gobaligo.id/vocus/vocus_e84b1acf30f6b03dde2682201c0822b8.jpg)
 
 ### **18. Kumpulan 500 Tempat Wisata Terbaru di Bali Sekaligus:**
 
@@ -172,7 +172,7 @@ Yuk, nikmati keajaiban bawah laut di pesisir Sanur — bikin trip snorkeling kam
 
 ## Rekomendasi Lainnya
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1f5f98ae3adf257e0ce00cc125d478d8.png)
+![Rekomendasi Lainnya](https://images.gobaligo.id/vocus/vocus_1f5f98ae3adf257e0ce00cc125d478d8.png)
 
 Kalau kamu pikir Bali cuma pantai dan olahraga air, kamu salah besar! Pulau ini juga punya banyak pengalaman outdoor yang bikin takjub, mulai dari petualangan hutan, jalan-jalan di terasering sawah, sampai kolam renang di tebing. Semuanya wajib masuk itinerary kamu 🏞️☀️ Berikut rekomendasi aktivitas outdoor Bali lainnya yang bikin liburanmu makin seru:
 
@@ -254,7 +254,7 @@ Kalau kamu pikir Bali cuma pantai dan olahraga air, kamu salah besar! Pulau ini 
 
 Naik ke Gunung Batur buat lihat matahari terbit adalah kenangan paling epic buat traveler. Setelah selesai mendaki, jangan lewatkan aktivitas baru di danau — **Royal Songan Cruise di Danau Batur**.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3ca74bdad12e693945d91b0c5b5888cf.jpg)
+![40. Naik Perahu di Danau Batur (Danau Kawah Gunung Batur)](https://images.gobaligo.id/vocus/vocus_3ca74bdad12e693945d91b0c5b5888cf.jpg)
 
 Perjalanan naik perahu sekitar 60–90 menit ini bakal bawa kamu melewati:
 
@@ -268,7 +268,7 @@ Di atas kapal ada pertunjukan budaya langsung, layanan teh, dan tempat duduk den
 
 ### 41. The Grand Lagunas — Taman Bermain Pegunungan Kintamani
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a9a882fda8e0d1a069384ba95922dc4.png)
+![41. The Grand Lagunas — Taman Bermain Pegunungan Kintamani](https://images.gobaligo.id/vocus/vocus_9a9a882fda8e0d1a069384ba95922dc4.png)
 
 Di The Grand Lagunas, kamu bisa tantang adrenalin dan nikmatin pemandangan keren! Tempat ini punya banyak fasilitas aktivitas outdoor seru, termasuk Rainbow Slide warna-warni, Flying Fox, Tree Top, Keranjang Sultan, Trampoline Jump, Hammock, Nest, Climbing Net, Climbing Tree, Jungle Bridge, dan juga ATV. Semua ini siap bikin kamu puas main dan lepas jiwa petualang.
 
@@ -278,19 +278,19 @@ Rasain sensasi meluncur cepat dari seluncuran warna-warni sambil nikmatin pemand
 
 ### 42. Berendam Air Panas, Nikmati Pemandangan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1b2c36cce167df14bcd2e664efd956d0.jpg)
+![42. Berendam Air Panas, Nikmati Pemandangan](https://images.gobaligo.id/vocus/vocus_1b2c36cce167df14bcd2e664efd956d0.jpg)
 
 Di **Pemandian Air Panas Toya Devasya**, kamu bisa rileks sambil berendam di sumber air panas vulkanik alami, memandang gunung berapi dan danau di kejauhan — momen healing yang paling worth it.
 
 Selain berendam, tempat ini juga punya taman air panas yang luas banget, lho!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e239669b1787a60c45be7f558d30237.png)
+![42. Berendam Air Panas, Nikmati Pemandangan](https://images.gobaligo.id/vocus/vocus_4e239669b1787a60c45be7f558d30237.png)
 
 ▶[Tiket Masuk Pemandian Air Panas Toya Devasya](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1140524&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F24959-toya-devasya-hot-springs-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3De7714021bf)
 
 ### 43. Naik Kuda di Pantai Seminyak
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ffcb0744d2b3309967f33941bc647514.jpg)
+![43. Naik Kuda di Pantai Seminyak](https://images.gobaligo.id/vocus/vocus_ffcb0744d2b3309967f33941bc647514.jpg)
 
 Kebanyakan orang ke Seminyak ya buat nongkrong di bar atau lihat sunset — tapi ada satu hal yang bahkan setelah tiga kali ke Bali, banyak yang belum pernah coba.
 

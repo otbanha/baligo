@@ -33,7 +33,7 @@ _srcHash: 5c429cb0444fb7fa6cc3599b138888c8
 
 如果是，要小心了。最近 Reddit 上有旅客分享了一个很新的诈骗手法，针对的就是刚办完签证的人。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775314454153-img_5278.jpeg)
+![【最新假email诈骗】办完印尼电子签证后，收到这封信千万别点！](https://images.gobaligo.id/images/2026-04/1775314454153-img_5278.jpeg)
 
 ## 申请完签证，隔天收到一封「官方信件」
 
@@ -51,7 +51,7 @@ _srcHash: 5c429cb0444fb7fa6cc3599b138888c8
 
 印尼从 2025 年 9 月开始，入境旅客确实需要填一份电子申报，叫做 All Indonesia Arrival Card (简称AIAC)。诈骗集团就是抓住这个——你不确定这个要不要钱、要怎么办——然后伪装成官方来收费。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775314476563-img_5279.jpeg)
+![为什么感觉那么真？](https://images.gobaligo.id/images/2026-04/1775314476563-img_5279.jpeg)
 
 但事实是：**AIAC申报完全免费，没有任何额外费用!**
 

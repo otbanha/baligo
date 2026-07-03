@@ -24,7 +24,7 @@ _srcHash: 985155bb95557cc56b64ea1f91140256
 
 Berdasarkan [riset dari Tripadvisor](https://tripadvisor.mediaroom.com/2024-01-09-The-Results-Are-In-Tripadvisors-Top-2024-Destinations-According-to-Global-Travelers), platform panduan traveling terbesar di dunia, destinasi terbaik 2024 dibagi jadi tujuh kategori: destinasi populer, destinasi tren, destinasi budaya, destinasi kuliner, destinasi alam, plus dua kategori baru tahun ini — destinasi bulan madu dan destinasi berkelanjutan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eff7c71ed815f53bcf3e04326c6f02ae.png)
+![Romantik Banget! Bali Kalahin Maladewa Jadi Juara Dunia Dest](https://images.gobaligo.id/vocus/vocus_eff7c71ed815f53bcf3e04326c6f02ae.png)
 
 Di kategori 'Destinasi Populer Dunia', Dubai jadi juara pertama, sementara Bali naik ke posisi kedua. Prestasi ini bukan cuma soal daya tarik tempatnya, tapi juga karena para pengulas Tripadvisor kasih nilai tinggi buat pengalaman traveling yang kaya di sini.
 

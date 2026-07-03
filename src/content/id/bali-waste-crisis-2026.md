@@ -58,7 +58,7 @@ Penduduk Denpasar, Tyas Ardi, bilang: "Orang-orang di dekat rumahku terus membak
 
 Bukan cuma rumah tinggal, di pinggir jalan, sungai, taman, bahkan sekitar sekolah juga mulai ada tumpukan sampah. Di beberapa tempat, sampah sudah berminggu-minggu bahkan berbulan-bulan tidak diangkut.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778410715936-875170398066f6d1c6425d0677782900183c626ac4476a62b5884ef1cec23261.webp)
+![1 April: Larangan Tanpa Persiapan Matang](https://images.gobaligo.id/images/2026-05/1778410715936-875170398066f6d1c6425d0677782900183c626ac4476a62b5884ef1cec23261.webp)
 
 ## Dilema Sopir Truk Sampah: Sudah Diangkut, Tapi Mau Dibuang ke Mana?
 

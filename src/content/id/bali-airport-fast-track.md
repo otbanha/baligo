@@ -27,7 +27,7 @@ _srcHash: 650dcda601c95b92c108fc5c752a6883
 
 Bali, surga liburan yang terkenal, selalu jadi incaran banyak traveler. Tapi makin ramai, makin sibuk juga bandaranya. Banyak orang khawatir harus nunggu lama setelah mendarat. Tapi pada 2 Februari 2024, temen grup kita 'DC' punya pengalaman beda — dia berhasil keluar dari Bandara Bali cuma dalam 25 menit setelah turun dari pesawat!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_46a2d0d2d0dfe4c23e3f4e93484e9630.png)
+![Test 25 Menit Keluar dari Bandara Bali! Gimana Sih Cara Teme](https://images.gobaligo.id/vocus/vocus_46a2d0d2d0dfe4c23e3f4e93484e9630.png)
 
 Sebenarnya DC nggak punya akses khusus atau bayar lebih. Dia cuma siapin **eVisa** dan **e-Custom Declaration** dari rumah. Dua hal ini bikin DC bisa skip antrean dan nggak perlu isi formulir imigrasi yang ribet, jadi waktu berharga banget.
 

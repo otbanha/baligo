@@ -30,7 +30,7 @@ lang: en
 _srcHash: cef4fd9a8671e209fd48399aaad82eb3
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_595599fd567f9984fb83ddbb02a717ea.jpg)
+![【Must-See in Bali】Kecak Fire Dance: Six Best Performance Ven](https://images.gobaligo.id/vocus/vocus_595599fd567f9984fb83ddbb02a717ea.jpg)
 
 ## Highlight of Bali's Cultural Performances
 
@@ -56,7 +56,7 @@ By blending tradition with modernity, Kecak dance has become a symbol of Balines
 
 ### **1. Uluwatu Temple**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d5e4a9cfe8e4f59216a21b8f25ca0d52.jpg)
+![1. Uluwatu Temple](https://images.gobaligo.id/vocus/vocus_d5e4a9cfe8e4f59216a21b8f25ca0d52.jpg)
 
 Watching the Kecak fire dance at Uluwatu Temple is a feast for both the eyes and the soul. Perched atop a cliff overlooking the Indian Ocean, the temple's backdrop of sunset hues enhances the performers' movements, creating an unparalleled magical atmosphere.
 
@@ -73,7 +73,7 @@ Watching the Kecak fire dance at Uluwatu Temple is a feast for both the eyes and
 
 ### **2. Tanah Lot**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_57393ae17287c457acd6b3903fbd2e82.jpg)
+![2. Tanah Lot](https://images.gobaligo.id/vocus/vocus_57393ae17287c457acd6b3903fbd2e82.jpg)
 
 Tanah Lot Temple is renowned for its stunning coastal views, and the Kecak dance performance here perfectly blends nature and culture. As the tide ebbs and flows, dancers enact captivating mythological stories under the glow of firelight.
 
@@ -84,7 +84,7 @@ Tanah Lot Temple is renowned for its stunning coastal views, and the Kecak dance
 
 ### **3. Melasti Beach**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_36a5d659d6f423d7b06381d74432f96e.png)
+![3. Melasti Beach](https://images.gobaligo.id/vocus/vocus_36a5d659d6f423d7b06381d74432f96e.png)
 
 If you prefer a more intimate viewing experience, Melasti Beach is an ideal choice. The Kecak performance here, set against the tranquil ocean backdrop, offers a relaxing and unique cultural journey for audiences.
 
@@ -97,7 +97,7 @@ If you prefer a more intimate viewing experience, Melasti Beach is an ideal choi
 
 ### **4. GWK Cultural Park**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_001451924cc9b57aec59375420a24d76.jpg)
+![4. GWK Cultural Park](https://images.gobaligo.id/vocus/vocus_001451924cc9b57aec59375420a24d76.jpg)
 
 The Kecak performance at Garuda Wisnu Kencana Cultural Park incorporates the Ogoh-Ogoh tradition, delivering a powerful artistic and cultural experience for audiences.
 
@@ -109,7 +109,7 @@ The Kecak performance at Garuda Wisnu Kencana Cultural Park incorporates the Ogo
 
 ### **5. Discovery Mall**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_765b3d6e280d63d9374bb817f5993d4a.jpg)
+![5. Discovery Mall](https://images.gobaligo.id/vocus/vocus_765b3d6e280d63d9374bb817f5993d4a.jpg)
 
 Want to enjoy traditional performances while shopping and dining? The free Kecak dance offered every Thursday at Discovery Mall is an easy way to experience Balinese culture.
 
@@ -119,7 +119,7 @@ Want to enjoy traditional performances while shopping and dining? The free Kecak
 
 ### **6. Fire Dance Bali (Near Ubud Palace)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ae6916c01b4ace61282a069171a54b00.png)
+![6. Fire Dance Bali (Near Ubud Palace)](https://images.gobaligo.id/vocus/vocus_ae6916c01b4ace61282a069171a54b00.png)
 
 Located near Ubud Palace, Fire Dance Bali offers visitors a captivating Kecak fire dance performance that showcases the essence of Balinese culture. The intimate and passionate atmosphere makes it suitable for audiences of all ages.
 

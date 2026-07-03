@@ -29,7 +29,7 @@ _srcHash: b219fa34fb319e8bcc27c7c9d4aa582d
 ---
 各位熱愛峇里島嘅朋友，係咪每次諗起要從機場拉到坎古（Canggu），腦中就會浮現塞喺車龍中動彈不得嘅畫面？好消息嚟喇！印尼政府正式宣布，將會興建一條從**伍拉·賴國際機場**直達**坎古**嘅「水路嘅士」路線，未來有望避開煩人嘅陸上交通，**最快30分鐘就能抵達**！
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775968380470-water-taxi-di-bali-hotel-bali-batiqa-hotels_ts6wi.jpg)
+![峇里島交通救星？機場到坎古「水路嘅士（water taxi）」2027年登場，30分鐘直達！](https://images.gobaligo.id/images/2026-04/1775968380470-water-taxi-di-bali-hotel-bali-batiqa-hotels_ts6wi.jpg)
 
 ## 🚤 點解要開呢條水路？
 
@@ -54,7 +54,7 @@ _srcHash: b219fa34fb319e8bcc27c7c9d4aa582d
 
 {{block:包車}}
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775968411674-pelindo.jpeg)
+![現階段替代方案：包車接送最穩](https://images.gobaligo.id/images/2026-04/1775968411674-pelindo.jpeg)
 
 ***
 

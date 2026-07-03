@@ -25,7 +25,7 @@ _srcHash: aef10a3f42e057038fd3436620ccf4b8
 
 这是我们介绍Nusa Penida（中文翻译：努沙佩尼达岛、佩尼达岛）这个神奇的岛屿的第三集，我们来跟大家介绍一下这里的四个知名潜点，不管是浮潜还是带着水肺潜水都可以找到许多乐趣的地点。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f65ca2cf527e8b51652b690aad51a81.jpg)
+![努沙佩尼达岛 (Nusa Penida) 如何参加浮潜？一日游船票预约、潜点分布与新手必读指南](https://images.gobaligo.id/vocus/vocus_9f65ca2cf527e8b51652b690aad51a81.jpg)
 
 ➡️[更多巴厘岛超值优惠请点我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
@@ -37,7 +37,7 @@ _srcHash: aef10a3f42e057038fd3436620ccf4b8
 4. [佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/blog/nusa-penida-transport-guide/)
 5. [佩尼达岛的住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/blog/nusa-penida-hotels-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0efc881cd070bd9b15b0d572fe80b427.jpg)
+![努沙佩尼达岛 (Nusa Penida) 如何参加浮潜？一日游船票预约、潜点分布与新手必读指南](https://images.gobaligo.id/vocus/vocus_0efc881cd070bd9b15b0d572fe80b427.jpg)
 
 ## 巴厘岛到处都可以浮潜吗？
 
@@ -69,7 +69,7 @@ Mola mola 翻车鱼
 
 ## Gamat Bay
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881880928-gamatbay1.jpeg)
+![Gamat Bay](https://images.gobaligo.id/images/2026-03/1774881880928-gamatbay1.jpeg)
 
 Gamat Bay
 
@@ -109,7 +109,7 @@ Manta Point是佩尼达岛上最具特色的景点之一，在这个潜点能近
 
 这个潜点有一个4至6米深的小珊瑚台地，也就是最佳的浮潜点。珊瑚台地之后，分为两层。第一层约12至15米深，第二层约40米深。这里是非常热门的潜点，因为海水清澈，珊瑚繁盛。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881808430-toyapakeh_wall_point.jpg)
+![Toyapakeh Wall Point](https://images.gobaligo.id/images/2026-03/1774881808430-toyapakeh_wall_point.jpg)
 
 珊瑚台地，色彩缤纷
 

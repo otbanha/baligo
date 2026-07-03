@@ -136,6 +136,6 @@ Kamu bisa langsung ke **Klook** dan cari "[ATV Bali](https://affiliate.klook.com
 
 Di Ubud yang penuh pemandangan indah dan petualangan, selain ATV masih banyak banget tempat wisata, aktivitas seru, kuliner, dan eksplorasi budaya. Jangan lupa cek panduan kami "[100 Cara Mengenal Ubud Lebih Dalam](/blog/ubud-guide/)｜Jelajahi Pesona Ubud"
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_283f7dd9f717aacdb10f6b48e6cc0969.jpg)
+![Tempat Wisata Sekitar](https://images.gobaligo.id/vocus/vocus_283f7dd9f717aacdb10f6b48e6cc0969.jpg)
 
 ##

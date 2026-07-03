@@ -28,7 +28,7 @@ lang: zh-cn
 _srcHash: 698fd3ac22ee53c857c1c91f00a666ea
 ---
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776217409706-mixcollage-15-apr-2026-08-42-am-2361.jpg)
+![【巴厘岛住宿推荐】全家出游不挤房！拥有四人房的 13 间超强亲子度假村区域全解析](https://images.gobaligo.id/images/2026-04/1776217409706-mixcollage-15-apr-2026-08-42-am-2361.jpg)
 
 带全家人去巴厘岛度假，选对区域和酒店就成功了一半。以下我们针对六大区域、14 家备受亲子家庭好评的住宿，从「地理位置、亲子设施、房型、评价」四大维度详细展开，帮助您快速找到理想的落脚点。
 
@@ -38,25 +38,25 @@ _srcHash: 698fd3ac22ee53c857c1c91f00a666ea
 
 ## **Conrad Bali (康莱德酒店)**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213541244-83e08b6329b10e1f102aa3f4fc150a70.webp)
+![Conrad Bali (康莱德酒店)](https://images.gobaligo.id/images/2026-04/1776213541244-83e08b6329b10e1f102aa3f4fc150a70.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213542173-b567f359d49f28edd59532e2c5148997.webp)
+![Conrad Bali (康莱德酒店)](https://images.gobaligo.id/images/2026-04/1776213542173-b567f359d49f28edd59532e2c5148997.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213542573-f48385740b2161d9abda7fd91ca71c8e.webp)
+![Conrad Bali (康莱德酒店)](https://images.gobaligo.id/images/2026-04/1776213542573-f48385740b2161d9abda7fd91ca71c8e.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213543066-08e36ac60a27ff2bbebc373fafad35e9.webp)
+![Conrad Bali (康莱德酒店)](https://images.gobaligo.id/images/2026-04/1776213543066-08e36ac60a27ff2bbebc373fafad35e9.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213543481-20f63945cd5c83cdf18333b27fab5e95.webp)
+![Conrad Bali (康莱德酒店)](https://images.gobaligo.id/images/2026-04/1776213543481-20f63945cd5c83cdf18333b27fab5e95.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213544215-537596840.jpg)
+![Conrad Bali (康莱德酒店)](https://images.gobaligo.id/images/2026-04/1776213544215-537596840.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213544849-537596867.jpg)
+![Conrad Bali (康莱德酒店)](https://images.gobaligo.id/images/2026-04/1776213544849-537596867.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213545347-537596932.jpg)
+![Conrad Bali (康莱德酒店)](https://images.gobaligo.id/images/2026-04/1776213545347-537596932.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213546175-537596949.jpg)
+![Conrad Bali (康莱德酒店)](https://images.gobaligo.id/images/2026-04/1776213546175-537596949.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213546541-537596955.jpg)
+![Conrad Bali (康莱德酒店)](https://images.gobaligo.id/images/2026-04/1776213546541-537596955.jpg)
 
 **地理位置**| 位于努沙杜瓦高级度假区，拥有宁静的私有沙滩，海面平缓无浪，非常适合带幼童戏水。距离机场约20分钟车程。
 
@@ -74,25 +74,25 @@ https://youtu.be/-CJsTy4C3AQ
 
 ## **The Ritz-Carlton, Bali (丽思卡尔顿)**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213857707-505653052.jpg)
+![The Ritz-Carlton, Bali (丽思卡尔顿)](https://images.gobaligo.id/images/2026-04/1776213857707-505653052.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213858201-505653314.jpg)
+![The Ritz-Carlton, Bali (丽思卡尔顿)](https://images.gobaligo.id/images/2026-04/1776213858201-505653314.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213858688-505653821.jpg)
+![The Ritz-Carlton, Bali (丽思卡尔顿)](https://images.gobaligo.id/images/2026-04/1776213858688-505653821.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213859100-505655737.jpg)
+![The Ritz-Carlton, Bali (丽思卡尔顿)](https://images.gobaligo.id/images/2026-04/1776213859100-505655737.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213859444-505756306.jpg)
+![The Ritz-Carlton, Bali (丽思卡尔顿)](https://images.gobaligo.id/images/2026-04/1776213859444-505756306.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213859932-505756309.jpg)
+![The Ritz-Carlton, Bali (丽思卡尔顿)](https://images.gobaligo.id/images/2026-04/1776213859932-505756309.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213860432-433346540.jpg)
+![The Ritz-Carlton, Bali (丽思卡尔顿)](https://images.gobaligo.id/images/2026-04/1776213860432-433346540.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213861242-433346589.jpg)
+![The Ritz-Carlton, Bali (丽思卡尔顿)](https://images.gobaligo.id/images/2026-04/1776213861242-433346589.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213861656-505652311.jpg)
+![The Ritz-Carlton, Bali (丽思卡尔顿)](https://images.gobaligo.id/images/2026-04/1776213861656-505652311.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213862118-505652620.jpg)
+![The Ritz-Carlton, Bali (丽思卡尔顿)](https://images.gobaligo.id/images/2026-04/1776213862118-505652620.jpg)
 
 **地理位置**| 坐落在努沙杜瓦最南端的悬崖与海滩之间，私密性极高。从酒店可搭乘缆车下到白沙滩，景观壮丽。
 
@@ -106,29 +106,29 @@ https://youtu.be/-CJsTy4C3AQ
 
 ## **Holiday Inn Resort Bali Nusa Dua (假日度假村)**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213937866-380283582.jpg)
+![Holiday Inn Resort Bali Nusa Dua (假日度假村)](https://images.gobaligo.id/images/2026-04/1776213937866-380283582.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213938361-380283617.jpg)
+![Holiday Inn Resort Bali Nusa Dua (假日度假村)](https://images.gobaligo.id/images/2026-04/1776213938361-380283617.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213938757-380283620.jpg)
+![Holiday Inn Resort Bali Nusa Dua (假日度假村)](https://images.gobaligo.id/images/2026-04/1776213938757-380283620.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213939214-b4fc78423e1a7d3387b368a11f486134_large.jpeg)
+![Holiday Inn Resort Bali Nusa Dua (假日度假村)](https://images.gobaligo.id/images/2026-04/1776213939214-b4fc78423e1a7d3387b368a11f486134_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213939642-c19eacbf8110384e44e5ad45a00340fb_large.jpeg)
+![Holiday Inn Resort Bali Nusa Dua (假日度假村)](https://images.gobaligo.id/images/2026-04/1776213939642-c19eacbf8110384e44e5ad45a00340fb_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213940123-kids_pool-new.jpg)
+![Holiday Inn Resort Bali Nusa Dua (假日度假村)](https://images.gobaligo.id/images/2026-04/1776213940123-kids_pool-new.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213941052-photo1jpg.jpg)
+![Holiday Inn Resort Bali Nusa Dua (假日度假村)](https://images.gobaligo.id/images/2026-04/1776213941052-photo1jpg.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213941479-1567aceae1fb0469f37eb60b23cf0b8d_large.jpeg)
+![Holiday Inn Resort Bali Nusa Dua (假日度假村)](https://images.gobaligo.id/images/2026-04/1776213941479-1567aceae1fb0469f37eb60b23cf0b8d_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213941947-67452604.jpg)
+![Holiday Inn Resort Bali Nusa Dua (假日度假村)](https://images.gobaligo.id/images/2026-04/1776213941947-67452604.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213942349-187015690.jpg)
+![Holiday Inn Resort Bali Nusa Dua (假日度假村)](https://images.gobaligo.id/images/2026-04/1776213942349-187015690.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213942761-189409674.jpg)
+![Holiday Inn Resort Bali Nusa Dua (假日度假村)](https://images.gobaligo.id/images/2026-04/1776213942761-189409674.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776213943192-380283530.jpg)
+![Holiday Inn Resort Bali Nusa Dua (假日度假村)](https://images.gobaligo.id/images/2026-04/1776213943192-380283530.jpg)
 
 **地理位置**| 位于南湾（Tanjung Benoa）的主街上，门口有许多水上活动店家与当地小餐馆。
 
@@ -142,25 +142,25 @@ https://youtu.be/-CJsTy4C3AQ
 
 ## Grand Mirage Resort & Thalasso Bali 
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776214540617-94391469.jpg)
+![Grand Mirage Resort & Thalasso Bali](https://images.gobaligo.id/images/2026-04/1776214540617-94391469.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776214541619-124993412.jpg)
+![Grand Mirage Resort & Thalasso Bali](https://images.gobaligo.id/images/2026-04/1776214541619-124993412.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776214542030-129846941.jpg)
+![Grand Mirage Resort & Thalasso Bali](https://images.gobaligo.id/images/2026-04/1776214542030-129846941.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776214542548-225829248.jpg)
+![Grand Mirage Resort & Thalasso Bali](https://images.gobaligo.id/images/2026-04/1776214542548-225829248.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776214543439-225829638.jpg)
+![Grand Mirage Resort & Thalasso Bali](https://images.gobaligo.id/images/2026-04/1776214543439-225829638.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776214544232-225829648.jpg)
+![Grand Mirage Resort & Thalasso Bali](https://images.gobaligo.id/images/2026-04/1776214544232-225829648.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776214544793-225829658.jpg)
+![Grand Mirage Resort & Thalasso Bali](https://images.gobaligo.id/images/2026-04/1776214544793-225829658.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776214545317-225830033.jpg)
+![Grand Mirage Resort & Thalasso Bali](https://images.gobaligo.id/images/2026-04/1776214545317-225830033.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776214545825-225830769.jpg)
+![Grand Mirage Resort & Thalasso Bali](https://images.gobaligo.id/images/2026-04/1776214545825-225830769.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776214546318-577464057.jpg)
+![Grand Mirage Resort & Thalasso Bali](https://images.gobaligo.id/images/2026-04/1776214546318-577464057.jpg)
 
 **地理位置**| 位于丹绒贝诺瓦海滩，此区风浪平静，适合玩水上活动（香蕉船、海上甜甜圈）。酒店门口有当地市集。
 
@@ -195,25 +195,25 @@ https://youtube.com/shorts/3HHn9DdLzug
 
 ## **Movenpick Resort Jimbaran (莫凡彼)**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215197349-d2543e078e5e68064f92d9429fe66234.webp)
+![Movenpick Resort Jimbaran (莫凡彼)](https://images.gobaligo.id/images/2026-04/1776215197349-d2543e078e5e68064f92d9429fe66234.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215198209-ec1e5f5a3a32dd2fc5b6e8adb6f540b2.webp)
+![Movenpick Resort Jimbaran (莫凡彼)](https://images.gobaligo.id/images/2026-04/1776215198209-ec1e5f5a3a32dd2fc5b6e8adb6f540b2.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215198719-09833bf9442511bca3ced88921dfdf20.webp)
+![Movenpick Resort Jimbaran (莫凡彼)](https://images.gobaligo.id/images/2026-04/1776215198719-09833bf9442511bca3ced88921dfdf20.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215199127-264423310.jpg)
+![Movenpick Resort Jimbaran (莫凡彼)](https://images.gobaligo.id/images/2026-04/1776215199127-264423310.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215199647-264423318.jpg)
+![Movenpick Resort Jimbaran (莫凡彼)](https://images.gobaligo.id/images/2026-04/1776215199647-264423318.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215200166-287058610.jpg)
+![Movenpick Resort Jimbaran (莫凡彼)](https://images.gobaligo.id/images/2026-04/1776215200166-287058610.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215200537-435013327.jpg)
+![Movenpick Resort Jimbaran (莫凡彼)](https://images.gobaligo.id/images/2026-04/1776215200537-435013327.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215200967-435013329.jpg)
+![Movenpick Resort Jimbaran (莫凡彼)](https://images.gobaligo.id/images/2026-04/1776215200967-435013329.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215201477-435013476.jpg)
+![Movenpick Resort Jimbaran (莫凡彼)](https://images.gobaligo.id/images/2026-04/1776215201477-435013476.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215202331-555043431.jpg)
+![Movenpick Resort Jimbaran (莫凡彼)](https://images.gobaligo.id/images/2026-04/1776215202331-555043431.jpg)
 
 **地理位置**| 下楼即是Samasta购物中心与美食街（有星巴克、必胜客、当地小吃），走路8分钟到金巴兰海鲜烧烤区。生活机能无敌。
 
@@ -234,23 +234,23 @@ https://youtu.be/RodQvCZKwD0
 
 ## **Hard Rock Hotel Bali (硬石酒店)**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215387072-157357673.jpg)
+![Hard Rock Hotel Bali (硬石酒店)](https://images.gobaligo.id/images/2026-04/1776215387072-157357673.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215387472-246214639.jpg)
+![Hard Rock Hotel Bali (硬石酒店)](https://images.gobaligo.id/images/2026-04/1776215387472-246214639.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215387904-29141414.jpg)
+![Hard Rock Hotel Bali (硬石酒店)](https://images.gobaligo.id/images/2026-04/1776215387904-29141414.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215388324-29141420.jpg)
+![Hard Rock Hotel Bali (硬石酒店)](https://images.gobaligo.id/images/2026-04/1776215388324-29141420.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215388783-29149205.jpg)
+![Hard Rock Hotel Bali (硬石酒店)](https://images.gobaligo.id/images/2026-04/1776215388783-29149205.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215389174-175322400.jpg)
+![Hard Rock Hotel Bali (硬石酒店)](https://images.gobaligo.id/images/2026-04/1776215389174-175322400.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215389596-235821696.jpg)
+![Hard Rock Hotel Bali (硬石酒店)](https://images.gobaligo.id/images/2026-04/1776215389596-235821696.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215389995-235821697.jpg)
+![Hard Rock Hotel Bali (硬石酒店)](https://images.gobaligo.id/images/2026-04/1776215389995-235821697.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215390525-235821773.jpg)
+![Hard Rock Hotel Bali (硬石酒店)](https://images.gobaligo.id/images/2026-04/1776215390525-235821773.jpg)
 
 **地理位置**| 库塔最精华地段，对面就是库塔海滩（走路1分钟），旁边为大型商场Beachwalk。步行20分钟到Discovery购物中心与水上活动集合点。
 
@@ -264,25 +264,25 @@ https://youtu.be/RodQvCZKwD0
 
 ## **Bali Dynasty Resort (巴厘王朝)**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215764420-472073484.jpg)
+![Bali Dynasty Resort (巴厘王朝)](https://images.gobaligo.id/images/2026-04/1776215764420-472073484.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215764903-472073559.jpg)
+![Bali Dynasty Resort (巴厘王朝)](https://images.gobaligo.id/images/2026-04/1776215764903-472073559.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215765303-472073821.jpg)
+![Bali Dynasty Resort (巴厘王朝)](https://images.gobaligo.id/images/2026-04/1776215765303-472073821.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215765820-491969903.jpg)
+![Bali Dynasty Resort (巴厘王朝)](https://images.gobaligo.id/images/2026-04/1776215765820-491969903.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215766252-491971336.jpg)
+![Bali Dynasty Resort (巴厘王朝)](https://images.gobaligo.id/images/2026-04/1776215766252-491971336.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215766705-577056180.jpg)
+![Bali Dynasty Resort (巴厘王朝)](https://images.gobaligo.id/images/2026-04/1776215766705-577056180.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215767553-592841806.jpg)
+![Bali Dynasty Resort (巴厘王朝)](https://images.gobaligo.id/images/2026-04/1776215767553-592841806.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215768303-267053562.jpg)
+![Bali Dynasty Resort (巴厘王朝)](https://images.gobaligo.id/images/2026-04/1776215768303-267053562.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215768892-472060293.jpg)
+![Bali Dynasty Resort (巴厘王朝)](https://images.gobaligo.id/images/2026-04/1776215768892-472060293.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776215769316-472060297.jpg)
+![Bali Dynasty Resort (巴厘王朝)](https://images.gobaligo.id/images/2026-04/1776215769316-472060297.jpg)
 
 **地理位置**| 南库塔区，走路到库塔海滩约8分钟。周边餐厅、按摩店、换汇所密集。提供免费定时接驳车到Waterbom水上乐园。
 
@@ -296,25 +296,25 @@ https://youtu.be/RodQvCZKwD0
 
 ## **Aloft Bali Kuta (雅乐轩)**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216067581-482956751.jpeg)
+![Aloft Bali Kuta (雅乐轩)](https://images.gobaligo.id/images/2026-04/1776216067581-482956751.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216068081-482956753.jpeg)
+![Aloft Bali Kuta (雅乐轩)](https://images.gobaligo.id/images/2026-04/1776216068081-482956753.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216068486-643126482.jpg)
+![Aloft Bali Kuta (雅乐轩)](https://images.gobaligo.id/images/2026-04/1776216068486-643126482.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216068927-643126512.jpg)
+![Aloft Bali Kuta (雅乐轩)](https://images.gobaligo.id/images/2026-04/1776216068927-643126512.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216069437-643126513.jpg)
+![Aloft Bali Kuta (雅乐轩)](https://images.gobaligo.id/images/2026-04/1776216069437-643126513.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216070361-643126514.jpg)
+![Aloft Bali Kuta (雅乐轩)](https://images.gobaligo.id/images/2026-04/1776216070361-643126514.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216070903-643126517.jpg)
+![Aloft Bali Kuta (雅乐轩)](https://images.gobaligo.id/images/2026-04/1776216070903-643126517.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216071385-643126526.jpg)
+![Aloft Bali Kuta (雅乐轩)](https://images.gobaligo.id/images/2026-04/1776216071385-643126526.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216071801-482956642.jpeg)
+![Aloft Bali Kuta (雅乐轩)](https://images.gobaligo.id/images/2026-04/1776216071801-482956642.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216072295-482956652.jpeg)
+![Aloft Bali Kuta (雅乐轩)](https://images.gobaligo.id/images/2026-04/1776216072295-482956652.jpeg)
 
 **地理位置**| 紧邻Beachwalk购物中心，下楼就直接进入商场。距离库塔海滩步行10分钟，对面有24小时超市与药店。
 
@@ -328,29 +328,29 @@ https://youtu.be/RodQvCZKwD0
 
 ## **Padma Resort Legian (帕德玛)**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216412780-225524232.jpg)
+![Padma Resort Legian (帕德玛)](https://images.gobaligo.id/images/2026-04/1776216412780-225524232.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216413362-225527326.jpg)
+![Padma Resort Legian (帕德玛)](https://images.gobaligo.id/images/2026-04/1776216413362-225527326.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216413914-762253170.jpg)
+![Padma Resort Legian (帕德玛)](https://images.gobaligo.id/images/2026-04/1776216413914-762253170.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216414282-762253172.jpg)
+![Padma Resort Legian (帕德玛)](https://images.gobaligo.id/images/2026-04/1776216414282-762253172.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216414726-773481096.jpg)
+![Padma Resort Legian (帕德玛)](https://images.gobaligo.id/images/2026-04/1776216414726-773481096.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216415464-773481420.jpg)
+![Padma Resort Legian (帕德玛)](https://images.gobaligo.id/images/2026-04/1776216415464-773481420.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216416367-773481428.jpg)
+![Padma Resort Legian (帕德玛)](https://images.gobaligo.id/images/2026-04/1776216416367-773481428.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216416992-773660202.jpg)
+![Padma Resort Legian (帕德玛)](https://images.gobaligo.id/images/2026-04/1776216416992-773660202.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216417408-773660541.jpg)
+![Padma Resort Legian (帕德玛)](https://images.gobaligo.id/images/2026-04/1776216417408-773660541.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216417819-773660951.jpg)
+![Padma Resort Legian (帕德玛)](https://images.gobaligo.id/images/2026-04/1776216417819-773660951.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216418254-773669721.jpg)
+![Padma Resort Legian (帕德玛)](https://images.gobaligo.id/images/2026-04/1776216418254-773669721.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216418729-776075499.jpg)
+![Padma Resort Legian (帕德玛)](https://images.gobaligo.id/images/2026-04/1776216418729-776075499.jpg)
 
 **地理位置**| 位于雷吉安与库塔交界处的海滨，走出酒店就是热闹的Legian街（商店、餐厅、SPA林立），但酒店内极为宁静。拥有私人沙滩。
 
@@ -368,25 +368,25 @@ https://youtu.be/RodQvCZKwD0
 
 ## **Hyatt Regency Bali (凯悦丽晶)**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216713958-214614778.jpg)
+![Hyatt Regency Bali (凯悦丽晶)](https://images.gobaligo.id/images/2026-04/1776216713958-214614778.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216714370-214614812.jpg)
+![Hyatt Regency Bali (凯悦丽晶)](https://images.gobaligo.id/images/2026-04/1776216714370-214614812.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216714874-214614816.jpg)
+![Hyatt Regency Bali (凯悦丽晶)](https://images.gobaligo.id/images/2026-04/1776216714874-214614816.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216715390-217944378.jpg)
+![Hyatt Regency Bali (凯悦丽晶)](https://images.gobaligo.id/images/2026-04/1776216715390-217944378.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216715899-160819699.jpg)
+![Hyatt Regency Bali (凯悦丽晶)](https://images.gobaligo.id/images/2026-04/1776216715899-160819699.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216716702-214614384.jpg)
+![Hyatt Regency Bali (凯悦丽晶)](https://images.gobaligo.id/images/2026-04/1776216716702-214614384.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216717140-214614427.jpg)
+![Hyatt Regency Bali (凯悦丽晶)](https://images.gobaligo.id/images/2026-04/1776216717140-214614427.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216717643-214614428.jpg)
+![Hyatt Regency Bali (凯悦丽晶)](https://images.gobaligo.id/images/2026-04/1776216717643-214614428.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216718090-214614756.jpg)
+![Hyatt Regency Bali (凯悦丽晶)](https://images.gobaligo.id/images/2026-04/1776216718090-214614756.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216718555-214614768.jpg)
+![Hyatt Regency Bali (凯悦丽晶)](https://images.gobaligo.id/images/2026-04/1776216718555-214614768.jpg)
 
 **地理位置**| 沙努尔海滩正前方，拥有长达5公里的滨海步道，清晨或傍晚推婴儿车散步非常舒适。周边有许多咖啡厅与当地小吃店。
 
@@ -400,27 +400,27 @@ https://youtu.be/RodQvCZKwD0
 
 ## **Maison Aurelia Sanur by Preference (奥里利亚梅森酒店)**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216879488-524375767.jpg)
+![Maison Aurelia Sanur by Preference (奥里利亚梅森酒店)](https://images.gobaligo.id/images/2026-04/1776216879488-524375767.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216879952-524375768.jpg)
+![Maison Aurelia Sanur by Preference (奥里利亚梅森酒店)](https://images.gobaligo.id/images/2026-04/1776216879952-524375768.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216880353-524375771.jpg)
+![Maison Aurelia Sanur by Preference (奥里利亚梅森酒店)](https://images.gobaligo.id/images/2026-04/1776216880353-524375771.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216880860-524375772.jpg)
+![Maison Aurelia Sanur by Preference (奥里利亚梅森酒店)](https://images.gobaligo.id/images/2026-04/1776216880860-524375772.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216881272-524386598.jpg)
+![Maison Aurelia Sanur by Preference (奥里利亚梅森酒店)](https://images.gobaligo.id/images/2026-04/1776216881272-524386598.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216881720-524386644.jpg)
+![Maison Aurelia Sanur by Preference (奥里利亚梅森酒店)](https://images.gobaligo.id/images/2026-04/1776216881720-524386644.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216882167-524387959.jpg)
+![Maison Aurelia Sanur by Preference (奥里利亚梅森酒店)](https://images.gobaligo.id/images/2026-04/1776216882167-524387959.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216882604-524375164.jpg)
+![Maison Aurelia Sanur by Preference (奥里利亚梅森酒店)](https://images.gobaligo.id/images/2026-04/1776216882604-524375164.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216882993-524375166.jpg)
+![Maison Aurelia Sanur by Preference (奥里利亚梅森酒店)](https://images.gobaligo.id/images/2026-04/1776216882993-524375166.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216883830-524375710.jpg)
+![Maison Aurelia Sanur by Preference (奥里利亚梅森酒店)](https://images.gobaligo.id/images/2026-04/1776216883830-524375710.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776216884235-524375752.jpg)
+![Maison Aurelia Sanur by Preference (奥里利亚梅森酒店)](https://images.gobaligo.id/images/2026-04/1776216884235-524375752.jpg)
 
 **地理位置**| 位于沙努尔主街（Jl. Danau Tamblingan）上，周边有超市、药店、各式餐厅与精品店。走路5分钟可到沙努尔海滩。
 
@@ -438,29 +438,29 @@ https://youtu.be/RodQvCZKwD0
 
 ## **Holiday Inn Resort Bali Canggu (坎古假日度假村)**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776217039442-kr.jpg)
+![Holiday Inn Resort Bali Canggu (坎古假日度假村)](https://images.gobaligo.id/images/2026-04/1776217039442-kr.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776217039897-kr2.jpg)
+![Holiday Inn Resort Bali Canggu (坎古假日度假村)](https://images.gobaligo.id/images/2026-04/1776217039897-kr2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776217040413-kr3.jpg)
+![Holiday Inn Resort Bali Canggu (坎古假日度假村)](https://images.gobaligo.id/images/2026-04/1776217040413-kr3.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776217040913-pool2.webp)
+![Holiday Inn Resort Bali Canggu (坎古假日度假村)](https://images.gobaligo.id/images/2026-04/1776217040913-pool2.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776217041329-pool3.webp)
+![Holiday Inn Resort Bali Canggu (坎古假日度假村)](https://images.gobaligo.id/images/2026-04/1776217041329-pool3.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776217041712-caption_1_.jpg)
+![Holiday Inn Resort Bali Canggu (坎古假日度假村)](https://images.gobaligo.id/images/2026-04/1776217041712-caption_1_.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776217042158-caption_2_.jpg)
+![Holiday Inn Resort Bali Canggu (坎古假日度假村)](https://images.gobaligo.id/images/2026-04/1776217042158-caption_2_.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776217042623-caption_3_.jpg)
+![Holiday Inn Resort Bali Canggu (坎古假日度假村)](https://images.gobaligo.id/images/2026-04/1776217042623-caption_3_.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776217043188-caption_4_.jpg)
+![Holiday Inn Resort Bali Canggu (坎古假日度假村)](https://images.gobaligo.id/images/2026-04/1776217043188-caption_4_.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776217043779-caption_5_.jpg)
+![Holiday Inn Resort Bali Canggu (坎古假日度假村)](https://images.gobaligo.id/images/2026-04/1776217043779-caption_5_.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776217044295-caption_6_.jpg)
+![Holiday Inn Resort Bali Canggu (坎古假日度假村)](https://images.gobaligo.id/images/2026-04/1776217044295-caption_6_.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776217044723-caption_7_.jpg)
+![Holiday Inn Resort Bali Canggu (坎古假日度假村)](https://images.gobaligo.id/images/2026-04/1776217044723-caption_7_.jpg)
 
 **地理位置**| 坎古海滩区核心位置，走路5分钟到Berawa海滩（适合新手冲浪）。周边有无数IG打卡咖啡厅（如Crate Cafe）、周末市集与时尚服饰店。
 

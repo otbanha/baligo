@@ -30,7 +30,7 @@ lang: id
 _srcHash: b8d9fe589de91ecb44a6df7a05f06b2a
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_49316950dc7a762a8401be7816d1dd28.jpg)
+![Rahasia Kabin yang Jarang Dibocorkan Pramugari: Tips Pilih K](https://images.gobaligo.id/vocus/vocus_49316950dc7a762a8401be7816d1dd28.jpg)
 
 Dalam perjalanan udara, bawa dan atur bagasi kabin itu tantangan tersendiri buat setiap penumpang. Sebagai pramugari dengan 6 tahun pengalaman di maskapai Amerika, CiCi udah lihat langsung dan kumpulin banyak pengalaman praktis soal bagasi kabin. Di sini aku mau bagiin beberapa kesalahan umum dan solusinya, biar kamu bisa naik pesawat dengan lancar dan nikmatin penerbangan yang nyaman.
 

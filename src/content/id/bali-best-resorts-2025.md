@@ -46,7 +46,7 @@ Bali kembali dinobatkan sebagai destinasi wisata terbaik di Asia! Berdasarkan pe
 
 Majalah *DestinAsian* terkenal dengan basis pembaca berbahasa Inggris yang luas, dan penghargaan tahunannya dipilih oleh para traveler berpengalaman. Majalah tersebut menyebutkan: "Pembaca kami kembali memilih Bali sebagai destinasi pulau favorit di kawasan Asia-Pasifik. Ini menjadikan Bali **juara 18 tahun berturut-turut** — sekaligus mengukuhkan posisinya sebagai hotspot wisata paling populer di Indonesia."
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e5f947f6aa60b97f7aa679736ea5334.png)
+![Bali Juara Pulau Terbaik Asia 18 Tahun Berturut-turut](https://images.gobaligo.id/vocus/vocus_2e5f947f6aa60b97f7aa679736ea5334.png)
 
 Pulau yang dijuluki "Pulau Dewata" ini terkenal dengan pantai bersih, sawah hijau, spot surfing legendaris, dan budaya yang dalam. Majalah itu menambahkan: "Budaya dan seni khas Bali selalu menginspirasi wisatawan global. Ditambah garis pantai yang indah dan banyak resor mewah di tengah pemandangan pedesaan, Bali tetap punya daya tarik yang sulit ditolak buat traveler modern."
 
@@ -58,7 +58,7 @@ Selain pulau itu sendiri, infrastruktur dan akomodasi mewah Bali juga bersinar d
 
 ## Daftar Resor Terbaik di Indonesia
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c3e2154ec4f88df171af20e9349fcbab.jpg)
+![Daftar Resor Terbaik di Indonesia](https://images.gobaligo.id/vocus/vocus_c3e2154ec4f88df171af20e9349fcbab.jpg)
 
 Di daftar **'Resor Terbaik di Indonesia'**, hotel-hotel mewah di Bali hampir menguasai sepuluh besar:
 

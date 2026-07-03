@@ -19,7 +19,7 @@ lang: zh-hk
 _srcHash: 5fe98de24e8dbead53681c70bfd8d0aa
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f99e6c8463ebffb2d3f909bbd209ef22.jpg)
+![【坎古/Nuanu新景點】 峇里島最震撼嘅藝術地標：The Earth Sentinels 地球衛兵](https://images.gobaligo.id/vocus/vocus_f99e6c8463ebffb2d3f909bbd209ef22.jpg)
 
 喺峇里島塔巴南（Tabanan）嘅 Nuanu Creative City 入口處，屹立住兩座令人屏息嘅巨型雕塑——**《The Earth Sentinels》**（地球衛兵）。呢個係南非藝術家 Daniel Popper 嘅代表作之一，融合咗自然、神話同科技光雕，成為峇里島最具象徵性嘅藝術地標之一。
 
@@ -48,7 +48,7 @@ _srcHash: 5fe98de24e8dbead53681c70bfd8d0aa
 
 作為一位熱愛峇里島文化嘅旅遊部落客，《The Earth Sentinels》唔單止係一件藝術作品，更加係一座同大自然對話嘅橋樑。企喺呢兩座巨型雕塑前面，感受到嘅唔單止係視覺上嘅震撼，更加係對大自然同生命嘅敬畏。無論係日頭嘅壯麗景象，定係夜晚嘅光影變化，《The Earth Sentinels》都值得你親自嚟感受。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_936139a7a7beb6eea4320eb4498aa1d2.jpg)
+![部落客觀點：必訪嘅藝術地標](https://images.gobaligo.id/vocus/vocus_936139a7a7beb6eea4320eb4498aa1d2.jpg)
 
 ---
 
@@ -60,7 +60,7 @@ _srcHash: 5fe98de24e8dbead53681c70bfd8d0aa
 
 ## 更多Nuanu Creative City景點
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d1b9756c666257aa52804cadea6bbadb.jpg)
+![更多Nuanu Creative City景點](https://images.gobaligo.id/vocus/vocus_d1b9756c666257aa52804cadea6bbadb.jpg)
 
 Nuanu Creative City係峇里島最新崛起嘅創意園區，仲推動零碳排，成為峇里島最新嘅永續旅遊地標。依家已經開始吸引全球嘅創意人士，成為下一個必訪嘅熱點！
 

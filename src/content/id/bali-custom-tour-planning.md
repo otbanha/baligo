@@ -61,7 +61,7 @@ Mereka punya banyak referensi soal penginapan, tempat wisata, dan restoran. Daft
 
 Sekarang kita kerja sama ngeluarin **"Promo Paket 733"**, harga normalnya USD$27 buat biaya perencanaan, tapi cukup bilang ke CS Line kalau kamu lihat "Paket 733", kamu bisa pesan dengan harga diskon USD$24.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8205a503e78323f253c7bcd74bf75fac.jpg)
+![Tentang isBali](https://images.gobaligo.id/vocus/vocus_8205a503e78323f253c7bcd74bf75fac.jpg)
 
 ## Langsung Action
 
@@ -71,7 +71,7 @@ Bikin kamu nikmatin liburan tanpa pusing mikirin rencana.
 - **Perencanaan Profesional**: Tim yang kenal banget sama setiap sudut Bali, kasih rencana yang oke.
 - **Pengalaman Tanpa Repot**: Pemandu profesional temani sepanjang jalan, pastiin perjalanan aman dan menyenangkan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_653ee94e379ace13490cab96a08c77a6.jpg)
+![Langsung Action](https://images.gobaligo.id/vocus/vocus_653ee94e379ace13490cab96a08c77a6.jpg)
 
 ## Cara Dapat Promo:
 

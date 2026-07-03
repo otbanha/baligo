@@ -21,9 +21,9 @@ _srcHash: c5a96100277e15739b98f26c07b3b98a
 ---
 最近有去遊覽 **峇里島知名景點——烏魯瓦圖廟（Pura Luhur Uluwatu）** 嘅朋友，一定有注意到支撐廟體嘅懸崖正在進行一系列嘅施工。呢座擁有千年歷史嘅神聖廟宇，坐落於 **70米高嘅懸崖頂端**，唔單止係當地宗教信仰嘅重要象徵，更加係吸引全球旅客嘅絕美景點。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f2702453d13f4f8d935ff2119beb4ab.jpg)
+![拯救烏魯瓦圖廟：歷史性修復工程即將完成](https://images.gobaligo.id/vocus/vocus_4f2702453d13f4f8d935ff2119beb4ab.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2fb345962fe3405edfa541170dd85eb9.jpg)
+![拯救烏魯瓦圖廟：歷史性修復工程即將完成](https://images.gobaligo.id/vocus/vocus_2fb345962fe3405edfa541170dd85eb9.jpg)
 
 不過，近年專家發現 **懸崖結構存在重大裂縫**，引發人們擔心佢會唔會崩塌，導致廟宇受到損毀。政府同工程專家團隊已經全面展開加固同修復工程，並計劃喺 **2025年2月** 前完工，以確保呢座文化遺產嘅安全同永續發展。
 
@@ -83,7 +83,7 @@ _srcHash: c5a96100277e15739b98f26c07b3b98a
 
 ## **結論：烏魯瓦圖廟嘅未來**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_63da293a2e7ca055c3aa81845d8a3e2e.jpg)
+![結論：烏魯瓦圖廟嘅未來](https://images.gobaligo.id/vocus/vocus_63da293a2e7ca055c3aa81845d8a3e2e.jpg)
 
 雖然呢項工程面臨 **唔少挑戰同爭議**，但峇里島政府同專家團隊仍然積極推動修復計劃，確保 **烏魯瓦圖廟嘅結構安全**。呢個唔單止關係到宗教同文化遺產嘅保存，亦對 **當地旅遊業嘅永續發展** 有深遠影響。
 
@@ -115,7 +115,7 @@ _srcHash: c5a96100277e15739b98f26c07b3b98a
 
 ## 更多烏魯瓦圖食玩好去處介紹
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
+![更多烏魯瓦圖食玩好去處介紹](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
 [烏魯瓦圖食玩好去處推薦](/blog/uluwatu-guide/)
 

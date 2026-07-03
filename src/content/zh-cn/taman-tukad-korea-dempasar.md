@@ -17,7 +17,7 @@ lang: zh-cn
 _srcHash: 7e2a39b24e3790fd45e2735d2142045b
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_498ee7f36925a8e9d53a0b9cf326a3cc.jpg)
+![巴厘岛新景点｜Taman Tukad Korea 韩国河滨公园｜清溪川｜Taman Kumbasari in Denpa](https://images.gobaligo.id/vocus/vocus_498ee7f36925a8e9d53a0b9cf326a3cc.jpg)
 
 探索巴厘岛美景，「韩国清溪川河滨公园」怎么搬到了巴厘岛的 Denpasar了？！
 

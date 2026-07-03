@@ -17,7 +17,7 @@ lang: en
 _srcHash: 6cacc31db345ce8a943c341d17a37fab
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_513b249c4e9a87d33d49c0e009653ed8.jpg)
+![Enchanted Forest Under the Night Sky: Hikaria's Immersive Li](https://images.gobaligo.id/vocus/vocus_513b249c4e9a87d33d49c0e009653ed8.jpg)
 
 Stepping into Hikaria in Ubud, Bali feels like crossing the boundary between reality and fantasy. This revolutionary light art brand, created by **Timedoor Indonesia** and **Run-Hun Sha**, transforms the forest at Greenkubu Restaurant and Swing into an enchanting luminous wonderland after sunset, attracting countless travelers seeking unique nighttime experiences.
 
@@ -29,9 +29,9 @@ Hikaria is not just a light show, but a perfect blend of traditional storytellin
 
 Inspired by traditional Balinese mythology, Hikaria tells the tale of Sanjara, the God of Light, and Wisaka, the God of Shadow. Strolling along the approximately 1-kilometer trail, visitors will experience an **immersive nighttime light art journey**. Advanced projection mapping technology seamlessly integrates with the natural environment, creating a serene and dreamy atmosphere that feels like stepping into a fairytale world.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_68a1930e4635d2ab71c3554c09582037.png)
+![Entering the Light and Shadow Narrative of Balinese Mytholog](https://images.gobaligo.id/vocus/vocus_68a1930e4635d2ab71c3554c09582037.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2ad9af9756ee9fbfaf5b9ff3f7639238.jpg)
+![Entering the Light and Shadow Narrative of Balinese Mytholog](https://images.gobaligo.id/vocus/vocus_2ad9af9756ee9fbfaf5b9ff3f7639238.jpg)
 
 Many visitors marvel at how the light installations and music harmoniously coexist with the surrounding natural environment, crafting a fantastical space that makes one forget the hustle and bustle of daily life. The entire park is well-maintained, making it easy for visitors to explore, while friendly staff are always on hand to assist, ensuring every guest enjoys this magical journey.
 
@@ -39,19 +39,19 @@ Many visitors marvel at how the light installations and music harmoniously coexi
 
 One of Hikaria's most praised features is its abundance of perfect photo spots. From eye-catching light installations to iconic giant moons, every corner captures the magic of the night. Notably, the venue offers **professional complimentary photography services**, with photographers stationed at prime locations to help visitors preserve their beautiful memories.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ebd7298ffdf5d655290876b9de03c786.png)
+![A Stunning Photography Destination and Unforgettable Experie](https://images.gobaligo.id/vocus/vocus_ebd7298ffdf5d655290876b9de03c786.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_399947f4c176edbcc3b2f21dbb98d60a.jpg)
+![A Stunning Photography Destination and Unforgettable Experie](https://images.gobaligo.id/vocus/vocus_399947f4c176edbcc3b2f21dbb98d60a.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c31af6bee0eb13d66274b0f0e627f998.jpg)
+![A Stunning Photography Destination and Unforgettable Experie](https://images.gobaligo.id/vocus/vocus_c31af6bee0eb13d66274b0f0e627f998.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_259279cde4722b281168b2133f65f2cc.png)
+![A Stunning Photography Destination and Unforgettable Experie](https://images.gobaligo.id/vocus/vocus_259279cde4722b281168b2133f65f2cc.png)
 
 "Every corner here is perfect for taking photos and sharing on social media," shares a photography enthusiast. "Make sure to bring a camera suitable for low-light conditions before you come, so your photos can perfectly capture the magic of this place."
 
 In addition to photography, Hikaria offers **costume rental services**, where visitors can choose from Japanese yukatas, traditional Balinese attire, or various dresses to fully immerse themselves in this luminous fairy tale, enhancing the overall experience.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_31e8c69bd8a6a27fb15fbf7a59bde81a.png)
+![A Stunning Photography Destination and Unforgettable Experie](https://images.gobaligo.id/vocus/vocus_31e8c69bd8a6a27fb15fbf7a59bde81a.png)
 
 ## Practical Visit Information
 

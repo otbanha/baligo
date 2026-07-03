@@ -18,7 +18,7 @@ lang: zh-cn
 _srcHash: 4fbaa81c1277fc5d38166b9e1b8b00c3
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b3582d4ed8018cd3a3f48a267d13304.png)
+![巴厘岛自由行旅游攻略：一位经验丰富的自助旅行者的分享](https://images.gobaligo.id/vocus/vocus_0b3582d4ed8018cd3a3f48a267d13304.png)
 
 巴厘岛，这片风光旖旎的土地，吸引着世界各地的旅人。而在我们的脸书社团，[Chihming Lai](https://www.facebook.com/profile.php?id=100008235455950) 这位并非专业的旅行人员或旅行社员工，却每半年就会专程前往巴厘岛放松身心，享受阳光，啤酒，沙滩，比基尼。对他而言，巴厘岛独有的慢活氛围正是这片土地最大的魅力所在。以下是他乐于与人分享他亲身的旅游经验和实用贴士。
 
@@ -36,7 +36,7 @@ _srcHash: 4fbaa81c1277fc5d38166b9e1b8b00c3
 
 ## **抵达巴厘岛后：**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e13870a67da8a8539a2df155af5a63e5.jpg)
+![抵达巴厘岛后：](https://images.gobaligo.id/vocus/vocus_e13870a67da8a8539a2df155af5a63e5.jpg)
 
 1. 行程不用排得太满，毕竟匆匆一游就要离开，不如好好放慢步伐，以愉悦的心情感受当地慢活，漫无目的地闲逛，喝杯冰凉饮料，让心灵获得喘息。
 2. 目前巴厘岛可以享受较为宁静的环境，至少海滩的污染程度也好了不少。
@@ -51,14 +51,14 @@ _srcHash: 4fbaa81c1277fc5d38166b9e1b8b00c3
 3. 他自己都是自助旅行，不住酒店，全程住Villa不换住处。10天Villa的费用，约相当于台湾5天4晚的酒店价格。自助行程更加弹性，无需拘泥于套餐行程。
 4. 语言障碍问题其实可以不必过于担忧，友善的笑容往往就是最好的沟通方式。再者，也可使用手机作为翻译的好帮手。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f7dd250215384c6cd1e0e21abaea3b3.jpg)
+![住房与行程规划建议：](https://images.gobaligo.id/vocus/vocus_4f7dd250215384c6cd1e0e21abaea3b3.jpg)
 
 
 ## **结语：**
 
 最后，这位经常游历巴厘岛的旅客，衷心希望能在社团内分享旅游心得，解答大家的疑惑，传递实用的旅游资讯，因为他由衷地「爱上」了这片土地及其独特的慢活文化。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![结语：](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 点击这里观看更多巴厘岛精彩游记
 

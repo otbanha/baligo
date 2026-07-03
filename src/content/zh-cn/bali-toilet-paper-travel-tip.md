@@ -19,7 +19,7 @@ _srcHash: 18ce798020f15cfe4d0dc26e5f3dce1a
 
 巴厘岛是一个充满惊喜和奇幻的旅游胜地，但对于一些游客来说，面对当地的卫生习惯可能会感到困惑和不解。其中一个最让台湾人无法接受的文化差异就是他们用来大便后清理屁股的 - 「屁股枪（bum gun）」。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d3ec54a485047d9aca008c31271be6cc.jpg)
+![印尼/巴厘岛旅游请自备卫生纸！](https://images.gobaligo.id/vocus/vocus_d3ec54a485047d9aca008c31271be6cc.jpg)
 
 预订、省钱就看这里：
 

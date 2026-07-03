@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: 888736a2cac3be3a63bac12545cf9017
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_02f9e0629db3fa5a8e4dc621e9b2389f.jpg)
+![2024年峇里島投資新法規：對外國投資者投資峇里島嘅影響](https://images.gobaligo.id/vocus/vocus_02f9e0629db3fa5a8e4dc621e9b2389f.jpg)
 
 2023年10月底，峇里島宣布咗針對外國人喺峇里島做生意，同埋投資者居留許可嘅新法規。呢啲法規帶嚟咗一啲重要變化，對於計劃喺呢個美麗島嶼上投資做生意或者居住嘅外國人嚟講，尤其重要。
 

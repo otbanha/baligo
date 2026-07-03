@@ -22,7 +22,7 @@ _srcHash: b15bb3b16f790b35f1b763e19fdac1fe
 ---
 Pas rencanain liburan ke Bali, booking hotel jadi salah satu langkah paling penting. Bali punya banyak pilihan mulai dari hotel mewah, villa kece, sampai penginapan budget-friendly. Tapi gimana caranya dapet yang nyaman tanpa bikin kantong bolong? Yuk, simak tips hemat berikut biar booking hotel di Bali makin ringan!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e1458b18b30d2ce80d48b7e014546a95.png)
+![Tujuh Tips Hemat Booking Hotel di Bali](https://images.gobaligo.id/vocus/vocus_e1458b18b30d2ce80d48b7e014546a95.png)
 
 Biar liburanmu seru tanpa khawatir bangkrut! Cus, langsung cek tips-tips jitu ini!
 
@@ -56,7 +56,7 @@ Rencanakan dan pesan akomodasi dari jauh-jauh hari biar dapet harga lebih miring
 
 Pakai situs atau aplikasi perbandingan kayak Booking, Agoda, dll buat bandingin harga dan review berbagai pilihan akomodasi. Dijamin kamu bakal nemu yang paling worth it.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b53721b574da73c7eee1ef243acb1960.png)
+![Bandingkan Harga](https://images.gobaligo.id/vocus/vocus_b53721b574da73c7eee1ef243acb1960.png)
 
 Pesan dan hemat, cek di sini:
 

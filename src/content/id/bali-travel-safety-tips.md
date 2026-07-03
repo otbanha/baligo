@@ -20,7 +20,7 @@ _srcHash: b6b89da103ad2d0a76d65f01a67fea2d
 ---
 Bali udah lama banget dianggap sebagai 'halaman belakang' buat orang Australia. Jaraknya dekat, tiket pesawat murah, cuacanya enak — jadi destinasi liburan favorit banyak warga Australia. Mau cari pantai yang cerah, yoga buat relaksasi, atau pengalaman budaya dan kuliner khas Bali, pulau tropis ini selalu punya daya tarik yang nggak ada habisnya. Tapi, seiring makin banyaknya turis yang datang, isu soal manajemen risiko di Bali juga mulai naik ke permukaan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a8482d650034dd649a7101c96aa6b294.jpg)
+![Sebelum ke Bali: Risiko Pantai, Syarat Visa, dan Bahaya Minu](https://images.gobaligo.id/vocus/vocus_a8482d650034dd649a7101c96aa6b294.jpg)
 
 Biar setiap traveler bisa liburan dengan tenang, SmartTraveller dari pemerintah Australia udah ngerangkum info wisata Bali terbaru, termasuk keamanan pantai, aktivitas gunung berapi, aturan masuk, dan risiko minuman. Mau kamu baru pertama kali ke Bali atau udah sering balik, panduan praktis ini bakal bantu kamu siap-siap, seru-seruan, dan tetap aman menjelajahi Bali. Beberapa info dan pengingat keamanan terbaru ini nggak boleh kamu lewatkan:
 
@@ -30,7 +30,7 @@ Biar setiap traveler bisa liburan dengan tenang, SmartTraveller dari pemerintah 
 
 Belakangan ini, ada beberapa kasus turis Australia yang tenggelam di Bali atau daerah lain di Indonesia, terutama di pantai-pantai terkenal kayak Canggu, Uluwatu, dan Seminyak.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5eff44ed33e1986993b8af3c27e0cef4.jpg)
+![Risiko Pantai: Peringatan Arus Kuat dan Ombak Besar](https://images.gobaligo.id/vocus/vocus_5eff44ed33e1986993b8af3c27e0cef4.jpg)
 
 ### **Poin Risiko Utama:**
 
@@ -55,7 +55,7 @@ Imigrasi Indonesia cukup ketat, terutama soal kondisi paspor. Ada turis yang dit
 - Masa berlaku minimal 6 bulan sejak tanggal masuk.
 - Tidak boleh rusak, terkena air, sobek, atau kerusakan lain yang kelihatan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1f7cd67badfa231d12a134cace300513.jpg)
+![Paspor harus memenuhi syarat berikut:](https://images.gobaligo.id/vocus/vocus_1f7cd67badfa231d12a134cace300513.jpg)
 
 Kalau ragu, sebaiknya perbarui paspor sebelum berangkat biar nggak ditolak masuk atau bahkan harus pulang langsung.
 
@@ -69,7 +69,7 @@ Pemerintah Provinsi Bali sudah mengeluarkan aturan perilaku untuk turis asing, t
 - Jangan panjat atau foto sembarangan di bangunan suci.
 - Hindari mabuk-mabukan atau bertingkah kacau di tempat umum.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_58494b23c4192b1671ed180bc044af9d.jpg)
+![Hormati Budaya dan Hukum Setempat](https://images.gobaligo.id/vocus/vocus_58494b23c4192b1671ed180bc044af9d.jpg)
 
 Belakangan ini pihak berwenang makin tegas. Kalau melanggar, bisa kena denda, dideportasi, bahkan pidana.
 
@@ -77,7 +77,7 @@ Belakangan ini pihak berwenang makin tegas. Kalau melanggar, bisa kena denda, di
 
 ## **Aktivitas Gunung Berapi: Penerbangan Bisa Terganggu**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d2f54d7d9872520bf06d8114c5e590a7.jpg)
+![Aktivitas Gunung Berapi: Penerbangan Bisa Terganggu](https://images.gobaligo.id/vocus/vocus_d2f54d7d9872520bf06d8114c5e590a7.jpg)
 
 Akhir-akhir ini Gunung Lewotobi Laki-Laki lagi aktif, sih. Lokasinya memang di luar pulau Bali, tapi abu vulkaniknya bisa ganggu jadwal penerbangan.
 
@@ -93,7 +93,7 @@ Akhir-akhir ini Gunung Lewotobi Laki-Laki lagi aktif, sih. Lokasinya memang di l
 
 Di Bali pernah ada kasus minuman dicampur racun atau mengandung metanol ilegal yang bikin keracunan, bahkan sampai meninggal.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d366969754755a10908c9de7fd921078.jpg)
+![Risiko Alkohol: Hindari Minuman Beracun atau Mengandung Meta](https://images.gobaligo.id/vocus/vocus_d366969754755a10908c9de7fd921078.jpg)
 
 ### **Cara mencegahnya:**
 

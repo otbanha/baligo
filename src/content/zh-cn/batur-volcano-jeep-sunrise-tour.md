@@ -42,11 +42,11 @@ _srcHash: 88227f58f271c7f64b0482f1929e31bc
 
 最惊喜的是，他还教我们摆出各种“网红姿势”。“向左看！手自然放在膝盖上！手举起来！”不得不说，当地人真的最懂怎么拍出震撼的火山照！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2548f4b65016cb5cef84dc3c7e33a73b.jpg)
+![火山日出的魔幻时刻](https://images.gobaligo.id/vocus/vocus_2548f4b65016cb5cef84dc3c7e33a73b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ed3565f3c65cba330867a9465af3308d.jpg)
+![火山日出的魔幻时刻](https://images.gobaligo.id/vocus/vocus_ed3565f3c65cba330867a9465af3308d.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_461bde39900fa14c25d20ebbc554c6fc.jpg)
+![火山日出的魔幻时刻](https://images.gobaligo.id/vocus/vocus_461bde39900fa14c25d20ebbc554c6fc.jpg)
 
 **这趟行程最棒的是——导游会免费帮你拍摄日出纪念照！** 他们熟知每个最佳取景角度，还会指导你站在吉普车旁或**直接爬上**车顶，拍出超有冒险感的“火山日出大片”。
 
@@ -58,7 +58,7 @@ _srcHash: 88227f58f271c7f64b0482f1929e31bc
 
 有趣的是，在这里遇到了另外两个也是刚看完日出的台湾女生，我们交换着各自的吉普车冒险故事！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_36abb17e76dcf903be948e0b5ecd4a4f.jpg)
+![意外收获：Paperhills Cafe的疗愈时光](https://images.gobaligo.id/vocus/vocus_36abb17e76dcf903be948e0b5ecd4a4f.jpg)
 
 ### **4. 乌布景点顺游（可选附加行程）**
 
@@ -66,11 +66,11 @@ _srcHash: 88227f58f271c7f64b0482f1929e31bc
 
 - **德格拉朗梯田（Tegalalang Rice Terrace）**：巴厘岛最著名的梯田景观。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f7521c2109d0f81313a9289b3b3ccec0.jpg)
+![4. 乌布景点顺游（可选附加行程）](https://images.gobaligo.id/vocus/vocus_f7521c2109d0f81313a9289b3b3ccec0.jpg)
 
 - **Tukad Cepung 瀑布**：隐藏在洞穴中的梦幻瀑布，阳光洒落时超适合拍照！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b495d43fc3c4658844ab8c165bd29a1.jpg)
+![4. 乌布景点顺游（可选附加行程）](https://images.gobaligo.id/vocus/vocus_9b495d43fc3c4658844ab8c165bd29a1.jpg)
 
 {{block:戶外}}
 

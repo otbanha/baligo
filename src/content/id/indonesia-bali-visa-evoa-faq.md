@@ -23,7 +23,7 @@ lang: id
 _srcHash: 932b5cafa872083702e601e1d743063a
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d3fe29fb0bf4ee0c337c1560d8efee0f.jpg)
+![2025 Versi Terbaru: FAQ Visa Masuk & e-Visa eVoA ke Indonesi](https://images.gobaligo.id/vocus/vocus_d3fe29fb0bf4ee0c337c1560d8efee0f.jpg)
 
 
 

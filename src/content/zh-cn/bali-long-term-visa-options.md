@@ -17,7 +17,7 @@ lang: zh-cn
 _srcHash: 95ffa0bf6c9a0f91256a4c6f8c7096fa
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fe9cede54dcbc6979f0382bbc3d2c50f.png)
+![在印尼/巴厘岛长期居住/移民的签证选项](https://images.gobaligo.id/vocus/vocus_fe9cede54dcbc6979f0382bbc3d2c50f.png)
 
 外国人可以选择多种签证和许可证来在巴厘岛长期居住。一般来说，外国旅客可以申请以下类型的签证：
 
@@ -56,7 +56,7 @@ _srcHash: 95ffa0bf6c9a0f91256a4c6f8c7096fa
 
 ## 使用居留许可证（ITAS/KITAS）在巴厘岛长期居住
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8193a453448706bb3e740d33a35153d0.png)
+![使用居留许可证（ITAS/KITAS）在巴厘岛长期居住](https://images.gobaligo.id/vocus/vocus_8193a453448706bb3e740d33a35153d0.png)
 
 居留许可证（ITAS/KITAS）是决定在巴厘岛长期居住几年的外国人最佳选择。居留许可证的有效期可长达两年（取决于许可证类型），并允许在国内延长。此外，持有居留许可证者可获得多次再入境许可，允许他们自由进出印尼而不影响居留许可证的有效性。
 
@@ -77,7 +77,7 @@ _srcHash: 95ffa0bf6c9a0f91256a4c6f8c7096fa
 
 📩 **立即加入「巴厘岛旅游攻略」博客，成为巴厘岛旅游达人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![注册加入我们的博客](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **通过免费订阅，你将获得：**
 

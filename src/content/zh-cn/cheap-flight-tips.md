@@ -17,7 +17,7 @@ lang: zh-cn
 _srcHash: b7d298afc91cd20f529e0a54eeb67892
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5087195a099cef79d6a435a90cc7dab6.png)
+![机票这样买最划算！5大秘诀让你省下25%费用，提早半年订反而吃亏！](https://images.gobaligo.id/vocus/vocus_5087195a099cef79d6a435a90cc7dab6.png)
 
 旅行时，大家都希望能买到便宜的机票，这样就能省下更多的钱在当地消费和购物。但如何才能买到便宜的机票呢？《香港01》的记者从Expedia最近发布的《2025年航空旅游秘诀》年度报告中，总结了5个购买机票的常见误区和技巧。报告指出，在出发前7到22天订购机票，比提前4到5个月订购可以节省26%的费用！想知道更多细节，就继续往下看吧！
 
@@ -32,13 +32,13 @@ _srcHash: b7d298afc91cd20f529e0a54eeb67892
 5. **经济舱机票价格可能会下降**  
    很多人以为机票价格只会上涨，但其实2024年经济舱的平均机票价格比2023年下降了2%，所以机票价格并非只升不降，有时也会有降价的机会。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9d846273f892c959fd676197c3d3b986.png)
+![机票这样买最划算！5大秘诀让你省下25%费用，提早半年订反而吃亏！](https://images.gobaligo.id/vocus/vocus_9d846273f892c959fd676197c3d3b986.png)
 
 希望这些小技巧能帮助你在下次旅行时买到更便宜的机票，省下的钱可以用来享受更多的当地美食和购物乐趣！
 
 ## 📩 **立即加入「巴厘岛旅游攻略」成为巴厘岛旅游达人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd2d57030eb68a654cb046f1ac9deeab.jpg)
+![立即加入「巴厘岛旅游攻略」成为巴厘岛旅游达人！](https://images.gobaligo.id/vocus/vocus_fd2d57030eb68a654cb046f1ac9deeab.jpg)
 
 **通过免费订阅，你将获得：**
 

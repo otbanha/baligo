@@ -26,7 +26,7 @@ _srcHash: cd8c6e011ec379769612480fbb9d066c
 
 [每當朋友問我「峇里島有咩一定要去嘅景點？」時，我總係會反問：「你想要咩樣嘅旅行體驗？」停止盲從攻略！峇里島旅行嘅秘訣係先了解自己想要咩！](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b759105c925f38b76481bc9cc51f2b4d.jpg)
+![【2026 峇里島景點】唔好再搜必去清單！解鎖你嘅專屬行程公式同隱藏版秘境](https://images.gobaligo.id/vocus/vocus_b759105c925f38b76481bc9cc51f2b4d.jpg)
 
 ## 冇標準答案嘅旅行
 
@@ -34,17 +34,17 @@ _srcHash: cd8c6e011ec379769612480fbb9d066c
 
 有啲人嚟呢度係為咗喺西岸嘅海灘睇住夕陽，咩都唔諗；有啲人則係衝住陽光椰影/靚仔索女/歡樂派對嘅海灘俱樂部，享受音樂、陽光同熱鬧嘅氛圍；仲有人專程嚟體驗烏布嘅傳統文化，喺山林間冥想，或者學習峇里島嘅傳統藝術。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_104bf07d3e6737f9d056a85f8714c32b.png)
+![冇標準答案嘅旅行](https://images.gobaligo.id/vocus/vocus_104bf07d3e6737f9d056a85f8714c32b.png)
 
 **快速參考：**[【掌握峇里島日落時間最佳觀賞指南】七大峇里島日落夕陽觀賞地點，你去過幾個？](/blog/bali-sunset-spots-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2634825130a33ed12c76424c2ef48c7e.png)
+![冇標準答案嘅旅行](https://images.gobaligo.id/vocus/vocus_2634825130a33ed12c76424c2ef48c7e.png)
 
 **快速參考：**[峇里島20個免費入場嘅海灘俱樂部 享受比基尼、音樂、泳池、夕陽美景](/blog/bali-beach-clubs-free-entry-list/)
 
 當然，都有唔少人係為咗嗰啲Instagram上嘅熱門打卡點而嚟 - 海神廟嘅浪花、德格拉朗梯田嘅綠意、仲有網美鞦韆、咖啡廳嘅精緻早餐等。而冒險愛好者們則可能更愛火山健行、潛水探索海底世界，或者體驗刺激嘅泛舟活動。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_03d513c50f5cd07414320d266d4c417c.jpg)
+![冇標準答案嘅旅行](https://images.gobaligo.id/vocus/vocus_03d513c50f5cd07414320d266d4c417c.jpg)
 
 **快速參考：**
 
@@ -85,7 +85,7 @@ _srcHash: cd8c6e011ec379769612480fbb9d066c
 
 ## 峇里島十大地標景點
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cdf81fc5b06580addc247add2d57cb28.png)
+![峇里島十大地標景點](https://images.gobaligo.id/vocus/vocus_cdf81fc5b06580addc247add2d57cb28.png)
 
 雖然冇一定要去嘅景點，峇里島確實有「十大標誌性景點」。呢啲景點集中展現咗峇里島嘅文化、自然風光同特色魅力，讓你可以喺短時間內深入體驗峇里島嘅獨特魅力。同時呢啲地方亦係影相打卡/到此一遊嘅熱門景點。
 
@@ -98,11 +98,11 @@ _srcHash: cd8c6e011ec379769612480fbb9d066c
 
 ## 峇里島點解能夠吸引全球旅客？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b60c3b9ad94913c0d4c55806020dbbe.jpg)
+![峇里島點解能夠吸引全球旅客？](https://images.gobaligo.id/vocus/vocus_9b60c3b9ad94913c0d4c55806020dbbe.jpg)
 
 峇里島唔單止係印尼最受歡迎嘅旅遊地之一，更加係一座集自然風光同靈性文化於一身嘅神聖之島。從擁有超過10,000座寺廟嘅宗教傳統，到被聯合國教科文組織認可嘅梯田同火山景觀，每一處都蘊含住獨特嘅故事同能量。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d4f2e5537764975222f87e6357b948eb.jpg)
+![峇里島點解能夠吸引全球旅客？](https://images.gobaligo.id/vocus/vocus_d4f2e5537764975222f87e6357b948eb.jpg)
 
 超過300間峇里島精選住宿推薦
 
@@ -122,7 +122,7 @@ _srcHash: cd8c6e011ec379769612480fbb9d066c
 - **阿貢火山（Mount Agung）**：攀登呢座神聖火山係挑戰者嘅夢想，亦係一種靈性體驗。
 - **離島探索（如佩尼達島同藍夢島/金銀島）**：30分鐘短程船程即可抵達嘅夢幻小島，擁有透藍海水、珊瑚礁同純淨沙灘，係浮潛、跳島同放空嘅絕佳去處。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e815d609161b0431842b813df66dbc38.jpg)
+![峇里島嘅多面向風貌](https://images.gobaligo.id/vocus/vocus_e815d609161b0431842b813df66dbc38.jpg)
 
 {{block:攻略}}
 
@@ -138,7 +138,7 @@ _srcHash: cd8c6e011ec379769612480fbb9d066c
 
 呢一切融合成峇里島特有嘅「和諧之道」（Tri Hita Karana），將神、人同自然完美結合。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_54533e4aaf0a8e860317cf8cd3a7f181.jpg)
+![峇里島文化特色](https://images.gobaligo.id/vocus/vocus_54533e4aaf0a8e860317cf8cd3a7f181.jpg)
 
 {{block:klook}}
 

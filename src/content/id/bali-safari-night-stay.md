@@ -45,31 +45,31 @@ Nginep di Bali Safari, seru banget!
 
 Biar nyaman, aku pilih kamar keluarga 'KIFARA' yang super luas (dua kamar tidur, dua kamar mandi, plus ruang tamu)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aea5e9a6f62c296655c0277f59b0d3cb.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_aea5e9a6f62c296655c0277f59b0d3cb.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_787d5a3da171ec4017afcdfecbf29de9.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_787d5a3da171ec4017afcdfecbf29de9.jpg)
 
 Meski dari balkon kamar nggak bisa lihat hewan langsung, tapi karena dekat banget sama kolam renang, tinggal bawa sekeranjang wortel gratis dari hotel, jalan 60 detik ke area makan di pinggir kolam,
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_028213d01d92438fd2dfa24a9e73a0a0.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_028213d01d92438fd2dfa24a9e73a0a0.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6112616635a3b8767e7a8ede2eb4eb28.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_6112616635a3b8767e7a8ede2eb4eb28.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c6e1416bc9e07e6dfaf1d434eaba3baf.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_c6e1416bc9e07e6dfaf1d434eaba3baf.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_97fb0bb16ee11eb5dc9d996c8ed3d417.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_97fb0bb16ee11eb5dc9d996c8ed3d417.jpg)
 
 Goyangin wortel pelan-pelan, zebra dari kejauhan bakal jalan santai mendekat. Tamu hotel bisa kasih makan zebra gratis, tapi kalau beli tiket masuk 'Bali Safari' biasa, harus bayar ekstra buat naik mobil kecil buat kasih makan zebra.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e8fed883843da36260f60fc15ebe8cb1.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_e8fed883843da36260f60fc15ebe8cb1.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_98be5f29657bda5696e0238ebbcabc00.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_98be5f29657bda5696e0238ebbcabc00.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ed134b4aaa0ab5101155606fcecfeb90.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_ed134b4aaa0ab5101155606fcecfeb90.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2d26b9bd44649973dfd21d2ea6d70e58.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_2d26b9bd44649973dfd21d2ea6d70e58.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6bdedde3738119c4aaef7410a2f68a1a.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_6bdedde3738119c4aaef7410a2f68a1a.jpg)
 
 Selama berenang, kadang ada gajah yang sedang bertugas, membawa tamu 'Bali Safari' di punggungnya, berjalan ke arah kamu (tur naik gajah, perlu bayar tambahan ya). Buah-buahan satu keranjang (apel, mangga, pisang) yang dikasih gratis dari hotel, pas banget buat dikasih ke teman-teman gajah.
 
@@ -85,53 +85,53 @@ Selain itu (keuntungannya nggak habis-habis, puas banget), ada sesi interaksi kh
 
 Pas jam sarapan (08:00), bunglon (?) datang langsung ke restoran buat nemenin kamu makan. Selesai makan (09:00), kebetulan ketemu Pak Gajah yang jalan-jalan di taman kecil depan hotel. Interaksi langsung, nggak perlu antre, senang banget.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7be139d38d3ededf9ecf282c3129f3c4.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_7be139d38d3ededf9ecf282c3129f3c4.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b5e5d536b206ffa7365309b29005dbe2.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_b5e5d536b206ffa7365309b29005dbe2.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d324d42ed1d52f1b2a2556faa5a8ee65.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_d324d42ed1d52f1b2a2556faa5a8ee65.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e3bc78c31ea15b5c2fc19d717024349c.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_e3bc78c31ea15b5c2fc19d717024349c.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_255af44c916f0c752718c0f8822f855d.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_255af44c916f0c752718c0f8822f855d.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_042c644691454dd4d9f3893db09ea918.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_042c644691454dd4d9f3893db09ea918.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0f11a7f2af6faf16c7b4d341ea5b803d.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_0f11a7f2af6faf16c7b4d341ea5b803d.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0a10b5cd6020aeafad024beea1b7b007.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_0a10b5cd6020aeafad024beea1b7b007.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7d86d96eea9bbac84cbf22d5e4406193.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_7d86d96eea9bbac84cbf22d5e4406193.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d9c80e173bd98290e09220762f3d9ce4.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_d9c80e173bd98290e09220762f3d9ce4.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d9bf3028a698030bf15a28040610ef55.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_d9bf3028a698030bf15a28040610ef55.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b53361819f848f2741b78061569fde84.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_b53361819f848f2741b78061569fde84.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_772943c796c0e360869667436bf86121.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_772943c796c0e360869667436bf86121.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_146aa5e38b46301d18fcdd178f67df27.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_146aa5e38b46301d18fcdd178f67df27.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7e497d399bbf306007251475922948b3.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_7e497d399bbf306007251475922948b3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_860865807f6eb0043b90c56e19138fc4.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_860865807f6eb0043b90c56e19138fc4.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a275b7ff2bab446c7fad0baf851055c0.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_a275b7ff2bab446c7fad0baf851055c0.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc201d47f17d21770f6bc2306518dc8b.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_cc201d47f17d21770f6bc2306518dc8b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ba24fba7a789e1098490afd86f9183e5.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_ba24fba7a789e1098490afd86f9183e5.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_91f9034f436c9e6b9cd795b1c765b670.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_91f9034f436c9e6b9cd795b1c765b670.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d37cb7aada9ea747278238d4ee6ed230.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_d37cb7aada9ea747278238d4ee6ed230.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_058cbb39dc809028d3fadc0800776c04.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_058cbb39dc809028d3fadc0800776c04.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_89b66aed6ae8958c00830efa2ddfcc58.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_89b66aed6ae8958c00830efa2ddfcc58.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_10d3e628c6c9b7078e922faf8589cf2d.jpg)
+![Bali亲子游必体验：Bali Safari动物园怎么玩、夜宿攻略](https://images.gobaligo.id/vocus/vocus_10d3e628c6c9b7078e922faf8589cf2d.jpg)
 
 Selain itu, tamu hotel bisa masuk gratis ke area 'Bali Safari' selama dua hari tanpa batas (hari check-in & check-out). Di sela-sela pertunjukan hewan, kamu bisa balik ke kamar hotel buat istirahat sebentar di kasur, super santai.
 

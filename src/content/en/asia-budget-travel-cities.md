@@ -124,7 +124,7 @@ Hong Kong
 **31. Singapore 🇸🇬**
 Daily Expense: US$79.40
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17fc1009e3a69c8af92bc8d5c09fdbd2.jpg)
+![High-Cost Cities (21-31):](https://images.gobaligo.id/vocus/vocus_17fc1009e3a69c8af92bc8d5c09fdbd2.jpg)
 
 - **Highlights**: One of Asia's most modern cities, known for its cleanliness, order, and efficient transportation, though relatively expensive.
 - **Must-Visit Spots**: Universal Studios Singapore, Gardens by the Bay, and Merlion Park.

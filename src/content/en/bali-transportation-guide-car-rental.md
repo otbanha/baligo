@@ -33,7 +33,7 @@ _srcHash: ed9cd397b340b2a64218766dfcaef8ea
 
 [🚗 Want to estimate Gojek fares? Click here](/map/gojek-fare/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_86a39e40d1c5e42fbdbb7ba5e81f3369.png)
+![【Bali Transportation Guide】When to Hire a Private Car? When ](https://images.gobaligo.id/vocus/vocus_86a39e40d1c5e42fbdbb7ba5e81f3369.png)
 
 Bali, a picturesque vacation destination, attracts tourists from all over the world. When planning your trip to this island, you'll inevitably face an important question: Should you hire a private car or use ride-hailing services? In this article, I'll share our experiences with both options during our Bali trip to help you make the best choice.
 
@@ -68,7 +68,7 @@ https://youtube.com/shorts/wnhyqUekdW0
    Most ride-hailing drivers are not chatty, and some may not speak English.
    They cannot provide services like "suddenly craving mangosteen," "wanting to try snake fruit for the first time," or "knowing where to buy small scissors."
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e9c5ae6c50e5b17cba59e0eccdf6532b.png)
+![Pros and Cons of Ride-Hailing Services](https://images.gobaligo.id/vocus/vocus_e9c5ae6c50e5b17cba59e0eccdf6532b.png)
 
 ## Private Car Hire or Ride-Hailing? How to Choose?
 

@@ -35,7 +35,7 @@ _srcHash: b219fa34fb319e8bcc27c7c9d4aa582d
 
 Hai, para pencinta Bali! Pasti setiap kali mikir perjalanan dari bandara ke Canggu, langsung kebayang macet parah, kan? Kabar baiknya, pemerintah Indonesia resmi mengumumkan pembangunan jalur water taxi dari **Bandara Internasional Ngurah Rai** langsung ke **Canggu**. Nantinya, kamu bisa menghindari kemacetan darat yang menyebalkan dan **sampai dalam 30 menit aja**!
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775968380470-water-taxi-di-bali-hotel-bali-batiqa-hotels_ts6wi.jpg)
+![Solusi Macet di Bali? Water Taxi dari Bandara ke Canggu Hadi](https://images.gobaligo.id/images/2026-04/1775968380470-water-taxi-di-bali-hotel-bali-batiqa-hotels_ts6wi.jpg)
 
 ## 🚤 Kenapa sih jalur air ini perlu dibangun?
 
@@ -60,7 +60,7 @@ Sebelum taksi air beroperasi, cara paling andal dari bandara ke Canggu tetap **p
 
 {{block:包車}}
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775968411674-pelindo.jpeg)
+![Solusi Sementara: Paket Antar-Jemput Paling Aman](https://images.gobaligo.id/images/2026-04/1775968411674-pelindo.jpeg)
 
 ***
 

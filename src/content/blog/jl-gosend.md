@@ -49,7 +49,7 @@ embeds: []
 
 在這樣的情況下，原本幾乎已經打算放棄。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777187750922-screenshot_20260426_133549.jpg)
+![一顆被遺忘的頸枕](https://images.gobaligo.id/images/2026-04/1777187750922-screenshot_20260426_133549.jpg)
 
 ***
 
@@ -107,7 +107,7 @@ https://youtu.be/ByGkcmys01g
 
 這個簡單的動作，卻讓整段旅程的情緒瞬間被拉回正軌。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777187824352-screenshot_20260426_133636.jpg)
+![沉默卻關鍵的一刻](https://images.gobaligo.id/images/2026-04/1777187824352-screenshot_20260426_133636.jpg)
 
 ***
 
@@ -119,7 +119,7 @@ https://youtu.be/ByGkcmys01g
 👉 約1小時
 👉 僅110台幣
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777187885962-screenshot_20260426_133622.jpg)
+![一份額外的心意](https://images.gobaligo.id/images/2026-04/1777187885962-screenshot_20260426_133622.jpg)
 
 最終，他們決定透過平台額外補上30,000印尼盾作為小費，表達感謝。
 

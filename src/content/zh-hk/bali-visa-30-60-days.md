@@ -18,7 +18,7 @@ lang: zh-hk
 _srcHash: a837a1551e09d7434e439b245c00e380
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_674269d54ebfc7ede1f3a11443914ba7.png)
+![峇里島簽證申請必讀：30日 vs. 60日，一次搞掂！](https://images.gobaligo.id/vocus/vocus_674269d54ebfc7ede1f3a11443914ba7.png)
 
 喺申請印尼簽證嘅過程中，一位旅行者分享咗佢嘅經驗故事。雖然佢確認要留超過30日，佢仍然建議申請30日嘅簽證就得，因為根據網上嘅資訊，30日內嘅簽證通常都可以喺申請、付款後即刻獲得批准。至於申請60日嘅簽證，佢對呢樣嘢唔係好肯定，移民官話畀佢聽可能需要5-7個工作天，甚至可能更耐，所以佢建議有計劃逗留超過30日嘅旅行者們，先申請30日內入境嘅**B1簽證**，如果要逗留超過30日，到期前再考慮延長簽證。
 
@@ -26,13 +26,13 @@ _srcHash: a837a1551e09d7434e439b245c00e380
 
 呢位旅行者因為疏忽，冇留意到申請超過60日嘅簽證需要等較長嘅處理時間，同埋需要提供財力證明。佢喺27號完成咗申請同付款，但喺29號要入境時發現審核仲未完成，面對呢個窘境，雖然佢喺峇里島機場出示咗付款收據，但現場移民官無法即刻處理，仍然要等審核。移民官話畀佢聽，如果喺3個月內再次前來，可以用之前申請成功嘅簽證。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4eff791ff802d92ca4edfab546001a72.png)
+![峇里島簽證申請必讀：30日 vs. 60日，一次搞掂！](https://images.gobaligo.id/vocus/vocus_4eff791ff802d92ca4edfab546001a72.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5a57f7219abcf2a9037e8348cbf294b6.png)
+![峇里島簽證申請必讀：30日 vs. 60日，一次搞掂！](https://images.gobaligo.id/vocus/vocus_5a57f7219abcf2a9037e8348cbf294b6.png)
 
 所以，佢最後都係現場再次申請咗簽證，同埋再次付款。呢個故事提醒咗我哋，喺申請簽證時一定要仔細閱讀相關條款，以免遇到不必要嘅麻煩。希望呢位旅行者嘅經驗故事能夠為其他人提供一啲參考，令佢哋嘅旅行更加順利愉快。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_efc81c47d5b097135559dfd30b494018.png)
+![峇里島簽證申請必讀：30日 vs. 60日，一次搞掂！](https://images.gobaligo.id/vocus/vocus_efc81c47d5b097135559dfd30b494018.png)
 
 喺閱讀我哋嘅**「峇里島自由行究極旅行攻略」**之前，我哋誠摯地邀請您先訂閱我哋更多視覺體驗分享嘅YouTube頻道**「小傑 印尼」**。[點擊這裡](http://bit.ly/youtube-jason)，即刻訂閱
 

@@ -22,7 +22,7 @@ lang: id
 _srcHash: e7ed214b40695e00714f8d1e8588dc59
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_59d05b720539abbe8811f51ddbca8203.jpg)
+![Liburan di Bali Berujung Mimpi Buruk｜Turis Taiwan Digigit An](https://images.gobaligo.id/vocus/vocus_59d05b720539abbe8811f51ddbca8203.jpg)
 
 [Teman grup kami, Bapak Guo](https://www.facebook.com/share/p/19Uc2bARQY/) baru-baru ini berbagi pengalaman pribadinya. Ia digigit dua kali oleh anjing liar di Kuta, salah satu tempat populer di Bali. Kaget setengah mati, ia langsung ke rumah sakit untuk suntikan darurat.
 
@@ -82,7 +82,7 @@ Berdasarkan data Dinas Kesehatan Bali, sampai saat ini:
 - **90% disebabkan oleh anjing**
 - **268 orang terkonfirmasi terinfeksi**, dan **5 orang di antaranya meninggal**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b133111133db257eb753f27f250e9fb.jpg)
+![Peringatan Terbaru: Kasus Rabies di Bali Meningkat Drastis! ](https://images.gobaligo.id/vocus/vocus_3b133111133db257eb753f27f250e9fb.jpg)
 
 ### Pemerintah Bali mengimbau:
 

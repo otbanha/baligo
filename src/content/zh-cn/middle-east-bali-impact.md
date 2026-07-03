@@ -53,7 +53,7 @@ _srcHash: 8f3bd477522a9133dccce27bb4f41e03
 
 这代表巴厘岛过去在困境时“转向吸引国内游客”的策略，这次可能行不通——因为国内机票同样受冲击，消费者自然也会重新考虑是否出游。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776853335462-airplane.jpeg)
+![不只是国际线，连国内机票也跟着爆涨](https://images.gobaligo.id/images/2026-04/1776853335462-airplane.jpeg)
 
 ## 旅游业者怎么看这件事？
 

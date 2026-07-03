@@ -31,7 +31,7 @@ _srcHash: 6b4a6b1a1b36bca00c032720bdb98e7b
 ---
 ### 【2026 峇里島旅遊展望】從雨季尾聲到藍天白雲：3～6 月節慶同天氣全攻略
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_faf6335054f12d89f60b16fd7a533b9d.jpg)
+![【2026 峇里島旅遊展望】從雨季尾聲到藍天白雲：3～6 月節慶同天氣全攻略](https://images.gobaligo.id/vocus/vocus_faf6335054f12d89f60b16fd7a533b9d.jpg)
 
 想喺 2026 年上半年飛去**峇里島**？呢段時間係呢個島最「戲劇化」嘅時刻。你可能會遇到全島靜止嘅魔幻瞬間，亦可能唔小心跌入當地人最怕嘅塞車地獄。
 
@@ -41,7 +41,7 @@ _srcHash: 6b4a6b1a1b36bca00c032720bdb98e7b
 
 ### 🌦️ 天氣同賽道：乾雨季交替嘅「生存指南」
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_07409a02cddf0c7953f3992184b40d23.png)
+![天氣同賽道：乾雨季交替嘅「生存指南」](https://images.gobaligo.id/vocus/vocus_07409a02cddf0c7953f3992184b40d23.png)
 
 呢四個月正係從雨季轉入乾季嘅關鍵期：
 
@@ -71,11 +71,11 @@ _srcHash: 6b4a6b1a1b36bca00c032720bdb98e7b
 - **登巴薩 (Denpasar)：** 3/18 傍晚去 Puputan 廣場一帶，睇最壯觀、最原汁原味嘅 **Ogoh-ogoh 妖怪大遊行**。（請參考：[【寧靜日攻略】2026峇里島靜居日/寧靜日（Nyepi Day）｜妖怪大遊行須知](/blog/nyepi-day-bali-guide-2026/)）
 - **烏魯瓦圖 (Uluwatu) 斷崖度假村：** 3/19-20 **靜居日 (Nyepi)** 期間，留喺擁有壯麗海景嘅度假村內。呢度光害極少，係全島觀賞「靜居日銀河」嘅最佳地點。（請參考：[烏魯瓦圖 Uluwatu住宿推薦：13間無敵海景的私密別墅渡假村](https://s.id/uluwatu_Stay)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_808475a368c14385c6ee2c414ee6f88b.png)
+![3 月：喺極致熱鬧同絕對靜止之間](https://images.gobaligo.id/vocus/vocus_808475a368c14385c6ee2c414ee6f88b.png)
 
 ## **4 月：身心靈嘅甦醒時刻**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc16394692a6e8dd69ea0fab7f62c062.png)
+![4 月：身心靈嘅甦醒時刻](https://images.gobaligo.id/vocus/vocus_cc16394692a6e8dd69ea0fab7f62c062.png)
 
 - **氣候概況：** 進入 4 月，降雨量顯著減少，陽光普照嘅日子變多。海水嘅能見度開始提升，適合浮潛與潛水嘅季節正式拉開序幕。氣溫約喺 25°C - 32°C 之間。
 - 四月初嘅清明連假係一個超級聰明嘅時間點！印尼一年中最繁忙、返鄉人潮最蜂擁嘅「開齋節」剛結束。當印尼人返到工作崗位，國際遊客又唔似旺季咁瘋狂，峇里島會迎來一段短暫而珍貴嘅平靜期。
@@ -92,11 +92,11 @@ _srcHash: 6b4a6b1a1b36bca00c032720bdb98e7b
 - **德哥拉朗梯田 (Tegallalang)：** 4 月雨水減少，陽光穿透翠綠梯田嘅光影最迷人，適合清晨漫步避開熱浪。（請參考：[峇里島Tegalalang德格拉朗、Jatiluwih賈提魯維兩大梯田區拜訪攻略｜入場門票幾錢？最佳拜訪時間/季節？](/blog/bali-rice-terraces-comparison/)）
 - **詹普漢山脊步道 (Campuhan Ridge Walk)：** 氣候轉乾，步道唔再濕滑，適合傍晚散步。（請參考：[烏布中心步行可到嘅距離居然有咁樣嘅天堂？「烏布天空步道」Campuhan Ridge Walk介紹](/blog/ubud-campuhan-ridge-walk/)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e25ce066777027e59ef06a60eb4c681b.png)
+![4 月：身心靈嘅甦醒時刻](https://images.gobaligo.id/vocus/vocus_e25ce066777027e59ef06a60eb4c681b.png)
 
 ## **5 月：食貨同戶外控嘅黃金月**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b7405a76a96c0882e108c5117afe7a87.png)
+![5 月：食貨同戶外控嘅黃金月](https://images.gobaligo.id/vocus/vocus_b7405a76a96c0882e108c5117afe7a87.png)
 
 - **氣候概況：** 5 月係好多旅遊達人最推薦嘅月份。乾季正式報到，濕度大幅下降，體感舒爽唔黏膩。呢個時候天空最湛藍，係拍攝網美大片嘅最佳時機。
 - **51勞動節**：請 4 日（4/27-4/30），勞工限定嘅 9 日長假！
@@ -116,11 +116,11 @@ _srcHash: 6b4a6b1a1b36bca00c032720bdb98e7b
 - **離島探險/浮潛：** 5 月海況趨於穩定，係前往 **藍夢島** 或者去 **佩尼達島** 浮潛睇魔鬼魚嘅最佳時機。（請參考[藍夢島攻略](/blog/nusa-lembongan-ceningan-guide/) / [佩尼達島攻略](https://s.id/penida_guide)）
 - **土蘭奔 (Tulamben)：** 乾季報到，水下能見度極佳，適合探索沉船潛水。(請參考[峇里島東北角秘境：艾眉 Amed 同土蘭奔 Tulamben 完整攻略](/blog/amed-tulamben-diving-guide/))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e417ec268a8acaeff77d38f72eb5db82.png)
+![5 月：食貨同戶外控嘅黃金月](https://images.gobaligo.id/vocus/vocus_e417ec268a8acaeff77d38f72eb5db82.png)
 
 ## **6 月：文化與美感嘅巔峰**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dd2c5771be5e78e79e23c43530cfe5c2.png)
+![6 月：文化與美感嘅巔峰](https://images.gobaligo.id/vocus/vocus_dd2c5771be5e78e79e23c43530cfe5c2.png)
 
 - **氣候概況：** 6 月氣候極為穩定，降雨機率極低。受南半球冷空氣影響，呢個時候會吹起清涼嘅陣風，早晚甚至會感到少少涼意，係進行登山健行（如巴杜爾火山）嘅最舒適時段。
   **快速參考：**
@@ -138,7 +138,7 @@ _srcHash: 6b4a6b1a1b36bca00c032720bdb98e7b
 - **巴杜爾火山 (Mount Batur)：** 6 月係全年最乾爽、清晨最涼爽嘅月份，非常適合攀登火山睇日出，雲海機會極高。（請參考[峇里島金塔瑪尼巴杜爾火山湖｜日出登山 × 皇家遊船 × 湖景咖啡廳 × 山林遊樂場 × 火山溫泉全攻略](/blog/batur-lake-volcano-guide/)）
 - **潘達瓦海灘 (Pandawa Beach)：** 參加 **潘達瓦海灘節**，喺湛藍嘅海邊享受文化遊行同音樂表演。（峇里島南端連成一氣點玩？請睇[【武吉半島冒險指南】從金巴蘭日落到烏魯瓦圖懸崖寺廟：峇里島南端嘅隱藏天堂](/blog/bukit-peninsula-guide/)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6b96e31d9a9ab513eda3d295cd7a5da3.png)
+![6 月：文化與美感嘅巔峰](https://images.gobaligo.id/vocus/vocus_6b96e31d9a9ab513eda3d295cd7a5da3.png)
 
 ## 💡 小編嘅聰明旅遊筆記
 

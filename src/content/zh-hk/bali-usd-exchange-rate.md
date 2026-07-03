@@ -23,7 +23,7 @@ _srcHash: 411134a517f0218b21f50f8fecd2a788
 
 本文會由匯率概述開始，同你分析峇里島嘅美金匯率情況，並提供最佳嘅換匯攻略。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9bb247d0e05bae1d63368331539e85c8.png)
+![峇里島美金匯率：大紙定細紙？換匯攻略大公開！](https://images.gobaligo.id/vocus/vocus_9bb247d0e05bae1d63368331539e85c8.png)
 
 喺峇里島，換匯地方好多，由機場到酒店，到市區嘅換匯處處都見到。不過，匯率就唔同。所以，換匯之前，最好先了解當地嘅匯率情況。
 
@@ -37,7 +37,7 @@ _srcHash: 411134a517f0218b21f50f8fecd2a788
 
 以下係2024年5月1日喺峇里島換匯嘅匯率表，換匯嗰陣我哋要睇嘅係「買入 (buying)」價。等我哋睇下：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b3e9800865e70d4ff80928aed2404b40.png)
+![美金大紙與細紙嘅匯率差異](https://images.gobaligo.id/vocus/vocus_b3e9800865e70d4ff80928aed2404b40.png)
 
 如表所示，100蚊同50蚊嘅美金紙幣匯率一樣（15,875），而20、10、5蚊嘅美金現鈔價差20印尼盾（15,855）。如果係1蚊美金嘅細鈔，同100/50蚊嘅大鈔相比價差275（15,600），匯率最差。
 

@@ -40,7 +40,7 @@ _srcHash: 17cc6fb00b4dfdf5d5c2a5a6e0ffdef7
 ---
 Kalau kamu liburan ke Bali dan pengin nginep di villa dengan kolam renang pribadi tapi nggak mau jauh dari keramaian, The Maya Seminyak Villas (atau dikenal juga sebagai Maya Sayang Seminyak) layak banget dipertimbangkan. Letaknya persis di samping Eat Street (Jl. Kayu Aya) yang paling rame di Seminyak — jalan kaki beberapa menit aja udah sampai ke restoran dan pusat perbelanjaan. Tapi begitu masuk pintu villa, suasananya langsung adem dan tenang, nggak kerasa lagi lagi di pusat kota. Seluruh properti cuma punya 11 villa, jadi skalanya kecil dan privasinya terasa banget.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238183569-caeddccae60921b94d19b0c2e88fd0ab.jpg)
+![The Maya Seminyak Villas｜Seminyak Hidden Gem: Private Pool V](https://images.gobaligo.id/images/2026-04/1776238183569-caeddccae60921b94d19b0c2e88fd0ab.jpg)
 
 ***
 
@@ -50,7 +50,7 @@ Alamatnya di Jl. Mertasari No. 1, kawasan Laksmana, Seminyak — tepat di gang s
 
 Soal pantai, Seminyak Beach jaraknya sekitar 20 menit jalan kaki — lumayan sih, bukan tipe yang langsung nyampe dari pintu, tapi nggak perlu panggil kendaraan juga.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238213668-b8c519e3606601c53285a3622679d3aa.jpg)
+![Lokasi & Lingkungan Sekitar](https://images.gobaligo.id/images/2026-04/1776238213668-b8c519e3606601c53285a3622679d3aa.jpg)
 
 Kawasan ini emang pusat konsentrasi belanja dan kuliner di Seminyak — jalan-jalan, makan, ngopi, spa, lihat sunset — hampir semua aktivitas yang biasa kamu lakukan di Bali bisa diselesaikan dalam hitungan menit jalan kaki atau naik motor. Nah, kejeniusan pemilihan lokasi The Maya ada di sini: cukup dekat, tapi tersembunyi di gang, jadi ternyata sepi banget.
 
@@ -60,11 +60,11 @@ Kawasan ini emang pusat konsentrasi belanja dan kuliner di Seminyak — jalan-ja
 
 Pintu masuk propertinya pakai gerbang kayu ukir khas Bali, Angkul-Angkul. Begitu masuk, ada jalan setapak yang diapit rumpun bambu dan tanaman tropis — suasananya langsung beda banget dari hiruk-pikuk jalanan di luar. Transisinya cepat banget.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238253051-62383025b5be5b788f2617facd1f0d2a.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776238253051-62383025b5be5b788f2617facd1f0d2a.webp)
 
 Fasilitas umumnya ada kolam renang outdoor bersama dengan kursi santai, tapi jujur aja sebagian besar tamu jarang pakai karena masing-masing villa udah punya kolam renang pribadi. Selain itu, ada spa lengkap, Maya Sayang Spa, yang menawarkan pijat batu panas, pijat Swedia, aromaterapi, body scrub, manicure, dan lainnya — perlengkapannya termasuk bak air panas indoor. Restorannya buka untuk sarapan, makan siang, dan makan malam — menunya didominasi masakan Asia, termasuk masakan Bali, Korea, Jepang, plus opsi Barat. Harganya dinilai wajar oleh tamu.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238356883-37237cb64d90a6d2c9a38f40903f83e9.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776238356883-37237cb64d90a6d2c9a38f40903f83e9.webp)
 
 Satu highlight kecil: sarapan bisa dipesen duluan waktunya, dan langsung diantar staf ke villa kamu — nggak perlu repot ke restoran. Sensasi kayak gini emang cuma bisa dirasain kalau nginep di villa. Selain itu, ada fasilitas sepeda gratis dan layanan antar-jemput di kawasan Seminyak — praktis banget buat yang nggak mau panggil Grab. Catatan: nggak ada gym, ya.
 
@@ -76,51 +76,51 @@ Semua 11 villa terbagi dalam tiga tipe: satu kamar, dua kamar, dan tiga kamar. M
 
 Villa Kolam Pribadi 1 Kamar Tidur:
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238469969-41a39af3b6dad4a345a413aff4b9088a.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776238469969-41a39af3b6dad4a345a413aff4b9088a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238470386-ab0fd810d3a7a332e394f3d6f833e95e.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776238470386-ab0fd810d3a7a332e394f3d6f833e95e.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238470818-b8ac9d69f21781cf7bc674cde68a1e6a.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776238470818-b8ac9d69f21781cf7bc674cde68a1e6a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238471233-fd1615c1e089d524045dea2c6bf269ab.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776238471233-fd1615c1e089d524045dea2c6bf269ab.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238471651-9c886ebd4f0e88a05d6deb6a4eb904d4.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776238471651-9c886ebd4f0e88a05d6deb6a4eb904d4.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238472058-3c8cb57ca27157f17cb74970049f4d3b.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776238472058-3c8cb57ca27157f17cb74970049f4d3b.webp)
 
 Villa 2 Kamar Tidur dengan Kolam Pribadi:
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238551189-4c432754d56927d4e807d6828a20b86e.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776238551189-4c432754d56927d4e807d6828a20b86e.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238551837-8d57cea2b00699d4277482400e078b28.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776238551837-8d57cea2b00699d4277482400e078b28.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238552341-36d29ffdda417378dd836d1ce06ecf21.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776238552341-36d29ffdda417378dd836d1ce06ecf21.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238552855-88bcb4e61f1a93c54029ca420393db6f.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776238552855-88bcb4e61f1a93c54029ca420393db6f.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238553257-580109dfcb2405046d4cfb26becde59e.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776238553257-580109dfcb2405046d4cfb26becde59e.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238553800-aca6bdec62641a08f77c1717e098d157.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776238553800-aca6bdec62641a08f77c1717e098d157.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238554188-df53a1d96bba620248efbf4b3a01a92a.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776238554188-df53a1d96bba620248efbf4b3a01a92a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238554587-0f8d796c049fc958a7b7fa616f358a44.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776238554587-0f8d796c049fc958a7b7fa616f358a44.webp)
 
 Villa Kolam Pribadi 3 Kamar Tidur:
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238621248-a1c4be0f6811193e61919e7d511a59f2.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776238621248-a1c4be0f6811193e61919e7d511a59f2.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238621666-a9acc023155c000e59c187093156761c.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776238621666-a9acc023155c000e59c187093156761c.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238622478-caeddccae60921b94d19b0c2e88fd0ab.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776238622478-caeddccae60921b94d19b0c2e88fd0ab.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238623014-0e048f849115682f9c2ed1e2ebe9fd63.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776238623014-0e048f849115682f9c2ed1e2ebe9fd63.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238623415-5cc218716a3a1cb80f958ee06edacbbf.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776238623415-5cc218716a3a1cb80f958ee06edacbbf.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238623836-7e042947a353e5a18a356986531799f9.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776238623836-7e042947a353e5a18a356986531799f9.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238624322-64709e287b8d56dddafe30ae2b15597d.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776238624322-64709e287b8d56dddafe30ae2b15597d.webp)
 
 Gaya arsitekturnya tradisional Bali banget — atap alang-alang dan ukiran kayu, ruang tamu terbuka langsung menghadap kolam renang, tata letak dalam-luar bikin sirkulasi udara lancar. Kamar tidur pakai AC, ada ranjang besar dengan kelambu; kamar mandinya semi outdoor, ada bathtub rendam dan shower terpisah. Dapur lengkap dengan kulkas, microwave, dan kompor — kalau kamu tinggal lama, masak sendiri juga bisa.
 
@@ -146,7 +146,7 @@ Tamu Tripadvisor lain bilang, seluruh villa super tenang. Meskipun dekat dengan 
 
 Ada beberapa kekurangan yang harus disebut. Pertama, villa ini udah agak tua, beberapa perlengkapan kamar mandi keliatan usang. Dapur outdoor dan area kamar mandi semi terbuka pasti ada nyamuk dan serangga — meskipun dikasih obat nyamuk, kalau kamu nggak suka serangga, siap-siap aja. Kedua, ruang tamu terbuka tanpa AC, pas musim panas di Bali siang hari pasti gerah, cuma bisa andelin kipas angin. Ketiga, beberapa villa posisinya dekat restoran dan bar tetangga, malem-malem mungkin kedengeran suara orang atau musik — sebelum check-in, minta aja villa yang lebih sepi.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238746826-1e92b642c66eb69ff9555a704c386388.webp)
+![Jujur soal Kekurangan](https://images.gobaligo.id/images/2026-04/1776238746826-1e92b642c66eb69ff9555a704c386388.webp)
 
 ***
 

@@ -32,7 +32,7 @@ _srcHash: 6d596115b25a3f29ef05a0527a1718ec
 
 If your dream vacation includes white sandy beaches, private butler service, and world-class facilities, then **The St. Regis Bali Resort** is a must-visit! This five-star resort, located in Nusa Dua, Bali, combines the island's natural beauty with luxurious design, offering every guest an unparalleled holiday experience.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b35d933791f261fb139da3160e10166e.jpg)
+![Top-Tier Luxury in Nusa Dua, Bali](https://images.gobaligo.id/vocus/vocus_b35d933791f261fb139da3160e10166e.jpg)
 
 ## 🌴 **Stunning Facilities and Luxurious Accommodations**
 
@@ -44,17 +44,17 @@ The St. Regis Bali Resort is renowned for its spectacular **saltwater lagoon** a
 
 Whether it's a honeymoon or a family vacation, The St. Regis offers the perfect options to meet the needs of different travelers.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_24068cb8566c5572d784452c327cde74.jpg)
+![Stunning Facilities and Luxurious Accommodations](https://images.gobaligo.id/vocus/vocus_24068cb8566c5572d784452c327cde74.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a4a0a6ff12e86a7133af37499971fa98.jpg)
+![Stunning Facilities and Luxurious Accommodations](https://images.gobaligo.id/vocus/vocus_a4a0a6ff12e86a7133af37499971fa98.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff051eea68efba48b8ae356b37010901.jpg)
+![Stunning Facilities and Luxurious Accommodations](https://images.gobaligo.id/vocus/vocus_ff051eea68efba48b8ae356b37010901.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_420b402cbfd779692e5dca0867f21465.jpg)
+![Stunning Facilities and Luxurious Accommodations](https://images.gobaligo.id/vocus/vocus_420b402cbfd779692e5dca0867f21465.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a07284ae38a2efcd2d85df1b0e9c3bf3.jpg)
+![Stunning Facilities and Luxurious Accommodations](https://images.gobaligo.id/vocus/vocus_a07284ae38a2efcd2d85df1b0e9c3bf3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_01b7b7da182832bf6dc6d20a401c98c3.jpg)
+![Stunning Facilities and Luxurious Accommodations](https://images.gobaligo.id/vocus/vocus_01b7b7da182832bf6dc6d20a401c98c3.jpg)
 
 ## 🍴 **Unparalleled Dining Experience**
 
@@ -77,7 +77,7 @@ The St. Regis Bali Resort is not just accommodation but a paradise filled with a
 
 Just a **20-minute drive** from Bali International Airport, The St. Regis Bali Resort offers **airport transfer services**, making it easy for guests to arrive. Additionally, it's conveniently close to Nusa Dua's shopping centers and cultural attractions, perfect for day trips or shopping excursions.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dc9cbcf64a780e72e199376c07467195.jpg)
+![Convenient Transportation & Location](https://images.gobaligo.id/vocus/vocus_dc9cbcf64a780e72e199376c07467195.jpg)
 
 ## 🎉 **Recommended Nearby Attractions**
 
@@ -96,7 +96,7 @@ The St. Regis Bali Resort perfectly embodies the fusion of luxury and comfort wi
 
 ## Guest Reviews
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_36a94976bb81b6063d8b0a954e6fc88d.jpg)
+![Guest Reviews](https://images.gobaligo.id/vocus/vocus_36a94976bb81b6063d8b0a954e6fc88d.jpg)
 
 In a highly competitive resort area, The St. Regis Bali Resort stands out with its exceptional service. From airport reception to every staff member we encountered, their level of service was astonishing. What impressed us most was our butler, Tu Adi, whose attentiveness and professionalism were impeccable. We've never experienced such meticulous service in all our travels. Other butlers like Adi and Manzo (hope we got the names right!) also performed exceptionally well. The concierge team demonstrated unparalleled professionalism.
 
@@ -107,7 +107,7 @@ The dining experience was satisfying, with a rich selection for breakfast. While
 As our stay progressed, we grew to love this place more and more. Whether it was the exquisite food or the attentive service, everything made us reluctant to leave. Thanks to the hotel for upgrading us to a two-bedroom villa as Titanium members—we will definitely return!
   ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_112c50d7aa2f44a562717a1b39d29b08.jpg)
+![Guest Reviews](https://images.gobaligo.id/vocus/vocus_112c50d7aa2f44a562717a1b39d29b08.jpg)
 
 This trip began with my husband's 'mistake' booking—he mistook USD$4,000 for USD$129, which led us to a king-like vacation, leaving us both laughing and crying 🤣! This experience turned out to be the most luxurious holiday of our lives.
 
@@ -116,7 +116,7 @@ Our child thought our 'living room' was the hotel lobby (it was huge!) and had a
 The breakfast was stunning—the best we've ever had at a five-star hotel. From lobster to beef short ribs, enjoying such luxurious delicacies first thing in the morning was beyond belief! 🤤 This unexpected luxurious trip will forever be a cherished memory for our family.
   ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1a3671ae999e6232047124818bdd0cc9.jpg)
+![Guest Reviews](https://images.gobaligo.id/vocus/vocus_1a3671ae999e6232047124818bdd0cc9.jpg)
 
 Our family vacation in Bali at The St. Regis Bali Resort was an absolutely fulfilling experience! We chose a villa with a private pool that led directly to the beach, making it feel like a dream come true. The villa was spacious, with top-notch facilities, exuding elegance in both design and details.
 
@@ -128,7 +128,7 @@ The service here was impeccable, with every staff member displaying warmth and p
 
 ## More about Nusa Dua's Five-Star Resorts
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5ba01ec2194c29084a8317809e7a432f.jpg)
+![More about Nusa Dua's Five-Star Resorts](https://images.gobaligo.id/vocus/vocus_5ba01ec2194c29084a8317809e7a432f.jpg)
 
 **Nusa Dua is a renowned luxury resort area in southern Bali, famous for its tranquil environment, pristine white sand beaches, and world-class luxury experiences.** If you're looking for a luxurious five-star resort, Nusa Dua offers a plethora of top-tier options, from exclusive private beaches to exquisite dining and spa experiences.
 

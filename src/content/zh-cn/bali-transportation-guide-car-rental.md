@@ -26,7 +26,7 @@ _srcHash: ed9cd397b340b2a64218766dfcaef8ea
 
 [🚗 想预估 Gojek 车资？请点击这里](/map/gojek-fare/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_86a39e40d1c5e42fbdbb7ba5e81f3369.png)
+![【巴厘岛交通全攻略】什么时候该包车？什么场合用 Gojek/Grab？包车 vs. 叫车优缺点与场景分析](https://images.gobaligo.id/vocus/vocus_86a39e40d1c5e42fbdbb7ba5e81f3369.png)
 
 巴厘岛，一个风光旖旎的度假胜地，吸引着来自世界各地的游客。当你计划前往这个岛屿时，必然会面临一个重要的问题：是选择包车还是叫车呢？在这篇文章中，我将分享我们在巴厘岛旅行时的包车和叫车经验，帮助你更好地做出选择。
 
@@ -72,7 +72,7 @@ https://youtube.com/shorts/wnhyqUekdW0
    大部分叫車司機不願意聊天，部分司機也不會英文。
    無法提供「突然想吃山竹」、「沒吃過蛇皮果想嚐嚐看」、「你知道哪裡可以買到小剪刀嗎？」...等服務
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e9c5ae6c50e5b17cba59e0eccdf6532b.png)
+![包车还是叫车？如何选择？](https://images.gobaligo.id/vocus/vocus_e9c5ae6c50e5b17cba59e0eccdf6532b.png)
 
 ## 包車還是叫車？如何選擇？
 

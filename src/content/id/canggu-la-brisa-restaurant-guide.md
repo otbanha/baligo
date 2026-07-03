@@ -33,7 +33,7 @@ Kamu pasti susah bayangin, sebuah pulau yang luasnya sekitar 2 kali Taipei ini p
 
 Dari sekian banyak restoran, yang satu ini dijuluki 'Restoran Terindah di Bali'. Jangan sampai kelewatan, ya!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a516952fa874238cf08ef63be006c56d.jpg)
+![【Restaurant Terindah di Bali】La Brisa Bali Guide: Masuk ke K](https://images.gobaligo.id/vocus/vocus_a516952fa874238cf08ef63be006c56d.jpg)
 
 La Brisa terletak di pinggir Pantai Echo, Canggu—salah satu titik wisata paling populer di Bali sekarang (cek juga panduan 80 spot Canggu dari Xiao Jie [di sini](/blog/canggu-guide/)). Ini salah satu pantai paling terkenal di Bali, dengan pemandangan yang bikin speechless, kuliner melimpah, dan keramahan khas Bali sejati.
 

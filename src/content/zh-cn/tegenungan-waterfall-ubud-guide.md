@@ -21,13 +21,13 @@ lang: zh-cn
 _srcHash: 37de016d634520b4c9430a03a630f836
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_58deb853e5219dd7c4a2a06f4c88a79f.jpg)
+![巴厘岛游记｜你所不知道的印尼巴厘岛瀑布秘密！｜乌布景点老司机带路 赏瀑布免铁腿｜离乌布最近的瀑布 Tegenungan ](https://images.gobaligo.id/vocus/vocus_58deb853e5219dd7c4a2a06f4c88a79f.jpg)
 
 巴厘岛乌布景点 Tegenungan Waterfall 是距离乌布市区最近的天然瀑布，虽然只要25分钟车程，但是陡峭的160级阶梯让很多人都大喊吃不消，旅途连续铁腿好几天。我们带你到观赏Tegenungan瀑布最佳的点，保证最轻松欣赏到最美的瀑布景观！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_853581166b88f30517fe98257f29d396.jpg)
+![巴厘岛游记｜你所不知道的印尼巴厘岛瀑布秘密！｜乌布景点老司机带路 赏瀑布免铁腿｜离乌布最近的瀑布 Tegenungan ](https://images.gobaligo.id/vocus/vocus_853581166b88f30517fe98257f29d396.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1a2df74d4a69179ac863494fea4f869d.jpg)
+![巴厘岛游记｜你所不知道的印尼巴厘岛瀑布秘密！｜乌布景点老司机带路 赏瀑布免铁腿｜离乌布最近的瀑布 Tegenungan ](https://images.gobaligo.id/vocus/vocus_1a2df74d4a69179ac863494fea4f869d.jpg)
 
 在乌布的青山绿水中，有一个令人叹为观止的瑰宝，那就是Tegenungan Waterfall。这个位于乌布附近的瀑布，成了探索乌布自然美景的最佳起点。
 

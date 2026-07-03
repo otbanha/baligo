@@ -30,7 +30,7 @@ Update: 19/06/2026
 
 Beli oleh-oleh dan souvenir dari perjalanan ke luar negeri adalah cara untuk mengabadikan kenangan berharga. Saat kamu mengunjungi Bali yang indah, selain menikmati pantai yang memesona dan budaya yang unik, kamu juga bisa membawa pulang berbagai macam oleh-oleh untuk dibagikan dengan keluarga dan teman-teman tentang perjalanan yang tak terlupakan ini.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_79d1a781d16cd7fb599863b075b592a4.png)
+![【Rekomendasi Netizen】6 Kategori, 20+ Barang Wajib Dibeli: Pa](https://images.gobaligo.id/vocus/vocus_79d1a781d16cd7fb599863b075b592a4.png)
 
 ## Kerajinan Tangan Budaya Bali
 
@@ -48,7 +48,7 @@ Miniatur ukiran batu dari batu pasir
 - **Dupa**: Bawa pulang aroma khas Bali. Penjelasan lengkapnya bisa dilihat [di sini](/blog/bali-art-souvenirs-guide/).
 - 👜 **Tas Anyaman Rotan Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0da8524d97ec3c0a0ab9714a64bb7364.png)
+![Kerajinan Tangan Budaya Bali](https://images.gobaligo.id/vocus/vocus_0da8524d97ec3c0a0ab9714a64bb7364.png)
 
 Tas anyaman rotan buatan tangan ini terkenal dengan desainnya yang simpel, natural, dan penuh gaya. Baik tas kecil untuk sehari-hari maupun tas besar dengan kapasitas banyak, semuanya praktis banget. Harganya mulai dari **Rp 50.000, untuk model dasar sekitar Rp 150.000, dan untuk ukuran lebih besar atau desain yang lebih rumit bisa mencapai Rp 500.000**. Ini adalah pilihan populer yang cocok buat oleh-oleh atau dipakai sendiri.
 
@@ -56,7 +56,7 @@ Tas anyaman rotan buatan tangan ini terkenal dengan desainnya yang simpel, natur
 
 ## Oleh-Oleh Khas
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_08d17f1959db86dd24612c06e5c7ebca.png)
+![Oleh-Oleh Khas](https://images.gobaligo.id/vocus/vocus_08d17f1959db86dd24612c06e5c7ebca.png)
 
 Kalau kamu pecinta kuliner, oleh-oleh khas Bali wajib banget masuk daftar. Bawa pulang makanan lokal nggak cuma bikin kenangan liburan makin terasa, tapi juga bisa dibagi-bagi ke keluarga dan teman.
 
@@ -82,7 +82,7 @@ Selain oleh-oleh yang disebut di dua video sebelumnya, kami juga kumpulin rekome
 
 ### Bali Banana Kue Pisang (Beli di Toko Resmi)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_89fb934188f4958e5800573a89e936ff.jpg)
+![Bali Banana Kue Pisang (Beli di Toko Resmi)](https://images.gobaligo.id/vocus/vocus_89fb934188f4958e5800573a89e936ff.jpg)
 
 [Cerita dari Xiao K] Di Indonesia, siapa sih yang nggak tahu soal kelezatan kue tradisional? Nah, baru-baru ini di Xiaohongshu, banyak yang nge-recommend satu kue spesial banget — Kue Pisang Bali (Bali Banana). Kue ini langsung jadi favorit turis dan penduduk lokal karena rasa unik dan teksturnya yang juara.
 
@@ -99,7 +99,7 @@ Kue Bali Banana ini lembut banget, dengan aroma alami yang bikin kamu nggak berh
 
 ### Mr. P Kacang Tanah & Mete (Tersedia di Supermarket/Minimarket Tertentu)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d5b3b4d5e809662c9120afbbea300bd0.png)
+![Mr. P Kacang Tanah & Mete (Tersedia di Supermarket/Minimarke](https://images.gobaligo.id/vocus/vocus_d5b3b4d5e809662c9120afbbea300bd0.png)
 
 [Cerita dari Chen Jinwei] Pas liburan di Bali, kalau kamu cari oleh-oleh yang enak sekaligus sehat, kacang tanah dan mete Mr. P adalah pilihan terbaik. Kacang-kacangan ini nggak cuma renyah dan gurih, tapi juga kaya nutrisi — jadi kamu bisa nikmatin rasa sambil dapet protein dan lemak sehat.
 
@@ -109,7 +109,7 @@ Kemasan kacang ini praktis banget, cocok buat ngemil kapan aja dan di mana aja. 
 
 ### Keripik Cumi Bali (Dijual di Toko Oleh-Oleh)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_22a2a695179a67fabbc80b19b7bc18c7.png)
+![Keripik Cumi Bali (Dijual di Toko Oleh-Oleh)](https://images.gobaligo.id/vocus/vocus_22a2a695179a67fabbc80b19b7bc18c7.png)
 
 Camilan berbahan dasar cumi kering 100% asli Indonesia, rasanya gurih, asin, dan sedikit pedas, cocok untuk semua usia. Keripik cumi buatan tangan Bali ini menggunakan cumi berkualitas tinggi asli Indonesia, dibumbui dengan rempah-rempah spesial sehingga menghasilkan aroma unik, rasa asin yang pas, dan sedikit sensasi pedas — semua orang dari anak-anak hingga kakek-nenek pasti suka.
 
@@ -119,7 +119,7 @@ Atau sekalian mampir ke Mr. Lobster buat makan seafood, hubungi Bos Xu biar disi
 
 ### Minyak Esensial & Dupa Bunga Kamboja (Toko Khusus Aromatik)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_412e9454759f3ebaf088889a796837d2.png)
+![Minyak Esensial & Dupa Bunga Kamboja (Toko Khusus Aromatik)](https://images.gobaligo.id/vocus/vocus_412e9454759f3ebaf088889a796837d2.png)
 
 [Dari Nancy Huang] Dari sekian banyak oleh-oleh di Bali, minyak esensial dan dupa selalu jadi favorit turis. Minyak esensial dan dupa bunga kamboja, dengan aromanya yang khas dan efek relaksasinya, jadi pilihan yang nggak boleh dilewatkan.
 
@@ -127,25 +127,25 @@ Bunga kamboja (Frangipani) adalah bunga tropis yang umum ditemukan, aromanya man
 
 ### YAVA Granola Bites (Dijual di Beberapa Supermarket)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_62b228e0bd53fc256553b843a5546ecd.png)
+![YAVA Granola Bites (Dijual di Beberapa Supermarket)](https://images.gobaligo.id/vocus/vocus_62b228e0bd53fc256553b843a5546ecd.png)
 
 [Dari Huang Cao] YAVA Granola Bites dibuat dari bahan-bahan alami lokal Bali dengan nilai gizi tinggi, digemari para pecinta hidup sehat. Bahan utamanya meliputi oat kaya serat, kacang-kacangan yang menyediakan protein dan lemak sehat, serta buah kering manis alami — setiap gigitan terasa sehat dan lezat. Camilan ini tersedia dalam berbagai rasa, seperti cokelat pekat, berry asam manis, dan buah tropis khas Asia Tenggara, cocok untuk selera berbeda. Kemasannya kecil dan praktis dibawa, jadi pilihan camilan ideal selama perjalanan.
 
 ### Merubali Coconut Chips (Dijual di Indomaret)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d72469a9edebb750fe7cd6404238af5d.png)
+![Merubali Coconut Chips (Dijual di Indomaret)](https://images.gobaligo.id/vocus/vocus_d72469a9edebb750fe7cd6404238af5d.png)
 
 【Fran Cisco提供】Merubali 椰子脆片 adalah camilan sehat yang wajib kamu coba. Terbuat dari kelapa segar, camilan ini mempertahankan aroma alami dan nutrisi kelapa. Setiap kepingnya dipanggang dengan hati-hati, teksturnya renyah banget dengan rasa kelapa yang kuat, bikin ketagihan begitu dicoba. Merubali 椰子脆片 nggak cuma enak, tapi juga kaya serat pangan dan asam lemak rantai sedang, yang bantu pencernaan dan ningkatin energi. Kemasannya ringan, gampang dibawa, cocok banget buat teman perjalanan. Mau jadi camilan sehat atau oleh-oleh, Merubali 椰子脆片 pilihan sempurna. Wajib coba rasa cokelat! Nanti pas ke Bali, jangan lupa bawa beberapa bungkus Merubali 椰子脆片 buat dibagi sama keluarga dan teman, nikmatin rasa alami yang sehat ini!
 
 ### Pie Susu (ada di supermarket, toko oleh-oleh, dan bandara duty-free)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c6b88644bba81996a248f6f65acc80d.jpg)
+![Pie Susu (ada di supermarket, toko oleh-oleh, dan bandara du](https://images.gobaligo.id/vocus/vocus_1c6b88644bba81996a248f6f65acc80d.jpg)
 
 【[李秋雄提供](https://www.facebook.com/share/p/19S3z548yv/)】Bicara soal oleh-oleh dari Bali, mana bisa lupa **Pie Susu (pai susu)**! Kue kecil yang kelihatannya simpel ini ternyata jadi dessert klasik favorit warga lokal dan turis. Kulit pai yang renyah dipadu isian susu yang creamy dan lembut, setiap gigitan bikin bahagia. Mau di supermarket atau bandara duty-free, kamu bisa nemuin berbagai merek Pie Susu. Beberapa merek bahkan punya rasa inovatif kayak cokelat, matcha, keju, durian, yang bikin nagih!
 
 ### JungleGold Bali  Cokelat Premium Buatan Tangan (ada di toko khusus/bandara internasional)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_adddc5f428830e68d505fa2604dbc74a.png)
+![JungleGold Bali Cokelat Premium Buatan Tangan (ada di toko k](https://images.gobaligo.id/vocus/vocus_adddc5f428830e68d505fa2604dbc74a.png)
 
 【杜嘉嘉提供】Kalau kamu cari cokelat premium di Bali, Jungle Gold Bali  adalah pilihan yang nggak boleh dilewatkan. Cokelat ini pakai biji kakao lokal yang ditanam di sini, dibuat dengan tangan, jamin kualitas dan rasa yang unik. Jungle Gold Bali  terkenal dengan aroma kakao yang kuat dan tekstur lembut, baik cokelat hitam polos atau yang dicampur kacang, buah kering, dan lainnya, semua bisa memuaskan selera. Selain itu, Jungle Gold Bali  peduli sama keberlanjutan dan perdagangan adil, pastikan proses produksinya ramah lingkungan dan komunitas lokal. Kemasannya cantik, menampilkan keindahan alam dan budaya Bali, cocok buat sendiri atau oleh-oleh.
 
@@ -161,7 +161,7 @@ https://youtu.be/g-0YevTkxgI
 
 ### Falala Cokelat (3 cabang: Ubud, Kuta, Denpasar)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_80d2ab2244f30e138da44fce1f5e7718.png)
+![Falala Cokelat (3 cabang: Ubud, Kuta, Denpasar)](https://images.gobaligo.id/vocus/vocus_80d2ab2244f30e138da44fce1f5e7718.png)
 
 【Sam Liu】Rekomendasi banget nih, Falala Cokelat yang super enak ini salah satu oleh-oleh khas Bali, didirikan pada 10 April 2020 oleh sepasang kekasih muda dari Ubud. Demi mencari bahan baku terbaik, tim pendiri menghabiskan waktu setahun untuk riset dan seleksi ketat. Setelah berkali-kali percobaan, Falala Cokelat akhirnya resmi meluncur pada April 2020.
 
@@ -169,7 +169,7 @@ Falala Cokelat konsisten pakai teknik handmade tradisional, punya resep rahasia 
 
 ### Guribee Corn Chips (Tersedia di supermarket besar, Alfamart, Family Mart)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c717814fcdb988fd74509c3612c18dbf.png)
+![Guribee Corn Chips (Tersedia di supermarket besar, Alfamart,](https://images.gobaligo.id/vocus/vocus_c717814fcdb988fd74509c3612c18dbf.png)
 
 【Mei Yi Liao】Guribee adalah merek camilan Indonesia, camilan renyah berlapis-lapis dengan bentuk bantal unik dan tekstur garing. Guribee punya tiga varian rasa: keju renyah, rumput laut, dan BBQ.
 
@@ -177,7 +177,7 @@ Guribee camilan populer banget, apalagi di kalangan anak muda Indonesia. Enak da
 
 ### Salak (Tersedia di supermarket besar / kios buah)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5246f0141cf9c98d5f703e5b8a69248c.png)
+![Salak (Tersedia di supermarket besar / kios buah)](https://images.gobaligo.id/vocus/vocus_5246f0141cf9c98d5f703e5b8a69248c.png)
 
 【Lam Tak Wai】Udah bawa banyak ke Hong Kong! Dari sekian banyak oleh-oleh khas Bali, salak (pengucapan bahasa Indonesia: Salak) pasti pilihan unik yang nggak boleh dilewatkan. Salak dinamai dari kulitnya yang bersisik seperti ular, daging buahnya renyah manis dan berair, disukai turis dan penduduk lokal.
 
@@ -203,7 +203,7 @@ Camilan ini nggak cuma enak, tapi juga praktis dibawa kemana-mana. Cocok banget 
 
 ### Pia Agung — Toko khusus di dekat bandara & Canggu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3917493dbcbee0bb3a0c799f6c1a57ae.png)
+![Pia Agung — Toko khusus di dekat bandara & Canggu](https://images.gobaligo.id/vocus/vocus_3917493dbcbee0bb3a0c799f6c1a57ae.png)
 
 【Cerita dari Anna Wei】Pia Agung adalah kue khas Bali yang asalnya dari bulan bulan khas Guangdong, China. Setelah bertahun-tahun beradaptasi dengan cita rasa lokal, jadilah camilan manis yang super populer di Bali. Baik warga lokal maupun turis suka banget — bukan cuma jadi camilan wajib pas hari raya, tapi juga salah satu oleh-oleh favorit.
 
@@ -213,7 +213,7 @@ Kue-kue ini kulitnya renyah banget, isinya manis legit, lumer di mulut — benar
 
 ### Soffell 防蚊液 （tersedia di supermarket & convenience store）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c0cf469fe36e23282e4f24ab592dc657.png)
+![Soffell 防蚊液 （tersedia di supermarket & convenience store）](https://images.gobaligo.id/vocus/vocus_c0cf469fe36e23282e4f24ab592dc657.png)
 
 【Dari Fran Cisco】Jalan-jalan di daerah tropis, apalagi di Indonesia dan Bali, anti nyamuk itu wajib banget. Soffell 防蚊液 sebagai produk anti nyamuk lokal yang populer, terkenal ampuh dan praktis, jadi pilihan utama turis maupun warga lokal. Produk ini sangat efektif buat nyamuk khas Indonesia dan Bali, bisa ngusir nyamuk dan melindungi kulit sampai beberapa jam — kamu bisa bebas beraktivitas outdoor tanpa khawatir digigit.
 
@@ -223,7 +223,7 @@ Soffell 防蚊液 ada dua jenis: yang dioles (Soffell Lotion) dan yang disemprot
 
 ### Rekomendasi Oleh-Oleh Bali: Sensasi Kejutan dari Nastar 🍍
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b3262d82cb0c29c57e5f025ff413a14.jpg)
+![Rekomendasi Oleh-Oleh Bali: Sensasi Kejutan dari Nastar](https://images.gobaligo.id/vocus/vocus_9b3262d82cb0c29c57e5f025ff413a14.jpg)
 
 【Dari Sannie Lin】 Ternyata Bali juga punya nastar, kue yang super populer! Di perjalanan kali ini, aku sengaja mampir ke toko bernama **the Balinese**, katanya nastar mereka spesial banget. Tapi pas aku datang, stoknya lagi kosong — mereka bilang harus pre-order dulu, ambilnya beberapa hari kemudian.
 
@@ -237,7 +237,7 @@ Kalau kamu lagi cari oleh-oleh khas Bali yang unik, coba deh pertimbangkan nasta
 
 ### Herborist 🌿✨
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e11d5441c4897e4d2d0e2609300adcbf.jpg)
+![Herborist](https://images.gobaligo.id/vocus/vocus_e11d5441c4897e4d2d0e2609300adcbf.jpg)
 
 Herborist adalah brand skincare lokal asli Indonesia yang terinspirasi dari konsep spa tradisional Bali. Dengan bahan-bahan herbal alami setempat, produknya bikin kulit terasa bersih dan terawat. Brand ini berdiri sejak 2013, dan berkat harga yang ramah di kantong serta kualitasnya yang oke, langsung jadi favorit para wanita Indonesia dan juga turis.
 
@@ -257,7 +257,7 @@ Rekomendasi dari anggota grup [Alice Blue Lee](https://www.facebook.com/share/p/
 
 ### **Chocolate Monggo**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a91fa60eb71f580eac358c12a830f694.jpg)
+![Chocolate Monggo](https://images.gobaligo.id/vocus/vocus_a91fa60eb71f580eac358c12a830f694.jpg)
 
 **Chocolate Monggo** adalah **brand cokelat artisan asal Belgia** (Belgian Artisan Chocolatier) yang berbasis di Bali. Pendirinya, seorang insinyur Belgia, pindah ke Bali dan menggunakan rempah lokal serta kakao organik untuk menciptakan cokelat khas pulau yang penuh nuansa tropis.
 
@@ -276,7 +276,7 @@ Rekomendasi dari anggota grup [Alice Blue Lee](https://www.facebook.com/share/p/
 
 ### Secret Garden Diffuser Bunga Kamboja
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_353e90e5e76b5c5848ae6bbe6318da29.jpg)
+![Secret Garden Diffuser Bunga Kamboja](https://images.gobaligo.id/vocus/vocus_353e90e5e76b5c5848ae6bbe6318da29.jpg)
 
 Diffuser **Frangipani Bali** dari Secret Garden ini adalah **memori aroma paling ikonik dari Bali**. Wanginya memadukan kesegaran bunga kamboja, kelapa krim yang kaya, dan aroma bunga putih yang elegan — menciptakan suasana relaksasi yang bikin kamu serasa lagi duduk santai di tebing Uluwatu sambil meditasi. Produk ini lagi hits banget di kalangan wisatawan gaya hidup mewah tahun 2026, wajib punya buat kamu yang suka suasana healing. (Info dari anggota grup [劉欣諭](https://www.facebook.com/share/p/18CDb2wzvZ/))
 
@@ -284,7 +284,7 @@ Kalau kamu mau beli diffuser atau produk aromaterapi lainnya, selain bisa mampir
 
 ### Kapal Api Coffee
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781831055471-bb562012f60e0598fc47c07c897c05c4.png)
+![Kapal Api Coffee](https://images.gobaligo.id/images/2026-06/1781831055471-bb562012f60e0598fc47c07c897c05c4.png)
 
 Merek kopi nasional Indonesia yang bisa kamu beli di supermarket atau minimarket: **Kapal Api**. Bukan kopi instan kimiawi, melainkan 100% bubuk kopi alami tanpa campuran.
 

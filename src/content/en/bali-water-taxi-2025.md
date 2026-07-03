@@ -53,7 +53,7 @@ This initiative is considered a significant milestone for future tourism develop
 
 ## Details of the GoBoat Water Taxi Route
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_758cb8328c22d3ffda18f453d04f626c.png)
+![Details of the GoBoat Water Taxi Route](https://images.gobaligo.id/vocus/vocus_758cb8328c22d3ffda18f453d04f626c.png)
 
 This new water taxi route will feature three main stops:
 

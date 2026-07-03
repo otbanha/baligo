@@ -26,7 +26,7 @@ _srcHash: da4421d3efe601543b35886f704019a5
 
 As a globally popular tourist destination, Bali has recently implemented stricter regulations for foreign visitors. The Bali Provincial Government officially issued **Announcement No. 7 of 2025**, clearly outlining tourist behavior guidelines, including mandatory obligations, prohibited actions, and penalties for violations, to preserve local culture and the environment.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e38d91165546796db77a86f37dbb3076.png)
+![【Bali Travel Tips】New Regulations for Foreign Tourists in Ba](https://images.gobaligo.id/vocus/vocus_e38d91165546796db77a86f37dbb3076.png)
 
 ## **Key Points of the New Regulations: Civilized Tourism, Heavy Penalties for Violators**
 

@@ -52,7 +52,7 @@ https://youtube.com/shorts/oBLpQ-MH4kY
 
 ## Panduan Cepat
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775609629639-_2026-04-08_07.52.53.png)
+![Panduan Cepat](https://images.gobaligo.id/images/2026-04/1775609629639-_2026-04-08_07.52.53.png)
 
 {{block:一日團}}
 

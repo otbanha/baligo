@@ -41,7 +41,7 @@ This prestigious event was determined by votes from over 28 million GHA DISCOVER
 
 Vincent Guironnet, General Manager of The Apurva Kempinski Bali, expressed upon receiving the honor:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cfbbdb303c4d9cc59f6ee524f1fddcac.jpg)
+![The Significance of the 'Best Sustainable Hotel' Award](https://images.gobaligo.id/vocus/vocus_cfbbdb303c4d9cc59f6ee524f1fddcac.jpg)
 
 > 'Being globally recognized as a leader in sustainable tourism is a tremendous honor for us. This award is the best testament to our team's relentless efforts, as we strive to redefine luxury through a sustainable lens.'
 
@@ -60,7 +60,7 @@ Each initiative aligns with sustainable principles, achieving a balance between 
 
 ## **Sustainability Practices at The Apurva Kempinski Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eed3108b28cf3ca5fc3766481d9d747b.jpg)
+![Sustainability Practices at The Apurva Kempinski Bali](https://images.gobaligo.id/vocus/vocus_eed3108b28cf3ca5fc3766481d9d747b.jpg)
 
 **1. Environmental Sustainability: Innovation and Green Initiatives**
 
@@ -86,17 +86,17 @@ The hotel demonstrates a high level of transparency in its corporate governance,
 
 ## **The Perfect Blend of Design and Culture**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7b344ee09db7f37785935fd0893cc7bc.jpg)
+![The Perfect Blend of Design and Culture](https://images.gobaligo.id/vocus/vocus_7b344ee09db7f37785935fd0893cc7bc.jpg)
 
 Beyond environmental and social responsibility, The Apurva Kempinski Bali is renowned for its unique design and cultural experiences. The hotel's architecture is inspired by **Indonesia's Majapahit Empire**, presenting Indonesian architectural traditions and natural elements in a modern way.
 
 Additionally, its annual marketing campaign, **Powerful Indonesia**, is a tribute to Indonesian culture and heritage. From art exhibitions to culinary experiences, the hotel is dedicated to sharing Indonesia's diverse culture with its guests, offering them a rich and meaningful travel experience.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8546b2ac73a2501a4cdcedee144940e3.jpg)
+![The Perfect Blend of Design and Culture](https://images.gobaligo.id/vocus/vocus_8546b2ac73a2501a4cdcedee144940e3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_044a418e90b90d6ef815ca9a53439e92.jpg)
+![The Perfect Blend of Design and Culture](https://images.gobaligo.id/vocus/vocus_044a418e90b90d6ef815ca9a53439e92.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9d8178559e78ae80c6ed16ebc8bf6b1c.jpg)
+![The Perfect Blend of Design and Culture](https://images.gobaligo.id/vocus/vocus_9d8178559e78ae80c6ed16ebc8bf6b1c.jpg)
 
 ***
 

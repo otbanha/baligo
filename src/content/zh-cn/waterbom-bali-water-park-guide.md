@@ -27,11 +27,11 @@ _srcHash: 08cb239dad3b340f26b741e60e4dbb79
 
 ## **让你的巴厘岛之旅HIGH到最高点！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3367ef3d85a6593784914b7333f8c98f.jpg)
+![让你的巴厘岛之旅HIGH到最高点！](https://images.gobaligo.id/vocus/vocus_3367ef3d85a6593784914b7333f8c98f.jpg)
 
 想象一下：在热带天堂里尖叫着从近垂直的滑道冲下来，然后悠闲地漂浮在懒人河上喝着椰子调酒，周围被翠绿的热带植物包围...这就是Waterbom Bali的魔力！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5c80a6141d256ec92d7c933153320560.jpg)
+![让你的巴厘岛之旅HIGH到最高点！](https://images.gobaligo.id/vocus/vocus_5c80a6141d256ec92d7c933153320560.jpg)
 
 这就是**全亚洲排名第一**的水上乐园圣地！自1993年开业以来，Waterbom就像一颗璀璨的宝石镶嵌在库塔区的心脏地带。2024年刚拿下「东南亚最佳水上乐园」大奖，现在正朝着世界冠军头衔迈进！
 
@@ -43,7 +43,7 @@ _srcHash: 08cb239dad3b340f26b741e60e4dbb79
 
 ## 💰 门票攻略：聪明省钱大作战
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e6db7aeaf7568233caac2ea2d5c2208d.png)
+![门票攻略：聪明省钱大作战](https://images.gobaligo.id/vocus/vocus_e6db7aeaf7568233caac2ea2d5c2208d.png)
 
 ### 基本款 - Single Day Pass
 
@@ -65,7 +65,7 @@ _srcHash: 08cb239dad3b340f26b741e60e4dbb79
 
 图片无法展示各项设施好玩的程度，我们附上视频给你们自己体验囉！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_45b0eb26bf156e5b260472badcb9c28b.jpg)
+![游乐设施大揭秘：从天堂到地狱的完整体验](https://images.gobaligo.id/vocus/vocus_45b0eb26bf156e5b260472badcb9c28b.jpg)
 
 ### 💀 胆大包天区 - 勇者限定
 
@@ -129,13 +129,13 @@ _srcHash: 08cb239dad3b340f26b741e60e4dbb79
 
 **Pleasure Pool Bar** & **Lagoon Bar** 游着泳喝调酒，这是什么神仙享受？！椰子Long Island、热带水果调酒...在水里喝到微醺，这才叫度假啊！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_188dfb35eab781771325a1c7b1cdcedb.jpg)
+![泳池酒吧 - 人生赢家体验](https://images.gobaligo.id/vocus/vocus_188dfb35eab781771325a1c7b1cdcedb.jpg)
 
 ## 🏖️ 凉亭租借 - VIP专属天堂
 
 **终极舒适隐私体验** 想要真正的度假感？租个凉亭就对了！园区内有**51个不同位置**的凉亭可选，从隐秘的私人角落到热闹的活动中心旁，总有一个完美符合你的需求！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0d006239532e8d89eaf2a8a0f983f0b5.png)
+![凉亭租借 - VIP专属天堂](https://images.gobaligo.id/vocus/vocus_0d006239532e8d89eaf2a8a0f983f0b5.png)
 
 每个凉亭都有独特的设施和包含项目： 🛏️ 舒适躺椅和遮阳设备 🧊 专属冰桶服务 🍽️ 餐点直送服务 🏊‍♀️ 最佳观景位置 💆‍♀️ 部分凉亭还有SPA服务
 
@@ -169,7 +169,7 @@ _srcHash: 08cb239dad3b340f26b741e60e4dbb79
 
 ### **如果不租用凉亭有地方坐吗？**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e7ff9441c193635e2e6702586150eb77.png)
+![如果不租用凉亭有地方坐吗？](https://images.gobaligo.id/vocus/vocus_e7ff9441c193635e2e6702586150eb77.png)
 
 当然有！园区贴心准备了多种免费休息选项：
 
@@ -201,7 +201,7 @@ _srcHash: 08cb239dad3b340f26b741e60e4dbb79
 
 ## ⚡ 终极游玩攻略：像内行人一样玩
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6175291d21efae227993402759a9e029.jpg)
+![终极游玩攻略：像内行人一样玩](https://images.gobaligo.id/vocus/vocus_6175291d21efae227993402759a9e029.jpg)
 
 ### 🕘 时间管理术
 
@@ -213,7 +213,7 @@ _srcHash: 08cb239dad3b340f26b741e60e4dbb79
 
 **最佳季节** - 4-10月干季，但3月和9月人最少
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_57ccf26df215e54ea7cd2588e66e6a71.jpg)
+![时间管理术](https://images.gobaligo.id/vocus/vocus_57ccf26df215e54ea7cd2588e66e6a71.jpg)
 
 ### 🎒 装备检查清单
 
@@ -237,7 +237,7 @@ _srcHash: 08cb239dad3b340f26b741e60e4dbb79
 
 ## ⚠️ 安全第一：不要让意外毁了美好回忆
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dee9cbe4d91d15d3cf88d2e34b562c7f.jpg)
+![安全第一：不要让意外毁了美好回忆](https://images.gobaligo.id/vocus/vocus_dee9cbe4d91d15d3cf88d2e34b562c7f.jpg)
 
 ### 基本安全常识
 
@@ -269,7 +269,7 @@ _srcHash: 08cb239dad3b340f26b741e60e4dbb79
 
 ## 🎉 最后的叮咛
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a98984c1bd33823f8b213c1b6d5819e8.jpg)
+![最后的叮咛](https://images.gobaligo.id/vocus/vocus_a98984c1bd33823f8b213c1b6d5819e8.jpg)
 
 Waterbom Bali不只是个水上乐园，它是个让你重新变回小孩的魔法世界！在这里，你可以尽情尖叫、放声大笑、和朋友泼水大战，然后在懒人河上放空发呆...
 

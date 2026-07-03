@@ -19,7 +19,7 @@ _srcHash: 593d1fef4a29504cf5bda722e807a12b
 
 ## **🌊 What is Ku De Ta Beach Club?**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a69a22c39659b5c847d024e43652dd0.jpg)
+![What is Ku De Ta Beach Club?](https://images.gobaligo.id/vocus/vocus_9a69a22c39659b5c847d024e43652dd0.jpg)
 
 Located on Seminyak Beach in Bali, Ku De Ta Beach Club is the most iconic multi-purpose beach club in the area. It combines fine dining, trendy bars, endless ocean views, and music parties, attracting travelers from around the world.
 
@@ -39,11 +39,11 @@ Whether you want to leisurely enjoy breakfast, sunbathe by the sea in the aftern
 
 ## **🏛️ Inside Ku De Ta Beach Club**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f54057368be99be2ecf2886bafabc0a5.jpg)
+![Inside Ku De Ta Beach Club](https://images.gobaligo.id/vocus/vocus_f54057368be99be2ecf2886bafabc0a5.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5b49bdc360497dbbb8adf21801a3d44e.jpg)
+![Inside Ku De Ta Beach Club](https://images.gobaligo.id/vocus/vocus_5b49bdc360497dbbb8adf21801a3d44e.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8df51eb8a6139c650bb4c8cf9e2508b1.jpg)
+![Inside Ku De Ta Beach Club](https://images.gobaligo.id/vocus/vocus_8df51eb8a6139c650bb4c8cf9e2508b1.jpg)
 
 ### **1. Ku De Ta Beachside Venue**
 
@@ -82,7 +82,7 @@ Ku De Ta offers diverse dining services around the clock, from healthy breakfast
 
 ## **🎶 Music & Live Events**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1adeff2245c0b2b46777c21e20af521a.jpg)
+![Music & Live Events](https://images.gobaligo.id/vocus/vocus_1adeff2245c0b2b46777c21e20af521a.jpg)
 
 Ku De Ta is renowned for its **DJ music** and **party events**, with professional DJs playing relaxing lounge music daily, immersing you in the vacation vibe.
 
@@ -118,7 +118,7 @@ If these rules are violated, **Ku De Ta reserves the right to deny entry**, so p
 
 If you want to enjoy the endless sea views and sunset at **Ku De Ta Beach Club**, reserving a **sunbed** is an excellent choice. Below are detailed reservation and pricing information to help you prepare and fully enjoy your vacation.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_47631512101f9f9c0f1171942076eb2e.jpg)
+![Ku De Ta Beach Club Sunbed Reservation Guide](https://images.gobaligo.id/vocus/vocus_47631512101f9f9c0f1171942076eb2e.jpg)
 
 ### **📌 Sunbed Reservation Information**
 

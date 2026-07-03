@@ -20,7 +20,7 @@ _srcHash: 154f774b55110e6875f694fc5bc0f1c9
 
 Sebagai permata paling cemerlang dari 17.000 pulau di Indonesia, Bali nggak cuma punya pemandangan laut yang kece, tapi juga menyimpan jagat kuliner yang bikin melongo. Masakan di sini berani banget pakai kunyit, serai, cabai, dan puluhan rempah lainnya, dipadu teknik panggang lambat yang unik, menciptakan cita rasa Nusantara yang kaya lapisan. Ikuti peta kuliner ini, yuk, dan mulai petualangan rasa kamu!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc5e43f9b9126b6589178e4ba6533000.png)
+![10 Makanan Khas Bali yang Wajib Kamu Coba: Dari Bebek Betutu](https://images.gobaligo.id/vocus/vocus_cc5e43f9b9126b6589178e4ba6533000.png)
 
 ---
 
@@ -39,13 +39,13 @@ Orang Bali percaya kalau **nasi adalah sumber kehidupan**, bahkan sesajen pun ng
 
 ### 1. **Nasi Campur**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ba61bd1cca025325f216cead628b0be6.jpg)
+![1. Nasi Campur](https://images.gobaligo.id/vocus/vocus_ba61bd1cca025325f216cead628b0be6.jpg)
 
 Konsep 'prasmanan' ala Bali! Kamu bebas milih nasi putih/merah/kuning, ditemani puluhan lauk: telur sambal goreng, kari kepala ikan, ayam bumbu manis, tempe goreng, dan lain-lain. Setiap Warung punya racikan rahasia sendiri. **Wajib cobain sambalnya**, kalau kamu doyan pedes, tantang dirimu dengan 'Sambal Matah' — sambal mentah yang super nampol!
 
 ### 2. **Babi Guling**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8c8b1c1ab0f2a6f07b153fbf717d6fa1.jpg)
+![2. Babi Guling](https://images.gobaligo.id/vocus/vocus_8c8b1c1ab0f2a6f07b153fbf717d6fa1.jpg)
 
 Hanya ada di Bali! (Mayoritas daerah di Indonesia muslim jadi nggak ada babi) Babi kecil diisi bumbu lalu dipanggang pelan-pelan, kulitnya renyah kayak kaca, jeroannya diolah jadi sosis darah (Urutan). Recomended banget cobain di tempat khusus.
 
@@ -53,7 +53,7 @@ Hanya ada di Bali! (Mayoritas daerah di Indonesia muslim jadi nggak ada babi) Ba
 
 ### 3. **Bebek Betutu — Ritual 24 Jam Slow Cook ala Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_424d54a38db06d3ba8596b74b05187fa.png)
+![3. Bebek Betutu — Ritual 24 Jam Slow Cook ala Bali](https://images.gobaligo.id/vocus/vocus_424d54a38db06d3ba8596b74b05187fa.png)
 
 Di surga kuliner Bali, **Bebek Betutu** adalah juara 'masakan penuh perjuangan'! Hidangan tradisional yang butuh waktu seharian penuh ini kayak versi Indonesia-nya 'bebek lumpur', tapi rasa dan lapisannya sepuluh kali lebih kompleks —
 
@@ -114,7 +114,7 @@ Sate Lilit versi premium
 
 ### 5. **Iga Babi Panggang (Iga Babi Madu) — Kenikmatan Maksimal di Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4ee77298a14e6cba766ff1f7336a0f17.jpg)
+![5. Iga Babi Panggang (Iga Babi Madu) — Kenikmatan Maksimal d](https://images.gobaligo.id/vocus/vocus_4ee77298a14e6cba766ff1f7336a0f17.jpg)
 
 Kalau kamu pikir Babi Guling terlalu tradisional, **Iga Babi Panggang** (pork ribs) adalah versi Bali dari "BBQ ribs ala Amerika" — tapi lebih manis, lebih wangi, dan lebih kaya rasa!
 
@@ -133,7 +133,7 @@ Kalau kamu pikir Babi Guling terlalu tradisional, **Iga Babi Panggang** (pork ri
 
 ### 6. **Nasi Goreng — 'Nasi Goreng Nasional' Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1285e1be061d17bb96ecb35f176c3aec.jpg)
+![6. Nasi Goreng — 'Nasi Goreng Nasional' Bali](https://images.gobaligo.id/vocus/vocus_1285e1be061d17bb96ecb35f176c3aec.jpg)
 
 Gimana bisa lupa sama jiwa masakan Indonesia — **Nasi Goreng**! Ini bukan nasi goreng biasa, lho, tapi pakai **Kecap Manis** dan **Sambal** yang bikin rasanya 'gelap' dan mantap, aroma wok-nya sebanding sama nasi goreng Macau!
 
@@ -154,7 +154,7 @@ Orang lokal suka pecahin **telur mata sapi** setengah matang, biar kuning telurn
 
 ### **7. Mie Goreng — Raja Makanan Malam Rakyat**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f312682b08f56f3ab8dd0284244c584e.jpg)
+![7. Mie Goreng — Raja Makanan Malam Rakyat](https://images.gobaligo.id/vocus/vocus_f312682b08f56f3ab8dd0284244c584e.jpg)
 
 Kalau Nasi Goreng adalah ikon nasi goreng Indonesia, maka **Mie Goreng** adalah 'saudara versi mie'-nya, sama-sama jadi jajanan jalanan favorit sehari-hari orang Bali!
 
@@ -175,7 +175,7 @@ Kalau Nasi Goreng adalah ikon nasi goreng Indonesia, maka **Mie Goreng** adalah 
 
 ### 8. **Bebek Bengil (Bebek Kotor) — Hidangan Sawah Paling Legendaris di Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6c3ebab1d089d9493682b46c684d8502.jpg)
+![8. Bebek Bengil (Bebek Kotor) — Hidangan Sawah Paling Legend](https://images.gobaligo.id/vocus/vocus_6c3ebab1d089d9493682b46c684d8502.jpg)
 
 Di tengah hamparan sawah terasering hijau Ubud, tersembunyi satu hidangan legendaris yang bikin banyak wisatawan kepincut — **Bebek Bengil** (dalam bahasa Inggris disebut Dirty Duck, artinya "bebek kotor"). Hidangan yang dinobatkan CNN sebagai "wajib coba di Bali" ini bukan cuma gimmick nama doang, tapi benar-benar sebuah ritual kuliner!
 
@@ -207,7 +207,7 @@ Cara makan asli: sobek daging bebek pakai tangan, lalu bentuk jadi bola nasi cam
 
 ### **9. Sop Buntut (Sop Buntut Sapi ala Indonesia)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4627aa4329d41d2364576f0df857fb02.jpg)
+![9. Sop Buntut (Sop Buntut Sapi ala Indonesia)](https://images.gobaligo.id/vocus/vocus_4627aa4329d41d2364576f0df857fb02.jpg)
 
 Saat hujan tropis Bali tiba-tiba mengguyur, atau kamu butuh penawar setelah makan pedas, semangkuk **Sop Buntut** yang mengepul adalah penyelamat sejati! Sup kental yang berasal dari istana Jawa ini memadukan 'aroma bakar, jiwa rempah, dan manis kolagen' dengan sempurna — bahkan tulangnya pun bisa dihisap sampai ke sumsumnya~
 
@@ -227,11 +227,11 @@ Saat hujan tropis Bali tiba-tiba mengguyur, atau kamu butuh penawar setelah maka
 
 Sup buntut dipercaya berasal dari Pulau Jawa dan menyebar ke Bali, tapi rasanya sedikit berbeda di kedua tempat:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_820beff0195c26060788b20dd33dbebb.png)
+![9. Sop Buntut (Sop Buntut Sapi ala Indonesia)](https://images.gobaligo.id/vocus/vocus_820beff0195c26060788b20dd33dbebb.png)
 
 ### **10. Bubur Injin (Puding Beras Hitam)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac3ba68004d65e62711e83be4a0b29f9.jpg)
+![10. Bubur Injin (Puding Beras Hitam)](https://images.gobaligo.id/vocus/vocus_ac3ba68004d65e62711e83be4a0b29f9.jpg)
 
 Setelah puas mencicipi masakan Bali yang pedas dan berbumbu kuat, semangkuk **Bubur Injin** dengan kilau mutiara adalah penutup sempurna yang wajib dicoba para pencinta dessert dan pegiat hidup sehat! Hidangan manis yang terbuat dari padi 'batang ungu' kuno ini bukan sekadar air gula — ini adalah 'ramuan bergizi' warisan ribuan tahun masyarakat Bali~
 

@@ -25,7 +25,7 @@ _srcHash: 9d6feac5e9732622c480441f317876fa
 
 Traveling to Bali is often considered a dream vacation for many, offering beautiful beaches, vibrant culture, and a tropical escape from everyday worries. However, a series of unfortunate events over the past week serves as a stark reminder of the critical importance of having comprehensive medical and travel insurance when visiting this popular destination. This article recounts the harrowing experiences of several travelers, emphasizing the need for thorough preparation and understanding of insurance policies before embarking on such adventures.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aabb2a4c1d2f606be093bb46df0ab3b6.png)
+![【Bali Nightmare】The Importance of Travel Insurance: Five Tra](https://images.gobaligo.id/vocus/vocus_aabb2a4c1d2f606be093bb46df0ab3b6.png)
 
 ## The Critical Importance of Travel Insurance
 
@@ -33,7 +33,7 @@ Traveling to Bali is often considered a dream vacation for many, offering beauti
 
 ## The Case of Sam Hourigan: A Tragic Hit-and-Run
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a3fdc7fa3f375c887f74b4f21a22024.jpg)
+![The Case of Sam Hourigan: A Tragic Hit-and-Run](https://images.gobaligo.id/vocus/vocus_9a3fdc7fa3f375c887f74b4f21a22024.jpg)
 
 One of the most shocking incidents involves Sam Hourigan, a renowned freediver who is currently in stable but critical condition in Bali following a hit-and-run accident. Hourigan was struck by a motorcycle traveling in the wrong direction without headlights on the Padang-Padang Bridge. As he lay unconscious on the ground, a second motorcycle collided with him, causing severe internal bleeding, a ruptured spleen, and fractured ribs.
 
@@ -41,7 +41,7 @@ Hourigan was rushed to the hospital for emergency surgery, where doctors perform
 
 ## Rebecca Ode: A Mysterious Accident on Nusa Lembongan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_914891e37f27c832e2702dbeae0b8479.jpg)
+![Rebecca Ode: A Mysterious Accident on Nusa Lembongan](https://images.gobaligo.id/vocus/vocus_914891e37f27c832e2702dbeae0b8479.jpg)
 
 Another unrelated but equally tragic incident involves Rebecca Ode, an Australian tourist who was found semi-conscious on a road in Nusa Lembongan. Ode suffered severe brain and eye injuries and was immediately rushed to the intensive care unit for major reconstructive surgery. Although she is currently in stable condition, she still faces the risk of losing her eyesight.
 
@@ -49,7 +49,7 @@ Aud's family is now facing substantial medical expenses, including potential med
 
 ## Catherine Curtis: An Unexpected Turn on Mount Batur Trek
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8ef6f21bdbfc62433b211a1643e4b39b.jpg)
+![Catherine Curtis: An Unexpected Turn on Mount Batur Trek](https://images.gobaligo.id/vocus/vocus_8ef6f21bdbfc62433b211a1643e4b39b.jpg)
 
 Australian Catherine Curtis, aged 56, encountered a series of challenges while trekking Mount Batur. After successfully summiting the sacred peak, Curtis tripped on her descent, breaking her leg in two places. Fortunately, Curtis had travel and medical insurance that covered her medical expenses, or she would have faced over AUD$23,000 in medical bills.
 
@@ -57,7 +57,7 @@ This incident underscores the importance of having insurance that covers adventu
 
 ## The Lucky Rescue of Two British Tourists
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ce2f0bdcf56747e3b1eca773373369d2.jpg)
+![The Lucky Rescue of Two British Tourists](https://images.gobaligo.id/vocus/vocus_ce2f0bdcf56747e3b1eca773373369d2.jpg)
 
 In a fortunate turn of events, two young British tourists (initials AF and MF) were rescued by Bali's search and rescue team after getting lost on Mount Agung. The brothers attempted to climb the mountain without a guide, an extremely risky endeavor! Although they were found alive and unharmed, at least a dozen tourists are injured or die on Mount Agung each year.
 

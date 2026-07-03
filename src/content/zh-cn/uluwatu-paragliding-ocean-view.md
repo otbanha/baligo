@@ -72,7 +72,7 @@ _srcHash: 18aaf9fe5b3ad45e298e713bbaa343e9
 
 ### **🌟 心得：比想象中安全又好玩！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_967be453cf97a01700bb55bec2eb3271.jpg)
+![心得：比想象中安全又好玩！](https://images.gobaligo.id/vocus/vocus_967be453cf97a01700bb55bec2eb3271.jpg)
 
 原本以为会很恐怖，但实际飞起来**超级稳**，像坐在空中慢慢飘～教练人很好，还会用英文介绍风景。**最震撼的是从高空看印度洋，那种蓝色一辈子忘不掉！**
 

@@ -19,7 +19,7 @@ _srcHash: 9d6feac5e9732622c480441f317876fa
 
 前往巴厘岛常被视为许多人的梦想度假之地，这是一个提供美丽海滩、充满活力的文化以及逃避烦恼的热带天堂。然而，过去一周的一系列不幸事件提醒我们，前往这个受欢迎的目的地时，拥有全面的医疗和旅游保险至关重要。本文回顾了几位游客的恐怖经历，强调在这类冒险之前需要彻底准备并了解保险政策。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aabb2a4c1d2f606be093bb46df0ab3b6.png)
+![【巴厘岛惊魂】旅游保险的重要性：巴厘岛一周内的五大悲剧](https://images.gobaligo.id/vocus/vocus_aabb2a4c1d2f606be093bb46df0ab3b6.png)
 
 ## 旅游保险的至关重要性
 
@@ -27,7 +27,7 @@ _srcHash: 9d6feac5e9732622c480441f317876fa
 
 ## 山姆·霍里根的案例：一起悲剧性的肇事逃逸
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a3fdc7fa3f375c887f74b4f21a22024.jpg)
+![山姆·霍里根的案例：一起悲剧性的肇事逃逸](https://images.gobaligo.id/vocus/vocus_9a3fdc7fa3f375c887f74b4f21a22024.jpg)
 
 最令人震惊的事件之一涉及山姆·霍里根（Sam Hourigan**）**，这位著名的自由潜水者，目前在巴厘岛因一场肇事逃逸事故处于稳定但危急的状态。霍里根在Padang-Padang桥上被一辆逆向行驶且没有车灯的摩托车撞倒。当他躺在地上失去意识时，第二辆摩托车又撞上了他，导致严重的内部出血、破裂的脾脏和肋骨骨折。
 
@@ -35,7 +35,7 @@ _srcHash: 9d6feac5e9732622c480441f317876fa
 
 ## 瑞贝卡·奥德：努沙伦邦岸岛上的神秘事故
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_914891e37f27c832e2702dbeae0b8479.jpg)
+![瑞贝卡·奥德：努沙伦邦岸岛上的神秘事故](https://images.gobaligo.id/vocus/vocus_914891e37f27c832e2702dbeae0b8479.jpg)
 
 另一件无关但同样悲惨的事件涉及瑞贝卡·奥德（Rebecca Ode），这位澳大利亚游客在蓝梦岛的一条道路上被发现半昏迷。奥德遭受严重的脑部和眼部损伤，立即被送往重症监护病房进行重大重建手术。尽管目前她的状态稳定，但她仍面临失去双眼的风险。
 
@@ -43,7 +43,7 @@ _srcHash: 9d6feac5e9732622c480441f317876fa
 
 ## 凯瑟琳·柯蒂斯：巴图尔山徒步旅行的意外
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8ef6f21bdbfc62433b211a1643e4b39b.jpg)
+![凯瑟琳·柯蒂斯：巴图尔山徒步旅行的意外](https://images.gobaligo.id/vocus/vocus_8ef6f21bdbfc62433b211a1643e4b39b.jpg)
 
 56岁的澳大利亚人凯瑟琳·柯蒂斯（Catherine Curtis）在巴图尔山徒步旅行时遇到了一系列挑战。在成功登顶这座神圣的山峰后，柯蒂斯在下山时绊倒，摔断了腿的两处。幸运的是，柯蒂斯拥有涵盖医疗费用的旅游和医疗保险，否则她将面临超过23,000澳元的医疗费用。
 
@@ -51,7 +51,7 @@ _srcHash: 9d6feac5e9732622c480441f317876fa
 
 ## 两位英国游客的幸运获救
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ce2f0bdcf56747e3b1eca773373369d2.jpg)
+![两位英国游客的幸运获救](https://images.gobaligo.id/vocus/vocus_ce2f0bdcf56747e3b1eca773373369d2.jpg)
 
 在一个幸运的转折点中，两位年轻的英国游客（首字母AF和MF）在阿贡山迷路后被巴厘岛的搜救队救出。兄弟俩尝试在没有导游的情况下攀登这座山峰，这是一个极为冒险行为！尽管他们活着且没有受伤被找到，但每年在阿贡山上至少有十几名游客受伤或死亡。
 

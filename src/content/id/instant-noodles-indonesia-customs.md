@@ -25,7 +25,7 @@ _srcHash: 81034801c6d5b92490bf53fe84ddde3d
 
 Bawa mi instan Taiwan ke Bali, terutama yang mengandung daging, sering jadi kekhawatiran banyak traveler. Mi instan bukan cuma makanan enak dalam hidup orang Taiwan, tapi juga rasa kampung halaman. Nah, bisa nggak sih kita bawa makanan enak ini ke pesawat, biar sambil menikmati suasana luar negeri tetap bisa merasakan cita rasa Taiwan? Artikel ini bakal jawab tuntas pertanyaan itu.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5a3fcc70daa7978a79985c54b2c8d84a.png)
+![Boleh bawa mi instan dan susu bubuk ke Indonesia/Bali?](https://images.gobaligo.id/vocus/vocus_5a3fcc70daa7978a79985c54b2c8d84a.png)
 
 ## Aturan Maskapai Penerbangan
 
@@ -44,7 +44,7 @@ Indonesia punya aturan ketat soal makanan yang dibawa masuk, terutama produk dag
 
 ## Alternatif Lain
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fb63c3f1c6e85c650e46f2d829cc605c.png)
+![Alternatif Lain](https://images.gobaligo.id/vocus/vocus_fb63c3f1c6e85c650e46f2d829cc605c.png)
 
 Pesan dan hemat, cek di sini:
 

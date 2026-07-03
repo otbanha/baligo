@@ -218,7 +218,7 @@ Nggak sama! Tapi basically bisa diabaikan juga. Cek penjelasannya di sini: [Kurs
 
 Saran pakai kartu kredit yang kasih cashback transaksi luar negeri, dengan biaya transaksi rendah atau tanpa biaya sama sekali. Pakai di hotel besar atau restoran besar aja, biar lebih worth it. Dengan gini, kamu bisa dapet kurs tukar dolar AS yang oke, plus tetap fleksibel! Catatan kecil: ada teman grup yang **kartu kreditnya dipakein orang pas belanja di supermarket kecil**, jadi hati-hati ya pakai kartu kredit!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2378c7ff4f1c9c76019a72c8491a8a65.png)
+![17. Bayar Pakai Kartu Kredit](https://images.gobaligo.id/vocus/vocus_2378c7ff4f1c9c76019a72c8491a8a65.png)
 
 **Referensi Cepat:**
 

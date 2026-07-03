@@ -38,7 +38,7 @@ Update: 2026/06/18
 
 ## **The Majestic and Serene Batur Caldera Lake**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a5e37e35b2726428b7743348685d03c0.jpg)
+![The Majestic and Serene Batur Caldera Lake](https://images.gobaligo.id/vocus/vocus_a5e37e35b2726428b7743348685d03c0.jpg)
 
 Nestled in the Kintamani region, Lake Batur is a vast volcanic crater lake formed by an ancient eruption. Sitting at an elevation of about 1,000 meters and surrounded by layered mountain ridges, it looks like a living painting when mist swirls at dawn.
 
@@ -48,7 +48,7 @@ Watching the sunrise from the summit of Mount Batur is a must-do for many travel
 
 ## Exploring the Sacred Site: Pura Segara Ulun Danu Batur Water Temple
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781672235683-dscf3056_1200.webp)
+![Exploring the Sacred Site: Pura Segara Ulun Danu Batur Water](https://images.gobaligo.id/images/2026-06/1781672235683-dscf3056_1200.webp)
 
 ### **Bali Has More Than One Water Temple**
 
@@ -74,7 +74,7 @@ This temple sees relatively few visitors, offering an incredibly peaceful and se
 
 ### 🔥 **Hiking to Catch the Sunrise**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_faaf8d67d5e06d033ea24d05e691b831.png)
+![Hiking to Catch the Sunrise](https://images.gobaligo.id/vocus/vocus_faaf8d67d5e06d033ea24d05e691b831.png)
 
 Want to feel a true sense of conquest? Joining a sunrise hike up Mount Batur is a classic adventure! You'll typically set off in the early hours, taking about 2–3 hours to reach the summit. As the first rays of light break across the sky, the entire lake and surrounding peaks shimmer in golden hues—a breathtaking sight that leaves you speechless.
 
@@ -82,7 +82,7 @@ Want to feel a true sense of conquest? Joining a sunrise hike up Mount Batur is 
 
 ## 🚙 **Sunrise Jeep Safari Experience**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e7f84a89a04639ed8ef6723260c2939.jpg)
+![Sunrise Jeep Safari Experience](https://images.gobaligo.id/vocus/vocus_3e7f84a89a04639ed8ef6723260c2939.jpg)
 
 If you prefer a more relaxed way to enjoy the sunrise without missing out, opt for the 'Mount Batur Sunrise Jeep Tour.' A 4x4 jeep will take you across black volcanic sands and lava valleys, straight to the best viewpoints.
 
@@ -106,7 +106,7 @@ The entire tour lasts about 8 hours and includes hotel pickup and drop-off, attr
 
 ## **Royal Voyage: A Dual Experience on Lake Batur**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3ca74bdad12e693945d91b0c5b5888cf.jpg)
+![Royal Voyage: A Dual Experience on Lake Batur](https://images.gobaligo.id/vocus/vocus_3ca74bdad12e693945d91b0c5b5888cf.jpg)
 
 Watching the sun slowly rise over Mount Batur is one of the most awe-inspiring memories for any traveler. After your hike, try the emerging lake activity—the **Royal Songan Cruise on Lake Batur**.
 
@@ -124,7 +124,7 @@ The cruise features live cultural performances, tea service, and panoramic seati
 
 ## **Relax by the Lake: Dozens of Stunning Volcanic Lake View Cafés**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e879f53736ac69a3fbe2b04bbb409467.jpg)
+![Relax by the Lake: Dozens of Stunning Volcanic Lake View Caf](https://images.gobaligo.id/vocus/vocus_e879f53736ac69a3fbe2b04bbb409467.jpg)
 
 If Bali's soul lies between its volcanoes and lakes, then the character of Lake Batur is found in the cafés that face the water.
 
@@ -136,7 +136,7 @@ Here’s our curated list of **dozens of Lake Batur view cafes**—whether you�
 
 ## Kintamani Mountain Playground: The Grand Lagunas
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a9a882fda8e0d1a069384ba95922dc4.png)
+![Kintamani Mountain Playground: The Grand Lagunas](https://images.gobaligo.id/vocus/vocus_9a9a882fda8e0d1a069384ba95922dc4.png)
 
 Push your limits at The Grand Lagunas, where thrilling adventures meet stunning scenery! This spot offers a wide range of outdoor activities, including a colorful Rainbow Slide, Flying Fox, Tree Top adventure, Keranjang Sultan (giant basket swing), Trampoline Jump, Hammock, Nest, Climbing Net, Climbing Tree, Jungle Bridge, and ATV rides—all designed to unleash your adventurous spirit.
 
@@ -148,13 +148,13 @@ Feel the rush as you zoom down the vibrant slide, soaking in the spectacular vie
 
 ## **Soak in Hot Springs with a View: The Perfect Finale**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1b2c36cce167df14bcd2e664efd956d0.jpg)
+![Soak in Hot Springs with a View: The Perfect Finale](https://images.gobaligo.id/vocus/vocus_1b2c36cce167df14bcd2e664efd956d0.jpg)
 
 After your trek and coffee stop, unwind at **Toya Devasya Hot Springs**. Soaking in the natural volcanic geothermal pools while gazing at the distant volcano and lake is the most soothing way to end the day.
 
 Beyond the hot springs, this place is also a full-fledged hot spring water park!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e239669b1787a60c45be7f558d30237.png)
+![Soak in Hot Springs with a View: The Perfect Finale](https://images.gobaligo.id/vocus/vocus_4e239669b1787a60c45be7f558d30237.png)
 
 > ▶ [Toya Devasya Hot Springs Ticket](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1140524&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F24959-toya-devasya-hot-springs-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3De7714021bf)
 

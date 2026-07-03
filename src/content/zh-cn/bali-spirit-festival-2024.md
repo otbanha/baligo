@@ -23,7 +23,7 @@ _srcHash: aae8f3a0aaad627003b586be2196f3a2
 
 ## 巴厘岛灵性节：迎接灵性与启发的盛会
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0d872c8654d5b03d669f3932de935a41.jpg)
+![巴厘岛灵性节：迎接灵性与启发的盛会](https://images.gobaligo.id/vocus/vocus_0d872c8654d5b03d669f3932de935a41.jpg)
 
 巴厘岛灵性节（Bali Spirit Festival）将于2024年5月1日至5日再度在乌布举行。这场盛会汇聚了世界各地的瑜伽、舞蹈、音乐和疗愈爱好者，是一场启发灵魂的盛宴。在这里，人们可以共同探索身心灵的平衡，获得新的启示，并与全球社区连接。
 

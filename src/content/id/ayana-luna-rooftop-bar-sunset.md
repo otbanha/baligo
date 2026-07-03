@@ -18,7 +18,7 @@ _srcHash: 57d80483457511923aa646e2dda8be38
 ---
 Di atas atap AYANA Segara Bali, ada Luna Rooftop Bar — hidden gem buat santai sambil menikmati pemandangan sunset yang kece. Dari ketinggian ini, kamu bisa lihat perpaduan sinar senja dan lautan luas yang jadi background sempurna buat foto-foto. Di Luna, bukan cuma soal makanan dan minuman, tapi juga soal menciptakan kenangan yang nggak terlupakan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bdd57f5319e4fb3e4f7b0462ca1a4ef3.jpg)
+![Lebih chill dari Rock Bar! Pengalaman sunset 360° di Luna Ro](https://images.gobaligo.id/vocus/vocus_bdd57f5319e4fb3e4f7b0462ca1a4ef3.jpg)
 
 ## Lokasi dan Pemandangan Luna Rooftop Bar
 
@@ -28,13 +28,13 @@ Luna Rooftop Bar terletak di salah satu titik tertinggi di kawasan resor AYANA, 
 
 Pemandangan sunset di sini tuh bener-bener bikin hati meleleh, makanya banyak wisatawan jatuh cinta. Saran gue, datanglah menjelang sore biar dapet cahaya dan suasana terbaik. Hangatnya sinar senja bikin suasana jadi romantis dan santai, cocok banget dinikmati bareng pasangan atau orang tersayang.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_53f629d119501685a9ae4da166c9a0a7.jpg)
+![Nikmati Pengalaman Sunset yang Memukau](https://images.gobaligo.id/vocus/vocus_53f629d119501685a9ae4da166c9a0a7.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4233d5300544088ef3e713f58c905c2a.jpg)
+![Nikmati Pengalaman Sunset yang Memukau](https://images.gobaligo.id/vocus/vocus_4233d5300544088ef3e713f58c905c2a.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_10e65b350f77448a9df09ffab1a40f25.jpg)
+![Nikmati Pengalaman Sunset yang Memukau](https://images.gobaligo.id/vocus/vocus_10e65b350f77448a9df09ffab1a40f25.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_83809eb6100d3bff72790c195ae6da41.jpg)
+![Nikmati Pengalaman Sunset yang Memukau](https://images.gobaligo.id/vocus/vocus_83809eb6100d3bff72790c195ae6da41.jpg)
 
 ## Pilihan Minuman dan Koktail yang Variatif
 
@@ -52,9 +52,9 @@ Pilihan Tapas di Luna lengkap banget, cocok buat dinikmati bareng-bareng. Baik i
 
 Luna juga punya pengalaman sarapan terapung yang spesial, bikin kamu bisa menikmati hidangan cantik sambil di kolam renang. Layanan personal ini pas banget buat rayain momen istimewa, kasih pengalaman yang lebih privat dan romantis.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e16dc5f8231bc5902149d09263b71961.jpg)
+![Pengalaman Mewah Sarapan Terapung](https://images.gobaligo.id/vocus/vocus_e16dc5f8231bc5902149d09263b71961.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_282275d75dea817107793d72f8484856.jpg)
+![Pengalaman Mewah Sarapan Terapung](https://images.gobaligo.id/vocus/vocus_282275d75dea817107793d72f8484856.jpg)
 
 ## Kualitas Pelayanan & Pengalaman Pelanggan
 
@@ -74,11 +74,11 @@ Suasananya di sini nggak terlalu ramai juga nggak sepi, pas banget buat quality 
 
 Luna Rooftop Bar adalah spot tersembunyi yang wajib kamu datengin. Pemandangan sunset laut yang juara dan desainnya yang unik bikin tempat ini ideal buat foto-foto dan share ke medsos.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cf9cdee49c2e0cdbf8f58107e107271e.jpg)
+![Hidden Gem Buat Foto-Foto](https://images.gobaligo.id/vocus/vocus_cf9cdee49c2e0cdbf8f58107e107271e.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b0f3a6decfe569795afba79fca1ccbea.jpg)
+![Hidden Gem Buat Foto-Foto](https://images.gobaligo.id/vocus/vocus_b0f3a6decfe569795afba79fca1ccbea.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8c8697add989ee9443c0ab7df4d5fdfd.jpg)
+![Hidden Gem Buat Foto-Foto](https://images.gobaligo.id/vocus/vocus_8c8697add989ee9443c0ab7df4d5fdfd.jpg)
 
 ## Mending ke Rock Bar atau Luna Rooftop Bar?
 

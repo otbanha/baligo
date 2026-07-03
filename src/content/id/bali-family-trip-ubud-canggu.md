@@ -154,7 +154,7 @@ Kontak Awan ada di [Daftar Driver Sewa Mobil Bali Terkenal](/blog/bali-private-c
 
 Menurut kamu perjalanan Zhao Kangkang seru nggak? Yuk, rencanain liburan Bali versi kamu sendiri! Jangan lupa kirim itinerary kamu ke grup ya!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5a1e2aa439de59150271c058d384f2c2.jpg)
+![Rekomendasi Driver: Bali Holiday Awan](https://images.gobaligo.id/vocus/vocus_5a1e2aa439de59150271c058d384f2c2.jpg)
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 

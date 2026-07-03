@@ -39,7 +39,7 @@ _srcHash: 37ac97c65dc757ce8ea2aa7a2f9f5f78
 
 总的来说，Grab在巴厘岛是非常可靠的交通工具，尤其是对于带着长辈旅行的游客来说，既方便又安全。只是要提醒大家，巴厘岛的交通状况比较混乱，行车时要多加小心，尤其是过马路时要特别留意摩托车和汽车的动向（跟台湾相反）。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1990ed3bb904bed1268c76632f7d4c9a.jpg)
+![交通](https://images.gobaligo.id/vocus/vocus_1990ed3bb904bed1268c76632f7d4c9a.jpg)
 
 ***
 
@@ -55,7 +55,7 @@ _srcHash: 37ac97c65dc757ce8ea2aa7a2f9f5f78
 
 我们这次包车的主要目的是游览乌布地区，并在行程结束后请司机将我们送到另一个区域的旅馆。包车时间总共是10个小时，费用大约是USD$39，我觉得这个价格非常合理。此外，我们还请司机帮忙安排了ATV、漂流和荡秋千等体验活动，他会将这些活动的费用一并计算在内，最后给出一个总价，确认后就算成立。当天所有活动结束后，我们才一次性支付所有费用，非常方便。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3017cf52f4ba0bee1447ab78b90bd1d5.jpg)
+![行程安排与费用：](https://images.gobaligo.id/vocus/vocus_3017cf52f4ba0bee1447ab78b90bd1d5.jpg)
 
 - 🏎️巴厘岛ATV活动 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%2520ATV%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D28594dcbf2)
 - 🚣巴厘岛泛舟活动 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%25E6%25B3%259B%25E8%2588%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D8c8ac92422)
@@ -71,7 +71,7 @@ _srcHash: 37ac97c65dc757ce8ea2aa7a2f9f5f78
 
 司机非常贴心，行程中间还会主动问我们肚子饿不饿，并载我们去餐厅吃饭。整个过程非常轻松自在，完全不用担心时间安排或路线问题。如果你在巴厘岛的行程中有需要换旅馆的情况，我也非常推荐这种包车方式。你可以请司机安排一整天的行程，最后直接把你送到下一个住宿地点，既省时又省力。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9fcdaea18d753826c3e962ebce5ecc05.jpg)
+![行程中的弹性调整：](https://images.gobaligo.id/vocus/vocus_9fcdaea18d753826c3e962ebce5ecc05.jpg)
 
 **更多 Karuna 的优秀点评：**
 
@@ -114,7 +114,7 @@ _srcHash: 37ac97c65dc757ce8ea2aa7a2f9f5f78
 
 试喝的过程其实蛮有趣的，除了麝香猫咖啡，他们还会准备多种不同的咖啡和花果茶让你品尝。每一种饮品都会有专人解说，像是咖啡的风味、花果茶的功效等等。试喝完一轮后，确实会让人觉得不买点东西有点不好意思。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b47855e8d20e3f0b3936512c44f670a2.jpg)
+![园区的介绍与试喝：](https://images.gobaligo.id/vocus/vocus_b47855e8d20e3f0b3936512c44f670a2.jpg)
 
 ### 麝香猫咖啡的争议：
 
@@ -136,7 +136,7 @@ https://youtu.be/NEnIZjZnrTk
 
 这次巴厘岛之旅，食物绝对是让我印象深刻的亮点之一！巴厘岛的美食文化非常多元，尤其是当地的特色料理，真的让人一试难忘。以下是我对这次饮食体验的详细分享，希望能给大家一些参考。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d7966ba428f0a4c7761ad02df03437bc.jpg)
+![食物](https://images.gobaligo.id/vocus/vocus_d7966ba428f0a4c7761ad02df03437bc.jpg)
 
 ### 脏鸭饭与猪肋排：
 
@@ -148,7 +148,7 @@ https://youtu.be/NEnIZjZnrTk
 
 虽然脏鸭饭和猪肋排让我们惊艳，但传统的印尼料理反而没有这么对我们的胃口。我们还特地报名了一个厨艺课程，花了一个早上学习制作六七道印尼菜。同行的还有几位韩国游客，结果大家试吃后都觉得味道偏咸偏油，最后只吃了一两口就没再碰了。不过，参加厨艺课程的过程还是很有趣的，毕竟能亲手体验当地料理的制作过程，也是一种难得的旅行体验。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ecf6911723fd212af6fd9e57f2e1e6c9.jpg)
+![传统印尼料理：](https://images.gobaligo.id/vocus/vocus_ecf6911723fd212af6fd9e57f2e1e6c9.jpg)
 
 **快速参考：**
 
@@ -161,7 +161,7 @@ https://youtu.be/NEnIZjZnrTk
 
 除了正餐，巴厘岛的零食也让我非常惊喜！尤其是「椰子脆片」，这绝对是我这次旅行中最爱的零食之一。椰子脆片是用新鲜椰子烘干制成，口感酥脆，带有天然的椰子香甜，而且完全不油腻，吃起来非常清爽。我们在当地超市买了好几包带回家，结果还没回台湾就被我吃光了🤣。如果你也喜欢椰子风味的零食，千万不要错过这个！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3ea8ffe66b2a6770faffd5da33e37e49.png)
+![零食](https://images.gobaligo.id/vocus/vocus_3ea8ffe66b2a6770faffd5da33e37e49.png)
 
 这里有介绍：[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/blog/bali-souvenirs-gift-guide/)
 
@@ -195,7 +195,7 @@ https://youtu.be/NEnIZjZnrTk
 
 这次巴厘岛的住宿体验让我深刻体会到，选择住宿地点和周边环境的重要性。以下是我对这次住宿的一些心得分享，希望能帮助大家在规划行程时做出更适合的选择。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a547a653ea0227a0f9908d938d74da36.jpg)
+![住宿](https://images.gobaligo.id/vocus/vocus_a547a653ea0227a0f9908d938d74da36.jpg)
 
 ### 蚊子问题：
 
@@ -215,7 +215,7 @@ https://youtu.be/NEnIZjZnrTk
 
 因此，**建议大家在选择住宿时，一定要考虑周边的便利性**。如果你喜欢热闹的氛围，可以选择住在库塔（Kuta）、水明漾（Seminyak）或乌布（Ubud）等闹市区，这些地方不仅餐厅和商店多，晚上也有不少娱乐活动。如果你选择住在比较偏远的Villa或度假村，就要做好心理准备，可能需要依赖Grab外卖或包车服务来解决日常需求。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0391757a9b3ffecaea7406bc888c42e0.jpg)
+![住宿地点的选择：](https://images.gobaligo.id/vocus/vocus_0391757a9b3ffecaea7406bc888c42e0.jpg)
 
 ### 住宿的心得：
 
@@ -229,7 +229,7 @@ https://youtu.be/NEnIZjZnrTk
 
 您觉得I-Hsuan Chang他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![住宿的心得：](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 点击这里观看更多巴厘岛精彩游记
 

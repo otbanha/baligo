@@ -190,7 +190,7 @@ Located at high altitude in the north, the climate is cool and refreshing, offer
 
 ### 15. Pura Ulun Danu Bratan
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781497269627-ulun-danu-bratan.webp)
+![15. Pura Ulun Danu Bratan](https://images.gobaligo.id/images/2026-06/1781497269627-ulun-danu-bratan.webp)
 
 Surrounded by ethereal mist and the serene Lake Bratan, the temple appears to float gracefully on the water when the lake rises. The cool climate and picturesque scenery evoke a sense of otherworldly tranquility.
 

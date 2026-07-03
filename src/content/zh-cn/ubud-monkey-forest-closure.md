@@ -27,7 +27,7 @@ _srcHash: c0142a43ae4a99aa0990567724888d6d
 
 巴厘岛乌布著名的**圣猴森林（Monkey Forest）**，因发生一起令人痛心的悲剧，现已无限期关闭。这座以其自然美景和调皮猴群闻名的景点，如今变得异常冷清。这起事件不仅引发了各界对旅游安全的关注，也迫使管理方加速检视安全措施，确保游客未来的安全。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fbf73a2a2f0e51c20cfab84446f04bd0.jpg)
+![乌布圣猴森林无限期关闭：游客悲剧引发安全关注](https://images.gobaligo.id/vocus/vocus_fbf73a2a2f0e51c20cfab84446f04bd0.jpg)
 
 ## 悲剧事件：大树倒塌酿灾
 
@@ -43,7 +43,7 @@ _srcHash: c0142a43ae4a99aa0990567724888d6d
 
 根据森林管理方的说法，这次意外主要是由突发的极端天气所引发，而非管理疏忽。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_031cecfcd75e3044c50ff48bad7d4012.jpg)
+![官方声明：树木健康但风暴难以预防](https://images.gobaligo.id/vocus/vocus_031cecfcd75e3044c50ff48bad7d4012.jpg)
 
 ## 安抚受害者家属：保险赔偿及善后安排
 
@@ -88,7 +88,7 @@ _srcHash: c0142a43ae4a99aa0990567724888d6d
 
 旅客在规划前往巴厘岛时，特别是在雨季期间，务必注意当地的天气警报，并选择合适的时间参观各大景点。相信在管理方的努力下，圣猴森林将会以更安全、更完善的面貌重新迎接游客。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_40badc67ca4389e98047c26489ef7ac6.jpg)
+![结语：圣猴森林的未来展望](https://images.gobaligo.id/vocus/vocus_40badc67ca4389e98047c26489ef7ac6.jpg)
 
 **小提醒**：若您近期计划前往巴厘岛，请密切关注天气动态及景点最新公告，安全旅游最重要！
 

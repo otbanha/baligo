@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: 55d6fb0886aeed9eaa17e2e3e67e4d4d
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_627a552e98d467b4caa36da0295751e2.png)
+![【而家去最好！？】峇里島邊個月去最舒服？](https://images.gobaligo.id/vocus/vocus_627a552e98d467b4caa36da0295751e2.png)
 
 峇里島氣候怡人，適合全年旅遊，但若果要搵最舒服嘅氣溫同最佳嘅旅遊體驗，以下幾個月份係特別推薦嘅：
 
@@ -30,7 +30,7 @@ _srcHash: 55d6fb0886aeed9eaa17e2e3e67e4d4d
 
 ## 較唔適合旅遊嘅月份：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_46b1a5a9acc6fba7b99b110ac1aff8ee.png)
+![較唔適合旅遊嘅月份：](https://images.gobaligo.id/vocus/vocus_46b1a5a9acc6fba7b99b110ac1aff8ee.png)
 
 **十二月到三月**：
 
@@ -40,7 +40,7 @@ _srcHash: 55d6fb0886aeed9eaa17e2e3e67e4d4d
 
 延伸閱讀：[峇里島雨季月份/降雨機率/降雨天數/平均氣溫/適合旅遊指數...大解析](/blog/bali-rainy-season-travel-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc7919a88322f5be4a88faea86280d81.png)
+![較唔適合旅遊嘅月份：](https://images.gobaligo.id/vocus/vocus_bc7919a88322f5be4a88faea86280d81.png)
 
 ## 旅遊旺季
 

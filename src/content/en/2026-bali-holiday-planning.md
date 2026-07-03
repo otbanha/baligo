@@ -19,7 +19,7 @@ _srcHash: 215ca870e14fe17134b1f2b8c9d4f853
 ---
 🗓️ 2026 First Half Vacation Strategy
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_189c099579ec5d31c727bf21e29776a1.png)
+![2026 Public Holiday Guide: Maximize Your Time Off in the Fir](https://images.gobaligo.id/vocus/vocus_189c099579ec5d31c727bf21e29776a1.png)
 
 - **Qingming Holiday**: Take 3 days off (3/31-4/2) and enjoy a 9-day trip!
 - **Labor Day**: Take 4 days off (4/27-4/30) for a 9-day holiday exclusive to workers!
@@ -36,7 +36,7 @@ _srcHash: 215ca870e14fe17134b1f2b8c9d4f853
 - **Local Events**: April 3rd is Good Friday, and April 5th is Easter, both Indonesian public holidays. While locals are off, tourists can enjoy fewer crowds.
 - **Budget Analysis**: Airfare and accommodations often see a slight dip post-Eid al-Fitr, offering great value. (Check out our accommodation recommendations here)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_298e8da8b8949ce68b9c9a6ea180e1af.png)
+![【Top Value Pick】April Qingming Holiday — A Spiritual Retreat](https://images.gobaligo.id/vocus/vocus_298e8da8b8949ce68b9c9a6ea180e1af.png)
 
 ### 📍 【Ultimate Relaxation】May Labor Day — A Global South Island Escape
 
@@ -74,7 +74,7 @@ Uluwatu Guide: [50 Attractions Introduction](https://s.id/uluwatu_guide)
 
 - During the Galungan Festival, towering Penjor decorations will be erected along the main streets of Ubud, presenting a spectacular and rare sight! It's also a great time to explore [100 Attractions in Ubud](https://s.id/ubud100)!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4b32bc60b0a1fe9787825097f68cb2e8.jpg)
+![Recommended Itinerary](https://images.gobaligo.id/vocus/vocus_4b32bc60b0a1fe9787825097f68cb2e8.jpg)
 
 June is the perfect time for water activities! That's when our guide comes in handy: [Complete Guide to Water Activities in Bali | Bali is More Than Just Snorkeling! 15 Unexpected Water Adventures](/blog/2026-bali-water-activities/)
 

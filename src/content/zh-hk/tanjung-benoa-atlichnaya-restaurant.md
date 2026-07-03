@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: a33e6f46bb67db97ecc619d69d4f5bc4
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_38647df609dcb467b362b277fb732075.jpg)
+![峇里島/南灣區Tanjung Benoa最正嘅高性價比平價餐廳 Atlichnaya](https://images.gobaligo.id/vocus/vocus_38647df609dcb467b362b277fb732075.jpg)
 
 當你喺南灣區或者努沙杜瓦，絕對唔可以錯過「Atlichnaya」呢間令人讚嘆嘅平價餐廳。呢個隱藏喺街角嘅寶藏，以其卓越嘅美味、友好嘅氛圍同驚人嘅性價比而聞名於遊客之間。係南灣區/努沙杜瓦一帶值得推薦嘅美食餐廳。
 

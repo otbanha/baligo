@@ -20,7 +20,7 @@ _srcHash: b79d63fc31e0514c1755a7e7dfae14db
 
 如果你都想 **好似本地人咁食夜市**，而唔係淨係去觀光客聚集嘅餐廳，呢個導覽絕對係峇里島夜間美食嘅最佳選擇！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ea323f4078c731906c6a3114fb1178fa.png)
+![峇里島最大夜市美食體驗記：跟住本地中文導遊食勻Kreneng夜市嘅地道美食](https://images.gobaligo.id/vocus/vocus_ea323f4078c731906c6a3114fb1178fa.png)
 
 「小心銀包呀！」Wayan用流利嘅中文提醒我，同時熟門熟路咁帶我鑽入Kreneng夜市嘅一條狹窄巷弄。呢位純正峇里島人導遊因為識講中文，令到我嘅夜市探險少咗語言障礙，多咗份親切感。
 
@@ -30,19 +30,19 @@ _srcHash: b79d63fc31e0514c1755a7e7dfae14db
 
 跟住Wayan逼到一個唔起眼嘅攤檔前，金黃酥脆嘅乳豬掛喺鐵鉤上閃住油光。「呢間嘅香料配方傳咗三代，」佢邊講邊幫我點咗一份「特別版」——豬皮、嫩肉、血腸嘅三拼組合。第一啖咬落酥脆嘅豬皮，咖哩葉、薑黃、辣椒等十幾種香料製成嘅醃料喺口中爆發，配搭埋當地特有嘅辣醬，令我瞬間明白點解呢個可以成為峇里島嘅代表美食。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_31ffd4da7ba0ffb218659fcdd49a1f74.png)
+![第一站：峇里島嘅靈魂美食——Babi Guling烤乳豬](https://images.gobaligo.id/vocus/vocus_31ffd4da7ba0ffb218659fcdd49a1f74.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3083e857526af6af07f3a45bb0469e4e.png)
+![第一站：峇里島嘅靈魂美食——Babi Guling烤乳豬](https://images.gobaligo.id/vocus/vocus_3083e857526af6af07f3a45bb0469e4e.png)
 
 ## **穿梭喺夜市嘅驚喜：Soto Ayam同街角沙嗲**
 
 轉咗幾個彎，Wayan帶我坐喺膠矮凳度，食一碗熱辣辣嘅Soto Ayam（雞湯麵）。湯頭清澈但係味道好濃，唧啲青檸落去更加鮮活。正當我讚嘆緊嗰陣，導遊變魔術咁遞咗幾串啱啱燒好嘅沙嗲過嚟，「呢檔嘅老闆凌晨三點就開始準備，肉都用椰糖醃過。」炭火香味包住甜鹹交錯嘅肉塊，點上濃郁嘅花生醬，完美演繹咗印尼嘅街頭美食。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cafb990e508f0238d54c4f97d183eebc.png)
+![穿梭喺夜市嘅驚喜：Soto Ayam同街角沙嗲](https://images.gobaligo.id/vocus/vocus_cafb990e508f0238d54c4f97d183eebc.png)
 
 ## **甜品巡禮：熱帶水果同色彩繽紛嘅傳統點心**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f5c3127af2f536eecf8cd7936437f8fe.png)
+![甜品巡禮：熱帶水果同色彩繽紛嘅傳統點心](https://images.gobaligo.id/vocus/vocus_f5c3127af2f536eecf8cd7936437f8fe.png)
 
 夜市後半段簡直係甜食愛好者嘅天堂！Wayan幫我揀咗蛇皮果、山竹同紅毛丹組成嘅水果拼盤，仲買咗Jaja Bali——用椰糖同糯米整成嘅傳統糕點。最難忘係即場做嘅Martabak，厚實嘅煎餅夾住融化咗嘅朱古力同芝士，切開嗰陣仲會拉絲，甜到令人罪惡但又好幸福。
 
@@ -56,7 +56,7 @@ _srcHash: b79d63fc31e0514c1755a7e7dfae14db
 
 四個鐘頭嘅味蕾探險結束時，Wayan遞嚟冰涼嘅礦泉水，仲確認我嘅接送細節。回程車上，我翻睇啲相：冒煙嘅燒烤架、Wayan同攤販熟絡嘅互動、啲我永遠記唔住名嘅香料...先至發覺，原來最好嘅旅行回憶，往往藏喺最地道嘅市井氣息入面。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f06b1bbbf3bdf574ade0a94ac639c920.png)
+![文化觀察：最真實嘅峇里島夜晚](https://images.gobaligo.id/vocus/vocus_f06b1bbbf3bdf574ade0a94ac639c920.png)
 
 ## **實用資訊：**
 

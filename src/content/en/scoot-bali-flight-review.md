@@ -37,7 +37,7 @@ _srcHash: b09f2097c8a001eeb313bbb3e5a8f281
 
 Scoot's flight list from Taoyuan to Bali via Singapore has sparked much discussion on social media recently. For travelers seeking great value or wanting to enjoy a 'half-day tour' at Changi Airport, these budget transit tickets are indeed attractive.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775280100984-airport-4120835_960_720.jpeg)
+![Cheap flights cure all? Scoot's Bali transit flights analyze](https://images.gobaligo.id/images/2026-04/1775280100984-airport-4120835_960_720.jpeg)
 
 Below, we've compiled insights and pros/cons analysis from our Facebook group members, providing reference for those considering these flights:
 

@@ -19,7 +19,7 @@ _srcHash: f9ce2d07ffb00c7e6459e72f160ae40d
 
 峇里島，呢個印尼最出名嘅旅遊勝地，可能好快就會有一個全新嘅旅遊景點——賭場。呢個消息真係嚇親好多人，因為喺印尼，賭博幾乎所有形式都係犯法嘅。不過，提出呢個計劃嘅人認為，賭場有可能為峇里島嘅旅遊業注入新嘅活力。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5b78330cd9efd740214a865ffa087058.jpg)
+![峇里島將會開設大型賭場嚟促進旅遊業!?](https://images.gobaligo.id/vocus/vocus_5b78330cd9efd740214a865ffa087058.jpg)
 
 ## 賭場計劃嘅背景
 
@@ -61,7 +61,7 @@ _srcHash: f9ce2d07ffb00c7e6459e72f160ae40d
 
 要實現賭場計劃，需要印尼政府同立法機構嘅大力支持同合作。呢個涉及到對現行法律嘅修訂，以及對公眾意見嘅管理同引導。雖然呢個過程充滿挑戰，但如果能夠成功，將會為峇里島嘅旅遊業帶來巨大變革。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5f10bd6525e738e9939687ccc4589d35.jpg)
+![法律變更嘅可能性](https://images.gobaligo.id/vocus/vocus_5f10bd6525e738e9939687ccc4589d35.jpg)
 
 ## 賭場對峇里島旅遊業嘅影響
 

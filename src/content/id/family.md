@@ -28,7 +28,7 @@ lang: id
 _srcHash: 3007240e5e966ffdc403079d1a5664db
 ---
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774870755237-e6b7f45d429dc39d54ecae13ff2c6401.jpg)
+![【2026 Liburan Sekolah di Bali】Panduan Liburan Bareng Anak & ](https://images.gobaligo.id/images/2026-03/1774870755237-e6b7f45d429dc39d54ecae13ff2c6401.jpg)
 
 Setiap liburan sekolah tiba, yang paling sering ditanyain: **"Juli, Agustus ke Bali, cuacanya beneran enak nggak sih?"**
 
@@ -56,7 +56,7 @@ Kalau soal pilihan daerah, tiga tempat ini paling direkomendasiin:
 
 ### 📍 Sanur
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774867127299-_.jpeg)
+![Sanur](https://images.gobaligo.id/images/2026-03/1774867127299-_.jpeg)
 
 Sanur itu daerah yang sering kelewat, padahal cocok banget buat liburan keluarga. Ombaknya tenang, pantainya bersih, nggak ada keramaian pesta kayak di Seminyak. Kamu bisa jalan kaki ke pantai, dan malamnya juga adem. Kalau ada anak kecil atau orang tua ikut, Sanur jadi pilihan yang bikin tenang.
 
@@ -64,7 +64,7 @@ Sanur itu daerah yang sering kelewat, padahal cocok banget buat liburan keluarga
 
 ### 📍 Seminyak
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774867278224-cassie-gallegos-6wcwcpwmrjy.jpeg)
+![Seminyak](https://images.gobaligo.id/images/2026-03/1774867278224-cassie-gallegos-6wcwcpwmrjy.jpeg)
 
 Keunggulan Seminyak itu "semua ada" — belanja, restoran, beach club, resor berkualitas, lengkap. Kalau orang tua juga pengen punya waktu sendiri, nggak mau semua kegiatan cuma muter di anak, Seminyak bisa nampung kebutuhan orang dewasa dan anak-anak.
 
@@ -72,7 +72,7 @@ Keunggulan Seminyak itu "semua ada" — belanja, restoran, beach club, resor ber
 
 ### 📍 Ubud
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774867612552-tegerarang.jpeg)
+![Ubud](https://images.gobaligo.id/images/2026-03/1774867612552-tegerarang.jpeg)
 
 Ubud menawarkan pengalaman yang benar-benar berbeda. Di sini tidak ada pantai, yang ada adalah sawah terasering, budaya, hutan, dan segudang aktivitas keluarga—bahkan banyak anak-anak yang lebih betah di Ubud daripada di pantai, karena terlalu banyak hal seru yang bisa mereka lakukan.
 
@@ -88,7 +88,7 @@ Kelebihan panduan ini adalah aktivitasnya sudah dikelompokkan berdasarkan tingka
 
 ### 📍 Nusa Dua
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775130814476-2893e5d6-29ad-4199-8041-45c2ab39bf47.jpg)
+![Nusa Dua](https://images.gobaligo.id/images/2026-04/1775130814476-2893e5d6-29ad-4199-8041-45c2ab39bf47.jpg)
 
 Nusa Dua adalah pilihan utama liburan keluarga paling santai di Bali. Ini adalah kawasan resor tertutup dengan jalan yang lebar dan rapi, lingkungan yang super aman dan tenang—cocok banget buat jalan-jalan sambil dorong stroller. Ombak di pantainya juga landai, jadi anak-anak bisa bermain pasir dan air dengan aman. Selain itu, hotel-hotel bintang lima di sini kebanyakan punya kids club dan fasilitas bermain air yang lengkap, jadi begitu masuk hotel, seluruh keluarga bisa langsung menikmati liburan tanpa harus keluar.
 
@@ -100,7 +100,7 @@ Nusa Dua adalah pilihan utama liburan keluarga paling santai di Bali. Ini adalah
 
 Liburan musim panas kadang jadi momen kumpul tiga generasi — kakek-nenek ikut serta, dan tingkat kesulitan merencanakan itinerary pun naik drastis.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774867740868-a8b2ff7d-d160-4baf-ac89-271e79e94a80.png)
+![Ada orang tua ikut? Baca dua artikel ini dulu](https://images.gobaligo.id/images/2026-03/1774867740868-a8b2ff7d-d160-4baf-ac89-271e79e94a80.png)
 
 Yang paling diperhatikan orang tua biasanya: jalannya enak apa nggak, kepanasan nggak, perlu naik banyak tangga nggak, dan gimana kalau tiba-tiba sakit.
 Kami sudah siapkan dua artikel khusus buat kebutuhan ini:
@@ -117,7 +117,7 @@ Tinggal serumah bareng tiga generasi — itu baru namanya kumpul keluarga!
 
 Kalau liburan musim panas ini kamu bareng tiga generasi atau beberapa keluarga, daripada booking 2-3 kamar hotel, **sewa villa pribadi** sebenarnya pilihan yang lebih cerdas dan lebih perhatian.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774868006588-e1895231-3a0b-477a-a1ae-cb01fbf71399.png)
+![Rekomendasi Utama Liburan Keluarga: Sewa Villa Pribadi](https://images.gobaligo.id/images/2026-03/1774868006588-e1895231-3a0b-477a-a1ae-cb01fbf71399.png)
 
 Kenapa gitu? Karena keuntungan sewa villa pribadi jauh lebih banyak dari yang kamu bayangin:
 
@@ -139,7 +139,7 @@ Pilihan villa pribadi di Bali banyak banget, dari 3 kamar sampai 6 kamar lebih. 
 
 Terakhir, ada promo terbatas buat yang lagi pertimbangkan hotel/resor mewah. Cek yuk.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774868228560-543684090.jpg)
+![Resor Bintang Lima](https://images.gobaligo.id/images/2026-03/1774868228560-543684090.jpg)
 
 The Apurva Kempinski Bali (Bali) yang berlokasi di Nusa Dua lagi ada promo terbatas. **Kamar Grand Deluxe mulai dari USD$317 per malam**, sudah termasuk pajak, sarapan untuk dua orang, plus gratis sekali minum teh sore untuk dua orang. Kalau booking lewat customer service kami, dapet bonus tambahan berupa pajak wisata Bali.
 

@@ -21,7 +21,7 @@ _srcHash: d7662a688d1f4fccdecbd7e401f29844
 ---
 As an Indonesian Chinese YouTuber, VY Journey (Bing Bing and Jing Jing) embarked on a trip to Lovina Beach in northern Bali, Indonesia. Through this video, she vividly documented the entire journey from her own perspective.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_43ea8b73cf8a96d8efa3ca1b7c584d45.jpg)
+![Bali Lovina Dolphin Watching Travel Diary](https://images.gobaligo.id/vocus/vocus_43ea8b73cf8a96d8efa3ca1b7c584d45.jpg)
 
 At the start, she explained that the main reason for visiting Lovina was the hope of witnessing the famed dolphins in the wild. To make this dream come true, she specially arranged a two-day, one-night stay here.
 

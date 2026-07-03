@@ -24,7 +24,7 @@ _srcHash: 00c8e3f6eb9fbe4a8796b7201dd4a648
 
 ## **Banyak yang nanya: perlu dicetak nggak sih?**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1ff5703b8036ffd6acb543380c8cc3dc.png)
+![Banyak yang nanya: perlu dicetak nggak sih?](https://images.gobaligo.id/vocus/vocus_1ff5703b8036ffd6acb543380c8cc3dc.png)
 
 Pas liburan ke Bali, dokumen wajib yang harus dibawa antara lain:
 
@@ -112,7 +112,7 @@ Nggak perlu, hitam putih aja udah cukup, asal jelas terbaca.
 
 ## 📩 **Penjelasan Halaman Depan 'Panduan Wisata Bali'**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
+![Penjelasan Halaman Depan 'Panduan Wisata Bali'](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

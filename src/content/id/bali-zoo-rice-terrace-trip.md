@@ -35,13 +35,13 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 Ini pertama kalinya aku ke Bali, sih. Meskipun cuma empat hari, tapi perjalanan ini penuh kejutan dan momen mengharukan. Makasih banget buat para senior yang udah kasih saran berharga waktu aku tanya di forum online September tahun lalu — bikin itinerary jadi makin lancar. Buat balas budi, aku mau share review dan rekomendasi lengkap perjalanan ini, semoga bisa jadi referensi buat kalian yang rencana ke Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8e1544abfb771aab905ac4e995e041bd.jpg)
+![Tanggal Perjalanan: 6-9 Februari 2025](https://images.gobaligo.id/vocus/vocus_8e1544abfb771aab905ac4e995e041bd.jpg)
 
 ---
 
 ## 1. **Mara River Safari Lodge: Pengalaman Unik Tidur Bareng Satwa**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b29252ee62cf7e762ff1f447761b8fa7.jpg)
+![1. Mara River Safari Lodge: Pengalaman Unik Tidur Bareng Sat](https://images.gobaligo.id/vocus/vocus_b29252ee62cf7e762ff1f447761b8fa7.jpg)
 
 Di perjalanan ini, anakku yang 7 tahun paling suka **Mara River Safari Lodge**. Ini resort di dalam kebun binatang, tinggal di sini nggak cuma praktis, tapi juga bisa lihat satwa dari dekat. Setiap pagi, kami sarapan sambil lihat singa dari balik kaca — pengalaman yang super spesial. Singa-singa itu kayaknya udah biasa sama tatapan pengunjung, mereka selalu pose di tempat yang sama, kayak lagi 'foto bareng' aja. Anakku nggak bisa lepas pandangan, excited banget.
 
@@ -57,7 +57,7 @@ Selain itu, naik mobil wisata juga gampang banget, bisa lihat berbagai satwa den
 
 ## 2. **Pura Ulun Danu Beratan: Tempat Spiritual yang Damai dan Menenangkan**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bbe079ae357378ab17d4b8d0b2fcadd3.jpg)
+![2. Pura Ulun Danu Beratan: Tempat Spiritual yang Damai dan M](https://images.gobaligo.id/vocus/vocus_bbe079ae357378ab17d4b8d0b2fcadd3.jpg)
 
 Buat para orang tua yang udah 70 tahun ke atas, **Pura Ulun Danu Beratan** adalah tempat paling bikin mereka rileks. Suasananya adem banget, dikelilingi pegunungan, air danau tenang kayak cermin, angin sepoi-sepoi bikin hati adem. Kita jalan santai di sini sambil ngopi, nikmatin ketenangan alam yang bikin betah. Pemandangan kabut di pegunungan bikin kita serasa di negeri dongeng. Orang tua suka banget sama vibe yang jauh dari keramaian ini, mereka bilang ini tempat yang pas buat bener-bener relaksasi jiwa.
 
@@ -67,7 +67,7 @@ Buat para orang tua yang udah 70 tahun ke atas, **Pura Ulun Danu Beratan** adala
 
 ## 3. **Pura Tanah Lot: Keajaiban Tebing Karang yang Megah**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e939c789a7f931dc80650833c7e66e7c.jpg)
+![3. Pura Tanah Lot: Keajaiban Tebing Karang yang Megah](https://images.gobaligo.id/vocus/vocus_e939c789a7f931dc80650833c7e66e7c.jpg)
 
 **Pura Tanah Lot** adalah salah satu ikon Bali yang wajib dikunjungi. Tebing karang dan platform batu di sini keren banget, sesuai banget sama ekspektasi kita soal Bali. Meskipun sinar matahari di pantai agak panas, tapi liat ombak yang menghantam karang tuh bikin kita speechless. Saran buat kalian yang mau ke sini, bawa topi atau payung, dan mending datang pas sore hari biar nggak kepanasan sambil nikmatin sunset yang cantik.
 
@@ -79,7 +79,7 @@ Buat para orang tua yang udah 70 tahun ke atas, **Pura Ulun Danu Beratan** adala
 
 ## 4. **Ayunan di Sawah Terasering: Aktivitas Seru untuk Semua Usia**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8dd0485bc0845aba22d505edb90a5413.jpg)
+![4. Ayunan di Sawah Terasering: Aktivitas Seru untuk Semua Us](https://images.gobaligo.id/vocus/vocus_8dd0485bc0845aba22d505edb90a5413.jpg)
 
 Pemandangan sawah terasering di Bali emang terkenal banget. Kita milih spot sawah yang ada ayunannya, di sini nggak cuma cocok buat foto-foto, tapi juga seru buat anak-anak dan orang tua. Anak-anak lari-larian di antara sawah, naik turun, full energy release. Sementara orang tua duduk santai, nikmatin pemandangan hijau sawah yang asri sambil merasakan angin sepoi-sepoi. Suasananya santai banget, cocok buat quality time sekeluarga.
 
@@ -91,7 +91,7 @@ Pemandangan sawah terasering di Bali emang terkenal banget. Kita milih spot sawa
 
 ## 5. **Pura Tirta Empul: Kejutan Ganda dari Ritual Pembersihan dan Istana Presiden**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f849d9c235d59a137fbef5de65d6f96.jpg)
+![5. Pura Tirta Empul: Kejutan Ganda dari Ritual Pembersihan d](https://images.gobaligo.id/vocus/vocus_4f849d9c235d59a137fbef5de65d6f96.jpg)
 
 **Pura Tirta Empul** adalah tempat yang penuh dengan nuansa religius. Di sini, kami melihat banyak penduduk setempat melakukan ritual mandi suci, suasananya sangat khidmat dan unik. Tapi kalau dibandingkan dengan ritual mandi itu, aku pribadi lebih tertarik sama istana presiden di atas bukit. Bangunannya penuh sejarah, lingkungan sekitarnya juga super indah, worth it banget buat dinikmati pelan-pelan.
 
@@ -103,7 +103,7 @@ Pemandangan sawah terasering di Bali emang terkenal banget. Kita milih spot sawa
 
 ## 6. **Jalan Tebing: Pemandangan Spektakuler & Tips Transportasi**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b589b4f1505f339f21868993d57b2ec4.jpg)
+![6. Jalan Tebing: Pemandangan Spektakuler & Tips Transportasi](https://images.gobaligo.id/vocus/vocus_b589b4f1505f339f21868993d57b2ec4.jpg)
 
 Pemandangan **Jalan Tebing** ini keren banget, tapi karena pernah longsor beberapa waktu lalu—meski sekarang sudah diperbaiki dengan baik—tetap disarankan naik shuttle aja. Selain itu, sinar matahari di sini terik banget, jangan lupa bawa topi atau pelindung biar nggak gosong.
 
@@ -117,7 +117,7 @@ Pemandangan **Jalan Tebing** ini keren banget, tapi karena pernah longsor bebera
 
 ## 7. **Garuda Wisnu Kencana Cultural Park: Megah Tapi Agak Sepi**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9ff7c54eabc3f3383b36804884d88bd9.jpg)
+![7. Garuda Wisnu Kencana Cultural Park: Megah Tapi Agak Sepi](https://images.gobaligo.id/vocus/vocus_9ff7c54eabc3f3383b36804884d88bd9.jpg)
 
 **Garuda Wisnu Kencana Cultural Park (GWK)** luas banget areanya, yang paling mencolok ya patung Garuda Wisnu yang raksasa—tinggi dan skalanya benar-benar bikin takjub. Dari bandara aja udah keliatan patung ini, kebayang kan seberapa megahnya? Sayangnya, fasilitas di taman ini masih kurang lengkap, terasa agak hampa. Saran buat yang mau ke sini, mampir sebentar aja buat lihat patungnya, terus lanjut ke tempat lain.
 
@@ -131,7 +131,7 @@ Pemandangan **Jalan Tebing** ini keren banget, tapi karena pernah longsor bebera
 
 Kesuksesan perjalanan kali ini sebagian besar berkat sopir sewa kami, **Xiao Wu**, dan istrinya, **Betty Pingky**. Karena kami berlima plus bawa banyak barang, Xiao Wu sengaja nyiapin mobil besar biar perjalanan tetap nyaman. Teknik nyetirnya sangat stabil, nggak ada rem mendadak atau hentakan—anak-anak dan orang tua yang lagi pilek jadi bisa istirahat enak di mobil.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3143a1eb899bf827d37ad8851ac6b8d4.jpg)
+![8. Sopir Sewa: Pahlawan di Balik Perjalanan](https://images.gobaligo.id/vocus/vocus_3143a1eb899bf827d37ad8851ac6b8d4.jpg)
 
 Selain itu, Xiao Wu hafal banget sama kondisi jalan di Bali, jago banget hindari jam macet dan rute padat, bikin itinerary kami makin lancar. Mau itu orang tua yang kebelet pipis, atau anak-anak yang terus nanya 'sampai belum?', dia selalu pas sampai tujuan, bikin suasana keluarga tetap harmonis. Bahasa Mandarinnya lancar banget, intonasinya juga standar, bisa ngobrol santai sama orang tua dan anak-anak—bikin perjalanan makin hangat.
 
@@ -149,7 +149,7 @@ Selama perjalanan ini, kami hampir nggak ketemu macet sama sekali, bikin aku kag
 
 Faktor-faktor ini bikin perjalanan kami makin lancar, dan bikin kesan aku ke Bali makin naik drastis.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1adbe54df9466ee492b287cdb8e6abf7.jpg)
+![9. Kenapa Nggak Macet Sama Sekali?](https://images.gobaligo.id/vocus/vocus_1adbe54df9466ee492b287cdb8e6abf7.jpg)
 
 ---
 
@@ -192,7 +192,7 @@ Perjalanan ke Bali kali ini bikin sekeluarga kami punya kenangan indah, nggak sa
 
 Kamu pikir itinerary-nya Chingju Wang seru banget? Yuk, segera atur liburan Bali versi kamu sendiri! Jangan lupa juga kirim itinerary kamu ke grup ya!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3caf2926cda5d39d3255d7ffe5d141cf.jpg)
+![Rekomendasi & Saran](https://images.gobaligo.id/vocus/vocus_3caf2926cda5d39d3255d7ffe5d141cf.jpg)
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 

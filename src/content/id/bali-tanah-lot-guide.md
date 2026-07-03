@@ -34,7 +34,7 @@ _srcHash: aa2ba4e3a3c479b100b45eed2ae9dd5a
 
 Terletak di kawasan Tabanan, Bali, Pura Tanah Lot berdiri di atas pulau karang di tengah laut, jadi salah satu ikon religi paling ikonik di Bali. Di sini kamu nggak cuma bisa menikmati sunset yang spektakuler dan deburan ombak yang menghantam karang, tapi juga banyak aktivitas seru yang bikin wisatawan dari seluruh dunia penasaran buat explore. Artikel ini bakal ngebahas tuntas sejarah Pura Tanah Lot, aktivitas seru, info pasang surut, dan rekomendasi penginapan, biar liburanmu ke Bali makin berkesan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_36a21198d37ccb139f68e96a327f9b33.jpg)
+![Bali Travel Wajib Kunjungi: Panduan Lengkap Pura Tanah Lot, ](https://images.gobaligo.id/vocus/vocus_36a21198d37ccb139f68e96a327f9b33.jpg)
 
 ## 1. Latar Belakang Sejarah & Makna Religi Pura Tanah Lot
 
@@ -44,7 +44,7 @@ Arsitektur Pura Tanah Lot simpel tapi penuh kekuatan, apalagi pas air laut pasan
 
 > Baca Juga: [Kalender Festival Bali 2026](/blog/2026-bali-festival-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_71c5ba824a21ebf14225e1a786a733aa.jpg)
+![1. Latar Belakang Sejarah & Makna Religi Pura Tanah Lot](https://images.gobaligo.id/vocus/vocus_71c5ba824a21ebf14225e1a786a733aa.jpg)
 
 ## 2. Aktivitas Seru di Pura Tanah Lot
 
@@ -57,7 +57,7 @@ Pura Tanah Lot bukan cuma tempat buat lihat bangunan kuno, tapi juga menawarkan 
 3. **Abadikan Momen Dreamy Sunset & Pura Tanah Lot**
    Sunset di Pura Tanah Lot dianggap salah satu yang terbaik di Bali. Saat matahari perlahan tenggelam ke laut, seluruh pura berubah warna keemasan, menciptakan suasana tenang dan romantis. Buat dapetin spot terbaik menikmati Golden Sunset, disarankan datang lebih awal dan cari sudut pandang yang pas. Momen ini jadi incaran para fotografer, waktu yang pas banget buat jepret.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a57c3676b33b851b9c8fdcfbbc097fe1.jpg)
+![2. Aktivitas Seru di Pura Tanah Lot](https://images.gobaligo.id/vocus/vocus_a57c3676b33b851b9c8fdcfbbc097fe1.jpg)
 
 ## 3. Tips Wisata: Info Tiket, Cek Pasang Surut & Penginapan Sekitar
 
@@ -85,7 +85,7 @@ Waktu terbaik buat ngunjungin Pura Tanah Lot biasanya tergantung pasang surut ai
 
 Yang perlu diingat, pas jam sibuk matahari terbenam pasti rame banget. Kalau mau hindari keramaian, mending datang lebih awal.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_185691fff7731298c075e2955186123d.jpg)
+![3. Tips Wisata: Info Tiket, Cek Pasang Surut & Penginapan Se](https://images.gobaligo.id/vocus/vocus_185691fff7731298c075e2955186123d.jpg)
 
 Canggu, yang paling deket sama Tanah Lot, jadi basecamp paling oke buat eksplorasi. Buat referensi nginep di Canggu, cek aja:
 
@@ -94,7 +94,7 @@ Canggu, yang paling deket sama Tanah Lot, jadi basecamp paling oke buat eksplora
 
 ## 4. Kuliner di Pura Tanah Lot
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cbceb95c5a97b14017e87cfe8554cc73.png)
+![4. Kuliner di Pura Tanah Lot](https://images.gobaligo.id/vocus/vocus_cbceb95c5a97b14017e87cfe8554cc73.png)
 
 Tepat di tepi pantai Pura Tanah Lot, ada restoran yang nawarin pengalaman makan sambil nikmatin sunset paling spesial di Bali. Info lengkap dan reservasi [bisa lihat di sini](https://affiliate.klook.com/redirect?aid=116349&aff_adid=940010&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94323-de-jukung-resto-and-bar-tanah-lot-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad47504c12).
 

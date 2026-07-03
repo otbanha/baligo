@@ -44,7 +44,7 @@ Batu Barak Beach is located in the Uluwatu area of southern Bali, specifically i
 
 This coastal road is called the 'Blue Road' because the limestone cliffs contrast beautifully with the azure sky, creating a stunning scene. Especially on a sunny day in Bali, the vivid blue of the sky and the earthy tones of the cliffs create a striking contrast, making it feel like a blue path to heaven. Since the road is flanked by steep cliffs, it's also known as 'Cliff Road.'
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_30197729f12704e67d5352e5ad465799.jpg)
+![Why is it called 'Blue Road' or 'Cliff Road'?](https://images.gobaligo.id/vocus/vocus_30197729f12704e67d5352e5ad465799.jpg)
 
 ***
 
@@ -59,7 +59,7 @@ This coastal road is called the 'Blue Road' because the limestone cliffs contras
 4. **Close to Pandawa Beach**:
    Batu Barak Beach is adjacent to Pandawa Beach, so you can easily walk between them and experience two different beach vibes in one trip.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b1c0bf1ebb9e5f22f466bcb222140ba6.jpg)
+![Highlights of Batu Barak / Tanah Barak](https://images.gobaligo.id/vocus/vocus_b1c0bf1ebb9e5f22f466bcb222140ba6.jpg)
 
 ***
 
@@ -101,7 +101,7 @@ This coastal road is called the 'Blue Road' because the limestone cliffs contras
    and ends around 6:00 PM
    When it's busy, it runs back and forth almost constantly.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b6cf778b678110c9505db7ed4ee0078b.jpg)
+![Travel Tips and Precautions](https://images.gobaligo.id/vocus/vocus_b6cf778b678110c9505db7ed4ee0078b.jpg)
 
 🏖️🪨🌊 Explore the stunning cliffs along the blue highway, where dramatic split landscapes make every shot an Instagram-worthy spot! ▶[Klook Deal](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F114124-tanah-barak-cliff-garuda-wisnu-kencana-malini-sunset-tour-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8aad5d46e9)
 
@@ -125,7 +125,7 @@ Tanah Barak and Pandawa Beach are actually closer to Nusa Dua or Sanur, two reso
 
 ## Klook Day Trip:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2d76fdef87ebfb732439f387b51af176.jpg)
+![Klook Day Trip:](https://images.gobaligo.id/vocus/vocus_2d76fdef87ebfb732439f387b51af176.jpg)
 
 Take a VW convertible tour of South Bali! Stops include Padang Padang and Pandawa beaches for stunning views, then head to Uluwatu Temple for sunset, followed by a seafood dinner in Jimbaran. Package includes pickup, driver, and fuel—no worries, just soak in the beauty of Bali!
 
@@ -141,9 +141,9 @@ In June 2024, we had lunch at [Icon Bali](/blog/icon-bali-shopping-mall-sanur/),
 
 June 2024 - Tanah Barak
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b817fd2283ce1fac2445b9fdb010dab.jpg)
+![Travel Notes:](https://images.gobaligo.id/vocus/vocus_0b817fd2283ce1fac2445b9fdb010dab.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c80da0118821fee582b6810af405631e.jpg)
+![Travel Notes:](https://images.gobaligo.id/vocus/vocus_c80da0118821fee582b6810af405631e.jpg)
 
 Later that same evening at White Rock Beach Club—everyone said it was amazing!
 

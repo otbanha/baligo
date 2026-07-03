@@ -25,7 +25,7 @@ _srcHash: 90e0e9d0c295236569a62c9418364712
 
 Kalau kamu lagi merencanakan liburan ke Bali, atau lagi di Indonesia, Gojek wajib banget jadi aplikasi andalanmu sehari-hari. Yuk, kita eksplor alat keren yang bikin hidup makin praktis ini, plus gimana dampaknya buat perjalananmu.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b1addd430f34b7a65092885063d5a3e5.jpg)
+![Di Indonesia/Bali, aplikasi yang wajib di-download: Panduan ](https://images.gobaligo.id/vocus/vocus_b1addd430f34b7a65092885063d5a3e5.jpg)
 
 ### **Gojek: Teman Hidup yang Praktis**
 

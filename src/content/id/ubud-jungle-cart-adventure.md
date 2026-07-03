@@ -25,7 +25,7 @@ _srcHash: b4f69323313ca2a78c24e581f3916bd7
 
 Jungle Cart kasih kamu pengalaman balap yang beda banget! Kamu bakal diajak melintasi hutan suci Bali, sawah, pura, dan desa tradisional Bali. Bukan cuma soal kecepatan dan tawa, tapi juga kesempatan buat merasakan keindahan alam dan budaya lokal.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a0cb8ab68e4f45ea3ddcc113fbc65860.jpg)
+![Siap-siap buat petualangan di hutan!](https://images.gobaligo.id/vocus/vocus_a0cb8ab68e4f45ea3ddcc113fbc65860.jpg)
 
 Aktivitas baru Jungle Cart Bali cuma ada tiga sesi sehari: pagi, siang, dan sore. Setiap sesi maksimal 17 orang. Nah, Jungle Cart Bali seru nggak sih? Worth it nggak? Ini dia pengalaman langsung dari Xiao Jie, yuk kita lihat ceritanya.
 
@@ -43,7 +43,7 @@ Setelah registrasi selesai, Jungle Cart Bali bakal jemput kamu pakai mobil khusu
 
 Setibanya di arena balap, staf akan bantu kamu pasang pelindung siku dan helm. Setelah semua siap, masuk ke sesi briefing. Di sini, instruktur akan jelasin cara operasi mobil dan aturan keamanan secara detail, biar setiap peserta bisa nikmatin petualangan jungle cart ini dengan aman dan seru banget.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_894219efac8b6d017c1fc0d5e1759e3a.jpg)
+![Sampai di Sirkus Balap](https://images.gobaligo.id/vocus/vocus_894219efac8b6d017c1fc0d5e1759e3a.jpg)
 
 Kamu bakal dapet bimbingan langsung dari instruktur profesional, belajar cara aman mengoperasikan Jungle Cart. Instruktur akan jelasin tips lintasan dan teknik nyetir secara lengkap, bantu kamu cepat kuasai dasar-dasarnya.
 
@@ -75,7 +75,7 @@ Semua orang kaget banget! Pada nanya: "Hah? Udah? Udah sampai finish?" Keliatan 
 
 ## Nikmatin Makanan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ee0d2b5244dd4b4778d542bc019c0d51.jpg)
+![Nikmatin Makanan](https://images.gobaligo.id/vocus/vocus_ee0d2b5244dd4b4778d542bc019c0d51.jpg)
 
 Terakhir, setelah menikmati minuman tradisional Indonesia dan pisang goreng enak yang mereka sediakan, mobil yang tadi nganter kamu ke tempat Jungle Cart udah nunggu di lapangan itu. Kita naik mobil yang sama balik ke kantor Jungle Cart Bali.
 
@@ -85,7 +85,7 @@ Jungle Cart Bali panjangnya 4,5 km. Kalau kamu pernah main滑坡车 di Sentosa S
 
 ## Pertanyaan Umum
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1bb3377773813896348c09834529b16c.jpg)
+![Pertanyaan Umum](https://images.gobaligo.id/vocus/vocus_1bb3377773813896348c09834529b16c.jpg)
 
 **Apa aja yang termasuk?**
 
@@ -124,7 +124,7 @@ Disediakan oleh Lin Xiaozhao
 
 ## Lebih Banyak Rekomendasi Makan & Main di Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
+![Lebih Banyak Rekomendasi Makan & Main di Ubud](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
 [Klik di sini untuk panduan lengkap Ubud!](/blog/ubud-guide/)
 

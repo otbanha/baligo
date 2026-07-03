@@ -25,7 +25,7 @@ _srcHash: f966769b66accb9dfd13c23312c144ad
 
 Bali, destinasi wisata terkenal di dunia dengan keindahan alam dan budaya yang kaya, kini menghadapi tantangan baru. Seiring tekanan overdevelopment terhadap lingkungan dan budaya, pemerintah Bali berencana menerapkan aturan baru yang membatasi pembangunan pariwisata di wilayah selatan. Larangan ini terutama menyasar pembangunan hotel, resor, dan fasilitas wisata lainnya, dan bisa diperpanjang hingga sepuluh tahun.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3480635877a3cd735d124f721b373446.png)
+![Bali Larang Bangun Hotel & Vila Baru: Atasi Overdevelopment](https://images.gobaligo.id/vocus/vocus_3480635877a3cd735d124f721b373446.png)
 
 ## **Latar Belakang & Motivasi Larangan**
 
@@ -53,7 +53,7 @@ Kedua, buat pengembang yang mau investasi di selatan Bali, kebijakan ini jelas n
 
 Namun, dalam jangka panjang, penerapan larangan ini bisa mendorong pariwisata Bali beralih ke model yang lebih berkelanjutan. Dengan membatasi pembangunan yang berlebihan, Bali bisa melindungi sumber daya alam dan budaya yang unik, serta membangun fondasi yang lebih kokoh buat pariwisata masa depan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_10c0006ac7d25dc9cf50ee86b964bd71.png)
+![Dampak dan Prospek yang Mungkin Terjadi](https://images.gobaligo.id/vocus/vocus_10c0006ac7d25dc9cf50ee86b964bd71.png)
 
 ## **Cara Menghadapi Tantangan Pembangunan Berlebihan**
 

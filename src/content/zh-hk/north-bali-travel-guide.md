@@ -89,7 +89,7 @@ Spice Beach Club
 
 作為一個負責任嘅旅客，環保旅行已經成為全球旅遊趨勢。喺峇里島北部，保持環境嘅可持續性尤其重要。你可以透過減少使用塑膠製品、支持當地嘅環保項目，同埋選擇環保認證嘅住宿，嚟減少你嘅旅遊足跡。咁樣唔單止有助於保護北部嘅自然資源，亦可以令你成為一個更有意識嘅旅行者。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e5760beb38d06bcff1d783e39230828b.png)
+![12. 峇里島北部嘅環保旅行提示](https://images.gobaligo.id/vocus/vocus_e5760beb38d06bcff1d783e39230828b.png)
 
 ### 13. 峇里島北部嘅未來旅遊發展
 

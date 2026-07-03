@@ -23,7 +23,7 @@ _srcHash: 556657c7c4385faeb880a9bced4baeb9
 ---
 ## ✈️ Portable Charger (Power Bank) Regulations
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0f872f41d331409831d5203d1221cea7.png)
+![Portable Charger (Power Bank) Regulations](https://images.gobaligo.id/vocus/vocus_0f872f41d331409831d5203d1221cea7.png)
 
 ---
 

@@ -21,7 +21,7 @@ _srcHash: 14eb3f27b633d1ec46cbbf2fa8f905c6
 
 ## Perjalanan Mendalam 7 Hari Semi-Mewah Tanpa Belanja ⭐⭐
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cfb6a91de0086e699c1e44388be48b2b.jpg)
+![Perjalanan Mendalam 7 Hari Semi-Mewah Tanpa Belanja](https://images.gobaligo.id/vocus/vocus_cfb6a91de0086e699c1e44388be48b2b.jpg)
 
 Kalau kamu lagi cari perjalanan yang **beneran rileks, tapi sekaligus penuh dengan keajaiban kelas dunia**, maka paket semi-mewah 7 hari yang menggabungkan keindahan Bali dan Pulau Jawa ini, mengunjungi **tiga Warisan Budaya Manusia Indonesia**, bakal jadi pengalaman yang nggak terlupakan.
 
@@ -43,7 +43,7 @@ Rute perjalanan ini khusus menghubungkan dua pulau wisata populer di Indonesia, 
 
 ### Omma Dayclub
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775403717337-omma-day-club-instagram-omma-day-club_169.jpeg)
+![Omma Dayclub](https://images.gobaligo.id/images/2026-04/1775403717337-omma-day-club-instagram-omma-day-club_169.jpeg)
 
 **Omma Dayclub** terletak di depan Air Terjun Tegenungan yang terkenal di Bali. Ini adalah salah satu dari sedikit tempat di dunia di mana kamu bisa menikmati suasana liburan sambil melihat air terjun dari dekat. Menggabungkan kolam renang, makanan & minuman, dan pemandangan alam, tempat ini bikin kamu rileks ditemani suara air dan hijau-hijauan.
 
@@ -53,7 +53,7 @@ Yang paling keren adalah lokasinya yang unik banget—air terjun langsung jatuh 
 
 **Jatiluwih Rice Terrace** terletak di pegunungan tengah Bali. Ini adalah salah satu terasering sawah terbesar dan terindah di pulau ini. Sawah bertingkat-tingkat mengikuti kontur bukit, pemandangannya luas dan tenang banget, menampilkan pesona pedesaan Bali yang paling murni.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_62472c1caf4010fa626e962ecce877ef.jpg)
+![Jatiluwih Rice Terrace](https://images.gobaligo.id/vocus/vocus_62472c1caf4010fa626e962ecce877ef.jpg)
 
 Tempat ini masuk dalam **Warisan Dunia UNESCO**, mewakili kearifan sistem irigasi tradisional Bali yang disebut 'Subak'. Perpaduan antara pemandangan alam dan budaya pertanian yang sudah berusia ribuan tahun bikin Jatiluwih jadi salah satu landmark terasering paling ikonik dan unik di Bali.
 
@@ -61,7 +61,7 @@ Tempat ini masuk dalam **Warisan Dunia UNESCO**, mewakili kearifan sistem irigas
 
 Berlayar di pagi hari, kejar lumba-lumba liar yang melompat di permukaan laut.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_140b7005ea4564d8e14f8d3a2793e738.jpg)
+![Kejar Matahari Terbit & Lumba-lumba, Rasakan Hangatnya Pagi ](https://images.gobaligo.id/vocus/vocus_140b7005ea4564d8e14f8d3a2793e738.jpg)
 
 Lovina disebut sebagai salah satu spot terbaik untuk melihat lumba-lumba di Bali karena perairannya yang relatif tenang, kemungkinan besar lumba-lumba muncul, dan aktivitasnya alami tanpa gangguan manusia. Berbeda dengan tur kejar-kejaran di pelabuhan wisata besar, ini lebih seperti **pertemuan pagi yang tenang menemani alam**.
 
@@ -73,7 +73,7 @@ Buat banyak traveler, sunrise dan lumba-lumba di Lovina adalah salah satu kenang
 
 Pura Ulun Danu Beratan terletak di tepi Danau Bratan, salah satu pura di atas danau paling ikonik di Bali. Pura ini seolah mengapung di permukaan danau, dikelilingi pegunungan dan kabut tipis, suasananya tenang dan magis — benar-benar spot klasik yang khas banget di Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_326dbb72d243961e8dca8f15de8c3044.jpg)
+![Pura Ulun Danu Beratan (Pura Air di Bali)](https://images.gobaligo.id/vocus/vocus_326dbb72d243961e8dca8f15de8c3044.jpg)
 
 Pura ini bukan cuma tempat suci penting, tapi juga tercetak di uang kertas Indonesia, menunjukkan status nasional dan nilai budayanya. Perpaduan unik antara danau, kepercayaan, dan pemandangan alam bikin Ulun Danu Beratan jadi salah satu landmark paling ikonik di Indonesia.
 
@@ -85,9 +85,9 @@ Pura ini bukan cuma tempat suci penting, tapi juga tercetak di uang kertas Indon
 
 Borobudur bukan cuma landmark paling simbolis di Indonesia, tapi juga keajaiban arsitektur Buddha yang masuk UNESCO World Heritage, sekaligus salah satu situs candi Buddha terbesar dan terawat di dunia.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bacb4fd337c601bc015b2897a79573b2.jpg)
+![Masuk ke Yogyakarta, Jelajah Warisan Dunia — Candi Borobudur](https://images.gobaligo.id/vocus/vocus_bacb4fd337c601bc015b2897a79573b2.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_67953b67edf91cd45797585e2efa87e5.jpg)
+![Masuk ke Yogyakarta, Jelajah Warisan Dunia — Candi Borobudur](https://images.gobaligo.id/vocus/vocus_67953b67edf91cd45797585e2efa87e5.jpg)
 
 Relief dan stupa yang bertumpuk-tumpuk menyimpan kepercayaan dan kebijaksanaan ribuan tahun lalu. Datang langsung ke sini, baru bisa benar-benar merasakan keagungan dan getaran spiritualnya.
 
@@ -95,7 +95,7 @@ Relief dan stupa yang bertumpuk-tumpuk menyimpan kepercayaan dan kebijaksanaan r
 
 **_Prambanan Candi Hindu Prambanan_** adalah kompleks candi Hindu terbesar dan paling ikonik di Indonesia, sekaligus ditetapkan sebagai **_Warisan Dunia UNESCO_**. Deretan bangunan berbentuk menara menjulang tinggi berdiri megah di dataran, dengan garis-garis arsitektur yang tegas dan anggun, memamerkan estetika arsitektur luar biasa dari peradaban Jawa kuno.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e03ec488508284f45fb35891bb21089.jpg)
+![Candi Prambanan｜Dunia Mitologi Hindu yang Unik dari Ukiran B](https://images.gobaligo.id/vocus/vocus_4e03ec488508284f45fb35891bb21089.jpg)
 
 Dinding candi dipenuhi relief halus yang menggambarkan secara detail epos dan mitologi Hindu, bagaikan gulungan sejarah yang ditulis di atas batu. Perpaduan sempurna antara kepercayaan agama, seni pahat, dan teknik arsitektur menjadikan Prambanan sebagai salah satu landmark budaya paling unik dan bernilai kelas dunia di Yogyakarta.
 
@@ -105,7 +105,7 @@ Dinding candi dipenuhi relief halus yang menggambarkan secara detail epos dan mi
 
 Masuk ke gua Jomblang, turun vertikal ke dalam dunia bawah tanah.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c1964d7aff23b6770f5d56f2f8dcd391.jpg)
+![Cahaya Surga Jomblang, Pemandangan yang Wajib Kamu Lihat Set](https://images.gobaligo.id/vocus/vocus_c1964d7aff23b6770f5d56f2f8dcd391.jpg)
 
 Saat sinar matahari menyelinap dari atas gua, membentuk 'Cahaya Surga' yang legendaris, rasanya seperti berada di dalam film. Ini adalah momen yang paling diidamkan oleh para pecinta fotografi dan petualang.
 
@@ -113,7 +113,7 @@ Saat sinar matahari menyelinap dari atas gua, membentuk 'Cahaya Surga' yang lege
 
 Gua Pindul adalah gua alami yang dipenuhi aliran air jernih, dengan permukaan air yang tenang dan ritme yang lambat. Berbaring di atas ban pelampung, ikuti arus air—tidak menegangkan, tidak berguncang—ini adalah pengalaman eksplorasi gua yang sangat santai. Cahaya di dalam gua lembut, suasananya damai, bikin kamu bisa menikmati keindahan alam dengan tenang.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_61722699493234c35cc910cf47e68888.jpg)
+![Arung Jeram Gua Pindul｜Pengalaman Gua Air yang Santai dan Me](https://images.gobaligo.id/vocus/vocus_61722699493234c35cc910cf47e68888.jpg)
 
 ***
 
@@ -121,7 +121,7 @@ Gua Pindul adalah gua alami yang dipenuhi aliran air jernih, dengan permukaan ai
 
 Hal yang paling menakjubkan dari Gunung Ijen (Ijen Volcano) bukanlah lava pijar saat letusan, melainkan **api biru** yang menyala diam-diam di tengah malam. Pemandangan ini sangat langka di seluruh dunia, dan Kawah Ijen adalah salah satu dari sedikit tempat di mana kamu bisa menyaksikan keajaiban alam ini secara langsung.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_925eed199d66b8736fed1a6d9634da1e.jpg)
+![Api Biru Kawah Ijen, Keajaiban yang Membakar di Malam Hari](https://images.gobaligo.id/vocus/vocus_925eed199d66b8736fed1a6d9634da1e.jpg)
 
 Berjalan kaki di malam hari, melihat api biru mengalir dan berkelip di antara dinding kawah, bagaikan sungai lava biru. Pemandangannya misterius dan memukau—getaran dan kekaguman itu benar-benar layak untuk dilihat dengan mata kepala sendiri.
 
@@ -129,7 +129,7 @@ Berjalan kaki di malam hari, melihat api biru mengalir dan berkelip di antara di
 
 Air Terjun Sewu terkenal dengan kemegahannya — banyak aliran air yang mengalir deras bersamaan, suaranya luar biasa dahsyat.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_59771de885d64f278da9c76684ab069d.jpg)
+![Air Terjun Sewu, Salah Satu Air Terjun Paling Spektakuler di](https://images.gobaligo.id/vocus/vocus_59771de885d64f278da9c76684ab069d.jpg)
 
 Berdiri di depan air terjun ini, kamu bisa merasakan kekuatan alam yang paling murni, bikin kamu benar-benar tenggelam dalam suasana.
 
@@ -137,7 +137,7 @@ Berdiri di depan air terjun ini, kamu bisa merasakan kekuatan alam yang paling m
 
 Naik ke titik pandang saat subuh, tunggu matahari terbit.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1b5cfc15bfd61681b9fbd1e1adb5655.jpg)
+![Matahari Terbit di Gunung Bromo, Pemandangan Epik di Tengah ](https://images.gobaligo.id/vocus/vocus_a1b5cfc15bfd61681b9fbd1e1adb5655.jpg)
 
 Saat matahari perlahan muncul, menyinari gugusan Gunung Bromo dan lautan awan, pemandangannya seperti masuk ke National Geographic — momen yang nggak akan terlupakan seumur hidup.
 
@@ -185,7 +185,7 @@ kamu akan sadar, ini bukan sekadar perjalanan biasa, tapi kenangan indah yang ba
 
 📩 Hubungi customer service sekarang juga, konfirmasi tanggal keberangkatan
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775403717337-omma-day-club-instagram-omma-day-club_169.jpeg)
+![Sekarang, pesan perjalanan yang benar-benar layak dikenang s](https://images.gobaligo.id/images/2026-04/1775403717337-omma-day-club-instagram-omma-day-club_169.jpeg)
 
 {{block:tour-form-wonders}}
 

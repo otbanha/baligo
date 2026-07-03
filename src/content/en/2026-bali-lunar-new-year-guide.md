@@ -24,7 +24,7 @@ _srcHash: 791c075abde39aaa48611ca605ab3965
 ---
 Lunar New Year is a peak travel season in Bali, attracting tourists from around the world each year, especially from East Asian countries where Lunar New Year is celebrated as the only long holiday of the year.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aedb411b6e226d4dabf13a829b7b4a0e.png)
+![【2026 Edition】Lunar New Year Bali Family Travel Guide: Compr](https://images.gobaligo.id/vocus/vocus_aedb411b6e226d4dabf13a829b7b4a0e.png)
 
 ➡️[Find Bali accommodations here](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️
 
@@ -107,7 +107,7 @@ By the way, **seniors aged 60+ and infants/toddlers can use special lanes when q
 
 ## ⚠️Must-See⚠️ 2026 Lunar New Year Celebrations
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8e4b2a2c15a42216e739d2c0cdcbdb4f.jpg)
+![Must-See 2026 Lunar New Year Celebrations](https://images.gobaligo.id/vocus/vocus_8e4b2a2c15a42216e739d2c0cdcbdb4f.jpg)
 
 Want to experience Lunar New Year festivities in Bali this Spring Festival? We've compiled information on lion and dragon dance performances, New Year's Eve reunion dinner restaurants, and Chinese temples for New Year prayers. Check out "[2026 Bali Lunar New Year Celebration Guide](/blog/2026-bali-lunar-new-year/)"
 

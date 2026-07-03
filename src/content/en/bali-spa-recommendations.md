@@ -20,7 +20,7 @@ _srcHash: bd8d9c2ba4afd3de5e2df0cb4f0277ea
 
 **Group member**[**Li Ly**](https://www.facebook.com/lily850711/)**and her friends just returned from their Bali trip during the rainy season and are here to share their travel experiences with us!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7566854d107df6ce88ddc76fca498f38.jpg)
+![【Indulge in SPA】Bali Free & Easy Trip & Sharing: SPA Recomme](https://images.gobaligo.id/vocus/vocus_7566854d107df6ce88ddc76fca498f38.jpg)
 
 Benefiting from a lot of information from the group, I'm sharing our experiences from our late February Bali free and easy trip for your reference! Our itinerary mainly consisted of: participating in some activities, SPA, and food, with the rest being called 'enjoyment'.
 
@@ -52,7 +52,7 @@ https://youtu.be/gECdNvG16ww
 
 ### Sunset Beach Horseback Riding
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ff1e2744d79be91e88a8775750847dc.png)
+![Sunset Beach Horseback Riding](https://images.gobaligo.id/vocus/vocus_6ff1e2744d79be91e88a8775750847dc.png)
 
 1. Booked online, costing around USD$55 per person, includes a one-on-one instructor who leads the horse.
 2. The experience was quite enjoyable, with each instructor helping to take photos and videos using our phones.
@@ -63,7 +63,7 @@ https://youtu.be/gECdNvG16ww
 
 ### Sunrise Jeep Tour
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d007f0cd9a6adf529354c1ea176d2bd4.jpg)
+![Sunrise Jeep Tour](https://images.gobaligo.id/vocus/vocus_d007f0cd9a6adf529354c1ea176d2bd4.jpg)
 
 Provided by fellow traveler Li Ly
 
@@ -174,7 +174,7 @@ For transportation during our 7-day, 6-night trip (except for February 28th when
 
 Six years ago, we traveled to Bali (as part of an 8-person small group organized by a travel agency), but the experience wasn’t great, especially with the driver/guide. Although he spoke Chinese, communication was nearly impossible, so we deeply understood the importance of a good driver in making a trip complete and relaxing. Because Arie was so thoughtful, we tipped him 20-30% daily.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_45ef0955c4149232b8c65e55bce4f72d.jpg)
+![Driver Recommendation](https://images.gobaligo.id/vocus/vocus_45ef0955c4149232b8c65e55bce4f72d.jpg)
 
 Driver recommendation: ARIE
 

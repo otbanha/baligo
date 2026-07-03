@@ -20,7 +20,7 @@ lang: zh-hk
 _srcHash: 03bf2852b16acb76b236a14cdfced10e
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8ffdd23b3ea35924d1c2b50895d7406d.jpg)
+![峇里島邊度買嘢最平？峇里島購物推薦｜峇里島自由行行程｜峇里島最大藝術批發市場 Kumbasari Art Market](https://images.gobaligo.id/vocus/vocus_8ffdd23b3ea35924d1c2b50895d7406d.jpg)
 
 ### 峇里島最大嘅峇里島批發藝術市場 Kumbasari Art Market 介紹
 

@@ -63,7 +63,7 @@ After returning to Sanur harbor in the afternoon, Agus took us for a massage ses
 
 🏠 We stayed overnight at a bamboo villa in Tampaksiring, Ubud, wrapping up a fulfilling yet exhausting day.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d2cd3c0bb71e85dcab592f9c9d1e111c.jpg)
+![Day 2](https://images.gobaligo.id/vocus/vocus_d2cd3c0bb71e85dcab592f9c9d1e111c.jpg)
 
 https://youtu.be/1COxi_x8L78
 
@@ -77,7 +77,7 @@ https://youtu.be/1COxi_x8L78
 
 📍**Penglipuran Village**, voted one of the top three cleanest villages in the world. The morning crowd here is relatively light, allowing us to quietly enjoy the local scenery.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_139f7058772c6fa1200a75cee97ac9af.jpg)
+![Day 3](https://images.gobaligo.id/vocus/vocus_139f7058772c6fa1200a75cee97ac9af.jpg)
 
 Here, we also tried local specialties—**salak** (snake fruit) and **Loloh Cemcem**, a drink similar to herbal tea that I found a bit hard to get used to. According to Agus, it’s made from coconut water and ground plant leaves, with a sweet and sour taste. While the flavor isn’t bad, I really couldn’t quite adapt to it. I’d recommend giving it a try if you get the chance 😆.
 
@@ -171,7 +171,7 @@ https://youtu.be/DSi7QvqOLTQ
 
 🏠For our last two nights, we stayed at [**Ziva a Boutique Villa**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656), which I highly recommend. Both the pool and the room left us very satisfied. The pool was spacious, giving us plenty of room to relax, especially in the evening when the atmosphere by the pool was incredibly pleasant. The room was spacious and clean, with every detail thoughtfully designed, allowing us to enjoy a high-quality rest during our trip. The only minor drawback was that the hot water supply seemed a bit inconsistent—we couldn't fill the bathtub completely with hot water, and the shower's hot water wasn't very stable. However, this small flaw didn't detract from our overall positive experience, as the villa excelled in every other aspect.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7dad59174130e2068985c1770b74c176.jpg)
+![Day 5](https://images.gobaligo.id/vocus/vocus_7dad59174130e2068985c1770b74c176.jpg)
 
 A detailed introduction to [Ziva a Boutique Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656) is included in "[22 Stunning Bali Secret Gardens in Seminyak](/blog/seminyak-private-villas-guide/)". Don't miss it if you're planning a villa getaway in Seminyak!
 
@@ -225,7 +225,7 @@ When shopping at markets, Agus even helped us pick fruits and negotiate prices w
 
 His driving skills were truly reassuring. I usually get carsick easily, but I always slept peacefully in Agus's car without any discomfort. Especially during our two days staying at a treehouse villa, where the roads were extremely narrow and winding - what might be challenging for most drivers was no problem for Agus. His skills were truly impressive! 👍👍
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c787863404d3c1a990e38ac7af8f84fa.jpg)
+![Why recommend Agus Jon Devn?](https://images.gobaligo.id/vocus/vocus_c787863404d3c1a990e38ac7af8f84fa.jpg)
 
 🫶🏻 **Thoughtful Luggage Storage**
 

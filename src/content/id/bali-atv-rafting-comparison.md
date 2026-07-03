@@ -31,7 +31,7 @@ _srcHash: 14b158616871ee2d77972c93c3f9231c
 ---
 Bicara soal Bali, kebanyakan orang pasti langsung kepikiran pantai, pura, atau spa. Tapi kali ini, aku dan tiga teman memutuskan buat cobain pengalaman yang beda. Setelah bandingin banyak pilihan, akhirnya kami ambil paket kombo 'ATV Off-road + Arung Jeram Ayung River'. Dan hasilnya? Ini benar-benar hari paling seru dan paling gak terlupakan selama liburan kami di Bali!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_41c737cdbc148a72f531b97d2acd93c1.jpg)
+![ATV vs Arung Jeram Ayung di Bali: Panduan Lengkap Itinerary,](https://images.gobaligo.id/vocus/vocus_41c737cdbc148a72f531b97d2acd93c1.jpg)
 
 ## Ikhtisar Itinerary: Pengalaman Air & Darat yang Sempurna
 
@@ -49,11 +49,11 @@ Semua perlengkapan keamanan lengkap dan kondisinya bagus, termasuk helm anti-air
 
 Arung jeram di Sungai Ayung ini desainnya cerdas banget, total sekitar 2 jam, tingkat kesulitannya pas — ada bagian jeram yang seru, ada juga area santai buat lihat pemandangan. Yang paling bikin kami kaget, ternyata di sepanjang perjalanan nemu beberapa air terjun hidden gem! Air terjun ini tersembunyi di hutan tropis yang lebat, cuma bisa dicapai naik rakit bambu, pasti tempat rahasia yang jarang dilihat turis biasa.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_78f83f6f2bd34de9e53e3f59a235f6ab.jpg)
+![Proses Arung Jeram: Petualangan Air yang Penuh Kejutan](https://images.gobaligo.id/vocus/vocus_78f83f6f2bd34de9e53e3f59a235f6ab.jpg)
 
 Salah satu air terjunnya super spektakuler, tingginya sekitar 15 meter, airnya jatuh langsung dari tebing, dan pas kena sinar matahari keliatan pelangi. Pemandu sengaja berhenti di sini sekitar 10 menit biar kami foto-foto. Temanku Sarah awalnya tegang banget, tapi pas lihat pemandangan ini langsung semangat, teriak-teriak senang sepanjang jalan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_12e5e214ed2fc2788efeef3a2bd801a8.jpg)
+![Proses Arung Jeram: Petualangan Air yang Penuh Kejutan](https://images.gobaligo.id/vocus/vocus_12e5e214ed2fc2788efeef3a2bd801a8.jpg)
 
 Bagian paling seru selama arung jeram adalah lewat beberapa jeram level tiga. Rakit karet melaju kencang di air deras, cipratan air ke mana-mana, kita semua basah kuyup tapi senang banget. Kevin bahkan bercanda ini lebih seru dari wahana air di taman hiburan!
 
@@ -77,11 +77,11 @@ Setiap orang punya kesempatan buat nyobain ATV di area latihan beberapa menit, b
 
 Rute ATV-nya terutama di daerah Bongkasa Pertiwi dan Taman, tempat ini masih jaga banget suasana desa Bali yang paling asli. Rute kita lewatin jalur sawah, terowongan bambu, desa tradisional, dan jalanan bukit — tiap bagian punya pemandangan dan tantangan yang beda.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cb111d28d880b9d215e5593dce74447a.jpg)
+![Petualangan Pedesaan: Jelajahi Desa Terindah di Bali](https://images.gobaligo.id/vocus/vocus_cb111d28d880b9d215e5593dce74447a.jpg)
 
 Yang paling berkesan tuh pas lewatin sawah terasering yang bertumpuk-tumpuk, padi hijaunya bergoyang kena angin, gunung di kejauhan keliatan samar-samar — bener-bener kayak lukisan pemandangan pedesaan yang cantik banget. Kita juga lewat beberapa desa tradisional Bali, liat keseharian warga lokal, anak-anak kecil pada semangat melambai ke kita, bikin hati hangat.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_284e63ef9aa86b0f3931cc37de500341.jpg)
+![Petualangan Pedesaan: Jelajahi Desa Terindah di Bali](https://images.gobaligo.id/vocus/vocus_284e63ef9aa86b0f3931cc37de500341.jpg)
 
 Bagian paling seru di rute ini adalah jalanan bukit, ada tanjakan yang lumayan curam, plus jalur berbatu yang bergelombang. Temenku Amy awalnya agak tegang, tapi cepet banget adaptasi, malah mulai nikmatin sensasi ngalahin medan yang susah. Paling kocak sih Kevin, pas di tengah jalan di tikungan becek hampir aja jungkir balik, untung refleknya cepet bisa nge-stabilin ATV-nya. Kita semua ngakak liat momen memalukannya.
 
@@ -89,7 +89,7 @@ Bagian paling seru di rute ini adalah jalanan bukit, ada tanjakan yang lumayan c
 
 Naik ATV bikin kita bisa masuk ke pedalaman Bali, liat pemandangan yang beda banget dari pantai. Ada hutan hujan tropis yang lebat, sungai jernih, dan air terjun kecil yang tersembunyi di lembah. Sepanjang jalan ekosistemnya juga kaya, kita liat berbagai burung tropis dan kupu-kupu, bahkan ketemu beberapa monyet liar.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_311b1eb06b6d96b8434a358a1fa59c69.jpg)
+![Pemandangan Alam: Temukan Sisi Lain Bali](https://images.gobaligo.id/vocus/vocus_311b1eb06b6d96b8434a358a1fa59c69.jpg)
 
 Yang paling bikin terkesan adalah pas lewat sungai kecil, instrukturnya nyuruh kita berhenti buat istirahat dan foto-foto. Air sungainya jernih banget sampai kelihatan dasarnya, dikelilingi vegetasi tropis alami, tanpa ada jejak buatan sama sekali. Pemandangan alami kayak gini bener-bener bikin hati adem dan fresh, juga bikin kita punya pandangan baru tentang Bali.
 

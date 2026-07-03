@@ -14,7 +14,7 @@ lang: zh-hk
 _srcHash: fe53cedde55a5fea14acec548ac86ddc
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f0c03f764badb198fc2e90c575d202a6.jpg)
+![烏布嘅頌缽療癒/音療 Ubud Sound Healing/Singing Bowl Meditation](https://images.gobaligo.id/vocus/vocus_f0c03f764badb198fc2e90c575d202a6.jpg)
 
 烏布係尋求身心靈療癒嘅理想聖地。頌缽療癒（singing bowl meditation）喺呢座「眾神之島」上已經成為熱門嘅養生體驗，結合咗古老嘅聲音療法同峇里島獨特嘅靈性氛圍。當銅製頌缽被輕柔敲擊或者摩擦時，會產生深沉而和諧嘅共鳴音頻，呢啲聲波能夠穿透身體，幫助釋放壓力、平衡脈輪，並引導參與者進入深度冥想狀態。喺峇里島嘅熱帶雨林中、稻田邊或者河谷旁體驗頌缽療癒，更加能夠讓人同大自然嘅能量產生共鳴，達到身心靈嘅完整放鬆。
 
@@ -49,7 +49,7 @@ _srcHash: fe53cedde55a5fea14acec548ac86ddc
 
 喺活動開始前或結束後，老師可能會講呢啲話：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a6052ec2cda08abdf74e460afd4e53a8.png)
+![2. 您只需要聽得明呢幾個關鍵單字（指令）](https://images.gobaligo.id/vocus/vocus_a6052ec2cda08abdf74e460afd4e53a8.png)
 
 ### 3. 注意事項與小建議
 
@@ -63,7 +63,7 @@ _srcHash: fe53cedde55a5fea14acec548ac86ddc
 
 ## 💡 參加音療嘅小貼士（2026 版）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0637db6806040294fe1d22fd68ddf89f.jpg)
+![參加音療嘅小貼士（2026 版）](https://images.gobaligo.id/vocus/vocus_0637db6806040294fe1d22fd68ddf89f.jpg)
 
 - **穿著建議：** 請著**舒服、寬鬆同保暖**嘅衫。雖然峇里島好熱，但音療時身體靜止唔郁，而且室內通常有風扇，瞓耐咗會凍（加上瞓着後體溫會下降），記得冚現場提供嘅氈。
 - **淡季優勢：** 淡季參加呢類課程，原本可能迫滿 30 人嘅課室，可能得 10 人。空間變大、干擾減少，你更加可以深刻感受到頌缽震動嘅波長。

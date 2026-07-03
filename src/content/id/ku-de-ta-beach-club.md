@@ -19,7 +19,7 @@ _srcHash: 593d1fef4a29504cf5bda722e807a12b
 
 ## **🌊 Apa Itu Ku De Ta Beach Club?**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a69a22c39659b5c847d024e43652dd0.jpg)
+![Apa Itu Ku De Ta Beach Club?](https://images.gobaligo.id/vocus/vocus_9a69a22c39659b5c847d024e43652dd0.jpg)
 
 Ku De Ta Beach Club terletak di Seminyak Beach, Bali, dan merupakan beach club terpadu paling ikonik di sini. Tempat ini menggabungkan fine dining, bar kekinian, pemandangan laut tanpa batas, dan party musik yang menarik wisatawan dari seluruh dunia.
 
@@ -39,11 +39,11 @@ Mau santai sarapan pagi, berjemur di sore hari, atau party sampai malam — Ku D
 
 ## **🏛️ Zona di Dalam Ku De Ta Beach Club**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f54057368be99be2ecf2886bafabc0a5.jpg)
+![Zona di Dalam Ku De Ta Beach Club](https://images.gobaligo.id/vocus/vocus_f54057368be99be2ecf2886bafabc0a5.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5b49bdc360497dbbb8adf21801a3d44e.jpg)
+![Zona di Dalam Ku De Ta Beach Club](https://images.gobaligo.id/vocus/vocus_5b49bdc360497dbbb8adf21801a3d44e.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8df51eb8a6139c650bb4c8cf9e2508b1.jpg)
+![Zona di Dalam Ku De Ta Beach Club](https://images.gobaligo.id/vocus/vocus_8df51eb8a6139c650bb4c8cf9e2508b1.jpg)
 
 ### **1. Ku De Ta Beachside Venue**
 
@@ -81,7 +81,7 @@ Ku De Ta punya layanan makanan yang variatif sepanjang hari — dari sarapan seh
 
 ## **🎶 Musik & Acara Live**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1adeff2245c0b2b46777c21e20af521a.jpg)
+![Musik & Acara Live](https://images.gobaligo.id/vocus/vocus_1adeff2245c0b2b46777c21e20af521a.jpg)
 
 Ku De Ta terkenal banget sama **musik DJ** dan **party event** — tiap hari ada DJ profesional yang mainin musik Lounge santai, bikin kamu makin larut dalam vibe liburan.
 
@@ -116,7 +116,7 @@ Kalau melanggar aturan di atas, **Ku De Ta berhak menolak masuk**, jadi pastikan
 
 Kalau kamu mau nikmatin pemandangan laut tanpa batas dan sunset di **Ku De Ta Beach Club**, reservasi **sofa bed** adalah pilihan yang oke banget. Berikut info detail reservasi dan biaya, biar kamu siap-siap dan santai menikmati liburan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_47631512101f9f9c0f1171942076eb2e.jpg)
+![Panduan Reservasi Sofa Bed di Ku De Ta Beach Club](https://images.gobaligo.id/vocus/vocus_47631512101f9f9c0f1171942076eb2e.jpg)
 
 ### **📌 Info Reservasi Sofa Bed**
 

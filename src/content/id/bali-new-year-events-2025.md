@@ -21,13 +21,13 @@ _srcHash: 5e2af44f54b0478c9b50e86368dadea2
 
 ## 🌟 **Kamu siap menyambut tahun 2025 di Bali?** 🌟
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_455df24745833ffc85f293afad9815dc.png)
+![Kamu siap menyambut tahun 2025 di Bali?](https://images.gobaligo.id/vocus/vocus_455df24745833ffc85f293afad9815dc.png)
 
 Artikel ini bakal kasih kamu panduan simpel buat masuk ke perayaan seru ini! Sebagai salah satu destinasi wisata paling kece di Indonesia, Bali dengan pemandangan alamnya yang juara dan keramahan penduduk lokalnya yang hangat, jadi pilihan utama buat rayain malam tahun baru di Asia Tenggara. Kalau kamu lagi rencanain habiskan malam tahun baru 2025 di Bali, pesta pantai dan kembang api di sini pasti bakal bikin kamu terkesan.
 
 ## 🎉 Perayaan Tahun Baru di Bali 🎉
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f9175389ceba0a39f7a52a4dd6e98c71.png)
+![Perayaan Tahun Baru di Bali](https://images.gobaligo.id/vocus/vocus_f9175389ceba0a39f7a52a4dd6e98c71.png)
 
 Saat malam tahun baru, Bali dipenuhi turis dari seluruh dunia dan warga lokal. Terutama di Pantai Kuta yang punya karnaval tahunan, kamu bisa ikut meramaikan suasana dari siang hari. Begitu malam tiba, banyak pengunjung berdatangan ke pantai, bar, dan restoran di pulau ini, berdansa di sekitar api unggun sambil menyambut tahun 2025. Kembang api menerangi langit tepat tengah malam, membuka lembaran baru tahun yang akan datang.
 
@@ -41,7 +41,7 @@ Entah kamu suka pesta yang penuh energi atau malam yang santai, pesta tahun baru
 
 ## 🎆 Pertunjukan Kembang Api Tahun Baru di Bali: Menerangi Langit Malam 🎆
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c36d85803771613e03024fe8d2bc03d.png)
+![Pertunjukan Kembang Api Tahun Baru di Bali: Menerangi Langit](https://images.gobaligo.id/vocus/vocus_1c36d85803771613e03024fe8d2bc03d.png)
 
 Setiap tahun baru, langit Bali dihiasi kembang api yang spektakuler. Tempat terbaik buat nonton antara lain:
 
@@ -54,7 +54,7 @@ Puputan Badung Square juga punya karnaval malam tahun baru yang seru banget — 
 
 ## 🏨 Promo Hotel Malam Tahun Baru di Bali 2025 🏨
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f364f7a761a9b1b9e6d31f92a2f3fe44.png)
+![Promo Hotel Malam Tahun Baru di Bali 2025](https://images.gobaligo.id/vocus/vocus_f364f7a761a9b1b9e6d31f92a2f3fe44.png)
 
 Perayaan malam tahun baru di Bali nggak cuma di pesta outdoor aja, hotel-hotel lokal juga punya paket dan acara spesial. Ini dia beberapa hotel populer yang wajib kamu booking dari jauh-jauh hari biar dapet harga miring:
 
@@ -74,7 +74,7 @@ Setiap hotel punya acara dan promo malam tahun baru yang unik — dari dinner me
 
 ## 🎉 Pesta Seru 🎉
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_700d8e5ab02bc66cfc6e9213e960bc2d.png)
+![Pesta Seru](https://images.gobaligo.id/vocus/vocus_700d8e5ab02bc66cfc6e9213e960bc2d.png)
 
 Buat kamu yang doyan pesta, wajib banget mampir ke beach club di Bali. Malam tahun baru, hampir semua beach club punya acara keren yang bikin kamu bisa berpesta sepuasnya. 👉 [[Klik di sini buat lihat rekomendasi beach club terbaik di Bali](/blog/bali-beach-clubs-free-entry-list/)]
 
@@ -91,7 +91,7 @@ Mau kamu tipe party animal atau traveler yang suka rayain tahun baru dengan sant
 
 📩 **Langganan sekarang blog 'Panduan Travel Bali', jadi traveler Bali yang jago!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Daftar Buat Ikutin Blog Kita](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

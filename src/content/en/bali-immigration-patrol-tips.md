@@ -24,7 +24,7 @@ _srcHash: 978fa9d6c43e49e2ba03d48affc0db8c
 
 ## 🏝️ Bali Immigration Task Force in Action! 🚨
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a4aef93c9f128fe463fa8c99c7f18ed3.jpg)
+![Bali Immigration Task Force in Action!](https://images.gobaligo.id/vocus/vocus_a4aef93c9f128fe463fa8c99c7f18ed3.jpg)
 
 Hey! Did you know? Our colleagues at Bali's Ngurah Rai Airport Immigration Office are on a 'secret mission' across the island every day! 🕵️‍♂️
 
@@ -73,7 +73,7 @@ Patrol officers wear black and blue uniforms with reflective vests and are equip
 
 ## Bali's Dilemma: Welcoming Tourists, But Rules Are Needed
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7b5383757dbc1df7b9410fe6c33249c6.png)
+![Bali's Dilemma: Welcoming Tourists, But Rules Are Needed](https://images.gobaligo.id/vocus/vocus_7b5383757dbc1df7b9410fe6c33249c6.png)
 
 Bali remains one of the world's most popular tourist paradises, aiming to welcome 6.5 million international tourists by the end of 2025. The government's efforts are focused on ensuring:
 
@@ -109,7 +109,7 @@ In the most severe cases, one might face fines, detention, or deportation.
 
 ## 📩 **"Bali Travel Guide" Homepage Overview**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
+!["Bali Travel Guide" Homepage Overview](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 
 **By subscribing for free, you'll get:**
 

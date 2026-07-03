@@ -52,23 +52,23 @@ Regent Bali Canggu is located at **Jl. Pantai Batu Bolong No. 93**, directly fac
 
 While the address says Canggu, more precisely, it's situated between Batu Bolong and Echo Beach. This area is the most atmospheric part of Canggu, not the overcrowded tourist spots, but a leisurely lifestyle dotted with cafes, boutiques, and beach clubs.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368644865-b906975f65623d0fddae203932431dbd.webp)
+![Location & Surroundings](https://images.gobaligo.id/images/2026-04/1777368644865-b906975f65623d0fddae203932431dbd.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368645335-d7c1d86ebd938eb97335fd3c041beb0e.webp)
+![Location & Surroundings](https://images.gobaligo.id/images/2026-04/1777368645335-d7c1d86ebd938eb97335fd3c041beb0e.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368645975-0e8d29a878b2b2852c4f42d6e75dcaf6.webp)
+![Location & Surroundings](https://images.gobaligo.id/images/2026-04/1777368645975-0e8d29a878b2b2852c4f42d6e75dcaf6.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368646486-3f1ecbee2201b47561c2709865bb186e.webp)
+![Location & Surroundings](https://images.gobaligo.id/images/2026-04/1777368646486-3f1ecbee2201b47561c2709865bb186e.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368647099-7bcff011aff8f2f91acf97006d018ce1.webp)
+![Location & Surroundings](https://images.gobaligo.id/images/2026-04/1777368647099-7bcff011aff8f2f91acf97006d018ce1.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368647694-9bbf88408ac6b14cab6b26db3ce8d905.webp)
+![Location & Surroundings](https://images.gobaligo.id/images/2026-04/1777368647694-9bbf88408ac6b14cab6b26db3ce8d905.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368648441-89a853b052f5db5b39701a674edea786.webp)
+![Location & Surroundings](https://images.gobaligo.id/images/2026-04/1777368648441-89a853b052f5db5b39701a674edea786.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368649051-0402e9a56058a4f547a63be175d01baf.webp)
+![Location & Surroundings](https://images.gobaligo.id/images/2026-04/1777368649051-0402e9a56058a4f547a63be175d01baf.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368649668-715023085.jpg)
+![Location & Surroundings](https://images.gobaligo.id/images/2026-04/1777368649668-715023085.jpg)
 
 Agoda's location rating is a solid **9.5/10**, which says it all.
 
@@ -102,61 +102,61 @@ There are **150 rooms and suites**, all facing either the ocean or gardens—no 
 
 The main room types are divided into several tiers:
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367763483-a57b5d36ef85ac244f892b9886ae4c94.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777367763483-a57b5d36ef85ac244f892b9886ae4c94.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367764532-2d6547b6b2199debc741c58877517798.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777367764532-2d6547b6b2199debc741c58877517798.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367765123-7dc6f19bfb6d48f5c2ec755d4bb77d6c.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777367765123-7dc6f19bfb6d48f5c2ec755d4bb77d6c.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367765731-632068125.jpg)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777367765731-632068125.jpg)
 
 **▲ Studio Suite 1 King｜Classic Open Suite (King Bed)** Combining modern aesthetics of bedroom and living space, open the window to feel the sea breeze of Canggu, making it the ultimate choice for a couples' getaway.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367848684-1309018ac4bebe9814449f293e56d9a6.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777367848684-1309018ac4bebe9814449f293e56d9a6.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367849224-2d6547b6b2199debc741c58877517798.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777367849224-2d6547b6b2199debc741c58877517798.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367849911-632068118.jpg)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777367849911-632068118.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367850525-72e2b5ae900228d14430054b06b89ec9.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777367850525-72e2b5ae900228d14430054b06b89ec9.webp)
 
 **▲ Studio Suite Lagoon Access 2 Twin｜Pool Access Open Suite (Two Twin Beds)** The terrace directly connects to the azure pool, allowing you to dive into the water right after waking up in the morning, enjoying the leisurely life by the water.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367917118-4de3d3c99d6eaed720bb9a961dcb24b3.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777367917118-4de3d3c99d6eaed720bb9a961dcb24b3.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367917716-1e5aff89eb1d990e2d24dc7624dcb445.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777367917716-1e5aff89eb1d990e2d24dc7624dcb445.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367918270-70419011abac9e716de5d8077999e91b.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777367918270-70419011abac9e716de5d8077999e91b.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367918939-b245c2da4b9580f2f0ebf9d9f0fbb052.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777367918939-b245c2da4b9580f2f0ebf9d9f0fbb052.webp)
 
 **▲ Two Bedroom Suite｜Prestigious Two-Bedroom Suite** Tailored for families or friends traveling together, featuring a spacious shared living room and private bathrooms, striking the perfect balance between privacy and togetherness.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367985372-644007066.jpg)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777367985372-644007066.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367985904-8bc0731d695fa3e879d43ea7c7e231c6.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777367985904-8bc0731d695fa3e879d43ea7c7e231c6.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367986464-32daff611a7a941f17e0792188a6816a.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777367986464-32daff611a7a941f17e0792188a6816a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367987151-093b725bff8fbfa7e57f769b736a74e7.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777367987151-093b725bff8fbfa7e57f769b736a74e7.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367987844-146c120da84e775b6ea13e53b4bc43ae.jpeg)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777367987844-146c120da84e775b6ea13e53b4bc43ae.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367988448-675862491.jpg)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777367988448-675862491.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367989111-dd46256df3c05958d4946de263266b7a.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777367989111-dd46256df3c05958d4946de263266b7a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367989614-e7a2b049917766feca044ed4f0dc025b.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777367989614-e7a2b049917766feca044ed4f0dc025b.webp)
 
 **▲ Two Bedroom Penthouse Oceanfront Private Pool｜Oceanfront Two-Bedroom Penthouse (with Private Pool)** Breathtaking ocean views paired with an exclusive private pool, defining the pinnacle of luxury at the top of Canggu.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368056120-a23d6f7ac0e49d2feb231b17de6ace0b.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777368056120-a23d6f7ac0e49d2feb231b17de6ace0b.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368056755-8a9dd68cfb48a1813b0c23c7d943bfe4.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777368056755-8a9dd68cfb48a1813b0c23c7d943bfe4.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368057483-61658f238225b3ab66fb0cc6adf3ded4.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777368057483-61658f238225b3ab66fb0cc6adf3ded4.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368058092-e7a2b049917766feca044ed4f0dc025b.webp)
+![Room Overview](https://images.gobaligo.id/images/2026-04/1777368058092-e7a2b049917766feca044ed4f0dc025b.webp)
 
 **▲ One Bedroom Villa Beachfront Private Pool｜Beachfront One-Bedroom Villa (with Private Pool)** The epitome of luxury, step out the door onto soft sandy beaches, and enjoy the sunset and waves of the Indian Ocean by your private pool.
 
@@ -190,7 +190,7 @@ Notably, seasoned travelers pointed out that compared to other top-tier Bali opt
 
 ***
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368558286-caption.jpg)
+![Booking Information](https://images.gobaligo.id/images/2026-04/1777368558286-caption.jpg)
 
 Overall, Regent Bali Canggu is currently the highest-spec accommodation option in the Long Beach area, hands down. If you resonate with Canggu's lifestyle vibe and want to stay somewhere that doesn’t compromise on comfort, this is the most noteworthy new landmark to consider.
 

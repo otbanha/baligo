@@ -19,7 +19,7 @@ _srcHash: 791c075abde39aaa48611ca605ab3965
 
 农历新年是巴厘岛的热门旅游旺季，每年都会吸引来自世界各地的游客前来度假，尤其是在东亚这一带, 将农历新年当作一年之中唯一长假的国家。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aedb411b6e226d4dabf13a829b7b4a0e.png)
+![【2026版】农历新年巴厘岛家庭旅游攻略：春节的机票、签证、交通、景点、注意事项全攻略](https://images.gobaligo.id/vocus/vocus_aedb411b6e226d4dabf13a829b7b4a0e.png)
 
 ➡️[找巴厘岛住宿请看这里](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️
 
@@ -102,7 +102,7 @@ _srcHash: 791c075abde39aaa48611ca605ab3965
 
 ## ⚠️必看⚠️2026农历新年庆祝活动
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8e4b2a2c15a42216e739d2c0cdcbdb4f.jpg)
+![必看2026农历新年庆祝活动](https://images.gobaligo.id/vocus/vocus_8e4b2a2c15a42216e739d2c0cdcbdb4f.jpg)
 
 想在今年的春节在巴厘岛也感受农历新年的气氛吗？我们整理了舞龙舞狮表演的地点、除夕团圆大餐的餐厅、新年参拜的中式寺庙等信息，请看「[2026巴厘岛庆祝农历新年的活动资讯整理](/blog/2026-bali-lunar-new-year/)」
 

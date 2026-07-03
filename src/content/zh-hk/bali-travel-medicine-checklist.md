@@ -18,7 +18,7 @@ lang: zh-hk
 _srcHash: aa29e1ab70b925db743e2577f78348c0
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fef7bd48652aa47030dcbfd2f97f36cf.png)
+![去峇里島旅行要帶咩成藥/藥品？防蚊液/防曬乳點買？](https://images.gobaligo.id/vocus/vocus_fef7bd48652aa47030dcbfd2f97f36cf.png)
 
 初到峇里島，有啲人可能會遇到肚屙、水土不服等情況，呢啲喺英文中被戲稱為「峇里島肚（Bali belly）」。有時，甚至成家人都會中招，真係夠晒黑仔！有啲遊客因為咁，逼住喺酒店度留咗幾日，出唔到去玩。
 
@@ -34,7 +34,7 @@ _srcHash: aa29e1ab70b925db743e2577f78348c0
 
 另外，如果俾蚊蟲咬到痕到頂唔順，推薦你哋一個印尼嘅止癢良藥「青草油（Tjing Tjau Balsem，實際係膏狀）」，可以用嚟醫蚊蟲咬傷、頭痛、刮傷，能夠減少各種痛狀，同埋各種痕症同蟲咬等。對於消腫止癢有神奇嘅效果㗎！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_78d52231e9d18e42ba51fe2efe3ee238.jpg)
+![去峇里島旅行要帶咩成藥/藥品？防蚊液/防曬乳點買？](https://images.gobaligo.id/vocus/vocus_78d52231e9d18e42ba51fe2efe3ee238.jpg)
 
 無論係為咗預防定係應對意外情況，保持身體健康係一次愉快旅行嘅重要保障。希望呢啲建議能夠幫到大家喺峇里島嘅旅程中度過愉快且安全嘅時光。
 

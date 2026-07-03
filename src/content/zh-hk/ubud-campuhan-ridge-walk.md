@@ -55,7 +55,7 @@ https://youtube.com/shorts/3PmPpoHI_6c
 
 我哋唔太建議喺下晝或者夜晚進行詹普漢山脊步道嘅旅程。日頭好可能會相當炎熱而且唔太舒服，因為陽光下嘅遮擋較少。而夜晚就冇照明，你會錯過所有美景，而且會令步行變得更加困難。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ca019e5698041f7f563b3908fefb07b6.jpg)
+![烏布天空步道最佳造訪時段](https://images.gobaligo.id/vocus/vocus_ca019e5698041f7f563b3908fefb07b6.jpg)
 
 ### 烏布天空步道要俾入場費嗎？
 

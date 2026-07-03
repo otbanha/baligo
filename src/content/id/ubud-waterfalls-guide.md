@@ -26,7 +26,7 @@ Ubud adalah kota kecil yang tenang di pusat Bali, terkenal banget sama keindahan
 
 ## **Air Terjun Tegenungan: Megah dan Tenang**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6a9db9041f0434772c136e35c8293b08.jpg)
+![Air Terjun Tegenungan: Megah dan Tenang](https://images.gobaligo.id/vocus/vocus_6a9db9041f0434772c136e35c8293b08.jpg)
 
 **▶ Lokasi dan Cara Akses**
 
@@ -74,7 +74,7 @@ https://youtu.be/-0KOzA9nPGY
 
 ## **Air Terjun Tukad Cepung: Hidden Gem yang Memukau**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_83d5c4a6079fa0ee5aa98ce68a90fe06.jpg)
+![Air Terjun Tukad Cepung: Hidden Gem yang Memukau](https://images.gobaligo.id/vocus/vocus_83d5c4a6079fa0ee5aa98ce68a90fe06.jpg)
 
 **▶Keajaiban Tersembunyi**
 

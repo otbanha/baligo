@@ -53,7 +53,7 @@ For short-distance city travel, such as the areas covered in our guides like "[B
 5. **Kid-Friendly, Professional Care** Private drivers can offer extra services, including looking after children, ensuring they are comfortable and safe during the journey. Some excellent drivers even become friends with kids, allowing parents to relax and enjoy Bali more.
 6. **Solving Travel Issues** Encounter any travel hiccups? Your private driver is your go-to helper! Whether it's an unexpected situation, a last-minute need to buy something, or a request for immediate advice, drivers are happy to assist, ensuring your trip goes smoothly.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_459b731a3eb204e721ef75e310f765b7.png)
+![Advantages of Private Car Charter Services](https://images.gobaligo.id/vocus/vocus_459b731a3eb204e721ef75e310f765b7.png)
 
 In summary, a private car charter in Bali is more than just a mode of transport—it's a caring companion on your journey, providing a worry-free and comfortable vacation experience.
 
@@ -81,7 +81,7 @@ We recommend asking drivers directly for a quote.
 
 ## **Bali's Top Private Car Driver Hall of Fame**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a3e164141c01ab7252a702befd2a22b0.png)
+![Bali's Top Private Car Driver Hall of Fame](https://images.gobaligo.id/vocus/vocus_a3e164141c01ab7252a702befd2a22b0.png)
 
 We've carefully curated resources from two Facebook communities we manage: "[Bali/Indonesia Eat, Play, Love](https://www.facebook.com/groups/indonesia.travelguide)" and "[Go Bali Go Bali Travel](https://www.facebook.com/groups/baligo)", compiling almost all the highly recommended drivers from our members into the "**Bali's Top Private Car Driver Hall of Fame**"! This list is not only based on real travel experiences from our community but also a valuable resource accumulated over years of observation in Bali. From driving skills and service attitude to communication ability, every driver on the list has been rigorously reviewed by our members, ensuring you enjoy a safe, comfortable, and trustworthy journey.
 
@@ -101,7 +101,7 @@ Want to find a great driver? Don't miss ▶ "[Bali's Top Private Car Driver Hall
 
 > The starting rate for a Bali private driver is around IDR 600,000 to 800,000, which includes a five-seater car, 10 hours of use, and travel within the area south of Ubud.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
+![Bali Private Car FAQ](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
 
 See: [【2026 Bali Transportation Announcement】Private Car Charter Rate Adjustment from July 1: Latest Driver Team Quotes and Pricing](https://gobaligo.id/blog/bali-car-charter-rates-2026/)
 
@@ -176,7 +176,7 @@ There was once an incident: a driver from our "[Top-Rated Drivers List](/blog/ba
 
 Every encounter on your journey is built on mutual trust and respect. When you book a driver, guide, or any local service, we kindly ask you:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9dd3f7ee3230df05978350e00ccee88b.png)
+![A Final Reminder](https://images.gobaligo.id/vocus/vocus_9dd3f7ee3230df05978350e00ccee88b.png)
 
 {{block:包車}}
 

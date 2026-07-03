@@ -18,7 +18,7 @@ _srcHash: 3a31ae50ed5d048579cb422a3e04925f
 
 Bali nggak cuma terkenal sama pemandangan alamnya, tapi juga surganya seni dan budaya. Buat kamu yang suka menyelami budaya lokal, ikutan workshop perak tradisional adalah cara yang asyik banget. Mulai dari sepotong perak murni, lewat proses amplas, bentuk, ukir, sampai jadi perhiasan buatan sendiri—ini bukan cuma kreasi, tapi juga petualangan budaya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f94752e3483bb66819ab469739a0853.png)
+![Kenapa Sih Workshop Perak di Bali Wajib Kamu Coba?](https://images.gobaligo.id/vocus/vocus_9f94752e3483bb66819ab469739a0853.png)
 
 ## **Sejarah dan Makna Budaya Kerajinan Perak**
 
@@ -48,7 +48,7 @@ Ubud, kota seni, dipenuhi banyak workshop perak kecil yang menawarkan kelas priv
 
 ▶[Workshop Perak di Canggu](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1079090&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F122280-silver-jewelry-making-class-in-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D87d5cc33a5)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_80cd9d0a888b0c36ad377197e03ea429.png)
+![Workshop Kecil di Ubud dan Canggu](https://images.gobaligo.id/vocus/vocus_80cd9d0a888b0c36ad377197e03ea429.png)
 
 ### Workshop Perak di Daerah Lain
 
@@ -60,7 +60,7 @@ Ubud, kota seni, dipenuhi banyak workshop perak kecil yang menawarkan kelas priv
 
 ▶[Kelas Membuat Perak di Uluwatu](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1079090&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F124445-silver-jewelry-making-class-in-uluwatu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5fc62a37c7)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b62601a500ecbf580fa9aa3280386f36.png)
+![Workshop Perak di Daerah Lain](https://images.gobaligo.id/vocus/vocus_b62601a500ecbf580fa9aa3280386f36.png)
 
 ## **Gimana Cara Booking dan Persiapan Ikut Workshop?**
 

@@ -31,7 +31,7 @@ https://youtube.com/shorts/4qrez0ZwYb4
 
 ## 核心三日：交给专业的深度奔驰
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00f2cd7be9f879ad828534427edb9114.jpg)
+![核心三日：交给专业的深度奔驰](https://images.gobaligo.id/vocus/vocus_00f2cd7be9f879ad828534427edb9114.jpg)
 
 接下来的三天，是此次旅行的重头戏。我将行程完全交给了在网络旅游社团中口碑载道的导游——**Ani (Si Febri)** 和包车司机（她老公）。她的热门程度，让我不得不“反其道而行”：在台湾尚未购买机票前，就先联系确认她的可服务日期，如同预订一位明星导演的档期。
 
@@ -39,15 +39,15 @@ https://youtube.com/shorts/4qrez0ZwYb4
 
 ## 精华三日行程一览：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a01ce62ae4692f23cef04eac4b5d0ba2.png)
+![精华三日行程一览：](https://images.gobaligo.id/vocus/vocus_a01ce62ae4692f23cef04eac4b5d0ba2.png)
 
 ### **🏔️ 探险之魂：**
 
 - **巴杜尔火山吉普车日出：** 凌晨出发，在冷冽空气中搭乘吉普车攀上火山西侧。当金红色的朝阳跃出云海，点亮火山与湖泊的轮廓，那份震撼难以言喻。更惊喜的是，开车的司机小哥个个身怀绝技，熟稔每个最佳摄影点，主动为我们拍下无数张构图专业、气势磅礴的纪念照。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_16a54196130f9e528469195d8ff9aa8c.jpg)
+![探险之魂：](https://images.gobaligo.id/vocus/vocus_16a54196130f9e528469195d8ff9aa8c.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac018a86bbb625114fb5312631d10213.jpg)
+![探险之魂：](https://images.gobaligo.id/vocus/vocus_ac018a86bbb625114fb5312631d10213.jpg)
 
 > **快速参考：**[巴厘岛探险：巴杜尔火山吉普车日出之旅全记录](/blog/batur-volcano-jeep-sunrise-tour/)
 
@@ -59,9 +59,9 @@ https://youtube.com/shorts/lz69CKyTYLk
 
 - **Mari Beach Club：**位于水明漾的时尚海滩俱乐部，以其放松的氛围和优质的餐饮体验而闻名。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_91b70ce735921f4691d46f186989d56d.jpg)
+![探险之魂：](https://images.gobaligo.id/vocus/vocus_91b70ce735921f4691d46f186989d56d.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_89ecc49e4d384b96740899a479368307.jpg)
+![探险之魂：](https://images.gobaligo.id/vocus/vocus_89ecc49e4d384b96740899a479368307.jpg)
 
 > ▶[更多巴厘岛海滩俱乐部优惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1190861&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%25E6%25B5%25B7%25E7%2581%2598%25E4%25BF%25B1%25E6%25A8%2582%25E9%2583%25A8)
 
@@ -73,9 +73,9 @@ https://youtube.com/shorts/BORrtY6fafs
 
 - **Tanah Barak公路：** 支付少许门票，便能站上这道延伸至海中的巨墙，拍下宛如世界尽头的孤寂美景。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_07e90969bcfe06823a447f5f8dc9adc1.jpg)
+![探险之魂：](https://images.gobaligo.id/vocus/vocus_07e90969bcfe06823a447f5f8dc9adc1.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e1bf7f65cd7d7bb67c5abbd8dc732ad.jpg)
+![探险之魂：](https://images.gobaligo.id/vocus/vocus_2e1bf7f65cd7d7bb67c5abbd8dc732ad.jpg)
 
 > **快速参考：**[Batu Barak/Tanah Barak：蓝色公路/断崖公路的绝美之旅](/blog/batu-barak-cliff-road/)
 
@@ -84,9 +84,9 @@ https://youtube.com/shorts/BORrtY6fafs
 - **圣泉寺：** 感谢 Ani 的追加，我们体验了当地人在圣水中洗涤身心的虔诚氛围，寺庙建筑本身也美不胜收。
 - **Golden Rabbit 麝香猫咖啡工厂：** 了解著名的「猫屎咖啡」制作过程，并品尝、选购各种咖啡豆。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1f86a9eb7d00cbc4710b2d014a9719fc.jpg)
+![文化与采购：](https://images.gobaligo.id/vocus/vocus_1f86a9eb7d00cbc4710b2d014a9719fc.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f4da0ea959d76c02a3fd75fbbfc63aa.jpg)
+![文化与采购：](https://images.gobaligo.id/vocus/vocus_4f4da0ea959d76c02a3fd75fbbfc63aa.jpg)
 
 - **Bali Banana：** 采购香脆可口的香蕉片，是送礼自用两相宜的热门伴手礼。
 - **Love Anchor 坎古**：坎古地区的室内购物商场。
@@ -101,17 +101,17 @@ https://youtube.com/shorts/BORrtY6fafs
 
 https://youtu.be/kcKfLqZUSjE
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_05efa07bc26a0a68c1ddffcbc212a11a.jpg)
+![味蕾与放松：](https://images.gobaligo.id/vocus/vocus_05efa07bc26a0a68c1ddffcbc212a11a.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f806383734c781299eece3a235b4e030.jpg)
+![味蕾与放松：](https://images.gobaligo.id/vocus/vocus_f806383734c781299eece3a235b4e030.jpg)
 
 > ▶[D'Tukad Coffee Club 优惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1190857&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F120659-d-tukad-coffee-club-in-ubud-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D92d0787eb8)
 
 - **Malini Uluwatu：** 悬崖上的餐厅，拥有欣赏乌鲁瓦图寺庙与绝美日落的一流视野。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1d0abcf7def6a7c790ea900abb1d022b.jpg)
+![味蕾与放松：](https://images.gobaligo.id/vocus/vocus_1d0abcf7def6a7c790ea900abb1d022b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_44fae2b97686bf8a40d76d8e9d41d128.jpg)
+![味蕾与放松：](https://images.gobaligo.id/vocus/vocus_44fae2b97686bf8a40d76d8e9d41d128.jpg)
 
 - **Wahaha Pork Ribs：** 知名的猪肋排名店，肉质软嫩酱汁浓郁，值得现场排队等候。
 
@@ -121,7 +121,7 @@ https://youtube.com/shorts/PmW1oHHS7gA
 
 - **SVaha Spa：** 在精致的环境中享受传统按摩，舒缓每日奔波的疲劳。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_65c3535029fbc4031bee1f4e347e235f.jpg)
+![味蕾与放松：](https://images.gobaligo.id/vocus/vocus_65c3535029fbc4031bee1f4e347e235f.jpg)
 
 > ▶[水明漾 SVaha Spa 预约&优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1190861&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F155572-svaha-spa-in-seminyak-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3De4814e9f8b)
 
@@ -151,7 +151,7 @@ Ani Si Febri 联系方式
 
 您觉得[廖苡妏](https://www.facebook.com/share/p/1CjoK9BEFX/)他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c24c907b3071f894b193a7b3d195bba.jpg)
+![结语：不只一次的美好](https://images.gobaligo.id/vocus/vocus_1c24c907b3071f894b193a7b3d195bba.jpg)
 
 点击这里观看更多[巴厘岛精彩游记](/blog?cat=游记分享)
 

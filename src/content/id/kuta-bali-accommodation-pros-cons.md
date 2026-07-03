@@ -26,7 +26,7 @@ lang: id
 _srcHash: c62bc1e79300085638e511f5b79ea25e
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e810a0ebad0e132e5fd1ca4ccffc859.png)
+![Tinggal di sini paling gampang di Bali, tapi paling gak dire](https://images.gobaligo.id/vocus/vocus_3e810a0ebad0e132e5fd1ca4ccffc859.png)
 
 Bali itu destinasi liburan yang indah banget, punya pantai-pantai keren, tempat wisata budaya, dan pengalaman kuliner yang bikin ngiler. Tapi pas milih tempat nginep, kamu gak cuma mikirin pemandangan dan fasilitas aja, tapi juga akses transportasi dan lingkungan sekitarnya.
 

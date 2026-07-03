@@ -40,7 +40,7 @@ _srcHash: e37f55456232cbe5fa08f84e46c41317
 
 《DestinAsian》杂志以其广泛的英语读者群闻名，并通过经验丰富的旅行者投票，评选出年度最佳旅游目的地。该杂志指出：「我们的读者再次选择巴厘岛作为亚太地区最喜爱的岛屿目的地，这使巴厘岛**连续18年蝉联**此项殊荣，稳坐印尼最受欢迎旅游热点的宝座。」
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e5f947f6aa60b97f7aa679736ea5334.png)
+![巴厘岛蝉联18年亚洲最佳岛屿](https://images.gobaligo.id/vocus/vocus_2e5f947f6aa60b97f7aa679736ea5334.png)
 
 这座被誉为「众神之岛」的旅游胜地，以纯净的沙滩、翠绿的稻田、著名的冲浪胜地以及深厚的文化底蕴闻名于世。杂志还补充：「巴厘岛独特的文化与艺术气息激发了全球旅人的灵感，加上风景如画的海岸线和田园风光中众多豪华度假村，让巴厘岛对现代旅客而言始终具有无法抗拒的吸引力。」
 
@@ -52,7 +52,7 @@ _srcHash: e37f55456232cbe5fa08f84e46c41317
 
 ## 印尼最佳度假村排行榜
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c3e2154ec4f88df171af20e9349fcbab.jpg)
+![印尼最佳度假村排行榜](https://images.gobaligo.id/vocus/vocus_c3e2154ec4f88df171af20e9349fcbab.jpg)
 
 在「**印尼最佳度假村**」排行榜上，巴厘岛的豪华酒店几乎包揽前十名：
 

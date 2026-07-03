@@ -34,11 +34,11 @@ lang: id
 ---
 Banyak hotel di Uluwatu, Bali, yang menghadap ke laut, tapi yang benar-benar terletak di tepi tebing, mungkin cuma satu ini.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776336998991-d983334a9253e13b11b8294497cc9420.jpeg)
+![Le Cliff Bali Uluwatu: Penginapan dengan Pemandangan Laut Sp](https://images.gobaligo.id/images/2026-04/1776336998991-d983334a9253e13b11b8294497cc9420.jpeg)
 
 Le Cliff Bali terletak di antara bebatuan tebing Uluwatu, menghadap langsung ke spot surfing terkenal Padang Padang. Buka pintu kamar, langsung disambut pemandangan laut tanpa batas. Bahkan, kamu bisa melihat cakrawala penuh dari tempat tidur. Ini bukan tipe hotel yang mengharuskan kamu upgrade ke kamar dengan pemandangan laut—semua kamar di sini sudah menghadap ke laut. Dengan harga rata-rata sekitar $223 per malam, memang sedikit lebih mahal dari rata-rata penginapan di Bali, tapi pemandangan ini adalah pengalaman langka yang worth it banget.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337035647-88f735cf4f34df6313d11c091f41965f.webp)
+![Le Cliff Bali Uluwatu: Penginapan dengan Pemandangan Laut Sp](https://images.gobaligo.id/images/2026-04/1776337035647-88f735cf4f34df6313d11c091f41965f.webp)
 
 ***
 
@@ -58,7 +58,7 @@ Ada banyak restoran dan kafe di sekitar sini: Single Fin Bali terkenal dengan pe
 
 Setelah menuruni lebih dari 200 anak tangga dari tempat parkir, kamu mungkin mulai bertanya-tanya apa yang sedang kamu lakukan—tapi begitu Samudra Hindia muncul di depan mata, semua keluhan pasti langsung hilang.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337278582-188944639.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776337278582-188944639.jpg)
 
 Hotel ini tidak terlalu besar, hanya ada 10 kamar, dengan konsep akomodasi kecil yang eksklusif. Area umum dibangun menempel di tebing, dengan balkon luar dan tempat tidur gantung di atas karang untuk menikmati pemandangan laut. Salah satu spot yang paling diingat para tamu adalah tempat tidur berjemur yang digantung dengan tali, tepat di atas permukaan laut.
 
@@ -70,31 +70,31 @@ Sinyal Wi-Fi di bawah tebing agak lemah, jadi bersiaplah untuk itu. Hotel juga m
 
 ## 🛏️ Tipe Kamar
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337507275-6383164_19040413210073485988.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776337507275-6383164_19040413210073485988.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337507692-258264712.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776337507692-258264712.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337508130-259184111.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776337508130-259184111.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337508527-298804791.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776337508527-298804791.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337508981-351383905.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776337508981-351383905.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337509441-351383906.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776337509441-351383906.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337509907-351384124.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776337509907-351384124.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337510619-351384126.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776337510619-351384126.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337511221-351384128.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776337511221-351384128.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337511739-399743495.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776337511739-399743495.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337512066-c59be9da2326ca82aaaca4f85b9fd465.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776337512066-c59be9da2326ca82aaaca4f85b9fd465.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337512495-3ade9d776ca1280f7de5fbef0da56e4d.jpeg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776337512495-3ade9d776ca1280f7de5fbef0da56e4d.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337512863-19ea088939e853d9e85d171946dc68f9.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776337512863-19ea088939e853d9e85d171946dc68f9.webp)
 
 Kamar di sini dibagi menjadi beberapa kategori: Deluxe Double Room standar, Deluxe Double with Balcony yang dilengkapi balkon, dan kamar dengan pemandangan laut. Semua kamar menghadap ke laut, bedanya hanya ukuran balkon dan sudut pandangnya.
 
@@ -116,7 +116,7 @@ Hotel ini sangat cocok buat para peselancar dan pecinta fotografi matahari terbe
 
 "Setelah menginap di sini, rasanya tidak ingin pulang. Bisa melihat cakrawala penuh dari tempat tidur, sinar matahari sore langsung masuk melalui jendela. Hanya perlu hati-hati dengan monyet, mereka sangat berani—jangan tinggalkan makanan di balkon." (Sumber: Agoda ⭐ 8.5)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337652862-188944707.jpg)
+![Review Tamu](https://images.gobaligo.id/images/2026-04/1776337652862-188944707.jpg)
 
 ***
 
@@ -129,7 +129,7 @@ Ada beberapa hal yang perlu kamu tahu sebelum menginap:
 - **Tempat parkir terbatas**: Karena dekat dengan area pura, disarankan untuk datang dengan motor atau sepeda. Kalau bawa mobil, mungkin harus parkir di jalan utama dan berjalan kaki.
 - **Waktu check-in 15:00–12:00**, kalau terlambat, hubungi hotel sebelumnya.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337785405-486736413_18492010798053481_7956499200462328279_n.jpg)
+![Hal yang Perlu Diketahui Sebelum Menginap](https://images.gobaligo.id/images/2026-04/1776337785405-486736413_18492010798053481_7956499200462328279_n.jpg)
 
 ***
 

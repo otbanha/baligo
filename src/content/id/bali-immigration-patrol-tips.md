@@ -24,7 +24,7 @@ _srcHash: 978fa9d6c43e49e2ba03d48affc0db8c
 
 ## 🏝️ Tim Imigrasi Bali Turun Tangan! 🚨
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a4aef93c9f128fe463fa8c99c7f18ed3.jpg)
+![Tim Imigrasi Bali Turun Tangan!](https://images.gobaligo.id/vocus/vocus_a4aef93c9f128fe463fa8c99c7f18ed3.jpg)
 
 Hey! Kamu tahu nggak? Teman-teman kita di Imigrasi Bandara Ngurah Rai Bali setiap hari menjalankan 'misi rahasia' di pulau ini! 🕵️‍♂️
 
@@ -73,7 +73,7 @@ Petugas patroli pakai seragam biru-hitam dan rompi reflektif, plus dilengkapi bo
 
 ## Dilema Bali: Welcome Wisatawan, Tapi Harus Ada Aturan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7b5383757dbc1df7b9410fe6c33249c6.png)
+![Dilema Bali: Welcome Wisatawan, Tapi Harus Ada Aturan](https://images.gobaligo.id/vocus/vocus_7b5383757dbc1df7b9410fe6c33249c6.png)
 
 Bali masih jadi salah satu surga wisata paling populer di dunia, targetnya di akhir 2025 bisa menyambut 6,5 juta wisatawan internasional. Pemerintah berusaha memastikan:
 
@@ -109,7 +109,7 @@ Kasus paling parah bisa kena denda, ditahan, atau dideportasi.
 
 ## 📩 **Penjelasan Halaman Depan 'Panduan Wisata Bali'**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
+![Penjelasan Halaman Depan 'Panduan Wisata Bali'](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

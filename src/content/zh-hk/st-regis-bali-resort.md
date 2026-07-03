@@ -29,7 +29,7 @@ _srcHash: 6d596115b25a3f29ef05a0527a1718ec
 
 如果你夢想中嘅假期包括白沙灘、私人管家服務同世界級設施，咁**瑞吉度假酒店（The St. Regis Bali Resort）**絕對唔可以錯過！呢座位於峇里島努沙杜瓦嘅五星級度假村，結合咗峇里島嘅自然美景同豪華設計，讓每位旅客都可以喺度享受無與倫比嘅假期體驗。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b35d933791f261fb139da3160e10166e.jpg)
+![峇里島努沙杜瓦嘅頂級豪華享受](https://images.gobaligo.id/vocus/vocus_b35d933791f261fb139da3160e10166e.jpg)
 
 ## 🌴 **絕美設施與豪華住宿**
 
@@ -41,17 +41,17 @@ _srcHash: 6d596115b25a3f29ef05a0527a1718ec
 
 無論係蜜月旅行定係家庭度假，瑞吉都能提供最適合嘅選擇，滿足唔同旅客嘅需求。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_24068cb8566c5572d784452c327cde74.jpg)
+![絕美設施與豪華住宿](https://images.gobaligo.id/vocus/vocus_24068cb8566c5572d784452c327cde74.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a4a0a6ff12e86a7133af37499971fa98.jpg)
+![絕美設施與豪華住宿](https://images.gobaligo.id/vocus/vocus_a4a0a6ff12e86a7133af37499971fa98.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff051eea68efba48b8ae356b37010901.jpg)
+![絕美設施與豪華住宿](https://images.gobaligo.id/vocus/vocus_ff051eea68efba48b8ae356b37010901.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_420b402cbfd779692e5dca0867f21465.jpg)
+![絕美設施與豪華住宿](https://images.gobaligo.id/vocus/vocus_420b402cbfd779692e5dca0867f21465.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a07284ae38a2efcd2d85df1b0e9c3bf3.jpg)
+![絕美設施與豪華住宿](https://images.gobaligo.id/vocus/vocus_a07284ae38a2efcd2d85df1b0e9c3bf3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_01b7b7da182832bf6dc6d20a401c98c3.jpg)
+![絕美設施與豪華住宿](https://images.gobaligo.id/vocus/vocus_01b7b7da182832bf6dc6d20a401c98c3.jpg)
 
 ## 🍴 **無與倫比嘅餐飲體驗**
 
@@ -74,7 +74,7 @@ _srcHash: 6d596115b25a3f29ef05a0527a1718ec
 
 距離峇里國際機場僅**20分鐘車程**，瑞吉渡假酒店提供**機場接送服務**，旅客可以輕鬆抵達。同時，呢度距離努沙杜瓦嘅購物中心同文化景點都非常近，方便你安排一日遊或者購物行程。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dc9cbcf64a780e72e199376c07467195.jpg)
+![便利嘅交通與位置](https://images.gobaligo.id/vocus/vocus_dc9cbcf64a780e72e199376c07467195.jpg)
 
 ## 🎉 **周邊景點推薦**
 
@@ -93,7 +93,7 @@ _srcHash: 6d596115b25a3f29ef05a0527a1718ec
 
 ## 住客真實評論
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_36a94976bb81b6063d8b0a954e6fc88d.jpg)
+![住客真實評論](https://images.gobaligo.id/vocus/vocus_36a94976bb81b6063d8b0a954e6fc88d.jpg)
 
 喺競爭激烈嘅渡假區域中，聖瑞吉斯峇里島渡假村以卓越嘅服務脫穎而出。從機場接待到每一位我哋接觸過嘅員工，佢哋嘅服務水準讓人嘆為觀止。其中最讓人印象深刻嘅係我哋嘅管家Tu Adi，佢嘅貼心同專業無可挑剔，我哋旅遊至今從未遇過咁細緻入微嘅服務。其他管家如Adi同Manzo（希望名字冇記錯！）亦表現得非常出色。禮賓部嘅紳士與女士更係展現出無與倫比嘅專業。
 
@@ -104,7 +104,7 @@ _srcHash: 6d596115b25a3f29ef05a0527a1718ec
 隨著入住時間嘅推移，我哋越來越愛上呢度，無論係美食定係貼心服務，都讓人流連忘返。感謝酒店提供嘅Titanium會員升等到雙臥室別墅，我哋一定會再返嚟！
   ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_112c50d7aa2f44a562717a1b39d29b08.jpg)
+![住客真實評論](https://images.gobaligo.id/vocus/vocus_112c50d7aa2f44a562717a1b39d29b08.jpg)
 
 呢次旅行嘅開端係先生嘅“烏龍”訂房，將USD$129誤當作NT$4000，結果讓我哋迎來一場如國王般嘅假期，簡直哭笑不得🤣！呢次體驗可說係我哋人生中最豪華嘅假期。
 
@@ -113,7 +113,7 @@ _srcHash: 6d596115b25a3f29ef05a0527a1718ec
 早餐更係驚艷，係我喺五星級酒店中食過最頂級嘅一頓，從龍蝦到牛小排，一早就可以享用咁奢華嘅美味，簡直唔敢相信自己嘅味蕾！🤤呢場意外嘅奢華之旅，將成為我哋家庭永遠難忘嘅回憶。
   ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1a3671ae999e6232047124818bdd0cc9.jpg)
+![住客真實評論](https://images.gobaligo.id/vocus/vocus_1a3671ae999e6232047124818bdd0cc9.jpg)
 
 我哋全家嚟到峇里島度假，入住聖瑞吉斯度假村嘅經歷令人無比滿足！我哋揀咗一間有私人泳池嘅別墅，直接通去沙灘，好似置身夢境咁。別墅空間寬敞，設施一流，無論係設計定細節都散發住優雅嘅氣息。
 
@@ -125,7 +125,7 @@ _srcHash: 6d596115b25a3f29ef05a0527a1718ec
 
 ## 更多Nusa Dua五星渡假村介紹
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5ba01ec2194c29084a8317809e7a432f.jpg)
+![更多Nusa Dua五星渡假村介紹](https://images.gobaligo.id/vocus/vocus_5ba01ec2194c29084a8317809e7a432f.jpg)
 
   **Nusa Dua 係峇里島南部一個著名嘅高級渡假勝地，以其寧靜嘅環境、潔白嘅沙灘同世界級嘅奢華體驗聞名。** 如果您正在尋找奢華五星級渡假村，Nusa Dua 提供咗眾多頂尖選擇，從專屬私人海灘到精緻嘅餐飲與水療，應有盡有。
 

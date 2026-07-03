@@ -35,11 +35,11 @@ _srcHash: 4fdaaed7294fe89c30f05b242782c70d
 
 If you're tired of Canggu's traffic and endless tourist crowds but still want to stay close to the sea without venturing too far, Dune Seseh, opening in 2024, might be your perfect escape. Located in Seseh village, just a 20-minute drive from Canggu, this boutique hotel offers 12 rooms with a low-key, surf-inspired vibe. The design combines global aesthetics with Bali's laid-back island charm—truly a 'home away from home.' With Agoda ratings of 9.0 and Trip.com scores of 9.2, this small hotel clearly stands out.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070365354-550072452.jpg)
+![Bali's Hidden Gem by the Sea — Dune Seseh](https://images.gobaligo.id/images/2026-05/1780070365354-550072452.jpg)
 
 ***
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070482699-mixcollage-29-may-2026-11-00-pm-363.jpg)
+![Bali's Hidden Gem by the Sea — Dune Seseh](https://images.gobaligo.id/images/2026-05/1780070482699-mixcollage-29-may-2026-11-00-pm-363.jpg)
 
 ## 📍 Location & Surroundings
 
@@ -53,23 +53,23 @@ Canggu's city center is a 20-minute drive away, with **Berawa Beach**'s beach cl
 
 Though Dune Seseh isn't large, every public space feels thoughtfully designed. The outdoor swimming pool is the heart of the hotel, surrounded by tropical plants and lounge chairs—nearly every guest mentions making daily dips a must. The adjacent garden area features hammocks; lying there, listening to the breeze and gazing at coconut trees, is quintessential Bali.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070675908-083c1734b8efd896da90a5d9bae535f9.webp)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1780070675908-083c1734b8efd896da90a5d9bae535f9.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070676491-72e676c246fb57492dadc944bf5fd1fe.webp)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1780070676491-72e676c246fb57492dadc944bf5fd1fe.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070677240-550072448.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1780070677240-550072448.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070677773-550071835.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1780070677773-550071835.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070678368-550072462.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1780070678368-550072462.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070679096-550072473.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1780070679096-550072473.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070681029-550072483.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1780070681029-550072483.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070682167-unnamed.webp)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1780070682167-unnamed.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070682867-unnamed1.webp)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1780070682867-unnamed1.webp)
 
 Bar & Kitchen serves as the hotel's culinary hub, offering a fusion of Balinese and global flavors. Breakfast is à la carte (additional charge), served daily from 8:00–10:00, with guests on Google reviews particularly praising the coffee and meals that exceeded expectations. Sitting at the bar in the afternoon with a cocktail, enjoying the breeze and pool view, might suddenly make you feel this trip was worth it.
 
@@ -83,49 +83,49 @@ Dune Seseh offers 12 rooms, currently featuring two main types:
 
 ▼ **King Suite with Balcony**: Approximately 40 square meters, equipped with a king bed and private balcony, ideal for travelers who want outdoor space to enjoy morning coffee with a view.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070778511-550072989.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1780070778511-550072989.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070779066-550072990.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1780070779066-550072990.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070779942-550072992.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1780070779942-550072992.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070780428-550072993.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1780070780428-550072993.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070780941-550072994.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1780070780941-550072994.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070781480-unnamed_1_.webp)
+![Room Types](https://images.gobaligo.id/images/2026-05/1780070781480-unnamed_1_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070782054-550072451.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1780070782054-550072451.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070782810-550072974.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1780070782810-550072974.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070783373-550072981.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1780070783373-550072981.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070783933-550072982.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1780070783933-550072982.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070784552-550072987.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1780070784552-550072987.jpg)
 
 ▼ **King Suite with Pool View**: More spacious at around 50 square meters, some rooms feature private terraces directly overlooking the pool, perfect for honeymooners or guests seeking immersion.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070870522-550073143.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1780070870522-550073143.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070871191-550073785.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1780070871191-550073785.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070871713-550074830.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1780070871713-550074830.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070872370-1mc0e12000nf7db4wfede_w_1280_853_r5.webp)
+![Room Types](https://images.gobaligo.id/images/2026-05/1780070872370-1mc0e12000nf7db4wfede_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070873030-1mc4u12000nf7eamta30f_w_1280_853_r5.webp)
+![Room Types](https://images.gobaligo.id/images/2026-05/1780070873030-1mc4u12000nf7eamta30f_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070873943-1mc2612000nf7dl7i38c6_w_1280_853_r5.webp)
+![Room Types](https://images.gobaligo.id/images/2026-05/1780070873943-1mc2612000nf7dl7i38c6_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070874606-550073122.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1780070874606-550073122.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070875206-550073124.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1780070875206-550073124.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070875995-550073126.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1780070875995-550073126.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070876581-550073141.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1780070876581-550073141.jpg)
 
 All rooms come standard with: Smart TV, air conditioning, minibar, safe, free Wi-Fi, coffee/tea maker, bottled water, hairdryer, and toiletries. The standout feature is the bathroom design—complete with a deep soaking tub and locally sourced Balinese bath salts, offering a truly liberating soak. Note: The hotel does not provide personal hygiene items like toothbrushes, so remember to bring your own.
 
@@ -137,7 +137,7 @@ Most recommended for **couples or honeymooners** — offers strong privacy, atmo
 
 ***
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780071002645-mixcollage-29-may-2026-11-09-pm-9681.jpg)
+![Who is it for?](https://images.gobaligo.id/images/2026-05/1780071002645-mixcollage-29-may-2026-11-09-pm-9681.jpg)
 
 ## 💬 Guest Reviews
 
@@ -147,7 +147,7 @@ Another Google guest succinctly stated: Friendly staff, delicious food, amazing 
 
 ***
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780071044446-last.jpg)
+![Guest Reviews](https://images.gobaligo.id/images/2026-05/1780071044446-last.jpg)
 
 ## 📌 Booking Information
 

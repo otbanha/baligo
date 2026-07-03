@@ -47,7 +47,7 @@ update:2026/06/20
 5. **小朋友冇煩惱，專業照顧** 包車司機可以提供額外服務，包括照顧小朋友，確保佢哋喺旅途中舒適、安全，仲有啲優質司機會成為小朋友嘅好朋友，令父母更放心享受峇里島嘅美好。
 6. **解決旅程疑難雜症** 遇到旅程上嘅疑難雜症？包車司機係你嘅得力助手！無論係突發狀況、臨時需要買啲乜嘢，定係需要即時嘅建議，司機都樂意幫手，確保你嘅旅程順暢冇阻。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_459b731a3eb204e721ef75e310f765b7.png)
+![包車服務嘅優勢](https://images.gobaligo.id/vocus/vocus_459b731a3eb204e721ef75e310f765b7.png)
 
 總括嚟講，峇里島包車唔單止係一種交通工具，更加係你旅行中嘅貼心夥伴，為你提供一個無憂、舒適嘅度假體驗。
 
@@ -75,7 +75,7 @@ update:2026/06/20
 
 ## **峇里島優質包車司機名人榜**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a3e164141c01ab7252a702befd2a22b0.png)
+![峇里島優質包車司機名人榜](https://images.gobaligo.id/vocus/vocus_a3e164141c01ab7252a702befd2a22b0.png)
 
 我哋用心收集咗我哋經營嘅兩個Facebook社團嘅豐富資源：「[峇里島/印尼吃喝玩樂](https://www.facebook.com/groups/indonesia.travelguide)」同「[Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo)」，幾乎囊括晒所有團友強力推薦嘅優質司機，精選製作成「**峇里島優質包車司機名人榜**」！呢份榜單唔單止係團友嘅實際旅遊經驗，亦係我哋喺峇里島多年觀察同累積嘅寶貴資源。由駕駛技術、服務態度到溝通能力，每位上榜司機都經過大家嘅嚴格評比，確保你可以享受到安全、舒適、同值得信賴嘅旅程。
 
@@ -95,7 +95,7 @@ update:2026/06/20
 
 > 峇里島包車嘅起跳價大約係600,000至800,000印尼盾，包一架五人車/十個鐘使用時間/旅遊範圍烏布以南
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
+![峇里島包車FAQ](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
 
 請睇：[【2026 峇里島交通公告】7月1日起包車價格調整通知：司機團隊最新報價、計費方式](https://gobaligo.id/blog/bali-car-charter-rates-2026/)
 
@@ -170,7 +170,7 @@ update:2026/06/20
 
 旅途入面嘅每一次相遇，都係雙向嘅信任同尊重。當你預約司機、導遊或者任何在地服務嗰陣，懇請你：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9dd3f7ee3230df05978350e00ccee88b.png)
+![最後提醒](https://images.gobaligo.id/vocus/vocus_9dd3f7ee3230df05978350e00ccee88b.png)
 
 {{block:包車}}
 

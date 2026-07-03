@@ -27,7 +27,7 @@ _srcHash: d9a16fe8a42077ecf9881ee87a62ec22
 
 Liburan ke Bali, aku dan teman perjalananku pengin banget bikin kenangan yang lebih berkesan. Dari sekian banyak pilihan tur, kami mutusin buat booking paket spesial — "One Day Tour Bareng Fotografer Profesional di Bali". Paket ini nggak cuma kasih tur ke tempat-tempat keren, tapi yang lebih penting ada fotografer profesional yang nemenin kita seharian, pake kamera dan drone buat ngerekam setiap momen berharga. Buat kita yang pengin dapet foto kece tapi nggak mau ketinggalan pengalaman langsung, ini sih perfect banget!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e1717a9a6a869486f410bf4911f00e0.jpg)
+![Paket Foto Profesional + Drone One Day Tour di Bali - Ubud &](https://images.gobaligo.id/vocus/vocus_4e1717a9a6a869486f410bf4911f00e0.jpg)
 
 ## Persiapan Sebelum Berangkat
 
@@ -35,7 +35,7 @@ Beberapa hari pertama di Bali, kami nginep di **Sheraton Bali Kuta Resort**. Lok
 
 ▶[**Link Booking Sheraton Bali Kuta Resort**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=407502) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=987824&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6zszFJMEk9YGZY-mso0_ZhBiNDDgtPgk6nj0DBEZtDp5c1xcX2N7pcgjgaWS0BXFqXR1mMG5YarOCkXEj4zeNmP5DS5McdjAynWCcJb-A6ezKV8ynWJg5trJeYvnKFF2tlJ1aqWRloqNUklmSk6pkpfR00bynDXuer2hV0lFKSS1OBgoBWYm5-aV5JUC2sbGBnoEBUKQkscIzBawzOTEnuTQnsSQ1pLIAaIKZjlJmsXNJUWZBUGpuZklJKlBVWmJOcSpIPCi1GCiTDBZU8gMaUwQVyMzPg2g3QBELS8wpTYU4AWihWyrUDsNaHUyXP5vT-7R75otNu3G43MwYxeXmA-Jy49rYRyxM0bGfWBh-sTA0sTJ0sTJMYmXmmCW_i5UnxNTfzdlX11A3StdQSt7QwMDA1NDY1FTXINHSwtgo0UjXxNLEyMxM19TCzNhUY9nO7xeeGBtZS7FOOfB8GrsCo5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNjMLcxMDiygbLmZPlyDBD3rPt7dbW9pLMYeEuyh-WH7M27zztL0WSM4QJhe453XOCXvjBfaRMPkk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUAY6Xp_uMCAAA&masterhotelid_tracelogid=100051355-0a9832a2-494266-58635&detailFilters=17|1~17~1*31|987824~31~987824*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=225&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/q7Xyh0DQ)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_25c77ae3894da2cae177666ebed9781f.jpg)
+![Persiapan Sebelum Berangkat](https://images.gobaligo.id/vocus/vocus_25c77ae3894da2cae177666ebed9781f.jpg)
 
 Mau tahu lebih banyak tips seputar Kuta? [Klik di sini](/blog/2023-12-13-657598bdfd8978000120fe20/)
 
@@ -56,7 +56,7 @@ Mobil meninggalkan Kuta, dan kami memulai perjalanan menuju Ubud. Pemandangan di
 
 Setelah sampai di Suaka Monyet Suci Ubud, fotografer kami beliin tiket masuk, udah termasuk dalam paket layanan. Begitu masuk ke hutan suci ini, kami langsung terkesima sama hutan primitif yang lebat dan patung-patung batu kuno.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc3f496a03ce0af43e1dac90c9f6bda4.jpg)
+![Pemberhentian Pertama: Suaka Monyet Suci Ubud](https://images.gobaligo.id/vocus/vocus_cc3f496a03ce0af43e1dac90c9f6bda4.jpg)
 
 Di sini, monyet-monyet nakal jadi pendamping paling oke di foto-foto kami. Fotografer dengan sigap pakai kamera profesional buat mengabadikan momen berharga saat kami berinteraksi sama mereka. Bangunan kuil kuno yang dikelilingi rimbunnya pepohonan keliatan makin mistis, setiap sudutnya jadi latar foto yang sempurna. Kami di sini hampir satu jam.
 
@@ -64,9 +64,9 @@ Di sini, monyet-monyet nakal jadi pendamping paling oke di foto-foto kami. Fotog
 
 Setelah dari hutan monyet, kami lanjut ke Terasering Tegalalang yang terkenal. Fotografer juga ngurusin tiket masuknya, jadi kami bisa menikmati keajaiban hijau ini tanpa ribet.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c9715ea0e3f5452bc5324c6403d129ca.jpg)
+![Pemberhentian Kedua: Terasering Tegalalang](https://images.gobaligo.id/vocus/vocus_c9715ea0e3f5452bc5324c6403d129ca.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0a56ec0011c1598693f0ffae9cb5a748.jpg)
+![Pemberhentian Kedua: Terasering Tegalalang](https://images.gobaligo.id/vocus/vocus_0a56ec0011c1598693f0ffae9cb5a748.jpg)
 
 Berdiri di platform pandang, sawah bertingkat-tingkat kayak tangga hijau yang menjulang ke langit, pemandangannya bikin kami takjub banget. Fotografer pakai drone buat ngerekam keindahan terasering dari berbagai ketinggian dan sudut. Kami juga jalan-jalan di antara sawah, biar fotografer menangkap ekspresi alami kami saat menikmati pemandangan alam ini.
 
@@ -80,13 +80,13 @@ Setelah makan siang, kami lanjut ke destinasi terakhir hari ini — Air Terjun T
 
 Tempat ini agak jauh dari Ubud, justru karena itu kita bisa menikmati suasana santai dengan pengunjung yang sepi dan pemandangan yang indah. Di mobil aku sempat tidur sebentar, lalu kami sampai di parkiran. Paket perjalanan kami sudah termasuk tiket masuk semua tempat, jadi tinggal ikut Udin aja. Sepanjang jalan setapak melewati hutan hujan tropis yang rimbun, suara air terjun mulai terdengar jelas. Air Terjun Tibumana bagaikan benang perak yang jatuh dari langit, menyiram ke kolam hijau kebiruan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0f90bb6512bf564843f7ec10f5422a89.jpg)
+![Pemberhentian Ketiga: Air Terjun Tibumana](https://images.gobaligo.id/vocus/vocus_0f90bb6512bf564843f7ec10f5422a89.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc0b6e8b9a4393a670407aa8edbc6aeb.jpg)
+![Pemberhentian Ketiga: Air Terjun Tibumana](https://images.gobaligo.id/vocus/vocus_cc0b6e8b9a4393a670407aa8edbc6aeb.jpg)
 
 Di sini fotografer memanfaatkan drone dengan maksimal, mengambil gambar air terjun dari atas, sekaligus merekam berbagai pose kami di depan air terjun dengan kamera. Air kolam yang jernih memantulkan senyum bahagia kami, setiap foto penuh dengan energi yang hidup.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e4e3b5818941b29c25a2d591ec46a08d.jpg)
+![Pemberhentian Ketiga: Air Terjun Tibumana](https://images.gobaligo.id/vocus/vocus_e4e3b5818941b29c25a2d591ec46a08d.jpg)
 
 Mau tahu lebih banyak tips Ubud? [Klik di sini](/blog/ubud-guide/)
 

@@ -24,7 +24,7 @@ _srcHash: befb7e75cc299777c97434ff49bcd797
 
 ## **新生态度假村Toya Ubud于巴厘岛乌布开幕，惊艳游客**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f2d953ffaa337ca9f753204ede51ff78.jpg)
+![新生态度假村Toya Ubud于巴厘岛乌布开幕，惊艳游客](https://images.gobaligo.id/vocus/vocus_f2d953ffaa337ca9f753204ede51ff78.jpg)
 
 2024年11月，巴厘岛迎来了Toya Ubud的试运营，这是一个全新的生态公园和度假村，距离著名的德格拉朗梯田仅几分钟车程。如今，度假村已正式全面开业，并在过去几周内迎接了首批来自世界各地的游客，成为巴厘岛旅游的新亮点。
 

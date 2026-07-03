@@ -42,7 +42,7 @@ _srcHash: 861edd1f78bb96600434d414a80a2d3d
 
 If you're a durian lover, timing your visit to Bali is crucial. Otherwise, you might only catch the scent but miss out on the 'explosive abundance' 😂
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775544264541-balipostcom_unik-ada-tradisi-persembahan-durian-di-sidatapa_01.jpg)
+![Bali Durian Season Guide｜When is it the Most Fragrant and Ch](https://images.gobaligo.id/images/2026-04/1775544264541-balipostcom_unik-ada-tradisi-persembahan-durian-di-sidatapa_01.jpg)
 
 ## 📅 Bali Durian Season Timeline
 
@@ -80,7 +80,7 @@ Here’s my recommendation👇:
 - Occasionally there's a "second small harvest season"
 - But quality and quantity are inconsistent
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775544297904-banyuwnagi-durian.jpg)
+![The go-with-the-flow traveler](https://images.gobaligo.id/images/2026-04/1775544297904-banyuwnagi-durian.jpg)
 
 ***
 

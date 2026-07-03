@@ -20,7 +20,7 @@ _srcHash: b15bb3b16f790b35f1b763e19fdac1fe
 
 計劃峇里島之旅嘅時候，訂房係其中一個最重要嘅步驟。峇里島有各式各樣嘅豪華酒店、精緻別墅同經濟實惠嘅住宿選擇，但點樣搵到又符合預算又舒服嘅住宿？呢度分享幾個慳錢貼士，等你可以輕鬆慳返一筆。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e1458b18b30d2ce80d48b7e014546a95.png)
+![峇里島嘅七個慳錢訂房貼士](https://images.gobaligo.id/vocus/vocus_e1458b18b30d2ce80d48b7e014546a95.png)
 
 想玩得盡興又唔使破產！快啲睇吓呢啲慳錢妙招啦！
 
@@ -54,7 +54,7 @@ _srcHash: b15bb3b16f790b35f1b763e19fdac1fe
 
 使用比價網站或者應用程式，例如Booking、Agoda等，比較唔同住宿選擇嘅價錢同評價。咁樣可以確保你搵到最抵嘅選擇。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b53721b574da73c7eee1ef243acb1960.png)
+![比價搜索](https://images.gobaligo.id/vocus/vocus_b53721b574da73c7eee1ef243acb1960.png)
 
 預訂、慳錢就要睇呢度：
 

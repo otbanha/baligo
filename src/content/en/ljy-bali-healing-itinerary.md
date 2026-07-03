@@ -108,43 +108,43 @@ If you're flying with China Airlines on this schedule, you might still have time
 
 We stayed at Pelangi Bali Hotel & Spa in Seminyak on the first night.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781014591626-mixcollage-09-jun-2026-06-23-pm-6066.jpg)
+![Day 1 Accommodation Pelangi Bali Hotel & Spa in Seminyak](https://images.gobaligo.id/images/2026-06/1781014591626-mixcollage-09-jun-2026-06-23-pm-6066.jpg)
 
 Provided by Lai Jiaying
 
 For about USD$65 per night for two people, I think it's a great deal given the location. The biggest perk? You can walk straight to the beach after dropping off your luggage.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781014649179-695071414_17950095120159785_7534116028163351902_n.webp)
+![Day 1 Accommodation Pelangi Bali Hotel & Spa in Seminyak](https://images.gobaligo.id/images/2026-06/1781014649179-695071414_17950095120159785_7534116028163351902_n.webp)
 
 Provided by Lai Jiaying
 
 No need to call a car or move again—just walk to a beachfront restaurant in the evening for dinner, listening to the sound of the waves and feeling the sea breeze. That sense of 'the journey has truly begun' is incredibly soothing.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781014682478-700224347_17950095102159785_6229290711436180316_n.webp)
+![Day 1 Accommodation Pelangi Bali Hotel & Spa in Seminyak](https://images.gobaligo.id/images/2026-06/1781014682478-700224347_17950095102159785_6229290711436180316_n.webp)
 
 Provided by Lai Jiaying
 
 #### Pelangi Bali Hotel & Spa
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132295579-a217b7b9deffc6b3fd00e916b05af6c3.webp)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132295579-a217b7b9deffc6b3fd00e916b05af6c3.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132304396-5f0122f8618048a616777191981d4c39.webp)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132304396-5f0122f8618048a616777191981d4c39.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132304872-414b55fef6544a7198b462310d39f58a.webp)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132304872-414b55fef6544a7198b462310d39f58a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132305361-14243754.jpg)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132305361-14243754.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132305775-412170935.jpg)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132305775-412170935.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132306195-412170988.jpg)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132306195-412170988.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132306596-470270319.jpg)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132306596-470270319.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132307080-515181754.jpg)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132307080-515181754.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132307630-515182654.jpg)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132307630-515182654.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132315197-c46e84479089823e865fa0d893fb636c.webp)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132315197-c46e84479089823e865fa0d893fb636c.webp)
 
 Check availability & prices: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=45546) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685500&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-NqZuFikmCS-sPM0dWxZyabEKeRsYW5hYmlgZHBbE6LlYmOIuvcH1ZZlDt47pBrfR0YUuMQwDODcc9rzRWMjBsZ-w991YjJD3HYwch0gJHpBOP3Xs8FTG93rJA9xcLCcWA67yWW30zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZBsaWBgYGOgZGAAFSxIrPFPAmpMTc5JLcxJLUkMqC4CGmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiCuAFrqlQu0wrNXBdPyzOb1Pu2e-2LSbaMebU9vxBsQ43rg29hELU3TsJxaGXywMTawMXawMk1hZOIBxtIuVN8jTP8TIQ9c5wjQgKkJK0RDoZiNTUyNzXYNEy8QkQzMLXRNLExMLA11TM1MTc0Mjjf3fXh14bmxkosCoJRgf4unpYlhSmGpWWGqZU1RgasB4ilHK0NzYwtDI0NDIyMjSWM_EIs2s2CKv2CI3K8KDMYjNxcXI1dIwyoaLOTTYRfDx8Rm7pwlIO0gxe7oEKdrxTnl945yFvRaIZwjjBU78WSyWGsRrHwkTSWKtytANCc_oFS9gbGBk6mLkFmD0YIxgrADyGFcxMmxgZNzB-B8GGF8xgswDAJi5mHrjAgAA&masterhotelid_tracelogid=100025527-0a9ab168-494480-5654712&detailFilters=17|1~17~1*31|685500~31~685500*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=363&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109) [Booking](https://booking.tpm.li/KYvRaNYn)
 
@@ -172,7 +172,7 @@ And honestly, the "surfer hottie density" in Seminyak in the morning is seriousl
 
 During the day, I headed to Atlas Beach Club, which has been making a lot of buzz lately.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781014745875-atlas2.jpg)
+![Atlas Beach Club｜The World's Largest Beach Club](https://images.gobaligo.id/images/2026-06/1781014745875-atlas2.jpg)
 
 Photo courtesy of Lai Jiaying, Atlas Beach Club
 
@@ -188,7 +188,7 @@ That said, I personally feel Atlas leans more toward a "lively party beach club.
 
 In the afternoon, I headed to the Kempinski in Nusa Dua for afternoon tea.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781014825527-kemp1.jpg)
+![Afternoon Tea at Kempinski Nusa Dua – The Sea View Really Ad](https://images.gobaligo.id/images/2026-06/1781014825527-kemp1.jpg)
 
 Photo courtesy of The Apurva Kempinski Bali
 
@@ -222,7 +222,7 @@ That scene was a bit jarring. You suddenly realize that some children grow up in
 
 But at the same time, they weren't gloomy. Instead, they kept laughing, chatting, and even proactively helped greet everyone.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781014986137-bali_life_foundation2.jpg)
+![Bali Life Foundation – The Most Profound Stop of This Trip](https://images.gobaligo.id/images/2026-06/1781014986137-bali_life_foundation2.jpg)
 
 Provided by Lai Chia-Ying
 
@@ -246,25 +246,25 @@ Compared to Seminyak and Canggu, Sanur has a much slower pace. It lacks the part
 
 ### Respati Beach Hotel - Super Convenient Location
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133406631-45699931.jpg)
+![Respati Beach Hotel - Super Convenient Location](https://images.gobaligo.id/images/2026-05/1780133406631-45699931.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133407043-45700385.jpg)
+![Respati Beach Hotel - Super Convenient Location](https://images.gobaligo.id/images/2026-05/1780133407043-45700385.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133407768-45700399.jpg)
+![Respati Beach Hotel - Super Convenient Location](https://images.gobaligo.id/images/2026-05/1780133407768-45700399.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133408330-45700402.jpg)
+![Respati Beach Hotel - Super Convenient Location](https://images.gobaligo.id/images/2026-05/1780133408330-45700402.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133408808-45700681.jpg)
+![Respati Beach Hotel - Super Convenient Location](https://images.gobaligo.id/images/2026-05/1780133408808-45700681.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133409286-45700868.jpg)
+![Respati Beach Hotel - Super Convenient Location](https://images.gobaligo.id/images/2026-05/1780133409286-45700868.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133409871-45700923.jpg)
+![Respati Beach Hotel - Super Convenient Location](https://images.gobaligo.id/images/2026-05/1780133409871-45700923.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133410381-45699136.jpg)
+![Respati Beach Hotel - Super Convenient Location](https://images.gobaligo.id/images/2026-05/1780133410381-45699136.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133410787-45699394.jpg)
+![Respati Beach Hotel - Super Convenient Location](https://images.gobaligo.id/images/2026-05/1780133410787-45699394.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133411307-45699611.jpg)
+![Respati Beach Hotel - Super Convenient Location](https://images.gobaligo.id/images/2026-05/1780133411307-45699611.jpg)
 
 Check room availability & prices: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2973771) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685474&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-PaycTFJMEktYmJY-rZ5cuZhBiNDO4zWmyVdwzaIdf62rHOwfPsGSBwaXII4JnBuOi15kZG-dbXgTvkIh12MDIdYGQ6wbh6adwCpsNXXzGeYmHh2DpL4BLLXsboaqXs1EolKxMdpZLMkpxUJSulp4vmPW3Y83xFq5KOUkpqcTJQCMhKzM0vzSsBso3MTE2NTPUMDICCJYkVnilgzcmJOcmlOYklqSGVBUBDjHSUMoudS4oyC4JSczNLSlKBqtISc4pTQeJBqcVAmWSwIMjoIig_Mz8PotsARSwsMac0FaISaJ9bKtQKw9rYRyxM0bGfWBh-sTA0sTJ0sTJMYmXhAPpyFyuPt49_uKOvrqFulK6hlKKhgYGBEdDZ5roGiZbGiaaWRromliYmFoa6xgYGlsYWZhrLVj09-NzYyESBUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm4mjsYmFcZQNF3NosIvg4-Mzdk8TkHaQYvZ0CVK0453y-sY5C3stEM8Qxguc-LNYLDWI1z4SJpLEWpWhGxKe0StewNjAyNTFyC3A6MEYwVgB5DGuYmTnYjYwMhRg2sDIuIPxPwwwvmIEGQsAELT2giACAAA&masterhotelid_tracelogid=100025527-0a93a592-494481-3009386&detailFilters=17|1~17~1*31|685474~31~685474*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1602&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109) [Booking](https://booking.tpm.li/DQtXL8Cn)
 
@@ -274,7 +274,7 @@ Check room availability & prices: [Agoda](https://www.agoda.com/partners/partner
 
 After dropping off our luggage, we headed out to explore Icon Bali Mall.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015028030-icom.jpg)
+![Icon Bali Mall｜The Trendy Seaside Mall That’s All the Rage](https://images.gobaligo.id/images/2026-06/1781015028030-icom.jpg)
 
 ICON Bali Mall – Photo by Lai Jiaying
 
@@ -282,7 +282,7 @@ This is one of the newest and most talked-about malls in Sanur right now. Its bi
 
 Many spots offer direct sea views, and with its fresh, modern space and powerful air conditioning (laughs), it’s quickly become a must-visit for anyone passing through Sanur.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015168659-secret_garden.jpg)
+![Icon Bali Mall｜The Trendy Seaside Mall That’s All the Rage](https://images.gobaligo.id/images/2026-06/1781015168659-secret_garden.jpg)
 
 I also picked up some fragrances from Secret Garden while I was there. – Photo by Lai Jiaying
 Indonesia actually has quite a few fragrance brands with great prices, and some scents have a lovely tropical vibe—perfect to bring home as souvenirs.
@@ -291,7 +291,7 @@ Indonesia actually has quite a few fragrance brands with great prices, and some 
 
 On the third day, we had no fixed plans at all. We slept in and decided to spend the entire day in Sanur.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015212224-sanur1.jpg)
+![Day 3｜A Gentle Day of Slowing Down in Sanur, So Tender It’s ](https://images.gobaligo.id/images/2026-06/1781015212224-sanur1.jpg)
 
 Photo by Lai Jiaying
 
@@ -319,7 +319,7 @@ This time, I also brought some stuffed toys all the way from Taiwan to donate.
 
 This 'Smile Shop' is actually a secondhand charity store run by the Bali Smile Foundation.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015250988-smile_shop.jpg)
+![Smile Shop A Stop More Meaningful Than Shopping](https://images.gobaligo.id/images/2026-06/1781015250988-smile_shop.jpg)
 
 Provided by Yayasan Senyum Bali Lai Jiaying
 
@@ -337,7 +337,7 @@ This time, I also happened to join a very special international crochet gatherin
 
 Provided by Lai Jiaying
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015375794-lady_bumps.jpg)
+![A Heartwarming International Crochet Gathering](https://images.gobaligo.id/images/2026-06/1781015375794-lady_bumps.jpg)
 
 賴佳瑩提供
 
@@ -355,7 +355,7 @@ Of course, I still booked a massage in the afternoon 🤣
 
 This time, I returned to The Nest Boutique Spa, a place I visit almost every trip.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015307241-spa.jpg)
+![‍ My Go-To Spa in Sanur Almost Every Time](https://images.gobaligo.id/images/2026-06/1781015307241-spa.jpg)
 
 The Nest Boutique Spa (Photo by Lai Jiaying)
 
@@ -372,7 +372,7 @@ After all the walking, sunbathing, and moving around by car, a full massage inst
 
 After the massage, I felt completely refreshed and headed straight back to the mall for more shopping 🤣
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015463514-icon.jpg)
+![Straight to Shopping Mode After the Massage](https://images.gobaligo.id/images/2026-06/1781015463514-icon.jpg)
 
 Provided by Lai Jiaying
 
@@ -413,7 +413,7 @@ But a heads-up: if you're not used to riding a scooter or aren't familiar with S
 
 Our first stop was straight to Tirta Empul Temple.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015518073-tirta_empul_3.jpg)
+![Tirta Empul Temple｜Coming early makes a huge difference](https://images.gobaligo.id/images/2026-06/1781015518073-tirta_empul_3.jpg)
 
 Tirta Empul Temple – Photo by Lai Jiaying
 
@@ -437,7 +437,7 @@ Your hair will just have to air-dry naturally after getting wet 😂 Luckily, I 
 
 Continuing north on the bike, I arrived at Penglipuran Village.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015614405-pengli1.jpg)
+![Penglipuran Village – A Traditional Village Full of Everyday](https://images.gobaligo.id/images/2026-06/1781015614405-pengli1.jpg)
 
 Penglipuran Village — Photo by Lai Jiaying
 
@@ -457,7 +457,7 @@ A few shops also sell local snacks, making them perfect spots to sit and rest if
 
 After leaving the village, I rode along the mountain road toward the Tegallalang Rice Terraces. This time, I headed straight for the highly Instagrammable TIS Cafe.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015660578-tis_3.jpg)
+![Tegallalang Rice Terraces｜The view at TIS Cafe is absolutely](https://images.gobaligo.id/images/2026-06/1781015660578-tis_3.jpg)
 
 Photo courtesy of TIS Cafe / Lai Jiaying
 
@@ -473,7 +473,7 @@ I personally think this kind of spot is perfect for a break during a scooter tri
 
 Headed straight for lunch at Ubud's iconic dirty duck rice spot.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015721087-bebek.jpg)
+![Classic Ubud Lunch: Bebek Tepi Sawah Dirty Duck Rice](https://images.gobaligo.id/images/2026-06/1781015721087-bebek.jpg)
 
 Photo courtesy of Bebek Tepi Sawah / Lai Jiaying
 
@@ -481,7 +481,7 @@ Their Crispy Duck is seriously impressive—super crispy skin, tender meat that'
 
 Pair it with Indonesian chili sauce, and it's dangerously delicious.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015694382-bebek_4.jpg)
+![Classic Ubud Lunch: Bebek Tepi Sawah Dirty Duck Rice](https://images.gobaligo.id/images/2026-06/1781015694382-bebek_4.jpg)
 
 Photo by Lai Jiaying
 
@@ -518,7 +518,7 @@ Back in Sanur at night, of course I had to eat again 🤣
 
 This time I went to buy Massimo ice cream.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781016426600-mismo.jpg)
+![Massimo Ice Cream｜Always a Queue](https://images.gobaligo.id/images/2026-06/1781016426600-mismo.jpg)
 
 Photo courtesy of Massimo Italian Restaurant
 
@@ -613,7 +613,7 @@ These types of coffee plantations are quite common in Bali’s highlands, and th
 
 From ginger tea and vanilla tea to various flavored coffees—they have it all.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781016873612-luwak3.jpg)
+![Mountain Coffee Park A Rest Stop on the Way Back](https://images.gobaligo.id/images/2026-06/1781016873612-luwak3.jpg)
 
 Provided by Lai Jiaying
 
@@ -678,7 +678,7 @@ After a good rest, I headed out at 6 PM sharp.
 
 The grand finale dinner tonight was Cuca, a place I almost always revisit every time I come to Bali.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781016745897-cuca1.jpg)
+![Cuca｜Still Amazes Me Every Time I Visit Bali](https://images.gobaligo.id/images/2026-06/1781016745897-cuca1.jpg)
 
 Cuca Restaurant Bali – provided by Lai Jiaying
 
@@ -722,7 +722,7 @@ Now it's time to return to nature and embark on today's healing itinerary.
 
 Our first stop is the increasingly popular purification sanctuary—Taman Beji Griya Waterfall.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781016977848-beji.jpg)
+![‍ Taman Beji Griya Waterfall｜Five-Stage Holy Water Purificat](https://images.gobaligo.id/images/2026-06/1781016977848-beji.jpg)
 
 Taman Beji Griya Waterfall. Photo by Lai Jiaying.
 
@@ -748,7 +748,7 @@ After the purification ceremony, we continued heading into the mountains.
 
 For lunch, we dined at Catavaca, a restaurant with a view near the Jatiluwih Rice Terraces.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781016946446-jatiluwih.jpg)
+![Catavaca Jatiluwih｜Lunch Amidst a UNESCO World Heritage Rice](https://images.gobaligo.id/images/2026-06/1781016946446-jatiluwih.jpg)
 
 Photo courtesy of Catavaca Jatiluwih / Lai Jiaying
 
@@ -806,7 +806,7 @@ Sometimes the most precious travel memories aren't the sights, but the people.
 
 Before dinner, we stopped at a long-established local eatery in Kuta for fish soup.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781017149714-709863826_17952267135159785_5884357276073212035_n.jpg)
+![Kuta's Old-School Fish Soup Simple but Unforgettable](https://images.gobaligo.id/images/2026-06/1781017149714-709863826_17952267135159785_5884357276073212035_n.jpg)
 
 Provided by Lai Jiaying
 
@@ -826,7 +826,7 @@ As the trip nears its end, one last shopping spree is a must.
 
 Back in Kuta, we hurry to our favorite shops to restock.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781017192760-709578614_17952267126159785_222582433305496374_n.jpg)
+![Final Sprint｜Souvenir Restock Time](https://images.gobaligo.id/images/2026-06/1781017192760-709578614_17952267126159785_222582433305496374_n.jpg)
 
 Provided by Lai Jiaying
 
@@ -846,7 +846,7 @@ Jimbaran Bay Beach Resort & Spa by Prabhu
 
 It started as a very ordinary check-in.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781017265904-709707450_17952267105159785_2782423296135553890_n.jpg)
+![Birthday Surprise: Free Upgrade to a Massive Oceanfront Room](https://images.gobaligo.id/images/2026-06/1781017265904-709707450_17952267105159785_2782423296135553890_n.jpg)
 
 Provided by Lai Jiaying
 
@@ -876,29 +876,29 @@ And this birthday blind box trip welcomed the most beautiful sunset with an unex
 
 ### Jimbaran Bay Beach Resort & Spa by Prabhu
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130124419-591154787.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130124419-591154787.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130124945-591155178.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130124945-591155178.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130125365-670317057.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130125365-670317057.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130125880-688804851.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130125880-688804851.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130126214-688805055.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130126214-688805055.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130132126-84821601.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130132126-84821601.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130132637-267601565.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130132637-267601565.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130133134-437134342.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130133134-437134342.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130133548-437990866.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130133548-437990866.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130133907-591151706.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130133907-591151706.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130134293-591151960.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130134293-591151960.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130134769-591152775.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130134769-591152775.jpg)
 
 Check availability & prices: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1195948) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=5895863&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-NqZuFikmCS-sPMsePTjj42IS5DQxNDCwsjEwMjg2dcFosyHGP6D33VWFDi4PlNA8jUrHQI4JnBuP3tc6YVjIwbGdNAQC3IYQcj0wFGphOMi786LGCaseqX9ikWFo5Nt7gvsfxkiq5Wyk6tVLIy0VEqySzJSVWyUno2p_dp98wXm3Yr6SilpBYnA4WArMTc_NK8EiDb0tTC0lzPwAAoVpJY4ZmiZGWuo5ScmJNcmpNYkhpSWQA0w0xHKbPYuaQosyAoNTezpCQVqCotMac4FSQelFoMlEkGCyr5AY0pggpk5udBtBugiIUl5pSmQhwBtNAtFWqHca0OptufLpr3tGHP8xWtxLrdhNpuNyTG7Ya1sY9YmKJjP7Ew_GJhaGJl6GJlmMTKwgGMoV2svEEuEd4mYbqeoSGezh5SioYGBgZGpqZG5roGiZaJSYZmFromliYmFga6xkbGZkaWRho95_sPPDc2MlFg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZu7oamJhHGXDxezpEiRoxzvl9Y1zFvZSIJ4ijKcF4hnCeIETfxaLpQbx2kfCRJJYqzJ0Q8IzesULGBsYmboYuQUYPRgjGCuAPMZVjAwbGBl3MP6HAcZXjCDzAG_ToiXjAgAA&masterhotelid_tracelogid=100025527-0a9ab168-494480-3236292&detailFilters=17|1~17~1*31|5895863~31~5895863*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=480&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109) [Booking](https://booking.tpm.li/HdNQ95Gy)
 
@@ -908,7 +908,7 @@ By day seven, there was finally no alarm clock, no rushing, and no mandatory iti
 
 I spent almost the entire day in Jimbaran, fully slipping into vacation mode.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781017310221-709755031_17952267267159785_2854568791993111431_n.jpg)
+![Day 7｜A Lazy Day of Doing Nothing in Jimbaran](https://images.gobaligo.id/images/2026-06/1781017310221-709755031_17952267267159785_2854568791993111431_n.jpg)
 
 Photo by Jia-Ying Lai
 
@@ -920,7 +920,7 @@ In the morning, I took a walk along the beach, watching the calm sea and the slo
 
 Back at the hotel, I enjoyed breakfast while taking in the ocean view—a rare moment of doing nothing but letting my mind drift.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781017353975-hotel.jpg)
+![Beach Walk & Ocean-View Breakfast](https://images.gobaligo.id/images/2026-06/1781017353975-hotel.jpg)
 
 Photo by Lai Jiaying
 
@@ -960,7 +960,7 @@ In the evening, I headed to the hotel rooftop to enjoy the welcome drinks includ
 
 Watching the sunset over Jimbaran while keeping an eye on the planes taking off and landing.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781017390408-sunset.jpg)
+![Sunset and Planes from the Rooftop](https://images.gobaligo.id/images/2026-06/1781017390408-sunset.jpg)
 
 Photo by Lai Jiaying
 
@@ -985,7 +985,7 @@ Only after chatting did I realize he had to ride over four hours round trip.
 
 I was truly moved to hear that 🥹
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781017412891-713503823_17952447456159785_4819854100701852452_n.jpeg)
+![Birthday Dinner at Bakmi Akiu](https://images.gobaligo.id/images/2026-06/1781017412891-713503823_17952447456159785_4819854100701852452_n.jpeg)
 
 Photo by Jia-Ying Lai
 
@@ -1017,7 +1017,7 @@ Before I knew it, the last day of this birthday blind box trip had arrived.
 
 Compared to the hustle and exploration of the previous days, today felt more like a slow farewell.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781018347318-714084897_17952467418159785_6469494201020115694_n.webp)
+![Day 8｜Heading home with a heart full of warmth](https://images.gobaligo.id/images/2026-06/1781018347318-714084897_17952467418159785_6469494201020115694_n.webp)
 
 Photo by Lai Jiaying
 
@@ -1053,7 +1053,7 @@ I handed her the clothes I had specially brought from Taiwan.
 
 Knowing that these clothes will eventually turn into local support and help fills me with an indescribable sense of fulfillment.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781018538958-713644445_17952467292159785_4041356232763675411_n.jpeg)
+![A Cup of Coffee, a Warm Continuation](https://images.gobaligo.id/images/2026-06/1781018538958-713644445_17952467292159785_4041356232763675411_n.jpeg)
 
 Photo by Lai Jiaying
 
@@ -1103,7 +1103,7 @@ Travel leaves behind more than just photos and memories.
 
 It also leaves those moments when kindness catches you.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781018772429-713524159_17952467349159785_3829794102158038383_n.webp)
+![8-Day Birthday Blind Box Travel: A Postscript](https://images.gobaligo.id/images/2026-06/1781018772429-713524159_17952467349159785_3829794102158038383_n.webp)
 
 Provided by Lai Jiaying
 

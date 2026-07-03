@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: 7d01956b971c83110a578e8f127cd7a8
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9767c31ed19ec03a80dbd9da8ada02d9.jpg)
+![台商經營峇里島嘅「小北百貨」：Amigoo Lux Bali 商店](https://images.gobaligo.id/vocus/vocus_9767c31ed19ec03a80dbd9da8ada02d9.jpg)
 
 如果你喺峇里島搵緊價錢實惠又種類豐富嘅生活用品，Amigoo Lux Bali 係你唔可以錯過嘅好去處。呢間新開張只係四個月嘅商店，以超過一萬個品項嘅家庭用品為主，包括各種電器、儲物箱、廚房用品、桌椅等，堪稱係峇里島版嘅「小北百貨」。
 
@@ -33,7 +33,7 @@ Amigoo Lux Bali 商品種類繁多
 
 Amigoo Lux Bali 嘅地理位置相當方便，位於峇里島西岸嘅庫塔同東岸嘅沙努爾之間，具體地址係 Jl. Bypass Ngurah Rai No. 463，就喺 Lotte Mart 對面。呢個位置令到無論你係從庫塔定係沙努爾前來，都相當方便。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8303bb4d3d19283c36364101e0e70a61.png)
+![商店位置與交通](https://images.gobaligo.id/vocus/vocus_8303bb4d3d19283c36364101e0e70a61.png)
 
 ## 營業時間
 

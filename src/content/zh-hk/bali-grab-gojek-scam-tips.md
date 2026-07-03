@@ -41,7 +41,7 @@ _srcHash: fff6fc97cacfb2b014cac845d0acd907
 
 **心得與建議**：用Grab等網約車服務嗰陣，遇到司機推銷包車等情況要保持警惕。如果司機要求用現金支付，盡量避免落入冇散紙找嘅圈套。同時，記錄行程中嘅不愉快經歷，並及時反映俾平台，有助於改善服務質素。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_606a8a4395b4fdaae837688326b106ac.png)
+![故事二：包車推銷套路](https://images.gobaligo.id/vocus/vocus_606a8a4395b4fdaae837688326b106ac.png)
 
 呢啲遊客親身經歷嘅事，希望可以俾大家一啲參考。網約車平台本身都係非常方便嘅，遇到不良司機嘅概率都唔算高，但係旅行中保持警惕總係有必要嘅。
 

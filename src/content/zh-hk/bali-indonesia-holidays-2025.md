@@ -20,7 +20,7 @@ _srcHash: cb80a43795c31876a49ddbc82741962e
 ---
 峇里島，呢片風景如畫嘅印尼島嶼，2025年嘅節日同慶典將會帶你進入一場繽紛多彩嘅文化盛宴。無論你想避開某個特定時期，抑或想趕赴某個峇里島活動盛宴，呢份完整指南都會成為你嘅最佳索引！等我哋一齊探索呢個獨特島嶼所呈現嘅多姿多彩同充滿活力嘅節慶活動啦！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c0f9a3baeb0aed740edc947ff8866451.jpg)
+![2025年印尼國定假日&峇里島節慶全年完整指南：精彩活動日期一覽！](https://images.gobaligo.id/vocus/vocus_c0f9a3baeb0aed740edc947ff8866451.jpg)
 
 - **想避開峇里島五個旺季嘅朋友，請參考:**[**峇里島居然有五個旅遊旺季！如何避開旺季聰明旅遊？**](/blog/bali-peak-season-travel-tips/)
 - **印尼/峇里島雨季同旱季係咩時候?請睇:**[**峇里島最佳旅遊時間？深入了解乾季、雨季/優缺點解**](/blog/bali-best-time-to-visit/)[**析**](/blog/bali-best-time-to-visit/)
@@ -45,7 +45,7 @@ _srcHash: cb80a43795c31876a49ddbc82741962e
 
 ### **29日:** 華人農曆新年**(印尼國定假日)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_09f7fefc9dd080bd21bce0fb2b64106b.png)
+![29日: 華人農曆新年(印尼國定假日)](https://images.gobaligo.id/vocus/vocus_09f7fefc9dd080bd21bce0fb2b64106b.png)
 
 - 1月日元旦幾乎係全世界公定嘅國定假日，包括印尼/峇里島在內，通常喺12/31嘅跨年慶祝達到高潮。印尼人喺呢個時段會有一個~~自發性嘅~~「Nataru」假期，請睇12月最下方嘅節慶介紹。
 - 1月27日嘅[Siwa Ratri西瓦拉特里日]係峇里島曆書上嘅重要節慶之一，西瓦拉特里日強調內省、冥想同尋求寬恕。儀式包括36小時嘅唔瞓覺、24小時嘅斷食同12小時嘅沉默。喺呢段期間結束後，通常會喺海灘進行淨化儀式，同時喺島上嘅一啲大型寺廟舉行儀式。
@@ -81,11 +81,11 @@ _srcHash: cb80a43795c31876a49ddbc82741962e
 - 3月開頭嘅呢兩日之中，佔整個印尼將近九成嘅伊斯蘭教信徒喺呢一日要開始進行為期一個月嘅齋戒啦！齋戒係咩？點解要齋戒？關於齋戒月嘅Q & A請睇小傑媽嘅講解：[齋戒月嘅由來與齋戒月嘅意義｜齋戒月/開齋節 Q & A](https://youtu.be/15zXGMEE3Q8)
 - 3月14日係2025年嘅大齋節（Holi）係印度教嘅一個節日。大齋節係一個慶祝春天同愛嘅節日，亦被稱為顏色節。喺呢一日，人哋會互相潑灑顏色粉末，並分享食物同甜點。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e262dc875b3d385b0a30b0bbc2488dff.jpg)
+![29 日: 峇里島靜居日 & 印度教新年 (Nyepi) (印尼國定假日)](https://images.gobaligo.id/vocus/vocus_e262dc875b3d385b0a30b0bbc2488dff.jpg)
 
 - 3/26 親親節「Omed Omedan」，呢個係峇里島最令人興奮嘅節日之一。 喺呢一日，大批未婚後生仔女聚集埋一齊，參加大規模嘅接吻活動。喺活動中男女兩組人企喺對面， 然後開始攬埋同親嘴。 旁觀者為佢哋打氣嗰陣，會向佢哋潑水。呢項活動歡迎外國遊客睇。 但係應該避免參與其中。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6b252b2d57e214e8d6f81ceac66a1617.png)
+![29 日: 峇里島靜居日 & 印度教新年 (Nyepi) (印尼國定假日)](https://images.gobaligo.id/vocus/vocus_6b252b2d57e214e8d6f81ceac66a1617.png)
 
 - 3/28 峇里島妖怪大遊行，超特別嘅體驗！請睇小傑嘅介紹，有機會可以嚟體會一下喔：
 
@@ -117,7 +117,7 @@ _srcHash: cb80a43795c31876a49ddbc82741962e
 - 4月18日係基督教嘅節日，根據印尼建國五原則五大宗教平等，基督教嘅大節日都係印尼嘅公眾假期。
 - 4月23日開始嘅Galungan & Kuningan（卡隆安節與古寧安節），係峇里島最重要嘅節日之一，4月23日卡隆安節一直持續到10日後嘅古寧安節，慶祝宇宙嘅創造同善良戰勝邪惡。喺呢個節日入面，高聳嘅penjor裝飾為街道帶嚟充滿活力嘅氛圍，同時豐富嘅供品、儀式同慶典讓您得以一窺呢座島嶼豐富嘅文化同靈性面貌。人們會喺屋企供奉祖先，祈求佢哋嘅保佑，同時亦會喺廟宇中舉行儀式，表達對神靈嘅敬意。Galungan呢一日根據峇里島嘅Pawukon日曆，亦係宇宙嘅創造日。喺呢段期間，峇里島嘅學校停課兩星期，其受重視嘅程度可見一斑！需注意嘅係船班/包車/的士等交通運輸都會受到影響！好多當地導遊同司機會喺主要慶典期間放假幾日，所以最好提早預訂。Galungan節隔日（Manis Galungan）係當地人探訪親友或一齊出遊嘅日子，所以您可能會發現呢日路上特別擠迫。大型慶典亦可能造成道路擠塞。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_915edf5929d8760c256d49e2bd7cc6c4.png)
+![23 日： Galungan & Kuningan(峇里島印度教節慶)](https://images.gobaligo.id/vocus/vocus_915edf5929d8760c256d49e2bd7cc6c4.png)
 
 ## 五月
 
@@ -211,7 +211,7 @@ _srcHash: cb80a43795c31876a49ddbc82741962e
 
 - 8/1~2: [烏布村莊爵士音樂節](https://ubudvillagejazzfestival.com/)（Ubud Village Jazz Festival，簡稱UVJF）係亞洲最重要嘅爵士音樂盛事之一！呢場音樂節已成為峇里島文化中心嘅標誌性活動，每年吸引來自世界各地嘅爵士樂愛好者。2025年嘅UVJF將於8月1日同2日喺烏布嘅STHALA UBUD舉行，為樂迷帶嚟兩晚難忘嘅音樂體驗。UVJF 2025被印尼旅遊與創意經濟部評選為年度十大國家級活動之一，展現其影響力同重要性。音樂節並匯聚咗來自世界各地嘅頂尖爵士音樂家，並獲得各國大使館嘅支持，成為國際文化交流嘅重要平台。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b4d696ee672b4996982a4b26101af9ef.png)
+![27 日: 象神誕辰 (Ganesh Chaturthi) (峇里島印度教節慶)](https://images.gobaligo.id/vocus/vocus_b4d696ee672b4996982a4b26101af9ef.png)
 
 - 8/17: 印尼獨立日亦即係印尼嘅國慶日，於每年嘅8月17日慶祝。喺呢一日，印度尼西亞人民會舉行各種慶祝活動，包括趣味比賽、遊行、音樂會同煙火表演等。
 
@@ -259,7 +259,7 @@ Bali Carnival 峇里島嘉年華
 
 ### 19日：Galungan & Kuningan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b0e3cc8c2f397f61aa33ecbc19333ca.jpg)
+![19日：Galungan & Kuningan](https://images.gobaligo.id/vocus/vocus_0b0e3cc8c2f397f61aa33ecbc19333ca.jpg)
 
 19 日開始嘅 Galungan & Kuningan（卡隆安節與古寧安節），呢個係 2025 年嘅第二次卡隆安節與古寧安節，同時亦係峇里島最重要嘅節日之一，11/19 卡隆安節一直持續到 10 日後嘅古寧安節，慶祝宇宙嘅創造同善良戰勝邪惡。
 
@@ -333,7 +333,7 @@ Bali Carnival 峇里島嘉年華
 
 📩 **立即加入「峇里島旅遊攻略」網誌，成為峇里島旅遊達人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![註冊加入我哋嘅網誌](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

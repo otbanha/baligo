@@ -24,7 +24,7 @@ lang: id
 _srcHash: 70de6169fdf38ef0da33216e4c88f5d6
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6fb17aeb28479bd7b7d5a57f318dea63.jpg)
+![Cara ke Bali Banana di Bandara Internasional Bali buat oleh-](https://images.gobaligo.id/vocus/vocus_6fb17aeb28479bd7b7d5a57f318dea63.jpg)
 
 Bali itu surga liburan, dan sebelum pulang, banyak turis yang suka beli oleh-oleh buat dibawa pulang. Bali Banana, kue pisang yang enak banget ini, jadi pilihan yang populer banget.
 
@@ -54,13 +54,13 @@ Sepanjang jalan ada tanda 'Domestic Terminal', tinggal ikuti arahnya aja. Tanda-
 
 Jalan kaki sekitar 6 menit, kamu bakal sampai di pintu keluar 'Domestic Arrival'. Jaraknya nggak terlalu jauh, tapi mending jaga langkah biar stabil.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f056d22cf1bed835ef9123c318dd302f.png)
+![3. Jarak Tempuh Sekitar 6 Menit](https://images.gobaligo.id/vocus/vocus_f056d22cf1bed835ef9123c318dd302f.png)
 
 ### 4. Spot Foto Kenangan
 
 Di dekat pintu keluar kedatangan domestik, lihat ke arah kanan, ada spot buat foto kenangan. Tempat yang oke buat diabadikan, jangan lupa foto ya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6aff46880bacb87bf78aa5df4a4251d9.png)
+![4. Spot Foto Kenangan](https://images.gobaligo.id/vocus/vocus_6aff46880bacb87bf78aa5df4a4251d9.png)
 
 ### 5. Masuk ke Area Pertokoan Kedatangan Domestik
 
@@ -70,13 +70,13 @@ Setelah foto, lanjut jalan lurus masuk ke area pertokoan kedatangan domestik. Di
 
 Di area pertokoan, ada satu toko yang terkenal banget — Mixue (蜜雪冰城). Ini brand minuman segar rantai yang di tahun 2023 punya lebih dari 36.000 gerai di China, dan berdasarkan jumlah gerai, ini brand rantai terbesar di China dan nomor dua di dunia. Kalau kamu capek jalan, bisa mampir beli es krim buat nyegerin diri.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d49906b7bc7fe633af4aebcab6a869de.png)
+![6. Nikmati Mixue](https://images.gobaligo.id/vocus/vocus_d49906b7bc7fe633af4aebcab6a869de.png)
 
 ### 7. Temukan Bali Banana
 
 Di sebelah Mixue Ice Cream & Tea, kamu bakal nemuin Bali Banana. Toko ini jual berbagai macam kue pisang, kamu bisa pilih rasa favoritmu di sini.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb25ddbefa192a9797a0f1a384548675.png)
+![7. Temukan Bali Banana](https://images.gobaligo.id/vocus/vocus_eb25ddbefa192a9797a0f1a384548675.png)
 
 ### 8. Sekitar 10 Menit Saja
 

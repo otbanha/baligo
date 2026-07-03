@@ -20,7 +20,7 @@ _srcHash: 37055e34ac72ef21dbbd1163a1f55043
 ---
 ### 點解會有呢個禁令？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5912b3283e6ebf4f0e8a8eefd1896b05.png)
+![點解會有呢個禁令？](https://images.gobaligo.id/vocus/vocus_5912b3283e6ebf4f0e8a8eefd1896b05.png)
 
 呢個禁令係由印尼嘅旅遊部長同投資部長提出嘅，原本打算由2024年10月開始實施，為期一到兩年，如果效果好嘅話，甚至可能延長到十年。佢哋嘅目的係為咗控制峇里島過度開發嘅問題，特別係南部嘅旅遊區。呢個想法得到咗峇里島一啲高層嘅支持，好似代理省長同旅遊局主席都認為呢係必要嘅措施。
 
@@ -50,7 +50,7 @@ _srcHash: 37055e34ac72ef21dbbd1163a1f55043
 
 ### 未來會點樣？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7325c0c5d1f9e4f57fb207e86a712a4b.png)
+![未來會點樣？](https://images.gobaligo.id/vocus/vocus_7325c0c5d1f9e4f57fb207e86a712a4b.png)
 
 而家，禁令被取消咗，峇里島嘅旅遊業會點樣發展，仲係一個大問號。科斯特省長嘅諗法係透過加強現有法規嚟管理旅遊業，而唔係直接禁止新建設施。不過，點樣喺經濟發展同環境保護之間搵到平衡，仍然係峇里島面臨嘅最大挑戰。
 
@@ -58,7 +58,7 @@ _srcHash: 37055e34ac72ef21dbbd1163a1f55043
 
 ## 📩 **立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

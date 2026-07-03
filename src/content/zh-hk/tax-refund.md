@@ -41,7 +41,7 @@ _srcHash: bd8a8e10f7693d7907305de5db1ab056
 
 ## 2. **購物時要注意啲咩？**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776321690797-untitled_design_24_.webp)
+![2. 購物時要注意啲咩？](https://images.gobaligo.id/images/2026-04/1776321690797-untitled_design_24_.webp)
 
 - **只限**張貼 **「Tax Refund for Tourists」** 或 **「VAT Refund for Tourists」** 標誌嘅商店（大多數大型百貨、品牌店、庫塔、水明漾、烏布等熱門區都有）。
 - 購物時**一定要出示護照**，同店員講你要退稅（VAT Refund），店家會開立**附付款收據嘅正式稅務發票**（valid tax invoice）。
@@ -80,7 +80,7 @@ _srcHash: bd8a8e10f7693d7907305de5db1ab056
 
 ## 6. **實用小Tips（峇里島購物族必睇）**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776321764381-vat_refund_11zon.jpeg)
+![6. 實用小Tips（峇里島購物族必睇）](https://images.gobaligo.id/images/2026-04/1776321764381-vat_refund_11zon.jpeg)
 
 ▲機場嘅退稅櫃台
 

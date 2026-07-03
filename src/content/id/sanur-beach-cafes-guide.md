@@ -22,7 +22,7 @@ _srcHash: c366b6bfc4dd9c40c1bd6f44ae104d93
 ---
 Ini dia enam kafe pinggir pantai paling populer di Sanur saat ini. Kalau kamu lagi planning ke Bali, jangan sampai kelewatan tempat-tempat kece ini!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_adc353863b69538f971502b9bbfe4032.jpg)
+![6 Rekomendasi Kafe dengan Pemandangan Laut Paling Hits di Pa](https://images.gobaligo.id/vocus/vocus_adc353863b69538f971502b9bbfe4032.jpg)
 
 Bays
 
@@ -118,6 +118,6 @@ Cocok banget. Ruangannya kebanyakan terbuka dan luas, juga ada pilihan menu rama
 
 ## Lebih Banyak Info Seru di Sanur
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
+![Lebih Banyak Info Seru di Sanur](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
 Sanur adalah kota pesisir di Bali yang tenang banget, terkenal dengan pantainya yang kalem, vibes santai, dan pemandangan matahari terbit yang epik. Di sini ada resort keluarga, pasar tradisional, dan kuliner lokal yang melimpah — tempat yang pas buat menikmati slow living sambil eksplorasi budaya. Mau jalan-jalan di sepanjang garis pantai atau sekadar merasakan suasana lokal, Sanur bakal kasih kamu liburan yang super rileks! Mau tahu lebih banyak tips Sanur? [Klik di sini](/blog/sanur-guide/)

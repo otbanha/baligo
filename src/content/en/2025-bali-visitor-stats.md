@@ -33,7 +33,7 @@ Every year, people ask the same questions.
 
 The truth is, the answers are all in the data.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fcd184a1c39fce756fde3b709e6fe710.png)
+![Is Australia No Longer Number One? A 2025 Guide to Bali's To](https://images.gobaligo.id/vocus/vocus_fcd184a1c39fce756fde3b709e6fe710.png)
 
 According to the latest 2025 direct flight passenger statistics, Bali's tourism landscape is gradually changing, but some trends remain surprisingly stable—like the increasing number of Singaporean tourists; Taiwanese tourists maintaining a consistent number year after year; and some previously dominant markets quietly shrinking.
 
@@ -47,7 +47,7 @@ If you're planning a trip to Bali, this article will be highly useful.
 
 ## 2025 Bali Visitor Statistics by Country/Number of Visitors
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_99a8db2673d75441daa04e66ea7fd9aa.jpg)
+![2025 Bali Visitor Statistics by Country/Number of Visitors](https://images.gobaligo.id/vocus/vocus_99a8db2673d75441daa04e66ea7fd9aa.jpg)
 
 This table is actually worth a closer look.
 
@@ -72,7 +72,7 @@ What most travelers often get stuck on now is not whether to apply for a visa, b
 
 Currently, the most common types are B1 and C1:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dd1d15ae602a759d1d7e072cbd771d4d.jpg)
+![Here's another important point many people ask about: How to](https://images.gobaligo.id/vocus/vocus_dd1d15ae602a759d1d7e072cbd771d4d.jpg)
 
 **Quick Reference:** [Indonesia/Bali eVisa/eVoa Complete Guide: Application Steps, Precautions All in One Place!](/blog/bali-evisa-application-guide/)
 
@@ -100,7 +100,7 @@ It includes exchanges, inspections, and non-employment-related business contacts
 
 ## How should regular tourists choose?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d26a3e513ac8df95013e940223bf7017.png)
+![How should regular tourists choose?](https://images.gobaligo.id/vocus/vocus_d26a3e513ac8df95013e940223bf7017.png)
 
 The answer is actually quite simple.
 
@@ -172,6 +172,6 @@ If it's just for tourism, don't overthink it—**B1 – Tourist Visa** is the wa
 
 Bali's visa regulations occasionally undergo minor adjustments. Checking the latest announcements 1–2 weeks before departure is the safest approach. Based on most travelers' experiences, choosing the right visa makes entering Bali quite straightforward.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_62b21a3da69035eb65ae0f1b4e641bfc.png)
+![Final Reminder](https://images.gobaligo.id/vocus/vocus_62b21a3da69035eb65ae0f1b4e641bfc.png)
 
 Now, all that's left is to enjoy the island 🌴

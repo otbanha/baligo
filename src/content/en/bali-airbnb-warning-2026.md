@@ -28,7 +28,7 @@ _srcHash: bbc98a204fe77f471be4f6914e135336
 Do you usually do this?
 Open Airbnb, find a stunning Bali villa with a pool, see that it’s half the price of a hotel, and immediately book it. Then happily count down the days until departure…
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7bfbbcea9b14e9d87a3cf1605faa4429.jpg)
+![Don’t Rush to Book an Airbnb in Bali! This Event in Late Mar](https://images.gobaligo.id/vocus/vocus_7bfbbcea9b14e9d87a3cf1605faa4429.jpg)
 
 Hold on. In 2026, this habit could cost you your deposit, or worse, you might arrive only to find that **the place you booked isn’t even available for check-in**.
 
@@ -66,7 +66,7 @@ If your itinerary is tight or you're traveling with elderly family members or ch
 
 ## Our Recommendation
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b60a90290551cc0591b557f9259371a7.jpg)
+![Our Recommendation](https://images.gobaligo.id/vocus/vocus_b60a90290551cc0591b557f9259371a7.jpg)
 
 The transition period from late March to June is the most chaotic time for Bali's Airbnb market. If your Bali trip falls within this period, I strongly advise you to be extra cautious.
 This isn't to discourage you from going, but to ensure you travel with peace of mind.

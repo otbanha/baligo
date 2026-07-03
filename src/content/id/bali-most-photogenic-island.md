@@ -29,7 +29,7 @@ _srcHash: 473ea6ff2827f7e941ef6642a5bf7c99
 
 Menurut survei terbaru dari platform layanan perjalanan terkenal asal Inggris, Travelbag, Bali berhasil unggul dari 45 destinasi perjalanan jarak jauh populer dan dinobatkan sebagai 'Pulau Paling Memesona di Dunia'. Selain pemandangan alam yang indah bak lukisan, keramahan dan kekayaan budaya Bali juga membuat wisatawan global jatuh hati.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_634888bfed094ae7a5caac40b1511211.jpg)
+![Bali Naik Tahta sebagai Pulau Paling Memesona di Dunia: Hasi](https://images.gobaligo.id/vocus/vocus_634888bfed094ae7a5caac40b1511211.jpg)
 
 **Referensi Cepat:**  
 [10 Landmark Penting di Bali & Cara Mengatur Perjalanan](/blog/bali-top-landmarks-guide/)
@@ -56,13 +56,13 @@ Mau menikmati yoga retreat, petualangan surfing, atau sekadar bersantai di resor
 
 Dari sawah dan hutan di Ubud sampai tebing karang di Uluwatu, setiap sudutnya kayak lukisan hidup.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e531c7782e0b7ad022a164b64793eb3c.jpg)
+![1. Pemandangan Alam yang Bikin Speechless](https://images.gobaligo.id/vocus/vocus_e531c7782e0b7ad022a164b64793eb3c.jpg)
 
 ### **2. Budaya dan Tradisi yang Unik Banget**
 
 Festival, tarian, kerajinan tangan, dan arsitektur pura di Bali menunjukkan identitas budaya yang kuat dan tradisi yang masih terjaga.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_681feb5b5dd74234433985258d3beee0.jpg)
+![2. Budaya dan Tradisi yang Unik Banget](https://images.gobaligo.id/vocus/vocus_681feb5b5dd74234433985258d3beee0.jpg)
 
 ### **3. Warga Lokal yang Ramah dan Hangat**
 
@@ -72,7 +72,7 @@ Orang Bali menyambut setiap tamu dengan senyum dan ketulusan, bikin kamu merasa 
 
 Mulai dari surfing, diving, naik gunung berapi, sampai meditasi dan spa — semuanya ada, tinggal pilih!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7030ca3e24fe75b65f4b81031df4960a.jpg)
+![4. Pilihan Aktivitas yang Super Variatif](https://images.gobaligo.id/vocus/vocus_7030ca3e24fe75b65f4b81031df4960a.jpg)
 
 **Referensi Cepat:**  
 [Aktivitas Outdoor di Bali? 50 Pengalaman Paling Populer](/blog/bali-top-50-outdoor-activities/)
@@ -83,7 +83,7 @@ Mulai dari surfing, diving, naik gunung berapi, sampai meditasi dan spa — semu
 
 Banyak blogger travel dan kritikus bilang, Bali itu kasih ‘penyembuhan jiwa’, bukan sekadar liburan singkat. Apalagi harga tiket makin ramah di kantong, plus pilihan akomodasi yang beragam, bikin Bali jadi destinasi favorit para pelancong jarak jauh.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dc9cc4be4aa2cfe7f9e6673430ece576.jpg)
+![Rangkuman Pendapat Ahli & Ulasan Wisatawan](https://images.gobaligo.id/vocus/vocus_dc9cc4be4aa2cfe7f9e6673430ece576.jpg)
 
 **Referensi Cepat:**  
 Pilihan: Panduan Rekomendasi Penginapan di Bali

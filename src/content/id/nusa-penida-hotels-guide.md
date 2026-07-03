@@ -34,7 +34,7 @@ _srcHash: e9292e828fc5ecae070fe36d9d186108
 
 在探討Penida Island住宿地點之前，先來回答一些新手遊客最常問的問題：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d5a1c2ac11e4fdfbddc7dae009cc3a0a.jpg)
+![Penida Island住宿指南 – 常見問題解答](https://images.gobaligo.id/vocus/vocus_d5a1c2ac11e4fdfbddc7dae009cc3a0a.jpg)
 
 ### Penida Island最佳住宿地點是哪裡？
 
@@ -68,7 +68,7 @@ Misalnya, rekomendasi Penida Colada Beach Bar — stafnya ramah, makanannya enak
 
 Nusa Penida sedikit lebih mahal dibanding Bali, tapi kamu tetap bisa nemuin akomodasi dengan harga masuk akal dan makan di restoran lokal dengan harga murah. Kamu bisa dapet hotel sekitar USD$50 per malam, dan makan di restoran lokal dengan biaya nggak lebih dari USD$5–10 per orang.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c3d15b269decda31dc9688b1aaf1611f.png)
+![Akomodasi di Nusa Penida mahal nggak sih?](https://images.gobaligo.id/vocus/vocus_c3d15b269decda31dc9688b1aaf1611f.png)
 
 {{block:penidaklook}}
 
@@ -108,13 +108,13 @@ Selain rekomendasi tempat menginap terbaik di Nusa Penida, di bawah ini kami jug
 
 ## Akomodasi Mewah di Nusa Penida
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_886edd873ea94f2c2a3d79fc875bfcd0.png)
+![Akomodasi Mewah di Nusa Penida](https://images.gobaligo.id/vocus/vocus_886edd873ea94f2c2a3d79fc875bfcd0.png)
 
 Meskipun pemandangan di Nusa Penida masih alami, kualitas akomodasi mewahnya nggak main-main, lho! Yuk, simak rekomendasi delapan penginapan berkualitas dari kami:
 
 ### 【Barat】Adiwana Warnakali Resort: Pilihan Utama Bulan Madu di Pulau (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e336bf217c78a4f8b999439a97dc61c9.jpg)
+![【Barat】Adiwana Warnakali Resort: Pilihan Utama Bulan Madu di](https://images.gobaligo.id/vocus/vocus_e336bf217c78a4f8b999439a97dc61c9.jpg)
 
 Adiwana Warnakali Resort di Nusa Penida adalah pilihan ideal buat pasangan yang lagi liburan. Jauh dari keramaian, dengan pemandangan laut yang kece abis, bikin kamu bisa menikmati momen bulan madu yang tenang dan romantis.
 
@@ -128,7 +128,7 @@ Mau yang lebih mewah? Pilih Private Pool Suite, dapet ruang ekstra, area berjemu
 
 ### 【Barat】Atalaya Villas Nusa Penida: Surga Bulan Madu (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e5d135a2d4e5a69f9f9ec028ad7bc94b.jpg)
+![【Barat】Atalaya Villas Nusa Penida: Surga Bulan Madu (Peta)](https://images.gobaligo.id/vocus/vocus_e5d135a2d4e5a69f9f9ec028ad7bc94b.jpg)
 
 Atalaya Villas di Nusa Penida ini pilihan ideal buat pasangan yang lagi liburan. Vila-vila independennya cantik dan kayak mimpi, bikin kamu jauh dari keramaian dan nikmatin momen romantis.
 
@@ -140,7 +140,7 @@ Mau pengalaman nginep yang lebih mewah? Pilih Private Pool Suite aja! Suitenya l
 
 ### 【Barat】Pemandangan Laut di Langit, Ketenangan Menemani: Sea La Vie Resort (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a2a72d4f55579af8a7830bd560804fe9.jpg)
+![【Barat】Pemandangan Laut di Langit, Ketenangan Menemani: Sea ](https://images.gobaligo.id/vocus/vocus_a2a72d4f55579af8a7830bd560804fe9.jpg)
 
 Kepingin banget kabur dari keramaian dan nikmatin liburan dengan pemandangan laut yang tenang bareng pasangan atau keluarga di Nusa Penida? Berada di lahan hijau tepi pantai pribadi, Sea La Vie Resort bintang empat ini adalah pilihan yang pas banget.
 
@@ -156,7 +156,7 @@ Yang paling unik dari hotel ini adalah pondok kayu independen, lantai kayu, temp
 
 ### 【Barat】Pemandangan Laut Luas, Liburan Santai: Pramana Natura (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_357e187da8066c218200ec8426cb0fb2.jpg)
+![【Barat】Pemandangan Laut Luas, Liburan Santai: Pramana Natura](https://images.gobaligo.id/vocus/vocus_357e187da8066c218200ec8426cb0fb2.jpg)
 
 Cari hotel di Nusa Penida yang kamarnya lega, pemandangan lautnya cakep, dan punya kolam infinity? Pramana Natura jawabannya!
 
@@ -170,7 +170,7 @@ Setiap vila punya balkon kayu dengan area makan outdoor dan kursi santai, bebera
 
 ### 【Barat】**Liburan Pantai, Santai Maksimal: MAUA Nusa Penida** (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f25f685601c34b75417db7a039edf997.jpg)
+![【Barat】Liburan Pantai, Santai Maksimal: MAUA Nusa Penida (Pe](https://images.gobaligo.id/vocus/vocus_f25f685601c34b75417db7a039edf997.jpg)
 
 MAUA Nusa Penida adalah villa tepi laut bintang 4,5 dengan kolam renang pribadi di Pulau Penida. Nikmati privasi maksimal! Ada empat tipe villa pribadi yang bisa kamu pilih.
 
@@ -180,7 +180,7 @@ Lokasinya persis di tepi Teluk Gamat, cuma 10 menit berkendara dari Banana Beach
 
 ### 【Timur】**Eksplorasi Tanpa Batas, Liburan Pulau Penuh Aksi: The Angkal Resort** (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_742bb986f70136be7aea1a1cabb43d13.jpg)
+![【Timur】Eksplorasi Tanpa Batas, Liburan Pulau Penuh Aksi: The](https://images.gobaligo.id/vocus/vocus_742bb986f70136be7aea1a1cabb43d13.jpg)
 
 {{block:penidaklook}}
 
@@ -194,7 +194,7 @@ Restoran dan bar tepi laut siap memanjakan lidahmu. Villa studio lantai kayu mer
 
 ### 【Utara】Angin Laut Berhembus Lembut, Liburan Santai di Pulau: Blue Harbor Beachfront Villas & Resto (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_960bd58e89c19062b0bed8d690d78ff1.jpg)
+![【Utara】Angin Laut Berhembus Lembut, Liburan Santai di Pulau:](https://images.gobaligo.id/vocus/vocus_960bd58e89c19062b0bed8d690d78ff1.jpg)
 
 Cari resort di Nusa Penida yang worth it? Blue Harbor Beachfront Villas & Resto bintang empat ini cocok banget buat pasangan atau keluarga!
 
@@ -210,7 +210,7 @@ Saran ambil kamar dengan pemandangan laut, ekstra bayarnya sepadan banget. Kelua
 
 ### 【Utara】Nikmati Suasana Pulau, Waktu Liburan yang Indah: Mambo Beach Resort (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bfa2271d7ada6c3390ed1dd316a443c3.jpg)
+![【Utara】Nikmati Suasana Pulau, Waktu Liburan yang Indah: Mamb](https://images.gobaligo.id/vocus/vocus_bfa2271d7ada6c3390ed1dd316a443c3.jpg)
 
 Begitu masuk Mambo Beach Resort, kamu bakal lihat tanaman hias di mana-mana, karya seni yang ditata rapi, lampu gantung ala pedesaan, dan bingkai foto hangat — semuanya menunjukkan perhatian hotel terhadap detail, bikin suasana nyaman, santai, tapi tetap stylish.
 
@@ -228,7 +228,7 @@ Kalau kamu cari opsi akomodasi yang worth it banget, referensi dari panduan kami
 
 ### 【Timur】Hidden Gem di Nusa Penida: Kepaon Gari Inn (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c2a5741def47124736cd28a426f9f5b.jpg)
+![【Timur】Hidden Gem di Nusa Penida: Kepaon Gari Inn (Peta)](https://images.gobaligo.id/vocus/vocus_1c2a5741def47124736cd28a426f9f5b.jpg)
 
 Kepaon Gari Inn dijuluki sebagai salah satu hotel kelas menengah terbaik di Penida, dengan banyak ulasan positif dan sering sold out.
 
@@ -244,7 +244,7 @@ Pokoknya, Kepaon Gari Inn adalah pilihan ideal buat traveler solo atau pasangan.
 
 ### 【Timur】Jukung Cottage Beach Bar (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e62c60bea137720bd3b21eeddb615593.jpg)
+![【Timur】Jukung Cottage Beach Bar (Peta)](https://images.gobaligo.id/vocus/vocus_e62c60bea137720bd3b21eeddb615593.jpg)
 
 Jukung Cottage Beach Bar yang jaraknya 2,5 km dari Sampalan Harbour adalah tempat menginap yang pas di pesisir timur Nusa Penida.
 
@@ -262,7 +262,7 @@ Jukung Cottage Batununggul siap kasih kamu pengalaman menginap yang nyaman denga
 
 ### 【Barat】Pepohonan Kelapa, Angin Laut, Family Fun: Coco Resort Penida (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a2fd46d3f6278feff922193149df7aaa.jpg)
+![【Barat】Pepohonan Kelapa, Angin Laut, Family Fun: Coco Resort](https://images.gobaligo.id/vocus/vocus_a2fd46d3f6278feff922193149df7aaa.jpg)
 
 Cari akomodasi murah di Nusa Penida? Coco Resort punya kolam renang outdoor, fasilitas BBQ, dan teras — pilihan pas banget buat kamu.
 
@@ -276,25 +276,25 @@ Coco Resort itu taman bermain keluarga! Kolam renang outdoor, fasilitas olahraga
 
 ### 【Barat】Penida Sunset Ocean View Bungalows (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774424697346-434192446.jpg)
+![【Barat】Penida Sunset Ocean View Bungalows (Peta)](https://images.gobaligo.id/images/2026-03/1774424697346-434192446.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774424698336-434192584.jpg)
+![【Barat】Penida Sunset Ocean View Bungalows (Peta)](https://images.gobaligo.id/images/2026-03/1774424698336-434192584.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774424699180-434194289.jpg)
+![【Barat】Penida Sunset Ocean View Bungalows (Peta)](https://images.gobaligo.id/images/2026-03/1774424699180-434194289.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774424701234-434194520.jpg)
+![【Barat】Penida Sunset Ocean View Bungalows (Peta)](https://images.gobaligo.id/images/2026-03/1774424701234-434194520.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774424702912-430709981.jpg)
+![【Barat】Penida Sunset Ocean View Bungalows (Peta)](https://images.gobaligo.id/images/2026-03/1774424702912-430709981.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774424704425-430709991.jpg)
+![【Barat】Penida Sunset Ocean View Bungalows (Peta)](https://images.gobaligo.id/images/2026-03/1774424704425-430709991.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774424705535-430709993.jpg)
+![【Barat】Penida Sunset Ocean View Bungalows (Peta)](https://images.gobaligo.id/images/2026-03/1774424705535-430709993.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774424707022-430710033.jpg)
+![【Barat】Penida Sunset Ocean View Bungalows (Peta)](https://images.gobaligo.id/images/2026-03/1774424707022-430710033.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774424709325-430710062.jpg)
+![【Barat】Penida Sunset Ocean View Bungalows (Peta)](https://images.gobaligo.id/images/2026-03/1774424709325-430710062.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774424710867-434192435.jpg)
+![【Barat】Penida Sunset Ocean View Bungalows (Peta)](https://images.gobaligo.id/images/2026-03/1774424710867-434192435.jpg)
 
 Penida Sunset Ocean View Bungalows cuma punya 8 bungalow, jadi suasananya hangat dan privat banget.
 
@@ -308,7 +308,7 @@ Resor ini lokasinya strategis banget, cuma 1,4 km dari Crystal Bay. Tamu-tamu pa
 
 ### 【Barat】Nikmati Liburan di Destinasi Pemandangan Laut Barat Laut: Semabu Hills Hotel (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_32659631c9482c8308d98ad6ccd7b5b0.jpg)
+![【Barat】Nikmati Liburan di Destinasi Pemandangan Laut Barat L](https://images.gobaligo.id/vocus/vocus_32659631c9482c8308d98ad6ccd7b5b0.jpg)
 
 Semabu Hills Hotel terletak di bagian barat laut Nusa Penida, dan terkenal banget di kalangan traveler karena harganya yang worth it dan pemandangannya yang ciamik. Hotel ini punya view pulau dan laut yang epik, bikin kamu tenggelam dalam pelukan alam.
 
@@ -324,7 +324,7 @@ Semabu Hills Hotel nggak cuma cocok buat pasangan, tapi juga buat liburan grup. 
 
 ### 【Tengah】Dikelilingi Pemandangan Gunung, Menginap Santai: Dayuh House
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9fd4717dc4ab00ba3e84279e495bb791.jpg)
+![【Tengah】Dikelilingi Pemandangan Gunung, Menginap Santai: Day](https://images.gobaligo.id/vocus/vocus_9fd4717dc4ab00ba3e84279e495bb791.jpg)
 
 Dayuh House yang terletak di jantung Nusa Penida ini menawarkan kamar-kamar keren dengan Wi-Fi, AC, teras, dan kolam renang tanpa batas yang bikin ngiler. Ada juga area outdoor cantik buat kamu bersantai maksimal.
 
@@ -336,7 +336,7 @@ Dayuh House cocok buat solo traveler atau pasangan. Kalau kamu traveling sendiri
 
 > ▶[Cek ketersediaan kamar & booking di Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8255701)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2870cdcafa2fb6e8c64f6c5d48849710.jpg)
+![【Tengah】Dikelilingi Pemandangan Gunung, Menginap Santai: Day](https://images.gobaligo.id/vocus/vocus_2870cdcafa2fb6e8c64f6c5d48849710.jpg)
 
 ## Panduan Lengkap Nusa Penida:
 

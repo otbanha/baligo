@@ -38,7 +38,7 @@ _srcHash: 4205fd602554bad05b0acae0d9e76629
 
 ## 購物
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9371bedd3a56431bbff7098c149f4960.png)
+![購物](https://images.gobaligo.id/vocus/vocus_9371bedd3a56431bbff7098c149f4960.png)
 
 喺峇里島買嘢，一定要識得講價。一般嚟講，可以從標價嘅一半開始還價，最後成交價通常係標價嘅三到四折。烏布地區嘅價格比較合理，選擇亦都多。同樣嘅貨品，喺庫塔嘅價格通常會比烏布貴兩到三倍。所以，買嘢嗰陣揀啱地方好重要。
 
@@ -86,15 +86,15 @@ https://youtu.be/8SW4Je-sJbY
 
 我哋喺Ubud住咗5日，之後有3日走去山上休息，推薦一間叫**Aurora Cabins by Panoramika**嘅民宿。呢間係一間評價好高嘅住宿。住宿嘅小屋海拔接近900米，隔籬係咖啡種植園，面向東方，係體驗山區生活嘅絕佳方式。喺呢度睇日出好壯觀。遠處可以見到阿貢火山，左邊係巴杜爾山。房間溫馨、舒適，設備齊全。真係好特別。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835335305-534082675.jpg)
+![旅途中最特別嘅住宿推薦](https://images.gobaligo.id/images/2026-06/1780835335305-534082675.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835335716-534106131.jpg)
+![旅途中最特別嘅住宿推薦](https://images.gobaligo.id/images/2026-06/1780835335716-534106131.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835336248-534088602.jpg)
+![旅途中最特別嘅住宿推薦](https://images.gobaligo.id/images/2026-06/1780835336248-534088602.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835336603-534068339.jpg)
+![旅途中最特別嘅住宿推薦](https://images.gobaligo.id/images/2026-06/1780835336603-534068339.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835336978-534062217.jpg)
+![旅途中最特別嘅住宿推薦](https://images.gobaligo.id/images/2026-06/1780835336978-534062217.jpg)
 
 [**▶Aurora Cabins by Panoramika 訂房連結**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47466423)
 

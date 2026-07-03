@@ -48,7 +48,7 @@ Buat yang suka lari, ini pilihan menarik — sambil lari sambil menikmati pemand
 
 ## Petualangan Sepeda Listrik
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781403086604-_2026-06-14_09.05.14.png)
+![Petualangan Sepeda Listrik](https://images.gobaligo.id/images/2026-06/1781403086604-_2026-06-14_09.05.14.png)
 
 Selain acara saat festival, cara lain yang seru buat eksplor Jatiluwih Rice Terraces adalah ikut tur sepeda listrik. Naik sepeda listrik, kamu bakal melewati hutan lebat, bambu, dan desa lokal, sampai ke Situs Warisan Dunia UNESCO — Jatiluwih Rice Terraces.
 

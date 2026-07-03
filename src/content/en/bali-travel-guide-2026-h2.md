@@ -46,7 +46,7 @@ To help you travel like a seasoned pro, we’ve combined climate data with local
 
 # 🌦️ Climate & Seasons: From Dry Season Peak to Rainy Season Transition
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780917212578-mixcollage-08-jun-2026-05-52-pm-8861.jpg)
+![Climate & Seasons: From Dry Season Peak to Rainy Season Tran](https://images.gobaligo.id/images/2026-06/1780917212578-mixcollage-08-jun-2026-05-52-pm-8861.jpg)
 
 These six months showcase Bali’s full journey from the peak of the dry season to the onset of the rainy season:
 
@@ -63,7 +63,7 @@ These six months showcase Bali’s full journey from the peak of the dry season 
 - **Climate Overview:** July is the absolute peak of the dry season. Rainfall is minimal, with humidity at just 10–20% and average temperatures ranging from 24–31°C. Days are brilliantly sunny, and nights are cool and comfortable, making it the driest and most pleasant month of the year. Rare morning mountain views and excellent ocean visibility make this month a dream for outdoor enthusiasts.
 - **Packing Tips:** Light, breathable cotton clothing is essential, along with high-SPF sunscreen (SPF 50+) and sunglasses. For early morning hikes, a lightweight long-sleeve sun-protection jacket is recommended.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780922788814-7.jpg)
+![July: The Month of Island Kites and Artistic Soaring](https://images.gobaligo.id/images/2026-06/1780922788814-7.jpg)
 
 ### **Major Festivals:**
 
@@ -102,7 +102,7 @@ These six months showcase Bali’s full journey from the peak of the dry season 
 - **Weather Overview:** August continues the dry season with excellent weather. Expect only 1–3 rainy days, humidity at 10–20%, and average temperatures of 24–31°C. Like July, it’s one of the driest months of the year. Plenty of sunshine and clear waters make it perfect for all water sports and outdoor activities. The only difference is the influx of peak-season crowds, so early booking for accommodations and experiences is recommended.
 - **Packing Tips:** Same as July: lightweight, breathable clothing, high-SPF sunscreen, and sunglasses are essential. Carry sunscreen for reapplication throughout the day.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780923188575-8.jpg)
+![August: A Lively Season of Music Festivals and Independence ](https://images.gobaligo.id/images/2026-06/1780923188575-8.jpg)
 
 {{block:親子}}
 
@@ -140,7 +140,7 @@ These six months showcase Bali’s full journey from the peak of the dry season 
 - **Packing Tips:** Keep your sun protection from July–August, but start carrying a lightweight foldable umbrella or rain jacket for sudden showers.
 - **Avoiding Crowds:** Late September nears October, which peaks the 'transition season' with more travelers. To dodge the crowds, plan your trip for early September.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780923472183-9.jpg)
+![September: The Transition from Dry to Rainy Season](https://images.gobaligo.id/images/2026-06/1780923472183-9.jpg)
 
 {{block:戶外}}
 
@@ -176,7 +176,7 @@ These six months showcase Bali’s full journey from the peak of the dry season 
 - **Packing Tips:** Along with sun protection and a hat, be sure to carry a foldable umbrella or lightweight raincoat. Quick-dry cotton clothing is more practical than summer wear.
 - **Avoid the Crowds:** After mid-October, visitor numbers surge, and prices for accommodations and private drivers rise accordingly. It's best to travel in early October or opt for late September instead.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780923758088-10.jpg)
+![October: The 'Transition Season' Kicks Off Peak Travel](https://images.gobaligo.id/images/2026-06/1780923758088-10.jpg)
 
 ### **Major Festivals:**
 
@@ -211,7 +211,7 @@ These six months showcase Bali’s full journey from the peak of the dry season 
 - **Packing Tips:** Make rain gear a must. Bring a waterproof jacket, a rain cover for your backpack, and water shoes. Cotton-blend moisture-wicking clothing is more practical than pure cotton. Evenings can bring a cool breeze, so a light long-sleeved jacket comes in handy.
 - **Travel Tips:** The rainy season doesn’t mean you can’t travel. Mornings are usually clear, with rain arriving in the afternoon and evening. It’s best to plan activities for the morning and return to your hotel for rest or a spa in the afternoon. Travel experiences during this time often feel more immersive, as fewer tourists mean more personalized service.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780924008703-11.jpg)
+![November: Early Rainy Season’s Verdant and Quiet Moments](https://images.gobaligo.id/images/2026-06/1780924008703-11.jpg)
 
 {{block:klook}}
 
@@ -249,7 +249,7 @@ https://youtu.be/op78Dk8CjL4
 - **Packing Tips:** Rain gear is essential, but due to the humidity and heat, opt for loose, breathable clothing. A waterproof backpack or dry bag protects electronics. Quick-dry clothes are more practical than long garments.
 - **Avoiding Crowds:** From December 20 to January 5, it's the peak of the 'Nataru' holiday season. Hotel and car rental prices may double, traffic is heavy, and attractions are crowded. If you enjoy the buzz, join the festivities; if you seek tranquility, avoid traveling after December 20.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780924308707-12.jpg)
+![December: Mid-Rainy Season Prelude to Christmas and New Year](https://images.gobaligo.id/images/2026-06/1780924308707-12.jpg)
 
 ### **Major Festivals:**
 
@@ -281,7 +281,7 @@ https://youtu.be/op78Dk8CjL4
 
 ## Editor's Smart Travel Notes 💡
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780924530878-15.jpg)
+![Editor's Smart Travel Notes](https://images.gobaligo.id/images/2026-06/1780924530878-15.jpg)
 
 ### **Season Selection Strategy:**
 
@@ -302,7 +302,7 @@ https://youtu.be/op78Dk8CjL4
 - For specific festivals (Jazz Festival, Writers Festival, Spirituality Festival), book one month ahead.
 - In November, you can book on the fly with more choices and friendlier prices.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780924627221-16.jpg)
+![Booking Tips:](https://images.gobaligo.id/images/2026-06/1780924627221-16.jpg)
 
 ### **Transportation Tips:**
 
@@ -329,4 +329,4 @@ https://youtu.be/op78Dk8CjL4
 
 **The second half of the year in Bali is a gradual transformation from clear, dry skies to lush, verdant green. Whether you choose the grandeur of the dry season or the tranquility of the rainy season, this island will welcome you with its most sincere face. Are you ready for the festivals and landscapes of the second half of the year?**
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780924641842-17.jpg)
+![Quick Reference](https://images.gobaligo.id/images/2026-06/1780924641842-17.jpg)

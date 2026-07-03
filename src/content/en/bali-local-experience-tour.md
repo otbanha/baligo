@@ -71,7 +71,7 @@ You can set aside a day for this kind of local Bali experience, which will give 
 
 ## Klook Denpasar World Heritage Day Tour
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_630b7e2478042e5eb703cc858917c81b.png)
+![Klook Denpasar World Heritage Day Tour](https://images.gobaligo.id/vocus/vocus_630b7e2478042e5eb703cc858917c81b.png)
 
 You can also join Klook's Denpasar day tour, which lets you dive deep into Indonesia's rich culture and heritage. The itinerary includes hotel pickup, visits to UNESCO World Heritage sites like Taman Ayun Water Temple, and historical landmarks such as the Bali Museum. You'll also explore Denpasar's largest traditional markets, Badung and Kumbasari, browsing a variety of interesting local products and enjoying the fun of shopping.
 

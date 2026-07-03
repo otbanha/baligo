@@ -18,7 +18,7 @@ _srcHash: 86d72283e63ef66ca8cfb72179cdd860
 
 浮潛係峇里島最受歡迎嘅水上活動之一。即使你冇任何潛水經驗，只要識少少游水、或者有基本水中自信，就可以輕鬆享受峇里島繽紛嘅海底世界。呢個熱帶天堂有好多適合初學者嘅浮潛地點，保證帶嚟難忘嘅海洋邂逅。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_38db1470f7f6b3feed94185349288f6f.jpg)
+![峇里島最靚浮潛地點大集合：新手友善海洋冒險指南](https://images.gobaligo.id/vocus/vocus_38db1470f7f6b3feed94185349288f6f.jpg)
 
 出發前，記得選擇合格業者、買旅遊保險，同埋聽從導遊嘅安全指示，讓每一趟浮潛旅程既安心又精彩。
 
@@ -84,7 +84,7 @@ https://youtube.com/shorts/qdS8Td7QPYY?si=bJjbnqgb_pig4qI4
 
 呢艘出名嘅美國自由號沉船位於比較淺嘅海域，浮潛嘅人都可以輕鬆接觸到。除咗沉船，附近仲有珊瑚花園同埋豐富嘅魚群，係攝影愛好者嘅天堂。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8b993725fd631efbf943b5af66e9e26b.jpg)
+![Tulamben：與USS Liberty沉船共舞](https://images.gobaligo.id/vocus/vocus_8b993725fd631efbf943b5af66e9e26b.jpg)
 
 > [Amed/Tulemben潛水/浮潛體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1106567&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%259C%259F%25E8%2598%25AD%25E5%25A5%2594%25E6%25B5%25AE%25E6%25BD%259B)
 

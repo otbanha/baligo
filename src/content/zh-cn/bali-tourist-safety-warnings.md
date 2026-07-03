@@ -28,7 +28,7 @@ _srcHash: 55fd01fe1785a588f43df5c019ae4e48
 
 警方这周逮捕了一名22岁的巴厘岛男子Ketut Manih，他假扮成摩托车司机，在Legian抢走了一位37岁澳洲游客的金项链。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1769e9a42496e7fbb75d546b2c6b9c78.png)
+![假的载客摩托车抢劫](https://images.gobaligo.id/vocus/vocus_1769e9a42496e7fbb75d546b2c6b9c78.png)
 
 警方表示，这件事发生在9月16日凌晨2:40，地点在Legian的Jalan Kubu Anyar Gang Sada Sari。当时受害者GHK正走回住宿，结果被Manih拦下，对方还提供了一个便宜的摩托车载他回去。
 
@@ -50,7 +50,7 @@ Manih表示，因为财务困难才决定抢劫，并声称自己没有加入任
 
 在另一边的坎古Pererenan村，一群TikTok名人也遇到了别墅被洗劫的情况。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fef39ea57bb3392c788adfeeab368e7c.png)
+![别墅被洗劫](https://images.gobaligo.id/vocus/vocus_fef39ea57bb3392c788adfeeab368e7c.png)
 
 TikTok名人Dr. Richard Lee、Willie Salim、Kenneth Seymour、Regiena Shaelynne等人当时住在Jalan Babadan的一间别墅，他们在9月21日早上9:30离开别墅去游玩，等到下午6点回来时，发现一台MacBook Pro M2、一台iPad Pro M1、相机、iPhone和几百万印尼盾现金全都不见了。
 
@@ -70,7 +70,7 @@ TikTok名人Dr. Richard Lee、Willie Salim、Kenneth Seymour、Regiena Shaelynne
 
 📩 **立即加入「巴厘岛旅游攻略」博客，成为巴厘岛旅游达人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![注册加入我们的博客](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **通过免费订阅，你将获得：**
 

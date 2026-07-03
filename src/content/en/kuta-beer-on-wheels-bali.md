@@ -22,7 +22,7 @@ _srcHash: d39f9238c58289ba56c767e300e6adfc
 
 Looking for a unique way to enjoy Bali? Don’t miss out on **Beer on Wheels Bali**! This one-of-a-kind experience brings the bar to the streets of Kuta and Legian, letting you sip on ice-cold beer while soaking up the music and party vibes. Whether you’re with friends, family, or traveling solo, this 2-hour beer bus tour will make you fall in love with Bali’s energy and warmth! When abroad, let loose and have fun!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8379eb79960a502dff798167ae683904.jpg)
+![Beer Bus in Kuta, Bali: Beer on Wheels Bali Unlimited Drinks](https://images.gobaligo.id/vocus/vocus_8379eb79960a502dff798167ae683904.jpg)
 
 ***
 
@@ -36,7 +36,7 @@ Looking for a unique way to enjoy Bali? Don’t miss out on **Beer on Wheels Bal
 - **Secret Party Mode**: The bus has a mysterious party mode waiting to be unlocked!
 - **Live Music Performances**: Some buses feature a live band area, and if you’re feeling bold, you can even grab the mic and sing!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2ca3903c76318b97fbc8680db151a0f1.jpg)
+![Highlights: The Unique Charm of the Beer Bus](https://images.gobaligo.id/vocus/vocus_2ca3903c76318b97fbc8680db151a0f1.jpg)
 
 ***
 
@@ -60,7 +60,7 @@ If you spot a beer bus on the street, hop on and join the party! Here’s how it
 3. **Indicate Group Size**: Use hand gestures to let the crew know how many are in your group, and the bartender will prepare drinks for you.
 4. **Hop On**: Get ready to join this unlimited drinks party!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_67191f3259c604b95e89cdcc9321fcde.jpg)
+![Hop-On System: Join the Fun Anytime](https://images.gobaligo.id/vocus/vocus_67191f3259c604b95e89cdcc9321fcde.jpg)
 
 ***
 

@@ -18,7 +18,7 @@ lang: zh-cn
 _srcHash: 42d2e0176bbae81b53cf8664c6706f4b
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_86b840290627cc094416ab3efb84a7cf.png)
+![【这样玩居然不堵车！】爽玩巴厘岛自由行攻略：交通、住宿、景点、美食、购物、SPA、夜生活，全方位规划](https://images.gobaligo.id/vocus/vocus_86b840290627cc094416ab3efb84a7cf.png)
 
 巴厘岛是印尼的一个热门旅游目的地，以其美丽的海滩、丰富的文化和历史而闻名。然而，巴厘岛的交通问题也一直是游客的一大困扰，这可能会影响您的行程，甚至让您错过航班。
 

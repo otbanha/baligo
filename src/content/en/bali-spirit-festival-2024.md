@@ -26,7 +26,7 @@ _srcHash: aae8f3a0aaad627003b586be2196f3a2
 
 ## Bali Spirit Festival: A Celebration of Spirituality and Inspiration
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0d872c8654d5b03d669f3932de935a41.jpg)
+![Bali Spirit Festival: A Celebration of Spirituality and Insp](https://images.gobaligo.id/vocus/vocus_0d872c8654d5b03d669f3932de935a41.jpg)
 
 The Bali Spirit Festival will return to Ubud from May 1st to 5th, 2024. This grand event brings together yoga, dance, music, and healing enthusiasts from around the world, offering a soul-inspiring feast. Here, participants can explore the balance of body, mind, and spirit, gain new insights, and connect with a global community.
 

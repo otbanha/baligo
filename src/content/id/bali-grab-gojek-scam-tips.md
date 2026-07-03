@@ -45,7 +45,7 @@ Pas mereka protes, supirnya malah mulai nego sendiri, dan akhirnya nawarin harga
 
 **Tips & Saran**: Pas pake ojek online kayak Grab, hati-hati kalau supir nawarin paket wisata atau gitu. Kalau supir minta bayar cash, usahain jangan kena jebakan 'gak ada uang kecil'. Catat juga pengalaman kurang enak selama perjalanan, dan langsung lapor ke platform biar layanannya makin baik.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_606a8a4395b4fdaae837688326b106ac.png)
+![Cerita 2: Modus Jualan Paket Wisata](https://images.gobaligo.id/vocus/vocus_606a8a4395b4fdaae837688326b106ac.png)
 
 Pengalaman nyata para wisatawan ini semoga bisa jadi referensi buat kalian. Sebenarnya platform ojek online itu tetap praktis banget, kemungkinan ketemu supir nakal juga gak terlalu tinggi, tapi tetap aja penting buat waspada selama liburan.
 

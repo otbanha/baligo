@@ -23,7 +23,7 @@ _srcHash: 028a8ed8d691117a4a2d0b0f46f9e387
 
 If you visit Bali, don't miss the Kecak Fire Dance performance! It's an unforgettable experience!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f8c6296d8f2f09b45c9843546731b432.jpg)
+![Kecak Fire Dance: A Must-See Spectacular Performance in Bali](https://images.gobaligo.id/vocus/vocus_f8c6296d8f2f09b45c9843546731b432.jpg)
 
 ## A Heart-Stirring Performance
 
@@ -39,7 +39,7 @@ Unlike other traditional Balinese performances that are typically accompanied by
 
 ## The Storyline
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f2406be4ab4d6ea6026d450f8c08440e.jpg)
+![The Storyline](https://images.gobaligo.id/vocus/vocus_f2406be4ab4d6ea6026d450f8c08440e.jpg)
 
 The Kecak Fire Dance performance at Uluwatu is a traditional Balinese dance drama that showcases the island's unique cultural heritage. The story is primarily derived from the Indian epic, the Ramayana. The performance focuses on the tale of Prince Rama's heroic rescue of his wife, Sita.
 
@@ -49,7 +49,7 @@ During the performance, actors dressed in traditional costumes chant "chak-chak-
 
 ## The Origins of Kecak Fire Dance
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a406dcf7d7e0aeedce7bcc6494100b63.jpg)
+![The Origins of Kecak Fire Dance](https://images.gobaligo.id/vocus/vocus_a406dcf7d7e0aeedce7bcc6494100b63.jpg)
 
 The Kecak Fire Dance is said to have originated from an ancient Balinese ritual called Sanghyang, which was a form of exorcism or spirit expulsion where dancers entered a trance. The dance first appeared in 1930 when Balinese dancer Wayan Limbak collaborated with German painter Walter Spies to incorporate the legendary story of the Ramayana into a dramatic version of the Sanghyang performance. They took this innovative creation on a world tour, which popularized the dance.
 

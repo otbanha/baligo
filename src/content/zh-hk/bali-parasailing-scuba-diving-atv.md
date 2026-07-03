@@ -37,27 +37,27 @@ update: 2026/05/26
 
 我自己先排咗個大致嘅行程，再請歐ㄟ幫我執一執。佢都好貼心咁俾咗啲行程上嘅建議。到咗峇里島之後，成個旅程嘅溝通都好順暢，佢唔單止聽得明我哋嘅閒聊，仲可以同我哋講笑，呢啲真係請中文司機嘅好處！佢仲幫我哋解決咗一啲突發問題，例如改餐廳時間、臨時想按摩、陪我哋講價等等。以下係我哋參考咗好多[小傑印尼](https://www.youtube.com/@j_indonesia)喺YouTube上嘅指南之後，訂定嘅行程計劃：
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794607534-1.jpg)
+![行程規劃同溝通](https://images.gobaligo.id/images/2026-05/1779794607534-1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794608102-2.jpg)
+![行程規劃同溝通](https://images.gobaligo.id/images/2026-05/1779794608102-2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794608628-3.jpg)
+![行程規劃同溝通](https://images.gobaligo.id/images/2026-05/1779794608628-3.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794609481-4.jpg)
+![行程規劃同溝通](https://images.gobaligo.id/images/2026-05/1779794609481-4.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794610083-5.jpg)
+![行程規劃同溝通](https://images.gobaligo.id/images/2026-05/1779794610083-5.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794610572-6.jpg)
+![行程規劃同溝通](https://images.gobaligo.id/images/2026-05/1779794610572-6.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794611205-7.jpg)
+![行程規劃同溝通](https://images.gobaligo.id/images/2026-05/1779794611205-7.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794612128-8.jpg)
+![行程規劃同溝通](https://images.gobaligo.id/images/2026-05/1779794612128-8.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794613152-9.jpg)
+![行程規劃同溝通](https://images.gobaligo.id/images/2026-05/1779794613152-9.jpg)
 
 所以，如果你哋要帶屋企人去峇里島，歡迎搵歐ㄟ喔！佢嘅Line ID係：mangloco94。提提你，佢雖然識講中文，但係睇唔明又唔識打中文，所以一開始可以用英文同佢打招呼。如果英文唔好嘅話，亦可以直接打俾佢，佢話可以用翻譯軟體嚟幫手溝通。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc0d1457f9ad845aaff9a109114ba614.png)
+![行程規劃同溝通](https://images.gobaligo.id/vocus/vocus_bc0d1457f9ad845aaff9a109114ba614.png)
 
 > [峇里島旅遊注意事項：第一次去峇里島必睇嘅32項旅遊攻略](/blog/bali-ultimate-guide-2026/)
 
@@ -71,7 +71,7 @@ update: 2026/05/26
 
 ### **多帶換洗內衣褲**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b0f8826462eff2a98579a54724fb9ffa.png)
+![多帶換洗內衣褲](https://images.gobaligo.id/vocus/vocus_b0f8826462eff2a98579a54724fb9ffa.png)
 
 峇里島嘅濕氣好重，如果有玩水嘅活動，一日通常要換兩套衫。我原本以為可以將啲衫洗一洗晾乾，但實際上，由於濕氣好重，啲衫唔容易完全乾透。建議多帶啲快乾材質嘅衫，特別係內衣褲，咁樣可以保證每日都有乾淨舒服嘅衫著。
 
@@ -87,25 +87,25 @@ https://youtu.be/IReL1ztxL7c
 
 過條馬路就到達庫塔海灘，附近有熱鬧嘅夜生活。雖然呢度唔係最新嘅酒店，但佢嘅房間闊落又乾淨，設施亦都好齊全。工作人員友善熱情，令人覺得賓至如歸。尤其係海鮮晚餐同樂隊嘅現場表演，非常精彩，令我哋度過咗一啲愉快嘅夜晚。我哋喺呢度嘅住宿體驗非常美好，CP值爆高！
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794750451-21ceb288ce176b586af3db9a05d094fc.webp)
+![住宿](https://images.gobaligo.id/images/2026-05/1779794750451-21ceb288ce176b586af3db9a05d094fc.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794751078-35e3f66bf77cd40f26c91c4e217412fc.webp)
+![住宿](https://images.gobaligo.id/images/2026-05/1779794751078-35e3f66bf77cd40f26c91c4e217412fc.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794751619-59ce114cefe481787aac107045c9bfed.webp)
+![住宿](https://images.gobaligo.id/images/2026-05/1779794751619-59ce114cefe481787aac107045c9bfed.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794752215-528f598aa382f9c0f3d7ce1f6304d448.jpeg)
+![住宿](https://images.gobaligo.id/images/2026-05/1779794752215-528f598aa382f9c0f3d7ce1f6304d448.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794752824-472740031.jpg)
+![住宿](https://images.gobaligo.id/images/2026-05/1779794752824-472740031.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794753310-500398018.jpg)
+![住宿](https://images.gobaligo.id/images/2026-05/1779794753310-500398018.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794753787-661675161.jpg)
+![住宿](https://images.gobaligo.id/images/2026-05/1779794753787-661675161.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794754275-825496088.jpg)
+![住宿](https://images.gobaligo.id/images/2026-05/1779794754275-825496088.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794754769-c3e9792212b335b6394f7537283cf6d9.webp)
+![住宿](https://images.gobaligo.id/images/2026-05/1779794754769-c3e9792212b335b6394f7537283cf6d9.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794755377-dde10217f990c21bc9d88fda23331bec.webp)
+![住宿](https://images.gobaligo.id/images/2026-05/1779794755377-dde10217f990c21bc9d88fda23331bec.webp)
 
 **Grand Istana Rama Hotel:** [**Agoda訂房**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65512) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685197&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oay8LFJMEkNY2F4-ykhc_YhBgNNO6zWfwWdDQGgeQ8B883gTvkWpmLHQJ4IqYceD6NPZE35Nj-8wyODoUMIJBQ6NDImAYCZbkOXYysYDUzGHtfam5k7D_0VSOm389hByPTCcYO7gVMrxbNZjrFwswxh-kSy1em6Gql7NRKJSsTHaWSzJKcVCUrpaeL5j1t2PN8RauSjlJKanEyUAjISszNL80rAbINTYz0DAyAIiWJFZ4pYJ3JiTnJpTmJJakhlQVAE8x0lDKLnUuKMguCUnMzS0pSgarSEnOKU0HiQanFQJlksKCSH9CYIqhAZn4eRLshilhYYk5pKsQJQAvdUqF2GNbqYLr82Zzep90zX2zaTZzLzantcgNiXG5cG_uIhSk69gXLfbZPLAy_gFHRydXEytDFyswxj3ESkOzg3sXKFuIa5W5ieoG1Q1xKwdDAwMDI1NTIXNcg0TLRyCTVQNfE0sTI3EDXwsAAyNA4e-3LtSfGRtZSkKhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxOZmaeFqZhJlw8Xs6RIk-EHv-fZ2a0t7KeaQcBdFe9l-yRU9p-21QHKGMLnAPa9zTtgbL7CPPN7w5uu7_tP2SaxVGboh4RnHxQoYGxiZuhi5BRg9GCMYK4A8xlWMDBsYGXcw_ocBxleMINMBGJ7oZwMDAAA&masterhotelid_tracelogid=100025527-0a9a24e0-494270-800942&detailFilters=17|1~17~1*31|685197~31~685197*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1596&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/q1KxlNcJ)
 

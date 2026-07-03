@@ -15,7 +15,7 @@ _srcHash: 8a0e213d4cc073388ee993153c69c0f4
 
 旅行时保持身体健康是最重要的课题！巴厘岛，这片令人着迷的土地，充满了令人难以置信的美景和令人难忘的体验。然而，在您探索这个美丽的目的地时，请记得保护您的健康，因为在这里，我们每天都要吃下肚子的饮用水和食品卫生是需要格外留心的。如果旅游时身体出现异样，可能整个旅程都可能泡汤了哩！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e6c20db282b94567bf42043a94cbc99.png)
+![巴厘岛旅行健康小贴士：巴厘岛的饮用水和巴厘岛腹泻/肠胃炎（Bali Belly）指南](https://images.gobaligo.id/vocus/vocus_3e6c20db282b94567bf42043a94cbc99.png)
 
 ## 水质的重要性
 
@@ -50,11 +50,11 @@ _srcHash: 8a0e213d4cc073388ee993153c69c0f4
 
 > 一位读者的血泪经验： ➡️ 「现在我来回报一下使用情况，昨晚在巴厘岛开始拉肚子，拉的是稀水的那种，喷射的稀里哗啦。上午8点多到饭店附近的药房买了Entrostop，前后吃了6颗左右，依旧止不住。后面换了imodium loperamide，只吃了两颗就止住了。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ca70e37df46a2f3bcd0338a0bda4d23.jpg)
+![建议的瓶装水品牌](https://images.gobaligo.id/vocus/vocus_6ca70e37df46a2f3bcd0338a0bda4d23.jpg)
 
 > 看来这两种药真的要看腹泻的情况来吃：**Entrostop可能只适合一般的普通腹泻**，价格是1美元一板；**imodium loperamide适合那种急性腹泻**，拉肚子拉稀水那种，价格是10美元一板，是Entrostop的10倍。再次谢谢小杰的推荐！」
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3492fe649d1b46ef46788731bf208c73.png)
+![建议的瓶装水品牌](https://images.gobaligo.id/vocus/vocus_3492fe649d1b46ef46788731bf208c73.png)
 
 👉**这里有新版的:** [巴厘岛腹泻/肠胃炎完整用药指南](/blog/bali-belly-medicine-guide/)
 

@@ -18,7 +18,7 @@ lang: zh-hk
 _srcHash: f019131270effdafdfbef20fcd8f51e2
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_acec44040e6eb1d33d385be4be6d0d18.jpg)
+![峇里島旺季旅遊攻略：點樣避開交通擠塞，輕鬆享受假期](https://images.gobaligo.id/vocus/vocus_acec44040e6eb1d33d385be4be6d0d18.jpg)
 
 峇里島以其迷人嘅沙灘、文化景點同自然風光吸引住全球遊客。然而，去到聖誕節同新年假期咁樣嘅旺季，湧入嘅大量遊客往往會造成道路擠塞同交通問題。根據峇里島交通管理局嘅數據，2024年嘅聖誕至2025新年假期期間，預計會有超過**322,000架車輛**進出峇里島，其中**289,000架由雅加達/泗水所在嘅爪哇島通過吉利馬努港**（Gilimanuk Port），**32,000架通過巴東拜港**（Padangbai Port）。此外，約**270萬名旅客**會湧入峇里島，其中**150萬人通過機場**，**110萬人通過吉利馬努港**，仲有**95,000人通過巴東拜港**。
 
@@ -46,7 +46,7 @@ _srcHash: f019131270effdafdfbef20fcd8f51e2
 
 旺季期間，**庫塔**、**水明漾**、**坎古**等西岸地區係遊客嘅熱門集中地，交通擠塞在所難免。如果你希望享受更加寧靜嘅假期，不妨考慮選擇以下地區：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a5ecb9763da3a075dbe08fcb57b1c782.png)
+![避開擠逼嘅熱門地區：探索寧靜之地](https://images.gobaligo.id/vocus/vocus_a5ecb9763da3a075dbe08fcb57b1c782.png)
 
 - **武吉半島**：機場以南嘅呢個區塊，請睇[呢度](/blog/bukit-peninsula-guide/)我哋有詳細介紹。
 - **艾湄**：位於峇里島東部，以寧靜嘅黑沙灘同潛水勝地聞名。請睇下面視頻小傑嘅介紹：
@@ -54,7 +54,7 @@ _srcHash: f019131270effdafdfbef20fcd8f51e2
 - **塔巴南**：以梯田同自然景觀著稱，適合遠離人群。
 - **峇里西部國家公園**：呢度嘅自然環境同野生動物觀察為旅客提供獨特體驗。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3a72ff04f9c651d18597734cdbcfe33f.jpg)
+![避開擠逼嘅熱門地區：探索寧靜之地](https://images.gobaligo.id/vocus/vocus_3a72ff04f9c651d18597734cdbcfe33f.jpg)
 
 呢啲地區唔單止人流較少，仲可以令你更加貼近峇里島嘅自然風光，享受放鬆嘅旅遊氛圍。
 

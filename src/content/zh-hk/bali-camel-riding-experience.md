@@ -14,13 +14,13 @@ _srcHash: 32fd17bbe3557109263aad3adb191708
 
 ## 峇里島獨特體驗：沙灘騎駱駝之旅🐪
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_78aaa239e94e16c866dd90393b901e8b.jpg)
+![峇里島獨特體驗：沙灘騎駱駝之旅](https://images.gobaligo.id/vocus/vocus_78aaa239e94e16c866dd90393b901e8b.jpg)
 
 喺峇里島嘅陽光沙灘上，除咗滑浪同浮潛，仲有一項好特別嘅活動——騎駱駝沿海灘漫步！呢項源自澳洲 Broom 海灘嘅浪漫體驗，而家喺峇里島都可以親身感受。以下為你介紹兩個熱門地點，分別代表「本地版」同「觀光版」嘅唔同魅力。
 
 ## Mertasari Beach：本地人最愛嘅平價騎駱駝體驗
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_602a438b73356a1509afa111f1831f25.jpg)
+![Mertasari Beach：本地人最愛嘅平價騎駱駝體驗](https://images.gobaligo.id/vocus/vocus_602a438b73356a1509afa111f1831f25.jpg)
 
 位於峇里島沙努爾嘅 Mertasari Beach，係本地人週末休閒嘅好去處。呢度嘅 [Bali Camel Ride](https://www.instagram.com/balicamelride?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) 提供輕鬆、親民嘅騎駱駝體驗，非常適合親子共遊。
 
@@ -48,7 +48,7 @@ __VID0__
 
 ## Kelan Beach：夢幻夕陽下嘅觀光版駱駝之旅🌅
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_101fba96039bcbebaa03f5a3e76ebd38.jpg)
+![Kelan Beach：夢幻夕陽下嘅觀光版駱駝之旅](https://images.gobaligo.id/vocus/vocus_101fba96039bcbebaa03f5a3e76ebd38.jpg)
 
 位於金巴蘭嘅 Kelan Beach，距離峇里島機場只係幾分鐘車程。呢度嘅 [Bali Camel Adventure](https://www.balicameladventure.com/) 以浪漫景緻同高品質服務聞名，係好多情侶同旅客嘅首選。
 

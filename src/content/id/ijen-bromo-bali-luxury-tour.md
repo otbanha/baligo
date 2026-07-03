@@ -18,8 +18,8 @@ lang: id
 _srcHash: a2a439269ef3be36c353762f90778acf
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_95d91a1539287683737d3e0a04d1e1c8.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_b4fa1582dee57d138f6c28b896f04869.jpg)
+![【伊真火山+Bali】Api Biru Misterius + Air Terjun Tumpak Sewu + Sun](https://images.gobaligo.id/vocus/vocus_95d91a1539287683737d3e0a04d1e1c8.jpg)
+![【伊真火山+Bali】Api Biru Misterius + Air Terjun Tumpak Sewu + Sun](https://images.gobaligo.id/vocus/vocus_b4fa1582dee57d138f6c28b896f04869.jpg)
 
 ## ✨ Highlight Perjalanan
 
@@ -29,12 +29,12 @@ _srcHash: a2a439269ef3be36c353762f90778acf
 - **Pengalaman Magis**: Berenang bareng lumba-lumba liar di Lovina
 - **Pure Fun**: Nggak ada biaya tambahan, nggak ada toko oleh-oleh,全程 VIP private car
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775404200123-5-5.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1775404200628-006376400_1707282570-ijen.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1775404201229-bromo-sunrise_800x533-jpg.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1775404201631-486356507_2592775824255286_8287552600759979543_n.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1775404202357-67.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1775404202716-tumpak-sewu-best-waterfall-indonesia-java-foot-1920x1281.jpg)
+![Highlight Perjalanan](https://images.gobaligo.id/images/2026-04/1775404200123-5-5.jpg)
+![Highlight Perjalanan](https://images.gobaligo.id/images/2026-04/1775404200628-006376400_1707282570-ijen.jpeg)
+![Highlight Perjalanan](https://images.gobaligo.id/images/2026-04/1775404201229-bromo-sunrise_800x533-jpg.jpeg)
+![Highlight Perjalanan](https://images.gobaligo.id/images/2026-04/1775404201631-486356507_2592775824255286_8287552600759979543_n.jpg)
+![Highlight Perjalanan](https://images.gobaligo.id/images/2026-04/1775404202357-67.jpg)
+![Highlight Perjalanan](https://images.gobaligo.id/images/2026-04/1775404202716-tumpak-sewu-best-waterfall-indonesia-java-foot-1920x1281.jpg)
 
 ***
 

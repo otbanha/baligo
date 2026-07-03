@@ -96,7 +96,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### 6. 水肺潜水 (Scuba Diving)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e4f9d3574fd448e635155a11a63a9ec0.png)
+![6. 水肺潜水 (Scuba Diving)](https://images.gobaligo.id/vocus/vocus_e4f9d3574fd448e635155a11a63a9ec0.png)
 
 - **简介**：巴厘岛是世界级潜点，海洋生物多样性丰富，适合从初学者到技术潜水员。可以看到珊瑚礁、沉船、甚至蝠鲼 (Manta Ray) 和翻车鱼 (Mola Mola)。
 - **推荐潜点**：
@@ -114,13 +114,13 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### 6.1 浮潜（snorkeling）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8931b9fe6f6fd60c4c95f35857142770.jpg)
+![6.1 浮潜（snorkeling）](https://images.gobaligo.id/vocus/vocus_8931b9fe6f6fd60c4c95f35857142770.jpg)
 
 > 请参考 [巴厘岛最美浮潜地点大收集：新手友好海洋冒险指南](/blog/bali-snorkeling-spots/)
 
 ### 7. 海底漫步 (Sea Walking)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f7bdbcc0d649ea079dbe5163739266a5.jpg)
+![7. 海底漫步 (Sea Walking)](https://images.gobaligo.id/vocus/vocus_f7bdbcc0d649ea079dbe5163739266a5.jpg)
 
 - **简介**：戴着特制的氧气头盔，在海底漫步，近距离观赏珊瑚礁和热带鱼群。无需潜水经验或会游泳，连眼镜都不用摘，非常适合怕水的人或想轻松体验海底世界的游客。
 - **推荐地点**：南湾 (Tanjung Benoa)。
@@ -132,7 +132,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### 8. 激流泛舟 (White Water Rafting)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f2a9d8b8bce68c18fddbd3554831cf6a.jpg)
+![8. 激流泛舟 (White Water Rafting)](https://images.gobaligo.id/vocus/vocus_f2a9d8b8bce68c18fddbd3554831cf6a.jpg)
 
 - **简介**：在巴厘岛中部的河流进行激流泛舟，穿越热带雨林、梯田和峡谷，途中可欣赏瀑布和野生动物。河道分为不同等级，适合家庭或寻求刺激的冒险者。
 - **推荐地点**：
@@ -173,7 +173,7 @@ https://youtube.com/shorts/0f-eAQ78no4?si=L7S8-kjpwt_VcsLh
 
 ### 12. 观赏海豚 (Dolphin Watching)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_399f7b08094dc7f6d4273d9eaabb76c6.jpg)
+![12. 观赏海豚 (Dolphin Watching)](https://images.gobaligo.id/vocus/vocus_399f7b08094dc7f6d4273d9eaabb76c6.jpg)
 
 - **简介**：清晨6点左右乘船出海，在巴厘岛北部海域观赏野生海豚群。通常能看到数十只海豚跳跃嬉戏，场面壮观。建议提早预订并准时出发以提高观赏成功率。
 - **推荐地点**：罗威那 (Lovina)。
@@ -216,9 +216,9 @@ https://youtu.be/wai2lSW3vVU?si=smSuWoB2Y5ygrC9t
 
   **豪华浮床租借服务**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c068d50978234e879e8f87aec69d92f5.png)
+![额外加码：泳池漂浮](https://images.gobaligo.id/vocus/vocus_c068d50978234e879e8f87aec69d92f5.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_790a033adc23cb620a87c55b53d1cf83.png)
+![额外加码：泳池漂浮](https://images.gobaligo.id/vocus/vocus_790a033adc23cb620a87c55b53d1cf83.png)
 
 在巴厘岛热情的阳光下，让可爱的泳圈为您的假期增添一抹时尚亮点！业者提供直接送达您酒店房间或别墅门口的贴心服务，让您完全不必费心。无论是孩童或成人都能尽情享受水上乐趣。从经典圆形到梦幻独角兽、热带火鹤造型，多种尺寸、形状和设计任您挑选，为您的泳池时光增添更多欢乐与拍照回忆！
 

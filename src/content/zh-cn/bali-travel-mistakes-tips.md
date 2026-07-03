@@ -113,7 +113,7 @@ https://youtube.com/shorts/9uSjE2FVGQs
 
 >   **错误**：使用信用卡进行大量消费，未考虑到潜在的盗刷风险。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0648b8fa6386a0758be5f8b1fa666c66.jpg)
+![7. 银行卡安全](https://images.gobaligo.id/vocus/vocus_0648b8fa6386a0758be5f8b1fa666c66.jpg)
 
  巴厘岛某些地区可能存在信用卡盗刷的风险，因此建议使用下列方式来保护你的资金：
 
@@ -141,7 +141,7 @@ https://youtube.com/shorts/9uSjE2FVGQs
 
 >   **错误**：忽视巴厘岛雨季的快速天气变化，未做相应准备。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c86655f684007466ca064fac6b244c4f.png)
+![9. 应对雨季](https://images.gobaligo.id/vocus/vocus_c86655f684007466ca064fac6b244c4f.png)
 
  巴厘岛的雨季通常发生在11月至4月，虽然不会每天都是大雨，但天气变化迅速，经常突然从晴天转变为暴雨。
 
@@ -171,7 +171,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 >   **错误**：忽略当地宗教与文化礼仪，造成不尊重的行为。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2051bf25b8c56908609a59e3c8151f2a.jpg)
+![11. 尊重当地文化](https://images.gobaligo.id/vocus/vocus_2051bf25b8c56908609a59e3c8151f2a.jpg)
 
 巴厘岛是印度教的文化重镇，当地人对宗教仪式与传统非常重视，尊重他们的习俗对游客来说尤为重要。以下是几个关键文化礼仪：
 

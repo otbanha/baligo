@@ -112,7 +112,7 @@ Beneran sih, ini rasa juara yang tersembunyi di gang! Rekomendasi Xiao Jie bisa 
 
 🔹 Lantai 1 : Surga permen raksasa 🍭 «Candylicious», warna-warni, kayak surganya anak kecil 🫧 (aku mampir). Anak-anak betah banget di sini, mereka happy banget, dan aku ikut senang lihat mereka ceria.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c6082ea9e6e06a45c3157784ad9da261.jpg)
+![Catatan & Pengalaman](https://images.gobaligo.id/vocus/vocus_c6082ea9e6e06a45c3157784ad9da261.jpg)
 
 🔹 Lantai 3 : «MM Juice 🍹», kata netizen jusnya enak, tapi makanannya jelek (aku gak mampir). Meski denger jusnya oke, kita milih restoran lain. Mungkin next time cobain deh.
 
@@ -136,7 +136,7 @@ Kami lihat referensi dari 'Xiao Jie Indonesia', kalau kamu tertarik mampir ke si
 
 ### 
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_21d540de87f478b39fd7f1dee26b368a.jpg)
+![Catatan & Pengalaman](https://images.gobaligo.id/vocus/vocus_21d540de87f478b39fd7f1dee26b368a.jpg)
 
 Mau tahu lebih banyak tips seputar Kuta? [Klik di sini](/blog/2023-12-13-657598bdfd8978000120fe20/)
 
@@ -182,7 +182,7 @@ Screenshot grup Facebook「Let's Play and Eat 胡志明市」
 
 **📍Info kontak udah aku taruh di sini:**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cfd36517ed8ca2fc9f81c8f6f8a3ced5.png)
+![Rekomendasi Driver Sewa Mobil di Bali](https://images.gobaligo.id/vocus/vocus_cfd36517ed8ca2fc9f81c8f6f8a3ced5.png)
 
 🚘 Sopir oke bikin liburanmu kayak di surga, traveling tanpa drama, yuk ke Bali 🥳🥳🥳🥳
 

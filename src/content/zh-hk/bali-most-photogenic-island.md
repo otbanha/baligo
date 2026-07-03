@@ -22,7 +22,7 @@ _srcHash: 473ea6ff2827f7e941ef6642a5bf7c99
 
 根據英國知名旅遊服務平台 Travelbag 嘅最新評選，峇里島（Bali）喺 45 個熱門長途旅行目的地中脫穎而出，榮登「全球最迷人嘅島嶼」之冠。除咗風景如畫嘅自然美景外，峇里島嘅熱情好客與豐富文化亦令全球旅客為之傾倒。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_634888bfed094ae7a5caac40b1511211.jpg)
+![Bali 榮登全球最迷人島嶼寶座：英國旅遊專家 Travelbag 最新評比出爐](https://images.gobaligo.id/vocus/vocus_634888bfed094ae7a5caac40b1511211.jpg)
 
 **快速參考：**  
 [峇里島十大重要地標景點 & 如何安排旅程](/blog/bali-top-landmarks-guide/)？
@@ -49,13 +49,13 @@ _srcHash: 473ea6ff2827f7e941ef6642a5bf7c99
 
 由烏布嘅山林稻田，到烏魯瓦圖嘅海岸峭壁，每一處景色都好似畫咁靚。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e531c7782e0b7ad022a164b64793eb3c.jpg)
+![1. 自然景觀令人驚艷](https://images.gobaligo.id/vocus/vocus_e531c7782e0b7ad022a164b64793eb3c.jpg)
 
 ### **2. 獨特文化同傳統**
 
 峇里島嘅節慶、舞蹈、手工藝同埋寺廟建築，展現出強烈嘅文化認同感同傳統延續。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_681feb5b5dd74234433985258d3beee0.jpg)
+![2. 獨特文化同傳統](https://images.gobaligo.id/vocus/vocus_681feb5b5dd74234433985258d3beee0.jpg)
 
 ### **3. 友善好客嘅當地人**
 
@@ -65,7 +65,7 @@ _srcHash: 473ea6ff2827f7e941ef6642a5bf7c99
 
 由滑浪、潛水到火山登山，再到靜心冥想同SPA療程，應有盡有。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7030ca3e24fe75b65f4b81031df4960a.jpg)
+![4. 多樣化嘅活動選擇](https://images.gobaligo.id/vocus/vocus_7030ca3e24fe75b65f4b81031df4960a.jpg)
 
 **快速參考：**  
 [峇里島戶外活動玩咩好？50種最受歡迎嘅戶外體驗](/blog/bali-top-50-outdoor-activities/)
@@ -76,7 +76,7 @@ _srcHash: 473ea6ff2827f7e941ef6642a5bf7c99
 
 好多旅遊部落客同評論家都話，峇里島提供嘅係一種「心靈嘅療癒」，而唔只係短暫嘅休閒假期。加上機票價錢越來越平，同埋有豐富嘅住宿選擇，令峇里成為長途旅客嘅首選地。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dc9cc4be4aa2cfe7f9e6673430ece576.jpg)
+![專家觀點與旅客評價匯總](https://images.gobaligo.id/vocus/vocus_dc9cc4be4aa2cfe7f9e6673430ece576.jpg)
 
 **快速參考：**  
 精選：峇里島住宿推薦指南

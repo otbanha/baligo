@@ -33,7 +33,7 @@ Update: 2026/05/31
 
 带家人去巴厘岛，最怕遇到大太阳晒到头晕，或是下午突然来一场倾盆大雨把行程全打乱——这种情况我遇到过不只一次。后来发现了 **Trans Studio Bali**，整个行程规划就轻松多了。这座巴厘岛唯一的大型室内主题乐园，就藏在 Trans Studio Mall 里，不管外面天气怎样，里面玩得开心最重要。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780232865078-_unnamed.jpeg)
+![【巴厘岛室内景点】Trans Studio Bali 完全攻略：必玩五大设施、门票优惠与防晒雨天备案行程规划](https://images.gobaligo.id/images/2026-05/1780232865078-_unnamed.jpeg)
 
 ***
 
@@ -41,7 +41,7 @@ Update: 2026/05/31
 
 简单来说，它是巴厘岛目前规模最大的**全室内主题乐园**，位于库塔/水明漾附近的 Trans Studio Mall（地址：Jl. Imam Bonjol No.440）。园区分成五大主题区，每一区的风格都截然不同，从纽约风的动作特技区到充满巴厘文化的神殿探险区，玩法多到一天根本走不完。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233421375-1-1-trans-studio-bali-by-riskidarmawan_-740x592.webp)
+![什么是 Trans Studio Bali？](https://images.gobaligo.id/images/2026-05/1780233421375-1-1-trans-studio-bali-by-riskidarmawan_-740x592.webp)
 
 最适合带小孩、长辈，或是不想被日晒雨淋搞砸的旅客。对怕热的人来说更友善的是：这里完全不需要担心热带天气，冷气吹着，设施尽情玩。
 
@@ -51,7 +51,7 @@ Update: 2026/05/31
 
 ### 1. Boomerang 云霄飞车 — 商场屋顶上的极限挑战
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780232942005-1.webp)
+![1. Boomerang 云霄飞车 — 商场屋顶上的极限挑战](https://images.gobaligo.id/images/2026-05/1780232942005-1.webp)
 
 就算你平常不玩云霄飞车，这个设施也值得试试。它架在 Trans Studio Mall 的顶楼，回圈式轨道设计让你在高空中以高速俯冲，那种瞬间飞冲出去的感觉，真的会让心跳漏个半拍。
 
@@ -59,7 +59,7 @@ Update: 2026/05/31
 
 ### 2. 飞越印尼（Flying Over Indonesia）— 空中环游印尼
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233003802-2.jpeg)
+![2. 飞越印尼（Flying Over Indonesia）— 空中环游印尼](https://images.gobaligo.id/images/2026-05/1780233003802-2.jpeg)
 
 这是整个乐园我觉得最有意思的设施之一，也是**全印尼唯一**的飞行模拟剧院体验。坐上模拟器，搭配 4D 体感技术，配合气流、薄雾等特效，从空中一路飘过婆罗浮屠、科摩多岛、巴厘梯田……不知不觉就对印尼其他地方产生兴趣了。
 
@@ -67,7 +67,7 @@ Update: 2026/05/31
 
 ### 3. Formula Kart 电动卡丁车 — 巴厘岛最大室内赛道
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233063250-3.webp)
+![3. Formula Kart 电动卡丁车 — 巴厘岛最大室内赛道](https://images.gobaligo.id/images/2026-05/1780233063250-3.webp)
 
 这个赛道几乎占了整整一层楼，是目前巴厘岛规模最大的室内卡丁车场。电动卡丁车操作稳定安全，连小孩都能上场（有身高限制，记得提前确认），玩起来真的很过瘾。
 
@@ -75,7 +75,7 @@ Update: 2026/05/31
 
 ### 4. ### Forbidden Temple Adventure 禁忌神庙漂漂河 — 家庭同乐最佳选择
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233135156-4.jpg)
+![4. Forbidden Temple Adventure 禁忌神庙漂漂河 — 家庭同乐最佳选择](https://images.gobaligo.id/images/2026-05/1780233135156-4.jpg)
 
 这条漂漂河融入了巴厘神殿的探险主题，途中还有一段短暂驶出户外的区段，可以看到库塔/水明漾的城市风景。整体刺激度不算高，但胜在亲切好玩，带长辈或小朋友特别合适。
 
@@ -83,7 +83,7 @@ Update: 2026/05/31
 
 ### 5. 精彩表演与大游行 — 请认真安排这个时段
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233157309-5.webp)
+![5. 精彩表演与大游行 — 请认真安排这个时段](https://images.gobaligo.id/images/2026-05/1780233157309-5.webp)
 
 很多人把表演当成走马观花的附带节目，但 Trans Studio Bali 的表演真的不一样，值得**特地空出时段**好好看。
 
@@ -110,13 +110,13 @@ Update: 2026/05/31
 - **幻觉屋 Frank House**：迷宫加上视觉错乱，走出来会有点怀疑人生
 - **泰坦尼克号区域**：巨型泰坦尼克号装置艺术，入场前必拍的打卡点
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233233500-titanic.webp)
+![其他值得一探的特色设施](https://images.gobaligo.id/images/2026-05/1780233233500-titanic.webp)
 
 - **僵尸与狼人射击任务（City of the Dead）**：拿激光枪对抗虚拟怪物，看谁准
 - **Bali Senses 沉浸式数字艺术区**：用巴厘文化与科技打造的互动数字空间，入场第一站就是这里
 - **i-Fly 室内跳伞**（另外付费）：怕高但想体验飞翔感？这是最安全的方式
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780233460315-fly.jpg)
+![其他值得一探的特色设施](https://images.gobaligo.id/images/2026-05/1780233460315-fly.jpg)
 
 ***
 

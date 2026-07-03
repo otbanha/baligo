@@ -26,7 +26,7 @@ Do you still need proof of two vaccine doses to enter Indonesia or Bali? Do you 
 According to the latest aviation regulations: 
 Effective June 9, 2023, based on SE Task Force COVID-19 No. 1 of 2023: **Proof of COVID-19 vaccination or any COVID-19 test results are no longer required when entering Indonesia or Bali**.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1be8b2445ff165a0588e10ac1ae9ad1e.jpg)
+![Latest Vaccine and Entry Requirements for Flying to Indonesi](https://images.gobaligo.id/vocus/vocus_1be8b2445ff165a0588e10ac1ae9ad1e.jpg)
 
 # Categories of International Travelers Allowed to Enter Indonesia
 

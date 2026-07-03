@@ -70,11 +70,11 @@ Pada Juni 2025, desa ini kembali meraih **Kalpataru Lestari Appreciation Award d
 
 Kamu bisa datang ke desa ini kapan aja sepanjang tahun, tapi waktu terbaik adalah mendekati perayaan Galungan. Di hari-hari itu, desa akan dihias dengan dekorasi spesial bernama "penjor" yang digantung di tiang bambu. Di momen spesial ini, kamu juga bisa lihat gadis-gadis muda pake baju adat Bali, bawa sesajen di atas kepala, jalan anggun ke pura Hindu desa — kayak panggung upacara yang hidup.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c121f8a31678b02905c23f897ac7235.jpg)
+![Pengalaman Serasa Melintasi Waktu](https://images.gobaligo.id/vocus/vocus_1c121f8a31678b02905c23f897ac7235.jpg)
 
 ## Nyobain Loloh Cem-cem
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cf5b527a6abdf1c3481af814009eb8d9.jpg)
+![Nyobain Loloh Cem-cem](https://images.gobaligo.id/vocus/vocus_cf5b527a6abdf1c3481af814009eb8d9.jpg)
 
 Loloh Cemcem adalah minuman tradisional khas Desa Penglipuran. Daun Cemcem jadi salah satu produk unggulan desa ini. Warga lokal biasanya mengolah daun-daun ini jadi minuman segar yang baik buat kesehatan.
 

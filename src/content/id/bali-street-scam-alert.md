@@ -44,7 +44,7 @@ Pas itu, suamiku udah mau ngeluarin dompet buat nunjukin uang kami. Tapi insting
 
 Setelah itu, baru sadar kalau ini mungkin modus penipuan. Cara 'pamer uang' gini biasanya bikin turis lengah, biar perhatiannya teralih, bahkan kasih kesempatan penipu buat 'nuker' atau 'nyolong' duit korban. Meskipun kali ini berhasil dihindari, pengalaman ini tetap jadi pengingat buat aku sekeluarga: pas traveling, se-santai apapun suasananya, tetaplah waspada.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a5e5250780fcc77664a9ee525e8da9fb.png)
+![Tips Biar Nggak Kena Tipu](https://images.gobaligo.id/vocus/vocus_a5e5250780fcc77664a9ee525e8da9fb.png)
 
 Sebenernya ini udah jadi modus penipuan yang udah lama banget ada, dan pelakunya bisa jadi cowok atau cewek keren yang berpakaian rapi, bikin kamu lengah. Dalam modus kayak gini, penipu biasanya pakai teknik 'mengalihkan perhatian' buat mencapai tujuannya. Mereka bakal ngajak 'coba lihat uang negara kalian dong' biar korbannya santai dan buka dompet sendiri. Begitu korban nunjukin uang atau mulai ngobrak-ngobrik, penipu bakal mendekat, ngintip posisi uang di dompet, bahkan 'pura-pura ramah' sambil megang langsung, buat ngelakuin gerakan yang susah dideteksi, kayak nyomot beberapa lembar uang.
 
@@ -61,7 +61,7 @@ Biar liburan kamu di Bali makin aman, nih aku kasih beberapa tips:
 5. **Situasi kayak gini ada di mana-mana**: Meskipun kita ketemu penipu ini di pantai, tapi di Bali bisa aja ketemu di mana aja!
 6. **Perhatiin pasangan cowok-cewek**: Modus penipuan ini biasanya dilakukan sama pasangan cowok dan cewek.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc163f9a5759d0b79c361d1cbcee0546.png)
+![Tips Biar Nggak Kena Tipu](https://images.gobaligo.id/vocus/vocus_bc163f9a5759d0b79c361d1cbcee0546.png)
 
 Pemandangan indah Bali dan budaya yang ramah emang bikin betah, tapi tetap waspada selama perjalanan nggak bakal ngurangin keseruan liburan, malah bikin kamu lebih tenang nikmatin setiap momen. Semoga pengalamanku ini bisa jadi pelajaran buat keamanan kalian selama di Bali, biar semua orang bisa hindari jebakan turis yang sering terjadi ini!
 

@@ -40,7 +40,7 @@ While we all hope for smooth journeys, unexpected situations can arise. If you e
 
 This article compiles **Bali's most complete and crucial emergency contacts and important information**. We strongly recommend **saving these directly to your phone contacts** before departure, or simply save this cheat sheet image to your phone album for emergencies!
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779254222775-emergency.jpg)
+![【2026 Bali Emergency Assistance】Life-Saving Guide! Important](https://images.gobaligo.id/images/2026-05/1779254222775-emergency.jpg)
 
 ## 📱 Bali's Top 5 Core Emergency Numbers
 

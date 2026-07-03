@@ -83,7 +83,7 @@ _srcHash: a755a741a1f3fad0729468835f4b2128
 
 ### 準備好用手勢同肢體語言
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0ff0cc36ce9dcbe84037c3d128775f67.jpg)
+![準備好用手勢同肢體語言](https://images.gobaligo.id/vocus/vocus_0ff0cc36ce9dcbe84037c3d128775f67.jpg)
 
 即使你唔識講當地語言或者英文，透過用手勢、表情同肢體語言，你仍然可以同當地人溝通。呢啲非語言溝通方式係跨文化交流嘅重要工具，可以幫你表達自己同理解他人。
 

@@ -23,7 +23,7 @@ _srcHash: 0f1dbfeed3fa8c245f24b14186f49257
 
 巴厘岛正考虑针对外国游客征收**每日观光税**，此举效仿了不丹的做法，目的是吸引「高品质」游客并增加政府收入。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8577e4982baadfd2f9b3e465a7b5c8ea.png)
+![巴厘岛考虑每日观光税——会成为「下一个不丹」吗？](https://images.gobaligo.id/vocus/vocus_8577e4982baadfd2f9b3e465a7b5c8ea.png)
 
 巴厘岛旅游业联盟主席**Puspa Negara**强调，应建立类似不丹的旅客筛选制度，并计划发展当地旅游景点及提升人力资源。他的倡议可能获得当地政府支持，并为未来的旅游政策奠定基础。
 
@@ -49,7 +49,7 @@ _srcHash: 0f1dbfeed3fa8c245f24b14186f49257
 
 这样的巴厘岛，还会是游客心目中那个充满灵魂与活力的度假天堂吗？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7817b31199234c7f040aeea7339a27e9.png)
+![「高品质游客」政策或改变巴厘岛风貌](https://images.gobaligo.id/vocus/vocus_7817b31199234c7f040aeea7339a27e9.png)
 
 ### **巴厘岛目前已有一笔“入境费”**
 

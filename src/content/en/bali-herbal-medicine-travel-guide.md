@@ -25,7 +25,7 @@ _srcHash: 5b547a79e214f8c2a6105c7121485746
 
 When preparing to travel to Indonesia or Bali, some travelers need to bring Chinese herbal powder and health supplements, which are crucial for their health. However, different countries have varying regulations on medicines and health supplements, especially Indonesia, which has stricter controls on drugs compared to other countries. Understanding and adhering to these regulations is essential to avoid unnecessary trouble and delays.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_619b4403db9a1862faf0bf6a5c9fea52.png)
+![How to Safely Bring Chinese Herbal Powder and Health Supplem](https://images.gobaligo.id/vocus/vocus_619b4403db9a1862faf0bf6a5c9fea52.png)
 
 Not long ago, an Australian traveler carrying prescription drugs was detained in Indonesia for 4 days and subjected to 14 hours of interrogation, fined USD$26,451, as the drugs were considered prohibited. See the link below:
 
@@ -53,7 +53,7 @@ It is not advisable to bring traditional Chinese medicine powders or health supp
 
 ## 📩 **"Bali Travel Guide" Homepage Overview**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
+!["Bali Travel Guide" Homepage Overview](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 
 **By subscribing for free, you'll get:**
 

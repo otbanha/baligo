@@ -19,15 +19,15 @@ _srcHash: 81ef189ec6babedcfab32dfb0a193297
 
 如果你和你的另一半正梦想着一个异国情调的神奇蜜月或感情升温的圣地，那么选择巴厘岛您将不会失望！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff0381cd059b07cbc8326fddc828da68.png)
+![巴厘岛度蜜月/情侣共游，十大创造浪漫活动推荐！](https://images.gobaligo.id/vocus/vocus_ff0381cd059b07cbc8326fddc828da68.png)
 
 在印度尼西亚的18000个岛屿中，巴厘岛以其热带彩虹般的海岸、高耸的火山、郁郁葱葱的稻田和茂密的丛林描绘了一幅浪漫的画面。它的自然美景与丰富的文化、印度教的传统和热闹的夜生活相结合，使它成为一个令人向往的蜜月圣地，巴厘岛适合蜜月/爱侣同游景点值得一试！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb197a3de4cc07f6005065464d2d6af0.jpg)
+![巴厘岛度蜜月/情侣共游，十大创造浪漫活动推荐！](https://images.gobaligo.id/vocus/vocus_eb197a3de4cc07f6005065464d2d6af0.jpg)
 
 如果新婚夫妇想要一些私人时间，巴厘岛的蜜月旅行是最好的，因为有很多鲜为人知的华丽景点可以远离人群，变成一个恋人的天堂。那么，在巴厘岛度蜜月，/爱侣同游有哪些推荐的景点呢？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_02eec5df709ac31700b0649508efe3b0.jpg)
+![巴厘岛度蜜月/情侣共游，十大创造浪漫活动推荐！](https://images.gobaligo.id/vocus/vocus_02eec5df709ac31700b0649508efe3b0.jpg)
 
 ## 乌布玩荡秋千
 
@@ -39,13 +39,13 @@ _srcHash: 81ef189ec6babedcfab32dfb0a193297
 
 > [Desa Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F29072-desa-swing-package-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da856b7dd6e)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b017698b67b6add55e1cf53f92a3f722.jpg)
+![乌布玩荡秋千](https://images.gobaligo.id/vocus/vocus_b017698b67b6add55e1cf53f92a3f722.jpg)
 
 ## 参观咖啡庄园
 
 寻找难忘蜜月目的地？Satria Luwak Coffee给你梦幻体验！在巴厘岛，与爱人漫游翠绿咖啡园，一同参与麝香猫咖啡制作工作坊。探索浪漫风景，享受独特咖啡品味，制造难以磨灭的回忆。咖啡的故事融合情感，成就爱情充满惊喜的奇妙之旅。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a02260ae7e4d55044dc505ed7c21a96f.jpg)
+![参观咖啡庄园](https://images.gobaligo.id/vocus/vocus_a02260ae7e4d55044dc505ed7c21a96f.jpg)
 
 ## 造访圣泉
 
@@ -55,7 +55,7 @@ _srcHash: 81ef189ec6babedcfab32dfb0a193297
 
 > 人少很多的圣泉[乌布心灵之旅 & 净化体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97096-spiritual-journey-purification-healing-ritual-ubud-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D04bd5eb44f)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_78976e0bfb2637c388ca25e169325139.jpg)
+![造访圣泉](https://images.gobaligo.id/vocus/vocus_78976e0bfb2637c388ca25e169325139.jpg)
 
 ## 参观梯田
 
@@ -65,7 +65,7 @@ _srcHash: 81ef189ec6babedcfab32dfb0a193297
 
 > [Jatiluwih 梯田电动自行车之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F33428-jatiluwih-rice-terraces-electric-bike-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3124496931)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e72a56fa6e2e34e2b23638f27a4c7e3.jpg)
+![参观梯田](https://images.gobaligo.id/vocus/vocus_4e72a56fa6e2e34e2b23638f27a4c7e3.jpg)
 
 ## 与大象玩耍
 
@@ -75,7 +75,7 @@ _srcHash: 81ef189ec6babedcfab32dfb0a193297
 
 > Mason Elephant Park[优惠门票](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=25072)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6e4733feba662f7ac7c16978f32a21d3.jpg)
+![与大象玩耍](https://images.gobaligo.id/vocus/vocus_6e4733feba662f7ac7c16978f32a21d3.jpg)
 
 ## 圣猴森林
 
@@ -87,19 +87,19 @@ _srcHash: 81ef189ec6babedcfab32dfb0a193297
 
 > [乌布猴子森林＆秘境瀑布之旅（含专业拍摄服务）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49143-ubud-monkey-forest-tegalalang-tukad-cepung-waterfall-tour-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D748d67cbb5)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_316a573938d36a0c28255e9234378c86.jpg)
+![圣猴森林](https://images.gobaligo.id/vocus/vocus_316a573938d36a0c28255e9234378c86.jpg)
 
 ## 享受SPA
 
 寻找浪漫蜜月放松？巴厘岛式的奢华SPA是绝佳选择！在豪华环境中享受传统巴厘岛水疗，舒缓身心。与爱人共同品味浸泡花瓣浴，享受按摩和美容疗程，增进感情。这场愉悦的水疗之旅，为你们的蜜月增添奢华和亲密时光，创造难忘回忆。巴厘岛奢华水疗推荐【[请看这里](https://s.id/spa_guide)】
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f7f5191a96ea7d54fb5136f6c0ae3e50.jpg)
+![享受SPA](https://images.gobaligo.id/vocus/vocus_f7f5191a96ea7d54fb5136f6c0ae3e50.jpg)
 
 ## 瀑布探秘
 
 与伴侣漫步于青葱丛林，欣赏自然奇观。在清凉水幕中拥抱，分享难得亲近大自然的时刻。瀑布流水融合爱意，为你们的蜜月增添神秘与浪漫。在乌布的瀑布中，爱情将缭绕于大自然的美景中，成就一段难忘之旅。巴厘岛有很多超美的瀑布可以拜访喔！不想跑那么远可以[参考这里](https://s.id/waterfalls)有小杰介绍过在乌布附近的瀑布
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_938b0c358a8c951335a2d0090ffa695d.jpg)
+![瀑布探秘](https://images.gobaligo.id/vocus/vocus_938b0c358a8c951335a2d0090ffa695d.jpg)
 
 ## ATV探险
 
@@ -109,7 +109,7 @@ _srcHash: 81ef189ec6babedcfab32dfb0a193297
 
 > [ATV登火山](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F79494-kintamani-pine-tree-atv-quad-bike-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3a7c769872)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_268f0b70731e9d943f29e60513bde4b1.jpg)
+![ATV探险](https://images.gobaligo.id/vocus/vocus_268f0b70731e9d943f29e60513bde4b1.jpg)
 
 ## 海滩俱乐部共享浪漫
 

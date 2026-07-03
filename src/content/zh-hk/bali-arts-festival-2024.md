@@ -21,7 +21,7 @@ _srcHash: 81af9f42004d92acb79a8896b36792ac
 
 峇里島文化藝術節（Bali Arts Festival）即將喺峇里島拉開序幕。呢個係峇里島最重要嘅文化活動之一。來自世界各地嘅藝術家、音樂家同舞者會齊集一堂，為遊客展示佢哋嘅作品。喺呢段期間，峇里島會變成藝術嘅天堂。你唔使擔心門票問題，因為所有峇里島藝術節嘅表演都係免費嘅。你將會見證到唔單止係峇里島豐富嘅表演藝術，仲有來自印尼其他島嶼嘅各種文化亮點。如果你係藝術同文化嘅愛好者，咁你絕對唔可以錯過呢個盛會。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_90ab703b954115885ae714b8d09db502.png)
+![2024峇里島藝術節六月十五日開始，為期一個月](https://images.gobaligo.id/vocus/vocus_90ab703b954115885ae714b8d09db502.png)
 
 ## 乜嘢係峇里島藝術節？
 
@@ -33,7 +33,7 @@ _srcHash: 81af9f42004d92acb79a8896b36792ac
 
 ## 峇里島藝術節嘅主題
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c32e212b2a773b031367bb0fbbad6089.jpg)
+![峇里島藝術節嘅主題](https://images.gobaligo.id/vocus/vocus_c32e212b2a773b031367bb0fbbad6089.jpg)
 
 2024年峇里島藝術節嘅主題係「Jana Kerthi Pramaguna Wikrama」，意思係「提升人類尊嚴與卓越」。峇里島藝術節嘅主題通常基於呢啲維持生命嘅力量之一。因此，藝術節上嘅表演同展覽可能會帶有哲學嘅基礎，你將會喺節日中見到豐富嘅思想內涵同藝術表現。
 
@@ -43,7 +43,7 @@ _srcHash: 81af9f42004d92acb79a8896b36792ac
 
 ## 可以欣賞到咩樣嘅表演？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b37c1c6db8934d3aa8bc6d6630976a02.png)
+![可以欣賞到咩樣嘅表演？](https://images.gobaligo.id/vocus/vocus_b37c1c6db8934d3aa8bc6d6630976a02.png)
 
 ### 開幕遊行
 
@@ -75,7 +75,7 @@ Werdhi Budaya Art Centre
 
 ## 參加峇里島藝術節嘅貼士
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb580db9253ea62dc0130897433dc0e1.jpg)
+![參加峇里島藝術節嘅貼士](https://images.gobaligo.id/vocus/vocus_eb580db9253ea62dc0130897433dc0e1.jpg)
 
 ### 天氣同衣物
 
@@ -99,7 +99,7 @@ Werdhi Budaya Art Centre
 
 ➡️[搵峇里島住宿請睇呢度](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b2948879decdfe85c71b34e38f4b7957.png)
+![住宿同門票嘅預訂](https://images.gobaligo.id/vocus/vocus_b2948879decdfe85c71b34e38f4b7957.png)
 
 ### 結論
 

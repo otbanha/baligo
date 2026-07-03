@@ -22,7 +22,7 @@ _srcHash: aa08d5017513d642664f0be9a8918451
 ---
 Masalah kemacetan di Bali udah jadi rahasia umum. Nah, dengan datangnya musim hujan dan proyek jalan besar di pulau ini, para pemimpin daerah mulai khawatir berat. Mereka bilang, kondisi lalu lintas mungkin bakal tambah parah dulu sebelum akhirnya membaik.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8a479e11a1113d7b2d97438e6e7ab97c.jpg)
+![Musim Hujan Tiba, Peringatan Bahwa Lalu Lintas Bali Bakal Ma](https://images.gobaligo.id/vocus/vocus_8a479e11a1113d7b2d97438e6e7ab97c.jpg)
 
 Dulu, masalah lalu lintas di Bali cuma terpusat di sekitar Jalan Sunset, Kuta. Kadang-kadang Ubud atau area bandara juga macet. Tapi, sampai Agustus 2024, kemacetan udah menyebar ke seluruh pulau, kapan aja dan di mana aja.
 
@@ -34,7 +34,7 @@ Akar masalahnya ada di jalanan yang terlalu penuh kendaraan. Semakin banyak oran
 
 Meskipun pariwisata Bali berkembang pesat, infrastrukturnya nggak ikut upgrade. Jalan-jalan desa yang sempit sekarang harus nampung kendaraan sebanyak jalan tol. Akibatnya, titik-titik kemacetan muncul di mana-mana. Meskipun Sena udah ngusulin strategi manajemen lalu lintas kayak nambah lampu merah, sistem satu arah, dan bundaran, masalah ini susah banget diatasi dalam waktu dekat.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_047aea2f076efd5531f6867d93a23d03.jpg)
+![Musim Hujan Tiba, Peringatan Bahwa Lalu Lintas Bali Bakal Ma](https://images.gobaligo.id/vocus/vocus_047aea2f076efd5531f6867d93a23d03.jpg)
 
 Salah satu solusi yang disarankan Sena adalah membatasi truk dan kendaraan berat masuk ke kawasan wisata dan pusat kota di jam-jam tertentu. Dia ngegas, buat nerapin ini, perlu nambah banyak tempat parkir di sekitar kawasan wisata dan pusat kota.
 
@@ -50,7 +50,7 @@ Usulan Sena buat membatasi truk masuk ke kawasan wisata dan pusat kota dianggap 
 
 Pembatasan truk masuk ke titik bongkar muat artinya perusahaan logistik harus evaluasi ulang model operasional mereka. Ini juga butuh penegakan aturan yang lebih ketat dan penambahan polisi lalu lintas di titik-titik strategis.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a35f57a89825f613d0c5e8be9aa9d99d.jpg)
+![Musim Hujan Tiba, Peringatan Bahwa Lalu Lintas Bali Bakal Ma](https://images.gobaligo.id/vocus/vocus_a35f57a89825f613d0c5e8be9aa9d99d.jpg)
 
 Seiring makin ramainya diskusi soal macet di Bali, turis perlu tahu kalau polisi lalu lintas udah mulai ngadain razia dadakan di kawasan wisata utama. Tujuannya buat ngecek kelayakan kendaraan, kelengkapan surat, asuransi, dan SIM.
 

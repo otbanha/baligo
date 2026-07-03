@@ -19,7 +19,7 @@ lang: en
 _srcHash: 4f48c2b7b2dd28cf56e07984838cc87b
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7c237f65b50ad4d7ef93af48af7f45b0.jpg)
+![Bali Kuta Surfing Recommendation for Beginners Xiao Jie's Fi](https://images.gobaligo.id/vocus/vocus_7c237f65b50ad4d7ef93af48af7f45b0.jpg)
 
 First Attempt at Surfing in Bali's Kuta: A Journey of Adventure and Growth
 

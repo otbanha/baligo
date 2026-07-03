@@ -64,7 +64,7 @@ _srcHash: 55158278133d541f21c1444b8044255f
 
 ## 💡 想省更多？旅游达人的 2 个进阶省钱大招
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780475662097-784822114470339384.png)
+![想省更多？旅游达人的 2 个进阶省钱大招](https://images.gobaligo.id/images/2026-06/1780475662097-784822114470339384.png)
 
 {{block:klook}}
 

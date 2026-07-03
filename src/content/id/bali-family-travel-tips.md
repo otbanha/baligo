@@ -19,7 +19,7 @@ lang: id
 _srcHash: 7fa947adf33727addbea3f57bc91b390
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1b5b22fcfc2865b59258bb6b654c3539.jpg)
+![【Panduan Liburan Keluarga ke Bali】20 Hal Penting yang Perlu ](https://images.gobaligo.id/vocus/vocus_1b5b22fcfc2865b59258bb6b654c3539.jpg)
 
 Bali adalah destinasi liburan favorit banyak orang, sekaligus tujuan populer untuk liburan keluarga. Di sini ada pemandangan alam yang kaya, pengalaman budaya yang beragam, dan aktivitas air yang seru — cocok banget buat jalan-jalan bareng si kecil.
 
@@ -27,7 +27,7 @@ Berikut ini 20 hal penting yang perlu diperhatikan saat liburan keluarga ke Bali
 
 ## **Persiapan Sebelum Berangkat**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_77d2a3cab5d6865647f5e4179987a87c.jpg)
+![Persiapan Sebelum Berangkat](https://images.gobaligo.id/vocus/vocus_77d2a3cab5d6865647f5e4179987a87c.jpg)
 
 ### Visa / e-Deklarasi / Bayar Pajak Wisatawan:
 
@@ -95,7 +95,7 @@ Bali itu daerah tropis, jadi nyamuknya banyak banget, apalagi pas musim hujan. B
 
 ## Rencana Perjalanan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_feef5165b467326e7a089f07de002636.png)
+![Rencana Perjalanan](https://images.gobaligo.id/vocus/vocus_feef5165b467326e7a089f07de002636.png)
 
 ### Penjemputan di Bandara:
 
@@ -144,7 +144,7 @@ Untuk rekomendasi resort ramah anak, aktivitas yang cocok buat anak-anak, tempat
 
 ## **Keamanan Wisata**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_544de9041650a95c389aa81a7ae9a10a.png)
+![Keamanan Wisata](https://images.gobaligo.id/vocus/vocus_544de9041650a95c389aa81a7ae9a10a.png)
 
 ### Makanan & Minuman:
 

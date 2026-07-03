@@ -26,13 +26,13 @@ _srcHash: f72c5b36d4f81057db2f8f3868729dff
 
 ## **Exploring THK Tower: The Birth of Bali's New Landmark**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c6a9c9f0eef73b9a215285f2924a4531.png)
+![Exploring THK Tower: The Birth of Bali's New Landmark](https://images.gobaligo.id/vocus/vocus_c6a9c9f0eef73b9a215285f2924a4531.png)
 
 Located in Nuanu Creative City, Bali, **THK Tower** is a masterpiece that blends architectural art, environmental sustainability, and cultural philosophy, officially opening in **summer 2024**. This tower not only showcases the pinnacle of architectural craftsmanship but also reflects a deep concern for the natural environment.
 
 The core of **THK Tower**'s design revolves around **sustainability**, with its main structure made from **recycled colonial-era ironwood**, which was once part of abandoned bridges and now given new life through exquisite craftsmanship. Additionally, the tower incorporates **projection mapping and lighting technology**, transforming the entire building into a visual art sanctuary at night, offering visitors a unique immersive experience.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_21b400a3f00c129a42c8909bfbf9d30c.png)
+![Exploring THK Tower: The Birth of Bali's New Landmark](https://images.gobaligo.id/vocus/vocus_21b400a3f00c129a42c8909bfbf9d30c.png)
 
 ---
 
@@ -40,7 +40,7 @@ The core of **THK Tower**'s design revolves around **sustainability**, with its 
 
 Starting in **summer 2024**, visitors can purchase tickets to access the two observation decks inside **THK Tower**, offering breathtaking views of Bali's stunning landscapes. Whether gazing at the **azure ocean, Denpasar cityscape, or the rice fields and traditional houses in Canggu**, visitors can experience the perfect blend of nature and urban life.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_80ab77a2c118037eaabb2e4bbb46893e.png)
+![360-Degree Panoramic Experience: Overlooking Bali's Beauty f](https://images.gobaligo.id/vocus/vocus_80ab77a2c118037eaabb2e4bbb46893e.png)
 
 Moreover, visitors can enjoy a glass of champagne on the rooftop terrace or book a table at **Luna Restaurant**, savoring unforgettable culinary experiences while enjoying daily performances.
 
@@ -48,7 +48,7 @@ Moreover, visitors can enjoy a glass of champagne on the rooftop terrace or book
 
 ## **THK Tower's Design Philosophy: Merging Traditional Philosophy with Sustainable Architecture**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3c24a1e7899bde8d053edf99721bfa72.png)
+![THK Tower's Design Philosophy: Merging Traditional Philosoph](https://images.gobaligo.id/vocus/vocus_3c24a1e7899bde8d053edf99721bfa72.png)
 
 The name **THK** is derived from Bali's traditional philosophy **"Tri Hita Karana"**, meaning **the harmonious relationship between humans, nature, and the divine**. This **25-meter-high** tower is a model of **eco-parametric and circular architecture**, demonstrating how innovative design can breathe new life into recycled materials.
 
@@ -68,7 +68,7 @@ Inside THK Tower, the staircase features a **double helix design**, inspired by 
 
 ## **THK Tower: A Modern Temple Blending Technology, Art, and Spirituality**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7ee045f57c0c24aa22c9ca43e27cce5c.png)
+![THK Tower: A Modern Temple Blending Technology, Art, and Spi](https://images.gobaligo.id/vocus/vocus_7ee045f57c0c24aa22c9ca43e27cce5c.png)
 
 THK Tower is more than just an architectural marvel; it resembles a **secular temple** rooted in ancient wisdom, inviting people to participate in various special rituals, such as:
 
@@ -84,7 +84,7 @@ This tower provides a space for **reflection, connection, and spiritual elevatio
 
 ## **Light Art: Night Projections and Multimedia Performances**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_24dcb7858cc45469fe47109beeb15ca7.png)
+![Light Art: Night Projections and Multimedia Performances](https://images.gobaligo.id/vocus/vocus_24dcb7858cc45469fe47109beeb15ca7.png)
 
 At night, **THK Tower** transforms into a canvas for artistic creation. A **11-minute light and sound spectacle**, designed by French architect **Arthur Mamou-Mani** and multimedia team **Delivered**, will be showcased **every evening at 6:40 PM**.
 
@@ -114,7 +114,7 @@ When this tower officially opens, it will become one of Bali's most iconic landm
 
 ## More Attractions in Nuanu Creative City
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac58a14caf80a483b2e5a15fec707ec5.jpg)
+![More Attractions in Nuanu Creative City](https://images.gobaligo.id/vocus/vocus_ac58a14caf80a483b2e5a15fec707ec5.jpg)
 
 Nuanu Creative City is Bali's latest emerging creative hub, promoting zero carbon emissions and becoming the island's newest sustainable tourism landmark. It's already attracting global creatives as the next must-visit hotspot!
 

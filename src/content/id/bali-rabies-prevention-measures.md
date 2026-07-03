@@ -40,7 +40,7 @@ Wisatawan yang datang ke Bali atau pemilik hewan peliharaan setempat harus memat
 
 Di tempat-tempat seperti Monkey Forest Ubud atau Pura Uluwatu, wisatawan sering berinteraksi dengan monyet. Namun, hewan liar ini juga bisa membawa virus rabies, jadi disarankan untuk tidak memberi makan, menyentuh, atau mendekati mereka. Menjaga jarak dengan hewan adalah langkah penting untuk mencegah penyebaran penyakit.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7ecdb7478b9ea22d445e3af5411b84df.jpg)
+![Monyet Juga Bisa Menjadi Vektor Virus](https://images.gobaligo.id/vocus/vocus_7ecdb7478b9ea22d445e3af5411b84df.jpg)
 
 ## **Berkat usaha para ahli, Bali tetap menjadi surga wisata yang aman**
 

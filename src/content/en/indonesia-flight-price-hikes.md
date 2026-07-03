@@ -35,7 +35,7 @@ lang: en
 _srcHash: c832fa1525f93cc3e670ce578ae54c81
 ---
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775702831699-1000117790.jpg)
+![EVA Air, China Airlines, and STARLUX Airlines All Raise Pric](https://images.gobaligo.id/images/2026-04/1775702831699-1000117790.jpg)
 
 Affected by the surge in international oil prices, the Civil Aeronautics Administration has announced that starting April 7, 2026, the passenger fuel surcharge for some routes (China Airlines, EVA Air, STARLUX Airlines) departing from Taiwan will significantly increase by 157%. This price hike is particularly impactful for travelers planning long-haul flights.
 
@@ -72,7 +72,7 @@ According to the new rate, the fuel surcharge for flights to Bali (regional rout
 
 Facing the rising cost of flights to Bali or Jakarta, travel experts have proposed three strategies to help you save money:
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775702565966-1000117789.jpg)
+![How to cope?](https://images.gobaligo.id/images/2026-04/1775702565966-1000117789.jpg)
 
 ### Strategy 1: Utilize 'Outbound Transits' to Avoid High Direct Flight Prices
 

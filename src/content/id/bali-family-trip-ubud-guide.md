@@ -35,7 +35,7 @@ Klik di sini untuk lihat: [Review Menginap di Aloft Kuta & Beachwalk Shopping Ce
 
 Hari kedua itinerary kami: [GWK Garuda Wisnu Kencana, Klub Pantai Gratis di Uluwatu, Pura Uluwatu, Tari Kecak Uluwatu](/blog/bali-family-trip-aloft-kuta/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_140e60d5b6dd4a29ce14048ecda7379c.jpg)
+![Cerita Sebelumnya](https://images.gobaligo.id/vocus/vocus_140e60d5b6dd4a29ce14048ecda7379c.jpg)
 
 Selanjutnya, petualangan enam hari kami di Ubud dimulai!
 
@@ -54,25 +54,25 @@ Selanjutnya, petualangan enam hari kami di Ubud dimulai!
 - Dewasa: 20.000 IDR (sekitar USD$1)
 - Anak-anak: 10.000 IDR (sekitar USD$0,3)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693570532-298409674_610679783748372_770772631143593741_n.jpg)
+![《Air Terjun Tegenungan Bali》- Kenikmatan Maksimal di Tepi Ai](https://images.gobaligo.id/images/2026-04/1776693570532-298409674_610679783748372_770772631143593741_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693571500-298466714_610681513748199_7898461963983180871_n.jpg)
+![《Air Terjun Tegenungan Bali》- Kenikmatan Maksimal di Tepi Ai](https://images.gobaligo.id/images/2026-04/1776693571500-298466714_610681513748199_7898461963983180871_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693573244-298469685_610683930414624_7528159715781778182_n.jpg)
+![《Air Terjun Tegenungan Bali》- Kenikmatan Maksimal di Tepi Ai](https://images.gobaligo.id/images/2026-04/1776693573244-298469685_610683930414624_7528159715781778182_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693573830-298551228_610680700414947_8408526504992424837_n.jpg)
+![《Air Terjun Tegenungan Bali》- Kenikmatan Maksimal di Tepi Ai](https://images.gobaligo.id/images/2026-04/1776693573830-298551228_610680700414947_8408526504992424837_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693574553-298569083_610689280414089_3487395401663673383_n.jpg)
+![《Air Terjun Tegenungan Bali》- Kenikmatan Maksimal di Tepi Ai](https://images.gobaligo.id/images/2026-04/1776693574553-298569083_610689280414089_3487395401663673383_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693575383-298592970_610683377081346_7163787255856056906_n.jpg)
+![《Air Terjun Tegenungan Bali》- Kenikmatan Maksimal di Tepi Ai](https://images.gobaligo.id/images/2026-04/1776693575383-298592970_610683377081346_7163787255856056906_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693575894-298658925_610689873747363_7869823521869603045_n.jpg)
+![《Air Terjun Tegenungan Bali》- Kenikmatan Maksimal di Tepi Ai](https://images.gobaligo.id/images/2026-04/1776693575894-298658925_610689873747363_7869823521869603045_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693576344-299378817_610681337081550_7349213228993713534_n.jpg)
+![《Air Terjun Tegenungan Bali》- Kenikmatan Maksimal di Tepi Ai](https://images.gobaligo.id/images/2026-04/1776693576344-299378817_610681337081550_7349213228993713534_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693577023-298337106_610682737081410_1596294841377991803_n.jpg)
+![《Air Terjun Tegenungan Bali》- Kenikmatan Maksimal di Tepi Ai](https://images.gobaligo.id/images/2026-04/1776693577023-298337106_610682737081410_1596294841377991803_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693577500-298364797_610679527081731_1875804861559435486_n.jpg)
+![《Air Terjun Tegenungan Bali》- Kenikmatan Maksimal di Tepi Ai](https://images.gobaligo.id/images/2026-04/1776693577500-298364797_610679527081731_1875804861559435486_n.jpg)
 
 🏞️ **Kenapa Pilih *Omma Bali*?**
 
@@ -99,25 +99,25 @@ Dari *Omma Bali* jalan kaki ke air terjun cuma 2-3 menit, gampang banget. Kalau 
 
 Kalau kamu lagi di Ubud dan nyari tempat buat nikmatin makanan khas Bali yang klasik, tapi pengin jauh dari keramaian, *Laka Leke Restaurant* ini pilihan yang pas banget. Dari luar keliatannya low profile, tapi di dalemnya ada taman Bali yang luas, suasana makannya nyaman, dan bebek kriuk andalannya bikin ngiler.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693671363-298772165_612239383592412_8414755404080700716_n.jpg)
+![Restoran Taman Bali Nikmati Bebek Kriuk Laka Leke Restaurant](https://images.gobaligo.id/images/2026-04/1776693671363-298772165_612239383592412_8414755404080700716_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693672016-298792929_612241276925556_3957545974746085207_n.jpg)
+![Restoran Taman Bali Nikmati Bebek Kriuk Laka Leke Restaurant](https://images.gobaligo.id/images/2026-04/1776693672016-298792929_612241276925556_3957545974746085207_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693672527-298804542_612242166925467_1513263831116796676_n.jpg)
+![Restoran Taman Bali Nikmati Bebek Kriuk Laka Leke Restaurant](https://images.gobaligo.id/images/2026-04/1776693672527-298804542_612242166925467_1513263831116796676_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693673224-298829990_612243600258657_5366604930682570320_n.jpg)
+![Restoran Taman Bali Nikmati Bebek Kriuk Laka Leke Restaurant](https://images.gobaligo.id/images/2026-04/1776693673224-298829990_612243600258657_5366604930682570320_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693673713-298882339_612240546925629_1658659311711894139_n.jpg)
+![Restoran Taman Bali Nikmati Bebek Kriuk Laka Leke Restaurant](https://images.gobaligo.id/images/2026-04/1776693673713-298882339_612240546925629_1658659311711894139_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693674380-299388147_612239763592374_7520404600727849996_n.jpg)
+![Restoran Taman Bali Nikmati Bebek Kriuk Laka Leke Restaurant](https://images.gobaligo.id/images/2026-04/1776693674380-299388147_612239763592374_7520404600727849996_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693674895-299433907_612239506925733_4468380037143605256_n.jpg)
+![Restoran Taman Bali Nikmati Bebek Kriuk Laka Leke Restaurant](https://images.gobaligo.id/images/2026-04/1776693674895-299433907_612239506925733_4468380037143605256_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693675522-299499952_612239860259031_3561932945402829927_n.jpg)
+![Restoran Taman Bali Nikmati Bebek Kriuk Laka Leke Restaurant](https://images.gobaligo.id/images/2026-04/1776693675522-299499952_612239860259031_3561932945402829927_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693676017-299640655_612240916925592_1141177874997377301_n.jpg)
+![Restoran Taman Bali Nikmati Bebek Kriuk Laka Leke Restaurant](https://images.gobaligo.id/images/2026-04/1776693676017-299640655_612240916925592_1141177874997377301_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693676630-299656022_612239943592356_6524207959937672702_n.jpg)
+![Restoran Taman Bali Nikmati Bebek Kriuk Laka Leke Restaurant](https://images.gobaligo.id/images/2026-04/1776693676630-299656022_612239943592356_6524207959937672702_n.jpg)
 
 Restoran taman ini dekat sama tempat nginep kita **"Bali Bohemia Huts"**, jalan kaki sekitar 100 meter aja. Kalau kebetulan habis dari Monkey Forest, bisa lewat Gate 3, gampang banget dijangkau.
 
@@ -174,25 +174,25 @@ Menginap di 《Bali Bohemia Huts》 yang ada di pinggir pusat Ubud, kamu bisa ni
 
 **Sorotan 《Bali Bohemia Huts》：**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693746795-298922978_611495897000094_6257530579137944156_n.jpg)
+![Rekomendasi Menginap Hari Ketiga: 《Bali Bohemia Huts》——Surga](https://images.gobaligo.id/images/2026-04/1776693746795-298922978_611495897000094_6257530579137944156_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693747373-298968227_611496143666736_2739100666829317753_n.jpg)
+![Rekomendasi Menginap Hari Ketiga: 《Bali Bohemia Huts》——Surga](https://images.gobaligo.id/images/2026-04/1776693747373-298968227_611496143666736_2739100666829317753_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693747891-299128291_611505590332458_100813833765255129_n.jpg)
+![Rekomendasi Menginap Hari Ketiga: 《Bali Bohemia Huts》——Surga](https://images.gobaligo.id/images/2026-04/1776693747891-299128291_611505590332458_100813833765255129_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693748612-299314411_611499983666352_1383895072959400252_n.jpg)
+![Rekomendasi Menginap Hari Ketiga: 《Bali Bohemia Huts》——Surga](https://images.gobaligo.id/images/2026-04/1776693748612-299314411_611499983666352_1383895072959400252_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693749208-281873117_611496600333357_8815108657136949564_n.jpg)
+![Rekomendasi Menginap Hari Ketiga: 《Bali Bohemia Huts》——Surga](https://images.gobaligo.id/images/2026-04/1776693749208-281873117_611496600333357_8815108657136949564_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693749734-298464643_611499226999761_1965089404799819452_n.jpg)
+![Rekomendasi Menginap Hari Ketiga: 《Bali Bohemia Huts》——Surga](https://images.gobaligo.id/images/2026-04/1776693749734-298464643_611499226999761_1965089404799819452_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693750455-298499798_611506380332379_98591576675706401_n.jpg)
+![Rekomendasi Menginap Hari Ketiga: 《Bali Bohemia Huts》——Surga](https://images.gobaligo.id/images/2026-04/1776693750455-298499798_611506380332379_98591576675706401_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693751133-298506084_611496817000002_793204294060786972_n.jpg)
+![Rekomendasi Menginap Hari Ketiga: 《Bali Bohemia Huts》——Surga](https://images.gobaligo.id/images/2026-04/1776693751133-298506084_611496817000002_793204294060786972_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693751757-298579058_611498196999864_3203167567934231096_n.jpg)
+![Rekomendasi Menginap Hari Ketiga: 《Bali Bohemia Huts》——Surga](https://images.gobaligo.id/images/2026-04/1776693751757-298579058_611498196999864_3203167567934231096_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693752326-298840732_611499150333102_4838958671659319336_n.jpg)
+![Rekomendasi Menginap Hari Ketiga: 《Bali Bohemia Huts》——Surga](https://images.gobaligo.id/images/2026-04/1776693752326-298840732_611499150333102_4838958671659319336_n.jpg)
 
 - 🛏 **Rekomendasi Tipe Kamar:** Deluxe Mezzanine Room with Balcony.
 - 💵 **Harga:** 690.000 IDR per malam (sekitar USD$45), belum termasuk sarapan.
@@ -247,25 +247,25 @@ Dekat kawasan wisata ada kafe dengan rating Google 4.8 bintang, cocok banget bua
 - Dewasa: 80,000 IDR (sekitar USD$5)
 - Anak-anak: 60,000 IDR (sekitar USD$4)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693804409-298700981_611944463621904_5418019092753314827_n.jpg)
+![《Bali / Ubud》- Seru-seruan Selfie Bareng Monyet di《Sacred Mo](https://images.gobaligo.id/images/2026-04/1776693804409-298700981_611944463621904_5418019092753314827_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693804853-298737387_611945983621752_4847325920082816575_n.jpg)
+![《Bali / Ubud》- Seru-seruan Selfie Bareng Monyet di《Sacred Mo](https://images.gobaligo.id/images/2026-04/1776693804853-298737387_611945983621752_4847325920082816575_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693805726-298782778_611948063621544_3050516091272709705_n.jpg)
+![《Bali / Ubud》- Seru-seruan Selfie Bareng Monyet di《Sacred Mo](https://images.gobaligo.id/images/2026-04/1776693805726-298782778_611948063621544_3050516091272709705_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693806613-298792263_611946696955014_3720622060863094414_n.jpg)
+![《Bali / Ubud》- Seru-seruan Selfie Bareng Monyet di《Sacred Mo](https://images.gobaligo.id/images/2026-04/1776693806613-298792263_611946696955014_3720622060863094414_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693807122-299225901_611948793621471_7524421782699110086_n.jpg)
+![《Bali / Ubud》- Seru-seruan Selfie Bareng Monyet di《Sacred Mo](https://images.gobaligo.id/images/2026-04/1776693807122-299225901_611948793621471_7524421782699110086_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693807661-299227060_611944860288531_7318793230923838232_n.jpg)
+![《Bali / Ubud》- Seru-seruan Selfie Bareng Monyet di《Sacred Mo](https://images.gobaligo.id/images/2026-04/1776693807661-299227060_611944860288531_7318793230923838232_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693808165-299773187_611946933621657_5760565662090985760_n.jpg)
+![《Bali / Ubud》- Seru-seruan Selfie Bareng Monyet di《Sacred Mo](https://images.gobaligo.id/images/2026-04/1776693808165-299773187_611946933621657_5760565662090985760_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693808674-299845158_611946593621691_2524178553229215355_n.jpg)
+![《Bali / Ubud》- Seru-seruan Selfie Bareng Monyet di《Sacred Mo](https://images.gobaligo.id/images/2026-04/1776693808674-299845158_611946593621691_2524178553229215355_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693809314-298455125_611948280288189_5297093307358757399_n.jpg)
+![《Bali / Ubud》- Seru-seruan Selfie Bareng Monyet di《Sacred Mo](https://images.gobaligo.id/images/2026-04/1776693809314-298455125_611948280288189_5297093307358757399_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693809800-298559853_611948730288144_1072167431885588765_n.jpg)
+![《Bali / Ubud》- Seru-seruan Selfie Bareng Monyet di《Sacred Mo](https://images.gobaligo.id/images/2026-04/1776693809800-298559853_611948730288144_1072167431885588765_n.jpg)
 
 ❗**Catatan Penting**: Setelah masuk, kamu bisa ambil peta panduan kertas dalam berbagai bahasa (termasuk Mandarin). Jalan kaki keliling area butuh waktu sekitar 30-60 menit. Pagi hari lebih sepi, monyetnya banyak banget, cocok banget buat dikunjungi pas subuh.
 
@@ -294,25 +294,25 @@ Staf di sini menyediakan jasa foto dengan monyet yang profesional. Kamu perlu be
 
 Terasering Telaga Waja adalah salah satu spot wajib di sekitar Ubud. Pemandangan sawah bertingkat yang megah dan serunya main ayunan jadi favorit banyak turis. Tapi sayangnya, karena udah terlalu komersial, perjalanan ke sini kadang terasa kayak 'ATM berjalan'. 💸
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694045486-298573484_612851943531156_8450296040605444790_n.jpg)
+![《TIS Cafe》Terasering Telaga Waja——Rekomendasi Kafe dengan Pe](https://images.gobaligo.id/images/2026-04/1776694045486-298573484_612851943531156_8450296040605444790_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694045972-298800839_612852523531098_418390666301448920_n.jpg)
+![《TIS Cafe》Terasering Telaga Waja——Rekomendasi Kafe dengan Pe](https://images.gobaligo.id/images/2026-04/1776694045972-298800839_612852523531098_418390666301448920_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694046392-298834277_612851013531249_7503329601076938841_n.jpg)
+![《TIS Cafe》Terasering Telaga Waja——Rekomendasi Kafe dengan Pe](https://images.gobaligo.id/images/2026-04/1776694046392-298834277_612851013531249_7503329601076938841_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694046962-299113124_612852660197751_6778116690130998629_n.jpg)
+![《TIS Cafe》Terasering Telaga Waja——Rekomendasi Kafe dengan Pe](https://images.gobaligo.id/images/2026-04/1776694046962-299113124_612852660197751_6778116690130998629_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694047500-299186741_612851663531184_858663631789018478_n.jpg)
+![《TIS Cafe》Terasering Telaga Waja——Rekomendasi Kafe dengan Pe](https://images.gobaligo.id/images/2026-04/1776694047500-299186741_612851663531184_858663631789018478_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694048503-299192649_612852763531074_2594938254209481272_n.jpg)
+![《TIS Cafe》Terasering Telaga Waja——Rekomendasi Kafe dengan Pe](https://images.gobaligo.id/images/2026-04/1776694048503-299192649_612852763531074_2594938254209481272_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694049114-299205954_612850860197931_542398085133298504_n.jpg)
+![《TIS Cafe》Terasering Telaga Waja——Rekomendasi Kafe dengan Pe](https://images.gobaligo.id/images/2026-04/1776694049114-299205954_612850860197931_542398085133298504_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694049637-299227692_612854733530877_7978746944314107963_n.jpg)
+![《TIS Cafe》Terasering Telaga Waja——Rekomendasi Kafe dengan Pe](https://images.gobaligo.id/images/2026-04/1776694049637-299227692_612854733530877_7978746944314107963_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694050120-299648984_612854496864234_8285550564923168923_n.jpg)
+![《TIS Cafe》Terasering Telaga Waja——Rekomendasi Kafe dengan Pe](https://images.gobaligo.id/images/2026-04/1776694050120-299648984_612854496864234_8285550564923168923_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694050668-299653259_612851480197869_2183461741274349301_n.jpg)
+![《TIS Cafe》Terasering Telaga Waja——Rekomendasi Kafe dengan Pe](https://images.gobaligo.id/images/2026-04/1776694050668-299653259_612851480197869_2183461741274349301_n.jpg)
 
 **Biaya masuk terasering:**
 
@@ -340,25 +340,25 @@ Biar nggak kena jebakan biaya kayak gitu, mending pilih 《TIS Cafe》 yang temp
 
 Mau cobain rasa asli Bali? Cuma 200 meter dari tempat nginep kita, 《Van Sheva Waroeng》 bukan cuma murah dan enak, tapi juga bikin kamu makan di tengah pemandangan sawah yang luas, kayak lagi jadi bagian dari keseharian warga lokal.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694109439-298799470_614174913398859_4711273031592294543_n.jpg)
+![Restoran Lokal 《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694109439-298799470_614174913398859_4711273031592294543_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694109933-298901598_614181176731566_6950555660574229939_n.jpg)
+![Restoran Lokal 《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694109933-298901598_614181176731566_6950555660574229939_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694110449-298941720_614175320065485_7759447038606656624_n.jpg)
+![Restoran Lokal 《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694110449-298941720_614175320065485_7759447038606656624_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694111139-299022092_614178613398489_1204980298350778325_n.jpg)
+![Restoran Lokal 《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694111139-299022092_614178613398489_1204980298350778325_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694111986-299180116_614177266731957_8554461242264541238_n.jpg)
+![Restoran Lokal 《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694111986-299180116_614177266731957_8554461242264541238_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694112418-299285311_614176136732070_8380135901636744583_n.jpg)
+![Restoran Lokal 《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694112418-299285311_614176136732070_8380135901636744583_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694113316-299749626_614178263398524_6922114563024238311_n.jpg)
+![Restoran Lokal 《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694113316-299749626_614178263398524_6922114563024238311_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694113721-299830611_614177750065242_9127736943337638719_n.jpg)
+![Restoran Lokal 《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694113721-299830611_614177750065242_9127736943337638719_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694114232-300227801_614176036732080_6571049487561721469_n.jpg)
+![Restoran Lokal 《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694114232-300227801_614176036732080_6571049487561721469_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694114765-300383176_614183043398046_540984758012209425_n.jpg)
+![Restoran Lokal 《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694114765-300383176_614183043398046_540984758012209425_n.jpg)
 
 **🍴Keunggulan Restoran**
 
@@ -387,25 +387,25 @@ Mau cobain rasa asli Bali? Cuma 200 meter dari tempat nginep kita, 《Van Sheva 
 
 Mau kabur dari hiruk-pikuk dan tenggelam dalam keindahan sawah bertingkat yang tenang? 《Madani Antique Private Pool Villas》 bakal jadi pilihan menginap impianmu! 🌿 Terletak di tanah hijau subur Ubud, villa dengan kolam renang pribadi ini bukan cuma harganya bersahabat, tapi juga bikin kamu benar-benar rileks dan menikmati liburan tanpa gangguan.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694182686-299919089_613473876802296_550726569359159188_n.jpg)
+![《Rekomendasi Menginap Hari Keempat 》 - Tinggal Bersebelahan ](https://images.gobaligo.id/images/2026-04/1776694182686-299919089_613473876802296_550726569359159188_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694183201-299979813_613476100135407_5910226216559192556_n.jpg)
+![《Rekomendasi Menginap Hari Keempat 》 - Tinggal Bersebelahan ](https://images.gobaligo.id/images/2026-04/1776694183201-299979813_613476100135407_5910226216559192556_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694183633-300178987_613474500135567_3677038454085746071_n.jpg)
+![《Rekomendasi Menginap Hari Keempat 》 - Tinggal Bersebelahan ](https://images.gobaligo.id/images/2026-04/1776694183633-300178987_613474500135567_3677038454085746071_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694184081-298713776_613475446802139_7461691179114101755_n.jpg)
+![《Rekomendasi Menginap Hari Keempat 》 - Tinggal Bersebelahan ](https://images.gobaligo.id/images/2026-04/1776694184081-298713776_613475446802139_7461691179114101755_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694184799-298903549_613475683468782_8381132211306348889_n.jpg)
+![《Rekomendasi Menginap Hari Keempat 》 - Tinggal Bersebelahan ](https://images.gobaligo.id/images/2026-04/1776694184799-298903549_613475683468782_8381132211306348889_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694185410-299232105_613475926802091_1895451882487329617_n.jpg)
+![《Rekomendasi Menginap Hari Keempat 》 - Tinggal Bersebelahan ](https://images.gobaligo.id/images/2026-04/1776694185410-299232105_613475926802091_1895451882487329617_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694185813-299431433_613474003468950_7474909395290689596_n.jpg)
+![《Rekomendasi Menginap Hari Keempat 》 - Tinggal Bersebelahan ](https://images.gobaligo.id/images/2026-04/1776694185813-299431433_613474003468950_7474909395290689596_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694186335-299476140_613475763468774_8623014861845919889_n.jpg)
+![《Rekomendasi Menginap Hari Keempat 》 - Tinggal Bersebelahan ](https://images.gobaligo.id/images/2026-04/1776694186335-299476140_613475763468774_8623014861845919889_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694186781-299797472_613476220135395_1497085115134404690_n.jpg)
+![《Rekomendasi Menginap Hari Keempat 》 - Tinggal Bersebelahan ](https://images.gobaligo.id/images/2026-04/1776694186781-299797472_613476220135395_1497085115134404690_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694187150-299911692_613473756802308_4297417417021388540_n.jpg)
+![《Rekomendasi Menginap Hari Keempat 》 - Tinggal Bersebelahan ](https://images.gobaligo.id/images/2026-04/1776694187150-299911692_613473756802308_4297417417021388540_n.jpg)
 
 **💰 Harga yang bikin kaget**
 
@@ -454,25 +454,25 @@ Waktu check-in, kami pilih tipe kamar **Antique 907**, dengan bale santai yang m
 
 Di hari kelima, kami mampir ke **Pura Tirta Empul**, pura yang terkenal dengan mata air sucinya. Tempat ini jadi simbol penting agama dan budaya Bali. Begitu lewat jalan kecil di antara pohon kelapa yang hijau, langsung terlihat bangunan batu kuno dan air jernih yang mengalir—serasa melangkah ke lorong waktu. Mata air suci di sini dipercaya warga lokal sebagai tempat penyucian jiwa, dan selama ratusan tahun udah menarik banyak umat buat berdoa dan mandi spiritual.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694240116-300376254_615096553306695_8235781790348974718_n.jpg)
+![Pura Tirta Empul – Pengalaman Suci Mandi Spiritual](https://images.gobaligo.id/images/2026-04/1776694240116-300376254_615096553306695_8235781790348974718_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694240659-298712171_615097003306650_293407296346854978_n.jpg)
+![Pura Tirta Empul – Pengalaman Suci Mandi Spiritual](https://images.gobaligo.id/images/2026-04/1776694240659-298712171_615097003306650_293407296346854978_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694241230-299131431_615109809972036_3491652424924123135_n.jpg)
+![Pura Tirta Empul – Pengalaman Suci Mandi Spiritual](https://images.gobaligo.id/images/2026-04/1776694241230-299131431_615109809972036_3491652424924123135_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694242247-299361201_615107823305568_8132110176294030885_n.jpg)
+![Pura Tirta Empul – Pengalaman Suci Mandi Spiritual](https://images.gobaligo.id/images/2026-04/1776694242247-299361201_615107823305568_8132110176294030885_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694242751-299515065_615103799972637_8475934531424892759_n.jpg)
+![Pura Tirta Empul – Pengalaman Suci Mandi Spiritual](https://images.gobaligo.id/images/2026-04/1776694242751-299515065_615103799972637_8475934531424892759_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694243285-299605725_615109423305408_5897222957469574299_n.jpg)
+![Pura Tirta Empul – Pengalaman Suci Mandi Spiritual](https://images.gobaligo.id/images/2026-04/1776694243285-299605725_615109423305408_5897222957469574299_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694243786-299656987_615100476639636_7692365840215572231_n.jpg)
+![Pura Tirta Empul – Pengalaman Suci Mandi Spiritual](https://images.gobaligo.id/images/2026-04/1776694243786-299656987_615100476639636_7692365840215572231_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694244261-299934557_615098733306477_1348279925454512382_n.jpg)
+![Pura Tirta Empul – Pengalaman Suci Mandi Spiritual](https://images.gobaligo.id/images/2026-04/1776694244261-299934557_615098733306477_1348279925454512382_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694244681-300040601_615104863305864_2150140291621995919_n.jpg)
+![Pura Tirta Empul – Pengalaman Suci Mandi Spiritual](https://images.gobaligo.id/images/2026-04/1776694244681-300040601_615104863305864_2150140291621995919_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694245545-300351188_615109116638772_3636812258707032200_n.jpg)
+![Pura Tirta Empul – Pengalaman Suci Mandi Spiritual](https://images.gobaligo.id/images/2026-04/1776694245545-300351188_615109116638772_3636812258707032200_n.jpg)
 
 **Sekilas Pura Tirta Empul: Mata Air Suci dan Kepercayaan Kuno**
 
@@ -533,25 +533,25 @@ Pura Tirta Empul bukan cuma tempat foto-foto di Bali, tapi juga tempat spiritual
 
 Selama perjalanan di Ubud, kami memulai petualangan mencari **Kopi Luwak** — kopi yang dijuluki paling mahal di dunia. Proses pembuatannya yang unik dan rasanya yang khas bikin pengalaman ini jadi salah satu hal yang wajib dicoba pas liburan ke Bali. Kali ini kami memilih mampir ke **Satria Agrowisata** di Bali, biar bisa lihat langsung gimana kopi legendaris ini dibuat.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694308230-299973082_615597813256569_7604480419000190401_n.jpg)
+![Petualangan Kopi Termahal di Dunia: Cicipi Kopi Luwak Pertam](https://images.gobaligo.id/images/2026-04/1776694308230-299973082_615597813256569_7604480419000190401_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694308676-299999152_615597926589891_8715494880908041300_n.jpg)
+![Petualangan Kopi Termahal di Dunia: Cicipi Kopi Luwak Pertam](https://images.gobaligo.id/images/2026-04/1776694308676-299999152_615597926589891_8715494880908041300_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694309225-300000397_615599653256385_181409469064050088_n.jpg)
+![Petualangan Kopi Termahal di Dunia: Cicipi Kopi Luwak Pertam](https://images.gobaligo.id/images/2026-04/1776694309225-300000397_615599653256385_181409469064050088_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694309917-300403995_615600266589657_8278194637292763456_n.jpg)
+![Petualangan Kopi Termahal di Dunia: Cicipi Kopi Luwak Pertam](https://images.gobaligo.id/images/2026-04/1776694309917-300403995_615600266589657_8278194637292763456_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694310404-298915325_615598443256506_4540067509624814521_n.jpg)
+![Petualangan Kopi Termahal di Dunia: Cicipi Kopi Luwak Pertam](https://images.gobaligo.id/images/2026-04/1776694310404-298915325_615598443256506_4540067509624814521_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694311066-299209003_615600023256348_8935762400555371634_n.jpg)
+![Petualangan Kopi Termahal di Dunia: Cicipi Kopi Luwak Pertam](https://images.gobaligo.id/images/2026-04/1776694311066-299209003_615600023256348_8935762400555371634_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694311565-299325084_615597649923252_62809578602749830_n.jpg)
+![Petualangan Kopi Termahal di Dunia: Cicipi Kopi Luwak Pertam](https://images.gobaligo.id/images/2026-04/1776694311565-299325084_615597649923252_62809578602749830_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694312097-299332022_615598756589808_3272871798566592782_n.jpg)
+![Petualangan Kopi Termahal di Dunia: Cicipi Kopi Luwak Pertam](https://images.gobaligo.id/images/2026-04/1776694312097-299332022_615598756589808_3272871798566592782_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694312490-299796971_615600686589615_963286020100953945_n.jpg)
+![Petualangan Kopi Termahal di Dunia: Cicipi Kopi Luwak Pertam](https://images.gobaligo.id/images/2026-04/1776694312490-299796971_615600686589615_963286020100953945_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694312920-299817931_615599046589779_3352458998028699330_n.jpg)
+![Petualangan Kopi Termahal di Dunia: Cicipi Kopi Luwak Pertam](https://images.gobaligo.id/images/2026-04/1776694312920-299817931_615599046589779_3352458998028699330_n.jpg)
 
 **Cerita di Balik Kopi Luwak**
 
@@ -595,25 +595,25 @@ Berhenti sejenak di perjalanan buat menikmati secangkir kopi luwak — walaupun 
 
 ✖️ Kami skip dua tempat pemandian air panas populer, dan milih penginapan kecil yang super cozy — **The Lava Bali and Hot Spring**, cuma punya **4 kamar**. Suasananya simpel, santai, dan bikin pengen berlama-lama di sini 💕.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694374540-301009583_616145276535156_903526056195682687_n.jpg)
+![Hari Kelima Menginap: Penginapan Onsen dengan Hanya 4 Kamar ](https://images.gobaligo.id/images/2026-04/1776694374540-301009583_616145276535156_903526056195682687_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694375267-298964368_616144553201895_6489802884394116528_n.jpg)
+![Hari Kelima Menginap: Penginapan Onsen dengan Hanya 4 Kamar ](https://images.gobaligo.id/images/2026-04/1776694375267-298964368_616144553201895_6489802884394116528_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694375773-299189946_616149196534764_1707237124414032289_n.jpg)
+![Hari Kelima Menginap: Penginapan Onsen dengan Hanya 4 Kamar ](https://images.gobaligo.id/images/2026-04/1776694375773-299189946_616149196534764_1707237124414032289_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694376272-299280393_616145689868448_7688654860185979011_n.jpg)
+![Hari Kelima Menginap: Penginapan Onsen dengan Hanya 4 Kamar ](https://images.gobaligo.id/images/2026-04/1776694376272-299280393_616145689868448_7688654860185979011_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694376674-299322760_616147379868279_4254900227975664257_n.jpg)
+![Hari Kelima Menginap: Penginapan Onsen dengan Hanya 4 Kamar ](https://images.gobaligo.id/images/2026-04/1776694376674-299322760_616147379868279_4254900227975664257_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694377792-299350981_616145936535090_1346566671302373722_n.jpg)
+![Hari Kelima Menginap: Penginapan Onsen dengan Hanya 4 Kamar ](https://images.gobaligo.id/images/2026-04/1776694377792-299350981_616145936535090_1346566671302373722_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694378335-299355239_616147139868303_4775568389060300023_n.jpg)
+![Hari Kelima Menginap: Penginapan Onsen dengan Hanya 4 Kamar ](https://images.gobaligo.id/images/2026-04/1776694378335-299355239_616147139868303_4775568389060300023_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694379147-299676687_616145429868474_393160499220795864_n.jpg)
+![Hari Kelima Menginap: Penginapan Onsen dengan Hanya 4 Kamar ](https://images.gobaligo.id/images/2026-04/1776694379147-299676687_616145429868474_393160499220795864_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694379656-300042335_616144156535268_8271483608227273702_n.jpg)
+![Hari Kelima Menginap: Penginapan Onsen dengan Hanya 4 Kamar ](https://images.gobaligo.id/images/2026-04/1776694379656-300042335_616144156535268_8271483608227273702_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694380585-300570958_616147889868228_8824639950336020904_n.jpg)
+![Hari Kelima Menginap: Penginapan Onsen dengan Hanya 4 Kamar ](https://images.gobaligo.id/images/2026-04/1776694380585-300570958_616147889868228_8824639950336020904_n.jpg)
 
 ⬆️ Duduk di depan kamar sambil ngelamun, rasanya langsung chill banget 😊. Naik tangga ke kolam air panas di titik tertinggi penginapan 👣, berendam di air hangat sambil lihat panorama Gunung Batur yang megah — bikin napas tersengal ✨.
 
@@ -673,25 +673,25 @@ Kalau kamu termasuk 'rombongan ibu-ibu, bapak-bapak, atau anak kecil' 🤣, atau
 - Mampir ke pura di tengah danau, *Pura Segara Ulun Danu Batur* 🙏
 - **10:00** Kembali ke tempat menginap 🏡
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694429772-301089915_616587369824280_4014730414452593818_n.jpg)
+![《Petualangan Gunung Berapi di Bali/Kintamani》](https://images.gobaligo.id/images/2026-04/1776694429772-301089915_616587369824280_4014730414452593818_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694430250-299629515_616587563157594_3896555538320708525_n.jpg)
+![《Petualangan Gunung Berapi di Bali/Kintamani》](https://images.gobaligo.id/images/2026-04/1776694430250-299629515_616587563157594_3896555538320708525_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694430683-299653004_616590383157312_4633124295830391867_n.jpg)
+![《Petualangan Gunung Berapi di Bali/Kintamani》](https://images.gobaligo.id/images/2026-04/1776694430683-299653004_616590383157312_4633124295830391867_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694431578-299670436_616589766490707_1810814971220767821_n.jpg)
+![《Petualangan Gunung Berapi di Bali/Kintamani》](https://images.gobaligo.id/images/2026-04/1776694431578-299670436_616589766490707_1810814971220767821_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694432088-300000603_616585446491139_1489457710914450654_n.jpg)
+![《Petualangan Gunung Berapi di Bali/Kintamani》](https://images.gobaligo.id/images/2026-04/1776694432088-300000603_616585446491139_1489457710914450654_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694432592-300213130_616587199824297_5281643465327632742_n.jpg)
+![《Petualangan Gunung Berapi di Bali/Kintamani》](https://images.gobaligo.id/images/2026-04/1776694432592-300213130_616587199824297_5281643465327632742_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694433220-300387192_616591499823867_8292423515973974467_n.jpg)
+![《Petualangan Gunung Berapi di Bali/Kintamani》](https://images.gobaligo.id/images/2026-04/1776694433220-300387192_616591499823867_8292423515973974467_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694433929-300643257_616587073157643_87960158572801316_n.jpg)
+![《Petualangan Gunung Berapi di Bali/Kintamani》](https://images.gobaligo.id/images/2026-04/1776694433929-300643257_616587073157643_87960158572801316_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694434541-300661956_616593816490302_2801018106897816007_n.jpg)
+![《Petualangan Gunung Berapi di Bali/Kintamani》](https://images.gobaligo.id/images/2026-04/1776694434541-300661956_616593816490302_2801018106897816007_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694435060-300794608_616588519824165_8376344951813746036_n.jpg)
+![《Petualangan Gunung Berapi di Bali/Kintamani》](https://images.gobaligo.id/images/2026-04/1776694435060-300794608_616588519824165_8376344951813746036_n.jpg)
 
 🛻 **Highlight Tur Jeep**
 
@@ -704,10 +704,10 @@ Kalau kamu termasuk 'rombongan ibu-ibu, bapak-bapak, atau anak kecil' 🤣, atau
 4. **Kunjungan ke Pura di Tengah Danau:**
    Perhentian terakhir, *Pura Segara Ulun Danu Batur*. Meski nggak setenar Pura Ulun Danu Bratan (Pura Air), tempat ini punya ketenangan yang alami dan bikin hati adem. Masuknya gratis, cukup kasih sumbangan seikhlasnya 🙏.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776695571175-299428228_616592063157144_5757712501947169729_n.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776695571609-299576050_616585723157778_3296485439477737473_n.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776695572016-300657358_616591816490502_7055402599969369536_n.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776695572769-300801494_616591906490493_3344607197251244775_n.jpg)
+![《Petualangan Gunung Berapi di Bali/Kintamani》](https://images.gobaligo.id/images/2026-04/1776695571175-299428228_616592063157144_5757712501947169729_n.jpg)
+![《Petualangan Gunung Berapi di Bali/Kintamani》](https://images.gobaligo.id/images/2026-04/1776695571609-299576050_616585723157778_3296485439477737473_n.jpg)
+![《Petualangan Gunung Berapi di Bali/Kintamani》](https://images.gobaligo.id/images/2026-04/1776695572016-300657358_616591816490502_7055402599969369536_n.jpg)
+![《Petualangan Gunung Berapi di Bali/Kintamani》](https://images.gobaligo.id/images/2026-04/1776695572769-300801494_616591906490493_3344607197251244775_n.jpg)
 
 💰 **Perkiraan Biaya Tur Jeep**
 
@@ -726,21 +726,21 @@ Kintamani nggak cuma terkenal sama pemandangan gunung berapinya yang megah, bela
 
 🌟 **Rekomendasi pribadi: Akasa Kintamani Coffee**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694517636-299902128_616996306450053_5237196238726407165_n.jpg)
+![Eksplorasi Kafe Kintamani: Restoran Romantis dengan Pemandan](https://images.gobaligo.id/images/2026-04/1776694517636-299902128_616996306450053_5237196238726407165_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694518086-299977944_616995246450159_6476396137323995264_n.jpg)
+![Eksplorasi Kafe Kintamani: Restoran Romantis dengan Pemandan](https://images.gobaligo.id/images/2026-04/1776694518086-299977944_616995246450159_6476396137323995264_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694518555-299996980_616998169783200_505265722711658485_n.jpg)
+![Eksplorasi Kafe Kintamani: Restoran Romantis dengan Pemandan](https://images.gobaligo.id/images/2026-04/1776694518555-299996980_616998169783200_505265722711658485_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694519498-300216342_616998849783132_1624655231078055146_n.jpg)
+![Eksplorasi Kafe Kintamani: Restoran Romantis dengan Pemandan](https://images.gobaligo.id/images/2026-04/1776694519498-300216342_616998849783132_1624655231078055146_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694519968-300365305_616997336449950_5389052504735929535_n.jpg)
+![Eksplorasi Kafe Kintamani: Restoran Romantis dengan Pemandan](https://images.gobaligo.id/images/2026-04/1776694519968-300365305_616997336449950_5389052504735929535_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694520625-300371255_616996163116734_5773398780777002453_n.jpg)
+![Eksplorasi Kafe Kintamani: Restoran Romantis dengan Pemandan](https://images.gobaligo.id/images/2026-04/1776694520625-300371255_616996163116734_5773398780777002453_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694521168-300384378_616996116450072_4379230647266340353_n.jpg)
+![Eksplorasi Kafe Kintamani: Restoran Romantis dengan Pemandan](https://images.gobaligo.id/images/2026-04/1776694521168-300384378_616996116450072_4379230647266340353_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694521737-300507570_616995679783449_8623213883880201880_n.jpg)
+![Eksplorasi Kafe Kintamani: Restoran Romantis dengan Pemandan](https://images.gobaligo.id/images/2026-04/1776694521737-300507570_616995679783449_8623213883880201880_n.jpg)
 
 - **Pemandangan gunung berapi 180 derajat tanpa sudut mati:**
   Setiap kursi langsung menghadap panorama Gunung Batur, bikin speechless, betah banget sampai nggak mau pergi 💯.
@@ -761,25 +761,25 @@ Kalau kamu lagi rencanain trip ke Bali selanjutnya, jangan lupa masukin **Gunung
 
 **Desa Sebatu**, yang terletak di utara Ubud, benar-benar jauh dari keramaian dan hiruk-pikuk — kayak basecamp rahasia yang nggak ada di peta. Sementara traveler lain pada nginep di private pool villa Ubud, kita milih jalan lebih jauh dan nginep di treehouse bambu mewah di antara pepohonan — **petualangan seru buat deket-deket sama alam!**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694560182-298255889_609332360549781_1268412654775479789_n.jpg)
+![Rekomendasi Menginap Hari Keenam: Sebatu Sanctuary Eco-resor](https://images.gobaligo.id/images/2026-04/1776694560182-298255889_609332360549781_1268412654775479789_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694560727-298288496_609334533882897_2644321618949918375_n.jpg)
+![Rekomendasi Menginap Hari Keenam: Sebatu Sanctuary Eco-resor](https://images.gobaligo.id/images/2026-04/1776694560727-298288496_609334533882897_2644321618949918375_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694561442-298394767_609333007216383_6941368034664531489_n.jpg)
+![Rekomendasi Menginap Hari Keenam: Sebatu Sanctuary Eco-resor](https://images.gobaligo.id/images/2026-04/1776694561442-298394767_609333007216383_6941368034664531489_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694562038-298400204_609334870549530_497849704155467125_n.jpg)
+![Rekomendasi Menginap Hari Keenam: Sebatu Sanctuary Eco-resor](https://images.gobaligo.id/images/2026-04/1776694562038-298400204_609334870549530_497849704155467125_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694562645-298411590_609336307216053_7305530392903380058_n.jpg)
+![Rekomendasi Menginap Hari Keenam: Sebatu Sanctuary Eco-resor](https://images.gobaligo.id/images/2026-04/1776694562645-298411590_609336307216053_7305530392903380058_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694563790-298588415_609339397215744_8642528289106555521_n.jpg)
+![Rekomendasi Menginap Hari Keenam: Sebatu Sanctuary Eco-resor](https://images.gobaligo.id/images/2026-04/1776694563790-298588415_609339397215744_8642528289106555521_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694564397-298735760_609335520549465_1979672484736525676_n.jpg)
+![Rekomendasi Menginap Hari Keenam: Sebatu Sanctuary Eco-resor](https://images.gobaligo.id/images/2026-04/1776694564397-298735760_609335520549465_1979672484736525676_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694564910-298994173_609337127215971_5590014833968830680_n.jpg)
+![Rekomendasi Menginap Hari Keenam: Sebatu Sanctuary Eco-resor](https://images.gobaligo.id/images/2026-04/1776694564910-298994173_609337127215971_5590014833968830680_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694565430-299029934_609337343882616_1028131341141026577_n.jpg)
+![Rekomendasi Menginap Hari Keenam: Sebatu Sanctuary Eco-resor](https://images.gobaligo.id/images/2026-04/1776694565430-299029934_609337343882616_1028131341141026577_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694565888-299032805_609336023882748_8399785905067922649_n.jpg)
+![Rekomendasi Menginap Hari Keenam: Sebatu Sanctuary Eco-resor](https://images.gobaligo.id/images/2026-04/1776694565888-299032805_609336023882748_8399785905067922649_n.jpg)
 
 🏡 **Kesan Pertama Treehouse: Perpaduan Sempurna antara Alam dan Kemewahan**
 
@@ -848,7 +848,7 @@ Sebatu Sanctuary Eco-resort adalah tempat yang bikin kamu benar-benar rileks dan
 
 Kalau kamu juga kepingin merasakan sensasi dekat dengan hutan, buruan booking! 🌲💚
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b80d9684405aba0db01f6d3e125e98b5.jpg)
+![Rekomendasi Menginap Hari Keenam: Sebatu Sanctuary Eco-resor](https://images.gobaligo.id/vocus/vocus_b80d9684405aba0db01f6d3e125e98b5.jpg)
 
 ▶[**Lihat 9 bamboo villa keren lainnya yang bikin melongo**](/blog/ubud-treehouse-bamboo-villa-stays/)
 
@@ -860,7 +860,7 @@ Kalau kamu juga kepingin merasakan sensasi dekat dengan hutan, buruan booking! �
 
 🌙 Menginap di *Mara River Safari Lodge*, kamu bisa pilih kamar keluarga Kifaru yang punya dua kamar tidur super nyaman. Bisa kasih makan zebra dari dekat, ketemu gajah, bahkan sarapan bareng singa di restoran!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d4b372474f21819999f8a11e41ec4ee7.jpg)
+![《Menginap di Safari Park》 - Interaksi langsung dengan zebra,](https://images.gobaligo.id/vocus/vocus_d4b372474f21819999f8a11e41ec4ee7.jpg)
 
 ✨ **Highlight:**
 
@@ -880,7 +880,7 @@ Kalau kamu juga kepingin merasakan sensasi dekat dengan hutan, buruan booking! �
 
 Kalau kamu lagi liburan di Bali, wajib banget coba pakai jasa driver pribadi Gede! Gede itu sopir yang super profesional dan sabar banget. Mau liburan keluarga atau jalan-jalan biasa, pelayanannya pasti bikin nyaman.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_44fc7398e88b59cba7815abcb689d3a4.jpg)
+![Layanan Sewa Mobil yang Kami Rekomendasiin Banget](https://images.gobaligo.id/vocus/vocus_44fc7398e88b59cba7815abcb689d3a4.jpg)
 
 📋 **Keunggulan Layanan:**
 
@@ -901,7 +901,7 @@ Kalau kamu lagi liburan di Bali, wajib banget coba pakai jasa driver pribadi Ged
 
 📍 **Kontak:**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fad9b3df1b2d1b227dff2547bdf7c751.jpg)
+![Layanan Sewa Mobil yang Kami Rekomendasiin Banget](https://images.gobaligo.id/vocus/vocus_fad9b3df1b2d1b227dff2547bdf7c751.jpg)
 
 - LINE ID : Bopeas29
 - WhatsApp : +62 8786 2004 094
@@ -928,7 +928,7 @@ Setelah liburan keluarga di Bali ini berakhir, yang kita bawa pulang bukan cuma 
 
 Kamu pikir itinerary dari [Let's Play and Eat Ho Chi Minh City](https://www.facebook.com/profile.php?id=100068951930592) itu seru banget? Yuk, langsung atur liburanmu ke Bali sekarang! Jangan lupa juga kirim itinerary kamu ke grup ya!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Cerita Perjalanan Lengkap:](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 

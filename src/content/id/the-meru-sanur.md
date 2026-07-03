@@ -41,7 +41,7 @@ _srcHash: 2208200f4efc86ef84faf18570cff94f
 
 Kalau kesan kamu tentang Bali cuma sebatas keramaian Kuta atau kehidupan malam Seminyak, The Meru Sanur mungkin bakal bikin kamu mendefinisikan ulang arti 'liburan di Bali'.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776438711480-549267171.jpg)
+![The Meru Sanur｜Resor Penyembuhan Bintang Lima di Sanur, Suit](https://images.gobaligo.id/images/2026-04/1776438711480-549267171.jpg)
 
 Resor suite bintang lima ini baru buka akhir tahun 2024 di Sanur, dengan rating Agoda 9.1 dan meraih 【Penghargaan Wisatawan 2025】. Letaknya di pesisir paling tenang di pantai timur Bali, mengusung nuansa penyembuhan kelas atas — dari desain arsitektur, makanan, sampai Spa, setiap detailnya terasa sengaja diperlambat. Di Bali, ini nggak gampang lho.
 
@@ -49,7 +49,7 @@ Resor suite bintang lima ini baru buka akhir tahun 2024 di Sanur, dengan rating 
 
 ## 📍 Lokasi & Lingkungan Sekitar
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776438777658-a654724c299c2c110131e3bcb1612476.webp)
+![Lokasi & Lingkungan Sekitar](https://images.gobaligo.id/images/2026-04/1776438777658-a654724c299c2c110131e3bcb1612476.webp)
 
 The Meru Sanur ada di ujung utara Sanur, tepat di samping Pantai Pasir Putih. Tinggal jalan kaki beberapa menit aja udah sampai ke Sanur Promenade yang terkenal. Jalur sepanjang 8 km ini jadi tempat favorit warga lokal buat jogging, naik sepeda, atau jalan santai. Pas matahari terbit, jalan di sini bikin kamu merasa cuma ada angin laut dan cahaya.
 
@@ -63,7 +63,7 @@ Yang juga patut dicatat, seluruh kawasan The Meru masuk dalam 'Zona Ekonomi Khus
 
 ## 🏨 Fasilitas Hotel
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776438822906-151d9dfd097595970022cdd4bf5833d3.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776438822906-151d9dfd097595970022cdd4bf5833d3.webp)
 
 Kesan pertama pas masuk The Meru adalah 'lorong terowongan' itu — dari jalan masuk sampai lobby, kamu harus lewat lorong yang terbuat dari marmer kasar dan langit-langit cermin, dengan patung batu yang main alat musik tradisional Bali di kedua sisi. Begitu selesai melintasi lorong dan masuk ke lobby yang menjulang tinggi, jujur, agak kaget.
 
@@ -73,7 +73,7 @@ Lobby-nya luas dan terang, lantai marmer gelap dipadu dinding anyaman rotan, sua
 
 **Dua Kolam Renang** — satu kolam besar ukuran Olimpiade, satu lagi kolam khusus area tenang, cocok buat kamu yang nggak mau diganggu anak-anak.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776438855819-0267ab8bb759f1442ea29ba0efff2808.webp)
+![Sekilas Fasilitas Utama:](https://images.gobaligo.id/images/2026-04/1776438855819-0267ab8bb759f1442ea29ba0efff2808.webp)
 
 **Svasana Spa** — treatment andalan resort ini adalah 'Meru Signature Massage', pijat relaksasi dalam. Ada juga Sound Healing Therapy pakai mangkuk nyanyi (singing bowl), dipadukan dengan ritual tradisional Bali, vibes penyembuhannya terasa banget. Fasilitas Spa masih diperluas, nanti areanya bakal lebih gede.
 
@@ -81,11 +81,11 @@ Lobby-nya luas dan terang, lantai marmer gelap dipadu dinding anyaman rotan, sua
 
 **Arunika Restaurant** — desain teras terbuka menghadap kolam renang. Pagi-pagi duduk sambil ngopi dan lihat sunrise, ini momen yang sering disebut tamu sebagai highlight. Menunya modern dengan bahan lokal, Cassava Ice Cream jadi dessert favorit, Coral Trout Pepes (ikan kerapu kukus daun pisang) juga wajib coba. Sarapan prasmanan gratis, pilihannya banyak.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776438923066-15a21f702dde56fb3a63b2543690ebbf.webp)
+![Sekilas Fasilitas Utama:](https://images.gobaligo.id/images/2026-04/1776438923066-15a21f702dde56fb3a63b2543690ebbf.webp)
 
 **Fasilitas Lain** — sepeda gratis, kelas yoga di pantai, kelas tinju, Kids Club, pusat kebugaran, layanan butler 24 jam, pusat bisnis. Resort ini punya empat bangunan yang dihubungkan jembatan, semuanya punya ventilasi alami, jadi jalan-jalan nggak gerah.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776439126346-597219416.jpg)
+![Sekilas Fasilitas Utama:](https://images.gobaligo.id/images/2026-04/1776439126346-597219416.jpg)
 
 ***
 
@@ -93,25 +93,25 @@ Lobby-nya luas dan terang, lantai marmer gelap dipadu dinding anyaman rotan, sua
 
 The Meru Sanur adalah resort 'all-suite' dengan 184 kamar semuanya tipe Suite, nggak ada kamar standar. Kamar terkecil mulai dari **83 meter persegi**, dan Presidential Suite terbesar mencapai **209 meter persegi**.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776439080704-537982447.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776439080704-537982447.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776439081086-537982534.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776439081086-537982534.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776439081660-537983614.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776439081660-537983614.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776439082059-575293685.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776439082059-575293685.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776439082578-a9144c28a802b8643d969866520aa8ad.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776439082578-a9144c28a802b8643d969866520aa8ad.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776439083008-c53d3d8855e7461478a4b778ad054e9a.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776439083008-c53d3d8855e7461478a4b778ad054e9a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776439083495-2ce8751393783e79ec077dd2adf4dc61.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776439083495-2ce8751393783e79ec077dd2adf4dc61.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776439084050-8b8afa9c27b4d95ba8efe416dfe60ec5.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776439084050-8b8afa9c27b4d95ba8efe416dfe60ec5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776439084585-38f0ebb7fb873159fe12d2d2a4451a98.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776439084585-38f0ebb7fb873159fe12d2d2a4451a98.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776439085041-516bd242209ffe8401ef7b4f9a354eef.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776439085041-516bd242209ffe8401ef7b4f9a354eef.webp)
 
 Tipe kamar utama:
 
@@ -130,7 +130,7 @@ Kalau kamu pengin lihat pemandangan laut dan nikmatin sunrise Sanur, langsung aj
 
 **Pasutri bulan madu dan pasangan kekasih** paling cocok — Sanur tenang, sunrise-nya cantik, spa melimpah, plus kamar suite-nya luas, nggak bakal sesak. **Keluarga bawa anak** juga pas banget, Kids Club-nya lengkap, kolam renang ada area ramah anak. Selain itu, **traveller yang nginep lama buat penyembuhan** atau yang butuh layanan medis dan wellness, milih The Meru di kawasan khusus Sanur SEZ itu sangat praktis.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776439230848-2024-07-02.webp)
+![Cocok Buat Siapa](https://images.gobaligo.id/images/2026-04/1776439230848-2024-07-02.webp)
 
 ***
 

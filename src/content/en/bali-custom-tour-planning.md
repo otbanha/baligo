@@ -61,7 +61,7 @@ They have extensive resources for accommodations, attractions, and restaurants, 
 
 We've now launched a joint **"733 Special Offer"** . The original planning fee is USD$27, but simply mention the "733 Special Offer" when contacting our Line customer service, and you can order at the discounted price of USD$24.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8205a503e78323f253c7bcd74bf75fac.jpg)
+![About isBali](https://images.gobaligo.id/vocus/vocus_8205a503e78323f253c7bcd74bf75fac.jpg)
 
 ## Act Now
 
@@ -71,7 +71,7 @@ Let you enjoy your vacation with ease, free from the hassle of planning.
 - **Professional Planning**: Our team knows every corner of Bali and provides expert itinerary design.
 - **Hassle-Free Experience**: Professional guides accompany you throughout, ensuring a safe and enjoyable trip.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_653ee94e379ace13490cab96a08c77a6.jpg)
+![Act Now](https://images.gobaligo.id/vocus/vocus_653ee94e379ace13490cab96a08c77a6.jpg)
 
 ## How to Get the Offer:
 

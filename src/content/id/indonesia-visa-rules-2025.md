@@ -29,7 +29,7 @@ _srcHash: ff59f86e695c891ebd35c730a1fa60c3
 
 Kantor Imigrasi Indonesia resmi memberlakukan proses perpanjangan visa baru mulai 29 Mei 2025. Sistem ini menggabungkan pendaftaran online dengan kunjungan langsung, berlaku di seluruh kantor imigrasi nasional termasuk Bali, dan berdampak pada wisatawan, pemegang izin tinggal jangka panjang, visa bisnis, serta visa sosial budaya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_05dab2ad74b02830d37c34b349f59630.jpg)
+![Perubahan Besar dalam Sistem Perpanjangan Visa Indonesia](https://images.gobaligo.id/vocus/vocus_05dab2ad74b02830d37c34b349f59630.jpg)
 
 ---
 
@@ -96,7 +96,7 @@ Visa turis yang paling umum adalah:
 - Juga berlaku untuk sistem perpanjangan hybrid baru
 - Biaya perpanjangan IDR 500,000
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b58a503de185affe73271afa17955bf4.png)
+![Jenis Visa & Biaya yang Berlaku](https://images.gobaligo.id/vocus/vocus_b58a503de185affe73271afa17955bf4.png)
 
 ## Tanya Jawab Umum (FAQ)
 

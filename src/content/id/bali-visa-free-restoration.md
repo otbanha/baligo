@@ -23,7 +23,7 @@ _srcHash: b9c544a0f0d0199a4cb7fd1ce7415ce4
 ---
 Menteri Pariwisata Indonesia baru-baru ini ngumumin rencana buat ngubah aturan, biar 20 negara yang paling sering berkunjung ke Indonesia bisa dapet bebas visa lagi. Kabar ini langsung jadi perbincangan hangat, apalagi buat kamu yang sering liburan ke Bali, pastinya super excited dan udah gak sabar nungguin.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_df4c423f689ad952426bcbfc63faea8f.png)
+![BREAKING NEWS: Indonesia/Bali bakal balikin bebas visa lagi!](https://images.gobaligo.id/vocus/vocus_df4c423f689ad952426bcbfc63faea8f.png)
 
 ### Sejarah Visa Turis Indonesia
 

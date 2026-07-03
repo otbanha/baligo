@@ -20,7 +20,7 @@ _srcHash: dae99eb3988cdd6b6c1f0ee016e24c6b
 
 自2024年起，印尼将鼓励计划前往巴厘岛的游客使用线上移民服务。游客可以线上申请各种印尼签证，也可以线上办理签证延期手续，不用再跑到移民局办公室亲自办理啦！（2025/05/29最新更新：现在又改成要去移民局办公室按指纹咯！请看[这里](/blog/indonesia-visa-rules-2025/)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3251272747de6e2dc78cc7eb7b80f815.png)
+![2024印尼/巴厘岛线上延长签证教学](https://images.gobaligo.id/vocus/vocus_3251272747de6e2dc78cc7eb7b80f815.png)
 
 ## **以下签证类别现在可以线上进行延期手续：**
 
@@ -36,35 +36,35 @@ _srcHash: dae99eb3988cdd6b6c1f0ee016e24c6b
 
 首先，延长签证的时机是在**签证到期前14-15天**开始提供。延长eVOA时前往网站<https://evisa.imigrasi.go.id/>，这是你申请eVOA的地方。登录你申请签证时创建的个人账号。别忘了勾选"我不是机器人"的方框。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7588f61376146af654817d34f825ab40.jpg)
+![如何延长签证呢？](https://images.gobaligo.id/vocus/vocus_7588f61376146af654817d34f825ab40.jpg)
 
 在主页上，找到菜单中的"extend"选项并点击进入。在列表中找到你的有效eVOA。如果这是你第一次延长签证，那么列表中应该只有一个项目。选择它。你不需要填写任何表格；所有数据都将自动从你的个人账户转移过来。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c4b568bd6c4125eef1b63f378e2ef77.jpg)
+![如何延长签证呢？](https://images.gobaligo.id/vocus/vocus_1c4b568bd6c4125eef1b63f378e2ef77.jpg)
 
 接下来，我们检查地址，地址如果有更改，请相应地更新为有效地址。在页面底部，勾选同意条款的方框，然后点击"提交"按钮。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ba194796e94419070d08435e6c11c16e.jpg)
+![如何延长签证呢？](https://images.gobaligo.id/vocus/vocus_ba194796e94419070d08435e6c11c16e.jpg)
 
 在下一个页面上，我们检查所有的资料，如果一切正确，那么就点击下方的"进行付款"按钮进行付款。请注意，你将有23小时的时间进行付款。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ea1406d7d97acc6798000b0f38ea9c38.jpg)
+![如何延长签证呢？](https://images.gobaligo.id/vocus/vocus_ea1406d7d97acc6798000b0f38ea9c38.jpg)
 
 接下来，你需要输入信用卡详细资料，如下方截图所示。输入完毕后，点击底部的红色按钮“现在支付”（BAYAR SAKARANG）。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_69f06b8d2e0884856ce77e56026ff835.jpg)
+![如何延长签证呢？](https://images.gobaligo.id/vocus/vocus_69f06b8d2e0884856ce77e56026ff835.jpg)
 
 成功支付后，返回到首页的“extend”。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_76022c8cab8e7779a726198a53e9255e.jpg)
+![如何延长签证呢？](https://images.gobaligo.id/vocus/vocus_76022c8cab8e7779a726198a53e9255e.jpg)
 
 在右侧的“状态”部分，你将会看到一条绿底的信息“已支付”，表示支付成功。在这条信息下方，有一个标有“e-ITK”的按钮；点击它可以查看你的签证。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_54f8adbc9ef97bf9854a067cbf9d4f00.jpg)
+![如何延长签证呢？](https://images.gobaligo.id/vocus/vocus_54f8adbc9ef97bf9854a067cbf9d4f00.jpg)
 
 像这样...
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f91aac2b48376f8dcb455a7cab7ad2da.jpg)
+![如何延长签证呢？](https://images.gobaligo.id/vocus/vocus_f91aac2b48376f8dcb455a7cab7ad2da.jpg)
 
 我们建议你截图或打印这份文件，因为...当你离开印尼/巴厘岛时，你的护照上将不会有任何标记表明你已延长了你的签证，因此截图或打印出来方便出示给相关人员会比较保险。
 

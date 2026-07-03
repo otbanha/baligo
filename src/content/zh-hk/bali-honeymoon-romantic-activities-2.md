@@ -28,7 +28,7 @@ _srcHash: e37955b964de452a596b164bfdd3ae60
 
 唔耐前先出爐嘅「十大全球浪漫旅遊目的地」，根據Agoda旅行平台嘅大數據，其中峇里島排全球第六名（[請睇呢度](/blog/valentines-day-romantic-destinations/)）；而另一份Tripadvisor 2024年度統計資料，峇里島更加被列為度蜜月目的地嘅頂尖寶座，[擊敗馬爾地夫奪得全世界冠軍！](/blog/bali-honeymoon-destination/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_60d51ffa1b750d6e989a000ce2d8857b.jpg)
+![峇里島蜜月浪漫指南：探索峇里島情侶/蜜月旅行嘅36種玩法](https://images.gobaligo.id/vocus/vocus_60d51ffa1b750d6e989a000ce2d8857b.jpg)
 
 可見峇里島係一個度蜜月嘅好地方！對於想或者即將去峇里島度蜜月嘅情侶，呢度提供更詳盡嘅建議，幫你哋打造一段難忘嘅蜜月之旅：
 
@@ -40,7 +40,7 @@ _srcHash: e37955b964de452a596b164bfdd3ae60
 - **度假村**：提供一站式服務同豐富設施，如水療中心、私人海灘同多元化餐飲選擇。
 - **精品酒店**：注重細節同設計，提供獨特嘅住宿體驗，成日座落喺自然環境入面。
 
-![raw-image](https://images.gobaligo.id/images/2026-07/1782905263415-afa7a13c21dadea57a81cc3f3dc0102b.jpg)
+![住宿選擇](https://images.gobaligo.id/images/2026-07/1782905263415-afa7a13c21dadea57a81cc3f3dc0102b.jpg)
 
 請參考我哋超過300間住宿推薦嘅「[峇里島住宿指南](https://gobaligo.id/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)」
 
@@ -50,7 +50,7 @@ _srcHash: e37955b964de452a596b164bfdd3ae60
 
 喺五星級酒店餐廳食靚晚餐，一邊睇日落或者星空。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7225714cb52a665f017a9a120b419cd6.png)
+![浪漫晚餐](https://images.gobaligo.id/vocus/vocus_7225714cb52a665f017a9a120b419cd6.png)
 
 > 【努沙杜瓦】[峇里島最豪華嘅The Apurva Kempinski酒店 Selasar Deli 餐廳食飯](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F58595-selasar-deli-apurva-kempinski-hotel-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7e991387dc)
 
@@ -86,7 +86,7 @@ _srcHash: e37955b964de452a596b164bfdd3ae60
 
 預訂情侶水療套餐，一齊享受舒緩放鬆嘅按摩同水療療程。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f1ac4cdcf9d505a87e459cfc647e7b3d.png)
+![浪漫按摩水療](https://images.gobaligo.id/vocus/vocus_f1ac4cdcf9d505a87e459cfc647e7b3d.png)
 
 【烏布】[Makar Ubud Jungle Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87616-mekar-ubud-jungle-spa-bali%2F)
 
@@ -116,7 +116,7 @@ _srcHash: e37955b964de452a596b164bfdd3ae60
 
 兩個人一齊經歷嘅冒險，回憶永留存！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_475b9cb987750d1edf53d38d93246b3e.jpg)
+![參加活動](https://images.gobaligo.id/vocus/vocus_475b9cb987750d1edf53d38d93246b3e.jpg)
 
 > 【烏布】[巴杜爾神廟＆巴杜爾火山日出吉普車之旅（連攝影師）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F103903-ubud-cafes-tour-and-sunrise-jeep-mount-batur-with-photographer%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7e10a77451)
 
@@ -132,7 +132,7 @@ _srcHash: e37955b964de452a596b164bfdd3ae60
 
 專業攝影師幫你哋嘅峇里島甜蜜之旅拍攝成最完美嘅回憶
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1b7528a1d4521658a1c7ec612dd5b798.png)
+![留下珍貴美好回憶](https://images.gobaligo.id/vocus/vocus_1b7528a1d4521658a1c7ec612dd5b798.png)
 
 - [高評價峇里島攝影一日遊（相機同空拍機拍攝）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1178016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F143975-bali-day-tour-with-photographer-video-drone%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd652e75354)
 - [峇里島網紅打卡拍照之旅（連攝影師）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1178016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23429-best-instagram-spots-photographer-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D83678b38d4)
@@ -146,7 +146,7 @@ _srcHash: e37955b964de452a596b164bfdd3ae60
 
 最唔使諗咁多、唔使煩惱規劃，就已經可以好精彩嘅玩法，就係參加當地旅行社嘅精選一日遊，感受更深層次嘅文化體驗。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c5481f8d72314d2b22f305f689d6aa5c.png)
+![參加一日遊](https://images.gobaligo.id/vocus/vocus_c5481f8d72314d2b22f305f689d6aa5c.png)
 
 > 【烏布】[烏布精選景點私人一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F25325-best-ubud-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df3e28f2839)
 
@@ -176,7 +176,7 @@ _srcHash: e37955b964de452a596b164bfdd3ae60
 
 蜜月旅行嗰陣，語言唔通成日都係我哋最大嘅挑戰！而家我哋要介紹四種峇里島中文包車遊覽方案，等你可以輕鬆自在咁探索呢個靚島。唔使擔心語言問題或者跟團行程嘅限制，你可以根據自己嘅喜好揀唔同時長嘅包車服務，盡情探索峇里島嘅各個景點。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b2ba549e3971a5e9fba63e728bd7831.png)
+![中文司機/導遊](https://images.gobaligo.id/vocus/vocus_3b2ba549e3971a5e9fba63e728bd7831.png)
 
 ### [【全包式】中文包車遊覽](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F800-private-car-charter-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3D245e608abf)
 
@@ -220,7 +220,7 @@ _srcHash: e37955b964de452a596b164bfdd3ae60
 
 ▶預訂[中文導遊佩尼達島一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3D7e1e0da9d2)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7d3f3ccb0acc6003cd2ac5e3ad83265a.png)
+![中文導遊佩尼達島一日遊](https://images.gobaligo.id/vocus/vocus_7d3f3ccb0acc6003cd2ac5e3ad83265a.png)
 
 相信有咗呢啲中文包車遊覽之旅，你一定可以帶住峇里島嘅美好回憶啟程返屋企。你可以盡情探索峇里島嘅自然風光同文化遺產，中文溝通令你感受到無盡嘅自由同輕鬆。
 

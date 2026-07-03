@@ -53,11 +53,11 @@ In late December 2024, Bali welcomes a new tourist highlight—**Marine Safari B
 
 Marine Safari Bali takes visitors on a journey from freshwater ecosystems (such as rainforests, lakes, and rivers) to deep-sea ecosystems. The park showcases over **10,000 fish** and **300 marine species**, including rare **Humboldt penguins** and **sharks** swimming freely in large tanks.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_64eb64d4aa8e7e4b44be96d9ffe26221.jpg)
+![Diverse Ecological Experiences](https://images.gobaligo.id/vocus/vocus_64eb64d4aa8e7e4b44be96d9ffe26221.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_60e130480bee4b9a72c113d35aaf30f1.jpg)
+![Diverse Ecological Experiences](https://images.gobaligo.id/vocus/vocus_60e130480bee4b9a72c113d35aaf30f1.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4765208e7e8bbb826c9dca02f0bd69b9.jpg)
+![Diverse Ecological Experiences](https://images.gobaligo.id/vocus/vocus_4765208e7e8bbb826c9dca02f0bd69b9.jpg)
 
 ![也有超級可愛的水豚君](https://images.gobaligo.id/vocus/vocus_1ba7d62c7da4059ebbb1701b9476b99b.jpg)
 
@@ -71,11 +71,11 @@ There are also super cute capybaras
 
 In a professional and safe environment, visitors can get up close to touch sharks and rays, experiencing the wonderful sensation of intimate contact with marine life.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_53e7d75cc224462f065d1d30b8d004fb.png)
+![Interacting with Sharks and Rays](https://images.gobaligo.id/vocus/vocus_53e7d75cc224462f065d1d30b8d004fb.png)
 
 ### Pachamaya Theater
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6dcdee0c7f549af283587f1f2e153523.png)
+![Pachamaya Theater](https://images.gobaligo.id/vocus/vocus_6dcdee0c7f549af283587f1f2e153523.png)
 
 Step into the heart of the rainforest! This captivating 20 to 25-minute performance will transport you through time, bringing traditions to life with mesmerizing acts and vivid storytelling. This enchanting live show is sure to create unforgettable memories for audiences of all ages.
 
@@ -83,25 +83,25 @@ Showtimes: Daily at 12:00 PM and 3:30 PM
 
 ### Fun Zone & Coralbay Waterpark
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4cb8f0b56e1cc748ab6c74985d9ed096.png)
+![Fun Zone & Coralbay Waterpark](https://images.gobaligo.id/vocus/vocus_4cb8f0b56e1cc748ab6c74985d9ed096.png)
 
 This family-friendly destination features a variety of water facilities and slides suitable for all ages, guaranteeing endless fun and memorable moments.
 
 ### Jungle Voyage
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7c8208c819c0d0b89a93cc402bae49ad.png)
+![Jungle Voyage](https://images.gobaligo.id/vocus/vocus_7c8208c819c0d0b89a93cc402bae49ad.png)
 
 Stroll through the lush Jungle Voyage area, which showcases 12 fascinating land animal and bird habitats from tropical ecosystems. Designed in an enchanting Aztec style, this zone beautifully captures the allure and mystery of ancient Aztec civilization.
 
 ### Reptile Touch Pool
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b1ec83e598dad23430f97d0d6140fee2.png)
+![Reptile Touch Pool](https://images.gobaligo.id/vocus/vocus_b1ec83e598dad23430f97d0d6140fee2.png)
 
 Step into a fascinating world of reptiles and amphibians, featuring 13 interactive habitats. Don't miss the touch experience area, the perfect place for hands-on learning and fun!
 
 ### Piranha Feeding Show
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_457011e0a856451638b8d3834de34d6c.png)
+![Piranha Feeding Show](https://images.gobaligo.id/vocus/vocus_457011e0a856451638b8d3834de34d6c.png)
 
 Visitors can feed piranhas and watch them chase prey with their sharp teeth
 
@@ -137,7 +137,7 @@ The "Bali Marine Safari Park" will officially open to the public on **December 2
 - Educational tours
 - Exclusive performances at the Varuna Underwater Theater
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f30460e416a4d8130afa6b21f0416de.jpg)
+![Opening Special Events](https://images.gobaligo.id/vocus/vocus_9f30460e416a4d8130afa6b21f0416de.jpg)
 
 ***
 
@@ -204,7 +204,7 @@ You can also visit [Taman Safari Bali](https://www.balisafarimarinepark.com/) lo
 
 ***
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_246e166544ded3c7a2c5b43d87236a78.jpg)
+![5. What nearby attractions can be included in the itinerary?](https://images.gobaligo.id/vocus/vocus_246e166544ded3c7a2c5b43d87236a78.jpg)
 
 Ubud is the cultural and artistic heart of Bali, renowned for its lush rice paddies, beautiful temples, and spiritual ambiance. Whether you're passionate about yoga, gourmet food, immersed in arts and crafts, or seeking thrilling activities, Ubud meets all your expectations, making it a perfect destination for a soul-soothing getaway.
 

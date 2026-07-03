@@ -27,7 +27,7 @@ _srcHash: d988354bcb38dd869eef05564ac8389c
 ---
 Kalau kamu lagi merencanakan liburan keluarga yang seru sekaligus mendidik, pengalaman interaksi dengan alpaka di **Pacha Alpaca**, Nuanu Creative City, Bali, ini pilihan yang pas banget buat jalan-jalan sekeluarga! Tempat yang terletak di kawasan konservasi alam Nuanu (utara Canggu) ini nggak cuma bikin anak-anak bisa dekat-dekatan sama alpaka yang lucu, tapi juga bikin seluruh keluarga menikmati waktu yang tenang dan tak terlupakan di pelukan alam.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b0733faef6a839d24e8ba590e6c489d3.jpg)
+![【Tempat Wisata Keluarga di Bali: Pacha Alpaca】Piknik Interak](https://images.gobaligo.id/vocus/vocus_b0733faef6a839d24e8ba590e6c489d3.jpg)
 
 ### Teman Hewan untuk Anak-anak: Kenalan dengan Alpaka yang Unik
 
@@ -41,19 +41,19 @@ Aktivitas di sini dirancang banget buat dinikmati bareng keluarga. Orang tua bis
 
 Pacha Alpaka terletak di kawasan Nuanu yang punya hamparan hijau luas dan udara segar, tempat yang pas buat seluruh keluarga bersantai. Anak-anak bisa lari-larian di padang rumput, eksplorasi alam, sementara orang tua bisa menikmati ketenangan sejenak. Patung-patung seni dan pemandangan alam di sekitarnya makin menambah pesona unik tempat ini, bikin pengalaman makin kaya dan berwarna.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_57b0fc13655e435fcff7aee43164fa2d.jpg)
+![Relaksasi di Tengah Alam](https://images.gobaligo.id/vocus/vocus_57b0fc13655e435fcff7aee43164fa2d.jpg)
 
 ### Perjalanan Penyembuhan untuk Seluruh Keluarga
 
 Baik anak-anak maupun orang dewasa, Pacha Alpaca bisa kasih kamu pengalaman healing yang bener-bener menyentuh hati. Anak-anak bisa merasakan kebahagiaan dan kepuasan saat berinteraksi dengan alpaka, sementara orang tua bisa sejenak lepas dari tekanan sehari-hari di lingkungan yang tenang ini. Setiap momen di sini penuh kehangatan dan harmoni, bikin seluruh keluarga bisa merasakan hubungan indah dengan alam dan hewan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a37e3ac68566d2f10a1a0ce1b7806426.png)
+![Perjalanan Penyembuhan untuk Seluruh Keluarga](https://images.gobaligo.id/vocus/vocus_a37e3ac68566d2f10a1a0ce1b7806426.png)
 
 **Yuk, pesan petualangan keluarga kamu sekarang!**
 
 Kuota pengalaman di Pacha Alpaca terbatas, apalagi pas musim liburan. Mending booking dari jauh-jauh hari biar keluarga kamu bisa ikut petualangan unik ini. Mau bikin anak-anak lebih dekat sama alam, atau pengin ciptain kenangan manis bareng keluarga, di sini bakal kasih kalian perjalanan yang nggak terlupakan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b305c2b98b26ed137d40352c871ed6db.jpg)
+![Perjalanan Penyembuhan untuk Seluruh Keluarga](https://images.gobaligo.id/vocus/vocus_b305c2b98b26ed137d40352c871ed6db.jpg)
 
 Udah siap ajak anak-anak jelajahi taman alpaka yang penuh tawa dan kejutan ini? Datang aja ke Pacha Alpaca, biar quality time keluarga ini jadi bagian paling berkesan dari liburan kalian! Kuota terbatas, wajib reservasi dulu. Langsung booking, mulai petualangan spesial kalian!
 
@@ -81,7 +81,7 @@ Suasana sekitar perpaduan seni dan ekologi, cocok buat pasangan atau solo travel
 
 ## Lebih banyak spot di Nuanu Creative City
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_31cecbba0116d5f4271add50f6d956b8.jpg)
+![Lebih banyak spot di Nuanu Creative City](https://images.gobaligo.id/vocus/vocus_31cecbba0116d5f4271add50f6d956b8.jpg)
 
 Nuanu Creative City adalah kawasan kreatif terbaru di Bali yang mengusung konsep zero carbon, jadi destinasi wisata berkelanjutan paling hits. Sekarang udah mulai menarik para kreator global, wajib masuk bucket list!
 

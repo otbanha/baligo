@@ -25,7 +25,7 @@ _srcHash: 2807c2565f672c28d5ad83a2d5af01ea
 
 ## **1. 高端住宿：入住頂級度假村同私人別墅**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_21f3270f5edab3a81cd63906207800ba.jpg)
+![1. 高端住宿：入住頂級度假村同私人別墅](https://images.gobaligo.id/vocus/vocus_21f3270f5edab3a81cd63906207800ba.jpg)
 
 峇里島有好多世界級嘅奢華度假村同私人別墅，為你提供無與倫比嘅住宿體驗。無論係位於水明漾嘅海景別墅，定係隱藏喺烏布雨林入面嘅私人度假屋。你可以揀我哋推薦嘅一系列頂級度假村，配備咗私人泳池、專屬管家同私人廚師服務，享受極致嘅舒適同私隱，令每一刻都充滿奢華同放鬆。
 
@@ -33,7 +33,7 @@ _srcHash: 2807c2565f672c28d5ad83a2d5af01ea
 
 ## **2. 專屬交通：豪華座駕同私人司機**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d1129a44cfaab55741ffa79adc1d3a00.jpg)
+![2. 專屬交通：豪華座駕同私人司機](https://images.gobaligo.id/vocus/vocus_d1129a44cfaab55741ffa79adc1d3a00.jpg)
 
 喺峇里島，交通都可以變成一種享受。我哋為你安排**Toyota Alphard**豪華專車，搭配經驗豐富嘅司機，確保你每一次出行都舒適便捷。無論係機場接送、島內遊覽，定係夜間活動，你嘅專屬司機會隨時待命，令你唔使擔心任何細節，專注享受旅程。
 
@@ -41,7 +41,7 @@ _srcHash: 2807c2565f672c28d5ad83a2d5af01ea
 
 ## **3. 獨特體驗：深度探索峇里島嘅文化同自然**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d93fd8d9cc495e7efa8f0a9e541ca932.png)
+![3. 獨特體驗：深度探索峇里島嘅文化同自然](https://images.gobaligo.id/vocus/vocus_d93fd8d9cc495e7efa8f0a9e541ca932.png)
 
 峇里島嘅魅力唔單止在於佢嘅自然美景，更加在於佢深厚嘅文化底蘊。我哋為你安排咗精通中文嘅私人導遊，帶你深入當地村落、參觀古老寺廟，仲可以參與傳統儀式。除此之外，你仲可以享受私人海灘晚餐，喺浪漫嘅沙灘上品嚐美食，或者預約高端SPA療程，令身心徹底放鬆。如果你對藝術有興趣，我哋仲可以安排私人舞蹈表演或者藝術工作坊，等你深入體驗峇里島嘅文化精髓。
 
@@ -49,7 +49,7 @@ _srcHash: 2807c2565f672c28d5ad83a2d5af01ea
 
 ## **4. 美食體驗：舌尖上嘅峇里島**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5125801e71f81fd2f4051b69bf458473.jpg)
+![4. 美食體驗：舌尖上嘅峇里島](https://images.gobaligo.id/vocus/vocus_5125801e71f81fd2f4051b69bf458473.jpg)
 
 峇里島嘅美食文化豐富多元，由當地特色料理到國際頂級美食，應有盡有。我哋為你設計咗專屬嘅美食之旅，帶你品嚐最地道嘅峇里島風味，仲可以品嚐高級美食餐廳，享受極致嘅味覺盛宴。
 
@@ -57,7 +57,7 @@ _srcHash: 2807c2565f672c28d5ad83a2d5af01ea
 
 ## **5. 個性化服務：量身訂製嘅專屬旅程**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00d1ccc0371b6eba96f9bd5f2b1b6104.jpg)
+![5. 個性化服務：量身訂製嘅專屬旅程](https://images.gobaligo.id/vocus/vocus_00d1ccc0371b6eba96f9bd5f2b1b6104.jpg)
 
 每個人嘅旅行需求都唔同，所以我哋提供完全個性化嘅服務，根據你嘅喜好同需求設計專屬行程。無論係浪漫嘅蜜月之旅、溫馨嘅家庭假期，定係夢幻嘅海島婚禮，我哋都可以為你量身打造。此外，我哋嘅線上客服會隨時為你提供支援，確保你嘅旅程完美無缺。
 

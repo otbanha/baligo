@@ -32,7 +32,7 @@ Seiring perkembangan teknologi, traveling ke luar negeri sekarang gak perlu lagi
 
 Mau pas mendarat di Bali langsung buka Google Maps cari jalan, kirim chat, share foto, atau bahkan streaming video, semua lancar tanpa khawatir sinyal lemot. Telkomsel adalah salah satu operator telekomunikasi terbesar di Indonesia, jaringannya luas banget, bahkan di daerah terpencil pun sinyalnya stabil.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5b66848dd0a737c6bd8672f358869385.png)
+![Liburan ke Bali gimana sih tanpa eSIM?](https://images.gobaligo.id/vocus/vocus_5b66848dd0a737c6bd8672f358869385.png)
 
 ---
 
@@ -79,7 +79,7 @@ Kalau kamu lagi persiapan ke Bali, jangan sampai skip paket eSIM yang ratingnya 
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_77042eb24a47229837fe9c33aaf452aa.png)
+![Kesimpulan: Pilihan Internet Terbaik buat Liburan ke Bali](https://images.gobaligo.id/vocus/vocus_77042eb24a47229837fe9c33aaf452aa.png)
 
 ## **❓FAQ Pertanyaan yang Sering Ditanyakan**
 

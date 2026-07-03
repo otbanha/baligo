@@ -28,25 +28,25 @@ _srcHash: 934d8ccff5875de46a338fd0ce9a9049
 
 **第一日**：我哋下晝抵達酒店後，冇浪費時間，即刻租好電單車，準備開始自由行嘅節奏。先喺庫塔同水明漾一帶隨意兜兜，熟悉路況同交通氛圍。晚餐我哋選擇咗當地頗有名氣嘅 **Wahaha 餐廳**，佢哋嘅烤豬肋排（豬助排）非常夠味，肉質軟嫩多汁，適合大口暢快享用。當晚入住嘅係 **The Vira Bali Boutique Hotel**，位置就喺庫塔，離機場非常近，對於第一日啱啱抵達嘅旅人嚟講好方便。酒店仲貼心提供免費接駁服務，同埋夜晚 6 點到 10 點嘅免費咖啡同點心，可以喺一日奔波後坐低慢慢享受。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171688441-92ac7a236afb823166029581e3f4542e.jpeg)
+![庫塔住宿](https://images.gobaligo.id/images/2026-04/1777171688441-92ac7a236afb823166029581e3f4542e.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171688909-92cc881f5c5d8162d3e20ba302a90015.jpeg)
+![庫塔住宿](https://images.gobaligo.id/images/2026-04/1777171688909-92cc881f5c5d8162d3e20ba302a90015.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171689286-1651ee6659d8864b74b81c2060c1ce30.jpeg)
+![庫塔住宿](https://images.gobaligo.id/images/2026-04/1777171689286-1651ee6659d8864b74b81c2060c1ce30.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171689770-141792786.jpg)
+![庫塔住宿](https://images.gobaligo.id/images/2026-04/1777171689770-141792786.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171690487-239860481.jpg)
+![庫塔住宿](https://images.gobaligo.id/images/2026-04/1777171690487-239860481.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171690911-239860488.jpg)
+![庫塔住宿](https://images.gobaligo.id/images/2026-04/1777171690911-239860488.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171691424-ae8738ab06b22a577a21079d18d30d6b.jpeg)
+![庫塔住宿](https://images.gobaligo.id/images/2026-04/1777171691424-ae8738ab06b22a577a21079d18d30d6b.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171691917-5f6e9c7c0d3fc8a4d10ad15b74ac78ca.jpeg)
+![庫塔住宿](https://images.gobaligo.id/images/2026-04/1777171691917-5f6e9c7c0d3fc8a4d10ad15b74ac78ca.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171692566-29aa537e3e2535b826762a3187c43ac8.jpeg)
+![庫塔住宿](https://images.gobaligo.id/images/2026-04/1777171692566-29aa537e3e2535b826762a3187c43ac8.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171693005-77ac71c0668340ca08fff167e84b6e5b.jpeg)
+![庫塔住宿](https://images.gobaligo.id/images/2026-04/1777171693005-77ac71c0668340ca08fff167e84b6e5b.jpeg)
 
 > ▶[**The Vira Bali Boutique Hotel 空房 & 房價查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=49780) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685252&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawcLFJMEkNZGFo2P15NcsQuyGpmYGhgZGBguFLW5XOB7-qhHT35Xv4LlDrvV14J5ihwCeiCkHnk9jTywov5a3e4WjQxcjK1hgBuORl5orGBk3MoKV7vB32MHIdICR6QTjXu4FTB9P9-mdYmHmWMZ0ieUrU3S1UnZqpZKViY5SSWZJTqqSldLTRfOeNux5vqJVSUcpJbU4GSgEZCXm5pfmlQDZhibmegYGQJGSxArPFLDO5MSc5NKcxJLUkMoCoAlmOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlhQyQ9oTBFUIDM_D6LdEEUsLDGnNBXiBKCFbqlQOwxrdTBd_mxO79PumS827SbO5ebUdrkBMS43ro19xMIUHfuJheEXC0MTK0MXKzPHEsZJQHIv9y5W_ih3QyOzSN1ws0hX3ShdwwusD3mk5A0NDAxMDY1NTXUNEi0tUk0sLXVNLE2MDSx1jS0sDY01Hq7ZNOupsZG1FCQFKDBqCcaHeHq6GJYUppoVllrmFBWYGjCeYpQyNDe2MDQyNDQyMrI01jOxSDMrtsgrtsjNivBgDGJzMTNyczSIsuFiDg12ESy05bq-2EDaQYo5JNxFceVN5rUHJpy212L2dAkyvPefJVdb2dI-0OKLGP97ywX2kTD5JNaqDN2Q8Ixe8QLGBkamLkZuAUYPxgjGCiCPcRUjOxezgZGhANMGRsYdjP9hgPEVI8gSABdB9VoEAwAA&masterhotelid_tracelogid=100051355-0a98e499-494309-38913&detailFilters=17|1~17~1*31|685252~31~685252*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=495&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/XtGn8HAO)
 
@@ -74,29 +74,29 @@ https://youtu.be/FphhiUzB7gM
 
 跟住再去到近年在社交媒體上爆紅嘅 **Bali Handara Gate**，呢度嘅峇里式大門對稱莊嚴，配搭遠方嘅青山，真係「一站式打卡必去景點」。返到烏布後，我哋揀咗 **Pison Ubud** 餐廳享用晚餐。招牌嘅「烏布髒鴨飯」果然名不虛傳，炸得酥脆嘅鴨肉配香料飯，味道濃郁又過癮。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a56fbdda5b858cfdfdd9872de32ca5e3.jpg)
+![烏布住宿](https://images.gobaligo.id/vocus/vocus_a56fbdda5b858cfdfdd9872de32ca5e3.jpg)
 
 呢晚我哋入住 **Pondok Naya**，民宿就隱身喺田園間，環境清幽，周圍係一片翠綠稻田，想入住呢度，強烈建議要有交通工具，先可以真正體驗佢嘅靜謐同便利。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295584745-5e8d4fed52af1b260541e9bd6f207022.jpeg)
+![烏布住宿](https://images.gobaligo.id/images/2026-04/1777295584745-5e8d4fed52af1b260541e9bd6f207022.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295585251-9bac521801f83a7ab27f7788569f1e75.jpeg)
+![烏布住宿](https://images.gobaligo.id/images/2026-04/1777295585251-9bac521801f83a7ab27f7788569f1e75.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295585990-66d7eb94450cba6da959f473bbf2b748.jpeg)
+![烏布住宿](https://images.gobaligo.id/images/2026-04/1777295585990-66d7eb94450cba6da959f473bbf2b748.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295586427-43362e40d8d2da6d28f693ef3e3cb893.jpeg)
+![烏布住宿](https://images.gobaligo.id/images/2026-04/1777295586427-43362e40d8d2da6d28f693ef3e3cb893.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295586989-18019632.jpg)
+![烏布住宿](https://images.gobaligo.id/images/2026-04/1777295586989-18019632.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295587554-191484791.jpg)
+![烏布住宿](https://images.gobaligo.id/images/2026-04/1777295587554-191484791.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295587948-191485120.jpg)
+![烏布住宿](https://images.gobaligo.id/images/2026-04/1777295587948-191485120.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295588455-698189141.jpg)
+![烏布住宿](https://images.gobaligo.id/images/2026-04/1777295588455-698189141.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295588988-698189142.jpg)
+![烏布住宿](https://images.gobaligo.id/images/2026-04/1777295588988-698189142.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295589512-a24011b300c7ed9f4298c6943ee5c3aa.jpeg)
+![烏布住宿](https://images.gobaligo.id/images/2026-04/1777295589512-a24011b300c7ed9f4298c6943ee5c3aa.jpeg)
 
 > [**▶Pondok Naya 空房 & 房價查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=24120992) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685061&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjM0MDAwNTQ2NdU1SLRMTDEyMtA1sTQxNjTSNTe2tND4_vPHvKfGRgZagvEhnp4uhiWFqWaFpZY5RQWmpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYnJxNLIxMo_ikmEPCXRRX3mRee2DCafsk1qoM3ZDwjF5xAMYV9PmBAAAA&masterhotelid_tracelogid=100051355-0a9ad220-494312-7398&detailFilters=17|1~17~1*31|685061~31~685061*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1320&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687)
 
@@ -132,15 +132,15 @@ https://youtu.be/FphhiUzB7gM
 
 跟住我哋去咗著名嘅 **聖泉寺（Tirta Empul）**，呢度係當地人心目中非常神聖嘅地方，好多信徒會去聖泉池度進行淨身儀式。行入寺廟時，氣氛莊嚴而祥和，可以感受到一股同自然同信仰相連嘅力量。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e29af9eca891ff9b6e50c096a6ddc9b.jpg)
+![金巴蘭住宿](https://images.gobaligo.id/vocus/vocus_2e29af9eca891ff9b6e50c096a6ddc9b.jpg)
 
 > 快速參考：[【2025】Tirta Empul 聖泉寺完整指南：峇里島最神聖嘅淨化水廟體驗](/blog/tirta-empul-temple-guide/)
 
 參觀完之後，我哋又騎咗 3.5 公里，去到新興嘅網紅美拍景點 **Sari Timbul by Kubu Bali**。呢度以各式大型木雕藝術裝置聞名，每一處都好有張力，影相效果十足，尤其深受女仔鍾意，係一個好啱打卡嘅地方。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4d3debb3b405f5d1a6a333a89cd8b363.jpg)
+![金巴蘭住宿](https://images.gobaligo.id/vocus/vocus_4d3debb3b405f5d1a6a333a89cd8b363.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ee40d5d487407ad015868390bd05b4e4.jpg)
+![金巴蘭住宿](https://images.gobaligo.id/vocus/vocus_ee40d5d487407ad015868390bd05b4e4.jpg)
 
 呢度原本係一間陶瓷工坊，就算唔買陶瓷，都只需要俾 USD$3 嘅入場費，就可以喺園區入面影相。場景設計獨特、色彩繽紛，影出嚟嘅效果相當夢幻，尤其深受女性遊客喜愛，被譽為烏布嘅美拍小秘境。
 
@@ -148,25 +148,25 @@ https://youtu.be/FphhiUzB7gM
 
 結束烏布行程之後，我哋先返庫塔嘅酒店拎返大件行李，再揸電單車去金巴蘭入住當晚嘅住宿 **The Jimbaran Villa by Ini Vie Hospitality**。呢間 Villa 有私人泳池，環境清幽，特別適合情侶或者夫妻度假。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295856690-4493f2aaa0429ca49a9f7d863cadc329.jpeg)
+![金巴蘭住宿](https://images.gobaligo.id/images/2026-04/1777295856690-4493f2aaa0429ca49a9f7d863cadc329.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295857366-375980309.jpg)
+![金巴蘭住宿](https://images.gobaligo.id/images/2026-04/1777295857366-375980309.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295857696-a1ef15521ae150cab9317a0440545ebc.jpeg)
+![金巴蘭住宿](https://images.gobaligo.id/images/2026-04/1777295857696-a1ef15521ae150cab9317a0440545ebc.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295858396-a348bced8bac55959dbd394bc9a6be3d.jpeg)
+![金巴蘭住宿](https://images.gobaligo.id/images/2026-04/1777295858396-a348bced8bac55959dbd394bc9a6be3d.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295858901-cf84c7ae8a99650c5b54814be3e766ea.jpeg)
+![金巴蘭住宿](https://images.gobaligo.id/images/2026-04/1777295858901-cf84c7ae8a99650c5b54814be3e766ea.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295859309-e9063541d554b62c6c4cb6ad069a813b.jpeg)
+![金巴蘭住宿](https://images.gobaligo.id/images/2026-04/1777295859309-e9063541d554b62c6c4cb6ad069a813b.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295859744-ec3bd7f20df682b3d847b7eb4b121d54.jpeg)
+![金巴蘭住宿](https://images.gobaligo.id/images/2026-04/1777295859744-ec3bd7f20df682b3d847b7eb4b121d54.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295860354-32adec3808d3817bc37f2c15ac7e14b2.jpeg)
+![金巴蘭住宿](https://images.gobaligo.id/images/2026-04/1777295860354-32adec3808d3817bc37f2c15ac7e14b2.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295861038-95bb19fb0354aaffeabc77e9a0be33f4.jpeg)
+![金巴蘭住宿](https://images.gobaligo.id/images/2026-04/1777295861038-95bb19fb0354aaffeabc77e9a0be33f4.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295861491-457a2c1463a01f89d4dc5d71dc5211ef.jpeg)
+![金巴蘭住宿](https://images.gobaligo.id/images/2026-04/1777295861491-457a2c1463a01f89d4dc5d71dc5211ef.jpeg)
 
 > ▶[**The Jimbaran Villa by Ini Vie Hospitality 空房 & 房價查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5730375) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=23782664&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_CsfD98-esQuyGpmYGhgZGBguFLW5XOFaLrHN_OKvewXOHXOvrwCPNDgE8EVMOPJ_GntjytZ7v86xAhy5GVrDADMaOU6u5NzJeX1xgy7U93mEHI9MBRqYTjL_FFjBt7nxoeYqFmeMMyyWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZBtZmugZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGXywMTawMXazMHMeZJgHJ32K7WPn9I_2DLEx1w80iXXWjdA0vsB6SlJI3NDAwMDU0NjXVNUi0tDA3M7HUNbE0MTYAUsYmJiYaLcf2zXpqbGQtBYl_BUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWzmhi6Gli5RNlzMocEugoW2XNcXG0g7SDGHhLsorrzJvPbAhNP2WsyeLkGG9_6z5GorW9oHWnwR439vucA-EiafxFqVoRsSntErXsDYwMjUxcgtwOjBGMFYAeQxrmJk52I2MDIUYNrAyLiD8T8MML5iBFkCADI-06gCAwAA&masterhotelid_tracelogid=100051355-0a987649-494309-43444&detailFilters=17|1~17~1*31|23782664~31~23782664*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=224&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/LerWcw1j)
 
@@ -206,7 +206,7 @@ https://youtu.be/IReL1ztxL7c
 
 下晝我哋特登計準咗 **海神廟（Tanah Lot）** 嘅退潮時間，因為只有退潮時先可以涉水行過岩石通道，真正登上神廟。到咗神廟後，我哋接受咗當地印度教祭司嘅祈福儀式，額頭上點咗聖米同插花，感覺係一種特別嘅祝福體驗。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e865be61feb283663c6b4e451024b0a6.jpg)
+![金巴蘭住宿](https://images.gobaligo.id/vocus/vocus_e865be61feb283663c6b4e451024b0a6.jpg)
 
 > 快速參考：[峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](/blog/bali-tanah-lot-guide/)
 
@@ -234,7 +234,7 @@ https://youtu.be/lIV-T2jYhVk
 
 你覺得佢哋嘅行程好精彩咩？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家去社團投稿你嘅行程㗎！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![總結感想](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 撳呢度睇更多峇里島精彩遊記
 

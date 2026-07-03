@@ -20,7 +20,7 @@ _srcHash: f1f1fcb4a5fce1d821083bf0cba16bfa
 
 Bali is renowned for its enchanting natural scenery and rich cultural heritage, attracting countless visitors each year. This famous Indonesian tourist destination boasts a diverse array of accommodation options, from luxurious resorts to budget-friendly guesthouses. Whether you're seeking a lavish experience or a simple, affordable stay, Bali has something to suit your needs.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc04ae4423e5707c3b4106ae8ab988b9.jpg)
+![【Video】12 Recommended Accommodations in Bali from Canggu, Se](https://images.gobaligo.id/vocus/vocus_cc04ae4423e5707c3b4106ae8ab988b9.jpg)
 
 In the YouTube video below, travel blogger Camilla Johannesen takes viewers on a journey to explore the best accommodation options in Bali. She showcases everything from luxurious resorts to budget-friendly homestays, ensuring there's something for every travel preference and budget.
 

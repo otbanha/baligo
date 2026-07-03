@@ -28,7 +28,7 @@ _srcHash: aec3d6b920e13090c85016df575ba7c5
 
 Tempat baru di Canggu, Bali — **Aurora Media Park Bali**, adalah landmark terbaru yang menggabungkan alam dengan teknologi multimedia interaktif. Terletak di kawasan kreatif Nuanu, Tabanan, tempat ini menawarkan pengalaman hutan terbuka sepanjang sekitar 1 km, penuh dengan permainan interaktif cahaya dan suara, serta menggunakan teknologi kecerdasan buatan (AI) untuk menciptakan lingkungan multimedia yang imersif. Di hutan alami seluas sekitar 5.000 meter persegi ini, pengunjung bisa merasakan kejutan visual dan audio yang luar biasa, sekaligus mendapatkan inspirasi batin, seolah-olah memasuki dimensi baru.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_88cd83cae8c36c0bc84450428436accd.jpg)
+![【Tempat Baru di Canggu】Aurora Media Park Bali｜Hutan Interakt](https://images.gobaligo.id/vocus/vocus_88cd83cae8c36c0bc84450428436accd.jpg)
 
 ### 
 
@@ -38,9 +38,9 @@ Aurora Park sudah resmi dibuka sejak Agustus 2024. Menurut pendiri Nuanu, Sergey
 
 ## Sorotan Wisata:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f6b9f1ed04ebe13792fc027236c8aa7.jpg)
+![Sorotan Wisata:](https://images.gobaligo.id/vocus/vocus_2f6b9f1ed04ebe13792fc027236c8aa7.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ce51f823edc67e709dae2893a15016af.jpg)
+![Sorotan Wisata:](https://images.gobaligo.id/vocus/vocus_ce51f823edc67e709dae2893a15016af.jpg)
 
 **Gate (Pintu Masuk)**
 
@@ -55,9 +55,9 @@ Instalasi jam matahari yang 'dianyam' dari cahaya dan bayangan spiral, secara ar
 **Bahasa Pillar (Pilar Bahasa)**  
 Di pilar ini ada ukiran puisi bahasa Indonesia, diproyeksikan dengan aksara Dewanagari, menggambarkan perjalanan cahaya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_275dbabd119cc403f9187c9efb4a4cc7.jpg)
+![Sorotan Wisata:](https://images.gobaligo.id/vocus/vocus_275dbabd119cc403f9187c9efb4a4cc7.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c07920553a497852b4f6ff5cb0c903e0.jpg)
+![Sorotan Wisata:](https://images.gobaligo.id/vocus/vocus_c07920553a497852b4f6ff5cb0c903e0.jpg)
 
 **Cone (Instalasi Kerucut)**  
 Instalasi cermin berbentuk oval di tengah sungai, terbuat dari stainless steel. Cahaya interaktif diproyeksikan ke permukaan sungai, menciptakan efek riak dinamis. Saat pengunjung berjalan di jembatan di depannya, sensor akan mengaktifkan instalasi ini.
@@ -71,7 +71,7 @@ Instalasi anyaman rotan yang dipadukan dengan lampu spiral 3D, menghubungkan jem
 **Crystal Oasis (Oasis Kristal)**  
 Instalasi ini menampilkan stalaktit dan kristal bercahaya, berbentuk seperti telapak tangan Ibu Pertiwi. Saat pengunjung berdiri di depannya, kristal dan area sekitarnya mulai berkilau dengan warna-warni, menciptakan pengalaman interaktif yang magis.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_33925bc9e4116dcf8e86a59d86482b25.jpg)
+![Sorotan Wisata:](https://images.gobaligo.id/vocus/vocus_33925bc9e4116dcf8e86a59d86482b25.jpg)
 
 Aurora Park Bali bukan cuma tempat wisata malam, tapi juga ruang imersif yang menggabungkan seni, alam, dan teknologi. Cocok banget buat kamu yang suka eksplorasi dan petualangan buat ngerasain pesona unik ini.
 
@@ -85,7 +85,7 @@ Aurora Media Park buka setiap hari mulai jam 7 malam, ngajak pengunjung buat men
 
 ## Lebih Banyak Tempat di Nuanu Creative City
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc7e8fc3aec43f2f1eff30c6e85caa52.jpg)
+![Lebih Banyak Tempat di Nuanu Creative City](https://images.gobaligo.id/vocus/vocus_cc7e8fc3aec43f2f1eff30c6e85caa52.jpg)
 
 Nuanu Creative City adalah kawasan kreatif terbaru yang muncul di Bali, dan mendorong zero karbon, menjadi destinasi wisata berkelanjutan terbaru di Bali. Sekarang sudah mulai menarik para kreator global, jadi wajib banget dikunjungi!
 

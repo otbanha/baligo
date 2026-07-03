@@ -33,7 +33,7 @@ _srcHash: 7f9be073f53d8674cc4d1e70ae74b712
 
 Menurut pengumuman terbaru dari Direktorat Jenderal Imigrasi Indonesia, eVisa/e-VoA kamu setelah diajukan dan diterbitkan, **bisa diperbaiki atau enggak tergantung kolom yang salah**.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7fbe71f8afe8094370bc8e00d775dc60.png)
+![Perhatikan aturan terbaru ini:](https://images.gobaligo.id/vocus/vocus_7fbe71f8afe8094370bc8e00d775dc60.png)
 
 ## **Data penting salah: Gak bisa diperbaiki, harus apply ulang**
 
@@ -65,7 +65,7 @@ Menurut keterangan dari Direktorat Jenderal Imigrasi, dalam kasus seperti ini ka
 3. **Kesalahan data non-kritis:** Kalau cuma salah jenis kelamin atau tempat lahir, kamu bisa timbang risikonya. Meskipun secara resmi katanya masih bisa dipakai, biar lebih tenang — apalagi kalau jadwalmu padat atau ada urusan bisnis penting — saran tetap bikin yang baru aja.
 4. **Hubungi pihak resmi:** Kalau masih ragu, langsung aja kontak imigrasi Indonesia lewat jalur resmi. Tapi ingat, sesuai aturan yang berlaku, mereka juga nggak bisa ngubah data kritis di eVisa yang udah terbit.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ee608e06a5095bab9988e48785dd299.png)
+![Ringkasan Langkah-Langkah](https://images.gobaligo.id/vocus/vocus_6ee608e06a5095bab9988e48785dd299.png)
 
 ## **Pengingat Penting:**
 

@@ -24,7 +24,7 @@ _srcHash: 982cf84d358bdbe2150bdf0c134be6e1
 
 This is a record of our family of four's exciting journey through Bali and Komodo Island. We spent three days in Bali before heading to Komodo Island for two days, totaling a five-day adventure, where we participated in a Komodo 2D1N liveaboard tour.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2d9f08d24d85d4d49023c4b8db0a7e5f.jpg)
+![3 Days in Bali + 2D1N Komodo Island Liveaboard: An Unmissabl](https://images.gobaligo.id/vocus/vocus_2d9f08d24d85d4d49023c4b8db0a7e5f.jpg)
 
 ## Wonderful Experiences in Bali
 
@@ -92,7 +92,7 @@ Lastly, if you're looking for a carefree, culturally rich, and scenic trip to Ba
 
 Did you find Tyty Chow's itinerary exciting? Start planning your own Bali adventure now! We also welcome everyone to share your travel plans in our community!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f3c9335329415b15de58f37454557bb.jpg)
+!["Bali + Komodo Island" Package Tour](https://images.gobaligo.id/vocus/vocus_4f3c9335329415b15de58f37454557bb.jpg)
 
 Click here to explore more amazing Bali travel stories
 

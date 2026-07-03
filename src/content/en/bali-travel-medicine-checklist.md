@@ -23,7 +23,7 @@ lang: en
 _srcHash: aa29e1ab70b925db743e2577f78348c0
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fef7bd48652aa47030dcbfd2f97f36cf.png)
+![What essential medicines and products should you bring for a](https://images.gobaligo.id/vocus/vocus_fef7bd48652aa47030dcbfd2f97f36cf.png)
 
 Some travelers may experience diarrhea or discomfort when first arriving in Bali, humorously referred to as "Bali belly" in English. Sometimes, the entire family might be affected, which can be quite unfortunate! Some tourists end up spending several days confined to their hotel rooms, unable to explore.
 
@@ -39,7 +39,7 @@ What emergency medicines should you have in Bali? How do you say them in Indones
 
 Moreover, if you’re suffering from itchy mosquito bites, we recommend an Indonesian remedy called "Tjing Tjau Balsem" (a balm), which works wonders for mosquito bites, headaches, scratches, and various pains and itches. It’s incredibly effective for reducing swelling and itchiness!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_78d52231e9d18e42ba51fe2efe3ee238.jpg)
+![What essential medicines and products should you bring for a](https://images.gobaligo.id/vocus/vocus_78d52231e9d18e42ba51fe2efe3ee238.jpg)
 
 Whether for prevention or handling unexpected situations, staying healthy is crucial for a pleasant trip. We hope these tips help you enjoy a safe and wonderful time in Bali.
 

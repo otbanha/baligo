@@ -14,7 +14,7 @@ _srcHash: 0d89a4bdd705322e890ccb668b7acd4a
 
 想去巴厘岛又怕花费太高？其实只要掌握最佳旅游时机与省钱技巧，就能用小预算享受「众神之岛」的美丽。本文将详解最便宜的旅游月份、住宿优惠、交通方式及美食选择，让你在淡季依然能深度体验巴厘岛。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6734706ff9d908499a650b64b2ebb785.png)
+![巴厘岛省钱旅游攻略：最便宜的旅游季节完整指南](https://images.gobaligo.id/vocus/vocus_6734706ff9d908499a650b64b2ebb785.png)
 
 ## **巴厘岛旅游开销重点**
 
@@ -32,7 +32,7 @@ _srcHash: 0d89a4bdd705322e890ccb668b7acd4a
 
 ## **巴厘岛淡季：最划算的月份**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7d538c747ad9deaaf455df6252953555.png)
+![巴厘岛淡季：最划算的月份](https://images.gobaligo.id/vocus/vocus_7d538c747ad9deaaf455df6252953555.png)
 
 ### **淡季的好处**
 
@@ -75,7 +75,7 @@ _srcHash: 0d89a4bdd705322e890ccb668b7acd4a
 
 ## **平价又精彩的旅游活动**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8d0c0ccb0c0ee3d51d0ff197bed234ac.png)
+![平价又精彩的旅游活动](https://images.gobaligo.id/vocus/vocus_8d0c0ccb0c0ee3d51d0ff197bed234ac.png)
 
 - **文化体验**：参观海神庙、乌鲁瓦图庙，门票低廉。
 - **舞蹈表演**：Kecak 火舞表演可选优惠套票。
@@ -90,7 +90,7 @@ _srcHash: 0d89a4bdd705322e890ccb668b7acd4a
 - **饮品省钱法**：自带水瓶，在住宿或咖啡馆免费补水。
 - **零食购买**：超市或传统市场有平价水果与坚果。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_56f722de5d83b2aa2ba0c4e4cebf77fc.jpg)
+![巴厘岛便宜美食与日常开支](https://images.gobaligo.id/vocus/vocus_56f722de5d83b2aa2ba0c4e4cebf77fc.jpg)
 
 ***
 
@@ -132,7 +132,7 @@ _srcHash: 0d89a4bdd705322e890ccb668b7acd4a
 
 此时岛上充满游行、音乐、舞蹈，完全免费，能深度感受巴厘岛文化。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_af2a6c5d08ffe04b97f754a61f9d1e32.jpg)
+![巴厘岛文化活动与免费体验](https://images.gobaligo.id/vocus/vocus_af2a6c5d08ffe04b97f754a61f9d1e32.jpg)
 
 **快速参考：**
 [巴厘岛传统节日：2025/2026年的巴厘岛宗教节庆指南](/blog/bali-religious-festivals-guide/)

@@ -30,7 +30,7 @@ _srcHash: 5e5a8bf4561718f3404a2ed97f0dd3c4
 
 Belajar Bali Boutique Hotel & Retreat adalah penginapan butik yang cukup populer di kawasan Canggu. Kalau kamu berencana ke Bali dan lagi cari hotel kecil dengan desain estetik, pelayanan oke, dan gaya yang agak unik, tempat ini mungkin layak masuk daftar. Yuk, kita bahas dari sisi positif, hal yang mungkin perlu diperbaiki, dan rekomendasi dari kami.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7aa22519bdbfa6d3826a5a36aa6f9e3f.jpg)
+![Rekomendasi Penginapan Butik Bohemian di Canggu: Belajar Bal](https://images.gobaligo.id/vocus/vocus_7aa22519bdbfa6d3826a5a36aa6f9e3f.jpg)
 
 ***
 
@@ -38,7 +38,7 @@ Belajar Bali Boutique Hotel & Retreat adalah penginapan butik yang cukup populer
 
 Belajar Bali Boutique Hotel and Retreat hanya berjarak 2,8 km dari Pantai Batu Bolong. Ini adalah resort butik bintang 5 dengan hanya 8 kamar, memadukan ketenangan dan kemewahan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e1137f6dfc10b014965bb6cbc578bab.jpg)
+![Sekilas Info](https://images.gobaligo.id/vocus/vocus_2e1137f6dfc10b014965bb6cbc578bab.jpg)
 
 Kolam renang outdoor: Kamar punya balkon pribadi dengan pemandangan kolam, bikin suasana liburan makin santai.
 
@@ -48,7 +48,7 @@ Gaya desain: Setiap kamar dilengkapi AC, meja kerja, brankas, dan kamar mandi pr
 
 Akses mudah: Jarak ke Pantai Canggu juga 2,8 km, ke Petitenget Temple sekitar 8,4 km, dan ke Bandara Internasional Ngurah Rai cuma 17 km.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b7da17399ac0cb739f0ada56fbb8724c.jpg)
+![Sekilas Info](https://images.gobaligo.id/vocus/vocus_b7da17399ac0cb739f0ada56fbb8724c.jpg)
 
 ***
 

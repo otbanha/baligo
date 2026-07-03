@@ -28,7 +28,7 @@ _srcHash: b6e65c18a282abb51491e746cf3b1a30
 
 第一次全家巴厘岛的旅游第二天，今天的的行程是：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_85927681da5e54d9cc9e2a0075146d7b.jpg)
+![【两大两小的巴厘岛亲子游记】Day 2：GWK神鹰广场、乌鲁瓦图免费海滩俱乐部、乌鲁瓦图庙、乌鲁瓦图火舞](https://images.gobaligo.id/vocus/vocus_85927681da5e54d9cc9e2a0075146d7b.jpg)
 
 从生活机能无敌方便的库塔Aloft Kuta（[点我看上一集的介绍](/blog/bali-family-trip-aloft-kuta/)）出发 > 金巴兰神鹰广场Garuda Wisnu Kencana Cultural Park > 乌鲁瓦图海景餐厅Kelly's Warung > 乌鲁瓦图神庙 Uluwatu Temple > 火舞Kecak > 街边小吃
 

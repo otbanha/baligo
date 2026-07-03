@@ -44,7 +44,7 @@ Banyak netizen yang ngeluh pas langkah upload foto pas foto nemu masalah. Pertam
 3. File tidak boleh lebih besar dari **2MB**
 4. Komposisi yang pas
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8d4f513b24a0c87fae92aee293c19920.jpg)
+![Poin penting ada di Contoh 1:](https://images.gobaligo.id/vocus/vocus_8d4f513b24a0c87fae92aee293c19920.jpg)
 
 **Dari empat poin di atas, yang nomor tiga wajib kamu perhatikan!** Sekarang ini resolusi HP makin tinggi, ukuran file foto yang dihasilkan juga makin gede. Kalau nggak hati-hati, jepretan biasa aja bisa langsung lebih dari 2MB. Mau kamu foto ulang atau scan ulang, sebagian besar pasti bakal melebihi batas upload website, otomatis nggak lolos deh.
 

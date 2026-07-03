@@ -21,7 +21,7 @@ _srcHash: b14c051a065b2f64d8d6c44f19401fbc
 
 ### 巴厘岛政府确认即将到来的宁静日游客必须遵守的规则
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_26e4bd90b1acdf6d7ea153ac83b7542d.jpg)
+![巴厘岛政府确认即将到来的宁静日游客必须遵守的规则](https://images.gobaligo.id/vocus/vocus_26e4bd90b1acdf6d7ea153ac83b7542d.jpg)
 
 巴厘岛的印度教权威机构已就如何庆祝即将到来的宁静日（Nyepi Day，巴厘岛宁静日）发布了最新指导。这个重要的节日将于2025年3月29日举行，届时岛上所有非印度教徒、外国人和游客都必须遵守当天的规定。
 
@@ -53,7 +53,7 @@ Dwikora向记者表示：「每年我们都会发布一份通函（包含PHDI法
 
 总之，巴厘岛的宁静日是一个独特而神圣的节日，游客在参与时应尊重当地的传统和规定。提前规划和了解相关规则，将有助于确保您的旅程顺利且愉快。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fe2ab68b5c5fa3bae8679caf88ac3b2b.jpg)
+![提前准备的重要性](https://images.gobaligo.id/vocus/vocus_fe2ab68b5c5fa3bae8679caf88ac3b2b.jpg)
 
 ## 巴厘岛宁静日（Nyepi Day）常见问题解答（FAQ）
 

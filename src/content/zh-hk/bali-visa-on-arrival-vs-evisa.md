@@ -25,17 +25,17 @@ James Lin嘅經驗說明，如果係帶細路、65歲以上長者或者行動不
 
 另外一名網友周久人都提供咗佢嘅經驗，佢喺入境雅加達時選擇咗現場辦理落地簽。當時，佢發現自己要排隊約20人之多。佢只能耐心咁企喺度等。兩個鐘後，終於輪到佢辦理入境手續。然而，佢對辦事嘅效率感到非常失望，認為整個過程真係非常耗時。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d4795a2a87033f9707380eee93dc2028.png)
+![入境印尼/峇里島落地簽 vs. 電子簽證：選擇嘅實際建議](https://images.gobaligo.id/vocus/vocus_d4795a2a87033f9707380eee93dc2028.png)
 
 其他一啲實際體驗過嘅團友回應：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_193f7fd3a8395cc01c0fd9f1f5e26aaf.png)
+![入境印尼/峇里島落地簽 vs. 電子簽證：選擇嘅實際建議](https://images.gobaligo.id/vocus/vocus_193f7fd3a8395cc01c0fd9f1f5e26aaf.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f52e815ec87fdcaf14859d6c996c30b3.jpg)
+![入境印尼/峇里島落地簽 vs. 電子簽證：選擇嘅實際建議](https://images.gobaligo.id/vocus/vocus_f52e815ec87fdcaf14859d6c996c30b3.jpg)
 
 另一名團友黃俊傑就補充咗一啲說明如下：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d5ae856e88dfdd6239eb60a49618a6d5.png)
+![入境印尼/峇里島落地簽 vs. 電子簽證：選擇嘅實際建議](https://images.gobaligo.id/vocus/vocus_d5ae856e88dfdd6239eb60a49618a6d5.png)
 
 > 延伸閱讀：[2026印尼峇里島入境使用「All Indonesia」申報系統｜1分鐘搞懂最新流程：落機→過海關→拎行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
 
@@ -45,15 +45,15 @@ James Lin嘅經驗說明，如果係帶細路、65歲以上長者或者行動不
 
 如果遇到一大堆人喺度辦理入境手續，情況就會完全唔同。喺機場排隊等兩個鐘以上，唔單止係對旅客嘅耐心考驗，亦意味住浪費咗寶貴嘅旅遊放鬆時間。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_75e0b7b75b7ad28994890343c6c92319.png)
+![點解聽講落地簽好快？](https://images.gobaligo.id/vocus/vocus_75e0b7b75b7ad28994890343c6c92319.png)
 
 > 延伸閱讀：[印尼/峇里島電子簽證eVoa全攻略：申請步驟、注意事項一次掌握！](/blog/bali-evisa-application-guide/)
 
 關於落地簽現場付費嘅問題，網友們嘅經驗真係唔太一致。有啲人話現場付費好快，幾乎唔使排隊；但都有唔少人反映，遇到旅遊旺季或者航班密集抵達嗰陣，排隊等候嘅時間可能會好長，甚至超過一個鐘。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9c5c856be3a0a3b3d83a2591980933e3.jpg)
+![點解聽講落地簽好快？](https://images.gobaligo.id/vocus/vocus_9c5c856be3a0a3b3d83a2591980933e3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ee9b6ab6d9b455c0a1cc65c4ddcb5b6e.jpg)
+![點解聽講落地簽好快？](https://images.gobaligo.id/vocus/vocus_ee9b6ab6d9b455c0a1cc65c4ddcb5b6e.jpg)
 
 強烈建議大家出發前先申請好**電子落地簽（e-VOA）**。點解呢？因為出門在外，好多嘢係無法預期嘅，尤其係抵達機場後嘅情況。如果你已經事先辦好電子簽證，抵達峇里島後就可以直接通關，慳返排隊繳費、填寫表格嘅時間，亦可以避免因為語言唔通或者俾人搵麻煩/要貼士而產生嘅麻煩。
 

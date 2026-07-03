@@ -37,7 +37,7 @@ _srcHash: 7c90a27f09f5ed09d5e8beea6059bcdd
 
 Kalau daftar destinasi impian kamu termasuk si reptil purba 'Komodo' atau 'Pink Beach' yang super cantik, kabar dari 2026 ini mungkin bakal ganggu rencana kamu. Demi menjaga surga yang rapuh ini, pemerintah Indonesia resmi nerapin batasan ketat jumlah pengunjung di Taman Nasional Komodo (Komodo National Park). Gaya 'datang aja ke dermaga, langsung berangkat' yang dulu jadi andalan, di 2026 udah jadi sejarah. Sekarang, setiap pertemuan dengan komodo butuh reservasi yang presisi dan perencanaan matang.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776404929670-ce36926b346e8aceb01ef95b46509d3b.jpg)
+![【Peringatan Darurat】Komodo Resmi 'Batasi Pengunjung'! 2026 G](https://images.gobaligo.id/images/2026-04/1776404929670-ce36926b346e8aceb01ef95b46509d3b.jpg)
 
 ## Cuma 1.000 Orang Per Hari yang Boleh Masuk
 
@@ -47,7 +47,7 @@ Angka ini bukan asal-asalan. Sejak 2018, lembaga riset udah ngukur daya tampung 
 
 Tapi tahun 2025, jumlah pengunjung langsung melonjak ke 420.000 lebih — nembus banget batas atasnya.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776404897217-fdf1ae42c54b9b350a38e08a3ccc880d.jpg)
+![Cuma 1.000 Orang Per Hari yang Boleh Masuk](https://images.gobaligo.id/images/2026-04/1776404897217-fdf1ae42c54b9b350a38e08a3ccc880d.jpg)
 
 ## Kenapa Baru Dibatasi Sekarang?
 
@@ -57,7 +57,7 @@ Kalau suatu tempat dapat liputan gencar kayak gitu, wajar aja kalau turisnya mel
 
 Menghadapi tekanan 'overtourism', pihak taman memutuskan untuk langsung mengacu pada data penelitian tahun itu dan resmi memberlakukan mekanisme pembatasan pengunjung. Meskipun ada yang mengkritik data penelitian itu sudah berusia delapan tahun, sikap pihak taman jelas: data itu objektif, jadi jalani saja.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776404815417-5c0d85119e45987fda4141af473ccb12.jpg)
+![Kenapa Baru Dibatasi Sekarang?](https://images.gobaligo.id/images/2026-04/1776404815417-5c0d85119e45987fda4141af473ccb12.jpg)
 
 ## Gimana Cara Pembatasannya?
 
@@ -115,7 +115,7 @@ A: Cara paling umum adalah terbang dari Bali ke Labuan Bajo, lalu dari sana naik
 
 A: Cara paling aman adalah lewat agen travel yang punya koneksi lokal — mereka bisa ambil kuota masuk taman sebelum kamu berangkat, jadi kamu nggak perlu rebutan sendiri. Kalau mau mandiri, saran sih booking 1–2 bulan sebelumnya lewat agen yang punya akses sumber daya lokal, apalagi pas musim ramai (Juli–September). Datang dadakan ke Labuan Bajo dan berharap dapat tiket di musim ramai? Hampir mustahil.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6680c949bff873153e488598381a7ca6.png)
+![FAQ Pertanyaan Umum](https://images.gobaligo.id/vocus/vocus_6680c949bff873153e488598381a7ca6.png)
 
 [⭐⭐Bali + Pulau Komodo, 4 Malam Menginap Mewah/Tanpa Belanja/Tanpa Biaya Tambahan/5 Hari⭐⭐](/blog/bali-komodo-luxury-tour-2026/)
 

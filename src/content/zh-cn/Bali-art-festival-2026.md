@@ -36,7 +36,7 @@ Update: 2026/06/13
 
 今年，这场岛上最盛大的文化嘉年华正式迎来了**第 48 届巴厘岛艺术节（Pesta Kesenian Bali, 简称 PKB）**！不论你是第一次听说，还是正在规划盛夏的巴厘岛之旅，这篇最新指南都将带你直击今年的亮点，感受最纯粹的巴厘岛文化之美。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781317963625-pkb2021b.jpeg)
+![【2026 巴厘岛艺术节】Bali Arts Festival（PKB 2026）完整指南：开幕游行时间、主会场交通与文](https://images.gobaligo.id/images/2026-06/1781317963625-pkb2021b.jpeg)
 
 ## 2026 巴厘岛艺术节：基本信息
 
@@ -54,13 +54,13 @@ Update: 2026/06/13
 
 #### 1. 震撼人心的开幕大巡游（Peed Aya）
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781318015720-pesta-kesenian-bali-ke-46-1byl9-dom.jpg)
+![1. 震撼人心的开幕大巡游（Peed Aya）](https://images.gobaligo.id/images/2026-06/1781318015720-pesta-kesenian-bali-ke-46-1byl9-dom.jpg)
 
 艺术节于 6 月 13 日盛大揭幕！开幕最经典的便是位于登巴萨 Bajra Sandhi 纪念碑前的「Peed Aya cultural parade」（文化大巡游）。今年更有超过 20,000 名艺术家与表演者共襄盛举。最令人动容的是，巡游队伍中出现了大量年轻一代与孩童的面孔，展现了巴厘岛文化生命力的薪火相传。伴随着传统甘美朗（Gamelan）音乐的隆隆乐声，数千名身着华丽传统服饰的岛民夹道游行，场面极具震撼力。
 
 #### 2. 马拉松式的甘美朗与传统舞蹈对决
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781318117923-seni1.webp)
+![2. 马拉松式的甘美朗与传统舞蹈对决](https://images.gobaligo.id/images/2026-06/1781318117923-seni1.webp)
 
 在为期一个月的节庆中，登巴萨艺术中心天天都有惊喜。来自巴厘岛各个行政区（Regencies）与村落（Banjars）的顶尖乐舞团体将在此展开「文化对决」。你可以欣赏到极具张力的克恰舞（Kecak）、优雅的黎弓舞（Legong），以及各乐团间技巧纯熟、火花四射的甘美朗音乐比拼。
 
@@ -72,7 +72,7 @@ Update: 2026/06/13
 
 #### 4. 手工艺与世界文化交流展
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781318412419-crafts-and-produce-on-vacation.jpg)
+![4. 手工艺与世界文化交流展](https://images.gobaligo.id/images/2026-06/1781318412419-crafts-and-produce-on-vacation.jpg)
 
 除了动态表演，艺术中心内也设有大型展览区，展示巴厘岛引以为傲的木雕、编织（Ikat/Batik）和传统绘画。此外，今年的「世界文化庆典」（Bali World Culture Celebration）也邀请了国际艺术团体前来交流，展现多元文化的碰撞。
 
@@ -105,7 +105,7 @@ Update: 2026/06/13
 
 ### 结语
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781318485016-foto-sipa-pkb-bali-0.png)
+![结语](https://images.gobaligo.id/images/2026-06/1781318485016-foto-sipa-pkb-bali-0.png)
 
 相较于专为观光客设计的定型化商业表演，巴厘岛艺术节（PKB）是一场**由当地人民为自己的文化与信仰而舞**的真正盛宴。如果你刚好在这段期间造访巴厘岛，请务必将登巴萨艺术中心排入你的行程中。
 

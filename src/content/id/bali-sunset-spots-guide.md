@@ -32,7 +32,7 @@ _srcHash: 2d202f88c4914fe6f66099c1deda6bab
 
 ## Waktu Sunset di Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_231febd4ab153a9d1e05dfaf75ce3f24.png)
+![Waktu Sunset di Bali](https://images.gobaligo.id/vocus/vocus_231febd4ab153a9d1e05dfaf75ce3f24.png)
 
 Waktu sunset di Bali berubah-ubah tergantung musim, biasanya antara jam 18:00 sampai 18:45 WITA. Karena Bali dekat khatulistiwa, perbedaan waktunya nggak terlalu besar. Tapi karena Bali ada di selatan khatulistiwa, sunset di bulan Desember-Januari agak lebih lambat. Buat cek waktu tepatnya di tanggal tertentu, kamu bisa pakai website atau aplikasi cuaca yang kasih info sunrise-sunset.
 

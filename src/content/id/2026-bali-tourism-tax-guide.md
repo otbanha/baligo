@@ -43,7 +43,7 @@ Sejak 14 Februari 2024, **Bali** menerapkan kebijakan baru yaitu **Pajak Wisata 
 
 Dinas Pariwisata setempat bilang, proses bayar pajak ini nggak sampai 23 detik. Sangat disarankan bayar duluan sebelum berangkat.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776095669943-mixcollage-13-apr-2026-10-53-pm-603.jpg)
+![Mulai 14/2/2024, ke Bali wajib keluar biaya tambahan sekitar](https://images.gobaligo.id/images/2026-04/1776095669943-mixcollage-13-apr-2026-10-53-pm-603.jpg)
 
 ## Kalau Island Hopping, Bayar Lagi Nggak Sih?
 

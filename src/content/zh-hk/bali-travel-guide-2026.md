@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: b3882a6decf7549c87ab3baab704b975
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5ec06768be3729d47ff16e75a3e87684.jpg)
+![2026年峇里島自由行｜行前終極指南：出發前必睇 7 大重點！簽證、找換、住宿、電壓/轉換插頭...一次過搞掂](https://images.gobaligo.id/vocus/vocus_5ec06768be3729d47ff16e75a3e87684.jpg)
 
 2026 年 Tripadvisor 網友評選第一嘅度假勝地——**峇里島**，你準備好未？🏝️ 無論係想去烏布感受梯田寧靜，定係喺坎古體驗衝浪派對，呢條片為你整理咗「2026 峇里島行前終極指南」！
 
@@ -77,7 +77,7 @@ https://youtu.be/H5N5_UuK7TI
 
 ### 住宿推薦
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cb23993cde9c417ee4093fb3bd3de849.jpg)
+![住宿推薦](https://images.gobaligo.id/vocus/vocus_cb23993cde9c417ee4093fb3bd3de849.jpg)
 
 我哋推薦嘅峇里島住宿都係無負評嘅優質住宿，仲經過詳細嘅分區/分類整理。要搵峇里島住宿嘅朋友一定唔可以錯過！請撳[呢度](/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 
@@ -104,7 +104,7 @@ https://youtu.be/H5N5_UuK7TI
 
 ## 推薦深度體驗
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7158202f82112fc1d0f02beb30599cff.jpg)
+![推薦深度體驗](https://images.gobaligo.id/vocus/vocus_7158202f82112fc1d0f02beb30599cff.jpg)
 
 ### 水明漾/坎古手作坊
 
@@ -134,7 +134,7 @@ https://youtu.be/H5N5_UuK7TI
 
 ### 瑜伽課程
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c2fe019bafedc7eb5860b11c5d97ceea.jpg)
+![瑜伽課程](https://images.gobaligo.id/vocus/vocus_c2fe019bafedc7eb5860b11c5d97ceea.jpg)
 
 - [Canggu Yoga Centre瑜伽體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F86228-yoga-class-yoga-class-canggu-yoga-centre-pererenan-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc17fc7f020)
 - [Guan Yin瑜伽體驗](https://www.klook.com/zh-TW/activity/96815-yoga-experience-guan-yin-yoga-shala-canggu/?spm=SearchResult.SearchResult_LIST&clickId=ecbfdfbfb1)
@@ -146,7 +146,7 @@ https://youtu.be/H5N5_UuK7TI
 
 ### 戶外活動
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b9d08056ca87707c17ba42c41712d2da.png)
+![戶外活動](https://images.gobaligo.id/vocus/vocus_b9d08056ca87707c17ba42c41712d2da.png)
 
 峇里島唔單止有靚到爆嘅沙灘同豪華度假村，仲隱藏咗好多唔同類型嘅戶外活動，等緊鍾意冒險嘅旅人嚟發掘。無論你係想搵刺激嘅冒險家，定係想喺大自然入面放鬆身心嘅旅行者，峇里島都可以滿足到你嘅需求。以下係六大分類，總共50種熱門戶外活動，請撳[呢度](/blog/bali-top-50-outdoor-activities/)。
 

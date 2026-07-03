@@ -48,11 +48,11 @@ Our car took us to the Jeep starting point, where we switched vehicles. After an
 
 The most delightful surprise was how he guided us to strike various 'Instagram-worthy' poses. 'Look to the left! Rest your hands naturally on your knees! Raise your arms!' It has to be said, locals truly know best when it comes to capturing stunning volcano shots!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2548f4b65016cb5cef84dc3c7e33a73b.jpg)
+![The Magical Moment of Volcanic Sunrise](https://images.gobaligo.id/vocus/vocus_2548f4b65016cb5cef84dc3c7e33a73b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ed3565f3c65cba330867a9465af3308d.jpg)
+![The Magical Moment of Volcanic Sunrise](https://images.gobaligo.id/vocus/vocus_ed3565f3c65cba330867a9465af3308d.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_461bde39900fa14c25d20ebbc554c6fc.jpg)
+![The Magical Moment of Volcanic Sunrise](https://images.gobaligo.id/vocus/vocus_461bde39900fa14c25d20ebbc554c6fc.jpg)
 
 **The best part of this tour? Your guide will take complimentary sunrise photos for you!** They know all the best angles and will position you beside the jeep or **even climb atop the vehicle** to capture that adventurous 'volcano sunrise masterpiece'.
 
@@ -64,7 +64,7 @@ After watching the sunrise, we headed to Paperhills Cafe, included in the tour. 
 
 Interestingly, I met two other Taiwanese girls who had also just watched the sunrise. We exchanged stories about our jeep adventures!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_36abb17e76dcf903be948e0b5ecd4a4f.jpg)
+![Unexpected Bonus: A Healing Moment at Paperhills Cafe](https://images.gobaligo.id/vocus/vocus_36abb17e76dcf903be948e0b5ecd4a4f.jpg)
 
 ### **4. Optional Add-On: Ubud Sightseeing**
 
@@ -72,11 +72,11 @@ If you choose the **'Sunrise Jeep + Ubud Tour'** package, you'll also visit:
 
 - **Tegalalang Rice Terrace**: Bali's most famous rice terrace landscape.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f7521c2109d0f81313a9289b3b3ccec0.jpg)
+![4. Optional Add-On: Ubud Sightseeing](https://images.gobaligo.id/vocus/vocus_f7521c2109d0f81313a9289b3b3ccec0.jpg)
 
 - **Tukad Cepung Waterfall**: A dreamy waterfall hidden within a cave, perfect for photos when sunlight filters through!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b495d43fc3c4658844ab8c165bd29a1.jpg)
+![4. Optional Add-On: Ubud Sightseeing](https://images.gobaligo.id/vocus/vocus_9b495d43fc3c4658844ab8c165bd29a1.jpg)
 
 {{block:戶外}}
 

@@ -25,7 +25,7 @@ _srcHash: f8eaacd912d22b0d9edb29471c17553d
 
 无论是落地巴厘岛后立即打开地图找路，还是传讯息、分享照片，甚至使用串流影音，都完全无需担心连线品质。Telkomsel 是印尼最大电信商之一，网络覆盖率极广，连在偏远地区都能稳定连线。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5b66848dd0a737c6bd8672f358869385.png)
+![巴厘岛旅游怎能少了 eSIM？](https://images.gobaligo.id/vocus/vocus_5b66848dd0a737c6bd8672f358869385.png)
 
 ---
 
@@ -72,7 +72,7 @@ Klook 提供多种弹性选项，满足不同旅客的需求：
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_77042eb24a47229837fe9c33aaf452aa.png)
+![总结：旅游巴厘岛的最佳上网选择](https://images.gobaligo.id/vocus/vocus_77042eb24a47229837fe9c33aaf452aa.png)
 
 ## **❓FAQ 常见问题解答**
 

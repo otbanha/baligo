@@ -24,7 +24,7 @@ _srcHash: 1898bad9e1b87acdb08e5e1da7b1b24c
 
 Trip kali ini aku rangkum dari saran-saran anggota grup dan pengalamanku sendiri, biar bisa jadi referensi detail buat kalian. Selama perjalanan, kami nginep di tiga hotel berbeda, masing-masing dua malam, plus sewa mobil tiga hari, dan hari terakhir cuma pake jasa antar ke bandara. Yuk, simak cerita dan tips seru dari perjalanan ini!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_31e20a9205edd79820f5422844919002.jpg)
+![【Bali Travel Diary】Liburan Ibu-Anak 7 Hari 6 Malam ke Bali —](https://images.gobaligo.id/vocus/vocus_31e20a9205edd79820f5422844919002.jpg)
 
 ## Rekomendasi Sopir
 
@@ -73,14 +73,14 @@ Selama perjalanan di Ubud, kami sempat dua kali menikmati spa yang menyenangkan.
 Dari Zhang Pingping: Jaens Spa yang oke punya, cuma 2 menit jalan kaki dari Purana.
 
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_67d624142573dbbd6d75d35a99ae4d0a.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_23fee55f2005428d57220df03b707a79.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_d569d6044f389632d132b374fb9e6975.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_75f05f60722f18b1aece6c24a88b1e2c.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f5de5388909625a9761afe9c6e33c9b.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_0a83b4e30e033c6f3cd2f47595122e87.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_aae5c805a79def5e6bafe27b45726c83.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_d085761751cc44080c6a906ecfd6bb0d.jpg)
+![Akomodasi & Spa](https://images.gobaligo.id/vocus/vocus_67d624142573dbbd6d75d35a99ae4d0a.jpg)
+![Akomodasi & Spa](https://images.gobaligo.id/vocus/vocus_23fee55f2005428d57220df03b707a79.jpg)
+![Akomodasi & Spa](https://images.gobaligo.id/vocus/vocus_d569d6044f389632d132b374fb9e6975.jpg)
+![Akomodasi & Spa](https://images.gobaligo.id/vocus/vocus_75f05f60722f18b1aece6c24a88b1e2c.jpg)
+![Akomodasi & Spa](https://images.gobaligo.id/vocus/vocus_9f5de5388909625a9761afe9c6e33c9b.jpg)
+![Akomodasi & Spa](https://images.gobaligo.id/vocus/vocus_0a83b4e30e033c6f3cd2f47595122e87.jpg)
+![Akomodasi & Spa](https://images.gobaligo.id/vocus/vocus_aae5c805a79def5e6bafe27b45726c83.jpg)
+![Akomodasi & Spa](https://images.gobaligo.id/vocus/vocus_d085761751cc44080c6a906ecfd6bb0d.jpg)
 
 ### Eksplorasi Pusat Kota Ubud
 
@@ -128,7 +128,7 @@ Dokumentasi: Zhang Pingping
 
 **Referensi Cepat:** [Panduan 3 Air Terjun Terkenal di Dekat Ubud, Bali: Tegenungan, Kanto Lampo, dan Tukad Cepung](/blog/ubud-waterfalls-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_237f10c60c257d436c2cec2c97feb2c8.jpg)
+![Tegenungan Waterfall](https://images.gobaligo.id/vocus/vocus_237f10c60c257d436c2cec2c97feb2c8.jpg)
 
 Mau tahu lebih banyak tips Ubud? [Klik di sini](/blog/ubud-guide/)
 
@@ -157,19 +157,19 @@ Keesokan harinya, acara bebas di Hotel Kempinski berjalan sangat menyenangkan. K
 Malamnya, kami berenang di kamar hotel mewah ini dan juga menikmati fasilitas sauna hotel.
 
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a4f1c8564da0965559d93ed4a29f0f97.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_6813e166b63cd8699d764cdfa628ec7e.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_c21b96df05c7bc92319f4e704cdded8a.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_ae77aed431a2128c90de25239c34a46f.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_a150244806e7e6502c7ffcd4973e99e0.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_35f5bb940ea879028baf154f07f1941e.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_94db74dbf43c822c176159674e07adc5.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_f07357ac6b300f7dbfd8e559b1a1d9ed.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f2c7ff015dad3938830fd31a4dedacc.jpg)
+![Hotel Kempinski](https://images.gobaligo.id/vocus/vocus_a4f1c8564da0965559d93ed4a29f0f97.jpg)
+![Hotel Kempinski](https://images.gobaligo.id/vocus/vocus_6813e166b63cd8699d764cdfa628ec7e.jpg)
+![Hotel Kempinski](https://images.gobaligo.id/vocus/vocus_c21b96df05c7bc92319f4e704cdded8a.jpg)
+![Hotel Kempinski](https://images.gobaligo.id/vocus/vocus_ae77aed431a2128c90de25239c34a46f.jpg)
+![Hotel Kempinski](https://images.gobaligo.id/vocus/vocus_a150244806e7e6502c7ffcd4973e99e0.jpg)
+![Hotel Kempinski](https://images.gobaligo.id/vocus/vocus_35f5bb940ea879028baf154f07f1941e.jpg)
+![Hotel Kempinski](https://images.gobaligo.id/vocus/vocus_94db74dbf43c822c176159674e07adc5.jpg)
+![Hotel Kempinski](https://images.gobaligo.id/vocus/vocus_f07357ac6b300f7dbfd8e559b1a1d9ed.jpg)
+![Hotel Kempinski](https://images.gobaligo.id/vocus/vocus_9f2c7ff015dad3938830fd31a4dedacc.jpg)
 
 ### 更多努沙杜瓦吃喝玩樂介紹
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
+![更多努沙杜瓦吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
 
 Nusa Dua adalah kawasan di Bali yang terkenal dengan resor mewahnya, punya pantai pasir putih, air laut biru jernih, dan fasilitas wisata yang lengkap. Ini pilihan utama buat kamu yang cari pengalaman kelas atas dan liburan tenang. Di sini juga ada spa top, olahraga air, dan aktivitas santai yang cocok buat seluruh keluarga — surga banget buat semua tipe traveler. Mau tahu lebih banyak tips Nusa Dua? [Klik di sini](/blog/nusa-dua-guide/)
 
@@ -195,7 +195,7 @@ Selanjutnya, kita sampai di Pura Uluwatu. Monyet-monyet di sini galak banget, ja
 
 ### Lebih Banyak Rekomendasi Makan, Minum, dan Main di Uluwatu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_88e1fc85f675618e40236e0e76037d1e.jpg)
+![Lebih Banyak Rekomendasi Makan, Minum, dan Main di Uluwatu](https://images.gobaligo.id/vocus/vocus_88e1fc85f675618e40236e0e76037d1e.jpg)
 
 Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal dengan tebing-tebing spektakuler, pantai yang memesona, dan spot surfing kelas dunia. Suasananya penuh romantisme tropis—cocok banget buat nikmatin sunset dan waktu santai. Kalau kamu juga mau nginep di Uluwatu, cek aja rekomendasi makan, minum, dan main yang udah kami susun rapi biar liburanmu makin seru: [【Panduan Uluwatu】Rekomendasi Tempat Wisata, Makan, Minum, dan Main di Uluwatu](/blog/uluwatu-guide/)
 
@@ -226,14 +226,14 @@ Kami jalan-jalan santai di sekitar, lihat sunset, nikmatin semua fasilitas hotel
 Tergabung di: [Rekomendasi Akomodasi Bali: Panduan Tema Penginapan Mewah di Tepi Pantai Seminyak](/blog/seminyak-beach-resorts-guide/)
 
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_47fc0bf37f298d6acbf3db505b14ae96.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_0723a2cf974601ea45521fe6aa0e33aa.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_adc3b90ca0571caa56c3a873252933ec.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_06f4fcebcfb9cc4ccd4b677df6aafb22.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_fb71ab8adf245802116216e0e77edb9f.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_6938346c6b000687d89ba91d777afafc.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_3460119c4dd6a4954e75dc02009f3b62.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_847f70a16d12bf711a5f6e49cbac0649.jpg)
+![Akomodasi & Sekitar](https://images.gobaligo.id/vocus/vocus_47fc0bf37f298d6acbf3db505b14ae96.jpg)
+![Akomodasi & Sekitar](https://images.gobaligo.id/vocus/vocus_0723a2cf974601ea45521fe6aa0e33aa.jpg)
+![Akomodasi & Sekitar](https://images.gobaligo.id/vocus/vocus_adc3b90ca0571caa56c3a873252933ec.jpg)
+![Akomodasi & Sekitar](https://images.gobaligo.id/vocus/vocus_06f4fcebcfb9cc4ccd4b677df6aafb22.jpg)
+![Akomodasi & Sekitar](https://images.gobaligo.id/vocus/vocus_fb71ab8adf245802116216e0e77edb9f.jpg)
+![Akomodasi & Sekitar](https://images.gobaligo.id/vocus/vocus_6938346c6b000687d89ba91d777afafc.jpg)
+![Akomodasi & Sekitar](https://images.gobaligo.id/vocus/vocus_3460119c4dd6a4954e75dc02009f3b62.jpg)
+![Akomodasi & Sekitar](https://images.gobaligo.id/vocus/vocus_847f70a16d12bf711a5f6e49cbac0649.jpg)
 
 ## 4 Juni: Penjemputan & Kembali ke Taiwan
 
@@ -257,7 +257,7 @@ Yang perlu dicatat, kebanyakan sopir di Bali punya istri dan anak, mereka juga p
 
 **Tambah Line, scan QR Code ya!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_766d02bc312ff09abc32813c4404f189.png)
+![Rekomendasi Sopir Sewaan](https://images.gobaligo.id/vocus/vocus_766d02bc312ff09abc32813c4404f189.png)
 
 Selama perjalanan ke Bali kali ini, aku juga diam-diam memaksa diri buat sedikit meningkatkan kemampuan listening bahasa Inggris. Selamat bergabung di tim latihan listening, kita tumbuh bareng!
 

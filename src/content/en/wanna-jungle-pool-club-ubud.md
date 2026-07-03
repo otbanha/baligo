@@ -34,7 +34,7 @@ When visiting Ubud, the cultural heart of Bali, you absolutely cannot miss this 
 
 ## **Rice Terrace-Inspired Pool Perfectly Blends with Nature**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f6fc53ee9b26048fd4f3d333e111e58f.jpg)
+![Rice Terrace-Inspired Pool Perfectly Blends with Nature](https://images.gobaligo.id/vocus/vocus_f6fc53ee9b26048fd4f3d333e111e58f.jpg)
 
 As soon as you step into Wanna Jungle, you'll be amazed by the unique pool design! The designer ingeniously incorporated Bali's famous rice terrace landscape into the pool's shape. The tiered pools blend harmoniously with the surrounding tropical jungle, making every angle perfect for magazine-worthy photos. The best part? Even if you're not a resort guest, you can purchase a day pass to enjoy this paradise.
 

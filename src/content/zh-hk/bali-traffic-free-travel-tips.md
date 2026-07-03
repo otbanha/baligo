@@ -23,7 +23,7 @@ _srcHash: d1186ca8cc036ae07b90787068bfa5b1
 
 ## **避開混亂嘅交通：最佳渡假地點**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1488ccb642d8606ee135d2f3a8b13875.png)
+![避開混亂嘅交通：最佳渡假地點](https://images.gobaligo.id/vocus/vocus_1488ccb642d8606ee135d2f3a8b13875.png)
 
 峇里島嘅交通問題主要集中喺機場以北嘅地區，例如庫塔（Kuta）同水明漾（Seminyak）。因為呢啲地方係峇里島最受歡迎嘅旅遊區，所以亦成為交通最擠塞嘅地區之一。特別係2024年九月初已經開始嘅輕軌工程，由庫塔IKEA前面嘅停車場開始動工，更加令呢啲地區嘅交通雪上加霜，未來幾年勢必進入「交通黑暗期」。遊客喺呢啲地區需要花費大量時間喺馬路上，影響度假嘅舒適度。
 
@@ -33,7 +33,7 @@ _srcHash: d1186ca8cc036ae07b90787068bfa5b1
 
 ## **Jimbaran（金巴蘭）嘅魅力**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b08e5b845958481bef9a02c0814d1c6.png)
+![Jimbaran（金巴蘭）嘅魅力](https://images.gobaligo.id/vocus/vocus_0b08e5b845958481bef9a02c0814d1c6.png)
 
 金巴蘭位於峇里島國際機場以南，以其較為寧靜嘅環境同美麗嘅海灘聞名。呢度係好多追求放鬆同享受自然風光嘅遊客嘅首選。金巴蘭擁有一系列高質素嘅海鮮餐廳，您可以喺沙灘上享用新鮮嘅海鮮，一邊欣賞夕陽西下嘅美景。除此之外，金巴蘭海灘嘅水質清澈，係游水同玩水嘅理想地點。金巴蘭嘅氣氛相對寧靜，適合家庭同情侶嚟度假。
 
@@ -43,7 +43,7 @@ _srcHash: d1186ca8cc036ae07b90787068bfa5b1
 
 ## **Uluwatu（烏魯瓦圖）嘅壯觀景色**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb8e47da76e2a55442d0b8aaaac0778a.jpg)
+![Uluwatu（烏魯瓦圖）嘅壯觀景色](https://images.gobaligo.id/vocus/vocus_eb8e47da76e2a55442d0b8aaaac0778a.jpg)
 
 烏魯瓦圖以其壯觀嘅懸崖同日落景色而聞名。呢度嘅烏魯瓦圖寺（Pura Luhur Uluwatu）係峇里島最神聖嘅海邊寺廟之一，坐落喺高聳嘅懸崖上，俯瞰印度洋，景色壯麗。喺黃昏時分，你可以喺呢度睇到無與倫比嘅日落美景。此外，烏魯瓦圖亦係衝浪愛好者嘅天堂，擁有世界級嘅衝浪點。呢度嘅氛圍比起庫塔同水明漾更加悠閒，係追求自然美景同戶外活動嘅遊客嘅不二之選。
 
@@ -57,7 +57,7 @@ _srcHash: d1186ca8cc036ae07b90787068bfa5b1
 
 努沙杜瓦位於峇里島嘅東南部，係一個專門為高端度假而設計嘅地區。呢度擁有好多五星級嘅度假村同酒店，提供各種豪華設施同服務。努沙杜瓦嘅海灘細膩柔軟，海水清澈見底，係游水同日光浴嘅絕佳場所。呢度嘅環境非常適合家庭度假，提供豐富嘅活動選擇，包括高爾夫、浮潛同水上運動。努沙杜瓦嘅交通較為順暢，遠離市區嘅喧囂，讓人感受到真正嘅放鬆同愉悅。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7cfdc46e5646664ec23388b6d228c7e2.png)
+![Nusa Dua（努沙杜瓦）嘅高端度假](https://images.gobaligo.id/vocus/vocus_7cfdc46e5646664ec23388b6d228c7e2.png)
 
 延伸閱讀：
 
@@ -69,7 +69,7 @@ _srcHash: d1186ca8cc036ae07b90787068bfa5b1
 
 沙努爾則係另一個適合家庭同追求悠閒氛圍嘅遊客嘅度假勝地。呢度擁有長達五公里嘅沙灘步道，適合早晨散步同踩單車。沙努爾嘅海灘相比庫塔同水明漾更加寧靜，適合游水同享受陽光。沙努爾嘅碼頭亦係前往努沙佩尼達等離島嘅便捷起點，讓你可以輕鬆展開離島探險之旅。此外，沙努爾擁有眾多嘅餐廳同咖啡館，你可以喺呢度品嚐到當地美食同國際料理，享受悠閒嘅假期時光。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ec44f971bdf023bb1dfac84d9a4aa698.png)
+![Sanur（沙努爾）嘅休閒魅力](https://images.gobaligo.id/vocus/vocus_ec44f971bdf023bb1dfac84d9a4aa698.png)
 
 延伸閱讀：
 
@@ -77,7 +77,7 @@ _srcHash: d1186ca8cc036ae07b90787068bfa5b1
 
 ## **沙努爾嘅碼頭同離島旅遊**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6d090748d499c69a3fede3740b99c6d5.jpg)
+![沙努爾嘅碼頭同離島旅遊](https://images.gobaligo.id/vocus/vocus_6d090748d499c69a3fede3740b99c6d5.jpg)
 
 沙努爾有方便嘅碼頭可以去離島。從呢度可以輕鬆去佩尼達島（Nusa Penida）同藍夢島等其他離島。呢啲離島有靚嘅自然景觀同豐富嘅海上活動，而且唔會塞車，係遊客唔可以錯過嘅景點。
 

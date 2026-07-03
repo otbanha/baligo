@@ -18,7 +18,7 @@ _srcHash: 3fab48fb8ef08bccf2f50ca53ba8e20d
 ---
 最近有個重要消息要話俾大家知——峇里島嘅旅遊稅即將進行抽查！呢項新政策已經實施咗成五個星期，而家係時候確保每個遊客都了解同遵守呢個新制度喇。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ba7288e1e422dd5682c5355339280724.jpg)
+![峇里島最新消息：3月26號開始抽查旅遊稅！](https://images.gobaligo.id/vocus/vocus_ba7288e1e422dd5682c5355339280724.jpg)
 
 峇里島旅遊局局長喺最近嘅記者會上宣布咗呢個消息。佢話，新成立嘅旅遊警察單位會由3月26號開始進行抽查，目標係峇里島嘅一啲熱門景點，包括庫塔海灘、烏魯瓦圖廟、海神廟等等。呢啲旅遊警察仲會帶埋佢哋嘅可愛小狗一齊巡邏，呢啲小狗唔單止係警察嘅助手，仲可以成為遊客之間嘅友善開端，令氣氛更加輕鬆愉快。
 
@@ -26,7 +26,7 @@ _srcHash: 3fab48fb8ef08bccf2f50ca53ba8e20d
 
 > 延伸閱讀: [峇里島觀光稅/旅遊稅懶人包：2024年新規定、繳費方式、跳島注意事項一次睇](/blog/2026-bali-tourism-tax-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aedb16fe1f10df555de6e03c79b7719e.png)
+![峇里島最新消息：3月26號開始抽查旅遊稅！](https://images.gobaligo.id/vocus/vocus_aedb16fe1f10df555de6e03c79b7719e.png)
 
 預訂、慳錢就睇呢度：
 

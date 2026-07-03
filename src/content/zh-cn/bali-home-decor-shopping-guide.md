@@ -28,20 +28,20 @@ lang: zh-cn
 _srcHash: 56ff22384070d65e9bc5a1dd511e7722
 ---
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776061962467-mixcollage-13-apr-2026-01-25-pm-4838.jpg)
+![【巴厘岛家居挖宝】贝壳吊灯不到30美元！海运/空运攻略，把南洋度假风扛回家](https://images.gobaligo.id/images/2026-04/1776061962467-mixcollage-13-apr-2026-01-25-pm-4838.jpg)
 
 > 脸书社团团友黄昱宁 实地分享｜真的只有这里才买得到！
 
 来巴厘岛，除了泡Villa、跑景点，**最值得做的事**——
 就是扛一整箱家居装饰品跟工艺品回中国！🎁
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776062071750-mixcollage-13-apr-2026-01-27-pm-5893.jpg)
+![【巴厘岛家居挖宝】贝壳吊灯不到30美元！海运/空运攻略，把南洋度假风扛回家](https://images.gobaligo.id/images/2026-04/1776062071750-mixcollage-13-apr-2026-01-27-pm-5893.jpg)
 
 这些店家**不在景区**，是内行人才知道的路线。
 **价格超级亲民**，只有景区的一半，而且**还可以砍价**！
 （感谢我的包车司机帮我大砍价🥰）
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776062185728-mixcollage-13-apr-2026-01-29-pm-2344.jpg)
+![【巴厘岛家居挖宝】贝壳吊灯不到30美元！海运/空运攻略，把南洋度假风扛回家](https://images.gobaligo.id/images/2026-04/1776062185728-mixcollage-13-apr-2026-01-29-pm-2344.jpg)
 
 {{block:包車}}
 
@@ -52,7 +52,7 @@ _srcHash: 56ff22384070d65e9bc5a1dd511e7722
 一个**不到30美元**⋯⋯
 现在还在想，为什么不再买一个行李箱，装更多回来哈哈哈～
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776062138927-mixcollage-13-apr-2026-01-31-pm-5074.jpg)
+![必买亮点：贝壳吊灯](https://images.gobaligo.id/images/2026-04/1776062138927-mixcollage-13-apr-2026-01-31-pm-5074.jpg)
 
 现在房间布置整个充满巴厘岛风，
 每天都觉得自己好像还在住Villa🌿

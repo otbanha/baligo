@@ -7,7 +7,7 @@ _srcHash: 68c1b5bee34163f984bb60ff60f471d8
 ---
 ## More Ubud Food and Fun
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774669107965-index.jpg)
+![More Ubud Food and Fun](https://images.gobaligo.id/images/2026-03/1774669107965-index.jpg)
 
 Ubud, the cultural and artistic heart of Bali, attracts countless travelers with its lush rice terraces, serene jungles, and rich traditional culture. It's the perfect place to relax and rejuvenate. Whether you're exploring local traditions, enjoying natural beauty, or engaging in exciting outdoor activities, Ubud offers unique experiences that combine delicious food with stunning scenery! Want to learn more about Ubud? Click [here](/blog/ubud-guide/)
 

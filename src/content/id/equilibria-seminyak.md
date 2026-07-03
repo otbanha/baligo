@@ -41,13 +41,13 @@ lang: id
 _srcHash: ab8825b45c62f1235d48400acd7a57b2
 ---
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258261888-b94a7bc5b4bc78f4b2e259f28f8227f0.webp)
+![【Rekomendasi Menginap di Seminyak】Private Villa Romantis Rat](https://images.gobaligo.id/images/2026-04/1776258261888-b94a7bc5b4bc78f4b2e259f28f8227f0.webp)
 
 Dari sekian banyak pilihan akomodasi di Seminyak, eqUILIBRIA Seminyak adalah salah satu yang ratingnya hampir semuanya di atas 9 di berbagai platform. Di Trip.com, 24 tamu berturut-turut kasih ulasan positif, nol ulasan negatif. Di Tripadvisor, dengan 970 ulasan, vila ini stabil di 10 besar area Kerobokan Kelod. Rating Booking.com juga terus tinggi—ini bukan hasil marketing doang, tapi reputasi yang dibangun satu per satu dari tamu asli.
 
 Ini adalah properti butik bintang lima yang terdiri dari 25 vila pribadi, beralamat di Jalan Wirasaba No. 5, tersembunyi di gang kecil dekat Kayu Aya Street (Eat Street). Cuma dua menit jalan kaki dari jalanan ramai, begitu masuk gerbang, kamu langsung disambut dunia halaman bambu yang sunyi. Target pasarnya jelas: pilihan utama untuk bulan madu dan pasangan, plus beberapa fitur yang susah ditolak—layanan butler 24 jam, sarapan gratis sepanjang hari, dan setiap vila punya kolam renang pribadi.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258285471-115868313.jpg)
+![【Rekomendasi Menginap di Seminyak】Private Villa Romantis Rat](https://images.gobaligo.id/images/2026-04/1776258285471-115868313.jpg)
 
 ***
 
@@ -65,7 +65,7 @@ Kesan pertama pas masuk properti ini: 'tenang dan elegan'. Lorong masuk diapit b
 
 Fasilitas umum punya kolam renang utama outdoor yang bisa dipakai semua tamu, dikelilingi patung kayu dan daybed empat tiang, desainnya keren banget. Ada pool bar di sampingnya. SPA center menawarkan pijat, body treatment, facial, waxing, dan layanan lengkap lainnya. Ulasan umumnya kasih rating tinggi untuk suasana SPA, bilang tempatnya tenang dan bikin rileks. Ada juga pusat kebugaran dan sepeda gratis yang bisa dipinjam.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258405078-159668444.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776258405078-159668444.jpg)
 
 Tiga keistimewaan yang wajib disebut: Pertama, **sarapan 24 jam**—bukan prasmanan biasa di jam sarapan, tapi dari jam 4 pagi sampai jam 1 siang kamu bisa minta butler siapin kapan aja. Menunya lengkap, dari masakan Indonesia, Western, sampai opsi vegetarian dan halal. Kedua, selama menginap kamu dapat **kelas masak gratis**. Ketiga, setiap tamu punya nomor hotline butler pribadi yang bisa dihubungi 24 jam, buat panggil taksi, pesan restoran, atau apa pun. Layanan ini jadi pengalaman inti yang sering dipuji di ulasan tamu.
 
@@ -77,61 +77,61 @@ eqUILIBRIA punya tiga tipe vila, semuanya konfigurasi satu kamar tidur plus ruan
 
 **Pool Villa（泳池 Villa）** adalah tipe kamar dasar dengan gaya minimalis modern, didominasi warna putih dan krem dipadukan furnitur kayu gelap. Di dalamnya ada ruang tamu besar, kamar tidur terpisah, dan teras kolam renang pribadi. Ruangannya luas dan pencahayaannya melimpah. Kamar mandi dilengkapi bathtub rendam dan shower hujan. Fasilitasnya termasuk ruang tamu besar, iPad (bisa langsung pesan room service), speaker Bose, dan konsol game.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258550202-052fb5887c707eb5b4d9a69fa775f702.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258550202-052fb5887c707eb5b4d9a69fa775f702.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258550788-290011_17092110170056672961.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258550788-290011_17092110170056672961.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258551157-290011_17092110170056672976.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258551157-290011_17092110170056672976.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258551598-290011_17092110170056672991.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258551598-290011_17092110170056672991.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258552514-290011_17092110340056674458.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258552514-290011_17092110340056674458.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258552949-113840027.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258552949-113840027.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258553357-159668484.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258553357-159668484.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258553832-710708804f90d911cd5470bbf3dec6e8.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258553832-710708804f90d911cd5470bbf3dec6e8.webp)
 
 **Waterfall Villa（Air Terjun Villa）** adalah opsi upgrade paling populer. Yang paling unik adalah ada aliran air dari teras yang mengalir ke taman air di samping kamar tidur—tidur sambil dengar suara air, visualnya terasa mewah banget. Tipe kamar ini punya dua lantai: ruang tamu dan dapur di atas, kamar tidur dan kolam renang di bawah, dihubungkan oleh jalan setapak luar. Perlu diingat, kalau hujan atau malam hari, naik-turun lantai harus lewat luar. Beberapa tamu merasa agak kurang nyaman, jadi pastikan kamu paham konsep ini sebelum booking.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258697673-7ddc5181ec57193dca42772ee96ad824.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258697673-7ddc5181ec57193dca42772ee96ad824.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258698659-51815be6ead6e4487b048d273f25131e.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258698659-51815be6ead6e4487b048d273f25131e.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258700066-290011_17092110170056672958.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258700066-290011_17092110170056672958.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258700467-290011_17092110170056672960.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258700467-290011_17092110170056672960.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258700944-290011_17092110170056672968.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258700944-290011_17092110170056672968.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258701462-290011_17092110170056672969.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258701462-290011_17092110170056672969.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258701922-290011_17092110170056672977.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258701922-290011_17092110170056672977.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258702372-290011_17092110170056672983.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258702372-290011_17092110170056672983.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258703216-290011_17092110170056672984.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258703216-290011_17092110170056672984.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258704424-290011_17092110170056672986.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258704424-290011_17092110170056672986.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258704883-d25051f6cb00ce91cf8de65d59ec3c0e.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258704883-d25051f6cb00ce91cf8de65d59ec3c0e.webp)
 
 **Signature Villa（Villa Pilihan）** adalah tipe kamar terbesar, luasnya di atas 80 meter persegi. Desainnya punya lebih banyak detail romantis dan perlengkapan tempat tidur premium, cocok untuk bulan madu atau momen spesial.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258843488-2ceba73da05b3c07fd0648e87d16fd12.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258843488-2ceba73da05b3c07fd0648e87d16fd12.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258843993-89419f46bcf51b59611a8d20092b49be.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258843993-89419f46bcf51b59611a8d20092b49be.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258844367-290011_17092110170056672954.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258844367-290011_17092110170056672954.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258845012-290011_17092110170056672962.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258845012-290011_17092110170056672962.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258845458-290011_17092110170056672971.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258845458-290011_17092110170056672971.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258846128-290011_17092110170056672989.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258846128-290011_17092110170056672989.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776258846548-159668523.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776258846548-159668523.jpg)
 
 Ketiga tipe kamar ini menerapkan lingkungan digital tanpa kertas, semua dikendalikan lewat iPad. Mengusung desain ramah lingkungan, properti ini juga punya banyak penghargaan internasional terkait arsitektur hijau dan penginapan eco-friendly.
 
@@ -149,7 +149,7 @@ Sepasang tamu bulan madu tahun 2025 berbagi di Tripadvisor, salah satu alasan me
 
 Tamu lain memuji butler pribadi Risky, Kiki, dan Heri yang membantu mengatur transportasi, pesan restoran, siapkan sarapan—seperti asisten pribadi yang melayani penuh waktu. Dia bilang ini pengalaman Villa terbaik yang pernah dia rasakan di Bali, dan sudah pasti akan kembali lagi.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776259087114-unnamed.jpeg)
+![Ulasan Nyata Tamu](https://images.gobaligo.id/images/2026-04/1776259087114-unnamed.jpeg)
 
 ***
 

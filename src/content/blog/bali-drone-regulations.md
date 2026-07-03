@@ -43,7 +43,7 @@ embeds: []
 
 ## 1. 我需要申請許可嗎？
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776665614492-screenshot_2026-04-20-13-11-40-656_md.obsidian-edit.jpg)
+![1. 我需要申請許可嗎？](https://images.gobaligo.id/images/2026-04/1776665614492-screenshot_2026-04-20-13-11-40-656_md.obsidian-edit.jpg)
 
 **好消息**：99% 的旅客都符合「不需要申請」這一欄！
 
@@ -89,7 +89,7 @@ https://youtube.com/shorts/i7GCuR3uI-k?si=ZgiVYpUZYHojqrKY
 - 注意當地傳統風箏季節（尤其 6-8 月）
 - 強烈建議買無人機保險（掉海裡或砸到人都有保障）
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776664958144-20260420_055753_0_utc_0.png)
+![5. 峇里島飛行實用 Tips（讓你飛得更順、更美）](https://images.gobaligo.id/images/2026-04/1776664958144-20260420_055753_0_utc_0.png)
 
 ## 常見問題 Q&A
 

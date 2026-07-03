@@ -33,7 +33,7 @@ lang: zh-hk
 _srcHash: 5f335483e9da7c04792d85049139d068
 ---
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775535786474-5d46ab2d758906f0d426180ffab41ee1.webp)
+![【水明漾住宿推薦】設計感同永續兼備嘅精品住宿 — iSuite by Ekosistem](https://images.gobaligo.id/images/2026-04/1775535786474-5d46ab2d758906f0d426180ffab41ee1.webp)
 
 如果你喺 Petitenget 搵過酒店，就知道呢一帶唔缺選擇——但係可以同時做到設計感強、位置好、仲唔會令你住到後悔嘅，講真唔多。iSuite by Ekosistem 就係呢種少數派。成間酒店得 21 間房，2025 年 4 月先啱啱開幕，走嘅係精品設計路線，背後嘅集團 Ekosistem 喺峇里島本來就有做 eco-retreat 同 villa 嘅口碑，呢間係佢哋第一間精品酒店。淨係聽到呢個背景，你就知道佢哋唔係隨便開嘅。
 
@@ -49,41 +49,41 @@ _srcHash: 5f335483e9da7c04792d85049139d068
 
 ## 🏨 設施介紹
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775535934771-664342259.jpg)
+![設施介紹](https://images.gobaligo.id/images/2026-04/1775535934771-664342259.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775535935215-668143893_122126294913004145_8643627753484503878_n.jpg)
+![設施介紹](https://images.gobaligo.id/images/2026-04/1775535935215-668143893_122126294913004145_8643627753484503878_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775535936124-668716412_122126295129004145_6641661748948024100_n.jpg)
+![設施介紹](https://images.gobaligo.id/images/2026-04/1775535936124-668716412_122126295129004145_6641661748948024100_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775535936493-c83354f131287da7f4bb57a0b458807b.webp)
+![設施介紹](https://images.gobaligo.id/images/2026-04/1775535936493-c83354f131287da7f4bb57a0b458807b.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775535936986-0c9bff2c472146bc60dd00f879dd4e2b.webp)
+![設施介紹](https://images.gobaligo.id/images/2026-04/1775535936986-0c9bff2c472146bc60dd00f879dd4e2b.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775535937494-661482232_122126294805004145_2665399475990596330_n.jpg)
+![設施介紹](https://images.gobaligo.id/images/2026-04/1775535937494-661482232_122126294805004145_2665399475990596330_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775535937966-661648844_122126294979004145_5945127072041047138_n.jpg)
+![設施介紹](https://images.gobaligo.id/images/2026-04/1775535937966-661648844_122126294979004145_5945127072041047138_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775535938416-662347245_122126295045004145_7255131367923338945_n.jpg)
+![設施介紹](https://images.gobaligo.id/images/2026-04/1775535938416-662347245_122126295045004145_7255131367923338945_n.jpg)
 
 行入大廳嘅第一印象係安靜、乾淨，而且好有被設計過嘅感覺——唔係嗰種砸錢硬裝豪華嘅感覺，而係每個細節都有思考過嘅質感。入住後服務人員會親自帶你到房做導覽介紹，椰子迎賓飲料奉上，check-in 流程俐落，完全唔拖。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775536017905-664342267.jpg)
+![設施介紹](https://images.gobaligo.id/images/2026-04/1775536017905-664342267.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775536019131-666498788_122126295027004145_8360501388970250401_n.jpg)
+![設施介紹](https://images.gobaligo.id/images/2026-04/1775536019131-666498788_122126295027004145_8360501388970250401_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775536019541-b01f6c937d1e38ee0e9b8a0d2171948d.webp)
+![設施介紹](https://images.gobaligo.id/images/2026-04/1775536019541-b01f6c937d1e38ee0e9b8a0d2171948d.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775536020257-663108542_122126295117004145_4916053693805825841_n.jpg)
+![設施介紹](https://images.gobaligo.id/images/2026-04/1775536020257-663108542_122126295117004145_4916053693805825841_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775536020803-sky.jpg)
+![設施介紹](https://images.gobaligo.id/images/2026-04/1775536020803-sky.jpg)
 
 公共設施方面，泳池喺頂樓（rooftop），配搭一個日頭營業嘅泳池吧。有一點要講：夜晚去睇泳池，水色可能睇落稍微混濁，但係根據住客描述應該係夜晚燈光問題，建議日頭去浸。Spa 有三間療程室，酒店住客享有 **30% 折扣**，呢個折扣幅度都幾大，按摩嘅評價都幾好，值得排進行程。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775536151413-664377564.jpg)
+![設施介紹](https://images.gobaligo.id/images/2026-04/1775536151413-664377564.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775536151815-664338441.jpg)
+![設施介紹](https://images.gobaligo.id/images/2026-04/1775536151815-664338441.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775536152710-664337761.jpg)
+![設施介紹](https://images.gobaligo.id/images/2026-04/1775536152710-664337761.jpg)
 
 另外，下晝 3–5 點有免費 Afternoon Tea，甜品同茶點仲可以送到房，呢個服務細節好加分。每完成一筆訂房，酒店就種一棵紅樹林樹苗，仲附上一張紀念小卡，永續理念唔只係口號，有喺實際執行。
 
@@ -93,27 +93,27 @@ _srcHash: 5f335483e9da7c04792d85049139d068
 
 全館 21 間都係 Suite 規格。房間空間相當闊落，最搶眼嘅當然係嗰個獨立式蛋形浴缸——直接擺喺房間正中央，浴缸大到可以兩個人一齊浸，熱水穩定。浴室同睡房用百葉拉門隔開，私隱同通透感拿捏得啱啱好，就算同朋友一齊住都唔會尷尬。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775536082662-16e27da50381595008dc267f7ab53797.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1775536082662-16e27da50381595008dc267f7ab53797.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775536083056-38a6a82f06e345b98538672584936f7e.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1775536083056-38a6a82f06e345b98538672584936f7e.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775536083806-632c83a9d4285ce1921722bdb23d1869.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1775536083806-632c83a9d4285ce1921722bdb23d1869.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775536084343-661163108_122126294949004145_7040113822405587110_n.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1775536084343-661163108_122126294949004145_7040113822405587110_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775536085018-661630011_122126295075004145_8130586924539967198_n.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1775536085018-661630011_122126295075004145_8130586924539967198_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775536085658-662478064_122126294955004145_3286883749997100908_n.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1775536085658-662478064_122126294955004145_3286883749997100908_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775536086251-663297228_122126295087004145_5476992377309307142_n.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1775536086251-663297228_122126295087004145_5476992377309307142_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775536086705-664351553.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1775536086705-664351553.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775536087061-664351659.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1775536087061-664351659.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775536087715-668120355_122126295015004145_4226281698853042175_n.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1775536087715-668120355_122126295015004145_4226281698853042175_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775536088070-e453bbe333cd2bcb8ddc5de85a8aaa51.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1775536088070-e453bbe333cd2bcb8ddc5de85a8aaa51.webp)
 
 細節配備比想像中豐富：迷你吧免費飲（但飲完唔會補）、玻璃樽裝礦泉水無限補、小食同生果、雙洗手盆、免治馬桶、雨淋花灑加手持花灑、智能電視、JBL 藍牙喇叭（內置鬧鐘，呢個設計好實用）、全球通用插座、仲有一支刷牙專用礦泉水。房間燈光氛圍亦特別被住客讚賞，整體質感細節遠超同價位選擇。
 

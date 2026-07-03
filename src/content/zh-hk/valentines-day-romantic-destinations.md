@@ -20,7 +20,7 @@ _srcHash: 6d00bc3132489c8e76d625fd72338930
 
 玫瑰花、蛋糕、朱古力，仲有浪漫嘅旅行地點，二月十四日嘅西洋情人節，你知道今年全世界最受歡迎嘅情人節旅遊目的地係邊啲城市嗎？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa2d254bf0cc097ffe98b22e6d6fde35.jpg)
+![情人節浪漫指南：Agoda評選嘅2024年十大國際浪漫旅遊目的地！](https://images.gobaligo.id/vocus/vocus_aa2d254bf0cc097ffe98b22e6d6fde35.jpg)
 
 呢份最浪漫目的地清單係由Agoda旅行平台編排嘅。佢哋根據情人節期間情侶們嘅旅行偏好，公佈咗現時最受歡迎嘅十個國際城市嘅旅遊目的地。
 
@@ -28,7 +28,7 @@ _srcHash: 6d00bc3132489c8e76d625fd72338930
 
 除此之外，印尼嘅峇里島亦喺清單之中。仲有布吉島，兩個擁有多樣海灘景點嘅城市。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6215ad9ad25ef58453bfc1181abcabf6.png)
+![情人節浪漫指南：Agoda評選嘅2024年十大國際浪漫旅遊目的地！](https://images.gobaligo.id/vocus/vocus_6215ad9ad25ef58453bfc1181abcabf6.png)
 
 情人節對情侶們嚟講係創造新回憶嘅絕佳機會。你想同你嘅愛侶度過難忘嘅浪漫之旅嗎？可以參考一下：
 

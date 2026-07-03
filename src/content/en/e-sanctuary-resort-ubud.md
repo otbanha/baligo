@@ -57,9 +57,9 @@ Sunlight filters through the eaves, and the air is filled with the scent of bamb
 
 E Sanctuary Resort’s entertainment facilities strike a perfect balance between Bali’s vibrant energy and serene atmosphere. The stylish bar serves a variety of cocktails and local drinks, perfect for a sunset drink or mingling with fellow travelers. For deeper relaxation, don’t miss the **hot tub** and **in-house aromatherapy massage**. Beyond that, the resort features beautifully designed garden paths, ideal for a peaceful stroll or quiet meditation.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4cfb697244d585954481c0e6cb6cd0ed.jpg)
+![Exquisite Design and Warm Service for a Cozy Stay](https://images.gobaligo.id/vocus/vocus_4cfb697244d585954481c0e6cb6cd0ed.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b5de08954c687682d64c816803f1b5a.jpg)
+![Exquisite Design and Warm Service for a Cozy Stay](https://images.gobaligo.id/vocus/vocus_9b5de08954c687682d64c816803f1b5a.jpg)
 
 ***
 
@@ -143,7 +143,7 @@ Based on guest reviews, E Sanctuary Resort boasts an impressive **overall rating
 
 ### **"Peaceful Environment"**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f2dc92d1758f24890a3ab700136ffe98.jpg)
+!["Peaceful Environment"](https://images.gobaligo.id/vocus/vocus_f2dc92d1758f24890a3ab700136ffe98.jpg)
 
 The location is very quiet, about 20 to 30 minutes from central Ubud (even though it's not far, locals use Grab for transfers). The private villa we stayed in was very comfortable. If you don't like insects, I'd recommend a standard hotel, but honestly, most resorts in Ubud have plenty of bugs. The staff here are incredibly friendly, and overall, it's a **great value resort**.
 
@@ -151,7 +151,7 @@ The location is very quiet, about 20 to 30 minutes from central Ubud (even thoug
 
 ### **"An Amazing Stay"**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_387ed487a9af0154c0a5b51c578ef9ac.jpg)
+!["An Amazing Stay"](https://images.gobaligo.id/vocus/vocus_387ed487a9af0154c0a5b51c578ef9ac.jpg)
 
 For us, this stay was an unforgettable experience. Shortly after we checked in, the entire island of Bali had a sudden blackout—we almost thought we'd have to shower with pool water, but luckily the power was restored in less than an hour. If you can handle a few small bugs and the slightly less convenient entrance, I think this hotel has almost no downsides.
 
@@ -159,7 +159,7 @@ The staff are very warm, and the hotel is deeply connected to nature. If I had n
 
 ### **"Exceptional Service"**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e492fe2e062f7bcadc152efc4a72a5cc.jpg)
+!["Exceptional Service"](https://images.gobaligo.id/vocus/vocus_e492fe2e062f7bcadc152efc4a72a5cc.jpg)
 
 The service here is truly outstanding—the staff are friendly and always ready to help.
 
@@ -169,7 +169,7 @@ Our room was spacious and elegant, making us feel like we were staying in our ow
 
 ## More Ubud Villa Introductions
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a30b2c12d987f7f2f04e8d47f429fb9d.png)
+![More Ubud Villa Introductions](https://images.gobaligo.id/vocus/vocus_a30b2c12d987f7f2f04e8d47f429fb9d.png)
 
 Want to experience a dreamy vacation? 🌴 Ubud pool villas offer you the ultimate luxury and relaxation! Private pools, stunning scenery, top-notch amenities—everything designed for your perfect getaway. Click [here](/blog/ubud-villa-pool-guide/) to explore more of our recommended Ubud pool villas and their unique charm, and start your exclusive vacation journey! ✨
 

@@ -34,7 +34,7 @@ On the same day, another tragedy occurred at Bingin Beach in Uluwatu. A tourist 
 
 Further Reading: Uluwatu's Hidden Beach [Uluwatu Attractions: 47 Recommendations for Food, Drinks, and Fun](/blog/uluwatu-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e535492ebd1e221d48aa49d449d3fde.png)
+![Safety Alert for Bali's Two Popular Tourist Spots!](https://images.gobaligo.id/vocus/vocus_3e535492ebd1e221d48aa49d449d3fde.png)
 
 These two incidents have sparked widespread concern among local residents and tourism operators regarding tourist safety. Although officials on Nusa Penida have promised to enhance safety measures at tourist sites, local politicians and tourism industry leaders are urging the government to expedite the implementation of stricter safety regulations to protect visitors' lives. They believe that relevant departments need to strengthen cooperation and coordination to establish unified safety standards for these popular tourist destinations to prevent similar tragedies from recurring.
 

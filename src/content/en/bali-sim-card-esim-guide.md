@@ -71,7 +71,7 @@ Below is the complete guide for those who want to dive deeper.
 
 ### Telkomsel (Widest Coverage, Top Choice for Travelers)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779239732579-af57c619fd217399aaa52c62626b953e.jpg)
+![Telkomsel (Widest Coverage, Top Choice for Travelers)](https://images.gobaligo.id/images/2026-05/1779239732579-af57c619fd217399aaa52c62626b953e.jpg)
 
 Indonesia's largest telecom provider, with a market share of around 55%. In various areas of Bali, including mountainous villages like Amed, Munduk, and Sidemen, Telkomsel's 4G signal is the most stable among the three major providers.
 
@@ -117,7 +117,7 @@ In Seminyak and Kuta, XL's 4G speeds sometimes surpass Telkomsel, but coverage b
 
 ### Recommended Scenarios for Each Brand
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779239791356-1301665_720.jpg)
+![Recommended Scenarios for Each Brand](https://images.gobaligo.id/images/2026-05/1779239791356-1301665_720.jpg)
 
 **Klook eSIM** — Highly recommended for first-time eSIM users. Purchase directly from the Taiwan website with a Chinese interface and customer support, ensuring smooth communication if issues arise. Flexible data plans, with 5 days 3GB costing around USD$8–11, offering great value comparable to Airalo. 📎 [Klook Bali SIM/eSIM](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1280819&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520sim)
 
@@ -139,7 +139,7 @@ In Seminyak and Kuta, XL's 4G speeds sometimes surpass Telkomsel, but coverage b
 
 ## Where to Buy Physical SIM Cards—Complete Guide
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779240020594-e5c025ea6a97e3839ab39d4ff832db68.jpg)
+![Where to Buy Physical SIM Cards—Complete Guide](https://images.gobaligo.id/images/2026-05/1779240020594-e5c025ea6a97e3839ab39d4ff832db68.jpg)
 
 ### 1. Buy at Bali Airport (DPS)
 
@@ -208,7 +208,7 @@ Gobaligo has compiled a map of **official Telkomsel, Indosat, and XL stores** ac
 
 ## Complete Installation Guide
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779240073782-069909000_1519793545-where-to-buy-sim-card-in-ho-chi-minh.webp)
+![Complete Installation Guide](https://images.gobaligo.id/images/2026-05/1779240073782-069909000_1519793545-where-to-buy-sim-card-in-ho-chi-minh.webp)
 
 ### iPhone eSIM Installation
 
@@ -272,7 +272,7 @@ Using a Bali SIM for Internet While Keeping Your Taiwan Number for Calls:
 
 ## Cost Comparison Table (May 2026)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779240159646-16b26247f129650058de3f56b7be640d.jpg)
+![Cost Comparison Table (May 2026)](https://images.gobaligo.id/images/2026-05/1779240159646-16b26247f129650058de3f56b7be640d.jpg)
 
 Below is a comparison of actual costs for various plans:
 

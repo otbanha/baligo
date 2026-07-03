@@ -46,7 +46,7 @@ After sensing their skepticism, the driver began to negotiate his own price, eve
 
 **Tips and Advice**: When using ride-hailing apps like Grab, remain vigilant if drivers attempt to upsell services like private car hires. If a driver requests cash payment, avoid falling into the trap of not receiving exact change. Additionally, document any unpleasant experiences during your trip and promptly report them to the platform to help improve service quality.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_606a8a4395b4fdaae837688326b106ac.png)
+![Story 2: Car Rental Upsell Trick](https://images.gobaligo.id/vocus/vocus_606a8a4395b4fdaae837688326b106ac.png)
 
 These firsthand experiences shared by travelers aim to provide useful insights. While ride-hailing platforms are generally convenient and the likelihood of encountering problematic drivers is low, maintaining caution during your travels is always advisable.
 

@@ -7,7 +7,7 @@ _srcHash: b4f2a81ada4873c87feddbf9b5b83cee
 ---
 ## 更多沙努尔吃喝玩乐介绍
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774670853077-index.png)
+![更多沙努尔吃喝玩乐介绍](https://images.gobaligo.id/images/2026-03/1774670853077-index.png)
 
 沙努尔（Sanur）是巴厘岛上一个充满宁静气息的海滨小镇，以平静的沙滩、悠闲的氛围和壮丽的日出景色著称。这里拥有适合家庭的度假村、传统市场以及丰富的当地美食，是享受慢生活与探索文化的理想之地。无论是漫步海岸线还是感受当地风情，沙努尔都能带给您无比放松的假期体验！想了解更多沙努尔攻略？请点击[这里](/blog/sanur-guide/)
 

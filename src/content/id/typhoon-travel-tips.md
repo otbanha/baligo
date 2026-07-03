@@ -26,7 +26,7 @@ Mulai Juni setiap tahunnya, Taiwan dan kawasan Asia memasuki musim angin topan y
 
 Tapi tenang aja, asal persiapan sebelumnya matang, risiko bisa ditekan banget, dan liburan jadi lebih nyaman.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ef24ed91fc095869c613bcf7510c0920.jpg)
+![Liburan Pas Musim Angin Topan? Persiapan Matang Sebelum Bera](https://images.gobaligo.id/vocus/vocus_ef24ed91fc095869c613bcf7510c0920.jpg)
 
 ---
 
@@ -60,7 +60,7 @@ Saran download aplikasi resmi maskapai dari sekarang, dan simpan nomor customer 
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3296188a90670c29043b2d367e9bef2e.jpg)
+![Simpan kontak maskapai dan platform booking](https://images.gobaligo.id/vocus/vocus_3296188a90670c29043b2d367e9bef2e.jpg)
 
 ## Peringatan cuaca: pantau prakiraan cuaca itu basic banget
 

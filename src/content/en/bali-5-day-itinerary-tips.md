@@ -29,7 +29,7 @@ _srcHash: eb3828f87e95af9954c37b1dc5540211
 
 Although this Bali trip was only 5 days and 4 nights, it felt like the actual playtime was too short after deducting the travel days at both ends! This itinerary was more tiring and not the kind of relaxing vacation. Bali's traffic is prone to congestion, so it's recommended to get up early to fit in more activities.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6f99182573787e91e20458dab3da02a4.jpg)
+![Bali 5 Days 4 Nights Detailed Travel Guide](https://images.gobaligo.id/vocus/vocus_6f99182573787e91e20458dab3da02a4.jpg)
 
 ## Pre-Trip Preparations
 
@@ -68,25 +68,25 @@ Although this Bali trip was only 5 days and 4 nights, it felt like the actual pl
 - Location: Soulshine Bali
 - Highlights: This hotel features a stunning pool with a waterslide and excellent service. The room rate includes breakfast, making it ideal for guests who plan to spend extended time at the hotel. Great value for money. Approximately USD$260 per night.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173308296-409519257.jpg)
+![May 30th](https://images.gobaligo.id/images/2026-04/1776173308296-409519257.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173309100-416032895.jpg)
+![May 30th](https://images.gobaligo.id/images/2026-04/1776173309100-416032895.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173309680-480127600.jpg)
+![May 30th](https://images.gobaligo.id/images/2026-04/1776173309680-480127600.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173310013-148375661.jpg)
+![May 30th](https://images.gobaligo.id/images/2026-04/1776173310013-148375661.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173310447-201679127.jpg)
+![May 30th](https://images.gobaligo.id/images/2026-04/1776173310447-201679127.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173310862-201780130.jpg)
+![May 30th](https://images.gobaligo.id/images/2026-04/1776173310862-201780130.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173311422-394535033.jpg)
+![May 30th](https://images.gobaligo.id/images/2026-04/1776173311422-394535033.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173311942-409156505.jpg)
+![May 30th](https://images.gobaligo.id/images/2026-04/1776173311942-409156505.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173312600-409516149.jpg)
+![May 30th](https://images.gobaligo.id/images/2026-04/1776173312600-409516149.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173313011-409516170.jpg)
+![May 30th](https://images.gobaligo.id/images/2026-04/1776173313011-409516170.jpg)
 
 > [Soulshine Bali Availability & Price Check](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2978867) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=9203399&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/djqgcgo8)
 
@@ -188,25 +188,25 @@ This day was packed with adventure and excitement, from ATV riding to Ayung Rive
 - Location: Villa DeDayuh Seminyak
 - Highlight: This villa comes with kitchenware, a pool, and a bathtub, making it perfect for travelers planning to spend extended time at the hotel. The service is excellent, with detailed responses available via WhatsApp. Prices are around USD$130 per night.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173616565-250438251.jpg)
+![June 1st](https://images.gobaligo.id/images/2026-04/1776173616565-250438251.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173617029-250437832.jpg)
+![June 1st](https://images.gobaligo.id/images/2026-04/1776173617029-250437832.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173617376-250437834.jpg)
+![June 1st](https://images.gobaligo.id/images/2026-04/1776173617376-250437834.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173617786-250437952.jpg)
+![June 1st](https://images.gobaligo.id/images/2026-04/1776173617786-250437952.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173618342-250438170.jpg)
+![June 1st](https://images.gobaligo.id/images/2026-04/1776173618342-250438170.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173618739-250438175.jpg)
+![June 1st](https://images.gobaligo.id/images/2026-04/1776173618739-250438175.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173619217-250438213.jpg)
+![June 1st](https://images.gobaligo.id/images/2026-04/1776173619217-250438213.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173619626-250438229.jpg)
+![June 1st](https://images.gobaligo.id/images/2026-04/1776173619626-250438229.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173620242-250438241.jpg)
+![June 1st](https://images.gobaligo.id/images/2026-04/1776173620242-250438241.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776173620753-250438245.jpg)
+![June 1st](https://images.gobaligo.id/images/2026-04/1776173620753-250438245.jpg)
 
 > [Check Availability & Rates at Villa DeDayuh Seminyak](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11088131)
 
@@ -307,7 +307,7 @@ https://youtu.be/cbACc0Ey-A4
 
 **4. Finns Beach Club**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6a021c159470db2679ed81ed74fe2715.jpg)
+![June 2nd](https://images.gobaligo.id/vocus/vocus_6a021c159470db2679ed81ed74fe2715.jpg)
 
 - Time: Seats available around 17:00
 - Tip: Good seats require advance booking and payment. Mostly Western clientele, features a pool and DJ, right by the beach. Security is strict, but you can enter for free if you're just visiting without ordering anything! Arrive early to enjoy snacks and watch the sunset. This beach club is open until midnight, making it a great spot to relax and soak in the evening atmosphere.

@@ -133,7 +133,7 @@ You can refer to "[21 Essential Items for Your Bali Trip](/blog/bali-travel-esse
 
 ### Nanny Resources: You Don’t Have to Do It All Alone
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7f570b4b0f39515ecb5982207e21e909.png)
+![Nanny Resources: You Don’t Have to Do It All Alone](https://images.gobaligo.id/vocus/vocus_7f570b4b0f39515ecb5982207e21e909.png)
 
 Many Taiwanese parents are unaware that Bali has a well-established nanny industry, widely used by expat families and travelers. If you need a break or someone to care for your child while you’re busy, finding a nanny in Bali is easier than you might think. How do you find one? What should you consider? What are the costs? Check out our guide "[How to Find the Right Nanny in Bali: A Comprehensive Guide and Cost Overview](/blog/bali-nanny-hiring-guide/)"
 

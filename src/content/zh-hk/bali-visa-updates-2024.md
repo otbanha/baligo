@@ -19,7 +19,7 @@ _srcHash: d68b71ba12072d3f009e6af480797319
 
 印尼移民局近日對外公佈重大簽證改革內容，旨在打擊非法活動同簡化簽證流程。原本複雜嘅簽證類別將會進行合併，提供更清晰、統一嘅制度框架。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_64d9be4decc22cde17ee06eb3a9c4b74.png)
+![印尼移民局澄清峇里島簽證新規定：遊客必睇更新](https://images.gobaligo.id/vocus/vocus_64d9be4decc22cde17ee06eb3a9c4b74.png)
 
 ### **簽證類別合併詳情**
 
@@ -64,7 +64,7 @@ _srcHash: d68b71ba12072d3f009e6af480797319
 
 ## **eVoA電子落地簽證：延長制度新變化**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_899aeed13fc6814f83802e4104d0f103.png)
+![eVoA電子落地簽證：延長制度新變化](https://images.gobaligo.id/vocus/vocus_899aeed13fc6814f83802e4104d0f103.png)
 
 隨住印尼推動數位化移民流程，**電子落地簽證（eVoA）** 成為目前最便捷、最常見嘅旅遊入境方式之一，特別適合國際旅客前往如 **峇里島（Bali）** 等觀光勝地。
 

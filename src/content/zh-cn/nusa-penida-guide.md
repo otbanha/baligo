@@ -46,25 +46,25 @@ Nusa penida 是一个巴厘岛的离岸小岛，从巴厘岛本岛搭船约45分
 
 ▼Nusa Penida必游景点 T Rex暴龙头 Kelingking beach
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_292b0e4de7b79d70086bc92c66b6524b.jpg)
+![佩尼达岛热门景点](https://images.gobaligo.id/vocus/vocus_292b0e4de7b79d70086bc92c66b6524b.jpg)
 
 要下去底下那个海滩并不容易哦！现在正在盖一座玻璃透明电梯，预计2025完工
 
 ▼Nusa Penida必游景点 Broken Beach
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1531b3a5efc742043f3f9dad6e1bf6db.jpg)
+![佩尼达岛热门景点](https://images.gobaligo.id/vocus/vocus_1531b3a5efc742043f3f9dad6e1bf6db.jpg)
 
 ▼Nusa Penida必游景点 Tree House
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_963e9c6140fb895c330510fb89836af6.jpg)
+![佩尼达岛热门景点](https://images.gobaligo.id/vocus/vocus_963e9c6140fb895c330510fb89836af6.jpg)
 
 ▼Nusa Penida必游景点 Diamond Beach
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ca4724a8eeb3ab1c2e10fa29582c9546.jpg)
+![佩尼达岛热门景点](https://images.gobaligo.id/vocus/vocus_ca4724a8eeb3ab1c2e10fa29582c9546.jpg)
 
 ▼Nusa Penida必游景点 Angel Bilabong 天使浴池
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd130df8e4d73710b447668b5bb55c43.jpg)
+![佩尼达岛热门景点](https://images.gobaligo.id/vocus/vocus_fd130df8e4d73710b447668b5bb55c43.jpg)
 
 ## 佩尼达岛玩法
 
@@ -81,7 +81,7 @@ Nusa penida 是一个巴厘岛的离岸小岛，从巴厘岛本岛搭船约45分
 
 ### 佩尼达岛浮潜/潜水之旅/水上活动
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c79ccabc1b7bc476729ce69183bf4f9b.png)
+![佩尼达岛浮潜/潜水之旅/水上活动](https://images.gobaligo.id/vocus/vocus_c79ccabc1b7bc476729ce69183bf4f9b.png)
 
 - [Manta Point浮潜及东海岸之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F145570-nusa-penida-manta-point-snorkeling-east-coast-tour%2F)
 - [蓝梦岛 & 曼塔湾浮潜体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21684-nusa-lembongan-manta-bay-snorkeling-experience%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df6a1d671a3)
@@ -106,7 +106,7 @@ Nusa penida 是一个巴厘岛的离岸小岛，从巴厘岛本岛搭船约45分
 
 以下是渡轮时间表：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00a1f99f9b40877bd7047828e486803d.jpg)
+![如何从巴厘岛乘坐渡轮前往Nusa Penida（坎古, 库塔, 水明漾）？](https://images.gobaligo.id/vocus/vocus_00a1f99f9b40877bd7047828e486803d.jpg)
 
 仅供参考
 
@@ -136,25 +136,25 @@ Nusa penida 是一个巴厘岛的离岸小岛，从巴厘岛本岛搭船约45分
 
 **豪华住宿：**[**Adiwana Warnakali Resort**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=12145599) [Booking](https://booking.tpm.li/3tFPqiDE)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aaa80c2680b499073712555131a3e50f.png)
+![住宿推荐](https://images.gobaligo.id/vocus/vocus_aaa80c2680b499073712555131a3e50f.png)
 
 这不是Nusa Penida上最昂贵的豪华度假村，但绝对是最好的之一！这个度假村位于海滨，设有大型豪华套房和丰盛的早餐。
 
 **豪华私人villa：**[**MAUA Nusa Penida**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=756874&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fhotels%2Fdetail%2F716134-maua-nusa-penida-bali%2F%3Fcheck_in%3D2023-10-16%26check_out%3D2023-10-17%26room_num%3D1%26adult_num%3D2%26child_num%3D0%26age%3D%26page_source%3Dhotel_list_page%26server_data%3D81124443136e8db398c4150149cf9cb8ad5d0b7952d56cc9b85d7c43ece88c583ef6a94734cddb541b772abe3853618168df7d3b4ca6468acc19f1de2836e7826a1d47060ff118517ead41986362fdcfc40dfd9c44da728ef31f43dd57fe7804%26source_price_token%3DeyJjdXJyZW5jeSI6IlRXRCIsInByaWNlIjo3MTAxLjAsInNvdXJjZSI6MX0%3D%26is_suggest_time%3D1)4.5星级私人泳池滨海villa
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9582b5f63acf8e9f46b2ade9f8b1ed2f.jpg)
+![住宿推荐](https://images.gobaligo.id/vocus/vocus_9582b5f63acf8e9f46b2ade9f8b1ed2f.jpg)
 
 中价位：[Jukung Cottage](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=25688678)
 
 这个位于海滩边的度假村式小屋招待所性价比非常高。它设有餐厅、室外游泳池、酒吧和共用休息室。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_251cd6f79234af91002d2fa6ac0c00ff.png)
+![住宿推荐](https://images.gobaligo.id/vocus/vocus_251cd6f79234af91002d2fa6ac0c00ff.png)
 
 平价住宿：[Hostel Bukit Sangcure](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=10306621)
 
 背包客在Nusa Penida选择的住宿地点。这是一家便宜的背包客旅馆，靠近港口，提供早餐和自行车租赁。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_551a7a5e13dc852eeff5da3abefc508c.png)
+![住宿推荐](https://images.gobaligo.id/vocus/vocus_551a7a5e13dc852eeff5da3abefc508c.png)
 
 最后有几个注意事项要特别提醒前往 Nusa Penida的游客：
 
@@ -185,7 +185,7 @@ Nusa penida 是一个巴厘岛的离岸小岛，从巴厘岛本岛搭船约45分
 - [佩尼达岛 & 蓝梦岛私人包船游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=764788&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F92390-private-boat-charter-for-nusa-penida-and-lembongan%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7668f8e7d8)
 - [KKday方案](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=penida&qs=penida&cid=25072)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb79c635d635478033f16ade1e50b0ed.png)
+![住宿推荐](https://images.gobaligo.id/vocus/vocus_eb79c635d635478033f16ade1e50b0ed.png)
 
 [点我](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing)放大收藏
 
@@ -193,8 +193,8 @@ Nusa penida 是一个巴厘岛的离岸小岛，从巴厘岛本岛搭船约45分
 
 **▶努沙佩尼达岛攻略第二集：**[享受佩尼达岛的碧海蓝天美食，TOP 9绝佳选择](/blog/nusa-penida-best-restaurants/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_22ae845281804118aa70b28861ed088e.jpg)
+![我们还介绍了九家拥有无边泳池、金黄沙滩、夕阳美景的Nusa Penida美食餐厅](https://images.gobaligo.id/vocus/vocus_22ae845281804118aa70b28861ed088e.jpg)
 
 **▶努沙佩尼达岛攻略第三集：**[努沙佩尼达四大潜点介绍/如何参加浮潜？](/blog/nusa-penida-snorkeling-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_45dcf8200acb1b2e97b7e51cf764425f.jpg)
+![我们还介绍了九家拥有无边泳池、金黄沙滩、夕阳美景的Nusa Penida美食餐厅](https://images.gobaligo.id/vocus/vocus_45dcf8200acb1b2e97b7e51cf764425f.jpg)

@@ -23,7 +23,7 @@ First, although Bali only has a rainy season and a dry season throughout the yea
 
 Second, Bali's weather isn't the focus of your trip. Bali is a place filled with stunning landscapes and rich culture. No matter the weather, there are plenty of interesting things to do. There's no need to spend too much energy on weather forecasts; instead, focus more on exploring this beautiful place and experiencing its culture and cuisine.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_26c4410d90cfbacef24b366044b27875.png)
+![Why stop asking about Bali's weather? What if it rains?](https://images.gobaligo.id/vocus/vocus_26c4410d90cfbacef24b366044b27875.png)
 
 > Further reading: [What to do when it rains in Bali? 60 indoor activity ideas](/blog/2026-bali-indoor-activities/)
 
@@ -33,7 +33,7 @@ Moreover, when traveling in Bali, we need to be aware that the weather isn't the
 
 Lastly, weather always has unpredictable elements. Even if the forecast predicts sunshine, it might suddenly rain. If you have fixed expectations about the weather, it could disrupt your plans or lead to disappointment. Instead, if you embrace the weather changes and enjoy each moment as it comes, your trip will be more enjoyable and fulfilling.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7c700014e74e4a3c01835cdc77c9b23e.png)
+![Why stop asking about Bali's weather? What if it rains?](https://images.gobaligo.id/vocus/vocus_7c700014e74e4a3c01835cdc77c9b23e.png)
 
 {{block:戶外}}
 

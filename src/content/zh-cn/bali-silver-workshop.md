@@ -16,7 +16,7 @@ _srcHash: 3a31ae50ed5d048579cb422a3e04925f
 
 巴厘岛不仅以自然风光闻名，更是文化艺术的宝库。对于热爱深入当地文化的旅人来说，参与传统银饰工坊，是一种深度体验的方式。从一块纯银开始，经历打磨、塑形、雕刻，再到亲手完成一件属于自己的饰品，这过程不只是创作，更是一段文化的探索。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f94752e3483bb66819ab469739a0853.png)
+![为什么你不能错过巴厘岛的银匠体验？](https://images.gobaligo.id/vocus/vocus_9f94752e3483bb66819ab469739a0853.png)
 
 ## **银匠工艺的历史与文化意义**
 
@@ -46,7 +46,7 @@ Celuk 村一直是巴厘岛银饰的重镇。当地著名银饰品牌 Celuk Bali
 
 ▶[坎古银饰制作工坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1079090&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F122280-silver-jewelry-making-class-in-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D87d5cc33a5)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_80cd9d0a888b0c36ad377197e03ea429.png)
+![乌布与坎古的小型工作坊](https://images.gobaligo.id/vocus/vocus_80cd9d0a888b0c36ad377197e03ea429.png)
 
 ### 其他地区的银饰工坊
 
@@ -58,7 +58,7 @@ Celuk 村一直是巴厘岛银饰的重镇。当地著名银饰品牌 Celuk Bali
 
 ▶[乌鲁瓦图银饰制作工坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1079090&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F124445-silver-jewelry-making-class-in-uluwatu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5fc62a37c7)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b62601a500ecbf580fa9aa3280386f36.png)
+![其他地区的银饰工坊](https://images.gobaligo.id/vocus/vocus_b62601a500ecbf580fa9aa3280386f36.png)
 
 ## **如何预约与准备参加工作坊？**
 

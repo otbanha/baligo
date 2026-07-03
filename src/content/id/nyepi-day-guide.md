@@ -26,7 +26,7 @@ _srcHash: b14c051a065b2f64d8d6c44f19401fbc
 
 ### Pemerintah Bali Konfirmasi Aturan yang Wajib Dipatuhi Wisatawan Saat Nyepi
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_26e4bd90b1acdf6d7ea153ac83b7542d.jpg)
+![Pemerintah Bali Konfirmasi Aturan yang Wajib Dipatuhi Wisata](https://images.gobaligo.id/vocus/vocus_26e4bd90b1acdf6d7ea153ac83b7542d.jpg)
 
 Otoritas Hindu Bali baru aja ngeluarin panduan terbaru soal perayaan Hari Nyepi (Nyepi Day, Hari Raya Nyepi di Bali) yang bakal datang. Hari penting ini jatuh pada 29 Maret 2025, dan semua non-Hindu, turis asing, dan pengunjung di pulau wajib patuh sama aturan hari itu.
 
@@ -58,7 +58,7 @@ Disarankan wisatawan Bali waspada kalau periode 27 Maret sampai 2 April 2025 bak
 
 Intinya, Nyepi di Bali adalah hari raya yang unik dan sakral. Wisatawan harus hormati tradisi dan aturan setempat saat berpartisipasi. Perencanaan awal dan paham aturan bakal bantu perjalananmu lancar dan menyenangkan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fe2ab68b5c5fa3bae8679caf88ac3b2b.jpg)
+![Pentingnya Persiapan Sejak Dini](https://images.gobaligo.id/vocus/vocus_fe2ab68b5c5fa3bae8679caf88ac3b2b.jpg)
 
 ## FAQ (Pertanyaan Umum) Seputar Nyepi di Bali
 

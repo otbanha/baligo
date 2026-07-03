@@ -25,7 +25,7 @@ _srcHash: f8eaacd912d22b0d9edb29471c17553d
 
 無論係落咗峇里島即刻開地圖搵路，定係傳訊息、分享相片，甚至用串流影音，都完全唔使擔心連線品質。Telkomsel 係印尼最大電信商之一，網絡覆蓋率極廣，連喺偏遠地區都可以穩定連線。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5b66848dd0a737c6bd8672f358869385.png)
+![峇里島旅遊點可以冇 eSIM？](https://images.gobaligo.id/vocus/vocus_5b66848dd0a737c6bd8672f358869385.png)
 
 ---
 
@@ -72,7 +72,7 @@ Klook 提供多種彈性選項，滿足唔同旅客嘅需求：
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_77042eb24a47229837fe9c33aaf452aa.png)
+![總結：旅遊峇里島嘅最佳上網選擇](https://images.gobaligo.id/vocus/vocus_77042eb24a47229837fe9c33aaf452aa.png)
 
 ## **❓FAQ 常見問題解答**
 

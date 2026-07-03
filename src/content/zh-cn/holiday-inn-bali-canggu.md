@@ -30,7 +30,7 @@ _srcHash: b57fcaa03e4759ab006ac79829776a71
 
 如果你正在寻找一处既能拥抱巴厘岛自然风光，又能享受现代化便利的度假胜地，那么2023年底全新开业的\*\*_巴厘岛坎古假日酒店（Holiday Inn Resort Bali Canggu By IHG）_**绝对值得列入你的首选清单。这家五星级度假村不仅坐拥绝佳地理位置，更以贴心的服务、完善的设施和极高的性价比，赢得了全球旅客的一致好评，在各大平台上获得高达**_9.4分的综合评分_\*\*。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4164487f518e958a96464f1555658ad1.jpg)
+![Holiday Inn Resort Bali Canggu 巴厘岛坎古假日酒店：两大入住两小免费 豪华与舒适都有](https://images.gobaligo.id/vocus/vocus_4164487f518e958a96464f1555658ad1.jpg)
 
 ***
 
@@ -45,15 +45,15 @@ _srcHash: b57fcaa03e4759ab006ac79829776a71
 ## 🛏️ 宽敞舒适、设计贴心的客房
 
 酒店共有10种房型，从标准房到家庭套房一应俱全。最受家庭旅客喜爱的是**1 Bedroom Kids Suite**，设计非常用心——小朋友可以睡在专属的双层床区域，只要拉上活动隔间，就自成一个小天地，既保留亲子互动的乐趣，也兼顾了各自的空间。
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350877857-517838674.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350878683-517839093.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350879194-519119964.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350879593-569654844.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350880009-588605925.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350880415-caption_1_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350880928-caption_5_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350881223-caption_6_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350881649-kr.jpg)
+![宽敞舒适、设计贴心的客房](https://images.gobaligo.id/images/2026-03/1774350877857-517838674.jpg)
+![宽敞舒适、设计贴心的客房](https://images.gobaligo.id/images/2026-03/1774350878683-517839093.jpg)
+![宽敞舒适、设计贴心的客房](https://images.gobaligo.id/images/2026-03/1774350879194-519119964.jpg)
+![宽敞舒适、设计贴心的客房](https://images.gobaligo.id/images/2026-03/1774350879593-569654844.jpg)
+![宽敞舒适、设计贴心的客房](https://images.gobaligo.id/images/2026-03/1774350880009-588605925.jpg)
+![宽敞舒适、设计贴心的客房](https://images.gobaligo.id/images/2026-03/1774350880415-caption_1_.jpg)
+![宽敞舒适、设计贴心的客房](https://images.gobaligo.id/images/2026-03/1774350880928-caption_5_.jpg)
+![宽敞舒适、设计贴心的客房](https://images.gobaligo.id/images/2026-03/1774350881223-caption_6_.jpg)
+![宽敞舒适、设计贴心的客房](https://images.gobaligo.id/images/2026-03/1774350881649-kr.jpg)
 
 许多旅客对房间的舒适度赞不绝口：
 
@@ -67,7 +67,7 @@ _srcHash: b57fcaa03e4759ab006ac79829776a71
 
 「早餐自助餐非常出色，从新鲜热带水果到美味的国际菜肴应有尽有，让每个早晨都成为一种享受。」
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f3023a2f7b257b63a50bff27203069b8.jpg)
+![丰富餐饮选择，早餐备受好评](https://images.gobaligo.id/vocus/vocus_f3023a2f7b257b63a50bff27203069b8.jpg)
 
 「早餐选择多元，包括许多健康选项，还有包含在自助餐内的à la carte菜单，让人每天都有好心情开始一天。」
 
@@ -118,9 +118,9 @@ _srcHash: b57fcaa03e4759ab006ac79829776a71
 
 巴厘岛酒店平均价格约在$76–$100美元之间，而坎古假日酒店虽然定价稍高（约$151–$200），但提供的设施、服务与体验完全对得起这个价格。不少旅客直言：“性价比极高，整体体验轻松超越期望。”
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f46a46076ac4642c59561fdae72f94bd.jpg)
+![物超所值，定价合理](https://images.gobaligo.id/vocus/vocus_f46a46076ac4642c59561fdae72f94bd.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_03096e8f8cdecab5d48ef06a3ec5cd91.jpg)
+![物超所值，定价合理](https://images.gobaligo.id/vocus/vocus_03096e8f8cdecab5d48ef06a3ec5cd91.jpg)
 
 ***
 

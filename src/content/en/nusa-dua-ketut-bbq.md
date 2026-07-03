@@ -22,7 +22,7 @@ lang: en
 _srcHash: 67c5b69a4535e8c0b128e06fc9703ab7
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1dc67621e6338385b170b597a9c2822a.jpg)
+![Nusa Dua/Southern Bali Food Recommendation│Must-Try Pork Rib](https://images.gobaligo.id/vocus/vocus_1dc67621e6338385b170b597a9c2822a.jpg)
 
 This restaurant is ranked #9 among Nusa Dua area restaurants by TripAdvisor users!
 

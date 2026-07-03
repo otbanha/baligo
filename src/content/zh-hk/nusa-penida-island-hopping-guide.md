@@ -39,7 +39,7 @@ Sophie嘅六日峇里島自由行遊記分享
 - 👏可以配合所有行程變動
 - 👏我哋有幫家人慶生，佢喺金巴蘭推薦餐廳並幫我哋安排蛋糕同樂隊合唱，非常細心
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7619892b3fc1f39c15d5098c619943bf.jpg)
+![包車司機](https://images.gobaligo.id/vocus/vocus_7619892b3fc1f39c15d5098c619943bf.jpg)
 
 ## 1/18第一日：抵達峇里島，烏布探險
 

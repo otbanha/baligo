@@ -85,7 +85,7 @@ Pasangan ini tipe yang nggak bisa diem, anak-anak mereka udah dewasa dan mulai k
 
 Begitu orang tua udah santai, traveling keluarga udah sukses setengah, jadi saya pribadi rekomendasi banget pasangan ini. Kalau kamu rencana ke Bali, coba pertimbangin mereka. (Info kontak di akhir artikel)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cd6bb25d8811027023b8a4df960278b0.png)
+![Pengalaman Paket Mobil](https://images.gobaligo.id/vocus/vocus_cd6bb25d8811027023b8a4df960278b0.png)
 
 ### **Taksi & Kondisi Lalu Lintas**
 
@@ -123,7 +123,7 @@ Karena trip kali ini fokusnya "santai dan rebahan", aku prioritaskan nginep di V
 
 Di Bali, makin mewah Villa-nya, biasanya lokasinya makin terpencil dan kurang praktis dibanding akomodasi di pusat kota. Makanya, aku sesuaikan sama karakter dan kebutuhan keluarga, cari keseimbangan antara "kemewahan" dan "kemudahan". Villa yang aku pesan kali ini semuanya di lokasi yang gampang dijangkau GrabFood atau taksi, jadi kalau butuh makanan atau transportasi, gampang diatasi.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_16220458feb59e44fa83e1669a7981f0.jpg)
+![Kabar Terbaru Desember 2025:](https://images.gobaligo.id/vocus/vocus_16220458feb59e44fa83e1669a7981f0.jpg)
 
 Tapi, pengalaman nginep kali ini juga ngajarin aku beberapa hal. Desain Villa di Bali suka banget bikin ruang publik (seperti ruang tamu, ruang makan, dapur) jadi outdoor atau semi-outdoor biar tamu lebih dekat sama alam. Desain ini emang bikin liburan makin terasa, tapi juga bikin nyamuk makin banyak. Apalagi buat aku yang emang gampang digigit nyamuk, rasanya lumayan capek. Ke depannya aku bakal lebih hati-hati, pilih Villa yang ruang publiknya ber-AC dan bisa ditutup rapat, biar tetap nyaman dan bebas gangguan nyamuk.
 
@@ -215,7 +215,7 @@ Kali ini di Ubud, aku coba dulu Deep Tissue Massage di Nata Spa. Tekanannya eman
 
 ### Penemuan Kejutan: Hot Bamboo SPA
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c72ed5775df8b39abb816fd5c7abd11d.jpg)
+![Penemuan Kejutan: Hot Bamboo SPA](https://images.gobaligo.id/vocus/vocus_c72ed5775df8b39abb816fd5c7abd11d.jpg)
 
 Pas sampai di Canggu, aku mulai cari-cari tempat pijat di sekitar, dan tanpa sengaja nemu 'Hot Bamboo SPA'. Setelah baca review, langsung tertarik sama keunikannya. Ada satu jenis pijat yang pakai bambu hangat, makanya dinamain 'Hot Bamboo'. Review-nya banyak banget yang memuji, terutama soal tekanannya — katanya ini pijat dengan tekanan paling mantap di Bali.
 
@@ -265,7 +265,7 @@ Kalau kamu juga rencana bawa orang tua dan anak-anak ke Bali, pasutri ini wajib 
 
 ### Kontak Mbak Ani:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bd53e832ee785ea764ee8e285404bdf0.jpg)
+![Kontak Mbak Ani:](https://images.gobaligo.id/vocus/vocus_bd53e832ee785ea764ee8e285404bdf0.jpg)
 
 Line: agussolihin72
 

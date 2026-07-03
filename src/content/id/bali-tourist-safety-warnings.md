@@ -31,7 +31,7 @@ Polisi minggu ini menangkap seorang pria asal Bali berusia 22 tahun bernama Ketu
 
 Polisi mengatakan kejadian ini terjadi pada 16 September pukul 02.40 dini hari di Jalan Kubu Anyar Gang Sada Sari, Legian. Saat itu korban GHK sedang berjalan pulang ke penginapannya, lalu dihadang oleh Manih yang menawarkan tumpangan ojek murah.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1769e9a42496e7fbb75d546b2c6b9c78.png)
+![Perampokan Ojek Palsu](https://images.gobaligo.id/vocus/vocus_1769e9a42496e7fbb75d546b2c6b9c78.png)
 
 GHK menerima tawaran itu dan mereka sepakat soal harga. Manih memboncengnya naik motor, lalu belok ke Jalan Kubu Anyar dan masuk ke gang Sada Sari.
 
@@ -53,7 +53,7 @@ Manih mengaku nekat merampok karena kesulitan keuangan, dan mengklaim tidak terg
 
 Di sisi lain, di desa Canggu Pererenan, sekelompok seleb TikTok juga mengalami vila mereka dibobol.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fef39ea57bb3392c788adfeeab368e7c.png)
+![Vila Dibobol](https://images.gobaligo.id/vocus/vocus_fef39ea57bb3392c788adfeeab368e7c.png)
 
 Seleb TikTok Dr. Richard Lee, Willie Salim, Kenneth Seymour, Regiena Shaelynne, dan lainnya saat itu menginap di sebuah vila di Jalan Babadan. Mereka meninggalkan vila pada pukul 09:30 pagi tanggal 21 September untuk jalan-jalan, dan saat kembali pukul 18:00, mereka mendapati satu MacBook Pro M2, satu iPad Pro M1, kamera, iPhone, dan uang tunai jutaan rupiah raib.
 
@@ -73,7 +73,7 @@ Meskipun Bali secara keseluruhan termasuk destinasi liburan yang relatif aman, w
 
 📩 **Langganan sekarang blog 'Panduan Travel Bali', jadi traveler Bali yang jago!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Daftar & Gabung Blog Kami](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

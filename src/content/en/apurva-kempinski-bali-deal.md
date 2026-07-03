@@ -30,7 +30,7 @@ If you're looking for a **Bali 5-star hotel deal**, an incredibly attractive pro
 
 The luxurious Apurva Kempinski Bali resort in Nusa Dua is offering a limited-time room rate starting at just **USD$349 per night**, including breakfast and afternoon tea. Book through our site and **we'll also cover the Bali tourism tax**.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_33659c491db9821772fe0b9e2999c6bf.jpg)
+![Apurva Kempinski Bali Limited-Time Promotion! Stay at a 5-st](https://images.gobaligo.id/vocus/vocus_33659c491db9821772fe0b9e2999c6bf.jpg)
 
 For travelers wanting to experience Bali's luxury resorts, this price is truly rare.
 
@@ -103,13 +103,13 @@ The Apurva Kempinski Bali has been one of the most talked-about 5-star resorts i
 
 The grand staircase and water feature at the hotel entrance are truly awe-inspiring. Many guests feel like they're entering a palace when they first step into the lobby.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b2c6dd4d64edfb27d9a59fc360146e46.jpg)
+![1⃣ One of Bali's Most Spectacular Hotel Architectures](https://images.gobaligo.id/vocus/vocus_b2c6dd4d64edfb27d9a59fc360146e46.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0ae99415650fae4cc93da41258861288.jpg)
+![1⃣ One of Bali's Most Spectacular Hotel Architectures](https://images.gobaligo.id/vocus/vocus_0ae99415650fae4cc93da41258861288.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5037d4181b4843d1402440636aaa2bcb.jpg)
+![1⃣ One of Bali's Most Spectacular Hotel Architectures](https://images.gobaligo.id/vocus/vocus_5037d4181b4843d1402440636aaa2bcb.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_48c7cc7bc07742ffc352eadce74c52a1.jpg)
+![1⃣ One of Bali's Most Spectacular Hotel Architectures](https://images.gobaligo.id/vocus/vocus_48c7cc7bc07742ffc352eadce74c52a1.jpg)
 
 ## 2️⃣ Cliffside Ocean Views in Nusa Dua
 
@@ -131,25 +131,25 @@ However, it's important to remind everyone that such offers usually come with **
 
 If your schedule is set, experiencing a five-star resort at this price is actually a pretty good opportunity.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_19d07c063a34a6a3f66c1b7738e56e1a.jpg)
+![Bali Travel Observations](https://images.gobaligo.id/vocus/vocus_19d07c063a34a6a3f66c1b7738e56e1a.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9eb0670415cc57a9b35245d39769bf37.jpg)
+![Bali Travel Observations](https://images.gobaligo.id/vocus/vocus_9eb0670415cc57a9b35245d39769bf37.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e2c54d836c5c2c5e0e464e79857d4241.jpg)
+![Bali Travel Observations](https://images.gobaligo.id/vocus/vocus_e2c54d836c5c2c5e0e464e79857d4241.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dda9a12566442ff8f2c06d7ac0e585e3.jpg)
+![Bali Travel Observations](https://images.gobaligo.id/vocus/vocus_dda9a12566442ff8f2c06d7ac0e585e3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ea14bbc58b3483b771c8f7f341641297.jpg)
+![Bali Travel Observations](https://images.gobaligo.id/vocus/vocus_ea14bbc58b3483b771c8f7f341641297.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d3343477e91ad3fc975a859517612ee8.jpg)
+![Bali Travel Observations](https://images.gobaligo.id/vocus/vocus_d3343477e91ad3fc975a859517612ee8.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_97014a532ae072a7353ed84d4de00453.jpg)
+![Bali Travel Observations](https://images.gobaligo.id/vocus/vocus_97014a532ae072a7353ed84d4de00453.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_10f5bf0f2e443a37f18dcaa1d0e61f4b.jpg)
+![Bali Travel Observations](https://images.gobaligo.id/vocus/vocus_10f5bf0f2e443a37f18dcaa1d0e61f4b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_109ae1e8bae39cc9c36aa072d7cf536f.jpg)
+![Bali Travel Observations](https://images.gobaligo.id/vocus/vocus_109ae1e8bae39cc9c36aa072d7cf536f.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_896b96bc68a66ab60d55c0e4e8f689fc.jpg)
+![Bali Travel Observations](https://images.gobaligo.id/vocus/vocus_896b96bc68a66ab60d55c0e4e8f689fc.jpg)
 
 The hotel's most attractive feature is undoubtedly its renowned aquarium restaurant, KORAL. Located on the lower level of the hotel, the restaurant is surrounded by a massive aquarium, with box seats offering close-up views of tropical fish swimming gracefully, creating an exhilarating visual experience. Guests ordered the "KORAL Discovery Menu," where each dish was creatively presented, using fresh local ingredients for a refreshing taste. Besides the main courses, the pre-meal croissants and mixed salad with vinaigrette were also impressive, appetizing and delicious.
 

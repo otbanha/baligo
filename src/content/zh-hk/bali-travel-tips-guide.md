@@ -24,7 +24,7 @@ _srcHash: f0c5e70afb299c99d778038aa051ef2b
 
 當你計劃去峇里島旅行嘅時候，可能會諗到好多問題。無論你係第一次去定係再去，大家都希望得到一啲實用嘅旅遊攻略，確保旅程順利又好玩。喺呢篇blog入面，我哋會提供一啲寶貴嘅峇里島旅遊貼士，包括上網、換錢、雨季旅遊、交通安排、買嘢講價技巧，同埋點樣巧妙運用Gojek。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8a1baefa013608a227bca57993852e49.png)
+![峇里島旅遊攻略：點樣上網？點樣換錢？雨季去得唔得？交通點安排？點樣買嘢講價？善用Gojek教學](https://images.gobaligo.id/vocus/vocus_8a1baefa013608a227bca57993852e49.png)
 
 {{block:攻略}}
 

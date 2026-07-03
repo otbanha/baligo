@@ -18,7 +18,7 @@ lang: en
 _srcHash: d7700bf26d728e7acbb694714e598472
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0d7db454b968029e4ed332b57c147411.jpg)
+![【Bali Survival Guide】What to Do If You Get Heatstroke? 3 Loc](https://images.gobaligo.id/vocus/vocus_0d7db454b968029e4ed332b57c147411.jpg)
 
 ## 1. Local Cooling Drinks
 
@@ -55,7 +55,7 @@ If you experience **confusion, a body temperature exceeding 40°C, or an inabili
 
 ## Can You Get a Massage or Spa After Heatstroke?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1120e315e89abf9baad7f4e4f333bee6.png)
+![Can You Get a Massage or Spa After Heatstroke?](https://images.gobaligo.id/vocus/vocus_1120e315e89abf9baad7f4e4f333bee6.png)
 
 Whether you can get a massage or spa treatment after heatstroke depends on your **current physical condition** and the **type of treatment**. In Bali's tropical climate, improper massage may worsen heatstroke symptoms, so caution is essential.
 

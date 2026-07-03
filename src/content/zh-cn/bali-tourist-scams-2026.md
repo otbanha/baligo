@@ -21,7 +21,7 @@ _srcHash: e6d10cf550909b9bcb9287fd096c09a0
 
 ## **魔术换钱所的点钞手艺**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f72c79c18a0688540bdd57dd45f5fad.png)
+![魔术换钱所的点钞手艺](https://images.gobaligo.id/vocus/vocus_9f72c79c18a0688540bdd57dd45f5fad.png)
 
 路边汇率高得夸张的小店，常利用「快手点钞」在视线死角抽走钞票。请记住，异常高的汇率几乎等于百分百的骗局。建议只去有门面的正规店，且换完钱务必在柜台亲自慢数一遍，别因为不好意思就急着收钱。
 

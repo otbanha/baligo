@@ -27,7 +27,7 @@ _srcHash: 0f1dbfeed3fa8c245f24b14186f49257
 
 Bali is contemplating introducing a **daily tourist tax** for foreign visitors, inspired by Bhutan's approach, with the goal of attracting 'high-quality' tourists and boosting government revenue.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8577e4982baadfd2f9b3e465a7b5c8ea.png)
+![Bali Considers a Daily Tourist Tax—Will It Become the 'Next ](https://images.gobaligo.id/vocus/vocus_8577e4982baadfd2f9b3e465a7b5c8ea.png)
 
 **Puspa Negara**, Chairman of the Bali Tourism Board, emphasized the need to establish a visitor screening system similar to Bhutan's, along with plans to develop local tourist attractions and enhance human resources. His proposal may gain support from the local government and lay the foundation for future tourism policies.
 
@@ -53,7 +53,7 @@ However, if daily tourism taxes are significantly increased, it could alter Bali
 
 Would Bali still be the soulful and vibrant paradise that visitors cherish?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7817b31199234c7f040aeea7339a27e9.png)
+!['High-Quality Tourist' Policy May Transform Bali's Landscape](https://images.gobaligo.id/vocus/vocus_7817b31199234c7f040aeea7339a27e9.png)
 
 ### **Bali Already Has an 'Entry Fee'**
 

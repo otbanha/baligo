@@ -14,7 +14,7 @@ lang: zh-hk
 _srcHash: 1f6b66f9749efbf860430c692f4872e8
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_94270edad192312ca18cd296ef31f4ae.jpg)
+![浪漫雙人船上用餐體驗：烏布卡曼達魯嘅錦鯉漂流河盛宴](https://images.gobaligo.id/vocus/vocus_94270edad192312ca18cd296ef31f4ae.jpg)
 
 ## 漂浮喺錦鯉之間嘅浪漫
 
@@ -24,13 +24,13 @@ _srcHash: 1f6b66f9749efbf860430c692f4872e8
 
 ## 精緻美食盛宴
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3648fd618b175b7daa976538684257e2.jpg)
+![精緻美食盛宴](https://images.gobaligo.id/vocus/vocus_3648fd618b175b7daa976538684257e2.jpg)
 
 喺咁特別嘅環境中，卡曼達魯準備咗精心設計嘅菜單，滿足各種味蕾需求：
 
 **常規菜單**提供多樣選擇：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eae8f33d1d9a12f0c82a4651c147dd3e.png)
+![精緻美食盛宴](https://images.gobaligo.id/vocus/vocus_eae8f33d1d9a12f0c82a4651c147dd3e.png)
 
 - 開胃嘅鹹點如迷你香料羊肉漢堡配番茄薑味醬
 - 巴厘島風味嘅烤魚沙爹同雞肉沙爹配烤花生醬

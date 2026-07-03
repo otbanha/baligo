@@ -34,11 +34,11 @@ _srcHash: 568b26360c7dcb4731f8be9223f3264e
 
 Baru-baru ini, seorang anggota grup Facebook kita, Poon, cerita pengalaman liburannya di Bali. Dia nge-highlight pentingnya keselamatan wisata, apalagi risiko naik motor. Dia ngingetin traveler lain buat selalu waspada saat liburan di Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b84e8bf33672e13070024de3c98fb7bc.jpg)
+![Panduan Bertahan dari Kecelakaan Motor di Bali: Aturan SIM I](https://images.gobaligo.id/vocus/vocus_b84e8bf33672e13070024de3c98fb7bc.jpg)
 
 Pas perjalanan pulang, Poon ketemu dua turis yang lagi cedera. Mereka sama-sama wajah Asia dan masih muda. Dua korban ini satu pesawat pulang sama Poon. Naik motor emang praktis, tapi di lingkungan yang asing, risiko kecelakaannya lumayan tinggi.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1a17602d666ba618a75cd33abb72790a.png)
+![Panduan Bertahan dari Kecelakaan Motor di Bali: Aturan SIM I](https://images.gobaligo.id/vocus/vocus_1a17602d666ba618a75cd33abb72790a.png)
 
 ## Naik Motor: Praktis Tapi Berbahaya
 

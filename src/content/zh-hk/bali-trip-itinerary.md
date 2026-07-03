@@ -42,25 +42,25 @@ Yi Chen Lai 提供
 
 跟住夜晚我哋就直接前往烏布入住【The Ambengan Villas Ubud by Pramana Villas】，呢間 Villa 我大推五星推薦！🌟🌟🌟🌟🌟
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360355434-69f2625bca68d359eae19ce16c2cd065.jpeg)
+![Day 1：海灘夕陽、烏布山林，我哋嚟啦！](https://images.gobaligo.id/images/2026-03/1774360355434-69f2625bca68d359eae19ce16c2cd065.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360355995-71f8d2ec8c6bf42b8cee817a6fd4c008.jpeg)
+![Day 1：海灘夕陽、烏布山林，我哋嚟啦！](https://images.gobaligo.id/images/2026-03/1774360355995-71f8d2ec8c6bf42b8cee817a6fd4c008.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360356536-182f722c4b1530a8093ee637063ad49a.jpeg)
+![Day 1：海灘夕陽、烏布山林，我哋嚟啦！](https://images.gobaligo.id/images/2026-03/1774360356536-182f722c4b1530a8093ee637063ad49a.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360357094-548958744.jpg)
+![Day 1：海灘夕陽、烏布山林，我哋嚟啦！](https://images.gobaligo.id/images/2026-03/1774360357094-548958744.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360357561-558872149.jpg)
+![Day 1：海灘夕陽、烏布山林，我哋嚟啦！](https://images.gobaligo.id/images/2026-03/1774360357561-558872149.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360357977-558872169.jpg)
+![Day 1：海灘夕陽、烏布山林，我哋嚟啦！](https://images.gobaligo.id/images/2026-03/1774360357977-558872169.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360358349-562314643.jpg)
+![Day 1：海灘夕陽、烏布山林，我哋嚟啦！](https://images.gobaligo.id/images/2026-03/1774360358349-562314643.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360358805-562314653.jpg)
+![Day 1：海灘夕陽、烏布山林，我哋嚟啦！](https://images.gobaligo.id/images/2026-03/1774360358805-562314653.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360359319-c9c19c0e48144c9e42c8f5cdd5656c7a.jpeg)
+![Day 1：海灘夕陽、烏布山林，我哋嚟啦！](https://images.gobaligo.id/images/2026-03/1774360359319-c9c19c0e48144c9e42c8f5cdd5656c7a.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360359884-d239345d1540ed321f9c749ed1a4279b.jpeg)
+![Day 1：海灘夕陽、烏布山林，我哋嚟啦！](https://images.gobaligo.id/images/2026-03/1774360359884-d239345d1540ed321f9c749ed1a4279b.jpeg)
 
 收錄喺 [烏布20間令人驚艷嘅峇里島villa](/blog/ubud-villa-pool-guide/)
 
@@ -161,7 +161,7 @@ Yi Chen Lai 提供
 
 我哋仲租咗飄逸長裙嚟襯，租金係 **37萬印尼盾（約USD$23）**，雖然有啲貴，但啲相真係靚到爆～尤其當鞦韆盪出去嗰陣，後面就係成片梯田，好似自己變咗旅遊雜誌封面人物 😍
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ad3a7d83fdef931866103201d21e5d3.jpg)
+![德哥拉朗梯田 & 網美鞦韆](https://images.gobaligo.id/vocus/vocus_6ad3a7d83fdef931866103201d21e5d3.jpg)
 
 https://youtu.be/e1QnJGYvL0U
 
@@ -356,7 +356,7 @@ Jimmi聯絡方式，加Line請掃QRcode
 
 你覺得 [Yi Chen Lai](https://www.facebook.com/share/p/1AUuB62LBX/) 佢哋嘅行程好精彩咩？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家去社團投稿你嘅行程㗎！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![完美結尾：搵啱司機，成趟旅程順順順！](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 撳呢度睇更多峇里島精彩遊記
 

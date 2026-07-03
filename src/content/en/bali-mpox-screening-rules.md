@@ -23,7 +23,7 @@ _srcHash: 833cd7e2c527d89c0890f0a731ee4045
 
 ### Indonesia's Ministry of Health recently announced stricter screening procedures in Bali and other areas due to the global rise in Mpox (formerly known as monkeypox) cases. Mpox is a highly contagious virus, and everyone needs to be extra cautious.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_69c98b8211e806d7a145a78b20e10aca.jpg)
+![Indonesia's Ministry of Health recently announced stricter s](https://images.gobaligo.id/vocus/vocus_69c98b8211e806d7a145a78b20e10aca.jpg)
 
 On August 18, Acting Director General of the Ministry of Health, Yudhi Pramono, stated during a press conference that all foreign tourists entering Indonesia are now required to fill out a health questionnaire upon arrival. This questionnaire will inquire about their health status, recent contact history, and recent travel destinations.
 

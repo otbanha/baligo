@@ -29,7 +29,7 @@ _srcHash: 3c3c5eaef1257a3040e929f048c484e6
 
 ## **🚖 Bali Taxi Drivers Protest Leads to Government Strengthening Regulations on Ride-Hailing Services**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9fcfc4a88f2af864cc1d6061296a6c6c.jpg)
+![Bali Taxi Drivers Protest Leads to Government Strengthening ](https://images.gobaligo.id/vocus/vocus_9fcfc4a88f2af864cc1d6061296a6c6c.jpg)
 
 The Bali government is set to introduce a series of new regulations to protect the livelihoods of local taxi drivers. This decision was made following a large-scale protest by hundreds of taxi drivers in Denpasar on January 5, 2025.
 
@@ -61,7 +61,7 @@ Local taxi operators in Bali have long complained that the influx of vehicles an
 
 Protesters also emphasized that drivers from other regions should be restricted from working in Bali, as they frequently violate regulations, damaging the reputation of the local taxi industry.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_16bdddb821585be8cda7dedab15236b9.png)
+![Local Drivers' Concerns and Dissatisfaction](https://images.gobaligo.id/vocus/vocus_16bdddb821585be8cda7dedab15236b9.png)
 
 ---
 
@@ -113,7 +113,7 @@ If you plan to visit Bali, stay updated on the latest local traffic regulations 
 
 ## 📩 **Join the "Bali Travel Guide" Now and Become a Bali Travel Expert!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Join the "Bali Travel Guide" Now and Become a Bali Travel Ex](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **By subscribing for free, you'll get:**
 

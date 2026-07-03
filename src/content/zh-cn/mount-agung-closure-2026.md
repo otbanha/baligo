@@ -29,7 +29,7 @@ _srcHash: 0a67766e4ce6b56987c15a857af9d90b
 
 如果你这段时间有计划去爬巴厘岛的阿贡火山（Mount Agung），行程要先暂停一下。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775359906886-agung.jpeg)
+![4月要爬阿贡火山？先看这篇再订行程](https://images.gobaligo.id/images/2026-04/1775359906886-agung.jpeg)
 
 ## 3月底到4月底，阿贡火山全面封山
 

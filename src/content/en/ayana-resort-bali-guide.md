@@ -161,7 +161,7 @@ Perched atop AYANA Segara in Bali, Luna Rooftop Bar is a hidden gem for relaxati
 
 In addition to its beautiful natural scenery and top-notch services, Ayana Resort now boasts a cultural treasure! The newly opened SAKA Museum in 2024 is a museum dedicated to Bali's rich culture, offering visitors an in-depth understanding of the island's history, traditions, and art through various exhibits and interactive facilities.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3d01909c96a70fef9e0966181009f5d4.jpg)
+![Highlight 5: SAKA Museum](https://images.gobaligo.id/vocus/vocus_3d01909c96a70fef9e0966181009f5d4.jpg)
 
 **Museum Highlights**
 
@@ -182,7 +182,7 @@ The Saka Museum is not only a new highlight of the Ayana Resort but also a shini
 
 ### Bonus Highlight 6: Kisik Seafood and Grill
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9ab04c004d2ebae2b2b108dba26c53fc.jpg)
+![Bonus Highlight 6: Kisik Seafood and Grill](https://images.gobaligo.id/vocus/vocus_9ab04c004d2ebae2b2b108dba26c53fc.jpg)
 
 Located within **Ayana Resort** in Bali, **Kisik Seafood and Grill** is a charming seafood restaurant renowned for its fresh seafood, delicious grilled dishes, and romantic oceanfront ambiance. The seafood here is perfectly grilled, retaining its natural flavors, with every bite offering a taste of the sea.
 
@@ -192,7 +192,7 @@ Additionally, the restaurant is close to the **Rock Bar**, a famous cliffside ba
 
 ### Bonus Highlight 7: Complimentary Shuttle Service
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fe3daa5789618f3b68ef1bc12a1e5cb2.jpg)
+![Bonus Highlight 7: Complimentary Shuttle Service](https://images.gobaligo.id/vocus/vocus_fe3daa5789618f3b68ef1bc12a1e5cb2.jpg)
 
 Within the expansive grounds of **Ayana Resort and Spa Bali**, a complimentary Shuttle Bus service is thoughtfully provided, connecting Ayana Resort, RIMBA by Ayana, AYANA Segara Bali, and popular spots like the Rock Bar and the private Kubu Beach. This service runs on a regular schedule daily, allowing guests to easily access various facilities without having to walk across the resort. Whether heading to the oceanfront infinity pool, restaurants, or the spa, taking the Shuttle Bus is the most convenient option, especially for families with children or elderly travelers. ⛱️🚌
 
@@ -217,7 +217,7 @@ The interface is clean and intuitive, supporting multiple languages, making it e
 
 ### Bonus Highlight 9: Kampoeng Bali Dinner & Show
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_01d96bac813801210cc4fc56e348901c.jpg)
+![Bonus Highlight 9: Kampoeng Bali Dinner & Show](https://images.gobaligo.id/vocus/vocus_01d96bac813801210cc4fc56e348901c.jpg)
 
 At Ayana Bali, the **Kampoeng Bali Dinner & Show** is undoubtedly a stunning highlight 🌟. Every Monday, Wednesday, and Friday evening, the area transforms into a magical traditional village stage. You can enjoy an authentic Indonesian buffet while watching classic Balinese traditional dances, including fire dances and the mesmerizing Kecak chorus dance.
 
@@ -225,7 +225,7 @@ The performance stage is right before your eyes, accompanied by cool evening bre
 
 ### Bonus Highlight 10: AYANA Farm
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fee64b57760a4dc9fdd108913e530a19.jpg)
+![Bonus Highlight 10: AYANA Farm](https://images.gobaligo.id/vocus/vocus_fee64b57760a4dc9fdd108913e530a19.jpg)
 
 Do you know where the fruits and vegetables for Ayana's daily buffet breakfast come from? The answer is **AYANA Farm** 🍃, a 2-hectare sustainable organic farm that perfectly combines nature education with green living. Both adults and children can join guided tours led by professional guides to deeply understand traditional Indonesian farming wisdom, taste fresh edible plants along the way, and spark curiosity and respect for the land through interactive experiences.
 
@@ -280,6 +280,6 @@ Are you feeling tempted to come here for a vacation? It's time to start booking!
 
 ## Map of the Four Hotel Areas
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_02fdbf9b74ce7ce8486b6fc4f3aa6f4b.png)
+![Map of the Four Hotel Areas](https://images.gobaligo.id/vocus/vocus_02fdbf9b74ce7ce8486b6fc4f3aa6f4b.png)
 
 {{block:jim}}

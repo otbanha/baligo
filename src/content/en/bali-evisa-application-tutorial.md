@@ -21,7 +21,7 @@ _srcHash: 37b0efb237dfaf2b2ac21ca7d26c823c
 
 Some people may feel confused about the visa requirements for traveling to Indonesia/Bali, unsure where to start or even how to begin. Especially for first-time independent travelers, applying for an e-visa might seem complicated and unfamiliar.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_082327d58c16280d93d97286908a1644.jpg)
+![Video Tutorial Step-by-Step Guide to Applying for Indonesia/](https://images.gobaligo.id/vocus/vocus_082327d58c16280d93d97286908a1644.jpg)
 
 ➡️[More Bali Deals Here](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
@@ -33,7 +33,7 @@ In this video, Gongcheng Jun demonstrates how to apply for Bali's e-visa indepen
 
 Gongcheng Jun first introduces the steps to access the Indonesian immigration website and explains the process of filling out the application form. He emphasizes the simplicity of filling out the form and encourages viewers to follow his steps. Next, Gongcheng Jun shows how to select the visa type and fill in personal details. He explains in detail the sources and methods for filling out each section of the form, making it easy for viewers to understand and complete.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6b80ce0998aa766ae367666be74db23e.jpg)
+![Video Tutorial Step-by-Step Guide to Applying for Indonesia/](https://images.gobaligo.id/vocus/vocus_6b80ce0998aa766ae367666be74db23e.jpg)
 
 After completing the form, Gongcheng Jun demonstrates how to proceed with the payment and reminds viewers to have their credit cards ready. He points out the simplicity of the payment process and emphasizes the importance of completing the payment within the specified time.
 

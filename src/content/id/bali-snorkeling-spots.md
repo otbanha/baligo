@@ -25,7 +25,7 @@ _srcHash: 86d72283e63ef66ca8cfb72179cdd860
 
 Snorkeling adalah salah satu aktivitas air paling populer di Bali. Meskipun kamu nggak punya pengalaman menyelam sama sekali, asal bisa sedikit berenang atau punya kepercayaan diri dasar di air, kamu bisa dengan mudah menikmati dunia bawah laut Bali yang penuh warna. Surga tropis ini punya banyak spot snorkeling yang cocok untuk pemula, dijamin bakal kasih pengalaman tak terlupakan bertemu biota laut.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_38db1470f7f6b3feed94185349288f6f.jpg)
+![Koleksi Spot Snorkeling Terindah di Bali: Panduan Petualanga](https://images.gobaligo.id/vocus/vocus_38db1470f7f6b3feed94185349288f6f.jpg)
 
 Sebelum berangkat, pastikan pilih operator yang terpercaya, beli asuransi perjalanan, dan ikuti instruksi keselamatan dari pemandu, biar setiap sesi snorkeling-mu aman dan seru abis.
 
@@ -91,7 +91,7 @@ Perairan di sini tenang, cocok buat pemula. Snorkeler bisa menjelajahi bangkai k
 
 Kapal terkenal USS Liberty ini ada di perairan yang cukup dangkal, jadi snorkeler juga bisa menjangkaunya dengan mudah. Selain bangkai kapal, di sekitarnya ada taman karang dan banyak ikan — surga banget buat pecinta fotografi.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8b993725fd631efbf943b5af66e9e26b.jpg)
+![Tulamben: Berenang Bareng Bangkai Kapal USS Liberty](https://images.gobaligo.id/vocus/vocus_8b993725fd631efbf943b5af66e9e26b.jpg)
 
 > [Pengalaman Menyelam/Snorkeling di Amed/Tulamben](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1106567&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%259C%259F%25E8%2598%25AD%25E5%25A5%2594%25E6%25B5%25AE%25E6%25BD%259B)
 

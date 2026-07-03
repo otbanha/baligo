@@ -57,9 +57,9 @@ Cahaya matahari menyelinap dari sela-sela atap, udara bercampur aroma bambu dan 
 
 Fasilitas hiburan di E Sanctuary Resort benar-benar memadukan semangat Bali dengan suasana tenang yang khas. Bar yang stylish menyediakan berbagai koktail dan minuman lokal, cocok banget buat ngopi santai di sore hari atau ngobrol sama sesama traveler. Kalau kamu pengen relaksasi yang lebih dalam, **hot tub** dan **pijat aromaterapi di taman** wajib banget dicoba. Selain itu, resort ini punya jalur taman yang didesain dengan estetis, pas buat jalan santai sambil meditasi.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4cfb697244d585954481c0e6cb6cd0ed.jpg)
+![Desain Elegan dan Pelayanan Ramah, Bikin Pengalaman Menginap](https://images.gobaligo.id/vocus/vocus_4cfb697244d585954481c0e6cb6cd0ed.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b5de08954c687682d64c816803f1b5a.jpg)
+![Desain Elegan dan Pelayanan Ramah, Bikin Pengalaman Menginap](https://images.gobaligo.id/vocus/vocus_9b5de08954c687682d64c816803f1b5a.jpg)
 
 ***
 
@@ -143,7 +143,7 @@ Berdasarkan ulasan tamu, E Sanctuary Resort dapet skor total yang bikin melongo:
 
 ### **「Suasana Tenang」**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f2dc92d1758f24890a3ab700136ffe98.jpg)
+![「Suasana Tenang」](https://images.gobaligo.id/vocus/vocus_f2dc92d1758f24890a3ab700136ffe98.jpg)
 
 Lokasinya super tenang, sekitar 20–30 menit dari pusat Ubud (meski jaraknya dekat, warga lokal biasanya pakai Grab buat jemputan). Villa pribadi yang kami tempati sangat nyaman. Kalau kamu nggak suka serangga, saran sih pilih hotel biasa aja — tapi jujur, sebagian besar resort di Ubud emang banyak serangganya. Staf di sini ramah banget, dan secara keseluruhan ini **resort dengan value for money yang oke**. 
 
@@ -151,7 +151,7 @@ Lokasinya super tenang, sekitar 20–30 menit dari pusat Ubud (meski jaraknya de
 
 ### **「Pengalaman Menginap yang Keren Banget」**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_387ed487a9af0154c0a5b51c578ef9ac.jpg)
+![「Pengalaman Menginap yang Keren Banget」](https://images.gobaligo.id/vocus/vocus_387ed487a9af0154c0a5b51c578ef9ac.jpg)
 
 Buat kami, nginep di sini jadi pengalaman yang nggak terlupakan. Baru aja check-in, tiba-tiba seluruh Bali mati lampu total — sempet panik bakal mandi pakai air kolam renang, untungnya listrik balik dalam waktu kurang dari sejam. Kalau kamu bisa tolerir sedikit serangga dan akses masuk yang agak kurang praktis, menurutku hotel ini hampir nggak ada kekurangannya. 
 
@@ -159,7 +159,7 @@ Stafnya ramah banget, lingkungan hotel juga dekat banget sama alam. Kalau lagi n
 
 ### **「Pelayanan Super Mantap」**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e492fe2e062f7bcadc152efc4a72a5cc.jpg)
+![「Pelayanan Super Mantap」](https://images.gobaligo.id/vocus/vocus_e492fe2e062f7bcadc152efc4a72a5cc.jpg)
 
 Pelayanan di sini bener-bener top, stafnya ramah dan suka bantu. 
 
@@ -169,7 +169,7 @@ Kamar kami luas dan elegan, rasanya kayak tinggal di villa pribadi sendiri — s
 
 ## Lebih Banyak Rekomendasi Villa di Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a30b2c12d987f7f2f04e8d47f429fb9d.png)
+![Lebih Banyak Rekomendasi Villa di Ubud](https://images.gobaligo.id/vocus/vocus_a30b2c12d987f7f2f04e8d47f429fb9d.png)
 
 Pengen liburan yang kayak mimpi? 🌴 Villa dengan kolam renang di Ubud bakal kasih kamu kemewahan dan relaksasi maksimal! Kolam renang pribadi, pemandangan cantik banget, fasilitas top—semuanya cuma buat bikin liburanmu makin sempurna. Langsung klik [di sini](/blog/ubud-villa-pool-guide/), eksplor lebih banyak villa kolam renang di Ubud yang kami rekomendasikan, dan mulai petualangan liburan spesialmu! ✨
 

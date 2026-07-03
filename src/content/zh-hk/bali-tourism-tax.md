@@ -23,7 +23,7 @@ _srcHash: 0f1dbfeed3fa8c245f24b14186f49257
 
 峇里島正諗住向外國遊客收**每日觀光稅**，呢個做法係學不丹嘅，目的係想吸引「高質素」遊客同增加政府收入。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8577e4982baadfd2f9b3e465a7b5c8ea.png)
+![峇里島諗緊每日觀光稅——會唔會變成「下一個不丹」？](https://images.gobaligo.id/vocus/vocus_8577e4982baadfd2f9b3e465a7b5c8ea.png)
 
 峇里島旅遊業聯盟主席**Puspa Negara**強調，應該建立類似不丹嘅旅客篩選制度，仲計劃發展當地旅遊景點同提升人力資源。佢嘅倡議可能會得到當地政府支持，同埋為未來嘅旅遊政策奠定基礎。
 
@@ -49,7 +49,7 @@ _srcHash: 0f1dbfeed3fa8c245f24b14186f49257
 
 咁樣嘅峇里島，仲會係遊客心目中嗰個充滿靈魂同活力嘅度假天堂嗎？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7817b31199234c7f040aeea7339a27e9.png)
+![「高質素遊客」政策或會改變峇里島風貌](https://images.gobaligo.id/vocus/vocus_7817b31199234c7f040aeea7339a27e9.png)
 
 ### **峇里島目前已經有一筆「入境費」**
 

@@ -36,25 +36,25 @@ _srcHash: 24774ea9702844fec2b4479db14bc666
 
 ## ✨ 三大住宿亮点：从野性到极致隐私
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750072806-eb3c7d70057ec9dc6e77b9cc7ec7c397.webp)
+![三大住宿亮点：从野性到极致隐私](https://images.gobaligo.id/images/2026-03/1774750072806-eb3c7d70057ec9dc6e77b9cc7ec7c397.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750071659-de52e76f2a8a44c934e123ebc8af4b3b.webp)
+![三大住宿亮点：从野性到极致隐私](https://images.gobaligo.id/images/2026-03/1774750071659-de52e76f2a8a44c934e123ebc8af4b3b.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750072409-e7d22c81e15eade6de1a542a93255451.webp)
+![三大住宿亮点：从野性到极致隐私](https://images.gobaligo.id/images/2026-03/1774750072409-e7d22c81e15eade6de1a542a93255451.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774749741918-1774321934411.jpg)
+![三大住宿亮点：从野性到极致隐私](https://images.gobaligo.id/images/2026-03/1774749741918-1774321934411.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774749742660-1774321936429.jpg)
+![三大住宿亮点：从野性到极致隐私](https://images.gobaligo.id/images/2026-03/1774749742660-1774321936429.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774749742999-1774321949574.jpg)
+![三大住宿亮点：从野性到极致隐私](https://images.gobaligo.id/images/2026-03/1774749742999-1774321949574.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750263423-bs4.jpeg)
+![三大住宿亮点：从野性到极致隐私](https://images.gobaligo.id/images/2026-03/1774750263423-bs4.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774749740719-642076904.jpg)
+![三大住宿亮点：从野性到极致隐私](https://images.gobaligo.id/images/2026-03/1774749740719-642076904.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774749743383-1774321950115.jpg)
+![三大住宿亮点：从野性到极致隐私](https://images.gobaligo.id/images/2026-03/1774749743383-1774321950115.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774749743719-1774321950642.jpg)
+![三大住宿亮点：从野性到极致隐私](https://images.gobaligo.id/images/2026-03/1774749743719-1774321950642.jpg)
 
 1. **精品度假村：** 完美平衡便利与舒适，开启旅程第一站。
 2. **动物园主题酒店：** 体验与动物共眠的奇妙夜晚，近距离感受大自然的生命力。
@@ -65,42 +65,42 @@ _srcHash: 24774ea9702844fec2b4479db14bc666
 ## 📸 行程精华预览
 
 - **动物近距离接触：** 入住野生动物园，观赏河马秀、海豚秀与丛林探险，享受寓教于乐的时光。
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750412698-bs7.jpeg)
+![行程精华预览](https://images.gobaligo.id/images/2026-03/1774750412698-bs7.jpeg)
 - **世界级地标巡礼：** 漫步联合国遗产 **Jatiluwih 梯田**、探访绝美 **布拉坦水神庙** 与 **金塔玛尼火山** 壮丽景观。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750676574-1774321914467.jpg)
+![行程精华预览](https://images.gobaligo.id/images/2026-03/1774750676574-1774321914467.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750677406-1774321933912.jpg)
+![行程精华预览](https://images.gobaligo.id/images/2026-03/1774750677406-1774321933912.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750677731-1774321949462.jpg)
+![行程精华预览](https://images.gobaligo.id/images/2026-03/1774750677731-1774321949462.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750678092-569875423.jpg)
+![行程精华预览](https://images.gobaligo.id/images/2026-03/1774750678092-569875423.jpg)
 
 - **网红必访热点：** 走访 **Alas Harum** 梯田与网红瀑布俱乐部，随手拍出时尚大片。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750934347-1774321932375.jpg)
+![行程精华预览](https://images.gobaligo.id/images/2026-03/1774750934347-1774321932375.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750934745-1774321932242.jpg)
+![行程精华预览](https://images.gobaligo.id/images/2026-03/1774750934745-1774321932242.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750935131-1774321949340.jpg)
+![行程精华预览](https://images.gobaligo.id/images/2026-03/1774750935131-1774321949340.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750935550-1774321936935.jpg)
+![行程精华预览](https://images.gobaligo.id/images/2026-03/1774750935550-1774321936935.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750935982-ommabali-06112022-15-hd-fits.jpg)
+![行程精华预览](https://images.gobaligo.id/images/2026-03/1774750935982-ommabali-06112022-15-hd-fits.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750936363-1774321913436.jpg)
+![行程精华预览](https://images.gobaligo.id/images/2026-03/1774750936363-1774321913436.jpg)
 
 - **感官疗愈体验：** 享受海景 SPA 按摩，在 VILLA 享用主厨现场烹饪的池畔 BBQ，体验极致放松。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774751191522-1774321912962.jpg)
+![行程精华预览](https://images.gobaligo.id/images/2026-03/1774751191522-1774321912962.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774751191852-1774321935446.jpg)
+![行程精华预览](https://images.gobaligo.id/images/2026-03/1774751191852-1774321935446.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774751192350-1774321932979.jpg)
+![行程精华预览](https://images.gobaligo.id/images/2026-03/1774751192350-1774321932979.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774751192709-1774321932491.jpg)
+![行程精华预览](https://images.gobaligo.id/images/2026-03/1774751192709-1774321932491.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774751193071-1774321913146.jpg)
+![行程精华预览](https://images.gobaligo.id/images/2026-03/1774751193071-1774321913146.jpg)
 
 ***
 

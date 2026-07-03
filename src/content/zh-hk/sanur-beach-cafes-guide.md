@@ -19,7 +19,7 @@ _srcHash: c366b6bfc4dd9c40c1bd6f44ae104d93
 ---
 以下係目前喺沙努爾當地最受歡迎嘅六間海邊咖啡廳推薦。如果你打算去峇里島，千祈唔好錯過呢啲特色舖頭！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_adc353863b69538f971502b9bbfe4032.jpg)
+![沙努爾沙灘上嘅6大熱門海景咖啡廳推薦](https://images.gobaligo.id/vocus/vocus_adc353863b69538f971502b9bbfe4032.jpg)
 
 ## **Bayside Seaview：享受日出嘅完美選擇（🗺️**[**地圖**](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)**）**
 
@@ -115,6 +115,6 @@ Genius Cafe主打有機、永續同健康導向嘅餐點，由超級食物碗（
 
 ## 更多沙努爾吃喝玩樂介紹
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
+![更多沙努爾吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
 沙努爾（Sanur）係峇里島上一個充滿寧靜氣息嘅海濱小鎮，以平靜嘅沙灘、悠閒嘅氛圍同壯麗嘅日出景色聞名。呢度有適合家庭嘅度假村、傳統市場以及豐富嘅當地美食，係享受慢生活同探索文化嘅理想之地。無論係漫步海岸線定係感受當地風情，沙努爾都能帶俾你無比放鬆嘅假期體驗！想了解更多沙努爾攻略？[請點擊呢度](/blog/sanur-guide/)

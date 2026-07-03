@@ -22,15 +22,15 @@ Di Bali, air bukan cuma sumber kehidupan, tapi juga elemen sakral. Buat orang Ba
 
 Kalau kamu mau lebih mendalami budaya dan warisan spiritual Bali, luangkan waktu buat menjelajahi dua istana air dan pura terkenal — **Tirta Gangga** dan **Pura Tirta Empul**. Yuk, kita lihat pesona unik dari dua tempat sakral ini.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_daa2c7b876bb63a589fcdb9e5d85154d.jpg)
+![Menjelajahi Air Suci Bali: Dari Tirta Gangga ke Tirta Empul](https://images.gobaligo.id/vocus/vocus_daa2c7b876bb63a589fcdb9e5d85154d.jpg)
 
 ## Tirta Gangga: Istana Air yang Tenang
 
 Tirta Gangga (diterjemahkan sebagai **Istana Air Tirta Gangga** atau **Taman Air Suci Gangga**) terletak di perbukitan hijau subur di Bali timur, sebuah istana air yang memukau. Situs seluas 1,2 hektar ini dibangun pada tahun 1946 oleh raja terakhir Karangasem, memadukan arsitektur Bali dan Tiongkok.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_366be6165bbc016df666dfe1b6176fbe.jpg)
+![Tirta Gangga: Istana Air yang Tenang](https://images.gobaligo.id/vocus/vocus_366be6165bbc016df666dfe1b6176fbe.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8634a1b05ac12f9b0f0f63ba42b0e2f7.jpg)
+![Tirta Gangga: Istana Air yang Tenang](https://images.gobaligo.id/vocus/vocus_8634a1b05ac12f9b0f0f63ba42b0e2f7.jpg)
 
 Istana ini terbagi menjadi tiga tingkat, masing-masing menawarkan pengalaman unik:
 

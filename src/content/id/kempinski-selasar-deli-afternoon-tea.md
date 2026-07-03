@@ -39,9 +39,9 @@ Pikiran itu yang bikin kami meluncur ke tempat yang bukan cuma jadi spot hits IG
 
 ## **Kejutan Duduk: Kursi Pemandangan Laut Tergantung Keberuntungan?**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0aba435d4a72f0834a51addd13688a0b.jpg)
+![Kejutan Duduk: Kursi Pemandangan Laut Tergantung Keberuntung](https://images.gobaligo.id/vocus/vocus_0aba435d4a72f0834a51addd13688a0b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e855f67b3fccd15a9a4b91865ac3d263.jpg)
+![Kejutan Duduk: Kursi Pemandangan Laut Tergantung Keberuntung](https://images.gobaligo.id/vocus/vocus_e855f67b3fccd15a9a4b91865ac3d263.jpg)
 
 Begitu masuk lobby hotel, struktur kayu menjulang dan ukiran Bali yang detail langsung mencuri perhatian. Kolam pusat memantulkan sinar matahari, beberapa ikan koi berenang santai—pantes aja banyak anak-anak berkumpul di sini dengan heboh. Kami sudah pesan **high tea Selasar Deli** via **Klook** sebelumnya, stafnya ramah mengantar kami ke tempat duduk.
 
@@ -49,9 +49,9 @@ Begitu masuk lobby hotel, struktur kayu menjulang dan ukiran Bali yang detail la
 
 Awalnya dapat tempat duduk di dalam, tapi kami minta pindah ke **area teras**, dan manajernya langsung oke. Begitu pindah, pemandangan langsung melebar—di depan mata ada kolam renang bertingkat, taman tropis yang rimbun, dan sedikit lebih jauh, birunya Samudra Hindia terbentang tanpa batas.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_891ef34fcd0b0a643147be73ce53583b.jpg)
+![Kejutan Duduk: Kursi Pemandangan Laut Tergantung Keberuntung](https://images.gobaligo.id/vocus/vocus_891ef34fcd0b0a643147be73ce53583b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_59f0bb045f9fca4930237ee9f250e592.jpg)
+![Kejutan Duduk: Kursi Pemandangan Laut Tergantung Keberuntung](https://images.gobaligo.id/vocus/vocus_59f0bb045f9fca4930237ee9f250e592.jpg)
 
 **⚠️ Pengingat Penting:**
 
@@ -69,7 +69,7 @@ Kami **booking lewat Klook** untuk teh sore hari Jumat, dapat harga promo **USD$
 
 **Minggu–Kamis (paket):**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d4360aaab8ec5a4b870ed0151ffbe862.jpg)
+![Sesi Teh Sore: Nikmatnya Beda di Hari Biasa vs Akhir Pekan](https://images.gobaligo.id/vocus/vocus_d4360aaab8ec5a4b870ed0151ffbe862.jpg)
 
 **Jumat–Sabtu (prasmanan):**
 
@@ -85,7 +85,7 @@ Setelah minum teh sore, naik lift turun **puluhan lantai** langsung ke area pant
 
 🏊 Pakai kolam renang infinity gratis 🏖️ Akses ke pantai pribadi (pasirnya super halus!) 🍹 Minuman di beach club bayar terpisah (sekitar IDR 150,000/cangkir)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b34b076d8897f9eb4a0bb1f33e08010b.jpg)
+![Hotel Adventure: Kemewahan di Tebing](https://images.gobaligo.id/vocus/vocus_b34b076d8897f9eb4a0bb1f33e08010b.jpg)
 
 Kami rebahan di daybed pinggir kolam, lihat matahari terbenam yang bikin langit jadi ungu-pink, rasanya ogah banget pergi...
 

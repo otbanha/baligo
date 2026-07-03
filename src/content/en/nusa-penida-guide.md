@@ -51,25 +51,25 @@ Nusa Penida Travel Guide Map
 
 ▼ Must-Visit Spots on Nusa Penida: T-Rex Cliff (Kelingking Beach)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_292b0e4de7b79d70086bc92c66b6524b.jpg)
+![Top Attractions on Nusa Penida](https://images.gobaligo.id/vocus/vocus_292b0e4de7b79d70086bc92c66b6524b.jpg)
 
 Getting down to the beach below isn’t easy! A glass elevator is currently under construction, expected to be completed by 2025.
 
 ▼ Must-Visit Spots on Nusa Penida: Broken Beach
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1531b3a5efc742043f3f9dad6e1bf6db.jpg)
+![Top Attractions on Nusa Penida](https://images.gobaligo.id/vocus/vocus_1531b3a5efc742043f3f9dad6e1bf6db.jpg)
 
 ▼ Must-Visit Spots on Nusa Penida: Tree House
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_963e9c6140fb895c330510fb89836af6.jpg)
+![Top Attractions on Nusa Penida](https://images.gobaligo.id/vocus/vocus_963e9c6140fb895c330510fb89836af6.jpg)
 
 ▼ Must-Visit Spots on Nusa Penida: Diamond Beach
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ca4724a8eeb3ab1c2e10fa29582c9546.jpg)
+![Top Attractions on Nusa Penida](https://images.gobaligo.id/vocus/vocus_ca4724a8eeb3ab1c2e10fa29582c9546.jpg)
 
 ▼ Must-Visit Spots on Nusa Penida: Angel's Billabong
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd130df8e4d73710b447668b5bb55c43.jpg)
+![Top Attractions on Nusa Penida](https://images.gobaligo.id/vocus/vocus_fd130df8e4d73710b447668b5bb55c43.jpg)
 
 ## How to Explore Nusa Penida
 
@@ -86,7 +86,7 @@ Ready to explore the top attractions of Nusa Penida? From the dramatic cliffs of
 
 ### Nusa Penida Snorkeling / Diving / Water Activities
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c79ccabc1b7bc476729ce69183bf4f9b.png)
+![Nusa Penida Snorkeling / Diving / Water Activities](https://images.gobaligo.id/vocus/vocus_c79ccabc1b7bc476729ce69183bf4f9b.png)
 
 - [Manta Point Snorkeling & East Coast Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F145570-nusa-penida-manta-point-snorkeling-east-coast-tour%2F)
 - [Nusa Lembongan & Manta Bay Snorkeling Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21684-nusa-lembongan-manta-bay-snorkeling-experience%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df6a1d671a3)
@@ -111,7 +111,7 @@ For those looking to travel from Bali to Nusa Penida, you need to know that the 
 
 Here is the ferry schedule:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00a1f99f9b40877bd7047828e486803d.jpg)
+![How to Take a Ferry from Bali to Nusa Penida (Canggu, Kuta, ](https://images.gobaligo.id/vocus/vocus_00a1f99f9b40877bd7047828e486803d.jpg)
 
 For reference only.
 
@@ -141,25 +141,25 @@ For those planning their own itinerary, there are several accommodation options 
 
 **Luxury Stay:** [**Adiwana Warnakali Resort**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=12145599) [Booking](https://booking.tpm.li/3tFPqiDE)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aaa80c2680b499073712555131a3e50f.png)
+![Accommodation Recommendations](https://images.gobaligo.id/vocus/vocus_aaa80c2680b499073712555131a3e50f.png)
 
 This isn't the most expensive luxury resort on Nusa Penida, but it's definitely one of the best! Perched on the waterfront, it features spacious luxury suites and a hearty breakfast.
 
 **Luxury Private Villa:** [**MAUA Nusa Penida**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=756874&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fhotels%2Fdetail%2F716134-maua-nusa-penida-bali%2F%3Fcheck_in%3D2023-10-16%26check_out%3D2023-10-17%26room_num%3D1%26adult_num%3D2%26child_num%3D0%26age%3D%26page_source%3Dhotel_list_page%26server_data%3D81124443136e8db398c4150149cf9cb8ad5d0b7952d56cc9b85d7c43ece88c583ef6a94734cddb541b772abe3853618168df7d3b4ca6468acc19f1de2836e7826a1d47060ff118517ead41986362fdcfc40dfd9c44da728ef31f43dd57fe7804%26source_price_token%3DeyJjdXJyZW5jeSI6IlRXRCIsInByaWNlIjo3MTAxLjAsInNvdXJjZSI6MX0%3D%26is_suggest_time%3D1) 4.5-star private pool oceanfront villa
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9582b5f63acf8e9f46b2ade9f8b1ed2f.jpg)
+![Accommodation Recommendations](https://images.gobaligo.id/vocus/vocus_9582b5f63acf8e9f46b2ade9f8b1ed2f.jpg)
 
 **Mid-Range:** [Jukung Cottage](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=25688678)
 
 This beachfront resort-style cottage guesthouse offers excellent value for money. It features a restaurant, outdoor swimming pool, bar, and shared lounge.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_251cd6f79234af91002d2fa6ac0c00ff.png)
+![Accommodation Recommendations](https://images.gobaligo.id/vocus/vocus_251cd6f79234af91002d2fa6ac0c00ff.png)
 
 **Budget Stay:** [Hostel Bukit Sangcure](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=10306621)
 
 A popular choice for backpackers on Nusa Penida. This affordable hostel is close to the port and offers breakfast and bicycle rentals.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_551a7a5e13dc852eeff5da3abefc508c.png)
+![Accommodation Recommendations](https://images.gobaligo.id/vocus/vocus_551a7a5e13dc852eeff5da3abefc508c.png)
 
 Finally, here are a few important reminders for travelers heading to Nusa Penida:
 
@@ -190,7 +190,7 @@ Finally, here are a few important reminders for travelers heading to Nusa Penida
 - [Nusa Penida & Lembongan Private Boat Charter](https://affiliate.klook.com/redirect?aid=116349&aff_adid=764788&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F92390-private-boat-charter-for-nusa-penida-and-lembongan%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7668f8e7d8)
 - [KKday Options](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=penida&qs=penida&cid=25072)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb79c635d635478033f16ade1e50b0ed.png)
+![Accommodation Recommendations](https://images.gobaligo.id/vocus/vocus_eb79c635d635478033f16ade1e50b0ed.png)
 
 [Click here](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing) to enlarge and save.
 
@@ -198,8 +198,8 @@ We also introduced nine Nusa Penida restaurants with infinity pools, golden sand
 
 **▶ Nusa Penida Guide Part 2:** [Savor the Blue Skies and Cuisine of Nusa Penida: Top 9 Picks](/blog/nusa-penida-best-restaurants/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_22ae845281804118aa70b28861ed088e.jpg)
+![Accommodation Recommendations](https://images.gobaligo.id/vocus/vocus_22ae845281804118aa70b28861ed088e.jpg)
 
 **▶ Nusa Penida Guide Part 3:** [Top 4 Snorkeling Spots in Nusa Penida / How to Join a Snorkeling Tour?](/blog/nusa-penida-snorkeling-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_45dcf8200acb1b2e97b7e51cf764425f.jpg)
+![Accommodation Recommendations](https://images.gobaligo.id/vocus/vocus_45dcf8200acb1b2e97b7e51cf764425f.jpg)

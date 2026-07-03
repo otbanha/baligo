@@ -59,7 +59,7 @@ https://youtu.be/Y0KW6eo79fU
 
 ## 爆紅嘅 H2O / River Pool
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776081381855-pools-beach-ayana-river.jpeg)
+![爆紅嘅 H2O / River Pool](https://images.gobaligo.id/images/2026-04/1776081381855-pools-beach-ayana-river.jpeg)
 
 同以前天堂鳥唔使排隊隨便影嘅體驗唔同，而家條片提到嘅 River Pool (H2O Pool) 已經有新嘅規則：
 

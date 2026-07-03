@@ -20,7 +20,7 @@ lang: id
 _srcHash: f8e3c90379831dd8f43780313923d235
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_06367c77917f8c1c8b1ed21fc957cc5a.jpg)
+![Kebakaran di Pasar Ubud, 1.033 Pedagang Terdampak](https://images.gobaligo.id/vocus/vocus_06367c77917f8c1c8b1ed21fc957cc5a.jpg)
 
 Hari ini, 17/8 siang, terjadi kebakaran di basement Pasar Ubud. Api berkobar dari siang hingga sore belum juga padam. Kebakaran ini menyebabkan 1.033 pedagang di pasar tidak bisa berjualan.
 

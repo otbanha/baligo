@@ -42,7 +42,7 @@ Sebelum berangkat, ada beberapa hal yang perlu kamu tahu:
 2. **Reservasi itu penting banget**: Apalagi restoran andalan di resort atau hotel populer — booking duluan biar nggak kecewa.
 3. **Harganya bervariasi**: Dari yang ramah kantong sampai yang super mewah, pilihan buffet di Bali banyak banget, cocok buat semua budget.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2a0cec376a332ed7b87a3f8da9fbf811.png)
+![Tips Sebelum Makan Buffet di Bali](https://images.gobaligo.id/vocus/vocus_2a0cec376a332ed7b87a3f8da9fbf811.png)
 
 ***
 
@@ -54,7 +54,7 @@ Ini dia daftar 33 restoran buffet terbaik yang udah dikelompokin berdasarkan are
 
 Nusa Dua adalah kawasan resort mewah di Bali, dengan banyak hotel bintang lima dan restoran kelas atas — cocok buat kamu yang cari pengalaman makan premium.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_33114102495ac1909c71659597168c11.png)
+![Nusa Dua](https://images.gobaligo.id/vocus/vocus_33114102495ac1909c71659597168c11.png)
 
 1. **El Patio Restaurant @ Melia Bali**
 2. - Keunggulan: prasmanan internasional, minuman bayar terpisah.
@@ -98,7 +98,7 @@ Dijuluki sebagai "prasmanan all-you-can-eat paling top di Bali", The Mulia Resor
 
 ### 更多努沙杜瓦吃喝玩樂介紹
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b44c89e53b6c550aa22f958f7e8008f5.png)
+![更多努沙杜瓦吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_b44c89e53b6c550aa22f958f7e8008f5.png)
 
 Nusa Dua adalah kawasan di Bali yang terkenal dengan resort mewahnya, punya pantai putih bersih, air laut biru jernih, dan fasilitas wisata yang lengkap. Tempat ini jadi pilihan utama buat kamu yang cari pengalaman high-end dan liburan tenang. Di sini juga ada spa kelas atas, olahraga air, dan aktivitas santai yang cocok untuk seluruh keluarga — surga banget buat semua tipe traveler. Mau tahu lebih banyak tips soal Nusa Dua? [Klik di sini](/blog/nusa-dua-guide/).
 
@@ -108,7 +108,7 @@ Nusa Dua adalah kawasan di Bali yang terkenal dengan resort mewahnya, punya pant
 
 Seminyak adalah pusat gaya hidup di Bali, dengan banyak restoran dan bar kelas atas — cocok buat kamu yang suka pengalaman makan yang lebih elegan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7888433ebd199975afda9a2cf81be919.png)
+![Seminyak](https://images.gobaligo.id/vocus/vocus_7888433ebd199975afda9a2cf81be919.png)
 
 1. **MoonLite Kitchen & Bar @ Grand Seminyak**
 2. - Keunggulan: restoran di lantai atas, pilihan dessert melimpah, harganya worth it.
@@ -142,7 +142,7 @@ Seminyak adalah pusat gaya hidup di Bali, dengan banyak restoran dan bar kelas a
 
 ### 更多水明漾吃喝玩樂介紹
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_366287b60b610bfff45aea753d91ba55.jpg)
+![更多水明漾吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_366287b60b610bfff45aea753d91ba55.jpg)
 
 Seminyak adalah kawasan mempesona di Bali yang memadukan gaya modern dan tradisi, punya restoran kelas atas, butik-butik keren, dan kehidupan malam yang semarak—surga banget buat liburan! Mau tahu info lebih lanjut tentang tempat wisata seru, kuliner, SPA, beach club? [Klik di sini](/blog/seminyak-guide/).
 
@@ -152,7 +152,7 @@ Seminyak adalah kawasan mempesona di Bali yang memadukan gaya modern dan tradisi
 
 Ubud adalah pusat budaya Bali, punya banyak restoran sehat dan pengalaman makan unik, cocok buat kamu yang suka alam dan budaya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bb1d320b55124d8d7d028a195ecabeef.png)
+![Ubud 烏布地區](https://images.gobaligo.id/vocus/vocus_bb1d320b55124d8d7d028a195ecabeef.png)
 
 1. **Shrida Taste Of Ubud**
 2. - Keunggulan: Sarapan sehat, kopi dan jusnya juara.
@@ -180,7 +180,7 @@ Ubud adalah pusat budaya Bali, punya banyak restoran sehat dan pengalaman makan 
 
 ### Lebih banyak rekomendasi kuliner dan seru-seruan di Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
+![Lebih banyak rekomendasi kuliner dan seru-seruan di Ubud](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
 Ubud adalah pusat seni dan budaya Bali, dengan sawah bertingkat yang hijau, hutan yang tenang, dan tradisi yang kental, bikin siapa pun betah. Tempat ini cocok banget buat kamu yang mau rileks dan melepas penat. Mau eksplorasi tradisi lokal, nikmatin alam, atau coba aktivitas seru di luar ruangan yang unik perpaduan makanan + pemandangan, Ubud bakal kasih pengalaman yang beda! Mau tahu lebih banyak tips Ubud? [Klik di sini](/blog/ubud-guide/).
 
@@ -190,7 +190,7 @@ Ubud adalah pusat seni dan budaya Bali, dengan sawah bertingkat yang hijau, huta
 
 Kuta adalah kawasan wisata populer di Bali, banyak restoran murah dan suasana makan yang rame, cocok buat kamu yang budget terbatas.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_682699a36a5f5fdef9339ddce2f6cdad.png)
+![Kuta](https://images.gobaligo.id/vocus/vocus_682699a36a5f5fdef9339ddce2f6cdad.png)
 
 1. **Jejaton Restaurant**
 2. - Keunggulan: Prasmanan sarapan dan brunch, mengusung konsep lokal dan Korea.
@@ -212,7 +212,7 @@ Kuta adalah kawasan wisata populer di Bali, banyak restoran murah dan suasana ma
 
 ### Info Seru Lainnya soal Kuta
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
+![Info Seru Lainnya soal Kuta](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
 
 Kuta adalah salah satu destinasi paling hidup di Bali, terkenal dengan kehidupan malam yang ramai, jalanan yang sibuk, dan pantai yang cocok untuk pemula selancar. Di sini kamu bisa menemukan banyak toko, restoran, dan tempat hiburan—cocok banget buat yang suka petualangan dan belanja. Mau menikmati pesta seru atau sunset cantik, Kuta bakal bikin liburanmu penuh kenangan! Mau tahu lebih banyak tips Kuta? [Klik di sini](/blog/2023-12-13-657598bdfd8978000120fe20/).
 
@@ -222,7 +222,7 @@ Kuta adalah salah satu destinasi paling hidup di Bali, terkenal dengan kehidupan
 
 Jimbaran terkenal dengan seafood dan sunset-nya, punya banyak restoran tepi pantai yang cocok buat kamu yang suka makan dengan pemandangan laut.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a115898644a398349b7a3ee64d6307e4.png)
+![Jimbaran](https://images.gobaligo.id/vocus/vocus_a115898644a398349b7a3ee64d6307e4.png)
 
 1. **Bella Cucina @ InterContinental Bali Resort**
 2. - Keunggulan: Prasmanan masakan Italia dengan pemandangan yang kece.
@@ -254,7 +254,7 @@ Jimbaran terkenal dengan seafood dan sunset-nya, punya banyak restoran tepi pant
 
 ### Lebih Banyak Rekomendasi Makan & Main di Jimbaran
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c81d870630ca07dead1d2e8614f923c4.jpg)
+![Lebih Banyak Rekomendasi Makan & Main di Jimbaran](https://images.gobaligo.id/vocus/vocus_c81d870630ca07dead1d2e8614f923c4.jpg)
 
 Jimbaran adalah surga tepi pantai di Bali yang terkenal dengan suasana romantis dan kulinernya. Punya pantai pasir keemasan yang memesona dan pemandangan sunset yang spektakuler. Restoran seafood di sini wajib banget kamu coba, apalagi ditambah resort mewah dan nuansa desa nelayan yang tenang — bikin liburanmu terasa mewah tapi tetap dekat dengan kehidupan lokal. Mau jalan-jalan keluarga atau kencan romantis, Jimbaran siap memenuhi ekspektasimu! Mau tahu lebih banyak soal Jimbaran? [Klik di sini](/blog/jimbaran-guide/).
 
@@ -264,7 +264,7 @@ Jimbaran adalah surga tepi pantai di Bali yang terkenal dengan suasana romantis 
 
 ### Brisa Brunch di CIRE Restaurant - Pengalaman Makan Mewah di Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f0dcb672227792f739a984ba4aacd893.png)
+![Brisa Brunch di CIRE Restaurant - Pengalaman Makan Mewah di ](https://images.gobaligo.id/vocus/vocus_f0dcb672227792f739a984ba4aacd893.png)
 
 Berada di salah satu resort paling terkenal di Bali — Alila Villas Uluwatu, CIRE Restaurant menyajikan pengalaman Sunday Brunch Brisa yang tak terlupakan. Selain suasana makan yang super kece, kamu juga bakal dimanjain sama prasmanan all-you-can-eat yang bikin ngiler.
 
@@ -276,7 +276,7 @@ Meskipun namanya 'Brunch', sesi makannya berlangsung dari siang sampai jam 4 sor
 
 > Bisa pesan di sini [Alila Seafood All-You-Can-Eat](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063734&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F156213-dining-experience-at-alila-villas-uluwatu%2F)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4517d5f5ef11b46ea70cfaf3d153eaf1.jpg)
+![Brisa Brunch di CIRE Restaurant - Pengalaman Makan Mewah di ](https://images.gobaligo.id/vocus/vocus_4517d5f5ef11b46ea70cfaf3d153eaf1.jpg)
 
 Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal dengan tebing-tebing spektakuler, pantai yang memesona, dan spot surfing kelas dunia. Suasananya penuh romantisme tropis—cocok banget buat nikmatin sunset dan waktu santai. Kalau kamu juga mau nginep di Uluwatu, cek aja rekomendasi makan, minum, dan main yang udah kami susun rapi biar liburanmu makin seru: [【Panduan Uluwatu】Rekomendasi Tempat Wisata, Makan, Minum, dan Main di Uluwatu](/blog/uluwatu-guide/)
 
@@ -302,7 +302,7 @@ Legian terletak di antara Kuta dan Seminyak, punya banyak restoran harga menenga
 
 ## **Area Canggu**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_121cf729f744444c6cda09f845e40fa4.png)
+![Area Canggu](https://images.gobaligo.id/vocus/vocus_121cf729f744444c6cda09f845e40fa4.png)
 
 1. **Little Singapore By Chef Bernard, Kerobokan Kelod**
 2. - Keunggulan: Kepiting saus telur asin jadi menu andalan.
@@ -333,7 +333,7 @@ Legian terletak di antara Kuta dan Seminyak, punya banyak restoran harga menenga
 - Alamat: Jl. Pengubugan Banjar, Kerobokan, Bali
 - Info online: [Plataran](https://www.plataran.com/plataran-canggu/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7122394cbf4af7d78322052be3478c07.png)
+![Area Canggu](https://images.gobaligo.id/vocus/vocus_7122394cbf4af7d78322052be3478c07.png)
 
 ## Daerah Lain
 

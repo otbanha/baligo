@@ -23,7 +23,7 @@ lang: en
 _srcHash: 1289e00e9ae25d7cdc0b8d225a4748d9
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_994e1b38fe9e5ae02d04c9e178525e3b.jpg)
+![【Exploring Bali】Bali Night Market Street Food｜Pasar Kreneng,](https://images.gobaligo.id/vocus/vocus_994e1b38fe9e5ae02d04c9e178525e3b.jpg)
 
 What Bali street food can you find at Bali's night markets? Exploring night markets is one of the best ways to immerse yourself in Bali!
 

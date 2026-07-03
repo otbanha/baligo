@@ -29,7 +29,7 @@ _srcHash: 801c91e2ec4352fd7f96f0b041beca37
 
 Bali adalah salah satu destinasi wisata grup paling hits di seluruh Asia. Tapi pas ngatur trip grup yang lebih dari 10 orang, dari susun itinerary sampai urusan dadakan, banyak banget tantangannya. Ini dia lima masalah umum yang sering muncul pas rencanain trip grup 10+ orang, plus cara ngatasinnya lewat agen travel profesional biar perjalananmu makin oke.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f185d21cca0ea1179fff3e7a15c7aad9.png)
+![Tantangan & Solusi Trip Grup 10+ Orang di Bali](https://images.gobaligo.id/vocus/vocus_f185d21cca0ea1179fff3e7a15c7aad9.png)
 
 ## 5 Tantangan Utama Trip Grup 10+ Orang
 
@@ -57,7 +57,7 @@ Trip grup gede biasanya ngandelin satu orang perencana utama buat koordinasi dan
 
 Hadapi tantangan di atas, agen travel isBali yang udah fokus di pasar wisata Bali selama lebih dari 10 tahun, punya sumber daya lokal dan solusi one-stop buat grup 10+ orang, bikin pengalaman mulus:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_81e1c944afa9687db6a693da1de31ab9.png)
+![Solusi Profesional: Layanan Mulus dari Agen Travel Spesialis](https://images.gobaligo.id/vocus/vocus_81e1c944afa9687db6a693da1de31ab9.png)
 
 - Desain itinerary custom: Lewat komunikasi sebelum trip, kita paham preferensi anggota, gabungin hidden gems Bali sama tempat klasik, bikin itinerary fleksibel yang bisa dibagi grup.
 - Pilih sumber daya lokal terbaik: Tim supir berpengalaman dan guide Mandarin, hotel serta villa dengan fasilitas ramah difabel.

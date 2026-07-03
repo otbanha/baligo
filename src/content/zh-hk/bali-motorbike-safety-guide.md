@@ -28,11 +28,11 @@ _srcHash: 568b26360c7dcb4731f8be9223f3264e
 
 近日，一名嚟自我哋Facebook群組嘅團友Poon分享咗佢喺峇里島嘅旅遊經歷，強調咗旅遊安全嘅重要性，尤其係揸電單車時嘅風險。佢提醒其他旅客，喺峇里島玩嘅時候一定要特別注意安全。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b84e8bf33672e13070024de3c98fb7bc.jpg)
+![峇里島電單車意外自救指南：國際駕駛執照規定、保險賠償漏洞同點樣安全移動全攻略](https://images.gobaligo.id/vocus/vocus_b84e8bf33672e13070024de3c98fb7bc.jpg)
 
 Poon喺返程時遇到咗兩位受傷嘅旅客，佢哋都係亞洲面孔，而且都係後生仔女。呢兩位受傷者同Poon同機返程。揸電單車雖然方便，但喺陌生嘅環境下，意外嘅發生率相當高。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1a17602d666ba618a75cd33abb72790a.png)
+![峇里島電單車意外自救指南：國際駕駛執照規定、保險賠償漏洞同點樣安全移動全攻略](https://images.gobaligo.id/vocus/vocus_1a17602d666ba618a75cd33abb72790a.png)
 
 ## 電單車騎行便利與危險並存
 

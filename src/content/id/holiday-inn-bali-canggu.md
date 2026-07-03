@@ -35,7 +35,7 @@ _srcHash: b57fcaa03e4759ab006ac79829776a71
 
 Kalau kamu lagi cari tempat liburan yang bisa menikmati keindahan alam Bali sambil tetap merasakan kemudahan modern, **Holiday Inn Resort Bali Canggu (by IHG)** yang baru buka akhir 2023 ini wajib banget masuk daftar incaran. Resort bintang lima ini nggak cuma punya lokasi kece, tapi juga pelayanan ramah, fasilitas lengkap, dan value for money yang juara — sampai-sampai dapat rating **9,4** di berbagai platform.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4164487f518e958a96464f1555658ad1.jpg)
+![Holiday Inn Resort Bali Canggu: Dua dewasa nginep, dua anak ](https://images.gobaligo.id/vocus/vocus_4164487f518e958a96464f1555658ad1.jpg)
 
 ***
 
@@ -50,15 +50,15 @@ Buat yang suka surfing, bisa langsung ke Echo Beach atau Berawa Beach buat nanta
 ## 🛏️ Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian
 
 Hotel punya 10 tipe kamar, dari standar sampai suite keluarga. Yang paling favorit sama keluarga adalah **1 Bedroom Kids Suite** — desainnya bener-bener dipikirin. Anak-anak bisa tidur di ranjang susu sendiri, tinggal tutup sekat, jadi punya ruang pribadi sendiri. Seru buat quality time keluarga, tapi tetap ada privasi.
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350877857-517838674.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350878683-517839093.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350879194-519119964.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350879593-569654844.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350880009-588605925.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350880415-caption_1_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350880928-caption_5_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350881223-caption_6_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774350881649-kr.jpg)
+![Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian](https://images.gobaligo.id/images/2026-03/1774350877857-517838674.jpg)
+![Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian](https://images.gobaligo.id/images/2026-03/1774350878683-517839093.jpg)
+![Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian](https://images.gobaligo.id/images/2026-03/1774350879194-519119964.jpg)
+![Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian](https://images.gobaligo.id/images/2026-03/1774350879593-569654844.jpg)
+![Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian](https://images.gobaligo.id/images/2026-03/1774350880009-588605925.jpg)
+![Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian](https://images.gobaligo.id/images/2026-03/1774350880415-caption_1_.jpg)
+![Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian](https://images.gobaligo.id/images/2026-03/1774350880928-caption_5_.jpg)
+![Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian](https://images.gobaligo.id/images/2026-03/1774350881223-caption_6_.jpg)
+![Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian](https://images.gobaligo.id/images/2026-03/1774350881649-kr.jpg)
 
 Banyak tamu yang bilang kamarnya nyaman banget:
 
@@ -72,7 +72,7 @@ Restoran di hotel ini menyajikan berbagai hidangan internasional dan lokal. Tapi
 
 "Sarapan prasmanannya luar biasa — dari buah tropis segar sampai hidangan internasional yang lezat, semuanya ada. Bikin setiap pagi terasa seperti sebuah kenikmatan."
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f3023a2f7b257b63a50bff27203069b8.jpg)
+![Pilihan Makanan Berlimpah, Sarapan Jadi Favorit](https://images.gobaligo.id/vocus/vocus_f3023a2f7b257b63a50bff27203069b8.jpg)
 
 "Pilihan sarapan beragam, termasuk banyak opsi sehat. Ada juga menu à la carte yang sudah termasuk dalam prasmanan, jadi setiap hari kamu bisa mulai dengan suasana hati yang baik."
 
@@ -123,9 +123,9 @@ Semangat dan profesionalisme staf bikin pengalaman nginep makin berkesan. Skor k
 
 Harga rata-rata hotel di Bali sekitar $76–$100 USD, sementara Holiday Inn Canggu meskipun harganya sedikit lebih tinggi (sekitar $151–$200), fasilitas, layanan, dan pengalaman yang ditawarkan benar-benar sepadan. Banyak tamu bilang: 'Value for money banget, overall experience melebihi ekspektasi.'
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f46a46076ac4642c59561fdae72f94bd.jpg)
+![Worth it banget, harganya masuk akal](https://images.gobaligo.id/vocus/vocus_f46a46076ac4642c59561fdae72f94bd.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_03096e8f8cdecab5d48ef06a3ec5cd91.jpg)
+![Worth it banget, harganya masuk akal](https://images.gobaligo.id/vocus/vocus_03096e8f8cdecab5d48ef06a3ec5cd91.jpg)
 
 ***
 

@@ -27,7 +27,7 @@ _srcHash: 06a9520bc5be4fc50f523fb9b101d817
 
 要入境印尼/巴厘岛观光，并申请电子签证吗？印尼移民总局已将电子签证（EVOA）申请种类进行改版，原本的 B213 已经找不到，旅游的观光签证改为 **TOURISM SINGLE ENTRY VISITOR VISA-60DAYS** 与 **B1 - TOURISM(VISA ON ARRIVAL)-30DAYS** 两种。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b50f446bf85ff20e26f33059953c16c.png)
+![观光签证](https://images.gobaligo.id/vocus/vocus_3b50f446bf85ff20e26f33059953c16c.png)
 
 那么，一般旅游要申请哪一项呢？
 
@@ -39,7 +39,7 @@ _srcHash: 06a9520bc5be4fc50f523fb9b101d817
 
 以下是两种申请种类的比较：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f3ec80b73a526b4e7ca96f0c3b82a89.png)
+![观光签证](https://images.gobaligo.id/vocus/vocus_2f3ec80b73a526b4e7ca96f0c3b82a89.png)
 
 ➡️[找巴厘岛住宿请看这里](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️  
 ➡️[更多巴厘岛超值优惠请点我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
@@ -85,7 +85,7 @@ B1 观光签证是单次入境签证，有效期为30天，仅限于观光、政
 
 ## 简要说明：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_587d0faa86baaf1230364fe6675ef04f.png)
+![简要说明：](https://images.gobaligo.id/vocus/vocus_587d0faa86baaf1230364fe6675ef04f.png)
 
 ➡️[找巴厘岛住宿请看这里](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️  
 ➡️[更多巴厘岛超值优惠请点我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️

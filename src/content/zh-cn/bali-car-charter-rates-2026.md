@@ -48,7 +48,7 @@ _srcHash: ea4815b69a3bd1980e5d03164eef97b3
 
 > 这样做，您还是清楚看到原本的车资，我们也能补贴真正变贵的油钱。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
+![新的收费方式（由司机们共同决定）](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
 
 ## 📅 生效日期与适用对象
 

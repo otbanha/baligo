@@ -21,13 +21,13 @@ Video dari YouTuber keturunan Indonesia [[TwoSis赤道女孩](https://www.youtub
 
 Dia pertama-tama memperkenalkan hotel yang mereka tempati, sebuah villa tersembunyi namun penuh gaya dengan kolam renang pribadi, kamar dan kamar mandi yang luas, serta pelayanan yang ramah. Setelah itu, mereka pergi ke Monkey Forest untuk melihat kera liar yang lucu dan berbagi tips penting. Kemudian, mereka mengunjungi Pasar Tradisional Ubud dan pasar indoor yang baru. Dia juga merekomendasikan untuk mencoba Alas Harum, tempat yang menawarkan ayunan hutan, tur pabrik kopi, dan berbagai aktivitas seru lainnya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7e5bee402e81b3e268521f36d78f557f.jpg)
+![Rencana Liburan 4 Hari di Ubud: Monkey Forest / Pasar Ubud /](https://images.gobaligo.id/vocus/vocus_7e5bee402e81b3e268521f36d78f557f.jpg)
 
 ##
 
 ## Akomodasi
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2c83649f8235d8c15377854cd1badf84.png)
+![Akomodasi](https://images.gobaligo.id/vocus/vocus_2c83649f8235d8c15377854cd1badf84.png)
 
 Japa Suites & Villa tempat mereka menginap tersembunyi di gang kecil, dengan tampilan luar yang sederhana namun elegan, khas villa Asia Tenggara. Di pintu masuk gang ada penjaga, dan begitu masuk ke area villa, kamu akan disambut taman tengah yang luas dengan tanaman hijau subur yang kontras dengan dinding putih dan atap genteng kuning. Staf menyambut dengan hangat dan mengantar mereka ke kamar villa. Kamar villa tidak terlalu besar, tapi setiap detailnya menunjukkan desain yang cermat dan penataan yang apik. Lantai pertama memiliki dua kamar single dengan gaya minimalis modern, lantai kayu terang dan dinding putih menciptakan suasana segar dan nyaman. Lantai dua adalah kamar dengan tempat tidur besar, lantai menggunakan ubin warna hangat, dan dinding dengan nuansa cokelat tua memberikan sedikit kesan mewah sederhana.
 
@@ -67,7 +67,7 @@ Di pasar baru itu, mereka nemuin beberapa kerajinan tangan yang unik dan fungsio
 
 Setelah puas dari pasar yang ramai, mereka lanjut ke tempat terkenal lain di Ubud, Serayu Pottery. Tempat ini spesialisasi DIY experience kayak bikin gerabah dan melukis keramik, suasananya adem banget. Begitu masuk area, langsung disambut pepohonan rindang dan pot-pot keramik yang tersusun rapi, menciptakan vibe kayak surga tersembunyi. Di samping ruang kelas ada galeri pameran yang isinya karya keramik cantik hasil lukisan peserta sebelumnya, jadi bisa jadi inspirasi. Sebelum mulai, stafnya jelasin detail tentang sifat tanah liat dan tips bikin keramik, dari ngulenin sampai membentuk, semuanya harus teliti. Abis itu, waktunya praktik. Mereka milih pot keramik polos sebagai media lukis, dan gurunya demo berbagai teknik dekorasi kayak glasir tetes, gradasi warna, dan gambar pola, seru banget. Selama melukis, hostnya juga cerita sejarah panjang seni keramik dan makna artistiknya, bikin mereka makin paham. Setelah kelas selesai, karya peserta harus dibakar suhu tinggi dulu biar jadi permanen.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b41e6268aabe4e4c156ff8807840bee3.jpg)
+![Serayu Pottery — Kelas Keramik](https://images.gobaligo.id/vocus/vocus_b41e6268aabe4e4c156ff8807840bee3.jpg)
 
 Stafnya bakal kirim karya jadi beberapa minggu kemudian, jadi kamu bisa terus ingat pengalaman seru bikin keramik ini.
 

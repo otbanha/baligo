@@ -31,7 +31,7 @@ Update:2026/06/07
 
 峇里島唔單止以迷人嘅沙灘、熱鬧嘅文化活動同豐富嘅自然景觀聞名，梯田更加係佢嘅標誌性景點之一。獨特嘅水稻梯田唔單止帶嚟壯麗嘅視覺享受，仲展現咗當地農耕文化同社會結構。**峇里島嘅兩大梯田區——德格拉朗梯田**（Tegalalang Rice Terraces）同**賈提魯維梯田**（Jatiluwih Rice Terraces），堪稱世界奇觀，令遊客深入了解峇里島農村生活，親身體驗大自然嘅寧靜之美。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_681188d17bd939f1995e2b811dd9ea8d.jpg)
+![峇里島梯田介紹：探索峇里島兩大梯田區](https://images.gobaligo.id/vocus/vocus_681188d17bd939f1995e2b811dd9ea8d.jpg)
 
 ## **咩係峇里島梯田？**
 
@@ -39,19 +39,19 @@ Update:2026/06/07
 
 以下，我哋會深入介紹呢兩大梯田區嘅特色同最佳遊覽方式。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e4eb6216ccf69fd8413b958ab5010ec.png)
+![咩係峇里島梯田？](https://images.gobaligo.id/vocus/vocus_4e4eb6216ccf69fd8413b958ab5010ec.png)
 
 ## **德格拉朗梯田（Tegalalang Rice Terrace）**
 
 位於烏布（Ubud）北部嘅德格拉朗梯田，係峇里島最具代表性嘅觀光梯田景點之一。佢壯觀又秀麗嘅梯田景觀同豐富嘅周邊活動吸引咗無數遊客，成為攝影愛好者同自然愛好者嘅必訪之地。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_04c9efaa4e64a1161cd73552f0fa0eaf.jpg)
+![德格拉朗梯田（Tegalalang Rice Terrace）](https://images.gobaligo.id/vocus/vocus_04c9efaa4e64a1161cd73552f0fa0eaf.jpg)
 
 ### **德格拉朗梯田嘅特色**
 
 德格拉朗梯田最大嘅特色係佢**壯觀嘅景觀同獨特嘅地理位置**。梯田嘅階層高低不一，而且大部分喺山坡上面，透過蘇巴克灌溉系統令水流順利流過每一層稻田，形成靚到爆嘅水田反射效果，尤其係日出同日落嗰陣更加夢幻動人。除此之外，德格拉朗嘅梯田周圍有好多唔同嘅熱帶植物，成個景觀綠油油，好似置身喺綠色天堂咁。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4b230e91b2e502eebc023b2f37cd16aa.jpg)
+![德格拉朗梯田嘅特色](https://images.gobaligo.id/vocus/vocus_4b230e91b2e502eebc023b2f37cd16aa.jpg)
 
 ### **遊覽德格拉朗梯田嘅建議**
 
@@ -73,13 +73,13 @@ Update:2026/06/07
 
 ## **賈提魯維梯田（Jatiluwih Rice Terraces）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_03240ac24d35267825628f03033462da.jpg)
+![賈提魯維梯田（Jatiluwih Rice Terraces）](https://images.gobaligo.id/vocus/vocus_03240ac24d35267825628f03033462da.jpg)
 
 賈提魯維梯田位於峇里島中部，係一個廣闊而且保存得好好嘅稻田區域。相比德格拉朗，賈提魯維梯田更加遼闊，有無邊無際嘅梯田景觀，令遊客可以徜徉喺壯麗嘅綠色海洋入面。呢度嘅梯田風景樸素，適合鍾意寧靜、追求自然美景嘅旅客。
 
 ### **賈提魯維梯田嘅特色**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_489574c7808e044a63eb6e36357de053.jpg)
+![賈提魯維梯田嘅特色](https://images.gobaligo.id/vocus/vocus_489574c7808e044a63eb6e36357de053.jpg)
 
 賈提魯維梯田俾人列入**聯合國教科文組織世界文化遺產**，呢度嘅稻田以天然和諧嘅佈局展現咗蘇巴克灌溉系統嘅精髓。賈提魯維嘅梯田分佈好廣，田地闊落，周圍群山環抱，氣氛悠閒寧靜。稻田喺唔同季節會呈現多樣嘅顏色變化，由青綠到金黃，無論幾時去都可以體驗到自然嘅美麗同壯麗。
 
@@ -103,7 +103,7 @@ Update:2026/06/07
 
 德格拉朗同賈提魯維梯田各有特色，德格拉朗梯田距離烏布比較近，適合短時間遊覽嘅旅客，而賈提魯維就更加遼闊，適合鍾意深度探索同靜謐自然嘅旅客。無論你揀邊個梯田，都可以體驗到峇里島獨特嘅農業景觀同豐富嘅文化內涵。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac65861b32e9c3e850c3f44aff108470.jpg)
+![德格拉朗同賈提魯維梯田嘅比較](https://images.gobaligo.id/vocus/vocus_ac65861b32e9c3e850c3f44aff108470.jpg)
 
 ### 最佳遊覽季節同建議
 
@@ -114,7 +114,7 @@ Update:2026/06/07
 
 **總結嚟講：** 如果你想避開午後雷陣雨、影到藍天白雲襯托嘅梯田，**5 月至 9 月嘅乾季**係天氣最穩定嘅最佳旅遊季節。不過，大自然嘅節奏唔係一成不變，當地農民會根據當年嘅雨水同氣候微調耕作時間，每次去都係一場獨一無二嘅相遇！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_598c698b2d2bbe81b87963dc055fb955.jpg)
+![最佳遊覽季節同建議](https://images.gobaligo.id/vocus/vocus_598c698b2d2bbe81b87963dc055fb955.jpg)
 
 ## **攝影小技巧：點樣捕捉梯田靚景**
 
@@ -126,11 +126,11 @@ Update:2026/06/07
 - **嘗試低角度拍攝**：踎低或者俯拍稻穗，可以令畫面更有立體感，亦都可以凸顯稻田嘅細膩細節。
 - **尊重當地居民**：如果想影當地農民或者村民，請事先徵求同意（影相徵求同意，最簡單嘅問法可以問：Foto, foto?）。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_514fdb7732d7569c92b6fa94c17ff4a4.jpg)
+![攝影小技巧：點樣捕捉梯田靚景](https://images.gobaligo.id/vocus/vocus_514fdb7732d7569c92b6fa94c17ff4a4.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3d34fb7650a517040849169ebf0f9a45.jpg)
+![攝影小技巧：點樣捕捉梯田靚景](https://images.gobaligo.id/vocus/vocus_3d34fb7650a517040849169ebf0f9a45.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_067412346850bdca5055baf5ad763348.jpg)
+![攝影小技巧：點樣捕捉梯田靚景](https://images.gobaligo.id/vocus/vocus_067412346850bdca5055baf5ad763348.jpg)
 
 峇里島嘅梯田，無論係德格拉朗定係賈提魯維，都唔單止係觀光景點，更加係當地文化同傳統農業嘅象徵。喺呢啲梯田入面，你可以體驗到同大自然和諧共處嘅感覺，亦都可以深入了解峇里島嘅農業歷史同社會結構。如果你計劃去峇里島，不妨將呢啲梯田景點列入行程，親眼見證呢片美麗嘅綠色仙境。
 
@@ -146,7 +146,7 @@ Update:2026/06/07
 
 頭先講到嘅蘇巴克（Subak）系統係峇里島獨有嘅傳統水稻梯田灌溉方式，已經有超過一千年歷史。由11世紀開始，蘇巴克就成為當地農業嘅核心，仲畀聯合國教科文組織列為**世界文化遺產**。佢唔單止係一個技術灌溉系統，更加係一個集宗教信仰、社會結構同環境保護於一身嘅獨特文化象徵。蘇巴克系統以佛教同水神信仰為基礎，強調人與自然嘅和諧，仲喺農民社區入面建立咗合作共享嘅精神。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0ca73e6ea28937fc21a3beff6cc1905f.jpg)
+![額外補充: 咩係蘇巴克系統？](https://images.gobaligo.id/vocus/vocus_0ca73e6ea28937fc21a3beff6cc1905f.jpg)
 
 蘇巴克系統由當地農民一齊組織管理，確保每一塊梯田區都可以公平咁分配到水資源。農民透過蘇巴克組織開會，協調水資源嘅分配，仲喺每個耕種季節舉行祭典，多謝水神同山神嘅保佑。蘇巴克系統亦有效避免咗水資源爭奪，強化咗農民社區之間嘅團結關係。
 

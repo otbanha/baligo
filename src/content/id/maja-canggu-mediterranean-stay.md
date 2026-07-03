@@ -48,23 +48,23 @@ _srcHash: 4e3fc5f0b45b2f04311c17771a5c51e3
 
 Kalau kamu suka banget sama gaya Mediterania, pengen foto-foto di antara lengkungan putih dan kolam biru yang kece abis kayak sampul majalah, MAJA Canggu ini wajib banget kamu coba pas liburan ke Canggu, Bali. Guest house dewasa ini cuma punya **lima kamar** aja, jadi suasananya privat dan tenang banget buat liburan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_46690b92a4255d3c1a5f80169b9fa3c5.jpg)
+![Pengalaman Menginap di MAJA Canggu, Bali: Mimpi Putih Bersih](https://images.gobaligo.id/vocus/vocus_46690b92a4255d3c1a5f80169b9fa3c5.jpg)
 
 ## Desain Arsitektur Gaya Mediterania
 
 Desain arsitektur MAJA Canggu terinspirasi dari Santorini, Yunani. Dinding putih, pintu dan jendela melengkung, plus kolam biru saling melengkapi, bikin suasananya cerah dan adem. Setiap detailnya didesain dengan cermat, bikin kamu serasa lagi di resort Mediterania.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a7da572133cc942dd3920126aafafcae.jpg)
+![Desain Arsitektur Gaya Mediterania](https://images.gobaligo.id/vocus/vocus_a7da572133cc942dd3920126aafafcae.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_87828895d296ab842856bd8730c1e270.jpg)
+![Desain Arsitektur Gaya Mediterania](https://images.gobaligo.id/vocus/vocus_87828895d296ab842856bd8730c1e270.jpg)
 
 ## Pengalaman Menginap yang Privat dan Nyaman
 
 Guest house ini cuma punya lima kamar, tiga di antaranya di lantai satu yang langsung akses ke kolam renang, dan dua lagi di lantai dua dengan ruang yang lebih luas dan pemandangan lebih oke. Setiap kamar dilengkapi AC, kamar mandi pribadi, balkon atau teras, dan beberapa tipe kamar bahkan punya kolam renang pribadi atau akses langsung ke kolam umum. Desain kamarnya detail banget, perpaduan gaya Mediterania yang simpel dengan fasilitas modern yang nyaman, bikin kamu rileks dan tenang selama menginap.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_398dbe09c57076d162a069723d13b341.jpg)
+![Pengalaman Menginap yang Privat dan Nyaman](https://images.gobaligo.id/vocus/vocus_398dbe09c57076d162a069723d13b341.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_15787366241462c9b27be04bf04849f9.jpg)
+![Pengalaman Menginap yang Privat dan Nyaman](https://images.gobaligo.id/vocus/vocus_15787366241462c9b27be04bf04849f9.jpg)
 
 ![二樓的房間](https://images.gobaligo.id/vocus/vocus_799dc9d69380721d9e7c02c8c4215197.jpg)
 
@@ -80,13 +80,13 @@ MAJA Canggu ada di area Batu Bolong, Canggu. Dari sini, kamu bisa jalan kaki ke 
 
 ## Review Tamu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6796fda073c0ccc8a554fddb8394e45a.jpg)
+![Review Tamu](https://images.gobaligo.id/vocus/vocus_6796fda073c0ccc8a554fddb8394e45a.jpg)
 
 Berdasarkan rating di Agoda, MAJA Canggu dapet skor 9.0 — tinggi banget! Tamu pada puas sama lokasi, fasilitas, dan pelayanannya. Banyak yang suka desain unik dan suasananya yang tenang. Katanya sih, ini hidden gem di Canggu yang wajib dicoba.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e5547dce5ad3713d8ac7db512d386f0a.jpg)
+![Review Tamu](https://images.gobaligo.id/vocus/vocus_e5547dce5ad3713d8ac7db512d386f0a.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0c4e7438f79dc481aebc41e45cab98f2.jpg)
+![Review Tamu](https://images.gobaligo.id/vocus/vocus_0c4e7438f79dc481aebc41e45cab98f2.jpg)
 
 ***
 
@@ -94,7 +94,7 @@ Berdasarkan rating di Agoda, MAJA Canggu dapet skor 9.0 — tinggi banget! Tamu 
 
 > ▶[Cek harga & ketersediaan kamar di Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47561919)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3425e74a7fff4a400f98cb8dcb2efb96.jpg)
+![Review Tamu](https://images.gobaligo.id/vocus/vocus_3425e74a7fff4a400f98cb8dcb2efb96.jpg)
 
 Mau rekomendasi penginapan lain di Canggu atau tips liburan ke sana? [Klik di sini](/blog/canggu-guide/)
 

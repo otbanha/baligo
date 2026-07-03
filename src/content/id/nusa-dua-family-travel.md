@@ -40,7 +40,7 @@ Bicara soal bawa anak liburan ke luar negeri, banyak orang tua langsung mikir: '
 
 Nusa Dua di Bali, banyak traveler bilang ini salah satu tempat paling cocok buat liburan keluarga di Asia Tenggara. Pantainya tenang, lingkungannya bersih, resornya berjejer, hampir seluruh kawasan ini dirancang khusus buat liburan keluarga. Waktu terakhir gue bawa anak ke sana, dari turun pesawat sampai balik ke Taiwan, gue nggak pernah khawatir sedikit pun.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775127824196-72633b6ac8d8fe913270cd9634656be0.jpg)
+![Nusa Dua Liburan Musim Panas｜Musim Dingin Panduan Wisata Kel](https://images.gobaligo.id/images/2026-04/1775127824196-72633b6ac8d8fe913270cd9634656be0.jpg)
 
 Tapi 'cocok' bukan berarti 'nggak perlu persiapan sama sekali'. Sebelum berangkat, kuasai beberapa poin penting biar liburan ini benar-benar santai dan menyenangkan.
 
@@ -55,7 +55,7 @@ Tapi 'cocok' bukan berarti 'nggak perlu persiapan sama sekali'. Sebelum berangka
 
 Nusa Dua ada di selatan Bali, suhu sepanjang tahun sekitar 26–33°C. Musim kemarau (Mei sampai Oktober) adalah waktu paling nyaman buat liburan, musim hujan (November sampai April) kadang ada hujan singkat di sore hari, tapi biasanya nggak ganggu itinerary.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775127893271-e7cd6a46660c3237454c5f8185b741b5.jpg)
+![Cuaca & Pakaian](https://images.gobaligo.id/images/2026-04/1775127893271-e7cd6a46660c3237454c5f8185b741b5.jpg)
 
 Saran pakaian buat anak: baju katun tipis dan adem, sandal atau sendal anti air, baju renang wajib bawa. Sunscreen adalah barang wajib setiap hari, sinar UV di pantai lebih kuat dari yang kamu bayangin, kulit anak yang sensitif perlu perhatian ekstra, disarankan oles ulang setiap dua atau tiga jam.
 
@@ -97,13 +97,13 @@ Kadang di jalan kamu lihat sesajen kecil di tanah (Canang Sari), jangan diinjak,
 
 ### 1. 🐬 Main Air di Pantai Nusa Dua
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775127983449-f5518c75b96f9370968adbb0ae27c709.jpg)
+![1. Main Air di Pantai Nusa Dua](https://images.gobaligo.id/images/2026-04/1775127983449-f5518c75b96f9370968adbb0ae27c709.jpg)
 
 Ombak di sini super tenang, jadi pilihan utama buat main air sama balita. Pasir emasnya bersih, airnya jernih, dan area dangkal bikin anak-anak aman bermain. Di sepanjang pantai ada banyak penyewaan mainan air, dan cukup main pasir aja udah bisa bikin anak-anak happy seharian.
 
 ### 2. 🐢 Paket 3-in-1: Pulau Penyu × Perahu Kaca × Wisata Mangrove
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128003311-_2026-04-02_16.11.32.png)
+![2. Paket 3-in-1: Pulau Penyu × Perahu Kaca × Wisata Mangrove](https://images.gobaligo.id/images/2026-04/1775128003311-_2026-04-02_16.11.32.png)
 
 Menurutku ini paket dengan value terbaik untuk aktivitas keluarga di Nusa Dua — sekali jalan dapet tiga pengalaman, anak-anak pasti puas banget.
 
@@ -115,7 +115,7 @@ Paket ini sudah termasuk antar-jemput hotel, cocok banget buat anak-anak yang ng
 
 ### 3. 🤿 Pengalaman Snorkeling Pertama (Snorkeling Anak)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128134418-snorkeling.webp)
+![3. Pengalaman Snorkeling Pertama (Snorkeling Anak)](https://images.gobaligo.id/images/2026-04/1775128134418-snorkeling.webp)
 
 Ekosistem terumbu karang di lepas pantai Nusa Dua sangat kaya. Anak-anak usia 8 tahun ke atas bisa coba kursus snorkeling pemula. Banyak pusat olahraga air yang menyediakan pengajaran snorkeling anak, didampingi instruktur profesional sepanjang sesi, jadi orang tua nggak perlu khawatir soal keamanan. Momen saat mereka melihat langsung ikan tropis warna-warni berenang di sampingnya, itu kenangan yang nggak akan pernah terlupakan seumur hidup.
 
@@ -123,7 +123,7 @@ Ekosistem terumbu karang di lepas pantai Nusa Dua sangat kaya. Anak-anak usia 8 
 
 ### 4. 🏄 Banana Boat & Jetski
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128198938-water_sports.jpg)
+![4. Banana Boat & Jetski](https://images.gobaligo.id/images/2026-04/1775128198938-water_sports.jpg)
 
 Anak yang agak lebih besar (disarankan usia 8 tahun ke atas) bisa coba banana boat. Duduk bareng beberapa orang, ditarik speedboat dengan kecepatan tinggi, sesekali terbalik dan jatuh ke air—tawa dan teriakan pecah terus, ini dia liburan klasik paling seru di Bali. Jetski cocok buat remaja, dan kalau orang tua ikut bawa anak bareng juga aman kok.
 
@@ -131,7 +131,7 @@ Anak yang agak lebih besar (disarankan usia 8 tahun ke atas) bisa coba banana bo
 
 ### 5. 🌊 Waterboom Bali
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128232527-qp1.png)
+![5. Waterboom Bali](https://images.gobaligo.id/images/2026-04/1775128232527-qp1.png)
 
 Waterboom Bali, yang jaraknya sekitar 30 menit berkendara dari Nusa Dua, adalah salah satu taman air dengan rating tertinggi se-Asia. Di sini ada seluncuran air untuk segala usia, mulai dari area khusus balita sampai seluncuran super cepat yang bikin orang dewasa gemetar. Bisa main seharian dengan santai. Disarankan datang di hari biasa biar nggak terlalu ramai, jangan lupa siapkan tabir surya dan baju ganti.
 
@@ -139,7 +139,7 @@ Waterboom Bali, yang jaraknya sekitar 30 menit berkendara dari Nusa Dua, adalah 
 
 ### 6. 🦜 Taman Budaya Garuda Wisnu Kencana (GWK)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128295472-6a746e42f4cc324c672b9ade957e37ce.jpg)
+![6. Taman Budaya Garuda Wisnu Kencana (GWK)](https://images.gobaligo.id/images/2026-04/1775128295472-6a746e42f4cc324c672b9ade957e37ce.jpg)
 
 GWK Cultural Park terletak di dataran tinggi Uluwatu, dengan patung Dewa Wisnu yang megah banget, anak-anak pasti melongo melihatnya. Di dalam area, ada pertunjukan tari tradisional dan musik Bali secara rutin, tempat yang pas buat anak-anak belajar budaya Hindu. Kalau datang sore, kamu bisa nikmatin sunset dengan latar patung emas raksasa itu — pemandangannya juara!
 
@@ -153,7 +153,7 @@ Ajak anak-anak bikin Batik atau lukis topeng tradisional — bukan cuma liburan,
 
 ### 8. 🌺 Kelas Memasak Bali (Versi Keluarga)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128480568-hyatt-regency-bali-p111-mickey-mouse-pizza.webp)
+![8. Kelas Memasak Bali (Versi Keluarga)](https://images.gobaligo.id/images/2026-04/1775128480568-hyatt-regency-bali-p111-mickey-mouse-pizza.webp)
 
 Belajar masak masakan Bali bareng koki lokal makin populer di kalangan wisatawan keluarga. Mulai dari belanja bahan di pasar, kenalin aneka rempah, sampai bikin nasi goreng atau sate sendiri — anak-anak pasti seru banget, dan pas pulang ke Taiwan bakal minta masak lagi. Beberapa hotel di Nusa Dua punya kelas memasak keluarga, atau bisa juga pesan lewat platform travel.
 
@@ -163,7 +163,7 @@ Belajar masak masakan Bali bareng koki lokal makin populer di kalangan wisatawan
 
 【Devdan Show】💫 Akrobat udara + Budaya 5 pulau + Panggung spektakuler dalam satu pertunjukan!
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775127647696-devdan-show-bali-kite-dance-performance.jpeg)
+![9. Pertunjukan Taman Langit Wajib Ditonton di Bali](https://images.gobaligo.id/images/2026-04/1775127647696-devdan-show-bali-kite-dance-performance.jpeg)
 
 Pertunjukan panggung besar yang hanya digelar tiga kali seminggu ini, lewat musik, tarian, dan akrobat udara, mengajak penonton menjelajahi budaya lima pulau utama Indonesia. Cocok untuk semua usia, sayang banget kalau dilewatkan.
 
@@ -194,23 +194,23 @@ Pilih hotel yang tepat, liburan keluarga sudah setengah berhasil. Lima rekomenda
 
 ### 🏨 The Westin Resort Nusa Dua, Bali ⭐ Pilihan Utama Keluarga
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128567386-1.avif)
+![The Westin Resort Nusa Dua, Bali Pilihan Utama Keluarga](https://images.gobaligo.id/images/2026-04/1775128567386-1.avif)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128567801-2.jpg)
+![The Westin Resort Nusa Dua, Bali Pilihan Utama Keluarga](https://images.gobaligo.id/images/2026-04/1775128567801-2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128568260-3.jpg)
+![The Westin Resort Nusa Dua, Bali Pilihan Utama Keluarga](https://images.gobaligo.id/images/2026-04/1775128568260-3.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128568644-4.jpg)
+![The Westin Resort Nusa Dua, Bali Pilihan Utama Keluarga](https://images.gobaligo.id/images/2026-04/1775128568644-4.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128569074-5.jpg)
+![The Westin Resort Nusa Dua, Bali Pilihan Utama Keluarga](https://images.gobaligo.id/images/2026-04/1775128569074-5.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128569464-494348065.jpg)
+![The Westin Resort Nusa Dua, Bali Pilihan Utama Keluarga](https://images.gobaligo.id/images/2026-04/1775128569464-494348065.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128569855-504355293.jpg)
+![The Westin Resort Nusa Dua, Bali Pilihan Utama Keluarga](https://images.gobaligo.id/images/2026-04/1775128569855-504355293.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128570239-552957828.jpg)
+![The Westin Resort Nusa Dua, Bali Pilihan Utama Keluarga](https://images.gobaligo.id/images/2026-04/1775128570239-552957828.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128570547-429291714.jpg)
+![The Westin Resort Nusa Dua, Bali Pilihan Utama Keluarga](https://images.gobaligo.id/images/2026-04/1775128570547-429291714.jpg)
 
 Kalau ditanya hotel mana di Nusa Dua yang paling cocok bawa anak, The Westin jelas yang paling solid—sudah bertahun-tahun dapat penghargaan "Resor Keluarga Terbaik di Indonesia" dari majalah *Holidays with Kids* Australia, bukan cuma omdo, beneran berkualitas.
 
@@ -232,23 +232,23 @@ Menurutku, Westin berhasil bikin "hal tersulit dalam liburan keluarga" jadi maks
 
 ### 🏨 The Apurva Kempinski Bali ⭐ Estetika Mewah ala Kempinski
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128664962-543684038.jpg)
+![The Apurva Kempinski Bali Estetika Mewah ala Kempinski](https://images.gobaligo.id/images/2026-04/1775128664962-543684038.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128665368-543684090.jpg)
+![The Apurva Kempinski Bali Estetika Mewah ala Kempinski](https://images.gobaligo.id/images/2026-04/1775128665368-543684090.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128665655-543684092.jpg)
+![The Apurva Kempinski Bali Estetika Mewah ala Kempinski](https://images.gobaligo.id/images/2026-04/1775128665655-543684092.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128666001-595319338_1300862468749700_2611619189297659561_n.jpg)
+![The Apurva Kempinski Bali Estetika Mewah ala Kempinski](https://images.gobaligo.id/images/2026-04/1775128666001-595319338_1300862468749700_2611619189297659561_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128666420-596957666_1300862688749678_5350672461555478575_n.jpg)
+![The Apurva Kempinski Bali Estetika Mewah ala Kempinski](https://images.gobaligo.id/images/2026-04/1775128666420-596957666_1300862688749678_5350672461555478575_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128666780-597210417_1300862828749664_7530289180745397055_n.jpg)
+![The Apurva Kempinski Bali Estetika Mewah ala Kempinski](https://images.gobaligo.id/images/2026-04/1775128666780-597210417_1300862828749664_7530289180745397055_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128667237-538698594.jpg)
+![The Apurva Kempinski Bali Estetika Mewah ala Kempinski](https://images.gobaligo.id/images/2026-04/1775128667237-538698594.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128667810-image.jpeg)
+![The Apurva Kempinski Bali Estetika Mewah ala Kempinski](https://images.gobaligo.id/images/2026-04/1775128667810-image.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128668270-20019601-8afc7f4d1142bd07265ccbf22fb801c1.jpeg)
+![The Apurva Kempinski Bali Estetika Mewah ala Kempinski](https://images.gobaligo.id/images/2026-04/1775128668270-20019601-8afc7f4d1142bd07265ccbf22fb801c1.jpeg)
 
 Kalau budget-nya oke, The Apurva Kempinski jelas jadi pilihan utama buat liburan keluarga yang top banget. Resort ini dibangun dengan konsep arsitektur terasering tradisional Bali, begitu masuk lobby aja udah bikin speechless — seluruh bangunannya kayak karya seni.
 
@@ -268,25 +268,25 @@ Di Apurva, orang tua dan anak-anak bisa nemuin kebahagiaan masing-masing — ini
 
 ### 🏨 The Mulia & Mulia Resort ⭐ Pantai Mewah yang Tenang
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128747742-9d5cd0ab70caa0e4c39605cb63aedae2_large.jpeg)
+![The Mulia & Mulia Resort Pantai Mewah yang Tenang](https://images.gobaligo.id/images/2026-04/1775128747742-9d5cd0ab70caa0e4c39605cb63aedae2_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128748085-1.jpg)
+![The Mulia & Mulia Resort Pantai Mewah yang Tenang](https://images.gobaligo.id/images/2026-04/1775128748085-1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128748706-2.jpeg)
+![The Mulia & Mulia Resort Pantai Mewah yang Tenang](https://images.gobaligo.id/images/2026-04/1775128748706-2.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128749177-423587cf2a05b1a8d7e9585ac5aa9b51_large.jpeg)
+![The Mulia & Mulia Resort Pantai Mewah yang Tenang](https://images.gobaligo.id/images/2026-04/1775128749177-423587cf2a05b1a8d7e9585ac5aa9b51_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128749533-6532982_19013015410071862948_large.jpeg)
+![The Mulia & Mulia Resort Pantai Mewah yang Tenang](https://images.gobaligo.id/images/2026-04/1775128749533-6532982_19013015410071862948_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128749973-6532982_19013015410071862949_large.jpeg)
+![The Mulia & Mulia Resort Pantai Mewah yang Tenang](https://images.gobaligo.id/images/2026-04/1775128749973-6532982_19013015410071862949_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128750378-6532982_19013015410071862951_large.jpeg)
+![The Mulia & Mulia Resort Pantai Mewah yang Tenang](https://images.gobaligo.id/images/2026-04/1775128750378-6532982_19013015410071862951_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128750843-6532982_19052213430074651656_large.jpeg)
+![The Mulia & Mulia Resort Pantai Mewah yang Tenang](https://images.gobaligo.id/images/2026-04/1775128750843-6532982_19052213430074651656_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128751274-a6f2689a3b9e0bbc99243b017418e30d.jpg)
+![The Mulia & Mulia Resort Pantai Mewah yang Tenang](https://images.gobaligo.id/images/2026-04/1775128751274-a6f2689a3b9e0bbc99243b017418e30d.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128751709-splash-pool-for-children.jpg)
+![The Mulia & Mulia Resort Pantai Mewah yang Tenang](https://images.gobaligo.id/images/2026-04/1775128751709-splash-pool-for-children.jpg)
 
 Mulia di Nusa Dua tuh legendaris banget, punya salah satu private beach terpanjang di Nusa Dua, ditambah beberapa kolam renang luas, di resort aja udah nggak bakal bosen.
 
@@ -306,25 +306,25 @@ Suasana Mulia tenang dan mewah, cocok buat orang tua yang pengin istirahat maksi
 
 ### 🏨 Grand Hyatt Bali ⭐ Kerajaan Air
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128815136-1.jpg)
+![Grand Hyatt Bali Kerajaan Air](https://images.gobaligo.id/images/2026-04/1775128815136-1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128815705-2.jpg)
+![Grand Hyatt Bali Kerajaan Air](https://images.gobaligo.id/images/2026-04/1775128815705-2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128816151-3.webp)
+![Grand Hyatt Bali Kerajaan Air](https://images.gobaligo.id/images/2026-04/1775128816151-3.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128816508-4.jpeg)
+![Grand Hyatt Bali Kerajaan Air](https://images.gobaligo.id/images/2026-04/1775128816508-4.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128816840-4.jpg)
+![Grand Hyatt Bali Kerajaan Air](https://images.gobaligo.id/images/2026-04/1775128816840-4.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128817183-539018055.jpg)
+![Grand Hyatt Bali Kerajaan Air](https://images.gobaligo.id/images/2026-04/1775128817183-539018055.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128817513-539018063.jpg)
+![Grand Hyatt Bali Kerajaan Air](https://images.gobaligo.id/images/2026-04/1775128817513-539018063.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128817949-539018071.jpg)
+![Grand Hyatt Bali Kerajaan Air](https://images.gobaligo.id/images/2026-04/1775128817949-539018071.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128818286-539018072.jpg)
+![Grand Hyatt Bali Kerajaan Air](https://images.gobaligo.id/images/2026-04/1775128818286-539018072.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128818657-539018096.jpg)
+![Grand Hyatt Bali Kerajaan Air](https://images.gobaligo.id/images/2026-04/1775128818657-539018096.jpg)
 
 Grand Hyatt adalah salah satu resor terluas di Nusa Dua. Kolam renang besar bergaya waterpark yang membentang di seluruh area resor ini aja udah cukup bikin anak-anak betah berhari-hari tanpa pengin keluar.
 
@@ -342,25 +342,25 @@ Grand Hyatt adalah salah satu resor terluas di Nusa Dua. Kolam renang besar berg
 
 ### 🏨 Grand Mirage Resort & Thalasso Bali ⭐ Lazy River yang Kece Abis
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128852900-94391469.jpg)
+![Grand Mirage Resort & Thalasso Bali Lazy River yang Kece Abi](https://images.gobaligo.id/images/2026-04/1775128852900-94391469.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128853625-124993412.jpg)
+![Grand Mirage Resort & Thalasso Bali Lazy River yang Kece Abi](https://images.gobaligo.id/images/2026-04/1775128853625-124993412.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128853999-129846941.jpg)
+![Grand Mirage Resort & Thalasso Bali Lazy River yang Kece Abi](https://images.gobaligo.id/images/2026-04/1775128853999-129846941.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128854336-225829248.jpg)
+![Grand Mirage Resort & Thalasso Bali Lazy River yang Kece Abi](https://images.gobaligo.id/images/2026-04/1775128854336-225829248.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128854687-225829638.jpg)
+![Grand Mirage Resort & Thalasso Bali Lazy River yang Kece Abi](https://images.gobaligo.id/images/2026-04/1775128854687-225829638.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128855031-225829648.jpg)
+![Grand Mirage Resort & Thalasso Bali Lazy River yang Kece Abi](https://images.gobaligo.id/images/2026-04/1775128855031-225829648.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128855430-225829658.jpg)
+![Grand Mirage Resort & Thalasso Bali Lazy River yang Kece Abi](https://images.gobaligo.id/images/2026-04/1775128855430-225829658.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128855768-225830033.jpg)
+![Grand Mirage Resort & Thalasso Bali Lazy River yang Kece Abi](https://images.gobaligo.id/images/2026-04/1775128855768-225830033.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128856159-225830769.jpg)
+![Grand Mirage Resort & Thalasso Bali Lazy River yang Kece Abi](https://images.gobaligo.id/images/2026-04/1775128856159-225830769.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775128856501-577464057.jpg)
+![Grand Mirage Resort & Thalasso Bali Lazy River yang Kece Abi](https://images.gobaligo.id/images/2026-04/1775128856501-577464057.jpg)
 
 Kalau anakmu tipe yang gila air, Grand Mirage tuh kayak surga yang didesain khusus buat mereka. Resor all-inclusive ini punya reputasi bagus banget di kalangan keluarga di Nusa Dua, dan tahun 2025 mereka ngeluarin fitur baru yang bikin semua orang heboh — **Lazy River terpanjang di hotel-hotel Bali**, panjangnya sekitar 215 meter, sekali hanyut dijamin ogah naik.
 

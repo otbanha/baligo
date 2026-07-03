@@ -28,7 +28,7 @@ _srcHash: aae8f3a0aaad627003b586be2196f3a2
 
 ## Bali Spirit Festival: Pesta Spiritual yang Penuh Inspirasi
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0d872c8654d5b03d669f3932de935a41.jpg)
+![Bali Spirit Festival: Pesta Spiritual yang Penuh Inspirasi](https://images.gobaligo.id/vocus/vocus_0d872c8654d5b03d669f3932de935a41.jpg)
 
 Bali Spirit Festival bakal digelar lagi di Ubud pada 1–5 Mei 2024. Acara ini jadi ajang kumpulnya para pecinta yoga, tari, musik, dan healing dari seluruh dunia — benar-benar pesta yang menyentuh jiwa. Di sini, kamu bisa bareng-bareng eksplor keseimbangan tubuh, pikiran, dan hati, dapet inspirasi baru, dan terhubung sama komunitas global.
 

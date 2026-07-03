@@ -24,7 +24,7 @@ Bali meraih peringkat kedua sebagai destinasi wisata terpopuler di dunia dalam [
 
 Penghargaan tahunan ini memberi peringkat pada destinasi, hotel, pantai, dan tempat wisata paling populer di dunia berdasarkan ulasan dan tren perjalanan nyata.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f6b09dd27d34eaf21082f597b6750950.jpg)
+![【2025年亞洲第一旅遊目的地】Bali Bersinar di TripAdvisor 2025 Travelers'](https://images.gobaligo.id/vocus/vocus_f6b09dd27d34eaf21082f597b6750950.jpg)
 
 ## Bali Kembali Duduki Peringkat Kedua Destinasi Wisata Terpopuler Dunia
 

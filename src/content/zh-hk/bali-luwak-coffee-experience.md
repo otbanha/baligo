@@ -39,7 +39,7 @@ _srcHash: 37ac97c65dc757ce8ea2aa7a2f9f5f78
 
 總嘅嚟講，Grab喺峇里島係非常可靠嘅交通工具，尤其係對於帶住長輩旅行嘅遊客嚟講，既方便又安全。只係要提醒大家，峇里島嘅交通狀況比較混亂，行車時要多加小心，尤其係過馬路時要特別留意電單車同汽車嘅動向（同台灣相反）。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1990ed3bb904bed1268c76632f7d4c9a.jpg)
+![交通](https://images.gobaligo.id/vocus/vocus_1990ed3bb904bed1268c76632f7d4c9a.jpg)
 
 ***
 
@@ -55,7 +55,7 @@ _srcHash: 37ac97c65dc757ce8ea2aa7a2f9f5f78
 
 我哋今次包車嘅主要目的係遊覽烏布地區，並喺行程完咗後請司機送我哋去另一個區域嘅酒店。包車時間總共係10個鐘，費用大約係USD$40，我覺得呢個價錢非常合理。另外，我哋仲請司機幫手安排咗ATV、漂漂河同埋盪鞦韆等體驗活動，佢會將呢啲活動嘅費用一併計算在內，最後俾出一個總價，確認後就算成立。當日所有活動完咗後，我哋先一次性支付所有費用，非常方便。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3017cf52f4ba0bee1447ab78b90bd1d5.jpg)
+![行程安排與費用：](https://images.gobaligo.id/vocus/vocus_3017cf52f4ba0bee1447ab78b90bd1d5.jpg)
 
 - 🏎️峇里島ATV活動 ▶[Klook優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%2520ATV%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D28594dcbf2)
 - 🚣峇里島泛舟活動 ▶[Klook優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%25E6%25B3%259B%25E8%2588%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D8c8ac92422)
@@ -71,7 +71,7 @@ _srcHash: 37ac97c65dc757ce8ea2aa7a2f9f5f78
 
 司機好貼心，行程中間仲會主動問我哋肚唔肚餓，車我哋去餐廳食飯。成個過程好輕鬆自在，完全唔使擔心時間安排或者路線問題。如果你喺峇里島嘅行程中有需要換酒店嘅情況，我都好推薦呢種包車方式。你可以請司機安排成日嘅行程，最後直接車你去下一個住宿地點，慳時間又慳力。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9fcdaea18d753826c3e962ebce5ecc05.jpg)
+![行程嘅彈性調整：](https://images.gobaligo.id/vocus/vocus_9fcdaea18d753826c3e962ebce5ecc05.jpg)
 
 **更多 Karuna 嘅優秀點評：**
 
@@ -114,7 +114,7 @@ _srcHash: 37ac97c65dc757ce8ea2aa7a2f9f5f78
 
 試飲嘅過程其實幾有趣，除咗麝香貓咖啡，佢哋仲會準備多種唔同嘅咖啡同花果茶俾你品嚐。每一種飲品都會有專人解說，好似咖啡嘅風味、花果茶嘅功效等等。試飲完一輪後，確實會令人覺得唔買啲嘢有啲唔好意思。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b47855e8d20e3f0b3936512c44f670a2.jpg)
+![園區嘅介紹與試飲：](https://images.gobaligo.id/vocus/vocus_b47855e8d20e3f0b3936512c44f670a2.jpg)
 
 ### 麝香貓咖啡嘅爭議：
 
@@ -136,7 +136,7 @@ https://youtu.be/NEnIZjZnrTk
 
 今次峇里島之旅，食物絕對係令我印象深刻嘅亮點之一！峇里島嘅美食文化非常多元，尤其係當地嘅特色料理，真係令人一試難忘。以下係我對今次飲食體驗嘅詳細分享，希望可以畀大家一啲參考。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d7966ba428f0a4c7761ad02df03437bc.jpg)
+![食物](https://images.gobaligo.id/vocus/vocus_d7966ba428f0a4c7761ad02df03437bc.jpg)
 
 ### 髒鴨飯與豬肋排：
 
@@ -148,7 +148,7 @@ https://youtu.be/NEnIZjZnrTk
 
 雖然髒鴨飯同豬肋排令我哋驚豔，但傳統嘅印尼料理反而冇咁啱我哋胃口。我哋仲特登報名咗個廚藝課程，花咗個早上學習製作六七道印尼菜。同行嘅仲有幾位韓國遊客，結果大家試食後都覺得味道偏鹹偏油，最後只係食咗一兩啖就冇再掂。不過，參加廚藝課程嘅過程都幾有趣，始終能夠親手體驗當地料理嘅製作過程，都係一種難得嘅旅行體驗。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ecf6911723fd212af6fd9e57f2e1e6c9.jpg)
+![傳統印尼料理：](https://images.gobaligo.id/vocus/vocus_ecf6911723fd212af6fd9e57f2e1e6c9.jpg)
 
 **快速參考：**
 
@@ -161,7 +161,7 @@ https://youtu.be/NEnIZjZnrTk
 
 除咗正餐，峇里島嘅零食都令我非常驚喜！尤其係「椰子脆片」，呢個絕對係我今次旅行中最鍾意嘅零食之一。椰子脆片係用新鮮椰子烘乾製成，口感酥脆，帶有天然嘅椰子香甜，而且完全唔油膩，食落非常清爽。我哋喺當地超市買咗好幾包帶返屋企，結果仲未返到台灣就已經俾我食晒🤣。如果你都鍾意椰子味嘅零食，千祈唔好錯過呢個！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3ea8ffe66b2a6770faffd5da33e37e49.png)
+![零食](https://images.gobaligo.id/vocus/vocus_3ea8ffe66b2a6770faffd5da33e37e49.png)
 
 呢度有介紹：[【網友推薦】六大種類，超過20項峇里島伴手禮推薦指南：留住珍貴回憶嘅絕佳選擇](/blog/bali-souvenirs-gift-guide/)
 
@@ -195,7 +195,7 @@ https://youtu.be/NEnIZjZnrTk
 
 今次峇里島嘅住宿體驗令我深刻體會到，選擇住宿地點同周邊環境嘅重要性。以下係我對今次住宿嘅一啲心得分享，希望可以幫到大家喺規劃行程時做出更適合嘅選擇。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a547a653ea0227a0f9908d938d74da36.jpg)
+![住宿](https://images.gobaligo.id/vocus/vocus_a547a653ea0227a0f9908d938d74da36.jpg)
 
 ### 蚊問題：
 
@@ -215,7 +215,7 @@ https://youtu.be/NEnIZjZnrTk
 
 所以，**建議大家揀住宿嗰陣，一定要考慮周邊嘅便利性**。如果你鍾意熱鬧嘅氣氛，可以揀住喺庫塔、水明漾或者烏布呢啲旺區，呢啲地方唔單止多餐廳同商店，夜晚仲有唔少娛樂活動。如果你揀住喺比較偏遠嘅 Villa 或者度假村，就要有心理準備，可能要依賴 Grab 外賣或者包車服務嚟解決日常需求。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0391757a9b3ffecaea7406bc888c42e0.jpg)
+![住宿地點嘅選擇：](https://images.gobaligo.id/vocus/vocus_0391757a9b3ffecaea7406bc888c42e0.jpg)
 
 ### 住宿嘅心得：
 
@@ -229,7 +229,7 @@ https://youtu.be/NEnIZjZnrTk
 
 你覺得 I-Hsuan Chang 佢哋嘅行程好精彩嗎？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家到社團投稿你嘅行程喔！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![住宿嘅心得：](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 撳呢度睇更多峇里島精彩遊記
 

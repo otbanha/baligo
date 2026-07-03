@@ -108,7 +108,7 @@ check-in > Beachwalk shopping 3F 看夕阳 > 吃小杰介绍的烤猪饭Warung B
 
 🔹1F : 占地巨大的糖果天地🍭「Candylicious」，五颜六色、五彩缤纷，是传说中小人的天堂🫧（造访）。孩子们对于这个糖果天地可是爱不释手，他们在这里度过了一个快乐的时光，我也感受到了孩子们的快乐。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c6082ea9e6e06a45c3157784ad9da261.jpg)
+![杂记&心得](https://images.gobaligo.id/vocus/vocus_c6082ea9e6e06a45c3157784ad9da261.jpg)
 
 🔹3F : 「MM Juice🍹」，网友推荐果汁好喝，但餐点难吃（无造访）。虽然听说这里的果汁很不错，但我们选择了其他的餐厅，可能下次有机会再来尝尝看。
 
@@ -132,7 +132,7 @@ check-in > Beachwalk shopping 3F 看夕阳 > 吃小杰介绍的烤猪饭Warung B
 
 ### 
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_21d540de87f478b39fd7f1dee26b368a.jpg)
+![杂记&心得](https://images.gobaligo.id/vocus/vocus_21d540de87f478b39fd7f1dee26b368a.jpg)
 
 想了解更多库塔攻略？[请点击这里](/blog/2023-12-13-657598bdfd8978000120fe20/)
 
@@ -178,7 +178,7 @@ check-in > Beachwalk shopping 3F 看夕阳 > 吃小杰介绍的烤猪饭Warung B
 
 **📍联系资料帮你放这边：**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cfd36517ed8ca2fc9f81c8f6f8a3ced5.png)
+![巴厘岛包车司机推荐](https://images.gobaligo.id/vocus/vocus_cfd36517ed8ca2fc9f81c8f6f8a3ced5.png)
 
 🚘好司机带你上天堂，旅游没烦恼，巴厘岛GO🥳🥳🥳🥳
 

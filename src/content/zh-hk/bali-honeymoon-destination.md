@@ -21,7 +21,7 @@ _srcHash: 985155bb95557cc56b64ea1f91140256
 
 根據全球最大嘅旅遊指南平台 Tripadvisor 嘅[統計研究顯示](https://tripadvisor.mediaroom.com/2024-01-09-The-Results-Are-In-Tripadvisors-Top-2024-Destinations-According-to-Global-Travelers)，2024年度最佳旅遊目的地涵蓋七大類別，其中包括熱門旅遊目的地、趨勢旅遊目的地、文化旅遊目的地、美食旅遊目的地、自然旅遊目的地，以及今年特別新增嘅兩個次類別——度蜜月旅遊目的地同可持續發展目的地。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eff7c71ed815f53bcf3e04326c6f02ae.png)
+![浪漫蜜月勝地大公開！峇里島擊敗馬爾代夫奪得全世界冠軍！](https://images.gobaligo.id/vocus/vocus_eff7c71ed815f53bcf3e04326c6f02ae.png)
 
 喺「熱門旅遊目的地（Top Destinations in the world）」呢個類別中，杜拜榮獲冠軍寶座，而印尼嘅峇里島則攀升至第二名。呢啲佳績唔單止係各地景點嘅吸引力所致，更係Tripadvisor評論者對呢啲目的地豐富旅遊體驗嘅高度評價。
 

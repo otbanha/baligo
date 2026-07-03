@@ -19,7 +19,7 @@ _srcHash: 45801afecaf2a3dc727539a2ede2a0db
 
 当旅客到达巴厘岛时，可能会感到惊讶：听说要缴纳的150,000印尼盾（折合美元约10美元）观光税/旅游税，好像不缴也可以？？因为并没有检查是否有事先在线缴纳，或强制在机场柜台支付观光税。然而我们必须知道，这个观光税制度更像是一种希望旅客了解和支持的理念，而不是一个强制性的缴纳要求。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8b15da7a473fb11a6f634d981fffbfa9.jpg)
+![不缴也可以？巴厘岛观光税/旅游税究竟是什么？](https://images.gobaligo.id/vocus/vocus_8b15da7a473fb11a6f634d981fffbfa9.jpg)
 
 巴厘岛的观光税被设立为一种手段，用来改善巴厘岛的交通、垃圾处理、文化保存等议题。这种做法反映了巴厘岛当局的智慧和对可持续旅游的承诺。
 
@@ -33,7 +33,7 @@ _srcHash: 45801afecaf2a3dc727539a2ede2a0db
 
 由于实际有缴纳观光税的旅客只有七成，[巴厘岛已于3/26开始旅游税抽查！](/blog/bali-tourism-tax-update/)当个称职的巴厘岛观光客，我们还是建议您要缴纳哦！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7b65cf3a3a36d6fec5bc94d0b20dc173.png)
+![不缴也可以？巴厘岛观光税/旅游税究竟是什么？](https://images.gobaligo.id/vocus/vocus_7b65cf3a3a36d6fec5bc94d0b20dc173.png)
 
 **观光税是旅客应尽的义务，不是可逃可不逃的选择题！**
 
@@ -52,7 +52,7 @@ _srcHash: 45801afecaf2a3dc727539a2ede2a0db
 
 ## 📩 **立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **通过免费订阅，你将获得：**
 

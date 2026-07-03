@@ -25,7 +25,7 @@ _srcHash: e03dff00fcdecf9671a4929f95f2c69d
 ---
 To ensure a smooth entry process, here’s a breakdown of the latest four essential entry documents, including application timelines, validity periods, and key considerations. Understand them all at once and prepare with ease!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2775fee2fe386d7041bb19dfab0cd31a.png)
+![Essential Documents for Entering Indonesia/Bali: Visa, Custo](https://images.gobaligo.id/vocus/vocus_2775fee2fe386d7041bb19dfab0cd31a.png)
 
 Planning a vacation to Bali or about to embark on a journey to Indonesia? Don't forget that besides booking your flights and accommodations, there are several **important entry documents** you need to prepare in advance. Failing to complete these documents beforehand could not only delay your boarding but also cause difficulties upon arrival.
 

@@ -22,13 +22,13 @@ _srcHash: 7575875190e2340bdecc1f4400e93e02
 ---
 Pantai Bingin di Uluwatu, yang jadi favorit turis dan peselancar, bakal mengalami perubahan besar. Pemerintah mengumumkan bahwa lebih dari 40 bangunan di area tersebut dianggap melanggar aturan tata ruang dan lahan, sehingga mulai 21 Juli 2025 dilakukan pembongkaran paksa.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e640f066067761e239d9a5078ca6aaf9.jpg)
+![Operasi Pembongkaran Pantai Bingin, Uluwatu Bali Resmi Dimul](https://images.gobaligo.id/vocus/vocus_e640f066067761e239d9a5078ca6aaf9.jpg)
 
 Para pelaku usaha di kawasan Bingin sudah menerima surat pemberitahuan resmi dari Pemerintah Daerah Badung, Bali, dalam dua bulan terakhir, yang meminta mereka memperbaiki struktur bangunan dan penggunaan lahan dalam batas waktu tertentu. Namun, pada akhirnya pemerintah tetap menilai sebagian besar bangunan tidak memenuhi ketentuan dan memutuskan untuk menindak sesuai hukum.
 
 Satpol PP (Polisi Pamong Praja Bali) menyatakan, berdasarkan hasil investigasi, bangunan-bangunan ini kebanyakan didirikan secara ilegal, tanpa izin yang sah, bahkan ada yang menempati tanah milik negara.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d544e0f8149e61f7127439067bf1ae52.jpg)
+![Operasi Pembongkaran Pantai Bingin, Uluwatu Bali Resmi Dimul](https://images.gobaligo.id/vocus/vocus_d544e0f8149e61f7127439067bf1ae52.jpg)
 
 Bupati Badung, Adi Arnawa, mengatakan warga dan pelaku usaha sudah tahu kalau bangunan itu berdiri di atas lahan bukan milik pribadi, jadi mereka harus bertanggung jawab. Ia menegaskan, sikap pemerintah sangat tegas dan akan menjalankan semua rekomendasi pembongkaran dari hasil investigasi provinsi dan Satpol PP.
 
@@ -40,13 +40,13 @@ Seorang pelaku usaha di Pantai Bingin yang tidak mau disebutkan namanya mengatak
 
 Saat ini, bangunan yang terkena dampak pembongkaran meliputi penginapan, restoran, fasilitas wisata, dan vila pantai, total 45 unit. Pelanggarannya mencakup pendudukan lahan ilegal, pelanggaran aturan lingkungan dan tata ruang, bahkan berdampak pada kawasan konservasi alam.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cfc438cb31168c561a1c08f14d14dadd.jpg)
+![Operasi Pembongkaran Pantai Bingin, Uluwatu Bali Resmi Dimul](https://images.gobaligo.id/vocus/vocus_cfc438cb31168c561a1c08f14d14dadd.jpg)
 
 ---
 
 ## Kalau kamu mau cari hidden gem pantai lainnya, dan tahu lebih banyak soal tempat makan & main di Uluwatu:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
+![Kalau kamu mau cari hidden gem pantai lainnya, dan tahu lebi](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
 Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal dengan tebing-tebing spektakuler, pantai yang memesona, dan spot surfing kelas dunia. Suasananya penuh romantisme tropis—cocok banget buat nikmatin sunset dan waktu santai. Kalau kamu juga mau nginep di Uluwatu, cek aja rekomendasi makan, minum, dan main yang udah kami susun rapi biar liburanmu makin seru: [【Panduan Uluwatu】Rekomendasi Tempat Wisata, Makan, Minum, dan Main di Uluwatu](/blog/uluwatu-guide/)
 

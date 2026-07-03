@@ -26,7 +26,7 @@ The e-CD form requires the following details: You must provide updated informati
 
 ## Here are some tips for filling out the e-CD form:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aec365f19ae3d56f56b52024fc0a209d.jpg)
+![Here are some tips for filling out the e-CD form:](https://images.gobaligo.id/vocus/vocus_aec365f19ae3d56f56b52024fc0a209d.jpg)
 
 1. Visit <https://allindonesia.imigrasi.go.id/>
 2. You can fill out the e-CD form in advance or complete it online upon arrival at the airport in Indonesia/Bali.

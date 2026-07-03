@@ -64,7 +64,7 @@ Sore balik ke dermaga **Sanur**, Agus anter kita pijat, durasinya sekitar dua ja
 
 🏠 Nginep di bamboo villa di Tampaksiring, Ubud, habiskan hari yang padat tapi puas.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d2cd3c0bb71e85dcab592f9c9d1e111c.jpg)
+![Day 2](https://images.gobaligo.id/vocus/vocus_d2cd3c0bb71e85dcab592f9c9d1e111c.jpg)
 
 https://youtu.be/1COxi_x8L78
 
@@ -78,7 +78,7 @@ https://youtu.be/1COxi_x8L78
 
 📍**Desa Penglipuran**, desa ini dinobatkan sebagai salah satu dari tiga desa terbersih di dunia. Pagi hari pengunjungnya relatif lebih sedikit, jadi kita bisa menikmati pemandangan lokal dengan tenang.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_139f7058772c6fa1200a75cee97ac9af.jpg)
+![Hari ke-3](https://images.gobaligo.id/vocus/vocus_139f7058772c6fa1200a75cee97ac9af.jpg)
 
 Di sini kami juga mencoba produk khas setempat—**salak**, dan juga **Loloh Cemcem** (mirip jamu) yang agak susah saya adaptasi. Kata Agus, ini air kelapa dicampur daun tanaman yang dihaluskan, rasanya asam manis. Meskipun rasanya nggak jelek, saya pribadi kurang cocok. Tapi kalau ada kesempatan, wajib coba sih 😆.
 
@@ -172,7 +172,7 @@ https://youtu.be/DSi7QvqOLTQ
 
 🏠Dua malam terakhir kita nginep di [**Ziva a Boutique Villa**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1744561&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawMLFJMEk1cnCMX3BxzvMQoxGBlu4LbZnOWrG9B_6uqnLwRNEa3ROcAjgiZhy4Pk09sSbtpURKw4GOhQygIGGQxcjK1hmBuPGvVkbGW25ri8uqM102MHIdIJxt9oCphN_2xROsTBzbGG_xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsE3MTPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebdhPncnNqu9yAGJcb18Y-YmGKjv3EwvCLhYnDrImVoYuVmeMU0yQguVttFyuHuYVZVECQruEF1t2aUvKGBgYGpobGpqa6BomWiabGyYa6JpYmRuYGuoYmZmYGGgc2Nl1_YmxkLQWJdgVGLcH4EE9PF8OSwlSzwlLLnKICUwPGU4xShubGFoZGhoZGRkaWxnomFmlmxRZ5xRa5WREejEFsRm5GLm7OUTZczJ4uQYIf9J5vb7e2tJdiDgl3USxd_XzJ997T9logOUOYXOCe1zkn7I0X2EfC5JNYqzJ0Q8IzjosVMDYwMnUxcgswejBGMFYAeYyrGBk2MDLuYPwPA4yvGEGmAwCMlo5l9QIAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494270-14660&detailFilters=17|1~17~1*31|1744561~31~1744561*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1080&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/wcPbv4eK). Villa ini sangat worth it buat direkomendasiin. Baik kolam renang maupun kamarnya, bikin kita puas banget. Kolam renangnya luas banget, kasih kita ruang yang cukup buat santai, apalagi pas sore hari, suasananya di pinggir kolam tuh nyaman banget. Kamarnya juga luas dan bersih, setiap detailnya terasa diperhatikan banget, bikin kita tetap bisa menikmati lingkungan istirahat berkualitas tinggi selama perjalanan. Satu-satunya kekurangan adalah pasokan air panas yang agak bermasalah, nggak bisa mengisi bak mandi sepenuhnya dengan air panas, dan air panas di shower juga nggak terlalu stabil. Tapi kekurangan kecil ini nggak mempengaruhi penilaian positif kita secara keseluruhan, karena di aspek lain, Villa ini bikin kita puas banget.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7dad59174130e2068985c1770b74c176.jpg)
+![Day 5](https://images.gobaligo.id/vocus/vocus_7dad59174130e2068985c1770b74c176.jpg)
 
 Detail lengkap [Ziva a Boutique Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1744561&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawMLFJMEk1cnCMX3BxzvMQoxGBlu4LbZnOWrG9B_6uqnLwRNEa3ROcAjgiZhy4Pk09sSbtpURKw4GOhQygIGGQxcjK1hmBuPGvVkbGW25ri8uqM102MHIdIJxt9oCphN_2xROsTBzbGG_xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsE3MTPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebdhPncnNqu9yAGJcb18Y-YmGKjv3EwvCLhYnDrImVoYuVmeMU0yQguVttFyuHuYVZVECQruEF1t2aUvKGBgYGpobGpqa6BomWiabGyYa6JpYmRuYGuoYmZmYGGgc2Nl1_YmxkLQWJdgVGLcH4EE9PF8OSwlSzwlLLnKICUwPGU4xShubGFoZGhoZGRkaWxnomFmlmxRZ5xRa5WREejEFsRm5GLm7OUTZczJ4uQYIf9J5vb7e2tJdiDgl3USxd_XzJ997T9logOUOYXOCe1zkn7I0X2EfC5JNYqzJ0Q8IzjosVMDYwMnUxcgswejBGMFYAeYyrGBk2MDLuYPwPA4yvGEGmAwCMlo5l9QIAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494270-14660&detailFilters=17|1~17~1*31|1744561~31~1744561*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1080&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/wcPbv4eK) ada di artikel「[22 Villa Rahasia Bali yang Bikin Tercengang di Seminyak](/blog/seminyak-private-villas-guide/)」. Buat kamu yang mau liburan villa di Seminyak, jangan sampai kelewatan ya!
 
@@ -226,7 +226,7 @@ Waktu belanja di pasar, Agus bahkan bantu kita milih buah dan nawar harga sama p
 
 Skill nyetirnya bikin kita tenang banget. Aku biasanya gampang mabuk perjalanan, tapi setiap naik mobil Agus, tidurku nyenyak banget, nggak ada rasa nggak enak sama sekali. Apalagi dua hari kita nginep di villa pohon, jalannya super sempit dan berkelok, buat sopir biasa mungkin tantangan, tapi buat Agus sama sekali nggak masalah, skillnya bikin salut! 👍👍
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c787863404d3c1a990e38ac7af8f84fa.jpg)
+![Kenapa Rekomendasi Agus Jon Devn?](https://images.gobaligo.id/vocus/vocus_c787863404d3c1a990e38ac7af8f84fa.jpg)
 
 🫶🏻 **Titip Koper yang Super Helpful**
 

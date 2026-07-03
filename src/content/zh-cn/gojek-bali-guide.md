@@ -23,7 +23,7 @@ _srcHash: 90e0e9d0c295236569a62c9418364712
 
 如果您正在计划前往巴厘岛，或者是身处印尼，那么Gojek绝对是您旅行中或生活中不可或缺的APP。让我们一起来探索这款引领潮流的便利工具，以及它对您的旅程所带来的改变。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b1addd430f34b7a65092885063d5a3e5.jpg)
+![在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略](https://images.gobaligo.id/vocus/vocus_b1addd430f34b7a65092885063d5a3e5.jpg)
 
 ### **Gojek: 便捷的生活伴侣**
 

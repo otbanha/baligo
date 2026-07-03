@@ -19,12 +19,12 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b3815d5a3d738321cc3c3feb6481c2d8.png'
 originalUrl: 'https://vocus.cc/article/696a37c5fd89780001f0790b'
 lang: id
-_srcHash: 825ec31eced5ca92ea2dbc7e93972d17
+_srcHash: 344ecd5eca13cd1f7e5a989dbfa190f7
 ---
 
 Bali, surga tropis yang memesona di Nusantara, akan menyambut setiap traveler yang mencari inspirasi dan kegembiraan dengan deretan festival budaya yang penuh warna di tahun 2026. Mau menghindari keramaian atau pengen banget larut dalam perayaan lokal, panduan ini bakal nerangin jalan dan ngajak kamu merasakan energi serta ritme unik Pulau Dewata. Yuk, mulai petualangan dan eksplorasi warna-warni semangat Bali yang hangat dan penuh gairah!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fc17bb84dfccbaa2faf4a7ac915d1349.png)
+![Panduan Lengkap Libur Nasional Indonesia & Festival Bali 202](https://images.gobaligo.id/vocus/vocus_fc17bb84dfccbaa2faf4a7ac915d1349.png)
 
 - **Buat yang pengin menghindari lima musim ramai di Bali, cek:**[**Bali Ternyata Punya Lima Musim Ramai! Gimana Cara Pinter Menghindarinya?**](/blog/bali-peak-season-travel-tips/)
 - [Bulan Hujan Bali / Peluang Hujan / Hari Hujan / Suhu Rata-rata / Indeks Kesesuaian Wisata... Analisis Lengkap](/blog/bali-rainy-season-travel-guide/)
@@ -239,14 +239,14 @@ Diprediksi mulai 13 Maret, Bali bakal kebanjiran wisatawan domestik dari berbaga
 
 ### **Galungan dan Kuningan**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c8fb868428b648667e4ff2774ba1d282.jpg)
+![Galungan dan Kuningan](https://images.gobaligo.id/vocus/vocus_c8fb868428b648667e4ff2774ba1d282.jpg)
 
 - - **Tanggal:** 17 Juni dan 27 Juni 2026
     - **Keterangan:** Salah satu hari raya keagamaan terpenting di Bali, merayakan kemenangan kebaikan atas kejahatan dan turunnya roh leluhur ke dunia. Ini adalah salah satu festival terbesar di Bali — Galungan pada 17 Juni berlangsung hingga Kuningan 10 hari kemudian, merayakan penciptaan alam semesta dan kemenangan kebaikan atas kejahatan. Selama festival ini, hiasan penjor yang menjulang tinggi menghiasi jalanan dengan suasana penuh semangat, sementara sesajen, ritual, dan perayaan yang melimpah memberi kamu gambaran tentang kekayaan budaya dan spiritual pulau ini. Orang-orang bersembahyang di rumah untuk leluhur, memohon berkah mereka, dan juga mengadakan upacara di pura untuk menghormati para dewa. Galungan jatuh berdasarkan kalender Pawukon Bali dan juga merupakan hari penciptaan alam semesta. Selama periode ini, sekolah-sekolah di Bali libur dua minggu — bayangkan seberapa pentingnya! Perlu diingat, transportasi seperti kapal, mobil sewaan, dan taksi pasti terpengaruh! Banyak pemandu lokal dan sopir yang ambil cuti beberapa hari selama perayaan utama, jadi lebih baik pesan jauh-jauh hari. Keesokan harinya (Manis Galungan) adalah hari di mana warga lokal mengunjungi keluarga atau jalan-jalan bareng, jadi kamu mungkin bakal nemuin jalanan yang super padat. Perayaan besar juga bisa bikin macet parah.
 
 ### **Bali Arts Festival - Pesta Kesenian Bali** [**Situs Resmi**](https://pestakesenianbali.id/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_15ea6a6aa9cd30d097d8adf78a25f3cb.png)
+![Bali Arts Festival - Pesta Kesenian Bali Situs Resmi](https://images.gobaligo.id/vocus/vocus_15ea6a6aa9cd30d097d8adf78a25f3cb.png)
 
 - - **Tanggal:** 13 Juni – 11 Juli 2026
     - **Keterangan:** Acara seni tahunan selama sebulan yang menampilkan tari, musik, teater, dan kerajinan tangan. Setiap bulan Juni, Bali menggelar Bali Arts Festival — pesta budaya terbesar di Bali, Indonesia, yang bertujuan merayakan, melestarikan, dan mengembangkan seni dan budaya Bali. Festival ini biasanya dimulai pada hari Sabtu kedua bulan Juni dan berlangsung selama sebulan penuh, sudah diadakan sejak 1979 dan menjadi salah satu festival seni tertua di Indonesia. Kegiatan Bali Arts Festival meliputi berbagai pameran, pertunjukan, dan aktivitas seni yang menampilkan budaya dan seni Bali. Selama festival, banyak kota dihias dengan bambu dan kelapa tradisional untuk merayakannya. Banyak panggung terbuka dan pendopo didirikan agar pertunjukan bakat bisa dinikmati di seluruh Bali. Di panggung-panggung ini, kamu bakal nonton pertunjukan tari, wayang, dan musik. Festival biasanya dimulai dengan parade di Denpasar, diikuti musik tradisional, lalu pameran lukisan, patung, dan fotografi yang terbuka untuk umum, plus pameran kerajinan tangan dan stan makanan khas Bali.
@@ -277,7 +277,7 @@ Diprediksi mulai 13 Maret, Bali bakal kebanjiran wisatawan domestik dari berbaga
 
 ### **Penglipuran Village Festival**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d209e48a8c78b2a2d0f4cd43b2017d1e.jpg)
+![Penglipuran Village Festival](https://images.gobaligo.id/vocus/vocus_d209e48a8c78b2a2d0f4cd43b2017d1e.jpg)
 
 - - **Tanggal:** 10–12 Juli 2026 (tanggal diperbarui)
     - **Deskripsi:** Festival yang digelar di desa tradisional Penglipuran, menampilkan budaya, kerajinan tangan, kuliner lokal, dan proyek pariwisata. Festival tahunan di Desa Penglipuran ini bertujuan memperkenalkan budaya dan gaya hidup tradisional desa yang terkenal dengan arsitektur dan adat istiadatnya yang terjaga. Acara meliputi pertunjukan tari dan musik tradisional, pameran kerajinan, stan kuliner lokal, serta workshop budaya. Pengunjung bisa mendalami budaya unik Penglipuran dan merasakan keseharian warga setempat—cocok banget buat kamu yang ingin eksplorasi desa tradisional Bali. (Baca juga: [Menembus Waktu di Desa Penglipuran: Merasakan Pesona Bali Kuno](/blog/penglipuran-village-bali-experience/))
@@ -330,7 +330,7 @@ Diprediksi mulai 13 Maret, Bali bakal kebanjiran wisatawan domestik dari berbaga
 - - **Tanggal:** 7–8 Agustus 2026
     - **Deskripsi:** Perhelatan jazz di Ubud dengan konser dan pertunjukan terbuka.
 
-  ![raw-image](https://images.gobaligo.id/vocus/vocus_b4d696ee672b4996982a4b26101af9ef.png)
+  ![Ubud Village Jazz Festival (Festival Jazz Ubud)](https://images.gobaligo.id/vocus/vocus_b4d696ee672b4996982a4b26101af9ef.png)
 
 Ubud Village Jazz Festival (UVJF) adalah salah satu acara jazz paling penting di Asia! Festival ini sudah jadi ikon di pusat budaya Bali, setiap tahun menarik pecinta jazz dari seluruh dunia buat menikmati pengalaman musik dua malam yang nggak terlupakan. UVJF 2025 terpilih sebagai salah satu dari sepuluh acara nasional terbaik tahun ini oleh Kementerian Pariwisata dan Ekonomi Kreatif Indonesia, menunjukkan pengaruh dan signifikansinya. Festival ini juga menghadirkan musisi jazz top dari berbagai negara, didukung oleh kedutaan besar, jadi platform pertukaran budaya internasional yang keren banget.
 
@@ -394,7 +394,7 @@ Ubud Village Jazz Festival (UVJF) adalah salah satu acara jazz paling penting di
 
 - **27 September 2026**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4a95e8af75a39af7fa9ae53d359af247.png)
+![Nyepi Laut](https://images.gobaligo.id/vocus/vocus_4a95e8af75a39af7fa9ae53d359af247.png)
 
 Nyepi Laut adalah 'Hari Hening Laut' di tiga pulau kecil Bali — Nusa Penida, Nusa Lembongan, dan Nusa Ceningan. Buat kamu yang mau bolak-balik ke sana, wajib catat: semua kapal feri libur total di hari itu. Jangan sampai kejebak, ya! Atur jadwal dengan baik. Penasaran apa itu Nyepi Laut dan apa aja yang perlu diperhatikan? Cek penjelasan lengkapnya [di sini](/blog/bali-ocean-peace-day/).
 
@@ -428,7 +428,7 @@ Nyepi Laut adalah 'Hari Hening Laut' di tiga pulau kecil Bali — Nusa Penida, N
 - - **Tanggal:** 5–7 Oktober 2026
     - **Penjelasan:** Festival di Nusa Penida yang fokus pada budaya, alam, tema kelautan, dan program wisata.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_18f01f8938ac90a9dbc22c83a1198a6a.jpg)
+![Nusa Penida Festival](https://images.gobaligo.id/vocus/vocus_18f01f8938ac90a9dbc22c83a1198a6a.jpg)
 
 [【Panduan Lengkap Nusa Penida Bali】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)
 
@@ -457,7 +457,7 @@ Nyepi Laut adalah 'Hari Hening Laut' di tiga pulau kecil Bali — Nusa Penida, N
 - - **Tanggal:** Belum ditentukan (biasanya Oktober)
     - **Deskripsi:** Festival bertema kelautan yang digelar di surga diving Tulamben, memadukan komunitas dan aktivitas air.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c2ef082fb20b5470203d5c2269a6fa5d.jpg)
+![Tulamben Ocean Harmony Festival](https://images.gobaligo.id/vocus/vocus_c2ef082fb20b5470203d5c2269a6fa5d.jpg)
 
 [Surga Tersembunyi di Ujung Timur Bali: Panduan Lengkap Amed & Tulamben](/blog/amed-tulamben-diving-guide/)
 
@@ -494,7 +494,7 @@ Nyepi Laut adalah 'Hari Hening Laut' di tiga pulau kecil Bali — Nusa Penida, N
 
 ### **Ulun Danu Festival (Festival Pura Ulun Danu)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c26035fdebb8a00fa2449690d84b0683.jpg)
+![Ulun Danu Festival (Festival Pura Ulun Danu)](https://images.gobaligo.id/vocus/vocus_c26035fdebb8a00fa2449690d84b0683.jpg)
 
 - - **Tanggal:** Belum ditentukan (biasanya November)
     - **Deskripsi:** Festival yang diadakan di sekitar Pura Ulun Danu Bratan di tepi Danau Bratan, penuh dengan pertunjukan budaya dan suasana upacara.
@@ -506,7 +506,7 @@ Nyepi Laut adalah 'Hari Hening Laut' di tiga pulau kecil Bali — Nusa Penida, N
 
 ### **Sanur Village Festival (Festival Desa Sanur)** [**Situs Resmi**](https://sanurvillagefestival.com/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_edb9e9b9954eccd208e6c1001d793309.png)
+![Sanur Village Festival (Festival Desa Sanur) Situs Resmi](https://images.gobaligo.id/vocus/vocus_edb9e9b9954eccd208e6c1001d793309.png)
 
 - - **Tanggal:** November 2026 (tanggal belum ditentukan)
     - [Sanur Village Festival](https://sanurvillagefestival.com/) adalah acara tahunan (baca juga: Ada apa aja sih di Sanur? Cek [Panduan Sanur Map｜50+ Tempat Makan, Main, SPA, dan Rekomendasi Penginapan!](/blog/sanur-guide/)).
@@ -527,7 +527,7 @@ Nyepi Laut adalah 'Hari Hening Laut' di tiga pulau kecil Bali — Nusa Penida, N
 
 ### **Natal (Kelahiran Yesus Kristus)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_601fcd7028841bd9bfdec12156d64e54.jpg)
+![Natal (Kelahiran Yesus Kristus)](https://images.gobaligo.id/vocus/vocus_601fcd7028841bd9bfdec12156d64e54.jpg)
 
 Hari libur nasional Indonesia, libur panjang 24-25 Desember. Tanggal 25 Desember adalah Hari Natal, juga hari libur nasional di Indonesia. Bagi umat Kristiani, Natal adalah hari raya penting, dan rata-rata hampir 10% penduduk Indonesia adalah Kristen. Karena Natal dan Tahun Baru berdekatan, banyak orang Indonesia akan berusaha mengambil cuti untuk menggabungkan dua liburan menjadi satu liburan panjang. Ini memberi mereka kesempatan untuk menghabiskan liburan lebih lama bersama keluarga dan teman, serta bepergian ke kota atau negara lain. Orang Indonesia bahkan menciptakan istilah 'Nataru', yang berarti 'liburan Natal-Tahun Baru', berasal dari kata Natal (Natal) dan tahun baru (Tahun Baru), untuk mewakili liburan ini.
 

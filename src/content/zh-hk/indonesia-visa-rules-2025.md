@@ -28,7 +28,7 @@ _srcHash: ff59f86e695c891ebd35c730a1fa60c3
 
 印尼移民局由2025年5月29號開始正式實施新嘅簽證延長流程。呢個制度結合咗線上註冊同親身辦理，適用於包括峇里島在內嘅全國各地移民辦公室，影響範圍包括遊客、長期居留者、商務簽證同社會文化簽證持有者。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_05dab2ad74b02830d37c34b349f59630.jpg)
+![印尼簽證延長制度迎來重大變革](https://images.gobaligo.id/vocus/vocus_05dab2ad74b02830d37c34b349f59630.jpg)
 
 ---
 
@@ -95,7 +95,7 @@ _srcHash: ff59f86e695c891ebd35c730a1fa60c3
 - 同樣適用於新混合制度延長
 - 延長費用係IDR 500,000
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b58a503de185affe73271afa17955bf4.png)
+![適用簽證類型同費用](https://images.gobaligo.id/vocus/vocus_b58a503de185affe73271afa17955bf4.png)
 
 ## 常見問答 FAQ
 

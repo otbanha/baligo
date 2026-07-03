@@ -26,7 +26,7 @@ _srcHash: 56cbb0f6e63ee5d5a1b3274a034c02f1
 
 Pernah kepikiran nggak sih, visa kunjungan 30 hari Indonesia bisa dipakai sampai hari ke-30 baru pulang? Ini pertanyaan yang sering banget ditanyain sama orang yang mau liburan ke Indonesia/Bali. Di artikel ini, kita bakal bahas tuntas soal visa kunjungan 30 hari Indonesia, jawab semua rasa penasaran kamu, dan kasih tips traveling yang berguna.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_70896cbf940eae1c0bc1643d987e809d.png)
+![Panduan Wajib Liburan ke Indonesia/Bali: 30 Mitos & Fakta Vi](https://images.gobaligo.id/vocus/vocus_70896cbf940eae1c0bc1643d987e809d.png)
 
 ## Apa Itu Visa Kunjungan 30 Hari Indonesia?
 
@@ -66,7 +66,7 @@ Kalau kamu mau perpanjang waktu tinggal di Indonesia, kamu bisa ajukan perpanjan
 
 Traveler ini karena kurang teliti, tidak menyadari bahwa mengajukan visa lebih dari 60 hari butuh waktu pemrosesan yang lebih lama dan perlu menyertakan bukti keuangan. Dia sudah mengajukan dan membayar pada tanggal 27, tapi saat mau masuk pada tanggal 29, ternyata proses verifikasi belum selesai. Menghadapi situasi ini, meskipun dia menunjukkan bukti pembayaran di bandara Bali, petugas imigrasi di sana tidak bisa langsung memprosesnya dan tetap harus menunggu verifikasi. Petugas imigrasi bilang, kalau dia datang lagi dalam 3 bulan, bisa pakai visa yang sudah disetujui sebelumnya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_463dbab8ca6996865a358ae3450237dd.png)
+![Opsi Perpanjang Masa Tinggal](https://images.gobaligo.id/vocus/vocus_463dbab8ca6996865a358ae3450237dd.png)
 
 Paling banyak dicari...
 
@@ -82,7 +82,7 @@ Selain visa kunjungan 30 hari, Indonesia juga punya beberapa pilihan visa lain. 
 
 Visa kunjungan 30 hari Indonesia memang praktis buat traveler, tapi tetap harus hati-hati soal aturannya. Semoga artikel ini bisa jawab pertanyaan kamu dan bantu rencanain perjalanan ke Indonesia dengan lancar. Mau eksplor pantai cantik di Bali atau nikmatin budaya sejarah di Yogyakarta, asal patuh sama aturan visa dan siapin semuanya dari awal, kamu pasti bisa menikmati liburan yang bebas khawatir. Selamat jalan-jalan dan semoga seru di Indonesia!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4a7b05fc53b5458c828b2e0087fcc74b.png)
+![Kesimpulan](https://images.gobaligo.id/vocus/vocus_4a7b05fc53b5458c828b2e0087fcc74b.png)
 
 Sebelum baca **「Panduan Liburan Mandiri Bali Paling Lengkap」**, kami ajak kamu subscribe dulu channel YouTube **「Xiao Jie Indonesia」** yang penuh konten visual seru. [Klik di sini](http://bit.ly/youtube-jason) buat subscribe sekarang!
 

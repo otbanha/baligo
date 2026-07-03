@@ -27,7 +27,7 @@ _srcHash: 00189c3fd4083afe634ab8a893a5b21e
 
 Mulai Februari 2024, semua **wisatawan internasional** yang masuk ke Bali wajib bayar **pajak turis sebesar 150.000 Rupiah (sekitar USD$10)**. Biaya ini dipakai buat:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_faa81d91ecf80644e97531f94ad11639.png)
+![Apa Itu Pajak Turis Bali?](https://images.gobaligo.id/vocus/vocus_faa81d91ecf80644e97531f94ad11639.png)
 
 - Melindungi budaya dan warisan lokal
 - Menjaga lingkungan alam

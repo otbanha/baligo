@@ -36,7 +36,7 @@ _srcHash: a5fd66dde9f9b837eb5163c24fbf66da
 
 15 Januari 2026, Ubud, Bali, kedatangan landmark baru yang bikin mata melotot — **Hiliwatu, Bali Ubud**. Ini adalah karya terbaru dari Tribute Portfolio, bagian dari Marriott International, di Indonesia. Berlokasi di Desa Bresela, sekitar 9 km di utara Ubud, hotel ini hadir dengan desain arsitektur yang unik, hubungan budaya yang dalam, dan komitmen terhadap keberlanjutan. Semua itu bikin peta hotel butik di Bali makin lengkap.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b650a19390bad70b88c0d6c9c06bd150.jpg)
+![Ubud Punya Landmark Baru: Hiliwatu, Hotel Tribute Portfolio ](https://images.gobaligo.id/vocus/vocus_b650a19390bad70b88c0d6c9c06bd150.jpg)
 
 ## Cerita di Balik Nama
 
@@ -52,9 +52,9 @@ Beda dari hotel biasanya yang pintu masuknya standar, Hiliwatu punya **helipad**
 
 Begitu masuk hotel, yang pertama menyambut adalah **lobi megah setinggi 24 meter**. Ruang ini pakai bahasa arsitektur pahatan, dipadu dengan air mancur bertingkat. Cahaya bermain di permukaan air, menciptakan suasana yang tenang tapi tetap震撼. Desainer piawai memadukan estetika arsitektur modern dengan elemen tradisional Bali, bikin setiap tamu bisa merasakan spiritualitas dan kekuatan ruang.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8e8d87b283a1457b4ea57c3ff9bf92e9.jpg)
+![Lobi Setinggi 24 Meter](https://images.gobaligo.id/vocus/vocus_8e8d87b283a1457b4ea57c3ff9bf92e9.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3327f8f080c3540d745eba743144671e.jpg)
+![Lobi Setinggi 24 Meter](https://images.gobaligo.id/vocus/vocus_3327f8f080c3540d745eba743144671e.jpg)
 
 ### The Pavilion 開放式禮拜堂
 
@@ -89,7 +89,7 @@ Sebagai restoran andalan hotel, Omber terkenal dengan hidangan BBQ ala Mediteran
 
 Menghadap ke pemandangan sawah terasering yang membentang, sambil menyesap koktail spesial di sini, rasanya waktu jadi berjalan lambat.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_815310cb578a55d3a12c773c5e5ed205.jpg)
+![Kuliner: Dari Bali sampai Mediterania](https://images.gobaligo.id/vocus/vocus_815310cb578a55d3a12c773c5e5ed205.jpg)
 
 **Perjalanan Penyembuhan Jiwa & Raga: Samya Wellness**
 

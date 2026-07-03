@@ -199,9 +199,9 @@ https://youtu.be/JtxZHtijEkE
 
 最後特別要推薦嘅係我哋透過Facebook社團【[Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo/)】喺「[峇里島包車司機推薦名人榜](/blog/bali-private-car-drivers-guide/)」搵到嘅專業包車團隊同導遊，令呢次首次去峇里島嘅旅程無比安心舒適。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_da313eec958216453bae20d6d64fe17c.jpg)
+![【旅程結語】](https://images.gobaligo.id/vocus/vocus_da313eec958216453bae20d6d64fe17c.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_008c9c268af88a82a7d01fce6193cf53.png)
+![【旅程結語】](https://images.gobaligo.id/vocus/vocus_008c9c268af88a82a7d01fce6193cf53.png)
 
 七日六夜嘅行程令我帶埋屋企人，無憂無慮咁探索峇里島。包車服務仲減少咗我哋拎行李嘅麻煩，同埋確保長輩有充足嘅休息時間。誠心推薦Edi嘅包車旅遊團隊同專業嘅中文導遊。對於初次去峇里島嘅旅人，呢種安排又安心又舒適，帶住長輩同行格外輕鬆愉快。透過專車接送，搬行李變得輕鬆好多，長輩喺車上都可以隨時休息，成個旅程因此變得更順暢。
 
@@ -213,7 +213,7 @@ https://youtu.be/JtxZHtijEkE
 
 你覺得Claire Chen佢哋嘅行程精唔精彩呀？快啲安排屬於你嘅峇里島自由行啦！仲歡迎大家去社團投稿你嘅行程㗎！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![帶長輩同遊峇里島指南：](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 撳呢度睇更多峇里島精彩遊記
 

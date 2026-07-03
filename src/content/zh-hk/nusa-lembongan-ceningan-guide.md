@@ -67,7 +67,7 @@ __VID0__
 
 Dream Beach係島上主要區域之外嘅人氣海灘，亦都比較擠迫。朝早去會更加愉快。行到去岩石區域，你可以搵到有趣嘅影相點，例如岩石結構或者小洞穴。另外，呢度仲有一個懸崖跳水點，但最好問吓當地導遊，確保跳水嘅安全性。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774856395255-ee223d94-0ff6-4945-b4f9-1ae8dc763676.jpg)
+![海灘探索](https://images.gobaligo.id/images/2026-03/1774856395255-ee223d94-0ff6-4945-b4f9-1ae8dc763676.jpg)
 
 Dream Beach
 
@@ -93,7 +93,7 @@ __VID0__
 
 喺Jungut Batu或者Mushroom Bay地區嘅海灘餐廳度過一個悠閒嘅下午最為舒適。呢度有好多價格合理嘅海邊餐廳。由於呢度亦係到達同離開嘅主要點，港口就喺呢兩個地方，你可以觀察到日間人來人往嘅景象。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1f56eb2c4193e81b53d33fffa1b1f7c.jpg)
+![悠閒嘅一日](https://images.gobaligo.id/vocus/vocus_a1f56eb2c4193e81b53d33fffa1b1f7c.jpg)
 
 日落時分，坎古係睇日落嘅好地方。如果你成個下晝都留喺度，由繁忙嘅活動過渡到完全寧靜嘅景象，會係一種簡單而純粹嘅愉快體驗。
 
@@ -129,7 +129,7 @@ https://youtube.com/shorts/a4mL69nASLY?si=UciZXsalBlU3fOjo
 
 除咗潛水同浮潛，藍夢島仲有好多其他水上活動，滿足唔同愛好者嘅需求。你可以試下滑水、立槳衝浪（SUP）、香蕉船，甚至係有啲特別嘅海底漫步（Seawalker）。另外，你亦可以參加環島遊船，從唔同角度欣賞島嶼嘅壯麗美景，享受同水親密接觸嘅樂趣，感受海洋嘅魅力。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_09d594070b2f07c9219129b07ab8f49d.png)
+![水上活動與冒險](https://images.gobaligo.id/vocus/vocus_09d594070b2f07c9219129b07ab8f49d.png)
 
 ## 佩尼達島嘅壯觀景點
 
@@ -139,11 +139,11 @@ https://youtube.com/shorts/a4mL69nASLY?si=UciZXsalBlU3fOjo
 
 ## 島上美食與夜生活
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d17c2f51c9aeff110410081b920e48f1.png)
+![島上美食與夜生活](https://images.gobaligo.id/vocus/vocus_d17c2f51c9aeff110410081b920e48f1.png)
 
 藍夢島嘅餐廳同海灘俱樂部提供咗多樣化嘅美食選擇，由當地嘅印尼料理到國際風味嘅菜式應有盡有。喺 Jungut Batu 同 Mushroom Bay，你可以搵到好多臨海嘅餐廳同酒吧，享受美食同美景嘅雙重饗宴。夜晚嚟到，島上嘅夜生活亦開始熱鬧起嚟，好多酒吧同海灘俱樂部都會舉行現場音樂表演同派對，等你盡情放鬆同享受。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4658ef6acc04406ea26445d61ca062df.jpg)
+![島上美食與夜生活](https://images.gobaligo.id/vocus/vocus_4658ef6acc04406ea26445d61ca062df.jpg)
 
 呢度有30間藍夢島/金銀島美食餐廳、酒吧、海灘俱樂部推薦㗎：[【藍夢島攻略二】餐廳美食篇](/blog/nusa-lembongan-restaurants/)
 

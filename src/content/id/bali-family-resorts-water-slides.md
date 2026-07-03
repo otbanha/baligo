@@ -31,7 +31,7 @@ Punya anak yang doyan banget main air? Atau si kecil yang suka berenang dan main
 
 Bali adalah surga liburan keluarga. Selain sinar matahari dan pantai, ada banyak resor yang bikin anak-anak happy banget! Resor-resor ini punya seluncuran air yang keren, bikin waktu keluarga di Bali jadi super berkesan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f40dc94298e72b6732786f482784040e.png)
+![TOP 15 Resor Keluarga di Bali dengan Seluncuran Air Terbaik](https://images.gobaligo.id/vocus/vocus_f40dc94298e72b6732786f482784040e.png)
 
 Artikel ini bakal ngenalin 15 resor keluarga terbaik di Bali yang punya seluncuran air. Tempat-tempat ini nggak cuma ramah keluarga, tapi juga punya water park seru yang bikin anak-anak dan orang dewasa sama-sama menikmati liburan.
 
@@ -41,7 +41,7 @@ Artikel ini bakal ngenalin 15 resor keluarga terbaik di Bali yang punya seluncur
 
 ### **Hard Rock Hotel Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_deea0cd79c4dc237312aa957560a52db.jpg)
+![Hard Rock Hotel Bali](https://images.gobaligo.id/vocus/vocus_deea0cd79c4dc237312aa957560a52db.jpg)
 
 Ini pilihan klasik di area Kuta. Punya water park bertema dan Kids Club yang bikin anak-anak betah main. Area kolam renangnya dilengkapi seluncuran air, air terjun besar, dan fasilitas air seru lainnya.
 
@@ -49,7 +49,7 @@ Ini pilihan klasik di area Kuta. Punya water park bertema dan Kids Club yang bik
 
 ### **Padma Resort Legian**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4a9e5155fb4a0550b8d717a16896c0b1.jpg)
+![Padma Resort Legian](https://images.gobaligo.id/vocus/vocus_4a9e5155fb4a0550b8d717a16896c0b1.jpg)
 
 Resor bintang lima di Legian ini punya water park ramah anak dan kolam renang yang luas. Buat keluarga, tempat ini benar-benar surga liburan yang wajib coba.
 
@@ -57,7 +57,7 @@ Resor bintang lima di Legian ini punya water park ramah anak dan kolam renang ya
 
 ### Bali Mandira Beach Resort
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_37799cdd2dd17680c1f49c0de7e07085.jpg)
+![Bali Mandira Beach Resort](https://images.gobaligo.id/vocus/vocus_37799cdd2dd17680c1f49c0de7e07085.jpg)
 
 Resor di Legian ini punya lokasi pantai yang kece banget, lengkap dengan water park seru dan pilihan kolam renang yang variatif. Dijamin keluarga kamu bisa santai dan happy seharian.
 
@@ -69,7 +69,7 @@ Resor di Legian ini punya lokasi pantai yang kece banget, lengkap dengan water p
 
 ### **FuramaXclusive Ocean Beach Seminyak**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_56b587c782d5e312796c9d3e17470101.jpg)
+![FuramaXclusive Ocean Beach Seminyak](https://images.gobaligo.id/vocus/vocus_56b587c782d5e312796c9d3e17470101.jpg)
 
 Terletak di antara Seminyak dan Legian, resor bintang empat ini punya water park anak-anak dan kolam renang yang bikin liburan makin worth it.
 
@@ -79,7 +79,7 @@ Terletak di antara Seminyak dan Legian, resor bintang empat ini punya water park
 
 ### **Grand Mirage Resort & Thalasso Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8532eeaf77d07f59c7e199b127cb6d61.jpg)
+![Grand Mirage Resort & Thalasso Bali](https://images.gobaligo.id/vocus/vocus_8532eeaf77d07f59c7e199b127cb6d61.jpg)
 
 Ini resort all-inclusive yang tenang di area Benoa, punya water park seru dan aktivitas kece yang bakal bikin si kecil betah banget.
 
@@ -87,7 +87,7 @@ Ini resort all-inclusive yang tenang di area Benoa, punya water park seru dan ak
 
 ### **Hilton Bali Resort**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ec87a751b049af7eb5fb3000f0148d77.png)
+![Hilton Bali Resort](https://images.gobaligo.id/vocus/vocus_ec87a751b049af7eb5fb3000f0148d77.png)
 
 Resort bintang lima Hilton ini punya kolam renang di pantai, area water park anak-anak, dan seluncuran air yang seru banget — cocok buat liburan keluarga maksimal.
 
@@ -95,7 +95,7 @@ Resort bintang lima Hilton ini punya kolam renang di pantai, area water park ana
 
 ### **Grand Hyatt Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c1b7b7fa062317db2fdb4c3d4520180d.jpg)
+![Grand Hyatt Bali](https://images.gobaligo.id/vocus/vocus_c1b7b7fa062317db2fdb4c3d4520180d.jpg)
 
 Resort mewah di Nusa Dua ini punya banyak kolam renang, termasuk water park yang penuh petualangan — dijamin anak-anak betah main air sepuasnya.
 
@@ -103,7 +103,7 @@ Resort mewah di Nusa Dua ini punya banyak kolam renang, termasuk water park yang
 
 ### **The Apurva Kempinski Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_741f811c3881e8ac75e8e3941fa8a179.jpg)
+![The Apurva Kempinski Bali](https://images.gobaligo.id/vocus/vocus_741f811c3881e8ac75e8e3941fa8a179.jpg)
 
 Resor mewah bergaya Indonesia ini punya seluncuran air bertingkat dan kolam renang utama yang bikin melongo. Cocok banget buat liburan keluarga.
 
@@ -111,7 +111,7 @@ Resor mewah bergaya Indonesia ini punya seluncuran air bertingkat dan kolam rena
 
 ### **The Westin Resort, Nusa Dua**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9d587ffca074a227125e9a4f9308aac3.jpg)
+![The Westin Resort, Nusa Dua](https://images.gobaligo.id/vocus/vocus_9d587ffca074a227125e9a4f9308aac3.jpg)
 
 Resor di Nusa Dua ini punya klub anak-anak, seluncuran air, dan kolam renang luas — jaminan hiburan buat keluarga kamu.
 
@@ -119,7 +119,7 @@ Resor di Nusa Dua ini punya klub anak-anak, seluncuran air, dan kolam renang lua
 
 ### **Holiday Inn Resort Bali Nusa Dua**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff6c8a22e88ccf6084d4ba4121478000.jpg)
+![Holiday Inn Resort Bali Nusa Dua](https://images.gobaligo.id/vocus/vocus_ff6c8a22e88ccf6084d4ba4121478000.jpg)
 
 Resor ramah keluarga di kawasan Teluk Benoa ini punya lima kolam renang, termasuk taman air warna-warni dan seluncuran air yang bikin kamu dan si kecil betah berlama-lama.
 
@@ -131,7 +131,7 @@ Resor ramah keluarga di kawasan Teluk Benoa ini punya lima kolam renang, termasu
 
 ### **AYANA Resort, Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5adf4aacc4cca8b902ecb041966b40c7.jpg)
+![AYANA Resort, Bali](https://images.gobaligo.id/vocus/vocus_5adf4aacc4cca8b902ecb041966b40c7.jpg)
 
 AYANA Resort yang terletak di tebing Jimbaran ini adalah resort mewah di kawasan AYANA, dengan pemandangan Samudra Hindia yang bikin speechless. Resort ini punya 14 kolam renang berbeda yang tersebar di 4 resort terpisah tapi saling terhubung. Ini salah satu resort paling populer di Bali, yuk cek [panduan lengkap Ayana](/blog/ayana-resort-bali-guide/) dari kami. Kolam anak-anak dilengkapi dua seluncuran air, bikin si kecil serasa petualang di hutan tropis.
 
@@ -139,7 +139,7 @@ AYANA Resort yang terletak di tebing Jimbaran ini adalah resort mewah di kawasan
 
 ### **RIMBA Jimbaran BALI by AYANA**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3c38aa29ff9f3f91747039a95dcc12d3.jpg)
+![RIMBA Jimbaran BALI by AYANA](https://images.gobaligo.id/vocus/vocus_3c38aa29ff9f3f91747039a95dcc12d3.jpg)
 
 RIMBA adalah resort yang lebih terjangkau dan modern di kawasan AYANA ESTATE, dengan instalasi seni yang keren, interior stylish, dan pemandangan Samudra Hindia yang epik. Area anak-anak punya seluncuran air dua lantai yang berkelok-kelok, plus ada pool bar dan kursi malas terendam biar minuman dingin makin nikmat.
 
@@ -147,7 +147,7 @@ RIMBA adalah resort yang lebih terjangkau dan modern di kawasan AYANA ESTATE, de
 
 ### **Movenpick Resort and Spa Jimbaran**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b5efe1510f084d914feca6bba6128a01.jpg)
+![Movenpick Resort and Spa Jimbaran](https://images.gobaligo.id/vocus/vocus_b5efe1510f084d914feca6bba6128a01.jpg)
 
 Resort bintang lima di Jimbaran ini punya water park anak-anak yang seru banget, bikin mereka betah main seharian. Kolam renang utama resort ini melingkari seluruh bangunan, kamu bisa berenang puas, plus ada bak air panas yang menggelembung.
 
@@ -159,7 +159,7 @@ Resort bintang lima di Jimbaran ini punya water park anak-anak yang seru banget,
 
 ### Prama Sanur Beach Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6d8c6de0de7c326d7b96fc760283790a.jpg)
+![Prama Sanur Beach Bali](https://images.gobaligo.id/vocus/vocus_6d8c6de0de7c326d7b96fc760283790a.jpg)
 
 Terletak di tepi pantai Sanur, Prama Sanur Beach Hotel punya banyak aktivitas ramah anak, termasuk Splash Zone yang super seru. Waterpark besar ini dilengkapi seluncuran air dan berbagai fasilitas air yang bikin keluarga kamu nggak bakal jauh dari keseruan.
 
@@ -167,7 +167,7 @@ Terletak di tepi pantai Sanur, Prama Sanur Beach Hotel punya banyak aktivitas ra
 
 ### **Prime Plaza Suites Sanur**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7f99a7e16cd34990a45592b944746edc.jpg)
+![Prime Plaza Suites Sanur](https://images.gobaligo.id/vocus/vocus_7f99a7e16cd34990a45592b944746edc.jpg)
 
 Prime Plaza Suites Sanur adalah salah satu destinasi liburan keluarga favorit di Bali. Area waterpark anak-anaknya punya seluncuran air 30 meter yang seru dan kolam dangkal, bener-bener surga buat si kecil. Selain itu, resort ini juga menyediakan kids club gratis, di mana anak-anak bisa bermain di playground outdoor, area permainan indoor, dan zona PS4.
 
@@ -175,7 +175,7 @@ Prime Plaza Suites Sanur adalah salah satu destinasi liburan keluarga favorit di
 
 ## Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b5571bf2988db848cdf0c08b20164cb.png)
+![Ubud](https://images.gobaligo.id/vocus/vocus_3b5571bf2988db848cdf0c08b20164cb.png)
 
 （Baca juga: [Panduan Lengkap Aktivitas Keluarga di Ubud: 55 Kegiatan Seru Biar Liburan Bareng Anak Makin Santai!](/blog/ubud-with-kids-guide/)）
 

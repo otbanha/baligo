@@ -92,7 +92,7 @@ Saran, di Taiwan mending tukar dulu uang pecahan USD$100, baru nanti di Indonesi
 
 Perjalanan kali ini rekomendasi dari grup, hoki banget ketemu Betty Pingky. Dari sebelum berangkat—saran itinerary, rekomendasi hotel—sampai selama perjalanan, guide-nya profesional dan perhatian, bikin tenang dan hangat.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_36d1ca9ccd350f82b4fc77b4c476186e.jpg)
+![※ Tips Sewa Mobil + Guide](https://images.gobaligo.id/vocus/vocus_36d1ca9ccd350f82b4fc77b4c476186e.jpg)
 
 Kadang, dia bahkan 'satu orang terima tamu, dua orang yang layani', dua hari perjalanan ditemani juga sama suaminya, Xiao Wu, perjalanan penuh tawa.
 
@@ -102,7 +102,7 @@ Suatu hari, hotel nggak kasih sarapan, ditambah kami berangkat pagi banget. Dia 
 
 ## ※ Rencana Perjalanan & Cerita Perjalanan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1ddc462d2d0248effc0fb73f6691b047.png)
+![※ Rencana Perjalanan & Cerita Perjalanan](https://images.gobaligo.id/vocus/vocus_1ddc462d2d0248effc0fb73f6691b047.png)
 
 ### **Hari 1: Tiba di Bali → Pantai Jimbaran Sunset & Makan Malam Seafood**
 
@@ -112,7 +112,7 @@ Suatu hari, hotel nggak kasih sarapan, ditambah kami berangkat pagi banget. Dia 
 
 Setibanya di Bali, Betty sudah menunggu di bandara sambil memegang papan nama, senyum ramahnya langsung menghilangkan rasa lelah setelah penerbangan panjang. Kami mampir ke villa untuk menaruh barang, lalu langsung menuju **Pantai Jimbaran**. 23 tahun berlalu, sunset di Jimbaran tetap indah bak lukisan, deretan tenda seafood di pinggir pantai mengeluarkan aroma yang menggoda. Makan malam di **malafi cafe jimbaran** menikmati seafood segar, ditemani live music, sekeluarga duduk melingkar di pasir, kaki menyentuh pasir halus, di depan mata pemandangan laut jingga saat matahari terbenam — bikin hati penuh kebahagiaan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e474fcc7e6a5290032324cbaa76ba48.png)
+![Hari 1: Tiba di Bali → Pantai Jimbaran Sunset & Makan Malam ](https://images.gobaligo.id/vocus/vocus_3e474fcc7e6a5290032324cbaa76ba48.png)
 
 Dua malam pertama kami menginap di villa yang menyediakan pilihan 1 kamar hingga 4 kamar. Kalau ada yang butuh, bisa cek [Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=684981&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawcLFJMEkNZGF4_ShL1fZhBgNLH4LOr4J3CHXerrJwVO-9XXgjrx2hwCeiCkHnk9jT2wO9JzbcCjQoZABBCr6HRoZ00DgWKdDFyMrWM0Mxq3PNTcynj0DBD1JDjsYmQ4wMp1gXCK9gOncgepTLMwcm1gvsXxliq5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDb2MRUz8AAKFKSWOGZAtaZnJiTXJqTWJIaUlkANMFMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQbooiFJeaUpkKcALTQLRVqh2GtDqbLn83pfdo988Wm3cS53JzaLjcgxuXGtbGPWJiiYz-xMPwCRsNhlSZWhi5WZo5TTJOA5BLpXaxswR6uHu5uF1g3OknJGxoYGJgaGpua6hokWlokGSca6JpYmhiZG-gaGZgaWWr8-jL5-hNjI2spSLwrMGoJxod4eroYlhSmmhWWWuYUFZgaMJ5ilDI0N7YwNDI0NDIysjTWM7FIMyu2yCu2yM2K8GAMYnNyNbRwdI6y4WL2dAkS_KD3fHu7taW9FHNIuIti6ernS773nrbXAskZwuQC97zOOWFvvMA-EiafxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIsIGRcQfjfxhgfMUIMh0Av-tkWP0CAAA&masterhotelid_tracelogid=100051355-0a98b3a0-494270-20529&detailFilters=17|1~17~1*31|684981~31~684981*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=576&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/F9KK4zi1)
 
@@ -126,7 +126,7 @@ Dua malam pertama kami menginap di villa yang menyediakan pilihan 1 kamar hingga
 - **Makan**: Makan siang di WARUNG LAOTA, makan malam di pasar dekat hotel
 - **Akomodasi**: [Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=684981&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawcLFJMEkNZGF4_ShL1fZhBgNLH4LOr4J3CHXerrJwVO-9XXgjrx2hwCeiCkHnk9jT2wO9JzbcCjQoZABBCr6HRoZ00DgWKdDFyMrWM0Mxq3PNTcynj0DBD1JDjsYmQ4wMp1gXCK9gOncgepTLMwcm1gvsXxliq5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDb2MRUz8AAKFKSWOGZAtaZnJiTXJqTWJIaUlkANMFMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQbooiFJeaUpkKcALTQLRVqh2GtDqbLn83pfdo988Wm3cS53JzaLjcgxuXGtbGPWJiiYz-xMPwCRsNhlSZWhi5WZo5TTJOA5BLpXaxswR6uHu5uF1g3OknJGxoYGJgaGpua6hokWlokGSca6JpYmhiZG-gaGZgaWWr8-jL5-hNjI2spSLwrMGoJxod4eroYlhSmmhWWWuYUFZgaMJ5ilDI0N7YwNDI0NDIysjTWM7FIMyu2yCu2yM2K8GAMYnNyNbRwdI6y4WL2dAkS_KD3fHu7taW9FHNIuIti6ernS773nrbXAskZwuQC97zOOWFvvMA-EiafxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIsIGRcQfjfxhgfMUIMh0Av-tkWP0CAAA&masterhotelid_tracelogid=100051355-0a98b3a0-494270-20529&detailFilters=17|1~17~1*31|684981~31~684981*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=576&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/F9KK4zi1)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f24fff8b05526923028a41d85303f88f.jpg)
+![Hari 2: Blue Cliff Highway → Pura Uluwatu → Spa Relaksasi](https://images.gobaligo.id/vocus/vocus_f24fff8b05526923028a41d85303f88f.jpg)
 
 Betty mengajak kami menyusuri **Blue Cliff Highway**, air laut biru jernih kontras dengan tebing curam, di sepanjang jalan banyak pasangan yang sedang foto prewedding — romantis banget. Lalu kami mengunjungi **Pura Uluwatu**, arsitektur Hindu kuno dengan ukiran batu yang detail bikin kagum. Sore harinya, kami booking **Sakar Jepun Spa**, sekeluarga berenam menikmati pijat tradisional Bali, bikin badan segar lagi dan siap untuk petualangan selanjutnya.
 
@@ -142,7 +142,7 @@ Betty mengajak kami menyusuri **Blue Cliff Highway**, air laut biru jernih kontr
 - **Kuliner**: Makan siang Bebek Betutu di Joni Restaurant, Makan malam di Freddies Resort & Villas
 - **Akomodasi**: [Freddies Resort & Villas Ubud by Kanaya Hospitality](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=23125492) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=24141779&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6wcTFJMEkdZGJY9GexSeYhJgNDYw0jrIYPGC02CrvuEOu9XXggxQHz2qRde4Pb2U6BPBETDnwfBp74nL73xOVnMwduhhZwQIzGC_vP8i9kZHr-uIC21fODjsYmU4wHmFfwLTx6nHuUyzMHDsZL7HsYoyuVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DCVM_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBSEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLgswtgvIz8_Mgug1QxMISc0pTISqB9rmlQq0wrI19xMIUHfuC5SjLJxaGXywMTawMXaxMHDmTWJk5jrDvYuW1NAoNdjHUNQzRjdI1vMB6lENK0dDAwMDI1NTIXNcg0dLY1MDQQtfE0sTYwFLXyMzExNDMSOPBgiOznhobWUtBAlGBUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm6GJqZGRaZQNFzPQDYKFtsBIMJB2kGIOCXdRXHmTee2BCafttZg9XYIM7_1nydVWtrQPtPgixv_ecoF9JEw-ibUqQzckPKNXvICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANm0y3ZGAgAA&masterhotelid_tracelogid=100025527-0a935018-494309-2644162&detailFilters=17|1~17~1*31|24141779~31~24141779*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=912&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Fma46mCo)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4a04261efc67f7ef8c6413d589e1ae9c.jpg)
+![Hari 3: Taman Safari → Makan Malam di Sawah](https://images.gobaligo.id/vocus/vocus_4a04261efc67f7ef8c6413d589e1ae9c.jpg)
 
 **Taman Safari Bali** pasti jadi favorit anak-anak! Kamu bisa lihat gajah, harimau, dan hewan lainnya dari dekat, plus naik mobil wisata ke area satwa liar — serasa di padang rumput Afrika. Makan malam di **Freddies Resort & Villas** suasananya adem banget, makanannya juga enak-enak.
 
@@ -156,7 +156,7 @@ Betty mengajak kami menyusuri **Blue Cliff Highway**, air laut biru jernih kontr
 - **Kuliner**: Makan siang sudah termasuk paket arung jeram, Makan malam di iiga warung (Iga Bakar)
 - **Akomodasi**: [Freddies Resort & Villas Ubud by Kanaya Hospitality](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=23125492) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=24141779&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6wcTFJMEkdZGJY9GexSeYhJgNDYw0jrIYPGC02CrvuEOu9XXggxQHz2qRde4Pb2U6BPBETDnwfBp74nL73xOVnMwduhhZwQIzGC_vP8i9kZHr-uIC21fODjsYmU4wHmFfwLTx6nHuUyzMHDsZL7HsYoyuVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DCVM_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBSEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLgswtgvIz8_Mgug1QxMISc0pTISqB9rmlQq0wrI19xMIUHfuC5SjLJxaGXywMTawMXaxMHDmTWJk5jrDvYuW1NAoNdjHUNQzRjdI1vMB6lENK0dDAwMDI1NTIXNcg0dLY1MDQQtfE0sTYwFLXyMzExNDMSOPBgiOznhobWUtBAlGBUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm6GJqZGRaZQNFzPQDYKFtsBIMJB2kGIOCXdRXHmTee2BCafttZg9XYIM7_1nydVWtrQPtPgixv_ecoF9JEw-ibUqQzckPKNXvICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANm0y3ZGAgAA&masterhotelid_tracelogid=100025527-0a935018-494309-2644162&detailFilters=17|1~17~1*31|24141779~31~24141779*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=912&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Fma46mCo)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9896437fb78834627a8728b3cc73f5b5.jpg)
+![Day 4: Arung Jeram Ubud → Desa Seni → Ayunan Sawah → Iga Bak](https://images.gobaligo.id/vocus/vocus_9896437fb78834627a8728b3cc73f5b5.jpg)
 
 Pagi-pagi langsung ke **Arung Jeram Sungai Ayung**, pemandangan hutan tropisnya cantik banget, arusnya tenang jadi cocok buat sekeluarga — bahkan bisa lompat dan berenang di sungai! Lanjut ke **Desa Penglipuran**, desa tradisional Bali yang kental budaya. **Terasering Tegalalang** dengan ayunan hutannya jadi spot wajib foto ala influencer — kami sekeluarga juga nggak tahan buat antre, seru banget lihat sawah hijau dari ketinggian. Makan malam di **iiga warung** cobain iga bakar, bumbunya manis gurih, sampai sekarang masih kangen.
 
@@ -172,7 +172,7 @@ Pagi-pagi langsung ke **Arung Jeram Sungai Ayung**, pemandangan hutan tropisnya 
 
 ### **Day 5: Jalan-jalan Seminyak → Beachwalk Shopping Center → Spa Terakhir**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c6935750f850b8396f64672ffab4392f.jpg)
+![Day 5: Jalan-jalan Seminyak → Beachwalk Shopping Center → Sp](https://images.gobaligo.id/vocus/vocus_c6935750f850b8396f64672ffab4392f.jpg)
 
 - **Destinasi & Aktivitas**: Bali Handara Cafe, Jalan Raya Seminyak, Beachwalk Shopping Center, SPA
 - **Kuliner**: Makan siang di Secret Garden Restaurant, Makan malam di Beachwalk shopping center
@@ -194,7 +194,7 @@ Hari terakhir kita jalan-jalan santai. **Jalan Raya Seminyak** dan **Beachwalk S
 
 Pagi-pagi jalan-jalan di **Pantai Kuta**, nikmatin angin laut dan sinar matahari Bali yang terakhir. Lanjut ke **Mal Bali Galeria** buat belanja terakhir, setelah makan siang Betty anter kita ke bandara dengan penuh perhatian, nemenin sampai hall keberangkatan, pamitan dengan tulus.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_409ecb0e626c9e5a6ade93ac2775018f.jpg)
+![Day 6: Jalan-jalan Pantai Kuta → Antar ke Bandara](https://images.gobaligo.id/vocus/vocus_409ecb0e626c9e5a6ade93ac2775018f.jpg)
 
 ***
 

@@ -51,7 +51,7 @@ _srcHash: 0f2d381928adc2d16f7c0922955bafb3
 
 Recently, I came across a Threads post that resonated deeply with me.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776511006123-671848263_122207343458339499_1842164481499972904_n.jpg)
+![【2026 Bali Avoid-the-Pitfalls Guide】Four Days, Three Nights,](https://images.gobaligo.id/images/2026-04/1776511006123-671848263_122207343458339499_1842164481499972904_n.jpg)
 
 A woman wrote about her four-day, three-night trip to Bali, saying she "completely avoided tap water and ice"—which theoretically means she did her homework—but her final verdict was: **terrible experience, wouldn't want to return**.
 
@@ -144,7 +144,7 @@ Our Bali communities:
 
 ## Final Thoughts
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776511510614-6f08d040cdd2702003ab51beb20055eb.jpg)
+![Final Thoughts](https://images.gobaligo.id/images/2026-04/1776511510614-6f08d040cdd2702003ab51beb20055eb.jpg)
 
 Bali is truly a place that’s easy to fall in love with, but also easy to stumble into pitfalls.
 

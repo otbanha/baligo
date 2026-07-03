@@ -20,7 +20,7 @@ lang: zh-cn
 _srcHash: 03bf2852b16acb76b236a14cdfced10e
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8ffdd23b3ea35924d1c2b50895d7406d.jpg)
+![巴厘岛旅游购物哪里最便宜？巴厘岛购物推荐｜巴厘岛自由行行程｜巴厘岛最大艺术批发市场 Kumbasri Art Marke](https://images.gobaligo.id/vocus/vocus_8ffdd23b3ea35924d1c2b50895d7406d.jpg)
 
 ### 巴厘岛最大的巴厘岛批发艺术市场 Kumbasari Art Market 介绍
 

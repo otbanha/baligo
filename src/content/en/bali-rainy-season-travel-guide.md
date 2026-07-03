@@ -40,7 +40,7 @@ Before answering this frequently asked question in our two Facebook groups "[Bal
 
 "Average temperature" refers to the actual measured air temperature, while "feels like" temperature is how hot or cold the human body perceives it to be, influenced by humidity, wind speed, and sunlight. For example, at the same 30°C, higher humidity makes it feel more stifling, while wind makes it feel cooler.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cad1d4b85960806ae37730b1da52e654.png)
+![Explanation of Temperature](https://images.gobaligo.id/vocus/vocus_cad1d4b85960806ae37730b1da52e654.png)
 
 ## **Travel Suitability Index**
 

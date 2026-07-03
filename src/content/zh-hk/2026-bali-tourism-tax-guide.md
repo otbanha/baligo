@@ -38,7 +38,7 @@ _srcHash: 394acbc314bfbf3c2eac9245a415864e
 
 當地旅遊局表示，繳納旅遊稅嘅過程唔會超過 23 秒，強烈建議遊客提前支付。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776095669943-mixcollage-13-apr-2026-10-53-pm-603.jpg)
+![2024/2/14 起，前往峇里島旅遊必須多支出折合台幣 $300 元](https://images.gobaligo.id/images/2026-04/1776095669943-mixcollage-13-apr-2026-10-53-pm-603.jpg)
 
 ## 跳島仲要再繳一次？
 

@@ -22,7 +22,7 @@ _srcHash: e4d35e6593daa2066e8c88584e4f8d29
 
 根據《CEOWORLD》雜誌最新公布嘅「[2024年一生必去嘅國家](https://ceoworld.biz/2024/04/15/worlds-best-countries-to-visit-in-your-lifetime-2024/)」排行榜，泰國以72.15分高居榜首，希臘緊隨其後，而我哋最愛嘅**印尼**就以65.15分嘅亮眼成績攞到**全球第三**！呢份排名綜合咗文化吸引力、自然景觀同整體旅遊體驗等指標，今日就等我哋深入探討呢啲夢幻目的地，並特別聚焦印尼——尤其係峇里島嘅獨特魅力！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bb02d8340f07688f85e96e9ad74a13b6.jpg)
+![一生必去嘅15個國家：印尼峇里島點解成為全球第三？](https://images.gobaligo.id/vocus/vocus_bb02d8340f07688f85e96e9ad74a13b6.jpg)
 
 ---
 
@@ -34,7 +34,7 @@ _srcHash: e4d35e6593daa2066e8c88584e4f8d29
 4. **葡萄牙（64.32分）**：波爾圖嘅酒香與里斯本嘅電車，歐洲性價比之選。
 5. **英國（60.53分）**：倫敦嘅古典與蘇格蘭嘅高地風情，文化愛好者嘅天堂。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2495e9c4fc826f35ce1505a4070ec856.png)
+![排行榜亮點速覽](https://images.gobaligo.id/vocus/vocus_2495e9c4fc826f35ce1505a4070ec856.png)
 
 其他入選嘅仲有南非（野生動物園！）、秘魯（馬丘比丘！）、義大利（美食與藝術！），而印度、法國、西班牙等經典目的地亦紛紛上榜。
 
@@ -46,7 +46,7 @@ _srcHash: e4d35e6593daa2066e8c88584e4f8d29
 
 我哋作為深耕峇里島旅遊嘅部落客，今次就嚟細數峇里島嘅無敵優勢：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e9d69d057faf60bdcc212332604619b.jpg)
+![點解印尼能成為全球第三？峇里島嘅4大必去理由](https://images.gobaligo.id/vocus/vocus_2e9d69d057faf60bdcc212332604619b.jpg)
 
 ### 1. **自然與文化嘅雙重盛宴**
 
@@ -56,7 +56,7 @@ _srcHash: e4d35e6593daa2066e8c88584e4f8d29
 
 ### 2. **CP值超高嘅奢華體驗**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_56ab0ceda63196ea577a807d5be9054a.jpg)
+![2. CP值超高嘅奢華體驗](https://images.gobaligo.id/vocus/vocus_56ab0ceda63196ea577a807d5be9054a.jpg)
 
 比起歐美、台灣嘅高物價，峇里島可以用一半嘅預算享受**五星級Villa、懸崖SPA、私人海灘晚餐**。推薦[水明漾（Seminyak）嘅私人泳池villa](/blog/2024-04-04-660e6e92fd89780001e6047e/)、[金巴蘭Ayana岩石酒吧無敵日落](/blog/ayana-resort-bali-guide/)、[烏布（Ubud）嘅叢林美景酒店](/blog/ubud-villas-pool-guide/)、[努沙杜瓦（Nusa Dua）嘅五星度假村](/blog/nusa-dua-resorts-guide/)。
 

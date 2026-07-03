@@ -23,7 +23,7 @@ _srcHash: 2bb505e944fe9f9bb35900f49d62f772
 ---
 Participating in water activities like diving and snorkeling is a top choice for many travelers in Bali. However, since these activities often take place at the beach or on offshore islands, it's impossible to bring bags onboard, let alone a safe. Thus, 'How to store passports, wallets, and phones?' becomes a frequently asked question.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_13ba81f657671652cb965ba7cbdbbb32.jpg)
+![Essential Bali Diving and Snorkeling Guide: How to Safely St](https://images.gobaligo.id/vocus/vocus_13ba81f657671652cb965ba7cbdbbb32.jpg)
 
 No worries! Below, we've compiled **6 safe and practical storage methods** to help you enjoy marine activities with confidence!
 
@@ -69,7 +69,7 @@ When participating in water activities, only bring essentials like your phone, s
 
 The first step to safe travel is **traveling light and reducing temptations**!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5c7cb0bc463870c71435bbe2ca2920ab.jpg)
+![6. Travel Light to Minimize Risks](https://images.gobaligo.id/vocus/vocus_5c7cb0bc463870c71435bbe2ca2920ab.jpg)
 
 ---
 
@@ -107,6 +107,6 @@ It's advised to report it to the local police immediately. If you lose your pass
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_16339969501f0b9ff7e0dc5c638cd48d.png)
+![5. What should I do if I lose an item?](https://images.gobaligo.id/vocus/vocus_16339969501f0b9ff7e0dc5c638cd48d.png)
 
 Bali's underwater world is breathtakingly beautiful, but protecting your belongings is an essential part of any trip. With proper preparation and choosing the right storage methods, you can make your diving or snorkeling memories even more perfect and worry-free.

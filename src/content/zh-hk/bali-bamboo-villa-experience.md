@@ -38,23 +38,23 @@ lang: zh-hk
 _srcHash: b57669193f511efc73c74b04b27d7b60
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c62a1ab2c4b39417175e2de5c99ef7b0.jpg)
+![峇里島一晚居然唔使$2,000!? 住呢度係咩感覺? 體驗峇里島隱世竹屋民宿](https://images.gobaligo.id/vocus/vocus_c62a1ab2c4b39417175e2de5c99ef7b0.jpg)
 
 [Melody x TPEMountain 尹行山林](https://www.youtube.com/@melodyxtpemountain) 係一位 YouTuber，佢分享咗佢喺峇里島住宿嘅體驗。今次佢預訂咗一間好特別嘅竹屋旅館 [Le Sabot Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7003115)。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8fcbe4d9b0ce4a0759443d9a8fbe1762.png)
+![峇里島一晚居然唔使$2,000!? 住呢度係咩感覺? 體驗峇里島隱世竹屋民宿](https://images.gobaligo.id/vocus/vocus_8fcbe4d9b0ce4a0759443d9a8fbe1762.png)
 
 抵達佢哋嘅 bamboo villa 時，佢被門口嘅池塘同入面游緊嘅肥美錦鯉深深吸引，仲講笑話唔小心就會跌落去同錦鯉做伴。入到民宿，見到嘅係一間開放式空間，冇門窗，亦冇冷氣設備，只有一把風扇。房入面有一張吊床同雙人床，俾人好放鬆嘅感覺。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_31309ad44d7f6fe899c4b724d27d950a.png)
+![峇里島一晚居然唔使$2,000!? 住呢度係咩感覺? 體驗峇里島隱世竹屋民宿](https://images.gobaligo.id/vocus/vocus_31309ad44d7f6fe899c4b724d27d950a.png)
 
 客房後面有個小陽台，種咗好多檸檬樹，綠意盎然。女仔夢寐以求嘅全身鏡都有配備。最獨特嘅係，廁所同淋浴間被一片可以移動嘅竹牆隔開，設計簡單有種露營嘅 feel。洗手台旁邊亦有一面可以收起嘅小鏡子，好可愛同有心思。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e111fcde7c749bc6aad43f044d62dd41.png)
+![峇里島一晚居然唔使$2,000!? 住呢度係咩感覺? 體驗峇里島隱世竹屋民宿](https://images.gobaligo.id/vocus/vocus_e111fcde7c749bc6aad43f044d62dd41.png)
 
 夜晚，Melody 被池塘嘅流水聲同蟲鳴鳥叫包圍，喺大自然嘅懷抱中入睡，感覺好舒服同怡人。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_75c7ea229b2049bf0233fdfb6155bade.png)
+![峇里島一晚居然唔使$2,000!? 住呢度係咩感覺? 體驗峇里島隱世竹屋民宿](https://images.gobaligo.id/vocus/vocus_75c7ea229b2049bf0233fdfb6155bade.png)
 
 第二日，Melody 參觀咗民宿嘅泳池區，寧靜怡人，別有一番風味。佢好鍾意呢處隱匿喺叢林中嘅祥和天地，雖然距離熱鬧區有啲遠，但正因為咁獨特同安謐，係值得體驗嘅度假勝地。
 

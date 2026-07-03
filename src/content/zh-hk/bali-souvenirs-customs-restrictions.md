@@ -92,7 +92,7 @@ Yang Mei 亦特別問到：「JUHU 係加工風乾嘅魷魚片，可以帶嗎？
 
 ***
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2d587c023d2943d0c6828cc28462bc8b.png)
+![帶峇里島手信返台灣嘅小貼士](https://images.gobaligo.id/vocus/vocus_2d587c023d2943d0c6828cc28462bc8b.png)
 
 ## 個人小心得 🌴
 

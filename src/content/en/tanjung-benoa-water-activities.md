@@ -60,7 +60,7 @@ Australia's Smarttraveller recommends confirming whether your travel insurance c
 
 A1: Parasailing is the most popular activity, offering stunning aerial views of the entire Nusa Dua coastline along with the thrill of flying. Sea walking, which allows you to explore underwater without holding your breath, is also quite popular.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_84e7b1fd3bbfdd2efa3ce50265a4985f.jpg)
+![Frequently Asked Questions (FAQ)](https://images.gobaligo.id/vocus/vocus_84e7b1fd3bbfdd2efa3ce50265a4985f.jpg)
 
 **Q2: What is the price range for water activities?**
 

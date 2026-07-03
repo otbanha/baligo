@@ -43,7 +43,7 @@ With the advancement of the 2026 high-quality tourism policy, **Ngurah Rai Inter
 - **Background and Data**: Official data shows that only about 40% of foreign tourists voluntarily paid the tourism tax in the early stages. To achieve the 2026 target of 6.63 million tourist arrivals and allocate funds to waste management centers (TPST) and cultural heritage protection, the provincial government has decided to implement 'comprehensive verification'.
 - **Departure Restrictions**: In addition to entry checks, the tourism bureau and airlines (SITA system) are in a critical phase of testing linkage. In the future, if the system shows that a traveler has not paid the tourism tax during their stay, **they may not be able to obtain their boarding pass upon departure** and must settle the payment before being allowed to proceed.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777252730266-782544334399662200.png)
+!['Secondary Checkpoint' for Tourism Tax Verification Official](https://images.gobaligo.id/images/2026-04/1777252730266-782544334399662200.png)
 
 ***
 

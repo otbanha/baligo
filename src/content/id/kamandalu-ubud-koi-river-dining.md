@@ -16,7 +16,7 @@ lang: id
 _srcHash: 1f6b66f9749efbf860430c692f4872e8
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_94270edad192312ca18cd296ef31f4ae.jpg)
+![Romantic Dinner on a Boat: Koi River Dining Experience at Ka](https://images.gobaligo.id/vocus/vocus_94270edad192312ca18cd296ef31f4ae.jpg)
 
 Di jantung Ubud, Bali, Kamandalu Ubud menciptakan pengalaman makan yang super romantis buat pasangan—dinner di atas perahu di kolam ikan koi. Bukan sekadar makan, ini benar-benar pesta sensasi yang menggabungkan keindahan alam, makanan lezat, dan suasana romantis banget.
 
@@ -26,13 +26,13 @@ Bayangin kamu dan pasangan duduk di perahu kayu tradisional, dikelilingi kolam j
 
 Pengalaman satu jam ini cocok banget buat pasangan yang mau merayakan momen spesial, atau sekadar kabur dari hiruk-pikuk sehari-hari dan menikmati waktu berdua yang manis. Resort ini nawarin pilihan waktu yang fleksibel, baik siang hari yang cerah atau senja saat matahari terbenam, kamu bisa pilih momen romantis yang paling pas.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3648fd618b175b7daa976538684257e2.jpg)
+![Romantis di Atas Air dengan Ikan Koi](https://images.gobaligo.id/vocus/vocus_3648fd618b175b7daa976538684257e2.jpg)
 
 ## Sajian Makanan Lezat
 
 Di suasana yang begitu spesial, Kamandalu nyiapin menu yang dirancang dengan cermat buat memuaskan semua selera:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eae8f33d1d9a12f0c82a4651c147dd3e.png)
+![Sajian Makanan Lezat](https://images.gobaligo.id/vocus/vocus_eae8f33d1d9a12f0c82a4651c147dd3e.png)
 
 **Menu reguler** nawarin banyak pilihan:
 

@@ -29,7 +29,7 @@ Luckily, our guide **Wayan**—a Balinese local who studied Chinese in Beijing�
 
 If you want to **eat at a night market like a local**, rather than just dining at tourist-packed restaurants, this tour is definitely the best choice for experiencing Bali’s nighttime food scene!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ea323f4078c731906c6a3114fb1178fa.png)
+![Bali’s Biggest Night Market Food Experience: Follow a Local ](https://images.gobaligo.id/vocus/vocus_ea323f4078c731906c6a3114fb1178fa.png)
 
 "Watch your wallet!" Wayan reminded me in fluent Chinese, as he expertly led me into a narrow alley of Kreneng Night Market. This genuine Balinese guide, thanks to his Mandarin skills, made my night market adventure free of language barriers and full of warmth.
 
@@ -39,19 +39,19 @@ At five in the evening, the heat of Bali’s capital, Denpasar, had yet to fade,
 
 Following Wayan, I squeezed up to an unassuming stall where a golden, crispy suckling pig hung on a hook, glistening with oil. "This family’s spice recipe has been passed down for three generations," he said as he ordered a "special edition" for me—a trio of crispy skin, tender meat, and blood sausage. With the first bite of the crackling skin, the marinade of over a dozen spices—curry leaves, turmeric, chili, and more—exploded in my mouth. Paired with the local spicy sauce, I instantly understood why this dish is the emblem of Balinese cuisine.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_31ffd4da7ba0ffb218659fcdd49a1f74.png)
+![First Stop: Bali’s Soul Food—Babi Guling Suckling Pig](https://images.gobaligo.id/vocus/vocus_31ffd4da7ba0ffb218659fcdd49a1f74.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3083e857526af6af07f3a45bb0469e4e.png)
+![First Stop: Bali’s Soul Food—Babi Guling Suckling Pig](https://images.gobaligo.id/vocus/vocus_3083e857526af6af07f3a45bb0469e4e.png)
 
 ## **Surprises in the Night Market: Soto Ayam and Street Corner Satay**
 
 After a few turns, Wayan led me to a plastic stool where I savored a steaming bowl of Soto Ayam (chicken noodle soup). The broth was clear yet deeply flavorful, brightened by a squeeze of lime. Just as I marveled at the taste, my guide magically handed me a few skewers of freshly grilled satay. 'The owner of this stall starts preparing at 3 a.m., and the meat is marinated in palm sugar.' The charcoal aroma wrapped around the sweet-and-savory meat, perfect when dipped in rich peanut sauce—a true embodiment of Indonesian street food.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cafb990e508f0238d54c4f97d183eebc.png)
+![Surprises in the Night Market: Soto Ayam and Street Corner S](https://images.gobaligo.id/vocus/vocus_cafb990e508f0238d54c4f97d183eebc.png)
 
 ## **Dessert Tour: Tropical Fruits and Colorful Traditional Snacks**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f5c3127af2f536eecf8cd7936437f8fe.png)
+![Dessert Tour: Tropical Fruits and Colorful Traditional Snack](https://images.gobaligo.id/vocus/vocus_f5c3127af2f536eecf8cd7936437f8fe.png)
 
 The second half of the night market was a paradise for sweet tooths! Wayan helped me pick a fruit platter of snake fruit, mangosteen, and rambutan, and also bought Jaja Bali—traditional cakes made from palm sugar and glutinous rice. The most unforgettable was the freshly made Martabak, a thick pancake filled with melted chocolate and cheese, stretching into strings when cut. It was sinfully sweet, yet blissfully satisfying.
 
@@ -65,7 +65,7 @@ Unlike night markets in tourist areas, this one had almost no souvenir stalls. I
 
 When our four-hour culinary adventure ended, Wayan handed me a bottle of cold water and confirmed my pickup details. On the ride back, I scrolled through photos: the smoking grill, Wayan's familiar banter with vendors, and all those spices whose names I'll never remember... It dawned on me that the best travel memories often hide in the most authentic, everyday scenes.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f06b1bbbf3bdf574ade0a94ac639c920.png)
+![Cultural Insight: The Most Authentic Bali Night](https://images.gobaligo.id/vocus/vocus_f06b1bbbf3bdf574ade0a94ac639c920.png)
 
 ## **Practical Information:**
 

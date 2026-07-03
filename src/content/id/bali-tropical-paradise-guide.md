@@ -24,7 +24,7 @@ _srcHash: 74eb52e639bee9fe31d3e33a2e80f9dd
 
 ## *Travel + Leisure* 2025 Best Islands: Hasilnya Sudah Keluar!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0fb49de5bd304997a85ec98c2fd49fbf.jpg)
+![Travel + Leisure 2025 Best Islands: Hasilnya Sudah Keluar!](https://images.gobaligo.id/vocus/vocus_0fb49de5bd304997a85ec98c2fd49fbf.jpg)
 
 Dalam polling *Travel + Leisure* 2025 'World's Best Islands', Bali sukses menduduki peringkat ke-3, sekali lagi membuktikan daya tariknya di kancah pariwisata global. Ini adalah tahun kesebelas berturut-turut Bali masuk daftar ini, dan berhasil menonjol dari puluhan ribu suara pembaca — menunjukkan pesona budaya dan keindahan alamnya masih bikin traveler dari seluruh dunia jatuh hati.
 
@@ -32,7 +32,7 @@ Dalam polling *Travel + Leisure* 2025 'World's Best Islands', Bali sukses mendud
 
 ## Kenapa Bali Bisa Bikin Traveler Dunia Jatuh Cinta?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_10ace788c917c861a18f1195469f8fe9.jpg)
+![Kenapa Bali Bisa Bikin Traveler Dunia Jatuh Cinta?](https://images.gobaligo.id/vocus/vocus_10ace788c917c861a18f1195469f8fe9.jpg)
 
 Bali bukan cuma salah satu destinasi paling populer di Indonesia, tapi juga pulau sakral yang memadukan keindahan alam dengan budaya spiritual. Mulai dari tradisi keagamaan dengan lebih dari 10.000 pura, sampai sawah terasering dan pemandangan gunung berapi yang diakui UNESCO — setiap sudutnya punya cerita dan energi yang unik.
 
@@ -56,7 +56,7 @@ Meskipun luas Bali nggak terlalu besar, tapi pilihan tempatnya super banyak bang
 - **Gunung Agung**: Mendaki gunung suci ini adalah impian para petualang, sekaligus pengalaman spiritual.
 - **Eksplorasi Pulau Lain (seperti Nusa Penida & Nusa Lembongan / Nusa Ceningan)**: Pulau-pulau impian yang bisa dicapai dengan kapal singkat. Airnya biru jernih, ada terumbu karang dan pantai bersih. Tempat kece buat snorkeling, island hopping, dan santai.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_895231e33f59069691018914869b9500.jpg)
+![Wajah Bali yang Multifaset](https://images.gobaligo.id/vocus/vocus_895231e33f59069691018914869b9500.jpg)
 
 **Referensi Cepat:**
 
@@ -78,7 +78,7 @@ Pesona Bali bukan cuma soal alam, tapi juga budaya yang dalam banget:
 
 Semua ini menyatu dalam konsep khas Bali, yaitu "Jalan Harmoni" (Tri Hita Karana), yang menyelaraskan Tuhan, manusia, dan alam.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1abbcbb94700deb2371135ae469477ed.jpg)
+![Keunikan Budaya Bali](https://images.gobaligo.id/vocus/vocus_1abbcbb94700deb2371135ae469477ed.jpg)
 
 ---
 
@@ -99,7 +99,7 @@ Apapun tipe traveler kamu:
 
 Bali punya segalanya buat semua orang — variasi pengalaman wisatanya super kaya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b012e7f5a1ce494fdea82cf9b35272da.png)
+![Bali Cocok Buat Traveler Seperti Apa?](https://images.gobaligo.id/vocus/vocus_b012e7f5a1ce494fdea82cf9b35272da.png)
 
 **Referensi Cepat:**
 
@@ -112,7 +112,7 @@ Bali punya segalanya buat semua orang — variasi pengalaman wisatanya super kay
 
 ### Pertanyaan Umum (FAQ)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_640971bfbf7d64d46d8e26288d18de85.jpg)
+![Pertanyaan Umum (FAQ)](https://images.gobaligo.id/vocus/vocus_640971bfbf7d64d46d8e26288d18de85.jpg)
 
 **Kenapa Bali selalu jadi favorit traveler dari seluruh dunia?**
 
@@ -128,4 +128,4 @@ Cocok banget, dari kebun binatang, berbagai aktivitas outdoor, aktivitas air/baw
 
 Peringkat semua pulau
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_04de3906f722244206c14d27f61baa60.jpg)
+![Pertanyaan Umum (FAQ)](https://images.gobaligo.id/vocus/vocus_04de3906f722244206c14d27f61baa60.jpg)

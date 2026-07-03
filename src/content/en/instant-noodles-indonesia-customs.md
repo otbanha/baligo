@@ -24,7 +24,7 @@ _srcHash: 81034801c6d5b92490bf53fe84ddde3d
 
 Bringing Taiwanese instant noodles to Bali, especially those containing meat, is a concern for many travelers. Instant noodles are not just a delicious part of Taiwanese life, but also a taste of home. So, can we bring these flavors on the plane and enjoy them while abroad? This article will provide a detailed answer to this question.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5a3fcc70daa7978a79985c54b2c8d84a.png)
+![Can instant noodles and powdered milk be brought to Indonesi](https://images.gobaligo.id/vocus/vocus_5a3fcc70daa7978a79985c54b2c8d84a.png)
 
 ## Airline Regulations
 
@@ -43,7 +43,7 @@ Indonesia has strict regulations on food imports, especially meat products. Any 
 
 ## Alternative Options
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fb63c3f1c6e85c650e46f2d829cc605c.png)
+![Alternative Options](https://images.gobaligo.id/vocus/vocus_fb63c3f1c6e85c650e46f2d829cc605c.png)
 
 Book and save here:
 

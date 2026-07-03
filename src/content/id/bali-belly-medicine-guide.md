@@ -19,7 +19,7 @@ lang: id
 _srcHash: b2b3157087be1bc95f5a016766e79610
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4d4eba54aefdb7fa2355dfd2cba7bd0b.png)
+![Bali Belly: Cara Menangani Diare/Gastroenteritis/Mabuk Air d](https://images.gobaligo.id/vocus/vocus_4d4eba54aefdb7fa2355dfd2cba7bd0b.png)
 
 Sesampainya di Bali, yang paling ditakutin bukan kulit hitam, tapi **Bali Belly (diare khas Bali)** yang tiba-tiba menyerang. Entah karena makanan yang nggak cocok, infeksi bakteri, atau perut yang sensitif, begitu gejalanya muncul, liburan bisa berantakan. Artikel ini bakal ngasih kamu daftar lengkap 'obat darurat yang bisa dibeli di apotek Bali', mulai dari rehidrasi, anti-diare, penurun panas, sampai kapan harus ke dokter. Semua dibahas biar kamu siap kalau ada masalah!
 
@@ -31,7 +31,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 1. Oral Rehydration Salt (ORS) – Inti dari Penanganan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a81dcdb7ad41f0217c48c227f3d2376a.jpg)
+![1. Oral Rehydration Salt (ORS) – Inti dari Penanganan](https://images.gobaligo.id/vocus/vocus_a81dcdb7ad41f0217c48c227f3d2376a.jpg)
 
 · Fungsi: Mencegah dan memperbaiki dehidrasi akibat diare — ini lebih penting daripada sekadar menghentikan diare. · Merek lokal yang umum: Oralit, Hydralyte. · Tips penting: Saat diare, ini harus jadi pilihan utama. Pastikan larutkan sesuai petunjuk. Catatan: Minuman olahraga nggak bisa sepenuhnya menggantikan ORS.
 
@@ -41,7 +41,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 2. 止瀉藥 (吸附劑) – 用於輕度腹瀉
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_29f49f8dcdb2f01829087cc9573e464d.jpg)
+![2. 止瀉藥 (吸附劑) – 用於輕度腹瀉](https://images.gobaligo.id/vocus/vocus_29f49f8dcdb2f01829087cc9573e464d.jpg)
 
 · Fungsinya: menyerap bakteri dan racun di usus, meredakan gejala, bukan sebagai pengobatan utama.
 
@@ -51,7 +51,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 3. Obat Anti Diare (Antiperistaltik) – Pemakaian Darurat
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f236c2f98d598a09ea38642c11f57cad.jpg)
+![3. Obat Anti Diare (Antiperistaltik) – Pemakaian Darurat](https://images.gobaligo.id/vocus/vocus_f236c2f98d598a09ea38642c11f57cad.jpg)
 
 · Fungsinya: mengontrol frekuensi diare secara kuat, hanya untuk pemakaian darurat jangka pendek (misalnya perjalanan jauh).
 
@@ -61,7 +61,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 4. Obat Pereda Nyeri/Penurun Panas
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a30fbcb9351a7bd327b8c2e225f94572.jpg)
+![4. Obat Pereda Nyeri/Penurun Panas](https://images.gobaligo.id/vocus/vocus_a30fbcb9351a7bd327b8c2e225f94572.jpg)
 
 · Fungsinya: meredakan sakit perut, demam.
 
@@ -71,7 +71,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 5. Obat Kram Perut
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f1999375de63a55c0537c176c31bd193.jpg)
+![5. Obat Kram Perut](https://images.gobaligo.id/vocus/vocus_f1999375de63a55c0537c176c31bd193.jpg)
 
 · Scopma Plu (hyoscine) → langsung merilekskan otot polos perut, bikin kramnya mereda
 

@@ -21,7 +21,7 @@ _srcHash: de1d4784bccb99b62a12cb99a9bad27c
 
 Terletak di Gianyar Regency, Bali tengah, **Bali Bird Park** telah menjadi salah satu destinasi wisata alam dan edukasi paling populer di pulau ini sejak dibuka pada tahun 1990-an. Taman ini memiliki luas sekitar **2 hektar**, dipenuhi tanaman tropis yang rimbun dan kolam-kolam cantik, dengan zona ekologi yang dirancang untuk mereplikasi habitat alami burung dari berbagai belahan dunia.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9d386245f4b2e5ff72a2aa378b5a1a8a.jpg)
+![Sekilas Tentang Bali Bird Park: Surga Tropis yang Penuh Kica](https://images.gobaligo.id/vocus/vocus_9d386245f4b2e5ff72a2aa378b5a1a8a.jpg)
 
 Saat ini, taman ini memelihara lebih dari **1.300 ekor burung dari 250 spesies berbeda**, termasuk burung langka asli Indonesia, Afrika, Amerika Selatan, dan Australia. Tempat ini ideal untuk observasi, fotografi, dan pengalaman edukatif.
 
@@ -50,7 +50,7 @@ Saran kecil: Karena lokasinya agak pinggiran, pas jam sibuk sore susah cari ojek
 
 ## Info Tiket & Jam Buka
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b16ceeb58d98806e10f752b00defde3e.jpg)
+![Info Tiket & Jam Buka](https://images.gobaligo.id/vocus/vocus_b16ceeb58d98806e10f752b00defde3e.jpg)
 
 **Harga Tiket (Wisatawan Asing):**
 
@@ -76,7 +76,7 @@ Saran kecil: Karena lokasinya agak pinggiran, pas jam sibuk sore susah cari ojek
 
 ## Musim & Waktu Terbaik Berkunjung
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9d101574f0b093a6739c9a627f7e7433.jpg)
+![Musim & Waktu Terbaik Berkunjung](https://images.gobaligo.id/vocus/vocus_9d101574f0b093a6739c9a627f7e7433.jpg)
 
 Bali beriklim tropis, cocok dikunjungi kapan saja. Bahkan di musim hujan (November–Maret), sebagian besar siang hari tetap cerah.
 
@@ -90,7 +90,7 @@ Bali beriklim tropis, cocok dikunjungi kapan saja. Bahkan di musim hujan (Novemb
 
 Bali Bird Park terbagi menjadi delapan zona habitat utama, masing-masing dirancang dengan iklim dan vegetasi berbeda untuk meniru lingkungan asli.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aea4c2b914a235be16f57e09e219a799.jpg)
+![Delapan Zona Ekologi Tematik](https://images.gobaligo.id/vocus/vocus_aea4c2b914a235be16f57e09e219a799.jpg)
 
 1. **Zona Kepulauan Indonesia (Archipelago Zone)**
    Menampilkan burung dari Sumatra, Kalimantan, Jawa, termasuk rangkong, merpati emas, dan elang ular.
@@ -109,7 +109,7 @@ Bali Bird Park terbagi menjadi delapan zona habitat utama, masing-masing diranca
 8. **Zona Komodo (Komodo Experience)**
    Salah satu tempat langka di Bali untuk melihat **Komodo (Varanus komodoensis)** dari dekat.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9514524d6de6faa011fb3ec41b4e596a.png)
+![Delapan Zona Ekologi Tematik](https://images.gobaligo.id/vocus/vocus_9514524d6de6faa011fb3ec41b4e596a.png)
 
 ***
 
@@ -117,19 +117,19 @@ Bali Bird Park terbagi menjadi delapan zona habitat utama, masing-masing diranca
 
 - 🕊️ **Rangkong Jambul Putih (White-Crested Hornbill)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_94078312d545c3cd0dd092a4eedc6eee.jpg)
+![Burung Bintang yang Wajib Dilihat](https://images.gobaligo.id/vocus/vocus_94078312d545c3cd0dd092a4eedc6eee.jpg)
 
 Ciri khasnya jambul putih bersih dan tubuh hitam mengkilap, terlihat anggun dan misterius.
 
 - 🦉 **Burung Hantu Elang (Eagle Owl)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f7fbcada14c7aafed7a094d8650699e5.jpg)
+![Burung Bintang yang Wajib Dilihat](https://images.gobaligo.id/vocus/vocus_f7fbcada14c7aafed7a094d8650699e5.jpg)
 
 Salah satu burung hantu terbesar di dunia, dengan bulu telinga yang menjulur ke samping, sangat megah.
 
 - 🐦 **Jalak Bali (Bali Starling)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_add94c706a8547ea70a305ae78e01f0a.jpg)
+![Burung Bintang yang Wajib Dilihat](https://images.gobaligo.id/vocus/vocus_add94c706a8547ea70a305ae78e01f0a.jpg)
 
 Burung simbol Bali, berbulu putih dengan lingkaran mata biru, jumlahnya sangat langka dan terdaftar sebagai spesies kritis.
 
@@ -143,13 +143,13 @@ Bali Bird Park setiap hari mengadakan berbagai pertunjukan interaktif dan edukas
 
 (Hanya sebagai referensi, pastikan sesuai info resmi website)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1ca3d098baf12739984e4ab370203cd7.jpg)
+![Aktivitas & Pertunjukan di Dalam Taman](https://images.gobaligo.id/vocus/vocus_1ca3d098baf12739984e4ab370203cd7.jpg)
 
 ***
 
 ## Misi Edukasi & Konservasi
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d4c7abe03b460c0714238ead3e94ed93.jpg)
+![Misi Edukasi & Konservasi](https://images.gobaligo.id/vocus/vocus_d4c7abe03b460c0714238ead3e94ed93.jpg)
 
 Bali Bird Park mengemban misi penting **edukasi lingkungan dan konservasi satwa liar**. Taman ini memiliki pusat riset dan penangkaran, bekerja sama dengan berbagai organisasi konservasi internasional untuk mendorong:
 
@@ -220,7 +220,7 @@ Bisa dong. Ada area khusus penangkaran, jadi kamu bisa lihat langsung burung lan
 
 ## Penutup: Petualangan Seru di Antara Alam dan Edukasi
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8d897a1180c7f579fc74c07cec46d69f.jpg)
+![Penutup: Petualangan Seru di Antara Alam dan Edukasi](https://images.gobaligo.id/vocus/vocus_8d897a1180c7f579fc74c07cec46d69f.jpg)
 
 Bali Bird Park bukan sekadar kebun binatang biasa, ini **cerminan harmoni antara manusia dan alam**. Di sini, kamu bisa merasakan kebebasan burung-burung terbang, memahami nilai konservasi, dan menciptakan kenangan tak terlupakan bersama keluarga.
 

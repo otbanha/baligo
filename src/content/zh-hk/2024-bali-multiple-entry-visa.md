@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: 7d7957e20b95631318a66ccdab2f0bdf
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_75a017bcc23776bfdf405a8361b72773.jpg)
+![峇里島D1多次入境簽證：2024年最新峇里島簽證更新](https://images.gobaligo.id/vocus/vocus_75a017bcc23776bfdf405a8361b72773.jpg)
 
 峇里島一直係旅遊者嘅熱門目的地，而簽證問題一直都係好多人關注嘅焦點。喺呢篇文章入面，我哋會探討峇里島2024年開始嘅最新 [Multiple Entry Visa 多次入境簽證] (D1簽證)，並解釋點樣獲得呢種簽證同埋相關條件。
 
@@ -38,7 +38,7 @@ D1簽證一次嘅有效期限係60日，可以延長兩次，所以可以得到 
 3. 最近三個月嘅銀行帳單，餘額不低於2000美金。
 4. 背景為單色墻嘅清晰照片，確保自拍照片清晰可見。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7867ad9edfc76e26bbc9392e89cde713.png)
+![D1簽證相關條件](https://images.gobaligo.id/vocus/vocus_7867ad9edfc76e26bbc9392e89cde713.png)
 
 **預訂、慳錢就睇呢度：**
 

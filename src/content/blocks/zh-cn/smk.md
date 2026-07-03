@@ -8,7 +8,7 @@ _srcHash: 05ee77b9921766bdcf8af8bcb9b2b427
 
 ## 更多水明漾吃喝玩乐介绍
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354591224-index.jpg)
+![更多水明漾吃喝玩乐介绍](https://images.gobaligo.id/images/2026-03/1774354591224-index.jpg)
 
 水明漾是巴厘岛上结合时尚与传统的迷人地区，拥有顶级餐厅、精品店与活力四射的夜生活，是度假者的天堂！想知道更多精彩娱乐美食介绍的信息？请点击[这里](/blog/seminyak-guide/)
 

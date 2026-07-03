@@ -168,7 +168,7 @@ If you encounter:
 
 Medical costs can be even higher.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778985202187-insurance2.png)
+![Medical care in Bali is actually more expensive than many pe](https://images.gobaligo.id/images/2026-05/1778985202187-insurance2.png)
 
 You can also purchase insurance online: [Klook Overseas Travel Insurance](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1292786&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Finsurance%2Fklook-protect%2F) [Trip (for Hong Kong travelers)](https://hk.trip.com/insurance?bid=1&cid=2&pid=1&locale=zh-HK&curr=HKD&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 

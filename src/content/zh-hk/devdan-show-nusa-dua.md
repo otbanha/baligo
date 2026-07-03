@@ -29,7 +29,7 @@ _srcHash: 7e5631ee64e1d8883d662ea54950caa4
 
 **Devdan Show** 係峇里島最出名嘅文化演出，係峇里島目前除咗阿貢秀（Agung Show）之外，規模最大嘅文化舞台演出。呢場長達 **90 分鐘** 嘅精彩秀融合咗印尼傳統舞蹈同現代編排，搭配高空雜技、高科技聲光效果同夢幻舞台場景。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8268bd56daf9cc60d4f546d2f8b1704a.jpg)
+![咩係 Devdan 天壇秀？一場穿越印尼文化嘅旅程](https://images.gobaligo.id/vocus/vocus_8268bd56daf9cc60d4f546d2f8b1704a.jpg)
 
 從 **峇里島出發**，觀眾會跟住表演者一齊穿越 **爪哇、蘇門答臘、加里曼丹（婆羅洲）同巴布亞島**，深入體驗各地嘅文化魅力同藝術特色。
 
@@ -39,7 +39,7 @@ _srcHash: 7e5631ee64e1d8883d662ea54950caa4
 
 “Devdan” 取自梵文 **Deva（神）** 同 **Dhana（寶藏）**，意思係“神嘅恩典”，象徵印尼多元又豐富嘅文化同自然資源。表演透過藝術形式將呢份文化寶藏生動呈現，為觀眾帶嚟深刻嘅文化體驗。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f5bded3bc7a90f237d060940c7bcf65e.jpg)
+![Devdan 嘅意思——神嘅恩典](https://images.gobaligo.id/vocus/vocus_f5bded3bc7a90f237d060940c7bcf65e.jpg)
 
 ***
 
@@ -59,7 +59,7 @@ _srcHash: 7e5631ee64e1d8883d662ea54950caa4
 
 ## **天譚秀嘅舞台特色：視覺同感官嘅極致饗宴**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_381834950c1735172093008b9877240c.jpg)
+![天譚秀嘅舞台特色：視覺同感官嘅極致饗宴](https://images.gobaligo.id/vocus/vocus_381834950c1735172093008b9877240c.jpg)
 
 - 高空雜技、飛人演出令人驚嘆
 - 傳統服飾同舞蹈融合現代編排
@@ -72,15 +72,15 @@ _srcHash: 7e5631ee64e1d8883d662ea54950caa4
 
 成場演出喺設備完善嘅 **Bali Nusa Dua 劇院** 進行，最多可以容納 **700 位觀眾**，冷氣環境舒適，好啱家庭同團體觀賞。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_27f2fce36dd9ae0a7928b63fdbe2f621.jpg)
+![座位選擇同票價解析｜搵到最適合嘅觀賞位置](https://images.gobaligo.id/vocus/vocus_27f2fce36dd9ae0a7928b63fdbe2f621.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_083c0ec0712612470e5fe656fa6d43f7.jpg)
+![座位選擇同票價解析｜搵到最適合嘅觀賞位置](https://images.gobaligo.id/vocus/vocus_083c0ec0712612470e5fe656fa6d43f7.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c9c30706d2a02184e02e878a68e6802f.jpg)
+![座位選擇同票價解析｜搵到最適合嘅觀賞位置](https://images.gobaligo.id/vocus/vocus_c9c30706d2a02184e02e878a68e6802f.jpg)
 
 **劇院座位類別如下**：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fb4c9945a879000f0724b9bb1faa1fff.png)
+![座位選擇同票價解析｜搵到最適合嘅觀賞位置](https://images.gobaligo.id/vocus/vocus_fb4c9945a879000f0724b9bb1faa1fff.png)
 
 > [Klook購票連結](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
 > [kkday購票連結](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
@@ -101,15 +101,15 @@ _srcHash: 7e5631ee64e1d8883d662ea54950caa4
 
 ## **Devdan 秀票價值唔值得？絕對超值嘅文化體驗！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_018d8e97531a776ff4ad6d0d3449b5f3.jpg)
+![Devdan 秀票價值唔值得？絕對超值嘅文化體驗！](https://images.gobaligo.id/vocus/vocus_018d8e97531a776ff4ad6d0d3449b5f3.jpg)
 
 如果你仲諗緊值唔值得花時間同錢去睇【天譚秀（Devdan Show）】，咁答案絕對係——**值回票價！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a45cf5d59c2eb25fa78951a3f7f6ae28.jpg)
+![Devdan 秀票價值唔值得？絕對超值嘅文化體驗！](https://images.gobaligo.id/vocus/vocus_a45cf5d59c2eb25fa78951a3f7f6ae28.jpg)
 
 呢場表演可以話係集齊印尼五大島嶼文化嘅大成，唔單止融合傳統同現代舞蹈、空中雜技、華麗服飾同聲光效果，仲以高度戲劇性同視覺張力征服觀眾嘅目光。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_723fad9dd24bf7b6dbddabafe8f1b521.jpg)
+![Devdan 秀票價值唔值得？絕對超值嘅文化體驗！](https://images.gobaligo.id/vocus/vocus_723fad9dd24bf7b6dbddabafe8f1b521.jpg)
 
 👉 【天譚秀（Devdan Show）】可以話係**睇過咁多國家表演中最有特色嘅一場**，精彩程度完全唔輸畀《澳門–水舞間》或者《泰國–天使秀》！
 
@@ -124,7 +124,7 @@ _srcHash: 7e5631ee64e1d8883d662ea54950caa4
 
 ## **點樣去 Devdan Show 劇院？地點交通指南**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5e8c2295a644d7b8e5139ae58c2f5820.jpg)
+![點樣去 Devdan Show 劇院？地點交通指南](https://images.gobaligo.id/vocus/vocus_5e8c2295a644d7b8e5139ae58c2f5820.jpg)
 
 **地點**：峇里島 Nusa Dua ITDC 旅遊園區入面
 

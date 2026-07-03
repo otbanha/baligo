@@ -35,7 +35,7 @@ _srcHash: 7e5631ee64e1d8883d662ea54950caa4
 
 **Devdan Show** adalah pertunjukan budaya paling terkenal di Bali, dan saat ini jadi pertunjukan panggung budaya terbesar di Bali selain Agung Show. Pertunjukan spektakuler sepanjang **90 menit** ini memadukan tarian tradisional Indonesia dengan koreografi modern, ditambah akrobat udara, efek suara dan lampu canggih, serta panggung yang super megah.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8268bd56daf9cc60d4f546d2f8b1704a.jpg)
+![Apa Itu Devdan Show? Sebuah Perjalanan Menembus Budaya Indon](https://images.gobaligo.id/vocus/vocus_8268bd56daf9cc60d4f546d2f8b1704a.jpg)
 
 Mulai dari **Bali**, penonton akan diajak bersama para penari menyusuri **Jawa, Sumatra, Kalimantan, dan Papua**, merasakan langsung pesona budaya dan seni khas masing-masing daerah.
 
@@ -45,7 +45,7 @@ Mulai dari **Bali**, penonton akan diajak bersama para penari menyusuri **Jawa, 
 
 “Devdan” berasal dari bahasa Sanskerta **Deva (Dewa)** dan **Dhana (Harta)**, yang berarti “Anugerah Dewa”, melambangkan kekayaan budaya dan alam Indonesia yang beragam. Pertunjukan ini menyajikan harta karun budaya tersebut lewat seni, memberikan pengalaman budaya yang mendalam bagi penonton.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f5bded3bc7a90f237d060940c7bcf65e.jpg)
+![Makna Devdan—Anugerah Dewa](https://images.gobaligo.id/vocus/vocus_f5bded3bc7a90f237d060940c7bcf65e.jpg)
 
 ***
 
@@ -65,7 +65,7 @@ Saat peti terbuka, aura budaya dari lima pulau besar langsung menyembur, dan pen
 
 ## **Keunikan Panggung Devdan Show: Pesta Visual dan Sensorik yang Maksimal**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_381834950c1735172093008b9877240c.jpg)
+![Keunikan Panggung Devdan Show: Pesta Visual dan Sensorik yan](https://images.gobaligo.id/vocus/vocus_381834950c1735172093008b9877240c.jpg)
 
 - Akrobat udara dan pertunjukan terbang bikin takjub
 - Kostum tradisional dan tarian dipadukan dengan koreografi modern
@@ -78,15 +78,15 @@ Saat peti terbuka, aura budaya dari lima pulau besar langsung menyembur, dan pen
 
 Seluruh pertunjukan berlangsung di **Bali Nusa Dua Theatre** yang lengkap, bisa menampung hingga **700 penonton**, ber-AC dan nyaman banget, cocok untuk keluarga dan grup.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_27f2fce36dd9ae0a7928b63fdbe2f621.jpg)
+![Pilihan Tempat Duduk dan Harga Tiket｜Cari Posisi Nonton Terb](https://images.gobaligo.id/vocus/vocus_27f2fce36dd9ae0a7928b63fdbe2f621.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_083c0ec0712612470e5fe656fa6d43f7.jpg)
+![Pilihan Tempat Duduk dan Harga Tiket｜Cari Posisi Nonton Terb](https://images.gobaligo.id/vocus/vocus_083c0ec0712612470e5fe656fa6d43f7.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c9c30706d2a02184e02e878a68e6802f.jpg)
+![Pilihan Tempat Duduk dan Harga Tiket｜Cari Posisi Nonton Terb](https://images.gobaligo.id/vocus/vocus_c9c30706d2a02184e02e878a68e6802f.jpg)
 
 **Kategori tempat duduk teater:**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fb4c9945a879000f0724b9bb1faa1fff.png)
+![Pilihan Tempat Duduk dan Harga Tiket｜Cari Posisi Nonton Terb](https://images.gobaligo.id/vocus/vocus_fb4c9945a879000f0724b9bb1faa1fff.png)
 
 > [Link pembelian tiket Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
 > [Link pembelian tiket kkday](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
@@ -107,15 +107,15 @@ Seluruh pertunjukan berlangsung di **Bali Nusa Dua Theatre** yang lengkap, bisa 
 
 ## **Apakah Harga Tiket Devdan Show Worth It? Pasti Banget Nilai Budayanya!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_018d8e97531a776ff4ad6d0d3449b5f3.jpg)
+![Apakah Harga Tiket Devdan Show Worth It? Pasti Banget Nilai ](https://images.gobaligo.id/vocus/vocus_018d8e97531a776ff4ad6d0d3449b5f3.jpg)
 
 Kalau kamu masih ragu apakah worth it ngeluarin waktu dan uang buat nonton 【Devdan Show】, jawabannya jelas — **worth it banget!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a45cf5d59c2eb25fa78951a3f7f6ae28.jpg)
+![Apakah Harga Tiket Devdan Show Worth It? Pasti Banget Nilai ](https://images.gobaligo.id/vocus/vocus_a45cf5d59c2eb25fa78951a3f7f6ae28.jpg)
 
 Pertunjukan ini bisa dibilang perpaduan budaya dari lima pulau besar Indonesia, nggak cuma gabungin tari tradisional dan modern, akrobat udara, kostum mewah, sama efek suara dan lampu, tapi juga bikin penonton terpukau sama dramatisasi dan kekuatan visualnya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_723fad9dd24bf7b6dbddabafe8f1b521.jpg)
+![Apakah Harga Tiket Devdan Show Worth It? Pasti Banget Nilai ](https://images.gobaligo.id/vocus/vocus_723fad9dd24bf7b6dbddabafe8f1b521.jpg)
 
 👉 【Devdan Show】 bisa dibilang **pertunjukan paling unik yang pernah gue tonton dari berbagai negara**, serunya nggak kalah sama 'House of Dancing Water' di Makau atau 'Angel Show' di Thailand!
 
@@ -130,7 +130,7 @@ Dalam waktu 90 menit aja, kamu bakal menjelajahi lima pulau besar Indonesia, men
 
 ## **Cara Menuju Teater Devdan Show? Panduan Lokasi dan Transportasi**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5e8c2295a644d7b8e5139ae58c2f5820.jpg)
+![Cara Menuju Teater Devdan Show? Panduan Lokasi dan Transport](https://images.gobaligo.id/vocus/vocus_5e8c2295a644d7b8e5139ae58c2f5820.jpg)
 
 **Lokasi**: Di dalam kawasan wisata ITDC Nusa Dua, Bali
 

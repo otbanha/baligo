@@ -19,7 +19,7 @@ _srcHash: f9ce2d07ffb00c7e6459e72f160ae40d
 
 巴厘岛，这个印尼最著名的旅游胜地，可能很快就会迎来一个全新的旅游景点——赌场。这一消息无疑震惊了许多人，因为在印尼，赌博几乎在所有形式上都是非法的。然而，这一计划的提出者认为，赌场有可能为巴厘岛的旅游业注入新的活力。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5b78330cd9efd740214a865ffa087058.jpg)
+![巴厘岛将迎来大型赌场以促进旅游业!?](https://images.gobaligo.id/vocus/vocus_5b78330cd9efd740214a865ffa087058.jpg)
 
 ## 赌场计划的背景
 
@@ -61,7 +61,7 @@ _srcHash: f9ce2d07ffb00c7e6459e72f160ae40d
 
 要实现赌场计划，需要印尼政府和立法机构的大力支持和合作。这涉及到对现行法律的修订，以及对公众意见的管理和引导。尽管这一过程充满挑战，但如果能够成功，将为巴厘岛的旅游业带来巨大变革。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5f10bd6525e738e9939687ccc4589d35.jpg)
+![法律变更的可能性](https://images.gobaligo.id/vocus/vocus_5f10bd6525e738e9939687ccc4589d35.jpg)
 
 ## 赌场对巴厘岛旅游业的影响
 

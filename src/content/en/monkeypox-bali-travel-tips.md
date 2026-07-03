@@ -24,7 +24,7 @@ _srcHash: 101256e8032b43c87138de282b933878
 
 Mpox (formerly known as monkeypox) has become a global public health concern due to its recent outbreak. As Indonesia continues to welcome international travelers, authorities have implemented strict screening measures at Bali's Ngurah Rai International Airport to prevent the spread of the virus. This article explores these new measures, their impact on travelers, and the future prospects of Mpox prevention in Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dbd2920da15c527cab751ee5ad941ec2.jpg)
+![Mpox Alert: Travel Advisory for Indonesia/Bali](https://images.gobaligo.id/vocus/vocus_dbd2920da15c527cab751ee5ad941ec2.jpg)
 
 ### Background and Impact of Mpox
 
@@ -46,7 +46,7 @@ If a traveler exhibits suspected Mpox symptoms upon arrival at Bali Airport, the
 
 As of 2024, Indonesia has confirmed 14 cases of Mpox, a significant decrease compared to the 73 cases reported between January and August 2023. This decline is attributed to the effective implementation of screening measures and public health campaigns. Bali's enhanced protocols are part of the nation's efforts to maintain these low numbers.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6dcd733cfcdb76297d0521f99f30fca2.jpg)
+![Current Mpox Statistics in Indonesia](https://images.gobaligo.id/vocus/vocus_6dcd733cfcdb76297d0521f99f30fca2.jpg)
 
 ### Challenges in Implementing Screening Measures
 

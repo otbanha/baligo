@@ -38,7 +38,7 @@ _srcHash: 861edd1f78bb96600434d414a80a2d3d
 
 如果你是榴莲控，来巴厘岛真的要挑对时间，不然可能只闻得到味道却吃不到「爆量版本」😂
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775544264541-balipostcom_unik-ada-tradisi-persembahan-durian-di-sidatapa_01.jpg)
+![巴厘岛榴莲产季全攻略｜什么时候最香、最便宜？](https://images.gobaligo.id/images/2026-04/1775544264541-balipostcom_unik-ada-tradisi-persembahan-durian-di-sidatapa_01.jpg)
 
 ## 📅 巴厘岛榴莲产季时间
 
@@ -76,7 +76,7 @@ _srcHash: 861edd1f78bb96600434d414a80a2d3d
 - 偶尔会有「第二波小产季」
 - 但品质和数量不稳定
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775544297904-banyuwnagi-durian.jpg)
+![随缘型旅人](https://images.gobaligo.id/images/2026-04/1775544297904-banyuwnagi-durian.jpg)
 
 ***
 

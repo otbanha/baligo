@@ -58,7 +58,7 @@ Jadi pada hari ini kamu tidak boleh keluar! Untungnya, hotel dan resor tempat ka
 
 Pada malam hari ini, jika cuaca cerah tanpa awan, jangan lupa keluar (di dalam area resor, jangan sampai ke luar ya!) untuk menikmati langit berbintang Bali yang bebas polusi cahaya! Rasanya sangat mengagumkan!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b880067968c2c57882b9affade998d12.png)
+![Apa yang boleh dilakukan saat Nyepi? Apa yang enggak boleh?](https://images.gobaligo.id/vocus/vocus_b880067968c2c57882b9affade998d12.png)
 
 ## Parade Ogoh-Ogoh Menjelang Hari Raya Nyepi
 

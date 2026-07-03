@@ -23,15 +23,15 @@ In Bali, water is not only the source of life but also a sacred element. For the
 
 If you wish to delve deeper into Bali's cultural and spiritual heritage, take the time to explore two renowned water palaces and temples - **Tirta Gangga** and **Pura Tirta Empul**. Let's uncover the unique charm of these two sacred sites.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_daa2c7b876bb63a589fcdb9e5d85154d.jpg)
+![Exploring Bali's Sacred Springs: From Tirta Gangga to Tirta ](https://images.gobaligo.id/vocus/vocus_daa2c7b876bb63a589fcdb9e5d85154d.jpg)
 
 ## Tirta Gangga: The Serene Water Palace
 
 Tirta Gangga (translated as **Tirta Gangga Water Palace** or **Ganges Sacred Spring Garden**) is nestled in the lush hills of eastern Bali, a captivating water palace. Built in 1946 by the last king of Karangasem, this 1.2-hectare site blends Balinese and Chinese architectural styles.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_366be6165bbc016df666dfe1b6176fbe.jpg)
+![Tirta Gangga: The Serene Water Palace](https://images.gobaligo.id/vocus/vocus_366be6165bbc016df666dfe1b6176fbe.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8634a1b05ac12f9b0f0f63ba42b0e2f7.jpg)
+![Tirta Gangga: The Serene Water Palace](https://images.gobaligo.id/vocus/vocus_8634a1b05ac12f9b0f0f63ba42b0e2f7.jpg)
 
 The palace is divided into three levels, each offering a unique experience:
 

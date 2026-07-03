@@ -19,7 +19,7 @@ _srcHash: c366b6bfc4dd9c40c1bd6f44ae104d93
 ---
 以下是目前在沙努尔当地最受欢迎的六间海边咖啡馆推荐。若你打算前往巴厘岛，千万别错过这些特色店家！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_adc353863b69538f971502b9bbfe4032.jpg)
+![沙努尔海滩上的6大热门海景咖啡馆推荐](https://images.gobaligo.id/vocus/vocus_adc353863b69538f971502b9bbfe4032.jpg)
 
 ## **Bayside Seaview：享受日出的完美选择（🗺️**[**地图**](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)**）**
 
@@ -115,6 +115,6 @@ Genius Cafe主打有机、可持续与健康导向的餐点，从超级食物碗
 
 ## 更多沙努尔吃喝玩乐介绍
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
+![更多沙努尔吃喝玩乐介绍](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
 沙努尔（Sanur）是巴厘岛上一个充满宁静气息的海滨小镇，以平静的沙滩、悠闲的氛围和壮丽的日出景色著称。这里拥有适合家庭的度假村、传统市场以及丰富的当地美食，是享受慢生活与探索文化的理想之地。无论是漫步海岸线还是感受当地风情，沙努尔都能带给您无比放松的假期体验！想了解更多沙努尔攻略？[请点击这里](/blog/sanur-guide/)

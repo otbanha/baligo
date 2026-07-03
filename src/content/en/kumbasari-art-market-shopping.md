@@ -24,7 +24,7 @@ lang: en
 _srcHash: 03bf2852b16acb76b236a14cdfced10e
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8ffdd23b3ea35924d1c2b50895d7406d.jpg)
+![Where to Find the Best Shopping Deals in Bali? Bali Shopping](https://images.gobaligo.id/vocus/vocus_8ffdd23b3ea35924d1c2b50895d7406d.jpg)
 
 ### Introduction to Bali's Largest Art Wholesale Market: Kumbasari Art Market
 

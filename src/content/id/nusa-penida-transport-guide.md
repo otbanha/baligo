@@ -27,7 +27,7 @@ Ini adalah episode keempat kita bahas Nusa Penida (dalam bahasa Indonesia: Pulau
 
 Bergerak di Nusa Penida bisa agak tricky, jadi penting banget buat persiapan matang biar perjalananmu tetap seru dan nyaman. Panduan lengkap ini merangkum semua pilihan transportasi yang ada, biar kamu bisa milih mana yang paling pas.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e93271a5a135e6f7a082fa950125b0f4.png)
+![Transportasi di Nusa Penida: Taksi, Gojek/Grab, Sewa Mobil, ](https://images.gobaligo.id/vocus/vocus_e93271a5a135e6f7a082fa950125b0f4.png)
 
 Kita punya total lima episode tentang Nusa Penida, biar kamu makin kenal surga pulau ini! Empat episode lainnya bisa kamu akses lewat link ini:
 
@@ -56,7 +56,7 @@ Di Pulau Penida ada banyak penyedia sewa motor, tapi karena jalannya berbahaya, 
 
 Di Pulau Penida hampir nggak mungkin sewa mobil dan nyetir sendiri buat keliling! Jalannya sempit dan susah dilalui, teman-teman yang udah pernah pasti setuju banget! Bahkan buat supir berpengalaman pun tantangan berat! Cara yang lebih umum adalah sewa mobil plus sopir (private car), jadi mobilitas jadi lebih gampang. Karena harga sewa sopir buat keliling pulau ini murah banget, sebenarnya nggak ada alasan buat sewa mobil sendiri.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1dafe21084ec2f3f2ba1baeb2f8fed2e.png)
+![Bisa sewa mobil sendiri?](https://images.gobaligo.id/vocus/vocus_1dafe21084ec2f3f2ba1baeb2f8fed2e.png)
 
 **Klook punya banyak paket promo:**
 

@@ -16,7 +16,7 @@ _srcHash: 215ca870e14fe17134b1f2b8c9d4f853
 
 Masih penasaran sama liburan Imlek Februari kemarin? Tenang, strategi cuti semester awal 2026 udah kami hitungin! Bukan cuma cuti yang pas, tapi juga harus nyambung sama ritme festival lokal di **Bali**. Dari tiga rencana liburan dadakan ini, mana yang paling bikin kamu tertarik?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_189c099579ec5d31c727bf21e29776a1.png)
+![2026 Libur Nasional: Strategi Cuti 3 Libur Panjang di Semest](https://images.gobaligo.id/vocus/vocus_189c099579ec5d31c727bf21e29776a1.png)
 
 ### 🗓️ Strategi Cuti Semester Awal 2026
 
@@ -29,7 +29,7 @@ Masih penasaran sama liburan Imlek Februari kemarin? Tenang, strategi cuti semes
 
 **Kenapa milih waktu ini?** Ini momen yang super cerdas! Liburan Idul Fitri, yang paling sibuk dan penuh arus mudik di Indonesia, baru aja selesai (libur Idul Fitri 2026 berakhir sekitar akhir Maret). Pas orang Indonesia balik kerja, turis internasional juga nggak seramai musim ramai, **Bali** bakal ngalamin masa tenang yang singkat tapi berharga banget.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_298e8da8b8949ce68b9c9a6ea180e1af.png)
+![【Pilihan Super Worth It】Libur Qingming April —— Pembersihan ](https://images.gobaligo.id/vocus/vocus_298e8da8b8949ce68b9c9a6ea180e1af.png)
 
 - **Kondisi Cuaca:** 'Titik Balik Emas' antara musim kemarau dan hujan
   **1. Pamit dari Musim Hujan, Sambut Sinar Matahari** Musim hujan di **Bali** biasanya berakhir akhir Maret. Masuk April, kemungkinan hujan turun drastis. Kalaupun ada hujan, biasanya cuma 'hujan sore' yang turun cepet, berhenti cepet, biasanya setengah jam kemudian udah cerah lagi, nggak ganggu rencana sama sekali.
@@ -71,7 +71,7 @@ Panduan Uluwatu: [50 tempat wisata](https://s.id/uluwatu_guide)
 
 - Saat Galungan, di jalan utama Ubud dipasang dekorasi Penjor yang menjulang tinggi, sangat megah dan langka! Ini juga waktu yang pas buat eksplor [100 tempat di Ubud](https://s.id/ubud100)!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4b32bc60b0a1fe9787825097f68cb2e8.jpg)
+![Rekomendasi Itinerary](https://images.gobaligo.id/vocus/vocus_4b32bc60b0a1fe9787825097f68cb2e8.jpg)
 
 - Juni adalah waktu yang super cocok buat main air! Nah, panduan kita ini pas banget: [Panduan Lengkap Aktivitas Air di Bali | Bali Nggak Cuma Snorkeling! 15 Cara Seru Main Air yang Nggak Terduga](/blog/2026-bali-water-activities/)
 

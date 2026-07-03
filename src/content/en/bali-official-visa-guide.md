@@ -71,7 +71,7 @@ If you plan to engage in the following activities, consult official channels to 
 * Investment Visa
 * Artists and Performers Visa
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778570595314-image_1778570565623.jpg)
+![3. How to Choose the Right Visa?](https://images.gobaligo.id/images/2026-05/1778570595314-image_1778570565623.jpg)
 
 {{block:戶外}}
 

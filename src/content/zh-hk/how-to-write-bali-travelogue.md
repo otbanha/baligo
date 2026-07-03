@@ -19,7 +19,7 @@ _srcHash: 3ceaf3d3130598bb291a0f42f004669b
 
 您有冇試過喺 [[峇里島/印尼吃喝玩樂](https://www.facebook.com/groups/indonesia.travelguide/)] 或者 [[Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo/)] Facebook 群組度問大家意見，或者參考咗本網誌收集嘅 40 幾篇團友遊記？呢啲資訊相信對大家嘅行程規劃提供咗唔少幫助。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e6aacccee7d013aa323bc47900aea7e1.png)
+![點樣寫一篇精彩嘅峇里島遊記](https://images.gobaligo.id/vocus/vocus_e6aacccee7d013aa323bc47900aea7e1.png)
 
 而家您都想貢獻您嘅精彩遊記嗎？您嘅無私貢獻將會幫到更多即將去峇里島嘅遊客！
 
@@ -37,7 +37,7 @@ _srcHash: 3ceaf3d3130598bb291a0f42f004669b
 
 ## **2. 行前準備**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_60272d510a19f0660d0f87d9ac0c7ef5.png)
+![2. 行前準備](https://images.gobaligo.id/vocus/vocus_60272d510a19f0660d0f87d9ac0c7ef5.png)
 
 喺出發去峇里島之前，你準備咗啲咩？你可以分享下你嘅行前攻略，包括機票同酒店嘅預訂、行程嘅規劃、簽證嘅辦理、行李嘅打包等等。呢啲資訊可以幫到其他即將去峇里島嘅遊客做好準備。
 
@@ -49,7 +49,7 @@ _srcHash: 3ceaf3d3130598bb291a0f42f004669b
 
 ## **3. 每日行程**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f69316f2cf96c7f3a04f4f9266deefa1.png)
+![3. 每日行程](https://images.gobaligo.id/vocus/vocus_f69316f2cf96c7f3a04f4f9266deefa1.png)
 
 呢個係遊記嘅重頭戲，你可以按照每日嘅行程嚟撰寫。對於每一日，你可以詳細介紹下：
 
@@ -66,7 +66,7 @@ _srcHash: 3ceaf3d3130598bb291a0f42f004669b
 
 ## **4. 司機推薦**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_561337d8175ccbadeeef76b67d4d97f2.png)
+![4. 司機推薦](https://images.gobaligo.id/vocus/vocus_561337d8175ccbadeeef76b67d4d97f2.png)
 
 如果你喺峇里島期間聘請咗包車司機，你可以分享下你嘅司機嘅推薦。介紹下司機嘅服務態度、駕駛技術同收費情況等等。
 
@@ -78,7 +78,7 @@ _srcHash: 3ceaf3d3130598bb291a0f42f004669b
 
 ## **5. 旅遊心得**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a577f9bc0d5c02c673874a6c29404c4.png)
+![5. 旅遊心得](https://images.gobaligo.id/vocus/vocus_9a577f9bc0d5c02c673874a6c29404c4.png)
 
 喺遊記嘅結尾，你可以分享一下你嘅峇里島之旅嘅總體感受。你收穫咗啲咩？有咩值得分享嘅經驗同教訓？你嘅心得會幫到其他遊客更好地規劃佢哋嘅峇里島之旅。
 
@@ -90,7 +90,7 @@ _srcHash: 3ceaf3d3130598bb291a0f42f004669b
 
 ## **以下係一啲額外嘅建議：**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c391482abfdb4919d7749336f8e8589a.png)
+![以下係一啲額外嘅建議：](https://images.gobaligo.id/vocus/vocus_c391482abfdb4919d7749336f8e8589a.png)
 
 - 使用圖像同視頻來豐富你嘅遊記。
 - 保持文章嘅簡潔性同可讀性。

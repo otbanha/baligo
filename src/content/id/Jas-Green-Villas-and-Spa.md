@@ -64,7 +64,7 @@ Suasana di sini khas Seminyak — nuansa internasional kental, restoran padat, p
 
 Desainnya bergaya tradisional Bali, bukan model baru yang kece-kecean di Instagram. Tapi dekorasi bertema Bali-nya cukup oke, ada taman hijau di tengah, suara air mancur kecil bikin suasananya adem.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778927935596-1ik4512000mjs4rc07e09_w_1280_853_r5.webp)
+![Fasilitas](https://images.gobaligo.id/images/2026-05/1778927935596-1ik4512000mjs4rc07e09_w_1280_853_r5.webp)
 
 Fasilitas utama meliputi:
 
@@ -81,41 +81,41 @@ Total ada 30 villa, dibagi jadi dua tipe utama:
 
 **One Bedroom Villa with Private Pool** — cocok buat pasangan atau solo traveler. Kamar tidur nyambung langsung ke kolam renang, pintu ganda dibuka langsung masuk pool area, privasi oke. Ruangannya ada living room terpisah, dapur kecil (kulkas, microwave, kompor induksi, alat makan lengkap), meja makan, sofa. Kamar mandi ada bathtub plus shower dengan rainfall shower head. TV LED 40 inci, AC, dan brankas pribadi juga tersedia.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928341309-1.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-05/1778928341309-1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928341829-547549_14061913470019925452.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-05/1778928341829-547549_14061913470019925452.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928342367-547549_16112308260049001415.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-05/1778928342367-547549_16112308260049001415.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928342871-32029014.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-05/1778928342871-32029014.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928343662-40999985.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-05/1778928343662-40999985.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928344198-82890355.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-05/1778928344198-82890355.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928344792-82890538.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-05/1778928344792-82890538.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928345305-82890568.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-05/1778928345305-82890568.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928345800-f4c1d7cb65d55ec0aa8297b554fde453.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-05/1778928345800-f4c1d7cb65d55ec0aa8297b554fde453.webp)
 
 **Two Bedroom Villa with Private Pool** — cocok buat keluarga atau grup kecil, ruang lebih luas, privasi kolam renang juga lebih maksimal.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928382085-1.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-05/1778928382085-1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928382614-547549_15020510390025115413.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-05/1778928382614-547549_15020510390025115413.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928383296-547549_16112308370049001539.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-05/1778928383296-547549_16112308370049001539.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928383915-547549_16112308370049001546.webp)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-05/1778928383915-547549_16112308370049001546.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928384533-547549_16112308370049001551.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-05/1778928384533-547549_16112308370049001551.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928385032-15761931.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-05/1778928385032-15761931.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928385649-36505093.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-05/1778928385649-36505093.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928386129-40995968.jpg)
+![Tipe Kamar](https://images.gobaligo.id/images/2026-05/1778928386129-40995968.jpg)
 
 Jujur aja, dekorasi dan kondisi perawatan villa ini nggak terlalu baru. Beberapa review nyebut ada bekas lembab di dinding, beberapa peralatan udah agak tua. Ini yang perlu kamu siapin sebelum milih tempat ini — bukan villa desain kekinian, tapi lebih ke 'layak pakai, bersih, lokasi oke'.
 
@@ -131,7 +131,7 @@ Paling cocok buat **pasangan atau suami-istri yang budget terbatas tapi tetap pe
 
 Seorang turis asal Australia bilang, salah satu hal paling menyenangkan selama perjalanan adalah bisa keluar dari villa langsung nemuin banyak restoran keren. Ditambah privasi kolam renang pribadi bikin dia dan suaminya benar-benar rileks. Menurutnya, harga segitu di Seminyang dapet fasilitas kayak gini itu cukup langka. (Sumber: Tripadvisor)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928631363-onebedroomvilla.jpg)
+![Review Asli dari Tamu](https://images.gobaligo.id/images/2026-05/1778928631363-onebedroomvilla.jpg)
 
 Tamunya yang nginep 10 hari cerita, sempat beberapa kali kepikiran pindah tempat, tapi akhirnya tetap bertahan — stafnya selalu siap bantu apa aja, urusan besar kecil dikerjain dengan baik, kolam renangnya terawat, dan yang paling penting, jarak ke restoran tuh super dekat, tinggal melangkah langsung banyak pilihan. (Sumber: Tripadvisor)
 

@@ -27,7 +27,7 @@ _srcHash: 3d4af2102d04536ee543c985c9b8c345
 
 **What is the significance of Candi Bentar in Bali? Why is its Chinese translation as 'Gate of Good and Evil' incorrect?**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c95607d6aa39c056b9b5f30917cf982a.jpg)
+![The True Meaning of Candi Bentar: Why 'Gate of Good and Evil](https://images.gobaligo.id/vocus/vocus_c95607d6aa39c056b9b5f30917cf982a.jpg)
 
 ## The Origin and History of Candi Bentar
 

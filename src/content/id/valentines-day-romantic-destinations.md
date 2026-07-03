@@ -24,7 +24,7 @@ _srcHash: 6d00bc3132489c8e76d625fd72338930
 ---
 Mawar, kue, cokelat, dan tempat liburan romantis — di Hari Valentine tanggal 14 Februari, tahu nggak kota mana aja yang jadi destinasi wisata Valentine paling populer di dunia tahun ini?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa2d254bf0cc097ffe98b22e6d6fde35.jpg)
+![Panduan Romantis Hari Valentine: 10 Destinasi Wisata Romanti](https://images.gobaligo.id/vocus/vocus_aa2d254bf0cc097ffe98b22e6d6fde35.jpg)
 
 Daftar destinasi paling romantis ini disusun oleh platform perjalanan Agoda. Mereka mengumumkan sepuluh destinasi kota internasional paling populer berdasarkan preferensi perjalanan pasangan saat Hari Valentine.
 
@@ -32,7 +32,7 @@ Peringkat pertama ditempati Bangkok, Thailand yang terkenal. Kota ini mendunia d
 
 Selain itu, Bali di Indonesia juga masuk dalam daftar. Ada juga Phuket — dua kota dengan beragam destinasi pantai.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6215ad9ad25ef58453bfc1181abcabf6.png)
+![Panduan Romantis Hari Valentine: 10 Destinasi Wisata Romanti](https://images.gobaligo.id/vocus/vocus_6215ad9ad25ef58453bfc1181abcabf6.png)
 
 Hari Valentine adalah kesempatan sempurna buat pasangan untuk menciptakan kenangan baru. Kamu mau liburan romantis yang tak terlupakan bareng pasangan? Cek ini:
 - [Panduan Romantis Bulan Madu di Bali: 36 Cara Seru buat Pasangan/Bulan Madu di Bali](/blog/bali-honeymoon-romantic-activities-2/)

@@ -24,7 +24,7 @@ _srcHash: 97083fce0d5810fae52a804187d6d01c
 
 Mulai 2024, urus eVisa (eVoA) dulu itu bener-bener worth it. Nggak cuma skip antrean pas bikin VoA (visa on arrival), tapi juga nggak perlu antre cap paspor di imigrasi. Waktu yang dihemat bisa kamu pakai buat explore Bali lebih lama!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_afba78c72d520b7b245a856eed8aeefb.png)
+![Apa Itu Autogate?](https://images.gobaligo.id/vocus/vocus_afba78c72d520b7b245a856eed8aeefb.png)
 
 Januari 2024, Bali mulai pakai sistem autogate ini. Rencananya dalam beberapa bulan ke depan bakal nambah 50 unit lagi, jadi total di terminal internasional Bali ada 80 unit buat percepat proses (60 unit buat kedatangan/masuk, 20 unit buat keberangkatan/keluar).
 
@@ -44,11 +44,11 @@ Bukan cuma skip dua kali antrean, kamu juga nggak perlu hadap-hadapan sama petug
 
 (Dari anggota trip Ellen Yang):
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9285cfcabb6afba44d51d4b48b661019.png)
+![Pengalaman Nyata Anggota Trip Lewat Imigrasi](https://images.gobaligo.id/vocus/vocus_9285cfcabb6afba44d51d4b48b661019.png)
 
 (Dari Sam & Sandra):
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e6c6791c8a5a8d37e4d681d0181cb60a.png)
+![Pengalaman Nyata Anggota Trip Lewat Imigrasi](https://images.gobaligo.id/vocus/vocus_e6c6791c8a5a8d37e4d681d0181cb60a.png)
 
 Kami tiba di Bandara Bali pada 06/02/2024, pakai internet buat apply eVisa dari jauh-jauh hari, dan nyobain sistem autogate yang baru. Prosesnya cepet banget dan lancar, nggak sampai tiga menit udah kelar — bener-bener praktis! Gue saranin banget urus visa online duluan, bisa hemat waktu dan repot.
 
@@ -56,7 +56,7 @@ Petugas bandaranya ramah-ramah banget. Begitu turun pesawat, udah ada yang nanya
 
 Catatan redaksi: Sekarang **anak usia 6 tahun ke atas juga bisa pakai autogate bandara**. Sebelumnya, jalur ini cuma buat usia 14 tahun ke atas.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a832b6cb5d76f4ac85c91c899e756129.jpg)
+![Pengalaman Nyata Anggota Trip Lewat Imigrasi](https://images.gobaligo.id/vocus/vocus_a832b6cb5d76f4ac85c91c899e756129.jpg)
 
 Ellen juga ngingetin traveler, formulir deklarasi bea cukai tulisan tangan udah dihapus beberapa waktu lalu. Masih banyak orang yang baru tahu pas di pos terakhir setelah ambil bagasi, harus isi e-CD online — jadinya ketahan lama di pos terakhir buat isi formulir elektronik. 【[Panduan e-CD Wajib Isi untuk Masuk Indonesia](/blog/indonesia-e-cd-guide/)】 Langkah ini jangan sampai kelewat ya!
 

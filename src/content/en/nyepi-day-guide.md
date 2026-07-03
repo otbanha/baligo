@@ -24,7 +24,7 @@ _srcHash: b14c051a065b2f64d8d6c44f19401fbc
 
 ### Bali Government Confirms Rules Tourists Must Follow for the Upcoming Day of Silence
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_26e4bd90b1acdf6d7ea153ac83b7542d.jpg)
+![Bali Government Confirms Rules Tourists Must Follow for the ](https://images.gobaligo.id/vocus/vocus_26e4bd90b1acdf6d7ea153ac83b7542d.jpg)
 
 Bali's Hindu authorities have released the latest guidelines on how to celebrate the upcoming Nyepi Day (Bali's Day of Silence). This important holiday will take place on March 29, 2025, and all non-Hindus, foreigners, and tourists on the island must adhere to the day's regulations.
 
@@ -56,7 +56,7 @@ Bali visitors are advised to note that the island will be extremely busy from Ma
 
 In summary, Nyepi Day in Bali is a unique and sacred festival, and tourists should respect local traditions and regulations when participating. Early planning and understanding the rules will help ensure a smooth and enjoyable trip.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fe2ab68b5c5fa3bae8679caf88ac3b2b.jpg)
+![Importance of Early Preparation](https://images.gobaligo.id/vocus/vocus_fe2ab68b5c5fa3bae8679caf88ac3b2b.jpg)
 
 ## Bali Nyepi Day Frequently Asked Questions (FAQ)
 

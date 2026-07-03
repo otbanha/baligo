@@ -20,19 +20,19 @@ lang: zh-hk
 _srcHash: f0f14396bd0da989a1fffb1bfde8a93a
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0a004c49dc307d97ded63cf44e4a774b.jpg)
+![【全球景點評比】印尼科摩多獲選全球最美旅遊勝地](https://images.gobaligo.id/vocus/vocus_0a004c49dc307d97ded63cf44e4a774b.jpg)
 
 知名旅遊資源平台《[Time Out Travel](https://www.timeout.com/asia/news/the-11-most-beautiful-places-in-asia-according-to-time-out-040125)》定期發佈全球景點評比，近日公佈「亞洲最美地標」精選名單。呢份從全球最美地標中嚴選嘅排行榜共有44個席位，亞洲地區佔咗11席，而科摩多國家公園喺兩份榜單（全球/亞洲）中都穩居榜首。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8f912459f69f089f45717f5762ab0364.png)
+![【全球景點評比】印尼科摩多獲選全球最美旅遊勝地](https://images.gobaligo.id/vocus/vocus_8f912459f69f089f45717f5762ab0364.png)
 
 科摩多以巨型蜥蜴棲息地聞名，但評審團隊強調，呢度唔單止因為獨特爬行動物值得造訪。從險峻懸崖到異域沙灘，令人屏息嘅自然景觀隨處可見——尤其粉紅沙灘更令旅人驚豔，當白沙同紅珊瑚碎屑交融時，會呈現夢幻嘅漸層色調。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5a64eb10e3c1da7349d5a23729583014.jpg)
+![【全球景點評比】印尼科摩多獲選全球最美旅遊勝地](https://images.gobaligo.id/vocus/vocus_5a64eb10e3c1da7349d5a23729583014.jpg)
 
 國家公園為水上活動愛好者提供豐富選擇，其珊瑚礁與海洋生態嘅多樣性更被列為必訪理由。喺呢度浮潛或深潛時，就好似置身巨型水族館。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_66bce95b0348817b1e72c3c0177af421.jpg)
+![【全球景點評比】印尼科摩多獲選全球最美旅遊勝地](https://images.gobaligo.id/vocus/vocus_66bce95b0348817b1e72c3c0177af421.jpg)
 
 《Time Out Travel》編輯部特別指出，造訪科摩多唔單止係視覺享受，更係探索生態寶庫嘅難得體驗。聯合國教科文組織已將其列入世界遺產，肯定其自然景觀與獨特生態系。最佳旅遊季節為4月至10月，呢個時候天氣晴朗、海面平靜，最適合潛水活動。
 
@@ -44,23 +44,23 @@ _srcHash: f0f14396bd0da989a1fffb1bfde8a93a
 
 ▍不丹普那卡谷地位於不丹西部嘅普那卡谷地，以翠綠梯田景觀令人震撼。推薦順遊坎貝寺（Khamsum Yulley Namgyal Chorten），呢座四層佛教佛塔藏有精緻藝術作品。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a48d3efe90362f72bb1aa44f7e269534.jpg)
+![同場加映：亞洲最美景點其他入選地標](https://images.gobaligo.id/vocus/vocus_a48d3efe90362f72bb1aa44f7e269534.jpg)
 
 ▍越南河江省
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5b34565bdbeb482d284c6f8c69d260b1.jpg)
+![同場加映：亞洲最美景點其他入選地標](https://images.gobaligo.id/vocus/vocus_5b34565bdbeb482d284c6f8c69d260b1.jpg)
 
 想搵原始山景同避開人潮嘅好選擇？呢條蜿蜒公路穿梭喺梯田山谷同巍峨群山之間，好似行緊山水畫卷咁。
 
 ▍中國張掖丹霞
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b9c114cb5c7e46f5ba8554dfd056559f.jpg)
+![同場加映：亞洲最美景點其他入選地標](https://images.gobaligo.id/vocus/vocus_b9c114cb5c7e46f5ba8554dfd056559f.jpg)
 
 甘肅省地質公園，有暗紅、金黃同翠綠條紋相間嘅彩丘奇觀。呢啲驚人紋理係經過幾百萬年侵蝕同板塊運動形成嘅自然傑作。
 
 ▍泰國三鯨岩
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f29165c6dd242cb362160e72104df10e.jpg)
+![同場加映：亞洲最美景點其他入選地標](https://images.gobaligo.id/vocus/vocus_f29165c6dd242cb362160e72104df10e.jpg)
 
 「三鯨岩」係由三座形似鯨群嘅巨型岩山構成，周邊環繞無際熱帶雨林，天氣晴朗時甚至可以遠眺寮國普考奎山脈。
 
@@ -76,4 +76,4 @@ _srcHash: f0f14396bd0da989a1fffb1bfde8a93a
 
 ▶▶▶▶**想知更多介紹、科摩多島點去？點玩？請睇：**[科摩多島攻略](/blog/komodo-island-labuan-bajo-travel/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5a16ff247d244e1682e7443541ba541b.jpg)
+![你準備好展開一場史詩級探險未？](https://images.gobaligo.id/vocus/vocus_5a16ff247d244e1682e7443541ba541b.jpg)

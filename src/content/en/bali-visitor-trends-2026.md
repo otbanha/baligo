@@ -45,7 +45,7 @@ At the beginning of 2026, Bali's tourist structure is quietly undergoing a 'seis
 
 First, the good news. Bali recently won an award at the 19th China Travel Awards held in Shanghai, being recognized by Travel+Leisure China as one of the top travel destinations. Also on the list were Australia, the Maldives, South Africa, Thailand, and Turkey—being mentioned alongside these destinations is a significant acknowledgment for Bali.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778030614176-785728949570308120.png)
+![Chinese Tourists: Quality Transformation Seen Through Awards](https://images.gobaligo.id/images/2026-05/1778030614176-785728949570308120.png)
 
 The media that awarded this prize is targeting middle-to-high-end tourists with spending power, not the mass market that travels in groups. This indicates that Bali's image among Chinese tourists has upgraded to a boutique travel destination worth spending time and money on—not just for beach photos, but for a truly quality travel experience.
 
@@ -65,7 +65,7 @@ However, according to the latest data from Indonesia's Central Statistics Agency
 
 During the same period, Indian tourists also emerged as a notable trend — with the launch of new direct flights, more and more Indian tourists are flocking to Bali, with nearly 80% arriving through Ngurah Rai Airport.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778030491920-680047753084043827.png)
+![Australian Tourists Dethroned from the Top Spot](https://images.gobaligo.id/images/2026-05/1778030491920-680047753084043827.png)
 
 {{block:戶外}}
 

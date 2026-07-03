@@ -70,7 +70,7 @@ Kalau kamu mau ngelakuin hal-hal ini, cek saluran resmi buat ngurus visa yang se
 *  Visa Investasi (Investment Visa)
 *  Visa Artis dan Pelaku Pertunjukan (Artists and Performers Visa)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778570595314-image_1778570565623.jpg)
+![3. Gimana Cara Pilih Visa yang Tepat?](https://images.gobaligo.id/images/2026-05/1778570595314-image_1778570565623.jpg)
 
 {{block:戶外}}
 

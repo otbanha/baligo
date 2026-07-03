@@ -116,7 +116,7 @@ Biar liburanmu di Bali makin aman dan nyaman, penting banget buat hindari jebaka
 
 >   **Salah**：Pakai kartu kredit untuk transaksi besar tanpa mikirin risiko carding.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0648b8fa6386a0758be5f8b1fa666c66.jpg)
+![7. Keamanan Kartu Bank](https://images.gobaligo.id/vocus/vocus_0648b8fa6386a0758be5f8b1fa666c66.jpg)
 
 Di beberapa daerah di Bali, ada risiko carding pakai kartu kredit. Makanya, mending lindungi duit kamu dengan cara-cara ini:
 
@@ -144,7 +144,7 @@ Lotion anti-nyamuk mending beli di lokal aja, murah dan ampuh:
 
 >   **Salah**：Meremehkan perubahan cuaca cepat di musim hujan Bali, tanpa persiapan yang memadai.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c86655f684007466ca064fac6b244c4f.png)
+![9. Hadapi Musim Hujan](https://images.gobaligo.id/vocus/vocus_c86655f684007466ca064fac6b244c4f.png)
 
 Musim hujan di Bali biasanya berlangsung dari November hingga April. Meski tidak setiap hari hujan deras, cuaca bisa berubah dengan cepat—tiba-tiba dari cerah menjadi badai.
 
@@ -174,7 +174,7 @@ Di beberapa area di Bali, seperti Uluwatu (Pura Uluwatu) dan Monkey Forest (Ubud
 
 >   **Salah**: Ngabaikan agama dan etika budaya lokal, bikin perilaku yang nggak sopan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2051bf25b8c56908609a59e3c8151f2a.jpg)
+![11. Hormati Budaya Lokal](https://images.gobaligo.id/vocus/vocus_2051bf25b8c56908609a59e3c8151f2a.jpg)
 
 Bali itu pusat budaya Hindu, dan penduduk setempat sangat serius sama upacara keagamaan dan tradisi. Menghormati kebiasaan mereka itu penting banget buat traveler. Ini dia beberapa etika budaya yang wajib kamu tahu:
 

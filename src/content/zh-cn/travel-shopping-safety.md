@@ -17,7 +17,7 @@ lang: zh-cn
 _srcHash: cdfc1aabc19f413b6edebbc2ba57ca38
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b0f447cc3f00ad2869b6c9d9b734cc6.png)
+![旅行购物必知：安全又便利的消费指南](https://images.gobaligo.id/vocus/vocus_3b0f447cc3f00ad2869b6c9d9b734cc6.png)
 
 【购物】，通常是旅行行程中的一项重要活动。在旅行购物时，便利性和安全性是一个非常值得注意的重要事项。在购物时，您可能会专注于想要购买的物品，但这种情况可能使您变得不够警惕。因此，由于钱包掉落或遭受扒窃而失去金钱的风险是很有可能的。
 

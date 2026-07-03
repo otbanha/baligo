@@ -38,7 +38,7 @@ Before embarking on your Bali adventure, there are several essential preparation
 
 ### 1. Passport and Visa:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b4636d492eccd4bbd66f297fe294aaee.jpg)
+![1. Passport and Visa:](https://images.gobaligo.id/vocus/vocus_b4636d492eccd4bbd66f297fe294aaee.jpg)
 
 Ensure your passport has at least six months of validity remaining and check if you need a visa to enter Bali. Depending on your nationality, you may need to apply for a visa in advance.
 
@@ -60,7 +60,7 @@ Bali is a tropical region where mosquitoes are quite common, especially during t
 
 ### 4. Currency Exchange:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a272cc601fcba762d6af46ebde80bb20.png)
+![4. Currency Exchange:](https://images.gobaligo.id/vocus/vocus_a272cc601fcba762d6af46ebde80bb20.png)
 
 Bali uses the Indonesian Rupiah (IDR) as the sole currency in circulation. You'll need to exchange your local currency for "US dollars" before departure. Why? Here's a quick guide to currency exchange:
 
@@ -69,7 +69,7 @@ Bali uses the Indonesian Rupiah (IDR) as the sole currency in circulation. You'l
 
 ### 5. What to Pack?:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_91ec7922f1447500e4a3e09b3f71f767.jpg)
+![5. What to Pack?:](https://images.gobaligo.id/vocus/vocus_91ec7922f1447500e4a3e09b3f71f767.jpg)
 
 Pack light and appropriate luggage according to your travel plans. If you're planning to participate in water activities or explore Bali's natural attractions, it's important to bring suitable clothing and footwear. For other reminders such as sun protection, whether to bring rain gear, voltage/plug types, and other details, please refer to: [What to Pack for Bali? 21 Essential Items](/blog/bali-travel-essentials/)
 
@@ -107,7 +107,7 @@ If you're traveling with elderly family members or children, pre-trip preparatio
 
 ### 9. Briefly understand the characteristics of each region:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6356a43e38fd4c13798ef054dd542006.png)
+![9. Briefly understand the characteristics of each region:](https://images.gobaligo.id/vocus/vocus_6356a43e38fd4c13798ef054dd542006.png)
 
 Although Bali isn't large, each region has distinct travel features. Understanding the unique aspects of each area will help you find accommodations that suit different travelers' preferences and vacation needs.
 
@@ -117,7 +117,7 @@ After getting a basic understanding of the different areas, choose your accommod
 
 ### 10. Accommodation and Transportation:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_be1215ff80c1c04f4739b07341c65c49.png)
+![10. Accommodation and Transportation:](https://images.gobaligo.id/vocus/vocus_be1215ff80c1c04f4739b07341c65c49.png)
 
 Bali is a popular tourist destination, especially during peak seasons, so booking in advance ensures a pleasant travel experience. For accommodation, refer to our list of over 300 Bali lodging recommendations, categorized by region and themes like family trips and honeymoons. Most importantly, this is a guaranteed no-fail accommodation guide: "[Bali Accommodation Recommendation Guide](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)".
 
@@ -165,7 +165,7 @@ When is the best time to visit Bali? The dry season typically runs from April to
 
 ### 15. Bali Attractions Guide:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8a91a2159ba5f4964ed4c3f662098f5d.png)
+![15. Bali Attractions Guide:](https://images.gobaligo.id/vocus/vocus_8a91a2159ba5f4964ed4c3f662098f5d.png)
 
 Bali boasts 'Ten Iconic Attractions' that showcase the island's culture, natural beauty, and unique charm, allowing you to deeply experience Bali's distinctive allure in a short time. These spots are also popular for photo ops and must-visit destinations.
 
@@ -186,13 +186,13 @@ The apps commonly used vary by country. When planning a trip to Indonesia/Bali, 
 
 ### 17. Bali Travel Expert-Designed Itineraries
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8eeed2c49e4d80410fa6844fe5acfee8.png)
+![17. Bali Travel Expert-Designed Itineraries](https://images.gobaligo.id/vocus/vocus_8eeed2c49e4d80410fa6844fe5acfee8.png)
 
 The most valuable itinerary reference guide to ensure you travel with ease, see more, and have a fuller experience! Check it out here: [Ultimate Bali Free Travel Guide: Transportation, Accommodation, Attractions, Food, Shopping, SPA, Nightlife - Comprehensive Planning](/blog/bali-free-travel-guide/)
 
 ### 18. Stay Updated on Bali News
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00c25a545869e8e2c4c2172ed512f261.png)
+![18. Stay Updated on Bali News](https://images.gobaligo.id/vocus/vocus_00c25a545869e8e2c4c2172ed512f261.png)
 
 Keeping up with Bali news is important for several reasons:
 
@@ -245,7 +245,7 @@ If you need the latest application links or have any questions, please refer to:
 
 For your first trip to Bali, you have several options to arrange airport pickup for smooth transportation to your destination. Here are some common pickup options:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_af69234c1b871e47f94b6a3b032a1756.png)
+![21. Airport Pickup:](https://images.gobaligo.id/vocus/vocus_af69234c1b871e47f94b6a3b032a1756.png)
 
 1. **Hotel Pickup Service:**
 2. - Some Bali hotels offer pickup service. You can inquire with your hotel when booking accommodation. This is a convenient and reassuring option, as the hotel will send a dedicated vehicle to pick you up, eliminating transportation worries upon arrival.
@@ -266,7 +266,7 @@ https://youtu.be/0fqEvAzAy9A
 
 ### 22. Acclimatization:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9bada757dd54b88e20b23272c92cd00a.png)
+![22. Acclimatization:](https://images.gobaligo.id/vocus/vocus_9bada757dd54b88e20b23272c92cd00a.png)
 
 To ensure a pleasant and healthy trip, 'drinking water' is the first and most important thing you should pay attention to upon arriving in Bali! Due to the local water quality, tap water is not safe to drink, so it's recommended to avoid it to prevent severe gastrointestinal discomfort. You can easily purchase bottled water at supermarkets, small shops, or roadside stalls. What if you accidentally fall ill? The link below teaches you how to quickly alleviate symptoms.
 
@@ -365,7 +365,7 @@ For travelers with limited time or who prefer not to plan every detail themselve
 - Safety assurance: Tours provided by reputable platforms with comprehensive insurance and service guarantees
 - Instant booking confirmation: Easily book via mobile app with immediate confirmation
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d7641c00180a7f9f6448bbc934ec19fa.png)
+![30. Hassle-Free Day Trip Recommendations:](https://images.gobaligo.id/vocus/vocus_d7641c00180a7f9f6448bbc934ec19fa.png)
 
 For first-time visitors to Bali or those looking for a relaxed trip, incorporating one or two Klook day tours into your itinerary can enhance your Bali experience without adding planning stress!
 
@@ -387,13 +387,13 @@ Below are some popular private day tour options:
 
 ### 31. Avoid These 18 Common Traveler Mistakes
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7d8713436ffa82cf25fb5f537d208897.jpg)
+![31. Avoid These 18 Common Traveler Mistakes](https://images.gobaligo.id/vocus/vocus_7d8713436ffa82cf25fb5f537d208897.jpg)
 
 Travelers often make mistakes in Bali that can ruin their trip, waste time, and cost money. Here are 18 common errors and practical tips to help you enjoy a smoother, more enjoyable journey. Check out "[Bali Travel Guide: 18 Common Mistakes & Tips](/blog/bali-travel-mistakes-tips/)".
 
 ### 32. The Hassle-Free Way to Travel: Seek Professional Help
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_955e9a4b7d4291ec8f7a27a262e7e48d.png)
+![32. The Hassle-Free Way to Travel: Seek Professional Help](https://images.gobaligo.id/vocus/vocus_955e9a4b7d4291ec8f7a27a262e7e48d.png)
 
 While planning your own Bali trip can be fun, truly understanding the island takes more than a day or two of research! Many travelers ask us to recommend a travel agency that can handle all the details. Just provide your budget and desired destinations, and they’ll take care of the rest. With experienced drivers and Chinese-speaking guides, you can relax and enjoy a stress-free trip tailored to your schedule.
 

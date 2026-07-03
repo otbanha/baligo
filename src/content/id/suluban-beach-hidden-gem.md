@@ -17,7 +17,7 @@ lang: id
 _srcHash: cc7ca0785bff625024d2be546dbc3fc4
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_67d2227cd36ea55fc95a50075a79269e.jpg)
+![Panduan Lengkap Suluban Beach Bali: Eksplorasi Keindahan Hid](https://images.gobaligo.id/vocus/vocus_67d2227cd36ea55fc95a50075a79269e.jpg)
 
 Suluban Beach, atau dikenal juga sebagai "Blue Point Beach", tersembunyi di Bukit Peninsula, Bali. Pantai rahasia ini punya karakter unik banget — bukan cuma tebing karang dan gua laut yang bikin kagum, tapi juga surga bagi para peselancar. Kalau kamu mau kabur dari keramaian, Suluban Beach jelas salah satu spot paling misterius dan khas di Bali.
 
@@ -40,7 +40,7 @@ Suluban Beach ada di selatan Bukit Peninsula, sekitar 1 jam lebih perjalanan dar
 
 Sesampainya di sana, kamu harus turun lewat anak tangga batu, jalan kaki sekitar 10 menit buat sampai ke pantai. Sepanjang jalan ada toko-toko kecil, warung, dan celah bebatuan mirip terowongan. Perjalanan ini seru banget, penuh nuansa petualangan — jangan lupa pakai sepatu yang nyaman ya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_63c0e1a5864ec860eb6a163497554cb2.jpg)
+![1. Cara Menuju Suluban Beach](https://images.gobaligo.id/vocus/vocus_63c0e1a5864ec860eb6a163497554cb2.jpg)
 
 ***
 
@@ -48,7 +48,7 @@ Sesampainya di sana, kamu harus turun lewat anak tangga batu, jalan kaki sekitar
 
 Waktu terbaik buat main ke Suluban Beach adalah musim kemarau (Mei sampai Oktober). Saat itu sinar matahari melimpah, ombaknya stabil, cocok buat menikmati pemandangan dan berselancar. Selain itu, mending datang pagi hari biar nggak kena keramaian pantai yang penuh sesak di siang hari.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c69315ce69c0a6c8aeb911ea549cdd0a.jpg)
+![2. Waktu Terbaik Berkunjung](https://images.gobaligo.id/vocus/vocus_c69315ce69c0a6c8aeb911ea549cdd0a.jpg)
 
 ## 3. Aktivitas Utama
 1. **Eksplorasi Gua Karang** : Bentuk tebing kapur di Suluban Beach menciptakan banyak gua alami yang jadi latar keren buat foto dan petualangan. Pas air surut, kamu bisa jalan-jalan di dalam gua dan dapetin foto yang misterius banget.
@@ -75,7 +75,7 @@ Keunikan Suluban Beach ada di bentuk medannya yang beda dan nuansa tersembunyiny
 
 ## 五、周邊景點推薦
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_22c54e6ac54cee9b7bf8f153026a7785.png)
+![五、周邊景點推薦](https://images.gobaligo.id/vocus/vocus_22c54e6ac54cee9b7bf8f153026a7785.png)
 
 Suluban Beach 所在的武吉半島，周邊有什麼好玩的？有什麼好吃的？請看[我們的攻略](/blog/bukit-peninsula-guide/)
 

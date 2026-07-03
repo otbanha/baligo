@@ -18,13 +18,13 @@ lang: zh-cn
 _srcHash: 613bf99553342fc72116b1097c55b3c9
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3490f5eb895795476132e2b764f8802c.jpg)
+![到印尼/巴厘岛旅行必备的八大app推荐](https://images.gobaligo.id/vocus/vocus_3490f5eb895795476132e2b764f8802c.jpg)
 
 当你计划到**印尼/巴厘岛**这个充满异国风情的岛屿旅行时，了解一些实用的app应用程序可以让你的旅程更加便利。无论是交通、导航还是沟通，现代科技提供了各种方便的解决方案。以下是我们精选的app应用程序，能够帮助你在印尼/巴厘岛轻松探索、享受旅程。
 
 ## **1. Gojek 和 Grab：当地必备的叫车与外卖应用**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aac64bc3dfb324f8ad1e48c4ed05d19c.png)
+![1. Gojek 和 Grab：当地必备的叫车与外卖应用](https://images.gobaligo.id/vocus/vocus_aac64bc3dfb324f8ad1e48c4ed05d19c.png)
 
 在印尼/巴厘岛，**Gojek** 和 **Grab** 是最受欢迎的叫车及送餐应用程序。外国旅客可以利用这些应用程序方便地叫车，避免了语言障碍或与当地司机沟通的麻烦。这两个应用程序不仅提供交通服务，还可以订购食物、购买日用品，甚至是安排按摩和送货服务。外国旅客可以通过这些应用程序快速叫到摩托车或汽车，让你的出行变得既快捷又实惠。
 
@@ -79,7 +79,7 @@ _srcHash: 613bf99553342fc72116b1097c55b3c9
 
 ## **5. AccuWeather：随时掌握巴厘岛的天气变化**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1a67606183cb5c94ac1291befa8a5801.png)
+![5. AccuWeather：随时掌握巴厘岛的天气变化](https://images.gobaligo.id/vocus/vocus_1a67606183cb5c94ac1291befa8a5801.png)
 
 巴厘岛的天气多变，尤其是雨季来临时，随时可能会有骤雨或飓风。因此，拥有一款可靠的天气应用程序至关重要。**AccuWeather** 是一款广受欢迎的天气预报应用，能够提供详细的天气预测，包括每小时天气更新、降雨概率和未来几天的天气趋势。
 
@@ -95,7 +95,7 @@ _srcHash: 613bf99553342fc72116b1097c55b3c9
 
 ## **6. WhatsApp：与当地人及服务提供者保持联系**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_799fe5846dd2f07d32ee824c034ba63e.png)
+![6. WhatsApp：与当地人及服务提供者保持联系](https://images.gobaligo.id/vocus/vocus_799fe5846dd2f07d32ee824c034ba63e.png)
 
 在印尼/巴厘岛，**WhatsApp** 是最受欢迎、也是最普遍的通讯应用。无论是与当地司机、旅游导游还是民宿主人联系，WhatsApp 都是你最好的选择。通过该应用程序，你可以使用 Wi-Fi 或移动数据来发送消息、图片，甚至进行语音或视频通话。这对于不想支付昂贵国际电话费的旅客来说非常方便。
 

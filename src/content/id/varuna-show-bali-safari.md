@@ -41,7 +41,7 @@ Dibuka tahun 2025 langsung hits, bahkan sempat diulas majalah Time versi Indones
 
 Lokasinya di Gianyar, Marine Safari Bali ada di sebelah Bali Safari Park yang udah terkenal. Sekarang dua taman ini digabung jadi satu dengan nama «[Bali Safari and Marine Park](https://www.balisafarimarinepark.com/)» — sesuai slogan resminya: «satu destinasi, dua dunia»
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a852c7ca33d5bd372e588be693151a71.jpg)
+![Transportasi & Masuk Taman](https://images.gobaligo.id/vocus/vocus_a852c7ca33d5bd372e588be693151a71.jpg)
 
 Karena nggak di pusat keramaian, saran aku sih sewa mobil pribadi aja. Tamannya lebih gede dari yang dibayangin, begitu masuk langsung disambut suasana tropis yang ciamik dan vibe ceria. Kami udah beli tiket [Day Varuna Premium](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D) lewat Klook — walaupun harganya lumayan, tapi worth it banget!
 
@@ -49,7 +49,7 @@ Karena nggak di pusat keramaian, saran aku sih sewa mobil pribadi aja. Tamannya 
 
 Makan siang yang termasuk dalam paket tiket disajikan di restoran bertema «dunia bawah laut» yang didesain dengan apik. Seluruh ruangan didominasi warna biru, dindingnya dihias elemen laut kayak karang dan rumput laut, ditambah efek lampu spesial — bikin kita serasa lagi di istana bawah air. Makanannya paket Western yang elegan, minuman khas Bali recommended banget, dan anak-anak juga suka banget sama dessert lucu-lucu bentuknya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dde920a2ff3ff6a19c243c058206babf.jpg)
+![Kejutan di Restoran Tema Bawah Laut](https://images.gobaligo.id/vocus/vocus_dde920a2ff3ff6a19c243c058206babf.jpg)
 
 ## 🎭 Varuna Show yang Bikin Merinding
 
@@ -62,11 +62,11 @@ Pertunjukannya mengikuti petualangan Varuna, penjaga dasar laut. Yang paling bik
 - Mekanisme panggung langsung berubah scene, dari terumbu karang ke ngarai laut dalam mulus banget
 - Suara surround bikin kamu serasa benar-benar ada di sana
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a9ec96e68a4dfb925af37572839d993b.jpg)
+![Varuna Show yang Bikin Merinding](https://images.gobaligo.id/vocus/vocus_a9ec96e68a4dfb925af37572839d993b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ccc79478004fb80ee3858ecaf2f76d1b.jpg)
+![Varuna Show yang Bikin Merinding](https://images.gobaligo.id/vocus/vocus_ccc79478004fb80ee3858ecaf2f76d1b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_71a7166954f577ff3a806abb0a4bff99.jpg)
+![Varuna Show yang Bikin Merinding](https://images.gobaligo.id/vocus/vocus_71a7166954f577ff3a806abb0a4bff99.jpg)
 
 ## 📸 Foto Bareng Pemeran
 

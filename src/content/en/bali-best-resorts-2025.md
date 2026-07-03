@@ -46,7 +46,7 @@ Bali has once again been crowned Asia's best travel destination! According to th
 
 Known for its extensive English-speaking readership, DestinAsian magazine selects the best travel destinations annually through votes by experienced travelers. The magazine noted: 'Our readers have once again chosen Bali as the most beloved island destination in the Asia-Pacific region, making Bali the **winner for 18 consecutive years**, solidifying its position as Indonesia's most popular tourist hotspot.'
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e5f947f6aa60b97f7aa679736ea5334.png)
+![Bali Wins Best Island in Asia for 18 Consecutive Years](https://images.gobaligo.id/vocus/vocus_2e5f947f6aa60b97f7aa679736ea5334.png)
 
 This destination, known as the 'Island of the Gods,' is famous for its pristine beaches, lush rice fields, renowned surf spots, and deep cultural heritage. The magazine added: 'Bali's unique culture and artistic atmosphere inspire travelers worldwide, and its picturesque coastline and numerous luxury resorts amidst pastoral landscapes make it irresistibly attractive to modern travelers.'
 
@@ -58,7 +58,7 @@ Bali's **I Gusti Ngurah Rai International Airport** ranked fourth in the 'Best A
 
 ## Indonesia's Best Resorts Rankings
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c3e2154ec4f88df171af20e9349fcbab.jpg)
+![Indonesia's Best Resorts Rankings](https://images.gobaligo.id/vocus/vocus_c3e2154ec4f88df171af20e9349fcbab.jpg)
 
 In the "**Best Resorts in Indonesia**" rankings, Bali's luxury hotels dominate the top ten:
 

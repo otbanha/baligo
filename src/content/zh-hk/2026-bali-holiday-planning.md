@@ -15,7 +15,7 @@ _srcHash: 215ca870e14fe17134b1f2b8c9d4f853
 ---
 ### 🗓️ 2026 年上半年請假攻略
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_189c099579ec5d31c727bf21e29776a1.png)
+![2026 年上半年請假攻略](https://images.gobaligo.id/vocus/vocus_189c099579ec5d31c727bf21e29776a1.png)
 
 - **清明連假**：請 3 日（3/31-4/2），爽玩 **9 日**！
 - **勞動節**：請 4 日（4/27-4/30），勞工限定嘅 **9 日**長假！
@@ -32,7 +32,7 @@ _srcHash: 215ca870e14fe17134b1f2b8c9d4f853
 - **當地動態**：4/3 係耶穌受難日、4/5 係復活節，呢兩日係印尼公眾假期。雖然當地人放假，但對於遊客嚟講，卻能避開大批湧入嘅印尼各地觀光客。
 - **預算分析**：機票同住宿喺開齋節後通常會有一波小降幅，性價比極高。（住宿推薦請睇呢度）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_298e8da8b8949ce68b9c9a6ea180e1af.png)
+![【超值首選】4 月清明連假 —— 寧靜後嘅靈性洗禮](https://images.gobaligo.id/vocus/vocus_298e8da8b8949ce68b9c9a6ea180e1af.png)
 
 ### 📍 【放鬆至上】5 月勞動節 —— 全球同步嘅南島耍廢
 
@@ -70,7 +70,7 @@ _srcHash: 215ca870e14fe17134b1f2b8c9d4f853
 
 - 佳隆節喺烏布嘅主要街道會立起高聳嘅Penjor裝飾，非常壯觀並且難得一見！呢個時候亦係探索[烏布100個景點](https://s.id/ubud100)嘅好時機！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4b32bc60b0a1fe9787825097f68cb2e8.jpg)
+![推薦行程](https://images.gobaligo.id/vocus/vocus_4b32bc60b0a1fe9787825097f68cb2e8.jpg)
 
 - 六月係超適合玩水上活動嘅時候！呢個時候我哋嘅攻略就大派用場喇：[峇里島水上活動完整指南｜峇里島唔止浮潛！15種意想不到嘅水上玩法](/blog/2026-bali-water-activities/)
 

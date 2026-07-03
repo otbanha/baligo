@@ -56,7 +56,7 @@ _srcHash: f57f1a84ceeb6c36e9ed452ef4a9fdfd
 
 喺咁嘅情況下，原本幾乎已經諗住放棄。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777187750922-screenshot_20260426_133549.jpg)
+![一個漏咗嘅頸枕](https://images.gobaligo.id/images/2026-04/1777187750922-screenshot_20260426_133549.jpg)
 
 ***
 
@@ -114,7 +114,7 @@ https://youtu.be/ByGkcmys01g
 
 呢個簡單嘅動作，就令成段旅程嘅情緒即刻被拉返正軌。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777187824352-screenshot_20260426_133636.jpg)
+![沉默但關鍵嘅一刻](https://images.gobaligo.id/images/2026-04/1777187824352-screenshot_20260426_133636.jpg)
 
 ***
 
@@ -126,7 +126,7 @@ https://youtu.be/ByGkcmys01g
 👉 大約1個鐘
 👉 只係USD$4
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777187885962-screenshot_20260426_133622.jpg)
+![一份額外嘅心意](https://images.gobaligo.id/images/2026-04/1777187885962-screenshot_20260426_133622.jpg)
 
 最後，佢哋決定透過平台額外補上USD$2作為貼士，表示感謝。
 

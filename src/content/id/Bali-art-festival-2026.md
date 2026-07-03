@@ -42,7 +42,7 @@ Kalau kamu pernah ngikutin acara tahun-tahun sebelumnya, mungkin kamu udah nggak
 
 Tahun ini, karnaval budaya terbesar di pulau ini resmi memasuki **Pesta Kesenian Bali (PKB) ke-48**! Baik kamu baru pertama dengar atau lagi merencanakan liburan Bali di puncak musim panas, panduan terbaru ini bakal bawa kamu langsung ke sorotan tahun ini, dan rasain keindahan budaya Bali yang paling murni.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781317963625-pkb2021b.jpeg)
+![【2026 Bali Arts Festival】Panduan Lengkap Bali Arts Festival ](https://images.gobaligo.id/images/2026-06/1781317963625-pkb2021b.jpeg)
 
 ## 2026 Bali Arts Festival: Informasi Dasar
 
@@ -60,13 +60,13 @@ Dalam budaya tradisional Bali, seni bukan sekadar hiburan visual atau audio, mel
 
 #### 1. Pawai Pembukaan yang Spektakuler (Peed Aya)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781318015720-pesta-kesenian-bali-ke-46-1byl9-dom.jpg)
+![1. Pawai Pembukaan yang Spektakuler (Peed Aya)](https://images.gobaligo.id/images/2026-06/1781318015720-pesta-kesenian-bali-ke-46-1byl9-dom.jpg)
 
 Festival Seni dibuka megah pada 13 Juni! Yang paling ikonik di pembukaan adalah 'Peed Aya cultural parade' (Pawai Budaya) di depan Monumen Bajra Sandhi, Denpasar. Tahun ini, lebih dari 20.000 seniman dan penampil ikut serta. Yang paling mengharukan adalah banyaknya wajah generasi muda dan anak-anak dalam barisan pawai, menunjukkan estafet semangat budaya Bali. Diiringi dentuman musik Gamelan tradisional yang menggema, ribuan penduduk pulau dengan pakaian adat yang indah berparade di sepanjang jalan, menciptakan pemandangan yang sangat memukau.
 
 #### 2. Adu Gamelan dan Tarian Tradisional Maraton
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781318117923-seni1.webp)
+![2. Adu Gamelan dan Tarian Tradisional Maraton](https://images.gobaligo.id/images/2026-06/1781318117923-seni1.webp)
 
 Selama festival sebulan penuh, Pusat Seni Denpasar menyajikan kejutan setiap hari. Kelompok tari dan musik terbaik dari berbagai kabupaten (Regencies) dan desa adat (Banjars) di Bali akan beradu dalam 'adu budaya'. Kamu bisa menikmati Tari Kecak yang penuh energi, Tari Legong yang anggun, serta persaingan musik Gamelan yang penuh skill dan percikan api antar kelompok.
 
@@ -78,7 +78,7 @@ Pas datang ke festival, jangan sampai kelewatan pasar kuliner tradisionalnya! Di
 
 #### 4. Pameran Kerajinan Tangan dan Budaya Dunia
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781318412419-crafts-and-produce-on-vacation.jpg)
+![4. Pameran Kerajinan Tangan dan Budaya Dunia](https://images.gobaligo.id/images/2026-06/1781318412419-crafts-and-produce-on-vacation.jpg)
 
 Selain pertunjukan, di dalam pusat seni juga ada area pameran besar yang menampilkan kebanggaan Bali: ukiran kayu, tenun (Ikat/Batik), dan lukisan tradisional. Tahun ini, 'Bali World Culture Celebration' juga mengundang kelompok seni internasional untuk berinteraksi, menunjukkan perpaduan budaya yang beragam.
 
@@ -111,7 +111,7 @@ Kalau nggak suka terlalu ramai, saran datang **jam 10 pagi** ke venue buat nikma
 
 ### Penutup
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781318485016-foto-sipa-pkb-bali-0.png)
+![Penutup](https://images.gobaligo.id/images/2026-06/1781318485016-foto-sipa-pkb-bali-0.png)
 
 Dibandingkan pertunjukan komersial yang dirancang khusus buat turis, Festival Seni Bali (PKB) adalah **pesta sungguhan yang dipersembahkan oleh masyarakat lokal untuk budaya dan keyakinan mereka sendiri**. Kalau kamu kebetulan lagi di Bali selama periode ini, wajib banget masukin Pusat Seni Denpasar ke itinerary kamu.
 

@@ -33,7 +33,7 @@ _srcHash: ca2bd56f1565c488f66cc506d37d493a
 
 ## ❗❗New Offer for May 2026: Direct Flight from Taipei to Bali Included at USD$1,349 per Person❗❗
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775402779415-8c1c7efa856f2ba9f2984560bfefe7f9.jpeg)
+![New Offer for May 2026: Direct Flight from Taipei to Bali In](https://images.gobaligo.id/images/2026-04/1775402779415-8c1c7efa856f2ba9f2984560bfefe7f9.jpeg)
 
 Winner of the "[World's Best Vacation Destination](/blog/komodo-national-park-global-award/)" Award! This Luxurious 5-Day Tour Offers a Unique and Stress-Free Travel Experience, No Shopping Stops, No Hidden Fees, Perfect for Nature Lovers and Relaxation Seekers. Here's Your Exclusive Itinerary:
 
@@ -53,31 +53,31 @@ Winner of the "[World's Best Vacation Destination](/blog/komodo-national-park-gl
 
 💆 **SPA Experience**: Rejuvenate with a soothing spa treatment, releasing all travel fatigue.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400820309-soosantai_481475287_621160430528146_7038106125601092078_n.jpg)
+![New Offer for May 2026: Direct Flight from Taipei to Bali In](https://images.gobaligo.id/images/2026-04/1775400820309-soosantai_481475287_621160430528146_7038106125601092078_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400821711-travelinladies_84524993_2784703768262696_2739865864881217045_n.jpg)
+![New Offer for May 2026: Direct Flight from Taipei to Bali In](https://images.gobaligo.id/images/2026-04/1775400821711-travelinladies_84524993_2784703768262696_2739865864881217045_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400822183-1b951d023befce770ac6a933fc4f7fcc.jpg)
+![New Offer for May 2026: Direct Flight from Taipei to Bali In](https://images.gobaligo.id/images/2026-04/1775400822183-1b951d023befce770ac6a933fc4f7fcc.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400822816-47bb810e756a862a305201e3ee73438c.jpg)
+![New Offer for May 2026: Direct Flight from Taipei to Bali In](https://images.gobaligo.id/images/2026-04/1775400822816-47bb810e756a862a305201e3ee73438c.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400823325-894370a6ee3b602aa66786441b1d31f0.jpg)
+![New Offer for May 2026: Direct Flight from Taipei to Bali In](https://images.gobaligo.id/images/2026-04/1775400823325-894370a6ee3b602aa66786441b1d31f0.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400823771-460046268_936177495218201_5695431567290022604_n.jpg)
+![New Offer for May 2026: Direct Flight from Taipei to Bali In](https://images.gobaligo.id/images/2026-04/1775400823771-460046268_936177495218201_5695431567290022604_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775402880946-340126390_210320728300650_7686768025195654202_n.jpg)
+![New Offer for May 2026: Direct Flight from Taipei to Bali In](https://images.gobaligo.id/images/2026-04/1775402880946-340126390_210320728300650_7686768025195654202_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400824342-komodo-yang-ukurannya.jpg)
+![New Offer for May 2026: Direct Flight from Taipei to Bali In](https://images.gobaligo.id/images/2026-04/1775400824342-komodo-yang-ukurannya.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400824893-ommabali_367490010_18004272835941138_2684289920586922652_n.jpg)
+![New Offer for May 2026: Direct Flight from Taipei to Bali In](https://images.gobaligo.id/images/2026-04/1775400824893-ommabali_367490010_18004272835941138_2684289920586922652_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400825387-ommabali_431671209_739317778403032_4328506991357886198_n.jpg)
+![New Offer for May 2026: Direct Flight from Taipei to Bali In](https://images.gobaligo.id/images/2026-04/1775400825387-ommabali_431671209_739317778403032_4328506991357886198_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400825981-taka_makassar.jpg)
+![New Offer for May 2026: Direct Flight from Taipei to Bali In](https://images.gobaligo.id/images/2026-04/1775400825981-taka_makassar.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775403145344-3.jpeg)
+![New Offer for May 2026: Direct Flight from Taipei to Bali In](https://images.gobaligo.id/images/2026-04/1775403145344-3.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775400826391-taman-laut-handayani-labuan-bajo.jpeg)
+![New Offer for May 2026: Direct Flight from Taipei to Bali In](https://images.gobaligo.id/images/2026-04/1775400826391-taman-laut-handayani-labuan-bajo.jpeg)
 
 ### Package Includes:
 
@@ -95,13 +95,13 @@ Winner of the "[World's Best Vacation Destination](/blog/komodo-national-park-gl
 
 ▲ Two nights in standard accommodation on Komodo Island (Labuan Bajo)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775401403371-hotel-in-labuan-bajo-meruorah-komodo-labuan-bajo-5-2.jpg)
+![Package Includes:](https://images.gobaligo.id/images/2026-04/1775401403371-hotel-in-labuan-bajo-meruorah-komodo-labuan-bajo-5-2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775401403887-hotel-in-labuan-bajo-meruorah-komodo-labuan-bajo-1-3.jpg)
+![Package Includes:](https://images.gobaligo.id/images/2026-04/1775401403887-hotel-in-labuan-bajo-meruorah-komodo-labuan-bajo-1-3.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775401404463-meruorah-kodomo-labuan-bajo-infinity-pool-1.jpg)
+![Package Includes:](https://images.gobaligo.id/images/2026-04/1775401404463-meruorah-kodomo-labuan-bajo-infinity-pool-1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775401404950-647628827.jpg)
+![Package Includes:](https://images.gobaligo.id/images/2026-04/1775401404950-647628827.jpg)
 
 ▲ Option to upgrade to a 5-star hotel on Komodo Island
 
@@ -117,7 +117,7 @@ Winner of the "[World's Best Vacation Destination](/blog/komodo-national-park-gl
 - This is a limited-time promotional offer; bookings are non-refundable and non-cancelable.
 - Guaranteed island access, unaffected by [visitor limits](/blog/komodo-booking-2026/).
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775403013880-573914366_1243124144524262_1616867715591804103_n.jpg)
+![Special Notes:](https://images.gobaligo.id/images/2026-04/1775403013880-573914366_1243124144524262_1616867715591804103_n.jpg)
 
 World-Class Wonder: The Tri-Colored Beach
 

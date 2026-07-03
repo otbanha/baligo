@@ -21,7 +21,7 @@ _srcHash: c112bd6fdbf754d4c76c1156ddb6b826
 
 自2024年9月1日起，台湾的全服务航空公司Starlux Airlines（星宇航空）正式启航直飞印尼台北至雅加达的航班，每周飞行五次。Starlux Airlines是一家新兴航空公司，由台湾长荣集团创办人张荣发的儿子张国炜于2017年创立。自2020年1月首飞以来，Starlux便引起了广泛关注，票务常常一售而空。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cd9f2da6965d05b446647f287aad4937.jpg)
+![认识台湾全服务航空公司「星宇」](https://images.gobaligo.id/vocus/vocus_cd9f2da6965d05b446647f287aad4937.jpg)
 
 ## 从创立到扩展：Starlux的发展历程
 
@@ -33,7 +33,7 @@ _srcHash: c112bd6fdbf754d4c76c1156ddb6b826
 
 Starlux的客舱内部设计由BMW Designworks工作室负责，所有舱位均配有娱乐系统。经济舱的座位配有720p 10.1寸显示器，提供免费基本Wi-Fi（包括SMS功能）。客舱内的独特香氛由P.Seven创造，融合了木材、皮革和花香的气息，增添了旅客的舒适体验。航空公司的制服设计则由当地设计师Sean Yin创作，灵感来自1940和50年代的复古未来主义风格。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dddd215a460c4e3b870614c74ec256fa.jpg)
+![客舱设计与服务特色](https://images.gobaligo.id/vocus/vocus_dddd215a460c4e3b870614c74ec256fa.jpg)
 
 ## 进军印尼市场
 
@@ -49,7 +49,7 @@ Starlux Airlines的台北-雅加达航线每周运营五次，分别为星期二
 
 除了目前已开通的台北至雅加达航线外，Starlux Airlines也正在计划飞往巴厘岛。他们正在精心计算从台湾台北飞往巴厘岛的最佳时间，以确保这条新航线的成功开通。巴厘岛作为印尼的顶级旅游胜地，一直吸引着全球各地的游客。Starlux Airlines希望通过这条新航线，为来自台湾和其他国家的旅客提供更便利、更高质量的旅游选择。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_853089ec747ba33cc3aef1679d018364.jpg)
+![Starlux计划飞往巴厘岛](https://images.gobaligo.id/vocus/vocus_853089ec747ba33cc3aef1679d018364.jpg)
 
 这项新航线的开通将进一步加强台湾与印尼之间的连接，并且对于热爱巴厘岛的台湾旅客来说，也将提供更直接的旅行路径，免去了转机的不便。随着Starlux的持续扩展，他们正在一步步建立起一个涵盖亚洲及全球主要旅游目的地的广泛航线网络。Starlux预计，未来将有更多的台湾游客和国际旅客通过这条新航线探索巴厘岛的迷人风光。
 

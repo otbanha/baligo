@@ -34,11 +34,11 @@ _srcHash: 08cb239dad3b340f26b741e60e4dbb79
 
 ## **Bikin Liburanmu di Bali Makin Seru Abis!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3367ef3d85a6593784914b7333f8c98f.jpg)
+![Bikin Liburanmu di Bali Makin Seru Abis!](https://images.gobaligo.id/vocus/vocus_3367ef3d85a6593784914b7333f8c98f.jpg)
 
 Bayangin: di surga tropis, kamu berteriak-teriak meluncur dari seluncuran hampir vertikal, lalu santai hanyut di lazy river sambil minum kelapa muda, dikelilingi tanaman hijau tropis yang rimbun... Itulah keajaiban Waterbom Bali!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5c80a6141d256ec92d7c933153320560.jpg)
+![Bikin Liburanmu di Bali Makin Seru Abis!](https://images.gobaligo.id/vocus/vocus_5c80a6141d256ec92d7c933153320560.jpg)
 
 Ini dia **water park nomor satu se-Asia**! Sejak buka tahun 1993, Waterbom bagaikan permata berkilau di jantung kawasan Kuta. Tahun 2024 baru aja raih penghargaan 'Water Park Terbaik Asia Tenggara', dan sekarang lagi ngejar gelar juara dunia!
 
@@ -50,7 +50,7 @@ Ini dia **water park nomor satu se-Asia**! Sejak buka tahun 1993, Waterbom bagai
 
 ## 💰 Panduan Tiket: Tips Hemat Ala Pro
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e6db7aeaf7568233caac2ea2d5c2208d.png)
+![Panduan Tiket: Tips Hemat Ala Pro](https://images.gobaligo.id/vocus/vocus_e6db7aeaf7568233caac2ea2d5c2208d.png)
 
 ### Basic - Single Day Pass
 
@@ -72,7 +72,7 @@ Cocok buat kamu yang traveling ringan dan pemberani:
 
 Gambar aja gak cukup buat nunjukin serunya tiap wahana, kami kasih video biar kamu bisa ngerasain sendiri!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_45b0eb26bf156e5b260472badcb9c28b.jpg)
+![Wahana Seru: Dari Surga Sampai Neraka, Rasain Sendiri](https://images.gobaligo.id/vocus/vocus_45b0eb26bf156e5b260472badcb9c28b.jpg)
 
 ### 💀 Zona Nyali Besar - Khusus Pemberani
 
@@ -136,13 +136,13 @@ Peta Taman
 
 **Pleasure Pool Bar** & **Lagoon Bar** sambil berenang minum cocktail, ini surga banget sih?! Coconut Long Island, cocktail buah tropis... mabuk ringan di dalam air, baru namanya liburan!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_188dfb35eab781771325a1c7b1cdcedb.jpg)
+![Pool Bar - Pengalaman hidup juara sejati](https://images.gobaligo.id/vocus/vocus_188dfb35eab781771325a1c7b1cdcedb.jpg)
 
 ## 🏖️ Sewa Gazebo - Surga VIP pribadi
 
 **Pengalaman nyaman dan privasi maksimal** Mau liburan beneran? Sewa gazebo aja! Ada **51 gazebo di berbagai lokasi** di area taman, dari sudut pribadi yang tersembunyi sampai dekat pusat kegiatan yang ramai, pasti ada yang cocok buat kamu!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0d006239532e8d89eaf2a8a0f983f0b5.png)
+![Sewa Gazebo - Surga VIP pribadi](https://images.gobaligo.id/vocus/vocus_0d006239532e8d89eaf2a8a0f983f0b5.png)
 
 Setiap gazebo punya fasilitas dan paket unik: 🛏️ Kursi santai dan pelindung matahari 🧊 Layanan es batu khusus 🍽️ Layanan antar makanan 🏊‍♀️ Posisi pemandangan terbaik 💆‍♀️ Beberapa gazebo juga ada layanan SPA
 
@@ -176,7 +176,7 @@ Bale-bale tersedia untuk 6, 8, 12, dan 16 orang, harga mulai IDR550,000 (sekitar
 
 ### **Kalau gak sewa bale-bale, ada tempat duduk gak?**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e7ff9441c193635e2e6702586150eb77.png)
+![Kalau gak sewa bale-bale, ada tempat duduk gak?](https://images.gobaligo.id/vocus/vocus_e7ff9441c193635e2e6702586150eb77.png)
 
 Tentu aja! Taman ini udah nyiapin beberapa pilihan tempat istirahat gratis yang oke banget:
 
@@ -208,7 +208,7 @@ Tepat di jantung Kuta, seberang Discovery Mall, jalan kaki ke pantai!
 
 ## ⚡ Panduan Main Maksimal: Kayak Orang Lokal
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6175291d21efae227993402759a9e029.jpg)
+![Panduan Main Maksimal: Kayak Orang Lokal](https://images.gobaligo.id/vocus/vocus_6175291d21efae227993402759a9e029.jpg)
 
 ### 🕘 Tips Manajemen Waktu
 
@@ -220,7 +220,7 @@ Tepat di jantung Kuta, seberang Discovery Mall, jalan kaki ke pantai!
 
 **Musim Terbaik** – April-Oktober musim kemarau, tapi Maret dan September paling sepi
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_57ccf26df215e54ea7cd2588e66e6a71.jpg)
+![Tips Manajemen Waktu](https://images.gobaligo.id/vocus/vocus_57ccf26df215e54ea7cd2588e66e6a71.jpg)
 
 ### 🎒 Checklist Perlengkapan
 
@@ -244,7 +244,7 @@ Tepat di jantung Kuta, seberang Discovery Mall, jalan kaki ke pantai!
 
 ## ⚠️ Safety First: Jangan Biarkan Kecelakaan Merusak Kenangan Indah
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dee9cbe4d91d15d3cf88d2e34b562c7f.jpg)
+![Safety First: Jangan Biarkan Kecelakaan Merusak Kenangan Ind](https://images.gobaligo.id/vocus/vocus_dee9cbe4d91d15d3cf88d2e34b562c7f.jpg)
 
 ### Tips Keamanan Dasar
 
@@ -276,7 +276,7 @@ Tepat di jantung Kuta, seberang Discovery Mall, jalan kaki ke pantai!
 
 ## 🎉 Pesan Terakhir
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a98984c1bd33823f8b213c1b6d5819e8.jpg)
+![Pesan Terakhir](https://images.gobaligo.id/vocus/vocus_a98984c1bd33823f8b213c1b6d5819e8.jpg)
 
 Waterbom Bali bukan sekadar taman air biasa — ini dunia ajaib yang bikin kamu jadi anak kecil lagi! Di sini, kamu bisa teriak sepuasnya, ketawa keras-keras, perang air sama teman-teman, lalu rebahan santai di lazy river...
 

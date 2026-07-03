@@ -75,7 +75,7 @@ Begitu keluar bandara, sopir yang udah kami booking udah nunggu di luar. Pas lih
 
 **Makan Malam: Naughty Nuri's Warung, Sanur (Iga Babi Enak Banget)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_44e005ebfa77730c958280ed8a16e897.jpg)
+![Hari Pertama:](https://images.gobaligo.id/vocus/vocus_44e005ebfa77730c958280ed8a16e897.jpg)
 
 Makan pertama di Bali, kami pilih Naughty Nuri's Warung di Sanur, yang terkenal sama iga babi andalannya. Beneran nggak tipu-tipu, dagingnya empuk, sausnya rahasia, bikin lidah langsung bergoyang. Enak banget! Kalau ke Bali, tempat ini wajib masuk daftar must-try.
 
@@ -83,19 +83,19 @@ Makan pertama di Bali, kami pilih Naughty Nuri's Warung di Sanur, yang terkenal 
 
 **Menginap: Maison Aurelia Sanur, Bali by Preference**
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780844012829-524375767.jpg)
+![Hari Pertama:](https://images.gobaligo.id/images/2026-06/1780844012829-524375767.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780844013272-524375768.jpg)
+![Hari Pertama:](https://images.gobaligo.id/images/2026-06/1780844013272-524375768.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780844013740-524375771.jpg)
+![Hari Pertama:](https://images.gobaligo.id/images/2026-06/1780844013740-524375771.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780844014346-524375772.jpg)
+![Hari Pertama:](https://images.gobaligo.id/images/2026-06/1780844014346-524375772.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780844014874-524386598.jpg)
+![Hari Pertama:](https://images.gobaligo.id/images/2026-06/1780844014874-524386598.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780844015367-524386644.jpg)
+![Hari Pertama:](https://images.gobaligo.id/images/2026-06/1780844015367-524386644.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780844015782-524387959.jpg)
+![Hari Pertama:](https://images.gobaligo.id/images/2026-06/1780844015782-524387959.jpg)
 
 > ➡️ Cek harga & ketersediaan kamar Maison Aurelia Sanur [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1294268) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6024011&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaysLFJMEk1cfC0Xp9lqgQo4HFb0FHBhAoKXXwnDUTCEKrHAJ4IqYceD6NPfHFvcOqx0vdHQrBSg6EODQyGoPA5ECHLkZWsJoZjKevvWfayJgGAm3BDjsYmU4wLudfwNR65T3TKRZmjldMl1i-MkVXK2WnVipZmegolWSW5KQqWSk9XTTvacOe5ytalXSUUlKLk4FCQFZibn5pXgmQbWhhqGdgABQpSazwTAHrTE7MSS7NSSxJDaksAJpgpqOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFlfyAxhRBBTLz8yDaDVHEwhJzSlMhTgBa6JYKtcOwVgfT5c_m9D7tnvli027iXG5ObZcbEONy49rYRyxM0bGfWBh-AaOhkbmJlaGLlZnjFuMkILmcfxcra6C7d7jTBdYmESl5QwMDA1NDY1NTXYNEy0QLM4tkXRNLEyNzA11DMzNTU41v_Z3XnxgbWUtBYl2BUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm4WZo6Gja5QNF7OnS5DgB73n29utLe2lmEPCXRRLVz9f8r33tL0WSM4QJhe453XOCXvjBfaRMPkk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkaGDYyMOxj_wwDjK0aQ6QCpFEtY-gIAAA&masterhotelid_tracelogid=100051355-0a9a868c-494270-16655&detailFilters=17|1~17~1*31|6024011~31~6024011*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=130&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/XNwjIsZ7)
 
@@ -143,7 +143,7 @@ https://youtu.be/laRb_l8BdLM
 **Makan malam: Restoran Italia Forketta Bali**
 Makan malam milih restoran Italia di Sanur — Forketta Bali. Restoran ini terkenal dengan hidangan Italia yang elegan. Kita pesan pasta handmade andalan dan pizza panggang, rasa dan teksturnya autentik banget, bikin kita puas. Hidangan Italia seenak ini jadi pilihan pas buat nutup hari yang penuh kegiatan!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_142fdb8c22f4c172038e3ade269ef6ef.jpg)
+![Hari Kedua (Petualangan di Nusa Lembongan):](https://images.gobaligo.id/vocus/vocus_142fdb8c22f4c172038e3ade269ef6ef.jpg)
 
 {{block:sanur}}
 
@@ -156,7 +156,7 @@ Perjalanan Ubud kita mulai dengan arung jeram yang seru. Melewati hutan hujan tr
 
 **Kafe Hits: Foto-foto di Ayunan**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_57b0b41ac469b22436f739a53fe74f4f.jpg)
+![Hari Ketiga (One Day Trip Ubud):](https://images.gobaligo.id/vocus/vocus_57b0b41ac469b22436f739a53fe74f4f.jpg)
 
 Setelah arung jeram, mampir ke sebuah kafe hits yang terkenal. Keunikannya ada ayunan raksasa, jadi kita bisa sambil berayun sambil menikmati pemandangan sawah yang indah. Orang lokal di sini jago banget foto, suasananya bikin setiap jepretan terlihat seperti kartu pos — tempat wajib buat foto-foto dan check-in.
 
@@ -200,19 +200,19 @@ Selanjutnya kami mampir ke kafe hits Gigi Susu, yang terkenal dengan roti dan ko
 
 > Baca juga: Lebih dari 50 rekomendasi restoran di Canggu dari netizen, cek di「[Peta Panduan Canggu](https://gobaligo.id/map/canggu/)」
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e7a6051d70eb94791ccd07270bdcf2e8.png)
+![Hari Keempat (Chill Seharian di Canggu):](https://images.gobaligo.id/vocus/vocus_e7a6051d70eb94791ccd07270bdcf2e8.png)
 
 **Mengunjungi Pura Tanah Lot**
 Sore harinya, kami pergi ke salah satu ikon Bali — Pura Tanah Lot. Pura yang terletak di tepi laut ini seperti pemandangan ajaib yang mengapung di atas air, baik pemandangannya yang megah maupun suasananya yang sakti, bikin hati merasa kagum. Tempat ini juga spot terbaik buat lihat matahari terbenam, wajib banget dikunjungi kalau ke Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c8901a744d0d658d299564b9ec2515af.jpg)
+![Hari Keempat (Chill Seharian di Canggu):](https://images.gobaligo.id/vocus/vocus_c8901a744d0d658d299564b9ec2515af.jpg)
 
 > [Destinasi Wajib Kunjung di Bali: Panduan Lengkap Pura Tanah Lot, Pasang Surut & Tempat Wisata Sekitar](https://gobaligo.id/blog/bali-tanah-lot-guide/)
 
 **The Lawn Canggu Beach Club**
 Perhentian terakhir hari ini adalah beach club terkenal di Canggu — The Lawn. Di sini ada sinar matahari, pantai, makanan enak, plus para bikini cantik dan cowok ganteng. Kami menikmati sore yang santai, berendam di kolam renang, minum koktail dingin, sambil menunggu sunset Bali yang legendaris perlahan turun. Setelah malam tiba, pantai jadi terang benderang, suasananya nyaman dan romantis, bikin kami benar-benar rileks dan menikmati setiap momen liburan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_324fe7d0c94f96b7efa72d056ac411f2.jpg)
+![Hari Keempat (Chill Seharian di Canggu):](https://images.gobaligo.id/vocus/vocus_324fe7d0c94f96b7efa72d056ac411f2.jpg)
 
 {{block:canggu}}
 
@@ -223,12 +223,12 @@ Perhentian terakhir hari ini adalah beach club terkenal di Canggu — The Lawn. 
 **Belanja di Canggu Love Anchor**
 Destinasi pertama hari ini, kita mampir ke pasar Love Anchor yang hits banget di Canggu. Di sini ada banyak banget pilihan aksesoris dan oleh-oleh, dari kerajinan tangan, baju, sampai pernak-pernik kecil, semuanya kental nuansa Bali. Jangan lupa tawar-menawar ya, soalnya harga barang di sini masih bisa banget ditawar. Kami berhasil nurunin harga beberapa barang sampai setengahnya, worth it banget!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_adaedf1ccf645b4c1f61c85aa8b81cb6.jpg)
+![Hari Kelima (Siap-siap Pulang!):](https://images.gobaligo.id/vocus/vocus_adaedf1ccf645b4c1f61c85aa8b81cb6.jpg)
 
 **Kembali ke Villa Nikmati Sisa Waktu Liburan**
 Setelah puas belanja, kami balik ke villa buat menikmati beberapa jam terakhir dengan santai. Suasana villa tenang dan nyaman, berendam di kolam renang sambil berjemur bikin kami benar-benar rileks, jadi penutup sempurna buat liburan Bali yang keren ini.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1d42efde3fdde2dbb838bb53c0a00f79.jpg)
+![Hari Kelima (Siap-siap Pulang!):](https://images.gobaligo.id/vocus/vocus_1d42efde3fdde2dbb838bb53c0a00f79.jpg)
 
 **Menuju Bandara, Siap Naik Pesawat Jam 16:30**
 Setelah meninggalkan villa, kami sampai di bandara tiga jam lebih awal. Ini kebiasaan yang baik, apalagi di bandara internasional, datang lebih awal biar nggak buru-buru urus dokumen atau hal tak terduga. Semua dokumen udah siap, tinggal santai nunggu boarding.
@@ -256,7 +256,7 @@ Baca juga: [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Panduan Oleh-O
 
 Ngomong-ngomong soal supir keren yang bisa bahasa Mandarin, yaitu "Wayan Suantara", atau yang biasa dikenal sebagai "Kang Ge". Setelah aku add Line-nya, langsung aku jelasin rencana perjalananku. Kang Ge nggak cuma cepet kasih jadwal, tapi juga kasih banyak saran profesional, bikin perjalanan makin sempurna. Recommended banget! ❤️ Beneran bisa dipercaya 👍
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0942104964f65a1688cea7612940f267.jpg)
+![Rekomendasi Sopir](https://images.gobaligo.id/vocus/vocus_0942104964f65a1688cea7612940f267.jpg)
 
 Perjalanan ke Bali kali ini penuh kejutan dan kenangan, dari pemandangan indah sampai kuliner enak, dari petualangan sampai relaksasi. Baik menikmati alam Bali atau suasana santainya, tempat ini surga liburan. Nggak sabar buat balik lagi!
 

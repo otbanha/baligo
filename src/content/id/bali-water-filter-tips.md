@@ -38,7 +38,7 @@ _srcHash: 20de54f94613dfa8da2f364db8ff84f8
 
 Update: 09/06/2026
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775969828533-c51dc973-6ac0-43ac-be44-111664f2624f.png)
+![Kualitas Air di Bali Gimana Sih? Perlu Bawa Filter Air / Sho](https://images.gobaligo.id/images/2026-04/1775969828533-c51dc973-6ac0-43ac-be44-111664f2624f.png)
 
 Baru-baru ini di grup Facebook kita ada yang [nanya](https://www.facebook.com/share/p/1CZKDGoT7N/): "**Pas mandi di Bali perlu bawa shower head sendiri? Gosok gigi & kumur harus pakai air mineral/air minum?**"
 Si penanya bilang info di internet beda-beda, jadi pengen denger pengalaman orang yang udah pernah ke sana. Ternyata kolom komentar rame banget, berbagai macam tipe tubuh, tipe akomodasi, dan pengalaman 'kena' vs 'aman' semua ada.
@@ -53,7 +53,7 @@ Ada yang cerita "Kami nginep di beberapa hotel dan nggak masalah, langsung pakai
 
 **Tapi ada temuan menarik yang kontra-intuitif**: bintang tinggi ≠ kualitas air paling oke. Ada traveler yang nginep di hotel bintang lima di Kuta, malah nemu butiran hitam di bak mandi, jadinya selama nginep cuma bisa gosok gigi pakai air botolan. Jadi ada yang nginep di hotel bintang lima tapi filter airnya tetep kuning; ada juga yang nginep di hotel branded tapi filter airnya nggak kotor sama sekali. **Kuncinya bukan selalu bintang hotel, tapi seberapa serius mereka nge-maintain sistem penjernihan air.**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775969361098-shower_head.jpg)
+![Hotel Mewah & Resort: Biasanya Aman, Tapi Ada Pengecualian](https://images.gobaligo.id/images/2026-04/1775969361098-shower_head.jpg)
 
 ## Villa & Homestay di Ubud: Area Paling 'Bikin Filter Ketahuan'
 

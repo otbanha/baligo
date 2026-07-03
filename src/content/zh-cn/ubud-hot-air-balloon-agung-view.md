@@ -23,33 +23,33 @@ lang: zh-cn
 _srcHash: ad022c00a5b2c1b8ebd7f1ede2f1c259
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ed4e23babe897f0039aae5be80a2e83.jpg)
+![【巴厘岛亲子必玩】乌布热气球初体验：高空俯瞰阿贡火山、稻田美景与预约注意事项](https://images.gobaligo.id/vocus/vocus_6ed4e23babe897f0039aae5be80a2e83.jpg)
 
 ## **巴厘岛乌布热气球之旅：一家三口的梦幻空中约会**
 
 「妈妈，我们真的要飞上天吗？」5岁的小宝紧紧抓着我的衣角，眼睛却闪着兴奋的光芒。老公在一旁笑着调整相机：「放心，爸爸会保护你。」这是我们一家三口在巴厘岛最特别的冒险——乌布热气球初体验。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8dfa66b04dd9de71bb06a72e584ab9f2.jpg)
+![巴厘岛乌布热气球之旅：一家三口的梦幻空中约会](https://images.gobaligo.id/vocus/vocus_8dfa66b04dd9de71bb06a72e584ab9f2.jpg)
 
 ## **巴厘唯一的家庭空中探险**
 
 作为全岛**唯一**的系留式热气球，这个23米高的彩虹巨球特别适合家庭体验。工作人员看到我们带着孩子，贴心地拿出小踏凳：「小朋友可以先踩这个上来哦！」柳条编织的篮子比想象中宽敞，我们三人站进去刚刚好（总重量限制150公斤，带孩子的家庭完全没问题）。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6e9034faa46931a5d78d8a868afb0691.jpg)
+![巴厘唯一的家庭空中探险](https://images.gobaligo.id/vocus/vocus_6e9034faa46931a5d78d8a868afb0691.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_53df4fd79dcf0d9ad18ecdcc8d22e6d8.jpg)
+![巴厘唯一的家庭空中探险](https://images.gobaligo.id/vocus/vocus_53df4fd79dcf0d9ad18ecdcc8d22e6d8.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f74860f9a16d702dbf66d0716f8631ea.jpg)
+![巴厘唯一的家庭空中探险](https://images.gobaligo.id/vocus/vocus_f74860f9a16d702dbf66d0716f8631ea.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d798af7e9de04eb902533d427cf3cede.jpg)
+![巴厘唯一的家庭空中探险](https://images.gobaligo.id/vocus/vocus_d798af7e9de04eb902533d427cf3cede.jpg)
 
 ## **黄昏时分的魔幻时刻**
 
 我们选择了最受推荐的**17:30黄昏航班**。当火焰「轰」地一声喷发时，小宝惊呼着钻进爸爸怀里，但下一秒就被上升的感觉逗得咯咯笑。从50米高空望出去，乌布的稻田在夕阳下像铺了一层金箔，远处的阿贡山在暮色中若隐若现。老公一手环抱着我，一手护着探头张望的小宝。这角度看巴厘岛，真的不一样！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_744e80db7118b1ac94e5824e71a6c7a2.jpg)
+![黄昏时分的魔幻时刻](https://images.gobaligo.id/vocus/vocus_744e80db7118b1ac94e5824e71a6c7a2.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_11a27578173ce42535d398d29a100f31.jpg)
+![黄昏时分的魔幻时刻](https://images.gobaligo.id/vocus/vocus_11a27578173ce42535d398d29a100f31.jpg)
 
 ## **专属家庭的贴心服务**
 

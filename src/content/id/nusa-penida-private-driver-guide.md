@@ -24,7 +24,7 @@ _srcHash: 0d703b4444cb6ed9576c9ba48ed2efb7
 
 Mau liburan sendiri ke Nusa Penida tapi khawatir soal transportasi? Sebenarnya, kebanyakan turis pilih **driver sewa dari Bali daratan** buat bantu rencanain itinerary. Artikel ini bakal bantu kamu paham cara sewa mobil di Nusa Penida, rekomendasi terbaik, dan hal-hal yang perlu diperhatikan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6346fb2575580dc3cc5c5a5c8fd584b9.jpg)
+![Cara Pilih Driver Sewa di Nusa Penida?｜Rekomendasi Praktis u](https://images.gobaligo.id/vocus/vocus_6346fb2575580dc3cc5c5a5c8fd584b9.jpg)
 
 ## Apa Bisa Liburan Sendiri ke Nusa Penida?
 
@@ -47,7 +47,7 @@ Aturan kayak gini cukup praktis buat turis, berikut alur umumnya:
 
 Nggak perlu cari sopir sendiri, kecuali kamu udah paham bahasa lokal atau pola wisata di sana. Kebanyakan sopir di Bali daratan udah punya kerja sama tetap dengan sopir Nusa Penida yang profesional dan tahu cara ngajak wisatawan menghindari keramaian. Mereka juga bantu terjemahin dan atur waktu biar perjalananmu makin nyaman.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_787038b9a39f629e9ca2d266a53c3bad.jpg)
+![Apakah perlu menghubungi sopir lokal di Nusa Penida?](https://images.gobaligo.id/vocus/vocus_787038b9a39f629e9ca2d266a53c3bad.jpg)
 
 ## Alasan pakai sopir sewaan di Bali
 
@@ -82,7 +82,7 @@ Kita punya lima episode soal Nusa Penida, yuk kenalan lebih dalam sama surga pul
 4. [Panduan Transportasi di Nusa Penida: Taksi, Gojek/Grab, Sewa Mobil, Motor](/blog/nusa-penida-transport-guide/)
 5. [13 Rekomendasi Akomodasi Nusa Penida dari Mewah sampai Budget](/blog/nusa-penida-hotels-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0cb95fce009e6a0b11e1c5639d83ec4d.jpg)
+![Panduan Lengkap Nusa Penida](https://images.gobaligo.id/vocus/vocus_0cb95fce009e6a0b11e1c5639d83ec4d.jpg)
 
 ---
 

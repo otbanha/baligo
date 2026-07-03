@@ -65,7 +65,7 @@ https://youtu.be/zePMt3KSwTo
 
 Mulai dari pemandangan Gunung Agung yang megah di Pura Lempuyang (Sky Gate), sampai istana air kayak negeri dongeng di Tirta Gangga, dan reruntuhan istana kuno di Ujung Water Palace — setiap tempat punya vibe dan nilai estetikanya sendiri. Mau jalan-jalan santai, menikmati bunga, atau hunting foto keren, tiga spot ini bakal memenuhi semua kebutuhan liburan kamu. Jangan lupa bawa kamera ya, biar momen-momen indah ini bisa kamu abadikan dan jadi kenangan manis.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1b788d4b2052c6e67e9c475e88df1921.jpg)
+![Ujung Water Palace](https://images.gobaligo.id/vocus/vocus_1b788d4b2052c6e67e9c475e88df1921.jpg)
 
 Jangan lupa mampir juga ke Amed dan Tulamben yang ada di timur Bali! Panduan lengkapnya ada [di sini](/blog/amed-tulamben-diving-guide/)
 

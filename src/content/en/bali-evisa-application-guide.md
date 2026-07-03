@@ -30,7 +30,7 @@ _srcHash: 2e5ad6c20d699ffd99fb6b25fe61686d
 
 An electronic visa (electronic visa on arrival, abbreviated as eVoA/eVisa) refers to a visa that travelers apply for online through the official website of the Indonesian Immigration Directorate before departure. The application fee for the e-Visa is the same as that for the manual visa on arrival at the airport, which is 500,000 Indonesian Rupiah (approximately USD$32). The visa is valid for 30 days, can be extended once, and allows a maximum stay of 60 days. However, additional fees are charged for credit card payments.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b494c08f27d320e4d119e85eb298d600.png)
+![What is an Electronic Visa?](https://images.gobaligo.id/vocus/vocus_b494c08f27d320e4d119e85eb298d600.png)
 
 ## Steps to Apply for an Electronic Visa
 

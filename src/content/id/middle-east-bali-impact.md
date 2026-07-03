@@ -54,7 +54,7 @@ Dulu terbang dari Bali ke Jakarta cuma sekitar 1,5 juta IDR (sekitar USD$48), se
 
 Ini artinya strategi Bali yang dulu pas lagi susah 'banting setir ke wisatawan domestik' mungkin kali ini nggak mempan — karena tiket pesawat domestik juga kena imbas, otomatis konsumen bakal mikir ulang buat traveling.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776853335462-airplane.jpeg)
+![不只是國際線，連國內機票也跟著爆漲](https://images.gobaligo.id/images/2026-04/1776853335462-airplane.jpeg)
 
 ## Gimana sih pandangan pelaku industri pariwisata?
 

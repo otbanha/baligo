@@ -26,7 +26,7 @@ _srcHash: 3c1d517f614c0dbd46ec9d76ba9c6d20
 
 这次行程最让我们感动的，除了美景，还有我们的包车司机 Gede Arimbawa！他不仅贴心，还非常善良且热心。尊重我们的行程安排，并在适当的时候给出一些实用建议，让我们在巴厘岛的几天都非常顺利。无论是提醒我们交通时间，还是帮忙预订餐厅、活动，他的服务都让人无比安心。这么好的司机推荐给大家！🥰
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9c6297afa65717ca1de714d7b83a7289.jpg)
+![1. 包车司机推荐：Gede Arimbawa](https://images.gobaligo.id/vocus/vocus_9c6297afa65717ca1de714d7b83a7289.jpg)
 
 Gede 在社团拥有超多好评！[请参考这里](/blog/bali-private-car-drivers-guide/)
 
@@ -126,7 +126,7 @@ https://youtu.be/GivvqCXp11A
 
 > 编按，用手机叫车就可以避免这种情况发生喔：[在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略](/blog/gojek-bali-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_132b0fdbdbd2b8f1e37a9dc51b38bd58.png)
+![13. 骑士骗局要小心！](https://images.gobaligo.id/vocus/vocus_132b0fdbdbd2b8f1e37a9dc51b38bd58.png)
 
 以上是我们这次旅程的一些经验，还有很多细节没有来得及分享，有想到的我会再补充！再次感谢我们的司机Gede，虽然后三天我们去了别的岛，但他依然保持联系，随时帮我们解决问题。这次旅程虽然有些波折，但总体来说非常愉快！如果你也有计划去巴厘岛，以上这些建议希望对你有帮助，祝旅途愉快！💼🌞
 

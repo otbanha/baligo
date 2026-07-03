@@ -37,7 +37,7 @@ https://youtube.com/shorts/4qrez0ZwYb4
 
 ## Core Three Days: Deep Exploration with Professionals
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00f2cd7be9f879ad828534427edb9114.jpg)
+![Core Three Days: Deep Exploration with Professionals](https://images.gobaligo.id/vocus/vocus_00f2cd7be9f879ad828534427edb9114.jpg)
 
 The next three days were the highlight of this trip. I entrusted my itinerary entirely to **Ani (Si Febri)**, a highly recommended tour guide from online travel communities, and her husband, who served as our private driver. Her popularity was such that I had to 'go against the grain'—before even purchasing my plane tickets in Taiwan, I contacted her to confirm her availability, much like booking a slot with a star director.
 
@@ -45,15 +45,15 @@ This early trust paid off handsomely. Ani wasn’t just a tour guide; she was a 
 
 ## Highlights of the Three-Day Itinerary:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a01ce62ae4692f23cef04eac4b5d0ba2.png)
+![Highlights of the Three-Day Itinerary:](https://images.gobaligo.id/vocus/vocus_a01ce62ae4692f23cef04eac4b5d0ba2.png)
 
 ### **🏔️ The Spirit of Adventure:**
 
 - **Mount Batur Jeep Sunrise Tour:** Departing in the early hours, we rode jeeps up the western slope of the volcano in the crisp morning air. As the golden-red sun leaped from the sea of clouds, illuminating the volcano and lake, the awe was indescribable. To our delight, the drivers were skilled photographers who knew every best spot for photos, capturing countless professionally composed, breathtaking shots for us.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_16a54196130f9e528469195d8ff9aa8c.jpg)
+![The Spirit of Adventure:](https://images.gobaligo.id/vocus/vocus_16a54196130f9e528469195d8ff9aa8c.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac018a86bbb625114fb5312631d10213.jpg)
+![The Spirit of Adventure:](https://images.gobaligo.id/vocus/vocus_ac018a86bbb625114fb5312631d10213.jpg)
 
 > **Quick Reference:** [Bali Adventure: Full Record of the Mount Batur Jeep Sunrise Tour](/blog/batur-volcano-jeep-sunrise-tour/)
 
@@ -65,9 +65,9 @@ https://youtube.com/shorts/lz69CKyTYLk
 
 - **Mari Beach Club:** A chic beach club in Seminyak, renowned for its relaxed vibe and exceptional dining experience.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_91b70ce735921f4691d46f186989d56d.jpg)
+![The Spirit of Adventure:](https://images.gobaligo.id/vocus/vocus_91b70ce735921f4691d46f186989d56d.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_89ecc49e4d384b96740899a479368307.jpg)
+![The Spirit of Adventure:](https://images.gobaligo.id/vocus/vocus_89ecc49e4d384b96740899a479368307.jpg)
 
 > ▶[More Bali Beach Club Discount Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1190861&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%25E6%25B5%25B7%25E7%2581%2598%25E4%25BF%25B1%25E6%25A8%2582%25E9%2583%25A8)
 
@@ -79,9 +79,9 @@ https://youtube.com/shorts/BORrtY6fafs
 
 - **Tanah Barak Road:** Pay a small entrance fee to stand on this massive wall extending into the sea and capture photos of a lonely, world's-end-like beauty.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_07e90969bcfe06823a447f5f8dc9adc1.jpg)
+![The Spirit of Adventure:](https://images.gobaligo.id/vocus/vocus_07e90969bcfe06823a447f5f8dc9adc1.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e1bf7f65cd7d7bb67c5abbd8dc732ad.jpg)
+![The Spirit of Adventure:](https://images.gobaligo.id/vocus/vocus_2e1bf7f65cd7d7bb67c5abbd8dc732ad.jpg)
 
 > **Quick Reference:** [Batu Barak/Tanah Barak: A Breathtaking Journey Along the Blue Cliff Road](/blog/batu-barak-cliff-road/)
 
@@ -90,9 +90,9 @@ https://youtube.com/shorts/BORrtY6fafs
 - **Tirta Empul Temple:** Thanks to Ani's suggestion, we experienced the devout atmosphere of locals cleansing their bodies and minds in the holy spring water. The temple architecture itself is also stunning.
 - **Golden Rabbit Civet Coffee Factory:** Learn about the famous "cat poop coffee" production process and taste or purchase various coffee beans.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1f86a9eb7d00cbc4710b2d014a9719fc.jpg)
+![Culture & Shopping:](https://images.gobaligo.id/vocus/vocus_1f86a9eb7d00cbc4710b2d014a9719fc.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f4da0ea959d76c02a3fd75fbbfc63aa.jpg)
+![Culture & Shopping:](https://images.gobaligo.id/vocus/vocus_4f4da0ea959d76c02a3fd75fbbfc63aa.jpg)
 
 - **Bali Banana:** Buy crispy and delicious banana chips, a popular souvenir perfect for gifting or personal enjoyment.
 - **Love Anchor Canggu:** An indoor shopping mall in the Canggu area.
@@ -107,17 +107,17 @@ https://youtube.com/shorts/BORrtY6fafs
 
 https://youtu.be/kcKfLqZUSjE
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_05efa07bc26a0a68c1ddffcbc212a11a.jpg)
+![Taste & Relaxation:](https://images.gobaligo.id/vocus/vocus_05efa07bc26a0a68c1ddffcbc212a11a.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f806383734c781299eece3a235b4e030.jpg)
+![Taste & Relaxation:](https://images.gobaligo.id/vocus/vocus_f806383734c781299eece3a235b4e030.jpg)
 
 > ▶[D'Tukad Coffee Club Discount Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1190857&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F120659-d-tukad-coffee-club-in-ubud-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D92d0787eb8)
 
 - **Malini Uluwatu:** A cliffside restaurant offering stunning views of Uluwatu Temple and breathtaking sunsets.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1d0abcf7def6a7c790ea900abb1d022b.jpg)
+![Taste & Relaxation:](https://images.gobaligo.id/vocus/vocus_1d0abcf7def6a7c790ea900abb1d022b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_44fae2b97686bf8a40d76d8e9d41d128.jpg)
+![Taste & Relaxation:](https://images.gobaligo.id/vocus/vocus_44fae2b97686bf8a40d76d8e9d41d128.jpg)
 
 - **Wahaha Pork Ribs:** A famous pork ribs spot known for its tender meat and rich sauce, worth the wait in line.
 
@@ -127,7 +127,7 @@ https://youtube.com/shorts/PmW1oHHS7gA
 
 - **SVaha Spa:** Relieve daily fatigue with traditional massages in an exquisite setting.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_65c3535029fbc4031bee1f4e347e235f.jpg)
+![Taste & Relaxation:](https://images.gobaligo.id/vocus/vocus_65c3535029fbc4031bee1f4e347e235f.jpg)
 
 > ▶[Seminyak SVaha Spa Reservation & Discounts](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1190861&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F155572-svaha-spa-in-seminyak-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3De4814e9f8b)
 
@@ -157,7 +157,7 @@ Contact Information for Ani Si Febri
 
 Were you impressed by [Yvonne Liao's](https://www.facebook.com/share/p/1CjoK9BEFX/) exciting itinerary? Start planning your own Bali adventure now! We also welcome everyone to share their travel plans in our community!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c24c907b3071f894b193a7b3d195bba.jpg)
+![Conclusion: More Than Just One Beautiful Experience](https://images.gobaligo.id/vocus/vocus_1c24c907b3071f894b193a7b3d195bba.jpg)
 
 Click here to explore more [amazing Bali travel stories](/blog?cat=%E9%81%8A%E8%A8%98%E5%88%86%E4%BA%AB)
 

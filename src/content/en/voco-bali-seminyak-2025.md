@@ -29,7 +29,7 @@ _srcHash: 4e6fe298b6db400550638c7be6d1f43e
 
 ## A New Luxury Experience: voco Bali Seminyak
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2a13d00251979ae10e03211a317d3c15.jpg)
+![A New Luxury Experience: voco Bali Seminyak](https://images.gobaligo.id/vocus/vocus_2a13d00251979ae10e03211a317d3c15.jpg)
 
 Bali, one of the world's most popular tourist destinations, attracts countless travelers each year to explore its unique natural beauty and cultural charm. In 2025, Bali welcomes a brand-new four-star luxury hotel—**voco Bali Seminyak**—offering travelers a fresh vacation option. This hotel is a collaboration between Indonesia's renowned **Mayapada Group** and global hospitality giant **IHG Hotels & Resorts**, marking the first voco-branded property in Indonesia and delivering a distinctive stay experience.
 
@@ -37,13 +37,13 @@ Bali, one of the world's most popular tourist destinations, attracts countless t
 
 voco is IHG's fastest-growing luxury hotel brand, known for its unique design, thoughtful service, and commitment to sustainability. voco Bali Seminyak upholds this brand philosophy, offering travelers a high-quality stay. The hotel features **162 rooms** that blend modern design with traditional Balinese elements, with a strong focus on environmental sustainability, allowing guests to enjoy luxury while contributing to the planet.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3f1a125fae466831ced7da24a07703a7.jpg)
+![About the voco Brand](https://images.gobaligo.id/vocus/vocus_3f1a125fae466831ced7da24a07703a7.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e1d2e9ee0f77f77c6f5af6706cef4b64.jpg)
+![About the voco Brand](https://images.gobaligo.id/vocus/vocus_e1d2e9ee0f77f77c6f5af6706cef4b64.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e554aecf583bfb1f6bd7e652f122ae08.jpg)
+![About the voco Brand](https://images.gobaligo.id/vocus/vocus_e554aecf583bfb1f6bd7e652f122ae08.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fb90abf39086a64849abbc575fae96f7.jpg)
+![About the voco Brand](https://images.gobaligo.id/vocus/vocus_fb90abf39086a64849abbc575fae96f7.jpg)
 
 ## Hotel Facilities and Services
 
@@ -54,11 +54,11 @@ voco Bali Seminyak not only provides comfortable accommodations but also boasts 
 - **Fitness Club**: Helping guests maintain a healthy lifestyle during their stay.
 - **Swimming Pool**: Allowing guests to relax under the sun and enjoy Bali's tropical vibe.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bebc6d292929835b582f75f2f4c9e2c8.jpg)
+![Hotel Facilities and Services](https://images.gobaligo.id/vocus/vocus_bebc6d292929835b582f75f2f4c9e2c8.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7e26b7ad7f70214ebc0564c722e50a51.jpg)
+![Hotel Facilities and Services](https://images.gobaligo.id/vocus/vocus_7e26b7ad7f70214ebc0564c722e50a51.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd28c38150095846deaf31a9f191f240.jpg)
+![Hotel Facilities and Services](https://images.gobaligo.id/vocus/vocus_fd28c38150095846deaf31a9f191f240.jpg)
 
 ## Prime Location
 
@@ -76,7 +76,7 @@ The opening of voco Bali Seminyak injects new vitality into Bali's tourism indus
 
 ## More Seminyak Dining and Entertainment Recommendations
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_366287b60b610bfff45aea753d91ba55.jpg)
+![More Seminyak Dining and Entertainment Recommendations](https://images.gobaligo.id/vocus/vocus_366287b60b610bfff45aea753d91ba55.jpg)
 
 [Complete Seminyak Guide](/blog/seminyak-guide/)
 

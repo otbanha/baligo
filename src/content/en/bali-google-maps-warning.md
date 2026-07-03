@@ -21,7 +21,7 @@ _srcHash: a63f35179568388e9a1b4105d94f32ea
 
 Don't trust Google Maps in Bali! Bali is a dream vacation destination, but for tourists relying on Google Maps to navigate, there might be some challenges. Here are two main reasons why you should be cautious when planning your trip using Google Maps.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e7754da22cf1ad2b6561b833de1a9148.png)
+![Don't trust Google Maps in Bali!](https://images.gobaligo.id/vocus/vocus_e7754da22cf1ad2b6561b833de1a9148.png)
 
 First, Google Maps might display incorrect routes. Although Google Maps is a powerful navigation tool, in places like Bali, it can sometimes show inaccurate directions or lead you into alleys that even motorcycles can't pass through. This could be due to incomplete geographic information or changes in road construction. Therefore, when using Google Maps in Bali, it's best to treat it as a reference rather than absolute reliance.
 

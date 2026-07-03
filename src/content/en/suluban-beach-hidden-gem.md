@@ -17,7 +17,7 @@ lang: en
 _srcHash: cc7ca0785bff625024d2be546dbc3fc4
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_67d2227cd36ea55fc95a50075a79269e.jpg)
+![Bali Suluban Beach Guide: Exploring the Beauty of a Hidden G](https://images.gobaligo.id/vocus/vocus_67d2227cd36ea55fc95a50075a79269e.jpg)
 
 Suluban Beach, also known as "Blue Point Beach," is tucked away in Bali's Bukit Peninsula, a uniquely charming secret beach. Here, you'll find stunning sea caves and limestone cliffs, making it a paradise for surfers. If you're looking to escape the crowds, Suluban Beach is undoubtedly one of Bali's most distinctive and mysterious destinations.
 
@@ -40,7 +40,7 @@ Suluban Beach is located in the southern part of Bukit Peninsula, about an hour'
 
 Upon arrival, follow the stone steps downhill for about a 10-minute walk to reach the beach, passing by shops and stalls, as well as tunnel-like rock crevices. This journey is full of adventure, so wear comfortable shoes.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_63c0e1a5864ec860eb6a163497554cb2.jpg)
+![1. How to Get to Suluban Beach](https://images.gobaligo.id/vocus/vocus_63c0e1a5864ec860eb6a163497554cb2.jpg)
 
 ***
 
@@ -48,7 +48,7 @@ Upon arrival, follow the stone steps downhill for about a 10-minute walk to reac
 
 The best time to visit Suluban Beach is during the dry season (May to October), when the sun is abundant and the waves are stable, making it perfect for enjoying the scenery and surfing. Additionally, it's recommended to visit in the morning to avoid the crowded beach in the afternoon.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c69315ce69c0a6c8aeb911ea549cdd0a.jpg)
+![2. Best Time to Visit](https://images.gobaligo.id/vocus/vocus_c69315ce69c0a6c8aeb911ea549cdd0a.jpg)
 
 ## Main Activities
 
@@ -71,7 +71,7 @@ Single Fin Cliff Bar
 
 ## Nearby Attractions
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_22c54e6ac54cee9b7bf8f153026a7785.png)
+![Nearby Attractions](https://images.gobaligo.id/vocus/vocus_22c54e6ac54cee9b7bf8f153026a7785.png)
 
 What are the fun activities and good eats around the Bukit Peninsula where Suluban Beach is located? Check out [our guide](/blog/bukit-peninsula-guide/)
 

@@ -20,7 +20,7 @@ lang: id
 _srcHash: 4fbaa81c1277fc5d38166b9e1b8b00c3
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b3582d4ed8018cd3a3f48a267d13304.png)
+![Panduan Liburan ke Bali: Tips dari Traveler Berpengalaman](https://images.gobaligo.id/vocus/vocus_0b3582d4ed8018cd3a3f48a267d13304.png)
 
 Bali, tanah yang indah banget, selalu menarik wisatawan dari seluruh dunia. Di grup Facebook kita, ada [Chihming Lai](https://www.facebook.com/profile.php?id=100008235455950) — bukan travel agent atau pegawai biro perjalanan, tapi setiap enam bulan pasti sengaja ke Bali buat relaksasi, nikmatin sinar matahari, bir, pantai, dan bikini. Buat dia, suasana slow living yang khas Bali adalah daya tarik utamanya. Ini dia pengalaman traveling dan tips praktis yang dengan senang hati dia bagikan.
 
@@ -38,7 +38,7 @@ Soal **pajak turis**, dia bilang terserah masing-masing mau bayar atau enggak. S
 
 ## **Setelah Tiba di Bali:**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e13870a67da8a8539a2df155af5a63e5.jpg)
+![Setelah Tiba di Bali:](https://images.gobaligo.id/vocus/vocus_e13870a67da8a8539a2df155af5a63e5.jpg)
 
 1. Jangan bikin jadwal terlalu padat, soalnya kalau cuma buru-buru terus pergi, mending pelan-pelan aja. Nikmati slow living di sini dengan hati yang happy, jalan-jalan tanpa tujuan, minum es segar, biar jiwa dan pikiran bisa recharge.
 2. Sekarang Bali lumayan lebih tenang, setidaknya pantai-pantainya juga udah jauh lebih bersih dari polusi.
@@ -53,14 +53,14 @@ Soal **pajak turis**, dia bilang terserah masing-masing mau bayar atau enggak. S
 3. Dia sendiri selalu backpacker, nggak nginep di hotel,全程 nginep di Villa tanpa pindah. Biaya 10 hari di Villa kira-kira setara harga hotel di Taiwan 5 hari 4 malam. Backpacker lebih fleksibel, nggak perlu terpaku paket tur.
 4. Masalah bahasa sebenarnya nggak perlu terlalu khawatir, senyum ramah itu cara komunikasi terbaik. Lagian, bisa juga pakai HP sebagai alat bantu translate.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f7dd250215384c6cd1e0e21abaea3b3.jpg)
+![Saran Akomodasi & Rencana Perjalanan:](https://images.gobaligo.id/vocus/vocus_4f7dd250215384c6cd1e0e21abaea3b3.jpg)
 
 
 ## **Penutup:**
 
 Terakhir, traveler yang sering bolak-balik Bali ini berharap bisa sharing pengalaman di grup, jawab pertanyaan, dan kasih info traveling yang berguna, karena dia bener-bener 'jatuh cinta' sama tanah ini dan budaya slow living-nya yang khas.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Penutup:](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Klik di sini untuk lihat lebih banyak cerita seru dari Bali
 

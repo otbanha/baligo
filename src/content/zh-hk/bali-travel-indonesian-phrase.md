@@ -18,7 +18,7 @@ lang: zh-hk
 _srcHash: 64c57f2ec05132c594910d48e40a1697
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1a3b754a96b4f0e921c41865215e967b.png)
+![峇里島旅遊必學：最地道嘅一句萬用印尼話](https://images.gobaligo.id/vocus/vocus_1a3b754a96b4f0e921c41865215e967b.png)
 
 預訂、慳錢就要睇呢度：
 
@@ -28,7 +28,7 @@ _srcHash: 64c57f2ec05132c594910d48e40a1697
 
 對於去峇里島短期旅行嘅旅客嚟講，學一啲簡單嘅印尼話係好有必要嘅，因為咁樣可以幫你同當地人更加親近，避免尷尬情況發生。而呢啲印尼話當中，最必須要學、亦係用得最多嘅就係「多謝」（Terima kasih）。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1f891a42530fb2762a08646fe2f6600.png)
+![峇里島旅遊必學：最地道嘅一句萬用印尼話](https://images.gobaligo.id/vocus/vocus_a1f891a42530fb2762a08646fe2f6600.png)
 
 喺旅行過程中，你可能會遇到需要表達感謝嘅情況，無論係受到當地人嘅幫助、享受到美食嘅味道，定係購物時得到友善嘅服務。用上「多謝」呢句印尼話，唔單止可以令你顯得更加有禮貌，亦可以令當地人感受到你嘅尊重同善意。
 

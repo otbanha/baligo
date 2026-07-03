@@ -22,7 +22,7 @@ _srcHash: 7e0b102882345880650a1fc5416eb061
 
 ## **Rainy Season Trash Wave Hits Bali Again, Beaches Turn Into Dumps!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7a30c67de4958f26b5fb7805f41de3f3.jpg)
+![Rainy Season Trash Wave Hits Bali Again, Beaches Turn Into D](https://images.gobaligo.id/vocus/vocus_7a30c67de4958f26b5fb7805f41de3f3.jpg)
 
 ### **Jimbaran Beach Piled with Trash, Shocking Scenes**
 
@@ -97,7 +97,7 @@ Individuals can contribute by reducing the use of single-use plastics, supportin
 
 ## 📩 **Join the "Bali Travel Guide" Now and Become a Bali Travel Expert!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Join the "Bali Travel Guide" Now and Become a Bali Travel Ex](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **By subscribing for free, you'll get:**
 

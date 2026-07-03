@@ -119,7 +119,7 @@ _srcHash: 0e179b48ec8168583b01f690f28ab641
 **31.新加坡 🇸🇬**  
 日均开销：US$79.40
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17fc1009e3a69c8af92bc8d5c09fdbd2.jpg)
+![高价位城市（21-31）：](https://images.gobaligo.id/vocus/vocus_17fc1009e3a69c8af92bc8d5c09fdbd2.jpg)
 
 - **亮点**：亚洲最现代化的城市之一，干净有序、交通便捷，但消费相对较高。
 - **必访景点**：环球影城、滨海湾花园，以及鱼尾狮公园。

@@ -30,7 +30,7 @@ _srcHash: 801c91e2ec4352fd7f96f0b041beca37
 
 Bali is one of the most popular group travel destinations in Asia, but planning a trip for groups of 10 or more people involves numerous hidden challenges, from itinerary arrangements to handling unexpected situations. Below are five common challenges when organizing group trips for 10+ people, and how professional travel agencies can help resolve these issues to create a perfect journey.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f185d21cca0ea1179fff3e7a15c7aad9.png)
+![Challenges and Solutions for Group Travel in Bali with 10+ P](https://images.gobaligo.id/vocus/vocus_f185d21cca0ea1179fff3e7a15c7aad9.png)
 
 ## 5 Major Challenges for Group Travel with 10+ People
 
@@ -58,7 +58,7 @@ Large group tours often rely on the main planner for itinerary coordination and 
 
 Facing the above challenges, isBali Travel Agency, with over a decade of experience and local resources in the Bali tourism market, offers one-stop solutions specifically designed for groups of 10 or more to ensure a smooth experience:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_81e1c944afa9687db6a693da1de31ab9.png)
+![Professional Solution: Seamless Services from Travel Agencie](https://images.gobaligo.id/vocus/vocus_81e1c944afa9687db6a693da1de31ab9.png)
 
 - Customized itinerary design: Through pre-trip communication, accurately grasp member preferences, combining Bali's hidden gems and classic attractions to design flexible group itineraries.
 - Carefully selected local resources: Partnered fleets with experienced drivers and Chinese-speaking guides, handpicked hotels and villas with comprehensive accessibility facilities.

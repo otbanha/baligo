@@ -43,7 +43,7 @@ Di Bali, kita pilih beli kartu internet lokal. Di daerah Kuta dan Uluwatu, kartu
 
 ## Belanja
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9371bedd3a56431bbff7098c149f4960.png)
+![Belanja](https://images.gobaligo.id/vocus/vocus_9371bedd3a56431bbff7098c149f4960.png)
 
 Belanja di Bali butuh skill nawar yang mumpuni. Biasanya, kamu bisa mulai nawar dari setengah harga yang tertera, dan harga akhir biasanya sekitar 30-40% dari harga awal. Di daerah Ubud, harga relatif lebih bersahabat dan pilihannya juga banyak. Barang yang sama, di Kuta biasanya bisa 2-3 kali lebih mahal daripada di Ubud. Makanya, milih tempat belanja itu penting banget.
 
@@ -91,15 +91,15 @@ Spot kedua adalah **Tembeling Beach and Forest**, di sini lebih sepi, cocok bang
 
 Kami di Ubud nginep 5 hari, terus 3 hari berikutnya naik ke gunung buat istirahat. Rekomendasi民宿 bernama **Aurora Cabins by Panoramika**. Ini tempat nginep yang ratingnya tinggi banget. Pondoknya ada di ketinggian hampir 900m, sebelahan sama perkebunan kopi, menghadap ke timur — cara yang pas banget buat ngerasain hidup di pegunungan. Sunrise dari sini keren abis. Jauh di sana keliatan Gunung Agung, di kiri ada Gunung Batur. Kamarnya cozy, nyaman, dan fasilitas lengkap. Beneran spesial.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835335305-534082675.jpg)
+![Rekomendasi Penginapan Paling Unik Selama Perjalanan](https://images.gobaligo.id/images/2026-06/1780835335305-534082675.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835335716-534106131.jpg)
+![Rekomendasi Penginapan Paling Unik Selama Perjalanan](https://images.gobaligo.id/images/2026-06/1780835335716-534106131.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835336248-534088602.jpg)
+![Rekomendasi Penginapan Paling Unik Selama Perjalanan](https://images.gobaligo.id/images/2026-06/1780835336248-534088602.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835336603-534068339.jpg)
+![Rekomendasi Penginapan Paling Unik Selama Perjalanan](https://images.gobaligo.id/images/2026-06/1780835336603-534068339.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835336978-534062217.jpg)
+![Rekomendasi Penginapan Paling Unik Selama Perjalanan](https://images.gobaligo.id/images/2026-06/1780835336978-534062217.jpg)
 
 [**▶Link booking Aurora Cabins by Panoramika**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47466423)
 

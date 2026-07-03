@@ -57,7 +57,7 @@ Artinya, meskipun cuma hujan 1 menit dalam sehari, ikon cuacanya tetap pakai pet
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_de7cab4b2e1639fa6a19b826f78c172b.jpg)
+![Mitos 2: Setiap hari tulis 'hujan petir', berarti setiap har](https://images.gobaligo.id/vocus/vocus_de7cab4b2e1639fa6a19b826f78c172b.jpg)
 
 ## 📸 Tips: Manfaatin timeline ramalan cuaca
 
@@ -88,6 +88,6 @@ Cuaca di Bali itu cepat banget berubahnya, ramalan dari aplikasi HP seringkali t
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_09e4e66f29ac27a468ecc350cf0c839d.png)
+![Intinya: Jangan panik lihat ikon cuaca doang!](https://images.gobaligo.id/vocus/vocus_09e4e66f29ac27a468ecc350cf0c839d.png)
 
 Kalau kamu khawatir hujan bakal ganggu rencana, langsung aja simpan 【[60 Rekomendasi Tempat Wisata Alternatif Saat Hujan](/blog/2026-bali-indoor-activities/)】, wajib bookmark!

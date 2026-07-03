@@ -76,7 +76,7 @@ When you enter the supermarket, what should you grab? According to [J Indonesia]
 
 ### 🍪 Snacks, Souvenirs, and Instant Noodles
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779190258001-78dbd5473ae771c1f842dd0b00c2319e.jpg)
+![Snacks, Souvenirs, and Instant Noodles](https://images.gobaligo.id/images/2026-05/1779190258001-78dbd5473ae771c1f842dd0b00c2319e.jpg)
 
 - **Kusuka Cassava Chips (Singkong):** Indonesian snacks are world-famous! These cassava chips have a better texture than potato chips, are rich in fiber, and have only 60% of the calories. A must-buy for chip lovers watching their weight.
 - **Nut-Based Souvenirs:**
@@ -95,7 +95,7 @@ When you enter the supermarket, what should you grab? According to [J Indonesia]
 - **Teh Botol Bottled Tea:** Known as "Indonesia's Coca-Cola," it's made from natural green tea, jasmine, water, and sugar, with no preservatives and high in catechins.
 - **Luwak White Koffie:** Bottled coffee is convenient and cheap (Nestlé aluminum packs cost around USD$0.30), and this white coffee is highly recommended.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779190305398-_2026-05-19_18.24.28.png)
+![Coffee, Tea, and Alcoholic Drinks](https://images.gobaligo.id/images/2026-05/1779190305398-_2026-05-19_18.24.28.png)
 
 ### 🥑 Bali Specialty Fruits
 
@@ -110,7 +110,7 @@ When you enter the supermarket, what should you grab? According to [J Indonesia]
 
 When visiting large supermarkets (like Bintang Supermarket), you'll often find dedicated sections for clothing, toys, and souvenirs. Here, you can purchase tropical vacation wear, accessories, bikinis, and Bali-themed souvenirs. The advantage of buying souvenirs at supermarkets is that **haggling is neither required nor allowed**, making it a transparent and stress-free shopping experience for travelers who aren't comfortable negotiating!
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779190670051-mixcollage-19-may-2026-06-26-pm-7181.jpg)
+![Hidden Gem: Clothing and Souvenirs Without Haggling](https://images.gobaligo.id/images/2026-05/1779190670051-mixcollage-19-may-2026-06-26-pm-7181.jpg)
 
 **Important Reminder: Bring Your Own Shopping Bag:** To promote environmental protection, Bali has implemented a **complete ban on plastic bags** in supermarkets and stores. Remember to carry a reusable bag when you go shopping!
 

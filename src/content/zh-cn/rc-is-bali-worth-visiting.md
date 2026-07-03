@@ -45,7 +45,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 ## 衣服怎么带？巴厘岛不只有夏天感 🌤️
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780113888602-773697685317409029.png)
+![衣服怎么带？巴厘岛不只有夏天感](https://images.gobaligo.id/images/2026-05/1780113888602-773697685317409029.png)
 
 虽然巴厘岛大部分时间都很热，但我还是很建议一定要带一件薄外套或秋装外套。
 
@@ -207,7 +207,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 ## 信用卡要不要刷？💳
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_832db431875e09d43fff04ac9260f412.jpg)
+![信用卡要不要刷？](https://images.gobaligo.id/vocus/vocus_832db431875e09d43fff04ac9260f412.jpg)
 
 关于信用卡这件事，我自己其实偏保守。
 
@@ -260,13 +260,13 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 尤其巴厘岛很多别墅都非常有度假感，晚上回房间泡泳池、躺发呆，真的会有种「这价格是真的吗？」的感觉。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780114462274-710079305_27672521962408667_6924101564756584708_n.jpg)
+![1｜住宿 CP 值真的很高](https://images.gobaligo.id/images/2026-05/1780114462274-710079305_27672521962408667_6924101564756584708_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780114465997-709844031_27672522442408619_5599951080656028313_n.jpg)
+![1｜住宿 CP 值真的很高](https://images.gobaligo.id/images/2026-05/1780114465997-709844031_27672522442408619_5599951080656028313_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780114466457-708979531_27672522732408590_7580802711457911215_n.jpg)
+![1｜住宿 CP 值真的很高](https://images.gobaligo.id/images/2026-05/1780114466457-708979531_27672522732408590_7580802711457911215_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780114466879-709266529_27672523185741878_3244504790469808433_n.jpg)
+![1｜住宿 CP 值真的很高](https://images.gobaligo.id/images/2026-05/1780114466879-709266529_27672523185741878_3244504790469808433_n.jpg)
 
 这次我们住了一间感觉非常棒的精品小型旅馆。详细介绍：[Dune Seseh 坎古旁最新秘境美学公寓 极简野奢](https://gobaligo.id/blog/dune-seseh/)
 
@@ -486,7 +486,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 ## 12｜便利店很多 🏪
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779190670051-mixcollage-19-may-2026-06-26-pm-7181.jpg)
+![12｜便利店很多](https://images.gobaligo.id/images/2026-05/1779190670051-mixcollage-19-may-2026-06-26-pm-7181.jpg)
 
 这点其实很加分。
 

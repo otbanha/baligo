@@ -31,30 +31,30 @@ _srcHash: 7f46fb21bb0b811605560ef1b0a00bb5
 
 Di ujung selatan Bali, di Semenanjung Bukit, Uluwatu terkenal dengan tebing-tebing dramatis dan matahari terbenamnya. Tersembunyi di dekat Pantai Balangan, **La Cabane Bali** adalah 'basecamp rahasia' impian banyak traveler. Tempat ini memadukan nuansa alami dengan romantisme ala Prancis. Meski kecil, karena desainnya yang apik dan suasananya yang privat, hampir setiap kamar susah didapatkan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9036268dd9f2a94a513b236b0a39a4cd.jpg)
+![Rekomendasi Penginapan di Uluwatu, Bali: Surga Kecil La Caba](https://images.gobaligo.id/vocus/vocus_9036268dd9f2a94a513b236b0a39a4cd.jpg)
 
 
 ## Lokasi dan Suasana La Cabane
 
 La Cabane Bali terletak dengan tenang di dekat Pantai Balangan, Jimbaran/Uluwatu, hanya beberapa menit jalan kaki ke pantai. Pemiliknya, Céline, adalah seorang wanita asal Prancis. Awalnya hanya ada dua pondok bambu, kini berkembang menjadi lima pondok ramah lingkungan dan satu vila tiga kamar dengan kolam renang pribadi. Tempat ini tidak seramai resor, melainkan sudut penyembuhan yang benar-benar membuatmu bisa mendengar angin laut dan mencium aroma bunga dan tanaman.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_94c34e5e9e8220356f7b90bdc60cf4d5.jpg)
+![Lokasi dan Suasana La Cabane](https://images.gobaligo.id/vocus/vocus_94c34e5e9e8220356f7b90bdc60cf4d5.jpg)
 
 
 ## Pilihan Tipe Kamar: Setiap Kamar Punya Cerita
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360714959-ebcae29f.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360715349-8d2fcacf.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360716124-80a34a53.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360716563-1764f038.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360716987-528803b2.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360717623-9524784c.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360718003-190950996.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360718401-190952333.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360718790-190952534.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360719156-c43198d4.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360719564-cbccf54e.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360720070-e86d22fb.jpeg)
+![Pilihan Tipe Kamar: Setiap Kamar Punya Cerita](https://images.gobaligo.id/images/2026-03/1774360714959-ebcae29f.jpeg)
+![Pilihan Tipe Kamar: Setiap Kamar Punya Cerita](https://images.gobaligo.id/images/2026-03/1774360715349-8d2fcacf.jpeg)
+![Pilihan Tipe Kamar: Setiap Kamar Punya Cerita](https://images.gobaligo.id/images/2026-03/1774360716124-80a34a53.jpeg)
+![Pilihan Tipe Kamar: Setiap Kamar Punya Cerita](https://images.gobaligo.id/images/2026-03/1774360716563-1764f038.jpeg)
+![Pilihan Tipe Kamar: Setiap Kamar Punya Cerita](https://images.gobaligo.id/images/2026-03/1774360716987-528803b2.jpeg)
+![Pilihan Tipe Kamar: Setiap Kamar Punya Cerita](https://images.gobaligo.id/images/2026-03/1774360717623-9524784c.jpeg)
+![Pilihan Tipe Kamar: Setiap Kamar Punya Cerita](https://images.gobaligo.id/images/2026-03/1774360718003-190950996.jpg)
+![Pilihan Tipe Kamar: Setiap Kamar Punya Cerita](https://images.gobaligo.id/images/2026-03/1774360718401-190952333.jpg)
+![Pilihan Tipe Kamar: Setiap Kamar Punya Cerita](https://images.gobaligo.id/images/2026-03/1774360718790-190952534.jpg)
+![Pilihan Tipe Kamar: Setiap Kamar Punya Cerita](https://images.gobaligo.id/images/2026-03/1774360719156-c43198d4.jpeg)
+![Pilihan Tipe Kamar: Setiap Kamar Punya Cerita](https://images.gobaligo.id/images/2026-03/1774360719564-cbccf54e.jpeg)
+![Pilihan Tipe Kamar: Setiap Kamar Punya Cerita](https://images.gobaligo.id/images/2026-03/1774360720070-e86d22fb.jpeg)
 
 Meskipun jumlah kamar di La Cabane tidak banyak, setiap kamar dirancang dengan penuh pemikiran, memberikan pengalaman yang berbeda:
 
@@ -76,7 +76,7 @@ Setiap pondok dibangun dengan bambu, kayu, dan material alami, memadukan elemen 
 
 Harus diingat ya, **La Cabane karena ukurannya kecil dan sangat populer, kamarnya susah banget dipesan**. Seringkali di musim ramai sudah penuh berbulan-bulan sebelumnya, bahkan di musim sepi pun sering perlu rencana jauh-jauh hari. Banyak traveler bahkan sengaja menyesuaikan jadwal cuma buat nginep semalam di sini. Kalau kamu beneran tertarik, saran langsung booking begitu tanggal perjalanan udah pasti, kalau nggak gampang kelewatan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a7fad39fd768dd0fe98ce735fb73a22.jpg)
+![Super Populer, Susah Banget Dipesan](https://images.gobaligo.id/vocus/vocus_9a7fad39fd768dd0fe98ce735fb73a22.jpg)
 
 [**▶Cek Ketersediaan Kamar & Harga La Cabane**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=822795) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=10627469&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6z8TFJMEkdYOJ49_WowuYhJgNDYw07rMZPGC02Crv2Po6cIecc4eD5zeNmP5DN3sdAngiphx4Po098aZtZcSKg4EOXYysYIEZjL2XO1hXMDJuZDz8Fag4Ks1hByPTAUamE4y3lRYwPZw9VewUCzPHfrZLLLsYo6uVslMrlaxMdJRKMktyUpWslJ4umve0Yc_zFa1KOkopqcXJQCEgKzE3vzSvBMi2MDbUMzAAipQkVnimgHUmJ-Ykl-YklqSGVBYATTDSUcosdi4pyiwISs3NLClJBapKS8wpTgWJB6UWA2WSwYIgc4ug_Mz8PIhuAxSxsMSc0lSISqB9bqlQKwxrYx-xMEXHvmC5z_aJheEXC0MTK0MXKzPHKaZJQPK20i5WXm9j3yATD13DEN0oXcMLrE9VpeQNDQwMTA2NTU11DRItE80sDU10TSxNjMwsdY2NLIyMNP61X7n6xNjIWgoSkgqMWoLxIZ6eLoYlhalmhaWWOUUFpgaMpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPY3AwtTcyMo2y4mEODXQS9T7DbzjaVdpBiDgl3UbSX7Zdc0XPaXgskZwiTC9zzOueEvfEC-8jS1c-XfO89bZ_EWpWhGxKecVysgLGBkamLkVuA0YMxgrGCyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQAi9qwDksCAAA&masterhotelid_tracelogid=100051355-0a9a6914-494269-32822&detailFilters=17|1~17~1*31|10627469~31~10627469*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=416&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/wKgXBxsN)
 
@@ -94,7 +94,7 @@ Nginep di La Cabane, nggak usah khawatir bakal bosen:
 
 ### Lebih Banyak Info Wisata & Kuliner di Uluwatu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
+![Lebih Banyak Info Wisata & Kuliner di Uluwatu](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
 Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal dengan tebing-tebing dramatis, pantai yang memesona, dan spot surfing yang kece. Suasananya penuh romantisme tropis, cocok banget buat nikmatin sunset dan waktu santai. Kalau kamu juga mau nginep di Uluwatu, bisa cek referensi wisata dan kuliner yang udah kami rangkum biar perjalananmu makin seru: [【Panduan Uluwatu】Rekomendasi Tempat Wisata & Kuliner di Uluwatu](/blog/uluwatu-guide/)
 
@@ -106,7 +106,7 @@ Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal denga
 * **Harga**: Rata-rata sekitar USD$241 per malam, agak mahal sih, tapi sebanding sama privasi dan pengalamannya.
 * **Transportasi**: Jarak dari bandara sekitar 30 menit, saran atur jemputan dari awal.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_251f3c5625de9563344a31e68821f4fa.jpg)
+![Tips & Informasi](https://images.gobaligo.id/vocus/vocus_251f3c5625de9563344a31e68821f4fa.jpg)
 
 ## Penutup
 

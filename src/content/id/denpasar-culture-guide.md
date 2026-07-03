@@ -47,13 +47,13 @@ Menurut [penilaian Euromonitor International](https://www.forbes.com/sites/laura
 
 ### **Pasar Badung (Badung Market)**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774614720760-badung_market.jpg)
+![Pasar Badung (Badung Market)](https://images.gobaligo.id/images/2026-03/1774614720760-badung_market.jpg)
 
 Terletak di pusat kota, Pasar Badung adalah salah satu pasar tradisional terbesar dan tertua di Bali. Tempat ini bukan cuma jadi lokasi belanja sehari-hari warga lokal, tapi juga spot kece buat kamu yang pengin merasakan atmosfer keseharian Bali. Di seberang pasar, ada Pura Desa — salah satu pura Hindu terpenting di Bali.
 
 ### **Pasar Kumbasari**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774614765807-kumbasari.jpg)
+![Pasar Kumbasari](https://images.gobaligo.id/images/2026-03/1774614765807-kumbasari.jpg)
 
 Cuma beda satu jalan dari Pasar Badung, Pasar Kumbasari adalah tempat paling oke buat belanja kerajinan tangan tradisional Bali dan oleh-oleh. Di sini juga jadi tempat warga lokal beli perlengkapan upacara keagamaan, suasananya kental banget sama budaya.
 
@@ -65,13 +65,13 @@ Monumen ini ada di dalam Taman Puputan Renon, Denpasar. Dibangun untuk mengenang
 
 Di dalam museum ini tersimpan banyak koleksi artefak sejarah Bali, pakaian adat, dan naskah kuno. Tempat ini wajib kamu kunjungi kalau pengin lebih paham budaya dan sejarah Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f66647194cd9d3240f658a876a9ce7b7.jpg)
+![Museum Bali](https://images.gobaligo.id/vocus/vocus_f66647194cd9d3240f658a876a9ce7b7.jpg)
 
 ### **Pura Jagatnatha**
 
 Ini adalah pura Hindu paling penting di Denpasar, tempat pemujaan Sang Hyang Widhi Wasa — Tuhan tertinggi dalam agama Hindu Bali. Arsitektur pura ini unik banget dan penuh nuansa religius.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_36179fe2bb08dd9d6f7150e83ae45bc8.jpg)
+![Pura Jagatnatha](https://images.gobaligo.id/vocus/vocus_36179fe2bb08dd9d6f7150e83ae45bc8.jpg)
 
 ### **Taman Tukad Korea (Taman Sungai Korea)**
 
@@ -106,7 +106,7 @@ Pura Taman Ayun memadukan keindahan alam dan kekayaan budaya, tempat yang wajib 
 
 ### Living World Denpasar
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774615058614-living_world_denpasar.jpg)
+![Living World Denpasar](https://images.gobaligo.id/images/2026-03/1774615058614-living_world_denpasar.jpg)
 
 Living World Denpasar adalah pusat perbelanjaan terbaru di Denpasar, Bali, yang menggabungkan fashion, hiburan, dan kuliner, menjadikannya tempat favorit bagi warga lokal dan wisatawan. Di sini ada toko-toko brand internasional dan lokal, bioskop modern, serta pilihan makanan yang beragam, dari masakan khas Bali hingga hidangan internasional. Desain mal-nya luas dan terang, dengan sentuhan elemen tradisional Bali, bikin pengalaman belanja jadi nyaman banget. Mau jalan-jalan belanja, menikmati makanan enak, atau quality time sama keluarga dan teman, Living World Denpasar adalah destinasi modern yang wajib kamu kunjungi di Denpasar!
 
@@ -128,7 +128,7 @@ Kepala Dinas Pariwisata Denpasar, Ni Luh Putu Riyastiti, bilang kalau target Den
 
 ## Festival Seni Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e2ab81ce50be7b72a8e74be0512b7aef.png)
+![Festival Seni Bali](https://images.gobaligo.id/vocus/vocus_e2ab81ce50be7b72a8e74be0512b7aef.png)
 
 Festival Seni Bali yang digelar setiap pertengahan Juni hingga pertengahan Juli adalah salah satu acara budaya paling penting di Denpasar. Festival ini terkenal dengan parade pembukaan yang megah, di mana ribuan penari dan seniman ikut serta, menampilkan seni tradisional, musik, dan tari khas Bali. Tempat utama festival ini adalah Pusat Seni Taman Werdhi Budaya yang terletak di pusat kota Denpasar—pengalaman budaya yang sayang banget kalau kamu lewatkan.
 

@@ -42,7 +42,7 @@ At this point, my husband was reaching for his wallet to show our bills. However
 
 Afterwards, I realized this was likely a scam technique. This 'show your currency' approach is typically used to lower tourists' guard, distract them, and potentially allow scammers to 'exchange' or 'steal' travelers' money. While we managed to prevent the scam this time, this experience reminded my family and me to stay vigilant while traveling, no matter how relaxing the environment may seem.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a5e5250780fcc77664a9ee525e8da9fb.png)
+![Tips to Avoid Scams](https://images.gobaligo.id/vocus/vocus_a5e5250780fcc77664a9ee525e8da9fb.png)
 
 This is actually a long-standing scam, and the perpetrators might even be well-dressed, attractive individuals who lower your guard. In such scams, the tricksters often use distraction techniques to achieve their goals. They might make requests like 'Let’s see the currency of your country,' which relaxes the victim and prompts them to open their wallet. Once the victim displays their bills or starts rummaging through their wallet, the scammer moves closer, observes the location of the cash, or even pretends to be friendly by reaching out to touch it. This allows them to perform subtle actions, such as quickly grabbing a few bills.
 
@@ -59,7 +59,7 @@ To ensure a safer trip to Bali, here are some tips:
 5. **These scenarios can happen anywhere**: While we encountered these scammers on the beach, they could appear anywhere in Bali!
 6. **Watch out for male-female pairs**: Many of these scams involve a male-female duo.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc163f9a5759d0b79c361d1cbcee0546.png)
+![Tips to Avoid Scams](https://images.gobaligo.id/vocus/vocus_bc163f9a5759d0b79c361d1cbcee0546.png)
 
 Bali’s stunning scenery and vibrant culture are undoubtedly captivating, but staying alert during your trip won’t diminish the fun—it will actually help you enjoy every moment more securely. I hope my experience offers some insights into staying safe during your Bali journey, helping everyone avoid these common travel traps!
 

@@ -22,7 +22,7 @@ _srcHash: c9707a60351b75d6f4ba86b512dc0bb6
 
 Baru-baru ini, proyek lift kaca setinggi 182 meter di tebing Nusa Penida menarik perhatian luas. Proyek ini nggak cuma mengubah pemandangan lokal, tapi juga memicu perdebatan seru di kalangan komunitas setempat dan wisatawan. Artikel ini bakal ngebahas tuntas latar belakang, desain, dampak ekonomi, dan kekhawatiran lingkungan dari proyek kontroversial ini.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_505b89f8f349d60e5f1110515d942a6d.jpg)
+![Pembangunan lift tebing di Nusa Penida sudah dimulai!](https://images.gobaligo.id/vocus/vocus_505b89f8f349d60e5f1110515d942a6d.jpg)
 
 ## Latar Belakang Proyek Lift Tebing Nusa Penida
 
@@ -64,7 +64,7 @@ Kelompok lingkungan dan banyak warga lokal khawatir proyek ini bisa menyebabkan 
 
 Kejadian longsor konstruksi di Pantai Pemutih Peactu, Uluwatu baru-baru ini bikin orang makin khawatir proyek lift tebing Nusa Penida bisa mengalami masalah serupa.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4d35f44916ca506e943964111b19c803.png)
+![Contoh Kasus Bencana Lingkungan Beberapa Tahun Terakhir](https://images.gobaligo.id/vocus/vocus_4d35f44916ca506e943964111b19c803.png)
 
 ## Mulainya Proyek dan Rencana ke Depan
 
@@ -116,7 +116,7 @@ Belakangan ini, di dekat Pantai Kelingking juga mulai ada proyek pembangunan per
 
 Izin bangun perumahan ini pertama kali diajukan pada 2019, dan sekarang sudah dilakukan pembersihan lahan serta penataan awal, siap untuk peletakan batu pertama dalam beberapa minggu ke depan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_38f5ba2458d5fa1a83c47e5e7b6acca0.jpg)
+![Izin Pembangunan dan Penggunaan Lahan](https://images.gobaligo.id/vocus/vocus_38f5ba2458d5fa1a83c47e5e7b6acca0.jpg)
 
 ## Kesimpulan
 

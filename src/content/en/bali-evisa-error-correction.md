@@ -19,7 +19,7 @@ lang: en
 _srcHash: 266394f3096e0a18feabb33af1a471f0
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5560b9a7da5290e0882e25695ee01bd2.png)
+![Indonesia/Bali E-Visa Application Mishap: How to Correct Err](https://images.gobaligo.id/vocus/vocus_5560b9a7da5290e0882e25695ee01bd2.png)
 
 Recently, a group member named Mike Chiu encountered some issues while applying for an Indonesia e-Visa (e-VOA). He sought advice in our Facebook group. Mike mentioned that he correctly entered his place of birth as "TAIWAN" during the application process and had double-checked the accuracy of his input. However, when he received the final e-Visa, he noticed that his place of birth was displayed as "Talwan," with the "i" mistakenly appearing as an "l." Mike was unsure if this was acceptable and asked whether he needed to re-edit his application or how he should proceed.
 
@@ -27,7 +27,7 @@ In response, another traveler, Wei Chih Wen, advised Mike to first note down the
 
 Ultimately, Mike Chiu followed the advice and quickly received an official reply, resolving the issue smoothly. This experience serves as a reminder that if you encounter similar problems during the visa application process, you can contact the official authorities for corrections and confirmations to avoid affecting your travel plans.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e14cb6937b166fd9b0d25c773930b373.png)
+![Indonesia/Bali E-Visa Application Mishap: How to Correct Err](https://images.gobaligo.id/vocus/vocus_e14cb6937b166fd9b0d25c773930b373.png)
 
 ## What exactly should you do?
 
@@ -35,7 +35,7 @@ Seeking assistance from the Indonesian Immigration Office is the only solution. 
 
 When corresponding via email, it's best to be concise and clear about your issue. Include the following information in your email to expedite the correction of common errors such as name, place of birth, etc., on your e-Visa:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_80450c2b7c5ff9cfb7b1177c97a2ec51.png)
+![What exactly should you do?](https://images.gobaligo.id/vocus/vocus_80450c2b7c5ff9cfb7b1177c97a2ec51.png)
 
 Book and save here:
 
@@ -59,7 +59,7 @@ For those still debating between visa on arrival and e-visa, be sure to refer to
 
 If you encounter issues during your e-visa application, we've compiled all common problems and solutions here to help you smoothly resolve any application issues: [2024 Updated Indonesia/Bali Entry Visa & e-VOA Application FAQ](/blog/indonesia-bali-visa-evoa-faq/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b0b0ca8e3bd37264a24e891674da1e9.png)
+![Other e-visa application questions](https://images.gobaligo.id/vocus/vocus_3b0b0ca8e3bd37264a24e891674da1e9.png)
 
 Before reading our 'Ultimate Bali Travel Guide', we sincerely invite you to subscribe to our YouTube channel 'Jason in Indonesia' for more visual travel experiences. [Click here](http://bit.ly/youtube-jason)[ to subscribe now](http://bit.ly/youtube-jason)
 

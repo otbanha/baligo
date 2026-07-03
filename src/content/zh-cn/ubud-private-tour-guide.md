@@ -17,13 +17,13 @@ lang: zh-cn
 _srcHash: 19d4bd7f370862ade8b67dccae0ee1f2
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1352d09a9967b15bf558624bb13c65f9.jpg)
+![超高评价乌布私人一日游，私人导游带你探索经典景点](https://images.gobaligo.id/vocus/vocus_1352d09a9967b15bf558624bb13c65f9.jpg)
 
 ## **乌布私人一日游亮点**
 
 乌布是巴厘岛上最具文化与艺术气息的地区，不仅有壮丽的稻田景观、神圣的寺庙，还有充满活力的传统市集与自然美景。对于初次造访的旅客来说，乌布的景点实在太多，常常不知该如何安排。这时候，选择一个精心设计的 **乌布私人一日游** 就是最轻松的方式！您不必跟其他旅客拼团，也不用烦恼要去哪里，因为这套行程提供多种路线可选，满足不同需求。最重要的是，这个一日游已经有超过 **10,000+ 人参加**，并且获得接近满分的 **4.9/5 超高评价**，口碑绝对值得信赖。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4836378a37d654793548988800e3cac1.jpg)
+![乌布私人一日游亮点](https://images.gobaligo.id/vocus/vocus_4836378a37d654793548988800e3cac1.jpg)
 
 ## **舒适便利的全程服务**
 
@@ -41,9 +41,9 @@ _srcHash: 19d4bd7f370862ade8b67dccae0ee1f2
 
 此外，还可选择 **巴杜尔山、海神庙日落、传统民居** 等多条经典路线，打造专属于您的巴厘岛冒险。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_420629d324c101009db87a1e37ef0c46.png)
+![热门景点一次收录](https://images.gobaligo.id/vocus/vocus_420629d324c101009db87a1e37ef0c46.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4318be6095e0db1dda238445de9e0489.jpg)
+![热门景点一次收录](https://images.gobaligo.id/vocus/vocus_4318be6095e0db1dda238445de9e0489.jpg)
 
 ---
 
@@ -92,6 +92,6 @@ _srcHash: 19d4bd7f370862ade8b67dccae0ee1f2
 
 ## 更多乌布吃喝玩乐介绍
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
+![更多乌布吃喝玩乐介绍](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
 乌布（Ubud）是巴厘岛的文化与艺术中心，以绿意盎然的梯田、静谧的丛林以及深厚的传统文化吸引着无数旅人。这里是放松身心的理想之地。无论是探索当地传统、享受自然美景、还是各种有趣刺激的户外活动美食+美景的独特体验，乌布都能带给您独特的感动！想了解更多乌布攻略？[请点击这里](/blog/ubud-guide/)

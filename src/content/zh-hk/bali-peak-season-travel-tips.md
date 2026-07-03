@@ -18,7 +18,7 @@ _srcHash: 06765aa498bec0876207dbffcdfae17b
 ---
 峇里島係好多旅人心目中嘅渡假勝地，結合咗熱帶風情同獨特文化，吸引咗無數人去體驗。不過，選擇適當嘅旅遊時節對於旅遊質素同預算控制嚟講，都係相當重要嘅考慮。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3ca684e28f6adcd444bf1c7f57779da7.png)
+![峇里島居然有五個旅遊旺季！點樣避開旺季聰明去旅行？](https://images.gobaligo.id/vocus/vocus_3ca684e28f6adcd444bf1c7f57779da7.png)
 
 避開峇里島嘅旅遊旺季，唔單止可以慳返機票、住宿等預算，仲可以享受更加寧靜嘅旅遊體驗，絕對係明智之舉。咁，到底幾時係峇里島嘅旺季呢？一般而言，降雨機率較低嘅旱季，大約每年嘅四月至九月，係峇里島最適合旅行嘅時候，亦因此成為當地旅遊嘅旺季。雖然雨季嘅天氣或者唔係咁理想，但係可以體驗到峇里島另一種面貌，同埋享受到減價嘅機票同住宿優惠。
 
@@ -65,7 +65,7 @@ _srcHash: 06765aa498bec0876207dbffcdfae17b
 
 ## 規劃峇里島行程嘅小貼士
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_be3dc9da4b6f8d496248866a010c16d9.png)
+![規劃峇里島行程嘅小貼士](https://images.gobaligo.id/vocus/vocus_be3dc9da4b6f8d496248866a010c16d9.png)
 
 > 延伸閱讀：
 
@@ -81,7 +81,7 @@ _srcHash: 06765aa498bec0876207dbffcdfae17b
 
 ## 📩 **立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

@@ -29,7 +29,7 @@ _srcHash: ff59f86e695c891ebd35c730a1fa60c3
 
 Starting May 29, 2025, Indonesia's Immigration Office officially implements a new visa extension process. This system combines online registration with in-person procedures, applicable to immigration offices nationwide including Bali, affecting tourists, long-term residents, business visa holders, and socio-cultural visa holders.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_05dab2ad74b02830d37c34b349f59630.jpg)
+![Major Changes to Indonesia's Visa Extension System](https://images.gobaligo.id/vocus/vocus_05dab2ad74b02830d37c34b349f59630.jpg)
 
 ---
 
@@ -96,7 +96,7 @@ The most common tourist visas are:
 - Also applicable for the new hybrid extension system
 - Extension fee is IDR 500,000
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b58a503de185affe73271afa17955bf4.png)
+![Visa Types and Fees](https://images.gobaligo.id/vocus/vocus_b58a503de185affe73271afa17955bf4.png)
 
 ## Frequently Asked Questions FAQ
 

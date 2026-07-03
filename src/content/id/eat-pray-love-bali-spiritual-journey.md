@@ -39,17 +39,17 @@ Ketut Udi dateng tepat waktu naik mobil silver-nya. Dia kasih gue segelas jahe h
 
 Kita sampe di sebuah halaman tradisional yang tersembunyi di antara rimbunnya pohon kelapa. Di sini gak ada pencahayaan yang diatur kayak di film, tapi energinya terasa lebih nyata. Balian Made (dukun Made) duduk bersila di tengah sesajen warna-warni, matanya bikin gue inget deskripsi di buku soal 'tatapan yang bisa lihat kehidupan lampau dan masa depan'.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_910bcdfe01fbfe0a242091e95e31fb7d.jpg)
+![Momen 'Dibaca' di Halaman Dukun—Beneran Ngena Banget](https://images.gobaligo.id/vocus/vocus_910bcdfe01fbfe0a242091e95e31fb7d.jpg)
 
 Pas telapak tangannya yang kasar nempel di dahi gue, tiba-tiba ada aliran hangat dari ubun-ubun sampe ke seluruh badan. "Kamu selama ini lari dari diri sendiri," katanya lewat terjemahan Ketut: "Kayak perempuan Amerika yang main di film itu." Gue langsung mewek—kok dia tahu gue lagi mikirin adegan 'Eat Pray Love'? Kata-kata dukun tua itu bikin gue gemeteran. Pas air suci diperciki, gue akhirnya ngerti arti adegan ikonik di film itu: itu bukan akting, tapi reaksi paling jujur saat jiwa lagi telanjang.
 
 ## Air Mata di Pura Tirta Empul: Ritual yang Lebih Nyata dari Film
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_81fc9f955e67a4a0d9bf40889a853cb0.jpg)
+![Air Mata di Pura Tirta Empul: Ritual yang Lebih Nyata dari F](https://images.gobaligo.id/vocus/vocus_81fc9f955e67a4a0d9bf40889a853cb0.jpg)
 
 Pura Tirta Empul ternyata lebih rame dari yang gue bayangin, tapi Ketut bawa gue ke kolam yang sepi pengunjung. "Julia dulu pas syuting di sini, diam-diam balik lagi beberapa kali," katanya sambil bantu gue atur sarung: "Katanya yang keambil kamera cuma permukaannya aja." "Julia waktu itu dateng beberapa hari berturut-turut," cerita Ketut: "Hari terakhir dia nolak pake pemeran pengganti, bilang 'ini bukan kerjaan, ini kebutuhan gue'."
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff0c300ad20f015171080adf43790470.png)
+![Air Mata di Pura Tirta Empul: Ritual yang Lebih Nyata dari F](https://images.gobaligo.id/vocus/vocus_ff0c300ad20f015171080adf43790470.png)
 
 Saat aku membenamkan kepala ke pancuran air ketiga, tiba-tiba aku nggak bisa nahan tangis. Itu bukan air mata sedih, tapi semacam pelepasan—persis kayak yang digambarkan di film soal "jiwa yang menguras air". Aku akhirnya paham kenapa Liz di film itu begitu menghargai ritual ini, karena saat ini aku juga merasakan getaran tersuci yang bikin segar banget.
 
@@ -57,7 +57,7 @@ Saat aku membenamkan kepala ke pancuran air ketiga, tiba-tiba aku nggak bisa nah
 
 Goa Gajah ternyata lebih ramai dari perkiraan, tapi Ketut diam-diam ngajak aku lewat jalan setapak ke sebuah ruang dalam yang hampir sepi. "Kru film pernah syuting di sini," bisiknya, "tapi adegan paling berharga akhirnya nggak dipakai."
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9022289ac5b59d68aa77a22cfc601426.jpg)
+![Momen Pencerahan di Goa Gajah](https://images.gobaligo.id/vocus/vocus_9022289ac5b59d68aa77a22cfc601426.jpg)
 
 Ketut menunjuk ke sebuah relief: "Film nggak sampai sini, tapi Julia pernah duduk diam di depan tembok ini hampir satu jam." Saat aku menyentuh 'batu keinginan' yang legendaris itu, tiba-tiba ingat senyum Liz di akhir film saat dia memulai hidup baru di kapal—mungkin happy ending sejati dimulai dari keberanian mengakui bahwa kita layak disembuhkan. Saat duduk sendirian di gua yang sejuk, tiba-tiba ingat kutipan dari buku: "Kadang, diam itu justru cara tercepat untuk maju." Di ruang yang dikelilingi energi ribuan tahun ini, aku akhirnya mengizinkan diriku 'nggak ngapa-ngapain', cuma ada—mungkin ini hadiah paling berharga sepanjang perjalanan.
 

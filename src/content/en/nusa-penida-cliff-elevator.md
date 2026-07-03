@@ -22,7 +22,7 @@ _srcHash: c9707a60351b75d6f4ba86b512dc0bb6
 
 Recently, the new 182-meter glass elevator project on Nusa Penida's cliffs has attracted significant attention. This initiative not only transforms the local scenery but has also ignited lively debates among residents and visitors alike. This article provides a comprehensive overview of the controversial project's background, design, economic impact, and environmental concerns.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_505b89f8f349d60e5f1110515d942a6d.jpg)
+![Construction begins on Nusa Penida's cliff elevator!](https://images.gobaligo.id/vocus/vocus_505b89f8f349d60e5f1110515d942a6d.jpg)
 
 ## Background of the Nusa Penida Cliff Elevator Project
 
@@ -64,7 +64,7 @@ Environmental groups and many local residents are concerned that this project ma
 
 The recent construction landslide incident at Pemutih Peactu Beach in Uluwatu has raised concerns about the potential for similar issues with the Nusa Penida Cliff Elevator project.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4d35f44916ca506e943964111b19c803.png)
+![Recent Environmental Disaster Cases](https://images.gobaligo.id/vocus/vocus_4d35f44916ca506e943964111b19c803.png)
 
 ## Project Commencement and Future Development
 
@@ -116,7 +116,7 @@ Recently, a new residential development project near Kelingking Beach has also b
 
 The construction permit for this residential area was first submitted in 2019. Land clearing and preliminary landscaping have already been completed, with foundation work set to begin in the coming weeks.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_38f5ba2458d5fa1a83c47e5e7b6acca0.jpg)
+![Development Permits and Land Use](https://images.gobaligo.id/vocus/vocus_38f5ba2458d5fa1a83c47e5e7b6acca0.jpg)
 
 ## Summary
 

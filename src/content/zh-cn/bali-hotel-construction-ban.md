@@ -21,7 +21,7 @@ _srcHash: f966769b66accb9dfd13c23312c144ad
 
 巴厘岛，一个以其独特的自然美景和丰富文化闻名于世的旅游胜地，如今面临新的挑战。随着过度开发对环境和文化造成的压力，巴厘岛政府正计划实施一项针对南部地区的全新旅游发展限制法规。这项禁令主要针对酒店、度假村及其他旅游设施的建设，并且可能会延长至十年。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3480635877a3cd735d124f721b373446.png)
+![巴厘岛立法禁建新酒店、别墅：解决过度开发](https://images.gobaligo.id/vocus/vocus_3480635877a3cd735d124f721b373446.png)
 
 ## **禁建计划的背景与动机**
 
@@ -49,7 +49,7 @@ _srcHash: f966769b66accb9dfd13c23312c144ad
 
 然而，从长远来看，这项禁令的实施可能会促使巴厘岛的旅游业转向更加可持续的发展模式。通过限制过度开发，巴厘岛将能够保护其独特的自然和文化资源，为未来的旅游业奠定更加稳固的基础。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_10c0006ac7d25dc9cf50ee86b964bd71.png)
+![可能的影响与展望](https://images.gobaligo.id/vocus/vocus_10c0006ac7d25dc9cf50ee86b964bd71.png)
 
 ## **如何应对过度开发的挑战**
 

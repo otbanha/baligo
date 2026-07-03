@@ -37,13 +37,13 @@ lang: id
 _srcHash: b09fd329a0eac49966bbe68c85b6d98e
 ---
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240562733-438400134.jpg)
+![Seminyak Square Hotel and Villas｜Tepat di Atas Seminyak Squa](https://images.gobaligo.id/images/2026-04/1776240562733-438400134.jpg)
 
 ▲Three Bedroom Apartment
 
 Kalau tujuan kamu ke Bali adalah belanja, kulineran, dan nongkrong malam, lalu butuh tempat nginep yang nggak mahal tapi nyaman, konsep Seminyak Square Hotel and Villas ini masuk akal banget. Hotel bintang tiga ini ada di Jl. Kayu Aya 100 — secara harfiah 'hotel di atas mal' — lantai 2 ke atas di Seminyak Square. Begitu keluar lift, langsung ketemu Eat Street; turun ke bawah ada supermarket, money changer, dan restoran. Lokasi ini jadi jualan utama, dan harganya juga lebih ramah kantong dibanding hotel lain di kawasan yang sama.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240484574-58568572.jpg)
+![Seminyak Square Hotel and Villas｜Tepat di Atas Seminyak Squa](https://images.gobaligo.id/images/2026-04/1776240484574-58568572.jpg)
 
 ***
 
@@ -75,21 +75,21 @@ Total 41 kamar, dengan tipe kamar Standard Room, Superior Room, Deluxe Room, Jun
 
 Dekorasi keseluruhan bergaya modern minimalis, furnitur kayu dipadukan dengan dinding putih. Bukan desain yang khas Bali banget, tapi bersih dan rapi. Ukuran kamar yang luas jadi nilai plus yang diakui tamu. Tipe Junior Suite ke atas lebih lega, apartemen dua kamar punya ruang tamu, ruang makan, dan dapur kecil terpisah — cocok untuk keluarga atau rombongan.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240751481-00f4c269b62e50d004e02d814157c229.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776240751481-00f4c269b62e50d004e02d814157c229.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240751979-1adfb9f1eabcfc08328de4cd9b53b3bf.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776240751979-1adfb9f1eabcfc08328de4cd9b53b3bf.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240752382-7bc608309384bb816b84fb86c948dcce.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776240752382-7bc608309384bb816b84fb86c948dcce.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240752823-400375_15081715350034430963.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776240752823-400375_15081715350034430963.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240753236-58569594.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776240753236-58569594.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240753955-438403233.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776240753955-438403233.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240754463-438403401.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776240754463-438403401.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240754935-f3876fdff4c1ac410acb13c104aa3d9e.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776240754935-f3876fdff4c1ac410acb13c104aa3d9e.webp)
 
 ▲ Tipe kamar apartemen
 
@@ -97,29 +97,29 @@ Perlengkapan standar termasuk AC, TV layar datar, kulkas mini, ketel listrik, br
 
 Tips milih kamar: kalau rombongan banyak atau butuh fasilitas dapur, langsung ambil apartemen dua kamar — worth it banget untuk ukuran dan harga. Junior Suite punya pemandangan kolam renang, tapi perlu diingat beberapa tipe cuma 'lihat kolam' bukan 'langsung akses ke kolam', jadi cek dulu sebelum booking.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240891628-512518937.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776240891628-512518937.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240892127-512518996.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776240892127-512518996.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240892551-a467e5ccae872a810b2e4e02ac748a46.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776240892551-a467e5ccae872a810b2e4e02ac748a46.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240893018-4d03d8705bdb6ac1f873ce6ecf4b0b80.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776240893018-4d03d8705bdb6ac1f873ce6ecf4b0b80.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240893434-8f6fd3bc980f81509662019b35c06fad.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776240893434-8f6fd3bc980f81509662019b35c06fad.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240894076-9bf920238dca73007f8bfcd68d575a46.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776240894076-9bf920238dca73007f8bfcd68d575a46.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240894475-869ff3226a6ada5f9cb890a556f338ae.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776240894475-869ff3226a6ada5f9cb890a556f338ae.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240895384-410411248.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776240895384-410411248.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240895901-410411262.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776240895901-410411262.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240896297-423603328.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776240896297-423603328.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240896726-423603355.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776240896726-423603355.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240897130-510820923.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776240897130-510820923.jpg)
 
 ▲ Akomodasi tipe Villa
 
@@ -143,7 +143,7 @@ Seorang tamu yang udah beberapa kali balik nginep bilang, lokasinya tepat di dep
 
 Tamu lain bilang ini udah ketiga kalinya nginep di hotel ini. Mega Mart di bawah hotel sangat membantu, naik Grab ke bandara atau Gojek ke Canggu, Legian juga lancar. Junior Suite-nya punya dapur kecil buat masak sendiri, cocok banget buat yang nginep lama.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776241492784-52578723.jpg)
+![Ulasan Nyata Tamu](https://images.gobaligo.id/images/2026-04/1776241492784-52578723.jpg)
 
 ***
 

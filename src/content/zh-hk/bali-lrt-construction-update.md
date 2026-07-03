@@ -30,7 +30,7 @@ _srcHash: b0ae2bfed720973476bb40d96a2f2b60
 
 ## 項目階段
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c2b672737b7461372de346e8ee4c0706.jpg)
+![項目階段](https://images.gobaligo.id/vocus/vocus_c2b672737b7461372de346e8ee4c0706.jpg)
 
 ### 第一階段：機場至庫塔
 

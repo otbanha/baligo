@@ -26,31 +26,31 @@ _srcHash: e46b7b5c4cbf781b5d6c22dad068ac6e
 
 峇里島唔單止有迷人嘅海灘同豐富嘅文化，仲係美食愛好者嘅天堂！今次要帶大家深入了解峇里島最具代表性嘅10道必食美食，由傳統主菜到街頭小食，每一道都充滿咗印尼獨特嘅香料風味。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b027619db0a88baf3fea8f8c63193a9d.jpg)
+![【2026 峇里島美食攻略】10 大必食經典同街頭小食：烤乳豬、沙嗲到髒鴨飯全紀錄](https://images.gobaligo.id/vocus/vocus_b027619db0a88baf3fea8f8c63193a9d.jpg)
 
 ## 🍖 經典主菜系列
 
 ### 1. Babi Guling（烤乳豬）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4bda84a271f14b852043e10008699dc3.jpg)
+![1. Babi Guling（烤乳豬）](https://images.gobaligo.id/vocus/vocus_4bda84a271f14b852043e10008699dc3.jpg)
 
 嚟峇里島絕對唔可以錯過嘅招牌料理！成隻乳豬塞滿香料後慢火烤製，外皮金黃酥脆，肉質軟嫩多汁。通常會配白飯、脆皮、烤腸同番薯一齊食，每一啖都係香料嘅完美融合。
 
 ### 2. Nasi Campur Bali（印尼雜菜飯）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_af1ea75fd01be79bb6fc4b742a352357.jpg)
+![2. Nasi Campur Bali（印尼雜菜飯）](https://images.gobaligo.id/vocus/vocus_af1ea75fd01be79bb6fc4b742a352357.jpg)
 
 呢個係峇里島版嘅什錦飯，一碟集合咗各式醬汁燒肉、印尼雜菜飯嘅精華。通常有白飯、炸雞或者烤肉、蔬菜、花生、蝦片等豐富配料，等您一次過品嚐多種風味！
 
 ### 3. Betutu（香料烤雞/鴨）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3be3ad88c261f5abe0846db474c3d02c.png)
+![3. Betutu（香料烤雞/鴨）](https://images.gobaligo.id/vocus/vocus_3be3ad88c261f5abe0846db474c3d02c.png)
 
 呢個係峇里島傳統嘅慢烤料理，將成隻雞或者鴨用香料醃製後，包喺香蕉葉入面慢慢烤幾個鐘。濃郁嘅香料完全滲入肉質，食過難忘。
 
 ### 4. Jimbaran Seafood（金巴蘭海鮮燒烤）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_936c1dc67021ff7ed3d35d7002572a20.jpg)
+![4. Jimbaran Seafood（金巴蘭海鮮燒烤）](https://images.gobaligo.id/vocus/vocus_936c1dc67021ff7ed3d35d7002572a20.jpg)
 
 金巴蘭海灘以海鮮燒烤聞名，新鮮嘅海鮮配上日落美景簡直係人間享受！即撈即烤嘅魚、蝦、龍蝦等海鮮，淋上特製醬料，係到峇里島必須體驗嘅浪漫用餐方式。
 
@@ -62,31 +62,31 @@ _srcHash: e46b7b5c4cbf781b5d6c22dad068ac6e
 
 ### 5. Sate Lilit（香料熟肉串）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b96032c8d4ab3b3ca235a5f349e93f34.jpg)
+![5. Sate Lilit（香料熟肉串）](https://images.gobaligo.id/vocus/vocus_b96032c8d4ab3b3ca235a5f349e93f34.jpg)
 
 峇里島特色烤肉串，唔同一般嘅串燒，Sate Lilit係將調味過嘅碎肉包喺檸檬草或竹籤上烤製，香氣四溢，一串接一串停唔到口！
 
 ### 6. Pisang Goreng（炸香蕉）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_da510f477a3b99474e4e823a2e97cbf8.jpg)
+![6. Pisang Goreng（炸香蕉）](https://images.gobaligo.id/vocus/vocus_da510f477a3b99474e4e823a2e97cbf8.jpg)
 
 炸香蕉係峇里島最受歡迎嘅街頭小食。椰炸香蕉裹上麵糊炸至金黃酥脆，外脆內軟，簡單但令人上癮嘅美味。
 
 ### 7. Klepon（椰絲米糕）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_069db0e5cc1da39c0aba61f76f04ddec.jpg)
+![7. Klepon（椰絲米糕）](https://images.gobaligo.id/vocus/vocus_069db0e5cc1da39c0aba61f76f04ddec.jpg)
 
 呢款得意嘅綠色糯米球係峇里島傳統甜點，內餡包住椰糖，外層裹滿椰絲。一啖咬落去，椰糖漿汁喺口中爆開，甜而不膩。
 
 ### 8. Jajanan Pasar（傳統市場小吃）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_27d9ed090f2e0d6d77985588b30b22e2.png)
+![8. Jajanan Pasar（傳統市場小吃）](https://images.gobaligo.id/vocus/vocus_27d9ed090f2e0d6d77985588b30b22e2.png)
 
 峇里島傳統市場入面有各式各樣嘅糕點小食，色彩繽紛嘅傳統甜點好似彩虹糕、椰香糕咁，每一款都充滿當地特色，係體驗在地文化嘅最佳方式。
 
 ### 9. Lawar（涼拌肉菜）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b63c90ffa74ac14509bd2a00bb1cedb3.jpg)
+![9. Lawar（涼拌肉菜）](https://images.gobaligo.id/vocus/vocus_b63c90ffa74ac14509bd2a00bb1cedb3.jpg)
 
 雖然叫做「涼拌」，但Lawar其實係一道混合咗蔬菜、椰肉、香料同肉類嘅傳統料理。涼爽開胃嘅口感配搭濃郁嘅香料，非常適合作為餐前菜。
 
@@ -94,7 +94,7 @@ _srcHash: e46b7b5c4cbf781b5d6c22dad068ac6e
 
 ### 10. Kopi Bali（峇里島咖啡）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f3c741d3dfe2aeb90d97b02560dfe140.jpg)
+![10. Kopi Bali（峇里島咖啡）](https://images.gobaligo.id/vocus/vocus_f3c741d3dfe2aeb90d97b02560dfe140.jpg)
 
 峇里島嘅咖啡豆生長喺火山土壤入面，風味獨特濃郁。嚟到峇里島，一定要品嚐當地新鮮烘焙嘅咖啡，配搭壯麗嘅梯田景觀，完美結束美食之旅！**有名代表**：**「Kintamani Coffee」** 就係產自該地區嘅知名標誌。
 

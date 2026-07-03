@@ -19,7 +19,7 @@ _srcHash: 27f30d178dcd0eb894fce9668f7f5411
 ---
 ## **峇里島旅遊，現金定信用卡好？**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_832db431875e09d43fff04ac9260f412.jpg)
+![峇里島旅遊，現金定信用卡好？](https://images.gobaligo.id/vocus/vocus_832db431875e09d43fff04ac9260f412.jpg)
 
 峇里島係好多台灣、香港、新加坡、馬來西亞旅客鍾意嘅度假勝地，無論係豪華酒店、特色餐廳定係SPA按摩，刷卡消費睇落方便，但其實隱藏唔少風險。信用卡盜用、高額手續費、商家詐騙等問題時有所聞，如果唔小心應對，可能令愉快嘅假期變成財務噩夢。
 
@@ -84,7 +84,7 @@ _srcHash: 27f30d178dcd0eb894fce9668f7f5411
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5f0902c94005ab50560d815cb81e2471.png)
+![三、商戶額外收費同強制貼士](https://images.gobaligo.id/vocus/vocus_5f0902c94005ab50560d815cb81e2471.png)
 
 ## **四、預授權（Pre-authorization）風險**
 

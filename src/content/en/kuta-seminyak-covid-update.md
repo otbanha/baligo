@@ -21,6 +21,6 @@ lang: en
 _srcHash: 623be481cabc973f25b5e5601ed872a1
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5945f572e93cd251dcb51c84aa6a5af4.png)
+![Bali Kuta Seminyak Current Situation Bali Without Tourists L](https://images.gobaligo.id/vocus/vocus_5945f572e93cd251dcb51c84aa6a5af4.png)
 
 Latest Situation in Bali, Indonesia - October 2020. Visiting Bali for tourism, the once bustling areas of Kuta and Seminyak now present a desolate scene. Due to the impact of the Corona virus, the tourist paradise of Bali is experiencing an unprecedented downturn...

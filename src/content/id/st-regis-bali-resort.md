@@ -32,7 +32,7 @@ _srcHash: 6d596115b25a3f29ef05a0527a1718ec
 
 Kalau liburan impianmu termasuk pantai pasir putih, layanan butler pribadi, dan fasilitas kelas dunia, **The St. Regis Bali Resort** wajib banget masuk daftar! Resor bintang lima di Nusa Dua, Bali ini menggabungkan keindahan alam Bali dengan desain mewah, bikin setiap tamu bisa menikmati liburan yang nggak terlupakan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b35d933791f261fb139da3160e10166e.jpg)
+![Nikmati kemewahan kelas atas di Nusa Dua, Bali](https://images.gobaligo.id/vocus/vocus_b35d933791f261fb139da3160e10166e.jpg)
 
 ## 🌴 **Fasilitas Keren & Penginapan Mewah**
 
@@ -44,17 +44,17 @@ Resor St. Regis terkenal dengan **laguna air asin** yang spektakuler dan **panta
 
 Baik untuk bulan madu atau liburan keluarga, St. Regis punya pilihan terbaik yang sesuai dengan kebutuhan setiap tamu.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_24068cb8566c5572d784452c327cde74.jpg)
+![Fasilitas Keren & Penginapan Mewah](https://images.gobaligo.id/vocus/vocus_24068cb8566c5572d784452c327cde74.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a4a0a6ff12e86a7133af37499971fa98.jpg)
+![Fasilitas Keren & Penginapan Mewah](https://images.gobaligo.id/vocus/vocus_a4a0a6ff12e86a7133af37499971fa98.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff051eea68efba48b8ae356b37010901.jpg)
+![Fasilitas Keren & Penginapan Mewah](https://images.gobaligo.id/vocus/vocus_ff051eea68efba48b8ae356b37010901.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_420b402cbfd779692e5dca0867f21465.jpg)
+![Fasilitas Keren & Penginapan Mewah](https://images.gobaligo.id/vocus/vocus_420b402cbfd779692e5dca0867f21465.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a07284ae38a2efcd2d85df1b0e9c3bf3.jpg)
+![Fasilitas Keren & Penginapan Mewah](https://images.gobaligo.id/vocus/vocus_a07284ae38a2efcd2d85df1b0e9c3bf3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_01b7b7da182832bf6dc6d20a401c98c3.jpg)
+![Fasilitas Keren & Penginapan Mewah](https://images.gobaligo.id/vocus/vocus_01b7b7da182832bf6dc6d20a401c98c3.jpg)
 
 ## 🍴 **Pengalaman Kuliner yang Nggak Ada Duanya**
 
@@ -77,7 +77,7 @@ Restoran dan bar di St. Regis Bali Resort menyajikan hidangan yang bikin lidah b
 
 距离巴厘国际机场仅**20分钟车程**，瑞吉度假酒店提供**机场接送服务**，旅客可轻松抵达。同时，这里距离努沙杜瓦的购物中心与文化景点也非常近，方便您安排一日游或购物行程。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dc9cbcf64a780e72e199376c07467195.jpg)
+![便利的交通与位置](https://images.gobaligo.id/vocus/vocus_dc9cbcf64a780e72e199376c07467195.jpg)
 
 ## 🎉 **周边景点推荐**
 
@@ -96,7 +96,7 @@ The St. Regis Bali Resort dengan fasilitas dan layanan kelas dunianya benar-bena
 
 ## Review Nyata dari Tamu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_36a94976bb81b6063d8b0a954e6fc88d.jpg)
+![Review Nyata dari Tamu](https://images.gobaligo.id/vocus/vocus_36a94976bb81b6063d8b0a954e6fc88d.jpg)
 
 Di kawasan resor yang super kompetitif, The St. Regis Bali Resort benar-benar menonjol berkat pelayanannya yang luar biasa. Dari penjemputan di bandara sampai semua staf yang kami temui, standar pelayanan mereka bikin kami melongo. Yang paling berkesan adalah butler kami, Tu Adi—perhatian dan profesionalismenya nggak ada cacatnya, kami belum pernah nemu pelayanan serinci ini selama traveling. Butler lain kayak Adi dan Manzo (semoga nama nggak salah!) juga keren banget. Tim concierge, baik pria maupun wanita, menunjukkan keahlian yang nggak ada duanya.
 
@@ -107,7 +107,7 @@ Untuk makanan, kami puas banget. Sarapannya variatif, meskipun bagian prasmanan 
 Semakin lama kami menginap, semakin jatuh cinta sama tempat ini. Baik makanan maupun pelayanan yang penuh perhatian, semuanya bikin kami betah. Makasih banget sama hotel yang udah upgrade keanggotaan Titanium kami ke villa dua kamar tidur. Pasti bakal balik lagi!
   ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_112c50d7aa2f44a562717a1b39d29b08.jpg)
+![Review Nyata dari Tamu](https://images.gobaligo.id/vocus/vocus_112c50d7aa2f44a562717a1b39d29b08.jpg)
 
 Awalnya perjalanan ini dimulai karena suami salah booking—mengira USD$4,000 cuma USD$129 (salah baca mata uang), jadilah kami dapat liburan bak raja, bikin kami geleng-geleng kepala 🤣! Pengalaman ini bisa dibilang liburan paling mewah seumur hidup kami.
 
@@ -116,7 +116,7 @@ Anak-anak mengira 'ruang tamu' kami adalah lobi hotel (soalnya gede banget), dit
 Sarapannya juga juara, ini sarapan paling top yang pernah kami coba di hotel bintang lima. Dari lobster sampai short ribs, bisa menikmati hidangan semewah itu dari pagi hari, rasanya nggak percaya! 🤤 Liburan mewah yang nggak disangka ini bakal jadi kenangan keluarga yang nggak terlupakan.
   ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1a3671ae999e6232047124818bdd0cc9.jpg)
+![Review Nyata dari Tamu](https://images.gobaligo.id/vocus/vocus_1a3671ae999e6232047124818bdd0cc9.jpg)
 
 Keluarga kami liburan ke Bali dan nginep di The St. Regis Bali Resort — pengalamannya bener-bener memuaskan banget! Kami milih villa dengan kolam renang pribadi yang langsung akses ke pantai, rasanya kayak mimpi. Villanya luas, fasilitasnya top, dari desain sampai detail kecil semuanya elegan.
 
@@ -128,7 +128,7 @@ Service di sini nggak ada cacatnya, setiap staf ramah dan profesional. Kami sang
 
 ## Lebih Banyak Review Resort Bintang 5 di Nusa Dua
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5ba01ec2194c29084a8317809e7a432f.jpg)
+![Lebih Banyak Review Resort Bintang 5 di Nusa Dua](https://images.gobaligo.id/vocus/vocus_5ba01ec2194c29084a8317809e7a432f.jpg)
 
 **Nusa Dua adalah kawasan resor mewah terkenal di selatan Bali, dengan suasana tenang, pasir putih, dan pengalaman mewah kelas dunia.** Kalau kamu lagi cari resor bintang lima yang mewah, Nusa Dua punya banyak pilihan top, mulai dari pantai pribadi eksklusif sampai restoran dan spa yang oke punya.
 

@@ -21,7 +21,7 @@ _srcHash: 3d4af2102d04536ee543c985c9b8c345
 ---
 **峇里島嘅 Candi Bentar 有咩意義? 點解中文翻譯成"善惡門"係錯嘅?**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c95607d6aa39c056b9b5f30917cf982a.jpg)
+![原來'善惡門'係錯嘅翻譯!? Candi Bentar嘅意義同正確叫法](https://images.gobaligo.id/vocus/vocus_c95607d6aa39c056b9b5f30917cf982a.jpg)
 
 ## Candi Bentar 嘅起源同歷史
 

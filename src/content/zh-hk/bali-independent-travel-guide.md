@@ -18,7 +18,7 @@ lang: zh-hk
 _srcHash: 4fbaa81c1277fc5d38166b9e1b8b00c3
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b3582d4ed8018cd3a3f48a267d13304.png)
+![峇里島自由行旅遊攻略：一位經驗豐富嘅自助旅行者分享](https://images.gobaligo.id/vocus/vocus_0b3582d4ed8018cd3a3f48a267d13304.png)
 
 峇里島，呢片風光咁靚嘅土地，吸引咗世界各地嘅旅人。而我哋嘅Facebook群組，[Chihming Lai](https://www.facebook.com/profile.php?id=100008235455950) 呢位唔係專業嘅旅行人員或者旅行社員工，但每半年就會專程去峇里島放鬆身心，享受陽光、啤酒、沙灘、比堅尼。對佢嚟講，峇里島獨有嘅慢活氛圍正係呢片土地最大嘅魅力所在。以下係佢樂意同人分享嘅親身旅遊經驗同實用貼士。
 
@@ -36,7 +36,7 @@ _srcHash: 4fbaa81c1277fc5d38166b9e1b8b00c3
 
 ## **到達峇里島之後：**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e13870a67da8a8539a2df155af5a63e5.jpg)
+![到達峇里島之後：](https://images.gobaligo.id/vocus/vocus_e13870a67da8a8539a2df155af5a63e5.jpg)
 
 1. 行程唔使排得太密，畢竟匆匆一遊就要走，不如慢慢放慢腳步，用愉快嘅心情感受當地慢活，漫無目的咁周圍行，飲杯凍飲，等心靈抖一抖。
 
@@ -46,13 +46,13 @@ _srcHash: 4fbaa81c1277fc5d38166b9e1b8b00c3
 
 > 延伸閱讀: [2025峇里島烏布完整攻略：100種深入認識烏布嘅方式｜探索烏布嘅魅力](/blog/ubud-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f7dd250215384c6cd1e0e21abaea3b3.jpg)
+![到達峇里島之後：](https://images.gobaligo.id/vocus/vocus_4f7dd250215384c6cd1e0e21abaea3b3.jpg)
 
 ## **住房與行程規劃建議：**
 
 1. 佢極力勸阻入住Villa嘅旅客，唔好俾自己安排太滿嘅行程，咁會浪費咗Villa嘅意義同使費。Villa代表嘅就係悠閒，應該好好享受游泳池同陽光，飲啲嘢放鬆吓，想出街先算。何必一大早就出門、傍晚先返嚟，更唔好講有啲旅客入住Villa但只住一兩晚就換住宿，咁樣太辛苦。入住Villa就係要好好休息，欣賞Villa嘅風景，享受悠閒時光，唔使太過操勞。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![住房與行程規劃建議：](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 2. 嚟峇里島旅遊嘅時間長短，行程應該視情況而定，切忌走馬看花。呢度嘅交通成日塞車，道路狹窄難行，要行晒所有熱門景點幾乎係冇可能嘅任務。
 

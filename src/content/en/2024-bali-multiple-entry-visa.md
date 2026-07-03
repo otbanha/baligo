@@ -19,7 +19,7 @@ lang: en
 _srcHash: 7d7957e20b95631318a66ccdab2f0bdf
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_75a017bcc23776bfdf405a8361b72773.jpg)
+![Bali D1 Multiple Entry Visa: Latest Bali Visa Updates for 20](https://images.gobaligo.id/vocus/vocus_75a017bcc23776bfdf405a8361b72773.jpg)
 
 Bali has always been a popular destination for travelers, and visa issues have been a major concern for many. In this article, we will explore Bali's latest [Multiple Entry Visa] (D1 Visa) starting in 2024 and explain how to obtain this visa and its related conditions.
 
@@ -40,7 +40,7 @@ To obtain the D1 Visa, applicants need to prepare the following documents:
 3. Bank statements from the last three months, showing a balance of at least $2,000.
 4. A clear photo against a plain background, ensuring the selfie is clearly visible.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7867ad9edfc76e26bbc9392e89cde713.png)
+![Conditions for the D1 Visa](https://images.gobaligo.id/vocus/vocus_7867ad9edfc76e26bbc9392e89cde713.png)
 
 **Bookings and Savings Tips Here:**
 

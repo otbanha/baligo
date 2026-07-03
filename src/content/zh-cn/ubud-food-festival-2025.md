@@ -21,7 +21,7 @@ _srcHash: b6c3c90a70fe5adfed3e51b22500afd0
 
 2025年5月30日至6月1日，印尼巴厘岛的文化之都——乌布，将迎来第十届 **Ubud Food Festival**，成为印尼年度最受瞩目的美食盛会。这场活动不仅是一场味觉的冒险，更是一场文化与历史交织的体验。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9493dc5a49f643520cc6d25efe3d94af.png)
+![乌布美食节十周年：一场充满故事的味蕾之旅](https://images.gobaligo.id/vocus/vocus_9493dc5a49f643520cc6d25efe3d94af.png)
 
 ---
 
@@ -29,7 +29,7 @@ _srcHash: b6c3c90a70fe5adfed3e51b22500afd0
 
 本届活动以「**Heritage 传承**」为主题，不单是向祖传食谱致敬，更强调传统在当代的重新诠释。从街头小吃到高级料理，从乡村厨房到现代餐厅，每一道菜都诉说着印尼的文化故事。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_06b7d6f9c8d432b093dc97b394f15d62.jpg)
+![主题：「传承」—— 不只是回忆，更是再创经典](https://images.gobaligo.id/vocus/vocus_06b7d6f9c8d432b093dc97b394f15d62.jpg)
 
 ---
 
@@ -40,7 +40,7 @@ _srcHash: b6c3c90a70fe5adfed3e51b22500afd0
 - **艺术融合美食**：Instagram风格的视觉场景设计，让每一处都是打卡热点。
 - **来自全国的顶尖人才**：邀请米其林主厨、知名食谱作家、年轻创意主厨与在地农民共襄盛举。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5250fcaad7df6bc2c45359b406ff3fe0.jpg)
+![活动亮点亮眼登场](https://images.gobaligo.id/vocus/vocus_5250fcaad7df6bc2c45359b406ff3fe0.jpg)
 
 ---
 
@@ -54,7 +54,7 @@ _srcHash: b6c3c90a70fe5adfed3e51b22500afd0
 
 ## **必逛区域与活动介绍**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_646cd9326daba5d4fe0b6f40130b64b4.jpg)
+![必逛区域与活动介绍](https://images.gobaligo.id/vocus/vocus_646cd9326daba5d4fe0b6f40130b64b4.jpg)
 
 ### **✔ 美食市集（免费入场）**
 
@@ -96,7 +96,7 @@ _srcHash: b6c3c90a70fe5adfed3e51b22500afd0
 
 ## **❓ 常见问题 FAQ ❓**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_be530e02aa8a5b2dd52f513006292c80.jpg)
+![常见问题 FAQ](https://images.gobaligo.id/vocus/vocus_be530e02aa8a5b2dd52f513006292c80.jpg)
 
 ### **Ubud Food Festival 是什么类型的活动？**
 

@@ -28,7 +28,7 @@ Akhirnya musim panas ini aku sampai juga di Bali, tempat yang selalu aku impikan
 
 ## **Cuaca**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3121af7a76e9ab9aeae87f42ed213a36.jpg)
+![Cuaca](https://images.gobaligo.id/vocus/vocus_3121af7a76e9ab9aeae87f42ed213a36.jpg)
 
 Cuaca di Bali ternyata nggak sepanas yang dibayangkan, apalagi hujan deras dan terik matahari sering muncul di hari yang sama. Hujan deras bisa bener-bener lebat, muncul tiap satu atau dua hari sekali, tapi anginnya nggak terlalu kencang. Saran: bawa jaket tipis, karena pas hujan agak adem. Kalau lagi outdoor, jangan lupa bawa payung atau jas hujan biar nggak kena hujan dadakan yang bisa mengacaukan rencana. Selain itu, sunscreen juga wajib banget, karena meskipun cuacanya berubah-ubah, pas matahari terik sinar UV-nya tetap kuat banget.
 
@@ -62,7 +62,7 @@ Toko aksesoris di Bali estetik banget, contohnya Blink, hampir setiap toko bikin
 
 ## **Transportasi**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dafbbe49d363e8f35135436c504badf2.png)
+![Transportasi](https://images.gobaligo.id/vocus/vocus_dafbbe49d363e8f35135436c504badf2.png)
 
 Naik taksi pakai Grab atau Gojek gampang banget, sebagian besar sopirnya sopan. Perjalanan 20 menit kira-kira USD$3, kalau mau ke tempat yang lebih jauh bisa sewa mobil. Layanan sewa mobil fleksibel banget, sopir biasanya bakal atur rute sesuai kebutuhanmu, jadi waktu lebih efisien buat explore banyak tempat. Sebelum berangkat, diskusikan itinerary sama sopir biar semua tempat tujuan lancar dikunjungi.
 
@@ -74,7 +74,7 @@ Awalnya kupikir baju yoga di sini bakal murah, tapi ternyata tetap mahal. Indigo
 
 ## **Kelas Yoga**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6968936fa4c0c6ca57750fc1614ccd39.jpg)
+![Kelas Yoga](https://images.gobaligo.id/vocus/vocus_6968936fa4c0c6ca57750fc1614ccd39.jpg)
 
 Kelas di Yoga Barn emang banyak, tapi tempatnya agak tua, mungkin ekspektasiku kebesaran. Banyak kelas yang heboh, tapi kelas yoga yang beneran nggak banyak. Kelas yoga gratis di hotel malah lumayan enak. Kalau kamu tertarik yoga, coba deh beberapa studio berbeda biar nemu kelas dan instruktur yang paling cocok. Di sini jenis kelas yoga beragam, dari pemula sampai mahir, semua ada pilihannya, bisa memenuhi kebutuhan berbagai level.
 
@@ -86,7 +86,7 @@ Masakan Bali identik dengan iga babi, mie goreng, dan nasi goreng. Yang suka jus
 
 ## **Orang dan Pelayanan**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3215b9db05b9e4049dd8c6ef5859a350.jpg)
+![Orang dan Pelayanan](https://images.gobaligo.id/vocus/vocus_3215b9db05b9e4049dd8c6ef5859a350.jpg)
 
 Kebanyakan orang di sini sopan banget dan ramah, jalan-jalan malam juga aman. Pelayanan SPA-nya emang oke, murah, dan worth it banget. Saran aku, selama perjalanan cobain beberapa SPA berbeda buat rileksin badan dan nikmatin suasana santai di sini. Keramahan penduduk lokal bikin hati hangat, entah di restoran, toko, atau tempat wisata, kamu bakal ngerasain kebaikan dan perhatian mereka. Suasana kayak gini nambah banyak kenangan indah selama liburan.
 
@@ -98,7 +98,7 @@ Perjalanan ke Bali kali ini penuh kejutan dan momen mengharukan. Semoga cerita i
 
 Kamu lihat itinerary seru dari Haobo LI? Yuk, rencanakan liburan Bali versi kamu sendiri! Jangan lupa share juga itinerary kamu di grup ya!
 
-![raw-image](https://d2a6d2ofes041u.cloudfront.net/resize)
+![Penutup](https://d2a6d2ofes041u.cloudfront.net/resize)
 
 Klik di sini buat lihat lebih banyak cerita perjalanan seru di Bali
 

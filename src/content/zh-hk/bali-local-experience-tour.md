@@ -67,7 +67,7 @@ https://youtu.be/FphhiUzB7gM
 
 ## Klook登巴薩世界遺產一日遊
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_630b7e2478042e5eb703cc858917c81b.png)
+![Klook登巴薩世界遺產一日遊](https://images.gobaligo.id/vocus/vocus_630b7e2478042e5eb703cc858917c81b.png)
 
 你都可以參加Klook嘅登巴薩一日遊，呢個行程可以讓你深入體驗印尼嘅豐富文化同遺產。行程包括酒店接送、參觀聯合國教科文組織世界遺產之一嘅塔曼阿雲水寺（Taman Ayun Water Temple）、巴厘博物館等歷史地標。你仲可以去登巴薩最大嘅Badung同Kumbasari傳統市場，睇吓各種有趣嘅本地產品，感受在地購物嘅樂趣。
 

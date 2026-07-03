@@ -82,7 +82,7 @@ Detailed Guide: [【2026 Bali Safari Park】Complete Guide: Sleeping at the Lion
 
 **📍 Address:** Adjacent to Taman Safari Bali, Gianyar
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780205183105-website-banner-scaled.webp)
+![3. Marine Safari Bali｜Right Next to Taman Safari! A Two-Day ](https://images.gobaligo.id/images/2026-05/1780205183105-website-banner-scaled.webp)
 
 What many travelers don’t know is that right next to Taman Safari Bali lies a dedicated marine-themed park—**Marine Safari Bali**. The two parks are incredibly close, and the official combo offers a **two-day ticket**: spend the first day exploring the African savanna at Taman Safari, then switch to an ocean perspective at Marine Safari on day two. This lets you unlock both land and sea wonders in one trip, and it’s much more budget-friendly than buying separate tickets.
 
@@ -102,7 +102,7 @@ Detailed guide: [Marine Safari Bali Guide](https://gobaligo.id/blog/marine-safar
 
 **📍 Address:** Jl. Elephant Park, Taro, Tegallalang, Gianyar
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780205293049-elephant.jpeg)
+![4. Mason Elephant Park｜A Heartwarming Moment Bathing with El](https://images.gobaligo.id/images/2026-05/1780205293049-elephant.jpeg)
 
 In the tranquil village of Taro, north of Ubud, lies a green sanctuary dedicated to protecting Bali’s rare Sumatran elephants—Mason Elephant Park. More than just a tourist attraction, it’s a refuge with a mission of animal conservation, housing dozens of elephants from Sumatra and providing them with vast, free-roaming habitats.
 
@@ -140,7 +140,7 @@ Detailed guide: [Bali Bird Park Ultimate Guide: Rare Birds, Interactive Activiti
 
 **📍 Address:** Adjacent to Bali Bird Park, Singapadu, Gianyar
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780206204799-_2026-05-31_12.42.57.png)
+![6. Bali Reptile Park｜Snakes Coiling, Monitors Appearing—A Re](https://images.gobaligo.id/images/2026-05/1780206204799-_2026-05-31_12.42.57.png)
 
 Right next to Bali Bird Park, the Bali Reptile Park is another fascinating world that both frightens and captivates kids. It houses the most comprehensive collection of reptiles on the island, including various pythons, cobras, monitor lizards (close relatives of the Komodo dragon), colorful geckos, and tortoises. Just getting near the display tanks is enough to make the faint-hearted's pulse race.
 
@@ -178,7 +178,7 @@ Detailed guide: [Bali Exotic Marine Park Guide: Up-Close Interactions, Swimming 
 
 **📍 Address:** Jl. Raya Singapadu, Sukawati, Gianyar
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780206729226-_2026-05-31_12.51.52.png)
+![8. Bali Zoo｜A Jungle Animal Kingdom for the Whole Family](https://images.gobaligo.id/images/2026-05/1780206729226-_2026-05-31_12.51.52.png)
 
 Bali Zoo is the largest comprehensive zoo on the island and a top weekend destination for local families. The park is home to over 500 animals, including iconic species like Sumatran tigers, orangutans, giraffes, and zebras, all set against a lush tropical backdrop that creates an educational and entertaining natural environment.
 
@@ -257,7 +257,7 @@ May every family that sets foot on this island create the most precious travel m
 
 _The information in this article is accurate as of the time of writing. Please check the official website or ticketing platform for actual prices and opening hours._
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780210997008-689d437ba3e141dc624b514a766ad8d9.jpg)
+![Practical Tips for Planning a Family Trip to Bali](https://images.gobaligo.id/images/2026-05/1780210997008-689d437ba3e141dc624b514a766ad8d9.jpg)
 
 >[【Ubud Family Travel】50+ Kids' Favorite Activities: Zoos, Jungle Adventures & Traditional DIY Crafts Full Guide](https://gobaligo.id/blog/ubud-with-kids-guide/)
 

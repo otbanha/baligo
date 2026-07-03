@@ -22,7 +22,7 @@ _srcHash: 81af9f42004d92acb79a8896b36792ac
 ---
 Bali Arts Festival sebentar lagi digelar di Bali. Ini salah satu acara budaya paling penting di Bali. Seniman, musisi, dan penari dari seluruh dunia bakal berkumpul buat nunjukin karya mereka. Selama festival, Bali bakal berubah jadi surga seni. Kamu nggak perlu khawatir soal tiket, karena semua pertunjukan di Bali Arts Festival gratis. Kamu bakal bisa lihat nggak cuma seni pertunjukan Bali yang kaya, tapi juga berbagai budaya dari pulau lain di Indonesia. Kalau kamu pecinta seni dan budaya, wajib banget datang ke acara ini.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_90ab703b954115885ae714b8d09db502.png)
+![Bali Arts Festival 2024 dimulai 15 Juni, berlangsung sebulan](https://images.gobaligo.id/vocus/vocus_90ab703b954115885ae714b8d09db502.png)
 
 ## Apa Itu Bali Arts Festival?
 
@@ -34,7 +34,7 @@ Bali Arts Festival diadakan setahun sekali. Pesta budaya ini berlangsung sekitar
 
 ## Tema Bali Arts Festival
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c32e212b2a773b031367bb0fbbad6089.jpg)
+![Tema Bali Arts Festival](https://images.gobaligo.id/vocus/vocus_c32e212b2a773b031367bb0fbbad6089.jpg)
 
 Tema Bali Arts Festival 2024 adalah 'Jana Kerthi Pramaguna Wikrama', yang artinya 'Meningkatkan Martabat dan Keunggulan Manusia'. Tema festival biasanya didasarkan pada kekuatan kehidupan. Jadi, pertunjukan dan pameran di festival bakal punya dasar filosofis yang dalam. Kamu bakal lihat banyak makna dan ekspresi seni yang kaya selama festival.
 
@@ -44,7 +44,7 @@ Bali Arts Festival bakal digelar di Werdhi Budaya Art Centre ([Werdhi Budaya Art
 
 ## Pertunjukan Apa yang Bisa Dinikmati?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b37c1c6db8934d3aa8bc6d6630976a02.png)
+![Pertunjukan Apa yang Bisa Dinikmati?](https://images.gobaligo.id/vocus/vocus_b37c1c6db8934d3aa8bc6d6630976a02.png)
 
 ### Parade Pembukaan
 
@@ -76,7 +76,7 @@ Denpasar adalah kota terbesar di Provinsi Bali sekaligus pusat transportasi umum
 
 ## Tips Ikut Bali Arts Festival
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb580db9253ea62dc0130897433dc0e1.jpg)
+![Tips Ikut Bali Arts Festival](https://images.gobaligo.id/vocus/vocus_eb580db9253ea62dc0130897433dc0e1.jpg)
 
 ### Cuaca dan Pakaian
 
@@ -100,7 +100,7 @@ Bali Arts Festival adalah salah satu festival paling populer di Indonesia, dan m
 
 ➡️[Cari penginapan di Bali klik di sini](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b2948879decdfe85c71b34e38f4b7957.png)
+![Booking Akomodasi dan Tiket](https://images.gobaligo.id/vocus/vocus_b2948879decdfe85c71b34e38f4b7957.png)
 
 ### Kesimpulan
 

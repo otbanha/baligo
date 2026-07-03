@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: 77cf510601ad6e9c9b41e0adfd79d096
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3fa8eca8f249ece1b5a18ffb6e79bbdf.jpg)
+![峇里島秘景沙灘介紹｜峇里島海灘推介｜最正嘅打卡海灘｜峇里島IG打卡｜Green Bowl Beach](https://images.gobaligo.id/vocus/vocus_3fa8eca8f249ece1b5a18ffb6e79bbdf.jpg)
 
 喺峇里島有一個唔使曬太陽嘅秘景沙灘㗎！
 

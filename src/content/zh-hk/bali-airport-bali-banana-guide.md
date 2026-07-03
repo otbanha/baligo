@@ -19,7 +19,7 @@ lang: zh-hk
 _srcHash: 70de6169fdf38ef0da33216e4c88f5d6
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6fb17aeb28479bd7b7d5a57f318dea63.jpg)
+![峇里島國際機場買Bali Banana做手信點去？點樣由國際線行去國內線？](https://images.gobaligo.id/vocus/vocus_6fb17aeb28479bd7b7d5a57f318dea63.jpg)
 
 峇里島係個旅遊天堂，而喺離開之前，好多遊客都會揀買啲手信帶返屋企。Bali Banana，呢款好味嘅香蕉蛋糕，係非常受歡迎嘅選擇。
 
@@ -49,13 +49,13 @@ _srcHash: 70de6169fdf38ef0da33216e4c88f5d6
 
 大約行6分鐘，你就會到「Domestic Arrival」嘅出口。呢段路唔算長，但建議保持步伐穩定。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f056d22cf1bed835ef9123c318dd302f.png)
+![3. 路程約6分鐘](https://images.gobaligo.id/vocus/vocus_f056d22cf1bed835ef9123c318dd302f.png)
 
 ### 4. 影相留念景點
 
 喺國內線抵達嘅出口附近，向右手邊睇，有一個可以影相留念嘅景點。呢度係個留念嘅好地方，記得影張相做紀念。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6aff46880bacb87bf78aa5df4a4251d9.png)
+![4. 影相留念景點](https://images.gobaligo.id/vocus/vocus_6aff46880bacb87bf78aa5df4a4251d9.png)
 
 ### 5. 進入國內線抵達嘅商店街
 
@@ -65,13 +65,13 @@ _srcHash: 70de6169fdf38ef0da33216e4c88f5d6
 
 喺商店街入面，有一間好出名嘅舖頭——Mixue（蜜雪冰城）。呢間係2023年中國擁有超過三萬六千多間分店嘅連鎖現製飲品品牌，按照門店數排名係中國門店規模最大、全球第二嘅連鎖品牌。如果你行到攰，可以喺度買個雪糕消消暑。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d49906b7bc7fe633af4aebcab6a869de.png)
+![6. 享受蜜雪冰城](https://images.gobaligo.id/vocus/vocus_d49906b7bc7fe633af4aebcab6a869de.png)
 
 ### 7. 搵到Bali Banana
 
 蜜雪冰城隔離就係你要搵嘅Bali Banana。呢間舖頭有各式各樣嘅香蕉蛋糕，你可以喺度揀你鍾意嘅口味。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb25ddbefa192a9797a0f1a384548675.png)
+![7. 搵到Bali Banana](https://images.gobaligo.id/vocus/vocus_eb25ddbefa192a9797a0f1a384548675.png)
 
 ### 8. 全程約10分鐘
 

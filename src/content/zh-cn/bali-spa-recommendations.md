@@ -16,7 +16,7 @@ _srcHash: bd8d9c2ba4afd3de5e2df0cb4f0277ea
 
 **团友**[**Li Ly**](https://www.facebook.com/lily850711/)**和她的朋友刚结束雨季之中的巴厘岛之旅，就来跟我们分享她们的旅游心得囉！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7566854d107df6ce88ddc76fca498f38.jpg)
+![【疯狂做SPA】巴厘岛自由行 & 心得分享：SPA推荐清单](https://images.gobaligo.id/vocus/vocus_7566854d107df6ce88ddc76fca498f38.jpg)
 
 受惠于社团许多信息，把这次二月底去巴厘岛自由行的心得分享给大家，仅供参考噢！我们本次的行程主要是：参加一些Activity、SPA、美食，剩下的都叫做「享受」
 
@@ -48,7 +48,7 @@ https://youtu.be/gECdNvG16ww
 
 ### 夕阳海滩骑马
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ff1e2744d79be91e88a8775750847dc.png)
+![夕阳海滩骑马](https://images.gobaligo.id/vocus/vocus_6ff1e2744d79be91e88a8775750847dc.png)
 
 1. 通过在线订票订购，每人接近55美元，提供一对一教练，教练会牵着马。
 2. 体验相当不错，每位教练都会拿着我们各自的手机协助拍摄照片和视频。
@@ -59,7 +59,7 @@ https://youtu.be/gECdNvG16ww
 
 ### 日出吉普车
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d007f0cd9a6adf529354c1ea176d2bd4.jpg)
+![日出吉普车](https://images.gobaligo.id/vocus/vocus_d007f0cd9a6adf529354c1ea176d2bd4.jpg)
 
 团友 Li Ly 提供
 
@@ -170,7 +170,7 @@ Inara Alas Harum
 
 在六年前我们曾经去巴厘岛旅行（是由旅行社组织的八人小团），但是当时的体验并不好，其中最差的部分就是司机兼导游。他虽然说中文，但沟通几乎无法进行，因此我们深切感受到了好的司机对于旅行的重要性，他们可以让旅行更加完整且令人放松。因为Arie太贴心了，所以每天我们都给他20-30%的小费。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_45ef0955c4149232b8c65e55bce4f72d.jpg)
+![司机推荐](https://images.gobaligo.id/vocus/vocus_45ef0955c4149232b8c65e55bce4f72d.jpg)
 
 司机推荐：ARIE
 

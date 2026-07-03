@@ -19,7 +19,7 @@ lang: zh-cn
 _srcHash: 5fe98de24e8dbead53681c70bfd8d0aa
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f99e6c8463ebffb2d3f909bbd209ef22.jpg)
+![【坎古/Nuanu新景点】 巴厘岛最震撼的艺术地标：The Earth Sentinels 地球卫兵](https://images.gobaligo.id/vocus/vocus_f99e6c8463ebffb2d3f909bbd209ef22.jpg)
 
 在巴厘岛塔巴南（Tabanan）的 Nuanu Creative City 入口处，矗立着两座令人屏息的巨型雕塑——**《The Earth Sentinels》**（地球卫兵）。这是南非艺术家 Daniel Popper 的代表作之一，融合自然、神话与科技光雕，成为巴厘岛最具象征性的艺术地标之一。
 
@@ -48,7 +48,7 @@ _srcHash: 5fe98de24e8dbead53681c70bfd8d0aa
 
 作为一位热爱巴厘岛文化的旅游博主，《The Earth Sentinels》不仅是一件艺术作品，更是一座与自然对话的桥梁。站在这两座巨型雕塑前，感受到的不仅是视觉的震撼，更是对自然与生命的敬畏。无论是白天的壮丽景象，还是夜晚的光影变化，《The Earth Sentinels》都值得你亲自前来感受。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_936139a7a7beb6eea4320eb4498aa1d2.jpg)
+![博主观点：必访的艺术地标](https://images.gobaligo.id/vocus/vocus_936139a7a7beb6eea4320eb4498aa1d2.jpg)
 
 ---
 
@@ -60,7 +60,7 @@ _srcHash: 5fe98de24e8dbead53681c70bfd8d0aa
 
 ## 更多Nuanu Creative City景点
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d1b9756c666257aa52804cadea6bbadb.jpg)
+![更多Nuanu Creative City景点](https://images.gobaligo.id/vocus/vocus_d1b9756c666257aa52804cadea6bbadb.jpg)
 
 Nuanu Creative City是巴厘岛最新崛起的创意园区，并推动零碳排放，成为巴厘岛最新可持续旅游地标。现在已经开始吸引全球创意人士，成为下一个必访热点！
 

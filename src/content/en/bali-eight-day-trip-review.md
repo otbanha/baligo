@@ -50,29 +50,29 @@ Once we settled our luggage, we couldn't wait to head to GOSHA x GOEMEROT for ou
 
 **Accommodation Recommendation: Aloft Bali Kuta at Beachwalk**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6c4dc60752ea4cbe9373a0cde09448cf.jpg)
+![Check-in at Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/vocus/vocus_6c4dc60752ea4cbe9373a0cde09448cf.jpg)
 
 Tonight we checked into Aloft Bali Kuta in the Kuta area, choosing the Pool View Double room type, which features two comfortable double beds. While the room isn't particularly spacious, the overall design is modern and stylish, with excellent cleanliness. What impressed us most was the hotel's location—directly connected to the Beachwalk shopping mall, making it incredibly convenient for shopping or finding restaurants. Additionally, it's close to the lively JL. Poppies II street, within walking distance. The hotel's breakfast offers a rich and delicious selection, and the staff are friendly and welcoming, giving our Bali trip a great start.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788152563-643126482.jpg)
+![Check-in at Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788152563-643126482.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788153064-643126512.jpg)
+![Check-in at Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788153064-643126512.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788153567-643126513.jpg)
+![Check-in at Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788153567-643126513.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788153975-643126514.jpg)
+![Check-in at Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788153975-643126514.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788154554-643126517.jpg)
+![Check-in at Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788154554-643126517.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788155109-643126526.jpg)
+![Check-in at Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788155109-643126526.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788155615-482956642.jpeg)
+![Check-in at Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788155615-482956642.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788156084-482956652.jpeg)
+![Check-in at Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788156084-482956652.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788156591-482956751.jpeg)
+![Check-in at Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788156591-482956751.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788156945-482956753.jpeg)
+![Check-in at Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788156945-482956753.jpeg)
 
 > ▶[Aloft Kuta Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22572548) [Booking](https://booking.tpm.li/IiBScM3f) ▶[Trip.com Booking](https://hk.trip.com/hotels/detail/?cityId=723&hotelId=72291150&checkIn=2025-07-31&checkOut=2025-08-01&adult=2&children=0&subStamp=726&crn=1&ages=&travelpurpose=0&curr=IDR&link=title&hoteluniquekey=H4sIAAAAAAAA_-P6xMjFJMEkxMTBKPWckePt8i9_WYUYjQw4LT4JOhqDgG-ng2f_oa8aMXP7HAJ4Ghltua4vLqj1cJjEGMXJAARCIo6OgiBGTai9o5I4x9SWPRYCjYwSf_uXrmZUYLTYLx7EEMWgpMbRerBfQ6AcKLJX1BFmiCeMAVTDwrH1FZsTK8eSCx2MMxjPLdujtJGxECTvkOqwg5HpBOOErwULmO59eqqyiwmi6hATC8eU2-KnmBguMTHcYmJ4xMTwionhExPYpF9QRU3MDF3MDJOYwUpnMTMsYmaQ4jUxNzQztDSyNDBPTTRXENI4827VETYjaw6gg7UE40M8PV0MSwpTzQpLLXOKCkwNGCcxMnl4n2KUMjQ3tjA0MjQ0MjKyNNYzsUgzK7bIK7bIzYqwYpZidPNgDGIzdHExN7CM0uJi9nQJEuSpjemtX2djLwXiKcJ4WiCeIYyXxFqVoevhnfFYqICxi5FDgNGDMYKxgvEVI0jVD3BIAABb4vdVpwEAAA&subChannel=&masterhotelid_tracelogid=4716192907ea7&NewTaxDescForAmountshowtype0=T&detailFilters=17|1~17~1*80|0|1~80~0&hotelType=normal&display=exavg&barcurr=IDR&locale=zh-HK&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D4662646)
 
@@ -94,13 +94,13 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 **Restaurant Recommendation: ENDO Seminyak**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_57caee0de0ee79e29675903fef6d5f69.jpg)
+![Midday: Dining and Shopping at Seminyak Square](https://images.gobaligo.id/vocus/vocus_57caee0de0ee79e29675903fef6d5f69.jpg)
 
 We had lunch at ENDO Seminyak, located right next to Seminyak Square, and it was a delightful surprise! What started as a random pick turned out to be unexpectedly excellent. Highly recommend their Bebek Betutu (crispy duck) and Mie Goreng (fried noodles). The crispy duck has a crunchy skin and tender meat, perfectly seasoned with spices; the fried noodles are authentic Balinese-style, loaded with toppings and generous in portion.
 
 ### Dinner: WAHAHA
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4be51710a26107a6190d946dc32baa54.jpg)
+![Dinner: WAHAHA](https://images.gobaligo.id/vocus/vocus_4be51710a26107a6190d946dc32baa54.jpg)
 
 As evening fell, we headed to WAHAHA for a pork rib dinner. Under Bali's warm night sky, savoring the delicious meal was the perfect way to end a fulfilling day.
 
@@ -132,29 +132,29 @@ On the way to Ubud, we made a special detour to Grand Lucky Supermarket for some
 
 **Accommodation Recommendation: KAAMALA Resort & Spa Ubud**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7adb6e2fa7eaede51b05f63f23f5d191.jpg)
+![Check-in at KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/vocus/vocus_7adb6e2fa7eaede51b05f63f23f5d191.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_db9b8c8a544597b8ac21ec95f3030a15.jpg)
+![Check-in at KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/vocus/vocus_db9b8c8a544597b8ac21ec95f3030a15.jpg)
 
 In the late afternoon, we arrived at KAAMALA Resort & Spa in Ubud. We fell in love with this resort at first sight! We stayed in a private villa, and when we pulled back the curtains the next morning, we were amazed by the golden rice field view right in front of us. The breeze rustled through the rice paddies, making us feel like we were in a paradise.
 
 The hotel's breakfast is mainly Western-style, and while the selection isn't huge, every dish is thoughtfully prepared and tastes great. The resort also features an infinity pool that overlooks the layered rice terraces—a breathtaking sight. What impressed us most was the service; the staff would proactively chat with guests and check on their stay, creating a warm and friendly atmosphere that made us feel less like we were at a hotel and more like we were visiting a friend's home.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952987775-429293297.jpeg)
+![Check-in at KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952987775-429293297.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952988670-506726321.jpeg)
+![Check-in at KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952988670-506726321.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952989293-523226703.jpeg)
+![Check-in at KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952989293-523226703.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952989812-1698977266238.jpeg)
+![Check-in at KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952989812-1698977266238.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952990239-e20fea40-355e-4bf7-a7b9-f4dbfa4cb186-1702898196309-9f5e7b8042c4faed87a66c67bd370081.webp)
+![Check-in at KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952990239-e20fea40-355e-4bf7-a7b9-f4dbfa4cb186-1702898196309-9f5e7b8042c4faed87a66c67bd370081.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952990724-9f8f526570476b0ab58c73fd5c3173e2.jpeg)
+![Check-in at KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952990724-9f8f526570476b0ab58c73fd5c3173e2.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952991341-61700803_10156586738232830_2848315086848655360_n.jpeg)
+![Check-in at KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952991341-61700803_10156586738232830_2848315086848655360_n.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952991750-dea274f7529242418b61fa3a9db11453.jpeg)
+![Check-in at KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952991750-dea274f7529242418b61fa3a9db11453.jpeg)
 
 ▶[KAAMALA Resort & Spa Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=12000629) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=55235957&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/lA23ZI8f)
 
@@ -170,7 +170,7 @@ On our first morning in Ubud, we chose to unwind at the hotel, fully soaking in 
 
 **Restaurant Recommendation: Bebek Tepi Sawah**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_18d5fd887059ea02f0b30f3666e5d864.jpg)
+![Lunch: Bebek Tepi Sawah](https://images.gobaligo.id/vocus/vocus_18d5fd887059ea02f0b30f3666e5d864.jpg)
 
 At noon, we headed to Bebek Tepi Sawah for a meal. The name of this restaurant literally translates to "Duck by the Rice Field," and it truly lives up to its name, nestled beside beautiful rice paddies. The restaurant is decorated in a traditional Balinese style, exuding a strong local vibe. We chose an outdoor seat, enjoying the refreshing rural scenery while savoring authentic Balinese cuisine. A gentle breeze carried the scent of rice, making this lunch a truly delightful experience. The restaurant's signature grilled duck is a must-try—tender meat with perfectly balanced spices.
 
@@ -178,7 +178,7 @@ At noon, we headed to Bebek Tepi Sawah for a meal. The name of this restaurant l
 
 **Attraction Recommendation: Bali Reptile Park**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_be260f863fa3cf1d7f49877c02f31826.jpg)
+![Afternoon: Bali Reptile Park](https://images.gobaligo.id/vocus/vocus_be260f863fa3cf1d7f49877c02f31826.jpg)
 
 After lunch, we visited Bali Reptile Park, a must-see for reptile enthusiasts! The entrance fee includes a full English-guided tour by the park staff, which is one of the biggest highlights of this attraction. The guides are highly professional and enthusiastic, providing detailed explanations of each reptile's habits and characteristics. Their lively and engaging commentary is so infectious that even those who are initially afraid of reptiles will be won over by their passion.
 
@@ -201,11 +201,11 @@ After leaving the reptile park, we headed to Ubud Market. This is the liveliest 
 
 ### Dinner: Taman Dedari
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7c3849870256761706f2f474869d65c5.jpg)
+![Dinner: Taman Dedari](https://images.gobaligo.id/vocus/vocus_7c3849870256761706f2f474869d65c5.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_796ff85cdb8cb8113b34f72429d7eb39.jpg)
+![Dinner: Taman Dedari](https://images.gobaligo.id/vocus/vocus_796ff85cdb8cb8113b34f72429d7eb39.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_380374cff55e52785bb3e991f3034f76.jpg)
+![Dinner: Taman Dedari](https://images.gobaligo.id/vocus/vocus_380374cff55e52785bb3e991f3034f76.jpg)
 
 In the evening, we had dinner at Taman Dedari, a perfect way to end a fulfilling day.
 
@@ -219,7 +219,7 @@ In the evening, we had dinner at Taman Dedari, a perfect way to end a fulfilling
 
 **Attraction & Restaurant Recommendation: Kintamani & Ritatkala Café**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3432f10b8a1acb758145140d33e88ac0.jpg)
+![Morning: Kintamani & Ritatkala Café](https://images.gobaligo.id/vocus/vocus_3432f10b8a1acb758145140d33e88ac0.jpg)
 
 Today we drove to one of Bali’s most famous volcanic landscapes—Kintamani. Here, you can take in the breathtaking views of Mount Batur and Lake Batur, making it a must-visit natural attraction on the island.
 
@@ -233,7 +233,7 @@ We chose to dine at Ritatkala Café, a scenic coffee shop with unbeatable views.
 
 **Attraction Recommendation: Penglipuran Village**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_534f807ca0ff379512580af984f596cc.jpg)
+![Afternoon: Penglipuran Village](https://images.gobaligo.id/vocus/vocus_534f807ca0ff379512580af984f596cc.jpg)
 
 After leaving Kintamani, we headed to Penglipuran Village, a beautifully preserved traditional Balinese settlement. The village features uniform architecture that perfectly showcases Bali’s traditional building aesthetics and cultural heritage. What makes this place truly special is that visitors can step inside local homes—a dream come true for anyone curious about the interior of traditional Balinese houses!
 
@@ -243,7 +243,7 @@ The village streets are spotless and lined with bamboo groves, creating a serene
 
 ### Rice Terrace Swing Experience
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_36a252751643bc3058d7c23103032e53.jpg)
+![Rice Terrace Swing Experience](https://images.gobaligo.id/vocus/vocus_36a252751643bc3058d7c23103032e53.jpg)
 
 After visiting the village, we headed to a nearby rice terrace swing spot. Swinging in front of layered green rice terraces has become one of the most popular activities in Bali in recent years. The moment the swing takes off, you’re greeted by a lush expanse of rice paddies and distant jungle—it feels like flying through nature. That sense of freedom and beauty became one of the most unforgettable memories of the trip.
 
@@ -261,13 +261,13 @@ On our last morning in Ubud, we returned to the hotel’s infinity pool to soak 
 
 ### After Checkout at Noon: Uluwatu Cliff Road
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a123f697405c668b110a8f2b12af913f.jpg)
+![After Checkout at Noon: Uluwatu Cliff Road](https://images.gobaligo.id/vocus/vocus_a123f697405c668b110a8f2b12af913f.jpg)
 
 After checking out, we drove to the Uluwatu area in southern Bali. Cruising along the coastal cliff road, with the deep blue Indian Ocean on one side and steep limestone cliffs on the other, the majestic views opened up our hearts. This stretch of road is considered one of Bali’s most beautiful coastlines, with several viewpoints along the way where you can stop for photos—don’t miss them.
 
 ### Afternoon: Pandawa Beach Roosterfish Afternoon Tea
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4cfd7bde880edf48f6923248b34146d2.jpg)
+![Afternoon: Pandawa Beach Roosterfish Afternoon Tea](https://images.gobaligo.id/vocus/vocus_4cfd7bde880edf48f6923248b34146d2.jpg)
 
 We enjoyed an afternoon tea at Roosterfish Restaurant on Pandawa Beach. Located right by the beach, this restaurant offers stunning ocean views. Sipping a cold drink with light bites on the breezy terrace, watching the waves crash onto the sand—it’s a simple yet beautiful way to spend the afternoon. With its crystal-clear waters and pristine white sand, Pandawa Beach is one of Bali’s quieter beaches, perfect for travelers looking to escape the crowds.
 
@@ -275,7 +275,7 @@ We enjoyed an afternoon tea at Roosterfish Restaurant on Pandawa Beach. Located 
 
 **Attraction Recommendation: Uluwatu Temple ⚠️ Beware of Monkeys!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_65cdfff2716506cd7615d0c7611c9c66.jpg)
+![Evening: Uluwatu Temple](https://images.gobaligo.id/vocus/vocus_65cdfff2716506cd7615d0c7611c9c66.jpg)
 
 As evening falls, we head to Uluwatu Temple, a cliffside temple that is one of Bali’s most important religious sites and one of the best spots to watch the sunset. Perched on a 70-meter-high cliff overlooking the vast Indian Ocean, the temple exudes a majestic aura.
 
@@ -289,7 +289,7 @@ Despite the need to watch out for monkeys, the views at Uluwatu Temple are truly
 
 ### Dinner: Ulu Cliffhouse
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c2d5e6caeae53304208dc0744dfb4875.jpg)
+![Dinner: Ulu Cliffhouse](https://images.gobaligo.id/vocus/vocus_c2d5e6caeae53304208dc0744dfb4875.jpg)
 
 In the evening, we dine at Ulu Cliffhouse, another cliffside restaurant with stunning ocean views. Under the stars, with the sound of waves in the background, we savor exquisite cuisine—a perfect end to a wonderful day’s itinerary.
 
@@ -317,25 +317,25 @@ The resort also has a dedicated children's pool equipped with a waterslide, ensu
 
 For older children and teenagers, the resort offers a range of entertainment options. They can enjoy the latest gaming consoles, board games, movies, and video games in the game room. Additionally, the resort has a fitness center and spa, allowing parents to unwind and rejuvenate while the kids have fun.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953214005-719391807.jpg)
+![Check-in at Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953214005-719391807.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953214492-764154210.jpg)
+![Check-in at Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953214492-764154210.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953214856-764154213.jpg)
+![Check-in at Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953214856-764154213.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953215435-764154219.jpg)
+![Check-in at Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953215435-764154219.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953215908-764154237.jpg)
+![Check-in at Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953215908-764154237.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953216273-764154268.jpg)
+![Check-in at Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953216273-764154268.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953216629-764154276.jpg)
+![Check-in at Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953216629-764154276.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953217355-764154289.jpg)
+![Check-in at Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953217355-764154289.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953217744-719390583.jpg)
+![Check-in at Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953217744-719390583.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953218269-719390754.jpg)
+![Check-in at Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953218269-719390754.jpg)
 
 ▶ [Check Mövenpick Resort & Spa Availability & Rates](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1615522) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6373265&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazMLFJMEk1cPCMa3nwTk2IUYjA3mLr4KOSwpsua6vb3PwPHsGCF51OwTwREw58HwaeyJQfHHB_kCHRsZZM4FgZZhDFyMrWGoG48T_LcwbGcF6X6c47GBkOsG4XWEB0_2PnVKnWJg5OtkusXxliq5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDb2NxAz8AAKFKSWOGZAtaZnJiTXJqTWJIaUlkANMFMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQboIiFJeaUpkKcALTQLRVqh2GtDqbLn83pfdo988Wm3dhdbmJgjuJy8wFxuXFt7CMWpujYTywMv1gYmlgZuliZOU4xTQKS2xV2sfIEG_kEO0XoGupG6RpeYG1UllI0NDAwMDI1NTLXNUi0TEwyNLPQNbE0MTIz0zU0NzY1NjDUeHVl3YUnxkbWUpC4V2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xSgF1GBhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxOZqZuDs5Bxlw8Xs6RIk-EHv-fZ2a0t7KeaQcBfFD8uPeZt3nrbXAskZwuQC97zOOWFvvMA-EiafxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANq-PmcBAwAA&masterhotelid_tracelogid=100025527-0a9ab168-494266-1735301&detailFilters=17|1~17~1*31|6373265~31~6373265*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=216&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/JMjDzQtC)
 
@@ -408,7 +408,7 @@ I immediately grabbed the backup medication we brought from Taiwan, gave him pai
 
 At the pharmacy, I described my husband's symptoms to the pharmacist. The pharmacist was very professional and recommended two medications (shown in the photo), explaining the dosage and precautions in detail. I quickly bought the medicine and returned to the hotel for my husband to take.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_12d5b905724f2858e8e51a33065eb6c8.jpg)
+![Don’t Underestimate Bali Belly! — Our Harrowing Personal Exp](https://images.gobaligo.id/vocus/vocus_12d5b905724f2858e8e51a33065eb6c8.jpg)
 
 In the afternoon, I took our child to Krisna to buy souvenirs—partly to distract the child and ease their worry about Dad, and partly because I didn't want to waste our precious travel time. When we got back to the hotel, we saw that my husband's condition had slightly improved, which brought us some relief.
 

@@ -38,7 +38,7 @@ _srcHash: 4205fd602554bad05b0acae0d9e76629
 
 ## 购物
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9371bedd3a56431bbff7098c149f4960.png)
+![购物](https://images.gobaligo.id/vocus/vocus_9371bedd3a56431bbff7098c149f4960.png)
 
 在巴厘岛购物需要一定的砍价技巧。一般来说，可以从标价的一半开始砍价，最后成交价通常是标价的3到4折。乌布地区的价格相对较好，选择也多。同样的商品，在库塔的价格通常会比乌布贵2-3倍。因此，购物时选择地点非常重要。
 
@@ -86,15 +86,15 @@ https://youtu.be/8SW4Je-sJbY
 
 我们在乌布住了5天，后来有3天跑去山上休息，推荐一家名为**Aurora Cabins by Panoramika**的民宿。这是一家拥有非常高评价的住宿。住宿的小屋海拔近 900m，毗邻咖啡种植园，面向东方，是体验山区生活的绝佳方式。从这里看日出非常壮观。远处可以看到阿贡火山，左边是巴杜尔山。房间温馨、舒适且设备齐全。真的很特别。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835335305-534082675.jpg)
+![旅途中最特别的住宿推荐](https://images.gobaligo.id/images/2026-06/1780835335305-534082675.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835335716-534106131.jpg)
+![旅途中最特别的住宿推荐](https://images.gobaligo.id/images/2026-06/1780835335716-534106131.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835336248-534088602.jpg)
+![旅途中最特别的住宿推荐](https://images.gobaligo.id/images/2026-06/1780835336248-534088602.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835336603-534068339.jpg)
+![旅途中最特别的住宿推荐](https://images.gobaligo.id/images/2026-06/1780835336603-534068339.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835336978-534062217.jpg)
+![旅途中最特别的住宿推荐](https://images.gobaligo.id/images/2026-06/1780835336978-534062217.jpg)
 
 [**▶Aurora Cabins by Panoramika 订房链接**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47466423)
 

@@ -34,15 +34,15 @@ _srcHash: 20f0f0f655f1a4f0d321fe6a3e98720f
 
 When visiting Jimbaran in Bali, many people first think of seafood barbecues and sunsets. But if you're looking for a more relaxed, vacation-like spot that’s perfect for couples, friends, or even families to spend an entire day, I highly recommend Locca Sea House by the beach.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778585177151-jtgkmhenz1im0pvixsc_m-cp3q9ujmccuilufsz2urmnhzrqcac3-xztaaglihxppydq1rhjoyq6jdrjwatni3xd4bi6en3zs2atnkud4hdqdlnrltxzexelwnt2hgjynsj0g9dvnflswns-7w30iamcghi-5n-6ongxz0earropjffcdypms67fmjgiprg3.jpeg)
+![Bali's Jimbaran Hidden Gem Locca Sea House: A Dreamy Afterno](https://images.gobaligo.id/images/2026-05/1778585177151-jtgkmhenz1im0pvixsc_m-cp3q9ujmccuilufsz2urmnhzrqcac3-xztaaglihxppydq1rhjoyq6jdrjwatni3xd4bi6en3zs2atnkud4hdqdlnrltxzexelwnt2hgjynsj0g9dvnflswns-7w30iamcghi-5n-6ongxz0earropjffcdypms67fmjgiprg3.jpeg)
 
 It has that quintessential 'Bali slow-living vibe.'
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778585243518-3rua2_fqen-tgvzs8wda4ycjm7efdl24b3s7j2l5_xe4c-ff-pmvwirh_m16zevopyzlv6ehyafmbdvpglqmk8vranqbct4ejehbkllwaiivh5o4ctr58j38govr8aeldrqz1kkminpldl69jya6wmkz9hi_n2r3g0s-isbjvwlyhic_hiquhffhbp66kz_k.jpeg)
+![Bali's Jimbaran Hidden Gem Locca Sea House: A Dreamy Afterno](https://images.gobaligo.id/images/2026-05/1778585243518-3rua2_fqen-tgvzs8wda4ycjm7efdl24b3s7j2l5_xe4c-ff-pmvwirh_m16zevopyzlv6ehyafmbdvpglqmk8vranqbct4ejehbkllwaiivh5o4ctr58j38govr8aeldrqz1kkminpldl69jya6wmkz9hi_n2r3g0s-isbjvwlyhic_hiquhffhbp66kz_k.jpeg)
 
 You can lounge on a daybed, feel the sea breeze, listen to chill music played by the DJ, and watch the sky slowly shift from blue to orange-red, all while sipping on a cold drink. The rhythm here is all about—no rush, just enjoying the moment. ✨
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778585319605-s4s5gpfgzfof1ygycdwls7ako0-fwctoac8gqd9acmdlvjjvvdbgc7tihn9iy1xqa50lnw-sufm7sqkude4yequ4q4mb5-sbau3gayruvlz4m-mdtoxzpoeeeifk4fvlhwpbr9ufnxm4lrzihotyj3hwazhh9kfkaoji5o-e58ndwtrwzppejuhband1_2_r.jpeg)
+![Bali's Jimbaran Hidden Gem Locca Sea House: A Dreamy Afterno](https://images.gobaligo.id/images/2026-05/1778585319605-s4s5gpfgzfof1ygycdwls7ako0-fwctoac8gqd9acmdlvjjvvdbgc7tihn9iy1xqa50lnw-sufm7sqkude4yequ4q4mb5-sbau3gayruvlz4m-mdtoxzpoeeeifk4fvlhwpbr9ufnxm4lrzihotyj3hwazhh9kfkaoji5o-e58ndwtrwzppejuhband1_2_r.jpeg)
 
 ## One of Jimbaran's Most Comfortable Oceanfront Spaces
 
@@ -56,11 +56,11 @@ Especially when the DJ’s music starts playing and the sky turns golden, it’s
 
 ## Not Just the Sea, the Food is Also Worth It 🍕
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778585481431-mixcollage-12-may-2026-06-30-pm-6283.jpg)
+![Not Just the Sea, the Food is Also Worth It](https://images.gobaligo.id/images/2026-05/1778585481431-mixcollage-12-may-2026-06-30-pm-6283.jpg)
 
 At Locca Sea House, it's not just about taking photos.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778585509901-v-dptow6yyly_ufmuawhqjnc0r0b-a96o3ubbf96dgyys5rpvsz4orhtjk-ywgascxsy_wakd3gp5wiixezv_ekos2ajwkcc-vo9y88ummtqqmgzlkuw7vg6bv29krs-oidjz85s1vntqpjxa3skh9von7_q_4hclmwbqypcunv3sgu_yf74ewgx92ksr0ae.jpeg)
+![Not Just the Sea, the Food is Also Worth It](https://images.gobaligo.id/images/2026-05/1778585509901-v-dptow6yyly_ufmuawhqjnc0r0b-a96o3ubbf96dgyys5rpvsz4orhtjk-ywgascxsy_wakd3gp5wiixezv_ekos2ajwkcc-vo9y88ummtqqmgzlkuw7vg6bv29krs-oidjz85s1vntqpjxa3skh9von7_q_4hclmwbqypcunv3sgu_yf74ewgx92ksr0ae.jpeg)
 
 They offer a diverse menu, from pizzas and cocktails to fruit platters, perfect for sharing with friends.
 
@@ -68,7 +68,7 @@ I personally love the relaxed atmosphere here - you can chat, enjoy the sea view
 
 Many of their packages already include meals and drinks, which is quite convenient for gatherings with friends or family trips.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778585676251-mixcollage-12-may-2026-06-33-pm-1851.jpg)
+![Not Just the Sea, the Food is Also Worth It](https://images.gobaligo.id/images/2026-05/1778585676251-mixcollage-12-may-2026-06-33-pm-1851.jpg)
 
 {{block:戶外}}
 
@@ -118,7 +118,7 @@ Arrive during the day and stay until sunset hour — the atmosphere truly gets b
 
 ## Perfect for families with kids 👨‍👩‍👧‍👦
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778584635644-dipy5qqxd-omn9fxk2aee1rurtyep6tyaszcap56z591swgsxpysmubymab1_thwo8eplehppt6wmjkv7zwuy_tkuesst7lv6u3zjmis_acc5j8_mu6hfdf9sc6pdrtoqevhbnp3r6x6qhp6nmvwbmftn-jxlhajltqdhf0zgywtj9kpmubmuu-1gt2samjt.jpeg)
+![Perfect for families with kids ‍‍‍](https://images.gobaligo.id/images/2026-05/1778584635644-dipy5qqxd-omn9fxk2aee1rurtyep6tyaszcap56z591swgsxpysmubymab1_thwo8eplehppt6wmjkv7zwuy_tkuesst7lv6u3zjmis_acc5j8_mu6hfdf9sc6pdrtoqevhbnp3r6x6qhp6nmvwbmftn-jxlhajltqdhf0zgywtj9kpmubmuu-1gt2samjt.jpeg)
 
 Many might think that beach clubs like this aren’t suitable for children, but Locca Sea House is actually very family-friendly.
 
@@ -128,7 +128,7 @@ If you’re traveling with family, coming during the day is incredibly comfortab
 
 ## Business Info
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778585773154-bjfznomwohybrbqqytjlz4v1jyclkb7aia1_in_mqvwx1vt285awxv4tk0jmrxctato2ukmeicdgxy5cyrt8qlbqk7etv_onstllvraz26mucethcsbivn0guasf7_uzcwuou8fj-se2l6vg6bqsl-vvn-mrhptr3xmbi7wfqfogntrp6kjflggnjwkf3ebb.jpeg)
+![Business Info](https://images.gobaligo.id/images/2026-05/1778585773154-bjfznomwohybrbqqytjlz4v1jyclkb7aia1_in_mqvwx1vt285awxv4tk0jmrxctato2ukmeicdgxy5cyrt8qlbqk7etv_onstllvraz26mucethcsbivn0guasf7_uzcwuou8fj-se2l6vg6bqsl-vvn-mrhptr3xmbi7wfqfogntrp6kjflggnjwkf3ebb.jpeg)
 
 📍 Location: Locca Sea House
 🕙 Opening hours: Daily 10:00–21:00

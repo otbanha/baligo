@@ -27,7 +27,7 @@ _srcHash: 94c8afe74efafac08018fc9ec6959342
 
 Pemerintah Bali baru-baru ini resmi mengaktifkan **Pusat Sistem Peringatan dan Respons Tsunami (InaTEWS)** yang baru. Proyek besar ini merupakan bagian dari program nasional Indonesia 'Rencana Pembangunan Ketahanan Bencana', yang dipimpin oleh Badan Meteorologi, Klimatologi, dan Geofisika Indonesia (BMKG), serta didukung oleh Bank Dunia.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_43ca548104ab6c5262edd593b1bb1e00.jpg)
+![Bali Tingkatkan Infrastruktur Bencana, Sistem Peringatan Tsu](https://images.gobaligo.id/vocus/vocus_43ca548104ab6c5262edd593b1bb1e00.jpg)
 
 Pusat peringatan baru ini berlokasi di Bali, tidak hanya bisa memantau gempa bumi dan tsunami secara real-time, tetapi juga akan berfungsi sebagai **pos cadangan pusat komando Jakarta**. Jika terjadi bencana besar, informasi bisa segera disebarkan dan tindakan respons bisa dimulai dengan cepat.
 

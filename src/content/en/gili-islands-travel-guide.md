@@ -144,11 +144,11 @@ Gili Islands, provided by Xiao Yaxin
 - [Sunrise Fishing Trip from Gili Islands](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063130&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153277-sunrise-fishing-trip-from-gili-islands-in-lombok%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9495c0a071)
 - [Sunset or Sunrise Beach Horseback Riding on Gili Trawangan](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063130&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F118951-gili-trawangan-sunset-or-sunrise-riding-horse-on-the-beach-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1f8bef4ece)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_02fe25f26e53d367f503c801df5e4d17.png)
+![Other Fun Activities in the Gili Islands](https://images.gobaligo.id/vocus/vocus_02fe25f26e53d367f503c801df5e4d17.png)
 
 [Private Glass-Bottom Boat & Snorkeling Tour in the Gili Islands](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063130&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F45029-lombok-gili-islands-private-tour-glass-bottom-boat%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De6ae657c74)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d667e4ef69fc35123785690ac1022f9b.jpg)
+![Other Fun Activities in the Gili Islands](https://images.gobaligo.id/vocus/vocus_d667e4ef69fc35123785690ac1022f9b.jpg)
 
 [Pink Beach & Southeast Gili Islands Private Day Trip from Lombok](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063130&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F127693-pink-beach-and-southeast-gili-islands-private-tour-full-day%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D38aaab2191)
 

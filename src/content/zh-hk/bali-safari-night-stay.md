@@ -39,31 +39,31 @@ _srcHash: df704cae669ae6fc11fba7ce1c343f9d
 
 因為想住得舒服，揀咗空間好大嘅「KIFARA家庭房」(雙睡房雙浴室有客廳)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aea5e9a6f62c296655c0277f59b0d3cb.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_aea5e9a6f62c296655c0277f59b0d3cb.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_787d5a3da171ec4017afcdfecbf29de9.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_787d5a3da171ec4017afcdfecbf29de9.jpg)
 
 雖然從房間陽台，冇辦法直接見到動物，但因為離泳池好近，帶住酒店送嘅一籃紅蘿蔔，行去泳池旁邊嘅餵食區，只係60秒嘅距離
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_028213d01d92438fd2dfa24a9e73a0a0.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_028213d01d92438fd2dfa24a9e73a0a0.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6112616635a3b8767e7a8ede2eb4eb28.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_6112616635a3b8767e7a8ede2eb4eb28.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c6e1416bc9e07e6dfaf1d434eaba3baf.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_c6e1416bc9e07e6dfaf1d434eaba3baf.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_97fb0bb16ee11eb5dc9d996c8ed3d417.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_97fb0bb16ee11eb5dc9d996c8ed3d417.jpg)
 
 拎住紅蘿蔔輕輕搖擺，遠方嘅斑馬就會慢慢行過嚟，住宿客人餵斑馬唔使錢，如果係單買「Bali Safari」門票入場嘅客人，就要額外俾錢，先可以坐上餵斑馬嘅小車
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e8fed883843da36260f60fc15ebe8cb1.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_e8fed883843da36260f60fc15ebe8cb1.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_98be5f29657bda5696e0238ebbcabc00.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_98be5f29657bda5696e0238ebbcabc00.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ed134b4aaa0ab5101155606fcecfeb90.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_ed134b4aaa0ab5101155606fcecfeb90.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2d26b9bd44649973dfd21d2ea6d70e58.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_2d26b9bd44649973dfd21d2ea6d70e58.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6bdedde3738119c4aaef7410a2f68a1a.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_6bdedde3738119c4aaef7410a2f68a1a.jpg)
 
 游水期間，有時仲會有當值嘅大象，帶住背上「Bali Safari」嘅客人，向你行過嚟（騎大象之旅，一樣要另外俾錢），住宿送嘅一籃生果（蘋果、芒果、香蕉），啱啱好可以送俾大象好朋友
 
@@ -79,53 +79,53 @@ _srcHash: df704cae669ae6fc11fba7ce1c343f9d
 
 早餐時段（08:00），變色龍（？）親自到餐廳駐點陪你食飯，食完飯（09:00），啱啱遇到大象先生，行到酒店門口嘅小花園，親密接觸，唔使排隊，好開心
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7be139d38d3ededf9ecf282c3129f3c4.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_7be139d38d3ededf9ecf282c3129f3c4.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b5e5d536b206ffa7365309b29005dbe2.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_b5e5d536b206ffa7365309b29005dbe2.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d324d42ed1d52f1b2a2556faa5a8ee65.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_d324d42ed1d52f1b2a2556faa5a8ee65.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e3bc78c31ea15b5c2fc19d717024349c.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_e3bc78c31ea15b5c2fc19d717024349c.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_255af44c916f0c752718c0f8822f855d.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_255af44c916f0c752718c0f8822f855d.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_042c644691454dd4d9f3893db09ea918.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_042c644691454dd4d9f3893db09ea918.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0f11a7f2af6faf16c7b4d341ea5b803d.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_0f11a7f2af6faf16c7b4d341ea5b803d.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0a10b5cd6020aeafad024beea1b7b007.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_0a10b5cd6020aeafad024beea1b7b007.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7d86d96eea9bbac84cbf22d5e4406193.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_7d86d96eea9bbac84cbf22d5e4406193.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d9c80e173bd98290e09220762f3d9ce4.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_d9c80e173bd98290e09220762f3d9ce4.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d9bf3028a698030bf15a28040610ef55.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_d9bf3028a698030bf15a28040610ef55.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b53361819f848f2741b78061569fde84.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_b53361819f848f2741b78061569fde84.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_772943c796c0e360869667436bf86121.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_772943c796c0e360869667436bf86121.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_146aa5e38b46301d18fcdd178f67df27.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_146aa5e38b46301d18fcdd178f67df27.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7e497d399bbf306007251475922948b3.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_7e497d399bbf306007251475922948b3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_860865807f6eb0043b90c56e19138fc4.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_860865807f6eb0043b90c56e19138fc4.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a275b7ff2bab446c7fad0baf851055c0.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_a275b7ff2bab446c7fad0baf851055c0.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc201d47f17d21770f6bc2306518dc8b.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_cc201d47f17d21770f6bc2306518dc8b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ba24fba7a789e1098490afd86f9183e5.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_ba24fba7a789e1098490afd86f9183e5.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_91f9034f436c9e6b9cd795b1c765b670.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_91f9034f436c9e6b9cd795b1c765b670.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d37cb7aada9ea747278238d4ee6ed230.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_d37cb7aada9ea747278238d4ee6ed230.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_058cbb39dc809028d3fadc0800776c04.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_058cbb39dc809028d3fadc0800776c04.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_89b66aed6ae8958c00830efa2ddfcc58.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_89b66aed6ae8958c00830efa2ddfcc58.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_10d3e628c6c9b7078e922faf8589cf2d.jpg)
+![峇里島親子遊必去：峇里島動物園 Bali Safari 點玩同夜宿攻略](https://images.gobaligo.id/vocus/vocus_10d3e628c6c9b7078e922faf8589cf2d.jpg)
 
 此外，住宿客人可以免費兩日無限次進出「Bali Safari」園區（check-in & check-out day兩日），動物秀同動物秀中間，仲可以返酒店床上小休，超級寫意
 

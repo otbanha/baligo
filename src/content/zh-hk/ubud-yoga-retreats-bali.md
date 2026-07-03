@@ -34,7 +34,7 @@ lang: zh-hk
 _srcHash: 99efeca30db0391d6dce6443cd6f06b4
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7c732b073f5ce52b19b42925c798cc9d.jpg)
+![峇里島烏布瑜伽住宿推薦：10間結合瑜伽課程同心靈放鬆嘅夢幻選擇](https://images.gobaligo.id/vocus/vocus_7c732b073f5ce52b19b42925c798cc9d.jpg)
 
 喺峇里島烏布呢個靈性嘅文化中心，瑜伽已經唔止係一種運動，而係一種生活方式嘅體現。無論你係瑜伽初學者定係經驗豐富嘅修行者，結合住宿同瑜伽課程嘅旅館，會為你帶嚟一場身心靈嘅饗宴。以下為你精選咗10間烏布嘅住宿，唔單止有舒適嘅環境，仲提供優質嘅瑜伽課程，令你嘅峇里島假期更加豐富。
 
@@ -44,15 +44,15 @@ _srcHash: 99efeca30db0391d6dce6443cd6f06b4
 
 呢間位於Tjampuhan山谷嘅度假村，結合咗自然同奢華。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438864471-mixcollage-26-nov-2024-08-27-am-1505.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438864985-0f25141ea2b1bb3dddc1f2689352ad91.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438865393-92ae03efb8fc6f94fab51a8936f3873b.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438865770-462f83941288ee356c33977122f51d09.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438866278-305961957_6275995249084103_6511587795405109335_n.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438866830-308167555_6313933831956911_6943438452227654172_n.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438867409-309475799_6332234516793509_4640412562835553304_n.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438868010-mixcollage-19-feb-2024-09-57-pm-1181.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438868492-uma-ubud-potato.jpeg)
+![1. COMO Uma Ubud](https://images.gobaligo.id/images/2026-03/1774438864471-mixcollage-26-nov-2024-08-27-am-1505.jpg)
+![1. COMO Uma Ubud](https://images.gobaligo.id/images/2026-03/1774438864985-0f25141ea2b1bb3dddc1f2689352ad91.jpeg)
+![1. COMO Uma Ubud](https://images.gobaligo.id/images/2026-03/1774438865393-92ae03efb8fc6f94fab51a8936f3873b.jpeg)
+![1. COMO Uma Ubud](https://images.gobaligo.id/images/2026-03/1774438865770-462f83941288ee356c33977122f51d09.jpeg)
+![1. COMO Uma Ubud](https://images.gobaligo.id/images/2026-03/1774438866278-305961957_6275995249084103_6511587795405109335_n.jpg)
+![1. COMO Uma Ubud](https://images.gobaligo.id/images/2026-03/1774438866830-308167555_6313933831956911_6943438452227654172_n.jpg)
+![1. COMO Uma Ubud](https://images.gobaligo.id/images/2026-03/1774438867409-309475799_6332234516793509_4640412562835553304_n.jpg)
+![1. COMO Uma Ubud](https://images.gobaligo.id/images/2026-03/1774438868010-mixcollage-19-feb-2024-09-57-pm-1181.jpg)
+![1. COMO Uma Ubud](https://images.gobaligo.id/images/2026-03/1774438868492-uma-ubud-potato.jpeg)
 
 * **瑜伽特色**：每日提供專業瑜伽大師指導嘅免費瑜伽課程，仲有晨間導覽徒步活動。
 * **設施**：房間採用大理石地板同四柱床設計，配備迷你吧、保險箱同衛星電視。另有桑拿、戶外泳池同健身室可以用。
@@ -67,15 +67,15 @@ _srcHash: 99efeca30db0391d6dce6443cd6f06b4
 
 位於烏布（Ubud）嘅靚景稻田同熱帶花園之中，Kajane Yangloni 係一個完美結合自然同峇里島文化嘅度假村。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438984667-472009710.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438985489-472005488.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438985810-472005586.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438986205-472007598.webp)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438986537-472009363.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438986938-472681482.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438987261-472682446.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438987861-_2024-11-26_08.56.03.png)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774438988272-hotelimage.jpeg)
+![2.Kajane Yangloni：稻田環繞嘅靜謐住宿體驗](https://images.gobaligo.id/images/2026-03/1774438984667-472009710.jpg)
+![2.Kajane Yangloni：稻田環繞嘅靜謐住宿體驗](https://images.gobaligo.id/images/2026-03/1774438985489-472005488.jpg)
+![2.Kajane Yangloni：稻田環繞嘅靜謐住宿體驗](https://images.gobaligo.id/images/2026-03/1774438985810-472005586.jpg)
+![2.Kajane Yangloni：稻田環繞嘅靜謐住宿體驗](https://images.gobaligo.id/images/2026-03/1774438986205-472007598.webp)
+![2.Kajane Yangloni：稻田環繞嘅靜謐住宿體驗](https://images.gobaligo.id/images/2026-03/1774438986537-472009363.jpg)
+![2.Kajane Yangloni：稻田環繞嘅靜謐住宿體驗](https://images.gobaligo.id/images/2026-03/1774438986938-472681482.jpg)
+![2.Kajane Yangloni：稻田環繞嘅靜謐住宿體驗](https://images.gobaligo.id/images/2026-03/1774438987261-472682446.jpg)
+![2.Kajane Yangloni：稻田環繞嘅靜謐住宿體驗](https://images.gobaligo.id/images/2026-03/1774438987861-_2024-11-26_08.56.03.png)
+![2.Kajane Yangloni：稻田環繞嘅靜謐住宿體驗](https://images.gobaligo.id/images/2026-03/1774438988272-hotelimage.jpeg)
 
 * **瑜伽特色：**專屬私人瑜伽課程，喺稻田同熱帶花園之間放鬆身心。
 * **設施與風格：**傳統峇里島風格別墅配備現代設施，仲有泳池同Spa。
@@ -89,15 +89,15 @@ _srcHash: 99efeca30db0391d6dce6443cd6f06b4
 
 一片翠綠之中嘅奢華熱帶度假村，提供豐富嘅身心靈活動。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439098449-yoga-s-min.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439098847-9_copy.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439099279-59887153_140794976978807_2501876759506707461_n.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439099705-64583951_703461306732959_4818642285733213698_n.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439100087-98174243_629204687686567_2007769455198682604_n.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439100435-504315394.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439100873-bali-flower-bath-udaya-celebration-of-flowers-10.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439101487-img_0721-min.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439102083-mixcollage-19-feb-2024-10-58-pm-1089.jpg)
+![3. The Udaya Resorts and Spa](https://images.gobaligo.id/images/2026-03/1774439098449-yoga-s-min.jpg)
+![3. The Udaya Resorts and Spa](https://images.gobaligo.id/images/2026-03/1774439098847-9_copy.jpeg)
+![3. The Udaya Resorts and Spa](https://images.gobaligo.id/images/2026-03/1774439099279-59887153_140794976978807_2501876759506707461_n.jpeg)
+![3. The Udaya Resorts and Spa](https://images.gobaligo.id/images/2026-03/1774439099705-64583951_703461306732959_4818642285733213698_n.jpeg)
+![3. The Udaya Resorts and Spa](https://images.gobaligo.id/images/2026-03/1774439100087-98174243_629204687686567_2007769455198682604_n.jpeg)
+![3. The Udaya Resorts and Spa](https://images.gobaligo.id/images/2026-03/1774439100435-504315394.jpeg)
+![3. The Udaya Resorts and Spa](https://images.gobaligo.id/images/2026-03/1774439100873-bali-flower-bath-udaya-celebration-of-flowers-10.jpeg)
+![3. The Udaya Resorts and Spa](https://images.gobaligo.id/images/2026-03/1774439101487-img_0721-min.jpg)
+![3. The Udaya Resorts and Spa](https://images.gobaligo.id/images/2026-03/1774439102083-mixcollage-19-feb-2024-10-58-pm-1089.jpg)
 
 * **瑜伽特色**：定期舉辦瑜伽課程、踩單車同行山行程，令你全面融入大自然。
 * **設施與房型**：木質傢俬、溫暖色調裝修，部分房型有私人泳池。私人露台或陽台可以睇到花園景。
@@ -112,16 +112,16 @@ _srcHash: 99efeca30db0391d6dce6443cd6f06b4
 
 專注健康同平衡嘅度假村，好啱想身心靈療癒嘅旅人。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439195736-mixcollage-20-feb-2024-09-06-am-1544.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439196183-9-scaled.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439196642-531cf3adca69a43b344bd480330c137d.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439197063-171866559.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439197463-269893519.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439197867-270890107.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439198292-a7c4849d-34f0-4670-a70f-cff1ca0cfff5-1603908364330-8bc3a5bf9b90bd7ab90dbcc42549a986.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439198871-arj-3-yoga-class.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439199467-screen-shot-2021-08-04-at-11.13.16.png)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439200024-wakacje-i-wczasy-w-hotelu-alaya-jembawan-90910.jpeg)
+![4. Adiwana Resort Jembawan](https://images.gobaligo.id/images/2026-03/1774439195736-mixcollage-20-feb-2024-09-06-am-1544.jpg)
+![4. Adiwana Resort Jembawan](https://images.gobaligo.id/images/2026-03/1774439196183-9-scaled.jpeg)
+![4. Adiwana Resort Jembawan](https://images.gobaligo.id/images/2026-03/1774439196642-531cf3adca69a43b344bd480330c137d.jpeg)
+![4. Adiwana Resort Jembawan](https://images.gobaligo.id/images/2026-03/1774439197063-171866559.jpeg)
+![4. Adiwana Resort Jembawan](https://images.gobaligo.id/images/2026-03/1774439197463-269893519.jpg)
+![4. Adiwana Resort Jembawan](https://images.gobaligo.id/images/2026-03/1774439197867-270890107.jpg)
+![4. Adiwana Resort Jembawan](https://images.gobaligo.id/images/2026-03/1774439198292-a7c4849d-34f0-4670-a70f-cff1ca0cfff5-1603908364330-8bc3a5bf9b90bd7ab90dbcc42549a986.jpeg)
+![4. Adiwana Resort Jembawan](https://images.gobaligo.id/images/2026-03/1774439198871-arj-3-yoga-class.jpeg)
+![4. Adiwana Resort Jembawan](https://images.gobaligo.id/images/2026-03/1774439199467-screen-shot-2021-08-04-at-11.13.16.png)
+![4. Adiwana Resort Jembawan](https://images.gobaligo.id/images/2026-03/1774439200024-wakacje-i-wczasy-w-hotelu-alaya-jembawan-90910.jpeg)
 
 * **瑜伽特色**：提供瑜伽課程同阿育吠陀工作坊，令你更深入體驗身心療癒。
 * **設施與風格**：現代化設計結合峇里島特色，每間房都有寬敞浴室，仲提供浴袍同高檔洗浴用品。
@@ -136,16 +136,16 @@ _srcHash: 99efeca30db0391d6dce6443cd6f06b4
 
 坐落喺Petanu河畔嘅靜謐天堂，提供多樣化嘅活動同設施。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439263842-mixcollage-19-feb-2024-09-02-pm-8319.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439264636-14.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439265100-20220425-yoga-pavilion-full-2.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439265606-20220425-yoga-pavilion-full-4.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439266093-281379039.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439266603-281384289.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439267103-281384445.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439267510-281384690.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439267921-281384809.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439268311-393013818.jpeg)
+![5. Maya Ubud Resort & Spa](https://images.gobaligo.id/images/2026-03/1774439263842-mixcollage-19-feb-2024-09-02-pm-8319.jpg)
+![5. Maya Ubud Resort & Spa](https://images.gobaligo.id/images/2026-03/1774439264636-14.jpeg)
+![5. Maya Ubud Resort & Spa](https://images.gobaligo.id/images/2026-03/1774439265100-20220425-yoga-pavilion-full-2.jpg)
+![5. Maya Ubud Resort & Spa](https://images.gobaligo.id/images/2026-03/1774439265606-20220425-yoga-pavilion-full-4.jpg)
+![5. Maya Ubud Resort & Spa](https://images.gobaligo.id/images/2026-03/1774439266093-281379039.jpeg)
+![5. Maya Ubud Resort & Spa](https://images.gobaligo.id/images/2026-03/1774439266603-281384289.jpeg)
+![5. Maya Ubud Resort & Spa](https://images.gobaligo.id/images/2026-03/1774439267103-281384445.jpeg)
+![5. Maya Ubud Resort & Spa](https://images.gobaligo.id/images/2026-03/1774439267510-281384690.jpeg)
+![5. Maya Ubud Resort & Spa](https://images.gobaligo.id/images/2026-03/1774439267921-281384809.jpeg)
+![5. Maya Ubud Resort & Spa](https://images.gobaligo.id/images/2026-03/1774439268311-393013818.jpeg)
 
 * **瑜伽特色**：每日提供瑜伽課程，仲有戶外涼亭畀人練習。
 * **設施**：房間融合傳統峇里島風格同現代舒適，部分房型有私人泳池或花園景觀。
@@ -160,15 +160,15 @@ _srcHash: 99efeca30db0391d6dce6443cd6f06b4
 
 一個隱世嘅世外桃源，好啱成家人或者情侶一齊享受寧靜嘅田園假期。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439360702-331047587.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439361222-187681317.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439361604-223689835.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439362011-334497391.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439362422-334498059.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439362737-488623326.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439364106-whatsapp_image_2021-12-29_at_6.16.06_am.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439363453-489606648.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439363756-592729862.jpg)
+![6. The Hidden Paradise Ubud](https://images.gobaligo.id/images/2026-03/1774439360702-331047587.jpeg)
+![6. The Hidden Paradise Ubud](https://images.gobaligo.id/images/2026-03/1774439361222-187681317.jpeg)
+![6. The Hidden Paradise Ubud](https://images.gobaligo.id/images/2026-03/1774439361604-223689835.jpeg)
+![6. The Hidden Paradise Ubud](https://images.gobaligo.id/images/2026-03/1774439362011-334497391.jpeg)
+![6. The Hidden Paradise Ubud](https://images.gobaligo.id/images/2026-03/1774439362422-334498059.jpeg)
+![6. The Hidden Paradise Ubud](https://images.gobaligo.id/images/2026-03/1774439362737-488623326.jpeg)
+![6. The Hidden Paradise Ubud](https://images.gobaligo.id/images/2026-03/1774439364106-whatsapp_image_2021-12-29_at_6.16.06_am.jpeg)
+![6. The Hidden Paradise Ubud](https://images.gobaligo.id/images/2026-03/1774439363453-489606648.jpeg)
+![6. The Hidden Paradise Ubud](https://images.gobaligo.id/images/2026-03/1774439363756-592729862.jpg)
 
 * **瑜伽特色**：提供個人化同團體瑜伽課程，歡迎世界各地嘅瑜伽導師嚟呢度搞修行活動。
 * **住宿選擇**：有一房同兩房套房或者別墅，啱晒情侶、家庭同團體入住。房間全部面向Petanu河谷，日出景致靚到令人嘩一聲。
@@ -181,16 +181,16 @@ _srcHash: 99efeca30db0391d6dce6443cd6f06b4
 
 ## 7. **The Purist Villas and Spa**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439439236-124650011.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439439656-48e8d90bb62f8f003f9d7c4ed51cd3b4.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439440045-57105431.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439440458-117493365.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439440874-124650014.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439441379-124650022.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439441793-124650033.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439442194-141468369.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439442500-219176023.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439442899-_2024-11-26_09.34.49.png)
+![7. The Purist Villas and Spa](https://images.gobaligo.id/images/2026-03/1774439439236-124650011.jpeg)
+![7. The Purist Villas and Spa](https://images.gobaligo.id/images/2026-03/1774439439656-48e8d90bb62f8f003f9d7c4ed51cd3b4.jpeg)
+![7. The Purist Villas and Spa](https://images.gobaligo.id/images/2026-03/1774439440045-57105431.jpeg)
+![7. The Purist Villas and Spa](https://images.gobaligo.id/images/2026-03/1774439440458-117493365.jpeg)
+![7. The Purist Villas and Spa](https://images.gobaligo.id/images/2026-03/1774439440874-124650014.jpeg)
+![7. The Purist Villas and Spa](https://images.gobaligo.id/images/2026-03/1774439441379-124650022.jpeg)
+![7. The Purist Villas and Spa](https://images.gobaligo.id/images/2026-03/1774439441793-124650033.jpeg)
+![7. The Purist Villas and Spa](https://images.gobaligo.id/images/2026-03/1774439442194-141468369.jpeg)
+![7. The Purist Villas and Spa](https://images.gobaligo.id/images/2026-03/1774439442500-219176023.jpeg)
+![7. The Purist Villas and Spa](https://images.gobaligo.id/images/2026-03/1774439442899-_2024-11-26_09.34.49.png)
 
 呢間結合傳統同現代設計嘅奢華別墅，提供瑜伽課程同烹飪課程，仲有Spa療程。餐廳同咖啡廳供應峇里島小食、新鮮果汁同雞尾酒。位於當地村莊後面，呢度係想深入了解峇里島文化嘅完美選擇。
 
@@ -204,16 +204,16 @@ _srcHash: 99efeca30db0391d6dce6443cd6f06b4
 
 呢度以其標誌性嘅Jungle Fish泳池酒吧而聞名，坐擁峽谷景觀。提供私人泳池別墅，活動包括瑜伽課、稻田徒步同單車騎行。餐廳供應現代化嘅料理，令你喺自然中享受奢華。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439546535-mixcollage-20-feb-2024-07-37-am-9852.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439547117-morning-yoga-in-ubud.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439547748-untitled-1064.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439548184-yoga-in-ubud.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439548705-yoga-retreats-chapung-1.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439549090-215390701.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439549606-_2024-11-26_09.38.17.png)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439550079-blissful-morning-in-ubud.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439550437-chapung-sebali-resort-and-spa_1000_560_2627_1412319636.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439550872-chapung-sebali-resort-spa-ubud-206-08543-1110x700.jpeg)
+![8. Chapung Sebali](https://images.gobaligo.id/images/2026-03/1774439546535-mixcollage-20-feb-2024-07-37-am-9852.jpg)
+![8. Chapung Sebali](https://images.gobaligo.id/images/2026-03/1774439547117-morning-yoga-in-ubud.jpg)
+![8. Chapung Sebali](https://images.gobaligo.id/images/2026-03/1774439547748-untitled-1064.jpeg)
+![8. Chapung Sebali](https://images.gobaligo.id/images/2026-03/1774439548184-yoga-in-ubud.jpg)
+![8. Chapung Sebali](https://images.gobaligo.id/images/2026-03/1774439548705-yoga-retreats-chapung-1.jpg)
+![8. Chapung Sebali](https://images.gobaligo.id/images/2026-03/1774439549090-215390701.jpeg)
+![8. Chapung Sebali](https://images.gobaligo.id/images/2026-03/1774439549606-_2024-11-26_09.38.17.png)
+![8. Chapung Sebali](https://images.gobaligo.id/images/2026-03/1774439550079-blissful-morning-in-ubud.jpg)
+![8. Chapung Sebali](https://images.gobaligo.id/images/2026-03/1774439550437-chapung-sebali-resort-and-spa_1000_560_2627_1412319636.jpeg)
+![8. Chapung Sebali](https://images.gobaligo.id/images/2026-03/1774439550872-chapung-sebali-resort-spa-ubud-206-08543-1110x700.jpeg)
 
 👉 **特色：** Jungle Fish酒吧、峽谷美景、多元活動
 
@@ -225,16 +225,16 @@ _srcHash: 99efeca30db0391d6dce6443cd6f06b4
 
 呢間係一間靈性度假村，坐落喺詹普漢河（Campuhan River）隔籬，提供瑜伽同療癒課程。Ayusha Wellness館嘅療法好出名，房間設計結合舒適同自然，仲有私人露台。餐廳Banyan Loka供應素食同健康餐。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439874668-243310869.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439875189-187395352.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439875567-257383331.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439875964-281372577.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439876374-307918617.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439876788-521850302.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439877306-521850564.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439877720-521850567.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439878124-521851069.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439878523-526249802.jpg)
+![9. Adiwana Svarga Loka](https://images.gobaligo.id/images/2026-03/1774439874668-243310869.jpg)
+![9. Adiwana Svarga Loka](https://images.gobaligo.id/images/2026-03/1774439875189-187395352.jpg)
+![9. Adiwana Svarga Loka](https://images.gobaligo.id/images/2026-03/1774439875567-257383331.jpg)
+![9. Adiwana Svarga Loka](https://images.gobaligo.id/images/2026-03/1774439875964-281372577.jpg)
+![9. Adiwana Svarga Loka](https://images.gobaligo.id/images/2026-03/1774439876374-307918617.jpg)
+![9. Adiwana Svarga Loka](https://images.gobaligo.id/images/2026-03/1774439876788-521850302.jpg)
+![9. Adiwana Svarga Loka](https://images.gobaligo.id/images/2026-03/1774439877306-521850564.jpeg)
+![9. Adiwana Svarga Loka](https://images.gobaligo.id/images/2026-03/1774439877720-521850567.jpeg)
+![9. Adiwana Svarga Loka](https://images.gobaligo.id/images/2026-03/1774439878124-521851069.jpeg)
+![9. Adiwana Svarga Loka](https://images.gobaligo.id/images/2026-03/1774439878523-526249802.jpg)
 
 👉 **特色：** 靈性度假村、河畔景觀、專業療法
 
@@ -244,16 +244,16 @@ _srcHash: 99efeca30db0391d6dce6443cd6f06b4
 
 ## 10. **Honai Resort**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439966201-436201972.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439966639-85296289.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439967032-85499551.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439967429-85499814.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439967807-125690404.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439968196-125690410.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439968554-156481601.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439969107-177844978.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439969485-407775297.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774439969899-436201765.jpg)
+![10. Honai Resort](https://images.gobaligo.id/images/2026-03/1774439966201-436201972.jpg)
+![10. Honai Resort](https://images.gobaligo.id/images/2026-03/1774439966639-85296289.jpg)
+![10. Honai Resort](https://images.gobaligo.id/images/2026-03/1774439967032-85499551.jpg)
+![10. Honai Resort](https://images.gobaligo.id/images/2026-03/1774439967429-85499814.jpg)
+![10. Honai Resort](https://images.gobaligo.id/images/2026-03/1774439967807-125690404.jpg)
+![10. Honai Resort](https://images.gobaligo.id/images/2026-03/1774439968196-125690410.jpg)
+![10. Honai Resort](https://images.gobaligo.id/images/2026-03/1774439968554-156481601.jpg)
+![10. Honai Resort](https://images.gobaligo.id/images/2026-03/1774439969107-177844978.jpg)
+![10. Honai Resort](https://images.gobaligo.id/images/2026-03/1774439969485-407775297.jpg)
+![10. Honai Resort](https://images.gobaligo.id/images/2026-03/1774439969899-436201765.jpg)
 
 呢間度假村隱藏喺稻田同熱帶花園入面，提供每日瑜伽課程。Hotapa Kitchen餐廳供應全日健康餐點，包括素食同純素選擇。呢度嘅草屋房型營造自然氛圍，好啱想放鬆嘅旅人。
 
@@ -265,7 +265,7 @@ _srcHash: 99efeca30db0391d6dce6443cd6f06b4
 
 ## **烏布周邊景點**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_843bc34c8b0e7915ed3fdffb7ffcb8f3.jpg)
+![烏布周邊景點](https://images.gobaligo.id/vocus/vocus_843bc34c8b0e7915ed3fdffb7ffcb8f3.jpg)
 
 唔好唔記得睇我哋推薦嘅 [**100個烏布周邊景點**](/blog/ubud-guide/)，發掘更多自然同文化嘅靚嘢！
 

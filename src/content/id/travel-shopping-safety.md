@@ -17,7 +17,7 @@ lang: id
 _srcHash: cdfc1aabc19f413b6edebbc2ba57ca38
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b0f447cc3f00ad2869b6c9d9b734cc6.png)
+![Tips Belanja Wajib Tahu: Panduan Aman & Nyaman](https://images.gobaligo.id/vocus/vocus_3b0f447cc3f00ad2869b6c9d9b734cc6.png)
 
 【Belanja】 biasanya jadi salah satu kegiatan seru pas liburan. Waktu belanja, kenyamanan dan keamanan itu penting banget buat diperhatiin. Kadang kita terlalu fokus sama barang yang mau dibeli, jadi kurang waspada. Akibatnya, risiko kehilangan uang karena dompet jatuh atau dicopet bisa aja terjadi.
 

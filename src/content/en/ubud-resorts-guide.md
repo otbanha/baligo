@@ -80,7 +80,7 @@ In our article, we'll delve into the unique features and allure of each accommod
 
 ## A Secluded Haven in the Rainforest: The Kayon Jungle Resort
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4981dd2dd06665126fad41dc7c1a5b8a.jpg)
+![A Secluded Haven in the Rainforest: The Kayon Jungle Resort](https://images.gobaligo.id/vocus/vocus_4981dd2dd06665126fad41dc7c1a5b8a.jpg)
 
 Nestled in the tropical rainforest of Ubud, Bali, The Kayon Jungle Resort is surrounded by a babbling river, exuding a serene and elegant atmosphere. The resort's rooms and suites feature traditional Balinese architecture, each with a private pool or terrace, allowing you to savor nature's beauty in privacy.
 
@@ -92,7 +92,7 @@ The Kayon Jungle Resort is your ideal escape from the city's hustle and bustle, 
 
 ## A Hidden Rainforest Gem in Bali: **Aksari Resort Ubud**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aed929ee9dba24b82eece871e7c38f61.jpg)
+![A Hidden Rainforest Gem in Bali: Aksari Resort Ubud](https://images.gobaligo.id/vocus/vocus_aed929ee9dba24b82eece871e7c38f61.jpg)
 
 Craving a cultural journey? Don’t miss Ubud, Bali’s artistic heart! Whether it’s your first visit or a return trip, Aksari Resort lets you embrace a fresh experience amidst the rainforest.
 
@@ -108,7 +108,7 @@ The resort features a breathtaking infinity pool.
 
 ## A Riverside Sanctuary on the Ayung: Fivelements Bali Retreat
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3cf4a48303612e718c38be30a94bcb72.jpg)
+![A Riverside Sanctuary on the Ayung: Fivelements Bali Retreat](https://images.gobaligo.id/vocus/vocus_3cf4a48303612e718c38be30a94bcb72.jpg)
 
 Nestled along the sacred Ayung River, Fivelements Bali Retreat is renowned for its top-tier yoga, massage, and meditation facilities, making it a premier wellness sanctuary in Bali. The Ayung River is locally revered as a holy river, often used for spiritual cleansing, and the resort’s villas and suites all face the riverbank, allowing you to wake up to serene water views and start your day in tranquility.
 
@@ -120,7 +120,7 @@ Fivelements Bali Retreat is your ideal choice for finding balance and recharging
 
 ## Bali's Rice Field Sanctuary: Maya Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_009902a2e1b438f7cc688b351b11cafa.jpg)
+![Bali's Rice Field Sanctuary: Maya Ubud](https://images.gobaligo.id/vocus/vocus_009902a2e1b438f7cc688b351b11cafa.jpg)
 
 Tucked away in the serene heart of Ubud along the Petanu River, Maya Ubud is a natural oasis spanning 10 hectares, featuring exquisitely designed private pool villas and luxurious rooms.
 
@@ -134,7 +134,7 @@ Maya Ubud is your ideal choice for experiencing Bali's pastoral charm and achiev
 
 ## Bali's Japanese Hidden Gem: Hoshinoya Bali, Nestled in the Jungle
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_529d6f1035b1646318c27215a2340060.jpg)
+![Bali's Japanese Hidden Gem: Hoshinoya Bali, Nestled in the J](https://images.gobaligo.id/vocus/vocus_529d6f1035b1646318c27215a2340060.jpg)
 
 Stepping into Hoshinoya Bali feels like a journey through time, surrounded by Japanese architectural styles with a sacred river winding through the lush greenery.
 
@@ -150,7 +150,7 @@ If you're seeking a retreat, there's no need to worry about dining. Hoshinoya Re
 
 ## Bali's Hidden Paradise: **Natya Resort**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_51c91f9878bd2d4e544ee3503c042f00.jpg)
+![Bali's Hidden Paradise: Natya Resort](https://images.gobaligo.id/vocus/vocus_51c91f9878bd2d4e544ee3503c042f00.jpg)
 
 Nestled in a lush tropical rainforest, Natya Resort offers sun-drenched pools, lazy terrace loungers, aromatic spa treatments, a vibrant fitness center, fragrant dining, and a lively barbecue bar. Here, you'll be captivated and fully immersed in Bali's top-tier resort experience.
 
@@ -162,7 +162,7 @@ Natya Resort is an ideal choice for family getaways, with pool suites perfect fo
 
 ## Bali's Secret Greenery: ADIWANA BISMA
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4b3a07f8695a63e8af4fa8a484eb388f.jpg)
+![Bali's Secret Greenery: ADIWANA BISMA](https://images.gobaligo.id/vocus/vocus_4b3a07f8695a63e8af4fa8a484eb388f.jpg)
 
 With its romantic atmosphere and traditional charm, overlooking jungle and rice terrace views, ADIWANA BISMA is one of the most unforgettable stays in Ubud. Surrounded by pools, bars, and gardens, each morning begins with a continental breakfast to energize your day, while a waterslide adds a playful touch to the rooftop pool's leisurely hours.
 
@@ -176,7 +176,7 @@ Whether you're a family, a couple, or a solo traveler, ADIWANA BISMA caters to y
 
 ## A Modern Luxury and Wellness Retreat: COMO Uma Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_28db3409a019a24ff52a8b865746945e.jpg)
+![A Modern Luxury and Wellness Retreat: COMO Uma Ubud](https://images.gobaligo.id/vocus/vocus_28db3409a019a24ff52a8b865746945e.jpg)
 
 Nestled in the heart of Ubud, COMO Uma Ubud offers a luxurious and relaxing Bali experience with 46 contemporary Asian-style rooms, suites, and villas. Sunlight fills the spaces, allowing you to unwind completely.
 
@@ -188,7 +188,7 @@ COMO Uma Ubud boasts stunning views of the Campuhan Valley and provides a compli
 
 ## A Tropical Jungle Gem: The Udaya Resort and Spa
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_daa4c20f4cb743acd2d7105c21264d7c.jpg)
+![A Tropical Jungle Gem: The Udaya Resort and Spa](https://images.gobaligo.id/vocus/vocus_daa4c20f4cb743acd2d7105c21264d7c.jpg)
 
 The Udaya Resort and Spa is a hidden treasure nestled among Bali's popular attractions, renowned for its luxurious ambiance and top-tier facilities. With award-winning spa treatments, private pool villas, spacious suites, and a rooftop yoga hut, it offers a holistic relaxation experience for the mind and body.
 
@@ -202,7 +202,7 @@ The luxury of The Udaya Resort and Spa awaits your discovery!
 
 ## Bali's Artistic Hideaway: TANAH MERAH ART RESORT
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7206454ea934ad9a9e2b1e2dd2df6a0c.jpg)
+![Bali's Artistic Hideaway: TANAH MERAH ART RESORT](https://images.gobaligo.id/vocus/vocus_7206454ea934ad9a9e2b1e2dd2df6a0c.jpg)
 
 Perched along the Petanu River canyon and famed for its dreamy wooden architecture, TANAH MERAH ART RESORT is one of Ubud's most stunning accommodations. The resort is filled with tropical decor, showcasing local art and textiles, and features a fitness center, spa, and two pools for complete relaxation.
 
@@ -216,7 +216,7 @@ Recommended for travelers seeking family fun, villas and private suites are idea
 
 ## A Romantic Ubud Escape: Kamandalu Ubud Resort
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_08838e5eee8c9061c34fd2dbba966889.jpg)
+![A Romantic Ubud Escape: Kamandalu Ubud Resort](https://images.gobaligo.id/vocus/vocus_08838e5eee8c9061c34fd2dbba966889.jpg)
 
 Dreaming of a luxurious romantic getaway in Ubud? This five-star resort, nestled in Ubud's lush hillsides, masterfully blends traditional and contemporary styles. Its serene atmosphere makes you feel as if you're in a true Balinese mountain village, but with an added layer of luxury.
 
@@ -230,7 +230,7 @@ One of the most popular experiences is enjoying lunch or a romantic dinner on a 
 
 ## A Secluded Luxury Jungle Oasis: Viceroy Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f02523603bdfa6964c8f677af256da3.jpg)
+![A Secluded Luxury Jungle Oasis: Viceroy Bali](https://images.gobaligo.id/vocus/vocus_4f02523603bdfa6964c8f677af256da3.jpg)
 
 Viceroy Bali is more than just a hotel—it's a family-run sanctuary just a five-minute drive from the heart of Ubud. Its 40 luxurious private pool villas are nestled within a lush tropical jungle; step onto your balcony and the verdant scenery embraces you, washing away the fatigue of your journey.
 
@@ -242,7 +242,7 @@ Viceroy Bali is the ideal choice for escaping the city's hustle and immersing yo
 
 ## Bali's Rice Field Haven: CAHAYA INDAH VILLAS
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f492fbb588a78f89d51e3e16a69eee1c.jpg)
+![Bali's Rice Field Haven: CAHAYA INDAH VILLAS](https://images.gobaligo.id/vocus/vocus_f492fbb588a78f89d51e3e16a69eee1c.jpg)
 
 Nestled between rice paddies and forests, CAHAYA INDAH VILLAS is renowned for its open-plan design and tropical charm, making it one of Ubud's most enchanting stays. The villas feature spacious garden terraces and private pools, perfectly blending traditional Balinese culture with modern luxury.
 
@@ -256,7 +256,7 @@ Ideal for couples seeking a romantic getaway and families wanting ample space an
 
 ## Ubud's Hidden Gem: Kastara Resort
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f828dc5d662cd9ac286c25883526aa36.jpg)
+![Ubud's Hidden Gem: Kastara Resort](https://images.gobaligo.id/vocus/vocus_f828dc5d662cd9ac286c25883526aa36.jpg)
 
 Tucked away in Ubud, Kastara Resort welcomes guests with 40 rooms, each embracing stunning jungle views that are especially breathtaking as morning light spills in.
 
@@ -268,7 +268,7 @@ Kastara Resort is your ideal retreat for exploring Ubud’s culture and natural 
 
 ## Bali’s Hidden Gem: Padma Resort Ubud – Embrace Serenity and Luxury
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f38028688f83a980a0c35657d91d0fca.jpg)
+![Bali’s Hidden Gem: Padma Resort Ubud – Embrace Serenity and ](https://images.gobaligo.id/vocus/vocus_f38028688f83a980a0c35657d91d0fca.jpg)
 
 Nestled in a pristine river valley overlooking a lush primordial forest, Padma Resort Ubud is a sprawling, serene luxury escape with 149 rooms. Each room or suite offers captivating views, upholding the Padma brand’s exceptional service with a top-tier spa, a stunning 89-meter infinity pool with panoramic vistas, world-class dining, and modern event spaces.
 
@@ -278,7 +278,7 @@ Padma Resort Ubud feels like a secluded paradise, perfect for unwinding and expl
 
 ## Bali’s Mountain Boutique Hideaway: Chapung Sebali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_99b29d93bbf098d447152250498a706d.jpg)
+![Bali’s Mountain Boutique Hideaway: Chapung Sebali](https://images.gobaligo.id/vocus/vocus_99b29d93bbf098d447152250498a706d.jpg)
 
 Tucked into lush hills, just a 10-minute drive from central Ubud, Chapung Sebali is a secret sanctuary hidden among verdant wilderness and rice terraces—your ideal escape from the hustle and bustle, embracing nature at its finest.
 
@@ -292,7 +292,7 @@ If you seek ultimate privacy, the villas are the perfect choice for you.
 
 ## Bali's Sanctuary of Serenity: Mandapa, A Ritz-Carlton Reserve
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8e1ba599ed57179fd62e67e057a5cedd.jpg)
+![Bali's Sanctuary of Serenity: Mandapa, A Ritz-Carlton Reserv](https://images.gobaligo.id/vocus/vocus_8e1ba599ed57179fd62e67e057a5cedd.jpg)
 
 Like a luxurious sanctuary for body and soul, Mandapa, A Ritz-Carlton Reserve—named after the Sanskrit word for 'temple'—is located in Ubud, Bali's cultural heart, with the Ayung River flowing quietly beside it. Each villa and suite blends traditional Balinese architecture with modern comforts, featuring spacious living rooms, private terraces or pools, and stunning views of the river or rice terraces.
 
@@ -306,7 +306,7 @@ Mandapa, A Ritz-Carlton Reserve is the ideal place to explore Bali's natural bea
 
 ## Romantic Honeymoon Resort in the Heart of Ubud: Kaamala Resort Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8a51b441496df32cd0411552a8602e7a.jpg)
+![Romantic Honeymoon Resort in the Heart of Ubud: Kaamala Reso](https://images.gobaligo.id/vocus/vocus_8a51b441496df32cd0411552a8602e7a.jpg)
 
 Kaamala Resort Ubud is conveniently located in central Ubud, offering easy access to major attractions. The resort provides comfortable and stylish rooms equipped with free WiFi, air conditioning, flat-screen TVs, and private bathrooms. It also features an outdoor pool, spa, restaurant, and bar.
 
@@ -318,7 +318,7 @@ The resort offers a variety of leisure activities and experiences, including yog
 
 ## Luxurious Immersion in Nature: Blue Karma Dijiwa Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1d7b198e167d2a6515bbc60dc274bd3d.jpg)
+![Luxurious Immersion in Nature: Blue Karma Dijiwa Ubud](https://images.gobaligo.id/vocus/vocus_1d7b198e167d2a6515bbc60dc274bd3d.jpg)
 
 Blue Karma Dijiwa Ubud features Joglo-style suites crafted from Javanese teak, offering a unique luxury experience. Each suite boasts different views, overlooking tropical rainforests, lush green rice terraces, and a stunning infinity pool.
 
@@ -330,7 +330,7 @@ Blue Karma Dijiwa Ubud lets you immerse yourself in Ubud's natural beauty, exper
 
 ## A Peaceful Healing Journey in Ubud: Adiwana Resort Jembawan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_420952e1b770bc85f60adad5f3e98ff5.jpg)
+![A Peaceful Healing Journey in Ubud: Adiwana Resort Jembawan](https://images.gobaligo.id/vocus/vocus_420952e1b770bc85f60adad5f3e98ff5.jpg)
 
 Tucked away in the heart of Ubud, Adiwana Resort Jembawan is more than just a hotel—it's a boutique wellness retreat dedicated to rejuvenating your mind, body, and soul. The resort boasts an experienced team, including Ayurvedic doctors, yoga instructors, nutritionists, and lifestyle coaches, who tailor wellness programs to your personal needs, helping you restore balance.
 
@@ -344,7 +344,7 @@ Adiwana Resort Jembawan is close to popular attractions like the Ubud Palace, Sa
 
 ## A Romantic Encounter in the Luxurious Jungle: Capella Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e8029d1375646a90b5cba56b3f998772.jpg)
+![A Romantic Encounter in the Luxurious Jungle: Capella Ubud](https://images.gobaligo.id/vocus/vocus_e8029d1375646a90b5cba56b3f998772.jpg)
 
 Once named **the world's number one hotel** by an international travel magazine, Capella Ubud is nestled in the tropical rainforest of Ubud, Bali—a perfect blend of ultimate luxury and romance.
 
@@ -360,23 +360,23 @@ If you're searching for a luxurious and romantic resort, Capella Ubud is your id
 
 ## A Boutique Jungle Retreat: Rijasa Agung Resort and Villas
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540114271-510412195.jpg)
+![A Boutique Jungle Retreat: Rijasa Agung Resort and Villas](https://images.gobaligo.id/images/2026-03/1774540114271-510412195.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540114911-510412197.jpg)
+![A Boutique Jungle Retreat: Rijasa Agung Resort and Villas](https://images.gobaligo.id/images/2026-03/1774540114911-510412197.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540115367-510412214.jpg)
+![A Boutique Jungle Retreat: Rijasa Agung Resort and Villas](https://images.gobaligo.id/images/2026-03/1774540115367-510412214.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540115684-510411925.jpg)
+![A Boutique Jungle Retreat: Rijasa Agung Resort and Villas](https://images.gobaligo.id/images/2026-03/1774540115684-510411925.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540116002-510411967.jpg)
+![A Boutique Jungle Retreat: Rijasa Agung Resort and Villas](https://images.gobaligo.id/images/2026-03/1774540116002-510411967.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540116455-510411969.jpg)
+![A Boutique Jungle Retreat: Rijasa Agung Resort and Villas](https://images.gobaligo.id/images/2026-03/1774540116455-510411969.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540116844-510412090.jpg)
+![A Boutique Jungle Retreat: Rijasa Agung Resort and Villas](https://images.gobaligo.id/images/2026-03/1774540116844-510412090.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540117252-510412091.jpg)
+![A Boutique Jungle Retreat: Rijasa Agung Resort and Villas](https://images.gobaligo.id/images/2026-03/1774540117252-510412091.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540117611-510412149.jpg)
+![A Boutique Jungle Retreat: Rijasa Agung Resort and Villas](https://images.gobaligo.id/images/2026-03/1774540117611-510412149.jpg)
 
 Nestled in Ubud's tropical rainforest above the Ayung River, Rijasa Agung Resort and Villas offers breathtaking views of Mount Batukaru. Just a 20-minute drive from Ubud's center, the hotel provides a complimentary shuttle for easy access to town, letting you enjoy a peaceful escape that's still close to the action.
 
@@ -388,25 +388,25 @@ Rijasa Agung Resort's rooms blend modern and classic styles, with marble floors 
 
 ## Experience Star-Worthy Luxury: Soulshine Bali
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540170557-201679127.jpg)
+![Experience Star-Worthy Luxury: Soulshine Bali](https://images.gobaligo.id/images/2026-03/1774540170557-201679127.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540171132-201780130.jpg)
+![Experience Star-Worthy Luxury: Soulshine Bali](https://images.gobaligo.id/images/2026-03/1774540171132-201780130.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540171527-394535033.jpg)
+![Experience Star-Worthy Luxury: Soulshine Bali](https://images.gobaligo.id/images/2026-03/1774540171527-394535033.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540171895-409156505.jpg)
+![Experience Star-Worthy Luxury: Soulshine Bali](https://images.gobaligo.id/images/2026-03/1774540171895-409156505.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540172475-409516149.jpg)
+![Experience Star-Worthy Luxury: Soulshine Bali](https://images.gobaligo.id/images/2026-03/1774540172475-409516149.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540172943-409516170.jpg)
+![Experience Star-Worthy Luxury: Soulshine Bali](https://images.gobaligo.id/images/2026-03/1774540172943-409516170.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540173492-409519257.jpg)
+![Experience Star-Worthy Luxury: Soulshine Bali](https://images.gobaligo.id/images/2026-03/1774540173492-409519257.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540173891-416032895.jpg)
+![Experience Star-Worthy Luxury: Soulshine Bali](https://images.gobaligo.id/images/2026-03/1774540173891-416032895.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540174293-480127600.jpg)
+![Experience Star-Worthy Luxury: Soulshine Bali](https://images.gobaligo.id/images/2026-03/1774540174293-480127600.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540174706-148375661.jpg)
+![Experience Star-Worthy Luxury: Soulshine Bali](https://images.gobaligo.id/images/2026-03/1774540174706-148375661.jpg)
 
 **Location**｜Soulshine Bali is set in Ubud, surrounded by beautiful gardens and offering free private parking. This resort boasts a laid-back atmosphere and stunning natural scenery, perfect for travelers seeking peace and relaxation.
 
@@ -420,25 +420,25 @@ Rijasa Agung Resort's rooms blend modern and classic styles, with marble floors 
 
 ## A Luxurious Oasis in the Heart of Ubud: Komaneka at Rasa Sayang
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540235749-41962612.jpg)
+![A Luxurious Oasis in the Heart of Ubud: Komaneka at Rasa Say](https://images.gobaligo.id/images/2026-03/1774540235749-41962612.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540236113-65851106.jpg)
+![A Luxurious Oasis in the Heart of Ubud: Komaneka at Rasa Say](https://images.gobaligo.id/images/2026-03/1774540236113-65851106.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540236532-73659685.jpg)
+![A Luxurious Oasis in the Heart of Ubud: Komaneka at Rasa Say](https://images.gobaligo.id/images/2026-03/1774540236532-73659685.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540236944-77405319.jpg)
+![A Luxurious Oasis in the Heart of Ubud: Komaneka at Rasa Say](https://images.gobaligo.id/images/2026-03/1774540236944-77405319.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540237368-123036078.jpg)
+![A Luxurious Oasis in the Heart of Ubud: Komaneka at Rasa Say](https://images.gobaligo.id/images/2026-03/1774540237368-123036078.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540237688-225377465.jpg)
+![A Luxurious Oasis in the Heart of Ubud: Komaneka at Rasa Say](https://images.gobaligo.id/images/2026-03/1774540237688-225377465.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540238090-309262633.jpg)
+![A Luxurious Oasis in the Heart of Ubud: Komaneka at Rasa Say](https://images.gobaligo.id/images/2026-03/1774540238090-309262633.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540238486-5906331.jpg)
+![A Luxurious Oasis in the Heart of Ubud: Komaneka at Rasa Say](https://images.gobaligo.id/images/2026-03/1774540238486-5906331.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540238892-5906377.jpg)
+![A Luxurious Oasis in the Heart of Ubud: Komaneka at Rasa Say](https://images.gobaligo.id/images/2026-03/1774540238892-5906377.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540239209-33964023.jpg)
+![A Luxurious Oasis in the Heart of Ubud: Komaneka at Rasa Say](https://images.gobaligo.id/images/2026-03/1774540239209-33964023.jpg)
 
 **Location**｜Komaneka at Rasa Sayang is located in central Ubud on bustling Monkey Forest Road, just a 5-minute walk from Ubud Market. This prime location allows you to easily explore Ubud's charm, with dining, shopping, and cultural experiences all within easy reach.
 
@@ -452,25 +452,25 @@ Rijasa Agung Resort's rooms blend modern and classic styles, with marble floors 
 
 ## World-Class Service at Adiwana Suweta
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540281530-287594869.jpg)
+![World-Class Service at Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540281530-287594869.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540282734-293729686.jpg)
+![World-Class Service at Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540282734-293729686.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540283356-306215810.jpg)
+![World-Class Service at Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540283356-306215810.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540283930-306219185.jpg)
+![World-Class Service at Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540283930-306219185.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540284598-322118154.jpg)
+![World-Class Service at Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540284598-322118154.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540285202-322118171.jpg)
+![World-Class Service at Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540285202-322118171.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540285985-324929256.jpg)
+![World-Class Service at Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540285985-324929256.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540286736-324929343.jpg)
+![World-Class Service at Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540286736-324929343.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540287243-432766801.jpg)
+![World-Class Service at Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540287243-432766801.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540287809-536098818.jpg)
+![World-Class Service at Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540287809-536098818.jpg)
 
 Ranked on the "Best Hotels of 2024" list, it took third place in the "Top 25 Hotels in Asia" ([see the full ranking](/blog/top-bali-hotels-asia-rankings/))!
 
@@ -486,17 +486,17 @@ Ranked on the "Best Hotels of 2024" list, it took third place in the "Top 25 Hot
 
 ## New 5-Star Hotel Opening in 2024: Anantara Ubud Bali Resort
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540320301-2b34b0dc6727962b47c87de0497dc01e_large.jpeg)
+![New 5-Star Hotel Opening in 2024: Anantara Ubud Bali Resort](https://images.gobaligo.id/images/2026-03/1774540320301-2b34b0dc6727962b47c87de0497dc01e_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540321404-10b1c7c3e8731e224e11707a74bc5810_large.jpeg)
+![New 5-Star Hotel Opening in 2024: Anantara Ubud Bali Resort](https://images.gobaligo.id/images/2026-03/1774540321404-10b1c7c3e8731e224e11707a74bc5810_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540322522-31c9379f443d45c20d49e0d0809ca71a_large.jpeg)
+![New 5-Star Hotel Opening in 2024: Anantara Ubud Bali Resort](https://images.gobaligo.id/images/2026-03/1774540322522-31c9379f443d45c20d49e0d0809ca71a_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540323609-9212cd660b8d31b2fd1d7dee05166755_large.jpeg)
+![New 5-Star Hotel Opening in 2024: Anantara Ubud Bali Resort](https://images.gobaligo.id/images/2026-03/1774540323609-9212cd660b8d31b2fd1d7dee05166755_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540324369-419804782.jpg)
+![New 5-Star Hotel Opening in 2024: Anantara Ubud Bali Resort](https://images.gobaligo.id/images/2026-03/1774540324369-419804782.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540325205-553027720.jpg)
+![New 5-Star Hotel Opening in 2024: Anantara Ubud Bali Resort](https://images.gobaligo.id/images/2026-03/1774540325205-553027720.jpg)
 
 **Location** | Anantara, the luxury hospitality group, opens its fourth premium property in Bali—Anantara Ubud Bali Resort—nestled in Payangan village in the Ubud area. Hidden among tropical rainforests and lush rice paddies, it offers unparalleled tranquility and privacy. From here, it's just a 20-minute drive to central Ubud and Kintamani. The resort's secluded setting allows guests to enjoy 360-degree, unobstructed views of the tropical forest.
 
@@ -510,25 +510,25 @@ Ranked on the "Best Hotels of 2024" list, it took third place in the "Top 25 Hot
 
 ## A Peaceful Oasis in the Heart of Ubud: Plataran Ubud Hotel & Spa
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540640396-8925d7643bde18e69beeabb5fe6eb521.webp)
+![A Peaceful Oasis in the Heart of Ubud: Plataran Ubud Hotel &](https://images.gobaligo.id/images/2026-03/1774540640396-8925d7643bde18e69beeabb5fe6eb521.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540640852-489880_17022014250051126256.webp)
+![A Peaceful Oasis in the Heart of Ubud: Plataran Ubud Hotel &](https://images.gobaligo.id/images/2026-03/1774540640852-489880_17022014250051126256.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540641235-489880_17022014370051126583.webp)
+![A Peaceful Oasis in the Heart of Ubud: Plataran Ubud Hotel &](https://images.gobaligo.id/images/2026-03/1774540641235-489880_17022014370051126583.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540641644-489880_17022014390051126654.webp)
+![A Peaceful Oasis in the Heart of Ubud: Plataran Ubud Hotel &](https://images.gobaligo.id/images/2026-03/1774540641644-489880_17022014390051126654.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540642063-489880_17022108550051144034.webp)
+![A Peaceful Oasis in the Heart of Ubud: Plataran Ubud Hotel &](https://images.gobaligo.id/images/2026-03/1774540642063-489880_17022108550051144034.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540642444-489880_17071810210054510876.webp)
+![A Peaceful Oasis in the Heart of Ubud: Plataran Ubud Hotel &](https://images.gobaligo.id/images/2026-03/1774540642444-489880_17071810210054510876.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540642897-38586847.jpg)
+![A Peaceful Oasis in the Heart of Ubud: Plataran Ubud Hotel &](https://images.gobaligo.id/images/2026-03/1774540642897-38586847.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540643274-89601994.jpg)
+![A Peaceful Oasis in the Heart of Ubud: Plataran Ubud Hotel &](https://images.gobaligo.id/images/2026-03/1774540643274-89601994.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540643741-460827383.jpg)
+![A Peaceful Oasis in the Heart of Ubud: Plataran Ubud Hotel &](https://images.gobaligo.id/images/2026-03/1774540643741-460827383.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540644199-461665298.jpg)
+![A Peaceful Oasis in the Heart of Ubud: Plataran Ubud Hotel &](https://images.gobaligo.id/images/2026-03/1774540644199-461665298.jpg)
 
 **Location** Plataran Ubud Hotel & Spa is tucked away in a small lane just off Ubud's city center, a mere 3-minute walk from the lively downtown area, yet surrounded by tranquil rice paddies. It perfectly combines a prime location with a serene atmosphere, making it an ideal retreat for relaxation and escaping the crowds.
 **Facilities** The hotel boasts a wealth of amenities, including:
@@ -559,27 +559,27 @@ Plataran Ubud Hotel & Spa is the perfect blend of nature and modern luxury in Ub
 
 ## A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The Garcia Ubud
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540697666-390304260.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540697666-390304260.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540698104-5ea6bf57fd6de61fcfea7c64d46d3735.jpeg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540698104-5ea6bf57fd6de61fcfea7c64d46d3735.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540698468-30a1dedd43aaae131a75a676c6fbc2f7.jpeg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540698468-30a1dedd43aaae131a75a676c6fbc2f7.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540698789-69bc041104d66ab3b2f484f56bdeb206.jpeg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540698789-69bc041104d66ab3b2f484f56bdeb206.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540699193-840c0a1e4bea2c5304781f9796109326.jpeg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540699193-840c0a1e4bea2c5304781f9796109326.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540699630-4335a6541bb8acc4128063e8b8ab1378.jpeg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540699630-4335a6541bb8acc4128063e8b8ab1378.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540699966-244533532.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540699966-244533532.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540700269-244558525.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540700269-244558525.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540700590-244558820.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540700590-244558820.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540700927-244559070.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540700927-244559070.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540701345-295876106.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540701345-295876106.jpg)
 
 **Location** In the cultural heart of Ubud, blending tranquility with convenience
 
@@ -607,37 +607,37 @@ Nestled in Bali's artistic and cultural capital of Ubud, the resort is surrounde
 - “Morning yoga with the rice terrace sunrise was the highlight of each day.”
 - “The space and privacy of the two-bedroom villa let three generations of our family relax freely.”
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540785083-788133697.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540785083-788133697.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540786049-788133744.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540786049-788133744.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540786556-788133773.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540786556-788133773.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540786958-789987751.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540786958-789987751.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540787354-794333962.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540787354-794333962.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540787767-794333979.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540787767-794333979.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540788110-794333984.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540788110-794333984.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540788487-l.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540788487-l.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540788884-l2.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540788884-l2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540789243-l3.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540789243-l3.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540789715-s.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540789715-s.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540790207-1.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540790207-1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540790639-787397547.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540790639-787397547.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540791032-788133426.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540791032-788133426.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540791336-788133611.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540791336-788133611.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774540791630-788133656.jpg)
+![A Five-Star Hidden Paradise Amid Ubud's Rice Terraces: The G](https://images.gobaligo.id/images/2026-03/1774540791630-788133656.jpg)
 
 On January 15, 2026, Marriott Bonvoy's Tribute Portfolio series will debut a new resort in Ubud, Bali: Hiliwatu. Hiliwatu symbolizes a deep connection with the earth. Spanning 26,000 square meters, the resort features just 38 guest units, including suites and villas, along with unique design elements like a helipad and a 24-meter-high lobby.
 
@@ -656,25 +656,25 @@ The hotel deeply connects with local culture, offering traditional craft worksho
 
 If you want to stay in the 'real jungle' in Ubud, Sthala is probably one of the closest options to that dream. This five-star boutique hotel under Marriott's Tribute Portfolio series sits on a hill in Lodtunduh village, right next to the Wos River. Nearly all 143 rooms face the river valley and rainforest, with balconies opening onto a sea of green.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775730802238-unnamed_2_.webp)
+![Ubud Jungle River Retreat — Sthala, a Tribute Portfolio Hote](https://images.gobaligo.id/images/2026-04/1775730802238-unnamed_2_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775730803119-unnamed_3_.webp)
+![Ubud Jungle River Retreat — Sthala, a Tribute Portfolio Hote](https://images.gobaligo.id/images/2026-04/1775730803119-unnamed_3_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775730803541-unnamed.webp)
+![Ubud Jungle River Retreat — Sthala, a Tribute Portfolio Hote](https://images.gobaligo.id/images/2026-04/1775730803541-unnamed.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775730803870-2026-03-07_1_.webp)
+![Ubud Jungle River Retreat — Sthala, a Tribute Portfolio Hote](https://images.gobaligo.id/images/2026-04/1775730803870-2026-03-07_1_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775730804255-2026-03-07_2_.webp)
+![Ubud Jungle River Retreat — Sthala, a Tribute Portfolio Hote](https://images.gobaligo.id/images/2026-04/1775730804255-2026-03-07_2_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775730804622-2026-03-07_3_.webp)
+![Ubud Jungle River Retreat — Sthala, a Tribute Portfolio Hote](https://images.gobaligo.id/images/2026-04/1775730804622-2026-03-07_3_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775730804989-2026-03-07_4_.webp)
+![Ubud Jungle River Retreat — Sthala, a Tribute Portfolio Hote](https://images.gobaligo.id/images/2026-04/1775730804989-2026-03-07_4_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775730805363-2026-03-07_5_.webp)
+![Ubud Jungle River Retreat — Sthala, a Tribute Portfolio Hote](https://images.gobaligo.id/images/2026-04/1775730805363-2026-03-07_5_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775730805730-2026-03-07.webp)
+![Ubud Jungle River Retreat — Sthala, a Tribute Portfolio Hote](https://images.gobaligo.id/images/2026-04/1775730805730-2026-03-07.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775730806136-unnamed_1_.webp)
+![Ubud Jungle River Retreat — Sthala, a Tribute Portfolio Hote](https://images.gobaligo.id/images/2026-04/1775730806136-unnamed_1_.webp)
 
 **📍 Location** | The hotel is about a 15-minute drive from Ubud city center, not right in the heart of town, but they offer a free daily shuttle to and from central Ubud, which is a nice touch. Ubud Monkey Forest is about 10 minutes away by car, and Bali Zoo and Bali Bird Park are within 3 km, making it easy to plan activities. The downside is that if you plan to explore South Bali (Seminyak, Canggu, Uluwatu) at the same time, the daily commute can be tiring. This hotel is best suited for travelers focusing on Ubud itineraries.
 
@@ -690,25 +690,25 @@ If you want to stay in the 'real jungle' in Ubud, Sthala is probably one of the 
 
 ## Jungle Serenity Retreat – Ubud Nyuh Bali Resort & Spa
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779504901746-1mc3f12000rfbxdjc9ee5_w_1280_853_r5.webp)
+![Jungle Serenity Retreat – Ubud Nyuh Bali Resort & Spa](https://images.gobaligo.id/images/2026-05/1779504901746-1mc3f12000rfbxdjc9ee5_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779504902783-1mc5f12000rfclp3316f2_w_1280_853_r5.webp)
+![Jungle Serenity Retreat – Ubud Nyuh Bali Resort & Spa](https://images.gobaligo.id/images/2026-05/1779504902783-1mc5f12000rfclp3316f2_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779504903294-1mc5h12000rfbiamb5259_w_1280_853_r5.webp)
+![Jungle Serenity Retreat – Ubud Nyuh Bali Resort & Spa](https://images.gobaligo.id/images/2026-05/1779504903294-1mc5h12000rfbiamb5259_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779504903801-1mc5n12000rf9dvreef6b_w_1280_853_r5.webp)
+![Jungle Serenity Retreat – Ubud Nyuh Bali Resort & Spa](https://images.gobaligo.id/images/2026-05/1779504903801-1mc5n12000rf9dvreef6b_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779504904399-0220m12000ri8p5xg684c_w_1280_853_r5.webp)
+![Jungle Serenity Retreat – Ubud Nyuh Bali Resort & Spa](https://images.gobaligo.id/images/2026-05/1779504904399-0220m12000ri8p5xg684c_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779504904907-0221912000l0qwtc66c31_w_1280_853_r5.webp)
+![Jungle Serenity Retreat – Ubud Nyuh Bali Resort & Spa](https://images.gobaligo.id/images/2026-05/1779504904907-0221912000l0qwtc66c31_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779504905434-0222412000sb09gw62f9e_w_1280_853_r5.webp)
+![Jungle Serenity Retreat – Ubud Nyuh Bali Resort & Spa](https://images.gobaligo.id/images/2026-05/1779504905434-0222412000sb09gw62f9e_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779504905964-0224412000l0qwoi61c9f_w_1280_853_r5.webp)
+![Jungle Serenity Retreat – Ubud Nyuh Bali Resort & Spa](https://images.gobaligo.id/images/2026-05/1779504905964-0224412000l0qwoi61c9f_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779504906525-1mc0m12000rf983196ec5_w_1280_853_r5.webp)
+![Jungle Serenity Retreat – Ubud Nyuh Bali Resort & Spa](https://images.gobaligo.id/images/2026-05/1779504906525-1mc0m12000rf983196ec5_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779504907037-1mc1r12000rf9es6kdfc7_w_1280_853_r5.webp)
+![Jungle Serenity Retreat – Ubud Nyuh Bali Resort & Spa](https://images.gobaligo.id/images/2026-05/1779504907037-1mc1r12000rf9es6kdfc7_w_1280_853_r5.webp)
 
 Tucked away in the Lodtunduh village south of Ubud, this five-star villa resort is a world away from the hustle of Ubud's main streets. Surrounded by rice paddies and tropical gardens, it follows a holistic retreat philosophy—yoga, meditation, and spa all in one. Perfect for those coming to Bali to truly unwind, not just to snap photos for Instagram.
 
@@ -729,25 +729,25 @@ Tucked away in the Lodtunduh village south of Ubud, this five-star villa resort 
 
 ## Sanggraloka Ubud - Opening in 2026
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513260709-1mc0812000p1vcdvd6973_w_1280_853_r5.webp)
+![Sanggraloka Ubud - Opening in 2026](https://images.gobaligo.id/images/2026-06/1781513260709-1mc0812000p1vcdvd6973_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513338926-0226612000oy42u9o5345_w_1280_853_r5.webp)
+![Sanggraloka Ubud - Opening in 2026](https://images.gobaligo.id/images/2026-06/1781513338926-0226612000oy42u9o5345_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513559571-1mc4e12000p6jzw3z9944_w_1280_853_r5.webp)
+![Sanggraloka Ubud - Opening in 2026](https://images.gobaligo.id/images/2026-06/1781513559571-1mc4e12000p6jzw3z9944_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513562113-1mc1z12000p6kh64d03bc_w_1280_853_r5.webp)
+![Sanggraloka Ubud - Opening in 2026](https://images.gobaligo.id/images/2026-06/1781513562113-1mc1z12000p6kh64d03bc_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513562490-1mc2n12000p6kh2o77c18_w_1280_853_r5.webp)
+![Sanggraloka Ubud - Opening in 2026](https://images.gobaligo.id/images/2026-06/1781513562490-1mc2n12000p6kh2o77c18_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513633878-unnamed_1_.webp)
+![Sanggraloka Ubud - Opening in 2026](https://images.gobaligo.id/images/2026-06/1781513633878-unnamed_1_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513635848-1mc3112000s0w5l6he366_w_1280_853_r5.webp)
+![Sanggraloka Ubud - Opening in 2026](https://images.gobaligo.id/images/2026-06/1781513635848-1mc3112000s0w5l6he366_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513637123-unnamed.webp)
+![Sanggraloka Ubud - Opening in 2026](https://images.gobaligo.id/images/2026-06/1781513637123-unnamed.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513405660-0221s12000p80y955ef27_w_1280_853_r5.webp)
+![Sanggraloka Ubud - Opening in 2026](https://images.gobaligo.id/images/2026-06/1781513405660-0221s12000p80y955ef27_w_1280_853_r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513428141-1mc0512000p1v4wqs8d67_w_1280_853_r5.webp)
+![Sanggraloka Ubud - Opening in 2026](https://images.gobaligo.id/images/2026-06/1781513428141-1mc0512000p1v4wqs8d67_w_1280_853_r5.webp)
 
 📍 **Location**｜Sanggraloka Ubud is nestled in the village of Bresela in Payangan, the northern highlands of Ubud, surrounded by tropical jungle and river valleys, about a 15-minute drive from central Ubud. Nearby attractions include the Tegallalang Rice Terraces and Jungle Swing, both within a 16-minute drive, making it an ideal choice for travelers seeking to escape the hustle and immerse themselves in the mountains.
 

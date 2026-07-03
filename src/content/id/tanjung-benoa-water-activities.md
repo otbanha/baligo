@@ -61,7 +61,7 @@ Smartraveller Australia menyarankan, sebelum ikut aktivitas petualangan seperti 
 
 A1: Paralayang paling populer, karena bisa lihat pemandangan laut Tanjung Benoa dari atas sambil merasakan sensasi terbang. Selain itu, sea walker juga cukup populer karena kamu bisa turun ke dasar laut tanpa perlu menahan napas.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_84e7b1fd3bbfdd2efa3ce50265a4985f.jpg)
+![Pertanyaan Umum (FAQ)](https://images.gobaligo.id/vocus/vocus_84e7b1fd3bbfdd2efa3ce50265a4985f.jpg)
 
 **Q2: Kisaran harga untuk aktivitas air berapa?**
 

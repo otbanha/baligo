@@ -26,7 +26,7 @@ _srcHash: 41ee6c6a8520c5b39426309a56773b8d
 
 喺努沙佩尼達四圍走可能會有啲複雜，所以提前做好準備好重要，確保你嘅旅程盡可能有趣同舒服。呢份完整指南總結晒所有可用嘅交通方式，等你可以決定邊種最啱你。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e93271a5a135e6f7a082fa950125b0f4.png)
+![Nusa Penida佩尼達島的士、Gojek/Grab、包車、電單車交通攻略](https://images.gobaligo.id/vocus/vocus_e93271a5a135e6f7a082fa950125b0f4.png)
 
 針對佩尼達島我哋總共有五集介紹，一齊嚟更加深入認識呢個海島天堂！其他四集呢度有傳送門：
 
@@ -55,7 +55,7 @@ Nusa Penida目前仲未有，估計以後都唔會有Grab同Gojek服務，因為
 
 喺佩尼達島好難租車自己揸車周圍去！呢度嘅路又窄又難行，去過嘅朋友一定好認同！就算對有經驗嘅司機嚟講都有一定挑戰！更常見嘅做法係租一架有司機嘅車（包車），咁樣周圍去會方便好多。因為請人帶你遊覽呢個島嘅價錢好抵，其實冇乜理由要自己租車。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1dafe21084ec2f3f2ba1baeb2f8fed2e.png)
+![可以自己租車嗎？](https://images.gobaligo.id/vocus/vocus_1dafe21084ec2f3f2ba1baeb2f8fed2e.png)
 
 **Klook提供咗好多優惠行程：**
 

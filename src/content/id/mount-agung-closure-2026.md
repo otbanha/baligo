@@ -32,7 +32,7 @@ _srcHash: 0a67766e4ce6b56987c15a857af9d90b
 
 Kalau kamu lagi ada rencana naik Gunung Agung di Bali dalam waktu dekat, tahan dulu ya.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775359906886-agung.jpeg)
+![Mau naik Gunung Agung bulan April? Baca ini dulu sebelum boo](https://images.gobaligo.id/images/2026-04/1775359906886-agung.jpeg)
 
 ## Akhir Maret sampai akhir April, Gunung Agung ditutup total
 

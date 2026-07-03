@@ -19,7 +19,7 @@ lang: en
 _srcHash: fe53cedde55a5fea14acec548ac86ddc
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f0c03f764badb198fc2e90c575d202a6.jpg)
+![Ubud Sound Healing/Singing Bowl Meditation](https://images.gobaligo.id/vocus/vocus_f0c03f764badb198fc2e90c575d202a6.jpg)
 
 Ubud is an ideal sanctuary for those seeking physical, mental, and spiritual healing. Singing bowl meditation has become a popular wellness experience on the 'Island of the Gods,' combining ancient sound therapy with Bali's unique spiritual atmosphere. When copper singing bowls are gently struck or rubbed, they produce deep, harmonious resonant frequencies. These sound waves penetrate the body, helping to release stress, balance chakras, and guide participants into a deep meditative state. Experiencing singing bowl healing amidst Bali's tropical rainforests, rice fields, or river valleys allows one to resonate with nature's energy, achieving complete relaxation of mind, body, and spirit.
 
@@ -54,7 +54,7 @@ Here’s why language isn’t a barrier and the few key words you’ll need to u
 
 Before or after the session, the instructor might say these phrases:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a6052ec2cda08abdf74e460afd4e53a8.png)
+![2. You only need to understand these key words (instructions](https://images.gobaligo.id/vocus/vocus_a6052ec2cda08abdf74e460afd4e53a8.png)
 
 ### 3. Tips and Recommendations
 
@@ -68,7 +68,7 @@ Before or after the session, the instructor might say these phrases:
 
 ## 💡 Tips for Attending Sound Healing (2026 Edition)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0637db6806040294fe1d22fd68ddf89f.jpg)
+![Tips for Attending Sound Healing (2026 Edition)](https://images.gobaligo.id/vocus/vocus_0637db6806040294fe1d22fd68ddf89f.jpg)
 
 - **Dress Code:** Wear **comfortable, loose, and warm** clothing. Although Bali is hot, your body remains still during sound healing, and the room usually has fans. You might feel cold after lying down for a while (plus your body temperature drops when you fall asleep), so remember to use the provided blanket.
 - **Off-Season Advantage:** Attending such sessions during the off-season means a classroom that might usually be packed with 30 people could have only 10. With more space and fewer distractions, you can deeply feel the wavelengths of the singing bowls.

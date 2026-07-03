@@ -17,7 +17,7 @@ lang: id
 _srcHash: b3882a6decf7549c87ab3baab704b975
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5ec06768be3729d47ff16e75a3e87684.jpg)
+![2026年Bali自由行｜行前終極指南：出發前必看 7 大重點！簽證、換匯、住宿、電壓/轉接器...一次搞定](https://images.gobaligo.id/vocus/vocus_5ec06768be3729d47ff16e75a3e87684.jpg)
 
 2026 年 Tripadvisor 網友評選第一名的度假勝地——**Bali**，你準備好了嗎？🏝️ 無論是想去Ubud感受梯田寧靜，還是在Canggu體驗衝浪派對，這支影片為你整理了「2026 Bali行前終極指南」！
 
@@ -74,7 +74,7 @@ https://youtu.be/H5N5_UuK7TI
 
 ### Rekomendasi Akomodasi
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cb23993cde9c417ee4093fb3bd3de849.jpg)
+![Rekomendasi Akomodasi](https://images.gobaligo.id/vocus/vocus_cb23993cde9c417ee4093fb3bd3de849.jpg)
 
 Kami rekomendasiin akomodasi di Bali yang semuanya berkualitas tanpa komplain, udah dikelompokin per zona/kategori. Yang lagi cari tempat nginep di Bali wajib banget dicek! Klik [di sini](/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 
@@ -101,7 +101,7 @@ Kami rekomendasiin akomodasi di Bali yang semuanya berkualitas tanpa komplain, u
 
 ## Rekomendasi Pengalaman Mendalam
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7158202f82112fc1d0f02beb30599cff.jpg)
+![Rekomendasi Pengalaman Mendalam](https://images.gobaligo.id/vocus/vocus_7158202f82112fc1d0f02beb30599cff.jpg)
 
 ### Seminyak/Canggu Workshop
 
@@ -131,7 +131,7 @@ Kami rekomendasiin akomodasi di Bali yang semuanya berkualitas tanpa komplain, u
 
 ### Kelas Yoga
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c2fe019bafedc7eb5860b11c5d97ceea.jpg)
+![Kelas Yoga](https://images.gobaligo.id/vocus/vocus_c2fe019bafedc7eb5860b11c5d97ceea.jpg)
 
 - [Pengalaman Yoga di Canggu Yoga Centre](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F86228-yoga-class-yoga-class-canggu-yoga-centre-pererenan-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc17fc7f020)
 - [Pengalaman Yoga Guan Yin](https://www.klook.com/zh-TW/activity/96815-yoga-experience-guan-yin-yoga-shala-canggu/?spm=SearchResult.SearchResult_LIST&clickId=ecbfdfbfb1)
@@ -143,7 +143,7 @@ Kami rekomendasiin akomodasi di Bali yang semuanya berkualitas tanpa komplain, u
 
 ### Aktivitas Outdoor
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b9d08056ca87707c17ba42c41712d2da.png)
+![Aktivitas Outdoor](https://images.gobaligo.id/vocus/vocus_b9d08056ca87707c17ba42c41712d2da.png)
 
 Bali nggak cuma punya pantai kece dan resort mewah, tapi juga menyimpan segudang aktivitas outdoor seru yang siap kamu jelajahi. Mau kamu pencari adrenalin atau traveler yang pengen santai di alam, Bali pasti punya sesuatu buat kamu. Berikut enam kategori dengan total 50 aktivitas outdoor paling populer, klik [di sini](/blog/bali-top-50-outdoor-activities/) buat lihat selengkapnya.
 

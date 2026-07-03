@@ -35,7 +35,7 @@ Given these regulatory restrictions, travelers should consider alternatives befo
 
 Before departure, it’s best to check the [official website of the Bureau of Consular Affairs](https://www.boca.gov.tw/sp-foof-countrycp-03-12-c23b0-02-1.html) to confirm whether the medications you plan to bring are legal in the destination. Additionally, if you need to carry special medications, consult a local doctor or embassy in advance to ensure compliance with local laws and avoid unnecessary trouble or delays.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc8a421dd3f00e888995468c395919ec.png)
+![Important Notes on Bringing Sleeping Pills/Special Prescript](https://images.gobaligo.id/vocus/vocus_cc8a421dd3f00e888995468c395919ec.png)
 
 Book and save here:
 

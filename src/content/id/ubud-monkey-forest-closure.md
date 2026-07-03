@@ -33,7 +33,7 @@ _srcHash: c0142a43ae4a99aa0990567724888d6d
 
 **Hutan Monyet Ubud (Monkey Forest)** yang terkenal di Bali, kini ditutup tanpa batas waktu setelah terjadi tragedi yang memilukan. Tempat wisata yang dikenal dengan keindahan alam dan kera-kera nakalnya ini kini terasa sepi. Kejadian ini tidak hanya memicu perhatian berbagai pihak terhadap keselamatan wisata, tetapi juga memaksa pengelola untuk mempercepat evaluasi langkah-langkah keamanan demi keselamatan pengunjung di masa depan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fbf73a2a2f0e51c20cfab84446f04bd0.jpg)
+![Ubud Monkey Forest Tutup Tanpa Batas Waktu: Tragedi Turis Pi](https://images.gobaligo.id/vocus/vocus_fbf73a2a2f0e51c20cfab84446f04bd0.jpg)
 
 ## Tragedi: Pohon Besar Tumbang Akibat Badai
 
@@ -49,7 +49,7 @@ Pihak pengelola Hutan Monyet segera mengeluarkan pernyataan resmi, menegaskan ba
 
 Menurut pihak pengelola hutan, kecelakaan ini terutama disebabkan oleh cuaca ekstrem yang tiba-tiba, bukan karena kelalaian pengelolaan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_031cecfcd75e3044c50ff48bad7d4012.jpg)
+![Pernyataan Resmi: Pohon Sehat, Badai Sulit Dicegah](https://images.gobaligo.id/vocus/vocus_031cecfcd75e3044c50ff48bad7d4012.jpg)
 
 ## Menenangkan Keluarga Korban: Santunan Asuransi & Penanganan Pasca-Kejadian
 
@@ -94,7 +94,7 @@ Sebagai ikon wisata Ubud, penutupan tanpa batas waktu Monkey Forest Ubud jelas b
 
 Bagi traveler yang berencana ke Bali, terutama saat musim hujan, wajib perhatikan peringatan cuaca setempat dan pilih waktu yang tepat untuk mengunjungi destinasi. Dengan upaya pengelola, Monkey Forest Ubud diyakini akan kembali menyambut wisatawan dengan wajah yang lebih aman dan lebih baik.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_40badc67ca4389e98047c26489ef7ac6.jpg)
+![Penutup: Prospek Masa Depan Monkey Forest Ubud](https://images.gobaligo.id/vocus/vocus_40badc67ca4389e98047c26489ef7ac6.jpg)
 
 **Catatan Penting**: Kalau kamu ada rencana ke Bali dalam waktu dekat, pantau terus update cuaca dan pengumuman terbaru dari tempat wisata. Safety first, ya!
 

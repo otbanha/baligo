@@ -81,7 +81,7 @@ _srcHash: 364ad32bfa73a86d66cc04d30ce7ec7b
 - **Teh Botol 樽裝茶：** 號稱「印尼嘅可口可樂」，採用天然綠茶、茉莉花、水同糖製成，唔含防腐劑，兒茶素極高。
 - **麝香貓牌白咖啡（Luwak White Koffie）：** 樽裝咖啡方便又平（雀巢鋁箔包只要約 USD$0），而呢款白咖啡亦非常推薦。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779190258001-78dbd5473ae771c1f842dd0b00c2319e.jpg)
+![咖啡、茶飲與酒精飲料](https://images.gobaligo.id/images/2026-05/1779190258001-78dbd5473ae771c1f842dd0b00c2319e.jpg)
 
 ### 🥑 峇里島特產水果
 
@@ -95,7 +95,7 @@ _srcHash: 364ad32bfa73a86d66cc04d30ce7ec7b
 - **Teh Botol 瓶裝茶：** 號稱「印尼的可口可樂」，採用天然綠茶、茉莉花、水和糖製成，不含防腐劑，兒茶素極高。
 - **麝香貓牌白咖啡（Luwak White Koffie）：** 瓶裝咖啡方便又便宜（雀巢鋁箔包只要約台幣 10 元），而這款白咖啡也非常推薦。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779190305398-_2026-05-19_18.24.28.png)
+![咖啡、茶飲與酒精飲料](https://images.gobaligo.id/images/2026-05/1779190305398-_2026-05-19_18.24.28.png)
 
 ### 🥑 峇里島特產水果
 
@@ -111,7 +111,7 @@ _srcHash: 364ad32bfa73a86d66cc04d30ce7ec7b
 
 **【重要提醒】自備購物袋：** 峇里島為咗推行環保，各大超市同商家**全面唔提供膠袋**，去行街前記得隨身帶個環保袋喔！
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779190670051-mixcollage-19-may-2026-06-26-pm-7181.jpg)
+![隱藏版區域：服裝與紀念品唔使講價](https://images.gobaligo.id/images/2026-05/1779190670051-mixcollage-19-may-2026-06-26-pm-7181.jpg)
 
 下次出發峇里島，記得第一站先用 [GoBaliGo 超市地圖指南](/map/supermarket/) 搵最近嘅超市，然後將呢啲物資同手信通通搬返酒店啦！
 

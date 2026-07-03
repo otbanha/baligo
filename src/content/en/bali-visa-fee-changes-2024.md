@@ -27,7 +27,7 @@ _srcHash: 28cb7212f78fe322cb52c936d858cdbb
 
 The Indonesian Immigration Office announced new regulations adjusting visa fees on **December 17, 2024**, covering all categories from short-term tourist visas to permanent residence visas. Fees will be calculated incrementally based on the length of stay. This article will help you understand how these changes may affect travelers planning to visit Bali and other parts of Indonesia.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4665dca7b9f0b0d9da1e5f9572d12a25.png)
+![Important Updates on Bali Long-Term Stay/Tourist Visa Fees: ](https://images.gobaligo.id/vocus/vocus_4665dca7b9f0b0d9da1e5f9572d12a25.png)
 
 ---
 
@@ -76,7 +76,7 @@ These measures by immigration authorities demonstrate their commitment not only 
 
 In November 2024, Indonesian immigration authorities announced a partnership with global visa processing company VFS Global, planning a comprehensive update to the visa application system by 2025. According to Immigration Director Silmy Karim, this initiative aims to optimize visa application processes through digital solutions, further attracting international visitors to Indonesia.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2a17481fa0552a095e3b2d8d24feaf1b.jpg)
+![Future Outlook: How Will the VFS Global Partnership Impact V](https://images.gobaligo.id/vocus/vocus_2a17481fa0552a095e3b2d8d24feaf1b.jpg)
 
 Future changes may include adjustments to visa categories and new application models, with specific details to be announced later.
 

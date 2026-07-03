@@ -27,19 +27,19 @@ _srcHash: 332b063727fbef989765d2624a9e7e8f
 
 **Setelah sukses besar dengan** [**Cretya Ubud**](/blog/cretya-ubud-alas-harum-budget-guide/) **yang menyajikan pemandangan sawah terasering Tegalalang, grup Alas Harum kembali meluncurkan karya terbaru—Cretya Sunset by Alas Harum, Ubud.** Klub siang dan restoran matahari terbenam baru di Ubud ini bakal kasih kamu pengalaman relaksasi dan pemandangan yang nggak ada duanya, jadi destinasi impian yang wajib kamu kunjungi saat eksplor Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2c6d7325ae36ad648aca156f8c68e65b.jpg)
+![【Ubud Kuliner + Pemandangan】Cretya Sunset, Hidden Gem Bali d](https://images.gobaligo.id/vocus/vocus_2c6d7325ae36ad648aca156f8c68e65b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c8185f023505428af49f2615760615da.jpg)
+![【Ubud Kuliner + Pemandangan】Cretya Sunset, Hidden Gem Bali d](https://images.gobaligo.id/vocus/vocus_c8185f023505428af49f2615760615da.jpg)
 
 ## **Cretya Sunset: Pengalaman Klub Siang Terbaik di Ubud**
 
 Cretya Sunset terletak di tengah sawah hijau subur di Ubud, Bali, menggabungkan kemewahan, hiburan, dan keindahan alam, menyediakan ruang sempurna buat kamu bersantai dan menikmati waktu. Di sini ada kolam renang tanpa batas, area santai yang stylish, dan suasana yang keren tapi tenang—cocok buat kamu yang mau lepas penat atau party, semuanya bisa.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c76ca2d1240692a4a961b3d172ead24.jpg)
+![Cretya Sunset: Pengalaman Klub Siang Terbaik di Ubud](https://images.gobaligo.id/vocus/vocus_1c76ca2d1240692a4a961b3d172ead24.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9e3180dab574d5401a80be7a49c5fbfe.jpg)
+![Cretya Sunset: Pengalaman Klub Siang Terbaik di Ubud](https://images.gobaligo.id/vocus/vocus_9e3180dab574d5401a80be7a49c5fbfe.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f95a6e1067e15d1920bddf9d4701602d.jpg)
+![Cretya Sunset: Pengalaman Klub Siang Terbaik di Ubud](https://images.gobaligo.id/vocus/vocus_f95a6e1067e15d1920bddf9d4701602d.jpg)
 
 Desain klub ini memadukan gaya modern dan tradisional Bali, bikin kamu bisa nikmatin makanan dan koktail sambil merasakan atmosfer budaya yang kental. Posisinya yang menghadap ke barat bikin tempat ini berubah jadi spot terbaik buat lihat matahari terbenam di Ubud setiap sore! Ditemani musik DJ live, kamu bakal tenggelam dalam pemandangan surga tropis ini.
 
@@ -51,7 +51,7 @@ Cretya Sunset ▶ [Kupon Klook Rp62.500](https://affiliate.klook.com/redirect?ai
 
 Menu Cretya Sunset dirancang dengan cermat, memadukan masakan internasional dan cita rasa lokal Bali. Baik kamu pecinta daging atau vegetarian, pasti nemu pilihan yang pas di sini.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_517e08e0fec37c8d2f6a911e092af82b.jpg)
+![Makanan & Minuman: Pesta Rasa yang Menggoda](https://images.gobaligo.id/vocus/vocus_517e08e0fec37c8d2f6a911e092af82b.jpg)
 
 **Rekomendasi Makanan:**
 
@@ -77,7 +77,7 @@ Cretya Sunset ▶[Klook Voucher Rp.62,500](https://affiliate.klook.com/redirect?
 
 ## **Jam Buka & Lokasi**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ec48f50ef1c010eb80090ac1d76393a.jpg)
+![Jam Buka & Lokasi](https://images.gobaligo.id/vocus/vocus_6ec48f50ef1c010eb80090ac1d76393a.jpg)
 
 Cretya Sunset buka setiap hari dari jam 8 pagi sampai 9 malam. Mau menikmati ketenangan infinity pool di pagi hari, atau sambil ngopi santai sambil lihat sunset — semuanya bisa di sini.
 
@@ -89,7 +89,7 @@ Cuma sebentar dari pusat Ubud, tempat ini cocok banget buat kabur dari keramaian
 
 ## **Pesona Unik Cretya Sunset**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0a6f380d109c63e4bbbcfbf662bf7dfd.jpg)
+![Pesona Unik Cretya Sunset](https://images.gobaligo.id/vocus/vocus_0a6f380d109c63e4bbbcfbf662bf7dfd.jpg)
 
 Cretya Sunset bukan cuma day club biasa, tapi tempat yang menggabungkan kemewahan, budaya, dan alam secara menyeluruh. Ini dia fasilitas dan aktivitas yang bisa kamu nikmati di sini:
 
@@ -113,7 +113,7 @@ Buat kamu yang suka petualangan, Cretya punya banyak aktivitas outdoor seru, kay
 
 Cretya juga punya berbagai kegiatan budaya, seperti kelas masak tradisional Bali, workshop seni, dan kunjungan ke pura — bikin kamu makin kenal sama kekayaan budaya Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_684bf5fc76c52a56cb3154d1d7ebe3a3.jpg)
+![5. Pengalaman Budaya](https://images.gobaligo.id/vocus/vocus_684bf5fc76c52a56cb3154d1d7ebe3a3.jpg)
 
 ---
 
@@ -127,7 +127,7 @@ Cretya Sunset by Alas Harum, Ubud adalah destinasi sempurna yang menggabungkan k
 
 ## Lebih Banyak Rekomendasi Makan & Main di Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
+![Lebih Banyak Rekomendasi Makan & Main di Ubud](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
 [Klik di sini untuk panduan lengkap Ubud!](/blog/ubud-guide/)
 

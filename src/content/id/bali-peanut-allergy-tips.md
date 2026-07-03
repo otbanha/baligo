@@ -21,7 +21,7 @@ _srcHash: 6dfdad5ade61f0cd3b2a09443b4b2295
 ---
 Pas liburan di Bali, kalau kamu alergi kacang tanah, menghindari makanan yang mengandung kacang itu wajib hukumnya. Makanan di Bali memang beragam, tapi kacang sering banget dipakai di beberapa masakan dan bumbu, jadi harus ekstra hati-hati.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_560250c5a2572c49e425faaa459bceb2.png)
+![Alergi Kacang!? Begini Cara Aman Jalan-jalan di Bali](https://images.gobaligo.id/vocus/vocus_560250c5a2572c49e425faaa459bceb2.png)
 
 Ini dia beberapa makanan yang perlu kamu hindari atau waspadai karena mungkin mengandung kacang tanah:
 
@@ -31,7 +31,7 @@ Pas liburan di Bali, penting banget buat tahu bahan dan cara pembuatan makanan. 
 
 Yang lebih penting lagi, biar nggak salah makan, jangan lupa bawa perlengkapan darurat alergi kemanapun kamu pergi, buat jaga-jaga kalau ada hal yang nggak diinginkan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa7648471037473f80418f211f4b41ad.png)
+![Alergi Kacang!? Begini Cara Aman Jalan-jalan di Bali](https://images.gobaligo.id/vocus/vocus_aa7648471037473f80418f211f4b41ad.png)
 
 Setelah subscribe, kamu bisa langsung lanjut baca panduan lengkap kami, menjelajahi setiap sudut seru Bali. Klik **「**[**Panduan Lengkap Liburan Mandiri ke Bali**](/blog/2023-08-22-64e37f2dfd89780001b1f776/)**」**, mulai persiapkan perjalananmu ke Bali!
 

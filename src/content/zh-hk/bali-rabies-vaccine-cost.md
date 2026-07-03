@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: e7ed214b40695e00714f8d1e8588dc59
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_59d05b720539abbe8811f51ddbca8203.jpg)
+![峇里島旅遊驚魂｜台灣遊客俾狗咬，狂犬病疫苗醫療費用竟然高達USD$5,800！](https://images.gobaligo.id/vocus/vocus_59d05b720539abbe8811f51ddbca8203.jpg)
 
 [我哋社團嘅網友郭先生](https://www.facebook.com/share/p/19Uc2bARQY/)日前分享佢嘅親身經歷，佢喺峇里島熱門地點庫塔街上俾一隻流浪狗咬咗兩啖，嚇到即刻去醫院打針急救。
 
@@ -77,7 +77,7 @@ _srcHash: e7ed214b40695e00714f8d1e8588dc59
 - **90% 係由狗造成**
 - **268人確診感染**，其中 **已經有5人死亡**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b133111133db257eb753f27f250e9fb.jpg)
+![最新疫情警示：峇里島狂犬病急升！已有13人被狗咬傷！](https://images.gobaligo.id/vocus/vocus_3b133111133db257eb753f27f250e9fb.jpg)
 
 ### 峇里島當局呼籲：
 

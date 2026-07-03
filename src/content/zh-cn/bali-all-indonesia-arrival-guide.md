@@ -41,7 +41,7 @@ _srcHash: 6db4a49a25dd6cac409553dc7362bec3
 1. 务必先完成申请电子签证eVisa。请参考[这里](/blog/bali-evisa-application-guide/)有进一步的说明，避免进入诈骗网站。
 2. 出发前三天完成AIAC入境卡，并**截图QR Code**备查。请看我站整理[常见问题FAQ](/blog/bali-evisa-customs-health-declaration/)。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_47def0beb4f9737f8e70065afa8db58b.png)
+![行前必做：](https://images.gobaligo.id/vocus/vocus_47def0beb4f9737f8e70065afa8db58b.png)
 
 ### **1️⃣ 下飞机**
 
@@ -87,7 +87,7 @@ _srcHash: 6db4a49a25dd6cac409553dc7362bec3
 
 看图一目了然
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776906855235-chatgpt_image_2026_4_23_08_13_09.png)
+![⏰ 多久前要办理？](https://images.gobaligo.id/images/2026-04/1776906855235-chatgpt_image_2026_4_23_08_13_09.png)
 
 ***
 
@@ -113,7 +113,7 @@ _srcHash: 6db4a49a25dd6cac409553dc7362bec3
 
 通过海关后，恭喜您完成入境流程！现在可以前往接机大厅，与预订的司机或家人朋友会合，开启美好旅程！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e41a1f6d506de9fed49c3228e4407a8.png)
+![通过海关后，恭喜你正式入境！](https://images.gobaligo.id/vocus/vocus_4e41a1f6d506de9fed49c3228e4407a8.png)
 
 **📌 分享给即将旅行的朋友，避免卡关！**
 

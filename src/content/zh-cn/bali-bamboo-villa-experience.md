@@ -38,23 +38,23 @@ lang: zh-cn
 _srcHash: b57669193f511efc73c74b04b27d7b60
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c62a1ab2c4b39417175e2de5c99ef7b0.jpg)
+![巴厘岛一晚居然不到$2,000!? 住这里是什么感觉? 体验巴厘岛隐世竹子民宿](https://images.gobaligo.id/vocus/vocus_c62a1ab2c4b39417175e2de5c99ef7b0.jpg)
 
 [Melody x TPEMountain 尹行山林](https://www.youtube.com/@melodyxtpemountain)是一位YouTuber,她分享了她在巴厘岛住宿的体验。这次她预订了一家很特别的竹子旅馆 [Le Sabot Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7003115)。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8fcbe4d9b0ce4a0759443d9a8fbe1762.png)
+![巴厘岛一晚居然不到$2,000!? 住这里是什么感觉? 体验巴厘岛隐世竹子民宿](https://images.gobaligo.id/vocus/vocus_8fcbe4d9b0ce4a0759443d9a8fbe1762.png)
 
 抵达他们的 bamboo villa时,她被门口的池塘和里面游动的肥硕锦鲤深深吸引,还开玩笑说不小心就会掉进去与锦鲤为伴了。进入民宿内,映入眼帘的是一间开放式的空间,没有门窗,也没有空调设备,只有一台电风扇。房内有一张吊床和双人床,给人非常放松的感觉。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_31309ad44d7f6fe899c4b724d27d950a.png)
+![巴厘岛一晚居然不到$2,000!? 住这里是什么感觉? 体验巴厘岛隐世竹子民宿](https://images.gobaligo.id/vocus/vocus_31309ad44d7f6fe899c4b724d27d950a.png)
 
 客房后方有一个小阳台,种植了许多柠檬树,绿意盎然。女生梦寐以求的全身镜也有配备。最独特的是,厕所和淋浴间被一片可移动的竹墙所隔开,设计简单有种露营的fu。洗手台旁也有一面可以收起的小镜子,十分可爱巧思。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e111fcde7c749bc6aad43f044d62dd41.png)
+![巴厘岛一晚居然不到$2,000!? 住这里是什么感觉? 体验巴厘岛隐世竹子民宿](https://images.gobaligo.id/vocus/vocus_e111fcde7c749bc6aad43f044d62dd41.png)
 
 夜晚,Melody被池塘的流水声和虫鸣鸟叫所环绕,在大自然的怀抱中入睡,感觉十分舒适怡人。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_75c7ea229b2049bf0233fdfb6155bade.png)
+![巴厘岛一晚居然不到$2,000!? 住这里是什么感觉? 体验巴厘岛隐世竹子民宿](https://images.gobaligo.id/vocus/vocus_75c7ea229b2049bf0233fdfb6155bade.png)
 
 第二天,Melody参观了民宿的泳池区,宁静怡人,别有一番风味。她很喜欢这处隐匿在丛林中的祥和天地,虽然距离热闹区有些距离,但正因如此独特安谧,是值得体验的度假胜地。
 

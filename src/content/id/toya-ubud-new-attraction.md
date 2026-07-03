@@ -26,7 +26,7 @@ _srcHash: befb7e75cc299777c97434ff49bcd797
 
 ## **Resor Ramah Lingkungan Toya Ubud Resmi Dibuka di Ubud, Bali, Bikin Wisatawan Terpukau**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f2d953ffaa337ca9f753204ede51ff78.jpg)
+![Resor Ramah Lingkungan Toya Ubud Resmi Dibuka di Ubud, Bali,](https://images.gobaligo.id/vocus/vocus_f2d953ffaa337ca9f753204ede51ff78.jpg)
 
 November 2024 lalu, Bali kedatangan Toya Ubud yang mulai uji coba—sebuah taman ekologi dan resor anyar yang cuma beberapa menit dari sawah terasering Tegalalang yang terkenal. Kini resor ini sudah beroperasi penuh dan dalam beberapa pekan terakhir menyambut tamu perdana dari berbagai penjuru dunia, jadi destinasi baru yang wajib dicek di Bali.
 

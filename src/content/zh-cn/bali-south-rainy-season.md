@@ -20,7 +20,7 @@ _srcHash: bbf4af24abf3da2eda3f05ae05534485
 
 想到巴厘岛,许多人脑海中浮现的是阳光、沙滩与冲浪的景象。但作为热带地区,巴厘岛也有其独特的雨季。今天就让我们来探讨巴厘岛南部地区的雨季降雨情况。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8c004965cfd469d049ae8b0e5df25cfa.png)
+![巴厘岛雨季降雨分析 - 南部地区的雨季体验](https://images.gobaligo.id/vocus/vocus_8c004965cfd469d049ae8b0e5df25cfa.png)
 
 根据降雨概率图表,我们可以清楚看到巴厘岛南部(包括**库塔、水明漾、乌鲁瓦图、努沙杜瓦和沙努尔**一带)的雨季主要集中在12月至2月。其中,1月20日前后的降雨概率达到全年最高峰,高达61%。在1月份,平均每月有约18天会出现降雨。
 
@@ -30,7 +30,7 @@ _srcHash: bbf4af24abf3da2eda3f05ae05534485
 
 从图表中我们还可以观察到一个有趣的趋势:降雨概率呈现明显的季节性变化。从巴厘岛的春季开始逐渐上升,在1月达到顶峰后又缓慢下降。这种模式为计划旅游的游客提供了很好的参考。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_482eb8e3cecbce3092b2dd1454b68823.png)
+![巴厘岛雨季降雨分析 - 南部地区的雨季体验](https://images.gobaligo.id/vocus/vocus_482eb8e3cecbce3092b2dd1454b68823.png)
 
 另外,值得一提的是,巴厘岛的降雨概率存在南北差异。一般来说,越往北部地区,降雨的概率就越高。所以如果你计划在雨季造访,选择南部地区可能是个不错的选择。
 

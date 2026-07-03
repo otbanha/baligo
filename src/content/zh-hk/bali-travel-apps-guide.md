@@ -18,13 +18,13 @@ lang: zh-hk
 _srcHash: 613bf99553342fc72116b1097c55b3c9
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3490f5eb895795476132e2b764f8802c.jpg)
+![去印尼/峇里島旅行必備嘅八大app推薦](https://images.gobaligo.id/vocus/vocus_3490f5eb895795476132e2b764f8802c.jpg)
 
 當你計劃去**印尼/峇里島**呢個充滿異國風情嘅島嶼旅行時，了解一啲實用嘅app應用程式可以令你嘅旅程更加方便。無論係交通、導航定係溝通，現代科技提供咗各種方便嘅解決方案。以下係我哋精選嘅app應用程式，能夠幫你喺印尼/峇里島輕鬆探索、享受旅程。
 
 ## **1. Gojek 同 Grab：當地必備嘅叫車與外送應用**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aac64bc3dfb324f8ad1e48c4ed05d19c.png)
+![1. Gojek 同 Grab：當地必備嘅叫車與外送應用](https://images.gobaligo.id/vocus/vocus_aac64bc3dfb324f8ad1e48c4ed05d19c.png)
 
 喺印尼/峇里島，**Gojek** 同 **Grab** 係最受歡迎嘅叫車同送餐應用程式。外國旅客可以利用呢啲應用程式方便地叫車，避免咗語言障礙或者同當地司機溝通嘅麻煩。呢兩個應用程式唔單止提供交通服務，仲可以訂購食物、購買日用品，甚至係安排按摩同送貨服務。外國旅客可以通過呢啲應用程式快速叫到電單車或者汽車，令你嘅出行變得既快捷又實惠。
 
@@ -79,7 +79,7 @@ _srcHash: 613bf99553342fc72116b1097c55b3c9
 
 ## **5. AccuWeather：隨時掌握峇里島嘅天氣變化**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1a67606183cb5c94ac1291befa8a5801.png)
+![5. AccuWeather：隨時掌握峇里島嘅天氣變化](https://images.gobaligo.id/vocus/vocus_1a67606183cb5c94ac1291befa8a5801.png)
 
 峇里島嘅天氣變化多端，尤其係雨季嚟臨時，隨時可能會有驟雨或者颶風。所以，擁有一款可靠嘅天氣應用程式至關重要。**AccuWeather** 係一款廣受歡迎嘅天氣預報應用，能夠提供詳細嘅天氣預測，包括每小時天氣更新、降雨概率同未來幾日嘅天氣趨勢。
 
@@ -95,7 +95,7 @@ _srcHash: 613bf99553342fc72116b1097c55b3c9
 
 ## **6. WhatsApp：同當地人及服務提供者保持聯繫**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_799fe5846dd2f07d32ee824c034ba63e.png)
+![6. WhatsApp：同當地人及服務提供者保持聯繫](https://images.gobaligo.id/vocus/vocus_799fe5846dd2f07d32ee824c034ba63e.png)
 
 喺印尼/峇里島，**WhatsApp** 係最受歡迎、亦係最普遍嘅通訊應用。無論係同當地司機、旅遊導遊定係民宿主人聯繫，WhatsApp 都係你最好嘅選擇。通過呢個應用程式，你可以用 Wi-Fi 或者移動數據嚟發送訊息、圖片，甚至進行語音或者視像通話。呢樣對於唔想支付昂貴國際電話費嘅旅客嚟講非常方便。
 

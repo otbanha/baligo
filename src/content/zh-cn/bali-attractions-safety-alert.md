@@ -31,7 +31,7 @@ _srcHash: a123d5ea64c540812e88adffe72d095e
 
 延伸阅读：乌鲁瓦图的秘境海滩[乌鲁瓦图景点 47个吃喝玩乐推荐](/blog/uluwatu-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e535492ebd1e221d48aa49d449d3fde.png)
+![巴厘岛两大热门景点发生意外事故，给游客的提醒！](https://images.gobaligo.id/vocus/vocus_3e535492ebd1e221d48aa49d449d3fde.png)
 
 这两起意外事件引发了当地居民和旅游业者对旅游安全的广泛关注。尽管佩尼达岛的官员承诺会加强旅游景点的安全措施，但当地的政界人士和旅游业界呼吁政府加快进度，尽早制定更严格的安全规范，保护游客的生命安全。他们认为，相关部门需要加强合作与协调，为这些受欢迎的旅游景点建立统一的安全标准，以防止类似的悲剧再次发生。
 

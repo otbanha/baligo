@@ -100,7 +100,7 @@ Jujur, perubahan ini kabar baik banget buat traveler. Kami kasih beberapa tips b
 3. **Pajak wisatawan** (IDR 150,000) bayar lewat LoveBali App sebelum berangkat, biar pas masuk nggak perlu antre lagi
 4. Sesampainya di bandara, **langsung pakai autogate**—kalau paspor kamu memenuhi syarat, prosesnya cuma beberapa detik
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779192487274-_3_1_.png)
+![Saran dari Kami](https://images.gobaligo.id/images/2026-05/1779192487274-_3_1_.png)
 
 Serius, perkembangan infrastruktur pariwisata Bali dalam beberapa tahun terakhir ini kencang banget. Dari bandara, perbaikan akses jalan di Uluwatu, sampai proyek revitalisasi Pantai Kuta—kelihatan mereka serius mau menjadikan pulau ini sebagai hub wisata kelas dunia.
 

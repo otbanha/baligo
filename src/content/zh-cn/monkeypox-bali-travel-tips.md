@@ -20,7 +20,7 @@ _srcHash: 101256e8032b43c87138de282b933878
 
 Mpox（以前称为猴痘）由于其近期的爆发，已成为全球关注的公共卫生问题。随着印尼继续迎接国际旅客，当局在巴厘岛的伍拉·赖国际机场实施了严格的筛查措施，以防止病毒的传播。本文将探讨这些新措施，对旅客的影响，以及未来巴厘岛Mpox防治的前景。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dbd2920da15c527cab751ee5ad941ec2.jpg)
+![猴痘来袭：印尼/巴厘岛旅游注意事项](https://images.gobaligo.id/vocus/vocus_dbd2920da15c527cab751ee5ad941ec2.jpg)
 
 ### Mpox的背景与影响
 
@@ -42,7 +42,7 @@ Mpox是一种病毒性疾病，1970年首次在刚果民主共和国发现。虽
 
 截至2024年，印尼共确认了14例Mpox病例，与2023年1月至8月期间报告的73例相比大幅减少。这一下降归因于筛查措施和公共卫生运动的有效实施。巴厘岛强化的协议是国家保持这一低数字努力的一部分。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6dcd733cfcdb76297d0521f99f30fca2.jpg)
+![印尼目前的Mpox统计数据](https://images.gobaligo.id/vocus/vocus_6dcd733cfcdb76297d0521f99f30fca2.jpg)
 
 ### 实施筛查措施的挑战
 

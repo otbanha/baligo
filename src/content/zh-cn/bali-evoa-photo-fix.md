@@ -44,7 +44,7 @@ _srcHash: 275e2082ce14b1e01d22e7ca15b64ccd
 3. 文件不能大于**2MB**
 4. 适当的构图
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8d4f513b24a0c87fae92aee293c19920.jpg)
+![重点都在范例一:](https://images.gobaligo.id/vocus/vocus_8d4f513b24a0c87fae92aee293c19920.jpg)
 
 **以上四点之中的第三点要特别注意哦**! 现在的手机像素越来越高, 拍出来的照片文件大小也越来越大, 没有注意的话照片文件随手一拍就大于2MB, 不管你是翻拍照片或是重新拍照, 绝大部分都会超过网站上传的限制, 当然就不过关啦!
 

@@ -186,7 +186,7 @@ https://youtu.be/ysUVgnICbg0
 
 ### 15. 乌伦达努水神庙 Pura Ulun Danu Bratan
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781497269627-ulun-danu-bratan.webp)
+![15. 乌伦达努水神庙 Pura Ulun Danu Bratan](https://images.gobaligo.id/images/2026-06/1781497269627-ulun-danu-bratan.webp)
 
 因为四周环绕着缥缈的云雾与静谧的布拉坦湖，当湖水上漲时，整座寺庙宛如优雅地漂浮在水面上。凉爽的气候与如诗如画的景致，给人一种空灵的沉静感。
 

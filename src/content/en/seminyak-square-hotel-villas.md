@@ -38,13 +38,13 @@ lang: en
 _srcHash: b09fd329a0eac49966bbe68c85b6d98e
 ---
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240562733-438400134.jpg)
+![Seminyak Square Hotel and Villas｜Prime Location Above Seminy](https://images.gobaligo.id/images/2026-04/1776240562733-438400134.jpg)
 
 ▲Three Bedroom Apartment
 
 If your purpose for visiting Bali is shopping, dining, and enjoying the nightlife, and you need an affordable yet comfortable place to stay, Seminyak Square Hotel and Villas makes perfect sense. This three-star hotel is located at Jl. Kayu Aya No. 100, literally meaning 'a hotel built above a shopping mall'—it sits above the second floor of Seminyak Square Shopping Center. Step out of the elevator, and you're on Eat Street; walk downstairs, and you'll find supermarkets, money changers, and restaurants. This location is its biggest selling point, and its prices are more affordable compared to other hotels in the same area.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240484574-58568572.jpg)
+![Seminyak Square Hotel and Villas｜Prime Location Above Seminy](https://images.gobaligo.id/images/2026-04/1776240484574-58568572.jpg)
 
 ***
 
@@ -76,21 +76,21 @@ The property offers a total of 41 rooms, with options ranging from Standard Room
 
 The overall decor follows a minimalist modern style, featuring wooden furniture against white walls. While it doesn't exude a distinctly Balinese aesthetic, it's clean and sleek. Guests consistently praise the spaciousness of the rooms, with Junior Suites and above offering particularly generous space. The two-bedroom apartments come with separate living and dining areas, plus a small kitchen, making them ideal for families or larger groups.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240751481-00f4c269b62e50d004e02d814157c229.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776240751481-00f4c269b62e50d004e02d814157c229.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240751979-1adfb9f1eabcfc08328de4cd9b53b3bf.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776240751979-1adfb9f1eabcfc08328de4cd9b53b3bf.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240752382-7bc608309384bb816b84fb86c948dcce.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776240752382-7bc608309384bb816b84fb86c948dcce.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240752823-400375_15081715350034430963.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776240752823-400375_15081715350034430963.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240753236-58569594.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776240753236-58569594.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240753955-438403233.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776240753955-438403233.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240754463-438403401.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776240754463-438403401.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240754935-f3876fdff4c1ac410acb13c104aa3d9e.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776240754935-f3876fdff4c1ac410acb13c104aa3d9e.webp)
 
 ▲Apartment-style room
 
@@ -98,29 +98,29 @@ Standard amenities include air conditioning, flat-screen TV, minibar fridge, ele
 
 Room selection tip: For larger groups or those wanting kitchen facilities, opt for the two-bedroom apartment—it offers excellent value for the space at this price point. Junior Suites come with pool views, but note that 'pool view' doesn't necessarily mean direct pool access. Confirm details before booking.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240891628-512518937.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776240891628-512518937.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240892127-512518996.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776240892127-512518996.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240892551-a467e5ccae872a810b2e4e02ac748a46.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776240892551-a467e5ccae872a810b2e4e02ac748a46.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240893018-4d03d8705bdb6ac1f873ce6ecf4b0b80.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776240893018-4d03d8705bdb6ac1f873ce6ecf4b0b80.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240893434-8f6fd3bc980f81509662019b35c06fad.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776240893434-8f6fd3bc980f81509662019b35c06fad.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240894076-9bf920238dca73007f8bfcd68d575a46.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776240894076-9bf920238dca73007f8bfcd68d575a46.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240894475-869ff3226a6ada5f9cb890a556f338ae.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776240894475-869ff3226a6ada5f9cb890a556f338ae.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240895384-410411248.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776240895384-410411248.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240895901-410411262.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776240895901-410411262.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240896297-423603328.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776240896297-423603328.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240896726-423603355.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776240896726-423603355.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776240897130-510820923.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776240897130-510820923.jpg)
 
 ▲Villa-style accommodation
 
@@ -144,7 +144,7 @@ A returning guest mentioned that the location is right at the doorstep of Eat St
 
 Another guest shared that this was their third stay at this hotel. The Mega Mart supermarket downstairs is very convenient, and getting a Grab to the airport or riding a Gojek to Canggu or Legian is hassle-free. The Junior Suite comes with a small kitchen, making it particularly useful for long-term stays.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776241492784-52578723.jpg)
+![Guest Reviews](https://images.gobaligo.id/images/2026-04/1776241492784-52578723.jpg)
 
 ***
 

@@ -25,7 +25,7 @@ Bali is a captivating travel destination, perfect not only for couples or friend
 
 ## Morning: Bali Safari and Marine Park
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_68d89a15810370f81072ef0e87334c80.png)
+![Morning: Bali Safari and Marine Park](https://images.gobaligo.id/vocus/vocus_68d89a15810370f81072ef0e87334c80.png)
 
 ### Exploring the Animal World
 
@@ -43,7 +43,7 @@ The park features several restaurants offering a variety of cuisines. Uma Restau
 
 ## Evening: Flamingo Beach Club
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a695f24671ea20a9e4811d22bb4e4ed3.png)
+![Evening: Flamingo Beach Club](https://images.gobaligo.id/vocus/vocus_a695f24671ea20a9e4811d22bb4e4ed3.png)
 
 ### Relaxation Time
 
@@ -63,7 +63,7 @@ After the afternoon activities, you can enjoy a meal at the club's restaurant. F
 
 ▶[Get Flamingo Beach Club Passes Here](https://affiliate.klook.com/redirect?aid=116349&aff_adid=857679&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84805-flamingo-beach-club-pass-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D008e73d36e)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_479fa43562923a8330d28ac7c6824660.png)
+![Dining and Relaxation](https://images.gobaligo.id/vocus/vocus_479fa43562923a8330d28ac7c6824660.png)
 
 ## Summary
 

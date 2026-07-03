@@ -21,7 +21,7 @@ lang: id
 _srcHash: cf55c43f26cf9ed4897138539a805b43
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_53ad30b22fb7ff7092abe536a294b524.jpg)
+![Empat hari di satu tempat di Bali, bisa ngapain aja? Catatan](https://images.gobaligo.id/vocus/vocus_53ad30b22fb7ff7092abe536a294b524.jpg)
 
 Ubud adalah destinasi yang nggak boleh kamu lewatkan kalau ke Bali. YouTuber [[Jits into the Sunset](https://www.youtube.com/@JitsIntoTheSunset)] ini bikin video yang ngajak kita semua mengenal kota penuh budaya ini.
 

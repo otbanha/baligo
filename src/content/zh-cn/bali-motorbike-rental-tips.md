@@ -27,7 +27,7 @@ _srcHash: 0e5698fa1a7a883cc0d092001d703e06
 
 在巴厘岛，摩托车是当地人常见的交通工具，尤其是在乌布等地，当地人常常骑着摩托车穿梭于田野间。许多观光客看见后，也可能会心动觉得摩托车既经济又方便，可以自由探索巴厘岛。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff2d79a6384a7682bb6d83c4de623131.jpg)
+![【巴厘岛租摩托车攻略】安全风险检查清单：租车价格、国际驾照规定与警察罚款陷阱全解析](https://images.gobaligo.id/vocus/vocus_ff2d79a6384a7682bb6d83c4de623131.jpg)
 
 ## 巴厘岛的摩托车骑行是否安全？
 
@@ -55,7 +55,7 @@ _srcHash: 0e5698fa1a7a883cc0d092001d703e06
 
 **加油** 巴厘岛街边小贩常用旧伏特加瓶卖汽油，每公升约10,000 IDR（约0.6美元）。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9c66c50875ad9077897e9537cffffec5.jpg)
+![租借摩托车的费用是多少？](https://images.gobaligo.id/vocus/vocus_9c66c50875ad9077897e9537cffffec5.jpg)
 
 ## 巴厘岛旅行不建议骑摩托车的几个原因 🚫🏍️
 
@@ -91,7 +91,7 @@ https://youtube.com/shorts/KBLKSQT7Pn4?si=yxJwczQBjlD0jXzY
 
 > 延伸阅读：[叫车App叫机车，省时省力的实际案例！](/blog/bali-travel-app-motorcycle-taxi/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_49791dac6020e950bda56dde7ee4e7f5.jpg)
+![6. 经济实惠的其他选择](https://images.gobaligo.id/vocus/vocus_49791dac6020e950bda56dde7ee4e7f5.jpg)
 
 {{block:klook}}
 
@@ -112,7 +112,7 @@ https://youtube.com/shorts/KBLKSQT7Pn4?si=yxJwczQBjlD0jXzY
 
 千万不要老板给钥匙你就骑走！一定要在「未发动」且「未驶离店家」前，拿出手机打开录像模式，从以下几个重点仔细检查并录像存证。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_de43e176127f414dfd12cd2155b28955.png)
+![取车前的魔鬼细节（车况检查）](https://images.gobaligo.id/vocus/vocus_de43e176127f414dfd12cd2155b28955.png)
 
 **1. 车体外观（刮痕王是你？）**
 
@@ -180,7 +180,7 @@ https://youtu.be/lIV-T2jYhVk?si=KOKR7HFKOtrw1EAb
 
 虽然租摩托车确实是游览巴厘岛最经济、方便的方式，但出门在外，安全还是第一考量。尤其在异地如果不幸发生意外，不仅人生地不熟，还要支付天价的医疗费用，得不偿失。建议大家在探索这座美丽的岛屿时，考虑更安全的方式出行，才能真正无忧无虑地享受巴厘岛的风光与文化。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_65aeba9cc2da686003182b4431afa2a8.jpg)
+![结语](https://images.gobaligo.id/vocus/vocus_65aeba9cc2da686003182b4431afa2a8.jpg)
 
 记住，**安全至上**！这不是要吓唬你，而是提醒你生命的可贵，不值得因为省下小小的钱而冒险喔！
 

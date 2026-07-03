@@ -51,7 +51,7 @@ _srcHash: 436e18b361153a8ee720118766439d05
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_de7cab4b2e1639fa6a19b826f78c172b.jpg)
+![誤區二：每日都寫「雷雨」，係咪每日都會落雨落到爆？](https://images.gobaligo.id/vocus/vocus_de7cab4b2e1639fa6a19b826f78c172b.jpg)
 
 ## 📸 小貼士：善用天氣預報時間軸
 
@@ -82,6 +82,6 @@ _srcHash: 436e18b361153a8ee720118766439d05
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_09e4e66f29ac27a468ecc350cf0c839d.png)
+![小總結：天氣預報唔好睇圖嚇自己！](https://images.gobaligo.id/vocus/vocus_09e4e66f29ac27a468ecc350cf0c839d.png)
 
 如果真係擔心落雨天影響行程，【[雨天嘅60個備案景點推薦](/blog/2026-bali-indoor-activities/)】，快啲收藏啦！

@@ -43,29 +43,29 @@ _srcHash: 554152b61da98b6bef488301a940b947
 
 **住宿推薦:Aloft Bali Kuta at Beachwalk**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6c4dc60752ea4cbe9373a0cde09448cf.jpg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/vocus/vocus_6c4dc60752ea4cbe9373a0cde09448cf.jpg)
 
 今晚入住嘅係庫塔區嘅 Aloft Bali Kuta，我哋揀咗 Pool View Double 房型，房入面有兩張好舒服嘅雙人床。雖然房間空間唔算好大，但整體設計新潮時尚，清潔度一流。最令人滿意嘅係酒店嘅地理位置——同 Beachwalk 購物中心直接連通，想行街買嘢或者搵餐廳都好方便。另外，距離熱鬧嘅 JL. Poppies II 街道都好近，行路就到。酒店嘅早餐選擇多又好味，服務人員態度親切友善，為我哋嘅峇里島之旅開咗個好頭。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788152563-643126482.jpg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788152563-643126482.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788153064-643126512.jpg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788153064-643126512.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788153567-643126513.jpg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788153567-643126513.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788153975-643126514.jpg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788153975-643126514.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788154554-643126517.jpg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788154554-643126517.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788155109-643126526.jpg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788155109-643126526.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788155615-482956642.jpeg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788155615-482956642.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788156084-482956652.jpeg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788156084-482956652.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788156591-482956751.jpeg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788156591-482956751.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788156945-482956753.jpeg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788156945-482956753.jpeg)
 
 > ▶[Aloft Kuta訂房連結](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22572548) [Booking](https://booking.tpm.li/IiBScM3f) ▶[Trip.com訂房](https://hk.trip.com/hotels/detail/?cityId=723&hotelId=72291150&checkIn=2025-07-31&checkOut=2025-08-01&adult=2&children=0&subStamp=726&crn=1&ages=&travelpurpose=0&curr=IDR&link=title&hoteluniquekey=H4sIAAAAAAAA_-P6xMjFJMEkxMTBKPWckePt8i9_WYUYjQw4LT4JOhqDgG-ng2f_oa8aMXP7HAJ4Ghltua4vLqj1cJjEGMXJAARCIo6OgiBGTai9o5I4x9SWPRYCjYwSf_uXrmZUYLTYLx7EEMWgpMbRerBfQ6AcKLJX1BFmiCeMAVTDwrH1FZsTK8eSCx2MMxjPLdujtJGxECTvkOqwg5HpBOOErwULmO59eqqyiwmi6hATC8eU2-KnmBguMTHcYmJ4xMTwionhExPYpF9QRU3MDF3MDJOYwUpnMTMsYmaQ4jUxNzQztDSyNDBPTTRXENI4827VETYjaw6gg7UE40M8PV0MSwpTzQpLLXOKCkwNGCcxMnl4n2KUMjQ3tjA0MjQ0MjKyNNYzsUgzK7bIK7bIzYqwYpZidPNgDGIzdHExN7CM0uJi9nQJEuSpjemtX2djLwXiKcJ4WiCeIYyXxFqVoevhnfFYqICxi5FDgNGDMYKxgvEVI0jVD3BIAABb4vdVpwEAAA&subChannel=&masterhotelid_tracelogid=4716192907ea7&NewTaxDescForAmountshowtype0=T&detailFilters=17|1~17~1*80|0|1~80~0&hotelType=normal&display=exavg&barcurr=IDR&locale=zh-HK&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D4662646)
 
@@ -87,13 +87,13 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 **餐廳推薦:ENDO Seminyak**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_57caee0de0ee79e29675903fef6d5f69.jpg)
+![中午:水明漾廣場覓食與逛街](https://images.gobaligo.id/vocus/vocus_57caee0de0ee79e29675903fef6d5f69.jpg)
 
 晏晝我哋喺水明漾廣場隔籬嘅 ENDO Seminyak 食飯，真係一個意外驚喜！原本只係求其揀間餐廳，點知啲嘢食質素好到出乎意料。強烈推薦佢哋嘅髒鴨餐（Bebek Betutu）同炒麵（Mie Goreng），髒鴨外皮脆卜卜、肉質嫩滑，配埋香料啱啱好；炒麵就係地道峇里風味，配料豐富，份量十足。
 
 ### 晚餐:WAHAHA
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4be51710a26107a6190d946dc32baa54.jpg)
+![晚餐:WAHAHA](https://images.gobaligo.id/vocus/vocus_4be51710a26107a6190d946dc32baa54.jpg)
 
 黃昏時分，我哋去咗 WAHAHA 餐廳食豬肋排晚餐。喺峇里島暖笠笠嘅夜晚，歎住美味嘅嘢食，為充實嘅一日畫上完美句號。
 
@@ -125,29 +125,29 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 **住宿推介：KAAMALA Resort & Spa Ubud**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7adb6e2fa7eaede51b05f63f23f5d191.jpg)
+![入住 KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/vocus/vocus_7adb6e2fa7eaede51b05f63f23f5d191.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_db9b8c8a544597b8ac21ec95f3030a15.jpg)
+![入住 KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/vocus/vocus_db9b8c8a544597b8ac21ec95f3030a15.jpg)
 
 黃昏時分，我哋去到烏布嘅 KAAMALA Resort & Spa。呢間度假村一睇就鍾意咗！我哋住嘅係獨立 Villa 房型，到第二朝拉開窗簾嗰一刻，眼前一片金黃色嘅稻田美景令我哋讚嘆不已。微風吹過稻浪，好似置身世外桃源咁。
 
 酒店提供嘅早餐以西式為主，雖然選擇唔算好多，但每一道菜都用心整，味道幾好。度假村入面仲有無邊際泳池，由泳池望出去就係一層層嘅稻田景觀，靚到不得了。最令我哋印象深刻嘅係酒店嘅服務，工作人員會主動同住客傾偈，關心入住情況，嗰種親切感令人覺得唔似喺酒店，而係喺朋友屋企作客。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952987775-429293297.jpeg)
+![入住 KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952987775-429293297.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952988670-506726321.jpeg)
+![入住 KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952988670-506726321.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952989293-523226703.jpeg)
+![入住 KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952989293-523226703.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952989812-1698977266238.jpeg)
+![入住 KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952989812-1698977266238.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952990239-e20fea40-355e-4bf7-a7b9-f4dbfa4cb186-1702898196309-9f5e7b8042c4faed87a66c67bd370081.webp)
+![入住 KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952990239-e20fea40-355e-4bf7-a7b9-f4dbfa4cb186-1702898196309-9f5e7b8042c4faed87a66c67bd370081.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952990724-9f8f526570476b0ab58c73fd5c3173e2.jpeg)
+![入住 KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952990724-9f8f526570476b0ab58c73fd5c3173e2.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952991341-61700803_10156586738232830_2848315086848655360_n.jpeg)
+![入住 KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952991341-61700803_10156586738232830_2848315086848655360_n.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952991750-dea274f7529242418b61fa3a9db11453.jpeg)
+![入住 KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952991750-dea274f7529242418b61fa3a9db11453.jpeg)
 
 ▶[KAAMALA Resort & Spa 訂房連結](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=12000629) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=55235957&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/lA23ZI8f)
 
@@ -163,7 +163,7 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 **餐廳推薦:Bebek Tepi Sawah**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_18d5fd887059ea02f0b30f3666e5d864.jpg)
+![中午:Bebek Tepi Sawah 午餐](https://images.gobaligo.id/vocus/vocus_18d5fd887059ea02f0b30f3666e5d864.jpg)
 
 中午時分，我哋去咗Bebek Tepi Sawah食飯。呢間餐廳個名直譯就係「稻田邊嘅鴨仔」，名副其實咁坐落喺靚靚嘅稻田旁邊。餐廳用傳統峇里風格佈置，充滿濃厚嘅地道氣氛。我哋揀咗戶外座位，一邊欣賞清爽嘅田園風光，一邊品嚐地道嘅峇里菜。微風吹過嚟，帶住稻香，令呢餐飯變成好寫意嘅享受。餐廳嘅招牌烤鴨菜式唔可以錯過，肉質嫩滑，香料調味啱啱好。
 
@@ -171,7 +171,7 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 **景點推薦:Bali Reptile Park**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_be260f863fa3cf1d7f49877c02f31826.jpg)
+![下午:Bali Reptile Park 爬蟲公園](https://images.gobaligo.id/vocus/vocus_be260f863fa3cf1d7f49877c02f31826.jpg)
 
 食完飯我哋去咗Bali Reptile Park，呢度對鍾意爬蟲類動物嘅遊客嚟講絕對係必去景點！門票包埋園區員工嘅全程英語導賞，呢個係呢個景點最大嘅特色之一。導賞員好專業同熱情，詳細介紹每一種爬蟲類嘅習性同特徵，講解得生動有趣，就算原本對爬蟲類有啲驚嘅人，都會俾佢哋嘅熱情感染到。
 
@@ -194,11 +194,11 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 ### 晚餐：Taman Dedari
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7c3849870256761706f2f474869d65c5.jpg)
+![晚餐：Taman Dedari](https://images.gobaligo.id/vocus/vocus_7c3849870256761706f2f474869d65c5.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_796ff85cdb8cb8113b34f72429d7eb39.jpg)
+![晚餐：Taman Dedari](https://images.gobaligo.id/vocus/vocus_796ff85cdb8cb8113b34f72429d7eb39.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_380374cff55e52785bb3e991f3034f76.jpg)
+![晚餐：Taman Dedari](https://images.gobaligo.id/vocus/vocus_380374cff55e52785bb3e991f3034f76.jpg)
 
 夜晚我哋喺 Taman Dedari 食晚餐，為充實嘅一日畫上句號。
 
@@ -212,7 +212,7 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 **景點同餐廳推薦：金塔瑪尼 & Ritatkala Café**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3432f10b8a1acb758145140d33e88ac0.jpg)
+![上晝：金塔瑪尼同 Ritatkala Café](https://images.gobaligo.id/vocus/vocus_3432f10b8a1acb758145140d33e88ac0.jpg)
 
 今日我哋揸車去峇里島好出名嘅火山景觀區——金塔瑪尼（Kintamani）。呢度可以遠眺巴杜爾火山（Mount Batur）同巴杜爾湖嘅壯麗景色，係峇里島必去嘅自然景點之一。
 
@@ -226,7 +226,7 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 **景點推薦：Penglipuran Village**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_534f807ca0ff379512580af984f596cc.jpg)
+![下晝：Penglipuran Village 傳統村落](https://images.gobaligo.id/vocus/vocus_534f807ca0ff379512580af984f596cc.jpg)
 
 離開金塔瑪尼之後，我哋去咗 Penglipuran Village，呢個係一個保存得好好嘅峇里傳統村落。村落入面嘅建築風格統一，充分展現咗峇里島嘅傳統建築美學同文化特色。呢度最特別嘅係，遊客可以入去民居裏面參觀，對於一路好奇傳統峇里民宅內部構造嘅我嚟講，簡直係夢想成真！
 
@@ -236,7 +236,7 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 ### 梯田鞦韆體驗
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_36a252751643bc3058d7c23103032e53.jpg)
+![梯田鞦韆體驗](https://images.gobaligo.id/vocus/vocus_36a252751643bc3058d7c23103032e53.jpg)
 
 行完村莊之後，我哋就去咗附近嘅梯田鞦韆景點。喺一層層綠色梯田前面盪鞦韆，係近年峇里島最Hit嘅體驗活動之一。盪起嗰一刻，眼前係一片翠綠嘅稻田同遠方嘅叢林，好似喺大自然入面飛翔咁，嗰種自由同美好嘅感覺，成為咗呢趟旅程最難忘嘅回憶之一。
 
@@ -254,13 +254,13 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 ### 中午退房後:烏魯瓦圖斷崖公路
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a123f697405c668b110a8f2b12af913f.jpg)
+![中午退房後:烏魯瓦圖斷崖公路](https://images.gobaligo.id/vocus/vocus_a123f697405c668b110a8f2b12af913f.jpg)
 
 退房之後，我哋揸車去峇里島南部嘅烏魯瓦圖(Uluwatu)區域。沿住海岸線嘅斷崖公路飛馳，一邊係蔚藍嘅印度洋，一邊係峻峭嘅石灰岩懸崖，壯闊嘅景色令人心胸開闊。呢段公路被譽為峇里島最靚嘅海岸線之一，沿途有好多觀景點可以停車影相，千祈唔好錯過。
 
 ### 下午:Pandawa Beach Roosterfish 下午茶
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4cfd7bde880edf48f6923248b34146d2.jpg)
+![下午:Pandawa Beach Roosterfish 下午茶](https://images.gobaligo.id/vocus/vocus_4cfd7bde880edf48f6923248b34146d2.jpg)
 
 我哋喺 Pandawa Beach 嘅 Roosterfish 餐廳食下午茶。呢間餐廳喺潘達瓦海灘隔籬，有超靚嘅海景。叫杯凍飲，配啲輕食，坐喺海風吹住嘅露台，望住海浪拍打沙灘，咁嘅午後時光簡單但係好正。潘達瓦海灘嘅水好清，沙灘好白，係峇里島比較清靜嘅海灘之一，好適合想避開人潮嘅旅客。
 
@@ -268,7 +268,7 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 **景點推薦：烏魯瓦圖神廟 ⚠️小心馬騮！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_65cdfff2716506cd7615d0c7611c9c66.jpg)
+![傍晚：烏魯瓦圖神廟](https://images.gobaligo.id/vocus/vocus_65cdfff2716506cd7615d0c7611c9c66.jpg)
 
 傍晚時分，我哋去咗烏魯瓦圖神廟（Uluwatu Temple），呢座起喺懸崖邊嘅寺廟係峇里島其中一個最重要嘅宗教聖地，亦都係睇日落嘅最佳地點之一。寺廟企喺成70米高嘅懸崖峭壁上，對住一望無際嘅印度洋，氣勢好勁。
 
@@ -282,7 +282,7 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 ### 晚餐：Ulu Cliffhouse
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c2d5e6caeae53304208dc0744dfb4875.jpg)
+![晚餐：Ulu Cliffhouse](https://images.gobaligo.id/vocus/vocus_c2d5e6caeae53304208dc0744dfb4875.jpg)
 
 夜晚我哋喺 Ulu Cliffhouse 食飯，呢間餐廳同樣喺懸崖邊，有超靚嘅海景。喺星空下，聽住海浪聲，食住精緻嘅料理，為今日精彩嘅行程畫上完美嘅句號。
 
@@ -310,25 +310,25 @@ https://youtu.be/RodQvCZKwD0
 
 對於較大嘅小朋友同青少年，度假村提供多種娛樂選擇。佢哋可以喺遊戲室享受最新嘅遊戲機同多種桌遊、電影同電視遊戲機。另外，度假村仲有健身中心同spa，等父母可以放鬆同恢復，同時小朋友喺活動中享受。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953214005-719391807.jpg)
+![入住 Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953214005-719391807.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953214492-764154210.jpg)
+![入住 Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953214492-764154210.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953214856-764154213.jpg)
+![入住 Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953214856-764154213.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953215435-764154219.jpg)
+![入住 Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953215435-764154219.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953215908-764154237.jpg)
+![入住 Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953215908-764154237.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953216273-764154268.jpg)
+![入住 Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953216273-764154268.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953216629-764154276.jpg)
+![入住 Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953216629-764154276.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953217355-764154289.jpg)
+![入住 Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953217355-764154289.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953217744-719390583.jpg)
+![入住 Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953217744-719390583.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953218269-719390754.jpg)
+![入住 Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953218269-719390754.jpg)
 
 ▶[Mövenpick Resort & Spa空房查詢&房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1615522) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6373265&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazMLFJMEk1cPCMa3nwTk2IUYjA3mLr4KOSwpsua6vb3PwPHsGCF51OwTwREw58HwaeyJQfHHB_kCHRsZZM4FgZZhDFyMrWGoG48T_LcwbGcF6X6c47GBkOsG4XWEB0_2PnVKnWJg5OtkusXxliq5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDb2NxAz8AAKFKSWOGZAtaZnJiTXJqTWJIaUlkANMFMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQboIiFJeaUpkKcALTQLRVqh2GtDqbLn83pfdo988Wm3dhdbmJgjuJy8wFxuXFt7CMWpujYTywMv1gYmlgZuliZOU4xTQKS2xV2sfIEG_kEO0XoGupG6RpeYG1UllI0NDAwMDI1NTLXNUi0TEwyNLPQNbE0MTIz0zU0NzY1NjDUeHVl3YUnxkbWUpC4V2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xSgF1GBhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxOZqZuDs5Bxlw8Xs6RIk-EHv-fZ2a0t7KeaQcBfFD8uPeZt3nrbXAskZwuQC97zOOWFvvMA-EiafxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANq-PmcBAwAA&masterhotelid_tracelogid=100025527-0a9ab168-494266-1735301&detailFilters=17|1~17~1*31|6373265~31~6373265*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=216&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/JMjDzQtC)
 
@@ -401,7 +401,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 喺藥房，我同藥劑師講咗老公嘅病徵。藥劑師好專業咁推薦咗兩種藥（相入面嗰啲藥），仲詳細講解咗點樣食同要注意啲乜。我即刻買咗藥返酒店俾老公食。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_12d5b905724f2858e8e51a33065eb6c8.jpg)
+![唔好睇小峇里島肚痾（Bali Belly）！——我哋親身嘅慘痛經歷](https://images.gobaligo.id/vocus/vocus_12d5b905724f2858e8e51a33065eb6c8.jpg)
 
 下晝，我帶住個仔去 Krisna 買手信，一來想等個仔分散下注意力，唔好咁擔心爸爸；二來都唔想浪費咗難得嘅旅行時間。返到酒店之後，見到老公精神好咗少少，我哋先至放低咗心頭大石。
 

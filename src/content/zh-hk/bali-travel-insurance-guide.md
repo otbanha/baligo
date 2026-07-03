@@ -160,7 +160,7 @@ _srcHash: 13871375f86d1a7a2a51e93da6ace61f
 
 醫療費用可能仲高。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778985202187-insurance2.png)
+![峇里島海外醫療，其實比好多人諗嘅貴](https://images.gobaligo.id/images/2026-05/1778985202187-insurance2.png)
 
 亦可以透過網上平台投保： [Klook海外旅遊保險](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1292786&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Finsurance%2Fklook-protect%2F) [Trip(香港遊客）](https://hk.trip.com/insurance?bid=1&cid=2&pid=1&locale=zh-HK&curr=HKD&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 

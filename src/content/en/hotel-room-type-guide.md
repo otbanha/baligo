@@ -22,7 +22,7 @@ lang: en
 _srcHash: 68cb58f78123a5316d6dbd80e7b3362c
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4987be535ea54598e53f32ecf38facc4.jpg)
+!["Double Bed Room" Doesn't Mean 'Twin Room'! Avoid Embarrassm](https://images.gobaligo.id/vocus/vocus_4987be535ea54598e53f32ecf38facc4.jpg)
 
 When choosing accommodations, the names of different room types can often be confusing, especially if we rely solely on literal translations, which can lead to misunderstandings. To ensure you always select the most suitable room for your stay, let's take a closer look at the differences between several common room types.
 

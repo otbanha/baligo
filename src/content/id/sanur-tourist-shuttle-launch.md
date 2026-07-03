@@ -27,7 +27,7 @@ _srcHash: d7fa5f69cb41a838a8c6d9936b3e1955
 ---
 Seiring Sanur bertransformasi menjadi destinasi wisata medis dan kesehatan kelas dunia, pemerintah setempat juga meluncurkan opsi transportasi baru agar wisatawan bisa menikmati mobilitas yang lebih praktis selama liburan. Mulai pertengahan Agustus 2025, kawasan Sanur akan mengoperasikan bus jemputan wisata baru dalam masa uji coba, sebagai bagian dari upaya pemerintah kota mendorong transportasi cerdas dan pariwisata hijau.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_68d4b99726fb49ba913d10972a6a4dbe.jpg)
+![Sanur di Bali Luncurkan Bus Jemputan Wisata Baru dalam Uji C](https://images.gobaligo.id/vocus/vocus_68d4b99726fb49ba913d10972a6a4dbe.jpg)
 
 Program yang digagas Dinas Perhubungan Denpasar ini dirancang khusus untuk kawasan resor Sanur. Berbeda dengan rute bus Trans Metro Dewata yang sudah ada, bus jemputan Sanur akan beroperasi khusus di dalam area Sanur, memberikan wisatawan kebebasan 'naik-turun' kapan saja.
 
@@ -43,11 +43,11 @@ Rute bus saat ini meliputi:
 - Jalan Danau Toba
 - Pemberhentian terakhir di area SMP Wisata dekat Kawasan Ekonomi Khusus Kesehatan Sanur (Sanur Special Economic Zone)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e4d803fc5df07426b0f5021662e241ee.jpg)
+![Sanur di Bali Luncurkan Bus Jemputan Wisata Baru dalam Uji C](https://images.gobaligo.id/vocus/vocus_e4d803fc5df07426b0f5021662e241ee.jpg)
 
 Seorang penumpang bernama Putu Ardiyasa Raditya Putra mengatakan dalam wawancara bahwa ia merasa nyaman selama perjalanan, tapi ia mencatat halte bus saat ini hanya dilengkapi papan informasi, belum ada atap atau tempat duduk. Ia berharap ke depannya ada fasilitas tunggu yang lebih baik. Ia juga menambahkan, 'Wisatawan asing mungkin lebih terbiasa dengan moda transportasi umum seperti ini, karena di negara mereka hal ini sudah biasa.'
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_52fb126f2de8603997d344ea4caf16c6.jpg)
+![Sanur di Bali Luncurkan Bus Jemputan Wisata Baru dalam Uji C](https://images.gobaligo.id/vocus/vocus_52fb126f2de8603997d344ea4caf16c6.jpg)
 
 Soal tarif dan cara pembayaran shuttle listrik (Shuttle / Bemo Listrik) di kawasan Sanur, **Bali**, berikut informasinya:
 
@@ -88,7 +88,7 @@ Pemerintah Kabupaten Badung juga udah konfirmasi kalau rencana ini udah masuk ta
 
 ## Lebih Banyak Info Seru di Sanur
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
+![Lebih Banyak Info Seru di Sanur](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
 Sanur adalah sebuah kota kecil di pesisir Bali yang penuh ketenangan, terkenal dengan pantainya yang tenang, suasana santai, dan pemandangan matahari terbit yang spektakuler. Di sini ada resor ramah keluarga, pasar tradisional, dan beragam kuliner lokal yang kaya—tempat ideal buat menikmati slow living sambil eksplorasi budaya. Mau jalan-jalan di sepanjang garis pantai atau merasakan vibe lokal, Sanur bakal kasih kamu liburan yang super rileks! Mau tahu lebih banyak tips Sanur? [Klik di sini](/blog/sanur-guide/).
 

@@ -15,7 +15,7 @@ _srcHash: 29196d394ec8113ed85cb7d7b8b02265
 
 烏布（Ubud）作為峇里島文化與藝術嘅中心，擁有多個極具特色嘅藝術市場，每一處都蘊含住獨特嘅魅力同寶藏。今日就等我哋一齊探索呢五個必訪嘅藝術市場，感受峇里島最地道嘅文化氛圍。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc06ce29e5089cfece271e264d77f120.jpg)
+![推薦烏布五大藝術市集完整指南：買紀念品/手信，發掘峇里島文化寶藏](https://images.gobaligo.id/vocus/vocus_bc06ce29e5089cfece271e264d77f120.jpg)
 
 ## 1. Ubud Art Market（烏布藝術市場）
 
@@ -43,7 +43,7 @@ Julia Roberts主演嘅「Eat, Pray, Love」喺烏布藝術市場取景
 
 呢條充滿藝術氣息嘅街道以其精品店同藝廊聞名。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dc338e01ed09d3ce9c1251be69b6b1b0.jpg)
+![2. Jalan Goutama（高塔瑪路）](https://images.gobaligo.id/vocus/vocus_dc338e01ed09d3ce9c1251be69b6b1b0.jpg)
 
 ### 值得一睇：
 
@@ -63,7 +63,7 @@ Julia Roberts主演嘅「Eat, Pray, Love」喺烏布藝術市場取景
 
 唔單止係通往神聖猴林嘅道路，更加係一條藝術商店雲集嘅街道。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b24218c03d8ce933d431b6311628adc.jpg)
+![3. Jalan Monkey Forest（猴子森林路）](https://images.gobaligo.id/vocus/vocus_0b24218c03d8ce933d431b6311628adc.jpg)
 
 ### 特色商品：
 
@@ -83,7 +83,7 @@ Julia Roberts主演嘅「Eat, Pray, Love」喺烏布藝術市場取景
 
 呢度係當地人最常幫襯嘅藝術市場，價錢相對抵買。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_92238406ed523649c94d45eeb0afe549.jpg)
+![4. Sukawati Art Market（蘇卡瓦提藝術市場）](https://images.gobaligo.id/vocus/vocus_92238406ed523649c94d45eeb0afe549.jpg)
 
 ### 必買商品：
 
@@ -105,7 +105,7 @@ Julia Roberts主演嘅「Eat, Pray, Love」喺烏布藝術市場取景
 
 較少遊客去，係搵獨特藝術品嘅好去處。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_34b5eb5728027dd48cb10e11bda274c3.jpg)
+![5. Guwang Art Market（古旺藝術市場）](https://images.gobaligo.id/vocus/vocus_34b5eb5728027dd48cb10e11bda274c3.jpg)
 
 ### 市場特色：
 
@@ -124,7 +124,7 @@ Julia Roberts主演嘅「Eat, Pray, Love」喺烏布藝術市場取景
 
 ## 實用小貼士
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa743f0755f2c685561b29cc3268fda6.jpg)
+![實用小貼士](https://images.gobaligo.id/vocus/vocus_aa743f0755f2c685561b29cc3268fda6.jpg)
 
 ### 講價技巧：
 

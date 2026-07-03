@@ -28,25 +28,25 @@ _srcHash: 0836ad54a0039aa3b0bd558425851ce6
 
 **Petualangan Spiritual Qiang Qiang: Menjelajahi Dunia Mistis Dukun Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8c36c6cc8383b2e0dc0007e55495753d.jpg)
+![Perjalanan Jiwa Qiang Qiang di Bali! Dukun Menangis Ungkap T](https://images.gobaligo.id/vocus/vocus_8c36c6cc8383b2e0dc0007e55495753d.jpg)
 
 Bali, tanah yang diberkati para dewa, selalu punya daya panggil yang sulit dijelaskan. Kali ini, Qiang Qiang di depan kamera memilih melepas gaya liburan santai dan memulai perjalanan menuju kedalaman batin dan jiwa.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e43a0159370c6691adb3926c279afea7.jpg)
+![Perjalanan Jiwa Qiang Qiang di Bali! Dukun Menangis Ungkap T](https://images.gobaligo.id/vocus/vocus_e43a0159370c6691adb3926c279afea7.jpg)
 
 Videonya dimulai dari pura di pegunungan—sebuah upacara pemurnian dengan air suci. Kamera mengikutinya perlahan memasuki kolam, air jernih mengalir dari atas kepala, setiap tetesnya seolah membawa berkah. Dia menangkupkan tangan, menutup mata, membiarkan suara air menyelimuti dirinya. Saat itu, seluruh dunia terasa hening, hanya tersisa detak jantung dan gemericik air, membuat penonton seolah ikut merasakan kekuatan alam yang mengalir.
 
 Selanjutnya, dengan hati terbuka dia pergi menemui dukun. Dalam gambar, duduklah seorang dukun di ruangan yang penuh sesajen dan tanaman herbal, di sekelilingnya ada mangkuk nyanyian (singing bowl) dan alat ramal misterius. Dia tidak banyak bicara, hanya menyuruh Qiang Qiang menutup mata, melantunkan mantra kuno dengan lembut, lalu menggunakan getaran mangkuk nyanyian untuk memindai energi tubuhnya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_86db64818390af12b6873c8df1d347d4.jpg)
+![Perjalanan Jiwa Qiang Qiang di Bali! Dukun Menangis Ungkap T](https://images.gobaligo.id/vocus/vocus_86db64818390af12b6873c8df1d347d4.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c4be50f6ec30e47a9969a648eae7dd23.jpg)
+![Perjalanan Jiwa Qiang Qiang di Bali! Dukun Menangis Ungkap T](https://images.gobaligo.id/vocus/vocus_c4be50f6ec30e47a9969a648eae7dd23.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b6bceda4fe381e47ec1566cc154bb07b.jpg)
+![Perjalanan Jiwa Qiang Qiang di Bali! Dukun Menangis Ungkap T](https://images.gobaligo.id/vocus/vocus_b6bceda4fe381e47ec1566cc154bb07b.jpg)
 
 Dalam video, ekspresi Qiang Qiang perlahan berubah dari tegang menjadi tenang. Sang dukun, dengan cara spiritual, menunjukkan ketidaknyamanan dan tekanan emosional yang tersembunyi di dalam tubuhnya. Matanya sedikit memerah, seolah kata-kata itu menyentuh kebenaran batin tertentu. Seluruh proses penyembuhan terasa kuno dan mistis, tapi bikin kamu nggak bisa mengalihkan pandangan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_019090629928b2a9907f9df22d2503fb.jpg)
+![Perjalanan Jiwa Qiang Qiang di Bali! Dukun Menangis Ungkap T](https://images.gobaligo.id/vocus/vocus_019090629928b2a9907f9df22d2503fb.jpg)
 
 Keesokan harinya, Qiang Qiang pergi ke Desa Trunyan. Itu adalah tempat yang bahkan nggak bisa dijangkau mobil, harus naik perahu menyeberangi danau untuk sampai ke sana. Di sini nggak ada kremasi atau penguburan di tanah, jenazah diletakkan di bawah pohon suci, dibiarkan terurai secara alami, sementara arwahnya diantar oleh para dewa.
 

@@ -7,7 +7,7 @@ _srcHash: b4f2a81ada4873c87feddbf9b5b83cee
 ---
 ## More Sanur Dining and Entertainment Guide
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774670853077-index.png)
+![More Sanur Dining and Entertainment Guide](https://images.gobaligo.id/images/2026-03/1774670853077-index.png)
 
 Sanur is a tranquil seaside town on Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. It offers family-friendly resorts, traditional markets, and a wealth of local cuisine, making it an ideal destination for enjoying a slow-paced life and exploring culture. Whether strolling along the coastline or soaking in the local vibe, Sanur promises an incredibly relaxing holiday experience! Want to learn more about Sanur? Click [here](/blog/sanur-guide/)
 

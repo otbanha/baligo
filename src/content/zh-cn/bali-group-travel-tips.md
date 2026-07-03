@@ -23,7 +23,7 @@ _srcHash: 801c91e2ec4352fd7f96f0b041beca37
 
 巴厘岛是整个亚洲最热门的团体旅游目的地之一，但规划10人以上的团体旅行时，从行程安排到突发状况处理，处处隐藏着重重考验。以下是筹划10人以上团体旅游时常见的五大挑战，以及如何通过专业旅行社化解危机，打造完美旅程。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f185d21cca0ea1179fff3e7a15c7aad9.png)
+![巴厘岛10人以上团体旅游的挑战与解方](https://images.gobaligo.id/vocus/vocus_f185d21cca0ea1179fff3e7a15c7aad9.png)
 
 ## 10人以上团体旅游的5大挑战
 
@@ -51,7 +51,7 @@ _srcHash: 801c91e2ec4352fd7f96f0b041beca37
 
 面对上述挑战，深耕巴厘岛旅游市场的 isBali 旅行社，凭借十年以上经验与在地资源，提供一站式解决方案，专为10人以上团体打造流畅体验：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_81e1c944afa9687db6a693da1de31ab9.png)
+![专业解方：专业旅行社的无缝服务](https://images.gobaligo.id/vocus/vocus_81e1c944afa9687db6a693da1de31ab9.png)
 
 - 客制化行程设计：透过行前沟通精准掌握成员偏好，结合巴厘岛秘境与经典景点，设计分组弹性行程。
 - 严选在地资源：合作车队配备有经验的司机及中文导游，精选无障碍设施完善的酒店与 villa。

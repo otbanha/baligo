@@ -15,7 +15,7 @@ lang: zh-cn
 _srcHash: fd6dc5f050a200db5d4db3dbee11336a
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_055e134951ab6017808fda25010fb9d3.jpg)
+![巴厘岛洞穴漂流河探险记：Nukuwera River Tubing的亲子冒险之旅](https://images.gobaligo.id/vocus/vocus_055e134951ab6017808fda25010fb9d3.jpg)
 
 巴厘岛不仅有迷人的海滩和寺庙，更藏着许多令人惊喜的冒险活动。这次我们全家选择了Nukuwera & Pandawa的洞穴漂流河(River Tubing)体验，这绝对是我们六天五夜巴厘岛亲子旅行中最难忘的亮点之一。不同于传统的泛舟活动，洞穴漂流河结合了历史探索与水上冒险，让全家大小都能在安全又有趣的环境中，享受独特的巴厘岛风情。以下就让我分享这次刺激又充满欢笑的洞穴漂流河体验！
 
@@ -44,7 +44,7 @@ _srcHash: fd6dc5f050a200db5d4db3dbee11336a
 
 ## 洞穴探险与漂流体验
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e9b2be803404579b2db6d3b25ee4f683.jpg)
+![洞穴探险与漂流体验](https://images.gobaligo.id/vocus/vocus_e9b2be803404579b2db6d3b25ee4f683.jpg)
 
 **漂流路线亮点**：
 

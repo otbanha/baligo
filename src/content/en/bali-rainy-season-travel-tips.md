@@ -28,7 +28,7 @@ lang: en
 _srcHash: 0caa2742ace25f7c28b674f0719dc484
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e753d11092ea6e75b9d46f601928451.png)
+![Bali Rainy Season Travel Guide: Tips for a Smooth Trip](https://images.gobaligo.id/vocus/vocus_3e753d11092ea6e75b9d46f601928451.png)
 
 Bali is famous for its tropical climate and year-round sunshine, but with the annual rainy season, the island offers a completely different seasonal experience. If you're planning to visit Bali during the rainy season, the following information will help you prepare in advance for a worry-free trip.
 
@@ -75,7 +75,7 @@ Rainy days don't have to mean the end of your plans. Here are some activities su
 - **Café Hopping**: Rainy days are perfect for leisurely exploring Bali's unique cafés, such as the hidden forest café in **Ubud**.
 - **60 Rainy Day Alternatives**: We've also prepared a comprehensive list of rainy day alternatives to keep you entertained when it rains! Check it out [here](/blog/2026-bali-indoor-activities/).
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c998b2b80ee7599ccd5311ab3e33b94c.png)
+![3. Flexible Activity Choices](https://images.gobaligo.id/vocus/vocus_c998b2b80ee7599ccd5311ab3e33b94c.png)
 
 ### **4. Stay Alert and Monitor the Weather**
 

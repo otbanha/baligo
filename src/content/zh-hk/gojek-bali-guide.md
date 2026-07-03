@@ -22,7 +22,7 @@ _srcHash: 90e0e9d0c295236569a62c9418364712
 
 如果你計劃去峇里島，或者身處印尼，咁Gojek絕對係你旅行中或者生活中不可或缺嘅APP。等我哋一齊嚟探索呢款引領潮流嘅便利工具，同埋佢對你嘅旅程所帶嚟嘅改變。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b1addd430f34b7a65092885063d5a3e5.jpg)
+![去印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](https://images.gobaligo.id/vocus/vocus_b1addd430f34b7a65092885063d5a3e5.jpg)
 
 ### **Gojek: 便捷嘅生活伴侶**
 

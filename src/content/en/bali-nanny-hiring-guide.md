@@ -24,7 +24,7 @@ _srcHash: dca28c43defdedefbe401fef86ab8c3e
 
 When vacationing in Bali, especially for family trips, many families consider hiring a nanny to ease the burden of childcare, making the trip more relaxing and enjoyable. However, hiring a nanny in a foreign country, whether for short-term vacation needs or long-term assistance, can indeed present some challenges and questions. This guide will introduce ways to find a nanny, the services offered by Bali nannies, price ranges, as well as etiquette and tips when hiring a nanny, allowing you to enjoy more leisure time during your trip.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1dcdfc7456643fad272dc5b80065caff.png)
+![Bali Nanny Guide: How to Find the Right Nanny and Cost Overv](https://images.gobaligo.id/vocus/vocus_1dcdfc7456643fad272dc5b80065caff.png)
 
 ## Why Choose to Hire a Nanny in Bali?
 
@@ -38,7 +38,7 @@ Searching for "nanny in Bali" or "babysitter in Bali" on search engines will yie
 
 When selecting a nanny, it is advisable to check their references, understand their experience and specialties, and have a brief meeting or at least a video call to ensure a good interaction. If you are unsure about the chosen nanny, ask beforehand if an immediate replacement can be provided, ensuring you won't be left without help when needed.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a70a13d0ea212f669ce3b73d13e25e5f.png)
+![Ways to Find a Nanny](https://images.gobaligo.id/vocus/vocus_a70a13d0ea212f669ce3b73d13e25e5f.png)
 
 ## Nanny Costs
 
@@ -56,7 +56,7 @@ There are several etiquette points to keep in mind when hiring a nanny:
 
 ## Considerations and Challenges
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e8e947a01f275561c3d1d6020719d0fc.png)
+![Considerations and Challenges](https://images.gobaligo.id/vocus/vocus_e8e947a01f275561c3d1d6020719d0fc.png)
 
 Hiring a nanny in Bali may also come with some challenges. For example, in areas popular with foreign tourists, local nannies’ salaries may be significantly higher than in other parts of Indonesia. The high demand from expatriates has driven up salary standards in the nanny market, which may feel burdensome for some local families.
 

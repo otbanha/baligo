@@ -23,7 +23,7 @@ _srcHash: d7f3fde71789dc874d2ad9b686c30f9c
 ---
 Berikut info lengkap perayaan Imlek 2025 di Bali. Kalau kamu dan keluarga liburan ke Bali pas tahun baru Imlek, tetap bisa ngerasain suasana tahun baru di negeri orang!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_18bd7cbd5a329497c0a6de2563f31473.png)
+![【Wajib Disimpan】Kumpulan Info Perayaan Imlek di Bali](https://images.gobaligo.id/vocus/vocus_18bd7cbd5a329497c0a6de2563f31473.png)
 
 ---
 
@@ -52,7 +52,7 @@ Perayaan Imlek di Bali nggak cuma soal makanan, tapi juga penuh pengalaman buday
 - **Musik & Tari Tradisional**: Di [Kang Xi Temple](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3164) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685798&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6w8TFJMEkdZWJY-qOHSuYhJgNDYw07rMZPGC02CrvaMt1fXGB_GQHz_5DXzViOqc7BPBETDnwfBp7YnOg59yGQ4EOXYysYIEZjM_eam5k9HhYJbJueaHDDkamA4xMJxhvmS1gun3pFeMpFmaOBVyXWHYzRlcrZadWKlmZ6CiVZJbkpCpZKT1dNO9pw57nK1qVdJRSUouTgUJAVmJufmleCZBtaGxopGdgABQqSazwTAFrTU7MSS7NSSxJDaksABphpKOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFQQYXQfmZ-XkQ3QYoYmGJOaWpEJVA-9xSoVYY1sY-YmGKjn3Bcp_tEwvDLxaGJlaGLlZmjlNMk4DkLbNdrLze3i6Rjv66hiG6UbqGF1jbbKXkDQ0MDEwNjU1NdQ0SLRNNjZMNdU0sTYzMDXTNjM0tLDSu9_XeeGJsZC0FCUYFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbE6WZuaGLlE2XMyhwS6CAhGWW06YSTtIMYeEuyiWrn6-5HvvaXstZk-XIMMPes-3t1tb2gfueZ1zwt54gX1kOMv_6JN9p-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxjZuZgNjAwFmDYwMu5g_A8DjK8YQZYAAGFDC3dIAgAA&masterhotelid_tracelogid=100051355-0a9a53c1-494270-63788&detailFilters=17|1~17~1*31|685798~31~685798*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=240&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/kOsEG0tu) di [Tugu Bali Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3164), kamu bisa nonton pertunjukan guzheng (alat musik tradisional China) dan barongsai, plus ikut makan malam keluarga 8 hidangan. ([Sumber](https://blog.tuguhotels.com/lunar-legends-celebrating-the-wood-snake-year-at-the-historic-kang-xi-temple/))
 - **Dekorasi & Pasar Imlek**: Jalanan di Denpasar dihias lampion merah dan dekorasi khas Imlek, bikin suasana makin meriah. Di pasarnya, kamu juga bisa beli kerajinan tangan tradisional dan oleh-oleh khas Imlek. ([Sumber](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0fdf9297e023a767c306109772cc60c1.png)
+![3. Kegiatan Budaya & Seni](https://images.gobaligo.id/vocus/vocus_0fdf9297e023a767c306109772cc60c1.png)
 
 ---
 
@@ -110,7 +110,7 @@ Banyak resor mewah dan restoran di Bali yang menggelar perayaan seru, bikin kamu
    - Reservasi Telp: +62 811 3960 0130
 7. **Mr. Lobster Seafood Bali (punya bos Taiwan, dukung terus ya!)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f0cbbe41bdf5a551a04e2873a8a52853.png)
+![Kuta / Legian](https://images.gobaligo.id/vocus/vocus_f0cbbe41bdf5a551a04e2873a8a52853.png)
 
 - - Tanggal: Mulai sekarang hingga 24 Februari 2025
   - Acara: Paket promo Imlek
@@ -222,7 +222,7 @@ Perayaan Tahun Baru Imlek 2025 di Bali memadukan tradisi Tionghoa dengan budaya 
 
 ## 📩 **Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Bali!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Ba](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

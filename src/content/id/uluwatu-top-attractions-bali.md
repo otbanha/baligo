@@ -22,19 +22,19 @@ lang: id
 _srcHash: 0c61c3621a3b617b22c5bef0108dc132
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dd3f3b7cadfa7c280b3748820ff69beb.jpg)
+![10 Tempat & Aktivitas Wajib di Uluwatu, Bali](https://images.gobaligo.id/vocus/vocus_dd3f3b7cadfa7c280b3748820ff69beb.jpg)
 
 Setiap detik yang kamu habiskan di Uluwatu terasa seperti surga—ini bukan lebay! Uluwatu, Bali, sering banget dianggap remeh, padahal hari ini kita bakal ajak kamu eksplor 10 tempat dan aktivitas wajib di Uluwatu.
 
 ## Peringkat 10: Kunjungi Pura Uluwatu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b953b86f0cdb3e5f162eec96ac861d2d.jpg)
+![Peringkat 10: Kunjungi Pura Uluwatu](https://images.gobaligo.id/vocus/vocus_b953b86f0cdb3e5f162eec96ac861d2d.jpg)
 
 Pura Uluwatu (Uluwatu Temple) dianggap sebagai salah satu pura paling terkenal di Bali, sejajar dengan Pura Tanah Lot dan Pura Besakih. Pura ini berdiri di atas tebing setinggi 17 meter di Samudra Hindia, dan termasuk tiga pura utama di Bali yang jadi fondasi spiritual masyarakat Bali. Selain nilai religiusnya yang kuat, kamu pasti bakal terpesona sama pemandangan laut yang spektakuler. Kamu juga bisa lihat sunset yang super cantik di sini. Tapi hati-hati sama monyet-monyet nakalnya—ini monyet paling liar se-Asia Tenggara, jadi lepas kacamata dan perhiasanmu ya!
 
 ## Peringkat 9: Nonton Tari Kecak (Fire Dance)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8e1e2cb735b2c791a156b870f1022afc.jpg)
+![Peringkat 9: Nonton Tari Kecak (Fire Dance)](https://images.gobaligo.id/vocus/vocus_8e1e2cb735b2c791a156b870f1022afc.jpg)
 
 Pengunjung yang datang ke Pura Uluwatu juga bisa nonton pertunjukan Tari Kecak yang legendaris. Tarian khas Bali ini unik banget karena nggak pakai musik—iringannya cuma suara sekelompok pria yang berseru-seru dengan keras. Seperti tarian Bali lainnya, tarian ini bercerita lewat gerakan. Tempat terbaik buat nonton Tari Kecak di Bali adalah panggung di Pura Uluwatu, di mana kamu bisa lihat latar belakang sunset yang memukau di belakang para penari.
 
@@ -91,7 +91,7 @@ Ini tempat favorit para peselancar — mereka pakai goa ini buat akses ke laut d
 
 ## Peringkat 5: Jalan-jalan ke GWK Cultural Park
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6c3c61665afdc5719285358d3e0c4bd9.jpg)
+![Peringkat 5: Jalan-jalan ke GWK Cultural Park](https://images.gobaligo.id/vocus/vocus_6c3c61665afdc5719285358d3e0c4bd9.jpg)
 
 Garuda Wisnu Kencana Cultural Park adalah taman budaya terbesar di Indonesia. Tempat ini didedikasikan untuk Dewa Wisnu dan tunggangannya, burung mitos 'Garuda'. Di sini berdiri patung perunggu Wisnu naik Garuda tertinggi di Indonesia — jadi ikon utama. Di destinasi budaya ini, kamu juga bisa belanja dan nonton tari tradisional Bali.
 
@@ -103,7 +103,7 @@ Garuda Wisnu Kencana Cultural Park adalah taman budaya terbesar di Indonesia. Te
 
 ## Peringkat Keempat: Balangan Viewpoint
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc2912da85b54c0124095c6a7ac446b1.jpg)
+![Peringkat Keempat: Balangan Viewpoint](https://images.gobaligo.id/vocus/vocus_bc2912da85b54c0124095c6a7ac446b1.jpg)
 
 Balangan cliff sunset point adalah tempat yang mempesona, terkenal dengan pemandangan tepi laut yang spektakuler. Ini adalah salah satu spot terbaik untuk menikmati sunset di Bali. Kamu bisa melihat matahari perlahan tenggelam ke cakrawala laut dari tebing, meninggalkan pemandangan yang tak terlupakan. Selain itu, kamu juga bisa menikmati jalan-jalan di bebatuan, merasakan keindahan alam, atau sekadar bersantai di pantai.
 
@@ -121,7 +121,7 @@ Baca juga: [Jelajahi Surga Tersembunyi Bali 6 Pantai Rahasia Bali & Cara Cek Pas
 
 ## Peringkat Kedua: Tanah Barak Cliff / Jalan Tebing Biru
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7ae1b58d8b51712366caf4610c73688a.jpg)
+![Peringkat Kedua: Tanah Barak Cliff / Jalan Tebing Biru](https://images.gobaligo.id/vocus/vocus_7ae1b58d8b51712366caf4610c73688a.jpg)
 
 Tanah Barak Cliff di Bali (ada juga yang nyebut Pantai Batu Barak) adalah hidden gem yang belakangan ini jadi tempat hits. Pantai ini baru dibuka, dan air laut biru yang memukau serta bebatuan warna-warni bikin tempat ini unik banget. Selain pemandangan laut yang spektakuler, jalannya juga dipahat di tebing batu kapur raksasa. Air laut biru di kejauhan, tebing-tebing tinggi di kiri-kanan jalan, menciptakan efek visual yang wow banget. Kamu juga bisa naik ke batu di tengah buat dapetin angle foto yang lebih keren. Tanah Barak sekitar 30 menit berkendara dari bandara, dan masuknya bayar tiket (saat ini harga dewasa Rp8.000, anak-anak Rp3.000). Buka setiap hari dari jam 6 pagi sampai 6 sore.
 
@@ -151,7 +151,7 @@ Kalau kamu lagi pacaran, bisa banget nikmatin suasana romantis di Restoran Malin
 
 ## Juara 1: Surfing & Diving
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f237c3322eff064a02804f4e6cffcc22.jpg)
+![Juara 1: Surfing & Diving](https://images.gobaligo.id/vocus/vocus_f237c3322eff064a02804f4e6cffcc22.jpg)
 
 Garis pantai Uluwatu punya spot surfing yang oke punya, jadi ini surga banget buat para peselancar dan salah satu alasan utama kenapa banyak turis datang ke Uluwatu. Di sekitar sini banyak banget kamp surfing dan tempat kursus, kayak Pantai Uluwatu, Pantai Padang Padang, Pantai Bingin, Pantai Green Bowl, dan Pantai Suluban—macam-macam, nggak ada habisnya. Ambil contoh Pantai Uluwatu, pantai ini dijuluki sebagai daya tarik terbesar Uluwatu. Selain pura di tebing yang terkenal, tempat ini juga jadi favorit buat nyobain surfing dan berbagai olahraga air lainnya. Kamu bisa santai di pasir sambil nikmatin sunset, atau cobain kuliner di restoran sekitar—dijamin bakal terpesona sama pesona pantai ini. Mau kamu yang pengen seru-seruan surfing atau sekadar nonton aja, tempat ini wajib banget masuk list.
 

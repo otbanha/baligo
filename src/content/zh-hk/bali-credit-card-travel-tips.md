@@ -19,7 +19,7 @@ _srcHash: 1fe8c7703f945bc572573461b0aaf955
 
 喺峇里島呢片神奇嘅土地上，隨住國際觀光客越來越多嘅趨勢，信用卡嘅接受程度喺峇里島亦都越來越普及。作為一名旅行者，您可能會考慮用信用卡嚟支付您嘅開支。然而，用信用卡喺峇里島旅行有佢嘅利與弊，等我哋一齊嚟探討下。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa29ee99c92f61f5ed2131d9230f0941.jpg)
+![峇里島用信用卡方唔方便？碌卡抵唔抵？](https://images.gobaligo.id/vocus/vocus_aa29ee99c92f61f5ed2131d9230f0941.jpg)
 
 ## **用信用卡嘅好處：**
 
@@ -28,7 +28,7 @@ _srcHash: 1fe8c7703f945bc572573461b0aaf955
 3. **緊急資金：** 喺旅行中，有時可能會遇到資金不足嘅情況，呢個時候信用卡可以作為臨時嘅緊急資金來源，讓您暫時擺脫困境。
 4. **獲得獎勵：** 一啲信用卡可能會提供旅遊獎勵或者海外交易回饋，呢個意味住您喺旅行中可以享受到額外嘅福利或者慳到開支，讓您嘅旅行更加愉快。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d52b3db75ded9d47fc0971a9d571c00a.png)
+![用信用卡嘅好處：](https://images.gobaligo.id/vocus/vocus_d52b3db75ded9d47fc0971a9d571c00a.png)
 
 預訂、慳錢就睇呢度：
 

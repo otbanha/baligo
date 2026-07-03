@@ -33,7 +33,7 @@ Located in the southeastern part of Bali, Sanur was one of the island's earliest
 
 Compared to popular tourist spots like Kuta and Seminyak, Sanur is more serene and laid-back. Its wide, gentle beaches are perfect for strolling and relaxing. Unlike areas filled with parties and shopping, Sanur focuses more on family-friendly resorts and natural beauty.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_073aa8625b9752317012e08a6c4b75d8.jpg)
+![How Sanur Differs from Other Areas in Bali](https://images.gobaligo.id/vocus/vocus_073aa8625b9752317012e08a6c4b75d8.jpg)
 
 {{block:klook}}
 

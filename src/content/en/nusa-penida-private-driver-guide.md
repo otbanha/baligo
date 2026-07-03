@@ -24,7 +24,7 @@ _srcHash: 0d703b4444cb6ed9576c9ba48ed2efb7
 
 Planning a trip to Nusa Penida but worried about transportation? In fact, most visitors choose to have their **Bali-based driver** help plan the itinerary. This guide explains how to arrange a driver for Nusa Penida, along with recommended practices and key considerations.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6346fb2575580dc3cc5c5a5c8fd584b9.jpg)
+![How to Choose a Driver for Nusa Penida? Practical Tips for B](https://images.gobaligo.id/vocus/vocus_6346fb2575580dc3cc5c5a5c8fd584b9.jpg)
 
 ## Can You Travel Independently on Nusa Penida?
 
@@ -47,7 +47,7 @@ This arrangement is very convenient for travelers. Here’s the typical process:
 
 No, you don't need to find your own driver unless you're familiar with the local language or travel style. Most drivers on mainland Bali have steady partnerships with drivers on Nusa Penida who are professional and know how to steer you away from crowds. They also help with translation and time management, giving you greater peace of mind.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_787038b9a39f629e9ca2d266a53c3bad.jpg)
+![Do You Need to Arrange a Separate Local Driver on Nusa Penid](https://images.gobaligo.id/vocus/vocus_787038b9a39f629e9ca2d266a53c3bad.jpg)
 
 ## Reasons to Arrange Through a Bali Private Driver
 
@@ -82,7 +82,7 @@ We have five episodes covering Nusa Penida—let's dive deeper into this island 
 4. [Nusa Penida Taxi, Gojek/Grab, Private Driver, and Scooter Transport Guide](/blog/nusa-penida-transport-guide/)
 5. [13 Highly-Rated Nusa Penida Accommodations from Luxury to Budget](/blog/nusa-penida-hotels-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0cb95fce009e6a0b11e1c5639d83ec4d.jpg)
+![Complete Guide to Nusa Penida](https://images.gobaligo.id/vocus/vocus_0cb95fce009e6a0b11e1c5639d83ec4d.jpg)
 
 ---
 

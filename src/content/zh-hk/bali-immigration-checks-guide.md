@@ -19,7 +19,7 @@ _srcHash: 00c8e3f6eb9fbe4a8796b7201dd4a648
 
 ## **好多人問：要印嗎？**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1ff5703b8036ffd6acb543380c8cc3dc.png)
+![好多人問：要印嗎？](https://images.gobaligo.id/vocus/vocus_1ff5703b8036ffd6acb543380c8cc3dc.png)
 
 去峇里島旅行時，必備文件包括：
 
@@ -107,7 +107,7 @@ _srcHash: 00c8e3f6eb9fbe4a8796b7201dd4a648
 
 ## 📩 **「峇里島旅遊攻略」首頁說明**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
+![「峇里島旅遊攻略」首頁說明](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

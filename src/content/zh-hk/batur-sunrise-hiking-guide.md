@@ -19,7 +19,7 @@ _srcHash: 60e806d45890a74ca79a9328d6aea50c
 
 講起峇里島，好多人第一時間諗到嘅係靚沙灘同閃閃發光嘅海水。不過，峇里島嘅魅力唔止咁多，仲有一個唔可以錯過嘅自然奇觀，就係巴杜爾山嘅壯麗日出。點解要揀巴杜爾山睇日出呢？呢段經歷真係令人難忘，由行山嘅挑戰到企喺山頂睇日出，每一步都係值得回憶嘅冒險。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1a33444c5f40194580ec6dd76eebda6d.png)
+![享受峇里島巴杜爾山頂嘅壯麗日出](https://images.gobaligo.id/vocus/vocus_1a33444c5f40194580ec6dd76eebda6d.png)
 
 ### **出發前嘅準備**
 
@@ -48,7 +48,7 @@ _srcHash: 60e806d45890a74ca79a9328d6aea50c
 
 登山路線概述：從山腳到山頂，總共有三個主要嘅休息站。每個休息站都係一個放鬆同補充能量嘅好地方。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_943cfde45f0d5e4c8028776be7761d3b.png)
+![登山過程](https://images.gobaligo.id/vocus/vocus_943cfde45f0d5e4c8028776be7761d3b.png)
 
 ### **第一休息站**
 
@@ -62,7 +62,7 @@ _srcHash: 60e806d45890a74ca79a9328d6aea50c
 
 終於，我哋企咗喺巴杜爾山嘅山頂。從呢度可以睇到360度嘅全景，令人屏息嘅美景盡收眼底。三座壯麗嘅火山——阿貢山、阿邦山同巴杜爾山，構成咗一幅完美嘅自然畫卷。隨住太陽慢慢升起，天空從黑暗逐漸變為橙紅色，呢一刻令人感受到大自然嘅無限魅力。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_040067c34db9397ea52aaa21df16c3bd.png)
+![巴杜爾山巔的壯麗日出](https://images.gobaligo.id/vocus/vocus_040067c34db9397ea52aaa21df16c3bd.png)
 
 ### **日出後嘅活動**
 
@@ -76,7 +76,7 @@ _srcHash: 60e806d45890a74ca79a9328d6aea50c
 
 返到庫塔嘅路上，我哋喺幾間咖啡館停留，呢啲咖啡館都擁有絕美嘅山景，非常適合休息同回味呢次嘅登山體驗。返到酒店後，我感到無比滿足，呢次巴杜爾山之旅實現咗我多年嘅心願。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb64b843848cfe5be13410cb5bb851ac.png)
+![返到庫塔](https://images.gobaligo.id/vocus/vocus_eb64b843848cfe5be13410cb5bb851ac.png)
 
 ### **總結**
 

@@ -25,7 +25,7 @@ _srcHash: 52607748c0beba97229ee7276ef4eec3
 
 而家，就等我哋一齊嚟睇下，印尼簽證申請最常見嘅錯誤以及點樣避免呢啲問題。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fa817dcbf8920a031cce812823af7cc3.jpg)
+![點樣避免印尼簽證申請中嘅常見錯誤？](https://images.gobaligo.id/vocus/vocus_fa817dcbf8920a031cce812823af7cc3.jpg)
 
 ---
 
@@ -109,7 +109,7 @@ _srcHash: 52607748c0beba97229ee7276ef4eec3
 
 ## **🛂 點樣申請印尼電子落地簽（eVisa on Arrival）？**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_70703b99831da726cd9eeac97e780116.png)
+![點樣申請印尼電子落地簽（eVisa on Arrival）？](https://images.gobaligo.id/vocus/vocus_70703b99831da726cd9eeac97e780116.png)
 
 ✅ **申請時間：** 最早可以喺 **入境前 90 天** 申請
 
@@ -151,7 +151,7 @@ _srcHash: 52607748c0beba97229ee7276ef4eec3
 
 ## 📩 **立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

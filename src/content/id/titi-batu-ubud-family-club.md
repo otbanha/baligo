@@ -33,7 +33,7 @@ Di Bali, sebagian besar beach club atau jungle club memang seru, tapi sering kur
 
 Tapi **Titi Batu Ubud Club** yang ada di Ubud ini beda banget. Tempat ini gabungin **fitnes, hiburan keluarga, dan relaksasi** dalam satu club multifungsi. Enggak cuma buat orang dewasa yang mau olahraga dan self-care, tapi juga punya ruang aman, luas, dan seru buat anak-anak. Suasananya natural dan desainnya nyaman, jadi sering jadi tempat favorit keluarga ekspat dan warga lokal. Hidden gem di Ubud yang wajib dicoba bareng keluarga!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cdccff4eb7d8371bef1024a0f77858f8.jpg)
+![【Rekomendasi Keluarga di Ubud】Titi Batu Ubud Club: Panduan C](https://images.gobaligo.id/vocus/vocus_cdccff4eb7d8371bef1024a0f77858f8.jpg)
 
 ***
 
@@ -41,7 +41,7 @@ Tapi **Titi Batu Ubud Club** yang ada di Ubud ini beda banget. Tempat ini gabung
 
 ### **Tempat Fitness & Olahraga**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eba6623de0c87553608421feec160e15.jpg)
+![Tempat Fitness & Olahraga](https://images.gobaligo.id/vocus/vocus_eba6623de0c87553608421feec160e15.jpg)
 
 - Gym kelas dunia
 - Lapangan basket, squash, meja pingpong
@@ -49,7 +49,7 @@ Tapi **Titi Batu Ubud Club** yang ada di Ubud ini beda banget. Tempat ini gabung
 
 ### **Fasilitas Air & Relaksasi**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf4fce54cadd2343e4e9ffe0a5b9ff0e.jpg)
+![Fasilitas Air & Relaksasi](https://images.gobaligo.id/vocus/vocus_bf4fce54cadd2343e4e9ffe0a5b9ff0e.jpg)
 
 - Kolam renang besar
 - Kolam air panas & dingin
@@ -57,7 +57,7 @@ Tapi **Titi Batu Ubud Club** yang ada di Ubud ini beda banget. Tempat ini gabung
 
 ### **Hiburan Anak**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f9cea5400791f2842a2fbb039dadaae5.jpg)
+![Hiburan Anak](https://images.gobaligo.id/vocus/vocus_f9cea5400791f2842a2fbb039dadaae5.jpg)
 
 - Ruang bermain anak
 - Kolam renang yang cocok untuk bermain bersama keluarga
@@ -65,9 +65,9 @@ Tapi **Titi Batu Ubud Club** yang ada di Ubud ini beda banget. Tempat ini gabung
 
 ### **Santai & Sosialisasi**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0d1f2f84406f7134621e2b2daa573e3c.jpg)
+![Santai & Sosialisasi](https://images.gobaligo.id/vocus/vocus_0d1f2f84406f7134621e2b2daa573e3c.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_954074e0c8b366b35dd5757797a2c453.jpg)
+![Santai & Sosialisasi](https://images.gobaligo.id/vocus/vocus_954074e0c8b366b35dd5757797a2c453.jpg)
 
 - Area restoran dan kopi
 - Ruang dansa, ruang yoga
@@ -85,7 +85,7 @@ Titi Batu Ubud Club berdiri di atas tanah suci, dekat dengan **Jembatan Batu Bal
 
 Untuk lokasi detail, lihat 'Peta Panduan Ubud' bagian 'Taman Bermain & Restoran Ramah Keluarga', klik [di sini](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac630e4994ccfac0738986cc0f642c61.png)
+![Latar Belakang Budaya & Geografis yang Unik](https://images.gobaligo.id/vocus/vocus_ac630e4994ccfac0738986cc0f642c61.png)
 
 ***
 

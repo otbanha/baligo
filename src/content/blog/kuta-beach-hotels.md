@@ -47,25 +47,25 @@ embeds: []
 
 ## Sheraton Bali Kuta Resort ⭐⭐⭐⭐⭐
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787717774-44dd2bdf752e5b0f5c5a522e31478510.webp)
+![Sheraton Bali Kuta Resort](https://images.gobaligo.id/images/2026-04/1776787717774-44dd2bdf752e5b0f5c5a522e31478510.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787718985-8428bcdabf28e18884c3980ec2213ee9.jpeg)
+![Sheraton Bali Kuta Resort](https://images.gobaligo.id/images/2026-04/1776787718985-8428bcdabf28e18884c3980ec2213ee9.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787719727-486613751.jpg)
+![Sheraton Bali Kuta Resort](https://images.gobaligo.id/images/2026-04/1776787719727-486613751.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787720353-551528029.jpg)
+![Sheraton Bali Kuta Resort](https://images.gobaligo.id/images/2026-04/1776787720353-551528029.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787721377-612979436.jpg)
+![Sheraton Bali Kuta Resort](https://images.gobaligo.id/images/2026-04/1776787721377-612979436.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787722010-612979450.jpg)
+![Sheraton Bali Kuta Resort](https://images.gobaligo.id/images/2026-04/1776787722010-612979450.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787722494-f3e2c2bf3ede5e459cd029b6269881b2.webp)
+![Sheraton Bali Kuta Resort](https://images.gobaligo.id/images/2026-04/1776787722494-f3e2c2bf3ede5e459cd029b6269881b2.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787723422-0ce2004d51e47077c2b420225475539a.jpeg)
+![Sheraton Bali Kuta Resort](https://images.gobaligo.id/images/2026-04/1776787723422-0ce2004d51e47077c2b420225475539a.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787723966-4cbbe192205a47af48d92e49c4fed467.jpeg)
+![Sheraton Bali Kuta Resort](https://images.gobaligo.id/images/2026-04/1776787723966-4cbbe192205a47af48d92e49c4fed467.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787724838-9b6a2f82b542f5eef6a9fa09b9fc3a7a.jpeg)
+![Sheraton Bali Kuta Resort](https://images.gobaligo.id/images/2026-04/1776787724838-9b6a2f82b542f5eef6a9fa09b9fc3a7a.jpeg)
 
 Marriott 旗下五星品牌「喜來登」，直面庫塔海灘，和 Beachwalk 購物中心直接相連，是這條海岸線上地理條件最強的飯店之一。
 
@@ -83,25 +83,25 @@ Marriott 旗下五星品牌「喜來登」，直面庫塔海灘，和 Beachwalk 
 
 ## Hard Rock Hotel Bali ⭐⭐⭐⭐
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787795087-175322400.jpg)
+![Hard Rock Hotel Bali](https://images.gobaligo.id/images/2026-04/1776787795087-175322400.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787795608-235821697.jpg)
+![Hard Rock Hotel Bali](https://images.gobaligo.id/images/2026-04/1776787795608-235821697.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787796149-235821773.jpg)
+![Hard Rock Hotel Bali](https://images.gobaligo.id/images/2026-04/1776787796149-235821773.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787796730-246214639.jpg)
+![Hard Rock Hotel Bali](https://images.gobaligo.id/images/2026-04/1776787796730-246214639.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787797311-526546644.jpg)
+![Hard Rock Hotel Bali](https://images.gobaligo.id/images/2026-04/1776787797311-526546644.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787798516-29141414.jpg)
+![Hard Rock Hotel Bali](https://images.gobaligo.id/images/2026-04/1776787798516-29141414.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787799182-29141420.jpg)
+![Hard Rock Hotel Bali](https://images.gobaligo.id/images/2026-04/1776787799182-29141420.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787799681-29149205.jpg)
+![Hard Rock Hotel Bali](https://images.gobaligo.id/images/2026-04/1776787799681-29149205.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787800233-157357673.jpg)
+![Hard Rock Hotel Bali](https://images.gobaligo.id/images/2026-04/1776787800233-157357673.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787800919-164162715.jpg)
+![Hard Rock Hotel Bali](https://images.gobaligo.id/images/2026-04/1776787800919-164162715.jpg)
 
 搖滾主題地標，418 間客房，緊鄰 Kuta Beach，擁有峇里島規模最大的自由式泳池，對親子旅遊和音樂愛好者來說幾乎是必選。
 
@@ -119,25 +119,25 @@ Marriott 旗下五星品牌「喜來登」，直面庫塔海灘，和 Beachwalk 
 
 ## Pullman Bali Legian Beach ⭐⭐⭐⭐⭐
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787902358-b20d421fc4a96b8bb3ce9ec15a314330.webp)
+![Pullman Bali Legian Beach](https://images.gobaligo.id/images/2026-04/1776787902358-b20d421fc4a96b8bb3ce9ec15a314330.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787902900-db8ee901a1a824af07aaaa8e0afd126f.webp)
+![Pullman Bali Legian Beach](https://images.gobaligo.id/images/2026-04/1776787902900-db8ee901a1a824af07aaaa8e0afd126f.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787903356-3a88e6775e94b2d53d959cc34773c44c.webp)
+![Pullman Bali Legian Beach](https://images.gobaligo.id/images/2026-04/1776787903356-3a88e6775e94b2d53d959cc34773c44c.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787903814-4dfda6ff45b70e78dfb32a96a8d55f51.webp)
+![Pullman Bali Legian Beach](https://images.gobaligo.id/images/2026-04/1776787903814-4dfda6ff45b70e78dfb32a96a8d55f51.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787904217-73be05c17a1c54e21cde6ed1a9e65141.webp)
+![Pullman Bali Legian Beach](https://images.gobaligo.id/images/2026-04/1776787904217-73be05c17a1c54e21cde6ed1a9e65141.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787904687-764579367.jpg)
+![Pullman Bali Legian Beach](https://images.gobaligo.id/images/2026-04/1776787904687-764579367.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787905260-764579439.jpg)
+![Pullman Bali Legian Beach](https://images.gobaligo.id/images/2026-04/1776787905260-764579439.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787905803-764579445.jpg)
+![Pullman Bali Legian Beach](https://images.gobaligo.id/images/2026-04/1776787905803-764579445.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787906134-764579484.jpg)
+![Pullman Bali Legian Beach](https://images.gobaligo.id/images/2026-04/1776787906134-764579484.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776787906681-853933427.jpg)
+![Pullman Bali Legian Beach](https://images.gobaligo.id/images/2026-04/1776787906681-853933427.jpg)
 
 Accor 旗下五星，嚴格說是 Legian 而非 Kuta，但兩者海灘接連，同屬這條黃金海岸。成人無邊際泳池和 Legian 日落景觀是整區住宿中罕見的奢華感。
 
@@ -155,27 +155,27 @@ Accor 旗下五星，嚴格說是 Legian 而非 Kuta，但兩者海灘接連，�
 
 ## MAMAKA by Ovolo ⭐⭐⭐⭐
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788052706-51e70ffc3ce5fa78ba44142688140848.webp)
+![MAMAKA by Ovolo](https://images.gobaligo.id/images/2026-04/1776788052706-51e70ffc3ce5fa78ba44142688140848.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788053983-0612a2156e60673b998076843e747e95.webp)
+![MAMAKA by Ovolo](https://images.gobaligo.id/images/2026-04/1776788053983-0612a2156e60673b998076843e747e95.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788054736-282532674.jpg)
+![MAMAKA by Ovolo](https://images.gobaligo.id/images/2026-04/1776788054736-282532674.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788055216-284720859.jpg)
+![MAMAKA by Ovolo](https://images.gobaligo.id/images/2026-04/1776788055216-284720859.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788055756-285359700.jpg)
+![MAMAKA by Ovolo](https://images.gobaligo.id/images/2026-04/1776788055756-285359700.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788056202-285359758.jpg)
+![MAMAKA by Ovolo](https://images.gobaligo.id/images/2026-04/1776788056202-285359758.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788057176-1b390705184b45bdc81784c5077c72c1.webp)
+![MAMAKA by Ovolo](https://images.gobaligo.id/images/2026-04/1776788057176-1b390705184b45bdc81784c5077c72c1.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788057547-3fe72ff90fe5c8691b142e901cdeaeee.webp)
+![MAMAKA by Ovolo](https://images.gobaligo.id/images/2026-04/1776788057547-3fe72ff90fe5c8691b142e901cdeaeee.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788059088-4ca5af7b9011ca81f488f62d7bb58181.webp)
+![MAMAKA by Ovolo](https://images.gobaligo.id/images/2026-04/1776788059088-4ca5af7b9011ca81f488f62d7bb58181.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788060508-9f6c18b4a47ba740c5ac406f9c14324d.webp)
+![MAMAKA by Ovolo](https://images.gobaligo.id/images/2026-04/1776788060508-9f6c18b4a47ba740c5ac406f9c14324d.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788061400-r2.webp)
+![MAMAKA by Ovolo](https://images.gobaligo.id/images/2026-04/1776788061400-r2.webp)
 
 Kuta 與 Legian 交界的設計系海灘飯店，合作 RipCurl 提供衝浪體驗，是這條海岸線上風格最鮮明的選擇。
 
@@ -193,25 +193,25 @@ Kuta 與 Legian 交界的設計系海灘飯店，合作 RipCurl 提供衝浪體�
 
 ## Aloft Bali Kuta at Beachwalk ⭐⭐⭐⭐
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788152563-643126482.jpg)
+![Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788152563-643126482.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788153064-643126512.jpg)
+![Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788153064-643126512.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788153567-643126513.jpg)
+![Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788153567-643126513.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788153975-643126514.jpg)
+![Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788153975-643126514.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788154554-643126517.jpg)
+![Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788154554-643126517.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788155109-643126526.jpg)
+![Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788155109-643126526.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788155615-482956642.jpeg)
+![Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788155615-482956642.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788156084-482956652.jpeg)
+![Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788156084-482956652.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788156591-482956751.jpeg)
+![Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788156591-482956751.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788156945-482956753.jpeg)
+![Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788156945-482956753.jpeg)
 
 Marriott 旗下 2022 年開幕的新飯店，直接建在 Beachwalk 購物中心內部，Kuta Beach 步行 2 分鐘，購物方便程度滿分，兼具海灘近與市區便利兩個優點。
 
@@ -229,33 +229,33 @@ Marriott 旗下 2022 年開幕的新飯店，直接建在 Beachwalk 購物中心
 
 ## The Anvaya Beach Resort Bali ⭐⭐⭐⭐⭐
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788220133-1cb45f1e5065492515c0c139af33f613.webp)
+![The Anvaya Beach Resort Bali](https://images.gobaligo.id/images/2026-04/1776788220133-1cb45f1e5065492515c0c139af33f613.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788220902-15ab99da9a61b3f69400e817318741ea.webp)
+![The Anvaya Beach Resort Bali](https://images.gobaligo.id/images/2026-04/1776788220902-15ab99da9a61b3f69400e817318741ea.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788221424-48a468ff1906aa72320e81832608850b.webp)
+![The Anvaya Beach Resort Bali](https://images.gobaligo.id/images/2026-04/1776788221424-48a468ff1906aa72320e81832608850b.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788221950-55fdc35efda62959a75448e81b337b56.webp)
+![The Anvaya Beach Resort Bali](https://images.gobaligo.id/images/2026-04/1776788221950-55fdc35efda62959a75448e81b337b56.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788222393-81351605.jpg)
+![The Anvaya Beach Resort Bali](https://images.gobaligo.id/images/2026-04/1776788222393-81351605.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788222908-147952741.jpg)
+![The Anvaya Beach Resort Bali](https://images.gobaligo.id/images/2026-04/1776788222908-147952741.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788223417-217074162.jpg)
+![The Anvaya Beach Resort Bali](https://images.gobaligo.id/images/2026-04/1776788223417-217074162.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788224459-217074411.jpg)
+![The Anvaya Beach Resort Bali](https://images.gobaligo.id/images/2026-04/1776788224459-217074411.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788224928-217075538.jpg)
+![The Anvaya Beach Resort Bali](https://images.gobaligo.id/images/2026-04/1776788224928-217075538.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788225371-223258594.jpg)
+![The Anvaya Beach Resort Bali](https://images.gobaligo.id/images/2026-04/1776788225371-223258594.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788225785-224967282.jpg)
+![The Anvaya Beach Resort Bali](https://images.gobaligo.id/images/2026-04/1776788225785-224967282.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788226404-473354061.jpg)
+![The Anvaya Beach Resort Bali](https://images.gobaligo.id/images/2026-04/1776788226404-473354061.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788226852-cce6b95b5ea2b95ee72d19657c52e022.webp)
+![The Anvaya Beach Resort Bali](https://images.gobaligo.id/images/2026-04/1776788226852-cce6b95b5ea2b95ee72d19657c52e022.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788227524-d13adcf2e10a7cc875793e6cf64b4eb4.webp)
+![The Anvaya Beach Resort Bali](https://images.gobaligo.id/images/2026-04/1776788227524-d13adcf2e10a7cc875793e6cf64b4eb4.webp)
 
 2016 年開幕，Kartika Plaza 區域後起之秀，把現代奢華和峇里島美學融合得非常到位，安靜感在 Kuta 這個區域難能可貴。
 
@@ -273,25 +273,25 @@ Marriott 旗下 2022 年開幕的新飯店，直接建在 Beachwalk 購物中心
 
 ## Bintang Bali Resort ⭐⭐⭐⭐⭐
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788297358-364716834.jpg)
+![Bintang Bali Resort](https://images.gobaligo.id/images/2026-04/1776788297358-364716834.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788298378-453451379.jpg)
+![Bintang Bali Resort](https://images.gobaligo.id/images/2026-04/1776788298378-453451379.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788299900-453451811.jpg)
+![Bintang Bali Resort](https://images.gobaligo.id/images/2026-04/1776788299900-453451811.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788300516-609794399.jpg)
+![Bintang Bali Resort](https://images.gobaligo.id/images/2026-04/1776788300516-609794399.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788301137-1c18a5c7d68457ae83820dabdeda645f.webp)
+![Bintang Bali Resort](https://images.gobaligo.id/images/2026-04/1776788301137-1c18a5c7d68457ae83820dabdeda645f.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788302558-9385f323e3d644de9255c50aff10e775.webp)
+![Bintang Bali Resort](https://images.gobaligo.id/images/2026-04/1776788302558-9385f323e3d644de9255c50aff10e775.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788303702-7987817fcbf8f05eff4ec5af81f5b7a1.webp)
+![Bintang Bali Resort](https://images.gobaligo.id/images/2026-04/1776788303702-7987817fcbf8f05eff4ec5af81f5b7a1.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788304726-35258987.jpg)
+![Bintang Bali Resort](https://images.gobaligo.id/images/2026-04/1776788304726-35258987.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788305329-364716532.jpg)
+![Bintang Bali Resort](https://images.gobaligo.id/images/2026-04/1776788305329-364716532.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788305845-364716776.jpg)
+![Bintang Bali Resort](https://images.gobaligo.id/images/2026-04/1776788305845-364716776.jpg)
 
 直接面海的老牌五星度假村，6 公頃熱帶花園，402 間客房，是 Kartika Plaza 一帶規模最大的海灘飯店之一。
 
@@ -309,25 +309,25 @@ Marriott 旗下 2022 年開幕的新飯店，直接建在 Beachwalk 購物中心
 
 ## Discovery Kartika Plaza Hotel ⭐⭐⭐⭐⭐
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788367767-80f103620f7336529abeb07b6d8bec71.webp)
+![Discovery Kartika Plaza Hotel](https://images.gobaligo.id/images/2026-04/1776788367767-80f103620f7336529abeb07b6d8bec71.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788368968-995_15022014180025486583.webp)
+![Discovery Kartika Plaza Hotel](https://images.gobaligo.id/images/2026-04/1776788368968-995_15022014180025486583.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788369956-740303134.jpg)
+![Discovery Kartika Plaza Hotel](https://images.gobaligo.id/images/2026-04/1776788369956-740303134.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788370363-6662803001541d2b7501d29bafc74327.webp)
+![Discovery Kartika Plaza Hotel](https://images.gobaligo.id/images/2026-04/1776788370363-6662803001541d2b7501d29bafc74327.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788370821-b970d6670429bfbb679c923dd3ebf083.webp)
+![Discovery Kartika Plaza Hotel](https://images.gobaligo.id/images/2026-04/1776788370821-b970d6670429bfbb679c923dd3ebf083.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788372415-c3d49701114ce5dec15826aa63bc3f11.webp)
+![Discovery Kartika Plaza Hotel](https://images.gobaligo.id/images/2026-04/1776788372415-c3d49701114ce5dec15826aa63bc3f11.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788372929-3c31e0e923fcb430b17ab52c6f0a9436.webp)
+![Discovery Kartika Plaza Hotel](https://images.gobaligo.id/images/2026-04/1776788372929-3c31e0e923fcb430b17ab52c6f0a9436.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788373365-4c8eb711c15ece36ed665814a0b5658c.webp)
+![Discovery Kartika Plaza Hotel](https://images.gobaligo.id/images/2026-04/1776788373365-4c8eb711c15ece36ed665814a0b5658c.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788373859-4d64b63548131ba0aefeddc35b0c70a1.webp)
+![Discovery Kartika Plaza Hotel](https://images.gobaligo.id/images/2026-04/1776788373859-4d64b63548131ba0aefeddc35b0c70a1.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788374405-8db28f2981ab52d8acba8f300e481358.webp)
+![Discovery Kartika Plaza Hotel](https://images.gobaligo.id/images/2026-04/1776788374405-8db28f2981ab52d8acba8f300e481358.webp)
 
 8 公頃花園、550 公尺私人海灘，是整個庫塔區域規模最壓倒性的海灘度假村，家族旅遊完全不怕沒事做。
 
@@ -345,29 +345,29 @@ Marriott 旗下 2022 年開幕的新飯店，直接建在 Beachwalk 購物中心
 
 ## Holiday Inn Resort Baruna Bali ⭐⭐⭐⭐
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788441372-642419996.jpg)
+![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788441372-642419996.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788441924-763319737.jpg)
+![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788441924-763319737.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788442603-b0d005df68b6f4ee5f30ff0b06160e06.webp)
+![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788442603-b0d005df68b6f4ee5f30ff0b06160e06.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788443080-d8af20bc908aa9c848fe5abb3d205eff.webp)
+![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788443080-d8af20bc908aa9c848fe5abb3d205eff.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788443578-0e2a911992b24368db9998f07c98a2e6.webp)
+![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788443578-0e2a911992b24368db9998f07c98a2e6.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788444086-3eb60a514cdc4b58c33ddae4f0690d74.webp)
+![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788444086-3eb60a514cdc4b58c33ddae4f0690d74.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788444501-3fe55fcc3472b08f78196ed35fe08a91.webp)
+![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788444501-3fe55fcc3472b08f78196ed35fe08a91.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788444925-5ef928a0ede937b1ce2355c4a17d13ad.webp)
+![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788444925-5ef928a0ede937b1ce2355c4a17d13ad.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788445351-38a82f1b3a1112de53dc4f25c7daf309.webp)
+![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788445351-38a82f1b3a1112de53dc4f25c7daf309.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788445822-73c18513de23d61715092f0f7cb16e58.webp)
+![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788445822-73c18513de23d61715092f0f7cb16e58.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788446283-48452b3d8eaa25c894b99a99a370e518.webp)
+![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788446283-48452b3d8eaa25c894b99a99a370e518.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788446755-851333ebf2aa67c92908d625ea2ee3f1.webp)
+![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788446755-851333ebf2aa67c92908d625ea2ee3f1.webp)
 
 IHG 集團旗下，Tuban 區三公頃梯田式熱帶花園，親子設施全面，是帶小孩來庫塔區域最受好評的選擇之一。
 
@@ -385,25 +385,25 @@ IHG 集團旗下，Tuban 區三公頃梯田式熱帶花園，親子設施全面�
 
 ## Grand Inna Kuta（現名 Truntum Kuta）⭐⭐⭐⭐
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788509754-51c2be9d5517eeaa64f551a97539a57c.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788509754-51c2be9d5517eeaa64f551a97539a57c.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788510253-453dcc071b3471cd0cf6c66e52ceb871.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788510253-453dcc071b3471cd0cf6c66e52ceb871.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788510940-1822_14061913230019924832.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788510940-1822_14061913230019924832.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788511431-1822_16032911240041137651.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788511431-1822_16032911240041137651.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788511922-456527f6043772e76232e9f988c7d8b0.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788511922-456527f6043772e76232e9f988c7d8b0.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788512452-28520209.jpg)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788512452-28520209.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788512915-32808129.jpg)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788512915-32808129.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788513364-adc270d6abf080349356fa2cf14703ff.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788513364-adc270d6abf080349356fa2cf14703ff.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788513968-ae423b2fff726de3ff615a9a42896724.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788513968-ae423b2fff726de3ff615a9a42896724.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788514468-f293a0cd79882c9629dd3071c8c1cce5.jpg)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788514468-f293a0cd79882c9629dd3071c8c1cce5.jpg)
 
 庫塔最具歷史感的海灘地標飯店，擁有庫塔一帶最長的海灘線之一，位置無可取代。
 
@@ -421,25 +421,25 @@ IHG 集團旗下，Tuban 區三公頃梯田式熱帶花園，親子設施全面�
 
 ## Kuta Beach Heritage Hotel ⭐⭐⭐⭐
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788557002-901fd9b712bd8243fb93b063c14f0cdb.webp)
+![Kuta Beach Heritage Hotel](https://images.gobaligo.id/images/2026-04/1776788557002-901fd9b712bd8243fb93b063c14f0cdb.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788557450-413466939.jpg)
+![Kuta Beach Heritage Hotel](https://images.gobaligo.id/images/2026-04/1776788557450-413466939.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788558561-763403746.jpg)
+![Kuta Beach Heritage Hotel](https://images.gobaligo.id/images/2026-04/1776788558561-763403746.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788559057-776840805.jpg)
+![Kuta Beach Heritage Hotel](https://images.gobaligo.id/images/2026-04/1776788559057-776840805.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788559793-825232155.jpg)
+![Kuta Beach Heritage Hotel](https://images.gobaligo.id/images/2026-04/1776788559793-825232155.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788560412-833475433.jpg)
+![Kuta Beach Heritage Hotel](https://images.gobaligo.id/images/2026-04/1776788560412-833475433.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788561435-848500205.jpg)
+![Kuta Beach Heritage Hotel](https://images.gobaligo.id/images/2026-04/1776788561435-848500205.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788562049-f9d049406630015e103ec04dcc0469a1.webp)
+![Kuta Beach Heritage Hotel](https://images.gobaligo.id/images/2026-04/1776788562049-f9d049406630015e103ec04dcc0469a1.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788562528-0e2f7a9deaf04a81069e9201e4201c9c.webp)
+![Kuta Beach Heritage Hotel](https://images.gobaligo.id/images/2026-04/1776788562528-0e2f7a9deaf04a81069e9201e4201c9c.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788563378-123a44e167424d159a1dd225eaedda7c.webp)
+![Kuta Beach Heritage Hotel](https://images.gobaligo.id/images/2026-04/1776788563378-123a44e167424d159a1dd225eaedda7c.webp)
 
 Accor 管理、以 Kuta 歷史漁村文化為主題的精品飯店，1930-60 年代老庫塔美學貫穿整間飯店，在一堆連鎖飯店中顯得非常有個性。
 
@@ -457,25 +457,25 @@ Accor 管理、以 Kuta 歷史漁村文化為主題的精品飯店，1930-60 年
 
 ## Mercure Kuta Bali ⭐⭐⭐⭐
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776815971167-385_17051613500053013484.webp)
+![Mercure Kuta Bali](https://images.gobaligo.id/images/2026-04/1776815971167-385_17051613500053013484.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776815972417-385_17051613500053013493.webp)
+![Mercure Kuta Bali](https://images.gobaligo.id/images/2026-04/1776815972417-385_17051613500053013493.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776815973101-16801864.jpg)
+![Mercure Kuta Bali](https://images.gobaligo.id/images/2026-04/1776815973101-16801864.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776815973539-16802261.jpg)
+![Mercure Kuta Bali](https://images.gobaligo.id/images/2026-04/1776815973539-16802261.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776815973925-216317922.jpg)
+![Mercure Kuta Bali](https://images.gobaligo.id/images/2026-04/1776815973925-216317922.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776815974649-788045900.jpg)
+![Mercure Kuta Bali](https://images.gobaligo.id/images/2026-04/1776815974649-788045900.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776815975121-c999082ab255c3dfe865c8da5bde5bfe.webp)
+![Mercure Kuta Bali](https://images.gobaligo.id/images/2026-04/1776815975121-c999082ab255c3dfe865c8da5bde5bfe.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776815975674-ec9bdc646e1ec7fd1f0a9fd8b7f43c68.webp)
+![Mercure Kuta Bali](https://images.gobaligo.id/images/2026-04/1776815975674-ec9bdc646e1ec7fd1f0a9fd8b7f43c68.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776815976084-0afef28f5eab81a9d3e776f0e5bc8a5e.webp)
+![Mercure Kuta Bali](https://images.gobaligo.id/images/2026-04/1776815976084-0afef28f5eab81a9d3e776f0e5bc8a5e.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776815976592-62c1843adcffeab2f3ec77439567d248.webp)
+![Mercure Kuta Bali](https://images.gobaligo.id/images/2026-04/1776815976592-62c1843adcffeab2f3ec77439567d248.webp)
 
 Accor 旗下四星，位於庫塔市區，雖然與海灘之間有馬路相隔，但步行到海灘仍算方便，是同區 CP 值穩定的選擇。
 
@@ -493,25 +493,25 @@ Accor 旗下四星，位於庫塔市區，雖然與海灘之間有馬路相隔�
 
 ## Bali Garden Beach Resort ⭐⭐⭐⭐
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816053509-16437359.jpg)
+![Bali Garden Beach Resort](https://images.gobaligo.id/images/2026-04/1776816053509-16437359.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816054194-501453427.jpg)
+![Bali Garden Beach Resort](https://images.gobaligo.id/images/2026-04/1776816054194-501453427.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816054769-597003152.jpg)
+![Bali Garden Beach Resort](https://images.gobaligo.id/images/2026-04/1776816054769-597003152.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816055139-b569c6142dcdd8f62b425a23921c52c0.webp)
+![Bali Garden Beach Resort](https://images.gobaligo.id/images/2026-04/1776816055139-b569c6142dcdd8f62b425a23921c52c0.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816055542-3de93856f8dc8b9348c4d44e3e184601.webp)
+![Bali Garden Beach Resort](https://images.gobaligo.id/images/2026-04/1776816055542-3de93856f8dc8b9348c4d44e3e184601.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816056002-3f84096eba94259820d8ac384901caeb.webp)
+![Bali Garden Beach Resort](https://images.gobaligo.id/images/2026-04/1776816056002-3f84096eba94259820d8ac384901caeb.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816056879-49703_15070610030031707674.webp)
+![Bali Garden Beach Resort](https://images.gobaligo.id/images/2026-04/1776816056879-49703_15070610030031707674.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816057285-49703_16042513290041770541.jpg)
+![Bali Garden Beach Resort](https://images.gobaligo.id/images/2026-04/1776816057285-49703_16042513290041770541.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816057900-49703_16042513290041770545.jpg)
+![Bali Garden Beach Resort](https://images.gobaligo.id/images/2026-04/1776816057900-49703_16042513290041770545.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816058301-16436573.jpg)
+![Bali Garden Beach Resort](https://images.gobaligo.id/images/2026-04/1776816058301-16436573.jpg)
 
 Kartika Plaza 區域的海灘飯店，正對 Waterbom 水上樂園，是親子旅遊或玩水族群的省錢好選擇。
 
@@ -529,25 +529,25 @@ Kartika Plaza 區域的海灘飯店，正對 Waterbom 水上樂園，是親子�
 
 ## The Patra Bali Resort & Villas ⭐⭐⭐⭐
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816185620-236184818.jpg)
+![The Patra Bali Resort & Villas](https://images.gobaligo.id/images/2026-04/1776816185620-236184818.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816186469-438602162.jpg)
+![The Patra Bali Resort & Villas](https://images.gobaligo.id/images/2026-04/1776816186469-438602162.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816186839-515175995.jpg)
+![The Patra Bali Resort & Villas](https://images.gobaligo.id/images/2026-04/1776816186839-515175995.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816187318-574227077.jpg)
+![The Patra Bali Resort & Villas](https://images.gobaligo.id/images/2026-04/1776816187318-574227077.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816187710-574231200.jpg)
+![The Patra Bali Resort & Villas](https://images.gobaligo.id/images/2026-04/1776816187710-574231200.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816188160-a5fe1c02082ad460ce6dc3bbc0f68d09.webp)
+![The Patra Bali Resort & Villas](https://images.gobaligo.id/images/2026-04/1776816188160-a5fe1c02082ad460ce6dc3bbc0f68d09.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816188612-3c6b72dfeeb7f13cf4bdb37b8c7755ce.webp)
+![The Patra Bali Resort & Villas](https://images.gobaligo.id/images/2026-04/1776816188612-3c6b72dfeeb7f13cf4bdb37b8c7755ce.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816189002-3d2641266313c199341a20faf7fc4009.webp)
+![The Patra Bali Resort & Villas](https://images.gobaligo.id/images/2026-04/1776816189002-3d2641266313c199341a20faf7fc4009.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816189350-152989944.jpg)
+![The Patra Bali Resort & Villas](https://images.gobaligo.id/images/2026-04/1776816189350-152989944.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816190124-232037155.jpg)
+![The Patra Bali Resort & Villas](https://images.gobaligo.id/images/2026-04/1776816190124-232037155.jpg)
 
 Kuta 南段靠近 Tuban 的度假村，有私人海灘和 Villa 選項，比起 Kuta 市中心更安靜，同時又保有地理優勢。
 
@@ -565,25 +565,25 @@ Kuta 南段靠近 Tuban 的度假村，有私人海灘和 Villa 選項，比起 
 
 ## Kuta Seaview Boutique Resort ⭐⭐⭐⭐
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816270541-2325a2d4200d109704cbd3fc1a43091e.webp)
+![Kuta Seaview Boutique Resort](https://images.gobaligo.id/images/2026-04/1776816270541-2325a2d4200d109704cbd3fc1a43091e.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816271142-b7cf52e5e62144c1badc5e0575ecafca.webp)
+![Kuta Seaview Boutique Resort](https://images.gobaligo.id/images/2026-04/1776816271142-b7cf52e5e62144c1badc5e0575ecafca.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816271618-b35acb198adbdf4ac687b9cd3c341fe0.webp)
+![Kuta Seaview Boutique Resort](https://images.gobaligo.id/images/2026-04/1776816271618-b35acb198adbdf4ac687b9cd3c341fe0.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816272138-b85b51df5e6bb7e2af06834cb61b3dbb.webp)
+![Kuta Seaview Boutique Resort](https://images.gobaligo.id/images/2026-04/1776816272138-b85b51df5e6bb7e2af06834cb61b3dbb.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816272644-5d91efda6343cb997817e37238d33507.webp)
+![Kuta Seaview Boutique Resort](https://images.gobaligo.id/images/2026-04/1776816272644-5d91efda6343cb997817e37238d33507.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816273148-8e3c682c2660d2be6ab3eb32deffd273.webp)
+![Kuta Seaview Boutique Resort](https://images.gobaligo.id/images/2026-04/1776816273148-8e3c682c2660d2be6ab3eb32deffd273.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816273655-9edf8c4f42c7dc6379befcfa7a2c76f9.webp)
+![Kuta Seaview Boutique Resort](https://images.gobaligo.id/images/2026-04/1776816273655-9edf8c4f42c7dc6379befcfa7a2c76f9.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816274074-27a9c34fed6f5608ec4c98cad16293ef.webp)
+![Kuta Seaview Boutique Resort](https://images.gobaligo.id/images/2026-04/1776816274074-27a9c34fed6f5608ec4c98cad16293ef.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816274505-77f0736f1437f224d5475a31df67ec49.webp)
+![Kuta Seaview Boutique Resort](https://images.gobaligo.id/images/2026-04/1776816274505-77f0736f1437f224d5475a31df67ec49.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816275294-686f668877e9b1709bdc004105c324f6.webp)
+![Kuta Seaview Boutique Resort](https://images.gobaligo.id/images/2026-04/1776816275294-686f668877e9b1709bdc004105c324f6.webp)
 
 面向庫塔海灘的小型精品度假村，規模雖小，但位置出色，是不想住大型連鎖、偏好精品氛圍的旅客的好選擇。
 
@@ -601,25 +601,25 @@ Kuta 南段靠近 Tuban 的度假村，有私人海灘和 Villa 選項，比起 
 
 ## Tribe Bali Kuta Beach ⭐⭐⭐⭐
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816347808-766232613.jpg)
+![Tribe Bali Kuta Beach](https://images.gobaligo.id/images/2026-04/1776816347808-766232613.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816348419-766232673.jpg)
+![Tribe Bali Kuta Beach](https://images.gobaligo.id/images/2026-04/1776816348419-766232673.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816348838-766232679.jpg)
+![Tribe Bali Kuta Beach](https://images.gobaligo.id/images/2026-04/1776816348838-766232679.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816349479-843809095.jpg)
+![Tribe Bali Kuta Beach](https://images.gobaligo.id/images/2026-04/1776816349479-843809095.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816350177-843809097.jpg)
+![Tribe Bali Kuta Beach](https://images.gobaligo.id/images/2026-04/1776816350177-843809097.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816350691-e4ad326bf969dee51ebb621f6d9c9ae7.webp)
+![Tribe Bali Kuta Beach](https://images.gobaligo.id/images/2026-04/1776816350691-e4ad326bf969dee51ebb621f6d9c9ae7.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816351092-9159f02527e70e400092396ca83673fb.webp)
+![Tribe Bali Kuta Beach](https://images.gobaligo.id/images/2026-04/1776816351092-9159f02527e70e400092396ca83673fb.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816351481-532449049.jpg)
+![Tribe Bali Kuta Beach](https://images.gobaligo.id/images/2026-04/1776816351481-532449049.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816352008-560772564.jpg)
+![Tribe Bali Kuta Beach](https://images.gobaligo.id/images/2026-04/1776816352008-560772564.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776816352405-746164698.jpg)
+![Tribe Bali Kuta Beach](https://images.gobaligo.id/images/2026-04/1776816352405-746164698.jpg)
 
 AccorHotels 旗下年輕潮流品牌，靠近 Kuta 海灘，主打設計感和共享空間，是在預算有限的前提下還想要有型住宿體驗的旅客的解答。
 
@@ -637,25 +637,25 @@ AccorHotels 旗下年輕潮流品牌，靠近 Kuta 海灘，主打設計感和�
 
 ## Grand Istana Rama Hotel ⭐⭐⭐⭐
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776865757460-35e3f66bf77cd40f26c91c4e217412fc.webp)
+![Grand Istana Rama Hotel](https://images.gobaligo.id/images/2026-04/1776865757460-35e3f66bf77cd40f26c91c4e217412fc.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776865758075-59ce114cefe481787aac107045c9bfed.webp)
+![Grand Istana Rama Hotel](https://images.gobaligo.id/images/2026-04/1776865758075-59ce114cefe481787aac107045c9bfed.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776865759037-528f598aa382f9c0f3d7ce1f6304d448.jpeg)
+![Grand Istana Rama Hotel](https://images.gobaligo.id/images/2026-04/1776865759037-528f598aa382f9c0f3d7ce1f6304d448.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776865759702-472740031.jpg)
+![Grand Istana Rama Hotel](https://images.gobaligo.id/images/2026-04/1776865759702-472740031.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776865760347-500398018.jpg)
+![Grand Istana Rama Hotel](https://images.gobaligo.id/images/2026-04/1776865760347-500398018.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776865760796-661675161.jpg)
+![Grand Istana Rama Hotel](https://images.gobaligo.id/images/2026-04/1776865760796-661675161.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776865761277-825496088.jpg)
+![Grand Istana Rama Hotel](https://images.gobaligo.id/images/2026-04/1776865761277-825496088.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776865761747-c3e9792212b335b6394f7537283cf6d9.webp)
+![Grand Istana Rama Hotel](https://images.gobaligo.id/images/2026-04/1776865761747-c3e9792212b335b6394f7537283cf6d9.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776865763040-dde10217f990c21bc9d88fda23331bec.webp)
+![Grand Istana Rama Hotel](https://images.gobaligo.id/images/2026-04/1776865763040-dde10217f990c21bc9d88fda23331bec.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776865763483-21ceb288ce176b586af3db9a05d094fc.webp)
+![Grand Istana Rama Hotel](https://images.gobaligo.id/images/2026-04/1776865763483-21ceb288ce176b586af3db9a05d094fc.webp)
 
 Jl. Pantai Kuta 上低調的四星海灘飯店，正對庫塔海灘，緊鄰 Beachwalk 購物中心，CP 值在這條海岸線上算是相當突出的存在，Booking.com 位置評分高達 9.2。
 
@@ -671,25 +671,25 @@ Jl. Pantai Kuta 上低調的四星海灘飯店，正對庫塔海灘，緊鄰 Bea
 
 ## The Stones Hotel – Legian Bali, Autograph Collection ⭐⭐⭐⭐⭐
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776865843826-362e5227947a40f7053c7a04f0ee2a30.webp)
+![The Stones Hotel – Legian Bali, Autograph Collection](https://images.gobaligo.id/images/2026-04/1776865843826-362e5227947a40f7053c7a04f0ee2a30.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776865844410-865d008c1a69a31dd13823b22cde5650.webp)
+![The Stones Hotel – Legian Bali, Autograph Collection](https://images.gobaligo.id/images/2026-04/1776865844410-865d008c1a69a31dd13823b22cde5650.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776865845156-644980170.jpg)
+![The Stones Hotel – Legian Bali, Autograph Collection](https://images.gobaligo.id/images/2026-04/1776865845156-644980170.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776865845551-786550293.jpg)
+![The Stones Hotel – Legian Bali, Autograph Collection](https://images.gobaligo.id/images/2026-04/1776865845551-786550293.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776865845939-786603393.jpg)
+![The Stones Hotel – Legian Bali, Autograph Collection](https://images.gobaligo.id/images/2026-04/1776865845939-786603393.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776865846455-786623407.jpg)
+![The Stones Hotel – Legian Bali, Autograph Collection](https://images.gobaligo.id/images/2026-04/1776865846455-786623407.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776865846880-b2830e4b20a5caef6b2af9392ffdb382.webp)
+![The Stones Hotel – Legian Bali, Autograph Collection](https://images.gobaligo.id/images/2026-04/1776865846880-b2830e4b20a5caef6b2af9392ffdb382.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776865847303-eb429949851a050edb3001e830dc8f3d.webp)
+![The Stones Hotel – Legian Bali, Autograph Collection](https://images.gobaligo.id/images/2026-04/1776865847303-eb429949851a050edb3001e830dc8f3d.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776865847850-ffa8d2e3cd344c31abd7e81f6044464e.webp)
+![The Stones Hotel – Legian Bali, Autograph Collection](https://images.gobaligo.id/images/2026-04/1776865847850-ffa8d2e3cd344c31abd7e81f6044464e.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776865848432-9ed97dccff441b44ad43e8c53ecd5752.webp)
+![The Stones Hotel – Legian Bali, Autograph Collection](https://images.gobaligo.id/images/2026-04/1776865848432-9ed97dccff441b44ad43e8c53ecd5752.webp)
 
 Marriott Autograph Collection 旗下五星，位於 Legian 南端海灘正對面，3000 平方公尺的巨型泳池是整個庫塔-Legian 區域最壯觀的泳池之一，服務口碑在 Legian 一帶幾乎無人能敵。
 

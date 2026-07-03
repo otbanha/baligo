@@ -7,7 +7,7 @@ _srcHash: 51844f8307ddb6cfaf1fba4bf55f4bb1
 ---
 ## More Things to Do, Eat, and Drink in Nusa Dua
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774670664849-index.png)
+![More Things to Do, Eat, and Drink in Nusa Dua](https://images.gobaligo.id/images/2026-03/1774670664849-index.png)
 
 Nusa Dua, renowned for its luxurious resorts, is a premier destination in Bali known for its pristine white sand beaches, crystal-clear blue waters, and comprehensive tourist facilities. It is the ideal choice for those seeking high-end comfort and a tranquil getaway. The area offers top-tier spa services, water sports, and leisure activities suitable for the whole family, making it a paradise for travelers of all kinds. Want to learn more about Nusa Dua? Click [here](/blog/nusa-dua-guide/).
 

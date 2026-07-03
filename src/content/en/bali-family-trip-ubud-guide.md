@@ -34,7 +34,7 @@ Click here to learn more: [Aloft Kuta Accommodation & Beachwalk Shopping Center 
 
 Our second day itinerary included: [GWK Cultural Park, Uluwatu Free Beach Club, Uluwatu Temple, and Uluwatu Kecak Dance](/blog/bali-family-trip-aloft-kuta/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_140e60d5b6dd4a29ce14048ecda7379c.jpg)
+![Prologue](https://images.gobaligo.id/vocus/vocus_140e60d5b6dd4a29ce14048ecda7379c.jpg)
 
 Now begins our six-day Ubud exploration journey!
 
@@ -53,25 +53,25 @@ Now begins our six-day Ubud exploration journey!
 - Adults: 20,000 IDR (approx. USD$1)
 - Children: 10,000 IDR (approx. USD$0.50)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693570532-298409674_610679783748372_770772631143593741_n.jpg)
+![《Bali/Tegenungan Waterfall》- Ultimate Enjoyment at 《Omma Bal](https://images.gobaligo.id/images/2026-04/1776693570532-298409674_610679783748372_770772631143593741_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693571500-298466714_610681513748199_7898461963983180871_n.jpg)
+![《Bali/Tegenungan Waterfall》- Ultimate Enjoyment at 《Omma Bal](https://images.gobaligo.id/images/2026-04/1776693571500-298466714_610681513748199_7898461963983180871_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693573244-298469685_610683930414624_7528159715781778182_n.jpg)
+![《Bali/Tegenungan Waterfall》- Ultimate Enjoyment at 《Omma Bal](https://images.gobaligo.id/images/2026-04/1776693573244-298469685_610683930414624_7528159715781778182_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693573830-298551228_610680700414947_8408526504992424837_n.jpg)
+![《Bali/Tegenungan Waterfall》- Ultimate Enjoyment at 《Omma Bal](https://images.gobaligo.id/images/2026-04/1776693573830-298551228_610680700414947_8408526504992424837_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693574553-298569083_610689280414089_3487395401663673383_n.jpg)
+![《Bali/Tegenungan Waterfall》- Ultimate Enjoyment at 《Omma Bal](https://images.gobaligo.id/images/2026-04/1776693574553-298569083_610689280414089_3487395401663673383_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693575383-298592970_610683377081346_7163787255856056906_n.jpg)
+![《Bali/Tegenungan Waterfall》- Ultimate Enjoyment at 《Omma Bal](https://images.gobaligo.id/images/2026-04/1776693575383-298592970_610683377081346_7163787255856056906_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693575894-298658925_610689873747363_7869823521869603045_n.jpg)
+![《Bali/Tegenungan Waterfall》- Ultimate Enjoyment at 《Omma Bal](https://images.gobaligo.id/images/2026-04/1776693575894-298658925_610689873747363_7869823521869603045_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693576344-299378817_610681337081550_7349213228993713534_n.jpg)
+![《Bali/Tegenungan Waterfall》- Ultimate Enjoyment at 《Omma Bal](https://images.gobaligo.id/images/2026-04/1776693576344-299378817_610681337081550_7349213228993713534_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693577023-298337106_610682737081410_1596294841377991803_n.jpg)
+![《Bali/Tegenungan Waterfall》- Ultimate Enjoyment at 《Omma Bal](https://images.gobaligo.id/images/2026-04/1776693577023-298337106_610682737081410_1596294841377991803_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693577500-298364797_610679527081731_1875804861559435486_n.jpg)
+![《Bali/Tegenungan Waterfall》- Ultimate Enjoyment at 《Omma Bal](https://images.gobaligo.id/images/2026-04/1776693577500-298364797_610679527081731_1875804861559435486_n.jpg)
 
 🏞️ **Why Choose Omma Bali?**
 
@@ -98,25 +98,25 @@ From Omma Bali, it's just a 2-3 minute walk to the waterfall, making it very con
 
 If you're in Ubud looking for a serene restaurant where you can enjoy classic Balinese cuisine away from the crowds, Laka Leke Restaurant is your perfect choice. With its unassuming entrance, it hides a spacious Balinese garden, offering a comfortable dining environment and mouth-watering signature crispy duck.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693671363-298772165_612239383592412_8414755404080700716_n.jpg)
+![Bali Garden Restaurant: Savor Crispy Duck at Laka Leke Resta](https://images.gobaligo.id/images/2026-04/1776693671363-298772165_612239383592412_8414755404080700716_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693672016-298792929_612241276925556_3957545974746085207_n.jpg)
+![Bali Garden Restaurant: Savor Crispy Duck at Laka Leke Resta](https://images.gobaligo.id/images/2026-04/1776693672016-298792929_612241276925556_3957545974746085207_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693672527-298804542_612242166925467_1513263831116796676_n.jpg)
+![Bali Garden Restaurant: Savor Crispy Duck at Laka Leke Resta](https://images.gobaligo.id/images/2026-04/1776693672527-298804542_612242166925467_1513263831116796676_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693673224-298829990_612243600258657_5366604930682570320_n.jpg)
+![Bali Garden Restaurant: Savor Crispy Duck at Laka Leke Resta](https://images.gobaligo.id/images/2026-04/1776693673224-298829990_612243600258657_5366604930682570320_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693673713-298882339_612240546925629_1658659311711894139_n.jpg)
+![Bali Garden Restaurant: Savor Crispy Duck at Laka Leke Resta](https://images.gobaligo.id/images/2026-04/1776693673713-298882339_612240546925629_1658659311711894139_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693674380-299388147_612239763592374_7520404600727849996_n.jpg)
+![Bali Garden Restaurant: Savor Crispy Duck at Laka Leke Resta](https://images.gobaligo.id/images/2026-04/1776693674380-299388147_612239763592374_7520404600727849996_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693674895-299433907_612239506925733_4468380037143605256_n.jpg)
+![Bali Garden Restaurant: Savor Crispy Duck at Laka Leke Resta](https://images.gobaligo.id/images/2026-04/1776693674895-299433907_612239506925733_4468380037143605256_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693675522-299499952_612239860259031_3561932945402829927_n.jpg)
+![Bali Garden Restaurant: Savor Crispy Duck at Laka Leke Resta](https://images.gobaligo.id/images/2026-04/1776693675522-299499952_612239860259031_3561932945402829927_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693676017-299640655_612240916925592_1141177874997377301_n.jpg)
+![Bali Garden Restaurant: Savor Crispy Duck at Laka Leke Resta](https://images.gobaligo.id/images/2026-04/1776693676017-299640655_612240916925592_1141177874997377301_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693676630-299656022_612239943592356_6524207959937672702_n.jpg)
+![Bali Garden Restaurant: Savor Crispy Duck at Laka Leke Resta](https://images.gobaligo.id/images/2026-04/1776693676630-299656022_612239943592356_6524207959937672702_n.jpg)
 
 This garden restaurant is located near our accommodation at Bali Bohemia Huts, just a 100-meter walk away. If you've just visited Monkey Forest, you can head to the restaurant from Gate 3, making it very convenient.
 
@@ -173,25 +173,25 @@ Staying at 《Bali Bohemia Huts》 on the edge of Ubud allows you to experience 
 
 **Highlights of 《Bali Bohemia Huts》:**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693746795-298922978_611495897000094_6257530579137944156_n.jpg)
+![Day 3 Accommodation Recommendation: 《Bali Bohemia Huts》 — A ](https://images.gobaligo.id/images/2026-04/1776693746795-298922978_611495897000094_6257530579137944156_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693747373-298968227_611496143666736_2739100666829317753_n.jpg)
+![Day 3 Accommodation Recommendation: 《Bali Bohemia Huts》 — A ](https://images.gobaligo.id/images/2026-04/1776693747373-298968227_611496143666736_2739100666829317753_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693747891-299128291_611505590332458_100813833765255129_n.jpg)
+![Day 3 Accommodation Recommendation: 《Bali Bohemia Huts》 — A ](https://images.gobaligo.id/images/2026-04/1776693747891-299128291_611505590332458_100813833765255129_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693748612-299314411_611499983666352_1383895072959400252_n.jpg)
+![Day 3 Accommodation Recommendation: 《Bali Bohemia Huts》 — A ](https://images.gobaligo.id/images/2026-04/1776693748612-299314411_611499983666352_1383895072959400252_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693749208-281873117_611496600333357_8815108657136949564_n.jpg)
+![Day 3 Accommodation Recommendation: 《Bali Bohemia Huts》 — A ](https://images.gobaligo.id/images/2026-04/1776693749208-281873117_611496600333357_8815108657136949564_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693749734-298464643_611499226999761_1965089404799819452_n.jpg)
+![Day 3 Accommodation Recommendation: 《Bali Bohemia Huts》 — A ](https://images.gobaligo.id/images/2026-04/1776693749734-298464643_611499226999761_1965089404799819452_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693750455-298499798_611506380332379_98591576675706401_n.jpg)
+![Day 3 Accommodation Recommendation: 《Bali Bohemia Huts》 — A ](https://images.gobaligo.id/images/2026-04/1776693750455-298499798_611506380332379_98591576675706401_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693751133-298506084_611496817000002_793204294060786972_n.jpg)
+![Day 3 Accommodation Recommendation: 《Bali Bohemia Huts》 — A ](https://images.gobaligo.id/images/2026-04/1776693751133-298506084_611496817000002_793204294060786972_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693751757-298579058_611498196999864_3203167567934231096_n.jpg)
+![Day 3 Accommodation Recommendation: 《Bali Bohemia Huts》 — A ](https://images.gobaligo.id/images/2026-04/1776693751757-298579058_611498196999864_3203167567934231096_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693752326-298840732_611499150333102_4838958671659319336_n.jpg)
+![Day 3 Accommodation Recommendation: 《Bali Bohemia Huts》 — A ](https://images.gobaligo.id/images/2026-04/1776693752326-298840732_611499150333102_4838958671659319336_n.jpg)
 
 - 🛏 **Recommended Room Type:** Deluxe Mezzanine Room with Balcony.
 - 💵 **Room Rate:** IDR 690,000 per night (approximately USD$44), excluding breakfast.
@@ -246,25 +246,25 @@ Near the sanctuary, there's a coffee bar with a stellar 4.8-star Google rating�
 - Adults: 80,000 IDR (~USD$5)
 - Children: 60,000 IDR (~USD$4)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693804409-298700981_611944463621904_5418019092753314827_n.jpg)
+![Bali/Ubud - Selfies with Monkeys at the Sacred Monkey Forest](https://images.gobaligo.id/images/2026-04/1776693804409-298700981_611944463621904_5418019092753314827_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693804853-298737387_611945983621752_4847325920082816575_n.jpg)
+![Bali/Ubud - Selfies with Monkeys at the Sacred Monkey Forest](https://images.gobaligo.id/images/2026-04/1776693804853-298737387_611945983621752_4847325920082816575_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693805726-298782778_611948063621544_3050516091272709705_n.jpg)
+![Bali/Ubud - Selfies with Monkeys at the Sacred Monkey Forest](https://images.gobaligo.id/images/2026-04/1776693805726-298782778_611948063621544_3050516091272709705_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693806613-298792263_611946696955014_3720622060863094414_n.jpg)
+![Bali/Ubud - Selfies with Monkeys at the Sacred Monkey Forest](https://images.gobaligo.id/images/2026-04/1776693806613-298792263_611946696955014_3720622060863094414_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693807122-299225901_611948793621471_7524421782699110086_n.jpg)
+![Bali/Ubud - Selfies with Monkeys at the Sacred Monkey Forest](https://images.gobaligo.id/images/2026-04/1776693807122-299225901_611948793621471_7524421782699110086_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693807661-299227060_611944860288531_7318793230923838232_n.jpg)
+![Bali/Ubud - Selfies with Monkeys at the Sacred Monkey Forest](https://images.gobaligo.id/images/2026-04/1776693807661-299227060_611944860288531_7318793230923838232_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693808165-299773187_611946933621657_5760565662090985760_n.jpg)
+![Bali/Ubud - Selfies with Monkeys at the Sacred Monkey Forest](https://images.gobaligo.id/images/2026-04/1776693808165-299773187_611946933621657_5760565662090985760_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693808674-299845158_611946593621691_2524178553229215355_n.jpg)
+![Bali/Ubud - Selfies with Monkeys at the Sacred Monkey Forest](https://images.gobaligo.id/images/2026-04/1776693808674-299845158_611946593621691_2524178553229215355_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693809314-298455125_611948280288189_5297093307358757399_n.jpg)
+![Bali/Ubud - Selfies with Monkeys at the Sacred Monkey Forest](https://images.gobaligo.id/images/2026-04/1776693809314-298455125_611948280288189_5297093307358757399_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776693809800-298559853_611948730288144_1072167431885588765_n.jpg)
+![Bali/Ubud - Selfies with Monkeys at the Sacred Monkey Forest](https://images.gobaligo.id/images/2026-04/1776693809800-298559853_611948730288144_1072167431885588765_n.jpg)
 
 ❗**Important Notes**: Multilingual paper guides (including Chinese) are available upon entry. A full walk around the park takes about 30-60 minutes. Mornings are less crowded with more monkeys, making it ideal for an early visit.
 
@@ -293,25 +293,25 @@ Staff in the park offer professional monkey feeding and photography services, re
 
 Telaga Waja Rice Terrace is a must-visit spot near Ubud, known for its stunning layered rice fields and thrilling swing experiences. However, its commercialization can make the visit feel like a 'walking ATM' experience.💸
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694045486-298573484_612851943531156_8450296040605444790_n.jpg)
+![TIS Cafe at Telaga Waja Rice Terrace—A Highly Recommended Sc](https://images.gobaligo.id/images/2026-04/1776694045486-298573484_612851943531156_8450296040605444790_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694045972-298800839_612852523531098_418390666301448920_n.jpg)
+![TIS Cafe at Telaga Waja Rice Terrace—A Highly Recommended Sc](https://images.gobaligo.id/images/2026-04/1776694045972-298800839_612852523531098_418390666301448920_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694046392-298834277_612851013531249_7503329601076938841_n.jpg)
+![TIS Cafe at Telaga Waja Rice Terrace—A Highly Recommended Sc](https://images.gobaligo.id/images/2026-04/1776694046392-298834277_612851013531249_7503329601076938841_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694046962-299113124_612852660197751_6778116690130998629_n.jpg)
+![TIS Cafe at Telaga Waja Rice Terrace—A Highly Recommended Sc](https://images.gobaligo.id/images/2026-04/1776694046962-299113124_612852660197751_6778116690130998629_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694047500-299186741_612851663531184_858663631789018478_n.jpg)
+![TIS Cafe at Telaga Waja Rice Terrace—A Highly Recommended Sc](https://images.gobaligo.id/images/2026-04/1776694047500-299186741_612851663531184_858663631789018478_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694048503-299192649_612852763531074_2594938254209481272_n.jpg)
+![TIS Cafe at Telaga Waja Rice Terrace—A Highly Recommended Sc](https://images.gobaligo.id/images/2026-04/1776694048503-299192649_612852763531074_2594938254209481272_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694049114-299205954_612850860197931_542398085133298504_n.jpg)
+![TIS Cafe at Telaga Waja Rice Terrace—A Highly Recommended Sc](https://images.gobaligo.id/images/2026-04/1776694049114-299205954_612850860197931_542398085133298504_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694049637-299227692_612854733530877_7978746944314107963_n.jpg)
+![TIS Cafe at Telaga Waja Rice Terrace—A Highly Recommended Sc](https://images.gobaligo.id/images/2026-04/1776694049637-299227692_612854733530877_7978746944314107963_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694050120-299648984_612854496864234_8285550564923168923_n.jpg)
+![TIS Cafe at Telaga Waja Rice Terrace—A Highly Recommended Sc](https://images.gobaligo.id/images/2026-04/1776694050120-299648984_612854496864234_8285550564923168923_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694050668-299653259_612851480197869_2183461741274349301_n.jpg)
+![TIS Cafe at Telaga Waja Rice Terrace—A Highly Recommended Sc](https://images.gobaligo.id/images/2026-04/1776694050668-299653259_612851480197869_2183461741274349301_n.jpg)
 
 **Rice Terrace Fees:**
 
@@ -339,25 +339,25 @@ To avoid these 'fee traps,' consider visiting the reasonably priced and beautifu
 
 Craving authentic Balinese flavors? Located just 200 meters from our accommodation, 《Van Sheva Waroeng》 offers delicious meals at affordable prices, all while dining amidst expansive rice fields, immersing you in the daily life of locals.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694109439-298799470_614174913398859_4711273031592294543_n.jpg)
+![Local Flavor Restaurant《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694109439-298799470_614174913398859_4711273031592294543_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694109933-298901598_614181176731566_6950555660574229939_n.jpg)
+![Local Flavor Restaurant《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694109933-298901598_614181176731566_6950555660574229939_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694110449-298941720_614175320065485_7759447038606656624_n.jpg)
+![Local Flavor Restaurant《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694110449-298941720_614175320065485_7759447038606656624_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694111139-299022092_614178613398489_1204980298350778325_n.jpg)
+![Local Flavor Restaurant《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694111139-299022092_614178613398489_1204980298350778325_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694111986-299180116_614177266731957_8554461242264541238_n.jpg)
+![Local Flavor Restaurant《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694111986-299180116_614177266731957_8554461242264541238_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694112418-299285311_614176136732070_8380135901636744583_n.jpg)
+![Local Flavor Restaurant《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694112418-299285311_614176136732070_8380135901636744583_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694113316-299749626_614178263398524_6922114563024238311_n.jpg)
+![Local Flavor Restaurant《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694113316-299749626_614178263398524_6922114563024238311_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694113721-299830611_614177750065242_9127736943337638719_n.jpg)
+![Local Flavor Restaurant《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694113721-299830611_614177750065242_9127736943337638719_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694114232-300227801_614176036732080_6571049487561721469_n.jpg)
+![Local Flavor Restaurant《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694114232-300227801_614176036732080_6571049487561721469_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694114765-300383176_614183043398046_540984758012209425_n.jpg)
+![Local Flavor Restaurant《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694114765-300383176_614183043398046_540984758012209425_n.jpg)
 
 **🍴 Restaurant Highlights**
 
@@ -386,25 +386,25 @@ Craving authentic Balinese flavors? Located just 200 meters from our accommodati
 
 If you're looking to escape the hustle and bustle and immerse yourself in the serene beauty of rice fields, **Madani Antique Private Pool Villas** is your dream accommodation choice! 🌿 Nestled in the lush greenery of Ubud, this private pool villa is not only affordable but also offers a truly relaxing getaway where you can enjoy uninterrupted peace.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694182686-299919089_613473876802296_550726569359159188_n.jpg)
+![《Day 4 Accommodation Recommendation》 - Living Next to Rice F](https://images.gobaligo.id/images/2026-04/1776694182686-299919089_613473876802296_550726569359159188_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694183201-299979813_613476100135407_5910226216559192556_n.jpg)
+![《Day 4 Accommodation Recommendation》 - Living Next to Rice F](https://images.gobaligo.id/images/2026-04/1776694183201-299979813_613476100135407_5910226216559192556_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694183633-300178987_613474500135567_3677038454085746071_n.jpg)
+![《Day 4 Accommodation Recommendation》 - Living Next to Rice F](https://images.gobaligo.id/images/2026-04/1776694183633-300178987_613474500135567_3677038454085746071_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694184081-298713776_613475446802139_7461691179114101755_n.jpg)
+![《Day 4 Accommodation Recommendation》 - Living Next to Rice F](https://images.gobaligo.id/images/2026-04/1776694184081-298713776_613475446802139_7461691179114101755_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694184799-298903549_613475683468782_8381132211306348889_n.jpg)
+![《Day 4 Accommodation Recommendation》 - Living Next to Rice F](https://images.gobaligo.id/images/2026-04/1776694184799-298903549_613475683468782_8381132211306348889_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694185410-299232105_613475926802091_1895451882487329617_n.jpg)
+![《Day 4 Accommodation Recommendation》 - Living Next to Rice F](https://images.gobaligo.id/images/2026-04/1776694185410-299232105_613475926802091_1895451882487329617_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694185813-299431433_613474003468950_7474909395290689596_n.jpg)
+![《Day 4 Accommodation Recommendation》 - Living Next to Rice F](https://images.gobaligo.id/images/2026-04/1776694185813-299431433_613474003468950_7474909395290689596_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694186335-299476140_613475763468774_8623014861845919889_n.jpg)
+![《Day 4 Accommodation Recommendation》 - Living Next to Rice F](https://images.gobaligo.id/images/2026-04/1776694186335-299476140_613475763468774_8623014861845919889_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694186781-299797472_613476220135395_1497085115134404690_n.jpg)
+![《Day 4 Accommodation Recommendation》 - Living Next to Rice F](https://images.gobaligo.id/images/2026-04/1776694186781-299797472_613476220135395_1497085115134404690_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694187150-299911692_613473756802308_4297417417021388540_n.jpg)
+![《Day 4 Accommodation Recommendation》 - Living Next to Rice F](https://images.gobaligo.id/images/2026-04/1776694187150-299911692_613473756802308_4297417417021388540_n.jpg)
 
 **💰 Surprising Price**
 
@@ -453,25 +453,25 @@ During our stay, we chose the "Antique 907" room type. The relaxation pavilion f
 
 On the fifth day, we visited **Tirta Empul Temple (Pura Tirta Empul)**, a temple renowned for its sacred spring water and a significant symbol of Bali's religion and culture. Walking through lush coconut groves, we were greeted by ancient stone structures and crystal-clear spring water, as if stepping into a timeless journey. The sacred spring here is regarded by locals as a place for spiritual purification, attracting countless devotees for blessings and soul cleansing over centuries.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694240116-300376254_615096553306695_8235781790348974718_n.jpg)
+![Tirta Empul Temple – A Sacred Experience of Spiritual Cleans](https://images.gobaligo.id/images/2026-04/1776694240116-300376254_615096553306695_8235781790348974718_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694240659-298712171_615097003306650_293407296346854978_n.jpg)
+![Tirta Empul Temple – A Sacred Experience of Spiritual Cleans](https://images.gobaligo.id/images/2026-04/1776694240659-298712171_615097003306650_293407296346854978_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694241230-299131431_615109809972036_3491652424924123135_n.jpg)
+![Tirta Empul Temple – A Sacred Experience of Spiritual Cleans](https://images.gobaligo.id/images/2026-04/1776694241230-299131431_615109809972036_3491652424924123135_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694242247-299361201_615107823305568_8132110176294030885_n.jpg)
+![Tirta Empul Temple – A Sacred Experience of Spiritual Cleans](https://images.gobaligo.id/images/2026-04/1776694242247-299361201_615107823305568_8132110176294030885_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694242751-299515065_615103799972637_8475934531424892759_n.jpg)
+![Tirta Empul Temple – A Sacred Experience of Spiritual Cleans](https://images.gobaligo.id/images/2026-04/1776694242751-299515065_615103799972637_8475934531424892759_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694243285-299605725_615109423305408_5897222957469574299_n.jpg)
+![Tirta Empul Temple – A Sacred Experience of Spiritual Cleans](https://images.gobaligo.id/images/2026-04/1776694243285-299605725_615109423305408_5897222957469574299_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694243786-299656987_615100476639636_7692365840215572231_n.jpg)
+![Tirta Empul Temple – A Sacred Experience of Spiritual Cleans](https://images.gobaligo.id/images/2026-04/1776694243786-299656987_615100476639636_7692365840215572231_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694244261-299934557_615098733306477_1348279925454512382_n.jpg)
+![Tirta Empul Temple – A Sacred Experience of Spiritual Cleans](https://images.gobaligo.id/images/2026-04/1776694244261-299934557_615098733306477_1348279925454512382_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694244681-300040601_615104863305864_2150140291621995919_n.jpg)
+![Tirta Empul Temple – A Sacred Experience of Spiritual Cleans](https://images.gobaligo.id/images/2026-04/1776694244681-300040601_615104863305864_2150140291621995919_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694245545-300351188_615109116638772_3636812258707032200_n.jpg)
+![Tirta Empul Temple – A Sacred Experience of Spiritual Cleans](https://images.gobaligo.id/images/2026-04/1776694245545-300351188_615109116638772_3636812258707032200_n.jpg)
 
 **Introduction to Tirta Empul Temple: Sacred Waters and Ancient Beliefs**
 
@@ -532,25 +532,25 @@ Tirta Empul Temple is not just a photo spot in Bali; it’s a place to deeply im
 
 During our travels in Ubud, we embarked on an exploration of Kopi Luwak, renowned as the world's most expensive coffee. Known for its unique production process and flavor, this coffee is a must-try experience when visiting Bali. We chose to visit **Satria Agrowisata**, a plantation in Bali, to witness firsthand the making of this legendary coffee.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694308230-299973082_615597813256569_7604480419000190401_n.jpg)
+![The World's Most Expensive Coffee Journey: Savoring Your Fir](https://images.gobaligo.id/images/2026-04/1776694308230-299973082_615597813256569_7604480419000190401_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694308676-299999152_615597926589891_8715494880908041300_n.jpg)
+![The World's Most Expensive Coffee Journey: Savoring Your Fir](https://images.gobaligo.id/images/2026-04/1776694308676-299999152_615597926589891_8715494880908041300_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694309225-300000397_615599653256385_181409469064050088_n.jpg)
+![The World's Most Expensive Coffee Journey: Savoring Your Fir](https://images.gobaligo.id/images/2026-04/1776694309225-300000397_615599653256385_181409469064050088_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694309917-300403995_615600266589657_8278194637292763456_n.jpg)
+![The World's Most Expensive Coffee Journey: Savoring Your Fir](https://images.gobaligo.id/images/2026-04/1776694309917-300403995_615600266589657_8278194637292763456_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694310404-298915325_615598443256506_4540067509624814521_n.jpg)
+![The World's Most Expensive Coffee Journey: Savoring Your Fir](https://images.gobaligo.id/images/2026-04/1776694310404-298915325_615598443256506_4540067509624814521_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694311066-299209003_615600023256348_8935762400555371634_n.jpg)
+![The World's Most Expensive Coffee Journey: Savoring Your Fir](https://images.gobaligo.id/images/2026-04/1776694311066-299209003_615600023256348_8935762400555371634_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694311565-299325084_615597649923252_62809578602749830_n.jpg)
+![The World's Most Expensive Coffee Journey: Savoring Your Fir](https://images.gobaligo.id/images/2026-04/1776694311565-299325084_615597649923252_62809578602749830_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694312097-299332022_615598756589808_3272871798566592782_n.jpg)
+![The World's Most Expensive Coffee Journey: Savoring Your Fir](https://images.gobaligo.id/images/2026-04/1776694312097-299332022_615598756589808_3272871798566592782_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694312490-299796971_615600686589615_963286020100953945_n.jpg)
+![The World's Most Expensive Coffee Journey: Savoring Your Fir](https://images.gobaligo.id/images/2026-04/1776694312490-299796971_615600686589615_963286020100953945_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694312920-299817931_615599046589779_3352458998028699330_n.jpg)
+![The World's Most Expensive Coffee Journey: Savoring Your Fir](https://images.gobaligo.id/images/2026-04/1776694312920-299817931_615599046589779_3352458998028699330_n.jpg)
 
 **The Story Behind Civet Coffee**
 
@@ -594,25 +594,25 @@ Taking a moment during our travels to savor a cup of civet coffee was memorable.
 
 ✖️ We skipped the two popular hot spring resorts and opted for a cozy homestay with only **4 rooms**, **《The Lava Bali and Hot Spring》**, where the simple and pleasant atmosphere made us want to stay forever 💕.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694374540-301009583_616145276535156_903526056195682687_n.jpg)
+![Day 5 Accommodation: A Hot Spring Villa with Only 4 Rooms by](https://images.gobaligo.id/images/2026-04/1776694374540-301009583_616145276535156_903526056195682687_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694375267-298964368_616144553201895_6489802884394116528_n.jpg)
+![Day 5 Accommodation: A Hot Spring Villa with Only 4 Rooms by](https://images.gobaligo.id/images/2026-04/1776694375267-298964368_616144553201895_6489802884394116528_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694375773-299189946_616149196534764_1707237124414032289_n.jpg)
+![Day 5 Accommodation: A Hot Spring Villa with Only 4 Rooms by](https://images.gobaligo.id/images/2026-04/1776694375773-299189946_616149196534764_1707237124414032289_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694376272-299280393_616145689868448_7688654860185979011_n.jpg)
+![Day 5 Accommodation: A Hot Spring Villa with Only 4 Rooms by](https://images.gobaligo.id/images/2026-04/1776694376272-299280393_616145689868448_7688654860185979011_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694376674-299322760_616147379868279_4254900227975664257_n.jpg)
+![Day 5 Accommodation: A Hot Spring Villa with Only 4 Rooms by](https://images.gobaligo.id/images/2026-04/1776694376674-299322760_616147379868279_4254900227975664257_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694377792-299350981_616145936535090_1346566671302373722_n.jpg)
+![Day 5 Accommodation: A Hot Spring Villa with Only 4 Rooms by](https://images.gobaligo.id/images/2026-04/1776694377792-299350981_616145936535090_1346566671302373722_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694378335-299355239_616147139868303_4775568389060300023_n.jpg)
+![Day 5 Accommodation: A Hot Spring Villa with Only 4 Rooms by](https://images.gobaligo.id/images/2026-04/1776694378335-299355239_616147139868303_4775568389060300023_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694379147-299676687_616145429868474_393160499220795864_n.jpg)
+![Day 5 Accommodation: A Hot Spring Villa with Only 4 Rooms by](https://images.gobaligo.id/images/2026-04/1776694379147-299676687_616145429868474_393160499220795864_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694379656-300042335_616144156535268_8271483608227273702_n.jpg)
+![Day 5 Accommodation: A Hot Spring Villa with Only 4 Rooms by](https://images.gobaligo.id/images/2026-04/1776694379656-300042335_616144156535268_8271483608227273702_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694380585-300570958_616147889868228_8824639950336020904_n.jpg)
+![Day 5 Accommodation: A Hot Spring Villa with Only 4 Rooms by](https://images.gobaligo.id/images/2026-04/1776694380585-300570958_616147889868228_8824639950336020904_n.jpg)
 
 ⬆️ Sitting at the homestay's doorway, letting our minds wander, the sense of ease instantly overwhelmed us 😊; climbing the stairs to the hot spring pool area👣, soaking in the warm water with the majestic Mount Batur panorama before us, took our breath away✨.
 
@@ -672,25 +672,25 @@ If you're part of the "less adventurous group" 🤣 or simply want to enjoy the 
 - Visit the lakeside temple, Pura Segara Ulun Danu Batur 🙏
 - **10:00** Return to your accommodation 🏡
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694429772-301089915_616587369824280_4014730414452593818_n.jpg)
+![《Bali/Kintamani》Volcano Adventure](https://images.gobaligo.id/images/2026-04/1776694429772-301089915_616587369824280_4014730414452593818_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694430250-299629515_616587563157594_3896555538320708525_n.jpg)
+![《Bali/Kintamani》Volcano Adventure](https://images.gobaligo.id/images/2026-04/1776694430250-299629515_616587563157594_3896555538320708525_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694430683-299653004_616590383157312_4633124295830391867_n.jpg)
+![《Bali/Kintamani》Volcano Adventure](https://images.gobaligo.id/images/2026-04/1776694430683-299653004_616590383157312_4633124295830391867_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694431578-299670436_616589766490707_1810814971220767821_n.jpg)
+![《Bali/Kintamani》Volcano Adventure](https://images.gobaligo.id/images/2026-04/1776694431578-299670436_616589766490707_1810814971220767821_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694432088-300000603_616585446491139_1489457710914450654_n.jpg)
+![《Bali/Kintamani》Volcano Adventure](https://images.gobaligo.id/images/2026-04/1776694432088-300000603_616585446491139_1489457710914450654_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694432592-300213130_616587199824297_5281643465327632742_n.jpg)
+![《Bali/Kintamani》Volcano Adventure](https://images.gobaligo.id/images/2026-04/1776694432592-300213130_616587199824297_5281643465327632742_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694433220-300387192_616591499823867_8292423515973974467_n.jpg)
+![《Bali/Kintamani》Volcano Adventure](https://images.gobaligo.id/images/2026-04/1776694433220-300387192_616591499823867_8292423515973974467_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694433929-300643257_616587073157643_87960158572801316_n.jpg)
+![《Bali/Kintamani》Volcano Adventure](https://images.gobaligo.id/images/2026-04/1776694433929-300643257_616587073157643_87960158572801316_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694434541-300661956_616593816490302_2801018106897816007_n.jpg)
+![《Bali/Kintamani》Volcano Adventure](https://images.gobaligo.id/images/2026-04/1776694434541-300661956_616593816490302_2801018106897816007_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694435060-300794608_616588519824165_8376344951813746036_n.jpg)
+![《Bali/Kintamani》Volcano Adventure](https://images.gobaligo.id/images/2026-04/1776694435060-300794608_616588519824165_8376344951813746036_n.jpg)
 
 🛻 **Jeep Tour Highlights**
 
@@ -703,10 +703,10 @@ If you're part of the "less adventurous group" 🤣 or simply want to enjoy the 
 4. **Lakeside Temple Visit:**
    The final stop, Pura Segara Ulun Danu Batur, may not be as famous as Pura Ulun Danu Bratan, but its serene simplicity is refreshing. Entry is free, with optional donations 🙏.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776695571175-299428228_616592063157144_5757712501947169729_n.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776695571609-299576050_616585723157778_3296485439477737473_n.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776695572016-300657358_616591816490502_7055402599969369536_n.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776695572769-300801494_616591906490493_3344607197251244775_n.jpg)
+![《Bali/Kintamani》Volcano Adventure](https://images.gobaligo.id/images/2026-04/1776695571175-299428228_616592063157144_5757712501947169729_n.jpg)
+![《Bali/Kintamani》Volcano Adventure](https://images.gobaligo.id/images/2026-04/1776695571609-299576050_616585723157778_3296485439477737473_n.jpg)
+![《Bali/Kintamani》Volcano Adventure](https://images.gobaligo.id/images/2026-04/1776695572016-300657358_616591816490502_7055402599969369536_n.jpg)
+![《Bali/Kintamani》Volcano Adventure](https://images.gobaligo.id/images/2026-04/1776695572769-300801494_616591906490493_3344607197251244775_n.jpg)
 
 💰 **Jeep Tour Cost Reference**
 
@@ -725,21 +725,21 @@ Kintamani is not only famous for its stunning volcanic scenery but has also seen
 
 🌟 **Personal Recommendation: 《Akasa Kintamani Coffee》**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694517636-299902128_616996306450053_5237196238726407165_n.jpg)
+![Exploring Kintamani Cafes: Romantic Volcano View Restaurants](https://images.gobaligo.id/images/2026-04/1776694517636-299902128_616996306450053_5237196238726407165_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694518086-299977944_616995246450159_6476396137323995264_n.jpg)
+![Exploring Kintamani Cafes: Romantic Volcano View Restaurants](https://images.gobaligo.id/images/2026-04/1776694518086-299977944_616995246450159_6476396137323995264_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694518555-299996980_616998169783200_505265722711658485_n.jpg)
+![Exploring Kintamani Cafes: Romantic Volcano View Restaurants](https://images.gobaligo.id/images/2026-04/1776694518555-299996980_616998169783200_505265722711658485_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694519498-300216342_616998849783132_1624655231078055146_n.jpg)
+![Exploring Kintamani Cafes: Romantic Volcano View Restaurants](https://images.gobaligo.id/images/2026-04/1776694519498-300216342_616998849783132_1624655231078055146_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694519968-300365305_616997336449950_5389052504735929535_n.jpg)
+![Exploring Kintamani Cafes: Romantic Volcano View Restaurants](https://images.gobaligo.id/images/2026-04/1776694519968-300365305_616997336449950_5389052504735929535_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694520625-300371255_616996163116734_5773398780777002453_n.jpg)
+![Exploring Kintamani Cafes: Romantic Volcano View Restaurants](https://images.gobaligo.id/images/2026-04/1776694520625-300371255_616996163116734_5773398780777002453_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694521168-300384378_616996116450072_4379230647266340353_n.jpg)
+![Exploring Kintamani Cafes: Romantic Volcano View Restaurants](https://images.gobaligo.id/images/2026-04/1776694521168-300384378_616996116450072_4379230647266340353_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694521737-300507570_616995679783449_8623213883880201880_n.jpg)
+![Exploring Kintamani Cafes: Romantic Volcano View Restaurants](https://images.gobaligo.id/images/2026-04/1776694521737-300507570_616995679783449_8623213883880201880_n.jpg)
 
 - **180-Degree Uninterrupted Volcano Views:**
   Every seat offers a panoramic view of Mount Batur, so mesmerizing that you won’t want to leave 💯.
@@ -760,25 +760,25 @@ If you're planning your next trip to Bali, make sure to add the **Mount Kintaman
 
 Located north of Ubud, "Sebatu Village" is a hidden gem far from the crowds and noise, almost like a secret base off the map. While other travelers enjoy private pool villas in Ubud, we chose to venture further and stay in a luxurious bamboo treehouse nestled among the treetops—**an adventurous journey of intimate connection with nature!**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694560182-298255889_609332360549781_1268412654775479789_n.jpg)
+![Day 6 Accommodation Recommendation: Sebatu Sanctuary Eco-res](https://images.gobaligo.id/images/2026-04/1776694560182-298255889_609332360549781_1268412654775479789_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694560727-298288496_609334533882897_2644321618949918375_n.jpg)
+![Day 6 Accommodation Recommendation: Sebatu Sanctuary Eco-res](https://images.gobaligo.id/images/2026-04/1776694560727-298288496_609334533882897_2644321618949918375_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694561442-298394767_609333007216383_6941368034664531489_n.jpg)
+![Day 6 Accommodation Recommendation: Sebatu Sanctuary Eco-res](https://images.gobaligo.id/images/2026-04/1776694561442-298394767_609333007216383_6941368034664531489_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694562038-298400204_609334870549530_497849704155467125_n.jpg)
+![Day 6 Accommodation Recommendation: Sebatu Sanctuary Eco-res](https://images.gobaligo.id/images/2026-04/1776694562038-298400204_609334870549530_497849704155467125_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694562645-298411590_609336307216053_7305530392903380058_n.jpg)
+![Day 6 Accommodation Recommendation: Sebatu Sanctuary Eco-res](https://images.gobaligo.id/images/2026-04/1776694562645-298411590_609336307216053_7305530392903380058_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694563790-298588415_609339397215744_8642528289106555521_n.jpg)
+![Day 6 Accommodation Recommendation: Sebatu Sanctuary Eco-res](https://images.gobaligo.id/images/2026-04/1776694563790-298588415_609339397215744_8642528289106555521_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694564397-298735760_609335520549465_1979672484736525676_n.jpg)
+![Day 6 Accommodation Recommendation: Sebatu Sanctuary Eco-res](https://images.gobaligo.id/images/2026-04/1776694564397-298735760_609335520549465_1979672484736525676_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694564910-298994173_609337127215971_5590014833968830680_n.jpg)
+![Day 6 Accommodation Recommendation: Sebatu Sanctuary Eco-res](https://images.gobaligo.id/images/2026-04/1776694564910-298994173_609337127215971_5590014833968830680_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694565430-299029934_609337343882616_1028131341141026577_n.jpg)
+![Day 6 Accommodation Recommendation: Sebatu Sanctuary Eco-res](https://images.gobaligo.id/images/2026-04/1776694565430-299029934_609337343882616_1028131341141026577_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776694565888-299032805_609336023882748_8399785905067922649_n.jpg)
+![Day 6 Accommodation Recommendation: Sebatu Sanctuary Eco-res](https://images.gobaligo.id/images/2026-04/1776694565888-299032805_609336023882748_8399785905067922649_n.jpg)
 
 🏡 **First Impressions of the Treehouse: A Perfect Blend of Nature and Luxury**
 
@@ -847,7 +847,7 @@ Sebatu Sanctuary Eco-resort is a place where you can truly unwind and reconnect 
 
 If you're also yearning for an intimate encounter with the jungle, don't hesitate to book your stay! 🌲💚
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b80d9684405aba0db01f6d3e125e98b5.jpg)
+![Day 6 Accommodation Recommendation: Sebatu Sanctuary Eco-res](https://images.gobaligo.id/vocus/vocus_b80d9684405aba0db01f6d3e125e98b5.jpg)
 
 ▶[**Check out 9 other breathtaking bamboo villas**](/blog/ubud-treehouse-bamboo-villa-stays/)
 
@@ -859,7 +859,7 @@ If you're also yearning for an intimate encounter with the jungle, don't hesitat
 
 🌙 Stay overnight at Mara River Safari Lodge in the Kifaru Family Room, enjoying the comfort of two bedrooms while feeding zebras, encountering elephants, and even having breakfast with lions at the restaurant!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d4b372474f21819999f8a11e41ec4ee7.jpg)
+![Overnight Safari Adventure - Up Close with Zebras , Elephant](https://images.gobaligo.id/vocus/vocus_d4b372474f21819999f8a11e41ec4ee7.jpg)
 
 ✨ **Highlights:**
 
@@ -879,7 +879,7 @@ If you're also yearning for an intimate encounter with the jungle, don't hesitat
 
 If you're traveling in Bali, I highly recommend using Gede's private car service! Gede is a very professional and patient driver who provides thoughtful service whether it's for family trips or general sightseeing.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_44fc7398e88b59cba7815abcb689d3a4.jpg)
+![Our Highly Recommended Private Car Service](https://images.gobaligo.id/vocus/vocus_44fc7398e88b59cba7815abcb689d3a4.jpg)
 
 📋 **Service Highlights:**
 
@@ -900,7 +900,7 @@ If you're traveling in Bali, I highly recommend using Gede's private car service
 
 📍 **Contact Information:**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fad9b3df1b2d1b227dff2547bdf7c751.jpg)
+![Our Highly Recommended Private Car Service](https://images.gobaligo.id/vocus/vocus_fad9b3df1b2d1b227dff2547bdf7c751.jpg)
 
 - LINE ID: Bopeas29
 - WhatsApp: +62 8786 2004 094
@@ -927,7 +927,7 @@ As we concluded this family trip to Bali, we gained not just beautiful scenery a
 
 Do you find the itinerary from [Let's Play and Eat Ho Chi Minh City](https://www.facebook.com/profile.php?id=100068951930592) exciting? Start planning your own Bali adventure now! We also welcome everyone to share your itineraries in our community!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Full travelogue:](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Click here to explore more amazing Bali travel stories
 

@@ -23,7 +23,7 @@ _srcHash: b6c3c90a70fe5adfed3e51b22500afd0
 
 Pada 30 Mei hingga 1 Juni 2025, Ubud—pusat budaya Bali, Indonesia—akan menjadi tuan rumah **Ubud Food Festival** edisi ke-10, salah satu festival kuliner paling bergengsi di Indonesia. Acara ini bukan sekadar petualangan rasa, tapi juga pengalaman yang memadukan budaya dan sejarah.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9493dc5a49f643520cc6d25efe3d94af.png)
+![Ubud Food Festival 10 Tahun: Sebuah Perjalanan Rasa yang Pen](https://images.gobaligo.id/vocus/vocus_9493dc5a49f643520cc6d25efe3d94af.png)
 
 ---
 
@@ -31,7 +31,7 @@ Pada 30 Mei hingga 1 Juni 2025, Ubud—pusat budaya Bali, Indonesia—akan menja
 
 Mengusung tema **'Heritage'**, festival tahun ini tidak hanya memberi penghormatan pada resep-resep warisan, tapi juga menekankan interpretasi ulang tradisi di era modern. Mulai dari jajanan kaki lima hingga hidangan mewah, dari dapur pedesaan hingga restoran kontemporer—setiap hidangan punya cerita budaya Indonesia.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_06b7d6f9c8d432b093dc97b394f15d62.jpg)
+![Tema: 'Warisan'—Bukan Sekadar Kenangan, Tapi Menciptakan Kla](https://images.gobaligo.id/vocus/vocus_06b7d6f9c8d432b093dc97b394f15d62.jpg)
 
 ---
 
@@ -42,7 +42,7 @@ Mengusung tema **'Heritage'**, festival tahun ini tidak hanya memberi penghormat
 - **Seni Bertemu Kuliner**: Desain visual ala Instagram yang bikin setiap sudut jadi spot foto kece.
 - **Talenta Terbaik dari Seluruh Negeri**: Menghadirkan chef Michelin, penulis buku resep terkenal, koki muda kreatif, dan petani lokal dalam satu panggung.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5250fcaad7df6bc2c45359b406ff3fe0.jpg)
+![Sorotan Acara yang Wajib Kamu Tahu](https://images.gobaligo.id/vocus/vocus_5250fcaad7df6bc2c45359b406ff3fe0.jpg)
 
 ---
 
@@ -56,7 +56,7 @@ Lokasi utama Taman Kuliner bakal berubah jadi desa kuliner yang penuh aroma remp
 
 ## **Zona & Aktivitas Wajib Dikunjungi**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_646cd9326daba5d4fe0b6f40130b64b4.jpg)
+![Zona & Aktivitas Wajib Dikunjungi](https://images.gobaligo.id/vocus/vocus_646cd9326daba5d4fe0b6f40130b64b4.jpg)
 
 ### **✔ Pasar Kuliner (Gratis Masuk)**
 
@@ -98,7 +98,7 @@ Selain mencicipi makanan, kamu juga bisa ikut tur tematik, seperti:
 
 ## **❓ FAQ (Pertanyaan yang Sering Ditanyakan) ❓**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_be530e02aa8a5b2dd52f513006292c80.jpg)
+![FAQ (Pertanyaan yang Sering Ditanyakan)](https://images.gobaligo.id/vocus/vocus_be530e02aa8a5b2dd52f513006292c80.jpg)
 
 ### **Ubud Food Festival itu acara apa sih?**
 

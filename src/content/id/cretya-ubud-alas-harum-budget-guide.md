@@ -21,7 +21,7 @@ lang: id
 _srcHash: 2419c528a26d346062f0aea35d148162
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_99e3337f8aad55a08c019c50bfec06e8.jpg)
+![Budget tapi Tetap Mewah: Panduan Nongkrong di Cretya Ubud Po](https://images.gobaligo.id/vocus/vocus_99e3337f8aad55a08c019c50bfec06e8.jpg)
 
 Halo traveler! Hari ini kita bakal eksplor hidden gem di Ubud, Bali, dan nemuin spot keren yang menangkap esensi pulau indah ini. Di tengah pemandangan hijau dan tradisi yang hidup, ada Alas Harum dan Cretya Ubud. Di artikel ini, kita bakal kasih tips berharga biar liburanmu di Alas Harum dan Cretya Ubud Bali makin maksimal.
 
@@ -46,13 +46,13 @@ Pertama, pastikan kamu datang lebih awal biar bisa pilih tempat duduk terbaik! S
 Spot favorit tanpa minimum pemesanan
 
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00cc783d240cbd519bb5530130ee3758.png)
-![raw-image](https://images.gobaligo.id/vocus/vocus_5b95d59ad5a6154f98d1cd2d1b86a22c.png)
-![raw-image](https://images.gobaligo.id/vocus/vocus_e08d7719fe40ef646251e3a1103fdd73.png)
-![raw-image](https://images.gobaligo.id/vocus/vocus_4680f5d4765eb5af3ae22d14bf899e13.png)
-![raw-image](https://images.gobaligo.id/vocus/vocus_3c629ca5ab711b2fafc80496b73e38cd.png)
-![raw-image](https://images.gobaligo.id/vocus/vocus_36131fbcd473013960dd782fe21b5db2.png)
-![raw-image](https://images.gobaligo.id/vocus/vocus_ba56ed7726ab4c909d3fa14c577078aa.png)
+![Cara Hindari Keramaian & Hemat Biaya](https://images.gobaligo.id/vocus/vocus_00cc783d240cbd519bb5530130ee3758.png)
+![Cara Hindari Keramaian & Hemat Biaya](https://images.gobaligo.id/vocus/vocus_5b95d59ad5a6154f98d1cd2d1b86a22c.png)
+![Cara Hindari Keramaian & Hemat Biaya](https://images.gobaligo.id/vocus/vocus_e08d7719fe40ef646251e3a1103fdd73.png)
+![Cara Hindari Keramaian & Hemat Biaya](https://images.gobaligo.id/vocus/vocus_4680f5d4765eb5af3ae22d14bf899e13.png)
+![Cara Hindari Keramaian & Hemat Biaya](https://images.gobaligo.id/vocus/vocus_3c629ca5ab711b2fafc80496b73e38cd.png)
+![Cara Hindari Keramaian & Hemat Biaya](https://images.gobaligo.id/vocus/vocus_36131fbcd473013960dd782fe21b5db2.png)
+![Cara Hindari Keramaian & Hemat Biaya](https://images.gobaligo.id/vocus/vocus_ba56ed7726ab4c909d3fa14c577078aa.png)
 
 ## Hal yang Perlu Diperhatikan
 
@@ -66,7 +66,7 @@ Rak di sini nggak bisa dikunci!
 
 ## Di Luar Kolam Renang
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e9cbd0f15bdc73dd25d09caff791f3b2.jpg)
+![Di Luar Kolam Renang](https://images.gobaligo.id/vocus/vocus_e9cbd0f15bdc73dd25d09caff791f3b2.jpg)
 
 Selain kolam renang tiga lantai, ada pemandangan sawah terasering yang keren banget buat foto-foto, sarang burung, gua orangutan, dan patung setinggi 19 meter dari Bapak Proklamator Indonesia, Soekarno... dan masih banyak lagi. Buat yang suka tantangan, bisa coba jembatan goyang sepanjang 35 meter, ayunan ekstrem, ayunan super ekstrem, ayunan grup, dan ayunan ganda. Kalau masih kurang seru, kamu bisa coba sepeda udara, sepeda udara raksasa, dan flying fox. Alas Harum emang punya aktivitas buat semua orang!
 
@@ -92,7 +92,7 @@ Di Ubud, setidaknya ada 50 tempat dan aktivitas yang menunggu kamu explore. Mau 
 
 Pariwisata Ubud didukung akomodasi lengkap, dari hostel murah sampai resort mewah. Berapa pun budget kamu, pasti ada tempat nginep yang cocok di Ubud. Cek rekomendasi penginapan Ubud di bawah ini:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_02093589e6f9903498b1c3ef6c792e6f.jpg)
+![Pilihan Akomodasi di Ubud](https://images.gobaligo.id/vocus/vocus_02093589e6f9903498b1c3ef6c792e6f.jpg)
 
 - [【Rekomendasi Akomodasi Ubud Bali】28 Penginapan Unik di Ubud, Rasakan Keajaiban Pemandian Alam Bali!](/blog/ubud-villas-pool-guide/)
 - [Jelajahi 9 Tree House/Bamboo Villa di Ubud yang Bikin Takjub](/blog/ubud-treehouse-bamboo-villa-stays/)

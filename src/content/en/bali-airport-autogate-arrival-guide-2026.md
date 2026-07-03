@@ -101,7 +101,7 @@ Honestly, these changes are very practical good news for travelers. Here are our
 3. **Tourism tax** (IDR 150,000) — pay it in advance on the LoveBali App so you don't have to queue on arrival
 4. After arrival, **go straight through the autogate for automated immigration** — if your passport qualifies, the whole process takes just seconds
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779192487274-_3_1_.png)
+![Our Recommendations](https://images.gobaligo.id/images/2026-05/1779192487274-_3_1_.png)
 
 Truthfully, Bali's progress in tourism infrastructure over the past few years has been astonishing. From airport improvements to traffic upgrades in Uluwatu and beach enhancement projects in Kuta, it's clear they're serious about making the island an international tourism hub.
 

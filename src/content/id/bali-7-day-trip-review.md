@@ -69,7 +69,7 @@ Di perjalanan kali ini, kami ketemu Komang, sopir yang super ramah dan perhatian
 
 Juga kasih info kontak sopirnya:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_34f3486136ba023e864d48829bee5a03.png)
+![Driver Sewaan Itu Penting Banget!](https://images.gobaligo.id/vocus/vocus_34f3486136ba023e864d48829bee5a03.png)
 
 > ID Line : 31011994bopeas
 

@@ -21,7 +21,7 @@ _srcHash: 1dbc40af94ee46c21de7d018afe0e0ad
 
 巴厘岛在 11 月迎来重要节庆 **Galungan（11 月 18–20 日）**，以及12月的圣诞新年假期，街道往往更繁忙。为了避免事故增加，当地警方已提前启动年度交通管制 **「斑马行动」**。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8885ac4311d8bdda3c5e0fd40566a5d6.jpg)
+![【巴厘岛进入节庆前夕：警方展开大规模交通稽查「斑马行动」】](https://images.gobaligo.id/vocus/vocus_8885ac4311d8bdda3c5e0fd40566a5d6.jpg)
 
 在热门路口，你会看到更多警力部署，将近 **1700 名执法人员**投入查核，尤其针对骑乘摩托车的外国旅客。
 
@@ -87,7 +87,7 @@ _srcHash: 1dbc40af94ee46c21de7d018afe0e0ad
 
 提供司机或基础教学，是否能让新手旅客更安心？值得大家思考。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b7d148fa791d6ef5869f955394fb7967.jpg)
+![【你觉得呢？专业驾驶陪同是否能帮助初学者？】](https://images.gobaligo.id/vocus/vocus_b7d148fa791d6ef5869f955394fb7967.jpg)
 
 ---
 

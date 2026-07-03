@@ -29,7 +29,7 @@ _srcHash: 58a6177ce06680a5fceed3e80f40481e
 
 Kalau kamu kayak aku, yang nggak suka repot riset perjalanan tapi tetap pengin lihat semua keindahan Bali, aku saranin banget masukin tur harian Klook ke itinerary kamu! Di liburan 7 hari 6 malam ke Bali ini, kami booking tiga kali tur harian Klook (Hari ke-2, ke-4, dan ke-6), dan setiap kali seru banget tanpa ribet～ Beneran pengalaman 'tidur di mobil, foto di tempat', pengen share buat kamu yang juga pengin jalan-jalan santai di Bali ❤️
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8badcdcbd6c7256c545b844ddc28d7cb.png)
+![Bali 7 Hari 6 Malam Itinerary Liburan｜Tiga Paket Tur Harian ](https://images.gobaligo.id/vocus/vocus_8badcdcbd6c7256c545b844ddc28d7cb.png)
 
 Perjalanan kali ini terasa ringan dan nggak bikin pusing, bisa santai nikmatin vibe liburan Bali sambil explore tempat terkenal, hidden gems, dan budaya. Nggak salah deh: **Klook emang sahabat traveler mandiri!**
 
@@ -41,25 +41,25 @@ https://youtu.be/SpcgZ4iK7qs
 
 Kami nginep di Griya Santrian, resort yang persis di pinggir pantai—dari kolam renang tinggal jalan beberapa langkah udah nyampe pasir. Cocok banget buat kamu yang suka berenang atau pantai. Arsitekturnya khas tradisional Bali, taman pemandangannya adem dan nyaman. Resort ini juga punya SPA, kelas yoga, dan restoran dengan pemandangan laut, pas banget buat yang pengin nikmatin 'slow living di Sanur'.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016458746-465499230.jpg)
+![Hari 1: Tiba di Bali, Mode Santai Aktif!](https://images.gobaligo.id/images/2026-05/1780016458746-465499230.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016459384-465499684.jpg)
+![Hari 1: Tiba di Bali, Mode Santai Aktif!](https://images.gobaligo.id/images/2026-05/1780016459384-465499684.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016459954-465501520.jpg)
+![Hari 1: Tiba di Bali, Mode Santai Aktif!](https://images.gobaligo.id/images/2026-05/1780016459954-465501520.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016472294-31015540.jpg)
+![Hari 1: Tiba di Bali, Mode Santai Aktif!](https://images.gobaligo.id/images/2026-05/1780016472294-31015540.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016472800-31015802.jpg)
+![Hari 1: Tiba di Bali, Mode Santai Aktif!](https://images.gobaligo.id/images/2026-05/1780016472800-31015802.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016473503-31089846.jpg)
+![Hari 1: Tiba di Bali, Mode Santai Aktif!](https://images.gobaligo.id/images/2026-05/1780016473503-31089846.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016474013-31089847.jpg)
+![Hari 1: Tiba di Bali, Mode Santai Aktif!](https://images.gobaligo.id/images/2026-05/1780016474013-31089847.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016474638-187032805.jpg)
+![Hari 1: Tiba di Bali, Mode Santai Aktif!](https://images.gobaligo.id/images/2026-05/1780016474638-187032805.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016475139-187032965.jpg)
+![Hari 1: Tiba di Bali, Mode Santai Aktif!](https://images.gobaligo.id/images/2026-05/1780016475139-187032965.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016476225-465495528.jpg)
+![Hari 1: Tiba di Bali, Mode Santai Aktif!](https://images.gobaligo.id/images/2026-05/1780016476225-465495528.jpg)
 
 > ➡️ [**Cek Harga & Ketersediaan Kamar Griya Santrian a Beach Resort**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10336) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685091&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxMLFJMEk1c3CsXTJrZNsQsyGBkYGj9gsLhg6Xl9cYMul3e7gefirRkz_oR6HAJ6IKQeeT2NP5OyST353JNChi5EVLDCDcfELzRWMjBsZ17k_rBKJS3PYwch0gJHpBONWxQVMdyessz_Fwsyxj-0Sy1em6Gql7NRKJSsTHaWSzJKcVCUrpWdzep92z3yxabeSjlJKanEyUAjISszNL80rAbJNDE31DAyAIiWJFZ4pSlbmOkrJiTnJpTmJJakhlQVAE8x0lDKLnUuKMguCUnMzS0pSgarSEnOKU0HiQanFQJlksKCSH9CYIqhAZn4eRLsBilhYYk5pKsQJQAvdUqF2GNfqYLr86aJ5Txv2PF_RSpzLTajtckNiXG5YG_uIhSk69hMLwy8WhiZWhi5WZo5TTJOA5FbFXay8wa4Rxv7huoYhulG6hhdY_ytLKRoaGBgYmZoamesaJFpaGJmkpuqaWJoYWZrqGpkYGBqZmWt8-76i6amxkbUUJAUoMGoJxod4eroYlhSmmhWWWuYUFZgaMJ5ilDI0N7YwNDI0NDIysjTWM7FIMyu2yCu2yM2K8GAMYnM2MbV0c4qy4WIODXYR7D8ETGn60g5SzCHhLopBLm2heyaettdi9nQJMrz3nyVXW9nSPtDiixj_e8sF9pEP0mMsBCadtk9ircrQDQnP6BUvYGxgZOpi5BZg9GCMYKwA8hhXMbJzMRsYGQowbWBk3MH4HwYYXzGCLAEA6DBSVgADAAA&masterhotelid_tracelogid=100025527-0a9824ee-494295-2401267&detailFilters=17|1~17~1*31|685091~31~685091*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=375&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/PAFloKEn)
 
@@ -91,7 +91,7 @@ https://youtu.be/zePMt3KSwTo
 
 Destinasi terakhir yang paling aku suka adalah **Virgin Beach**. Pantai tersembunyi ini jauh dari keramaian, airnya jernih, pasirnya putih, dan nggak banyak turis. Cocok banget buat bersantai, berjemur, sambil minum air kelapa 🌞🥥.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_696826291682eab27ccef9883b60882a.jpg)
+![Hari 2: Tur Harian Klook 'Jelajah Spot Instagramable Bali Ti](https://images.gobaligo.id/vocus/vocus_696826291682eab27ccef9883b60882a.jpg)
 
 Sekitar jam 17:30 kita balik. Sepanjang hari perjalanan padat tapi nggak terburu-buru, nggak perlu repot cari jalan atau khawatir soal transportasi — super praktis!
 
@@ -114,21 +114,21 @@ https://youtu.be/uFv_4Wr6YsI
 
 Ke Bali masa iya nggak cobain villa!? Kami nginep di **Ayuterra Resort** — villa yang bikin aku ogah ninggalin kolam renang 🏞️. Desain kamarnya stylish dan luas, kolam renang pribadi tanpa batas langsung menghadap ke lembah Sungai Ayung, setiap detik serasa lagi di kartu pos 📸. Malamnya berendam sambil lihat bintang, pagi bangun dengan suara burung — ini malam paling santai dan romantis selama di Ubud ❤️. Recommended banget buat pasangan yang lagi bulan madu atau rayain momen spesial!
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016752353-94811283.jpeg)
+![Hari 3: Jalan-jalan Bebas Setengah Hari di Ubud + SPA Time](https://images.gobaligo.id/images/2026-05/1780016752353-94811283.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016752966-158456810.jpeg)
+![Hari 3: Jalan-jalan Bebas Setengah Hari di Ubud + SPA Time](https://images.gobaligo.id/images/2026-05/1780016752966-158456810.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016753882-158456815.jpeg)
+![Hari 3: Jalan-jalan Bebas Setengah Hari di Ubud + SPA Time](https://images.gobaligo.id/images/2026-05/1780016753882-158456815.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016754420-165248513.jpeg)
+![Hari 3: Jalan-jalan Bebas Setengah Hari di Ubud + SPA Time](https://images.gobaligo.id/images/2026-05/1780016754420-165248513.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016755011-165249780.jpeg)
+![Hari 3: Jalan-jalan Bebas Setengah Hari di Ubud + SPA Time](https://images.gobaligo.id/images/2026-05/1780016755011-165249780.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016755582-165249794.jpeg)
+![Hari 3: Jalan-jalan Bebas Setengah Hari di Ubud + SPA Time](https://images.gobaligo.id/images/2026-05/1780016755582-165249794.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016756442-165250377.jpeg)
+![Hari 3: Jalan-jalan Bebas Setengah Hari di Ubud + SPA Time](https://images.gobaligo.id/images/2026-05/1780016756442-165250377.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016756957-165250385.jpeg)
+![Hari 3: Jalan-jalan Bebas Setengah Hari di Ubud + SPA Time](https://images.gobaligo.id/images/2026-05/1780016756957-165250385.jpeg)
 
 > 👉[**Cek Harga & Ketersediaan Kamar Ayuterra Resort**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1637022) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=9056301&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6y8TFJMEkdY2JY-XNFSdYhZgNDYw07rMZ3Ge02CrvKLLO_WHViT4Hz0JbruuLL05yCOCJmHLg-TT2RK_qZn2fI4EOXYysYIEZjGsfrGDZyGgMAtnZDjsYmQ4wMp1gvKu9gOnWizfcp1iYOX6zX2LZzRhdrZSdWqlkZaKjVJJZkpOqZKX0dNG8pw17nq9oVdJRSkktTgYKAVmJufmleSVAtqGBoaWegQFQqCSxwjMFrDU5MSe5NCexJDWksgBohJGOUmaxc0lRZkFQam5mSUkqUFVaYk5xKkg8KLUYKJMMFgQZXATlZ-bnQXQboIiFJeaUpkJUAu1zS4VaYVgb-4iFKTr2Bct9tk8sDL9YGJpYGbpYmTlOMU0Ckne1d7Hy-vmbmHr56hqG6EbpGl5gXWMspWhoYGBgZGpqZK5rkGiZaJGakqJrYmliZGmia2JhaGRuYaJx5NTSxqfGRtZSkJBUYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobgzUYmhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmTg6mpqFmXDxRwa7CL4XHb5Cw89aQcp5pBwF8WVN5nXHphw2l6L2dMlyPDef5ZcbWVL-0CLL2L87y0X2EcGubSF7pl42j6JtSpDNyQ8o1e8gLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQAcqVk9EsCAAA&masterhotelid_tracelogid=100025527-0a9a8edd-494294-4812784&detailFilters=17|1~17~1*31|9056301~31~9056301*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=882&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/0xcNRC9t)
 
@@ -140,11 +140,11 @@ Hari ini kami pesan paket **Private Day Trip ke Tempat Populer di Ubud** dari Kl
 
 Kami berangkat **jam 08:30 dari hotel**, dan destinasi pertama adalah sawah terasering super cantik yang masuk warisan dunia — **Terasering Tegallalang**. Sawah bertingkat-tingkat bagaikan ombak hijau, pemandangannya spektakuler banget! Di mana pun kamu berdiri buat foto, hasilnya kayak kartu pos — dreamy abis! 🌾📷
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_55c19053b01f715dbb5fe2d0dc3a3e72.jpg)
+![Hari 4: Klook 'Private Day Trip ke Tempat Populer di Ubud'｜B](https://images.gobaligo.id/vocus/vocus_55c19053b01f715dbb5fe2d0dc3a3e72.jpg)
 
 Selanjutnya kami coba **ayunan udara** klasik khas Ubud. Begitu terayun ke depan, rasanya seru sekaligus menegangkan! Di bawah kita ada hutan hujan tropis yang lebat dan lembah, seketika serasa terbang di dalam film! 🎬
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_81b50f6d3f97aacd54da321c458cacce.jpg)
+![Hari 4: Klook 'Private Day Trip ke Tempat Populer di Ubud'｜B](https://images.gobaligo.id/vocus/vocus_81b50f6d3f97aacd54da321c458cacce.jpg)
 
 Perhentian ketiga adalah **Ubud Monkey Forest**, habitat alami monyet ekor panjang Bali. Meskipun monyet-monyetnya sangat aktif dan penasaran, jangan khawatir — selama kamu tidak memberi makan atau mengganggu mereka, pada dasarnya aman-aman aja. Pemandu wisata juga ngajarin cara menjaga jarak yang benar dengan monyet. Pengalaman yang unik dan seru banget 🐒🌳
 
@@ -152,11 +152,11 @@ Waktu makan siang, supir Yogi milihin kita restoran dengan pemandangan yang juar
 
 Setelah kenyang, kita lanjut ke **Pura Tirta Empul**, tempat yang paling aku tunggu-tunggu. Air suci di pura ini konon punya energi pembersih jiwa. Banyak penduduk lokal dan turis yang masuk ke kolam buat mandi dan disiram air suci. Meskipun aku nggak ikut turun, duduk tenang di samping sambil ngelihat suasana penuh khidmat ini bikin hati jadi adem dengan sendirinya 🙏💧
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8b762a26998eb9109cd20d800e686b26.jpg)
+![Hari 4: Klook 'Private Day Trip ke Tempat Populer di Ubud'｜B](https://images.gobaligo.id/vocus/vocus_8b762a26998eb9109cd20d800e686b26.jpg)
 
 Perhentian terakhir adalah air terjun hits di Ubud — **Tegenungan Waterfall**. Air terjunnya megah banget, suara gemuruhnya dahsyat, pemandangannya spektakuler. Tapi karena pengunjungnya lumayan banyak, plus banyak orang yang main air dan foto-foto, menurutku agak terlalu komersial. Jadi aku nggak berlama-lama. Ini sih balik lagi ke selera masing-masing ya~
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_99403f7db64395a7fa81d169116fa952.jpg)
+![Hari 4: Klook 'Private Day Trip ke Tempat Populer di Ubud'｜B](https://images.gobaligo.id/vocus/vocus_99403f7db64395a7fa81d169116fa952.jpg)
 
 Sekitar **jam 17:00 balik ke hotel**, perjalanan hampir 10 jam ini terasa padat tapi nggak bikin capek. Spesial thanks buat supir kita **Yogi**, orangnya super baik. Nggak cuma atur itinerary dengan rapi, tapi juga bantu kita hindari keramaian. Beneran layak direkomendasiin banget!
 
@@ -186,25 +186,25 @@ Kami menginap di Mulia Resort, hotel mewah terkenal di pulau ini yang menawarkan
 
 Kami menikmati waktu minum teh sore di Mulia Resort, berendam di kolam renang sambil melihat laut, minum kopi, dan makan camilan manis. Sekalian jalan-jalan ke pusat perbelanjaan di dekatnya. Hari ini adalah 'hari bengong' — nggak ngapa-ngapain itu itinerary terbaik!
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016932392-6532982_19052213430074651656_large.jpeg)
+![Day 5: Bebas Aktifitas + Sore Santai di Pantai](https://images.gobaligo.id/images/2026-05/1780016932392-6532982_19052213430074651656_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016933130-a6f2689a3b9e0bbc99243b017418e30d.jpg)
+![Day 5: Bebas Aktifitas + Sore Santai di Pantai](https://images.gobaligo.id/images/2026-05/1780016933130-a6f2689a3b9e0bbc99243b017418e30d.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016933700-9d5cd0ab70caa0e4c39605cb63aedae2_large.jpeg)
+![Day 5: Bebas Aktifitas + Sore Santai di Pantai](https://images.gobaligo.id/images/2026-05/1780016933700-9d5cd0ab70caa0e4c39605cb63aedae2_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016934332-033c00f7f5a3cff31e603ba7005216e2_large.jpeg)
+![Day 5: Bebas Aktifitas + Sore Santai di Pantai](https://images.gobaligo.id/images/2026-05/1780016934332-033c00f7f5a3cff31e603ba7005216e2_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016968898-423587cf2a05b1a8d7e9585ac5aa9b51_large.jpeg)
+![Day 5: Bebas Aktifitas + Sore Santai di Pantai](https://images.gobaligo.id/images/2026-05/1780016968898-423587cf2a05b1a8d7e9585ac5aa9b51_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016969557-6532982_19013015410071862948_large.jpeg)
+![Day 5: Bebas Aktifitas + Sore Santai di Pantai](https://images.gobaligo.id/images/2026-05/1780016969557-6532982_19013015410071862948_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016970159-6532982_19013015410071862949_large.jpeg)
+![Day 5: Bebas Aktifitas + Sore Santai di Pantai](https://images.gobaligo.id/images/2026-05/1780016970159-6532982_19013015410071862949_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016970890-6532982_19013015410071862951_large.jpeg)
+![Day 5: Bebas Aktifitas + Sore Santai di Pantai](https://images.gobaligo.id/images/2026-05/1780016970890-6532982_19013015410071862951_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016971463-6532982_19013015410071862953_large.jpeg)
+![Day 5: Bebas Aktifitas + Sore Santai di Pantai](https://images.gobaligo.id/images/2026-05/1780016971463-6532982_19013015410071862953_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780016971982-6532982_19022510000072495025_large.jpeg)
+![Day 5: Bebas Aktifitas + Sore Santai di Pantai](https://images.gobaligo.id/images/2026-05/1780016971982-6532982_19022510000072495025_large.jpeg)
 
 > 👉 [**Review Lengkap Mulia Resort**](/blog/mulia-resort-bali-luxury/)
 
@@ -236,13 +236,13 @@ https://youtu.be/hQbBTktqEqY
 
 Pura kuno yang berdiri di atas tebing ini bukan cuma salah satu dari enam pura suci di Bali, tapi juga spot kece buat nikmatin pemandangan Samudra Hindia yang megah. Monyet-monyet di sini lucu dan nakal, saran: jaga barang bawaan baik-baik (kacamata hitam, topi, awas!). Dengan pemandu, kita jadi tahu sejarah dan makna religius Pura Uluwatu, makin paham rasa hormat warga lokal terhadap alam dan roh leluhur.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f221761e8c64cd4b7a6f2dcc5e6f1859.jpg)
+![16:30 Pura Uluwatu (Uluwatu Temple)](https://images.gobaligo.id/vocus/vocus_f221761e8c64cd4b7a6f2dcc5e6f1859.jpg)
 
 ### 🔥 18:00 Pertunjukan Tari Kecak (Highlight: **Masuk Tanpa Antre!**)
 
 Pertunjukan ini salah satu highlight perjalanan kita! Tari Kecak nggak pakai alat musik, cuma suara puluhan pria setengah telanjang yang berseru "chak-chak-chak" buat bikin atmosfer, ditambah aksi penari dengan api dan interaksi seru. Adegan epik dari kisah Ramayana* dipentaskan langsung! Pertunjukan dimulai saat matahari terbenam, diakhiri dengan kobaran api dan sorak penonton — suasananya bikin merinding 🔥🔥🔥
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3ae76de3e2f7cbfb46b702bcaa7a626e.jpg)
+![18:00 Pertunjukan Tari Kecak (Highlight: Masuk Tanpa Antre!)](https://images.gobaligo.id/vocus/vocus_3ae76de3e2f7cbfb46b702bcaa7a626e.jpg)
 
 (Paket ini **bebas antre** langsung masuk, bener-bener ngirit waktu, super recommended!)
 
@@ -252,7 +252,7 @@ Pertunjukan ini salah satu highlight perjalanan kita! Tari Kecak nggak pakai ala
 
 Setelah puas menikmati pertunjukan, kita ke tepi pantai buat santap malam seafood bakar. Sambil denger deburan ombak, nikmatin lobster bakar, udang bakar, dan cumi goreng — romantis banget, cuma bisa dirasain di Bali 💕
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b8853265196d9f74c4f5461505927dc.jpg)
+![19:00 Makan Malam di Pantai Jimbaran (Jimbaran Beach)](https://images.gobaligo.id/vocus/vocus_0b8853265196d9f74c4f5461505927dc.jpg)
 
 > [11 Restoran Seafood di Jimbaran, Bali: Rekomendasi Anti Gagal](/blog/jimbaran-seafood-restaurants-list/)
 
@@ -329,7 +329,7 @@ A: Di Klook ada [lebih dari 100 pilihan tur sehari di Bali](https://affiliate.kl
 
 Kamu pikir itinerary mereka seru banget? Yuk, buruan atur liburan seru kamu ke Bali! Jangan lupa juga kirim itinerary kamu ke grup ya!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_46698f5af1760b1706d64aa484378402.jpg)
+![11. Q: Ada pilihan tur sehari lainnya?](https://images.gobaligo.id/vocus/vocus_46698f5af1760b1706d64aa484378402.jpg)
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 

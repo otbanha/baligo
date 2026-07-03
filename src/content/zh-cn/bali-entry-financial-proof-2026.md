@@ -17,7 +17,7 @@ _srcHash: 9649e924980e051716eb99788bc03c2b
 
 2026 年巴厘岛「高品质旅游」政策解析：3 月起财力证明与行程查核新制
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1316fab9941800e7f0a4551426ccb6e.png)
+![入境巴厘岛存款证明/财力证明 2026/03起严格执行 & 常见问题](https://images.gobaligo.id/vocus/vocus_a1316fab9941800e7f0a4551426ccb6e.png)
 
 一句话总结： 这项新政策并非要在海关对所有旅客进行「普查」，而是将移民官的既有查核权力「明文制度化」与「查核方式数字化」。目的是精准筛选优质旅客，同时打击非法打工。
 
@@ -61,7 +61,7 @@ https://youtu.be/7JIqxDIyDF0
 
 ## 📋 2026 年 3 月起入境巴厘岛必备文件清单
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_164e1666147c790e2ecfa35259c44293.png)
+![2026 年 3 月起入境巴厘岛必备文件清单](https://images.gobaligo.id/vocus/vocus_164e1666147c790e2ecfa35259c44293.png)
 
 ### 核心证件
 

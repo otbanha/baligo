@@ -31,13 +31,13 @@ _srcHash: c109e7d985b3229a611afee92a32707f
 ---
 Bali is world-famous for its stunning natural landscapes and rich cultural heritage, and rafting is one of the top adventure activities that draws countless visitors. Navigating winding rivers, experiencing the thrill of alternating rapids and calm waters, and taking in the lush tropical rainforests, dramatic gorges, and hidden waterfalls along the way—these are the unique charms of Bali rafting.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e76f3c320362392046cda14d6de1b379.jpg)
+![【Bali Rafting FAQ】Can You Go If You Can't Swim? Age Limits, ](https://images.gobaligo.id/vocus/vocus_e76f3c320362392046cda14d6de1b379.jpg)
 
 However, first-time rafters may have questions about the details, such as safety, suitable rivers, and required gear. To help you prepare fully and enjoy this unforgettable experience, we've put together a comprehensive FAQ covering all the aspects you might be concerned about. By reading through this information, you'll gain a thorough understanding of Bali rafting and can dive into the adventure with confidence.
 
 ## Rafting FAQ
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1b29221626f7514c7a6dc6fb7797722.jpg)
+![Rafting FAQ](https://images.gobaligo.id/vocus/vocus_a1b29221626f7514c7a6dc6fb7797722.jpg)
 
 ### **1. Which rivers in Bali are suitable for rafting?**
 

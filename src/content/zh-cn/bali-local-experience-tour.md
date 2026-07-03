@@ -68,7 +68,7 @@ https://youtu.be/FphhiUzB7gM
 
 ## Klook登巴萨世界遗产一日游
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_630b7e2478042e5eb703cc858917c81b.png)
+![Klook登巴萨世界遗产一日游](https://images.gobaligo.id/vocus/vocus_630b7e2478042e5eb703cc858917c81b.png)
 
 你也可以参加Klook的登巴萨一日游，这个行程让你可以深入体验印尼的丰富文化和遗产。行程包括旅馆接送、参观联合国教科文组织世界遗产之一的塔曼阿云水寺（Taman Ayun Water Temple）、巴厘博物馆等历史地标。你还可以到登巴萨最大的Badung和Kumbasari传统市场，浏览各种有趣的本地产品，感受在地购物的乐趣。
 

@@ -33,9 +33,9 @@ _srcHash: 1936005d8006f032aa7f2ce02cee91a4
 
 ## **入座驚喜：海景座位靠運氣？**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0aba435d4a72f0834a51addd13688a0b.jpg)
+![入座驚喜：海景座位靠運氣？](https://images.gobaligo.id/vocus/vocus_0aba435d4a72f0834a51addd13688a0b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e855f67b3fccd15a9a4b91865ac3d263.jpg)
+![入座驚喜：海景座位靠運氣？](https://images.gobaligo.id/vocus/vocus_e855f67b3fccd15a9a4b91865ac3d263.jpg)
 
 一走入酒店大堂，挑高嘅木質結構與精緻嘅峇里島雕刻即刻吸引目光，中央嘅水池倒映住陽光，幾尾錦鯉悠游其中，難怪好多小朋友圍喺度興奮地觀看。我哋提前喺 **Klook** 上預訂咗 **Selasar Deli 嘅下午茶**，服務人員親切地引導我哋入座。
 
@@ -43,9 +43,9 @@ _srcHash: 1936005d8006f032aa7f2ce02cee91a4
 
 原本安排嘅係室內座位，但我哋詢問係咪可以換到 **露臺區**，經理爽快地答應咗。呢一換，視野瞬間開闊——眼前係層疊嘅泳池、鬱鬱蔥蔥嘅熱帶花園，再遠啲，印度洋嘅藍就咁毫無保留地展開。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_891ef34fcd0b0a643147be73ce53583b.jpg)
+![入座驚喜：海景座位靠運氣？](https://images.gobaligo.id/vocus/vocus_891ef34fcd0b0a643147be73ce53583b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_59f0bb045f9fca4930237ee9f250e592.jpg)
+![入座驚喜：海景座位靠運氣？](https://images.gobaligo.id/vocus/vocus_59f0bb045f9fca4930237ee9f250e592.jpg)
 
 **⚠️ 重要提醒：**
 
@@ -63,7 +63,7 @@ _srcHash: 1936005d8006f032aa7f2ce02cee91a4
 
 **星期日～星期四（套餐式）：**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d4360aaab8ec5a4b870ed0151ffbe862.jpg)
+![下午茶時光：平日同假日唔同享受](https://images.gobaligo.id/vocus/vocus_d4360aaab8ec5a4b870ed0151ffbe862.jpg)
 
 **星期五～六（自助式）：**
 
@@ -79,7 +79,7 @@ _srcHash: 1936005d8006f032aa7f2ce02cee91a4
 
 🏊 免費使用無邊際泳池🏖️ 進入私人沙灘（沙質超幼滑！）🍹 海灘俱樂部飲品要另外俾錢（約IDR 150,000/杯）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b34b076d8897f9eb4a0bb1f33e08010b.jpg)
+![酒店探險：懸崖上嘅奢華](https://images.gobaligo.id/vocus/vocus_b34b076d8897f9eb4a0bb1f33e08010b.jpg)
 
 我哋瞓喺泳池邊嘅Daybed上面，睇住個夕陽將個天染成粉紫色，完全唔捨得走...
 

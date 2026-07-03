@@ -100,14 +100,14 @@ Abis makan malam, kita mampir ke Coco Supermarket Jimbaran yang dekat situ, beli
 
 Kita nginep di FOX Hotel Jimbaran Beach, lokasinya strategis banget, tinggal jalan kaki ke Pantai Jimbaran. Di lantai atas hotel ada kolam renang infinity, plus ada area bermain anak-anak, bikin liburan makin seru.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776002658009-231356395.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776002658483-514336253.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776002658895-536125008.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776002659326-536125026.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776002659835-mixcollage-28-may-2024-09-07-am-8761.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776002660296-206614677.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776002660718-231354323.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776002661166-231354923.jpeg)
+![Penginapan - FOX Hotel Jimbaran Beach](https://images.gobaligo.id/images/2026-04/1776002658009-231356395.jpeg)
+![Penginapan - FOX Hotel Jimbaran Beach](https://images.gobaligo.id/images/2026-04/1776002658483-514336253.jpeg)
+![Penginapan - FOX Hotel Jimbaran Beach](https://images.gobaligo.id/images/2026-04/1776002658895-536125008.jpeg)
+![Penginapan - FOX Hotel Jimbaran Beach](https://images.gobaligo.id/images/2026-04/1776002659326-536125026.jpeg)
+![Penginapan - FOX Hotel Jimbaran Beach](https://images.gobaligo.id/images/2026-04/1776002659835-mixcollage-28-may-2024-09-07-am-8761.jpg)
+![Penginapan - FOX Hotel Jimbaran Beach](https://images.gobaligo.id/images/2026-04/1776002660296-206614677.jpeg)
+![Penginapan - FOX Hotel Jimbaran Beach](https://images.gobaligo.id/images/2026-04/1776002660718-231354323.jpeg)
+![Penginapan - FOX Hotel Jimbaran Beach](https://images.gobaligo.id/images/2026-04/1776002661166-231354923.jpeg)
 
 ▶[Link booking FOX Hotel Jimbaran Beach](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3121957) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6371074&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6y8zFJMEk9YyZ4_KR3XfYhBiNDM6yWayOcDQGAecUB88dcq2vA3dkOATwzGBsetfCvIKRcSOjyDr3h1VXHB12MDKdYJzOvoDp5Jld_KdYmDmWMV5i-cwUXa2UnVqpZGWio1SSWZKTqmSl9HTRvKcNe56vaFXSUUpJLU4GCgFZibn5pXklQLaFsZ6BAVCgJLHCMwWsMTkxJ7k0J7EkNaSyAGiAmY5SZrFzSVFmQVBqbmZJSSpQVVpiTnEqSDwotRgokwwWVPIDGlMEFcjMz4NoN0QRC0vMKU2FuABooVsq1A7DWh1Mhz-b0_u0e-aLTbuJcrg5tR1uQIzDjWtjH7EwRcd-YmH4xcLQxMrQxcowiZWZYzr7Llae4BAjX-8gXUPdKF1DKXlDAwMDU0NjU1Ndg0TLRFPjZENdE0sTI3NDXSMTUyMzja3dH288MTaylmKdcuD5NHYFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbJbGrs7GjlE2XMyhwS6C6VefZ2mbSTtIMYeEuyhODrrwVrX3tL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD4SJp_EWpWhGxKe0StewNjAyNTFyC3A6MEYwVgB5DGuYmTnYjYwMhRg2sDIuIPxPwwwvmIEWQIAYN9JO9kCAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-24526&detailFilters=17|1~17~1*31|6371074~31~6371074*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=900&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687)
 
@@ -155,7 +155,7 @@ Sore harinya, kami pergi ke Pura Uluwatu untuk lihat sunset dan pertunjukan Tari
 
 **Tur VW Convertible di Uluwatu**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996096488-vw.jpeg)
+![Rekomendasi Editor](https://images.gobaligo.id/images/2026-04/1775996096488-vw.jpeg)
 
 Jalan-jalan keliling Bali Selatan naik VW convertible! Mampir ke Pantai Padang-Padang dan Pandawa, nikmati pemandangan, sampai di Pura Uluwatu buat lihat sunset, lalu makan malam seafood di Jimbaran. Paket sudah termasuk jemputan, sopir, dan bensin — nggak perlu pusing, tinggal nikmatin keindahan Bali!
 
@@ -165,21 +165,21 @@ Jalan-jalan keliling Bali Selatan naik VW convertible! Mampir ke Pantai Padang-P
 
 ### Penginapan - Prime Plaza Hotel Sanur
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996236502-58641778.jpeg)
+![Penginapan - Prime Plaza Hotel Sanur](https://images.gobaligo.id/images/2026-04/1775996236502-58641778.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996237108-58641637.jpeg)
+![Penginapan - Prime Plaza Hotel Sanur](https://images.gobaligo.id/images/2026-04/1775996237108-58641637.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996237536-58642116.jpeg)
+![Penginapan - Prime Plaza Hotel Sanur](https://images.gobaligo.id/images/2026-04/1775996237536-58642116.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996237989-58642361.jpeg)
+![Penginapan - Prime Plaza Hotel Sanur](https://images.gobaligo.id/images/2026-04/1775996237989-58642361.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996238467-60088489.jpeg)
+![Penginapan - Prime Plaza Hotel Sanur](https://images.gobaligo.id/images/2026-04/1775996238467-60088489.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996238822-60088664.jpeg)
+![Penginapan - Prime Plaza Hotel Sanur](https://images.gobaligo.id/images/2026-04/1775996238822-60088664.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996239320-60088847.jpeg)
+![Penginapan - Prime Plaza Hotel Sanur](https://images.gobaligo.id/images/2026-04/1775996239320-60088847.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996239850-60089430.jpeg)
+![Penginapan - Prime Plaza Hotel Sanur](https://images.gobaligo.id/images/2026-04/1775996239850-60089430.jpeg)
 
 Malamnya, kami check-in di Prime Plaza Hotel Sanur - Bali. Hotel ini cocok banget buat yang besoknya mau island hopping, karena tinggal jalan kaki beberapa menit aja udah sampai ke pelabuhan baru Sanur. Kolam renangnya ada area khusus anak-anak, jadi pas buat keluarga yang bawa bocil. Tapi pas checkout, kami ninggalin pelampung renang di kamar. Tiga jam kemudian pas nanya, katanya nggak ada yang lihat. Agak kecewa sih, pelayanan hotel di bagian ini perlu ditingkatkan.
 
@@ -220,21 +220,21 @@ Setelah snorkeling selesai, kita kumpul dan naik Grab sendiri ke tempat nginep b
 
 ### Menginap - RV Hotel Kutus Kutus
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996479076-480073976.jpeg)
+![Menginap - RV Hotel Kutus Kutus](https://images.gobaligo.id/images/2026-04/1775996479076-480073976.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996479576-478163509.jpeg)
+![Menginap - RV Hotel Kutus Kutus](https://images.gobaligo.id/images/2026-04/1775996479576-478163509.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996479996-478163836.jpeg)
+![Menginap - RV Hotel Kutus Kutus](https://images.gobaligo.id/images/2026-04/1775996479996-478163836.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996480437-478166477.jpeg)
+![Menginap - RV Hotel Kutus Kutus](https://images.gobaligo.id/images/2026-04/1775996480437-478166477.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996481285-478166779.jpeg)
+![Menginap - RV Hotel Kutus Kutus](https://images.gobaligo.id/images/2026-04/1775996481285-478166779.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996482027-478166787.jpeg)
+![Menginap - RV Hotel Kutus Kutus](https://images.gobaligo.id/images/2026-04/1775996482027-478166787.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996482432-478166853.jpeg)
+![Menginap - RV Hotel Kutus Kutus](https://images.gobaligo.id/images/2026-04/1775996482432-478166853.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996483008-478166879.jpeg)
+![Menginap - RV Hotel Kutus Kutus](https://images.gobaligo.id/images/2026-04/1775996483008-478166879.jpeg)
 
 Malam ini kita nginep di RV Hotel Kutus Kutus, Ubud. Harga per kamar sekitar USD$13, belum termasuk sarapan karena kalau ditambah sarapan malah lebih mahal dari harga kamar — bikin kita ngakak. Kamarnya baru banget, di lantai atas ada kolam renang infinity dan area bermain anak. Satu-satunya kekurangan adalah dinding kamar kurang kedap suara, tapi dengan harga segini sih masih worth it banget. Buat yang susah tidur, mungkin perlu diperhatikan.
 
@@ -282,21 +282,21 @@ Makan malam kita mampir ke AKASA Specialty Coffee di Kintamani. Ini kafe dengan 
 
 ### Akomodasi - Batur View Homestay
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776000716039-322825283.jpeg)
+![Akomodasi - Batur View Homestay](https://images.gobaligo.id/images/2026-04/1776000716039-322825283.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776000716450-322827260.jpeg)
+![Akomodasi - Batur View Homestay](https://images.gobaligo.id/images/2026-04/1776000716450-322827260.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776000716899-427989442.jpeg)
+![Akomodasi - Batur View Homestay](https://images.gobaligo.id/images/2026-04/1776000716899-427989442.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776000717321-427991972.jpeg)
+![Akomodasi - Batur View Homestay](https://images.gobaligo.id/images/2026-04/1776000717321-427991972.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776000717792-427993437.jpeg)
+![Akomodasi - Batur View Homestay](https://images.gobaligo.id/images/2026-04/1776000717792-427993437.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776000718246-536396852.jpeg)
+![Akomodasi - Batur View Homestay](https://images.gobaligo.id/images/2026-04/1776000718246-536396852.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776000718629-536396871.jpeg)
+![Akomodasi - Batur View Homestay](https://images.gobaligo.id/images/2026-04/1776000718629-536396871.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776000719411-271570947.jpeg)
+![Akomodasi - Batur View Homestay](https://images.gobaligo.id/images/2026-04/1776000719411-271570947.jpeg)
 
 > ▶[Link Booking Batur View Homestay](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8927154)
 
@@ -356,7 +356,7 @@ Untuk makan siang kami pilih Tebasari Resto, Bar & Lounge. Nasi bebek goreng dan
 
 Kamu bisa coba juga bebek kotor (dirty duck) dari grup yang sama di Bebek Tebasari Resto ya:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc3b7c4acc8c1fc58855d174cb296195.png)
+![Tebasari Resto, Bar & Lounge](https://images.gobaligo.id/vocus/vocus_bc3b7c4acc8c1fc58855d174cb296195.png)
 
 ▶ Promo Makan di [Tebasari Resto via Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90448-dining-experience-bebek-tebasari-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D3d66f7452f)
 
@@ -372,14 +372,14 @@ Makan malam kita di Warung Makan Bu Rus, harganya ramah banget di kantong, rasan
 
 ### Akomodasi - Dwaraka The Royal Villas
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001204754-54688216.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001205313-54688362.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001205737-167328260.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001206210-167328359.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001206629-167328401.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001207028-174091542.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001207455-174101622.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001208052-54688182.jpeg)
+![Akomodasi - Dwaraka The Royal Villas](https://images.gobaligo.id/images/2026-04/1776001204754-54688216.jpeg)
+![Akomodasi - Dwaraka The Royal Villas](https://images.gobaligo.id/images/2026-04/1776001205313-54688362.jpeg)
+![Akomodasi - Dwaraka The Royal Villas](https://images.gobaligo.id/images/2026-04/1776001205737-167328260.jpeg)
+![Akomodasi - Dwaraka The Royal Villas](https://images.gobaligo.id/images/2026-04/1776001206210-167328359.jpeg)
+![Akomodasi - Dwaraka The Royal Villas](https://images.gobaligo.id/images/2026-04/1776001206629-167328401.jpeg)
+![Akomodasi - Dwaraka The Royal Villas](https://images.gobaligo.id/images/2026-04/1776001207028-174091542.jpeg)
+![Akomodasi - Dwaraka The Royal Villas](https://images.gobaligo.id/images/2026-04/1776001207455-174101622.jpeg)
+![Akomodasi - Dwaraka The Royal Villas](https://images.gobaligo.id/images/2026-04/1776001208052-54688182.jpeg)
 
 Malam ini kita nginep di Dwaraka The Royal Villas, harga kamar udah termasuk sarapan, teh sore, pijat kaki gratis, antar-jemput ke pusat kota setiap jam, plus di kamar ada biskuit, buah, dan minuman gratis. Hotel ini benar-benar worth it banget, fasilitas dan layanannya lengkap, rasanya kayak tinggal di istana Ubud! Pasti jadi rekomendasi akomodasi paling oke di trip ini. Harganya sekitar dua jutaan, kalau pilih villa dua lantai untuk empat orang dengan kolam renang pribadi, harganya sekitar USD$129. Ada juga dua kolam renang umum, area bermain anak, dan kids club, cocok banget buat keluarga.
 
@@ -480,10 +480,10 @@ Sore harinya kita mampir ke Bintang Super Market di Seminyak, beli oleh-oleh dan
 
 Malamnya kita check-in di Potato Head Suites & Studios, hotel peringkat ke-40 di dunia yang sengaja kita pilih buat dicoba. Ukuran kamarnya agak kecil dibanding hotel mewah lainnya, mungkin karena hotel ini pakai material ramah lingkungan — itu juga salah satu alasan kenapa mereka terkenal. Pas check-in dikasih botol minum, dan pas check-out dikasih gelang. Hotel ini lebih cocok buat anak muda yang suka nongkrong di club dan suasana ramai, karena di dekat sini ada Potato Head Beach Club yang terkenal. Kalau liburan keluarga, mungkin bisa pertimbangkan pilihan lain, tapi di sini ada infinity pool dan area bermain anak, jadi buat beberapa keluarga juga oke.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001753497-387638706.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001753970-471283622.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001754419-e3204ec0800e916edf23f797cc303446.webp)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001754869-82e01e7689645bb571f09e6a15fb1bb4.jpeg)
+![Potato Head Suites & Studios](https://images.gobaligo.id/images/2026-04/1776001753497-387638706.jpeg)
+![Potato Head Suites & Studios](https://images.gobaligo.id/images/2026-04/1776001753970-471283622.jpeg)
+![Potato Head Suites & Studios](https://images.gobaligo.id/images/2026-04/1776001754419-e3204ec0800e916edf23f797cc303446.webp)
+![Potato Head Suites & Studios](https://images.gobaligo.id/images/2026-04/1776001754869-82e01e7689645bb571f09e6a15fb1bb4.jpeg)
 
 ▶[Link booking Potato Head Suites & Studios](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11295575) [Booking](https://booking.tpm.li/P2lxvZpf)
 

@@ -36,7 +36,7 @@ embeds: []
 
 ## 2. **購物時要注意什麼？**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776321690797-untitled_design_24_.webp)
+![2. 購物時要注意什麼？](https://images.gobaligo.id/images/2026-04/1776321690797-untitled_design_24_.webp)
 
 - **只限**張貼 **「Tax Refund for Tourists」** 或 **「VAT Refund for Tourists」** 標誌的商店（大多數大型百貨、品牌店、Kuta、Seminyak、Ubud 等熱門區都有）。
 - 購物時**一定要出示護照**，告訴店員你要退稅（VAT Refund），店家會開立**附付款收據的正式稅務發票**（valid tax invoice）。
@@ -75,7 +75,7 @@ embeds: []
 
 ## 6. **實用小Tips（峇里島購物族必看）**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776321764381-vat_refund_11zon.jpeg)
+![6. 實用小Tips（峇里島購物族必看）](https://images.gobaligo.id/images/2026-04/1776321764381-vat_refund_11zon.jpeg)
 
 ▲機場的退稅櫃台
 

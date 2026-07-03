@@ -37,7 +37,7 @@ Sebelum berangkat liburan ke Bali, ada beberapa persiapan yang harus kamu atur d
 
 ### 1. Paspor dan Visa:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b4636d492eccd4bbd66f297fe294aaee.jpg)
+![1. Paspor dan Visa:](https://images.gobaligo.id/vocus/vocus_b4636d492eccd4bbd66f297fe294aaee.jpg)
 
 Pastiin paspor kamu masih berlaku minimal 6 bulan ke depan, dan cek apakah kamu perlu visa buat masuk ke Bali. Tergantung kewarganegaraanmu, mungkin kamu perlu ngurus visa dulu.
 
@@ -59,7 +59,7 @@ Bali itu daerah tropis, nyamuknya banyak banget, apalagi pas musim hujan. Bawa o
 
 ### 4. Penukaran Uang:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a272cc601fcba762d6af46ebde80bb20.png)
+![4. Penukaran Uang:](https://images.gobaligo.id/vocus/vocus_a272cc601fcba762d6af46ebde80bb20.png)
 
 Bali pakai Rupiah Indonesia (IDR) sebagai satu-satunya mata uang yang berlaku. Kamu harus tukar dulu ke USD di negara asal. Kenapa? Cek panduan singkat di bawah:
 
@@ -68,7 +68,7 @@ Bali pakai Rupiah Indonesia (IDR) sebagai satu-satunya mata uang yang berlaku. K
 
 ### 5. Barang bawaan apa yang perlu dibawa?:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_91ec7922f1447500e4a3e09b3f71f767.jpg)
+![5. Barang bawaan apa yang perlu dibawa?:](https://images.gobaligo.id/vocus/vocus_91ec7922f1447500e4a3e09b3f71f767.jpg)
 
 Sesuai rencana perjalananmu, siapkan bawaan yang ringan dan pas. Kalau kamu berencana ikut aktivitas air atau eksplorasi tempat wisata alam di Bali, bawa pakaian dan sepatu yang cocok itu penting banget. Tips lainnya kayak sunscreen, bawa payung atau nggak, tegangan listrik/colokan... detailnya cek di sini: [Bali Travel Essentials: 21 Barang Wajib Bawa](/blog/bali-travel-essentials/)
 
@@ -106,7 +106,7 @@ Kalau kamu bawa orang tua atau anak kecil, persiapan sebelum berangkat makin ngg
 
 ### 9. Kenali Karakter Masing-Masing Area:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6356a43e38fd4c13798ef054dd542006.png)
+![9. Kenali Karakter Masing-Masing Area:](https://images.gobaligo.id/vocus/vocus_6356a43e38fd4c13798ef054dd542006.png)
 
 Meskipun Bali nggak terlalu besar, setiap daerah punya ciri khas wisata yang beda banget. Kenali dulu keunikan tiap area di Bali, biar kamu bisa nemuin akomodasi yang cocok dengan selera dan kebutuhan liburanmu.
 
@@ -116,7 +116,7 @@ Setelah paham sedikit perbedaan tiap area, langsung aja pilih basecamp kamu dari
 
 ### 10. Akomodasi & Transportasi:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_be1215ff80c1c04f4739b07341c65c49.png)
+![10. Akomodasi & Transportasi:](https://images.gobaligo.id/vocus/vocus_be1215ff80c1c04f4739b07341c65c49.png)
 
 Bali itu destinasi wisata yang super populer, apalagi pas musim ramai. Makanya booking lebih awal biar liburanmu makin lancar. Untuk akomodasi, bisa lihat rekomendasi 300+ penginapan kami yang udah dibagi per zona, plus tema keluarga & bulan madu. Intinya, ini daftar penginapan anti-kecewa: "[Panduan Rekomendasi Akomodasi di Bali](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)"
 
@@ -164,7 +164,7 @@ Sebenarnya bulan apa sih waktu terbaik ke Bali? Musim kemarau biasanya berlangsu
 
 ### 15. Rekomendasi Tempat Wisata di Bali:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8a91a2159ba5f4964ed4c3f662098f5d.png)
+![15. Rekomendasi Tempat Wisata di Bali:](https://images.gobaligo.id/vocus/vocus_8a91a2159ba5f4964ed4c3f662098f5d.png)
 
 Bali punya '10 Spot Ikonik' yang wajib kamu kunjungi. Tempat-tempat ini benar-benar menampilkan budaya, pemandangan alam, dan pesona khas Bali, bikin kamu bisa merasakan keunikan Bali dalam waktu singkat. Selain itu, spot-spot ini juga jadi favorit buat foto-foto dan check-in, lho!
 
@@ -185,13 +185,13 @@ Setiap negara punya aplikasi yang beda-beda. Kalau kamu rencana liburan ke Indon
 
 ### 17. Itinerary Rancangan Ahli Wisata Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8eeed2c49e4d80410fa6844fe5acfee8.png)
+![17. Itinerary Rancangan Ahli Wisata Bali](https://images.gobaligo.id/vocus/vocus_8eeed2c49e4d80410fa6844fe5acfee8.png)
 
 Panduan itinerary paling worth it biar kamu bisa jalan-jalan santai tapi tetap puas, bahkan lebih banyak dari yang lain! Cek di sini: [Panduan Liburan Seru di Bali: Transportasi, Akomodasi, Tempat Wisata, Kuliner, Belanja, SPA, Nightlife — Semua Lengkap!](/blog/bali-free-travel-guide/)
 
 ### 18. Pantau Berita Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00c25a545869e8e2c4c2172ed512f261.png)
+![18. Pantau Berita Bali](https://images.gobaligo.id/vocus/vocus_00c25a545869e8e2c4c2172ed512f261.png)
 
 Ada beberapa alasan penting kenapa kamu perlu pantau berita Bali:
 
@@ -244,7 +244,7 @@ Kalau butuh link terbaru buat pendaftaran atau ada pertanyaan, cek di sini:
 
 Pertama kali ke Bali, ada beberapa opsi buat jemputan di bandara biar kamu sampai tujuan dengan lancar. Nih beberapa pilihan yang umum:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_af69234c1b871e47f94b6a3b032a1756.png)
+![21. Penjemputan di Bandara:](https://images.gobaligo.id/vocus/vocus_af69234c1b871e47f94b6a3b032a1756.png)
 
 1. **Layanan jemput hotel:**
 2. - Beberapa hotel di Bali punya layanan jemput. Kamu bisa tanya pas booking apakah mereka menyediakan ini. Ini pilihan yang praktis dan aman — hotel bakal jemput pake mobil khusus, jadi kamu nggak perlu pusing mikirin transportasi begitu sampai.
@@ -265,7 +265,7 @@ https://youtu.be/0fqEvAzAy9A
 
 ### 22. Masalah Pencernaan:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9bada757dd54b88e20b23272c92cd00a.png)
+![22. Masalah Pencernaan:](https://images.gobaligo.id/vocus/vocus_9bada757dd54b88e20b23272c92cd00a.png)
 
 Biar liburanmu tetap seru dan sehat, 'air minum' adalah hal pertama yang wajib kamu perhatikan begitu sampai di Bali! Di Bali, karena kualitas air lokal nggak bisa diminum langsung, sebaiknya hindari minum air keran biar nggak kena masalah perut yang parah. Kamu bisa dengan mudah beli air kemasan di supermarket, toko kecil, atau pinggir jalan. Kalau nggak sengaja kena juga gimana? Link di bawah ini kasih tips buat meredakan dengan cepat.
 
@@ -364,7 +364,7 @@ Buat kamu yang waktunya mepet atau males ribet ngatur itinerary sendiri, ikut tu
 - Aman dan terjamin: platform travel resmi, ada asuransi dan layanan lengkap
 - Booking instan: lewat aplikasi HP, langsung dapet konfirmasi
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d7641c00180a7f9f6448bbc934ec19fa.png)
+![30. Rekomendasi Tur Sehari Tanpa Pusing Mikir:](https://images.gobaligo.id/vocus/vocus_d7641c00180a7f9f6448bbc934ec19fa.png)
 
 Buat kamu yang baru pertama kali ke Bali atau pengen liburan santai, ikut satu atau dua tur harian Klook bisa jadi pelengkap seru tanpa bikin pusing atur-atur jadwal. Dijamin makin kaya pengalamanmu di Bali!
 
@@ -386,13 +386,13 @@ Ini beberapa tur harian mobil pribadi yang lagi hits:
 
 ### 31. Hindari 18 Kesalahan Umum Wisatawan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7d8713436ffa82cf25fb5f537d208897.jpg)
+![31. Hindari 18 Kesalahan Umum Wisatawan](https://images.gobaligo.id/vocus/vocus_7d8713436ffa82cf25fb5f537d208897.jpg)
 
 Saat liburan ke Bali, banyak wisatawan sering bikin kesalahan yang bisa mengganggu pengalaman traveling, bahkan buang-buang waktu dan uang. Nih, 18 kesalahan umum plus tips praktis biar liburanmu makin seru dan bebas drama. Cek langsung di 「[Panduan Anti Zonk di Bali: 18 Kesalahan & Tips](/blog/bali-travel-mistakes-tips/)」.
 
 ### 32. Cara Paling Santai Liburan – Pakai Jasa Travel Agent Profesional:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_955e9a4b7d4291ec8f7a27a262e7e48d.png)
+![32. Cara Paling Santai Liburan – Pakai Jasa Travel Agent Pro](https://images.gobaligo.id/vocus/vocus_955e9a4b7d4291ec8f7a27a262e7e48d.png)
 
 Meskipun merencanakan trip ke Bali sendiri itu seru dan bisa belajar banyak, tapi beneran paham seluk-beluk Bali nggak bisa cuma dalam 1-2 hari riset! Banyak anggota grup yang minta rekomendasi travel agent buat urus semuanya. Tinggal kasih budget dan tempat yang mau dikunjungi, urusan ribet lainnya diurusin sama ahlinya. Selama perjalanan, kamu bakal ditemenin sopir yang hafal jalan dan pemandu wisata Mandarin, jadi lebih hemat tenaga dan bebas atur waktu sesuai keinginan.
 

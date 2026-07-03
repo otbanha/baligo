@@ -35,7 +35,7 @@ _srcHash: 05b168659324b53fdf1ead9c0882e186
 
 最近这几年，越来越多游客发现了这个秘密。比起那些做给观光客看的伴手礼，从传统市场带回家的东西，反而更地道、更便宜、也更实用。其中最受欢迎的，就是**印尼香料**。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779287700843-artikel_201905120521_badungtraditionalmarket.jpg)
+![【巴厘岛深度旅游】走进当地传统市场：探寻真正的巴厘岛灵魂](https://images.gobaligo.id/images/2026-05/1779287700843-artikel_201905120521_badungtraditionalmarket.jpg)
 
 ## 连乌布都藏着一个你看不到的早市
 

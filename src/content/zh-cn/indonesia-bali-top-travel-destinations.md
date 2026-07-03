@@ -23,7 +23,7 @@ _srcHash: e4d35e6593daa2066e8c88584e4f8d29
 
 根据《CEOWORLD》杂志最新公布的「[2024年一生必去的国家](https://ceoworld.biz/2024/04/15/worlds-best-countries-to-visit-in-your-lifetime-2024/)」排行榜，泰国以72.15分高居榜首，希腊紧随其后，而我们最爱的**印尼**则以65.15分的亮眼成绩拿下**全球第三**！这份排名综合了文化吸引力、自然景观和整体旅游体验等指标，今天就让我们深入探讨这些梦幻目的地，并特别聚焦印尼——尤其是巴厘岛的独特魅力！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bb02d8340f07688f85e96e9ad74a13b6.jpg)
+![一生必去的15个国家：印尼巴厘岛为何成为全球第三？](https://images.gobaligo.id/vocus/vocus_bb02d8340f07688f85e96e9ad74a13b6.jpg)
 
 ---
 
@@ -35,7 +35,7 @@ _srcHash: e4d35e6593daa2066e8c88584e4f8d29
 4. **葡萄牙（64.32分）**：波尔图的酒香与里斯本的电车，欧洲性价比之选。
 5. **英国（60.53分）**：伦敦的古典与苏格兰的高地风情，文化爱好者的天堂。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2495e9c4fc826f35ce1505a4070ec856.png)
+![排行榜亮点速览](https://images.gobaligo.id/vocus/vocus_2495e9c4fc826f35ce1505a4070ec856.png)
 
 其他入选的还有南非（野生动物园！）、秘鲁（马丘比丘！）、意大利（美食与艺术！），而印度、法国、西班牙等经典目的地也纷纷上榜。
 
@@ -47,7 +47,7 @@ _srcHash: e4d35e6593daa2066e8c88584e4f8d29
 
 我们作为深耕巴厘岛旅游的博主，这次就来细数巴厘岛）的无敌优势：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e9d69d057faf60bdcc212332604619b.jpg)
+![为什么印尼能成为全球第三？巴厘岛的4大必去理由](https://images.gobaligo.id/vocus/vocus_2e9d69d057faf60bdcc212332604619b.jpg)
 
 ### 1. **自然与文化的双重盛宴**
 
@@ -57,7 +57,7 @@ _srcHash: e4d35e6593daa2066e8c88584e4f8d29
 
 ### 2. **性价比超高的奢华体验**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_56ab0ceda63196ea577a807d5be9054a.jpg)
+![2. 性价比超高的奢华体验](https://images.gobaligo.id/vocus/vocus_56ab0ceda63196ea577a807d5be9054a.jpg)
 
 比起欧美、台湾的高物价，巴厘岛能用一半的预算享受**五星级Villa、悬崖SPA、私人海滩晚餐**。推荐[水明漾（Seminyak）的私人泳池villa](/blog/2024-04-04-660e6e92fd89780001e6047e/)、[金巴兰Ayana岩石酒吧无敌日落](/blog/ayana-resort-bali-guide/)、[乌布（Ubud）的丛林美景酒店](/blog/ubud-villas-pool-guide/)、[努沙杜瓦（Nusa Dua）的五星度假村](/blog/nusa-dua-resorts-guide/)。
 

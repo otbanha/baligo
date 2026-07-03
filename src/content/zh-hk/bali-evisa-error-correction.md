@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: 266394f3096e0a18feabb33af1a471f0
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5560b9a7da5290e0882e25695ee01bd2.png)
+![印尼/峇里島電子簽證申請小插曲：點樣修改e-VOA資料錯誤？](https://images.gobaligo.id/vocus/vocus_5560b9a7da5290e0882e25695ee01bd2.png)
 
 近日，有一位名為Mike Chiu嘅團友喺申請印尼電子簽證（e-VOA）時遇到咗一啲問題。佢喺我哋嘅Facebook社團中詢問大家嘅意見。Mike表示，佢喺填寫申請表時，正確地將出生地輸入為“TAIWAN”，並且已經再次確認咗輸入嘅正確性。然而，當佢收到最後嘅電子簽證時，卻發現出生地被顯示為“Talwan”，“i”變咗“l”。Mike唔確定咁樣係咪可以，並詢問是否需要重新編輯申請或者應該點樣處理。
 
@@ -25,7 +25,7 @@ _srcHash: 266394f3096e0a18feabb33af1a471f0
 
 最終，Mike Chiu確實按照建議行事，並且好快收到咗官方嘅回覆，問題得以順利解決。呢次經歷提醒大家，喺申請簽證過程中，如果遇到類似嘅問題，可以透過聯繫官方來進行修改同確認，以免影響旅行計劃。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e14cb6937b166fd9b0d25c773930b373.png)
+![印尼/峇里島電子簽證申請小插曲：點樣修改e-VOA資料錯誤？](https://images.gobaligo.id/vocus/vocus_e14cb6937b166fd9b0d25c773930b373.png)
 
 ## 具體應該點樣做？
 
@@ -33,7 +33,7 @@ _srcHash: 266394f3096e0a18feabb33af1a471f0
 
 電子郵件往返最好能夠一針見血，讓人哋知道你嘅問題喺邊度。請依照下列格式喺email中檢附資訊，就能以最快嘅速度完成電子簽證上姓名、出生地...等等常見嘅錯誤：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_80450c2b7c5ff9cfb7b1177c97a2ec51.png)
+![具體應該點樣做？](https://images.gobaligo.id/vocus/vocus_80450c2b7c5ff9cfb7b1177c97a2ec51.png)
 
 預訂、慳錢就睇呢度：
 
@@ -57,7 +57,7 @@ _srcHash: 266394f3096e0a18feabb33af1a471f0
 
 如果你申請電子簽遇到問題，我哋喺度整理咗所有申請電子簽證時遇到嘅疑難雜症，希望可以幫你順利解決申請時嘅問題：[2024最新版印尼/峇里島入境簽證&電子簽證eVoA 填寫相關 FAQ](/blog/indonesia-bali-visa-evoa-faq/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b0b0ca8e3bd37264a24e891674da1e9.png)
+![其他申請電子簽證嘅問題](https://images.gobaligo.id/vocus/vocus_3b0b0ca8e3bd37264a24e891674da1e9.png)
 
 喺閱讀我哋嘅「峇里島自由行究極旅行攻略」之前，我哋誠摯邀請你先訂閱我哋更多視覺體驗分享嘅YouTube頻道「小傑 印尼」。[點擊呢度](http://bit.ly/youtube-jason)[，立即訂閱](http://bit.ly/youtube-jason)
 

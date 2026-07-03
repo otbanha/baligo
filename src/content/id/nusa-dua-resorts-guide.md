@@ -59,27 +59,27 @@ Dari sekian banyak resor di Nusa Dua, ada 16 yang diakui sebagai yang terbaik. Y
 
 ## Mulia Resort, Bali (🗺️[Lokasi Peta](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774507480318-unnamed_4_.webp)
+![Mulia Resort, Bali (Lokasi Peta)](https://images.gobaligo.id/images/2026-03/1774507480318-unnamed_4_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774507482794-unnamed_1_.webp)
+![Mulia Resort, Bali (Lokasi Peta)](https://images.gobaligo.id/images/2026-03/1774507482794-unnamed_1_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774507485382-unnamed_2_.webp)
+![Mulia Resort, Bali (Lokasi Peta)](https://images.gobaligo.id/images/2026-03/1774507485382-unnamed_2_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774507486200-2024-07-11.webp)
+![Mulia Resort, Bali (Lokasi Peta)](https://images.gobaligo.id/images/2026-03/1774507486200-2024-07-11.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774507487250-mulia_deli.webp)
+![Mulia Resort, Bali (Lokasi Peta)](https://images.gobaligo.id/images/2026-03/1774507487250-mulia_deli.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774507488701-unnamed_9_.webp)
+![Mulia Resort, Bali (Lokasi Peta)](https://images.gobaligo.id/images/2026-03/1774507488701-unnamed_9_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774507489611-unnamed_11_.webp)
+![Mulia Resort, Bali (Lokasi Peta)](https://images.gobaligo.id/images/2026-03/1774507489611-unnamed_11_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774507491102-unnamed_17_.webp)
+![Mulia Resort, Bali (Lokasi Peta)](https://images.gobaligo.id/images/2026-03/1774507491102-unnamed_17_.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774507496431-9d5cd0ab70caa0e4c39605cb63aedae2_large.jpeg)
+![Mulia Resort, Bali (Lokasi Peta)](https://images.gobaligo.id/images/2026-03/1774507496431-9d5cd0ab70caa0e4c39605cb63aedae2_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774507500553-423587cf2a05b1a8d7e9585ac5aa9b51_large.jpeg)
+![Mulia Resort, Bali (Lokasi Peta)](https://images.gobaligo.id/images/2026-03/1774507500553-423587cf2a05b1a8d7e9585ac5aa9b51_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774507503809-6532982_19013015410071862949_large.jpeg)
+![Mulia Resort, Bali (Lokasi Peta)](https://images.gobaligo.id/images/2026-03/1774507503809-6532982_19013015410071862949_large.jpeg)
 
 Mulia Resort, Bali pernah dua kali meraih penghargaan 'Hotel Terbaik Dunia' dari Condé Nast. Begitu kamu datang langsung, pasti paham kenapa.
 
@@ -95,25 +95,25 @@ The Mulia – Mulia Resort & Villas, baik fasilitas maupun pelayanannya, benar-b
 
 ## Grand Hyatt, Bali（🗺️[Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774507995583-539018096.jpg)
+![Grand Hyatt, Bali（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774507995583-539018096.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774507998969-539018072.jpg)
+![Grand Hyatt, Bali（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774507998969-539018072.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508000139-539018092.jpg)
+![Grand Hyatt, Bali（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508000139-539018092.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508003421-539018055.jpg)
+![Grand Hyatt, Bali（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508003421-539018055.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508006811-539018058.jpg)
+![Grand Hyatt, Bali（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508006811-539018058.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508007671-539018060.jpg)
+![Grand Hyatt, Bali（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508007671-539018060.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508008539-539018063.jpg)
+![Grand Hyatt, Bali（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508008539-539018063.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508009426-539018067.jpg)
+![Grand Hyatt, Bali（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508009426-539018067.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508010365-539018071.jpg)
+![Grand Hyatt, Bali（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508010365-539018071.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508011199-539018117.jpg)
+![Grand Hyatt, Bali（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508011199-539018117.jpg)
 
 Grand Hyatt Bali punya lebih dari 600 kamar, jadi kamu dan keluarga pasti punya banyak ruang buat bersantai.
 
@@ -127,25 +127,25 @@ Grand Hyatt Bali gak cuma kasih fasilitas hiburan yang lengkap, tapi juga bikin 
 
 ## The Westin Resort Nusa Dua（🗺️[Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508076564-494348065.jpg)
+![The Westin Resort Nusa Dua（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508076564-494348065.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508077316-429291714.jpg)
+![The Westin Resort Nusa Dua（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508077316-429291714.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508078195-435154005.jpg)
+![The Westin Resort Nusa Dua（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508078195-435154005.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508078990-429290465.jpg)
+![The Westin Resort Nusa Dua（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508078990-429290465.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508080151-429290513.jpg)
+![The Westin Resort Nusa Dua（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508080151-429290513.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508081345-475085698.jpg)
+![The Westin Resort Nusa Dua（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508081345-475085698.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508082516-494348072.jpg)
+![The Westin Resort Nusa Dua（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508082516-494348072.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508083267-504355293.jpg)
+![The Westin Resort Nusa Dua（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508083267-504355293.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508084040-526546323.jpg)
+![The Westin Resort Nusa Dua（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508084040-526546323.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508084801-552957828.jpg)
+![The Westin Resort Nusa Dua（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508084801-552957828.jpg)
 
 The Westin Resort Nusa Dua punya misi: 'memastikan setiap tamu pulang dengan perasaan lebih baik dari saat datang.' Dan mereka beneran menjalankannya. Di seluruh area resort, kamu bisa menikmati karya seni Bali yang indah banget.
 
@@ -163,25 +163,25 @@ The Westin Resort Nusa Dua — dari treatment, seni, sampai makanannya, semuanya
 
 ## The Apurva Kempinski Bali（🗺️[Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508286430-543684014.jpg)
+![The Apurva Kempinski Bali（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508286430-543684014.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508289823-543684026.jpg)
+![The Apurva Kempinski Bali（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508289823-543684026.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508291864-543684028.jpg)
+![The Apurva Kempinski Bali（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508291864-543684028.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508293365-543684038.jpg)
+![The Apurva Kempinski Bali（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508293365-543684038.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508296437-543684090.jpg)
+![The Apurva Kempinski Bali（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508296437-543684090.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508298250-543684092.jpg)
+![The Apurva Kempinski Bali（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508298250-543684092.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508299446-543684104.jpg)
+![The Apurva Kempinski Bali（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508299446-543684104.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508300923-595319338_1300862468749700_2611619189297659561_n.jpg)
+![The Apurva Kempinski Bali（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508300923-595319338_1300862468749700_2611619189297659561_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508302531-595674211_1300862328749714_405162077226449190_n.jpg)
+![The Apurva Kempinski Bali（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508302531-595674211_1300862328749714_405162077226449190_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508304746-596957666_1300862688749678_5350672461555478575_n.jpg)
+![The Apurva Kempinski Bali（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774508304746-596957666_1300862688749678_5350672461555478575_n.jpg)
 
 The Apurva Kempinski Bali adalah salah satu resort paling mewah di dunia. Resort tepi pantai ini punya fasilitas kolam renang yang super lengkap — mirip water park gitu! Plus, kamu juga bisa menikmati pantai pribadi.
 
@@ -203,25 +203,25 @@ The Apurva Kempinski Bali dengan fasilitas dan layanan yang nggak ada duanya, bi
 
 ## The St. Regis Bali Resort (🗺️[Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508424300-505756306.jpg)
+![The St. Regis Bali Resort (Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774508424300-505756306.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508426130-429823467.jpg)
+![The St. Regis Bali Resort (Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774508426130-429823467.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508428398-426599854.jpg)
+![The St. Regis Bali Resort (Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774508428398-426599854.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508430009-426599872.jpg)
+![The St. Regis Bali Resort (Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774508430009-426599872.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508431838-426599838.jpg)
+![The St. Regis Bali Resort (Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774508431838-426599838.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508433784-426599780.jpg)
+![The St. Regis Bali Resort (Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774508433784-426599780.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508435075-426599789.jpg)
+![The St. Regis Bali Resort (Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774508435075-426599789.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508437839-426599637.jpg)
+![The St. Regis Bali Resort (Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774508437839-426599637.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508439714-426599648.jpg)
+![The St. Regis Bali Resort (Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774508439714-426599648.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508441047-426599767.jpg)
+![The St. Regis Bali Resort (Lokasi di Peta)](https://images.gobaligo.id/images/2026-03/1774508441047-426599767.jpg)
 
 The St. Regis Bali Resort, resort pantai di Nusa Dua ini menawarkan layanan kelas dunia. Ada juga akses ke taman tropis yang rimbun dan laguna air asin yang luas, cocok banget buat berenang.
 
@@ -239,23 +239,23 @@ The St. Regis Bali Resort punya fasilitas kece dan pilihan akomodasi unik yang b
 
 ## The Ritz-Carlton Bali（🗺️[Lokasi di Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508547909-505756309.jpg)
+![The Ritz-Carlton Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774508547909-505756309.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508549036-505653821.jpg)
+![The Ritz-Carlton Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774508549036-505653821.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508551756-505655737.jpg)
+![The Ritz-Carlton Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774508551756-505655737.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508554831-433346540.jpg)
+![The Ritz-Carlton Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774508554831-433346540.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508566769-433346589.jpg)
+![The Ritz-Carlton Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774508566769-433346589.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508573330-505652311.jpg)
+![The Ritz-Carlton Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774508573330-505652311.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508580673-505652620.jpg)
+![The Ritz-Carlton Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774508580673-505652620.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508582258-505653052.jpg)
+![The Ritz-Carlton Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774508582258-505653052.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508584368-505653314.jpg)
+![The Ritz-Carlton Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774508584368-505653314.jpg)
 
 The Ritz-Carlton Bali adalah simbol kemewahan, seperti yang kamu bayangkan. Tempatnya dikelilingi pepohonan hijau rimbun dan menghadap langsung ke pantai.
 
@@ -273,31 +273,31 @@ The Ritz-Carlton Bali, dengan fasilitas mewah yang nggak ada duanya dan pelayana
 
 ## Sofitel Bali Nusa Dua Beach Resort（🗺️[Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508692124-424595623.jpg)
+![Sofitel Bali Nusa Dua Beach Resort（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508692124-424595623.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508696768-319415603.jpg)
+![Sofitel Bali Nusa Dua Beach Resort（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508696768-319415603.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508697767-652b5da0ed2fe79df720ba913d91ff71.webp)
+![Sofitel Bali Nusa Dua Beach Resort（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508697767-652b5da0ed2fe79df720ba913d91ff71.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508701191-527241831.jpg)
+![Sofitel Bali Nusa Dua Beach Resort（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508701191-527241831.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508703567-527241840.jpg)
+![Sofitel Bali Nusa Dua Beach Resort（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508703567-527241840.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508705598-548735767.jpg)
+![Sofitel Bali Nusa Dua Beach Resort（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508705598-548735767.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508709779-548735768.jpg)
+![Sofitel Bali Nusa Dua Beach Resort（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508709779-548735768.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508712946-657876026.jpg)
+![Sofitel Bali Nusa Dua Beach Resort（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508712946-657876026.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508713973-aja_p_6476-35_4by3.webp)
+![Sofitel Bali Nusa Dua Beach Resort（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508713973-aja_p_6476-35_4by3.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508716463-424595649.jpg)
+![Sofitel Bali Nusa Dua Beach Resort（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508716463-424595649.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508717667-424595774.jpg)
+![Sofitel Bali Nusa Dua Beach Resort（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508717667-424595774.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508721224-526325756.jpg)
+![Sofitel Bali Nusa Dua Beach Resort（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508721224-526325756.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508723224-526325770.jpg)
+![Sofitel Bali Nusa Dua Beach Resort（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508723224-526325770.jpg)
 
 Sofitel Bali Nusa Dua Beach Resort di Nusa Dua, Bali, adalah resort mewah dengan pantai pribadi dan salah satu vila tercantik yang pernah kami lihat.
 
@@ -311,25 +311,25 @@ Sofitel Bali Nusa Dua Beach Resort bikin setiap tamu merasakan kemewahan kelas a
 
 ## Paradisus by Meliá Bali（🗺️[Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508886625-311499483.jpg)
+![Paradisus by Meliá Bali（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508886625-311499483.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508890214-267098123.jpg)
+![Paradisus by Meliá Bali（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508890214-267098123.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508892742-490904852.jpg)
+![Paradisus by Meliá Bali（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508892742-490904852.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508895514-490905416.jpg)
+![Paradisus by Meliá Bali（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508895514-490905416.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508899226-932943410d616fc847acf5a66144d240_large.jpeg)
+![Paradisus by Meliá Bali（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508899226-932943410d616fc847acf5a66144d240_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508902346-fd6f9d2b7dc3f5aa1a0c3f1f18ed7801_large.jpeg)
+![Paradisus by Meliá Bali（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508902346-fd6f9d2b7dc3f5aa1a0c3f1f18ed7801_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508912908-4365fa9c0e1190f1a727c3b74b3faa73_large.jpeg)
+![Paradisus by Meliá Bali（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508912908-4365fa9c0e1190f1a727c3b74b3faa73_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508915014-10347_17101718200057899460_large.jpeg)
+![Paradisus by Meliá Bali（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508915014-10347_17101718200057899460_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508917654-40170718.jpg)
+![Paradisus by Meliá Bali（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508917654-40170718.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508920416-239057493.jpg)
+![Paradisus by Meliá Bali（Peta Lokasi）](https://images.gobaligo.id/images/2026-03/1774508920416-239057493.jpg)
 
 Hotel klasik di lokasi premium Nusa Dua ini baru aja mengalami upgrade dan renovasi besar-besaran:
 
@@ -354,25 +354,25 @@ Baca detailnya di sini: [【2026 Hotel Baru Nusa Dua】Paradisus by Meliá Bali 
 
 ## The Royal Santrian（🗺️[Lokasi Peta](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508997480-103696122.jpg)
+![The Royal Santrian（Lokasi Peta）](https://images.gobaligo.id/images/2026-03/1774508997480-103696122.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509001074-120394920.jpg)
+![The Royal Santrian（Lokasi Peta）](https://images.gobaligo.id/images/2026-03/1774509001074-120394920.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509003138-120394926.jpg)
+![The Royal Santrian（Lokasi Peta）](https://images.gobaligo.id/images/2026-03/1774509003138-120394926.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509004727-129550031.jpg)
+![The Royal Santrian（Lokasi Peta）](https://images.gobaligo.id/images/2026-03/1774509004727-129550031.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509006864-cd085909fd3db72c98147c66a795de5f_large.jpeg)
+![The Royal Santrian（Lokasi Peta）](https://images.gobaligo.id/images/2026-03/1774509006864-cd085909fd3db72c98147c66a795de5f_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509010104-d50a250566f104d999fce4075055a4dc_large.jpeg)
+![The Royal Santrian（Lokasi Peta）](https://images.gobaligo.id/images/2026-03/1774509010104-d50a250566f104d999fce4075055a4dc_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509012975-161722_17061713270053770577_large.jpeg)
+![The Royal Santrian（Lokasi Peta）](https://images.gobaligo.id/images/2026-03/1774509012975-161722_17061713270053770577_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509016666-161722_19071514130078117218_large.jpeg)
+![The Royal Santrian（Lokasi Peta）](https://images.gobaligo.id/images/2026-03/1774509016666-161722_19071514130078117218_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509018563-22346565.jpg)
+![The Royal Santrian（Lokasi Peta）](https://images.gobaligo.id/images/2026-03/1774509018563-22346565.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509023402-32973275.jpg)
+![The Royal Santrian（Lokasi Peta）](https://images.gobaligo.id/images/2026-03/1774509023402-32973275.jpg)
 
 Kemewahan resor pantai biasa susah banget ngalahin The Royal Santrian, resor all-villa yang satu ini.
 
@@ -386,25 +386,25 @@ The Royal Santrian punya pelayanan yang juara dan fasilitas mewah banget, bikin 
 
 ## Renaissance Bali Nusa Dua Resort（🗺️[Lokasi di Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509096260-465559699.jpg)
+![Renaissance Bali Nusa Dua Resort（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509096260-465559699.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509098361-491365932.jpg)
+![Renaissance Bali Nusa Dua Resort（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509098361-491365932.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509099375-493171534.jpg)
+![Renaissance Bali Nusa Dua Resort（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509099375-493171534.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509106401-493171541.jpg)
+![Renaissance Bali Nusa Dua Resort（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509106401-493171541.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509107931-465559623.jpg)
+![Renaissance Bali Nusa Dua Resort（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509107931-465559623.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509110952-465559636.jpg)
+![Renaissance Bali Nusa Dua Resort（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509110952-465559636.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509116231-465559649.jpg)
+![Renaissance Bali Nusa Dua Resort（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509116231-465559649.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509120720-465559656.jpg)
+![Renaissance Bali Nusa Dua Resort（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509120720-465559656.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509124107-465559660.jpg)
+![Renaissance Bali Nusa Dua Resort（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509124107-465559660.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509125868-465559662.jpg)
+![Renaissance Bali Nusa Dua Resort（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509125868-465559662.jpg)
 
 Beda sama resort lain, Renaissance Bali Nusa Dua Resort ini ada di atas bukit Nusa Dua, agak jauh dari pantai, jadi kayak tinggal di desa yang unik banget.
 
@@ -418,25 +418,25 @@ Renaissance Bali Nusa Dua Resort menawarkan pengalaman liburan yang beda berkat 
 
 ## Conrad Bali（🗺️[Lokasi di Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509194162-537596867.jpg)
+![Conrad Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509194162-537596867.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509209201-537596840.jpg)
+![Conrad Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509209201-537596840.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509210433-537596932.jpg)
+![Conrad Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509210433-537596932.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509212048-537596949.jpg)
+![Conrad Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509212048-537596949.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509214289-537596955.jpg)
+![Conrad Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509214289-537596955.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509215526-537597031_large.jpeg)
+![Conrad Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509215526-537597031_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509216356-492406244_large.jpeg)
+![Conrad Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509216356-492406244_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509217592-492406332_large.jpeg)
+![Conrad Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509217592-492406332_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509218459-492406466_large.jpeg)
+![Conrad Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509218459-492406466_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509219438-492407112_large.jpeg)
+![Conrad Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509219438-492407112_large.jpeg)
 
 Sebagai hotel mewah andalan Hilton, resort tepi pantai ini jelas keliatan kemewahannya.
 
@@ -450,25 +450,25 @@ Conrad Bali dengan desain khas dan pelayanan luar biasanya, bikin setiap tamu da
 
 ## Samabe Bali Suites & Villas（🗺️[Lokasi di Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509330003-493426516.jpg)
+![Samabe Bali Suites & Villas（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509330003-493426516.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509336455-498551037_large.jpeg)
+![Samabe Bali Suites & Villas（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509336455-498551037_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509338451-498551042.jpg)
+![Samabe Bali Suites & Villas（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509338451-498551042.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509340515-498552515_large.jpeg)
+![Samabe Bali Suites & Villas（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509340515-498552515_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509341746-498553558_large.jpeg)
+![Samabe Bali Suites & Villas（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509341746-498553558_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509346429-498555993_large.jpeg)
+![Samabe Bali Suites & Villas（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509346429-498555993_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509347581-498556562_large.jpeg)
+![Samabe Bali Suites & Villas（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509347581-498556562_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509348807-498558520_large.jpeg)
+![Samabe Bali Suites & Villas（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509348807-498558520_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509350191-512299086.jpg)
+![Samabe Bali Suites & Villas（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509350191-512299086.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509351677-519055473.jpg)
+![Samabe Bali Suites & Villas（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774509351677-519055473.jpg)
 
 Samabe Bali Suites & Villas adalah resort yang terletak di atas tebing, terkenal banget di kalangan lokal karena pelayanannya yang luar biasa.
 
@@ -476,7 +476,7 @@ Samabe Bali Suites & Villas adalah bagian dari grup ITDC (Indonesia Tourism Deve
 
 Di sini, kamu bisa pilih menginap di pool villa, suite penthouse, atau bahkan Royal Samabe Residence.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9e471d6e3d5b47266f335c900435dfcf.jpg)
+![Samabe Bali Suites & Villas（Lokasi di Google Maps）](https://images.gobaligo.id/vocus/vocus_9e471d6e3d5b47266f335c900435dfcf.jpg)
 
 Kolam renang infinity di sini bikin speechless, dan kami juga rekomendasiin kamu buat dinner di Samabe Cave. Samabe Cave Dining adalah tempat makan unik di dalam resort Samabe Bali Suites & Villas, berlokasi di gua alami yang menghadap ke laut lepas. Dari mulut gua, kamu bisa lihat pemandangan Samudra Hindia yang megah. Desain gua yang memukau dengan pencahayaan lembut bikin suasana makan jadi elegan dan romantis banget. Resto ini menyajikan masakan lokal Bali dan Asia, plus punya wine cellar kelas atas. Samabe Cave Dining dianggap sebagai salah satu restoran paling romantis dan unik di Bali, nggak cuma pemandangannya yang ciamik, tapi juga pelayanan ala butler pribadi yang perhatiin setiap kebutuhan tamu. Dengan latar pantai yang indah sambil menikmati hidangan dan wine, Samabe Cave Dining bikin liburanmu di Bali makin berkesan.
 
@@ -488,25 +488,25 @@ Samabe Bali Suites & Villas dengan pemandangan spektakuler dan pengalaman makan 
 
 ## REVIVO Wellness Resort（🗺️[Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509692493-152434382.jpg)
+![REVIVO Wellness Resort（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774509692493-152434382.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509698777-152434397.jpg)
+![REVIVO Wellness Resort（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774509698777-152434397.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509700540-152434400.jpg)
+![REVIVO Wellness Resort（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774509700540-152434400.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509704188-193402917.jpg)
+![REVIVO Wellness Resort（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774509704188-193402917.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509705449-226866276.jpg)
+![REVIVO Wellness Resort（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774509705449-226866276.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509708001-226866291.jpg)
+![REVIVO Wellness Resort（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774509708001-226866291.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509708654-4ff1dcec6fc2ed8cb83764b165a59d4e.jpeg)
+![REVIVO Wellness Resort（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774509708654-4ff1dcec6fc2ed8cb83764b165a59d4e.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509709387-59b6e49d3752e70b5a0fb94131042e24.jpeg)
+![REVIVO Wellness Resort（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774509709387-59b6e49d3752e70b5a0fb94131042e24.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509710312-152434361.jpg)
+![REVIVO Wellness Resort（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774509710312-152434361.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509711267-152434368.jpg)
+![REVIVO Wellness Resort（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774509711267-152434368.jpg)
 
 Salah satu cara terbaik menikmati liburan di Bali adalah dengan 'memanjakan diri sendiri'. Hidup modern penuh tekanan, jadi setelah lepas dari kerja, detox dan healing itu hal yang indah banget.
 
@@ -520,25 +520,25 @@ REVIVO Wellness Resort bikin setiap tamu bisa dapet energi baru dan ketenangan b
 
 ## Ayodya Resort（🗺️[Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509762690-83049821.jpg)
+![Ayodya Resort（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774509762690-83049821.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509767412-90365171.jpg)
+![Ayodya Resort（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774509767412-90365171.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509769760-199605958.jpg)
+![Ayodya Resort（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774509769760-199605958.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509772323-535827340.jpg)
+![Ayodya Resort（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774509772323-535827340.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509773639-536092371.jpg)
+![Ayodya Resort（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774509773639-536092371.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509774785-538708109.jpg)
+![Ayodya Resort（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774509774785-538708109.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509776932-538708178.jpg)
+![Ayodya Resort（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774509776932-538708178.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509778774-549239746.jpg)
+![Ayodya Resort（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774509778774-549239746.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509780989-549239843.jpg)
+![Ayodya Resort（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774509780989-549239843.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509782473-580740200.jpg)
+![Ayodya Resort（Lokasi di Peta）](https://images.gobaligo.id/images/2026-03/1774509782473-580740200.jpg)
 
 Resort cantik ini didesain dengan arsitektur khas Bali, pasti bikin siapa pun meleleh.
 
@@ -552,29 +552,29 @@ Ayodya Resort punya arsitektur yang unik banget, pengalaman kuliner yang oke, da
 
 ## Holiday Inn Resort, Nusa Dua an IHG Hotel（🗺️[Lokasi di Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509851964-kids_pool-new.jpg)
+![Holiday Inn Resort, Nusa Dua an IHG Hotel（Lokasi di Google M](https://images.gobaligo.id/images/2026-03/1774509851964-kids_pool-new.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509857328-photo1jpg.jpg)
+![Holiday Inn Resort, Nusa Dua an IHG Hotel（Lokasi di Google M](https://images.gobaligo.id/images/2026-03/1774509857328-photo1jpg.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509861657-b4fc78423e1a7d3387b368a11f486134_large.jpeg)
+![Holiday Inn Resort, Nusa Dua an IHG Hotel（Lokasi di Google M](https://images.gobaligo.id/images/2026-03/1774509861657-b4fc78423e1a7d3387b368a11f486134_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509864567-c19eacbf8110384e44e5ad45a00340fb_large.jpeg)
+![Holiday Inn Resort, Nusa Dua an IHG Hotel（Lokasi di Google M](https://images.gobaligo.id/images/2026-03/1774509864567-c19eacbf8110384e44e5ad45a00340fb_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509868041-1567aceae1fb0469f37eb60b23cf0b8d_large.jpeg)
+![Holiday Inn Resort, Nusa Dua an IHG Hotel（Lokasi di Google M](https://images.gobaligo.id/images/2026-03/1774509868041-1567aceae1fb0469f37eb60b23cf0b8d_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509869782-67452604.jpg)
+![Holiday Inn Resort, Nusa Dua an IHG Hotel（Lokasi di Google M](https://images.gobaligo.id/images/2026-03/1774509869782-67452604.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509872639-187015690.jpg)
+![Holiday Inn Resort, Nusa Dua an IHG Hotel（Lokasi di Google M](https://images.gobaligo.id/images/2026-03/1774509872639-187015690.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509877467-189409674.jpg)
+![Holiday Inn Resort, Nusa Dua an IHG Hotel（Lokasi di Google M](https://images.gobaligo.id/images/2026-03/1774509877467-189409674.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509878823-380283530.jpg)
+![Holiday Inn Resort, Nusa Dua an IHG Hotel（Lokasi di Google M](https://images.gobaligo.id/images/2026-03/1774509878823-380283530.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509881397-380283582.jpg)
+![Holiday Inn Resort, Nusa Dua an IHG Hotel（Lokasi di Google M](https://images.gobaligo.id/images/2026-03/1774509881397-380283582.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509883856-380283617.jpg)
+![Holiday Inn Resort, Nusa Dua an IHG Hotel（Lokasi di Google M](https://images.gobaligo.id/images/2026-03/1774509883856-380283617.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774509885348-380283620.jpg)
+![Holiday Inn Resort, Nusa Dua an IHG Hotel（Lokasi di Google M](https://images.gobaligo.id/images/2026-03/1774509885348-380283620.jpg)
 
 Resort yang keren ini bukan cuma tempat oke buat foto-foto Instagram, tapi juga cocok banget buat liburan keluarga.
 
@@ -588,25 +588,25 @@ Holiday Inn Resort, Nusa Dua an IHG Hotel punya fasilitas keluarga yang ramah da
 
 ## Grand Mirage Resort & Thalasso Bali（🗺️[Lokasi di Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774510036681-225830769.jpg)
+![Grand Mirage Resort & Thalasso Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774510036681-225830769.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774510038287-577464057.jpg)
+![Grand Mirage Resort & Thalasso Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774510038287-577464057.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774510039889-225829658.jpg)
+![Grand Mirage Resort & Thalasso Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774510039889-225829658.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774510041058-225830033.jpg)
+![Grand Mirage Resort & Thalasso Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774510041058-225830033.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774510042286-94391469.jpg)
+![Grand Mirage Resort & Thalasso Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774510042286-94391469.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774510042988-124993412.jpg)
+![Grand Mirage Resort & Thalasso Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774510042988-124993412.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774510044129-129846941.jpg)
+![Grand Mirage Resort & Thalasso Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774510044129-129846941.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774510044954-225829248.jpg)
+![Grand Mirage Resort & Thalasso Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774510044954-225829248.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774510046156-225829638.jpg)
+![Grand Mirage Resort & Thalasso Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774510046156-225829638.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774510048354-225829648.jpg)
+![Grand Mirage Resort & Thalasso Bali（Lokasi di Google Maps）](https://images.gobaligo.id/images/2026-03/1774510048354-225829648.jpg)
 
 Resort tepi pantai ini tempat liburan yang cantik banget. Kami suka banget sama fasilitas olahraga air dan playground anak-anaknya — dijamin kamu bakal senang banget di sini.
 

@@ -29,7 +29,7 @@ _srcHash: 160760cbe0a54d52e06446696eb1eae8
 
 乌鲁瓦图庙（Uluwatu Temple）已成为旅客们广为熟知的目的地，当地人称之为「Pura Luhur Uluwatu」。这座寺庙不仅提升了巴厘岛南部景点的知名度，更因其独特的地理位置与文化意义而备受推崇。寺庙坐落于97米高的悬崖之上，不仅是信徒的朝圣地，更提供了令人惊叹的壮丽景色，绝对会让你大开眼界。在这篇乌鲁瓦图庙旅游指南中，我将为你提供所有必备信息，帮助你更好地规划行程，包括门票价格、历史背景、参访时的穿着建议等。准备好展开一场冒险了吗？让我们开始吧！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0942869a24bc2de969579c4727678bef.jpg)
+![【巴厘岛景点】乌鲁瓦图庙情人崖全攻略：卡恰舞火舞抢票、落日卡位与野生猕猴避雷指南](https://images.gobaligo.id/vocus/vocus_0942869a24bc2de969579c4727678bef.jpg)
 
 ***
 
@@ -51,7 +51,7 @@ _srcHash: 160760cbe0a54d52e06446696eb1eae8
 
 因此，许多情侣会来到这里，一边欣赏壮丽的海景，一边为爱情祈福。特别是在日落时分，情人崖的浪漫气氛更是令人沉醉。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f1205c8b56146e8e887c4182b3cdb14.jpg)
+![为何又叫「情人崖」？](https://images.gobaligo.id/vocus/vocus_2f1205c8b56146e8e887c4182b3cdb14.jpg)
 
 ***
 
@@ -70,7 +70,7 @@ _srcHash: 160760cbe0a54d52e06446696eb1eae8
 
 当你踏入乌鲁瓦图寺，你将进入一个不同的世界——这里有令人屏息的美景，还有调皮的猴子。以下是你需要知道的信息，以确保你的参访安全且愉快。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a6b613c677f33ef44de0d9ba843cb008.jpg)
+![乌鲁瓦图庙的参访指南：入口、森林与猴子](https://images.gobaligo.id/vocus/vocus_a6b613c677f33ef44de0d9ba843cb008.jpg)
 
 1. **北门与南门的选择**
    无论你选择从北门还是南门进入，都会带你进入一片茂密的森林，这里生活着著名的长尾灰猴。两个入口相似，但如果你想快速到达主要景点，选择哪个入口都可以。只是要准备好，一进入就会遇到这些毛茸茸的朋友！
@@ -99,9 +99,9 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 3. **「乌鲁瓦图」名字的意义**
    「乌鲁瓦图」这个名字源自梵语，「Ulu」意为「尖端」或「尽头」，「Watu」意为「石头」或「悬崖」。因此，乌鲁瓦图的意思是「悬崖的边缘」，非常符合这座寺庙的地理位置。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cbc08e1711f806a3dc723f3ad3f4e928.jpg)
+![乌鲁瓦图庙的独特风景与建筑](https://images.gobaligo.id/vocus/vocus_cbc08e1711f806a3dc723f3ad3f4e928.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6d11065583fa43ec011666c8b8938d2c.jpg)
+![乌鲁瓦图庙的独特风景与建筑](https://images.gobaligo.id/vocus/vocus_6d11065583fa43ec011666c8b8938d2c.jpg)
 
 ***
 
@@ -116,9 +116,9 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 > 快速参考：[【掌握巴厘岛日落时间最佳观赏指南】七大巴厘岛日落观赏地点，你去过几个？](/blog/bali-sunset-spots-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_83bd89800dff26aa55bcb32163b06b3b.jpg)
+![乌鲁瓦图庙的日落美景](https://images.gobaligo.id/vocus/vocus_83bd89800dff26aa55bcb32163b06b3b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a3357e6294ca9b8324ea49d03103abbb.jpg)
+![乌鲁瓦图庙的日落美景](https://images.gobaligo.id/vocus/vocus_a3357e6294ca9b8324ea49d03103abbb.jpg)
 
 ***
 
@@ -133,7 +133,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 - **门票**：进入乌鲁瓦图庙需要支付门票费用，建议提前在网上查询最新价格。目前国际游客的门票价格为成人60,000印尼盾，6至12岁儿童40,000印尼盾，6岁以下儿童免费入场。此门票费用不包含卡洽火舞表演的入场费。印尼本地游客可享有小幅折扣，成人票价为30,000印尼盾，儿童票价为15,000印尼盾。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_937f3b037d46adb49c30bb19a624a580.jpg)
+![乌鲁瓦图庙的门票与凯卡克舞表演信息](https://images.gobaligo.id/vocus/vocus_937f3b037d46adb49c30bb19a624a580.jpg)
 
 - **卡洽舞表演**：每天傍晚6:00至7:00及7:00至8:00有两场表演，建议提前抵达以占据最佳观赏位置。目前舞蹈表演的门票为每人150,000印尼盾。
 - **优惠票**：卡洽火舞优惠票[这里买](https://affiliate.klook.com/redirect?aid=116349&aff_adid=983750&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21638-uluwatu-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D83f53db339)！

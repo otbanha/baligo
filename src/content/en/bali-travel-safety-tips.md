@@ -23,7 +23,7 @@ _srcHash: b6b89da103ad2d0a76d65f01a67fea2d
 
 Bali has long been considered the 'backyard' of Australians, offering proximity, affordable flights, and pleasant weather, making it a top holiday destination for countless Australians. Whether seeking sunny beaches, yoga retreats, or experiencing Balinese culture and cuisine, this tropical island never fails to captivate. However, with the resurgence of tourism, issues related to risk management in Bali have gradually come to the forefront.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a8482d650034dd649a7101c96aa6b294.jpg)
+![Essential Reading Before Visiting Bali: Coastal Risks, Visa ](https://images.gobaligo.id/vocus/vocus_a8482d650034dd649a7101c96aa6b294.jpg)
 
 To ensure a safe trip for every traveler, the Australian government's SmartTraveller advisory has compiled the latest Bali travel information, including coastal safety, volcanic activity, entry requirements, and drink risks. Whether it's your first visit or you're a seasoned traveler, this practical guide will help you prepare for a safe and enjoyable exploration of Bali. Below are the latest travel updates and safety reminders you shouldn't overlook:
 
@@ -33,7 +33,7 @@ To ensure a safe trip for every traveler, the Australian government's SmartTrave
 
 Recently, there have been several unfortunate drowning incidents involving Australian tourists in Bali or other parts of Indonesia, primarily occurring at popular beaches such as Canggu, Uluwatu, and Seminyak.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5eff44ed33e1986993b8af3c27e0cef4.jpg)
+![Beach Risks: Strong Currents and High Wave Warnings](https://images.gobaligo.id/vocus/vocus_5eff44ed33e1986993b8af3c27e0cef4.jpg)
 
 ### **Key Risks:**
 
@@ -58,7 +58,7 @@ Indonesia has stringent entry management, especially regarding passport conditio
 - Valid for at least 6 months from the date of entry.
 - Free from damage, water stains, torn pages, or other significant wear.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1f7cd67badfa231d12a134cace300513.jpg)
+![Passports Must Meet the Following Criteria:](https://images.gobaligo.id/vocus/vocus_1f7cd67badfa231d12a134cace300513.jpg)
 
 If in doubt, renew your passport before departure to avoid being denied entry or even having to return home immediately.
 
@@ -72,7 +72,7 @@ The Bali Provincial Government has issued guidelines for foreign tourists to fol
 - Do not climb or take inappropriate photos of sacred structures.
 - Avoid excessive drinking or disorderly behavior in public places.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_58494b23c4192b1671ed180bc044af9d.jpg)
+![Respect Local Culture and Laws](https://images.gobaligo.id/vocus/vocus_58494b23c4192b1671ed180bc044af9d.jpg)
 
 Authorities have recently strengthened law enforcement, and violations may result in fines, deportation, or even criminal charges.
 
@@ -80,7 +80,7 @@ Authorities have recently strengthened law enforcement, and violations may resul
 
 ## **Volcanic Activity: Flights May Be Affected**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d2f54d7d9872520bf06d8114c5e590a7.jpg)
+![Volcanic Activity: Flights May Be Affected](https://images.gobaligo.id/vocus/vocus_d2f54d7d9872520bf06d8114c5e590a7.jpg)
 
 Recent activity at Mt Lewotobi Laki-Laki volcano, though not located on Bali itself, may potentially affect flights due to volcanic ash.
 
@@ -96,7 +96,7 @@ Recent activity at Mt Lewotobi Laki-Laki volcano, though not located on Bali its
 
 There have been cases in Bali where drinks were spiked or contained illegal methanol (methanol), leading to poisoning and, in some instances, fatalities.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d366969754755a10908c9de7fd921078.jpg)
+![Alcohol Risks: Preventing Poisoning or Methanol Contaminatio](https://images.gobaligo.id/vocus/vocus_d366969754755a10908c9de7fd921078.jpg)
 
 ### **Prevention Tips:**
 

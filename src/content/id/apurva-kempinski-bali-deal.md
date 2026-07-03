@@ -28,7 +28,7 @@ Kalau kamu lagi cari **promo hotel bintang lima di Bali**, akhir-akhir ini ada p
 
 Resort mewah The Apurva Kempinski Bali di Nusa Dua punya harga spesial terbatas, **mulai dari USD$349 per malam**, udah termasuk sarapan dan teh sore. Lewat pemesanan di sini, **kamu juga dapet bonus bebas pajak turis Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_33659c491db9821772fe0b9e2999c6bf.jpg)
+![The Apurva Kempinski Bali 限時促銷！ USD$349 入住五星飯店，含早餐＋下午茶](https://images.gobaligo.id/vocus/vocus_33659c491db9821772fe0b9e2999c6bf.jpg)
 
 Buat traveler yang pengin merasakan liburan mewah di Bali, harga ini bener-bener jarang banget ada.
 
@@ -107,13 +107,13 @@ The Apurva Kempinski Bali bisa dibilang salah satu resort bintang lima yang pali
 
 Tangga megah dan desain air mancur di pintu masuk hotel ini benar-benar bikin speechless. Banyak tamu yang pertama kali masuk lobby langsung merasa "kayak istana" banget.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b2c6dd4d64edfb27d9a59fc360146e46.jpg)
+![1⃣ Salah Satu Arsitektur Hotel Paling Spektakuler di Bali](https://images.gobaligo.id/vocus/vocus_b2c6dd4d64edfb27d9a59fc360146e46.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0ae99415650fae4cc93da41258861288.jpg)
+![1⃣ Salah Satu Arsitektur Hotel Paling Spektakuler di Bali](https://images.gobaligo.id/vocus/vocus_0ae99415650fae4cc93da41258861288.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5037d4181b4843d1402440636aaa2bcb.jpg)
+![1⃣ Salah Satu Arsitektur Hotel Paling Spektakuler di Bali](https://images.gobaligo.id/vocus/vocus_5037d4181b4843d1402440636aaa2bcb.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_48c7cc7bc07742ffc352eadce74c52a1.jpg)
+![1⃣ Salah Satu Arsitektur Hotel Paling Spektakuler di Bali](https://images.gobaligo.id/vocus/vocus_48c7cc7bc07742ffc352eadce74c52a1.jpg)
 
 ## 2️⃣ Pemandangan Tebing Laut di Nusa Dua
 
@@ -135,25 +135,25 @@ Tapi perlu diingat, promo kayak gini biasanya punya **kebijakan non-refundable**
 
 Kalau jadwal udah pasti, pakai harga segini buat ngerasain resort bintang lima sebenernya lumayan worth it sih.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_19d07c063a34a6a3f66c1b7738e56e1a.jpg)
+![Observasi Liburan di Bali](https://images.gobaligo.id/vocus/vocus_19d07c063a34a6a3f66c1b7738e56e1a.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9eb0670415cc57a9b35245d39769bf37.jpg)
+![Observasi Liburan di Bali](https://images.gobaligo.id/vocus/vocus_9eb0670415cc57a9b35245d39769bf37.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e2c54d836c5c2c5e0e464e79857d4241.jpg)
+![Observasi Liburan di Bali](https://images.gobaligo.id/vocus/vocus_e2c54d836c5c2c5e0e464e79857d4241.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dda9a12566442ff8f2c06d7ac0e585e3.jpg)
+![Observasi Liburan di Bali](https://images.gobaligo.id/vocus/vocus_dda9a12566442ff8f2c06d7ac0e585e3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ea14bbc58b3483b771c8f7f341641297.jpg)
+![Observasi Liburan di Bali](https://images.gobaligo.id/vocus/vocus_ea14bbc58b3483b771c8f7f341641297.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d3343477e91ad3fc975a859517612ee8.jpg)
+![Observasi Liburan di Bali](https://images.gobaligo.id/vocus/vocus_d3343477e91ad3fc975a859517612ee8.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_97014a532ae072a7353ed84d4de00453.jpg)
+![Observasi Liburan di Bali](https://images.gobaligo.id/vocus/vocus_97014a532ae072a7353ed84d4de00453.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_10f5bf0f2e443a37f18dcaa1d0e61f4b.jpg)
+![Observasi Liburan di Bali](https://images.gobaligo.id/vocus/vocus_10f5bf0f2e443a37f18dcaa1d0e61f4b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_109ae1e8bae39cc9c36aa072d7cf536f.jpg)
+![Observasi Liburan di Bali](https://images.gobaligo.id/vocus/vocus_109ae1e8bae39cc9c36aa072d7cf536f.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_896b96bc68a66ab60d55c0e4e8f689fc.jpg)
+![Observasi Liburan di Bali](https://images.gobaligo.id/vocus/vocus_896b96bc68a66ab60d55c0e4e8f689fc.jpg)
 
 Yang paling bikin penasaran dari hotel ini adalah restoran akuarium legendaris, KORAL. Terletak di lantai dasar, restoran ini punya akuarium raksasa yang mengelilingi ruangan — tempat duduk box-nya bikin kamu bisa lihat ikan tropis berenang pelan, efek visualnya bikin merinding gemas. Waktu pesan menu "KORAL Exploration", setiap hidangannya kreatif banget, plating-nya cantik, pakai bahan lokal segar, rasanya ringan dan menyegarkan. Selain menu utama, croissant sebelum makan dan salad campur dengan vinaigrette juga bikin kagum — enak banget buat pembuka.
 

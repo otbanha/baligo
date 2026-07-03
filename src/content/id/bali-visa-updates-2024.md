@@ -22,7 +22,7 @@ _srcHash: d68b71ba12072d3f009e6af480797319
 
 Imigrasi Indonesia baru-baru ini mengumumkan perubahan besar dalam kebijakan visa, yang bertujuan untuk memberantas aktivitas ilegal dan menyederhanakan proses pengajuan visa. Kategori visa yang sebelumnya rumit akan digabungkan, memberikan kerangka sistem yang lebih jelas dan seragam.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_64d9be4decc22cde17ee06eb3a9c4b74.png)
+![Imigrasi Indonesia Klarifikasi Aturan Baru Visa Bali: Wajib ](https://images.gobaligo.id/vocus/vocus_64d9be4decc22cde17ee06eb3a9c4b74.png)
 
 ### **Detail Penggabungan Kategori Visa**
 
@@ -67,7 +67,7 @@ Selain itu, dua visa baru ditambahkan untuk lembaga non-sponsor perusahaan:
 
 ## **eVoA (Electronic Visa on Arrival): Perubahan Baru dalam Sistem Perpanjangan**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_899aeed13fc6814f83802e4104d0f103.png)
+![eVoA (Electronic Visa on Arrival): Perubahan Baru dalam Sist](https://images.gobaligo.id/vocus/vocus_899aeed13fc6814f83802e4104d0f103.png)
 
 Seiring digitalisasi proses imigrasi Indonesia, **eVoA (Electronic Visa on Arrival)** menjadi salah satu cara masuk wisata yang paling praktis dan umum, terutama cocok untuk wisatawan internasional yang menuju destinasi wisata seperti **Bali**.
 

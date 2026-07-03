@@ -31,7 +31,7 @@ _srcHash: f08cba94a12f9054160bb62788fdb4c9
 
 ## **巴厘岛犯罪率创下历史新低**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_26c345dd21b57218a13b8b59094e84af.jpg)
+![巴厘岛犯罪率创下历史新低](https://images.gobaligo.id/vocus/vocus_26c345dd21b57218a13b8b59094e84af.jpg)
 
 2024年，巴厘岛的犯罪率仅 **0.07%**，成为全印尼最低纪录。相比2022年的 **0.20%**，数据持续下滑，显示当地治安正逐年改善。
 
@@ -73,7 +73,7 @@ _srcHash: f08cba94a12f9054160bb62788fdb4c9
 
 ## **常见问题 FAQ**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_03141a4e39b1177082670e3423f755ac.png)
+![常见问题 FAQ](https://images.gobaligo.id/vocus/vocus_03141a4e39b1177082670e3423f755ac.png)
 
 ### **1. 巴厘岛对外国游客来说安全吗？**
 

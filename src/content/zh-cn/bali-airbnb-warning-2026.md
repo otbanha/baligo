@@ -24,7 +24,7 @@ _srcHash: bbc98a204fe77f471be4f6914e135336
 你是不是也习惯这样？
 打开 Airbnb，找到一间超美的巴厘岛泳池别墅，价格比酒店便宜一半，二话不说直接付款。然后心情愉快地倒数出发日……
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7bfbbcea9b14e9d87a3cf1605faa4429.jpg)
+![去巴厘岛千万别急着订 Airbnb！2026 年三月底这件事可能让你的旅程瞬间崩盘](https://images.gobaligo.id/vocus/vocus_7bfbbcea9b14e9d87a3cf1605faa4429.jpg)
 
 先等等。2026 年，这个习惯可能让你白白损失一笔订金，甚至到了当地才发现「**你订的那间根本不能入住**」。
 
@@ -62,7 +62,7 @@ _srcHash: bbc98a204fe77f471be4f6914e135336
 
 ## 我们的建议
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b60a90290551cc0591b557f9259371a7.jpg)
+![我们的建议](https://images.gobaligo.id/vocus/vocus_b60a90290551cc0591b557f9259371a7.jpg)
 
 3 月底到 6 月这段过渡期，是巴厘岛 Airbnb 市场最混乱的时候。如果你的巴厘岛行程就在这段时间，我真的建议谨慎一点。
 不是要你不去，是要你去得安心。

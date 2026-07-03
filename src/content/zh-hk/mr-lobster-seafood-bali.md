@@ -19,7 +19,7 @@ lang: zh-hk
 _srcHash: e8e5b386eb1fcbb815f25a8a5815a559
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3dc7be54d646651c0baffd85a2b0e7c2.jpg)
+![探索峇里島嘅美味寶藏：龍蝦先生 Mr. Lobster 海鮮餐廳](https://images.gobaligo.id/vocus/vocus_3dc7be54d646651c0baffd85a2b0e7c2.jpg)
 
 當你嚟到峇里島，除咗欣賞美麗嘅海景同享受陽光沙灘外，一定唔可以錯過嘅係呢度嘅美食。今日我要介紹嘅係一間令你垂涎欲滴嘅海鮮餐廳——龍蝦先生 Mr. Lobster 海鮮餐廳。
 
@@ -51,13 +51,13 @@ _srcHash: e8e5b386eb1fcbb815f25a8a5815a559
 
 ## Mr Lobster 坎古 分店（2025/7開幕，目前裝修中）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_adc8f803a5987f7d3df34ca6da8de9cb.jpg)
+![Mr Lobster 坎古 分店（2025/7開幕，目前裝修中）](https://images.gobaligo.id/vocus/vocus_adc8f803a5987f7d3df34ca6da8de9cb.jpg)
 
 位於坎古嘅南邊，近住 Café del Mar Beach Club，地址：Jl. Subak sari, tibubeneng, kec. Kuta utara, badung, Bali, 80361
 
 ## Mr Lobster 南灣店（2025/9開幕）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f5804e7062fa15e6aa013cbd08fcd74.png)
+![Mr Lobster 南灣店（2025/9開幕）](https://images.gobaligo.id/vocus/vocus_2f5804e7062fa15e6aa013cbd08fcd74.png)
 
 地址：Jl. Pratama No.83, tanjung, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361
 

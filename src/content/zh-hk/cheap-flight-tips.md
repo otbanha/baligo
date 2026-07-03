@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: b7d298afc91cd20f529e0a54eeb67892
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5087195a099cef79d6a435a90cc7dab6.png)
+![機票咁樣買最抵！5大秘訣幫你慳25%費用，提早半年訂反而蝕底！](https://images.gobaligo.id/vocus/vocus_5087195a099cef79d6a435a90cc7dab6.png)
 
 旅行嗰陣，大家都希望買到平機票，咁就可以慳多啲錢喺當地消費同購物。但點先可以買到平機票呢？《香港01》嘅記者從Expedia最近發佈嘅《2025年航空旅遊秘訣》年度報告中，總結咗5個買機票嘅常見誤區同技巧。報告指出，喺出發前7到22日訂購機票，比提早4到5個月訂購可以慳26%嘅費用！想知更多細節，就繼續睇落去啦！
 
@@ -32,13 +32,13 @@ _srcHash: b7d298afc91cd20f529e0a54eeb67892
 5. **經濟艙機票價格可能會下降**  
    好多人以為機票價格只會上升，但其實2024年經濟艙嘅平均機票價格比2023年下降咗2%，所以機票價格並非只升不降，有時都會有減價嘅機會。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9d846273f892c959fd676197c3d3b986.png)
+![機票咁樣買最抵！5大秘訣幫你慳25%費用，提早半年訂反而蝕底！](https://images.gobaligo.id/vocus/vocus_9d846273f892c959fd676197c3d3b986.png)
 
 希望呢啲小技巧可以幫你喺下次旅行時買到更平嘅機票，慳到嘅錢可以用嚟享受更多嘅當地美食同購物樂趣！
 
 ## 📩 **立即加入「峇里島旅遊攻略」成為峇里島旅遊達人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd2d57030eb68a654cb046f1ac9deeab.jpg)
+![立即加入「峇里島旅遊攻略」成為峇里島旅遊達人！](https://images.gobaligo.id/vocus/vocus_fd2d57030eb68a654cb046f1ac9deeab.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

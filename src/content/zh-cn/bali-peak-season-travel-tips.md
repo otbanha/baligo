@@ -19,7 +19,7 @@ _srcHash: 06765aa498bec0876207dbffcdfae17b
 
 巴厘岛是许多旅人心目中的度假胜地，结合热带风情与独特文化，吸引无数人前往体验。不过，选择适当的旅游时节对于旅游品质和预算控制来说，也是相当重要的考量。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3ca684e28f6adcd444bf1c7f57779da7.png)
+![巴厘岛居然有五个旅游旺季！如何避开旺季聪明旅游？](https://images.gobaligo.id/vocus/vocus_3ca684e28f6adcd444bf1c7f57779da7.png)
 
 避开巴厘岛的旅游旺季，不仅可以省下机票、住宿等预算，还能享受更宁静的旅游体验，绝对是个明智之举。那么，到底什么时候是巴厘岛的旺季呢？一般而言，降雨几率较低的旱季，大约每年的四月至九月，是巴厘岛最适合旅行的时候，也因此成为当地旅游的旺季。虽然雨季的天气或许不那么理想，但却能体验巴厘岛另一种面貌，并享受减价的机票和住宿优惠。
 
@@ -66,7 +66,7 @@ _srcHash: 06765aa498bec0876207dbffcdfae17b
 
 ## 规划巴厘岛行程的小技巧
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_be3dc9da4b6f8d496248866a010c16d9.png)
+![规划巴厘岛行程的小技巧](https://images.gobaligo.id/vocus/vocus_be3dc9da4b6f8d496248866a010c16d9.png)
 
 > 延伸阅读：
 
@@ -82,7 +82,7 @@ _srcHash: 06765aa498bec0876207dbffcdfae17b
 
 ## 📩 **立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **通过免费订阅，你将获得：**
 

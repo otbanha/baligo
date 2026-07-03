@@ -14,7 +14,7 @@ _srcHash: 65cafecc8491186ccc8c998fb16bd6c0
 
 ## 峇里島螢火蟲花園榮獲生態旅遊大獎
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e0baadbdee967562986d7a819549be8b.jpg)
+![峇里島螢火蟲花園榮獲生態旅遊大獎](https://images.gobaligo.id/vocus/vocus_e0baadbdee967562986d7a819549be8b.jpg)
 
 峇里島塔羅村（Taro Village）內嘅螢火蟲花園，又名「螢火蟲保育之家」，近日榮獲印尼建國80週年慶典中嘅生態旅遊獎項。呢個由當地居民創立嘅景點，以其環境保育與社區參與獲得高度讚譽。
 
@@ -22,9 +22,9 @@ _srcHash: 65cafecc8491186ccc8c998fb16bd6c0
 
 ## 保育與旅遊並行嘅典範
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3d7022976ea005fa26f775014ebf0974.jpg)
+![保育與旅遊並行嘅典範](https://images.gobaligo.id/vocus/vocus_3d7022976ea005fa26f775014ebf0974.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8d0cf183d7ade2531fe06e968399fcc4.jpg)
+![保育與旅遊並行嘅典範](https://images.gobaligo.id/vocus/vocus_8d0cf183d7ade2531fe06e968399fcc4.jpg)
 
 螢火蟲被視為環境健康嘅生物指標，對污染極為敏感。花園內設有小型實驗室，專注研究螢火蟲嘅繁殖、生命周期與行為，同時推廣有機農業，減少化學農藥使用。管理者瓦爾迪卡（Wayan Wardika）更希望透過與農民合作，將螢火蟲嘅活動半徑擴大至2公里，需要27公頃嘅農地先可以達成此目標。
 

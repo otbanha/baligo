@@ -21,13 +21,13 @@ lang: zh-hk
 _srcHash: 37de016d634520b4c9430a03a630f836
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_58deb853e5219dd7c4a2a06f4c88a79f.jpg)
+![峇里島遊記｜你所不知道嘅印尼峇里島瀑布秘密！｜烏布景點老司機帶路 賞瀑布免鐵腿｜離烏布最近嘅瀑布 Tegenungan ](https://images.gobaligo.id/vocus/vocus_58deb853e5219dd7c4a2a06f4c88a79f.jpg)
 
 峇里島烏布景點 Tegenungan Waterfall 係距離烏布市區最近嘅天然瀑布，雖然只要25分鐘車程，但係陡峭嘅160級階梯令好多人都大喊頂唔順，旅程連續鐵腿幾日。我哋帶你去觀賞Tegenungan瀑布最佳嘅點，保證最輕鬆欣賞到最美嘅瀑布景觀！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_853581166b88f30517fe98257f29d396.jpg)
+![峇里島遊記｜你所不知道嘅印尼峇里島瀑布秘密！｜烏布景點老司機帶路 賞瀑布免鐵腿｜離烏布最近嘅瀑布 Tegenungan ](https://images.gobaligo.id/vocus/vocus_853581166b88f30517fe98257f29d396.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1a2df74d4a69179ac863494fea4f869d.jpg)
+![峇里島遊記｜你所不知道嘅印尼峇里島瀑布秘密！｜烏布景點老司機帶路 賞瀑布免鐵腿｜離烏布最近嘅瀑布 Tegenungan ](https://images.gobaligo.id/vocus/vocus_1a2df74d4a69179ac863494fea4f869d.jpg)
 
 喺烏布嘅青山綠水中，有一個令人嘆為觀止嘅瑰寶，就係Tegenungan Waterfall。呢個位於烏布附近嘅瀑布，成咗探索烏布自然美景嘅最佳起點。
 

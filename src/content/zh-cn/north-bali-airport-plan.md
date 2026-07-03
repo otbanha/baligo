@@ -22,7 +22,7 @@ _srcHash: 57c79bc601a3143facb222c7d6ef2304
 
 ### 巴厘岛南部的观光压力分析
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ddcf2efb5bdc04fff77367001f49ae77.jpg)
+![巴厘岛南部的观光压力分析](https://images.gobaligo.id/vocus/vocus_ddcf2efb5bdc04fff77367001f49ae77.jpg)
 
 巴厘岛南部集中了大量的观光资源和设施，尤其是库塔、水明漾和金巴兰等热门景点，随着游客数量激增，当地的交通拥堵问题日益严重。这些地区的居民长期受到高密度旅游活动的影响，生态环境也面临压力，如何有效分散人流成为政府亟待解决的难题。
 
@@ -48,7 +48,7 @@ _srcHash: 57c79bc601a3143facb222c7d6ef2304
 
 ### 新机场的可能挑战
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3aa1251d09e91877d2c9603f0930a0c4.png)
+![新机场的可能挑战](https://images.gobaligo.id/vocus/vocus_3aa1251d09e91877d2c9603f0930a0c4.png)
 
 建设新机场的过程中，可能面临从资金筹措到执行的多方面挑战。更重要的是，北部机场是否真的能有效分散南部的观光人潮，仍是一个未知数。
 
@@ -74,7 +74,7 @@ _srcHash: 57c79bc601a3143facb222c7d6ef2304
 
 ## 📩 **立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **通过免费订阅，你将获得：**
 

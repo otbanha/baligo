@@ -39,7 +39,7 @@ When people think of Bali, most imagine endless blue oceans, golden sunsets on s
 
 There, hidden away from most tourists, lies a fantastic world—**Bali Reptile Park**.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780413643143-unnamed_5_.webp)
+![【Bali Family Attractions】Bali Reptile Park Guide: Get Up Clo](https://images.gobaligo.id/images/2026-06/1780413643143-unnamed_5_.webp)
 
 This is more than just a zoo; it's a living museum that condenses the reptile ecology of the Indonesian archipelago. Even better, it's **right next to Bali Bird Park**, sharing the same parking lot. Just a few steps and you can switch scenes, from the 'silent world of reptiles' to the 'colorful paradise of birds.' With good timing, you can easily enjoy two distinct yet equally wonderful animal kingdoms in one go.
 
@@ -59,7 +59,7 @@ Without these main characters, even the best setting would be just an empty shel
 
 1. **Komodo Dragon**: Undoubtedly the crown jewel of the park!
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780413770216-1.jpeg)
+![An Unmissable Lineup of 'Star Animals'](https://images.gobaligo.id/images/2026-06/1780413770216-1.jpeg)
 
 ```plain
 這是全世界現存最大的蜥蜴，成年體長可達 3 公尺，體重超過 70 公斤。牠們是印尼的國寶級動物，僅分布在科莫多島、林卡島等少數幾個島嶼。在專業飼育員的陪伴與解說下，你可以隔著玻璃近距離觀察牠們如何吐著分岔的舌頭探測氣味，那威嚴的神情、緩慢卻充滿力量感的步伐，真的會讓你聯想到電影裡的恐龍。看著牠們一動也不動地曬太陽，或是突然起身走動，那股與史前生物面對面的震撼，絕對讓你難以忘懷。
@@ -70,7 +70,7 @@ Without these main characters, even the best setting would be just an empty shel
 
 2. **Reticulated Python**: Can reach over **6 meters** in length, making it one of the longest snake species in the world.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780413804687-2.webp)
+![An Unmissable Lineup of 'Star Animals'](https://images.gobaligo.id/images/2026-06/1780413804687-2.webp)
 
 ```plain
 園區內有幾條巨大無比的個體，當牠們蜷曲在樹上或水池邊時，那粗壯的身軀會讓你重新定義「蛇」這個概念。想像一下，牠的身體比你的大腿還粗！雖然隔著玻璃，但當牠緩慢滑行時，那種無聲的壓迫感，保證讓你心跳加速。如果你膽子夠大，園區也有提供安全的互動體驗，讓你在飼育員協助下觸摸牠們光滑的鱗片。
@@ -79,7 +79,7 @@ Without these main characters, even the best setting would be just an empty shel
 
 3. **Saltwater Crocodile**: One of the largest living reptiles on Earth and the top predator in aquatic environments.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780413833485-3.webp)
+![An Unmissable Lineup of 'Star Animals'](https://images.gobaligo.id/images/2026-06/1780413833485-3.webp)
 
 ```plain
 這裡飼養的鹹水鱷體型驚人，部分個體長度接近 6 米。牠們大多時間像是木頭般漂浮在水中，但當牠們猛然張開大嘴，露出滿口鋒利的牙齒，或是突然躍出水面搶食時，那種爆發力絕對會讓你倒抽一口涼氣。你可以在安全的觀賞平台，感受來自遠古時代的殺戮本能。
@@ -88,7 +88,7 @@ Without these main characters, even the best setting would be just an empty shel
 
 4. **A Variety of Venomous Snakes and Lizards**:
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780413856719-4.webp)
+![An Unmissable Lineup of 'Star Animals'](https://images.gobaligo.id/images/2026-06/1780413856719-4.webp)
 
 ```plain
 園區內還收藏了印尼特有的各種毒蛇，包括色彩鮮艷的黃環林蛇、具有劇毒的印尼竹葉青等。對於兩棲爬蟲愛好者來說，這裡簡直是天堂。此外，來自美洲的綠鬣蜥、傘蜥，以及張著大嘴威嚇敵人的澳洲魔蜥，同樣讓人看得目不轉睛。
@@ -97,7 +97,7 @@ Without these main characters, even the best setting would be just an empty shel
 
 5. **Giant Tortoises and Water Monitors**: Compared to the 'tough guys' above, Aldabra giant tortoises and Sulcata tortoises seem much gentler. They slowly stroll within their enclosures, occasionally curiously approaching visitors. Water monitors, on the other hand, are common 'scavengers' in the park—agile and often seen swimming in the water or climbing trees to bask in the sun.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780413886060-5.webp)
+![An Unmissable Lineup of 'Star Animals'](https://images.gobaligo.id/images/2026-06/1780413886060-5.webp)
 
 ## Unique Interactive Experiences
 
@@ -109,7 +109,7 @@ During scheduled times (or you can ask the staff), under the guidance of profess
 
 Plus, if the timing is right, don’t miss the **feeding show**. Watching crocodiles lunge out of the water to tear into chicken, or monitor lizards precisely snatch prey with their forked tongues, you’ll witness the raw reality of apex predators at the top of the food chain—both brutal and mesmerizing.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780413924517-mixcollage-02-jun-2026-10-20-pm-7634.jpg)
+![Unique Interactive Experiences](https://images.gobaligo.id/images/2026-06/1780413924517-mixcollage-02-jun-2026-10-20-pm-7634.jpg)
 
 ## Practical Info: Tickets, Transportation & Best Time to Visit
 
@@ -126,7 +126,7 @@ Plus, if the timing is right, don’t miss the **feeding show**. Watching crocod
     - **Private Car / Taxi**: The most recommended option. Since the park is a bit far from town, it’s hard to hail a ride back. A full-day car rental (about 10 hours) costs around 600,000–800,000 IDR (about USD$19–$26), and the driver will wait in the parking lot—super convenient.
     - **Grab / Gojek**: If you’re only visiting this one spot, you can also book a ride. But be sure to **open the app early** for your return trip, as there aren’t as many cars here as in busier areas—sometimes you’ll wait 15–30 minutes.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780413958064-map-brp.jpg)
+![Practical Info: Tickets, Transportation & Best Time to Visit](https://images.gobaligo.id/images/2026-06/1780413958064-map-brp.jpg)
 
 ## Ultimate One-Day Two-Park Strategy: How to Plan Perfectly?
 

@@ -37,7 +37,7 @@ _srcHash: c92d14c9c8c1fe7083458f14444cd67a
 
 Liburan di **Bali**, yang paling bikin was-was sih hujan deras dadakan di sore hari, atau panas terik tengah hari yang bikin lemas. Tapi jangan sampai cuaca merusak semangat liburanmu! Pulau ini selain punya pemandangan laut yang cantik, juga punya banyak banget ruang indoor berkualitas. Mau jalan-jalan santai di mal ber-AC, ajak anak main di playground indoor bintang lima, atau ikut workshop perak di tengah hujan gerimis di Ubud — 60 pilihan indoor yang udah dipilih dengan teliti ini bakal bikin kamu nemuin cara liburan **Bali** yang lebih elegan dan nyaman.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775523399587-mixcollage-07-apr-2026-07-56-am-5133.jpg)
+![【2026 Bali Rencana Alternatif Saat Hujan/Cari Tempat Teduh】W](https://images.gobaligo.id/images/2026-04/1775523399587-mixcollage-07-apr-2026-07-56-am-5133.jpg)
 
 Panduan Alternatif Saat Hujan/Cari Tempat Teduh di Bali
 
@@ -69,7 +69,7 @@ Upside Down World Bali adalah spot seru di Bali. Tempat ini punya 7 ruangan khus
 
 ### Ice Skating Arena
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ed02bd7b74729a4efdb65c31a67a5cbf.png)
+![Ice Skating Arena](https://images.gobaligo.id/vocus/vocus_ed02bd7b74729a4efdb65c31a67a5cbf.png)
 
 Pengen cari cara beda buat ngadem di cuaca panas Bali atau pas lagi hujan? Mampir ke MAL BALI GALERIA di Kuta, lantai 3 sayap barat **Bali Ice Skating Arena**, dan nikmatin serunya main sepatu roda! Arena es di sini bikin kamu merasa kayak jagoan skating, pamerin teknik meluncur, dan bebas gliding di atas es.
 
@@ -79,7 +79,7 @@ Setiap sesi cuma buat 45 orang, dan tiketnya kasih kamu waktu 1,5 jam buat skati
 
 ### 🎮 ZONE OUT Bali：Kuta最酷的室內VR冒險基地！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f635515f259943ac474f59a6751779c.jpg)
+![ZONE OUT Bali：Kuta最酷的室內VR冒險基地！](https://images.gobaligo.id/vocus/vocus_2f635515f259943ac474f59a6751779c.jpg)
 
 Mau cari aktivitas seru di Bali yang nggak takut panas, nggak takut hujan, dan pastinya super asyik? ZONE OUT Bali yang terletak di Legian, Kuta, wajib banget kamu coba! Taman hiburan indoor berteknologi tinggi ini spesialisasi VR virtual reality, bikin kamu jadi pembalap, penjelajah luar angkasa, bahkan pemburu zombie—semua dalam skenario yang super realistis.
 
@@ -144,13 +144,13 @@ Ada [panduan peta](https://www.google.com/maps/d/u/0/edit?mid=1il-sYTIMNMSVrVWqS
 
 ### Belanja
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_21b20c72ddb3adc1f8b85870c9b75792.jpg)
+![Belanja](https://images.gobaligo.id/vocus/vocus_21b20c72ddb3adc1f8b85870c9b75792.jpg)
 
 Kalau lagi hujan, mampir aja ke Seminyak Village — bangunan modern dengan permainan kaca dan cahaya yang keren banget. Ini surga belanja dan kuliner kekinian di Bali. Terletak di pusat Seminyak, mall lifestyle ini kasih nuansa baru buat pengalaman belanja ala resort pantai Asia. Plus, di sebelahnya ada Seminyak Square, jadi kamu tetap bisa shopping dan makan enak meski hujan-hujanan.
 
 ### Ikut Workshop
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0e743d5db1650f11fd93ecf482b38441.png)
+![Ikut Workshop](https://images.gobaligo.id/vocus/vocus_0e743d5db1650f11fd93ecf482b38441.png)
 
 Pas hujan di Seminyak, ikutan kelas masak seru bisa jadi pelarian yang asyik! Banyak workshop buat pecinta kuliner di sini — dari belajar masak tradisional Indonesia sampai nyobain dessert ala internasional. Dijamin seru dan bikin kamu dapet pengalaman bikin sendiri. Cocok buat pemula maupun yang udah jago masak. Dengan bimbingan chef profesional, kamu bisa menikmati perpaduan makanan dan kreativitas, bareng teman atau keluarga. Ini beberapa tempat yang bisa kamu booking online:
 
@@ -171,7 +171,7 @@ Saat hujan di Canggu, mampir ke sini buat ngabisin waktu:
 
 ### Bounce Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0f7c35106c3dbcfbe5b4b4f11acfd0a6.jpg)
+![Bounce Bali](https://images.gobaligo.id/vocus/vocus_0f7c35106c3dbcfbe5b4b4f11acfd0a6.jpg)
 
 Kalau lagi hujan di Bali, cobain deh main ke Bounce Bali! Ini taman trampolin pertama di Bali, ada di dalam Canggu Club. Tempatnya ber-AC dan didesain khusus buat kamu yang suka 'bouncing' seru! Bedanya sama trampolin rumahan, Bounce punya rangka khusus yang bikin kamu bisa lompat lebih tinggi! 360 derajat dikelilingi trampolin, nggak ada tempat kayak gini di Bali. Semua rangka dan trampolinnya dilapisi bantalan keamanan setebal dua inci. Asal kamu suka lompat-lompat, ini surga banget buat kamu.
 
@@ -179,19 +179,19 @@ Di Bounce Bali, kamu bisa bebas lompat dan coba berbagai trik keren, atau ikut k
 
 ### Olahraga & Fitness
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_321421d5b6c376f44537b4ea57e6f539.jpg)
+![Olahraga & Fitness](https://images.gobaligo.id/vocus/vocus_321421d5b6c376f44537b4ea57e6f539.jpg)
 
 Kalau lagi hujan di Canggu bingung mau ke mana, Canggu ini surganya pecinta fitness lho — ada 20 sampai 30 gym di sini. Kamu bisa manfaatin waktu hujan buat olahraga dan jaga kebugaran. Gym yang cukup terkenal antara lain **CrossFit Wanderlust, Body Factory Bali**, dan **Avenue Fitness**. Mau kamu pengen latihan beban atau kardio, semua ada. Hari hujan pun tetap produktif dan sehat!
 
 ### Serunya Panjat Tebing
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_38f97362bae8b91ae23e97debe1fb670.jpg)
+![Serunya Panjat Tebing](https://images.gobaligo.id/vocus/vocus_38f97362bae8b91ae23e97debe1fb670.jpg)
 
 Di Canggu ada **Bali Climbing**, gym panjat tebing semi-outdoor yang jaraknya cuma beberapa langkah dari pantai. Di sini, selain bisa olahraga, kamu juga bisa seru-seruan dan dapet temen baru. Mereka punya berbagai jalur panjat, cocok buat pemula sampai yang udah pro. **Bali Climbing** juga menyediakan kursus panjat buat anak-anak dan dewasa, retret, trip panjat, dan tempat buat acara. Tujuan mereka bikin semua orang ngerasa jadi bagian dari keluarga yang penuh semangat! Meskipun hujan, kamu tetap bisa dapet hari yang aktif di sini.
 
 ### Main Bowling
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_92693933716c5496982c2f770ef67351.jpg)
+![Main Bowling](https://images.gobaligo.id/vocus/vocus_92693933716c5496982c2f770ef67351.jpg)
 
 Mampir ke **Strike Bowling Bali**, dijamin seru meski lagi hujan-hujanan! Mau liburan bareng keluarga, kumpul temen, atau acara kantor, bowling tuh olahraga yang asyik banget buat ngobrol sambil ketawa-ketiwi. Strike punya arena bowling 10 pin paling modern di Bali, lengkap dengan 6 lintasan otomatis dan sistem skor komputer. Buat anak kecil (atau siapa aja yang belum jago), mereka juga siapin pembatas biar bolanya nggak nyasar ke selokan.
 
@@ -201,7 +201,7 @@ Pokoknya, dari umur 3 tahun sampe 80 tahun, **Strike Bowling Bali** tuh pilihan 
 
 ### Ikutan Workshop Kreatif
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a9e14939d0a0d7cd0ddfbe64ece1edb3.png)
+![Ikutan Workshop Kreatif](https://images.gobaligo.id/vocus/vocus_a9e14939d0a0d7cd0ddfbe64ece1edb3.png)
 
 Kalau di Canggu lagi hujan, jangan khawatir — banyak banget workshop seru yang bisa kamu coba! Salah satunya, kelas bikin perak. Di sini kamu bisa belajar ngubah perak murni jadi aksesoris keren, entah itu cincin, anting, atau kalung. Kamu bisa desain sendiri dan bikin karya yang benar-benar personal. Ini pengalaman yang gabungin kreativitas sama keterampilan tangan, dan hasilnya bisa jadi oleh-oleh unik yang bikin kamu puas banget.
 
@@ -215,7 +215,7 @@ Selain itu, kelas masak makanan khas Bali di Canggu juga worth it banget. Banyak
 
 ### Yoga
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00c37155e45e8f136987588e13821a2c.jpg)
+![Yoga](https://images.gobaligo.id/vocus/vocus_00c37155e45e8f136987588e13821a2c.jpg)
 
 Kalau lagi hujan dan pengen rileks, pusat yoga di Canggu pasti jadi pilihan yang oke banget. Ada banyak tempat yoga terkenal di sini, bikin kamu bisa meregangkan tubuh di suasana yang tenang. Yang cukup populer antara lain **Guan Yin Yoga Shala**, **Canggu Yoga Centre**, **The Practice**, **Samasti Yoga**, dan **Samadi Bali Yoga Health Hub**. Mau kamu pemula atau udah jago yoga, tempat-tempat ini punya berbagai kelas, dari meditasi sampai latihan yoga intens. Datang aja pas hujan, biar kamu nemu ketenangan batin lewat napas pelan, dan isi ulang energi tubuh.
 
@@ -228,7 +228,7 @@ Pesan online:
 
 ### **Belanja di Love Anchor & Canggu Center**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_10ec4a262314307c49bf7f9ef148359f.jpg)
+![Belanja di Love Anchor & Canggu Center](https://images.gobaligo.id/vocus/vocus_10ec4a262314307c49bf7f9ef148359f.jpg)
 
 Meskipun di Bali lagi hujan, kamu tetap bisa seru-seruan di Canggu! Mampir ke Love Anchor atau Canggu Center, selain bisa ngadem dari cuaca jelek, kamu juga dapet pengalaman belanja yang unik. Love Anchor itu pasar bergaya bohemian yang jual kerajinan tangan, aksesoris, dan pakaian—cocok buat nyari oleh-oleh santai. Sementara Canggu Center nawarin pilihan belanja yang lebih modern, dari barang fashion sampai produk lokal khas, semua bisa puasin hasrat belanjamu. Biar hari hujan pun tetap penuh kejutan dan cuan!
 
@@ -240,7 +240,7 @@ Kalau lagi hujan dan kamu di sekitar Ubud, ini beberapa aktivitas yang bisa kamu
 
 ### Ikut Workshop Kerajinan Tangan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d6581c6040ade12c3dcdb42b1a7bc04c.jpg)
+![Ikut Workshop Kerajinan Tangan](https://images.gobaligo.id/vocus/vocus_d6581c6040ade12c3dcdb42b1a7bc04c.jpg)
 
 Ubud bukan cuma surga keindahan alam, tapi juga pusat seni dan kerajinan tangan. Ikut workshop batik, ukir kayu, keramik, perak, cokelat, dan lainnya adalah pengalaman budaya yang kaya. Workshop ini nggak cuma didampingi instruktur profesional, tapi juga bikin kamu bisa bikin kerajinan tangan bergaya Bali sendiri, bawa pulang seni lokal sebagai oleh-oleh yang unik banget.
 
@@ -258,7 +258,7 @@ Ubud bukan cuma surga keindahan alam, tapi juga pusat seni dan kerajinan tangan.
 
 ### Kelas Masak Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a06a0bd308129f244507a2130d8ea06e.jpg)
+![Kelas Masak Ubud](https://images.gobaligo.id/vocus/vocus_a06a0bd308129f244507a2130d8ea06e.jpg)
 
 Kelas masak di Ubud adalah kesempatan seru buat kamu yang pengen mendalami budaya kuliner lokal. Kegiatannya mulai dari belanja ke pasar, belajar teknik masak, masak sendiri, sampai mencicipi hasilnya. Kamu bakal diajak sama instruktur ke pasar buat pilih bahan segar, lalu belajar teknik masak khas Bali. Setelah itu, di dapur kamu bakal bikin hidangan klasik, dan terakhir nikmatin makanan enak hasil masakanmu sendiri. Ini petualangan kuliner yang penuh budaya, bikin kamu makin cinta sama cita rasa unik Bali.
 
@@ -272,7 +272,7 @@ Kelas masak di Ubud adalah kesempatan seru buat kamu yang pengen mendalami buday
 
 ### Kelas Yoga
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_281074552386a45c6fc694f724dccfbe.jpg)
+![Kelas Yoga](https://images.gobaligo.id/vocus/vocus_281074552386a45c6fc694f724dccfbe.jpg)
 
 Di lingkungan Ubud yang tenang, ikut kelas yoga adalah cara yang super buat rileksin badan dan pikiran. Di tengah sawah yang hijau atau di ruang yoga terbuka di resort, kamu bisa ikut instruktur yoga, rasain peregangan tubuh dan ketenangan napas. Ini bukan cuma buat kesehatan fisik, tapi juga buat menyelami dan menyeimbangkan jiwa.
 
@@ -284,7 +284,7 @@ Di lingkungan Ubud yang tenang, ikut kelas yoga adalah cara yang super buat rile
 
 ### Studio Keramik Serayu Pot
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ebebcc7f1c233b8b49f2afdb5ceb44b7.png)
+![Studio Keramik Serayu Pot](https://images.gobaligo.id/vocus/vocus_ebebcc7f1c233b8b49f2afdb5ceb44b7.png)
 
 Serayu Pot terletak di jantung Ubud, sebuah studio keramik dan galeri. Tempat unik ini nggak cuma menampilkan keahlian keramik tradisional yang keren, tapi juga kasih kesempatan buat berinteraksi sama senimannya. Kamu bisa ikut workshop keramik langsung, belajar proses pembuatan dari tanah liat sampai jadi keramik cantik, bikin kamu merasakan langsung pesona seni. Di Serayu Pot, kamu bisa cari keramik unik sambil menikmati karya seniman lokal. Ini tempat yang worth it buat merasakan budaya dan seni Ubud, bikin kamu serasa tenggelam dalam pesona keramik. Selain itu, kamu juga bisa ikut kelas bikin keramik di sini!
 
@@ -292,7 +292,7 @@ Serayu Pot terletak di jantung Ubud, sebuah studio keramik dan galeri. Tempat un
 
 ### Kunjungi Museum/Galeri Seni
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_02e79fb63f43cff44aff4a8392dc635b.jpg)
+![Kunjungi Museum/Galeri Seni](https://images.gobaligo.id/vocus/vocus_02e79fb63f43cff44aff4a8392dc635b.jpg)
 
 Musim hujan di Bali memang suka datang tiba-tiba, tapi biasanya nggak bertahan lama. Kalau lagi hujan, mending rencanain buat eksplorasi seni dan budaya khas Bali.
 
@@ -304,7 +304,7 @@ Museum dan galeri seni di Bali jadi tempat yang pas banget buat ngabisin waktu h
 
 ### Tips Belanja Waktu Hujan di Ubud: Sukawati Art Market & Ubud Art Market
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_13fc70b14f3fd6fbd65046b37141bdb3.jpg)
+![Tips Belanja Waktu Hujan di Ubud: Sukawati Art Market & Ubud](https://images.gobaligo.id/vocus/vocus_13fc70b14f3fd6fbd65046b37141bdb3.jpg)
 
 Kalau lagi hujan di Ubud, mending mampir ke dua pasar seni paling ikonik—Sukawati Art Market dan Ubud Art Market yang baru—buat nikmatin serunya belanja unik.
 
@@ -316,7 +316,7 @@ Kedua pasar di Ubud ini nggak cuma tempat belanja, tapi juga tempat berteduh yan
 
 ### Bali Purma Art & Workshop
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_32e3e2ff190ef21bf1d040baa79002e7.jpg)
+![Bali Purma Art & Workshop](https://images.gobaligo.id/vocus/vocus_32e3e2ff190ef21bf1d040baa79002e7.jpg)
 
 Bali Purma Art & Workshop punya banyak pengalaman interaktif, mulai dari membatik, bikin perak handmade, sampai belajar bikin *canang sari* — sesajen harian orang Bali. Cocok banget buat kamu yang pengen ngerasain langsung estetika hidup lokal. Kalau kamu tertarik sama kerajinan yang lebih detail, di sini juga ada kelas lanjutan ukir kayu dan batu, yang bakal bikin kamu makin dekat sama jiwa seni Bali.
 
@@ -340,19 +340,19 @@ Hujan di Bali juga bisa seru dan bermakna, lho!
 
 ###
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4548e46a1c68e1c1f46eb1d22ea3a4f3.jpg)
+![AeroXSpace Adventure Indoor Playground](https://images.gobaligo.id/vocus/vocus_4548e46a1c68e1c1f46eb1d22ea3a4f3.jpg)
 
 Dibuka akhir Agustus 2024, "AeroXSpace Adventure" — playground indoor super luas seluas 1000+ meter persegi — bikin orang dewasa dan anak-anak bisa bersenang-senang tanpa batas! Info lengkap dan link tiketnya [di sini](/blog/aeroxspace-sanur-indoor-playground/).
 
 ### Kids Soho Playground Indoor Playground
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e193d4e94c5a18949169d2bf072d25b.png)
+![Kids Soho Playground Indoor Playground](https://images.gobaligo.id/vocus/vocus_3e193d4e94c5a18949169d2bf072d25b.png)
 
 Kalau lagi hujan dan bingung mau ke mana, tapi pengen tempat yang aman dan penuh perhatian buat anak-anak bisa bersosialisasi, bermain, dan belajar, cobain deh ke Kids Soho Sanur. Tempat ini fokus ngasih pengalaman belajar awal yang positif lewat permainan dan interaksi dengan teman sebaya dari berbagai usia.
 
 ### Membuat Perak
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8871ae2398624f68aab635e42892888f.png)
+![Membuat Perak](https://images.gobaligo.id/vocus/vocus_8871ae2398624f68aab635e42892888f.png)
 
 Saat hujan, mampir ke Sanur dan bikin perhiasan perak sendiri bareng pengrajin perak yang berpengalaman! Di sini, kamu bakal belajar dasar-dasar kerajinan logam, termasuk cara pakai alat-alat dasar dan teknik sederhana dengan aman. Kamu bisa pakai kawat perak dan lembaran perak buat mendesain dan bikin perhiasan unik buat diri sendiri atau orang tersayang. Setiap peserta bakal pakai 5 gram perak murni buat bikin karya seni personal. Ini bukan cuma kesempatan belajar skill baru, tapi juga pengalaman seru dan kreatif di hari hujan.
 
@@ -362,7 +362,7 @@ Saat hujan, mampir ke Sanur dan bikin perhiasan perak sendiri bareng pengrajin p
 
 ### Clip 'n Climb Panjat Tebing Indoor
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b8939e59e7c9c142707627c653fa9d12.jpg)
+![Clip 'n Climb Panjat Tebing Indoor](https://images.gobaligo.id/vocus/vocus_b8939e59e7c9c142707627c653fa9d12.jpg)
 
 Clip 'n Climb Bali menggabungkan olahraga dan hiburan, jadi destinasi petualangan indoor baru di Bali yang seru banget, baik buat pemula maupun yang udah jago! Info lengkap dan aturan masuk bisa dicek di [sini](/blog/clip-n-climb-sanur-bali/).
 
@@ -370,7 +370,7 @@ Clip 'n Climb Bali menggabungkan olahraga dan hiburan, jadi destinasi petualanga
 
 ### Kevala Studio Ceramic
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_834e7aaf8284c99975a986b66df9dd1e.jpg)
+![Kevala Studio Ceramic](https://images.gobaligo.id/vocus/vocus_834e7aaf8284c99975a986b66df9dd1e.jpg)
 
 Di Bali, lagi cari aktivitas indoor yang santai tapi bisa memicu kreativitas? Kevala Studio Ceramic di Sanur wajib banget dicoba. Tempat ini nawarin tiga cara berbeda buat bikin keramik: kamu bisa duduk di depan roda putar dan lihat tanah liat berubah bentuk di bawah jari-jarimu, atau pilih buat menghias keramik yang udah jadi dengan warna-warna cantik, atau pakai teknik tangan buat bikin bentuk organik yang unik, bahkan gabungin beberapa teknik buat gaya sendiri. Kevala Studio adalah 'adik' dari merek terkenal Kevala Ceramics di pulau ini. Tempatnya kecil tapi cozy, fokus pada kreasi dan pengalaman keramik, bikin traveler bisa bebas mengekspresikan jiwa seni mereka.
 
@@ -419,7 +419,7 @@ Cek link di bawah ini:
 
 ## Foto Seni Bali di Dalam Ruangan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_35b0a39a8078b481c31d12454f96572e.jpg)
+![Foto Seni Bali di Dalam Ruangan](https://images.gobaligo.id/vocus/vocus_35b0a39a8078b481c31d12454f96572e.jpg)
 
 Pakaian tradisional Bali memadukan agama, estetika, dan kerajinan tangan. Setelah mengenakan sarung, selendang pinggang, dan hiasan kepala, suasana langsung berubah total—sangat kaya akan budaya. Fotografi semacam ini bukan sekadar jepretan, tapi benar-benar pengalaman seni dan budaya.
 
@@ -440,7 +440,7 @@ Meskipun kamu belum punya pengalaman foto, tetap bisa menghasilkan foto seni ber
 
 ## Terapi Suara Gong
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775522389141-d8d933ec-c361-46e3-819c-10e161969091.jpg)
+![Terapi Suara Gong](https://images.gobaligo.id/images/2026-04/1775522389141-d8d933ec-c361-46e3-819c-10e161969091.jpg)
 
 Kalau Ubud adalah jiwa Bali, maka terapi suara gong adalah napas paling hangat dari pulau ini. Banyak yang khawatir nggak bisa ikut karena bahasa Inggris kurang lancar, tapi sebenarnya kekuatan penyembuhan suara itu melampaui batas negara. Kamu tinggal kosongkan pikiran, biarkan suara gong yang merdu membawamu ke batas kesadaran yang mimpi, dan lepaskan semua kelelahan yang terpendam di dalam tubuh. Kali ini aku pilih beberapa tempat ajaib yang ratingnya sempurna di Google Review, dipadukan dengan pemandangan hutan hujan tropis yang cantik banget dan panduan terapi suara yang profesional. Jadi, meskipun ini percobaan pertamamu, kamu bisa cepat masuk ke suasana. Di perjalanan low season 2026, ini pasti investasi diri dengan value terbaik!
 

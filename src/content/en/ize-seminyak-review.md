@@ -35,11 +35,11 @@ latitude: -8.68421363830566
 longitude: 115.161010742188
 ---
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244520574-954a1216262b0375452a8286fe715ba5.webp)
+![IZE Seminyak｜2026 Seminyak Boutique Hotel Review - Go Bali G](https://images.gobaligo.id/images/2026-04/1776244520574-954a1216262b0375452a8286fe715ba5.webp)
 
 Among Seminyak's hotel options, IZE Seminyak stands out with its distinct identity. Located at Jl. Kayu Aya No. 68 - right in the heart of Eat Street - this four-star boutique hotel embraces Scandinavian modern minimalism. Its icy blue tones paired with white and wood elements create a sleek, youthful, and design-forward atmosphere. Most guests are around 30 years old, looking to enjoy nightlife and shopping. With 81 rooms spread across six floors, it's compact yet fully equipped, consistently receiving excellent service reviews.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244750774-mixcollage-15-apr-2026-04-18-pm-2978.jpg)
+![IZE Seminyak｜2026 Seminyak Boutique Hotel Review - Go Bali G](https://images.gobaligo.id/images/2026-04/1776244750774-mixcollage-15-apr-2026-04-18-pm-2978.jpg)
 
 ***
 
@@ -57,23 +57,23 @@ Tripadvisor's 'Walkability Score' for this area is nearly perfect, essentially c
 
 ## 🏨 Facilities Overview
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244836255-954a1216262b0375452a8286fe715ba5.webp)
+![Facilities Overview](https://images.gobaligo.id/images/2026-04/1776244836255-954a1216262b0375452a8286fe715ba5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244836702-337808_16090714250046189679.webp)
+![Facilities Overview](https://images.gobaligo.id/images/2026-04/1776244836702-337808_16090714250046189679.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244837211-337808_16090714250046189694.webp)
+![Facilities Overview](https://images.gobaligo.id/images/2026-04/1776244837211-337808_16090714250046189694.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244837611-20438021.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-04/1776244837611-20438021.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244838002-a11d29faecafe206d78e29095c8eaa8b.webp)
+![Facilities Overview](https://images.gobaligo.id/images/2026-04/1776244838002-a11d29faecafe206d78e29095c8eaa8b.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244838851-c88868027c17c69106c76e305f225f10.webp)
+![Facilities Overview](https://images.gobaligo.id/images/2026-04/1776244838851-c88868027c17c69106c76e305f225f10.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244839279-76a427872e96025600402ae56052b067.webp)
+![Facilities Overview](https://images.gobaligo.id/images/2026-04/1776244839279-76a427872e96025600402ae56052b067.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244840136-458bc44a5864e208586df1f015c8da94.webp)
+![Facilities Overview](https://images.gobaligo.id/images/2026-04/1776244840136-458bc44a5864e208586df1f015c8da94.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244840623-0531ef0c73a7521a52354eab5e3de73e.webp)
+![Facilities Overview](https://images.gobaligo.id/images/2026-04/1776244840623-0531ef0c73a7521a52354eab5e3de73e.webp)
 
 IZE Seminyak's standout feature is the thoughtful design logic behind its two pools - each serving distinct purposes.
 
@@ -93,51 +93,51 @@ IZE Seminyak offers four main room types, each with a clear focus:
 
 The **Deluxe Room** is the entry-level option, featuring a spacious layout with standard amenities like a balcony, air conditioning, an LED TV, a minibar, a safe, and a Nespresso coffee machine. The bathroom includes a rain shower, and some rooms come with a Jacuzzi tub (Deluxe Jacuzzi Room).
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244888349-c3d12a7579586757ea07178b869a568c.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776244888349-c3d12a7579586757ea07178b869a568c.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244888817-f2779805693ce4866339cfdd6be2dffb.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776244888817-f2779805693ce4866339cfdd6be2dffb.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244889213-337808_17072916320054759563.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776244889213-337808_17072916320054759563.webp)
 
 The **Deluxe Pool Room** is the hotel’s most popular room type. Spanning 40 square meters, it opens directly onto the IZE Pool on the ground floor—a 30-meter-long blue-tiled pool exclusive to guests staying in this room. Highly recommended for those who enjoy a private morning swim. Note that this room is closer to the street, and some reviews mention occasional external noise at night, so consider requesting a room at the back when booking.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244926357-dc1f3352a9afb0c9723adc9afe6185eb.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776244926357-dc1f3352a9afb0c9723adc9afe6185eb.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244926816-d8f703ae1c7b8465922841307f9bf774.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776244926816-d8f703ae1c7b8465922841307f9bf774.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244927269-b80feae13a89dcc06f3922e0e63657b5.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776244927269-b80feae13a89dcc06f3922e0e63657b5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244927631-740939523.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776244927631-740939523.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244928017-740940219.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776244928017-740940219.jpg)
 
 The **Club Room** is located on the seventh floor, featuring high ceilings and a 40-square-meter space with a sophisticated chocolate-brown decor. Some rooms offer balconies with panoramic views of Seminyak and direct access to the rooftop pool. Additional perks include complimentary airport transfers, daily laundry service, and evening snacks and sunset cocktails at Meja Restaurant.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244965134-cea78566622e8493224855b2796ec1de.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776244965134-cea78566622e8493224855b2796ec1de.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244965561-47efca7ba398f0a6dd20636f6373d8cf.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776244965561-47efca7ba398f0a6dd20636f6373d8cf.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244966024-740939593.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776244966024-740939593.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244966422-740939608.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776244966422-740939608.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244966948-b80feae13a89dcc06f3922e0e63657b5.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776244966948-b80feae13a89dcc06f3922e0e63657b5.webp)
 
 The **Junior Suite** is the largest room in the hotel, located on the top floor and spanning 80 square meters—twice the size of the Club Room. It comes equipped with a Nespresso machine and handmade Balinese soap, positioning it as a luxurious private suite in the heart of the city.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244997041-8e720b5268f5490aed9a672fa4b8acf4.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776244997041-8e720b5268f5490aed9a672fa4b8acf4.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244997472-337808_19071816020078246011.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776244997472-337808_19071816020078246011.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244997982-337808_19071816020078246051.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776244997982-337808_19071816020078246051.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244998398-337808_19071816020078246060.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776244998398-337808_19071816020078246060.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244998833-337808_19071816020078246079.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776244998833-337808_19071816020078246079.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776244999715-337808_16090715090046193371.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776244999715-337808_16090715090046193371.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776245000212-b4ffaab2d04faf95f68a3269f0dee016.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776245000212-b4ffaab2d04faf95f68a3269f0dee016.webp)
 
 🔗 **Connecting Rooms Additional Info**: This is a particularly noteworthy feature. IZE Seminyak offers connecting rooms (with an internal door between two guest rooms), each with its own bathroom, air conditioning, and balcony, but allowing direct access between rooms without needing to step into the hallway. This setup is ideal for families with children, two couples traveling together, or small groups who want separate rooms but easy access to one another. Connecting rooms are subject to availability, so it’s recommended to note your request in the booking remarks or contact the hotel directly to confirm.
 
@@ -151,7 +151,7 @@ The hotel is best suited for **younger travelers or couples** who appreciate des
 
 ## 💬 Guest Reviews
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776245143090-b857f676112e9e3718c2f58957b3b3bd.webp)
+![Guest Reviews](https://images.gobaligo.id/images/2026-04/1776245143090-b857f676112e9e3718c2f58957b3b3bd.webp)
 
 A Tripadvisor reviewer from November 2025 mentioned that the hotel staff were exceptionally friendly and proactive during check-in, even offering a complimentary room upgrade. The rooftop pool on the seventh floor left a lasting impression, and the overall cleanliness made it one of her most satisfying stays in Seminyak. (Source: Tripadvisor ⭐ 5.0)
 

@@ -34,7 +34,7 @@ Sanur terletak di tenggara Bali dan dulunya merupakan salah satu kawasan yang pe
 
 Dibandingkan dengan kawasan wisata populer seperti Kuta dan Seminyak, Sanur lebih tenang dan damai. Pantainya luas dan landai, cocok untuk jalan-jalan santai dan bersantai. Berbeda dengan tempat yang penuh pesta dan belanja, Sanur lebih fokus pada resor liburan keluarga dan keindahan alam.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_073aa8625b9752317012e08a6c4b75d8.jpg)
+![Perbedaan Suasana Sanur dengan Kawasan Lain di Bali](https://images.gobaligo.id/vocus/vocus_073aa8625b9752317012e08a6c4b75d8.jpg)
 
 {{block:klook}}
 

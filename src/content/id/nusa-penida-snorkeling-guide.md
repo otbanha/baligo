@@ -31,7 +31,7 @@ _srcHash: aef10a3f42e057038fd3436620ccf4b8
 ---
 Ini episode ketiga kita bahas Nusa Penida—pulau ajaib ini. Kali ini kita kenalin empat spot snorkeling terkenal di sini. Baik kamu snorkeling biasa atau scuba diving, semua bisa nemu spot seru.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f65ca2cf527e8b51652b690aad51a81.jpg)
+![Nusa Penida: Cara Ikut Snorkeling? Panduan Tiket Kapal Sehar](https://images.gobaligo.id/vocus/vocus_9f65ca2cf527e8b51652b690aad51a81.jpg)
 
 ➡️[Klik di sini untuk promo Bali terbaik](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
@@ -43,7 +43,7 @@ Kita punya lima episode soal Nusa Penida. Yuk, kenalan lebih dalam sama surga pu
 4. [Panduan Transportasi Nusa Penida: Taksi, Gojek/Grab, Sewa Mobil, Motor](/blog/nusa-penida-transport-guide/)
 5. [Rekomendasi Penginapan Nusa Penida: 13 Hotel dari Mewah sampai Budget](/blog/nusa-penida-hotels-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0efc881cd070bd9b15b0d572fe80b427.jpg)
+![Nusa Penida: Cara Ikut Snorkeling? Panduan Tiket Kapal Sehar](https://images.gobaligo.id/vocus/vocus_0efc881cd070bd9b15b0d572fe80b427.jpg)
 
 ## Apa Semua Pantai di Bali Bisa Snorkeling?
 
@@ -75,7 +75,7 @@ Mola mola (ikan mola-mola)
 
 ## Gamat Bay
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881880928-gamatbay1.jpeg)
+![Gamat Bay](https://images.gobaligo.id/images/2026-03/1774881880928-gamatbay1.jpeg)
 
 Gamat Bay
 
@@ -115,7 +115,7 @@ Toyapakeh Wall Point sebenarnya adalah tebing curam yang letaknya tepat di bawah
 
 Spot diving ini punya terumbu karang kecil sedalam 4–6 meter yang jadi spot snorkeling terbaik. Setelah terumbu karang, ada dua lapisan. Lapisan pertama sekitar 12–15 meter, lapisan kedua sekitar 40 meter. Tempat ini sangat populer karena airnya jernih dan karangnya subur.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881808430-toyapakeh_wall_point.jpg)
+![Toyapakeh Wall Point](https://images.gobaligo.id/images/2026-03/1774881808430-toyapakeh_wall_point.jpg)
 
 Terumbu karang, warna-warni banget
 

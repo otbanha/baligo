@@ -23,7 +23,7 @@ _srcHash: c74d221ae0946b8e5f0075b915a91127
 
 这场盛会势必会对当地带来一些影响,例如机场及道路交通、酒店房间需求等。不过主办单位将努力确保会议顺利进行,同时将当地文化智慧融入其中,比如带领代表团参观位于Jatiluwih的水利系统和稻田等。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8553c25fe7dc3cc7fa673d7ba8aa922a.png)
+![五月底巴厘岛很热闹! 五万多名代表涌入巴厘岛参加国际会议](https://images.gobaligo.id/vocus/vocus_8553c25fe7dc3cc7fa673d7ba8aa922a.png)
 
 水资源对巴厘岛这样的旅游胜地至关重要,议题涉及当地的水资源管理、海洋塑料污染等,期望这次会议能为全球水资源管理带来新策略。
 

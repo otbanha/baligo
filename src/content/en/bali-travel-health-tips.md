@@ -19,7 +19,7 @@ _srcHash: 8a0e213d4cc073388ee993153c69c0f4
 ---
 Maintaining health while traveling is the most important topic! Bali, this fascinating land, is filled with incredible scenery and unforgettable experiences. However, as you explore this beautiful destination, remember to protect your health, as daily consumption of drinking water and food hygiene here require extra attention. If your body feels unwell during the trip, the entire journey might be ruined!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e6c20db282b94567bf42043a94cbc99.png)
+![Bali Travel Health Tips: A Guide to Drinking Water and Bali ](https://images.gobaligo.id/vocus/vocus_3e6c20db282b94567bf42043a94cbc99.png)
 
 ## The Importance of Water Quality
 
@@ -54,11 +54,11 @@ If you're traveling in Bali, it's highly recommended to purchase bottled water f
 
 > A reader's painful experience: ➡️ "Now I’ll report back on the usage. Last night in Bali, I started having diarrhea—the watery, gushing kind. Around 8 AM, I went to a pharmacy near the hotel and bought Entrostop. I took about six pills, but it didn’t stop. Later, I switched to Imodium Loperamide, and just two pills stopped it.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ca70e37df46a2f3bcd0338a0bda4d23.jpg)
+![Recommended Bottled Water Brands](https://images.gobaligo.id/vocus/vocus_6ca70e37df46a2f3bcd0338a0bda4d23.jpg)
 
 > It seems these medications really depend on the type of diarrhea: **Entrostop might only be suitable for general mild diarrhea**, priced at 10,000 IDR per pack; **Imodium Loperamide is better for acute diarrhea**, the kind where you’re gushing watery stool, priced at 108,000 IDR per pack, which is 10 times the price of Entrostop. Thanks again for Jay’s recommendation!"
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3492fe649d1b46ef46788731bf208c73.png)
+![Recommended Bottled Water Brands](https://images.gobaligo.id/vocus/vocus_3492fe649d1b46ef46788731bf208c73.png)
 
 👉**Here’s the updated version:** [Complete Guide to Diarrhea/Gastroenteritis Medications in Bali](/blog/bali-belly-medicine-guide/)
 

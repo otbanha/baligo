@@ -34,7 +34,7 @@ _srcHash: b6f0e6aaad08630a38b002521e8d8e77
 
 ✨ Today, I'm taking you inside one of my recent favorites: **Hotel Indigo Bali Seminyak Beach**! Not only is the location perfect and the design magical, but it's also **the largest Indigo resort in Southeast Asia**, with six restaurants to ensure you'll never go hungry or run out of options!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c0ebccf8aefe36e1c091fb5231ba7909.jpg)
+![Room Tour Hotel Indigo Bali Seminyak Beach｜Bali's Most Magic](https://images.gobaligo.id/vocus/vocus_c0ebccf8aefe36e1c091fb5231ba7909.jpg)
 
 From the room design to the pool, facilities, and even the housekeeping service, I was blown away. It's the most satisfying Indigo stay I've ever had—even after visiting Indigo properties in Hakone, Dazhi, Alishan, and Kaohsiung. Let's start with five key highlights 👇
 
@@ -66,7 +66,7 @@ Photo by Danny Li
 
 Hotel Indigo sits right on the first row of Seminyak Beach in southwest Bali — step outside and you're at the famous Seminyak Beach, with zero distance to the sunset. It's about a 30-minute drive from Ngurah Rai International Airport, and the hotel offers paid airport transfers and free parking, making it a great choice for a pre- or post-flight stopover or a longer relaxing stay.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5a54eb8ab9e2ea320a2e58e18da42988.jpg)
+![Location｜Prime spot, just steps from the beach and lively st](https://images.gobaligo.id/vocus/vocus_5a54eb8ab9e2ea320a2e58e18da42988.jpg)
 
 Nearby is Seminyak's most vibrant shopping district, all within walking distance:
 
@@ -84,11 +84,11 @@ The area is a hub for trendy cafés, restaurants, bars, and boutique shops — l
 
 This Indigo isn’t just beautiful—it’s a place that **truly lets you unwind and surprises you at every turn**, with facilities so abundant you’ll wonder if you’ve checked into Hogwarts! The public spaces blend traditional Balinese style with modern chic, and every corner is a magazine-cover-worthy photo op.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7fefcda4fe8cddbaea25c95c300f25c4.jpg)
+![Incredible Facilities｜Six restaurants and magical common spa](https://images.gobaligo.id/vocus/vocus_7fefcda4fe8cddbaea25c95c300f25c4.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f6f38de106a8835c97b3a1d0c7e9bce.jpg)
+![Incredible Facilities｜Six restaurants and magical common spa](https://images.gobaligo.id/vocus/vocus_2f6f38de106a8835c97b3a1d0c7e9bce.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9cd2c7b8bf19661721272639bde75706.jpg)
+![Incredible Facilities｜Six restaurants and magical common spa](https://images.gobaligo.id/vocus/vocus_9cd2c7b8bf19661721272639bde75706.jpg)
 
 ### 🔹 Entertainment & Relaxation Facilities
 
@@ -107,7 +107,7 @@ This Indigo isn’t just beautiful—it’s a place that **truly lets you unwind
 
 **Sugarsand (Dinner & À La Carte Breakfast)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9da9bf2a98c9fd7b8be0ad61469c2aa2.jpg)
+![Six Restaurants at a Glance (So You Never Go Hungry)](https://images.gobaligo.id/vocus/vocus_9da9bf2a98c9fd7b8be0ad61469c2aa2.jpg)
 
 With ocean views, DJ music, and stunning decor, this spot serves Japanese fusion cuisine. The dinner plating is Instagram-worthy, and the flavors are decent, but **the service is outstanding—they even brought a free birthday cake and sang for a celebration, which was incredibly touching**. For breakfast, I recommend going à la carte over the buffet—it’s way better! Highlights include the French brioche, Indonesian fried noodles, and dragon fruit bowl.
 
@@ -119,13 +119,13 @@ Laze by the pool, sip cocktails, and soak in the tranquility and comfort of this
 
 **Makase (Breakfast Buffet)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d1fc6da0dfcaf4de33f79386df06c9d0.jpg)
+![Six Restaurants at a Glance (So You Never Go Hungry)](https://images.gobaligo.id/vocus/vocus_d1fc6da0dfcaf4de33f79386df06c9d0.jpg)
 
 The dining atmosphere is fantastic, with both indoor and semi-outdoor seating options. The restaurant is decorated just like the Hogwarts Great Hall! Peeled longan, prepped pomelo, and neatly arranged desserts — the attention to detail is incredibly thoughtful.
 
 **Cave Pool Lounge**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a9b1adbe1fe9bcf62629fca58c15723e.jpg)
+![Six Restaurants at a Glance (So You Never Go Hungry)](https://images.gobaligo.id/vocus/vocus_a9b1adbe1fe9bcf62629fca58c15723e.jpg)
 
 Drink prices are incredibly reasonable — a large pot of fruit tea costs just USD$8, and cocktails are also affordable at USD$8 each. Happy Hour offers buy-one-get-one-free deals, and sipping drinks while soaking in the pool is pure bliss.
 
@@ -196,7 +196,7 @@ From the moment I stepped into Indigo Seminyak, I knew this was no ordinary hote
 
 🛏 The rooms are spacious, stylishly designed, and meticulously cleaned. I stayed three nights and couldn't bear to check out.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e3c61c5d45a345e91c6902cbb291ce7b.png)
+![Beachside Living & Final Thoughts](https://images.gobaligo.id/vocus/vocus_e3c61c5d45a345e91c6902cbb291ce7b.png)
 
 {{block:smk}}
 

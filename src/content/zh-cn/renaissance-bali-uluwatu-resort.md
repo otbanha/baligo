@@ -30,27 +30,27 @@ _srcHash: fc02c06322b9688735a487f310d2c9b0
 
 位于巴厘岛南端的乌鲁瓦图，乌鲁瓦图万丽度假村(Renaissance Bali Uluwatu Resort & Spa) 由万豪国际集团打造，2019年开业的五星级度假村，位于著名的乌鲁瓦图海滩旁,拥有一览无遗的海景。将巴厘岛在地元素融入现代建筑，提供旅客高品质又充满当地文化气息的住宿体验。这里既适合寻求静谧放松的情侣，也非常适合带孩子出游的家庭。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417812568-1.jpeg)
+![巴厘岛乌鲁瓦图的精品奢华度假天堂](https://images.gobaligo.id/images/2026-03/1774417812568-1.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417814467-10.jpg)
+![巴厘岛乌鲁瓦图的精品奢华度假天堂](https://images.gobaligo.id/images/2026-03/1774417814467-10.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417815064-2.jpeg)
+![巴厘岛乌鲁瓦图的精品奢华度假天堂](https://images.gobaligo.id/images/2026-03/1774417815064-2.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417815490-3.jpeg)
+![巴厘岛乌鲁瓦图的精品奢华度假天堂](https://images.gobaligo.id/images/2026-03/1774417815490-3.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417816135-4.jpeg)
+![巴厘岛乌鲁瓦图的精品奢华度假天堂](https://images.gobaligo.id/images/2026-03/1774417816135-4.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417816828-5.jpeg)
+![巴厘岛乌鲁瓦图的精品奢华度假天堂](https://images.gobaligo.id/images/2026-03/1774417816828-5.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417817498-6.jpeg)
+![巴厘岛乌鲁瓦图的精品奢华度假天堂](https://images.gobaligo.id/images/2026-03/1774417817498-6.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417818132-6.jpg)
+![巴厘岛乌鲁瓦图的精品奢华度假天堂](https://images.gobaligo.id/images/2026-03/1774417818132-6.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417818758-7.jpg)
+![巴厘岛乌鲁瓦图的精品奢华度假天堂](https://images.gobaligo.id/images/2026-03/1774417818758-7.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417819462-8.jpg)
+![巴厘岛乌鲁瓦图的精品奢华度假天堂](https://images.gobaligo.id/images/2026-03/1774417819462-8.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417819885-9.jpg)
+![巴厘岛乌鲁瓦图的精品奢华度假天堂](https://images.gobaligo.id/images/2026-03/1774417819885-9.jpg)
 
 > ▶[查看预定日期的Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2562742)
 
@@ -58,17 +58,17 @@ _srcHash: fc02c06322b9688735a487f310d2c9b0
 
 无论是情侣出游、家庭旅行或是朋友聚会，这里的住宿选项都非常多样：
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417612749-2025-10-03.webp)
+![住宿空间舒适雅致，满足各类旅客需求](https://images.gobaligo.id/images/2026-03/1774417612749-2025-10-03.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417613137-433469507.jpg)
+![住宿空间舒适雅致，满足各类旅客需求](https://images.gobaligo.id/images/2026-03/1774417613137-433469507.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417613534-433469726.jpg)
+![住宿空间舒适雅致，满足各类旅客需求](https://images.gobaligo.id/images/2026-03/1774417613534-433469726.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417613914-571584367.jpg)
+![住宿空间舒适雅致，满足各类旅客需求](https://images.gobaligo.id/images/2026-03/1774417613914-571584367.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417614376-643163525.jpg)
+![住宿空间舒适雅致，满足各类旅客需求](https://images.gobaligo.id/images/2026-03/1774417614376-643163525.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417615277-643163528.jpg)
+![住宿空间舒适雅致，满足各类旅客需求](https://images.gobaligo.id/images/2026-03/1774417615277-643163528.jpg)
 
 - 豪华海景客房：可饱览印度洋全景
 - 私人泳池套房：私密又尊荣的度假体验
@@ -82,15 +82,15 @@ _srcHash: fc02c06322b9688735a487f310d2c9b0
 
 Renaissance Bali Uluwatu Resort & Spa 专为亲子旅客打造的亮点之一，便是其独特的双层儿童俱乐部（Kids Club）。这座设施齐全的空间不仅让孩子尽情玩耍，也让爸妈能安心享受自己的时光。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417905717-k0.jpg)
+![两层楼儿童俱乐部：孩子们的梦想游乐天地](https://images.gobaligo.id/images/2026-03/1774417905717-k0.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417907531-k1.jpg)
+![两层楼儿童俱乐部：孩子们的梦想游乐天地](https://images.gobaligo.id/images/2026-03/1774417907531-k1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417908694-k2.jpg)
+![两层楼儿童俱乐部：孩子们的梦想游乐天地](https://images.gobaligo.id/images/2026-03/1774417908694-k2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417910996-k3.jpg)
+![两层楼儿童俱乐部：孩子们的梦想游乐天地](https://images.gobaligo.id/images/2026-03/1774417910996-k3.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774417911909-k5.jpg)
+![两层楼儿童俱乐部：孩子们的梦想游乐天地](https://images.gobaligo.id/images/2026-03/1774417911909-k5.jpg)
 
 ### 主要特色包括：
 
@@ -118,7 +118,7 @@ Renaissance Bali Uluwatu Resort & Spa 专为亲子旅客打造的亮点之一，
 
 ## 身心放松就在 The Spa at Renaissance
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff8d34580de1fbcba4590926881018fa.jpg)
+![身心放松就在 The Spa at Renaissance](https://images.gobaligo.id/vocus/vocus_ff8d34580de1fbcba4590926881018fa.jpg)
 
 度假村内的 The Spa 提供各式巴厘岛传统按摩、香氛疗程与脸部护理。您可以选择单人疗程或双人包厢，享受海风吹拂下的极致放松。
 
@@ -132,7 +132,7 @@ Renaissance Bali Uluwatu Resort & Spa 专为亲子旅客打造的亮点之一，
 
 ## 查看预定日期的Agoda优惠价
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_983ab3be12c708f9b8ec24c4b9670c3f.jpg)
+![查看预定日期的Agoda优惠价](https://images.gobaligo.id/vocus/vocus_983ab3be12c708f9b8ec24c4b9670c3f.jpg)
 
 > ▶请按[这里](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2562742)
 

@@ -56,7 +56,7 @@ For those planning to apply for an e-visa, please do so early! During the nine-d
 
 Will Bali experience heavy traffic during the Qingming Festival and Eid al-Fitr? Should I visit tourist spots?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9749c24c3bb6a64ec5579ecf7b89dc27.png)
+![Transportation](https://images.gobaligo.id/vocus/vocus_9749c24c3bb6a64ec5579ecf7b89dc27.png)
 
 Here are some specific suggestions for navigating Bali's traffic during this special period:
 
@@ -132,7 +132,7 @@ For children, Bali offers a joyful vacation experience. With plenty of outdoor a
 - [Bali Family Travel Guide - Sanur Edition](/blog/sanur-family-travel-guide-2/)
 - Bali Family Travel Column
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_02b21980932dcbfaf9c9146ef6bf887b.png)
+![A Guide for Family Trips Where Everyone is Happy](https://images.gobaligo.id/vocus/vocus_02b21980932dcbfaf9c9146ef6bf887b.png)
 
 ## Conclusion
 

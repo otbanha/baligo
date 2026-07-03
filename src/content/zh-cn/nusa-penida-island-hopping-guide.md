@@ -39,7 +39,7 @@ Sophie的六天巴厘岛自由行游记分享
 - 👏可以配合所有行程变动
 - 👏我们有帮家人庆生，他在金巴兰推荐餐厅并帮我们安排蛋糕及乐队合唱，非常细心
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7619892b3fc1f39c15d5098c619943bf.jpg)
+![包车司机](https://images.gobaligo.id/vocus/vocus_7619892b3fc1f39c15d5098c619943bf.jpg)
 
 ## 1/18第一天：抵达巴厘岛，乌布探险
 

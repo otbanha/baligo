@@ -90,7 +90,7 @@ https://youtu.be/oc0133x2FOU
 
 ### 司机联系方式：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f1744a892b82fbb9e71172be7468b200.png)
+![司机联系方式：](https://images.gobaligo.id/vocus/vocus_f1744a892b82fbb9e71172be7468b200.png)
 
 - Facebook - Fovix Ketut
 - Instagram - ketutfovik

@@ -21,7 +21,7 @@ _srcHash: 2e89e0f87babbd7e536c770a75446bb7
 
 峇里島，一個令人好想去嘅天堂，唔單止係旅遊勝地，仲係一個充滿商機嘅地方。想喺峇里島長住同埋做生意，申請投資者KITAS係一個必須嘅步驟。呢篇文章會詳細解釋點樣攞到投資者KITAS，成立PT PMA（外國投資有限公司），同埋遵守相關法規。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_59530abb9404d5e42755ddff668dce0e.jpg)
+![點樣喺峇里島攞到投資者KITAS同埋經營生意 - 峇里島投資法規詳解](https://images.gobaligo.id/vocus/vocus_59530abb9404d5e42755ddff668dce0e.jpg)
 
 ## **乜嘢係投資者KITAS**
 

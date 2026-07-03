@@ -12,7 +12,7 @@ lang: zh-cn
 _srcHash: 71d553c79c955517996b74c129b24910
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_06359c6b865bb73af6ccde17df378b20.png)
+![七个巴厘岛淡季秘密：游客错过，当地人挚爱](https://images.gobaligo.id/vocus/vocus_06359c6b865bb73af6ccde17df378b20.png)
 
 那不是机场的喧嚣，不是网红泳池的派对音乐，而是雨季来临时，第一滴雨落在百年石雕上的轻响，是游客散去后田野间重新响起的农歌与牛铃，是清晨市场里小贩用沾着泥土的手为你递上木瓜时的真挚眼神。
 

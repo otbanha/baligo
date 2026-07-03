@@ -38,23 +38,23 @@ Berikut rekomendasi 20 Villa kolam renang pribadi paling keren di Ubud, dari yan
 
 ## The Purist Villas & Spa – Villa Kolam Renang Pribadi Mewah dengan Harga Bersahabat
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354982381-48e8d90bb62f8f003f9d7c4ed51cd3b4.jpeg)
+![The Purist Villas & Spa – Villa Kolam Renang Pribadi Mewah d](https://images.gobaligo.id/images/2026-03/1774354982381-48e8d90bb62f8f003f9d7c4ed51cd3b4.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354983248-57105431.jpeg)
+![The Purist Villas & Spa – Villa Kolam Renang Pribadi Mewah d](https://images.gobaligo.id/images/2026-03/1774354983248-57105431.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354983737-117493365.jpeg)
+![The Purist Villas & Spa – Villa Kolam Renang Pribadi Mewah d](https://images.gobaligo.id/images/2026-03/1774354983737-117493365.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354984079-124650011.jpeg)
+![The Purist Villas & Spa – Villa Kolam Renang Pribadi Mewah d](https://images.gobaligo.id/images/2026-03/1774354984079-124650011.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354984459-124650014.jpeg)
+![The Purist Villas & Spa – Villa Kolam Renang Pribadi Mewah d](https://images.gobaligo.id/images/2026-03/1774354984459-124650014.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354984867-124650022.jpeg)
+![The Purist Villas & Spa – Villa Kolam Renang Pribadi Mewah d](https://images.gobaligo.id/images/2026-03/1774354984867-124650022.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354985264-124650033.jpeg)
+![The Purist Villas & Spa – Villa Kolam Renang Pribadi Mewah d](https://images.gobaligo.id/images/2026-03/1774354985264-124650033.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354985673-141468369.jpeg)
+![The Purist Villas & Spa – Villa Kolam Renang Pribadi Mewah d](https://images.gobaligo.id/images/2026-03/1774354985673-141468369.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354986009-219176023.jpeg)
+![The Purist Villas & Spa – Villa Kolam Renang Pribadi Mewah d](https://images.gobaligo.id/images/2026-03/1774354986009-219176023.jpeg)
 
 Mau pengalaman mewah di Ubud tapi nggak mau boncos? The Purist Villas & Spa jawabannya! Villa ini punya desain interior high-end yang bikin speechless, dengan ruangan luas, privasi terjaga, dan kenyamanan maksimal. Harganya justru di luar dugaan — worth it banget, termasuk salah satu Villa kolam renang pribadi terbaik di Ubud.
 
@@ -74,21 +74,21 @@ Setiap vila satu atau dua kamar tidur dilengkapi tempat tidur king-size, kulkas,
 
 ## Tejaprana Bisma – Mewah Banget, Vila Kolam Renang Pribadi Terbaik di Ubud
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355078399-166353672.jpeg)
+![Tejaprana Bisma – Mewah Banget, Vila Kolam Renang Pribadi Te](https://images.gobaligo.id/images/2026-03/1774355078399-166353672.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355079181-172372012.jpeg)
+![Tejaprana Bisma – Mewah Banget, Vila Kolam Renang Pribadi Te](https://images.gobaligo.id/images/2026-03/1774355079181-172372012.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355079570-181286567.jpeg)
+![Tejaprana Bisma – Mewah Banget, Vila Kolam Renang Pribadi Te](https://images.gobaligo.id/images/2026-03/1774355079570-181286567.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355079884-195410347.jpeg)
+![Tejaprana Bisma – Mewah Banget, Vila Kolam Renang Pribadi Te](https://images.gobaligo.id/images/2026-03/1774355079884-195410347.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355080287-195410352.jpeg)
+![Tejaprana Bisma – Mewah Banget, Vila Kolam Renang Pribadi Te](https://images.gobaligo.id/images/2026-03/1774355080287-195410352.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355080698-195412367.jpeg)
+![Tejaprana Bisma – Mewah Banget, Vila Kolam Renang Pribadi Te](https://images.gobaligo.id/images/2026-03/1774355080698-195412367.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355081029-195568639.jpeg)
+![Tejaprana Bisma – Mewah Banget, Vila Kolam Renang Pribadi Te](https://images.gobaligo.id/images/2026-03/1774355081029-195568639.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355081425-379533573.jpeg)
+![Tejaprana Bisma – Mewah Banget, Vila Kolam Renang Pribadi Te](https://images.gobaligo.id/images/2026-03/1774355081425-379533573.jpeg)
 
 Cari vila dengan kolam renang pribadi yang bikin kamu speechless? Vila mewah Tejaprana Bisma pasti memenuhi ekspektasi kamu!
 
@@ -106,21 +106,21 @@ Vila dua kamar tidur yang bikin terkesan punya jendela kaca setinggi dua lantai,
 
 ## Bliss Spa Ubud Hotel – Vila Pribadi dengan Kolam Renang Bernuansa Pedesaan yang Terjangkau
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355130993-222603560.jpeg)
+![Bliss Spa Ubud Hotel – Vila Pribadi dengan Kolam Renang Bern](https://images.gobaligo.id/images/2026-03/1774355130993-222603560.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355131406-222603569.jpeg)
+![Bliss Spa Ubud Hotel – Vila Pribadi dengan Kolam Renang Bern](https://images.gobaligo.id/images/2026-03/1774355131406-222603569.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355131797-222729930.jpeg)
+![Bliss Spa Ubud Hotel – Vila Pribadi dengan Kolam Renang Bern](https://images.gobaligo.id/images/2026-03/1774355131797-222729930.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355132112-222730303.jpeg)
+![Bliss Spa Ubud Hotel – Vila Pribadi dengan Kolam Renang Bern](https://images.gobaligo.id/images/2026-03/1774355132112-222730303.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355132512-222730442.jpeg)
+![Bliss Spa Ubud Hotel – Vila Pribadi dengan Kolam Renang Bern](https://images.gobaligo.id/images/2026-03/1774355132512-222730442.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355132945-222730739.jpeg)
+![Bliss Spa Ubud Hotel – Vila Pribadi dengan Kolam Renang Bern](https://images.gobaligo.id/images/2026-03/1774355132945-222730739.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355133292-223011839.jpeg)
+![Bliss Spa Ubud Hotel – Vila Pribadi dengan Kolam Renang Bern](https://images.gobaligo.id/images/2026-03/1774355133292-223011839.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355133767-290645384.jpeg)
+![Bliss Spa Ubud Hotel – Vila Pribadi dengan Kolam Renang Bern](https://images.gobaligo.id/images/2026-03/1774355133767-290645384.jpeg)
 
 Kangen suasana liburan pedesaan yang tenang dan santai? Bliss Spa Ubud Hotel pasti bisa memenuhi keinginanmu. Resort impian ini terletak di tengah sawah, menawarkan akomodasi nyaman dan pemandangan alam yang indah, bikin kamu bisa relaks maksimal. Di dalam resort ada vila pribadi dengan kolam renang, pilihan pas buat kamu yang ingin pengalaman mewah.
 
@@ -134,21 +134,21 @@ Kangen suasana liburan pedesaan yang tenang dan santai? Bliss Spa Ubud Hotel pas
 
 ## Amora Ubud Boutique Villas – Vila Pribadi dengan Kolam Renang Kelas Menengah yang Romantis dan Jauh dari Keramaian
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355187951-466869788.jpeg)
+![Amora Ubud Boutique Villas – Vila Pribadi dengan Kolam Renan](https://images.gobaligo.id/images/2026-03/1774355187951-466869788.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355188440-466870667.jpeg)
+![Amora Ubud Boutique Villas – Vila Pribadi dengan Kolam Renan](https://images.gobaligo.id/images/2026-03/1774355188440-466870667.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355188949-466870739.jpeg)
+![Amora Ubud Boutique Villas – Vila Pribadi dengan Kolam Renan](https://images.gobaligo.id/images/2026-03/1774355188949-466870739.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355189351-466870787.jpeg)
+![Amora Ubud Boutique Villas – Vila Pribadi dengan Kolam Renan](https://images.gobaligo.id/images/2026-03/1774355189351-466870787.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355189729-466872145.jpeg)
+![Amora Ubud Boutique Villas – Vila Pribadi dengan Kolam Renan](https://images.gobaligo.id/images/2026-03/1774355189729-466872145.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355190085-466872168.jpeg)
+![Amora Ubud Boutique Villas – Vila Pribadi dengan Kolam Renan](https://images.gobaligo.id/images/2026-03/1774355190085-466872168.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355190589-457000330.jpeg)
+![Amora Ubud Boutique Villas – Vila Pribadi dengan Kolam Renan](https://images.gobaligo.id/images/2026-03/1774355190589-457000330.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355191075-466869773.jpeg)
+![Amora Ubud Boutique Villas – Vila Pribadi dengan Kolam Renan](https://images.gobaligo.id/images/2026-03/1774355191075-466869773.jpeg)
 
 Cari vila pribadi dengan kolam renang top di Ubud yang cocok buat pasangan? Amora Ubud Boutique Villas jawabannya! Resort butik ini cuma punya 15 vila pribadi yang super privat, cocok banget buat kamu yang suka suasana tenang dan santai.
 
@@ -162,21 +162,21 @@ Cari vila pribadi dengan kolam renang top di Ubud yang cocok buat pasangan? Amor
 
 ## Homayoon Villa at Bisma Ubud – Villa Kolam Renang Pribadi Kece untuk Pasangan Budget Menengah
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359243533-373419753.jpeg)
+![Homayoon Villa at Bisma Ubud – Villa Kolam Renang Pribadi Ke](https://images.gobaligo.id/images/2026-03/1774359243533-373419753.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359243918-371681282.jpeg)
+![Homayoon Villa at Bisma Ubud – Villa Kolam Renang Pribadi Ke](https://images.gobaligo.id/images/2026-03/1774359243918-371681282.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359244337-371681284.jpeg)
+![Homayoon Villa at Bisma Ubud – Villa Kolam Renang Pribadi Ke](https://images.gobaligo.id/images/2026-03/1774359244337-371681284.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359244664-371681308.jpeg)
+![Homayoon Villa at Bisma Ubud – Villa Kolam Renang Pribadi Ke](https://images.gobaligo.id/images/2026-03/1774359244664-371681308.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359245000-371681311.jpeg)
+![Homayoon Villa at Bisma Ubud – Villa Kolam Renang Pribadi Ke](https://images.gobaligo.id/images/2026-03/1774359245000-371681311.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359245371-371681312.jpeg)
+![Homayoon Villa at Bisma Ubud – Villa Kolam Renang Pribadi Ke](https://images.gobaligo.id/images/2026-03/1774359245371-371681312.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359245764-373419724.jpeg)
+![Homayoon Villa at Bisma Ubud – Villa Kolam Renang Pribadi Ke](https://images.gobaligo.id/images/2026-03/1774359245764-373419724.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359246185-373419727.jpeg)
+![Homayoon Villa at Bisma Ubud – Villa Kolam Renang Pribadi Ke](https://images.gobaligo.id/images/2026-03/1774359246185-373419727.jpeg)
 
 Mau menikmati kemewahan villa pribadi dengan kolam renang di Ubud bareng pasangan tapi budget terbatas? Homayoon Villa jawabannya! Villa ini menawarkan akomodasi premium dengan harga worth it, ada kolam renang bersama dan juga villa pribadi yang lebih privat.
 
@@ -192,21 +192,21 @@ Catatan: beberapa villa cuma punya kolam renang bersama. Kalau mau pengalaman pr
 
 ## Beehouse Dijiwa Ubud - Villa Romantis dengan Pemandangan & Privasi untuk Pasangan
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359303631-210970722.jpeg)
+![Beehouse Dijiwa Ubud - Villa Romantis dengan Pemandangan & P](https://images.gobaligo.id/images/2026-03/1774359303631-210970722.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359304462-209584999.jpeg)
+![Beehouse Dijiwa Ubud - Villa Romantis dengan Pemandangan & P](https://images.gobaligo.id/images/2026-03/1774359304462-209584999.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359304953-210970627.jpeg)
+![Beehouse Dijiwa Ubud - Villa Romantis dengan Pemandangan & P](https://images.gobaligo.id/images/2026-03/1774359304953-210970627.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359305360-210970707.jpeg)
+![Beehouse Dijiwa Ubud - Villa Romantis dengan Pemandangan & P](https://images.gobaligo.id/images/2026-03/1774359305360-210970707.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359305779-311351360.jpeg)
+![Beehouse Dijiwa Ubud - Villa Romantis dengan Pemandangan & P](https://images.gobaligo.id/images/2026-03/1774359305779-311351360.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359306158-311353272.jpeg)
+![Beehouse Dijiwa Ubud - Villa Romantis dengan Pemandangan & P](https://images.gobaligo.id/images/2026-03/1774359306158-311353272.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359306594-489141300.jpeg)
+![Beehouse Dijiwa Ubud - Villa Romantis dengan Pemandangan & P](https://images.gobaligo.id/images/2026-03/1774359306594-489141300.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359307003-489157537.jpeg)
+![Beehouse Dijiwa Ubud - Villa Romantis dengan Pemandangan & P](https://images.gobaligo.id/images/2026-03/1774359307003-489157537.jpeg)
 
 Beehouse Dijiwa Ubud menawarkan vila pribadi dengan desain unik dan penuh karakter, cocok banget buat pasangan yang mencari pemandangan dan privasi. Vila ini punya pemandangan pedesaan yang asri, tapi tetap dekat dengan semua serunya Ubud.
 
@@ -222,21 +222,21 @@ Kalau kamu ingin pengalaman vila dengan kolam renang pribadi di Ubud, pesan saja
 
 ## Ayuterra Resort – Vila Mewah dengan Kolam Renang Pribadi di Bali
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359349249-94811283.jpeg)
+![Ayuterra Resort – Vila Mewah dengan Kolam Renang Pribadi di ](https://images.gobaligo.id/images/2026-03/1774359349249-94811283.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359349753-158456810.jpeg)
+![Ayuterra Resort – Vila Mewah dengan Kolam Renang Pribadi di ](https://images.gobaligo.id/images/2026-03/1774359349753-158456810.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359350639-158456815.jpeg)
+![Ayuterra Resort – Vila Mewah dengan Kolam Renang Pribadi di ](https://images.gobaligo.id/images/2026-03/1774359350639-158456815.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359351156-165248513.jpeg)
+![Ayuterra Resort – Vila Mewah dengan Kolam Renang Pribadi di ](https://images.gobaligo.id/images/2026-03/1774359351156-165248513.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359351562-165249780.jpeg)
+![Ayuterra Resort – Vila Mewah dengan Kolam Renang Pribadi di ](https://images.gobaligo.id/images/2026-03/1774359351562-165249780.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359351962-165249794.jpeg)
+![Ayuterra Resort – Vila Mewah dengan Kolam Renang Pribadi di ](https://images.gobaligo.id/images/2026-03/1774359351962-165249794.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359352270-165250377.jpeg)
+![Ayuterra Resort – Vila Mewah dengan Kolam Renang Pribadi di ](https://images.gobaligo.id/images/2026-03/1774359352270-165250377.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359352673-165250385.jpeg)
+![Ayuterra Resort – Vila Mewah dengan Kolam Renang Pribadi di ](https://images.gobaligo.id/images/2026-03/1774359352673-165250385.jpeg)
 
 Vila pribadi mewah di Ayuterra Resort pasti bikin kamu terkesima. Desain interior yang高端, ruangan yang luas, dan pemandangan yang bikin nganga, bikin vila ini jadi salah satu vila dengan kolam renang pribadi terbaik di Bali.
 
@@ -254,25 +254,25 @@ Villa dengan kolam renang pribadi terbaik di resor ini adalah villa dua kamar ti
 
 ## The Hidden Paradise – Pemandangan Indah, Akomodasi Ubud dengan Fasilitas Lengkap
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359412784-223689835.jpeg)
+![The Hidden Paradise – Pemandangan Indah, Akomodasi Ubud deng](https://images.gobaligo.id/images/2026-03/1774359412784-223689835.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359413214-187681317.jpeg)
+![The Hidden Paradise – Pemandangan Indah, Akomodasi Ubud deng](https://images.gobaligo.id/images/2026-03/1774359413214-187681317.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359413620-331047587.jpeg)
+![The Hidden Paradise – Pemandangan Indah, Akomodasi Ubud deng](https://images.gobaligo.id/images/2026-03/1774359413620-331047587.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359414009-334497391.jpeg)
+![The Hidden Paradise – Pemandangan Indah, Akomodasi Ubud deng](https://images.gobaligo.id/images/2026-03/1774359414009-334497391.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359414403-334498059.jpeg)
+![The Hidden Paradise – Pemandangan Indah, Akomodasi Ubud deng](https://images.gobaligo.id/images/2026-03/1774359414403-334498059.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359414734-488623326.jpeg)
+![The Hidden Paradise – Pemandangan Indah, Akomodasi Ubud deng](https://images.gobaligo.id/images/2026-03/1774359414734-488623326.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359415139-488623391.jpeg)
+![The Hidden Paradise – Pemandangan Indah, Akomodasi Ubud deng](https://images.gobaligo.id/images/2026-03/1774359415139-488623391.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359415550-489606648.jpeg)
+![The Hidden Paradise – Pemandangan Indah, Akomodasi Ubud deng](https://images.gobaligo.id/images/2026-03/1774359415550-489606648.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359415880-592729862.jpg)
+![The Hidden Paradise – Pemandangan Indah, Akomodasi Ubud deng](https://images.gobaligo.id/images/2026-03/1774359415880-592729862.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359416237-whatsapp_image_2021-12-29_at_6.16.06_am.jpeg)
+![The Hidden Paradise – Pemandangan Indah, Akomodasi Ubud deng](https://images.gobaligo.id/images/2026-03/1774359416237-whatsapp_image_2021-12-29_at_6.16.06_am.jpeg)
 
 The Hidden Paradise Ubud menawarkan beragam pilihan akomodasi yang cocok untuk berbagai grup wisatawan, baik itu kumpul bareng teman-teman atau keluarga multi-generasi yang butuh tipe kamar berbeda. Sesuai namanya, resor ini tersembunyi di antara dedaunan yang tenang, dengan pemandangan hutan yang luas.
 
@@ -290,21 +290,21 @@ Resort ini juga punya kamar, suite, dan vila beratap alang-alang tradisional tan
 
 ## Mandana Ubud Villa – Vila Kolam Renang Pribadi Mewah yang Tersembunyi di Surga Tropis
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359466557-404292667.jpeg)
+![Mandana Ubud Villa – Vila Kolam Renang Pribadi Mewah yang Te](https://images.gobaligo.id/images/2026-03/1774359466557-404292667.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359466987-404292547.jpeg)
+![Mandana Ubud Villa – Vila Kolam Renang Pribadi Mewah yang Te](https://images.gobaligo.id/images/2026-03/1774359466987-404292547.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359467380-404292766.jpeg)
+![Mandana Ubud Villa – Vila Kolam Renang Pribadi Mewah yang Te](https://images.gobaligo.id/images/2026-03/1774359467380-404292766.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359467776-404292854.jpeg)
+![Mandana Ubud Villa – Vila Kolam Renang Pribadi Mewah yang Te](https://images.gobaligo.id/images/2026-03/1774359467776-404292854.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359468108-404292889.jpeg)
+![Mandana Ubud Villa – Vila Kolam Renang Pribadi Mewah yang Te](https://images.gobaligo.id/images/2026-03/1774359468108-404292889.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359468500-404292990.jpeg)
+![Mandana Ubud Villa – Vila Kolam Renang Pribadi Mewah yang Te](https://images.gobaligo.id/images/2026-03/1774359468500-404292990.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359468905-404293434.jpeg)
+![Mandana Ubud Villa – Vila Kolam Renang Pribadi Mewah yang Te](https://images.gobaligo.id/images/2026-03/1774359468905-404293434.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359469314-404294538.jpeg)
+![Mandana Ubud Villa – Vila Kolam Renang Pribadi Mewah yang Te](https://images.gobaligo.id/images/2026-03/1774359469314-404294538.jpeg)
 
 Mandana Ubud Villa menyatu apik di antara pohon palem dan sawah, dengan vila yang dirancang sedemikian rupa bikin kamu serasa di surga pribadi. Kalau kamu mendambakan suasana mewah dan privat, serta pengin tenggelam dalam alam, Mandana Ubud Villa jelas pilihan yang pas banget.
 
@@ -320,21 +320,21 @@ Kolam renang infinity pribadi ada di bawah vila, lengkap dengan teras kecil buat
 
 ## Madani Antique Villas – Villa Kolam Renang Pribadi Romantis yang Terjangkau untuk Pasangan
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359542577-322295691.jpeg)
+![Madani Antique Villas – Villa Kolam Renang Pribadi Romantis ](https://images.gobaligo.id/images/2026-03/1774359542577-322295691.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359543362-163696211.jpeg)
+![Madani Antique Villas – Villa Kolam Renang Pribadi Romantis ](https://images.gobaligo.id/images/2026-03/1774359543362-163696211.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359543769-322295861.jpeg)
+![Madani Antique Villas – Villa Kolam Renang Pribadi Romantis ](https://images.gobaligo.id/images/2026-03/1774359543769-322295861.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359544285-322395218.jpeg)
+![Madani Antique Villas – Villa Kolam Renang Pribadi Romantis ](https://images.gobaligo.id/images/2026-03/1774359544285-322395218.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359544686-322397093.jpeg)
+![Madani Antique Villas – Villa Kolam Renang Pribadi Romantis ](https://images.gobaligo.id/images/2026-03/1774359544686-322397093.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359545088-322397125.jpeg)
+![Madani Antique Villas – Villa Kolam Renang Pribadi Romantis ](https://images.gobaligo.id/images/2026-03/1774359545088-322397125.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359545458-333254441.jpeg)
+![Madani Antique Villas – Villa Kolam Renang Pribadi Romantis ](https://images.gobaligo.id/images/2026-03/1774359545458-333254441.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359545809-374758928.jpeg)
+![Madani Antique Villas – Villa Kolam Renang Pribadi Romantis ](https://images.gobaligo.id/images/2026-03/1774359545809-374758928.jpeg)
 
 Cari tempat romantis yang ramah di kantong di Ubud? Madani Antique Villas jawabannya! Villa pribadi bergaya Bali ini luas, privasi terjaga, dan penuh sentuhan romantis. Berlokasi di pedesaan yang indah, harganya di luar dugaan — worth banget buat bulan madu atau liburan berdua.
 
@@ -350,21 +350,21 @@ Villa ini terbuat dari kayu dengan detail kisi-kisi, memancarkan pesona dan suas
 
 ## Airsania Ubud Antique Villas – Villa Kolam Renang Pribadi Sempurna untuk Pasangan yang Ingin Dekat dengan Alam
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359602858-372926347.jpeg)
+![Airsania Ubud Antique Villas – Villa Kolam Renang Pribadi Se](https://images.gobaligo.id/images/2026-03/1774359602858-372926347.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359603316-372926346.jpeg)
+![Airsania Ubud Antique Villas – Villa Kolam Renang Pribadi Se](https://images.gobaligo.id/images/2026-03/1774359603316-372926346.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359603793-372927204.jpeg)
+![Airsania Ubud Antique Villas – Villa Kolam Renang Pribadi Se](https://images.gobaligo.id/images/2026-03/1774359603793-372927204.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359604205-372927820.jpeg)
+![Airsania Ubud Antique Villas – Villa Kolam Renang Pribadi Se](https://images.gobaligo.id/images/2026-03/1774359604205-372927820.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359604720-372937096.jpeg)
+![Airsania Ubud Antique Villas – Villa Kolam Renang Pribadi Se](https://images.gobaligo.id/images/2026-03/1774359604720-372937096.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359605231-372937756.jpeg)
+![Airsania Ubud Antique Villas – Villa Kolam Renang Pribadi Se](https://images.gobaligo.id/images/2026-03/1774359605231-372937756.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359605630-385611740.jpeg)
+![Airsania Ubud Antique Villas – Villa Kolam Renang Pribadi Se](https://images.gobaligo.id/images/2026-03/1774359605630-385611740.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359606012-385612669.jpeg)
+![Airsania Ubud Antique Villas – Villa Kolam Renang Pribadi Se](https://images.gobaligo.id/images/2026-03/1774359606012-385612669.jpeg)
 
 Airsania Ubud Antique Villas adalah penginapan bintang empat yang memukau dengan layanan ramah tamah. Ada tiga villa pribadi bergaya arsitektur tradisional Jawa yang bikin kamu merasa hangat dan nyaman.
 
@@ -380,25 +380,25 @@ Villa ini punya langit-langit kayu tinggi, dinding batu dan kayu, serta lantai k
 
 ## Ume Sri Villas Ubud – Villa Kolam Renang Super Worth It buat Pasangan
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359648227-116437194.jpeg)
+![Ume Sri Villas Ubud – Villa Kolam Renang Super Worth It buat](https://images.gobaligo.id/images/2026-03/1774359648227-116437194.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359649042-116437197.jpeg)
+![Ume Sri Villas Ubud – Villa Kolam Renang Super Worth It buat](https://images.gobaligo.id/images/2026-03/1774359649042-116437197.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359649435-116437201.jpeg)
+![Ume Sri Villas Ubud – Villa Kolam Renang Super Worth It buat](https://images.gobaligo.id/images/2026-03/1774359649435-116437201.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359649869-116811325.jpeg)
+![Ume Sri Villas Ubud – Villa Kolam Renang Super Worth It buat](https://images.gobaligo.id/images/2026-03/1774359649869-116811325.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359650191-117312325.jpeg)
+![Ume Sri Villas Ubud – Villa Kolam Renang Super Worth It buat](https://images.gobaligo.id/images/2026-03/1774359650191-117312325.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359650558-117312326.jpeg)
+![Ume Sri Villas Ubud – Villa Kolam Renang Super Worth It buat](https://images.gobaligo.id/images/2026-03/1774359650558-117312326.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359650957-117312327.jpeg)
+![Ume Sri Villas Ubud – Villa Kolam Renang Super Worth It buat](https://images.gobaligo.id/images/2026-03/1774359650957-117312327.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359651377-117312328.jpeg)
+![Ume Sri Villas Ubud – Villa Kolam Renang Super Worth It buat](https://images.gobaligo.id/images/2026-03/1774359651377-117312328.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359651714-117312332.jpeg)
+![Ume Sri Villas Ubud – Villa Kolam Renang Super Worth It buat](https://images.gobaligo.id/images/2026-03/1774359651714-117312332.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359652030-117312339.jpeg)
+![Ume Sri Villas Ubud – Villa Kolam Renang Super Worth It buat](https://images.gobaligo.id/images/2026-03/1774359652030-117312339.jpeg)
 
 Mau pengalaman mewah dengan harga ramah di kantong? Ume Sri Villas Ubud jawabannya! Villa modern ini didesain dengan cerdas buat maksimalin ruang, jadi pilihan villa kolam renang paling terjangkau di Ubud.
 
@@ -412,25 +412,25 @@ Mau pengalaman mewah dengan harga ramah di kantong? Ume Sri Villas Ubud jawabann
 
 ## Jungleight Bali - Villa Bambu Mewah Versi Santai
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359687420-504214154.jpg)
+![Jungleight Bali - Villa Bambu Mewah Versi Santai](https://images.gobaligo.id/images/2026-03/1774359687420-504214154.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359688053-504214368.jpg)
+![Jungleight Bali - Villa Bambu Mewah Versi Santai](https://images.gobaligo.id/images/2026-03/1774359688053-504214368.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359688457-504214401.jpg)
+![Jungleight Bali - Villa Bambu Mewah Versi Santai](https://images.gobaligo.id/images/2026-03/1774359688457-504214401.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359688859-504214431.jpg)
+![Jungleight Bali - Villa Bambu Mewah Versi Santai](https://images.gobaligo.id/images/2026-03/1774359688859-504214431.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359689373-504214513.jpg)
+![Jungleight Bali - Villa Bambu Mewah Versi Santai](https://images.gobaligo.id/images/2026-03/1774359689373-504214513.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359689784-504214543.jpg)
+![Jungleight Bali - Villa Bambu Mewah Versi Santai](https://images.gobaligo.id/images/2026-03/1774359689784-504214543.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359690196-504522417.jpg)
+![Jungleight Bali - Villa Bambu Mewah Versi Santai](https://images.gobaligo.id/images/2026-03/1774359690196-504522417.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359690599-504522525.jpg)
+![Jungleight Bali - Villa Bambu Mewah Versi Santai](https://images.gobaligo.id/images/2026-03/1774359690599-504522525.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359690940-504612186.jpg)
+![Jungleight Bali - Villa Bambu Mewah Versi Santai](https://images.gobaligo.id/images/2026-03/1774359690940-504612186.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359691289-504637988.jpg)
+![Jungleight Bali - Villa Bambu Mewah Versi Santai](https://images.gobaligo.id/images/2026-03/1774359691289-504637988.jpg)
 
 **Lokasi** | Jungleight Bali ada di Tegallalang, sekitar 8,4 km dari Ubud Palace. Dalam sepuluh menit jalan kaki ada tiga restoran dengan pemandangan keren banget.
 
@@ -444,25 +444,25 @@ Suasana di sini kayak dongeng banget, cocok banget buat foto-foto! Rekomendasi b
 
 ## Alam Wayang Ubud - Tenang di Tengah Keramaian, Gaya Hutan yang Damai Dekat Pusat Kota
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359758341-308153567.jpg)
+![Alam Wayang Ubud - Tenang di Tengah Keramaian, Gaya Hutan ya](https://images.gobaligo.id/images/2026-03/1774359758341-308153567.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359758713-301781171.jpg)
+![Alam Wayang Ubud - Tenang di Tengah Keramaian, Gaya Hutan ya](https://images.gobaligo.id/images/2026-03/1774359758713-301781171.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359759103-301781965.jpg)
+![Alam Wayang Ubud - Tenang di Tengah Keramaian, Gaya Hutan ya](https://images.gobaligo.id/images/2026-03/1774359759103-301781965.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359759511-301782715.jpg)
+![Alam Wayang Ubud - Tenang di Tengah Keramaian, Gaya Hutan ya](https://images.gobaligo.id/images/2026-03/1774359759511-301782715.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359759923-301784049.jpg)
+![Alam Wayang Ubud - Tenang di Tengah Keramaian, Gaya Hutan ya](https://images.gobaligo.id/images/2026-03/1774359759923-301784049.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359760340-301788175.jpg)
+![Alam Wayang Ubud - Tenang di Tengah Keramaian, Gaya Hutan ya](https://images.gobaligo.id/images/2026-03/1774359760340-301788175.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359760741-406270498.jpg)
+![Alam Wayang Ubud - Tenang di Tengah Keramaian, Gaya Hutan ya](https://images.gobaligo.id/images/2026-03/1774359760741-406270498.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359761148-406270521.jpg)
+![Alam Wayang Ubud - Tenang di Tengah Keramaian, Gaya Hutan ya](https://images.gobaligo.id/images/2026-03/1774359761148-406270521.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359761563-406270545.jpg)
+![Alam Wayang Ubud - Tenang di Tengah Keramaian, Gaya Hutan ya](https://images.gobaligo.id/images/2026-03/1774359761563-406270545.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359761872-406270563.jpg)
+![Alam Wayang Ubud - Tenang di Tengah Keramaian, Gaya Hutan ya](https://images.gobaligo.id/images/2026-03/1774359761872-406270563.jpg)
 
 **Lokasi** | Alam Wayang Ubud - CHSE Certified adalah resor bintang empat di Ubud, cuma 800 meter dari Blanco Museum. Suasananya adem, sekitar 10 menit naik mobil dari pusat Ubud, malam hari nggak berisik, cocok banget buat relaksasi. Di samping resor ada banyak toko kecil dan studio yoga, tamu bisa jalan-jalan santai di sekitar.
 
@@ -474,25 +474,25 @@ Suasana di sini kayak dongeng banget, cocok banget buat foto-foto! Rekomendasi b
 
 ## **Tanah Gajah, a Resort by Hadiprana - Surga Tersembunyi di Ubud**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359911872-148960887.jpg)
+![Tanah Gajah, a Resort by Hadiprana - Surga Tersembunyi di Ub](https://images.gobaligo.id/images/2026-03/1774359911872-148960887.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359912309-49706884.jpg)
+![Tanah Gajah, a Resort by Hadiprana - Surga Tersembunyi di Ub](https://images.gobaligo.id/images/2026-03/1774359912309-49706884.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359912716-148964233.jpg)
+![Tanah Gajah, a Resort by Hadiprana - Surga Tersembunyi di Ub](https://images.gobaligo.id/images/2026-03/1774359912716-148964233.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359913223-148964236.jpg)
+![Tanah Gajah, a Resort by Hadiprana - Surga Tersembunyi di Ub](https://images.gobaligo.id/images/2026-03/1774359913223-148964236.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359913542-148967973.jpg)
+![Tanah Gajah, a Resort by Hadiprana - Surga Tersembunyi di Ub](https://images.gobaligo.id/images/2026-03/1774359913542-148967973.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359913942-148970216.jpg)
+![Tanah Gajah, a Resort by Hadiprana - Surga Tersembunyi di Ub](https://images.gobaligo.id/images/2026-03/1774359913942-148970216.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359914306-148970219.jpg)
+![Tanah Gajah, a Resort by Hadiprana - Surga Tersembunyi di Ub](https://images.gobaligo.id/images/2026-03/1774359914306-148970219.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359914653-269242725.jpg)
+![Tanah Gajah, a Resort by Hadiprana - Surga Tersembunyi di Ub](https://images.gobaligo.id/images/2026-03/1774359914653-269242725.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359915061-484458616.jpg)
+![Tanah Gajah, a Resort by Hadiprana - Surga Tersembunyi di Ub](https://images.gobaligo.id/images/2026-03/1774359915061-484458616.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359915471-508029509.jpg)
+![Tanah Gajah, a Resort by Hadiprana - Surga Tersembunyi di Ub](https://images.gobaligo.id/images/2026-03/1774359915471-508029509.jpg)
 
 **Lokasi** | Tanah Gajah terletak di Ubud, sekitar 3 km dari pusat kota, dikelilingi hamparan sawah yang luas. Tempat ini kasih pengalaman liburan yang super tenang dan damai. Jauh dari keramaian, cocok banget buat kamu yang cari ketenangan dan relaksasi.
 
@@ -508,25 +508,25 @@ Tanah Gajah menggabungkan kemewahan dan ketenangan, jadi tempat surga yang bikin
 
 ## **Ubud Paradise Villa - Pilihan Liburan Tenang di Pedesaan**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359974522-489923166.jpg)
+![Ubud Paradise Villa - Pilihan Liburan Tenang di Pedesaan](https://images.gobaligo.id/images/2026-03/1774359974522-489923166.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359975005-422155003.jpg)
+![Ubud Paradise Villa - Pilihan Liburan Tenang di Pedesaan](https://images.gobaligo.id/images/2026-03/1774359975005-422155003.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359975382-422157225.jpg)
+![Ubud Paradise Villa - Pilihan Liburan Tenang di Pedesaan](https://images.gobaligo.id/images/2026-03/1774359975382-422157225.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359975819-448671160.jpg)
+![Ubud Paradise Villa - Pilihan Liburan Tenang di Pedesaan](https://images.gobaligo.id/images/2026-03/1774359975819-448671160.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359976330-489638478.jpg)
+![Ubud Paradise Villa - Pilihan Liburan Tenang di Pedesaan](https://images.gobaligo.id/images/2026-03/1774359976330-489638478.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359976742-489639147.jpg)
+![Ubud Paradise Villa - Pilihan Liburan Tenang di Pedesaan](https://images.gobaligo.id/images/2026-03/1774359976742-489639147.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359977183-489639295.jpg)
+![Ubud Paradise Villa - Pilihan Liburan Tenang di Pedesaan](https://images.gobaligo.id/images/2026-03/1774359977183-489639295.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359977656-490265875.jpg)
+![Ubud Paradise Villa - Pilihan Liburan Tenang di Pedesaan](https://images.gobaligo.id/images/2026-03/1774359977656-490265875.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359978054-490266838.jpg)
+![Ubud Paradise Villa - Pilihan Liburan Tenang di Pedesaan](https://images.gobaligo.id/images/2026-03/1774359978054-490266838.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359978456-496551218.jpg)
+![Ubud Paradise Villa - Pilihan Liburan Tenang di Pedesaan](https://images.gobaligo.id/images/2026-03/1774359978456-496551218.jpg)
 
 **Lokasi** | Ubud Paradise Villa terletak di Ubud, dikelilingi sawah hijau yang asri. Di dalam vila ada taman tropis yang rimbun dan kolam renang pribadi, bikin kamu bisa rileks total di alam. Vila ini cuma 2,7 km dari Pasar Ubud dan Puri Ubud, jadi lokasinya tenang tapi tetap dekat dengan pusat. Di sekitar vila ada banyak kafe, restoran Bali autentik, dan pusat kebugaran, jalan kaki cuma 2-3 menit.
 
@@ -540,23 +540,23 @@ Ubud Paradise Villa menggabungkan ketenangan dan kemudahan, cocok banget buat ka
 
 ## **Inara Alas Harum - Surga Tersembunyi di Tengah Hutan**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360028362-503284810.jpg)
+![Inara Alas Harum - Surga Tersembunyi di Tengah Hutan](https://images.gobaligo.id/images/2026-03/1774360028362-503284810.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360028740-465927763.jpg)
+![Inara Alas Harum - Surga Tersembunyi di Tengah Hutan](https://images.gobaligo.id/images/2026-03/1774360028740-465927763.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360029055-479855319.jpg)
+![Inara Alas Harum - Surga Tersembunyi di Tengah Hutan](https://images.gobaligo.id/images/2026-03/1774360029055-479855319.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360029442-479855331.jpg)
+![Inara Alas Harum - Surga Tersembunyi di Tengah Hutan](https://images.gobaligo.id/images/2026-03/1774360029442-479855331.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360029748-480812338.jpg)
+![Inara Alas Harum - Surga Tersembunyi di Tengah Hutan](https://images.gobaligo.id/images/2026-03/1774360029748-480812338.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360030133-480814904.jpg)
+![Inara Alas Harum - Surga Tersembunyi di Tengah Hutan](https://images.gobaligo.id/images/2026-03/1774360030133-480814904.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360030474-503284840.jpg)
+![Inara Alas Harum - Surga Tersembunyi di Tengah Hutan](https://images.gobaligo.id/images/2026-03/1774360030474-503284840.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360030884-503284846.jpg)
+![Inara Alas Harum - Surga Tersembunyi di Tengah Hutan](https://images.gobaligo.id/images/2026-03/1774360030884-503284846.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360031203-579913536.jpg)
+![Inara Alas Harum - Surga Tersembunyi di Tengah Hutan](https://images.gobaligo.id/images/2026-03/1774360031203-579913536.jpg)
 
 **Lokasi**｜Inara Alas Harum terletak 7,8 km dari sawah Tegallalang. Meski agak jauh dari area ramai, hotel ini menyediakan shuttle gratis ke pusat Ubud, jadi tetap praktis.
 
@@ -570,25 +570,25 @@ Ubud Paradise Villa menggabungkan ketenangan dan kemudahan, cocok banget buat ka
 
 ## Bidadari Private Villas & Retreat — Nikmati Layanan Kelas Dunia
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360142434-130243921.jpg)
+![Bidadari Private Villas & Retreat — Nikmati Layanan Kelas Du](https://images.gobaligo.id/images/2026-03/1774360142434-130243921.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360142820-151014316.jpg)
+![Bidadari Private Villas & Retreat — Nikmati Layanan Kelas Du](https://images.gobaligo.id/images/2026-03/1774360142820-151014316.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360143214-201011185.jpg)
+![Bidadari Private Villas & Retreat — Nikmati Layanan Kelas Du](https://images.gobaligo.id/images/2026-03/1774360143214-201011185.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360143616-201191798.jpg)
+![Bidadari Private Villas & Retreat — Nikmati Layanan Kelas Du](https://images.gobaligo.id/images/2026-03/1774360143616-201191798.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360144043-201214363.jpg)
+![Bidadari Private Villas & Retreat — Nikmati Layanan Kelas Du](https://images.gobaligo.id/images/2026-03/1774360144043-201214363.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360144377-201215647.jpg)
+![Bidadari Private Villas & Retreat — Nikmati Layanan Kelas Du](https://images.gobaligo.id/images/2026-03/1774360144377-201215647.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360144857-_17140994.jpeg)
+![Bidadari Private Villas & Retreat — Nikmati Layanan Kelas Du](https://images.gobaligo.id/images/2026-03/1774360144857-_17140994.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360145282-_130243891.jpeg)
+![Bidadari Private Villas & Retreat — Nikmati Layanan Kelas Du](https://images.gobaligo.id/images/2026-03/1774360145282-_130243891.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360145674-_130243896.jpeg)
+![Bidadari Private Villas & Retreat — Nikmati Layanan Kelas Du](https://images.gobaligo.id/images/2026-03/1774360145674-_130243896.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360146002-_516683475.jpeg)
+![Bidadari Private Villas & Retreat — Nikmati Layanan Kelas Du](https://images.gobaligo.id/images/2026-03/1774360146002-_516683475.jpeg)
 
 **Lokasi** | Bidadari Private Villas & Retreat terletak di pinggiran Ubud, hanya 10 menit berkendara dari pusat kota Ubud. Suasananya tenang dan asri, dikelilingi tanaman tropis — tempat liburan yang ideal banget, cocok untuk honeymoon atau traveler yang pengin jauh dari keramaian. Tapi kalau kamu punya rencana buat ikut aktivitas di Ubud atau cobain restoran kece, perlu diperhitungkan waktu tempuhnya, sekitar 20–30 menit.
 
@@ -614,21 +614,21 @@ Selain itu, ada Matahari Spa di dalam resort yang menyediakan pijat tradisional 
 
 ## E Sanctuary Resort Ubud — Vila Bintang 5 Terbaru 2024
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360266747-v6-honeymoon-setup-bed-scaled.jpg)
+![E Sanctuary Resort Ubud — Vila Bintang 5 Terbaru 2024](https://images.gobaligo.id/images/2026-03/1774360266747-v6-honeymoon-setup-bed-scaled.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360267338-t080325-e.-sanctuary-resort-and-rain-forest-restauranta.1-20-scaled.jpg)
+![E Sanctuary Resort Ubud — Vila Bintang 5 Terbaru 2024](https://images.gobaligo.id/images/2026-03/1774360267338-t080325-e.-sanctuary-resort-and-rain-forest-restauranta.1-20-scaled.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360267945-t080325-e.-sanctuary-resort-and-rain-forest-restauranta.1-21-scaled.jpg)
+![E Sanctuary Resort Ubud — Vila Bintang 5 Terbaru 2024](https://images.gobaligo.id/images/2026-03/1774360267945-t080325-e.-sanctuary-resort-and-rain-forest-restauranta.1-21-scaled.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360268490-v24-private-pool-villa-scaled.jpg)
+![E Sanctuary Resort Ubud — Vila Bintang 5 Terbaru 2024](https://images.gobaligo.id/images/2026-03/1774360268490-v24-private-pool-villa-scaled.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360269204-v080325-e.-sanctuary-resort-and-rain-forest-restaurant-m.2-17-scaled.jpg)
+![E Sanctuary Resort Ubud — Vila Bintang 5 Terbaru 2024](https://images.gobaligo.id/images/2026-03/1774360269204-v080325-e.-sanctuary-resort-and-rain-forest-restaurant-m.2-17-scaled.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360269734-v080325-e.-sanctuary-resort-and-rain-forest-restauranta.1-2-scaled.jpg)
+![E Sanctuary Resort Ubud — Vila Bintang 5 Terbaru 2024](https://images.gobaligo.id/images/2026-03/1774360269734-v080325-e.-sanctuary-resort-and-rain-forest-restauranta.1-2-scaled.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360270141-vb04f0fe6905642d5d4b9b358618e5329.jpeg)
+![E Sanctuary Resort Ubud — Vila Bintang 5 Terbaru 2024](https://images.gobaligo.id/images/2026-03/1774360270141-vb04f0fe6905642d5d4b9b358618e5329.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360270495-vf2ef614b07e6a259ee27e0695c4f3f72.jpeg)
+![E Sanctuary Resort Ubud — Vila Bintang 5 Terbaru 2024](https://images.gobaligo.id/images/2026-03/1774360270495-vf2ef614b07e6a259ee27e0695c4f3f72.jpeg)
 
 **Lokasi** | E Sanctuary Resort Ubud yang baru dibuka tahun 2024 ini terletak di lokasi yang tenang namun tetap strategis di Ubud, Bali. Jaraknya sekitar 20–30 menit berkendara dari pusat kota, jadi kamu bisa menikmati ketenangan tanpa jauh dari keramaian. Dekat dengan banyak tempat terkenal seperti Monkey Forest, Tegalalang Rice Terrace, dan Pasar Tradisional Ubud. Dikelilingi juga oleh berbagai kuliner lokal dan desa seni kerajinan, seperti desa perak Celuk dan desa ukir kayu Mas. Cocok banget jadi basecamp buat eksplorasi budaya Bali.
 
@@ -642,25 +642,25 @@ Kami punya ulasan lengkapnya, cek di [sini](/blog/e-sanctuary-resort-ubud/)
 
 ## **The Ambengan Villas Ubud by Pramana Villas** Pilihan Tepat yang Tenang di Tengah Keramaian
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360355434-69f2625bca68d359eae19ce16c2cd065.jpeg)
+![The Ambengan Villas Ubud by Pramana Villas Pilihan Tepat yan](https://images.gobaligo.id/images/2026-03/1774360355434-69f2625bca68d359eae19ce16c2cd065.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360355995-71f8d2ec8c6bf42b8cee817a6fd4c008.jpeg)
+![The Ambengan Villas Ubud by Pramana Villas Pilihan Tepat yan](https://images.gobaligo.id/images/2026-03/1774360355995-71f8d2ec8c6bf42b8cee817a6fd4c008.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360356536-182f722c4b1530a8093ee637063ad49a.jpeg)
+![The Ambengan Villas Ubud by Pramana Villas Pilihan Tepat yan](https://images.gobaligo.id/images/2026-03/1774360356536-182f722c4b1530a8093ee637063ad49a.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360357094-548958744.jpg)
+![The Ambengan Villas Ubud by Pramana Villas Pilihan Tepat yan](https://images.gobaligo.id/images/2026-03/1774360357094-548958744.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360357561-558872149.jpg)
+![The Ambengan Villas Ubud by Pramana Villas Pilihan Tepat yan](https://images.gobaligo.id/images/2026-03/1774360357561-558872149.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360357977-558872169.jpg)
+![The Ambengan Villas Ubud by Pramana Villas Pilihan Tepat yan](https://images.gobaligo.id/images/2026-03/1774360357977-558872169.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360358349-562314643.jpg)
+![The Ambengan Villas Ubud by Pramana Villas Pilihan Tepat yan](https://images.gobaligo.id/images/2026-03/1774360358349-562314643.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360358805-562314653.jpg)
+![The Ambengan Villas Ubud by Pramana Villas Pilihan Tepat yan](https://images.gobaligo.id/images/2026-03/1774360358805-562314653.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360359319-c9c19c0e48144c9e42c8f5cdd5656c7a.jpeg)
+![The Ambengan Villas Ubud by Pramana Villas Pilihan Tepat yan](https://images.gobaligo.id/images/2026-03/1774360359319-c9c19c0e48144c9e42c8f5cdd5656c7a.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360359884-d239345d1540ed321f9c749ed1a4279b.jpeg)
+![The Ambengan Villas Ubud by Pramana Villas Pilihan Tepat yan](https://images.gobaligo.id/images/2026-03/1774360359884-d239345d1540ed321f9c749ed1a4279b.jpeg)
 
 **Lokasi** | The Ambengan Villas Ubud by Pramana Villas terletak di pusat budaya Bali, Ubud. Dekat dengan Monkey Forest, Tegalalang Rice Terrace, dan Pasar Ubud — baik pemandangan alam maupun budaya lokal, semuanya gampang dijangkau. Tempat ini jadi starting point yang oke banget buat eksplorasi Ubud.
 
@@ -678,7 +678,7 @@ The Ambengan Villas punya rating 9.6 di Agoda, terutama dipuji karena pelayanan 
 
 Lampiran peta detail lokasi villa Ubud yang terus kami update, [klik di sini](https://www.google.com/maps/d/u/0/edit?mid=1PWEp5tMdYpPcNV-iJrhhSD70HPtxVsE&usp=sharing)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ca3457565045cc539f1b4eece34f41ec.png)
+![Peta Lokasi](https://images.gobaligo.id/vocus/vocus_ca3457565045cc539f1b4eece34f41ec.png)
 
 {{block:ubud}}
 

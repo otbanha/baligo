@@ -36,7 +36,7 @@ _srcHash: 7c90a27f09f5ed09d5e8beea6059bcdd
 
 If your bucket list includes the prehistoric Komodo dragon or the dreamlike Pink Beach, this 2026 update might disrupt your plans. To protect this fragile paradise, the Indonesian government has officially implemented strict visitor limits at Komodo National Park. The days of arriving at the dock and hopping on a boat spontaneously are now history. Starting 2026, every encounter with these majestic creatures requires precise reservations and advanced planning.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776404929670-ce36926b346e8aceb01ef95b46509d3b.jpg)
+![【Urgent Notice】Komodo Implements Visitor Limits! Starting 20](https://images.gobaligo.id/images/2026-04/1776404929670-ce36926b346e8aceb01ef95b46509d3b.jpg)
 
 ## Only 1,000 Visitors Per Day
 
@@ -46,7 +46,7 @@ This number isn't arbitrary. Back in 2018, researchers assessed the park's ecolo
 
 But by 2025, visitor numbers surged to over 420,000, shattering the cap.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776404897217-fdf1ae42c54b9b350a38e08a3ccc880d.jpg)
+![Only 1,000 Visitors Per Day](https://images.gobaligo.id/images/2026-04/1776404897217-fdf1ae42c54b9b350a38e08a3ccc880d.jpg)
 
 ## Why the Limits Now?
 
@@ -56,7 +56,7 @@ With such widespread acclaim, it's no surprise that tourist numbers have explode
 
 Faced with the pressure of 'overtourism,' the park authorities have decided to officially implement a visitor flow restriction mechanism based on research data from eight years ago. While some criticize the data as outdated, the park's stance is clear: the data is objective, and they will proceed accordingly.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776404815417-5c0d85119e45987fda4141af473ccb12.jpg)
+![Why the Limits Now?](https://images.gobaligo.id/images/2026-04/1776404815417-5c0d85119e45987fda4141af473ccb12.jpg)
 
 ## How Will the Visitor Restrictions Be Implemented?
 
@@ -114,7 +114,7 @@ A: The most common way is to fly from Bali to Labuan Bajo, then take a boat from
 
 A: The most reliable method is to book a package tour through a local travel agency with established resources, as they will secure park entry slots in advance, sparing you the hassle. For independent travelers, it's advisable to book at least 1 to 2 months ahead through a travel agency with local connections, especially during peak season (July to September). Trying your luck upon arrival in Labuan Bajo during peak season is nearly impossible.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6680c949bff873153e488598381a7ca6.png)
+![Frequently Asked Questions FAQ](https://images.gobaligo.id/vocus/vocus_6680c949bff873153e488598381a7ca6.png)
 
 [⭐⭐Bali + Komodo Dragon Island, 4 Nights Luxury Stay/No Shopping/No Hidden Fees/5-Day Tour⭐⭐](/blog/bali-komodo-luxury-tour-2026/)
 

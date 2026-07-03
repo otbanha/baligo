@@ -32,7 +32,7 @@ Mengingat aturan ini, mending kamu pikir-pikir dulu sebelum bawa obat tidur rese
 
 Sebelum berangkat, cek dulu [situs resmi Kementerian Luar Negeri](https://www.boca.gov.tw/sp-foof-countrycp-03-12-c23b0-02-1.html) buat lihat apakah obat yang kamu bawa legal di sana. Kalau memang harus bawa obat khusus, konsultasi dulu sama dokter atau kedutaan setempat biar aman dari aturan dan nggak kena masalah atau penundaan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc8a421dd3f00e888995468c395919ec.png)
+![Penting Banget: Bawa Obat Tidur / Obat Resep Khusus ke Bali ](https://images.gobaligo.id/vocus/vocus_cc8a421dd3f00e888995468c395919ec.png)
 
 Pesan dan hemat di sini:
 

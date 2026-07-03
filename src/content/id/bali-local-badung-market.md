@@ -41,7 +41,7 @@ Terus orang lokal belanja di mana? Jawabannya ternyata simpel banget — **pasar
 
 Beberapa tahun terakhir, makin banyak turis yang nemuin rahasia ini. Dibanding oleh-oleh yang dibuat khusus buat turis, barang yang dibawa pulang dari pasar tradisional justru lebih autentik, lebih murah, dan lebih kepakai. Yang paling populer? **Rempah-rempah Indonesia**.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779287700843-artikel_201905120521_badungtraditionalmarket.jpg)
+![【Bali Trip Mendalam】Masuk ke Pasar Tradisional Lokal: Menemu](https://images.gobaligo.id/images/2026-05/1779287700843-artikel_201905120521_badungtraditionalmarket.jpg)
 
 ## Bahkan di Ubud pun Ada Pasar Pagi yang Nggak Kelihatan
 

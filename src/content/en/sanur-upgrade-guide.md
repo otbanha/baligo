@@ -19,7 +19,7 @@ _srcHash: b9bbbe21aedcf932dd24fe3633aae4ea
 
 When it comes to beach resorts in Bali, many people first think of Kuta, but **Sanur is actually Bali's earliest developed coastal resort area**. It's low-key, elegant, and unassuming, yet it has always maintained its charm.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_56f887fcf84745b1d038cc5391594203.jpg)
+![Sanur, Bali is Getting a Major Upgrade! Why Now is the Perfe](https://images.gobaligo.id/vocus/vocus_56f887fcf84745b1d038cc5391594203.jpg)
 
 And now, Sanur is quietly undergoing a transformation.
 
@@ -33,7 +33,7 @@ https://youtu.be/SpcgZ4iK7qs
 
 Sanur has been designated as a **Special Economic Zone for Medical and Wellness Tourism**, home to the world-class **Bali International Hospital**.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_885b670ebe416d1159e92918145534e4.jpg)
+![Sanur's New Identity: A Medical and Wellness Tourism Zone](https://images.gobaligo.id/vocus/vocus_885b670ebe416d1159e92918145534e4.jpg)
 
 What does this mean?
 
@@ -94,7 +94,7 @@ Overall, the vibrant atmosphere has returned to Sanur.
 
 While Sanur isn't as prone to massive plastic waste influxes as Kuta, heavy rains and strong winds can still wash debris ashore. Now, local tourism businesses, cleaning teams, and traditional villages are collaborating to increase patrol and cleaning frequency.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9abcbc0ac1493db0c28dcd921a2cf2ff.jpg)
+![Cleaner Beach Environment](https://images.gobaligo.id/vocus/vocus_9abcbc0ac1493db0c28dcd921a2cf2ff.jpg)
 
 What's the result?
 

@@ -38,7 +38,7 @@ Kali ini di Jimbaran, Bali, beneran nemu SPA yang bikin pengen 'diam-diam aja' s
 
 Kalau kamu kayak aku, yang tiap ke Bali selalu cari tempat pijat **lingkungan oke, teknik mantap, harga masuk akal**, langsung aja bookmark postingan ini.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775894049815-mixcollage-11-apr-2026-02-50-pm-6422.jpg)
+![Rekomendasi SPA di Bali: Panduan Booking ANN SPA yang Baru B](https://images.gobaligo.id/images/2026-04/1775894049815-mixcollage-11-apr-2026-02-50-pm-6422.jpg)
 
 ***
 
@@ -59,7 +59,7 @@ Suasananya secara keseluruhan nggak kayak tempat pijat turis biasa, lebih mirip 
 
 ## ✨Kenapa Aku Rekomendasiin Tempat Ini?
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775894145137-mixcollage-11-apr-2026-02-53-pm-438.jpg)
+![Kenapa Aku Rekomendasiin Tempat Ini?](https://images.gobaligo.id/images/2026-04/1775894145137-mixcollage-11-apr-2026-02-53-pm-438.jpg)
 
 Jujur sih, tempat pijat di Bali itu banyak banget, tapi yang **bikin kamu balik lagi itu jarang banget**.
 
@@ -67,7 +67,7 @@ Yang satu ini kesannya langsung terasa:
 
 👉_"Enak banget sampai pengen balik lagi"_
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776254488895-flower_mixcollage.jpg)
+![Kenapa Aku Rekomendasiin Tempat Ini?](https://images.gobaligo.id/images/2026-04/1776254488895-flower_mixcollage.jpg)
 
 ***
 
@@ -130,7 +130,7 @@ Saat ini bisa reservasi lewat:
 
 - Line/WhatsApp  中文預約 (reservasi bahasa Mandarin)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775894792566-mixcollage-11-apr-2026-03-06-pm-4438.jpg)
+![Cara reservasi](https://images.gobaligo.id/images/2026-04/1775894792566-mixcollage-11-apr-2026-03-06-pm-4438.jpg)
 
 - Website [Pesan Online](https://www.fresha.com/zh/a/annspa-bali-jl-parigata-no-88-jimbaran-kec-kuta-sel-kabupaten-badung-bali-80361-indonesia-bgj4qbn7/all-offer?menu=true&share=true&pId=2822505)
 
@@ -138,7 +138,7 @@ Saat ini bisa reservasi lewat:
 
 ## Rating Google bintang lima
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775895971684-mixcollage-11-apr-2026-03-25-pm-5648.jpg)
+![Rating Google bintang lima](https://images.gobaligo.id/images/2026-04/1775895971684-mixcollage-11-apr-2026-03-25-pm-5648.jpg)
 
 ## 🧡 Intinya dalam satu kalimat
 
@@ -148,7 +148,7 @@ Aku bakal jawab —
 
 👉 **Bisa banget masukin ANN SPA ke wishlist kamu, tipe yang jarang bikin nyesel.**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776254533717-ann.jpg)
+![Intinya dalam satu kalimat](https://images.gobaligo.id/images/2026-04/1776254533717-ann.jpg)
 
 ▲ Bosnya orang Taiwan, siap menyambut kamu!
 

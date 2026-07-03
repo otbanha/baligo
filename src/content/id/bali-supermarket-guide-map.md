@@ -75,7 +75,7 @@ Begitu masuk supermarket lantai satu, apa yang harus diborong? Berdasarkan video
 
 ### 🍪 Bagian Camilan, Oleh-Oleh, dan Mie Instan
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779190258001-78dbd5473ae771c1f842dd0b00c2319e.jpg)
+![Bagian Camilan, Oleh-Oleh, dan Mie Instan](https://images.gobaligo.id/images/2026-05/1779190258001-78dbd5473ae771c1f842dd0b00c2319e.jpg)
 
 - **Keripik Singkong Kusuka:** Camilan Indonesia terkenal se-dunia! Keripik singkong ini teksturnya lebih enak daripada keripik kentang, tinggi serat, dan kalorinya cuma 60% dari keripik kentang. Cocok banget buat kamu yang suka ngemil tapi takut gendut.
 - **Oleh-oleh kacang-kacangan:**
@@ -94,7 +94,7 @@ Begitu masuk supermarket lantai satu, apa yang harus diborong? Berdasarkan video
 - **Teh Botol:** Dijuluki "Coca-Cola-nya Indonesia", terbuat dari teh hijau alami, melati, air, dan gula, tanpa pengawet, kaya katekin.
 - **Kopi Putih Luwak (Luwak White Koffie):** Kopi kemasan botol praktis dan murah (kemasan aluminium Nestle cuma sekitar USD$0.3), dan kopi putih ini juga sangat direkomendasikan.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779190305398-_2026-05-19_18.24.28.png)
+![Bagian Kopi, Teh, dan Minuman Beralkohol](https://images.gobaligo.id/images/2026-05/1779190305398-_2026-05-19_18.24.28.png)
 
 ### 🥑 Buah Khas Bali
 
@@ -109,7 +109,7 @@ Begitu masuk supermarket lantai satu, apa yang harus diborong? Berdasarkan video
 
 Kalau kamu mampir ke supermarket besar (kayak Bintang Supermarket), biasanya ada juga bagian baju, mainan, dan oleh-oleh. Di sini jual pakaian tropis, aksesoris, bikini, dan souvenir khas Bali. Keuntungan belanja di supermarket adalah **gak perlu/gak bisa nawar** — cocok banget buat kamu yang gak jago tawar-menawar. Belanja di sini transparan, gak bakal jadi sasaran harga mahal!
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779190670051-mixcollage-19-may-2026-06-26-pm-7181.jpg)
+![Zona Tersembunyi: Baju & Oleh-oleh Tanpa Tawar-menawar](https://images.gobaligo.id/images/2026-05/1779190670051-mixcollage-19-may-2026-06-26-pm-7181.jpg)
 
 **【Peringatan Penting】Bawa Tas Belanja Sendiri:** Demi menjaga lingkungan, semua supermarket dan toko di Bali **sudah nggak nyediain kantong plastik**. Sebelum jalan-jalan, jangan lupa bawa tas ramah lingkungan ya!
 

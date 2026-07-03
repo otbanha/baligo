@@ -33,9 +33,9 @@ _srcHash: 1936005d8006f032aa7f2ce02cee91a4
 
 ## **入座惊喜：海景座位靠运气？**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0aba435d4a72f0834a51addd13688a0b.jpg)
+![入座惊喜：海景座位靠运气？](https://images.gobaligo.id/vocus/vocus_0aba435d4a72f0834a51addd13688a0b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e855f67b3fccd15a9a4b91865ac3d263.jpg)
+![入座惊喜：海景座位靠运气？](https://images.gobaligo.id/vocus/vocus_e855f67b3fccd15a9a4b91865ac3d263.jpg)
 
 一走进酒店大堂，挑高的木质结构与精致的巴厘岛雕刻立刻抓住目光，中央的水池倒映着阳光，几尾锦鲤悠游其中，难怪许多孩子围在这里兴奋地观看。我们提前在 **Klook** 上预定了 **Selasar Deli 的下午茶**，服务人员亲切地引导我们入座。
 
@@ -43,9 +43,9 @@ _srcHash: 1936005d8006f032aa7f2ce02cee91a4
 
 原本安排的是室内座位，但我们询问是否能换到 **露台区**，经理爽快地答应了。这一换，视野瞬间开阔——眼前是层叠的泳池、郁郁葱葱的热带花园，再远一点，印度洋的蓝就这样毫无保留地展开。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_891ef34fcd0b0a643147be73ce53583b.jpg)
+![入座惊喜：海景座位靠运气？](https://images.gobaligo.id/vocus/vocus_891ef34fcd0b0a643147be73ce53583b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_59f0bb045f9fca4930237ee9f250e592.jpg)
+![入座惊喜：海景座位靠运气？](https://images.gobaligo.id/vocus/vocus_59f0bb045f9fca4930237ee9f250e592.jpg)
 
 **⚠️ 重要提醒：**
 
@@ -63,7 +63,7 @@ _srcHash: 1936005d8006f032aa7f2ce02cee91a4
 
 **周日～周四（套餐式）：**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d4360aaab8ec5a4b870ed0151ffbe862.jpg)
+![下午茶时光：平假日不同享受](https://images.gobaligo.id/vocus/vocus_d4360aaab8ec5a4b870ed0151ffbe862.jpg)
 
 **周五～六（自助式）：**
 
@@ -79,7 +79,7 @@ _srcHash: 1936005d8006f032aa7f2ce02cee91a4
 
 🏊 免费使用无边泳池🏖️ 进入私人沙滩（沙质超细！）🍹 海滩俱乐部饮品需另付（约IDR 150,000/杯）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b34b076d8897f9eb4a0bb1f33e08010b.jpg)
+![酒店探险：悬崖上的奢华](https://images.gobaligo.id/vocus/vocus_b34b076d8897f9eb4a0bb1f33e08010b.jpg)
 
 我们躺在泳池边的Daybed上，看着夕阳把天空染成粉紫色，完全舍不得离开...
 

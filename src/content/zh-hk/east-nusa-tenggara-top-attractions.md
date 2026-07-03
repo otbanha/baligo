@@ -26,7 +26,7 @@ _srcHash: 4c7b6519f6231624c2f62cc4d7dae706
 
 **東努沙登加拉 (NTT) 嘅十大絕美旅遊景點：探索印尼東南嘅自然奇觀**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d533378734952d93925747e329aad969.jpg)
+![【科莫多以外嘅驚喜】東努沙登加拉 (NTT) 十大必去景點：三色火山湖、粉紅沙灘同海上石林](https://images.gobaligo.id/vocus/vocus_d533378734952d93925747e329aad969.jpg)
 
 東努沙登加拉 (Nusa Tenggara Timur, NTT) 係印尼嘅一顆隱藏寶石，擁有眾多令人驚艷嘅自然同文化景點。呢個位於印尼東南部嘅省份，以其迷人嘅群島同多元化嘅生態系統吸引住遊客。本文將帶你深入了解一啲你喺旅遊 NTT 時必訪嘅景點。
 
@@ -134,7 +134,7 @@ Lembata
 
 以上嘅所有詳細地點，請參考我哋準備嘅Google地圖。請點擊[呢度](https://www.google.com/maps/d/u/0/edit?mid=1yez9rhVYwAPXJbLL5LS7d_xEOy4eM9Q&usp=sharing)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8b8da8fc080d7b575e99856a701148b8.png)
+![景點地圖](https://images.gobaligo.id/vocus/vocus_8b8da8fc080d7b575e99856a701148b8.png)
 
 ## **總結**
 

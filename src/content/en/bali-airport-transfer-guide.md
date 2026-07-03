@@ -26,13 +26,13 @@ _srcHash: 9c08866751c60925d9812a60ccc40fb5
 
 Bali is a world-renowned tourist destination, attracting visitors from across the globe. Upon arriving in Bali, ensuring a smooth start to your journey is crucial. This article introduces several transportation options from the airport to your accommodation, analyzing their pros and cons, and comparing which methods suit different types of travelers. Additionally, we’ll share practical first-day tips to help you settle in and take care of essential tasks.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_38be3952880eed542a841cd845dae0e2.png)
+![Arriving in Bali: Airport Transfer Options and First-Day Tip](https://images.gobaligo.id/vocus/vocus_38be3952880eed542a841cd845dae0e2.png)
 
 ## Five Transfer Options for Bali:
 
 ### 1. Hotel Transfer Service
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4a470c5460357e7d1804c0a4459c0158.png)
+![1. Hotel Transfer Service](https://images.gobaligo.id/vocus/vocus_4a470c5460357e7d1804c0a4459c0158.png)
 
 **Pros:**
 
@@ -50,7 +50,7 @@ Bali is a world-renowned tourist destination, attracting visitors from across th
 
 ### 2. Airport Taxis
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17ac364acfdfbde04d7875db9b0b5fda.png)
+![2. Airport Taxis](https://images.gobaligo.id/vocus/vocus_17ac364acfdfbde04d7875db9b0b5fda.png)
 
 **Advantages:**
 
@@ -69,7 +69,7 @@ Bali is a world-renowned tourist destination, attracting visitors from across th
 
 ### 3. Private Car Transfers
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_030460f311b7bc1474d394d7ca2c1c3d.png)
+![3. Private Car Transfers](https://images.gobaligo.id/vocus/vocus_030460f311b7bc1474d394d7ca2c1c3d.png)
 
 **Advantages:**
 
@@ -91,7 +91,7 @@ Bali is a world-renowned tourist destination, attracting visitors from across th
 
 ### 4. Klook/KKday Airport Transfer Booking
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8364f77b753d918f2c5549655bed128a.png)
+![4. Klook/KKday Airport Transfer Booking](https://images.gobaligo.id/vocus/vocus_8364f77b753d918f2c5549655bed128a.png)
 
 **Advantages:**
 

@@ -20,7 +20,7 @@ _srcHash: e13a0925bb2db98903d667536c3ef21f
 
 ### 2024年2月起，除咗簽證費之外，去峇里島嘅遊客要畀10蚊美金（或者150,000印尼盾）嘅旅遊稅。不過，好多旅客都冇遵守呢個規定，搞到當地政府討論緊要對違規者實施懲罰嘅可能性。其中一個建議係禁止未交旅遊稅嘅旅客進入峇里島。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_858d130a6da34f4a9f0e9e9766d18106.jpg)
+![2024年2月起，除咗簽證費之外，去峇里島嘅遊客要畀10蚊美金（或者150,000印尼盾）嘅旅遊稅。不過，好多旅客都冇遵](https://images.gobaligo.id/vocus/vocus_858d130a6da34f4a9f0e9e9766d18106.jpg)
 
 ---
 
@@ -59,7 +59,7 @@ _srcHash: e13a0925bb2db98903d667536c3ef21f
 
 此外，當局亦希望通過加強宣傳同教育，確保遊客知道繳納觀光稅嘅重要性。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ec2b84d7b61087b5c15202af5110313f.jpg)
+![未來規劃](https://images.gobaligo.id/vocus/vocus_ec2b84d7b61087b5c15202af5110313f.jpg)
 
 ---
 
@@ -87,7 +87,7 @@ _srcHash: e13a0925bb2db98903d667536c3ef21f
 
 ## 📩 **立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

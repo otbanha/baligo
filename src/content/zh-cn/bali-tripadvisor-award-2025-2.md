@@ -18,7 +18,7 @@ _srcHash: ba4f8dd22196437d0b7d408bb642d8a0
 
 知名旅游平台Tripadvisor近日公布了2025年「[旅行者之选](https://www.tripadvisor.com/TravelersChoice)」奖项，巴厘岛凭借其独特的文化、寺庙、传统舞蹈以及令人惊叹的自然风光，成功夺得东南亚地区榜首！这份排名基于2023年至2024年间旅客的评论与报告，展现了最受欢迎的旅游目的地。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b43456d6cb1c1433b4d1bbc93eb1ba7.jpg)
+![巴厘岛荣登2025年Tripadvisor旅行者之选榜首](https://images.gobaligo.id/vocus/vocus_0b43456d6cb1c1433b4d1bbc93eb1ba7.jpg)
 
 ## 巴厘岛的魅力无法挡
 

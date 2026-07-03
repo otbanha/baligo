@@ -24,7 +24,7 @@ _srcHash: 5b547a79e214f8c2a6105c7121485746
 
 Pas kita mau ke Indonesia atau Bali, beberapa traveler pasti perlu bawa jamu bubuk dan suplemen kesehatan. Barang-barang ini penting banget buat kesehatan mereka. Tapi, tiap negara punya aturan beda soal obat dan suplemen, apalagi Indonesia yang lebih ketat dibanding negara lain. Penting banget buat paham dan patuh sama aturan ini biar nggak kena masalah atau delay yang nggak perlu.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_619b4403db9a1862faf0bf6a5c9fea52.png)
+![Cara Aman Bawa Jamu Bubuk & Suplemen Kesehatan ke Bali, Indo](https://images.gobaligo.id/vocus/vocus_619b4403db9a1862faf0bf6a5c9fea52.png)
 
 Baru-baru ini, ada turis Australia yang bawa obat resep, tapi dianggap terlarang di Indonesia sampai ditahan 4 hari, diinterogasi 14 jam, dan kena denda Rp 82 juta. Cek link berikut:
 
@@ -52,7 +52,7 @@ Sebaiknya jangan bawa bubuk obat tradisional China atau suplemen kesehatan tradi
 
 ## 📩 **Penjelasan Halaman Depan 'Panduan Wisata Bali'**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
+![Penjelasan Halaman Depan 'Panduan Wisata Bali'](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

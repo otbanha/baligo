@@ -30,31 +30,31 @@ _srcHash: e46b7b5c4cbf781b5d6c22dad068ac6e
 ---
 Bali isn’t just about stunning beaches and rich culture—it’s also a paradise for food lovers! This time, we’re diving deep into Bali’s 10 most iconic must-try dishes, from traditional mains to street snacks, each bursting with Indonesia’s unique spice flavors.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b027619db0a88baf3fea8f8c63193a9d.jpg)
+![【2026 Bali Food Guide】10 Must-Try Classics & Street Food: Fr](https://images.gobaligo.id/vocus/vocus_b027619db0a88baf3fea8f8c63193a9d.jpg)
 
 ## 🍖 Classic Main Dishes
 
 ### 1. Babi Guling (Roast Pig)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4bda84a271f14b852043e10008699dc3.jpg)
+![1. Babi Guling (Roast Pig)](https://images.gobaligo.id/vocus/vocus_4bda84a271f14b852043e10008699dc3.jpg)
 
 A signature dish you absolutely can’t miss in Bali! A whole suckling pig is stuffed with spices and slow-roasted until the skin is golden and crispy, while the meat remains tender and juicy. Served with rice, crispy skin, sausages, and sweet potatoes, every bite is a perfect blend of spices.
 
 ### 2. Nasi Campur Bali (Balinese Mixed Rice)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_af1ea75fd01be79bb6fc4b742a352357.jpg)
+![2. Nasi Campur Bali (Balinese Mixed Rice)](https://images.gobaligo.id/vocus/vocus_af1ea75fd01be79bb6fc4b742a352357.jpg)
 
 This is Bali’s version of mixed rice, a plate that combines the essence of various sauces, grilled meats, and Balinese mixed rice. Typically includes rice, fried chicken or grilled meat, vegetables, peanuts, shrimp crackers, and more, allowing you to savor multiple flavors in one go!
 
 ### 3. Betutu (Spiced Roast Chicken/Duck)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3be3ad88c261f5abe0846db474c3d02c.png)
+![3. Betutu (Spiced Roast Chicken/Duck)](https://images.gobaligo.id/vocus/vocus_3be3ad88c261f5abe0846db474c3d02c.png)
 
 A traditional Balinese slow-roasted dish, where a whole chicken or duck is marinated with spices, wrapped in banana leaves, and slow-roasted for hours. The rich spices fully penetrate the meat, leaving an unforgettable taste.
 
 ### 4. Jimbaran Seafood
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_936c1dc67021ff7ed3d35d7002572a20.jpg)
+![4. Jimbaran Seafood](https://images.gobaligo.id/vocus/vocus_936c1dc67021ff7ed3d35d7002572a20.jpg)
 
 Jimbaran Beach is famous for its seafood barbecues, where fresh seafood paired with sunset views creates an unforgettable dining experience! Freshly caught and grilled fish, shrimp, lobster, and other seafood, drizzled with special sauces, make for a must-try romantic meal in Bali.
 
@@ -66,31 +66,31 @@ Jimbaran Beach is famous for its seafood barbecues, where fresh seafood paired w
 
 ### 5. Sate Lilit (Spiced Meat Skewers)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b96032c8d4ab3b3ca235a5f349e93f34.jpg)
+![5. Sate Lilit (Spiced Meat Skewers)](https://images.gobaligo.id/vocus/vocus_b96032c8d4ab3b3ca235a5f349e93f34.jpg)
 
 A unique Balinese grilled skewer, Sate Lilit differs from regular kebabs. It features seasoned minced meat wrapped around lemongrass or bamboo sticks and grilled to perfection, offering an irresistible aroma that keeps you reaching for more!
 
 ### 6. Pisang Goreng (Fried Banana)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_da510f477a3b99474e4e823a2e97cbf8.jpg)
+![6. Pisang Goreng (Fried Banana)](https://images.gobaligo.id/vocus/vocus_da510f477a3b99474e4e823a2e97cbf8.jpg)
 
 Fried banana is one of Bali's most popular street snacks. Sliced bananas coated in batter and fried to a golden crisp, these treats are crunchy on the outside and soft on the inside—a simple yet addictive delight.
 
 ### 7. Klepon (Coconut-Coated Rice Cakes)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_069db0e5cc1da39c0aba61f76f04ddec.jpg)
+![7. Klepon (Coconut-Coated Rice Cakes)](https://images.gobaligo.id/vocus/vocus_069db0e5cc1da39c0aba61f76f04ddec.jpg)
 
 These adorable green glutinous rice balls are a traditional Balinese dessert. Filled with palm sugar and coated in grated coconut, they burst with sweet syrup when bitten into, offering a perfectly balanced sweetness.
 
 ### 8. Jajanan Pasar (Traditional Market Snacks)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_27d9ed090f2e0d6d77985588b30b22e2.png)
+![8. Jajanan Pasar (Traditional Market Snacks)](https://images.gobaligo.id/vocus/vocus_27d9ed090f2e0d6d77985588b30b22e2.png)
 
 Bali's traditional markets are filled with a variety of colorful pastries and snacks. Traditional sweets like rainbow cakes and coconut cakes are bursting with local flavors, making them the perfect way to experience Bali's culture.
 
 ### 9. Lawar (Mixed Meat and Vegetable Salad)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b63c90ffa74ac14509bd2a00bb1cedb3.jpg)
+![9. Lawar (Mixed Meat and Vegetable Salad)](https://images.gobaligo.id/vocus/vocus_b63c90ffa74ac14509bd2a00bb1cedb3.jpg)
 
 Despite its name suggesting a cold dish, Lawar is actually a traditional mix of vegetables, coconut meat, spices, and meat. Its refreshing and appetizing flavor, combined with rich spices, makes it an ideal starter.
 
@@ -98,7 +98,7 @@ Despite its name suggesting a cold dish, Lawar is actually a traditional mix of 
 
 ### 10. Kopi Bali (Bali Coffee)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f3c741d3dfe2aeb90d97b02560dfe140.jpg)
+![10. Kopi Bali (Bali Coffee)](https://images.gobaligo.id/vocus/vocus_f3c741d3dfe2aeb90d97b02560dfe140.jpg)
 
 Bali's coffee beans grow in volcanic soil, giving them a unique and robust flavor. When in Bali, don't miss the chance to savor freshly roasted local coffee while enjoying the stunning rice terrace views—a perfect way to end your culinary journey! **A notable example**: **Kintamani Coffee** is a famous label from this region.
 

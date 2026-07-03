@@ -47,21 +47,21 @@ Beach bag and hat available for use
 
 A large bed sits at the center of the room, with a TV and big windows beside it. Natural light streams in through the windows, making the space feel even brighter.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f2c95d81b00912f89eccd75dd5d7acf7.jpg)
+![【Seminyak Hotel Review】Potato Head Suites & Studios Stay Exp](https://images.gobaligo.id/vocus/vocus_f2c95d81b00912f89eccd75dd5d7acf7.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_86eaf7a5d1e0e482b08f8910ca4d552f.jpg)
+![【Seminyak Hotel Review】Potato Head Suites & Studios Stay Exp](https://images.gobaligo.id/vocus/vocus_86eaf7a5d1e0e482b08f8910ca4d552f.jpg)
 
 At the foot of the bed, there's a small sofa and seating area, plus a little balcony. Though compact, it's enough to hang clothes and towels to dry.
 
 The room connects to a spacious bathroom with excellent amenities. Besides a large vanity, there are eco-friendly toiletries made from recycled local bottles. The bathroom features a generous rain shower with complimentary shampoo, conditioner, and body wash, making for a truly relaxing bathing experience.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_03c56be8f36ad023774da57abc8e471b.jpg)
+![【Seminyak Hotel Review】Potato Head Suites & Studios Stay Exp](https://images.gobaligo.id/vocus/vocus_03c56be8f36ad023774da57abc8e471b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9050d7cd284b1b6474c85a728582bf48.jpg)
+![【Seminyak Hotel Review】Potato Head Suites & Studios Stay Exp](https://images.gobaligo.id/vocus/vocus_9050d7cd284b1b6474c85a728582bf48.jpg)
 
 Notably, the room also features a desk, making it convenient for travelers who need to work. Additionally, they provide complimentary water, iced tea, and coffee facilities, along with a cocktail mixing set.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fea2bcd678f3f5cff498351b47eb41bd.jpg)
+![【Seminyak Hotel Review】Potato Head Suites & Studios Stay Exp](https://images.gobaligo.id/vocus/vocus_fea2bcd678f3f5cff498351b47eb41bd.jpg)
 
 ![房間裡居然有冰桶！](https://images.gobaligo.id/vocus/vocus_a96796d1f73432da32150eda85492971.jpg)
 
@@ -69,7 +69,7 @@ There's even an ice bucket in the room!
 
 The hotel thoughtfully offers a 'zero-waste' kit, including sunscreen, disinfectant alcohol, and other essentials, which can be refilled at any time—very eco-friendly.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_04d14622aa32d95291b796ecaed54b35.jpg)
+![【Seminyak Hotel Review】Potato Head Suites & Studios Stay Exp](https://images.gobaligo.id/vocus/vocus_04d14622aa32d95291b796ecaed54b35.jpg)
 
 The room's wooden and natural aesthetic reflects a meticulous design philosophy. The hotel also houses several restaurants and a rooftop bar, where we enjoyed a few cocktails and snacks while taking in the evening views before heading back to our room for dinner.
 
@@ -77,9 +77,9 @@ The next morning, breakfast was served outdoors overlooking the beautiful beach,
 
 Beyond the diverse dining options, the hotel is fully equipped with facilities including a spa and fitness center. Of course, the main reason to stay here is the Potato Head Beach Club. As guests, we could visit the beach club anytime to enjoy the infinity pool and use its lounge areas.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9bfa3048a2d0683c68a4fce83ed210f3.jpg)
+![【Seminyak Hotel Review】Potato Head Suites & Studios Stay Exp](https://images.gobaligo.id/vocus/vocus_9bfa3048a2d0683c68a4fce83ed210f3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_905b2082439f71892d4a0ab1d2232208.jpg)
+![【Seminyak Hotel Review】Potato Head Suites & Studios Stay Exp](https://images.gobaligo.id/vocus/vocus_905b2082439f71892d4a0ab1d2232208.jpg)
 
 We spent an unforgettable sunset moment here, watching the sun slowly set as the sky was painted in stunning hues. This stay was truly delightful—we had a wonderful time and look forward to returning to Potato Head Suites & Studios to experience its unique charm again.
 

@@ -29,7 +29,7 @@ Sebenernya, jawabannya ada di data.
 
 Dari statistik turis penerbangan langsung terbaru tahun 2025, struktur pariwisata Bali perlahan berubah, tapi ada beberapa fenomena yang ternyata stabil banget—misalnya turis Singapura makin banyak; turis Taiwan selama dua puluh tahun ini jumlahnya kurang lebih tetap; ada juga beberapa pasar yang dulu mendominasi, sekarang diam-diam menyusut.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fcd184a1c39fce756fde3b709e6fe710.png)
+![Australia Bukan Juara Lagi? Ranking Turis Bali 2025 & Pandua](https://images.gobaligo.id/vocus/vocus_fcd184a1c39fce756fde3b709e6fe710.png)
 
 Yang lebih menarik lagi, Australia yang selama ini dianggap sebagai 'sumber turis terbesar Bali', untuk pertama kalinya berhasil dilewati oleh Eropa.
 
@@ -43,7 +43,7 @@ Kalau kamu lagi siap-siap ke Bali, artikel ini bakal berguna banget.
 
 ## Statistik Negara/Wisatawan Bali 2025
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_99a8db2673d75441daa04e66ea7fd9aa.jpg)
+![Statistik Negara/Wisatawan Bali 2025](https://images.gobaligo.id/vocus/vocus_99a8db2673d75441daa04e66ea7fd9aa.jpg)
 
 Tabel ini sebenarnya layak dicermati.
 
@@ -68,7 +68,7 @@ Yang bikin bingung turis biasa sebenarnya bukan soal perlu visa atau nggak, tapi
 
 Yang paling umum sekarang adalah B1 dan C1:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dd1d15ae602a759d1d7e072cbd771d4d.jpg)
+![Satu lagi yang sering ditanyakan: EVOA (Electronic Visa on A](https://images.gobaligo.id/vocus/vocus_dd1d15ae602a759d1d7e072cbd771d4d.jpg)
 
 **Referensi cepat:** [Panduan Lengkap eVisa/eVoa Indonesia/Bali: Langkah Pendaftaran & Hal yang Perlu Diperhatikan!](/blog/bali-evisa-application-guide/)
 
@@ -96,7 +96,7 @@ Termasuk kegiatan seperti pertukaran, studi banding, kontak bisnis non-kerja —
 
 ## Terus, turis biasa milih yang mana?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d26a3e513ac8df95013e940223bf7017.png)
+![Terus, turis biasa milih yang mana?](https://images.gobaligo.id/vocus/vocus_d26a3e513ac8df95013e940223bf7017.png)
 
 Jawabannya simpel banget.
 
@@ -168,6 +168,6 @@ Kalau cuma liburan, nggak usah dipikirin rumit-rumit, **B1 – Tourist Visa** ud
 
 Aturan visa di Bali kadang berubah sedikit-sedikit. Paling aman, cek lagi pengumuman terbaru 1–2 minggu sebelum berangkat. Tapi dari pengalaman kebanyakan turis, asal pilih visa yang tepat, masuk Bali itu nggak susah kok.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_62b21a3da69035eb65ae0f1b4e641bfc.png)
+![Pengingat terakhir](https://images.gobaligo.id/vocus/vocus_62b21a3da69035eb65ae0f1b4e641bfc.png)
 
 Sisanya, tinggal nikmatin aja pulau ini 🌴

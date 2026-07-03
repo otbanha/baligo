@@ -22,7 +22,7 @@ _srcHash: d7fa5f69cb41a838a8c6d9936b3e1955
 
 随着沙努尔逐步转型为全球顶尖的医疗与养生旅游目的地，当地政府也同步推出全新交通方案，让旅客在度假期间能享受更便捷的移动体验。2025年8月中旬起，沙努尔地区即将启动一项全新旅游接驳巴士的试运营，作为市政府推动智慧交通与绿色观光的一环。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_68d4b99726fb49ba913d10972a6a4dbe.jpg)
+![巴厘岛沙努尔推出全新旅游接驳巴士试运营](https://images.gobaligo.id/vocus/vocus_68d4b99726fb49ba913d10972a6a4dbe.jpg)
 
 这项由登巴萨交通局推出的计划，特别针对沙努尔度假区内部设计，不同于已有的 Trans Metro Dewata 巴士路线，沙努尔接驳巴士将专门在沙努尔区域内行驶，提供游客“随上随下”的自由行动模式。
 
@@ -38,11 +38,11 @@ _srcHash: d7fa5f69cb41a838a8c6d9936b3e1955
 - Danau Toba路
 - 最后停靠点为沙努尔医疗特区（Sanur Special Economic Zone）邻近的SMP Wisata区域
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e4d803fc5df07426b0f5021662e241ee.jpg)
+![巴厘岛沙努尔推出全新旅游接驳巴士试运营](https://images.gobaligo.id/vocus/vocus_e4d803fc5df07426b0f5021662e241ee.jpg)
 
 乘客普拉（Putu Ardiyasa Raditya Putra）受访时表示，他搭乘全程体验良好，但指出目前的巴士站点仅设有告示板，尚未配备遮蔽设施或座椅，期盼日后能有更完善的等候环境。他也补充：“外国旅客可能会更习惯这种公共交通模式，因为在他们的国家这是很常见的。”
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_52fb126f2de8603997d344ea4caf16c6.jpg)
+![巴厘岛沙努尔推出全新旅游接驳巴士试运营](https://images.gobaligo.id/vocus/vocus_52fb126f2de8603997d344ea4caf16c6.jpg)
 
 关于**巴厘岛**沙努尔（Sanur）地区的电动接驳车（Shuttle / Bemo Listrik）收费与支付方式如下：
 
@@ -83,7 +83,7 @@ _srcHash: d7fa5f69cb41a838a8c6d9936b3e1955
 
 ## 更多沙努尔吃喝玩乐介绍
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
+![更多沙努尔吃喝玩乐介绍](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
 沙努尔（Sanur）是巴厘岛上一个充满宁静气息的海滨小镇，以平静的沙滩、悠闲的氛围和壮丽的日出景色著称。这里拥有适合家庭的度假村、传统市场以及丰富的当地美食，是享受慢生活与探索文化的理想之地。无论是漫步海岸线还是感受当地风情，沙努尔都能带给您无比放松的假期体验！想了解更多沙努尔攻略？[请点击这里](/blog/sanur-guide/)。
 

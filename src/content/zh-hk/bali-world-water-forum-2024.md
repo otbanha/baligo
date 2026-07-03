@@ -23,7 +23,7 @@ _srcHash: c74d221ae0946b8e5f0075b915a91127
 
 呢場盛會一定會對當地帶嚟一啲影響，例如機場同道路交通、酒店房間需求等。不過主辦單位會努力確保會議順利進行，同時會將當地文化智慧融入其中，例如帶領代表團參觀位於Jatiluwih嘅水利系統同稻田等。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8553c25fe7dc3cc7fa673d7ba8aa922a.png)
+![五月底峇里島好熱鬧！五萬幾名代表湧入峇里島參加國際會議](https://images.gobaligo.id/vocus/vocus_8553c25fe7dc3cc7fa673d7ba8aa922a.png)
 
 水資源對峇里島咁樣嘅旅遊勝地至關重要，議題涉及當地嘅水資源管理、海洋塑膠污染等，期望呢次會議可以為全球水資源管理帶嚟新策略。
 

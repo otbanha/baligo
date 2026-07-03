@@ -75,7 +75,7 @@ As soon as we exited the airport, our pre-booked driver was waiting outside. See
 
 **Dinner: Naughty Nuri's Warung, Sanur (Delicious Pork Ribs)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_44e005ebfa77730c958280ed8a16e897.jpg)
+![Day 1 Itinerary:](https://images.gobaligo.id/vocus/vocus_44e005ebfa77730c958280ed8a16e897.jpg)
 
 For our first meal in Bali, we chose Naughty Nuri's Warung in Sanur, famous for its signature pork ribs. It truly lived up to its reputation—the meat was tender and juicy, paired with a secret sauce that awakened our taste buds. Absolutely delicious! If you're in Bali, this place is a must-visit.
 
@@ -83,19 +83,19 @@ For our first meal in Bali, we chose Naughty Nuri's Warung in Sanur, famous for 
 
 **Check-in: Maison Aurelia Sanur, Bali by Preference**
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780844012829-524375767.jpg)
+![Day 1 Itinerary:](https://images.gobaligo.id/images/2026-06/1780844012829-524375767.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780844013272-524375768.jpg)
+![Day 1 Itinerary:](https://images.gobaligo.id/images/2026-06/1780844013272-524375768.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780844013740-524375771.jpg)
+![Day 1 Itinerary:](https://images.gobaligo.id/images/2026-06/1780844013740-524375771.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780844014346-524375772.jpg)
+![Day 1 Itinerary:](https://images.gobaligo.id/images/2026-06/1780844014346-524375772.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780844014874-524386598.jpg)
+![Day 1 Itinerary:](https://images.gobaligo.id/images/2026-06/1780844014874-524386598.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780844015367-524386644.jpg)
+![Day 1 Itinerary:](https://images.gobaligo.id/images/2026-06/1780844015367-524386644.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780844015782-524387959.jpg)
+![Day 1 Itinerary:](https://images.gobaligo.id/images/2026-06/1780844015782-524387959.jpg)
 
 ➡️ Maison Aurelia Sanur Room Rates & Availability [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1294268) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6024011&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaysLFJMEk1cfC0Xp9lqgQo4HFb0FHBhAoKXXwnDUTCEKrHAJ4IqYceD6NPfHFvcOqx0vdHQrBSg6EODQyGoPA5ECHLkZWsJoZjKevvWfayJgGAm3BDjsYmU4wLudfwNR65T3TKRZmjldMl1i-MkVXK2WnVipZmegolWSW5KQqWSk9XTTvacOe5ytalXSUUlKLk4FCQFZibn5pXgmQbWhhqGdgABQpSazwTAHrTE7MSS7NSSxJDaksAJpgpqOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFlfyAxhRBBTLz8yDaDVHEwhJzSlMhTgBa6JYKtcOwVgfT5c_m9D7tnvli027iXG5ObZcbEONy49rYRyxM0bGfWBh-AaOhkbmJlaGLlZnjFuMkILmcfxcra6C7d7jTBdYmESl5QwMDA1NDY1NTXYNEy0QLM4tkXRNLEyNzA11DMzNTU41v_Z3XnxgbWUtBYl2BUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm4WZo6Gja5QNF7OnS5DgB73n29utLe2lmEPCXRRLVz9f8r33tL0WSM4QJhe453XOCXvjBfaRMPkk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkaGDYyMOxj_wwDjK0aQ6QCpFEtY-gIAAA&masterhotelid_tracelogid=100051355-0a9a868c-494270-16655&detailFilters=17|1~17~1*31|6024011~31~6024011*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=130&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/XNwjIsZ7)
 
@@ -143,7 +143,7 @@ https://youtu.be/laRb_l8BdLM
 **Dinner: Forketta Bali Italian Restaurant**
 For dinner, we chose Forketta Bali, an Italian restaurant in Sanur. Known for its refined Italian cuisine, we ordered their signature handmade pasta and wood-fired pizza—both were incredibly authentic and delicious, leaving us completely satisfied. This wonderful Italian meal was the perfect way to cap off a fulfilling day!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_142fdb8c22f4c172038e3ade269ef6ef.jpg)
+![Day 2 Itinerary (Nusa Lembongan Adventure):](https://images.gobaligo.id/vocus/vocus_142fdb8c22f4c172038e3ade269ef6ef.jpg)
 
 {{block:sanur}}
 
@@ -156,7 +156,7 @@ Our Ubud adventure kicked off with an exhilarating rafting experience. We naviga
 
 **Instagram-Worthy Café: Swing Photo Spot**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_57b0b41ac469b22436f739a53fe74f4f.jpg)
+![Day 3 Itinerary (Ubud Day Trip):](https://images.gobaligo.id/vocus/vocus_57b0b41ac469b22436f739a53fe74f4f.jpg)
 
 After rafting, we visited a famous Instagram-friendly café, known for its giant swings that let you soar over stunning rice terraces. The locals really know how to take photos—the whole vibe made every picture look like a postcard. It's the perfect spot for snapping and sharing!
 
@@ -200,19 +200,19 @@ Next, we headed to the trendy coffee shop Gigi Susu, known for its signature bre
 
 > For more: Check out over 50 Canggu restaurants recommended by travelers in the [Canggu Guide Map](https://gobaligo.id/map/canggu/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e7a6051d70eb94791ccd07270bdcf2e8.png)
+![Day 4 Itinerary (A Chill Day in Canggu):](https://images.gobaligo.id/vocus/vocus_e7a6051d70eb94791ccd07270bdcf2e8.png)
 
 **Exploring Tanah Lot Temple**
 In the afternoon, we visited one of Bali’s landmarks—Tanah Lot Temple. Perched on the coast, this temple looks like it’s floating on the sea, with both stunning views and a sacred atmosphere that inspires awe. It’s also a prime spot to watch the sunset, an absolute must-see when in Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c8901a744d0d658d299564b9ec2515af.jpg)
+![Day 4 Itinerary (A Chill Day in Canggu):](https://images.gobaligo.id/vocus/vocus_c8901a744d0d658d299564b9ec2515af.jpg)
 
 > [Bali Travel Must-See: Detailed Guide to Tanah Lot Temple, Including Tides and Nearby Attractions](https://gobaligo.id/blog/bali-tanah-lot-guide/)
 
 **The Lawn Canggu Beach Club**
 Our final stop of the day was The Lawn, a famous beach club in Canggu. It’s all about sun, sand, food, and beautiful people in bikinis and swim trunks. We spent a leisurely afternoon here, lounging in the pool, sipping chilled cocktails, and waiting for Bali’s iconic sunset to slowly descend. As night fell, the beach lit up with a cozy, romantic vibe, letting us fully unwind and savor every moment of our vacation.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_324fe7d0c94f96b7efa72d056ac411f2.jpg)
+![Day 4 Itinerary (A Chill Day in Canggu):](https://images.gobaligo.id/vocus/vocus_324fe7d0c94f96b7efa72d056ac411f2.jpg)
 
 {{block:canggu}}
 
@@ -223,12 +223,12 @@ Our final stop of the day was The Lawn, a famous beach club in Canggu. It’s al
 **Shopping at Canggu Love Anchor**
 Our first stop today was the popular Love Anchor market in Canggu. It’s packed with all kinds of accessories and souvenirs to browse—from handmade crafts and clothing to small trinkets, all brimming with Balinese charm. Don’t forget to haggle; prices here have plenty of wiggle room. We managed to knock down prices by half on several items—what a steal!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_adaedf1ccf645b4c1f61c85aa8b81cb6.jpg)
+![Day 5 Itinerary (Getting Ready to Head Home!):](https://images.gobaligo.id/vocus/vocus_adaedf1ccf645b4c1f61c85aa8b81cb6.jpg)
 
 **Back to the Villa for Final Relaxation**
 After shopping, we returned to the villa to soak up the last few hours of leisure. The villa’s atmosphere was peaceful and comfortable, and we lounged by the pool under the warm sun, fully unwinding and putting a perfect finishing touch on this wonderful Bali trip.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1d42efde3fdde2dbb838bb53c0a00f79.jpg)
+![Day 5 Itinerary (Getting Ready to Head Home!):](https://images.gobaligo.id/vocus/vocus_1d42efde3fdde2dbb838bb53c0a00f79.jpg)
 
 **Heading to the airport, ready to catch the 4:30 PM flight**
 After leaving the villa, we arrived at the airport three hours early—a good travel habit, especially at an international airport. Arriving early helps avoid the rush caused by various procedures or unexpected situations. With all documents ready, we waited calmly for boarding.
@@ -256,7 +256,7 @@ Further reading: [【Recommended by Travelers】Over 20 Bali Souvenir Guide: Per
 
 As for the amazing Chinese-speaking driver I mentioned, it's 'Wayan Suantara,' also known as 'Kang Ge.' After adding him on Line, I immediately told him about the itinerary I wanted to arrange. Not only did he quickly come up with a plan, but he also offered plenty of professional advice, making the entire trip even more perfect. I highly recommend him! ❤️ Completely trustworthy 👍
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0942104964f65a1688cea7612940f267.jpg)
+![Driver Recommendation](https://images.gobaligo.id/vocus/vocus_0942104964f65a1688cea7612940f267.jpg)
 
 This Bali trip was full of surprises and memories—from stunning scenery to delicious food, from adventure to relaxation. Whether experiencing Bali's natural beauty or enjoying its laid-back vibe, it's truly a paradise for a vacation. Looking forward to coming back again!
 

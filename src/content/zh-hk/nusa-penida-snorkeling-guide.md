@@ -25,7 +25,7 @@ _srcHash: aef10a3f42e057038fd3436620ccf4b8
 
 呢個係我哋介紹Nusa Penida（中文翻譯：努沙佩尼達島、佩尼達島）呢個神奇島嶼嘅第三集，我哋同大家介紹吓呢度四個知名潛點，無論係浮潛定係帶住水肺潛水都可以搵到好多樂趣嘅地方。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f65ca2cf527e8b51652b690aad51a81.jpg)
+![努沙佩尼達島 (Nusa Penida) 點樣參加浮潛？一日遊船飛預約、潛點分佈同新手必讀指南](https://images.gobaligo.id/vocus/vocus_9f65ca2cf527e8b51652b690aad51a81.jpg)
 
 ➡️[更多峇里島超值優惠請撳呢度](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
@@ -37,7 +37,7 @@ _srcHash: aef10a3f42e057038fd3436620ccf4b8
 4. [佩尼達島的士、Gojek/Grab、包車、摩托車交通攻略](/blog/nusa-penida-transport-guide/)
 5. [佩尼達島嘅住宿推薦: 13間由奢華到平價嘅 Nusa Penida 好評住宿](/blog/nusa-penida-hotels-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0efc881cd070bd9b15b0d572fe80b427.jpg)
+![努沙佩尼達島 (Nusa Penida) 點樣參加浮潛？一日遊船飛預約、潛點分佈同新手必讀指南](https://images.gobaligo.id/vocus/vocus_0efc881cd070bd9b15b0d572fe80b427.jpg)
 
 ## 峇里島周圍都可以浮潛咩？
 
@@ -69,7 +69,7 @@ Mola mola 翻車魚
 
 ## Gamat Bay
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881880928-gamatbay1.jpeg)
+![Gamat Bay](https://images.gobaligo.id/images/2026-03/1774881880928-gamatbay1.jpeg)
 
 Gamat Bay
 
@@ -109,7 +109,7 @@ Manta Point係佩尼達島上最有特色嘅景點之一，喺呢個潛點可以
 
 呢個潛點有一個4至6米深嘅小珊瑚台地，即係最佳嘅浮潛點。珊瑚台地之後，分為兩層。第一層約12至15米深，第二層約40米深。呢度係好熱門嘅潛點，因為海水清澈，珊瑚繁盛。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881808430-toyapakeh_wall_point.jpg)
+![Toyapakeh Wall Point](https://images.gobaligo.id/images/2026-03/1774881808430-toyapakeh_wall_point.jpg)
 
 珊瑚台地，色彩繽紛
 

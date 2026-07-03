@@ -21,7 +21,7 @@ _srcHash: 985155bb95557cc56b64ea1f91140256
 
 根据全球最大的旅游指南平台 Tripadvisor 的[统计研究显示](https://tripadvisor.mediaroom.com/2024-01-09-The-Results-Are-In-Tripadvisors-Top-2024-Destinations-According-to-Global-Travelers)，2024年度最佳旅游目的地涵盖七大类别，其中包括热门旅游目的地、趋势旅游目的地、文化旅游目的地、美食旅游目的地、自然旅游目的地，以及今年特别新增的两个次类别——度蜜月旅游目的地和可持续发展目的地。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eff7c71ed815f53bcf3e04326c6f02ae.png)
+![浪漫蜜月胜地大公开！巴厘岛击败马尔代夫夺得全世界冠军！](https://images.gobaligo.id/vocus/vocus_eff7c71ed815f53bcf3e04326c6f02ae.png)
 
 在「热门旅游目的地（Top Destinations in the world）」这个类别中，迪拜荣获冠军宝座，而印尼的巴厘岛则攀升至第二名。这些佳绩不仅是各地景点的吸引力所致，更是Tripadvisor评论者对这些目的地丰富旅游体验的高度评价。
 

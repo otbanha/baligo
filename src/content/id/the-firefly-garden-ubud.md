@@ -40,9 +40,9 @@ The Firefly Garden di Desa Taro, Bali—yang juga dikenal sebagai 'Rumah Konserv
 
 ## Contoh Nyata Keseimbangan Konservasi dan Pariwisata
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3d7022976ea005fa26f775014ebf0974.jpg)
+![Contoh Nyata Keseimbangan Konservasi dan Pariwisata](https://images.gobaligo.id/vocus/vocus_3d7022976ea005fa26f775014ebf0974.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8d0cf183d7ade2531fe06e968399fcc4.jpg)
+![Contoh Nyata Keseimbangan Konservasi dan Pariwisata](https://images.gobaligo.id/vocus/vocus_8d0cf183d7ade2531fe06e968399fcc4.jpg)
 
 Kunang-kunang dianggap sebagai indikator kesehatan lingkungan karena sangat sensitif terhadap polusi. Di dalam taman ini ada laboratorium kecil yang fokus meneliti reproduksi, siklus hidup, dan perilaku kunang-kunang, sambil mempromosikan pertanian organik dan mengurangi penggunaan pestisida kimia. Pengelola, Wayan Wardika, bahkan punya mimpi besar: bekerja sama dengan petani untuk memperluas radius aktivitas kunang-kunang hingga 2 kilometer—butuh lahan pertanian seluas 27 hektar untuk mewujudkannya.
 

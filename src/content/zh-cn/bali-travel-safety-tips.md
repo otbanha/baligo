@@ -19,7 +19,7 @@ _srcHash: b6b89da103ad2d0a76d65f01a67fea2d
 
 巴厘岛一直被视为澳洲人的“后花园”，距离近、机票便宜、气候宜人，是无数澳洲人假期首选的度假胜地。无论是寻找阳光海滩、享受瑜伽静心、还是体验巴厘传统文化与美食，这座热带岛屿总有无穷魅力。然而，随着旅游人数回升，巴厘岛在风险管理方面的问题也逐渐浮上水面。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a8482d650034dd649a7101c96aa6b294.jpg)
+![前往巴厘岛前必读：海岸风险、签证须知与饮品陷阱](https://images.gobaligo.id/vocus/vocus_a8482d650034dd649a7101c96aa6b294.jpg)
 
 为了让每位旅客都能安心出游，澳洲政府的 SmartTraveller 旅游建议整理了最新的巴厘岛旅游资讯，包括海岸安全、火山动态、入境规定与饮品风险。无论是第一次前往，还是回访多次的老朋友，这篇实用指南都能帮助你做好准备、尽兴又平安地探索巴厘岛。以下几项最新的旅游资讯与安全提醒，不可忽略:
 
@@ -29,7 +29,7 @@ _srcHash: b6b89da103ad2d0a76d65f01a67fea2d
 
 近期有多起澳洲旅客在巴厘岛或印尼其他地区不幸溺水的事件，主要发生在知名海滩如坎古、乌鲁瓦图与水明漾。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5eff44ed33e1986993b8af3c27e0cef4.jpg)
+![海滩风险：强烈海流与高浪警告](https://images.gobaligo.id/vocus/vocus_5eff44ed33e1986993b8af3c27e0cef4.jpg)
 
 ### **风险重点：**
 
@@ -54,7 +54,7 @@ _srcHash: b6b89da103ad2d0a76d65f01a67fea2d
 - 自入境日起至少有效 6 个月以上。
 - 无破损、水渍、页面撕裂或其他明显损毁。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1f7cd67badfa231d12a134cace300513.jpg)
+![护照应符合以下条件：](https://images.gobaligo.id/vocus/vocus_1f7cd67badfa231d12a134cace300513.jpg)
 
 如有疑虑，出发前应更新护照，以免入境受阻，甚至必须即刻返国。
 
@@ -68,7 +68,7 @@ _srcHash: b6b89da103ad2d0a76d65f01a67fea2d
 - 切勿攀爬或对神圣建筑不当拍照。
 - 避免在公共场合饮酒过量或行为失序。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_58494b23c4192b1671ed180bc044af9d.jpg)
+![尊重当地文化与法律](https://images.gobaligo.id/vocus/vocus_58494b23c4192b1671ed180bc044af9d.jpg)
 
 当局近年来加强执法，若有违反，可能面临罚款、遣返甚至刑责。
 
@@ -76,7 +76,7 @@ _srcHash: b6b89da103ad2d0a76d65f01a67fea2d
 
 ## **火山活动：航班恐受影响**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d2f54d7d9872520bf06d8114c5e590a7.jpg)
+![火山活动：航班恐受影响](https://images.gobaligo.id/vocus/vocus_d2f54d7d9872520bf06d8114c5e590a7.jpg)
 
 近期 Mt Lewotobi Laki-Laki 火山出现活动，虽不在巴厘本岛，但火山灰有可能影响航班。
 
@@ -92,7 +92,7 @@ _srcHash: b6b89da103ad2d0a76d65f01a67fea2d
 
 巴厘岛曾发生饮品中遭掺毒或含非法甲醇（methanol）导致中毒的案例，部分甚至导致死亡。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d366969754755a10908c9de7fd921078.jpg)
+![酒精风险：防止酒品被掺毒或含甲醇](https://images.gobaligo.id/vocus/vocus_d366969754755a10908c9de7fd921078.jpg)
 
 ### **预防方法：**
 

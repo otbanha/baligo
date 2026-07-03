@@ -36,7 +36,7 @@ Update:2026/06/07
 
 Bali is renowned not only for its stunning beaches, vibrant cultural events, and rich natural landscapes, but its rice terraces are also iconic attractions. The unique stepped rice paddies offer not just spectacular visual enjoyment but also showcase local farming culture and social structure. **Bali's two major rice terrace regions—Tegalalang Rice Terraces** and **Jatiluwih Rice Terraces**—are world wonders that allow visitors to delve into Balinese rural life and experience the serene beauty of nature firsthand.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_681188d17bd939f1995e2b811dd9ea8d.jpg)
+![Introduction to Bali's Rice Terraces: Exploring the Two Majo](https://images.gobaligo.id/vocus/vocus_681188d17bd939f1995e2b811dd9ea8d.jpg)
 
 ## **What Are Bali's Rice Terraces?**
 
@@ -44,19 +44,19 @@ Bali has rice terraces, and so does Taiwan! So why travel all the way to Bali to
 
 Below, we delve into the unique features and best ways to explore these two major terrace regions.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e4eb6216ccf69fd8413b958ab5010ec.png)
+![What Are Bali's Rice Terraces?](https://images.gobaligo.id/vocus/vocus_4e4eb6216ccf69fd8413b958ab5010ec.png)
 
 ## **Tegalalang Rice Terrace**
 
 Located north of Ubud, Tegalalang Rice Terrace is one of Bali's most iconic tourist attractions for rice terraces. Its spectacular yet picturesque stepped landscapes and abundant surrounding activities draw countless visitors, making it a must-visit for photography enthusiasts and nature lovers alike.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_04c9efaa4e64a1161cd73552f0fa0eaf.jpg)
+![Tegalalang Rice Terrace](https://images.gobaligo.id/vocus/vocus_04c9efaa4e64a1161cd73552f0fa0eaf.jpg)
 
 ### **Highlights of Tegallalang Rice Terraces**
 
 The biggest highlight of the Tegallalang Rice Terraces is their **stunning landscape and unique location**. The terraces vary in height and are mostly set on hillsides, with the Subak irrigation system channeling water smoothly through each layer of rice paddies, creating beautiful reflective water effects that are especially dreamy at sunrise and sunset. Surrounded by diverse tropical plants, the lush green scenery makes you feel like you're in a green paradise.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4b230e91b2e502eebc023b2f37cd16aa.jpg)
+![Highlights of Tegallalang Rice Terraces](https://images.gobaligo.id/vocus/vocus_4b230e91b2e502eebc023b2f37cd16aa.jpg)
 
 ### **Tips for Visiting Tegallalang Rice Terraces**
 
@@ -78,13 +78,13 @@ Currently, the entrance fee for the Tegallalang Rice Terraces ranges from about 
 
 ## **Jatiluwih Rice Terraces**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_03240ac24d35267825628f03033462da.jpg)
+![Jatiluwih Rice Terraces](https://images.gobaligo.id/vocus/vocus_03240ac24d35267825628f03033462da.jpg)
 
 Located in central Bali, the Jatiluwih Rice Terraces are a vast and well-preserved area of rice paddies. Compared to Tegallalang, Jatiluwih is much more expansive, with endless terrace views that let visitors wander through a magnificent sea of green. The scenery here is rustic and unspoiled, making it perfect for travelers who love tranquility and seek natural beauty.
 
 ### **The Highlights of Jatiluwih Rice Terraces**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_489574c7808e044a63eb6e36357de053.jpg)
+![The Highlights of Jatiluwih Rice Terraces](https://images.gobaligo.id/vocus/vocus_489574c7808e044a63eb6e36357de053.jpg)
 
 Listed as a **UNESCO World Heritage Site**, the Jatiluwih Rice Terraces showcase the essence of the Subak irrigation system through their naturally harmonious layout. The terraces here are vast and wide, surrounded by rolling hills, offering a peaceful and serene atmosphere. The rice paddies change color with the seasons, shifting from vibrant green to golden yellow, so no matter when you visit, you can experience the beauty and grandeur of nature.
 
@@ -108,7 +108,7 @@ The entrance fee for Jatiluwih Rice Terraces is approximately 50,000 Indonesian 
 
 Tegalalang and Jatiluwih each have their own charm. Tegalalang is closer to Ubud, making it ideal for travelers with limited time, while Jatiluwih is more expansive, perfect for those who love deep exploration and tranquil nature. Whichever terrace you choose, you'll experience Bali's unique agricultural landscape and rich cultural heritage.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac65861b32e9c3e850c3f44aff108470.jpg)
+![Comparing Tegalalang and Jatiluwih Rice Terraces](https://images.gobaligo.id/vocus/vocus_ac65861b32e9c3e850c3f44aff108470.jpg)
 
 ### Best Time to Visit & Tips
 
@@ -119,7 +119,7 @@ Bali's rice terraces are actually **beautiful year-round**, each stage offering 
 
 **In summary:** If you want to avoid afternoon thunderstorms and capture the terraces under clear blue skies, the **dry season from May to September** offers the most stable weather for your visit. However, nature's rhythm isn't set in stone; local farmers adjust their planting schedules based on rainfall and climate each year, making every visit a unique encounter!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_598c698b2d2bbe81b87963dc055fb955.jpg)
+![Best Time to Visit & Tips](https://images.gobaligo.id/vocus/vocus_598c698b2d2bbe81b87963dc055fb955.jpg)
 
 ## **Photography Tips: How to Capture the Rice Terraces**
 
@@ -131,11 +131,11 @@ Bali's rice terraces are actually **beautiful year-round**, each stage offering 
 - **Try low-angle shots:** Crouch down or shoot the rice stalks from a low angle to add dimension and highlight the intricate details.
 - **Respect the locals:** If you want to photograph farmers or villagers, always ask for permission first (a simple way is to say, "Foto, foto?").
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_514fdb7732d7569c92b6fa94c17ff4a4.jpg)
+![Photography Tips: How to Capture the Rice Terraces](https://images.gobaligo.id/vocus/vocus_514fdb7732d7569c92b6fa94c17ff4a4.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3d34fb7650a517040849169ebf0f9a45.jpg)
+![Photography Tips: How to Capture the Rice Terraces](https://images.gobaligo.id/vocus/vocus_3d34fb7650a517040849169ebf0f9a45.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_067412346850bdca5055baf5ad763348.jpg)
+![Photography Tips: How to Capture the Rice Terraces](https://images.gobaligo.id/vocus/vocus_067412346850bdca5055baf5ad763348.jpg)
 
 Bali's rice terraces—whether Tegalalang or Jatiluwih—are more than just tourist attractions; they are symbols of local culture and traditional agriculture. Here, you can experience harmony with nature and gain insight into Bali's agricultural history and social structure. If you're planning a trip to Bali, be sure to include these terraced landscapes in your itinerary and witness this beautiful green wonderland for yourself.
 
@@ -151,7 +151,7 @@ Beyond the terraces themselves, the surrounding areas are dotted with other wort
 
 The Subak system mentioned above is a traditional rice terrace irrigation method unique to Bali, with a history spanning over a thousand years. Since the 11th century, Subak has been the core of local agriculture and has been designated a **UNESCO World Heritage Site**. It is not merely a technical irrigation system but a unique cultural symbol that integrates religious beliefs, social structure, and environmental protection. Rooted in Buddhism and water deity worship, the Subak system emphasizes harmony between humans and nature, fostering a spirit of cooperation and sharing among farming communities.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0ca73e6ea28937fc21a3beff6cc1905f.jpg)
+![Bonus: What Is the Subak System?](https://images.gobaligo.id/vocus/vocus_0ca73e6ea28937fc21a3beff6cc1905f.jpg)
 
 The Subak system is collectively managed by local farmers to ensure fair water distribution across every terrace. Farmers hold meetings through Subak organizations to coordinate water allocation and conduct ceremonies each planting season to give thanks to the water gods and mountain gods for their blessings. The system effectively prevents water disputes and strengthens solidarity among farming communities.
 

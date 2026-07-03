@@ -44,7 +44,7 @@ Tapi, lalu lintas Bali bikin pusing 🤣. Nggak ada pemisah jalur cepat-lambat, 
 
 Intinya, Grab di Bali tuh transportasi yang sangat andal. Apalagi buat turis yang bawa orang tua, praktis dan aman. Tapi inget, kondisi lalu lintas Bali agak semrawut, hati-hati pas di jalan. Terutama kalau nyebrang, perhatiin motor dan mobil (kebalikan dari Taiwan).
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1990ed3bb904bed1268c76632f7d4c9a.jpg)
+![Transportasi](https://images.gobaligo.id/vocus/vocus_1990ed3bb904bed1268c76632f7d4c9a.jpg)
 
 ***
 
@@ -60,7 +60,7 @@ Kita hubungin sopir lewat Line, komunikasinya lancar banget. Pertama, kita kasih
 
 Tujuan utama sewa mobil kali ini adalah jalan-jalan di area Ubud, dan setelah selesai minta sopir anter kita ke hotel di area lain. Total waktu sewa 10 jam, biayanya sekitar USD$39, menurutku harga ini sangat masuk akal. Selain itu, kita juga minta sopir bantu atur aktivitas seperti ATV, arung jeram, dan ayunan. Dia bakal hitung semua biaya aktivitas itu sekaligus, kasih total harga, dan setelah setuju, deal. Hari itu setelah semua aktivitas selesai, kita bayar semua biaya sekaligus, super praktis.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3017cf52f4ba0bee1447ab78b90bd1d5.jpg)
+![Rencana Perjalanan & Biaya:](https://images.gobaligo.id/vocus/vocus_3017cf52f4ba0bee1447ab78b90bd1d5.jpg)
 
 - 🏎️ Aktivitas ATV di Bali ▶ [Diskon Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%2520ATV%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D28594dcbf2)
 - 🚣 Aktivitas Arung Jeram di Bali ▶ [Diskon Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%25E6%25B3%259B%25E8%2588%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D8c8ac92422)
@@ -76,7 +76,7 @@ Sopirnya bahasa Inggrisnya bagus banget, meskipun nggak bisa bahasa Mandarin, ko
 
 Sopirnya super perhatian banget, di tengah perjalanan dia malah nanya kita lapar apa enggak, terus anter kita ke restoran. Selama perjalanan rasanya santai banget, nggak perlu khawatir soal waktu atau rute. Kalau di perjalanan Bali kamu perlu ganti hotel, aku juga sangat rekomendasi pakai cara sewa mobil pribadi kayak gini. Kamu bisa minta sopir atur perjalanan sehari penuh, dan terakhir anter langsung ke tempat nginep berikutnya, hemat waktu dan tenaga.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9fcdaea18d753826c3e962ebce5ecc05.jpg)
+![Penyesuaian Fleksibel Selama Perjalanan:](https://images.gobaligo.id/vocus/vocus_9fcdaea18d753826c3e962ebce5ecc05.jpg)
 
 **Lebih Banyak Ulasan Keren dari Karuna:**
 
@@ -119,7 +119,7 @@ Begitu masuk tempat, staf langsung semangat ngenalin proses pembuatan Kopi Luwak
 
 Proses coba rasanya seru sih, selain Kopi Luwak, mereka juga siapin berbagai jenis kopi dan teh bunga-buah buat kamu cicip. Setiap minuman ada yang jelasin, kayak rasa kopi, manfaat teh bunga-buah, dll. Setelah selesai coba satu putaran, rasanya agak sungkan kalau nggak beli apa-apa.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b47855e8d20e3f0b3936512c44f670a2.jpg)
+![Pengenalan Tempat dan Coba Rasa:](https://images.gobaligo.id/vocus/vocus_b47855e8d20e3f0b3936512c44f670a2.jpg)
 
 ### Kontroversi Kopi Luwak:
 
@@ -141,7 +141,7 @@ Pengalaman mencicipi kopi luwak memang jadi salah satu itinerary khas di Bali, t
 
 Perjalanan ke Bali kali ini, makanan jelas jadi salah satu highlight yang paling berkesan! Budaya kuliner Bali tuh super beragam, apalagi masakan khasnya, bikin nagih banget. Ini dia cerita detail soal pengalaman makan gue, semoga bisa jadi referensi buat kalian.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d7966ba428f0a4c7761ad02df03437bc.jpg)
+![Makanan](https://images.gobaligo.id/vocus/vocus_d7966ba428f0a4c7761ad02df03437bc.jpg)
 
 ### Bebek Betutu & Iga Babi:
 
@@ -153,7 +153,7 @@ Lucunya, driver sewaan kita bilang, meskipun mayoritas penduduk Indonesia muslim
 
 Meskipun Bebek Betutu dan Iga Babi bikin kita kagum, masakan tradisional Indonesia lainnya malah kurang cocok di lidah kita. Kita bahkan ikut kelas masak, habiskan satu pagi buat belajar bikin 6-7 masakan Indonesia. Ada juga turis Korea yang ikut, hasilnya setelah dicicip, semua pada bilang rasanya asin dan berminyak, akhirnya cuma makan satu dua suap doang. Tapi, proses ikut kelas masaknya tetep seru, soalnya bisa langsung praktek bikin masakan lokal, itu pengalaman traveling yang unik banget.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ecf6911723fd212af6fd9e57f2e1e6c9.jpg)
+![Masakan Tradisional Indonesia:](https://images.gobaligo.id/vocus/vocus_ecf6911723fd212af6fd9e57f2e1e6c9.jpg)
 
 **Referensi Cepat:**
 
@@ -166,7 +166,7 @@ Meskipun Bebek Betutu dan Iga Babi bikin kita kagum, masakan tradisional Indones
 
 Selain makanan berat, camilan di Bali juga bikin gue kaget! Apalagi "keripik kelapa", ini jelas jadi camilan favorit gue sepanjang trip. Keripik kelapa dibuat dari kelapa segar yang dikeringkan, teksturnya renyah, rasa manis alami kelapa, dan nggak berminyak sama sekali, bikin seger. Kita beli beberapa bungkus di supermarket lokal buat dibawa pulang, eh, belum sampe Taiwan udah habis dimakan gue wkwk. Kalau kamu juga suka camilan rasa kelapa, jangan sampai kelewatan!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3ea8ffe66b2a6770faffd5da33e37e49.png)
+![Camilan](https://images.gobaligo.id/vocus/vocus_3ea8ffe66b2a6770faffd5da33e37e49.png)
 
 Ada panduan lengkap di sini: [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Ide Oleh-Oleh Khas Bali: Pilihan Terbaik untuk Mengabadikan Kenangan Berharga](/blog/bali-souvenirs-gift-guide/)
 
@@ -200,7 +200,7 @@ Pas lagi tukar uang, pastiin pilih tempat penukaran yang terpercaya, jangan asal
 
 Pengalaman nginep di Bali kali ini bikin aku sadar banget, pentingnya milih tempat nginep sama lingkungan sekitarnya. Ini beberapa cerita dari pengalaman nginepku, semoga bisa bantu kalian pas rencanain trip biar milih yang lebih pas.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a547a653ea0227a0f9908d938d74da36.jpg)
+![Akomodasi](https://images.gobaligo.id/vocus/vocus_a547a653ea0227a0f9908d938d74da36.jpg)
 
 ### Masalah Nyamuk:
 
@@ -220,7 +220,7 @@ Kesalahan terbesar pas nginep kali ini, kita milih tempat yang agak jauh dari pu
 
 Makanya, **saran pas milih penginapan, pasti pertimbangkan kemudahan akses di sekitarnya**. Kalau kamu suka suasana ramai, bisa milih nginep di Kuta, Seminyak, atau Ubud yang pusat keramaian, tempat-tempat ini banyak restoran dan toko, malem juga ada banyak hiburan. Kalau kamu milih nginep di villa atau resort yang agak terpencil, siap-siap aja mental, mungkin harus andalin layanan Grab Food atau sewa mobil buat kebutuhan sehari-hari.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0391757a9b3ffecaea7406bc888c42e0.jpg)
+![Pemilihan Lokasi Nginep:](https://images.gobaligo.id/vocus/vocus_0391757a9b3ffecaea7406bc888c42e0.jpg)
 
 ### Tips Menginap:
 
@@ -234,7 +234,7 @@ Matahari, angin laut, dan budaya Bali ninggalin kenangan indah banget buat libur
 
 Kamu pikir itinerary I-Hsuan Chang seru? Yuk, segera rencanain liburan bebasmu ke Bali! Jangan lupa juga kirim itinerary kamu ke grup ya!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Tips Menginap:](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 

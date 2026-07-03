@@ -32,7 +32,7 @@ lang: id
 _srcHash: 44f2feec6b40c1ff53d6367597d63993
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_70db4d4278079bda9256ae9b7375328c.jpg)
+![Rekomendasi Penginapan di Bali: Top 18 Penginapan di Canggu ](https://images.gobaligo.id/vocus/vocus_70db4d4278079bda9256ae9b7375328c.jpg)
 
 Saat kamu merencanakan liburan santai ke Canggu di Bali, Indonesia, memilih penginapan yang memukau adalah kunci utama biar perjalananmu makin seru. Canggu terletak di barat daya Bali, terkenal dengan pemandangan pantai yang spektakuler, nuansa bohemian yang khas, dan budaya kopi yang lagi hits. Mau kamu pengen berjemur di pantai atau eksplorasi gang-gang eksotis, Canggu punya pesona yang susah ditolak. Biar gampang milih penginapan impian, kami udah merangkum rekomendasi 16 penginapan terbaik di Canggu, biar liburanmu di destinasi kece ini makin berkesan. Entah kamu traveler yang doyan kemewahan atau yang cari kenyamanan dan relaksasi, daftar ini bakal bantu kamu nemuin penginapan yang paling pas.
 
@@ -58,7 +58,7 @@ Yuk, mulai eksplorasi penginapan top di Canggu, biar liburanmu makin seru dan pe
 
 ## 1. COMO Uma Canggu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3461a14b036bcb4a2a8be1fd9d6b617a.jpg)
+![1. COMO Uma Canggu](https://images.gobaligo.id/vocus/vocus_3461a14b036bcb4a2a8be1fd9d6b617a.jpg)
 
 Lokasi COMO Uma Canggu benar-benar bikin speechless. Hotel ini letaknya persis di pinggir pantai, kasih pemandangan laut yang spektakuler buat para tamu, apalagi pas matahari terbenam.
 
@@ -68,7 +68,7 @@ COMO Uma Canggu sendiri udah jadi bangunan yang super cantik. Desain hotelnya si
 
 ## 2.Hotel Tugu Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_47590557a36b9762f2e423cc5766998f.jpg)
+![2.Hotel Tugu Bali](https://images.gobaligo.id/vocus/vocus_47590557a36b9762f2e423cc5766998f.jpg)
 
 Hotel Tugu Bali yang terletak di Batu Bolong, Canggu, Bali, adalah resort yang mempesona dengan karakter unik. Tempat ini menggabungkan budaya, seni, dan keindahan alam Bali, memberikan pengalaman menginap yang nggak terlupakan. Salah satu keunggulan utama Hotel Tugu Bali adalah atmosfer seninya. Hotel ini punya koleksi karya seni dan artefak yang menakjubkan, tersebar di berbagai sudut, bikin kamu merasakan suasana budaya yang kaya selama menginap.
 
@@ -76,7 +76,7 @@ Hotel Tugu Bali yang terletak di Batu Bolong, Canggu, Bali, adalah resort yang m
 
 ## 3.Eastin Ashta Resort Canggu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_66c8fa5ae00eb7eba575766b1899ee68.jpg)
+![3.Eastin Ashta Resort Canggu](https://images.gobaligo.id/vocus/vocus_66c8fa5ae00eb7eba575766b1899ee68.jpg)
 
 Eastin Ashta Resort Canggu terletak di daerah Canggu, Bali. Ini adalah resort modern yang mengesankan dengan konsep ramah keluarga, menawarkan berbagai akomodasi dan fasilitas keren yang bikin liburan kamu jadi berkesan. Resort ini bangga banget karena terpilih sebagai Tripadvisor Travellers' Choice 2023, dan para tamu yang pernah nginep di sini pasti merekomendasikannya!
 
@@ -84,7 +84,7 @@ Eastin Ashta Resort Canggu terletak di daerah Canggu, Bali. Ini adalah resort mo
 
 ## 4.La Reserve 1785 Canggu Beach
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1cb60e4fa58d541bc156ff569dcd401d.jpg)
+![4.La Reserve 1785 Canggu Beach](https://images.gobaligo.id/vocus/vocus_1cb60e4fa58d541bc156ff569dcd401d.jpg)
 
 La Reserve 1785 Canggu Beach adalah resort baru yang dibuka tahun 2022, terletak di daerah Canggu, Bali. Tempat menginap yang keren ini langsung jadi sorotan di dunia pariwisata lokal karena gaya uniknya, fasilitas mewah, dan pemandangan yang nggak ada duanya. Super populer!
 
@@ -92,7 +92,7 @@ La Reserve 1785 Canggu Beach adalah resort baru yang dibuka tahun 2022, terletak
 
 ## 5. ZIN Canggu Resort & Villas
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00517035bd0e2005c3cff58ed044eb83.jpg)
+![5. ZIN Canggu Resort & Villas](https://images.gobaligo.id/vocus/vocus_00517035bd0e2005c3cff58ed044eb83.jpg)
 
 ZIN Canggu Resort & Villas adalah resort bintang 4 di kawasan Canggu yang dibuka tahun 2018, ratingnya bagus banget. Resort ini terletak di Pantai Nelayan, dekat banget sama Echo Beach dan Batu Bolong Beach. Selain kamar hotel biasa, ada juga private pool villa yang bisa kamu pilih.
 
@@ -100,7 +100,7 @@ ZIN Canggu Resort & Villas adalah resort bintang 4 di kawasan Canggu yang dibuka
 
 ## 6. Shore Amora Canggu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1315dcd66d00182c5b058e83bfb555e5.jpg)
+![6. Shore Amora Canggu](https://images.gobaligo.id/vocus/vocus_1315dcd66d00182c5b058e83bfb555e5.jpg)
 
 Shore Amora Canggu adalah pilihan akomodasi keren banget di kawasan Canggu. Letaknya di tengah sawah yang hijau dengan pohon kelapa yang bergoyang, tapi tetap dekat banget sama pantai. Dari sebelum pandemi sampai sekarang, tempat ini selalu jadi salah satu favorit di sini.
 
@@ -108,7 +108,7 @@ Shore Amora Canggu adalah pilihan akomodasi keren banget di kawasan Canggu. Leta
 
 ## 7. Theanna Villa and Spa Canggu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42aad205d506c218ae03d6ee72e297aa.jpg)
+![7. Theanna Villa and Spa Canggu](https://images.gobaligo.id/vocus/vocus_42aad205d506c218ae03d6ee72e297aa.jpg)
 
 Kalau kamu lagi cari tempat buat relaksasi dan menikmati liburan yang sempurna, Theanna Villa and Spa Canggu wajib banget dicoba. Resort ini cuma 5 menit jalan kaki dari pantai. Ada 25 villa, masing-masing punya private pool, balkon, dan outdoor shower. Dapat penghargaan tripadvisor Travellers' Choice 2023 "**Best of the Best**". Tempat yang ideal buat liburan yang tenang dan santai.
 
@@ -116,7 +116,7 @@ Kalau kamu lagi cari tempat buat relaksasi dan menikmati liburan yang sempurna, 
 
 ## 8.Aston Canggu Beach Resort
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_258b332ab0bf08a2fdd82b918dd5acce.jpg)
+![8.Aston Canggu Beach Resort](https://images.gobaligo.id/vocus/vocus_258b332ab0bf08a2fdd82b918dd5acce.jpg)
 
 Aston Canggu Beach Resort adalah hotel bintang 4 di kawasan Canggu, Bali, cuma 100 meter dari pantai. Cocok banget buat kamu yang mau main ke Pantai Canggu dan tempat-tempat seru di sekitarnya.
 
@@ -124,7 +124,7 @@ Aston Canggu Beach Resort adalah hotel bintang 4 di kawasan Canggu, Bali, cuma 1
 
 ## 9.Kalapa Boutique Resort & Yoga
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_243be4765d140f88ebeb319fc160a05d.jpg)
+![9.Kalapa Boutique Resort & Yoga](https://images.gobaligo.id/vocus/vocus_243be4765d140f88ebeb319fc160a05d.jpg)
 
 Jauh dari hiruk-pikuk kota, Kalapa Boutique Resort & Yoga menawarkan kamar dan vila mewah dengan desain unik di setiap sudutnya. Kamu bakal merasakan perpaduan budaya Indonesia dan Bali. Pagi hari, nikmati matahari terbit dari balkon pribadi, malamnya berendam di bak mandi outdoor sambil lihat bintang. Recomended buat kamu yang tahu cara menikmati hidup!
 
@@ -132,7 +132,7 @@ Jauh dari hiruk-pikuk kota, Kalapa Boutique Resort & Yoga menawarkan kamar dan v
 
 ## 10.Swarga Suites Bali Berawa
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a451c61ffe4cfb1d73ff5ee30e71ecc2.jpg)
+![10.Swarga Suites Bali Berawa](https://images.gobaligo.id/vocus/vocus_a451c61ffe4cfb1d73ff5ee30e71ecc2.jpg)
 
 Swarga Suites Bali Berawa adalah akomodasi mewah dengan rating tinggi di Canggu, Bali. Letaknya dekat Pantai Berawa, bikin suasana liburan makin oke. Resort cantik ini punya berbagai tipe suite, masing-masing penuh nuansa khas Bali, lengkap dengan balkon atau teras pribadi buat nikmatin pemandangan matahari terbit dan terbenam yang spektakuler.
 
@@ -140,7 +140,7 @@ Swarga Suites Bali Berawa adalah akomodasi mewah dengan rating tinggi di Canggu,
 
 ## 11.Holiday Inn Resort Bali Canggu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2819fc39af6ba26d94deac761bbf5f7f.jpg)
+![11.Holiday Inn Resort Bali Canggu](https://images.gobaligo.id/vocus/vocus_2819fc39af6ba26d94deac761bbf5f7f.jpg)
 
 Holiday Inn Resort Bali Canggu resmi dibuka pada Agustus 2024, jadi pilihan akomodasi premium di kawasan Canggu, pesisir selatan Bali. Resort ini punya desain kekinian, fasilitas top, dan teknologi canggih, plus kolam renang infinity yang bikin ngiler dengan pemandangan Samudra Hindia yang epik. Lokasinya dekat Pantai Batu Bolong dan pusat keramaian Canggu, jalan kaki aja nyampe. Perpaduan desain modern dan sentuhan tradisional Bali bikin suasana makin oke. Ada 144 kamar yang didesain apik, mulai dari standar, suite, sampai kids suite buat keluarga. Fasilitasnya lengkap: pusat kebugaran, klub anak, dan restoran buka 24 jam — dijamin liburanmu bakal unforgettable.
 
@@ -148,7 +148,7 @@ Holiday Inn Resort Bali Canggu resmi dibuka pada Agustus 2024, jadi pilihan akom
 
 ## 12.TUI BLUE Berawa Hotel and Villas
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d6bfb73b55940f19cd26d940526bbfbd.jpg)
+![12.TUI BLUE Berawa Hotel and Villas](https://images.gobaligo.id/vocus/vocus_d6bfb73b55940f19cd26d940526bbfbd.jpg)
 
 **TUI Blue Berawa Hotel dan Villas** dibuka pada 13 Desember 2024 di Canggu, Bali, jadi proyek perdana raksasa turis Jerman, TUI Group, di Bali. Hotel ini ada di kawasan Berawa yang lagi hits, dikelilingi tempat-tempat seru di Canggu.
 
@@ -158,7 +158,7 @@ Hotel punya **119 kamar dan suite** plus **14 vila dengan kolam renang pribadi**
 
 ## 13.Oshom Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f7670907705e51bad1bd83b39e8f8eb9.jpg)
+![13.Oshom Bali](https://images.gobaligo.id/vocus/vocus_f7670907705e51bad1bd83b39e8f8eb9.jpg)
 
 Oshom Bali, yang baru buka November 2024, adalah butik hotel dengan cuma 11 kamar. Letaknya di Nuanu Creative City, Tabanan, Bali — di atas tebing menghadap pantai pasir hitam. Hotel ini juga punya tujuh treehouse di hutan mangrove, kolam renang air asin, restoran kece, dan rooftop bar warna pink-oranye yang bakal segera buka. Desain kamarnya minimalis mewah, dengan jendela kaca full, perangkat pintar, dan kerajinan tradisional Indonesia. Ada juga cerita pengantar tidur setiap malam dan ruang meditasi biar kamu bisa relaks total. Pendirinya, Daisy Angus, juga ngadain workshop melukis dan 'bedside talk' buat memicu inspirasi dan kreativitas.
 
@@ -168,25 +168,25 @@ Fasilitas di sekitar Oshom juga oke banget. Jarak tempuh pendek ke Lumeira, kuba
 
 ## 14.**Leafy Lofts Canggu**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413138936-503508294.jpg)
+![14.Leafy Lofts Canggu](https://images.gobaligo.id/images/2026-03/1774413138936-503508294.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413139414-503508292.jpg)
+![14.Leafy Lofts Canggu](https://images.gobaligo.id/images/2026-03/1774413139414-503508292.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413139833-498023099.jpg)
+![14.Leafy Lofts Canggu](https://images.gobaligo.id/images/2026-03/1774413139833-498023099.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413140304-503518502.jpg)
+![14.Leafy Lofts Canggu](https://images.gobaligo.id/images/2026-03/1774413140304-503518502.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413140791-505136367.jpg)
+![14.Leafy Lofts Canggu](https://images.gobaligo.id/images/2026-03/1774413140791-505136367.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413141152-509722359.jpg)
+![14.Leafy Lofts Canggu](https://images.gobaligo.id/images/2026-03/1774413141152-509722359.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413141589-521549811.jpg)
+![14.Leafy Lofts Canggu](https://images.gobaligo.id/images/2026-03/1774413141589-521549811.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413142033-521549814.jpg)
+![14.Leafy Lofts Canggu](https://images.gobaligo.id/images/2026-03/1774413142033-521549814.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413142429-633689614.jpg)
+![14.Leafy Lofts Canggu](https://images.gobaligo.id/images/2026-03/1774413142429-633689614.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413142927-633689616.jpg)
+![14.Leafy Lofts Canggu](https://images.gobaligo.id/images/2026-03/1774413142927-633689616.jpg)
 
 Terletak di jantung Canggu, Bali, tempat ini menggabungkan desain modern dengan nuansa tropis, cocok banget buat kamu yang mencari kenyamanan dan ketenangan.
 
@@ -200,25 +200,25 @@ Leafy Lofts Canggu punya pilihan kamar tipe satu kamar tidur & dua kamar tidur. 
 
 ## 15.Belajar Bali Boutique Hotel & Retreat
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413499553-411150344.jpg)
+![15.Belajar Bali Boutique Hotel & Retreat](https://images.gobaligo.id/images/2026-03/1774413499553-411150344.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413500410-411150337.jpg)
+![15.Belajar Bali Boutique Hotel & Retreat](https://images.gobaligo.id/images/2026-03/1774413500410-411150337.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413501185-411150341.jpg)
+![15.Belajar Bali Boutique Hotel & Retreat](https://images.gobaligo.id/images/2026-03/1774413501185-411150341.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413501603-411150343.jpg)
+![15.Belajar Bali Boutique Hotel & Retreat](https://images.gobaligo.id/images/2026-03/1774413501603-411150343.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413502067-411919175.jpg)
+![15.Belajar Bali Boutique Hotel & Retreat](https://images.gobaligo.id/images/2026-03/1774413502067-411919175.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413502466-411932382.jpg)
+![15.Belajar Bali Boutique Hotel & Retreat](https://images.gobaligo.id/images/2026-03/1774413502466-411932382.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413502928-411150345.jpg)
+![15.Belajar Bali Boutique Hotel & Retreat](https://images.gobaligo.id/images/2026-03/1774413502928-411150345.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413503353-411150631.jpg)
+![15.Belajar Bali Boutique Hotel & Retreat](https://images.gobaligo.id/images/2026-03/1774413503353-411150631.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413503813-411389752.jpg)
+![15.Belajar Bali Boutique Hotel & Retreat](https://images.gobaligo.id/images/2026-03/1774413503813-411389752.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413504253-411389892.jpg)
+![15.Belajar Bali Boutique Hotel & Retreat](https://images.gobaligo.id/images/2026-03/1774413504253-411389892.jpg)
 
 Belajar Bali Boutique Hotel and Retreat cuma **2,8 km** dari Pantai Batu Bolong, ini hotel butik bintang 5 yang memadukan ketenangan dan kemewahan.
 
@@ -235,25 +235,25 @@ Belajar Bali menggabungkan alam dengan fasilitas modern, cocok buat kamu yang me
 
 ## 16. MAJA Canggu Hotel
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413895817-505351238.jpg)
+![16. MAJA Canggu Hotel](https://images.gobaligo.id/images/2026-03/1774413895817-505351238.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413896215-505351235.jpg)
+![16. MAJA Canggu Hotel](https://images.gobaligo.id/images/2026-03/1774413896215-505351235.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413896662-505351240.jpg)
+![16. MAJA Canggu Hotel](https://images.gobaligo.id/images/2026-03/1774413896662-505351240.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413896998-505351232.jpg)
+![16. MAJA Canggu Hotel](https://images.gobaligo.id/images/2026-03/1774413896998-505351232.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413897312-505351243.jpg)
+![16. MAJA Canggu Hotel](https://images.gobaligo.id/images/2026-03/1774413897312-505351243.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413897785-505351244.jpg)
+![16. MAJA Canggu Hotel](https://images.gobaligo.id/images/2026-03/1774413897785-505351244.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413898230-505351265.jpg)
+![16. MAJA Canggu Hotel](https://images.gobaligo.id/images/2026-03/1774413898230-505351265.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413898667-505351278.jpg)
+![16. MAJA Canggu Hotel](https://images.gobaligo.id/images/2026-03/1774413898667-505351278.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413899059-505351284.jpg)
+![16. MAJA Canggu Hotel](https://images.gobaligo.id/images/2026-03/1774413899059-505351284.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774413899401-505355803.jpg)
+![16. MAJA Canggu Hotel](https://images.gobaligo.id/images/2026-03/1774413899401-505355803.jpg)
 
 Di kawasan Canggu yang penuh energi dan kreativitas ini, MAJA Canggu Hotel adalah butik hotel perpaduan gaya Mediterania dan tropis yang menawarkan ruang liburan tenang dan elegan.
 
@@ -271,25 +271,25 @@ Cocok buat kamu yang mengutamakan kenyamanan dan privasi, dengan perpaduan buday
 
 ## 17. Regent Bali Canggu
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777370899343-b906975f65623d0fddae203932431dbd.webp)
+![17. Regent Bali Canggu](https://images.gobaligo.id/images/2026-04/1777370899343-b906975f65623d0fddae203932431dbd.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777370900037-caption.jpg)
+![17. Regent Bali Canggu](https://images.gobaligo.id/images/2026-04/1777370900037-caption.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777370901061-d7c1d86ebd938eb97335fd3c041beb0e.webp)
+![17. Regent Bali Canggu](https://images.gobaligo.id/images/2026-04/1777370901061-d7c1d86ebd938eb97335fd3c041beb0e.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777370901983-0402e9a56058a4f547a63be175d01baf.webp)
+![17. Regent Bali Canggu](https://images.gobaligo.id/images/2026-04/1777370901983-0402e9a56058a4f547a63be175d01baf.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777370902590-8a9dd68cfb48a1813b0c23c7d943bfe4.webp)
+![17. Regent Bali Canggu](https://images.gobaligo.id/images/2026-04/1777370902590-8a9dd68cfb48a1813b0c23c7d943bfe4.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777370903311-61658f238225b3ab66fb0cc6adf3ded4.webp)
+![17. Regent Bali Canggu](https://images.gobaligo.id/images/2026-04/1777370903311-61658f238225b3ab66fb0cc6adf3ded4.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777370904248-72e2b5ae900228d14430054b06b89ec9.webp)
+![17. Regent Bali Canggu](https://images.gobaligo.id/images/2026-04/1777370904248-72e2b5ae900228d14430054b06b89ec9.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777370904948-146c120da84e775b6ea13e53b4bc43ae.jpeg)
+![17. Regent Bali Canggu](https://images.gobaligo.id/images/2026-04/1777370904948-146c120da84e775b6ea13e53b4bc43ae.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777370905612-644007066.jpg)
+![17. Regent Bali Canggu](https://images.gobaligo.id/images/2026-04/1777370905612-644007066.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777370906090-675862491.jpg)
+![17. Regent Bali Canggu](https://images.gobaligo.id/images/2026-04/1777370906090-675862491.jpg)
 
 Canggu selama ini kekurangan hotel bintang lima beneran. November 2025, celah itu akhirnya terisi!
 
@@ -307,15 +307,15 @@ Cocok banget buat: pasangan bulan madu, traveler yang mau nginep mewah di Canggu
 
 ## 18. Dune Seseh — Boutique Hotel Tersembunyi di Bali
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070675908-083c1734b8efd896da90a5d9bae535f9.webp)
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070676491-72e676c246fb57492dadc944bf5fd1fe.webp)
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070677240-550072448.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070677773-550071835.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070678368-550072462.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070679096-550072473.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070681029-550072483.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070682167-unnamed.webp)
-![raw-image](https://images.gobaligo.id/images/2026-05/1780070682867-unnamed1.webp)
+![18. Dune Seseh — Boutique Hotel Tersembunyi di Bali](https://images.gobaligo.id/images/2026-05/1780070675908-083c1734b8efd896da90a5d9bae535f9.webp)
+![18. Dune Seseh — Boutique Hotel Tersembunyi di Bali](https://images.gobaligo.id/images/2026-05/1780070676491-72e676c246fb57492dadc944bf5fd1fe.webp)
+![18. Dune Seseh — Boutique Hotel Tersembunyi di Bali](https://images.gobaligo.id/images/2026-05/1780070677240-550072448.jpg)
+![18. Dune Seseh — Boutique Hotel Tersembunyi di Bali](https://images.gobaligo.id/images/2026-05/1780070677773-550071835.jpg)
+![18. Dune Seseh — Boutique Hotel Tersembunyi di Bali](https://images.gobaligo.id/images/2026-05/1780070678368-550072462.jpg)
+![18. Dune Seseh — Boutique Hotel Tersembunyi di Bali](https://images.gobaligo.id/images/2026-05/1780070679096-550072473.jpg)
+![18. Dune Seseh — Boutique Hotel Tersembunyi di Bali](https://images.gobaligo.id/images/2026-05/1780070681029-550072483.jpg)
+![18. Dune Seseh — Boutique Hotel Tersembunyi di Bali](https://images.gobaligo.id/images/2026-05/1780070682167-unnamed.webp)
+![18. Dune Seseh — Boutique Hotel Tersembunyi di Bali](https://images.gobaligo.id/images/2026-05/1780070682867-unnamed1.webp)
 
 Dune Seseh baru buka tahun 2024, tersembunyi di Desa Seseh, sekitar 20 menit di utara Canggu. Total cuma 12 kamar — konsepnya boutique experience banget: nggak ramai, desainnya kece, dan dekat pantai.
 
@@ -329,7 +329,7 @@ Rating tamu di Agoda 9.0, Trip.com 9.2 — skor segitu buat hotel kecil yang bar
 
 ## Peta Lokasi
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_41b9eed23368f2692e63ad665923dd6e.png)
+![Peta Lokasi](https://images.gobaligo.id/vocus/vocus_41b9eed23368f2692e63ad665923dd6e.png)
 
 Cek aja di "[Peta Panduan Canggu](https://gobaligo.id/map/canggu/)"
 

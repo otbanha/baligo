@@ -19,7 +19,7 @@ _srcHash: 1fe8c7703f945bc572573461b0aaf955
 
 在巴厘岛这片神奇的土地上，随着国际观光客越来越多的趋势，信用卡的接受程度在巴厘岛也越来越普及。作为一名旅行者，您可能会考虑使用信用卡来支付您的开支。然而，使用信用卡在巴厘岛旅行中有其利与弊，让我们一起来探讨一下。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa29ee99c92f61f5ed2131d9230f0941.jpg)
+![巴厘岛使用信用卡方便吗？刷卡划算吗？](https://images.gobaligo.id/vocus/vocus_aa29ee99c92f61f5ed2131d9230f0941.jpg)
 
 ## **使用信用卡的好处：**
 
@@ -28,7 +28,7 @@ _srcHash: 1fe8c7703f945bc572573461b0aaf955
 3. **紧急资金：** 在旅行中，有时可能会遇到资金不足的情况，此时信用卡可以作为临时的紧急资金来源，让您暂时摆脱困境。
 4. **获得奖励：** 一些信用卡可能会提供旅游奖励或海外交易回馈，这意味着您可以在旅行中享受到额外的福利或节省开支，让您的旅行更加愉快。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d52b3db75ded9d47fc0971a9d571c00a.png)
+![使用信用卡的好处：](https://images.gobaligo.id/vocus/vocus_d52b3db75ded9d47fc0971a9d571c00a.png)
 
 预订、省钱就看这里：
 

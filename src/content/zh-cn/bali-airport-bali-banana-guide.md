@@ -19,7 +19,7 @@ lang: zh-cn
 _srcHash: 70de6169fdf38ef0da33216e4c88f5d6
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6fb17aeb28479bd7b7d5a57f318dea63.jpg)
+![巴厘岛国际机场买Bali Banana当伴手礼怎么去？如何从国际线步行到国内线？](https://images.gobaligo.id/vocus/vocus_6fb17aeb28479bd7b7d5a57f318dea63.jpg)
 
 巴厘岛是个旅游天堂，而在离开之前，许多游客都会选择买些伴手礼带回家。Bali Banana，这款美味的香蕉蛋糕，是非常受欢迎的选择。
 
@@ -49,13 +49,13 @@ _srcHash: 70de6169fdf38ef0da33216e4c88f5d6
 
 大约步行6分钟，你就会抵达「Domestic Arrival」的出口。这段路程不算长，但建议保持步伐稳定。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f056d22cf1bed835ef9123c318dd302f.png)
+![3. 路程约6分钟](https://images.gobaligo.id/vocus/vocus_f056d22cf1bed835ef9123c318dd302f.png)
 
 ### 4. 拍照纪念景点
 
 在国内线抵达的出口附近，向右手边看，有一个可以拍照纪念的景点。这是个留念的好地方，记得拍张照做纪念。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6aff46880bacb87bf78aa5df4a4251d9.png)
+![4. 拍照纪念景点](https://images.gobaligo.id/vocus/vocus_6aff46880bacb87bf78aa5df4a4251d9.png)
 
 ### 5. 进入国内线抵达的商店街
 
@@ -65,13 +65,13 @@ _srcHash: 70de6169fdf38ef0da33216e4c88f5d6
 
 在商店街中，有一家非常有名的店——Mixue（蜜雪冰城）。这是一家在2023年中国拥有超过三万六千多门店的连锁现制饮品品牌，按照门店数排名是中国门店规模最大、全球第二的连锁品牌。如果你走累了，可以在这里买个冰淇淋消消暑。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d49906b7bc7fe633af4aebcab6a869de.png)
+![6. 享受蜜雪冰城](https://images.gobaligo.id/vocus/vocus_d49906b7bc7fe633af4aebcab6a869de.png)
 
 ### 7. 找到Bali Banana
 
 蜜雪冰城的旁边，就是你要找的Bali Banana。这家店铺内有各式各样的香蕉蛋糕，你可以在这里选购你喜欢的口味。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb25ddbefa192a9797a0f1a384548675.png)
+![7. 找到Bali Banana](https://images.gobaligo.id/vocus/vocus_eb25ddbefa192a9797a0f1a384548675.png)
 
 ### 8. 全程约10分钟
 

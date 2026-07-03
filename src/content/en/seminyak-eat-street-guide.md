@@ -36,7 +36,7 @@ Seminyak's **Jalan Kayu Aya** is better known by its catchy nickname—**Eat Str
 
 This article is curated based on actual Google reviews, categorizing Eat Street's establishments **by type**, complete with brief descriptions of each spot. Paired with Google Maps, it helps you find your perfect choice without endless scrolling.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778073748862-_2026-05-06_20.22.10.png)
+![50+ Seminyak Eat Street Food Guide Complete Jalan Kayu Aya R](https://images.gobaligo.id/images/2026-05/1778073748862-_2026-05-06_20.22.10.png)
 
 ***
 
@@ -48,7 +48,7 @@ This is the most competitive section of Eat Street and Seminyak's most beloved d
 
 ## 🥇 Sisterfields
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778075395701-sisterfields-reviews.jpg)
+![Sisterfields](https://images.gobaligo.id/images/2026-05/1778075395701-sisterfields-reviews.jpg)
 
 **Address:** Jl. Kayu Cendana No. 7
 
@@ -114,7 +114,7 @@ A casual-style café-restaurant serving brunch through dinner, with cozy decor p
 
 A popular Thai restaurant among Eat Street's Thai options, known for its curry and fried noodles at wallet-friendly prices.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778075441071-ginger_moon.webp)
+![Bangkok Kitchen](https://images.gobaligo.id/images/2026-05/1778075441071-ginger_moon.webp)
 
 # 🍽️ Main Dining (Asian & Fusion Cuisine)
 
@@ -271,7 +271,7 @@ A small, homestyle restaurant praised for its generous portions and reasonable p
 
 ## BOSSMAN Burgers Seminyak
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778075473798-bossman.webp)
+![BOSSMAN Burgers Seminyak](https://images.gobaligo.id/images/2026-05/1778075473798-bossman.webp)
 
 A renowned burger brand in Seminyak, famous for its thick and juicy American-style burgers paired with homemade sauces. The hearty portions make it a must-visit for burger enthusiasts.
 
@@ -335,7 +335,7 @@ A handmade popsicle shop using natural ingredients to create various tropical fl
 
 ## Frozen Yogi
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778075497284-frozenyogi.jpg)
+![Frozen Yogi](https://images.gobaligo.id/images/2026-05/1778075497284-frozenyogi.jpg)
 
 Specializing in frozen yogurt, where you can customize flavors and toppings. Refreshing and not too heavy, it's especially popular on hot days.
 
@@ -374,7 +374,7 @@ Overall: **Perfect atmosphere, decent cocktails, slightly inconsistent service**
 
 ## 🥇 Red Carpet Champagne Bar
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778075518821-red-carpet-100.jpg)
+![Red Carpet Champagne Bar](https://images.gobaligo.id/images/2026-05/1778075518821-red-carpet-100.jpg)
 
 **Address:** Jl. Kayu Aya No. 42
 

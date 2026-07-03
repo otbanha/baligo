@@ -26,7 +26,7 @@ _srcHash: 3c3c5eaef1257a3040e929f048c484e6
 
 ## **🚖 Sopir Taksi Bali Demo, Pemerintah Makin Ketat Awasi Ojek Online**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9fcfc4a88f2af864cc1d6061296a6c6c.jpg)
+![Sopir Taksi Bali Demo, Pemerintah Makin Ketat Awasi Ojek Onl](https://images.gobaligo.id/vocus/vocus_9fcfc4a88f2af864cc1d6061296a6c6c.jpg)
 
 Pemerintah Bali bakal ngeluarin aturan baru buat lindungi mata pencaharian sopir taksi lokal. Keputusan ini diambil setelah [ratusan sopir taksi demo besar-besaran di Denpasar pada 5 Januari 2025](https://www.facebook.com/share/p/1BJfdZGmQQ/).
 
@@ -58,7 +58,7 @@ Sopir taksi lokal di Bali udah lama banget ngeluh soal membludaknya kendaraan da
 
 Para demonstran juga nuntut supaya sopir dari luar daerah dibatasi kerja di Bali. Soalnya mereka sering langgar aturan dan bikin citra industri taksi lokal jadi jelek.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_16bdddb821585be8cda7dedab15236b9.png)
+![Kekesalan & Kekhawatiran Sopir Lokal](https://images.gobaligo.id/vocus/vocus_16bdddb821585be8cda7dedab15236b9.png)
 
 ---
 
@@ -110,7 +110,7 @@ Kalau kamu berencana ke Bali, pantau terus aturan lalu lintas terbaru biar perja
 
 ## 📩 **Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Bali!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Ba](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

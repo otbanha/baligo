@@ -33,7 +33,7 @@ _srcHash: 160760cbe0a54d52e06446696eb1eae8
 ---
 Pura Uluwatu (Uluwatu Temple) udah jadi destinasi yang terkenal banget di kalangan wisatawan, penduduk lokal menyebutnya 'Pura Luhur Uluwatu'. Pura ini nggak cuma naikin popularitas tempat wisata di selatan Bali, tapi juga dihormati karena lokasinya yang unik dan makna budayanya. Pura ini terletak di atas tebing setinggi 97 meter, bukan cuma tempat ziarah umat, tapi juga kasih pemandangan menakjubkan yang bakal bikin kamu melongo. Di panduan wisata Pura Uluwatu ini, gue bakal kasih semua info penting buat bantu kamu rencanain perjalanan, termasuk harga tiket, sejarah, saran pakaian saat berkunjung, dll. Siap buat petualangan? Yuk, mulai!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0942869a24bc2de969579c4727678bef.jpg)
+![【Tempat Wisata Bali】Panduan Lengkap Pura Uluwatu & Tebing Ci](https://images.gobaligo.id/vocus/vocus_0942869a24bc2de969579c4727678bef.jpg)
 
 ***
 
@@ -55,7 +55,7 @@ Nama romantis "Tebing Cinta" berasal dari legenda Bali yang cukup mengharukan. K
 
 Makanya, banyak pasangan datang ke sini, sambil menikmati pemandangan laut yang spektakuler, mereka juga berdoa untuk cinta mereka. Apalagi saat matahari terbenam, suasana romantis di Tebing Cinta bikin siapa pun meleleh.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f1205c8b56146e8e887c4182b3cdb14.jpg)
+![Kenapa disebut juga "Tebing Cinta"?](https://images.gobaligo.id/vocus/vocus_2f1205c8b56146e8e887c4182b3cdb14.jpg)
 
 ***
 
@@ -74,7 +74,7 @@ Pura Uluwatu bukan cuma tempat wisata biasa — ini kumpulan pengalaman yang ngg
 
 Begitu kamu melangkah masuk ke Pura Uluwatu, kamu bakal masuk ke dunia yang berbeda — ada pemandangan yang bikin napas tersengal, plus monyet-monyet nakal. Ini info yang perlu kamu tahu biar kunjunganmu aman dan menyenangkan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a6b613c677f33ef44de0d9ba843cb008.jpg)
+![Panduan Berkunjung ke Pura Uluwatu: Pintu Masuk, Hutan, dan ](https://images.gobaligo.id/vocus/vocus_a6b613c677f33ef44de0d9ba843cb008.jpg)
 
 1. **Pilihan Pintu Masuk Utara dan Selatan**
    Mau masuk lewat pintu utara atau selatan, sama-sama bakal bawa kamu ke hutan lebat yang dihuni monyet ekor panjang yang terkenal itu. Kedua pintu masuknya mirip, tapi kalau kamu mau cepat sampai ke spot utama, pilih aja salah satu. Yang jelas, siap-siap aja langsung ketemu teman-teman berbulu ini begitu masuk!
@@ -96,9 +96,9 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 ## **Pemandangan dan Arsitektur Unik Pura Uluwatu**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cbc08e1711f806a3dc723f3ad3f4e928.jpg)
+![Pemandangan dan Arsitektur Unik Pura Uluwatu](https://images.gobaligo.id/vocus/vocus_cbc08e1711f806a3dc723f3ad3f4e928.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6d11065583fa43ec011666c8b8938d2c.jpg)
+![Pemandangan dan Arsitektur Unik Pura Uluwatu](https://images.gobaligo.id/vocus/vocus_6d11065583fa43ec011666c8b8938d2c.jpg)
 
 Pura Uluwatu bukan cuma tempat yang indah, tapi juga pesta untuk indra, dengan pemandangan menakjubkan dan arsitektur yang unik.
 
@@ -118,9 +118,9 @@ Pura Uluwatu bukan cuma tempat yang indah, tapi juga pesta untuk indra, dengan p
 
 > Referensi cepat: [【Panduan Waktu Sunset Terbaik di Bali】Tujuh Spot Nonton Sunset di Bali, Udah Berapa yang Kamu Kunjungi?](/blog/bali-sunset-spots-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_83bd89800dff26aa55bcb32163b06b3b.jpg)
+![Pemandangan dan Arsitektur Unik Pura Uluwatu](https://images.gobaligo.id/vocus/vocus_83bd89800dff26aa55bcb32163b06b3b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a3357e6294ca9b8324ea49d03103abbb.jpg)
+![Pemandangan dan Arsitektur Unik Pura Uluwatu](https://images.gobaligo.id/vocus/vocus_a3357e6294ca9b8324ea49d03103abbb.jpg)
 
 ***
 
@@ -135,7 +135,7 @@ Pura Uluwatu bukan cuma tempat yang indah, tapi juga pesta untuk indra, dengan p
 
 - **Tiket Masuk**: Masuk Pura Uluwatu kena biaya tiket, saran cek harga terbaru online dulu. Buat turis asing, harga tiket dewasa Rp60.000, anak 6-12 tahun Rp40.000, dan anak di bawah 6 tahun gratis. Biaya ini belum termasuk tiket masuk pertunjukan Tari Kecak. Turis lokal dapet diskon kecil, tiket dewasa Rp30.000, anak Rp15.000.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_937f3b037d46adb49c30bb19a624a580.jpg)
+![Info Tiket Masuk Pura Uluwatu dan Pertunjukan Tari Kecak](https://images.gobaligo.id/vocus/vocus_937f3b037d46adb49c30bb19a624a580.jpg)
 
 - **Pertunjukan Tari Kecak**: Setiap sore ada dua pertunjukan jam 6:00-7:00 dan 7:00-8:00, saran datang lebih awal biar dapet posisi nonton terbaik. Tiket pertunjukan tari sekarang Rp150.000 per orang.
 - **Tiket Diskon**: Tiket diskon Tari Kecak [bisa dibeli di sini](https://affiliate.klook.com/redirect?aid=116349&aff_adid=983750&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21638-uluwatu-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D83f53db339)!

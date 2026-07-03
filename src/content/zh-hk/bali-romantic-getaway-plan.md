@@ -108,7 +108,7 @@ https://youtu.be/lbDfKut2J7M
 
 編按：The Cave呢邊仲有個懸崖泳池嘅日間俱樂部，都係呢一帶嘅必遊景點嚟㗎！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a41f7059b9d933b43ebc4cfd56684828.png)
+![The Cave 洞穴餐廳，一生必試嘅夢幻晚餐](https://images.gobaligo.id/vocus/vocus_a41f7059b9d933b43ebc4cfd56684828.png)
 
 [探索Oneeighty Day Club：峇里島懸崖邊嘅泳池極致美景](/blog/oneeighty-dayclub-uluwatu-pool/)
 

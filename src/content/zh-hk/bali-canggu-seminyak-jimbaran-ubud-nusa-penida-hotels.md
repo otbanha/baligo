@@ -13,7 +13,7 @@ _srcHash: f1f1fcb4a5fce1d821083bf0cba16bfa
 ---
 峇里島以其迷人嘅自然景致、豐富嘅文化內涵而聞名，每年吸引無數遊客到訪。呢個印尼著名旅遊勝地嘅住宿選擇都相當多元化，由豪華度假村到經濟實惠嘅小旅館應有盡有，無論你係追求奢華體驗定係簡單實惠嘅住宿，喺峇里島都搵到合適嘅選擇。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc04ae4423e5707c3b4106ae8ab988b9.jpg)
+![【實拍視頻】峇里島從坎古、水明漾、金巴蘭、烏布、佩尼達島嘅12間住宿推薦](https://images.gobaligo.id/vocus/vocus_cc04ae4423e5707c3b4106ae8ab988b9.jpg)
 
 喺下面呢條YouTube影片入面，旅遊博客Camilla Johannesen帶觀眾探索峇里島上最佳嘅住宿選擇。佢展示咗由豪華度假村到經濟實惠嘅民宿嘅各種選項，無論係咩旅遊喜好同預算都有適合你嘅選項。
 

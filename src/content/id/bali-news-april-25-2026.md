@@ -22,7 +22,7 @@ _srcHash: 6b15e9a90d8801a4c7e451c842655927
 
 ## 🗞️ Berita Utama Hari Ini: Rekonstruksi Pasca-Bencana & Aksi Konservasi
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777039875036-club-med-bali-nusa-dua-terbakar_01-696x464.jpg)
+![Berita Utama Hari Ini: Rekonstruksi Pasca-Bencana & Aksi Kon](https://images.gobaligo.id/images/2026-04/1777039875036-club-med-bali-nusa-dua-terbakar_01-696x464.jpg)
 
 - **Kebakaran Club Med Bali & Dampak Operasionalnya**: Club Med Bali di Nusa Dua mengalami kebakaran kemarin.
 Penyebab kebakaran: Investigasi awal menunjukkan api diduga berasal dari deep fryer di dapur. Saat itu staf sedang menyiapkan sarapan, minyak terlalu panas hingga terbakar. Meskipun staf sempat mencoba memadamkan dengan alat pemadam, api dengan cepat menjalar ke plafon kayu dan atap sirap.

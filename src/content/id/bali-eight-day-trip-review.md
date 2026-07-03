@@ -49,29 +49,29 @@ Setelah beresin barang, kami nggak sabar langsung ke GOSHA x GOEMEROT buat santa
 
 **Rekomendasi Penginapan: Aloft Bali Kuta at Beachwalk**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6c4dc60752ea4cbe9373a0cde09448cf.jpg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/vocus/vocus_6c4dc60752ea4cbe9373a0cde09448cf.jpg)
 
 Malam ini kami menginap di Aloft Bali Kuta yang terletak di kawasan Kuta. Kami pilih tipe kamar Pool View Double, dengan dua tempat tidur double yang nyaman. Meskipun kamarnya nggak terlalu luas, tapi desainnya modern dan kece, plus kebersihannya juara. Yang paling bikin puas sih lokasinya — langsung nyambung ke Beachwalk Mall, jadi gampang banget kalau mau belanja atau cari tempat makan. Selain itu, dekat juga dengan Jl. Poppies II yang ramai, tinggal jalan kaki aja. Sarapan di hotel ini variatif dan enak, stafnya ramah dan helpful. Bener-bener bikin liburan Bali kami makin seru dari awal.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788152563-643126482.jpg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788152563-643126482.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788153064-643126512.jpg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788153064-643126512.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788153567-643126513.jpg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788153567-643126513.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788153975-643126514.jpg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788153975-643126514.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788154554-643126517.jpg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788154554-643126517.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788155109-643126526.jpg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788155109-643126526.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788155615-482956642.jpeg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788155615-482956642.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788156084-482956652.jpeg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788156084-482956652.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788156591-482956751.jpeg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788156591-482956751.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776788156945-482956753.jpeg)
+![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788156945-482956753.jpeg)
 
 > ▶[Link Booking Aloft Kuta](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22572548) [Booking](https://booking.tpm.li/IiBScM3f) ▶[Pesan di Trip.com](https://hk.trip.com/hotels/detail/?cityId=723&hotelId=72291150&checkIn=2025-07-31&checkOut=2025-08-01&adult=2&children=0&subStamp=726&crn=1&ages=&travelpurpose=0&curr=IDR&link=title&hoteluniquekey=H4sIAAAAAAAA_-P6xMjFJMEkxMTBKPWckePt8i9_WYUYjQw4LT4JOhqDgG-ng2f_oa8aMXP7HAJ4Ghltua4vLqj1cJjEGMXJAARCIo6OgiBGTai9o5I4x9SWPRYCjYwSf_uXrmZUYLTYLx7EEMWgpMbRerBfQ6AcKLJX1BFmiCeMAVTDwrH1FZsTK8eSCx2MMxjPLdujtJGxECTvkOqwg5HpBOOErwULmO59eqqyiwmi6hATC8eU2-KnmBguMTHcYmJ4xMTwionhExPYpF9QRU3MDF3MDJOYwUpnMTMsYmaQ4jUxNzQztDSyNDBPTTRXENI4827VETYjaw6gg7UE40M8PV0MSwpTzQpLLXOKCkwNGCcxMnl4n2KUMjQ3tjA0MjQ0MjKyNNYzsUgzK7bIK7bIzYqwYpZidPNgDGIzdHExN7CM0uJi9nQJEuSpjemtX2djLwXiKcJ4WiCeIYyXxFqVoevhnfFYqICxi5FDgNGDMYKxgvEVI0jVD3BIAABb4vdVpwEAAA&subChannel=&masterhotelid_tracelogid=4716192907ea7&NewTaxDescForAmountshowtype0=T&detailFilters=17|1~17~1*80|0|1~80~0&hotelType=normal&display=exavg&barcurr=IDR&locale=zh-HK&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D4662646)
 
@@ -93,13 +93,13 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 **Rekomendasi Restoran: ENDO Seminyak**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_57caee0de0ee79e29675903fef6d5f69.jpg)
+![Siang: Makan & Belanja di Seminyak Square](https://images.gobaligo.id/vocus/vocus_57caee0de0ee79e29675903fef6d5f69.jpg)
 
 Siang ini kami makan di ENDO Seminyak, yang letaknya persis di samping Seminyak Square. Benar-benar kejutan yang nggak terduga! Tadinya cuma asal pilih restoran, tapi kualitas makanannya di luar dugaan — enak banget. Wajib coba bebek betutu (Bebek Betutu) dan mie goreng (Mie Goreng) mereka. Bebeknya kulitnya renyah, dagingnya empuk, bumbunya pas banget. Mie gorengnya juga khas Bali, topping-nya melimpah, porsinya besar.
 
 ### Makan Malam: WAHAHA
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4be51710a26107a6190d946dc32baa54.jpg)
+![Makan Malam: WAHAHA](https://images.gobaligo.id/vocus/vocus_4be51710a26107a6190d946dc32baa54.jpg)
 
 Menjelang sore, kami meluncur ke restoran WAHAHA buat dinner iga babi. Di malam Bali yang hangat, menikmati hidangan lezat jadi penutup sempurna buat hari yang padat.
 
@@ -131,29 +131,29 @@ Dalam perjalanan ke Ubud, kami sengaja mampir ke Grand Lucky Supermarket untuk b
 
 **Rekomendasi Akomodasi: KAAMALA Resort & Spa Ubud**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7adb6e2fa7eaede51b05f63f23f5d191.jpg)
+![Menginap di KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/vocus/vocus_7adb6e2fa7eaede51b05f63f23f5d191.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_db9b8c8a544597b8ac21ec95f3030a15.jpg)
+![Menginap di KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/vocus/vocus_db9b8c8a544597b8ac21ec95f3030a15.jpg)
 
 Menjelang sore, kami sampai di KAAMALA Resort & Spa di Ubud. Resort ini bikin kami jatuh cinta pada pandangan pertama! Kami ambil tipe Villa pribadi, pas pagi hari buka tirai, pemandangan sawah hijau keemasan di depan mata bikin kami kagum banget. Angin sepoi-sepoi bikin padi bergoyang, serasa lagi di surga dunia.
 
 Sarapan yang disediakan hotel kebanyakan gaya Barat, meskipun pilihannya nggak terlalu banyak, tapi setiap hidangan dibuat dengan hati-hati, rasanya enak banget. Di resort juga ada kolam renang infinity, dari kolam pemandangannya langsung ke sawah bertingkat, indah banget. Yang paling berkesan buat kami adalah pelayanan hotelnya, stafnya aktif ngobrol sama tamu, nanyain kondisi menginap, keramahannya bikin kita nggak merasa seperti di hotel, tapi kayak lagi main di rumah teman.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952987775-429293297.jpeg)
+![Menginap di KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952987775-429293297.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952988670-506726321.jpeg)
+![Menginap di KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952988670-506726321.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952989293-523226703.jpeg)
+![Menginap di KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952989293-523226703.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952989812-1698977266238.jpeg)
+![Menginap di KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952989812-1698977266238.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952990239-e20fea40-355e-4bf7-a7b9-f4dbfa4cb186-1702898196309-9f5e7b8042c4faed87a66c67bd370081.webp)
+![Menginap di KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952990239-e20fea40-355e-4bf7-a7b9-f4dbfa4cb186-1702898196309-9f5e7b8042c4faed87a66c67bd370081.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952990724-9f8f526570476b0ab58c73fd5c3173e2.jpeg)
+![Menginap di KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952990724-9f8f526570476b0ab58c73fd5c3173e2.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952991341-61700803_10156586738232830_2848315086848655360_n.jpeg)
+![Menginap di KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952991341-61700803_10156586738232830_2848315086848655360_n.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776952991750-dea274f7529242418b61fa3a9db11453.jpeg)
+![Menginap di KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952991750-dea274f7529242418b61fa3a9db11453.jpeg)
 
 ▶[Link Booking KAAMALA Resort & Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=12000629) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=55235957&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/lA23ZI8f)
 
@@ -169,7 +169,7 @@ Pagi pertama di Ubud, kita memilih untuk rebahan di hotel, menikmati privasi Vil
 
 **Rekomendasi Restoran: Bebek Tepi Sawah**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_18d5fd887059ea02f0b30f3666e5d864.jpg)
+![Siang: Makan Siang di Bebek Tepi Sawah](https://images.gobaligo.id/vocus/vocus_18d5fd887059ea02f0b30f3666e5d864.jpg)
 
 Saat siang, kita pergi ke Bebek Tepi Sawah untuk makan siang. Nama restoran ini secara harfiah berarti 'bebek di tepi sawah', dan memang lokasinya persis di samping sawah yang indah. Restoran ini didekorasi dengan gaya tradisional Bali, penuh dengan nuansa lokal. Kita pilih tempat duduk outdoor, sambil menikmati pemandangan sawah yang sejuk dan menyantap masakan khas Bali. Angin sepoi-sepoi berhembus, membawa aroma padi, bikin makan siang ini jadi pengalaman yang super nyaman. Bebek panggang andalan restoran ini wajib dicoba—dagingnya empuk, bumbunya pas banget.
 
@@ -177,7 +177,7 @@ Saat siang, kita pergi ke Bebek Tepi Sawah untuk makan siang. Nama restoran ini 
 
 **Rekomendasi Tempat Wisata: Bali Reptile Park**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_be260f863fa3cf1d7f49877c02f31826.jpg)
+![Sore: Bali Reptile Park](https://images.gobaligo.id/vocus/vocus_be260f863fa3cf1d7f49877c02f31826.jpg)
 
 Setelah makan, kita lanjut ke Bali Reptile Park. Buat kamu yang suka reptil, tempat ini wajib banget dikunjungi! Tiket masuk sudah termasuk tur bahasa Inggris dari staf taman, dan ini salah satu keunggulan utama tempat ini. Pemandunya profesional dan antusias banget, menjelaskan kebiasaan dan ciri-ciri setiap reptil dengan cara yang seru dan menarik. Bahkan yang awalnya takut sama reptil pun bakal ikut terhibur oleh semangat mereka.
 
@@ -200,11 +200,11 @@ Setelah dari Reptile Park, kita mampir ke Pasar Ubud. Ini adalah area paling ram
 
 ### Makan Malam: Taman Dedari
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7c3849870256761706f2f474869d65c5.jpg)
+![Makan Malam: Taman Dedari](https://images.gobaligo.id/vocus/vocus_7c3849870256761706f2f474869d65c5.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_796ff85cdb8cb8113b34f72429d7eb39.jpg)
+![Makan Malam: Taman Dedari](https://images.gobaligo.id/vocus/vocus_796ff85cdb8cb8113b34f72429d7eb39.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_380374cff55e52785bb3e991f3034f76.jpg)
+![Makan Malam: Taman Dedari](https://images.gobaligo.id/vocus/vocus_380374cff55e52785bb3e991f3034f76.jpg)
 
 Malam harinya kita makan malam di Taman Dedari, menutup hari yang penuh dengan sempurna.
 
@@ -218,7 +218,7 @@ Malam harinya kita makan malam di Taman Dedari, menutup hari yang penuh dengan s
 
 **Rekomendasi Tempat & Kuliner: Kintamani & Ritatkala Café**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3432f10b8a1acb758145140d33e88ac0.jpg)
+![Pagi: Kintamani & Ritatkala Café](https://images.gobaligo.id/vocus/vocus_3432f10b8a1acb758145140d33e88ac0.jpg)
 
 Hari ini kita jalan-jalan ke kawasan pemandangan gunung berapi terkenal di Bali — Kintamani. Dari sini, kamu bisa melihat Gunung Batur dan Danau Batur yang megah banget. Ini salah satu destinasi alam wajib dikunjungi di Bali.
 
@@ -232,7 +232,7 @@ Kita milih makan di Ritatkala Café, kafe dengan pemandangan yang juara. Gue sar
 
 **Rekomendasi Tempat: Desa Adat Penglipuran**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_534f807ca0ff379512580af984f596cc.jpg)
+![Sore: Desa Adat Penglipuran](https://images.gobaligo.id/vocus/vocus_534f807ca0ff379512580af984f596cc.jpg)
 
 Setelah dari Kintamani, kita lanjut ke Desa Adat Penglipuran, sebuah desa tradisional Bali yang terawat banget. Arsitektur bangunan di desa ini seragam dan kental dengan estetika serta budaya tradisional Bali. Yang paling spesial, pengunjung bisa masuk ke dalam rumah warga — buat gue yang selalu penasaran sama bentuk asli rumah tradisional Bali, ini kayak mimpi jadi kenyataan!
 
@@ -242,7 +242,7 @@ Jalanan di desa bersih dan rapi, dipenuhi rumpun bambu di kiri kanan, bikin jala
 
 ### Pengalaman Ayunan di Sawah Terasering
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_36a252751643bc3058d7c23103032e53.jpg)
+![Pengalaman Ayunan di Sawah Terasering](https://images.gobaligo.id/vocus/vocus_36a252751643bc3058d7c23103032e53.jpg)
 
 Setelah selesai keliling desa, kami lanjut ke spot ayunan di sawah terasering. Berayun di depan hamparan sawah hijau bertingkat memang jadi salah satu aktivitas paling hits di Bali belakangan ini. Saat ayunan melambung, pemandangan sawah hijau dan hutan di kejauhan langsung terhampar — rasanya seperti terbang di alam bebas. Kebebasan dan keindahan itu jadi salah satu kenangan paling tak terlupakan sepanjang perjalanan ini.
 
@@ -260,13 +260,13 @@ Pagi terakhir di Ubud, kami kembali ke kolam renang infinity hotel untuk menikma
 
 ### Setelah Check Out Siang: Jalan Tebing Uluwatu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a123f697405c668b110a8f2b12af913f.jpg)
+![Setelah Check Out Siang: Jalan Tebing Uluwatu](https://images.gobaligo.id/vocus/vocus_a123f697405c668b110a8f2b12af913f.jpg)
 
 Setelah check out, kami berkendara menuju kawasan Uluwatu di selatan Bali. Sepanjang jalan tebing yang membelah pesisir, satu sisi adalah Samudra Hindia biru, sisi lainnya tebing karang terjal — pemandangan megah bikin dada terasa lapang. Jalan ini dijuluki sebagai salah satu pesisir terindah di Bali. Ada banyak titik pandang buat berhenti dan foto, jangan sampai kelewatan!
 
 ### Sore: Pandawa Beach Roosterfish — Ngopi Sore
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4cfd7bde880edf48f6923248b34146d2.jpg)
+![Sore: Pandawa Beach Roosterfish — Ngopi Sore](https://images.gobaligo.id/vocus/vocus_4cfd7bde880edf48f6923248b34146d2.jpg)
 
 Kami ngopi sore di Roosterfish, Pandawa Beach. Resto ini persis di pinggir Pantai Pandawa, view lautnya juara banget. Pesan minuman dingin, temani camilan ringan, duduk di teras sambil angin laut sepoi-sepoi, lihat ombak pecah di pasir — sore yang simpel tapi bikin hati adem. Air laut di Pandawa bening, pasirnya putih bersih, termasuk salah satu pantai di Bali yang masih adem dan sepi, cocok buat kamu yang mau kabur dari keramaian.
 
@@ -274,7 +274,7 @@ Kami ngopi sore di Roosterfish, Pandawa Beach. Resto ini persis di pinggir Panta
 
 **Rekomendasi tempat: Pura Uluwatu ⚠️ Hati-hati monyet!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_65cdfff2716506cd7615d0c7611c9c66.jpg)
+![Sore: Uluwatu Temple](https://images.gobaligo.id/vocus/vocus_65cdfff2716506cd7615d0c7611c9c66.jpg)
 
 Menjelang sore, kami mampir ke Pura Uluwatu (Uluwatu Temple). Pura yang berdiri di atas tebing ini adalah salah satu tempat suci paling penting di Bali, sekaligus spot sunset terbaik. Pura ini menjulang di tebing setinggi 70 meter, menghadap Samudra Hindia yang luas — pemandangannya megah banget.
 
@@ -288,7 +288,7 @@ Meski harus waspada sama monyet, pemandangan di Pura Uluwatu bikin speechless. P
 
 ### Makan Malam: Ulu Cliffhouse
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c2d5e6caeae53304208dc0744dfb4875.jpg)
+![Makan Malam: Ulu Cliffhouse](https://images.gobaligo.id/vocus/vocus_c2d5e6caeae53304208dc0744dfb4875.jpg)
 
 Malam harinya kami makan di Ulu Cliffhouse. Resto ini juga di tepi tebing, view lautnya gak kalah keren. Di bawah bintang-bintang, ditemani deburan ombak, menikmati hidangan lezat — penutup sempurna buat hari yang seru ini.
 
@@ -316,25 +316,25 @@ Resort juga punya kolam renang khusus anak yang dilengkapi seluncuran, memastika
 
 Untuk anak yang lebih besar dan remaja, resort menyediakan berbagai pilihan hiburan. Mereka bisa main game konsol terbaru di game room, plus berbagai meja, film, dan video game. Selain itu, resort juga punya pusat kebugaran dan spa, biar orang tua bisa rileks dan pulih sementara anak-anak menikmati aktivitas.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953214005-719391807.jpg)
+![Menginap di Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953214005-719391807.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953214492-764154210.jpg)
+![Menginap di Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953214492-764154210.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953214856-764154213.jpg)
+![Menginap di Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953214856-764154213.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953215435-764154219.jpg)
+![Menginap di Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953215435-764154219.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953215908-764154237.jpg)
+![Menginap di Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953215908-764154237.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953216273-764154268.jpg)
+![Menginap di Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953216273-764154268.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953216629-764154276.jpg)
+![Menginap di Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953216629-764154276.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953217355-764154289.jpg)
+![Menginap di Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953217355-764154289.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953217744-719390583.jpg)
+![Menginap di Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953217744-719390583.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776953218269-719390754.jpg)
+![Menginap di Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953218269-719390754.jpg)
 
 ▶[Cek Ketersediaan Kamar & Harga Mövenpick Resort & Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1615522) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6373265&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazMLFJMEk1cPCMa3nwTk2IUYjA3mLr4KOSwpsua6vb3PwPHsGCF51OwTwREw58HwaeyJQfHHB_kCHRsZZM4FgZZhDFyMrWGoG48T_LcwbGcF6X6c47GBkOsG4XWEB0_2PnVKnWJg5OtkusXxliq5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDb2NxAz8AAKFKSWOGZAtaZnJiTXJqTWJIaUlkANMFMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQboIiFJeaUpkKcALTQLRVqh2GtDqbLn83pfdo988Wm3dhdbmJgjuJy8wFxuXFt7CMWpujYTywMv1gYmlgZuliZOU4xTQKS2xV2sfIEG_kEO0XoGupG6RpeYG1UllI0NDAwMDI1NTLXNUi0TEwyNLPQNbE0MTIz0zU0NzY1NjDUeHVl3YUnxkbWUpC4V2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xSgF1GBhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxOZqZuDs5Rxlw8Xs6RIk-EHv-fZ2a0t7KeaQcBfFD8uPeZt3nrbXAskZwuQC97zOOWFvvMA-EiafxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANq-PmcBAwAA&masterhotelid_tracelogid=100025527-0a9ab168-494266-1735301&detailFilters=17|1~17~1*31|6373265~31~6373265*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=216&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/JMjDzQtC)
 
@@ -407,7 +407,7 @@ Aku langsung ambil obat cadangan yang dibawa dari Taiwan, kasih dia obat pereda 
 
 Di apotek, aku ceritakan gejala suami ke apotekernya. Apotekernya dengan profesional banget merekomendasikan dua obat (obat di foto) dan jelasin cara minum serta hal-hal yang perlu diperhatikan. Aku langsung beli obatnya dan balik ke hotel buat kasih ke suami.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_12d5b905724f2858e8e51a33065eb6c8.jpg)
+![Jangan Anggap Remeh Diare Bali (Bali Belly)!—Pengalaman Pahi](https://images.gobaligo.id/vocus/vocus_12d5b905724f2858e8e51a33065eb6c8.jpg)
 
 Sore harinya, aku ajak anak ke Krisna buat beli oleh-oleh. Selain buat ngalihin perhatian anak biar nggak terlalu khawatir sama ayahnya, juga sayang kalau waktu liburan yang berharga ini kebuang percuma. Pas balik ke hotel, lihat kondisi suami udah agak membaik, baru deh kami agak lega.
 

@@ -21,7 +21,7 @@ _srcHash: dca28c43defdedefbe401fef86ab8c3e
 
 到巴厘岛度假，特别是亲子旅行，许多家庭会考虑聘请保姆来减轻照顾小孩的负担，让旅行更轻松愉快。但在异地雇用保姆，无论是短期的度假需求还是长期的帮助，确实会遇到一些挑战与疑问。这篇指南将介绍找保姆的渠道、巴厘岛保姆的服务项目、价格范围，以及在雇用保姆时的礼仪与小贴士，让您在旅行中能够享受更多休闲时光。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1dcdfc7456643fad272dc5b80065caff.png)
+![巴厘岛找保姆指南：如何找到合适的保姆及费用概况](https://images.gobaligo.id/vocus/vocus_1dcdfc7456643fad272dc5b80065caff.png)
 
 ## 为什么选择在巴厘岛找保姆？
 
@@ -35,7 +35,7 @@ _srcHash: dca28c43defdedefbe401fef86ab8c3e
 
 在选保姆时，建议您检查保姆的参考资料，了解她们的经验和特长，并与她们进行一次简短的会面，或至少通过视频通话确认，确保彼此有良好的互动感觉。若您不确定选择的保姆是否合适，事先询问能否立即提供替代人员的选择，让您在有需要时不会失去帮助。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a70a13d0ea212f669ce3b73d13e25e5f.png)
+![寻找保姆的方式](https://images.gobaligo.id/vocus/vocus_a70a13d0ea212f669ce3b73d13e25e5f.png)
 
 ## 保姆费用
 
@@ -53,7 +53,7 @@ _srcHash: dca28c43defdedefbe401fef86ab8c3e
 
 ## 注意事项及挑战
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e8e947a01f275561c3d1d6020719d0fc.png)
+![注意事项及挑战](https://images.gobaligo.id/vocus/vocus_e8e947a01f275561c3d1d6020719d0fc.png)
 
 在巴厘岛聘请保姆也可能遇到一些挑战。例如，在外国游客众多的地区，当地保姆的薪资可能会比印尼其他地区高出许多。外籍人士的高需求使得保姆市场的薪资标准水涨船高，这可能会让部分在地家庭觉得负担较大。
 

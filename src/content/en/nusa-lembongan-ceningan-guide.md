@@ -72,7 +72,7 @@ https://youtube.com/shorts/exdiGPLkVjw?si=sbLmSwieLvWyJ2uL
 
 Dream Beach is a popular spot outside the main area of the island and can get quite crowded. A morning visit is more enjoyable. Stroll to the rocky areas where you can find interesting photo spots like rock formations or small caves. Additionally, there's a cliff diving spot here, but it's best to consult local guides to ensure safety.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774856395255-ee223d94-0ff6-4945-b4f9-1ae8dc763676.jpg)
+![Beach Exploration](https://images.gobaligo.id/images/2026-03/1774856395255-ee223d94-0ff6-4945-b4f9-1ae8dc763676.jpg)
 
 Dream Beach
 
@@ -98,7 +98,7 @@ Special tip: Visiting during **low tide** is ideal, as the mangrove roots are fu
 
 Spending a leisurely afternoon at beachfront restaurants in the Jungut Batu or Mushroom Bay areas is incredibly comfortable. There are many reasonably priced seaside restaurants here. Since these are also the main points of arrival and departure, with ports located in both areas, you can observe the bustling activity throughout the day.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1f56eb2c4193e81b53d33fffa1b1f7c.jpg)
+![A Relaxing Day](https://images.gobaligo.id/vocus/vocus_a1f56eb2c4193e81b53d33fffa1b1f7c.jpg)
 
 As the sun sets, Jungut Batu is the perfect spot to witness the evening spectacle. Spending your entire afternoon here, transitioning from bustling activities to complete tranquility, offers a simple yet pure pleasure.
 
@@ -134,7 +134,7 @@ A half-day snorkeling trip in Nusa Lembongan, including hotel pickup, snorkeling
 
 Besides diving and snorkeling, Nusa Lembongan offers a variety of water activities to cater to different interests. You can try water skiing, stand-up paddleboarding (SUP), banana boat rides, or even experience the unique sensation of Seawalking. Additionally, you can join an island-hopping boat tour to admire the island's stunning scenery from different angles and enjoy intimate encounters with the ocean.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_09d594070b2f07c9219129b07ab8f49d.png)
+![Water Activities and Adventures](https://images.gobaligo.id/vocus/vocus_09d594070b2f07c9219129b07ab8f49d.png)
 
 ## Spectacular Spots in Nusa Penida
 
@@ -144,11 +144,11 @@ For a detailed guide, refer to our comprehensive "[Nusa Penida Guide](/blog/nusa
 
 ## Island Cuisine and Nightlife
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d17c2f51c9aeff110410081b920e48f1.png)
+![Island Cuisine and Nightlife](https://images.gobaligo.id/vocus/vocus_d17c2f51c9aeff110410081b920e48f1.png)
 
 Nusa Lembongan's restaurants and beach clubs offer a diverse range of culinary options, from local Indonesian dishes to international cuisine. In Jungut Batu and Mushroom Bay, you can find many seaside restaurants and bars, enjoying both delicious food and stunning views. As night falls, the island's nightlife comes alive, with many bars and beach clubs hosting live music performances and parties, allowing you to relax and enjoy to the fullest.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4658ef6acc04406ea26445d61ca062df.jpg)
+![Island Cuisine and Nightlife](https://images.gobaligo.id/vocus/vocus_4658ef6acc04406ea26445d61ca062df.jpg)
 
 Here are 30 recommended restaurants, bars, and beach clubs on Nusa Lembongan and Nusa Ceningan: [Nusa Lembongan Guide Part 2: Food & Dining](/blog/nusa-lembongan-restaurants/)
 

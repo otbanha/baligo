@@ -23,7 +23,7 @@ _srcHash: 6630fed63e6ec37b671d3e22fb536e1a
 
 Gunung Ijen terkenal dengan danau kawahnya yang spektakuler, menarik banyak wisatawan. Namun, berdasarkan laporan Indonesia pertengahan Juli 2024, status aktivitas gunung ini baru saja dinaikkan ke Level II (Siaga), dan penyebabnya pun terungkap. Menurut evaluasi dari Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) Kementerian Energi dan Sumber Daya Mineral, aktivitas Gunung Ijen belakangan ini meningkat signifikan, sehingga statusnya dinaikkan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_55b09cfdbb9d40a520cfc527ec731075.jpg)
+![Waspada Gunung Api! Status Ijen Naik ke Level II, Ini Penyeb](https://images.gobaligo.id/vocus/vocus_55b09cfdbb9d40a520cfc527ec731075.jpg)
 
 ## Perubahan Status Aktivitas
 
@@ -45,7 +45,7 @@ Dari 1 Juni 2024 sampai 12 Juli 2024, gempa vulkanik dangkal dan dalam mengalami
 
 Dari pukul 17:00 hingga 21:00 WITA pada 12 Juli 2024, aktivitas getaran meningkat tajam dengan amplitudo berfluktuasi antara 5 hingga 25 mm. Setelah pukul 21:10, amplitudo getaran melebihi 46 mm, mencapai di luar batas ukur.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f45741c9d2433eb75ba4613f8a412449.png)
+![Catatan Aktivitas Vulkanik Terbaru](https://images.gobaligo.id/vocus/vocus_f45741c9d2433eb75ba4613f8a412449.png)
 
 ## Langkah Pencegahan
 

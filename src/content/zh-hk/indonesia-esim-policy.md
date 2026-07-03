@@ -20,7 +20,7 @@ _srcHash: ff11206908228b9d84fbe32c54805549
 
 其中，eSIM技術嘅普及被視為一項正面嘅進步，但SIM卡數量限制嘅新政策，可能會令外國人喺印尼用手機變得更加複雜。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c092bff8309cf706ba1895ecc3468d9d.jpg)
+![印尼行動通訊新政策：eSIM同SIM卡限額即將實施！](https://images.gobaligo.id/vocus/vocus_c092bff8309cf706ba1895ecc3468d9d.jpg)
 
 ## 🔍 eSIM技術成為印尼行動通訊新趨勢
 

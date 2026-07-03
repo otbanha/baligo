@@ -64,7 +64,7 @@ The area has the quintessential Seminyak vibe—strong international feel, high 
 
 The overall style is traditional Balinese, not the trendy new designs aimed at Instagram aesthetics, but the Balinese-themed decor is well-executed. The courtyard is adorned with green plants, and the sound of a small fountain adds to the pleasant atmosphere.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778927935596-1ik4512000mjs4rc07e09_w_1280_853_r5.webp)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1778927935596-1ik4512000mjs4rc07e09_w_1280_853_r5.webp)
 
 Main facilities include:
 
@@ -81,41 +81,41 @@ The property has a total of 30 villas, divided into two main types:
 
 **One Bedroom Villa with Private Pool**: Ideal for couples or solo travelers. The bedroom connects directly to the pool, with double doors opening to the pool area, ensuring privacy. The layout includes a separate living area, a small kitchen (equipped with fridge, microwave, induction stove, and utensils), dining table, sofa, and a bathroom with both bathtub and shower facilities featuring a rainfall showerhead. There's a 40-inch LED TV, air conditioning, and a personal safe.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928341309-1.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1778928341309-1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928341829-547549_14061913470019925452.webp)
+![Room Types](https://images.gobaligo.id/images/2026-05/1778928341829-547549_14061913470019925452.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928342367-547549_16112308260049001415.webp)
+![Room Types](https://images.gobaligo.id/images/2026-05/1778928342367-547549_16112308260049001415.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928342871-32029014.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1778928342871-32029014.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928343662-40999985.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1778928343662-40999985.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928344198-82890355.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1778928344198-82890355.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928344792-82890538.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1778928344792-82890538.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928345305-82890568.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1778928345305-82890568.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928345800-f4c1d7cb65d55ec0aa8297b554fde453.webp)
+![Room Types](https://images.gobaligo.id/images/2026-05/1778928345800-f4c1d7cb65d55ec0aa8297b554fde453.webp)
 
 **Two Bedroom Villa with Private Pool**: Suitable for families or small groups, offering more space and enhanced pool privacy.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928382085-1.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1778928382085-1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928382614-547549_15020510390025115413.webp)
+![Room Types](https://images.gobaligo.id/images/2026-05/1778928382614-547549_15020510390025115413.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928383296-547549_16112308370049001539.webp)
+![Room Types](https://images.gobaligo.id/images/2026-05/1778928383296-547549_16112308370049001539.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928383915-547549_16112308370049001546.webp)
+![Room Types](https://images.gobaligo.id/images/2026-05/1778928383915-547549_16112308370049001546.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928384533-547549_16112308370049001551.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1778928384533-547549_16112308370049001551.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928385032-15761931.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1778928385032-15761931.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928385649-36505093.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1778928385649-36505093.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928386129-40995968.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1778928386129-40995968.jpg)
 
 Honestly, the villa's decor and maintenance aren't the newest. Some reviews mention damp stains on walls and outdated equipment. This is something to keep in mind—it's not a boutique design villa but rather a 'functional, clean, and well-located' option.
 
@@ -131,7 +131,7 @@ Best suited for **couples or spouses on a budget who still want a private pool e
 
 An Australian traveler described one of the happiest moments of her trip as being able to walk out of her villa and find great restaurants nearby. The privacy of the private pool allowed her and her husband to fully relax, and she felt that finding such conditions in Seminyak at this price point was truly rare. (Source: Tripadvisor)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778928631363-onebedroomvilla.jpg)
+![Guest Reviews](https://images.gobaligo.id/images/2026-05/1778928631363-onebedroomvilla.jpg)
 
 Another guest who stayed for 10 days mentioned that they had considered moving elsewhere but ultimately decided to stay. The staff were incredibly helpful with everything, big or small, the pool was well-maintained, and the location was extremely convenient with dining options right outside the door. (Source: Tripadvisor)
 

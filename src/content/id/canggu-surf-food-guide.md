@@ -75,13 +75,13 @@ Canggu adalah sebuah desa pesisir yang oleh penduduk setempat disebut 'Kampung B
 
 Canggu menarik banyak orang asing untuk tinggal di sini, selain karena villa-villa cantik yang bermunculan seperti jamur, juga karena koneksi internet yang stabil dan super cepat. Dua hal ini bikin banyak Digital Nomad (pekerja jarak jauh) yang kerjanya cuma modal internet memutuskan menetap di sini. Di Canggu ada banyak coworking space yang cocok buat kerja online, lengkap dengan WiFi kencang, meja kerja, dan suasana yang mendukung produktivitas. Selain itu, banyak juga restoran dan kafe yang bisa kamu pakai buat kerja sambil ngopi.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6e1a64061183f9d6f68721a785eeb899.jpg)
+![Seperti apa sih Canggu itu?](https://images.gobaligo.id/vocus/vocus_6e1a64061183f9d6f68721a785eeb899.jpg)
 
 [Apa lagi yang bisa dilakukan di Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
 Canggu punya pesona yang unik banget. Ada sedikit nuansa Bohemia, sedikit Hippie, perpaduan gaya Bohemia dan Hippie era 70-an yang dalam bahasa Inggris disebut 'Boho Chic'. Boho Chic melambangkan gaya hidup时尚, bebas, dan tanpa aturan. Mulai dari kafe pinggir jalan, villa sewaan, apartemen, sampai orang asing yang lalu lalang — semuanya memancarkan vibe Boho Chic ini.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ffb02ea677f9abc576938a811cd06254.jpg)
+![Seperti apa sih Canggu itu?](https://images.gobaligo.id/vocus/vocus_ffb02ea677f9abc576938a811cd06254.jpg)
 
 Para digital nomad yang tinggal di Canggu bukanlah kutu buku yang cuma kerja di depan laptop sepanjang hari, lho! Canggu juga surga bagi para pecinta olahraga. Di sini kamu bisa jogging pagi di antara sawah hijau yang luas, menikmati alam. Setiap pagi, di semua jalan pasti ada orang yang lagi lari pagi.
 
@@ -93,7 +93,7 @@ Kalau badan gak fit, surfing jadi kurang keren.
 
 ## Surfing di Canggu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1292b0d5576cbd014063f58cf1ee47e4.jpg)
+![Surfing di Canggu](https://images.gobaligo.id/vocus/vocus_1292b0d5576cbd014063f58cf1ee47e4.jpg)
 
 [Apa lagi yang bisa dilakukan di Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
@@ -111,7 +111,7 @@ Biar petualanganmu di Canggu nggak nyasar, kami bikin peta panduan Canggu yang s
 
 Siap buat petualangan seru di Canggu? Link di bawah ini ada peta keren Canggu, Bali. Jangan lupa disimpan biar liburanmu di Bali makin maksimal!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf5fcaa065da06946a4591707d1e05be.jpg)
+![50 Tempat & Kafe Rekomendasi di Canggu](https://images.gobaligo.id/vocus/vocus_bf5fcaa065da06946a4591707d1e05be.jpg)
 
 ## Baca Juga
 

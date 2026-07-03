@@ -23,19 +23,19 @@ _srcHash: f1077d0abb3ed834fff714b9a088f1cc
 ---
 Kalau ditanya selain pantai yang super hidup di Bali, mana tempat paling favorit turis internasional dan lokal Indonesia? Salah satu jawabannya adalah Ubud di Bali. Pasti kamu udah denger soal tempat wisata di Ubud dan lihat berbagai artikel tentang jalan-jalan serta aktivitas seru di sana. Nah, tertarik buat liburan ke Ubud? Kalau iya, sebelum rencanain trip ke Ubud, saran aku baca artikel ini sampai habis! Di sini ada panduan lengkap dan tips traveling ke Ubu.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bb040f4d92b97741e7688b1d1f6d92e8.jpg)
+![Panduan Liburan Bali: Pertama Kali ke Ubud Mau Main Apa? 20 ](https://images.gobaligo.id/vocus/vocus_bb040f4d92b97741e7688b1d1f6d92e8.jpg)
 
 ## Pesona Ubud
 
 ### Keindahan Alam
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_196e1575dee8964008cb839fae2973d5.png)
+![Keindahan Alam](https://images.gobaligo.id/vocus/vocus_196e1575dee8964008cb839fae2973d5.png)
 
 Ubud terkenal banget sama keindahan alamnya, terletak di antara sawah dan hutan, dikelilingi lembah sungai. Di Ubud, kamu bisa menikmati perbukitan hijau, sawah terasering, air terjun, dan pemandangan sungai yang masih alami.
 
 ### Seni dan Budaya
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c5aa41f7f1a617f73a2295d168fb493.jpg)
+![Seni dan Budaya](https://images.gobaligo.id/vocus/vocus_1c5aa41f7f1a617f73a2295d168fb493.jpg)
 
 Selain alamnya, Ubud juga terkenal karena seni dan budaya Bali. Mayoritas penduduk lokal Ubud adalah seniman, mulai dari pelukis, pengrajin tangan, sampai penari. Di pinggir jalan Ubud, kamu bakal gampang nemuin galeri seni, toko ukiran kayu dan batu. Ada juga banyak museum, galeri seni, dan toko suvenir yang jual kerajinan tangan khas Bali.
 
@@ -45,7 +45,7 @@ Setiap hari di berbagai area Ubud juga ada pertunjukan tari Bali. Selain itu, Ub
 
 Pariwisata di Ubud didukung oleh akomodasi yang lengkap, mulai dari hostel murah hingga resor mewah. Berapa pun budget kamu, pasti ada tempat menginap yang cocok di Ubud. Cek rekomendasi penginapan di Ubud berikut ini:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_13a74a1d8c8fd5941d410b5cd70f4cf0.jpg)
+![Pilihan Akomodasi yang Beragam](https://images.gobaligo.id/vocus/vocus_13a74a1d8c8fd5941d410b5cd70f4cf0.jpg)
 
 - [【Rekomendasi Menginap di Ubud, Bali】28 Akomodasi Unik di Ubud, Rasakan Petualangan Indah di Tengah Alam Pegunungan Bali!](/blog/ubud-villas-pool-guide/)
 - [Jelajahi 9 Villa Pohon/Bambu yang Memukau di Ubud (tree house/bamboo villa)](/blog/ubud-treehouse-bamboo-villa-stays/)
@@ -82,7 +82,7 @@ Tinggal search di Google "Bali scooter rental", kamu bakal nemuin jasa rental mo
 
 Selain itu, naik motor butuh SIM internasional. Kamu bisa dapetin SIM internasional di negara asal atau di Bali. Catat ya, pas naik motor di Bali, wajib pakai helm sepanjang perjalanan, dan biasakan diri dengan lalu lintas kanan (kebalikan dari Taiwan). Kalau kamu ragu sama kondisi lalu lintas, mending pilih transportasi lain.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fc84efe12c3d37e38738d93e3332713f.jpg)
+![Naik Motor – Panduan Transportasi Ubud](https://images.gobaligo.id/vocus/vocus_fc84efe12c3d37e38738d93e3332713f.jpg)
 
 Soal topik rental motor, bisa cek: [Panduan Rental Motor di Bali! Lebih Baik Sewa Motor atau Sewa Mobil?](/blog/bali-motorbike-rental-guide/)
 
@@ -144,7 +144,7 @@ Pura ini didedikasikan untuk Dewi Saraswati, dewi kebijaksanaan. Di depannya ada
 
 ### 4. Nonton Pertunjukan Tari Kecak (Watch a Kecak Dance Performance)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_08e9a66f4ba8c0410cf1f1c73553fc1d.jpg)
+![4. Nonton Pertunjukan Tari Kecak (Watch a Kecak Dance Perfor](https://images.gobaligo.id/vocus/vocus_08e9a66f4ba8c0410cf1f1c73553fc1d.jpg)
 
 Ubud adalah tempat yang pas buat nonton pertunjukan tari Bali. Pertunjukan tari Kecak biasanya diadakan hari Selasa dan Minggu jam 19:00-20:00, kalau di Puri Ubud jadwalnya setiap hari Kamis. Tiketnya Rp100.000 per orang. Kamu bisa pesan tiket diskon dari Klook duluan.
 
@@ -155,7 +155,7 @@ Pemesanan tiket pertunjukan:
 
 ### 5. Museum Seni Agung Rai (Agung Rai Museum of Art / ARMA)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f1ede73cfd2d1d8c2aa4cf499b92168.jpg)
+![5. Museum Seni Agung Rai (Agung Rai Museum of Art / ARMA)](https://images.gobaligo.id/vocus/vocus_4f1ede73cfd2d1d8c2aa4cf499b92168.jpg)
 
 Museum Seni Agung Rai dibangun di atas lahan yang berbukit-bukit, dengan taman bergaya budaya Bali seperti kolam teratai dan tanaman anggrek. Tempat ini wajib dikunjungi setidaknya sekali di Ubud — koleksi seni gaya Bali-nya luar biasa banyak. Sangat direkomendasikan. Meskipun harga tiket masuknya lumayan, tapi worth it banget buat mampir. Kamu juga bisa lihat langsung seniman yang lagi berkarya. Buka jam 09:00-18:00, tiket masuk Rp150.000 per orang.
 
@@ -163,7 +163,7 @@ Museum Seni Agung Rai dibangun di atas lahan yang berbukit-bukit, dengan taman b
 
 ### 6. Terasering Tegallalang (Tegallalang Rice Terraces)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_32ee901d3d3b754dd1e9a11ddbb04cc4.jpg)
+![6. Terasering Tegallalang (Tegallalang Rice Terraces)](https://images.gobaligo.id/vocus/vocus_32ee901d3d3b754dd1e9a11ddbb04cc4.jpg)
 
 Terasering Tegallalang adalah salah satu sawah terasering terkenal di Ubud. Pemandangannya super keren, cocok banget buat foto-foto cantik. Di sekitarnya banyak kafe, jadi kamu bisa nikmatin pemandangan sambil makan enak.
 
@@ -174,7 +174,7 @@ Pesan paket tur harian:
 
 ### 7. Goa Gajah (Goa Gajah Temple)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_952716f4ef63ba4cb3e834ec8871d9a4.jpg)
+![7. Goa Gajah (Goa Gajah Temple)](https://images.gobaligo.id/vocus/vocus_952716f4ef63ba4cb3e834ec8871d9a4.jpg)
 
 Goa Gajah adalah candi kuno di Bali, tapi jangan khawatir — di sini nggak ada gajah, ya! Ukiran dan desain interior guanya super unik, wajib banget dikunjungi buat pecinta arkeologi dan sejarah. Buka dari jam 08:00 sampai 17:00.
 
@@ -184,7 +184,7 @@ Pesan tur sehari:
 
 ### 8. Pura Tirta Empul (Tirta Empul Temple)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_88c944a5fa78e838a7b5907d644ae8ca.jpg)
+![8. Pura Tirta Empul (Tirta Empul Temple)](https://images.gobaligo.id/vocus/vocus_88c944a5fa78e838a7b5907d644ae8ca.jpg)
 
 Pura Tirta Empul terkenal dengan mata air alaminya — airnya mengalir dari dalam pura, menghasilkan sumber air segar yang jernih banget. Pengunjung wajib pakai sarung dan sabuk untuk masuk ke area dalam pura, bisa disewa di pintu masuk. Cek [Panduan Lengkap Pura Tirta Empul: Pengalaman Pura Penyucian Tersuci di Bali](/blog/tirta-empul-temple-guide/)
 
@@ -194,7 +194,7 @@ Pesan tur sehari:
 
 ### 9. Pura Gunung Kawi (Gunung Kawi Cliff Temple)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9bacc76e3ee7526bb8196649a060b07d.jpg)
+![9. Pura Gunung Kawi (Gunung Kawi Cliff Temple)](https://images.gobaligo.id/vocus/vocus_9bacc76e3ee7526bb8196649a060b07d.jpg)
 
 Pura Lempuyang adalah pura kuno yang dibangun di atas tebing, dengan lingkungan yang indah dan gemericik air Sungai Pakrisan yang menenangkan. Jam buka 07:00-18:00.
 
@@ -224,7 +224,7 @@ Wanna Jungle Pool & Bar adalah day club baru di Ubud yang terkenal dengan kolam 
 
 ### 13. Kunjungi Desa Penglipuran
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3cbf15152fb9545d76d50dc6503fe24b.jpg)
+![13. Kunjungi Desa Penglipuran](https://images.gobaligo.id/vocus/vocus_3cbf15152fb9545d76d50dc6503fe24b.jpg)
 
 Desa Penglipuran adalah salah satu komunitas tradisional Bali yang paling terawat. Pesonanya terletak pada arsitektur tradisional yang masih terjaga dan gaya hidup yang unik. Jalanan desa yang panjang dan rumah-rumah kuno memancarkan nuansa Bali yang kental, bikin kamu serasa kembali ke komunitas Bali zaman dulu.
 
@@ -236,7 +236,7 @@ Paket Wisata Spesial Klook
 
 ### 14. Cretya Ubud
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ccfc5c23d027fafbee502e39f43316da.jpg)
+![14. Cretya Ubud](https://images.gobaligo.id/vocus/vocus_ccfc5c23d027fafbee502e39f43316da.jpg)
 
 Cretya Ubud adalah day club mewah di kawasan Ubud. Kolam renang tiga tingkatnya super khas, menghadap ke sawah terasering Tegalalang yang hijau banget, dengan pemandangan yang spektakuler.
 
@@ -265,7 +265,7 @@ Gimana cara ke skywalk? Berapa lama waktu yang dibutuhkan? Kapan waktu terbaik u
 
 ### 18. Ayunan Ubud (Swing)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_be98dfd4b46b605c281497c7bcd23862.jpg)
+![18. Ayunan Ubud (Swing)](https://images.gobaligo.id/vocus/vocus_be98dfd4b46b605c281497c7bcd23862.jpg)
 
 Ayunan di Ubud jadi aktivitas hits buat foto Instagram. Di Bali banyak tempat buat main ayunan, tapi Ubud yang paling terkenal.
 
@@ -273,7 +273,7 @@ Ayunan di Ubud jadi aktivitas hits buat foto Instagram. Di Bali banyak tempat bu
 
 ### 19  Berburu Air Terjun (Waterfall Hunting)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_68745d1fbb03c0df4da67ba5a349df4b.png)
+![19 Berburu Air Terjun (Waterfall Hunting)](https://images.gobaligo.id/vocus/vocus_68745d1fbb03c0df4da67ba5a349df4b.png)
 
 Daerah Ubud nggak cuma terkenal sama seni dan budayanya, tapi juga punya pemandangan alam yang bikin speechless, terutama air terjunnya yang wajib banget dikunjungi. Tiga air terjun terkenal di dekat Ubud: Tegenungan, Kanto Lampo, dan Tukad Cepung. Baca [panduan lengkap tiga air terjun populer di sekitar Ubud](/blog/ubud-waterfalls-guide/)
 

@@ -19,21 +19,21 @@ _srcHash: eb4ebc8b21d892528749460af16ea411
 
 飞往巴厘岛的旅程，是一段充满梦幻与奇迹的体验，而对于许多旅客而言，机上行李的限制常常是旅程中的一大考验。为了确保航空安全、提供更好的服务，飞巴厘岛的航空公司均设定了一系列的行李限制，让旅客在出行前能有所准备。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_75cdac7984a270510cfc57093aa036cd.png)
+![飞巴厘岛常用航空公司行李规定懒人包](https://images.gobaligo.id/vocus/vocus_75cdac7984a270510cfc57093aa036cd.png)
 
 以下我们列出了台湾、香港朋友最常使用的三家航空公司的行李限制给大家参考：
 
 ## 长荣航空
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_091759da1e2ff505b6ee56f141cc5264.png)
+![长荣航空](https://images.gobaligo.id/vocus/vocus_091759da1e2ff505b6ee56f141cc5264.png)
 
 ## 中华航空
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_df96d9694d34f46eb9dbdd904ce0b8e5.png)
+![中华航空](https://images.gobaligo.id/vocus/vocus_df96d9694d34f46eb9dbdd904ce0b8e5.png)
 
 ## 国泰航空
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fce8ee99876ef1edc7a88c2dc3372aeb.png)
+![国泰航空](https://images.gobaligo.id/vocus/vocus_fce8ee99876ef1edc7a88c2dc3372aeb.png)
 
 大多数航空公司都有关于手提行李的规定。通常情况下，每位乘客可以携带一件手提行李，尺寸和重量限制因航空公司而异。在飞巴厘岛的航班上，常见的手提行李限制大约是23公分x36公分x56公分，重量则多为7公斤以下。然而，请注意这些规定可能因航空公司政策调整而有所变化，最好在出发前仔细确认。
 

@@ -26,7 +26,7 @@ Ubud, a serene town located in the heart of Bali, Indonesia, is renowned for its
 
 ## **Tegenungan Waterfall: Majestic and Serene**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6a9db9041f0434772c136e35c8293b08.jpg)
+![Tegenungan Waterfall: Majestic and Serene](https://images.gobaligo.id/vocus/vocus_6a9db9041f0434772c136e35c8293b08.jpg)
 
 **▶ Location and Access**
 
@@ -74,7 +74,7 @@ https://youtu.be/-0KOzA9nPGY
 
 ## **Tukad Cepung Waterfall: A Charming Hidden Gem**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_83d5c4a6079fa0ee5aa98ce68a90fe06.jpg)
+![Tukad Cepung Waterfall: A Charming Hidden Gem](https://images.gobaligo.id/vocus/vocus_83d5c4a6079fa0ee5aa98ce68a90fe06.jpg)
 
 **▶A Hidden Wonderland**
 

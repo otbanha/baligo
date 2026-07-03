@@ -17,7 +17,7 @@ lang: zh-cn
 _srcHash: 2e7125285e4596c3c7b7f4d389ddfbbb
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b48db35889325f45edd5237d8e0b427a.jpg)
+![巴厘岛推荐必买伴手礼：零食/食品篇](https://images.gobaligo.id/vocus/vocus_b48db35889325f45edd5237d8e0b427a.jpg)
 
 ➡️更多巴厘岛超值优惠请点我⬅️
 

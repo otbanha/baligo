@@ -36,12 +36,12 @@ _srcHash: 5802c379b11df1e03bbc5e36aa729597
 ---
 Pada tahun 2026, pasar hotel bintang lima di Bali kedatangan bintang baru yang sudah lama dinantikan. Paradisus by Meliá Bali resmi dibuka kembali pada Februari 2026. Ini adalah resort "Destination Inclusive" all-inclusive pertama di Asia dari merek flagship Paradisus milik Meliá Hotels International asal Spanyol. Sebelumnya dikenal sebagai Meliá Bali Resort yang terkenal di Bali, setelah renovasi besar-besaran, resort ini hadir dengan merek baru dan layanan yang ditingkatkan secara menyeluruh, berlokasi di kawasan resor premium Nusa Dua. Resort ini secara resmi menyatakan diri sebagai pilihan premium baru untuk liburan keluarga dan bulan madu di Bali.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331617629-850645735.jpg)
+![【2026 Nusa Dua Hotel Baru】Paradisus by Meliá Bali Unboxing: ](https://images.gobaligo.id/images/2026-05/1779331617629-850645735.jpg)
 
 .
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331733159-850645720.jpg)
+![【2026 Nusa Dua Hotel Baru】Paradisus by Meliá Bali Unboxing: ](https://images.gobaligo.id/images/2026-05/1779331733159-850645720.jpg)
 .
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331797842-850645741.jpg)
+![【2026 Nusa Dua Hotel Baru】Paradisus by Meliá Bali Unboxing: ](https://images.gobaligo.id/images/2026-05/1779331797842-850645741.jpg)
 
 ## 📍 Lokasi & Lingkungan Sekitar
 
@@ -55,43 +55,43 @@ Kolam renang adalah jiwa dari seluruh resort. **Kolam Lagoon** super besar yang 
 
 Untuk fasilitas keluarga, **Family Concierge Kids Club** menawarkan akses gratis harian dengan staf pengasuh anak profesional yang mendampingi sepanjang hari, sehingga orang tua benar-benar bisa bersantai. Remaja memiliki **Teens Kingdom** khusus yang dilengkapi dengan arena bowling, fasilitas game elektronik, dan berbagai aktivitas. Fasilitas ini sering dipuji dalam ulasan tamu.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332032685-850725743.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1779332032685-850725743.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332041253-850645752.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1779332041253-850645752.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332042453-850725674.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1779332042453-850725674.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332042854-850725703.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1779332042854-850725703.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332043589-850725717.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1779332043589-850725717.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332043998-850725723.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1779332043998-850725723.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332044392-850725730.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1779332044392-850725730.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332044911-850725736.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1779332044911-850725736.jpg)
 
 Bagian kuliner menjadi salah satu sorotan utama dari pembukaan kembali ini. Terdapat total 8 restoran dan 3 bar, mencakup masakan Indonesia, Asia, Mediterania, Spanyol, dan internasional. Setiap pagi, sarapan prasmanan yang melimpah disediakan (sekitar $37 USD per orang, atau termasuk dalam paket sarapan). Pusat kebugaran buka 24 jam, dan terdapat juga Yhi Spa, berbagai olahraga luar ruangan (mendayung, snorkeling, kano), serta aktivitas pengalaman budaya. Yang menarik adalah klub remaja Teens Kingdom di dalam resort, dengan arena bowling dan fasilitas game yang lengkap, sering disebut secara khusus dalam ulasan tamu.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331887597-850725630.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1779331887597-850725630.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331888133-844949019.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1779331888133-844949019.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331888640-844949049.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1779331888640-844949049.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331889144-844949054.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1779331889144-844949054.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331889567-844949061.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1779331889567-844949061.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331890068-844949065.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1779331890068-844949065.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331890480-844949115.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1779331890480-844949115.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331890897-844949125.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1779331890897-844949125.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331891404-844949131.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1779331891404-844949131.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331891799-844949149.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-05/1779331891799-844949149.jpg)
 
 ## 🛏️ Info Tipe Kamar
 
@@ -99,63 +99,63 @@ Paradisus by Meliá Bali menawarkan berbagai tipe kamar yang diklasifikasikan de
 
 ▼Premium Room Garden View — dilengkapi satu Queen Bed plus sofa bed, pemandangan taman tropis, maksimal 2 dewasa + 1 anak, cocok buat kamu yang pengin hemat budget.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332181156-851144299.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332181156-851144299.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332181611-857610733.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332181611-857610733.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332191594-850704584.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332191594-850704584.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332191984-851128140.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332191984-851128140.jpg)
 
 ▼Junior Suite — upgrade ke King Bed plus sofa bed, ruangannya lebih lega, tetap cocok untuk 2 dewasa + 1 anak, nyaman dan fleksibel.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332351415-851144511.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332351415-851144511.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332351806-857661571.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332351806-857661571.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332352206-857663783.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332352206-857663783.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332352715-851127161.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332352715-851127161.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332353456-851128140.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332353456-851128140.jpg)
 
 ▼Family Concierge Suite Duplex — pilihan utama keluarga, muat sampai 2 dewasa + 3 anak, dapet layanan eksklusif Family Concierge, termasuk area check-in sendiri, akses gratis Kids Club, dan pantai pribadi.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332513936-851125786.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332513936-851125786.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332514417-851125792.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332514417-851125792.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332514920-857655578.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332514920-857655578.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332515533-851124072.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332515533-851124072.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332515944-851124079.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332515944-851124079.jpg)
 
 ▼The Reserve Junior Suite Lagoon Access — khusus dewasa (16+), King Bed plus sofa bed, maksimal 3 dewasa, akses langsung ke lagoon pool, plus area kolam renang & pantai pribadi The Reserve dengan layanan butler.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332792689-857661567.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332792689-857661567.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332793154-857661571.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332793154-857661571.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332793661-851127161.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332793661-851127161.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332794165-851127169.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332794165-851127169.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332794678-857661100.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332794678-857661100.jpg)
 
 ▼Suite Duplex — desain dua lantai dengan langit-langit tinggi, muat 2 dewasa + 2 anak, ruangannya bertingkat, cocok buat keluarga yang mau anak punya area sendiri.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332949630-851124079.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332949630-851124079.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332950030-857655578.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332950030-857655578.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332950540-857663117.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332950540-857663117.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332951164-857663171.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332951164-857663171.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332951519-857664085.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332951519-857664085.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332951884-851124072.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1779332951884-851124072.jpg)
 
 Info lebih lengkap soal tipe kamar dan harga terbaru bisa cek link booking.
 

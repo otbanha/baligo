@@ -27,7 +27,7 @@ _srcHash: 0e5698fa1a7a883cc0d092001d703e06
 
 喺峇里島，電單車係當地人常見嘅交通工具，尤其係喺烏布等地，當地人成日揸住電單車穿梭喺田野間。好多遊客見到之後，都可能心動覺得電單車又經濟又方便，可以自由探索峇里島。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff2d79a6384a7682bb6d83c4de623131.jpg)
+![【峇里島租電單車攻略】安全風險檢查清單：租車價錢、國際車牌規定與警察罰款陷阱全解析](https://images.gobaligo.id/vocus/vocus_ff2d79a6384a7682bb6d83c4de623131.jpg)
 
 ## 峇里島嘅電單車駕駛係咪安全？
 
@@ -55,7 +55,7 @@ _srcHash: 0e5698fa1a7a883cc0d092001d703e06
 
 **加油** 峇里島街邊小販經常用舊伏特加樽賣汽油，每公升約10,000 IDR（約0.6美金）。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9c66c50875ad9077897e9537cffffec5.jpg)
+![租借電單車嘅費用係幾多？](https://images.gobaligo.id/vocus/vocus_9c66c50875ad9077897e9537cffffec5.jpg)
 
 ## 峇里島旅行唔建議揸電單車嘅幾個原因 🚫🏍️
 
@@ -91,7 +91,7 @@ https://youtube.com/shorts/KBLKSQT7Pn4?si=yxJwczQBjlD0jXzY
 
 > 延伸閱讀：[叫車App叫電單車，慳時間慳力嘅實際案例！](/blog/bali-travel-app-motorcycle-taxi/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_49791dac6020e950bda56dde7ee4e7f5.jpg)
+![6. 經濟實惠嘅其他選擇](https://images.gobaligo.id/vocus/vocus_49791dac6020e950bda56dde7ee4e7f5.jpg)
 
 {{block:klook}}
 
@@ -112,7 +112,7 @@ https://youtube.com/shorts/KBLKSQT7Pn4?si=yxJwczQBjlD0jXzY
 
 千祈唔好老闆畀鎖匙你就揸走！一定要喺「未撻車」同「未駛離舖頭」之前，拎出手機開錄影模式，從以下幾個重點仔細檢查同錄影存證。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_de43e176127f414dfd12cd2155b28955.png)
+![攞車前嘅魔鬼細節（車況檢查）](https://images.gobaligo.id/vocus/vocus_de43e176127f414dfd12cd2155b28955.png)
 
 **1. 車身外觀（刮痕王係你？）**
 
@@ -180,7 +180,7 @@ https://youtu.be/lIV-T2jYhVk?si=KOKR7HFKOtrw1EAb
 
 雖然租電單車確實係遊覽峇里島最慳錢、方便嘅方式，但出咗去玩，安全始終係首要考慮。尤其喺外地如果唔好彩發生意外，唔單止人生路不熟，仲要畀天價嘅醫療費用，真係得不償失。建議大家探索呢座美麗嘅島嶼時，考慮用更安全嘅方式出行，咁先可以真正無憂無慮咁享受峇里島嘅風光同文化。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_65aeba9cc2da686003182b4431afa2a8.jpg)
+![結語](https://images.gobaligo.id/vocus/vocus_65aeba9cc2da686003182b4431afa2a8.jpg)
 
 記住，**安全至上**！唔係要嚇你，而係提醒你生命嘅可貴，唔值得為咗慳少少錢而冒險㗎！
 

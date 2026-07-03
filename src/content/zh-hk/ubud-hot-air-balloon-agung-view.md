@@ -23,33 +23,33 @@ lang: zh-hk
 _srcHash: ad022c00a5b2c1b8ebd7f1ede2f1c259
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ed4e23babe897f0039aae5be80a2e83.jpg)
+![【峇里島親子必玩】烏布熱氣球初體驗：高空俯瞰阿貢火山、稻田美景同預約注意事項](https://images.gobaligo.id/vocus/vocus_6ed4e23babe897f0039aae5be80a2e83.jpg)
 
 ## **峇里島烏布熱氣球之旅：一家三口嘅夢幻空中約會**
 
 「媽媽，我哋真係要飛上天咩？」5歲嘅小寶緊緊捉住我嘅衫角，但係眼睛閃住興奮嘅光芒。老公喺旁邊笑住調整相機：「放心，爸爸會保護你。」呢個係我哋一家三口喺峇里島最特別嘅冒險——烏布熱氣球初體驗。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8dfa66b04dd9de71bb06a72e584ab9f2.jpg)
+![峇里島烏布熱氣球之旅：一家三口嘅夢幻空中約會](https://images.gobaligo.id/vocus/vocus_8dfa66b04dd9de71bb06a72e584ab9f2.jpg)
 
 ## **峇里唯一嘅家庭空中探險**
 
 作為全島**唯一**嘅繫留式熱氣球，呢個23米高嘅彩虹巨球特別適合家庭體驗。工作人員見到我哋帶住小朋友，貼心咁拎出小踏凳：「小朋友可以先踩呢個上嚟㗎！」柳條編織嘅籃子比想像中寬敞，我哋三個人企入去啱啱好（總重量限制150公斤，帶小朋友嘅家庭完全冇問題）。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6e9034faa46931a5d78d8a868afb0691.jpg)
+![峇里唯一嘅家庭空中探險](https://images.gobaligo.id/vocus/vocus_6e9034faa46931a5d78d8a868afb0691.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_53df4fd79dcf0d9ad18ecdcc8d22e6d8.jpg)
+![峇里唯一嘅家庭空中探險](https://images.gobaligo.id/vocus/vocus_53df4fd79dcf0d9ad18ecdcc8d22e6d8.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f74860f9a16d702dbf66d0716f8631ea.jpg)
+![峇里唯一嘅家庭空中探險](https://images.gobaligo.id/vocus/vocus_f74860f9a16d702dbf66d0716f8631ea.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d798af7e9de04eb902533d427cf3cede.jpg)
+![峇里唯一嘅家庭空中探險](https://images.gobaligo.id/vocus/vocus_d798af7e9de04eb902533d427cf3cede.jpg)
 
 ## **黃昏時分嘅魔幻時刻**
 
 我哋揀咗最受推薦嘅**17:30黃昏航班**。當火焰「轟」一聲噴發時，小寶驚呼住鑽入爸爸懷裡，但係下一秒就被上升嘅感覺逗得咯咯笑。由50米高空望出去，烏布嘅稻田喺夕陽下好似鋪咗一層金箔，遠處嘅阿貢山喺暮色中若隱若現。老公一手環抱住我，一手護住探頭張望嘅小寶。呢個角度睇峇里島，真係唔一樣！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_744e80db7118b1ac94e5824e71a6c7a2.jpg)
+![黃昏時分嘅魔幻時刻](https://images.gobaligo.id/vocus/vocus_744e80db7118b1ac94e5824e71a6c7a2.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_11a27578173ce42535d398d29a100f31.jpg)
+![黃昏時分嘅魔幻時刻](https://images.gobaligo.id/vocus/vocus_11a27578173ce42535d398d29a100f31.jpg)
 
 ## **專屬家庭嘅貼心服務**
 

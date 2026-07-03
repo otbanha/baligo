@@ -27,7 +27,7 @@ _srcHash: 06a9520bc5be4fc50f523fb9b101d817
 
 要入境印尼/峇里島觀光，並申請電子簽證嗎？印尼移民總局已將電子簽證（EVOA）申請種類進行改版，原本嘅 B213 已經搵唔到，旅遊嘅觀光簽證改為 **TOURISM SINGLE ENTRY VISITOR VISA-60DAYS** 同 **B1 - TOURISM(VISA ON ARRIVAL)-30DAYS** 兩種。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b50f446bf85ff20e26f33059953c16c.png)
+![觀光簽證](https://images.gobaligo.id/vocus/vocus_3b50f446bf85ff20e26f33059953c16c.png)
 
 咁，一般旅遊要申請邊一項呢？
 
@@ -39,7 +39,7 @@ _srcHash: 06a9520bc5be4fc50f523fb9b101d817
 
 以下係兩種申請種類嘅比較：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f3ec80b73a526b4e7ca96f0c3b82a89.png)
+![觀光簽證](https://images.gobaligo.id/vocus/vocus_2f3ec80b73a526b4e7ca96f0c3b82a89.png)
 
 ➡️[搵峇里島住宿請睇呢度](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️  
 ➡️[更多峇里島超值優惠請撳我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
@@ -85,7 +85,7 @@ B1 觀光簽證係單次入境簽證，有效期為30日，只限用於觀光、
 
 ## 簡要說明：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_587d0faa86baaf1230364fe6675ef04f.png)
+![簡要說明：](https://images.gobaligo.id/vocus/vocus_587d0faa86baaf1230364fe6675ef04f.png)
 
 ➡️[搵峇里島住宿請睇呢度](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️  
 ➡️[更多峇里島超值優惠請撳我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️

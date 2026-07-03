@@ -40,7 +40,7 @@ A thought crossed my mind - could I have been categorized under 'China'? With a 
 
 And then I saw this...
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7a0749e55a6adfe7ad66dfd5d10f8945.jpg)
+![The Search Process](https://images.gobaligo.id/vocus/vocus_7a0749e55a6adfe7ad66dfd5d10f8945.jpg)
 
 ## The 'Harmonized' Result
 

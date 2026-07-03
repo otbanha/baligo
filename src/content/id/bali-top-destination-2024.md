@@ -71,7 +71,7 @@ Apa sih keunikan Desa Penglipuran? Cek [Panduan Lengkap Ubud Bali 2025](/blog/ub
 
 Sebagai pintu gerbang utama Bali, Bandara I Gusti Ngurah Rai pada akhir 2024 menyambut dan melepas penumpang penerbangan terakhir serta pertama di tahun 2025 dengan tarian tradisional Bali dan pertunjukan gamelan. General Manager bandara, Ahmad Syaugi Shahab, bilang: 'Kami ingin menjadikan bandara ini sebagai etalase budaya Indonesia, khususnya Bali, dan menciptakan pengalaman yang menyenangkan serta tak terlupakan bagi para traveler.'
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6dec8613de7c1b17f3afeb7f3d84d07a.png)
+![Suasana Hangat Bandara Bali Sambut Tahun Baru](https://images.gobaligo.id/vocus/vocus_6dec8613de7c1b17f3afeb7f3d84d07a.png)
 
 ---
 
@@ -95,7 +95,7 @@ A4: Meskipun bencana alam dan berita negatif berdampak pada pariwisata, daya tar
 
 ## 📩 **Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Bali!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Ba](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

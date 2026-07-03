@@ -45,21 +45,21 @@ Bali emang surga banget buat pasangan yang mau bulan madu atau liburan santai. P
 
 ## The Buah Bali Villas
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365786908-40210895.jpg)
+![The Buah Bali Villas](https://images.gobaligo.id/images/2026-03/1774365786908-40210895.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365785166-27458434.jpg)
+![The Buah Bali Villas](https://images.gobaligo.id/images/2026-03/1774365785166-27458434.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365785958-27459072.jpg)
+![The Buah Bali Villas](https://images.gobaligo.id/images/2026-03/1774365785958-27459072.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365786381-39464509.jpg)
+![The Buah Bali Villas](https://images.gobaligo.id/images/2026-03/1774365786381-39464509.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365787439-162131065.jpg)
+![The Buah Bali Villas](https://images.gobaligo.id/images/2026-03/1774365787439-162131065.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365787918-162131067.jpg)
+![The Buah Bali Villas](https://images.gobaligo.id/images/2026-03/1774365787918-162131067.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365788330-162131719.jpg)
+![The Buah Bali Villas](https://images.gobaligo.id/images/2026-03/1774365788330-162131719.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365788817-165993398.jpg)
+![The Buah Bali Villas](https://images.gobaligo.id/images/2026-03/1774365788817-165993398.jpg)
 
 The Buah Bali Villas di kawasan Seminyak, Bali, adalah villa mewah kelas atas. Villa bintang lima ini menawarkan akomodasi yang luas dan nyaman, dengan kolam renang serta taman pribadi yang bikin terkesan. Jaraknya cuma delapan menit jalan kaki ke Pantai Petitenget, dan tiga menit naik mobil atau 16 menit jalan kaki ke pusat perbelanjaan Seminyak Square. Dalam radius 200 meter ada banyak pilihan tempat makan.
 
@@ -69,25 +69,25 @@ Buah Bali Villas menyediakan antar-jemput bandara gratis dan layanan antar-jempu
 
 ## Maya Sayang
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365989676-28c9b36a88ceb1f6499c9aed367fd350.webp)
+![Maya Sayang](https://images.gobaligo.id/images/2026-03/1774365989676-28c9b36a88ceb1f6499c9aed367fd350.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365990029-195af9078fc837d0f1de4f9b3bd7e83c.webp)
+![Maya Sayang](https://images.gobaligo.id/images/2026-03/1774365990029-195af9078fc837d0f1de4f9b3bd7e83c.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365990456-324181844.jpg)
+![Maya Sayang](https://images.gobaligo.id/images/2026-03/1774365990456-324181844.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365990848-324181853.jpg)
+![Maya Sayang](https://images.gobaligo.id/images/2026-03/1774365990848-324181853.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365991250-575089940.jpg)
+![Maya Sayang](https://images.gobaligo.id/images/2026-03/1774365991250-575089940.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365991573-575093176.jpg)
+![Maya Sayang](https://images.gobaligo.id/images/2026-03/1774365991573-575093176.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365991891-575258748.jpg)
+![Maya Sayang](https://images.gobaligo.id/images/2026-03/1774365991891-575258748.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365992313-a2a67bf6331c7b790d048c47a60a2973.webp)
+![Maya Sayang](https://images.gobaligo.id/images/2026-03/1774365992313-a2a67bf6331c7b790d048c47a60a2973.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365992809-ac43b32fdb51b1337149915e7c710b02.webp)
+![Maya Sayang](https://images.gobaligo.id/images/2026-03/1774365992809-ac43b32fdb51b1337149915e7c710b02.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365993205-ecc127efa300c76884af7bcb4baaf3bd.webp)
+![Maya Sayang](https://images.gobaligo.id/images/2026-03/1774365993205-ecc127efa300c76884af7bcb4baaf3bd.webp)
 
 Maya Sayang adalah pilihan villa pribadi terbaik di kawasan Seminyak, terkenal dengan tata ruangnya yang mewah dan luas. Kompleks villa bintang empat ini menawarkan villa dengan satu hingga tiga kamar tidur, terletak di pusat kota yang tenang. Kalau kamu cari pengalaman menginap yang luar biasa, Maya Sayang wajib banget dipertimbangkan — bingung kenapa ratingnya bukan bintang lima.
 
@@ -99,25 +99,25 @@ Setiap private pool villa punya area outdoor living room lengkap dengan sofa dou
 
 ## Cyrus Villa
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366141944-2f36ea1a2164ba2d64327256bcc284f1.jpeg)
+![Cyrus Villa](https://images.gobaligo.id/images/2026-03/1774366141944-2f36ea1a2164ba2d64327256bcc284f1.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366142381-46df6a59b5fba94d832e968a5fcbf283.jpeg)
+![Cyrus Villa](https://images.gobaligo.id/images/2026-03/1774366142381-46df6a59b5fba94d832e968a5fcbf283.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366142799-1765f2d5306f218e551df3fdef59f557.jpeg)
+![Cyrus Villa](https://images.gobaligo.id/images/2026-03/1774366142799-1765f2d5306f218e551df3fdef59f557.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366143266-535799705.jpg)
+![Cyrus Villa](https://images.gobaligo.id/images/2026-03/1774366143266-535799705.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366143727-832992811.jpg)
+![Cyrus Villa](https://images.gobaligo.id/images/2026-03/1774366143727-832992811.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366144229-832995094.jpg)
+![Cyrus Villa](https://images.gobaligo.id/images/2026-03/1774366144229-832995094.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366144737-832995102.jpg)
+![Cyrus Villa](https://images.gobaligo.id/images/2026-03/1774366144737-832995102.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366145048-833002678.jpg)
+![Cyrus Villa](https://images.gobaligo.id/images/2026-03/1774366145048-833002678.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366145367-833006777.jpg)
+![Cyrus Villa](https://images.gobaligo.id/images/2026-03/1774366145367-833006777.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366145775-833006782.jpg)
+![Cyrus Villa](https://images.gobaligo.id/images/2026-03/1774366145775-833006782.jpg)
 
 Cyrus Villa adalah pilihan akomodasi yang beda banget dari private pool villa lain di Seminyak. Desain villa bertingkat dengan ruang outdoor yang memanjang ini punya nuansa Maroko yang kental, bukan gaya Bali pada umumnya. Kalau kamu lagi cari pengalaman villa yang super modern dan beda dari yang lain, Cyrus Villa wajib banget kamu coba.
 
@@ -129,27 +129,27 @@ Setiap one-bedroom private pool villa punya jendela kaca dari lantai ke langit-l
 
 ## Mayaloka Villas
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366210395-452963708.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366210395-452963708.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366210915-452963639.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366210915-452963639.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366211257-452963697.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366211257-452963697.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366211676-452963700.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366211676-452963700.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366212032-452963787.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366212032-452963787.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366212454-452963799.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366212454-452963799.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366212849-452964063.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366212849-452964063.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366213255-452964067.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366213255-452964067.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366213663-452964071.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366213663-452964071.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366213979-452964105.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366213979-452964105.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366214393-452964326.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366214393-452964326.jpg)
 
 Buat kamu yang pengin merasakan pengalaman private pool villa bergaya tradisional di Seminyak, Mayaloka Villas adalah pilihan terbaik. Tipe villa mulai dari untuk dua orang sampai delapan orang, cocok buat grup teman, keluarga, atau liburan lintas generasi.
 
@@ -163,25 +163,25 @@ Gaya interiornya mengusung nuansa tradisional Bali yang elegan, dengan furnitur 
 
 ## Javana Royal Villas
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366442065-817711801.jpg)
+![Javana Royal Villas](https://images.gobaligo.id/images/2026-03/1774366442065-817711801.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366442523-440143617.jpg)
+![Javana Royal Villas](https://images.gobaligo.id/images/2026-03/1774366442523-440143617.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366442977-441222149.jpg)
+![Javana Royal Villas](https://images.gobaligo.id/images/2026-03/1774366442977-441222149.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366443471-441222300.jpg)
+![Javana Royal Villas](https://images.gobaligo.id/images/2026-03/1774366443471-441222300.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366444084-525291263.jpg)
+![Javana Royal Villas](https://images.gobaligo.id/images/2026-03/1774366444084-525291263.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366444625-635087466.jpg)
+![Javana Royal Villas](https://images.gobaligo.id/images/2026-03/1774366444625-635087466.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366445104-635087488.jpg)
+![Javana Royal Villas](https://images.gobaligo.id/images/2026-03/1774366445104-635087488.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366445733-635087759.jpg)
+![Javana Royal Villas](https://images.gobaligo.id/images/2026-03/1774366445733-635087759.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366446394-635087804.jpg)
+![Javana Royal Villas](https://images.gobaligo.id/images/2026-03/1774366446394-635087804.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366446904-794373951.jpg)
+![Javana Royal Villas](https://images.gobaligo.id/images/2026-03/1774366446904-794373951.jpg)
 
 Javana Royal Villas terdiri dari 16 vila satu kamar tidur bergaya modern, masing-masing dengan kolam renang pribadi. Desain interiornya simpel dan elegan, pakai lantai kayu solid, seprai putih, dan furnitur kayu gelap. Buat pasangan yang pengen liburan privat, ini pilihan yang kece abis.
 
@@ -195,27 +195,27 @@ Selain itu, kompleks ini juga menawarkan tipe vila satu kamar tidur dua lantai d
 
 ## Suites Infinity & Beyond
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366518376-133365823.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366518376-133365823.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366518807-121022218.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366518807-121022218.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366519123-114347854.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366519123-114347854.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366519532-167123620.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366519532-167123620.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366519940-167123710.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366519940-167123710.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366520347-167123825.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366520347-167123825.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366520768-167123863.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366520768-167123863.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366521196-167123963.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366521196-167123963.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366521513-167124741.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366521513-167124741.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366521894-167185991.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366521894-167185991.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366522292-167186006.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366522292-167186006.jpg)
 
 Pemilik Suites Infinity & Beyond benar-benar serius soal estetika desain — kualitas hardware dan furniturnya juara banget. Meskipun gayanya agak melenceng dari nuansa tradisional Bali, menurut kami ini adalah pilihan private pool villa paling worth it di kawasan Seminyak.
 
@@ -231,15 +231,15 @@ Dari segi fungsi ruang maupun kualitas hardware dan software yang tinggi, ini je
 
 ## The Claremont Luxury Villas
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366579891-5675739b-8a4d-460d-946f-c2ce141df737.jpg)
+![The Claremont Luxury Villas](https://images.gobaligo.id/images/2026-03/1774366579891-5675739b-8a4d-460d-946f-c2ce141df737.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366580380-2b4e374b-2466-4ca2-9275-2b59f15154ad.jpg)
+![The Claremont Luxury Villas](https://images.gobaligo.id/images/2026-03/1774366580380-2b4e374b-2466-4ca2-9275-2b59f15154ad.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366580763-6fca9842-9db9-48b6-96ff-b18810540a9c.jpg)
+![The Claremont Luxury Villas](https://images.gobaligo.id/images/2026-03/1774366580763-6fca9842-9db9-48b6-96ff-b18810540a9c.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366581104-8f763b29-f166-4e4e-80c8-aec51e49ed9a.jpg)
+![The Claremont Luxury Villas](https://images.gobaligo.id/images/2026-03/1774366581104-8f763b29-f166-4e4e-80c8-aec51e49ed9a.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366581416-235fe5e2-fdec-4b57-84c4-9151decd7f01.jpg)
+![The Claremont Luxury Villas](https://images.gobaligo.id/images/2026-03/1774366581416-235fe5e2-fdec-4b57-84c4-9151decd7f01.jpg)
 
 The Claremont Luxury Villas adalah private villa mewah di pusat Seminyak yang menawarkan akomodasi luas dan stylish untuk pasangan.
 
@@ -255,25 +255,25 @@ Vila ini menggabungkan kemudahan lokasi pusat dengan lingkungan mewah dan privat
 
 ## Berry Amour Romantic Villas
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366773073-496455867.jpg)
+![Berry Amour Romantic Villas](https://images.gobaligo.id/images/2026-03/1774366773073-496455867.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366773500-114432965.jpg)
+![Berry Amour Romantic Villas](https://images.gobaligo.id/images/2026-03/1774366773500-114432965.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366773901-194194465.jpg)
+![Berry Amour Romantic Villas](https://images.gobaligo.id/images/2026-03/1774366773901-194194465.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366774242-198621447.jpg)
+![Berry Amour Romantic Villas](https://images.gobaligo.id/images/2026-03/1774366774242-198621447.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366774616-207488169.jpg)
+![Berry Amour Romantic Villas](https://images.gobaligo.id/images/2026-03/1774366774616-207488169.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366775025-414836014.jpg)
+![Berry Amour Romantic Villas](https://images.gobaligo.id/images/2026-03/1774366775025-414836014.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366775332-496458074.jpg)
+![Berry Amour Romantic Villas](https://images.gobaligo.id/images/2026-03/1774366775332-496458074.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366775742-496458171.jpg)
+![Berry Amour Romantic Villas](https://images.gobaligo.id/images/2026-03/1774366775742-496458171.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366776152-496458198.jpg)
+![Berry Amour Romantic Villas](https://images.gobaligo.id/images/2026-03/1774366776152-496458198.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366776561-496470436.jpg)
+![Berry Amour Romantic Villas](https://images.gobaligo.id/images/2026-03/1774366776561-496470436.jpg)
 
 Berry Amour Romantic Villas adalah kompleks vila romantis bintang lima dengan total 20 vila, hanya menerima pasangan dan tamu berusia 16 tahun ke atas. Selain menyediakan berbagai pengalaman kencan romantis seperti mandi kelopak bunga, tempat ini benar-benar impian buat pasangan yang lagi bulan madu.
 
@@ -287,25 +287,25 @@ Tema dan warna setiap vila berbeda-beda, tapi desain keseluruhannya modern dan s
 
 ## Villa Mia Seminyak
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366950241-789698687.jpg)
+![Villa Mia Seminyak](https://images.gobaligo.id/images/2026-03/1774366950241-789698687.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366950631-768424574.jpg)
+![Villa Mia Seminyak](https://images.gobaligo.id/images/2026-03/1774366950631-768424574.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366951060-789279229.jpg)
+![Villa Mia Seminyak](https://images.gobaligo.id/images/2026-03/1774366951060-789279229.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366951372-789654526.jpg)
+![Villa Mia Seminyak](https://images.gobaligo.id/images/2026-03/1774366951372-789654526.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366951782-789654638.jpg)
+![Villa Mia Seminyak](https://images.gobaligo.id/images/2026-03/1774366951782-789654638.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366952126-789654668.jpg)
+![Villa Mia Seminyak](https://images.gobaligo.id/images/2026-03/1774366952126-789654668.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366952481-789672963.jpg)
+![Villa Mia Seminyak](https://images.gobaligo.id/images/2026-03/1774366952481-789672963.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366952894-789698675.jpg)
+![Villa Mia Seminyak](https://images.gobaligo.id/images/2026-03/1774366952894-789698675.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366953187-789718655.jpg)
+![Villa Mia Seminyak](https://images.gobaligo.id/images/2026-03/1774366953187-789718655.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366953516-791847691.jpg)
+![Villa Mia Seminyak](https://images.gobaligo.id/images/2026-03/1774366953516-791847691.jpg)
 
 Villa Mia Seminyak adalah kompleks vila pribadi mewah yang baru dibangun, terdiri dari empat vila di dalam area. Masing-masing menawarkan pengalaman menginap premium yang penuh kemewahan dan kemanjaan. Yang paling kami suka adalah desain cerdas vila-vila ini, di mana tamu bisa langsung melompat ke kolam renang begitu keluar dari kamar. Pengalaman yang benar-benar langka, sih.
 
@@ -321,35 +321,35 @@ Kolam renang pribadinya ukurannya pas, lengkap dengan kursi berjemur dan hammock
 
 ## Eden The Residence At The Sea
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367144929-713001826.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367144929-713001826.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367145514-436711424.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367145514-436711424.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367146002-517865839.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367146002-517865839.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367146577-517865841.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367146577-517865841.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367147268-517865853.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367147268-517865853.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367147727-517866355.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367147727-517866355.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367148204-517867828.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367148204-517867828.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367149960-555897632.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367149960-555897632.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367150455-606746944.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367150455-606746944.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367150933-606746946.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367150933-606746946.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367151378-606746948.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367151378-606746948.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367151886-606746964.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367151886-606746964.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367152301-606746981.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367152301-606746981.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367152938-713001398.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367152938-713001398.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367153522-713001793.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367153522-713001793.jpg)
 
 Eden The Residence At The Sea adalah kompleks mewah yang terdiri dari 12 vila bintang lima. Cocok banget buat rombongan traveling atau acara keluarga besar. Vila terbesarnya dengan lima kamar tidur bahkan bisa menampung 10 orang. Dalam radius 350 meter dari area ini, ada tiga restoran.
 
@@ -365,23 +365,23 @@ Beberapa vila bahkan punya taman di atap dengan area duduk buat nikmatin pemanda
 
 ## Gajah Villas Bali
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367392916-774147_15072718260033123645.jpg)
+![Gajah Villas Bali](https://images.gobaligo.id/images/2026-03/1774367392916-774147_15072718260033123645.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367393261-6fc0069bf052dc14a766a4e348186354.jpeg)
+![Gajah Villas Bali](https://images.gobaligo.id/images/2026-03/1774367393261-6fc0069bf052dc14a766a4e348186354.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367393637-774147_14111817130023434434.jpg)
+![Gajah Villas Bali](https://images.gobaligo.id/images/2026-03/1774367393637-774147_14111817130023434434.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367393997-774147_14111817130023434445.webp)
+![Gajah Villas Bali](https://images.gobaligo.id/images/2026-03/1774367393997-774147_14111817130023434445.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367394386-774147_15072718260033123644.webp)
+![Gajah Villas Bali](https://images.gobaligo.id/images/2026-03/1774367394386-774147_15072718260033123644.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367394722-774147_15072718260033123648.webp)
+![Gajah Villas Bali](https://images.gobaligo.id/images/2026-03/1774367394722-774147_15072718260033123648.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367395161-774147_15072718270033123650.webp)
+![Gajah Villas Bali](https://images.gobaligo.id/images/2026-03/1774367395161-774147_15072718270033123650.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367395506-774147_15072718270033123658.jpg)
+![Gajah Villas Bali](https://images.gobaligo.id/images/2026-03/1774367395506-774147_15072718270033123658.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367395878-cd6f7b34fe9a26da3652351c3290435c.webp)
+![Gajah Villas Bali](https://images.gobaligo.id/images/2026-03/1774367395878-cd6f7b34fe9a26da3652351c3290435c.webp)
 
 Gajah Villas Bali nawarin pilihan vila yang luas dan stylish, cocok banget buat traveler yang pengen hemat biaya akomodasi dengan konsep self-service.
 
@@ -399,17 +399,17 @@ Desain interiornya modern dan netral, dipadukan dengan furnitur lembut warna-war
 
 ## Villa Chocolat
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367447624-88032094.jpg)
+![Villa Chocolat](https://images.gobaligo.id/images/2026-03/1774367447624-88032094.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367448108-460299253.jpg)
+![Villa Chocolat](https://images.gobaligo.id/images/2026-03/1774367448108-460299253.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367448531-193b371e54e2e470a738453dff37b7e7.jpg)
+![Villa Chocolat](https://images.gobaligo.id/images/2026-03/1774367448531-193b371e54e2e470a738453dff37b7e7.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367448926-3577fd57009baa23c7bb2c991a7bb4ff.jpg)
+![Villa Chocolat](https://images.gobaligo.id/images/2026-03/1774367448926-3577fd57009baa23c7bb2c991a7bb4ff.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367449244-433142_14012314310018134104.jpg)
+![Villa Chocolat](https://images.gobaligo.id/images/2026-03/1774367449244-433142_14012314310018134104.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367449638-75474025.jpg)
+![Villa Chocolat](https://images.gobaligo.id/images/2026-03/1774367449638-75474025.jpg)
 
 Kalau kamu lagi cari villa mewah di area Seminyak dengan 2 kamar tidur (atau lebih), wajib banget lirik Villa Chocolat. Villa bintang empat ini punya desain tradisional yang bikin kita jatuh cinta sama detail-detail khasnya, apalagi cara mereka pakai tanaman hijau sebagai pembatas—bukan tembok beton—jadi privasi kamu benar-benar terjamin.
 
@@ -425,25 +425,25 @@ Tipe kamar mulai dari 2 sampai 8 kamar tidur, bisa muat 4 sampai 12 orang. Setia
 
 ## Villa Wahah
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367630558-411955454.jpg)
+![Villa Wahah](https://images.gobaligo.id/images/2026-03/1774367630558-411955454.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367630886-175020567.jpg)
+![Villa Wahah](https://images.gobaligo.id/images/2026-03/1774367630886-175020567.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367631208-175020741.jpg)
+![Villa Wahah](https://images.gobaligo.id/images/2026-03/1774367631208-175020741.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367631553-175020897.jpg)
+![Villa Wahah](https://images.gobaligo.id/images/2026-03/1774367631553-175020897.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367631912-411955316.jpg)
+![Villa Wahah](https://images.gobaligo.id/images/2026-03/1774367631912-411955316.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367632222-411955319.jpg)
+![Villa Wahah](https://images.gobaligo.id/images/2026-03/1774367632222-411955319.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367632635-411955341.jpg)
+![Villa Wahah](https://images.gobaligo.id/images/2026-03/1774367632635-411955341.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367633050-411955349.jpg)
+![Villa Wahah](https://images.gobaligo.id/images/2026-03/1774367633050-411955349.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367633454-411955350.jpg)
+![Villa Wahah](https://images.gobaligo.id/images/2026-03/1774367633454-411955350.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367633865-411955361.jpg)
+![Villa Wahah](https://images.gobaligo.id/images/2026-03/1774367633865-411955361.jpg)
 
 Villa Wahah ini pilihan tepat banget buat liburan keluarga yang suka masak sendiri. Suasananya warna-warni, nyaman, dan hangat. Bahkan ada tirai anti-cahaya khusus buat bantu anak-anak tidur lebih nyenyak. Hidden gem banget!
 
@@ -459,23 +459,23 @@ Setiap vila punya taman pribadi kecil dan kolam renang persegi. Buat keluarga ya
 
 ## Daluman Villas
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367873351-140700279.jpg)
+![Daluman Villas](https://images.gobaligo.id/images/2026-03/1774367873351-140700279.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367873737-12284213.jpg)
+![Daluman Villas](https://images.gobaligo.id/images/2026-03/1774367873737-12284213.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367874035-19325369.jpg)
+![Daluman Villas](https://images.gobaligo.id/images/2026-03/1774367874035-19325369.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367874393-19325414.jpg)
+![Daluman Villas](https://images.gobaligo.id/images/2026-03/1774367874393-19325414.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367874787-19325417.jpg)
+![Daluman Villas](https://images.gobaligo.id/images/2026-03/1774367874787-19325417.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367875071-19325455.jpg)
+![Daluman Villas](https://images.gobaligo.id/images/2026-03/1774367875071-19325455.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367875418-140700127.jpg)
+![Daluman Villas](https://images.gobaligo.id/images/2026-03/1774367875418-140700127.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367875722-140700134.jpg)
+![Daluman Villas](https://images.gobaligo.id/images/2026-03/1774367875722-140700134.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367876149-140700278.jpg)
+![Daluman Villas](https://images.gobaligo.id/images/2026-03/1774367876149-140700278.jpg)
 
 Daluman Villas benar-benar pilihan vila pribadi bintang 4 yang super worth it di kawasan Seminyak, apalagi kalau kamu nginep bareng pasangan lain di vila 2 kamar tidur 2 kamar mandi—harganya gila banget. Total ada 21 vila di kompleks ini.
 
@@ -489,29 +489,29 @@ Di luar ada area duduk semi-terbuka, sofa, dan kolam renang pribadi kecil berben
 
 ## O Villas Seminyak
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368117068-14777840.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368117068-14777840.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368117440-14773591.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368117440-14773591.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368117809-14777179.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368117809-14777179.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368118136-14779838.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368118136-14779838.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368118631-14827551.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368118631-14827551.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368119036-14827939.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368119036-14827939.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368119451-14827944.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368119451-14827944.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368119868-14827998.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368119868-14827998.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368120206-43070787.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368120206-43070787.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368120569-43070841.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368120569-43070841.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368120985-43070989.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368120985-43070989.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368121386-43070997.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368121386-43070997.jpg)
 
 Kalau kamu pengen banget ngerasain kemewahan bintang lima tapi budget pas-pasan, O Villas Seminyak ini pilihan paling worth it, sih. Di sini kamu dapet pengalaman menginap di vila pribadi super premium dengan harga yang ramah di kantong.
 
@@ -531,19 +531,19 @@ Buat kamu yang traveling bareng rombongan besar atau keluarga, O Villas Seminyak
 
 ## Inspira Seminyak Villa
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368198470-571043838.jpg)
+![Inspira Seminyak Villa](https://images.gobaligo.id/images/2026-03/1774368198470-571043838.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368198779-434294882.jpg)
+![Inspira Seminyak Villa](https://images.gobaligo.id/images/2026-03/1774368198779-434294882.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368199211-434294930.jpg)
+![Inspira Seminyak Villa](https://images.gobaligo.id/images/2026-03/1774368199211-434294930.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368199623-434298813.jpg)
+![Inspira Seminyak Villa](https://images.gobaligo.id/images/2026-03/1774368199623-434298813.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368199942-434319382.jpg)
+![Inspira Seminyak Villa](https://images.gobaligo.id/images/2026-03/1774368199942-434319382.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368200342-486484622.jpg)
+![Inspira Seminyak Villa](https://images.gobaligo.id/images/2026-03/1774368200342-486484622.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368200753-564464716.jpg)
+![Inspira Seminyak Villa](https://images.gobaligo.id/images/2026-03/1774368200753-564464716.jpg)
 
 Inspira Seminyak adalah villa yang baru dan memukau. Meskipun informasi di internet masih minim, pengalaman menginap di sini benar-benar bikin takjub. Dari pertama kali check-in, semua staf ramah banget dan bikin kamu merasa diperhatikan dengan hangat. Apalagi sarapannya super lengkap dan bikin kaget enaknya!
 
@@ -565,21 +565,21 @@ Kesimpulannya, Inspira Seminyak adalah pilihan ideal buat santai dan nikmatin hi
 
 ## Peppers Seminyak - Pengalaman Mewah Kelas Dunia
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368253813-391080930.jpg)
+![Peppers Seminyak - Pengalaman Mewah Kelas Dunia](https://images.gobaligo.id/images/2026-03/1774368253813-391080930.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368254557-391061718.jpg)
+![Peppers Seminyak - Pengalaman Mewah Kelas Dunia](https://images.gobaligo.id/images/2026-03/1774368254557-391061718.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368254871-526016643.jpg)
+![Peppers Seminyak - Pengalaman Mewah Kelas Dunia](https://images.gobaligo.id/images/2026-03/1774368254871-526016643.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368255338-526016646.jpg)
+![Peppers Seminyak - Pengalaman Mewah Kelas Dunia](https://images.gobaligo.id/images/2026-03/1774368255338-526016646.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368255994-526016661.jpg)
+![Peppers Seminyak - Pengalaman Mewah Kelas Dunia](https://images.gobaligo.id/images/2026-03/1774368255994-526016661.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368256439-526016671.jpg)
+![Peppers Seminyak - Pengalaman Mewah Kelas Dunia](https://images.gobaligo.id/images/2026-03/1774368256439-526016671.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368256909-526016678.jpg)
+![Peppers Seminyak - Pengalaman Mewah Kelas Dunia](https://images.gobaligo.id/images/2026-03/1774368256909-526016678.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368257400-526016708.jpg)
+![Peppers Seminyak - Pengalaman Mewah Kelas Dunia](https://images.gobaligo.id/images/2026-03/1774368257400-526016708.jpg)
 
 **Lokasi**｜Peppers Seminyak terletak di pusat kota Seminyak, dekat dengan Pantai Petitenget, Pantai Batu Belig, dan Pantai Seminyak — aksesnya gampang banget.
 
@@ -593,25 +593,25 @@ Kesimpulannya, Inspira Seminyak adalah pilihan ideal buat santai dan nikmatin hi
 
 ## **The Dusun Villa**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368326890-29368240.jpg)
+![The Dusun Villa](https://images.gobaligo.id/images/2026-03/1774368326890-29368240.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368327421-64314_14040214060018940407.jpg)
+![The Dusun Villa](https://images.gobaligo.id/images/2026-03/1774368327421-64314_14040214060018940407.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368327821-64314_14040214210018940794_large.jpeg)
+![The Dusun Villa](https://images.gobaligo.id/images/2026-03/1774368327821-64314_14040214210018940794_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368328258-64314_14040214220018940805.jpg)
+![The Dusun Villa](https://images.gobaligo.id/images/2026-03/1774368328258-64314_14040214220018940805.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368328665-64314_14040214220018940829_large.jpeg)
+![The Dusun Villa](https://images.gobaligo.id/images/2026-03/1774368328665-64314_14040214220018940829_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368329030-12164134.jpg)
+![The Dusun Villa](https://images.gobaligo.id/images/2026-03/1774368329030-12164134.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368329474-26524122.jpg)
+![The Dusun Villa](https://images.gobaligo.id/images/2026-03/1774368329474-26524122.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368329887-28387498.jpg)
+![The Dusun Villa](https://images.gobaligo.id/images/2026-03/1774368329887-28387498.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368330292-28387501.jpg)
+![The Dusun Villa](https://images.gobaligo.id/images/2026-03/1774368330292-28387501.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368330698-29368239.jpg)
+![The Dusun Villa](https://images.gobaligo.id/images/2026-03/1774368330698-29368239.jpg)
 
 **Lokasi**｜The Dusun Villa terletak di kawasan Seminyak, cuma 400 meter dari Pantai Batu Belig — lokasinya strategis banget. Dekat dengan Pantai Petitenget dan Pantai Seminyak yang populer, dikelilingi banyak restoran, dan jalan kaki bisa sampai [Jalan Kayu Aya](https://www.youtube.com/shorts/oz_QUWvCK_8) yang hits buat belanja.
 
@@ -635,25 +635,25 @@ The Dusun Villa nawarin pengalaman menginap yang elegan dan nyaman, cocok buat p
 
 ## The Citta Luxury Residence - Pengalaman Villa Mewah di Seminyak
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368393094-70984715.jpg)
+![The Citta Luxury Residence - Pengalaman Villa Mewah di Semin](https://images.gobaligo.id/images/2026-03/1774368393094-70984715.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368393478-70985037.jpg)
+![The Citta Luxury Residence - Pengalaman Villa Mewah di Semin](https://images.gobaligo.id/images/2026-03/1774368393478-70985037.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368393907-10748056_large.jpeg)
+![The Citta Luxury Residence - Pengalaman Villa Mewah di Semin](https://images.gobaligo.id/images/2026-03/1774368393907-10748056_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368394397-10768421.jpg)
+![The Citta Luxury Residence - Pengalaman Villa Mewah di Semin](https://images.gobaligo.id/images/2026-03/1774368394397-10768421.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368394908-45711893.jpg)
+![The Citta Luxury Residence - Pengalaman Villa Mewah di Semin](https://images.gobaligo.id/images/2026-03/1774368394908-45711893.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368395260-383793472_large.jpeg)
+![The Citta Luxury Residence - Pengalaman Villa Mewah di Semin](https://images.gobaligo.id/images/2026-03/1774368395260-383793472_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368395664-383793474_large.jpeg)
+![The Citta Luxury Residence - Pengalaman Villa Mewah di Semin](https://images.gobaligo.id/images/2026-03/1774368395664-383793474_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368396099-390604801.jpg)
+![The Citta Luxury Residence - Pengalaman Villa Mewah di Semin](https://images.gobaligo.id/images/2026-03/1774368396099-390604801.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368396648-390604808.jpg)
+![The Citta Luxury Residence - Pengalaman Villa Mewah di Semin](https://images.gobaligo.id/images/2026-03/1774368396648-390604808.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368397052-390612087_large.jpeg)
+![The Citta Luxury Residence - Pengalaman Villa Mewah di Semin](https://images.gobaligo.id/images/2026-03/1774368397052-390612087_large.jpeg)
 
 **Lokasi**｜The Citta Luxury Residence terletak di dekat Sunset Road, Seminyak, cuma 2 km dari Seminyak Square, gampang buat akses ke tempat-tempat utama. Villa juga menyediakan shuttle gratis ke area Seminyak, dan jaraknya sekitar 2 km ke Pantai Seminyak, jadi kamu bisa kapan aja menikmati pasir dan laut.
 
@@ -667,25 +667,25 @@ The Dusun Villa nawarin pengalaman menginap yang elegan dan nyaman, cocok buat p
 
 ## **The Tukad Villa - Villa Mewah Tersembunyi di Seminyak**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368454210-216640576.jpg)
+![The Tukad Villa - Villa Mewah Tersembunyi di Seminyak](https://images.gobaligo.id/images/2026-03/1774368454210-216640576.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368454617-62282961.jpg)
+![The Tukad Villa - Villa Mewah Tersembunyi di Seminyak](https://images.gobaligo.id/images/2026-03/1774368454617-62282961.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368455029-62282968.jpg)
+![The Tukad Villa - Villa Mewah Tersembunyi di Seminyak](https://images.gobaligo.id/images/2026-03/1774368455029-62282968.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368455423-62283119.jpg)
+![The Tukad Villa - Villa Mewah Tersembunyi di Seminyak](https://images.gobaligo.id/images/2026-03/1774368455423-62283119.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368455760-62283125.jpg)
+![The Tukad Villa - Villa Mewah Tersembunyi di Seminyak](https://images.gobaligo.id/images/2026-03/1774368455760-62283125.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368456156-62283134_large.jpeg)
+![The Tukad Villa - Villa Mewah Tersembunyi di Seminyak](https://images.gobaligo.id/images/2026-03/1774368456156-62283134_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368456483-62283136.jpg)
+![The Tukad Villa - Villa Mewah Tersembunyi di Seminyak](https://images.gobaligo.id/images/2026-03/1774368456483-62283136.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368456969-62283310.jpg)
+![The Tukad Villa - Villa Mewah Tersembunyi di Seminyak](https://images.gobaligo.id/images/2026-03/1774368456969-62283310.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368457593-62283316.jpg)
+![The Tukad Villa - Villa Mewah Tersembunyi di Seminyak](https://images.gobaligo.id/images/2026-03/1774368457593-62283316.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368457987-216641529.jpg)
+![The Tukad Villa - Villa Mewah Tersembunyi di Seminyak](https://images.gobaligo.id/images/2026-03/1774368457987-216641529.jpg)
 
 **Lokasi**｜The Tukad Villa cuma 15 menit berkendara dari Bandara Internasional Ngurah Rai, lokasinya strategis banget buat traveler yang baru sampai. Dari villa, kamu bisa sampai ke Sling Shot dan Waterbom Park dalam waktu sekitar 15 menit, jadi sambil bersantai, kamu juga bisa nikmatin serunya wahana hiburan di Bali.
 
@@ -699,25 +699,25 @@ The Dusun Villa nawarin pengalaman menginap yang elegan dan nyaman, cocok buat p
 
 ## **Ziva a Boutique Villa - Kemewahan Pribadi di Pusat Seminyak**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368526290-493177970.jpg)
+![Ziva a Boutique Villa - Kemewahan Pribadi di Pusat Seminyak](https://images.gobaligo.id/images/2026-03/1774368526290-493177970.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368526716-53657960.jpg)
+![Ziva a Boutique Villa - Kemewahan Pribadi di Pusat Seminyak](https://images.gobaligo.id/images/2026-03/1774368526716-53657960.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368527112-53658907.jpg)
+![Ziva a Boutique Villa - Kemewahan Pribadi di Pusat Seminyak](https://images.gobaligo.id/images/2026-03/1774368527112-53658907.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368527420-493177975.jpg)
+![Ziva a Boutique Villa - Kemewahan Pribadi di Pusat Seminyak](https://images.gobaligo.id/images/2026-03/1774368527420-493177975.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368527742-493177983.jpg)
+![Ziva a Boutique Villa - Kemewahan Pribadi di Pusat Seminyak](https://images.gobaligo.id/images/2026-03/1774368527742-493177983.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368528186-493177990.jpg)
+![Ziva a Boutique Villa - Kemewahan Pribadi di Pusat Seminyak](https://images.gobaligo.id/images/2026-03/1774368528186-493177990.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368528493-493177992.jpg)
+![Ziva a Boutique Villa - Kemewahan Pribadi di Pusat Seminyak](https://images.gobaligo.id/images/2026-03/1774368528493-493177992.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368528943-493177997.jpg)
+![Ziva a Boutique Villa - Kemewahan Pribadi di Pusat Seminyak](https://images.gobaligo.id/images/2026-03/1774368528943-493177997.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368529296-493177998.jpg)
+![Ziva a Boutique Villa - Kemewahan Pribadi di Pusat Seminyak](https://images.gobaligo.id/images/2026-03/1774368529296-493177998.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368529675-493178012.jpg)
+![Ziva a Boutique Villa - Kemewahan Pribadi di Pusat Seminyak](https://images.gobaligo.id/images/2026-03/1774368529675-493178012.jpg)
 
 **Lokasi**｜Ziva a Boutique Villa ada di jantung Seminyak, lokasinya super strategis, cuma 10 menit jalan kaki ke Seminyak Square. Ke Ku De Ta dan Potato Head Beach Club yang terkenal juga cuma 5 menit naik mobil.
 
@@ -731,25 +731,25 @@ The Dusun Villa nawarin pengalaman menginap yang elegan dan nyaman, cocok buat p
 
 ## Pradha Villas Seminyak
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368651992-237697_14071811400020335949.jpeg)
+![Pradha Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368651992-237697_14071811400020335949.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368652541-2b3e33c004e1b29e2c91096cac121ce0.jpeg)
+![Pradha Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368652541-2b3e33c004e1b29e2c91096cac121ce0.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368652982-237697_17061214180053606619.jpeg)
+![Pradha Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368652982-237697_17061214180053606619.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368653341-143287158.jpg)
+![Pradha Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368653341-143287158.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368653684-143287770.jpg)
+![Pradha Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368653684-143287770.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368654064-143288828.jpg)
+![Pradha Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368654064-143288828.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368654498-161941174.jpg)
+![Pradha Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368654498-161941174.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368654945-170693662.jpg)
+![Pradha Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368654945-170693662.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368655438-514316657.jpg)
+![Pradha Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368655438-514316657.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368655813-e5df7108195f1f11bf0cdfa85cd75bd0.jpeg)
+![Pradha Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368655813-e5df7108195f1f11bf0cdfa85cd75bd0.jpeg)
 
 **Lokasi**｜Terletak di pusat Seminyak, perpaduan antara kemudahan dan ketenangan. Kamu bisa jalan kaki ke pantai, restoran, dan area perbelanjaan. Tempat-tempat seperti Seminyak Beach, Double Six Beach, dan lainnya dekat banget. Restoran di sekitar ada Naughty Nuri's Warung (iga babi), KU DE TA (beach club), Wahaha Pork Ribs.
 
@@ -765,25 +765,25 @@ Privasi: hanya 11 villa, jadi dijamin tenang dan pelayanan eksklusif.
 
 ## Astera Villa Seminyak
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780668650220-832499511.jpg)
+![Astera Villa Seminyak](https://images.gobaligo.id/images/2026-06/1780668650220-832499511.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780668650889-832499512.jpg)
+![Astera Villa Seminyak](https://images.gobaligo.id/images/2026-06/1780668650889-832499512.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780668651402-832499516.jpg)
+![Astera Villa Seminyak](https://images.gobaligo.id/images/2026-06/1780668651402-832499516.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780668652007-832500362.jpg)
+![Astera Villa Seminyak](https://images.gobaligo.id/images/2026-06/1780668652007-832500362.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780668652449-832500363.jpg)
+![Astera Villa Seminyak](https://images.gobaligo.id/images/2026-06/1780668652449-832500363.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780668652866-832500365.jpg)
+![Astera Villa Seminyak](https://images.gobaligo.id/images/2026-06/1780668652866-832500365.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780668653244-832500366.jpg)
+![Astera Villa Seminyak](https://images.gobaligo.id/images/2026-06/1780668653244-832500366.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780668653640-832502178.jpg)
+![Astera Villa Seminyak](https://images.gobaligo.id/images/2026-06/1780668653640-832502178.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780668654040-862159512.jpg)
+![Astera Villa Seminyak](https://images.gobaligo.id/images/2026-06/1780668654040-862159512.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780668654472-376016602.jpg)
+![Astera Villa Seminyak](https://images.gobaligo.id/images/2026-06/1780668654472-376016602.jpg)
 
 Astera Villa Seminyak dikelola oleh Ini Vie Hospitality, terletak di perbatasan Seminyak dan Legian. Villa mewah 1 kamar ini terkenal dengan nuansa romantis untuk bulan madu. Hanya 30 menit berkendara dari bandara, lokasinya sangat strategis.
 

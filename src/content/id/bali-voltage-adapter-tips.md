@@ -44,7 +44,7 @@ Selain voltase, bentuk colokan juga perlu diperhatikan. Colokan yang umum dipaka
 
 Kamu bisa beli adaptor di supermarket lokal. Di Indonesia, adaptor ini disebut "Adaptor" (dibaca: adaptor). Atau, kamu bisa tanya ke hotel apakah mereka menyediakan adaptor — tapi nggak semua hotel punya, jadi lebih aman beli sendiri di supermarket. Harganya murah kok, sekitar NT$30–40 (USD$1).
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cee2923f799f1f91f4f50a8eee72a53d.jpg)
+![Kamu Butuh Adaptor Nggak?](https://images.gobaligo.id/vocus/vocus_cee2923f799f1f91f4f50a8eee72a53d.jpg)
 
 Biasanya, kamu butuh setidaknya satu adaptor, plus satu kabel ekstensi multi-lubang yang **mendukung 220V**, biar semua alat elektronik kamu bisa dipakai di Indonesia dan Bali. Ingat, pas milih kabel ekstensi jangan asal murah — pilih yang kelihatan berkualitas dan dari merek terpercaya, biar lebih aman buat semua perangkat kamu.
 
@@ -54,13 +54,13 @@ Biasanya, kamu butuh setidaknya satu adaptor, plus satu kabel ekstensi multi-lub
 
 Sekarang ini, USB charger bawaan pas traveling (kayak charger HP, tablet) udah kebanyakan support "100V-240V wide voltage". Tinggal cek aja di charger-nya, kalau input voltage (Input) range-nya termasuk 220V, langsung bisa dipake di Bali tanpa perlu adaptor tambahan. Sebelum berangkat, cek tulisan kecil di charger, misalnya ada tulisan "Input: 100-240V" — itu artinya aman. Kalau cuma 110V, mending ganti aja.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1558c540adf790fc52dc3f5badfe3ae.jpg)
+![USB Charger gimana cara nyiapinnya?](https://images.gobaligo.id/vocus/vocus_a1558c540adf790fc52dc3f5badfe3ae.jpg)
 
 Kalau kamu mau bawa kabel ekstensi multi-colokan kayak gambar di atas, pertama pastiin dulu apakah support range 110~220V baru bisa dipake. Kedua, bentuk colokannya. Yang dijual di Taiwan biasanya colokan dua pipih kayak gambar di atas, kamu masih butuh adaptor yang kita sebutin di atas biar aman dipake di hotel/villa mana pun. Terakhir, saran: kalau perangkat kamu support PD atau QC fast charging, mending pilih charger dengan daya tinggi yang sesuai, biar waktu ngecas jauh lebih cepet, mengurangi kecemasan selama traveling!
 
 ## Adaptor universal model "kaki kotak" ini, di Bali bisa dipake nggak sih?
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779768785299-mixcollage-26-may-2026-11-12-am-9086.jpg)
+![Adaptor universal model "kaki kotak" ini, di Bali bisa dipak](https://images.gobaligo.id/images/2026-05/1779768785299-mixcollage-26-may-2026-11-12-am-9086.jpg)
 
 Baru-baru ini di grup ada traveler yang nanya: "Adaptor universal model gini di Bali bisa dipake nggak? Katanya di internet harus pake colokan bulat semua?" Eh, ternyata banyak banget netizen yang sharing pengalaman langsung. Intinya setelah dirangkum, semuanya sepakat:
 
@@ -103,7 +103,7 @@ Kalau kamu bawa hair dryer sendiri, biasanya hair dryer yang dibeli di Taiwan cu
 
 Solusi paling aman dan praktis buat kasus begini adalah beli hair dryer yang support 220V di lokal. Dengan begitu kamu bisa pastikan hair dryer-nya bisa dipakai normal di Indonesia dan Bali, sekaligus menghindari kerusakan akibat tegangan yang nggak cocok.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_76cf751fe4866588a6bb0606c340d312.png)
+![Boleh bawa hair dryer / catokan rambut sendiri?](https://images.gobaligo.id/vocus/vocus_76cf751fe4866588a6bb0606c340d312.png)
 
 ***
 

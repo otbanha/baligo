@@ -37,12 +37,12 @@ _srcHash: 5802c379b11df1e03bbc5e36aa729597
 
 The Bali five-star hotel market welcomes a long-awaited new star in 2026. Paradisus by Meliá Bali officially reopens in February 2026, marking the first 'Destination Inclusive' all-inclusive resort in Asia under the flagship brand Paradisus of Spain's Meliá Hotels International group. Formerly the renowned Meliá Bali Resort, it has undergone extensive renovations and upgrades, now located in the Nusa Dua luxury resort area, positioning itself as Bali's top new choice for family vacations and honeymoons.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331617629-850645735.jpg)
+![【2026 Nusa Dua New Hotel】Paradisus by Meliá Bali Unveiled: A](https://images.gobaligo.id/images/2026-05/1779331617629-850645735.jpg)
 
 .
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331733159-850645720.jpg)
+![【2026 Nusa Dua New Hotel】Paradisus by Meliá Bali Unveiled: A](https://images.gobaligo.id/images/2026-05/1779331733159-850645720.jpg)
 .
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331797842-850645741.jpg)
+![【2026 Nusa Dua New Hotel】Paradisus by Meliá Bali Unveiled: A](https://images.gobaligo.id/images/2026-05/1779331797842-850645741.jpg)
 
 ## 📍 Location & Surroundings
 
@@ -56,43 +56,43 @@ The pool is the soul of the resort. The expansive **Lagoon Pool** winding throug
 
 For family facilities, the **Family Concierge Kids Club** offers daily free access with professional childcare, allowing parents to truly relax. Teens have their exclusive **Teens Kingdom**, equipped with bowling lanes, gaming facilities, and various activities, frequently praised in guest reviews.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332032685-850725743.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1779332032685-850725743.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332041253-850645752.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1779332041253-850645752.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332042453-850725674.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1779332042453-850725674.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332042854-850725703.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1779332042854-850725703.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332043589-850725717.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1779332043589-850725717.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332043998-850725723.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1779332043998-850725723.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332044392-850725730.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1779332044392-850725730.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332044911-850725736.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1779332044911-850725736.jpg)
 
 Dining is a major highlight of the reopening, with 8 restaurants and 3 bars offering Indonesian, Asian, Mediterranean, Spanish, and international cuisines. Breakfast includes a lavish buffet (approximately $37 per person or included in breakfast packages). The gym is open 24/7, alongside Yhi Spa, outdoor activities (kayaking, snorkeling, canoeing), and cultural experiences. Notably, the Teens Kingdom teen club, complete with bowling lanes and gaming facilities, is repeatedly highlighted in guest reviews.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331887597-850725630.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1779331887597-850725630.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331888133-844949019.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1779331888133-844949019.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331888640-844949049.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1779331888640-844949049.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331889144-844949054.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1779331889144-844949054.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331889567-844949061.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1779331889567-844949061.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331890068-844949065.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1779331890068-844949065.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331890480-844949115.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1779331890480-844949115.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331890897-844949125.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1779331890897-844949125.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331891404-844949131.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1779331891404-844949131.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779331891799-844949149.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-05/1779331891799-844949149.jpg)
 
 ## 🛏️ Room Types
 
@@ -100,63 +100,63 @@ Paradisus by Meliá Bali offers diverse room types, clearly categorized to meet 
 
 ▼Premium Room Garden View features a Queen Bed plus sofa bed, overlooking tropical gardens. Accommodates up to two adults and one child, making it a budget-friendly option.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332181156-851144299.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332181156-851144299.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332181611-857610733.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332181611-857610733.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332191594-850704584.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332191594-850704584.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332191984-851128140.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332191984-851128140.jpg)
 
 ▼Junior Suite upgrades to a King Bed plus sofa bed, offering more spacious accommodations suitable for two adults and one child, balancing comfort and flexibility.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332351415-851144511.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332351415-851144511.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332351806-857661571.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332351806-857661571.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332352206-857663783.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332352206-857663783.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332352715-851127161.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332352715-851127161.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332353456-851128140.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332353456-851128140.jpg)
 
 ▼Family Concierge Suite Duplex is the top choice for family travelers, accommodating up to two adults and three children. Includes exclusive Family Concierge services such as private check-in area, complimentary Kids Club access, and private beach area.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332513936-851125786.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332513936-851125786.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332514417-851125792.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332514417-851125792.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332514920-857655578.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332514920-857655578.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332515533-851124072.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332515533-851124072.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332515944-851124079.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332515944-851124079.jpg)
 
 ▼The Reserve Junior Suite Lagoon Access is part of the adults-only (16+) collection, featuring a King Bed plus sofa bed for up to three adults. Direct access to the lagoon pool, with The Reserve private pool beach area and butler service.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332792689-857661567.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332792689-857661567.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332793154-857661571.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332793154-857661571.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332793661-851127161.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332793661-851127161.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332794165-851127169.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332794165-851127169.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332794678-857661100.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332794678-857661100.jpg)
 
 ▼Suite Duplex offers a loft-style design, accommodating up to two adults and two children. The multi-level space is perfect for families seeking separate activity areas for kids.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332949630-851124079.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332949630-851124079.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332950030-857655578.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332950030-857655578.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332950540-857663117.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332950540-857663117.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332951164-857663171.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332951164-857663171.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332951519-857664085.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332951519-857664085.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779332951884-851124072.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-05/1779332951884-851124072.jpg)
 
 For more room types and current rates, please refer to the booking link.
 

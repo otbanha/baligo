@@ -27,7 +27,7 @@ _srcHash: e03dff00fcdecf9671a4929f95f2c69d
 
 Mau liburan ke Bali, atau lagi siap-siap jalan-jalan ke Indonesia? Jangan lupa, selain tiket dan akomodasi, ada beberapa **dokumen penting** yang harus disiapkan sebelum berangkat. Kalau belum diurus, bukan cuma bisa bikin kamu telat naik pesawat, tapi juga bisa repot pas imigrasi.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2775fee2fe386d7041bb19dfab0cd31a.png)
+![Wajib Tahu Sebelum ke Bali! Visa, Bea Cukai, Pajak Turis & K](https://images.gobaligo.id/vocus/vocus_2775fee2fe386d7041bb19dfab0cd31a.png)
 
 Biar lancar masuk, ini dia 4 dokumen wajib terbaru — lengkap dengan waktu pengurusan, masa berlaku, dan tipsnya. Semua dijelasin biar gampang dipahami!
 

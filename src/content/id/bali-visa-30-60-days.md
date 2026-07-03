@@ -26,7 +26,7 @@ lang: id
 _srcHash: a837a1551e09d7434e439b245c00e380
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_674269d54ebfc7ede1f3a11443914ba7.png)
+![Panduan Wajib Baca untuk Visa Bali: 30 Hari vs. 60 Hari, Pah](https://images.gobaligo.id/vocus/vocus_674269d54ebfc7ede1f3a11443914ba7.png)
 
 > Baca Juga: [Panduan Perpanjangan Visa Online Indonesia/Bali 2024](/blog/2024-bali-visa-extension/)
 
@@ -34,13 +34,13 @@ Traveler ini karena kurang teliti, tidak menyadari bahwa mengajukan visa lebih d
 
 Jadi, pada akhirnya dia mengajukan visa lagi di tempat dan membayar lagi. Cerita ini mengingatkan kita untuk selalu membaca syarat dan ketentuan dengan teliti saat mengajukan visa, biar nggak kena masalah yang nggak perlu. Semoga pengalaman traveler ini bisa jadi referensi buat yang lain, biar perjalanan mereka lebih lancar dan menyenangkan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4eff791ff802d92ca4edfab546001a72.png)
+![Panduan Wajib Baca untuk Visa Bali: 30 Hari vs. 60 Hari, Pah](https://images.gobaligo.id/vocus/vocus_4eff791ff802d92ca4edfab546001a72.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5a57f7219abcf2a9037e8348cbf294b6.png)
+![Panduan Wajib Baca untuk Visa Bali: 30 Hari vs. 60 Hari, Pah](https://images.gobaligo.id/vocus/vocus_5a57f7219abcf2a9037e8348cbf294b6.png)
 
 Sebelum membaca **「Panduan Lengkap Liburan Mandiri ke Bali」** kami, kami dengan tulus mengundang kamu untuk subscribe dulu channel YouTube kami **「Xiao Jie Indonesia」** yang berbagi pengalaman visual. [Klik di sini](http://bit.ly/youtube-jason), langsung subscribe
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_efc81c47d5b097135559dfd30b494018.png)
+![Panduan Wajib Baca untuk Visa Bali: 30 Hari vs. 60 Hari, Pah](https://images.gobaligo.id/vocus/vocus_efc81c47d5b097135559dfd30b494018.png)
 
 Setelah subscribe, kamu bisa langsung lanjut baca panduan lengkap kami, menjelajahi setiap sudut seru Bali. Klik **「**[**Panduan Lengkap Liburan Mandiri ke Bali**](/blog/2023-08-22-64e37f2dfd89780001b1f776/)**」**, mulai persiapkan perjalananmu ke Bali!
 

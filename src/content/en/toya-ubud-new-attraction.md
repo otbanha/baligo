@@ -26,7 +26,7 @@ _srcHash: befb7e75cc299777c97434ff49bcd797
 
 ## **New Eco-Resort Toya Ubud Opens in Ubud, Bali, Captivating Visitors**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f2d953ffaa337ca9f753204ede51ff78.jpg)
+![New Eco-Resort Toya Ubud Opens in Ubud, Bali, Captivating Vi](https://images.gobaligo.id/vocus/vocus_f2d953ffaa337ca9f753204ede51ff78.jpg)
 
 In November 2024, Bali welcomed the soft opening of Toya Ubud, a brand-new eco-park and resort located just minutes away from the famous Tegallalang Rice Terraces. Now fully operational, the resort has hosted its first wave of international guests in recent weeks, quickly establishing itself as a new must-visit destination in Bali.
 

@@ -27,7 +27,7 @@ _srcHash: 305a7a0bcb7b501e073fe04c65fba4b1
 
 巴厘岛拥有多样化的自然景观与深厚文化底蕴。从梯田、火山、海滩，到寺庙与街景，每一处都充满画面感。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a44a207f22d8db8ffa088304a901919c.jpg)
+![巴厘岛旅拍怎么选？摄影师推荐、传统服饰体验价格与拍照穿搭全指南](https://images.gobaligo.id/vocus/vocus_a44a207f22d8db8ffa088304a901919c.jpg)
 
 同时，巴厘岛的自然光线柔和，色彩层次丰富，传统服饰极具特色，非常适合人像与艺术摄影。因此，无论是旅途记录还是主题写真，都能拍出高质量作品。
 
@@ -68,7 +68,7 @@ https://youtube.com/shorts/fG9pNzin-94
 
 穿上沙龙、腰布与头饰后，整体氛围瞬间转换，极具文化深度。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_de3aa30663aad14db9d0327ca03a15b5.jpg)
+![传统服饰写真摄影](https://images.gobaligo.id/vocus/vocus_de3aa30663aad14db9d0327ca03a15b5.jpg)
 
 这类摄影不只是拍照，更是一场艺术与文化的体验。
 
@@ -102,7 +102,7 @@ https://youtube.com/shorts/5DXF_ptzH2c?si=nkXYBB6rTdSz5jLz
 
 ***
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_31d6065de06df0fb4e9e2fa6f84d01d3.jpg)
+![巴厘岛专业旅拍小提醒](https://images.gobaligo.id/vocus/vocus_31d6065de06df0fb4e9e2fa6f84d01d3.jpg)
 
 ## **常见问题 FAQ**
 

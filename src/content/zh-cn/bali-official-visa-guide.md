@@ -65,7 +65,7 @@ _srcHash: c4d68e52ce62d543675f828f82170bd6
 * 投资签证 (Investment Visa)
 * 艺术家与表演者签证 (Artists and Performers Visa)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778570595314-image_1778570565623.jpg)
+![3. 如何选择正确的签证？](https://images.gobaligo.id/images/2026-05/1778570595314-image_1778570565623.jpg)
 
 {{block:戶外}}
 

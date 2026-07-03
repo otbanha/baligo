@@ -25,7 +25,7 @@ lang: id
 _srcHash: 1289e00e9ae25d7cdc0b8d225a4748d9
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_994e1b38fe9e5ae02d04c9e178525e3b.jpg)
+![【Jelajah Bali】Jajanan Kaki Lima di Pasar Malam Bali｜Pasar Kr](https://images.gobaligo.id/vocus/vocus_994e1b38fe9e5ae02d04c9e178525e3b.jpg)
 
 Apa saja jajanan khas Bali yang bisa kamu temukan di pasar malam? Jalan-jalan ke pasar malam adalah cara paling seru buat merasakan atmosfer asli Bali!
 

@@ -25,7 +25,7 @@ _srcHash: f0c5e70afb299c99d778038aa051ef2b
 
 当您计划踏上巴厘岛的奇妙旅程时，许多问题可能会在脑海中浮现。无论您是第一次造访还是重游，每个人都希望能够得到一些实用的旅游攻略，以确保您的旅程顺利又充满乐趣。在这篇博客中，我们将为您提供一些宝贵的巴厘岛旅游贴士，包括网络连接、换汇、雨季旅游、交通安排、购物杀价技巧，以及如何巧妙运用Gojek。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8a1baefa013608a227bca57993852e49.png)
+![巴厘岛旅游攻略：怎么办网络？如何换汇？雨季可以去吗？交通如何安排？如何购物杀价？善用Gojek教学](https://images.gobaligo.id/vocus/vocus_8a1baefa013608a227bca57993852e49.png)
 
 {{block:攻略}}
 

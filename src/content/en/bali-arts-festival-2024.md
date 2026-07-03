@@ -23,7 +23,7 @@ _srcHash: 81af9f42004d92acb79a8896b36792ac
 
 The Bali Arts Festival is about to kick off in Bali. This is one of the island's most important cultural events. Artists, musicians, and dancers from around the world will gather to showcase their works to visitors. During this time, Bali becomes a haven for art enthusiasts. There's no need to worry about ticket costs, as all performances at the Bali Arts Festival are free. You'll have the opportunity to witness not only Bali's rich performing arts but also cultural highlights from other Indonesian islands. If you're a lover of art and culture, this is an event you absolutely cannot miss.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_90ab703b954115885ae714b8d09db502.png)
+![The 2024 Bali Arts Festival will begin on June 15th and last](https://images.gobaligo.id/vocus/vocus_90ab703b954115885ae714b8d09db502.png)
 
 ## What is the Bali Arts Festival?
 
@@ -35,7 +35,7 @@ The Bali Arts Festival is held annually. This cultural feast lasts approximately
 
 ## Theme of the Bali Arts Festival
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c32e212b2a773b031367bb0fbbad6089.jpg)
+![Theme of the Bali Arts Festival](https://images.gobaligo.id/vocus/vocus_c32e212b2a773b031367bb0fbbad6089.jpg)
 
 The theme for the 2024 Bali Arts Festival is "Jana Kerthi Pramaguna Wikrama," which means "Enhancing Human Dignity and Excellence." The festival's themes are usually based on one of these life-sustaining forces. Therefore, the performances and exhibitions at the festival may have philosophical underpinnings, offering a rich tapestry of thought and artistic expression.
 
@@ -45,7 +45,7 @@ The Bali Arts Festival will be held at the Werdhi Budaya Art Centre, a sprawling
 
 ## What kind of performances can you enjoy?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b37c1c6db8934d3aa8bc6d6630976a02.png)
+![What kind of performances can you enjoy?](https://images.gobaligo.id/vocus/vocus_b37c1c6db8934d3aa8bc6d6630976a02.png)
 
 ### Opening Parade
 
@@ -77,7 +77,7 @@ Denpasar, the largest city in Bali, serves as the island's public transportation
 
 ## Tips for Attending the Bali Arts Festival
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb580db9253ea62dc0130897433dc0e1.jpg)
+![Tips for Attending the Bali Arts Festival](https://images.gobaligo.id/vocus/vocus_eb580db9253ea62dc0130897433dc0e1.jpg)
 
 ### Weather and Clothing
 
@@ -101,7 +101,7 @@ The Bali Arts Festival is one of Indonesia’s most popular events, attracting v
 
 ➡️[Find Bali accommodations here](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b2948879decdfe85c71b34e38f4b7957.png)
+![Booking Accommodation and Tickets](https://images.gobaligo.id/vocus/vocus_b2948879decdfe85c71b34e38f4b7957.png)
 
 ### Conclusion
 

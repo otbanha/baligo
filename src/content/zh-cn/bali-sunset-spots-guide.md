@@ -18,7 +18,7 @@ _srcHash: 2d202f88c4914fe6f66099c1deda6bab
 
 ## 巴厘岛日落时间
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_231febd4ab153a9d1e05dfaf75ce3f24.png)
+![巴厘岛日落时间](https://images.gobaligo.id/vocus/vocus_231febd4ab153a9d1e05dfaf75ce3f24.png)
 
 巴厘岛的日落时间会随着季节变化，一般来说在当地时间下午6:00到6:45之间。由于巴厘岛邻近赤道，因此日落时间的变化较小。又因为巴厘岛身处赤道以南的特性，使得日落时间在十二月、一月的时候会稍微晚一些。要查询特定日期的精确日落时间，可以使用天气网站或应用程序提供的日出日落时间。
 

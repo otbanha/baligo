@@ -25,7 +25,7 @@ _srcHash: 9d6feac5e9732622c480441f317876fa
 
 Pergi ke Bali sering dianggap sebagai liburan impian banyak orang—surga tropis yang menawarkan pantai indah, budaya yang hidup, dan pelarian dari hiruk-pikuk. Namun, serangkaian kejadian nahas dalam seminggu terakhir mengingatkan kita betapa pentingnya memiliki asuransi kesehatan dan perjalanan yang komprehensif saat mengunjungi destinasi populer ini. Artikel ini mengulas pengalaman mengerikan beberapa wisatawan, menekankan perlunya persiapan matang dan pemahaman tentang polis asuransi sebelum petualangan semacam itu.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aabb2a4c1d2f606be093bb46df0ab3b6.png)
+![【Bali Mencekam】Pentingnya Asuransi Perjalanan: Lima Tragedi ](https://images.gobaligo.id/vocus/vocus_aabb2a4c1d2f606be093bb46df0ab3b6.png)
 
 ## Pentingnya Asuransi Perjalanan
 
@@ -33,7 +33,7 @@ Pergi ke Bali sering dianggap sebagai liburan impian banyak orang—surga tropis
 
 ## Kasus Sam Hourigan: Kecelakaan Tabrak Lari yang Tragis
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a3fdc7fa3f375c887f74b4f21a22024.jpg)
+![Kasus Sam Hourigan: Kecelakaan Tabrak Lari yang Tragis](https://images.gobaligo.id/vocus/vocus_9a3fdc7fa3f375c887f74b4f21a22024.jpg)
 
 Salah satu kejadian paling menghebohkan melibatkan Sam Hourigan, seorang freediver terkenal, yang saat ini dalam kondisi stabil tapi kritis di Bali setelah kecelakaan tabrak lari. Hourigan ditabrak motor yang melawan arah dan tanpa lampu di Jembatan Padang-Padang. Saat dia tergeletak tak sadarkan diri, motor kedua menabraknya lagi, menyebabkan pendarahan internal parah, limpa pecah, dan patah tulang rusuk.
 
@@ -41,7 +41,7 @@ Hourigan dilarikan ke rumah sakit untuk operasi darurat, di mana dokter melakuka
 
 ## Rebecca Ode: Kecelakaan Misterius di Nusa Lembongan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_914891e37f27c832e2702dbeae0b8479.jpg)
+![Rebecca Ode: Kecelakaan Misterius di Nusa Lembongan](https://images.gobaligo.id/vocus/vocus_914891e37f27c832e2702dbeae0b8479.jpg)
 
 Kejadian lain yang tak kalah tragis melibatkan Rebecca Ode, seorang wisatawan Australia yang ditemukan setengah sadar di jalan di Nusa Lembongan. Ode mengalami cedera otak dan mata parah, dan langsung dilarikan ke ICU untuk operasi rekonstruksi besar. Meskipun kondisinya sekarang stabil, dia masih berisiko kehilangan kedua matanya.
 
@@ -49,7 +49,7 @@ Keluarga Aude kini harus menghadapi biaya medis yang sangat besar, termasuk kemu
 
 ## Catherine Curtis: Kecelakaan saat Trekking di Gunung Batur
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8ef6f21bdbfc62433b211a1643e4b39b.jpg)
+![Catherine Curtis: Kecelakaan saat Trekking di Gunung Batur](https://images.gobaligo.id/vocus/vocus_8ef6f21bdbfc62433b211a1643e4b39b.jpg)
 
 Catherine Curtis (56 tahun), seorang turis asal Australia, menghadapi serangkaian tantangan saat trekking di Gunung Batur. Setelah berhasil mencapai puncak gunung suci ini, Curtis tersandung saat turun dan kakinya patah di dua tempat. Beruntung, Curtis memiliki asuransi perjalanan dan kesehatan yang mencakup biaya medis. Jika tidak, ia harus menanggung biaya medis lebih dari AUD$23.000.
 
@@ -57,7 +57,7 @@ Kejadian ini menekankan pentingnya memiliki asuransi yang mencakup aktivitas pet
 
 ## Dua Turis Inggris Beruntung Selamat
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ce2f0bdcf56747e3b1eca773373369d2.jpg)
+![Dua Turis Inggris Beruntung Selamat](https://images.gobaligo.id/vocus/vocus_ce2f0bdcf56747e3b1eca773373369d2.jpg)
 
 Dalam sebuah kejadian beruntung, dua turis muda asal Inggris (dengan inisial AF dan MF) berhasil diselamatkan oleh tim SAR Bali setelah tersesat di Gunung Agung. Kedua bersaudara ini mencoba mendaki gunung tersebut tanpa pemandu — sebuah tindakan yang sangat berisiko! Meskipun mereka ditemukan dalam keadaan hidup dan tanpa cedera, setiap tahun setidaknya belasan turis terluka atau meninggal di Gunung Agung.
 

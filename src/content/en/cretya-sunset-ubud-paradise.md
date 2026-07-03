@@ -27,19 +27,19 @@ _srcHash: 332b063727fbef989765d2624a9e7e8f
 
 **After enjoying the spectacular views of the Tegallalang Rice Terraces at** [**Cretya Ubud**](/blog/cretya-ubud-alas-harum-budget-guide/), **the Alas Harum Group has unveiled their latest creation—Cretya Sunset by Alas Harum, Ubud.** This new sunset day club and restaurant in Ubud offers an unmatched relaxation experience and stunning views, making it a dream destination not to be missed during your Bali exploration.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2c6d7325ae36ad648aca156f8c68e65b.jpg)
+![【Ubud Food + Scenery】Cretya Sunset, Ubud's Hidden Gem: The M](https://images.gobaligo.id/vocus/vocus_2c6d7325ae36ad648aca156f8c68e65b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c8185f023505428af49f2615760615da.jpg)
+![【Ubud Food + Scenery】Cretya Sunset, Ubud's Hidden Gem: The M](https://images.gobaligo.id/vocus/vocus_c8185f023505428af49f2615760615da.jpg)
 
 ## **Cretya Sunset: The Ultimate Day Club Experience in Ubud**
 
 Nestled amidst Ubud's lush rice fields, Cretya Sunset combines luxury, entertainment, and natural beauty to provide the perfect space for relaxation and enjoyment. With its infinity pool, stylish lounging areas, and a vibe that balances chic and serene, it caters to both those seeking tranquility and those looking to party.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c76ca2d1240692a4a961b3d172ead24.jpg)
+![Cretya Sunset: The Ultimate Day Club Experience in Ubud](https://images.gobaligo.id/vocus/vocus_1c76ca2d1240692a4a961b3d172ead24.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9e3180dab574d5401a80be7a49c5fbfe.jpg)
+![Cretya Sunset: The Ultimate Day Club Experience in Ubud](https://images.gobaligo.id/vocus/vocus_9e3180dab574d5401a80be7a49c5fbfe.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f95a6e1067e15d1920bddf9d4701602d.jpg)
+![Cretya Sunset: The Ultimate Day Club Experience in Ubud](https://images.gobaligo.id/vocus/vocus_f95a6e1067e15d1920bddf9d4701602d.jpg)
 
 The club's design blends modern and traditional Balinese elements, allowing you to savor delicious food and cocktails while immersing yourself in a rich cultural atmosphere. Its westward-facing orientation makes it an ideal spot to watch Ubud's sunsets every evening! Accompanied by live DJ music, you'll be captivated by the beauty of this tropical paradise.
 
@@ -51,7 +51,7 @@ Cretya Sunset ▶[Klook Coupon Rp.62,500](https://affiliate.klook.com/redirect?a
 
 Cretya Sunset's menu is thoughtfully crafted, blending international cuisine with local Balinese flavors. Whether you're a meat lover or a vegetarian, you'll find something to delight your palate here.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_517e08e0fec37c8d2f6a911e092af82b.jpg)
+![Food and Drinks: A Feast for the Senses](https://images.gobaligo.id/vocus/vocus_517e08e0fec37c8d2f6a911e092af82b.jpg)
 
 **Recommended Dishes:**
 
@@ -77,7 +77,7 @@ Cretya Sunset ▶[Klook Discount Rp.62,500](https://affiliate.klook.com/redirect
 
 ## **Opening Hours & Location**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ec48f50ef1c010eb80090ac1d76393a.jpg)
+![Opening Hours & Location](https://images.gobaligo.id/vocus/vocus_6ec48f50ef1c010eb80090ac1d76393a.jpg)
 
 Cretya Sunset is open daily from 8:00 AM to 9:00 PM. Whether you want to enjoy the tranquility of the infinity pool in the early morning or sip cocktails while watching the sunset in the evening, this place has you covered.
 
@@ -89,7 +89,7 @@ Just a short drive from Ubud's city center, it's the perfect escape from the hus
 
 ## **The Unique Charm of Cretya Sunset**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0a6f380d109c63e4bbbcfbf662bf7dfd.jpg)
+![The Unique Charm of Cretya Sunset](https://images.gobaligo.id/vocus/vocus_0a6f380d109c63e4bbbcfbf662bf7dfd.jpg)
 
 Cretya Sunset is not just a day club, but a comprehensive experience that combines luxury, culture, and nature. Here are the facilities and activities you can enjoy here:
 
@@ -113,7 +113,7 @@ Adventure-loving travelers can participate in various outdoor activities offered
 
 Cretya also offers a range of cultural activities, including traditional Balinese cooking classes, art workshops, and temple visits, allowing you to gain a deeper understanding of Bali's rich culture.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_684bf5fc76c52a56cb3154d1d7ebe3a3.jpg)
+![5. Cultural Experiences](https://images.gobaligo.id/vocus/vocus_684bf5fc76c52a56cb3154d1d7ebe3a3.jpg)
 
 ---
 
@@ -127,7 +127,7 @@ Cretya Sunset by Alas Harum, Ubud is the perfect destination that combines luxur
 
 ## More Ubud Dining and Entertainment Recommendations
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
+![More Ubud Dining and Entertainment Recommendations](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
 [Click here for the complete Ubud guide!](/blog/ubud-guide/)
 

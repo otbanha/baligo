@@ -26,7 +26,7 @@ lang: id
 _srcHash: 43b0081549c4a1f5d85271ee68273e88
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4d890c56008750b221724ab34dc371a1.png)
+![【Destinasi Keluarga di Bali】Jungle Kids Bali Kids Club di Nu](https://images.gobaligo.id/vocus/vocus_4d890c56008750b221724ab34dc371a1.png)
 
 Di dalam **Nuanu Creative City** di Bali, ada sebuah ruang khusus untuk anak-anak bernama **Jungle Kids**. Ini bukan sekadar taman bermain biasa, melainkan tempat multifungsi yang menggabungkan eksplorasi, pembelajaran, dan pengalaman kreatif. Tempat ini menyediakan berbagai fasilitas bermain, mulai dari taman tali di luar ruangan hingga area bermain di dalam ruangan, serta lokakarya seni dan kerajinan tangan yang diadakan setiap hari, sehingga anak-anak bisa belajar sambil bermain dan mengembangkan kreativitas serta kemampuan bersosialisasi.
 
@@ -127,7 +127,7 @@ Kalau kamu lagi rencana liburan ke Bali bareng anak dan pengen ada aktivitas khu
 
 ## Lebih banyak spot di Nuanu Creative City
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bb0d733b3270a1b16dd953918caac13d.jpg)
+![Lebih banyak spot di Nuanu Creative City](https://images.gobaligo.id/vocus/vocus_bb0d733b3270a1b16dd953918caac13d.jpg)
 
 Nuanu Creative City adalah kawasan kreatif terbaru di Bali yang mengusung konsep zero carbon, jadi destinasi wisata berkelanjutan paling hits. Sekarang udah mulai menarik para kreator global, wajib masuk bucket list!
 

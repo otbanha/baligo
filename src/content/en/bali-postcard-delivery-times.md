@@ -37,7 +37,7 @@ _srcHash: 1cacde9c52f32e42bb58eed28746cd7c
 
 Have you ever been on a trip to Bali, eagerly written several postcards, dropped them into a mailbox or asked the hotel to mail them, only to wait forever after returning home, with no sign of the postcards?
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776055227572-17225212_387746f7-a12a-4c08-84ef-76a5c1f51d50_2048_2048.jpg_tplv-aphluv4xwc-white-pad-v1_1600_1600.jpeg)
+![How long does it take to send a postcard from Bali? Real exp](https://images.gobaligo.id/images/2026-04/1776055227572-17225212_387746f7-a12a-4c08-84ef-76a5c1f51d50_2048_2048.jpg_tplv-aphluv4xwc-white-pad-v1_1600_1600.jpeg)
 
 Don't worry, you're not alone!
 
@@ -69,7 +69,7 @@ Another person asked the front desk of a five-star hotel to mail a postcard for 
 
 Another netizen could only leave a resigned comment: 'None of them arrived later...'
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776055334513-d015eaa7e8d747c99159192428275ef1_tplv-aphluv4xwc-white-pad-v1_1600_1600.jpeg)
+![Cases of 'Lost at Sea'](https://images.gobaligo.id/images/2026-04/1776055334513-d015eaa7e8d747c99159192428275ef1_tplv-aphluv4xwc-white-pad-v1_1600_1600.jpeg)
 
 {{block:klook}}
 

@@ -85,7 +85,7 @@ https://www.youtube.com/watch?v=faJH5pOjzpo
 
 Kamu pikir itinerary mereka seru banget? Yuk, buruan atur liburan seru kamu ke Bali! Jangan lupa juga kirim itinerary kamu ke grup ya!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Tonton video lengkapnya](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Klik di sini buat lihat lebih banyak cerita perjalanan seru di Bali
 

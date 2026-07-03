@@ -21,13 +21,13 @@ Kalau kamu pikir Bali cuma soal pantai romantis, sunset, dan resort, kamu bakal 
 
 Artikel ini merangkum **spot terbaru 2025 untuk melihat dan ikut serta dalam kegiatan konservasi penyu**, dari Kuta sampai Sanur, semua lengkap!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_26115727e85f2aaed145a82a8c1916b5.jpg)
+![Panduan Lengkap Lihat Penyu di Bali: Dari Kuta ke Sanur, Spo](https://images.gobaligo.id/vocus/vocus_26115727e85f2aaed145a82a8c1916b5.jpg)
 
   ---
 
 ## 🐢 1️⃣ BSTS — Bali Sea Turtle Society (Kuta)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_10d8cb87fd3795c13748ec3da6d89767.jpg)
+![1⃣ BSTS — Bali Sea Turtle Society (Kuta)](https://images.gobaligo.id/vocus/vocus_10d8cb87fd3795c13748ec3da6d89767.jpg)
 
 📍 **Lokasi**: Tepi Pantai Kuta (Kuta Beach, lihat [peta panduan Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/))
 
@@ -52,7 +52,7 @@ Jadwal kegiatannya nggak tetap, **pantau terus IG atau Facebook resmi BSTS buat 
 
 ## 🐢 2️⃣ Sea Turtle Village (Sanur)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_653a7621066e1f56aaf7e49601283f11.jpg)
+![2⃣ Sea Turtle Village (Sanur)](https://images.gobaligo.id/vocus/vocus_653a7621066e1f56aaf7e49601283f11.jpg)
 
 📍 **Lokasi**: Sindhu Beach, Sanur. Cek [peta panduan Sanur](/blog/sanur-guide/)
 
@@ -75,7 +75,7 @@ Pagi atau sore hari paling enak buat mampir, sinar mataharinya lembut dan cocok 
 
 ## 🐢 3️⃣ Sindu Dwarawati Turtle Conservation Center (Sanur)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c3a5b550721e4545254d70c3406ea9f0.jpg)
+![3⃣ Sindu Dwarawati Turtle Conservation Center (Sanur)](https://images.gobaligo.id/vocus/vocus_c3a5b550721e4545254d70c3406ea9f0.jpg)
 
 📍 **Lokasi**: Sindhu Beach, Sanur. Cek posisinya di [panduan Sanur](/blog/sanur-guide/)
 
@@ -97,7 +97,7 @@ https://youtube.com/shorts/9EeW2YH0iY0
 
 ## 🐢 4️⃣ Serangan Island Turtle Conservation & Education Center (Pulau Penyu/Sanur)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_210d4b94f50f241c3bd9234150ff0593.jpg)
+![4⃣ Serangan Island Turtle Conservation & Education Center (P](https://images.gobaligo.id/vocus/vocus_210d4b94f50f241c3bd9234150ff0593.jpg)
 
 📍 **Lokasi**: Serangan Island (lepas pantai Sanur. Cek posisinya di [panduan Sanur](/blog/sanur-guide/))
 

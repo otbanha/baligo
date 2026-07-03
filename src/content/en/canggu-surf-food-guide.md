@@ -73,13 +73,13 @@ Canggu is a coastal village locally known as 'Kampung Bule,' where 'kampung' mea
 
 Canggu attracts foreigners to settle in the area, thanks to the proliferation of luxurious villas and reliable high-speed internet. These two factors have drawn many digital nomads who can work remotely to make this their home base. Canggu offers numerous coworking spaces equipped with fast internet, desks, and a work-friendly atmosphere. Additionally, many restaurants and cafes provide ideal spots for working online.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6e1a64061183f9d6f68721a785eeb899.jpg)
+![What is Canggu really like?](https://images.gobaligo.id/vocus/vocus_6e1a64061183f9d6f68721a785eeb899.jpg)
 
 [What else can you do in Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
 Canggu possesses a captivating charm, blending a touch of bohemian and hippie styles. This fusion of Bohemia and 70s Hippie culture is known as 'Boho Chic.' Boho Chic represents a fashionable, free-spirited lifestyle, evident in the roadside cafes, rental villas, apartments, and even the expats roaming the streets. Canggu exudes this Boho Chic vibe everywhere.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ffb02ea677f9abc576938a811cd06254.jpg)
+![What is Canggu really like?](https://images.gobaligo.id/vocus/vocus_ffb02ea677f9abc576938a811cd06254.jpg)
 
 The digital nomads settling in Canggu aren’t just internet-bound nerds! Canggu is also a paradise for fitness enthusiasts. Here, you can enjoy morning runs through expansive rice field paths, immersing yourself in nature. Every morning, the streets are filled with joggers.
 
@@ -91,7 +91,7 @@ This physique won’t look cool while surfing
 
 ## Surfing in Canggu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1292b0d5576cbd014063f58cf1ee47e4.jpg)
+![Surfing in Canggu](https://images.gobaligo.id/vocus/vocus_1292b0d5576cbd014063f58cf1ee47e4.jpg)
 
 [What else can you do in Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
@@ -109,7 +109,7 @@ To help you navigate Canggu without getting lost, we've specially created a comp
 
 Ready to embark on a Canggu adventure? Below is a link to an exciting map of Canggu, Bali. Don't forget to save it to make your Bali journey even more enriching and fulfilling!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf5fcaa065da06946a4591707d1e05be.jpg)
+![50 Must-Visit Spots & Cafes in Canggu](https://images.gobaligo.id/vocus/vocus_bf5fcaa065da06946a4591707d1e05be.jpg)
 
 ## Further Reading
 

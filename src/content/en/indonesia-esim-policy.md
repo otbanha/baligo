@@ -26,7 +26,7 @@ With the rapid development of mobile technology, the Indonesian government is pr
 
 While the adoption of eSIM technology is seen as a positive step forward, the new policy limiting the number of SIM cards may complicate mobile phone usage for foreigners in Indonesia.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c092bff8309cf706ba1895ecc3468d9d.jpg)
+![Indonesia's New Mobile Communication Policy: eSIM and SIM Ca](https://images.gobaligo.id/vocus/vocus_c092bff8309cf706ba1895ecc3468d9d.jpg)
 
 ## 🔍 eSIM Technology Emerges as a New Trend in Indonesian Mobile Communication
 

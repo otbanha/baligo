@@ -15,7 +15,7 @@ lang: zh-hk
 _srcHash: fd6dc5f050a200db5d4db3dbee11336a
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_055e134951ab6017808fda25010fb9d3.jpg)
+![峇里島洞穴漂流河探險記：Nukuwera River Tubing嘅親子冒險之旅](https://images.gobaligo.id/vocus/vocus_055e134951ab6017808fda25010fb9d3.jpg)
 
 ## 行前準備與預約
 
@@ -44,7 +44,7 @@ _srcHash: fd6dc5f050a200db5d4db3dbee11336a
 
 ## 洞穴探險與漂流體驗
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e9b2be803404579b2db6d3b25ee4f683.jpg)
+![洞穴探險與漂流體驗](https://images.gobaligo.id/vocus/vocus_e9b2be803404579b2db6d3b25ee4f683.jpg)
 
 **漂流路線亮點**：
 

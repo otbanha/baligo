@@ -14,7 +14,7 @@ lang: zh-cn
 _srcHash: fe53cedde55a5fea14acec548ac86ddc
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f0c03f764badb198fc2e90c575d202a6.jpg)
+![乌布的颂钵疗愈/音疗 Ubud Sound Healing/Singing Bowl Meditation](https://images.gobaligo.id/vocus/vocus_f0c03f764badb198fc2e90c575d202a6.jpg)
 
 乌布是寻求身心灵疗愈的理想圣地。颂钵疗愈（singing bowl meditation）在这座“众神之岛”上已成为热门的养生体验，结合了古老的声音疗法与巴厘岛独特的灵性氛围。当铜制颂钵被轻柔敲击或摩擦时，会产生深沉而和谐的共鸣音频，这些声波能穿透身体，帮助释放压力、平衡脉轮，并引导参与者进入深度冥想状态。在巴厘岛的热带雨林中、稻田边或河谷旁体验颂钵疗愈，更能让人与自然的能量产生共鸣，达到身心灵的完整放松。
 
@@ -49,7 +49,7 @@ _srcHash: fe53cedde55a5fea14acec548ac86ddc
 
 在活动开始前或结束后，老师可能会说这些话：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a6052ec2cda08abdf74e460afd4e53a8.png)
+![2. 您只需要听懂这几个关键词（指令）](https://images.gobaligo.id/vocus/vocus_a6052ec2cda08abdf74e460afd4e53a8.png)
 
 ### 3. 注意事项与小建议
 
@@ -63,7 +63,7 @@ _srcHash: fe53cedde55a5fea14acec548ac86ddc
 
 ## 💡 参加音疗的小技巧（2026 版）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0637db6806040294fe1d22fd68ddf89f.jpg)
+![参加音疗的小技巧（2026 版）](https://images.gobaligo.id/vocus/vocus_0637db6806040294fe1d22fd68ddf89f.jpg)
 
 - **穿着建议：** 请穿着**舒适、宽松且保暖**的衣服。虽然巴厘岛很热，但音疗时身体静止不动，且室内通常有风扇，躺久了会冷（加上入睡后体温会下降），记得盖上现场提供的毯子。
 - **淡季优势：** 淡季参加这类课程，原本可能挤满 30 人的教室，可能只有 10 人。空间变大、干扰减少，你更能深刻感受到颂钵震动的波长。

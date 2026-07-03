@@ -27,7 +27,7 @@ _srcHash: 7f9be073f53d8674cc4d1e70ae74b712
 
 根據印尼移民總局嘅最新公告，你嘅印尼電子落地簽證（eVisa/e-VoA）一旦申請同核發後，**可唔可以修改要睇返錯誤嘅欄位**。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7fbe71f8afe8094370bc8e00d775dc60.png)
+![最新規定要留意：](https://images.gobaligo.id/vocus/vocus_7fbe71f8afe8094370bc8e00d775dc60.png)
 
 ## **關鍵資料出錯：冇得改，必須重新申請**
 
@@ -59,7 +59,7 @@ _srcHash: 7f9be073f53d8674cc4d1e70ae74b712
 3. **非關鍵資料錯誤：** 如果係性別、出生地等次要資訊錯誤，你可以衡量風險。雖然官方表示仍可使用，但為求心安，特別係若你嘅行程緊湊或有重要商務安排，建議仍重新申請一份。
 4. **聯繫官方管道：** 若你有任何疑問，建議直接透過印尼移民總局嘅官方聯繫方式尋求協助。但請注意，根據目前規定，佢哋亦無法為你修改已核發嘅eVisa上嘅關鍵資料。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ee608e06a5095bab9988e48785dd299.png)
+![處理步驟總結](https://images.gobaligo.id/vocus/vocus_6ee608e06a5095bab9988e48785dd299.png)
 
 ## **重要提醒：**
 

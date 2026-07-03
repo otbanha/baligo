@@ -25,7 +25,7 @@ _srcHash: 0a8df6492031c52ed16cbfe703324582
 
 For the third waterfall in our Bali travelogue, we ventured near Ubud. After a two-hour drive, we arrived at Tukad Cepung Waterfall, hailed as 'Bali's Fairyland.' This hidden gem amidst magnificent natural scenery is an absolute must-visit on your journey.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9435703db785ef061430027306ad4885.jpg)
+![Is this fairy-tale waterfall in Bali worth visiting? Tukad C](https://images.gobaligo.id/vocus/vocus_9435703db785ef061430027306ad4885.jpg)
 
 Whether you're a photography enthusiast or a seeker of natural landscapes, Tukad Cepung Waterfall will meet every one of your expectations. Before this mystical natural treasure, time and light intertwine to create breathtaking scenes.
 

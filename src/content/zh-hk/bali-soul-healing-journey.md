@@ -20,25 +20,25 @@ _srcHash: 0836ad54a0039aa3b0bd558425851ce6
 ---
 **薔薔嘅靈性冒險：深入峇里島巫醫嘅神秘世界**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8c36c6cc8383b2e0dc0007e55495753d.jpg)
+![薔薔嘅峇里島靈魂之旅！巫醫落淚揭示腫瘤預兆，禁地真相震撼公開](https://images.gobaligo.id/vocus/vocus_8c36c6cc8383b2e0dc0007e55495753d.jpg)
 
 峇里島，呢片被眾神眷顧嘅土地，總有一種講唔出嘅召喚力。今次，鏡頭入面嘅薔薔選擇放下度假式嘅輕鬆，踏上通往內在與靈魂深處嘅旅程。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e43a0159370c6691adb3926c279afea7.jpg)
+![薔薔嘅峇里島靈魂之旅！巫醫落淚揭示腫瘤預兆，禁地真相震撼公開](https://images.gobaligo.id/vocus/vocus_e43a0159370c6691adb3926c279afea7.jpg)
 
 佢嘅影片從山中神廟展開——一場聖水淨化儀式。鏡頭跟住佢慢慢行入水池，清澈嘅泉水由頭頂沖落，每一滴水彷彿都帶住祝福。佢雙手合十，閂埋眼，俾水聲包圍自己。呢一刻，成個世界靜咗落嚟，淨返心跳同水聲，令觀眾彷彿都感受到嗰份來自自然嘅力量。
 
 跟住，佢帶住一顆開放嘅心去同巫醫會面。畫面入面嘅巫醫靜坐喺一個充滿祭品同香草嘅空間入面，身邊擺放住頌缽同神秘嘅占卜道具。佢唔多講嘢，淨係叫薔薔閂埋眼，輕聲唱誦古老嘅咒語，然後用頌缽嘅震動為佢掃描身體能量。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_86db64818390af12b6873c8df1d347d4.jpg)
+![薔薔嘅峇里島靈魂之旅！巫醫落淚揭示腫瘤預兆，禁地真相震撼公開](https://images.gobaligo.id/vocus/vocus_86db64818390af12b6873c8df1d347d4.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c4be50f6ec30e47a9969a648eae7dd23.jpg)
+![薔薔嘅峇里島靈魂之旅！巫醫落淚揭示腫瘤預兆，禁地真相震撼公開](https://images.gobaligo.id/vocus/vocus_c4be50f6ec30e47a9969a648eae7dd23.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b6bceda4fe381e47ec1566cc154bb07b.jpg)
+![薔薔嘅峇里島靈魂之旅！巫醫落淚揭示腫瘤預兆，禁地真相震撼公開](https://images.gobaligo.id/vocus/vocus_b6bceda4fe381e47ec1566cc154bb07b.jpg)
 
 影片入面，薔薔嘅神情逐漸由緊張轉為安定。巫醫以通靈嘅方式，指出佢身體內潛藏嘅不適同情緒壓力，佢嘅眼神微微泛紅，彷彿嗰啲說話觸碰咗某種內在嘅真相。成段療癒過程既古老又神秘，但係令人無法移開視線。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_019090629928b2a9907f9df22d2503fb.jpg)
+![薔薔嘅峇里島靈魂之旅！巫醫落淚揭示腫瘤預兆，禁地真相震撼公開](https://images.gobaligo.id/vocus/vocus_019090629928b2a9907f9df22d2503fb.jpg)
 
 隔日，薔薔去咗Trunyan村。嗰度係一個連車都去唔到嘅地方，必須乘船穿越湖泊先至可以抵達。呢度冇火葬，亦冇土葬，逝者嘅遺體被安放喺神樹下，任由自然風化，靈魂則由神明引渡。
 

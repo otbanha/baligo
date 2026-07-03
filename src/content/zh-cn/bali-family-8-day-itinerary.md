@@ -96,14 +96,14 @@ _srcHash: 34c96dfc2cd43e703f4101ecd10a745b
 
 我们住在FOX Hotel Jimbaran Beach，这家酒店的地理位置非常便利，步行即可到达金巴兰沙滩。酒店的顶楼有一个无边泳池，还有一个儿童戏水区，为这次旅行增添了许多乐趣。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776002658009-231356395.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776002658483-514336253.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776002658895-536125008.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776002659326-536125026.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776002659835-mixcollage-28-may-2024-09-07-am-8761.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776002660296-206614677.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776002660718-231354323.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776002661166-231354923.jpeg)
+![住宿 - FOX Hotel Jimbaran Beach](https://images.gobaligo.id/images/2026-04/1776002658009-231356395.jpeg)
+![住宿 - FOX Hotel Jimbaran Beach](https://images.gobaligo.id/images/2026-04/1776002658483-514336253.jpeg)
+![住宿 - FOX Hotel Jimbaran Beach](https://images.gobaligo.id/images/2026-04/1776002658895-536125008.jpeg)
+![住宿 - FOX Hotel Jimbaran Beach](https://images.gobaligo.id/images/2026-04/1776002659326-536125026.jpeg)
+![住宿 - FOX Hotel Jimbaran Beach](https://images.gobaligo.id/images/2026-04/1776002659835-mixcollage-28-may-2024-09-07-am-8761.jpg)
+![住宿 - FOX Hotel Jimbaran Beach](https://images.gobaligo.id/images/2026-04/1776002660296-206614677.jpeg)
+![住宿 - FOX Hotel Jimbaran Beach](https://images.gobaligo.id/images/2026-04/1776002660718-231354323.jpeg)
+![住宿 - FOX Hotel Jimbaran Beach](https://images.gobaligo.id/images/2026-04/1776002661166-231354923.jpeg)
 
 ▶[FOX Hotel Jimbaran Beach订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3121957) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6371074&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6y8zFJMEk9YyZ4_KR3XfYhBiNDM6yWayOcDQGAecUB88dcq2vA3dkOATwzGBsetfCvIKRcSOjyDr3h1VXHB12MDKdYJzOvoDp5Jld_KdYmDmWMV5i-cwUXa2UnVqpZGWio1SSWZKTqmSl9HTRvKcNe56vaFXSUUpJLU4GCgFZibn5pXklQLaFsZ6BAVCgJLHCMwWsMTkxJ7k0J7EkNaSyAGiAmY5SZrFzSVFmQVBqbmZJSSpQVVpiTnEqSDwotRgokwwWVPIDGlMEFcjMz4NoN0QRC0vMKU2FuABooVsq1A7DWh1Mhz-b0_u0e-aLTbuJcrg5tR1uQIzDjWtjH7EwRcd-YmH4xcLQxMrQxcowiZWZYzr7Llae4BAjX-8gXUPdKF1DKXlDAwMDU0NjU1Ndg0TLRFPjZENdE0sTI3NDXSMTUyMzja3dH288MTaylmKdcuD5NHYFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbJbGrs7GjlE2XMyhwS6C6VefZ2mbSTtIMYeEuyhODrrwVrX3tL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD4SJp_EWpWhGxKe0StewNjAyNTFyC3A6MEYwVgB5DGuYmTnYjYwMhRg2sDIuIPxPwwwvmIEWQIAYN9JO9kCAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-24526&detailFilters=17|1~17~1*31|6371074~31~6371074*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=900&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687)
 
@@ -151,7 +151,7 @@ Mei Chen提供：乌鲁瓦图庙和卡恰火舞表演
 
 **乌鲁瓦图VW敞篷车观光之旅**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996096488-vw.jpeg)
+![编辑推荐](https://images.gobaligo.id/images/2026-04/1775996096488-vw.jpeg)
 
 乘坐VW敞篷车游览南巴厘岛！途中停留Padang-Padang和Pandawa海滩，欣赏美景，抵达乌鲁瓦图寺观赏日落，享受金巴兰海鲜晚餐。套餐含接送、司机及燃料，无后顾之忧，尽情沉浸在巴厘岛的美好中！
 
@@ -161,21 +161,21 @@ Mei Chen提供：乌鲁瓦图庙和卡恰火舞表演
 
 ### 住宿 - Prime Plaza Hotel Sanur
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996236502-58641778.jpeg)
+![住宿 - Prime Plaza Hotel Sanur](https://images.gobaligo.id/images/2026-04/1775996236502-58641778.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996237108-58641637.jpeg)
+![住宿 - Prime Plaza Hotel Sanur](https://images.gobaligo.id/images/2026-04/1775996237108-58641637.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996237536-58642116.jpeg)
+![住宿 - Prime Plaza Hotel Sanur](https://images.gobaligo.id/images/2026-04/1775996237536-58642116.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996237989-58642361.jpeg)
+![住宿 - Prime Plaza Hotel Sanur](https://images.gobaligo.id/images/2026-04/1775996237989-58642361.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996238467-60088489.jpeg)
+![住宿 - Prime Plaza Hotel Sanur](https://images.gobaligo.id/images/2026-04/1775996238467-60088489.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996238822-60088664.jpeg)
+![住宿 - Prime Plaza Hotel Sanur](https://images.gobaligo.id/images/2026-04/1775996238822-60088664.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996239320-60088847.jpeg)
+![住宿 - Prime Plaza Hotel Sanur](https://images.gobaligo.id/images/2026-04/1775996239320-60088847.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996239850-60089430.jpeg)
+![住宿 - Prime Plaza Hotel Sanur](https://images.gobaligo.id/images/2026-04/1775996239850-60089430.jpeg)
 
 晚上，我们入住Prime Plaza Hotel Sanur - Bali。这家酒店非常适合隔天要跳岛的人，步行几分钟就可以抵达沙努尔的新港口。泳池设有儿童戏水区，适合带孩子的家庭。不过，我们退房时把泳圈遗留在房间，三个小时后询问时被告知没看到，这点让我们有些失望，酒店在这方面的服务有待改进。
 
@@ -216,21 +216,21 @@ https://youtu.be/SpcgZ4iK7qs
 
 ### 住宿 - RV Hotel Kutus Kutus
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996479076-480073976.jpeg)
+![住宿 - RV Hotel Kutus Kutus](https://images.gobaligo.id/images/2026-04/1775996479076-480073976.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996479576-478163509.jpeg)
+![住宿 - RV Hotel Kutus Kutus](https://images.gobaligo.id/images/2026-04/1775996479576-478163509.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996479996-478163836.jpeg)
+![住宿 - RV Hotel Kutus Kutus](https://images.gobaligo.id/images/2026-04/1775996479996-478163836.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996480437-478166477.jpeg)
+![住宿 - RV Hotel Kutus Kutus](https://images.gobaligo.id/images/2026-04/1775996480437-478166477.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996481285-478166779.jpeg)
+![住宿 - RV Hotel Kutus Kutus](https://images.gobaligo.id/images/2026-04/1775996481285-478166779.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996482027-478166787.jpeg)
+![住宿 - RV Hotel Kutus Kutus](https://images.gobaligo.id/images/2026-04/1775996482027-478166787.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996482432-478166853.jpeg)
+![住宿 - RV Hotel Kutus Kutus](https://images.gobaligo.id/images/2026-04/1775996482432-478166853.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775996483008-478166879.jpeg)
+![住宿 - RV Hotel Kutus Kutus](https://images.gobaligo.id/images/2026-04/1775996483008-478166879.jpeg)
 
 今晚我们入住乌布的RV Hotel Kutus Kutus，每间房价约13美元，不包含早餐，因为加早餐的费用比住宿费还贵，这让我们忍俊不禁。房间很新，顶楼有无边泳池，还有儿童戏水区。唯一的缺点是房间隔音不好，但以这个价格来说，还是非常划算。浅眠的人可能需要注意这一点。
 
@@ -278,21 +278,21 @@ https://youtube.com/shorts/sVxycGvyT9w
 
 ### 住宿 - Batur view Homestay
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776000716039-322825283.jpeg)
+![住宿 - Batur view Homestay](https://images.gobaligo.id/images/2026-04/1776000716039-322825283.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776000716450-322827260.jpeg)
+![住宿 - Batur view Homestay](https://images.gobaligo.id/images/2026-04/1776000716450-322827260.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776000716899-427989442.jpeg)
+![住宿 - Batur view Homestay](https://images.gobaligo.id/images/2026-04/1776000716899-427989442.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776000717321-427991972.jpeg)
+![住宿 - Batur view Homestay](https://images.gobaligo.id/images/2026-04/1776000717321-427991972.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776000717792-427993437.jpeg)
+![住宿 - Batur view Homestay](https://images.gobaligo.id/images/2026-04/1776000717792-427993437.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776000718246-536396852.jpeg)
+![住宿 - Batur view Homestay](https://images.gobaligo.id/images/2026-04/1776000718246-536396852.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776000718629-536396871.jpeg)
+![住宿 - Batur view Homestay](https://images.gobaligo.id/images/2026-04/1776000718629-536396871.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776000719411-271570947.jpeg)
+![住宿 - Batur view Homestay](https://images.gobaligo.id/images/2026-04/1776000719411-271570947.jpeg)
 
 > ▶[Batur view Homestay订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8927154)
 
@@ -352,7 +352,7 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 可以试试看同一个集团另一家 Bebek Tebasari Resto 的脏鸭饭喔：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc3b7c4acc8c1fc58855d174cb296195.png)
+![Tebasari Resto, Bar & Lounge](https://images.gobaligo.id/vocus/vocus_bc3b7c4acc8c1fc58855d174cb296195.png)
 
 ▶Klook 的 [Tebasari Resto 用餐优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90448-dining-experience-bebek-tebasari-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D3d66f7452f)
 
@@ -368,14 +368,14 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 ### 住宿 - Dwaraka The Royal Villas
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001204754-54688216.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001205313-54688362.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001205737-167328260.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001206210-167328359.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001206629-167328401.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001207028-174091542.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001207455-174101622.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001208052-54688182.jpeg)
+![住宿 - Dwaraka The Royal Villas](https://images.gobaligo.id/images/2026-04/1776001204754-54688216.jpeg)
+![住宿 - Dwaraka The Royal Villas](https://images.gobaligo.id/images/2026-04/1776001205313-54688362.jpeg)
+![住宿 - Dwaraka The Royal Villas](https://images.gobaligo.id/images/2026-04/1776001205737-167328260.jpeg)
+![住宿 - Dwaraka The Royal Villas](https://images.gobaligo.id/images/2026-04/1776001206210-167328359.jpeg)
+![住宿 - Dwaraka The Royal Villas](https://images.gobaligo.id/images/2026-04/1776001206629-167328401.jpeg)
+![住宿 - Dwaraka The Royal Villas](https://images.gobaligo.id/images/2026-04/1776001207028-174091542.jpeg)
+![住宿 - Dwaraka The Royal Villas](https://images.gobaligo.id/images/2026-04/1776001207455-174101622.jpeg)
+![住宿 - Dwaraka The Royal Villas](https://images.gobaligo.id/images/2026-04/1776001208052-54688182.jpeg)
 
 今晚我们入住Dwaraka The Royal Villas，这里的房价含早餐、下午茶、免费足部按摩、每小时一趟市区接送，房间内还有饼干、水果和免费饮料。这是一个非常超值的酒店，提供了各种设施和服务，好像就住在乌布的皇宫里！绝对是这趟旅行中最值得推荐的住宿地点。房价约两千出头，如果选择四人房两层别墅含私人泳池则约四千台币（约USD$129）。这里还有两个大众泳池，儿童戏水区和kids club，是个适合家庭的好选择。
 
@@ -476,10 +476,10 @@ Mei Chen提供。左：布拉坦水神庙；右：海神庙
 
 晚上我们入住了Potato Head Suites & Studios，这是全世界排名第四十的酒店，我们特地选择来体验一下。房间的大小和高档酒店相比稍嫌小了一些，但是可能是因为酒店都是用环保材质打造的，这也是它得名的原因之一吧。入住时赠送了保温瓶，退房时送了手链。这个酒店更适合年轻人，喜欢去club享受热闹气氛的人，因为附近就有著名的Potato Head Beach Club。如果是家庭旅行，也许可以考虑其他选择，不过这里有无边泳池和儿童戏水区，对一些家庭来说也是不错的选择。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001753497-387638706.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001753970-471283622.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001754419-e3204ec0800e916edf23f797cc303446.webp)
-![raw-image](https://images.gobaligo.id/images/2026-04/1776001754869-82e01e7689645bb571f09e6a15fb1bb4.jpeg)
+![Potato Head Suites & Studios](https://images.gobaligo.id/images/2026-04/1776001753497-387638706.jpeg)
+![Potato Head Suites & Studios](https://images.gobaligo.id/images/2026-04/1776001753970-471283622.jpeg)
+![Potato Head Suites & Studios](https://images.gobaligo.id/images/2026-04/1776001754419-e3204ec0800e916edf23f797cc303446.webp)
+![Potato Head Suites & Studios](https://images.gobaligo.id/images/2026-04/1776001754869-82e01e7689645bb571f09e6a15fb1bb4.jpeg)
 
 ▶[Potato Head Suites & Studios订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11295575) [Booking](https://booking.tpm.li/P2lxvZpf)
 

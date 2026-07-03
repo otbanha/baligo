@@ -36,7 +36,7 @@ _srcHash: 61483f8ff7a4b8bf00b51ec47949a2ad
 
 ## 🆕 Opening June 2026｜Ubud Jungle Organic Farm Luxury Hideaway - Sanggraloka Ubud
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513260709-1mc0812000p1vcdvd6973_w_1280_853_r5.webp)
+![Opening June 2026｜Ubud Jungle Organic Farm Luxury Hideaway -](https://images.gobaligo.id/images/2026-06/1781513260709-1mc0812000p1vcdvd6973_w_1280_853_r5.webp)
 
 Payangan, the highlands of North Ubud, has long been renowned for its deeper tropical jungle vibe compared to central Ubud. In May 2026, a brand-new resort seamlessly blending 'luxury accommodation' with 'organic farm living' was born here—**Sanggraloka Ubud** grandly opened on May 31, 2026, making it one of Bali's newest five-star resorts. Centered on a sustainable farm, this resort combines farm-to-table dining philosophy with Balinese local culture, offering an immersive stay that balances healing and nature.
 
@@ -44,7 +44,7 @@ Payangan, the highlands of North Ubud, has long been renowned for its deeper tro
 
 ### 📍 Location & Surroundings
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513338926-0226612000oy42u9o5345_w_1280_853_r5.webp)
+![Location & Surroundings](https://images.gobaligo.id/images/2026-06/1781513338926-0226612000oy42u9o5345_w_1280_853_r5.webp)
 
 Sanggraloka Ubud is located on Jl. Raya Bresela in Payangan, with nearby attractions including Jungle Swing (about 16 minutes by car) and the famous Tegallalang Rice Terrace (about 16 minutes by car), as well as Aloha Ubud Swing (about 17 minutes). It's roughly a 15-minute drive from central Ubud—while the location is serene, access to the town center remains convenient. Payangan is lush with dense forests and crisscrossing river valleys, making it a top choice for travelers seeking deep mountain hideaways.
 
@@ -54,15 +54,15 @@ Sanggraloka Ubud is located on Jl. Raya Bresela in Payangan, with nearby attract
 
 Sanggraloka Ubud positions itself as a fusion of 'luxury, culture, and organic farm living,' where travelers seeking relaxation, adventure, or deep Balinese cultural experiences can find their own rhythm.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513373760-1mc2l12000poe3l392156_w_1280_853_r5.webp)
+![Facilities Overview](https://images.gobaligo.id/images/2026-06/1781513373760-1mc2l12000poe3l392156_w_1280_853_r5.webp)
 
 The resort features two swimming pools surrounded by tropical gardens, perfect for leisurely swims under the Balinese sun. The rooftop terrace offers panoramic views of the Payangan valley, where guests can enjoy expertly crafted cocktails. The spa offers treatments like hot stone massages and body wraps, allowing complete relaxation amidst the jungle.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513405660-0221s12000p80y955ef27_w_1280_853_r5.webp)
+![Facilities Overview](https://images.gobaligo.id/images/2026-06/1781513405660-0221s12000p80y955ef27_w_1280_853_r5.webp)
 
 The resort's farm is a standout feature: it includes an organic orchard, a vegetable eco-farm, and a small butterfly garden, showcasing Bali's local ecology. Harvested ingredients are supplied directly to the resort's restaurants, creating a true farm-to-table experience. Dining options include two restaurants and one café, with menus featuring Indonesian and international cuisine, earning high praise.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513428141-1mc0512000p1v4wqs8d67_w_1280_853_r5.webp)
+![Facilities Overview](https://images.gobaligo.id/images/2026-06/1781513428141-1mc0512000p1v4wqs8d67_w_1280_853_r5.webp)
 
 Evening cultural experiences are a highlight. The resort regularly hosts traditional Balinese dance performances and gamelan music shows, allowing guests to soak in Ubud's cultural soul amidst the jungle atmosphere without leaving the property. Additionally, cooking classes are one of the resort's signature activities, perfect for travelers who want to take a taste of Bali home with them.
 
@@ -74,28 +74,28 @@ Other facilities include: BBQ area, outdoor picnic space, gift shop, and a lobby
 
 The room selection is diverse, ranging from Deluxe Room, Premiere Suite, to Deluxe Private Pool Villa, Premiere Private Pool Villa (two-story design with private pool), as well as one-bedroom and two-bedroom Presidential Pool Villas—everything you need.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513559571-1mc4e12000p6jzw3z9944_w_1280_853_r5.webp)
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513560059-1mc4v12000p6kegc45b12_w_1280_853_r5.webp)
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513560480-1mc6r12000p6kejaw13d7_w_1280_853_r5.webp)
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513560882-1mc0112000p6khg21a161_w_1280_853_r5.webp)
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513561245-1mc1012000p6ket3kcc69_w_1280_853_r5.webp)
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513561680-1mc0d12000p6kgxyj634b_w_1280_853_r5.webp)
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513562113-1mc1z12000p6kh64d03bc_w_1280_853_r5.webp)
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513562490-1mc2n12000p6kh2o77c18_w_1280_853_r5.webp)
+![Room Types](https://images.gobaligo.id/images/2026-06/1781513559571-1mc4e12000p6jzw3z9944_w_1280_853_r5.webp)
+![Room Types](https://images.gobaligo.id/images/2026-06/1781513560059-1mc4v12000p6kegc45b12_w_1280_853_r5.webp)
+![Room Types](https://images.gobaligo.id/images/2026-06/1781513560480-1mc6r12000p6kejaw13d7_w_1280_853_r5.webp)
+![Room Types](https://images.gobaligo.id/images/2026-06/1781513560882-1mc0112000p6khg21a161_w_1280_853_r5.webp)
+![Room Types](https://images.gobaligo.id/images/2026-06/1781513561245-1mc1012000p6ket3kcc69_w_1280_853_r5.webp)
+![Room Types](https://images.gobaligo.id/images/2026-06/1781513561680-1mc0d12000p6kgxyj634b_w_1280_853_r5.webp)
+![Room Types](https://images.gobaligo.id/images/2026-06/1781513562113-1mc1z12000p6kh64d03bc_w_1280_853_r5.webp)
+![Room Types](https://images.gobaligo.id/images/2026-06/1781513562490-1mc2n12000p6kh2o77c18_w_1280_853_r5.webp)
 
 ▲Premiere Suite with Valley View
 
 Each room type comes with a valley-view balcony. The Premiere Suite is approximately 87 square meters, the Deluxe Private Pool Villa is about 137 square meters, and the top-tier Premiere Private Pool Villa is also around 137 square meters.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513633878-unnamed_1_.webp)
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513634291-1mc2h12000p6jrze46041_w_1280_853_r5.webp)
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513634723-1mc3m12000s0w5pbv5970_w_1280_853_r5.webp)
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513635132-1mc4h12000s0w5optc34c_w_1280_853_r5.webp)
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513635447-1mc1312000s0w6jy5e527_w_1280_853_r5.webp)
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513635848-1mc3112000s0w5l6he366_w_1280_853_r5.webp)
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513636269-1mc4112000s0w66l9b4d9_w_1280_853_r5.webp)
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513636768-1mc6112000s0w6c2a5401_w_1280_853_r5.webp)
-![raw-image](https://images.gobaligo.id/images/2026-06/1781513637123-unnamed.webp)
+![Room Types](https://images.gobaligo.id/images/2026-06/1781513633878-unnamed_1_.webp)
+![Room Types](https://images.gobaligo.id/images/2026-06/1781513634291-1mc2h12000p6jrze46041_w_1280_853_r5.webp)
+![Room Types](https://images.gobaligo.id/images/2026-06/1781513634723-1mc3m12000s0w5pbv5970_w_1280_853_r5.webp)
+![Room Types](https://images.gobaligo.id/images/2026-06/1781513635132-1mc4h12000s0w5optc34c_w_1280_853_r5.webp)
+![Room Types](https://images.gobaligo.id/images/2026-06/1781513635447-1mc1312000s0w6jy5e527_w_1280_853_r5.webp)
+![Room Types](https://images.gobaligo.id/images/2026-06/1781513635848-1mc3112000s0w5l6he366_w_1280_853_r5.webp)
+![Room Types](https://images.gobaligo.id/images/2026-06/1781513636269-1mc4112000s0w66l9b4d9_w_1280_853_r5.webp)
+![Room Types](https://images.gobaligo.id/images/2026-06/1781513636768-1mc6112000s0w6c2a5401_w_1280_853_r5.webp)
+![Room Types](https://images.gobaligo.id/images/2026-06/1781513637123-unnamed.webp)
 
 ▲Premiere Private Pool Villa
 

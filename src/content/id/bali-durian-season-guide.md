@@ -40,7 +40,7 @@ _srcHash: 861edd1f78bb96600434d414a80a2d3d
 ---
 Kalau kamu pecinta durian, datang ke Bali harus pilih waktu yang pas. Soalnya kalau salah momen, bisa cuma nyium baunya doang tanpa bisa nikmatin versi 'melimpah' 😂
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775544264541-balipostcom_unik-ada-tradisi-persembahan-durian-di-sidatapa_01.jpg)
+![Bali Musim Durian Lengkap｜Kapan Paling Wangi dan Termurah?](https://images.gobaligo.id/images/2026-04/1775544264541-balipostcom_unik-ada-tradisi-persembahan-durian-di-sidatapa_01.jpg)
 
 ## 📅 Musim Durian di Bali
 
@@ -78,7 +78,7 @@ Saran gue sih gini👇:
 - Kadang ada 'musim panen kecil gelombang kedua'
 - Tapi kualitas dan jumlahnya nggak stabil
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775544297904-banyuwnagi-durian.jpg)
+![Traveler tipe 'ikut arus'](https://images.gobaligo.id/images/2026-04/1775544297904-banyuwnagi-durian.jpg)
 
 ***
 

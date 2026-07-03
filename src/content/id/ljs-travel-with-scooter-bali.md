@@ -35,25 +35,25 @@ Kali ini gue mau cerita pengalaman **trip motor 🛵 8 hari 7 malam di Bali** ba
 
 **Hari pertama**: Sampai hotel sore hari, kami nggak buang waktu, langsung sewa motor buat mulai petualangan. Pertama-tama muter-muter di sekitar Kuta dan Seminyak, biar familiar sama jalanan dan suasana lalu lintas. Makan malam kami pilih **Restoran Wahaha** yang cukup terkenal di sini. Iga babi panggang (pork ribs) mereka juara banget, dagingnya empuk dan berair, cocok buat dimakan puas-puas. Malam itu kami nginep di **The Vira Bali Boutique Hotel**, lokasinya di Kuta, dekat banget sama bandara, cocok buat traveler yang baru sampai hari pertama. Hotelnya juga kasih layanan antar jemput gratis, plus kopi dan camilan gratis dari jam 6 sore sampai jam 10 malam, bisa santai setelah seharian jalan.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171688441-92ac7a236afb823166029581e3f4542e.jpeg)
+![Menginap di Kuta](https://images.gobaligo.id/images/2026-04/1777171688441-92ac7a236afb823166029581e3f4542e.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171688909-92cc881f5c5d8162d3e20ba302a90015.jpeg)
+![Menginap di Kuta](https://images.gobaligo.id/images/2026-04/1777171688909-92cc881f5c5d8162d3e20ba302a90015.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171689286-1651ee6659d8864b74b81c2060c1ce30.jpeg)
+![Menginap di Kuta](https://images.gobaligo.id/images/2026-04/1777171689286-1651ee6659d8864b74b81c2060c1ce30.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171689770-141792786.jpg)
+![Menginap di Kuta](https://images.gobaligo.id/images/2026-04/1777171689770-141792786.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171690487-239860481.jpg)
+![Menginap di Kuta](https://images.gobaligo.id/images/2026-04/1777171690487-239860481.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171690911-239860488.jpg)
+![Menginap di Kuta](https://images.gobaligo.id/images/2026-04/1777171690911-239860488.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171691424-ae8738ab06b22a577a21079d18d30d6b.jpeg)
+![Menginap di Kuta](https://images.gobaligo.id/images/2026-04/1777171691424-ae8738ab06b22a577a21079d18d30d6b.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171691917-5f6e9c7c0d3fc8a4d10ad15b74ac78ca.jpeg)
+![Menginap di Kuta](https://images.gobaligo.id/images/2026-04/1777171691917-5f6e9c7c0d3fc8a4d10ad15b74ac78ca.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171692566-29aa537e3e2535b826762a3187c43ac8.jpeg)
+![Menginap di Kuta](https://images.gobaligo.id/images/2026-04/1777171692566-29aa537e3e2535b826762a3187c43ac8.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777171693005-77ac71c0668340ca08fff167e84b6e5b.jpeg)
+![Menginap di Kuta](https://images.gobaligo.id/images/2026-04/1777171693005-77ac71c0668340ca08fff167e84b6e5b.jpeg)
 
 > ▶[**Cek Ketersediaan Kamar & Harga The Vira Bali Boutique Hotel**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=49780) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685252&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawcLFJMEkNZGFo2P15NcsQuyGpmYGhgZGBguFLW5XOB7-qhHT35Xv4LlDrvV14J5ihwCeiCkHnk9jTywov5a3e4WjQxcjK1hgBuORl5orGBk3MoKV7vB32MHIdICR6QTjXu4FTB9P9-mdYmHmWMZ0ieUrU3S1UnZqpZKViY5SSWZJTqqSldLTRfOeNux5vqJVSUcpJbU4GSgEZCXm5pfmlQDZhibmegYGQJGSxArPFLDO5MSc5NKcxJLUkMoCoAlmOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlhQyQ9oTBFUIDM_D6LdEEUsLDGnNBXiBKCFbqlQOwxrdTBd_mxO79PumS827SbO5ebUdrkBMS43ro19xMIUHfuJheEXC0MTK0MXKzPHEsZJQHIv9y5W_ih3QyOzSN1ws0hX3ShdwwusD3mk5A0NDAxMDY1NTXUNEi0tUk0sLXVNLE2MDSx1jS0sDY01Hq7ZNOupsZG1FCQFKDBqCcaHeHq6GJYUppoVllrmFBWYGjCeYpQyNDe2MDQyNDQyMrI01jOxSDMrtsgrtsjNivBgDGJzMTNyczSIsuFiDg12ESy05bq-2EDaQYo5JNxFceVN5rUHJpy212L2dAkyvPefJVdb2dI-0OKLGP97ywX2kTD5JNaqDN2Q8Ixe8QLGBkamLkZuAUYPxgjGCiCPcRUjOxezgZGhANMGRsYdjP9hgPEVI8gSABdB9VoEAwAA&masterhotelid_tracelogid=100051355-0a98e499-494309-38913&detailFilters=17|1~17~1*31|685252~31~685252*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=495&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/XtGn8HAO)
 
@@ -81,29 +81,29 @@ Pura Ulun Danu pas lagi berkabut
 
 Lanjut ke **Bali Handara Gate** yang lagi viral di medsos. Gapura khas Bali yang simetris dan megah, dengan latar gunung hijau di kejauhan — bener-bener 'wajib mampir buat foto'. Balik ke Ubud, kami makan malam di **Pison Ubud**. 'Bebek betutu Ubud' andalannya emang juara: bebek goreng renyah dengan nasi berbumbu, rasanya gurih dan nagih.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a56fbdda5b858cfdfdd9872de32ca5e3.jpg)
+![Akomodasi di Ubud](https://images.gobaligo.id/vocus/vocus_a56fbdda5b858cfdfdd9872de32ca5e3.jpg)
 
 Malam ini kami nginep di **Pondok Naya**. Homestay ini tersembunyi di tengah sawah, suasananya adem dan tenang, dikelilingi padi hijau. Kalau mau nginep sini, saran banget bawa kendaraan sendiri biar bisa nikmatin ketenangan dan kemudahan aksesnya.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295584745-5e8d4fed52af1b260541e9bd6f207022.jpeg)
+![Akomodasi di Ubud](https://images.gobaligo.id/images/2026-04/1777295584745-5e8d4fed52af1b260541e9bd6f207022.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295585251-9bac521801f83a7ab27f7788569f1e75.jpeg)
+![Akomodasi di Ubud](https://images.gobaligo.id/images/2026-04/1777295585251-9bac521801f83a7ab27f7788569f1e75.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295585990-66d7eb94450cba6da959f473bbf2b748.jpeg)
+![Akomodasi di Ubud](https://images.gobaligo.id/images/2026-04/1777295585990-66d7eb94450cba6da959f473bbf2b748.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295586427-43362e40d8d2da6d28f693ef3e3cb893.jpeg)
+![Akomodasi di Ubud](https://images.gobaligo.id/images/2026-04/1777295586427-43362e40d8d2da6d28f693ef3e3cb893.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295586989-18019632.jpg)
+![Akomodasi di Ubud](https://images.gobaligo.id/images/2026-04/1777295586989-18019632.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295587554-191484791.jpg)
+![Akomodasi di Ubud](https://images.gobaligo.id/images/2026-04/1777295587554-191484791.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295587948-191485120.jpg)
+![Akomodasi di Ubud](https://images.gobaligo.id/images/2026-04/1777295587948-191485120.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295588455-698189141.jpg)
+![Akomodasi di Ubud](https://images.gobaligo.id/images/2026-04/1777295588455-698189141.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295588988-698189142.jpg)
+![Akomodasi di Ubud](https://images.gobaligo.id/images/2026-04/1777295588988-698189142.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295589512-a24011b300c7ed9f4298c6943ee5c3aa.jpeg)
+![Akomodasi di Ubud](https://images.gobaligo.id/images/2026-04/1777295589512-a24011b300c7ed9f4298c6943ee5c3aa.jpeg)
 
 > [**▶ Cek ketersediaan & harga kamar Pondok Naya**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=24120992) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685061&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjM0MDAwNTQ2NdU1SLRMTDEyMtA1sTQxNjTSNTe2tND4_vPHvKfGRgZagvEhnp4uhiWFqWaFpZY5RQWmpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYnJxNLIxMo_ikmEPCXRRX3mRee2DCafsk1qoM3ZDwjF5xAMYV9PmBAAAA&masterhotelid_tracelogid=100051355-0a9ad220-494312-7398&detailFilters=17|1~17~1*31|685061~31~685061*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1320&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687)
 
@@ -139,15 +139,15 @@ Makan malam kami pilih **Sun Sun Warung**, restoran lokal yang populer dan ramah
 
 Selanjutnya kami ke **Tirta Empul**, tempat yang sangat sakral bagi warga lokal. Banyak umat yang melakukan ritual pemurnian diri di kolam suci. Begitu masuk ke area pura, suasananya khidmat dan damai — kamu bisa merasakan energi yang terhubung dengan alam dan keyakinan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2e29af9eca891ff9b6e50c096a6ddc9b.jpg)
+![Akomodasi di Jimbaran](https://images.gobaligo.id/vocus/vocus_2e29af9eca891ff9b6e50c096a6ddc9b.jpg)
 
 > Referensi cepat: [【2025】Panduan Lengkap Tirta Empul: Pengalaman Pura Air Pemurnian Paling Sakral di Bali](/blog/tirta-empul-temple-guide/)
 
 Setelah selesai, kami naik motor lagi sekitar 3,5 km ke spot foto hits yang lagi naik daun: **Sari Timbul by Kubu Bali**. Tempat ini terkenal dengan instalasi seni patung kayu raksasa — setiap sudutnya penuh karakter, hasil fotonya keren banget. Paling disukai cewek-cewek, cocok banget buat foto-foto aesthetic.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4d3debb3b405f5d1a6a333a89cd8b363.jpg)
+![Akomodasi di Jimbaran](https://images.gobaligo.id/vocus/vocus_4d3debb3b405f5d1a6a333a89cd8b363.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ee40d5d487407ad015868390bd05b4e4.jpg)
+![Akomodasi di Jimbaran](https://images.gobaligo.id/vocus/vocus_ee40d5d487407ad015868390bd05b4e4.jpg)
 
 Dulu tempat ini adalah bengkel keramik. Meskipun kamu nggak beli keramik, cukup bayar tiket masuk 10K IDR aja udah bisa foto-foto di area sini. Desainnya unik, warna-warni, hasil fotonya super dreamy. Tempat ini terkenal banget di kalangan wisatawan cewek dan dijuluki sebagai hidden gem foto aesthetic di Ubud.
 
@@ -155,25 +155,25 @@ Informasi tentang **Sari Timbul by Kubu Bali** bisa kamu lihat di artikel pandua
 
 Setelah selesai jalan-jalan di Ubud, kita balik ke hotel di Kuta buat ambil koper besar, lalu lanjut naik motor ke Jimbaran buat check-in **The Jimbaran Villa by Ini Vie Hospitality**. Villa ini punya kolam renang pribadi, suasananya tenang banget, cocok buat pasangan atau suami istri yang lagi liburan.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295856690-4493f2aaa0429ca49a9f7d863cadc329.jpeg)
+![Akomodasi di Jimbaran](https://images.gobaligo.id/images/2026-04/1777295856690-4493f2aaa0429ca49a9f7d863cadc329.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295857366-375980309.jpg)
+![Akomodasi di Jimbaran](https://images.gobaligo.id/images/2026-04/1777295857366-375980309.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295857696-a1ef15521ae150cab9317a0440545ebc.jpeg)
+![Akomodasi di Jimbaran](https://images.gobaligo.id/images/2026-04/1777295857696-a1ef15521ae150cab9317a0440545ebc.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295858396-a348bced8bac55959dbd394bc9a6be3d.jpeg)
+![Akomodasi di Jimbaran](https://images.gobaligo.id/images/2026-04/1777295858396-a348bced8bac55959dbd394bc9a6be3d.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295858901-cf84c7ae8a99650c5b54814be3e766ea.jpeg)
+![Akomodasi di Jimbaran](https://images.gobaligo.id/images/2026-04/1777295858901-cf84c7ae8a99650c5b54814be3e766ea.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295859309-e9063541d554b62c6c4cb6ad069a813b.jpeg)
+![Akomodasi di Jimbaran](https://images.gobaligo.id/images/2026-04/1777295859309-e9063541d554b62c6c4cb6ad069a813b.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295859744-ec3bd7f20df682b3d847b7eb4b121d54.jpeg)
+![Akomodasi di Jimbaran](https://images.gobaligo.id/images/2026-04/1777295859744-ec3bd7f20df682b3d847b7eb4b121d54.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295860354-32adec3808d3817bc37f2c15ac7e14b2.jpeg)
+![Akomodasi di Jimbaran](https://images.gobaligo.id/images/2026-04/1777295860354-32adec3808d3817bc37f2c15ac7e14b2.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295861038-95bb19fb0354aaffeabc77e9a0be33f4.jpeg)
+![Akomodasi di Jimbaran](https://images.gobaligo.id/images/2026-04/1777295861038-95bb19fb0354aaffeabc77e9a0be33f4.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777295861491-457a2c1463a01f89d4dc5d71dc5211ef.jpeg)
+![Akomodasi di Jimbaran](https://images.gobaligo.id/images/2026-04/1777295861491-457a2c1463a01f89d4dc5d71dc5211ef.jpeg)
 
 > ▶[**Cek ketersediaan kamar & harga The Jimbaran Villa by Ini Vie Hospitality**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5730375) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=23782664&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_CsfD98-esQuyGpmYGhgZGBguFLW5XOFaLrHN_OKvewXOHXOvrwCPNDgE8EVMOPJ_GntjytZ7v86xAhy5GVrDADMaOU6u5NzJeX1xgy7U93mEHI9MBRqYTjL_FFjBt7nxoeYqFmeMMyyWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZBtZmugZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGXywMTawMXazMHMeZJgHJ32K7WPn9I_2DLEx1w80iXXWjdA0vsB6SlJI3NDAwMDU0NjXVNUi0tDA3M7HUNbE0MTYAUsYmJiYaLcf2zXpqbGQtBYl_BUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5oYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWzmhi6Gli5RNlzMocEugoW2XNcXG0g7SDGHhLsorrzJvPbAhNP2WsyeLkGG9_6z5GorW9oHWnwR439vucA-EiafxFqVoRsSntErXsDYwMjUxcgtwOjBGMFYAeQxrmJk52I2MDIUYNrAyLiD8T8MML5iBFkCADI-06gCAwAA&masterhotelid_tracelogid=100051355-0a987649-494309-43444&detailFilters=17|1~17~1*31|23782664~31~23782664*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=224&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/LerWcw1j)
 
@@ -213,7 +213,7 @@ https://youtu.be/IReL1ztxL7c
 
 Sore harinya kami sengaja menghitung waktu surut **Tanah Lot**, karena cuma pas air surut kita bisa nyebrang lewat jalan berbatu dan beneran naik ke pura. Sesampainya di pura, kami ikut ritual pemberkatan dari pendeta Hindu setempat—dahi kami diberi butiran suci dan bunga diselipkan, rasanya seperti pengalaman berkah yang spesial.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e865be61feb283663c6b4e451024b0a6.jpg)
+![Akomodasi di Jimbaran](https://images.gobaligo.id/vocus/vocus_e865be61feb283663c6b4e451024b0a6.jpg)
 
 > Referensi cepat: [Destinasi Wajib Kunjungi di Bali: Panduan Lengkap Tanah Lot, Pasang Surut, dan Tempat Sekitar](/blog/bali-tanah-lot-guide/)
 
@@ -241,7 +241,7 @@ https://youtu.be/lIV-T2jYhVk
 
 Kamu pikir itinerary mereka seru banget? Yuk, buruan atur liburan seru kamu ke Bali! Jangan lupa juga kirim itinerary kamu ke grup ya!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Kesimpulan](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 

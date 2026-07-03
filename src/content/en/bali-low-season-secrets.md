@@ -12,7 +12,7 @@ lang: en
 _srcHash: 71d553c79c955517996b74c129b24910
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_06359c6b865bb73af6ccde17df378b20.png)
+![7 Bali Off-Season Secrets: Missed by Tourists, Cherished by ](https://images.gobaligo.id/vocus/vocus_06359c6b865bb73af6ccde17df378b20.png)
 
 It's not the hustle of the airport, nor the party music by influencer pools. It's the soft sound of the first raindrop hitting century-old stone carvings when the rainy season arrives. It's the return of farmers' songs and cowbells in the fields after tourists leave. It's the sincere gaze of market vendors handing you papayas with soil-stained hands at dawn.
 

@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: f8e3c90379831dd8f43780313923d235
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_06367c77917f8c1c8b1ed21fc957cc5a.jpg)
+![烏布市場發生火災，1,033名商販受影響](https://images.gobaligo.id/vocus/vocus_06367c77917f8c1c8b1ed21fc957cc5a.jpg)
 
 今日8/17下晝，烏布市場嘅地下室發生火災，火勢由中午持續到傍晚都未撲熄。呢場火災令市場內嘅1,033名商販無法繼續營業。
 

@@ -20,15 +20,15 @@ _srcHash: 9c44bd354dd3af2ea17d0987b1b734b7
 
 如果你想更深入了解峇里島嘅文化同精神遺產，不妨花時間探索兩處著名嘅水上宮殿同寺廟 - **Tirta Gangga**同**Pura Tirta Empul**。等我哋一齊嚟睇下呢兩個神聖之地嘅獨特魅力。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_daa2c7b876bb63a589fcdb9e5d85154d.jpg)
+![探索峇里島嘅聖泉：由Tirta Gangga到Tirta Empul](https://images.gobaligo.id/vocus/vocus_daa2c7b876bb63a589fcdb9e5d85154d.jpg)
 
 ## Tirta Gangga：寧靜嘅水上宮殿
 
 Tirta Gangga（翻譯為：**蒂爾塔岡加水上宮殿**或**恆河聖泉花園**）坐落喺峇里島東部鬱鬱蔥蔥嘅山丘上，係一座迷人嘅水上宮殿。呢座佔地1.2公頃嘅遺址由Karangasem最後一位國王於1946年建造，融合咗峇里島同中國嘅建築風格。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_366be6165bbc016df666dfe1b6176fbe.jpg)
+![Tirta Gangga：寧靜嘅水上宮殿](https://images.gobaligo.id/vocus/vocus_366be6165bbc016df666dfe1b6176fbe.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8634a1b05ac12f9b0f0f63ba42b0e2f7.jpg)
+![Tirta Gangga：寧靜嘅水上宮殿](https://images.gobaligo.id/vocus/vocus_8634a1b05ac12f9b0f0f63ba42b0e2f7.jpg)
 
 宮殿分為三層，每層都提供獨特嘅體驗：
 

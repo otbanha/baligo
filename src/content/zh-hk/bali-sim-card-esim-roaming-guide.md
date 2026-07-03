@@ -25,7 +25,7 @@ lang: zh-hk
 _srcHash: d867aa050268294f5def51dd914e2047
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_db855d72e3a3f085829e4471ce055f11.jpg)
+![峇里島網卡推薦：SIM卡、eSIM 同漫遊方案優缺點完全比較](https://images.gobaligo.id/vocus/vocus_db855d72e3a3f085829e4471ce055f11.jpg)
 
 峇里島嘅旅館雖然提供免費嘅Wi-Fi，但當你出街需要查資料、導航、打卡或者上傳相片時，行動網路仍然係必不可少嘅。
 
@@ -69,7 +69,7 @@ _srcHash: d867aa050268294f5def51dd914e2047
 
 如果你部手機可以用eSIM，信號最穩定、最推薦嘅eSIM方案係[呢個](/blog/bali-esim-travel-guide/)！
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774795350035-d191a0b14c5f198b32ba296c4e0035b1.jpg)
+![eSIM推薦](https://images.gobaligo.id/images/2026-03/1774795350035-d191a0b14c5f198b32ba296c4e0035b1.jpg)
 
 {{block:klook}}
 

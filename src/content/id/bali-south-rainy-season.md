@@ -25,7 +25,7 @@ _srcHash: bbf4af24abf3da2eda3f05ae05534485
 
 Kalau mikir Bali, yang kebayang pasti sinar matahari, pantai, dan surfing. Tapi sebagai daerah tropis, Bali juga punya musim hujan yang unik. Hari ini kita bahas soal curah hujan di musim hujan wilayah selatan Bali, yuk!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8c004965cfd469d049ae8b0e5df25cfa.png)
+![Analisis Curah Hujan Musim Hujan di Bali - Pengalaman Musim ](https://images.gobaligo.id/vocus/vocus_8c004965cfd469d049ae8b0e5df25cfa.png)
 
 Berdasarkan grafik probabilitas hujan, kita bisa lihat kalau musim hujan di Bali selatan (termasuk daerah **Kuta, Seminyak, Uluwatu, Nusa Dua, dan Sanur**) paling sering terjadi antara Desember sampai Februari. Nah, sekitar tanggal 20 Januari, kemungkinan hujan mencapai puncak tertinggi sepanjang tahun, yaitu 61%. Di bulan Januari, rata-rata ada sekitar 18 hari yang turun hujan.
 
@@ -35,7 +35,7 @@ Yang perlu dicatat, meskipun kadang ada hujan deras yang bisa bikin genangan air
 
 Dari grafik juga kita bisa lihat tren menarik: probabilitas hujan berubah secara musiman. Mulai naik perlahan dari musim semi di Bali, mencapai puncak di bulan Januari, lalu turun lagi pelan-pelan. Pola ini jadi referensi bagus buat kamu yang mau rencanain liburan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_482eb8e3cecbce3092b2dd1454b68823.png)
+![Analisis Curah Hujan Musim Hujan di Bali - Pengalaman Musim ](https://images.gobaligo.id/vocus/vocus_482eb8e3cecbce3092b2dd1454b68823.png)
 
 Oh iya, satu lagi yang menarik: probabilitas hujan di Bali beda antara utara dan selatan. Umumnya, semakin ke utara, kemungkinan hujannya makin tinggi. Jadi kalau kamu mau liburan di musim hujan, pilih daerah selatan bisa jadi pilihan yang oke.
 

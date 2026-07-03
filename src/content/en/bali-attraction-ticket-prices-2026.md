@@ -35,7 +35,7 @@ lang: en
 _srcHash: 152511bc4a8efb4936e31dc8d1d2ac98
 ---
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775747995914-24dd9e26-f35c-4ac7-8699-d9f3e7d1a2a6.jpg)
+![Bali Attraction Ticket Prices Have Increased! 2026 Price Lis](https://images.gobaligo.id/images/2026-04/1775747995914-24dd9e26-f35c-4ac7-8699-d9f3e7d1a2a6.jpg)
 
 Attention travelers planning to visit **Bali**! If your trip is scheduled after April, you might need to adjust your budget. According to the latest official announcement, multiple popular attractions including Ubud's Sacred Monkey Forest and Tanah Lot Temple have increased ticket prices effective **April 1, 2026**, with hikes ranging from 20% to 33%.
 
@@ -45,7 +45,7 @@ This price adjustment primarily addresses rising maintenance costs and aims to e
 
 Here's a breakdown of the most affected and beloved attractions among travelers (based on **foreign adult ticket prices**):
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775747330058-_2026-04-09_22.08.34.png)
+![Comparison of Popular Attraction Prices Before and After Inc](https://images.gobaligo.id/images/2026-04/1775747330058-_2026-04-09_22.08.34.png)
 
 > **Special Note:** **Sacred Monkey Forest**: Previously split into weekday/weekend pricing (100k/120k IDR), now unified and increased to **130,000 IDR** regardless of day. **Ulun Danu Beratan Temple**: While also planning a price hike, according to current information, the increase won't take effect until **July 1, 2026** (from 75k to 100k IDR), so April visitors remain unaffected.
 

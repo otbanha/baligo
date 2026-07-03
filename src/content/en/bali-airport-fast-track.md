@@ -26,7 +26,7 @@ _srcHash: 650dcda601c95b92c108fc5c752a6883
 
 Bali, hailed as a paradise getaway, attracts countless tourists. However, with the growth of tourism, the airport has become increasingly busy. Many travelers often worry about long waits upon arrival, but on 02/02/2024, our group friend "DC" had a different experience—he successfully exited Bali Airport in just 25 minutes after landing!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_46a2d0d2d0dfe4c23e3f4e93484e9630.png)
+![Tested: Exiting Bali Airport in 25 Minutes! How Did Our Grou](https://images.gobaligo.id/vocus/vocus_46a2d0d2d0dfe4c23e3f4e93484e9630.png)
 
 In fact, group member DC didn’t have any special privileges or pay extra fees. Instead, he chose to apply for an **e-Visa** and **e-Customs declaration** in advance. These two steps allowed him to avoid queues and tedious paperwork, saving valuable time.
 

@@ -25,7 +25,7 @@ _srcHash: 37055e34ac72ef21dbbd1163a1f55043
 
 At the end of last year, the Indonesian government had planned to ban the construction of new hotels, beach clubs, and other tourism-related facilities in several popular tourist areas in southern Bali, such as Canggu, Uluwatu, Kuta, Legian, Seminyak, and Nusa Dua. However, Bali's Governor Wayan Koster, who is set to be re-elected, recently stated publicly that **he will not enforce this ban**.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5912b3283e6ebf4f0e8a8eefd1896b05.png)
+![Bali's New Policy Shift: Governor Rejects Tourism Developmen](https://images.gobaligo.id/vocus/vocus_5912b3283e6ebf4f0e8a8eefd1896b05.png)
 
 ### Why Was the Ban Proposed?
 
@@ -55,7 +55,7 @@ However, the implementation of this tourism tax has been less than effective, wi
 
 ### What Does the Future Hold?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7325c0c5d1f9e4f57fb207e86a712a4b.png)
+![What Does the Future Hold?](https://images.gobaligo.id/vocus/vocus_7325c0c5d1f9e4f57fb207e86a712a4b.png)
 
 Now that the ban has been lifted, the future of Bali's tourism industry remains uncertain. Governor Koster's approach focuses on managing tourism through stricter enforcement of existing regulations rather than outright bans on new developments. However, finding a balance between economic growth and environmental preservation continues to be Bali's greatest challenge.
 
@@ -63,7 +63,7 @@ For both tourists and local residents, Bali's sustainable development is not jus
 
 ## 📩 **Join the "Bali Travel Guide" Now and Become a Bali Travel Expert!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Join the "Bali Travel Guide" Now and Become a Bali Travel Ex](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **By subscribing for free, you'll get:**
 

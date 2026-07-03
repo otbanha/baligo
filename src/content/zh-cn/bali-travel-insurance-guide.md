@@ -161,7 +161,7 @@ _srcHash: 13871375f86d1a7a2a51e93da6ace61f
 
 医疗费用可能更高。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778985202187-insurance2.png)
+![巴厘岛海外医疗，其实比很多人想象贵](https://images.gobaligo.id/images/2026-05/1778985202187-insurance2.png)
 
 也可以通过线上平台投保： [Klook海外旅游保险](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1292786&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Finsurance%2Fklook-protect%2F) [Trip(香港游客）](https://hk.trip.com/insurance?bid=1&cid=2&pid=1&locale=zh-HK&curr=HKD&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 

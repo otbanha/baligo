@@ -27,13 +27,13 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 今次係我人生中第一次去峇里島，雖然只有短短四日，但係一趟充滿驚喜同感動嘅旅程。特別感謝舊年九月喺網上發問時，好多前輩提供嘅寶貴建議，令今次嘅行程安排更加順利。為咗回饋大家嘅幫助，我都分享吓今次旅行嘅詳細心得同推薦，希望可以為未來計劃去峇里島嘅朋友提供一啲參考。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8e1544abfb771aab905ac4e995e041bd.jpg)
+![旅行日期：2025/2/6-2/9](https://images.gobaligo.id/vocus/vocus_8e1544abfb771aab905ac4e995e041bd.jpg)
 
 ---
 
 ## 1. **Mara River Safari Lodge：同動物一齊瞓嘅獨特體驗**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b29252ee62cf7e762ff1f447761b8fa7.jpg)
+![1. Mara River Safari Lodge：同動物一齊瞓嘅獨特體驗](https://images.gobaligo.id/vocus/vocus_b29252ee62cf7e762ff1f447761b8fa7.jpg)
 
 今次旅行中，7歲嘅小朋友最鍾意嘅就係**Mara River Safari Lodge**。呢間係一間位於動物園內嘅度假村，住喺度唔單止方便，仲可以近距離接觸各種動物。每日朝早，我哋一邊食早餐，一邊透過玻璃窗睇出面嘅獅子，呢種體驗非常特別。獅子們似乎已經習慣咗遊客嘅目光，成日定點擺出各種姿勢，好似為我哋「擺拍」咁，小朋友睇到目不轉睛，興奮到不得了。
 
@@ -49,7 +49,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 ## 2. **水神廟：寧靜致遠嘅靈性之地**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bbe079ae357378ab17d4b8d0b2fcadd3.jpg)
+![2. 水神廟：寧靜致遠嘅靈性之地](https://images.gobaligo.id/vocus/vocus_bbe079ae357378ab17d4b8d0b2fcadd3.jpg)
 
 對於70歲嘅長輩嚟講，**水神廟（Ulun Danu Beratan Temple）**係最令佢哋感到放鬆嘅地方。呢度嘅環境非常幽靜，周圍被群山環繞，湖面平靜如鏡，微風輕拂，令人感到心曠神怡。我哋喺呢度慢慢散步，飲住咖啡，享受住大自然嘅寧靜與美好。山嵐繚繞嘅景色令人彷彿置身於仙境，長輩們特別鍾意呢種遠離喧囂嘅氛圍，覺得呢度係一個可以令人徹底放鬆心靈嘅地方。
 
@@ -59,7 +59,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 ## 3. **海神廟：壯麗嘅海蝕奇觀**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e939c789a7f931dc80650833c7e66e7c.jpg)
+![3. 海神廟：壯麗嘅海蝕奇觀](https://images.gobaligo.id/vocus/vocus_e939c789a7f931dc80650833c7e66e7c.jpg)
 
 **海神廟（Tanah Lot）**係峇里島嘅標誌性景點之一，呢度嘅海蝕門同海蝕平台非常壯觀，完全符合我哋對峇里島嘅想像。雖然海邊嘅陽光有啲炙熱，但睇住海浪拍打岩石嘅場景，仲係令人感到無比震撼。建議嚟呢度嘅朋友可以帶上帽或者遮陽傘，並選擇喺傍晚時分造訪，既可以避開烈日，仲可以欣賞到美麗嘅日落。
 
@@ -71,7 +71,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 ## 4. **梯田盪鞦韆：老少咸宜嘅放電活動**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8dd0485bc0845aba22d505edb90a5413.jpg)
+![4. 梯田盪鞦韆：老少咸宜嘅放電活動](https://images.gobaligo.id/vocus/vocus_8dd0485bc0845aba22d505edb90a5413.jpg)
 
 峇里島嘅梯田景觀非常有名，我哋選擇咗一個有盪鞦韆嘅梯田景點，呢度唔單止適合影相，仲可以令小朋友同老人家一齊玩樂。小朋友喺梯田間穿梭，上上下下咁奔跑，完全放電；而長輩們就坐喺一旁，欣賞住綠意盎然嘅梯田風光，享受住微風吹拂嘅舒適感。呢度嘅氛圍非常輕鬆，適合全家一齊嚟體驗。
 
@@ -83,7 +83,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 ## 5. **聖泉寺：沐浴儀式與總統行宮嘅雙重驚喜**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f849d9c235d59a137fbef5de65d6f96.jpg)
+![5. 聖泉寺：沐浴儀式與總統行宮嘅雙重驚喜](https://images.gobaligo.id/vocus/vocus_4f849d9c235d59a137fbef5de65d6f96.jpg)
 
 **聖泉寺（Tirta Empul）**係一個充滿宗教氣氛嘅地方，我哋喺度見到好多當地人進行沐浴儀式，場面非常莊嚴同新奇。不過，相比起沐浴儀式，我個人對山上嘅總統行宮更加有興趣。呢座建築充滿歷史感，周圍嘅環境亦都非常優美，值得花啲時間慢慢欣賞。
 
@@ -95,7 +95,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 ## 6. **斷崖公路：壯麗景色與交通建議**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b589b4f1505f339f21868993d57b2ec4.jpg)
+![6. 斷崖公路：壯麗景色與交通建議](https://images.gobaligo.id/vocus/vocus_b589b4f1505f339f21868993d57b2ec4.jpg)
 
 **斷崖公路**嘅景色非常壯麗，但由於之前曾經發生崩塌，雖然而家已經修繕得好好，都係建議大家搭接駁車前往。另外，呢度嘅陽光非常猛烈，記得帶帽或者遮陽裝備，以免曬傷。
 
@@ -109,7 +109,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 ## 7. **神鷹文化公園：雄偉卻略顯空曠**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9ff7c54eabc3f3383b36804884d88bd9.jpg)
+![7. 神鷹文化公園：雄偉卻略顯空曠](https://images.gobaligo.id/vocus/vocus_9ff7c54eabc3f3383b36804884d88bd9.jpg)
 
 **神鷹文化公園（Garuda Wisnu Kencana Cultural Park）**嘅佔地面積非常廣闊，其中最引人注目嘅就係嗰座巨大嘅神鷹雕像，佢嘅高度同規模真係令人驚嘆。喺機場就已經可以見到呢座雕像，足以見證佢嘅壯觀程度。不過，成個園區嘅設施似乎仲未夠完善，感覺有啲空曠，建議嚟呢度嘅朋友可以安排短暫停留，欣賞完雕像之後再去其他景點。
 
@@ -123,7 +123,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 今次旅行嘅成功，好大一部分要歸功於我哋嘅包車司機**小吳**同佢嘅太太**Betty Pingky**。由於我哋一行有五個人，加上行李比較多，小吳特別安排咗一架大車，確保我哋喺旅途中可以舒適地移動。佢嘅駕駛技術非常穩健，全程冇任何急煞或者頓點，令到感冒嘅小朋友同老人家可以喺車上好好休息。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3143a1eb899bf827d37ad8851ac6b8d4.jpg)
+![8. 包車司機：旅行嘅幕後功臣](https://images.gobaligo.id/vocus/vocus_3143a1eb899bf827d37ad8851ac6b8d4.jpg)
 
 另外，小吳對峇里島嘅路況非常熟悉，完美避開咗塞車時段同路段，令我哋嘅行程更加順暢。無論係老人家需要去廁所，定係小朋友不停咁問「到咗未」，佢總係可以適時抵達目的地，令到成個家庭保持和樂融融嘅氣氛。佢嘅中文非常流利，聲調亦都好標準，同老人家同小朋友都可以輕鬆傾偈，令到成個旅程更加溫馨。
 
@@ -141,7 +141,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 呢啲因素加埋，令我哋嘅旅程更加順暢，亦令我對峇里島嘅印象大大加分。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1adbe54df9466ee492b287cdb8e6abf7.jpg)
+![9. 點解冇塞車？](https://images.gobaligo.id/vocus/vocus_1adbe54df9466ee492b287cdb8e6abf7.jpg)
 
 ---
 
@@ -184,7 +184,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 你覺得 Chingju Wang 佢哋嘅行程好精彩嗎？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家到社團投稿你嘅行程喔！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3caf2926cda5d39d3255d7ffe5d141cf.jpg)
+![推薦與建議](https://images.gobaligo.id/vocus/vocus_3caf2926cda5d39d3255d7ffe5d141cf.jpg)
 
 撳呢度睇更多峇里島精彩遊記
 

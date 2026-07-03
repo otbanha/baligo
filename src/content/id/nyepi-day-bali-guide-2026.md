@@ -22,7 +22,7 @@ _srcHash: 13685e2272668fe0b4c833d6d1540f75
 
 Bali靜居日（Nyepi Day），這可是Bali最獨特、最神聖的節日之一，島上瞬間從超熱鬧變成「全世界最安靜的一天」，超有儀式感！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_feb933a483aca657236751e5a8e9ad93.jpg)
+![【寧靜日攻略】2026 Bali靜居日/Nyepi Day｜妖怪大遊行須知](https://images.gobaligo.id/vocus/vocus_feb933a483aca657236751e5a8e9ad93.jpg)
 
 ## 2026 Bali靜居日（Nyepi）完整指南：從Ogoh-ogoh狂歡到24小時靜默
 
@@ -32,7 +32,7 @@ Bali靜居日（Nyepi Day），這可是Bali最獨特、最神聖的節日之一
 
 Bali Nyepi（靜居日）2026 時間軸提醒
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a59afd2356b35bfaf178bf55f2cce4f1.png)
+![先搞懂時間軸（超重要！）](https://images.gobaligo.id/vocus/vocus_a59afd2356b35bfaf178bf55f2cce4f1.png)
 
 ### 3/18 下午開始
 
@@ -77,7 +77,7 @@ Bali Nyepi（靜居日）2026 時間軸提醒
 4. **Ubud (Pusat / dekat Ubud Palace atau Monkey Forest)** — Lebih kental nuansa budaya dan seni. Paradenya relatif elegan dan dramatis, cocok buat yang suka pengalaman mendalam. Sekitar Peliatan Royal Palace juga ramai.
 5. **Tempat chill lain: Sanur (dekat McDonald's), Canggu (Batu Bolong & Berawa), Kerobokan (Lio Square)** — Kalau kamu nginep di area ini, tinggal keluar hotel udah bisa lihat versi komunitas lokal, lebih akrab dan nggak terlalu padat.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_973019ee2bd0d68dc174e5e569c030a0.png)
+![最佳觀賞地點（從最盛大到chill一點的排序）：](https://images.gobaligo.id/vocus/vocus_973019ee2bd0d68dc174e5e569c030a0.png)
 
 **Pengingat kecil:** Banyak tempat udah mulai ditutup jalannya sejak sore, Grab atau taksi mungkin nggak bisa masuk. Saran: pesan mobil dari awal atau jalan kaki aja. Setelah parade, beberapa Ogoh-ogoh dibakar, asapnya tebal, pakai masker atau hindari area yang kena angin.
 

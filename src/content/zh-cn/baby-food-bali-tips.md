@@ -13,7 +13,7 @@ lang: zh-cn
 _srcHash: 495891613c800eb74c82c40fde964a7f
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a59ccd132da7a87eaa0ea98af1f573a0.png)
+![带宝宝去巴厘岛：携带含猪肉、鸡肉副食品的注意事项](https://images.gobaligo.id/vocus/vocus_a59ccd132da7a87eaa0ea98af1f573a0.png)
 
 ## **一、印尼海关对肉类制品的规定**
 
@@ -85,7 +85,7 @@ _srcHash: 495891613c800eb74c82c40fde964a7f
 2. **航空公司规范**：部分航空公司对携带婴幼儿食品有特别政策，出发前请向航空公司确认可携带的品项与数量。
 3. **善用网购服务**：若担心当地找不到适合的副食品，您也可以通过印尼本地电商平台（如**Tokopedia**、**Shopee Indonesia**）提前购买，送到您的酒店。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8872bc854565fd2d359000082644bfa4.png)
+![四、额外贴心提醒](https://images.gobaligo.id/vocus/vocus_8872bc854565fd2d359000082644bfa4.png)
 
 ***
 

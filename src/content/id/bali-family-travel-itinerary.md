@@ -19,7 +19,7 @@ lang: id
 _srcHash: dda8b8ebf47372e113d397ef6f9dbf5d
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b1e5967cae6882486fc6485a6b958227.jpg)
+![Gimana sih cara atur liburan keluarga ke Bali? Panduan wisat](https://images.gobaligo.id/vocus/vocus_b1e5967cae6882486fc6485a6b958227.jpg)
 
 Gimana sih cara atur liburan keluarga ke Bali? Rekomendasi 6 tempat wisata seru di Bali buat bawa anak-anak. Nggak perlu pusing lagi deh! Xiaojie pilihkan spot-spot wisata ramah anak di Bali, biar Bali jadi surga bermain buat si kecil juga!
 

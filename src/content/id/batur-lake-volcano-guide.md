@@ -39,7 +39,7 @@ Update: 18 Juni 2026
 
 ## **Danau Batur: Keindahan Megah dan Tenang Berpadu**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a5e37e35b2726428b7743348685d03c0.jpg)
+![Danau Batur: Keindahan Megah dan Tenang Berpadu](https://images.gobaligo.id/vocus/vocus_a5e37e35b2726428b7743348685d03c0.jpg)
 
 Danau Batur yang terletak di kawasan Kintamani adalah danau kaldera raksasa yang terbentuk dari letusan gunung berapi purba. Ketinggian permukaan danau sekitar 1.000 meter di atas permukaan laut, dikelilingi pegunungan berlapis. Saat fajar, kabut tipis menyelimuti, bagaikan lukisan yang bernapas.
 
@@ -49,7 +49,7 @@ Mendaki Gunung Batur saat subuh untuk melihat matahari terbit adalah aktivitas w
 
 ## Menjelajahi Tempat Suci: Pura Segara Ulun Danu Batur
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781672235683-dscf3056_1200.webp)
+![Menjelajahi Tempat Suci: Pura Segara Ulun Danu Batur](https://images.gobaligo.id/images/2026-06/1781672235683-dscf3056_1200.webp)
 
 ### **Bali Punya Lebih dari Satu Pura di Atas Air**
 
@@ -75,7 +75,7 @@ Pengunjung di sini relatif jarang, suasananya super tenang dan damai. Cocok bang
 
 ### 🔥 **Hiking Mendaki untuk Menyambut Matahari Terbit**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_faaf8d67d5e06d033ea24d05e691b831.png)
+![Hiking Mendaki untuk Menyambut Matahari Terbit](https://images.gobaligo.id/vocus/vocus_faaf8d67d5e06d033ea24d05e691b831.png)
 
 Mau merasakan sensasi penaklukan sejati? Ikut sunrise hiking di Gunung Batur adalah aktivitas klasik banget! Biasanya harus berangkat dini hari, butuh waktu sekitar 2–3 jam untuk sampai ke puncak. Saat sinar pertama menyobek langit, seluruh danau dan pegunungan berkilauan di bawah cahaya keemasan — pemandangan megah yang bikin kamu terpana.
 
@@ -83,7 +83,7 @@ Mau merasakan sensasi penaklukan sejati? Ikut sunrise hiking di Gunung Batur ada
 
 ## 🚙 **Safari Jeep Sunrise**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e7f84a89a04639ed8ef6723260c2939.jpg)
+![Safari Jeep Sunrise](https://images.gobaligo.id/vocus/vocus_3e7f84a89a04639ed8ef6723260c2939.jpg)
 
 Kalau kamu mau yang lebih santai tapi tetap nggak mau ketinggalan pemandangan matahari terbit, bisa pilih paket **Jeep Sunrise Gunung Batur**. Jeep berpenggerak 4 roda akan membawa kamu melintasi hamparan pasir vulkanik hitam dan lembah lahar, langsung ke spot pemandangan terbaik.
 
@@ -107,7 +107,7 @@ Seluruh perjalanan sekitar 8 jam, biaya sudah termasuk antar-jemput hotel, tiket
 
 ## **Perjalanan Kerajaan: Dua Pengalaman di Danau Batur**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3ca74bdad12e693945d91b0c5b5888cf.jpg)
+![Perjalanan Kerajaan: Dua Pengalaman di Danau Batur](https://images.gobaligo.id/vocus/vocus_3ca74bdad12e693945d91b0c5b5888cf.jpg)
 
 Naik ke Gunung Batur (Mount Batur) dan lihat matahari terbit perlahan adalah kenangan paling epik buat traveler. Setelah selesai mendaki, cobain aktivitas baru di atas danau—**Royal Songan Cruise di Danau Batur**.
 
@@ -125,7 +125,7 @@ Di atas kapal ada pertunjukan budaya langsung, layanan teh, dan tempat duduk den
 
 ## **Santai di Tepi Danau: Rekomendasi Puluhan Kafe dengan Pemandangan Danau Vulkanik yang Super Indah**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e879f53736ac69a3fbe2b04bbb409467.jpg)
+![Santai di Tepi Danau: Rekomendasi Puluhan Kafe dengan Pemand](https://images.gobaligo.id/vocus/vocus_e879f53736ac69a3fbe2b04bbb409467.jpg)
 
 Kalau jiwa Bali tersembunyi di antara gunung berapi dan danau, maka karakter Danau Batur ada di kafe-kafe yang menghadap ke air danau.
 
@@ -137,7 +137,7 @@ Ini dia rekomendasi **puluhan kafe dengan pemandangan Danau Batur** — mau sant
 
 ## The Grand Lagunas — Taman Bermain Alam di Kintamani
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a9a882fda8e0d1a069384ba95922dc4.png)
+![The Grand Lagunas — Taman Bermain Alam di Kintamani](https://images.gobaligo.id/vocus/vocus_9a9a882fda8e0d1a069384ba95922dc4.png)
 
 Di The Grand Lagunas, kamu bisa tantang adrenalin sambil menikmati pemandangan keren! Tempat ini punya banyak wahana outdoor seru, mulai dari Rainbow Slide, Flying Fox, Tree Top, Keranjang Sultan, Trampoline Jump, Hammock, Nest, Climbing Net, Climbing Tree, Jungle Bridge, sampai ATV. Cocok banget buat kamu yang suka petualangan.
 
@@ -149,13 +149,13 @@ Rasakan sensasi meluncur cepat di seluncuran warna-warni sambil menikmati panora
 
 ## **Rendam Air Panas, Nikmati Pemandangan — Penutup Sempurna**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1b2c36cce167df14bcd2e664efd956d0.jpg)
+![Rendam Air Panas, Nikmati Pemandangan — Penutup Sempurna](https://images.gobaligo.id/vocus/vocus_1b2c36cce167df14bcd2e664efd956d0.jpg)
 
 Setelah puas mendaki dan ngopi-ngopi, mampir ke **Toya Devasya Hot Spring** buat relaksasi. Berendam di sumber air panas alami dari panas bumi vulkanik sambil memandang gunung dan danau di kejauhan — benar-benar momen healing paling maksimal.
 
 Nggak cuma kolam air panas biasa, tempat ini juga kayak waterpark besar lho!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e239669b1787a60c45be7f558d30237.png)
+![Rendam Air Panas, Nikmati Pemandangan — Penutup Sempurna](https://images.gobaligo.id/vocus/vocus_4e239669b1787a60c45be7f558d30237.png)
 
 > ▶[Tiket Masuk Toya Devasya Hot Spring](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1140524&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F24959-toya-devasya-hot-springs-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3De7714021bf)
 

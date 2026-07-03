@@ -29,19 +29,19 @@ _srcHash: 62204b213493b9099809571fba8940aa
 
 ### **喺金塔馬尼咖啡館享受全景美景**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1126f01c021db4ab3da7ea01137c0210.png)
+![喺金塔馬尼咖啡館享受全景美景](https://images.gobaligo.id/vocus/vocus_1126f01c021db4ab3da7ea01137c0210.png)
 
 旅程從風景優美嘅金塔馬尼咖啡館開始，呢度係欣賞巴杜爾山全景嘅絕佳地點。你可以一邊品嚐飲品，一邊放鬆身心，感受峇里島嘅寧靜與壯麗。呢度嘅景色絕對會令你忍唔住拎起相機，捕捉每一個美好瞬間。
 
 ### **搭私人越野吉普車，直達最佳日落觀景點**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_51baf19d13912a5c5021b14dc9cbb0fb.png)
+![搭私人越野吉普車，直達最佳日落觀景點](https://images.gobaligo.id/vocus/vocus_51baf19d13912a5c5021b14dc9cbb0fb.png)
 
 同傳統嘅健行路線唔同，呢次旅程會帶你搭私人越野吉普車，直接前往巴杜爾山嘅最佳日落觀景點。無需徒步，你就能輕鬆抵達高處，欣賞到令人屏息嘅壯麗景色。
 
 ### **專業吉普車司機兼攝影師，記錄你嘅冒險歷程**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d822e273f831f69bd3678ed61c1e3ff6.png)
+![專業吉普車司機兼攝影師，記錄你嘅冒險歷程](https://images.gobaligo.id/vocus/vocus_d822e273f831f69bd3678ed61c1e3ff6.png)
 
 今次旅程特別安排咗專業嘅吉普車司機兼攝影師，佢哋唔單止熟路，仲知道點樣捕捉最美嘅瞬間。無論係日落嘅光影變化，定係你同火山嘅合照，都會被完美記錄落嚟，成為你旅途中難忘嘅回憶。
 
@@ -76,7 +76,7 @@ _srcHash: 62204b213493b9099809571fba8940aa
 
 {{block:戶外}}
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f43b3b9571911431dbce6426cdaa603a.png)
+![費用包括咩服務？](https://images.gobaligo.id/vocus/vocus_f43b3b9571911431dbce6426cdaa603a.png)
 
 ***
 

@@ -26,7 +26,7 @@ _srcHash: 05155b6d39a3539e42def3961861f07f
 
 ## **峇里島成為浪漫目的地之冠：超越多國競爭者**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_af426de64cc37e8302ca86645a9ec988.png)
+![峇里島成為浪漫目的地之冠：超越多國競爭者](https://images.gobaligo.id/vocus/vocus_af426de64cc37e8302ca86645a9ec988.png)
 
 喺2024年嘅「世界旅遊大獎」（World Travel Awards）中，峇里島擊敗咗眾多世界知名旅遊地，包括智利嘅阿塔卡馬沙漠（Atacama Desert）、聖露西亞（St Lucia）、塞舌爾群島（Seychelles）、巴哈馬（The Bahamas）以及特克斯（Turks）與凱科斯群島（Caicos），成為全球最浪漫嘅旅遊目的地。
 

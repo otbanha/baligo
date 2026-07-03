@@ -17,7 +17,7 @@ lang: en
 _srcHash: dda8b8ebf47372e113d397ef6f9dbf5d
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b1e5967cae6882486fc6485a6b958227.jpg)
+![How to Plan a Family Trip to Bali? Six Fun Spots for Parents](https://images.gobaligo.id/vocus/vocus_b1e5967cae6882486fc6485a6b958227.jpg)
 
 How to Plan a Family Trip to Bali? Six Recommended Fun Spots for Families with Kids in Bali! Don’t worry about traveling with kids in Bali! Here are Jie’s top picks for family-friendly attractions in Bali, turning the island into a playground for children!
 

@@ -80,12 +80,12 @@ _srcHash: 4179eb55859d6107558c4c4ceb1fe2b1
 
 我哋喺烏布入住嘅Rijasa Agung飯店，坐落喺阿勇河畔，每日朝早起身就聽到潺潺嘅溪水聲，令人覺得無比放鬆。呢度溫度適宜，家庭房配有私人泳池、花園同發呆亭，空間闊落到目測超過300坪，CP值超高，令我哋一家都覺得好滿意。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780834357439-510412090.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780834357871-510412091.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780834358323-510412149.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780834358773-510412195.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780834359359-510412197.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780834359739-510412214.jpg)
+![Rijasa Agung 烏布阿貢里加薩飯店——寧靜與舒適嘅完美結合](https://images.gobaligo.id/images/2026-06/1780834357439-510412090.jpg)
+![Rijasa Agung 烏布阿貢里加薩飯店——寧靜與舒適嘅完美結合](https://images.gobaligo.id/images/2026-06/1780834357871-510412091.jpg)
+![Rijasa Agung 烏布阿貢里加薩飯店——寧靜與舒適嘅完美結合](https://images.gobaligo.id/images/2026-06/1780834358323-510412149.jpg)
+![Rijasa Agung 烏布阿貢里加薩飯店——寧靜與舒適嘅完美結合](https://images.gobaligo.id/images/2026-06/1780834358773-510412195.jpg)
+![Rijasa Agung 烏布阿貢里加薩飯店——寧靜與舒適嘅完美結合](https://images.gobaligo.id/images/2026-06/1780834359359-510412197.jpg)
+![Rijasa Agung 烏布阿貢里加薩飯店——寧靜與舒適嘅完美結合](https://images.gobaligo.id/images/2026-06/1780834359739-510412214.jpg)
 
 > ▶Rijasa Agung Resort and Villas 房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1744536&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/c79DvepT)
 

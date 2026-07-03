@@ -27,7 +27,7 @@ lang: id
 _srcHash: 4e7c60e358e7138e38d4f0d2de3e6ab9
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_93ba80c66bbeb7d6d88fcee66ca33fac.png)
+![Kisah Pahit Tukar Uang di Bali: Pengalaman Langsung Teman Se](https://images.gobaligo.id/vocus/vocus_93ba80c66bbeb7d6d88fcee66ca33fac.png)
 
 Teman yang baru pulang dari Bali minggu lalu berbagi di grup komunitas Bali kami tentang pengalaman penipuan tukar uang yang mereka alami. Setelah mendengar seluruh ceritanya, saya merasa perlu menulis ini untuk mengingatkan semua wisatawan yang akan ke Bali: soal tukar uang, jangan sekali-kali serakah!
 
@@ -48,7 +48,7 @@ Bagaimana caranya? Begini prosesnya:
 4. Di momen itu! Uang lenyap tanpa sepengetahuanmu!
 5. Seluruh proses kurang dari tiga detik, triknya cepat banget kayak sulap!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d5349e8eafe348b139cbac9a4ce74ddb.jpg)
+![Rahasia Trik Sulap: Begini Cara Uang Teman Dicuri!](https://images.gobaligo.id/vocus/vocus_d5349e8eafe348b139cbac9a4ce74ddb.jpg)
 
 ### **Pengalaman Pahit Netizen: Ini Bukan Kejadian Isolasi!**
 
@@ -76,7 +76,7 @@ Temennya cerita di internet, banyak netizen yang ikut share pengalaman pahit mer
 
 ## **Aturan Aman Tukar Uang di Bali: Begini Cara Jaga Duit Kamu**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_790c4aaf4dab053d3e6bae094881f2f9.jpg)
+![Aturan Aman Tukar Uang di Bali: Begini Cara Jaga Duit Kamu](https://images.gobaligo.id/vocus/vocus_790c4aaf4dab053d3e6bae094881f2f9.jpg)
 
 Berdasarkan saran dari netizen, berikut aturan aman yang dirangkum:
 

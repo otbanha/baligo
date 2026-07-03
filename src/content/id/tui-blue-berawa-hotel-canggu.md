@@ -25,7 +25,7 @@ _srcHash: 50a9efa58971f5c08814294a8b271057
 
 ### TUI BLUE Berawa Hotel and Villas: Pengalaman Mewah di Canggu, Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_976ff3cb5c3a95b10db25df778f18265.jpg)
+![TUI BLUE Berawa Hotel and Villas: Pengalaman Mewah di Canggu](https://images.gobaligo.id/vocus/vocus_976ff3cb5c3a95b10db25df778f18265.jpg)
 
 ## Kenapa Harus Pilih TUI BLUE Berawa Hotel and Villas?
 
@@ -45,17 +45,17 @@ Dari hotel, ke Pantai Seminyak (Seminyak Beach) cuma butuh waktu sekitar 10 meni
 
 Aku nginep di tipe kamar deluxe, luas banget dan terang. Desainnya perpaduan modern sama sentuhan tradisional Bali. Di dalam kamar ada smart TV, minibar, alat bikin teh/kopi, plus shower yang super gede—tekanan airnya juga nyaman banget.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_226c19db8a458fdb256c0c392f8c538f.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_01db5f71007e26d0bb0fe82f83e34307.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_66038585bf711ed3c1ea85afc7d6c526.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_8aa995c8994466ecc756a2889be400c1.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_c32e2b65941d9606d2d323a9a0c8694a.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_0f6960cf90dad9b83674c9632c34830b.jpg)
+![Kamar & Fasilitas: Perpaduan Sempurna antara Kenyamanan dan ](https://images.gobaligo.id/vocus/vocus_226c19db8a458fdb256c0c392f8c538f.jpg)
+![Kamar & Fasilitas: Perpaduan Sempurna antara Kenyamanan dan ](https://images.gobaligo.id/vocus/vocus_01db5f71007e26d0bb0fe82f83e34307.jpg)
+![Kamar & Fasilitas: Perpaduan Sempurna antara Kenyamanan dan ](https://images.gobaligo.id/vocus/vocus_66038585bf711ed3c1ea85afc7d6c526.jpg)
+![Kamar & Fasilitas: Perpaduan Sempurna antara Kenyamanan dan ](https://images.gobaligo.id/vocus/vocus_8aa995c8994466ecc756a2889be400c1.jpg)
+![Kamar & Fasilitas: Perpaduan Sempurna antara Kenyamanan dan ](https://images.gobaligo.id/vocus/vocus_c32e2b65941d9606d2d323a9a0c8694a.jpg)
+![Kamar & Fasilitas: Perpaduan Sempurna antara Kenyamanan dan ](https://images.gobaligo.id/vocus/vocus_0f6960cf90dad9b83674c9632c34830b.jpg)
 
 Fasilitas umum hotelnya juga lengkap banget, ada kolam renang outdoor, pusat kebugaran, dan SPA lengkap. Aku paling suka layanan SPA-nya, pijatnya profesional banget, bikin rileks total.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d92a4e09bdc9516a29e21d34d31aa0f7.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_30287cfce59296f57ce17252f547dd13.jpg)
+![Kamar & Fasilitas: Perpaduan Sempurna antara Kenyamanan dan ](https://images.gobaligo.id/vocus/vocus_d92a4e09bdc9516a29e21d34d31aa0f7.jpg)
+![Kamar & Fasilitas: Perpaduan Sempurna antara Kenyamanan dan ](https://images.gobaligo.id/vocus/vocus_30287cfce59296f57ce17252f547dd13.jpg)
 
 ## Pengalaman Makan: Nikmatnya Makanan dan Pemandangan
 
@@ -63,8 +63,8 @@ Pilihan makanan di hotel ini super variatif, total ada 3 restoran dan 3 beach ba
 
 Sarapan pakai sistem prasmanan, macamnya banyak, dari buah segar sampai makanan panas semua ada, buka setiap hari jam 6:30 sampai 10:00. Selain itu, hotel juga punya layanan kamar 24 jam, cocok banget buat yang suka makan di kamar kayak aku.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ab82630cb98d54352d56b2e7913ee901.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_9154b453ea4ba86c352f9fb01c4c28c1.jpg)
+![Pengalaman Makan: Nikmatnya Makanan dan Pemandangan](https://images.gobaligo.id/vocus/vocus_ab82630cb98d54352d56b2e7913ee901.jpg)
+![Pengalaman Makan: Nikmatnya Makanan dan Pemandangan](https://images.gobaligo.id/vocus/vocus_9154b453ea4ba86c352f9fb01c4c28c1.jpg)
 
 ![早餐真不錯😌 (盧彥廷提供)](https://images.gobaligo.id/vocus/vocus_9bd5864bdc1fa72ec63b71a39450bff5.jpg)
 
@@ -86,15 +86,15 @@ Hotel punya **119 kamar dan suite** plus **14 vila dengan kolam renang pribadi**
 
 ## Review Asli Tamu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_49dfaa5dd4d7e3308a661051f492e5c7.jpg)
+![Review Asli Tamu](https://images.gobaligo.id/vocus/vocus_49dfaa5dd4d7e3308a661051f492e5c7.jpg)
 
 TUI BLUE Berawa Hotel and Villas keren banget! Lokasi hotelnya strategis, hampir semua tempat bisa dijangkau dengan jalan kaki, termasuk pantai, restoran, dan kafe. Kamar kami super nyaman, semua yang dibutuhkan ada lengkap. Makasih banget sama hotel yang bikin liburan kami jadi menyenangkan dan rileks. Recommended banget! 💙
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2a03db169e5d2fdaff550fdc94aab6b3.jpg)
+![Review Asli Tamu](https://images.gobaligo.id/vocus/vocus_2a03db169e5d2fdaff550fdc94aab6b3.jpg)
 
 Kami check-in tanggal 31 Desember di hotel ini biar gampang ikut acara tahun baru di FINN's, dan ternyata pengalamannya di luar ekspektasi! Hotelnya baru banget, bahkan sopir taksi aja masih belum terlalu kenal. Hotelnya cantik banget, apalagi rooftop bar-nya, suasananya super santai. Deket juga sama restoran dan fasilitas di sekitarnya. Bisa jalan kaki, jadi ngurangin banget waktu macet! Recommended buat kamu yang mau nikmatin kenyamanan dan kemudahan di Canggu! 🚶‍♂️🌴
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aae7e739eae711fc68d8d02d0339864c.jpg)
+![Review Asli Tamu](https://images.gobaligo.id/vocus/vocus_aae7e739eae711fc68d8d02d0339864c.jpg)
 
 Kami nginep di TUI BLUE Berawa dengan pengalaman yang sangat menyenangkan! Staf hotelnya ramah dan suka bantu, bikin pengalaman kami jadi spesial banget. Meskipun hotel masih dalam tahap uji coba, ada beberapa detail kecil yang perlu diperbaiki, tapi secara keseluruhan kami puas banget dan merasa diperhatikan. Makasih banyak atas pelayanannya yang tulus, pasti bakal balik lagi! 😊
 
@@ -102,7 +102,7 @@ Kami nginep di TUI BLUE Berawa dengan pengalaman yang sangat menyenangkan! Staf 
 
 ## Rekomendasi Penginapan Lain di Canggu
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_03fcc0f55bfdea2b573bb264af918028.png)
+![Rekomendasi Penginapan Lain di Canggu](https://images.gobaligo.id/vocus/vocus_03fcc0f55bfdea2b573bb264af918028.png)
 
 Canggu adalah salah satu destinasi wisata paling hits di Bali belakangan ini. Dikenal dengan pantainya yang kece, budaya surfing yang kental, kafe-kafe kekinian, dan vibe bohemian yang unik. Mau kamu pecinta olahraga surfing, foodie, atau traveler yang cari suasana santai, Canggu punya semuanya.
 

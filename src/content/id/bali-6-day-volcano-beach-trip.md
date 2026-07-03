@@ -68,7 +68,7 @@ Video oleh Dai Yushan
 
 > Penjelasan lengkap La Brisa / cara booking? Baca: [Dijuluki 'Restoran Terindah di Bali': Gimana La Brisa Bisa Bersaing di Antara Ribuan Tempat Makan?](/blog/canggu-la-brisa-restaurant-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a8d594309ff33fbcc5edd332d4309d42.jpg)
+![Hari Pertama (Kuta/Canggu):](https://images.gobaligo.id/vocus/vocus_a8d594309ff33fbcc5edd332d4309d42.jpg)
 
 Mau tahu lebih banyak tips Canggu? [Klik di sini](/blog/canggu-guide/)
 
@@ -125,7 +125,7 @@ Dokumentasi Dai Yushan
 
 - Makan malam: Sun Sun Warung (enak banget!)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1538d93829cb024ee3566067b302ce2.jpg)
+![Hari Ketiga (Kintamani):](https://images.gobaligo.id/vocus/vocus_a1538d93829cb024ee3566067b302ce2.jpg)
 
 {{block:ubud}}
 

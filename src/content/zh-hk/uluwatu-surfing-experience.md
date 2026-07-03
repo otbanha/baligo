@@ -18,7 +18,7 @@ lang: zh-hk
 _srcHash: 5146fbe35ea8e803160f8c006aac8e29
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9fe91c6a839a47c4f5e72632bb07328a.jpg)
+![帶住兩位索女去烏魯瓦圖衝浪！](https://images.gobaligo.id/vocus/vocus_9fe91c6a839a47c4f5e72632bb07328a.jpg)
 
 Youtube網紅「大海旅人 Ocean Man」喺網上發佈嘅影片，帶大家認識烏魯瓦圖呢個出名嘅衝浪熱點。
 
@@ -38,7 +38,7 @@ Suluban Beach嘅秘境沙灘
 
 影片最後，佢強調要首先滿足同行夥伴嘅需求，自己先可以盡情投入衝浪嘅樂趣。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9468e44e84f0c2df36e48c0335495cf1.jpg)
+![帶住兩位索女去烏魯瓦圖衝浪！](https://images.gobaligo.id/vocus/vocus_9468e44e84f0c2df36e48c0335495cf1.jpg)
 
 其他喺視頻中冇介紹到嘅「Tanah Barak Cliff」藍色公路、11個烏魯瓦圖海灘俱樂部、16間美食餐廳推薦、兩間親子餐廳、四個購物點、各種精彩活動... 等介紹，請參考我哋嘅「[【烏魯瓦圖攻略】烏魯瓦圖景點 50個吃喝玩樂推薦](/blog/uluwatu-guide/)」
 
@@ -48,7 +48,7 @@ Suluban Beach嘅秘境沙灘
 
 你覺得佢哋嘅行程好精彩嗎？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家到社團投稿你嘅行程喔！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![帶住兩位索女去烏魯瓦圖衝浪！](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 撳呢度睇更多峇里島精彩遊記
 

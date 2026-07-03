@@ -27,7 +27,7 @@ _srcHash: ab3969e115f499246ed871322e52845d
 
 Bali makin keren dengan perkembangan kreatif dan budaya terbaru! Labyrinth Collective yang berlokasi di Nuanu Creative City adalah ruang inovatif yang menggabungkan seni, teknologi, dan keberlanjutan, memberikan pengalaman imersif dan lingkungan kreatif yang unik bagi para traveler. Mulai dari **teater kubah imersif** hingga **studio musik** dan **ruang kreatif**, tempat ini menyediakan panggung untuk mewujudkan seni, suara, dan ide-ide kreatif.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_951886621813d2cca2e6d72551b16d44.jpg)
+![【Canggu / Spot Baru di Nuanu】Pengalaman Imersif Seni & Tekno](https://images.gobaligo.id/vocus/vocus_951886621813d2cca2e6d72551b16d44.jpg)
 
 ---
 
@@ -35,7 +35,7 @@ Bali makin keren dengan perkembangan kreatif dan budaya terbaru! Labyrinth Colle
 
 Labyrinth Collective menghadirkan **teater kubah imersif** pertama di Indonesia. Bukan sekadar tempat hiburan, ini adalah ruang pengalaman yang menghubungkanmu dengan alam dan seni secara mendalam.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_05191369c0371f64a94ae033994120bc.jpg)
+![Teater Kubah Imersif (Immersive Dome)](https://images.gobaligo.id/vocus/vocus_05191369c0371f64a94ae033994120bc.jpg)
 
 🔹 **Keunggulan Teknologi**:
 
@@ -66,7 +66,7 @@ Pertunjukan yang tayang Agustus 2025:
 
 ### ✨ Bali Mystic Show: Perpaduan Mistis & Tradisi
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d842acd19c5132df3a72eb33559f8d16.png)
+![Bali Mystic Show: Perpaduan Mistis & Tradisi](https://images.gobaligo.id/vocus/vocus_d842acd19c5132df3a72eb33559f8d16.png)
 
 Kalau kamu mau pengalaman budaya Bali yang unik, **Bali Mystic Show** wajib banget dicoba! Pertunjukan inovatif ini menggabungkan seni tradisional Bali dengan teater modern, lewat visual dan suara yang memukau, ngajak penonton masuk ke dunia mistis Bali.
 
@@ -92,7 +92,7 @@ Pertunjukan ini bukan sekadar drama biasa, tapi perpaduan **budaya, teknologi, d
 
 ### ✨ Recombination: Pertunjukan Spektakuler
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f2a2187e53c5264dfd7a1a1e0fa77b7b.png)
+![Recombination: Pertunjukan Spektakuler](https://images.gobaligo.id/vocus/vocus_f2a2187e53c5264dfd7a1a1e0fa77b7b.png)
 
 Di teater kubah pertama di Indonesia, kamu bisa merasakan pertunjukan imersif *Recombination* karya maestro seni visual Julius Horsthuis. Perpaduan seni dan geometri dalam mahakarya fulldome ini menyajikan keindahan dan misteri pola matematika dengan presisi luar biasa, ditemani suara surround 5.1 dari musisi kelas dunia — bikin pengalaman visual dan audio makin maksimal. Dengan beli tiket, kamu juga dapat akses gratis ke Nuanu Creative City dan nikmati berbagai aktivitas seru di sana. Dijamin perjalanan melintasi musik, ruang, dan geometri ini bakal makin berkesan!
 
@@ -105,7 +105,7 @@ Di teater kubah pertama di Indonesia, kamu bisa merasakan pertunjukan imersif *R
 
 ### ✨ Journey Through Lights
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4fb3c0d02585394dc49e9ec9af19216b.png)
+![Journey Through Lights](https://images.gobaligo.id/vocus/vocus_4fb3c0d02585394dc49e9ec9af19216b.png)
 
 *Journey Through Lights* adalah pesta visual kubah imersif yang cocok buat seluruh keluarga. Ajak kamu menjelajahi luar angkasa, imajinasi, dan peradaban kuno dalam petualangan fantastis. Film multi-babak ini terdiri dari tiga bagian keren:
 
@@ -126,7 +126,7 @@ Biarkan imajinasimu terbang bebas di *Journey Through Lights* — sebuah perjala
 
 ### Wonderworld
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b29c01eac8920663674ff59918e32e7a.png)
+![Wonderworld](https://images.gobaligo.id/vocus/vocus_b29c01eac8920663674ff59918e32e7a.png)
 
 《WonderWorld》adalah pengalaman imersif 360° yang menggabungkan imajinasi, pengetahuan, dan keseruan, cocok banget buat anak-anak usia 4 tahun ke atas dan seluruh keluarga. Pertunjukan animasi panorama 3-in-1 ini menghubungkan tiga cerita seru secara mulus, mengajak kamu menjelajahi waktu, alam, dan imajinasi.
 
@@ -151,7 +151,7 @@ Dengan teknologi proyeksi kubah panorama canggih, 《WonderWorld》 membawa peno
 
 Buat kamu yang pecinta musik dan kreator, **Studio Musik** di Labyrinth Collective adalah tempat ideal buat memicu inspirasi, dengan lingkungan produksi profesional.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e890dd9cacf6b8aa127ad067cf954a24.jpg)
+![Studio Musik (Music Studio)](https://images.gobaligo.id/vocus/vocus_e890dd9cacf6b8aa127ad067cf954a24.jpg)
 
 🔹 **Fitur**:
 
@@ -166,7 +166,7 @@ Buat kamu yang pecinta musik dan kreator, **Studio Musik** di Labyrinth Collecti
 
 **Ruang Kreatif** di Labyrinth Collective adalah tempat impian bagi seniman dan inovator. Bukan cuma tempat bikin karya, tapi juga sumber inspirasi.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_850298fb96c6f2bc644520c50a8a5921.jpg)
+![Ruang Kreatif (MakerSpace)](https://images.gobaligo.id/vocus/vocus_850298fb96c6f2bc644520c50a8a5921.jpg)
 
 🔹 **Fasilitas & Keunggulan**:
 
@@ -189,7 +189,7 @@ Link website: <https://labyrinth.art/>
 
 ## Lebih banyak spot di Nuanu Creative City
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4852db27edd7e6562516445df46595df.jpg)
+![Lebih banyak spot di Nuanu Creative City](https://images.gobaligo.id/vocus/vocus_4852db27edd7e6562516445df46595df.jpg)
 
 Nuanu Creative City adalah kawasan kreatif terbaru di Bali yang mengusung konsep zero carbon, jadi destinasi wisata berkelanjutan paling hits. Sekarang udah mulai menarik para kreator global, wajib masuk bucket list!
 

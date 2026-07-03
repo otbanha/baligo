@@ -54,7 +54,7 @@ _srcHash: 47f68e0776e8b00b48e7e5834eb55076
 
 在这一天的夜晚，如果是晴朗无云的好天气，记得要走到户外（在度假村里面，不能走到外面哦！）欣赏完全没有光害的巴厘岛星空哦！感觉十分震撼哩！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b880067968c2c57882b9affade998d12.png)
+![静居日可以做什么？不可以做什么？](https://images.gobaligo.id/vocus/vocus_b880067968c2c57882b9affade998d12.png)
 
 ## 静居日前夕的妖怪大游行
 

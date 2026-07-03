@@ -23,7 +23,7 @@ _srcHash: a29d8bd52180177e25974d69770f4794
 
 不過唔使擔心，只要事前準備得當，就可以大幅降低風險，享受更安心嘅旅程。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ef24ed91fc095869c613bcf7510c0920.jpg)
+![出國碰上颱風季？旅程開始前嘅萬全準備](https://images.gobaligo.id/vocus/vocus_ef24ed91fc095869c613bcf7510c0920.jpg)
 
 ---
 
@@ -57,7 +57,7 @@ _srcHash: a29d8bd52180177e25974d69770f4794
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3296188a90670c29043b2d367e9bef2e.jpg)
+![儲存航空公司同訂票平台聯絡方式](https://images.gobaligo.id/vocus/vocus_3296188a90670c29043b2d367e9bef2e.jpg)
 
 ## 氣象預警：追蹤天氣預報係基本功
 

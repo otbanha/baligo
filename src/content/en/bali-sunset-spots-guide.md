@@ -24,7 +24,7 @@ _srcHash: 2d202f88c4914fe6f66099c1deda6bab
 
 ## Bali Sunset Timing
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_231febd4ab153a9d1e05dfaf75ce3f24.png)
+![Bali Sunset Timing](https://images.gobaligo.id/vocus/vocus_231febd4ab153a9d1e05dfaf75ce3f24.png)
 
 The sunset time in Bali varies slightly with the seasons, generally occurring between 6:00 PM and 6:45 PM local time. Due to Bali's proximity to the equator, the variation in sunset times is minimal. Additionally, because Bali is located south of the equator, the sunset tends to be slightly later in December and January. To check the exact sunset time for a specific date, you can use weather websites or apps that provide sunrise and sunset times.
 

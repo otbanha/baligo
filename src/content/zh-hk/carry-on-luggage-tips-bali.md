@@ -24,7 +24,7 @@ lang: zh-hk
 _srcHash: b8d9fe589de91ecb44a6df7a05f06b2a
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_49316950dc7a762a8401be7816d1dd28.jpg)
+![空姐冇話你知嘅隨身行李秘辛：登機箱挑選建議、上方行李架擺放禮儀同必備清單](https://images.gobaligo.id/vocus/vocus_49316950dc7a762a8401be7816d1dd28.jpg)
 
 喺航空旅行嘅過程中，隨身行李嘅攜帶同管理係每位旅客都必須面對嘅問題。作為一名擁有6年美國航空公司工作經驗嘅空姐 CiCi 親身觀察並累積咗大量旅客攜帶隨身行李嘅實務經驗。喺度同大家分享一啲常見嘅錯誤及解決方案，希望可以幫到大家更順利咁完成登機程序，並享受舒適嘅飛行體驗。
 

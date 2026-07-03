@@ -24,7 +24,7 @@ _srcHash: 6f4d356ff73058914e79b4017633c5db
 
 位于努沙杜瓦的顶级度假村The Apurva Kempinski Bali推出限时房价，**每晚只需 USD$350 起**，而且还包含早餐与下午茶。通过本站订购，**再加送巴厘岛旅游税**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_33659c491db9821772fe0b9e2999c6bf.jpg)
+![巴厘岛凯宾斯基 Apurva Kempinski 限时促销！ USD$350 入住五星酒店，含早餐＋下午茶](https://images.gobaligo.id/vocus/vocus_33659c491db9821772fe0b9e2999c6bf.jpg)
 
 对于想体验巴厘岛奢华度假的旅客来说，这个价格确实相当少见。
 
@@ -97,13 +97,13 @@ The Apurva Kempinski Bali 可以说是近几年巴厘岛讨论度非常高的五
 
 酒店入口的巨大阶梯与水景设计非常震撼，不少旅客第一次走进大厅都会有「像皇宫一样」的感觉。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b2c6dd4d64edfb27d9a59fc360146e46.jpg)
+![1⃣ 巴厘岛最壮观酒店建筑之一](https://images.gobaligo.id/vocus/vocus_b2c6dd4d64edfb27d9a59fc360146e46.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0ae99415650fae4cc93da41258861288.jpg)
+![1⃣ 巴厘岛最壮观酒店建筑之一](https://images.gobaligo.id/vocus/vocus_0ae99415650fae4cc93da41258861288.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5037d4181b4843d1402440636aaa2bcb.jpg)
+![1⃣ 巴厘岛最壮观酒店建筑之一](https://images.gobaligo.id/vocus/vocus_5037d4181b4843d1402440636aaa2bcb.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_48c7cc7bc07742ffc352eadce74c52a1.jpg)
+![1⃣ 巴厘岛最壮观酒店建筑之一](https://images.gobaligo.id/vocus/vocus_48c7cc7bc07742ffc352eadce74c52a1.jpg)
 
 ## 2️⃣ 努沙杜瓦悬崖海景
 
@@ -125,25 +125,25 @@ The Apurva Kempinski Bali 可以说是近几年巴厘岛讨论度非常高的五
 
 如果时间确定，用这样的价格体验五星级度假村，其实是挺不错的机会。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_19d07c063a34a6a3f66c1b7738e56e1a.jpg)
+![巴厘岛旅游观察](https://images.gobaligo.id/vocus/vocus_19d07c063a34a6a3f66c1b7738e56e1a.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9eb0670415cc57a9b35245d39769bf37.jpg)
+![巴厘岛旅游观察](https://images.gobaligo.id/vocus/vocus_9eb0670415cc57a9b35245d39769bf37.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e2c54d836c5c2c5e0e464e79857d4241.jpg)
+![巴厘岛旅游观察](https://images.gobaligo.id/vocus/vocus_e2c54d836c5c2c5e0e464e79857d4241.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dda9a12566442ff8f2c06d7ac0e585e3.jpg)
+![巴厘岛旅游观察](https://images.gobaligo.id/vocus/vocus_dda9a12566442ff8f2c06d7ac0e585e3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ea14bbc58b3483b771c8f7f341641297.jpg)
+![巴厘岛旅游观察](https://images.gobaligo.id/vocus/vocus_ea14bbc58b3483b771c8f7f341641297.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d3343477e91ad3fc975a859517612ee8.jpg)
+![巴厘岛旅游观察](https://images.gobaligo.id/vocus/vocus_d3343477e91ad3fc975a859517612ee8.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_97014a532ae072a7353ed84d4de00453.jpg)
+![巴厘岛旅游观察](https://images.gobaligo.id/vocus/vocus_97014a532ae072a7353ed84d4de00453.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_10f5bf0f2e443a37f18dcaa1d0e61f4b.jpg)
+![巴厘岛旅游观察](https://images.gobaligo.id/vocus/vocus_10f5bf0f2e443a37f18dcaa1d0e61f4b.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_109ae1e8bae39cc9c36aa072d7cf536f.jpg)
+![巴厘岛旅游观察](https://images.gobaligo.id/vocus/vocus_109ae1e8bae39cc9c36aa072d7cf536f.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_896b96bc68a66ab60d55c0e4e8f689fc.jpg)
+![巴厘岛旅游观察](https://images.gobaligo.id/vocus/vocus_896b96bc68a66ab60d55c0e4e8f689fc.jpg)
 
 酒店最吸引人的,当属其知名的水族馆餐厅KORAL。这间座落在酒店底层的餐厅,内有一个巨大的水族箱环绕,box座可以近距离欣赏热带鱼类缓缓游动,视觉效果振奋人心。游客点了餐厅的"KORAL探索菜单",每一道菜都富有创意,摆盘精致别致,运用当地新鲜食材,味道清新怡人。除了主菜,餐前的可颂面包和综合沙拉油醋酱也让人印象深刻,开胃美味。
 

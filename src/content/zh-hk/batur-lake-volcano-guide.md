@@ -30,7 +30,7 @@ Update: 2026/06/18
 
 ## **壯麗與靜謐共存嘅巴杜爾火山湖**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a5e37e35b2726428b7743348685d03c0.jpg)
+![壯麗與靜謐共存嘅巴杜爾火山湖](https://images.gobaligo.id/vocus/vocus_a5e37e35b2726428b7743348685d03c0.jpg)
 
 位於金塔馬尼（Kintamani）地區嘅巴杜爾火山湖，係由古老火山爆發形成嘅巨大火山口湖。湖面海拔約1,000公尺，俾層層山巒包圍，晨曦時分雲霧繚繞，好似一幅會呼吸嘅畫。
 
@@ -40,7 +40,7 @@ Update: 2026/06/18
 
 ## 探訪聖地：Pura Segara Ulun Danu Batur 水神廟
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781672235683-dscf3056_1200.webp)
+![探訪聖地：Pura Segara Ulun Danu Batur 水神廟](https://images.gobaligo.id/images/2026-06/1781672235683-dscf3056_1200.webp)
 
 ### **峇里島唔止得一座水神廟**
 
@@ -66,7 +66,7 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 
 ### 🔥 **徒步登山迎接日出**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_faaf8d67d5e06d033ea24d05e691b831.png)
+![徒步登山迎接日出](https://images.gobaligo.id/vocus/vocus_faaf8d67d5e06d033ea24d05e691b831.png)
 
 想體驗真正嘅征服感？參加巴杜爾火山日出登山係經典行程！通常凌晨就要出發，大約需要2至3個鐘登頂。當第一道曙光劃破天際，成個湖泊同山巒喺金光中閃爍，嗰份壯麗足以令人屏息。
 
@@ -74,7 +74,7 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 
 ## 🚙 **日出吉普車越野體驗**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e7f84a89a04639ed8ef6723260c2939.jpg)
+![日出吉普車越野體驗](https://images.gobaligo.id/vocus/vocus_3e7f84a89a04639ed8ef6723260c2939.jpg)
 
 若果你想輕鬆啲，又唔想錯過日出美景，可以選擇「巴杜爾火山日出吉普車行程」。四輪驅動吉普車會帶你穿越黑色火山沙地同熔岩谷地，直達最佳觀景點。
 
@@ -98,7 +98,7 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 
 ## **皇家航程：巴杜爾湖嘅雙重體驗**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3ca74bdad12e693945d91b0c5b5888cf.jpg)
+![皇家航程：巴杜爾湖嘅雙重體驗](https://images.gobaligo.id/vocus/vocus_3ca74bdad12e693945d91b0c5b5888cf.jpg)
 
 登上巴杜爾火山（Mount Batur），睇住太陽慢慢升起，係旅行者心中最震撼嘅回憶。行完山之後，不妨試吓新興嘅湖上活動——**巴杜爾湖皇家松根遊輪（Royal Songan Cruise）**。
 
@@ -116,7 +116,7 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 
 ## **喺湖邊放鬆：數十間絕美火山湖景咖啡廳推介**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e879f53736ac69a3fbe2b04bbb409467.jpg)
+![喺湖邊放鬆：數十間絕美火山湖景咖啡廳推介](https://images.gobaligo.id/vocus/vocus_e879f53736ac69a3fbe2b04bbb409467.jpg)
 
 如果話峇里島嘅靈魂藏喺火山同湖泊之間，咁巴杜爾湖嘅氣質，就藏喺一間間面向湖光嘅咖啡館裏面。
 
@@ -128,7 +128,7 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 
 ## 金塔瑪尼山林遊樂場 The Grand Lagunas
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a9a882fda8e0d1a069384ba95922dc4.png)
+![金塔瑪尼山林遊樂場 The Grand Lagunas](https://images.gobaligo.id/vocus/vocus_9a9a882fda8e0d1a069384ba95922dc4.png)
 
 喺The Grand Lagunas挑戰極限，體驗刺激冒險同絕美景色！呢度提供好多唔同嘅戶外活動設施，包括繽紛彩虹滑道(Rainbow Slide)、飛索(Flying Fox)、樹頂探險(Tree Top)、蘇丹籃(Keranjang Sultan)、彈跳床(Trampoline Jump)、吊床(Hammock)、鳥巢(Nest)、攀爬網(Climbing Net)、爬樹體驗(Climbing Tree)同叢林吊橋(Jungle Bridge)，仲有ATV騎乘等精彩項目，等你盡情釋放冒險精神。
 
@@ -140,13 +140,13 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 
 ## **浸溫泉、賞美景，完美結尾**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1b2c36cce167df14bcd2e664efd956d0.jpg)
+![浸溫泉、賞美景，完美結尾](https://images.gobaligo.id/vocus/vocus_1b2c36cce167df14bcd2e664efd956d0.jpg)
 
 喺結束登山同咖啡行程之後，去 **Toya Devasya 溫泉** 放鬆身心。浸喺天然火山地熱泉入面，望住遠處嘅火山同湖泊，係最療癒嘅收尾時光。
 
 除咗浸溫泉，呢度仲係一個大型嘅溫泉水上樂園㗎！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e239669b1787a60c45be7f558d30237.png)
+![浸溫泉、賞美景，完美結尾](https://images.gobaligo.id/vocus/vocus_4e239669b1787a60c45be7f558d30237.png)
 
 > ▶[Toya Devasya 溫泉門票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1140524&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F24959-toya-devasya-hot-springs-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3De7714021bf)
 

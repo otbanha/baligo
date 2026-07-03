@@ -15,13 +15,13 @@ _srcHash: 32fd17bbe3557109263aad3adb191708
 ---
 ## Pengalaman Unik di Bali: Petualangan Naik Unta di Pantai 🐪
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_78aaa239e94e16c866dd90393b901e8b.jpg)
+![Pengalaman Unik di Bali: Petualangan Naik Unta di Pantai](https://images.gobaligo.id/vocus/vocus_78aaa239e94e16c866dd90393b901e8b.jpg)
 
 Di pantai-pantai Bali yang cerah, selain surfing dan snorkeling, ada satu aktivitas yang beda sendiri—jalan-jalan naik unta di sepanjang bibir pantai! Pengalaman romantis yang awalnya terkenal dari Broom Beach di Australia ini, sekarang bisa kamu rasain langsung di Bali. Berikut dua tempat hits yang mewakili versi 'lokal' dan 'turis' dengan vibes yang beda.
 
 ## Mertasari Beach: Naik Unta Murah Meriah Favorit Warga Lokal
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_602a438b73356a1509afa111f1831f25.jpg)
+![Mertasari Beach: Naik Unta Murah Meriah Favorit Warga Lokal](https://images.gobaligo.id/vocus/vocus_602a438b73356a1509afa111f1831f25.jpg)
 
 Mertasari Beach di Sanur, Bali, adalah tempat favorit warga lokal buat santai di akhir pekan. Di sini ada [Bali Camel Ride](https://www.instagram.com/balicamelride?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) yang nawarin pengalaman naik unta santai dan ramah di kantong, cocok banget buat quality time bareng keluarga.
 
@@ -49,7 +49,7 @@ https://youtube.com/shorts/yebdtkV5tX0
 
 ## Kelan Beach: Naik Unta Versi Turis dengan Sunset yang Magis 🌅
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_101fba96039bcbebaa03f5a3e76ebd38.jpg)
+![Kelan Beach: Naik Unta Versi Turis dengan Sunset yang Magis](https://images.gobaligo.id/vocus/vocus_101fba96039bcbebaa03f5a3e76ebd38.jpg)
 
 Kelan Beach di Jimbaran, cuma beberapa menit dari Bandara Internasional Ngurah Rai Bali. Di sini ada [Bali Camel Adventure](https://www.balicameladventure.com/) yang terkenal dengan pemandangan romantis dan pelayanan berkualitas tinggi—pilihan utama banyak pasangan dan traveler.
 

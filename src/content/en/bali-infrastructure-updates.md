@@ -32,7 +32,7 @@ The government plans to commence construction of the Bali Cultural Center in Klu
 
 ## 3. **Turyapada Tower Construction**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9ef21eaffced56df44feef966df44d3c.jpg)
+![3. Turyapada Tower Construction](https://images.gobaligo.id/vocus/vocus_9ef21eaffced56df44feef966df44d3c.jpg)
 
 Scheduled for completion by mid-2026, the Turyapada Tower will become a new landmark, enhancing communication and broadcast coverage across Bali and boosting economic development in surrounding areas.
 
@@ -62,7 +62,7 @@ Sanur will see the construction of a parking tower and shuttle services to facil
 
 The South Bali Ring Road (JLS) project is planned to be built along the eastern, southern, and western sides of Bali's southern peninsula, with a total length of approximately 36.5 kilometers. This project aims to improve transportation in southern Bali, alleviate congestion on main roads, and enhance connectivity between regions.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_72f78e28f3bd99c5de7b3888a31b57cf.jpg)
+![9. South Bali Ring Road Project](https://images.gobaligo.id/vocus/vocus_72f78e28f3bd99c5de7b3888a31b57cf.jpg)
 
 Supporters are calling for the project to be designated as a "National Strategic Project" (PSN) to secure funding from the central government. On March 29, 2022, IB Surya Suamba, Head of the Bali Provincial Public Works and Housing Office (PUPR), confirmed that Badung Regent I Nyoman Giri Prasta had signed a written recommendation to change the project's funding model from public-private partnership to a National Strategic Project. This recommendation has been submitted to the National Development Planning Ministry (Bappenas). If approved, the central government will cover the full cost.
 
@@ -77,7 +77,7 @@ The construction of this ring road will help distribute traffic flow, reduce pre
 
 ## 10. **Gilimanuk-Mengwi Highway and South Bali Metro**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7302d77149a17f404dbbd2b8322bd71b.jpg)
+![10. Gilimanuk-Mengwi Highway and South Bali Metro](https://images.gobaligo.id/vocus/vocus_7302d77149a17f404dbbd2b8322bd71b.jpg)
 
 The Gilimanuk-Mengwi Highway project will continue to advance, with the addition of a South Bali Metro system to further improve transportation convenience in southern tourist hotspots and reduce traffic pressure.
 

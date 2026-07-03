@@ -64,17 +64,17 @@ The weather was perfect that day, and we were lucky enough to walk to the temple
 
 Located in Seminyak, The Tukad Villa is a thoughtful and stunningly beautiful villa. They take special care to accommodate early requests for birthday celebrations, and they prepared a birthday surprise for me that was absolutely perfect.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120479887-_62282968.jpeg)
+![The Tukad Villa](https://images.gobaligo.id/images/2026-04/1777120479887-_62282968.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120480808-_62283119.jpeg)
+![The Tukad Villa](https://images.gobaligo.id/images/2026-04/1777120480808-_62283119.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120481190-_62283134.jpeg)
+![The Tukad Villa](https://images.gobaligo.id/images/2026-04/1777120481190-_62283134.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120481616-62282961.jpg)
+![The Tukad Villa](https://images.gobaligo.id/images/2026-04/1777120481616-62282961.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120482037-62283316.jpg)
+![The Tukad Villa](https://images.gobaligo.id/images/2026-04/1777120482037-62283316.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120482443-_62282949.jpeg)
+![The Tukad Villa](https://images.gobaligo.id/images/2026-04/1777120482443-_62282949.jpeg)
 
 As soon as you step inside, you're greeted by a breathtaking private pool. The rooms are clean and comfortable, making you feel like you're in a super chill home. Every staff member is incredibly friendly, and the service, from the welcome to breakfast and every detail in between, rivals that of a five-star hotel.
 
@@ -110,7 +110,7 @@ If you're planning to go surfing in Bali, you must try Odysseys Surf School - Ba
 
 ## Ku De Ta Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ab0a3a5ac054d66ee5265ded695c92bc.jpg)
+![Ku De Ta Bali](https://images.gobaligo.id/vocus/vocus_ab0a3a5ac054d66ee5265ded695c92bc.jpg)
 
 Ku De Ta Bali ranks as one of the most beautiful and chill beachfront bars in Bali. It's huge, located right by the sea, allowing you to enjoy the ocean breeze and the sound of waves while sipping on drinks and savoring delicious food - truly a treat for the soul.
 
@@ -143,25 +143,25 @@ Aside from a mischievous monkey nearly snatching my sunglasses, everything about
 
 Karma Jimbaran, Jimbaran Beach Villas By Nakula, was undoubtedly the most amazing, chill, and luxurious villa I stayed in during this trip. This standalone villa features a private pool, three bedrooms, and a spacious living room.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120576870-73549_14070415490020155904_large.jpeg)
+![Karma Jimbaran](https://images.gobaligo.id/images/2026-04/1777120576870-73549_14070415490020155904_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120577326-73549_15111616300037773021_large.jpeg)
+![Karma Jimbaran](https://images.gobaligo.id/images/2026-04/1777120577326-73549_15111616300037773021_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120577737-73549_16062311530044006311_large.jpeg)
+![Karma Jimbaran](https://images.gobaligo.id/images/2026-04/1777120577737-73549_16062311530044006311_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120578252-73549_16062312490044008594_large.jpeg)
+![Karma Jimbaran](https://images.gobaligo.id/images/2026-04/1777120578252-73549_16062312490044008594_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120578714-b4f65ae90dc72dbc6ca9e4ec7d0262f3.jpg)
+![Karma Jimbaran](https://images.gobaligo.id/images/2026-04/1777120578714-b4f65ae90dc72dbc6ca9e4ec7d0262f3.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120579117-c43f3aa0ec5a4fee4e290504337e42c8_large.jpeg)
+![Karma Jimbaran](https://images.gobaligo.id/images/2026-04/1777120579117-c43f3aa0ec5a4fee4e290504337e42c8_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120579598-6faacc7b812ea594cffd6ff0a37b03e4_large.jpeg)
+![Karma Jimbaran](https://images.gobaligo.id/images/2026-04/1777120579598-6faacc7b812ea594cffd6ff0a37b03e4_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120579986-9e5e5d8471b8bc7327ea2cbd0b20462e.jpg)
+![Karma Jimbaran](https://images.gobaligo.id/images/2026-04/1777120579986-9e5e5d8471b8bc7327ea2cbd0b20462e.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120580521-278fb19eff62202bee14dde627edddbb_large.jpeg)
+![Karma Jimbaran](https://images.gobaligo.id/images/2026-04/1777120580521-278fb19eff62202bee14dde627edddbb_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777120581033-708ec567f91f7237a8a3461084cf689c_large.jpeg)
+![Karma Jimbaran](https://images.gobaligo.id/images/2026-04/1777120581033-708ec567f91f7237a8a3461084cf689c_large.jpeg)
 
 Upon arrival, we were greeted with chilled welcome drinks. Each morning, our private butler prepared breakfast, and in the evenings, we enjoyed in-room massage services. Staying here made me never want to leave.
 
@@ -183,7 +183,7 @@ Amidst this beautiful scenery, I must once again praise my guide. He carried my 
 
 The dinner at Sundara by Four Seasons was an experience. From the moment you enter through its grand entrance, you immediately sense the high-end atmosphere. Located by the sea with excellent views, live band performances, and impeccable ambiance, service, and attention to detail—it’s all 💯.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4a1c285ebde315bf580e113c530ea376.jpg)
+![Sundara by Four Seasons](https://images.gobaligo.id/vocus/vocus_4a1c285ebde315bf580e113c530ea376.jpg)
 
 However, I’m sorry to say, the food was so disappointing that it’s hard to rate. It’s a place where you’d want to linger and enjoy the romantic ocean view, but we left after just an hour. Chef, please step up your game! Despite the high prices, the food quality was truly disappointing.
 

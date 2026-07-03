@@ -28,7 +28,7 @@ _srcHash: 0f8611ca38d7e7de846caea36b84a0c1
 
 ## **梯田概念泳池 與自然完美融合**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f6fc53ee9b26048fd4f3d333e111e58f.jpg)
+![梯田概念泳池 與自然完美融合](https://images.gobaligo.id/vocus/vocus_f6fc53ee9b26048fd4f3d333e111e58f.jpg)
 
 一入到 Wanna Jungle，即刻俾眼前獨特嘅泳池設計驚艷！設計師巧妙咁將峇里島著名嘅梯田景觀融入泳池造型，階梯式嘅層疊水池同周邊熱帶叢林相映成趣，隨便一個角度都可以影出雜誌封面級嘅靚相。最正嘅係，即使唔係度假村住客，都可以買一日券入嚟享受呢片仙境。
 

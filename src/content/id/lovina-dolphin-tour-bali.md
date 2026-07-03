@@ -21,7 +21,7 @@ _srcHash: d7662a688d1f4fccdecbd7e401f29844
 ---
 Sebagai YouTuber keturunan Indonesia, VY Journey (Bing Bing & Jing Jing) kali ini memulai petualangan ke Lovina Beach di Bali Utara, Indonesia. Lewat video ini, dia mendokumentasikan seluruh perjalanan dengan sudut pandangnya yang khas.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_43ea8b73cf8a96d8efa3ca1b7c584d45.jpg)
+![Liburan Lihat Lumba-lumba di Lovina, Bali](https://images.gobaligo.id/vocus/vocus_43ea8b73cf8a96d8efa3ca1b7c584d45.jpg)
 
 Awalnya, dia jelasin alasan utama datang ke Lovina: pengen banget lihat kawanan lumba-lumba yang legendaris itu. Demi mimpi ini, dia sengaja nginep dua hari satu malam di sini.
 

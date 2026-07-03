@@ -21,7 +21,7 @@ _srcHash: bdc0f5e7cf8d112b27241e89d4545c82
 
 想在农历新年期间来一场不一样的家庭旅程吗？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_260ecc79b9769cb49d0d12ce7ae8a96f.png)
+![六天五夜・轻奢不爆预算・亲子放松首选](https://images.gobaligo.id/vocus/vocus_260ecc79b9769cb49d0d12ce7ae8a96f.png)
 
 不用自己烦恼行程、不进购物站、不用额外自费——只要带着家人飞来巴厘岛，就能开启一场集自然、海洋、美食与疗愈于一身的假期💆‍♀️🐘🌊
 
@@ -35,29 +35,29 @@ _srcHash: bdc0f5e7cf8d112b27241e89d4545c82
 
 ✨ **独特体验住宿动物园内！** 近距离与长颈鹿、斑马一起吃早餐，孩子一定会惊呼连连！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_175bbbfbf8d240e547c9748a2b527e50.jpg)
+![旅程亮点抢先看：](https://images.gobaligo.id/vocus/vocus_175bbbfbf8d240e547c9748a2b527e50.jpg)
 
 ✨ **私人泳池Villa三晚**，入住乌布绿墅Villa，享受主厨池畔BBQ晚餐，在星光下举杯庆团圆。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_88d885bd970a0c892cc200e796cef2cb.jpg)
+![旅程亮点抢先看：](https://images.gobaligo.id/vocus/vocus_88d885bd970a0c892cc200e796cef2cb.jpg)
 
 ✨ **海洋世界探索日**：走进巴厘岛的海底奇幻王国，观赏五彩缤纷的热带鱼、巨大的魔鬼鱼与珊瑚生态，让孩子在惊叹声中学习与自然共生的美丽。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5f7356745c14edbf570668768cce47b1.jpg)
+![旅程亮点抢先看：](https://images.gobaligo.id/vocus/vocus_5f7356745c14edbf570668768cce47b1.jpg)
 
 ✨ **瀑布俱乐部 Chill Day**：在网红级的瀑布泳池享受音乐与阳光，边戏水边拍出度假大片，美照一张接一张！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c2ab8cb84e1b0181a77402f5e158a4d6.jpg)
+![旅程亮点抢先看：](https://images.gobaligo.id/vocus/vocus_c2ab8cb84e1b0181a77402f5e158a4d6.jpg)
 
 ✨ **专业海景SPA按摩**，大人也能彻底放松，重启身心灵能量。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6c2abe40d8943dd1916b4dfa261ea167.jpg)
+![旅程亮点抢先看：](https://images.gobaligo.id/vocus/vocus_6c2abe40d8943dd1916b4dfa261ea167.jpg)
 
 ✨ **全程包车服务**，从头到尾轻松出游，无缝接驳无烦恼。
 
 ✨ **美食与网红景点精选**，一次满足味蕾与相机记忆卡。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_14b66b84cb3754722c3e158e68ea2fbf.jpg)
+![旅程亮点抢先看：](https://images.gobaligo.id/vocus/vocus_14b66b84cb3754722c3e158e68ea2fbf.jpg)
 
 ---
 
@@ -82,11 +82,11 @@ _srcHash: bdc0f5e7cf8d112b27241e89d4545c82
 
 ### [联系方式一] 加入LINE客服：**isbali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5b703900f19f9f4139ad843b5343f88a.jpg)
+![联系方式一 加入LINE客服：isbali](https://images.gobaligo.id/vocus/vocus_5b703900f19f9f4139ad843b5343f88a.jpg)
 
 ### [联系方式二] WeChat:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dba2706ee1cecdc012cf19a14dc60ae1.jpg)
+![联系方式二 WeChat:](https://images.gobaligo.id/vocus/vocus_dba2706ee1cecdc012cf19a14dc60ae1.jpg)
 
 ### [联系方式三] Facebook Messenger:
 
@@ -94,26 +94,26 @@ _srcHash: bdc0f5e7cf8d112b27241e89d4545c82
 
 ## ▼更多正在进行的优惠
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2abc41f5a9e9e13d248add4bf70717e4.jpg)
+![▼更多正在进行的优惠](https://images.gobaligo.id/vocus/vocus_2abc41f5a9e9e13d248add4bf70717e4.jpg)
 
 [点我！专人帮你定制最精彩的巴厘岛之旅](/blog/isbali-tour-agency-review/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c9e28c93bbbe5f6030c996d2158d6801.jpg)
+![▼更多正在进行的优惠](https://images.gobaligo.id/vocus/vocus_c9e28c93bbbe5f6030c996d2158d6801.jpg)
 
 [点我！全部都帮你打包好的巴厘岛-科莫多之旅](/blog/bali-komodo-luxury-tour-2026/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8d1c49bc97d705d414ae97e29e6deacb.jpg)
+![▼更多正在进行的优惠](https://images.gobaligo.id/vocus/vocus_8d1c49bc97d705d414ae97e29e6deacb.jpg)
 
 [点我！佩尼达岛东西岸+巴厘岛网红秘境五日游](/blog/nusa-penida-luxury-tour/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_33672ee04cad9cd5d2169e0fc3f6403a.jpg)
+![▼更多正在进行的优惠](https://images.gobaligo.id/vocus/vocus_33672ee04cad9cd5d2169e0fc3f6403a.jpg)
 
 [点我！伊真火山+巴厘岛探险五日游](/blog/ijen-bromo-bali-luxury-tour/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bfbd87f7b8aeb2816d05ce668257860f.jpg)
+![▼更多正在进行的优惠](https://images.gobaligo.id/vocus/vocus_bfbd87f7b8aeb2816d05ce668257860f.jpg)
 
 [点我！顶级豪华巴厘岛私人旅游](/blog/bali-luxury-vip-travel-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5ade1700adacfafb5b97583754daa9d0.jpg)
+![▼更多正在进行的优惠](https://images.gobaligo.id/vocus/vocus_5ade1700adacfafb5b97583754daa9d0.jpg)
 
 [点我！一次解决团体旅游痛点](/blog/bali-group-travel-tips/)

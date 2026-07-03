@@ -17,7 +17,7 @@ lang: id
 _srcHash: 888736a2cac3be3a63bac12545cf9017
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_02f9e0629db3fa5a8e4dc621e9b2389f.jpg)
+![2024年Bali投資新法規：對國外投資者投資Bali的影響](https://images.gobaligo.id/vocus/vocus_02f9e0629db3fa5a8e4dc621e9b2389f.jpg)
 
 2023年10月底，Bali宣布針對外國人在Bali做生意，以及投資者居留許可的新法規。這些法規帶來了一些重要變化，對於計劃在這個美麗島嶼上投資做生意或居住的外國人來說，尤為重要。
 

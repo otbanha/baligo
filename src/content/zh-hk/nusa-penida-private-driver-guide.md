@@ -19,7 +19,7 @@ _srcHash: 0d703b4444cb6ed9576c9ba48ed2efb7
 
 想去佩尼達島自由行但係擔心交通安排？其實，大部分遊客會揀由**峇里島本島嘅包車司機**幫手規劃行程。呢篇幫你了解佩尼達島包車嘅方式、推薦做法同注意事項。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6346fb2575580dc3cc5c5a5c8fd584b9.jpg)
+![佩尼達島包車司機點揀？｜旅人實用推薦包車同安排方式](https://images.gobaligo.id/vocus/vocus_6346fb2575580dc3cc5c5a5c8fd584b9.jpg)
 
 ## 佩尼達島可以自由行嗎？
 
@@ -42,7 +42,7 @@ _srcHash: 0d703b4444cb6ed9576c9ba48ed2efb7
 
 唔使自己搵司機，除非你熟當地語言或者旅遊模式。多數峇里島本島司機都有穩定合作嘅佩尼達島司機，專業得嚟又識得點樣帶旅客避開人潮。仲會幫手翻譯同時間安排，令你玩得更安心。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_787038b9a39f629e9ca2d266a53c3bad.jpg)
+![使唔使另外聯絡佩尼達島當地司機？](https://images.gobaligo.id/vocus/vocus_787038b9a39f629e9ca2d266a53c3bad.jpg)
 
 ## 搵峇里島包車司機安排嘅理由
 
@@ -77,7 +77,7 @@ Klook 唔單止提供一日遊同多日行程選項，仲有啲方案係**包含
 4. [佩尼達島的士、Gojek/Grab、包車、電單車交通攻略](/blog/nusa-penida-transport-guide/)
 5. [13間由奢華到平價嘅 Nusa Penida 好評住宿](/blog/nusa-penida-hotels-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0cb95fce009e6a0b11e1c5639d83ec4d.jpg)
+![佩尼達島完整攻略](https://images.gobaligo.id/vocus/vocus_0cb95fce009e6a0b11e1c5639d83ec4d.jpg)
 
 ---
 

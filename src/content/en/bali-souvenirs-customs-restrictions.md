@@ -101,7 +101,7 @@ Here are some tips to make your return to Taiwan smoother:
 
 ***
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2d587c023d2943d0c6828cc28462bc8b.png)
+![Tips for Bringing Bali Souvenirs Back to Taiwan](https://images.gobaligo.id/vocus/vocus_2d587c023d2943d0c6828cc28462bc8b.png)
 
 ## Personal Thoughts 🌴
 

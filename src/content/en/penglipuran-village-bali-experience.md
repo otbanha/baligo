@@ -70,11 +70,11 @@ In June 2025, the village once again received the **Kalpataru Lestari Appreciati
 
 Visitors can come to this village year-round, but the best time to visit is around the Galungan religious festival. During these days, the village is adorned with special decorations called 'penjor,' hung on bamboo poles. In these special moments, you can also witness young girls in traditional Balinese attire, carrying offerings on their heads as they gracefully make their way to the village's Hindu temple, like a ceremonial stage.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c121f8a31678b02905c23f897ac7235.jpg)
+![A Timeless Experience](https://images.gobaligo.id/vocus/vocus_1c121f8a31678b02905c23f897ac7235.jpg)
 
 ## Tasting Loloh Cem-cem
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cf5b527a6abdf1c3481af814009eb8d9.jpg)
+![Tasting Loloh Cem-cem](https://images.gobaligo.id/vocus/vocus_cf5b527a6abdf1c3481af814009eb8d9.jpg)
 
 Loloh Cemcem is a traditional drink from Penglipuran Village. Cemcem leaves are one of the main specialties of the village. Locals turn these leaves into a fresh, health-boosting beverage.
 

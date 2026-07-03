@@ -34,17 +34,17 @@ lang: id
 _srcHash: db9b7c82739b9037278ef494b940a519
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac2d27b682ef6d668628cfd17400e43f.png)
+![Unboxing Kebun Binatang Terbesar di Bali! Pengalaman Mengina](https://images.gobaligo.id/vocus/vocus_ac2d27b682ef6d668628cfd17400e43f.png)
 
 Video unboxing penginapan di kebun binatang Bali ini, dibawakan langsung oleh Li Yue yang mengajak kamu menjelajahi kebun binatang terbesar di Bali — Bali Safari Marine Park. Di awal video, Li Yue langsung mengajak kamu masuk ke kebun binatang seluas 40 hektar ini, sambil memperkenalkan pilihan penginapan dan fasilitas lengkap di sini. Dia bilang, di dalam kawasan ini nggak cuma ada kebun binatang, tapi juga restoran dan tempat nginep — cocok banget buat liburan keluarga atau pasangan selama beberapa hari.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_90c04100b8e76e23940801a6470d84fc.png)
+![Unboxing Kebun Binatang Terbesar di Bali! Pengalaman Mengina](https://images.gobaligo.id/vocus/vocus_90c04100b8e76e23940801a6470d84fc.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4a36984d51e44a277e5c65e127126c2b.png)
+![Unboxing Kebun Binatang Terbesar di Bali! Pengalaman Mengina](https://images.gobaligo.id/vocus/vocus_4a36984d51e44a277e5c65e127126c2b.png)
 
 Sorotan video ini adalah unboxing kamar di Mara River Safari Lodge — pondok dengan desain unik yang kalau kamu buka jendela, langsung bisa lihat hewan, kayak tinggal di rumah para satwa liar. Li Yue bilang, meskipun kamar di sini punya nuansa alami, fasilitasnya lengkap banget, cocok banget buat pasangan atau suami istri yang lagi bulan madu. Dia juga bilang, kalau nginep di sini bisa nikmatin sarapan bareng singa — pengalaman seru buat dekat-dekat dengan satwa liar.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_854c1ee94bd7ea8f672050ad4e7034c6.png)
+![Unboxing Kebun Binatang Terbesar di Bali! Pengalaman Mengina](https://images.gobaligo.id/vocus/vocus_854c1ee94bd7ea8f672050ad4e7034c6.png)
 
 Li Yue juga kasih tips praktis di video ini: karena tiket masuk kebun binatang lumayan mahal, mending nginep di dalam kebun binatang aja — lebih worth it, soalnya harga nginep udah termasuk tiket masuk dan aktivitas lain, jadi nilai tambahnya kerasa banget. Selain itu, video ini juga nunjukin fasilitas lain di kebun binatang, kayak water park mini dan pertunjukan terjadwal, biar liburan kamu di sini makin seru dan padat.
 

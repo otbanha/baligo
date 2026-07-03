@@ -19,7 +19,7 @@ lang: zh-cn
 _srcHash: 600295c0176e9576547dfc373b850a78
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_90c38ac72764dbb29c604f9b35b3f960.jpg)
+![乌布艺术市场关闭，游客有什么替代购物选择？](https://images.gobaligo.id/vocus/vocus_90c38ac72764dbb29c604f9b35b3f960.jpg)
 
 **乌布艺术市场**作为巴厘岛最著名的旅游景点之一，吸引了无数游客前来购买当地艺术品和手工艺品。然而，上个礼拜一场毁灭性的火灾及其后续善后，这个繁华的市场将在近期之内持续关闭。这场火灾于2024年8月17日发生，摧毁了新的市场建筑，给当地经济和上千名商贩带来了巨大的冲击。
 
@@ -35,7 +35,7 @@ _srcHash: 600295c0176e9576547dfc373b850a78
 
 ## **游客的替代购物选择**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b760e753c909251d2d41f17357a8e93d.png)
+![游客的替代购物选择](https://images.gobaligo.id/vocus/vocus_b760e753c909251d2d41f17357a8e93d.png)
 
 尽管乌布艺术市场目前关闭，但游客仍然可以在巴厘岛的其他地点享受购物体验。我们的「**乌布攻略地图**」提供了「[五个乌布市场替代方案](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)」，让游客不必错过购买当地艺术品和手工艺品的机会。
 
@@ -53,7 +53,7 @@ _srcHash: 600295c0176e9576547dfc373b850a78
 
 📩 **立即加入「巴厘岛旅游攻略」博客，成为巴厘岛旅游达人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![注册加入我们的博客](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **通过免费订阅，你将获得：**
 

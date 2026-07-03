@@ -96,7 +96,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### 6. 水肺潛水 (Scuba Diving)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e4f9d3574fd448e635155a11a63a9ec0.png)
+![6. 水肺潛水 (Scuba Diving)](https://images.gobaligo.id/vocus/vocus_e4f9d3574fd448e635155a11a63a9ec0.png)
 
 - **簡介**：峇里島係世界級潛點，海洋生物多樣性好豐富，適合由初學者到技術潛水員。可以見到珊瑚礁、沉船，甚至蝠鱝 (Manta Ray) 同翻車魚 (Mola Mola)。
 - **推薦潛點**：
@@ -114,13 +114,13 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### 6.1 浮潛（snorkeling）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8931b9fe6f6fd60c4c95f35857142770.jpg)
+![6.1 浮潛（snorkeling）](https://images.gobaligo.id/vocus/vocus_8931b9fe6f6fd60c4c95f35857142770.jpg)
 
 > 請參考 [峇里島最靚浮潛地點大集合：新手友善海洋冒險指南](/blog/bali-snorkeling-spots/)
 
 ### 7. 海底漫步 (Sea Walking)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f7bdbcc0d649ea079dbe5163739266a5.jpg)
+![7. 海底漫步 (Sea Walking)](https://images.gobaligo.id/vocus/vocus_f7bdbcc0d649ea079dbe5163739266a5.jpg)
 
 - **簡介**：戴住特製嘅氧氣頭盔，喺海底行，近距離睇珊瑚礁同熱帶魚群。唔使潛水經驗或者識游水，連眼鏡都唔使除，好啱怕水嘅人或者想輕鬆體驗海底世界嘅遊客。
 - **推薦地點**：南灣 (Tanjung Benoa)。
@@ -132,7 +132,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### 8. 激流泛舟 (White Water Rafting)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f2a9d8b8bce68c18fddbd3554831cf6a.jpg)
+![8. 激流泛舟 (White Water Rafting)](https://images.gobaligo.id/vocus/vocus_f2a9d8b8bce68c18fddbd3554831cf6a.jpg)
 
 - **簡介**：喺峇里島中部嘅河流玩激流泛舟，穿過熱帶雨林、梯田同峽谷，途中可以欣賞瀑布同野生動物。河道分咗唔同等級，啱晒家庭或者想尋求刺激嘅冒險者。
 - **推薦地點**：
@@ -173,7 +173,7 @@ https://youtube.com/shorts/0f-eAQ78no4?si=L7S8-kjpwt_VcsLh
 
 ### 12. 睇海豚 (Dolphin Watching)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_399f7b08094dc7f6d4273d9eaabb76c6.jpg)
+![12. 睇海豚 (Dolphin Watching)](https://images.gobaligo.id/vocus/vocus_399f7b08094dc7f6d4273d9eaabb76c6.jpg)
 
 - **簡介**：朝早 6 點左右坐船出海，喺峇里島北部海域睇野生海豚群。通常會見到幾十隻海豚跳嚟跳去，場面好壯觀。建議提早預訂同準時出發，咁睇到嘅機會會大啲。
 - **推薦地點**：羅威那 (Lovina)。
@@ -216,9 +216,9 @@ https://youtu.be/wai2lSW3vVU?si=smSuWoB2Y5ygrC9t
 
   **豪華浮床租借服務**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c068d50978234e879e8f87aec69d92f5.png)
+![額外加碼：泳池漂浮](https://images.gobaligo.id/vocus/vocus_c068d50978234e879e8f87aec69d92f5.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_790a033adc23cb620a87c55b53d1cf83.png)
+![額外加碼：泳池漂浮](https://images.gobaligo.id/vocus/vocus_790a033adc23cb620a87c55b53d1cf83.png)
 
 喺峇里島熱情嘅陽光底下，等啲可愛嘅水泡為你嘅假期加添時尚亮點！業者提供直接送到你酒店房或者別墅門口嘅貼心服務，令你完全唔使操心。無論係細路定大人，都可以盡情享受水上樂趣。由經典圓形到夢幻獨角獸、熱帶火鶴造型，多種尺寸、形狀同設計任你揀，為你嘅泳池時光加多啲歡樂同打卡回憶！
 

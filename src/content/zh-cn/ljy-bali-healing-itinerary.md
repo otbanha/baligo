@@ -111,44 +111,44 @@ https://youtube.com/shorts/Rd0qfDV72bM
 
 第一晚住在水明漾的 Pelangi Bali Hotel & Spa。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781014591626-mixcollage-09-jun-2026-06-23-pm-6066.jpg)
+![Day 1 住宿｜水明漾 Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-06/1781014591626-mixcollage-09-jun-2026-06-23-pm-6066.jpg)
 
 赖佳莹提供
 
 两个人一晚大约只要 USD$65 左右，以地点来说我觉得很可以。
 最大优点就是——放完行李就能直接步行到海边。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781014649179-695071414_17950095120159785_7534116028163351902_n.webp)
+![Day 1 住宿｜水明漾 Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-06/1781014649179-695071414_17950095120159785_7534116028163351902_n.webp)
 
 赖佳莹提供
 
 不用再叫车、不用再移动，晚上散步去海边餐厅吃晚餐，听海浪声、吹海风，那种「旅程正式开始了」的感觉，真的很舒服。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781014682478-700224347_17950095102159785_6229290711436180316_n.webp)
+![Day 1 住宿｜水明漾 Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-06/1781014682478-700224347_17950095102159785_6229290711436180316_n.webp)
 
 赖佳莹提供
 
 #### Pelangi Bali Hotel & Spa
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132295579-a217b7b9deffc6b3fd00e916b05af6c3.webp)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132295579-a217b7b9deffc6b3fd00e916b05af6c3.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132304396-5f0122f8618048a616777191981d4c39.webp)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132304396-5f0122f8618048a616777191981d4c39.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132304872-414b55fef6544a7198b462310d39f58a.webp)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132304872-414b55fef6544a7198b462310d39f58a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132305361-14243754.jpg)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132305361-14243754.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132305775-412170935.jpg)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132305775-412170935.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132306195-412170988.jpg)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132306195-412170988.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132306596-470270319.jpg)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132306596-470270319.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132307080-515181754.jpg)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132307080-515181754.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132307630-515182654.jpg)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132307630-515182654.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132315197-c46e84479089823e865fa0d893fb636c.webp)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132315197-c46e84479089823e865fa0d893fb636c.webp)
 
 空房 & 房价查询：[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=45546) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685500&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-NqZuFikmCS-sPM0dWxZyabEKeRsYW5hYmlgZHBbE6LlYmOIuvcH1ZZlDt47pBrfR0YUuMQwDODcc9rzRWMjBsZ-w991YjJD3HYwch0gJHpBOP3Xs8FTG93rJA9xcLCcWA67yWW30zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZBsaWBgYGOgZGAAFSxIrPFPAmpMTc5JLcxJLUkMqC4CGmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiCuAFrqlQu0wrNXBdPyzOb1Pu2e-2LSbaMebU9vxBsQ43rg29hELU3TsJxaGXywMTawMXawMk1hZOIBxtIuVN8jTP8TIQ9c5wjQgKkJK0RDoZiNTUyNzXYNEy8QkQzMLXRNLExMLA11TM1MTc0Mjjf3fXh14bmxkosCoJRgf4unpYlhSmGpWWGqZU1RgasB4ilHK0NzYwtDI0NDIyMjSWM_EIs2s2CKv2CI3K8KDMYjNxcXI1dIwyoaLOTTYRfDx8Rm7pwlIO0gxe7oEKdrxTnl945yFvRaIZwjjBU78WSyWGsRrHwkTSWKtytANCc_oFS9gbGBk6mLkFmD0YIxgrADyGFcxMmxgZNzB-B8GGF8xgswDAJi5mHrjAgAA&masterhotelid_tracelogid=100025527-0a9ab168-494480-5654712&detailFilters=17|1~17~1*31|685500~31~685500*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=363&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109) [Booking](https://booking.tpm.li/KYvRaNYn)
 
@@ -180,7 +180,7 @@ https://youtube.com/shorts/Rd0qfDV72bM
 
 白天安排去了现在话题度很高的 Atlas Beach Club。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781014745875-atlas2.jpg)
+![Atlas Beach Club｜传说中的全球最大 Beach Club](https://images.gobaligo.id/images/2026-06/1781014745875-atlas2.jpg)
 
 Atlas Beach Club 赖佳莹提供
 
@@ -199,7 +199,7 @@ Atlas Beach Club 赖佳莹提供
 
 下午跑到努沙杜瓦的凯宾斯基吃下午茶。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781014825527-kemp1.jpg)
+![努沙杜瓦 凯宾斯基下午茶｜海景真的加很多分](https://images.gobaligo.id/images/2026-06/1781014825527-kemp1.jpg)
 
 The Apurva Kempinski Bali 赖佳莹提供
 
@@ -238,7 +238,7 @@ Bali Life Foundation 赖佳莹提供
 但同时，他们又不是苦闷的。
 反而会一直笑、一直聊天，甚至还主动帮忙招呼大家。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781014986137-bali_life_foundation2.jpg)
+![Bali Life Foundation｜这趟旅程最深刻的一站](https://images.gobaligo.id/images/2026-06/1781014986137-bali_life_foundation2.jpg)
 
 赖佳莹提供
 
@@ -267,25 +267,25 @@ Bali Life Foundation 赖佳莹提供
 
 ### Respati Beach Hotel - 位置超方便
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133406631-45699931.jpg)
+![Respati Beach Hotel - 位置超方便](https://images.gobaligo.id/images/2026-05/1780133406631-45699931.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133407043-45700385.jpg)
+![Respati Beach Hotel - 位置超方便](https://images.gobaligo.id/images/2026-05/1780133407043-45700385.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133407768-45700399.jpg)
+![Respati Beach Hotel - 位置超方便](https://images.gobaligo.id/images/2026-05/1780133407768-45700399.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133408330-45700402.jpg)
+![Respati Beach Hotel - 位置超方便](https://images.gobaligo.id/images/2026-05/1780133408330-45700402.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133408808-45700681.jpg)
+![Respati Beach Hotel - 位置超方便](https://images.gobaligo.id/images/2026-05/1780133408808-45700681.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133409286-45700868.jpg)
+![Respati Beach Hotel - 位置超方便](https://images.gobaligo.id/images/2026-05/1780133409286-45700868.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133409871-45700923.jpg)
+![Respati Beach Hotel - 位置超方便](https://images.gobaligo.id/images/2026-05/1780133409871-45700923.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133410381-45699136.jpg)
+![Respati Beach Hotel - 位置超方便](https://images.gobaligo.id/images/2026-05/1780133410381-45699136.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133410787-45699394.jpg)
+![Respati Beach Hotel - 位置超方便](https://images.gobaligo.id/images/2026-05/1780133410787-45699394.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780133411307-45699611.jpg)
+![Respati Beach Hotel - 位置超方便](https://images.gobaligo.id/images/2026-05/1780133411307-45699611.jpg)
 
 空房 & 房价查询：[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2973771) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685474&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-PaycTFJMEktYmJY-rZ5cuZhBiNDO4zWmyVdwzaIdf62rHOwfPsGSBwaXII4JnBuOi15kZG-dbXgTvkIh12MDIdYGQ6wbh6adwCpsNXXzGeYmHh2DpL4BLLXsboaqXs1EolKxMdpZLMkpxUJSulp4vmPW3Y83xFq5KOUkpqcTJQCMhKzM0vzSsBso3MTE2NTPUMDICCJYkVnilgzcmJOcmlOYklqSGVBUBDjHSUMoudS4oyC4JSczNLSlKBqtISc4pTQeJBqcVAmWSwIMjoIig_Mz8PotsARSwsMac0FaISaJ9bKtQKw9rYRyxM0bGfWBh-sTA0sTJ0sTJMYmXhAPpyFyuPt49_uKOvrqFulK6hlKKhgYGBEdDZ5roGiZbGiaaWRromliYmFoa6xgYGlsYWZhrLVj09-NzYyESBUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm4mjsYmFcZQNF3NosIvg4-Mzdk8TkHaQYvZ0CVK0453y-sY5C3stEM8Qxguc-LNYLDWI1z4SJpLEWpWhGxKe0StewNjAyNTFyC3A6MEYwVgB5DGuYmTnYjYwMhRg2sDIuIPxPwwwvmIEGQsAELT2giACAAA&masterhotelid_tracelogid=100025527-0a93a592-494481-3009386&detailFilters=17|1~17~1*31|685474~31~685474*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1602&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109) [Booking](https://booking.tpm.li/DQtXL8Cn)
 
@@ -295,7 +295,7 @@ Bali Life Foundation 赖佳莹提供
 
 放完行李后，我们又跑去逛了Icon Bali Mall。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015028030-icom.jpg)
+![Icon Bali Mall｜最近很火的海景商场](https://images.gobaligo.id/images/2026-06/1781015028030-icom.jpg)
 
 ICON Bali Mall 赖佳莹提供
 
@@ -304,7 +304,7 @@ ICON Bali Mall 赖佳莹提供
 
 很多位置都能直接看到海，加上整体空间蛮新、冷气也够强（笑），现在已经变成不少人到沙努尔会顺便安排的地方。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015168659-secret_garden.jpg)
+![Icon Bali Mall｜最近很火的海景商场](https://images.gobaligo.id/images/2026-06/1781015168659-secret_garden.jpg)
 
 这次还顺手买了Secret Garden的香氛。赖佳莹提供
 印尼其实很多香氛品牌价格都不错，有些味道也很有热带感，很适合带回家当伴手礼。
@@ -314,7 +314,7 @@ ICON Bali Mall 赖佳莹提供
 第三天完全没有硬排行程。
 睡到自然醒后，决定把整天都留给沙努尔。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015212224-sanur1.jpg)
+![Day 3｜在沙努尔慢下来的一天，温柔到让人舍不得离开](https://images.gobaligo.id/images/2026-06/1781015212224-sanur1.jpg)
 
 赖佳莹提供
 
@@ -346,7 +346,7 @@ ICON Bali Mall 赖佳莹提供
 
 这家“微笑商店”其实是由巴厘岛微笑基金会运营的二手义卖店。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015250988-smile_shop.jpg)
+![微笑商店｜比购物更有意义的一站](https://images.gobaligo.id/images/2026-06/1781015250988-smile_shop.jpg)
 
 Yayasan Senyum Bali 赖佳莹提供
 
@@ -366,7 +366,7 @@ Yayasan Senyum Bali 赖佳莹提供
 
 来自不同国家的人聚在一起，一针一线地钩织“义乳”。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015375794-lady_bumps.jpg)
+![一场很温暖的跨国钩针聚会](https://images.gobaligo.id/images/2026-06/1781015375794-lady_bumps.jpg)
 
 赖佳莹提供
 
@@ -386,7 +386,7 @@ Yayasan Senyum Bali 赖佳莹提供
 
 这次一样去了我几乎每次来都会回访的 The Nest Boutique Spa。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015307241-spa.jpg)
+![‍ 每次来沙努尔几乎都会按的 Spa](https://images.gobaligo.id/images/2026-06/1781015307241-spa.jpg)
 
 The Nest Boutique Spa 赖佳莹提供
 
@@ -404,7 +404,7 @@ The Nest Boutique Spa 赖佳莹提供
 
 按摩结束后，整个人通体舒畅，直接又跑去商场继续购物🤣
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015463514-icon.jpg)
+![按完直接开启补货模式](https://images.gobaligo.id/images/2026-06/1781015463514-icon.jpg)
 
 赖佳莹提供
 
@@ -445,7 +445,7 @@ The Nest Boutique Spa 赖佳莹提供
 
 第一站直接冲圣泉寺。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015518073-tirta_empul_3.jpg)
+![圣泉寺｜一大早来真的差很多](https://images.gobaligo.id/images/2026-06/1781015518073-tirta_empul_3.jpg)
 
 Tirta Empul Temple 赖佳莹提供
 
@@ -475,7 +475,7 @@ Tirta Empul Temple 赖佳莹提供
 
 接着继续往北骑，来到彭利普兰村。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015614405-pengli1.jpg)
+![彭利普兰村｜很有生活感的传统村庄](https://images.gobaligo.id/images/2026-06/1781015614405-pengli1.jpg)
 
 Penglipuran Village 赖佳莹提供
 
@@ -495,7 +495,7 @@ Penglipuran Village 赖佳莹提供
 
 离开村庄后，沿着山路一路往德哥拉朗梯田方向骑。这次直接冲大家超爱拍照的 TIS Cafe。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015660578-tis_3.jpg)
+![德哥拉朗梯田｜TIS Cafe 看景真的很夸张](https://images.gobaligo.id/images/2026-06/1781015660578-tis_3.jpg)
 
 TIS Cafe 赖佳莹提供
 
@@ -514,7 +514,7 @@ TIS Cafe 赖佳莹提供
 
 中午直接冲去吃乌布超经典的脏鸭饭。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015721087-bebek.jpg)
+![乌布经典午餐｜Bebek Tepi Sawah 脏鸭饭](https://images.gobaligo.id/images/2026-06/1781015721087-bebek.jpg)
 
 Bebek Tepi Sawah 赖佳莹提供
 
@@ -523,7 +523,7 @@ Bebek Tepi Sawah 赖佳莹提供
 
 再搭配印尼辣酱一起吃，真的很邪恶。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781015694382-bebek_4.jpg)
+![乌布经典午餐｜Bebek Tepi Sawah 脏鸭饭](https://images.gobaligo.id/images/2026-06/1781015694382-bebek_4.jpg)
 
 赖佳莹提供
 
@@ -564,7 +564,7 @@ https://youtube.com/shorts/MmqfkXw211k
 
 这次跑去买 Massimo 冰淇淋。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781016426600-mismo.jpg)
+![Massimo 冰淇淋｜永远都在排队](https://images.gobaligo.id/images/2026-06/1781016426600-mismo.jpg)
 
 Massimo Italian Restaurant 赖佳莹提供
 
@@ -666,7 +666,7 @@ https://youtu.be/XRR7ddLAiV4
 
 从姜茶、香草茶，到各种调味咖啡都有。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781016873612-luwak3.jpg)
+![山里的咖啡公园｜回程中的休息站](https://images.gobaligo.id/images/2026-06/1781016873612-luwak3.jpg)
 
 赖佳莹提供
 
@@ -735,7 +735,7 @@ https://youtube.com/shorts/sVxycGvyT9w
 
 今晚的压轴晚餐，是我几乎每次来巴厘岛都会想再回访的Cuca。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781016745897-cuca1.jpg)
+![Cuca｜每次来巴厘岛都还是会惊艳](https://images.gobaligo.id/images/2026-06/1781016745897-cuca1.jpg)
 
 Cuca Restaurant Bali 赖佳莹提供
 
@@ -782,7 +782,7 @@ Cuca Restaurant Bali 赖佳莹提供
 
 第一站来到近年相当受欢迎的净化圣地——Taman Beji Griya Waterfall。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781016977848-beji.jpg)
+![‍ Taman Beji Griya Waterfall｜五阶段圣水净化仪式](https://images.gobaligo.id/images/2026-06/1781016977848-beji.jpg)
 
 Taman Beji Griya Waterfall 赖佳莹提供
 
@@ -808,7 +808,7 @@ Taman Beji Griya Waterfall 赖佳莹提供
 
 中午安排在贾蒂卢维梯田附近的景观餐厅 Catavaca 用餐。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781016946446-jatiluwih.jpg)
+![Catavaca Jatiluwih｜世界文化遗产梯田中的午餐](https://images.gobaligo.id/images/2026-06/1781016946446-jatiluwih.jpg)
 
 Catavaca Jatiluwih 赖佳莹提供
 
@@ -866,7 +866,7 @@ Jatiluwih Rice Terraces
 
 晚餐前，先到库塔吃一家在地老店的鱼汤。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781017149714-709863826_17952267135159785_5884357276073212035_n.jpg)
+![库塔老字号鱼汤｜朴实却令人难忘](https://images.gobaligo.id/images/2026-06/1781017149714-709863826_17952267135159785_5884357276073212035_n.jpg)
 
 赖佳莹提供
 
@@ -886,7 +886,7 @@ Jatiluwih Rice Terraces
 
 趁着回到库塔，赶快到熟悉的店家补货。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781017192760-709578614_17952267126159785_222582433305496374_n.jpg)
+![最后冲刺｜伴手礼补货时间](https://images.gobaligo.id/images/2026-06/1781017192760-709578614_17952267126159785_222582433305496374_n.jpg)
 
 赖佳莹提供
 
@@ -906,7 +906,7 @@ Jimbaran Bay Beach Resort & Spa by Prabhu
 
 原本只是很平常地办理入住。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781017265904-709707450_17952267105159785_2782423296135553890_n.jpg)
+![生日惊喜｜免费升等超大正海景房](https://images.gobaligo.id/images/2026-06/1781017265904-709707450_17952267105159785_2782423296135553890_n.jpg)
 
 赖佳莹提供
 
@@ -936,29 +936,29 @@ Jimbaran Bay Beach Resort & Spa by Prabhu
 
 ### Jimbaran Bay Beach Resort & Spa by Prabhu
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130124419-591154787.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130124419-591154787.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130124945-591155178.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130124945-591155178.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130125365-670317057.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130125365-670317057.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130125880-688804851.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130125880-688804851.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130126214-688805055.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130126214-688805055.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130132126-84821601.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130132126-84821601.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130132637-267601565.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130132637-267601565.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130133134-437134342.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130133134-437134342.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130133548-437990866.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130133548-437990866.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130133907-591151706.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130133907-591151706.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130134293-591151960.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130134293-591151960.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780130134769-591152775.jpg)
+![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130134769-591152775.jpg)
 
 空房 & 房价查询：[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1195948) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=5895863&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-NqZuFikmCS-sPMsePTjj42IS5DQxNDCwsjEwMjg2dcFosyHGP6D33VWFDi4PlNA8jUrHQI4JnBuP3tc6YVjIwbGdNAQC3IYQcj0wFGphOMi786LGCaseqX9ikWFo5Nt7gvsfxkiq5Wyk6tVLIy0VEqySzJSVWyUno2p_dp98wXm3Yr6SilpBYnA4WArMTc_NK8EiDb0tTC0lzPwAAoVpJY4ZmiZGWuo5ScmJNcmpNYkhpSWQA0w0xHKbPYuaQosyAoNTezpCQVqCotMac4FSQelFoMlEkGCyr5AY0pggpk5udBtBugiIUl5pSmQhwBtNAtFWqHca0OptufLpr3tGHP8xWtxLrdhNpuNyTG7Ya1sY9YmKJjP7Ew_GJhaGJl6GJlmMTKwgGMoV2svEEuEd4mYbqeoSGezh5SioYGBgZGpqZG5roGiZaJSYZmFromliYmFga6xkbGZkaWRho95_sPPDc2MlFg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZu7oamJhHGXDxezpEiRoxzvl9Y1zFvZSIJ4ijKcF4hnCeIETfxaLpQbx2kfCRJJYqzJ0Q8IzesULGBsYmboYuQUYPRgjGCuAPMZVjAwbGBl3MP6HAcZXjCDzAG_ToiXjAgAA&masterhotelid_tracelogid=100025527-0a9ab168-494480-3236292&detailFilters=17|1~17~1*31|5895863~31~5895863*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=480&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109) [Booking](https://booking.tpm.li/HdNQ95Gy)
 
@@ -968,7 +968,7 @@ Jimbaran Bay Beach Resort & Spa by Prabhu
 
 这一天几乎都待在金巴兰，让自己彻底进入度假模式。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781017310221-709755031_17952267267159785_2854568791993111431_n.jpg)
+![Day 7｜什么都不赶的金巴兰放空日](https://images.gobaligo.id/images/2026-06/1781017310221-709755031_17952267267159785_2854568791993111431_n.jpg)
 
 赖佳莹提供
 
@@ -980,7 +980,7 @@ Jimbaran Bay Beach Resort & Spa by Prabhu
 
 回酒店后一边享用早餐、一边欣赏海景，难得什么都不想，只想慢慢放空。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781017353975-hotel.jpg)
+![海滩散步 ＆ 海景早餐](https://images.gobaligo.id/images/2026-06/1781017353975-hotel.jpg)
 
 赖佳莹提供
 
@@ -1020,7 +1020,7 @@ Jimbaran Bay Beach Resort & Spa by Prabhu
 
 一边看着金巴兰的夕阳，一边继续观察飞机起降。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781017390408-sunset.jpg)
+![顶楼看夕阳与飞机](https://images.gobaligo.id/images/2026-06/1781017390408-sunset.jpg)
 
 赖佳莹提供
 
@@ -1045,7 +1045,7 @@ https://youtu.be/LUMJ11GGmUg
 
 听到真的很感动🥹
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781017412891-713503823_17952447456159785_4819854100701852452_n.jpeg)
+![Bakmi Akiu 生日晚餐](https://images.gobaligo.id/images/2026-06/1781017412891-713503823_17952447456159785_4819854100701852452_n.jpeg)
 
 赖佳莹提供
 
@@ -1077,7 +1077,7 @@ https://youtu.be/tAU6seMhMUA
 
 比起前几天的奔波与探索，今天更像是一场缓慢的告别。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781018347318-714084897_17952467418159785_6469494201020115694_n.webp)
+![Day 8｜带着满满的温暖，准备回家](https://images.gobaligo.id/images/2026-06/1781018347318-714084897_17952467418159785_6469494201020115694_n.webp)
 
 赖佳莹提供
 
@@ -1113,7 +1113,7 @@ https://youtu.be/tAU6seMhMUA
 
 看着这些衣物未来能转化成在地的支持与帮助，心里有种说不出的踏实感。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781018538958-713644445_17952467292159785_4041356232763675411_n.jpeg)
+![一杯咖啡，一份温暖的延续](https://images.gobaligo.id/images/2026-06/1781018538958-713644445_17952467292159785_4041356232763675411_n.jpeg)
 
 赖佳莹提供
 
@@ -1165,7 +1165,7 @@ https://youtu.be/zYqmBggP_Lk
 
 还有那些被善意接住的瞬间。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781018772429-713524159_17952467349159785_3829794102158038383_n.webp)
+![8 天生日盲盒旅行后记](https://images.gobaligo.id/images/2026-06/1781018772429-713524159_17952467349159785_3829794102158038383_n.webp)
 
 赖佳莹提供
 

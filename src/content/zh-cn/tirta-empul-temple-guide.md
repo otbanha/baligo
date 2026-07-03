@@ -40,7 +40,7 @@ https://youtube.com/shorts/fiYs5GKdINU
 
 ## Melukat 净化仪式是什么？非印度教徒可以参加吗？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5ba2abc7963542e2253bb38ebb3360ef.jpg)
+![Melukat 净化仪式是什么？非印度教徒可以参加吗？](https://images.gobaligo.id/vocus/vocus_5ba2abc7963542e2253bb38ebb3360ef.jpg)
 
 Melukat 是巴厘岛印度教的净化仪式，信众在泉水中依序通过 26 座喷泉，借由泼水与祈祷净化心灵。
 
@@ -79,13 +79,13 @@ Melukat 是巴厘岛印度教的净化仪式，信众在泉水中依序通过 26
 
 **外院（Jaba Pura）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3f2cc19c62eca50170a62be966baf1f4.jpg)
+![Tirta Empul 的三大区域介绍](https://images.gobaligo.id/vocus/vocus_3f2cc19c62eca50170a62be966baf1f4.jpg)
 
 进入庙门后即抵达外院，有静谧的鲤鱼池与绿植环绕，非常适合静心冥想。
 
 **中庭（Jaba Tengah）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4700e8862974289fdc9dfce583117aec.jpg)
+![Tirta Empul 的三大区域介绍](https://images.gobaligo.id/vocus/vocus_4700e8862974289fdc9dfce583117aec.jpg)
 
 为净化仪式的主区，拥有两大池与 26 座泉眼，每一眼水源代表不同的心灵祈愿。
 
@@ -99,7 +99,7 @@ Melukat 是巴厘岛印度教的净化仪式，信众在泉水中依序通过 26
 
 **内殿（Jeroan）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_623a206ab810a4a260d720844b62f5f3.jpg)
+![Tirta Empul 的三大区域介绍](https://images.gobaligo.id/vocus/vocus_623a206ab810a4a260d720844b62f5f3.jpg)
 
 最神圣的区域，有主神殿与泉水源头，是结束 Melukat 仪式后静坐与祈愿的场所。一般非印度教徒不要随便进入。
 
@@ -151,7 +151,7 @@ Melukat 是巴厘岛印度教的净化仪式，信众在泉水中依序通过 26
 
 ## 衣着规范与参拜礼仪
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_de538df8b6d201321be97e49b49d502a.jpg)
+![衣着规范与参拜礼仪](https://images.gobaligo.id/vocus/vocus_de538df8b6d201321be97e49b49d502a.jpg)
 
 **必备穿着：**
 

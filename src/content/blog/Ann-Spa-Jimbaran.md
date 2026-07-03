@@ -27,7 +27,7 @@ embeds: []
 
 如果你跟我一樣，每次來峇里島都在找**環境好、手技穩、價格合理**的按摩店，那這篇可以直接收藏。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775894049815-mixcollage-11-apr-2026-02-50-pm-6422.jpg)
+![峇里島 SPA 推薦：新開幕 ANN SPA 預約指南！金巴蘭夕陽海鮮後的完美行程、冷氣避暑與專業按摩解析](https://images.gobaligo.id/images/2026-04/1775894049815-mixcollage-11-apr-2026-02-50-pm-6422.jpg)
 
 ***
 
@@ -48,7 +48,7 @@ ANN SPA 是2025年底才新開幕的會館，由台灣老闆娘親自打造。
 
 ## ✨為什麼我會推薦這間？
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775894145137-mixcollage-11-apr-2026-02-53-pm-438.jpg)
+![為什麼我會推薦這間？](https://images.gobaligo.id/images/2026-04/1775894145137-mixcollage-11-apr-2026-02-53-pm-438.jpg)
 
 老實說，峇里島按摩店很多，但能**讓人連續回訪的真的不多**。
 
@@ -56,7 +56,7 @@ ANN SPA 是2025年底才新開幕的會館，由台灣老闆娘親自打造。
 
 👉_「舒服到會想再來一次」_
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776254488895-flower_mixcollage.jpg)
+![為什麼我會推薦這間？](https://images.gobaligo.id/images/2026-04/1776254488895-flower_mixcollage.jpg)
 
 ***
 
@@ -119,7 +119,7 @@ ANN SPA 的定位是這樣：
 
 - Line/WhatsApp  中文預約
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775894792566-mixcollage-11-apr-2026-03-06-pm-4438.jpg)
+![預約方式](https://images.gobaligo.id/images/2026-04/1775894792566-mixcollage-11-apr-2026-03-06-pm-4438.jpg)
 
 - 網站[線上預約](https://www.fresha.com/zh/a/annspa-bali-jl-parigata-no-88-jimbaran-kec-kuta-sel-kabupaten-badung-bali-80361-indonesia-bgj4qbn7/all-offer?menu=true&share=true&pId=2822505)
 
@@ -127,7 +127,7 @@ ANN SPA 的定位是這樣：
 
 ## 谷歌五星評價
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775895971684-mixcollage-11-apr-2026-03-25-pm-5648.jpg)
+![谷歌五星評價](https://images.gobaligo.id/images/2026-04/1775895971684-mixcollage-11-apr-2026-03-25-pm-5648.jpg)
 
 ## 🧡總結一句話
 
@@ -137,7 +137,7 @@ ANN SPA 的定位是這樣：
 
 👉 **可以把 ANN SPA 放進清單裡，不太會後悔的那種。**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776254533717-ann.jpg)
+![總結一句話](https://images.gobaligo.id/images/2026-04/1776254533717-ann.jpg)
 
 ▲台灣老闆娘期待您的光臨！
 

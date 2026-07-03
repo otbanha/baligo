@@ -108,7 +108,7 @@ Light show (Provided by Johnny Wei)
 
 Editor's note: The Cave also has a cliffside pool day club, which is another must-visit spot in the area!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a41f7059b9d933b43ebc4cfd56684828.png)
+![The Cave Restaurant, a Dream Dinner You Must Experience Once](https://images.gobaligo.id/vocus/vocus_a41f7059b9d933b43ebc4cfd56684828.png)
 
 [Explore Oneeighty Day Club: Bali's Cliffside Pool with Breathtaking Views](/blog/oneeighty-dayclub-uluwatu-pool/)
 

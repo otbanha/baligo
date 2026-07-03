@@ -26,9 +26,9 @@ _srcHash: 517e19ae3cd4daa8b99b4a7f69c57be7
 
 As the 2025 peak tourist season approaches, Bali's government and tourism industry are actively promoting a series of cultural festivals and traditional performances, aiming to provide visitors with a deeper experience of Balinese heritage.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0939636b4612bd87b9e4362e9fdfeea5.jpg)
+![Bali Welcomes Peak Tourist Season with Full Cultural Activat](https://images.gobaligo.id/vocus/vocus_0939636b4612bd87b9e4362e9fdfeea5.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b33b8b112e2aa14e7269e2b8ee2884c5.jpg)
+![Bali Welcomes Peak Tourist Season with Full Cultural Activat](https://images.gobaligo.id/vocus/vocus_b33b8b112e2aa14e7269e2b8ee2884c5.jpg)
 
 ### Introduction to Ulun Danu Beratan Temple
 
@@ -52,7 +52,7 @@ To manage weekend crowds, the parade will be held at the Ulun Danu Beratan Water
 
 ### **Synchronized Kecak and Barong performances for double the cultural charm**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b705323d70d8400b29ebbfa065a12e47.jpg)
+![Synchronized Kecak and Barong performances for double the cu](https://images.gobaligo.id/vocus/vocus_b705323d70d8400b29ebbfa065a12e47.jpg)
 
 In addition to the Gebogan parade, organizers have prepared traditional performances like Kecak and Barong dances, offering visitors a more diverse cultural experience. Specific schedules will be announced on official social media platforms.
 
@@ -68,7 +68,7 @@ Beyond participating in the parade and performances, visitors can also explore o
 
 ### More Ubud Food, Fun, and Adventure
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
+![More Ubud Food, Fun, and Adventure](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
 Ubud is the cultural and artistic heart of Bali, attracting countless travelers with its lush rice terraces, serene jungles, and profound traditional culture. It is an ideal place to relax and rejuvenate. Whether you're exploring local traditions, enjoying natural beauty, or engaging in exciting outdoor activities, Ubud offers a unique experience of food and scenery that will move you! Want to learn more about Ubud? [Click here](/blog/ubud-guide/)
 

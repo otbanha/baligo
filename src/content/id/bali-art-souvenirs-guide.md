@@ -27,7 +27,7 @@ _srcHash: 1ebc420a426fd7a710d35602729a53af
 
 Buat banyak traveler, Bali bukan cuma soal matahari dan pantai. Pulau cantik ini juga punya kekayaan seni, budaya, dan warisan sejarah yang dalam. Pas pulang, kamu nggak cuma bawa memori dan foto, tapi juga oleh-oleh penuh makna dan nilai budaya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3326e23359c6b24fc3c03ae195c1a0f0.jpg)
+![Oleh-oleh Budaya Bali: Bikin Kenangan Liburan Tetap Hidup](https://images.gobaligo.id/vocus/vocus_3326e23359c6b24fc3c03ae195c1a0f0.jpg)
 
 ## **Seni dan Kerajinan Tangan: Jiwa Bali yang Terwujud**
 
@@ -45,7 +45,7 @@ Dengan banyaknya pilihan yang tersedia dan ruang koper yang terbatas, memilih ba
 
 ## **Kain Sarung: Kain Multifungsi yang Sarat Makna Budaya**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b2c783681d7b2cfdfc2a9d8ddc62b04.jpg)
+![Kain Sarung: Kain Multifungsi yang Sarat Makna Budaya](https://images.gobaligo.id/vocus/vocus_0b2c783681d7b2cfdfc2a9d8ddc62b04.jpg)
 
 Sarung adalah salah satu oleh-oleh paling klasik di Bali. Kain tradisional ini nggak cuma ramah di kantong, tapi juga multifungsi banget, misalnya:
 
@@ -59,9 +59,9 @@ Beberapa sarung pakai teknik batik tradisional, warna dan motifnya mengandung ce
 
 ## **Ukiran Kayu: Seni Tradisional yang Hidup**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1e945f926f2964e4e6a40d6d309af9fe.jpg)
+![Ukiran Kayu: Seni Tradisional yang Hidup](https://images.gobaligo.id/vocus/vocus_1e945f926f2964e4e6a40d6d309af9fe.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_389d421a515ce3f1b42d7541d961aaea.jpg)
+![Ukiran Kayu: Seni Tradisional yang Hidup](https://images.gobaligo.id/vocus/vocus_389d421a515ce3f1b42d7541d961aaea.jpg)
 
 Mulai dari simbol perdamaian, pohon kehidupan, karakter mitologi, sampai gajah, semua ukiran kayu di Bali dibuat oleh pengrajin lokal yang jago banget. Ubud dan Tegallalang adalah pusat seni ukir kayu. Kamu juga bisa ikut kelas ukir kayu buat merasakan langsung seni kuno ini.
 
@@ -75,7 +75,7 @@ Kalau mau bawa pulang oleh-oleh yang praktis dan mungil, pertimbangkan barang-ba
 - Gelang anyaman
 - Dupa aromaterapi
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff10ebf58e5c2d63903933319ff19bda.jpg)
+![Barang Kecil dan Ringan: Pilihan Klasik buat Oleh-Oleh dan K](https://images.gobaligo.id/vocus/vocus_ff10ebf58e5c2d63903933319ff19bda.jpg)
 
 Barang-barang kecil ini harganya ramah di kantong, dan gampang banget ditemukan di berbagai pasar seni. Cocok banget buat oleh-oleh buat teman dan keluarga di kampung halaman.
 

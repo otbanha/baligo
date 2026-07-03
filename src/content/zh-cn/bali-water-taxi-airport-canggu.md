@@ -30,7 +30,7 @@ _srcHash: b219fa34fb319e8bcc27c7c9d4aa582d
 
 各位热爱巴厘岛的朋友，是不是每次想到要从机场拉到坎古（Canggu），脑中就会浮现塞在车阵中动弹不得的画面？好消息来了！印尼政府正式宣布，将兴建一条从**伍拉·赖国际机场**直达**坎古**的「水路出租车」路线，未来可望避开恼人的陆上交通，**最快30分钟就能抵达**！
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775968380470-water-taxi-di-bali-hotel-bali-batiqa-hotels_ts6wi.jpg)
+![巴厘岛交通解药？机场到坎古「水路出租车（water taxi）」2027年登场，30分钟直达！](https://images.gobaligo.id/images/2026-04/1775968380470-water-taxi-di-bali-hotel-bali-batiqa-hotels_ts6wi.jpg)
 
 ## 🚤 为什么要开这条水路？
 
@@ -55,7 +55,7 @@ _srcHash: b219fa34fb319e8bcc27c7c9d4aa582d
 
 {{block:包車}}
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775968411674-pelindo.jpeg)
+![现阶段替代方案：包车接送最稳](https://images.gobaligo.id/images/2026-04/1775968411674-pelindo.jpeg)
 
 ***
 

@@ -26,7 +26,7 @@ Pertama, meskipun di Bali cuma ada dua musim, musim hujan dan kemarau, tapi musi
 
 Kedua, masalah cuaca di Bali itu bukan fokus utama liburan. Bali itu tempat yang penuh pemandangan indah dan budaya kaya. Nggak peduli cuacanya gimana, kamu tetap bisa nemuin banyak hal seru buat dilakukan. Nggak perlu terlalu fokus sama ramalan cuaca, lebih baik kamu konsentrasi buat menjelajahi tempat indah ini, merasakan budaya dan kuliner lokal.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_26c4410d90cfbacef24b366044b27875.png)
+![Kenapa sih nggak usah nanya-nanya soal cuaca di Bali? Hujan ](https://images.gobaligo.id/vocus/vocus_26c4410d90cfbacef24b366044b27875.png)
 
 > Baca juga: [60 Aktivitas Indoor di Bali Saat Hujan Turun](/blog/2026-bali-indoor-activities/)
 
@@ -36,7 +36,7 @@ Selain itu, pas liburan di Bali, kita juga harus sadar kalau cuaca di setiap dae
 
 Terakhir, cuaca itu selalu punya faktor yang nggak terduga. Meskipun ramalan bilang cerah, bisa aja tiba-tiba hujan. Kalau kamu punya ekspektasi kaku soal cuaca, perjalanan kamu bisa terganggu, bahkan bikin kecewa. Sebaliknya, kalau kamu bisa nerima perubahan cuaca dan menikmati setiap momen dengan santai, liburan kamu bakal lebih seru dan berkesan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7c700014e74e4a3c01835cdc77c9b23e.png)
+![Kenapa sih nggak usah nanya-nanya soal cuaca di Bali? Hujan ](https://images.gobaligo.id/vocus/vocus_7c700014e74e4a3c01835cdc77c9b23e.png)
 
 {{block:戶外}}
 

@@ -55,7 +55,7 @@ isBali 係一間喺峇里島當地由台灣人開嘅旅行社，已經有超過2
 
 而家我哋聯名推出咗**「733專案優惠」**，原價係 USD$27 嘅規劃費用，但係只要喺聯絡Line客服時講你係見到「733專案」，就可以用 USD$24 嘅優惠價格訂購。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8205a503e78323f253c7bcd74bf75fac.jpg)
+![關於 isBali](https://images.gobaligo.id/vocus/vocus_8205a503e78323f253c7bcd74bf75fac.jpg)
 
 ## 即刻行動
 
@@ -65,7 +65,7 @@ isBali 係一間喺峇里島當地由台灣人開嘅旅行社，已經有超過2
 - **專業策劃**：團隊熟悉峇里島各處，提供專業規劃。
 - **無憂體驗**：專業導遊全程陪同，確保旅途安全又愉快。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_653ee94e379ace13490cab96a08c77a6.jpg)
+![即刻行動](https://images.gobaligo.id/vocus/vocus_653ee94e379ace13490cab96a08c77a6.jpg)
 
 ## 取得優惠方法：
 

@@ -20,7 +20,7 @@ _srcHash: 27f30d178dcd0eb894fce9668f7f5411
 
 ## **巴厘岛旅游，现金还是信用卡好？**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_832db431875e09d43fff04ac9260f412.jpg)
+![巴厘岛旅游，现金还是信用卡好？](https://images.gobaligo.id/vocus/vocus_832db431875e09d43fff04ac9260f412.jpg)
 
 巴厘岛是许多台湾、香港、新加坡、马来西亚旅客喜爱的度假胜地，无论是豪华酒店、特色餐厅还是SPA按摩，刷卡消费看似方便，但其实隐藏不少风险。信用卡盗刷、高额手续费、商家诈骗等问题时有发生，若不小心应对，可能让愉快的假期变成财务噩梦。
 
@@ -85,7 +85,7 @@ _srcHash: 27f30d178dcd0eb894fce9668f7f5411
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5f0902c94005ab50560d815cb81e2471.png)
+![三、商家额外收费与强制小费](https://images.gobaligo.id/vocus/vocus_5f0902c94005ab50560d815cb81e2471.png)
 
 ## **四、预授权（Pre-authorization）风险**
 

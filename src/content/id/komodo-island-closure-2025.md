@@ -21,7 +21,7 @@ _srcHash: b147dd645e3b0c1d90d37e80a961de8c
 ---
 Taman Nasional Komodo (Taman Nasional Komodo, disingkat TNK) adalah destinasi wisata terkenal di dunia. Ekosistemnya yang unik dan komodo langka menarik banyak wisatawan. Namun, pada 2025 TNK akan ditutup sementara, yang memicu perhatian dan diskusi luas. Artikel ini akan membahas rencana penutupan TNK dan dampaknya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6e73ce35eea54f6a015517795af0e262.jpg)
+![Pulau Komodo Akan Ditutup pada 2025!](https://images.gobaligo.id/vocus/vocus_6e73ce35eea54f6a015517795af0e262.jpg)
 
 ### Latar Belakang Taman Nasional Komodo (TNK)
 
@@ -29,7 +29,7 @@ TNK terletak di dekat Pulau Flores, Indonesia timur, mencakup beberapa pulau, te
 
 ### Pentingnya Konservasi TNK
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d861a6d9787b36856d764f3323ea611f.jpg)
+![Pentingnya Konservasi TNK](https://images.gobaligo.id/vocus/vocus_d861a6d9787b36856d764f3323ea611f.jpg)
 
 TNK bukan hanya satu-satunya habitat komodo di dunia, tetapi juga rumah bagi banyak spesies terancam punah lainnya. Melindungi spesies-spesies ini dan ekosistemnya sangat penting untuk menjaga keanekaragaman hayati global. Selain itu, TNK juga menyediakan kesempatan penelitian dan edukasi yang berharga, membantu meningkatkan kesadaran akan konservasi lingkungan.
 
@@ -43,7 +43,7 @@ Menurut Badan Pelaksana Otorita Labuan Bajo Flores (BPOLBF), TNK direncanakan ak
 
 ### Dampak Penutupan terhadap Pariwisata
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c8c18bd4f6caa074ba8306237e5a1ef9.jpg)
+![Dampak Penutupan terhadap Pariwisata](https://images.gobaligo.id/vocus/vocus_c8c18bd4f6caa074ba8306237e5a1ef9.jpg)
 
 Penutupan sementara TNK diperkirakan akan berdampak besar pada pariwisata lokal. Banyak warga dan pelaku usaha yang menggantungkan hidup dari sektor ini, sehingga penutupan bisa menyebabkan penurunan pendapatan dan berkurangnya lapangan kerja. Ketua DPRD Manggarai Barat, Inocentius Peni, menyebut penutupan TNK bisa bikin pariwisata setempat terpuruk.
 
@@ -69,7 +69,7 @@ Buat para wisatawan, rencana penutupan TNK ini pasti bikin reaksi campur aduk. A
 
 ### Prospek Jangka Panjang
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_71b7ece5eaa40640a9f4523b2e8783ea.jpg)
+![Prospek Jangka Panjang](https://images.gobaligo.id/vocus/vocus_71b7ece5eaa40640a9f4523b2e8783ea.jpg)
 
 Penutupan sementara TNK adalah langkah penting buat konservasi, sekaligus jadi fondasi buat pariwisata berkelanjutan di masa depan. Selama tutup, restorasi ekologi bakal bikin TNK siap sambut wisatawan lagi dengan ekosistem yang lebih sehat dan stabil. Pemerintah sama pelaku wisata harus kerja bareng biar proses ini lancar dan masa depan makin cerah.
 

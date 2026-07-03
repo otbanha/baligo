@@ -22,7 +22,7 @@ _srcHash: d39f9238c58289ba56c767e300e6adfc
 ---
 Mau merasakan pengalaman seru yang beda di Bali? Jangan sampai kelewatan **Beer on Wheels Bali**! Ini adalah konsep unik yang bawa bar ke atas roda — kamu bisa keliling jalanan Kuta dan Legian sambil menikmati bir dingin, musik, dan suasana pesta. Cocok banget buat jalan bareng teman, keluarga, atau solo traveler. Tur bus bir selama 2 jam ini pasti bikin kamu makin cinta sama energi dan semangat Bali! Udah jauh-jauh ke luar negeri, waktunya bersenang-senang!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8379eb79960a502dff798167ae683904.jpg)
+![Beer on Wheels Bali di Kuta: Tur Seru dengan Bir Tak Terbata](https://images.gobaligo.id/vocus/vocus_8379eb79960a502dff798167ae683904.jpg)
 
 ***
 
@@ -36,7 +36,7 @@ Mau merasakan pengalaman seru yang beda di Bali? Jangan sampai kelewatan **Beer 
 - **Mode Pesta Rahasia**: Ada mode pesta misterius yang menunggu untuk kamu buka!
 - **Pertunjukan Musik Live**: Beberapa bus punya area panggung live — kalau tertarik, kamu bahkan bisa ambil mikrofon dan bernyanyi!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2ca3903c76318b97fbc8680db151a0f1.jpg)
+![Sorotan Aktivitas: Pesona Unik Bus Bir](https://images.gobaligo.id/vocus/vocus_2ca3903c76318b97fbc8680db151a0f1.jpg)
 
 ***
 
@@ -60,7 +60,7 @@ Kalau kamu lagi jalan-jalan di Bali dan lihat beer bus lewat, langsung aja naik 
 3. **Kasih tahu jumlah orang**: Pakai gestur tangan buat kasih tahu staf berapa orang yang ikut, bartender bakal siapin minuman buat kamu.
 4. **Loncat ke bus**: Siap-siap gabung ke party minum sepuasnya!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_67191f3259c604b95e89cdcc9321fcde.jpg)
+![Sistem Naik Bus: Gabung Kapan Saja ke Pesta Seru](https://images.gobaligo.id/vocus/vocus_67191f3259c604b95e89cdcc9321fcde.jpg)
 
 ***
 

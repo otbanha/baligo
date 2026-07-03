@@ -32,7 +32,7 @@ Our Bali video series has reached episode 55! In this episode, we'll discuss six
 
 As you plan your magical journey to Bali, many questions might arise in your mind. Whether it's your first visit or a return trip, everyone hopes to get some practical travel tips to ensure a smooth and enjoyable trip. In this blog, we'll provide you with valuable Bali travel advice, including internet connectivity, currency exchange, traveling during the rainy season, transportation arrangements, shopping bargaining techniques, and how to cleverly use Gojek.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8a1baefa013608a227bca57993852e49.png)
+![Bali Travel Guide: How to Get Internet? How to Exchange Curr](https://images.gobaligo.id/vocus/vocus_8a1baefa013608a227bca57993852e49.png)
 
 {{block:攻略}}
 

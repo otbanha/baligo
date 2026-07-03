@@ -24,7 +24,7 @@ lang: zh-cn
 _srcHash: b8d9fe589de91ecb44a6df7a05f06b2a
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_49316950dc7a762a8401be7816d1dd28.jpg)
+![空姐没告诉你的随身行李秘辛：登机箱挑选建议、上方行李架放置礼仪与必备清单](https://images.gobaligo.id/vocus/vocus_49316950dc7a762a8401be7816d1dd28.jpg)
 
 在航空旅行的过程中，随身行李的携带与管理是每位旅客都必须面对的问题。作为一名拥有6年美国航空公司工作经验的空服员CiCi亲身观察并累积了大量旅客携带随身行李的实务经验。在这里与大家分享一些常见的错误及解决方案，希望能帮助大家更顺利地完成登机程序，并享受舒适的飞行体验。
 

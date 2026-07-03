@@ -26,7 +26,7 @@ _srcHash: 05155b6d39a3539e42def3961861f07f
 
 ## **巴厘岛成为浪漫目的地之冠：超越多国竞争者**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_af426de64cc37e8302ca86645a9ec988.png)
+![巴厘岛成为浪漫目的地之冠：超越多国竞争者](https://images.gobaligo.id/vocus/vocus_af426de64cc37e8302ca86645a9ec988.png)
 
 在2024年的「世界旅游大奖」（World Travel Awards）中，巴厘岛击败了众多世界知名旅游地，包括智利的阿塔卡马沙漠（Atacama Desert）、圣卢西亚（St Lucia）、塞舌尔群岛（Seychelles）、巴哈马（The Bahamas）以及特克斯（Turks）与凯科斯群岛（Caicos），成为全球最浪漫的旅游目的地。
 

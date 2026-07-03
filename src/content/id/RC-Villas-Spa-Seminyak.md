@@ -41,21 +41,21 @@ _srcHash: 6b58dce94ebf40a49866b4529ceda2db
 
 Kalau kamu cari penginapan di Seminyak, lokasi itu nomor satu. RC Villas & Spa ada di Jalan Kayu Aya No. 88 — yang biasa disebut "Eat Street" sama warga lokal. Buat yang udah kenal Seminyak, alamat ini udah speaks for itself. Vila ini cuma punya 8 unit villa pribadi, masing-masing dengan kolam renang dan taman sendiri. Dan yang paling keren: dari pintu depan, kamu tinggal jalan kaki langsung ke deretan restoran, bar, dan beach club paling hits di Seminyak. Lokasinya juara banget, nggak perlu dijelasin panjang lebar — datanya udah cukup jelas.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771390514-2b3599ed964e4abdfe476f22e6a888b2.webp)
+![【Rekomendasi Menginap di Seminyak】Review RC Villas & Spa Sem](https://images.gobaligo.id/images/2026-05/1777771390514-2b3599ed964e4abdfe476f22e6a888b2.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771391102-20c45f6fa040152c95dc9d9d5ccb7af4.jpg)
+![【Rekomendasi Menginap di Seminyak】Review RC Villas & Spa Sem](https://images.gobaligo.id/images/2026-05/1777771391102-20c45f6fa040152c95dc9d9d5ccb7af4.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771391478-73aec2d979e353d557ab2ecc0a80118a.webp)
+![【Rekomendasi Menginap di Seminyak】Review RC Villas & Spa Sem](https://images.gobaligo.id/images/2026-05/1777771391478-73aec2d979e353d557ab2ecc0a80118a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771391914-676da1830b6e52bbd3a4ca6147ab4d01.webp)
+![【Rekomendasi Menginap di Seminyak】Review RC Villas & Spa Sem](https://images.gobaligo.id/images/2026-05/1777771391914-676da1830b6e52bbd3a4ca6147ab4d01.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771392302-7587d13db51005dd06b2ef8e7fda343e.jpg)
+![【Rekomendasi Menginap di Seminyak】Review RC Villas & Spa Sem](https://images.gobaligo.id/images/2026-05/1777771392302-7587d13db51005dd06b2ef8e7fda343e.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771392599-28253333.jpg)
+![【Rekomendasi Menginap di Seminyak】Review RC Villas & Spa Sem](https://images.gobaligo.id/images/2026-05/1777771392599-28253333.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771392945-28253816.jpg)
+![【Rekomendasi Menginap di Seminyak】Review RC Villas & Spa Sem](https://images.gobaligo.id/images/2026-05/1777771392945-28253816.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771393294-e111fe604569d40be90ee96e546e4421.webp)
+![【Rekomendasi Menginap di Seminyak】Review RC Villas & Spa Sem](https://images.gobaligo.id/images/2026-05/1777771393294-e111fe604569d40be90ee96e546e4421.webp)
 
 ***
 
@@ -94,47 +94,47 @@ Sarapan nggak di restoran, tapi staf langsung masak di villa kamu. Kamu bisa pil
 
 RC Villas punya dua tipe kamar: **1 Bedroom Pool Villa** dan **Two-Bedroom Villa**.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771576545-295918_14032300230018819057.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1777771576545-295918_14032300230018819057.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771577349-295918_17110318250058723983.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1777771577349-295918_17110318250058723983.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771577686-295918_17110318250058723987.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1777771577686-295918_17110318250058723987.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771578065-295918_17110318250058723990.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1777771578065-295918_17110318250058723990.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771578608-295918_17110318260058723998.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1777771578608-295918_17110318260058723998.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771578942-28253577.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1777771578942-28253577.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771579481-28258191.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1777771579481-28258191.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771579948-295918_14032223380018818984.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1777771579948-295918_14032223380018818984.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771580330-295918_14032223380018818985.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1777771580330-295918_14032223380018818985.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771580756-295918_14032300220018819045.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1777771580756-295918_14032300220018819045.webp)
 
 ▲ **1 Bedroom Pool Villa** adalah tipe andalan. Layout-nya terdiri dari ruang tamu luas, satu kamar tidur, kamar mandi semi-outdoor (ada bathtub dan shower), plus kolam renang pribadi di taman. Ukuran kolamnya jadi nilai plus — bukan kolam kecil simbolis, tapi cukup buat renang beneran. Cocok buat pasangan atau yang lagi bulan madu.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771651828-28253321.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1777771651828-28253321.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771652693-28253577.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1777771652693-28253577.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771653121-28253695.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1777771653121-28253695.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771653621-28253708.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1777771653621-28253708.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771654106-28253740.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1777771654106-28253740.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771654435-28253793.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1777771654435-28253793.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771654710-28253982.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1777771654710-28253982.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771655040-9921e153ff91ceaa058a1a722f6bf7c1.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1777771655040-9921e153ff91ceaa058a1a722f6bf7c1.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771655334-295918_17110318260058724047.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1777771655334-295918_17110318260058724047.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777771655845-295918_17110318260058724050.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-05/1777771655845-295918_17110318260058724050.webp)
 
 ▲ **Two-Bedroom Villa** punya dua kamar tidur terpisah, lengkap dengan kolam renang dan taman pribadi. Ruangannya lebih lega, cocok buat keluarga kecil atau dua pasang teman. Kalau bawa anak kecil, perhatiin jarak kolam ke ruang tamu yang dekat — perlu ekstra waspada.
 
@@ -146,7 +146,7 @@ Fasilitas standar kedua tipe sama: Wi-Fi gratis, meja kerja, brankas, hair dryer
 
 Paling cocok buat **pasangan bulan madu atau liburan romantis**. Kolam pribadi, bathtub outdoor, suasana tenang, plus layanan Spa — vibes-nya romantis banget. Juga cocok buat **kamu yang mau tinggal di pusat Seminyak tapi tetap punya privasi** — kalau mau rebahan seharian di kolam, tinggal jalan keluar langsung bisa makan malam. Kurang cocok buat bawa bayi atau balita, karena kolam dekat ruang tamu — ada tamu yang udah ngasih peringatan soal keamanan ini.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777772148772-mixcollage-03-may-2026-08-34-am-2619.jpg)
+![Cocok Buat Siapa](https://images.gobaligo.id/images/2026-05/1777772148772-mixcollage-03-may-2026-08-34-am-2619.jpg)
 
 ***
 

@@ -18,7 +18,7 @@ _srcHash: d39f9238c58289ba56c767e300e6adfc
 ---
 想要在巴厘岛体验一场与众不同的欢乐时光吗？那就千万别错过 **Beer on Wheels Bali**！这是一个将酒吧搬到车轮上的独特体验，让游客在库塔和雷吉安地区的街道上，一边畅饮冰镇啤酒，一边享受音乐和派对氛围。无论是与朋友、家人还是独自旅行，这趟2小时的啤酒巴士之旅绝对会让人爱上巴厘岛的活力与热情！难得出国就疯一回吧！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8379eb79960a502dff798167ae683904.jpg)
+![巴厘岛库塔的啤酒巴士：Beer on Wheels Bali 无限畅饮与欢乐之旅！](https://images.gobaligo.id/vocus/vocus_8379eb79960a502dff798167ae683904.jpg)
 
 ***
 
@@ -32,7 +32,7 @@ _srcHash: d39f9238c58289ba56c767e300e6adfc
 - **秘密派对模式**：巴士还有一个神秘的派对模式，等待游客来解锁！
 - **现场音乐表演**：有些巴士上设有现场乐队表演区，如果有兴趣，游客甚至可以拿起麦克风高歌一曲！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2ca3903c76318b97fbc8680db151a0f1.jpg)
+![活动亮点：啤酒巴士的独特魅力](https://images.gobaligo.id/vocus/vocus_2ca3903c76318b97fbc8680db151a0f1.jpg)
 
 ***
 
@@ -56,7 +56,7 @@ _srcHash: d39f9238c58289ba56c767e300e6adfc
 3. **告知人数**：用手势告诉工作人员团体人数，调酒师会为游客准备饮料。
 4. **跳上巴士**：准备好加入这场无限畅饮的派对吧！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_67191f3259c604b95e89cdcc9321fcde.jpg)
+![跳上巴士系统：随时加入欢乐之旅](https://images.gobaligo.id/vocus/vocus_67191f3259c604b95e89cdcc9321fcde.jpg)
 
 ***
 

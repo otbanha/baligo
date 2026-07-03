@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: cf55c43f26cf9ed4897138539a805b43
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_53ad30b22fb7ff7092abe536a294b524.jpg)
+![峇里島同一個地方留四日有咩好玩？四日烏布之旅程紀錄](https://images.gobaligo.id/vocus/vocus_53ad30b22fb7ff7092abe536a294b524.jpg)
 
 烏布係所有去峇里島嘅旅客唔可以錯過嘅地方，呢位Youtube網紅[[Jits into the Sunset](https://www.youtube.com/@JitsIntoTheSunset)]發佈喺網上嘅影片，帶大家認識呢個文化薈萃之都。
 

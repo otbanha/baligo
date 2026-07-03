@@ -17,7 +17,7 @@ lang: id
 _srcHash: 20f4a89e530443830a60aafb077c2047
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_72f1c56bdf6326c2cfb52375320fb1a9.jpg)
+![Makanan Enak dan Laut Biru di Nusa Penida: Top 10 Restoran d](https://images.gobaligo.id/vocus/vocus_72f1c56bdf6326c2cfb52375320fb1a9.jpg)
 
 Nusa Penida terkenal banget sama pantainya yang kayak surga, air laut yang jernih, dan makanan eksotis yang menggoda. Di artikel ini, kita bakal ajak kamu jelajahi tempat-tempat makan dan chill paling kece.
 
@@ -69,7 +69,7 @@ Kalau kamu mencari liburan pantai yang sempurna di Nusa Penida, ELEVEN PENIDA BE
 
 AMARTA Penida, restoran dan bar yang terletak di sudut barat laut Nusa Penida, adalah hidden gem banget. Tempat ini dikelilingi pepohonan hijau yang rimbun, menghadap pemandangan laut yang bikin speechless — surganya para pecinta Instagram!
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881040205-collage_maker-22-oct-2023-08-39-am-4809_.jpg)
+![AMARTA Penida](https://images.gobaligo.id/images/2026-03/1774881040205-collage_maker-22-oct-2023-08-39-am-4809_.jpg)
 
 AMARTA Penida
 
@@ -88,7 +88,7 @@ Harganya ramah di kantong, dan pengunjung yang makan di sini bisa pakai fasilita
 
 Secret Penida Restaurant & Bar adalah hidden gem di utara Nusa Penida yang berupa oasis tropis, cocok buat kamu yang pengin santap dengan suasana tenang. Restoran ini punya pemandangan laut yang epik dan dekorasi anyaman bambu, bener-bener ngegambarin vibe pulau tropis banget.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881079508-collage_maker-22-oct-2023-08-31-am-8951_.jpg)
+![Secret Penida Beach Club](https://images.gobaligo.id/images/2026-03/1774881079508-collage_maker-22-oct-2023-08-31-am-8951_.jpg)
 
 Secret Penida Restaurant & Bar
 
@@ -107,7 +107,7 @@ https://youtube.com/shorts/pcjhbEpvc18?si=Hg9Be0aD-D1kwRwn
 
 Restoran pemenang Tripadvisor Travelers' Choice 2023
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881138169-collage_maker-22-oct-2023-08-26-am-4108_.jpg)
+![Adiwana Warnakali Resort - Nusa Penida](https://images.gobaligo.id/images/2026-03/1774881138169-collage_maker-22-oct-2023-08-26-am-4108_.jpg)
 
 Mengenal Adiwana Warnakali Resort - Nusa Penida
 
@@ -141,7 +141,7 @@ Ini bukan resort mewah termahal di Nusa Penida, tapi pasti salah satu yang terba
 
 Cactus Beach Club terletak di ujung timur laut Nusa Penida, sebuah beach club dan restoran yang penuh sinar matahari.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881195801-collage_maker-22-oct-2023-08-21-am-4378_.jpg)
+![Cactus Beach Club](https://images.gobaligo.id/images/2026-03/1774881195801-collage_maker-22-oct-2023-08-21-am-4378_.jpg)
 
 Cactus Beach Club
 
@@ -159,7 +159,7 @@ Cactus Beach Club adalah spot favorit buat lihat sunset. Restorannya punya peman
 
 The Chill Penida adalah beach club yang ramah vegetarian dan vegan — cocok banget buat kamu yang sadar makanan sehat.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881245134-collage_maker-22-oct-2023-08-19-am-2425_.jpg)
+![The Chill Penida](https://images.gobaligo.id/images/2026-03/1774881245134-collage_maker-22-oct-2023-08-19-am-2425_.jpg)
 
 The Chill Penida
 
@@ -177,7 +177,7 @@ The Chill Penida juga sebuah beach club yang menyediakan makanan vegan berbasis 
 
 Terletak di teluk yang terpencil, dikelilingi hutan hujan tropis yang lebat
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881274088-collage_maker-21-oct-2023-10-04-pm-1338_.jpg)
+![Acropora Bar & Restaurant](https://images.gobaligo.id/images/2026-03/1774881274088-collage_maker-21-oct-2023-10-04-pm-1338_.jpg)
 
 ACROPORA RESTAURANT
 
@@ -191,7 +191,7 @@ Kalau kamu cari pengalaman menginap yang sempurna di Nusa Penida, Pramana Natura
 
 ## Pantai Singabu Sand
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774881307747-collage_maker-21-oct-2023-09-18-pm-1727_.jpg)
+![Pantai Singabu Sand](https://images.gobaligo.id/images/2026-03/1774881307747-collage_maker-21-oct-2023-09-18-pm-1727_.jpg)
 
 Pantai Singabu Sand
 
@@ -208,7 +208,7 @@ Singabu Bungalows [menawarkan akomodasi terjangkau berkualitas](https://www.agod
 
 ## Coco Penida Restaurant & Bar
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e82770e951d11071ffc259551c6acee0.jpg)
+![Coco Penida Restaurant & Bar](https://images.gobaligo.id/vocus/vocus_e82770e951d11071ffc259551c6acee0.jpg)
 
 Coco Penida Restaurant & Bar adalah restoran dan bar yang terletak di bagian utara Pulau Nusa Penida. Tempat ini menyajikan berbagai masakan Meksiko, Amerika, dan Italia, plus aneka koktail, bir, dan minuman lainnya. Dengan suasana nyaman dan staf yang ramah, tempat ini cocok banget buat santai sambil menikmati makanan enak.
 

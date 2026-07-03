@@ -84,12 +84,12 @@ Disediakan oleh Lin Xiaozhao
 
 Kami nginep di Rijasa Agung Hotel di Ubud, lokasinya persis di tepi Sungai Ayung. Setiap pagi bangun tidur langsung denger suara gemericik air sungai, bikin rileks banget. Suhunya adem, kamar keluarga dilengkapi kolam renang pribadi, taman, dan bale santai. Luasnya aja udah lebih dari 300 meter persegi, worth it banget! Keluarga kami puas banget.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780834357439-510412090.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780834357871-510412091.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780834358323-510412149.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780834358773-510412195.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780834359359-510412197.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-06/1780834359739-510412214.jpg)
+![Rijasa Agung Ubud — Perpaduan Sempurna Antara Ketenangan dan](https://images.gobaligo.id/images/2026-06/1780834357439-510412090.jpg)
+![Rijasa Agung Ubud — Perpaduan Sempurna Antara Ketenangan dan](https://images.gobaligo.id/images/2026-06/1780834357871-510412091.jpg)
+![Rijasa Agung Ubud — Perpaduan Sempurna Antara Ketenangan dan](https://images.gobaligo.id/images/2026-06/1780834358323-510412149.jpg)
+![Rijasa Agung Ubud — Perpaduan Sempurna Antara Ketenangan dan](https://images.gobaligo.id/images/2026-06/1780834358773-510412195.jpg)
+![Rijasa Agung Ubud — Perpaduan Sempurna Antara Ketenangan dan](https://images.gobaligo.id/images/2026-06/1780834359359-510412197.jpg)
+![Rijasa Agung Ubud — Perpaduan Sempurna Antara Ketenangan dan](https://images.gobaligo.id/images/2026-06/1780834359739-510412214.jpg)
 
 > ▶Rijasa Agung Resort and Villas — Cek harga & ketersediaan kamar [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1744536&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/c79DvepT)
 

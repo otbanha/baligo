@@ -27,7 +27,7 @@ _srcHash: 9649e924980e051716eb99788bc03c2b
 
 Analisis Kebijakan 'Wisata Berkualitas Tinggi' Bali 2026: Aturan Baru Bukti Keuangan & Pemeriksaan Rute Perjalanan Mulai Maret
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1316fab9941800e7f0a4551426ccb6e.png)
+![Masuk Bali: Bukti Simpanan/Bukti Keuangan Mulai Berlaku Keta](https://images.gobaligo.id/vocus/vocus_a1316fab9941800e7f0a4551426ccb6e.png)
 
 Ringkasan satu kalimat: Kebijakan baru ini bukan untuk melakukan 'sensu massal' terhadap semua penumpang di imigrasi, melainkan untuk 'melembagakan secara tertulis' dan 'mendigitalkan metode pemeriksaan' kewenangan pemeriksaan yang sudah dimiliki petugas imigrasi. Tujuannya adalah menyaring wisatawan berkualitas secara presisi, sekaligus memberantas pekerja ilegal.
 
@@ -71,7 +71,7 @@ Sasaran kebijakan: Aturan ini terutama mau menakut-nakuti wisatawan jangka panja
 
 ## 📋 Daftar Dokumen Wajib Masuk Bali Mulai Maret 2026
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_164e1666147c790e2ecfa35259c44293.png)
+![Daftar Dokumen Wajib Masuk Bali Mulai Maret 2026](https://images.gobaligo.id/vocus/vocus_164e1666147c790e2ecfa35259c44293.png)
 
 ### Dokumen Inti
 

@@ -45,7 +45,7 @@ Since February 14, 2024, **Bali** has implemented a new tourism policy called th
 
 The local tourism bureau states that the tax payment process takes no more than 23 seconds and strongly advises tourists to pay in advance.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776095669943-mixcollage-13-apr-2026-10-53-pm-603.jpg)
+![Starting February 14, 2024, traveling to Bali requires an ad](https://images.gobaligo.id/images/2026-04/1776095669943-mixcollage-13-apr-2026-10-53-pm-603.jpg)
 
 ## Do I Need to Pay Again for Island Hopping?
 

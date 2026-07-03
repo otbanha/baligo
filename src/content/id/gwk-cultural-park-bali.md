@@ -34,11 +34,11 @@ _srcHash: f90c388a26e5eb1e990566b59a468c6f
 
 Garuda Wisnu Kencana (disingkat GWK) Cultural Park terletak di Ungasan, Bali selatan. Ini adalah landmark budaya megah yang menggabungkan seni, mitologi, dan pemandangan alam. Di sini berdiri salah satu patung tertinggi di dunia, dan juga tempat terbaik untuk menyelami budaya tradisional serta kisah mitologi Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e6945779e5302b390d3332824786b505.jpg)
+![Panduan Lengkap Garuda Wisnu Kencana Cultural Park Bali](https://images.gobaligo.id/vocus/vocus_e6945779e5302b390d3332824786b505.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f0afcf709a7704617d06a8a3a91c415.jpg)
+![Panduan Lengkap Garuda Wisnu Kencana Cultural Park Bali](https://images.gobaligo.id/vocus/vocus_2f0afcf709a7704617d06a8a3a91c415.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e9d7b03023308db8184ced2d37d0b49.jpg)
+![Panduan Lengkap Garuda Wisnu Kencana Cultural Park Bali](https://images.gobaligo.id/vocus/vocus_4e9d7b03023308db8184ced2d37d0b49.jpg)
 
 ***
 
@@ -46,7 +46,7 @@ Garuda Wisnu Kencana (disingkat GWK) Cultural Park terletak di Ungasan, Bali sel
 
 Dalam mitologi Hindu, Garuda adalah burung dewa yang melambangkan kekuatan dan kesetiaan, sementara Wisnu (Dewa Wisnu) adalah dewa pemelihara dalam Trimurti. Konon, Garuda berjuang melawan raksasa untuk menyelamatkan ibunya yang diperbudak, dan akhirnya mendapatkan rahasia 'Air Kehidupan (Amrita)' yang dipersembahkan kepada Wisnu. Wisnu sangat terharu dan mengizinkan Garuda menjadi tunggangannya. Sejak itu, mereka bersama-sama menjaga dunia, melambangkan keadilan dan perdamaian.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8d4e8695ec97e45be528a94384b90527.jpg)
+![Sekilas Kisah Mitologi Garuda Wisnu](https://images.gobaligo.id/vocus/vocus_8d4e8695ec97e45be528a94384b90527.jpg)
 
 Patung di GWK Cultural Park ini menggambarkan sikap gagah Garuda yang membawa Wisnu, melambangkan penghormatan dan keteguhan masyarakat Bali terhadap keyakinan dan budaya mereka.
 
@@ -58,9 +58,9 @@ Patung setinggi 122 meter ini adalah karya seniman terkenal Indonesia, Nyoman Nu
 
 Seluruh proyek memakan waktu hampir 30 tahun, dengan total biaya mencapai USD$100 juta. Ini bukan hanya patung tertinggi di Indonesia, peringkat keempat tertinggi di dunia, tetapi juga patung dewa Hindu tertinggi di dunia, mencerminkan semangat dan ketekunan sang seniman dalam melestarikan budaya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_52c866507205ddf9d281ab9f8ab81cb7.jpg)
+![Kisah Hebat Sang Pematung](https://images.gobaligo.id/vocus/vocus_52c866507205ddf9d281ab9f8ab81cb7.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_18620dfeba6d7c607c611b51c5ece1ae.jpg)
+![Kisah Hebat Sang Pematung](https://images.gobaligo.id/vocus/vocus_18620dfeba6d7c607c611b51c5ece1ae.jpg)
 
 ***
 
@@ -72,7 +72,7 @@ Seluruh proyek memakan waktu hampir 30 tahun, dengan total biaya mencapai USD$10
 - Jalan-jalan ke art market, beli oleh-oleh handmade
 - Makan malam di Jendela Bali sambil nikmatin pemandangan Bali dari atas bukit
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1648571abea2beee5ba8319105663c9e.jpg)
+![Kenapa sih wajib mampir ke GWK Cultural Park?](https://images.gobaligo.id/vocus/vocus_1648571abea2beee5ba8319105663c9e.jpg)
 
 ***
 
@@ -109,7 +109,7 @@ Kalau kamu bawa kendaraan sendiri, Taman Budaya punya lahan parkir yang luas dan
 
 Jenis Kendaraan Biaya Parkir (IDR) Motor 5.000 Mobil Kecil 10.000 Bus Wisata 20.000
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_12e2a54c4a7314731d744a9e7d1434b8.jpg)
+![Cara ke Sana & Rencana Perjalanan](https://images.gobaligo.id/vocus/vocus_12e2a54c4a7314731d744a9e7d1434b8.jpg)
 
 ***
 
@@ -124,7 +124,7 @@ Jenis Kendaraan Biaya Parkir (IDR) Motor 5.000 Mobil Kecil 10.000 Bus Wisata 20.
 1. **Plaza Wisnu**: titik tertinggi taman, pemandangan patung Garuda Wisnu dan senja langsung kece
 2. **Restoran Jendela Bali**: sambil makan, kamu bisa lihat sunset dengan santai
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1bb883f0f590f32b7acc8721a45c68ed.jpg)
+![Spot Foto Matahari Terbenam Terbaik:](https://images.gobaligo.id/vocus/vocus_1bb883f0f590f32b7acc8721a45c68ed.jpg)
 
 ***
 
@@ -132,11 +132,11 @@ Jenis Kendaraan Biaya Parkir (IDR) Motor 5.000 Mobil Kecil 10.000 Bus Wisata 20.
 
 ### **Patung Garuda Wisnu**: patung dewa Hindu tertinggi di dunia
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e0bb2cad0bdedd204512609e4d27878.jpg)
+![Patung Garuda Wisnu: patung dewa Hindu tertinggi di dunia](https://images.gobaligo.id/vocus/vocus_3e0bb2cad0bdedd204512609e4d27878.jpg)
 
 ### **Lotus Pond**: plaza outdoor raksasa, sering dipakai buat acara dan pertunjukan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff79df23a5cb21ac9df08d3b06441299.jpg)
+![Lotus Pond: plaza outdoor raksasa, sering dipakai buat acara](https://images.gobaligo.id/vocus/vocus_ff79df23a5cb21ac9df08d3b06441299.jpg)
 
 ### Pertunjukan Api Kecak: Setiap hari jam 18:00 di Lotus Pond
 
@@ -177,19 +177,19 @@ Semua pertunjukan sudah termasuk dalam tiket, nggak perlu bayar tambahan. Setela
 
 ### **Jendela Bali**: Restoran di ketinggian, menyajikan masakan khas Bali asli
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd890adbabac87a91647dbfa606e04e4.jpg)
+![Jendela Bali: Restoran di ketinggian, menyajikan masakan kha](https://images.gobaligo.id/vocus/vocus_fd890adbabac87a91647dbfa606e04e4.jpg)
 
 ### **GWK Food Court**
 
 Aneka jajanan lokal, jus, gorengan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_03677eff3d8b3b402360ebf404cbdbb5.jpg)
+![GWK Food Court](https://images.gobaligo.id/vocus/vocus_03677eff3d8b3b402360ebf404cbdbb5.jpg)
 
 ### **The Berandas**
 
 Perpaduan rasa Barat dan lokal
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9ed56f49ff0bb4cba29395e2895b0fe5.jpg)
+![The Berandas](https://images.gobaligo.id/vocus/vocus_9ed56f49ff0bb4cba29395e2895b0fe5.jpg)
 
 ***
 
@@ -199,7 +199,7 @@ Di **Garuda Wisnu Kencana Cultural Park** Bali, area tamannya luas banget, lebih
 
 ### 🚗 **Buggy（Golf Car / Shuttle）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_69559b1ca561b55470711daa2d4b4839.jpg)
+![Buggy（Golf Car / Shuttle）](https://images.gobaligo.id/vocus/vocus_69559b1ca561b55470711daa2d4b4839.jpg)
 
 Ini adalah moda transportasi paling populer di kawasan taman, cocok untuk keluarga, wisatawan yang membawa orang tua atau anak-anak. Buggy akan menjemput dan mengantar pengunjung dari **Plaza Bhagawan (area pembelian tiket) ke area patung utama Garuda Wisnu**, sambil menikmati pemandangan taman tanpa perlu capek jalan.
 
@@ -210,7 +210,7 @@ Ini adalah moda transportasi paling populer di kawasan taman, cocok untuk keluar
 
 ### 🛴 **Sewa Segway / Electric Scooter**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc2eee52796e2a558a5efe73d57b4025.jpg)
+![Sewa Segway / Electric Scooter](https://images.gobaligo.id/vocus/vocus_bc2eee52796e2a558a5efe73d57b4025.jpg)
 
 Mau eksplorasi GWK dengan cara yang beda? Coba deh naik Segway! Aktivitas ini terutama ada di **area Lotus Pond**, bikin kamu bisa keliling plaza luas dan lanskap batu kapur dengan cara yang lebih santai dan seru.
 
@@ -267,7 +267,7 @@ Semua pengunjung bisa foto dan video di depan patung setinggi 122 meter ini. Ada
 
 ## **Kencana Souvenir GWK Bali** Toko Oleh-Oleh
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3f660ab037d597a9f0e6585225003ecc.jpg)
+![Kencana Souvenir GWK Bali Toko Oleh-Oleh](https://images.gobaligo.id/vocus/vocus_3f660ab037d597a9f0e6585225003ecc.jpg)
 
 Menyediakan empat pilihan oleh-oleh khas Bali:
 

@@ -31,7 +31,7 @@ _srcHash: 00edf4a720b1e6d266e4095de16e85e1
 
 Tanggal 2 Mei 2025 jam 4 sore, tiba-tiba Bali mati lampu total, hampir seluruh pulau gelap gulita. Pemadaman besar ini bikin dampak besar buat kehidupan warga, transportasi, dan pariwisata. PT PLN (Perusahaan Listrik Negara Indonesia) langsung bergerak cepat buat perbaikan dan terus update kondisi kelistrikan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_da277efc556c6ee025a7bfedbf8bd7e8.jpg)
+![Bali Mati Lampu Mendadak, Seluruh Pulau Gelap Gulita](https://images.gobaligo.id/vocus/vocus_da277efc556c6ee025a7bfedbf8bd7e8.jpg)
 
 ---
 

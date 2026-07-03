@@ -29,7 +29,7 @@ _srcHash: d9a16fe8a42077ecf9881ee87a62ec22
 
 Coming to Bali for vacation, my travel companion and I hoped to create more beautiful memories. Among the many travel options, we decided to book a special itinerary - the "Bali Professional Photographer Day Tour." This package not only offers sightseeing tours but, more importantly, includes a professional photographer who accompanies us throughout the day, using cameras and drones to capture every precious moment. For us, who wanted to take beautiful photos without missing out on the firsthand experience, this arrangement was perfect!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e1717a9a6a869486f410bf4911f00e0.jpg)
+![Bali Professional Photographer/Aerial Photography Day Tour -](https://images.gobaligo.id/vocus/vocus_4e1717a9a6a869486f410bf4911f00e0.jpg)
 
 ## Preparations Before Departure
 
@@ -37,7 +37,7 @@ During our first few days in Bali, we stayed at the Sheraton Bali Kuta Resort, a
 
 ▶[**Sheraton Bali Kuta Resort Booking Link**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=407502)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_25c77ae3894da2cae177666ebed9781f.jpg)
+![Preparations Before Departure](https://images.gobaligo.id/vocus/vocus_25c77ae3894da2cae177666ebed9781f.jpg)
 
 Want to learn more about Kuta? [Click here](/blog/2023-12-13-657598bdfd8978000120fe20/)
 
@@ -58,7 +58,7 @@ As we drove away from Kuta, our journey to Ubud began. The scenery gradually tra
 
 Upon arriving at the Ubud Monkey Forest, our photographer purchased the entrance tickets for us, which were included in our package. Stepping into this sacred forest, we were immediately awestruck by the dense primeval jungle and ancient stone carvings.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc3f496a03ce0af43e1dac90c9f6bda4.jpg)
+![First Stop: Ubud Monkey Forest](https://images.gobaligo.id/vocus/vocus_cc3f496a03ce0af43e1dac90c9f6bda4.jpg)
 
 Here, the mischievous monkeys became the perfect supporting cast in our photos. Our photographer skillfully used professional equipment to capture precious moments of our interactions with the monkeys. The ancient temple structures, surrounded by greenery, exuded an air of mystery, with every angle providing a perfect backdrop. We spent nearly an hour exploring this enchanting place.
 
@@ -66,9 +66,9 @@ Here, the mischievous monkeys became the perfect supporting cast in our photos. 
 
 After leaving the monkey forest, we arrived at the famous Tegallalang Rice Terraces. Our photographer again handled the entrance tickets, allowing us to fully immerse ourselves in this green wonderland.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c9715ea0e3f5452bc5324c6403d129ca.jpg)
+![Second Stop: Tegallalang Rice Terraces](https://images.gobaligo.id/vocus/vocus_c9715ea0e3f5452bc5324c6403d129ca.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0a56ec0011c1598693f0ffae9cb5a748.jpg)
+![Second Stop: Tegallalang Rice Terraces](https://images.gobaligo.id/vocus/vocus_0a56ec0011c1598693f0ffae9cb5a748.jpg)
 
 Standing on the viewing platform, we marveled at the layered rice fields stretching like green staircases to the horizon. Our photographer utilized drone technology to capture the terraces' grandeur from various heights and angles. We strolled through the fields, letting the photographer capture our natural expressions as we absorbed the breathtaking scenery.
 
@@ -82,13 +82,13 @@ After lunch, we headed to the final stop of our day's itinerary - Tibumana Water
 
 Located a bit away from Ubud, this distance allows us to enjoy the serene beauty with fewer crowds. After a short nap in the car, we arrived at the parking lot. Our tour package included tickets to all attractions, so we simply followed Udin. As we walked along the path through the dense tropical rainforest, the sound of the waterfall grew clearer. Tibumana Waterfall cascades like silver threads from the sky, falling into the emerald pool below.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0f90bb6512bf564843f7ec10f5422a89.jpg)
+![Third Stop: Tegenungan Waterfall](https://images.gobaligo.id/vocus/vocus_0f90bb6512bf564843f7ec10f5422a89.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc0b6e8b9a4393a670407aa8edbc6aeb.jpg)
+![Third Stop: Tegenungan Waterfall](https://images.gobaligo.id/vocus/vocus_cc0b6e8b9a4393a670407aa8edbc6aeb.jpg)
 
 Here, our photographer made full use of the drone to capture the waterfall's full grandeur from above, while also documenting our various poses in front of the falls with his camera. The clear pool water reflected our joyful smiles, and every photo was filled with vibrant energy.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e4e3b5818941b29c25a2d591ec46a08d.jpg)
+![Third Stop: Tegenungan Waterfall](https://images.gobaligo.id/vocus/vocus_e4e3b5818941b29c25a2d591ec46a08d.jpg)
 
 Want to learn more about Ubud? [Click here](/blog/ubud-guide/)
 

@@ -18,7 +18,7 @@ lang: zh-cn
 _srcHash: 5146fbe35ea8e803160f8c006aac8e29
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9fe91c6a839a47c4f5e72632bb07328a.jpg)
+![带着两名辣妹乌鲁瓦图冲浪趣！](https://images.gobaligo.id/vocus/vocus_9fe91c6a839a47c4f5e72632bb07328a.jpg)
 
 YouTube网红「大海旅人 Ocean Man」发布在网络上的视频，带大家认识乌鲁瓦图这个知名的冲浪点。
 
@@ -38,7 +38,7 @@ Suluban Beach的秘境沙滩
 
 视频最后，他强调要先满足同行伙伴的需求，自己才能尽情投入冲浪的乐趣。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9468e44e84f0c2df36e48c0335495cf1.jpg)
+![带着两名辣妹乌鲁瓦图冲浪趣！](https://images.gobaligo.id/vocus/vocus_9468e44e84f0c2df36e48c0335495cf1.jpg)
 
 其他在视频中没有介绍到的「Tanah Barak Cliff」蓝色公路、11个乌鲁瓦图海滩俱乐部、16家美食餐厅推荐、两家亲子餐厅、四个购物点、各种精彩活动... 等介绍，请参考我们的「[【乌鲁瓦图攻略】乌鲁瓦图景点 50个吃喝玩乐推荐](/blog/uluwatu-guide/)」
 
@@ -48,7 +48,7 @@ Suluban Beach的秘境沙滩
 
 您觉得他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![带着两名辣妹乌鲁瓦图冲浪趣！](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 点击这里观看更多巴厘岛精彩游记
 

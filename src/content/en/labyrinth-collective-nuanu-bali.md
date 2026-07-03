@@ -26,7 +26,7 @@ _srcHash: ab3969e115f499246ed871322e52845d
 ---
 Bali’s creative and cultural scene has a new highlight! Located in Nuanu Creative City, **Labyrinth Collective** is an innovative space blending art, technology, and sustainability, offering travelers a unique immersive experience and creative environment. From the **Immersive Dome Theater** to **music studios** and **maker spaces**, this venue provides a stage where art, sound, and creativity come to life.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_951886621813d2cca2e6d72551b16d44.jpg)
+![【Canggu/Nuanu New Attraction】Labyrinth Collective’s Immersiv](https://images.gobaligo.id/vocus/vocus_951886621813d2cca2e6d72551b16d44.jpg)
 
 ---
 
@@ -34,7 +34,7 @@ Bali’s creative and cultural scene has a new highlight! Located in Nuanu Creat
 
 Labyrinth Collective has created Indonesia’s first **Immersive Dome Theater**. This is not just an entertainment venue but a space where people can deeply connect with nature and art.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_05191369c0371f64a94ae033994120bc.jpg)
+![Immersive Dome Theater](https://images.gobaligo.id/vocus/vocus_05191369c0371f64a94ae033994120bc.jpg)
 
 🔹 **Technical Highlights**:
 
@@ -65,7 +65,7 @@ Show premiering in August 2025:
 
 ### ✨ Bali Mystic Show: A Fusion of Mystery and Tradition
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d842acd19c5132df3a72eb33559f8d16.png)
+![Bali Mystic Show: A Fusion of Mystery and Tradition](https://images.gobaligo.id/vocus/vocus_d842acd19c5132df3a72eb33559f8d16.png)
 
 If you want to experience a unique Balinese cultural feast, the **Bali Mystic Show** is a must-see! This innovative performance blends traditional Balinese art with modern theater, offering a stunning visual and auditory experience that transports the audience into the mystical world of Bali.
 
@@ -91,7 +91,7 @@ This performance is not just a theatrical show, but an artistic feast that blend
 
 ### ✨ Recombination Fantasy Show
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f2a2187e53c5264dfd7a1a1e0fa77b7b.png)
+![Recombination Fantasy Show](https://images.gobaligo.id/vocus/vocus_f2a2187e53c5264dfd7a1a1e0fa77b7b.png)
 
 Experience the immersive fulldome masterpiece 'Recombination' by visual artist Julius Horsthuis at Indonesia's first dome theater. This stunning fusion of art and geometry showcases the infinite mysteries and beauty of mathematical patterns with breathtaking precision, accompanied by world-class 5.1 surround sound music, creating a perfect multisensory journey of sight and sound. Ticket purchase includes free entry to Nuanu Creative City, where you can enjoy various exciting activities, making this journey through music, space, and geometry even more complete and unforgettable.
 
@@ -104,7 +104,7 @@ Experience the immersive fulldome masterpiece 'Recombination' by visual artist J
 
 ### ✨ Journey Through Lights
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4fb3c0d02585394dc49e9ec9af19216b.png)
+![Journey Through Lights](https://images.gobaligo.id/vocus/vocus_4fb3c0d02585394dc49e9ec9af19216b.png)
 
 'Journey Through Lights' is a family-friendly immersive dome experience that takes audiences on a fantastical voyage through space, imagination, and ancient civilizations. This multi-part film features three captivating chapters:
 
@@ -125,7 +125,7 @@ Let your imagination soar with 'Journey Through Lights,' an immersive cinematic 
 
 ### Wonderworld
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b29c01eac8920663674ff59918e32e7a.png)
+![Wonderworld](https://images.gobaligo.id/vocus/vocus_b29c01eac8920663674ff59918e32e7a.png)
 
 "WonderWorld" is a 360° immersive experience that combines imagination, knowledge, and fun, making it particularly suitable for children aged 4 and above, as well as families. This 3-in-1 panoramic animation show seamlessly connects three captivating stories, taking you on a journey through time, exploring nature, and sparking your imagination.
 
@@ -150,7 +150,7 @@ Through advanced panoramic dome projection technology, "WonderWorld" places the 
 
 For music-loving creators, the **Music Studio** at Labyrinth Collective is an inspiring space that offers a professional-grade production environment.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e890dd9cacf6b8aa127ad067cf954a24.jpg)
+![Music Studio](https://images.gobaligo.id/vocus/vocus_e890dd9cacf6b8aa127ad067cf954a24.jpg)
 
 🔹 **Features**:
 
@@ -165,7 +165,7 @@ For music-loving creators, the **Music Studio** at Labyrinth Collective is an in
 
 Labyrinth Collective's **MakerSpace** is a dream destination for artists and innovators, serving not just as a production space but also as a wellspring of inspiration.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_850298fb96c6f2bc644520c50a8a5921.jpg)
+![MakerSpace](https://images.gobaligo.id/vocus/vocus_850298fb96c6f2bc644520c50a8a5921.jpg)
 
 🔹 **Facilities and Features**:
 
@@ -188,7 +188,7 @@ Official website: <https://labyrinth.art/>
 
 ## More Attractions in Nuanu Creative City
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4852db27edd7e6562516445df46595df.jpg)
+![More Attractions in Nuanu Creative City](https://images.gobaligo.id/vocus/vocus_4852db27edd7e6562516445df46595df.jpg)
 
 Nuanu Creative City is Bali's latest emerging creative hub, promoting zero carbon emissions and becoming the island's newest sustainable tourism landmark. It's already attracting global creatives as the next must-visit hotspot!
 

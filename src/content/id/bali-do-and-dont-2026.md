@@ -38,7 +38,7 @@ Pertama kali ke Bali, banyak orang cuma mikirin pantai, sunset, sate lilit — t
 
 Selama tinggal di Bali beberapa tahun, gue udah lihat banyak turis bikin konyol karena nggak ngerti budaya lokal, dan ada juga yang kena deportasi gara-gara pelanggaran lebih serius. Jujur, luangkan 5 menit sebelum berangkat buat paham ini, pasti worth it banget.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1777688893131-779059604094166643.png)
+![【2026 Panduan Wisata Bali】Hati-hati Dideportasi! 5 Pantangan](https://images.gobaligo.id/images/2026-05/1777688893131-779059604094166643.png)
 
 ***
 

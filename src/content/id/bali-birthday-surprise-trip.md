@@ -56,23 +56,23 @@ Wahaha Pork Ribs（張家偉提供）
 
 Makan malam kita pilih **Wahaha Pork Ribs**. Iga babi panggang dan jagung bakar-nya memuaskan banget. Di restoran ada juga pertunjukan tari Barong tradisional Bali, makin menambah suasana. Malamnya, kita nginep di **Fairfield Legian** punya Marriott. Lokasinya oke, stafnya ramah dan hangat, kolam renangnya bersih dan cantik. Perfect buat nutup hari pertama yang santai dan menyenangkan.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770405965-542155852.jpg)
+![4 September: Selamat datang dengan kalungan bunga dan pertam](https://images.gobaligo.id/images/2026-05/1778770405965-542155852.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770407107-465549953.jpg)
+![4 September: Selamat datang dengan kalungan bunga dan pertam](https://images.gobaligo.id/images/2026-05/1778770407107-465549953.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770407570-465549992.jpg)
+![4 September: Selamat datang dengan kalungan bunga dan pertam](https://images.gobaligo.id/images/2026-05/1778770407570-465549992.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770408258-465550003.jpg)
+![4 September: Selamat datang dengan kalungan bunga dan pertam](https://images.gobaligo.id/images/2026-05/1778770408258-465550003.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770408714-465550035.jpg)
+![4 September: Selamat datang dengan kalungan bunga dan pertam](https://images.gobaligo.id/images/2026-05/1778770408714-465550035.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770409260-465550045.jpg)
+![4 September: Selamat datang dengan kalungan bunga dan pertam](https://images.gobaligo.id/images/2026-05/1778770409260-465550045.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770409893-465550080.jpg)
+![4 September: Selamat datang dengan kalungan bunga dan pertam](https://images.gobaligo.id/images/2026-05/1778770409893-465550080.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770410687-465550095.jpg)
+![4 September: Selamat datang dengan kalungan bunga dan pertam](https://images.gobaligo.id/images/2026-05/1778770410687-465550095.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770411095-465550097.jpg)
+![4 September: Selamat datang dengan kalungan bunga dan pertam](https://images.gobaligo.id/images/2026-05/1778770411095-465550097.jpg)
 
 [**▶Cek Ketersediaan Kamar & Harga Fairfield Legian**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2179176) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=8669641&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjM0MDAwNTQ2NdU1SLRMtDBOTNU1sTQxNrDUNTIwMdL4v-zazKfGRgZagvEhnp4uhiWFqWaFpZY5RQWmpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYnNwMnUzNo_ikmEPCXRRX3mRee2DCafsk1qoM3ZDwjF5xAAJsCP2BAAAA&masterhotelid_tracelogid=100051355-0a9a83ae-494309-2042&detailFilters=17|1~17~1*31|8669641~31~8669641*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1425&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/AaX6Ygwm)
 
@@ -80,7 +80,7 @@ Makan malam kita pilih **Wahaha Pork Ribs**. Iga babi panggang dan jagung bakar-
 
 ## **9 September: Tur Sehari Nusa Penida yang Spektakuler & Snorkeling**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_732ed238988d475c0faa6b704e8e9383.jpg)
+![9 September: Tur Sehari Nusa Penida yang Spektakuler & Snork](https://images.gobaligo.id/vocus/vocus_732ed238988d475c0faa6b704e8e9383.jpg)
 
 Hari ini fokusnya adalah tur sehari ke **Nusa Penida**. Kami berangkat pagi-pagi, sopir sewaan bahkan mengatur pacarnya, Indah, sebagai asisten pemandu yang menemani kami sepanjang hari. Dia nggak cuma bantu pilih tempat duduk yang enak di kapal, tapi juga siap-siap fotoin kami dan jagain barang. Sesampainya di Nusa Penida, kami kunjungi satu per satu tempat-tempat keren di pulau itu, kayak **Broken Beach** dan **Kelingking Beach**. Air laut biru jernih berkilau seperti safir, pemandangannya bikin speechless.
 
@@ -106,7 +106,7 @@ Setelah itu, kami menikmati **pemandian air panas alami** di dekat gunung. Meski
 
 > Catatan: Siobak: Kuliner khas Bali dari Singaraja
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5c5fd5848222adbc7cbc5b7ebac95bdf.jpg)
+![9 September: Wisata Matahari Terbit Gunung Batur & Kuliner B](https://images.gobaligo.id/vocus/vocus_5c5fd5848222adbc7cbc5b7ebac95bdf.jpg)
 
 Siobak adalah makanan khas dari Singaraja yang terbuat dari daging babi. Namanya berasal dari budaya Tionghoa (烧肉), memadukan cita rasa lokal dan Tionghoa dengan sempurna. Karena mayoritas penduduk setempat beragama Hindu yang menganggap sapi suci, daging babi menjadi pilihan populer.
 
@@ -134,7 +134,7 @@ Kamu bisa bebas keluar-masuk restoran, nggak perlu khawatir ketinggalan pertunju
 
 Hari itu kita nginep di **Ubud Element by Westin**, dapet upgrade kamar yang bikin makin nyenyak tidurnya.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770782016-ue1.webp)
+![10 September: Air Terjun & Night Safari](https://images.gobaligo.id/images/2026-05/1778770782016-ue1.webp)
 
 [**▶Cek ketersediaan kamar & harga Ubud Element by Westin**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=4949741) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=15238353&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6zczFJMEk9YWZY8ukSf9YhRiNDDgtPgk6ejysElm3u93Bc9ZMINje4xDA08gYtEOu9fVEa4cZjBc7F7GvYGTcyAhW9z7ZYQcj0wFGphOMqxUXMLV13uE5xcLM8ZT1EstXpuhqpezUSiUrEx2lksySnFQlK6Wni-Y9bdjzfEWrko5SSmpxMlAIyErMzS_NKwGyjU2N9QwMgCIliRWeKWCdyYk5yaU5iSWpIZUFQBPMdJQyi51LijILglJzM0tKUoGq0hJzilNB4kGpxUCZZLCgkh_QmCKoQGZ-HkS7AYpYWGJOaSrECUAL3VKhdhjW6mC6_Nmc3qfdM19s2o3D5RYWKC43HxCXG9fGPmJhio79xMLwi4WhiZWhi5VhEiszx2rFXaw8gV5R7kF-uoa6UbqGUiqGBgYGpobGpqa6BomWFsZGiRa6JpYmxgYWukYGJgaGhgZmppYa266cmfnU2MhainXKgefT2BUYtQTjQzw9XQxLClPNCkstc4oKTA0YTzFKGZobWxgaGRoaGRlZGuuZWKSZFVvkFVvkZkV4MAaxmbmYW5pZRtlwMXu6BAne-8-Sq61saS_FHBLuorjyJvPaAxNO22uB5AxhcoEWX8T431susI-EySexVmXohoRn9IoXMDYwMnUxcgswejBGMFYAeYyrGNm5mA2MDAWYNjAy7mD8DwOMrxhBlgAAtgEl-ewCAAA&masterhotelid_tracelogid=100051355-0a9832a8-494308-2040110659&detailFilters=17|1~17~1*31|15238353~31~15238353*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1264&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/xoKiFy4a)
 
@@ -174,21 +174,21 @@ Malamnya, kita kasih dia kejutan makan malam ulang tahun spesial di **Restoran C
 
 Menginap di **VIVARA private pool Villas & Spa Retreats**. Pas baru sampai, hotel kasih welcome drink juice shot sama handuk dingin, bikin seger banget. Naik golf cart diantar sampai pintu, pas masuk kita lihat kolam renang pribadi yang luas, dapur outdoor, sama area makan (minuman di kulkas gratis semua!). Kamarnya luas dan nyaman, ada kamar mandi outdoor dengan bathtub dan shower. Cuma sedikit kekurangannya air panas kurang panas, sumbat bathtub agak longgar jadi air bocor, tapi overall tetap puas banget.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770890235-434285647.jpeg)
+![9 September: Kejutan Ultah Manis buat Pacar](https://images.gobaligo.id/images/2026-05/1778770890235-434285647.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770890753-434285792.jpeg)
+![9 September: Kejutan Ultah Manis buat Pacar](https://images.gobaligo.id/images/2026-05/1778770890753-434285792.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770891138-511160052.jpeg)
+![9 September: Kejutan Ultah Manis buat Pacar](https://images.gobaligo.id/images/2026-05/1778770891138-511160052.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770891611-511160140.jpeg)
+![9 September: Kejutan Ultah Manis buat Pacar](https://images.gobaligo.id/images/2026-05/1778770891611-511160140.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770892051-511160261.jpeg)
+![9 September: Kejutan Ultah Manis buat Pacar](https://images.gobaligo.id/images/2026-05/1778770892051-511160261.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770892450-399460071.jpeg)
+![9 September: Kejutan Ultah Manis buat Pacar](https://images.gobaligo.id/images/2026-05/1778770892450-399460071.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770892788-399460105.jpeg)
+![9 September: Kejutan Ultah Manis buat Pacar](https://images.gobaligo.id/images/2026-05/1778770892788-399460105.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778770893206-406886200.jpeg)
+![9 September: Kejutan Ultah Manis buat Pacar](https://images.gobaligo.id/images/2026-05/1778770893206-406886200.jpeg)
 
 [**▶ Cek Ketersediaan Kamar & Harga VIVARA private pool Villas & Spa Retreats**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=36762751) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=104656334&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-M6zsTFJMEkdYCJ4_LGq6_ZhBgNLCYKOcb0H_qqwTzBwfObBpD5dKJDAE_ElAPPp7EnelU36_scCXToYmQFC8xgPHf7s-FGxlkzgUAzzmEHI9MJxtOaC5guT1hidIqFmWMDyyWW3YzR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJuaGegZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrI19xMIUHfuJheEXC0MTK0MXKzPHKaZJQPK05i5WthAjAy9_swusU3Wk5A0NDAxMDY1NTXUNEi0TTY2TDXVNLE2MLE11DY2NLEw1zm383PjU2MhaChJyCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9hMzSzMncyjbLiYPV2CBO_9Z8nVVra0l2IOCXdRDHJpC90z8bS9FkjOECYXaPFFjP-95QL7yLxuI-mUSaftk1irMnRDwjN6xQsYGxiZuhi5BRg9GCMYK4A8xlWMDBsYGXcw_ocBxleMINMB6DkTwywCAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494295-13285&detailFilters=17|1~17~1*31|104656334~31~104656334*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=300&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/q9wlDejz)
 
@@ -228,7 +228,7 @@ Di bandara, kami pamit sama supir sewaan, Dwik. Dia masih dengan senyum cerianya
 
 Saat pesawat mulai naik, kami melambaikan tangan pamit ke Bali. Perjalanan kali ini bukan cuma soal kebahagiaan ulang tahun, tapi juga makin berkesan karena tantangan kecil di tengah jalan. Meski sempat ada masalah kehilangan koper, yang lebih terasa adalah kehangatan orang-orang dan kejutan tak terduga. Di tengah tawa dan haru, kami belajar untuk lebih menghargai keindahan saat ini.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_62c300668d567a3aacd7c5bed5ddce4b.jpg)
+![11 September: Perpisahan yang berat](https://images.gobaligo.id/vocus/vocus_62c300668d567a3aacd7c5bed5ddce4b.jpg)
 
 Keindahan Bali nggak cuma soal pemandangan alamnya yang spektakuler, tapi juga tentang orang-orang lokal yang pernah bantu kita, bikin kita terharu, dan semua momen berharga yang kita lewati bareng. Nggak sabar buat balik lagi ke tanah ini, memulai petualangan baru di lautan biru yang nggak ada habisnya.
 
@@ -252,7 +252,7 @@ Di situ, supir mobil sewaan kita, Dwik, menunjukkan kebaikan dan kehangatan luar
 
 ### **Rekomendasi Pelayanan Supir Dwik yang Penuh Perhatian**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_873fb70086b114bc81543b45f344972a.jpg)
+![Rekomendasi Pelayanan Supir Dwik yang Penuh Perhatian](https://images.gobaligo.id/vocus/vocus_873fb70086b114bc81543b45f344972a.jpg)
 
 Selama perjalanan ini, supir Dwik nggak cuma profesional banget, tapi juga ramah dan perhatian banget, bikin kita merasa disambut dengan hangat. Bahasa Inggrisnya lancar, jadi rencana perjalanan kita lancar jaya, dan dia sering kasih info lokal yang seru, bikin liburan makin berkesan.
 
@@ -270,7 +270,7 @@ Pas liburan ini berakhir, yang kami rasain bukan cuma keindahan alam Bali, tapi 
 
 Kamu pikir perjalanan Zhang Jiawei seru? Yuk, rencanain liburan mandiri ke Bali versi kamu sendiri! Jangan lupa kirim cerita perjalananmu ke grup ya!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Rekomendasi Pelayanan Supir Dwik yang Penuh Perhatian](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 

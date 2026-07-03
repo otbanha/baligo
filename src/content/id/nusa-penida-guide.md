@@ -50,25 +50,25 @@ Peta Panduan Nusa Penida
 
 ▼Spot Wajib Kunjung di Nusa Penida: T-Rex Cliff / Kelingking Beach
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_292b0e4de7b79d70086bc92c66b6524b.jpg)
+![Tempat Wisata Populer di Nusa Penida](https://images.gobaligo.id/vocus/vocus_292b0e4de7b79d70086bc92c66b6524b.jpg)
 
 Turun ke pantai di bawah itu nggak gampang, lho! Sekarang lagi dibangun lift kaca transparan, diperkirakan selesai tahun 2025
 
 ▼Spot Wajib Kunjung di Nusa Penida: Broken Beach
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1531b3a5efc742043f3f9dad6e1bf6db.jpg)
+![Tempat Wisata Populer di Nusa Penida](https://images.gobaligo.id/vocus/vocus_1531b3a5efc742043f3f9dad6e1bf6db.jpg)
 
 ▼Spot Wajib Kunjung di Nusa Penida: Tree House
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_963e9c6140fb895c330510fb89836af6.jpg)
+![Tempat Wisata Populer di Nusa Penida](https://images.gobaligo.id/vocus/vocus_963e9c6140fb895c330510fb89836af6.jpg)
 
 ▼Spot Wajib Kunjung di Nusa Penida: Diamond Beach
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ca4724a8eeb3ab1c2e10fa29582c9546.jpg)
+![Tempat Wisata Populer di Nusa Penida](https://images.gobaligo.id/vocus/vocus_ca4724a8eeb3ab1c2e10fa29582c9546.jpg)
 
 ▼Spot Wajib Kunjung di Nusa Penida: Angel's Billabong
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd130df8e4d73710b447668b5bb55c43.jpg)
+![Tempat Wisata Populer di Nusa Penida](https://images.gobaligo.id/vocus/vocus_fd130df8e4d73710b447668b5bb55c43.jpg)
 
 ## Cara Main di Nusa Penida
 
@@ -85,7 +85,7 @@ Siap-siap buat eksplor spot-spot hits di Nusa Penida? Dari tebing spektakuler di
 
 ### Snorkeling/Diving/Water Sports di Nusa Penida
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c79ccabc1b7bc476729ce69183bf4f9b.png)
+![Snorkeling/Diving/Water Sports di Nusa Penida](https://images.gobaligo.id/vocus/vocus_c79ccabc1b7bc476729ce69183bf4f9b.png)
 
 - [Tur Snorkeling Manta Point & Pantai Timur](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F145570-nusa-penida-manta-point-snorkeling-east-coast-tour%2F)
 - [Snorkeling Nusa Lembongan & Manta Bay](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21684-nusa-lembongan-manta-bay-snorkeling-experience%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df6a1d671a3)
@@ -110,7 +110,7 @@ Buat kamu yang mau dari Bali ke Nusa Penida, perlu tahu kalau speedboat ke pulau
 
 Berikut jadwal ferinya:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00a1f99f9b40877bd7047828e486803d.jpg)
+![Cara Naik Feri dari Bali ke Nusa Penida (Canggu, Kuta, Semin](https://images.gobaligo.id/vocus/vocus_00a1f99f9b40877bd7047828e486803d.jpg)
 
 Hanya referensi aja
 
@@ -140,25 +140,25 @@ Buat yang atur perjalanan sendiri, pas sampai di Nusa Penida kamu bisa pilih dar
 
 **Mewah:** [**Adiwana Warnakali Resort**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=12145599) [Booking](https://booking.tpm.li/3tFPqiDE)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aaa80c2680b499073712555131a3e50f.png)
+![Rekomendasi Penginapan](https://images.gobaligo.id/vocus/vocus_aaa80c2680b499073712555131a3e50f.png)
 
 Ini bukan resort mewah termahal di Nusa Penida, tapi salah satu yang terbaik! Resort ini ada di tepi pantai, punya suite besar dan mewah, plus sarapan yang melimpah.
 
 **Private villa mewah:** [**MAUA Nusa Penida**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=756874&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fhotels%2Fdetail%2F716134-maua-nusa-penida-bali%2F%3Fcheck_in%3D2023-10-16%26check_out%3D2023-10-17%26room_num%3D1%26adult_num%3D2%26child_num%3D0%26age%3D%26page_source%3Dhotel_list_page%26server_data%3D81124443136e8db398c4150149cf9cb8ad5d0b7952d56cc9b85d7c43ece88c583ef6a94734cddb541b772abe3853618168df7d3b4ca6468acc19f1de2836e7826a1d47060ff118517ead41986362fdcfc40dfd9c44da728ef31f43dd57fe7804%26source_price_token%3DeyJjdXJyZW5jeSI6IlRXRCIsInByaWNlIjo3MTAxLjAsInNvdXJjZSI6MX0%3D%26is_suggest_time%3D1) Villa tepi laut bintang 4,5 dengan kolam renang pribadi
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9582b5f63acf8e9f46b2ade9f8b1ed2f.jpg)
+![Rekomendasi Penginapan](https://images.gobaligo.id/vocus/vocus_9582b5f63acf8e9f46b2ade9f8b1ed2f.jpg)
 
 **Menengah:** [Jukung Cottage](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=25688678)
 
 Pondok tamu ala resort di tepi pantai ini worth it banget. Ada restoran, kolam renang outdoor, bar, dan ruang bersama.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_251cd6f79234af91002d2fa6ac0c00ff.png)
+![Rekomendasi Penginapan](https://images.gobaligo.id/vocus/vocus_251cd6f79234af91002d2fa6ac0c00ff.png)
 
 **Budget:** [Hostel Bukit Sangcure](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=10306621)
 
 Tempat nginep favorit backpacker di Nusa Penida. Hostel murah dekat pelabuhan, lengkap dengan sarapan dan sewa sepeda.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_551a7a5e13dc852eeff5da3abefc508c.png)
+![Rekomendasi Penginapan](https://images.gobaligo.id/vocus/vocus_551a7a5e13dc852eeff5da3abefc508c.png)
 
 Terakhir, ada beberapa catatan penting buat kamu yang mau ke Nusa Penida:
 
@@ -189,7 +189,7 @@ Terakhir, ada beberapa catatan penting buat kamu yang mau ke Nusa Penida:
 - [Sewa Kapal Pribadi ke Nusa Penida & Lembongan](https://affiliate.klook.com/redirect?aid=116349&aff_adid=764788&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F92390-private-boat-charter-for-nusa-penida-and-lembongan%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7668f8e7d8)
 - [Paket dari KKday](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=penida&qs=penida&cid=25072)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb79c635d635478033f16ade1e50b0ed.png)
+![Rekomendasi Penginapan](https://images.gobaligo.id/vocus/vocus_eb79c635d635478033f16ade1e50b0ed.png)
 
 [Klik di sini](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing) buat lihat peta lebih besar dan simpan.
 
@@ -197,8 +197,8 @@ Terakhir, ada beberapa catatan penting buat kamu yang mau ke Nusa Penida:
 
 **▶ Panduan Nusa Penida Part 2:** [Nikmatin Kuliner Laut Biru Langit di Nusa Penida, TOP 9 Pilihan Terbaik](/blog/nusa-penida-best-restaurants/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_22ae845281804118aa70b28861ed088e.jpg)
+![Kami juga udah bahas sembilan restoran keren di Nusa Penida ](https://images.gobaligo.id/vocus/vocus_22ae845281804118aa70b28861ed088e.jpg)
 
 **▶ Panduan Nusa Penida Part 3:** [Empat Spot Snorkeling Terbaik di Nusa Penida / Cara Ikut Snorkeling?](/blog/nusa-penida-snorkeling-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_45dcf8200acb1b2e97b7e51cf764425f.jpg)
+![Kami juga udah bahas sembilan restoran keren di Nusa Penida ](https://images.gobaligo.id/vocus/vocus_45dcf8200acb1b2e97b7e51cf764425f.jpg)

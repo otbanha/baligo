@@ -33,7 +33,7 @@ lang: id
 _srcHash: 25dcb5d124ee71cf2adf89db2a644274
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8f6c888982e2cf5611b55b827c0ffcaa.png)
+![【Destinasi Keluarga di Bali】Panduan Sanur: Peta Ultimate 50+](https://images.gobaligo.id/vocus/vocus_8f6c888982e2cf5611b55b827c0ffcaa.png)
 
 Kamu udah bosen sama keramaian Bali? Lagi cari tempat liburan yang bikin rileks? Atau pengen tempat yang cukup nyaman tapi nggak terlalu rame? Kalau iya, Sanur adalah jawabannya!
 
@@ -81,7 +81,7 @@ Area lainnya adalah Pantai Mertasari di ujung selatan Sanur (📌[peta](https://
 
 ### Jalur Tepi Pantai
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d124800f990b3fd545451b4c77015a4f.jpg)
+![Jalur Tepi Pantai](https://images.gobaligo.id/vocus/vocus_d124800f990b3fd545451b4c77015a4f.jpg)
 
 Bicara soal Sanur, nggak lengkap tanpa bahas jalur tepi pantai yang panjangnya lebih dari 4 kilometer! Jalur panjang ini jadi ciri khas Sanur yang paling unik. Kamu bisa jalan-jalan sambil lihat toko-toko di sepanjang jalur, jalan santai, jogging, atau sewa sepeda dan bersepeda santai bareng anak-anak di jalur yang rata. Di satu sisi jalur, ada pantai yang panjang dan beragam, dijamin kamu bakal nemu spot pantai pribadi dengan pohon besar dan teduh yang lucu, tanpa turis yang merokok di dekatmu! Bisa gelar tikar dan relaks di area pribadi kamu.
 
@@ -89,7 +89,7 @@ Selain itu, kamu juga bisa pertimbangkan dua tur setengah hari di bawah ini.
 
 ### Sepeda Matahari Terbit di Pantai
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8f65ced337e0f7409ee7a617c4d85b04.png)
+![Sepeda Matahari Terbit di Pantai](https://images.gobaligo.id/vocus/vocus_8f65ced337e0f7409ee7a617c4d85b04.png)
 
 Kalau mau ranking pemandangan matahari terbit paling spektakuler di Bali, juara pertama jelas 'Matahari Terbit Gunung Batur'! Tapi karena Sanur ada di pantai timur, pemandangan matahari terbitnya juga super mempesona! Di sepanjang jalur tepi pantai, kamu bisa lihat langsung matahari terbit dengan megah.
 
@@ -99,7 +99,7 @@ Tempat paling terkenal untuk lihat matahari terbit, juga salah satu spot paling 
 
 ### Tur Sepeda Listrik Pedesaan Sanur
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0cbe4eaf60ff45aa191d2966875f15fc.png)
+![Tur Sepeda Listrik Pedesaan Sanur](https://images.gobaligo.id/vocus/vocus_0cbe4eaf60ff45aa191d2966875f15fc.png)
 
 Ikuti 'Tur Sepeda Listrik Pedesaan Sanur' melewati hutan bakau, rasakan ketenangan alam; lintasi sawah hijau, nikmati keindahan pemandangan.
 
@@ -112,7 +112,7 @@ Setelah tur sepeda listrik selesai, nikmati kelapa segar di pantai sambil merasa
 
 ### Segara Playland（📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dd7a1a4960aafe8141c839ef82061102.jpg)
+![Segara Playland（Peta）](https://images.gobaligo.id/vocus/vocus_dd7a1a4960aafe8141c839ef82061102.jpg)
 
 Keunggulan utama Segara Playland adalah wahana bermainnya yang super lengkap, mulai dari tempat merangkak, main pasir, seluncuran, sampai kolam kecil buat anak-anak. Wahana ini nggak cuma bikin anak-anak betah main, tapi juga merangsang imajinasi dan energi mereka. Buat orang tua, kalian bisa santai ngawasin anak main atau ikut nimbrung dalam aktivitas seru ini — quality time banget deh.
 
@@ -120,7 +120,7 @@ Tiket masuknya 25K, sekitar USD$1.
 
 ### **Shotgun Social Bali** （📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fc79a480eaeded04dda0b68ee5bc2965.jpg)
+![Shotgun Social Bali （Peta）](https://images.gobaligo.id/vocus/vocus_fc79a480eaeded04dda0b68ee5bc2965.jpg)
 
 Shotgun Social Bali adalah tempat nongkrong hits di Sanur. Ada berbagai fasilitas seperti restoran internasional, bar, dan kafe — cocok banget buat kamu yang cari tempat makan santai. Buat keluarga dengan anak-anak, taman bermain outdoor di sini jadi nilai plus: anak-anak bisa main sementara orang tua menikmati makanan. Konsep social space-nya pas buat kamu yang pengin pengalaman makan nyaman tapi tetap dengan kualitas makanan dan minuman oke.
 
@@ -128,7 +128,7 @@ Kalau kamu lagi di Sanur, Bali, mampir aja ke Shotgun Social Bali buat cobain ma
 
 ### Kids SoHo Playground（📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aab29c9021f09388405829b6f37926dc.jpg)
+![Kids SoHo Playground（Peta）](https://images.gobaligo.id/vocus/vocus_aab29c9021f09388405829b6f37926dc.jpg)
 
 Kids SoHo Playground adalah playground anak yang populer di Sanur, tempat yang super seru dan aman buat keluarga yang liburan ke Bali. Fasilitasnya lengkap banget, ada berbagai macam peralatan mainan yang bikin anak-anak betah, plus lingkungan yang nyaman buat orang tua atau pengasuh buat ngawasin mereka.
 
@@ -140,13 +140,13 @@ Harga tiket masuknya 100K, sekitar USD$3.
 
 ### Byrd House Bali/Kids Club (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3dc24c72e8b6843f128d8166c906a9b8.jpg)
+![Byrd House Bali/Kids Club (Peta)](https://images.gobaligo.id/vocus/vocus_3dc24c72e8b6843f128d8166c906a9b8.jpg)
 
 Byrd House Bali adalah pilihan ideal buat liburan keluarga. Dari pagi sampai sore, tempat ini dipenuhi suasana Mediterania yang tenang, bikin kamu bisa menikmati hidangan lezat di restoran utama atau kue-kue segar di toko roti. Kids Club yang didesain khusus buat anak-anak dilengkapi playground dan kolam renang, jadi mereka bisa main dengan aman sementara orang tua bisa menikmati martini yang elegan atau bersantai di tepi kolam, menikmati liburan yang santai dan menyenangkan.
 
 ### Lamis Resto (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2453c147ea0d93e61521ed542f155fa1.jpg)
+![Lamis Resto (Peta)](https://images.gobaligo.id/vocus/vocus_2453c147ea0d93e61521ed542f155fa1.jpg)
 
 Lamis Resto itu seluruh restorannya kayak playground ukuran medium! Banyak banget mainan seru buat anak-anak dan halaman rumput yang luas. Orang tua yang bawa anak bisa makan di sini sambil biarkan si kecil lari-lari dan habisin energinya!
 
@@ -158,7 +158,7 @@ Biaya masuk 35K, sekitar USD$1.
 
 ### Kidz Cafe Sanur （📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_81613c8557312ce60dcb220dc7140ae1.jpg)
+![Kidz Cafe Sanur （Peta）](https://images.gobaligo.id/vocus/vocus_81613c8557312ce60dcb220dc7140ae1.jpg)
 
 Kidz Cafe Sanur adalah kafe ramah anak yang didesain khusus untuk keluarga dan anak-anak. Tempat ini menyediakan lingkungan yang aman dan nyaman, jadi anak-anak dan orang tua bisa menikmati makanan dan waktu santai bareng.
 
@@ -166,7 +166,7 @@ Kidz Cafe Sanur punya banyak fasilitas bermain anak, seperti area bermain indoor
 
 ### Big Garden Corner Bali（📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f5c6c33583294ef0cad5a9447c3f4614.jpg)
+![Big Garden Corner Bali（Peta）](https://images.gobaligo.id/vocus/vocus_f5c6c33583294ef0cad5a9447c3f4614.jpg)
 
 Big Garden Corner adalah spot menarik di Sanur yang cocok banget buat anak-anak. Ada playground dan water park anak-anak yang seru dan penuh energi. Selain itu, Big Garden Corner juga punya banyak spot foto aesthetic kayak patung Buddha, Candi Borobudur, tree house, dll. Jadi kamu bisa bikin kenangan indah dan foto-foto unik di sini. Tempat ini wajib dikunjungi, cocok buat keluarga atau teman-teman yang mau explore dan bersenang-senang.
 
@@ -176,13 +176,13 @@ Harga tiket mulai 250K
 
 ### Arta Sedana Supermarket（📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fbb6d8bec2c7fbb502200a543dda4216.jpg)
+![Arta Sedana Supermarket（Peta）](https://images.gobaligo.id/vocus/vocus_fbb6d8bec2c7fbb502200a543dda4216.jpg)
 
 Arta Sedana Supermarket adalah supermarket terbesar di area Sanur yang terkenal. Tempat ini jual berbagai kebutuhan sehari-hari dan barang-barang lainnya. Suasana belanjanya luas dan nyaman, ada makanan segar, perlengkapan rumah tangga, kebutuhan pokok, dan di lantai dua ada berbagai pakaian serta souvenir. Pokoknya lengkap banget buat semua kebutuhan kamu.
 
 ### Padang Galak （📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ae9781a4eff3864182d1922b152c4c55.jpg)
+![Padang Galak （Peta）](https://images.gobaligo.id/vocus/vocus_ae9781a4eff3864182d1922b152c4c55.jpg)
 
 Di hari biasa, Padang Galak bukanlah pantai wisata. Tapi setiap tahun antara Juli sampai September, tempat ini berubah jadi super ramai. Di periode ini, Padang Galak jadi venue unik di Bali yang menarik wisatawan dan lokal untuk ikut Bali Kite Festival (Festival Layang-layang Bali). Mau nonton atau ikut lomba, kamu bakal lihat langit dipenuhi layang-layang berbagai bentuk, ukuran, dan warna — bikin pantai ini penuh semangat dan keceriaan. Acara ini berawal dari perayaan syukur kepada dewa-dewi, dan sekarang jadi salah satu festival paling kece di Bali.
 
@@ -192,7 +192,7 @@ Bawa anak kecil? Wajib cobain es krim terkenal Sanur ini! Gelato Secrets adalah 
 
 ### Massimo Italian Restaurant （📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_30924183c91352405729850acdc10976.png)
+![Massimo Italian Restaurant （Peta）](https://images.gobaligo.id/vocus/vocus_30924183c91352405729850acdc10976.png)
 
 Satu lagi toko es krim terkenal di Sanur adalah restoran Italia ini, yang menyajikan makanan Italia dan es krim. Es krimnya handmade, pakai bahan alami dari Italia dan Indonesia. Ada 48 rasa yang bisa dipilih — cek [video Jie](https://youtu.be/laRb_l8BdLM?si=pie6QIzYUNimI4vc&t=884).
 
@@ -200,7 +200,7 @@ Jie selalu mampir ke sini setiap ke Sanur buat makan dan cobain es krim!
 
 ### Sea Turtle Village（📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c6cbeffb30f59766d3516e1d19d63b26.jpg)
+![Sea Turtle Village（Peta）](https://images.gobaligo.id/vocus/vocus_c6cbeffb30f59766d3516e1d19d63b26.jpg)
 
 📍 **Lokasi**: Sindhu Beach, Sanur
 
@@ -212,7 +212,7 @@ Ini adalah pusat konservasi penyu kecil yang didirikan oleh dua hotel bintang li
 
 ### Sindu Dwarawati Turtle Conservation Center（📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_566f468bcb5d32905907b5061d09834d.jpg)
+![Sindu Dwarawati Turtle Conservation Center（Peta）](https://images.gobaligo.id/vocus/vocus_566f468bcb5d32905907b5061d09834d.jpg)
 
 📍 **Lokasi**: Pantai Sindhu, Sanur
 
@@ -226,7 +226,7 @@ Lokasi ini ada di dekat Pantai Sindu, beda sama Sea Turtle Village, **lebih cond
 
 ### Serangan Island Turtle Conservation & Education Center（📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1fd0fa4a64f5f552cf0c246e66892d4e.jpg)
+![Serangan Island Turtle Conservation & Education Center（Peta）](https://images.gobaligo.id/vocus/vocus_1fd0fa4a64f5f552cf0c246e66892d4e.jpg)
 
 📍 **Lokasi**: Pulau Serangan（lepas pantai Sanur）
 
@@ -256,13 +256,13 @@ Di ujung selatan Sanur, ada Mertasari Beach yang jadi tempat favorit warga lokal
 
 ### Genius Cafe Sanur （📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd40539b9efb68f841c3cea6871ac043.jpg)
+![Genius Cafe Sanur （Peta）](https://images.gobaligo.id/vocus/vocus_fd40539b9efb68f841c3cea6871ac043.jpg)
 
 Genius Cafe di Sanur adalah tempat yang super cocok untuk keluarga. Suasana makannya nyaman, menyediakan berbagai makanan dan minuman sehat yang enak, pas banget buat dinikmati sekeluarga. Selain itu, lokasinya strategis di pinggir pantai, jadi bisa lihat pemandangan laut yang cantik — anak-anak dan orang tua bisa menikmati serunya pantai sambil makan. Mereka juga punya kids menu dan kursi tinggi bayi. Kalau kamu suka makanan sehat, vegetarian, kopi enak, atau smoothie bowl yang kece, wajib banget mampir ke kafe di pinggir pantai ini!
 
 ### Cheeky Monkeys （📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_83f82b96bea58efb79337bff0e11edbd.jpg)
+![Cheeky Monkeys （Peta）](https://images.gobaligo.id/vocus/vocus_83f82b96bea58efb79337bff0e11edbd.jpg)
 
 Cheeky Monkeys adalah pusat belajar khusus untuk anak-anak dan keluarga. Mereka punya berbagai kursus dan aktivitas yang dirancang untuk membantu anak-anak belajar sambil bermain. Di dalamnya ada area bermain indoor yang luas, taman bermain outdoor, ruang kelas, dan perpustakaan.
 
@@ -270,13 +270,13 @@ Berbagai kursus dan aktivitas yang ditawarkan Cheeky Monkeys antara lain: kursus
 
 ### Museum Le Mayeur （📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a7eadec18bd85e377d455169550dbd25.jpg)
+![Museum Le Mayeur （Peta）](https://images.gobaligo.id/vocus/vocus_a7eadec18bd85e377d455169550dbd25.jpg)
 
 Museum Le Mayeur terletak di rumah tinggal pelukis Belgia Adrien-Jean Le Mayeur dan istrinya asal Bali, Ni Pollok. Kisah cinta mereka bikin tempat ini penuh nuansa romantis dan sejarah. Museum ini ada di ujung utara Pantai Sanur, berupa museum kecil yang memesona, memajang banyak lukisan Le Mayeur yang menggambarkan kehidupan Bali sebelum pariwisata massal berkembang. Meskipun kondisi perawatannya belakangan sempat jadi perdebatan, buat kamu yang suka seni dan budaya Bali, tempat ini tetap jadi spot foto yang penuh pesona. Sambil jalan-jalan di rumah bersejarah ini, kamu nggak cuma bisa menikmati kecintaan Le Mayeur terhadap Bali lewat karyanya, tapi juga merasakan sejarah Sanur di masa lalu.
 
 ### Pelabuhan Sanur （📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_56a1b3475081bf70455d322015f3bcee.jpg)
+![Pelabuhan Sanur （Peta）](https://images.gobaligo.id/vocus/vocus_56a1b3475081bf70455d322015f3bcee.jpg)
 
 Sanur Harbour adalah pelabuhan penting di Bali yang terletak di Sanur. Pelabuhan ini menyediakan layanan kapal antara Bali dan pulau-pulau kecil di timur, jadi ini adalah pelabuhan paling nyaman buat kamu yang mau ke sana.
 
@@ -287,7 +287,7 @@ Kalau kamu mau ke Nusa Penida atau Nusa Lembongan, cek panduan kami di sini:
 
 ### Icon Bali （📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7a22c365ba0af5a991d81f41d0cf9fdc.jpg)
+![Icon Bali （Peta）](https://images.gobaligo.id/vocus/vocus_7a22c365ba0af5a991d81f41d0cf9fdc.jpg)
 
 Icon Bali adalah mal yang baru dibuka pada 7 Juni 2024. Mal tepi pantai ini punya dua pintu masuk utama, dari Jalan Danau Tamblingan dan Pantai Sanur. Icon Bali bakal punya banyak spot unik, termasuk pasar terapung indoor terbesar, panggung budaya indoor, hutan vertikal, restoran tepi laut, pertunjukan tirai air saat matahari terbenam di pantai, galeri pantai, taman kupu-kupu, dan taman tanaman yang bisa dimakan... dan masih banyak lagi.
 
@@ -295,19 +295,19 @@ https://youtu.be/hdIKOX5wghU?si=_9o-EEDW6YYSivzj
 
 ### Pasar Minggu Sanur - Sunday Market Sanur (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6b92283c8ba5447559940806117f0c1d.jpg)
+![Pasar Minggu Sanur - Sunday Market Sanur (Peta)](https://images.gobaligo.id/vocus/vocus_6b92283c8ba5447559940806117f0c1d.jpg)
 
 Mercure Resort Sanur mengadakan pasar tani setiap bulan, cocok buat keluarga dan mendukung usaha lokal serta seniman. Pasar ini diadakan setiap hari Minggu terakhir, dari jam 10 pagi sampai 6 sore, memberikan pengalaman belanja dan bersosialisasi yang santai dan menyenangkan. Ada berbagai macam barang dan jasa, mulai dari kerajinan tangan, aksesoris fashion, makanan, sampai produk ramah lingkungan. Datang ke pasar ini bukan cuma belanja, tapi juga cara mendukung ekonomi lokal dan industri kreatif.
 
 ### Pasar Malam Sindhu (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_43ae5cf722c32ccca2d75c2ffe135672.jpg)
+![Pasar Malam Sindhu (Peta)](https://images.gobaligo.id/vocus/vocus_43ae5cf722c32ccca2d75c2ffe135672.jpg)
 
 Pasar Malam Sindhu terletak di utara Sanur, ini surga kuliner lokal yang ramai banget, di mana kamu bisa menikmati berbagai cita rasa Bali dengan harga yang ramah di kantong. Mulai dari Nasi Campur, sate, sampai Nasi Goreng, semuanya ada di sini, memuaskan lidahmu. Pasar malam ini nggak cuma digemari warga lokal, tapi juga menarik banyak turis yang ingin merasakan makanan khas Bali. Selain itu, Pasar Malam Sindhu juga tempat yang pas buat beli buah segar, sayuran, dan aneka jus, bahkan bisa cobain durian yang unik. Meskipun jam operasional resmi dari jam 6 sore sampai 11 malam, banyak lapak yang biasanya buka lebih awal dan tetap ramai sampai larut malam, jadi ini pilihan tepat buat kamu yang mau eksplor Sanur di malam hari.
 
 ### 出海钓鱼
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e5a751129b55192d84a6e6780bfca72e.jpg)
+![出海钓鱼](https://images.gobaligo.id/vocus/vocus_e5a751129b55192d84a6e6780bfca72e.jpg)
 
 Aktivitas mancing ini berangkat dari Sanur, bikin kamu merasakan petualangan seru di laut lepas. Kamu berpeluang dapat berbagai ikan incaran yang bikin ngiler, kayak kerapu, kakap, triggerfish, dan berbagai jenis ikan tropis warna-warni lainnya.
 
@@ -317,7 +317,7 @@ Baik kamu pemula atau udah jago mancing, aktivitas ini udah sedia alat pancing, 
 
 ### Snorkeling Lepas Pantai Sanur
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_15a2c8eecada6b4cdeb2eed7d2474a5b.png)
+![Snorkeling Lepas Pantai Sanur](https://images.gobaligo.id/vocus/vocus_15a2c8eecada6b4cdeb2eed7d2474a5b.png)
 
 Jelajahi dunia bawah laut di pesisir Sanur, Bali! Pengalaman snorkeling 1,5 jam, naik perahu cuma 10 menit udah sampai lokasi, di air jernih kamu bisa deket-deket sama biota laut yang melimpah. Kamu bakal lihat berbagai ikan cantik, terumbu karang warna-warni, dan gapura batu tradisional Bali yang unik di bawah air. Yang paling seru, pengalaman kasih makan ikan bikin gerombolan ikan tropis ngelilingin kamu, ciptain pemandangan bawah laut kayak mimpi. Sepanjang acara disediakan GoPro buat ngerekam, biar kamu bisa bawa pulang kenangan bawah laut yang berharga.
 
@@ -329,7 +329,7 @@ Yuk, rasakan keajaiban bawah laut di pesisir Sanur, biar pengalaman snorkeling i
 
 ### Aktivitas Air di Tanjung Benoa (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5704c6a04122fc501a0c2b8e65672e36.jpg)
+![Aktivitas Air di Tanjung Benoa (Peta)](https://images.gobaligo.id/vocus/vocus_5704c6a04122fc501a0c2b8e65672e36.jpg)
 
 Kalau kamu merasa aktivitas air di Sanur kurang menantang, kamu bisa naik mobil sekitar setengah jam ke selatan menuju Tanjung Benoa, yang biasa disebut 'Teluk Selatan'. Ini adalah pusat segala aktivitas air di Bali. Perairan di sini super hidup, menawarkan berbagai macam olahraga air yang bikin adrenalin terpacu, siap kasih kamu petualangan yang nggak terlupakan. Jet ski melesat cepat di atas air biru jernih, bikin kamu merasakan betapa liarnya angin, sementara parasailing bawa kamu terbang tinggi menikmati pemandangan laut yang indah, menyatukan keajaiban dan birunya lautan. Banana boat dan donut boat kasih keseruan cepat yang cocok buat keluarga dan teman-teman.
 
@@ -341,7 +341,7 @@ Tapi perlu diingat, aktivitas air di Teluk Selatan ini cukup populer, jadi saran
 
 ### AeroXSpace Adventure Indoor Playground
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c11c0e168c9578f14f9bfa0b8be57f1f.jpg)
+![AeroXSpace Adventure Indoor Playground](https://images.gobaligo.id/vocus/vocus_c11c0e168c9578f14f9bfa0b8be57f1f.jpg)
 
 Pembukaan AeroXSpace Indoor Adventure Park kasih pilihan hiburan baru buat keluarga dan wisatawan di Bali. Pusat petualangan seluas 3.500 meter persegi ini punya 26 atraksi dan permainan seru, cocok buat segala usia, baik saat cuaca cerah maupun hujan.
 
@@ -349,7 +349,7 @@ Penjelasan lengkapnya [di sini](/blog/aeroxspace-sanur-indoor-playground/).
 
 ### Clip 'n Climb Indoor Rock Climbing
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_299767d0544b5a5db93ddce11b528cb4.jpg)
+![Clip 'n Climb Indoor Rock Climbing](https://images.gobaligo.id/vocus/vocus_299767d0544b5a5db93ddce11b528cb4.jpg)
 
 Clip 'n Climb Bali menggabungkan olahraga dan hiburan, jadi destinasi indoor adventure yang lagi hits di Bali. Baik pemula maupun yang udah jago, pasti nemu keseruannya! Info lengkap dan aturan masuk ada [di sini](/blog/clip-n-climb-sanur-bali/).
 
@@ -373,13 +373,13 @@ Info lengkap: [Panduan Bali Exotic Marine Park: Interaksi super dekat, berenang 
 
 ## Kuliner di Sanur
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_37bc5de638c92dd66ae48ac85fb4cfd2.jpg)
+![Kuliner di Sanur](https://images.gobaligo.id/vocus/vocus_37bc5de638c92dd66ae48ac85fb4cfd2.jpg)
 
 Sanur di Bali terkenal banget dengan ragam kulinernya yang kaya. Kami rekomendasikan total lebih dari 30 restoran dan kafe yang menyajikan berbagai rasa dan gaya masakan. Tempat-tempat ini termasuk masakan tradisional Indonesia, seafood segar, makanan internasional, dan jajanan lokal khas, cocok buat semua selera dan preferensi diet. Yuk, kita jelajahi tempat-tempat kuliner yang menarik ini!
 
 ### Afternoon Tea di Pier Eight, InterContinental Sanur (Google 4.6 bintang 📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2154f66f40eb10cf3dd9e43f9569795e.png)
+![Afternoon Tea di Pier Eight, InterContinental Sanur (Google ](https://images.gobaligo.id/vocus/vocus_2154f66f40eb10cf3dd9e43f9569795e.png)
 
 Ada promo afternoon tea di hotel bintang lima barisan depan Sanur yang menghadap laut, bikin kamu bisa nikmatin makanan lezat sambil pemandangan laut yang cantik banget. Kamu bisa cobain pistachio madeleine, tart stroberi, chocolate cake raspberry, scone pandan, dadar gulung, praline mint, quiche sayuran, sandwich ayam, dan aneka camilan enak lainnya. Plus, kamu bisa pilih ditemani secangkir kopi atau teh, pas banget buat sore yang santai dan menyenangkan.
 
@@ -387,7 +387,7 @@ Ada promo afternoon tea di hotel bintang lima barisan depan Sanur yang menghadap
 
 ### Pengalaman Kuliner Naughty Nuri's Warung di Sanur (Google 4.8 bintang 📌 [Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c30b3be26b7b1ea8d571bb2c3778cccb.png)
+![Pengalaman Kuliner Naughty Nuri's Warung di Sanur (Google 4.](https://images.gobaligo.id/vocus/vocus_c30b3be26b7b1ea8d571bb2c3778cccb.png)
 
 Naughty Nuri's Warung itu restoran iga babi legendaris yang terkenal di Seminyak, sekarang udah buka cabang juga di jalan utama Sanur. Tempat ini terkenal banget sama iga babinya yang empuk dan juicy, bikin banyak orang penasaran buat cobain. Cabang barunya di Sanur nggak cuma ngikutin gaya dan rasa khas dari restoran aslinya, tapi juga kasih pengalaman kuliner baru buat warga lokal dan turis.
 
@@ -395,7 +395,7 @@ Naughty Nuri's Warung itu restoran iga babi legendaris yang terkenal di Seminyak
 
 ### Tsune Japanese Restaurant (Google 4.9 bintang 📌 [Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_37ec052e3c3ba0fce8ed72cd57cf05b1.png)
+![Tsune Japanese Restaurant (Google 4.9 bintang Peta)](https://images.gobaligo.id/vocus/vocus_37ec052e3c3ba0fce8ed72cd57cf05b1.png)
 
 Tsune Bali adalah restoran Jepang autentik yang menyajikan hidangan dengan presentasi cantik, bikin pengalaman makan jadi nikmat buat lidah dan mata. Restonya terletak di pesisir Sanur yang indah, dengan pemandangan laut yang memukau, siap kasih kamu pengalaman bersantap yang benar-benar berkesan.
 
@@ -407,7 +407,7 @@ Tsune Bali menggabungkan esensi masakan Jepang dengan nuansa tropis Bali, jadi p
 
 ### Paed Thai Sanur 泰式餐廳（Google 4.8顆星 📌[地圖](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing) ）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8346bac0d3b03af79df1d1512afe1286.png)
+![Paed Thai Sanur 泰式餐廳（Google 4.8顆星 地圖 ）](https://images.gobaligo.id/vocus/vocus_8346bac0d3b03af79df1d1512afe1286.png)
 
 Suka banget sama rasa Thailand yang asam manis pedas? Ada kabar baik buat kamu! Paed Thai Sanur, restoran Thailand dengan rating Google super tinggi, menyajikan makanan Thailand asli yang balance banget antara manis, asin, pedas, dan asam. Dijamin bikin kamu serasa lagi liburan di Thailand! Desain restorannya modern dan stylish, ditemani angin tropis yang sepoi-sepoi, bikin suasana makin santai ala pulau. Makan enak sambil menikmati estetika visual, dijamin bikin liburan kamu makin berkesan.
 
@@ -417,7 +417,7 @@ Paed Thai menyajikan comfort food yang kreatif banget. Setiap menu cocok untuk d
 
 ### The Village Cucina 意大利餐廳（Google 4.4顆星 📌[地圖](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing) ）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b11e794b7d674e83d3f1ddac526993f.png)
+![The Village Cucina 意大利餐廳（Google 4.4顆星 地圖 ）](https://images.gobaligo.id/vocus/vocus_9b11e794b7d674e83d3f1ddac526993f.png)
 
 The Village Cucina adalah restoran Italia ikonik di Sanur yang hits banget. Letaknya strategis di Jalan Raya Sanur, tepat di sebelah Starbucks. Tempat ini jadi favorit banyak orang buat ngumpul sambil menikmati pasta, pizza, dan wine yang oke punya.
 
@@ -429,7 +429,7 @@ Mau hangout santai sama teman atau dinner romantis, The Village Cucina siap kasi
 
 ### Kafe dengan Pemandangan Laut di Sanur
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dec525d7171bd1501b6db42fd4ccc185.jpg)
+![Kafe dengan Pemandangan Laut di Sanur](https://images.gobaligo.id/vocus/vocus_dec525d7171bd1501b6db42fd4ccc185.jpg)
 
 Kami kumpulin 6 kafe dengan pemandangan laut paling hits dan terbaru. Penjelasan lengkapnya bisa cek [di sini](/blog/sanur-beach-cafes-guide/)
 
@@ -445,7 +445,7 @@ Kuliner di Sanur masih banyak banget, guys. Kalian bisa lihat [Peta Panduan Kelu
 
 ## Shuttle Bus Sanur
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f9725710c3d0c3d75eeb1eacb77c99a6.jpg)
+![Shuttle Bus Sanur](https://images.gobaligo.id/vocus/vocus_f9725710c3d0c3d75eeb1eacb77c99a6.jpg)
 
 Mulai Agustus 2025, Sanur bakal punya shuttle bus yang khusus beroperasi di area Sanur. Bus ini kasih kamu kebebasan buat 'naik-turun' kapan aja sesuai keinginan.
 
@@ -465,7 +465,7 @@ Rute bus yang saat ini beroperasi meliputi:
 
 Mau liburan di Sanur sambil menikmati SPA berkualitas tinggi yang dijamin nggak zonk? Cek rekomendasi kami di bawah ini:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ad4d06b0cc123f9e7ea112e0b6fb25c0.png)
+![Sanur 享受 SPA](https://images.gobaligo.id/vocus/vocus_ad4d06b0cc123f9e7ea112e0b6fb25c0.png)
 
 > [Pengalaman SPA di Byrd House Spa and Wellness](https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97393-spa-experience-byrd-spa-wellness-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db532f14425)
 
@@ -487,7 +487,7 @@ Kami sudah mengumpulkan lebih dari 20 pilihan, mulai dari resor mewah Sanur, hot
 
 ### Sewa Pelampung Besar buat Foto Kece
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7367aefbce2dfaf311e700d4fe626662.jpg)
+![Sewa Pelampung Besar buat Foto Kece](https://images.gobaligo.id/vocus/vocus_7367aefbce2dfaf311e700d4fe626662.jpg)
 
 Udah beres urusan akomodasi, di hotel/villa yang estetik, masa nggak foto-foto cantik!? Nah, pelampung besar dengan bentuk unik jadi properti wajib di kolam renang pas liburan di pulau tropis. Tapi, pelampung besar plus pompa angin ukurannya gede dan lumayan berat, jadi agak repot dibawa ke luar negeri. Untungnya, ada layanan di Bali yang bikin kamu nggak perlu pusing soal itu. Asal kamu nginep di area selatan kayak Kuta, Legian, Seminyak, Canggu, Uluwatu, Nusa Dua, dan Sanur, kamu bisa dengan gampang menikmati serunya berbagai pelampung besar dengan bentuk lucu.
 

@@ -19,7 +19,7 @@ lang: en
 _srcHash: 95ffa0bf6c9a0f91256a4c6f8c7096fa
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fe9cede54dcbc6979f0382bbc3d2c50f.png)
+![Long-Term Residence/Immigration Visa Options in Indonesia/Ba](https://images.gobaligo.id/vocus/vocus_fe9cede54dcbc6979f0382bbc3d2c50f.png)
 
 Foreigners have several visa and permit options for long-term residence in Bali. Generally, foreign travelers can apply for the following types of visas:
 
@@ -58,7 +58,7 @@ The multiple entry visa can only be sponsored by an Indonesian company. Similar 
 
 ## Using a Residence Permit (ITAS/KITAS) for Long-Term Stay in Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8193a453448706bb3e740d33a35153d0.png)
+![Using a Residence Permit (ITAS/KITAS) for Long-Term Stay in ](https://images.gobaligo.id/vocus/vocus_8193a453448706bb3e740d33a35153d0.png)
 
 The residence permit (ITAS/KITAS) is the best choice for foreigners deciding to live in Bali for several years. The residence permit can be valid for up to two years (depending on the type) and can be extended domestically. Additionally, holders of a residence permit can obtain multiple re-entry permits, allowing them to freely enter and exit Indonesia without affecting the validity of their residence permit.
 
@@ -79,7 +79,7 @@ Choosing the right visa or residence permit can make your long-term stay in Bali
 
 📩 **Join the 'Bali Travel Guide' Blog Now and Become a Bali Travel Expert!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Sign Up for Our Blog](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **By subscribing for free, you'll get:**
 

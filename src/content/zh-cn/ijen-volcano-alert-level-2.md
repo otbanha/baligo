@@ -21,7 +21,7 @@ _srcHash: 6630fed63e6ec37b671d3e22fb536e1a
 
 伊真火山（Gunung Ijen）以其壮丽的火山湖闻名，吸引了无数游客。然而，根据印尼2024年七月中旬的报道，近日该火山的活动状态提升至二级警戒，原因也随之揭晓。根据能源与矿产资源部地质灾害减灾中心（PVMBG）的评估，伊真火山近期的活动显著增加，因此提升了警戒级别。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_55b09cfdbb9d40a520cfc527ec731075.jpg)
+![火山警戒！伊真火山提升至二级警戒，原因揭晓](https://images.gobaligo.id/vocus/vocus_55b09cfdbb9d40a520cfc527ec731075.jpg)
 
 ## 活动状态变化
 
@@ -43,7 +43,7 @@ Titan解释道：“伊真火山湖活动增加的标志之一是火山湖水的
 
 自2024年7月12日17:00至21:00，震颤活动显著增强，振幅在5到25毫米之间波动。21:10以后，震颤振幅超过46毫米，达到超量程。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f45741c9d2433eb75ba4613f8a412449.png)
+![近期火山活动记录](https://images.gobaligo.id/vocus/vocus_f45741c9d2433eb75ba4613f8a412449.png)
 
 ## 防范措施
 

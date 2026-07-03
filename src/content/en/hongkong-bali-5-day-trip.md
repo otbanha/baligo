@@ -142,7 +142,7 @@ https://youtu.be/0pMOJfzfEfY?si=Bc_ycWvMgdwUkluQ
 
 Did you find their itinerary exciting? Start planning your own Bali adventure now! We also welcome everyone to share your itineraries in our community!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Please watch Hea Food Travel's video:](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Click here to explore more amazing Bali travel stories
 

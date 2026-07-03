@@ -23,7 +23,7 @@ _srcHash: dca28c43defdedefbe401fef86ab8c3e
 ---
 Liburan ke Bali, apalagi kalau bawa anak kecil, banyak keluarga yang kepikiran buat sewa baby sitter biar gak terlalu repot ngurusin si kecil, jadi liburan lebih santai dan seru. Tapi nyari baby sitter di tempat asing, entah buat kebutuhan liburan singkat atau bantuan jangka panjang, pasti ada tantangan dan kebingungan sendiri. Panduan ini bakal ngenalin cara cari baby sitter, layanan yang ditawarkan baby sitter di Bali, kisaran harga, serta etika dan tips saat pakai jasa mereka, biar kamu bisa makin menikmati waktu santai selama liburan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1dcdfc7456643fad272dc5b80065caff.png)
+![Panduan Cari Baby Sitter di Bali: Cara Dapat yang Cocok & Bi](https://images.gobaligo.id/vocus/vocus_1dcdfc7456643fad272dc5b80065caff.png)
 
 ## Kenapa Pilih Baby Sitter di Bali?
 
@@ -37,7 +37,7 @@ Ketik di mesin pencari 'nanny in Bali' atau 'babysitter in Bali' langsung nemu b
 
 Pas milih baby sitter, saran kami cek referensi mereka, cari tahu pengalaman dan keahliannya, lalu adakan pertemuan singkat atau minimal video call buat mastiin ada chemistry yang oke. Kalau kamu ragu sama pilihan baby sitter, tanya dulu apakah bisa langsung sediakan pengganti, biar kamu gak kehilangan bantuan saat butuh.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a70a13d0ea212f669ce3b73d13e25e5f.png)
+![Cara Cari Baby Sitter](https://images.gobaligo.id/vocus/vocus_a70a13d0ea212f669ce3b73d13e25e5f.png)
 
 ## Biaya Baby Sitter
 
@@ -55,7 +55,7 @@ Ada beberapa etika yang perlu diperhatikan saat mempekerjakan babysitter:
 
 ## Hal yang Perlu Diperhatikan dan Tantangan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e8e947a01f275561c3d1d6020719d0fc.png)
+![Hal yang Perlu Diperhatikan dan Tantangan](https://images.gobaligo.id/vocus/vocus_e8e947a01f275561c3d1d6020719d0fc.png)
 
 Mempekerjakan babysitter di Bali juga bisa ada tantangan. Misalnya, di daerah yang banyak turis asing, gaji babysitter lokal bisa jauh lebih tinggi dibanding daerah lain di Indonesia. Tingginya permintaan dari ekspat membuat standar gaji babysitter naik, yang kadang bikin keluarga lokal merasa berat.
 

@@ -95,7 +95,7 @@ Penting banget buat paham dan hormati perbedaan budaya selama traveling. Di Bali
 
 Sebagai traveler yang bertanggung jawab, wisata ramah lingkungan sudah jadi tren global. Di Bali Utara, menjaga keberlanjutan lingkungan itu penting banget. Kamu bisa mengurangi jejak perjalanan dengan mengurangi pemakaian plastik, mendukung proyek lingkungan lokal, dan pilih akomodasi bersertifikasi ramah lingkungan. Ini nggak cuma bantu jaga sumber daya alam di utara, tapi juga bikin kamu jadi traveler yang lebih sadar.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e5760beb38d06bcff1d783e39230828b.png)
+![12. Tips Wisata Ramah Lingkungan di Bali Utara](https://images.gobaligo.id/vocus/vocus_e5760beb38d06bcff1d783e39230828b.png)
 
 ### 13. Perkembangan Wisata Bali Utara ke Depan
 

@@ -14,7 +14,7 @@ lang: id
 _srcHash: 363f177e70aa81a7bee3e2637b69b024
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8d9d260a2afbba6685fa2a3973cdfc81.jpg)
+![Jelajahi Oneeighty Day Club: Kolam Renang di Tepi Tebing Bal](https://images.gobaligo.id/vocus/vocus_8d9d260a2afbba6685fa2a3973cdfc81.jpg)
 
 Gimana rasanya berdiri di atas tebing setinggi 162 meter?
 
@@ -24,7 +24,7 @@ Oneeighty adalah day club yang ada di dalam The Edge Bali, bagian selatan Bali. 
 
 Resor The Edge Bali udah dapet banyak penghargaan, mulai dari Haute Grandeur Global Hotel Awards 2016, Conde Nast Johansens Awards 2016 dan 2017, The Yak Awards 2017 untuk kategori Villa Terbaik, sampai Tripadvisor Travellers' Choice 2018. Masih ragu buat mampir ke tempat favorit para traveler ini?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3652046e3d81cfaf3d93f68912d283d6.jpg)
+![Jelajahi Oneeighty Day Club: Kolam Renang di Tepi Tebing Bal](https://images.gobaligo.id/vocus/vocus_3652046e3d81cfaf3d93f68912d283d6.jpg)
 
 ➡️[Klik di sini untuk lebih banyak promo Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
@@ -34,7 +34,7 @@ Tamu yang datang ke Oneeighty bisa bersantai di area VIP tepi tebing, atau rebah
 
 Selain kolam renang yang unik banget, kamu juga bisa foto-foto di sungai buatan/lagoon di bawah jembatan kaca Oneeighty. Meskipun buatan, pemandangannya nggak kalah cantik sama danau alami. Banyak foto kece ala influencer Bali diambil di sini!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_32615e318e839d897e9701fd01a67e9f.jpg)
+![Oneeighty Dayclub](https://images.gobaligo.id/vocus/vocus_32615e318e839d897e9701fd01a67e9f.jpg)
 
 Oneeighty bukan cuma tempat wisata yang kece, tapi juga punya pengalaman kuliner yang nggak bakal kamu lupakan. Baja Taco, Soft Shell Crab, Indonesian Tuna Ceviche jadi camilan favorit. Menu utamanya ada ikan kakap kecil, lobster lokal, dan fish trio mango.
 
@@ -52,7 +52,7 @@ Pilihan lainnya adalah tiket reguler per orang seharga Rp615.000, sekitar USD$20
 
 ## Paket SPA dan Makan Malam Romantis
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7957b9fce964ee2a3f8b7de71bb12c06.jpg)
+![Paket SPA dan Makan Malam Romantis](https://images.gobaligo.id/vocus/vocus_7957b9fce964ee2a3f8b7de71bb12c06.jpg)
 
 ### Spa Tebing
 

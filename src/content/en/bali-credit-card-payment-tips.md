@@ -17,7 +17,7 @@ lang: en
 _srcHash: f3f69be70eb47d5a986c071837c4645c
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_49bc8b6c7bfea6941ddd4b975868e7a0.png)
+![Essential Bali Travel Tips: Beware of Credit Card Surcharges](https://images.gobaligo.id/vocus/vocus_49bc8b6c7bfea6941ddd4b975868e7a0.png)
 
 Book and save here:
 

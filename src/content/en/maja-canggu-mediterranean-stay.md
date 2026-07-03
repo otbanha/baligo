@@ -46,23 +46,23 @@ _srcHash: 4e3fc5f0b45b2f04311c17771a5c51e3
 ---
 ## Mediterranean-Inspired Architectural Design
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_46690b92a4255d3c1a5f80169b9fa3c5.jpg)
+![Mediterranean-Inspired Architectural Design](https://images.gobaligo.id/vocus/vocus_46690b92a4255d3c1a5f80169b9fa3c5.jpg)
 
 MAJA Canggu’s architectural design draws inspiration from Santorini, Greece. White walls, arched windows, and blue pools harmonize to create a fresh and luminous atmosphere. Every detail is meticulously crafted, transporting guests to a Mediterranean resort.
 
 ## Private and Comfortable Stay Experience
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a7da572133cc942dd3920126aafafcae.jpg)
+![Private and Comfortable Stay Experience](https://images.gobaligo.id/vocus/vocus_a7da572133cc942dd3920126aafafcae.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_87828895d296ab842856bd8730c1e270.jpg)
+![Private and Comfortable Stay Experience](https://images.gobaligo.id/vocus/vocus_87828895d296ab842856bd8730c1e270.jpg)
 
 The guesthouse features only five suites, with three on the ground floor offering direct pool access and two on the upper floor boasting more spacious interiors and better views. Each room is equipped with air conditioning, a private bathroom, and a balcony or terrace, with some even featuring private pools or direct access to the communal pool. The rooms blend minimalist Mediterranean design with modern comforts, offering guests a relaxing and serene stay.
 
 Upper-floor rooms
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_398dbe09c57076d162a069723d13b341.jpg)
+![Private and Comfortable Stay Experience](https://images.gobaligo.id/vocus/vocus_398dbe09c57076d162a069723d13b341.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_15787366241462c9b27be04bf04849f9.jpg)
+![Private and Comfortable Stay Experience](https://images.gobaligo.id/vocus/vocus_15787366241462c9b27be04bf04849f9.jpg)
 
 ![二樓的房間](https://images.gobaligo.id/vocus/vocus_799dc9d69380721d9e7c02c8c4215197.jpg)
 
@@ -78,13 +78,13 @@ MAJA Canggu is located in the Batu Bolong area of Canggu, within walking distanc
 
 ## Guest Reviews
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6796fda073c0ccc8a554fddb8394e45a.jpg)
+![Guest Reviews](https://images.gobaligo.id/vocus/vocus_6796fda073c0ccc8a554fddb8394e45a.jpg)
 
 According to Agoda reviews, MAJA Canggu has earned a high score of 9.0, with guests generally satisfied with its location, facilities, and service. Many guests praise its unique design style and tranquil environment, considering it a rare find in Canggu, Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e5547dce5ad3713d8ac7db512d386f0a.jpg)
+![Guest Reviews](https://images.gobaligo.id/vocus/vocus_e5547dce5ad3713d8ac7db512d386f0a.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0c4e7438f79dc481aebc41e45cab98f2.jpg)
+![Guest Reviews](https://images.gobaligo.id/vocus/vocus_0c4e7438f79dc481aebc41e45cab98f2.jpg)
 
 ***
 
@@ -92,7 +92,7 @@ According to Agoda reviews, MAJA Canggu has earned a high score of 9.0, with gue
 
 > ▶[Check Agoda Rates & Availability](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47561919)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3425e74a7fff4a400f98cb8dcb2efb96.jpg)
+![Guest Reviews](https://images.gobaligo.id/vocus/vocus_3425e74a7fff4a400f98cb8dcb2efb96.jpg)
 
 Looking for more Canggu accommodation recommendations or want to learn more about Canggu? [Click here](/blog/canggu-guide/)
 

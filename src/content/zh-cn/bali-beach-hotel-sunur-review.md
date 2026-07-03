@@ -26,17 +26,17 @@ _srcHash: 793ad1f7cc34cfb399dd2544d1f5b842
 
 沙努尔新开幕的五星级酒店「Bali Beach Hotel」入住体验！没想到只需USD$129左右（淡季价格），就能住到真正的沙努尔海滩第一排海景房，更重要的是地点极具战略性，无论是观光还是医疗需求都能完美满足！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0ae1a0cf484e76a83b84689923c3127a.jpg)
+![USD$129住无敌海景第一排！Bali Beach Hotel 地点完美、安心旅游首选](https://images.gobaligo.id/vocus/vocus_0ae1a0cf484e76a83b84689923c3127a.jpg)
 
 ## **绝佳地理位置：观光医疗两相宜的黄金地段**
 
 Bali Beach Hotel 坐落在沙努尔的这个地段，不仅是度假天堂，更是安心旅游的保证。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d2093d81fe41a5c3894b1230e714ccfd.jpg)
+![绝佳地理位置：观光医疗两相宜的黄金地段](https://images.gobaligo.id/vocus/vocus_d2093d81fe41a5c3894b1230e714ccfd.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5c204627e861dce5d4e64356ca27b5ea.jpg)
+![绝佳地理位置：观光医疗两相宜的黄金地段](https://images.gobaligo.id/vocus/vocus_5c204627e861dce5d4e64356ca27b5ea.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_68ec455cc77b49aa6b95ae997337ffd1.jpg)
+![绝佳地理位置：观光医疗两相宜的黄金地段](https://images.gobaligo.id/vocus/vocus_68ec455cc77b49aa6b95ae997337ffd1.jpg)
 
 - **医疗保障就在身边**：酒店距离正在兴建中的巴厘岛大型医疗项目「Bali International Hospital」仅有500米！这个由印尼政府与美国约翰霍普金斯医院合作的国际医疗中心，将为旅客提供最完善的医疗保障。对于年长者、有慢性病史的旅客，或是带小孩的家庭来说，这绝对是选择住宿时的一大加分项。
 - **跳岛游最佳基地**：对于计划前往蓝梦岛、佩尼达岛的旅客来说，这里简直是完美选择！从酒店往北步行到Sanur Harbour不到10分钟，早上可以悠闲地吃完早餐再散步去码头，完全不用匆忙赶船。跳岛游结束后，也能快速回到酒店休息，省去长途车程的疲惫。
@@ -49,12 +49,12 @@ Bali Beach Hotel 坐落在沙努尔的这个地段，不仅是度假天堂，更
 
 ## **房间设施超贴心**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361958735-7f8072a0e0088e54f0717c604b87e76e.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361959236-08f3f1e3ef834e75c2996459d2cb3833.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361959761-231c583a26378f98ade3dd086b3274b1.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361960163-434c81694b21c11cbdbafe57ab13085e.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361960654-526902560.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774361960983-unnamed.jpeg)
+![房间设施超贴心](https://images.gobaligo.id/images/2026-03/1774361958735-7f8072a0e0088e54f0717c604b87e76e.jpeg)
+![房间设施超贴心](https://images.gobaligo.id/images/2026-03/1774361959236-08f3f1e3ef834e75c2996459d2cb3833.jpeg)
+![房间设施超贴心](https://images.gobaligo.id/images/2026-03/1774361959761-231c583a26378f98ade3dd086b3274b1.jpeg)
+![房间设施超贴心](https://images.gobaligo.id/images/2026-03/1774361960163-434c81694b21c11cbdbafe57ab13085e.jpeg)
+![房间设施超贴心](https://images.gobaligo.id/images/2026-03/1774361960654-526902560.jpg)
+![房间设施超贴心](https://images.gobaligo.id/images/2026-03/1774361960983-unnamed.jpeg)
 
 我入住的海景房宽敞舒适，充满巴厘岛传统风格设计。特别喜欢房间内的独立阳台，这不仅是房间的延伸，更是欣赏绝佳位置的私人观景台，晚上坐在那里吹海风、听浪声超级惬意。
 
@@ -69,12 +69,12 @@ Bali Beach Hotel 坐落在沙努尔的这个地段，不仅是度假天堂，更
 
 ## **酒店设施丰富多元**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774362103926-caption_1_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774362104321-caption_16_.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774362104811-597216766.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774362105217-699408025.jpg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774362105651-ac8f24c25e043f1bdf1649d9684f3111.jpeg)
-![raw-image](https://images.gobaligo.id/images/2026-03/1774362106058-c84a96d8442b157a0939204702a13343.jpeg)
+![酒店设施丰富多元](https://images.gobaligo.id/images/2026-03/1774362103926-caption_1_.jpg)
+![酒店设施丰富多元](https://images.gobaligo.id/images/2026-03/1774362104321-caption_16_.jpg)
+![酒店设施丰富多元](https://images.gobaligo.id/images/2026-03/1774362104811-597216766.jpg)
+![酒店设施丰富多元](https://images.gobaligo.id/images/2026-03/1774362105217-699408025.jpg)
+![酒店设施丰富多元](https://images.gobaligo.id/images/2026-03/1774362105651-ac8f24c25e043f1bdf1649d9684f3111.jpeg)
+![酒店设施丰富多元](https://images.gobaligo.id/images/2026-03/1774362106058-c84a96d8442b157a0939204702a13343.jpeg)
 
 - **无边泳池**：超大泳池水质清澈，人不多游起来特别舒服，而且泳池区与海滩仅一步之遥，视野开阔。
 - **私人海滩**：沙滩干净整洁，非常适合散步或晒太阳。
@@ -90,7 +90,7 @@ Bali Beach Hotel 坐落在沙努尔的这个地段，不仅是度假天堂，更
 
 ## **餐饮与服务**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_66cc11f851548537055ba149665df287.jpg)
+![餐饮与服务](https://images.gobaligo.id/vocus/vocus_66cc11f851548537055ba149665df287.jpg)
 
 早餐种类丰富，从亚洲当地美食到西式早餐应有尽有，面包种类多元且品质不错。虽然奶酪和冷盘选择较少，但总体来说非常满意。
 
@@ -110,7 +110,7 @@ Bali Beach Hotel 彻底颠覆了我对高性价比酒店的想象！不仅价格
 
 ## 更多沙努尔吃喝玩乐介绍
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
+![更多沙努尔吃喝玩乐介绍](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
 [家庭度假首选沙努尔攻略](/blog/sanur-guide/)
 

@@ -47,7 +47,7 @@ Awal 2026, struktur turis Bali diam-diam mengalami 'gempa besar'. Bukan cuma tur
 
 Bahas kabar baiknya dulu. Bali baru saja menang di China Travel Awards ke-19 yang digelar di Shanghai, dinobatkan sebagai salah satu kawasan wisata top oleh Travel+Leisure China. Bersaing dengan Australia, Maladewa, Afrika Selatan, Thailand, dan Turki — bisa sejajar dengan destinasi-destinasi ini, itu pengakuan yang cukup berarti buat Bali.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778030614176-785728949570308120.png)
+![Turis China: Dari Penghargaan ke Perubahan Kualitas](https://images.gobaligo.id/images/2026-05/1778030614176-785728949570308120.png)
 
 Media yang ngasih penghargaan ini menyasar turis kelas menengah ke atas yang punya daya beli, bukan pasar massal tur grup. Artinya, citra Bali di mata turis China sudah naik kelas jadi destinasi wisata premium yang layak dinikmati dengan waktu dan uang — bukan cuma pantai dan foto-foto, tapi perjalanan berkualitas beneran.
 
@@ -67,7 +67,7 @@ Tapi menurut data terbaru Badan Pusat Statistik (BPS) Indonesia, Maret 2026 tota
 
 Di periode yang sama, turis India juga jadi tren yang patut dicatat — berkat penerbangan langsung baru, makin banyak turis India berdatangan ke Bali, dan hampir 80% dari mereka masuk lewat Bandara Ngurah Rai.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778030491920-680047753084043827.png)
+![Turis Australia Tergusur dari Posisi Juara](https://images.gobaligo.id/images/2026-05/1778030491920-680047753084043827.png)
 
 {{block:戶外}}
 

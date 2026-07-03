@@ -52,7 +52,7 @@ Bulan ini aja, mereka baru aja menyabet penghargaan tertinggi dari salah satu me
 
 ## Dibangun di Sanur, Lokasinya Agak di Luar Dugaan
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776479383196-stunning-beachfront-bali-resort-wins-best-new-hotel-in-2026-at-tourism-awards-768x512.jpg)
+![Dibangun di Sanur, Lokasinya Agak di Luar Dugaan](https://images.gobaligo.id/images/2026-04/1776479383196-stunning-beachfront-bali-resort-wins-best-new-hotel-in-2026-at-tourism-awards-768x512.jpg)
 
 Sanur selama ini dikenal sebagai 'Bali versi tenang'—gak seramai Kuta, gak serame Seminyak. Yang suka Sanur biasanya orang yang pengen suasana tradisional dan slow living.
 
@@ -70,25 +70,25 @@ Empat bangunan dihubungkan oleh koridor berventilasi, banyak menggunakan kayu lo
 
 Semua kamar mulai dari tipe 'suite' — Tropical Suite yang paling dasar aja udah 83 meter persegi, lengkap dengan bathtub terpisah, shower hujan, dan balkon pribadi. Yang paling tinggi, Presidential Suite, mencapai 209 meter persegi — masuk aja perlu jalan dulu buat nemuin toiletnya. Desainnya banyak menggabungkan kayu lokal Indonesia dan kerajinan tradisional Bali, bukan kemewahan modern yang dingin, tapi keanggunan yang hangat.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776477261153-537982534.jpg)
+![Gimana Rasanya Nginep di Sini?](https://images.gobaligo.id/images/2026-04/1776477261153-537982534.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776477261595-537983614.jpg)
+![Gimana Rasanya Nginep di Sini?](https://images.gobaligo.id/images/2026-04/1776477261595-537983614.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776477262414-575293685.jpg)
+![Gimana Rasanya Nginep di Sini?](https://images.gobaligo.id/images/2026-04/1776477262414-575293685.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776477262854-537982447.jpg)
+![Gimana Rasanya Nginep di Sini?](https://images.gobaligo.id/images/2026-04/1776477262854-537982447.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776477263396-2ce8751393783e79ec077dd2adf4dc61.webp)
+![Gimana Rasanya Nginep di Sini?](https://images.gobaligo.id/images/2026-04/1776477263396-2ce8751393783e79ec077dd2adf4dc61.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776477263994-8b8afa9c27b4d95ba8efe416dfe60ec5.webp)
+![Gimana Rasanya Nginep di Sini?](https://images.gobaligo.id/images/2026-04/1776477263994-8b8afa9c27b4d95ba8efe416dfe60ec5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776477264527-0267ab8bb759f1442ea29ba0efff2808.webp)
+![Gimana Rasanya Nginep di Sini?](https://images.gobaligo.id/images/2026-04/1776477264527-0267ab8bb759f1442ea29ba0efff2808.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776477265019-549267171.jpg)
+![Gimana Rasanya Nginep di Sini?](https://images.gobaligo.id/images/2026-04/1776477265019-549267171.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776477265525-2024-07-02.webp)
+![Gimana Rasanya Nginep di Sini?](https://images.gobaligo.id/images/2026-04/1776477265525-2024-07-02.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776477265942-a654724c299c2c110131e3bcb1612476.webp)
+![Gimana Rasanya Nginep di Sini?](https://images.gobaligo.id/images/2026-04/1776477265942-a654724c299c2c110131e3bcb1612476.webp)
 
 Soal makanan, restoran utama Arunika nyediain sarapan prasmanan mulai jam 6:30 pagi setiap hari. Katanya Sunday Brunch-nya juga wah banget — ada domba panggang, babi panggang, udang bakar hidup, sashimi, dan stasiun dessert. Levelnya nggak kalah sama restoran khas hotel-hotel legendaris di Bali. Spa Taru Pramana ambil jalur penyembuhan, fokus pada keseimbangan pikiran dan tubuh, bukan cuma layanan pijat biasa.
 

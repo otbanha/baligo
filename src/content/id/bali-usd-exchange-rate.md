@@ -30,7 +30,7 @@ Saat liburan di Bali, banyak orang pasti nemu masalah soal tukar uang. Apalagi d
 
 Artikel ini bakal bahas dari gambaran umum kurs, jelasin situasi kurs dolar di Bali, dan kasih tips terbaik buat tukar uang.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9bb247d0e05bae1d63368331539e85c8.png)
+![Kurs Dolar di Bali: Lebih Untung Bawa Pecahan Besar atau Kec](https://images.gobaligo.id/vocus/vocus_9bb247d0e05bae1d63368331539e85c8.png)
 
 Di Bali, tempat tukar uang ada di mana-mana, dari bandara, hotel, sampai pusat kota. Tapi kursnya beda-beda. Makanya, sebelum tukar, mending cari tahu dulu situasi kurs di sana.
 
@@ -44,7 +44,7 @@ Umumnya, pas tukar uang pake dolar di Bali, Money Changer biasanya bagi dolar ja
 
 以下是2024， 05， 01在峇里島換匯的匯率表，換匯的時候我們要看的是「買入 (buying)」價。讓我們來看一下：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b3e9800865e70d4ff80928aed2404b40.png)
+![Selisih Kurs Pecahan Besar vs Kecil](https://images.gobaligo.id/vocus/vocus_b3e9800865e70d4ff80928aed2404b40.png)
 
 Seperti tabel di atas, kurs untuk pecahan USD 100 dan USD 50 sama (15.875), sedangkan untuk pecahan USD 20, 10, dan 5 selisihnya 20 Rupiah (15.855). Kalau pecahan USD 1, dibanding pecahan besar 100/50, selisihnya 275 Rupiah (15.600), kursnya paling jelek.
 

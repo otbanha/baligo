@@ -29,7 +29,7 @@ _srcHash: 2f6e562b8ce3af2bed594de14544c148
 
 Lumeira Wellness Bali adalah ruang kesehatan terpadu yang menggabungkan konsep sosial dan kesehatan, terletak di dalam Nuanu Creative City di Bali. Tempat ini tidak hanya menawarkan berbagai layanan penyembuhan, tetapi juga berkomitmen untuk menciptakan lingkungan yang memungkinkan orang terhubung secara mendalam dengan alam dan sesama. Konsep desain Lumeira adalah membantu orang memulihkan keseimbangan tubuh dan pikiran melalui fasilitas dan perawatan yang dirancang dengan cermat, serta mendapatkan relaksasi mendalam di tengah keindahan alam Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1e90b17b35924ceaeec7d4b7f0372d09.jpg)
+![【Tempat Wisata Nuanu】SPA Uap Kayu Bakar Terbesar di Dunia - ](https://images.gobaligo.id/vocus/vocus_1e90b17b35924ceaeec7d4b7f0372d09.jpg)
 
 ### Fasilitas & Layanan Unggulan
 
@@ -44,12 +44,12 @@ Lumeira Wellness Bali adalah ruang kesehatan terpadu yang menggabungkan konsep s
 - **Kolam Galaksi Terapi Suara Infinity & Kolam Air Panas/Dingin**  
   Area kolam renang Lumeira mencakup kolam galaksi terapi suara infinity seluas 65 meter persegi, yang menawarkan pemandangan panorama dan pengalaman mengambang. Selain itu, terdapat dua kolam rendam air dingin dan satu kolam pijat air panas. Setiap fasilitas dirancang untuk mendorong relaksasi dan pemulihan, memungkinkan tamu menikmati momen tenang di tengah taman tropis.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2292eb6a45ab3502be43f71f1010c8f8.jpg)
+![Fasilitas & Layanan Unggulan](https://images.gobaligo.id/vocus/vocus_2292eb6a45ab3502be43f71f1010c8f8.jpg)
 
 - **Restoran Sehat & Bar Terbuka**  
   Restoran ini memiliki desain terbuka, dengan area tempat duduk melingkar di sekitar lubang api yang menghadap ke taman tropis. Tempat ini menyajikan pilihan makanan sehat yang penuh energi, menggabungkan cita rasa lezat dengan nutrisi, sehingga tamu dapat menikmati makanan sambil menyehatkan tubuh dan pikiran.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7adffc1b23c76c7e4cea2b99a56b9b02.jpg)
+![Fasilitas & Layanan Unggulan](https://images.gobaligo.id/vocus/vocus_7adffc1b23c76c7e4cea2b99a56b9b02.jpg)
 
 ## Program Perawatan SPA Utama
 
@@ -59,7 +59,7 @@ Lumeira Wellness Bali adalah ruang kesehatan terpadu yang menggabungkan konsep s
 - **Premium Facial**
 - **Natural Facial**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_32708996449702179a31ff3109953f0b.jpg)
+![Program Perawatan SPA Utama](https://images.gobaligo.id/vocus/vocus_32708996449702179a31ff3109953f0b.jpg)
 
 Lumeira Wellness Bali bukan cuma tempat wellness biasa, tapi ruang buat kamu nemuin keseimbangan lagi lewat alam dan penyembuhan. Mau cari relaksasi total atau pengen connect sama orang lain, di sini semua bisa kamu dapetin.
 
@@ -67,7 +67,7 @@ Lumeira Wellness Bali bukan cuma tempat wellness biasa, tapi ruang buat kamu nem
 
 ## Lebih banyak spot di Nuanu Creative City
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_745feefe1f3f909bf47c1d3875c9c3d6.jpg)
+![Lebih banyak spot di Nuanu Creative City](https://images.gobaligo.id/vocus/vocus_745feefe1f3f909bf47c1d3875c9c3d6.jpg)
 
 Nuanu Creative City adalah kawasan kreatif terbaru di Bali yang mengusung konsep zero carbon, jadi destinasi wisata berkelanjutan paling hits. Sekarang udah mulai menarik para kreator global, wajib masuk bucket list!
 

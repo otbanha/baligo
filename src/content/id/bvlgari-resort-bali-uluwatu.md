@@ -38,15 +38,15 @@ _srcHash: 8af03ed2474c082a11431a1b476e84b5
 ---
 Kalau ada satu hotel di Bali yang jadi 'puncak' dari semua akomodasi mewah, ya pasti Bvlgari Resort Bali.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583391475-021c17e65dc09e40627bfafe07bbf491.webp)
+![Bvlgari Resort Bali｜Resor Mewah Bvlgari di Tebing Uluwatu 20](https://images.gobaligo.id/images/2026-04/1776583391475-021c17e65dc09e40627bfafe07bbf491.webp)
 
 Resor yang digarap langsung oleh brand perhiasan mewah Italia, Bvlgari ini, bertengger di ujung tebing batu kapur di selatan Semenanjung Bukit, tepat 160 meter di atas permukaan laut. Begitu melangkah keluar dari villa, kamu langsung disuguhi pemandangan Samudra Hindia yang nggak ada habisnya. Sore hari, sambil menyesap aperitivo, langit perlahan berubah jingga kemerahan — pemandangan yang bikin siapa pun terpana. Nggak heran kalau tempat ini disebut sebagai salah satu penginapan terbaik di Bali.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583423005-da796fc23397d30a15e6a595c13c48cb.webp)
+![Bvlgari Resort Bali｜Resor Mewah Bvlgari di Tebing Uluwatu 20](https://images.gobaligo.id/images/2026-04/1776583423005-da796fc23397d30a15e6a595c13c48cb.webp)
 
 Baru-baru ini di akhir Maret, Lisa dari BLACKPINK — yang juga jadi brand ambassador global Bvlgari — diam-diam merayakan ulang tahunnya yang ke-29 di sini. Dia upload foto kolam renang infinity dengan latar sunset dan laut luas di Instagram, dan media langsung mengonfirmasi itu pemandangan dari Bvlgari Resort Bali. Dukungan dari selebriti sekelas Lisa jelas menunjukkan level tempat ini.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583168422-mixcollage-19-apr-2026-02-18-pm-4602.jpg)
+![Bvlgari Resort Bali｜Resor Mewah Bvlgari di Tebing Uluwatu 20](https://images.gobaligo.id/images/2026-04/1776583168422-mixcollage-19-apr-2026-02-18-pm-4602.jpg)
 
 ▲Lisa dari Black Pink di vila pribadi Bvlgari
 
@@ -54,7 +54,7 @@ Baru-baru ini di akhir Maret, Lisa dari BLACKPINK — yang juga jadi brand ambas
 
 ## 📍 Lokasi & Lingkungan Sekitar
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583518454-eb47f8e0655de85da41eccefdc9575ef.webp)
+![Lokasi & Lingkungan Sekitar](https://images.gobaligo.id/images/2026-04/1776583518454-eb47f8e0655de85da41eccefdc9575ef.webp)
 
 Bvlgari Resort Bali terletak di kawasan Pecatu, alias daerah Uluwatu. Jaraknya sekitar 20 menit berkendara ke Pura Uluwatu dan Pantai Jimbaran, 10 km ke Pantai Balangan, dan sekitar 45 menit dari bandara.
 
@@ -80,39 +80,39 @@ Beberapa fasilitas yang nggak boleh kamu lewatkan:
 
 **Serpenti Pool Club** : Kolam renang utama baru saja didesain ulang dengan tema ular, jadi 'Serpenti Pool Club', sebagai penghormatan pada ikon paling khas Bvlgari. Visualnya bener-bener stunning. Dari kolam, pemandangan langsung ke Samudra Hindia—rasa infinity pool dari sudut ini susah banget ditiru di tempat lain di Bali.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583588168-77182_16030212010040383642.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776583588168-77182_16030212010040383642.webp)
 
 **Il Ristorante Luca Fantin** : Restoran Italia kreatif yang diurus langsung oleh koki Italia tetap di sini, memadukan teknik masak presisi dengan penyajian artistik. Ini salah satu tempat langka di Bali buat nyobain hidangan Italia kelas atas yang autentik. Kualitas sarapannya juga diakui banyak tamu sebagai salah satu yang paling mewah se-Bali.
 
 **The Bvlgari Bar** : Setiap sore saat matahari terbenam, tamu bisa menikmati aperitivo Italia (camilan pembuka plus minuman sebelum makan) gratis, sambil duduk di tepi tebing dan lihat sunset. Pengalaman complimentary ini sebenarnya bernilai mahal, lho.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583634510-r1.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776583634510-r1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583634993-r2.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776583634993-r2.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583635409-r3.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776583635409-r3.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583635946-r4.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776583635946-r4.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583636358-r5.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776583636358-r5.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583636846-r6.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776583636846-r6.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583637302-r6.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776583637302-r6.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583637743-r8.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776583637743-r8.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583638180-r9.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776583638180-r9.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583638577-r10.jpg)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776583638577-r10.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583639028-r11.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776583639028-r11.webp)
 
 ▲ Pemandangan restoran yang super cantik
 
 **Bvlgari Spa** : Perawatan premium yang dilakukan oleh empat terapis secara bersamaan, menggabungkan pijat dalam, minyak esensial herbal eksotis, dan terapi energi dengan batu vulkanik panas, yang menyasar tujuh pusat energi tubuh. Ada pantai pribadi yang bisa diakses dengan kereta gantung dari puncak tebing—pengalaman naiknya aja udah worth it.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583695851-spa.webp)
+![Fasilitas Hotel](https://images.gobaligo.id/images/2026-04/1776583695851-spa.webp)
 
 Selain itu, resort ini juga menyediakan aktivitas gratis seperti: upacara pemurnian Melukat khas Bali, kelas yoga privat (bisa dipesan kapan aja 24 jam), dan tur jalan kaki ke desa sekitar. Pengalaman-pengalaman ini nggak asal-asalan—kalau dijalani dengan serius, bakal jadi kenangan yang nempel banget.
 
@@ -124,47 +124,47 @@ Total ada 59 villa dan mansion, semuanya punya kolam renang pribadi. Kategori ut
 
 **One-Bedroom Ocean Cliff, 1 Bedroom Villa** : Dilengkapi kolam renang infinity pribadi yang menghadap Samudra Hindia, ada ruang tamu outdoor beratap, bar mini, dan kursi santai nyaman di tepi kolam. Cocok buat pasangan atau yang lagi bulan madu. Ini tipe entry-level di sini, tapi 'entry-level' di sini cuma relatif aja, ya.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583884278-643139171.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776583884278-643139171.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583884675-b11fd003aead66279c658da8a0542d03.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776583884675-b11fd003aead66279c658da8a0542d03.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583885183-bc9126a07e8cae64809daf1cb8524c01.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776583885183-bc9126a07e8cae64809daf1cb8524c01.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583885682-d9e1822843ee34b10b71985fc2498e6e.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776583885682-d9e1822843ee34b10b71985fc2498e6e.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776583886091-d38729c20e52fd27b854709b82d52f40.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776583886091-d38729c20e52fd27b854709b82d52f40.webp)
 
 **Ocean Cliff Villa 二臥室**：占地約 500 平方公尺，有寬敞的中央客廳，融合了 Bali 傳統工藝和當地建材。兩間套房都有獨立浴室，落地玻璃設計，直接面對綠意盎然的熱帶花園。很適合家庭或兩對情侶一起來住。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776590150822-3603f1808e684d284a7febd5da9da41e.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776590150822-3603f1808e684d284a7febd5da9da41e.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776590151575-c7c813734828c09da44a7c4b49ea8a57.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776590151575-c7c813734828c09da44a7c4b49ea8a57.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776590152006-c796da5ed45436d3cb817954d40a890e.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776590152006-c796da5ed45436d3cb817954d40a890e.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776590152430-eec413ba05a624c2450300ffd40058cf.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776590152430-eec413ba05a624c2450300ffd40058cf.webp)
 
 **Mansion（三到五臥室）**：有獨立入口，就像「度假村裡的度假村」，內部裝飾著蘭花、印尼古董藝術品，還有專屬管家全天候服務，水晶吊燈下的餐廳超有氣勢。適合大家族或商務包棟。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776590211612-78764d9d6224a20193ccf7387e363df9.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776590211612-78764d9d6224a20193ccf7387e363df9.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776590212232-ab8e2e4e33ea5bf534830873af6beef2.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776590212232-ab8e2e4e33ea5bf534830873af6beef2.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776590212866-b6dc0d64cb1309f9da2d09860b8044c7.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776590212866-b6dc0d64cb1309f9da2d09860b8044c7.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776590213575-caa2be0952b9cfd0c04fe514db2d819a.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776590213575-caa2be0952b9cfd0c04fe514db2d819a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776590214088-e2dbb85af6dec405ee961ce2867e71c1.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776590214088-e2dbb85af6dec405ee961ce2867e71c1.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776590214584-e6b04d558de79e7d053a2c394d0be0ca.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776590214584-e6b04d558de79e7d053a2c394d0be0ca.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776590215118-0babe769c4a6f374c814ae37ecf32cc7.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776590215118-0babe769c4a6f374c814ae37ecf32cc7.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776590215606-2b839a3e4930925d3659123eb7f4b840.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776590215606-2b839a3e4930925d3659123eb7f4b840.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776590216127-5ce985878c03d8a62058468271d9e8de.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776590216127-5ce985878c03d8a62058468271d9e8de.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776590216628-5e8b3052b7af42ad5e9d6eb82986057b.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1776590216628-5e8b3052b7af42ad5e9d6eb82986057b.webp)
 
 所有房型都包含 24 小時早餐、管家服務、無限洗衣、每日下午泳池點心，還有日落 aperitivo。這些加起來的價值真的不低。
 
@@ -188,7 +188,7 @@ Total ada 59 villa dan mansion, semuanya punya kolam renang pribadi. Kategori ut
 
 ***
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776590932897-kidsclub2.webp)
+![Ulasan Nyata Tamu](https://images.gobaligo.id/images/2026-04/1776590932897-kidsclub2.webp)
 
 ▲寶格麗還有自己的兒童俱樂部
 

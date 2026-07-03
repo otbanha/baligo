@@ -30,7 +30,7 @@ Bali is a world-renowned tourist destination that attracts countless visitors ev
 
 ## **Avoiding Chaotic Traffic: Best Vacation Spots**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1488ccb642d8606ee135d2f3a8b13875.png)
+![Avoiding Chaotic Traffic: Best Vacation Spots](https://images.gobaligo.id/vocus/vocus_1488ccb642d8606ee135d2f3a8b13875.png)
 
 Bali's traffic problems are mainly concentrated in areas north of the airport, such as Kuta and Seminyak. These are the most popular tourist areas in Bali, but they are also among the most congested. The ongoing LRT construction, which started in early September 2024 from the parking lot in front of IKEA in Kuta, has further exacerbated traffic in these areas, leading to what is expected to be a 'traffic dark period' for several years. Tourists in these areas will spend a lot of time on the road, affecting the comfort of their vacation.
 
@@ -40,7 +40,7 @@ Therefore, choosing areas south of the airport such as Jimbaran and Uluwatu, or 
 
 ## **The Charm of Jimbaran**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b08e5b845958481bef9a02c0814d1c6.png)
+![The Charm of Jimbaran](https://images.gobaligo.id/vocus/vocus_0b08e5b845958481bef9a02c0814d1c6.png)
 
 Jimbaran, located south of Bali's international airport, is known for its tranquil environment and beautiful beaches. It is a top choice for tourists seeking relaxation and natural scenery. Jimbaran boasts a range of high-quality seafood restaurants where you can enjoy fresh seafood on the beach while watching the sunset. Additionally, the clear waters of Jimbaran Beach make it an ideal spot for swimming and water activities. The atmosphere in Jimbaran is relatively peaceful, making it perfect for families and couples on vacation.
 
@@ -50,7 +50,7 @@ Further Reading:
 
 ## **The Spectacular Scenery of Uluwatu**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb8e47da76e2a55442d0b8aaaac0778a.jpg)
+![The Spectacular Scenery of Uluwatu](https://images.gobaligo.id/vocus/vocus_eb8e47da76e2a55442d0b8aaaac0778a.jpg)
 
 Uluwatu is renowned for its stunning cliffs and sunset views. The Uluwatu Temple (Pura Luhur Uluwatu), one of Bali's most sacred seaside temples, is perched on towering cliffs overlooking the Indian Ocean, offering breathtaking vistas. At dusk, you can witness unparalleled sunset beauty here. Additionally, Uluwatu is a paradise for surfers, boasting world-class surf spots. The atmosphere here is more relaxed compared to Kuta and Seminyak, making it an ideal choice for travelers seeking natural beauty and outdoor activities.
 
@@ -64,7 +64,7 @@ Get to know Nusa Dua in three minutes
 
 Located in the southeastern part of Bali, Nusa Dua is a region specifically designed for high-end vacations. It features numerous five-star resorts and hotels offering a variety of luxurious amenities and services. Nusa Dua's beaches are known for their fine, soft sand and crystal-clear waters, making them perfect for swimming and sunbathing. The area is ideal for family vacations, offering a wide range of activities including golf, snorkeling, and water sports. Nusa Dua's smooth transportation and distance from the city's hustle and bustle provide a true sense of relaxation and joy.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7cfdc46e5646664ec23388b6d228c7e2.png)
+![The Luxury Resorts of Nusa Dua](https://images.gobaligo.id/vocus/vocus_7cfdc46e5646664ec23388b6d228c7e2.png)
 
 Further Reading:
 
@@ -76,7 +76,7 @@ Get to Know Sanur in Three Minutes
 
 Sanur is another perfect destination for families and travelers seeking a laid-back atmosphere. It boasts a five-kilometer-long beachfront promenade, ideal for morning walks and cycling. Compared to Kuta and Seminyak, Sanur's beaches are more tranquil, making them great for swimming and sunbathing. Sanur's harbor is also a convenient starting point for trips to nearby islands like Nusa Penida, allowing you to easily embark on island adventures. Additionally, Sanur is home to numerous restaurants and cafes where you can savor local and international cuisine, enjoying a leisurely holiday.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ec44f971bdf023bb1dfac84d9a4aa698.png)
+![The Relaxing Charm of Sanur](https://images.gobaligo.id/vocus/vocus_ec44f971bdf023bb1dfac84d9a4aa698.png)
 
 Further Reading:
 
@@ -84,7 +84,7 @@ Further Reading:
 
 ## **Sanur's Pier and Island Hopping**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6d090748d499c69a3fede3740b99c6d5.jpg)
+![Sanur's Pier and Island Hopping](https://images.gobaligo.id/vocus/vocus_6d090748d499c69a3fede3740b99c6d5.jpg)
 
 Sanur boasts a convenient pier for island hopping. From here, you can easily access nearby islands like Nusa Penida and Nusa Lembongan. These islands offer stunning natural landscapes and abundant marine activities, all without the hassle of traffic, making them must-visit destinations for travelers.
 

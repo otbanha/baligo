@@ -43,7 +43,7 @@ If you've followed past editions, you might already be familiar with this celebr
 
 This year, the island's grandest cultural carnival officially marks its **48th Bali Arts Festival (Pesta Kesenian Bali, or PKB)**! Whether you're hearing about it for the first time or planning a midsummer trip to Bali, this updated guide will take you straight to this year's highlights, letting you experience the purest beauty of Balinese culture.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781317963625-pkb2021b.jpeg)
+![【2026 Bali Arts Festival】Complete Guide to the Bali Arts Fes](https://images.gobaligo.id/images/2026-06/1781317963625-pkb2021b.jpeg)
 
 ## 2026 Bali Arts Festival: Essential Information
 
@@ -61,13 +61,13 @@ In traditional Balinese culture, art is never merely visual or auditory entertai
 
 #### 1. The Spectacular Opening Parade (Peed Aya)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781318015720-pesta-kesenian-bali-ke-46-1byl9-dom.jpg)
+![1. The Spectacular Opening Parade (Peed Aya)](https://images.gobaligo.id/images/2026-06/1781318015720-pesta-kesenian-bali-ke-46-1byl9-dom.jpg)
 
 The festival kicks off grandly on June 13! The most iconic opening event is the 'Peed Aya cultural parade' in front of the Bajra Sandhi Monument in Denpasar. This year, over 20,000 artists and performers will take part. What's most touching is the large number of young people and children in the parade, showcasing the passing of Bali's cultural vitality to the next generation. Accompanied by the thunderous sounds of traditional Gamelan music, thousands of islanders dressed in stunning traditional costumes line the streets, creating an awe-inspiring scene.
 
 #### 2. Marathon Gamelan and Traditional Dance Battles
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781318117923-seni1.webp)
+![2. Marathon Gamelan and Traditional Dance Battles](https://images.gobaligo.id/images/2026-06/1781318117923-seni1.webp)
 
 Throughout the month-long festival, the Denpasar Art Center offers daily surprises. Top dance and music groups from Bali's various regencies and villages (Banjars) will engage in 'cultural showdowns.' You can witness the intense Kecak dance, the graceful Legong dance, and skillful, fiery Gamelan music competitions among the ensembles.
 
@@ -79,7 +79,7 @@ At the festival, you absolutely cannot miss the local traditional food bazaar! I
 
 #### 4. Handicrafts and World Cultural Exchange Exhibition
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781318412419-crafts-and-produce-on-vacation.jpg)
+![4. Handicrafts and World Cultural Exchange Exhibition](https://images.gobaligo.id/images/2026-06/1781318412419-crafts-and-produce-on-vacation.jpg)
 
 In addition to dynamic performances, the art center also features a large exhibition area showcasing Bali's proud wood carvings, weaving (Ikat/Batik), and traditional paintings. Moreover, this year's 'Bali World Culture Celebration' invites international art groups to exchange and showcase the collision of diverse cultures.
 
@@ -112,7 +112,7 @@ If you prefer to avoid the crowds, plan to arrive at **10 AM** to enjoy the air-
 
 ### Final Thoughts
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781318485016-foto-sipa-pkb-bali-0.png)
+![Final Thoughts](https://images.gobaligo.id/images/2026-06/1781318485016-foto-sipa-pkb-bali-0.png)
 
 Unlike commercial performances tailored for tourists, the Bali Arts Festival (PKB) is a true celebration where locals dance for their own culture and faith. If you happen to be in Bali during this period, be sure to include the Denpasar Art Center in your itinerary.
 

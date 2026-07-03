@@ -22,7 +22,7 @@ _srcHash: bd8d9c2ba4afd3de5e2df0cb4f0277ea
 
 **Teman grup**[**Li Ly**](https://www.facebook.com/lily850711/)**dan temannya baru aja selesai liburan ke Bali di tengah musim hujan, langsung sharing pengalaman jalan-jalan mereka!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7566854d107df6ce88ddc76fca498f38.jpg)
+![【SPA Gila-gilaan】Liburan Seru di Bali & Sharing Pengalaman: ](https://images.gobaligo.id/vocus/vocus_7566854d107df6ce88ddc76fca498f38.jpg)
 
 Berkat banyak info dari grup, aku mau bagi-bagi pengalaman liburan mandiri ke Bali akhir Februari kemarin, cuma buat referensi ya! Rencana perjalanan kita kali ini: ikut beberapa Activity, SPA, kuliner, sisanya disebut 'menikmati'
 
@@ -54,7 +54,7 @@ https://youtu.be/gECdNvG16ww
 
 ### Naik Kuda di Pantai Sunset
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6ff1e2744d79be91e88a8775750847dc.png)
+![Naik Kuda di Pantai Sunset](https://images.gobaligo.id/vocus/vocus_6ff1e2744d79be91e88a8775750847dc.png)
 
 1. Pesan tiket online, harga sekitar USD$55 per orang, dapat instruktur privat, dan instrukturnya yang memegang kuda.
 2. Pengalamannya seru banget, setiap instruktur bantu foto dan video pakai HP kita masing-masing.
@@ -65,7 +65,7 @@ https://youtu.be/gECdNvG16ww
 
 ### Sunrise Jeep
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d007f0cd9a6adf529354c1ea176d2bd4.jpg)
+![Sunrise Jeep](https://images.gobaligo.id/vocus/vocus_d007f0cd9a6adf529354c1ea176d2bd4.jpg)
 
 Dari teman grup Li Ly
 
@@ -176,7 +176,7 @@ Soal transportasi, selama 7 hari 6 malam perjalanan kami kali ini (kecuali tangg
 
 Enam tahun lalu kami pernah ke Bali (paket tur 8 orang dari agen), tapi pengalamannya kurang oke. Yang paling parah adalah sopir sekaligus guide-nya. Meskipun bisa bahasa Mandarin, komunikasinya hampir nggak jalan. Dari situ kami sadar betapa pentingnya sopir yang baik buat perjalanan — mereka bikin liburan lebih lengkap dan rileks. Karena Arie super perhatian, setiap hari kami kasih tip 20-30%.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_45ef0955c4149232b8c65e55bce4f72d.jpg)
+![Rekomendasi Sopir](https://images.gobaligo.id/vocus/vocus_45ef0955c4149232b8c65e55bce4f72d.jpg)
 
 Rekomendasi Sopir: ARIE
 

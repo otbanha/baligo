@@ -71,7 +71,7 @@ What makes Penglipuran Village special? Check out the [Complete 2025 Ubud Bali G
 
 As the main gateway to Bali, I Gusti Ngurah Rai Airport bid farewell to the last batch of passengers in late 2024 with traditional Balinese cultural dances and Gamelan performances, welcoming the first arrivals of 2025. Airport General Manager Ahmad Syaugi Shahab stated, 'We aim to transform the airport into a showcase of Indonesian culture, particularly Balinese culture, and create a pleasant and memorable experience for travelers.'
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6dec8613de7c1b17f3afeb7f3d84d07a.png)
+![Bali Airport Welcomes the New Year with Enthusiastic Atmosph](https://images.gobaligo.id/vocus/vocus_6dec8613de7c1b17f3afeb7f3d84d07a.png)
 
 ---
 
@@ -95,7 +95,7 @@ A4: Although natural disasters and negative news have affected tourism, Bali's a
 
 ## 📩 **Join the "Bali Travel Guide" Now and Become a Bali Travel Expert!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Join the "Bali Travel Guide" Now and Become a Bali Travel Ex](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **By subscribing for free, you'll get:**
 

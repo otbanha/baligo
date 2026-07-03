@@ -21,7 +21,7 @@ lang: zh-hk
 _srcHash: 2dbc7979981c19379b9fa53c2b43297b
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_31df71252b0296e7d4223bd574817f5b.jpg)
+![峇里島烏魯瓦圖最好玩嘅地方 - 點樣計劃你嘅烏魯瓦圖之旅？](https://images.gobaligo.id/vocus/vocus_31df71252b0296e7d4223bd574817f5b.jpg)
 
 'Gypsy in Sneakers' 呢位Youtube網紅透過佢嘅影片，詳細介紹咗峇里島烏魯瓦圖地區嘅旅遊景點。
 
@@ -51,7 +51,7 @@ Padang Padang Beach小傑嘅介紹
 
 最後，佢仲搭直升機從空中俯瞰成個烏魯瓦圖區域，獲得前所未有嘅視野體驗。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_14404cb9ac9d29034a3956e573c160a7.png)
+![峇里島烏魯瓦圖最好玩嘅地方 - 點樣計劃你嘅烏魯瓦圖之旅？](https://images.gobaligo.id/vocus/vocus_14404cb9ac9d29034a3956e573c160a7.png)
 
 > [峇里島搭乘直升機頂級體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=853434&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F56864-bali-helicopter-ride-experience%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd5ad384ea8)
 

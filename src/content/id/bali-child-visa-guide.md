@@ -21,7 +21,7 @@ _srcHash: a8fcf57b28bcf092b8f65bca6b56ace2
 
 Liburan ke Bali bersama anak adalah impian banyak keluarga. Tapi sebelum berangkat, urusan visa sering bikin pusing orang tua — apalagi soal 'anak usia dua tahun pakai visa apa?' atau 'keluarga harus antre bareng buat visa on arrival?' Artikel ini bakal jawab semua kebingunganmu, biar liburan keluarga mulus dari pintu masuk!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b12e310451ce513776f9b8ae272b6ee.png)
+![Panduan Lengkap Visa Anak untuk Liburan Keluarga ke Bali](https://images.gobaligo.id/vocus/vocus_9b12e310451ce513776f9b8ae272b6ee.png)
 
 ## Anak Usia Dua Tahun Bisa Bikin e-Visa?
 
@@ -60,7 +60,7 @@ Meskipun secara teori bisa pilih visa on arrival (VOA) bareng keluarga, **saya s
 
 ## Pengalaman Nyata Masuk Bandara Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf7e7e7e9e394b75fc46a3b7bffd0242.png)
+![Pengalaman Nyata Masuk Bandara Bali](https://images.gobaligo.id/vocus/vocus_bf7e7e7e9e394b75fc46a3b7bffd0242.png)
 
 Berdasarkan pengalaman anggota grup, proses imigrasi di Bandara Bali udah modern dan ramah banget. Ini dia kondisi asli kalau bawa anak:
 
@@ -84,7 +84,7 @@ Pengalaman langsung menunjukkan:
 
 Seorang pengunjung Bali cerita: "Petugas imigrasi lihat kami sekeluarga cuma satu anak yang nggak bisa autogate, langsung bawa si kecil ke konter khusus di samping, prosesnya cepet banget, nggak perlu antre."
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_76c9b5544365f93581cd66180920e6d7.png)
+![Gimana kalau anaknya belum 6 tahun?](https://images.gobaligo.id/vocus/vocus_76c9b5544365f93581cd66180920e6d7.png)
 
 ## Langkah-langkah apply eVisa
 
@@ -94,7 +94,7 @@ Seorang pengunjung Bali cerita: "Petugas imigrasi lihat kami sekeluarga cuma sat
 4. **Bayar online**: **Rp500.000** per orang, bisa pakai kartu kredit\*\*(ada biaya admin)\*\*
 5. **Terima visa**: Biasanya dalam 12 jam eVisa-nya masuk, jangan lupa print atau simpan di HP
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a0603b99fe6343a76c317f76555a027a.png)
+![Langkah-langkah apply eVisa](https://images.gobaligo.id/vocus/vocus_a0603b99fe6343a76c317f76555a027a.png)
 
 **Baca juga:** [Panduan masuk Bali pakai 'All Indonesia' arrival card｜1 menit paham alur terbaru: turun pesawat → imigrasi → ambil bagasi](/blog/bali-all-indonesia-arrival-guide/)
 
@@ -119,7 +119,7 @@ Seorang pengunjung Bali cerita: "Petugas imigrasi lihat kami sekeluarga cuma sat
 ✅ **Manfaatkan autogate** - anggota keluarga di atas 6 tahun bisa masuk cepat, yang di bawah 6 tahun ada jalur khusus
 ✅ **Jangan khawatir** - petugas bandara ramah dan profesional, siap bantu keluarga yang bawa anak
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_73f1a040162a13ae8da89393c144d3ba.png)
+![Rekomendasi Kesimpulan](https://images.gobaligo.id/vocus/vocus_73f1a040162a13ae8da89393c144d3ba.png)
 
 Sistem imigrasi di Bali udah sangat lengkap dan ramah pengguna. Asal persiapan matang, bawa anak masuk pun bisa lancar dan nyaman. Keluarga yang bawa si kecil jangan lupa cek juga rubrik keluarga dan anak kami ya! Semoga liburan keluarga kalian menyenangkan!
 

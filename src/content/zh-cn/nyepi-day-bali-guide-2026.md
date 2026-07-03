@@ -20,7 +20,7 @@ _srcHash: 13685e2272668fe0b4c833d6d1540f75
 ---
 巴厘岛静居日（Nyepi Day），这可是巴厘岛最独特、最神圣的节日之一，岛上瞬间从超热闹变成「全世界最安静的一天」，超有仪式感！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_feb933a483aca657236751e5a8e9ad93.jpg)
+![【宁静日攻略】2026巴厘岛静居日/宁静日（Nyepi Day）｜妖怪大游行须知](https://images.gobaligo.id/vocus/vocus_feb933a483aca657236751e5a8e9ad93.jpg)
 
 ## 2026 巴厘岛静居日（Nyepi）完整指南：从Ogoh-ogoh狂欢到24小时静默
 
@@ -30,7 +30,7 @@ _srcHash: 13685e2272668fe0b4c833d6d1540f75
 
 巴厘岛 Nyepi（静居日）2026 时间轴提醒
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a59afd2356b35bfaf178bf55f2cce4f1.png)
+![先搞懂时间轴（超重要！）](https://images.gobaligo.id/vocus/vocus_a59afd2356b35bfaf178bf55f2cce4f1.png)
 
 ### 3/18 下午开始
 
@@ -75,7 +75,7 @@ _srcHash: 13685e2272668fe0b4c833d6d1540f75
 4. **乌布 Central / 乌布皇宫或猴林附近** 更文化、更艺术风。游行相对优雅、戏剧性强，适合喜欢深度体验的人。Peliatan 皇宫周边也很热闹。
 5. **其他 chill 地点：沙努尔（靠近 McDonald's）、坎古（Batu Bolong & Berawa）、Kerobokan（Lio Square）** 如果你在这些区域住，走出酒店就能看到本地社区版，比较亲切、不那么挤。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_973019ee2bd0d68dc174e5e569c030a0.png)
+![最佳观赏地点（从最盛大到chill一点的排序）：](https://images.gobaligo.id/vocus/vocus_973019ee2bd0d68dc174e5e569c030a0.png)
 
 **小提醒**：很多地方下午就开始封路，Grab 或出租车可能进不去。建议提早包车或走路过去。游行后有些 Ogoh-ogoh 会烧掉，烟雾很大，戴口罩或避开下风处。
 

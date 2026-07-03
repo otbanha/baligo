@@ -20,7 +20,7 @@ _srcHash: 31b0bc711b5adc0845a01af47c4b682e
 
 ### 🏮 **1. 法光寺（Vihara Dharmayana）｜庫塔**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c97c1a79a14cdb7a094a888ce573dae2.jpg)
+![1. 法光寺（Vihara Dharmayana）｜庫塔](https://images.gobaligo.id/vocus/vocus_c97c1a79a14cdb7a094a888ce573dae2.jpg)
 
 隱身喺熱鬧庫塔市區嘅巷弄間，**法光寺**係峇里島最古老嘅佛教寺廟之一，創建於1876年，已經有超過200年嘅歷史。寺廟外圍環繞住一圈有烏龜棲息嘅小水池，主殿則以鮮豔嘅紅柱、巨龍雕塑與大紅燈籠為特色，充滿濃厚嘅中式氛圍。呢度靜謐安詳，同外頭喧鬧嘅海灘形成強烈對比，係喺庫塔鬧區中尋得片刻清寧嘅絕佳去處。
 
@@ -28,7 +28,7 @@ _srcHash: 31b0bc711b5adc0845a01af47c4b682e
 
 ### 🌿 **2. 法吉禪寺（Vihara Dharma Giri Temple）｜塔巴南區，西峇里島**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e2b5cbc2609a02a0e190331f413afd26.jpg)
+![2. 法吉禪寺（Vihara Dharma Giri Temple）｜塔巴南區，西峇里島](https://images.gobaligo.id/vocus/vocus_e2b5cbc2609a02a0e190331f413afd26.jpg)
 
 位於西峇里塔巴南（Tabanan）山區嘅**法吉禪寺**，最著名嘅亮點係嗰尊**巨大嘅臥佛像**。寺廟分為三層，每層都有唔同嘅設計與功能，並設有寧靜嘅花園與觀景平台。呢度空氣清新、景色優美，遊客可以自由漫步其中，感受佛教嘅祥和氛圍，亦係好多人前往西峇里時特意安排嘅一站。
 
@@ -36,7 +36,7 @@ _srcHash: 31b0bc711b5adc0845a01af47c4b682e
 
 ### 🕊 **3. 梵天寺（Brahma Vihara Arama Buddhist Monastery）｜班嘉區，北峇里島**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c227915a15c932da1e5530467e36dfcc.jpg)
+![3. 梵天寺（Brahma Vihara Arama Buddhist Monastery）｜班嘉區，北峇里島](https://images.gobaligo.id/vocus/vocus_c227915a15c932da1e5530467e36dfcc.jpg)
 
 位於北峇里班嘉（Banjar）地區嘅**梵天寺**，建於1960年代，係**峇里島大型嘅佛寺**。呢座寺廟同時亦係一座仍在運作嘅修道院，僧侶每日誦經修行。寺內建築融合峇里傳統與佛教風格，並可以遠眺羅威那（Lovina）嘅海岸線。呢度唔單止係佛教徒朝聖之地，亦係旅人靜心冥想、遠離塵囂嘅理想場所。
 
@@ -44,7 +44,7 @@ _srcHash: 31b0bc711b5adc0845a01af47c4b682e
 
 ### 🕍 **4. 八菩薩佛法寺（Vihara Buddha Dharma）｜水明漾**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_202f5bcbe1e52ec63840a101dcb7620e.jpg)
+![4. 八菩薩佛法寺（Vihara Buddha Dharma）｜水明漾](https://images.gobaligo.id/vocus/vocus_202f5bcbe1e52ec63840a101dcb7620e.jpg)
 
 位於水明漾嘅**八菩薩佛法寺**，喺2007年落成，係一座**新穎而現代化嘅佛教寺廟**。雖然歷史唔長，但佢已經成為當地同國際佛教徒一齊禮佛嘅重要地方。寺內環境整潔明亮，香火鼎盛，對於想喺水明漾體驗一場心靈洗滌嘅旅人嚟講，呢度交通方便又寧靜舒適。
 
@@ -52,7 +52,7 @@ _srcHash: 31b0bc711b5adc0845a01af47c4b682e
 
 ### 🏯 **5. 佛陀功德寺（Vihara Buddha Guna）｜努沙杜瓦**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c74636fc69cbff76a2df2c287979e8ac.gif)
+![5. 佛陀功德寺（Vihara Buddha Guna）｜努沙杜瓦](https://images.gobaligo.id/vocus/vocus_c74636fc69cbff76a2df2c287979e8ac.gif)
 
 呢座位於努沙杜瓦嘅**佛陀功德寺**，隸屬於著名嘅**Puja Mandala多宗教園區**。該園區象徵印尼宗教共融精神，內含五大宗教場所：印度教廟、天主教堂、基督教堂、清真寺同呢座佛寺。佛陀功德寺建築典雅、香氣裊裊，氣氛莊嚴寧靜，充分體現峇里島「不同信仰共存」嘅精神。
 
@@ -60,7 +60,7 @@ _srcHash: 31b0bc711b5adc0845a01af47c4b682e
 
 ### 🏮 **6. 保安宮/薩迦法寺（Vihara Satya Dharma Temple）｜峇里島港口區（Benoa Harbour）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e2f1db13b9d1b0b61ad8eeede51d4507.jpg)
+![6. 保安宮/薩迦法寺（Vihara Satya Dharma Temple）｜峇里島港口區（Benoa Harbour](https://images.gobaligo.id/vocus/vocus_e2f1db13b9d1b0b61ad8eeede51d4507.jpg)
 
 位於**伯努瓦港（Benoa Harbour）旁，薩迦法寺係峇里島最華麗嘅中式佛教寺廟之一**。寺廟建築風格氣派非凡，屋頂飛簷翹角、朱紅色嘅牆柱同金色神像交織出壯觀嘅視覺效果，讓人一踏入就感受到濃厚嘅華人文化氛圍。
 

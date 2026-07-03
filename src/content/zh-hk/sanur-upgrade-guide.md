@@ -15,7 +15,7 @@ _srcHash: b9bbbe21aedcf932dd24fe3633aae4ea
 ---
 提到峇里島嘅海灘度假區，好多人第一個諗到嘅係庫塔，但其實**沙努爾先係峇里島最早發展嘅海濱度假區**。佢低調、優雅、唔張揚，但一直穩穩地存在。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_56f887fcf84745b1d038cc5391594203.jpg)
+![峇里島沙努爾大升級！點解而家係衝一波嘅最佳時機？](https://images.gobaligo.id/vocus/vocus_56f887fcf84745b1d038cc5391594203.jpg)
 
 而家嘅沙努爾，正在悄悄蛻變。
 
@@ -29,7 +29,7 @@ https://youtu.be/SpcgZ4iK7qs
 
 沙努爾已被規劃為**醫療與健康觀光經濟特區（Special Economic Zone）**，並設立咗世界級嘅**Bali International Hospital**。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_885b670ebe416d1159e92918145534e4.jpg)
+![沙努爾嘅新定位：醫療與健康觀光特區](https://images.gobaligo.id/vocus/vocus_885b670ebe416d1159e92918145534e4.jpg)
 
 呢個代表咩？
 
@@ -90,7 +90,7 @@ https://www.instagram.com/reel/DM-DKa6TUir/?utm_source=ig_web_copy_link&igsh=NTc
 
 雖然沙努爾唔似庫塔咁容易受到大量膠垃圾潮影響，但落大雨同大風嗰陣都仲會有垃圾沖上岸。而家當地旅遊業者、清潔團隊同傳統村落合作，加強巡邏同清潔頻率。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9abcbc0ac1493db0c28dcd921a2cf2ff.jpg)
+![海灘環境更加乾淨](https://images.gobaligo.id/vocus/vocus_9abcbc0ac1493db0c28dcd921a2cf2ff.jpg)
 
 結果係咩？
 

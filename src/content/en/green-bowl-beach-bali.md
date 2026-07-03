@@ -21,7 +21,7 @@ lang: en
 _srcHash: 77cf510601ad6e9c9b41e0adfd79d096
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3fa8eca8f249ece1b5a18ffb6e79bbdf.jpg)
+![Discover Bali's Hidden Beach Gem Best Bali Beaches Perfect P](https://images.gobaligo.id/vocus/vocus_3fa8eca8f249ece1b5a18ffb6e79bbdf.jpg)
 
 There's a hidden beach in Bali where you don't have to worry about sun exposure!
 

@@ -21,7 +21,7 @@ lang: id
 _srcHash: 77cf510601ad6e9c9b41e0adfd79d096
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3fa8eca8f249ece1b5a18ffb6e79bbdf.jpg)
+![Bali Hidden Gem Beach Guide Rekomendasi Pantai Bali Pantai T](https://images.gobaligo.id/vocus/vocus_3fa8eca8f249ece1b5a18ffb6e79bbdf.jpg)
 
 Ada pantai hidden gem di Bali yang nggak perlu kepanasan, lho!
 

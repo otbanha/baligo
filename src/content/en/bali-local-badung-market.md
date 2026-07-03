@@ -40,7 +40,7 @@ So where do locals go shopping? The answer is surprisingly simple—**the wet ma
 
 In recent years, more and more tourists have discovered this secret. Compared to souvenirs made for tourists, items bought from traditional markets are more authentic, cheaper, and practical. Among the most popular items are **Indonesian spices**.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779287700843-artikel_201905120521_badungtraditionalmarket.jpg)
+![【Bali Deep Travel】Exploring Traditional Markets: Discovering](https://images.gobaligo.id/images/2026-05/1779287700843-artikel_201905120521_badungtraditionalmarket.jpg)
 
 ## Even Ubud Hides a Morning Market You Can’t See
 

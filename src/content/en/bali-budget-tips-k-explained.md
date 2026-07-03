@@ -21,7 +21,7 @@ _srcHash: ba688ce39a021767482ed9c066a66967
 
 **When spending in Indonesia/Bali, you often see a 'K' after numbers. What does it mean?**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9cd0124f7272cfa32cf8ca9be2d1e01e.jpg)
+![Bali Travel Budget Guide: Understanding How 'K' Helps You Co](https://images.gobaligo.id/vocus/vocus_9cd0124f7272cfa32cf8ca9be2d1e01e.jpg)
 
 Bali, this picturesque Indonesian gem, attracts visitors from around the world. On this beautiful island, in addition to stunning natural landscapes and cultural heritage, tourists will also notice a unique spending habit—a 'K' often follows the amount. This article will explain the meaning of this habit and introduce the importance of understanding this amount format when spending in Bali.
 

@@ -114,25 +114,25 @@ Restoran Breeze di hotel ini menyajikan makanan Indonesia dan internasional yang
 
 ## Pelangi Bali Hotel & Spa
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132295579-a217b7b9deffc6b3fd00e916b05af6c3.webp)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132295579-a217b7b9deffc6b3fd00e916b05af6c3.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132304396-5f0122f8618048a616777191981d4c39.webp)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132304396-5f0122f8618048a616777191981d4c39.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132304872-414b55fef6544a7198b462310d39f58a.webp)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132304872-414b55fef6544a7198b462310d39f58a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132305361-14243754.jpg)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132305361-14243754.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132305775-412170935.jpg)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132305775-412170935.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132306195-412170988.jpg)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132306195-412170988.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132306596-470270319.jpg)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132306596-470270319.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132307080-515181754.jpg)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132307080-515181754.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132307630-515182654.jpg)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132307630-515182654.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1780132315197-c46e84479089823e865fa0d893fb636c.webp)
+![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132315197-c46e84479089823e865fa0d893fb636c.webp)
 
 **📍 Lokasi**｜Di tepi pantai Seminyak, dekat banget sama pasir. Dekat dengan Eat Street yang terkenal, 30 menit dari bandara internasional. Banyak restoran dan toko di sekitar, dekat juga ke beberapa pantai.
 
@@ -160,7 +160,7 @@ Kolam renangnya gede banget, cocok buat berenang sepuasnya dan rasain kesegaran 
 
 ## iSuite by Ekosistem
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775537553408-mixcollage-07-apr-2026-11-52-am-1914.jpg)
+![iSuite by Ekosistem](https://images.gobaligo.id/images/2026-04/1775537553408-mixcollage-07-apr-2026-11-52-am-1914.jpg)
 
 Desain Keren & Ramah Lingkungan — iSuite by Ekosistem adalah hotel butik yang baru buka April 2025, lokasinya di jantung Petitenget, Seminyak. Cuma ada 21 kamar, jalan kaki beberapa menit ke Potato Head Beach Club, 8 menit ke Pantai Batu Belig — lokasinya juara banget.
 Pas masuk kamar, mata langsung tertuju ke bathtub telur raksasa di tengah — gede banget, berdua pun muat. Kamar mandi dan kamar tidur dipisah sama pintu louver, jadi privasi tetap terjaga tapi tetap terasa lapang. Fasilitasnya juga lengkap: minibar gratis, air mineral botol kaca isi ulang, speaker JBL Bluetooth, TV pintar, toilet duduk — detailnya bener-bener di atas harga segini.

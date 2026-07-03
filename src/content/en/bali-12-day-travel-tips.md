@@ -41,7 +41,7 @@ In Bali, we chose to buy a local SIM card. In Kuta and Uluwatu city areas, the S
 
 ## Shopping
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9371bedd3a56431bbff7098c149f4960.png)
+![Shopping](https://images.gobaligo.id/vocus/vocus_9371bedd3a56431bbff7098c149f4960.png)
 
 Shopping in Bali requires some bargaining skills. Generally, you can start by offering half the listed price, and the final deal is usually 30-40% of the original. Prices in Ubud are relatively better, with more choices too. The same items in Kuta can cost 2-3 times more than in Ubud. So, choosing the right place to shop is key.
 
@@ -89,15 +89,15 @@ Another spot is Tembeling Beach and Forest, which is less crowded and perfect fo
 
 We stayed in Ubud for 5 days, then spent 3 days resting in the mountains. I recommend a guesthouse called **Aurora Cabins by Panoramika**. This is a highly-rated accommodation. The cabin sits at an elevation of nearly 900m, next to a coffee plantation, facing east—it's a fantastic way to experience mountain life. The sunrise views from here are spectacular. In the distance, you can see Mount Agung, with Mount Batur to the left. The room is cozy, comfortable, and well-equipped. Truly special.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835335305-534082675.jpg)
+![The Most Unique Accommodation of the Trip](https://images.gobaligo.id/images/2026-06/1780835335305-534082675.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835335716-534106131.jpg)
+![The Most Unique Accommodation of the Trip](https://images.gobaligo.id/images/2026-06/1780835335716-534106131.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835336248-534088602.jpg)
+![The Most Unique Accommodation of the Trip](https://images.gobaligo.id/images/2026-06/1780835336248-534088602.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835336603-534068339.jpg)
+![The Most Unique Accommodation of the Trip](https://images.gobaligo.id/images/2026-06/1780835336603-534068339.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780835336978-534062217.jpg)
+![The Most Unique Accommodation of the Trip](https://images.gobaligo.id/images/2026-06/1780835336978-534062217.jpg)
 
 [**▶Aurora Cabins by Panoramika Booking Link**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47466423)
 

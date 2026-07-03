@@ -46,23 +46,23 @@ Regent Bali Canggu 坐落喺 **Jl. Pantai Batu Bolong No. 93**，直接面對黑
 
 地址上寫住坎古，但更精確咁講，係介乎 Batu Bolong 同 Echo Beach 之間嘅海岸。呢帶係 Canggu 最有氣氛嘅區塊，唔係遊客亂竄嘅人逼人嗰種，而係有咖啡店、選物店、海灘俱樂部點綴其間嘅悠閒生活感。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368644865-b906975f65623d0fddae203932431dbd.webp)
+![位置與周邊環境](https://images.gobaligo.id/images/2026-04/1777368644865-b906975f65623d0fddae203932431dbd.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368645335-d7c1d86ebd938eb97335fd3c041beb0e.webp)
+![位置與周邊環境](https://images.gobaligo.id/images/2026-04/1777368645335-d7c1d86ebd938eb97335fd3c041beb0e.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368645975-0e8d29a878b2b2852c4f42d6e75dcaf6.webp)
+![位置與周邊環境](https://images.gobaligo.id/images/2026-04/1777368645975-0e8d29a878b2b2852c4f42d6e75dcaf6.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368646486-3f1ecbee2201b47561c2709865bb186e.webp)
+![位置與周邊環境](https://images.gobaligo.id/images/2026-04/1777368646486-3f1ecbee2201b47561c2709865bb186e.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368647099-7bcff011aff8f2f91acf97006d018ce1.webp)
+![位置與周邊環境](https://images.gobaligo.id/images/2026-04/1777368647099-7bcff011aff8f2f91acf97006d018ce1.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368647694-9bbf88408ac6b14cab6b26db3ce8d905.webp)
+![位置與周邊環境](https://images.gobaligo.id/images/2026-04/1777368647694-9bbf88408ac6b14cab6b26db3ce8d905.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368648441-89a853b052f5db5b39701a674edea786.webp)
+![位置與周邊環境](https://images.gobaligo.id/images/2026-04/1777368648441-89a853b052f5db5b39701a674edea786.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368649051-0402e9a56058a4f547a63be175d01baf.webp)
+![位置與周邊環境](https://images.gobaligo.id/images/2026-04/1777368649051-0402e9a56058a4f547a63be175d01baf.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368649668-715023085.jpg)
+![位置與周邊環境](https://images.gobaligo.id/images/2026-04/1777368649668-715023085.jpg)
 
 Agoda 嘅位置評分直接攞咗 **9.5/10**，呢個分數已經好說明一切。
 
@@ -96,61 +96,61 @@ Agoda 嘅位置評分直接攞咗 **9.5/10**，呢個分數已經好說明一切
 
 主要房型分幾個層級：
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367763483-a57b5d36ef85ac244f892b9886ae4c94.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777367763483-a57b5d36ef85ac244f892b9886ae4c94.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367764532-2d6547b6b2199debc741c58877517798.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777367764532-2d6547b6b2199debc741c58877517798.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367765123-7dc6f19bfb6d48f5c2ec755d4bb77d6c.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777367765123-7dc6f19bfb6d48f5c2ec755d4bb77d6c.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367765731-632068125.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777367765731-632068125.jpg)
 
 **▲ Studio Suite 1 King｜經典開放式套房（特大床）** 結合睡房同起居空間嘅現代美學，推開窗就可以感受到坎古嘅海風，係雙人度假嘅極致首選。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367848684-1309018ac4bebe9814449f293e56d9a6.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777367848684-1309018ac4bebe9814449f293e56d9a6.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367849224-2d6547b6b2199debc741c58877517798.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777367849224-2d6547b6b2199debc741c58877517798.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367849911-632068118.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777367849911-632068118.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367850525-72e2b5ae900228d14430054b06b89ec9.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777367850525-72e2b5ae900228d14430054b06b89ec9.webp)
 
 **▲ Studio Suite Lagoon Access 2 Twin｜泳池連通開放式套房（兩張單人床）** 露台直接連住湛藍泳池，朝早起身就可以跳落水，享受水邊生活嘅自在悠閒。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367917118-4de3d3c99d6eaed720bb9a961dcb24b3.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777367917118-4de3d3c99d6eaed720bb9a961dcb24b3.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367917716-1e5aff89eb1d990e2d24dc7624dcb445.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777367917716-1e5aff89eb1d990e2d24dc7624dcb445.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367918270-70419011abac9e716de5d8077999e91b.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777367918270-70419011abac9e716de5d8077999e91b.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367918939-b245c2da4b9580f2f0ebf9d9f0fbb052.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777367918939-b245c2da4b9580f2f0ebf9d9f0fbb052.webp)
 
 **▲ Two Bedroom Suite｜尊貴兩房套房** 專為家庭或者朋友出遊而設，有寬敞嘅共享客廳同獨立浴室，喺私隱同相聚之間取得完美平衡。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367985372-644007066.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777367985372-644007066.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367985904-8bc0731d695fa3e879d43ea7c7e231c6.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777367985904-8bc0731d695fa3e879d43ea7c7e231c6.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367986464-32daff611a7a941f17e0792188a6816a.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777367986464-32daff611a7a941f17e0792188a6816a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367987151-093b725bff8fbfa7e57f769b736a74e7.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777367987151-093b725bff8fbfa7e57f769b736a74e7.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367987844-146c120da84e775b6ea13e53b4bc43ae.jpeg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777367987844-146c120da84e775b6ea13e53b4bc43ae.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367988448-675862491.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777367988448-675862491.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367989111-dd46256df3c05958d4946de263266b7a.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777367989111-dd46256df3c05958d4946de263266b7a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777367989614-e7a2b049917766feca044ed4f0dc025b.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777367989614-e7a2b049917766feca044ed4f0dc025b.webp)
 
 **▲ Two Bedroom Penthouse Oceanfront Private Pool｜海景兩房公寓（附私人泳池）** 壯闊海景，配備專屬私人泳池，喺坎古之巔定義奢華嘅最高境界。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368056120-a23d6f7ac0e49d2feb231b17de6ace0b.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777368056120-a23d6f7ac0e49d2feb231b17de6ace0b.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368056755-8a9dd68cfb48a1813b0c23c7d943bfe4.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777368056755-8a9dd68cfb48a1813b0c23c7d943bfe4.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368057483-61658f238225b3ab66fb0cc6adf3ded4.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777368057483-61658f238225b3ab66fb0cc6adf3ded4.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368058092-e7a2b049917766feca044ed4f0dc025b.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777368058092-e7a2b049917766feca044ed4f0dc025b.webp)
 
 **▲ One Bedroom Villa Beachfront Private Pool｜海濱獨棟別墅（附私人泳池）** 極致奢華嘅代名詞，行出房門就係幼滑沙灘，喺私人泳池邊獨享印度洋嘅夕陽同海浪聲。
 
@@ -184,7 +184,7 @@ Agoda 嘅位置評分直接攞咗 **9.5/10**，呢個分數已經好說明一切
 
 ***
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777368558286-caption.jpg)
+![訂房資訊](https://images.gobaligo.id/images/2026-04/1777368558286-caption.jpg)
 
 整體嚟講，Regent Bali Canggu 係目前長灘地區硬件規格最高嘅住宿選擇，冇之一。 如果你對坎古嘅生活氛圍有感覺，又想住喺一個唔需要妥協舒適度嘅地方，呢度係目前最值得考慮嘅新開地標。
 

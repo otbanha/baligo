@@ -160,7 +160,7 @@ Di atap AYANA Segara di Bali ada Luna Rooftop Bar, yang terkenal dengan pemandan
 
 Selain pemandangan alam yang indah dan layanan kelas atas, kawasan resor Ayana sekarang punya tambahan harta karun budaya! Museum SAKA (SAKA Museum) yang baru dibuka tahun 2024 adalah museum bertema budaya kaya Bali, dengan berbagai pameran dan fasilitas interaktif yang bikin pengunjung bisa lebih paham sejarah, tradisi, dan seni Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3d01909c96a70fef9e0966181009f5d4.jpg)
+![Bonus Poin 5: SAKA Museum](https://images.gobaligo.id/vocus/vocus_3d01909c96a70fef9e0966181009f5d4.jpg)
 
 **Fitur Museum**
 
@@ -181,7 +181,7 @@ Saka Museum bukan cuma spot baru di kawasan Ayana Resort, tapi juga jadi permata
 
 ### Bonus Spot 6: Kisik Seafood and Grill
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9ab04c004d2ebae2b2b108dba26c53fc.jpg)
+![Bonus Spot 6: Kisik Seafood and Grill](https://images.gobaligo.id/vocus/vocus_9ab04c004d2ebae2b2b108dba26c53fc.jpg)
 
 Di **Ayana Resort** Bali, ada **Kisik Seafood and Grill** — restoran seafood kece yang terkenal sama bahan segar langsung kirim, hidangan bakar yang mantap, dan suasana romantis tepi laut. Panggangan di sini pas banget, nggak gosong, jadi rasa asli seafood-nya tetap terasa. Setiap suapan tuh bikin kamu ngerasain manisnya laut.
 
@@ -191,7 +191,7 @@ Lokasinya juga deket sama **Rock Bar**, bar tebing hits yang wajib dikunjungi. K
 
 ### Bonus Spot 7: Shuttle Gratis
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fe3daa5789618f3b68ef1bc12a1e5cb2.jpg)
+![Bonus Spot 7: Shuttle Gratis](https://images.gobaligo.id/vocus/vocus_fe3daa5789618f3b68ef1bc12a1e5cb2.jpg)
 
 Di kawasan Ayana Resort and Spa Bali yang luas, ada fasilitas Shuttle Bus gratis yang siap anter jemput antar Ayana Resort, RIMBA by Ayana, AYANA Segara Bali, dan tempat-tempat hits kayak Rock Bar atau pantai pribadi Kubu Beach. Layanan ini jalan setiap hari dengan jadwal tetap, jadi kamu nggak perlu jalan kaki jauh-jauh buat keliling resort. Mau ke kolam renang infinity, restoran, atau spa — naik Shuttle Bus aja, paling praktis. Cocok banget buat kamu yang bawa anak kecil atau orang tua. ⛱️🚌
 
@@ -216,7 +216,7 @@ Tampilannya simpel dan intuitif, support banyak bahasa, jadi meskipun kamu baru 
 
 ### Bonus Poin 9: Kampoeng Bali Dinner & Show
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_01d96bac813801210cc4fc56e348901c.jpg)
+![Bonus Poin 9: Kampoeng Bali Dinner & Show](https://images.gobaligo.id/vocus/vocus_01d96bac813801210cc4fc56e348901c.jpg)
 
 Di Ayana Bali, **Kampoeng Bali Dinner & Show** jelas jadi bonus poin yang bikin kamu speechless 🌟. Setiap Senin, Rabu, dan Jumat sore, tempat ini berubah jadi panggung tradisional yang penuh magis. Kamu bisa nikmatin prasmanan khas Indonesia sambil nonton tarian tradisional Bali yang klasik, termasuk tari api dan Kecak yang bikin merinding.
 
@@ -224,7 +224,7 @@ Panggung pertunjukannya dekat banget di depan mata, ditambah angin malam yang se
 
 ### Bonus Poin 10: AYANA Farm
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fee64b57760a4dc9fdd108913e530a19.jpg)
+![Bonus Poin 10: AYANA Farm](https://images.gobaligo.id/vocus/vocus_fee64b57760a4dc9fdd108913e530a19.jpg)
 
 Kamu tahu nggak sih, sayur dan buah untuk buffet sarapan setiap hari di Ayana itu dari mana? Jawabannya adalah **AYANA Farm** 🍃, sebuah lahan pertanian organik berkelanjutan seluas 2 hektar yang menggabungkan pendidikan alam dan gaya hidup hijau. Baik dewasa maupun anak-anak bisa ikut tur berpemandu, dipandu oleh pemandu profesional untuk mendalami kearifan pertanian tradisional Indonesia, sambil mencicipi tanaman segar yang bisa dimakan di sepanjang jalan. Dari interaksi ini, rasa penasaran dan hormat terhadap tanah akan tumbuh.
 
@@ -279,6 +279,6 @@ Udah kepikiran banget buat liburan ke sini? Saatnya booking, yuk!
 
 ## Peta Lokasi Empat Area Hotel
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_02fdbf9b74ce7ce8486b6fc4f3aa6f4b.png)
+![Peta Lokasi Empat Area Hotel](https://images.gobaligo.id/vocus/vocus_02fdbf9b74ce7ce8486b6fc4f3aa6f4b.png)
 
 {{block:jim}}

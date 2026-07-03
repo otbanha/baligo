@@ -24,7 +24,7 @@ _srcHash: d68b71ba12072d3f009e6af480797319
 
 The Indonesian Immigration Bureau recently announced significant visa reforms aimed at combating illegal activities and simplifying visa procedures. The previously complex visa categories will be consolidated to provide a clearer, unified framework.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_64d9be4decc22cde17ee06eb3a9c4b74.png)
+![Indonesian Immigration Clarifies New Bali Visa Regulations: ](https://images.gobaligo.id/vocus/vocus_64d9be4decc22cde17ee06eb3a9c4b74.png)
 
 ### **Details of Visa Category Consolidation**
 
@@ -69,7 +69,7 @@ Additionally, two new visa types have been introduced for non-enterprise sponsor
 
 ## **eVoA Electronic Visa on Arrival: New Changes in Extended System**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_899aeed13fc6814f83802e4104d0f103.png)
+![eVoA Electronic Visa on Arrival: New Changes in Extended Sys](https://images.gobaligo.id/vocus/vocus_899aeed13fc6814f83802e4104d0f103.png)
 
 As Indonesia pushes forward with digitalizing immigration processes, the **Electronic Visa on Arrival (eVoA)** has become one of the most convenient and common methods for tourist entry, especially for international travelers visiting popular destinations like **Bali**.
 

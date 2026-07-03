@@ -27,7 +27,7 @@ _srcHash: da4421d3efe601543b35886f704019a5
 
 Bali, sebagai destinasi wisata global yang super populer, baru-baru ini mengeluarkan aturan yang lebih ketat buat turis asing. Pemerintah Provinsi Bali resmi mengumumkan **Surat Edaran No. 7 Tahun 2025**, yang mengatur secara jelas pedoman perilaku wisatawan, termasuk kewajiban yang harus dipatuhi, hal-hal yang dilarang, serta sanksi pelanggaran—semua demi menjaga budaya dan lingkungan lokal.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e38d91165546796db77a86f37dbb3076.png)
+![【Info Travel Bali】Bali Terapkan Aturan Baru untuk Turis Asin](https://images.gobaligo.id/vocus/vocus_e38d91165546796db77a86f37dbb3076.png)
 
 ## **Inti Aturan Baru: Wisata yang Beradab, Pelanggar Kena Denda Berat**
 

@@ -40,7 +40,7 @@ Kamu pernah urus e-Visa Indonesia secara online?
 
 Kalau iya, hati-hati. Baru-baru ini di Reddit, ada turis yang cerita soal modus penipuan baru yang menyasar orang-orang yang baru selesai urus visa.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775314454153-img_5278.jpeg)
+![【Peringatan Penipuan Email Terbaru】Setelah Urus e-Visa Indon](https://images.gobaligo.id/images/2026-04/1775314454153-img_5278.jpeg)
 
 ## Setelah Urus Visa, Besoknya Dapat Email 'Resmi'
 
@@ -58,7 +58,7 @@ Soalnya, 'kartu deklarasi masuk' itu benar-benar ada.
 
 Mulai September 2025, turis yang masuk ke Indonesia memang harus isi deklarasi elektronik yang namanya All Indonesia Arrival Card (disingkat AIAC). Nah, momen inilah yang dimanfaatkan para penipu — kamu bingung ini bayar atau nggak, gimana caranya — lalu mereka pura-pura jadi pihak resmi buat minta bayaran.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775314476563-img_5279.jpeg)
+![Kenapa Kelihatan Asli Banget?](https://images.gobaligo.id/images/2026-04/1775314476563-img_5279.jpeg)
 
 Tapi faktanya: **pengisian AIAC gratis total, nggak ada biaya tambahan apa pun!**
 

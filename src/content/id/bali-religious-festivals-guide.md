@@ -17,7 +17,7 @@ lang: id
 _srcHash: 66a6e7a50d3286b9bb5d9b872752e6c5
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7fe2ad940dc8947435d192f8fe2e8ec3.jpg)
+![Festival Tradisional Bali: Panduan Hari Raya Keagamaan Bali ](https://images.gobaligo.id/vocus/vocus_7fe2ad940dc8947435d192f8fe2e8ec3.jpg)
 
 Bali dijuluki sebagai salah satu tempat wisata paling keren secara budaya di dunia, dengan tradisi yang dalam banget. Masyarakat setempat tetap memegang teguh adat, sambil bikin pulau ini hidup dan modern. Perjalanan ke Bali bukan cuma jalan-jalan biasa, bisa jadi pengalaman yang bikin hidup kamu lebih berarti dan berubah.
 
@@ -29,7 +29,7 @@ Baru-baru ini, Bali baru aja selesai merayakan Galungan dan Kuningan, dua hari r
 
 **17 Januari 2026**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d8f4c797ffa77431e43cf8aec8a9ee69.jpg)
+![Hari Siwa Ratri](https://images.gobaligo.id/vocus/vocus_d8f4c797ffa77431e43cf8aec8a9ee69.jpg)
 
 Orang Bali percaya kalau di hari ini, Dewa Siwa bakal ngampuni dosa-dosa mereka yang meditasi buat menghormati-Nya. Ritualnya termasuk nahan diri dari beberapa hal, kayak nggak boleh tidur dan makan. Sepanjang malam begadang yang disebut 'Jagra' dan puasa yang disebut 'Upawasa', semuanya diiringi dengan diam total — fenomena ini namanya 'Monabrata'. Puasa, begadang, dan diam dianggap tiga level utama pengendalian diri, biasanya berlangsung selama 36 jam.
 
@@ -51,7 +51,7 @@ Beberapa hari sebelum Nyepi, ada upacara pembersihan meriah yang disebut Melasti
 
 Galungan dan Kuningan adalah festival besar dalam kalender Bali yang berlangsung selama sepuluh hari, melambangkan pertarungan antara kebaikan dan kejahatan, dan dianggap sebagai jembatan antara yang hidup dan roh leluhur. Orang Bali percaya bahwa selama Galungan, roh leluhur kembali ke pulau untuk berkumpul dengan yang hidup. Setiap rumah tangga memperingati leluhur dengan sesajen, doa, dan persembahan, serta memohon berkah dari mereka. Sejarah Galungan dapat ditelusuri kembali ke naskah Jawa kuno abad ke-9.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b1a8c54e8548c1e5bac37440bf5200d1.jpg)
+![Galungan dan Kuningan](https://images.gobaligo.id/vocus/vocus_b1a8c54e8548c1e5bac37440bf5200d1.jpg)
 
 Galungan & Kuningan tahun 2025 terjadi dua kali. Selama periode ini, kamu akan melihat banyak Penjor (tiang bambu tinggi yang dihias indah) di pulau, melambangkan doa dan persembahan untuk panen yang melimpah. Di rumah dan pura, orang-orang menyiapkan sesajen "Banten" dengan hati-hati untuk berterima kasih kepada dewa dan leluhur. Sepuluh hari kemudian, festival Kuningan menandai kepergian leluhur, dengan nasi kuning dan dekorasi kuning sebagai simbol kemakmuran dan berkah. Selama festival ini, penduduk setempat pulang kampung untuk berkumpul dengan keluarga dan menyiapkan makanan tradisional seperti Lawar dan Babi Guling. Suasana festival terasa kental, berpadu antara kegiatan sosial dan spiritual.
 
@@ -63,7 +63,7 @@ Perlu dicatat, jika kamu berencana datang ke Bali saat ini, banyak pemandu wisat
 
 **7 Oktober 2025 | 27 September 2026**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4a95e8af75a39af7fa9ae53d359af247.png)
+![Nyepi Laut](https://images.gobaligo.id/vocus/vocus_4a95e8af75a39af7fa9ae53d359af247.png)
 
 Nyepi Laut, juga disebut "Hari Sepi Laut", adalah festival tahunan khusus di Pulau Penida, Nusa Lembongan, dan Nusa Ceningan. Pada hari ini, semua aktivitas laut dihentikan total, pelabuhan ditutup, dan nelayan serta wisatawan diminta untuk menghentikan segala aktivitas di laut. Komunitas setempat memiliki rasa hormat dan ketergantungan yang mendalam terhadap laut ini, dan Nyepi Laut diadakan untuk memberi laut "istirahat" selama sehari, melepaskannya dari gangguan manusia sehari-hari, sehingga alam dapat memulihkan dan menyeimbangkan dirinya sendiri.
 
@@ -77,7 +77,7 @@ Kalau kamu berencana mengunjungi Kepulauan Nusa selama Nyepi Laut, saran sih ren
 
 **Jadwal disesuaikan masing-masing pura desa**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c1e82e48c5ec0a4832664aca2d8ace9a.jpg)
+![Odalan — Upacara Ulang Tahun Pura](https://images.gobaligo.id/vocus/vocus_c1e82e48c5ec0a4832664aca2d8ace9a.jpg)
 
 Odalan adalah hari ulang tahun pura, yang sangat penting dalam kehidupan spiritual dan budaya Bali. Berdasarkan kalender Pawukon Bali yang 210 hari, banyak pura dirayakan setahun sekali atau bahkan lebih.
 

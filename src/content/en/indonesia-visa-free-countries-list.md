@@ -25,7 +25,7 @@ _srcHash: 06e84b9a1437cbda9ace1c2cca59fb2a
 
 Indonesian President Joko Widodo recently announced that citizens from 13 countries can enjoy visa-free entry into Indonesia. This policy is based on the principle of reciprocity and considerations for Indonesia's national economic interests, aiming to increase national revenue and support domestic economic development.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff6eba9dd0a64a0c697d3f34391751e8.png)
+![Hong Kong Travelers Rejoice, Taiwan Misses Out!? Indonesia A](https://images.gobaligo.id/vocus/vocus_ff6eba9dd0a64a0c697d3f34391751e8.png)
 
 According to a report from detikFinance, this new policy has been included in Presidential Decree No. 95 of 2024 and will officially take effect on August 29, 2024. The decree states: 'Citizens of countries granted visa-free access may enter Indonesian territory without a visa,' but they must enter through designated immigration checkpoints and can stay in Indonesia for a maximum of 30 days.
 
@@ -53,7 +53,7 @@ The 13 countries on this visa-free list are primarily concentrated in Southeast 
 
 Additionally, countries such as the United Kingdom, South Korea, France, Japan, Russia, India, New Zealand, Spain, Italy, the United Arab Emirates, and Taiwan were also not granted visa-free access this time. Travelers from these countries will still need to follow the current visa policies for entry. However, with the policy being evaluated every six months, it remains to be seen whether these countries will be included in the visa-free list in the future.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_05d8056aa79596f2f9108999a2456902.jpg)
+![Hong Kong Travelers Rejoice, Taiwan Misses Out!? Indonesia A](https://images.gobaligo.id/vocus/vocus_05d8056aa79596f2f9108999a2456902.jpg)
 
 According to current regulations, Taiwanese citizens can apply for a Visa on Arrival (VoA) or an Electronic Visa on Arrival (eVOA) when entering Indonesia. The fee is 500,000 Indonesian Rupiah (approximately USD$32), allowing a stay of 30 days with the option to extend once.
 

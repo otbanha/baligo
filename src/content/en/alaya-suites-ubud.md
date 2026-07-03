@@ -42,25 +42,25 @@ _srcHash: 14fb8d0e0cae160e1e965c146d88a176
 
 Alaya Suites Ubud is the **newest addition** to Alaya Hotels & Resorts, currently the latest member of the group. Located in the Pengosekan area, it offers a quieter and more private atmosphere compared to the group's flagship Alaya Resort. The design blends modern elements with Balinese cultural touches, featuring 45 suites and 6 one-bedroom villas. The property exudes understated luxury—not the flashy tropical resort type, but the kind of place that makes you want to slow down. **Now is the perfect time to experience this new property before the crowds arrive.**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472490843-852951792.jpg)
+![【2026 Ubud New Hotel】Alaya Suites Ubud Unveiled: A Serene Re](https://images.gobaligo.id/images/2026-04/1777472490843-852951792.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472491419-a611bbc941fec1a34b3b99fb3ce68605.webp)
+![【2026 Ubud New Hotel】Alaya Suites Ubud Unveiled: A Serene Re](https://images.gobaligo.id/images/2026-04/1777472491419-a611bbc941fec1a34b3b99fb3ce68605.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472492025-f6c7a869824033a0177e603a1550a376.webp)
+![【2026 Ubud New Hotel】Alaya Suites Ubud Unveiled: A Serene Re](https://images.gobaligo.id/images/2026-04/1777472492025-f6c7a869824033a0177e603a1550a376.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472492671-851866281.jpg)
+![【2026 Ubud New Hotel】Alaya Suites Ubud Unveiled: A Serene Re](https://images.gobaligo.id/images/2026-04/1777472492671-851866281.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472493180-7d28b428eeb72d6d2ede07a817f4d540.webp)
+![【2026 Ubud New Hotel】Alaya Suites Ubud Unveiled: A Serene Re](https://images.gobaligo.id/images/2026-04/1777472493180-7d28b428eeb72d6d2ede07a817f4d540.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472494100-77cce6dcd37e66bcc07fa7107b0f19bd.webp)
+![【2026 Ubud New Hotel】Alaya Suites Ubud Unveiled: A Serene Re](https://images.gobaligo.id/images/2026-04/1777472494100-77cce6dcd37e66bcc07fa7107b0f19bd.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472494715-787059718.jpg)
+![【2026 Ubud New Hotel】Alaya Suites Ubud Unveiled: A Serene Re](https://images.gobaligo.id/images/2026-04/1777472494715-787059718.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472495330-832520057.jpg)
+![【2026 Ubud New Hotel】Alaya Suites Ubud Unveiled: A Serene Re](https://images.gobaligo.id/images/2026-04/1777472495330-832520057.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472496048-832521339.jpg)
+![【2026 Ubud New Hotel】Alaya Suites Ubud Unveiled: A Serene Re](https://images.gobaligo.id/images/2026-04/1777472496048-832521339.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472496660-832526984.jpg)
+![【2026 Ubud New Hotel】Alaya Suites Ubud Unveiled: A Serene Re](https://images.gobaligo.id/images/2026-04/1777472496660-832526984.jpg)
 
 ***
 
@@ -88,39 +88,39 @@ The spa features Alaya Group's signature brand, DaLa Spa, with six treatment roo
 
 Suites come in two types: King Suite (one king bed) and Twin Suite (two beds), both 65 square meters with private balconies, bathtubs, and showers. The natural color palette and layered textures create a peaceful ambiance. Villas are one-bedroom, 100 square meters, featuring private plunge pools overlooking Ubud's greenery, outdoor sun loungers, and dining areas.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472682366-fffd3905d66e6da5545a409f0d9e58c1.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1777472682366-fffd3905d66e6da5545a409f0d9e58c1.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472682928-19adb99d99838fe1862717c78d22d6b0.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1777472682928-19adb99d99838fe1862717c78d22d6b0.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472683543-1841621b5a3e7b840cc3bb4e0e01e1af.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1777472683543-1841621b5a3e7b840cc3bb4e0e01e1af.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472684048-710537273.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1777472684048-710537273.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472684963-710548136.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1777472684963-710548136.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472685689-763342072.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1777472685689-763342072.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472686299-763342078.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1777472686299-763342078.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472686805-a3c1c1f815c0b011192516c1a8cc585b.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1777472686805-a3c1c1f815c0b011192516c1a8cc585b.webp)
 
 ▲All 51 rooms are equipped with air conditioning, Smart TVs, and free Wi-Fi. The bathrooms feature separate bathtubs and showers, and some room types include a minibar (with some complimentary drinks).
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472822019-8e6939614ad0f2096a4297f6e073eda4.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1777472822019-8e6939614ad0f2096a4297f6e073eda4.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472822599-805cf84bd1a18c785dd952bc0e7ebfb7.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1777472822599-805cf84bd1a18c785dd952bc0e7ebfb7.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472823216-853a591959aa2854b16157b06e68c983.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1777472823216-853a591959aa2854b16157b06e68c983.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472823830-1951e371b3683b718aaa9ca74aab05f2.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1777472823830-1951e371b3683b718aaa9ca74aab05f2.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472824337-710537210.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1777472824337-710537210.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472824860-710537288.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1777472824860-710537288.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472825360-787058557.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1777472825360-787058557.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472825990-a0a795ffaebb960680b68844827cf8a9.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1777472825990-a0a795ffaebb960680b68844827cf8a9.webp)
 
 ▲If your budget allows, we recommend booking a Villa directly—a private pool paired with Ubud's lush greenery, enjoying a morning soak accompanied by birdsong—that's the true essence of Ubud.
 
@@ -138,7 +138,7 @@ One guest originally booked Alaya Resort but was unexpectedly upgraded to Alaya 
 
 Another review meticulously listed the names of the service team—restaurant staff, Spa therapists, shuttle drivers, and butlers—each with specific praise, describing this level of personalized service as 'extremely rare.' Receiving such high praise during the early stages of opening clearly indicates a strong foundation in service.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472937188-caption.jpg)
+![Guest Reviews](https://images.gobaligo.id/images/2026-04/1777472937188-caption.jpg)
 
 ***
 

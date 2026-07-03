@@ -31,7 +31,7 @@ _srcHash: a8757ecc9939e89c8f6569dfee987b7d
 
 ## 📶 Possible Hotspot Sharing Scam Tactics:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cdcce95419c06ccd0f04d397e1a75f49.png)
+![Possible Hotspot Sharing Scam Tactics:](https://images.gobaligo.id/vocus/vocus_cdcce95419c06ccd0f04d397e1a75f49.png)
 
 ## 1. **Inducing Hotspot Sharing to Steal Data**
 
@@ -65,7 +65,7 @@ It could also work the other way: scammers set up what appears to be a normal fr
 
 In public places like **Bali Airport, cafes, beaches, or shopping malls**, if a stranger asks you to share your hotspot, **politely but firmly decline**.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_93b61b420b28fbd8de2ef93306e920b1.png)
+![Practical Reminder (Travel Scenarios)](https://images.gobaligo.id/vocus/vocus_93b61b420b28fbd8de2ef93306e920b1.png)
 
 ---
 

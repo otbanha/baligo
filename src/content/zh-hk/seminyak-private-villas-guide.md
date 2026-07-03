@@ -38,21 +38,21 @@ update:2026/06/05
 
 ## The Buah Bali Villas
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365786908-40210895.jpg)
+![The Buah Bali Villas](https://images.gobaligo.id/images/2026-03/1774365786908-40210895.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365785166-27458434.jpg)
+![The Buah Bali Villas](https://images.gobaligo.id/images/2026-03/1774365785166-27458434.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365785958-27459072.jpg)
+![The Buah Bali Villas](https://images.gobaligo.id/images/2026-03/1774365785958-27459072.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365786381-39464509.jpg)
+![The Buah Bali Villas](https://images.gobaligo.id/images/2026-03/1774365786381-39464509.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365787439-162131065.jpg)
+![The Buah Bali Villas](https://images.gobaligo.id/images/2026-03/1774365787439-162131065.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365787918-162131067.jpg)
+![The Buah Bali Villas](https://images.gobaligo.id/images/2026-03/1774365787918-162131067.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365788330-162131719.jpg)
+![The Buah Bali Villas](https://images.gobaligo.id/images/2026-03/1774365788330-162131719.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365788817-165993398.jpg)
+![The Buah Bali Villas](https://images.gobaligo.id/images/2026-03/1774365788817-165993398.jpg)
 
 峇里島水明漾Seminyak地區嘅Buah Bali Villas係一處頂級奢華別墅。呢間五星級別墅提供寬敞舒適嘅villa，游泳池同私人花園令人印象深刻。villa距離Petitenget Beach只需八分鐘步行路程，去Seminyak Square商圈只需三分鐘車程或16分鐘步行。周圍200米內有多間餐飲選擇。
 
@@ -62,25 +62,25 @@ Buah Bali Villas提供免費機場接送同免費區域接送服務，villa每�
 
 ## Maya Sayang
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365989676-28c9b36a88ceb1f6499c9aed367fd350.webp)
+![Maya Sayang](https://images.gobaligo.id/images/2026-03/1774365989676-28c9b36a88ceb1f6499c9aed367fd350.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365990029-195af9078fc837d0f1de4f9b3bd7e83c.webp)
+![Maya Sayang](https://images.gobaligo.id/images/2026-03/1774365990029-195af9078fc837d0f1de4f9b3bd7e83c.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365990456-324181844.jpg)
+![Maya Sayang](https://images.gobaligo.id/images/2026-03/1774365990456-324181844.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365990848-324181853.jpg)
+![Maya Sayang](https://images.gobaligo.id/images/2026-03/1774365990848-324181853.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365991250-575089940.jpg)
+![Maya Sayang](https://images.gobaligo.id/images/2026-03/1774365991250-575089940.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365991573-575093176.jpg)
+![Maya Sayang](https://images.gobaligo.id/images/2026-03/1774365991573-575093176.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365991891-575258748.jpg)
+![Maya Sayang](https://images.gobaligo.id/images/2026-03/1774365991891-575258748.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365992313-a2a67bf6331c7b790d048c47a60a2973.webp)
+![Maya Sayang](https://images.gobaligo.id/images/2026-03/1774365992313-a2a67bf6331c7b790d048c47a60a2973.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365992809-ac43b32fdb51b1337149915e7c710b02.webp)
+![Maya Sayang](https://images.gobaligo.id/images/2026-03/1774365992809-ac43b32fdb51b1337149915e7c710b02.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774365993205-ecc127efa300c76884af7bcb4baaf3bd.webp)
+![Maya Sayang](https://images.gobaligo.id/images/2026-03/1774365993205-ecc127efa300c76884af7bcb4baaf3bd.webp)
 
 Maya Sayang係水明漾Seminyak區最佳嘅私人別墅選擇，以豪華寬敞嘅格局著稱。呢個四星級別墅區提供一至三間房嘅villa，坐落喺安靜嘅中央地帶。如果你正係搵緊非凡住宿體驗，Maya Sayang絕對係不二之選，真係好難明點解評級唔係五星級。
 
@@ -92,25 +92,25 @@ Maya Sayang係水明漾Seminyak區最佳嘅私人別墅選擇，以豪華寬敞�
 
 ## Cyrus Villa
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366141944-2f36ea1a2164ba2d64327256bcc284f1.jpeg)
+![Cyrus Villa](https://images.gobaligo.id/images/2026-03/1774366141944-2f36ea1a2164ba2d64327256bcc284f1.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366142381-46df6a59b5fba94d832e968a5fcbf283.jpeg)
+![Cyrus Villa](https://images.gobaligo.id/images/2026-03/1774366142381-46df6a59b5fba94d832e968a5fcbf283.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366142799-1765f2d5306f218e551df3fdef59f557.jpeg)
+![Cyrus Villa](https://images.gobaligo.id/images/2026-03/1774366142799-1765f2d5306f218e551df3fdef59f557.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366143266-535799705.jpg)
+![Cyrus Villa](https://images.gobaligo.id/images/2026-03/1774366143266-535799705.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366143727-832992811.jpg)
+![Cyrus Villa](https://images.gobaligo.id/images/2026-03/1774366143727-832992811.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366144229-832995094.jpg)
+![Cyrus Villa](https://images.gobaligo.id/images/2026-03/1774366144229-832995094.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366144737-832995102.jpg)
+![Cyrus Villa](https://images.gobaligo.id/images/2026-03/1774366144737-832995102.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366145048-833002678.jpg)
+![Cyrus Villa](https://images.gobaligo.id/images/2026-03/1774366145048-833002678.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366145367-833006777.jpg)
+![Cyrus Villa](https://images.gobaligo.id/images/2026-03/1774366145367-833006777.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366145775-833006782.jpg)
+![Cyrus Villa](https://images.gobaligo.id/images/2026-03/1774366145775-833006782.jpg)
 
 Cyrus Villa係一間同水明漾Seminyak其他私人別墅區好唔同嘅特色住宿選擇，多層次嘅villa設計加上細長嘅戶外空間，帶嚟濃厚嘅摩洛哥風情，而唔係典型嘅峇里風格。如果你正係搵緊超現代同與眾不同嘅villa體驗，Cyrus Villa絕對值得一試。
 
@@ -122,27 +122,27 @@ Cyrus Villa係一間同水明漾Seminyak其他私人別墅區好唔同嘅特色�
 
 ## Mayaloka Villas
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366210395-452963708.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366210395-452963708.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366210915-452963639.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366210915-452963639.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366211257-452963697.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366211257-452963697.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366211676-452963700.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366211676-452963700.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366212032-452963787.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366212032-452963787.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366212454-452963799.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366212454-452963799.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366212849-452964063.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366212849-452964063.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366213255-452964067.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366213255-452964067.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366213663-452964071.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366213663-452964071.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366213979-452964105.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366213979-452964105.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366214393-452964326.jpg)
+![Mayaloka Villas](https://images.gobaligo.id/images/2026-03/1774366214393-452964326.jpg)
 
 對於想喺水明漾Seminyak區體驗傳統風格私人泳池別墅嘅旅客嚟講，Mayaloka Villas絕對係最佳選擇。別墅房型由兩個人用去到可以容納八個人不等，無論係朋友群體、家庭或者跨代同遊，呢度都係理想之地。
 
@@ -156,25 +156,25 @@ Cyrus Villa係一間同水明漾Seminyak其他私人別墅區好唔同嘅特色�
 
 ## Javana Royal Villas
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366442065-817711801.jpg)
+![Javana Royal Villas](https://images.gobaligo.id/images/2026-03/1774366442065-817711801.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366442523-440143617.jpg)
+![Javana Royal Villas](https://images.gobaligo.id/images/2026-03/1774366442523-440143617.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366442977-441222149.jpg)
+![Javana Royal Villas](https://images.gobaligo.id/images/2026-03/1774366442977-441222149.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366443471-441222300.jpg)
+![Javana Royal Villas](https://images.gobaligo.id/images/2026-03/1774366443471-441222300.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366444084-525291263.jpg)
+![Javana Royal Villas](https://images.gobaligo.id/images/2026-03/1774366444084-525291263.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366444625-635087466.jpg)
+![Javana Royal Villas](https://images.gobaligo.id/images/2026-03/1774366444625-635087466.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366445104-635087488.jpg)
+![Javana Royal Villas](https://images.gobaligo.id/images/2026-03/1774366445104-635087488.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366445733-635087759.jpg)
+![Javana Royal Villas](https://images.gobaligo.id/images/2026-03/1774366445733-635087759.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366446394-635087804.jpg)
+![Javana Royal Villas](https://images.gobaligo.id/images/2026-03/1774366446394-635087804.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366446904-794373951.jpg)
+![Javana Royal Villas](https://images.gobaligo.id/images/2026-03/1774366446904-794373951.jpg)
 
 Javana Royal Villas由16間現代風格嘅一房別墅組成，每間別墅都有私人泳池，室內設計簡潔典雅，採用實木地板、白色床罩同深色木質家具。對於渴望私密度假嘅情侶嚟講，呢度絕對係華麗寫意嘅理想選擇。
 
@@ -188,27 +188,27 @@ Javana Royal Villas由16間現代風格嘅一房別墅組成，每間別墅都�
 
 ## Suites Infinity & Beyond
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366518376-133365823.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366518376-133365823.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366518807-121022218.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366518807-121022218.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366519123-114347854.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366519123-114347854.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366519532-167123620.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366519532-167123620.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366519940-167123710.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366519940-167123710.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366520347-167123825.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366520347-167123825.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366520768-167123863.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366520768-167123863.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366521196-167123963.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366521196-167123963.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366521513-167124741.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366521513-167124741.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366521894-167185991.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366521894-167185991.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366522292-167186006.jpg)
+![Suites Infinity & Beyond](https://images.gobaligo.id/images/2026-03/1774366522292-167186006.jpg)
 
 Suites Infinity & Beyond 嘅園主對設計美學真係好有心思，硬件同傢俬擺設都保持住高水準嘅質素。雖然風格有啲偏離傳統峇里島風情，但我哋覺得呢間絕對係水明漾Seminyak區最抵玩嘅私人泳池別墅選擇。
 
@@ -224,15 +224,15 @@ Suites Infinity & Beyond 嘅園主對設計美學真係好有心思，硬件同�
 
 ## The Claremont Luxury Villas
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366579891-5675739b-8a4d-460d-946f-c2ce141df737.jpg)
+![The Claremont Luxury Villas](https://images.gobaligo.id/images/2026-03/1774366579891-5675739b-8a4d-460d-946f-c2ce141df737.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366580380-2b4e374b-2466-4ca2-9275-2b59f15154ad.jpg)
+![The Claremont Luxury Villas](https://images.gobaligo.id/images/2026-03/1774366580380-2b4e374b-2466-4ca2-9275-2b59f15154ad.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366580763-6fca9842-9db9-48b6-96ff-b18810540a9c.jpg)
+![The Claremont Luxury Villas](https://images.gobaligo.id/images/2026-03/1774366580763-6fca9842-9db9-48b6-96ff-b18810540a9c.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366581104-8f763b29-f166-4e4e-80c8-aec51e49ed9a.jpg)
+![The Claremont Luxury Villas](https://images.gobaligo.id/images/2026-03/1774366581104-8f763b29-f166-4e4e-80c8-aec51e49ed9a.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366581416-235fe5e2-fdec-4b57-84c4-9151decd7f01.jpg)
+![The Claremont Luxury Villas](https://images.gobaligo.id/images/2026-03/1774366581416-235fe5e2-fdec-4b57-84c4-9151decd7f01.jpg)
 
 The Claremont Luxury Villas係一間位於水明漾Seminyak中心地帶嘅豪華私人別墅，為情侶提供寬敞時尚嘅住宿環境。
 
@@ -248,25 +248,25 @@ Claremont Luxury Villas提供24小時前台服務、spa按摩館同24小時保�
 
 ## Berry Amour Romantic Villas
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366773073-496455867.jpg)
+![Berry Amour Romantic Villas](https://images.gobaligo.id/images/2026-03/1774366773073-496455867.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366773500-114432965.jpg)
+![Berry Amour Romantic Villas](https://images.gobaligo.id/images/2026-03/1774366773500-114432965.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366773901-194194465.jpg)
+![Berry Amour Romantic Villas](https://images.gobaligo.id/images/2026-03/1774366773901-194194465.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366774242-198621447.jpg)
+![Berry Amour Romantic Villas](https://images.gobaligo.id/images/2026-03/1774366774242-198621447.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366774616-207488169.jpg)
+![Berry Amour Romantic Villas](https://images.gobaligo.id/images/2026-03/1774366774616-207488169.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366775025-414836014.jpg)
+![Berry Amour Romantic Villas](https://images.gobaligo.id/images/2026-03/1774366775025-414836014.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366775332-496458074.jpg)
+![Berry Amour Romantic Villas](https://images.gobaligo.id/images/2026-03/1774366775332-496458074.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366775742-496458171.jpg)
+![Berry Amour Romantic Villas](https://images.gobaligo.id/images/2026-03/1774366775742-496458171.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366776152-496458198.jpg)
+![Berry Amour Romantic Villas](https://images.gobaligo.id/images/2026-03/1774366776152-496458198.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366776561-496470436.jpg)
+![Berry Amour Romantic Villas](https://images.gobaligo.id/images/2026-03/1774366776561-496470436.jpg)
 
 Berry Amour Romantic Villas係一間五星級浪漫風格別墅區，總共有20間villa，只接受情侶同16歲以上嘅客人入住。呢度唔單止提供多項浪漫約會體驗選項，例如花瓣浴等，對度蜜月嘅新婚夫妻嚟講絕對係夢幻之選。
 
@@ -280,25 +280,25 @@ Berry Amour Romantic Villas係一間五星級浪漫風格別墅區，總共有20
 
 ## Villa Mia Seminyak
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366950241-789698687.jpg)
+![Villa Mia Seminyak](https://images.gobaligo.id/images/2026-03/1774366950241-789698687.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366950631-768424574.jpg)
+![Villa Mia Seminyak](https://images.gobaligo.id/images/2026-03/1774366950631-768424574.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366951060-789279229.jpg)
+![Villa Mia Seminyak](https://images.gobaligo.id/images/2026-03/1774366951060-789279229.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366951372-789654526.jpg)
+![Villa Mia Seminyak](https://images.gobaligo.id/images/2026-03/1774366951372-789654526.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366951782-789654638.jpg)
+![Villa Mia Seminyak](https://images.gobaligo.id/images/2026-03/1774366951782-789654638.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366952126-789654668.jpg)
+![Villa Mia Seminyak](https://images.gobaligo.id/images/2026-03/1774366952126-789654668.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366952481-789672963.jpg)
+![Villa Mia Seminyak](https://images.gobaligo.id/images/2026-03/1774366952481-789672963.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366952894-789698675.jpg)
+![Villa Mia Seminyak](https://images.gobaligo.id/images/2026-03/1774366952894-789698675.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366953187-789718655.jpg)
+![Villa Mia Seminyak](https://images.gobaligo.id/images/2026-03/1774366953187-789718655.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774366953516-791847691.jpg)
+![Villa Mia Seminyak](https://images.gobaligo.id/images/2026-03/1774366953516-791847691.jpg)
 
 Villa Mia Seminyak 係全新打造嘅豪華私人別墅群落，園區入面總共有四間別墅，每間都提供奢華又放縱嘅頂級住宿體驗。我哋最欣賞嘅係，呢啲別墅嘅設計好巧妙，可以畀住客直接行出房門就跳入泳池，真係好難得嘅體驗。
 
@@ -314,35 +314,35 @@ Villa Mia Seminyak 每間別墅有兩間雙人房，可以住四個人。套房�
 
 ## Eden The Residence At The Sea
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367144929-713001826.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367144929-713001826.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367145514-436711424.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367145514-436711424.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367146002-517865839.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367146002-517865839.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367146577-517865841.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367146577-517865841.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367147268-517865853.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367147268-517865853.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367147727-517866355.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367147727-517866355.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367148204-517867828.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367148204-517867828.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367149960-555897632.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367149960-555897632.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367150455-606746944.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367150455-606746944.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367150933-606746946.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367150933-606746946.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367151378-606746948.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367151378-606746948.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367151886-606746964.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367151886-606746964.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367152301-606746981.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367152301-606746981.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367152938-713001398.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367152938-713001398.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367153522-713001793.jpg)
+![Eden The Residence At The Sea](https://images.gobaligo.id/images/2026-03/1774367153522-713001793.jpg)
 
 Eden The Residence At The Sea 係一個集合 12 間五星級別墅嘅豪華群落，無論係旅行團定大型家庭聚會，呢度絕對係最佳選擇。最大嘅五房別墅甚至可以住 10 個人。園區 350 米內就有 3 間餐廳。
 
@@ -358,23 +358,23 @@ Eden The Residence At The Sea 係一個集合 12 間五星級別墅嘅豪華群�
 
 ## Gajah Villas Bali
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367392916-774147_15072718260033123645.jpg)
+![Gajah Villas Bali](https://images.gobaligo.id/images/2026-03/1774367392916-774147_15072718260033123645.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367393261-6fc0069bf052dc14a766a4e348186354.jpeg)
+![Gajah Villas Bali](https://images.gobaligo.id/images/2026-03/1774367393261-6fc0069bf052dc14a766a4e348186354.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367393637-774147_14111817130023434434.jpg)
+![Gajah Villas Bali](https://images.gobaligo.id/images/2026-03/1774367393637-774147_14111817130023434434.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367393997-774147_14111817130023434445.webp)
+![Gajah Villas Bali](https://images.gobaligo.id/images/2026-03/1774367393997-774147_14111817130023434445.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367394386-774147_15072718260033123644.webp)
+![Gajah Villas Bali](https://images.gobaligo.id/images/2026-03/1774367394386-774147_15072718260033123644.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367394722-774147_15072718260033123648.webp)
+![Gajah Villas Bali](https://images.gobaligo.id/images/2026-03/1774367394722-774147_15072718260033123648.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367395161-774147_15072718270033123650.webp)
+![Gajah Villas Bali](https://images.gobaligo.id/images/2026-03/1774367395161-774147_15072718270033123650.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367395506-774147_15072718270033123658.jpg)
+![Gajah Villas Bali](https://images.gobaligo.id/images/2026-03/1774367395506-774147_15072718270033123658.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367395878-cd6f7b34fe9a26da3652351c3290435c.webp)
+![Gajah Villas Bali](https://images.gobaligo.id/images/2026-03/1774367395878-cd6f7b34fe9a26da3652351c3290435c.webp)
 
 Gajah Villas Bali提供寬敞時尚嘅villa住宿選擇，絕對係自助式旅客將旅費慳到最低嘅絕佳去處。
 
@@ -392,17 +392,17 @@ Gajah Villas Bali提供收費機場接送、每日客房服務同戶外燒烤設
 
 ## Villa Chocolat
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367447624-88032094.jpg)
+![Villa Chocolat](https://images.gobaligo.id/images/2026-03/1774367447624-88032094.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367448108-460299253.jpg)
+![Villa Chocolat](https://images.gobaligo.id/images/2026-03/1774367448108-460299253.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367448531-193b371e54e2e470a738453dff37b7e7.jpg)
+![Villa Chocolat](https://images.gobaligo.id/images/2026-03/1774367448531-193b371e54e2e470a738453dff37b7e7.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367448926-3577fd57009baa23c7bb2c991a7bb4ff.jpg)
+![Villa Chocolat](https://images.gobaligo.id/images/2026-03/1774367448926-3577fd57009baa23c7bb2c991a7bb4ff.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367449244-433142_14012314310018134104.jpg)
+![Villa Chocolat](https://images.gobaligo.id/images/2026-03/1774367449244-433142_14012314310018134104.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367449638-75474025.jpg)
+![Villa Chocolat](https://images.gobaligo.id/images/2026-03/1774367449638-75474025.jpg)
 
 如果你喺度搵水明漾Seminyak地區豪華嘅兩臥室（或者更多房間）別墅住宿選擇，推薦Villa Chocolat嘅四星級別墅採用傳統風格設計，我哋好鍾意佢哋嗰啲充滿風情嘅細節，同埋點樣用綠化植栽而唔係混凝土圍牆，為住客帶嚟絕對私密嘅住宿環境。
 
@@ -418,25 +418,25 @@ Villa Chocolat提供24小時前台服務、收費機場接送、區域免費接�
 
 ## Villa Wahah
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367630558-411955454.jpg)
+![Villa Wahah](https://images.gobaligo.id/images/2026-03/1774367630558-411955454.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367630886-175020567.jpg)
+![Villa Wahah](https://images.gobaligo.id/images/2026-03/1774367630886-175020567.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367631208-175020741.jpg)
+![Villa Wahah](https://images.gobaligo.id/images/2026-03/1774367631208-175020741.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367631553-175020897.jpg)
+![Villa Wahah](https://images.gobaligo.id/images/2026-03/1774367631553-175020897.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367631912-411955316.jpg)
+![Villa Wahah](https://images.gobaligo.id/images/2026-03/1774367631912-411955316.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367632222-411955319.jpg)
+![Villa Wahah](https://images.gobaligo.id/images/2026-03/1774367632222-411955319.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367632635-411955341.jpg)
+![Villa Wahah](https://images.gobaligo.id/images/2026-03/1774367632635-411955341.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367633050-411955349.jpg)
+![Villa Wahah](https://images.gobaligo.id/images/2026-03/1774367633050-411955349.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367633454-411955350.jpg)
+![Villa Wahah](https://images.gobaligo.id/images/2026-03/1774367633454-411955350.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367633865-411955361.jpg)
+![Villa Wahah](https://images.gobaligo.id/images/2026-03/1774367633865-411955361.jpg)
 
 Villa Wahah絕對係自助式家庭度假嘅不二之選，呢啲色彩鮮艷嘅別墅氛圍溫馨舒適，仲特別為有細路嘅旅客考慮，裝咗遮光窗簾幫細路瞓覺。
 
@@ -452,23 +452,23 @@ Villa Wahah每間私人泳池別墅有兩間房同兩間浴室。房都係加大
 
 ## Daluman Villas
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367873351-140700279.jpg)
+![Daluman Villas](https://images.gobaligo.id/images/2026-03/1774367873351-140700279.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367873737-12284213.jpg)
+![Daluman Villas](https://images.gobaligo.id/images/2026-03/1774367873737-12284213.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367874035-19325369.jpg)
+![Daluman Villas](https://images.gobaligo.id/images/2026-03/1774367874035-19325369.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367874393-19325414.jpg)
+![Daluman Villas](https://images.gobaligo.id/images/2026-03/1774367874393-19325414.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367874787-19325417.jpg)
+![Daluman Villas](https://images.gobaligo.id/images/2026-03/1774367874787-19325417.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367875071-19325455.jpg)
+![Daluman Villas](https://images.gobaligo.id/images/2026-03/1774367875071-19325455.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367875418-140700127.jpg)
+![Daluman Villas](https://images.gobaligo.id/images/2026-03/1774367875418-140700127.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367875722-140700134.jpg)
+![Daluman Villas](https://images.gobaligo.id/images/2026-03/1774367875722-140700134.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774367876149-140700278.jpg)
+![Daluman Villas](https://images.gobaligo.id/images/2026-03/1774367876149-140700278.jpg)
 
 Daluman Villas絕對係水明漾Seminyak地區好高物超所值嘅四星級私人泳池別墅選擇，特別係如果你同另一對夫婦一齊住兩房兩浴室嘅villa，性價比真係難以置信。成個別墅群落總共有21間別墅。
 
@@ -482,29 +482,29 @@ Daluman Villas絕對係水明漾Seminyak地區好高物超所值嘅四星級私�
 
 ## O Villas Seminyak
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368117068-14777840.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368117068-14777840.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368117440-14773591.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368117440-14773591.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368117809-14777179.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368117809-14777179.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368118136-14779838.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368118136-14779838.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368118631-14827551.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368118631-14827551.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368119036-14827939.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368119036-14827939.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368119451-14827944.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368119451-14827944.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368119868-14827998.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368119868-14827998.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368120206-43070787.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368120206-43070787.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368120569-43070841.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368120569-43070841.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368120985-43070989.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368120985-43070989.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368121386-43070997.jpg)
+![O Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368121386-43070997.jpg)
 
 如果你好想體驗五星級嘅奢華享受，但又唔想俾咁多錢，咁O Villas Seminyak絕對係你物超所值嘅最佳選擇。呢度提供超高性價比嘅頂級私人別墅住宿體驗。
 
@@ -524,19 +524,19 @@ O Villas Seminyak提供免費單程機場接送、免費區域交通接駁、租
 
 ## Inspira Seminyak Villa
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368198470-571043838.jpg)
+![Inspira Seminyak Villa](https://images.gobaligo.id/images/2026-03/1774368198470-571043838.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368198779-434294882.jpg)
+![Inspira Seminyak Villa](https://images.gobaligo.id/images/2026-03/1774368198779-434294882.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368199211-434294930.jpg)
+![Inspira Seminyak Villa](https://images.gobaligo.id/images/2026-03/1774368199211-434294930.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368199623-434298813.jpg)
+![Inspira Seminyak Villa](https://images.gobaligo.id/images/2026-03/1774368199623-434298813.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368199942-434319382.jpg)
+![Inspira Seminyak Villa](https://images.gobaligo.id/images/2026-03/1774368199942-434319382.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368200342-486484622.jpg)
+![Inspira Seminyak Villa](https://images.gobaligo.id/images/2026-03/1774368200342-486484622.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368200753-564464716.jpg)
+![Inspira Seminyak Villa](https://images.gobaligo.id/images/2026-03/1774368200753-564464716.jpg)
 
 Inspira Seminyak係一間新穎又迷人嘅Villa，雖然網上資訊比較少，但係呢度嘅住宿體驗真係令人驚艷。由入住嗰刻開始，每個員工都好親切友善，令人感受到被好好照顧嘅溫暖氛圍。而且早餐好豐富，仲好令人驚喜㗎！
 
@@ -558,21 +558,21 @@ Inspira Seminyak係一間新穎又迷人嘅Villa，雖然網上資訊比較少�
 
 ## Peppers Seminyak - 世界級豪華體驗
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368253813-391080930.jpg)
+![Peppers Seminyak - 世界級豪華體驗](https://images.gobaligo.id/images/2026-03/1774368253813-391080930.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368254557-391061718.jpg)
+![Peppers Seminyak - 世界級豪華體驗](https://images.gobaligo.id/images/2026-03/1774368254557-391061718.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368254871-526016643.jpg)
+![Peppers Seminyak - 世界級豪華體驗](https://images.gobaligo.id/images/2026-03/1774368254871-526016643.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368255338-526016646.jpg)
+![Peppers Seminyak - 世界級豪華體驗](https://images.gobaligo.id/images/2026-03/1774368255338-526016646.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368255994-526016661.jpg)
+![Peppers Seminyak - 世界級豪華體驗](https://images.gobaligo.id/images/2026-03/1774368255994-526016661.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368256439-526016671.jpg)
+![Peppers Seminyak - 世界級豪華體驗](https://images.gobaligo.id/images/2026-03/1774368256439-526016671.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368256909-526016678.jpg)
+![Peppers Seminyak - 世界級豪華體驗](https://images.gobaligo.id/images/2026-03/1774368256909-526016678.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368257400-526016708.jpg)
+![Peppers Seminyak - 世界級豪華體驗](https://images.gobaligo.id/images/2026-03/1774368257400-526016708.jpg)
 
 **位置**｜Peppers Seminyak 位於水明漾市中心，去Petitenget Beach、Batu Belig Beach同水明漾海灘都好方便。
 
@@ -586,25 +586,25 @@ Inspira Seminyak係一間新穎又迷人嘅Villa，雖然網上資訊比較少�
 
 ## **The Dusun Villa**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368326890-29368240.jpg)
+![The Dusun Villa](https://images.gobaligo.id/images/2026-03/1774368326890-29368240.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368327421-64314_14040214060018940407.jpg)
+![The Dusun Villa](https://images.gobaligo.id/images/2026-03/1774368327421-64314_14040214060018940407.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368327821-64314_14040214210018940794_large.jpeg)
+![The Dusun Villa](https://images.gobaligo.id/images/2026-03/1774368327821-64314_14040214210018940794_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368328258-64314_14040214220018940805.jpg)
+![The Dusun Villa](https://images.gobaligo.id/images/2026-03/1774368328258-64314_14040214220018940805.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368328665-64314_14040214220018940829_large.jpeg)
+![The Dusun Villa](https://images.gobaligo.id/images/2026-03/1774368328665-64314_14040214220018940829_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368329030-12164134.jpg)
+![The Dusun Villa](https://images.gobaligo.id/images/2026-03/1774368329030-12164134.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368329474-26524122.jpg)
+![The Dusun Villa](https://images.gobaligo.id/images/2026-03/1774368329474-26524122.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368329887-28387498.jpg)
+![The Dusun Villa](https://images.gobaligo.id/images/2026-03/1774368329887-28387498.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368330292-28387501.jpg)
+![The Dusun Villa](https://images.gobaligo.id/images/2026-03/1774368330292-28387501.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368330698-29368239.jpg)
+![The Dusun Villa](https://images.gobaligo.id/images/2026-03/1774368330698-29368239.jpg)
 
 **位置**｜The Dusun Villa 位於水明漾區，距離Batu Belig Beach得400米，地理位置好優越。呢度近住熱門嘅Petitenget Beach同Seminyak Beach，周圍餐廳林立，行路就去到 [Jalan Kayu Aya 購物街](https://www.youtube.com/shorts/oz_QUWvCK_8)。
 
@@ -628,25 +628,25 @@ The Dusun Villa 提供優雅舒適嘅住宿環境，無論係情侶定係家庭�
 
 ## The Citta Luxury Residence - 水明漾嘅豪華別墅體驗
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368393094-70984715.jpg)
+![The Citta Luxury Residence - 水明漾嘅豪華別墅體驗](https://images.gobaligo.id/images/2026-03/1774368393094-70984715.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368393478-70985037.jpg)
+![The Citta Luxury Residence - 水明漾嘅豪華別墅體驗](https://images.gobaligo.id/images/2026-03/1774368393478-70985037.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368393907-10748056_large.jpeg)
+![The Citta Luxury Residence - 水明漾嘅豪華別墅體驗](https://images.gobaligo.id/images/2026-03/1774368393907-10748056_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368394397-10768421.jpg)
+![The Citta Luxury Residence - 水明漾嘅豪華別墅體驗](https://images.gobaligo.id/images/2026-03/1774368394397-10768421.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368394908-45711893.jpg)
+![The Citta Luxury Residence - 水明漾嘅豪華別墅體驗](https://images.gobaligo.id/images/2026-03/1774368394908-45711893.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368395260-383793472_large.jpeg)
+![The Citta Luxury Residence - 水明漾嘅豪華別墅體驗](https://images.gobaligo.id/images/2026-03/1774368395260-383793472_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368395664-383793474_large.jpeg)
+![The Citta Luxury Residence - 水明漾嘅豪華別墅體驗](https://images.gobaligo.id/images/2026-03/1774368395664-383793474_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368396099-390604801.jpg)
+![The Citta Luxury Residence - 水明漾嘅豪華別墅體驗](https://images.gobaligo.id/images/2026-03/1774368396099-390604801.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368396648-390604808.jpg)
+![The Citta Luxury Residence - 水明漾嘅豪華別墅體驗](https://images.gobaligo.id/images/2026-03/1774368396648-390604808.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368397052-390612087_large.jpeg)
+![The Citta Luxury Residence - 水明漾嘅豪華別墅體驗](https://images.gobaligo.id/images/2026-03/1774368397052-390612087_large.jpeg)
 
 **位置**｜The Citta Luxury Residence位於水明漾日落大道旁邊，距離水明漾廣場（Seminyak Square）得2公里，方便旅客輕鬆去當地主要景點。別墅仲有免費穿梭巴士去水明漾地區，而且距離水明漾海灘約2公里，令你可以隨時享受沙灘同海洋嘅魅力。
 
@@ -660,25 +660,25 @@ The Dusun Villa 提供優雅舒適嘅住宿環境，無論係情侶定係家庭�
 
 ## **The Tukad Villa - 水明漾嘅隱密奢華別墅體驗**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368454210-216640576.jpg)
+![The Tukad Villa - 水明漾嘅隱密奢華別墅體驗](https://images.gobaligo.id/images/2026-03/1774368454210-216640576.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368454617-62282961.jpg)
+![The Tukad Villa - 水明漾嘅隱密奢華別墅體驗](https://images.gobaligo.id/images/2026-03/1774368454617-62282961.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368455029-62282968.jpg)
+![The Tukad Villa - 水明漾嘅隱密奢華別墅體驗](https://images.gobaligo.id/images/2026-03/1774368455029-62282968.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368455423-62283119.jpg)
+![The Tukad Villa - 水明漾嘅隱密奢華別墅體驗](https://images.gobaligo.id/images/2026-03/1774368455423-62283119.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368455760-62283125.jpg)
+![The Tukad Villa - 水明漾嘅隱密奢華別墅體驗](https://images.gobaligo.id/images/2026-03/1774368455760-62283125.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368456156-62283134_large.jpeg)
+![The Tukad Villa - 水明漾嘅隱密奢華別墅體驗](https://images.gobaligo.id/images/2026-03/1774368456156-62283134_large.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368456483-62283136.jpg)
+![The Tukad Villa - 水明漾嘅隱密奢華別墅體驗](https://images.gobaligo.id/images/2026-03/1774368456483-62283136.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368456969-62283310.jpg)
+![The Tukad Villa - 水明漾嘅隱密奢華別墅體驗](https://images.gobaligo.id/images/2026-03/1774368456969-62283310.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368457593-62283316.jpg)
+![The Tukad Villa - 水明漾嘅隱密奢華別墅體驗](https://images.gobaligo.id/images/2026-03/1774368457593-62283316.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368457987-216641529.jpg)
+![The Tukad Villa - 水明漾嘅隱密奢華別墅體驗](https://images.gobaligo.id/images/2026-03/1774368457987-216641529.jpg)
 
 **位置**｜The Tukad Villa距離伍拉·賴國際機場（Ngurah Rai International Airport）只需15分鐘車程，地理位置好方便，啱晒旅客輕鬆到達。由別墅出發，揸車大概15分鐘就去到Sling Shot同Waterbom Park呢啲熱門景點，令你放鬆身心嘅同時，仲可以輕鬆享受峇里島嘅娛樂設施。
 
@@ -692,25 +692,25 @@ The Dusun Villa 提供優雅舒適嘅住宿環境，無論係情侶定係家庭�
 
 ## **Ziva a Boutique Villa - 水明漾市中心嘅私人奢華**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368526290-493177970.jpg)
+![Ziva a Boutique Villa - 水明漾市中心嘅私人奢華](https://images.gobaligo.id/images/2026-03/1774368526290-493177970.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368526716-53657960.jpg)
+![Ziva a Boutique Villa - 水明漾市中心嘅私人奢華](https://images.gobaligo.id/images/2026-03/1774368526716-53657960.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368527112-53658907.jpg)
+![Ziva a Boutique Villa - 水明漾市中心嘅私人奢華](https://images.gobaligo.id/images/2026-03/1774368527112-53658907.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368527420-493177975.jpg)
+![Ziva a Boutique Villa - 水明漾市中心嘅私人奢華](https://images.gobaligo.id/images/2026-03/1774368527420-493177975.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368527742-493177983.jpg)
+![Ziva a Boutique Villa - 水明漾市中心嘅私人奢華](https://images.gobaligo.id/images/2026-03/1774368527742-493177983.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368528186-493177990.jpg)
+![Ziva a Boutique Villa - 水明漾市中心嘅私人奢華](https://images.gobaligo.id/images/2026-03/1774368528186-493177990.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368528493-493177992.jpg)
+![Ziva a Boutique Villa - 水明漾市中心嘅私人奢華](https://images.gobaligo.id/images/2026-03/1774368528493-493177992.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368528943-493177997.jpg)
+![Ziva a Boutique Villa - 水明漾市中心嘅私人奢華](https://images.gobaligo.id/images/2026-03/1774368528943-493177997.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368529296-493177998.jpg)
+![Ziva a Boutique Villa - 水明漾市中心嘅私人奢華](https://images.gobaligo.id/images/2026-03/1774368529296-493177998.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368529675-493178012.jpg)
+![Ziva a Boutique Villa - 水明漾市中心嘅私人奢華](https://images.gobaligo.id/images/2026-03/1774368529675-493178012.jpg)
 
 **位置**｜Ziva a Boutique Villa 位於水明漾嘅中心地帶，地理位置好方便，行去水明漾廣場只需10分鐘。去出名嘅Ku De Ta同Potato Head Beach Club都係5分鐘車程。
 
@@ -724,25 +724,25 @@ The Dusun Villa 提供優雅舒適嘅住宿環境，無論係情侶定係家庭�
 
 ## Pradha Villas Seminyak
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368651992-237697_14071811400020335949.jpeg)
+![Pradha Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368651992-237697_14071811400020335949.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368652541-2b3e33c004e1b29e2c91096cac121ce0.jpeg)
+![Pradha Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368652541-2b3e33c004e1b29e2c91096cac121ce0.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368652982-237697_17061214180053606619.jpeg)
+![Pradha Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368652982-237697_17061214180053606619.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368653341-143287158.jpg)
+![Pradha Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368653341-143287158.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368653684-143287770.jpg)
+![Pradha Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368653684-143287770.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368654064-143288828.jpg)
+![Pradha Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368654064-143288828.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368654498-161941174.jpg)
+![Pradha Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368654498-161941174.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368654945-170693662.jpg)
+![Pradha Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368654945-170693662.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368655438-514316657.jpg)
+![Pradha Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368655438-514316657.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774368655813-e5df7108195f1f11bf0cdfa85cd75bd0.jpeg)
+![Pradha Villas Seminyak](https://images.gobaligo.id/images/2026-03/1774368655813-e5df7108195f1f11bf0cdfa85cd75bd0.jpeg)
 
 **位置**｜位於水明漾（Seminyak）中心，兼顧便利同寧靜，行路就到海灘、餐廳同購物區。周邊景點好似Seminyak Beach、Double Six Beach等都好近。周邊餐廳有 Naughty Nuri's Warung（豬肋排）、KU DE TA（海灘俱樂部）、Wahaha Pork Ribs。
 
@@ -758,25 +758,25 @@ The Dusun Villa 提供優雅舒適嘅住宿環境，無論係情侶定係家庭�
 
 ## Astera Villa Seminyak
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780668650220-832499511.jpg)
+![Astera Villa Seminyak](https://images.gobaligo.id/images/2026-06/1780668650220-832499511.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780668650889-832499512.jpg)
+![Astera Villa Seminyak](https://images.gobaligo.id/images/2026-06/1780668650889-832499512.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780668651402-832499516.jpg)
+![Astera Villa Seminyak](https://images.gobaligo.id/images/2026-06/1780668651402-832499516.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780668652007-832500362.jpg)
+![Astera Villa Seminyak](https://images.gobaligo.id/images/2026-06/1780668652007-832500362.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780668652449-832500363.jpg)
+![Astera Villa Seminyak](https://images.gobaligo.id/images/2026-06/1780668652449-832500363.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780668652866-832500365.jpg)
+![Astera Villa Seminyak](https://images.gobaligo.id/images/2026-06/1780668652866-832500365.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780668653244-832500366.jpg)
+![Astera Villa Seminyak](https://images.gobaligo.id/images/2026-06/1780668653244-832500366.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780668653640-832502178.jpg)
+![Astera Villa Seminyak](https://images.gobaligo.id/images/2026-06/1780668653640-832502178.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780668654040-862159512.jpg)
+![Astera Villa Seminyak](https://images.gobaligo.id/images/2026-06/1780668654040-862159512.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780668654472-376016602.jpg)
+![Astera Villa Seminyak](https://images.gobaligo.id/images/2026-06/1780668654472-376016602.jpg)
 
 Astera Villa Seminyak 由 Ini Vie Hospitality 經營，位於 Seminyak 同 Legian 嘅交界，係一間以蜜月浪漫出名嘅 1 房豪華別墅。距離機場只係 30 分鐘車程，地理位置好好。
 

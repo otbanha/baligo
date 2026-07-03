@@ -65,7 +65,7 @@ https://youtu.be/zePMt3KSwTo
 
 From the breathtaking views of Mount Agung at the Gates of Heaven to the fairy-tale-like water palaces of Tirta Gangga and Ujung Water Palace, each location holds its own unique charm and photographic value. Whether you're here for a leisurely stroll or to capture stunning images, these three sites will fulfill your travel desires. Don't forget to bring your camera to preserve these beautiful memories.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1b788d4b2052c6e67e9c475e88df1921.jpg)
+![Ujung Water Palace](https://images.gobaligo.id/vocus/vocus_1b788d4b2052c6e67e9c475e88df1921.jpg)
 
 Make sure to also visit Amed and Tulamben in the east! Find the guide [here](/blog/amed-tulamben-diving-guide/).
 

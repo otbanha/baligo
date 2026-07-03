@@ -22,7 +22,7 @@ _srcHash: 97083fce0d5810fae52a804187d6d01c
 
 从2024年开始，先办好电子落地签 (eVoA)不只不用排队办理VoA（落地签），连移民局排队等盖章都不用了！节省下来的时间让你多多感受巴厘岛喔！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_afba78c72d520b7b245a856eed8aeefb.png)
+![什么是自动通关?](https://images.gobaligo.id/vocus/vocus_afba78c72d520b7b245a856eed8aeefb.png)
 
 2024的一月开始，巴厘岛开始启用这个自动通关系统。预计在几个月内再增加50个自动闸门单元，巴厘岛国际航站楼共将安装80个单元以供游客快速通关（抵达/入境将有60个自动通关闸门；离开/出境20个）。
 
@@ -42,11 +42,11 @@ _srcHash: 97083fce0d5810fae52a804187d6d01c
 
 （团友 Ellen Yang 提供）：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9285cfcabb6afba44d51d4b48b661019.png)
+![团友实际通关经验分享](https://images.gobaligo.id/vocus/vocus_9285cfcabb6afba44d51d4b48b661019.png)
 
 （团友 Sam & Sandra 提供）：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e6c6791c8a5a8d37e4d681d0181cb60a.png)
+![团友实际通关经验分享](https://images.gobaligo.id/vocus/vocus_e6c6791c8a5a8d37e4d681d0181cb60a.png)
 
 我们在2024年2月6日抵达巴厘岛机场后，利用网络提前申请了电子签证，并且体验了全新的自动通关系统。整个过程迅速又顺利，不到三分钟就完成了通关手续，实在是相当便捷！我极力建议大家提前在线上办理签证，能够省下不少时间和麻烦。
 
@@ -54,7 +54,7 @@ _srcHash: 97083fce0d5810fae52a804187d6d01c
 
 编者按：目前**年满6岁的儿童也可以使用机场的自动通关门**。此前，该通道仅限14岁以上人士使用。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a832b6cb5d76f4ac85c91c899e756129.jpg)
+![团友实际通关经验分享](https://images.gobaligo.id/vocus/vocus_a832b6cb5d76f4ac85c91c899e756129.jpg)
 
 另外 Ellen 也提醒旅行者，手写的海关申报单已经取消一段时间了，还是有很多人到了最后一关领了行李要过海关的时候，才知道要在网络上填写电子报关单，被耽搁在最后一关花了不少时间填写电子报关单。【[入境印尼必填电子报关单e-CD说明](/blog/indonesia-e-cd-guide/)】这个步骤千万不要漏掉了哦！
 

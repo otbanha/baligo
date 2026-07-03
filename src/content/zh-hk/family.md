@@ -21,7 +21,7 @@ lang: zh-hk
 _srcHash: 3007240e5e966ffdc403079d1a5664db
 ---
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774870755237-e6b7f45d429dc39d54ecae13ff2c6401.jpg)
+![【2026 寒暑假峇里島】帶小朋友同長輩攻略：四大區域推薦、乾季天氣同住宿推薦](https://images.gobaligo.id/images/2026-03/1774870755237-e6b7f45d429dc39d54ecae13ff2c6401.jpg)
 
 每年暑假一到，最常被問嘅就係：**「七月、八月去峇里島，天氣到底好唔好？」**
 
@@ -49,7 +49,7 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 
 ### 📍 沙努爾（Sanur）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774867127299-_.jpeg)
+![沙努爾（Sanur）](https://images.gobaligo.id/images/2026-03/1774867127299-_.jpeg)
 
 沙努爾係一個經常被忽略、但其實非常適合親子旅遊嘅區域。海浪平穩、海灘乾淨，冇水明漾咁多派對人潮，行路就可以到海邊，夜晚亦都好安靜。如果屋企有年幼嘅小朋友或者同行有長輩，沙努爾係一個令人好放心嘅選擇。
 
@@ -57,7 +57,7 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 
 ### 📍 水明漾（Seminyak）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774867278224-cassie-gallegos-6wcwcpwmrjy.jpeg)
+![水明漾（Seminyak）](https://images.gobaligo.id/images/2026-03/1774867278224-cassie-gallegos-6wcwcpwmrjy.jpeg)
 
 水明漾嘅優勢在於「乜都有」——購物、餐廳、海灘俱樂部、高質素度假村一應俱全。如果家長都想享有自己嘅度假時光，唔想行程完全圍繞住小朋友轉，水明漾可以兼顧大人同小朋友嘅需求。
 
@@ -65,7 +65,7 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 
 ### 📍 烏布（Ubud）
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774867612552-tegerarang.jpeg)
+![烏布（Ubud）](https://images.gobaligo.id/images/2026-03/1774867612552-tegerarang.jpeg)
 
 烏布帶嚟嘅係完全唔同嘅體驗。呢度冇海灘，取而代之嘅係梯田、文化、森林同大量親子活動——而且好多小朋友去到烏布，反而比去海邊玩得更開心，因為可以參與嘅體驗實在太多。
 
@@ -81,7 +81,7 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 
 ### 📍努沙杜瓦（Nusa Dua）
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775130814476-2893e5d6-29ad-4199-8041-45c2ab39bf47.jpg)
+![努沙杜瓦（Nusa Dua）](https://images.gobaligo.id/images/2026-04/1775130814476-2893e5d6-29ad-4199-8041-45c2ab39bf47.jpg)
 
 努沙杜瓦係峇里島最省心嘅親子度假首選。呢度屬於封閉式嘅度假區，道路平整寬敞、環境極度安全且安靜，非常適合推住嬰兒車散步。呢度嘅沙灘浪潮平緩，小朋友可以安全咁喺海邊玩沙踏浪，而區內密集嘅五星級酒店大多設有完善嘅兒童俱樂部同戲水設施，讓全家人入咗酒店就可以展開「定點度假」模式。
 
@@ -93,7 +93,7 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 
 暑假出遊，有時係三代同堂一齊出發——阿公阿嬤都跟埋，行程規劃嘅難度就會高咗唔少。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774867740868-a8b2ff7d-d160-4baf-ac89-271e79e94a80.png)
+![有老人家同行？先睇呢兩篇](https://images.gobaligo.id/images/2026-03/1774867740868-a8b2ff7d-d160-4baf-ac89-271e79e94a80.png)
 
 老人家最在意嘅通常係：路好唔好行、會唔會太熱、使唔使行好多樓梯、身體唔舒服時點算。
 我哋針對呢啲需求整理咗兩篇文章：
@@ -110,7 +110,7 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 
 如果今次暑假係三代同堂、多組家庭一齊出發，比起訂兩三間酒店房，**包棟Villa**其實係更聰明、亦更貼心嘅選擇。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774868006588-e1895231-3a0b-477a-a1ae-cb01fbf71399.png)
+![家族出遊首推包棟Villa](https://images.gobaligo.id/images/2026-03/1774868006588-e1895231-3a0b-477a-a1ae-cb01fbf71399.png)
 
 點解咁講？因為包棟Villa嘅好處遠比想像中多：
 
@@ -132,7 +132,7 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 
 最後分享一個限時優惠，考慮緊頂級酒店/渡假村嘅朋友可以留意。
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774868228560-543684090.jpg)
+![五星渡假村](https://images.gobaligo.id/images/2026-03/1774868228560-543684090.jpg)
 
 位於努沙杜瓦（Nusa Dua）嘅 The Apurva Kempinski Bali（峇里島凱賓斯基）而家推出限時促銷，**Grand Deluxe 豪華房每晚只要 USD$317 起**，包稅、包雙人早餐，再加送兩人一次下午茶。透過我哋客服預訂，仲會額外送峇里島旅遊稅。
 

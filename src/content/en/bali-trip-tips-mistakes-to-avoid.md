@@ -30,7 +30,7 @@ This time, I want to share my travel experience in Bali with everyone. Bali, kno
 
 Seeing many problems encountered by others when applying for the electronic visa (eVOA) in the group, we decided to opt for the visa on arrival. Upon arrival at the airport, we waited in line for about 15-20 minutes before it was our turn, which was acceptable. However, even though the visa processing was relatively quick, baggage claim still took some time, so we felt a bit helpless while waiting for our luggage😅. Therefore, if you choose to apply for a visa on arrival, please allow sufficient time to cope with possible delays.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a26a7527e1e934bfe40d5158bf8470d7.png)
+![Visa:](https://images.gobaligo.id/vocus/vocus_a26a7527e1e934bfe40d5158bf8470d7.png)
 
 > Extended reading: [2025/08 Bali, Indonesia Entry Using 'All Indonesia' Declaration System｜1 Minute to Understand the Latest Process: From Landing → Customs → Baggage Claim Full Guide](/blog/bali-all-indonesia-arrival-guide/)
 

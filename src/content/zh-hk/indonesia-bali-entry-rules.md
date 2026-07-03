@@ -21,7 +21,7 @@ _srcHash: 8ab6992376c46c058a03452ff1542d60
 根據最新航空法規：
 由2023年6月9日起，根據SE工作組COVID-19 2023年第1號：**入境印尼或峇里島時唔再需要提供COVID-19疫苗接種證明或任何COVID-19檢測結果**。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1be8b2445ff165a0588e10ac1ae9ad1e.jpg)
+![搭飛機入境印尼/峇里島最新疫苗規定/入境規定 （六月九日更新）](https://images.gobaligo.id/vocus/vocus_1be8b2445ff165a0588e10ac1ae9ad1e.jpg)
 
 # 國際旅客允許入境印尼嘅類別
 

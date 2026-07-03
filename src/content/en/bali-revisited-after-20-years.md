@@ -94,7 +94,7 @@ Although the zoo entrance fee was a bit steep—over NT$1,000 (about USD$32) per
 
 ## Jimbaran Beach Restaurants
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_44cc47df3248d9b0ec1e2f48f78c0678.png)
+![Jimbaran Beach Restaurants](https://images.gobaligo.id/vocus/vocus_44cc47df3248d9b0ec1e2f48f78c0678.png)
 
 Beachfront dining in Jimbaran is generally pricey, but our guide recommended Menega Cafe, which offered more reasonable prices. Although the sky was cloudy that day and we missed the sunset, sharing a meal abroad with three generations of our family made it a precious moment we truly treasured.
 
@@ -128,7 +128,7 @@ To see manta rays at Nusa Penida, it's best to stay overnight on the island the 
 
 ## Bali's Culture
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d2bcc00956186161b74a5936edb7dc14.png)
+![Bali's Culture](https://images.gobaligo.id/vocus/vocus_d2bcc00956186161b74a5936edb7dc14.png)
 
 In Bali, every household has its own temple, and the walls are adorned with many beautiful stone carvings. Our guide, Mr. Fovix, explained that locals pray twice a day, and no building in a home can be taller than the temple, as a sign of respect to the gods. This is also why most parts of Bali have no high-rise buildings.
 
@@ -142,7 +142,7 @@ For those who love ocean views, beaches, and rice terrace scenery, Bali is a pla
 
 #### **Mr. Liega**
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781187526230-_2026-06-11_20.39.43.png)
+![Mr. Liega](https://images.gobaligo.id/images/2026-06/1781187526230-_2026-06-11_20.39.43.png)
 
 - Whatsapp: +62 81338563884
 - Line ID: ligabali
@@ -150,7 +150,7 @@ For those who love ocean views, beaches, and rice terrace scenery, Bali is a pla
 
 #### **Mr. Fovix**
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781177513360-_2026-06-11_18.29.16.png)
+![Mr. Fovix](https://images.gobaligo.id/images/2026-06/1781177513360-_2026-06-11_18.29.16.png)
 
 - Facebook: Fovix Ketut
 - Instagram: ketutfovik

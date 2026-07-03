@@ -29,7 +29,7 @@ Bali, yang dijuluki 'Pulau Dewata', terkenal banget sebagai destinasi tropis den
 
 ## **1. Akomodasi Mewah: Menginap di Resort & Vila Pribadi**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_21f3270f5edab3a81cd63906207800ba.jpg)
+![1. Akomodasi Mewah: Menginap di Resort & Vila Pribadi](https://images.gobaligo.id/vocus/vocus_21f3270f5edab3a81cd63906207800ba.jpg)
 
 Bali punya banyak resort kelas dunia dan vila pribadi yang kasih pengalaman menginap gak ada duanya. Mau yang view laut di Seminyak, atau vila pribadi tersembunyi di tengah hutan Ubud — semua ada. Kamu bisa pilih rekomendasi resort top kami yang dilengkapi kolam renang pribadi, butler eksklusif, dan layanan koki pribadi. Dijamin, setiap momen terasa mewah dan super santai.
 
@@ -37,7 +37,7 @@ Bali punya banyak resort kelas dunia dan vila pribadi yang kasih pengalaman meng
 
 ## **2. Transportasi Eksklusif: Mobil Mewah & Sopir Pribadi**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d1129a44cfaab55741ffa79adc1d3a00.jpg)
+![2. Transportasi Eksklusif: Mobil Mewah & Sopir Pribadi](https://images.gobaligo.id/vocus/vocus_d1129a44cfaab55741ffa79adc1d3a00.jpg)
 
 Di Bali, urusan transportasi juga bisa jadi pengalaman seru. Kami siapkan mobil mewah **Toyota Alphard** plus sopir berpengalaman, biar setiap perjalanan kamu nyaman dan praktis. Mau jemput bandara, keliling pulau, atau acara malam — sopir pribadi kamu siap sedia 24 jam. Gak perlu pusing mikirin detail, tinggal fokus nikmatin liburan.
 
@@ -45,7 +45,7 @@ Di Bali, urusan transportasi juga bisa jadi pengalaman seru. Kami siapkan mobil 
 
 ## **3. Pengalaman Unik: Eksplorasi Budaya & Alam Bali yang Mendalam**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d93fd8d9cc495e7efa8f0a9e541ca932.png)
+![3. Pengalaman Unik: Eksplorasi Budaya & Alam Bali yang Menda](https://images.gobaligo.id/vocus/vocus_d93fd8d9cc495e7efa8f0a9e541ca932.png)
 
 Pesona Bali nggak cuma soal pemandangan alamnya yang indah, tapi juga budayanya yang kaya banget. Kami siapkan private guide yang fasih bahasa Mandarin buat nemenin kamu menjelajah desa lokal, ngunjungin pura kuno, dan ikut serta dalam upacara adat. Selain itu, kamu juga bisa nikmatin private beach dinner — makan malam romantis di pinggir pantai sambil nyicipin hidangan lezat, atau booking treatment SPA premium buat relaksasi total. Kalau kamu suka seni, kami juga bisa atur pertunjukan tari pribadi atau workshop seni biar kamu makin ngerasain esensi budaya Bali.
 
@@ -53,7 +53,7 @@ Pesona Bali nggak cuma soal pemandangan alamnya yang indah, tapi juga budayanya 
 
 ## **4. Petualangan Kuliner: Cita Rasa Bali di Lidah**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5125801e71f81fd2f4051b69bf458473.jpg)
+![4. Petualangan Kuliner: Cita Rasa Bali di Lidah](https://images.gobaligo.id/vocus/vocus_5125801e71f81fd2f4051b69bf458473.jpg)
 
 Budaya kuliner Bali itu super beragam, dari masakan khas lokal sampai hidangan internasional kelas atas, semuanya ada. Kami siapkan tur kuliner eksklusif buat kamu — cobain rasa Bali yang paling otentik, lalu mampir ke restoran mewah buat pengalaman fine dining yang juara.
 
@@ -61,7 +61,7 @@ Budaya kuliner Bali itu super beragam, dari masakan khas lokal sampai hidangan i
 
 ## **5. Layanan Personal: Perjalanan yang Disesuaikan Buat Kamu**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00d1ccc0371b6eba96f9bd5f2b1b6104.jpg)
+![5. Layanan Personal: Perjalanan yang Disesuaikan Buat Kamu](https://images.gobaligo.id/vocus/vocus_00d1ccc0371b6eba96f9bd5f2b1b6104.jpg)
 
 Setiap orang punya kebutuhan traveling yang beda, makanya kami kasih layanan yang fully personalized — bikin itinerary sesuai selera dan kebutuhanmu. Mau bulan madu romantis, liburan keluarga yang hangat, atau pernikahan di pulau impian, semua bisa kami wujudkan. Plus, customer service online kami siap bantu kapan aja biar perjalananmu mulus tanpa cela.
 

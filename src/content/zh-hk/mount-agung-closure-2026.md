@@ -28,7 +28,7 @@ _srcHash: 0a67766e4ce6b56987c15a857af9d90b
 ---
 如果你呢段時間有計劃去峇里島爬阿貢火山（Mount Agung），行程要暫停一下。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775359906886-agung.jpeg)
+![4月想爬阿貢火山？睇咗呢篇先再plan行程](https://images.gobaligo.id/images/2026-04/1775359906886-agung.jpeg)
 
 ## 3月底到4月底，阿貢火山全面封山
 

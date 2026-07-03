@@ -24,7 +24,7 @@ _srcHash: db1dde478f0454c3c4caee51548e8a62
 
 Di episode ini, kami akan ajak kamu ngintip camilan oleh-oleh wajib beli di Bali — total enam rekomendasi, semuanya makanan enak yang susah ditemukan di Taiwan!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c8fe13b748804b43b366d08d4fab4f51.png)
+![Rekomendasi Oleh-Oleh Makanan Khas Bali! Enam Camilan Lokal ](https://images.gobaligo.id/vocus/vocus_c8fe13b748804b43b366d08d4fab4f51.png)
 
 Pertama, kami sengaja ngecek situs resmi pariwisata Indonesia di Bali, biar rekomendasi yang kami kasih ke penonton benar-benar makanan khas lokal. Setelah riset mendalam, kami dateng ke toko oleh-oleh yang disebut 'ahli' sama warga lokal. Produk-produk di toko ini laris banget di pasaran, bahkan beberapa itemnya jadi best seller di situs lelang — dijamin pilihan yang worth it!
 
@@ -32,5 +32,5 @@ Makanan-makanan ini bukan cuma nikmat buat memanjakan lidah dengan cita rasa eks
 
 Cek langsung perkenalan dari Xiao Jie dan Ayah Xiao Jie (kalau videonya nggak muncul, [klik di sini](https://youtu.be/4EzO1rpSMic?si=jRNSvt4ar5KU_U60)):
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7b88e2ef3c0369dbdd5c48cbdd9067d3.png)
+![Rekomendasi Oleh-Oleh Makanan Khas Bali! Enam Camilan Lokal ](https://images.gobaligo.id/vocus/vocus_7b88e2ef3c0369dbdd5c48cbdd9067d3.png)
 

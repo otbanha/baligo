@@ -20,7 +20,7 @@ Yuk, simak enam vihara/klenteng di Bali yang wajib kamu kunjungi 👇
 
 ### 🏮 **1. Vihara Dharmayana ｜ Kuta**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c97c1a79a14cdb7a094a888ce573dae2.jpg)
+![1. Vihara Dharmayana ｜ Kuta](https://images.gobaligo.id/vocus/vocus_c97c1a79a14cdb7a094a888ce573dae2.jpg)
 
 Tersembunyi di gang-gang ramai pusat Kota Kuta, **Vihara Dharmayana** adalah salah satu vihara Buddha tertua di Bali, didirikan tahun 1876 dan udah berusia lebih dari 200 tahun. Di sekeliling vihara ada kolam kecil berisi kura-kura, sementara bangunan utamanya dihiasi pilar merah menyala, patung naga besar, dan lampion merah yang bikin suasana Tionghoa-nya terasa banget. Suasana di sini tenang dan damai, kontras banget sama hiruk-pikuk pantai di luar — tempat yang pas buat cari ketenangan di tengah keramaian Kuta.
 
@@ -28,7 +28,7 @@ Tersembunyi di gang-gang ramai pusat Kota Kuta, **Vihara Dharmayana** adalah sal
 
 ### 🌿 **2. Vihara Dharma Giri Temple ｜ Tabanan, Bali Barat**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e2b5cbc2609a02a0e190331f413afd26.jpg)
+![2. Vihara Dharma Giri Temple ｜ Tabanan, Bali Barat](https://images.gobaligo.id/vocus/vocus_e2b5cbc2609a02a0e190331f413afd26.jpg)
 
 Terletak di daerah perbukitan Tabanan, Bali Barat, **Vihara Dharma Giri Temple** punya daya tarik utama berupa **patung Buddha tidur raksasa**. Vihara ini terdiri dari tiga lantai dengan desain dan fungsi berbeda, plus taman yang asri dan area pemandangan. Udaranya sejuk, pemandangannya cakep, dan kamu bisa jalan-jalan santai sambil merasakan aura damai ala Buddha. Banyak orang sengaja mampir ke sini pas lagi jalan-jalan ke Bali Barat.
 
@@ -36,7 +36,7 @@ Terletak di daerah perbukitan Tabanan, Bali Barat, **Vihara Dharma Giri Temple**
 
 ### 🕊 **3. Brahma Vihara Arama Buddhist Monastery ｜ Banjar, Bali Utara**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c227915a15c932da1e5530467e36dfcc.jpg)
+![3. Brahma Vihara Arama Buddhist Monastery ｜ Banjar, Bali Uta](https://images.gobaligo.id/vocus/vocus_c227915a15c932da1e5530467e36dfcc.jpg)
 
 Berada di daerah Banjar, Bali Utara, **Brahma Vihara Arama Buddhist Monastery** dibangun tahun 1960-an dan termasuk **vihara besar di Bali**. Tempat ini juga masih berfungsi sebagai biara, tempat para biksu berdoa dan bermeditasi setiap hari. Arsitekturnya perpaduan gaya tradisional Bali dan Buddha, dan dari sini kamu bisa lihat pemandangan garis pantai Lovina. Nggak cuma jadi tempat ziarah umat Buddha, tapi juga spot ideal buat kamu yang pengen meditasi dan kabur dari hiruk-pikuk.
 
@@ -44,7 +44,7 @@ Berada di daerah Banjar, Bali Utara, **Brahma Vihara Arama Buddhist Monastery** 
 
 ### 🕍 **4. Vihara Buddha Dharma｜Seminyak**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_202f5bcbe1e52ec63840a101dcb7620e.jpg)
+![4. Vihara Buddha Dharma｜Seminyak](https://images.gobaligo.id/vocus/vocus_202f5bcbe1e52ec63840a101dcb7620e.jpg)
 
 Terletak di Seminyak, **Vihara Buddha Dharma** diresmikan pada tahun 2007 dan merupakan **kuil Buddha yang modern dan kekinian**. Meski usianya belum lama, tempat ini sudah jadi pusat ibadah penting bagi umat Buddha lokal dan internasional. Suasananya bersih, terang, dan selalu ramai dengan dupa. Buat kamu yang lagi di Seminyak dan pengen nyari ketenangan batin, tempat ini aksesnya gampang, adem, dan nyaman banget.
 
@@ -52,7 +52,7 @@ Terletak di Seminyak, **Vihara Buddha Dharma** diresmikan pada tahun 2007 dan me
 
 ### 🏯 **5. Vihara Buddha Guna｜Nusa Dua**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c74636fc69cbff76a2df2c287979e8ac.gif)
+![5. Vihara Buddha Guna｜Nusa Dua](https://images.gobaligo.id/vocus/vocus_c74636fc69cbff76a2df2c287979e8ac.gif)
 
 Vihara ini ada di Nusa Dua, tepatnya di dalam **kawasan multi-agama Puja Mandala** yang terkenal. Kawasan ini jadi simbol toleransi beragama di Indonesia, karena di sini ada lima tempat ibadah: pura Hindu, gereja Katolik, gereja Kristen, masjid, dan vihara Buddha. **Vihara Buddha Guna** punya arsitektur yang elegan, wangi dupa semerbak, dan suasananya khidmat serta damai—benar-benar mencerminkan semangat 'hidup berdampingan dalam perbedaan' ala Bali.
 
@@ -60,7 +60,7 @@ Vihara ini ada di Nusa Dua, tepatnya di dalam **kawasan multi-agama Puja Mandala
 
 ### 🏮 **6. Vihara Satya Dharma Temple｜Kawasan Pelabuhan Benoa, Bali**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e2f1db13b9d1b0b61ad8eeede51d4507.jpg)
+![6. Vihara Satya Dharma Temple｜Kawasan Pelabuhan Benoa, Bali](https://images.gobaligo.id/vocus/vocus_e2f1db13b9d1b0b61ad8eeede51d4507.jpg)
 
 Terletak di samping **Pelabuhan Benoa**, Vihara Satya Dharma adalah **salah satu kuil Buddha bergaya Tionghoa paling megah di Bali**. Arsitekturnya benar-benar wah—atap melengkung khas, pilar merah menyala, dan patung emas yang bikin mata takjub. Begitu masuk, kamu langsung merasakan atmosfer budaya Tionghoa yang kental.
 

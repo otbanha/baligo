@@ -21,13 +21,13 @@ _srcHash: 5e2af44f54b0478c9b50e86368dadea2
 
 ## 🌟 **Are you ready to welcome 2025 in Bali?** 🌟
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_455df24745833ffc85f293afad9815dc.png)
+![Are you ready to welcome 2025 in Bali?](https://images.gobaligo.id/vocus/vocus_455df24745833ffc85f293afad9815dc.png)
 
 This article will provide you with a simple guide to dive into this vibrant celebration! As one of Indonesia's most charming tourist destinations, Bali has become the top choice for New Year's Eve celebrations in Southeast Asia, thanks to its unparalleled natural beauty and the warm hospitality of the locals. If you're planning to spend New Year's Eve 2025 in Bali, the beach parties and fireworks displays here are sure to leave a lasting impression.
 
 ## 🎉 Bali New Year's Eve Celebrations 🎉
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f9175389ceba0a39f7a52a4dd6e98c71.png)
+![Bali New Year's Eve Celebrations](https://images.gobaligo.id/vocus/vocus_f9175389ceba0a39f7a52a4dd6e98c71.png)
 
 During New Year's Eve, Bali attracts visitors and locals from around the globe, especially at the annual carnival held at Kuta Beach, where you can join the lively celebrations during the day. As night falls, many visitors flock to the island's beaches, bars, and restaurants, dancing around bonfires to welcome 2025. Fireworks light up the sky at midnight, marking the beginning of the new year.
 
@@ -41,7 +41,7 @@ Whether you prefer energetic parties or a laid-back evening, Bali's New Year's E
 
 ## 🎆 Bali New Year's Eve Fireworks: Lighting Up the Night Sky 🎆
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c36d85803771613e03024fe8d2bc03d.png)
+![Bali New Year's Eve Fireworks: Lighting Up the Night Sky](https://images.gobaligo.id/vocus/vocus_1c36d85803771613e03024fe8d2bc03d.png)
 
 Every New Year, Bali's skies are illuminated with dazzling fireworks. The best viewing spots include:
 
@@ -54,7 +54,7 @@ The annual New Year's Eve carnival at Puputan Badung Square is equally popular, 
 
 ## 🏨 Bali New Year's Eve Hotel Deals for 2025 🏨
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f364f7a761a9b1b9e6d31f92a2f3fe44.png)
+![Bali New Year's Eve Hotel Deals for 2025](https://images.gobaligo.id/vocus/vocus_f364f7a761a9b1b9e6d31f92a2f3fe44.png)
 
 Bali's New Year celebrations aren't limited to outdoor parties; local hotels also offer rich New Year's Eve packages and events. Here are some popular hotels where early bookings can secure discounted rates:
 
@@ -74,7 +74,7 @@ Each hotel offers unique New Year's Eve events and deals, ranging from luxurious
 
 ## 🎉 Party Time 🎉
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_700d8e5ab02bc66cfc6e9213e960bc2d.png)
+![Party Time](https://images.gobaligo.id/vocus/vocus_700d8e5ab02bc66cfc6e9213e960bc2d.png)
 
 If you're a party enthusiast, you can't miss Bali's beach clubs, where New Year's Eve celebrations are in full swing. Dive into the festivities at these top clubs. 👉 [[Click here for Bali's top beach club recommendations](/blog/bali-beach-clubs-free-entry-list/)]
 
@@ -91,7 +91,7 @@ Whether you're a party animal or a traveler who enjoys a leisurely celebration, 
 
 📩 **Join the 'Bali Travel Guide' Blog Now and Become a Bali Travel Expert!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Sign Up for Our Blog](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **By subscribing for free, you'll get:**
 

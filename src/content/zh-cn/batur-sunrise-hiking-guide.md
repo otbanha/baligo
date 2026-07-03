@@ -19,7 +19,7 @@ _srcHash: 60e806d45890a74ca79a9328d6aea50c
 
 提到巴厘岛，大多数人首先想到的是美丽的沙滩和波光粼粼的海水。然而，巴厘岛的魅力远不止于此，还有一个不容错过的自然奇观，那就是巴杜尔山的壮丽日出。为什么选择在巴杜尔山观日出呢？这是一段能让人难以忘怀的体验，从登山的挑战到站在山顶看日出，每一步都是值得回忆的冒险。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1a33444c5f40194580ec6dd76eebda6d.png)
+![享受巴厘岛巴杜尔山巅的壮丽日出](https://images.gobaligo.id/vocus/vocus_1a33444c5f40194580ec6dd76eebda6d.png)
 
 ### **出发前的准备**
 
@@ -48,7 +48,7 @@ _srcHash: 60e806d45890a74ca79a9328d6aea50c
 
 登山路线概述：从山脚到山顶，总共有三个主要的休息站。每个休息站都是一个放松和补充能量的好地方。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_943cfde45f0d5e4c8028776be7761d3b.png)
+![登山过程](https://images.gobaligo.id/vocus/vocus_943cfde45f0d5e4c8028776be7761d3b.png)
 
 ### **第一休息站**
 
@@ -62,7 +62,7 @@ _srcHash: 60e806d45890a74ca79a9328d6aea50c
 
 终于，我们站在了巴杜尔山的山顶。从这里可以看到360度的全景视角，令人屏息的美景尽收眼底。三座壮丽的火山——阿贡山、阿邦山和巴杜尔山，构成了一幅完美的自然画卷。随着太阳缓缓升起，天空从黑暗逐渐变为橙红色，这一刻让人感受到大自然的无限魅力。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_040067c34db9397ea52aaa21df16c3bd.png)
+![巴图尔山巅的壮丽日出](https://images.gobaligo.id/vocus/vocus_040067c34db9397ea52aaa21df16c3bd.png)
 
 ### **日出后的活动**
 
@@ -76,7 +76,7 @@ _srcHash: 60e806d45890a74ca79a9328d6aea50c
 
 回到库塔的路上，我们在几家咖啡馆停留，这些咖啡馆都拥有绝美的山景，非常适合休息和回味这次的登山体验。回到酒店后，我感到无比满足，这次巴杜尔山之旅实现了我多年的心愿。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb64b843848cfe5be13410cb5bb851ac.png)
+![回到库塔](https://images.gobaligo.id/vocus/vocus_eb64b843848cfe5be13410cb5bb851ac.png)
 
 ### **总结**
 

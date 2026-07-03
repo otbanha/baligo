@@ -48,7 +48,7 @@ Jalan di Nusa Penida lumayan sempit, kalau dua mobil papasan rasanya deg-degan, 
 
 ## Eksplorasi Pemandangan dan Kuliner di Pulau
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d8505be114d780f2f4c578a7fcfc798d.png)
+![Eksplorasi Pemandangan dan Kuliner di Pulau](https://images.gobaligo.id/vocus/vocus_d8505be114d780f2f4c578a7fcfc798d.png)
 
 Pemandangan di Nusa Penida wajib banget kamu lihat. Baik itu Kelingking Beach yang terkenal, atau Angel's Billabong, semuanya bikin takjub. Tempat-tempat ini nggak cuma punya alam yang indah, tapi juga air laut yang jernih banget dan tebing yang spektakuler, bikin betah berlama-lama.
 
@@ -70,7 +70,7 @@ Setelah beberapa hari seru di Nusa Penida, kita siap naik kapal balik ke Bali. P
 
 ## Penutup
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc858943113e1373efd0c30989c2c3c2.png)
+![Penutup](https://images.gobaligo.id/vocus/vocus_bc858943113e1373efd0c30989c2c3c2.png)
 
 Trip ke Nusa Penida kali ini bikin kita banget merasakan keindahan alam dan keramahan penduduk lokal. Mulai dari serunya naik kapal, sampai nikmatnya pemandangan dan kuliner di pulau, semuanya nggak terlupakan. Makasih banget buat info dari teman-teman grup, trip ini beneran berfaedah. Semoga catatan perjalanan ini juga berguna buat kamu. Kalau kamu rencana ke Nusa Penida, jangan lewatkan spot dan makanan keren ini. Semoga liburanmu menyenangkan!
 

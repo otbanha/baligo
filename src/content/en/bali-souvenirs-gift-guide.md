@@ -32,7 +32,7 @@ Update: 2026/06/19
 
 Bringing back souvenirs and keepsakes from a trip abroad is a wonderful way to preserve those precious memories. When you visit the beautiful island of Bali, you can not only enjoy stunning beaches and unique culture but also bring home a variety of souvenirs to share this unforgettable journey with family and friends.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_79d1a781d16cd7fb599863b075b592a4.png)
+![Reader Recommended Over 20 Must-Buy Items Across 6 Categorie](https://images.gobaligo.id/vocus/vocus_79d1a781d16cd7fb599863b075b592a4.png)
 
 ## Balinese Cultural Handicrafts
 
@@ -50,7 +50,7 @@ Miniature sandstone carvings
 - **Incense Sticks**: Bring the scent of Bali home. For a detailed guide, check [here](/blog/bali-art-souvenirs-guide/).
 - 👜 **Balinese Woven Bags**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0da8524d97ec3c0a0ab9714a64bb7364.png)
+![Balinese Cultural Handicrafts](https://images.gobaligo.id/vocus/vocus_0da8524d97ec3c0a0ab9714a64bb7364.png)
 
 These handmade woven bags are known for their simple, natural, and stylish designs. Whether it's a small clutch or a large tote, they are highly practical. Prices start from **Rp 50,000, with basic styles around Rp 150,000, and larger or more intricately designed pieces reaching up to Rp 500,000**. They are a popular choice for both gifting and personal use.
 
@@ -58,7 +58,7 @@ These handmade woven bags are known for their simple, natural, and stylish desig
 
 ## Local Food & Specialties
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_08d17f1959db86dd24612c06e5c7ebca.png)
+![Local Food & Specialties](https://images.gobaligo.id/vocus/vocus_08d17f1959db86dd24612c06e5c7ebca.png)
 
 If you're a food lover, Bali's specialty foods are not to be missed. Bringing some local treats home not only extends the joy of your journey but also lets you share that delight with family and friends.
 
@@ -84,7 +84,7 @@ In addition to the souvenirs introduced in the two videos above, here are some s
 
 ### Bali Banana Cake (Available at Specialty Stores)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_89fb934188f4958e5800573a89e936ff.jpg)
+![Bali Banana Cake (Available at Specialty Stores)](https://images.gobaligo.id/vocus/vocus_89fb934188f4958e5800573a89e936ff.jpg)
 
 [Provided by Xiao K Manman] In Indonesia, traditional pastries are widely known for their deliciousness. Recently on Xiaohongshu, someone strongly recommended a special pastry—Bali Banana Cake. With its unique flavor and excellent texture, this cake has quickly become a favorite among tourists and locals alike.
 
@@ -101,7 +101,7 @@ Bali Banana cakes are soft and smooth, with a natural aroma that keeps you reach
 
 ### Mr. P Peanuts and Cashews (Available at Some Supermarkets and Convenience Stores)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d5b3b4d5e809662c9120afbbea300bd0.png)
+![Mr. P Peanuts and Cashews (Available at Some Supermarkets an](https://images.gobaligo.id/vocus/vocus_d5b3b4d5e809662c9120afbbea300bd0.png)
 
 [Provided by Chen Jinwei] When traveling in Bali, if you're looking for a delicious and healthy souvenir, Mr. P's peanuts and cashews are the best choice. These nuts are not only crispy and tasty but also rich in nutrients, allowing you to enjoy great flavor while getting plenty of protein and healthy fats.
 
@@ -111,7 +111,7 @@ These nuts are conveniently packaged, perfect for enjoying anytime, anywhere, an
 
 ### Bali Dried Squid Slices (Available at Souvenir Shops)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_22a2a695179a67fabbc80b19b7bc18c7.png)
+![Bali Dried Squid Slices (Available at Souvenir Shops)](https://images.gobaligo.id/vocus/vocus_22a2a695179a67fabbc80b19b7bc18c7.png)
 
 Made from 100% premium Indonesian dried squid, this snack is savory, salty, and mildly spicy—perfect for all ages. These handmade Bali squid slices are crafted from top-quality local Indonesian squid, seasoned with special spices to deliver a unique aroma, balanced saltiness, and a hint of heat that everyone can enjoy.
 
@@ -121,7 +121,7 @@ Alternatively, stop by Mr. Lobster for a seafood feast and ask Boss Xu to prepar
 
 ### Frangipani Essential Oil and Incense (Available at Aromatic Shops)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_412e9454759f3ebaf088889a796837d2.png)
+![Frangipani Essential Oil and Incense (Available at Aromatic ](https://images.gobaligo.id/vocus/vocus_412e9454759f3ebaf088889a796837d2.png)
 
 [Provided by Nancy Huang] Among Bali's many souvenirs, essential oils and incense products are beloved by travelers. The frangipani essential oil and incense, with their unique fragrance and healing properties, are unmissable choices.
 
@@ -129,25 +129,25 @@ Frangipani, a common tropical flower, has a sweet, rich aroma that promotes rela
 
 ### YAVA Granola Bites (Available at Select Supermarkets)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_62b228e0bd53fc256553b843a5546ecd.png)
+![YAVA Granola Bites (Available at Select Supermarkets)](https://images.gobaligo.id/vocus/vocus_62b228e0bd53fc256553b843a5546ecd.png)
 
 [Provided by Huang Cao] YAVA Granola Bites are made with Bali's natural ingredients and rich nutritional value, loved by health enthusiasts. Key ingredients include fiber-rich oats, nuts for protein and healthy fats, and naturally sweet dried fruits, ensuring every bite is healthy and delicious. Available in flavors like rich chocolate, tangy berries, and tropical fruits with a Southeast Asian twist, these bites cater to diverse tastes. The compact packaging makes them an ideal travel snack.
 
 ### Merubali Coconut Chips (Available at Indomaret Convenience Stores)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d72469a9edebb750fe7cd6404238af5d.png)
+![Merubali Coconut Chips (Available at Indomaret Convenience S](https://images.gobaligo.id/vocus/vocus_d72469a9edebb750fe7cd6404238af5d.png)
 
 [Provided by Fran Cisco] Merubali coconut chips are a healthy snack you can't miss. Made from fresh coconuts, these chips retain the natural aroma and nutrients of coconut. Each chip is carefully baked to a crispy texture with a rich coconut flavor that makes you fall in love at first bite. Merubali coconut chips are not only delicious but also rich in dietary fiber and medium-chain fatty acids, which help promote digestion and boost energy. Lightweight and easy to carry, they are the perfect choice for enjoying anytime during your travels. Whether as a healthy snack or a gift, Merubali coconut chips are an excellent option. Highly recommend the chocolate flavor! Next time you visit Bali, don't forget to grab a few packs of Merubali coconut chips to share this natural taste and health with family and friends!
 
 ### Pie Susu (Available at major supermarkets, souvenir shops, and airport duty-free stores)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c6b88644bba81996a248f6f65acc80d.jpg)
+![Pie Susu (Available at major supermarkets, souvenir shops, a](https://images.gobaligo.id/vocus/vocus_1c6b88644bba81996a248f6f65acc80d.jpg)
 
 [Provided by Li Qiuxiong](https://www.facebook.com/share/p/19S3z548yv/) When it comes to Bali souvenirs, how could we not mention **Pie Susu (milk pie)**! This seemingly simple little tart is a classic dessert beloved by locals and tourists alike. The crispy crust paired with a rich and smooth milk filling makes every bite a taste of happiness. Whether you're shopping at a supermarket or the airport duty-free store, you can find various brands of Pie Susu. Some brands even offer innovative flavors like chocolate, matcha, cheese, and durian, making it addictive!
 
 ### JungleGold Bali Premium Handcrafted Chocolates (Available at specialty stores and international airport)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_adddc5f428830e68d505fa2604dbc74a.png)
+![JungleGold Bali Premium Handcrafted Chocolates (Available at](https://images.gobaligo.id/vocus/vocus_adddc5f428830e68d505fa2604dbc74a.png)
 
 [Provided by Du Jiajia] When searching for premium chocolate in Bali, Jungle Gold Bali is a must-try. Made from locally grown cocoa beans and handcrafted, this chocolate guarantees exceptional quality and unique flavor. Jungle Gold Bali chocolates are known for their rich cocoa aroma and silky texture, whether you choose pure dark chocolate or varieties mixed with nuts, dried fruits, and other ingredients, they cater to different tastes. Additionally, Jungle Gold Bali emphasizes sustainability and fair trade, ensuring the production process is friendly to the environment and local communities. The beautifully packaged chocolates showcase Bali's natural beauty and cultural characteristics, making them an ideal choice for personal enjoyment or as a gift.
 
@@ -163,7 +163,7 @@ https://youtu.be/g-0YevTkxgI
 
 ### Falala Chocolate (Three branches in Ubud, Kuta, and Denpasar)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_80d2ab2244f30e138da44fce1f5e7718.png)
+![Falala Chocolate (Three branches in Ubud, Kuta, and Denpasar](https://images.gobaligo.id/vocus/vocus_80d2ab2244f30e138da44fce1f5e7718.png)
 
 [Sam Liu] Recommends the delicious Falala Chocolate, one of Bali's signature souvenirs, founded on April 10, 2020, by a young couple from Ubud. To find the finest ingredients, the founding team spent a year conducting rigorous research and selection. After numerous trials, Falala Chocolate officially launched in April 2020.
 
@@ -171,7 +171,7 @@ Falala Chocolate adheres to traditional handcrafting techniques, uses a secret r
 
 ### Guribee Corn Chips (Available at supermarkets, Alfamart, and Family Mart)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c717814fcdb988fd74509c3612c18dbf.png)
+![Guribee Corn Chips (Available at supermarkets, Alfamart, and](https://images.gobaligo.id/vocus/vocus_c717814fcdb988fd74509c3612c18dbf.png)
 
 [Provided by Mei Yi Liao] Guribee is an Indonesian snack brand featuring multi-layered puffed snacks with a unique pillow shape and crispy texture. It comes in three flavors: Cheese, Seaweed, and BBQ.
 
@@ -179,7 +179,7 @@ Guribee is a popular snack, especially among young people in Indonesia. It's a d
 
 ### Salak (Snake Fruit) (Available at supermarkets and fruit stalls)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5246f0141cf9c98d5f703e5b8a69248c.png)
+![Salak (Snake Fruit) (Available at supermarkets and fruit sta](https://images.gobaligo.id/vocus/vocus_5246f0141cf9c98d5f703e5b8a69248c.png)
 
 [Lam Tak Wai] Brought many back to Hong Kong! Among Bali's many unique souvenirs, Salak (pronounced sah-lahk in Indonesian) is a distinctive must-try. Named for its scaly skin resembling snake scales, the fruit has a crisp, sweet, and juicy flesh, beloved by tourists and locals alike.
 
@@ -205,7 +205,7 @@ This snack is not only delicious but also highly portable, perfect for enjoying 
 
 ### Pia Agung (available at specialty shops near the airport and in Canggu)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3917493dbcbee0bb3a0c799f6c1a57ae.png)
+![Pia Agung (available at specialty shops near the airport and](https://images.gobaligo.id/vocus/vocus_3917493dbcbee0bb3a0c799f6c1a57ae.png)
 
 [Provided by Anna Wei] Pia Agung is a Balinese pastry that originated from the mooncakes of Guangdong, China. Over the years, it has evolved and blended with local flavors to become a beloved sweet treat in Bali. Pia Agung is popular among both locals and tourists, not only as a festive essential but also as a top choice for souvenirs.
 
@@ -215,7 +215,7 @@ These pastries have a crispy outer shell and a rich, sweet filling that melts in
 
 ### Soffell Mosquito Repellent (Available at all supermarkets and convenience stores)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c0cf469fe36e23282e4f24ab592dc657.png)
+![Soffell Mosquito Repellent (Available at all supermarkets an](https://images.gobaligo.id/vocus/vocus_c0cf469fe36e23282e4f24ab592dc657.png)
 
 [Provided by Fran Cisco] When traveling in tropical regions, especially in Indonesia and Bali, mosquito protection is essential. Soffell mosquito repellent, a popular local product, is the top choice for both tourists and residents due to its effectiveness and convenience. This repellent works exceptionally well against the specific mosquitoes found in Indonesia and Bali, effectively keeping them at bay and providing hours of skin protection, allowing you to enjoy outdoor activities without worry.
 
@@ -225,7 +225,7 @@ Soffell mosquito repellent comes in two forms: lotion (Soffell Lotion) and spray
 
 ### Bali Souvenir Recommendation: A Surprising Pineapple Cake Experience 🍍
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b3262d82cb0c29c57e5f025ff413a14.jpg)
+![Bali Souvenir Recommendation: A Surprising Pineapple Cake Ex](https://images.gobaligo.id/vocus/vocus_9b3262d82cb0c29c57e5f025ff413a14.jpg)
 
 [Provided by Sannie Lin] Bali also has pineapple cakes, a beloved pastry! During my trip, I made a point to visit a shop called **the Balinese**, which I heard makes a unique version. However, when I arrived, they were out of stock and told me I needed to pre-order and come back in a few days.
 
@@ -239,7 +239,7 @@ If you're looking for unique souvenirs from Bali, consider this pineapple cake. 
 
 ### Herborist 🌿✨
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e11d5441c4897e4d2d0e2609300adcbf.jpg)
+![Herborist](https://images.gobaligo.id/vocus/vocus_e11d5441c4897e4d2d0e2609300adcbf.jpg)
 
 Herborist is a local Indonesian skincare brand inspired by Bali's traditional spa concept, combining natural herbal ingredients to provide pure care for the skin. Founded in 2013, it quickly became a favorite among Indonesian women and tourists alike, thanks to its affordable prices and quality products.
 
@@ -259,7 +259,7 @@ Group member [Alice Blue Lee](https://www.facebook.com/share/p/1BT84AtUJx/) reco
 
 ### **Chocolate Monggo**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a91fa60eb71f580eac358c12a830f694.jpg)
+![Chocolate Monggo](https://images.gobaligo.id/vocus/vocus_a91fa60eb71f580eac358c12a830f694.jpg)
 
 **Chocolate Monggo** is a **Belgian artisan chocolatier** based in Bali. Founded by a Belgian engineer who moved to the island, it uses local spices and organic cacao to craft chocolates that capture the essence of Bali.
 
@@ -278,7 +278,7 @@ Group member [Alice Blue Lee](https://www.facebook.com/share/p/1BT84AtUJx/) reco
 
 ### Secret Garden Frangipani Diffuser
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_353e90e5e76b5c5848ae6bbe6318da29.jpg)
+![Secret Garden Frangipani Diffuser](https://images.gobaligo.id/vocus/vocus_353e90e5e76b5c5848ae6bbe6318da29.jpg)
 
 This **Frangipani Bali** diffuser by Secret Garden captures Bali's most iconic scent memory. It masterfully blends the delicate fragrance of frangipani, rich coconut cream, and elegant white florals, creating a healing ambiance that feels like drifting off on a cliff in Uluwatu for meditation and relaxation. Highly acclaimed in the 2026 luxury travel scene, it's a must-have stress-relief treasure for travelers seeking a refined lifestyle. [Shared by group member Liu Xinyu](https://www.facebook.com/share/p/18CDb2wzvZ/)
 
@@ -286,7 +286,7 @@ If you'd like to purchase this diffuser or related fragrance products, besides v
 
 ### Kapal Api Coffee
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781831055471-bb562012f60e0598fc47c07c897c05c4.png)
+![Kapal Api Coffee](https://images.gobaligo.id/images/2026-06/1781831055471-bb562012f60e0598fc47c07c897c05c4.png)
 
 A beloved Indonesian national brand available in supermarkets and convenience stores — **Kapal Api**. It’s not an instant chemical blend, but 100% pure natural ground coffee.
 

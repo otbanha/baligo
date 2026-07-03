@@ -20,7 +20,7 @@ _srcHash: fca1ea9f27bea54501efccc9aa7b1f8d
 
 峇里島嘅手工大型傢俬以其獨特嘅風格同精湛嘅工藝而聞名於世。呢啲傢俬通常由當地工匠以傳統手工技藝製作，使用天然材料如木頭、竹同藤蔓，展現出自然美感同質樸氛圍。其獨特嘅設計受到當地文化同傳統嘅啟發，包括雕刻、編織同特色圖案，散發著異國情調同藝術氣息。呢啲傢俬非常具有收藏價值，吸引著好多人想購買並將其帶返屋企，以展現獨特嘅風格並致敬當地文化。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f86fbbcdf420d9e6dafc88e2765f69cc.png)
+![點樣從峇里島運送大型傢俬返香港？空運/海運/裝櫃運送攻略](https://images.gobaligo.id/vocus/vocus_f86fbbcdf420d9e6dafc88e2765f69cc.png)
 
 然而從峇里島寄送大型傢俬返香港可能係一個複雜嘅過程，但以下係一啲一般步驟可供參考：
 
@@ -34,10 +34,10 @@ _srcHash: fca1ea9f27bea54501efccc9aa7b1f8d
 8. **交付同接收**：同香港嘅收件人協調安排傢俬嘅交付同接收。確保佢哋能夠喺送達時接收貨物並檢查傢俬有冇任何損壞。
 9. **其他考慮因素**：根據從峇里島寄送傢俬到香港嘅具體要求，可能仲有其他步驟或考慮因素需要注意。保持信息留意並同你嘅運輸公司或貨運代理密切合作係非常重要嘅。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5a5253ec3221cf1c00f9e1d14b38ff79.png)
+![點樣從峇里島運送大型傢俬返香港？空運/海運/裝櫃運送攻略](https://images.gobaligo.id/vocus/vocus_5a5253ec3221cf1c00f9e1d14b38ff79.png)
 
 請記住，國際運送大型傢俬可能係一個耗時嘅過程，可能需要仔細嘅規劃同協調。建議你提前開始呢個過程，以確保運送順利且無懈可擊。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_07a56fce5d478312425163962bab49db.png)
+![點樣從峇里島運送大型傢俬返香港？空運/海運/裝櫃運送攻略](https://images.gobaligo.id/vocus/vocus_07a56fce5d478312425163962bab49db.png)
 
 {{block:伴手禮}}

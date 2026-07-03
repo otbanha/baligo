@@ -26,7 +26,7 @@ Finally made it to Bali this summer, a place I've always dreamed of visiting. Th
 
 ## **Weather**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3121af7a76e9ab9aeae87f42ed213a36.jpg)
+![Weather](https://images.gobaligo.id/vocus/vocus_3121af7a76e9ab9aeae87f42ed213a36.jpg)
 
 Bali's weather wasn't as hot as I imagined, with heavy rain and bright sunshine often occurring on the same day. The rain can be torrential, happening every day or two, but the wind isn't too strong. It's advisable to bring a light jacket, as it can get chilly when it rains. When engaging in outdoor activities, remember to carry rain gear to avoid sudden downpours disrupting your plans. Additionally, sunscreen is essential, as the UV rays are still very strong even when the weather is unpredictable.
 
@@ -60,7 +60,7 @@ Bali's accessory shops are incredibly charming, such as Blink, where almost ever
 
 ## **Transportation**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dafbbe49d363e8f35135436c504badf2.png)
+![Transportation](https://images.gobaligo.id/vocus/vocus_dafbbe49d363e8f35135436c504badf2.png)
 
 Using Grab or Gojek for taxis is very convenient, and most drivers are polite. A 20-minute ride costs around USD$3, and for longer distances, you can hire a private car. Private car services are highly flexible, and drivers usually tailor the route to your needs, allowing you to make the most of your time and visit more attractions. Before setting off, discuss your itinerary with the driver to ensure you can smoothly reach each destination.
 
@@ -72,7 +72,7 @@ I initially thought yoga clothes here would be cheap, but they turned out to be 
 
 ## **Yoga Classes**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6968936fa4c0c6ca57750fc1614ccd39.jpg)
+![Yoga Classes](https://images.gobaligo.id/vocus/vocus_6968936fa4c0c6ca57750fc1614ccd39.jpg)
 
 Yoga Barn offers many classes, but the venue is a bit outdated, perhaps due to overly high expectations. There are many flashy courses, but fewer traditional yoga classes. The free yoga classes at hotels are actually quite good. If you're interested in yoga, try out different studios to find the best classes and instructors for you. The variety of yoga courses here caters to everyone from beginners to advanced practitioners, meeting different skill levels.
 
@@ -84,7 +84,7 @@ Bali's cuisine mainly features pork ribs, fried noodles, and fried rice. Those w
 
 ## **People and Services**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3215b9db05b9e4049dd8c6ef5859a350.jpg)
+![People and Services](https://images.gobaligo.id/vocus/vocus_3215b9db05b9e4049dd8c6ef5859a350.jpg)
 
 Most people are very polite and friendly, and it's safe to walk around at night. The spa services here are excellent, affordable, and offer great value. It's recommended to try different spas during your trip to relax and enjoy the leisurely pace. The warm hospitality of the locals makes you feel very welcome, whether in restaurants, shops, or attractions. This human touch adds many beautiful memories to your journey.
 
@@ -96,7 +96,7 @@ This trip to Bali was filled with many surprises and moving moments. I hope my s
 
 Do you think Haobo LI's itinerary is exciting? Quickly arrange your own Bali free and easy trip! You are also welcome to submit your itinerary in the community!
 
-![raw-image](https://d2a6d2ofes041u.cloudfront.net/resize)
+![Conclusion](https://d2a6d2ofes041u.cloudfront.net/resize)
 
 Click here to explore more amazing Bali travel stories
 

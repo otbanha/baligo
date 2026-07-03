@@ -16,13 +16,13 @@ _srcHash: 32fd17bbe3557109263aad3adb191708
 
 ## Unique Bali Experience: Beach Camel Rides 🐪
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_78aaa239e94e16c866dd90393b901e8b.jpg)
+![Unique Bali Experience: Beach Camel Rides](https://images.gobaligo.id/vocus/vocus_78aaa239e94e16c866dd90393b901e8b.jpg)
 
 Beyond surfing and snorkeling, Bali's sunny beaches offer a unique activity—camel rides along the shore! This romantic experience, originally from Broome Beach in Australia, can now be enjoyed in Bali. Here are two popular locations showcasing the 'local' and 'tourist' versions of this charming activity.
 
 ## Mertasari Beach: Affordable Camel Rides Loved by Locals
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_602a438b73356a1509afa111f1831f25.jpg)
+![Mertasari Beach: Affordable Camel Rides Loved by Locals](https://images.gobaligo.id/vocus/vocus_602a438b73356a1509afa111f1831f25.jpg)
 
 Located in Sanur, Bali, Mertasari Beach is a favorite weekend spot for locals. Here, [Bali Camel Ride](https://www.instagram.com/balicamelride?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) offers a relaxed and budget-friendly camel riding experience, perfect for families.
 
@@ -50,7 +50,7 @@ https://youtube.com/shorts/yebdtkV5tX0
 
 ## Kelan Beach: A Tourist-Friendly Camel Ride with Dreamy Sunsets 🌅
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_101fba96039bcbebaa03f5a3e76ebd38.jpg)
+![Kelan Beach: A Tourist-Friendly Camel Ride with Dreamy Sunse](https://images.gobaligo.id/vocus/vocus_101fba96039bcbebaa03f5a3e76ebd38.jpg)
 
 Located in Jimbaran, Kelan Beach is just a few minutes' drive from Bali Airport. The [Bali Camel Adventure](https://www.balicameladventure.com/) here is renowned for its romantic scenery and high-quality service, making it a top choice for couples and travelers alike.
 

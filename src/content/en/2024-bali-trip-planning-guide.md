@@ -47,7 +47,7 @@ Here are several vacation strategies to help you enjoy the longest holidays with
 
 **Double Ten Day** Originally 1 day off, take extra days from October 7 to October 9, and October 11 to enjoy a 9-day break.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_314b25a412fd8c7714d54b50d3888e62.png)
+![2024 Vacation Guide: 7 Long Holidays for 9 Days Off! Want to](https://images.gobaligo.id/vocus/vocus_314b25a412fd8c7714d54b50d3888e62.png)
 
 ➡️[Find Bali accommodations here](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️  
 ➡️[More Bali deals click here](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
@@ -56,15 +56,15 @@ Such a clever leave strategy is truly fascinating! In 2024, by smartly arranging
 
 Bali, this picturesque gem of the Indian Ocean, awaits your visit. By comparing festivals in Taiwan and Bali, you can experience different cultural vibes in Bali. For instance, while Taiwan is on holiday, Bali might be hosting significant cultural or religious celebrations, offering you a profound cultural experience, or suggesting peak tourist seasons to avoid. Please refer to the table and explanations below (only overlapping holidays/festivals are listed):
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a9345467ba7d6d69b803fe56f042b3d8.png)
+![2024 Vacation Guide: 7 Long Holidays for 9 Days Off! Want to](https://images.gobaligo.id/vocus/vocus_a9345467ba7d6d69b803fe56f042b3d8.png)
 
 **Best to Avoid:** Lunar New Year is Bali's peak tourist season, attracting visitors from around the world, especially from East Asia where Lunar New Year is considered the only long holiday of the year. Originally, February 10th is a national holiday in Indonesia, and February 8th coincides with Ascension Day of Prophet Muhammad (a national holiday in Indonesia), plus the weekend, making February 8th to 11th a flexible holiday period. Additionally, February 14th is the Indonesian Presidential Election, likely causing many Indonesians to take February 12th and 13th off, resulting in a seven-day holiday and expected heavy traffic in Bali. Check out our [Bali Lunar New Year Family Travel Guide](/blog/2026-bali-lunar-new-year-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_700e68141838114c4ae9cbc8dd92b922.png)
+![2024 Vacation Guide: 7 Long Holidays for 9 Days Off! Want to](https://images.gobaligo.id/vocus/vocus_700e68141838114c4ae9cbc8dd92b922.png)
 
 **Can Participate:** February 28th to March 9th Galungan & Kuningan: One of Bali's most important festivals, usually lasting about 10 days, celebrating the creation of the universe and the victory of good over evil. During this festival, people honor their ancestors at home, seeking their blessings, and perform rituals at temples to express reverence to the deities. Schools in Bali close for two weeks during this period, highlighting its significance!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_075f5585db131960b6ac37cd4a560582.png)
+![2024 Vacation Guide: 7 Long Holidays for 9 Days Off! Want to](https://images.gobaligo.id/vocus/vocus_075f5585db131960b6ac37cd4a560582.png)
 
 **Do Not Go:** The 2024 Indonesian Eid al-Fitr holiday starts on April 8th (Friday) and lasts until April 15th. Eid al-Fitr is Indonesia's most important holiday, celebrating the end of Ramadan (April 10th), and is a time for Indonesians to spend with family and friends, equivalent to our Chinese Lunar New Year. Typically, Bali starts to fill up with locals from around April 5th, making it the first of Bali's five peak seasons. This is a holiday we recommend avoiding for Bali!
 
@@ -72,11 +72,11 @@ Bali, this picturesque gem of the Indian Ocean, awaits your visit. By comparing 
 
 News Image: Scenes from previous Eid al-Fitr holidays in Bali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7185467fe5f715272809d1814766a390.png)
+![2024 Vacation Guide: 7 Long Holidays for 9 Days Off! Want to](https://images.gobaligo.id/vocus/vocus_7185467fe5f715272809d1814766a390.png)
 
 **Join us:** May 1-5, 2024: The Bali Spirit Festival kicks off on May 1 and runs through May 5. This festival of music, wellness, and yoga offers participants a holistic experience for mind, body, and soul. Held in Ubud, attendees can participate in yoga, dance, music, and healing workshops while connecting with people from around the world. The Bali Spirit Festival aims to create a global community that respects and cares for our environment.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_78e2b82008d7640eff35d35211a75671.png)
+![2024 Vacation Guide: 7 Long Holidays for 9 Days Off! Want to](https://images.gobaligo.id/vocus/vocus_78e2b82008d7640eff35d35211a75671.png)
 
 **Highly recommended:** The most exciting event in September is the Bali Carnival! This annual cultural festival takes place in various locations across Bali every September. Known for its vibrant traditional dances, music, and art performances, it attracts visitors from all over the world. In recent years, more and more international participants have joined the parade! Dates to be announced.
 
@@ -84,7 +84,7 @@ News Image: Scenes from previous Eid al-Fitr holidays in Bali.
 
 The Bali Carnival is expected to take place in September, dates to be announced.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8d69ad5056bfab74ce6c678fbcd9f109.png)
+![2024 Vacation Guide: 7 Long Holidays for 9 Days Off! Want to](https://images.gobaligo.id/vocus/vocus_8d69ad5056bfab74ce6c678fbcd9f109.png)
 
 **Join us:** October 3-12: Navaratri is a Hindu festival celebrating the victory of Goddess Durga. Typically held in September or October, this nine-day festival involves fasting, prayers, flower offerings, and dancing. The final day, Dussehra, commemorates Prince Rama's defeat of the demon king Ravana. If you visit Bali around Double Ten Day, you can enjoy a nine-day holiday while immersing yourself in the sacred atmosphere of Navaratri, adding depth to your travels.
 

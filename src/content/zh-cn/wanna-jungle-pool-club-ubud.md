@@ -28,7 +28,7 @@ _srcHash: 0f8611ca38d7e7de846caea36b84a0c1
 
 ## **梯田概念泳池 与自然完美融合**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f6fc53ee9b26048fd4f3d333e111e58f.jpg)
+![梯田概念泳池 与自然完美融合](https://images.gobaligo.id/vocus/vocus_f6fc53ee9b26048fd4f3d333e111e58f.jpg)
 
 一走进Wanna Jungle，立刻被眼前独特的泳池设计惊艳！设计师巧妙将巴厘岛著名的梯田景观融入泳池造型，阶梯式的层叠水池与周边热带丛林相映成趣，随便一个角度都能拍出杂志封面级的美照。最棒的是，即使不是度假村住客，也能购买一日券进来享受这片仙境。
 

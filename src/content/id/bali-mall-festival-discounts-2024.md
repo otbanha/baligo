@@ -24,7 +24,7 @@ _srcHash: d71a85097f6bde4261b1a231da604f14
 
 Menjelang Natal dan Tahun Baru, 11 pusat perbelanjaan di Bali lagi heboh banget dengan pesta belanja dan perayaan! Acara 'Diskon Besar Natal & Tahun Baru 2024' ini digelar oleh Asosiasi Pengelola Pusat Perbelanjaan Indonesia (APPBI) Bali, kasih diskon gede, acara seru, dan kesempatan undian berhadiah buat wisatawan dan warga lokal.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_43f17bfffdf05c147db8643dc1dd8614.jpg)
+![Seru-seruan di Pusat Belanja Bali, Diskon Gila dan Acara Ker](https://images.gobaligo.id/vocus/vocus_43f17bfffdf05c147db8643dc1dd8614.jpg)
 
 Promo gede-gedean ini — **'The Great Bali Sale'** — bakal berlangsung sampai **11 Januari 2024** di pusat perbelanjaan utama Bali, yaitu:
 
@@ -102,7 +102,7 @@ Di berbagai mal besar, ada banyak banget hiburan seru seperti taman tema indoor,
 
 ## 📩 **Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Bali!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Ba](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

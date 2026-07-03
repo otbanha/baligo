@@ -34,7 +34,7 @@ _srcHash: 05b168659324b53fdf1ead9c0882e186
 
 最近呢幾年，越來越多遊客發現咗呢個秘密。比起嗰啲做畀遊客睇嘅手信，從傳統市場帶返屋企嘅嘢，反而更地道、更平、更實用。其中最受歡迎嘅，就係**印尼香料**。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779287700843-artikel_201905120521_badungtraditionalmarket.jpg)
+![【峇里島深度遊】走入本地傳統市場：尋找真正嘅峇里島靈魂](https://images.gobaligo.id/images/2026-05/1779287700843-artikel_201905120521_badungtraditionalmarket.jpg)
 
 ## 連烏布都隱藏住一個你睇唔到嘅早市
 

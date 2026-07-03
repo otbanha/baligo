@@ -23,7 +23,7 @@ _srcHash: e29d1305e3a0ccc38d607f71df84f8d2
 
 峇里島係我心目中最適合獨遊嘅東南亞目的地之一。佢安全、觀光成熟、物價合理，而且「一個人」喺度從來唔會尷尬。無論係想靜靜放空，定係想識新朋友，峇里島都可以滿足你。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775350592267-mixcollage-05-apr-2026-07-55-am-578.jpg)
+![峇里島獨遊建議：一個人嘅天堂，都可以好精彩](https://images.gobaligo.id/images/2026-04/1775350592267-mixcollage-05-apr-2026-07-55-am-578.jpg)
 
 以下係我親身走過後，整理俾獨遊者嘅實用建議：
 
@@ -31,7 +31,7 @@ _srcHash: e29d1305e3a0ccc38d607f71df84f8d2
 
 ## 一、住邊度？揀啱區域好重要
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775351493354-mixcollage-05-apr-2026-08-11-am-1312.jpg)
+![一、住邊度？揀啱區域好重要](https://images.gobaligo.id/images/2026-04/1775351493354-mixcollage-05-apr-2026-08-11-am-1312.jpg)
 
 峇里島好大，唔同區域氛圍完全唔同：
 
@@ -91,7 +91,7 @@ https://youtu.be/VuG8s-u_I0Q
 
 ## 四、安全嗎？俾獨遊者嘅真心話
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775351807418-3e530ee91368827f35ce3d2046220e06.jpg)
+![四、安全嗎？俾獨遊者嘅真心話](https://images.gobaligo.id/images/2026-04/1775351807418-3e530ee91368827f35ce3d2046220e06.jpg)
 
 峇里島整體嚟講都算安全，但係都有幾點要注意：
 
@@ -111,7 +111,7 @@ https://youtu.be/VuG8s-u_I0Q
 
 一個人嚟，唔代表要一個人玩到尾。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775352447434-54bd8eecd33bfc05d58f6767e3816f0a.jpg)
+![五、獨遊最正嘅事：識新朋友](https://images.gobaligo.id/images/2026-04/1775352447434-54bd8eecd33bfc05d58f6767e3816f0a.jpg)
 
 - **住青年旅舍（Hostel）**：烏布同坎古有好多超正嘅青年旅舍，公共空間、免費早餐、瑜伽課、共同工作空間⋯⋯好容易傾到計。推薦：Ubud Raya、Puri Garden、Tribal Bali。
 - **參加一日團**：好似爬巴杜爾火山睇日出、浮潛、泰式烹飪課。團體入面好多都係 solo traveler。
@@ -146,7 +146,7 @@ https://youtu.be/hQbBTktqEqY
 
 峇里島會用佢嘅溫柔話俾你知：一個人，都可以好完整。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775353631404-10819a3acdc4d57f5f5a684e1dfea4ed.jpg)
+![七、最後嘅提醒：放慢腳步](https://images.gobaligo.id/images/2026-04/1775353631404-10819a3acdc4d57f5f5a684e1dfea4ed.jpg)
 
 > 獨遊遊記參考：[🌺 獨自闖蕩峇里島8天 - 女子獨旅體驗分享 🌺](/blog/bali-solo-female-travel/)
 

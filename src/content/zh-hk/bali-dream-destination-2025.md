@@ -29,7 +29,7 @@ _srcHash: 200f517e1a3643e313db8f5ce785b615
 
 根據Go2Africa嘅調查，峇里島以超過228萬次嘅搜尋量成為最受歡迎嘅夢幻旅遊地點，穩居榜首。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d4ba57e219f9b6e16abe1a7812239161.jpg)
+![峇里島：搜尋熱度超過228萬次](https://images.gobaligo.id/vocus/vocus_d4ba57e219f9b6e16abe1a7812239161.jpg)
 
 分析師指出，峇里島擁有多元魅力，無論係蜜月旅行、冒險探索、文化體驗、家庭度假、親子玩樂、定係專業衝浪者，都可以喺呢度搵到滿足。此外，峇里島被視為靈性中心，吸引咗注重養生與心靈探索嘅旅客。
 
@@ -143,7 +143,7 @@ Julia Roberts主演嘅Eat, Pray, Love有好多喺峇里島拍攝嘅片段
 
 ## 📩 **立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **透過免費訂閱，你將會獲得：**
 

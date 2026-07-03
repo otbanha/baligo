@@ -35,7 +35,7 @@ _srcHash: b6f0e6aaad08630a38b002521e8d8e77
 
 ✨ Kali ini aku mau ngajak kamu unboxing hotel Indigo yang lagi aku suka banget: **Hotel Indigo Bali Seminyak Beach**! Lokasinya nggak cuma pas, desainnya juga magis, dan ini adalah **resor Indigo terbesar di Asia Tenggara**, restorannya aja ada enam, biar kamu gak kelaparan dan gak kehabisan pilihan!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c0ebccf8aefe36e1c091fb5231ba7909.jpg)
+![【Unboxing Penginapan】Hotel Indigo Bali Seminyak Beach｜Resor ](https://images.gobaligo.id/vocus/vocus_c0ebccf8aefe36e1c091fb5231ba7909.jpg)
 
 Dari desain kamar sampai kolam renang, fasilitas umum, bahkan layanan kebersihannya bikin aku terkesan banget. Ini adalah pengalaman menginap Indigo paling memuaskan setelah aku nginep di Hakone, Dazhi, Alishan, dan Kaohsiung. Yuk, kita mulai dari lima poin penting di bawah👇
 
@@ -67,7 +67,7 @@ Dokumentasi Li Danni
 
 Hotel Indigo ada di baris pertama Pantai Seminyak, Bali barat daya. Begitu keluar pintu, kamu udah langsung di Seminyak Beach yang terkenal, lihat sunset tanpa halangan. Jarak dari Bandara Internasional Bali (Ngurah Rai) sekitar 30 menit naik mobil. Hotel menyediakan layanan antar-jemput berbayar dan parkir gratis, cocok banget buat transit sebelum/pesawat atau staycation santai.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5a54eb8ab9e2ea320a2e58e18da42988.jpg)
+![Lokasi｜Lokasi Premium, Jalan Kaki ke Pantai dan Pusat Kerama](https://images.gobaligo.id/vocus/vocus_5a54eb8ab9e2ea320a2e58e18da42988.jpg)
 
 Deket situ juga pusat perbelanjaan paling rame di Seminyak, dalam jarak jalan kaki ada:
 
@@ -85,11 +85,11 @@ Lingkungan sekitar juga pusatnya kafe hits, restoran, bar, dan butik. Malam mau 
 
 Indigo ini bukan cuma cantik, tapi **beneran bikin kamu rileks dan kaget**, fasilitasnya lengkap banget sampai kayak nginep di Hogwarts! Ruang publiknya perpaduan gaya tradisional Bali sama modern时尚, setiap sudut bisa jadi spot foto kayak cover majalah.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7fefcda4fe8cddbaea25c95c300f25c4.jpg)
+![Fasilitas Keren｜Enam Restoran dan Ruang Publik Ajaib di Reso](https://images.gobaligo.id/vocus/vocus_7fefcda4fe8cddbaea25c95c300f25c4.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2f6f38de106a8835c97b3a1d0c7e9bce.jpg)
+![Fasilitas Keren｜Enam Restoran dan Ruang Publik Ajaib di Reso](https://images.gobaligo.id/vocus/vocus_2f6f38de106a8835c97b3a1d0c7e9bce.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9cd2c7b8bf19661721272639bde75706.jpg)
+![Fasilitas Keren｜Enam Restoran dan Ruang Publik Ajaib di Reso](https://images.gobaligo.id/vocus/vocus_9cd2c7b8bf19661721272639bde75706.jpg)
 
 ### 🔹 Fasilitas Hiburan & Relaksasi
 
@@ -108,7 +108,7 @@ Indigo ini bukan cuma cantik, tapi **beneran bikin kamu rileks dan kaget**, fasi
 
 **Sugarsand (Makan malam & sarapan ala carte)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9da9bf2a98c9fd7b8be0ad61469c2aa2.jpg)
+![Rangkuman 6 Restoran (Hotel yang takut kamu laper)](https://images.gobaligo.id/vocus/vocus_9da9bf2a98c9fd7b8be0ad61469c2aa2.jpg)
 
 Pemandangan laut + musik DJ + dekorasi super vibe, nyajiin masakan fusion Jepang. Makan malamnya cantik difoto, rasanya standar, tapi **pelayanannya juara, sampai kasih kue ulang tahun gratis sambil nyanyi** bikin terharu. Saran pilih mode ala carte buat sarapan, lebih mantap dari prasmanan! Rekomendasi: French brioche, mie goreng Indonesia, dragon fruit bowl.
 
@@ -120,13 +120,13 @@ Kamu bisa bersantai di tepi kolam renang sambil menyesap koktail, menikmati kete
 
 **Makase (Sarapan prasmanan)**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d1fc6da0dfcaf4de33f79386df06c9d0.jpg)
+![Rangkuman 6 Restoran (Hotel yang takut kamu laper)](https://images.gobaligo.id/vocus/vocus_d1fc6da0dfcaf4de33f79386df06c9d0.jpg)
 
 Suasana makannya juara banget, ada pilihan indoor dan semi-outdoor, dekorasi restorannya mirip banget Aula Hogwarts! Kelengkeng udah dikupas, jeruk bali udah dipisahin, dessert berjejer rapi, perhatian banget detailnya.
 
 **Cave Pool Lounge（Bar Tepi Kolam）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a9b1adbe1fe9bcf62629fca58c15723e.jpg)
+![Rangkuman 6 Restoran (Hotel yang takut kamu laper)](https://images.gobaligo.id/vocus/vocus_a9b1adbe1fe9bcf62629fca58c15723e.jpg)
 
 Harga minumannya ramah banget di kantong, satu teko besar fruit tea cuma USD$8, harga cocktail juga murah, segelas USD$8. Happy Hour beli satu gratis satu, sambil berendam sambil minum beneran puas banget.
 
@@ -197,7 +197,7 @@ Dari langkah pertama masuk ke Indigo Seminyak, aku langsung sadar kalau ini buka
 
 🛏 Kamarnya luas, desainnya keren, kebersihannya super rapi. Aku nginep tiga malam dan ogah check out.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e3c61c5d45a345e91c6902cbb291ce7b.png)
+![Rutinitas Pantai & Rangkuman](https://images.gobaligo.id/vocus/vocus_e3c61c5d45a345e91c6902cbb291ce7b.png)
 
 {{block:smk}}
 

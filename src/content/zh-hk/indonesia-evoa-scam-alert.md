@@ -32,7 +32,7 @@ _srcHash: 5c429cb0444fb7fa6cc3599b138888c8
 
 如果有，就要小心喇。最近 Reddit 上有旅客分享咗一個新嘅詐騙手法，針對嘅就係啱啱辦完簽證嘅人。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775314454153-img_5278.jpeg)
+![【最新假email詐騙】辦完印尼電子簽證後，收到呢封信千祈唔好撳！](https://images.gobaligo.id/images/2026-04/1775314454153-img_5278.jpeg)
 
 ## 申請完簽證，隔日收到一封「官方信件」
 
@@ -50,7 +50,7 @@ _srcHash: 5c429cb0444fb7fa6cc3599b138888c8
 
 印尼由2025年9月開始，入境旅客真係要填一份電子申報，叫做All Indonesia Arrival Card（簡稱AIAC）。詐騙集團就係捉住呢點——你唔確定呢個要唔要錢、要點樣搞——然後扮成官方嚟收費。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775314476563-img_5279.jpeg)
+![點解感覺咁真？](https://images.gobaligo.id/images/2026-04/1775314476563-img_5279.jpeg)
 
 但事實係：**AIAC申報完全免費，冇任何額外費用！**
 

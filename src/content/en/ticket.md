@@ -153,7 +153,7 @@ Especially suitable for:
 - Backpackers
 - Flexible vacationers
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780735520988-asian_beautiful_655f42b6-83f4-422e-806c-396f6443638d.png)
+![3. Mix-and-Match Airlines](https://images.gobaligo.id/images/2026-06/1780735520988-asian_beautiful_655f42b6-83f4-422e-806c-396f6443638d.png)
 
 # 2. Traditional Direct Flights vs. Budget Airlines with Transfers: How to Choose in 2026?
 

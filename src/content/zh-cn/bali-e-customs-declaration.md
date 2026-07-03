@@ -21,7 +21,7 @@ _srcHash: 9f8862ab56e55158e6b925254da7d999
 
 巴厘岛电子海关申报表（eCD）是印尼政府规定所有入境旅客都必须填写的数字海关表格。这项制度取代了传统纸质版本，旅客需在抵达巴厘岛前，于线上填写并提交资料，以利快速通关。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a91d6ead0d074002298ce1381182700c.png)
+![什么是巴厘岛电子海关申报表？](https://images.gobaligo.id/vocus/vocus_a91d6ead0d074002298ce1381182700c.png)
 
 表格主要用途为搜集旅客个人信息、行程安排及是否携带需申报物品。无论是外国游客或印尼公民返国，都需完成此项申报。
 
@@ -45,7 +45,7 @@ _srcHash: 9f8862ab56e55158e6b925254da7d999
 
 在表格中，你需填写以下信息：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_21d862589075e1a383688c90186a2d82.png)
+![第二页：个人资料字段](https://images.gobaligo.id/vocus/vocus_21d862589075e1a383688c90186a2d82.png)
 
 - Passport Number 护照号码（务必与护照一致）
 - Date of Arrival 抵达日期
@@ -57,7 +57,7 @@ _srcHash: 9f8862ab56e55158e6b925254da7d999
 - Number of Baggage Arriving with you 总行李件数（包含托运、登机行李。随身背包可以不算）
 - Family Arriving with You 同行家人人数（不包含你自己，最多十人。如有同行亲属，需额外填写他们的护照与个资）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f680fec20d1b6bf1f1cf3c81af7329d5.jpg)
+![第二页：个人资料字段](https://images.gobaligo.id/vocus/vocus_f680fec20d1b6bf1f1cf3c81af7329d5.jpg)
 
 表格右下角的 [+Add] 按钮可以增加同行的旅伴，最多可以再加入10位旅伴
 
@@ -67,7 +67,7 @@ _srcHash: 9f8862ab56e55158e6b925254da7d999
 
 ### **IMEI登记**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c76056591f440cfde9bebd9abb547364.png)
+![IMEI登记](https://images.gobaligo.id/vocus/vocus_c76056591f440cfde9bebd9abb547364.png)
 
 新版的eCD增加了一条「你是否打算使用在国外购买的手机、掌上电脑或平板，在抵达印尼后连接当地行动网」
 

@@ -25,7 +25,7 @@ Bawa orang tua liburan ke luar negeri, dari luarnya sih keliatan manis dan berba
 
 ## Kenapa bawa orang tua liburan itu nggak gampang?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e3af29c3d44c3341f926bc65755d9b29.png)
+![Kenapa bawa orang tua liburan itu nggak gampang?](https://images.gobaligo.id/vocus/vocus_e3af29c3d44c3341f926bc65755d9b29.png)
 
 ### **1. Tantangan perbedaan fisik**
 
@@ -51,7 +51,7 @@ Sebagian orang tua jadi cemas karena nggak familiar sama lingkungan asing, bahka
 
 ## Pengalaman Pahit: Kasus Orang Tua yang Nggak Mau Ikut
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c0d8fb61ba227fd4d75c613228e45179.png)
+![Pengalaman Pahit: Kasus Orang Tua yang Nggak Mau Ikut](https://images.gobaligo.id/vocus/vocus_c0d8fb61ba227fd4d75c613228e45179.png)
 
 Saat bawa orang tua traveling, karena perbedaan kebiasaan atau kekecewaan psikologis, sering muncul situasi di mana mereka nggak mau diajak kerja sama, bikin seluruh itinerary jadi mentok. Cerita nyata di bawah ini mungkin bakal relate banget buat banyak pembaca:
 
@@ -99,7 +99,7 @@ Pengalaman 'pahit' ini kelihatannya sepele, tapi kalau numpuk selama perjalanan,
 
 ## Gimana caranya kurangi situasi 'capek hati'?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7d15cb1eb2935e503e5fa653a8b8eb9e.jpg)
+![Gimana caranya kurangi situasi 'capek hati'?](https://images.gobaligo.id/vocus/vocus_7d15cb1eb2935e503e5fa653a8b8eb9e.jpg)
 
 **'Bawa orang tua liburan ke Bali' panduan cepat:**
 
@@ -178,7 +178,7 @@ Sebuah keluarga menginap di hotel di pusat keramaian Kuta, Bali. Malam hari, sua
 
 **Saran**: Pilih hotel yang jauh dari pusat keramaian, misalnya di area Sanur atau Jimbaran. Lingkungannya relatif lebih tenang dan nyaman.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_df8557ed9dccbc6cfc980f5c4810bf35.png)
+![9. Hindari lingkungan bising, jaga kenyamanan dan ketenangan](https://images.gobaligo.id/vocus/vocus_df8557ed9dccbc6cfc980f5c4810bf35.png)
 
 **Referensi Cepat:**
 
@@ -273,7 +273,7 @@ Liburan bareng orang tua, yang paling penting adalah sabar. Mereka mungkin ngelu
 
 ## Pengingat Terakhir: Setiap Momen di Perjalanan Itu Kenangan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_696668bc21571e4b94503611a5a3bc51.png)
+![Pengingat Terakhir: Setiap Momen di Perjalanan Itu Kenangan](https://images.gobaligo.id/vocus/vocus_696668bc21571e4b94503611a5a3bc51.png)
 
 Meskipun bawa orang tua ke luar negeri punya banyak hal kecil yang harus diperhatikan, percayalah, waktu bareng-bareng kayak gini bisa jadi kenangan paling berharga. Dengan persiapan matang, komunikasi sabar, dan kompromi yang pas, perjalanan ini bakal lebih lancar dan bermakna. Santai aja, anggap liburan ini sebagai 'trip mempererat hubungan keluarga'. Yakin deh, apapun yang terjadi, kenangannya bakal manis! 😊
 

@@ -24,7 +24,7 @@ _srcHash: 86d72283e63ef66ca8cfb72179cdd860
 
 Snorkeling is one of the most popular water activities in Bali. Even if you have no diving experience, as long as you can swim a little or have basic water confidence, you can easily enjoy Bali's vibrant underwater world. This tropical paradise offers numerous snorkeling spots perfect for beginners, ensuring unforgettable marine encounters.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_38db1470f7f6b3feed94185349288f6f.jpg)
+![Bali's Most Beautiful Snorkeling Spots: A Beginner-Friendly ](https://images.gobaligo.id/vocus/vocus_38db1470f7f6b3feed94185349288f6f.jpg)
 
 Before heading out, remember to choose a qualified operator, purchase travel insurance, and follow the safety instructions from your guide to ensure each snorkeling trip is both safe and exciting.
 
@@ -90,7 +90,7 @@ The calm waters here make it ideal for beginners. Snorkelers can explore a WWII-
 
 The famous USS Liberty shipwreck lies in relatively shallow waters, easily accessible to snorkelers. In addition to the wreck, the surrounding coral gardens and abundant fish make it a paradise for photography enthusiasts.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8b993725fd631efbf943b5af66e9e26b.jpg)
+![Tulamben: Dancing with the USS Liberty Shipwreck](https://images.gobaligo.id/vocus/vocus_8b993725fd631efbf943b5af66e9e26b.jpg)
 
 > [Amed/Tulamben Diving/Snorkeling Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1106567&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%259C%259F%25E8%2598%25AD%25E5%25A5%2594%25E6%25B5%25AE%25E6%25BD%259B)
 

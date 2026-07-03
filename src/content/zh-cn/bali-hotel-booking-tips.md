@@ -20,7 +20,7 @@ _srcHash: b15bb3b16f790b35f1b763e19fdac1fe
 
 在计划巴厘岛之旅时，订房是其中一项最重要的步骤之一。巴厘岛拥有各种豪华酒店、精致别墅和经济实惠的住宿选择，但如何找到符合预算又舒适的住宿？这里分享几个省钱小技巧，让你在巴厘岛订房时轻松省下一笔钱。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e1458b18b30d2ce80d48b7e014546a95.png)
+![巴厘岛的七个订房省钱小技巧](https://images.gobaligo.id/vocus/vocus_e1458b18b30d2ce80d48b7e014546a95.png)
 
 想要玩得尽兴又不会破产！赶快看看这些省钱妙招吧！
 
@@ -54,7 +54,7 @@ _srcHash: b15bb3b16f790b35f1b763e19fdac1fe
 
 使用比价网站或应用程序，例如Booking、Agoda等，比较不同住宿选项的价格和评价。这样可以确保你找到最划算的选择。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b53721b574da73c7eee1ef243acb1960.png)
+![比价搜索](https://images.gobaligo.id/vocus/vocus_b53721b574da73c7eee1ef243acb1960.png)
 
 预订、省钱就看这里：
 

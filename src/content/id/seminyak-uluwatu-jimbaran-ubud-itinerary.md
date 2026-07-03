@@ -24,7 +24,7 @@ _srcHash: 68961278a02d4ac3db9866103542b7a3
 
 Kali ini karena harus hadir di pernikahan teman, kami memilih berangkat ke Bali bulan Juli. Informasi wisata Bali memang sangat berantakan, kami butuh dua sampai tiga bulan untuk menyusun itinerary.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a22d6c37c8a63306b663eaf1af023ba8.jpg)
+![【Seminyak-Uluwatu-Jimbaran-Ubud】Itinerary Liburan Mandiri ke](https://images.gobaligo.id/vocus/vocus_a22d6c37c8a63306b663eaf1af023ba8.jpg)
 
 Selama perencanaan, kami sadar kalau lalu lintas di sana sangat kacau, sering ada sopir yang menolak penumpang antar-wilayah atau tiba-tiba menaikkan harga di tengah jalan. Biar nggak repot, kami putuskan pakai sopir sewaan. Ini nggak cuma mengurangi pusing cari kendaraan, tapi juga bikin perjalanan lebih lancar dan tenang. Sopir kami adalah Komang WikaSutresna (ada info di bagian paling bawah). Pada akhirnya, kami rasa pilih sewa mobil itu keputusan yang sangat cerdas!
 
@@ -72,15 +72,15 @@ Hari ini rutenya dari Jimbaran ke Ubud. Di tengah jalan, kami nemu restoran tuju
 
 Oh iya, di Gefecon Villa Ubud tempat kami nginep hari ini, ada seorang kakak supervisor asal Taiwan. Orangnya super ramah dan helpful banget, kalau ada masalah apa pun bisa langsung tanya dia.
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780822969520-86325578.jpg)
+![Hari Keempat:](https://images.gobaligo.id/images/2026-06/1780822969520-86325578.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780822970048-86325579.jpg)
+![Hari Keempat:](https://images.gobaligo.id/images/2026-06/1780822970048-86325579.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780822970587-86325585.jpg)
+![Hari Keempat:](https://images.gobaligo.id/images/2026-06/1780822970587-86325585.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780822971092-86334506.jpg)
+![Hari Keempat:](https://images.gobaligo.id/images/2026-06/1780822971092-86334506.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780822971461-87102433.jpg)
+![Hari Keempat:](https://images.gobaligo.id/images/2026-06/1780822971461-87102433.jpg)
 
 > Gefecon Villa Ubud [Harga Spesial Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1770500)
 
@@ -132,7 +132,7 @@ Di akhir perjalanan, kita ajak Komang makan malam bareng sebagai ucapan terima k
 
 Intinya, kalau ini pertama kali kamu ke Bali dan mau jalan-jalan ke beberapa tempat tapi bingung arahnya, sewa mobil + sopir itu pilihan yang pas banget. Selain dapet saran profesional, rute perjalanan jadi lebih gampang diatur, dan kamu nggak perlu pusing mikirin bawaan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1fd9d65047cadfd58a1e16cce702fbb1.jpg)
+![Rekomendasi Sewa Mobil + Sopir](https://images.gobaligo.id/vocus/vocus_1fd9d65047cadfd58a1e16cce702fbb1.jpg)
 
 Sopir kami, Komang Wika Sutresna, orangnya super ramah. Waktu dengar kami datang untuk nikahan, dia seneng banget, malah nunjukin video pernikahannya yang setahun lalu, dan video call sama anaknya yang lucu. Bahasa Inggris Komang lumayan, dan dia perhatian banget — kalau ada apa-apa di perjalanan, tinggal tanya aja, dia bakal jawab dengan sabar.
 
@@ -140,7 +140,7 @@ Komang serius banget sama setiap tamu. Selama beberapa hari perjalanan kami, dia
 
 ### Info Sopir:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d417da9787e70ff453294eb643a0276a.png)
+![Info Sopir:](https://images.gobaligo.id/vocus/vocus_d417da9787e70ff453294eb643a0276a.png)
 
 - ID Line : 31011994bopeas
 - Whatsapp : +62 821-4433-9665

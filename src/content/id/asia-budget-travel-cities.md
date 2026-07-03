@@ -123,7 +123,7 @@ Hong Kong
 **31. Singapura 🇸🇬**  
 Rata-rata pengeluaran harian: US$79.40
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17fc1009e3a69c8af92bc8d5c09fdbd2.jpg)
+![Kota dengan Biaya Tinggi (21-31):](https://images.gobaligo.id/vocus/vocus_17fc1009e3a69c8af92bc8d5c09fdbd2.jpg)
 
 - **Highlight**: Salah satu kota paling modern di Asia, bersih, tertib, dan transportasinya gampang, tapi biaya hidupnya lumayan tinggi.
 - **Tempat Wajib Dikunjungi**: Universal Studios, Gardens by the Bay, dan Merlion Park.

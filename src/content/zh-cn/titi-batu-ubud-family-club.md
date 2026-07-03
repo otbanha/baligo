@@ -30,7 +30,7 @@ _srcHash: be8b4bc58149dea15a7fa7d999c5db4a
 
 而位于乌布的 **Titi Batu Ubud Club**，却打破这个局限。这里结合了 **健身运动、亲子娱乐与放松休闲** 的多功能生活会馆，不仅能满足成人的运动与养生需求，同时也提供安全、宽敞且充满乐趣的空间给孩子。由于氛围融合自然气息与舒适设计，它更成为外籍家庭与当地居民的日常去处，是全家共享的乌布秘境天堂。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_cdccff4eb7d8371bef1024a0f77858f8.jpg)
+![【乌布亲子推荐】Titi Batu Ubud Club 攻略：大人健身按摩、小孩戏水放松的一日会馆体验](https://images.gobaligo.id/vocus/vocus_cdccff4eb7d8371bef1024a0f77858f8.jpg)
 
 ***
 
@@ -38,7 +38,7 @@ _srcHash: be8b4bc58149dea15a7fa7d999c5db4a
 
 ### **健身与运动场地**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eba6623de0c87553608421feec160e15.jpg)
+![健身与运动场地](https://images.gobaligo.id/vocus/vocus_eba6623de0c87553608421feec160e15.jpg)
 
 - 世界级健身房
 - 篮球场、壁球场、桌球区
@@ -46,7 +46,7 @@ _srcHash: be8b4bc58149dea15a7fa7d999c5db4a
 
 ### **水上设施与放松空间**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf4fce54cadd2343e4e9ffe0a5b9ff0e.jpg)
+![水上设施与放松空间](https://images.gobaligo.id/vocus/vocus_bf4fce54cadd2343e4e9ffe0a5b9ff0e.jpg)
 
 - 大型游泳池
 - 热水池与冷水池
@@ -54,7 +54,7 @@ _srcHash: be8b4bc58149dea15a7fa7d999c5db4a
 
 ### **亲子娱乐**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f9cea5400791f2842a2fbb039dadaae5.jpg)
+![亲子娱乐](https://images.gobaligo.id/vocus/vocus_f9cea5400791f2842a2fbb039dadaae5.jpg)
 
 - 儿童游戏室
 - 适合亲子同乐的戏水池
@@ -62,9 +62,9 @@ _srcHash: be8b4bc58149dea15a7fa7d999c5db4a
 
 ### **休闲与社交**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0d1f2f84406f7134621e2b2daa573e3c.jpg)
+![休闲与社交](https://images.gobaligo.id/vocus/vocus_0d1f2f84406f7134621e2b2daa573e3c.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_954074e0c8b366b35dd5757797a2c453.jpg)
+![休闲与社交](https://images.gobaligo.id/vocus/vocus_954074e0c8b366b35dd5757797a2c453.jpg)
 
 - 餐厅与咖啡区
 - 舞蹈教室、瑜伽教室
@@ -82,7 +82,7 @@ Titi Batu Ubud Club 建立在一片神圣土地上，邻近历史悠久的 **巴
 
 详细的位置请参考「乌布攻略地图」之「亲子友善游乐场、餐厅」，请按[这里](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac630e4994ccfac0738986cc0f642c61.png)
+![独特的地理与文化背景](https://images.gobaligo.id/vocus/vocus_ac630e4994ccfac0738986cc0f642c61.png)
 
 ***
 

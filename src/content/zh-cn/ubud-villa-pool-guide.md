@@ -34,23 +34,23 @@ _srcHash: 9ed22de597a9b432003eab114c15285e
 
 ## The Purist Villas & Spa – 价格实惠的顶级私人泳池别墅
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354982381-48e8d90bb62f8f003f9d7c4ed51cd3b4.jpeg)
+![The Purist Villas & Spa – 价格实惠的顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774354982381-48e8d90bb62f8f003f9d7c4ed51cd3b4.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354983248-57105431.jpeg)
+![The Purist Villas & Spa – 价格实惠的顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774354983248-57105431.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354983737-117493365.jpeg)
+![The Purist Villas & Spa – 价格实惠的顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774354983737-117493365.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354984079-124650011.jpeg)
+![The Purist Villas & Spa – 价格实惠的顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774354984079-124650011.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354984459-124650014.jpeg)
+![The Purist Villas & Spa – 价格实惠的顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774354984459-124650014.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354984867-124650022.jpeg)
+![The Purist Villas & Spa – 价格实惠的顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774354984867-124650022.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354985264-124650033.jpeg)
+![The Purist Villas & Spa – 价格实惠的顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774354985264-124650033.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354985673-141468369.jpeg)
+![The Purist Villas & Spa – 价格实惠的顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774354985673-141468369.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774354986009-219176023.jpeg)
+![The Purist Villas & Spa – 价格实惠的顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774354986009-219176023.jpeg)
 
 在乌布寻觅奢华享受却不想花大钱吗？The Purist Villas & Spa绝对是您的理想选择！这间别墅拥有令人惊叹的高端室内设计，提供宽敞空间、隐私性和舒适感，价格却出乎意料地实惠，堪称乌布最物超所值的私人泳池别墅之一。
 
@@ -70,21 +70,21 @@ _srcHash: 9ed22de597a9b432003eab114c15285e
 
 ## Tejaprana Bisma – 奢华享受，乌布顶级私人泳池别墅
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355078399-166353672.jpeg)
+![Tejaprana Bisma – 奢华享受，乌布顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355078399-166353672.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355079181-172372012.jpeg)
+![Tejaprana Bisma – 奢华享受，乌布顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355079181-172372012.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355079570-181286567.jpeg)
+![Tejaprana Bisma – 奢华享受，乌布顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355079570-181286567.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355079884-195410347.jpeg)
+![Tejaprana Bisma – 奢华享受，乌布顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355079884-195410347.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355080287-195410352.jpeg)
+![Tejaprana Bisma – 奢华享受，乌布顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355080287-195410352.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355080698-195412367.jpeg)
+![Tejaprana Bisma – 奢华享受，乌布顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355080698-195412367.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355081029-195568639.jpeg)
+![Tejaprana Bisma – 奢华享受，乌布顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355081029-195568639.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355081425-379533573.jpeg)
+![Tejaprana Bisma – 奢华享受，乌布顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355081425-379533573.jpeg)
 
 寻求让您惊叹不已的私人泳池别墅吗？ Tejaprana Bisma的奢华别墅绝对能满足您的需求！
 
@@ -102,21 +102,21 @@ _srcHash: 9ed22de597a9b432003eab114c15285e
 
 ## Bliss Spa Ubud Hotel – 乡村风情平价私人泳池别墅
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355130993-222603560.jpeg)
+![Bliss Spa Ubud Hotel – 乡村风情平价私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355130993-222603560.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355131406-222603569.jpeg)
+![Bliss Spa Ubud Hotel – 乡村风情平价私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355131406-222603569.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355131797-222729930.jpeg)
+![Bliss Spa Ubud Hotel – 乡村风情平价私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355131797-222729930.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355132112-222730303.jpeg)
+![Bliss Spa Ubud Hotel – 乡村风情平价私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355132112-222730303.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355132512-222730442.jpeg)
+![Bliss Spa Ubud Hotel – 乡村风情平价私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355132512-222730442.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355132945-222730739.jpeg)
+![Bliss Spa Ubud Hotel – 乡村风情平价私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355132945-222730739.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355133292-223011839.jpeg)
+![Bliss Spa Ubud Hotel – 乡村风情平价私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355133292-223011839.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355133767-290645384.jpeg)
+![Bliss Spa Ubud Hotel – 乡村风情平价私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355133767-290645384.jpeg)
 
 向往宁静悠闲的乡村度假体验吗？Bliss Spa Ubud Hotel绝对能满足您的需求。这座梦幻般的度假村坐落在稻田中央，提供舒适的住宿环境和优美的自然景观，让您尽情放松身心。度假村内设有私人泳池别墅，是追求奢华享受的绝佳选择。
 
@@ -130,21 +130,21 @@ _srcHash: 9ed22de597a9b432003eab114c15285e
 
 ## Amora Ubud Boutique Villas-浪漫远离尘嚣的中价私人泳池别墅
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355187951-466869788.jpeg)
+![Amora Ubud Boutique Villas-浪漫远离尘嚣的中价私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355187951-466869788.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355188440-466870667.jpeg)
+![Amora Ubud Boutique Villas-浪漫远离尘嚣的中价私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355188440-466870667.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355188949-466870739.jpeg)
+![Amora Ubud Boutique Villas-浪漫远离尘嚣的中价私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355188949-466870739.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355189351-466870787.jpeg)
+![Amora Ubud Boutique Villas-浪漫远离尘嚣的中价私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355189351-466870787.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355189729-466872145.jpeg)
+![Amora Ubud Boutique Villas-浪漫远离尘嚣的中价私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355189729-466872145.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355190085-466872168.jpeg)
+![Amora Ubud Boutique Villas-浪漫远离尘嚣的中价私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355190085-466872168.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355190589-457000330.jpeg)
+![Amora Ubud Boutique Villas-浪漫远离尘嚣的中价私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355190589-457000330.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774355191075-466869773.jpeg)
+![Amora Ubud Boutique Villas-浪漫远离尘嚣的中价私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774355191075-466869773.jpeg)
 
 想找适合情侣的乌布顶级私人泳池别墅吗？Amora Ubud Boutique Villas绝对是您的完美选择！ 这家精品度假村仅有 15 间隐密私人别墅，非常适合喜爱安静悠闲氛围的旅客。
 
@@ -158,21 +158,21 @@ _srcHash: 9ed22de597a9b432003eab114c15285e
 
 ## Homayoon Villa at Bisma Ubud – 中价位情侣享受绝佳私人泳池别墅
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359243533-373419753.jpeg)
+![Homayoon Villa at Bisma Ubud – 中价位情侣享受绝佳私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359243533-373419753.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359243918-371681282.jpeg)
+![Homayoon Villa at Bisma Ubud – 中价位情侣享受绝佳私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359243918-371681282.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359244337-371681284.jpeg)
+![Homayoon Villa at Bisma Ubud – 中价位情侣享受绝佳私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359244337-371681284.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359244664-371681308.jpeg)
+![Homayoon Villa at Bisma Ubud – 中价位情侣享受绝佳私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359244664-371681308.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359245000-371681311.jpeg)
+![Homayoon Villa at Bisma Ubud – 中价位情侣享受绝佳私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359245000-371681311.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359245371-371681312.jpeg)
+![Homayoon Villa at Bisma Ubud – 中价位情侣享受绝佳私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359245371-371681312.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359245764-373419724.jpeg)
+![Homayoon Villa at Bisma Ubud – 中价位情侣享受绝佳私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359245764-373419724.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359246185-373419727.jpeg)
+![Homayoon Villa at Bisma Ubud – 中价位情侣享受绝佳私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359246185-373419727.jpeg)
 
 在预算有限的情况下，想与另一半在乌布享受顶级私人泳池别墅的奢华吗？ Homayoon Villa 绝对是您的完美选择！ 别墅提供高性价比的顶级住宿，既有共用泳池，也有隐秘的独立泳池别墅。
 
@@ -188,21 +188,21 @@ _srcHash: 9ed22de597a9b432003eab114c15285e
 
 ## Beehouse Dijiwa Ubud - 坐拥景观与隐私的情侣完美别墅
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359303631-210970722.jpeg)
+![Beehouse Dijiwa Ubud - 坐拥景观与隐私的情侣完美别墅](https://images.gobaligo.id/images/2026-03/1774359303631-210970722.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359304462-209584999.jpeg)
+![Beehouse Dijiwa Ubud - 坐拥景观与隐私的情侣完美别墅](https://images.gobaligo.id/images/2026-03/1774359304462-209584999.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359304953-210970627.jpeg)
+![Beehouse Dijiwa Ubud - 坐拥景观与隐私的情侣完美别墅](https://images.gobaligo.id/images/2026-03/1774359304953-210970627.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359305360-210970707.jpeg)
+![Beehouse Dijiwa Ubud - 坐拥景观与隐私的情侣完美别墅](https://images.gobaligo.id/images/2026-03/1774359305360-210970707.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359305779-311351360.jpeg)
+![Beehouse Dijiwa Ubud - 坐拥景观与隐私的情侣完美别墅](https://images.gobaligo.id/images/2026-03/1774359305779-311351360.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359306158-311353272.jpeg)
+![Beehouse Dijiwa Ubud - 坐拥景观与隐私的情侣完美别墅](https://images.gobaligo.id/images/2026-03/1774359306158-311353272.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359306594-489141300.jpeg)
+![Beehouse Dijiwa Ubud - 坐拥景观与隐私的情侣完美别墅](https://images.gobaligo.id/images/2026-03/1774359306594-489141300.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359307003-489157537.jpeg)
+![Beehouse Dijiwa Ubud - 坐拥景观与隐私的情侣完美别墅](https://images.gobaligo.id/images/2026-03/1774359307003-489157537.jpeg)
 
 蜜蜂屋（Beehouse Dijiwa Ubud）提供独特设计的私人别墅，充满个性，是寻求景观与隐私的情侣绝佳选择。 别墅坐拥乡村美景，同时便利前往乌布提供的一切精彩体验。
 
@@ -218,21 +218,21 @@ _srcHash: 9ed22de597a9b432003eab114c15285e
 
 ## Ayuterra Resort – 拥有绝佳私人泳池的巴厘岛顶级别墅
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359349249-94811283.jpeg)
+![Ayuterra Resort – 拥有绝佳私人泳池的巴厘岛顶级别墅](https://images.gobaligo.id/images/2026-03/1774359349249-94811283.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359349753-158456810.jpeg)
+![Ayuterra Resort – 拥有绝佳私人泳池的巴厘岛顶级别墅](https://images.gobaligo.id/images/2026-03/1774359349753-158456810.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359350639-158456815.jpeg)
+![Ayuterra Resort – 拥有绝佳私人泳池的巴厘岛顶级别墅](https://images.gobaligo.id/images/2026-03/1774359350639-158456815.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359351156-165248513.jpeg)
+![Ayuterra Resort – 拥有绝佳私人泳池的巴厘岛顶级别墅](https://images.gobaligo.id/images/2026-03/1774359351156-165248513.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359351562-165249780.jpeg)
+![Ayuterra Resort – 拥有绝佳私人泳池的巴厘岛顶级别墅](https://images.gobaligo.id/images/2026-03/1774359351562-165249780.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359351962-165249794.jpeg)
+![Ayuterra Resort – 拥有绝佳私人泳池的巴厘岛顶级别墅](https://images.gobaligo.id/images/2026-03/1774359351962-165249794.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359352270-165250377.jpeg)
+![Ayuterra Resort – 拥有绝佳私人泳池的巴厘岛顶级别墅](https://images.gobaligo.id/images/2026-03/1774359352270-165250377.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359352673-165250385.jpeg)
+![Ayuterra Resort – 拥有绝佳私人泳池的巴厘岛顶级别墅](https://images.gobaligo.id/images/2026-03/1774359352673-165250385.jpeg)
 
 阿柚特拉度假村的奢华私人别墅必定让您惊叹不已。 高端的设计装潢、宽敞的空间以及令人叹为观止的景致，使这些别墅成为巴厘岛最顶级的私人泳池别墅之一。
 
@@ -250,25 +250,25 @@ _srcHash: 9ed22de597a9b432003eab114c15285e
 
 ## The Hidden Paradise – 景致宜人、设备多元的乌布住宿
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359412784-223689835.jpeg)
+![The Hidden Paradise – 景致宜人、设备多元的乌布住宿](https://images.gobaligo.id/images/2026-03/1774359412784-223689835.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359413214-187681317.jpeg)
+![The Hidden Paradise – 景致宜人、设备多元的乌布住宿](https://images.gobaligo.id/images/2026-03/1774359413214-187681317.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359413620-331047587.jpeg)
+![The Hidden Paradise – 景致宜人、设备多元的乌布住宿](https://images.gobaligo.id/images/2026-03/1774359413620-331047587.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359414009-334497391.jpeg)
+![The Hidden Paradise – 景致宜人、设备多元的乌布住宿](https://images.gobaligo.id/images/2026-03/1774359414009-334497391.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359414403-334498059.jpeg)
+![The Hidden Paradise – 景致宜人、设备多元的乌布住宿](https://images.gobaligo.id/images/2026-03/1774359414403-334498059.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359414734-488623326.jpeg)
+![The Hidden Paradise – 景致宜人、设备多元的乌布住宿](https://images.gobaligo.id/images/2026-03/1774359414734-488623326.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359415139-488623391.jpeg)
+![The Hidden Paradise – 景致宜人、设备多元的乌布住宿](https://images.gobaligo.id/images/2026-03/1774359415139-488623391.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359415550-489606648.jpeg)
+![The Hidden Paradise – 景致宜人、设备多元的乌布住宿](https://images.gobaligo.id/images/2026-03/1774359415550-489606648.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359415880-592729862.jpg)
+![The Hidden Paradise – 景致宜人、设备多元的乌布住宿](https://images.gobaligo.id/images/2026-03/1774359415880-592729862.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359416237-whatsapp_image_2021-12-29_at_6.16.06_am.jpeg)
+![The Hidden Paradise – 景致宜人、设备多元的乌布住宿](https://images.gobaligo.id/images/2026-03/1774359416237-whatsapp_image_2021-12-29_at_6.16.06_am.jpeg)
 
 乌布秘境天堂度假村（The Hidden Paradise Ubud）提供多元的住宿选择，非常适合各种旅游团体，无论是三五好友结伴出游，还是需要迎合不同住宿需求的多代同堂家庭，都能找到理想房型。度假村正如其名，隐身于幽静的绿叶之中，拥有辽阔的森林景观。
 
@@ -286,21 +286,21 @@ _srcHash: 9ed22de597a9b432003eab114c15285e
 
 ## Mandana Ubud Villa – 隐身热带天堂的顶级私人泳池别墅
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359466557-404292667.jpeg)
+![Mandana Ubud Villa – 隐身热带天堂的顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359466557-404292667.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359466987-404292547.jpeg)
+![Mandana Ubud Villa – 隐身热带天堂的顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359466987-404292547.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359467380-404292766.jpeg)
+![Mandana Ubud Villa – 隐身热带天堂的顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359467380-404292766.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359467776-404292854.jpeg)
+![Mandana Ubud Villa – 隐身热带天堂的顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359467776-404292854.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359468108-404292889.jpeg)
+![Mandana Ubud Villa – 隐身热带天堂的顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359468108-404292889.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359468500-404292990.jpeg)
+![Mandana Ubud Villa – 隐身热带天堂的顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359468500-404292990.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359468905-404293434.jpeg)
+![Mandana Ubud Villa – 隐身热带天堂的顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359468905-404293434.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359469314-404294538.jpeg)
+![Mandana Ubud Villa – 隐身热带天堂的顶级私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359469314-404294538.jpeg)
 
 Mandana Ubud Villa巧妙地融入棕榈树和稻田之间，精心设计的别墅让您仿佛置身于私密的世外桃源。若您向往私密奢华的环境，渴望沉浸在大自然之中，Mandana Ubud Villa绝对是您的理想选择。
 
@@ -316,21 +316,21 @@ Mandana Ubud Villa巧妙地融入棕榈树和稻田之间，精心设计的别�
 
 ## Madani Antique Villas – 经济实惠的情侣浪漫私人泳池别墅
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359542577-322295691.jpeg)
+![Madani Antique Villas – 经济实惠的情侣浪漫私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359542577-322295691.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359543362-163696211.jpeg)
+![Madani Antique Villas – 经济实惠的情侣浪漫私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359543362-163696211.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359543769-322295861.jpeg)
+![Madani Antique Villas – 经济实惠的情侣浪漫私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359543769-322295861.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359544285-322395218.jpeg)
+![Madani Antique Villas – 经济实惠的情侣浪漫私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359544285-322395218.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359544686-322397093.jpeg)
+![Madani Antique Villas – 经济实惠的情侣浪漫私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359544686-322397093.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359545088-322397125.jpeg)
+![Madani Antique Villas – 经济实惠的情侣浪漫私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359545088-322397125.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359545458-333254441.jpeg)
+![Madani Antique Villas – 经济实惠的情侣浪漫私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359545458-333254441.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359545809-374758928.jpeg)
+![Madani Antique Villas – 经济实惠的情侣浪漫私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359545809-374758928.jpeg)
 
 在乌布寻觅价格实惠的浪漫出走吗？ 玛丹妮珍藏别墅（Madani Antique Villas）绝对是您的完美选择！ 这栋巴厘岛风情私人别墅空间宽敞、私密性佳，并融入浪漫元素，坐落在田园诗般的乡村环境中，价格却出乎意料的实惠，非常适合蜜月或情侣旅行。
 
@@ -346,21 +346,21 @@ Mandana Ubud Villa巧妙地融入棕榈树和稻田之间，精心设计的别�
 
 ## Airsania Ubud Antique Villas – 拥抱大自然的情侣完美私人泳池别墅
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359602858-372926347.jpeg)
+![Airsania Ubud Antique Villas – 拥抱大自然的情侣完美私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359602858-372926347.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359603316-372926346.jpeg)
+![Airsania Ubud Antique Villas – 拥抱大自然的情侣完美私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359603316-372926346.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359603793-372927204.jpeg)
+![Airsania Ubud Antique Villas – 拥抱大自然的情侣完美私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359603793-372927204.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359604205-372927820.jpeg)
+![Airsania Ubud Antique Villas – 拥抱大自然的情侣完美私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359604205-372927820.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359604720-372937096.jpeg)
+![Airsania Ubud Antique Villas – 拥抱大自然的情侣完美私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359604720-372937096.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359605231-372937756.jpeg)
+![Airsania Ubud Antique Villas – 拥抱大自然的情侣完美私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359605231-372937756.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359605630-385611740.jpeg)
+![Airsania Ubud Antique Villas – 拥抱大自然的情侣完美私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359605630-385611740.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359606012-385612669.jpeg)
+![Airsania Ubud Antique Villas – 拥抱大自然的情侣完美私人泳池别墅](https://images.gobaligo.id/images/2026-03/1774359606012-385612669.jpeg)
 
 艾尔莎尼亚乌布传统别墅（Airsania Ubud Antique Villas）是间令人惊艳的四星级旅宿，以友善的顾客服务著称。 这里共有三栋采用传统爪哇建筑风格的私人别墅，提供温馨舒适的入住体验。
 
@@ -376,25 +376,25 @@ Mandana Ubud Villa巧妙地融入棕榈树和稻田之间，精心设计的别�
 
 ## Ume Sri Villas Ubud – 情侣们的高性价比泳池别墅
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359648227-116437194.jpeg)
+![Ume Sri Villas Ubud – 情侣们的高性价比泳池别墅](https://images.gobaligo.id/images/2026-03/1774359648227-116437194.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359649042-116437197.jpeg)
+![Ume Sri Villas Ubud – 情侣们的高性价比泳池别墅](https://images.gobaligo.id/images/2026-03/1774359649042-116437197.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359649435-116437201.jpeg)
+![Ume Sri Villas Ubud – 情侣们的高性价比泳池别墅](https://images.gobaligo.id/images/2026-03/1774359649435-116437201.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359649869-116811325.jpeg)
+![Ume Sri Villas Ubud – 情侣们的高性价比泳池别墅](https://images.gobaligo.id/images/2026-03/1774359649869-116811325.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359650191-117312325.jpeg)
+![Ume Sri Villas Ubud – 情侣们的高性价比泳池别墅](https://images.gobaligo.id/images/2026-03/1774359650191-117312325.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359650558-117312326.jpeg)
+![Ume Sri Villas Ubud – 情侣们的高性价比泳池别墅](https://images.gobaligo.id/images/2026-03/1774359650558-117312326.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359650957-117312327.jpeg)
+![Ume Sri Villas Ubud – 情侣们的高性价比泳池别墅](https://images.gobaligo.id/images/2026-03/1774359650957-117312327.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359651377-117312328.jpeg)
+![Ume Sri Villas Ubud – 情侣们的高性价比泳池别墅](https://images.gobaligo.id/images/2026-03/1774359651377-117312328.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359651714-117312332.jpeg)
+![Ume Sri Villas Ubud – 情侣们的高性价比泳池别墅](https://images.gobaligo.id/images/2026-03/1774359651714-117312332.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359652030-117312339.jpeg)
+![Ume Sri Villas Ubud – 情侣们的高性价比泳池别墅](https://images.gobaligo.id/images/2026-03/1774359652030-117312339.jpeg)
 
 以实惠价格享受奢华体验，乌梅斯里别墅（Ume Sri Villas Ubud）绝对是您的完美选择！这里的现代化别墅经过精心设计，充分利用空间，是乌布最经济实惠的泳池别墅。
 
@@ -408,25 +408,25 @@ Mandana Ubud Villa巧妙地融入棕榈树和稻田之间，精心设计的别�
 
 ## Jungleight Bali - 轻奢版竹子别墅
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359687420-504214154.jpg)
+![Jungleight Bali - 轻奢版竹子别墅](https://images.gobaligo.id/images/2026-03/1774359687420-504214154.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359688053-504214368.jpg)
+![Jungleight Bali - 轻奢版竹子别墅](https://images.gobaligo.id/images/2026-03/1774359688053-504214368.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359688457-504214401.jpg)
+![Jungleight Bali - 轻奢版竹子别墅](https://images.gobaligo.id/images/2026-03/1774359688457-504214401.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359688859-504214431.jpg)
+![Jungleight Bali - 轻奢版竹子别墅](https://images.gobaligo.id/images/2026-03/1774359688859-504214431.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359689373-504214513.jpg)
+![Jungleight Bali - 轻奢版竹子别墅](https://images.gobaligo.id/images/2026-03/1774359689373-504214513.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359689784-504214543.jpg)
+![Jungleight Bali - 轻奢版竹子别墅](https://images.gobaligo.id/images/2026-03/1774359689784-504214543.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359690196-504522417.jpg)
+![Jungleight Bali - 轻奢版竹子别墅](https://images.gobaligo.id/images/2026-03/1774359690196-504522417.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359690599-504522525.jpg)
+![Jungleight Bali - 轻奢版竹子别墅](https://images.gobaligo.id/images/2026-03/1774359690599-504522525.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359690940-504612186.jpg)
+![Jungleight Bali - 轻奢版竹子别墅](https://images.gobaligo.id/images/2026-03/1774359690940-504612186.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359691289-504637988.jpg)
+![Jungleight Bali - 轻奢版竹子别墅](https://images.gobaligo.id/images/2026-03/1774359691289-504637988.jpg)
 
 **地理位置**｜Jungleight Bali 位于德哥拉朗，距离乌布皇宫 8.4 公里。周边步行十分钟有三家漂亮的景观餐厅。
 
@@ -440,25 +440,25 @@ Mandana Ubud Villa巧妙地融入棕榈树和稻田之间，精心设计的别�
 
 ## Alam Wayang Ubud - 闹中取静，距离市区不远的安静丛林风格
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359758341-308153567.jpg)
+![Alam Wayang Ubud - 闹中取静，距离市区不远的安静丛林风格](https://images.gobaligo.id/images/2026-03/1774359758341-308153567.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359758713-301781171.jpg)
+![Alam Wayang Ubud - 闹中取静，距离市区不远的安静丛林风格](https://images.gobaligo.id/images/2026-03/1774359758713-301781171.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359759103-301781965.jpg)
+![Alam Wayang Ubud - 闹中取静，距离市区不远的安静丛林风格](https://images.gobaligo.id/images/2026-03/1774359759103-301781965.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359759511-301782715.jpg)
+![Alam Wayang Ubud - 闹中取静，距离市区不远的安静丛林风格](https://images.gobaligo.id/images/2026-03/1774359759511-301782715.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359759923-301784049.jpg)
+![Alam Wayang Ubud - 闹中取静，距离市区不远的安静丛林风格](https://images.gobaligo.id/images/2026-03/1774359759923-301784049.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359760340-301788175.jpg)
+![Alam Wayang Ubud - 闹中取静，距离市区不远的安静丛林风格](https://images.gobaligo.id/images/2026-03/1774359760340-301788175.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359760741-406270498.jpg)
+![Alam Wayang Ubud - 闹中取静，距离市区不远的安静丛林风格](https://images.gobaligo.id/images/2026-03/1774359760741-406270498.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359761148-406270521.jpg)
+![Alam Wayang Ubud - 闹中取静，距离市区不远的安静丛林风格](https://images.gobaligo.id/images/2026-03/1774359761148-406270521.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359761563-406270545.jpg)
+![Alam Wayang Ubud - 闹中取静，距离市区不远的安静丛林风格](https://images.gobaligo.id/images/2026-03/1774359761563-406270545.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359761872-406270563.jpg)
+![Alam Wayang Ubud - 闹中取静，距离市区不远的安静丛林风格](https://images.gobaligo.id/images/2026-03/1774359761872-406270563.jpg)
 
 **位置**｜Alam Wayang Ubud - CHSE Certified 是一间位于乌布的四星级度假村，距离布兰科博物馆（Blanco Museum）仅 800 米。这里环境清幽，距离乌布市区约十分钟车程，晚上没有嘈杂声，是放松身心的理想选择。度假村旁边还有许多小店和瑜伽馆，住客可以惬意地探索周边环境。
 
@@ -470,25 +470,25 @@ Mandana Ubud Villa巧妙地融入棕榈树和稻田之间，精心设计的别�
 
 ## **Tanah Gajah, a Resort by Hadiprana - 乌布的世外桃源**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359911872-148960887.jpg)
+![Tanah Gajah, a Resort by Hadiprana - 乌布的世外桃源](https://images.gobaligo.id/images/2026-03/1774359911872-148960887.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359912309-49706884.jpg)
+![Tanah Gajah, a Resort by Hadiprana - 乌布的世外桃源](https://images.gobaligo.id/images/2026-03/1774359912309-49706884.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359912716-148964233.jpg)
+![Tanah Gajah, a Resort by Hadiprana - 乌布的世外桃源](https://images.gobaligo.id/images/2026-03/1774359912716-148964233.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359913223-148964236.jpg)
+![Tanah Gajah, a Resort by Hadiprana - 乌布的世外桃源](https://images.gobaligo.id/images/2026-03/1774359913223-148964236.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359913542-148967973.jpg)
+![Tanah Gajah, a Resort by Hadiprana - 乌布的世外桃源](https://images.gobaligo.id/images/2026-03/1774359913542-148967973.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359913942-148970216.jpg)
+![Tanah Gajah, a Resort by Hadiprana - 乌布的世外桃源](https://images.gobaligo.id/images/2026-03/1774359913942-148970216.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359914306-148970219.jpg)
+![Tanah Gajah, a Resort by Hadiprana - 乌布的世外桃源](https://images.gobaligo.id/images/2026-03/1774359914306-148970219.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359914653-269242725.jpg)
+![Tanah Gajah, a Resort by Hadiprana - 乌布的世外桃源](https://images.gobaligo.id/images/2026-03/1774359914653-269242725.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359915061-484458616.jpg)
+![Tanah Gajah, a Resort by Hadiprana - 乌布的世外桃源](https://images.gobaligo.id/images/2026-03/1774359915061-484458616.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359915471-508029509.jpg)
+![Tanah Gajah, a Resort by Hadiprana - 乌布的世外桃源](https://images.gobaligo.id/images/2026-03/1774359915471-508029509.jpg)
 
 **位置**｜Tanah Gajah 位于乌布，距离市中心约 3 公里，环绕在广阔的稻田之中，为旅客提供了绝佳的静谧度假环境。这里远离喧嚣，是寻求宁静和放松的理想之地。
 
@@ -504,25 +504,25 @@ Tanah Gajah 结合了奢华与宁静，是一处能让身心获得全面放松�
 
 ## **Ubud Paradise Villa 别墅 - 静谧的田园度假之选**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359974522-489923166.jpg)
+![Ubud Paradise Villa 别墅 - 静谧的田园度假之选](https://images.gobaligo.id/images/2026-03/1774359974522-489923166.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359975005-422155003.jpg)
+![Ubud Paradise Villa 别墅 - 静谧的田园度假之选](https://images.gobaligo.id/images/2026-03/1774359975005-422155003.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359975382-422157225.jpg)
+![Ubud Paradise Villa 别墅 - 静谧的田园度假之选](https://images.gobaligo.id/images/2026-03/1774359975382-422157225.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359975819-448671160.jpg)
+![Ubud Paradise Villa 别墅 - 静谧的田园度假之选](https://images.gobaligo.id/images/2026-03/1774359975819-448671160.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359976330-489638478.jpg)
+![Ubud Paradise Villa 别墅 - 静谧的田园度假之选](https://images.gobaligo.id/images/2026-03/1774359976330-489638478.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359976742-489639147.jpg)
+![Ubud Paradise Villa 别墅 - 静谧的田园度假之选](https://images.gobaligo.id/images/2026-03/1774359976742-489639147.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359977183-489639295.jpg)
+![Ubud Paradise Villa 别墅 - 静谧的田园度假之选](https://images.gobaligo.id/images/2026-03/1774359977183-489639295.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359977656-490265875.jpg)
+![Ubud Paradise Villa 别墅 - 静谧的田园度假之选](https://images.gobaligo.id/images/2026-03/1774359977656-490265875.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359978054-490266838.jpg)
+![Ubud Paradise Villa 别墅 - 静谧的田园度假之选](https://images.gobaligo.id/images/2026-03/1774359978054-490266838.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774359978456-496551218.jpg)
+![Ubud Paradise Villa 别墅 - 静谧的田园度假之选](https://images.gobaligo.id/images/2026-03/1774359978456-496551218.jpg)
 
 **位置**｜Ubud Paradise Villa 位于乌布，四周环绕着青翠的稻田，别墅内有郁郁葱葱的热带花园和私人游泳池，让您在自然中彻底放松。别墅距离乌布市场和乌布皇宫仅 2.7 公里，位置既安静又方便。别墅附近有多家咖啡馆、地道巴厘岛餐厅以及健身房，走路只需 2-3 分钟。
 
@@ -536,23 +536,23 @@ Ubud Paradise Villa 结合了宁静与便利，是想要远离城市喧嚣但又
 
 ## **Inara Alas Harum - 丛林中的隐世天堂**
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360028362-503284810.jpg)
+![Inara Alas Harum - 丛林中的隐世天堂](https://images.gobaligo.id/images/2026-03/1774360028362-503284810.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360028740-465927763.jpg)
+![Inara Alas Harum - 丛林中的隐世天堂](https://images.gobaligo.id/images/2026-03/1774360028740-465927763.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360029055-479855319.jpg)
+![Inara Alas Harum - 丛林中的隐世天堂](https://images.gobaligo.id/images/2026-03/1774360029055-479855319.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360029442-479855331.jpg)
+![Inara Alas Harum - 丛林中的隐世天堂](https://images.gobaligo.id/images/2026-03/1774360029442-479855331.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360029748-480812338.jpg)
+![Inara Alas Harum - 丛林中的隐世天堂](https://images.gobaligo.id/images/2026-03/1774360029748-480812338.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360030133-480814904.jpg)
+![Inara Alas Harum - 丛林中的隐世天堂](https://images.gobaligo.id/images/2026-03/1774360030133-480814904.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360030474-503284840.jpg)
+![Inara Alas Harum - 丛林中的隐世天堂](https://images.gobaligo.id/images/2026-03/1774360030474-503284840.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360030884-503284846.jpg)
+![Inara Alas Harum - 丛林中的隐世天堂](https://images.gobaligo.id/images/2026-03/1774360030884-503284846.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360031203-579913536.jpg)
+![Inara Alas Harum - 丛林中的隐世天堂](https://images.gobaligo.id/images/2026-03/1774360031203-579913536.jpg)
 
 **位置**｜Inara Alas Harum位于Tegallalang稻田7.8公里处，虽然距离热闹区域较远，但酒店提供前往乌布市中心的免费接驳车，非常方便。
 
@@ -566,25 +566,25 @@ Ubud Paradise Villa 结合了宁静与便利，是想要远离城市喧嚣但又
 
 ## Bidadari Private Villas & Retreat 享受世界级服务
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360142434-130243921.jpg)
+![Bidadari Private Villas & Retreat 享受世界级服务](https://images.gobaligo.id/images/2026-03/1774360142434-130243921.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360142820-151014316.jpg)
+![Bidadari Private Villas & Retreat 享受世界级服务](https://images.gobaligo.id/images/2026-03/1774360142820-151014316.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360143214-201011185.jpg)
+![Bidadari Private Villas & Retreat 享受世界级服务](https://images.gobaligo.id/images/2026-03/1774360143214-201011185.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360143616-201191798.jpg)
+![Bidadari Private Villas & Retreat 享受世界级服务](https://images.gobaligo.id/images/2026-03/1774360143616-201191798.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360144043-201214363.jpg)
+![Bidadari Private Villas & Retreat 享受世界级服务](https://images.gobaligo.id/images/2026-03/1774360144043-201214363.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360144377-201215647.jpg)
+![Bidadari Private Villas & Retreat 享受世界级服务](https://images.gobaligo.id/images/2026-03/1774360144377-201215647.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360144857-_17140994.jpeg)
+![Bidadari Private Villas & Retreat 享受世界级服务](https://images.gobaligo.id/images/2026-03/1774360144857-_17140994.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360145282-_130243891.jpeg)
+![Bidadari Private Villas & Retreat 享受世界级服务](https://images.gobaligo.id/images/2026-03/1774360145282-_130243891.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360145674-_130243896.jpeg)
+![Bidadari Private Villas & Retreat 享受世界级服务](https://images.gobaligo.id/images/2026-03/1774360145674-_130243896.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360146002-_516683475.jpeg)
+![Bidadari Private Villas & Retreat 享受世界级服务](https://images.gobaligo.id/images/2026-03/1774360146002-_516683475.jpeg)
 
 **位置**｜Bidadari Private Villas & Retreat位于乌布的郊区，距离乌布市中心仅需10分钟的车程。这里环境安静优美，四周环绕着热带植物，是个理想的度假场所，非常适合蜜月旅行或希望远离喧嚣的旅客。不过，若是计划参加乌布的活动或品尝美食餐厅，则需考虑交通时间，大约需要20分钟至半小时。
 
@@ -610,21 +610,21 @@ Ubud Paradise Villa 结合了宁静与便利，是想要远离城市喧嚣但又
 
 ## E Sanctuary Resort Ubud 2024最新五星villa
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360266747-v6-honeymoon-setup-bed-scaled.jpg)
+![E Sanctuary Resort Ubud 2024最新五星villa](https://images.gobaligo.id/images/2026-03/1774360266747-v6-honeymoon-setup-bed-scaled.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360267338-t080325-e.-sanctuary-resort-and-rain-forest-restauranta.1-20-scaled.jpg)
+![E Sanctuary Resort Ubud 2024最新五星villa](https://images.gobaligo.id/images/2026-03/1774360267338-t080325-e.-sanctuary-resort-and-rain-forest-restauranta.1-20-scaled.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360267945-t080325-e.-sanctuary-resort-and-rain-forest-restauranta.1-21-scaled.jpg)
+![E Sanctuary Resort Ubud 2024最新五星villa](https://images.gobaligo.id/images/2026-03/1774360267945-t080325-e.-sanctuary-resort-and-rain-forest-restauranta.1-21-scaled.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360268490-v24-private-pool-villa-scaled.jpg)
+![E Sanctuary Resort Ubud 2024最新五星villa](https://images.gobaligo.id/images/2026-03/1774360268490-v24-private-pool-villa-scaled.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360269204-v080325-e.-sanctuary-resort-and-rain-forest-restaurant-m.2-17-scaled.jpg)
+![E Sanctuary Resort Ubud 2024最新五星villa](https://images.gobaligo.id/images/2026-03/1774360269204-v080325-e.-sanctuary-resort-and-rain-forest-restaurant-m.2-17-scaled.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360269734-v080325-e.-sanctuary-resort-and-rain-forest-restauranta.1-2-scaled.jpg)
+![E Sanctuary Resort Ubud 2024最新五星villa](https://images.gobaligo.id/images/2026-03/1774360269734-v080325-e.-sanctuary-resort-and-rain-forest-restauranta.1-2-scaled.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360270141-vb04f0fe6905642d5d4b9b358618e5329.jpeg)
+![E Sanctuary Resort Ubud 2024最新五星villa](https://images.gobaligo.id/images/2026-03/1774360270141-vb04f0fe6905642d5d4b9b358618e5329.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360270495-vf2ef614b07e6a259ee27e0695c4f3f72.jpeg)
+![E Sanctuary Resort Ubud 2024最新五星villa](https://images.gobaligo.id/images/2026-03/1774360270495-vf2ef614b07e6a259ee27e0695c4f3f72.jpeg)
 
 **地理位置**｜2024年新开业的 E Sanctuary Resort Ubud 坐落于巴厘岛乌布闹中取静的位置，距离市中心约 20–30 分钟车程，兼具宁静与便利性。邻近多个著名景点如圣猴森林、德格拉朗梯田与乌布传统市场，并围绕着各式在地美食与艺术手工艺村，如银饰村 Celuk 与木雕村 Mas，是体验巴厘岛文化的绝佳据点。
 
@@ -638,25 +638,25 @@ Ubud Paradise Villa 结合了宁静与便利，是想要远离城市喧嚣但又
 
 ## **The Ambengan Villas Ubud by Pramana Villas** 闹中取静的好选择
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360355434-69f2625bca68d359eae19ce16c2cd065.jpeg)
+![The Ambengan Villas Ubud by Pramana Villas 闹中取静的好选择](https://images.gobaligo.id/images/2026-03/1774360355434-69f2625bca68d359eae19ce16c2cd065.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360355995-71f8d2ec8c6bf42b8cee817a6fd4c008.jpeg)
+![The Ambengan Villas Ubud by Pramana Villas 闹中取静的好选择](https://images.gobaligo.id/images/2026-03/1774360355995-71f8d2ec8c6bf42b8cee817a6fd4c008.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360356536-182f722c4b1530a8093ee637063ad49a.jpeg)
+![The Ambengan Villas Ubud by Pramana Villas 闹中取静的好选择](https://images.gobaligo.id/images/2026-03/1774360356536-182f722c4b1530a8093ee637063ad49a.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360357094-548958744.jpg)
+![The Ambengan Villas Ubud by Pramana Villas 闹中取静的好选择](https://images.gobaligo.id/images/2026-03/1774360357094-548958744.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360357561-558872149.jpg)
+![The Ambengan Villas Ubud by Pramana Villas 闹中取静的好选择](https://images.gobaligo.id/images/2026-03/1774360357561-558872149.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360357977-558872169.jpg)
+![The Ambengan Villas Ubud by Pramana Villas 闹中取静的好选择](https://images.gobaligo.id/images/2026-03/1774360357977-558872169.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360358349-562314643.jpg)
+![The Ambengan Villas Ubud by Pramana Villas 闹中取静的好选择](https://images.gobaligo.id/images/2026-03/1774360358349-562314643.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360358805-562314653.jpg)
+![The Ambengan Villas Ubud by Pramana Villas 闹中取静的好选择](https://images.gobaligo.id/images/2026-03/1774360358805-562314653.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360359319-c9c19c0e48144c9e42c8f5cdd5656c7a.jpeg)
+![The Ambengan Villas Ubud by Pramana Villas 闹中取静的好选择](https://images.gobaligo.id/images/2026-03/1774360359319-c9c19c0e48144c9e42c8f5cdd5656c7a.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774360359884-d239345d1540ed321f9c749ed1a4279b.jpeg)
+![The Ambengan Villas Ubud by Pramana Villas 闹中取静的好选择](https://images.gobaligo.id/images/2026-03/1774360359884-d239345d1540ed321f9c749ed1a4279b.jpeg)
 
 **地理位置**｜The Ambengan Villas Ubud by Pramana Villas 坐落在巴厘岛文化重镇乌布。地点邻近圣猴森林、德哥拉朗梯田与乌布市集，无论是自然景观或在地文化，都能轻松抵达，是探索乌布的绝佳起点。
 
@@ -674,7 +674,7 @@ The Ambengan Villas 拥有 Agoda 评分 9.6 的好口碑，尤其以员工服务
 
 附上我们持续更新介绍的乌布villa详细位置&地图，[请点击这里](https://www.google.com/maps/d/u/0/edit?mid=1PWEp5tMdYpPcNV-iJrhhSD70HPtxVsE&usp=sharing)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ca3457565045cc539f1b4eece34f41ec.png)
+![位置地图](https://images.gobaligo.id/vocus/vocus_ca3457565045cc539f1b4eece34f41ec.png)
 
 {{block:ubud}}
 

@@ -33,7 +33,7 @@ _srcHash: 93ce059168068ebaf7a6a3b6f6127b24
 
 > Shared from the internet
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_990d4c5e2869e66cd2014b805fca6160.jpg)
+![Bali Seafood Restaurant 【Mr. Lobster】 Seafood Feast: Diverse](https://images.gobaligo.id/vocus/vocus_990d4c5e2869e66cd2014b805fca6160.jpg)
 
 This trip to Bali not only immersed me in the island's stunning scenery but also allowed me to feast on an array of exquisite seafood at Mr. Lobster Restaurant. From lobster to marble goby fish, every bite was a delight. Here’s a glimpse of my culinary experience:
 
@@ -65,7 +65,7 @@ Here, you can not only enjoy seafood on-site but also choose live seafood or coo
 
 ## Customer C: Warm Hospitality from the Owner
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_70793e8257b18b6ad0ebe8b35fa45423.jpg)
+![Customer C: Warm Hospitality from the Owner](https://images.gobaligo.id/vocus/vocus_70793e8257b18b6ad0ebe8b35fa45423.jpg)
 
 Many thanks to the lobster restaurant owner for their warm hospitality yesterday. We truly felt the big-hearted warmth of Taiwanese people looking after fellow Taiwanese.
 
@@ -83,13 +83,13 @@ Scan Boss Hsu's Line QR code to make an appointment in advance!
 
 ### Mr Lobster Canggu (Currently Under Renovation)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c6c755469885ecc828371fdcaede4a98.jpg)
+![Mr Lobster Canggu (Currently Under Renovation)](https://images.gobaligo.id/vocus/vocus_c6c755469885ecc828371fdcaede4a98.jpg)
 
 Located on the southern edge of Canggu, near Café del Mar Beach Club, address: Jl. Subak sari, tibubeneng, kec. Kuta utara, badung, Bali, 80361
 
 ### Mr Lobster Nusa Dua (Opening September 2025)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775972820703-_2026-04-12_12.46.41.png)
+![Mr Lobster Nusa Dua (Opening September 2025)](https://images.gobaligo.id/images/2026-04/1775972820703-_2026-04-12_12.46.41.png)
 
 Address: Jl. Pratama No.83, tanjung, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361
 

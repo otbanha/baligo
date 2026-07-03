@@ -24,7 +24,7 @@ Seiring pesatnya perkembangan teknologi seluler, pemerintah Indonesia bersiap me
 
 Di antaranya, adopsi teknologi eSIM dianggap sebagai langkah positif, namun kebijakan baru yang membatasi jumlah kartu SIM bisa bikin penggunaan ponsel di Indonesia makin ribet buat orang asing.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c092bff8309cf706ba1895ecc3468d9d.jpg)
+![Kebijakan Baru Telekomunikasi Indonesia: eSIM dan Batas Juml](https://images.gobaligo.id/vocus/vocus_c092bff8309cf706ba1895ecc3468d9d.jpg)
 
 ## 🔍 Teknologi eSIM Jadi Tren Baru Telekomunikasi Indonesia
 

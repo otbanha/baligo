@@ -19,7 +19,7 @@ lang: en
 _srcHash: fd6dc5f050a200db5d4db3dbee11336a
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_055e134951ab6017808fda25010fb9d3.jpg)
+![Bali Cave River Tubing Adventure: A Family Adventure at Nuku](https://images.gobaligo.id/vocus/vocus_055e134951ab6017808fda25010fb9d3.jpg)
 
 Bali is not only known for its stunning beaches and temples but also hides many surprising adventure activities. This time, our family chose the Nukuwera & Pandawa Cave River Tubing experience, which turned out to be one of the most unforgettable highlights of our six-day, five-night family trip to Bali. Unlike traditional rafting, cave river tubing combines historical exploration with water adventure, making it a safe and fun activity for the whole family, allowing everyone to enjoy the unique charm of Bali. Let me share this thrilling and laughter-filled cave river tubing experience!
 
@@ -48,7 +48,7 @@ The guide handed us over to the rafting leader, who gave us a brief safety brief
 
 ## Cave Exploration and Rafting Experience
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e9b2be803404579b2db6d3b25ee4f683.jpg)
+![Cave Exploration and Rafting Experience](https://images.gobaligo.id/vocus/vocus_e9b2be803404579b2db6d3b25ee4f683.jpg)
 
 **Highlights of the Rafting Route**:
 

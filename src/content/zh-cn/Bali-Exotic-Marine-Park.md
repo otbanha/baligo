@@ -33,7 +33,7 @@ _srcHash: 936227622b71ae6284d2128328910eef
 
 带孩子出游，最怕什么？就是「看得到、摸不到」的距离感。很多景点，小朋友只能乖乖坐在观众席，远远看着动物表演，拍手叫好，然后就没了。说实话，**坐在观众席看海豚表演不稀奇，能让小朋友跟海豚互动才稀奇**——而巴厘岛海豚乐园（Bali Exotic Marine Park），正是那种让孩子真正「走进故事里」的地方。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966642880-mixcollage-28-may-2026-06-10-pm-4374.jpg)
+![【2026 巴厘岛亲子景点】海豚乐园 Bali Exotic Marine Park 攻略：超近距离互动、下水与海豚共舞](https://images.gobaligo.id/images/2026-05/1779966642880-mixcollage-28-may-2026-06-10-pm-4374.jpg)
 
 ## 海豚乐园在哪里？
 
@@ -43,17 +43,17 @@ _srcHash: 936227622b71ae6284d2128328910eef
 
 很多海洋公园标榜海豚秀，但孩子坐在观众席上，和海豚的距离可能超过二十公尺。而在这里，**孩子不再是旁观者，而是参与者**。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966737821-2023-03-10-qf52uenqtenkloe67rlay6xx1mrdvbwjy8nvpunagg.jpg)
+![真正的亮点：不是看，是「一起玩」](https://images.gobaligo.id/images/2026-05/1779966737821-2023-03-10-qf52uenqtenkloe67rlay6xx1mrdvbwjy8nvpunagg.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966738473-5972cbaa-39fc-4cb1-a45a-642336fe54da-1717988216505-f8b66eafb1736ce1c3887a09f499ee9c.webp)
+![真正的亮点：不是看，是「一起玩」](https://images.gobaligo.id/images/2026-05/1779966738473-5972cbaa-39fc-4cb1-a45a-642336fe54da-1717988216505-f8b66eafb1736ce1c3887a09f499ee9c.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966739071-475998762_2580436122287878_766002186653361224_n.jpg)
+![真正的亮点：不是看，是「一起玩」](https://images.gobaligo.id/images/2026-05/1779966739071-475998762_2580436122287878_766002186653361224_n.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966739578-copy-of-img_8681.webp)
+![真正的亮点：不是看，是「一起玩」](https://images.gobaligo.id/images/2026-05/1779966739578-copy-of-img_8681.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966740228-encounter-program-02.jpg)
+![真正的亮点：不是看，是「一起玩」](https://images.gobaligo.id/images/2026-05/1779966740228-encounter-program-02.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966741320-encounter-program-03.jpg)
+![真正的亮点：不是看，是「一起玩」](https://images.gobaligo.id/images/2026-05/1779966741320-encounter-program-03.jpg)
 
 乐园提供多种官方互动体验，家长可依孩子年龄、水性跟胆量选择：
 
@@ -72,7 +72,7 @@ _srcHash: 936227622b71ae6284d2128328910eef
 
 ## 对家长来说，这不只是「好玩」
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966789235-597572246_1320717816737228_5729102268253149587_n.jpg)
+![对家长来说，这不只是「好玩」](https://images.gobaligo.id/images/2026-05/1779966789235-597572246_1320717816737228_5729102268253149587_n.jpg)
 
 很多父母会问：「花这笔钱值得吗？」老实说，票价不便宜，但你买到的不只是几分钟的互动，而是：
 - **克服恐惧的勇气**：有些孩子本来怕水、怕大型动物，但在训练师引导下，往往能跨出舒适圈。
@@ -89,7 +89,7 @@ _srcHash: 936227622b71ae6284d2128328910eef
   **海洋知识小讲座**
 定时举办，用故事、图片与简单问答，让孩子认识海洋生态。不会枯燥，反而很有互动性。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966825794-472863975_2560314820966675_263615945628872436_n.jpg)
+![园区还有什么？没下水也不无聊](https://images.gobaligo.id/images/2026-05/1779966825794-472863975_2560314820966675_263615945628872436_n.jpg)
 
 ## 亲子实用信息（家长必读）
 
@@ -101,7 +101,7 @@ _srcHash: 936227622b71ae6284d2128328910eef
     - **与海豚互动套票**：约 USD 100–150 起（视方案等级而定）
 - **建议停留时间**：3 小时左右，若选择 Discovery 以上方案可拉长至半天
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966862890-499695237_1149885913820420_3944627584317570938_n.jpg)
+![亲子实用信息（家长必读）](https://images.gobaligo.id/images/2026-05/1779966862890-499695237_1149885913820420_3944627584317570938_n.jpg)
 
 {{block:戶外}}
 
@@ -127,7 +127,7 @@ _srcHash: 936227622b71ae6284d2128328910eef
 
 ## 优缺点一次说清楚（不藏私）
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779966899573-474029370_2565750303756460_5721499334327183477_n.jpg)
+![优缺点一次说清楚（不藏私）](https://images.gobaligo.id/images/2026-05/1779966899573-474029370_2565750303756460_5721499334327183477_n.jpg)
 
 **优点**
 

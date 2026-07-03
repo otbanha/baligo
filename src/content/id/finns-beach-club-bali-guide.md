@@ -41,7 +41,7 @@ Di Finns Beach Club, pilihan makanan dan minumannya super lengkap. Kamu bisa cic
 
 Di Finns Beach Club, booking day bed adalah cara paling maksimal buat menikmati tempat ini. Dari single bed sampai party bed, ada banyak pilihan mewah yang bisa kamu sesuaikan dengan kebutuhan. Setiap day bed dilengkapi layanan khusus, jadi kamu bisa pesan makanan dan minuman tanpa harus bangkit dari tempat duduk.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_350ede51a902b20ec176082de104aa56.png)
+![Kenapa Harus Mampir ke Finns Beach Club](https://images.gobaligo.id/vocus/vocus_350ede51a902b20ec176082de104aa56.png)
 
 **6.Live Music dan DJ: Pertunjukan Musik dan DJ Langsung**
 
@@ -53,9 +53,9 @@ Finns Beach Club rutin menggelar pertunjukan DJ internasional, jadi surga banget
 
 **💰Harga Masuk:** Finns Beach Club nggak ngasih biaya masuk untuk umum, jadi kamu bisa masuk kapan aja buat lihat pemandangan kerennya. Tapi kalau mau walk-in (tanpa reservasi), usahakan datang sebelum jam 2 siang biar dapet diskon 50% minimum spend. Kalau masuk setelah jam 8 malam, nggak ada minimum spend sama sekali. Tapi perlu diingat, kalau kamu udah yakin mau dapet spot di pinggir pantai, mending jangan andelin walk-in aja — soalnya spot-spot ini sering habis dipesan duluan. Lebih baik booking day bed dari awal, apalagi pas musim ramai. Harganya beda-beda tergantung tipe bed dan musim.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6dee472b8f7445aac417b4e859277d85.jpg)
+![Harga Tiket Masuk Finns Beach Club](https://images.gobaligo.id/vocus/vocus_6dee472b8f7445aac417b4e859277d85.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_94e84c01807fbe409119e4bea8158823.jpg)
+![Harga Tiket Masuk Finns Beach Club](https://images.gobaligo.id/vocus/vocus_94e84c01807fbe409119e4bea8158823.jpg)
 
 - **Harga Acara (misal Finn's Day Out):**
 - - Tiket masuk umum: 500,000 IDR
@@ -69,13 +69,13 @@ Finns Beach Club rutin menggelar pertunjukan DJ internasional, jadi surga banget
 
 Kalau kalian rombongan dan pengin pengalaman yang lebih eksklusif, bisa pilih layanan reservasi tempat tidur mewah atau VIP bale-bale kolam renang dari Klook. Dijamin setiap momen kalian di sini bakal nyaman dan nggak terlupakan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c4541169adf475fec132340584d01724.jpg)
+![Pengalaman Mewah: Luxury Bed dan VIP Cabana Pool Bed](https://images.gobaligo.id/vocus/vocus_c4541169adf475fec132340584d01724.jpg)
 
 ## Cara ke Finns Beach Club
 
 Finns Beach Club terletak di jantung Canggu, aksesnya gampang banget. Kamu bisa naik taksi, panggil ojek online, atau sewa motor sendiri. Klub ini juga punya tempat parkir yang luas.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6f08cbc3a1c7c7af92983f7d18312ce1.jpg)
+![Cara ke Finns Beach Club](https://images.gobaligo.id/vocus/vocus_6f08cbc3a1c7c7af92983f7d18312ce1.jpg)
 
 ## Destinasi Ramah Keluarga (Sudah Tutup per Juni 2025)
 
@@ -121,7 +121,7 @@ Semua Fasilitas Finns
 
 Kalau kamu traveling bareng teman atau keluarga, kasur mewah ini pilihan paling oke. Paket ini bisa muat sampai 6 orang dan kasih saldo konsumsi yang gede banget, jadi kamu dan rombongan bisa puas menikmati makanan dan minuman di sini.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4d6dfa5270c7c858162f17d9c682e621.png)
+![Kasur Mewah](https://images.gobaligo.id/vocus/vocus_4d6dfa5270c7c858162f17d9c682e621.png)
 
 ## Penutup: Pengalaman Finns yang Tak Terlupakan
 
@@ -167,7 +167,7 @@ Enggak kok. Kamu bisa masuk kapan aja ke FINNS, asal masih ada tempat duduk koso
 
 Tapi kalau kamu mau pengalaman beach club yang paling oke, saran banget booking Day Bed di website (ada minimum pemakaian), biar kamu bisa duduk di spot favorit dan tempat duduk terjamin.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_01541ca11173d6bcdd6bb2b414cb2a60.png)
+![Q: Masuk FINNS Beach Club wajib booking tempat duduk?](https://images.gobaligo.id/vocus/vocus_01541ca11173d6bcdd6bb2b414cb2a60.png)
 
 ### Q: Biaya booking Day Bed bisa dipotong total dari pesanan makanan dan minuman?
 
@@ -213,7 +213,7 @@ Saran banget buat booking dulu sebelum ke FINNS, biar tempatmu terjamin pas data
 
 FINNS menyediakan layanan kue spesial yang bisa dipesan jauh-jauh hari — minimal 4 hari sebelum kunjungan.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4779ab3c9b13d4d55e58ba06b55fe406.png)
+![Q: Ada pengaturan spesial untuk bulan madu atau ulang tahun ](https://images.gobaligo.id/vocus/vocus_4779ab3c9b13d4d55e58ba06b55fe406.png)
 
 Intinya, Finns Beach Club adalah destinasi pantai yang wajib kamu coba di Bali. Mau santai sambil berjemur, hangout bareng teman, atau ikut party seru — semuanya ada di sini. Dari infinity pool yang kece, pilihan makanan yang variatif, sampai pemandangan laut yang juara — Finns Beach Club adalah tempat yang menggabungkan relaksasi dan hiburan dengan sempurna. Kalau kamu lagi rencana liburan ke Bali, jangan sampai kelewatan spot kece ini, jadikan dia highlight liburanmu!
 

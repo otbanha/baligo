@@ -40,27 +40,27 @@ Setelah baca-baca, aku nemu rekomendasi Mang Loco di grup. Katanya bisa panggil 
 
 Aku sendiri udah bikin itinerary kasar, terus minta Oe bantu rapihin. Dia juga baik banget kasih saran buat itinerary. Sepanjang perjalanan di Bali, komunikasi lancar banget. Dia nggak cuma ngerti obrolan santai kita, tapi juga bisa becanda bareng. Ini untungnya punya supir yang bisa bahasa Mandarin! Dia juga bantu kita selesain masalah dadakan, misalnya ganti jam restoran, tiba-tiba mau pijat, nemenin kita nawar harga, dll. Ini dia itinerary yang kita susun setelah banyak lihat panduan dari [Xiao Jie Indonesia](https://www.youtube.com/@j_indonesia) di YouTube:
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794607534-1.jpg)
+![Perencanaan Itinerary & Komunikasi](https://images.gobaligo.id/images/2026-05/1779794607534-1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794608102-2.jpg)
+![Perencanaan Itinerary & Komunikasi](https://images.gobaligo.id/images/2026-05/1779794608102-2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794608628-3.jpg)
+![Perencanaan Itinerary & Komunikasi](https://images.gobaligo.id/images/2026-05/1779794608628-3.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794609481-4.jpg)
+![Perencanaan Itinerary & Komunikasi](https://images.gobaligo.id/images/2026-05/1779794609481-4.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794610083-5.jpg)
+![Perencanaan Itinerary & Komunikasi](https://images.gobaligo.id/images/2026-05/1779794610083-5.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794610572-6.jpg)
+![Perencanaan Itinerary & Komunikasi](https://images.gobaligo.id/images/2026-05/1779794610572-6.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794611205-7.jpg)
+![Perencanaan Itinerary & Komunikasi](https://images.gobaligo.id/images/2026-05/1779794611205-7.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794612128-8.jpg)
+![Perencanaan Itinerary & Komunikasi](https://images.gobaligo.id/images/2026-05/1779794612128-8.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794613152-9.jpg)
+![Perencanaan Itinerary & Komunikasi](https://images.gobaligo.id/images/2026-05/1779794613152-9.jpg)
 
 Jadi, kalau kalian mau ajak keluarga ke Bali, boleh banget cari Oe ya! Line ID-nya: mangloco94. Oh iya, walaupun dia bisa ngomong Mandarin, dia nggak bisa baca atau ngetik Mandarin. Jadi awalnya bisa sapa pakai bahasa Inggris dulu. Kalau bahasa Inggris kurang lancar, bisa langsung telepon aja, katanya dia bisa pakai aplikasi penerjemah buat bantu komunikasi.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc0d1457f9ad845aaff9a109114ba614.png)
+![Perencanaan Itinerary & Komunikasi](https://images.gobaligo.id/vocus/vocus_bc0d1457f9ad845aaff9a109114ba614.png)
 
 [Tips Liburan ke Bali: 32 Hal Penting yang Wajib Kamu Tahu Sebelum Pertama Kali ke Bali](/blog/bali-ultimate-guide-2026/)
 
@@ -74,7 +74,7 @@ Di Bali, minuman dari tempat selain supermarket, restoran besar, atau jaringan t
 
 ### **Bawa Lebih Banyak Baju Dalam**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b0f8826462eff2a98579a54724fb9ffa.png)
+![Bawa Lebih Banyak Baju Dalam](https://images.gobaligo.id/vocus/vocus_b0f8826462eff2a98579a54724fb9ffa.png)
 
 Kelembapan di Bali itu super tinggi. Kalau kamu main air, biasanya sehari butuh ganti baju dua kali. Awalnya aku pikir bisa cuci baju dan jemur sampai kering, tapi ternyata karena lembap banget, baju susah kering sempurna. Saran aku, bawa lebih banyak baju bahan cepat kering, terutama baju dalam, biar setiap hari kamu punya pakaian bersih dan nyaman dipakai.
 
@@ -90,25 +90,25 @@ https://youtu.be/IReL1ztxL7c
 
 Tinggal nyebrang jalan aja udah sampe Kuta Beach, di deketnya juga ada kehidupan malam yang rame. Walaupun hotel ini bukan yang terbaru, tapi kamarnya luas dan bersih, fasilitasnya juga lengkap banget. Stafnya ramah dan hangat, bikin kita merasa kayak di rumah sendiri. Apalagi makan malam seafood dan pertunjukan live band-nya, keren banget, bikin kita ngabisin beberapa malam yang menyenangkan. Pengalaman nginep di sini bener-bener oke, value for money-nya gila!
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794750451-21ceb288ce176b586af3db9a05d094fc.webp)
+![Akomodasi](https://images.gobaligo.id/images/2026-05/1779794750451-21ceb288ce176b586af3db9a05d094fc.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794751078-35e3f66bf77cd40f26c91c4e217412fc.webp)
+![Akomodasi](https://images.gobaligo.id/images/2026-05/1779794751078-35e3f66bf77cd40f26c91c4e217412fc.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794751619-59ce114cefe481787aac107045c9bfed.webp)
+![Akomodasi](https://images.gobaligo.id/images/2026-05/1779794751619-59ce114cefe481787aac107045c9bfed.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794752215-528f598aa382f9c0f3d7ce1f6304d448.jpeg)
+![Akomodasi](https://images.gobaligo.id/images/2026-05/1779794752215-528f598aa382f9c0f3d7ce1f6304d448.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794752824-472740031.jpg)
+![Akomodasi](https://images.gobaligo.id/images/2026-05/1779794752824-472740031.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794753310-500398018.jpg)
+![Akomodasi](https://images.gobaligo.id/images/2026-05/1779794753310-500398018.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794753787-661675161.jpg)
+![Akomodasi](https://images.gobaligo.id/images/2026-05/1779794753787-661675161.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794754275-825496088.jpg)
+![Akomodasi](https://images.gobaligo.id/images/2026-05/1779794754275-825496088.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794754769-c3e9792212b335b6394f7537283cf6d9.webp)
+![Akomodasi](https://images.gobaligo.id/images/2026-05/1779794754769-c3e9792212b335b6394f7537283cf6d9.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1779794755377-dde10217f990c21bc9d88fda23331bec.webp)
+![Akomodasi](https://images.gobaligo.id/images/2026-05/1779794755377-dde10217f990c21bc9d88fda23331bec.webp)
 
 **Grand Istana Rama Hotel:** [**Agoda**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65512) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685197&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oay8LFJMEkNY2F4-ykhc_YhBgNNO6zWfwWdDQGgeQ8B883gTvkWpmLHQJ4IqYceD6NPZE35Nj-8wyODoUMIJBQ6NDImAYCZbkOXYysYDUzGHtfam5k7D_0VSOm389hByPTCcYO7gVMrxbNZjrFwswxh-kSy1em6Gql7NRKJSsTHaWSzJKcVCUrpaeL5j1t2PN8RauSjlJKanEyUAjISszNL80rAbINTYz0DAyAIiWJFZ4pYJ3JiTnJpTmJJakhlQVAE8x0lDKLnUuKMguCUnMzS0pSgarSEnOKU0HiQanFQJlksKCSH9CYIqhAZn4eRLshilhYYk5pKsQJQAvdUqF2GNbqYLr82Zzep90zX2zaTZzLzantcgNiXG5cG_uIhSk69gXLfbZPLAy_gFHRydXEytDFyswxj3ESkOzg3sXKFuIa5W5ieoG1Q1xKwdDAwMDI1NTIXNcg0TLRyCTVQNfE0sTI3EDXwsAAyNA4e-3LtSfGRtZSkKhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxOZmaeFqZhJlw8Xs6RIk-EHv-fZ2a0t7KeaQcBdFe9l-yRU9p-21QHKGMLnAPa9zTtgbL7CPPN7w5uu7_tP2SaxVGboh4RnHxQoYGxiZuhi5BRg9GCMYK4A8xlWMDBsYGXcw_ocBxleMINMBGJ7oZwMDAAA&masterhotelid_tracelogid=100025527-0a9a24e0-494270-800942&detailFilters=17|1~17~1*31|685197~31~685197*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1596&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/q1KxlNcJ)
 

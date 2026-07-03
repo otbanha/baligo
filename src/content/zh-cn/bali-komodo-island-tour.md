@@ -21,7 +21,7 @@ _srcHash: 982cf84d358bdbe2150bdf0c134be6e1
 
 这是一篇记录我们一家四口在巴厘岛与科莫多岛的精彩旅程。我们在巴厘岛停留了三天，随后前往科莫多岛两天，度过总共五天的探险之旅，并且在那里参加了一个科莫多两天一夜船宿行程。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2d9f08d24d85d4d49023c4b8db0a7e5f.jpg)
+![巴厘岛3日＋科莫多岛2D1N船宿：不可错过的旅游精华](https://images.gobaligo.id/vocus/vocus_2d9f08d24d85d4d49023c4b8db0a7e5f.jpg)
 
 ## 巴厘岛的美好体验
 
@@ -89,7 +89,7 @@ _srcHash: 982cf84d358bdbe2150bdf0c134be6e1
 
 您觉得Tyty Chow他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4f3c9335329415b15de58f37454557bb.jpg)
+![「巴厘岛+科莫多岛」的套装行程](https://images.gobaligo.id/vocus/vocus_4f3c9335329415b15de58f37454557bb.jpg)
 
 点击这里观看更多巴厘岛精彩游记
 

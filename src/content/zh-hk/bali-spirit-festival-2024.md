@@ -23,7 +23,7 @@ _srcHash: aae8f3a0aaad627003b586be2196f3a2
 
 ## 峇里島靈性節：迎接靈性與啟發嘅盛會
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0d872c8654d5b03d669f3932de935a41.jpg)
+![峇里島靈性節：迎接靈性與啟發嘅盛會](https://images.gobaligo.id/vocus/vocus_0d872c8654d5b03d669f3932de935a41.jpg)
 
 峇里島靈性節（Bali Spirit Festival）將會喺2024年5月1號至5號再度喺烏布舉行。呢場盛會匯聚咗世界各地嘅瑜伽、舞蹈、音樂同療癒愛好者，係一場啟發靈魂嘅饗宴。喺呢度，大家可以一齊探索身心靈嘅平衡，獲得新嘅啟示，同埋同全球社區連結。
 

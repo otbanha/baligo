@@ -43,25 +43,25 @@ _srcHash: 24774ea9702844fec2b4479db14bc666
 
 ## ✨ Tiga Sorotan Menginap: Dari Liar hingga Privasi Maksimal
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750072806-eb3c7d70057ec9dc6e77b9cc7ec7c397.webp)
+![Tiga Sorotan Menginap: Dari Liar hingga Privasi Maksimal](https://images.gobaligo.id/images/2026-03/1774750072806-eb3c7d70057ec9dc6e77b9cc7ec7c397.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750071659-de52e76f2a8a44c934e123ebc8af4b3b.webp)
+![Tiga Sorotan Menginap: Dari Liar hingga Privasi Maksimal](https://images.gobaligo.id/images/2026-03/1774750071659-de52e76f2a8a44c934e123ebc8af4b3b.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750072409-e7d22c81e15eade6de1a542a93255451.webp)
+![Tiga Sorotan Menginap: Dari Liar hingga Privasi Maksimal](https://images.gobaligo.id/images/2026-03/1774750072409-e7d22c81e15eade6de1a542a93255451.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774749741918-1774321934411.jpg)
+![Tiga Sorotan Menginap: Dari Liar hingga Privasi Maksimal](https://images.gobaligo.id/images/2026-03/1774749741918-1774321934411.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774749742660-1774321936429.jpg)
+![Tiga Sorotan Menginap: Dari Liar hingga Privasi Maksimal](https://images.gobaligo.id/images/2026-03/1774749742660-1774321936429.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774749742999-1774321949574.jpg)
+![Tiga Sorotan Menginap: Dari Liar hingga Privasi Maksimal](https://images.gobaligo.id/images/2026-03/1774749742999-1774321949574.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750263423-bs4.jpeg)
+![Tiga Sorotan Menginap: Dari Liar hingga Privasi Maksimal](https://images.gobaligo.id/images/2026-03/1774750263423-bs4.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774749740719-642076904.jpg)
+![Tiga Sorotan Menginap: Dari Liar hingga Privasi Maksimal](https://images.gobaligo.id/images/2026-03/1774749740719-642076904.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774749743383-1774321950115.jpg)
+![Tiga Sorotan Menginap: Dari Liar hingga Privasi Maksimal](https://images.gobaligo.id/images/2026-03/1774749743383-1774321950115.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774749743719-1774321950642.jpg)
+![Tiga Sorotan Menginap: Dari Liar hingga Privasi Maksimal](https://images.gobaligo.id/images/2026-03/1774749743719-1774321950642.jpg)
 
 1. **Resor Butik:** Keseimbangan sempurna antara kemudahan dan kenyamanan, memulai perjalanan dengan langkah pertama.
 2. **Hotel Taman Safari:** Alami malam ajaib tidur bersama satwa, rasakan energi alam dari dekat.
@@ -72,42 +72,42 @@ _srcHash: 24774ea9702844fec2b4479db14bc666
 ## 📸 Cuplikan Sorotan Perjalanan
 
 - **Interaksi Dekat dengan Satwa:** Menginap di taman safari, saksikan pertunjukan kuda nil, pertunjukan lumba-lumba, dan petualangan hutan, nikmati waktu yang mendidik dan menghibur.
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750412698-bs7.jpeg)
+![Cuplikan Sorotan Perjalanan](https://images.gobaligo.id/images/2026-03/1774750412698-bs7.jpeg)
 - **Tur Landmark Kelas Dunia:** Berjalan di **Sawah Terasering Jatiluwih** warisan UNESCO, kunjungi **Pura Ulun Danu Beratan** yang cantik banget dan pemandangan megah **Gunung Batur**.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750676574-1774321914467.jpg)
+![Cuplikan Sorotan Perjalanan](https://images.gobaligo.id/images/2026-03/1774750676574-1774321914467.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750677406-1774321933912.jpg)
+![Cuplikan Sorotan Perjalanan](https://images.gobaligo.id/images/2026-03/1774750677406-1774321933912.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750677731-1774321949462.jpg)
+![Cuplikan Sorotan Perjalanan](https://images.gobaligo.id/images/2026-03/1774750677731-1774321949462.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750678092-569875423.jpg)
+![Cuplikan Sorotan Perjalanan](https://images.gobaligo.id/images/2026-03/1774750678092-569875423.jpg)
 
 - **Spot Hits Wajib Kunjung:** Jelajahi sawah terasering **Alas Harum** dan klub air terjun hits, langsung dapetin foto-foto keren ala fashion.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750934347-1774321932375.jpg)
+![Cuplikan Sorotan Perjalanan](https://images.gobaligo.id/images/2026-03/1774750934347-1774321932375.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750934745-1774321932242.jpg)
+![Cuplikan Sorotan Perjalanan](https://images.gobaligo.id/images/2026-03/1774750934745-1774321932242.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750935131-1774321949340.jpg)
+![Cuplikan Sorotan Perjalanan](https://images.gobaligo.id/images/2026-03/1774750935131-1774321949340.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750935550-1774321936935.jpg)
+![Cuplikan Sorotan Perjalanan](https://images.gobaligo.id/images/2026-03/1774750935550-1774321936935.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750935982-ommabali-06112022-15-hd-fits.jpg)
+![Cuplikan Sorotan Perjalanan](https://images.gobaligo.id/images/2026-03/1774750935982-ommabali-06112022-15-hd-fits.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774750936363-1774321913436.jpg)
+![Cuplikan Sorotan Perjalanan](https://images.gobaligo.id/images/2026-03/1774750936363-1774321913436.jpg)
 
 - **Pengalaman Relaksasi Total:** Nikmati pijat SPA dengan pemandangan laut, BBQ pinggir kolam yang dimasak langsung oleh chef di VILLA. Dijamin bikin rileks banget.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774751191522-1774321912962.jpg)
+![Cuplikan Sorotan Perjalanan](https://images.gobaligo.id/images/2026-03/1774751191522-1774321912962.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774751191852-1774321935446.jpg)
+![Cuplikan Sorotan Perjalanan](https://images.gobaligo.id/images/2026-03/1774751191852-1774321935446.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774751192350-1774321932979.jpg)
+![Cuplikan Sorotan Perjalanan](https://images.gobaligo.id/images/2026-03/1774751192350-1774321932979.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774751192709-1774321932491.jpg)
+![Cuplikan Sorotan Perjalanan](https://images.gobaligo.id/images/2026-03/1774751192709-1774321932491.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774751193071-1774321913146.jpg)
+![Cuplikan Sorotan Perjalanan](https://images.gobaligo.id/images/2026-03/1774751193071-1774321913146.jpg)
 
 ***
 

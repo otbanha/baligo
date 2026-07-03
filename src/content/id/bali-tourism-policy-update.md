@@ -25,7 +25,7 @@ _srcHash: 37055e34ac72ef21dbbd1163a1f55043
 
 Akhir tahun lalu, pemerintah Indonesia awalnya berencana melarang pembangunan hotel baru, klub pantai, dan fasilitas wisata lainnya di beberapa kawasan wisata populer di Bali selatan, seperti Canggu, Uluwatu, Kuta, Legian, Seminyak, dan Nusa Dua. Namun, Gubernur Bali yang akan menjabat kembali, Wayan Koster, baru-baru ini secara terbuka menyatakan **dia tidak akan menerapkan larangan ini**.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5912b3283e6ebf4f0e8a8eefd1896b05.png)
+![Kebijakan Baru Bali Berbalik Arah: Gubernur Tolak Larangan P](https://images.gobaligo.id/vocus/vocus_5912b3283e6ebf4f0e8a8eefd1896b05.png)
 
 ### Kenapa Ada Larangan Ini?
 
@@ -55,7 +55,7 @@ Tapi, penerapan pajak turis ini kurang efektif—cuma 40% turis yang beneran bay
 
 ### Gimana ke Depannya?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7325c0c5d1f9e4f57fb207e86a712a4b.png)
+![Gimana ke Depannya?](https://images.gobaligo.id/vocus/vocus_7325c0c5d1f9e4f57fb207e86a712a4b.png)
 
 Sekarang, setelah larangan dicabut, masa depan pariwisata Bali masih tanda tanya besar. Ide Gubernur Koster adalah ngatur pariwisata lewat penegakan aturan yang udah ada, bukan larangan langsung buat bangun fasilitas baru. Tapi, gimana caranya nyari keseimbangan antara pembangunan ekonomi dan perlindungan lingkungan tetep jadi tantangan terbesar buat Bali.
 
@@ -63,7 +63,7 @@ Buat turis dan warga lokal, pembangunan berkelanjutan Bali bukan cuma soal jaga 
 
 ## 📩 **Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Bali!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Ba](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

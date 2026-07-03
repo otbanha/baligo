@@ -42,25 +42,25 @@ _srcHash: 14fb8d0e0cae160e1e965c146d88a176
 
 Alaya Suites Ubud adalah properti **terbaru** dari Alaya Hotels & Resorts, dan saat ini menjadi anggota termuda di grup tersebut. Berlokasi di kawasan Pengosekan, posisinya lebih tenang dan privat dibandingkan dengan Alaya Resort yang lebih lawas. Desain keseluruhan memadukan nuansa modern dengan elemen budaya Bali, menyediakan 45 suite dan 6 vila satu kamar tidur. Konsepnya low-key mewah — bukan resor tropis yang gemerlap, tapi tempat yang bikin kamu pengin melambatkan langkah begitu masuk. **Kalau mau cobain properti baru sebelum ramai pengunjung, sekarang saatnya.**
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472490843-852951792.jpg)
+![【2026 Ubud Hotel Baru】Unboxing Alaya Suites Ubud: Suite Eleg](https://images.gobaligo.id/images/2026-04/1777472490843-852951792.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472491419-a611bbc941fec1a34b3b99fb3ce68605.webp)
+![【2026 Ubud Hotel Baru】Unboxing Alaya Suites Ubud: Suite Eleg](https://images.gobaligo.id/images/2026-04/1777472491419-a611bbc941fec1a34b3b99fb3ce68605.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472492025-f6c7a869824033a0177e603a1550a376.webp)
+![【2026 Ubud Hotel Baru】Unboxing Alaya Suites Ubud: Suite Eleg](https://images.gobaligo.id/images/2026-04/1777472492025-f6c7a869824033a0177e603a1550a376.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472492671-851866281.jpg)
+![【2026 Ubud Hotel Baru】Unboxing Alaya Suites Ubud: Suite Eleg](https://images.gobaligo.id/images/2026-04/1777472492671-851866281.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472493180-7d28b428eeb72d6d2ede07a817f4d540.webp)
+![【2026 Ubud Hotel Baru】Unboxing Alaya Suites Ubud: Suite Eleg](https://images.gobaligo.id/images/2026-04/1777472493180-7d28b428eeb72d6d2ede07a817f4d540.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472494100-77cce6dcd37e66bcc07fa7107b0f19bd.webp)
+![【2026 Ubud Hotel Baru】Unboxing Alaya Suites Ubud: Suite Eleg](https://images.gobaligo.id/images/2026-04/1777472494100-77cce6dcd37e66bcc07fa7107b0f19bd.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472494715-787059718.jpg)
+![【2026 Ubud Hotel Baru】Unboxing Alaya Suites Ubud: Suite Eleg](https://images.gobaligo.id/images/2026-04/1777472494715-787059718.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472495330-832520057.jpg)
+![【2026 Ubud Hotel Baru】Unboxing Alaya Suites Ubud: Suite Eleg](https://images.gobaligo.id/images/2026-04/1777472495330-832520057.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472496048-832521339.jpg)
+![【2026 Ubud Hotel Baru】Unboxing Alaya Suites Ubud: Suite Eleg](https://images.gobaligo.id/images/2026-04/1777472496048-832521339.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472496660-832526984.jpg)
+![【2026 Ubud Hotel Baru】Unboxing Alaya Suites Ubud: Suite Eleg](https://images.gobaligo.id/images/2026-04/1777472496660-832526984.jpg)
 
 ***
 
@@ -88,39 +88,39 @@ Bagian Spa menggunakan brand andalan Alaya, DaLa Spa, dengan 6 ruang perawatan. 
 
 Suite terbagi menjadi King Suite (tempat tidur besar) dan Twin Suite (dua tempat tidur), keduanya seluas 65 meter persegi, dilengkapi balkon pribadi, bathtub, dan shower. Warna natural dipadukan dengan desain tekstur berlapis, suasananya tenang. Vila satu kamar tidur seluas 100 meter persegi, dilengkapi kolam rendam pribadi, menghadap ke hamparan hijau Ubud, dengan kursi berjemur outdoor dan area makan luar ruangan.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472682366-fffd3905d66e6da5545a409f0d9e58c1.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777472682366-fffd3905d66e6da5545a409f0d9e58c1.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472682928-19adb99d99838fe1862717c78d22d6b0.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777472682928-19adb99d99838fe1862717c78d22d6b0.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472683543-1841621b5a3e7b840cc3bb4e0e01e1af.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777472683543-1841621b5a3e7b840cc3bb4e0e01e1af.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472684048-710537273.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777472684048-710537273.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472684963-710548136.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777472684963-710548136.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472685689-763342072.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777472685689-763342072.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472686299-763342078.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777472686299-763342078.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472686805-a3c1c1f815c0b011192516c1a8cc585b.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777472686805-a3c1c1f815c0b011192516c1a8cc585b.webp)
 
 ▲Seluruh hotel dengan 51 kamar dilengkapi AC, Smart TV, Wi-Fi gratis. Kamar mandi dengan bak dan shower terpisah, beberapa tipe kamar termasuk minibar (berisi minuman gratis tertentu).
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472822019-8e6939614ad0f2096a4297f6e073eda4.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777472822019-8e6939614ad0f2096a4297f6e073eda4.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472822599-805cf84bd1a18c785dd952bc0e7ebfb7.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777472822599-805cf84bd1a18c785dd952bc0e7ebfb7.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472823216-853a591959aa2854b16157b06e68c983.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777472823216-853a591959aa2854b16157b06e68c983.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472823830-1951e371b3683b718aaa9ca74aab05f2.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777472823830-1951e371b3683b718aaa9ca74aab05f2.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472824337-710537210.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777472824337-710537210.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472824860-710537288.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777472824860-710537288.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472825360-787058557.jpg)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777472825360-787058557.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472825990-a0a795ffaebb960680b68844827cf8a9.webp)
+![Info Tipe Kamar](https://images.gobaligo.id/images/2026-04/1777472825990-a0a795ffaebb960680b68844827cf8a9.webp)
 
 ▲Kalau budget memungkinkan, langsung aja booking Villa — ada kolam renang pribadi plus pemandangan hijau Ubud. Pagi-pagi berendam sambil dengerin kicau burung, itu sih esensi liburan ke Ubud banget.
 
@@ -138,7 +138,7 @@ Seorang tamu awalnya booking Alaya Resort, tapi dapat upgrade gratis ke Alaya Su
 
 Review lain menyebut nama-nama staf satu per satu — dari restoran, Spa, driver shuttle, sampai butler — semuanya dikasih penilaian spesifik. Katanya pelayanan personal kayak gini 'sangat jarang ditemukan'. Baru buka aja udah dapet review sekelas ini, jelas service-nya nggak main-main.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777472937188-caption.jpg)
+![Ulasan Nyata Tamu](https://images.gobaligo.id/images/2026-04/1777472937188-caption.jpg)
 
 ***
 

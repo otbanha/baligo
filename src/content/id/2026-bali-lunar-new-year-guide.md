@@ -23,7 +23,7 @@ _srcHash: 791c075abde39aaa48611ca605ab3965
 ---
 Imlek adalah musim liburan paling ramai di Bali, setiap tahunnya menarik wisatawan dari seluruh dunia, terutama dari kawasan Asia Timur yang menjadikan Imlek sebagai satu-satunya libur panjang dalam setahun.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aedb411b6e226d4dabf13a829b7b4a0e.png)
+![【2026版】Liburan Keluarga ke Bali saat Imlek: Panduan Lengkap ](https://images.gobaligo.id/vocus/vocus_aedb411b6e226d4dabf13a829b7b4a0e.png)
 
 ➡️[Cari penginapan di Bali klik di sini](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️
 
@@ -106,7 +106,7 @@ Oh iya, **wisatawan usia 60 tahun ke atas dan bayi/balita bisa pakai jalur khusu
 
 ## ⚠️Wajib Baca⚠️Perayaan Tahun Baru Imlek 2026
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8e4b2a2c15a42216e739d2c0cdcbdb4f.jpg)
+![Wajib BacaPerayaan Tahun Baru Imlek 2026](https://images.gobaligo.id/vocus/vocus_8e4b2a2c15a42216e739d2c0cdcbdb4f.jpg)
 
 Mau ngerasain suasana Imlek di Bali tahun ini? Kami udah kumpulin info lokasi pertunjukan barongsai, restoran buat makan malam kumpul keluarga, dan klenteng buat sembahyang tahun baru. Cek "[Informasi Acara Perayaan Tahun Baru Imlek di Bali 2026](/blog/2026-bali-lunar-new-year/)".
 

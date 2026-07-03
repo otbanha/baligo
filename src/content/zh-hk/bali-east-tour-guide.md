@@ -60,7 +60,7 @@ https://youtu.be/zePMt3KSwTo
 
 由天空之門嘅神山阿貢火山美景到恆河聖泉花園嘅仙境般嘅水上宮殿，再到烏戎水宮嘅古代皇宮遺址，每一處都蘊藏住獨特嘅風情同影相價值。無論係行山賞花定係搵靚景影相，呢三個景點都可以滿足你嘅遊玩需求。記住帶埋相機，等呢啲美景留低你嘅足跡同回憶。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1b788d4b2052c6e67e9c475e88df1921.jpg)
+![烏戎水宮](https://images.gobaligo.id/vocus/vocus_1b788d4b2052c6e67e9c475e88df1921.jpg)
 
 記住順便去埋東部嘅艾眉同土蘭奔呀！攻略喺[呢度](/blog/amed-tulamben-diving-guide/)
 

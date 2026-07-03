@@ -20,7 +20,7 @@ _srcHash: 13685e2272668fe0b4c833d6d1540f75
 ---
 峇里島靜居日（Nyepi Day），呢個係峇里島最獨特、最神聖嘅節日之一，島上瞬間由超熱鬧變成「全世界最安靜嘅一日」，超有儀式感！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_feb933a483aca657236751e5a8e9ad93.jpg)
+![【寧靜日攻略】2026峇里島靜居日/寧靜日（Nyepi Day）｜妖怪大遊行須知](https://images.gobaligo.id/vocus/vocus_feb933a483aca657236751e5a8e9ad93.jpg)
 
 ## 2026 峇里島靜居日（Nyepi）完整指南：從Ogoh-ogoh狂歡到24小時靜默
 
@@ -30,7 +30,7 @@ _srcHash: 13685e2272668fe0b4c833d6d1540f75
 
 峇里島 Nyepi（靜居日）2026 時間軸提醒
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a59afd2356b35bfaf178bf55f2cce4f1.png)
+![先搞懂時間軸（超重要！）](https://images.gobaligo.id/vocus/vocus_a59afd2356b35bfaf178bf55f2cce4f1.png)
 
 ### 3/18 下午開始
 
@@ -75,7 +75,7 @@ _srcHash: 13685e2272668fe0b4c833d6d1540f75
 4. **烏布Central / 烏布皇宮 或者 Monkey Forest附近** 更文化、更藝術風。巡遊相對優雅、戲劇性強，適合鍾意深度體驗嘅人。Peliatan Royal Palace周邊都好熱鬧。
 5. **其他chill地點：沙努爾（近McDonald's）、坎古（Batu Bolong & Berawa）、Kerobokan（Lio Square）** 如果你喺呢啲區域住，行出酒店就睇到本地社區版，比較親切、冇咁逼。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_973019ee2bd0d68dc174e5e569c030a0.png)
+![最佳觀賞地點（從最盛大到chill一點嘅排序）：](https://images.gobaligo.id/vocus/vocus_973019ee2bd0d68dc174e5e569c030a0.png)
 
 **小提醒**：好多地方下晝就開始封路，Grab或者的士可能入唔到。建議提早包車或者行路過去。巡遊後有啲Ogoh-ogoh會燒咗，煙霧好大，戴口罩或者避開下風位。
 

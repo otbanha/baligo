@@ -19,6 +19,6 @@ lang: zh-cn
 _srcHash: 623be481cabc973f25b5e5601ed872a1
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5945f572e93cd251dcb51c84aa6a5af4.png)
+![巴厘岛库塔｜水明漾现状｜没有游客的巴厘岛｜最新状况更新](https://images.gobaligo.id/vocus/vocus_5945f572e93cd251dcb51c84aa6a5af4.png)
 
 印尼巴厘岛 2020/10月最新现状。去巴厘岛旅游观光，最热闹的库塔、水明漾一片凄凉的景象。因为 Corona virus 的影响，旅游胜地的巴厘岛正经历一场前所未有的萧条...

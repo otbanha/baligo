@@ -35,7 +35,7 @@ We have five episodes covering Nusa Penida. Dive deeper into this island paradis
 
 Before diving into where to stay on Nusa Penida, let's answer some of the most common questions from first-time visitors:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d5a1c2ac11e4fdfbddc7dae009cc3a0a.jpg)
+![Nusa Penida Accommodation Guide – FAQ](https://images.gobaligo.id/vocus/vocus_d5a1c2ac11e4fdfbddc7dae009cc3a0a.jpg)
 
 ### Where is the Best Area to Stay on Nusa Penida?
 
@@ -69,7 +69,7 @@ For example, Penida Colada Beach Bar comes highly recommended for its friendly s
 
 Nusa Penida is slightly pricier than Bali, but you can still find reasonably priced accommodation and eat cheaply at local restaurants. You can find hotels for around $50 per night and dine at local eateries for no more than $5 to $10 per person.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c3d15b269decda31dc9688b1aaf1611f.png)
+![Is accommodation expensive on Nusa Penida?](https://images.gobaligo.id/vocus/vocus_c3d15b269decda31dc9688b1aaf1611f.png)
 
 {{block:penidaklook}}
 
@@ -109,13 +109,13 @@ Beyond the best places to stay on Nusa Penida, we’ve listed the most popular a
 
 ## Luxury Accommodations on Nusa Penida
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_886edd873ea94f2c2a3d79fc875bfcd0.png)
+![Luxury Accommodations on Nusa Penida](https://images.gobaligo.id/vocus/vocus_886edd873ea94f2c2a3d79fc875bfcd0.png)
 
 Although Nusa Penida's landscapes are more rugged, the quality of its luxury accommodations is nothing to scoff at! Check out our recommendations for eight top-tier stays:
 
 ### 【West】Adiwana Warnakali Resort: The Ultimate Island Honeymoon Getaway (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e336bf217c78a4f8b999439a97dc61c9.jpg)
+![【West】Adiwana Warnakali Resort: The Ultimate Island Honeymoo](https://images.gobaligo.id/vocus/vocus_e336bf217c78a4f8b999439a97dc61c9.jpg)
 
 Adiwana Warnakali Resort on Nusa Penida is an ideal choice for couples on vacation. Far from the hustle and bustle, it boasts stunning ocean views, allowing you to enjoy a serene and romantic honeymoon.
 
@@ -129,7 +129,7 @@ Want a more luxurious experience? Opt for a private pool suite for extra space, 
 
 ### [West] Atalaya Villas Nusa Penida: A Honeymoon Haven (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e5d135a2d4e5a69f9f9ec028ad7bc94b.jpg)
+![West Atalaya Villas Nusa Penida: A Honeymoon Haven (Map)](https://images.gobaligo.id/vocus/vocus_e5d135a2d4e5a69f9f9ec028ad7bc94b.jpg)
 
 Atalaya Villas on Nusa Penida is an ideal choice for couples seeking a romantic getaway. The exquisite, dreamy private villas let you escape the hustle and bustle and enjoy quality time together.
 
@@ -141,7 +141,7 @@ Want an even more luxurious stay? Choose a private pool suite! These suites offe
 
 ### [West] Sea Views and Serenity: Sea La Vie Resort (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a2a72d4f55579af8a7830bd560804fe9.jpg)
+![West Sea Views and Serenity: Sea La Vie Resort (Map)](https://images.gobaligo.id/vocus/vocus_a2a72d4f55579af8a7830bd560804fe9.jpg)
 
 Craving a peaceful escape from the crowds to enjoy a tranquil seaside holiday with your partner or family on Nusa Penida? Nestled on a private beachfront green space, the 4-star Sea La Vie Resort is your ideal choice.
 
@@ -157,7 +157,7 @@ The hotel's most distinctive accommodation is the standalone wooden cottage, wit
 
 ### 【West】Vast Sea Views, Leisurely Getaway: Pramana Natura (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_357e187da8066c218200ec8426cb0fb2.jpg)
+![【West】Vast Sea Views, Leisurely Getaway: Pramana Natura (Map](https://images.gobaligo.id/vocus/vocus_357e187da8066c218200ec8426cb0fb2.jpg)
 
 Looking for a hotel on Nusa Penida with spacious rooms, stunning sea views, and an infinity pool? Pramana Natura is definitely your ideal choice!
 
@@ -171,7 +171,7 @@ Each villa has a wooden balcony with an outdoor dining area and lounge chairs; s
 
 ### 【West】Seaside Retreat for Pure Relaxation: MAUA Nusa Penida (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f25f685601c34b75417db7a039edf997.jpg)
+![【West】Seaside Retreat for Pure Relaxation: MAUA Nusa Penida ](https://images.gobaligo.id/vocus/vocus_f25f685601c34b75417db7a039edf997.jpg)
 
 MAUA Nusa Penida is a 4.5-star private pool beachfront villa on Nusa Penida, offering the ultimate in privacy. Choose from four private villa types.
 
@@ -181,7 +181,7 @@ Located right by Gamat Bay, it's just a 10-minute drive from Banana Beach. The h
 
 ### 【East】Endless Adventure, an Island Escape: The Angkal Resort (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_742bb986f70136be7aea1a1cabb43d13.jpg)
+![【East】Endless Adventure, an Island Escape: The Angkal Resort](https://images.gobaligo.id/vocus/vocus_742bb986f70136be7aea1a1cabb43d13.jpg)
 
 {{block:penidaklook}}
 
@@ -195,7 +195,7 @@ The beachfront restaurant and bar provide dining options. Their Wooden Floor Stu
 
 ### 【North】Gentle Sea Breezes, Effortless Island Escape: Blue Harbor Beachfront Villas & Resto (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_960bd58e89c19062b0bed8d690d78ff1.jpg)
+![【North】Gentle Sea Breezes, Effortless Island Escape: Blue Ha](https://images.gobaligo.id/vocus/vocus_960bd58e89c19062b0bed8d690d78ff1.jpg)
 
 Looking for a high-value resort on Nusa Penida? The 4-star Blue Harbor Beachfront Villas & Resto is a perfect choice for couples and families!
 
@@ -211,7 +211,7 @@ We recommend choosing a sea-view room—the extra cost is well worth it. Familie
 
 ### 【North】Savor Island Vibes, Indulge in Leisurely Getaway: Mambo Beach Resort (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bfa2271d7ada6c3390ed1dd316a443c3.jpg)
+![【North】Savor Island Vibes, Indulge in Leisurely Getaway: Mam](https://images.gobaligo.id/vocus/vocus_bfa2271d7ada6c3390ed1dd316a443c3.jpg)
 
 Step into Mambo Beach Resort, where potted greenery, thoughtfully placed artworks, rustic pendant lights, and warm picture frames reflect the hotel's attention to detail, creating a comfortable, laid-back yet stylish atmosphere.
 
@@ -229,7 +229,7 @@ If you're looking for some great value accommodation options, our guide is a rel
 
 ### 【East】Hidden Gem on Nusa Penida: Kepaon Gari Inn (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1c2a5741def47124736cd28a426f9f5b.jpg)
+![【East】Hidden Gem on Nusa Penida: Kepaon Gari Inn (Map)](https://images.gobaligo.id/vocus/vocus_1c2a5741def47124736cd28a426f9f5b.jpg)
 
 Kepaon Gari Inn is hailed as one of the best mid-range hotels on Nusa Penida, boasting numerous positive reviews and often selling out year-round.
 
@@ -245,7 +245,7 @@ All in all, Kepaon Gari Inn is another great choice for solo travelers or couple
 
 ### 【East】Jukung Cottage Beach Bar (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e62c60bea137720bd3b21eeddb615593.jpg)
+![【East】Jukung Cottage Beach Bar (Map)](https://images.gobaligo.id/vocus/vocus_e62c60bea137720bd3b21eeddb615593.jpg)
 
 Located 2.5 km from Sampalan Harbour, Jukung Cottage Beach Bar is your ideal base on the east coast of Nusa Penida.
 
@@ -263,7 +263,7 @@ Jukung Cottage Batununggul offers a comfortable seaside stay for an unforgettabl
 
 ### 【West】Coconut Breezes & Family Fun: Coco Resort Penida (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a2fd46d3f6278feff922193149df7aaa.jpg)
+![【West】Coconut Breezes & Family Fun: Coco Resort Penida (Map)](https://images.gobaligo.id/vocus/vocus_a2fd46d3f6278feff922193149df7aaa.jpg)
 
 Looking for affordable accommodation on Nusa Penida? Coco Resort, with its outdoor pool, BBQ facilities, and terrace, is your ideal choice.
 
@@ -277,25 +277,25 @@ Coco Resort is your family paradise! With an outdoor pool, water sports faciliti
 
 ### 【West】Penida Sunset Ocean View Bungalows (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774424697346-434192446.jpg)
+![【West】Penida Sunset Ocean View Bungalows (Map)](https://images.gobaligo.id/images/2026-03/1774424697346-434192446.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774424698336-434192584.jpg)
+![【West】Penida Sunset Ocean View Bungalows (Map)](https://images.gobaligo.id/images/2026-03/1774424698336-434192584.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774424699180-434194289.jpg)
+![【West】Penida Sunset Ocean View Bungalows (Map)](https://images.gobaligo.id/images/2026-03/1774424699180-434194289.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774424701234-434194520.jpg)
+![【West】Penida Sunset Ocean View Bungalows (Map)](https://images.gobaligo.id/images/2026-03/1774424701234-434194520.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774424702912-430709981.jpg)
+![【West】Penida Sunset Ocean View Bungalows (Map)](https://images.gobaligo.id/images/2026-03/1774424702912-430709981.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774424704425-430709991.jpg)
+![【West】Penida Sunset Ocean View Bungalows (Map)](https://images.gobaligo.id/images/2026-03/1774424704425-430709991.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774424705535-430709993.jpg)
+![【West】Penida Sunset Ocean View Bungalows (Map)](https://images.gobaligo.id/images/2026-03/1774424705535-430709993.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774424707022-430710033.jpg)
+![【West】Penida Sunset Ocean View Bungalows (Map)](https://images.gobaligo.id/images/2026-03/1774424707022-430710033.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774424709325-430710062.jpg)
+![【West】Penida Sunset Ocean View Bungalows (Map)](https://images.gobaligo.id/images/2026-03/1774424709325-430710062.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774424710867-434192435.jpg)
+![【West】Penida Sunset Ocean View Bungalows (Map)](https://images.gobaligo.id/images/2026-03/1774424710867-434192435.jpg)
 
 With only eight bungalows, Penida Sunset Ocean View Bungalows creates a warm and intimate atmosphere.
 
@@ -309,7 +309,7 @@ The resort boasts an excellent location, just 1.4 km from Crystal Bay Beach. Gue
 
 ### 【West】Northwest Seaside Retreat for a Relaxing Getaway: Semabu Hills Hotel (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_32659631c9482c8308d98ad6ccd7b5b0.jpg)
+![【West】Northwest Seaside Retreat for a Relaxing Getaway: Sema](https://images.gobaligo.id/vocus/vocus_32659631c9482c8308d98ad6ccd7b5b0.jpg)
 
 Semabu Hills Hotel, located in the northwest of Nusa Penida Island, is a favorite among travelers for its great value and captivating views. The hotel boasts stunning island and ocean vistas, allowing you to immerse yourself in nature's embrace.
 
@@ -325,7 +325,7 @@ Semabu Hills Hotel is not only perfect for couples but also ideal for group trav
 
 ### 【Central】Mountain Views and Relaxed Stays: Dayuh House
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9fd4717dc4ab00ba3e84279e495bb791.jpg)
+![【Central】Mountain Views and Relaxed Stays: Dayuh House](https://images.gobaligo.id/vocus/vocus_9fd4717dc4ab00ba3e84279e495bb791.jpg)
 
 Located in the heart of Nusa Penida, Dayuh House offers stunning rooms with Wi-Fi, air conditioning, a terrace, and a breathtaking infinity pool, along with beautiful outdoor spaces for you to immerse in comfort.
 
@@ -337,7 +337,7 @@ Dayuh House is ideal for solo travelers or couples. If you're traveling alone or
 
 > ▶[Check Agoda availability & book](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8255701)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2870cdcafa2fb6e8c64f6c5d48849710.jpg)
+![【Central】Mountain Views and Relaxed Stays: Dayuh House](https://images.gobaligo.id/vocus/vocus_2870cdcafa2fb6e8c64f6c5d48849710.jpg)
 
 ## Complete Nusa Penida Guide:
 

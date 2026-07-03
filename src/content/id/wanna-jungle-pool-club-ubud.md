@@ -32,7 +32,7 @@ Pas lagi di Ubud, jantung budaya Bali, wajib banget mampir ke pool club hits yan
 
 ## **Kolam Bernuansa Sawah Terasering yang Menyatu dengan Alam**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f6fc53ee9b26048fd4f3d333e111e58f.jpg)
+![Kolam Bernuansa Sawah Terasering yang Menyatu dengan Alam](https://images.gobaligo.id/vocus/vocus_f6fc53ee9b26048fd4f3d333e111e58f.jpg)
 
 Begitu masuk Wanna Jungle, kamu bakal langsung terpesona sama desain kolamnya yang unik! Arsiteknya pinter banget menggabungkan konsep sawah terasering khas Bali ke dalam bentuk kolam. Air terjun bertingkat berpadu apik dengan hutan tropis di sekitarnya — dari sudut mana pun foto jadi kayak sampul majalah. Yang paling oke, meski bukan tamu resort, kamu tetap bisa beli day pass buat nikmatin surga ini.
 

@@ -64,7 +64,7 @@ https://youtu.be/Y0KW6eo79fU
 
 ## H2O / River Pool yang Hits Banget
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776081381855-pools-beach-ayana-river.jpeg)
+![H2O / River Pool yang Hits Banget](https://images.gobaligo.id/images/2026-04/1776081381855-pools-beach-ayana-river.jpeg)
 
 Beda sama pengalaman dulu di Bird's Nest yang bisa foto santai tanpa antre, sekarang River Pool (H2O Pool) yang disebut di video punya aturan baru:
 

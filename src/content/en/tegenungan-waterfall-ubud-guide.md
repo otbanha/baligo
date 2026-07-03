@@ -25,13 +25,13 @@ lang: en
 _srcHash: 37de016d634520b4c9430a03a630f836
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_58deb853e5219dd7c4a2a06f4c88a79f.jpg)
+![Bali Travelogue｜The Secret Waterfalls of Bali You Didn't Kno](https://images.gobaligo.id/vocus/vocus_58deb853e5219dd7c4a2a06f4c88a79f.jpg)
 
 The Ubud attraction Tegenungan Waterfall is the closest natural waterfall to Ubud city center. Although it's just a 25-minute drive, the steep 160-step staircase leaves many visitors exhausted, with sore legs lasting for days. We'll take you to the best spot to view Tegenungan Waterfall, ensuring you enjoy the most beautiful scenery with minimal effort!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_853581166b88f30517fe98257f29d396.jpg)
+![Bali Travelogue｜The Secret Waterfalls of Bali You Didn't Kno](https://images.gobaligo.id/vocus/vocus_853581166b88f30517fe98257f29d396.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1a2df74d4a69179ac863494fea4f869d.jpg)
+![Bali Travelogue｜The Secret Waterfalls of Bali You Didn't Kno](https://images.gobaligo.id/vocus/vocus_1a2df74d4a69179ac863494fea4f869d.jpg)
 
 Amidst the lush greenery of Ubud lies a breathtaking treasure - Tegenungan Waterfall. This waterfall near Ubud serves as the perfect starting point for exploring Ubud's natural beauty.
 

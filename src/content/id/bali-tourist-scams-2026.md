@@ -26,7 +26,7 @@ Banyak yang DM saya: 'Pertama kali ke Bali, bakal kena tipu nggak ya?' Jujur, Ba
 
 ## **Trik Sulap Penukaran Uang Ala Money Changer**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9f72c79c18a0688540bdd57dd45f5fad.png)
+![Trik Sulap Penukaran Uang Ala Money Changer](https://images.gobaligo.id/vocus/vocus_9f72c79c18a0688540bdd57dd45f5fad.png)
 
 Toko kecil di pinggir jalan yang nawarin kurs tinggi banget sering pakai 'teknik hitung cepat' buat nyembunyiin uang di sudut pandang. Ingat, kurs yang luar biasa tinggi hampir pasti 100% penipuan. Saran: cuma ke toko resmi yang ada etalasenya, dan setelah menukar, hitung pelan-pelan sendiri di depan konter. Jangan buru-buru narik uang karena malu.
 

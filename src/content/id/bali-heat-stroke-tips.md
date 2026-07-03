@@ -20,7 +20,7 @@ lang: id
 _srcHash: d7700bf26d728e7acbb694714e598472
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0d7db454b968029e4ed332b57c147411.jpg)
+![【Panduan Bertahan Hidup di Bali】Kepanasan? 3 Minuman Ajaib &](https://images.gobaligo.id/vocus/vocus_0d7db454b968029e4ed332b57c147411.jpg)
 
 Saat liburan di Bali, cuaca panas dan lembap bikin heat exhaustion (bahasa Indonesianya: kelelahan panas) jadi masalah yang sering banget terjadi. Selain cara standar kayak cari tempat teduh dan minum banyak air, ada beberapa 'ramuan rahasia' khas Bali yang bisa bantu kamu pulih lebih cepat:
 
@@ -56,7 +56,7 @@ Kalau kamu mulai **bingung, suhu badan di atas 40°C, atau nggak bisa keluar ker
 
 ## Boleh Nggak Sih Pijat atau Spa Setelah Heatstroke?
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1120e315e89abf9baad7f4e4f333bee6.png)
+![Boleh Nggak Sih Pijat atau Spa Setelah Heatstroke?](https://images.gobaligo.id/vocus/vocus_1120e315e89abf9baad7f4e4f333bee6.png)
 
 Setelah kena heatstroke, boleh nggak sih kamu pijat atau spa? Jawabannya tergantung **kondisi tubuh** dan **jenis perawatan** yang kamu pilih. Di Bali yang panas begini, salah-salah pijat malah bikin heatstroke makin parah, jadi hati-hati banget.
 

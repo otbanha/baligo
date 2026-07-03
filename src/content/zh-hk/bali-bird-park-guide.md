@@ -16,7 +16,7 @@ _srcHash: de1d4784bccb99b62a12cb99a9bad27c
 
 坐落喺峇里島中部吉安雅縣（Gianyar Regency）嘅 **峇里島鳥園（Bali Bird Park）**，自1990年代開幕以來，就成為島上最受歡迎嘅自然教育景點之一。園區佔地約 **2 公頃**，擁有茂密嘅熱帶植物同水池景觀，並以精心設計嘅生態區重現世界各地雀鳥嘅自然棲息環境。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9d386245f4b2e5ff72a2aa378b5a1a8a.jpg)
+![峇里島鳥園簡介：鳥語花香嘅熱帶天堂](https://images.gobaligo.id/vocus/vocus_9d386245f4b2e5ff72a2aa378b5a1a8a.jpg)
 
 目前鳥園內共飼養超過 **1,300 隻雀鳥，涵蓋超過 250 種唔同品種**，其中包括印尼本土、非洲、南美洲同澳洲嘅珍稀雀鳥，係觀賞、攝影同教育體驗嘅理想地點。
 
@@ -45,7 +45,7 @@ _srcHash: de1d4784bccb99b62a12cb99a9bad27c
 
 ## 門票資訊同開放時間
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b16ceeb58d98806e10f752b00defde3e.jpg)
+![門票資訊同開放時間](https://images.gobaligo.id/vocus/vocus_b16ceeb58d98806e10f752b00defde3e.jpg)
 
 **門票價格（外籍遊客）：**
 
@@ -71,7 +71,7 @@ _srcHash: de1d4784bccb99b62a12cb99a9bad27c
 
 ## 最佳參觀季節同時間
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9d101574f0b093a6739c9a627f7e7433.jpg)
+![最佳參觀季節同時間](https://images.gobaligo.id/vocus/vocus_9d101574f0b093a6739c9a627f7e7433.jpg)
 
 峇里島屬於熱帶氣候，全年都適合去旅行。就算係雨季（11月–3月），大部分日頭都係晴天。
 
@@ -85,7 +85,7 @@ _srcHash: de1d4784bccb99b62a12cb99a9bad27c
 
 峇里島鳥園分為八個主要棲息地展區，每個區都根據唔同地區嘅氣候同植被打造，模擬原生環境。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aea4c2b914a235be16f57e09e219a799.jpg)
+![八大主題生態區](https://images.gobaligo.id/vocus/vocus_aea4c2b914a235be16f57e09e219a799.jpg)
 
 1. **印尼群島館（Archipelago Zone）**
    展示蘇門答臘、加里曼丹、爪哇等地嘅雀仔，包括犀鳥、金頸鳩同蛇鷹。
@@ -104,7 +104,7 @@ _srcHash: de1d4784bccb99b62a12cb99a9bad27c
 8. **科莫多展區（Komodo Experience）**
    峇里少數可以近距離觀察 **科莫多巨蜥（Varanus komodoensis）** 嘅地方。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9514524d6de6faa011fb3ec41b4e596a.png)
+![八大主題生態區](https://images.gobaligo.id/vocus/vocus_9514524d6de6faa011fb3ec41b4e596a.png)
 
 ***
 
@@ -112,19 +112,19 @@ _srcHash: de1d4784bccb99b62a12cb99a9bad27c
 
 - 🕊️ **白冠犀鳥（White-Crested Hornbill）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_94078312d545c3cd0dd092a4eedc6eee.jpg)
+![必睇明星雀仔](https://images.gobaligo.id/vocus/vocus_94078312d545c3cd0dd092a4eedc6eee.jpg)
 
 特徵係雪白羽冠同黑亮身體，優雅而神秘。
 
 - 🦉 **雕鴞（Eagle Owl）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f7fbcada14c7aafed7a094d8650699e5.jpg)
+![必睇明星雀仔](https://images.gobaligo.id/vocus/vocus_f7fbcada14c7aafed7a094d8650699e5.jpg)
 
 世界最大型貓頭鷹之一，耳羽向外伸展，非常壯觀。
 
 - 🐦 **峇里八哥（Bali Starling）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_add94c706a8547ea70a305ae78e01f0a.jpg)
+![必睇明星雀仔](https://images.gobaligo.id/vocus/vocus_add94c706a8547ea70a305ae78e01f0a.jpg)
 
 峇里島象徵鳥，白羽藍眼圈，數量稀少，被列為極危物種。
 
@@ -138,13 +138,13 @@ _srcHash: de1d4784bccb99b62a12cb99a9bad27c
 
 （僅供參考，請依官網資訊為準）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1ca3d098baf12739984e4ab370203cd7.jpg)
+![園內活動與表演節目](https://images.gobaligo.id/vocus/vocus_1ca3d098baf12739984e4ab370203cd7.jpg)
 
 ***
 
 ## 教育與保育使命
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d4c7abe03b460c0714238ead3e94ed93.jpg)
+![教育與保育使命](https://images.gobaligo.id/vocus/vocus_d4c7abe03b460c0714238ead3e94ed93.jpg)
 
 峇里島鳥園肩負重要的 **環境教育與野生動物保育任務**。園區設有研究與繁殖中心，與多個國際保育組織合作推動：
 
@@ -215,7 +215,7 @@ _srcHash: de1d4784bccb99b62a12cb99a9bad27c
 
 ## 結語：翱翔於自然與教育之間嘅奇幻旅程
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8d897a1180c7f579fc74c07cec46d69f.jpg)
+![結語：翱翔於自然與教育之間嘅奇幻旅程](https://images.gobaligo.id/vocus/vocus_8d897a1180c7f579fc74c07cec46d69f.jpg)
 
 峇里島鳥園唔單止係動物園，更加係 **人與自然和諧共處嘅縮影**。喺呢度，你可以感受到雀鳥飛翔嘅自由、了解保育嘅價值，同埋同屋企人一齊創造難忘嘅回憶。
 

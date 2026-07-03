@@ -26,7 +26,7 @@ _srcHash: 3c1d517f614c0dbd46ec9d76ba9c6d20
 
 今次行程最令我哋感動嘅，除咗靚景，仲有我哋嘅包車司機 Gede Arimbawa！佢唔單止貼心，仲好善良同熱心。尊重我哋嘅行程安排，喺適當嘅時候畀啲實用建議，令我哋喺峇里島嘅幾日都好順利。無論係提我哋交通時間，定係幫手訂餐廳、活動，佢嘅服務都令人好放心。咁好嘅司機推薦畀大家！🥰
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9c6297afa65717ca1de714d7b83a7289.jpg)
+![1. 包車司機推薦：Gede Arimbawa](https://images.gobaligo.id/vocus/vocus_9c6297afa65717ca1de714d7b83a7289.jpg)
 
 Gede 喺社團有超多好評！[請參考呢度](/blog/bali-private-car-drivers-guide/)
 
@@ -126,7 +126,7 @@ https://youtu.be/GivvqCXp11A
 
 > 編按，用手機叫車就可以避免呢種情況發生㗎：[喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/blog/gojek-bali-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_132b0fdbdbd2b8f1e37a9dc51b38bd58.png)
+![13. 騎士騙局要小心！](https://images.gobaligo.id/vocus/vocus_132b0fdbdbd2b8f1e37a9dc51b38bd58.png)
 
 以上係我哋今次旅程嘅一啲經驗，仲有好多細節未講得晒，諗到嘅我會再補充！再次多謝我哋嘅司機Gede，雖然後三日我哋去咗第二個島，但佢依然保持聯絡，隨時幫我哋解決問題。今次旅程雖然有啲波折，但總體嚟講好開心！如果你都有計劃去峇里島，以上呢啲建議希望幫到你，祝旅途愉快！💼🌞
 

@@ -22,7 +22,7 @@ _srcHash: 028a8ed8d691117a4a2d0b0f46f9e387
 ---
 Kalau kamu ke Bali, jangan sampai kelewatan nonton pertunjukan Tari Kecak Api! Ini pertunjukan seru yang bakal bikin kamu inget seumur hidup.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f8c6296d8f2f09b45c9843546731b432.jpg)
+![Kecak Fire Dance – Pertunjukan Spektakuler Wajib Nonton di B](https://images.gobaligo.id/vocus/vocus_f8c6296d8f2f09b45c9843546731b432.jpg)
 
 ## Pertunjukan yang Bikin Merinding
 
@@ -38,7 +38,7 @@ Tari Kecak Api nggak pakai orkestra gamelan tradisional yang biasa mengiringi pe
 
 ## Cerita di Balik Pertunjukan
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f2406be4ab4d6ea6026d450f8c08440e.jpg)
+![Cerita di Balik Pertunjukan](https://images.gobaligo.id/vocus/vocus_f2406be4ab4d6ea6026d450f8c08440e.jpg)
 
 Pertunjukan Tari Kecak di Uluwatu sebenarnya adalah tarian tradisional khas Bali yang super ikonik. Ceritanya diambil dari epos India, Ramayana. Inti pertunjukannya menceritakan kisah Pangeran Rama yang heroik saat menyelamatkan istrinya, Sita.
 
@@ -48,7 +48,7 @@ Dalam pertunjukan, para penari memakai kostum tradisional, dengan latar suara 'c
 
 ## Asal-usul Tari Kecak
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a406dcf7d7e0aeedce7bcc6494100b63.jpg)
+![Asal-usul Tari Kecak](https://images.gobaligo.id/vocus/vocus_a406dcf7d7e0aeedce7bcc6494100b63.jpg)
 
 Tari Kecak konon berasal dari ritual kuno Bali yang disebut Sanghyang, yang tujuannya buat ngusir roh jahat. Penarinya biasanya dalam kondisi trance. Tarian ini pertama kali muncul tahun 1930, saat penari Bali, Wayan Limbak, bekerja sama dengan pelukis Jerman, Walter Spies. Mereka menggabungkan kisah epik Ramayana ke dalamnya, menciptakan versi dramatis dari pertunjukan Sanghyang. Setelah dibawa tur keliling dunia, tarian ini pun mulai populer.
 

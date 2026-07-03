@@ -19,7 +19,7 @@ _srcHash: 2bb505e944fe9f9bb35900f49d62f772
 
 喺峇里島參加潛水或者浮潛等海上活動係好多旅客嘅首選，但係由於呢類活動多數喺海邊或者離島進行，冇辦法帶袋上船，更加唔好講保險箱，所以「護照、銀包、手機應該點樣保管？」成為大家最常問嘅問題。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_13ba81f657671652cb965ba7cbdbbb32.jpg)
+![峇里島潛水同浮潛必讀：護照同貴重物品點樣安全保管？](https://images.gobaligo.id/vocus/vocus_13ba81f657671652cb965ba7cbdbbb32.jpg)
 
 唔使擔心！以下我哋整理咗**6種安全又實用嘅保管方式**，幫你喺享受海洋活動嗰陣都可以放心！
 
@@ -65,7 +65,7 @@ _srcHash: 2bb505e944fe9f9bb35900f49d62f772
 
 安全旅遊嘅第一步，就係**出門從簡、減少誘惑**！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5c7cb0bc463870c71435bbe2ca2920ab.jpg)
+![6. 出門從簡，減少風險](https://images.gobaligo.id/vocus/vocus_5c7cb0bc463870c71435bbe2ca2920ab.jpg)
 
 ---
 
@@ -103,6 +103,6 @@ _srcHash: 2bb505e944fe9f9bb35900f49d62f772
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_16339969501f0b9ff7e0dc5c638cd48d.png)
+![5. 如果物品遺失咗點算？](https://images.gobaligo.id/vocus/vocus_16339969501f0b9ff7e0dc5c638cd48d.png)
 
 峇里島嘅海洋世界美不勝收，但保護好自己嘅財物更加係旅程中不可忽略嘅一環。只要事前做好準備、選對保管方式，就能夠令潛水或浮潛嘅回憶變得更完美，亦更安心。

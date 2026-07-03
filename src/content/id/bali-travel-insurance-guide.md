@@ -168,7 +168,7 @@ Kalau kamu mengalami:
 
 Biaya medisnya bisa jauh lebih mahal.
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778985202187-insurance2.png)
+![Biaya Medis di Bali, Ternyata Lebih Mahal dari yang Dibayang](https://images.gobaligo.id/images/2026-05/1778985202187-insurance2.png)
 
 Kamu juga bisa beli asuransi lewat platform online: [Klook Asuransi Perjalanan Luar Negeri](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1292786&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Finsurance%2Fklook-protect%2F) [Trip (Wisatawan Hong Kong)](https://hk.trip.com/insurance?bid=1&cid=2&pid=1&locale=zh-HK&curr=HKD&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 

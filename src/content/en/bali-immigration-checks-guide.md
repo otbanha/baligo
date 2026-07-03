@@ -25,7 +25,7 @@ _srcHash: 00c8e3f6eb9fbe4a8796b7201dd4a648
 
 ## **Many are asking: Do I need to print them?**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1ff5703b8036ffd6acb543380c8cc3dc.png)
+![Many are asking: Do I need to print them?](https://images.gobaligo.id/vocus/vocus_1ff5703b8036ffd6acb543380c8cc3dc.png)
 
 Essential documents for traveling to Bali include:
 
@@ -113,7 +113,7 @@ No, black and white is fine as long as it's clear and readable.
 
 ## 📩 **"Bali Travel Guide" Homepage Overview**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
+!["Bali Travel Guide" Homepage Overview](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 
 **By subscribing for free, you'll get:**
 

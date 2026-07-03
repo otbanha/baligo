@@ -22,7 +22,7 @@ _srcHash: 45801afecaf2a3dc727539a2ede2a0db
 
 When travelers arrive in Bali, they might be surprised: I heard there's a tourism tax of IDR 150,000 (approximately USD$10) to pay, but it seems like you don't actually have to?? Because there's no check to see if it's been paid online in advance, nor is there a mandatory payment counter at the airport. However, we must understand that this tourism tax system is more like a concept that hopes travelers will understand and support, rather than a compulsory payment requirement.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8b15da7a473fb11a6f634d981fffbfa9.jpg)
+![Is it optional? What exactly is Bali's tourism tax?](https://images.gobaligo.id/vocus/vocus_8b15da7a473fb11a6f634d981fffbfa9.jpg)
 
 Bali's tourism tax was established as a means to improve issues such as transportation, waste management, and cultural preservation in Bali. This approach reflects the wisdom of Bali's authorities and their commitment to sustainable tourism.
 
@@ -36,7 +36,7 @@ In summary, Bali's tourism tax system is an innovative approach aimed at improvi
 
 Since only 70% of travelers actually pay the tourism tax, [Bali has started random checks on tourism tax payments from March 26th!](/blog/bali-tourism-tax-update/) To be a responsible Bali tourist, we still recommend that you pay it!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7b65cf3a3a36d6fec5bc94d0b20dc173.png)
+![Is it optional? What exactly is Bali's tourism tax?](https://images.gobaligo.id/vocus/vocus_7b65cf3a3a36d6fec5bc94d0b20dc173.png)
 
 **The tourism tax is an obligation for travelers, not a multiple-choice question that can be skipped!**
 
@@ -55,7 +55,7 @@ Read more: [Bali Tourism Tax Guide 2024: New Rules, Payment Methods, and Island-
 
 ## 📩 **Join the "Bali Travel Guide" now and become a Bali travel expert!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Join the "Bali Travel Guide" now and become a Bali travel ex](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **By subscribing for free, you’ll get:**
 

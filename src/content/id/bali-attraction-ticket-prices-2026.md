@@ -35,7 +35,7 @@ lang: id
 _srcHash: 152511bc4a8efb4936e31dc8d1d2ac98
 ---
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775747995914-24dd9e26-f35c-4ac7-8699-d9f3e7d1a2a6.jpg)
+![Tiket tempat wisata di Bali naik! 2026 Harga terbaru Monkey ](https://images.gobaligo.id/images/2026-04/1775747995914-24dd9e26-f35c-4ac7-8699-d9f3e7d1a2a6.jpg)
 
 Buat kamu yang mau ke **Bali**, catat ya! Kalau lagi rencanain trip setelah April, budget mungkin perlu sedikit naik. Menurut pengumuman resmi terbaru, beberapa tempat populer kayak Monkey Forest Ubud (Sacred Monkey Forest) sama Tanah Lot (Pura Tanah Lot) udah resmi naikkan harga tiket mulai **1 April 2026**, kenaikannya sekitar 20% sampai 33%.
 
@@ -45,7 +45,7 @@ Kenaikan ini terutama buat ngimbangin biaya perawatan tempat wisata yang makin b
 
 Ini dia perubahan harga beberapa tempat yang paling terdampak & paling sering dikunjungi turis (pakai **harga tiket dewasa asing**):
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1775747330058-_2026-04-09_22.08.34.png)
+![Tabel perbandingan harga tiket tempat wisata populer sebelum](https://images.gobaligo.id/images/2026-04/1775747330058-_2026-04-09_22.08.34.png)
 
 > **Catatan penting:**
 > **Monkey Forest Ubud**: Dulu ada harga weekday & weekend (100k/120k), sekarang mulai April semuanya naik jadi **130,000 IDR**, nggak bedain hari lagi.

@@ -56,7 +56,7 @@ Tanjung Benoa 最受歡迎嘅活動係拖曳傘，其次係海底漫步、香蕉
 
 A1：拖曳傘最受歡迎，可以俯瞰成個南灣海景，仲有飛翔嘅刺激。另外海底漫步(sea walker)唔使閉氣就可以落海底，都幾受歡迎。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_84e7b1fd3bbfdd2efa3ce50265a4985f.jpg)
+![常見問題（FAQ）](https://images.gobaligo.id/vocus/vocus_84e7b1fd3bbfdd2efa3ce50265a4985f.jpg)
 
 **Q2：水上活動嘅價錢範圍係幾多？**
 

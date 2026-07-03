@@ -35,7 +35,7 @@ longitude: 115.15951
 
 如果你去巴厘岛旅游，想住私人泳池 Villa 却不想跑到偏僻的地方，The Maya Seminyak Villas（又叫 Maya Sayang Seminyak）是个很值得考虑的选项。就藏在 Seminyak 最热闹的 Eat Street（Kayu Aya 街）旁边，走路几分钟就能到餐厅和购物商场，但进了 Villa 大门又马上安静下来，完全不像身处市中心。整个物业只有11间 Villa，规模小，私密感很强。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238183569-caeddccae60921b94d19b0c2e88fd0ab.jpg)
+![The Maya Seminyak Villas｜水明漾闹中取静私人泳池 Villa 推荐 2026 - Go Bali](https://images.gobaligo.id/images/2026-04/1776238183569-caeddccae60921b94d19b0c2e88fd0ab.jpg)
 
 ***
 
@@ -45,7 +45,7 @@ longitude: 115.15951
 
 海滩方面，Seminyak Beach 步行大约20分钟，距离算中等，不是那种出门就到的程度，但也不需要叫车。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238213668-b8c519e3606601c53285a3622679d3aa.jpg)
+![位置与周边环境](https://images.gobaligo.id/images/2026-04/1776238213668-b8c519e3606601c53285a3622679d3aa.jpg)
 
 这个区域本身就是 Seminyak 消费最集中的地带——逛街、吃饭、喝咖啡、做 SPA、看夕阳，几乎所有你在巴厘岛会做的事，走路或骑车几分钟都可以解决。而 The Maya 的选址巧妙就在这里：够近，但藏在小巷里，意外地安静。
 
@@ -55,11 +55,11 @@ longitude: 115.15951
 
 整个物业的入口是传统巴里风的 Angkul-Angkul 木雕大门，进去之后是一条被竹林和热带植物夹道的小路，跟外面街道的喧哗感完全不同，切换很快。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238253051-62383025b5be5b788f2617facd1f0d2a.webp)
+![设施介绍](https://images.gobaligo.id/images/2026-04/1776238253051-62383025b5be5b788f2617facd1f0d2a.webp)
 
 公共设施方面，有一个共用室外泳池搭配躺椅区，但说实话大部分住客并不太用，因为自己 Villa 里面就有私人泳池了。另外附设全服务 Spa，Maya Sayang Spa 提供热石按摩、瑞典式按摩、芳疗、身体去角质、美甲等疗程，设备包含室内热水浴缸。餐厅提供早餐、午餐和晚餐，菜单以亚洲料理为主，涵盖巴厘岛菜、韩国菜、日本菜，也有西式选项，价格被住客评为合理。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238356883-37237cb64d90a6d2c9a38f40903f83e9.webp)
+![设施介绍](https://images.gobaligo.id/images/2026-04/1776238356883-37237cb64d90a6d2c9a38f40903f83e9.webp)
 
 有个小亮点是：早餐可以事先预订时间，由服务人员直接送到你的 Villa 里享用，不用去餐厅报到，这种感觉真的是在 Villa 住宿才有的体验。另外提供免费脚踏车租借和 Seminyak 区域接驳服务，对不想叫 Grab 车的住客很方便。没有健身房，这点要注意。
 
@@ -71,51 +71,51 @@ longitude: 115.15951
 
 单卧室泳池别墅：
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238469969-41a39af3b6dad4a345a413aff4b9088a.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776238469969-41a39af3b6dad4a345a413aff4b9088a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238470386-ab0fd810d3a7a332e394f3d6f833e95e.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776238470386-ab0fd810d3a7a332e394f3d6f833e95e.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238470818-b8ac9d69f21781cf7bc674cde68a1e6a.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776238470818-b8ac9d69f21781cf7bc674cde68a1e6a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238471233-fd1615c1e089d524045dea2c6bf269ab.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776238471233-fd1615c1e089d524045dea2c6bf269ab.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238471651-9c886ebd4f0e88a05d6deb6a4eb904d4.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776238471651-9c886ebd4f0e88a05d6deb6a4eb904d4.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238472058-3c8cb57ca27157f17cb74970049f4d3b.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776238472058-3c8cb57ca27157f17cb74970049f4d3b.webp)
 
 双卧室带私人泳池别墅：
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238551189-4c432754d56927d4e807d6828a20b86e.jpg)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776238551189-4c432754d56927d4e807d6828a20b86e.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238551837-8d57cea2b00699d4277482400e078b28.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776238551837-8d57cea2b00699d4277482400e078b28.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238552341-36d29ffdda417378dd836d1ce06ecf21.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776238552341-36d29ffdda417378dd836d1ce06ecf21.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238552855-88bcb4e61f1a93c54029ca420393db6f.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776238552855-88bcb4e61f1a93c54029ca420393db6f.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238553257-580109dfcb2405046d4cfb26becde59e.jpg)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776238553257-580109dfcb2405046d4cfb26becde59e.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238553800-aca6bdec62641a08f77c1717e098d157.jpg)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776238553800-aca6bdec62641a08f77c1717e098d157.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238554188-df53a1d96bba620248efbf4b3a01a92a.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776238554188-df53a1d96bba620248efbf4b3a01a92a.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238554587-0f8d796c049fc958a7b7fa616f358a44.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776238554587-0f8d796c049fc958a7b7fa616f358a44.webp)
 
 三卧室泳池别墅：
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238621248-a1c4be0f6811193e61919e7d511a59f2.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776238621248-a1c4be0f6811193e61919e7d511a59f2.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238621666-a9acc023155c000e59c187093156761c.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776238621666-a9acc023155c000e59c187093156761c.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238622478-caeddccae60921b94d19b0c2e88fd0ab.jpg)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776238622478-caeddccae60921b94d19b0c2e88fd0ab.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238623014-0e048f849115682f9c2ed1e2ebe9fd63.jpg)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776238623014-0e048f849115682f9c2ed1e2ebe9fd63.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238623415-5cc218716a3a1cb80f958ee06edacbbf.jpg)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776238623415-5cc218716a3a1cb80f958ee06edacbbf.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238623836-7e042947a353e5a18a356986531799f9.jpg)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776238623836-7e042947a353e5a18a356986531799f9.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238624322-64709e287b8d56dddafe30ae2b15597d.webp)
+![房型介绍](https://images.gobaligo.id/images/2026-04/1776238624322-64709e287b8d56dddafe30ae2b15597d.webp)
 
 建筑风格偏向传统的巴厘岛茅草屋顶和木雕装饰，开放式的起居室直接面对泳池，内外相连的格局让空气流通。卧室有空调，附蚊帐大床；浴室设计是半户外形式，有浸泡浴缸和独立淋浴间。厨房备有冰箱、微波炉和炉台，长住的旅客自己做饭也可以。
 
@@ -141,7 +141,7 @@ longitude: 115.15951
 
 几个实际缺点要说清楚。第一，别墅整体有些年纪，部分卫浴设备偏旧，户外厨房和半开放卫浴区域难免有蚊虫，虽然会提供蚊香，但介意这点的旅客要有心理准备。第二，起居室是开放式设计没有空调，巴厘岛热季的中午待在里面确实会闷热，只能靠风扇。第三，部分别墅位置较靠近邻近的餐厅和酒吧，晚上可能有人声和音乐传入，入住前可以要求安排较安静的别墅。
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776238746826-1e92b642c66eb69ff9555a704c386388.webp)
+![缺点老实说](https://images.gobaligo.id/images/2026-04/1776238746826-1e92b642c66eb69ff9555a704c386388.webp)
 
 ***
 

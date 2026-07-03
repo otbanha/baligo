@@ -19,7 +19,7 @@ _srcHash: 3ceaf3d3130598bb291a0f42f004669b
 
 您是否曾在 [[巴厘岛/印尼吃喝玩乐](https://www.facebook.com/groups/indonesia.travelguide/)] 或是[[Go Bali Go 巴厘岛旅游](https://www.facebook.com/groups/baligo/)]脸书社团上寻求大家的建议，或是参考了本网志收集的 40 多篇团友游记？这些信息相信对大家的行程规划提供了不小的帮助。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e6aacccee7d013aa323bc47900aea7e1.png)
+![如何写一篇精彩的巴厘岛游记](https://images.gobaligo.id/vocus/vocus_e6aacccee7d013aa323bc47900aea7e1.png)
 
 现在您也想贡献您的精彩游记吗？您的无私贡献将会帮助更多即将前往巴厘岛的游客！
 
@@ -37,7 +37,7 @@ _srcHash: 3ceaf3d3130598bb291a0f42f004669b
 
 ## **2. 行前准备**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_60272d510a19f0660d0f87d9ac0c7ef5.png)
+![2. 行前准备](https://images.gobaligo.id/vocus/vocus_60272d510a19f0660d0f87d9ac0c7ef5.png)
 
 在出发前往巴厘岛之前，您做了哪些准备？您可以分享一下您的行前攻略，包括机票和酒店的预订、行程的规划、签证的办理、行李的打包等。这些信息可以帮助其他即将前往巴厘岛的游客做好准备。
 
@@ -49,7 +49,7 @@ _srcHash: 3ceaf3d3130598bb291a0f42f004669b
 
 ## **3. 每日行程**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f69316f2cf96c7f3a04f4f9266deefa1.png)
+![3. 每日行程](https://images.gobaligo.id/vocus/vocus_f69316f2cf96c7f3a04f4f9266deefa1.png)
 
 这是游记的重头戏，您可以按照每天的行程来撰写。对于每一天，您可以详细介绍一下：
 
@@ -66,7 +66,7 @@ _srcHash: 3ceaf3d3130598bb291a0f42f004669b
 
 ## **4. 司机推荐**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_561337d8175ccbadeeef76b67d4d97f2.png)
+![4. 司机推荐](https://images.gobaligo.id/vocus/vocus_561337d8175ccbadeeef76b67d4d97f2.png)
 
 如果您在巴厘岛期间聘请了包车司机，您可以分享一下您的司机的推荐。介绍一下司机的服务态度、驾驶技术和收费情况等。
 
@@ -78,7 +78,7 @@ _srcHash: 3ceaf3d3130598bb291a0f42f004669b
 
 ## **5. 旅游心得**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a577f9bc0d5c02c673874a6c29404c4.png)
+![5. 旅游心得](https://images.gobaligo.id/vocus/vocus_9a577f9bc0d5c02c673874a6c29404c4.png)
 
 在游记的结尾，您可以分享一下您的巴厘岛之旅的总体感受。您收获了哪些？有什么值得分享的经验和教训？您的心得将帮助其他游客更好地规划他们的巴厘岛之旅。
 
@@ -90,7 +90,7 @@ _srcHash: 3ceaf3d3130598bb291a0f42f004669b
 
 ## **以下是一些额外的建议：**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c391482abfdb4919d7749336f8e8589a.png)
+![以下是一些额外的建议：](https://images.gobaligo.id/vocus/vocus_c391482abfdb4919d7749336f8e8589a.png)
 
 - 使用图像和视频来丰富您的游记。
 - 保持文章的简洁性和可读性。

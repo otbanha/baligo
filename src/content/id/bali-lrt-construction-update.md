@@ -36,7 +36,7 @@ LRT adalah salah satu moda transportasi perkotaan modern yang udah sukses di ban
 
 ## Tahapan Proyek
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c2b672737b7461372de346e8ee4c0706.jpg)
+![Tahapan Proyek](https://images.gobaligo.id/vocus/vocus_c2b672737b7461372de346e8ee4c0706.jpg)
 
 ### Tahap Pertama: Bandara ke Kuta
 

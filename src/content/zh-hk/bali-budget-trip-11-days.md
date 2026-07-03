@@ -83,7 +83,7 @@ ATV / 漂流唔會翻船
 
 火山睇日出 / 黑色火山熔岩
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_068e3f341e55646489c9b84c8f8b19f9.jpg)
+![巴杜爾火山日出吉普車](https://images.gobaligo.id/vocus/vocus_068e3f341e55646489c9b84c8f8b19f9.jpg)
 
   **小建議**：記得著長袖外套，山頂嘅清晨氣溫相當低。我哋當時只係著短袖短褲，凍到直發抖，但呢段經歷卻成咗我哋嘅難忘回憶。
 
@@ -198,7 +198,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 **門票費用**：150,000 印尼盾
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f7365ccab1629758df838b22b7d55cb3.jpg)
+![海神廟](https://images.gobaligo.id/vocus/vocus_f7365ccab1629758df838b22b7d55cb3.jpg)
 
 朝早，我哋提早出發避開塞車，順利抵達海神廟。呢座建築喺海中岩石上面，漲潮時成個廟俾海水包圍，景觀好壯麗，獨一無二，係峇里島唔可以錯過嘅地標景點。我哋影咗好多相，感受到自然同宗教結合嘅美。
 
@@ -217,7 +217,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 **低消費用**：每人約 USD$45（可抵餐飲）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9e56de4fed9244834cd98822ed579110.jpg)
+![Rock Bar 岩石酒吧](https://images.gobaligo.id/vocus/vocus_9e56de4fed9244834cd98822ed579110.jpg)
 
 Rock Bar 係峇里島最出名嘅懸崖酒吧之一，坐落喺海邊懸崖上面，可以俯瞰成片印度洋。我哋下晝5點抵達，啱啱搵到個好正嘅位置，一邊欣賞壯麗嘅日落，一邊品嚐酒吧嘅特調飲品。伴隨住海浪聲同夕陽美景，呢度嘅氛圍浪漫到令人難忘。
 
@@ -250,7 +250,7 @@ https://youtube.com/shorts/tHRxnJqxqbw
 
 呢段公路兩邊都係高聳嘅岩壁，景色壯麗到不得了，係峇里島其中一個最靚嘅景點，真係令人嘆為觀止。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dfb4281a0aa43733669ec08ef1cb4e0b.jpg)
+![藍色公路](https://images.gobaligo.id/vocus/vocus_dfb4281a0aa43733669ec08ef1cb4e0b.jpg)
 
 🏖️🪨🌊探索藍色公路懸崖嘅美，劈開嘅壯麗景觀，隨手影張相都係 Instagram 打卡熱點！▶[Klook優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F114124-tanah-barak-cliff-garuda-wisnu-kencana-malini-sunset-tour-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8aad5d46e9)
 
@@ -312,7 +312,7 @@ https://youtu.be/hdIKOX5wghU
 
 你覺得高榮繁佢哋嘅行程好精彩嗎？快啲安排屬於你嘅峇里島自由行啦！亦歡迎大家到社團投稿你嘅行程喔！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![結語](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 點擊呢度觀看更多峇里島精彩遊記
 

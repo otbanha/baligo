@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: 30feb5cbfc23de66e0c3782c293b666f
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac4148122f55882304ae14a57d853f86.jpg)
+![【2026年版】峇里島仲有舉辦嘅四個假日市集：最貼地嘅購物體驗](https://images.gobaligo.id/vocus/vocus_ac4148122f55882304ae14a57d853f86.jpg)
 
 疫情過後，網上好多關於峇里島假日市集（Sunday Market）嘅資訊已經過時。不過，2026年仍然有啲精彩嘅市集持續舉辦。我哋特別整理咗呢啲真正嘅假日市集，而唔係日日都開嘅市集。以下係我哋列出嘅2026年仍然舉辦嘅假日市集：
 
@@ -75,7 +75,7 @@ SUNDAZE ULUWATU MARKET 位於峇里島南端嘅 Hatch Bali Uluwatu，每逢星
 
 ### 更多烏魯瓦圖吃喝玩樂介紹
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
+![更多烏魯瓦圖吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
 烏魯瓦圖係峇里島南部最受歡迎嘅地區之一，以壯麗嘅懸崖景觀、迷人嘅海灘同絕佳嘅衝浪點聞名。呢度充滿熱帶度假嘅浪漫氛圍，係享受日落美景同放鬆時光嘅完美選擇。如果你都想住喺烏魯瓦圖，可以參考以下我哋精心整理嘅吃喝玩樂介紹，令你嘅旅程更加豐富有趣：[【烏魯瓦圖攻略】烏魯瓦圖景點 吃喝玩樂推薦](/blog/uluwatu-guide/)
 

@@ -17,7 +17,7 @@ lang: zh-cn
 _srcHash: 606537059b799d1c614b3546bdb12721
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7fd7545646d5af015dd7862936b090bb.png)
+![【出发前往巴厘岛离岛】沙努尔行李存放攻略](https://images.gobaligo.id/vocus/vocus_7fd7545646d5af015dd7862936b090bb.png)
 
 沙努尔是巴厘岛著名的海滩度假胜地，拥有绵延的海岸线、宁静的氛围和丰富的海洋活动、还有出发至佩尼达岛、蓝梦岛、吉利群岛等巴厘岛离岛的港口。如果您计划到这些巴厘岛离岛游玩/过夜，但又不想带着大行李到处跑，那么行李寄存服务就是您的最佳选择。
 
@@ -45,7 +45,7 @@ Bounce Luggage Storage 是一家全球性的行李寄存服务提供商，在沙
 
 Bali Store Luggage 是一家位于巴厘岛的本地行李寄存服务提供商。Bali Store Luggage 提供一周、甚至是一年的寄放服务。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8e1834f025431a7b33787ddaf81ff3fe.png)
+![【出发前往巴厘岛离岛】沙努尔行李存放攻略](https://images.gobaligo.id/vocus/vocus_8e1834f025431a7b33787ddaf81ff3fe.png)
 
 在选择行李寄存地点时，您需要注意以下几点：
 

@@ -54,7 +54,7 @@ The processing time for the electronic visa is short, usually taking only a few 
 
 ## Please see our chart explanation:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ab3ae48c92112bc243f6e0e137c2d56e.png)
+![Please see our chart explanation:](https://images.gobaligo.id/vocus/vocus_ab3ae48c92112bc243f6e0e137c2d56e.png)
 
 ![享受度假的美好時光！  圖源：Tensor Arts AI繪圖](https://images.gobaligo.id/vocus/vocus_90734e22be476c8786cee5ddd6be88c2.png)
 

@@ -39,7 +39,7 @@ He will:
 - 👏 Adapt to all itinerary changes
 - 👏 We celebrated a family member's birthday, and he recommended a restaurant in Jimbaran, arranged a cake and a choir performance—very thoughtful
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7619892b3fc1f39c15d5098c619943bf.jpg)
+![Private Driver](https://images.gobaligo.id/vocus/vocus_7619892b3fc1f39c15d5098c619943bf.jpg)
 
 ## Day 1 (1/18): Arrival in Bali, Ubud Exploration
 

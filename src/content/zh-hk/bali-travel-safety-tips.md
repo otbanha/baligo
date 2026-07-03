@@ -19,7 +19,7 @@ _srcHash: b6b89da103ad2d0a76d65f01a67fea2d
 
 峇里島一直都被澳洲人視為「後花園」，距離近、機票平、天氣好，係無數澳洲人假期首選嘅度假勝地。無論你想搵陽光海灘、享受瑜伽靜心、定係體驗峇里傳統文化同美食，呢個熱帶島嶼總有無窮魅力。不過，隨住旅遊人數回升，峇里島喺風險管理方面嘅問題都逐漸浮現。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a8482d650034dd649a7101c96aa6b294.jpg)
+![去峇里島前必睇：海岸風險、簽證須知同飲品陷阱](https://images.gobaligo.id/vocus/vocus_a8482d650034dd649a7101c96aa6b294.jpg)
 
 為咗等每位旅客都可以安心出遊，澳洲政府嘅 SmartTraveller 旅遊建議整理咗最新嘅峇里島旅遊資訊，包括海岸安全、火山動態、入境規定同飲品風險。無論你係第一次去，定係已經去過好多次嘅老朋友，呢篇實用指南都可以幫你做好準備，盡興又平安咁探索峇里島。以下幾項最新嘅旅遊資訊同安全提醒，唔可以忽略：
 
@@ -29,7 +29,7 @@ _srcHash: b6b89da103ad2d0a76d65f01a67fea2d
 
 最近有幾單澳洲旅客喺峇里島或者印尼其他地區不幸遇溺嘅事件，主要發生喺知名海灘如坎古、烏布同水明漾。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5eff44ed33e1986993b8af3c27e0cef4.jpg)
+![海灘風險：強烈海流同高浪警告](https://images.gobaligo.id/vocus/vocus_5eff44ed33e1986993b8af3c27e0cef4.jpg)
 
 ### **風險重點：**
 
@@ -54,7 +54,7 @@ _srcHash: b6b89da103ad2d0a76d65f01a67fea2d
 - 自入境日起至少有效 6 個月以上。
 - 無破損、水漬、頁面撕裂或者其他明顯損毀。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1f7cd67badfa231d12a134cace300513.jpg)
+![護照應該符合以下條件：](https://images.gobaligo.id/vocus/vocus_1f7cd67badfa231d12a134cace300513.jpg)
 
 如果有疑慮，出發前應該更新護照，以免入境受阻，甚至要即刻返國。
 
@@ -68,7 +68,7 @@ _srcHash: b6b89da103ad2d0a76d65f01a67fea2d
 - 切勿攀爬或者對神聖建築不當影相。
 - 避免喺公眾場合飲酒過量或者行為失序。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_58494b23c4192b1671ed180bc044af9d.jpg)
+![尊重當地文化與法律](https://images.gobaligo.id/vocus/vocus_58494b23c4192b1671ed180bc044af9d.jpg)
 
 當局近年加強執法，如果有違反，可能會面臨罰款、遣返甚至刑責。
 
@@ -76,7 +76,7 @@ _srcHash: b6b89da103ad2d0a76d65f01a67fea2d
 
 ## **火山活動：航班恐受影響**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d2f54d7d9872520bf06d8114c5e590a7.jpg)
+![火山活動：航班恐受影響](https://images.gobaligo.id/vocus/vocus_d2f54d7d9872520bf06d8114c5e590a7.jpg)
 
 最近 Mt Lewotobi Laki-Laki 火山有活動，雖然唔喺峇里島本島，但火山灰可能會影響航班。
 
@@ -92,7 +92,7 @@ _srcHash: b6b89da103ad2d0a76d65f01a67fea2d
 
 峇里島曾經發生過飲品被摻毒或者含有非法甲醇（methanol）導致中毒嘅案例，部分甚至導致死亡。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d366969754755a10908c9de7fd921078.jpg)
+![酒精風險：防止酒品被摻毒或含甲醇](https://images.gobaligo.id/vocus/vocus_d366969754755a10908c9de7fd921078.jpg)
 
 ### **預防方法：**
 

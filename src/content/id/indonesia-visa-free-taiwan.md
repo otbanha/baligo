@@ -26,7 +26,7 @@ Dia nyebut Amerika Serikat, Jepang, China (termasuk Hong Kong), India, Uni Emira
 
 Sesuai aturan sekarang, pengunjung dari Taiwan atau Hong Kong bisa apply visa on arrival atau bayar visa elektronik (e-VOA) dengan biaya sekitar USD$32 (Rp. 500.000). Dokumen ini berlaku 30 hari dan bisa diperpanjang sekali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_62407b2522dba31e259fd695ae51864b.png)
+![Wisata makin gampang! Indonesia kabarnya bakal buka bebas vi](https://images.gobaligo.id/vocus/vocus_62407b2522dba31e259fd695ae51864b.png)
 
 Sebelum baca **「Panduan Liburan Mandiri Bali Paling Lengkap」**, kami ajak kamu subscribe dulu channel YouTube **「Xiao Jie Indonesia」** yang penuh konten visual seru. [Klik di sini](http://bit.ly/youtube-jason) buat subscribe sekarang!
 

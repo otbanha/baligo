@@ -31,7 +31,7 @@ _srcHash: f08cba94a12f9054160bb62788fdb4c9
 
 ## **峇里島犯罪率創下歷史新低**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_26c345dd21b57218a13b8b59094e84af.jpg)
+![峇里島犯罪率創下歷史新低](https://images.gobaligo.id/vocus/vocus_26c345dd21b57218a13b8b59094e84af.jpg)
 
 2024年，峇里島嘅犯罪率只有 **0.07%**，成為全印尼最低紀錄。相比2022年嘅 **0.20%**，數據持續下降，顯示當地治安正逐年改善。
 
@@ -73,7 +73,7 @@ _srcHash: f08cba94a12f9054160bb62788fdb4c9
 
 ## **常見問題 FAQ**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_03141a4e39b1177082670e3423f755ac.png)
+![常見問題 FAQ](https://images.gobaligo.id/vocus/vocus_03141a4e39b1177082670e3423f755ac.png)
 
 ### **1. 峇里島對外國遊客嚟講安全嗎？**
 

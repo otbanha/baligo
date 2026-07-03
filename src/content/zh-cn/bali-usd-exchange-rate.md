@@ -24,7 +24,7 @@ _srcHash: 411134a517f0218b21f50f8fecd2a788
 
 本文将从汇率概述入手，为你解析巴厘岛的美金汇率情况，并提供最佳的换汇攻略。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9bb247d0e05bae1d63368331539e85c8.png)
+![巴厘岛美金汇率：大钞还是小钞？换汇攻略大公开！](https://images.gobaligo.id/vocus/vocus_9bb247d0e05bae1d63368331539e85c8.png)
 
 在巴厘岛，换汇地点众多，从机场到酒店，到市区的换汇处随处可见。然而，汇率却有所不同。因此，在换汇前，最好先了解当地的汇率情况。
 
@@ -38,7 +38,7 @@ _srcHash: 411134a517f0218b21f50f8fecd2a788
 
 以下是2024，05，01在巴厘岛换汇的汇率表，换汇的时候我们要看的是「买入 (buying)」价。让我们来看一下：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b3e9800865e70d4ff80928aed2404b40.png)
+![美金大钞与小钞的汇率差异](https://images.gobaligo.id/vocus/vocus_b3e9800865e70d4ff80928aed2404b40.png)
 
 如表所示，100美元和50美元的钞票汇率一样（15,875），而20、10、5美元的美金现钞价差20印尼盾(15,855)。如果是美金1元的小钞，跟100/50的大钞相比价差275(15,600)，汇率最差。
 

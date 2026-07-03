@@ -23,13 +23,13 @@ lang: id
 _srcHash: 5ee6cd0a5c459bd4dc9be383755bb2b4
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0932df0257cef6b9a3ca00177d132010.jpg)
+![Pusat perbelanjaan terbesar di Bali 【Icon Bali】 akan dibuka ](https://images.gobaligo.id/vocus/vocus_0932df0257cef6b9a3ca00177d132010.jpg)
 
 Bali bakal mencapai tonggak sejarah besar—pusat perbelanjaan terbesarnya dikabarkan akan dibuka pada 17 Mei 2024 di Sanur. Ini menandai perubahan besar dalam industri pariwisata Bali, yang bakal kasih banyak pilihan belanja dan hiburan buat wisatawan dan penduduk lokal.
 
 ## 1. Sekilas ICON Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d6e8e706581570f18b613f5e5d516295.jpg)
+![1. Sekilas ICON Bali](https://images.gobaligo.id/vocus/vocus_d6e8e706581570f18b613f5e5d516295.jpg)
 
 ### 1.1 Gambaran Umum Mal
 
@@ -41,7 +41,7 @@ ICON Mall bakal punya dua klub pantai, plus banyak fasilitas makan dan hiburan, 
 
 ## 2. Keunikan ICON Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_001e553c6013a7c8c412e960f0af0372.jpg)
+![2. Keunikan ICON Bali](https://images.gobaligo.id/vocus/vocus_001e553c6013a7c8c412e960f0af0372.jpg)
 
 ### 2.1 Pasar Terapung Bali
 
@@ -69,7 +69,7 @@ Baca Juga: [Peta Panduan Sanur｜45 Rekomendasi Makan, Main, SPA, dan Penginapan
 
 Pembukaan ICON Bali bakal kasih pengalaman belanja dan hiburan baru di Bali, sekaligus jadi tonggak penting buat perkembangan pariwisata Bali. Kamu bisa cobain kuliner, belanja, dan nikmatin suasana pantai di sini — dijamin seru dan bikin kangen balik lagi.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bd9efca76177b6f53e3e5da6ddf624f9.png)
+![Kesimpulan](https://images.gobaligo.id/vocus/vocus_bd9efca76177b6f53e3e5da6ddf624f9.png)
 
 Sebelum baca **「Panduan Liburan Mandiri Bali Paling Lengkap」**, kami ajak kamu subscribe dulu channel YouTube **「Xiao Jie Indonesia」** yang penuh konten visual seru. [Klik di sini](http://bit.ly/youtube-jason) buat subscribe sekarang!
 

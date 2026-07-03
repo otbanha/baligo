@@ -20,11 +20,11 @@ _srcHash: 3fa012366529c1a6d6dcf6623ed73ce7
 
 文化旅遊係一種深入探索同體驗目的地獨特文化元素嘅旅遊方式。佢唔單止係觀光，更加係對當地歷史遺產、藝術、建築、音樂、民間傳說、傳統、語言同習俗嘅全面了解同互動。2025年，TripAdvisor根據全球旅客嘅評價同推薦，[選出了20個最佳文化旅遊目的](https://www.tripadvisor.com/TravelersChoice-Destinations-cCulture-g1)地。等我哋一齊嚟睇下呢啲令人嚮往嘅地方。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa944ccd7fe86270070bf2318653bf10.png)
+![探索世界頂級文化旅遊目的地 頭兩名都喺亞洲：2025年TripAdvisor精選](https://images.gobaligo.id/vocus/vocus_aa944ccd7fe86270070bf2318653bf10.png)
 
 ## 1.🇮🇩 **峇里島，印尼**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f3f44942abead6d01feda28251162075.png)
+![1. 峇里島，印尼](https://images.gobaligo.id/vocus/vocus_f3f44942abead6d01feda28251162075.png)
 
 峇里島被譽為「神之島」，係好多旅客心目中嘅度假天堂。呢度嘅文化底蘊深厚，以印度教為核心，當地嘅節日、舞蹈、藝術同建築都體現咗呢份獨特嘅魅力。烏布係藝術與靈修嘅中心，王宮同周邊嘅手工藝市場絕對唔可以錯過；海神廟則以其壯麗嘅日落而著稱。此外，峇里島仲以其多樣化嘅海灘聞名，例如庫塔嘅熱鬧、金巴蘭嘅浪漫以及努沙杜瓦嘅高級度假村。無論係尋找文化深度定係純粹嘅休閒放鬆，峇里島都能滿足每位旅客嘅期待。
 
@@ -47,25 +47,25 @@ _srcHash: 3fa012366529c1a6d6dcf6623ed73ce7
 
 ## 2.🇻🇳 **河內，越南**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a21b05faad28dce7c112e2c58126fc67.png)
+![2. 河內，越南](https://images.gobaligo.id/vocus/vocus_a21b05faad28dce7c112e2c58126fc67.png)
 
 河內係越南嘅首都，亦係文化與歷史嘅縮影。漫步於古色古香嘅老城區，旅客可品味當地嘅街頭美食同傳統建築；而湖畔嘅文廟則係了解越南古代教育與儒家思想嘅最佳地點。
 
 ## 3.🇬🇧 **倫敦，英國**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_27ad7de931a3516f0bacc9fe4c275590.png)
+![3. 倫敦，英國](https://images.gobaligo.id/vocus/vocus_27ad7de931a3516f0bacc9fe4c275590.png)
 
 倫敦係一座充滿文化多樣性嘅國際都市，無論係世界級嘅博物館、藝術畫廊，定係劇院與歷史遺跡，都能讓人流連忘返。大英博物館同西敏寺等地標性景點更加係必訪之地。
 
 ## 4.🇲🇦 **馬拉喀什，摩洛哥**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ac0d2449e090f0daf5bb0c08d38071e2.png)
+![4. 馬拉喀什，摩洛哥](https://images.gobaligo.id/vocus/vocus_ac0d2449e090f0daf5bb0c08d38071e2.png)
 
 馬拉喀什以其充滿異國風情嘅市場、古老建築同迷人文化氛圍聞名。色彩繽紛嘅傑馬·埃爾夫納廣場同華麗嘅巴伊亞宮，令人深深感受到摩洛哥嘅歷史同藝術。
 
 ## 5.🇮🇹 **羅馬，意大利**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1390aef62d4ec4d111f454849d1c99f2.png)
+![5. 羅馬，意大利](https://images.gobaligo.id/vocus/vocus_1390aef62d4ec4d111f454849d1c99f2.png)
 
 羅馬被譽為「永恆之城」，係古文明嘅發源地之一。從壯觀嘅羅馬競技場到梵蒂岡嘅藝術珍藏，呢座城市係一部豐富嘅歷史同文化教科書。
 
@@ -79,7 +79,7 @@ _srcHash: 3fa012366529c1a6d6dcf6623ed73ce7
 
 ## 8.🇮🇳 **新德里，印度**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a2e2d38decd7fd8c1fa0812db172b68b.png)
+![8. 新德里，印度](https://images.gobaligo.id/vocus/vocus_a2e2d38decd7fd8c1fa0812db172b68b.png)
 
 新德里將古代歷史同現代文化完美結合。紅堡同賈瑪清真寺等歷史建築，以及熙熙攘攘嘅集市，展示咗印度嘅多樣性。
 
@@ -89,7 +89,7 @@ _srcHash: 3fa012366529c1a6d6dcf6623ed73ce7
 
 ## 10.🇰🇭 **暹粒，柬埔寨**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a0af333fff799b45f70b39d2bb8caf32.png)
+![10. 暹粒，柬埔寨](https://images.gobaligo.id/vocus/vocus_a0af333fff799b45f70b39d2bb8caf32.png)
 
 暹粒係通往吳哥窟嘅門戶，呢座古老嘅廟宇群展示咗高棉帝國嘅卓越建築同宗教文化。
 
@@ -99,7 +99,7 @@ _srcHash: 3fa012366529c1a6d6dcf6623ed73ce7
 
 ## 12.🇫🇷 **巴黎，法國**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d1c0f1e5fbcc1eacfa880ca12a9d616e.png)
+![12. 巴黎，法國](https://images.gobaligo.id/vocus/vocus_d1c0f1e5fbcc1eacfa880ca12a9d616e.png)
 
 巴黎係一個浪漫同藝術嘅代名詞，從羅浮宮到塞納河畔，無不展現其獨特嘅魅力同文化深度。
 
@@ -113,7 +113,7 @@ _srcHash: 3fa012366529c1a6d6dcf6623ed73ce7
 
 ## 15.🇪🇬 **開羅，埃及**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_738320583d9d03e43896b321897b6d22.png)
+![15. 開羅，埃及](https://images.gobaligo.id/vocus/vocus_738320583d9d03e43896b321897b6d22.png)
 
 開羅係古埃及文明嘅核心，金字塔同埃及博物館記錄咗呢段輝煌嘅歷史。
 
@@ -137,7 +137,7 @@ _srcHash: 3fa012366529c1a6d6dcf6623ed73ce7
 
 克拉科夫係波蘭文化同歷史嘅瑰寶，佢嘅瓦維爾城堡同主市場廣場都好令人印象深刻。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_697d06558f544ed95a0fd016a25192a0.png)
+![20. 克拉科夫，波蘭](https://images.gobaligo.id/vocus/vocus_697d06558f544ed95a0fd016a25192a0.png)
 
 呢啲目的地唔單止展示咗各自獨特嘅文化魅力，仲為旅客提供咗豐富嘅體驗同深刻嘅回憶。無論你係歷史愛好者、藝術迷定係自然探險家，呢啲地方都可以滿足你對文化嘅渴望。
 

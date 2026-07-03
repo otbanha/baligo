@@ -22,7 +22,7 @@ _srcHash: d6a740a675710987818b3e52c7aeade4
 
 Starlink, Elon Musk's satellite internet service, has officially launched in Indonesia, marking a significant transformation in the country's internet market. As a satellite-based internet service, Starlink aims to provide high-speed, low-latency, and extensive coverage, especially in areas where traditional internet services are hard to reach.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d80b8733ea687ed1824f15698fdb22a7.jpg)
+![Starlink Now Available in Indonesia/Bali｜How Much Per Month?](https://images.gobaligo.id/vocus/vocus_d80b8733ea687ed1824f15698fdb22a7.jpg)
 
 ## **What is Starlink?**
 
@@ -44,7 +44,7 @@ Being satellite-based, Starlink is able to reach remote and rural areas that tra
 
 ## **Starlink's Three Plans in Indonesia**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a1028050853b28dee096aa9f86ada818.png)
+![Starlink's Three Plans in Indonesia](https://images.gobaligo.id/vocus/vocus_a1028050853b28dee096aa9f86ada818.png)
 
 ### Residential Plan
 
@@ -58,7 +58,7 @@ The Jelajah Plan costs 990,000 IDR per month and is designed for those who frequ
 
 The Kapal Plan targets users on ships, offering global connectivity for 4,345,000 IDR per month with a data cap of 50 GB. There is also a premium option available for 17,160,000 IDR per month (1 TB of data).
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ebd499392b68335bf3dd648e11a14cac.png)
+![Kapal Plan](https://images.gobaligo.id/vocus/vocus_ebd499392b68335bf3dd648e11a14cac.png)
 
 ## **Starlink Hardware Equipment**
 
@@ -104,7 +104,7 @@ In the future, Starlink plans to launch more satellites to further improve servi
 
 ## **Frequently Asked Questions**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4ab8901d91d52527524ab1a4f42631d7.png)
+![Frequently Asked Questions](https://images.gobaligo.id/vocus/vocus_4ab8901d91d52527524ab1a4f42631d7.png)
 
 1. **How fast is Starlink's internet speed?**
 2. - Average download speeds can reach 100-200 Mbps. Faster than all telecom companies in Indonesia!

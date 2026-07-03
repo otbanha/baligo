@@ -19,7 +19,7 @@ _srcHash: 3fab48fb8ef08bccf2f50ca53ba8e20d
 
 Here's an important update for everyone — Bali's tourism tax is about to undergo spot checks! This new policy has been in effect for five weeks, and now it's time to ensure every visitor understands and complies with this new system.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ba7288e1e422dd5682c5355339280724.jpg)
+![Breaking News from Bali: Tourism Tax Spot Checks Begin March](https://images.gobaligo.id/vocus/vocus_ba7288e1e422dd5682c5355339280724.jpg)
 
 The head of Bali's Tourism Bureau announced this news at a recent press conference. He stated that the newly established tourism police unit will begin spot checks starting March 26, targeting popular attractions in Bali such as Kuta Beach, Uluwatu Temple, and Tanah Lot. These tourism police will also patrol with their adorable canine companions, who not only assist the officers but also serve as friendly icebreakers among tourists, creating a more relaxed atmosphere.
 
@@ -27,7 +27,7 @@ According to the latest data, only 40% of foreign tourists have paid the tourism
 
 > Further Reading: [Bali Tourism Tax Guide 2024: New Rules, Payment Methods, and Island-Hopping Tips](/blog/2026-bali-tourism-tax-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aedb16fe1f10df555de6e03c79b7719e.png)
+![Breaking News from Bali: Tourism Tax Spot Checks Begin March](https://images.gobaligo.id/vocus/vocus_aedb16fe1f10df555de6e03c79b7719e.png)
 
 Book and save here:
 

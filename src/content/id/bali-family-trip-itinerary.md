@@ -30,7 +30,7 @@ _srcHash: 17de278efc2c547d8fc8873adbc7ff30
 
 Liburan 6 hari 5 malam di Bali akhirnya selesai! Perjalanan kali ini berkat banget sama para netizen yang ramah di komunitas dan info-info lengkap yang dibagikan. Jadi meskipun bawa dua anak kecil, liburan keluarga ini tetap santai dan menyenangkan, perjalanannya lancar banget!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_46eaba429c96b06a7d14c92bea5677e0.jpg)
+![Bawa Anak Jalan-jalan: Itinerary & Tips Liburan Keluarga 6 H](https://images.gobaligo.id/vocus/vocus_46eaba429c96b06a7d14c92bea5677e0.jpg)
 
 Pertama, cerita dulu persiapan kami / proses imigrasi:
 
@@ -50,25 +50,25 @@ Setelah tiba di Bali, kami langsung menuju **Bidadari Villa** tempat kami mengin
 
 > [【Wajib Baca Sebelum Liburan ke Bali】Cara Urus Internet/SIM Card/eSIM di Bali](/blog/bali-sim-card-esim-roaming-guide/)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780408021527-130243921.jpg)
+![Hari Pertama](https://images.gobaligo.id/images/2026-06/1780408021527-130243921.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780408022443-151014316.jpg)
+![Hari Pertama](https://images.gobaligo.id/images/2026-06/1780408022443-151014316.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780408022843-201011185.jpg)
+![Hari Pertama](https://images.gobaligo.id/images/2026-06/1780408022843-201011185.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780408023289-201191798.jpg)
+![Hari Pertama](https://images.gobaligo.id/images/2026-06/1780408023289-201191798.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780408023766-201214363.jpg)
+![Hari Pertama](https://images.gobaligo.id/images/2026-06/1780408023766-201214363.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780408024255-201215647.jpg)
+![Hari Pertama](https://images.gobaligo.id/images/2026-06/1780408024255-201215647.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780408024661-_17140994.jpeg)
+![Hari Pertama](https://images.gobaligo.id/images/2026-06/1780408024661-_17140994.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780408025121-_130243891.jpeg)
+![Hari Pertama](https://images.gobaligo.id/images/2026-06/1780408025121-_130243891.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780408025573-_130243896.jpeg)
+![Hari Pertama](https://images.gobaligo.id/images/2026-06/1780408025573-_130243896.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1780408026129-_516683475.jpeg)
+![Hari Pertama](https://images.gobaligo.id/images/2026-06/1780408026129-_516683475.jpeg)
 
 > [Bidadari Private Villas & Retreat Cek Harga & Ketersediaan](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=237890) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=981731&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawcLFJMEkNZGFY9cDASFGA4vfgo7yra8Dd3yf5eC5pMCWK3zyAocAnogpB55PY0-0dHUv-nkw0KGQAQQeTHNoZDx7Bgg8Jzl0MbKC1cxgfPzVegUj40ZGkO7ruyscdjCyHGBkOcHY5buA6dVm1lMszBzr-C6xfGWKrlbKTq1UsjLRUSrJLMlJVbJSerpo3tOGPc9XtCrpKKWkFicDhYCsxNz80rwSINvS0FLPwAAoUpJY4ZkC1pmcmJNcmpNYkhpSWQA0wUxHKbPYuaQosyAoNTezpCQVqCotMac4FSQelFoMlEkGCyr5AY0pggpk5udBtBuiiIUl5pSmQpwAtNAtFWqHYa0Opsufzel92j3zxabdxLncnNouNyDG5ca1sY9YmKJjP7Ew_AJGQ79pEytDFyszxymmSUCyy3cXK4tpaGTgBdbHLYxS8oYGBgamhsamproGiZaJxkZpybomliZGZua6xkaWFhYaU7ZNvfTE2MhaChLzCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9gsXE0MHC2ibLiYPV2CBD_oPd_ebm1pL8UcEu6iODnowlvV3tP2WsyhwS6Gev8V_34zlXYI3PM654S98QL7SHvZfskVPaftk1irMnRDwjOOixUwNjAydTFyCzB6MEYwVgB5jKsYGTYwMu5g_A8DjK8YQaYDAOoJq3n9AgAA&masterhotelid_tracelogid=100051355-0a9a32fc-494267-32988&detailFilters=17|1~17~1*31|981731~31~981731*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=846&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/8cgKqDaH)
 
@@ -114,7 +114,7 @@ Warung Pulau Kelapa: iga babi, sate, nasi goreng Indonesia.
 
 Secara keseluruhan, hari ini meskipun nggak terlalu padat, tapi penuh dengan keseruan keluarga, bikin kami semua puas.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_43dfe121adfd643e4190f3fdefbf16a8.jpg)
+![Hari Kedua](https://images.gobaligo.id/vocus/vocus_43dfe121adfd643e4190f3fdefbf16a8.jpg)
 
 {{block:ubud}}
 
@@ -164,25 +164,25 @@ Makan malam di restoran **Velada** dalam resort, kami pesan burger dan masakan I
 
 Pokoknya, hari ini bikin kami ngerasain keramahan dan perhatian warga lokal, bikin liburan makin seru dan nggak terlupakan.
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508076564-494348065.jpg)
+![Hari Keempat](https://images.gobaligo.id/images/2026-03/1774508076564-494348065.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508077316-429291714.jpg)
+![Hari Keempat](https://images.gobaligo.id/images/2026-03/1774508077316-429291714.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508078195-435154005.jpg)
+![Hari Keempat](https://images.gobaligo.id/images/2026-03/1774508078195-435154005.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508078990-429290465.jpg)
+![Hari Keempat](https://images.gobaligo.id/images/2026-03/1774508078990-429290465.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508080151-429290513.jpg)
+![Hari Keempat](https://images.gobaligo.id/images/2026-03/1774508080151-429290513.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508081345-475085698.jpg)
+![Hari Keempat](https://images.gobaligo.id/images/2026-03/1774508081345-475085698.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508082516-494348072.jpg)
+![Hari Keempat](https://images.gobaligo.id/images/2026-03/1774508082516-494348072.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508083267-504355293.jpg)
+![Hari Keempat](https://images.gobaligo.id/images/2026-03/1774508083267-504355293.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508084040-526546323.jpg)
+![Hari Keempat](https://images.gobaligo.id/images/2026-03/1774508084040-526546323.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774508084801-552957828.jpg)
+![Hari Keempat](https://images.gobaligo.id/images/2026-03/1774508084801-552957828.jpg)
 
 > ▶ Cek ketersediaan kamar & harga The Westin Resort Nusa Dua [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=104013) [Trip](https://us.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=992162&checkIn=2026-06-02&checkOut=2026-06-03&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-P6x8zFJMEk9Z2Zo2HNpH-sQoxGBpwWnwQdq0XWuT-0muDgmQYCiyc7BPA0Ml5fXGDLdT3cYQbjouM2Gxlj-g991XDJdtjByHSC8ceFnYwLmOa92sR8ioWFY0W_8iWWX0zR1UrZqZVKViY6SiWZJTmpSlZKYY4hSjpKKanFyUAOkJWYm1-aVwJkG5mbGBgY6BkYAAVLEis8U8DakhNzkktzEktSQyoLgNrNdJQyi51LijILglJzM0tKUoGq0hJzilNB4kGpxUCZZLCgkh_QmCKoQGZ-HkS7AYpYWGJOaSrEFUAL3VKhdhjW6mA6Ozi1qCwzOVUhOSOxKD0Vuw-MDQxN0HxgPiA-MK6NfcTCFB37iYXhFwtDEytDFyvDJFZWjhNrTzHuYuUJ9Iry8vbTNdSN0jWUkjcEhrqpobGpqa5BomVismmipa6JpYmpqbmupaGJqZHGh6f_jrwwNrKWYp1y4Pk0dgVGLcH4EE9PF8OSwlSzwlLLnKICUwPGU4xShubGFoZGhoZGRkaWxnomFmlmxRZ5xRa5WREejEFspkZuliauUTZczJ4uQYKOaqyhKjcs7KVAPEUYTwvEM4TxApkPdt-6nsxrHwkTSWJNzdMNDc6YKlrA2MXILcDowRjBWMHYwMi4ipGdi9nAyFCAaQMj4w7G_zDA-IoRZCYAxofSbOcCAAA&masterhotelid_tracelogid=100051355-0a9ac5a9-494557-91452&detailFilters=17|1~17~1*31|992162~31~992162*80|0|1~80~0*29|1~29~1|2&display=exavg&subStamp=1148&isCT=true&isFlexible=F&locale=en-US&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109) [Booking](https://booking.tpm.li/FusIoeNm)
 
@@ -230,13 +230,13 @@ WhatsApp: +6281239060741
 
 LINE: gosaray 1105
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1df0cf433375816a009f12cfd6959173.png)
+![Kontak Agus](https://images.gobaligo.id/vocus/vocus_1df0cf433375816a009f12cfd6959173.png)
 
 {{block:親子}}
 
 Kamu pikir perjalanan Sannie Lin seru? Yuk, rencanakan liburan bebasmu ke Bali sekarang! Jangan lupa juga posting itinerary kamu di grup ya!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
+![Kontak Agus](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 

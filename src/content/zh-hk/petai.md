@@ -47,7 +47,7 @@ _srcHash: 0539aa9a3202e6b26a52b70bb6555916
 
 如果你去印尼旅遊，一定要試下 **Nasi Goreng Petai（臭豆炒飯）**。乍聽之下有啲挑戰，但其實臭豆加喺經典嘅印尼炒飯裡，經過熱鍋快炒，原本濃烈嘅味道會被馴化，反而釋放出一種淡淡嘅、類似堅果同青草嘅香氣。
 
-![raw-image](https://images.gobaligo.id/images/2026-05/1778028180819-nasigoreng_petai.jpeg)
+![喺印尼，我哋其實好鍾意食「臭豆炒飯」](https://images.gobaligo.id/images/2026-05/1778028180819-nasigoreng_petai.jpeg)
 
 啲飯因為有豉油、蒜頭、辣椒同蝦醬，所以鹹香夠味，再加埋幾粒脆脆嘅臭豆，咬開時有微微嘅苦甘同清脆口感，意外地平衡咗炒飯嘅油膩。喺雅加達或者泗水嘅路邊攤，一份 Nasi Goreng Petai 通常會配煎蛋、炸雞或者蝦餅，係好多印尼人嘅療癒美食。
 

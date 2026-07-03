@@ -40,7 +40,7 @@ https://youtube.com/shorts/fiYs5GKdINU
 
 ## Melukat 淨化儀式係咩嚟？非印度教徒可以參加嗎？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5ba2abc7963542e2253bb38ebb3360ef.jpg)
+![Melukat 淨化儀式係咩嚟？非印度教徒可以參加嗎？](https://images.gobaligo.id/vocus/vocus_5ba2abc7963542e2253bb38ebb3360ef.jpg)
 
 Melukat 係峇里島印度教嘅淨化儀式，信眾喺泉水入面依次序通過 26 座噴泉，透過潑水同祈禱嚟淨化心靈。
 
@@ -79,13 +79,13 @@ Melukat 係峇里島印度教嘅淨化儀式，信眾喺泉水入面依次序通
 
 **外院（Jaba Pura）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3f2cc19c62eca50170a62be966baf1f4.jpg)
+![Tirta Empul 嘅三大區域介紹](https://images.gobaligo.id/vocus/vocus_3f2cc19c62eca50170a62be966baf1f4.jpg)
 
 入咗廟門就係外院，有個好靜嘅鯉魚池同周圍都係綠色植物，好適合靜心冥想。
 
 **中庭（Jaba Tengah）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4700e8862974289fdc9dfce583117aec.jpg)
+![Tirta Empul 嘅三大區域介紹](https://images.gobaligo.id/vocus/vocus_4700e8862974289fdc9dfce583117aec.jpg)
 
 係做淨化儀式嘅主要地方，有兩個大池同26個泉眼，每個水源代表唔同嘅心靈祈願。
 
@@ -99,7 +99,7 @@ Melukat 係峇里島印度教嘅淨化儀式，信眾喺泉水入面依次序通
 
 **內殿（Jeroan）**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_623a206ab810a4a260d720844b62f5f3.jpg)
+![Tirta Empul 嘅三大區域介紹](https://images.gobaligo.id/vocus/vocus_623a206ab810a4a260d720844b62f5f3.jpg)
 
 係最神聖嘅區域，有主神殿同泉水源頭，係做完 Melukat 儀式之後靜坐同祈願嘅地方。一般非印度教徒唔好隨便入去。
 
@@ -151,7 +151,7 @@ Melukat 係峇里島印度教嘅淨化儀式，信眾喺泉水入面依次序通
 
 ## 衣著規範同參拜禮儀
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_de538df8b6d201321be97e49b49d502a.jpg)
+![衣著規範同參拜禮儀](https://images.gobaligo.id/vocus/vocus_de538df8b6d201321be97e49b49d502a.jpg)
 
 **必備嘅穿著：**
 

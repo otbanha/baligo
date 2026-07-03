@@ -56,7 +56,7 @@ Pondok Pekak was founded in 1992 by Laurie Billington and Made Sumendra. Laurie 
 - **Child-Friendly**: Pondok Pekak warmly welcomes families, with many courses specially designed for children, allowing them to learn in a relaxed atmosphere.
 - **Parental Involvement**: Parents can join their children in the courses, experiencing Balinese culture together. This not only strengthens family bonds but also creates unique memories for the whole family.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5e70603124eb382fb685c77a92b992b6.jpg)
+![3. Family-Friendly Environment](https://images.gobaligo.id/vocus/vocus_5e70603124eb382fb685c77a92b992b6.jpg)
 
 ***
 
@@ -78,23 +78,23 @@ Pondok Pekak offers affordable and engaging art courses suitable for both childr
 
 - **Balinese Gamelan**: In a one-hour session, participants can learn to play classical Balinese orchestral instruments like the Gangsa and Bamboo Rindik. Group workshops cost IDR 100,000 per person, while private lessons are IDR 200,000.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0ec956a9b6f516ecd6d5aff7d188d94b.png)
+![Diverse Art Courses](https://images.gobaligo.id/vocus/vocus_0ec956a9b6f516ecd6d5aff7d188d94b.png)
 
 - **Balinese Dance**: Guided by Ibu Ketut, who has been dancing since the age of 9 and possesses deep knowledge of Balinese dance. Workshops cost IDR 100,000, with private lessons at IDR 200,000.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9a187d5fc0b52357d4f53a9b39c61bae.png)
+![Diverse Art Courses](https://images.gobaligo.id/vocus/vocus_9a187d5fc0b52357d4f53a9b39c61bae.png)
 
 - **Wood Carving**: A 3-hour course where participants can freely create under the guidance of master craftsman Pak Nyoman Setiawan. Workshop fees are IDR 175,000, with private lessons at IDR 350,000.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9c074a521c04fe9831f691634396e211.png)
+![Diverse Art Courses](https://images.gobaligo.id/vocus/vocus_9c074a521c04fe9831f691634396e211.png)
 
 - **Silver Jewelry Making**: In a 3-hour session, guests can craft their own necklace pendants or rings with local silversmiths—a perfect way to create meaningful souvenirs.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b89e67619cdd7ae69ce05af2a214b220.png)
+![Diverse Art Courses](https://images.gobaligo.id/vocus/vocus_b89e67619cdd7ae69ce05af2a214b220.png)
 
 - **Fruit Carving**: Turn a watermelon into a beautiful flower! That’s what our fruit carving course is all about. After completing it, you can showcase your creation and share the juicy watermelon with friends.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3d5b24e37128cae428d7f4c23da9cd73.png)
+![Diverse Art Courses](https://images.gobaligo.id/vocus/vocus_3d5b24e37128cae428d7f4c23da9cd73.png)
 
 {{block:親子}}
 

@@ -25,7 +25,7 @@ Pantai Sanur di Bali punya suasana yang tenang dan ramah keluarga, jadi pilihan 
 
 Panduan ini bakal jelasin detail tips liburan ke Sanur pas liburan sekolah, plus rekomendasi aktivitas dan tempat wisata paling cocok buat keluarga.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ed9b72292a5f511d44ba07fbf94e878b.png)
+![【2026 Bali Liburan Keluarga】Panduan Lengkap Sanur: Tempat Li](https://images.gobaligo.id/vocus/vocus_ed9b72292a5f511d44ba07fbf94e878b.png)
 
 ## Tiga Rekomendasi Area Liburan Keluarga Pas Liburan Sekolah
 
@@ -92,13 +92,13 @@ Meskipun Sanur udah modern, tradisi budaya Bali masih kental. Ajari anak-anak bu
 
 ### **1. Pesona Pantai Sanur**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5e82dc6665e39c659dd66b7a031d7c99.jpg)
+![1. Pesona Pantai Sanur](https://images.gobaligo.id/vocus/vocus_5e82dc6665e39c659dd66b7a031d7c99.jpg)
 
 Pantai Sanur punya air laut yang tenang dan dangkal, cocok banget buat anak-anak main air dan bermain. Orang tua bisa tenang ninggalin anak main di sini karena ombaknya lembut dan pantainya bersih. Selain itu, jalan setapak di pinggir pantai cocok buat jalan-jalan keluarga, naik sepeda, atau jogging, dan ada banyak restoran serta kafe buat istirahat di sepanjang jalan.
 
 ### 2. Aktivitas Laut
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_96eaf38d1524e5a6a49dd46a55480bf7.png)
+![2. Aktivitas Laut](https://images.gobaligo.id/vocus/vocus_96eaf38d1524e5a6a49dd46a55480bf7.png)
 
 Di Sanur, aktivitas nomor satu ya main di laut! Naik kano (canoe) dan SUP (Stand-Up Paddleboarding) adalah dua aktivitas laut paling populer di sini. Kamu bisa santai menikmati suasana laut yang tenang di permukaan air yang damai, atau tantang keseimbangan dan kekuatanmu. Laut yang indah ini bakal kasih kamu keseruan dan tantangan, bikin waktu kamu menyenangkan.
 
@@ -106,7 +106,7 @@ Di Sanur, aktivitas nomor satu ya main di laut! Naik kano (canoe) dan SUP (Stand
 
 ### 3. Naik Sepeda/Piknik di Jalur Pantai
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0d4b00a6a1290b4b1dcef2ff8f035538.jpg)
+![3. Naik Sepeda/Piknik di Jalur Pantai](https://images.gobaligo.id/vocus/vocus_0d4b00a6a1290b4b1dcef2ff8f035538.jpg)
 
 Bicara soal Sanur, nggak lengkap tanpa bahas jalur tepi pantai yang panjangnya lebih dari empat kilometer! Jalur tepi pantai yang panjang ini adalah ciri khas Sanur, kamu bisa jalan-jalan di toko-toko sepanjang jalur, jalan santai, jogging, atau sewa sepeda dan bersepeda santai bareng anak di jalur yang rata. Sementara itu, pantai di satu sisi jalur, dengan panjang dan variasinya, pasti bakal nemu spot pantai yang bisa kamu nikmati sendiri, nggak cuma punya pohon besar dan tempat teduh yang lucu, tapi juga nggak ada turis yang merokok di sampingmu! Kamu bisa gelar tikar di area pribadi ini buat relaksasi.
 
@@ -120,7 +120,7 @@ Penjelasan lengkap & tiket diskon [di sini](/blog/aeroxspace-sanur-indoor-playgr
 
 ### 5. Big Garden Corner
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e149dc34fb8b3dd7119b6a6b272d0bf2.jpg)
+![5. Big Garden Corner](https://images.gobaligo.id/vocus/vocus_e149dc34fb8b3dd7119b6a6b272d0bf2.jpg)
 
 Kalau kamu mau ajak si kecil dekat-dekat sama alam, Big Garden Corner bisa jadi pilihan yang oke. Buat anak-anak, di sini ada playground dan water park mini yang seru banget. Selain itu, Big Garden Corner juga punya banyak spot estetik buat foto-foto, kayak patung Buddha, Candi Borobudur mini, tree house, dan lainnya. Tempat ini cocok banget buat keluarga atau teman-teman yang pengen eksplorasi dan bikin kenangan seru. Worth it banget buat dikunjungi!
 
@@ -128,7 +128,7 @@ Tiket mulai 50K IDR, sekitar USD$2.
 
 ### 6. Kidz Cafe Sanur (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ae0c3d10004d2e98248fbadf3ea8c449.jpg)
+![6. Kidz Cafe Sanur (Peta)](https://images.gobaligo.id/vocus/vocus_ae0c3d10004d2e98248fbadf3ea8c449.jpg)
 
 Kidz Cafe Sanur adalah kafe ramah anak. Kafe ini didesain khusus untuk keluarga dan anak-anak, menyediakan lingkungan yang aman dan nyaman, biar anak dan orang tua bisa sama-sama menikmati makanan dan waktu santai.
 
@@ -136,7 +136,7 @@ Kidz Cafe Sanur punya banyak fasilitas bermain anak, seperti area bermain indoor
 
 ### 7. **Shotgun Social Bali** (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6d2e33ef463d4dc4b92c42d7fed81a0c.jpg)
+![7. Shotgun Social Bali (Peta)](https://images.gobaligo.id/vocus/vocus_6d2e33ef463d4dc4b92c42d7fed81a0c.jpg)
 
 Shotgun Social Bali adalah tempat nongkrong hits di Sanur. Ada restoran internasional, bar, dan kafe — cocok banget buat kamu yang cari pengalaman makan santai. Buat keluarga dengan anak kecil, taman bermain outdoor di sini jadi nilai plus: anak-anak bisa main sementara orang tua nikmatin makanan. Konsep social space-nya pas buat kamu yang pengin santai tapi tetap dapet kualitas makanan dan minuman oke.
 
@@ -144,7 +144,7 @@ Kalau kamu lagi di Sanur, Bali, mampir deh ke Shotgun Social Bali buat cobain ma
 
 ### 8. Byrd House Bali / Kids Club (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8cbe01b85a26f4c044bb6b5ac2fe351e.jpg)
+![8. Byrd House Bali / Kids Club (Peta)](https://images.gobaligo.id/vocus/vocus_8cbe01b85a26f4c044bb6b5ac2fe351e.jpg)
 
 Byrd House Bali adalah pilihan ideal buat liburan keluarga. Dari pagi sampai sore, tempat ini penuh dengan nuansa Mediterania yang tenang, bikin kamu bisa nikmatin hidangan lezat di restoran utama atau kue-kue segar di toko roti. Kids Club yang didesain khusus buat anak-anak dilengkapi playground dan kolam renang, jadi mereka bisa main dengan aman sementara orang tua bisa nyeruput martini atau bersantai di tepi kolam, menikmati liburan yang santai.
 
@@ -156,7 +156,7 @@ HTM 35K IDR, sekitar USD$1.
 
 ### 10. Pelepasan Tukik (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b24ecb325dc0b72ff903e05b73c5f49f.jpg)
+![10. Pelepasan Tukik (Peta)](https://images.gobaligo.id/vocus/vocus_b24ecb325dc0b72ff903e05b73c5f49f.jpg)
 
 Di Sanur, Bali, ada tiga pusat konservasi penyu yang sangat bermakna, apalagi kalau bawa anak-anak ke sini. Tempat ini jadi rumah bagi bayi penyu, mereka dirawat dan dilindungi sampai dewasa. Dengan mengunjungi kawasan konservasi penyu, anak-anak nggak cuma bisa lihat dari dekat dan belajar tentang kehidupan penyu, tapi juga bisa paham pentingnya menjaga makhluk laut. Pengalaman edukatif yang berharga ini bakal bantu memicu kepedulian anak-anak terhadap perlindungan lingkungan dan keanekaragaman hayati, sekaligus jadi aktivitas keluarga yang nggak terlupakan.
 
@@ -164,7 +164,7 @@ Referensi cepat: [🐢 Panduan Lengkap Lihat Penyu di Bali: Dari Kuta ke Sanur, 
 
 ### Bonus: Pengalaman Snorkeling Lepas Pantai Sanur
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2b63fa1a7c1a8b0c7cf46359930783e9.png)
+![Bonus: Pengalaman Snorkeling Lepas Pantai Sanur](https://images.gobaligo.id/vocus/vocus_2b63fa1a7c1a8b0c7cf46359930783e9.png)
 
 Jelajahi dunia bawah laut di pesisir Sanur, Bali! Pengalaman snorkeling 1,5 jam, cukup naik perahu 10 menit sampai ke lokasi snorkeling, di air jernih kamu bisa dekat-dekatan dengan kehidupan laut yang melimpah. Kamu bakal lihat berbagai ikan cantik, terumbu karang warna-warni, dan gerbang batu tradisional Bali yang unik di bawah air. Pengalaman memberi makan ikan paling seru bikin gerombolan ikan tropis mengelilingimu, menciptakan pemandangan bawah laut yang fantastis. Sepanjang perjalanan direkam pakai GoPro, biar kamu bisa bawa pulang kenangan bawah laut yang berharga.
 
@@ -178,13 +178,13 @@ Yuk, rasain keajaiban bawah laut di pesisir Sanur, biar snorkeling ini jadi high
 
 ## Kuliner di Sanur
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d2bb27d79fb2b1c6da979a27483ead23.jpg)
+![Kuliner di Sanur](https://images.gobaligo.id/vocus/vocus_d2bb27d79fb2b1c6da979a27483ead23.jpg)
 
 Sanur di Bali terkenal dengan kulinernya yang beragam banget. Kami rekomendasikan total 24 restoran dan kafe yang menyajikan berbagai rasa dan gaya masakan. Tempat-tempat ini termasuk masakan tradisional Indonesia, seafood segar, makanan internasional, dan jajanan khas lokal, cocok buat semua preferensi dan kebutuhan selera. Yuk, kita jelajahi tempat-tempat kuliner yang menggoda ini!
 
 ### Afternoon Tea Pier Eight di InterContinental Sanur (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9fa5a626ef5caf7ba54d29e86d351bfe.png)
+![Afternoon Tea Pier Eight di InterContinental Sanur (Peta)](https://images.gobaligo.id/vocus/vocus_9fa5a626ef5caf7ba54d29e86d351bfe.png)
 
 Ada promo afternoon tea di hotel bintang lima tepi pantai Sanur yang bikin kamu bisa nikmatin camilan premium sambil ngeliatin pemandangan laut yang cantik banget. Kamu bisa cobain aneka kue kayak pistachio madeleine, strawberry tart, chocolate raspberry cake, scone pandan, dadar gulung, mint praline, quiche sayuran, sandwich ayam, dan masih banyak lagi. Plus, kamu bisa pilih satu kopi atau teh buat nemenin sore santaimu.
 
@@ -192,7 +192,7 @@ Ada promo afternoon tea di hotel bintang lima tepi pantai Sanur yang bikin kamu 
 
 ### Pengalaman Kuliner Naughty Nuri's Warung Sanur (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b10a1c8e093bdad1ab089a09f31f7f8f.png)
+![Pengalaman Kuliner Naughty Nuri's Warung Sanur (Peta)](https://images.gobaligo.id/vocus/vocus_b10a1c8e093bdad1ab089a09f31f7f8f.png)
 
 Naughty Nuri's Warung itu legenda iga babi di Seminyang, dan sekarang udah buka cabang di jalan utama Sanur. Tempat ini terkenal banget sama iga babi yang empuk dan juicy banget, bikin banyak orang rela antre buat cobain. Cabang baru di Sanur ini nggak cuma ngikutin konsep dan rasa yang sama, tapi juga jadi hidden gem baru buat warga lokal dan turis yang pengen pengalaman makan yang beda.
 
@@ -200,7 +200,7 @@ Naughty Nuri's Warung itu legenda iga babi di Seminyang, dan sekarang udah buka 
 
 ### Massimo Italian Restaurant （📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8f108fdd76d4d1408592b1742d6ccf94.png)
+![Massimo Italian Restaurant （Peta）](https://images.gobaligo.id/vocus/vocus_8f108fdd76d4d1408592b1742d6ccf94.png)
 
 Restoran Italia di Sanur menyajikan masakan Italia dan es krim. Es krim mereka dibuat secara handmade, menggunakan bahan-bahan alami dari Italia dan Indonesia. Ada 48 rasa yang bisa dipilih, lihat [video Jie](https://youtu.be/laRb_l8BdLM?si=pie6QIzYUNimI4vc&t=884).
 
@@ -210,7 +210,7 @@ Xiao Jie selalu mampir ke sini setiap ke Sanur buat makan dan cobain es krim!
 
 Masih banyak banget pilihan kuliner di Sanur. Kalian bisa lihat [Peta Panduan Keluarga Sanur](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing) yang kami sediakan. Di peta itu udah ditandain berbagai rekomendasi restoran lokal, warung, dan kafe yang wajib dicoba — mulai dari masakan tradisional Indonesia, seafood segar, makanan internasional, sampai jajanan khas setempat. Cocok buat semua selera dan preferensi. Yuk, kita jelajahi petualangan kuliner di Sanur bareng-bareng!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f7afab619992133c3fa648e7d61de5fa.png)
+![Kuliner Lain di Sanur (Peta)](https://images.gobaligo.id/vocus/vocus_f7afab619992133c3fa648e7d61de5fa.png)
 
 [Peta Panduan Keluarga Sanur punya petunjuk detail buat tiap lokasi](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)
 
@@ -222,7 +222,7 @@ Masih banyak banget pilihan kuliner di Sanur. Kalian bisa lihat [Peta Panduan Ke
 
 ### Maya Sanur Resort & Spa
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_45441e4f7a35747bb8e116f4e5e23996.jpg)
+![Maya Sanur Resort & Spa](https://images.gobaligo.id/vocus/vocus_45441e4f7a35747bb8e116f4e5e23996.jpg)
 
 Maya Sanur Resort & Spa di Bali punya fasilitas dan aktivitas anak yang lengkap banget buat keluarga. Dijamin si kecil bakal happy selama liburan. Kids Club-nya ada di lantai 4 resort, khusus buat anak usia 4–12 tahun, buka dari jam 8:30 pagi sampai 4:30 sore.
 
@@ -234,7 +234,7 @@ Tepat di sebelah kolam anak ada playground outdoor, buka dari jam 9 pagi sampai 
 
 ### Andaz Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ade07c5fff4b98f0de46dc490ae594f6.jpg)
+![Andaz Bali](https://images.gobaligo.id/vocus/vocus_ade07c5fff4b98f0de46dc490ae594f6.jpg)
 
 Andaz Bali juga punya banyak fasilitas dan aktivitas ramah anak yang bikin liburan keluarga makin seru. Dijamin si kecil betah banget!
 
@@ -248,7 +248,7 @@ Pilihan kamar di Andaz Bali juga ramah keluarga. Misalnya, Andaz Suite bisa mena
 
 ### The Meru Sanur
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_701d7db3e97d2219a7cc2e260b3075ac.jpg)
+![The Meru Sanur](https://images.gobaligo.id/vocus/vocus_701d7db3e97d2219a7cc2e260b3075ac.jpg)
 
 The Meru Sanur terkenal banget sama suasananya yang ramah keluarga. Salah satu yang paling favorit adalah kids club-nya, tempat ideal buat quality time bareng si kecil. Kids club di sini buka setiap hari dari jam 8 pagi sampai 8 malam, dengan area bermain indoor dan outdoor.
 
@@ -258,7 +258,7 @@ Di sini, anak-anak bisa ikut berbagai aktivitas seru dan edukatif, bikin mereka 
 
 ### Prama Sanur Beach Bali
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7902b1c9b7023b9cb0d2f967c440c5ea.jpg)
+![Prama Sanur Beach Bali](https://images.gobaligo.id/vocus/vocus_7902b1c9b7023b9cb0d2f967c440c5ea.jpg)
 
 Prama Sanur Beach Bali juga terkenal dengan fasilitas ramah keluarga. Hotel ini punya area kolam renang khusus anak-anak lengkap dengan seluncuran dan kolam dangkal, jadi si kecil bisa bermain dengan aman. Selain itu, ada kids club dengan berbagai aktivitas seru yang bikin tamu cilik betah. Orang tua bisa bersantai di pool bar dekat kolam sambil menikmati suasana liburan.
 

@@ -25,7 +25,7 @@ _srcHash: 22653dfb5ee22bc5ab7f129687e4436a
 ---
 Following the official launch of Bali's first phase Light Rail Transit (LRT) project on September 4, 2024, with a ceremony held at Kuta Central Parking, the Mass Rapid Transit (MRT) construction plan is set to begin excavation in April 2025, marking a major breakthrough in local transportation infrastructure. Next, we will delve into the various stages of Bali's MRT project, the construction process, and its future impact on tourism and local residents.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_99819bd6538fcfc0eb8fcc36f0c1005b.jpg)
+![【Bali Transportation Improvement Plan Part 3】Bali MRT Excava](https://images.gobaligo.id/vocus/vocus_99819bd6538fcfc0eb8fcc36f0c1005b.jpg)
 
 ## The Background of MRT
 
@@ -51,7 +51,7 @@ During his visit to Bali, the Dubai Energy Minister pledged to provide 75% of th
 
 This project will utilize eight large Tunnel Boring Machines (TBMs), six more than those used for Jakarta's metro system. The TBMs for Bali have a diameter of 7.2 meters, surpassing Jakarta's 6 meters, meaning Bali's metro tunnels will be more spacious. These machines are scheduled to arrive in Bali by April 2025, when tunnel excavation will commence.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_639d9f2561697e36de04070031810cf0.jpg)
+![Technical Specifications of TBMs](https://images.gobaligo.id/vocus/vocus_639d9f2561697e36de04070031810cf0.jpg)
 
 ## Depth of Underground Tunnels
 
@@ -77,7 +77,7 @@ Following the completion of the first phase, the metro construction will gradual
 
 According to the Bali government's plan, the first phase of the metro construction is expected to be completed by 2030. While this project is highly ambitious, the government and relevant departments anticipate numerous challenges, particularly in construction progress, technical difficulties, and funding allocation. However, the government remains confident in the project's future and is committed to ensuring its timely completion.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d8ad90a6b1d78f7cae9048e486a4789c.jpg)
+![Project Timeline](https://images.gobaligo.id/vocus/vocus_d8ad90a6b1d78f7cae9048e486a4789c.jpg)
 
 ## Impact on Local Transportation
 
@@ -119,7 +119,7 @@ The completion of Bali's MRT will not only greatly enhance local transportation 
 
 📩 **Join the 'Bali Travel Guide' Blog Now and Become a Bali Travel Expert!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Sign Up for Our Blog](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **By subscribing for free, you'll get:**
 

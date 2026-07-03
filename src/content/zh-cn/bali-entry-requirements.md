@@ -21,7 +21,7 @@ _srcHash: e03dff00fcdecf9671a4929f95f2c69d
 
 想去巴厘岛度假，或即将踏上印尼的旅游旅程？别忘了除了订好机票和住宿，还有几份**重要的入境文件**需要提前准备。这些文件若未事先完成，不仅可能耽误登机，也可能在入境时面临困难。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2775fee2fe386d7041bb19dfab0cd31a.png)
+![印尼/巴厘岛旅游入境必备！签证、报关、观光税与健康声明一次看懂](https://images.gobaligo.id/vocus/vocus_2775fee2fe386d7041bb19dfab0cd31a.png)
 
 为了让你顺利通关，以下整理出目前最新的四大入境文件，包含申办时间、有效期限与注意事项，一次看懂、轻松准备！
 

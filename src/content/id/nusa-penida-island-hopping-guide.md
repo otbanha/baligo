@@ -41,7 +41,7 @@ Dia bisa:
 - 👏 Bisa ikutin semua perubahan jadwal
 - 👏 Kami rayain ulang tahun keluarga, dia rekomendasiin restoran di Jimbaran dan atur kue serta paduan suara band — detail banget
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7619892b3fc1f39c15d5098c619943bf.jpg)
+![Driver Sewaan](https://images.gobaligo.id/vocus/vocus_7619892b3fc1f39c15d5098c619943bf.jpg)
 
 ## 18 Januari Hari 1: Tiba di Bali, Eksplorasi Ubud
 

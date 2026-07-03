@@ -31,7 +31,7 @@ _srcHash: 923fd0e1fb54af637a4b91a2ed01cf48
 
 ### 1.護照同簽證：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b4636d492eccd4bbd66f297fe294aaee.jpg)
+![1.護照同簽證：](https://images.gobaligo.id/vocus/vocus_b4636d492eccd4bbd66f297fe294aaee.jpg)
 
 確保你嘅護照仲有六個月以上嘅有效期，同埋檢查你係咪需要簽證去峇里島。根據你嘅國籍，可能需要提前辦理簽證。
 
@@ -53,7 +53,7 @@ _srcHash: 923fd0e1fb54af637a4b91a2ed01cf48
 
 ### 4. 換錢：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a272cc601fcba762d6af46ebde80bb20.png)
+![4. 換錢：](https://images.gobaligo.id/vocus/vocus_a272cc601fcba762d6af46ebde80bb20.png)
 
 峇里島用印尼盾（Rupiah, 代號IDR）作為市面上流通嘅唯一貨幣。你需要喺出發國先換好「美金」。點解呢？請睇下面換錢懶人包：
 
@@ -62,7 +62,7 @@ _srcHash: 923fd0e1fb54af637a4b91a2ed01cf48
 
 ### 5. 要帶咩行李？：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_91ec7922f1447500e4a3e09b3f71f767.jpg)
+![5. 要帶咩行李？：](https://images.gobaligo.id/vocus/vocus_91ec7922f1447500e4a3e09b3f71f767.jpg)
 
 根據你嘅旅行計劃，準備好輕便又合適嘅行李。如果你打算參加水上活動或者探索峇里島嘅自然景點，帶啱衫同鞋係好重要嘅。其他嘅提醒好似防曬、使唔使帶雨具、電壓/插頭...等細項可以參考：[峇里島旅行要帶咩？必備嘅21項物品](/blog/bali-travel-essentials/)
 
@@ -100,7 +100,7 @@ _srcHash: 923fd0e1fb54af637a4b91a2ed01cf48
 
 ### 9.簡單認識各區域嘅特色：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6356a43e38fd4c13798ef054dd542006.png)
+![9.簡單認識各區域嘅特色：](https://images.gobaligo.id/vocus/vocus_6356a43e38fd4c13798ef054dd542006.png)
 
 峇里島雖然唔大，但係每個區域都有好唔一樣嘅旅遊特色。先認識峇里島各區嘅獨特之處，先至可以搵到適合唔同旅行者喜好同度假需求嘅住宿選擇。
 
@@ -110,7 +110,7 @@ _srcHash: 923fd0e1fb54af637a4b91a2ed01cf48
 
 ### 10.旅館同交通：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_be1215ff80c1c04f4739b07341c65c49.png)
+![10.旅館同交通：](https://images.gobaligo.id/vocus/vocus_be1215ff80c1c04f4739b07341c65c49.png)
 
 峇里島係一個熱門嘅旅遊勝地，特別係旺季，所以提早預訂可以確保你有一個愉快嘅旅行體驗。住宿嘅預訂可以參考我哋超過300間嘅峇里島住宿推薦，有按地區劃分嘅住宿推薦，仲有親子、蜜月嘅主題。重點係呢份係一份保證唔會伏嘅住宿清單嚟㗎：「[峇里島住宿推薦指南](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)」
 
@@ -158,7 +158,7 @@ _srcHash: 923fd0e1fb54af637a4b91a2ed01cf48
 
 ### 15. 峇里島景點介紹：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8a91a2159ba5f4964ed4c3f662098f5d.png)
+![15. 峇里島景點介紹：](https://images.gobaligo.id/vocus/vocus_8a91a2159ba5f4964ed4c3f662098f5d.png)
 
 峇里島有「十大標誌性景點」。呢啲景點集中展現咗峇里島嘅文化、自然風光同特色魅力，等你可以喺短時間內深入體驗峇里島嘅獨特魅力。同時呢啲地方亦係影相打卡/到此一遊嘅熱門景點。
 
@@ -179,13 +179,13 @@ https://youtube.com/shorts/lltGiElNWBA
 
 ### 17.峇里島旅遊高手規劃嘅行程
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8eeed2c49e4d80410fa6844fe5acfee8.png)
+![17.峇里島旅遊高手規劃嘅行程](https://images.gobaligo.id/vocus/vocus_8eeed2c49e4d80410fa6844fe5acfee8.png)
 
 最具參考價值嘅行程安排參考指南，令你玩得輕鬆，仲玩得比人多，比人充實！請睇呢度：[爽玩峇里島自由行攻略：交通、住宿、景點、美食、購物、SPA、夜生活，全方位規劃](/blog/bali-free-travel-guide/)]
 
 ### 18.關注峇里島新聞
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00c25a545869e8e2c4c2172ed512f261.png)
+![18.關注峇里島新聞](https://images.gobaligo.id/vocus/vocus_00c25a545869e8e2c4c2172ed512f261.png)
 
 關注峇里島新聞有幾個重要原因:
 
@@ -238,7 +238,7 @@ https://youtu.be/H5N5_UuK7TI
 
 第一次前往峇里島時，你有幾種選擇可以喺機場安排接機服務，以便順利抵達你嘅目的地。以下係幾種常見嘅接機選項：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_af69234c1b871e47f94b6a3b032a1756.png)
+![21. 機場接機：](https://images.gobaligo.id/vocus/vocus_af69234c1b871e47f94b6a3b032a1756.png)
 
 1. **酒店接機服務：**
 2. - 部分峇里島嘅酒店提供接機服務，你可以喺預訂住宿時詢問酒店係咪提供呢項服務。呢係一種方便且放心嘅選擇，酒店會派專車前來接你，令你喺抵達後無需擔心交通安排。
@@ -259,7 +259,7 @@ https://youtu.be/0fqEvAzAy9A
 
 ### 22.水土不服：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9bada757dd54b88e20b23272c92cd00a.png)
+![22.水土不服：](https://images.gobaligo.id/vocus/vocus_9bada757dd54b88e20b23272c92cd00a.png)
 
 為咗確保你玩得開心又健康，「飲用水」係到咗峇里島之後第一樣你要注意嘅最重要事項！喺峇里島，由於當地水質唔可以生飲，建議盡量避免飲用自來水，以免引起嚴重嘅腸胃不適。你可以輕鬆咁喺超市、小商店或者路邊攤買樽裝水。如果唔小心中咗招點算？下面條連結教你快速緩解。
 
@@ -358,7 +358,7 @@ https://youtu.be/B_oT905RkQw
 - 安全保障：正規旅遊平台提供嘅行程，有完善嘅保險同服務保障
 - 即時預訂確認：手機APP輕鬆預訂，獲得即時確認
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d7641c00180a7f9f6448bbc934ec19fa.png)
+![30. 唔使諗一日遊推薦：](https://images.gobaligo.id/vocus/vocus_d7641c00180a7f9f6448bbc934ec19fa.png)
 
 對於第一次到訪峇里島嘅旅客或者想輕鬆玩嘅遊客，參加一至兩個Klook一日遊作為行程嘅一部分，可以喺唔增加規劃壓力嘅情況下，豐富你嘅峇里島體驗！
 
@@ -380,13 +380,13 @@ https://youtu.be/B_oT905RkQw
 
 ### 31.避免18個常見嘅旅行者錯誤
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7d8713436ffa82cf25fb5f537d208897.jpg)
+![31.避免18個常見嘅旅行者錯誤](https://images.gobaligo.id/vocus/vocus_7d8713436ffa82cf25fb5f537d208897.jpg)
 
 遊客喺峇里島旅遊時，經常會犯一啲錯誤，呢啲錯誤唔單止會影響旅行體驗，仲可能浪費寶貴嘅時間同金錢。以下係18個常見嘅錯誤同對應嘅實用建議，等你可以享受一趟更加愉快、無憂嘅旅程。請睇「[峇里島不踩雷攻略：18個常見錯誤與建議](/blog/bali-travel-mistakes-tips/)。
 
 ### 32.最唔麻煩嘅旅遊方式-尋求專業旅行社：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_955e9a4b7d4291ec8f7a27a262e7e48d.png)
+![32.最唔麻煩嘅旅遊方式-尋求專業旅行社：](https://images.gobaligo.id/vocus/vocus_955e9a4b7d4291ec8f7a27a262e7e48d.png)
 
 雖然自行規劃峇里島旅程有自己做功課嘅樂趣，但係要真係比較了解峇里島，唔係一兩日嘅研究就可以搞掂！好多團友要我哋推薦旅行社，可以幫佢哋搞掂所有嘅行程！只要列出旅行嘅預算、想去嘅景點，其他麻煩事都有專人幫你解決。喺旅行嘅過程中仲有熟門熟路嘅司機同中文導遊，省心省力隨心所欲咁安排旅行時間、計畫。
 

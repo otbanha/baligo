@@ -43,7 +43,7 @@ Seiring kebijakan pariwisata berkualitas tinggi 2026, **Bandara Internasional I 
 - **Alasan & Data di Balik Pengecekan Ketat**: Data resmi bilang, dulunya cuma sekitar 40% turis asing yang bayar pajak wisata secara sukarela. Demi mencapai target pendapatan pariwisata 6,63 juta wisatawan di 2026, dan buat dana masuk ke pusat pengolahan sampah (TPST) serta pelestarian budaya, pemerintah provinsi mutusin buat 'cek tanpa celah'.
 - **Dampak Sampai ke Keberangkatan**: Selain cek di pintu masuk, uji coba koneksi antara dinas pariwisata dan maskapai (sistem SITA) juga udah masuk fase kritis. Ke depannya, kalau sistem nunjukin kamu belum bayar pajak wisata selama di Bali, **pas mau check-in penerbangan pulang bisa aja nggak dapet boarding pass** — harus lunas dulu baru boleh terbang.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777252730266-782544334399662200.png)
+![Pemeriksaan Pajak Wisata 'Pintu Kedua' Resmi Berlaku](https://images.gobaligo.id/images/2026-04/1777252730266-782544334399662200.png)
 
 ***
 

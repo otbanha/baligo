@@ -19,7 +19,7 @@ _srcHash: 5d247844ffca1338188eb51bcadaca52
 
 2025年3月8日公佈嘅最新數據顯示，峇里島嘅國際旅遊需求就算喺淡季都繼續上升。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf32e66b76078f0a296d4db9e4cd0f1b.png)
+![峇里島淡季都咁旺！國際旅遊需求激增22%](https://images.gobaligo.id/vocus/vocus_bf32e66b76078f0a296d4db9e4cd0f1b.png)
 
 根據峇里島國際機場移民局嘅統計，2025年1月峇里島國際機場嘅出入境人數比2024年同期增長咗22%。移民局資訊與通信技術負責人Alexander Maxwell透露，2025年1月總共有611,603人抵達峇里島，632,833人離境。通常1月嘅離境人數會多過入境人數，因為遊客結束聖誕同新年假期返鄉。
 
@@ -38,7 +38,7 @@ Maxwell表示，外國遊客仍然係入境主力，達到540,122人，同比增
 9. 新加坡（15,942人）
 10. 日本（12,112人）
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c921dc4310098a99930838894970f765.png)
+![峇里島淡季都咁旺！國際旅遊需求激增22%](https://images.gobaligo.id/vocus/vocus_c921dc4310098a99930838894970f765.png)
 
 峇里省省長Wayan Koster指出，旅遊業對印尼整體經濟影響好大，就算喺淡季都唔例外。2024年，峇里省為國家旅遊業貢獻咗107兆印尼盾，佔外匯收入嘅44%。Koster強調，峇里經濟高度依賴旅遊業，未來需要進行經濟結構轉型，以平衡旅遊業同非旅遊業嘅發展。
 

@@ -19,7 +19,7 @@ lang: id
 _srcHash: 95ffa0bf6c9a0f91256a4c6f8c7096fa
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fe9cede54dcbc6979f0382bbc3d2c50f.png)
+![Opsi Visa untuk Tinggal / Pindah ke Bali, Indonesia dalam Ja](https://images.gobaligo.id/vocus/vocus_fe9cede54dcbc6979f0382bbc3d2c50f.png)
 
 Orang asing bisa pilih berbagai jenis visa dan izin untuk tinggal lama di Bali. Secara umum, turis asing bisa mengajukan visa tipe berikut:
 
@@ -58,7 +58,7 @@ Visa kunjungan berkali-kali masuk cuma bisa disponsori oleh perusahaan Indonesia
 
 ## Tinggal Jangka Panjang di Bali dengan Izin Tinggal (ITAS/KITAS)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8193a453448706bb3e740d33a35153d0.png)
+![Tinggal Jangka Panjang di Bali dengan Izin Tinggal (ITAS/KIT](https://images.gobaligo.id/vocus/vocus_8193a453448706bb3e740d33a35153d0.png)
 
 Izin tinggal (ITAS/KITAS) adalah pilihan terbaik buat orang asing yang udah mutusin tinggal di Bali selama beberapa tahun. Izin tinggal bisa berlaku sampai dua tahun (tergantung jenisnya) dan bisa diperpanjang di dalam negeri. Selain itu, pemegang izin tinggal bisa dapet izin masuk kembali berkali-kali (multiple re-entry permit), yang ngizinin mereka bebas keluar-masuk Indonesia tanpa ngaruh ke masa berlaku izin tinggal.
 
@@ -79,7 +79,7 @@ Pilih visa atau izin tinggal yang tepat biar hidup jangka panjang di Bali makin 
 
 📩 **Langganan sekarang blog 'Panduan Travel Bali', jadi traveler Bali yang jago!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Daftar & Gabung Blog Kami](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 

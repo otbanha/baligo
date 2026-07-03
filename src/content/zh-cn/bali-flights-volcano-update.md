@@ -23,7 +23,7 @@ _srcHash: 30a2c65984e972a06977f04f3322ca6d
 
 印尼政府将火山警戒升至最高第四级，地质局同步扩大撤离区域至方圆7公里，并在西南与东北方向延伸至8公里。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e5f5a4ccdcad653ff2020614af44a039.jpg)
+![⏰ 火山爆发详情](https://images.gobaligo.id/vocus/vocus_e5f5a4ccdcad653ff2020614af44a039.jpg)
 
 ---
 
@@ -82,7 +82,7 @@ Wings Air 六个航班也因此取消，涉及路线为：
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_55d9582fe743fd8c3c890cd3ca1665e3.jpg)
+![弗洛勒斯岛内部航线与机场状况](https://images.gobaligo.id/vocus/vocus_55d9582fe743fd8c3c890cd3ca1665e3.jpg)
 
 ### **🎒 旅游安全与建议**
 

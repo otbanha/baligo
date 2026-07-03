@@ -17,7 +17,7 @@ _srcHash: a8fcf57b28bcf092b8f65bca6b56ace2
 
 带着孩子前往巴厘岛度假是许多家庭的梦想行程。不过在出发前，关于签证的问题总是让家长们伤透脑筋，尤其是「两岁小孩该办什么签证？」、「全家人要一起排队落地签吗？」这类问题。这篇文章将为你解答所有疑惑，让你的家族旅行从入境就顺畅无阻！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b12e310451ce513776f9b8ae272b6ee.png)
+![巴厘岛家族旅游：儿童签证完整攻略](https://images.gobaligo.id/vocus/vocus_9b12e310451ce513776f9b8ae272b6ee.png)
 
 ## 两岁孩童可以办电子签证吗？
 
@@ -56,7 +56,7 @@ _srcHash: a8fcf57b28bcf092b8f65bca6b56ace2
 
 ## 巴厘岛机场入境实战经验分享
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf7e7e7e9e394b75fc46a3b7bffd0242.png)
+![巴厘岛机场入境实战经验分享](https://images.gobaligo.id/vocus/vocus_bf7e7e7e9e394b75fc46a3b7bffd0242.png)
 
 根据社团网友的实际经验，巴厘岛机场的入境流程已经非常现代化和人性化。以下是带着孩子入境的实际情况：
 
@@ -80,7 +80,7 @@ _srcHash: a8fcf57b28bcf092b8f65bca6b56ace2
 
 一位造访巴厘岛的家长分享：「海关人员看到我们一家人只有一个孩子无法自动通关，立刻带领小朋友到旁边的专属柜台办理，效率相当高，完全不用排队。」
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_76c9b5544365f93581cd66180920e6d7.png)
+![未满6岁的孩童怎么办？](https://images.gobaligo.id/vocus/vocus_76c9b5544365f93581cd66180920e6d7.png)
 
 ## 申请电子签证的步骤
 
@@ -90,7 +90,7 @@ _srcHash: a8fcf57b28bcf092b8f65bca6b56ace2
 4. **线上付款**：每人**50万印尼盾**，可用信用卡支付\*\*(刷卡有手续费)\*\*
 5. **收取签证**：通常12小时内会收到电子签证，记得打印或存在手机里
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a0603b99fe6343a76c317f76555a027a.png)
+![申请电子签证的步骤](https://images.gobaligo.id/vocus/vocus_a0603b99fe6343a76c317f76555a027a.png)
 
 **延伸阅读:** [印尼巴厘岛入境使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
 
@@ -115,7 +115,7 @@ _srcHash: a8fcf57b28bcf092b8f65bca6b56ace2
 ✅ **善用自动通关** - 6岁以上成员快速入境，未满6岁有专属通道
 ✅ **不要担心** - 机场人员友善专业，会协助带孩子的家庭
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_73f1a040162a13ae8da89393c144d3ba.png)
+![总结建议](https://images.gobaligo.id/vocus/vocus_73f1a040162a13ae8da89393c144d3ba.png)
 
 巴厘岛的入境系统已经非常完善和人性化，只要事前做好准备，带着孩子入境也能轻松又顺利。带小朋友的家庭别忘了参考我们的家庭亲子专栏喔! 祝你们有个美好的家庭假期！
 

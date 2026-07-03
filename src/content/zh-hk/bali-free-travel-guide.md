@@ -18,7 +18,7 @@ lang: zh-hk
 _srcHash: 42d2e0176bbae81b53cf8664c6706f4b
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_86b840290627cc094416ab3efb84a7cf.png)
+![【咁樣玩竟然唔塞車！】爽玩峇里島自由行攻略：交通、住宿、景點、美食、購物、SPA、夜生活，全方位規劃](https://images.gobaligo.id/vocus/vocus_86b840290627cc094416ab3efb84a7cf.png)
 
 峇里島係印尼一個好受歡迎嘅旅遊目的地，以靚沙灘、豐富文化同歷史聞名。不過，峇里島嘅交通問題成日都令遊客好頭痕，可能會影響你嘅行程，甚至搞到你 miss 咗航班。
 

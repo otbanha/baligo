@@ -19,7 +19,7 @@ lang: id
 _srcHash: 7e2a39b24e3790fd45e2735d2142045b
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_498ee7f36925a8e9d53a0b9cf326a3cc.jpg)
+![Spot Baru di Bali｜Taman Tukad Korea｜청계천｜Taman Kumbasari di D](https://images.gobaligo.id/vocus/vocus_498ee7f36925a8e9d53a0b9cf326a3cc.jpg)
 
 Jelajahi keindahan Bali, kok Taman Sungai Cheonggyecheon Korea bisa pindah ke Denpasar, Bali?!
 

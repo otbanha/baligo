@@ -19,7 +19,7 @@ lang: en
 _srcHash: 2419c528a26d346062f0aea35d148162
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_99e3337f8aad55a08c019c50bfec06e8.jpg)
+![Luxury on a Budget: Cretya Ubud Pool Club & Alas Harum Spend](https://images.gobaligo.id/vocus/vocus_99e3337f8aad55a08c019c50bfec06e8.jpg)
 
 Hello travelers! Today, we’ll explore the enchanting hidden gems of Ubud, Bali, and discover a hidden treasure that captures the essence of this beautiful island. Nestled amidst lush landscapes and vibrant traditions are Alas Harum and Cretya Ubud. In this article, we’ll share some valuable travel tips to help you enjoy the perfect travel experience at Alas Harum and Cretya Ubud in Bali.
 
@@ -44,13 +44,13 @@ First, make sure you arrive early to snag the best seat! The prime spot is right
 The prime spot with no minimum spend
 
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_00cc783d240cbd519bb5530130ee3758.png)
-![raw-image](https://images.gobaligo.id/vocus/vocus_5b95d59ad5a6154f98d1cd2d1b86a22c.png)
-![raw-image](https://images.gobaligo.id/vocus/vocus_e08d7719fe40ef646251e3a1103fdd73.png)
-![raw-image](https://images.gobaligo.id/vocus/vocus_4680f5d4765eb5af3ae22d14bf899e13.png)
-![raw-image](https://images.gobaligo.id/vocus/vocus_3c629ca5ab711b2fafc80496b73e38cd.png)
-![raw-image](https://images.gobaligo.id/vocus/vocus_36131fbcd473013960dd782fe21b5db2.png)
-![raw-image](https://images.gobaligo.id/vocus/vocus_ba56ed7726ab4c909d3fa14c577078aa.png)
+![Learn How to Avoid Crowds and Save Money](https://images.gobaligo.id/vocus/vocus_00cc783d240cbd519bb5530130ee3758.png)
+![Learn How to Avoid Crowds and Save Money](https://images.gobaligo.id/vocus/vocus_5b95d59ad5a6154f98d1cd2d1b86a22c.png)
+![Learn How to Avoid Crowds and Save Money](https://images.gobaligo.id/vocus/vocus_e08d7719fe40ef646251e3a1103fdd73.png)
+![Learn How to Avoid Crowds and Save Money](https://images.gobaligo.id/vocus/vocus_4680f5d4765eb5af3ae22d14bf899e13.png)
+![Learn How to Avoid Crowds and Save Money](https://images.gobaligo.id/vocus/vocus_3c629ca5ab711b2fafc80496b73e38cd.png)
+![Learn How to Avoid Crowds and Save Money](https://images.gobaligo.id/vocus/vocus_36131fbcd473013960dd782fe21b5db2.png)
+![Learn How to Avoid Crowds and Save Money](https://images.gobaligo.id/vocus/vocus_ba56ed7726ab4c909d3fa14c577078aa.png)
 
 ## Things to Note
 
@@ -64,7 +64,7 @@ The shelves here don’t lock!
 
 ## Beyond the Pool
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e9cbd0f15bdc73dd25d09caff791f3b2.jpg)
+![Beyond the Pool](https://images.gobaligo.id/vocus/vocus_e9cbd0f15bdc73dd25d09caff791f3b2.jpg)
 
 Aside from the three-tiered pool, there’s also a stunning rice terrace landscape perfect for countless photo ops, bird nests, orangutan caves, and a 19-meter-tall statue of Indonesia’s founding father, Sukarno... and more. For adventure seekers, there’s the 35-meter Dancing Bridge, Extreme Swing, Super Extreme Swing, Group Swing, and Double Swing. If that’s not thrilling enough, you can try the Sky Bike, Giant Sky Bike, and Flying Fox Zip Line. Alas Harum truly has something for everyone!
 
@@ -90,7 +90,7 @@ In Ubud, there are at least fifty more attractions and activities waiting for yo
 
 Ubud's tourism is supported by comprehensive accommodation facilities, ranging from budget hostels to luxury resorts. No matter your budget, you can find suitable lodging in Ubud. Refer to the Ubud accommodation recommendations below:
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_02093589e6f9903498b1c3ef6c792e6f.jpg)
+![Accommodation Options in Ubud](https://images.gobaligo.id/vocus/vocus_02093589e6f9903498b1c3ef6c792e6f.jpg)
 
 - [Bali Ubud Accommodation: 28 Unique Stays, Experience the Magic of Bali's Mountain Scenery!](/blog/ubud-villas-pool-guide/)
 - [Explore 9 Breathtaking Tree Houses/Bamboo Villas in Ubud](/blog/ubud-treehouse-bamboo-villa-stays/)

@@ -30,7 +30,7 @@ _srcHash: 6b5f9250a2aa069024f46ebab018511f
 
 相较于库塔和水明漾这样的热门旅游区，沙努尔更加宁静、深沉。这里的海滩宽阔平缓，适合漫步和放松。相较于那些充斥着派对和购物的地方，沙努尔更多地关注家庭度假的度假村和自然之美。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_073aa8625b9752317012e08a6c4b75d8.jpg)
+![沙努尔与巴厘岛其他区域氛围的不同](https://images.gobaligo.id/vocus/vocus_073aa8625b9752317012e08a6c4b75d8.jpg)
 
 {{block:klook}}
 

@@ -22,7 +22,7 @@ _srcHash: 6b15e9a90d8801a4c7e451c842655927
 
 ## 🗞️ 今日要聞：災後重建與保育行動
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777039875036-club-med-bali-nusa-dua-terbakar_01-696x464.jpg)
+![今日要聞：災後重建與保育行動](https://images.gobaligo.id/images/2026-04/1777039875036-club-med-bali-nusa-dua-terbakar_01-696x464.jpg)
 
 - **Club Med Bali 火災後續與營運狀況**：位於努沙杜瓦嘅 Club Med Bali 噚日發生火災
 起火原因：初步調查顯示，火源疑似來自廚房嘅油炸機（Deep Fryer）。當時員工正準備早餐，因油溫過高起火，雖然員工曾嘗試用滅火器撲滅，但火勢迅速蔓延至木製天花板同茅草屋頂（Sirap）。

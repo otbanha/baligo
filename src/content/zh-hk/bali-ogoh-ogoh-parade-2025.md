@@ -21,7 +21,7 @@ _srcHash: 5ec763b4e4d88fd9e6a911cd5da5cd93
 ---
 ## **咩係Pawai Ogoh-Ogoh？**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_47e34998f736eff49fecf749970e2c98.jpg)
+![咩係Pawai Ogoh-Ogoh？](https://images.gobaligo.id/vocus/vocus_47e34998f736eff49fecf749970e2c98.jpg)
 
 Pawai Ogoh-Ogoh（妖怪大遊行）係峇里島印度教新年「Nyepi」嘅前奏活動，喺寧靜日嘅前一日傍晚舉行。Ogoh-Ogoh係指巨大嘅妖怪雕像，呢啲雕像由當地社區嘅後生仔用竹、紙漿同其他環保材料手工製作而成，形象多數係神話中嘅惡魔、妖怪或者邪靈，象徵住人類內心嘅負面情緒同邪惡力量。
 
@@ -85,7 +85,7 @@ Pawai Ogoh-Ogoh（妖怪大遊行）係峇里島印度教新年「Nyepi」嘅前
 - **尊重當地文化**：Pawai Ogoh-Ogoh係一項宗教活動，請尊重當地習俗，避免不當行為。
 - **帶埋相機**：呢場係一場視覺盛宴，唔好忘記帶埋相機記錄低呢個難忘嘅時刻！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3e9a990889ea64ed410745074d370f00.jpg)
+![觀看遊行嘅小貼士](https://images.gobaligo.id/vocus/vocus_3e9a990889ea64ed410745074d370f00.jpg)
 
 ---
 

@@ -8,7 +8,7 @@ _srcHash: ae1f8f2b080cb969360af73e67df04ff
 
 ## 烏魯瓦圖食玩推介
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774351709268-index.jpeg)
+![烏魯瓦圖食玩推介](https://images.gobaligo.id/images/2026-03/1774351709268-index.jpeg)
 
 烏魯瓦圖係峇里島南部最受歡迎嘅地區之一，以壯麗嘅懸崖景觀、迷人嘅海灘同埋絕佳嘅滑浪點聞名。呢度充滿熱帶度假嘅浪漫氛圍，係享受日落美景同埋放鬆時光嘅完美選擇。如果你都想住喺烏魯瓦圖，可以參考下面我哋精心整理嘅食玩買介紹，等你嘅旅程更加豐富有趣：[【烏魯瓦圖攻略】烏魯瓦圖景點 食玩買推薦](/blog/uluwatu-guide/)
 

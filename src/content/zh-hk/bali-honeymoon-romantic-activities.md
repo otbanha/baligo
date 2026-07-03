@@ -19,15 +19,15 @@ _srcHash: 81ef189ec6babedcfab32dfb0a193297
 
 如果你同你另一半正夢想著一個異國情調嘅神奇蜜月或者感情升溫嘅聖地，咁揀峇里島你一定唔會失望！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ff0381cd059b07cbc8326fddc828da68.png)
+![峇里島度蜜月/情人同遊，十大創造浪漫活動推薦！](https://images.gobaligo.id/vocus/vocus_ff0381cd059b07cbc8326fddc828da68.png)
 
 喺印尼嘅18000個島嶼入面，峇里島以佢熱帶彩虹般嘅海岸、高聳嘅火山、鬱鬱蔥蔥嘅稻田同茂密嘅叢林描繪咗一幅浪漫嘅畫面。佢嘅自然美景同豐富嘅文化、印度教嘅傳統同熱鬧嘅夜生活結合埋一齊，令佢成為一個令人嚮往嘅蜜月聖地，峇里島適合蜜月/愛侶同遊景點值得一試！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eb197a3de4cc07f6005065464d2d6af0.jpg)
+![峇里島度蜜月/情人同遊，十大創造浪漫活動推薦！](https://images.gobaligo.id/vocus/vocus_eb197a3de4cc07f6005065464d2d6af0.jpg)
 
 如果新婚夫婦想要啲私人時間，峇里島嘅蜜月旅行係最好嘅，因為有好多鮮為人知嘅華麗景點可以遠離人群，變成一個戀人嘅天堂。咁，喺峇里島度蜜月/愛侶同遊有咩推薦嘅景點呢？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_02eec5df709ac31700b0649508efe3b0.jpg)
+![峇里島度蜜月/情人同遊，十大創造浪漫活動推薦！](https://images.gobaligo.id/vocus/vocus_02eec5df709ac31700b0649508efe3b0.jpg)
 
 ## 烏布玩盪鞦韆
 
@@ -39,13 +39,13 @@ _srcHash: 81ef189ec6babedcfab32dfb0a193297
 
 > [Desa Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F29072-desa-swing-package-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da856b7dd6e)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b017698b67b6add55e1cf53f92a3f722.jpg)
+![烏布玩盪鞦韆](https://images.gobaligo.id/vocus/vocus_b017698b67b6add55e1cf53f92a3f722.jpg)
 
 ## 參觀咖啡莊園
 
 搵緊難忘蜜月目的地？Satria Luwak Coffee俾你夢幻體驗！喺峇里島，同愛人漫遊翠綠咖啡園，一齊參與麝香貓咖啡製作工作坊。探索浪漫風景，享受獨特咖啡品味，製造難以磨滅嘅回憶。咖啡嘅故事融合情感，成就愛情充滿驚喜嘅奇妙之旅。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a02260ae7e4d55044dc505ed7c21a96f.jpg)
+![參觀咖啡莊園](https://images.gobaligo.id/vocus/vocus_a02260ae7e4d55044dc505ed7c21a96f.jpg)
 
 ## 造訪聖泉
 
@@ -55,7 +55,7 @@ _srcHash: 81ef189ec6babedcfab32dfb0a193297
 
 > 人少好多嘅聖泉[烏布心靈之旅 & 淨化體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97096-spiritual-journey-purification-healing-ritual-ubud-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D04bd5eb44f)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_78976e0bfb2637c388ca25e169325139.jpg)
+![造訪聖泉](https://images.gobaligo.id/vocus/vocus_78976e0bfb2637c388ca25e169325139.jpg)
 
 ## 參觀梯田
 
@@ -65,7 +65,7 @@ _srcHash: 81ef189ec6babedcfab32dfb0a193297
 
 > [Jatiluwih 梯田電動自行車之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F33428-jatiluwih-rice-terraces-electric-bike-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3124496931)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4e72a56fa6e2e34e2b23638f27a4c7e3.jpg)
+![參觀梯田](https://images.gobaligo.id/vocus/vocus_4e72a56fa6e2e34e2b23638f27a4c7e3.jpg)
 
 ## 同大象玩
 
@@ -75,7 +75,7 @@ _srcHash: 81ef189ec6babedcfab32dfb0a193297
 
 > Mason Elephant Park[優惠門票](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=25072)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6e4733feba662f7ac7c16978f32a21d3.jpg)
+![同大象玩](https://images.gobaligo.id/vocus/vocus_6e4733feba662f7ac7c16978f32a21d3.jpg)
 
 ## 聖猴森林
 
@@ -87,19 +87,19 @@ _srcHash: 81ef189ec6babedcfab32dfb0a193297
 
 > [烏布猴子森林＆秘境瀑布之旅（連專業拍攝服務）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49143-ubud-monkey-forest-tegalalang-tukad-cepung-waterfall-tour-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D748d67cbb5)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_316a573938d36a0c28255e9234378c86.jpg)
+![聖猴森林](https://images.gobaligo.id/vocus/vocus_316a573938d36a0c28255e9234378c86.jpg)
 
 ## 享受SPA
 
 搵緊浪漫蜜月放鬆？峇里島式奢華SPA絕對係最佳選擇！喺豪華環境入面享受傳統峇里島水療，舒緩身心。同愛人一齊浸花瓣浴，享受按摩同美容療程，增進感情。呢個愉快嘅水療之旅，為你哋嘅蜜月增添奢華同親密時光，創造難忘回憶。峇里島奢華水療推薦【[請睇呢度](https://s.id/spa_guide)】
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_f7f5191a96ea7d54fb5136f6c0ae3e50.jpg)
+![享受SPA](https://images.gobaligo.id/vocus/vocus_f7f5191a96ea7d54fb5136f6c0ae3e50.jpg)
 
 ## 瀑布探秘
 
 同伴侶漫步喺青蔥叢林，欣賞自然奇觀。喺清涼水幕中擁抱，分享難得親近大自然嘅時刻。瀑布流水融合愛意，為你哋嘅蜜月增添神秘同浪漫。喺烏布嘅瀑布中，愛情會繚繞喺大自然嘅美景入面，成就一段難忘之旅。峇里島有好多超靚嘅瀑布可以去㗎！唔想跑咁遠可以[參考呢度](https://s.id/waterfalls)有小傑介紹過喺烏布附近嘅瀑布
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_938b0c358a8c951335a2d0090ffa695d.jpg)
+![瀑布探秘](https://images.gobaligo.id/vocus/vocus_938b0c358a8c951335a2d0090ffa695d.jpg)
 
 ## ATV探險
 
@@ -109,7 +109,7 @@ _srcHash: 81ef189ec6babedcfab32dfb0a193297
 
 > [ATV登火山](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F79494-kintamani-pine-tree-atv-quad-bike-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3a7c769872)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_268f0b70731e9d943f29e60513bde4b1.jpg)
+![ATV探險](https://images.gobaligo.id/vocus/vocus_268f0b70731e9d943f29e60513bde4b1.jpg)
 
 ## 海灘俱樂部共享浪漫
 

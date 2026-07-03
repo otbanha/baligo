@@ -19,7 +19,7 @@ _srcHash: 2bb505e944fe9f9bb35900f49d62f772
 
 在巴厘岛参加潜水或浮潜等海上活动是许多旅客的首选，但由于这类活动多半在海边或离岛进行，无法携带包包上船，更别说是保险箱，因此“护照、钱包、手机该怎么保管？”成为大家最常问的问题。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_13ba81f657671652cb965ba7cbdbbb32.jpg)
+![巴厘岛潜水浮潜必读：护照与贵重物品如何安全保管？](https://images.gobaligo.id/vocus/vocus_13ba81f657671652cb965ba7cbdbbb32.jpg)
 
 不用担心！以下我们整理了**6种安全又实用的保管方式**，帮助你在享受海洋活动时也能放心！
 
@@ -65,7 +65,7 @@ _srcHash: 2bb505e944fe9f9bb35900f49d62f772
 
 安全旅游的第一步，就是**出门从简、减少诱惑**！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5c7cb0bc463870c71435bbe2ca2920ab.jpg)
+![6. 出门从简，减少风险](https://images.gobaligo.id/vocus/vocus_5c7cb0bc463870c71435bbe2ca2920ab.jpg)
 
 ---
 
@@ -103,6 +103,6 @@ _srcHash: 2bb505e944fe9f9bb35900f49d62f772
 
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_16339969501f0b9ff7e0dc5c638cd48d.png)
+![5. 如果物品遗失了怎么办？](https://images.gobaligo.id/vocus/vocus_16339969501f0b9ff7e0dc5c638cd48d.png)
 
 巴厘岛的海洋世界美不胜收，但保护好自己的财物更是旅程中不可忽略的一环。只要事前做好准备、选对保管方式，就能让潜水或浮潜的回忆变得更完美，也更安心。

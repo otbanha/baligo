@@ -18,7 +18,7 @@ lang: id
 _srcHash: 6cacc31db345ce8a943c341d17a37fab
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_513b249c4e9a87d33d49c0e009653ed8.jpg)
+![Hutan Cahaya Hujan di Malam Hari: Pengalaman Seni Cahaya Ime](https://images.gobaligo.id/vocus/vocus_513b249c4e9a87d33d49c0e009653ed8.jpg)
 
 Begitu masuk ke Hikaria di Ubud, Bali, rasanya seperti menembus batas antara realitas dan imajinasi. Ini adalah puisi simfoni cahaya yang terbentang di bawah langit malam. Merek seni cahaya revolusioner ini, hasil kolaborasi **Timedoor Indonesia** dan **Run-Hun Sha**, berlokasi di hutan Greenkubu Restaurant and Swing. Setiap matahari terbenam, hutan ini berubah menjadi negeri ajaib cahaya yang memikat para pelancong yang mencari pengalaman malam unik.
 
@@ -30,9 +30,9 @@ Hikaria bukan sekadar pertunjukan lampu, melainkan perpaduan sempurna antara nar
 
 Terinspirasi dari mitologi tradisional Bali, Hikaria mengisahkan legenda Dewa Cahaya Sanjara dan Dewa Bayangan Wisaka. Sepanjang jalur sepanjang sekitar 1 km, pengunjung akan mengalami **pengalaman seni cahaya imersif malam hari**. Teknologi proyeksi mapping canggih berpadu sempurna dengan lingkungan alam, menciptakan suasana yang tenang sekaligus fantastis, seolah melangkah ke dunia dongeng.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_68a1930e4635d2ab71c3554c09582037.png)
+![Menelusuri Narasi Cahaya Mitologi Bali](https://images.gobaligo.id/vocus/vocus_68a1930e4635d2ab71c3554c09582037.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_2ad9af9756ee9fbfaf5b9ff3f7639238.jpg)
+![Menelusuri Narasi Cahaya Mitologi Bali](https://images.gobaligo.id/vocus/vocus_2ad9af9756ee9fbfaf5b9ff3f7639238.jpg)
 
 Banyak pengunjung memuji instalasi lampu dan musik yang harmonis dengan alam sekitar, menciptakan ruang fantasi yang membuat lupa hiruk-pikuk dunia. Seluruh area terawat baik, memudahkan pengunjung untuk berjalan-jalan dan menjelajah, sementara staf yang ramah selalu siap membantu kapan pun dibutuhkan, memastikan setiap pengunjung menikmati perjalanan ajaib ini.
 
@@ -40,19 +40,19 @@ Banyak pengunjung memuji instalasi lampu dan musik yang harmonis dengan alam sek
 
 Salah satu ciri khas Hikaria yang paling dipuji adalah setiap sudutnya menjadi spot foto yang sempurna. Dari instalasi lampu yang mencolok hingga bulan raksasa ikonik, setiap tikungan bisa menangkap momen magis malam hari. Yang spesial, tersedia **layanan fotografi profesional gratis** di titik-titik terbaik, dengan fotografer yang siap mengabadikan kenangan indah pengunjung.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_ebd7298ffdf5d655290876b9de03c786.png)
+![Spot Foto Super Indah dan Pengalaman Tak Terlupakan](https://images.gobaligo.id/vocus/vocus_ebd7298ffdf5d655290876b9de03c786.png)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_399947f4c176edbcc3b2f21dbb98d60a.jpg)
+![Spot Foto Super Indah dan Pengalaman Tak Terlupakan](https://images.gobaligo.id/vocus/vocus_399947f4c176edbcc3b2f21dbb98d60a.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c31af6bee0eb13d66274b0f0e627f998.jpg)
+![Spot Foto Super Indah dan Pengalaman Tak Terlupakan](https://images.gobaligo.id/vocus/vocus_c31af6bee0eb13d66274b0f0e627f998.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_259279cde4722b281168b2133f65f2cc.png)
+![Spot Foto Super Indah dan Pengalaman Tak Terlupakan](https://images.gobaligo.id/vocus/vocus_259279cde4722b281168b2133f65f2cc.png)
 
 「Setiap sudut di sini sangat Instagramable banget,」kata seorang pecinta fotografi: 「Sebelum datang, pastikan kamu siapin kamera yang cocok buat kondisi minim cahaya, biar fotomu bisa menangkap keajaiban tempat ini dengan sempurna.」
 
 Selain foto-foto, Hikaria juga punya **layanan sewa kostum**. Kamu bisa pilih yukata Jepang, baju tradisional Bali, atau berbagai dress cantik, biar kamu benar-benar tenggelam dalam dongeng cahaya ini dan makin seru pengalamannya.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_31e8c69bd8a6a27fb15fbf7a59bde81a.png)
+![Spot Foto Super Indah dan Pengalaman Tak Terlupakan](https://images.gobaligo.id/vocus/vocus_31e8c69bd8a6a27fb15fbf7a59bde81a.png)
 
 ## Info Kunjungan Praktis
 

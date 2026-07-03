@@ -24,7 +24,7 @@ _srcHash: bbc98a204fe77f471be4f6914e135336
 你係咪都習慣咁樣？
 打開 Airbnb，搵到一間超靚嘅峇里島泳池別墅，價錢比酒店平一半，二話不說即刻俾錢。然後心情愉快咁倒數出發日……
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7bfbbcea9b14e9d87a3cf1605faa4429.jpg)
+![去峇里島千祈唔好急住訂 Airbnb！2026 年三月底呢件事可能令你嘅旅程即刻玩完](https://images.gobaligo.id/vocus/vocus_7bfbbcea9b14e9d87a3cf1605faa4429.jpg)
 
 等陣先。2026 年，呢個習慣可能令你白白損失一筆訂金，甚至去到當地先發現「**你訂嗰間根本唔可以入住**」。
 
@@ -62,7 +62,7 @@ _srcHash: bbc98a204fe77f471be4f6914e135336
 
 ## 我哋嘅建議
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b60a90290551cc0591b557f9259371a7.jpg)
+![我哋嘅建議](https://images.gobaligo.id/vocus/vocus_b60a90290551cc0591b557f9259371a7.jpg)
 
 3 月底到 6 月呢段過渡期，係峇里島 Airbnb 市場最混亂嘅時候。如果你嘅峇里島行程就喺呢段期間，我真係建議你小心啲。
 唔係叫你去，而係叫你去得安心。

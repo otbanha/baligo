@@ -14,7 +14,7 @@ lang: zh-hk
 _srcHash: d7700bf26d728e7acbb694714e598472
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0d7db454b968029e4ed332b57c147411.jpg)
+![【峇里島生存指南】中暑咗點算好？當地人先知道嘅 3 大消暑神水同 SPA、急救建議！](https://images.gobaligo.id/vocus/vocus_0d7db454b968029e4ed332b57c147411.jpg)
 
 ## 1. 峇里島當地嘅「清涼」飲品
 
@@ -51,7 +51,7 @@ _srcHash: d7700bf26d728e7acbb694714e598472
 
 ## 中暑之後可以按摩或者做 spa 嗎？
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1120e315e89abf9baad7f4e4f333bee6.png)
+![中暑之後可以按摩或者做 spa 嗎？](https://images.gobaligo.id/vocus/vocus_1120e315e89abf9baad7f4e4f333bee6.png)
 
 中暑之後可唔可以按摩或者做 SPA，要睇你而家嘅**身體狀況**同埋**療程類型**。喺峇里島呢種熱帶氣候下，錯誤嘅按摩可能會加重中暑症狀，所以要特別小心。
 

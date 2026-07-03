@@ -22,7 +22,7 @@ _srcHash: 97083fce0d5810fae52a804187d6d01c
 
 從2024年開始，先辦好電子落地簽 (eVoA)唔單止唔使排隊辦理VoA（落地簽），連移民局排隊等蓋章都慳返！慳返嘅時間可以畀你好好感受峇里島！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_afba78c72d520b7b245a856eed8aeefb.png)
+![咩係自動通關?](https://images.gobaligo.id/vocus/vocus_afba78c72d520b7b245a856eed8aeefb.png)
 
 2024年一月開始，峇里島開始啟用呢個自動通關系統。預計幾個月內會再增加50個自動閘門單元，峇里島國際航站樓總共會安裝80個單元畀遊客快速通關（抵達/入境會有60個自動通關閘門；離開/出境20個）。
 
@@ -42,11 +42,11 @@ _srcHash: 97083fce0d5810fae52a804187d6d01c
 
 (團友 Ellen Yang 提供):
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9285cfcabb6afba44d51d4b48b661019.png)
+![團友實際過關經驗分享](https://images.gobaligo.id/vocus/vocus_9285cfcabb6afba44d51d4b48b661019.png)
 
 （團友 Sam & Sandra 提供）：
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e6c6791c8a5a8d37e4d681d0181cb60a.png)
+![團友實際過關經驗分享](https://images.gobaligo.id/vocus/vocus_e6c6791c8a5a8d37e4d681d0181cb60a.png)
 
 我哋喺2024年2月6號抵達峇里島機場之後，利用網上提前申請咗電子簽證，仲體驗咗全新嘅自動過關系統。成個過程好快又順利，唔使三分鐘就完成咗過關手續，真係好方便！我極力建議大家提前喺網上辦理簽證，可以慳返唔少時間同麻煩。
 
@@ -54,7 +54,7 @@ _srcHash: 97083fce0d5810fae52a804187d6d01c
 
 編按: 目前**年滿6歲嘅小朋友都可以用機場嘅自動過關門**。之前，呢條通道只限14歲以上嘅人用。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a832b6cb5d76f4ac85c91c899e756129.jpg)
+![團友實際過關經驗分享](https://images.gobaligo.id/vocus/vocus_a832b6cb5d76f4ac85c91c899e756129.jpg)
 
 另外 Ellen 都提醒旅行者，手寫嘅海關申報表已經取消咗一段時間，仲係有好多人去到最後一關拎咗行李要過海關嘅時候，先知道要喺網上填電子報關表，結果被耽誤喺最後一關花咗唔少時間填電子報關表。【[入境印尼必填電子報關單e-CD說明](/blog/indonesia-e-cd-guide/)】呢個步驟千祈唔好漏咗呀！
 

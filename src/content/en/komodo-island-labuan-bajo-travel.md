@@ -64,7 +64,7 @@ Map of main tourist spots
 
 **A World Heritage Ecological Wonder**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0d617fbbf9076c175c31660fc2e01571.jpg)
+![1. Komodo National Park Adventure](https://images.gobaligo.id/vocus/vocus_0d617fbbf9076c175c31660fc2e01571.jpg)
 
 This 1,817 square kilometer national park comprises 29 islands and is the only place on Earth where you can encounter wild Komodo dragons. These 'living dinosaurs,' which can grow up to 3 meters long, offer an unparalleled awe-inspiring experience.
 
@@ -96,13 +96,13 @@ Pristine + stunning pink sand beach
 
 **Ranked among the top 10 diving destinations globally by Dive Magazine**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b832ec5131755bf8979725154b5e0337.jpg)
+![2. World-Class Diving and Snorkeling](https://images.gobaligo.id/vocus/vocus_b832ec5131755bf8979725154b5e0337.jpg)
 
 The waters surrounding Labuan Bajo boast stunning marine biodiversity, with temperatures consistently ranging from 26-29°C year-round and visibility reaching up to 30 meters.
 
 **Top Dive Sites:**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e954070505f120c1749e80d0e97e9a9a.png)
+![2. World-Class Diving and Snorkeling](https://images.gobaligo.id/vocus/vocus_e954070505f120c1749e80d0e97e9a9a.png)
 
 **Unique Experiences:**
 
@@ -126,7 +126,7 @@ Embark on an island-hopping journey aboard traditional 'phinisi' wooden sailing 
 
 **Visit Isolated Traditional Villages**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_457f7260484739919c2903410e8e79b0.jpg)
+![4. Cultural Immersion Experiences](https://images.gobaligo.id/vocus/vocus_457f7260484739919c2903410e8e79b0.jpg)
 
 Wae Rebo Village: An ancient tribe in the clouds. Nestled in the mountains at an altitude of 1,200 meters, this village preserves the unique conical thatched-roof houses (Mbaru Niang). Experiences include:
 
@@ -137,7 +137,7 @@ Wae Rebo Village: An ancient tribe in the clouds. Nestled in the mountains at an
 
 **Bena Traditional Village:**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6236dcdd0cdd7c355beb0fe7a7fbe981.jpg)
+![4. Cultural Immersion Experiences](https://images.gobaligo.id/vocus/vocus_6236dcdd0cdd7c355beb0fe7a7fbe981.jpg)
 
 Located in the Bajawa region, famous for its megalithic culture and traditional rituals, ideal for travelers interested in anthropology.
 
@@ -149,13 +149,13 @@ Located in the Bajawa region, famous for its megalithic culture and traditional 
 
 - **Rangko Cave Exploration**: Mysterious underground lakes and stalactites
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8e27dc7a53097b4889e16ae0c095b640.jpg)
+![5. Land, Sea, and Air Adventures](https://images.gobaligo.id/vocus/vocus_8e27dc7a53097b4889e16ae0c095b640.jpg)
 
 **Water Activities:**
 
 - Stand-up paddleboarding (SUP) through mangrove forests
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b4ba7cea9192b849250ca40805a3348.jpg)
+![5. Land, Sea, and Air Adventures](https://images.gobaligo.id/vocus/vocus_9b4ba7cea9192b849250ca40805a3348.jpg)
 
 - Kayaking around the island
 - Fishing tour (catch and grill on the spot)
@@ -167,7 +167,7 @@ Located in the Bajawa region, famous for its megalithic culture and traditional 
 
 ### 6. Taka Makassar Crescent Bay
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8c6a59dc35b0d52483d05b5a52ddd4d6.jpg)
+![6. Taka Makassar Crescent Bay](https://images.gobaligo.id/vocus/vocus_8c6a59dc35b0d52483d05b5a52ddd4d6.jpg)
 
 Taka Makassar is a small sandbar located within Komodo National Park in Indonesia, known as "the white sandbar floating on the sea." 🌊 Its area is very small, revealing pristine white sand during low tide, while it is almost completely submerged during high tide, earning it the nickname "the disappearing island."
 
@@ -253,7 +253,7 @@ Book a full-day private speedboat tour to Komodo Island through Klook, with boat
 
 **Ayana Komodo Resort**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4b45d240ec9f576e31fe74b5f65c7f23.jpg)
+![Luxury Resorts](https://images.gobaligo.id/vocus/vocus_4b45d240ec9f576e31fe74b5f65c7f23.jpg)
 
 Boutique 5-star hotel with infinity pool and private beach
 
@@ -261,7 +261,7 @@ Boutique 5-star hotel with infinity pool and private beach
 
 **Plataran Komodo Beach Resort**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_89cfec656ea4cc2bd59301d92c259b32.jpg)
+![Luxury Resorts](https://images.gobaligo.id/vocus/vocus_89cfec656ea4cc2bd59301d92c259b32.jpg)
 
 Traditional style + excellent service
 
@@ -269,7 +269,7 @@ Traditional style + excellent service
 
 **Meruorah Komodo**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_20b260f562c085f9c2d5386b969891a7.jpg)
+![Luxury Resorts](https://images.gobaligo.id/vocus/vocus_20b260f562c085f9c2d5386b969891a7.jpg)
 
 Great value 5-star experience
 
@@ -279,7 +279,7 @@ Great value 5-star experience
 
 **Bintang Flores Hotel**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_8a3b468957843c6389d29538aad87996.jpg)
+![Mid-Range](https://images.gobaligo.id/vocus/vocus_8a3b468957843c6389d29538aad87996.jpg)
 
 City Center + Rooftop Bar
 
@@ -287,7 +287,7 @@ City Center + Rooftop Bar
 
 **Loccal Collection Hotel**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9e77d8cb6be0ab3e7f9ae724b14329cc.jpg)
+![Mid-Range](https://images.gobaligo.id/vocus/vocus_9e77d8cb6be0ab3e7f9ae724b14329cc.jpg)
 
 Mediterranean-Style Accommodation
 
@@ -295,7 +295,7 @@ Mediterranean-Style Accommodation
 
 **Komodo Lodge**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_9b07b2ba3dd447e9c8b42b53a2898d29.jpg)
+![Mid-Range](https://images.gobaligo.id/vocus/vocus_9b07b2ba3dd447e9c8b42b53a2898d29.jpg)
 
 Highly Rated Accommodation Near the Port
 

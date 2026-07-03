@@ -31,7 +31,7 @@ _srcHash: 21ddda6c6361e93f15cb5c732a17c345
 
 講到峇里島，大家第一個諗起嘅一定係陽光、沙灘、海浪。但你知唔知？喺峇里島北部山區，匿埋咗一個令人好似置身托斯卡納歐洲莊園咁嘅超可愛農場——Bali Farm House（峇里島農家樂）！呢度唔單止氣候涼爽，仲有一班嚟自世界各地嘅明星動物等你嚟互動，尤其係帶細路嘅家長，呢度絕對會成為你哋旅程中最愛嘅地方！
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781074901515-1.webp)
+![【峇里島親子景點】Bali Farm House 攻略：峇里島山區歐洲莊園、草泥馬互動同門票避雷指南](https://images.gobaligo.id/images/2026-06/1781074901515-1.webp)
 
 ## 亮點搶先睇！
 
@@ -39,43 +39,43 @@ _srcHash: 21ddda6c6361e93f15cb5c732a17c345
 
 整潔嘅農場、精心設計嘅建築、充滿異國風情嘅氛圍，Bali Farm House 完全打破我對傳統農場嘅想像。呢度冇泥濘嘅地面或者雜亂嘅欄杆，取而代之嘅係令人忍唔住狂撳快門嘅超級靚景！
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781074971810-mixcollage-10-jun-2026-01-55-pm-9955.jpg)
+![亮點搶先睇！](https://images.gobaligo.id/images/2026-06/1781074971810-mixcollage-10-jun-2026-01-55-pm-9955.jpg)
 
 **同動物明星零距離接觸**
 
 農場嘅主角係邊個？當然係嚟自美洲嘅**草泥馬（羊駝）**！佢哋嗰啲無辜又可愛嘅表情、蓬鬆嘅毛髮，絕對會令大人細路一齊融化。除咗草泥馬，你仲可以見到澳洲嘅驢仔、荷蘭嘅矮種馬、捷克嘅山羊，甚至係非洲嘅鴕鳥！最正係，你可以親自買食物餵佢哋，睇住佢哋溫馴咁行埋嚟，嗰種療癒感無價！
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075036003-1.jpg)
+![亮點搶先睇！](https://images.gobaligo.id/images/2026-06/1781075036003-1.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075036965-2.jpg)
+![亮點搶先睇！](https://images.gobaligo.id/images/2026-06/1781075036965-2.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075037987-3.jpg)
+![亮點搶先睇！](https://images.gobaligo.id/images/2026-06/1781075037987-3.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075038827-4.jpg)
+![亮點搶先睇！](https://images.gobaligo.id/images/2026-06/1781075038827-4.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075040615-caption_1_.jpg)
+![亮點搶先睇！](https://images.gobaligo.id/images/2026-06/1781075040615-caption_1_.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075041406-caption_2_.jpg)
+![亮點搶先睇！](https://images.gobaligo.id/images/2026-06/1781075041406-caption_2_.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075042572-caption_3_.jpg)
+![亮點搶先睇！](https://images.gobaligo.id/images/2026-06/1781075042572-caption_3_.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075043427-caption_4_.jpg)
+![亮點搶先睇！](https://images.gobaligo.id/images/2026-06/1781075043427-caption_4_.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075044654-caption_5_.jpg)
+![亮點搶先睇！](https://images.gobaligo.id/images/2026-06/1781075044654-caption_5_.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075045573-caption_6_.jpg)
+![亮點搶先睇！](https://images.gobaligo.id/images/2026-06/1781075045573-caption_6_.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075047059-caption_7_.jpg)
+![亮點搶先睇！](https://images.gobaligo.id/images/2026-06/1781075047059-caption_7_.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075047899-caption_8_.jpg)
+![亮點搶先睇！](https://images.gobaligo.id/images/2026-06/1781075047899-caption_8_.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075049836-caption_9_.jpg)
+![亮點搶先睇！](https://images.gobaligo.id/images/2026-06/1781075049836-caption_9_.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075053283-caption_12_.jpg)
+![亮點搶先睇！](https://images.gobaligo.id/images/2026-06/1781075053283-caption_12_.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075054193-caption.jpg)
+![亮點搶先睇！](https://images.gobaligo.id/images/2026-06/1781075054193-caption.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075054764-unnamed_1_.webp)
+![亮點搶先睇！](https://images.gobaligo.id/images/2026-06/1781075054764-unnamed_1_.webp)
 
 峇里島農家樂嘅各種農場動物
 
@@ -85,43 +85,43 @@ _srcHash: 21ddda6c6361e93f15cb5c732a17c345
 
 **超大戶外兒童遊樂場**：農場中心有個大型兒童遊樂區，鞦韆、滑梯、攀爬架乜都有。細路可以喺度盡情跑跳放電，家長就可以坐喺旁邊嘅休息區，一邊睇住佢哋玩，一邊享受山區嘅涼爽微風。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075236478-mixcollage-10-jun-2026-02-07-pm-4042.jpg)
+![親子同樂！呢度係細路嘅天堂](https://images.gobaligo.id/images/2026-06/1781075236478-mixcollage-10-jun-2026-02-07-pm-4042.jpg)
 
 **安全又乾淨嘅環境**：成個園區保持得好整潔，地面鋪得好好，唔使擔心細路跑嚟跑去會搞到成身泥。農場仲特別注重動物區嘅衛生，令家長可以放心俾細路同動物互動。
 
 **適合唔同年紀嘅體驗**：無論係學行嘅BB定係小學生，呢度都有啱玩嘅活動。細細個可以開心咁睇動物、餵兔仔；大啲嘅就可以挑戰騎小馬或者試吓同較大嘅動物互動。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075356728-caption_8_.jpg)
+![親子同樂！呢度係細路嘅天堂](https://images.gobaligo.id/images/2026-06/1781075356728-caption_8_.jpg)
 
 **親子打卡熱點**：農場周圍都係精心設計嘅佈景，由歐式建築背景到可愛嘅動物雕像，隨便影都係親子寫真集！記得幫細路影多幾張同草泥馬嘅合照，絕對係社交媒體上嘅亮點。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075294249-caption_9_.jpg)
+![親子同樂！呢度係細路嘅天堂](https://images.gobaligo.id/images/2026-06/1781075294249-caption_9_.jpg)
 
 ## 必玩體驗推薦
 
 **餵草泥馬（羊駝）**：嚟呢度絕對唔可以錯過嘅頭號體驗！攞住飼料行近草泥馬，睇住佢哋用無辜嘅大眼望住你，然後輕輕咁由你手中食走食物，嗰種近距離接觸嘅感動，連大人都會覺得超治癒！細路更加會興奮到尖叫。記得準備好相機，捕捉細路同草泥馬互動嘅可愛瞬間。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075609363-14-15-1_14_11zon_43_11zon.webp)
+![必玩體驗推薦](https://images.gobaligo.id/images/2026-06/1781075609363-14-15-1_14_11zon_43_11zon.webp)
 
 **餵兔仔**：呢個係專為細細個設計嘅溫馨活動！農場有個可愛嘅兔仔區，住咗好多毛茸茸嘅兔仔。細路可以輕輕咁抱住兔仔，或者攞住紅蘿蔔、蔬菜餵佢哋。兔仔嘅動作溫和緩慢，好啱年紀較細、會怕大型動物嘅幼兒。睇住細路小心翼翼咁餵兔仔，嗰種溫柔嘅畫面特別動人。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075806094-photo20frame.webp)
+![必玩體驗推薦](https://images.gobaligo.id/images/2026-06/1781075806094-photo20frame.webp)
 
 **坐小火車**：呢個係令細路瘋狂尖叫嘅熱門設施！農場入面有可愛嘅觀光小火車，慢慢穿梭喺園區之中。沿途可以一邊吹住涼爽嘅山風，一邊欣賞農場嘅歐式風景，仲會經過各個動物區域，從另一個角度睇草泥馬、驢仔同小馬。火車行駛速度平穩緩慢，好啱細細個坐，家長都可以趁機唞吓腳，同時享受親子同遊嘅寫意時光。細路成日嘈住要「再坐一次」，魅力冇得頂！
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075646939-unnamed.webp)
+![必玩體驗推薦](https://images.gobaligo.id/images/2026-06/1781075646939-unnamed.webp)
 
 **同驢仔野餐**：呢個係農場嘅招牌活動！一邊食嘢，一邊睇住友善嘅驢仔喺身邊行嚟行去，呢種體驗你去邊度都搵唔到。驢仔性格溫和，細路通常會又驚又喜，家長都可以趁機影低好多有趣嘅相。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075666762-picnic1.webp)
+![必玩體驗推薦](https://images.gobaligo.id/images/2026-06/1781075666762-picnic1.webp)
 
 **騎小馬**：好啱小朋友玩嘅活動！農場由荷蘭引入設得蘭矮種馬，細細隻好得意，性格又穩定。工作人員會喺旁邊細心指導，等小朋友安全咁體驗騎馬樂趣，留下難忘回憶。
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075738355-image00001_1_.jpg)
+![必玩體驗推薦](https://images.gobaligo.id/images/2026-06/1781075738355-image00001_1_.jpg)
 
 **探索多樣動物區**：除咗上面講嘅明星動物，仲要睇吓澳洲驢仔、捷克山羊、非洲鴕鳥等來自世界各地嘅動物。可以一路行一路同小朋友講解呢啲動物嘅特色，玩嘅同時都可以學到嘢！
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781075890343-tec_balifarmhouse_2.jpg)
+![必玩體驗推薦](https://images.gobaligo.id/images/2026-06/1781075890343-tec_balifarmhouse_2.jpg)
 
 ## 實用資訊話你知
 
@@ -144,7 +144,7 @@ _srcHash: 21ddda6c6361e93f15cb5c732a17c345
 
 ## 總結一下
 
-![raw-image](https://images.gobaligo.id/images/2026-06/1781085669091-gambar-bali-farm-house.webp)
+![總結一下](https://images.gobaligo.id/images/2026-06/1781085669091-gambar-bali-farm-house.webp)
 
 如果你已經玩厭咗峇里島嘅沙灘同寺廟，或者帶住小朋友想搵個乾淨、有趣又涼爽嘅地方消磨半日，Bali Farm House 絕對值得擺入行程入面！呢度唔止係農場，仲似係一場同動物嘅浪漫約會，更加係小朋友嘅歡樂天堂。由餵可愛嘅草泥馬、溫馴嘅兔仔，到騎小馬、玩遊樂設施，每個環節都令親子時光更加美好。
 

@@ -19,9 +19,9 @@ lang: en
 _srcHash: 513677da4b0f87836b56d2d2da9ea052
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eba6378e6e692848f0831daf792f90f3.jpg)
+![Bali's Most Spectacular Large-Scale Performance Debuts: Step](https://images.gobaligo.id/vocus/vocus_eba6378e6e692848f0831daf792f90f3.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_4c03f221b8a64ddfdcba5a3e601aba15.png)
+![Bali's Most Spectacular Large-Scale Performance Debuts: Step](https://images.gobaligo.id/vocus/vocus_4c03f221b8a64ddfdcba5a3e601aba15.png)
 
 Bali is not only home to enchanting beaches and rich culture, but now also welcomes an unprecedented visual and auditory feast — **'Bali Mystic'**. This immersive large-scale performance, blending tradition and modernity, has grandly debuted at the **Labyrinth Arts Centre** in Nuanu Creative City, taking audiences on a journey through time to experience the intertwining of myth and art.
 
@@ -93,7 +93,7 @@ If you're already familiar with the itineraries of Seminyak and Ubud, this perfo
 
 ## More Attractions in Nuanu Creative City
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_d1b9756c666257aa52804cadea6bbadb.jpg)
+![More Attractions in Nuanu Creative City](https://images.gobaligo.id/vocus/vocus_d1b9756c666257aa52804cadea6bbadb.jpg)
 
 Nuanu Creative City is Bali's latest emerging creative hub, promoting zero carbon emissions and becoming the island's newest sustainable tourism landmark. It's already attracting global creatives as the next must-visit hotspot!
 

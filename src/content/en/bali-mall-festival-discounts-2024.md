@@ -24,7 +24,7 @@ _srcHash: d71a85097f6bde4261b1a231da604f14
 
 As Christmas and New Year approach, Bali's 11 major shopping centers are gearing up for a shopping and celebration extravaganza! Organized by the Bali Indonesian Shopping Center Management Association (APPBI), the 'Christmas & New Year Sale 2024' brings massive discounts, exciting events, and lucrative raffle opportunities to both tourists and residents on the island.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_43f17bfffdf05c147db8643dc1dd8614.jpg)
+![Festive Shopping Extravaganza in Bali: Great Discounts and E](https://images.gobaligo.id/vocus/vocus_43f17bfffdf05c147db8643dc1dd8614.jpg)
 
 This grand sale event—**The Great Bali Sale**—will run until **January 11, 2024**, and takes place at Bali's premier shopping centers, including:
 
@@ -102,7 +102,7 @@ The shopping malls offer a wide range of entertainment options, including indoor
 
 ## 📩 **Join the "Bali Travel Guide" Now and Become a Bali Travel Expert!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Join the "Bali Travel Guide" Now and Become a Bali Travel Ex](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **By subscribing for free, you'll get:**
 

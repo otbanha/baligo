@@ -18,7 +18,7 @@ _srcHash: 37b0efb237dfaf2b2ac21ca7d26c823c
 ---
 有部分人對於辦理印尼/峇里島旅遊所需嘅簽證可能感到困惑，唔知應該從何開始，甚至無從入手。特別係對於第一次自助旅行嘅人嚟講，辦理電子簽證可能顯得複雜而陌生。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_082327d58c16280d93d97286908a1644.jpg)
+![影片教學 印尼/峇里島電子簽證詳細步驟申請教學](https://images.gobaligo.id/vocus/vocus_082327d58c16280d93d97286908a1644.jpg)
 
 ➡️[更多峇里島超值優惠請點我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
@@ -30,7 +30,7 @@ _srcHash: 37b0efb237dfaf2b2ac21ca7d26c823c
 
 攻城君首先介紹咗前往印尼移民局官網嘅步驟，並解釋咗填寫申請表格嘅流程。佢強調咗填寫表格嘅簡單性，並鼓勵觀眾跟住佢嘅步驟操作。跟住，攻城君展示咗如何選擇Visa嘅類型，以及填寫個人資料嘅過程。佢詳細解釋咗填寫表格中各項資料嘅來源同填寫方法，等觀眾能夠輕鬆理解並完成填寫。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_6b80ce0998aa766ae367666be74db23e.jpg)
+![影片教學 印尼/峇里島電子簽證詳細步驟申請教學](https://images.gobaligo.id/vocus/vocus_6b80ce0998aa766ae367666be74db23e.jpg)
 
 喺完成表格填寫後，攻城君演示咗如何進行支付，並提醒觀眾要準備好信用卡。佢指出支付過程嘅簡便性，並強調咗喺指定時間內完成支付嘅重要性。
 

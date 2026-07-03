@@ -20,7 +20,7 @@ _srcHash: 29196d394ec8113ed85cb7d7b8b02265
 ---
 As the cultural and artistic hub of Bali, Ubud is home to several unique art markets, each brimming with distinctive charm and treasures. Today, let's explore these five must-visit art markets and immerse ourselves in Bali's most authentic cultural ambiance.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bc06ce29e5089cfece271e264d77f120.jpg)
+![Discover Ubud's Top 5 Art Markets: A Complete Guide to Souve](https://images.gobaligo.id/vocus/vocus_bc06ce29e5089cfece271e264d77f120.jpg)
 
 ## 1. Ubud Art Market
 
@@ -48,7 +48,7 @@ The movie *Eat, Pray, Love*, starring Julia Roberts, was filmed at the Ubud Art 
 
 This artistic street is renowned for its boutique shops and galleries.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_dc338e01ed09d3ce9c1251be69b6b1b0.jpg)
+![2. Jalan Goutama (Goutama Street)](https://images.gobaligo.id/vocus/vocus_dc338e01ed09d3ce9c1251be69b6b1b0.jpg)
 
 ### Highlights:
 
@@ -68,7 +68,7 @@ This artistic street is renowned for its boutique shops and galleries.
 
 More than just a path to the Sacred Monkey Forest, this street is lined with art shops.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_0b24218c03d8ce933d431b6311628adc.jpg)
+![3. Jalan Monkey Forest (Monkey Forest Street)](https://images.gobaligo.id/vocus/vocus_0b24218c03d8ce933d431b6311628adc.jpg)
 
 ### Featured Products:
 
@@ -88,7 +88,7 @@ More than just a path to the Sacred Monkey Forest, this street is lined with art
 
 This is the most popular art market among locals, offering relatively affordable prices.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_92238406ed523649c94d45eeb0afe549.jpg)
+![4. Sukawati Art Market](https://images.gobaligo.id/vocus/vocus_92238406ed523649c94d45eeb0afe549.jpg)
 
 ### Must-Buy Items:
 
@@ -110,7 +110,7 @@ This is the most popular art market among locals, offering relatively affordable
 
 Less frequented by tourists, it's a great spot to find unique art pieces.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_34b5eb5728027dd48cb10e11bda274c3.jpg)
+![5. Guwang Art Market](https://images.gobaligo.id/vocus/vocus_34b5eb5728027dd48cb10e11bda274c3.jpg)
 
 ### Market Features:
 
@@ -129,7 +129,7 @@ Less frequented by tourists, it's a great spot to find unique art pieces.
 
 ## Practical Tips
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_aa743f0755f2c685561b29cc3268fda6.jpg)
+![Practical Tips](https://images.gobaligo.id/vocus/vocus_aa743f0755f2c685561b29cc3268fda6.jpg)
 
 ### Bargaining Techniques:
 

@@ -19,7 +19,7 @@ _srcHash: 833cd7e2c527d89c0890f0a731ee4045
 
 ### 印尼卫生部最近宣布，因为全球Mpox（之前称为猴痘）病例上升，巴厘岛等地的筛查程序将会更加严格。Mpox是一种高度传染的病毒，大家需要多加注意。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_69c98b8211e806d7a145a78b20e10aca.jpg)
+![印尼卫生部最近宣布，因为全球Mpox（之前称为猴痘）病例上升，巴厘岛等地的筛查程序将会更加严格。Mpox是一种高度传染的](https://images.gobaligo.id/vocus/vocus_69c98b8211e806d7a145a78b20e10aca.jpg)
 
 8月18日，卫生部的代理总局长达尤迪·普拉莫诺（Yudhi Pramono）在新闻发布会上表示，所有入境印尼的外国游客现在都必须在抵达时填写一份健康问卷。这份问卷会询问大家的健康状况、最近的接触史以及最近去过的地方。
 

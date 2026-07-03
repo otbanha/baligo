@@ -40,11 +40,11 @@ longitude: 115.1052017211914
 
 While there are many oceanfront hotels in Uluwatu, Bali, this is likely the only one where you can literally 'stay on the edge of a cliff.'
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776336998991-d983334a9253e13b11b8294497cc9420.jpeg)
+![Le Cliff Bali｜Uluwatu Cliffside Oceanfront Romantic Honeymoo](https://images.gobaligo.id/images/2026-04/1776336998991-d983334a9253e13b11b8294497cc9420.jpeg)
 
 Le Cliff Bali is nestled between the rocky cliffs of Uluwatu, facing Padang Padang's famous surf spot. Open your door to endless ocean views, and from your bed, you can see the entire horizon. This isn't the type of hotel where you pay extra for an ocean view—every room here faces the sea. With an average rate of $223 per night, it's slightly more expensive than Bali's average accommodations, but the view is an experience money can't buy.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337035647-88f735cf4f34df6313d11c091f41965f.webp)
+![Le Cliff Bali｜Uluwatu Cliffside Oceanfront Romantic Honeymoo](https://images.gobaligo.id/images/2026-04/1776337035647-88f735cf4f34df6313d11c091f41965f.webp)
 
 ***
 
@@ -64,7 +64,7 @@ There are plenty of restaurants and cafes nearby: Single Fin Bali is famous for 
 
 Descending those 200-plus stone steps from the parking lot, you might start questioning your decision—but when the entire Indian Ocean unfolds before you, all complaints will likely vanish.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337278582-188944639.jpg)
+![Facilities Overview](https://images.gobaligo.id/images/2026-04/1776337278582-188944639.jpg)
 
 The hotel is small, with only 10 rooms, following a boutique-style approach. The public spaces are built right against the cliffside, featuring outdoor terraces and rope beds on the rocks for lounging by the sea. Guests have mentioned a suspended sunbathing bed hanging directly over the ocean, one of the most memorable design elements here.
 
@@ -76,31 +76,31 @@ Wi-Fi signal is weaker at the base of the cliff, which isn't surprising — just
 
 ## 🛏️ Room Types
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337507275-6383164_19040413210073485988.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776337507275-6383164_19040413210073485988.webp)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337507692-258264712.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776337507692-258264712.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337508130-259184111.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776337508130-259184111.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337508527-298804791.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776337508527-298804791.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337508981-351383905.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776337508981-351383905.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337509441-351383906.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776337509441-351383906.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337509907-351384124.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776337509907-351384124.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337510619-351384126.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776337510619-351384126.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337511221-351384128.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776337511221-351384128.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337511739-399743495.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776337511739-399743495.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337512066-c59be9da2326ca82aaaca4f85b9fd465.jpg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776337512066-c59be9da2326ca82aaaca4f85b9fd465.jpg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337512495-3ade9d776ca1280f7de5fbef0da56e4d.jpeg)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776337512495-3ade9d776ca1280f7de5fbef0da56e4d.jpeg)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337512863-19ea088939e853d9e85d171946dc68f9.webp)
+![Room Types](https://images.gobaligo.id/images/2026-04/1776337512863-19ea088939e853d9e85d171946dc68f9.webp)
 
 Room types are divided into several categories: the basic Deluxe Double Room, Deluxe Double with Balcony, and ocean-view rooms. All rooms face the sea, with differences in balcony size and viewing angles.
 
@@ -122,7 +122,7 @@ Perfect for surfers and sunset photography enthusiasts — it's right next to Pa
 
 "Once we checked in, we didn't want to leave. Lying in bed, you can see the entire horizon, and the sunset shines directly through the window. Just watch out for the monkeys — they're bold and will quickly snatch any food left on the balcony." (Source: Agoda ⭐ 8.5)
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337652862-188944707.jpg)
+![Guest Reviews](https://images.gobaligo.id/images/2026-04/1776337652862-188944707.jpg)
 
 ***
 
@@ -135,7 +135,7 @@ Here are a few things you need to be aware of:
 - **Parking is currently limited**: Due to nearby temple land, it's recommended to come by bike or motorbike. If driving, you may need to park on the main road and walk.
 - **Check-in time is 15:00–12:00 the next day**. Contact the hotel in advance if you need to extend your stay.
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776337785405-486736413_18492010798053481_7956499200462328279_n.jpg)
+![Must-Know Before Checking In](https://images.gobaligo.id/images/2026-04/1776337785405-486736413_18492010798053481_7956499200462328279_n.jpg)
 
 ***
 

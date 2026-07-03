@@ -33,7 +33,7 @@ lang: id
 _srcHash: 38cf35a77976266389f2dc65fd090eb4
 ---
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1776164547296-688329966154289635.png)
+![【Tes Transportasi Bali】Sewa Mobil atau Panggil Ojek? Kuis 1 ](https://images.gobaligo.id/images/2026-04/1776164547296-688329966154289635.png)
 
 Bicara soal Bali, yang kebayang pasti air laut biru, sawah terasering hijau, dan pura-pura eksotis. Tapi, soal lalu lintas di 'Pulau Dewata' ini… terkenal unik banget. Jalan nggak lebar, kendaraan banyak, motor pada nyelip-nyelip.
 

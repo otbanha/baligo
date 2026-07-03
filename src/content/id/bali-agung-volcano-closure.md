@@ -22,7 +22,7 @@ _srcHash: a3a7e3af1823f7e124ec1425d964dca6
 
 Puncak tertinggi Bali, Gunung Agung yang sakral, akan ditutup sementara mulai 1 Oktober hingga 30 November. Selama waktu ini, baik turis maupun penduduk lokal tidak diizinkan masuk ke Gunung Agung, karena komunitas setempat akan mengadakan upacara keagamaan besar yang diadakan setiap sepuluh tahun sekali.
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_7d1b23f13bb45f8f4090e3555ac1a358.png)
+![Gunung Agung di Bali Ditutup Dua Bulan, Pendaki Dilarang Nai](https://images.gobaligo.id/vocus/vocus_7d1b23f13bb45f8f4090e3555ac1a358.png)
 
 Gunung Agung adalah salah satu landmark paling spiritual di Bali, sekaligus gunung berapi aktif. Setiap tahun, banyak turis berangkat subuh-subuh untuk menikmati matahari terbit yang spektakuler dari puncaknya. Namun, bagi umat Hindu di Bali, Gunung Agung bukan sekadar gunung berapi — ini adalah tempat suci yang harus dihormati sesuai tradisi dan agama.
 
@@ -36,7 +36,7 @@ Namun, dulu ada juga pendaki nakal yang nekat naik diam-diam meski ada larangan.
 
 Meski Gunung Agung ditutup selama dua bulan ini dan mungkin bikin kecewa buat banyak wisatawan, Bali masih punya gunung terkenal lain yang terbuka, seperti Gunung Batur dan Gunung Batukaru. Kalau cuaca cerah, dari puncak Gunung Batur kamu masih bisa lihat pemandangan Gunung Agung yang keren banget!
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_1efeaab1b55ccb879580aa7b6c6fac01.png)
+![Gunung Agung di Bali Ditutup Dua Bulan, Pendaki Dilarang Nai](https://images.gobaligo.id/vocus/vocus_1efeaab1b55ccb879580aa7b6c6fac01.png)
 
 Oh iya, kalau mau mendaki, **jangan lupa bawa pemandu lokal**, mau gunung besar atau kecil. Jalur gunung di Bali memang nggak setinggi Himalaya atau Alpen, tapi treknya nggak gampang dan rambu-rambunya kurang jelas. Setiap bulan, tim penyelamat lokal harus nolongin pendaki yang tersesat atau cedera.
 
@@ -46,7 +46,7 @@ Jadi, demi keselamatan dan juga untuk menghormati budaya lokal, jangan lupa patu
 
 📩 **Langganan sekarang blog 'Panduan Travel Bali', jadi traveler Bali yang jago!**
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![Daftar & Gabung Blog Kami](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 
