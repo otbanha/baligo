@@ -18,10 +18,13 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_95a9642de6dcbc7cdb2619d6cff98
 originalUrl: 'https://vocus.cc/article/66965df4fd89780001c82960'
 update: 2026/05/22
 lang: zh-cn
-_srcHash: 8cf56cd5c62c3497c41bb6d53145ce63
+_srcHash: 83daec5baa25a367d6148d8d074eb54e
 ---
+Update: 2026/07/03
 
 > 以下内容由团友 [Fish Lee](https://www.facebook.com/groups/baligo/permalink/1575099593037280/) 提供：
+
+**重点摘要**：暑假带小孩去巴厘岛的四个实测重点——① 落地签现场办理**没有久候**，美金付款会找印尼盾；② 交通**全天塞车**是常态，行程别排太满；③ 天气舒适但**紫外线强**，防晒要做足；④ 度假村泳池**深度较深**，带小孩务必准备浮臂圈等浮力装置。
 
 取之于社团，回馈社团。刚从巴厘岛回来，跟大家分享一下这次的旅行经验。这次旅程我们体验了从入境、交通、天气到各种活动和美食，希望这些心得能对大家的旅行计划有所帮助。
 
@@ -59,7 +62,7 @@ Nusa Dua Westing Resort 巧遇小海龟放生活动（Fish Lee提供）
 
 ## Hard Rock酒店的Kids Club
 
-Hard Rock酒店真的非常适合带小孩入住。有一天我们让孩子们参加了整天的Kids Club活动，而我们大人则去附近的百货公司逛街和享受SPA。这样不仅让我们的耳根清净了一天，孩子们也玩得非常开心。最后三天我们都住在库塔的Hard Rock酒店。Hard Rock的Kids Club非常受欢迎，建议大家提前预约。酒店有提供WhatsApp联系方式，也可以写邮件先预约。如果你行程确定，提前预约比较保险，因为他们在10点前可以取消。我是到酒店才去预约，很幸运刚好剩最后的名额。
+Hard Rock酒店真的非常适合带小孩入住。有一天我们让孩子们参加了整天的Kids Club活动，而我们大人则去附近的百货公司逛街和享受SPA。这样不仅让我们的耳根清净了一天，孩子们也玩得非常开心。最后三天我们都住在库塔的Hard Rock酒店。Hard Rock的Kids Club非常受欢迎，建议大家提前预约。酒店有提供WhatsApp联系方式，也可以写邮件先预约。如果你行程确定，提前预约比较保险，因为他们10点前可以取消。我是到酒店才去预约，很幸运刚好剩最后的名额。
 
 ![Hard Rock 非常適合帶小孩（Fish Lee提供）](https://images.gobaligo.id/vocus/vocus_c245c475159c2539a6a0b75472e53436.jpg)
 
@@ -79,23 +82,23 @@ Hard Rock 非常适合带小孩（Fish Lee提供）
 
 （编按：库塔的Jamie Oliver Kitchen是英国名厨Jamie Oliver在印尼开设的连锁意大利餐厅，以其新鲜美味的食材和亲切的服务而闻名，曾获得Tripadvisor 2023年的「Travelors' Choice」奖项。这里有[用餐优惠券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=785269&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91323-jamie-oliver-kitchen-kuta-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D23eba817fc)）
 
-## 刺激的泛舟体验
+## 刺激的漂流体验
 
 ![泛舟、OMMA Day Club（Fish Lee提供）](https://images.gobaligo.id/vocus/vocus_28669c7a5c5894f46e25196b63d37e90.jpg)
 
-泛舟、OMMA Day Club（Fish Lee提供）
+漂流、OMMA Day Club（Fish Lee提供）
 
 https://youtube.com/shorts/MmqfkXw211k
 
-**快速参考：**[巴厘岛泛舟攻略（泛舟常见问题FAQ）](/blog/bali-rafting-ayung-telaga-waja/)
+**快速参考：**[巴厘岛漂流攻略（漂流常见问题FAQ）](/blog/bali-rafting-ayung-telaga-waja/)
 
-我们这次还去乌布体验了泛舟，非常好玩。因为选择很多，我们直接请包车司机帮我们预订，他找了一个口碑不错的业者。建议选择从头到尾2小时的行程，不要选择1小时的，体验会更完整。我们有两个比较小的孩子，一个5岁多，一个7岁，他们都玩得很开心。泛舟活动大概2小时，我们早上9点从乌布的Villa出发，有附简单午餐，吃完后大概13:00结束行程。要去泛舟的地方需要走一段较长的下坡楼梯，我们家小孩慢慢走也能接受，并不困难。
+我们这次还去乌布体验了漂流，非常好玩。因为选择很多，我们直接请包车司机帮我们预订，他找了一个口碑不错的业者。建议选择从头到尾2小时的行程，不要选择1小时的，体验会更完整。我们有两个比较小的孩子，一个5岁多，一个7岁，他们都玩得很开心。漂流活动大概2小时，我们早上9点从乌布的Villa出发，有附简单午餐，吃完后大概13:00结束行程。要去漂流的地方需要走一段较长的下坡楼梯，我们家小孩慢慢走也能接受，并不困难。
 
-**Klook高评价泛舟预订：**
+**Klook高评价漂流预订：**
 
-> [阿勇河泛舟](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)
+> [阿勇河漂流](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)
 
-> [阿勇河泛舟（含接送）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
+> [阿勇河漂流（含接送）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
 
 > 延伸阅读：[Omma Dayclub介绍 & 官网](/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
@@ -105,13 +108,13 @@ https://youtube.com/shorts/MmqfkXw211k
 
 > 延伸阅读：
 > [努沙杜瓦、南湾：巴厘岛豪华度假的首选之地40个住宿、美食、活动攻略地图 Nusa Dua/Tanjung Benoa](/blog/nusa-dua-guide/)
-> [巴厘岛乌布完整攻略：100种深入了解乌布的方式｜探索乌布的魅力](/blog/ubud-guide/)
+> [巴厘岛乌布完整攻略：100种深入认识乌布的方式｜探索乌布的魅力](/blog/ubud-guide/)
 
 ![我們去了不少地方（Fish Lee提供）](https://images.gobaligo.id/vocus/vocus_f7f0019c1de282e44c12abadee71c3a0.jpg)
 
 我们去了不少地方（Fish Lee提供）
 
-库塔海边虽然人多，但实际上并没有我想象中的那么糟糕，一层层的浪花还挺疗愈的。
+库塔海边虽然人多，但实际上并没有我想象中的那么糟糕，一层层的浪花还挺治愈的。
 
 > 延伸阅读：[库塔旅游攻略：50个必访景点、热闹夜生活、美食、推荐SPA全收集](/blog/2023-12-13-657598bdfd8978000120fe20/)
 

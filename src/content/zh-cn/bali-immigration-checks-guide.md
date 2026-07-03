@@ -1,7 +1,7 @@
 ---
 slug: bali-immigration-checks-guide
 title: 去巴厘岛必看！移民警察随机盘查，入境文件要打印纸质版吗？
-description: 巴厘岛入境文件（签证、观光税、Arrival Card）官方允许电子版，但因移民警察现已在各地随机盘查，强烈建议携带纸质版备份，避免不必要的麻烦。
+description: 巴厘岛入境文件（签证、观光税、Arrival Card）官方允许电子版，但因移民警察现已在各地随机盘查，强烈建议携带纸质备份，避免不必要的麻烦。
 pubDate: '2025-09-09'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6edc5fad9df5889dbc92a46e84e4bc6b.png'
 tags:
@@ -14,12 +14,15 @@ originalUrl: 'https://vocus.cc/article/68bf8728fd897800013427c2'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 00c8e3f6eb9fbe4a8796b7201dd4a648
+_srcHash: a996e644cc724f5fcf4626e334a28878
 ---
+Update: 2026/07/03
+
+**先说结论**：官方规定电子签证、Arrival Card、观光税凭证**只需电子版**即可入境，但因**移民警察近期在景点、道路、酒店周边随机盘查**，强烈建议三份文件**各打印一份A4纸质版**随身携带——手机没电没网络时纸质版能救急，也比翻手机截图快。
 
 ## **很多人都在问：需要打印吗？**
 
-![很多人都在问：需要打印吗？](https://images.gobaligo.id/vocus/vocus_1ff5703b8036ffd6acb543380c8cc3dc.png)
+![很多人都在問：需要列印嗎？](https://images.gobaligo.id/vocus/vocus_1ff5703b8036ffd6acb543380c8cc3dc.png)
 
 前往巴厘岛旅游时，必备文件包括：
 
@@ -33,7 +36,7 @@ _srcHash: 00c8e3f6eb9fbe4a8796b7201dd4a648
 
 ---
 
-## **结论：不用印，但最好印！**
+## **结论：不用打印，但最好打印！**
 
 虽然规定上没有强制纸质版，但**打印备份能让旅程更安心**。
 
@@ -45,7 +48,7 @@ _srcHash: 00c8e3f6eb9fbe4a8796b7201dd4a648
 
 👉 建议：
 
-- 将 **电子签证、观光税凭证、Arrival Card QR Code** 各印一份 A4 黑白纸质。
+- 将 **电子签证、观光税凭证、Arrival Card QR Code** 各打印一份 A4 黑白纸质。
 - 随身携带，避免在旅途中遇到麻烦。
 
 ---
@@ -56,7 +59,7 @@ _srcHash: 00c8e3f6eb9fbe4a8796b7201dd4a648
 
 - VOA：机场现场办理
 - e-VOA：提前于 [evisa.imigrasi.go.id](https://evisa.imigrasi.go.id) 申请
-- 费用为 500,000 印尼盾（约 USD$32）
+- 费用为 500,000 印尼盾（约 USD$16）
 
 ### **2. All Indonesia Arrival Card**
 
@@ -66,7 +69,7 @@ _srcHash: 00c8e3f6eb9fbe4a8796b7201dd4a648
 
 ### **3. 巴厘岛观光税（Bali Tourism Levy）**
 
-- 每位外籍旅客 150,000 印尼盾（约 USD$10）
+- 每位外籍旅客 150,000 印尼盾（约10美元）
 - 平台：[lovebali.baliprov.go.id](https://lovebali.baliprov.go.id) 或 **Love Bali App**
 - 完成后获得电子凭证
 
@@ -85,9 +88,9 @@ _srcHash: 00c8e3f6eb9fbe4a8796b7201dd4a648
 
 ## **常见问题（FAQ）**
 
-### **1. 入境文件手机出示就好吗？**
+### **1. 入境文件手机出示就可以吗？**
 
-理论上可以，但若遇上移民警察盘查，纸质文件会更方便。
+理论上可以，但若遇上移民警察盘查，纸质版会更方便。
 
 ### **2. 移民警察真的会盘查吗？**
 
@@ -105,16 +108,16 @@ _srcHash: 00c8e3f6eb9fbe4a8796b7201dd4a648
 
 不需要，黑白即可，只要清晰可读。
 
-## 📩 **「巴厘岛旅游攻略」首页说明
+## 📩 **「巴厘岛旅游攻略」首页说明**
 
-![「巴厘岛旅游攻略」首页说明](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
+![「峇里島旅遊攻略」首頁說明](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 
 **通过免费订阅，你将获得：**
 
-- 最新的巴厘岛新闻，让你第一手掌握旅游资讯
+- 最新的巴厘岛新闻，让你第一时间掌握旅游资讯
 - 深度攻略，让你的行程既省钱又无忧
 - 独家推荐的私房景点与当地美食地图
 - 在脸书社团上看不到的内容
 - 收集最多团友的行程规划建议，让每次旅行都是无缝体验
 
-用谷歌或Facebook账号即可轻松完成注册！
+用谷歌或脸书账号即可轻松完成注册！

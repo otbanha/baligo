@@ -1,10 +1,10 @@
 ---
 update: 2026/05/19
-title: 【Bali Apps Wajib】Panduan Lengkap Panggil Gojek / Grab (Dengan Gambar)
+title: 【Indonesia/Bali Aplikasi Wajib】Panduan Lengkap Pemesanan Gojek / Grab
 description: >-
-  Cara pakai Gojek / Grab. Kalau traveling di Bali, Gojek dan Grab adalah dua
-  'aplikasi nasional' yang wajib banget kamu punya. Fungsinya dan tampilannya
-  mirip banget, kayak dua versi brand berbeda dari Uber.
+  Cara pakai Gojek / Grab. Pas traveling di Bali, Gojek dan Grab adalah dua
+  aplikasi wajib yang kayak 'aplikasi nasional'. Fungsi dan tampilannya mirip
+  banget, kayak dua versi brand berbeda dari Uber.
 pubDate: 2026-03-18T00:00:00.000Z
 category:
   - 叫車包車
@@ -16,113 +16,110 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/ByGkcmys01g'
 lang: id
-_srcHash: f76c1baec9b201e9b63d82ced936a8a1
+_srcHash: 977adc8bfe7940d2372106117cdfb290
 ---
+Update: 2026/07/03
 
 [🚗 Mau estimasi tarif Gojek? Klik di sini](/map/gojek-fare/)
 
-![【Bali Apps Wajib】Panduan Lengkap Panggil Gojek / Grab (Denga](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
+![【印尼/峇里島必備APP】Gojek / Grab 叫車圖文教學指南](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
+
+**Kesimpulan dulu**: **Download dan daftar pakai nomor HP Taiwan sebelum berangkat** (biar nggak stuck pas di sana karena nggak bisa nerima OTP). Pas udah di Bali, tinggal bind kartu kredit buat naik ojek — paling praktis. Dua aplikasi ini fungsinya hampir sama — **Grab** dukung kartu internasional tinggi, ada bahasa Mandarin; **Gojek** brand lokal Indonesia, kalau kartu gagal bisa top up GoPay di Alfamart. Ini dia panduan lengkap pemesanan dengan gambar.
 
 ## Cara Pakai Gojek / Grab
 
-Pas liburan di **Bali**, Gojek dan Grab adalah dua 'aplikasi nasional' yang wajib banget. Fungsinya dan tampilannya mirip banget, kayak dua versi brand berbeda dari Uber.
+Pas liburan di **Bali**, Gojek dan Grab adalah dua aplikasi wajib yang kayak 'aplikasi nasional'. Fungsi dan tampilannya mirip banget, kayak dua versi brand berbeda dari Uber.
 
-![Cara Pakai Gojek / Grab](https://images.gobaligo.id/vocus/vocus_a3735af38f1bb9994a7ec1ec8fafe01e.png)
+![Gojek / Grab 的使用方式](https://images.gobaligo.id/vocus/vocus_a3735af38f1bb9994a7ec1ec8fafe01e.png)
 
-Ini panduan step-by-step yang udah aku siapin biar kamu cepat paham:
+Ini dia panduan step-by-step yang udah dirangkum biar kamu cepat paham:
 
-**Langkah 1: Daftar Sebelum Berangkat (Penting!)**
+**Langkah 1: Daftar Sebelum Berangkat (Kunci!)**
 
-Kedua aplikasi ini butuh **kode verifikasi SMS (OTP)** buat menyelesaikan pendaftaran.
+Kedua aplikasi ini butuh **kode verifikasi SMS (OTP)** buat selesain pendaftaran.
 
-- **Saran:** Download dan daftar dulu pakai nomor HP Taiwan (atau sebelum berangkat).
-- **Untungnya:** Biar nggak repot pas udah di **Bali**, karena SIM card lokal mungkin susah nerima SMS atau jaringannya lemot.
+- **Saran:** Download dan daftar pakai nomor HP Taiwan sebelum berangkat (atau di Taiwan).
+- **Keuntungan:** Biar nggak stuck pas udah di **Bali** gara-gara SIM lokal nggak bisa nerima SMS atau jaringan nggak stabil.
 
-**Langkah 2: Tautkan Kartu Kredit (Cashless)**
+**Langkah 2: Bind Kartu Kredit (Cashless)**
 
-Meskipun bisa bayar tunai, aku saranin banget buat tautkan kartu kredit. Biar nggak repot nyari-nyari uang receh Rupiah.
+Meskipun bisa bayar pakai uang tunai, saran banget sih untuk langsung bind kartu kredit aja, biar nggak repot nyari-nyari receh rupiah kecil.
 
-- **Grab：** Tampilannya lebih ramah pengguna, dukungan kartu kredit internasionalnya oke banget, bahkan ada antarmuka bahasa Mandarin.
-- **Gojek：** Merek lokal Indonesia, kalau kartu kredit kamu gagal, bisa isi saldo GoPay di minimarket terdekat kayak Alfamart.
+- **Grab：** Tampilannya lebih ramah pengguna, dukungan untuk kartu kredit internasional tinggi, bahkan ada antarmuka bahasa Mandarin.
+- **Gojek：** Brand lokal Indonesia, kalau kartu kredit nggak bisa, bisa coba isi saldo GoPay di minimarket lokal (kayak Alfamart).
 
-**Langkah Ketiga: Proses Pesan Ojek Online (Step-by-Step)**
+**Langkah Ketiga: Proses Panggil Ojek (Step-by-Step)**
 
-Aplikasi mana pun yang kamu pakai, cara pakainya kurang lebih sama:
+Mau pakai aplikasi yang mana, logika operasinya kurang lebih sama kok:
 
 1. **Pilih Layanan:**
-    - Motor (Bike): Cocok buat sendiri, buru-buru (apalagi macet), jarak pendek. Di Gojek namanya GoRide, di Grab namanya GrabBike.
-    - Mobil (Car): Cocok buat rombongan, bawa barang banyak, atau pengen AC. Di Gojek namanya GoCar, di Grab namanya GrabCar.
 
-2. **Atur Tujuan (Where to):** Ketik nama tempat atau langsung tandai di peta.
-3. **Cek Titik Jemput (Pick-up point):** Sistem otomatis mendeteksi lokasi, tapi saran sih cek manual biar supir gampang nemuin kamu.
-4. **Lihat Harga:** Sistem bakal munculin total harga fix (transparan, gak pake argo atau tawar-menawar).
-5. **Klik Pesan (Order/Book):** Sistem bakal cariin supir, layar bakal muncul nama, plat nomor, dan posisi supir.
+    - Motor (Bike): Cocok buat sendiri, buru-buru (pas macet), jarak dekat. Di Gojek namanya GoRide, di Grab namanya GrabBike.
+    - Mobil (Car): Cocok buat ramai-ramai, bawa barang bawaan, atau pengen AC. Di Gojek namanya GoCar, di Grab namanya GrabCar.
 
-**Langkah Keempat: Komunikasi dengan Supir**
+2. **Setel Tujuan (Where to):** Masukin nama tempat atau langsung tandai di peta.
+3. **Konfirmasi Titik Jemput (Pick-up point):** Sistem biasanya otomatis, tapi saran sih cek manual biar driver nggak bingung.
+4. **Cek Harga:** Sistem bakal munculin total harga fix (transparan, nggak pakai argo atau tawar-menawar).
+5. **Klik Pesan (Order/Book):** Sistem bakal cariin driver, nanti muncul nama, plat nomor, dan posisi driver.
 
-![Cara Pakai Gojek / Grab](https://images.gobaligo.id/vocus/vocus_74b7470a20e1026529e08d0e3f83681e.png)
+![Gojek / Grab 的使用方式](https://images.gobaligo.id/vocus/vocus_74b7470a20e1026529e08d0e3f83681e.png)
+
+**Langkah Keempat: Komunikasi dengan Driver**
 
 - **Chat Bawaan:** Dua aplikasi punya fitur chat, bisa kirim pesan atau foto buat kasih tahu lokasi pasti.
-- **Fitur Translate:** Grab punya terjemahan otomatis, pesan Bahasa Indonesia dari supir bakal otomatis ke Bahasa Inggris/Mandarin; Gojek mungkin perlu komunikasi Bahasa Inggris sederhana.
-- **Ekspresi Lokasi Jemput yang Sering Dipakai:**
+- **Fitur Translate:** Grab punya terjemahan otomatis, kalau driver kirim bahasa Indonesia bakal otomatis ke Inggris/Mandarin; Gojek mungkin perlu komunikasi Inggris sederhana.
+- **Ekspresi Titik Jemput yang Sering Dipakai:**
 
-1. Di pintu utama: Di pintu utama
-2. Di mini mart XX: Di mini mart XX
-3. Di toko XX: Di toko XX
-4. Jemput saya di nomor XX: Jemput saya di nomor XX
+1. Di pintu utama / At the main gate: Di pintu utama
+2. Di minimarket XX / At XX convenient store: Di mini mart XX
+3. Di toko XX / At XX store: Di toko XX
+4. Jemput saya di nomor XX / pick me up at number XX: jemput saya di nomor XX
 
-**Langkah Kelima: Sampai dan Kasih Rating**
+**Langkah Kelima: Sampai & Rating**
 
-**第五步：抵達與評分**
-
-- Turun dari kendaraan, kalau sudah绑定 kartu kredit, langsung turun aja.
-- **Tip:** Kalau merasa pelayanannya oke (misalnya bantu angkat barang berat atau lewati macet parah), kasih tip kecil 5.000–10.000 IDR di App sebagai tanda terima kasih.
+- Setelah turun, kalau sudah binding kartu kredit, langsung turun aja.
+- **Tip:** Kalau kamu merasa pelayanannya oke banget (misal bantu angkat barang berat atau lewati macet parah), kasih tip kecil lewat App sekitar 5.000–10.000 IDR sebagai tanda terima kasih.
 
 https://youtu.be/ByGkcmys01g
 
-## Ada Batasan Pemakaian
+## Ada Batasannya
 
 Di beberapa area tertentu di Bali, masih ada papan larangan untuk ojek online. Tujuannya sih buat melindungi pendapatan sopir taksi tradisional dan sopir sewaan lokal.
 
 Biar kamu cepat paham, aku rangkum informasinya di bawah ini:
 
-### 📍 Area dan Situasi yang Paling Terbatas
-· Lokasi yang sering kena larangan: tempat wisata hits kayak Kuta, Canggu, Ubud, Sanur, dan sebagian Kintamani — udah dilaporkan ada larangan sejak 2022.
-· Titik sengketa: Di sekitar Danau Batur dan Desa Songan, ojek online dituding bikin harga sopir lokal jadi murah, dan ini bikin asosiasi transportasi wisata setempat protes keras.
+### 📍 Area Terbatas & Kondisinya
+
+· Lokasi umum yang terbatas: Di tempat wisata hits kayak Kuta, Canggu, Ubud, Sanur, dan beberapa bagian Kintamani, udah ada laporan larangan sejak 2022.
+· Titik sengketa: Di sekitar Danau Batur dan Desa Songan, ojek online dituding bikin harga sopir lokal jadi murah, yang bikin asosiasi transportasi wisata setempat protes keras.
 · Kebijakan terbaru: Menurut laporan awal 2025, pemerintah Bali juga ngeluarin aturan baru yang mewajibkan sopir ojek online punya KTP Bali dan pakai plat nomor lokal, demi melindungi hak sopir setempat.
 
-### 🚗 Dampak Nyata buat Wisatawan & Tips
-Larangan memang ada, tapi dampaknya ke wisatawan nggak terlalu besar. Kamu tetap bisa jalan-jalan dengan lancar pakai cara ini:
+![主要限制區域與情況](https://images.gobaligo.id/vocus/vocus_11b747be41152ceaf2c885a63ca4e272.jpg)
 
-![Dampak Nyata buat Wisatawan & Tips](https://images.gobaligo.id/vocus/vocus_11b747be41152ceaf2c885a63ca4e272.jpg)
+### 🚗 Dampak Nyata buat Wisatawan & Saran
 
-1. Area utama masih aman: Di bandara, hotel-hotel, dan jalan biasa, kamu masih bisa pakai aplikasi Grab dan Gojek dengan normal. Harganya transparan, cocok buat perjalanan pendek.
-2. Hindari tempat bertanda: Kalau di pintu masuk tempat wisata, pura, atau restoran ada papan larangan "Dilarang Parkir/Jemput Ojek Online (Online Taxi)", jangan pesan atau naik di situ (lihat gambar di atas).
-3. Trik jitu: Kalau nemu situasi kayak gitu, jalan kaki sekitar 5-10 menit dari area itu ke jalan utama atau gang terdekat, baru pesan lewat aplikasi. Biasanya berhasil, dan harganya lebih masuk akal.
-4. Alternatif: Buat jalan-jalan lintas area dalam sehari (misalnya dari selatan ke Ubud atau gunung berapi), sewa mobil pribadi (private car hire) adalah pilihan yang lebih umum, nyaman, dan bebas masalah. Sopirnya biasanya juga bisa jadi pemandu.
+Larangannya memang ada, tapi dampaknya ke wisatawan terbatas kok. Kamu tetap bisa jalan-jalan lancar dengan cara berikut:
+
+1. Area utama masih bisa dipakai: Di bandara, sebagian besar hotel, dan jalan biasa, kamu tetap bisa pakai aplikasi ojek online Grab dan Gojek dengan normal. Harganya transparan, cocok buat perjalanan pendek.
+2. Hindari titik terlarang: Kalau di tempat wisata, pura, atau depan restoran ada papan larangan kayak 'Dilarang Parkir/Jemput Ojek Online (Online Taxi)', jangan pesan atau naik di situ (lihat gambar di atas).
+3. Tips mengatasinya: Kalau nemu situasi kayak gitu, jalan kaki sekitar 5-10 menit dari area itu ke jalan utama atau gang terdekat, baru pesan lewat aplikasi. Biasanya berhasil dan harganya lebih masuk akal.
+4. Alternatif: Buat wisata lintas area dalam sehari (misalnya dari selatan ke Ubud atau gunung berapi), sewa mobil pribadi (private car hire) adalah pilihan yang lebih umum, nyaman, dan bebas masalah. Sopirnya biasanya juga bisa jadi pemandu.
 
 Referensi cepat: [【Panduan Lengkap Sewa Mobil di Bali】](/blog/bali-private-car-hire-guide/)
 
-1. 主要區域仍可使用：在機場、大多數酒店和普通街道，你依然可以正常使用 Grab 和 Gojek 這兩款叫車APP。它們價格透明，是短途移動的方便選擇。
-2. 避開標誌地點：如果在旅遊景點、廟宇或餐廳門口看到類似“禁止網約車 (Online Taxi) 停靠/接客”的標誌，應避免在該處叫車或上車(上圖)。
-3. 應對技巧：遇到上述情況，可以步行離開該區域約5-10分鐘，到附近的主幹道或小巷再使用APP叫車，這樣通常能順利叫到車，且價格更合理。
-4. 替代方案：對於一天的跨區域觀光（例如從南部前往烏布或火山），預訂包車是更普遍、舒適且無爭議的選擇，司機通常還能兼任嚮導。
-
-快速參考：[【峇里島包車須知懶人包】](/blog/bali-private-car-hire-guide/)
-
-## ⚠️ ️Peringatan Penting
+## ⚠️ Pengingat Penting
 
 {{video1}}
 
-· Hormati aturan: Pastikan kamu mematuhi rambu-rambu yang ada di lokasi. Memaksa naik di area terlarang bisa memicu masalah dengan sopir lokal.
-· Utamakan keselamatan: Kalau mau naik ojek di pinggir jalan, pilih "Taksi Bluebird" yang terpercaya, dan pastikan sopir pakai argo atau sepakati harga tetap biar nggak kena harga gila-gilaan.
+· Hormati aturan: Wajib patuhi rambu-rambu yang ada di lokasi. Nekat naik di zona terlarang bisa bikin ribut sama sopir lokal.
+· Utamakan keselamatan: Kalau naik angkutan pinggir jalan, pilih taksi 'Bluebird' yang terpercaya, pastikan sopir pakai argo atau deal harga pas biar nggak kena harga gila.
 
-Intinya, aplikasi ojek online masih berguna di sebagian besar wilayah Bali, asal kamu hindari tempat wisata populer yang melarangnya. Rencanakan transportasi dari awal biar liburanmu makin lancar.
+Intinya, ojek online di Bali masih berguna banget di sebagian besar tempat, asal kamu hindari spot wisata yang punya larangan tegas. Rencanakan transportasi dari awal biar liburanmu makin mulus.
 
 {{block:包車}}
 
 ---
 
-👈 **Kembali ke Panduan Lengkap Trip ke Bali**
+👈 **Kembali ke Panduan Lengkap Liburan Mandiri ke Bali**
 
-Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.
+Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.

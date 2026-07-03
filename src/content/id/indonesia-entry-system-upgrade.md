@@ -1,9 +1,7 @@
 ---
 slug: indonesia-entry-system-upgrade
-title: 'Sistem ''All Indonesia'' Mulai Uji Coba, Proses Masuk ke Indonesia Makin Canggih'
-description: >-
-  Pemerintah Indonesia uji coba sistem 'All Indonesia' yang bikin traveler bisa
-  urus visa, bea cukai, dan deklarasi kesehatan sebelum masuk.
+title: 「All Indonesia」系統上線試營運，印尼入境流程全面升級
+description: 印尼政府試行「All Indonesia」系統，讓入境旅客能夠事先完成簽證、海關申報、健康申報等程序。
 pubDate: '2025-07-26'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5e4cb6d8f2a05c782872976f5cb63be7.png'
 tags:
@@ -17,73 +15,76 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: id
-_srcHash: a3c83e4399a24fd893e0456c76279309
+_srcHash: 9ff7bbeabb50d7c07c6396bdda247ff1
 ---
+Update: 2026/07/03
 
-## **Apa Itu All Indonesia? Konsep Baru Sistem Masuk Satu Pintu**
+**先講結論**：「All Indonesia」是把海關申報＋健康申報整合成單一平台的新系統，**入境前 3 天內線上預填，平均只需約 2.5 分鐘**，比過去分別填多張表格快很多。系統有中文（簡體）介面，這篇記錄的是 2025 年 7 月在雅加達機場的試行階段；系統已於 **2025 年 8 月 18 日起全國全面啟用**，Bali 的伍拉·賴機場現在也適用，最新流程請見[2026版 All Indonesia 入境卡完整攻略](/blog/bali-all-indonesia-arrival-guide/)。
 
-Pemerintah Indonesia resmi uji coba sistem 'All Indonesia' di Bandara Internasional Soekarno-Hatta Jakarta pada 24 Juli 2025. Sistem ini adalah platform digital terintegrasi yang bikin traveler bisa isi deklarasi bea cukai dan kesehatan sebelum masuk.
+## **All Indonesia 是什麼？一站式入境系統新概念**
+
+印尼政府於 2025 年 7 月 24 日正式在雅加達 Soekarno-Hatta 國際機場試行「All Indonesia」系統。該系統是一個整合性數位報關平台，讓入境旅客能夠事先完成海關申報、健康申報等程序。
 
 ![系統有印尼文/英文/中文（簡體）](https://images.gobaligo.id/vocus/vocus_8cabc11e49da2d9a08d43081608493cc.png)
 
-Sistem tersedia dalam bahasa Indonesia, Inggris, dan Mandarin (Sederhana).
+系統有印尼文/英文/中文（簡體）
 
-Dulu, proses-proses ini harus diisi di formulir terpisah, bikin traveler sering ribet dan buang waktu. Nah, All Indonesia menggabungkan semuanya dalam satu platform, bisa diisi tiga hari sebelum masuk, dan rata-rata cuma butuh waktu 2,5 menit buat ngisi.
-
----
-
-## **Proses Lebih Simpel, Efisiensi Meningkat, Dorong Wisata dan Investasi**
-
-Menurut Menteri Koordinator Bidang Infrastruktur dan Pembangunan Kewilayahan, Agus Harimurti Yudhoyono (AHY), sistem ini nggak cuma bikin masuk lebih gampang, tapi juga bisa tarik lebih banyak turis asing dan investor.
-
-> 'Kami ingin kasih pengalaman masuk yang efisien dan berstandar internasional, tapi tetap jaga keamanan Indonesia,' tegasnya di konferensi pers.
-
-Selain itu, pemerintah juga ajak publik buat ikut fase uji coba, kasih masukan biar sistem makin oke, dan rencananya bakal adain sosialisasi sebelum diterapkan di seluruh Indonesia.
+以往這些流程需分別填寫不同表格，旅客經常面臨重複作業與耗時問題。而 All Indonesia 將這些流程合併於一個平台中，並可於入境前三日上線預填，平均填寫時間僅需約 2.5 分鐘。
 
 ---
 
-## **Keamanan Informasi dan Penanganan Trafik Tinggi Jadi Prioritas Utama**
+## **簡化流程、提升效率，帶動觀光與投資**
 
-Soal keamanan, Menteri Imigrasi dan Pemasyarakatan Agus Andrianto bilang kalau All Indonesia udah lolos penetration test dari ITSA BSSN dan lembaga eksternal, plus uji beban juga.
+根據基礎設施與區域發展協調部長 Agus Harimurti Yudhoyono（簡稱 AHY）表示，這套系統不僅讓入境更簡便，也可吸引更多國際觀光客與外資來訪。
 
-Sistemnya pakai teknologi Sclron buat cegah data ganda, dan udah siapin sistem cadangan plus perluas kapasitas data center di Indonesia buat antisipasi lonjakan pemakaian wisatawan nantinya.
+> 「我們希望提供一個高效率且具備國際標準的入境體驗，同時維持印尼國家的安全性。」他在記者會中強調。
+
+Selain itu, pemerintah juga mendorong masyarakat untuk ikut serta dalam tahap uji coba, dengan memberikan masukan untuk terus mengoptimalkan sistem, serta berencana mengadakan serangkaian edukasi dan sosialisasi sebelum diterapkan secara nasional.
 
 ---
 
-## **Uji Coba Saat Ini dan Rencana Penggunaan ke Depan**
+## **Keamanan Informasi dan Penanganan Lalu Lintas Tinggi Jadi Inti Sistem**
 
-Saat ini sistem baru dibuka buat **WNI yang naik penerbangan internasional**, dengan Garuda Indonesia sebagai maskapai uji coba.
+Dalam hal keamanan, Menteri Imigrasi dan Pemasyarakatan Agus Andrianto menyatakan bahwa All Indonesia telah menjalani uji penetrasi dan uji tekanan dari ITSA BSSN serta lembaga eksternal.
 
-Setelah pemberitahuan dari pemerintah Indonesia, mulai **18 Agustus** pintu masuk internasional di **Jakarta** dan **Bali** bakal pakai platform deklarasi baru [All Indonesia] buat wisatawan asing.
+Sistem menggunakan teknologi Sclron untuk mencegah duplikasi data, sekaligus menyiapkan sistem cadangan dan memperluas kapasitas pusat data di Indonesia guna mengantisipasi kebutuhan pengguna yang besar di masa depan.
 
-Semua penumpang diwajibkan isi deklarasi online sebelum terbang, dan simpan/screenshot QR CODE yang udah diisi di HP biar proses masuk makin lancar. Makasih kerja samanya:
+---
+
+## **Sasaran Uji Coba Saat Ini dan Cakupan Penerapan ke Depan**
+
+Saat ini sistem hanya terbuka untuk **Warga Negara Indonesia (WNI)** yang terbang dengan rute internasional, dengan Garuda Indonesia sebagai maskapai percontohan.
+
+Setelah pemberitahuan dari kementerian Indonesia, Indonesia akan membuka **mulai 18 Agustus** bagi wisatawan internasional yang masuk melalui **Jakarta** dan **Bali** untuk menggunakan platform deklarasi masuk baru [All Indonesia]
+
+Harap semua penumpang menyelesaikan deklarasi online sebelum penerbangan, dan simpan/screenshot QR CODE yang sudah selesai di ponsel agar proses masuk lebih lancar. Terima kasih atas kerja samanya:
 
 👉 <https://allindonesia.imigrasi.go.id/>
 
-Ke depannya, masuk Indonesia bakal lebih simpel — cukup satu tempat buat semua pengajuan dan deklarasi. Setelah [All Indonesia] jalan, nggak perlu lagi buka situs ECD/SSHP terpisah. Buat masuk Bali, yang tadinya [empat langkah](/blog/2025-01-11-67821654fd89780001f932b5/) jadi tiga langkah aja.
+Ke depannya, masuk ke Indonesia akan disederhanakan menjadi satu tempat untuk mengurus semua permohonan dan deklarasi; setelah [All Indonesia] diterapkan, tidak perlu lagi mengakses situs ECD/SSHP secara terpisah. Untuk masuk ke Bali, [prosedur yang sebelumnya empat langkah](/blog/2025-01-11-67821654fd89780001f932b5/) akan disederhanakan menjadi tiga langkah.
 
 ---
 
-## **5 Pertanyaan Umum (FAQ)**
+### **5 Pertanyaan Umum (FAQ)**
 
-### **Apakah All Indonesia itu wajib?**
+## **Apakah All Indonesia wajib?**
 
-Saat ini masih dalam masa uji coba dan hanya berlaku untuk **warga negara Indonesia di penerbangan tertentu**. Nanti kalau sudah resmi, kemungkinan besar akan berlaku untuk semua penerbangan internasional.
+Saat ini, selama masa uji coba, hanya tersedia untuk **warga negara Indonesia dengan penerbangan tertentu**. Nantinya setelah resmi diluncurkan, diperkirakan akan berlaku untuk semua penerbangan internasional.
 
-### **Apakah harus lapor sebelum masuk Indonesia?**
+## **Apakah harus mengisi deklarasi sebelum masuk?**
 
-Iya, kamu bisa lapor secara online maksimal tiga hari sebelum tiba di Indonesia, biar proses masuknya lebih cepat.
+Iya, kamu bisa mengisi deklarasi online maksimal tiga hari sebelum tiba di Indonesia, biar proses masuknya lebih cepat.
 
-### **Apakah sistemnya bisa diakses lewat HP?**
+## **Apakah sistem ini bisa diakses lewat HP?**
 
-Bisa banget. Kamu tinggal buka situs resmi lewat browser HP, terus isi data laporannya di sana.
+Bisa banget, kamu tinggal buka browser di HP dan isi data deklarasi di situs resminya.
 
-### **Gimana kalau ada error di sistem?**
+## **Gimana kalau ada error di sistem?**
 
-Sistemnya udah punya cadangan, plus ada layanan bantuan yang siap nanganin masalah teknis kamu. Kalau ada pertanyaan soal cara isi laporan, cek aja [FAQ di sini](/blog/bali-evisa-customs-health-declaration/).
+Sistem punya mekanisme cadangan dan juga ada dukungan pelanggan yang siap bantu kalau ada masalah teknis. Kalau ada pertanyaan soal pengisian deklarasi, cek aja [FAQ di sini](/blog/bali-evisa-customs-health-declaration/)
 
-### **Apa sudah termasuk pajak turis?**
+## **Apakah pajak turis sudah termasuk?**
 
-Belum. Soalnya pajak turis cuma berlaku di Bali, bukan untuk seluruh Indonesia.
+Enggak. Soalnya pajak turis itu cuma berlaku di Bali, bukan untuk seluruh Indonesia.
 
 ---

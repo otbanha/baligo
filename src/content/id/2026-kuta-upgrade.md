@@ -1,17 +1,16 @@
 ---
 title: >-
-  【2026 Bali Arteri Transportasi】Selamat Tinggal Macet! Zona Kuta Naik Kelas:
-  Trotoar Dilebarkan, Parkir Tepi Jalan Dihapus Total, Diciptakan Surga Pejalan
-  Kaki
+  【2026 Bali Jalur Utama】Bye-bye Macet! Kuta Wajah Baru: Trotoar Dilebarkan,
+  Parkir Tepi Jalan Dihapus Total, Jadi Surga Pejalan Kaki
 slug: 2026-kuta-upgrade
 description: >-
-  Kuta bakal cantik! Tahun 2026, pemerintah Bali meluncurkan proyek revitalisasi
-  kawasan Kuta. Lewat pelebaran trotoar dan larangan ketat parkir di tepi jalan,
-  mereka berusaha mengurai mimpi buruk macet yang bertahun-tahun. Artikel ini
-  akan mengajak kamu melihat langsung aturan lalu lintas terbaru di sekitar Kuta
-  Beach, fasilitas parkir pendukung, dan bagaimana perubahan ini bakal
-  meningkatkan kualitas liburanmu. Siap balik lagi ke Kuta? Baca dulu perubahan
-  terbarunya!
+  Kuta bakal cantik banget! Tahun 2026, pemerintah Bali mulai proyek
+  revitalisasi kawasan Kuta. Lewat pelebaran trotoar dan penghapusan total
+  parkir di pinggir jalan, mereka berusaha mengurai mimpi buruk macet yang
+  bertahun-tahun. Artikel ini bakal kasih kamu info langsung soal aturan lalu
+  lintas baru di sekitar Kuta Beach, fasilitas parkir pendukung, dan gimana
+  perubahan ini bakal bikin liburanmu makin oke. Siap balik lagi ke Kuta? Cek
+  dulu update terbaru ini!
 pubDate: 2026-05-13T00:00:00.000Z
 pubHour: 13
 category:
@@ -34,50 +33,53 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: b04f5e429e7264ee98057849f3e0d63b
+_srcHash: b104bc6d41b93f052ce1e38856af88e4
 ---
+Update: 2026/07/03
 
-Kawasan wisata paling terkenal di Bali, Kuta, sebentar lagi bakal berubah total! Demi meningkatkan pengalaman jalan kaki para wisatawan dan mengatasi masalah kemacetan yang sudah berlarut-larut, pemerintah Badung mengumumkan proyek peningkatan infrastruktur besar-besaran.
+**Intinya**: Tahun 2026, pemerintah Badung mulai revitalisasi kawasan Kuta — **trotoar dilebarkan jadi 4 meter, kabel listrik ditanam di bawah tanah, parkir tepi jalan dihapus total di jalan utama** (diganti dengan area parkir terpusat), transportasi umum listrik diperkenalkan, dan garis pantai ditambah promenade selebar 8 meter. Dampak buat wisatawan: Kuta bakal lebih ramah pejalan kaki, tapi **yang bawa mobil/sewa motor nggak bisa lagi parkir sembarangan di pinggir jalan**, harus parkir di zona parkir terpusat.
 
-Kalau kamu punya rencana liburan ke Bali dalam waktu dekat, atau ingatanmu tentang jalanan Kuta masih sebatas 'trotoar sempit' dan 'parkir sembarangan yang berantakan', kabar ini wajib banget kamu simak.
+Kawasan wisata paling terkenal di Bali, Kuta, bakal berubah total! Demi meningkatkan pengalaman jalan kaki wisatawan dan mengurai kemacetan yang sudah bertahun-tahun, pemerintah Badung mengumumkan proyek upgrade infrastruktur besar-besaran.
 
-## Sorotan Proyek: Ciptakan Ruang Ramah Pejalan Kaki
+Kalau kamu lagi rencana liburan ke Bali, atau ingatanmu tentang jalanan Kuta masih sebatas 'trotoar sempit' dan 'parkir sembarangan yang berantakan', kabar ini wajib banget kamu simak.
 
-Berdasarkan cetak biru pengembangan terbaru, proyek revitalisasi Kuta akan fokus pada beberapa aspek inti berikut:
+## Sorotan Proyek: Bikin Ruang Ramah Pejalan Kaki
 
-### 1. Trotoar Dilebarkan hingga 4 Meter
+Berdasarkan cetak biru terbaru, rencana revitalisasi Kuta bakal fokus pada beberapa aspek inti berikut:
 
-Trotoar di Kuta saat ini seringkali sempit dan dipenuhi barang-barang. Rencana baru ini menargetkan pelebaran trotoar hingga sekitar **4 meter** pada tahap pertama, lengkap dengan penambahan jalur hijau di sepanjang jalan. Jadi, wisatawan bisa jalan-jalan santai di lingkungan yang asri dan hijau.
+### 1. Trotoar Dilebarkan Jadi 4 Meter
 
-### 2. Kabel Bawah Tanah
+Trotoar Kuta yang sekarang sering sempit dan penuh barang. Proyek baru ini di tahap pertama bakal melebarkan trotoar sampai **4 meter**, plus ditambah jalur hijau di sepanjang jalan, biar wisatawan bisa jalan santai di lingkungan yang asri.
 
-Demi mempercantik wajah kota dan meningkatkan keamanan, kabel listrik dan telekomunikasi yang selama ini menjuntai di udara akan dipindahkan ke bawah tanah. Ini bikin langit Kuta jadi lebih bersih, dan foto-foto kamu nggak bakal terganggu kabel lagi!
+### 2. Kabel Listrik Ditanam di Bawah Tanah
 
-### 3. Hapus Parkir Pinggir Jalan, Ganti dengan Zona Parkir Terpusat
+Demi mempercantik wajah kota dan meningkatkan keamanan, kabel listrik dan telekomunikasi yang sebelumnya berantakan di udara akan dipindahkan ke bawah tanah. Ini bikin langit Kuta jadi lebih bersih, pas foto-foto nggak bakal terganggu kabel lagi!
 
-Selama ini, mobil dan motor parkir sembarangan di pinggir jalan jadi penyebab utama kemacetan. Pemerintah berencana membangun **tempat parkir terpusat**, lalu melarang parkir di pinggir jalan utama. Jalanan bakal dikembalikan ke masyarakat sepenuhnya.
+### 3. Hapus Parkir Tepi Jalan, Ganti dengan Zona Parkir Terpusat
+
+Selama ini, mobil dan motor parkir sembarangan di pinggir jalan jadi penyebab utama kemacetan. Pemerintah berencana membangun **tempat parkir terpusat**, lalu melarang parkir di tepi jalan utama. Jalanan bakal kembali ke masyarakat sepenuhnya.
 
 ### 4. Hadirkan Transportasi Umum Listrik
 
-Biar kebutuhan transportasi tetap terpenuhi setelah parkir pinggir jalan dihapus, Kuta bakal punya **angkutan umum listrik**. Mungkin bakal ada jalur khusus atau marka jalan warna-warni yang mencolok, biar lalu lintas lancar dan ramah lingkungan.
+Untuk mengimbangi kebutuhan transportasi setelah parkir tepi jalan dihapus, Kuta akan menghadirkan **kendaraan umum bertenaga listrik**. Bahkan mungkin ada jalur khusus atau marka jalan warna-warni yang mencolok, biar lalu lintas lancar dan ramah lingkungan.
 
 ***
 
-## Upgrade Kawasan Pesisir: Jalur Pemandangan Lebar 8 Meter
+## Upgrade Area Pesisir: Jalur Pemandangan Sepanjang 8 Meter
 
-Selain perbaikan jalan, garis pantai Kuta juga lagi diperkuat buat cegah abrasi. Setelah selesai, pemerintah berencana bikin **jalan setapak tepi pantai selebar 8 meter** di sepanjang pesisir. Jalur ini bakal dibagi jadi:
+Selain perbaikan jalan, garis pantai Kuta juga sedang diperkuat untuk mencegah abrasi. Setelah selesai, pemerintah berencana membangun **jalan setapak tepi pantai selebar 8 meter** di sepanjang pesisir. Jalur ini akan dibagi menjadi:
 
 - **Zona pejalan kaki & jogging**
 - **Jalur khusus sepeda**
 
-Artinya, nanti bersepeda atau jogging di pinggir Pantai Kuta bakal jadi pengalaman yang asyik banget.
+Artinya, nanti bersepeda atau jogging di pinggir Pantai Kuta bakal jadi pengalaman yang menyenangkan banget.
 
 ***
 
 ## Kapan Mulai?
 
-Proyek renovasi ambisius ini diperkirakan mulai **tahun 2026**. Meskipun selama pembangunan mungkin ada sedikit ketidaknyamanan, dalam jangka panjang Kuta bakal berubah dari titik macet yang padat jadi kawasan wisata internasional yang modern, ramah lingkungan, dan super ramah pejalan kaki.
+Proyek renovasi ambisius ini diperkirakan akan mulai dibangun pada **2026**. Meskipun selama masa konstruksi mungkin ada sedikit ketidaknyamanan, dalam jangka panjang, ini akan mengubah Kuta dari titik macet yang padat menjadi kawasan wisata internasional yang modern, ramah lingkungan, dan super ramah pejalan kaki.
 
-Yuk kita sama-sama nantikan Kuta, **Bali** yang lebih cantik dan lebih bersih!
+Yuk kita sama-sama nantikan **Bali** Kuta yang lebih cantik dan lebih rapi!
 
 {{block:kuta}}

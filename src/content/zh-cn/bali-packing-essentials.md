@@ -17,20 +17,20 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_75c3fa6975e4107f2613b15ec6310d6e.jpg'
 originalUrl: 'https://vocus.cc/article/68d13539fd89780001b06dfc'
 lang: zh-cn
-_srcHash: 70c55e2aa9622646b6a068bab2eecef5
+_srcHash: 541ba9c55a69f9cf8a43a887782aaf8c
 ---
 
 前往巴厘岛度假，除了行程安排与住宿选择，行李里的衣物更是影响旅程舒适度的关键。热带气候全年高温潮湿，白天阳光强烈，夜晚则可能稍凉。为了让你的旅行更自在，以下我们整理了**8种必带衣物**，让你无论走在沙滩、寺庙还是市集，都能舒适又有型。
 
 ### **1. 轻薄透气的棉质或亚麻服饰**
 
-![1. 轻薄透气的棉质或亚麻服饰](https://images.gobaligo.id/vocus/vocus_a6b46fd51ba6d985a07cb61791313f0a.jpg)
+![1. 輕薄透氣的棉質或亞麻服飾](https://images.gobaligo.id/vocus/vocus_a6b46fd51ba6d985a07cb61791313f0a.jpg)
 
 巴厘岛天气闷热，棉质或亚麻衣物能快速吸汗并保持凉爽。选择宽松设计，让身体更自在。
 
 ### **2. 泳装与罩衫**
 
-![2. 泳装与罩衫](https://images.gobaligo.id/vocus/vocus_9f8cb19086d47180f21ac0f6848ebd3e.jpg)
+![2. 泳裝與罩衫](https://images.gobaligo.id/vocus/vocus_9f8cb19086d47180f21ac0f6848ebd3e.jpg)
 
 无论你要去海滩、泳池或水上活动，泳装绝对是必需品。搭配罩衫，能让你随时在公共场合保持得体。
 
@@ -40,29 +40,29 @@ _srcHash: 70c55e2aa9622646b6a068bab2eecef5
 
 ### **4. 轻便外套或薄长袖**
 
-夜晚或空调房可能需要轻便外套。同时，参拜寺庙时穿着也会显得更庄重。
+夜晚或冷气房可能需要轻便外套。同时，参拜寺庙时穿着也会显得更庄重。
 
 ### **5. 遮阳帽与墨镜**
 
-![5. 遮阳帽与墨镜](https://images.gobaligo.id/vocus/vocus_e75dcedd23563598fbcc7650921fd693.jpg)
+![5. 遮陽帽與墨鏡](https://images.gobaligo.id/vocus/vocus_e75dcedd23563598fbcc7650921fd693.jpg)
 
 巴厘岛阳光猛烈，遮阳帽与墨镜能有效保护皮肤与眼睛，还能增添造型感。
 
 ### **6. 围巾或纱巾**
 
-![6. 围巾或纱巾](https://images.gobaligo.id/vocus/vocus_9f738266f27e5ef1f771b5f6ce8ab836.jpg)
+![6. 圍巾或紗巾](https://images.gobaligo.id/vocus/vocus_9f738266f27e5ef1f771b5f6ce8ab836.jpg)
 
 纱巾用途多，既可当防晒披肩，也能当沙滩垫，或在寺庙中充当遮盖物，实用度极高。
 
 ### **7. 舒适的运动或瑜伽服**
 
-![7. 舒适的运动或瑜伽服](https://images.gobaligo.id/vocus/vocus_6237cbb3b9b8e7fbbff80595b763db1c.jpg)
+![7. 舒適的運動或瑜伽服](https://images.gobaligo.id/vocus/vocus_6237cbb3b9b8e7fbbff80595b763db1c.jpg)
 
 巴厘岛盛行瑜伽与静心体验，一套轻便运动服既能上课，也能在晨间散步时穿着。
 
 ### **8. 长裙**
 
-![8. 长裙](https://images.gobaligo.id/vocus/vocus_09ba60a375fe418b2affec49a430d379.jpg)
+![8. 長裙](https://images.gobaligo.id/vocus/vocus_09ba60a375fe418b2affec49a430d379.jpg)
 
 长裙不仅清凉透气，带有飘逸美感；还能在市集、餐厅或参拜寺庙时保持优雅与庄重。它同时结合了时尚与实用性，是女性旅客不可或缺的单品。
 
@@ -74,33 +74,33 @@ _srcHash: 70c55e2aa9622646b6a068bab2eecef5
 
 ***
 
-## **FAQ**
+### **FAQ**
 
-### **1. 巴厘岛全年都需要夏季衣物吗？**
+## **1. 巴厘岛全年都需要夏季衣物吗？**
 
 是的，巴厘岛属热带气候，全年气温偏高，但建议携带一件薄外套以应对夜晚或冷气房。
 
-### **2. 巴厘岛寺庙参拜要穿什么？**
+## **2. 巴厘岛寺庙参拜要穿什么？**
 
 需要保守穿着，长裙、长裤或纱巾遮肩膀是必要的，这样才符合当地文化。
 
-### **3. 可以只带拖鞋去巴厘岛吗？**
+## **3. 可以只带拖鞋去巴厘岛吗？**
 
 拖鞋适合沙滩，但建议带一双舒适凉鞋或运动鞋，以应付长时间步行或户外活动。
 
-### **4. 巴厘岛是否需要防水衣物？**
+## **4. 巴厘岛是否需要防水衣物？**
 
 在雨季（11月至3月）旅行，建议携带轻便雨衣或防水外套。
 
-### **5. 泳装需要几件比较合适？**
+## **5. 泳装需要几件比较合适？**
 
 热带海岛玩水的机会很多，建议至少两套泳装，方便更换与清洗。
 
-![5. 泳装需要几件比较合适？](https://images.gobaligo.id/vocus/vocus_208a55db1381471b5ef0c2d0ce4155f9.png)
+![5. 泳裝需要幾件比較合適？](https://images.gobaligo.id/vocus/vocus_208a55db1381471b5ef0c2d0ce4155f9.png)
 
-### 6.什么时候需要御寒外套？
+## 6.什么时候需要御寒外套？
 
-![6.什么时候需要御寒外套？](https://images.gobaligo.id/vocus/vocus_6ca6860ca39548567bb5b9b78723ab08.png)
+![6.什麼時候需要禦寒外套？](https://images.gobaligo.id/vocus/vocus_6ca6860ca39548567bb5b9b78723ab08.png)
 
 如果你的旅游目的地是巴厘岛的平地或乌布山区，你不需要带御寒外套。只有凌晨参加火山徒步/火山吉普车的旅人，高山气温凌晨只有10几度，才需要携带防风/防寒外套。
 

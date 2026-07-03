@@ -1,9 +1,10 @@
 ---
 slug: bali-drone-travel-guide
-title: Boleh bawa drone ke Indonesia/Bali nggak sih?
+title: Boleh bawa drone / kamera udara ke Indonesia / Bali?
 description: >-
-  Kamu lagi rencana liburan ke Indonesia atau Bali dan khawatir soal bawa drone?
-  Cek panduan lengkap kami soal bawa drone ke Indonesia/Bali.
+  Kamu lagi rencana liburan ke Indonesia atau Bali, tapi khawatir soal bawa
+  drone? Tenang, simak dulu panduan lengkap kami soal bawa drone ke Indonesia /
+  Bali.
 pubDate: 2023-11-13T00:00:00.000Z
 category:
   - 旅行技巧
@@ -16,20 +17,36 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2f0104efdccf74a386739089ab23c795.jpg'
 originalUrl: 'https://vocus.cc/article/65504084fd897800011c51f2'
 lang: id
-_srcHash: 4d5c96b0132332b8189939b550e25a71
+_srcHash: 854a49b9cc457178b5f1920d70eba373
 ---
-Kamu lagi rencana liburan ke Indonesia atau Bali dan khawatir soal bawa drone? Tenang, jawabannya boleh kok! Kamu bisa bawa drone ke Bali! Tapi sebelum masukin drone ke koper, ada beberapa aturan yang wajib kamu patuhi.
+Update: 03/07/2026
 
-Pertama, **baterai nggak boleh masuk bagasi**! Kamu harus taruh baterai di tas tangan, bukan di koper yang masuk bagasi. Ini biar maskapai nggak nolak karena alasan keamanan soal baterai lithium.
+Kamu lagi rencana liburan ke Indonesia atau Bali, tapi khawatir soal bawa drone? Tenang, jawabannya: **boleh banget**! Kamu bisa bawa drone ke Bali! Tapi sebelum masukin ke koper, ada beberapa aturan yang wajib kamu patuhi.
 
-Kedua, baterai harus dilepas dari drone dan disimpan di wadah pelindung anti-api, biar nggak korsleting dan menyebabkan kebakaran selama penerbangan. Wadah pelindung juga bisa mengurangi risiko baterai kena benturan.
+Pertama, **baterai nggak boleh masuk bagasi**! Kamu harus simpan baterai di tas kabin, jangan di koper yang akan di-check in. Ini biar maskapai nggak nolak karena alasan keamanan soal baterai lithium.
 
-Terakhir, badan drone yang udah dilepas baterainya bisa masuk bagasi atau dibawa di tas tangan. Kalau masuk bagasi, hati-hati biar nggak kena benturan atau tekanan yang bikin drone rusak.
+Kedua, baterai harus dilepas dari drone, lalu dimasukin ke wadah pelindung anti-api. Ini biar nggak terjadi korsleting yang bisa bikin kebakaran selama penerbangan. Wadah pelindung juga bantu kurangi risiko benturan pada baterai.
 
-Selain itu, kalau drone kamu **lebih dari 2 kg**, sesuai aturan Indonesia, kamu wajib [daftar ke Kementerian Komunikasi dan Informatika](https://hubud.dephub.go.id/hubud/website/) dan dapat izin biar bisa terbangkan drone secara legal di Indonesia.
+Terakhir, badan drone yang udah dilepas baterainya bisa kamu taruh di koper bagasi atau dibawa kabin bareng kamu. Kalau dimasukin bagasi, hati-hati biar nggak penyok atau rusak karena benturan.
+
+Selain itu, kalau drone kamu **lebih dari 2 kg**, sesuai aturan Indonesia, kamu wajib [daftar ke Kementerian Komunikasi dan Informatika](https://hubud.dephub.go.id/hubud/website/) dan dapat izin biar bisa terbang legal di Indonesia.
 
 https://youtube.com/shorts/lgQsG01vDeo
 
-Di episode selanjutnya, kita bakal bahas lebih detail soal aturan khusus terbangkan drone di Indonesia/Bali dan batasan hukum yang berlaku. Sambil nikmatin hasil jepretan drone, jangan lupa pastikan semuanya legal dan aman ya.
+Di episode selanjutnya, kita bakal bahas tuntas aturan khusus dan batasan hukum buat terbangin drone di Indonesia / Bali. Sambil nikmatin hasil jepretan drone, jangan lupa juga jaga legalitas dan keselamatan penerbangan.
+
+### Pertanyaan Umum
+
+## Apakah baterai drone boleh masuk bagasi?
+
+Nggak boleh. Baterai harus dilepas dari badan drone dan dimasukkan ke dalam wadah pelindung anti-api, lalu dibawa di kabin sebagai bagasi jinjing — jangan masukin ke koper bagasi terdaftar. Ini aturan keamanan baterai lithium dari maskapai.
+
+## Badan drone masuk bagasi terdaftar atau kabin?
+
+Setelah baterai dilepas, badan drone bisa masuk bagasi terdaftar atau kabin. Kalau kamu pilih bagasi terdaftar, pastikan bungkusnya rapi biar nggak rusak karena benturan atau tekanan.
+
+## Drone di atas berapa kg wajib registrasi di Indonesia?
+
+Drone di atas 2 kg, sesuai aturan Indonesia, wajib didaftarkan ke Kementerian Komunikasi dan Informatika (Kominfo) dan dapat izin dulu biar legal dipakai di Indonesia.
 
 {{block:戶外}}

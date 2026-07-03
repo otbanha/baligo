@@ -1,14 +1,14 @@
 ---
 slug: wanna-jungle-pool-club-ubud
 title: >-
-  Bali Wanna Jungle Travel Guide: Tiket Masuk, Minimum Spend, Transportasi &
-  Cara Susun Itinerary Ubud Sehari
+  Panduan Wisata Wanna Jungle Bali: Tiket Masuk, Minimum Spend, Transportasi &
+  Cara Susun Itinerary Sehari di Ubud
 description: >-
   Mau habisin seharian di Wanna Jungle? Panduan lengkap ini bakal ngasih info
-  lengkap soal pool club hits milik Kayon Jungle Resort. Termasuk penjelasan
-  Minimum Spend di tiap area, tips ngirit di poolside bar, dan jam masuk biar
-  nggak rame. Juga ada saran transportasi dari pusat Ubud biar liburan hutan
-  kamu makin lancar dan mewah.
+  soal pool club hits milik Kayon Jungle Resort. Termasuk penjelasan minimum
+  spend di tiap area, tips ngopi di poolside bar, dan jam masuk biar nggak rame.
+  Plus rekomendasi transportasi dari pusat Ubud biar liburan hutan kamu mulus
+  dan mewah.
 pubDate: 2025-05-01T00:00:00.000Z
 category:
   - 美食景點活動
@@ -26,40 +26,44 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_cbcb3dcfef832d05b8df6806e839d3e2.jpg'
 originalUrl: 'https://vocus.cc/article/68134e91fd89780001ab5b55'
 lang: id
-_srcHash: 0f8611ca38d7e7de846caea36b84a0c1
+_srcHash: 8e51fc5d787f9ff5e032063627b7b5f2
 ---
-Pas lagi di Ubud, jantung budaya Bali, wajib banget mampir ke pool club hits yang lagi viral di IG — Wanna Jungle Pool & Bar! Kolam renang infinity tiga tingkat dengan pemandangan keren ini udah jadi spot favorit para influencer.
+Update: 2026/07/03
 
-## **Kolam Bernuansa Sawah Terasering yang Menyatu dengan Alam**
+**Kesimpulan duluan**: Wanna Jungle Pool & Bar adalah pool club bertingkat tiga dengan infinity pool ala sawah terasering milik Kayon Jungle Resort di Ubud. **Bukan tamu hotel juga bisa main** — beli day pass lewat Klook, tiketnya udah include food credit buat bayar makanan di poolside. Mau foto kolam tanpa kerumunan? **Datang pagi**. Makan siang wajib coba bebek goreng khas Bali, Bebek Kayon (porsi besar, cocok buat berdua).
 
-![Kolam Bernuansa Sawah Terasering yang Menyatu dengan Alam](https://images.gobaligo.id/vocus/vocus_f6fc53ee9b26048fd4f3d333e111e58f.jpg)
+Pas liburan ke Ubud, jantung budaya Bali, jangan sampai skip pool club hits yang lagi viral di IG ini — Wanna Jungle Pool & Bar! Kolam renang infinity tiga tingkat dengan pemandangan ciamik ini udah jadi spot wajib para pecinta foto aesthetic.
 
-Begitu masuk Wanna Jungle, kamu bakal langsung terpesona sama desain kolamnya yang unik! Arsiteknya pinter banget menggabungkan konsep sawah terasering khas Bali ke dalam bentuk kolam. Air terjun bertingkat berpadu apik dengan hutan tropis di sekitarnya — dari sudut mana pun foto jadi kayak sampul majalah. Yang paling oke, meski bukan tamu resort, kamu tetap bisa beli day pass buat nikmatin surga ini.
+## **Kolam Konsep Sawah Terasering yang Nyatu Banget Sama Alam**
 
-▶[Tiket Seharian Wanna Jungle Pool & Bar](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1040199&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91999-wanna-jungle-pool-and-bar-ubud%2F)
+![梯田概念泳池 與自然完美融合](https://images.gobaligo.id/vocus/vocus_f6fc53ee9b26048fd4f3d333e111e58f.jpg)
 
-## **Tiket Sudah Termasuk Food Credit, Nikmatin Makanan Bintang Lima**
+Begitu masuk Wanna Jungle, kamu bakal langsung terpukau sama desain kolamnya yang unik! Arsiteknya pinter banget ngambil inspirasi dari sawah terasering khas Bali, bikin kolam bertingkat yang serasi sama hutan tropis di sekitarnya. Dijamin, dari sudut mana pun foto, hasilnya kayak sampul majalah! Yang paling keren, meski bukan tamu hotel, kamu tetap bisa beli day pass buat nikmatin surga ini.
 
-Tiket masuk di sini udah include food credit yang bisa langsung dipakai buat bayar makanan dan minuman. Kami milih makan siang di sini, dan rekomendasi utama adalah menu andalan mereka 'Bebek Kayon' — bebek goreng krispi khas Bali! Porsinya gede banget, kulit bebeknya renyah, ditemani tiga saus khas: sambal bawang merah, cabe goreng, dan saus hijau pedas dari cabai lokal (bukan guacamole ya!), rasanya sedikit pedas dan bikin nagih.
+▶[Day Pass Wanna Jungle Pool & Bar](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1040199&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91999-wanna-jungle-pool-and-bar-ubud%2F)
+
+## **Tiket Udah Include Food Credit, Bisa Cicip Makanan Bintang Lima**
+
+Tiket masuk di sini udah include food credit, jadi bisa langsung dipotong buat pesan makanan dan minuman. Kami milih lunch di sini, dan rekomendasi utama adalah menu andalan mereka, Bebek Kayon — bebek goreng khas Bali! Porsinya gede banget, kulitnya kriuk, ditemenin tiga saus khas: sambal bawang merah-cabe, cabe goreng, dan saus hijau dari cabai lokal (bukan guacamole ya!). Pedasnya pas, bikin nagih.
 
 ## **Waktu Santai di Tengah Hutan**
 
 https://youtu.be/eJ0oL0O5OY8
 
-▲Lihat catatan perjalanan Xiao Jie
+▲ Lihat catatan perjalanan Xiao Jie
 
-Rebahan di kursi tepi kolam, pesan segelas cocktail warna-warni, ditemani suara gemericik air dan kicauan burung di hutan — tanpa sadar sore sudah berganti senja. Mau foto aesthetic, kulineran, atau sekadar menikmati vibe liburan, Wanna Jungle Pool & Bar bisa kasih kamu semua yang kamu bayangkan tentang liburan di Bali!
+Rebahan di kursi tepi kolam, pesan segelas cocktail warna-warni, dengar suara gemericik air dan kicauan burung di hutan — tanpa sadar sore sudah berlalu. Mau foto aesthetic, kulineran, atau sekadar menikmati vibe liburan, Wanna Jungle Pool & Bar bisa kasih kamu semua yang kamu bayangkan tentang liburan di Bali!
 
 ## **Tips Travel**
 
-- Mending datang pagi hari pas masih sepi, biar dapet spot foto kolam yang lebih bersih
-- Porsi bebek gorengnya gede banget, berdua aja masih cukup
+- Saran datang pagi hari saat masih sepi, biar dapet foto kolam yang lebih bersih
+- Porsi bebek gorengnya gede banget, berdua pun masih cukup
 - Jangan lupa bawa pouch anti-air biar bisa puas foto-foto di kolam
-- Sore hari lampu kolam mulai nyala, suasananya jadi makin romantis
+- Sore hari lampu kolam mulai menyala, suasananya makin romantis
 
-Pas ke Ubud nanti, jangan lupa masukin hidden gem kolam renang terasering di tengah hutan ini ke itinerary kamu, biar liburan Bali-mu makin berkesan!
+Pas ke Ubud nanti, jangan lupa masukin kolam terasering tersembunyi di hutan ini ke itinerary kamu biar liburan Bali makin berkesan!
 
-▶[Wanna Jungle Pool & Bar Day Pass](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1040199&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91999-wanna-jungle-pool-and-bar-ubud%2F)
+▶[Tiket Harian Wanna Jungle Pool & Bar](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1040199&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91999-wanna-jungle-pool-and-bar-ubud%2F)
 
 {{block:ubud}}
 

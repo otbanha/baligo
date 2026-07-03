@@ -23,14 +23,17 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e0fee6b09834203d2ea933ea0d4c7de1.jpg'
 originalUrl: 'https://vocus.cc/article/68bacc2ffd897800011175a7'
 lang: zh-cn
-_srcHash: be8b4bc58149dea15a7fa7d999c5db4a
+_srcHash: 5232f351cdd9486c9186a624a507e6e8
 ---
+Update: 2026/07/03
+
+**先讲结论**：乌布最适合亲子的一日会馆是 **Titi Batu Ubud Club**——大人可以健身、按摩、泡三温暖，小孩则有半奥运泳池、儿童游戏室与滑板场可以玩，一个场地同时满足全家不同需求，解决一般海滩/丛林俱乐部没有儿童友善设施的痛点。
 
 在巴厘岛，大部分的海滩俱乐部或丛林俱乐部虽然气氛热闹，但往往缺乏 **儿童友善的设施**，因此对于有小朋友的家庭来说并不那么方便。
 
 而位于乌布的 **Titi Batu Ubud Club**，却打破这个局限。这里结合了 **健身运动、亲子娱乐与放松休闲** 的多功能生活会馆，不仅能满足成人的运动与养生需求，同时也提供安全、宽敞且充满乐趣的空间给孩子。由于氛围融合自然气息与舒适设计，它更成为外籍家庭与当地居民的日常去处，是全家共享的乌布秘境天堂。
 
-![【乌布亲子推荐】Titi Batu Ubud Club 攻略：大人健身按摩、小孩戏水放松的一日会馆体验](https://images.gobaligo.id/vocus/vocus_cdccff4eb7d8371bef1024a0f77858f8.jpg)
+![【烏布親子推薦】Titi Batu Ubud Club 攻略：大人健身按摩、小孩戲水放鬆的一日會館體驗](https://images.gobaligo.id/vocus/vocus_cdccff4eb7d8371bef1024a0f77858f8.jpg)
 
 ***
 
@@ -38,23 +41,23 @@ _srcHash: be8b4bc58149dea15a7fa7d999c5db4a
 
 ### **健身与运动场地**
 
-![健身与运动场地](https://images.gobaligo.id/vocus/vocus_eba6623de0c87553608421feec160e15.jpg)
+![健身與運動場地](https://images.gobaligo.id/vocus/vocus_eba6623de0c87553608421feec160e15.jpg)
 
 - 世界级健身房
-- 篮球场、壁球场、桌球区
+- 篮球场、壁球场、乒乓球区
 - 专属滑板公园
 
 ### **水上设施与放松空间**
 
-![水上设施与放松空间](https://images.gobaligo.id/vocus/vocus_bf4fce54cadd2343e4e9ffe0a5b9ff0e.jpg)
+![水上設施與放鬆空間](https://images.gobaligo.id/vocus/vocus_bf4fce54cadd2343e4e9ffe0a5b9ff0e.jpg)
 
 - 大型游泳池
 - 热水池与冷水池
-- 桑拿、蒸气室与 SPA
+- 三温暖、蒸汽室与 SPA
 
 ### **亲子娱乐**
 
-![亲子娱乐](https://images.gobaligo.id/vocus/vocus_f9cea5400791f2842a2fbb039dadaae5.jpg)
+![親子娛樂](https://images.gobaligo.id/vocus/vocus_f9cea5400791f2842a2fbb039dadaae5.jpg)
 
 - 儿童游戏室
 - 适合亲子同乐的戏水池
@@ -62,9 +65,9 @@ _srcHash: be8b4bc58149dea15a7fa7d999c5db4a
 
 ### **休闲与社交**
 
-![休闲与社交](https://images.gobaligo.id/vocus/vocus_0d1f2f84406f7134621e2b2daa573e3c.jpg)
+![休閒與社交](https://images.gobaligo.id/vocus/vocus_0d1f2f84406f7134621e2b2daa573e3c.jpg)
 
-![休闲与社交](https://images.gobaligo.id/vocus/vocus_954074e0c8b366b35dd5757797a2c453.jpg)
+![休閒與社交](https://images.gobaligo.id/vocus/vocus_954074e0c8b366b35dd5757797a2c453.jpg)
 
 - 餐厅与咖啡区
 - 舞蹈教室、瑜伽教室
@@ -82,7 +85,7 @@ Titi Batu Ubud Club 建立在一片神圣土地上，邻近历史悠久的 **巴
 
 详细的位置请参考「乌布攻略地图」之「亲子友善游乐场、餐厅」，请按[这里](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
-![独特的地理与文化背景](https://images.gobaligo.id/vocus/vocus_ac630e4994ccfac0738986cc0f642c61.png)
+![獨特的地理與文化背景](https://images.gobaligo.id/vocus/vocus_ac630e4994ccfac0738986cc0f642c61.png)
 
 ***
 
@@ -91,8 +94,8 @@ Titi Batu Ubud Club 建立在一片神圣土地上，邻近历史悠久的 **巴
 购买 **Day Pass**，即可畅游所有设施，包括：
 
 - 健身房与运动场地
-- 游泳池与三温暖
-- 热冷水池、蒸气室
+- 游泳池与桑拿
+- 冷热水池、蒸汽室
 - 亲子游戏空间与滑板公园
 
 无论是一个人前来锻炼，还是与家人共度欢乐时光，这里都能满足需求。
@@ -109,7 +112,7 @@ Titi Batu Ubud Club 建立在一片神圣土地上，邻近历史悠久的 **巴
 
 **需要会员资格才能入场吗？**
 
-不需要。购买 **Day Pass** 就能享受全区域设施，非常方便旅客。
+不需要。购买 **Day Pass** 就能享受全区设施，非常方便旅客。
 
 **俱乐部内有餐饮选择吗？**
 

@@ -1,12 +1,12 @@
 ---
 slug: indonesia-evisa-process
 title: >-
-  Serahkan ke ahlinya! eVisa on Arrival Indonesia bakal dikelola pihak ketiga,
-  proses jadi jauh lebih gampang
+  Serahin ke ahlinya! e-Visa on Arrival Indonesia bakal dikelola perusahaan
+  outsourcing, prosesnya jadi lebih gampang
 description: >-
-  Visa on Arrival Indonesia akan diurus perusahaan outsourcing, dengan dukungan
-  multi-bahasa kayak Inggris, Mandarin, Jepang, Korea, plus email khusus dan
-  live chat, bikin kamu lebih mudah urus visa
+  Visa on Arrival Indonesia bakal dikelola perusahaan outsourcing, dengan
+  dukungan multibahasa kayak Inggris, Mandarin, Jepang, Korea, plus email khusus
+  dan live chat, bikin urusan visa makin lancar
 pubDate: '2024-11-13'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_85f3d0b3b8c40264e108c5ae46c22309.png'
 tags:
@@ -19,20 +19,23 @@ originalUrl: 'https://vocus.cc/article/6734bbadfd89780001cc7bd1'
 category:
   - 旅行技巧
 lang: id
-_srcHash: 79bfa123ab3afb11201ade9829f5116c
+_srcHash: 576d15e7ecd9951adb4b281f5982566a
 ---
+Update: 2026/07/03
+
+**Intinya**：e-Visa on Arrival (eVoA) Indonesia sekarang dikelola oleh **VFS Global**, dengan layanan pelanggan multibahasa (Mandarin/Inggris/Jepang/Korea) dan email khusus, prosesnya lebih mulus. **Taiwan nggak masuk daftar 13 negara bebas visa** (kebanyakan negara ASEAN kayak Singapura, Malaysia, Thailand, dll), jadi traveler Taiwan tetap harus urus eVoA atau visa on arrival kayak biasa.
 
 ## **Apa itu eVoA?**
 
-eVoA (Electronic Visa on Arrival) adalah layanan visa praktis dari pemerintah Indonesia, bikin turis asing bisa apply visa elektronik sebelum tiba di Indonesia. Ini langkah buat dorong pariwisata dan tarik investor asing, proses visa jadi lebih simpel, pengalaman masuk Indonesia makin mulus.
+eVoA (Electronic Visa on Arrival) adalah layanan visa praktis dari pemerintah Indonesia yang bikin turis asing bisa apply visa online sebelum sampai di Bali. Ini bagian dari upaya buat dorong pariwisata dan tarik investor asing, bikin proses visa lebih simpel dan pengalaman masuk ke Indonesia makin mulus.
 
-![Apa itu eVoA?](https://images.gobaligo.id/vocus/vocus_ea63f982a4a65c2e26a1a5fcf1a94435.png)
+![什麼是eVoA？](https://images.gobaligo.id/vocus/vocus_ea63f982a4a65c2e26a1a5fcf1a94435.png)
 
-## **Negara yang Bebas Visa ke Indonesia**
+## **Negara yang bebas visa masuk Indonesia**
 
-Sekarang eVoA udah buka buat 97 negara, termasuk Australia, Inggris, Amerika, Selandia Baru, Korea, Jepang, China, Taiwan, dan India. Kamu bisa apply online dan selesaikan semua prosedur lewat sistem.
+Sekarang layanan eVoA udah buka buat 97 negara, termasuk Australia, Inggris, Amerika, Selandia Baru, Korea, Jepang, China, Taiwan, dan India. Traveler bisa apply lewat sistem online dan selesaiin semua prosedur dari rumah.
 
-Negara yang bebas visa masuk biasanya dari ASEAN. Per 29 Agustus 2024, 13 negara bebas visa yang diumumkan:
+Sementara negara yang bebas visa masuk Indonesia, mayoritas dari ASEAN. Per 29 Agustus 2024, 13 negara bebas visa yang diumumkan:
 
 - Brunei
 - Filipina
@@ -48,34 +51,34 @@ Negara yang bebas visa masuk biasanya dari ASEAN. Per 29 Agustus 2024, 13 negara
 - Kolombia
 - Hong Kong
 
-Katanya akhir Januari 2025 bakal diumumin lagi negara-negara berikutnya yang dapat bebas visa.
+Diperkirakan akhir Januari 2025 bakal diumumin lagi daftar negara bebas visa berikutnya.
 
-## **Masalah Sistem Indonesia Sebelumnya**
+## **Sistem Lama Indonesia yang Bikin Pusing**
 
-Dulu proses layanan visa itu ribet banget dan digitalisasinya kurang maksimal, bikin banyak traveler repot pas masuk. Mulai 2023, Kepala Imigrasi Indonesia Silmy Karim mendorong upgrade digital total, berharap jadi contoh layanan imigrasi, dan kerja sama dengan VFS Global buat ngeluarin layanan eVoA.
+Dulu, proses layanan visa itu ribet banget dan digitalisasinya kurang maksimal, bikin banyak traveler repot pas masuk. Mulai 2023, Kepala Imigrasi Indonesia Silmy Karim mendorong transformasi digital total, berharap jadi role model layanan imigrasi, dan kerja sama dengan VFS Global buat ngeluarin layanan eVoA.
 
 ## **Serahin ke Ahlinya! VFS Global Bantu Pariwisata Indonesia**
 
-Biar layanan visa makin oke, pemerintah Indonesia tunjuk VFS Global sebagai satu-satunya mitra eVoA, ngasih proses aplikasi yang lebih aman dan ramah. VFS Global sekarang jadi penyedia layanan aplikasi visa utama di 67 negara, punya 3.400+ pusat visa di 153 negara. Kantor pusatnya di Zurich dan Dubai, mayoritas sahamnya dipegang dana investasi yang dikelola perusahaan ekuitas swasta AS Blackstone Inc., plus dukungan dari Yayasan Kuoni and Hugentobler Swiss dan dana EQT.
+Biar kualitas layanan visa makin oke, pemerintah Indonesia tunjuk VFS Global sebagai satu-satunya mitra eVoA, ngasih proses aplikasi yang lebih aman dan ramah. VFS Global sekarang jadi penyedia layanan aplikasi visa utama di 67 negara, punya lebih dari 3.400 pusat visa di 153 negara. Kantor pusatnya di Zurich dan Dubai, mayoritas sahamnya dipegang oleh dana investasi yang dikelola perusahaan ekuitas swasta AS Blackstone Inc., plus didukung oleh Yayasan Kuoni and Hugentobler Swiss dan dana EQT.
 
-Nanti traveler tinggal isi formulir simpel, upload data paspor, dan bayar biaya visa (sekarang IDR 500.000), langsung dapet eVoA lewat email. Bisa langsung tunjukin pas masuk atau pake gerbang otomatis.
+Nanti traveler tinggal isi formulir simpel, upload data paspor, dan bayar biaya visa (sekarang IDR 500,000), langsung dapet eVoA lewat email, bisa langsung dipake pas masuk atau lewat gerbang otomatis.
 
-VFS Global bakal resmi jalan **awal Desember** tahun ini, pas banget musim liburan akhir tahun. Biasanya saat itu sekitar sejuta turis internasional berdatangan ke Bali. Pemerintah Indonesia berharap transisi layanan ini lancar biar pengalaman masuk traveler nggak terganggu. Sistem baru ini juga dukung banyak bahasa, kayak Inggris, Mandarin, Jepang, Korea, plus email khusus dan live chat buat bantu traveler urus visa dengan lebih gampang.
+VFS Global bakal resmi jalan **awal Desember** tahun ini, pas banget musim liburan akhir tahun yang biasanya ada sekitar sejuta turis internasional dateng ke Bali. Pemerintah Indonesia berharap transisi layanan ini mulus biar pengalaman masuk traveler nggak terganggu. Sistem baru ini juga dukung banyak bahasa, kayak Inggris, Mandarin, Jepang, Korea, plus email khusus dan live chat buat bantu traveler urus visa dengan lebih gampang.
 
-## 📩 **Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Bali!**
+## 📩 **Langganan Sekarang 'Panduan Wisata Bali', Jadi Ahli Liburan ke Bali!**
 
-![Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Ba](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 
-✅ Berita terbaru soal Bali, biar kamu selalu update info liburan  
+✅ Berita terbaru Bali, biar kamu selalu update info wisata  
 
-✅ Panduan mendalam, bikin itinerary kamu hemat dan bebas khawatir  
+✅ Panduan lengkap, bikin itinerary kamu hemat dan bebas repot  
 
-✅ Rekomendasi tempat rahasia dan peta kuliner lokal eksklusif  
+✅ Rekomendasi spot rahasia dan peta kuliner lokal eksklusif  
 
-✅ Konten yang nggak ada di grup Facebook  
+✅ Konten yang nggak bakal kamu temuin di grup Facebook
 
-✅ Kumpulan saran itinerary paling lengkap dari sesama traveler, bikin setiap trip jadi mulus tanpa hambatan
+✅ Kumpulin saran itinerary dari banyak anggota grup, biar tiap liburan jadi mulus tanpa drama
 
-Cukup pakai akun Google atau Facebook, registrasinya gampang banget!
+Cukup daftar pakai akun Google atau Facebook, gampang banget!

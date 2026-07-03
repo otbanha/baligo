@@ -1,7 +1,7 @@
 ---
 slug: bali-evoa-photo-fix
-title: Gagal upload foto pas ngurus eVisa Bali/Indonesia? Ini cara ngatasinnya
-description: Tutorial step-by-step gagal upload foto
+title: Gagal upload foto pas apply eVoa Indonesia/Bali? Ini cara ngatasinnya
+description: Panduan step-by-step foto gagal upload
 pubDate: '2024-04-17'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_67455bbb03e0ad0bb5b47f4c196b0faa.jpg'
 tags:
@@ -14,58 +14,61 @@ originalUrl: 'https://vocus.cc/article/661fd461fd89780001c43520'
 category:
   - 簽證通關
 lang: id
-_srcHash: 275e2082ce14b1e01d22e7ca15b64ccd
+_srcHash: c08193bd9fd58e98c58266e77bf158ab
 ---
+Update: 2026/07/03
 
-Mau liburan ke Indonesia atau Bali wajib urus visa (VISA). Ada dua cara buat ngurus visa, perbandingannya bisa cek: [Panduan Visa Wisata Bali: Visa on Arrival vs eVisa, mana yang lebih cocok buat kamu?](/blog/bali-visa-landing-vs-electronic/)
+**Kesimpulan dulu** : Gagal upload foto paspor eVoa, 90% penyebabnya **file lebih dari 2MB** — sekarang hp jepret aja udah gede banget filenya. Solusi paling cepat: kirim foto lewat **LINE ke temen, minta dia kirim balik**, nanti otomatis dikompres jadi beberapa ratus KB tanpa pecah, baru bisa lolos upload. Syarat resmi foto: jpeg/jpg/png warna, minimal 400×600, file maks 2MB, komposisi rapi (selfie di dinding polos aja udah oke).
 
-## Ngurus eVisa (eVoA) buat masuk Indonesia/Bali banyak untungnya lho!
+Mau liburan ke Indonesia atau Bali wajib urus visa dulu. Ada dua cara, perbandingannya bisa cek: [Panduan Visa Liburan Bali: Visa on Arrival vs E-Visa, Mana yang Lebih Cocok Buat Kamu?](/blog/bali-visa-landing-vs-electronic/)
 
-Langkah-langkah nyiapin dokumen buat ngurus eVisa:
+## Banyak untungnya apply eVisa (eVoA) buat masuk Indonesia/Bali!
 
-1. **Scan atau foto halaman paspor**: Pastikan halaman paspor keliatan jelas, hindari silau. Simpen sebagai file JPG atau PDF.
-2. **Foto pas foto**: Kalo nggak punya foto pas foto, bisa selfie di depan tembok polos. Pastikan kualitas fotonya tajam, simpen sebagai JPG.
-3. **Kartu kredit**: Siapin kartu kredit buat bayar biaya yang diperlukan.
-4. **Alamat hotel/villa**: Siapin alamat hotel atau villa tempat kamu nginep di Bali buat diisi di formulir.
-5. **File PDF tiket pesawat**: Siapin file PDF tiket pesawat buat ngecek tanggal masuk dan keluar.
+Langkah-langkah nyiapin dokumen buat eVisa:
+
+1. **Scan atau foto halaman paspor** : pastikan jelas, nggak kena pantulan cahaya. Simpen dalam format JPG atau PDF.
+2. **Foto paspor** : kalau nggak punya, selfie aja di depan tembok polos. Pastikan resolusinya bagus, simpen dalam format JPG.
+3. **Kartu kredit** : siapin kartu kredit buat bayar biaya.
+4. **Alamat hotel/villa** : siapin alamat tempat nginep di Bali buat diisi di formulir.
+5. **File PDF tiket pesawat** : siapin file PDF tiket buat mastiin tanggal masuk dan keluar.
 
 Langsung ke situs resmi Imigrasi Indonesia: <https://evisa.imigrasi.go.id/>
 
-Sekarang ngurus eVisa udah nggak perlu bikin akun dulu, dan sekali proses bisa buat maksimal 5 orang. Siapin data kamu, langsung aja mulai ngurus eVisa.
+Sekarang apply eVisa udah nggak perlu bikin akun dulu, dan sekali proses bisa buat maksimal 5 orang. Siapin dokumen kamu, langsung aja mulai apply eVisa.
 
-## Masalah waktu upload foto pas foto
+## Masalah waktu upload foto paspor
 
-Banyak netizen yang ngeluh pas langkah upload foto pas foto nemu masalah. Pertama, kita harus pastiin foto kita udah sesuai sama syarat di situs resmi:
+Banyak netizen yang bilang kalau pas upload foto profil, mereka nemu banyak masalah. Pertama, kita harus pastiin dulu fotonya udah sesuai sama syarat resmi dari website:
 
-### Poin penting ada di Contoh 1:
+### Intinya ada di contoh pertama:
 
-1. File foto berwarna dengan format jpeg/jpg/png
-2. Ukuran minimal 400x600
-3. File tidak boleh lebih besar dari **2MB**
+1. Format file: JPEG/JPG/PNG, foto berwarna
+2. Ukuran minimal: 400x600 piksel
+3. File nggak boleh lebih dari **2MB**
 4. Komposisi yang pas
 
-![Poin penting ada di Contoh 1:](https://images.gobaligo.id/vocus/vocus_8d4f513b24a0c87fae92aee293c19920.jpg)
+![重點都在範例一:](https://images.gobaligo.id/vocus/vocus_8d4f513b24a0c87fae92aee293c19920.jpg)
 
-**Dari empat poin di atas, yang nomor tiga wajib kamu perhatikan!** Sekarang ini resolusi HP makin tinggi, ukuran file foto yang dihasilkan juga makin gede. Kalau nggak hati-hati, jepretan biasa aja bisa langsung lebih dari 2MB. Mau kamu foto ulang atau scan ulang, sebagian besar pasti bakal melebihi batas upload website, otomatis nggak lolos deh.
+**Dari empat poin di atas, yang nomor tiga wajib banget diperhatiin!** Sekarang ini kamera HP makin canggih, ukuran file foto yang dihasilkan juga makin gede. Kalau nggak hati-hati, sekali jepret aja file fotonya bisa lebih dari 2MB. Mau kamu foto ulang atau scan ulang, sebagian besar pasti bakal melebihi batas upload website, otomatis nggak lolos deh.
 
-Kalau kamu nggak familiar dengan cara ngatur parameter HP, atau bingung gimana cara ngecilin file, ada trik simpel nih. Kamu bisa pakai aplikasi chat kayak Line yang hampir semua orang punya, kirim fotonya ke teman atau keluarga, lalu minta mereka kirim balik. Aplikasi-aplikasi ini biasanya punya fitur kompresi foto yang bisa ngecilin ukuran file asli jadi beberapa ratus KB tanpa bikin kualitasnya jelek.
+Kalau kamu nggak familiar ngatur parameter kamera HP, atau bingung cara ngecilin ukuran file, ada trik simpel nih. Kamu bisa pake aplikasi chat kayak Line yang pasti semua orang punya, kirim fotonya ke keluarga atau temen, terus minta mereka kirim balik. Aplikasi kayak gitu biasanya punya fitur kompres foto otomatis, bisa ngecilin ukuran file dari puluhan MB jadi beberapa ratus KB aja tanpa bikin kualitasnya jelek.
 
-### Contoh 2
+### Contoh kedua
 
-Lihat gambar ini, upload foto dengan rasio yang benar
+Lihat gambar ini, upload foto dengan proporsi yang bener
 
-### Contoh 3
+### Contoh ketiga
 
-Wajah jangan terlalu kecil atau terlalu besar
+Wajah di foto jangan terlalu kecil atau terlalu besar
 
-### Contoh 4
+### Contoh keempat
 
-Nggak disarankan pakai: foto yang terlalu blur, foto yang bukan wajah, foto dengan ekspresi berlebihan
+Gak disarankan pakai: foto yang terlalu blur, foto yang bukan wajah, foto dengan ekspresi berlebihan
 
-Kalau udah ikutin petunjuk tapi masih nggak lanjut ke langkah berikutnya, coba tunggu enam jam dulu baru coba lagi.
+Kalau udah ikutin petunjuk kami tapi masih gak lanjut ke langkah berikutnya, coba tunggu enam jam dulu baru coba lagi.
 
 ## Baca Juga
 
-> [Panduan Lengkap eVisa Bali: Cara Daftar, Syarat & Tips Penting!](/blog/bali-evisa-application-guide/)
+> [Panduan Lengkap eVisa Bali: Cara Daftar, Syarat, & Tips Penting!](/blog/bali-evisa-application-guide/)
 
-> [Cepat & Gampang! Cara & Tips Melewati Autogate Bali 2024](/blog/2025-bali-automatic-customs/)
+> [Cepat & Gampang! Panduan Autogate Bali 2024 & Tips Lolos Imigrasi](/blog/2025-bali-automatic-customs/)

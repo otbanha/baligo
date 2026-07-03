@@ -1,9 +1,7 @@
 ---
-title: 【Seminyak-Uluwatu-Jimbaran-Ubud】Itinerary Liburan Mandiri ke Bali Lengkap
+title: '【Seminyak-Uluwatu-Jimbaran-Ubud】Trip ke Bali: Itinerary Lengkap'
 slug: seminyak-uluwatu-jimbaran-ubud-itinerary
-description: >-
-  Seminyak-Uluwatu-Jimbaran-Ubud di Bali, Itinerary Lengkap dengan Rekomendasi
-  Driver & Akomodasi
+description: 'Bali: Seminyak-Uluwatu-Jimbaran-Ubud, Rekomendasi Driver & Akomodasi Lengkap'
 pubDate: 2024-08-16T00:00:00.000Z
 pubHour: null
 category:
@@ -17,137 +15,140 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_91b278904531c76c5f88a15a022eab6d.jpg'
 originalUrl: 'https://vocus.cc/article/669488eafd89780001cc7d82'
 lang: id
-_srcHash: 68961278a02d4ac3db9866103542b7a3
+_srcHash: cb8be301bc389d4ec8738fc770e4b9d7
 ---
+Update: 2026/07/03
 
-> Konten berikut disediakan oleh anggota grup [連育諄](https://www.facebook.com/groups/baligo/permalink/1574999756380597/) dan telah kami susun ulang:
+**Ringkasan Penting**: Ini adalah catatan perjalanan **Seminyak → Uluwatu → Jimbaran → Ubud** yang diuji langsung saat musim ramai Juli. Dua kesimpulan paling berguna: ① Sopir antar-zona di Bali sering menolak atau menaikkan harga di tengah jalan, **sewa mobil penuh** (driver kami Komang WikaSutresna, kontak di akhir artikel) adalah solusi paling praktis; ② **Datang dalam satu jam setelah buka** ke Oneeighty Dayclub bisa dapat kursi barisan depan pemandangan laut, tiket tari Kecak Uluwatu bisa dipesan duluan lewat driver biar nggak antre.
 
-Kali ini karena harus hadir di pernikahan teman, kami memilih berangkat ke Bali bulan Juli. Informasi wisata Bali memang sangat berantakan, kami butuh dua sampai tiga bulan untuk menyusun itinerary.
+> Konten di bawah disusun ulang dari anggota grup [Lian Yuzhun](https://www.facebook.com/groups/baligo/permalink/1574999756380597/):
 
-![【Seminyak-Uluwatu-Jimbaran-Ubud】Itinerary Liburan Mandiri ke](https://images.gobaligo.id/vocus/vocus_a22d6c37c8a63306b663eaf1af023ba8.jpg)
+Kali ini karena mau ikut pernikahan teman, kami memilih ke Bali di bulan Juli. Info wisata Bali memang ribet banget, kami butuh dua-tiga bulan buat nyusun itinerary.
 
-Selama perencanaan, kami sadar kalau lalu lintas di sana sangat kacau, sering ada sopir yang menolak penumpang antar-wilayah atau tiba-tiba menaikkan harga di tengah jalan. Biar nggak repot, kami putuskan pakai sopir sewaan. Ini nggak cuma mengurangi pusing cari kendaraan, tapi juga bikin perjalanan lebih lancar dan tenang. Sopir kami adalah Komang WikaSutresna (ada info di bagian paling bawah). Pada akhirnya, kami rasa pilih sewa mobil itu keputusan yang sangat cerdas!
+![【水明漾-烏魯瓦圖-金巴蘭-烏布】峇里島自由行完整行程分享](https://images.gobaligo.id/vocus/vocus_a22d6c37c8a63306b663eaf1af023ba8.jpg)
+
+Selama perencanaan, kami sadar kalau transportasi lokal kacau balau, sering ada sopir yang nolak penumpang lintas zona atau tiba-tiba naikin harga di tengah jalan. Biar nggak repot, kami putuskan sewa mobil full-time. Ini bikin perjalanan lebih lancar dan tenang. Driver kami adalah Komang WikaSutresna (ada info di bagian bawah). Akhirnya, kami rasa pilihan sewa mobil ini keputusan yang paling tepat!
 
 ## Hari Pertama:
 
 ![水明漾夕陽。連育諄提供](https://images.gobaligo.id/vocus/vocus_6dc896b39c10af9bac23d825129c22b9.jpg)
 
-Matahari terbenam di Seminyak. Disediakan oleh 連育諄
+Sunset di Seminyak. Foto oleh Lian Yuzhun
 
-Karena dengar lalu lintas Seminyak macet banget, pagi hari kami memilih jalan kaki sendiri santai-santai, tanpa sewa mobil. Kami janjian sama sopir untuk dijemput malam dari Seminyak ke vila di Uluwatu. Komang datang lebih awal di titik yang sudah disepakati. Awalnya kami mau makan malam sendiri setelah sampai vila, tapi Komang cek Google Street View di jalan, ternyata jalan dari vila ke jalan utama gelap banget malam-malam, kurang aman buat jalan kaki. Akhirnya, pas sampai vila, dia nunggu di depan sampai kami selesai check-in, lalu anter kami makan. Pelayanan perhatian kayak gini bikin kami merasa hangat banget.
+Karena denger macet parah di Seminyak, pagi hari kami jalan kaki sendiri keliling, nggak pakai mobil. Kami janjian sama driver buat jemput malam dari Seminyak ke villa di Uluwatu. Komang udah sampai duluan di tempat janjian. Tadinya kami mau makan malam sendiri setelah sampai villa, tapi Komang cek Google Street View di jalan, ternyata jalan dari villa ke jalan utama gelap banget malam-malam, nggak aman buat jalan kaki. Akhirnya pas sampai villa, dia nunggu di depan pintu sampai kami check-in selesai, lalu anter kami makan. Pelayanan perhatian kayak gini bikin kami merasa hangat banget.
 
 ## Hari Kedua:
 
-Pagi hari kami ke Oneeighty Dayclub, tempat ini sangat recommended. Kami sampai sejam setelah buka, jadi dapet posisi barisan depan pemandangan laut.
+Pagi-pagi kita mampir ke Oneeighty Dayclub, tempat ini wajib banget dicoba. Kita sampai sejam setelah buka, jadi dapet spot barisan depan dengan pemandangan laut langsung.
 
-### Cerita dari Xiao Jie:
+### Kenalan Sama Xiao Jie:
 
 https://youtu.be/Czw4ALduV14
 
-> [Eksplorasi Oneeighty Day Club: Kolam Renang Tepi Tebing di Bali dengan Pemandangan Super Keren](/blog/oneeighty-dayclub-uluwatu-pool/) Cara bayar & cara booking
+> [Jelajahi Oneeighty Day Club: Kolam Renang Tepi Tebing Bali dengan Pemandangan Super Epic](/blog/oneeighty-dayclub-uluwatu-pool/) Info harga & cara booking
 
-Lanjut, kita ke Blue Point Beach, lihat para peselancar jagoan unjuk gigi — bener-bener bikin melongo.
+Lanjut, kita ke Blue Point Beach, nonton para peselancar pro unjuk gigi — bener-bener bikin melek.
 
-### Cerita Xiao Jie soal Blue Point Beach:
+### Xiao Jie Cerita soal Blue Point Beach:
 
 https://youtu.be/hQbBTktqEqY
 
-Setelah itu, Komang ngajak kita ke Pura Uluwatu buat nonton tarian tradisional. Dia juga udah nitip temennya buat reservasi tiket duluan, jadi kita bisa santai lebih lama di Blue Point Beach tanpa harus buru-buru beli tiket.
+Setelah itu, Komang ngajak kita ke Pura Uluwatu buat nonton tari tradisional. Untungnya dia udah nitip temennya buat booking tiket duluan, jadi kita bisa santai lebih lama di Blue Point Beach tanpa harus buru-buru antre beli tiket.
 
-> [Kecak Fire Dance — Pertunjukan Api yang Wajib Ditonton di Bali (info tiket di sini)](/blog/kecak-fire-dance-bali/)
+> [Kecak Fire Dance: Pertunjukan Api yang Wajib Ditonton di Bali (Lengkap Info Tiket)](/blog/kecak-fire-dance-bali/)
 
 ![烏魯瓦圖美景。連育諄提供](https://images.gobaligo.id/vocus/vocus_a2ffbc76870b45338de0935d3e72d256.jpg)
 
-Pemandangan Uluwatu yang kece. Foto dari Yuzhun.
+Pemandangan Uluwatu yang kece abis. Foto dari Yuzhun.
 
-Catatan penting: di Pura Uluwatu banyak monyet, lebih galak dari monyet di Chai Shan. Cowok cewek sama-sama bisa kena rampok, bahkan di lantai banyak banget bekas kacamata yang dirampas. Jadi pas ke sana, mending jangan bawa barang berharga apa pun.
+Sekadar pengingat, di Uluwatu Temple banyak monyetnya, lebih galak dari monyet di Chai Shan. Baik cowok maupun cewek bisa kena rampok, bahkan di lantai banyak banget sisa kacamata yang dirampas. Jadi pas ke sana, mending jangan bawa barang berharga sama sekali.
 
 ## Hari Ketiga:
 
-Hari ini kita mau hadiri pernikahan, jadi nggak pakai jasa sopir Komang.
+Hari ini kita mau hadiri pernikahan, jadi nggak pakai jasa supir Komang.
 
 ## Hari Keempat:
 
-Hari ini rutenya dari Jimbaran ke Ubud. Di tengah jalan, kami nemu restoran tujuan lagi tutup sementara, Komang langsung bantuin telepon buat konfirmasi, dan cek website resmi air terjunnya juga. Ternyata air terjunnya tutup sementara karena hujan deras sehari sebelumnya (padahal lagi musim kemarau). Tapi, Komang langsung kasih saran baru, jadi hari ini tetap lancar jaya. Setelah puas di air terjun, kami balik ke pusat Ubud buat jalan-jalan santai, dan terakhir minta Komang anterin ke tempat pijat buat tutup hari.
+Rute hari ini dari Jimbaran ke Ubud. Di tengah jalan, kami nemu restoran tujuan tutup sementara, Komang langsung bantu telepon konfirmasi, dan cek website resmi air terjun ternyata juga tutup sementara karena hujan deras sehari sebelumnya (padahal musim kemarau). Tapi, Komang langsung kasih saran baru, bikin hari itu tetap lancar. Setelah puas di air terjun, kami balik ke pusat Ubud jalan-jalan, terakhir minta Komang anter ke pijat, tutup hari itu.
 
-Oh iya, di Gefecon Villa Ubud tempat kami nginep hari ini, ada seorang kakak supervisor asal Taiwan. Orangnya super ramah dan helpful banget, kalau ada masalah apa pun bisa langsung tanya dia.
+Oh iya, di Gefecon Villa Ubud tempat kami nginep hari itu, ada kakak supervisor asal Taiwan, orangnya ramah banget dan suka bantu, kalau ada masalah apa pun bisa tanya dia.
 
-![Hari Keempat:](https://images.gobaligo.id/images/2026-06/1780822969520-86325578.jpg)
+![第四天：](https://images.gobaligo.id/images/2026-06/1780822969520-86325578.jpg)
 
-![Hari Keempat:](https://images.gobaligo.id/images/2026-06/1780822970048-86325579.jpg)
+![第四天：](https://images.gobaligo.id/images/2026-06/1780822970048-86325579.jpg)
 
-![Hari Keempat:](https://images.gobaligo.id/images/2026-06/1780822970587-86325585.jpg)
+![第四天：](https://images.gobaligo.id/images/2026-06/1780822970587-86325585.jpg)
 
-![Hari Keempat:](https://images.gobaligo.id/images/2026-06/1780822971092-86334506.jpg)
+![第四天：](https://images.gobaligo.id/images/2026-06/1780822971092-86334506.jpg)
 
-![Hari Keempat:](https://images.gobaligo.id/images/2026-06/1780822971461-87102433.jpg)
+![第四天：](https://images.gobaligo.id/images/2026-06/1780822971461-87102433.jpg)
 
-> Gefecon Villa Ubud [Harga Spesial Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1770500)
+> Gefecon Villa Ubud [Harga spesial Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1770500)
 
-Dia juga rekomendasiin kami ke Bintang Supermarket Ubud buat beli oleh-oleh. Pas di bandara, kami lihat kacang yang sama dijual 4 kali lipat lebih mahal.
+Dia juga rekomendasiin kami ke Bintang Supermarket Ubud buat beli oleh-oleh. Ternyata di bandara, kacang yang sama dijual 4 kali lipat lebih mahal.
 
-### Video Jie kecil di Bintang Supermarket Ubud:
+### Video yang diambil Jie kecil di Bintang Supermarket Ubud:
 
 https://youtu.be/UoGlRyAdyB8
 
-Baca juga: [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Panduan Oleh-Oleh Bali: Pilihan Terbaik untuk Mengenang Momen Berharga](/blog/bali-souvenirs-gift-guide/)
+Baca juga: [【Rekomendasi Teman】6 Kategori, 20+ Oleh-oleh Bali Terbaik: Pilihan Tepat untuk Kenangan Berharga](/blog/bali-souvenirs-gift-guide/)
 
 ## Hari Kelima:
 
 ![聖泉寺。連育諄提供](https://images.gobaligo.id/vocus/vocus_dbc6e9fddb7c4642b0a7e4bfee0a2182.jpg)
 
-Pura Tirta Empul. Foto oleh Yuzhun.
+Pura Tirta Empul. Foto oleh Lian Yuzhun
 
-Rute hari ini bentuknya seperti huruf O, mulai dari Pura Tirta Empul, lalu lanjut ke kafe buat lihat gunung berapi. Awalnya kami cari AKASA Specialty Coffee, tapi Komang rekomendasiin Montana Del Café, katanya turis Taiwan suka banget ke sini. Sayangnya cuaca lagi jelek jadi gunung berapinya nggak kelihatan, tapi croissant Korea di sini enak banget!
+Rute hari ini bentuknya seperti huruf O. Mulai dari Pura Tirta Empul, lalu lanjut ke kafe dengan pemandangan gunung berapi. Tadinya kami mau ke AKASA Specialty Coffee, tapi Komang rekomendasiin Montana Del Café, katanya turis Taiwan suka banget ke sini. Sayangnya cuaca lagi kurang bagus jadi gunung apinya nggak keliatan, tapi croissant Korea di sini enak banget!
 
 https://youtube.com/shorts/fiYs5GKdINU
 
 ![Montana Del Café可惜天氣不好。連育諄提供](https://images.gobaligo.id/vocus/vocus_8bba492232d63a05b16658986210416d.jpg)
 
-Montana Del Café sayang banget cuacanya jelek. Disediakan oleh Yuzhun.
+Montana Del Café — sayang cuacanya kurang bagus. Foto oleh Lian Yuzhun
 
-Terakhir, kita mampir ke Tegallalang Rice Terrace. Tiket masuknya nggak termasuk tiket ayunan, kalau mau naik ayunan harus beli tiket di pintu masuk. Di sana juga ada baju-baju keren yang bisa disewa buat foto-foto, hasilnya cakep banget. Meskipun tempat ini agak berbau spot Instagram, tapi jalan-jalan di sawah terasering sambil dengerin teriakan orang yang naik ayunan juga seru banget.
+Terakhir kita mampir ke Tegallalang Rice Terrace. Tiket masuknya belum termasuk tiket ayunan, kalau mau naik ayunan harus beli tiket di pintu masuk. Di dalam juga ada baju keren yang bisa disewa buat foto-foto, hasilnya cakep banget. Meskipun tempat ini agak Instagramable, jalan-jalan di sawah sambil dengerin teriakan orang naik ayunan juga seru.
 
 https://youtu.be/op78Dk8CjL4
 
-> Bisa cek juga: [Panduan Lengkap Ubud Bali: 100 Cara Seru Mengenal Ubud | Eksplor Pesona Ubud](/blog/ubud-guide/)
+> Bisa cek juga: [Panduan Lengkap Ubud Bali: 100 Cara Mengenal Ubud Lebih Dalam | Eksplor Pesona Ubud](/blog/ubud-guide/)
 
-Setelah acara selesai, kita minta Komang anter ke restoran favorit kita selama trip ini — Kebun Bistro. Meskipun iga kambing yang paling terkenal udah habis, steak yang direkomendasiin staffnya juga enak banget! Kita pesen medium rare, pas dipotong nggak ada darahnya, dagingnya super empuk, bahkan lauknya juga enak. Karena rame banget, saran reservasi duluan sebelum jam makan. (Udah ditambahin ke [Peta Panduan Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+Setelah selesai jalan-jalan, kami minta Komang anter ke restoran favorit kami selama trip ini — Kebun Bistro. Sayangnya iga kambing yang paling terkenal udah habis, tapi steak yang direkomendasiin staffnya juga enak banget! Kami pesan medium rare, pas dipotong nggak ada darahnya, dagingnya super lembut, bahkan lauknya juga enak. Karena ramai pengunjung, saran kami booking tempat duluan sebelum jam makan. (Udah masukin ke [Peta Panduan Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
 
 ## Hari Keenam:
 
-Pagi-pagi kita berangkat dari Ubud menuju Pura Tanah Lot. Untuk sampai ke pura mungkin harus nyebrang air, jadi saran pakai sepatu yang bisa basah dan celana pendek. Katanya sih pas sunset pemandangannya cantik banget, sayang kita jadwalnya siang jadi nggak bisa lihat.
+Pagi-pagi kami berangkat dari Ubud menuju Pura Tanah Lot. Untuk sampai ke pura, kamu mungkin harus melewati air, jadi saran pakai sepatu dan celana pendek yang bisa basah. Katanya sih pas sunset pemandangannya cantik banget, sayang jadwal kami pas siang jadi nggak sempat lihat.
 
-> [Destinasi Wajib Kunjung di Bali: Panduan Lengkap Pura Tanah Lot, Pasang Surut & Tempat Wisata Sekitar](https://gobaligo.id/blog/bali-tanah-lot-guide/)
+> [Wajib Kunjungi Saat Liburan ke Bali: Panduan Lengkap Pura Tanah Lot, Pasang Surut & Tempat Sekitar](https://gobaligo.id/blog/bali-tanah-lot-guide/)
 
-Pas sampai di Pura Tanah Lot, baru sadar kita nggak sengaja bawa kunci kamar hotel semalem. Komang langsung bilang dia bisa anter balik kuncinya dua hari lagi (udah dapat izin dari kakak staff hotelnya). Makasih banget ya Komang!
+Pas sampai di Pura Tanah Lot, baru sadar kami nggak sengaja bawa kunci hotel malam sebelumnya. Komang langsung bilang dia bisa bantu antar kuncinya dua hari lagi (udah dapat izin dari mbak supervisor hotel). Makasih banget, Komang!
 
-Setelah selesai dari Pura Tanah Lot, kita lanjut ke daerah Canggu buat jalan-jalan dan jalan-jalan di pantai. Mampir ke Blacklist Coffee Roasters yang direkomendasiin Feili, ini beneran jadi kopi favorit kita selama trip Bali kali ini.
+Setelah selesai dari Pura Tanah Lot, kami lanjut ke Canggu buat jalan-jalan dan santai di pantai. Cobain kopi di Blacklist Coffee Roasters rekomendasi Feli, ini jadi kopi favorit kami sepanjang trip Bali.
 
 {{block:canggu}}
 
-Di akhir perjalanan, kita ajak Komang makan malam bareng sebagai ucapan terima kasih atas bantuannya selama beberapa hari ini.
+Di akhir perjalanan, kami ajak Komang makan malam bareng sebagai ucapan terima kasih atas bantuannya selama ini.
 
-## Rekomendasi Sewa Mobil + Sopir
+## Rekomendasi Sewa Mobil + Driver
 
-Intinya, kalau ini pertama kali kamu ke Bali dan mau jalan-jalan ke beberapa tempat tapi bingung arahnya, sewa mobil + sopir itu pilihan yang pas banget. Selain dapet saran profesional, rute perjalanan jadi lebih gampang diatur, dan kamu nggak perlu pusing mikirin bawaan.
+Intinya, buat yang pertama kali ke Bali dan mau jalan-jalan ke beberapa tempat tapi bingung arah, sewa mobil + driver itu pilihan yang worth it. Selain dapet saran profesional, rute perjalanan juga lebih gampang diatur, nggak perlu khawatir soal bawaan.
 
-![Rekomendasi Sewa Mobil + Sopir](https://images.gobaligo.id/vocus/vocus_1fd9d65047cadfd58a1e16cce702fbb1.jpg)
+![推薦包車](https://images.gobaligo.id/vocus/vocus_1fd9d65047cadfd58a1e16cce702fbb1.jpg)
 
-Sopir kami, Komang Wika Sutresna, orangnya super ramah. Waktu dengar kami datang untuk nikahan, dia seneng banget, malah nunjukin video pernikahannya yang setahun lalu, dan video call sama anaknya yang lucu. Bahasa Inggris Komang lumayan, dan dia perhatian banget — kalau ada apa-apa di perjalanan, tinggal tanya aja, dia bakal jawab dengan sabar.
+Driver kami, Komang Wika Sutresna, orangnya ramah banget. Waktu dengar kami datang buat nikahan, dia seneng banget, bahkan sempat share video pernikahannya setengah tahun lalu dan video call sama anaknya yang lucu. Bahasa Inggris Komang lumayan, dan dia perhatian banget. Sepanjang jalan kalau ada pertanyaan, dia siap jawab dengan sabar.
 
-Komang serius banget sama setiap tamu. Selama beberapa hari perjalanan kami, dia selalu teliti: pas sampai di setiap tempat, dia turun buat kasih tahu cara mainnya; pas ke spa, dia juga nyapa stafnya buat pastiin kebutuhan kita terurus. Meskipun karena kendala bahasa kita nggak bisa ngobrol dalem-dalem, soal komunikasi perjalanan sih lancar jaya. Di sini, kami rekomendasiin Komang banget buat kalian!
+Komang serius banget sama setiap tamu. Selama perjalanan beberapa hari ini, dia selalu perhatian: pas sampai tujuan, dia turun buat kasih tahu cara mainnya; pas ke spa, dia juga sapa stafnya biar kebutuhan kami terurus. Meskipun karena kendala bahasa nggak bisa ngobrol dalam-dalam, komunikasi soal perjalanan lancar jaya. Di sini, kami rekomendasi banget Komang buat kalian!
 
-### Info Sopir:
+### Info Driver:
 
-![Info Sopir:](https://images.gobaligo.id/vocus/vocus_d417da9787e70ff453294eb643a0276a.png)
+![司機資訊：](https://images.gobaligo.id/vocus/vocus_d417da9787e70ff453294eb643a0276a.png)
 
 - ID Line : 31011994bopeas
 - Whatsapp : +62 821-4433-9665
 - Instagram : kwk.wikasutresna
-- Facebook : Komang Wika Sutresna
+- Facebook : Komang WikaSutresna
 
-Kamu merasa perjalanan Lian Yuzhun dan teman-temannya seru? Yuk, segera rencanakan liburan bebasmu ke Bali! Jangan lupa juga posting itinerary kamu di grup ya!
+Kamu merasa itinerary Lian Yuzhun dan teman-temannya seru banget? Yuk, segera atur rencana liburan seru kamu ke Bali! Jangan lupa juga kirim itinerary kamu ke grup ya!
 
 {{block:遊記}}
 

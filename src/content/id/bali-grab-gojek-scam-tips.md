@@ -1,12 +1,12 @@
 ---
-title: 'Tips Menghindari Modus Sopir Ojol di Bali: Grab/Gojek Aman atau Tidak?'
+title: 'Tipu-tipu Driver Ojek Online di Bali: Cara Hindari Jebakan Grab/Gojek?'
 slug: bali-grab-gojek-scam-tips
 description: >-
-  Pas liburan di Bali, banyak turis yang pakai Grab atau Gojek buat transportasi
-  jarak pendek. Aplikasi ini praktis banget karena tarifnya udah jelas. Tapi
-  kadang ada aja sopir nakal yang bikin perjalanan jadi kurang nyaman. Ini dia
-  dua cerita nyata soal modus-modus ojol yang sering terjadi, biar kamu lebih
-  waspada dan nggak kena tipu...
+  Pas liburan di Bali, banyak turis yang pake Grab atau Gojek buat transportasi
+  jarak pendek. Aplikasi ini enak karena harganya udah jelas di sistem. Tapi
+  kadang ada aja driver nakal yang bikin perjalanan jadi nggak nyaman. Ini dua
+  cerita nyata soal modus driver ojek online yang sering terjadi, biar kamu
+  lebih waspada dan nggak kena tipu...
 pubDate: 2024-05-27T00:00:00.000Z
 pubHour: null
 category:
@@ -20,41 +20,44 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5cd7003890a5ac7de17a99eb2f269662.png'
 originalUrl: 'https://vocus.cc/article/66546581fd8978000119d572'
 lang: id
-_srcHash: fff6fc97cacfb2b014cac845d0acd907
+_srcHash: 5e541c8d3985565ea7a7772c4e941d44
 ---
+Update: 2026/07/03
 
 [🚗 Mau estimasi tarif Gojek? Klik di sini](/map/gojek-fare/)
 
-Pas liburan di Bali, banyak turis yang pakai Grab atau Gojek buat transportasi jarak pendek. Aplikasi ini praktis banget karena tarifnya udah jelas. Tapi kadang ada aja sopir nakal yang bikin perjalanan jadi kurang nyaman. Ini dia dua cerita nyata soal modus-modus ojol yang sering terjadi, biar kamu lebih waspada dan nggak kena tipu.
+**Kesimpulan dulu ya**: Dua modus paling umum Grab/Gojek di Bali itu—① **Naikin harga di bandara**: Driver nelpon langsung minta bayar 3-4 kali lipat cash (sistem bilang Rp 100.000, dia minta Rp 400.000), kalau gitu langsung cancel aja trus panggil lagi; ② **Jualan di luar aplikasi**: Di mobil nawarin paket tour, alasan nggak punya uang kecil minta kamu 'naik lagi pas balik', pas balik harganya gila-gilaan. Prinsip jaga: **patok harga di aplikasi, transaksi di dalam platform aja, kalau ke bandara pesen dari jauh dan siap-siap cancel-panggil ulang**.
 
-## Cerita 1: Modus Naikkan Harga di Bandara
+Pas liburan di Bali, banyak turis yang pake Grab atau Gojek buat transportasi jarak pendek. Aplikasi ini enak karena harganya udah jelas di sistem. Tapi kadang ada aja driver nakal yang bikin perjalanan jadi nggak nyaman. Ini dua cerita nyata soal modus driver ojek online yang sering terjadi, biar kamu lebih waspada dan nggak kena tipu.
 
-【[Dari Om Hsu, pemilik Restoran Lobster](https://www.facebook.com/hsu.dick.7)】Om Hsu sering bantuin turis Taiwan yang belum punya aplikasi ojol buat pesan taksi. Suatu hari, ada tamu yang mau ke bandara dari Canggu, minta tolong dipesenin. Om Hsu pesen Grab pertama, langsung ada yang nerima. Tapi sopirnya pas lihat tujuan bandara, malah telepon langsung (nggak lewat aplikasi) dan minta 400.000 IDR — padahal tarif di aplikasi cuma sekitar 100.000 IDR. Om Hsu marah banget, langsung cancel. Pesen lagi, eh sopir kedua juga minta 300.000 IDR. Cancel lagi, baru yang ketiga kali ini sopirnya nggak nakal. Tapi total udah hampir sejam kebuang.
+## Cerita 1: Modus Naikin Harga di Bandara
 
-Terus ada lagi, tamu naik Gojek ke restoran, sopirnya malah telepon Om Hsu minta komisi. Nggak dikasih, sopirnya dendam dan kasih rating bintang satu di Google Maps pake dua akun.
+【[Dari Pak Hsu, pemilik restoran Mr. Lobster](https://www.facebook.com/hsu.dick.7)】Pemilik restoran Mr. Lobster sering bantuin turis Taiwan yang belum punya aplikasi ojek online buat pesen mobil. Suatu hari, ada tamu di Canggu yang mau ke bandara, minta tolong dipesenin. Bos panggil mobil pertama lewat Grab, cepet dapet, tapi driver lihat tujuannya bandara, langsung nelpon bos (bukan lewat Grab) minta Rp 400.000, padahal di sistem cuma Rp 100.000-an. Bos marah banget, langsung cancel, panggil mobil kedua—lagi-lagi sama, driver minta Rp 300.000. Bos cancel lagi, akhirnya di panggilan ketiga dapet driver yang nggak naikin harga, tapi udah makan waktu hampir sejam.
 
-**Tips & Saran**: Di Bali, apalagi kalau lagi buru-buru kayak mau ke bandara, mending pesen ojol dari jauh-jauh hari dan siap-siap cancel-pesen lagi. Sebagian besar sopir sih baik, tapi tetap ada aja yang kurang ajar. Hati-hati ya!
+Terus ada juga kejadian lain: tamu naik Gojek ke restoran, driver malah nelpon bos minta komisi. Bos nggak peduli, driver nggak dapet komisi, eh malah bikin dua akun Google Maps buat kasih bintang satu ke restoran.
 
-## Cerita 2: Modus Jualan Paket Wisata
+**Tips & saran**: Di Bali, apalagi kalau lagi buru-buru kayak ke bandara, wajib pesen ojek online dari jauh dan siap-siap panggil ulang. Sebagian besar driver sih baik, tapi ada juga yang nggak bener, jadi hati-hati ya.
 
-【[Dari Ye Tingyu](https://www.facebook.com/groups/baligo/permalink/1546686959211877/)】Mbak Ye dan teman-teman pertama kali pakai Grab, langsung dapat pengalaman kurang enak. Begitu naik, sopirnya super ramah, ngajak ngobrol terus, dan ngarahin ke tempat wisata serta aktivitas seru. Dia nawarin paket sewa mobil harian, pengin lepas dari tarif Grab yang udah jelas.
+## Cerita 2: Modus Jualan Paket Tour
 
-Hari itu mereka cuma rencana main ayunan di Tegalalang Rice Terrace siangnya, jadi tolak aja tawaran sopir. Pas mau bayar, sopirnya bilang nggak punya uang kecil, minta mereka naik lagi pas pulang biar uang kembaliannya dipake buat ongkos pulang. Mereka setuju. Eh pas pulang, sopirnya malah minta bayaran tiga kali lipat! Katanya karena macet. Tapi pas dicek di aplikasi Grab, tarifnya sama aja kayak pas pergi.
+【[Dari Mbak Ye Tingyu](https://www.facebook.com/groups/baligo/permalink/1546686959211877/)】Mbak Ye dan teman-teman pertama kali pake Grab, dapet pengalaman nggak enak. Pas naik, driver terlalu ramah, ngobrol terus, trus ngajak ngomong soal tempat wisata dan aktivitas di sekitar, nawarin paket tour, nyoba keluar dari sistem harga tetap Grab.
 
-Pas mereka protes, supirnya malah mulai nego sendiri, dan akhirnya nawarin harga awal buat nganter mereka balik. Wisatawannya ngotot minta kembalian pas, baru deh supirnya ngeluarin uang receh dari tasnya. Pengalaman ini bikin mereka ragu sama kualitas beberapa supir, tapi untungnya supir-supir selanjutnya lumayan oke.
+Hari itu mereka cuma rencanain sore ke Tegalalang Rice Terrace buat main ayunan, jadi mereka tolak tawaran supir. Pas mau bayar, supirnya bilang nggak punya uang kecil, minta mereka naik lagi pas balik, katanya ongkos balik langsung dipotong dari uang kembalian. Mereka setuju, tapi pas balik, supirnya malah ngomong ongkosnya tiga kali lipat. Waktu mereka tanya kenapa, supirnya bilang karena macet, tapi pas dicek lewat Grab App, harga ongkosnya sama aja kayak pas pergi.
 
-**Tips & Saran**: Pas pake ojek online kayak Grab, hati-hati kalau supir nawarin paket wisata atau gitu. Kalau supir minta bayar cash, usahain jangan kena jebakan 'gak ada uang kecil'. Catat juga pengalaman kurang enak selama perjalanan, dan langsung lapor ke platform biar layanannya makin baik.
+Setelah mereka protes, supirnya mulai nurunin harga sendiri, dan akhirnya nawarin harga awal plus mau anter mereka balik. Wisatawan tetap ngotot minta uang kembalian yang asli, baru deh supirnya ngeluarin uang kecil dari tasnya. Pengalaman ini bikin mereka ragu sama kualitas beberapa supir, tapi untungnya supir-supir selanjutnya lumayan oke.
 
-![Cerita 2: Modus Jualan Paket Wisata](https://images.gobaligo.id/vocus/vocus_606a8a4395b4fdaae837688326b106ac.png)
+**Tips & Saran**: Pas pake ojek online kayak Grab, hati-hati kalau supir nawarin paket wisata atau hal lain. Kalau supir minta bayar cash, usahain jangan kena tipu 'nggak ada uang kecil'. Catat pengalaman nggak enak selama perjalanan dan langsung lapor ke platform, biar layanan makin baik.
 
-Pengalaman nyata para wisatawan ini semoga bisa jadi referensi buat kalian. Sebenarnya platform ojek online itu tetap praktis banget, kemungkinan ketemu supir nakal juga gak terlalu tinggi, tapi tetap aja penting buat waspada selama liburan.
+![故事二：包車推銷套路](https://images.gobaligo.id/vocus/vocus_606a8a4395b4fdaae837688326b106ac.png)
 
-> Baca juga: [Liburan di Indonesia/Bali, Wajib Download Aplikasi Ini: Panduan Lengkap Gojek](/blog/2023-08-20-64e187dffd897800017304fe/)
+Pengalaman nyata para wisatawan ini semoga bisa jadi referensi buat kalian. Platform ojek online sendiri emang praktis banget, kemungkinan ketemu supir nakal juga nggak terlalu tinggi, tapi tetap waspada selama traveling itu penting.
 
-> Baca juga: [【Panduan Wisata Bali】Wajib Punya buat Perjalanan Pendek! Panggil Ojek Online, Hemat Waktu & Tenaga!](/blog/2024-05-03-6634d110fd897800012a9d6b/)
+> Baca juga: [Aplikasi Wajib Pas Traveling di Indonesia/Bali: Panduan Lengkap Gojek](/blog/2023-08-20-64e187dffd897800017304fe/)
 
-> Baca juga: [Kapan Sewa Mobil di Bali? Kapan Panggil Ojek? Sewa Mobil vs. Ojek Online: Cara Pilih yang Paling Cocok buat Liburanmu!](/blog/2024-05-05-6636f348fd897800013df126/)
+> Baca juga: [【Panduan Wisata Bali】Wajib Punya Buat Perjalanan Pendek! Aplikasi Panggil Ojek, Hemat Waktu & Tenaga!](/blog/2024-05-03-6634d110fd897800012a9d6b/)
 
-[🚗 Mau Estimasi Tarif Gojek? Klik di Sini](/map/gojek-fare/)
+> Baca juga: [Kapan Sewa Mobil di Bali? Kapan Panggil Ojek? Sewa Mobil vs. Panggil Ojek: Cara Pilih yang Paling Cocok Buat Liburanmu?](/blog/2024-05-05-6636f348fd897800013df126/)
+
+[🚗 Mau estimasi tarif Gojek? Klik di sini](/map/gojek-fare/)
 
 {{block:包車}}

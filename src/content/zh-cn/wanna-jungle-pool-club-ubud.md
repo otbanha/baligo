@@ -1,9 +1,9 @@
 ---
 slug: wanna-jungle-pool-club-ubud
-title: 巴厘岛 Wanna Jungle 旅游指南：入园门票、最低消费限制、交通接送与乌布一日行程安排
+title: 巴厘岛 Wanna Jungle 旅游指南：入园门票、低消限制、交通接送与乌布一日行程排法
 description: >-
-  计划去 Wanna Jungle 待上一整天？这份完整指南为您整理 Kayon Jungle Resort 旗下的热门泳池俱乐部信息。包含不同区域的最低消费
-  (Minimum Spend) 说明、池畔酒吧消费技巧与避开人潮的入园时间。提供从乌布市区前往的交通建议，让您的丛林放松之旅既顺畅又奢华。
+  计划去 Wanna Jungle 待上一整天？这份完整指南为您整理 Kayon Jungle Resort 旗下的热门泳池俱乐部信息。包含不同区域的低消
+  (Minimum Spend) 说明、池畔酒吧消费窍门与避开人潮的入园时间。提供从乌布市区前往的交通建议，让您的丛林放松之旅既顺畅又奢华。
 pubDate: 2025-05-01T00:00:00.000Z
 category:
   - 美食景點活動
@@ -21,14 +21,17 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_cbcb3dcfef832d05b8df6806e839d3e2.jpg'
 originalUrl: 'https://vocus.cc/article/68134e91fd89780001ab5b55'
 lang: zh-cn
-_srcHash: 0f8611ca38d7e7de846caea36b84a0c1
+_srcHash: 8e51fc5d787f9ff5e032063627b7b5f2
 ---
+Update: 2026/07/03
+
+**先说结论**：Wanna Jungle Pool & Bar 是乌布 Kayon Jungle Resort 旗下的三层梯田式无边泳池俱乐部，**非住客也能玩**——通过 Klook 买一日通票入场，门票内含餐饮抵用金（food credit）可直接抵扣池畔餐点。想拍到没有人的泳池请**上午入园**，午餐首推招牌巴厘岛脆皮烤鸭 Bebek Kayon（两人分食刚好）。
 
 来到巴厘岛文化心脏乌布，绝对不能错过这家近期在IG上疯狂刷屏的一日泳池俱乐部——Wanna Jungle Pool & Bar！这个拥有绝美景观的三层式无边泳池，早已成为网红们的打卡圣地。
 
 ## **梯田概念泳池 与自然完美融合**
 
-![梯田概念泳池 与自然完美融合](https://images.gobaligo.id/vocus/vocus_f6fc53ee9b26048fd4f3d333e111e58f.jpg)
+![梯田概念泳池 與自然完美融合](https://images.gobaligo.id/vocus/vocus_f6fc53ee9b26048fd4f3d333e111e58f.jpg)
 
 一走进Wanna Jungle，立刻被眼前独特的泳池设计惊艳！设计师巧妙将巴厘岛著名的梯田景观融入泳池造型，阶梯式的层叠水池与周边热带丛林相映成趣，随便一个角度都能拍出杂志封面级的美照。最棒的是，即使不是度假村住客，也能购买一日券进来享受这片仙境。
 
@@ -36,7 +39,7 @@ _srcHash: 0f8611ca38d7e7de846caea36b84a0c1
 
 ## **门票含餐饮抵用 享受五星级美食**
 
-这里的入场券特别贴心包含food credit，可直接抵扣餐饮消费。我们选择在这里享用午餐，首推他们的招牌菜「Bebek Kayon」巴厘岛脆皮烤鸭！超大份量的鸭肉外皮酥脆，搭配三种特色蘸酱：红辣椒洋葱酱、印尼炒辣椒（Cabe Goreng），以及用当地辣椒制成的绿色酱料（不是墨西哥鳄梨酱哦！），微辣开胃的滋味让人一口接一口。
+这里的入场券特别贴心包含food credit，可直接抵扣餐饮消费。我们选择在这里享用午餐，首推他们的招牌菜「Bebek Kayon」巴厘岛脆皮烤鸭！超大份量的鸭肉外皮酥脆，搭配三种特色蘸酱：红辣椒洋葱酱、印尼炒辣椒（Cabe Goreng），以及用当地辣椒制成的绿色酱料（不是墨西哥牛油果酱哦！），微辣开胃的滋味让人一口接一口。
 
 ## **丛林中的放松时光**
 
@@ -44,18 +47,18 @@ https://youtu.be/eJ0oL0O5OY8
 
 ▲看看小杰游记
 
-躺在泳池边的躺椅上，点杯色彩缤纷的调酒，听着流水声与丛林鸟鸣，不知不觉就度过整个下午。无论是想拍美照、品美食，或单纯享受度假氛围，Wanna Jungle Pool & Bar 都能满足你对巴厘岛假期的所有想象！
+躺在泳池畔的躺椅上，点杯色彩缤纷的调酒，听着流水声与丛林鸟鸣，不知不觉就度过整个下午。无论是想拍美照、品美食，或单纯享受度假氛围，Wanna Jungle Pool & Bar都能满足你对巴厘岛假期的所有想象！
 
 ## **旅行小贴士**
 
 - 建议上午人较少时前往，能拍到更干净的泳池画面
-- 脆皮鸭分量较大，2 人分享也不嫌少
+- 脆皮鸭份量较大，2人分享也不嫌少
 - 记得准备防水手机套，才能尽情拍摄泳池美照
 - 傍晚时分泳池会点灯，又是另一种浪漫氛围
 
 下次来乌布，别忘了把这个隐藏在丛林中的梯田泳池排进行程，让你的巴厘岛之旅更有记忆点！
 
-▶[Wanna Jungle Pool & Bar 一日通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1040199&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91999-wanna-jungle-pool-and-bar-ubud%2F)
+▶[Wanna Jungle Pool & Bar一日通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1040199&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91999-wanna-jungle-pool-and-bar-ubud%2F)
 
 {{block:ubud}}
 

@@ -22,16 +22,19 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_450b43c94fd0f97234ac5adee8b3a41c.jpg'
 originalUrl: 'https://vocus.cc/article/66670c4afd897800019dcac7'
 lang: zh-cn
-_srcHash: 568b26360c7dcb4731f8be9223f3264e
+_srcHash: 4f64cec90afd84877264b0b878c2776a
 ---
+Update: 2026/07/03
+
+**先说结论**：巴厘岛摩托车事故最大的保险理赔陷阱是——**没有国际驾照（IDP）+ 台湾普通摩托车驾照双证齐全，保险公司可以直接拒赔**，出事故医药费全部自付。想避开这个风险，最安全的做法是**改用包车或 Gojek/Grab 叫车**，若坚持自己骑车，出发前务必办好 IDP 并确认保单有涵盖摩托车事故。
 
 近日，一名来自我们脸书社团的团友Poon分享了他在巴厘岛的旅游经历，强调了旅游安全的重要性，尤其是骑摩托车时的风险。他提醒其他旅客，在巴厘岛游玩时一定要特别注意安全。
 
-![巴厘岛摩托车事故自救指南：国际驾照规定、保险理赔漏洞与如何安全移动全攻略](https://images.gobaligo.id/vocus/vocus_b84e8bf33672e13070024de3c98fb7bc.jpg)
+![峇里島機車事故自救指南：國際駕照規定、保險理賠漏洞與如何安全移動全攻略](https://images.gobaligo.id/vocus/vocus_b84e8bf33672e13070024de3c98fb7bc.jpg)
 
 Poon在返程时遇到了两位受伤的旅客，他们都是亚洲面孔，且都是年轻人。这两位受伤者与Poon同机返程。骑摩托车虽然方便，但在陌生的环境下，意外的发生率相当高。
 
-![巴厘岛摩托车事故自救指南：国际驾照规定、保险理赔漏洞与如何安全移动全攻略](https://images.gobaligo.id/vocus/vocus_1a17602d666ba618a75cd33abb72790a.png)
+![峇里島機車事故自救指南：國際駕照規定、保險理賠漏洞與如何安全移動全攻略](https://images.gobaligo.id/vocus/vocus_1a17602d666ba618a75cd33abb72790a.png)
 
 ## 摩托车骑行便利与危险并存
 

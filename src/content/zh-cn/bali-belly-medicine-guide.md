@@ -1,7 +1,7 @@
 ---
 slug: bali-belly-medicine-guide
-title: Bali Belly 巴厘岛腹泻/肠胃炎/脏水病如何自救?Bali Belly 缓解药品攻略
-description: "\U0001F48A 巴厘岛当地药局可购药品清单 (针对Bali Belly)"
+title: Bali Belly 巴厘岛腹泻/肠胃炎/脏水病如何自救？Bali Belly 缓解成药攻略
+description: "\U0001F48A 巴厘岛当地药店可购药品清单（针对Bali Belly）"
 pubDate: 2026-01-02T00:00:00.000Z
 category:
   - 旅行技巧
@@ -14,22 +14,25 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_eef45058d1c6971ff4946e72428f3b65.png'
 originalUrl: 'https://vocus.cc/article/69523427fd89780001caa652'
 lang: zh-cn
-_srcHash: b2b3157087be1bc95f5a016766e79610
+_srcHash: aeefbbe35d79486ce3f1f78c897777b1
 ---
+Update: 2026/07/03
 
-![Bali Belly 巴厘岛腹泻/肠胃炎/脏水病如何自救?Bali Belly 缓解药品攻略](https://images.gobaligo.id/vocus/vocus_4d4eba54aefdb7fa2355dfd2cba7bd0b.png)
+![Bali Belly 峇里島腹瀉/腸胃炎/髒水病如何自救?Bali Belly 紓解成藥攻略](https://images.gobaligo.id/vocus/vocus_4d4eba54aefdb7fa2355dfd2cba7bd0b.png)
 
-抵达巴厘岛后，最怕的不是晒黑，而是突如其来的 **Bali Belly（巴厘岛腹泻）**。无论是因饮食水土不服、细菌感染，还是肠胃比较敏感，症状一来真的会把旅程搞得灰头土脸。这篇文章就帮大家整理一份「在巴厘岛药局就买得到的自救清单」，从补水、止泻、退烧到何时该就医，一次搞定，遇到状况也不会慌！
+**先说结论**：Bali Belly（巴厘岛腹泻）发作时**优先补水而非止泻**——当地药店可买 **口服补液盐 ORS**（品牌 Oralit、Hydralyte，治疗核心，比单纯止泻更重要），轻度症状再搭配吸附型止泻药（Norit、Entrostop）。运动饮料无法完全取代 ORS。以下整理完整自救药品清单与何时该就医的判断。
+
+抵达巴厘岛后，最怕的不是晒黑，而是突如其来的 **Bali Belly（巴厘岛腹泻）**。无论是因为饮食水土不服、细菌感染，还是肠胃比较敏感，症状一来真的会把旅程搞得灰头土脸。这篇文章就帮大家整理一份「在巴厘岛药店就买得到的自救清单」，从补水、止泻、退烧到何时该就医，一次搞定，遇到状况也不会慌！
 
 ## Bali Belly 预防胜于治疗
 
 https://youtu.be/GivvqCXp11A
 
-## 💊 巴厘岛当地药局可购药品清单 (针对Bali Belly)
+## 💊 巴厘岛当地药店可购药品清单（针对Bali Belly）
 
 ### 1. 口服补液盐 (ORS) – 治疗核心
 
-![1. 口服补液盐 (ORS) – 治疗核心](https://images.gobaligo.id/vocus/vocus_a81dcdb7ad41f0217c48c227f3d2376a.jpg)
+![1. 口服補液鹽 (ORS) – 治療核心](https://images.gobaligo.id/vocus/vocus_a81dcdb7ad41f0217c48c227f3d2376a.jpg)
 
 · 作用：预防和纠正腹泻引起的脱水，这比单纯止泻更重要。
 
@@ -39,7 +42,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 2. 止泻药 (吸附剂) – 用于轻度腹泻
 
-![2. 止泻药 (吸附剂) – 用于轻度腹泻](https://images.gobaligo.id/vocus/vocus_29f49f8dcdb2f01829087cc9573e464d.jpg)
+![2. 止瀉藥 (吸附劑) – 用於輕度腹瀉](https://images.gobaligo.id/vocus/vocus_29f49f8dcdb2f01829087cc9573e464d.jpg)
 
 · 作用：吸附肠道内的细菌、毒素，缓解症状，不作为主要治疗。
 
@@ -49,7 +52,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 3. 止泻药 (抗蠕动剂) – 应急使用
 
-![3. 止泻药 (抗蠕动剂) – 应急使用](https://images.gobaligo.id/vocus/vocus_f236c2f98d598a09ea38642c11f57cad.jpg)
+![3. 止瀉藥 (抗蠕動劑) – 應急使用](https://images.gobaligo.id/vocus/vocus_f236c2f98d598a09ea38642c11f57cad.jpg)
 
 · 作用：强效控制腹泻频率，仅供短期应急（如长途交通）。
 
@@ -59,7 +62,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 4. 止痛/退烧药
 
-![4. 止痛/退烧药](https://images.gobaligo.id/vocus/vocus_a30fbcb9351a7bd327b8c2e225f94572.jpg)
+![4. 止痛/退燒藥](https://images.gobaligo.id/vocus/vocus_a30fbcb9351a7bd327b8c2e225f94572.jpg)
 
 · 作用：缓解腹痛、发烧。
 
@@ -69,7 +72,7 @@ https://youtu.be/GivvqCXp11A
 
 ### 5. 肠胃解痉
 
-![5. 肠胃解痉](https://images.gobaligo.id/vocus/vocus_f1999375de63a55c0537c176c31bd193.jpg)
+![5. 腸胃解痙](https://images.gobaligo.id/vocus/vocus_f1999375de63a55c0537c176c31bd193.jpg)
 
 ·Scopma Plu (hyoscine）→ 直接放松肠胃平滑肌, 减缓绞痛
 
@@ -83,7 +86,7 @@ https://youtu.be/GivvqCXp11A
 
 ## ⚠️ 重要安全须知与就医警讯
 
-**1. 不要自行服用抗生素**：Bali Belly可能由病毒或细菌引起，滥用抗生素无效且有害。抗生素需由医生诊断后开具。
+**1. 不要自行服用抗生素**：巴厘肚可能由病毒或细菌引起，滥用抗生素无效且有害。抗生素需由医生诊断后开具。
 
 **2.** **首要任务是补水**：无论是否用药，都必须持续、少量多次地补充口服补液盐溶液或干净的瓶装水。
 
@@ -99,7 +102,7 @@ https://youtu.be/GivvqCXp11A
 
 · 出现脱水迹象（口干、尿少色深、头晕、极度虚弱）。
 
-· 症状持续超过 48-72小时无改善。
+· 症状持续超过 48-72小时 无改善。
 
 ## 🏥 如何寻求医疗协助
 
@@ -107,9 +110,9 @@ https://youtu.be/GivvqCXp11A
 
 ## 💡 购买与沟通建议
 
-· 寻找可靠药房：可以优先寻找连锁药房，如Guardian、Kimia Farma、Watsons，这些地方药品来源正规。
+· 寻找可靠药局：可以优先寻找连锁药局，如Guardian、Kimia Farma、Watsons，这些地方药品来源正规。
 
-· **沟通备用语句：如果语言不通，可以尝试向药剂师出示以下短句：**
+· **沟通备用词句：如果语言不通，可以尝试向药剂师出示以下短句：**
 
 > ·“Oralit untuk diare.” (口服补液盐用于腹泻。)
 

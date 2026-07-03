@@ -15,12 +15,15 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/ByGkcmys01g'
 lang: zh-cn
-_srcHash: f76c1baec9b201e9b63d82ced936a8a1
+_srcHash: 977adc8bfe7940d2372106117cdfb290
 ---
+Update: 2026/07/03
 
 [🚗 想预估 Gojek 车资？请点击这里](/map/gojek-fare/)
 
 ![【印尼/峇里島必備APP】Gojek / Grab 叫車圖文教學指南](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
+
+**先讲结论**：出发前**在台湾就先下载并用台湾手机号码注册**（避免落地后收不到 OTP 验证码卡关），到了巴厘岛绑定信用卡叫车最方便。两款 App 功能几乎一样——**Grab** 国际卡支持度高、有中文界面；**Gojek** 是印尼本土品牌，刷卡失败可到 Alfamart 超市充值 GoPay。以下是完整叫车图文教学。
 
 ## Gojek / Grab 的使用方式
 
@@ -41,29 +44,28 @@ _srcHash: f76c1baec9b201e9b63d82ced936a8a1
 
 虽然可以付现，但强烈建议绑定信用卡，省去翻找小额印尼盾零钱的麻烦。
 
-- **Grab：** 界面较友好，对国际信用卡支持度高，甚至有中文界面。
-- **Gojek：** 印尼本土品牌，若信用卡无法支付，可考虑到当地的便利店（如 Alfamart）充值 GoPay。
+- **Grab：** 界面更亲民，对国际信用卡支持度高，甚至有中文界面。
+- **Gojek：** 印尼本土品牌，若信用卡刷不过，可考虑到当地的便利店（如 Alfamart）充值 GoPay。
 
 **第三步：叫车流程 (Step-by-Step)**
 
 不论哪一款 App，操作逻辑完全大同小异：
 
 1. **选择服务：**
-
     - 摩托车 (Bike)： 适合单人、赶时间（堵车时）、短程。Gojek 叫 GoRide，Grab 叫 GrabBike。
     - 汽车 (Car)： 适合多人、有行李、想吹空调。Gojek 叫 GoCar，Grab 叫 GrabCar。
 
 2. **设定目的地 (Where to)：** 输入地点名称或直接在地图上插大头针。
 3. **确认上车点 (Pick-up point)：** 系统会自动定位，但建议手动检查，确保司机能找到你。
-4. **查看价格：** 系统会跳出确定的总金额（明码实价，不用跳表或喊价）。
+4. **查看价格：** 系统会弹出确定的总金额（明码实价，不用打表或议价）。
 5. **点击预订 (Order/Book)：** 系统会配对司机，画面会显示司机的名字、车牌与位置。
-
-![Gojek / Grab 的使用方式](https://images.gobaligo.id/vocus/vocus_74b7470a20e1026529e08d0e3f83681e.png)
 
 **第四步：与司机沟通**
 
-- **内置聊天：** 两款 App 都有内置聊天室，可以传讯息或照片告知确切位置。
-- **翻译功能：** Grab 内置自动翻译，司机传印尼文会自动转成英文/中文；Gojek 则可能需要简单的英文沟通。
+![Gojek / Grab 的使用方式](https://images.gobaligo.id/vocus/vocus_74b7470a20e1026529e08d0e3f83681e.png)
+
+- **内置聊天：** 两款 App 都有内置聊天室，可以发消息或照片告知确切位置。
+- **翻译功能：** Grab 内置自动翻译，司机发印尼文会自动转成英文/中文；Gojek 则可能需要简单的英文沟通。
 - **常用接人地点表达**：
 
 1. 在大门/At the main gate：Di pintu utama
@@ -71,10 +73,15 @@ _srcHash: f76c1baec9b201e9b63d82ced936a8a1
 3. 在XX商店/At XX store：Di toko XX
 4. 在门牌XX号接我/pick me up at number XX：jemput saya di nomor XX
 
+1. 在大門/At the main gate：Di pintu utama
+2. 在XX便利商店/At XX convenient store：Di mini mart XX
+3. 在XX商店/At XX store：Di toko XX
+4. 在門牌XX號接我/pick me up at number XX：jemput saya di nomor XX
+
 **第五步：抵达与评分**
 
 - 下车后，若已绑定信用卡，直接下车即可。
-- **小费：** 若觉得司机服务很好（例如帮忙搬重物或绕过严重塞车），可以在 App 上给予 5,000–10,000 IDR 的小额小费以表心意。
+- **小费：** 若觉得司机服务很好（例如帮忙搬重物或绕过严重堵车），可以在 App 上给予 5,000–10,000 IDR 的小额小费以表心意。
 
 https://youtu.be/ByGkcmys01g
 
@@ -102,12 +109,13 @@ https://youtu.be/ByGkcmys01g
 4. 替代方案：对于一天的跨区域观光（例如从南部前往乌布或火山），预订包车是更普遍、舒适且无争议的选择，司机通常还能兼任向导。
 
 快速参考：[【巴厘岛包车须知懒人包】](/blog/bali-private-car-hire-guide/)
+
 ## ⚠️ 重要提醒
 
 {{video1}}
 
 · 尊重规定：请务必遵守现场的告示牌规定，强行在禁止区域上车可能引发与当地司机的纠纷。
-· 安全第一：如果使用路边拦车，务必选择信誉良好的 “蓝鸟出租车 (Bluebird)”，并确认司机打表计费，或谈好一口价，以防被漫天要价。
+· 安全第一：如果使用路边拦车，务必选择信誉良好的“蓝鸟出租车 (Bluebird)”，并确认司机打表计费，或谈好一口价，以防被漫天要价。
 
 总结来说，线上叫车在巴厘岛大部分地区仍是可用的有效工具，只需避开有明确禁令的热门景点即可。提前规划好交通方式，将让你的旅程更加顺畅。
 

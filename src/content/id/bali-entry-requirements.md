@@ -1,15 +1,9 @@
 ---
 slug: bali-entry-requirements
-title: >-
-  Wajib Tahu Sebelum ke Bali! Visa, Bea Cukai, Pajak Turis & Kesehatan — Panduan
-  Lengkap
+title: 印尼/Bali 入境必备！签证、报关、观光税与健康声明一次看懂
 description: >-
-  Mau liburan ke Bali, atau lagi siap-siap jalan-jalan ke Indonesia? Jangan
-  lupa, selain tiket dan akomodasi, ada beberapa dokumen penting yang harus
-  disiapkan sebelum berangkat. Kalau belum diurus, bukan cuma bisa bikin kamu
-  telat naik pesawat, tapi juga bisa repot pas imigrasi. Biar lancar masuk, ini
-  dia 4 dokumen wajib terbaru — lengkap dengan waktu pengurusan, masa berlaku,
-  dan tipsnya. Semua dijelasin biar gampang dipahami!
+  想去 Bali
+  度假，或即将踏上印尼的旅行？别忘了除了订好机票和住宿，还有几份重要的入境文件需要提前准备。这些文件如果没提前搞定，不仅可能耽误登机，入境时也可能遇到麻烦。为了让你顺利通关，这里整理了目前最新的四大入境文件，包括办理时间、有效期和注意事项，一次看懂，轻松准备！
 pubDate: '2025-07-05'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a370aa7d9c736557df44eb2543b566db.png'
 tags:
@@ -22,108 +16,111 @@ originalUrl: 'https://vocus.cc/article/686902bafd89780001e3f490'
 category:
   - 簽證通關
 lang: id
-_srcHash: e03dff00fcdecf9671a4929f95f2c69d
+_srcHash: bfc3f6616d649a5ab3863ae2a9939c43
 ---
+Update: 2026/07/03
 
-Mau liburan ke Bali, atau lagi siap-siap jalan-jalan ke Indonesia? Jangan lupa, selain tiket dan akomodasi, ada beberapa **dokumen penting** yang harus disiapkan sebelum berangkat. Kalau belum diurus, bukan cuma bisa bikin kamu telat naik pesawat, tapi juga bisa repot pas imigrasi.
+**先说结论**：入境印尼 Bali 需要备齐 **4 份文件**，各自办理时间不同——① **电子签证 eVoA**（出发前申请，核发后 90 天内须完成出入境）② **电子报关 eCD**（只能在出发前 3 天内填写）③ **健康声明 SSHP**（入境前 3 天内填写）④ 观光税缴纳证明。时间点记混最容易出包，尤其是 eCD 填太早会被系统挡掉、太晚填又怕临时手忙脚乱，建议统一在出发前 2-3 天一次办完。
 
-![Wajib Tahu Sebelum ke Bali! Visa, Bea Cukai, Pajak Turis & K](https://images.gobaligo.id/vocus/vocus_2775fee2fe386d7041bb19dfab0cd31a.png)
+想去 Bali 度假，或即将踏上印尼的旅行？别忘了除了订好机票和住宿，还有几份**重要的入境文件**需要提前准备。这些文件如果没提前搞定，不仅可能耽误登机，入境时也可能遇到麻烦。
 
-Biar lancar masuk, ini dia 4 dokumen wajib terbaru — lengkap dengan waktu pengurusan, masa berlaku, dan tipsnya. Semua dijelasin biar gampang dipahami!
+![印尼/峇里島旅遊入境必備！簽證、報關、觀光稅與健康聲明一次看懂](https://images.gobaligo.id/vocus/vocus_2775fee2fe386d7041bb19dfab0cd31a.png)
 
----
-
-## Visa Elektronik (eVoA): Ajukan Sebelum Berangkat, Berlaku 90 Hari Sejak Diterbitkan
-
-Visa Elektronik (Electronic Visa on Arrival, atau eVoA) adalah salah satu dokumen wajib buat sebagian besar turis yang mau ke Indonesia, terutama buat tujuan liburan.
-
-eVoA harus diajukan dulu lewat [situs resmi Indonesia](https://evisa.imigrasi.go.id/) sebelum berangkat, dan biasanya langsung keluar. Visa ini berlaku **90 hari sejak tanggal terbit**, tapi ingat: **kamu harus masuk dan keluar Indonesia dalam 90 hari itu** — jangan sampai overstay.
-
-Saran waktu pengajuan: seminggu sebelum berangkat. Biar prosesnya aman, tapi juga nggak terlalu cepat sampai masa berlakunya habis.
-
-**Referensi cepat:** [FAQ Terbaru 2025: Visa Masuk Indonesia & eVoA Bali — Panduan Isi](/blog/indonesia-bali-visa-evoa-faq/)
+为了让你顺利通关，这里整理了目前最新的四大入境文件，包括办理时间、有效期和注意事项，一次看懂，轻松准备！
 
 ---
 
-## Deklarasi Bea Cukai Elektronik (eCD): Isi 3 Hari Sebelum Berangkat
+## 电子签证（eVoA）：出发前申请，核发后 90 天内有效
 
-eCD（Electronic Customs Declaration）是[印尼官方的线上海关报关表](https://ecd.beacukai.go.id/)，所有旅客无论有无申报物品，都需填写。这份报关表包含是否携带外币、动植物、酒类、香烟或其他需申报的物品。
+印尼电子签证（Electronic Visa on Arrival，简称 eVoA）是大多数旅客前往印尼必备的文件之一，尤其适用于以观光目的入境的外籍人士。
 
-填写限制非常明确：只能在**出发前三天内**完成。若提早填写，系统将不能选择日期。填写完成后会获得一组 QR Code，入境时需出示给海关人员扫描。
+eVoA 必须在出发前先在[印尼官方网站](https://evisa.imigrasi.go.id/)申请，通常马上就能核发。该签证自核发日（issue date）起算，**有效期限为 90 天**，但需特别注意：**你必须在这 90 天内完成入境与离境手续**，不可逾期停留。
 
-建议可于搭机前2至3天填写，避免因忘记或其他问题影响入境流程。
+建议申请时间为出发前 1 周内，既可确保处理时间，也避免太早申请而错过使用期限。
 
-**快速参考：**[【2025最新】如何填写峇里岛电子海关申报表？电子报关单eCD完整流程教你轻松入境](/blog/bali-e-customs-declaration/)
-
----
-
-## 健康声明（SSHP）：入境前3天内如实填写
-
-[SSHP（Surat Sektor Health Protocol）](https://sshp.kemkes.go.id/)是印尼针对公共卫生设立的健康声明，内容包含过去21天是否出现症状（如咳嗽、发烧）、是否接触过确诊者，以及个人健康状态等。
-
-这份声明需于**入境前3天内**完成填写，并如实提供信息。虽然目前多数机场已不强制查验体温或健康证明，但该表格可能在疫情变动或特殊情况下被重新检查。
-
-建议将填妥后的 SSHP 存为 PDF 或截图保留，以备不时之需。
-
-**快速参考：**[印尼/峇里岛入境新规：搭机前必填健康声明表SSHP/填写教学](/blog/2024-08-30-66d109f9fd89780001f47806/)
+**快速参考：**[2025 最新版印尼/Bali 入境签证 & 电子签证 eVoA 填写相关 FAQ](/blog/indonesia-bali-visa-evoa-faq/)
 
 ---
 
-## 观光税（Tourist Levy）：入境前缴纳，单次有效
+## eCD (Electronic Customs Declaration): Isi 3 Hari Sebelum Berangkat
 
-Mulai tahun 2024, semua wisatawan internasional yang datang ke Bali (khusus Bali) wajib membayar Pajak Wisata (Tourist Levy). Biaya ini adalah [biaya administrasi yang dipungut pemerintah Indonesia untuk meningkatkan lingkungan pariwisata setempat](https://lovebali.baliprov.go.id/).
+eCD (Electronic Customs Declaration) adalah [formulir deklarasi bea cukai online resmi Indonesia](https://ecd.beacukai.go.id/). Semua penumpang, baik yang membawa barang untuk dideklarasikan atau tidak, wajib mengisinya. Formulir ini mencakup pertanyaan tentang apakah kamu membawa mata uang asing, hewan/tumbuhan, minuman beralkohol, rokok, atau barang lain yang perlu dideklarasikan.
 
-Biayanya sebesar **150.000 Rupiah (sekitar USD$5)**, setelah bayar kamu bakal dapet QR Code yang harus dipindai saat masuk. **Setiap kali masuk wajib bayar lagi, cuma berlaku sekali pakai.**
+Aturan pengisiannya cukup jelas: hanya bisa diisi **dalam 3 hari sebelum keberangkatan**. Kalau diisi terlalu awal, sistem tidak akan mengizinkan pemilihan tanggal. Setelah selesai, kamu akan mendapatkan QR Code yang harus dipindai petugas bea cukai saat masuk.
 
-Saran sih selesaiin seminggu sebelum berangkat, biar nggak ribet di bandara dan ganggu jadwal liburan.
+Saran: isi 2–3 hari sebelum penerbangan, biar nggak lupa atau kena masalah lain yang bisa bikin proses imigrasi jadi ribet.
 
-**Referensi cepat:** [Panduan Lengkap Pajak Wisata/Tourist Levy Bali: Aturan Baru 2024, Cara Bayar, dan Tips Antar-Pulau](/blog/2026-bali-tourism-tax-guide/)
+**Referensi cepat:** [【Terbaru 2025】Cara Isi eCD Bali? Panduan Lengkap eCD Biar Masuk Bali Lancar Jaya](/blog/bali-e-customs-declaration/)
 
 ---
 
-## Tabel Jadwal Pengurusan Empat Dokumen Penting
+## SSHP (Surat Sektor Health Protocol): Isi Jujur 3 Hari Sebelum Masuk
+
+[SSHP (Surat Sektor Health Protocol)](https://sshp.kemkes.go.id/) adalah deklarasi kesehatan resmi Indonesia yang berisi pertanyaan soal gejala (misal batuk, demam) dalam 21 hari terakhir, kontak dengan pasien COVID-19, dan kondisi kesehatan pribadi.
+
+Formulir ini harus diisi **dalam 3 hari sebelum masuk Indonesia**, dan informasinya harus jujur. Meski sekarang di banyak bandara pemeriksaan suhu atau bukti kesehatan nggak terlalu ketat, formulir ini bisa dicek lagi kalau situasi pandemi berubah atau ada kondisi khusus.
+
+Saran: simpan SSHP yang sudah diisi sebagai PDF atau screenshot, buat jaga-jaga.
+
+**Referensi cepat:** [Aturan Baru Masuk Indonesia/Bali: Wajib Isi SSHP Sebelum Naik Pesawat / Panduan Isi](/blog/2024-08-30-66d109f9fd89780001f47806/)
+
+---
+
+## Pajak Wisata (Tourist Levy): Bayar Sebelum Masuk, Berlaku Sekali
+
+Mulai tahun 2024, semua wisatawan internasional yang datang ke Bali (khusus Bali) wajib membayar Pajak Wisata (Tourist Levy). Biaya ini adalah [biaya manajemen yang dikenakan oleh pemerintah Indonesia untuk meningkatkan lingkungan wisata setempat](https://lovebali.baliprov.go.id/).
+
+Biayanya **150.000 IDR (sekitar USD$5)**, setelah bayar kamu akan dapat QR Code yang harus dipindai saat masuk. **Setiap kali masuk wajib bayar lagi, hanya berlaku sekali.**
+
+Disarankan selesai seminggu sebelum berangkat, biar nggak ribet di bandara dan ganggu jadwal.
+
+**Referensi cepat:** [Panduan Lengkap Pajak Wisata/Turis Bali: Aturan Baru 2024, Cara Bayar, & Tips Antar-Pulau](/blog/2026-bali-tourism-tax-guide/)
+
+---
+
+## Timeline Pengurusan Empat Dokumen Utama
 
 ![健康聲明SSHP已改為只能在抵達前3天申請/填寫](https://images.gobaligo.id/vocus/vocus_b7b209cc4f0886632f1d785544aa1bc4.png)
 
-SSHP (Surat Keterangan Sehat) udah berubah jadi cuma bisa diajukan/diisi 3 hari sebelum kedatangan
+SSHP (Surat Keterangan Sehat) sekarang hanya bisa diajukan/diisi maksimal 3 hari sebelum kedatangan.
 
 ---
 
-## FAQ (Pertanyaan yang Sering Ditanyakan)
+## FAQ (Pertanyaan Umum)
 
-**Q1: Kalau nggak punya eVoA, bisa minta Visa on Arrival di bandara?**
+**Q1: Kalau nggak punya eVoA, bisa bikin di bandara?**
 
-A: Saran sih urus visa online dari rumah. Kamu bisa minta Visa on Arrival di bandara, tapi prosesnya lebih lambat, antreannya panjang, dan nggak dijamin langsung keluar.
+A: Sebaiknya urus visa online dari jauh-jauh hari. Kamu memang bisa bikin visa on arrival di bandara, tapi prosesnya lebih lambat, antreannya panjang, dan nggak dijamin langsung keluar.
 
-**Q2: Apakah formulir eCD (Customs Declaration) perlu dicetak?**
+**Q2: Apakah eCD (Customs Declaration) perlu dicetak?**
 
-A: Nggak perlu print, setelah diisi kamu bakal dapet QR Code, tinggal tunjukin HP buat discan.
+A: Nggak perlu dicetak, kok. Setelah selesai diisi, kamu bakal dapet QR Code — tinggal tunjukin dari HP aja buat discan.
 
-**Q3: Apakah SSHP (Surat Keterangan Sehat) bakal ngecek suhu badan atau bukti vaksin?**
+**Q3: Apakah SSHP (Health Declaration) bakal ngecek suhu tubuh atau bukti vaksin?**
 
-A: Sekarang di banyak tempat sih nggak wajib cek suhu & bukti vaksin, tapi di formulir tetep harus isi info kesehatan. Saran sih isi jujur aja dan simpan buktinya.
+A: Sekarang di banyak kasus, suhu tubuh dan bukti vaksin nggak diperiksa secara wajib. Tapi di formulir tetap harus isi info kesehatan — saran sih isi jujur dan simpan buktinya.
 
-**Q4: Pajak turis bisa bayar di tempat nggak?**
+**Q4: Apakah pajak turis bisa dibayar langsung di tempat?**
 
-A: Di bandara internasional Bali ada loket pembayaran, tapi bayar online lebih cepet & praktis, nggak perlu antre lama.
+A: Di Bandara Internasional Bali ada loket pembayaran, tapi bayar online lebih cepat dan praktis — nggak perlu antre dan ngabisin waktu.
 
-**Q5: Setiap kali masuk Bali harus bayar pajak turis lagi?**
+**Q5: Apakah setiap kali masuk Bali harus bayar pajak turis?**
 
-A: Iya, pajak turis ini dibayar setiap kali masuk, bukan berlaku untuk beberapa kali kunjungan.
+A: Iya. Pajak turis ini dibayar setiap kali masuk — bukan tiket multi-entry, jadi nggak bisa dipakai berulang.
 
 ---
 
-## Tips Penting
+## Tips Kecil
 
-Sebelum berangkat ke Indonesia atau Bali, siapin dokumen ini dan pastikan udah lengkap:
+Sebelum berangkat ke Indonesia atau Bali, siapin dokumen-dokumen ini dan pastikan semuanya udah beres:
 
-- Dokumen izin e-Visa on Arrival (eVoA)
-- QR Code e-CD (Customs Declaration)
-- Screenshot atau PDF SSHP (Surat Keterangan Sehat)
-- Bukti bayar pajak turis & QR Code (khusus masuk Bali)
+- Dokumen persetujuan e-Visa eVoA
+- QR Code eCD (Customs Declaration)
+- Screenshot atau PDF pengisian SSHP (Health Declaration)
+- Bukti pembayaran pajak turis beserta QR Code (hanya diperlukan saat masuk Bali)
 - Tiket pesawat pulang
-- Asuransi perjalanan (tergantung maskapai atau syarat masuk)
+- Asuransi perjalanan (tergantung maskapai atau persyaratan imigrasi)
 
-Kalau dokumen lengkap, masuk imigrasi bakal lancar jaya, tinggal nikmatin liburan di pulau tropis!
+Kalau dokumennya lengkap, masuk ke Bali bakal cepat dan gampang, kamu bisa santai menikmati liburan di pulau tropis ini!
 
 ---
