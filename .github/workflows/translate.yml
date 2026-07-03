@@ -180,7 +180,7 @@ jobs:
             node scripts/translate.mjs
           fi
 
-      - name: Commit 翻譯結果
+      - name: 驗證並 Commit 翻譯結果
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -191,8 +191,27 @@ jobs:
           git add src/content/blocks/zh-cn/ || true
           git add src/content/blocks/en/ || true
           git add src/content/blocks/id/ || true
+
+          # ── push 前最後防線：驗證 frontmatter，剔除畸形檔案（絕不 push 弄掛 build 的內容）──
+          # 對付翻譯 API 偶發的畸形回傳（如 title 被寫成 object）。壞檔剔除、好檔照常 push。
+          STAGED=$(git diff --cached --name-only)
+          if [ -n "$STAGED" ]; then
+            BAD=$(printf '%s\n' "$STAGED" | node scripts/validate-translations.mjs) || true
+            if [ -n "$BAD" ]; then
+              echo "::warning::翻譯 frontmatter 驗證發現畸形檔案，已剔除不 push："
+              printf '%s\n' "$BAD"
+              printf '%s\n' "$BAD" | while IFS= read -r f; do
+                [ -z "$f" ] && continue
+                git restore --staged -- "$f" 2>/dev/null || true
+                git checkout HEAD -- "$f" 2>/dev/null || rm -f "$f"  # 修改檔還原、新檔刪除
+              done
+            else
+              echo "✅ 翻譯 frontmatter 驗證通過"
+            fi
+          fi
+
           if git diff --cached --quiet; then
-            echo "沒有新翻譯，跳過 commit"
+            echo "沒有可提交的翻譯，跳過 commit"
           else
             COUNT=$(git diff --cached --name-only | wc -l)
             git commit -m "chore: 自動翻譯 ${COUNT} 篇文章"
