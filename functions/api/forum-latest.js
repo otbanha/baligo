@@ -32,8 +32,13 @@ export async function onRequestGet() {
 
     const topics = [];
     const seenTitles = new Set();
-    let match;
-    while ((match = ENTRY_RE.exec(xml)) && topics.length < 6) {
+    // Use matchAll (not ENTRY_RE.exec in a loop): matchAll clones the regex
+    // internally, so the module-level ENTRY_RE.lastIndex is never mutated.
+    // Sharing a stateful /g regex across Worker requests (same reused isolate)
+    // would leave lastIndex mid-feed after the early break and make the next
+    // request parse only the tail — returning fewer than 6 topics.
+    for (const match of xml.matchAll(ENTRY_RE)) {
+      if (topics.length >= 6) break;
       const url = match[1];
       const title = toTopicTitle(match[2]);
       if (seenTitles.has(title)) continue;
