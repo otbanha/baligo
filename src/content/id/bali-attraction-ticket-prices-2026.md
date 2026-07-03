@@ -32,7 +32,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: e1badc720630f534adb0df6d33932b75
+_srcHash: 152511bc4a8efb4936e31dc8d1d2ac98
 ---
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775747995914-24dd9e26-f35c-4ac7-8699-d9f3e7d1a2a6.jpg)
@@ -41,7 +41,7 @@ Buat kamu yang mau ke **Bali**, catat ya! Kalau lagi rencanain trip setelah Apri
 
 Kenaikan ini terutama buat ngimbangin biaya perawatan tempat wisata yang makin besar, sekaligus ningkatin kualitas layanan & fasilitas buat pengunjung.
 
-### 📌 Tabel perbandingan harga tiket tempat wisata populer sebelum & sesudah naik
+## 📌 Tabel perbandingan harga tiket tempat wisata populer sebelum & sesudah naik
 
 Ini dia perubahan harga beberapa tempat yang paling terdampak & paling sering dikunjungi turis (pakai **harga tiket dewasa asing**):
 
@@ -55,7 +55,7 @@ Ini dia perubahan harga beberapa tempat yang paling terdampak & paling sering di
 
 ***
 
-### 💡 Tips jalan-jalan: Gimana cara hadapi kenaikan harga?
+## 💡 Tips jalan-jalan: Gimana cara hadapi kenaikan harga?
 
 1. **Pembayaran digital lebih praktis**: Sekarang banyak tempat wisata populer (kayak Monkey Forest Ubud) udah dukung penuh **kartu kredit Visa/MasterCard** sama **QRIS**. Saran bawa kartu kredit dengan cashback luar negeri yang tinggi, biar nggak perlu bawa uang tunai banyak.
 2. **Hindari keramaian akhir pekan**: Meski tiket naik, pengalaman jangan sampai berkurang. Saran masuk Monkey Forest jam 9:00 pagi pas buka, biar nggak kejebak rombongan turis siang hari, dapet spot foto yang lebih oke.

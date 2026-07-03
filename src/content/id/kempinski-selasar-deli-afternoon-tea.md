@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bdbf1e9814d60a19a2a11d07a7609ac5.jpg'
 originalUrl: 'https://vocus.cc/article/6832c6c0fd897800014776ba'
 lang: id
-_srcHash: 1e857fc84a61fc962717cb93f690669c
+_srcHash: 1936005d8006f032aa7f2ce02cee91a4
 ---
 
 Sinar matahari sore menyapu lembut garis pantai Nusa Dua, Bali. Kami tiba di **Kempinski Hotel (The Apurva Kempinski Bali)**. Resort mewah yang dibangun di lereng bukit ini langsung menyuguhkan aura luar biasa dari pintu masuk—struktur kayu menjulang, ukiran Bali yang detail, kolam pusat dengan ikan koi berenang santai, anak-anak antusias mengelilinginya, seluruh ruangan dipenuhi suasana liburan yang santai.
@@ -37,7 +37,7 @@ Sinar matahari sore menyapu lembut garis pantai Nusa Dua, Bali. Kami tiba di **K
 
 Pikiran itu yang bikin kami meluncur ke tempat yang bukan cuma jadi spot hits IG, tapi juga terkenal sebagai 'high tea terindah di Bali'.
 
-### **Kejutan Duduk: Kursi Pemandangan Laut Tergantung Keberuntungan?**
+## **Kejutan Duduk: Kursi Pemandangan Laut Tergantung Keberuntungan?**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0aba435d4a72f0834a51addd13688a0b.jpg)
 
@@ -58,7 +58,7 @@ Awalnya dapat tempat duduk di dalam, tapi kami minta pindah ke **area teras**, d
 - **Tidak bisa dijamin** dapat tempat duduk dengan pemandangan laut, terutama saat musim ramai atau hari acara khusus (seperti resepsi pernikahan) — kursi bisa diubah sewaktu-waktu
 - Kalau ada perubahan acara, hotel **tidak memberikan kompensasi**, jadi saran sih jaga jadwal tetap fleksibel
 
-### **Sesi Teh Sore: Nikmatnya Beda di Hari Biasa vs Akhir Pekan**
+## **Sesi Teh Sore: Nikmatnya Beda di Hari Biasa vs Akhir Pekan**
 
 Kami **booking lewat Klook** untuk teh sore hari Jumat, dapat harga promo **USD$24**
 
@@ -79,7 +79,7 @@ Lebih dari 20 macam kue pilih sesuka hati, rekomendasi: ✅ Gurih: Sandwich truf
 
 Pelayan **Christiani** super perhatian — pas lihat kami foto-foto, dia inisiatif bantu cari angle, bahkan kasih bonus satu kue andalan!
 
-### **Hotel Adventure: Kemewahan di Tebing**
+## **Hotel Adventure: Kemewahan di Tebing**
 
 Setelah minum teh sore, naik lift turun **puluhan lantai** langsung ke area pantai. Dengan pemesanan via Kloop, kamu bisa:
 
@@ -89,7 +89,7 @@ Setelah minum teh sore, naik lift turun **puluhan lantai** langsung ke area pant
 
 Kami rebahan di daybed pinggir kolam, lihat matahari terbenam yang bikin langit jadi ungu-pink, rasanya ogah banget pergi...
 
-### **Kenapa Worth It?**
+## **Kenapa Worth It?**
 
 1️⃣ **Value for Money Banget**: Kloop lebih murah dari pesan langsung, udah termasuk akses pantai
 

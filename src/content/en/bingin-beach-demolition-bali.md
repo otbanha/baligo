@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/687ee2c2fd89780001d111bf'
 category:
   - 旅行技巧
 lang: en
-_srcHash: ffef268a76e5e3b5a334c9bf051ed793
+_srcHash: 7575875190e2340bdecc1f4400e93e02
 ---
 
 Bali's Uluwatu Bingin Beach, a favorite among tourists and surfers, is set for major changes. The government announced that over 40 structures in the area, due to illegal land occupation and violation of spatial planning regulations, will be forcibly demolished starting July 21, 2025.
@@ -45,7 +45,7 @@ Currently, 45 structures including guesthouses, restaurants, tourist facilities,
 
 ---
 
-### If you're looking for more hidden beaches and want to know more about Uluwatu's food and entertainment scene:
+## If you're looking for more hidden beaches and want to know more about Uluwatu's food and entertainment scene:
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
@@ -53,7 +53,7 @@ Uluwatu is one of Bali's most popular southern regions, famous for its breathtak
 
 ---
 
-### Frequently Asked Questions (FAQ):
+## Frequently Asked Questions (FAQ):
 
 1. **Why is the government demolishing buildings at Bingin Beach?**  
    The government states that these buildings violate spatial planning laws and land use regulations, with some illegally occupying state-owned land, hence the enforcement of demolition.

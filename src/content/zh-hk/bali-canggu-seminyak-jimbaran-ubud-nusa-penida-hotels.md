@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_614219514932eccd7b9734f03b4e05d8.jpg'
 originalUrl: 'https://vocus.cc/article/65fff19efd897800017026b5'
 lang: zh-hk
-_srcHash: bfcbe9f2d22dd7b8ff7fc435bf3eb353
+_srcHash: f1f1fcb4a5fce1d821083bf0cba16bfa
 ---
 峇里島以其迷人嘅自然景致、豐富嘅文化內涵而聞名，每年吸引無數遊客到訪。呢個印尼著名旅遊勝地嘅住宿選擇都相當多元化，由豪華度假村到經濟實惠嘅小旅館應有盡有，無論你係追求奢華體驗定係簡單實惠嘅住宿，喺峇里島都搵到合適嘅選擇。
 
@@ -35,19 +35,19 @@ https://youtu.be/xcz9XkBdwbs?si=h09QPI8MrC_V1ccT
 
 根據影片內容，Camilla Johannesen 介紹咗以下住宿選擇：
 
-### 奢華住宿：
+## 奢華住宿：
 
 1. [Nanuku House 空房、房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47148081) (坎古)
 2. [Ayana Resort 渡假村介紹、訂房](/blog/ayana-resort-bali-guide/) (金巴蘭)
 
-### 中高價位住宿：
+## 中高價位住宿：
 
 3. Villa Yapoon (烏布)
 4. Bhumian Ri Retreat Center (烏布)
 5. Charming Sea Lovely (努沙杜瓦)
 6. [Vince Sky Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=621667) (水明漾)
 
-### 經濟實惠住宿：
+## 經濟實惠住宿：
 
 7. [Anjin Sapoy](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=239609) (坎古)
 8. [Evitel Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=957047) (烏布)

@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d9034b3eade783ad2a93a96720a8df57.jpg'
 originalUrl: 'https://vocus.cc/article/69aa4faefd897800016bbeda'
 lang: zh-hk
-_srcHash: b12362af44c382d5350a6b477f9935c7
+_srcHash: 6f4d356ff73058914e79b4017633c5db
 ---
 
 如果你正在搵 **峇里島五星酒店優惠**，最近出現咗個相當吸引嘅優惠方案。
@@ -93,7 +93,7 @@ The Apurva Kempinski Bali 可以話係近幾年峇里島討論度非常高嘅五
 
 > [峇里島凱賓斯基 The Apurva Kempinski Bali 榮獲 2024「最佳永續酒店」殊榮](/blog/apurva-kempinski-sustainability-award/)
 
-### 1️⃣ 峇里島最壯觀酒店建築之一
+## 1️⃣ 峇里島最壯觀酒店建築之一
 
 酒店入口嘅巨型階梯同水景設計非常震撼，唔少旅客第一次行入大堂都會有「似皇宮咁」嘅感覺。
 
@@ -105,11 +105,11 @@ The Apurva Kempinski Bali 可以話係近幾年峇里島討論度非常高嘅五
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_48c7cc7bc07742ffc352eadce74c52a1.jpg)
 
-### 2️⃣ 努沙杜瓦懸崖海景
+## 2️⃣ 努沙杜瓦懸崖海景
 
 酒店起喺高地，可以俯瞰印度洋海景，日落時段特別靚。
 
-### 3️⃣ 房型選擇好多
+## 3️⃣ 房型選擇好多
 
 除咗基本豪華房之外，仲有泳池房同 Villa，適合情侶、蜜月同家庭旅行。
 

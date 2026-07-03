@@ -19,14 +19,14 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_30f01426172989946dc54a0cffac4376.jpg'
 originalUrl: 'https://vocus.cc/article/64e730ddfd89780001336a09'
 lang: id
-_srcHash: d773bf808988acef8b4c86d5fe0f068c
+_srcHash: ba688ce39a021767482ed9c066a66967
 ---
 
 **Di Indonesia/Bali, kamu sering lihat angka yang diikuti huruf K. Itu maksudnya apa sih?**
 
 Bali, surga Indonesia yang indah banget, selalu menarik wisatawan dari seluruh dunia. Di pulau cantik ini, selain pemandangan alam dan warisan budaya yang bikin takjub, kamu bakal nemuin kebiasaan unik soal harga — angka nominal sering diikuti huruf 'K'. Artikel ini bakal jelasin arti kebiasaan ini dan kenapa penting banget paham format harga pas liburan di Bali.
 
-### **Pahami Formatnya**
+## **Pahami Formatnya**
 
 Huruf 'K' itu sebenarnya singkatan dari 'ribu' (kilo). Jadi di harga, 'K' berarti seribu. Pas kamu lihat harga pakai 'K' di Bali, artinya nominal udah diringkas biar angka ribuan ke atas lebih gampang dibaca. Contohnya, 200K artinya 200.000 Rupiah, dan 80K berarti 80.000 Rupiah.
 
@@ -36,7 +36,7 @@ Penting banget buat paham format ini pas belanja. Ini bakal bantu kamu ngitung d
 
 Nominal uang kertas Rupiah
 
-### **Gimana Biaya Hidup di Indonesia/Bali?**
+## **Gimana Biaya Hidup di Indonesia/Bali?**
 
 Di Indonesia atau Bali, ada beberapa pengeluaran umum yang sering kamu temui. Nih contohnya:
 
@@ -49,7 +49,7 @@ Di Indonesia atau Bali, ada beberapa pengeluaran umum yang sering kamu temui. Ni
 
 > Lihat [Panduan Sopir Pribadi Bali](https://gobaligo.id/blog/bali-private-car-drivers-guide/) kami
 
-### **Mengelola Pengeluaran**
+## **Mengelola Pengeluaran**
 
 Biar lebih terkontrol pengeluaran kamu di Bali, ini beberapa tips:
 

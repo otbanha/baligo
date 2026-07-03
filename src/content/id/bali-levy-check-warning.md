@@ -31,10 +31,10 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 3d880d6246716657a2c436d9bf456a08
+_srcHash: b990c42a4bebccee1c5261ccbc3f22a7
 ---
 
-### 🗞️ Pemeriksaan Pajak Wisata 'Pintu Kedua' Resmi Berlaku
+## 🗞️ Pemeriksaan Pajak Wisata 'Pintu Kedua' Resmi Berlaku
 
 Seiring kebijakan pariwisata berkualitas tinggi 2026, **Bandara Internasional I Gusti Ngurah Rai (DPS)** udah beralih dari 'lapor diri' ke 'cek menyeluruh' buat **Pajak Wisata Rp150.000 (Tourism Levy)**. Mulai hari ini, 'pintu kedua' resmi dipasang — bikin kabur bayar pajak jadi mustahil:
 
@@ -47,7 +47,7 @@ Seiring kebijakan pariwisata berkualitas tinggi 2026, **Bandara Internasional I 
 
 ***
 
-### 📄 Yang Paling Ditanyain Wisatawan: Gimana Biar Nggak Kena Masalah?
+## 📄 Yang Paling Ditanyain Wisatawan: Gimana Biar Nggak Kena Masalah?
 
 - **Download Bukti dari Rumah**: Wi-Fi bandara itu suka lemot pas lagi rame. Saran banget, dari negara asal kamu udah **download PDF Love Bali** atau **screenshot QR Code** terus simpen di galeri HP. Atau langsung aja **tautin ke All Indonesia App**.
 - **Risiko Bayar Dua Kali**: Kalau selama di Bali kamu nyebrang ke Nusa Lembongan atau Nusa Penida terus balik lagi ke pulau utama, **nggak perlu bayar lagi**. Tapi jangan lupa simpen QR Code asli buat diperiksa petugas di dermaga atau kapal.

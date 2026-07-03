@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7621e66d231e7fe9037030687a8b8224.jpg'
 originalUrl: 'https://vocus.cc/article/684569f0fd89780001f24ef9'
 lang: zh-cn
-_srcHash: 233bc6fc9c2adb6c23f6933da4c81f62
+_srcHash: ea81d57c7d96e1e0f4b47860a06c0fc2
 ---
 
 这次的巴厘岛之行，最让我难忘的莫过于在Marine Safari Bali体验的《Varuna Show》了！这个结合魔幻、灯光与特技的水下剧场，完全颠覆了我对海洋公园表演的想象。
@@ -32,7 +32,7 @@ _srcHash: 233bc6fc9c2adb6c23f6933da4c81f62
 
 2025年开幕即轰动，印尼的时代杂志也介绍过
 
-### 🚗 交通与入园
+## 🚗 交通与入园
 
 位于Gianyar的Marine Safari Bali旁边就是有名的 Bali Safari Park，现在两个园区一起叫做「[Bali Safari and Marine Park](https://www.balisafarimarinepark.com/)」，也就是官方说的「一个目的地，两个世界」
 
@@ -40,13 +40,13 @@ _srcHash: 233bc6fc9c2adb6c23f6933da4c81f62
 
 由于位置不是在闹区，建议大家包车前往。园区比想象中更大，一进门就被热带风情的造景和欢乐的气氛感染。我们提前在Klook购买了[Day Varuna Premium套票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)，虽然价格不菲，但绝对物超所值！
 
-### 🍽 海底主题餐厅的惊喜
+## 🍽 海底主题餐厅的惊喜
 
 套票包含的午餐是在一个精心设计的「海底世界」主题餐厅享用。整个餐厅以蓝色调为主，墙面装饰着珊瑚、海草等海洋元素，搭配特殊灯光效果，让人仿佛置身海底宫殿。餐点是精致的西式套餐，特别推荐他们的巴厘岛特色饮品，孩子们对造型可爱的甜点也爱不释手。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_dde920a2ff3ff6a19c243c058206babf.jpg)
 
-### 🎭 Varuna Show 震撼登场
+## 🎭 Varuna Show 震撼登场
 
 我们的Premium座位位于中央区域，视野极佳。当灯光暗下，整个剧场瞬间变身成一个巨大的水下世界。
 
@@ -63,11 +63,11 @@ _srcHash: 233bc6fc9c2adb6c23f6933da4c81f62
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_71a7166954f577ff3a806abb0a4bff99.jpg)
 
-### 📸 与演员合影
+## 📸 与演员合影
 
 表演结束后，工作人员引导我们到拍照区。孩子们兴奋地和穿着华丽戏服的演员合影，这些照片成为我们此行最珍贵的纪念品之一。
 
-### 🐬 其他精彩活动
+## 🐬 其他精彩活动
 
 看完Varuna Show后，我们还体验了包含在Premium套票里的：
 
@@ -80,7 +80,7 @@ _srcHash: 233bc6fc9c2adb6c23f6933da4c81f62
 
 **快速参考：**[【巴厘岛亲子旅游景点海洋公园】Marine Safari Bali 巴厘岛海洋野生动物园攻略](/blog/marine-safari-bali-guide/)
 
-### 💡 实用建议
+## 💡 实用建议
 
 1. [在Klook购买Varuna Show](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)，已包含入园门票
 2. Premium座位值得投资，观赏体验提升很多，餐点很不错，包含在套票里的表演/体验也够多
@@ -102,7 +102,7 @@ Premium票的观赏位置最好
 
 {{block:ubud}}
 
-### 参观完后，可顺路探索周边景点，延伸您的巴厘自然之旅：
+## 参观完后，可顺路探索周边景点，延伸您的巴厘自然之旅：
 
 - 🐘 **巴厘动物园（Bali Zoo）**：提供贴近自然的动物观赏体验，汇集了来自印尼及世界各地的多种生物，适合家庭一日游（[Klook优惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1148651&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F1240-bali-zoo-ticket%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D43e2032265)）
 - 🦁 **巴厘野生动物与海洋公园（Bali Safari & Marine Park）**：

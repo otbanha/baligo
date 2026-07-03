@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_738b83ec54d9ede94e81c6bed3827e2c.jpg'
 originalUrl: 'https://vocus.cc/article/69001b40fd8978000163d378'
 lang: en
-_srcHash: 7d18242a27749b642fa4986f6ff9af85
+_srcHash: 75e00677b98bef4ba1ad994ae54bbdd0
 ---
 
 When it comes to the soul of Bali, **Ubud** is undoubtedly an unmissable cultural hub. Beyond its rice terraces, yoga, and artistic atmosphere, the Ubud Market is a place where every traveler lingers. Filled with handicrafts and local artworks, it’s impossible not to marvel at the Balinese love for detail and creativity as you wander through. Today, let’s explore what you should buy at the Ubud Market! 🌿
@@ -18,7 +18,7 @@ When it comes to the soul of Bali, **Ubud** is undoubtedly an unmissable cultura
 
 ***
 
-### 🧶1. Handmade Textiles
+## 🧶1. Handmade Textiles
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_218f0d194c432ade542611ace179bde4.jpg)
 
@@ -26,7 +26,7 @@ At the Ubud Market, you’ll undoubtedly be drawn to a traditional Balinese fabr
 
 ***
 
-### 🧣2. Sarong: A Versatile and Culturally Rich Fabric
+## 🧣2. Sarong: A Versatile and Culturally Rich Fabric
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_37f79c58c6862ad429cb1e686e6615f4.png)
 
@@ -42,7 +42,7 @@ Some sarongs are made using the traditional **Batik technique**, with colors and
 
 ***
 
-### 👕3. Bali-Themed T-shirts
+## 👕3. Bali-Themed T-shirts
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4c17893fefca873287d8967a8fb63949.jpg)
 
@@ -50,7 +50,7 @@ Everywhere in the Ubud Market, you’ll find T-shirts printed with **"Bali" or B
 
 ***
 
-### 🪵4. Wooden Carvings: Lifelike Traditional Art
+## 🪵4. Wooden Carvings: Lifelike Traditional Art
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2dbb0b57c27c67f42d3c1f9bd259fb9c.jpg)
 
@@ -66,7 +66,7 @@ Visitors can even sign up for wood carving workshops to create their own souveni
 
 ***
 
-### 🎨5. Local Paintings
+## 🎨5. Local Paintings
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_dbe855a474b5a5cf9786d05e24c820b6.png)
 
@@ -74,7 +74,7 @@ Ubud has long been a gathering place for artists. In the markets, you can find m
 
 ***
 
-### 💍6. Handmade Jewelry
+## 💍6. Handmade Jewelry
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_72b61db47b0441a0b11437e94330ad1d.png)
 
@@ -84,7 +84,7 @@ Bali's silver craftsmanship is equally famous, especially in Ubud's markets wher
 
 ***
 
-### 🧺7. Balinese Handicrafts
+## 🧺7. Balinese Handicrafts
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_45771c55bc31c1317e3fea935860e721.png)
 
@@ -92,7 +92,7 @@ Beyond fabrics and accessories, Ubud Market offers a wide array of **bamboo and 
 
 ***
 
-### 🏡8. Exotic Home Decor
+## 🏡8. Exotic Home Decor
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_aef6507b2d960d9de93bb987f44150e2.png)
 
@@ -100,7 +100,7 @@ Ubud Market is also a treasure trove for unique home decor items. You'll find a 
 
 ***
 
-### 🎁9. Compact Souvenirs: Classic Choices for Gifting and Collecting
+## 🎁9. Compact Souvenirs: Classic Choices for Gifting and Collecting
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1b64458b40cb2a01da5bf20f8d3fb7c8.png)
 
@@ -123,7 +123,7 @@ These items are not only affordable and widely available at various art markets 
 
 ***
 
-### ✨Tips
+## ✨Tips
 
 As most items at Ubud Market are handmade, **bargaining is an integral part of the local shopping culture**. Remember to negotiate with a smile and a relaxed attitude—it's one of the most enjoyable interactions during your travels.
 

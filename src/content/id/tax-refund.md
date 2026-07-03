@@ -29,12 +29,12 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 433e87f0b2b153e3213241eb39a4adcf
+_srcHash: bd8a8e10f7693d7907305de5db1ab056
 ---
 
 Pemerintah Indonesia punya program 'Tax Refund for Tourists' yang ngasih kesempatan turis asing buat dapetin kembali Pajak Pertambahan Nilai (PPN, saat ini sekitar 11-12%) dari barang yang dibeli. Ini dia aturan resmi terbaru (dari Direktorat Jenderal Pajak pajak.go.id, berlaku 2026), khususnya buat belanja di Bali.
 
-### 1. **Siapa yang Berhak Dapet Refund?**
+## 1. **Siapa yang Berhak Dapet Refund?**
 
 - Punya paspor asing (bukan warga negara Indonesia atau penduduk tetap).
 - Lama tinggal di Indonesia **tidak lebih dari 60 hari** (dihitung dari hari masuk).
@@ -44,7 +44,7 @@ Pemerintah Indonesia punya program 'Tax Refund for Tourists' yang ngasih kesempa
 
 **Catatan**: Pajak turis asing di Bali (IDR 150,000) itu pajak masuk, **nggak bisa direfund**, beda banget sama refund belanja.
 
-### 2. **Apa yang Perlu Diperhatikan Waktu Belanja?**
+## 2. **Apa yang Perlu Diperhatikan Waktu Belanja?**
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776321690797-untitled_design_24_.webp)
 
@@ -57,7 +57,7 @@ Pemerintah Indonesia punya program 'Tax Refund for Tourists' yang ngasih kesempa
 
 **Tips**: Nggak semua toko punya logo, mending tanya dulu ke kasir atau cek daftar toko resmi di [www.pajak.go.id](http://www.pajak.go.id).
 
-### 3. **Prosedur Refund (Cara Paling Umum di Bali)**
+## 3. **Prosedur Refund (Cara Paling Umum di Bali)**
 
 1. **Setelah selesai belanja**: kumpulin semua faktur pajak.
 
@@ -70,13 +70,13 @@ Pemerintah Indonesia punya program 'Tax Refund for Tourists' yang ngasih kesempa
 
 **Saran**: sisihin waktu minimal 30-60 menit buat urus ini, mending selesaiin setelah check-in tapi sebelum security check. Pas jam sibuk banyak orang, jadi datang lebih awal ke bandara.
 
-### 4. **Cara Refund & Batas Jumlah**
+## 4. **Cara Refund & Batas Jumlah**
 
 - **Refund tunai** (Rupiah IDR): kalau total refund **≤ Rp 5.000.000**, bisa langsung ambil tunai di bandara.
 - **Lebih dari Rp 5.000.000**: harus transfer bank (kasih nomor rekening luar negeri, nama pemilik, SWIFT Code, dll), masuk dalam 1 bulan; atau pilih ambil tunai Rp 5.000.000 aja, sisanya dianggap gugur.
 - Jumlah refund = bagian VAT di faktur (mungkin dikurangi biaya admin kecil).
 
-### 5. **Barang yang Gak Bisa Direfund**
+## 5. **Barang yang Gak Bisa Direfund**
 
 {{block:klook}}
 
@@ -86,7 +86,7 @@ Pemerintah Indonesia punya program 'Tax Refund for Tourists' yang ngasih kesempa
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776321764381-vat_refund_11zon.jpeg)
 
-### 6. **Tips Praktis (Wajib Tahu buat yang Belanja di Bali)**
+## 6. **Tips Praktis (Wajib Tahu buat yang Belanja di Bali)**
 
 ▲ Konter refund di bandara
 

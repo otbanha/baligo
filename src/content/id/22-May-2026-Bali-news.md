@@ -19,17 +19,17 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: db0a951ede4ee0173906e3084327761e
+_srcHash: e851e5feef6bef11fd8d1f7dcd8e2d10
 ---
 
-### 🗞️ Sorotan Hari Ini: Kebangkitan Kuat Event Internasional & Pariwisata Rendah Karbon
+## 🗞️ Sorotan Hari Ini: Kebangkitan Kuat Event Internasional & Pariwisata Rendah Karbon
 
 - **「Oceanman Bali 2026」Kejuaraan Renang Perairan Terbuka Dunia Resmi Kembali** :
 Setelah vakum dua tahun, **Oceanman Bali 2026**, kejuaraan renang perairan terbuka internasional yang dinanti-nanti para pecinta olahraga air global, resmi digelar pada **19-21 Juni** di Pantai Kedonganan, Jimbaran. Mengusung tema "Waves of Change", event ini berhasil menarik lebih dari 900 atlet top dan penggemar dari 27 negara dan wilayah, termasuk Indonesia, Malaysia, Australia, Eropa, dan Amerika — meningkat 30% dibanding tahun-tahun sebelumnya. Lomba mencakup 6 kategori, mulai dari 500 meter untuk anak-anak hingga 10 kilometer untuk tantangan ekstrem. Event air kelas dunia ini diprediksi bakal mendongkrak pariwisata olahraga di pesisir Jimbaran.
 - **Dari 'Wisata Konsumtif' Menuju 'Wisata Kontributif' — Transformasi Hijau** :
 Seiring refleksi terhadap overtourism dan daya dukung lingkungan di seluruh pulau, industri pariwisata lokal tengah mengalami perubahan fundamental menuju **"Masa Depan Ekowisata"**. Hotel-hotel ikonik dan organisasi lingkungan setempat mulai menggeser fokus bisnis dari "mengejar jumlah wisatawan dan konsumsi murni" ke "mendorong kontribusi lingkungan jangka panjang". Makin banyak vila dan resor premium baru yang menerapkan sistem penampungan air hujan, komitmen bebas plastik, dan mekanisme pemberdayaan komunitas. Mereka menarik wisatawan kelas atas yang peduli keberlanjutan untuk ikut serta dalam penanaman pohon dan restorasi terumbu karang, mengubah aktivitas wisata menjadi kekuatan nyata dalam melindungi ekosistem lokal.
 
-### 📄 Topik Hangat Wisatawan: Slow Travel Pilihan, Pameran Seni & Kegiatan Sosial Komunitas
+## 📄 Topik Hangat Wisatawan: Slow Travel Pilihan, Pameran Seni & Kegiatan Sosial Komunitas
 
 - **Nusa Dua Dorong 'Wellcation' Mewah untuk Menginap Jangka Panjang** :
 Untuk memenuhi kebutuhan para profesional kelas atas dan pelancong slow travel internasional, resor bintang lima di kawasan Nusa Dua (seperti Grand Hyatt Bali) baru-baru ini meluncurkan paket **"Long Stay Wellcation"** yang dirancang khusus. Konsep ini menggabungkan akomodasi tepi laut dengan privasi tinggi, terapi meditasi dan penyembuhan spiritual lokal, manajemen makanan sehat, serta pengalaman kerajinan budaya — menawarkan surga tenang bagi wisatawan yang mencari keseimbangan, isi ulang energi, dan relaksasi mendalam tanpa gangguan keramaian.

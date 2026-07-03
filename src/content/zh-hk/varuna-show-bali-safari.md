@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7621e66d231e7fe9037030687a8b8224.jpg'
 originalUrl: 'https://vocus.cc/article/684569f0fd89780001f24ef9'
 lang: zh-hk
-_srcHash: 233bc6fc9c2adb6c23f6933da4c81f62
+_srcHash: ea81d57c7d96e1e0f4b47860a06c0fc2
 ---
 今次嘅峇里島之旅，最令我難忘嘅莫過於喺 Marine Safari Bali 體驗嘅《Varuna Show》喇！呢個結合魔幻、燈光同特技嘅水底劇場，完全顛覆咗我對海洋公園表演嘅想像。
 
@@ -31,7 +31,7 @@ _srcHash: 233bc6fc9c2adb6c23f6933da4c81f62
 
 2025年開幕即轟動，印尼嘅時代雜誌都介紹過
 
-### 🚗 交通與入園
+## 🚗 交通與入園
 
 位於吉安雅嘅 Marine Safari Bali 隔離就係有名嘅 Bali Safari Park，而家兩個園區一齊叫做「[Bali Safari and Marine Park](https://www.balisafarimarinepark.com/)」，亦即係官方講嘅「一個目的地，兩個世界」
 
@@ -39,13 +39,13 @@ _srcHash: 233bc6fc9c2adb6c23f6933da4c81f62
 
 由於位置唔係喺鬧區，建議大家包車前往。園區比想像中更大，一入門就被熱帶風情嘅造景同歡樂嘅氣氛感染。我哋提前喺 Klook 購買咗[Day Varuna Premium套票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)，雖然價格唔平，但絕對物超所值！
 
-### 🍽 海底主題餐廳嘅驚喜
+## 🍽 海底主題餐廳嘅驚喜
 
 套票包含嘅午餐係喺一個精心設計嘅「海底世界」主題餐廳享用。成個餐廳以藍色調為主，牆面裝飾住珊瑚、海草等海洋元素，搭配特殊燈光效果，令人彷彿置身海底宮殿。餐點係精緻嘅西式套餐，特別推薦佢哋嘅峇里島特色飲品，小朋友對造型可愛嘅甜品都愛不釋手。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_dde920a2ff3ff6a19c243c058206babf.jpg)
 
-### 🎭 Varuna Show 震撼登場
+## 🎭 Varuna Show 震撼登場
 
 我哋嘅Premium座位喺中央區域，視野一流。當燈光暗咗落嚟，成個劇場即刻變身成一個巨大嘅海底世界。
 
@@ -62,11 +62,11 @@ _srcHash: 233bc6fc9c2adb6c23f6933da4c81f62
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_71a7166954f577ff3a806abb0a4bff99.jpg)
 
-### 📸 同演員影相
+## 📸 同演員影相
 
 表演完咗之後，工作人員帶我哋去影相區。小朋友興奮咁同著住華麗戲服嘅演員影相，呢啲相成為咗我哋今次旅程最珍貴嘅紀念品之一。
 
-### 🐬 其他精彩活動
+## 🐬 其他精彩活動
 
 睇完Varuna Show之後，我哋仲體驗咗包含喺Premium套票入面嘅：
 
@@ -79,7 +79,7 @@ _srcHash: 233bc6fc9c2adb6c23f6933da4c81f62
 
 **快速參考：**[【峇里島親子旅遊景點海洋公園】Marine Safari Bali 峇里島海洋野生動物園攻略](/blog/marine-safari-bali-guide/)]
 
-### 💡 實用建議
+## 💡 實用建議
 
 1. [喺Klook買Varuna Show](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)，已經包埋入場門票
 2. Premium座位值得投資，觀賞體驗提升好多，餐點唔錯，包埋喺套票嘅表演/體驗都夠多
@@ -101,7 +101,7 @@ Premium票嘅觀賞位置最好
 
 {{block:ubud}}
 
-### 參觀完之後，可以順路探索周邊景點，延伸你嘅峇里自然之旅：
+## 參觀完之後，可以順路探索周邊景點，延伸你嘅峇里自然之旅：
 
 - 🐘 **峇里動物園（Bali Zoo）**：提供貼近自然嘅動物觀賞體驗，匯集咗來自印尼同世界各地嘅多種生物，適合家庭一日遊（[Klook優惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1148651&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F1240-bali-zoo-ticket%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D43e2032265)）
 - 🦁 **峇里野生動物與海洋公園（Bali Safari & Marine Park）**：

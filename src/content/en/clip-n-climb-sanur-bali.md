@@ -20,7 +20,7 @@ category:
   - 家庭親子
   - 美食景點活動
 lang: en
-_srcHash: 22a4aba46f3c6ab5b518f6223792a5b4
+_srcHash: 1d631e142b6515858e5e91bad96f9c78
 ---
 **Clip 'n Climb Bali (Sanur Climbing Park)** is Bali's first Clip 'n Climb indoor climbing center, located in Sanur, offering fun climbing experiences suitable for all ages.
 
@@ -30,7 +30,7 @@ Clip 'n Climb Bali combines sports and entertainment, making it a popular indoor
 
 ---
 
-### **1. Features and Highlights**
+## **1. Features and Highlights**
 
 - **Global Brand**: Originating from New Zealand, Clip 'n Climb has over 350 locations in more than 50 countries, with Bali being the first in Indonesia.
 
@@ -66,7 +66,7 @@ Clip 'n Climb Bali combines sports and entertainment, making it a popular indoor
 
 ---
 
-### **4. Tips**
+## **4. Tips**
 
 - **Attire Recommendation**: Loose athletic wear and closed-toe sports shoes (sandals and flip-flops are prohibited).
 - **Capacity Limit**: There are restrictions on the number of climbers, so it's recommended to book/purchase tickets in advance.

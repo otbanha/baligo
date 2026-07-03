@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/64dcae12fd897800015a06a3'
 category:
   - 旅行技巧
 lang: id
-_srcHash: a0796cab32729f0b30f4d9313e39eee9
+_srcHash: cdfc1aabc19f413b6edebbc2ba57ca38
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3b0f447cc3f00ad2869b6c9d9b734cc6.png)
@@ -23,23 +23,23 @@ _srcHash: a0796cab32729f0b30f4d9313e39eee9
 
 Biar belanja makin aman dan praktis, coba tips berikut ini:
 
-### 1. Bawa Uang Tunai Secukupnya
+## 1. Bawa Uang Tunai Secukupnya
 
 Bawa uang tunai secukupnya bisa jadi langkah pertama biar belanja liburanmu lebih aman dan nyaman. Tapi kalau kebanyakan bawa uang, malah nambah risiko yang nggak perlu, lho! Selain itu, bawa uang secukupnya juga bisa bikin kamu nggak boros pas belanja. Soalnya, kadang orang yang bawa uang banyak malah jadi lebih royal.
 
 Biar liburan makin aman dan nyaman, disarankan pisahin uang tunai sama dokumen penting. Ini biar uang atau dokumen nggak ilang semua barengan.
 
-### 2. Pisahin Uang Tunai dan Tiket/Dokumen
+## 2. Pisahin Uang Tunai dan Tiket/Dokumen
 
 Uang tunai biasanya dipake buat bayar; sementara tiket atau paspor cuma dipake di momen tertentu. Disarain pisahin uang tunai sama tiket/dokumen biar nggak ilang semua gegara ceroboh.
 
-### 3. Bawa Tas Khusus Buat Barang Koleksi
+## 3. Bawa Tas Khusus Buat Barang Koleksi
 
 Selama perjalanan, bawa juga tas kecil buat nyimpen barang-barang koleksi yang berharga. Ini bakal bikin kamu lebih praktis dan aman, sekaligus bisa pisahin barang belanjaan dari barang berharga.
 
 Pastikan tas yang kamu bawa lebih kecil dari ransel utama, biar nggak bikin repot. Taruh tas di depan dada atau pinggang buat nyimpen barang koleksi, jadi kamu bisa pantau terus barang berharga yang kamu bawa.
 
-### 4. Utamakan Pembayaran Non-Tunai
+## 4. Utamakan Pembayaran Non-Tunai
 
 Selama liburan, usahakan pakai pembayaran non-tunai sebisa mungkin. Ini bikin belanja lebih gampang, jadi kamu nggak perlu bawa banyak uang tunai.
 

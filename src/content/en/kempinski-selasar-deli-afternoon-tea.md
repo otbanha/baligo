@@ -29,7 +29,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bdbf1e9814d60a19a2a11d07a7609ac5.jpg'
 originalUrl: 'https://vocus.cc/article/6832c6c0fd897800014776ba'
 lang: en
-_srcHash: 1e857fc84a61fc962717cb93f690669c
+_srcHash: 1936005d8006f032aa7f2ce02cee91a4
 ---
 
 The afternoon sun gently bathes the coastline of Nusa Dua, Bali, as we arrive by car at **The Apurva Kempinski Bali**. This luxurious resort, built into the hillside, impresses from the moment you enter—with its towering wooden structures, intricate Balinese carvings, and koi fish leisurely swimming in the central pond, surrounded by excited children, the entire space exudes a relaxed vacation vibe.
@@ -38,7 +38,7 @@ The afternoon sun gently bathes the coastline of Nusa Dua, Bali, as we arrive by
 
 This thought led us to drive to this spot, not only a popular Instagram photo location but also renowned as "Bali's most beautiful afternoon tea."
 
-### **Seating Surprise: Is a Sea View Seat Luck-Based?**
+## **Seating Surprise: Is a Sea View Seat Luck-Based?**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0aba435d4a72f0834a51addd13688a0b.jpg)
 
@@ -59,7 +59,7 @@ Originally assigned an indoor seat, we inquired about moving to the **terrace ar
 - **Ocean view seating cannot be guaranteed**, and seats may be adjusted during peak seasons or special events (e.g., weddings).
 - In case of event changes, the hotel **does not provide compensation**, so it's recommended to keep your schedule flexible.
 
-### **Afternoon Tea Time: Different Experiences on Weekdays vs. Weekends**
+## **Afternoon Tea Time: Different Experiences on Weekdays vs. Weekends**
 
 We booked Friday afternoon tea through **Klook** at a discounted price of **USD$24**.
 
@@ -80,7 +80,7 @@ Choose from over 20 exquisite treats. Recommendations: ✅ Savory: Truffle chees
 
 Our server **Christiani** was incredibly thoughtful—she noticed us taking photos and proactively helped find the best angles, even treating us to an extra serving of their signature dessert!
 
-### **Hotel Adventure: Luxury on the Cliff**
+## **Hotel Adventure: Luxury on the Cliff**
 
 After afternoon tea, take the elevator down **more than ten floors** directly to the beach area. With a Klook booking, you can:
 
@@ -90,7 +90,7 @@ After afternoon tea, take the elevator down **more than ten floors** directly to
 
 We lounged on the Daybed by the pool, watching the sunset paint the sky in shades of pink and purple, completely reluctant to leave...
 
-### **Why is it worth visiting?**
+## **Why is it worth visiting?**
 
 1️⃣ **Great value for money**: Klook offers cheaper rates than direct booking, including beach access
 

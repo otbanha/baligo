@@ -28,25 +28,25 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a0202a8fecbbe830196c5755e35cdd7b.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b57fd897800013a8e48'
 lang: en
-_srcHash: a6c793f0360273057975e22ae2961cbc
+_srcHash: c0ccf69520a421f9c344cdeb914946d9
 ---
 
 If you're planning your Bali itinerary and looking for a place that's perfect for Instagram photos, serves top-notch food, and offers a relaxing all-day lounging experience, then definitely add this spot to your list!
 
-### 🌴 Stunning Twin Pools ✕ Dreamy Jelly Sea
+## 🌴 Stunning Twin Pools ✕ Dreamy Jelly Sea
 
 Stepping into Manarai, you can't help but exclaim 'Wow!' It's a creation by the renowned Ismaya Group, with aesthetics turned up to the max. The most eye-catching features are the **two incredibly clear blue pools**, directly facing Nusa Dua's ultra-clean white sandy beach and the gradient blue sea.
 
 - **Daytime:** Put on your best bikini or beach shorts, order a cocktail, and sunbathe on a daybed. Every shot you take looks like a model's portfolio.
 - **Evening:** As the sunset paints the sky in shades of pink and purple, the music and lighting shift, creating a full-on romantic atmosphere!
 
-### 🍹 More Than Just Looks! Food and Cocktails Are Top-Notch
+## 🍹 More Than Just Looks! Food and Cocktails Are Top-Notch
 
 Many beach clubs often feel like 'just a place for photos, with mediocre food,' but Manarai completely breaks this stereotype!
 
 Here, you'll find authentic Indonesian dishes alongside refined Western cuisine. Highly recommend their **seafood platter** and tropical-flavored **signature cocktails**. Sitting by the pool, enjoying the sea breeze with a chilled Mojito in hand—that's the true Bali vacation vibe!
 
-### 💡 Insider Tips
+## 💡 Insider Tips
 
 > 📌 **Editor's Personal Recommendation:** While there's no admission fee to enter, if you want to snag those ultra-comfortable **double daybeds** closest to the pool or beach, there's usually a "minimum spend" requirement. My suggestion? Go with friends to split the cost. Order a few dishes and drinks, easily meet the minimum, and you can lounge there all day—totally worth it!
 

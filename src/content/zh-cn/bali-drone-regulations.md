@@ -26,7 +26,8 @@ tags:
   - 峇里島自由行
   - 巴厘岛自由行
   - BaliTravelTips
-heroImage: https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
+heroImage: >-
+  https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
@@ -36,26 +37,26 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 8b7fd23b3005a8c50bdd1b7b377163e7
+_srcHash: 9eb2c23cbd7ec059d1663af9ae535e0f
 ---
 
 休闲玩家免申请也能飞的超简单懒人包，附禁飞区＆实用 checklist
 
 准备带无人机去巴厘岛拍摄梦幻稻田、日落海滩，却担心被罚款或没收？这篇 2026 年最新整理的指南，用最白话的方式帮你一次搞清楚所有规定！不用再东查西查，直接存下来就能安心出发～
 
-### 快速 30 秒总结
+## 快速 30 秒总结
 
 - **大部分旅客**：无人机 **< 2kg** + 休闲使用 → **完全免申请**，直接飞！
 - **唯一关键**：遵守「视线内、150 米高、避开人群与寺庙」三大铁律。
 - 违规最常见下场：罚款、没收，甚至影响下次入境。
 
-### 1. 我需要申请许可吗？
+## 1. 我需要申请许可吗？
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776665614492-screenshot_2026-04-20-13-11-40-656_md.obsidian-edit.jpg)
 
 **好消息**：99% 的旅客都符合「不需要申请」这一栏！
 
-### 2. 最重要的「不能飞」铁律（记住这 8 点就不会踩雷）
+## 2. 最重要的「不能飞」铁律（记住这 8 点就不会踩雷）
 
 - 距离巴厘岛登巴萨机场 **15 公里内** 绝对禁飞（很多热门海滩其实都在范围内！）
 - 距离人群、车辆、船只至少 **30 米**
@@ -74,7 +75,7 @@ https://youtube.com/shorts/i7GCuR3uI-k?si=ZgiVYpUZYHojqrKY
 
 **巴厘岛文化提醒**：当地人非常重视宗教，飞越寺庙拍摄很容易被制止。建议先问酒店或当地人，宁可多尊重、少麻烦！
 
-### 3. 带无人机入境巴厘岛 OK 吗？
+## 3. 带无人机入境巴厘岛 OK 吗？
 
 ✅ **完全可以**！
 个人休闲用一台通常海关不会刁难，但请务必：
@@ -82,14 +83,14 @@ https://youtube.com/shorts/i7GCuR3uI-k?si=ZgiVYpUZYHojqrKY
 - 电池随身携带（绝对不能托运）
 - 确认航空公司电池数量限制
 
-### 4. 想商业拍摄或重机怎么办？
+## 4. 想商业拍摄或重机怎么办？
 
 - 超过 2kg、拍 YouTube 营利视频、婚纱等 → 必须申请
 - 使用印尼官方 **SIDOPI-GO** 系统在线申请
 - 建议提前 **至少 2 周** 准备保险、飞行计划
 - 联络 DGCA：hubud@dephub.go.id 或 +62 8 111 004 222
 
-### 5. 巴厘岛飞行实用 Tips（让你飞得更顺、更美）
+## 5. 巴厘岛飞行实用 Tips（让你飞得更顺、更美）
 
 - **最佳地点**：东巴厘 Amed、西巴厘国家公园、Jatiluwih 稻田、Balangan 海滩
 - 建议买 **landing pad**（沙子多、火山灰容易吸磁）
@@ -99,7 +100,7 @@ https://youtube.com/shorts/i7GCuR3uI-k?si=ZgiVYpUZYHojqrKY
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776664958144-20260420_055753_0_utc_0.png)
 
-### 常见问题 Q&A
+## 常见问题 Q&A
 
 **Q：可以在酒店泳池上空飞行吗？**
 A：多数酒店禁止，建议先询问前台。
@@ -110,7 +111,7 @@ A：必须有人帮你观察地面状况，否则违规。
 **Q：规定会突然改变吗？**
 A：目前 2026 年尚无大更新，但出发前建议再 Email DGCA 确认一次。
 
-### 最后一句话
+## 最后一句话
 
 2026 年的巴厘岛对休闲无人机还是相当友好，关键就是「**遵守规则 + 尊重当地文化**」。飞得安全、拍得漂亮，也一起守护这片美丽岛屿吧！
 

@@ -22,7 +22,7 @@ category:
   - 家庭親子
   - 美食景點活動
 lang: id
-_srcHash: 22a4aba46f3c6ab5b518f6223792a5b4
+_srcHash: 1d631e142b6515858e5e91bad96f9c78
 ---
 **Clip 'n Climb Bali (Taman Panjat Tebing Sanur)** adalah pusat panjat tebing indoor pertama Clip 'n Climb di Bali, Indonesia, yang berlokasi di Sanur dan menawarkan pengalaman panjat tebing seru untuk segala usia.
 
@@ -32,7 +32,7 @@ Clip 'n Climb Bali menggabungkan olahraga dan hiburan, menjadi destinasi petuala
 
 ---
 
-### **1. Keunikan dan Keunggulan**
+## **1. Keunikan dan Keunggulan**
 
 - **Merek Global Ternama**: Clip 'n Climb berasal dari Selandia Baru, dengan lebih dari 350 titik di 50 negara, dan pusat di Bali adalah yang pertama di Indonesia.
 - **Tantangan Panjat yang Beragam**:
@@ -58,7 +58,7 @@ Clip 'n Climb Bali menggabungkan olahraga dan hiburan, menjadi destinasi petuala
 
 ---
 
-### **2. Info Praktis**
+## **2. Info Praktis**
 
 - **Alamat**: Jl. Bypass Ngurah Rai No. 524, Sanur, Bali (dekat Pantai Sanur).
 - **Jam Buka**: Setiap hari **09:00–21:00**, disarankan reservasi.
@@ -68,7 +68,7 @@ Clip 'n Climb Bali menggabungkan olahraga dan hiburan, menjadi destinasi petuala
 
 ---
 
-### **3. Aktivitas yang Cocok**
+## **3. Aktivitas yang Cocok**
 
 - **Hiburan Keluarga**: Pesta ulang tahun anak, panjat tebing bareng keluarga.
 - **Aktivitas Kelompok**: Team building perusahaan, outing sekolah.
@@ -84,7 +84,7 @@ Clip 'n Climb Bali menggabungkan olahraga dan hiburan, menjadi destinasi petuala
 
 ---
 
-### **4. Tips Penting**
+## **4. Tips Penting**
 
 - **Pakaian yang disarankan**: Pakaian olahraga longgar, sepatu olahraga tertutup (dilarang sandal atau selop).
 - **Batasan jumlah**: Pendakian dibatasi jumlah orangnya, disarankan reservasi/pesan tiket sebelumnya.

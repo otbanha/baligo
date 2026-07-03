@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_738b83ec54d9ede94e81c6bed3827e2c.jpg'
 originalUrl: 'https://vocus.cc/article/69001b40fd8978000163d378'
 lang: id
-_srcHash: 7d18242a27749b642fa4986f6ff9af85
+_srcHash: 75e00677b98bef4ba1ad994ae54bbdd0
 ---
 
 Bicara soal jiwa Bali, **Ubud** jelas pusat budaya yang nggak boleh kamu lewatkan. Selain sawah terasering, yoga, dan vibes seni, Pasar Ubud juga jadi tempat favorit semua traveler buat jalan-jalan. Di sini penuh dengan kerajinan tangan dan karya seni lokal yang bikin kamu takjub sama cinta detail dan kreativitas orang Bali. Hari ini, yuk kita lihat apa aja yang wajib dibeli di Pasar Ubud! 🌿
@@ -18,7 +18,7 @@ Bicara soal jiwa Bali, **Ubud** jelas pusat budaya yang nggak boleh kamu lewatka
 
 ***
 
-### 🧶 1. Kain Tenun Tangan (Handmade Textiles)
+## 🧶 1. Kain Tenun Tangan (Handmade Textiles)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_218f0d194c432ade542611ace179bde4.jpg)
 
@@ -26,7 +26,7 @@ Di Pasar Ubud, kamu pasti bakal tertarik sama kain tradisional Bali yang namanya
 
 ***
 
-### 🧣 2. Kain Sarong: Kain Multifungsi yang Penuh Makna Budaya
+## 🧣 2. Kain Sarong: Kain Multifungsi yang Penuh Makna Budaya
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_37f79c58c6862ad429cb1e686e6615f4.png)
 
@@ -42,7 +42,7 @@ Beberapa sarong pakai teknik **batik** tradisional, warna dan motifnya mengandun
 
 ***
 
-### 👕 3. Kaos Bernuansa Bali (T-shirt)
+## 👕 3. Kaos Bernuansa Bali (T-shirt)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4c17893fefca873287d8967a8fb63949.jpg)
 
@@ -50,7 +50,7 @@ Di Pasar Ubud, gampang banget nemu kaos dengan tulisan **'Bali' atau motif Baron
 
 ***
 
-### 🪵 4. Ukiran Kayu (Wooden Carvings): Seni Tradisional yang Hidup
+## 🪵 4. Ukiran Kayu (Wooden Carvings): Seni Tradisional yang Hidup
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2dbb0b57c27c67f42d3c1f9bd259fb9c.jpg)
 
@@ -66,7 +66,7 @@ Wisatawan bahkan bisa mendaftar kelas pengalaman mengukir kayu, membuat oleh-ole
 
 ***
 
-### 🎨5. Lukisan Lokal (Paintings)
+## 🎨5. Lukisan Lokal (Paintings)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_dbe855a474b5a5cf9786d05e24c820b6.png)
 
@@ -74,7 +74,7 @@ Ubud sejak dulu adalah tempat berkumpulnya para seniman. Di pasar, kamu bisa men
 
 ***
 
-### 💍6. Perak Tangan (Jewelry)
+## 💍6. Perak Tangan (Jewelry)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_72b61db47b0441a0b11437e94330ad1d.png)
 
@@ -84,7 +84,7 @@ Kerajinan perak Bali juga terkenal, apalagi di pasar Ubud, pilihannya beragam ba
 
 ***
 
-### 🧺7. Kerajinan Tangan Bali (Handicrafts)
+## 🧺7. Kerajinan Tangan Bali (Handicrafts)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_45771c55bc31c1317e3fea935860e721.png)
 
@@ -92,7 +92,7 @@ Selain kain dan aksesoris, di Pasar Ubud juga banyak **barang anyaman bambu dan 
 
 ***
 
-### 🏡8. Dekorasi Rumah Bernuansa Eksotis (Home Decor)
+## 🏡8. Dekorasi Rumah Bernuansa Eksotis (Home Decor)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_aef6507b2d960d9de93bb987f44150e2.png)
 
@@ -100,7 +100,7 @@ Pasar Ubud juga tempat yang asyik buat hunting barang-barang kecil buat rumah. K
 
 ***
 
-### 🎁9. Oleh-Oleh Kecil (Small Souvenirs): Pilihan Klasik Buat Kado atau Koleksi
+## 🎁9. Oleh-Oleh Kecil (Small Souvenirs): Pilihan Klasik Buat Kado atau Koleksi
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1b64458b40cb2a01da5bf20f8d3fb7c8.png)
 
@@ -123,7 +123,7 @@ Barang-barang kecil ini harganya ramah di kantong dan gampang ditemukan di berba
 
 ***
 
-### ✨Tips Kecil
+## ✨Tips Kecil
 
 Barang-barang di Pasar Ubud kebanyakan handmade, jadi **tawar-menawar adalah bagian dari budaya belanja lokal**. Ingat, tawarlah dengan senyum dan santai — ini juga salah satu interaksi paling seru selama traveling.
 

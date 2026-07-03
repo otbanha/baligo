@@ -20,14 +20,14 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_c2b98df8328054c746981a1c97e44f0f.jpg'
 originalUrl: 'https://vocus.cc/article/67239706fd89780001749b01'
 lang: id
-_srcHash: 43508027d4aba6b8df0340301c7f6a30
+_srcHash: 68cb58f78123a5316d6dbd80e7b3362c
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4987be535ea54598e53f32ecf38facc4.jpg)
 
 Saat milih akomodasi, nama-nama tipe kamar sering bikin bingung, apalagi kalau kita cuma artiin secara harfiah, bisa-bisa salah paham. Biar setiap booking dapet kamar yang paling cocok, yuk kita bedain beberapa tipe kamar yang umum.
 
-### 1. Double Bed Room ≠ Kamar Dua Tempat Tidur
+## 1. Double Bed Room ≠ Kamar Dua Tempat Tidur
 
 ![2024剛開幕 Holiday Inn Resort Bali Canggu 的 double room, 收錄於「Canggu Top 11 你不能錯過的住宿推薦」](https://images.gobaligo.id/vocus/vocus_c202fe1efa750793438b4dc51b3ef8cd.jpg)
 
@@ -35,7 +35,7 @@ Saat milih akomodasi, nama-nama tipe kamar sering bikin bingung, apalagi kalau k
 
 Pertama, "Double Bed Room" itu BUKAN "kamar dua tempat tidur". Tipe kamar ini biasanya punya satu tempat tidur double (Double Bed), cocok buat dua orang yang tidur bareng di satu ranjang. Kalau kamu mau dua ranjang terpisah, pilih "Twin Bed Room".
 
-### 2. Twin Bed Room
+## 2. Twin Bed Room
 
 ![Mövenpick Resort & Spa Jimbaran 的 Twin Bed Room 收錄於「推薦峇里島13家庭親子度假村」](https://images.gobaligo.id/vocus/vocus_309bc96bfe45ee523bbce147e1724e8b.jpg)
 
@@ -43,7 +43,7 @@ Pertama, "Double Bed Room" itu BUKAN "kamar dua tempat tidur". Tipe kamar ini bi
 
 "Twin Bed Room" adalah tipe kamar dengan dua ranjang single, cocok buat teman, rekan kerja, atau anggota keluarga yang masing-masing punya ranjang sendiri. Ini beda sama Double Bed, karena setiap ranjang bisa dipake sendiri-sendiri, jadi nggak ada masalah ruang tidur yang sempit.
 
-### 3. Queen Room dan King Room
+## 3. Queen Room dan King Room
 
 ![Ayana Villas 裡的 king size 床，收錄於「金巴蘭住宿推薦」](https://images.gobaligo.id/vocus/vocus_b05e8ba8add16887fd7b682631c5ca21.jpg)
 
@@ -63,7 +63,7 @@ Perlu dicatat, cara penamaan ukuran tempat tidur secara internasional berbeda de
 
 Perbedaan ini artinya, saat melihat situs booking luar negeri atau membeli kasur merek internasional, kamu harus paham perbedaan regionalnya.
 
-### 4. Suite
+## 4. Suite
 
 ![FuramaXclusive Ocean Beach Seminyak 的雙人suite。收錄於「水明漾的濱海精緻主題住宿指南」](https://images.gobaligo.id/vocus/vocus_461c02f27551ed0d744434a10c1b9b21.jpg)
 
@@ -71,7 +71,7 @@ Perbedaan ini artinya, saat melihat situs booking luar negeri atau membeli kasur
 
 「Suite」artinya kamar suite, biasanya terdiri dari kamar tidur dan ruang tamu terpisah, memberikan ruang yang lebih lega. Suite banyak digunakan di hotel bintang atas, cocok untuk wisatawan yang menginap lama atau keluarga. Tipe kamar ini tidak hanya menyediakan ruang tinggal, tapi mungkin juga dilengkapi dapur kecil, area tamu, bahkan balkon pemandangan, bikin pengalaman menginap makin seru.
 
-### 5. Studio（開放式客房）
+## 5. Studio（開放式客房）
 
 ![The River Studio ，收錄於「Canggu 16間私人泳池別墅推薦」](https://images.gobaligo.id/vocus/vocus_a71d09b55969fb57a332768ae1fbce57.jpg)
 
@@ -79,7 +79,7 @@ Perbedaan ini artinya, saat melihat situs booking luar negeri atau membeli kasur
 
 「Studio」房型類似開放式公寓，通常把臥室、客廳、廚房等功能區全部整合在一個空間裡。這種房型適合短期或長期一個人或情侶入住，有私人但緊湊的空間安排。
 
-### 6. Family Room（家庭房）
+## 6. Family Room（家庭房）
 
 ![Hard Rock Bali 家庭房，收錄在「峇里島親子樂園：十五家擁有滑水道溜滑梯的親子渡假村」](https://images.gobaligo.id/vocus/vocus_59bf19edf13be74385d34d2e11c0abd4.png)
 
@@ -87,7 +87,7 @@ Perbedaan ini artinya, saat melihat situs booking luar negeri atau membeli kasur
 
 「Family Room」是專為家庭設計的房型，通常會放多張床或沙發床，甚至可以容納三到四個人一起住。這種房型很適合帶小孩的家庭旅行者，空間和設施都夠用，讓全家出遊更輕鬆舒服。
 
-### 7. Connecting Room/Adjoining Rooms（連通房）
+## 7. Connecting Room/Adjoining Rooms（連通房）
 
 ![Maison Aurelia 連通房。 收錄在「Sanur沙努爾21家住宿推薦」](https://images.gobaligo.id/vocus/vocus_de51fe89c909a2df0afc19bb8dfcf376.jpg)
 
@@ -95,7 +95,7 @@ Perbedaan ini artinya, saat melihat situs booking luar negeri atau membeli kasur
 
 「Connecting Room或Adjoining Rooms」指的是兩間相鄰房間之間有內部連通門的房型，適合想保持聯繫但又需要隱私空間的旅行者。這種房型最適合家庭或團體旅行，特別是帶著青少年或長輩的時候，住宿體驗既方便又安全。
 
-### 8. Deluxe Room（豪華房）與 Superior Room（高級房）
+## 8. Deluxe Room（豪華房）與 Superior Room（高級房）
 
 ![The Udaya Resort and Spa 豪華房，收錄在「烏布26家特色住宿」](https://images.gobaligo.id/vocus/vocus_69d11bbbfbcce39e4b628e19da372766.jpg)
 
@@ -103,7 +103,7 @@ Perbedaan ini artinya, saat melihat situs booking luar negeri atau membeli kasur
 
 「Deluxe Room」和「Superior Room」通常裝潢跟視野上都更高檔。豪華房一般面積比較大，還有一些附加設施，像是更好的床組、景觀窗或陽台。而高級房通常位在較高樓層，視野更好，或設計更有特色，適合比較講究入住體驗的客人。
 
-### 9. Ocean View Room / Garden View Room（海景房/園景房）
+## 9. Ocean View Room / Garden View Room（海景房/園景房）
 
 ![2023開幕Anantara Uluwatu Bali Resort海景套房，收錄在「烏魯瓦圖 Uluwatu 12間無敵海景的住宿推薦」](https://images.gobaligo.id/vocus/vocus_d419164ddf0dff8c8df0280c8be0eda2.jpg)
 
@@ -111,7 +111,7 @@ Perbedaan ini artinya, saat melihat situs booking luar negeri atau membeli kasur
 
 這類房型是根據房間窗外的景色來命名的。「Ocean View Room」有直接面向大海的窗戶或陽台，特別適合海島度假時入住；而「Garden View Room」則提供綠意盎然的花園景色，營造一種放鬆的氛圍。
 
-### 10. Villa（別墅）
+## 10. Villa（別墅）
 
 ![烏布 The Purist Villas & Spa，收錄在「峇里島推薦villa大全」](https://images.gobaligo.id/vocus/vocus_c101363a13237407d6e2bda528bfc4b8.jpg)
 
@@ -121,7 +121,7 @@ Perbedaan ini artinya, saat melihat situs booking luar negeri atau membeli kasur
 
 在峇里島還有另外兩種適合度假村的房型——「Bamboo Villa」與「Family Villa」，它們同樣適合在峇里島等海島地區享受獨特度假體驗的旅客。
 
-### 11. Bamboo Villa（竹屋別墅）
+## 11. Bamboo Villa（竹屋別墅）
 
 ![峇里島很多有特色的bamboo villas，請看「9家令人嘆為觀止竹屋別墅」](https://images.gobaligo.id/vocus/vocus_9e29ac8b042c3e76181cc5143fbc4bcc.jpg)
 
@@ -129,7 +129,7 @@ Perbedaan ini artinya, saat melihat situs booking luar negeri atau membeli kasur
 
 「Bamboo Villa」itu villa yang bahan bangunan utamanya dari bambu, konsepnya ramah lingkungan dan selaras sama alam. Villa bambu di daerah kayak Bali terkenal dengan desain simpel natural, bikin kamu jauh dari keramaian, nikmatin udara segar dan keindahan alam. Biasanya bamboo villa pakai konsep open space, ventilasinya lancar, angin sepoi-sepoi bikin betah. Cocok banget buat kamu yang suka desain unik dan peduli lingkungan, sekaligus nambah kesan alami dan kenangan spesial di perjalanan.
 
-### 12. Family Villa（Villa Keluarga）
+## 12. Family Villa（Villa Keluarga）
 
 ![Amarin Seminyak 最多有四間房，收錄在「三房/四房以上的家庭別墅住宿推薦」](https://images.gobaligo.id/vocus/vocus_11c2a1c4adfc9e2a7779e39b3930a500.jpg)
 
@@ -137,7 +137,7 @@ Perbedaan ini artinya, saat melihat situs booking luar negeri atau membeli kasur
 
 「Family Villa」adalah villa yang didesain khusus buat keluarga, biasanya punya beberapa kamar tidur, ruang tamu besar, dan area outdoor buat santai, bisa muat satu keluarga penuh. Family Villa biasanya dilengkapi kolam renang pribadi, halaman, dan dapur, jadi praktis buat keluarga yang bawa anak kecil atau orang tua. Villa tipe ini populer banget di daerah wisata kayak Bali, bikin keluarga bisa menikmati serunya liburan bareng tapi tetap punya privasi. Cocok buat yang mau nginep lama atau butuh suasana liburan keluarga yang lebih santai.
 
-### Kesimpulan
+## Kesimpulan
 
 Nah, 12 tipe kamar di atas punya ciri khas masing-masing, cocok buat berbagai kebutuhan traveler — dari perjalanan bisnis sendirian sampai liburan keluarga. Setiap tipe kasih pengalaman menginap yang beda. Mau yang nyaman dengan double bed, **Twin Bed Room** buat bareng teman, atau **Bamboo Villa** dan **Family Villa** yang penuh karakter, pilih tipe yang pas biar liburanmu makin seru.
 

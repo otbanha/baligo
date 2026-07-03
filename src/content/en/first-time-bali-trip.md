@@ -17,7 +17,7 @@ heroImage: ''
 originalUrl: ''
 embeds: []
 lang: en
-_srcHash: 84ca25b3b0b6dc94e7ff20702c917be5
+_srcHash: 73fd0049b0c0926df9622dfbde18bcca
 ---
 
 > This travelogue is adapted from a shared post by [YiShawn Huang](https://www.facebook.com/share/p/1DmyQYJF6M/)
@@ -26,7 +26,7 @@ _srcHash: 84ca25b3b0b6dc94e7ff20702c917be5
 
 This was my wife and I's first time visiting **Bali**. For this long-awaited trip, we opted for a self-guided tour with a private car service, hoping to explore the island at our own pace. Little did we know, the first two days of our itinerary would bring us countless surprises, from the warm hospitality to the stunning cuisine—everything was perfectly arranged.
 
-### 🚗 Our Travel Companion: Private Driver Benny
+## 🚗 Our Travel Companion: Private Driver Benny
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774768349655-banny_new.jpg)
 
@@ -34,7 +34,7 @@ Before our trip, we did a lot of research online and eventually found our privat
 
 {{block:包車}}
 
-### 💧 Travel Tips: Water Quality and Shopping
+## 💧 Travel Tips: Water Quality and Shopping
 
 On our first day, after arriving at the airport, Benny first took us to a money changer, and then we went on a big shopping spree at **Coco Supermarket** near our accommodation.
 
@@ -46,7 +46,7 @@ https://youtu.be/UoGlRyAdyB8
 
 > Quick Reference: [Bali Travel Health Tips: A Guide to Drinking Water and Bali Belly](/blog/bali-travel-health-tips/)
 
-### 🏡 Stay in a Cinnamon Paradise: Kayumanis Jimbaran Private Estate & Spa
+## 🏡 Stay in a Cinnamon Paradise: Kayumanis Jimbaran Private Estate & Spa
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774768824256-v1.jpg)
 
@@ -70,7 +70,7 @@ https://youtu.be/RodQvCZKwD0
 
 ▲ Jay’s Wahaha Food Diary
 
-### 🍳 A Delicious Breakfast in the Rain and a Surprise Birthday Celebration
+## 🍳 A Delicious Breakfast in the Rain and a Surprise Birthday Celebration
 
 Even though it rained the next morning, enjoying a **Balinese breakfast** in the villa was still incredibly relaxing.
 
@@ -82,7 +82,7 @@ Even though it rained the next morning, enjoying a **Balinese breakfast** in the
 
 {{block:蜜月}}
 
-### 🍫 A Luxurious Experience: Avisha Wellness & Spa’s Chocolate Journey
+## 🍫 A Luxurious Experience: Avisha Wellness & Spa’s Chocolate Journey
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774769054658-spa1.jpg)
 
@@ -96,7 +96,7 @@ In the afternoon, we headed to nearby **Avisha Wellness** for their special "**L
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774768923637-r3.jpg)
 
-### 🍽️ A Luxurious Birthday Dinner: Michelin Guide Restaurant Cuca
+## 🍽️ A Luxurious Birthday Dinner: Michelin Guide Restaurant Cuca
 
 The evening's birthday feast was held at **Cuca Restaurant**, located right next to our villa. This Michelin Guide-recommended Spanish tapas restaurant serves dishes that resemble works of art:
 

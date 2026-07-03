@@ -35,14 +35,14 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 61b945c98a9fd47db9a0d12c33d4f7a1
+_srcHash: 55158278133d541f21c1444b8044255f
 ---
 
 Buat kamu yang lagi siap-siap liburan ke Bali atau cari tempat healing di pulau tropis, jangan buru-buru swipe kartu kredit buat beli tiket dulu!
 
 Seiring harga bahan bakar penerbangan internasional mulai stabil, Kementerian Perhubungan baru saja mengumumkan bahwa 'biaya tambahan bahan bakar penumpang' untuk maskapai nasional di rute internasional bakal turun signifikan, dan mulai berlaku **7 Juni 2026**. Baik kamu mau ke Jepang, Korea, atau destinasi favorit kayak Bali di Asia Tenggara, biaya tiket bakal ikut lebih ringan.
 
-### 📉 Bocoran Harga Terbaru Biaya Bahan Bakar
+## 📉 Bocoran Harga Terbaru Biaya Bahan Bakar
 
 Berdasarkan pengumuman terbaru dari Pertamina, harga bahan bakar penerbangan internasional turun dari USD$208,78 per barel jadi USD$160,1 (level tarif turun dari level 18 ke level 14). Kementerian Perhubungan juga sudah minta semua maskapai untuk transparan kasih info. Tarif baru yang sudah disesuaikan adalah:
 
@@ -51,7 +51,7 @@ Berdasarkan pengumuman terbaru dari Pertamina, harga bahan bakar penerbangan int
 
 > **Jadi berapa yang bisa dihemat?** Kalau ambil contoh tiket pulang-pergi langsung dari Taiwan ke Bali (rute pendek), setiap penumpang bisa langsung hemat **USD$20 (sekitar NT$620)** cuma dari biaya bahan bakar. Kalau sekeluarga berempat pergi bareng, hemat lebih dari NT$2.480 — uangnya bisa dipakai buat makan seafood enak sambil lihat sunset di Bali!
 
-### 💡 Travel达人 Bocorin 'Waktu Paling Cuan Beli Tiket'
+## 💡 Travel达人 Bocorin 'Waktu Paling Cuan Beli Tiket'
 
 Kenapa dibilang jangan buru-buru beli? Soalnya biaya bahan bakar ini dihitung berdasarkan **tanggal pembelian tiket (hari kamu bayar)**, bukan tanggal keberangkatan.
 
@@ -59,7 +59,7 @@ Kalau kamu udah incar tiket pesawat ke Bali, ingat ya, tahan dulu bayarnya sampa
 
 Selain maskapai nasional Taiwan kayak China Airlines, EVA Air, sama STARLUX, maskapai Asia lain kayak Korean Air, Asiana Airlines, dan otoritas penerbangan Filipina juga udah mulai ngumumin penurunan fuel surcharge di bulan Juni. Pas lagi musim liburan sekolah, penurunan harga minyak ini jelas jadi 'little happiness' yang nyata buat yang pengen liburan ke luar negeri.
 
-### ✈️ Maskapai Nasional Penerbangan Langsung ke Bali: Info Harga Tiket & Promo Terbaru
+## ✈️ Maskapai Nasional Penerbangan Langsung ke Bali: Info Harga Tiket & Promo Terbaru
 
 Sekarang pilihan penerbangan langsung dari Taiwan ke Bali ada China Airlines, EVA Air, sama STARLUX. Tiket pulang-pergi maskapai full service udah termasuk bagasi dan makanan, biasanya di kisaran **USD$468 sampai USD$532**. Dengan promo terbaru, kamu bisa dapet harga yang lebih oke:
 
@@ -70,7 +70,7 @@ STARLUX kasih promo khusus buat liburan pulau di semester kedua, tiket langsung 
 - **China Airlines**:
 China Airlines juga lagi ada promo buat rute tertentu, sekarang tiket langsung Bali pulang-pergi termasuk pajak sekitar USD$468. Saran, manfaatin fitur 'Low Fare Calendar' di website China Airlines, pilih penerbangan di tengah minggu (misal Selasa, Rabu) biar dapet harga termurah.
 
-### 💡 Mau Lebih Hemat? 2 Trik Jitu dari Traveler Berpengalaman
+## 💡 Mau Lebih Hemat? 2 Trik Jitu dari Traveler Berpengalaman
 
 ![raw-image](https://images.gobaligo.id/images/2026-06/1780475662097-784822114470339384.png)
 
@@ -78,14 +78,14 @@ China Airlines juga lagi ada promo buat rute tertentu, sekarang tiket langsung B
 
 Kalau kamu pengen maksimalin budget, selain nunggu penurunan fuel surcharge tanggal 6 Juni baru booking, cobain juga dua cara ini:
 
-#### 1. Pilihan Budget: Pertimbangkan Transit dengan Maskapai Murah (Bisa Hemat Jutaan)
+### 1. Pilihan Budget: Pertimbangkan Transit dengan Maskapai Murah (Bisa Hemat Jutaan)
 
 Kalau nggak masalah transit sekali, naik Scoot **atau** VietJet Air lewat Singapura atau Ho Chi Minh City ke Bali, harga tiketnya jauh lebih murah.
 
 - **Scoot**: Bulan Juni ini, tiket sekali jalan Taipei-Bali termurah sekitar **USD$197**. Pulang-pergi sekitar USD$300-an aja udah bisa.
 - **VietJet Air**: Sering ngeluarin promo super, beberapa periode promo harga pulang-pergi bisa tembus **USD$226 sampai USD$290** (belum termasuk bagasi).
 
-#### 2. Buat yang Waktunya Fleksibel: Cara Main ‘Four-Segment Ticket’ dari Luar Negeri
+### 2. Buat yang Waktunya Fleksibel: Cara Main ‘Four-Segment Ticket’ dari Luar Negeri
 
 Ini trik hemat favorit para traveler zaman now. Kamu bisa memanfaatkan bandara di luar negeri (misalnya berangkat dari Hong Kong, transit Taipei, lalu lanjut ke Bali) — jadinya beberapa rute bisa digabung dalam satu tiket. Kadang harga tiket ‘Hong Kong–Taipei–Bali’ empat segmen malah lebih murah daripada tiket langsung ‘Taipei–Bali’. Cocok banget buat kamu yang punya banyak waktu libur atau mau sekalian mampir ke tempat lain.
 

@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/64db6b81fd897800013a98ef'
 category:
   - 簽證通關
 lang: id
-_srcHash: c4042c66e2237763d8a49b4c6c4f5c3e
+_srcHash: 8ab6992376c46c058a03452ff1542d60
 ---
 Sekarang masuk ke Indonesia atau Bali masih perlu bukti vaksin dua dosis? Perlu download aplikasi apa? Cek penjelasan di bawah ini.
 
@@ -25,11 +25,11 @@ Mulai 9 Juni 2023, sesuai SE Satgas COVID-19 No. 1 Tahun 2023: **Saat masuk ke I
 
 # Kategori Wisatawan Internasional yang Diizinkan Masuk
 
-### **Pemegang Visa Kunjungan Wisata B211 (Visa on Arrival):**
+## **Pemegang Visa Kunjungan Wisata B211 (Visa on Arrival):**
 
 Destinasi wisata yang menyediakan layanan Visa on Arrival. Mulai 1 Juni 2022, wisatawan dari negara-negara berikut bisa dapat Visa on Arrival untuk tujuan wisata: Afrika Selatan, Amerika Serikat, Arab Saudi, Argentina, Australia, Austria, Belanda, Belgia, Brasil, Brunei Darussalam, Bulgaria, Ceko, Denmark, Estonia, Filipina, Finlandia, **Hong Kong**, Hungaria, India, Inggris, Irlandia, Italia, Jepang, Jerman, Kamboja, Kanada, Korea Selatan, Kroasia, Laos, Latvia, Lituania, Luksemburg, **Malaysia**, Malta, Meksiko, Myanmar, Norwegia, Prancis, Polandia, Portugal, Qatar, Rumania, Selandia Baru, Seychelles, Singapura, Siprus, Slovakia, Slovenia, Spanyol, Swedia, Swiss, **Taiwan**, Thailand, Timor Leste, **Tiongkok**, Tunisia, Turki, Uni Emirat Arab, Vietnam, Yunani, Bahrain, Belarus, Bosnia, Kuwait, Mesir, Maroko, Oman, Peru, Rusia, Serbia, Ukraina, dan Yordania.
 
-### **Visa Non-Wisata yang Diizinkan:**
+## **Visa Non-Wisata yang Diizinkan:**
 
 1. Pemegang izin tinggal atau visa diplomatik, serta pemegang izin tinggal atau visa dinas.
 2. Pemegang Kartu Izin Tinggal Terbatas (KITAS) dan Kartu Izin Tinggal Tetap (KITAP).
@@ -37,7 +37,7 @@ Destinasi wisata yang menyediakan layanan Visa on Arrival. Mulai 1 Juni 2022, wi
 
 Sekarang masuk ke Indonesia atau Bali **sudah nggak perlu bukti vaksin**! Buat yang belum vaksin pun bisa tenang liburan ke sini. Nggak perlu juga download aplikasi pelacak kesehatan apa pun. Ini benar-benar kabar gembira banget!
 
-### Pertanyaan Umum Lainnya soal Pengajuan Visa on Arrival
+## Pertanyaan Umum Lainnya soal Pengajuan Visa on Arrival
 
 Cek panduan yang udah kami siapin, ya
 

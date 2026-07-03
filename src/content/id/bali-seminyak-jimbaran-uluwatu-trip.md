@@ -15,12 +15,12 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9a3dbb0d78806081cfc5710ec96cbf05.jpg'
 originalUrl: 'https://vocus.cc/article/6688b074fd897800017bd1d5'
 lang: id
-_srcHash: 06a470b06fb96deec23ab93ca7cb63b2
+_srcHash: 180e1bee3acbf6a676367768be6d3c8a
 ---
 
 > Konten ini disediakan oleh anggota grup​[Winnie Lin](https://www.facebook.com/winnie.lin.566/)​, dan sudah disetujui untuk kami adaptasi
 
-### The Citta Luxury Residence
+## The Citta Luxury Residence
 
 Begitu sampai di Bali, kami langsung menuju penginapan keren di Seminyak ini — The Citta Luxury Residence. Ruangannya super luas, bersih, terang, dan pencahayaannya juara. Kolam renangnya dikelilingi bunga kamboja yang cantik banget, bikin kita serasa di surga.
 
@@ -34,11 +34,11 @@ Pas balik dari makan malam, kami lihat staf sudah pasang obat nyamuk bakar biar 
 
 > Pesan The Citta Luxury Residence: [Harga Spesial Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=165208) [Trip.com](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=687634&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLQ0NjUzMdQ1sTQxsjTVNTIwNjXUePClvempsZGBlmB8iKeni2FJYapZYallTlGB6SlGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNldDR0dX4yg-KeaQcBfFlTeZ1x6YcNo-ibUqQzckPKNXHABi8tGnggAAAA&masterhotelid_tracelogid=100051355-0a935641-494295-20351&detailFilters=17|1~17~1*31|687634~31~687634*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=2000&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687)
 
-### WAHAHA 烤肋排
+## WAHAHA 烤肋排
 
 WAHAHA adalah restoran iga bakar yang cukup terkenal di Bali. Meskipun bumbunya nggak terlalu wow, tapi dagingnya empuk banget. Karena cuaca, rasanya cenderung asin, sih boleh dicoba, tapi kalau kebanyakan, besoknya bisa bengkak kayak babi 😂.
 
-### Finns Beach Club
+## Finns Beach Club
 
 ![Finns Beach Club](https://images.gobaligo.id/vocus/vocus_ec287902e4ed7c7e446d1ab5965f3b76.jpg)
 
@@ -50,7 +50,7 @@ Tapi, awalnya aku pikir gitu (ehem), tapi kenyataannya yang kulihat malah banyak
 
 > [Pesan Tiket Finns Beach Club](https://affiliate.klook.com/redirect?aid=116349&aff_adid=880709&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F14201-finns-day-pass-ticket-canggu-bali%2F%3Fspm%3DBooking.SearchSuggest_LIST%26clickId%3D2d9009a92d)
 
-### Pura Tanah Lot
+## Pura Tanah Lot
 
 ![林彥瑋提供](https://images.gobaligo.id/vocus/vocus_39c3d1b80460e3a16f0d50ba87211547.jpg)
 
@@ -60,7 +60,7 @@ Batu karang Pura Tanah Lot baru terlihat jalurnya ke daratan saat air surut. Gua
 
 Hari itu cuacanya sangat bagus, kami beruntung bisa jalan ke Pura Tanah Lot setelah air surut, sambil menikmati pemandangan sunset yang super indah. Pemandangan di sini cantik banget dari sudut mana pun, beneran worth it buat dikunjungi berkali-kali.
 
-### The Tukad Villa
+## The Tukad Villa
 
 The Tukad Villa di Seminyak ini villa yang super estetik dan bikin betah banget. Mereka sangat perhatian sama request ulang tahun yang dicatat dari awal, sampai-sampai mereka siapin kejutan ulang tahun spesial buat aku, dekorasinya sesuai banget sama seleraku.
 
@@ -84,7 +84,7 @@ Beneran tempat yang bikin kamu males pergi, pengin stay di sini terus.
 
 Sudah masuk dalam daftar 「[rekomendasi villa Seminyak](/blog/2024-04-04-660e6e92fd89780001e6047e/)」
 
-### Odysseys Surf School
+## Odysseys Surf School
 
 Surfing ini sih pengalaman paling gila tapi juga paling gak nyesel selama trip ini. Aku ikut kelas di Odysseys Surf School, total dua jam, satu instruktur sabar banget ngajarin dari awal.
 
@@ -108,7 +108,7 @@ Kalau kamu berencana surfing di Bali, wajib cari Odysseys Surf School - Bali!
 
 > Pesan [Kursus Surfing Odysseys Surf School](https://affiliate.klook.com/redirect?aid=116349&aff_adid=880709&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22480-surfing-lesson-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Dda463979c9)
 
-### Ku De Ta Bali
+## Ku De Ta Bali
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_ab0a3a5ac054d66ee5265ded695c92bc.jpg)
 
@@ -125,7 +125,7 @@ Meskipun harganya sedikit lebih mahal dibanding tempat lain, tapi pasti worth it
 
 ***
 
-### Pura Uluwatu
+## Pura Uluwatu
 
 ![林彥瑋提供](https://images.gobaligo.id/vocus/vocus_7a12e9e42959f6278b3e29a31a1d34b6.jpg)
 
@@ -139,7 +139,7 @@ Kecuali ada monyet nakal yang hampir nyolong kacamata hitamku, sisanya semua ind
 
 **Referensi cepat:** [Panduan Wisata Pura Uluwatu / Tebing Cinta di Bali: Highlights & Tips Praktis](/blog/uluwatu-temple-travel-guide/)
 
-### Karma Jimbaran
+## Karma Jimbaran
 
 Karma Jimbaran, Jimbaran Beach Villas By Nakula, jujur ini villa paling mantap, paling santai, dan paling mewah yang pernah aku tinggalin. Vila pribadi ini punya kolam renang sendiri, tiga kamar tidur, plus satu ruang tamu super besar.
 
@@ -169,7 +169,7 @@ Pengalaman nginep di Karma Jimbaran kali ini bener-bener ninggalin kenangan yang
 
 > Pesan Karma Jimbaran: [Harga spesial Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=73549)
 
-### Sunset di Pantai Jimbaran
+## Sunset di Pantai Jimbaran
 
 Yang paling berkesan adalah nikmatin sunset di Pantai Jimbaran. Dari villa cuma jalan kaki lima menit, super praktis. Kami main air sambil lihat matahari terbenam yang cantik banget, warna emas berkilau, airnya berkilauan, wajib banget foto-foto.
 
@@ -179,7 +179,7 @@ Foto oleh Lin Yanwei
 
 Di bawah pemandangan keren ini, aku harus puji lagi tour guidenya. Dia bawa ranselku, sambil motret dari samping dan ngasih arahan, bahkan khawatir celana pacarku kotor, dia lepas sendal dan suruh pacarku duduk di atasnya. Dedikasinya bikin aku terharu sampai nangis, setiap fotonya cantik banget.
 
-### Sundara by Four Seasons
+## Sundara by Four Seasons
 
 Restoran dinner di Four Seasons, Sundara, nggak bisa dipungkiri, dari pintu masuk yang megah langsung terasa suasananya mewah. Posisinya di tepi pantai, pemandangan oke banget, ada live band juga, suasananya, pelayanannya, lingkungannya, dan semua detailnya bener-bener 💯.
 
@@ -189,7 +189,7 @@ Tapi, maaf banget, makanannya enggak enak banget sampai nggak bisa dikasih nilai
 
 Kesan paling kuat dari dinner itu malah roti dan mentega yang masih lumayan bisa dimakan. Bener-bener nyesel banget.
 
-### Cuca
+## Cuca
 
 ![林彥瑋提供](https://images.gobaligo.id/vocus/vocus_6fc7a41afe1e55583fdb17392f461539.jpg)
 
@@ -201,13 +201,13 @@ Kalau kamu suka makanan ringan dan nggak masalah dengan cara makan tanpa menu, C
 
 > Pesan [Pengalaman Makan di Cuca Restaurant Jimbaran](https://affiliate.klook.com/redirect?aid=116349&aff_adid=880709&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91308-cuca-restaurant-dining-experience-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D8041d936a0)
 
-### 
+## 
 
 {{block:jim}}
 
 ***
 
-### Tips Ramah
+## Tips Ramah
 
 🌟 Ke Bali, jangan lupa apply visa online biar nggak antre
 
@@ -219,7 +219,7 @@ Kalau kamu suka makanan ringan dan nggak masalah dengan cara makan tanpa menu, C
 
 🌟 Transportasi di sini parah banget! Harus siapin waktu ekstra buat macet.
 
-### Rekomendasi Driver & Guide
+## Rekomendasi Driver & Guide
 
 ![林彥瑋提供](https://images.gobaligo.id/vocus/vocus_7dbdaf17808074ea7ebaf6d64db2837e.jpg)
 

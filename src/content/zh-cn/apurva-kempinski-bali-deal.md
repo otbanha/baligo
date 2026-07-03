@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d9034b3eade783ad2a93a96720a8df57.jpg'
 originalUrl: 'https://vocus.cc/article/69aa4faefd897800016bbeda'
 lang: zh-cn
-_srcHash: b12362af44c382d5350a6b477f9935c7
+_srcHash: 6f4d356ff73058914e79b4017633c5db
 ---
 
 如果你正在找 **巴厘岛五星酒店优惠**，最近出现了一个相当吸引人的促销方案。
@@ -93,7 +93,7 @@ The Apurva Kempinski Bali 可以说是近几年巴厘岛讨论度非常高的五
 
 > [巴厘岛凯宾斯基 The Apurva Kempinski Bali 荣获 2024「最佳永续酒店」殊荣](/blog/apurva-kempinski-sustainability-award/)
 
-### 1️⃣ 巴厘岛最壮观酒店建筑之一
+## 1️⃣ 巴厘岛最壮观酒店建筑之一
 
 酒店入口的巨大阶梯与水景设计非常震撼，不少旅客第一次走进大厅都会有「像皇宫一样」的感觉。
 
@@ -105,11 +105,11 @@ The Apurva Kempinski Bali 可以说是近几年巴厘岛讨论度非常高的五
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_48c7cc7bc07742ffc352eadce74c52a1.jpg)
 
-### 2️⃣ 努沙杜瓦悬崖海景
+## 2️⃣ 努沙杜瓦悬崖海景
 
 酒店建在高地，可以俯瞰印度洋海景，夕阳时段特别漂亮。
 
-### 3️⃣ 房型选择很多
+## 3️⃣ 房型选择很多
 
 除了基本豪华房之外，也有泳池房与 Villa，适合情侣、蜜月与家庭旅行。
 

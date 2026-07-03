@@ -26,7 +26,8 @@ tags:
   - 峇里島自由行
   - 巴厘岛自由行
   - BaliTravelTips
-heroImage: https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
+heroImage: >-
+  https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
@@ -36,26 +37,26 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: 8b7fd23b3005a8c50bdd1b7b377163e7
+_srcHash: 9eb2c23cbd7ec059d1663af9ae535e0f
 ---
 
 休閒玩家免申請都飛得嘅超簡單懶人包，附禁飛區＆實用 checklist
 
 準備帶無人機去峇里島拍攝夢幻稻田、日落海灘，但擔心被罰款或者沒收？呢篇 2026 年最新整理嘅指南，用最白話嘅方式幫您一次搞清楚所有規定！唔使再東查西查，直接存低就可以安心出發～
 
-### 快速 30 秒總結
+## 快速 30 秒總結
 
 - **大部分旅客**：無人機 **< 2kg** + 休閒使用 → **完全免申請**，直接飛！
 - **唯一關鍵**：遵守「視線內、150 米高、避開人群同寺廟」三大鐵律。
 - 違規最常見下場：罰款、沒收，甚至影響下次入境。
 
-### 1. 我需要申請許可嗎？
+## 1. 我需要申請許可嗎？
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776665614492-screenshot_2026-04-20-13-11-40-656_md.obsidian-edit.jpg)
 
 **好消息**：99% 嘅旅客都符合「唔需要申請」呢一欄！
 
-### 2. 最重要嘅「唔飛得」鐵律（記住呢 8 點就唔會踩雷）
+## 2. 最重要嘅「唔飛得」鐵律（記住呢 8 點就唔會踩雷）
 
 - 距離峇里島登巴薩機場 **15 公里內** 絕對禁飛（好多熱門海灘其實都喺範圍內！）
 - 距離人群、車輛、船隻至少 **30 米**
@@ -74,7 +75,7 @@ https://youtube.com/shorts/i7GCuR3uI-k?si=ZgiVYpUZYHojqrKY
 
 **峇里島文化提醒**：當地人好重視宗教，飛越寺廟拍攝好容易被制止。建議先問酒店或者當地人，寧願多尊重、少麻煩！
 
-### 3. 帶無人機入境峇里島 OK 嗎？
+## 3. 帶無人機入境峇里島 OK 嗎？
 
 ✅ **完全冇問題**！
 個人休閒用一部通常海關唔會刁難，但請務必：
@@ -82,14 +83,14 @@ https://youtube.com/shorts/i7GCuR3uI-k?si=ZgiVYpUZYHojqrKY
 - 電池隨身攜帶（絕對唔可以托運）
 - 確認航空公司電池數量限制
 
-### 4. 想商業拍攝或者重機點算？
+## 4. 想商業拍攝或者重機點算？
 
 - 超過 2kg、拍 YouTube 營利影片、婚紗等 → 必須申請
 - 使用印尼官方 **SIDOPI-GO** 系統線上申請
 - 建議提前 **至少 2 個禮拜** 準備保險、飛行計劃
 - 聯絡 DGCA：hubud@dephub.go.id 或者 +62 8 111 004 222
 
-### 5. 峇里島飛行實用 Tips（讓你飛得更順、更靚）
+## 5. 峇里島飛行實用 Tips（讓你飛得更順、更靚）
 
 - **最佳地點**：東峇里 Amed、西峇里國家公園、Jatiluwih 稻田、Balangan 海灘
 - 建議買 **landing pad**（沙多、火山灰容易吸磁）
@@ -99,7 +100,7 @@ https://youtube.com/shorts/i7GCuR3uI-k?si=ZgiVYpUZYHojqrKY
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776664958144-20260420_055753_0_utc_0.png)
 
-### 常見問題 Q&A
+## 常見問題 Q&A
 
 **Q：可以飛酒店泳池上空嗎？**
 A：多數酒店都禁止，建議先問櫃枱。
@@ -110,7 +111,7 @@ A：一定要有人幫你睇地面情況，否則就違規。
 **Q：規定會突然改變嗎？**
 A：目前 2026 年未有重大更新，但出發前建議再 Email DGCA 確認一次。
 
-### 最後一句話
+## 最後一句話
 
 2026 年嘅峇里島對休閒無人機仍然相當友善，關鍵就係「**遵守規則 + 尊重當地文化**」。飛得安全、影得靚，亦一齊守護呢片美麗島嶼啦！
 

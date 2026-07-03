@@ -21,18 +21,18 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4b8a938dd80f7d576d1292655493c255.png'
 originalUrl: 'https://vocus.cc/article/67278942fd89780001b5fe3d'
 lang: id
-_srcHash: 8bef3c5a4e5c75075115b83e9b98cc95
+_srcHash: ee606ba7f4988ca05f348d6996e6c20a
 ---
 
 Siapa sangka saat menikmati sunset di pantai Bali yang indah, momen indah ini bisa jadi panggung penipu? Hari ini aku mau cerita pengalaman pribadi, semoga ini jadi pengingat buat kamu yang traveling di Bali buat tetap waspada, biar nggak jatuh ke dalam perangkap penipuan.
 
 ***
 
-### Modus Penipuan 'Orang Asing' di Pantai
+## Modus Penipuan 'Orang Asing' di Pantai
 
 Kejadiannya pas malam terakhir aku sekeluarga di Bali. Kami jalan-jalan di pantai, ombak kecil nyamperin pasir, langit merah jingga—suasananya romantis dan santai banget. Tapi tiba-tiba dua orang asing narik perhatian kami—cowok dan cewek, penampilannya kayak orang Timur Tengah. Mereka nyapa ramah, nanya dari mana asal kami, dan ngobrolin topik-topik yang keliatannya 'aman-aman aja'.
 
-### Bocoran Modus Penipuan: Mulai dari Nanya Uang
+## Bocoran Modus Penipuan: Mulai dari Nanya Uang
 
 Obrolan mereka pelan-pelan beralih ke mata uang kami, dan mereka pura-pura penasaran 'belum pernah lihat uang kertas NT$/HKD/Ringgit'. Mereka langsung buka dompet dan pamer isinya yang penuh USD, kayak mau nunjukin kalau mereka juga turis, biar tercipta 'rasa saling percaya' yang palsu. Terus, mereka minta kami pamerin uang kami, seolah ini cuma 'pertukaran budaya'.
 
@@ -40,7 +40,7 @@ Pas itu, suamiku udah mau ngeluarin dompet buat nunjukin uang kami. Tapi insting
 
 ***
 
-### Tips Biar Nggak Kena Tipu
+## Tips Biar Nggak Kena Tipu
 
 Setelah itu, baru sadar kalau ini mungkin modus penipuan. Cara 'pamer uang' gini biasanya bikin turis lengah, biar perhatiannya teralih, bahkan kasih kesempatan penipu buat 'nuker' atau 'nyolong' duit korban. Meskipun kali ini berhasil dihindari, pengalaman ini tetap jadi pengingat buat aku sekeluarga: pas traveling, se-santai apapun suasananya, tetaplah waspada.
 

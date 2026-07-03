@@ -19,12 +19,12 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 8dd4b4feadfdee3696a95e55df6b0055
+_srcHash: ccf5961443bc8141d0287c70f7f80cac
 ---
 
 ![](https://cdn0-production-images-kly.akamaized.net/mk5QdH_u9Q_q0dLvnEFYOLsZNSY=/1280x720/smart/filters:quality(75):strip_icc()/kly-media-production/medias/4192906/original/043115500_1665844241-IMG-20221015-WA0010.jpg)
 
-### 🗞️ Hari Ini: Wisata Medis Premium Mulai Terbentuk & Kebijakan Lingkungan yang Mengguncang
+## 🗞️ Hari Ini: Wisata Medis Premium Mulai Terbentuk & Kebijakan Lingkungan yang Mengguncang
 
 - **Kawasan Ekonomi Khusus Sanur (KEK Sanur) 'Pusat Estetika & Kesehatan Internasional' Resmi Dibuka Hari Ini**: Fasilitas flagship medis estetika kelas dunia 'The Solitaire' yang terletak di dalam KEK Sanur resmi diresmikan pada 18 Mei lalu. Kawasan ini berhasil memecahkan rekor di Asia Tenggara dengan **mengintegrasikan dokter spesialis top dari Korea Selatan (seperti klinik bedah plastik terkenal Banobagi), Brasil, Australia, dan tim ahli di bidang estetika medis, anti-aging, regenerative medicine, serta transplantasi rambut** dalam satu kawasan legal yang sama. Peresmian fasilitas ini menandai transformasi Bali menjadi pusat wisata medis (Medical Tourism) internasional yang ikonik.
 
@@ -34,4 +34,4 @@ _srcHash: 8dd4b4feadfdee3696a95e55df6b0055
 
 - **Sorotan Baru Wisata Olahraga (Sport Tourism): Turnamen Gateball Piala Gubernur Tahunan Resmi Ditetapkan**: Pemerintah Provinsi Bali dan Asosiasi Gateball Seluruh Indonesia (Pergatsi) telah resmi mencapai kesepakatan untuk bersama-sama menciptakan 'Turnamen Gateball Terbuka Piala Gubernur (Gubernur Cup)' dan mendorongnya menjadi acara internasional tahunan reguler di seluruh pulau. Evaluasi resmi menyebutkan, dengan infrastruktur pariwisata yang matang dan pengalaman penyelenggaraan yang kaya di pulau ini, turnamen tersebut akan efektif menarik kelompok penggemar olahraga dengan daya beli tinggi dari mancanegara, menyuntikkan sumber wisatawan olahraga dengan konsumsi tinggi ke pulau ini.
 
-### 📄 Topik yang Menarik Wisatawan: Keamanan Logistik Laut & Keamanan Komunitas Pemuda
+## 📄 Topik yang Menarik Wisatawan: Keamanan Logistik Laut & Keamanan Komunitas Pemuda

@@ -30,7 +30,7 @@ agoda_star_rating: 5
 latitude: -8.656766891479492
 longitude: 115.13082122802734
 lang: id
-_srcHash: 0b27e7afcf519672cad7f2ed3ed4af52
+_srcHash: b57fcaa03e4759ab006ac79829776a71
 ---
 
 Kalau kamu lagi cari tempat liburan yang bisa menikmati keindahan alam Bali sambil tetap merasakan kemudahan modern, **Holiday Inn Resort Bali Canggu (by IHG)** yang baru buka akhir 2023 ini wajib banget masuk daftar incaran. Resort bintang lima ini nggak cuma punya lokasi kece, tapi juga pelayanan ramah, fasilitas lengkap, dan value for money yang juara — sampai-sampai dapat rating **9,4** di berbagai platform.
@@ -39,7 +39,7 @@ Kalau kamu lagi cari tempat liburan yang bisa menikmati keindahan alam Bali samb
 
 ***
 
-### 🏖️ Lokasi Kece dan Lingkungan Sekitar
+## 🏖️ Lokasi Kece dan Lingkungan Sekitar
 
 Hotel ini ada di jantung Canggu, tinggal jalan kaki ke pantai. Di sekitarnya ada lebih dari 100 restoran, kafe, dan toko-toko unik — hidup banget! Kayak yang ditulis tamu: "Lokasinya ideal, dekat pantai, toko, dan restoran. Cocok buat eksplorasi, tapi juga jadi tempat tenang buat kabur dari keramaian."
 
@@ -47,7 +47,7 @@ Buat yang suka surfing, bisa langsung ke Echo Beach atau Berawa Beach buat nanta
 
 ***
 
-### 🛏️ Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian
+## 🛏️ Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian
 
 Hotel punya 10 tipe kamar, dari standar sampai suite keluarga. Yang paling favorit sama keluarga adalah **1 Bedroom Kids Suite** — desainnya bener-bener dipikirin. Anak-anak bisa tidur di ranjang susu sendiri, tinggal tutup sekat, jadi punya ruang pribadi sendiri. Seru buat quality time keluarga, tapi tetap ada privasi.
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774350877857-517838674.jpg)
@@ -66,7 +66,7 @@ Banyak tamu yang bilang kamarnya nyaman banget:
 
 "Kamar modern, nyaman, lengkap semua yang kamu butuhkan. Kolam renang infinity-nya menghadap langsung ke Pantai Canggu, apalagi pas matahari terbenam — langit terpantul di air, cantik banget sampai bikin napas tertahan."
 
-### 🍽️ Pilihan Makanan Berlimpah, Sarapan Jadi Favorit
+## 🍽️ Pilihan Makanan Berlimpah, Sarapan Jadi Favorit
 
 Restoran di hotel ini menyajikan berbagai hidangan internasional dan lokal. Tapi yang paling bikin tamu kangen adalah **pengalaman sarapannya**:
 
@@ -80,7 +80,7 @@ Kalau kamu malas keluar, layanan kamar 24 jam siap sedia kapan pun kamu ingin me
 
 ***
 
-### 🏄 Fasilitas Lengkap, Seru buat Semua Usia
+## 🏄 Fasilitas Lengkap, Seru buat Semua Usia
 
 Fasilitas hotel ini beragam banget — mau kamu penggemar fitness, tipe yang rebahan di pinggir kolam, atau pencinta nightlife, semuanya terakomodasi:
 
@@ -107,7 +107,7 @@ Ada traveler yang cerita:
 
 ***
 
-### 👏 Pelayanan detail banget, stafnya ramah dan hangat
+## 👏 Pelayanan detail banget, stafnya ramah dan hangat
 
 Banyak traveler yang khusus nyebut pelayanan staf hotel yang oke, di review sering muncul pujian kayak gini:
 
@@ -119,7 +119,7 @@ Semangat dan profesionalisme staf bikin pengalaman nginep makin berkesan. Skor k
 
 ***
 
-### 💰 Worth it banget, harganya masuk akal
+## 💰 Worth it banget, harganya masuk akal
 
 Harga rata-rata hotel di Bali sekitar $76–$100 USD, sementara Holiday Inn Canggu meskipun harganya sedikit lebih tinggi (sekitar $151–$200), fasilitas, layanan, dan pengalaman yang ditawarkan benar-benar sepadan. Banyak tamu bilang: 'Value for money banget, overall experience melebihi ekspektasi.'
 
@@ -129,7 +129,7 @@ Harga rata-rata hotel di Bali sekitar $76–$100 USD, sementara Holiday Inn Cang
 
 ***
 
-### ✅ Kesimpulan: Destinasi Liburan yang Wajib Kamu Kunjungi Lagi
+## ✅ Kesimpulan: Destinasi Liburan yang Wajib Kamu Kunjungi Lagi
 
 Baik kamu traveling bareng keluarga, pasangan, atau solo trip, Holiday Inn Resort Bali Canggu bisa kasih kamu pengalaman menginap yang santai, seru, dan penuh kejutan. Lokasi strategis, desain kamar yang nyaman, pilihan makanan dan fasilitas yang lengkap, plus pelayanan staf yang bikin hati hangat — nggak heran banyak tamu bilang di review mereka:
 

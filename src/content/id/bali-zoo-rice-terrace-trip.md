@@ -24,14 +24,14 @@ originalUrl: 'https://vocus.cc/article/67aeca73fd89780001e7c275'
 category:
   - 遊記分享
 lang: id
-_srcHash: e26ea0bab79055b882daf7b8fd0ea5cd
+_srcHash: 9d1be2475062a0f2842a749e005281d3
 ---
 
-### Review & Rekomendasi Liburan ke Bali
+## Review & Rekomendasi Liburan ke Bali
 
 > Konten di bawah diadaptasi dari postingan perjalanan [Chingju Wang](https://www.facebook.com/share/p/193Gv3vLVV/)
 
-### Tanggal Perjalanan: 6-9 Februari 2025
+## Tanggal Perjalanan: 6-9 Februari 2025
 
 Ini pertama kalinya aku ke Bali, sih. Meskipun cuma empat hari, tapi perjalanan ini penuh kejutan dan momen mengharukan. Makasih banget buat para senior yang udah kasih saran berharga waktu aku tanya di forum online September tahun lalu — bikin itinerary jadi makin lancar. Buat balas budi, aku mau share review dan rekomendasi lengkap perjalanan ini, semoga bisa jadi referensi buat kalian yang rencana ke Bali.
 
@@ -39,7 +39,7 @@ Ini pertama kalinya aku ke Bali, sih. Meskipun cuma empat hari, tapi perjalanan 
 
 ---
 
-### 1. **Mara River Safari Lodge: Pengalaman Unik Tidur Bareng Satwa**
+## 1. **Mara River Safari Lodge: Pengalaman Unik Tidur Bareng Satwa**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b29252ee62cf7e762ff1f447761b8fa7.jpg)
 
@@ -55,7 +55,7 @@ Selain itu, naik mobil wisata juga gampang banget, bisa lihat berbagai satwa den
 
 ---
 
-### 2. **Pura Ulun Danu Beratan: Tempat Spiritual yang Damai dan Menenangkan**
+## 2. **Pura Ulun Danu Beratan: Tempat Spiritual yang Damai dan Menenangkan**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_bbe079ae357378ab17d4b8d0b2fcadd3.jpg)
 
@@ -65,7 +65,7 @@ Buat para orang tua yang udah 70 tahun ke atas, **Pura Ulun Danu Beratan** adala
 
 ---
 
-### 3. **Pura Tanah Lot: Keajaiban Tebing Karang yang Megah**
+## 3. **Pura Tanah Lot: Keajaiban Tebing Karang yang Megah**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e939c789a7f931dc80650833c7e66e7c.jpg)
 
@@ -77,7 +77,7 @@ Buat para orang tua yang udah 70 tahun ke atas, **Pura Ulun Danu Beratan** adala
 
 ---
 
-### 4. **Ayunan di Sawah Terasering: Aktivitas Seru untuk Semua Usia**
+## 4. **Ayunan di Sawah Terasering: Aktivitas Seru untuk Semua Usia**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_8dd0485bc0845aba22d505edb90a5413.jpg)
 
@@ -89,7 +89,7 @@ Pemandangan sawah terasering di Bali emang terkenal banget. Kita milih spot sawa
 
 ---
 
-### 5. **Pura Tirta Empul: Kejutan Ganda dari Ritual Pembersihan dan Istana Presiden**
+## 5. **Pura Tirta Empul: Kejutan Ganda dari Ritual Pembersihan dan Istana Presiden**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4f849d9c235d59a137fbef5de65d6f96.jpg)
 
@@ -101,7 +101,7 @@ Pemandangan sawah terasering di Bali emang terkenal banget. Kita milih spot sawa
 
 ---
 
-### 6. **Jalan Tebing: Pemandangan Spektakuler & Tips Transportasi**
+## 6. **Jalan Tebing: Pemandangan Spektakuler & Tips Transportasi**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b589b4f1505f339f21868993d57b2ec4.jpg)
 
@@ -115,7 +115,7 @@ Pemandangan **Jalan Tebing** ini keren banget, tapi karena pernah longsor bebera
 
 ---
 
-### 7. **Garuda Wisnu Kencana Cultural Park: Megah Tapi Agak Sepi**
+## 7. **Garuda Wisnu Kencana Cultural Park: Megah Tapi Agak Sepi**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9ff7c54eabc3f3383b36804884d88bd9.jpg)
 
@@ -127,7 +127,7 @@ Pemandangan **Jalan Tebing** ini keren banget, tapi karena pernah longsor bebera
 
 ---
 
-### 8. **Sopir Sewa: Pahlawan di Balik Perjalanan**
+## 8. **Sopir Sewa: Pahlawan di Balik Perjalanan**
 
 Kesuksesan perjalanan kali ini sebagian besar berkat sopir sewa kami, **Xiao Wu**, dan istrinya, **Betty Pingky**. Karena kami berlima plus bawa banyak barang, Xiao Wu sengaja nyiapin mobil besar biar perjalanan tetap nyaman. Teknik nyetirnya sangat stabil, nggak ada rem mendadak atau hentakan—anak-anak dan orang tua yang lagi pilek jadi bisa istirahat enak di mobil.
 
@@ -139,7 +139,7 @@ Yang nggak kalah penting, Betty Pingky sebelum berangkat udah bantu banget ngece
 
 ---
 
-### 9. **Kenapa Nggak Macet Sama Sekali?**
+## 9. **Kenapa Nggak Macet Sama Sekali?**
 
 Selama perjalanan ini, kami hampir nggak ketemu macet sama sekali, bikin aku kaget banget. Pas dipikir-pikir lagi, mungkin ada beberapa alasan:
 
@@ -153,13 +153,13 @@ Faktor-faktor ini bikin perjalanan kami makin lancar, dan bikin kesan aku ke Bal
 
 ---
 
-### 10. **Kenapa Foto Sedikit: Sibuk Jagain Anak dan Orang Tua**
+## 10. **Kenapa Foto Sedikit: Sibuk Jagain Anak dan Orang Tua**
 
 Foto di perjalanan ini lebih sedikit dari yang direncanain, soalnya pas turun dari mobil, aku hampir sepanjang waktu sibuk jagain anak 7 tahun dan orang tua 70 tahun. Anaknya aktif banget, selalu perlu diawasi, sementara orang tua butuh istirahat dan bantuan pas-pasan. Walaupun foto cantik jadi berkurang, tapi bisa bikin sekeluarga senang dan aman, menurutku itu lebih penting daripada jepret-jepret. Soalnya, inti traveling itu bikin kenangan, bukan cuma buat ngepos doang.
 
 ---
 
-### 11. **Kekecilan Kolam Renang Villa**
+## 11. **Kekecilan Kolam Renang Villa**
 
 ![示意圖](https://images.gobaligo.id/vocus/vocus_b77f1b401df4485747072419ea8c5e64.jpg)
 
@@ -171,7 +171,7 @@ Catatan editor: Banyak villa di Bali yang kolamnya dalam banget. Kalau nemu situ
 
 ---
 
-### Kesimpulan & Rating
+## Kesimpulan & Rating
 
 Perjalanan ke Bali kali ini bikin sekeluarga aku puas banget, apalagi pelayanan driver sewa mobil yang profesional dan pemandangan alam Bali yang indah, bikin kami terkesan banget. Tadinya aku pikir lalu lintas di Bali bakal macet kayak di Jakarta, tapi ternyata hampir nggak ada macet sama sekali, ini bikin pengalaman traveling kami makin oke. Kalau nilai maksimal 100, aku kasih perjalanan ini **95 poin**, satu-satunya pengurangan cuma soal kedalaman kolam renang Villa.
 
@@ -179,7 +179,7 @@ Meskipun perjalanan ini cukup padat, bahkan sampai nggak sempat dipijat (setelah
 
 ---
 
-### Rekomendasi & Saran
+## Rekomendasi & Saran
 
 - **Driver Sewa Mobil**: Wajib banget rekomendasiin **Betty Pingky** dan suaminya **Xiao Wu**, pelayanan mereka detail dan ramah, bahasa Mandarin lancar, cocok banget buat liburan keluarga.
 - **Atur Destinasi**: Saran atur itinerary sesuai usia dan minat anggota keluarga, misalnya keluarga dengan anak kecil bisa tambahin aktivitas kebun binatang atau sawah terasering, sementara orang tua bisa dikasih destinasi yang lebih tenang kayak Pura Ulun Danu.

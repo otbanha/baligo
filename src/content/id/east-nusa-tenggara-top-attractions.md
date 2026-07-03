@@ -26,7 +26,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ffc777e5dd5ae6c10a448209f0dfb9cf.jpg'
 originalUrl: 'https://vocus.cc/article/66f8d419fd89780001458d42'
 lang: id
-_srcHash: 0109b6691915a6854a6260bcced922a7
+_srcHash: 4c7b6519f6231624c2f62cc4d7dae706
 ---
 
 **10 Destinasi Wisata Super Indah di Nusa Tenggara Timur (NTT): Jelajahi Keajaiban Alam Tenggara Indonesia**
@@ -35,7 +35,7 @@ _srcHash: 0109b6691915a6854a6260bcced922a7
 
 Nusa Tenggara Timur (NTT) itu hidden gem banget di Indonesia, punya banyak tempat wisata alam dan budaya yang bikin melongo. Provinsi di tenggara Indonesia ini terkenal dengan kepulauannya yang memesona dan ekosistem yang beragam. Artikel ini bakal ajak kamu kenalan lebih dalam sama beberapa tempat wajib kunjung pas traveling ke NTT.
 
-### **1. Taman Nasional Komodo**
+## **1. Taman Nasional Komodo**
 
 Taman Nasional Komodo terletak di antara Pulau Sumbawa dan Pulau Flores, jadi kawasan penting buat melindungi komodo (Varanus komodoensis) yang unik dan habitatnya. Ekosistem di sini nggak cuma komodo, tapi juga biota laut yang beragam dan burung-burung khas. Taman ini jadi taman nasional sejak 1980, dan tahun 1991 ditetapkan sebagai Warisan Dunia UNESCO.
 
@@ -43,7 +43,7 @@ Taman Nasional Komodo terletak di antara Pulau Sumbawa dan Pulau Flores, jadi ka
 
 Komodo Dragon
 
-### **2. Labuan Bajo**
+## **2. Labuan Bajo**
 
 Labuan Bajo adalah pintu gerbang utama masuk ke wilayah NTT. Karena punya bandara dan pelabuhan, tempat ini punya banyak fasilitas wisata, termasuk hotel, restoran, dan banyak agen perjalanan lokal.
 
@@ -69,7 +69,7 @@ Air Terjun Cunca Rami
 
 > [Berbagai paket wisata NTT di Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=924347&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DLabuan%2520Bajo%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3Db5469becd4)
 
-### **3. Pantai Dintor**
+## **3. Pantai Dintor**
 
 Pantai Dintor yang ada di Desa Satar Ruwuk ini terkenal banget sama pasir putih dan air laut biru jernihnya. Dari sini, kamu juga bisa lihat pemandangan Pulau Mules di seberang yang super cantik. Jalan-jalan santai di pinggir pantai atau duduk di bawah pohon kelapa sambil dengerin deburan ombak — itu cara terbaik buat nikmatin surga kecil ini.
 
@@ -77,7 +77,7 @@ Pantai Dintor yang ada di Desa Satar Ruwuk ini terkenal banget sama pasir putih 
 
 Pantai Dintor
 
-### **4. Desa Wae Rebo**
+## **4. Desa Wae Rebo**
 
 Wae Rebo Village dijuluki 'desa di atas awan', terletak di dataran tinggi selatan Pulau Flores. Desa ini menarik banyak wisatawan karena tradisi budayanya yang masih terjaga dengan baik. Kamu bisa melihat rumah tinggi berbentuk kerucut khas setempat yang disebut 'Mbaru Niang', dan merasakan bagaimana penduduk setempat melestarikan adat istiadat leluhur mereka.
 
@@ -85,7 +85,7 @@ Wae Rebo Village dijuluki 'desa di atas awan', terletak di dataran tinggi selata
 
 Wae Rebo Village
 
-### **5. Danau Kelimutu**
+## **5. Danau Kelimutu**
 
 Danau Kelimutu terkenal dengan tiga warna airnya yang berbeda. Tempat ini pernah muncul di uang kertas Rp5.000 edisi lama Indonesia. Danau tiga warna ini terkenal karena gradasi merah, biru, dan putihnya. Setelah mendaki Gunung Kelimutu setinggi 1.631 meter, kamu akan terpukau oleh keajaiban alam yang spektakuler ini.
 
@@ -93,7 +93,7 @@ Danau Kelimutu terkenal dengan tiga warna airnya yang berbeda. Tempat ini pernah
 
 Kelimutu Lake
 
-### **6. Bukit Warinding**
+## **6. Bukit Warinding**
 
 Pemandangan perbukitan di NTT juga nggak kalah memesona. Bukit Warinding adalah spot foto yang cukup populer. Tempat ini pernah dijadikan lokasi syuting film Indonesia 'Tongkat Emas'. Perbukitan yang berundak-undak ini mirip raksasa yang sedang berbaring di atas tanah — pemandangannya wajib banget kamu abadikan.
 
@@ -101,7 +101,7 @@ Pemandangan perbukitan di NTT juga nggak kalah memesona. Bukit Warinding adalah 
 
 Bukit Warinding
 
-### **7. Air Terjun Cunca Wulang**
+## **7. Air Terjun Cunca Wulang**
 
 Air Terjun Cunca Wulang terletak di Kecamatan Sano Nggoang, Manggarai Barat. Tempat ini adalah hidden gem yang tersembunyi di tengah hutan. Airnya jernih banget dan dikelilingi hutan lebat, bikin suasana jadi tenang dan damai. Kamu bisa berenang, berendam, atau sekadar menikmati keindahan alam di sini.
 
@@ -109,7 +109,7 @@ Air Terjun Cunca Wulang terletak di Kecamatan Sano Nggoang, Manggarai Barat. Tem
 
 Cunca Wulang Waterfall
 
-### **8. Desa Wisata Ululoga**
+## **8. Desa Wisata Ululoga**
 
 Desa Wisata Ululoga terkenal banget dengan kekayaan rempah-rempahnya. Di sini, kamu bisa ikut tur rempah yang unik, belajar cara menanam dan mengolah rempah lokal. Mulai dari pala sampai jahe, rempah-rempah ini jadi bagian penting dari budaya dan ekonomi setempat.
 
@@ -117,7 +117,7 @@ Desa Wisata Ululoga terkenal banget dengan kekayaan rempah-rempahnya. Di sini, k
 
 Wisata Ululoga Village
 
-### **9. Tradisi Berburu Paus (Lembata)**
+## **9. Tradisi Berburu Paus (Lembata)**
 
 Di Desa Lamalera, Pulau Lembata, penduduk setempat masih mempertahankan tradisi berburu paus yang sudah ada sejak abad ke-17. Ini adalah tradisi yang menunjukkan keberanian dan kearifan lokal. Proses berburunya sangat diatur, cuma jenis paus tertentu yang diburu, dan dilakukan dengan cara yang berkelanjutan.
 
@@ -125,7 +125,7 @@ Di Desa Lamalera, Pulau Lembata, penduduk setempat masih mempertahankan tradisi 
 
 Lembata
 
-### **10. Pulau Alor**
+## **10. Pulau Alor**
 
 Pulau Alor adalah surganya para penyelam, dengan 42 titik diving yang punya pemandangan bawah laut dengan terumbu karang yang spektakuler. Selain itu, ada banyak pantai dan tempat wisata budaya, seperti Museum Moko yang terkenal, dan Al-Qur'an kuno berusia 500 tahun yang terawat baik, yang menunjukkan sejarah dan budaya yang dalam di pulau ini.
 
@@ -135,13 +135,13 @@ Alor Island
 
 [Klook berbagai paket NTT](https://affiliate.klook.com/redirect?aid=116349&aff_adid=924347&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DLabuan%2520Bajo%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3Db5469becd4)
 
-### Peta Tempat Wisata
+## Peta Tempat Wisata
 
 Semua lokasi detail di atas bisa kamu lihat di Google Maps yang udah kita siapin. Klik [di sini](https://www.google.com/maps/d/u/0/edit?mid=1yez9rhVYwAPXJbLL5LS7d_xEOy4eM9Q&usp=sharing)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_8b8da8fc080d7b575e99856a701148b8.png)
 
-### **Kesimpulan**
+## **Kesimpulan**
 
 Keindahan alam dan kekayaan budaya di Nusa Tenggara Timur bikin daerah ini jadi salah satu destinasi wisata paling potensial di Indonesia. Mau kamu pecinta alam, penyelam, atau traveler yang cari pengalaman budaya, semuanya ada di sini. Siapin daftar liburanmu dan rasain sendiri kejutan-kejutan seru di tanah ini!
 

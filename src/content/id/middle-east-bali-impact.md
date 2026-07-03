@@ -31,14 +31,14 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: a9e8fb9ee82e5dd625729b0d4a193163
+_srcHash: 8f3bd477522a9133dccce27bb4f41e03
 ---
 
 你有沒有發現，最近訂機票的時候，價格好像悄悄地漲了一截？
 
 這不是你的錯覺。2026年，中東地緣政治的緊張局勢持續升溫，連帶讓全球能源市場跟著動盪。航空燃油的成本一旦上漲，最直接的連鎖反應就是機票跟著貴——而這對旅遊業高度依賴的 Bali 來說，是個不能忽視的警訊。
 
-### 航空燃油漲價，Bali 首當其衝
+## 航空燃油漲價，Bali 首當其衝
 
 Bali 有超過60%的GDP來自觀光業，對航空市場的依賴程度非常深。今年預計將迎來超過750萬名國際旅客，但能源危機的陰影正在悄悄籠罩。
 
@@ -46,7 +46,7 @@ Bali 有超過60%的GDP來自觀光業，對航空市場的依賴程度非常深
 
 > 台灣飛 Bali 漲多少？請看[這裡](/blog/2026-04-09-025558/)
 
-### 不只是國際線，連國內機票也跟著爆漲
+## 不只是國際線，連國內機票也跟著爆漲
 
 更讓人頭痛的是，Bali 的觀光業不只依賴外國遊客，本地的印尼旅客也佔了很大一塊。但現在國內線機票的價格已經不是過去的樣子了——
 
@@ -56,13 +56,13 @@ Ini artinya strategi Bali yang dulu pas lagi susah 'banting setir ke wisatawan d
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776853335462-airplane.jpeg)
 
-### Gimana sih pandangan pelaku industri pariwisata?
+## Gimana sih pandangan pelaku industri pariwisata?
 
 Perwakilan PHRI (Perhimpunan Hotel dan Restoran Indonesia) langsung nunjuk inti masalahnya: pariwisata itu sangat bergantung sama transportasi udara. Kalau tiket pesawat mahal, orang jadi mundur. Kalau pasokan energi terus terganggu dan harga BBM naik terus, Bali bisa menghadapi 'krisis pariwisata' yang bakal ngaruh ke okupansi hotel, pekerjaan karyawan, bahkan bikin beberapa usaha gulung tikar.
 
 Kedengerannya serem, tapi bukan berarti semuanya suram.
 
-### Bali tetap punya keunggulan
+## Bali tetap punya keunggulan
 
 Sejujurnya, daya tarik Bali di tengah gejolak ini masih solid. Menurut pengamatan konsultan perjalanan, wisatawan mandiri dan rombongan dari negara-negara Asia Tenggara belum menunjukkan penurunan signifikan, pasar India juga terus tumbuh, dan meskipun wisatawan Jepang agak naik-turun, situasinya diperkirakan bakal stabil setelah penerbangan langsung pulih.
 
@@ -70,7 +70,7 @@ Dibanding destinasi populer Asia lainnya, posisi Bali di hati wisatawan nggak go
 
 {{block:klook}}
 
-### Apa yang perlu diperhatikan sebelum traveling?
+## Apa yang perlu diperhatikan sebelum traveling?
 
 Kalau kamu lagi merencanakan liburan ke Bali, saran gue:
 

@@ -19,36 +19,36 @@ originalUrl: 'https://vocus.cc/article/68593269fd897800012cea64'
 category:
   - 旅行技巧
 lang: id
-_srcHash: ae6a611cd85c1e5f05681070644031cc
+_srcHash: a8757ecc9939e89c8f6569dfee987b7d
 ---
 
 **"Minta sharing hotspot HP"** bisa jadi modus penipuan atau tindakan nggak bener, apalagi di tempat umum atau area wisata. Waspada aja kalau ada yang minta gini, terutama di tempat ramai! Ini beberapa skenario penipuan atau risiko yang umum:
 
 ---
 
-### 📶 Modus Penipuan Hotspot Sharing:
+## 📶 Modus Penipuan Hotspot Sharing:
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_cdcce95419c06ccd0f04d397e1a75f49.png)
 
-### 1. **Mengelabui dengan Hotspot buat Curi Data**
+## 1. **Mengelabui dengan Hotspot buat Curi Data**
 
 Orang asing bisa pura-pura nggak punya internet, HP lowbat, atau sengaja kasihan biar kamu nyalain hotspot. Begitu nyambung, kalau setting hotspotmu nggak aman (misal jaringan terbuka, tanpa enkripsi), mereka bisa coba hack perangkatmu, curi data, atau pasang malware.
 
-### 2. **Aktivitas Ilegal dan IP-mu Jadi Kambing Hitam**
+## 2. **Aktivitas Ilegal dan IP-mu Jadi Kambing Hitam**
 
 Mereka bisa pakai hotspotmu buat akses internet ilegal, kayak download bajakan, hack, atau browsing konten terlarang. Semua aktivitas itu ninggalin jejak IP perangkatmu, bikin kamu jadi tersangka.
 
-### 3. **Jebakan Biaya Hotspot HP**
+## 3. **Jebakan Biaya Hotspot HP**
 
 Kalau kamu nyalain hotspot dari data seluler, pemakaian lama sama mereka bisa bikin kuota cepat habis dan tagihan membengkak, apalagi pas roaming internasional makin bahaya.
 
-### 4. **Ganti peran, pura-pura jadi 'penyedia hotspot' buat phising**
+## 4. **Ganti peran, pura-pura jadi 'penyedia hotspot' buat phising**
 
 Bisa juga sebaliknya: penipu bikin Wi-Fi gratis atau hotspot yang kelihatan normal (misalnya 'Free_WiFi' atau 'Hotel_Guest'), biar orang otomatis connect, lalu lewat serangan man-in-the-middle (MITM) mereka curi password akun dan info kartu kredit.
 
 ---
 
-### 🚨 Gimana cara melindungi diri?
+## 🚨 Gimana cara melindungi diri?
 
 - **Jangan pernah share hotspot ke orang asing**, meskipun keliatannya turis atau pelajar.
 - Kalau memang mau bantu, bantu aja buka Google Maps atau cari info — jangan biarin dia megang HP kamu.
@@ -58,7 +58,7 @@ Bisa juga sebaliknya: penipu bikin Wi-Fi gratis atau hotspot yang kelihatan norm
 
 ---
 
-### ✍️ Tips praktis (buat situasi traveling)
+## ✍️ Tips praktis (buat situasi traveling)
 
 Di tempat umum kayak **bandara Bali, kafe, pantai, atau mal**, kalau ada orang asing minta share hotspot, **tolak dengan sopan tapi tegas**.
 
@@ -66,7 +66,7 @@ Di tempat umum kayak **bandara Bali, kafe, pantai, atau mal**, kalau ada orang a
 
 ---
 
-### 🇬🇧 Versi Inggris (cocok buat turis asing)
+## 🇬🇧 Versi Inggris (cocok buat turis asing)
 
 > “Sorry, I have limited data and can't share my hotspot. I hope you understand!”
 

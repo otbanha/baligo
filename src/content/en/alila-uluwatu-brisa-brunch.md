@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1c2d2e6554a3c1476ff9cef36bf2689b.jpg'
 originalUrl: 'https://vocus.cc/article/68451457fd89780001df60be'
 lang: en
-_srcHash: 23a0c485f36f0e5838a1351e530858df
+_srcHash: 8863bf03cd1589851b70b830f00c3c9c
 ---
 
 Standing on the terrace of CIRE restaurant at Alila Villas Uluwatu, the Indian Ocean breeze gently caresses your cheeks while the awe-inspiring cliffside view stretches beneath your feet. This isn't just any brunch date—it's a gastronomic marathon that lasts from noon until dusk.
@@ -36,7 +36,7 @@ Standing on the terrace of CIRE restaurant at Alila Villas Uluwatu, the Indian O
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9a2eb3064d9941b060c7ff0260527c5d.jpg)
 
-### When "Brunch" Meets Bali Time
+## When "Brunch" Meets Bali Time
 
 Honestly, when I first saw that "Brisa Brunch" runs from 12 PM to 4 PM, I couldn't help but laugh. This isn't just brunch—it's a leisurely Balinese feast! A local friend winked and said, "In Bali, time is meant to be savored, not rushed."
 
@@ -44,21 +44,21 @@ KLOOK's newly launched "[Dining Experience at Alila Villas Uluwatu](https://affi
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_cd123f46c39552d4bf8ae22a5cc40d7e.png)
 
-### A Seafood Lover's Paradise
+## A Seafood Lover's Paradise
 
 Starting with the seafood station was undoubtedly a wise choice. The crystal-clear Tuna Crudo shimmered like a gemstone in the sunlight, and the moment lime juice was drizzled over it, I could almost hear the ocean sigh. The Jimbaran Shrimp carried the familiar aroma of Balinese charcoal grilling, reminding me of sunset barbecue stalls at Jimbaran Beach—only here, the presentation was ten times more refined. The most surprising dish was the octopus, impossibly tender, paired with a smoky red pepper sauce that had the French diners at our table exclaiming "C'est magnifique!" three times. As we indulged, a live saxophonist began playing, blending lazy jazz melodies with the sound of waves, adding a romantic touch to this seafood feast.
 
-### The Chef's Hidden Surprise
+## The Chef's Hidden Surprise
 
 Just when we thought we'd tried everything, the server mysteriously handed us a handwritten card: "Today, the chef has prepared a special Padang beef mini burger—it's not on the menu." This Indonesian classic was deconstructed into a three-layered miniature feast: beef braised for 36 hours, caramelized shallots, and homemade sambal, sandwiched in a charcoal bun. I secretly noticed that nearly every guest squinted their eyes upon taking the first bite—a natural reaction when taste buds encounter pure delight.
 
-### The Pastry Chef's Prank
+## The Pastry Chef's Prank
 
 The dessert section resembled a modern art exhibition, especially the "Shattered Chocolate Sphere." The waiter poured hot passion fruit sauce over it right at the table, watching the chocolate shell crack like molten lava, revealing coconut ice cream and tropical fruits inside. The kids at the next table were utterly mesmerized, even forgetting their mobile games. My personal favorite was the pandan tiramisu—a rebellious romance between Southeast Asian herbs and Italian dessert, offering a uniquely delicious twist.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9d5b33c029f609db6725ad75ff99f312.jpg)
 
-### Digesting by the Cliff
+## Digesting by the Cliff
 
 The most luxurious part of a full meal is lingering in the ocean-facing sofa seats, letting the Indian Ocean breeze carry away the fullness. The waiter thoughtfully adjusts the sunshade angle and brings chilled towels and ginger tea. We stayed from the blazing sun until sunset, watching the minimalist lines of CIRE Restaurant gradually gilded by the golden hour, with champagne glasses reflecting Bali's twilight.
 

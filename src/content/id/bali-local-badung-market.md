@@ -32,7 +32,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 9effb04c42b7ca55f1c14ef76887d0df
+_srcHash: 05b168659324b53fdf1ead9c0882e186
 ---
 
 Pas liburan ke Bali, urusan beli oleh-oleh tuh bikin pusing sendiri. Ukiran kayu, kain batik, lilin aroma, perak... jalan-jalan di setiap pasar seni, barangnya banyak banget sampai bingung mau bawa pulang apa. Tapi jujur, kios suvenir di kawasan turis ini, orang lokal sendiri nggak pernah belanja di sana.
@@ -43,7 +43,7 @@ Beberapa tahun terakhir, makin banyak turis yang nemuin rahasia ini. Dibanding o
 
 ![raw-image](https://images.gobaligo.id/images/2026-05/1779287700843-artikel_201905120521_badungtraditionalmarket.jpg)
 
-### Bahkan di Ubud pun Ada Pasar Pagi yang Nggak Kelihatan
+## Bahkan di Ubud pun Ada Pasar Pagi yang Nggak Kelihatan
 
 Ada fenomena menarik: meskipun Ubud adalah pusat turis, pasar tradisional di pagi hari tetap rame banget. Bedanya — **pasar ini tutup jam delapan pagi**.
 
@@ -51,7 +51,7 @@ Artinya, saat sebagian besar turis bangun tidur dan siap jalan-jalan, pasar ini 
 
 Ini hampir jadi rutinitas di setiap komunitas di Bali. Keluarga lokal biasa belanja sayur dan buah segar setiap dua-tiga hari sekali di pasar pagi. Sementara beras, mi, telur, minyak goreng — barang tahan lama — baru diborong setiap satu-dua bulan. Pasar pagi adalah bagian dari gaya hidup Bali, bukan pertunjukan buat siapa pun.
 
-### Kenapa Semua Orang Demam Rempah-rempah?
+## Kenapa Semua Orang Demam Rempah-rempah?
 
 Sayur dan buah nggak boleh dibawa ke pesawat, itu sih udah pada tahu. Tapi **bumbu kering boleh**, dan bumbu Indonesia terkenal banget di seluruh dunia.
 
@@ -61,7 +61,7 @@ Yang paling berasa tuh wisatawan yang pernah ikut kelas masak. Belajar bikin Bab
 
 **Badung Market** di Denpasar sekarang jadi tempat paling hits. Kata pedagang lokal, turis asing pada cari rempah, terutama vanili bubuk, bubuk cabai, dan sejenisnya. Data pasar menunjukkan, tahun 2025 ada hampir 17.000 wisatawan internasional yang mampir, dan tahun ini kayaknya bakal pecah rekor lagi.
 
-### Cara Seru Main di Badung Market
+## Cara Seru Main di Badung Market
 
 Badung Market adalah pasar tradisional terbesar di Denpasar, secara teori buka 24 jam, tapi yang rame banget pagi-pagi. Di sebelahnya ada **Kumbasari Art Market**, jadi banyak orang abis belanja rempah langsung nyebrang ke sana cari oleh-oleh. Satu tempat, dua kebutuhan, efisien banget.
 
@@ -77,13 +77,13 @@ https://youtu.be/gEcE2e4TFaM
 
 > [【Panduan Denpasar 2026】Jelajahi 100 Kota Terbaik Dunia: Peta Budaya, Sejarah & Kuliner Ibu Kota Bali](/blog/denpasar-culture-guide/)
 
-### Mau makan, tapi nggak berani coba-coba sendiri?
+## Mau makan, tapi nggak berani coba-coba sendiri?
 
 Jujur aja, pasar tradisional emang nggak semua orang berani masuk sendiri. Pedagangnya kebanyakan cuma bisa bahasa Indonesia, menu nggak ada bahasa Inggris, bahkan cara pesan dan bayar aja udah kayak petualangan kecil. Rempah-rempahnya juga bikin pusing — bubuk cabai aja ada beberapa level pedas yang beda.
 
 Kalau kamu tertarik sama konsep 'jalan-jalan ke pasar lokal', tapi takut salah beli karena kendala bahasa, **pasar malam Kreneng** bisa jadi pilihan yang lebih ramah pemula. Kami pernah nulis [catatan soal tur kuliner malam Kreneng bareng guide Mandarin](/blog/kreneng-night-market-food-tour/), dan itu tempat asli warga Denpasar makan — dari babi guling, sate, sampai Soto Ayam, nyaris nggak ada turis. Ada guide yang nemenin tuh beda banget, setidaknya kamu nggak bakal kelewatan lapak-lapak tersembunyi di gang-gang kecil.
 
-### Pesan terakhir
+## Pesan terakhir
 
 Makin lama main di Bali, makin sadar kalau hal yang paling berkesan itu bukan SPA atau sunset di pantai, melainkan hal-hal kecil yang nggak ada di itinerary — aroma rempah di pasar pagi, ibu-ibu pedagang yang ngobrol pakai bahasa Indonesia sambil gestur, dan pulang bawa plastik berisi cengkeh sama pala.
 

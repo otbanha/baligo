@@ -11,7 +11,7 @@ originalUrl: ''
 shuffle_h2: true
 embeds: []
 lang: zh-cn
-_srcHash: d782327fcb34317a6d0bd9e92cd12284
+_srcHash: 29e9f1c1c50487747f0c5e7b329c8ab4
 ---
 
 第一页，获得我们优先推荐的司机在[这里](https://gobaligo.id/blog/bali-private-car-drivers-guide/)

@@ -19,16 +19,16 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: aed028ee291816f5586b7766977eb839
+_srcHash: 817368763e261a014bc121daf50982c8
 ---
 
-### 🗞️ Berita Utama Hari Ini: Kejahatan Internasional & Penegakan Hukum Visa yang Ketat
+## 🗞️ Berita Utama Hari Ini: Kejahatan Internasional & Penegakan Hukum Visa yang Ketat
 
 - **Polisi Bongkar Jaringan Penipuan Online Internasional Besar**: Polisi Bali baru-baru ini melakukan penggerebekan dan berhasil membongkar **pusat penipuan online internasional** yang diduga menyamar sebagai petugas penegak hukum luar negeri, menggunakan ancaman narkoba dan senjata untuk melakukan pemerasan lintas batas. Dalam operasi ini, 26 tersangka asing (termasuk dari China, Taiwan, Malaysia, dan Filipina) ditangkap, banyak di antaranya tidak memiliki dokumen resmi atau menyalahgunakan visa turis. Mereka kini telah diserahkan ke Imigrasi untuk menunggu deportasi.
 - **Influencer & Pekerja Jarak Jauh Hadapi Pemeriksaan Visa Besar-besaran**: Seiring meningkatnya kekhawatiran publik tentang pariwisata berlebihan, pemerintah pada pertengahan Mei memberikan sinyal kuat dengan secara resmi menargetkan **influencer, pekerja lepas, pekerja jarak jauh, dan relawan** yang menggunakan visa turis untuk tinggal jangka panjang. Siapa pun yang terlibat dalam pemotretan komersial, lokakarya berbayar, atau menghasilkan pendapatan non-lokal secara online tanpa memiliki visa jangka panjang/bisnis yang sesuai akan menghadapi risiko deportasi yang sangat tinggi.
 - **Kerja Sama China-Indonesia Dorong Proyek Sampah Jadi Energi (WtE)**: Gubernur Bali pada 15 Mei secara resmi bertemu dengan Konsul Jenderal China di Denpasar untuk membahas secara mendalam bagaimana mempercepat pembangunan pabrik pengolahan sampah menjadi energi modern di Kabupaten Badung melalui kerja sama antara Dana Kekayaan Berdaulat Indonesia (Danantara) dan perusahaan lingkungan China, guna mengatasi krisis sampah di pulau ini secara fundamental.
 
-### 📄 Topik yang Menarik Wisatawan: Kode Etik, Upgrade Tempat Wisata & Budaya Lintas Pulau
+## 📄 Topik yang Menarik Wisatawan: Kode Etik, Upgrade Tempat Wisata & Budaya Lintas Pulau
 
 ![](https://images.gobaligo.id/images/2026-05/1778652953324-09bd8611-257a-4998-b10e-e798ced74b21.png)
 

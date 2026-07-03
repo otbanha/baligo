@@ -19,10 +19,10 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: c1cbc39efb4a05ed98358e85d50ae31b
+_srcHash: ea386a75505f4782bc3662833ead77d7
 ---
 
-### 🗞️ Today's Highlights: International Events and Infrastructure Transformation
+## 🗞️ Today's Highlights: International Events and Infrastructure Transformation
 
 - **The 12th Bali & Beyond Travel Fair (BBTF 2026) is Coming Soon**:
 Indonesia's leading tourism trade fair is scheduled to take place from **May 28 to 30** at the Nusa Dua International Convention Center. This year's theme focuses on "Redefining Indonesia's Culinary Journey," aiming to enhance Bali's competitiveness in the global tourism market by showcasing its rich food culture.
@@ -31,7 +31,7 @@ In response to the waste crisis triggered by the closure of the Suwung landfill,
 - **Southeast Asia Sports Diplomacy Achievements**:
 ASEAN Youth and Sports Ministers recently reached a consensus in Bali and issued the "Bali Declaration," aimed at strengthening regional sports cooperation and advancing the dream of a joint Southeast Asian bid for the Olympics.
 
-### 📊 Tourist Source Data Clarification: Competition Between Malaysia and Australia
+## 📊 Tourist Source Data Clarification: Competition Between Malaysia and Australia
 
 - **Australia Remains Bali's Quarterly Leader**:
 According to the latest briefing from Bali's Statistics Bureau on May 5, **Australia** continues to be Bali's largest source of tourists in the first quarter of 2026 (January-March), accounting for over 25% of total arrivals in March.
@@ -40,7 +40,7 @@ The widely discussed "Australia Loses Top Spot" refers to the specific statistic
 - **Tourist Source Structure Conclusion**:
 Malaysia currently leads in **total arrivals across Indonesia**, while in **Bali** specifically, Australia and Malaysia are in a fierce competition for the top spot.
 
-### 📄 Topics of Concern for Tourists: Safety Alerts and New Travel Routes
+## 📄 Topics of Concern for Tourists: Safety Alerts and New Travel Routes
 
 - **Flood Risk Monitoring and Safety Reminders**:
 The Ministry of Tourism recently issued a warning that extreme rainfall and flooding (most severe in the south) have occurred in multiple areas of the island due to the "Rossby Equatorial Wave." Tourists are advised to avoid areas prone to flash floods and landslides and to consult local operators before engaging in water activities.

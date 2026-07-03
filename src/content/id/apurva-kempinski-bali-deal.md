@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d9034b3eade783ad2a93a96720a8df57.jpg'
 originalUrl: 'https://vocus.cc/article/69aa4faefd897800016bbeda'
 lang: id
-_srcHash: b12362af44c382d5350a6b477f9935c7
+_srcHash: 6f4d356ff73058914e79b4017633c5db
 ---
 
 Kalau kamu lagi cari **promo hotel bintang lima di Bali**, akhir-akhir ini ada penawaran yang lumayan menggoda.
@@ -103,7 +103,7 @@ The Apurva Kempinski Bali bisa dibilang salah satu resort bintang lima yang pali
 
 [The Apurva Kempinski Bali Raih Penghargaan "Hotel Berkelanjutan Terbaik" 2024](/blog/apurva-kempinski-sustainability-award/)
 
-### 1️⃣ Salah Satu Arsitektur Hotel Paling Spektakuler di Bali
+## 1️⃣ Salah Satu Arsitektur Hotel Paling Spektakuler di Bali
 
 Tangga megah dan desain air mancur di pintu masuk hotel ini benar-benar bikin speechless. Banyak tamu yang pertama kali masuk lobby langsung merasa "kayak istana" banget.
 
@@ -115,11 +115,11 @@ Tangga megah dan desain air mancur di pintu masuk hotel ini benar-benar bikin sp
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_48c7cc7bc07742ffc352eadce74c52a1.jpg)
 
-### 2️⃣ Pemandangan Tebing Laut di Nusa Dua
+## 2️⃣ Pemandangan Tebing Laut di Nusa Dua
 
 Hotel ini dibangun di dataran tinggi, jadi kamu bisa menikmati pemandangan Samudra Hindia. Waktu sunset, pemandangannya juara banget.
 
-### 3️⃣ Banyak Pilihan Tipe Kamar
+## 3️⃣ Banyak Pilihan Tipe Kamar
 
 Selain kamar deluxe standar, ada juga kamar dengan kolam renang pribadi dan villa. Cocok buat pasangan, bulan madu, atau liburan keluarga.
 

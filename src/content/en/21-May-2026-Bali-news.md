@@ -19,10 +19,10 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: f884b2bb172c4047ce94c33cb862c575
+_srcHash: 3ad125289b7ba532ee2b43bfa3a64fb0
 ---
 
-### 🗞️ Today's Headlines: New Tourism Infrastructure and Economic Zone Transformation
+## 🗞️ Today's Headlines: New Tourism Infrastructure and Economic Zone Transformation
 
 - **Major Breakthrough in Northern Mountains! Mount Batur Cable Car Project Officially Approved**:
 To revitalize tourism in Central and Northern Bali, the provincial government officially approved a landmark tourism infrastructure project on May 20th—a new cable car route will be built at the summit of **Mount Batur in Kintamani**. Officials stated that this project will not only significantly improve transportation connectivity in North Bali and the central highlands but also aims to create a world-class tourist attraction. In the future, visitors will be able to enjoy panoramic views of volcanic lava and Lake Batur from the comfort of small cable cars.
@@ -31,7 +31,7 @@ On May 20th, the Indonesian Ministry of Finance and the central government unvei
 - **New Benchmark in Sports Tourism: First "Bali Tourism Run" to Launch in June**:
 The inaugural **Bali Tourism Run 2026**, jointly initiated by the Bali Tourism Board and the Indonesian Travel Agents Association (ASITA), has been officially announced to take place on **June 21st** at the UNESCO World Heritage Site—Jatiluwih Rice Terraces. To protect the local ecological and cultural landscape, the event is strictly limited to 2,000 participants. Organizers also revealed that the "Jatiluwih Festival" will be held on June 20th, combining sports, traditional village life, and local cuisine to promote low-density, high-quality sustainable tourism.
 
-### 📄 Topics of Interest for Tourists: Event Crowd Warnings and Luxury Accommodation Recovery
+## 📄 Topics of Interest for Tourists: Event Crowd Warnings and Luxury Accommodation Recovery
 
 - **International Sports Event This Week: Red Bull Cliff Diving World Series**:
 The globally anticipated "Red Bull Cliff Diving World Series" will take place this weekend on the island. Sports tourism expert Nyoman Sujantara reminded officials and tourists that while Bali is well-prepared in terms of natural branding, large-scale events heavily rely on the rapid movement of athletes, officials, and spectators. Visitors heading to popular coastal attractions this week are advised to depart early and be mindful of potential regional traffic congestion around event venues.

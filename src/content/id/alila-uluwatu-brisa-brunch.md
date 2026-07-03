@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1c2d2e6554a3c1476ff9cef36bf2689b.jpg'
 originalUrl: 'https://vocus.cc/article/68451457fd89780001df60be'
 lang: id
-_srcHash: 23a0c485f36f0e5838a1351e530858df
+_srcHash: 8863bf03cd1589851b70b830f00c3c9c
 ---
 
 Berdiri di teras CIRE Restaurant Alila Villas Uluwatu, angin laut Samudra Hindia membelai wajah, dan di bawah kaki ada pemandangan tebing yang bikin napas terhenti. Ini bukan brunch biasa — ini maraton rasa dari siang sampai senja.
@@ -36,7 +36,7 @@ Berdiri di teras CIRE Restaurant Alila Villas Uluwatu, angin laut Samudra Hindia
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9a2eb3064d9941b060c7ff0260527c5d.jpg)
 
-### Saat "Brunch" Bertemu Waktu Bali
+## Saat "Brunch" Bertemu Waktu Bali
 
 Jujur, pas pertama lihat "Brisa Brunch" buka dari jam 12 siang sampai jam 4 sore, aku langsung ngakak. Ini mah bukan brunch, ini pesta malas ala Bali! Temen lokal aku bilang sambil senyum, "Di Bali, waktu itu buat dinikmati, bukan buat dikejar."
 
@@ -44,21 +44,21 @@ KLOOK baru aja ngeluarin paket «[Dining Experience at Alila Villas Uluwatu](htt
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_cd123f46c39552d4bf8ae22a5cc40d7e.png)
 
-### Surga Pecinta Seafood
+## Surga Pecinta Seafood
 
 Langkah pertama ke area seafood itu pilihan paling cerdas. Tuna Crudo yang bening berkilau seperti permata di bawah sinar matahari, pas dikasih perasan jeruk nipis, rasanya kayak denger desahan laut. Jimbaran Shrimp bawa aroma bakar khas Bali yang bikin aku ingat lapak BBQ sunset di Pantai Jimbaran — cuma plating-nya sepuluh kali lebih elegan. Yang paling bikin jatuh hati adalah gurita — empuk banget, nggak nyangka! Ditemani smoked red pepper sauce, sampe tamu Prancis di meja sebelah bilang "C'est magnifique!" tiga kali. Pas kita lagi asyik makan, pemusik live mulai main saksofon — melodi jazz santai berpadu sama suara ombak, bikin suasana makin romantis.
 
-### Kejutan Rahasia dari Chef
+## Kejutan Rahasia dari Chef
 
 Pas kita pikir udah tahu semua menu, tiba-tiba pelayan kasih kartu tulis tangan misterius: "Hari ini chef spesial bikin mini burger Rendang, nggak ada di menu lho." Makanan klasik Indonesia ini diubah jadi tiga lapis kelezatan: daging sapi direbus 36 jam, bawang merah karamel, sambal buatan sendiri, semua diselipin di roti burger charcoal. Aku ngintip diam-diam — hampir setiap tamu yang gigit pertama pasti nutup mata tanpa sadar. Itu reaksi alami lidah pas nemu kejutan rasa.
 
-### Keisengan Si Pastry Chef
+## Keisengan Si Pastry Chef
 
 Area dessert-nya kayak pameran seni modern, apalagi yang namanya "Bola Cokelat Pecah". Pelayan bakal siram saus markona panas di depan mata, dan kulit cokelatnya meleleh kayak lahar gunung, ngeluarin es krim kelapa dan buah tropis di dalamnya. Anak-anak di meja sebelah sampe melongo, lupa sama game HP-nya. Tapi favorit pribadi gue adalah Tiramisu Pandan — perpaduan antara rempah Asia Tenggara dan dessert Italia yang terasa rebel abis.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9d5b33c029f609db6725ad75ff99f312.jpg)
 
-### Waktu Bersantai di Tepi Tebing
+## Waktu Bersantai di Tepi Tebing
 
 Setelah kenyang, yang paling mewah adalah tetap duduk di sofa yang menghadap laut, biarkan angin Samudra Hindia bawa rasa kenyang pergi. Pelayan dengan sigap atur sudut payung, dan kasih handuk dingin plus jahe hangat. Kita dari siang terik sampe sore, liat garis minimalis CIRE Restaurant perlahan berlapis emas, gelas sampanye di meja memantulkan senja Bali.
 

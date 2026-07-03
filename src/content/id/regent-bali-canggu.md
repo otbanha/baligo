@@ -36,7 +36,7 @@ agoda_hotel_name: 洲際麗晶峇里島倉古飯店－由洲際飯店集團管�
 agoda_hotel_id: 41693391
 latitude: -8.65700244903564
 lang: id
-_srcHash: 074b381e5d47ea3f3a42e047f874cdf3
+_srcHash: 1849fa2f4285aa66daa1fa1619325509
 ---
 Ngomongin Canggu, kebanyakan orang pasti langsung kepikiran surfing, kafe, dan beach club. Dulu tempat ini identik banget sama backpacker dan digital nomad, pilihan akomodasi high-end-nya lumayan terbatas.
 
@@ -46,7 +46,7 @@ IHG Group (InterContinental Hotels Group) lewat brand premium mereka 'Regent', m
 
 ***
 
-### 📍 Lokasi & Lingkungan Sekitar
+## 📍 Lokasi & Lingkungan Sekitar
 
 Regent Bali Canggu ada di **Jl. Pantai Batu Bolong No. 93**, langsung menghadap garis pantai pasir hitam.
 
@@ -78,7 +78,7 @@ Satu hal yang perlu diperhatikan: kalau kamu berkendara dari bandara ke sini dan
 
 ***
 
-### 🏨 Fasilitas Hotel
+## 🏨 Fasilitas Hotel
 
 Seluruh resort ini dirancang oleh **WATG Architects**, interiornya digarap **Hirsch Bedner Associates (HBA)**. Perpaduan batu alam, kayu jati, dan marmer, dengan atap tradisional Bali yang dipadukan geometri modern — keliatannya bukan gaya mewah tropis yang norak, malah terasa elegan tapi tetap kalem. Semua kamar dilengkapi bathtub kayu jati, lho!
 
@@ -96,7 +96,7 @@ Seluruh resort ini dirancang oleh **WATG Architects**, interiornya digarap **Hir
 
 ***
 
-### 🛏️ Tipe Kamar
+## 🛏️ Tipe Kamar
 
 Total **150 kamar dan suite**, semuanya menghadap laut atau taman — nggak ada versi murahan.
 
@@ -166,13 +166,13 @@ Soal detail di kamar, ada tamu yang khusus nyebut: pengering rambut di kamar man
 
 [https://youtu.be/bhex_EawbQA?si=UrskraTIOpONZynw](https://youtu.be/bhex_EawbQA?si=UrskraTIOpONZynw)
 
-### 👥 Cocok buat siapa
+## 👥 Cocok buat siapa
 
 **Pasangan bulan madu** jelas yang paling cocok. Villa dengan kolam renang pribadi + Regent Spa + restoran chef Michelin, resepnya pas banget. **Yang pengin nginep mewah di Canggu tapi males ke Uluwatu** juga cocok, soalnya lokasinya oke, vibes hidupnya terasa, bukan resort yang terisolasi. Buat yang suka surfing tapi pengin nginep enak, di sini kamu bisa langsung jalan kaki ke Echo Beach buat nyebur, dan malemnya dapet pengalaman nginep kelas atas.
 
 ***
 
-### 💬 Ulasan asli dari tamu
+## 💬 Ulasan asli dari tamu
 
 Seorang tamu yang menginap pada Oktober 2025 bilang, ukuran area kolam renangnya ternyata gede banget—ada beberapa kolam besar yang terpisah plus langsung menghadap pantai. Suasana keseluruhan bikin dia merasa seperti 'surga tersembunyi di tengah hiruk-pikuk Canggu'.
 
@@ -182,7 +182,7 @@ Yang perlu dicatat: ada traveler senior yang bilang, kalau dibandingkan dengan p
 
 ***
 
-### 📌 Info Pemesanan
+## 📌 Info Pemesanan
 
 > Buka November 2025 (hotel baru)
 > Rating: Tripadvisor #16 / 118 (peringkat hotel di Canggu) ⭐ 4.9/5 | Agoda lokasi 9.5/10｜

@@ -11,7 +11,7 @@ heroImage: ''
 originalUrl: ''
 embeds: []
 lang: zh-cn
-_srcHash: 84ca25b3b0b6dc94e7ff20702c917be5
+_srcHash: 73fd0049b0c0926df9622dfbde18bcca
 ---
 
 > 以下游记改编自 [YiShawn Huang](https://www.facebook.com/share/p/1DmyQYJF6M/) 分享游记
@@ -20,7 +20,7 @@ _srcHash: 84ca25b3b0b6dc94e7ff20702c917be5
 
 这是我和老婆第一次来到**巴厘岛**。对于这趟期待已久的旅程，我们选择了自由行搭配包车的方式，希望能用最自在的步调探索这座岛屿。没想到，这头两天的行程就给了我们无数惊喜，从温暖的人情味到令人惊艳的美食，一切都安排得刚刚好。
 
-### 🚗 旅途的神队友：包车司机 Benny
+## 🚗 旅途的神队友：包车司机 Benny
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774768349655-banny_new.jpg)
 
@@ -28,7 +28,7 @@ _srcHash: 84ca25b3b0b6dc94e7ff20702c917be5
 
 {{block:包車}}
 
-### 💧 生活小贴士：关于水质与采买
+## 💧 生活小贴士：关于水质与采买
 
 第一天抵达机场后，Benny 先带我们去 Money Changer 换钱，接着到住宿附近的 **Coco Supermarket** 大采购。
 
@@ -40,7 +40,7 @@ https://youtu.be/UoGlRyAdyB8
 
 > 快速参考：[巴厘岛旅行健康小贴士：巴厘岛的饮用水和巴厘岛腹泻/肠胃炎（Bali Belly）指南](/blog/bali-travel-health-tips/)
 
-### 🏡 住进肉桂天堂：Kayumanis Jimbaran Private Estate & Spa
+## 🏡 住进肉桂天堂：Kayumanis Jimbaran Private Estate & Spa
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774768824256-v1.jpg)
 
@@ -64,7 +64,7 @@ https://youtu.be/RodQvCZKwD0
 
 ▲小杰的Wahaha品尝食记
 
-### 🍳 雨中的美味早餐与惊喜庆生
+## 🍳 雨中的美味早餐与惊喜庆生
 
 第二天一早虽然下起了雨，但在 Villa 里享受 **Balinese 早餐** 依然很惬意。
 
@@ -76,7 +76,7 @@ https://youtu.be/RodQvCZKwD0
 
 {{block:蜜月}}
 
-### 🍫 奢华体验：Avisha Wellness & Spa 的巧克力之旅
+## 🍫 奢华体验：Avisha Wellness & Spa 的巧克力之旅
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774769054658-spa1.jpg)
 
@@ -90,7 +90,7 @@ https://youtu.be/RodQvCZKwD0
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774768923637-r3.jpg)
 
-### 🍽️ 顶级庆生大餐：米其林指南餐厅 Cuca
+## 🍽️ 顶级庆生大餐：米其林指南餐厅 Cuca
 
 晚上的生日大餐安排在 Villa 旁的 **Cuca Restaurant**。这是一间米其林指南推荐的西班牙 Tapas 餐厅，每一道菜都像艺术品：
 

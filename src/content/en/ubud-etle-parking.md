@@ -32,12 +32,12 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: d7e10451009cc588cd9a97ce22084b9d
+_srcHash: a2c2dc7932efa073900cabc3d21e9dc8
 ---
 
 Anyone who has visited Ubud knows how narrow the roads are. With so many tourists and vehicles, many people still insist on parking directly on the roadside—well, starting April 28, the police are getting serious.
 
-### This Enforcement Isn’t Just About Stickers—Direct Electronic Tickets Are Issued
+## This Enforcement Isn’t Just About Stickers—Direct Electronic Tickets Are Issued
 
 In the past, illegal parking in Ubud might have only resulted in a warning sticker, and you could keep doing it without consequences. But now, things have changed.
 
@@ -47,7 +47,7 @@ During this operation, 15 vehicles were officially issued electronic tickets, wh
 
 {{block:包車}}
 
-### Ubud’s Traffic Congestion Is Getting Worse
+## Ubud’s Traffic Congestion Is Getting Worse
 
 Honestly, Ubud’s traffic situation in recent years can only be described as "increasingly outrageous." The narrow streets were never designed to handle such heavy traffic, and when cars park haphazardly on the roadside, it effectively cuts the usable road width in half.
 
@@ -57,7 +57,7 @@ It's worth noting that before taking action, the police specifically reminded la
 
 {{block:ubud}}
 
-### Driving in Ubud? Take Parking Seriously
+## Driving in Ubud? Take Parking Seriously
 
 If you're planning to drive or rent a car in Ubud, this is worth noting in advance:
 

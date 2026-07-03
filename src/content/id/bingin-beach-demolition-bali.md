@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/687ee2c2fd89780001d111bf'
 category:
   - 旅行技巧
 lang: id
-_srcHash: ffef268a76e5e3b5a334c9bf051ed793
+_srcHash: 7575875190e2340bdecc1f4400e93e02
 ---
 Pantai Bingin di Uluwatu, yang jadi favorit turis dan peselancar, bakal mengalami perubahan besar. Pemerintah mengumumkan bahwa lebih dari 40 bangunan di area tersebut dianggap melanggar aturan tata ruang dan lahan, sehingga mulai 21 Juli 2025 dilakukan pembongkaran paksa.
 
@@ -44,7 +44,7 @@ Saat ini, bangunan yang terkena dampak pembongkaran meliputi penginapan, restora
 
 ---
 
-### Kalau kamu mau cari hidden gem pantai lainnya, dan tahu lebih banyak soal tempat makan & main di Uluwatu:
+## Kalau kamu mau cari hidden gem pantai lainnya, dan tahu lebih banyak soal tempat makan & main di Uluwatu:
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
@@ -52,7 +52,7 @@ Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal denga
 
 ---
 
-### FAQ (Pertanyaan yang Sering Ditanyakan):
+## FAQ (Pertanyaan yang Sering Ditanyakan):
 
 1. **Kenapa pemerintah bongkar bangunan di Pantai Bingin?**  
    Pemerintah bilang bangunan-bangunan itu melanggar aturan tata ruang dan penggunaan lahan, plus ada yang ilegal pakai tanah negara. Makanya, mereka ditertibkan sesuai hukum.

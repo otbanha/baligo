@@ -22,36 +22,36 @@ originalUrl: 'https://vocus.cc/article/68593269fd897800012cea64'
 category:
   - 旅行技巧
 lang: en
-_srcHash: ae6a611cd85c1e5f05681070644031cc
+_srcHash: a8757ecc9939e89c8f6569dfee987b7d
 ---
 
 **"Requesting to Share Your Phone's Hotspot"** could be a scam or inappropriate behavior, especially in public places or tourist areas. It's wise to stay alert when encountering such requests, particularly in crowded public spaces! Here are some common scam or risk scenarios:
 
 ---
 
-### 📶 Possible Hotspot Sharing Scam Tactics:
+## 📶 Possible Hotspot Sharing Scam Tactics:
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_cdcce95419c06ccd0f04d397e1a75f49.png)
 
-### 1. **Inducing Hotspot Sharing to Steal Data**
+## 1. **Inducing Hotspot Sharing to Steal Data**
 
 A stranger might pretend to have no internet, a dead phone, or act pitifully to ask you to turn on your hotspot. Once connected, if your phone or hotspot settings are insecure (e.g., open network, no encryption), they might attempt to hack into your device to steal data or install malicious software.
 
-### 2. Conducting Illegal Activities Using Your IP Address
+## 2. Conducting Illegal Activities Using Your IP Address
 
 The person might use your hotspot connection to engage in illegal activities, such as downloading pirated content, hacking, or browsing illegal websites. These actions will leave your device's IP address as the trace, potentially making you the subject of an investigation.
 
-### 3. **Hotspot-Induced Billing Trap**
+## 3. **Hotspot-Induced Billing Trap**
 
 If you enable a mobile data hotspot, prolonged use by the other party could quickly deplete your data allowance, resulting in high charges. This is especially risky when using international roaming.
 
-### 4. **Switch Roles: Pretend to Offer a Hotspot for Phishing**
+## 4. **Switch Roles: Pretend to Offer a Hotspot for Phishing**
 
 It could also work the other way: scammers set up what appears to be a normal free Wi-Fi or hotspot (like "Free_WiFi" or "Hotel_Guest") to lure people into connecting, then use a man-in-the-middle (MITM) attack to steal login credentials or credit card information.
 
 ---
 
-### 🚨 How to Protect Yourself?
+## 🚨 How to Protect Yourself?
 
 - **Never share your hotspot with strangers**, even if they seem like tourists or students.
 - If you really want to help, assist them by opening Google Maps or looking up information, but don’t let them operate your phone themselves.
@@ -61,7 +61,7 @@ It could also work the other way: scammers set up what appears to be a normal fr
 
 ---
 
-### ✍️ Practical Reminder (Travel Scenarios)
+## ✍️ Practical Reminder (Travel Scenarios)
 
 In public places like **Bali Airport, cafes, beaches, or shopping malls**, if a stranger asks you to share your hotspot, **politely but firmly decline**.
 
@@ -69,7 +69,7 @@ In public places like **Bali Airport, cafes, beaches, or shopping malls**, if a 
 
 ---
 
-### 🇬🇧 English Version (For Foreign Travelers)
+## 🇬🇧 English Version (For Foreign Travelers)
 
 > “Sorry, I have limited data and can't share my hotspot. I hope you understand!”
 

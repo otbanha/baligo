@@ -32,9 +32,9 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 3d880d6246716657a2c436d9bf456a08
+_srcHash: b990c42a4bebccee1c5261ccbc3f22a7
 ---
-### 🗞️ 'Secondary Checkpoint' for Tourism Tax Verification Officially Launched
+## 🗞️ 'Secondary Checkpoint' for Tourism Tax Verification Officially Launched
 
 With the advancement of the 2026 high-quality tourism policy, **Ngurah Rai International Airport (DPS)** has shifted from 'self-declaration' to 'comprehensive interception' for the collection of the **150,000 IDR Tourism Levy**. The 'secondary checkpoint' launched today makes avoiding payment impossible:
 
@@ -47,7 +47,7 @@ With the advancement of the 2026 high-quality tourism policy, **Ngurah Rai Inter
 
 ***
 
-### 📄 Traveler Concerns: How to Avoid Getting Stuck?
+## 📄 Traveler Concerns: How to Avoid Getting Stuck?
 
 - **Pre-download Proof**: Airport Wi-Fi is extremely unreliable during peak hours. It is strongly recommended that travelers download the **Love Bali** PDF certificate or QR Code screenshot to their phone gallery or bind it directly with the **All Indonesia App** before departure.
 - **Risk of Double Payment**: If traveling to nearby Nusa Lembongan or Nusa Penida and returning to the main island during your stay, **no additional payment is required**. However, be sure to retain the original QR Code for verification by boat or dock personnel.

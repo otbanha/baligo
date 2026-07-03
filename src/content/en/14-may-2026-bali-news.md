@@ -19,21 +19,21 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 22e9fa94f16a1c1e0cf23c3a81f45ff5
+_srcHash: ef113e5d9649623ffcb24afbbd1a9110
 ---
 
-### 🗞️ Today's Headlines: Recovery of Luxury Tourism and Market Diversification
+## 🗞️ Today's Headlines: Recovery of Luxury Tourism and Market Diversification
 
 - **Luxury Hotel Occupancy Returns to Pre-Pandemic Levels**: According to the latest industry analysis, luxury hotel occupancy in Indonesia (especially Bali) has fully recovered to pre-pandemic levels, outperforming other hotel categories. The market is showing strong demand for "meaningful, culturally immersive" high-end tourism experiences rather than standardized global brands.
 - **2026 Tourism Goals and Market Shift**: Bali officials have set a target of attracting 6.63 million international tourists this year, shifting their promotional focus from Europe and America to the Asia-Pacific market, particularly **China** and **India**. Additionally, the tourism board is actively developing Central Asian markets (such as Kazakhstan and Uzbekistan) to diversify visitor sources.
 - **Global Best Travel Destination Award**: Bali has once again been named the world's top travel destination in the **2026 TripAdvisor Travelers' Choice Awards**. This honor reinforces the island's image as a "stable and safe haven" during times of international conflict and uncertainty.
 
-### 📊 Data Insights: Q1 Performance and Special Fluctuations
+## 📊 Data Insights: Q1 Performance and Special Fluctuations
 
 - **First Quarter Surpasses 1.4 Million Arrivals**: From January to March 2026, Bali welcomed approximately 1.46 million international tourists, a 1.04% increase compared to the same period in 2025.
 - **Unusual Drop in March Data**: Contrary to the usual upward trend, March 2026 saw a 4.11% decline in arrivals compared to February. Official analysis attributes this mainly to flight cancellations due to Middle East tensions and fluctuations caused by religious holidays (such as Nyepi, the Day of Silence) in March.
 
-### 📄 Hot Topics for Tourists: Trail Running Events and Recent Safety
+## 📄 Hot Topics for Tourists: Trail Running Events and Recent Safety
 
 - **Major Event This Weekend: BTR Ultra 2026**: The 7th Bali Trail Running event will take place from tomorrow (**5/15**) to **5/17** in Kintamani. Themed "Volcano to Volcano," the race starts and ends at the natural hot springs of Mount Batur, offering distances from 15K to the extreme 100K. Expect heavy traffic and crowd control in the Kintamani mountain area.
 - **Safety and Travel Reminders**:

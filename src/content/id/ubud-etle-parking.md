@@ -32,11 +32,11 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: d7e10451009cc588cd9a97ce22084b9d
+_srcHash: a2c2dc7932efa073900cabc3d21e9dc8
 ---
 Yang pernah ke Ubud pasti tahu, jalannya sempit banget. Turis banyak, kendaraan padat, apalagi banyak yang suka parkir sembarangan di pinggir jalan — nah mulai 28 April, polisi mulai serius nindak.
 
-### Sekarang Tilangnya Nggak Cuma Stiker, Langsung Elektronik
+## Sekarang Tilangnya Nggak Cuma Stiker, Langsung Elektronik
 
 Dulu parkir sembarangan di Ubud paling cuma ditempelin stiker peringatan, besoknya parkir lagi juga nggak digubris. Tapi sekarang beda cerita.
 
@@ -46,7 +46,7 @@ Dalam operasi ini, 15 kendaraan resmi kena tilang elektronik, dan 25 lainnya cum
 
 {{block:包車}}
 
-### Macet di Ubud Makin Parah, Nggak Bisa Dipungkiri
+## Macet di Ubud Makin Parah, Nggak Bisa Dipungkiri
 
 Jujur, kondisi lalu lintas Ubud beberapa tahun terakhir udah 'makin keterlaluan'. Jalan sempit udah susah ngadepin volume kendaraan yang gede, ditambah parkir liar di pinggir jalan, otomatis bikin lebar jalan efektif tinggal setengah.
 
@@ -56,7 +56,7 @@ Yang menarik, sebelum operasi, polisi secara khusus mengingatkan petugas: tetap 
 
 {{block:ubud}}
 
-### Mau Self-Driving ke Ubud? Urusan Parkir Seriusan, Ya
+## Mau Self-Driving ke Ubud? Urusan Parkir Seriusan, Ya
 
 Kalau kamu berencana self-driving atau sewa mobil ke Ubud, ini hal yang perlu diperhatiin dari awal:
 

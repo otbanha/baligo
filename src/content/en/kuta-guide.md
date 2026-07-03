@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_adc1492ecb822ef9a1da92c40c6cf33c.jpg'
 originalUrl: 'https://vocus.cc/article/657598bdfd8978000120fe20'
 lang: en
-_srcHash: e25113b37dfaff93f03a0a76802fac09
+_srcHash: de6e51bd65a47352ba658a285b73460d
 ---
 Kuta is one of Bali's most popular tourist destinations, renowned for its beautiful beaches, lively nightlife, and rich culture. It's a diverse destination suitable for all kinds of travelers. Whether you love surfing, shopping, nightlife, or cultural experiences, Kuta offers the perfect getaway.
 

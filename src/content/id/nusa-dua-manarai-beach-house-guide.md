@@ -28,24 +28,24 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a0202a8fecbbe830196c5755e35cdd7b.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b57fd897800013a8e48'
 lang: id
-_srcHash: a6c793f0360273057975e22ae2961cbc
+_srcHash: c0ccf69520a421f9c344cdeb914946d9
 ---
 Kalau kamu lagi rencanain itinerary ke Bali dan pengen cari tempat yang bisa foto-foto kece, makanannya juara, plus rebahan seharian, langsung aja save spot ini ke list kamu!
 
-### 🌴 Dua Kolam Renang Cantik ✕ Lautan Jelly Impian
+## 🌴 Dua Kolam Renang Cantik ✕ Lautan Jelly Impian
 
 Begitu masuk Manarai, dijamin bakal refleks 'Wah!' Tempat ini karya grup kuliner terkenal Ismaya, jadi soal estetika udah pasti kece. Yang paling bikin mata melek adalah **dua kolam renang biru besar yang super jernih**, langsung menghadap ke pantai putih bersih Nusa Dua dan laut gradasi biru.
 
 - **Siang hari:** Pakai bikini atau celana pantai terbaikmu, pesen cocktail sambil berjemur di Daybed, jepret dikit aja langsung kayak model majalah.
 - **Sore hari:** Pas matahari terbenam bikin langit jadi pink-ungu, lampu dan musik berubah, suasananya langsung romantis banget!
 
-### 🍹 Bukan Cuma Cantik! Makanan & Cocktail Juga Juara
+## 🍹 Bukan Cuma Cantik! Makanan & Cocktail Juga Juara
 
 Banyak beach club yang sering bikin orang mikir 'ya cuma buat foto doang, makanannya biasa aja', tapi Manarai berhasil hancurin mitos itu!
 
 Di sini ada masakan Indonesia otentik dan hidangan Barat yang elegan. Wajib coba **seafood platter** dan **Signature Cocktails** tropis mereka. Duduk di pinggir kolam, nikmatin angin laut sambil minum Mojito dingin — ini baru namanya liburan Bali sehari-hari~
 
-### 💡 Tips Rahasia
+## 💡 Tips Rahasia
 
 > 📌 **Catatan dari editor:** Meskipun masuknya gratis, kalau kamu mau duduk di **Daybed** (kursi santai ganda) paling nyaman yang dekat kolam renang atau pantai, biasanya ada aturan **Minimum Spend** (minimal pemesanan). Saran gue, ajak teman-teman aja biar patungan — pesan beberapa menu dan minuman, pasti gampang banget capai minimumnya. Kamu bisa rebahan seharian di sana, super worth it!
 

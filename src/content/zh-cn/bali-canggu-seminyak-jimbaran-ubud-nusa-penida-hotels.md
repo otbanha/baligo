@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_614219514932eccd7b9734f03b4e05d8.jpg'
 originalUrl: 'https://vocus.cc/article/65fff19efd897800017026b5'
 lang: zh-cn
-_srcHash: bfcbe9f2d22dd7b8ff7fc435bf3eb353
+_srcHash: f1f1fcb4a5fce1d821083bf0cba16bfa
 ---
 
 巴厘岛以其迷人的自然景致、丰富的文化内涵而闻名，每年吸引无数游客到访。这个印尼著名旅游胜地的住宿选择也相当多元丰富，从奢华度假村到经济实惠的小旅馆应有尽有，无论你是追求奢华体验还是简单实惠的住宿，在巴厘岛都能找到合适的选择。
@@ -36,19 +36,19 @@ https://youtu.be/xcz9XkBdwbs?si=h09QPI8MrC_V1ccT
 
 根据影片内容，Camilla Johannesen介绍了以下住宿选择：
 
-### 奢华住宿：
+## 奢华住宿：
 
 1. [Nanuku House空房、房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47148081) (坎古)
 2. [Ayana Resort度假村介绍、订房](/blog/ayana-resort-bali-guide/) (金巴兰)
 
-### 中高价位住宿：
+## 中高价位住宿：
 
 3. Villa Yapoon (乌布)
 4. Bhumian Ri Retreat Center (乌布)
 5. Charming Sea Lovely (努沙佩尼达)
 6. [Vince Sky Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=621667) (水明漾)
 
-### 经济实惠住宿：
+## 经济实惠住宿：
 
 7. [Anjin Sapoy](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=239609) (坎古)
 8. [Evitel Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=957047) (乌布)

@@ -15,18 +15,18 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 8987180306ebc477e56bde7ca0bf54c8
+_srcHash: 1567ce88f749c518d2a9fadb5c327d59
 ---
 
 【Current USD Exchange Rate: 16,850】
 
-### 🗞️ Today's Highlights: Aerial Rescue and Geological Activity
+## 🗞️ Today's Highlights: Aerial Rescue and Geological Activity
 
 - **Helicopter Rescue at Uluwatu Cliff**: Yesterday afternoon (4/23), two foreign tourists (including a 21-year-old Russian man) were stranded on the steep cliffs of **Uluwatu**. The Denpasar Police, in collaboration with the National Search and Rescue Agency (Basarnas), deployed a helicopter for a hoisting operation, successfully rescuing the stranded individuals and transporting them to the hospital. Authorities remind visitors that the area is extremely hazardous and advise against crossing barriers for photo opportunities.
 - **Minor Earthquake in the North**: At 04:34 yesterday morning, a **magnitude 3.8 shallow earthquake** occurred in **Buleleng**, with an epicenter depth of only 10 km. According to BMKG monitoring, the tremors were confined to the northern mountainous region and were mild (MMI II). No damage reports have been received across the island, and tourist activities remain unaffected.
 - **Tourism Strategy Shifts to Central Asia**: The Association of Indonesian Tour and Travel Agencies (ASITA) announced today that they are collaborating with the Ministry of Foreign Affairs to open new flight routes to **Kazakhstan and Uzbekistan**. The goal is to emulate Thailand by positioning Bali as a transit hub for Central Asian tourists, signaling the potential arrival of new international direct flights in the coming months.
 
-### 🌤️ Weather Forecast
+## 🌤️ Weather Forecast
 
 - **Today's Overview**: Today (4/24), expect **scattered thunderstorms** during the day, transitioning to **cloudy** conditions in the evening.
 - **Temperature and Humidity**: Temperatures in lowland areas will range between **26°C - 31°C**.
@@ -35,7 +35,7 @@ _srcHash: 8987180306ebc477e56bde7ca0bf54c8
 
 https://youtu.be/EotdDxXHFwE
 
-### 📄 Visitor Concerns: Immigration Oversight and Festival Announcements
+## 📄 Visitor Concerns: Immigration Oversight and Festival Announcements
 
 - **New Task Force Launched**: The new immigration task force, codenamed "Dharma Dewata," has expanded its patrols across major hotspots starting today. Officials emphasize that its purpose is to "monitor foreigner activities" to ensure community safety. Recently, several foreigners have been immediately deported for violations or overstaying their visas. Visitors are reminded to carry a copy of their e-visa at all times.
 - **Upcoming Festivals Next Week**: While the Bali Spirit Festival has concluded, next Tuesday (4/28) will mark the start of the grand [**Semarapura Festival** (Klungkung) and **FHT (Food Hotel Tourism Expo)**](/blog/2026-bali-festival-guide/#festival-semarapura-%E5%A1%9E%E9%A6%AC%E6%8B%89%E6%99%AE%E6%8B%89%E7%AF%80). Visitors interested in culinary and cultural experiences are encouraged to plan ahead and attend traditional performances and art exhibitions in Klungkung.

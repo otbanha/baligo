@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/64e730ddfd89780001336a09'
 category:
   - 旅行技巧
 lang: en
-_srcHash: d773bf808988acef8b4c86d5fe0f068c
+_srcHash: ba688ce39a021767482ed9c066a66967
 ---
 
 **When spending in Indonesia/Bali, you often see a 'K' after numbers. What does it mean?**
@@ -25,7 +25,7 @@ _srcHash: d773bf808988acef8b4c86d5fe0f068c
 
 Bali, this picturesque Indonesian gem, attracts visitors from around the world. On this beautiful island, in addition to stunning natural landscapes and cultural heritage, tourists will also notice a unique spending habit—a 'K' often follows the amount. This article will explain the meaning of this habit and introduce the importance of understanding this amount format when spending in Bali.
 
-### **Understanding the Format**
+## **Understanding the Format**
 
 The 'K' actually stands for 'thousand,' representing one thousand in amounts. In daily spending in Bali, when you see a 'K' after a price, it means the amount has been abbreviated to indicate figures in the thousands. This formatting helps simplify large numbers, making prices easier to read and understand. For example, 200K represents 200,000 Indonesian Rupiah, and 80K means 80,000 Indonesian Rupiah.
 
@@ -35,7 +35,7 @@ In practical spending, understanding this format is crucial. It will help you mo
 
 Denominations of Indonesian Rupiah Banknotes
 
-### **What is Spending Like in Indonesia/Bali?**
+## **What is Spending Like in Indonesia/Bali?**
 
 In Indonesia or Bali, there are many common expenses. Here are some examples:
 
@@ -48,7 +48,7 @@ In Indonesia or Bali, there are many common expenses. Here are some examples:
 
 > Refer to our [Bali driver recommendations](https://s.id/bali_drivers)
 
-### **Budget Management**
+## **Budget Management**
 
 To better manage your expenses in Bali, here are some tips:
 

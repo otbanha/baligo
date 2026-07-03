@@ -36,7 +36,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_91532107705be575f99c7a8160f0d02c.jpg'
 originalUrl: 'https://vocus.cc/article/679ccd73fd897800016e1e52'
 lang: id
-_srcHash: e7a00e07ab9968ff375998f930327695
+_srcHash: 6f0df00f65b75e86a0b4fd0576184572
 ---
 
 > Artikel review asli dari admin yang sering kontribusi di grup Facebook kita, [蕭雅心](https://www.facebook.com/share/p/1A5kJ9Micj/)
@@ -47,7 +47,7 @@ Kalau kamu lagi cari tempat liburan yang bisa bikin rileks sekaligus bikin melon
 
 ***
 
-### **Kemewahan di Tebing: Nginep di Six Senses Uluwatu**
+## **Kemewahan di Tebing: Nginep di Six Senses Uluwatu**
 
 Six Senses Uluwatu terletak di tebing Uluwatu, Bali, menghadap ke Samudra Hindia yang megah, pemandangannya bikin napas tersengal. Sebagai destinasi terakhir pengalaman mewah di Uluwatu, resort ini menggabungkan keindahan alam, kemewahan modern, dan konsep pariwisata berkelanjutan, bikin liburan kamu gak terlupakan.
 
@@ -61,7 +61,7 @@ Dari detik pertama masuk hotel, kami langsung terpukau sama pemandangannya—Sam
 
 ***
 
-### **103 Vila Pribadi: Perpaduan Sempurna Antara Kemewahan dan Privasi**
+## **103 Vila Pribadi: Perpaduan Sempurna Antara Kemewahan dan Privasi**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b5911c2e9e61af67452334c9bf308303.jpg)
 
@@ -71,7 +71,7 @@ Six Senses Uluwatu punya **103 vila privat** yang super eksklusif, masing-masing
 
 ***
 
-### **Ocean Golf: Seru dan Ramah Lingkungan**
+## **Ocean Golf: Seru dan Ramah Lingkungan**
 
 Kali ini milih Six Senses Uluwatu, salah satu alasan utamanya karena kami belum pernah coba **golf**, dan **ocean golf** di sini bener-bener bikin kagum! Bayangin aja, pukul bola golf ke laut, bolanya bakal terurai alami jadi makanan ikan — seru sekaligus ramah lingkungan! Cuma baca deskripsinya aja udah bikin penasaran, kan?
 
@@ -83,13 +83,13 @@ Sayangnya, hari pertama cuaca kurang bersahabat, jadi kami nggak bisa ikut aktiv
 
 ***
 
-### **Pertemuan dengan Penyu di Tebing**
+## **Pertemuan dengan Penyu di Tebing**
 
 Pas jalan-jalan di tebing hotel, kami malah lihat **penyu** berenang santai di air laut yang jernih! Momen dekat dengan alam kayak gini bikin semua stres langsung ilang. Six Senses Uluwatu bukan cuma tempat liburan mewah, tapi juga kayak taman ekologi yang hidup berdampingan dengan alam.
 
 ***
 
-### **Naik Shuttle: Petualangan Kecil yang Seru**
+## **Naik Shuttle: Petualangan Kecil yang Seru**
 
 Karena area hotel luas banget, jalan kaki aja butuh shuttle. Jujur, aku suka banget momen naik shuttle keliling! Apalagi di musim hujan Bali, pas check-in nggak lama langsung hujan deres — suara hujan semalaman bikin rileks banget. Meskipun **nonton film outdoor** batal karena cuaca, adikku bikin boneka晴娘 (terang-terangan), dan keesokan harinya ternyata beneran cerah! Apa ini sihir?
 
@@ -99,7 +99,7 @@ https://youtube.com/shorts/o2Hwc21gJXo?si=aZkDvyRYMt6vOAyj
 
 ***
 
-### **Kolam Renang Pribadi & Desain yang Penuh Perhatian: Kenikmatan Mewah Maksimal**
+## **Kolam Renang Pribadi & Desain yang Penuh Perhatian: Kenikmatan Mewah Maksimal**
 
 Setiap kamar dilengkapi **kolam renang pribadi**, ini sih udah jadi standar liburan mewah banget! Uniknya, kartu kamarnya berbentuk **papan kayu kecil**, desainnya lucu banget. Fasilitas di dalam kamar lengkap semua, termasuk AC, TV satelit layar datar, speaker nirkabel, dan mesin kopi organik. Setiap kamar juga punya teras outdoor dengan pemandangan laut yang kece abis. Kamar mandinya dilengkapi wastafel ganda, pancuran indoor dan outdoor, perlengkapan mandi premium, dan toilet canggih, bikin kamu merasa super nyaman dan praktis.
 
@@ -111,7 +111,7 @@ Sore hari, hotel juga menyediakan **es krim gratis**, dan ini dibuat dari buah s
 
 ***
 
-### **Kado Spesial untuk Anabul**
+## **Kado Spesial untuk Anabul**
 
 Six Senses Uluwatu bahkan peduli sama **anabul** (anak bulu)! Kami beli oleh-oleh di toko hotel buat anjing di rumah, pelayanan yang detail begini bikin hati hangat banget.
 
@@ -119,7 +119,7 @@ Six Senses Uluwatu bahkan peduli sama **anabul** (anak bulu)! Kami beli oleh-ole
 
 ***
 
-### **Makanan & SPA: Pesta untuk Lidah dan Jiwa**
+## **Makanan & SPA: Pesta untuk Lidah dan Jiwa**
 
 Sarapan di hotel menyediakan buffet yang berlimpah, penuh pilihan sehat, bikin kamu semangat mulai hari. **Restoran Rocka** menyajikan perpaduan sempurna antara masakan Indonesia dan internasional, dengan fokus pada bahan segar dan lokal. Sedangkan **Watu Steakhouse** menggabungkan steak premium dengan masakan Jepang, tradisi dan cita rasa internasional berpadu, bikin ngiler.
 
@@ -139,13 +139,13 @@ Selain itu, **pengalaman SPA** di hotel juga keren banget, fasilitasnya termasuk
 
 ***
 
-### **Kejutan Kecil: Nada Dering Telepon di Kamar**
+## **Kejutan Kecil: Nada Dering Telepon di Kamar**
 
 Terakhir, ada satu detail kecil yang bikin senyum-senyum sendiri—**nada dering telepon di kamar ternyata sama persis dengan iPhone**! Setiap kali denger, pasti bikin ketawa. Kejutan kecil kayak gini bikin pengalaman nginep makin seru.
 
 ***
 
-### **Kesimpulan: Semalam aja nggak cukup!**
+## **Kesimpulan: Semalam aja nggak cukup!**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_17ba45bcf8d46b025a496cb54dcd0c53.jpg)
 

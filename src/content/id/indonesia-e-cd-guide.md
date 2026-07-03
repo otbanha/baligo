@@ -19,18 +19,18 @@ originalUrl: 'https://vocus.cc/article/64e1946ffd89780001740b90'
 category:
   - 簽證通關
 lang: id
-_srcHash: 176f111d8d9aeb9553a3fac6753fb7e9
+_srcHash: a2e14dd01f820f2edc18f9ebe9bd2bc0
 ---
 
-### Apa itu e-CD?
+## Apa itu e-CD?
 
 Indonesia Electronic Customs Declaration (e-CD) adalah formulir deklarasi bea cukai online yang wajib diisi oleh semua wisatawan yang masuk ke Indonesia. Kamu bisa akses formulir digitalnya lewat internet dan isi data yang diperlukan. Setelah selesai, kamu bakal terima email berisi formulir lengkap dan QR Code. QR Code ini wajib kamu tunjukkan (dari HP atau cetakan) di pos terakhir sebelum keluar bandara, yaitu bagian "Deklarasi Bea Cukai". 
 
 Detail formulir e-CD: kamu harus kasih info terbaru tentang identitas diri, rencana perjalanan, dan data paspor. Pastikan paspor kamu masih berlaku **minimal 6 bulan** sejak tanggal masuk Indonesia. Kamu juga perlu deklarasi barang bawaan — ada beberapa barang yang nggak boleh dibawa masuk Indonesia sama sekali, ya!
 
-### e-CD sekarang jadi satu atap (one-stop), cek [di sini](https://s.id/AllInsonesia)
+## e-CD sekarang jadi satu atap (one-stop), cek [di sini](https://s.id/AllInsonesia)
 
-### Tips isi formulir e-CD:
+## Tips isi formulir e-CD:
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_aec365f19ae3d56f56b52024fc0a209d.jpg)
 

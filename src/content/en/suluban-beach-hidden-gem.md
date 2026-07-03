@@ -14,7 +14,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_27e430895976f8308bf766fe54d46305.jpg'
 originalUrl: 'https://vocus.cc/article/673207e9fd897800018987e7'
 lang: en
-_srcHash: d6c7bc76155754504dddd382a8f26ecc
+_srcHash: cc7ca0785bff625024d2be546dbc3fc4
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_67d2227cd36ea55fc95a50075a79269e.jpg)
@@ -27,11 +27,11 @@ Suluban Beach, also known as "Blue Point Beach," is tucked away in Bali's Bukit 
 
 ***
 
-### Xiao Jie's Video Introduction:
+## Xiao Jie's Video Introduction:
 
 https://youtu.be/hQbBTktqEqY
 
-### 1. How to Get to Suluban Beach
+## 1. How to Get to Suluban Beach
 
 Suluban Beach is located in the southern part of Bukit Peninsula, about an hour's drive from Seminyak and Kuta. It's recommended to hire a private car, as there is no public transportation available.
 
@@ -44,13 +44,13 @@ Upon arrival, follow the stone steps downhill for about a 10-minute walk to reac
 
 ***
 
-### 2. Best Time to Visit
+## 2. Best Time to Visit
 
 The best time to visit Suluban Beach is during the dry season (May to October), when the sun is abundant and the waves are stable, making it perfect for enjoying the scenery and surfing. Additionally, it's recommended to visit in the morning to avoid the crowded beach in the afternoon.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c69315ce69c0a6c8aeb911ea549cdd0a.jpg)
 
-### Main Activities
+## Main Activities
 
 1. **Sea Cave Exploration**: The limestone terrain of Suluban Beach has created numerous natural caves, providing an excellent backdrop for photography and adventure. During low tide, you can walk through the caves and capture mysterious photos.
 2. **Surfing Paradise**: The wave conditions here are ideal for surfing, especially for experienced surfers. There are many surf rental shops around Blue Point where you can easily find equipment or hire a local instructor. Note that the wave height is suitable for intermediate to advanced surfers, and beginners may find it challenging.
@@ -63,13 +63,13 @@ Single Fin Cliff Bar
 
 ***
 
-### Travel Tips
+## Travel Tips
 
 - **Tide Times**: It's recommended to check the tide times. During low tide, the beach area is larger, allowing for more exploration on foot. During high tide, water levels rise into the caves, so it's best to avoid them. Check tide times [here](https://www.tideschart.com/Indonesia/Bali/Kota-Denpasar/Uluwatu/).
 - **Sun Protection**: Although Suluban Beach has some shaded areas, prolonged exposure to the sun requires sunscreen, hats, and water.
 - **Travel Light**: The paths here are narrow, so carrying a small bag will be more convenient. The stone steps leading down to the beach are steep, so it's advisable to wear sneakers or sandals rather than flip-flops.
 
-### Nearby Attractions
+## Nearby Attractions
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_22c54e6ac54cee9b7bf8f153026a7785.png)
 
@@ -77,7 +77,7 @@ What are the fun activities and good eats around the Bukit Peninsula where Sulub
 
 ***
 
-### Conclusion
+## Conclusion
 
 What makes Suluban Beach special is its unique terrain and sense of seclusion. As you descend the winding, narrow stone steps and enter the path between rock crevices, it feels like stepping into a hidden paradise. Unlike typical flat, open beaches, Suluban Beach is surrounded by dramatic limestone cliffs, forming natural tunnels and caves. The waves crashing against the rocks create white sprays, bringing a sense of grandeur and mystery.
 

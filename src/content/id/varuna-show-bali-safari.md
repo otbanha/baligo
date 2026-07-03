@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7621e66d231e7fe9037030687a8b8224.jpg'
 originalUrl: 'https://vocus.cc/article/684569f0fd89780001f24ef9'
 lang: id
-_srcHash: 233bc6fc9c2adb6c23f6933da4c81f62
+_srcHash: ea81d57c7d96e1e0f4b47860a06c0fc2
 ---
 
 Perjalanan ke Bali kali ini, yang paling ngena di hati adalah pengalaman nonton *Varuna Show* di Marine Safari Bali! Teater bawah air yang gabungin sihir, lampu-lampu, dan aksi akrobat ini benar-benar bikin aku melongo — jauh banget dari bayangan pertunjukan taman laut biasa.
@@ -37,7 +37,7 @@ Perjalanan ke Bali kali ini, yang paling ngena di hati adalah pengalaman nonton 
 
 Dibuka tahun 2025 langsung hits, bahkan sempat diulas majalah Time versi Indonesia
 
-### 🚗 Transportasi & Masuk Taman
+## 🚗 Transportasi & Masuk Taman
 
 Lokasinya di Gianyar, Marine Safari Bali ada di sebelah Bali Safari Park yang udah terkenal. Sekarang dua taman ini digabung jadi satu dengan nama «[Bali Safari and Marine Park](https://www.balisafarimarinepark.com/)» — sesuai slogan resminya: «satu destinasi, dua dunia»
 
@@ -45,13 +45,13 @@ Lokasinya di Gianyar, Marine Safari Bali ada di sebelah Bali Safari Park yang ud
 
 Karena nggak di pusat keramaian, saran aku sih sewa mobil pribadi aja. Tamannya lebih gede dari yang dibayangin, begitu masuk langsung disambut suasana tropis yang ciamik dan vibe ceria. Kami udah beli tiket [Day Varuna Premium](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D) lewat Klook — walaupun harganya lumayan, tapi worth it banget!
 
-### 🍽 Kejutan di Restoran Tema Bawah Laut
+## 🍽 Kejutan di Restoran Tema Bawah Laut
 
 Makan siang yang termasuk dalam paket tiket disajikan di restoran bertema «dunia bawah laut» yang didesain dengan apik. Seluruh ruangan didominasi warna biru, dindingnya dihias elemen laut kayak karang dan rumput laut, ditambah efek lampu spesial — bikin kita serasa lagi di istana bawah air. Makanannya paket Western yang elegan, minuman khas Bali recommended banget, dan anak-anak juga suka banget sama dessert lucu-lucu bentuknya.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_dde920a2ff3ff6a19c243c058206babf.jpg)
 
-### 🎭 Varuna Show yang Bikin Merinding
+## 🎭 Varuna Show yang Bikin Merinding
 
 Kursi Premium kami ada di area tengah, pemandangannya juara banget. Begitu lampu mati, seluruh teater langsung berubah jadi dunia bawah laut raksasa.
 
@@ -68,11 +68,11 @@ Pertunjukannya mengikuti petualangan Varuna, penjaga dasar laut. Yang paling bik
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_71a7166954f577ff3a806abb0a4bff99.jpg)
 
-### 📸 Foto Bareng Pemeran
+## 📸 Foto Bareng Pemeran
 
 Setelah pertunjukan selesai, staf mengarahkan kami ke area foto. Anak-anak antusias banget foto bareng aktor berbaju megah. Foto-foto ini jadi salah satu kenangan paling berharga dari trip kami.
 
-### 🐬 Aktivitas Seru Lainnya
+## 🐬 Aktivitas Seru Lainnya
 
 Setelah nonton Varuna Show, kami juga nyobain fasilitas yang termasuk dalam paket Premium:
 
@@ -85,7 +85,7 @@ Setelah nonton Varuna Show, kami juga nyobain fasilitas yang termasuk dalam pake
 
 **Referensi Cepat:** [【Tempat Wisata Keluarga di Bali: Marine Safari Park】Marine Safari Bali – Panduan Lengkap Taman Safari Laut Bali](/blog/marine-safari-bali-guide/)
 
-### 💡 Tips Praktis
+## 💡 Tips Praktis
 
 1. [Beli tiket Varuna Show di Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D), sudah termasuk tiket masuk
 

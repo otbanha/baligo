@@ -30,14 +30,14 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: d5430b39555243cc1b9d9787115e76aa
+_srcHash: 3e3668ec6ed512487eef4bf85f0eef4f
 ---
 
 Setiap orang yang pernah terbang ke Bandara Internasional I Gusti Ngurah Rai Bali pasti punya kenangan buruk yang sama — apalagi pas musim ramai atau jam sibuk penerbangan, dari antre imigrasi sampai bagasi, prosesnya bisa makan waktu satu dua jam. Jujur, begitu mendarat udah terjebak di antrean panjang, suasana liburan langsung berkurang setengah.
 
 Tapi kabar baiknya, bandara Bali kali ini serius mau benahi proses masuk, dan perubahannya lumayan besar. Aku udah rangkum beberapa poin penting yang baru diumumkan, buat yang mau terbang ke Bali bisa siap-siap mental dulu.
 
-### Jalur Masuk Dirombak Total
+## Jalur Masuk Dirombak Total
 
 Yang pimpin reformasi ini adalah Kantor Imigrasi Khusus Pertama Bandara Ngurah Rai Bali (Class I Special Immigration Office), mereka udah resmi ngumumin bakal nata ulang total jalur penumpang di area masuk internasional.
 
@@ -45,17 +45,17 @@ Kepala kantor imigrasi, Bugie Kurniawan, ngaku kalau konfigurasi masuk bandara N
 
 Inti desain jalur baru ini simpel: **Bikin semua penumpang langsung menuju pemeriksaan imigrasi begitu mendarat, nggak perlu muter-muter.**
 
-### Poin Perbaikan Sekilas
+## Poin Perbaikan Sekilas
 
 Rencana perbaikan yang diumumkan ini dirangkum jadi beberapa poin utama:
 
-#### 1. Jalur Masuk Baru yang Lebih Simpel
+### 1. Jalur Masuk Baru yang Lebih Simpel
 
 - Begitu sampai, kamu langsung menuju area imigrasi (pintu autogate atau loket manual)
 - Nggak ada lagi jalur pemisah yang ribet, hemat banget waktu jalan bolak-balik di bandara
 - Diharapkan bisa mempercepat proses imigrasi secara signifikan
 
-#### 2. eVOA + Autogate, Kombinasi Paling Worth It
+### 2. eVOA + Autogate, Kombinasi Paling Worth It
 
 ![](https://thebalisun.com/wp-content/uploads/2025/01/Tourists-Use-Autogates-at-Immigration-728x728.jpg.webp)
 
@@ -64,7 +64,7 @@ Rencana perbaikan yang diumumkan ini dirangkum jadi beberapa poin utama:
 - Yang belum apply VOA bakal diarahkan ke loket VOA
 - Yang belum isi Kartu Kedatangan Indonesia (All Indonesia Arrival Card) bakal diarahkan ke perangkat elektronik di lokasi
 
-#### 3. Persiapan Sebelum Masuk yang Wajib Dilakukan
+### 3. Persiapan Sebelum Masuk yang Wajib Dilakukan
 
 Biar mulus pas masuk, sebaiknya selesaikan ini dulu sebelum terbang ke Bali:
 
@@ -73,7 +73,7 @@ Biar mulus pas masuk, sebaiknya selesaikan ini dulu sebelum terbang ke Bali:
 - **Bayar Pajak Wisatawan Bali** (di website atau aplikasi LoveBali)
 - **Siapkan QR Code**: pastikan bisa diakses dari layar HP kapan aja, sebelum dan sesudah boarding
 
-#### 4. Pemeriksaan Kesehatan Juga Diperketat
+### 4. Pemeriksaan Kesehatan Juga Diperketat
 
 ![](https://static.bali.live/uploads/210133/responsive-images/IMG_7139___responsive-avif_768_442.avif)
 
@@ -85,13 +85,13 @@ Ini bagian dari langkah antisipasi menyusul kasus virus Hanta (Hantavirus) di ka
 
 Kepala Divisi Komunikasi dan Hukum Bandara, Gede Eka Sandi Asmadi, bilang ini adalah langkah awal buat memperkuat perlindungan biosecurity. Jadi nanti pas masuk, bakal ada proses skrining kesehatan yang lebih lengkap. Santai aja, lewati imigrasi seperti biasa.
 
-### Arus Penumpang Beneran Nggak Main-main
+## Arus Penumpang Beneran Nggak Main-main
 
 Biar kamu kebayang seberapa sibuknya bandara Bali—coba lihat data ini: dari Januari sampai April 2026 aja, penumpang yang keluar-masuk Bandara Ngurah Rai udah tembus **lebih dari 4,5 juta orang**, naik 10% dibanding periode yang sama tahun lalu. Tahun ini target Bali adalah menyambut **7,5 juta wisatawan mancanegara**, dan dalam 3-4 tahun ke depan kapasitas bandara bakal ditingkatkan sampai 32 juta penumpang.
 
 Makanya bandara dan imigrasi mesti buru-buru benahi proses—kalau nggak, pas peak season antreannya bisa bikin stres.
 
-### Saran dari Kami
+## Saran dari Kami
 
 Jujur, perubahan ini kabar baik banget buat traveler. Kami kasih beberapa tips buat kamu yang mau terbang ke Bali:
 

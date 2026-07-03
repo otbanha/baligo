@@ -31,14 +31,14 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: d5430b39555243cc1b9d9787115e76aa
+_srcHash: 3e3668ec6ed512487eef4bf85f0eef4f
 ---
 
 Everyone who has flown into Bali's Ngurah Rai International Airport likely shares a painful memory—especially during peak seasons or flight rush hours, the process from immigration to baggage claim can easily take one to two hours. Honestly, being stuck in a queue right after landing can halve your vacation mood.
 
 But good news is here, Bali Airport is seriously revamping its immigration process with significant changes. I've compiled the latest key points to help you prepare for your trip to Bali.
 
-### Complete Reorganization of Immigration Routes
+## Complete Reorganization of Immigration Routes
 
 Leading this reform is the Class I Special Immigration Office at Ngurah Rai Airport, which has officially announced a complete overhaul of the international arrival area's passenger routes.
 
@@ -46,17 +46,17 @@ Immigration Office Head Bugie Kurniawan admitted that Ngurah Rai Airport's curre
 
 The core of the new route design is simple: **direct all passengers straight to immigration checks upon disembarking, eliminating unnecessary detours**.
 
-### Key Improvements at a Glance
+## Key Improvements at a Glance
 
 The announced improvements are summarized into several key points:
 
-#### 1. New Arrival Route Design
+### 1. New Arrival Route Design
 
 - Upon arrival, passengers proceed directly to immigration checkpoints (autogate or manual counters)
 - No more complex routing, saving significant time spent walking around the airport
 - Expected to greatly reduce overall clearance time
 
-#### 2. eVOA Electronic Visa on Arrival with Autogate is the Way to Go
+### 2. eVOA Electronic Visa on Arrival with Autogate is the Way to Go
 
 ![](https://thebalisun.com/wp-content/uploads/2025/01/Tourists-Use-Autogates-at-Immigration-728x728.jpg.webp)
 
@@ -65,7 +65,7 @@ The announced improvements are summarized into several key points:
 - Passengers without pre-arranged visas will be directed to VOA counters
 - Those who haven't filled out the All Indonesia Arrival Card will be guided to electronic kiosks for completion
 
-#### 3. Complete Pre-Arrival Tasks All at Once
+### 3. Complete Pre-Arrival Tasks All at Once
 
 To ensure smooth entry, complete these tasks before flying to Bali:
 
@@ -74,7 +74,7 @@ To ensure smooth entry, complete these tasks before flying to Bali:
 - **Pay the Bali Tourism Tax** (via LoveBali website or App)
 - **Prepare QR Code**: Ensure your phone screen can display it anytime before and after boarding
 
-#### 4. Enhanced Health Quarantine Measures
+### 4. Enhanced Health Quarantine Measures
 
 ![](https://static.bali.live/uploads/210133/responsive-images/IMG_7139___responsive-avif_768_442.avif)
 
@@ -86,13 +86,13 @@ These measures are in response to the recent Hantavirus outbreak on the MV Hondi
 
 Airport Communications and Legal Affairs Director Gede Eka Sandi Asmadi mentioned that these are preliminary measures to strengthen biosecurity protection. So in the future, when entering the country, you'll go through a more comprehensive health screening process. No need to be too nervous, just proceed through customs as usual.
 
-### Passenger Traffic Is Truly Remarkable
+## Passenger Traffic Is Truly Remarkable
 
 Here's a statistic to help you understand the pressure on Bali's airport — from January to April 2026 alone, Ngurah Rai Airport handled over **4.5 million passengers**, a growth of more than 10% compared to the same period last year. This year, Bali aims to welcome **7.5 million international tourists**, and within the next three to four years, they plan to upgrade the airport's capacity to 32 million passengers.
 
 This is why the airport and immigration authorities must speed up process improvements — if they don't act, the queues during peak season will be unbearable.
 
-### Our Recommendations
+## Our Recommendations
 
 Honestly, these changes are very practical good news for travelers. Here are our suggestions for those planning to fly to Bali:
 

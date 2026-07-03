@@ -16,12 +16,12 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 71835fb4bef733a5f8ca8a50ad523a3c
+_srcHash: 35eaa847def0e31925237cd7ebc8f1e5
 ---
 
 ![](https://images.gobaligo.id/images/2026-05/1778029977230-mixcollage-06-may-2026-08-12-am-9893.jpg)
 
-### Sorotan Hari Ini: Pariwisata Berkualitas & Pergeseran Pasar Wisatawan
+## Sorotan Hari Ini: Pariwisata Berkualitas & Pergeseran Pasar Wisatawan
 
 - **Mekanisme 'Pemeriksaan Keuangan' Saat Masuk Mulai Dikaji**: Pemerintah Provinsi Bali sudah jelas akan mendorong kebijakan 'Masuk Bersyarat' pada 2026. Nantinya, wisatawan internasional saat masuk mungkin akan dicek apakah punya cukup dana untuk biaya selama di pulau. Tujuannya buat menggeser fokus pariwisata dari 'wisata massal' ke 'wisata berkualitas tinggi', memastikan wisatawan bisa berkontribusi positif ke ekonomi lokal.
 - **Wisatawan India untuk Pertama Kalinya Jadi Pasar Terbesar**: Statistik terbaru menunjukkan Malaysia sudah resmi mengalahkan Australia sebagai negara asal wisatawan asing terbesar di Bali. Pada bulan Maret, hampir 80% wisatawan India yang masuk ke Indonesia memilih masuk lewat Bandara Ngurah Rai, terutama karena bertambahnya penerbangan langsung harian antara kedua negara dan bebas visa ASEAN.
@@ -30,7 +30,7 @@ _srcHash: 71835fb4bef733a5f8ca8a50ad523a3c
 
 - **Tren Digital Nomad & Sewa Vila Jangka Panjang**: Pola wisata 2026 sedang beralih ke tinggal lebih lama (rata-rata 10,84 malam). Komunitas digital nomad mulai menyebar dari selatan yang padat ke daerah seperti **Sidemen**, **Amed**, dan **Badung Utara (North Badung)**, mencari lingkungan yang lebih terasa lokal dan model sewa yang lebih stabil.
 
-### 📄 Topik yang Jadi Perhatian Wisatawan: Peringatan Keamanan & Penegakan Hukum Terbaru
+## 📄 Topik yang Jadi Perhatian Wisatawan: Peringatan Keamanan & Penegakan Hukum Terbaru
 
 - **Waspada Jebakan Wisata & Kasus Kriminal**:
     - **Polisi Palsu yang Tilang**: Baru-baru ini di Kuta, ada wisatawan yang merekam proses oknum yang diduga polisi mencoba memungut denda lalu lintas ilegal di tempat. Pihak berwenang mengingatkan kalau kena tilang, pastikan minta nomor polisi dan tanda terima resmi.

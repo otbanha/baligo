@@ -16,12 +16,12 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 71835fb4bef733a5f8ca8a50ad523a3c
+_srcHash: 35eaa847def0e31925237cd7ebc8f1e5
 ---
 
 ![](https://images.gobaligo.id/images/2026-05/1778029977230-mixcollage-06-may-2026-08-12-am-9893.jpg)
 
-### Today's Highlights: High-Quality Tourism and Shifting Visitor Demographics
+## Today's Highlights: High-Quality Tourism and Shifting Visitor Demographics
 
 - **"Financial Screening" Entry Mechanism Officially Under Discussion**: The Bali Provincial Government has clearly stated that it will push for a "conditional entry" policy in 2026. In the future, international visitors may be required to verify their financial resources to ensure they can support their expenses during their stay on the island. This move aims to shift the tourism focus from "mass tourism" to "high-quality tourism," ensuring visitors contribute positively to the local economy.
 - **Indian Tourists Surpass Others for the First Time**: Latest statistics show that Malaysia has officially overtaken Australia as Bali's largest source of foreign tourists. In March, nearly 80% of Indian tourists entering Indonesia chose to arrive via Ngurah Rai Airport, primarily due to the increase in daily direct flights between the two countries and ASEAN visa-free travel.
@@ -30,7 +30,7 @@ _srcHash: 71835fb4bef733a5f8ca8a50ad523a3c
 
 - **Digital Nomads and Long-Term Villa Rentals**: The tourism landscape in 2026 is shifting toward longer stays (averaging 10.84 nights). Digital nomads are spreading from the crowded southern areas to regions like **Sidemen**, **Amed**, and **North Badung**, seeking more authentic local living environments and stable rental models.
 
-### 📄 Visitor Concerns: Safety Alerts and Recent Law Enforcement
+## 📄 Visitor Concerns: Safety Alerts and Recent Law Enforcement
 
 - **Beware of Tourist Traps and Social Incidents**:
     - **Fake Police Enforcement**: Recently, tourists in the Kuta area recorded what appeared to be police officers attempting to collect illegal traffic fines on the spot. Authorities remind visitors to confirm the officer's badge number and request an official receipt when encountering law enforcement.

@@ -19,10 +19,10 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: f884b2bb172c4047ce94c33cb862c575
+_srcHash: 3ad125289b7ba532ee2b43bfa3a64fb0
 ---
 
-### 🗞️ Sorotan Hari Ini: Infrastruktur Wisata Baru & Transformasi Kawasan Ekonomi Khusus
+## 🗞️ Sorotan Hari Ini: Infrastruktur Wisata Baru & Transformasi Kawasan Ekonomi Khusus
 
 - **Terobosan di Pegunungan Utara! Proyek Kereta Gantung Gunung Batur Resmi Disetujui**:
 Untuk mengembalikan daya tarik wisata di wilayah utara dan dataran tinggi tengah, pemerintah provinsi pada 20 Mei resmi menyetujui proyek infrastruktur wisata ikonik—pembangunan **jalur kereta gantung (Cable Car Route) baru di puncak Gunung Batur, Kintamani**. Pemerintah menyebut proyek ini tidak hanya akan meningkatkan konektivitas transportasi antara Bali Utara dan pegunungan tengah, tetapi juga bertujuan menjadi destinasi wisata kelas dunia. Ke depannya, wisatawan bisa menikmati pemandangan spektakuler lahar vulkanik dan Danau Batur dari ketinggian melalui kabin kecil dengan perspektif baru.
@@ -31,7 +31,7 @@ Kementerian Keuangan dan pemerintah pusat Indonesia pada 20 Mei resmi merilis ce
 - **Tolok Ukur Baru Wisata Olahraga: 'Bali Tourism Run' Perdana Digelar Juni Mendatang**:
 **Bali Tourism Run 2026** perdana yang digagas oleh Dinas Pariwisata Bali dan Asosiasi Agen Perjalanan Wisata Indonesia (ASITA) resmi diumumkan akan digelar pada **21 Juni** di Warisan Dunia UNESCO—Sawah Terasering Jatiluwih (Jatiluwih Rice Terraces). Demi menjaga daya dukung ekologi dan budaya setempat, ajang ini membatasi partisipasi tepat 2.000 pelari. Penyelenggara menyatakan sehari sebelumnya (20/6) juga akan digelar 'Festival Jatiluwih' yang memadukan olahraga, kehidupan desa tradisional, dan kuliner lokal, mendorong pariwisata berkelanjutan berkualitas tinggi dengan kepadatan rendah.
 
-### 📄 Topik yang Disorot Wisatawan: Peringatan Keramaian Acara & Pemulihan Akomodasi Mewah
+## 📄 Topik yang Disorot Wisatawan: Peringatan Keramaian Acara & Pemulihan Akomodasi Mewah
 
 - **Ajang Olahraga Internasional Pekan Ini: Red Bull Cliff Diving World Series Digelar**:
 'Red Bull Cliff Diving World Series' yang sangat dinantikan akan berlangsung akhir pekan ini di pulau ini. Pakar wisata olahraga Nyoman Sujantara mengingatkan pemerintah dan wisatawan bahwa meskipun Bali sudah siap dalam hal branding alam, acara besar sangat bergantung pada mobilitas cepat atlet, pejabat, dan penonton. Wisatawan yang berkunjung ke destinasi pesisir populer dalam waktu dekat diimbau untuk berangkat lebih awal dan mewaspadai kemacetan lalu lintas di sekitar lokasi acara.

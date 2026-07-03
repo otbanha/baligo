@@ -19,10 +19,10 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: c1cbc39efb4a05ed98358e85d50ae31b
+_srcHash: ea386a75505f4782bc3662833ead77d7
 ---
 
-### 🗞️ Sorotan Hari Ini: Event Internasional & Transformasi Infrastruktur
+## 🗞️ Sorotan Hari Ini: Event Internasional & Transformasi Infrastruktur
 
 - **Pameran Perjalanan Bali & Beyond (BBTF 2026) ke-12 Segera Hadir**:
 Event perdagangan pariwisata terkemuka di Indonesia ini dijadwalkan pada **28-30 Mei** di Pusat Konvensi Internasional Nusa Dua. Tahun ini temanya 'Mendefinisikan Ulang Wisata Kuliner Indonesia', tujuannya untuk meningkatkan daya saing global Bali lewat kekayaan budaya kuliner.
@@ -31,7 +31,7 @@ Merespons krisis sampah akibat penutupan TPA Suwung, pemerintah provinsi sudah m
 - **Hasil Diplomasi Olahraga Asia Tenggara**:
 Menteri Pemuda dan Olahraga ASEAN baru-baru ini sepakat di Bali dan ngeluarin 'Deklarasi Bali', tujuannya buat memperkuat kerja sama olahraga regional dan mendorong mimpi Asia Tenggara jadi tuan rumah Olimpiade bareng-bareng.
 
-### 📊 Klarifikasi Data Wisatawan: Persaingan Malaysia vs Australia
+## 📊 Klarifikasi Data Wisatawan: Persaingan Malaysia vs Australia
 
 - **Australia Tetap Juara 'Kuartal' Bali**:
 Menurut briefing terbaru Badan Pusat Statistik Bali tanggal 5 Mei, **Australia** masih jadi negara asal wisatawan terbesar ke Bali di kuartal pertama 2026 (Januari-Maret), mencakup lebih dari 25% total kedatangan di bulan Maret.
@@ -40,7 +40,7 @@ Yang bikin ramai soal 'Australia turun dari posisi pertama' itu merujuk **data s
 - **Kesimpulan Struktur Wisatawan**:
 Malaysia sekarang **paling atas secara total kedatangan ke seluruh Indonesia**; sementara **khusus tujuan Bali**, Australia dan Malaysia lagi sengit banget saling rebut posisi puncak.
 
-### 📄 Topik yang Jadi Perhatian Wisatawan: Peringatan Keamanan & Rute Baru
+## 📄 Topik yang Jadi Perhatian Wisatawan: Peringatan Keamanan & Rute Baru
 
 - **Pemantauan Risiko Banjir & Imbauan Keamanan**:
 Kementerian Pariwisata baru-baru ini ngeluarin peringatan, akibat 'Gelombang Ekuator Rossby', banyak daerah di pulau ini alami hujan ekstrem dan banjir (paling parah di selatan). Disarankan wisatawan hindari daerah rawan banjir bandang dan longsor, serta konsultasi dulu sama operator lokal sebelum melakukan aktivitas air.

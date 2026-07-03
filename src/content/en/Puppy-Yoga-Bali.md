@@ -31,13 +31,13 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: e79c38d77d65e3c363ad4de904f997c9
+_srcHash: de3eafb7eef3d46985774638ed3c8637
 ---
 Bali's Puppy Yoga isn't a rigid traditional yoga class—it's a joyful experience where **play comes first, yoga comes second**. Here, the yoga mat becomes a playground, with puppies freely roaming, licking your face, nibbling your yoga pants, or even crawling under you during downward dog. The core philosophy is simple: **let go of the obsession with 'perfect poses' and open your arms to embrace the chaotic yet adorable puppy energy.**
 
 ![raw-image](https://images.gobaligo.id/images/2026-06/1781161790095-mixcollage-11-jun-2026-01-46-pm-4950.jpg)
 
-### 🐕 Play Time Takes Center Stage: The Play Session in Puppy Yoga (About 25-30 Minutes)
+## 🐕 Play Time Takes Center Stage: The Play Session in Puppy Yoga (About 25-30 Minutes)
 
 Unlike typical yoga classes that demand silence and focus, Puppy Yoga incorporates **plenty of 'Play time'** designed to blend yoga poses with puppy play naturally. Here's what you might encounter during a 60-minute class:
 
@@ -47,7 +47,7 @@ Unlike typical yoga classes that demand silence and focus, Puppy Yoga incorporat
 - **Group Play Competitions**: The latter part of the class is pure free play. Everyone sits in a circle as staff bring out toys (rope knots, squeaky balls, plushies), encouraging games like 'fetch' or 'find the treat.' Sometimes puppies all chase the same ball—adorable and hilarious.
 - **Yoga Poses + Puppy Interaction Combos**: The instructor designs simple 'duo (human + dog)' moves, like seated forward folds with a puppy on your lap, or lying leg raises where you gently tease a puppy to run around. It's not strict training but **a game that stretches your body while involving the puppies**.
 
-### 📋 A Typical 60-Minute Puppy Yoga Class Flow
+## 📋 A Typical 60-Minute Puppy Yoga Class Flow
 
 | Time | Segment | Content |
 | --- | --- | --- |
@@ -56,7 +56,7 @@ Unlike typical yoga classes that demand silence and focus, Puppy Yoga incorporat
 | 40-55 min | Full Free Play Time | Roll up mats, sit or lie on the floor surrounded by puppies for group games |
 | 55-60 min | Heartwarming Wrap-Up | Share puppy backstories, take a final photo with your favorite pup |
 
-### 🐶 Who Is This Class For?
+## 🐶 Who Is This Class For?
 
 ![raw-image](https://images.gobaligo.id/images/2026-06/1781162169791-mixcollage-11-jun-2026-01-47-pm-4715.jpg)
 
@@ -65,7 +65,7 @@ Unlike typical yoga classes that demand silence and focus, Puppy Yoga incorporat
 - **Families with kids** – Some sessions welcome children aged 6+ (with an adult), making it a great family activity.
 - **Animal lovers** – You not only play with puppies but also indirectly help them find forever homes.
 
-### ⚠️ Things to Know Before You Join
+## ⚠️ Things to Know Before You Join
 
 - **Allergy alert** – If you're allergic to dog fur, think twice. During the class, you'll be in close contact with puppies, and your clothes and yoga mat will be covered in fur.
 - **Don't expect a 'peaceful yoga session'** – There may be barking, chasing, puppies nibbling your shoelaces, or knocking over water cups. That's the charm of Puppy Yoga.
@@ -74,13 +74,13 @@ Unlike typical yoga classes that demand silence and focus, Puppy Yoga incorporat
 
 https://www.instagram.com/reel/DLOYzxLSP47/?utm_source=ig_web_button_share_sheet
 
-### 💚 The Heartwarming Meaning Behind It
+## 💚 The Heartwarming Meaning Behind It
 
 Puppy Yoga in Bali is mostly run in partnership with local animal rescue organizations. The puppies in the class are rescued strays. Through lots of interaction and play with humans, they learn to trust people and adapt to their surroundings, greatly increasing their chances of adoption. Part of your class fee goes directly toward their vaccines, food, and medical expenses. **It's a two-way healing: you get joy, and they get hope for the future.**
 
 ![raw-image](https://images.gobaligo.id/images/2026-06/1781162218450-8aa81110ade716a674f839158ffd5698.jpg)
 
-### 📍 Where to Go
+## 📍 Where to Go
 
 Classes are held in three main areas of Bali:
 

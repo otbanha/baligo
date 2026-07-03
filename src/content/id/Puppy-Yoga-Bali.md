@@ -30,14 +30,14 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: e79c38d77d65e3c363ad4de904f997c9
+_srcHash: de3eafb7eef3d46985774638ed3c8637
 ---
 
 Puppy Yoga di Bali bukan kelas yoga kaku biasa, tapi **pengalaman seru yang lebih ke 'main-main, yoga cuma bonus'**. Di sini, matras yoga jadi playground, anjing kecil bebas lalu lalang, jilat muka lo, gigit celana yoga, bahkan merangkak di bawah lo pas pose downward dog. Inti kelas ini simpel banget: **lepaskan obsesi 'pose sempurna', buka tangan dan peluk energi puppy yang kacau tapi gemas**. 
 
 ![raw-image](https://images.gobaligo.id/images/2026-06/1781161790095-mixcollage-11-jun-2026-01-46-pm-4950.jpg)
 
-### 🐕 Waktu Main Itu Bintang Utama: Sesi Bermain di Puppy Yoga (Durasi Sekitar 25-30 Menit)
+## 🐕 Waktu Main Itu Bintang Utama: Sesi Bermain di Puppy Yoga (Durasi Sekitar 25-30 Menit)
 
 Beda sama kelas yoga biasa yang minta hening & fokus, Puppy Yoga sengaja dirancang dengan **banyak 'Play time'**, bikin gerakan yoga nyatu sama mainan si anjing. Ini dia skenario nyata yang mungkin lo alami dalam kelas 60 menit:
 
@@ -47,7 +47,7 @@ Beda sama kelas yoga biasa yang minta hening & fokus, Puppy Yoga sengaja diranca
 - **Lomba Main Bareng**: Paruh akhir kelas ada waktu main bebas total. Semua duduk melingkar, staf keluarin berbagai mainan anjing (tali, bola bunyi, boneka), dorong lo buat main 'lempar ambil', 'siapa duluan nemu camilan' sama anjing. Kadang mereka rebutan bola yang sama, momennya gemes & ngakak banget. 
 - **Kombinasi Gerakan Yoga + Interaksi Anjing**: Instruktur bakal desain gerakan simpel 'dua orang (manusia + anjing)', misal pas duduk bungkuk ke depan, biarin anjing duduk di paha lo; atau pas telentang angkat kaki, goyang-goyang kaki pelan buat ngajak anjing lari muter. Ini bukan latihan ketat, tapi **game biar badan meregang sambil ngajak anjing ikut main**. 
 
-### 📋 Alur Kelas Puppy Yoga 60 Menit yang Khas
+## 📋 Alur Kelas Puppy Yoga 60 Menit yang Khas
 
 | Waktu | Sesi | Isi |
 | --- | --- | --- |
@@ -56,7 +56,7 @@ Beda sama kelas yoga biasa yang minta hening & fokus, Puppy Yoga sengaja diranca
 | 40-55 menit | Play Time Bebas Total | Lipat matras, duduk atau tiduran di lantai biar anjing ngelilingin lo, main bareng |
 | 55-60 menit | Penutup Hangat | Cerita latar belakang anak anjing, foto terakhir sambil gendong favorit lo |
 
-### 🐶 Kelas Ini Cocok Buat Siapa?
+## 🐶 Kelas Ini Cocok Buat Siapa?
 
 ![raw-image](https://images.gobaligo.id/images/2026-06/1781162169791-mixcollage-11-jun-2026-01-47-pm-4715.jpg)
 
@@ -65,7 +65,7 @@ Beda sama kelas yoga biasa yang minta hening & fokus, Puppy Yoga sengaja diranca
 - **Keluarga & anak-anak** – Beberapa sesi terima anak 6+ (ditemani dewasa), jadi aktivitas seru bareng keluarga. 
 - **Pecinta hewan** – Lo nggak cuma main sama anjing, partisipasi lo juga bantu mereka nemuin rumah baru.
 
-### ⚠️ Hal yang Perlu Kamu Tahu Sebelum Ikut
+## ⚠️ Hal yang Perlu Kamu Tahu Sebelum Ikut
 
 - **Kalau alergi bulu anjing, pikir-pikir dulu** – Di kelas ini kamu bakal dekat banget sama anak anjing, baju dan matras yoga pasti penuh bulu.
 - **Jangan harap yoga yang hening** – Prosesnya mungkin ada anjing menggonggong, saling kejar, gigit tali sepatu, atau tumpahin air minum. Justru itu yang bikin Puppy Yoga seru.
@@ -74,13 +74,13 @@ Beda sama kelas yoga biasa yang minta hening & fokus, Puppy Yoga sengaja diranca
 
 https://www.instagram.com/reel/DLOYzxLSP47/?utm_source=ig_web_button_share_sheet
 
-### 💚 Makna Manis di Baliknya
+## 💚 Makna Manis di Baliknya
 
 Puppy Yoga di Bali kebanyakan kerja sama dengan organisasi penyelamat hewan lokal. Anak anjing yang ikut kelas adalah mantan gelandangan yang diselamatkan. Lewat interaksi dan main bareng manusia, mereka belajar percaya dan beradaptasi, sehingga peluang diadopsi makin besar. Sebagian dari biaya kelas yang kamu bayar langsung dipakai buat vaksin, makanan, dan perawatan medis mereka. **Ini terapi dua arah: kamu dapat kebahagiaan, mereka dapat harapan baru.**
 
 ![raw-image](https://images.gobaligo.id/images/2026-06/1781162218450-8aa81110ade716a674f839158ffd5698.jpg)
 
-### 📍 Pilihan Lokasi
+## 📍 Pilihan Lokasi
 
 Kelas diadakan di tiga area utama Bali:
 

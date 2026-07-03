@@ -16,14 +16,14 @@ originalUrl: 'https://vocus.cc/article/67aeca73fd89780001e7c275'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: e26ea0bab79055b882daf7b8fd0ea5cd
+_srcHash: 9d1be2475062a0f2842a749e005281d3
 ---
 
-### 峇里島旅遊心得與推薦
+## 峇里島旅遊心得與推薦
 
 > 以下內容改編自團友 [Chingju Wang](https://www.facebook.com/share/p/193Gv3vLVV/) 分享遊記：
 
-### 旅行日期：2025/2/6-2/9
+## 旅行日期：2025/2/6-2/9
 
 今次係我人生中第一次去峇里島，雖然只有短短四日，但係一趟充滿驚喜同感動嘅旅程。特別感謝舊年九月喺網上發問時，好多前輩提供嘅寶貴建議，令今次嘅行程安排更加順利。為咗回饋大家嘅幫助，我都分享吓今次旅行嘅詳細心得同推薦，希望可以為未來計劃去峇里島嘅朋友提供一啲參考。
 
@@ -31,7 +31,7 @@ _srcHash: e26ea0bab79055b882daf7b8fd0ea5cd
 
 ---
 
-### 1. **Mara River Safari Lodge：同動物一齊瞓嘅獨特體驗**
+## 1. **Mara River Safari Lodge：同動物一齊瞓嘅獨特體驗**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b29252ee62cf7e762ff1f447761b8fa7.jpg)
 
@@ -47,7 +47,7 @@ _srcHash: e26ea0bab79055b882daf7b8fd0ea5cd
 
 ---
 
-### 2. **水神廟：寧靜致遠嘅靈性之地**
+## 2. **水神廟：寧靜致遠嘅靈性之地**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_bbe079ae357378ab17d4b8d0b2fcadd3.jpg)
 
@@ -57,7 +57,7 @@ _srcHash: e26ea0bab79055b882daf7b8fd0ea5cd
 
 ---
 
-### 3. **海神廟：壯麗嘅海蝕奇觀**
+## 3. **海神廟：壯麗嘅海蝕奇觀**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e939c789a7f931dc80650833c7e66e7c.jpg)
 
@@ -69,7 +69,7 @@ _srcHash: e26ea0bab79055b882daf7b8fd0ea5cd
 
 ---
 
-### 4. **梯田盪鞦韆：老少咸宜嘅放電活動**
+## 4. **梯田盪鞦韆：老少咸宜嘅放電活動**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_8dd0485bc0845aba22d505edb90a5413.jpg)
 
@@ -81,7 +81,7 @@ _srcHash: e26ea0bab79055b882daf7b8fd0ea5cd
 
 ---
 
-### 5. **聖泉寺：沐浴儀式與總統行宮嘅雙重驚喜**
+## 5. **聖泉寺：沐浴儀式與總統行宮嘅雙重驚喜**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4f849d9c235d59a137fbef5de65d6f96.jpg)
 
@@ -93,7 +93,7 @@ _srcHash: e26ea0bab79055b882daf7b8fd0ea5cd
 
 ---
 
-### 6. **斷崖公路：壯麗景色與交通建議**
+## 6. **斷崖公路：壯麗景色與交通建議**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b589b4f1505f339f21868993d57b2ec4.jpg)
 
@@ -107,7 +107,7 @@ _srcHash: e26ea0bab79055b882daf7b8fd0ea5cd
 
 ---
 
-### 7. **神鷹文化公園：雄偉卻略顯空曠**
+## 7. **神鷹文化公園：雄偉卻略顯空曠**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9ff7c54eabc3f3383b36804884d88bd9.jpg)
 
@@ -119,7 +119,7 @@ _srcHash: e26ea0bab79055b882daf7b8fd0ea5cd
 
 ---
 
-### 8. **包車司機：旅行嘅幕後功臣**
+## 8. **包車司機：旅行嘅幕後功臣**
 
 今次旅行嘅成功，好大一部分要歸功於我哋嘅包車司機**小吳**同佢嘅太太**Betty Pingky**。由於我哋一行有五個人，加上行李比較多，小吳特別安排咗一架大車，確保我哋喺旅途中可以舒適地移動。佢嘅駕駛技術非常穩健，全程冇任何急煞或者頓點，令到感冒嘅小朋友同老人家可以喺車上好好休息。
 
@@ -131,7 +131,7 @@ _srcHash: e26ea0bab79055b882daf7b8fd0ea5cd
 
 ---
 
-### 9. **點解冇塞車？**
+## 9. **點解冇塞車？**
 
 今次旅行，我哋幾乎冇遇到塞車，真係令我好驚喜。後來諗返，可能有幾個原因：
 
@@ -145,13 +145,13 @@ _srcHash: e26ea0bab79055b882daf7b8fd0ea5cd
 
 ---
 
-### 10. **相片少嘅原因：忙住照顧老幼**
+## 10. **相片少嘅原因：忙住照顧老幼**
 
 今次旅行嘅相片比預期中少咗好多，主要係因為落車之後，我幾乎都忙住照顧7歲嘅細路同70歲嘅長輩。細路活潑好動，成日都要有人睇住，而長輩們就需要適時嘅休息同協助。雖然少咗啲靚相，但能夠令全家人都玩得開心、安全，我覺得呢樣比影相更重要。畢竟，旅行嘅意義在於創造回憶，而唔係只係為咗打卡。
 
 ---
 
-### 11. **Villa泳池嘅小遺憾**
+## 11. **Villa泳池嘅小遺憾**
 
 ![示意圖](https://images.gobaligo.id/vocus/vocus_b77f1b401df4485747072419ea8c5e64.jpg)
 
@@ -163,7 +163,7 @@ _srcHash: e26ea0bab79055b882daf7b8fd0ea5cd
 
 ---
 
-### 總結與評分
+## 總結與評分
 
 今次峇里島之旅我哋全家都覺得好滿意，尤其係包車司機嘅專業服務同峇里島嘅自然美景，令我哋留下深刻印象。原本以為峇里島嘅交通會好似雅加達咁塞車，但實際上幾乎冇遇到塞車嘅情況，令我哋嘅旅行體驗大大加分。如果滿分係100分，我會俾今次旅行**95分**，唯一扣分嘅地方就係Villa泳池嘅深度問題。
 
@@ -171,7 +171,7 @@ _srcHash: e26ea0bab79055b882daf7b8fd0ea5cd
 
 ---
 
-### 推薦與建議
+## 推薦與建議
 
 - **包車司機**：強烈推薦**Betty Pingky**同佢老公**小吳**，佢哋嘅服務細心周到，中文流利，非常適合家庭旅行。
 - **景點安排**：建議根據家庭成員嘅年齡同興趣安排行程，例如帶小朋友嘅家庭可以多安排動物園或者梯田活動，而長輩就可以多安排一啲寧靜嘅景點如水神廟。

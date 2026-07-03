@@ -36,7 +36,7 @@ agoda_hotel_name: 洲際麗晶峇里島倉古飯店－由洲際飯店集團管�
 agoda_hotel_id: 41693391
 latitude: -8.65700244903564
 lang: en
-_srcHash: 074b381e5d47ea3f3a42e047f874cdf3
+_srcHash: 1849fa2f4285aa66daa1fa1619325509
 ---
 When it comes to Canggu, most people first think of surfing, cafes, and beach clubs. This area has always been a haven for backpackers and digital nomads, with relatively few high-end accommodation options.
 
@@ -46,7 +46,7 @@ Regent, the premier brand under the IHG Group (InterContinental Hotels Group), o
 
 ***
 
-### 📍 Location & Surroundings
+## 📍 Location & Surroundings
 
 Regent Bali Canggu is located at **Jl. Pantai Batu Bolong No. 93**, directly facing the black sand coastline.
 
@@ -78,7 +78,7 @@ The only thing to note is that driving from the airport, especially during after
 
 ***
 
-### 🏨 Facilities Overview
+## 🏨 Facilities Overview
 
 The entire resort was designed by **WATG Architects**, with interiors by **Hirsch Bedner Associates (HBA)**. The blend of stone, teak, and marble, combined with Bali's traditional roof styles and modern geometric elements, creates a refined aesthetic rather than a tacky tropical luxury vibe. All rooms feature teak bathtubs!
 
@@ -96,7 +96,7 @@ The **pool area** is one of the highlights frequently mentioned by guests. It's 
 
 ***
 
-### 🛏️ Room Overview
+## 🛏️ Room Overview
 
 There are **150 rooms and suites**, all facing either the ocean or gardens—no basic options here.
 
@@ -166,13 +166,13 @@ Guests have specifically mentioned details in the room: the hair dryer in the ba
 
 [https://youtu.be/bhex_EawbQA?si=UrskraTIOpONZynw](https://youtu.be/bhex_EawbQA?si=UrskraTIOpONZynw)
 
-### 👥 Ideal For
+## 👥 Ideal For
 
 **Honeymooners** are undoubtedly the most suitable group, with private pool Villas + Regent Spa + Michelin-starred chef restaurants, the formula hits all the right notes. **Travelers looking for top-tier accommodations in Canggu without venturing to Uluwatu** will also find this place ideal, thanks to its great location and strong sense of living, not the isolated type of resort. Surf enthusiasts who also want to stay in comfort can directly walk to Echo Beach for surfing during the day and enjoy high-standard accommodations at night.
 
 ***
 
-### 💬 Real Guest Reviews
+## 💬 Real Guest Reviews
 
 A guest staying in October 2025 described the pool area as unexpectedly large, with several separate pools and direct beach access, creating a vibe that made her feel like she was in "a secluded paradise amidst the bustling Long Beach."
 
@@ -182,7 +182,7 @@ Notably, seasoned travelers pointed out that compared to other top-tier Bali opt
 
 ***
 
-### 📌 Booking Information
+## 📌 Booking Information
 
 > Opening in November 2025 (Brand New Hotel)
 > Rating: Tripadvisor #16 / 118 (Long Beach Hotel Rankings) ⭐ 4.9/5 | Agoda Location Score 9.5/10｜

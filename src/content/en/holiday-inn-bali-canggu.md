@@ -30,7 +30,7 @@ agoda_star_rating: 5
 latitude: -8.656766891479492
 longitude: 115.13082122802734
 lang: en
-_srcHash: 0b27e7afcf519672cad7f2ed3ed4af52
+_srcHash: b57fcaa03e4759ab006ac79829776a71
 ---
 
 If you're looking for a resort that embraces Bali's natural beauty while offering modern convenience, the newly opened **Holiday Inn Resort Bali Canggu By IHG** is definitely worth considering. This five-star resort not only boasts an excellent location but also impresses with thoughtful service, top-notch facilities, and great value for money, earning an outstanding **comprehensive rating of 9.4** across major platforms.
@@ -39,7 +39,7 @@ If you're looking for a resort that embraces Bali's natural beauty while offerin
 
 ***
 
-### 🏖️ Prime Location and Surroundings
+## 🏖️ Prime Location and Surroundings
 
 Located in the heart of Canggu, the hotel is within walking distance of the beach and surrounded by over 100 restaurants, cafes, and unique boutiques, offering excellent convenience. As guests rave in reviews: 'The location is ideal—just steps from the beach, shops, and restaurants, making it easy to explore the area while still being a peaceful retreat from the hustle and bustle.'
 
@@ -47,7 +47,7 @@ Surf enthusiasts can easily head to Echo Beach or Berawa Beach to catch waves, w
 
 ***
 
-### 🛏️ Spacious, Comfortable, and Thoughtfully Designed Rooms
+## 🛏️ Spacious, Comfortable, and Thoughtfully Designed Rooms
 
 The hotel offers 10 room types, ranging from standard rooms to family suites. The most popular among families is the **1 Bedroom Kids Suite**, which is thoughtfully designed—kids can sleep in their own dedicated bunk bed area, and with a sliding partition, it becomes a private little haven, preserving the joy of family interaction while giving everyone their own space.
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774350877857-517838674.jpg)
@@ -66,7 +66,7 @@ Many guests rave about the comfort of the rooms:
 
 "The rooms are modern, comfortable, and have everything you need. The infinity pool overlooks Canggu Beach, especially stunning at sunset when the sky reflects in the water—breathtaking."
 
-### 🍽️ Diverse Dining Options, Highly Praised Breakfast
+## 🍽️ Diverse Dining Options, Highly Praised Breakfast
 
 The hotel's restaurant offers a variety of international and local cuisine, but what guests remember most is the **breakfast experience**:
 
@@ -80,7 +80,7 @@ If you don't feel like going out, 24-hour room service lets you enjoy delicious 
 
 ***
 
-### 🏄 Rich Facilities, Fun for All Ages
+## 🏄 Rich Facilities, Fun for All Ages
 
 The hotel's facilities are diverse and plentiful, catering to fitness enthusiasts, pool loungers, and nightlife lovers alike:
 
@@ -107,7 +107,7 @@ One traveler shared:
 
 ***
 
-### 👏 Attentive Service, Warm and Caring Staff
+## 👏 Attentive Service, Warm and Caring Staff
 
 Many guests specifically highlight the outstanding service from the hotel staff, with praise like this appearing frequently in reviews:
 
@@ -119,7 +119,7 @@ The staff’s enthusiasm and professionalism elevate the overall stay experience
 
 ***
 
-### 💰 Great Value for Money, Fair Pricing
+## 💰 Great Value for Money, Fair Pricing
 
 The average price of hotels in Bali ranges from about $76 to $100 USD, and while the Holiday Inn Resort Bali Canggu is priced slightly higher (around $151–$200), the facilities, services, and experience it offers are well worth it. Many guests have said, 'Excellent value for money—the overall experience easily exceeds expectations.'
 
@@ -129,7 +129,7 @@ The average price of hotels in Bali ranges from about $76 to $100 USD, and while
 
 ***
 
-### ✅ Summary: A Resort Worth Returning to Again and Again
+## ✅ Summary: A Resort Worth Returning to Again and Again
 
 Whether you're traveling with family, on a romantic getaway, or exploring solo, the Holiday Inn Resort Bali Canggu offers a relaxing, enjoyable, and surprise-filled stay. With its prime location, thoughtful room design, diverse dining and amenities, and unforgettable service from the staff, it's no wonder many guests write in their reviews:
 

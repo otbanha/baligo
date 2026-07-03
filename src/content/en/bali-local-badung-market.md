@@ -31,7 +31,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 9effb04c42b7ca55f1c14ef76887d0df
+_srcHash: 05b168659324b53fdf1ead9c0882e186
 ---
 
 When visiting Bali, buying souvenirs can be overwhelming. Wood carvings, batik fabrics, scented candles, silver jewelry... walking through each artisan market, there’s so much to choose from that you don’t know what to bring home. But honestly, locals themselves wouldn’t shop at these touristy souvenir stalls.
@@ -42,7 +42,7 @@ In recent years, more and more tourists have discovered this secret. Compared to
 
 ![raw-image](https://images.gobaligo.id/images/2026-05/1779287700843-artikel_201905120521_badungtraditionalmarket.jpg)
 
-### Even Ubud Hides a Morning Market You Can’t See
+## Even Ubud Hides a Morning Market You Can’t See
 
 Here’s an interesting phenomenon: even in tourist-heavy areas like Ubud, the traditional market is bustling in the early morning. The only difference is—it **closes by 8 AM**.
 
@@ -50,7 +50,7 @@ This means that by the time most tourists wake up and head out for the day, the 
 
 This is part of daily life in almost every Balinese community. Local families typically visit the morning market every two or three days for fresh fruits and vegetables, while staples like rice, noodles, eggs, and cooking oil are bought in bulk once every month or two. The morning market is an integral part of Balinese life, not a performance for anyone.
 
-### Why Is Everyone Obsessed with Spices?
+## Why Is Everyone Obsessed with Spices?
 
 We all know that fresh fruits and vegetables can't be brought on planes. But **dried spices can**, and Indonesia's spices are world-famous.
 
@@ -60,7 +60,7 @@ What really hits home are the tourists who've taken cooking classes. After learn
 
 Denpasar's **Badung Market** (Pasar Badung) has become the hottest spot. According to local vendors, foreign visitors mainly come for spices, especially powdered varieties like vanilla and chili. Market data shows nearly 17,000 international visitors in 2025, and this year's numbers are expected to be even higher.
 
-### Hidden Ways to Enjoy Badung Market
+## Hidden Ways to Enjoy Badung Market
 
 Badung Market is Denpasar's largest traditional market, technically open 24 hours but busiest in the early morning. Right next door is the **Kumbasari Art Market**, so many people shop for spices then head over for souvenirs — two birds with one stone, super efficient.
 
@@ -76,13 +76,13 @@ https://youtu.be/gEcE2e4TFaM
 
 > [2026 Denpasar Guide] Exploring Global Cities: Culture, History & Food Map of Bali's Capital](/blog/denpasar-culture-guide/)
 
-### Want to eat but don't want to venture out alone?
+## Want to eat but don't want to venture out alone?
 
 Let's be honest, traditional markets aren't for everyone. Most vendors only speak Indonesian, menus aren't in English, and figuring out how to order and pay can feel like a mini adventure. The variety of spices is overwhelming too — there are several types of chili powder alone, each with different levels of spiciness.
 
 If you're interested in exploring local markets but worried about language barriers, **Kreneng Night Market** is a more accessible option. We previously wrote about [a food tour of Kreneng Night Market with a Chinese-speaking guide](/blog/kreneng-night-market-food-tour/). It's where Denpasar locals really eat — from roast suckling pig to satay and Soto Ayam, you'll hardly see any tourists. Having a guide makes a huge difference, ensuring you don't miss those hidden stalls in the alleys.
 
-### Final Thoughts
+## Final Thoughts
 
 After spending time in Bali, you'll realize that the most memorable moments aren't the SPAs or beach sunsets, but these unplanned little things — the aroma of spices in the morning market, vendors gesturing with you in Indonesian, and eventually boarding your flight home with a bag of cloves and nutmeg.
 

@@ -16,22 +16,22 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 1f32ba0e30849562abb9056860edf66b
+_srcHash: 65d5d0909986b7e74fd724bfc111aad8
 ---
 
 【Today's USD Exchange Rate: 16,800】
 
-### 🗞️ Today's Highlights: Environmental Response & Energy Updates
+## 🗞️ Today's Highlights: Environmental Response & Energy Updates
 
 - **New Regulations at Suwung Landfill Address Waste Crisis**: As the **Suwung Landfill** is scheduled to fully close by August this year, recent waste disposal has hit a standstill, leading to garbage piles and burning incidents on Denpasar streets. Yesterday (4/27), the Ministry of Environment announced new measures: **the Suwung Landfill will now only accept organic waste two days a week**. Authorities are urging communities to implement source separation to mitigate the impact on air quality and scenery in tourist hotspots.
 - **Energy Supply Stability Recognized**: After inspecting Denpasar yesterday (4/27), the 12th Committee of the National Assembly noted that compared to energy-producing regions like Sumatra, **Bali's current power supply is extremely stable**, achieving near island-wide coverage and supporting the growing energy demands of tourism.
 
-### 🌤️ Weather Forecast
+## 🌤️ Weather Forecast
 
 - **Today's Weather**: Expect **localized brief thunderstorms** during the day, turning **cloudy** in the evening.
 - **Temperature & Humidity**: Temperatures range between **26°C - 31°C**. Daytime rain probability is **55%**, with a **UV index of 5 (moderate)**
 
-### 📄 Topics of Interest for Visitors: Festivals & Entry Procedures
+## 📄 Topics of Interest for Visitors: Festivals & Entry Procedures
 
 - **Semarapura Festival & Tourism Expo Kick Off**:
     - **Semarapura Festival**: Officially begins today (4/28) in **Klungkung**, running until May 1st. The event will showcase a rich array of traditional art performances and local cultural heritage.

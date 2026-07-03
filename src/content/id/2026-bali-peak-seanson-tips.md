@@ -34,7 +34,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 237fbcf73d107fd2bc00a4f48ff4d17a
+_srcHash: 9f1f61429279b79254fa2ccd5a49477c
 ---
 
 Jujur, aku juga ngerasa 2026 berasa cepet banget. Awal tahun baru nulis liputan tentang Nyepi, eh udah mau Juni aja — musim 'banjir manusia' tahunan di Bali bakal mulai lagi.
@@ -43,7 +43,7 @@ Dan terus terang, beberapa tahun ini aku ngerasa ada perubahan yang jelas: **mus
 
 > Referensi cepat: [Bali Ternyata Punya Lima Musim Liburan! Cara Cerdas Traveling Saat Musim Ramai](/blog/bali-peak-season-travel-tips/)
 
-### Angka Bicara: 65.000 Orang Sehari di Bandara, Seperti Apa Sih?
+## Angka Bicara: 65.000 Orang Sehari di Bandara, Seperti Apa Sih?
 
 Saat puncak musim ramai, Bandara Internasional Ngurah Rai bisa kedatangan 65.000 wisatawan internasional dalam sehari. Angka ini gimana ya? Kurang lebih kayak pesawat Airbus A380 muat 500 orang mendarat 130 kali sehari.
 
@@ -51,13 +51,13 @@ Indikator yang lebih langsung adalah tingkat okupansi hotel. Hotel-hotel di Kuta
 
 General Manager Grand Istana Rama Hotel, Ketut Darmayasa, juga bilang dalam wawancara bahwa pihak industri sebenarnya udah bersiap dari awal tahun untuk gelombang liburan panjang ini, dan sekarang tinggal ledakan yang sudah diperkirakan.
 
-### Kenapa Meski Situasi Global Goyang, Bali Tetap Seramai Ini?
+## Kenapa Meski Situasi Global Goyang, Bali Tetap Seramai Ini?
 
 Situasi Timur Tengah tahun 2026 memang bikin banyak pasar travel meredup, tapi Bali jadi pengecualian yang menarik. Dari berbagai data, permintaan ke Bali bukannya turun, malah terus naik.
 
 Dari pengamatan saya sendiri, Bali punya daya tarik yang 'bisa maju bisa mundur' buat pasar Asia (terutama Taiwan, Singapura-Malaysia, Australia) — waktu terbang nggak lama, visa gampang, biaya terkontrol, aktivitasnya variatif. Mulai dari surfing, diving, yoga, liburan di villa, sampai foto-foto aesthetic buat IG, hampir semua tipe traveling punya tempatnya di sini. Ketika destinasi jarak jauh lain bikin ragu, Bali otomatis jadi pilihan utama.
 
-### Dolar naik, harga kamar naik, kenapa turis belum terpengaruh?
+## Dolar naik, harga kamar naik, kenapa turis belum terpengaruh?
 
 Belakangan dolar AS menguat terhadap rupiah, secara teori seharusnya mendorong harga kamar di Bali naik. Tapi yang menarik, harga kamar hotel dan okupansi belum terlalu mencerminkan perubahan kurs.
 
@@ -67,11 +67,11 @@ Dinas Pariwisata Provinsi Bali (Kepala Dinas I Wayan Sumarajaya) juga bilang, me
 
 ***
 
-### Tips Musim Ramai: Apa yang Bakal Kamu Hadapi di Bali?
+## Tips Musim Ramai: Apa yang Bakal Kamu Hadapi di Bali?
 
 Udah selesai bahas data, sekarang kita bahas yang lebih nyata — **seperti apa sih Bali saat musim ramai?** Saya tinggal di sini, tiap tahun lihat skenario yang sama berulang. Kalau ini pertama kali kamu datang pas peak season, siap-siap mental buat hal-hal berikut.
 
-#### ✈️ Imigrasi Bandara: Siapin Waktu Dua Kali Lipat, Nggak Lebay
+### ✈️ Imigrasi Bandara: Siapin Waktu Dua Kali Lipat, Nggak Lebay
 
 Bandara Ngurah Rai Bali sebenarnya nggak terlalu besar. Titik kemacetan saat musim ramai ada di tiga tempat utama:
 
@@ -87,7 +87,7 @@ Bandara Ngurah Rai Bali sebenarnya nggak terlalu besar. Titik kemacetan saat mus
 
 > 💡 **Tips kecil**: Bea Cukai Indonesia sekarang ketat banget soal **cairan dan obat-obatan**. Gue pernah lihat turis Taiwan kena sita atau denda karena bawa obat yang nggak jelas diimigrasi.
 
-#### 🚗 Macet Parah: Bali di Musim Ramai, Lebih Parah dari Taipei Xinyi District
+### 🚗 Macet Parah: Bali di Musim Ramai, Lebih Parah dari Taipei Xinyi District
 
 Ini gue mau ngomong dengan nada serius: **macet di Bali pas musim ramai itu level neraka banget**.
 
@@ -107,7 +107,7 @@ https://youtu.be/lIV-T2jYhVk
 
 {{block:dua}}
 
-#### 🛒 Belanja di Supermarket Hotel: Barang Bagus Beneran Ludes
+### 🛒 Belanja di Supermarket Hotel: Barang Bagus Beneran Ludes
 
 Ini yang jarang kepikiran banyak orang: **pas musim ramai, supermarket dan stok hotel juga bisa kosong**. 
 
@@ -131,7 +131,7 @@ Ini yang jarang kepikiran banyak orang: **pas musim ramai, supermarket dan stok 
 
 {{block:klook}}
 
-#### ⚠️ Hindari Tipu-Tipu: Musim Ramai Juga Musim Penipuan, Catat Tips Ini
+### ⚠️ Hindari Tipu-Tipu: Musim Ramai Juga Musim Penipuan, Catat Tips Ini
 
 Pas lagi musim ramai, turis banyak berdatangan, praktik nipu juga ikut merajalela. Aku udah ngumpulin beberapa **jebakan yang paling sering kena turis Taiwan**:
 
@@ -165,7 +165,7 @@ https://youtu.be/LuEXL77-Qh0
 
 ***
 
-### Penutup: Musim ramai bakal datang, yang siap aja yang bakal happy
+## Penutup: Musim ramai bakal datang, yang siap aja yang bakal happy
 
 Bali di musim ramai bakal cantik banget, rame, penuh energi, tapi juga lebih mahal, lebih padat, dan butuh perencanaan lebih matang. Aku yang tinggal di sini, setiap tahun lihat turis datang dan pergi, perasaan perbedaan terbesarnya bukan 'berapa budget', tapi '**udah riset duluan apa enggak**'.
 

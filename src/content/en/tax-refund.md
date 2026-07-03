@@ -27,12 +27,12 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 433e87f0b2b153e3213241eb39a4adcf
+_srcHash: bd8a8e10f7693d7907305de5db1ab056
 ---
 
 The Indonesian government offers a 'Tax Refund for Tourists' program, allowing eligible foreign tourists to reclaim Value Added Tax (VAT, currently around 11-12%) on goods. Below are the latest official regulations (from the Indonesian Tax Office pajak.go.id, applicable in 2026), especially relevant for shopping in Bali.
 
-### 1. **Who is Eligible for a Tax Refund?**
+## 1. **Who is Eligible for a Tax Refund?**
 
 - Tourists holding foreign passports (non-Indonesian citizens or permanent residents).
 - Stay in Indonesia **not exceeding 60 days** (calculated from the day of entry).
@@ -42,7 +42,7 @@ The Indonesian government offers a 'Tax Refund for Tourists' program, allowing e
 
 **Note**: Bali's 'Foreign Tourist Levy' (IDR 150,000) is an entry tax, **non-refundable**, and entirely separate from shopping tax refunds.
 
-### 2. **What to Pay Attention to While Shopping?**
+## 2. **What to Pay Attention to While Shopping?**
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776321690797-untitled_design_24_.webp)
 
@@ -55,7 +55,7 @@ The Indonesian government offers a 'Tax Refund for Tourists' program, allowing e
 
 **Tip**: Not all stores display the logo, so ask the staff or check the official website [www.pajak.go.id](http://www.pajak.go.id) for a list of participating stores.
 
-### 3. **Refund Process (Most Commonly Used in Bali)**
+## 3. **Refund Process (Most Commonly Used in Bali)**
 
 1. **After Shopping**: Collect all tax invoices.
 2. **On Departure Day (Bali Ngurah Rai International Airport DPS)**:
@@ -67,13 +67,13 @@ The Indonesian government offers a 'Tax Refund for Tourists' program, allowing e
 
 **Recommendation**: Allow at least 30-60 minutes for the process, ideally after check-in but before security. During peak times, arrive early.
 
-### 4. **Refund Methods and Limits**
+## 4. **Refund Methods and Limits**
 
 - **Cash Refund** (IDR): For refunds **≤ Rp 5,000,000**, cash can be collected directly at the airport.
 - **Above Rp 5,000,000**: Bank transfer is required (provide overseas bank account details, account holder name, SWIFT Code, etc.), processed within 1 month; or opt to receive only Rp 5,000,000 in cash and forfeit the remainder.
 - Refund amount = VAT portion on the invoice (minus a small handling fee).
 
-### 5. **Common Exclusions**
+## 5. **Common Exclusions**
 
 - Food, beverages, tobacco products, firearms, explosives, and prohibited items.
 - Services (accommodation, dining, car rentals, tour guides, etc.) are not eligible for refunds.
@@ -81,7 +81,7 @@ The Indonesian government offers a 'Tax Refund for Tourists' program, allowing e
 
 {{block:klook}}
 
-### 6. **Handy Tips (Must-Read for Bali Shoppers)**
+## 6. **Handy Tips (Must-Read for Bali Shoppers)**
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776321764381-vat_refund_11zon.jpeg)
 

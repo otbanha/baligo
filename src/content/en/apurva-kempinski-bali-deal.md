@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d9034b3eade783ad2a93a96720a8df57.jpg'
 originalUrl: 'https://vocus.cc/article/69aa4faefd897800016bbeda'
 lang: en
-_srcHash: b12362af44c382d5350a6b477f9935c7
+_srcHash: 6f4d356ff73058914e79b4017633c5db
 ---
 
 If you're looking for a **Bali 5-star hotel deal**, an incredibly attractive promotion has recently appeared.
@@ -99,7 +99,7 @@ The Apurva Kempinski Bali has been one of the most talked-about 5-star resorts i
 
 > [The Apurva Kempinski Bali Wins 2024 'Best Sustainable Hotel' Award](/blog/apurva-kempinski-sustainability-award/)
 
-### 1️⃣ One of Bali's Most Spectacular Hotel Architectures
+## 1️⃣ One of Bali's Most Spectacular Hotel Architectures
 
 The grand staircase and water feature at the hotel entrance are truly awe-inspiring. Many guests feel like they're entering a palace when they first step into the lobby.
 
@@ -111,11 +111,11 @@ The grand staircase and water feature at the hotel entrance are truly awe-inspir
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_48c7cc7bc07742ffc352eadce74c52a1.jpg)
 
-### 2️⃣ Cliffside Ocean Views in Nusa Dua
+## 2️⃣ Cliffside Ocean Views in Nusa Dua
 
 Perched on elevated grounds, the hotel offers stunning views of the Indian Ocean, especially beautiful during sunset.
 
-### 3️⃣ Wide Range of Room Options
+## 3️⃣ Wide Range of Room Options
 
 In addition to standard luxury rooms, there are also pool rooms and villas, making it ideal for couples, honeymooners, and family vacations.
 

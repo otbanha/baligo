@@ -15,7 +15,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_614219514932eccd7b9734f03b4e05d8.jpg'
 originalUrl: 'https://vocus.cc/article/65fff19efd897800017026b5'
 lang: id
-_srcHash: bfcbe9f2d22dd7b8ff7fc435bf3eb353
+_srcHash: f1f1fcb4a5fce1d821083bf0cba16bfa
 ---
 Bali terkenal banget sama pemandangan alamnya yang memukau dan budayanya yang kaya, setiap tahunnya menarik jutaan wisatawan. Pilihan akomodasi di pulau ini juga nggak kalah variatif, dari resort super mewah sampai guesthouse yang terjangkau. Mau kamu cari pengalaman mewah atau sekadar tempat nginep yang worth it, di Bali pasti ada yang cocok.
 
@@ -41,19 +41,19 @@ https://youtu.be/xcz9XkBdwbs?si=h09QPI8MrC_V1ccT
 
 Berdasarkan isi video, Camilla Johannesen merekomendasikan pilihan akomodasi berikut:
 
-### Akomodasi Mewah:
+## Akomodasi Mewah:
 
 1. [Cek ketersediaan & harga Nanuku House](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=48047181) (Canggu)
 2. [Review & booking Ayana Resort](/blog/ayana-resort-bali-guide/) (Jimbaran)
 
-### Akomodasi Kelas Menengah Atas:
+## Akomodasi Kelas Menengah Atas:
 
 3. Villa Yapoon (Ubud)
 4. Bhumian Ri Retreat Center (Ubud)
 5. Charming Sea Lovely (Nusa Penida)
 6. [Vince Sky Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=621667) (Seminyak)
 
-### Akomodasi Budget:
+## Akomodasi Budget:
 
 7. [Anjin Sapoy](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=239609) (Canggu)
 8. [Evitel Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=957047) (Ubud)

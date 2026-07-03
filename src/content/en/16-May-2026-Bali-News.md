@@ -19,16 +19,16 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: aed028ee291816f5586b7766977eb839
+_srcHash: 817368763e261a014bc121daf50982c8
 ---
 
-### 🗞️ Today's Headlines: International Crime and Visa Crackdown
+## 🗞️ Today's Headlines: International Crime and Visa Crackdown
 
 - **Police Bust Major International Online Scam Ring**: Bali police recently conducted a raid, successfully dismantling an **international online scam base** that allegedly impersonated overseas law enforcement officials and used drugs and weapons to threaten victims for cross-border extortion. A total of 26 foreign suspects (including individuals from China, Taiwan, Malaysia, and the Philippines) were arrested, many of whom lacked valid documents or abused tourist visas. They have all been handed over to immigration authorities for deportation.
 - **Influencers and Remote Workers Face Visa Scrutiny**: Amid growing concerns about overtourism, authorities issued a strong signal in mid-May, officially targeting **influencers, freelancers, remote workers, and volunteers** who use tourist visas for long-term stays. Anyone involved in commercial photography, paid workshops, or earning non-local income online without proper long-term/business visas faces a high risk of deportation.
 - **China-Indonesia Collaboration Advances 'Waste-to-Energy (WtE)' Project**: The Governor of Bali formally met with the Chinese Consul General in Denpasar on May 15 to discuss accelerating the construction of a modern waste-to-energy plant in Badung Regency through cooperation between Indonesia's sovereign wealth fund (Danantara) and Chinese environmental enterprises, aiming to fundamentally solve the island's waste crisis.
 
-### 📄 Topics of Interest for Tourists: Code of Conduct, Attraction Upgrades, and Cross-Cultural Experiences
+## 📄 Topics of Interest for Tourists: Code of Conduct, Attraction Upgrades, and Cross-Cultural Experiences
 
 ![](https://images.gobaligo.id/images/2026-05/1778652953324-09bd8611-257a-4998-b10e-e798ced74b21.png)
 

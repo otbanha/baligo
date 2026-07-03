@@ -17,7 +17,7 @@ heroImage: ''
 originalUrl: ''
 embeds: []
 lang: id
-_srcHash: 84ca25b3b0b6dc94e7ff20702c917be5
+_srcHash: 73fd0049b0c0926df9622dfbde18bcca
 ---
 
 > Cerita perjalanan berikut diadaptasi dari postingan [YiShawn Huang](https://www.facebook.com/share/p/1DmyQYJF6M/)
@@ -26,7 +26,7 @@ _srcHash: 84ca25b3b0b6dc94e7ff20702c917be5
 
 Ini pertama kalinya aku dan istri ke **Bali**. Untuk perjalanan yang sudah lama kami nantikan ini, kami memilih trip bebas plus sewa mobil, biar bisa jelajahi pulau ini dengan ritme paling santai. Gak nyangka, dua hari pertama aja udah kasih kami banyak kejutan—dari keramahan penduduk lokal sampai makanan yang bikin melongo, semuanya terasa pas banget.
 
-### 🚗 Sahabat Seperjalanan: Sopir Sewa Benny
+## 🚗 Sahabat Seperjalanan: Sopir Sewa Benny
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774768349655-banny_new.jpg)
 
@@ -34,7 +34,7 @@ Sebelum berangkat, kami riset online dan akhirnya nemu sopir sewa bernama Benny.
 
 {{block:包車}}
 
-### 💧 Tips Sehari-hari: Soal Kualitas Air & Belanja
+## 💧 Tips Sehari-hari: Soal Kualitas Air & Belanja
 
 Hari pertama sampai bandara, Benny anter kami dulu ke Money Changer buat tukar uang, lalu ke **Coco Supermarket** dekat penginapan buat belanja besar.
 
@@ -46,7 +46,7 @@ https://youtu.be/UoGlRyAdyB8
 
 > Referensi cepat: [Tips Kesehatan Perjalanan Bali: Panduan Air Minum Bali & Bali Belly (Diare/Gastroenteritis)](/blog/bali-travel-health-tips/)
 
-### 🏡 住進肉桂天堂：Kayumanis Jimbaran Private Estate & Spa
+## 🏡 住進肉桂天堂：Kayumanis Jimbaran Private Estate & Spa
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774768824256-v1.jpg)
 
@@ -70,7 +70,7 @@ https://youtu.be/RodQvCZKwD0
 
 ▲Catatan kuliner Wahaha versi Jie
 
-### 🍳 Sarapan Enak di Tengah Hujan & Kejutan Ultah
+## 🍳 Sarapan Enak di Tengah Hujan & Kejutan Ultah
 
 Pagi kedua, meskipun hujan turun, sarapan **Balinese** di villa tetap asyik banget.
 
@@ -82,7 +82,7 @@ Pagi kedua, meskipun hujan turun, sarapan **Balinese** di villa tetap asyik bang
 
 {{block:蜜月}}
 
-### 🍫 Pengalaman Mewah: Petualangan Cokelat di Avisha Wellness & Spa
+## 🍫 Pengalaman Mewah: Petualangan Cokelat di Avisha Wellness & Spa
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774769054658-spa1.jpg)
 
@@ -96,7 +96,7 @@ Sore harinya kami ke **Avisha Wellness** yang dekat villa, buat nyobain paket pi
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774768923637-r3.jpg)
 
-### 🍽️ Makan Malam Ultah Mewah: Restoran Cuca Rekomendasi Michelin
+## 🍽️ Makan Malam Ultah Mewah: Restoran Cuca Rekomendasi Michelin
 
 Makan malam ulang tahun diadakan di **Cuca Restaurant**, yang ada di samping villa. Ini adalah restoran Tapas Spanyol rekomendasi Michelin Guide, setiap hidangannya seperti karya seni:
 

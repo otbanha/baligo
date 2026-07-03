@@ -16,22 +16,22 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 1f32ba0e30849562abb9056860edf66b
+_srcHash: 65d5d0909986b7e74fd724bfc111aad8
 ---
 
 【Kurs Dolar Pagi Ini: 16,800 IDR per USD】
 
-### 🗞️ Berita Utama Hari Ini: Respons Lingkungan & Dinamika Energi
+## 🗞️ Berita Utama Hari Ini: Respons Lingkungan & Dinamika Energi
 
 - **Aturan Baru TPA Suwung untuk Atasi Krisis Sampah**: Karena **TPA Suwung** direncanakan tutup total pada Agustus tahun ini, pengangkutan sampah belakangan ini macet, menyebabkan tumpukan sampah dan pembakaran liar di jalanan Denpasar. Kemarin (27/4), Kementerian Lingkungan Hidup merilis kebijakan respons terbaru: **TPA Suwung mulai hari ini hanya buka dua hari per minggu untuk menerima sampah organik**. Pemerintah mengimbau masyarakat untuk melakukan pemilahan dari sumber, guna mengurangi dampak terhadap udara dan pemandangan di kawasan wisata populer.
 - **Stabilitas Pasokan Energi Diakui**: Komite XII DPR RI kemarin (27/4) setelah meninjau Denpasar menyatakan, dibandingkan dengan daerah penghasil energi seperti Sumatera, **pasokan listrik di Bali saat ini sangat stabil**, hampir seluruh pulau teraliri listrik, cukup untuk mendukung kebutuhan energi pariwisata yang terus meningkat.
 
-### 🌤️ Prakiraan Cuaca
+## 🌤️ Prakiraan Cuaca
 
 - **Prakiraan Hari Ini**: Siang diperkirakan **hujan badai lokal singkat**, malam berubah menjadi **berawan**.
 - **Suhu & Kelembaban**: Suhu berkisar antara **26°C - 31°C**. Peluang hujan siang hari **55%**, **Indeks UV 5 (sedang)**
 
-### 📄 Topik yang Menarik Wisatawan: Acara & Prosedur Masuk
+## 📄 Topik yang Menarik Wisatawan: Acara & Prosedur Masuk
 
 - **Festival Semarapura & Pameran Pariwisata Berganda Dimulai**:
     - **Semarapura Festival**: Mulai hari ini (28/4) di **Klungkung** resmi digelar, berlangsung hingga 1 Mei. Akan menampilkan pertunjukan seni tradisional yang kaya dan warisan budaya lokal.

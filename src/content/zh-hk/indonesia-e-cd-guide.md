@@ -16,19 +16,19 @@ originalUrl: 'https://vocus.cc/article/64e1946ffd89780001740b90'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: 176f111d8d9aeb9553a3fac6753fb7e9
+_srcHash: a2e14dd01f820f2edc18f9ebe9bd2bc0
 ---
-### 咩係e-CD？
+## 咩係e-CD？
 
 Indonesia Electronic Customs Declaration (e-CD)係一種網上填寫嘅海關申報表，所有去印尼嘅旅客都要填寫。你可以上網訪問電子表格，並輸入所需嘅資料。一旦你填完e-CD，你會收到一封電郵，裡面有完成嘅表格同QR Code。你必須喺離開機場之前嘅最後一關「海關申報」，主動出示手機上或打印出嚟嘅QR Code進行掃描。
 
 e-CD表格嘅詳細資料如下：你必須提供關於你自己嘅身份資料、你嘅旅行計劃同你嘅護照數據嘅最新資料。你嘅護照必須喺進入印尼之日起**至少有6個月嘅有效期**。你仲需要聲明你帶入印尼嘅物品，有啲物品喺任何情況下都唔可以帶入印尼㗎
 
-### e-CD已改為一站式申請，請睇[呢度](https://s.id/AllInsonesia)
+## e-CD已改為一站式申請，請睇[呢度](https://s.id/AllInsonesia)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_aec365f19ae3d56f56b52024fc0a209d.jpg)
 
-### 以下係一啲填寫e-CD表格嘅小貼士：
+## 以下係一啲填寫e-CD表格嘅小貼士：
 
 1. 進入 <https://allindonesia.imigrasi.go.id/>
 2. 你可以事先填寫好e-CD表格，亦可以喺抵達印尼/峇里島機場時再即場上網填寫

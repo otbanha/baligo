@@ -17,8 +17,8 @@ import { join } from 'path';
 import matter from 'gray-matter';
 
 const isDryRun = process.argv.includes('--dry-run');
-const LANGS = ['zh-cn', 'zh-hk', 'en'];
-const BLOCK_LANGS = ['zh-cn', 'zh-hk', 'en'];
+const LANGS = ['zh-cn', 'zh-hk', 'en', 'id'];
+const BLOCK_LANGS = ['zh-cn', 'zh-hk', 'en', 'id'];
 
 function md5(text) {
   return createHash('md5').update(text).digest('hex');
