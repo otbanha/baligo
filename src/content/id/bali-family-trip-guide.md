@@ -28,7 +28,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4516353105148f7d4ebee19a4bcbe6a4.jpg'
 originalUrl: 'https://vocus.cc/article/6970b673fd897800013623d5'
 lang: id
-_srcHash: 400877263aee4e1f2b4882e4bd393b83
+_srcHash: f502dd7209c8cc781b041aa927fe8b1e
 ---
 
 > Konten berikut diadaptasi dari cerita perjalanan anggota grup [Lin Konglong](https://www.facebook.com/share/p/1DMYqVwzhq/):

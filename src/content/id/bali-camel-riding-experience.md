@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8b08e09d34382f389919fdef4c7b2b88.jpg'
 originalUrl: 'https://vocus.cc/article/6906be15fd897800015710d8'
 lang: id
-_srcHash: 32fd17bbe3557109263aad3adb191708
+_srcHash: b5b7b61c014d604de2d18c180940bcc7
 ---
 ## Pengalaman Unik di Bali: Petualangan Naik Unta di Pantai 🐪
 

@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/65d07704fd897800012d51fe'
 category:
   - 遊記分享
 lang: en
-_srcHash: 737045a8b4d0f83dd1defb95afb1cdc5
+_srcHash: d2971954243750b5518049032cba7ff0
 ---
 Recently released 'Top 10 Global Romantic Travel Destinations' based on Agoda's big data ranked Bali as the 6th most romantic destination globally ([see here](/blog/valentines-day-romantic-destinations/)); another Tripadvisor 2024 annual statistics report crowned Bali as the top honeymoon destination, [beating the Maldives to win the world championship!](/blog/bali-honeymoon-destination/)
 

@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/65d07704fd897800012d51fe'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 737045a8b4d0f83dd1defb95afb1cdc5
+_srcHash: d2971954243750b5518049032cba7ff0
 ---
 
 不久前才出炉的「十大全球浪漫旅游目的地」，根据Agoda旅行平台的大数据，其中巴厘岛名列全球第六名（[请看这里](/blog/valentines-day-romantic-destinations/)）；而另一份Tripadvisor 2024年度统计资料，巴厘岛更被列为度蜜月目的地的顶尖宝座，[击败马尔代夫夺得全世界冠军！](/blog/bali-honeymoon-destination/)
