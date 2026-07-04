@@ -17,7 +17,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_94254ac3e4069d41f34f53f5bee000e2.jpg'
 originalUrl: 'https://vocus.cc/article/696c7229fd897800017d45da'
 lang: id
-_srcHash: d7700bf26d728e7acbb694714e598472
+_srcHash: 8515388436f4b18f557d5b19fe500ca1
 ---
 
 ![【Panduan Bertahan Hidup di Bali】Kepanasan? 3 Minuman Ajaib &](https://images.gobaligo.id/vocus/vocus_0d7db454b968029e4ed332b57c147411.jpg)

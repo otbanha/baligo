@@ -32,7 +32,7 @@ heroImage: >-
   https://images.gobaligo.id/images/2026-06/1780384657147-mixcollage-02-jun-2026-02-17-pm-7027.jpg
 originalUrl: 'https://vocus.cc/article/65afb7bbfd897800017023b4'
 lang: id
-_srcHash: 1136e0fb7d2fe73fd38b807d28d20f68
+_srcHash: ec11b18e7acf381f8148e3f7d70565c6
 ---
 
 Nusa Dua adalah kawasan resor di selatan Bali yang terkenal dengan deretan hotel/resor bintang lima mewah di tepi pantai.

@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/6768bfbefd897800011a8638'
 category:
   - 簽證通關
 lang: id
-_srcHash: e13a0925bb2db98903d667536c3ef21f
+_srcHash: e6ce7f1f4b0d3af83595b1370902720e
 ---
 
 ### Mulai Februari 2024, selain biaya visa, turis yang ke Bali harus bayar pajak wisata sebesar USD$10 (atau 150.000 IDR). Tapi, banyak banget traveler yang nggak patuh, sampai pemerintah setempat bahas kemungkinan ngasih hukuman buat pelanggar. Salah satu usulannya adalah melarang turis yang belum bayar pajak masuk ke Bali.

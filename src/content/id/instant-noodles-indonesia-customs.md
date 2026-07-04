@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/6662ff6dfd89780001183ec4'
 category:
   - 旅行技巧
 lang: id
-_srcHash: 81034801c6d5b92490bf53fe84ddde3d
+_srcHash: 5a1dfeb2d684b99353a97b66538dff25
 ---
 
 Bawa mi instan Taiwan ke Bali, terutama yang mengandung daging, sering jadi kekhawatiran banyak traveler. Mi instan bukan cuma makanan enak dalam hidup orang Taiwan, tapi juga rasa kampung halaman. Nah, bisa nggak sih kita bawa makanan enak ini ke pesawat, biar sambil menikmati suasana luar negeri tetap bisa merasakan cita rasa Taiwan? Artikel ini bakal jawab tuntas pertanyaan itu.

@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/65b6ef65fd89780001f5d032'
 category:
   - 美食景點活動
 lang: en
-_srcHash: c91644d958484b217618ea837e893bd2
+_srcHash: ab149a74a8838503d7d99a1400799b75
 ---
 
 Bali, this tropical paradise known as the 'Island of the Gods,' offers countless heart-pounding adventure activities. Among the many options, one of the most exhilarating is riding an ATV quad bike through steep mountains and dense jungles.

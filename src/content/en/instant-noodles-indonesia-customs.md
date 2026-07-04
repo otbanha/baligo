@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/6662ff6dfd89780001183ec4'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 81034801c6d5b92490bf53fe84ddde3d
+_srcHash: 5a1dfeb2d684b99353a97b66538dff25
 ---
 
 Bringing Taiwanese instant noodles to Bali, especially those containing meat, is a concern for many travelers. Instant noodles are not just a delicious part of Taiwanese life, but also a taste of home. So, can we bring these flavors on the plane and enjoy them while abroad? This article will provide a detailed answer to this question.

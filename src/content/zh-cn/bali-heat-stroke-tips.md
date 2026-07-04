@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_94254ac3e4069d41f34f53f5bee000e2.jpg'
 originalUrl: 'https://vocus.cc/article/696c7229fd897800017d45da'
 lang: zh-cn
-_srcHash: d7700bf26d728e7acbb694714e598472
+_srcHash: 8515388436f4b18f557d5b19fe500ca1
 ---
 
 ![【巴厘岛生存指南】中暑了怎么办？当地人才知道的 3 大消暑神水与SPA、急救建议！](https://images.gobaligo.id/vocus/vocus_0d7db454b968029e4ed332b57c147411.jpg)
