@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-06/1781677272545-batur_lake.jpg'
 originalUrl: 'https://vocus.cc/article/68e786abfd89780001c1b9b7'
 lang: zh-hk
-_srcHash: eb6b9c28957aee7cffd6e16ba6da0a3b
+_srcHash: 7ea992efa700a579016503faeb15d8a6
 ---
 Update: 2026/06/18
 

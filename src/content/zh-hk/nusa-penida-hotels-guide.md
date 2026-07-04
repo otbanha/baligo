@@ -20,7 +20,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d8ab044a198844bec62c51e0a0d26d91.jpg'
 originalUrl: 'https://vocus.cc/article/65c8e2dffd89780001346aa9'
 lang: zh-hk
-_srcHash: e9292e828fc5ecae070fe36d9d186108
+_srcHash: eafa73599a46ba2bb318f1af1896a7f0
 ---
 
 針對佩尼達島我哋總共有五集介紹，一齊嚟更深入認識呢個海島天堂！其他四集呢度有傳送門：

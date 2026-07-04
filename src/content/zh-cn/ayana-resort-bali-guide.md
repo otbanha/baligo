@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_291e383b3042a6188cafc720cc574d50.png'
 originalUrl: 'https://vocus.cc/article/653914f6fd89780001fef733'
 lang: zh-cn
-_srcHash: 88bec6a913d4b433a2466bff4c804958
+_srcHash: 435c88049b4666bd72a3b5170644c72e
 ---
 
 巴厘岛的Ayana Bali是游客钟爱的巨大度假村园区，占地90公顷。 在这片广阔的土地上，Ayana Bali提供了丰富多彩的设施和活动，让您可以度过一个难以忘怀的度假。 整个园区内有19家餐厅和酒吧、14个不同的泳池（看[官网泳池所有图片](https://www.ayana.com/bali/facilities/)）、18洞高尔夫球场、儿童俱乐部、日落瑜伽、著名的Rock Bar、以及私人沙滩等等，当然还有无与伦比的海景！

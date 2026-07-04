@@ -22,7 +22,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d8ab044a198844bec62c51e0a0d26d91.jpg'
 originalUrl: 'https://vocus.cc/article/65c8e2dffd89780001346aa9'
 lang: en
-_srcHash: e9292e828fc5ecae070fe36d9d186108
+_srcHash: eafa73599a46ba2bb318f1af1896a7f0
 ---
 We have five episodes covering Nusa Penida. Dive deeper into this island paradise! Here are the links to the other four:
 

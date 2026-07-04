@@ -26,7 +26,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_291e383b3042a6188cafc720cc574d50.png'
 originalUrl: 'https://vocus.cc/article/653914f6fd89780001fef733'
 lang: id
-_srcHash: 88bec6a913d4b433a2466bff4c804958
+_srcHash: 435c88049b4666bd72a3b5170644c72e
 ---
 Ayana Bali di Bali adalah resor raksasa favorit wisatawan, luasnya 90 hektar. Di lahan seluas ini, Ayana Bali punya fasilitas dan aktivitas super lengkap, bikin liburanmu nggak terlupakan. Ada 19 restoran dan bar, 14 kolam renang berbeda (cek [semua foto kolam di website resmi](https://www.ayana.com/bali/facilities/)), lapangan golf 18 lubang, kids club, yoga sunset, Rock Bar yang terkenal, pantai pribadi, dan masih banyak lagi — belum lagi pemandangan laut yang juara!
 

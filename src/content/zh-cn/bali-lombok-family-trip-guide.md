@@ -19,7 +19,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_feef5a28d07f1ae085b35202fde6f
 originalUrl: 'https://vocus.cc/article/6701f6adfd897800017204e1'
 update: 2026/05/24
 lang: zh-cn
-_srcHash: 8657bc68c4852ead552fbb2dd99db095
+_srcHash: 52908e6958f9c69455076f4335a13e41
 ---
 
 > 以下内容改编自团友 [Libra Li](https://www.facebook.com/share/p/Fqg1HNg9asxLTJjd/) 分享游记：
