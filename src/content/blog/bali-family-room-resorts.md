@@ -134,7 +134,7 @@ https://youtu.be/-CJsTy4C3AQ
 
 **評價**| Agoda 上累積超過五千則真實評價，家長一致認為「CP值爆表，小孩進房第一件事是搶上鋪」。
 
-> Holiday Inn Resort Bali Nusa Dua房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=884471) | [Trip]()
+> Holiday Inn Resort Bali Nusa Dua房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=884471) | [Trip](https://hk.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=2144683&checkIn=2026-12-07&checkOut=2026-12-08&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-P6zszFJMEk9YGZ4_uPR1PZhBiNDCQsJgs5FtpyXV-c1urg2fo6cIfc006HAJ4ZjKs_NzGuYGTcyBi0Q6719c9Ehx2MTCcYj97NW8DUNK3-FAsLx44F4pdYfjNFVytlp1YqWZnoKJVkluSkKlkpPV0072nDnucrWpV0lFJSi5OBQkBWYm5-aV4JkG1oYWhiZKhnYAAULEms8EwBa05OzEkuzUksSQ2pLAAaYqajlFnsXFKUWRCUmptZUpIKVJWWmFOcChIPSi0GyiSDBZX8gMYUQQUy8_Mg2g1QxMISc0pTIa4AWuiWCrXDsFYH0_HP5vQ-7Z75YtNuHI63tDQ1M0ZxvPmAON64NvYRC1N07CcWhl8sDE2sDF2sDJNYWTn-_m1l3MXKE2Ti7O_jpmuoG6VrKCVnaGBgYGpobGqqa5BomZhsmWKka2JpamxkpGtkZm6ice_w-SefjI2spVinHHg-jV2BUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm4uxmaWTS5QNF3NosIvgGpmoFGt5aQcpZk-XIMWDJSmaW_dZ2GuBeIYwXqBhze4obQNe-0iYSBJrVYauh3fGRbECxi5GbgFGD8YIxgrGBkbGVYzsXMwGRoYCTBsYGXcw_ocBxleMIDMB5bQeHt8CAAA&masterhotelid_tracelogid=100051355-0a9ac9d2-495322-2674&detailFilters=17|1~17~1*31|2144683~31~2144683*80|0|1~80~0*29|1~29~1|2&display=exavg&subStamp=660&isCT=true&isFlexible=F&locale=zh-HK&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18443868)
 
 ## Grand Mirage Resort & Thalasso Bali 
 
@@ -169,7 +169,7 @@ https://youtube.com/shorts/TEO6Fnugku8?si=SI042vIiPj0K7Yzv
 
 **評價**| Expedia 上獲得「親子首選」標章，家長分享「全包式超省心，孩子玩累了隨時有東西吃」。
 
-> Grand Mirage Resort & Thalasso Bali 房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10335) | [Trip]()
+> Grand Mirage Resort & Thalasso Bali 房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10335) | [Trip](https://hk.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=7529731&checkIn=2026-12-07&checkOut=2026-12-08&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-PaxMLFJMEktZqFY-_cvZvZhBgNNO6zWUwUcvR4WCWyzrrFwfObRkz_obcdDgE8EVMOPJ_GnujNdOXKpr8ODoUMIHChwqGRcdZMIAgscOhiZAWrmcHYfOo080bGHXKtrwNPJDnsYGQ6wMh0gvHO14wFTFvbWU6xsHDMWypxieU3U3S1UnZqpZKViY5SSWZJTqqSldLTRfOeNux5vqJVSUcpJbU4GSgEZCXm5pfmlQDZhpYWlpaGegYGQMGSxArPFLDm5MSc5NKcxJLUkMoCoCFmOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlhQyQ9oTBFUIDM_D6LdEEUsLDGnNBXiCqCFbqlQOwxrdTAd_2xO79PumS827Sba8ebUdrwBMY43ro19xMIUHfuC5T7bJxaGX8AYOfrVvomVoYuVhWPCftZJrKwcv2Y1Mu5i5Yo0cw33iNL10DW8wHpi9glGKTlDAwMDU0NjU1Ndg0RL42Rj81RdE0tTYyMjXRMDQ1ON59svP_lkbGQtBUkNCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9hMXdxMTcyjbLiYPV2CBA-WpGhu3WdhLwXiKcJ4WsyhwS6Ga2SiUqzlpR0CDWt2R2kb8NpHwuSTWKsydD28My6KFTB2MXILMHowRjBWMDYwMq5iZOdiNjAyEmDawMi4g_E_DDC-YgTZAAAgIlU8GgMAAA&masterhotelid_tracelogid=100051355-0a93c37e-495322-4015&detailFilters=17|1~17~1*31|7529731~31~7529731*80|0|1~80~0*29|1~29~1|2&display=exavg&subStamp=1488&isCT=true&isFlexible=F&locale=zh-HK&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18443868)
 
 # 📍 金巴蘭 (Jimbaran)
 
