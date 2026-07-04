@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_760c821aacc62f110816f131d9c00736.jpg'
 originalUrl: 'https://vocus.cc/article/66b779d9fd89780001baf625'
 lang: en
-_srcHash: 19343774d96fa96115887bb2ca93323d
+_srcHash: 143eeb9e23829282e6031ad0d22e1fe4
 ---
 
 > The following content was provided by group member [Astrid Chang](https://www.facebook.com/share/p/LCk9JJoM562KcpHb/) and rearranged by us:
