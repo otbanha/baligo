@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/68440df9fd89780001afd27b'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 5fe98de24e8dbead53681c70bfd8d0aa
+_srcHash: 4e8c07afaf2ffd39b471783868db8261
 ---
 
 ![【坎古/Nuanu新景点】 巴厘岛最震撼的艺术地标：The Earth Sentinels 地球卫兵](https://images.gobaligo.id/vocus/vocus_f99e6c8463ebffb2d3f909bbd209ef22.jpg)

@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4b8a938dd80f7d576d1292655493c255.png'
 originalUrl: 'https://vocus.cc/article/67278942fd89780001b5fe3d'
 lang: id
-_srcHash: ee606ba7f4988ca05f348d6996e6c20a
+_srcHash: abc89414acb8c8c427d02622c455872f
 ---
 
 Siapa sangka saat menikmati sunset di pantai Bali yang indah, momen indah ini bisa jadi panggung penipu? Hari ini aku mau cerita pengalaman pribadi, semoga ini jadi pengingat buat kamu yang traveling di Bali buat tetap waspada, biar nggak jatuh ke dalam perangkap penipuan.

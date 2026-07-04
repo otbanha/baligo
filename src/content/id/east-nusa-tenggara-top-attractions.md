@@ -26,7 +26,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ffc777e5dd5ae6c10a448209f0dfb9cf.jpg'
 originalUrl: 'https://vocus.cc/article/66f8d419fd89780001458d42'
 lang: id
-_srcHash: 4c7b6519f6231624c2f62cc4d7dae706
+_srcHash: a050c730907b8e314aa01307983e1fdb
 ---
 
 **10 Destinasi Wisata Super Indah di Nusa Tenggara Timur (NTT): Jelajahi Keajaiban Alam Tenggara Indonesia**

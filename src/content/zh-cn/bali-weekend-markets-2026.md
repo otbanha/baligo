@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65db3d16fd89780001ef8b8f'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 30feb5cbfc23de66e0c3782c293b666f
+_srcHash: cfdc9fb0f8e87cd3360318549a4a1344
 ---
 
 ![【2026年版】仍在举办的巴厘岛四个假日市集：最接地气的购物体验](https://images.gobaligo.id/vocus/vocus_ac4148122f55882304ae14a57d853f86.jpg)

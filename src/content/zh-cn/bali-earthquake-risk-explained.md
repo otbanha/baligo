@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66c16fdefd897800015d7148'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: bb09ca884511bca9cedc0a85d3de11fe
+_srcHash: d4179e8c6c1d50b172be1e8f8ed3c835
 ---
 
 专家近日指出，巴厘岛可能面临发生「巨型逆冲断层」地震的潜在风险，这种地震的震源位于巴厘岛南部海域。印尼万隆理工学院地震学教授伊尔万·美拉诺解释说，巨型逆冲断层地震通常发生在板块交界处，并且规模往往超过8级。这些地震会造成地壳剧烈移动，从而引发海啸等严重灾害。

@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65db3d16fd89780001ef8b8f'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: 30feb5cbfc23de66e0c3782c293b666f
+_srcHash: cfdc9fb0f8e87cd3360318549a4a1344
 ---
 
 ![【2026年版】峇里島仲有舉辦嘅四個假日市集：最貼地嘅購物體驗](https://images.gobaligo.id/vocus/vocus_ac4148122f55882304ae14a57d853f86.jpg)

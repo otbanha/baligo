@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6ea1825f6240c42ce7116522fa0683e4.jpg'
 originalUrl: 'https://vocus.cc/article/6833e882fd89780001853b1d'
 lang: zh-cn
-_srcHash: 4b3c652dbf794d6fddfeff31e6a9e689
+_srcHash: 66892c9fa4a84744b48302fbdadfab37
 ---
 
 ## **当巴厘岛的极致放松成为一门艺术**

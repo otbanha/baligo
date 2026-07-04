@@ -23,7 +23,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3576b4757a6d3a5deaef795069cc866f.jpg'
 originalUrl: 'https://vocus.cc/article/6718dcb7fd897800013bcb4e'
 lang: id
-_srcHash: ad10e0cc9b3a0b24d1509052425fa482
+_srcHash: c02bbf03086bc1cb51da0f34c0851ef9
 ---
 
 Konten berikut diadaptasi dari catatan perjalanan anggota grup [Feilin Huang](https://www.facebook.com/share/p/15fgq7Bt9T/):

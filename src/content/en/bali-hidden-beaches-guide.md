@@ -29,7 +29,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a620733c94c49dc8ea080f79b317e293.jpg'
 originalUrl: 'https://vocus.cc/article/64e4c0c9fd897800014e31bf'
 lang: en
-_srcHash: 8ad2bc573823239b0a9151b5a7c7f954
+_srcHash: af62d0093b3180000fefb02c275ccd56
 ---
 
 Bali, this beautiful vacation destination, is renowned worldwide for its spectacular beaches, vibrant culture, and rich natural scenery. Beyond the well-known popular beaches, the island hides many secret small beaches, sparsely populated with few tourists, waiting to be discovered by adventurers.

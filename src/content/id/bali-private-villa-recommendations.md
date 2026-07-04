@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-06/1782218129408-private_villas.jpg'
 originalUrl: 'https://vocus.cc/article/66b41018fd89780001f96fc3'
 lang: id
-_srcHash: 2e192c8ab4953fd84a7976ad975e4dc0
+_srcHash: 140708d34f6db2bb9c703a47e67473f7
 ---
 
 ![Pilihan Baru Akomodasi di Bali: Rekomendasi Villa Private, R](https://images.gobaligo.id/vocus/vocus_f7f110d84c5d9f2da6f3b4a97a26a58f.png)

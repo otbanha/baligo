@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66c16fdefd897800015d7148'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: bb09ca884511bca9cedc0a85d3de11fe
+_srcHash: d4179e8c6c1d50b172be1e8f8ed3c835
 ---
 專家近日指出，峇里島可能面臨發生「巨型逆衝斷層」地震嘅潛在風險，呢種地震嘅震源位於峇里島南部海域。印尼萬隆理工學院地震學教授伊爾萬·美拉諾解釋話，巨型逆衝斷層地震通常發生喺板塊交界處，而且規模往往超過8級。呢啲地震會造成地殼劇烈移動，從而引發海嘯等嚴重災害。
 

@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a620733c94c49dc8ea080f79b317e293.jpg'
 originalUrl: 'https://vocus.cc/article/64e4c0c9fd897800014e31bf'
 lang: id
-_srcHash: 8ad2bc573823239b0a9151b5a7c7f954
+_srcHash: af62d0093b3180000fefb02c275ccd56
 ---
 
 Bali, destinasi liburan yang kece banget, terkenal dengan pantainya yang spektakuler, budaya yang warna-warni, dan pemandangan alam yang melimpah. Selain pantai-pantai hits yang udah terkenal, pulau ini juga nyimpen banyak hidden gem pantai kecil yang sepi, minim turis, dan siap dieksplor sama para petualang.

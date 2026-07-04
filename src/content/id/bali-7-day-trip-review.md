@@ -18,7 +18,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_39f6c46c3038adf1493290270f93eeaf.jpg'
 originalUrl: 'https://vocus.cc/article/668a065ffd897800018d4630'
 lang: id
-_srcHash: 16dcf59ad80a2eaece57d6e99ae0c622
+_srcHash: 3819203f5e36e8c40d4d4aacc0aae8c1
 ---
 
 > Konten ini disediakan oleh teman grup [Pan Yixun](https://www.facebook.com/share/p/axuYs6T1uaWoBsXp/?mibextid=A7sQZp)

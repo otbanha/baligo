@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/66c16fdefd897800015d7148'
 category:
   - 旅行技巧
 lang: id
-_srcHash: bb09ca884511bca9cedc0a85d3de11fe
+_srcHash: d4179e8c6c1d50b172be1e8f8ed3c835
 ---
 Beberapa titik di Indonesia yang berpotensi kena gempa super besar
 
