@@ -5145,6 +5145,19 @@ details[open] .seo-faq-q::after { content: '−'; }
   :global(.acard), :global(.alist-item) { break-inside: avoid; }
   :global(.results-section) { break-inside: avoid; }
 
+  /*
+   * Chrome 的「另存為 PDF」在匯出連結時，若 <a> 本身是 display:flex/grid，
+   * 產生的 PDF 會遺失該連結的可點擊區域（畫面上看起來正常，但 PDF 點不到）。
+   * 這裡把 .acard / .alist-item 這兩種卡片連結在列印時強制改回 block/inline，
+   * 讓 Chrome 能正確輸出可點擊的連結註解。
+   */
+  :global(.acard) { display: block !important; }
+  :global(.acard-tag), :global(.acard-title), :global(.acard-arrow) { display: inline; }
+  :global(.acard-title) { display: block; margin: 0.2rem 0; }
+  :global(.alist-item) { display: block !important; }
+  :global(.alist-favicon) { display: inline-block; vertical-align: middle; }
+  :global(.alist-tag), :global(.alist-title), :global(.alist-arrow) { display: inline; vertical-align: middle; margin-right: 0.4em; }
+
   /* Day-by-Day：避免單張日卡跨頁，保留交通警示色塊 */
   :global(.dbd-section) { break-inside: auto; }
   :global(.dbd-card) { break-inside: avoid; }
