@@ -14,7 +14,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4aab973c6b3ad4880871fbc537f1780b.jpg'
 originalUrl: 'https://vocus.cc/article/66ac90cbfd89780001db4d0e'
 lang: id
-_srcHash: 3f0abef647f9c23de288fa99aa35e2b5
+_srcHash: 36db61516731de5d1e908c68d523bf3e
 ---
 Finns Beach Club terletak di area Canggu, Bali, dengan pemandangan laut yang ciamik dan sunset yang juara. Beach club ini menggabungkan fasilitas modern dengan keindahan alam, bikin tempat ini sempurna buat liburan. Mau kamu pengen berjemur atau cari olahraga air yang menantang, Finns siap memenuhi kebutuhanmu.
 

@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/67a9e9ccfd89780001cd8699'
 category:
   - 旅行技巧
 lang: id
-_srcHash: e7dd9a23ce387c149f6665cc1e9a1361
+_srcHash: c9df817544b069f773997fc90afe2e58
 ---
 
 **Wisatawan di pantai-pantai hits Bali harus jaga barang pribadi dengan ekstra hati-hati**

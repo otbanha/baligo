@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/678466f6fd897800015271bb'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 0e179b48ec8168583b01f690f28ab641
+_srcHash: e9600be43bf0e78a76eb656964529c6b
 ---
 
 ### **《Backpacker Index 2025》**列出了亚洲31个城市的日均旅游开销排名，涵盖住宿、餐饮、交通、景点和娱乐费用。今天我们将完整介绍这些城市，并特别分析 **雅加达**、**库塔**、**台北**、**香港** 和 **新加坡** 等地的特色。

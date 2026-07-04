@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/670fc5b2fd89780001cea7ed'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 613bf99553342fc72116b1097c55b3c9
+_srcHash: 4273fe3f15b62ce1912ec055aeeb9762
 ---
 
 ![到印尼/巴厘岛旅行必备的八大app推荐](https://images.gobaligo.id/vocus/vocus_3490f5eb895795476132e2b764f8802c.jpg)

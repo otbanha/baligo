@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4aab973c6b3ad4880871fbc537f1780b.jpg'
 originalUrl: 'https://vocus.cc/article/66ac90cbfd89780001db4d0e'
 lang: zh-cn
-_srcHash: 3f0abef647f9c23de288fa99aa35e2b5
+_srcHash: 36db61516731de5d1e908c68d523bf3e
 ---
 
 Finns Beach Club位于巴厘岛的坎古地区，这里拥有壮丽的海景和无与伦比的日落美景。这个海滩俱乐部融合了现代设施与自然美景，为游客提供了一个完美的度假场所。不论你是想要享受阳光，还是寻找刺激的水上运动，Finns都能满足你的需求。

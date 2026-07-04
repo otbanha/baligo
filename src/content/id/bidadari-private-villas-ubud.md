@@ -19,7 +19,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0c283f8858719c4074b284d20a81e28e.jpg'
 originalUrl: 'https://vocus.cc/article/6789be68fd89780001c3ec93'
 lang: id
-_srcHash: a3a42d169d84f9440e9a9bc9d2b5710f
+_srcHash: e72bc284547164eb9a86209f563b865d
 ---
 
 ## Di pinggiran Ubud, Bali, ada sebuah resort yang tenang banget namanya Bidadari Private Villas & Retreat. Tempat ini bukan cuma kasih pelayanan kelas dunia, tapi juga pilihan sempurna buat kamu yang pengin liburan privat jauh dari keramaian.

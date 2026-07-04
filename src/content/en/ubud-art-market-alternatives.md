@@ -22,7 +22,7 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: en
-_srcHash: 600295c0176e9576547dfc373b850a78
+_srcHash: 11b9440da6bb9a1955f05423bdb29f14
 ---
 
 ![With Ubud Art Market closed, what are the alternative shoppi](https://images.gobaligo.id/vocus/vocus_90c38ac72764dbb29c604f9b35b3f960.jpg)

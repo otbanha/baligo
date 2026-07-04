@@ -19,7 +19,7 @@ category:
   - 旅行技巧
   - 叫車包車
 lang: id
-_srcHash: a3edd406205b4f4618e05421c61a65c7
+_srcHash: 44b8f8a8b4fb42c9c9ea4c12e63685ac
 ---
 
 ## Sekilas Layanan Transportasi GoBoat Bali

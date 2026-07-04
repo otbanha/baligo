@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0c283f8858719c4074b284d20a81e28e.jpg'
 originalUrl: 'https://vocus.cc/article/6789be68fd89780001c3ec93'
 lang: zh-cn
-_srcHash: a3a42d169d84f9440e9a9bc9d2b5710f
+_srcHash: e72bc284547164eb9a86209f563b865d
 ---
 
 ## 在巴厘岛乌布的郊区，坐落着一处宁静的度假胜地 - Bidadari Private Villas & Retreat。这里不仅提供世界级的服务，更是远离喧嚣、享受私密度假的完美选择。
