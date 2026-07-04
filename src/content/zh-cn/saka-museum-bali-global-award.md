@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_10445c4328b20f0e1f5bd8a4cf0f925a.jpg'
 originalUrl: 'https://vocus.cc/article/682b2a86fd89780001580ec0'
 lang: zh-cn
-_srcHash: 5dd25d9293c0f64c8fd552db4b4a77fe
+_srcHash: 10ef7d4e5539a64c86184a1ea768af1c
 ---
 
 ## **SAKA博物馆荣获Prix Versailles国际建筑大奖**

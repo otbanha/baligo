@@ -13,7 +13,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_63fb33d32a9f5cde3874e6ab95264471.png'
 originalUrl: 'https://vocus.cc/article/67ac4321fd897800015b9a11'
 lang: zh-hk
-_srcHash: 6f9424d9d8d0db47ed47bb13704ea467
+_srcHash: ebfce371e9de45496bb8db32474b66b9
 ---
 
 峇里島一直係親子遊嘅熱門目的地，有豐富嘅文化、靚嘅沙灘同啱晒一家大細嘅活動。無論係沙灘玩水、探索大自然，定係體驗當地文化，峇里島都可以滿足大人細路嘅需求。呢篇攻略會詳細介紹暑假帶細路嚟峇里島旅遊嘅注意事項，並推薦最啱嘅親子度假區嘅特色同適合親子嘅活動。

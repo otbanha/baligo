@@ -28,7 +28,7 @@ heroImage: 'https://images.gobaligo.id/images/2026-05/1777787808185-ubud-villa.p
 originalUrl: 'https://vocus.cc/article/6628f08cfd8978000190a575'
 shuffle_h2: true
 lang: id
-_srcHash: 9ed22de597a9b432003eab114c15285e
+_srcHash: 9158e2325fa8ac748c96f0f8cddb9b52
 ---
 Ubud di Bali terkenal sebagai pusat seni dan budaya, dengan banyak bangunan bersejarah, pura, sawah, dan hutan tropis. Tempat ini cocok banget buat santai sambil eksplor budaya. Pilihan akomodasinya juga beragam, dan Villa dengan kolam renang pribadi jadi favorit wisatawan. Mau yang mewah atau yang worth it, semua ada di Ubud.
 

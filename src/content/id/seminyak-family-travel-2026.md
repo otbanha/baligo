@@ -18,7 +18,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_63fb33d32a9f5cde3874e6ab95264471.png'
 originalUrl: 'https://vocus.cc/article/67ac4321fd897800015b9a11'
 lang: id
-_srcHash: 6f9424d9d8d0db47ed47bb13704ea467
+_srcHash: ebfce371e9de45496bb8db32474b66b9
 ---
 
 Bali emang jadi destinasi favorit buat liburan keluarga. Punya budaya yang kaya, pantai cantik, dan aktivitas seru buat semua umur. Mau main pasir, eksplor alam, atau belajar budaya lokal, Bali selalu bisa memenuhi kebutuhan orang tua dan anak. Panduan ini bakal kasih info lengkap soal tips liburan ke Bali pas liburan sekolah, plus rekomendasi area terbaik buat keluarga dan aktivitas yang cocok buat anak-anak.

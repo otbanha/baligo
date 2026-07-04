@@ -23,7 +23,7 @@ heroImage: 'https://images.gobaligo.id/images/2026-05/1777787808185-ubud-villa.p
 originalUrl: 'https://vocus.cc/article/6628f08cfd8978000190a575'
 shuffle_h2: true
 lang: zh-cn
-_srcHash: 9ed22de597a9b432003eab114c15285e
+_srcHash: 9158e2325fa8ac748c96f0f8cddb9b52
 ---
 
 巴厘岛乌布是著名的艺术和文化中心，拥有众多古迹、寺庙、稻田和热带雨林，是放松身心和探索文化的好去处。这里的住宿选择也非常丰富，其中私人泳池别墅深受游客喜爱。无论您是追求奢华享受的度假人士，还是注重性价比的旅行者，都能在乌布找到心仪的别墅。
