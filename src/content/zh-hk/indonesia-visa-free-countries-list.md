@@ -15,7 +15,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: zh-hk
-_srcHash: ca1c9b8ba45cce19d6bca701e812094d
+_srcHash: 30c57ea3252b67ad22fa6648a608c2a2
 ---
 Update: 2026/07/03
 

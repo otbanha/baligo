@@ -16,7 +16,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6727b9f6f57b7ae2c320641b63c0569c.jpg'
 originalUrl: 'https://vocus.cc/article/68578b01fd89780001dd5208'
 lang: id
-_srcHash: 5761b415d06718be558e68c284b070eb
+_srcHash: b63a0e6305f2aee2caf06fcc376d8066
 ---
 
 ## Perpaduan Sempurna Antara Pemandangan Gunung Berapi dan Pantai Tenang di Bali

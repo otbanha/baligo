@@ -18,7 +18,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_98d8ffbc6101e9d8d140fa14f3328f9e.png'
 originalUrl: 'https://vocus.cc/article/6745a0c9fd89780001807cfa'
 lang: id
-_srcHash: 7b2d8e58979744267bfc36ca0ae81a18
+_srcHash: a637e580c765e51b1d7ed53b70c1a782
 ---
 
 Bawa orang tua liburan ke luar negeri, dari luarnya sih keliatan manis dan berbakti, tapi buat banyak orang, ini bisa jadi pengalaman yang 'capek-capek nggak dihargai'. Menurut survei, lebih dari setengah keluarga pernah ngerasain stres di perjalanan kayak gini, bahkan ninggalin kenangan 'tragis'. Soalnya, bawa orang tua jalan-jalan itu nggak cuma liburan, tapi juga ujian fisik, mental, bahkan hubungan keluarga.

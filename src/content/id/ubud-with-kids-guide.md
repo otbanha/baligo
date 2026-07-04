@@ -31,7 +31,7 @@ heroImage: 'https://images.gobaligo.id/images/2026-05/1779867558071-family-guide
 originalUrl: 'https://vocus.cc/article/659cf4a5fd89780001d6fb69'
 update: 2026/05/22
 lang: id
-_srcHash: ca0958d64f84647330c0318f2eb0ba94
+_srcHash: ec8b4122dcfe8f96c9cdfe5ef907d2e1
 ---
 
 ![【Ubud Wisata Keluarga】Pilihan 50+ Aktivitas Favorit Anak: Ke](https://images.gobaligo.id/vocus/vocus_4643327dd1cf07ff42f5f2aca91dae7c.png)
