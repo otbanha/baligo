@@ -23,7 +23,7 @@ agoda_star_rating: 4
 latitude: -8.68027210235596
 longitude: 115.150520324707
 lang: id
-_srcHash: a95eee94e24978fa8b2f66f93d6d1a7e
+_srcHash: d0d350979483d79fc9a29a2a1daba8e6
 ---
 
 Kleo Seminyak adalah properti pertama dari brand JdV by Hyatt di Asia Tenggara, mulai beroperasi Juli 2025. Berlokasi di kawasan Seminyak yang super hidup, hotel ini langsung jadi salah satu akomodasi paling hits di sana.

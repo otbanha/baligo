@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7621e66d231e7fe9037030687a8b8224.jpg'
 originalUrl: 'https://vocus.cc/article/684569f0fd89780001f24ef9'
 lang: zh-cn
-_srcHash: ea81d57c7d96e1e0f4b47860a06c0fc2
+_srcHash: 97e4a2f2704e581aebaa49c4df66537e
 ---
 
 这次的巴厘岛之行，最让我难忘的莫过于在Marine Safari Bali体验的《Varuna Show》了！这个结合魔幻、灯光与特技的水下剧场，完全颠覆了我对海洋公园表演的想象。

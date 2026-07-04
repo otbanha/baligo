@@ -23,7 +23,7 @@ agoda_star_rating: 4.5
 latitude: -8.791350364685059
 longitude: 115.12996673583984
 lang: zh-hk
-_srcHash: 7f46fb21bb0b811605560ef1b0a00bb5
+_srcHash: d90f8442480c73214fe32ad8c7ab13c8
 ---
 
 喺峇里島南端嘅武吉半島，烏魯瓦圖（Uluwatu）以壯麗嘅斷崖同日落聞名，而其中隱身喺 Balangan 海灘附近嘅 **La Cabane Bali**，係好多旅人心目中理想嘅「秘密基地」。呢度融合咗自然氛圍同法式浪漫，規模雖然細，但因為設計精緻、環境私密，每間房都幾乎一房難求。

@@ -22,7 +22,7 @@ heroImage: 'https://images.gobaligo.id/images/2026-06/1781334616518-index_new.jp
 originalUrl: 'https://vocus.cc/article/655054b1fd897800011d4d2c'
 update: 2026/05/22
 lang: zh-hk
-_srcHash: b3eebe197b87b5d854db49f130b3a4eb
+_srcHash: 1868f884db1f7ac7532d86c7cbccab81
 ---
 
 Update: 2026/06/13

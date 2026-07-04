@@ -21,7 +21,7 @@ originalUrl: 'https://vocus.cc/article/67a2c0c0fd897800013f7a3e'
 category:
   - 美食景點活動
 lang: id
-_srcHash: 8212ce28a2664f62139cd40cd98eb5cc
+_srcHash: a5b838ec18b0cfa1660745ce82cc079d
 ---
 
 ![Luna Beach Club: Beach Club Impian di Nuanu Creative City, B](https://images.gobaligo.id/vocus/vocus_e418402d62cbc466123dfe2739d7c077.jpg)

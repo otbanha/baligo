@@ -23,7 +23,7 @@ agoda_star_rating: 4
 latitude: -8.68027210235596
 longitude: 115.150520324707
 lang: en
-_srcHash: a95eee94e24978fa8b2f66f93d6d1a7e
+_srcHash: d0d350979483d79fc9a29a2a1daba8e6
 ---
 
 Kleo Seminyak marks the debut of the JdV by Hyatt brand in Southeast Asia, launching operations in July 2025 in the lively Seminyak district, establishing itself as a focal point of local accommodation discussions.

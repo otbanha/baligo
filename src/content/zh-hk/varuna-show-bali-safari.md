@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7621e66d231e7fe9037030687a8b8224.jpg'
 originalUrl: 'https://vocus.cc/article/684569f0fd89780001f24ef9'
 lang: zh-hk
-_srcHash: ea81d57c7d96e1e0f4b47860a06c0fc2
+_srcHash: 97e4a2f2704e581aebaa49c4df66537e
 ---
 今次嘅峇里島之旅，最令我難忘嘅莫過於喺 Marine Safari Bali 體驗嘅《Varuna Show》喇！呢個結合魔幻、燈光同特技嘅水底劇場，完全顛覆咗我對海洋公園表演嘅想像。
 

@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_85d4f10a50d1c5ba74a646b83e5ff706.jpg'
 originalUrl: 'https://vocus.cc/article/6721d7bbfd89780001ee1132'
 lang: zh-hk
-_srcHash: 57d80483457511923aa646e2dda8be38
+_srcHash: 58c1e4032d72911e20d652ccdf5af2b2
 ---
 
 位於峇里島 AYANA Segara 嘅屋頂上有一個 Luna Rooftop Bar，以其夕陽美景同多變嘅氛圍，成為享受放鬆嘅一個隱藏版去處。喺呢度高處俯瞰，日落嘅餘暉同大海嘅壯闊交織，成為影相愛好者嘅絕佳背景。喺 Luna，享受嘅唔單止係美食同飲品，更加係難忘嘅回憶。

@@ -26,7 +26,7 @@ agoda_star_rating: 4.5
 latitude: -8.791350364685059
 longitude: 115.12996673583984
 lang: id
-_srcHash: 7f46fb21bb0b811605560ef1b0a00bb5
+_srcHash: d90f8442480c73214fe32ad8c7ab13c8
 ---
 
 Di ujung selatan Bali, di Semenanjung Bukit, Uluwatu terkenal dengan tebing-tebing dramatis dan matahari terbenamnya. Tersembunyi di dekat Pantai Balangan, **La Cabane Bali** adalah 'basecamp rahasia' impian banyak traveler. Tempat ini memadukan nuansa alami dengan romantisme ala Prancis. Meski kecil, karena desainnya yang apik dan suasananya yang privat, hampir setiap kamar susah didapatkan.

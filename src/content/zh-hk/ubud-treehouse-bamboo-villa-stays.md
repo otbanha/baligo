@@ -22,7 +22,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fdec0070ac83943457e250368cc6d730.jpg'
 originalUrl: 'https://vocus.cc/article/660d4c83fd89780001ddf0ad'
 lang: zh-hk
-_srcHash: 83a8f835d8299844e2fa8050ed9f9e05
+_srcHash: e8f7c0f2e3903c5166379465d045a44d
 ---
 
 ![探索烏布10間令人嘆為觀止嘅樹屋/竹屋別墅 tree house/bamboo villa](https://images.gobaligo.id/vocus/vocus_1001bd26958ac1c26775c36f63cab0e5.jpg)

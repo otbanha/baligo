@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0b2a80bca6d13f204b5a0e41bf717e85.jpg'
 originalUrl: 'https://vocus.cc/article/68fc59fdfd89780001842abe'
 lang: id
-_srcHash: 31b0bc711b5adc0845a01af47c4b682e
+_srcHash: 6f5db0c14fca061958945ef9baf5b2a5
 ---
 
 Bali terkenal dengan pura Hindu-nya, tapi ternyata di pulau ini juga tersebar beberapa vihara Buddha bergaya Tionghoa yang penuh warna oriental. Vihara-vihara ini nggak cuma jadi bukti sejarah perantau Tionghoa di Bali, tapi juga jadi spot unik buat kamu yang pengen cari ketenangan sambil merasakan perpaduan budaya.

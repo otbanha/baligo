@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7621e66d231e7fe9037030687a8b8224.jpg'
 originalUrl: 'https://vocus.cc/article/684569f0fd89780001f24ef9'
 lang: id
-_srcHash: ea81d57c7d96e1e0f4b47860a06c0fc2
+_srcHash: 97e4a2f2704e581aebaa49c4df66537e
 ---
 
 Perjalanan ke Bali kali ini, yang paling ngena di hati adalah pengalaman nonton *Varuna Show* di Marine Safari Bali! Teater bawah air yang gabungin sihir, lampu-lampu, dan aksi akrobat ini benar-benar bikin aku melongo — jauh banget dari bayangan pertunjukan taman laut biasa.
