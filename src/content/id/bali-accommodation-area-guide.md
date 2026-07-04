@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d5dd99601f415163fc4f70bce9b44559.png'
 originalUrl: 'https://vocus.cc/article/65839fbafd89780001e876b5'
 lang: id
-_srcHash: 72dcc38b9037d17476388630811caa1d
+_srcHash: e13aeba5a98c67fdb4e94ed9f4241dea
 ---
 
 ![【2026 Panduan Menginap di Bali】Perbandingan 5 Area Populer: ](https://images.gobaligo.id/vocus/vocus_d8cc7758ad3cf5d979761f9941d98f85.png)

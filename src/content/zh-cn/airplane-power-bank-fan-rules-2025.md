@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/682ebdb1fd89780001b2f097'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 556657c7c4385faeb880a9bced4baeb9
+_srcHash: 3b5620c2555d91f0b6cd0cff212e2c20
 ---
 
 在搭乘飞机时，携带充电宝（移动电源）和含有电池的挂脖风扇确实需要遵守特定的航空安全规定。以下是针对这两类物品的携带指南：

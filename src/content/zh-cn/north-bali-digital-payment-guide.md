@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/694a1000fd897800015461ec'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 4185f94cd2de2f9a7cb2ef246f49b25b
+_srcHash: b8038d55b584ef4cad0b5f8fe26c4dc8
 ---
 
 **时代正在转变，巴厘岛旅游模式也同步升级。**

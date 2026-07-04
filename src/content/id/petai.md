@@ -30,7 +30,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 0539aa9a3202e6b26a52b70bb6555916
+_srcHash: a51f51c6d2df8d3e53b63866d944d858
 ---
 
 # Petai Indonesia: Kacang Ajaib Hijau yang Baunya Bikin Kaget, Tapi Bikin Ketagihan

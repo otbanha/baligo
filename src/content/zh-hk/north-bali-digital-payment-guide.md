@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/694a1000fd897800015461ec'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 4185f94cd2de2f9a7cb2ef246f49b25b
+_srcHash: b8038d55b584ef4cad0b5f8fe26c4dc8
 ---
 
 **時代正在轉變，峇里島旅遊模式亦同步升級。**

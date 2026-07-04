@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/682ebdb1fd89780001b2f097'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 556657c7c4385faeb880a9bced4baeb9
+_srcHash: 3b5620c2555d91f0b6cd0cff212e2c20
 ---
 ## ✈️ Portable Charger (Power Bank) Regulations
 

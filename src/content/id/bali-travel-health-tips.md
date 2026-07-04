@@ -17,7 +17,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f7918fec37b1a415067a0ef81e604462.png'
 originalUrl: 'https://vocus.cc/article/65b32e1ffd8978000170519b'
 lang: id
-_srcHash: 8a0e213d4cc073388ee993153c69c0f4
+_srcHash: 97515fee3830b81a831dc462cc8c229b
 ---
 
 Waktu traveling, jaga kesehatan itu nomor satu! Bali, tempat yang bikin hati terpikat, penuh sama pemandangan keren dan pengalaman yang nggak bakal terlupa. Tapi, pas kamu eksplor destinasi cantik ini, inget buat jaga kesehatan, karena di sini, air minum dan kebersihan makanan yang kita konsumsi tiap hari perlu perhatian ekstra. Kalau badan bermasalah pas liburan, bisa-bisa seluruh perjalanan berantakan!

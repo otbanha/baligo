@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_c2b98df8328054c746981a1c97e44f0f.jpg'
 originalUrl: 'https://vocus.cc/article/67239706fd89780001749b01'
 lang: zh-hk
-_srcHash: 68cb58f78123a5316d6dbd80e7b3362c
+_srcHash: 6996ed04aebd2e279e745feee30fe7e2
 ---
 
 ![「Double bed room」竟然唔係「雙床房」！訂房千祈唔好搞錯！](https://images.gobaligo.id/vocus/vocus_4987be535ea54598e53f32ecf38facc4.jpg)

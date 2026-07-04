@@ -15,7 +15,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f7918fec37b1a415067a0ef81e604462.png'
 originalUrl: 'https://vocus.cc/article/65b32e1ffd8978000170519b'
 lang: en
-_srcHash: 8a0e213d4cc073388ee993153c69c0f4
+_srcHash: 97515fee3830b81a831dc462cc8c229b
 ---
 Maintaining health while traveling is the most important topic! Bali, this fascinating land, is filled with incredible scenery and unforgettable experiences. However, as you explore this beautiful destination, remember to protect your health, as daily consumption of drinking water and food hygiene here require extra attention. If your body feels unwell during the trip, the entire journey might be ruined!
 

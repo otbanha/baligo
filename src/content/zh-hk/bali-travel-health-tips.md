@@ -10,7 +10,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f7918fec37b1a415067a0ef81e604462.png'
 originalUrl: 'https://vocus.cc/article/65b32e1ffd8978000170519b'
 lang: zh-hk
-_srcHash: 8a0e213d4cc073388ee993153c69c0f4
+_srcHash: 97515fee3830b81a831dc462cc8c229b
 ---
 
 旅行時保持身體健康係最重要嘅課題！峇里島，呢片令人著迷嘅土地，充滿咗令人難以置信嘅美景同令人難忘嘅體驗。然而，喺您探索呢個美麗嘅目的地時，請記得保護您嘅健康，因為喺呢度，我哋每日都要食落肚嘅飲用水同食品衛生係需要格外留心嘅。如果旅遊時身體出現異樣，可能整個旅程都可能泡湯咗哩！
