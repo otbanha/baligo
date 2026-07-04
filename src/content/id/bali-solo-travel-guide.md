@@ -21,7 +21,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: id
-_srcHash: e29d1305e3a0ccc38d607f71df84f8d2
+_srcHash: fccf9b676b051a0c810bc53569d3efdf
 ---
 Kamu lagi mikir buat solo trip ke Bali? Gue kasih tahu dulu: **ini ide yang keren banget.**
 

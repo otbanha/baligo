@@ -16,7 +16,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: zh-cn
-_srcHash: e29d1305e3a0ccc38d607f71df84f8d2
+_srcHash: fccf9b676b051a0c810bc53569d3efdf
 ---
 
 你正在考虑一个人去巴厘岛旅行吗？让我先跟你说：**这绝对是个好主意。**

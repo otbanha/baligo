@@ -19,7 +19,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_474e842e30763c2e08fb64ae53b821a1.jpg'
 originalUrl: 'https://vocus.cc/article/669fc2a7fd89780001321901'
 lang: id
-_srcHash: f1077d0abb3ed834fff714b9a088f1cc
+_srcHash: c1b7abaac4d3f66991e0b386523797db
 ---
 Kalau ditanya selain pantai yang super hidup di Bali, mana tempat paling favorit turis internasional dan lokal Indonesia? Salah satu jawabannya adalah Ubud di Bali. Pasti kamu udah denger soal tempat wisata di Ubud dan lihat berbagai artikel tentang jalan-jalan serta aktivitas seru di sana. Nah, tertarik buat liburan ke Ubud? Kalau iya, sebelum rencanain trip ke Ubud, saran aku baca artikel ini sampai habis! Di sini ada panduan lengkap dan tips traveling ke Ubu.
 

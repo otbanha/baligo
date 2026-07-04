@@ -19,7 +19,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_474e842e30763c2e08fb64ae53b821a1.jpg'
 originalUrl: 'https://vocus.cc/article/669fc2a7fd89780001321901'
 lang: en
-_srcHash: f1077d0abb3ed834fff714b9a088f1cc
+_srcHash: c1b7abaac4d3f66991e0b386523797db
 ---
 
 If you're wondering where in Bali, besides its vibrant beaches, is most popular among international and Indonesian tourists? One answer is Ubud. I'm sure you've heard of Ubud's tourist spots and seen various articles about its tours and activities. Are you interested in vacationing in Ubud? If so, before planning your trip, I recommend reading this article thoroughly! Here, we provide a travel guide and tips for Ubud.

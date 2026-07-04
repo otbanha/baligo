@@ -22,7 +22,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: en
-_srcHash: e29d1305e3a0ccc38d607f71df84f8d2
+_srcHash: fccf9b676b051a0c810bc53569d3efdf
 ---
 
 Are you considering traveling solo to Bali? Let me tell you first: **This is definitely a great idea.**
