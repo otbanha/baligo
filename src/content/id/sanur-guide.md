@@ -30,7 +30,7 @@ heroImage: >-
   https://images.gobaligo.id/images/2026-06/1780382360987-mixcollage-02-jun-2026-01-38-pm-5007.jpg
 originalUrl: 'https://vocus.cc/article/65bf2f75fd89780001dbf162'
 lang: id
-_srcHash: 25dcb5d124ee71cf2adf89db2a644274
+_srcHash: e2e546eb202ae9ee0e5d283636930c73
 ---
 
 ![【Destinasi Keluarga di Bali】Panduan Sanur: Peta Ultimate 50+](https://images.gobaligo.id/vocus/vocus_8f6c888982e2cf5611b55b827c0ffcaa.png)

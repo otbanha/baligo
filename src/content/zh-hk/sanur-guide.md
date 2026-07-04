@@ -24,7 +24,7 @@ heroImage: >-
   https://images.gobaligo.id/images/2026-06/1780382360987-mixcollage-02-jun-2026-01-38-pm-5007.jpg
 originalUrl: 'https://vocus.cc/article/65bf2f75fd89780001dbf162'
 lang: zh-hk
-_srcHash: 25dcb5d124ee71cf2adf89db2a644274
+_srcHash: e2e546eb202ae9ee0e5d283636930c73
 ---
 
 ![【峇里島親子景點】沙努爾攻略 Sanur 終極地圖：50+吃喝玩樂、Icon Bali 商場、頂級 Spa 同高 CP ](https://images.gobaligo.id/vocus/vocus_8f6c888982e2cf5611b55b827c0ffcaa.png)

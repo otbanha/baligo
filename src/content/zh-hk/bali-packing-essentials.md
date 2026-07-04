@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_75c3fa6975e4107f2613b15ec6310d6e.jpg'
 originalUrl: 'https://vocus.cc/article/68d13539fd89780001b06dfc'
 lang: zh-hk
-_srcHash: 541ba9c55a69f9cf8a43a887782aaf8c
+_srcHash: dcfdc4cc6b8f17185806a58b66624f65
 ---
 ### **1. 輕薄透氣嘅棉質或亞麻衫褲**
 
