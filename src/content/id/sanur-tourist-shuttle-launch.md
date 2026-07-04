@@ -23,7 +23,7 @@ category:
   - 旅行技巧
   - 叫車包車
 lang: id
-_srcHash: d7fa5f69cb41a838a8c6d9936b3e1955
+_srcHash: be69302db07e9746e9505fd9f0bd04da
 ---
 Seiring Sanur bertransformasi menjadi destinasi wisata medis dan kesehatan kelas dunia, pemerintah setempat juga meluncurkan opsi transportasi baru agar wisatawan bisa menikmati mobilitas yang lebih praktis selama liburan. Mulai pertengahan Agustus 2025, kawasan Sanur akan mengoperasikan bus jemputan wisata baru dalam masa uji coba, sebagai bagian dari upaya pemerintah kota mendorong transportasi cerdas dan pariwisata hijau.
 

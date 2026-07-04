@@ -18,7 +18,7 @@ heroImage: >-
   https://images.gobaligo.id/images/2026-04/1777196385927-chatgpt_image_2026_4_26_04_38_33.png
 originalUrl: 'https://vocus.cc/article/65b5c7e2fd89780001e96fac'
 lang: zh-hk
-_srcHash: f2341632bc0ccabb8a4155896c0495de
+_srcHash: 943b1da98e9d29656787dd52932ee353
 ---
 
 當計劃去峇里島旅行嘅時候，兌換貨幣係一個重要而且需要諗清楚嘅準備步驟。峇里島作為印尼嘅一部分，市面上唯一用得嘅係印尼盾（Rupiah, IDR）嚟做交易貨幣。喺呢篇文章入面，我哋會探討點樣以最抵嘅方式兌換貨幣，同埋推薦一啲值得信賴嘅兌換店。

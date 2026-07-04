@@ -23,7 +23,7 @@ heroImage: >-
   https://images.gobaligo.id/images/2026-04/1777196385927-chatgpt_image_2026_4_26_04_38_33.png
 originalUrl: 'https://vocus.cc/article/65b5c7e2fd89780001e96fac'
 lang: id
-_srcHash: f2341632bc0ccabb8a4155896c0495de
+_srcHash: 943b1da98e9d29656787dd52932ee353
 ---
 
 Pas rencana traveling ke Bali, urusan tukar uang itu langkah penting yang harus dipikirin bener-bener. Bali kan bagian dari Indonesia, jadi satu-satunya mata uang yang dipakai di sana adalah Rupiah Indonesia (IDR). Di artikel ini, kita bakal bahas cara tukar uang paling untung, plus rekomendasi tempat tukar yang terpercaya.

@@ -24,7 +24,7 @@ originalUrl: 'https://vocus.cc/article/67eb3c73fd89780001d0ee02'
 category:
   - 旅行技巧
 lang: id
-_srcHash: e4d35e6593daa2066e8c88584e4f8d29
+_srcHash: 80dd816018688cb4f744f77396d7abfd
 ---
 
 ## 15 Negara yang Wajib Dikunjungi Seumur Hidup: Kenapa Bali, Indonesia, Bisa Jadi Peringkat Ketiga Global?

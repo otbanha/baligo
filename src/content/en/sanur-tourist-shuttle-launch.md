@@ -21,7 +21,7 @@ category:
   - 旅行技巧
   - 叫車包車
 lang: en
-_srcHash: d7fa5f69cb41a838a8c6d9936b3e1955
+_srcHash: be69302db07e9746e9505fd9f0bd04da
 ---
 This initiative, launched by the Denpasar Transportation Agency, is specifically designed for the Sanur resort area, differing from the existing Trans Metro Dewata bus routes. The Sanur shuttle bus will operate exclusively within the Sanur area, offering a 'hop-on, hop-off' model for tourists.
 

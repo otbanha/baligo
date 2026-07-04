@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7391a524afd01acee5b8276e6d4c1a76.jpg'
 originalUrl: 'https://vocus.cc/article/68fc1e0cfd89780001736727'
 lang: zh-hk
-_srcHash: de1d4784bccb99b62a12cb99a9bad27c
+_srcHash: cb377387dca0bde92b43bfb2e21bdc7e
 ---
 
 ## 峇里島鳥園簡介：鳥語花香嘅熱帶天堂
