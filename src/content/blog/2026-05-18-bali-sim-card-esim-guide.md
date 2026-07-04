@@ -41,10 +41,11 @@ heroImage: https://images.gobaligo.id/images/2026-05/1779239656304-sim.jpg
 originalUrl: ''
 updatedDate: 2026-05-18
 ---
+Update: 2026/07/04
 
 ## 30 秒找到你的方案
 
-不廢話，先看你是哪種旅客：
+**先講結論**：5 天以內短期旅遊選 **eSIM**（Klook 或 Airalo，落地即用免換卡）；7-14 天或需要本地號碼選機場買 **Telkomsel 實體 SIM**（覆蓋最廣）；長住 30 天以上直接去 **Grapari 門市**辦正式方案最划算。不廢話，先看你是哪種旅客：
 
 | 情境 | 推薦方案 | 理由 |
 | --- | --- | --- |
