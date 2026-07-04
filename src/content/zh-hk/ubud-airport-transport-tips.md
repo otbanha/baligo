@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f97d99929a229934a684a3f60aee215b.jpg'
 originalUrl: 'https://vocus.cc/article/671f108efd89780001d31e6e'
 lang: zh-hk
-_srcHash: 84ececc9b39ba24adafaf96dd6ce4764
+_srcHash: 24fd697d30c4ade49d35d9557cf461eb
 ---
 
 峇里島嘅交通真係變幻莫測，尤其係由烏布去機場呢條路線，隨時會遇到宗教儀式、突然塞車或者道路維修，令到呢段唔算遠嘅路程變得難以預測。為咗確保唔會錯過航班，呢篇文章會為你提供由烏布去峇里島國際機場嘅完整行程安排同時間管理建議，令你嘅最後一日唔單止充滿彈性，仲可以輕鬆掌控。

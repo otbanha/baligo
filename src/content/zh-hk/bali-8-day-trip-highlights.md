@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/668a3de4fd8978000190bbb5'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: 2d337f63d627ba30ba1e67e58f113337
+_srcHash: abfd2549c16fad9e7e39f841da3f5fd7
 ---
 
 > 以下內容由團友 [Haobo LI](https://www.facebook.com/share/p/ja1r3woeevgmbwJq/?mibextid=A7sQZp) 提供

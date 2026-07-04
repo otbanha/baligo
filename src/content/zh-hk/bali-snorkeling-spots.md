@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_43cf9be1b2c2140efad285e9945bb493.jpg'
 originalUrl: 'https://vocus.cc/article/686e0ee6fd8978000139782d'
 lang: zh-hk
-_srcHash: 86d72283e63ef66ca8cfb72179cdd860
+_srcHash: 314a27082863e2e6dc67f2c6bbd768e9
 ---
 
 **峇里島浮潛：適合初學者嘅驚艷冒險**

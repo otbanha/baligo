@@ -19,7 +19,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_843eeccac53f5cb6e06a4002edc1802d.png'
 originalUrl: 'https://vocus.cc/article/66321a0ffd89780001f04f86'
 lang: id
-_srcHash: 901b4c18b4ed476e0149c1383aca030e
+_srcHash: aaa6a97620988f73982586cd6a80812e
 ---
 
 「[Hea遊美食](https://www.youtube.com/@hea_travel)」adalah YouTuber asal Hong Kong yang sering banget bagi-bagi video kuliner dan traveling di channel-nya. Kali ini, dia mampir ke Bali, Indonesia, dan kasih kita攻略 liburan 5 hari yang seru banget.

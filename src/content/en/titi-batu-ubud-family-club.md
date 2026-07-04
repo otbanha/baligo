@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e0fee6b09834203d2ea933ea0d4c7de1.jpg'
 originalUrl: 'https://vocus.cc/article/68bacc2ffd897800011175a7'
 lang: en
-_srcHash: be8b4bc58149dea15a7fa7d999c5db4a
+_srcHash: 5232f351cdd9486c9186a624a507e6e8
 ---
 In Bali, most beach clubs or jungle clubs, while lively, often lack **child-friendly facilities**, making them less convenient for families with young children.
 

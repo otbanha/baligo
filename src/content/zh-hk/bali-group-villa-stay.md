@@ -35,7 +35,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_72df3918142bccfea8b19414e6ee33a4.jpg'
 originalUrl: 'https://vocus.cc/article/662e156bfd8978000130c73c'
 lang: zh-hk
-_srcHash: 49aab28bbe7b4826b21e729ebda8aee3
+_srcHash: 64a322ceb80302d1c0e5f70cf7f5b395
 ---
 
 峇里島係出名嘅度假勝地，以靚沙灘、熱情好客嘅人同豐富文化聞名。近年嚟，峇里島都成為家庭旅遊嘅熱門目的地，愈嚟愈多家庭揀去峇里島度假。

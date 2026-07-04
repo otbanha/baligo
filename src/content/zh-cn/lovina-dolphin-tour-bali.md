@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e904309c49a3175e3462349f40d9dcd3.jpg'
 originalUrl: 'https://vocus.cc/article/6627b8f4fd89780001823c77'
 lang: zh-cn
-_srcHash: d7662a688d1f4fccdecbd7e401f29844
+_srcHash: 06e9dc803c3a499cd529edcd2a29d069
 ---
 
 身为印尼华人YouTuber的VY Journey冰冰晶晶，这次她展开了前往印尼巴厘岛北部Lovina Beach的旅程。通过这支视频，她以自己的观点，生动记录了整个行程。

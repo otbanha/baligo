@@ -24,7 +24,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bc5effe6be71d08b10556ee097f70753.jpg'
 originalUrl: 'https://vocus.cc/article/67270573fd89780001adf758'
 lang: id
-_srcHash: 2bc919fd64a630edd64532fd8936fcb5
+_srcHash: b0f320220ee4935f5ae4bebb143ab622
 ---
 Rock Bar yang terletak di Ayana Resort Bali ini adalah salah satu bar tepi pantai wajib dikunjungi di Bali. Dengan pemandangan tebing dan laut yang spektakuler, baik saat sunset yang memukau maupun pesta bintang di malam hari, dijamin bikin kamu betah!
 

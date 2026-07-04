@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f48a7964b7329cadd4c36a4ad63e845a.jpg'
 originalUrl: 'https://vocus.cc/article/64e9e8e9fd89780001f28d6b'
 lang: en
-_srcHash: 7faf44e79bb003733dddce46d85d5692
+_srcHash: 37d5cbebbfa677ac38509f7c74b74aac
 ---
 As one of Indonesia’s most beloved travel destinations, Bali draws countless visitors with its stunning beaches, cultural heritage, and unique atmosphere. Yet hidden within this breathtaking island lies a true gem: **Penglipuran Village**, waiting to be explored.
 

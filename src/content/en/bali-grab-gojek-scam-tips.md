@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5cd7003890a5ac7de17a99eb2f269662.png'
 originalUrl: 'https://vocus.cc/article/66546581fd8978000119d572'
 lang: en
-_srcHash: fff6fc97cacfb2b014cac845d0acd907
+_srcHash: 5e541c8d3985565ea7a7772c4e941d44
 ---
 
 [🚗 Want to estimate Gojek fares? Click here](/map/gojek-fare/)

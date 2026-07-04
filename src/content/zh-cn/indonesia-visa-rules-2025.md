@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/683e4b26fd89780001ea2016'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: ff59f86e695c891ebd35c730a1fa60c3
+_srcHash: 8b857b84c270bf1beb0ecefa90f7513b
 ---
 
 ## 印尼签证延长制度迎来重大变革

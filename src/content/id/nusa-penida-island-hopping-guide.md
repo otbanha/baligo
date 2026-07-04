@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/65b51f59fd89780001e498d4'
 category:
   - 遊記分享
 lang: id
-_srcHash: b54e7a796abcdfa650bb1e7a7d0fc67b
+_srcHash: 4e082266a2f932873373b3ab372add86
 ---
 
 Ini cerita perjalanan seru 6 hari di Bali dari member grup kita, [Sophie](https://www.facebook.com/soficia.chen)! Banyak referensi dari video [Xiao Jie Indonesia](https://www.youtube.com/@j_indonesia) dan panduan seru dari grup "Panduan Wisata Bali" kita. Yuk, lihat petualangan yang dia atur sendiri ini!

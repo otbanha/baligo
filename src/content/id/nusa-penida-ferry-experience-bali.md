@@ -17,7 +17,7 @@ tags:
 heroImage: ''
 originalUrl: 'https://vocus.cc/article/6655eceefd897800015c1b6a'
 lang: id
-_srcHash: 8869fb2a33c1522b944676b3474fd18a
+_srcHash: dabd6278395474a12d1bb159726234d9
 ---
 
 Anggota grup Facebook kami 【[Bali/Indonesia吃喝玩樂](https://www.facebook.com/groups/indonesia.travelguide)】, [Mei Yi Liao](https://www.facebook.com/liao.meiyi.1/), berbagi pengalaman/catatan perjalanan ke Nusa Penida bareng teman. Berikut ini kami edit dan bagikan:

@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: e5e1c5a78fc34bb92644fe31e7a0de9f
+_srcHash: 528b24e8601ca455568b750a69c71c0a
 ---
 
 ## 巴厘岛签证续签攻略：你去哪个区域，就要去哪个移民局办理

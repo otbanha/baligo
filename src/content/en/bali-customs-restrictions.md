@@ -34,7 +34,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 39233e65a7f86240262320e4cdaaa9a3
+_srcHash: aae321ed9bce7ccd9690c1d870d710b9
 ---
 Planning a trip to Bali? Whether you're from Taiwan, Hong Kong, Singapore, or Malaysia, you need to know the customs rules when bringing luggage into Indonesia or taking souvenirs back from Bali. This year's regulations have changed again, and a simple mistake could lead to confiscation or even fines. Let us break down everything you need to know about **Bali entry and exit rules**, plus what to watch out for when returning home.
 

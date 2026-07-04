@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/66c69317fd8978000110fabc'
 category:
   - 旅行技巧
 lang: en
-_srcHash: a123d5ea64c540812e88adffe72d095e
+_srcHash: 52ee187a67c6dbb7d4024c45101a41f1
 ---
 
 Recently, two major accidents occurred at two famous tourist spots in Bali—Diamond Beach on Nusa Penida and Bingin Beach in Uluwatu—prompting local rescue teams to swiftly mobilize and carry out rescue operations.

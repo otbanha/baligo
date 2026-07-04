@@ -20,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1d6d384413728096b9b39481b1515e73.png'
 originalUrl: 'https://vocus.cc/article/657078edfd89780001f2d88d'
 lang: id
-_srcHash: ddc1cfb39f71c2d70aa443f7aa046720
+_srcHash: a9c43397ef0cf2d54d836d69fc7b04b7
 ---
 Pas lagi rencana liburan ke Bali, salah satu pertanyaan yang paling sering muncul tuh: "Kapan sih waktu terbaik buat ke sana?" Meskipun iklim Bali cuma dibagi jadi dua musim — kemarau dan hujan — kenyataannya bisa lebih dinamis dari yang kita kira.
 

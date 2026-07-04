@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/65c44c29fd89780001141a3e'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: a755a741a1f3fad0729468835f4b2128
+_srcHash: be7f9070280494ec98398ecae4029a75
 ---
 
 巴厘岛是印尼最受欢迎的旅游目的地之一，每年吸引来自世界各地的数百万游客。由于旅游业的发展，英语在巴厘岛逐渐成为一种通用语言。

@@ -18,7 +18,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_35b69d7d4214c6eb99fc579e7fdf42f9.jpg'
 originalUrl: 'https://vocus.cc/article/64e1eb78fd897800017d0ec7'
 lang: en
-_srcHash: 2efea4443340a401081c0998a0df11fe
+_srcHash: eb18b45ff07b756da355f523e3260162
 ---
 
 Updated: 2026/05/18 | Maintained by the Gobaliogo Team

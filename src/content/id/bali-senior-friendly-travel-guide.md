@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1fe96274e662eb94f29890119c8abcc0.jpg'
 originalUrl: 'https://vocus.cc/article/6746742bfd897800018d4906'
 lang: id
-_srcHash: a920d3d04a3614ca237e4fd0b1de5b84
+_srcHash: 8a308d6527dfc54e8ff1ead423454358
 ---
 
 Bali emang jadi destinasi favorit, dan buat kebutuhan wisata lansia, banyak tempat dan aktivitas yang ramah dan nyaman. Di episode sebelumnya kita udah bahas tips dan barang wajib bawa orang tua ke Bali — yang ketinggalan bisa klik [di sini](/blog/bali-elderly-travel-guide/).

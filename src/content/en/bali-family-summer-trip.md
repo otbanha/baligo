@@ -21,7 +21,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_95a9642de6dcbc7cdb2619d6cff98
 originalUrl: 'https://vocus.cc/article/66965df4fd89780001c82960'
 update: 2026/05/22
 lang: en
-_srcHash: 8cf56cd5c62c3497c41bb6d53145ce63
+_srcHash: 83daec5baa25a367d6148d8d074eb54e
 ---
 
 > The following content is contributed by group member [Fish Lee](https://www.facebook.com/groups/baligo/permalink/1575099593037280/):

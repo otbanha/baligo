@@ -24,7 +24,7 @@ heroImage: >-
   https://images.gobaligo.id/images/2026-06/1780578711241-mixcollage-04-jun-2026-08-11-pm-8008.jpg
 originalUrl: 'https://vocus.cc/article/67ecf440fd897800012cb31b'
 lang: zh-hk
-_srcHash: 016eccf12e2c8e5e46735be4998cd8ab
+_srcHash: 71e5594efeea59010a12c9ee174ededc
 ---
 
 ![【峇里島戶外活動】50種超人氣戶外體驗全攻略：泛舟、ATV、浮潛、水上活動同全家避雷裝備指南](https://images.gobaligo.id/vocus/vocus_eb57e77a7b3e161346b3b64e697d7f09.jpg)

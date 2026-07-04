@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/691fffbdfd89780001aab6d6'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 1dbc40af94ee46c21de7d018afe0e0ad
+_srcHash: 5cde2da11c28ccf37ed72e08bf03fa6f
 ---
 
 ## **【巴厘岛进入节庆前夕：警方展开大规模交通稽查「斑马行动」】**

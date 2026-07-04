@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66aae164fd8978000179d8f1'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 1af9d102fc290098e5d2177bf970b07e
+_srcHash: 2f41708fdc40675e1c6e9ad61ce83a12
 ---
 
 ![重新认识巴厘岛：绝美的度假胜地，曾经却发生一场噩梦](https://images.gobaligo.id/vocus/vocus_b45e85b2c504868618ed262e579ace76.jpg)

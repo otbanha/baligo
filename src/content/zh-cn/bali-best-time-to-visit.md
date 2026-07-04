@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1d6d384413728096b9b39481b1515e73.png'
 originalUrl: 'https://vocus.cc/article/657078edfd89780001f2d88d'
 lang: zh-cn
-_srcHash: ddc1cfb39f71c2d70aa443f7aa046720
+_srcHash: a9c43397ef0cf2d54d836d69fc7b04b7
 ---
 
 当计划造访巴厘岛时，最常被问到的问题之一就是：“到底什么时候去最好？”巴厘岛的气候虽然被划分为旱季和雨季两个时节，但实际情况可能比我们想象中更为多变。

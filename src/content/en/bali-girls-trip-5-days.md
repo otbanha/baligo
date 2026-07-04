@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4247795b82aced2551357471c02657b1.jpg'
 originalUrl: 'https://vocus.cc/article/6628aadefd897800018ca028'
 lang: en
-_srcHash: 287fe89a1973953af85a41259cf54220
+_srcHash: a1344a913eaaf68e36f708e3439cced8
 ---
 
 During this five-day, four-night trip to Bali, Clairejenjen and her friends explored the unique and diverse charm of the island. Their itinerary was packed with colorful activities and unforgettable experiences, from sunrise viewing to snorkeling and jungle yoga, each moment brimming with excitement and beauty.

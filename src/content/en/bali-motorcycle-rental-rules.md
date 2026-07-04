@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/691fffbdfd89780001aab6d6'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 1dbc40af94ee46c21de7d018afe0e0ad
+_srcHash: 5cde2da11c28ccf37ed72e08bf03fa6f
 ---
 
 ## **Bali Enters Festival Season: Police Launch Large-Scale Traffic Inspection 'Zebra Operation'**

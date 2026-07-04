@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/656f160bfd89780001e07ea9'
 category:
   - 簽證通關
 lang: en
-_srcHash: 6a69e30226a712720d39a9221308a39e
+_srcHash: 209f55a31b0b1cfa20dee128f6823a32
 ---
 
 ## **Bali Travel: On-Arrival Visa or E-Visa?**

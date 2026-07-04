@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_74f31356f3cc045f6b2e3c02bdccf48a.jpg'
 originalUrl: 'https://vocus.cc/article/65fe8194fd8978000162e7b5'
 lang: zh-hk
-_srcHash: 5146fbe35ea8e803160f8c006aac8e29
+_srcHash: 08106563502b936a6c827135ccee4e1a
 ---
 
 ![帶住兩位索女去烏魯瓦圖衝浪！](https://images.gobaligo.id/vocus/vocus_9fe91c6a839a47c4f5e72632bb07328a.jpg)

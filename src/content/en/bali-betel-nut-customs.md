@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_dd76f1e8177a1813dc222d3266ae811b.jpg'
 originalUrl: 'https://vocus.cc/article/661e7b1ffd89780001f1da05'
 lang: en
-_srcHash: dadcb2d483cd6dc673dc3ffdbf00cace
+_srcHash: 21fc3da86a0bcbb6d452936f117bb2dd
 ---
 
 Betel nut is a common snack in Taiwan, and many people have the habit of chewing it. However, betel nut is considered a drug or prohibited item in many countries, so special attention is needed when bringing it abroad.

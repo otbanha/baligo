@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4e1dfd668d34e5cebfa1f89eedf23450.png'
 originalUrl: 'https://vocus.cc/article/678603a8fd8978000196ff77'
 lang: id
-_srcHash: f059b773320afbb754c650dc27f14d69
+_srcHash: 45b48377dbeb475c0e9b99978029a547
 ---
 
 ## Bicara soal pengalaman makan 'all you can eat', Bali tuh destinasi yang bikin kamu melongo. Mau sarapan, lunch, atau dinner yang super lengkap, restoran prasmanan di sini siap manjain lidahmu. Lebih seru lagi, beberapa tempat juga kasih opsi 'minum sepuasnya', apalagi pas Sunday brunch. Hari ini, kami udah pilihkan 33 restoran buffet terbaik di Bali — dijamin kamu bakal jatuh cinta sama surga kuliner ini!

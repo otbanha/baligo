@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/64db6b78fd897800013a9622'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 7e2a39b24e3790fd45e2735d2142045b
+_srcHash: c22a104cd60b2bb62950b7864fe9b33c
 ---
 
 ![Bali's New Attraction Taman Tukad Korea Riverside Park Cheon](https://images.gobaligo.id/vocus/vocus_498ee7f36925a8e9d53a0b9cf326a3cc.jpg)

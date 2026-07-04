@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a4842b9e2aeadf753db86f1707a6694f.jpg'
 originalUrl: 'https://vocus.cc/article/6548e78ffd89780001612686'
 lang: zh-cn
-_srcHash: 771362cf5cd1266136ecd06aa9aa4aa5
+_srcHash: f111762af6b0b422e05a3cf3ad65957c
 ---
 
 今天我想和大家分享我在美丽的巴厘岛沙努尔（Sanur）度过的一个令人难以忘怀的经验——独木舟之旅。沙努尔是巴厘岛上一个悠闲而迷人的海滨小镇，拥有壮观的沙滩、温暖的阳光和丰富的水上活动，其中独木舟是我最喜欢的一个。无需花费太多，你可以在这个宁静的海滨胜地享受一小时的独木舟之旅，每小时仅需50,000印尼盾（折合USD$3）。现在就让我向大家详细介绍一下我的独木舟探险之旅。

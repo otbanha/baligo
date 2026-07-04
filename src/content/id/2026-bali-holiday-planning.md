@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_cb9447e2f26e0a7d8a3078de03ad4620.png'
 originalUrl: 'https://vocus.cc/article/6995d6f6fd89780001575756'
 lang: id
-_srcHash: 215ca870e14fe17134b1f2b8c9d4f853
+_srcHash: a6c3912a0a2c581695ff284bc100d4c0
 ---
 
 Masih penasaran sama liburan Imlek Februari kemarin? Tenang, strategi cuti semester awal 2026 udah kami hitungin! Bukan cuma cuti yang pas, tapi juga harus nyambung sama ritme festival lokal di **Bali**. Dari tiga rencana liburan dadakan ini, mana yang paling bikin kamu tertarik?

@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6855271afd897800016d3b6a'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 2bb505e944fe9f9bb35900f49d62f772
+_srcHash: 99b30ad95bfb720791236f5e305502f2
 ---
 
 在巴厘岛参加潜水或浮潜等海上活动是许多旅客的首选，但由于这类活动多半在海边或离岛进行，无法携带包包上船，更别说是保险箱，因此“护照、钱包、手机该怎么保管？”成为大家最常问的问题。

@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/66ac535efd89780001d5363a'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 2419c528a26d346062f0aea35d148162
+_srcHash: 16a91fe3d93047632b6afa4325a80470
 ---
 
 ![Luxury on a Budget: Cretya Ubud Pool Club & Alas Harum Spend](https://images.gobaligo.id/vocus/vocus_99e3337f8aad55a08c019c50bfec06e8.jpg)

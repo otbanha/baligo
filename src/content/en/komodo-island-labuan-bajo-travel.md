@@ -17,7 +17,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6a38c8fbc6833eca3adeffb98870a912.jpg'
 originalUrl: 'https://vocus.cc/article/681601c6fd8978000139f8a3'
 lang: en
-_srcHash: b0915faead2e4c1c3a5f51fd13036a7a
+_srcHash: 8bfadc4462a5fb035e48f8014835bea2
 ---
 
 ## **Introduction: Why Labuan Bajo Deserves a Special Visit?**

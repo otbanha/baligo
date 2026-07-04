@@ -20,7 +20,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_2bc38b9c8115abcf2a210e3e2cd30
 originalUrl: 'https://vocus.cc/article/66e06a8dfd89780001ffbbc3'
 update: 2026/05/22
 lang: id
-_srcHash: 40823dd299791964e0f0f1182e5a5ab5
+_srcHash: ba7dc6c16bb4e128b9a74c34b80dad9a
 ---
 
 > Konten di bawah ini disusun ulang dari cerita anggota grup [Shi Nianxin](https://www.facebook.com/share/p/NCJtqGxCyfKoE3ui/) yang dibagikan ke kami:

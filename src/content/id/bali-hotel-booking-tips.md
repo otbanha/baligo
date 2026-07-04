@@ -18,7 +18,7 @@ category:
   - 住宿推薦
   - 旅行技巧
 lang: id
-_srcHash: b15bb3b16f790b35f1b763e19fdac1fe
+_srcHash: fdb780bf31d24f5270dfaec858b9616e
 ---
 Pas rencanain liburan ke Bali, booking hotel jadi salah satu langkah paling penting. Bali punya banyak pilihan mulai dari hotel mewah, villa kece, sampai penginapan budget-friendly. Tapi gimana caranya dapet yang nyaman tanpa bikin kantong bolong? Yuk, simak tips hemat berikut biar booking hotel di Bali makin ringan!
 

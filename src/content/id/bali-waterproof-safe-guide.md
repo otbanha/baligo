@@ -32,7 +32,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: db617efe9e980f8388c09b3de587bb96
+_srcHash: be015db6cd492e9990e1831f59db4b65
 ---
 Pas liburan ke Bali, yang paling ditunggu-tunggu pasti aktivitas outdoor seru kayak snorkeling di laut, ngebut naik ATV, atau arung jeram petualangan. Tapi jujur aja, sambil main harus khawatirin paspor sama dompet jatuh ke air, bikin kurang greget. Aku sendiri pernah ngalamin, nyaris dompet basah kuyup. Sejak itu aku sadar banget: **bawa waterproof bag yang pas, aktivitas baru bisa maksimal**. 
 

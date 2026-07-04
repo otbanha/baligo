@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_796a7726285dc90f4c9e926629c7be3b.jpg'
 originalUrl: 'https://vocus.cc/article/6571846ffd89780001fe97ee'
 lang: id
-_srcHash: 363f177e70aa81a7bee3e2637b69b024
+_srcHash: 36050ec31f23e10173b8646daf7c2214
 ---
 
 ![Jelajahi Oneeighty Day Club: Kolam Renang di Tepi Tebing Bal](https://images.gobaligo.id/vocus/vocus_8d9d260a2afbba6685fa2a3973cdfc81.jpg)

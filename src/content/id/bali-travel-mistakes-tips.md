@@ -20,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-04/1777465715021-18_.png'
 originalUrl: 'https://vocus.cc/article/6714c06cfd8978000116322a'
 lang: id
-_srcHash: facd4a64578a1ae74d63da82a5507efa
+_srcHash: 3dbefdccdb5e5c686043147367d198a1
 ---
 Setelah beberapa kali eksplorasi dan observasi, kami sadar kalau banyak turis sering bikin kesalahan pas liburan di Bali. Kesalahan-kesalahan ini nggak cuma bikin pengalaman traveling jadi kurang maksimal, tapi juga bisa buang-buang waktu dan uang. Nih, 18 kesalahan umum plus saran praktis biar liburanmu makin seru dan bebas drama.
 

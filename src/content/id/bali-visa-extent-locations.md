@@ -32,7 +32,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: e5e1c5a78fc34bb92644fe31e7a0de9f
+_srcHash: 528b24e8601ca455568b750a69c71c0a
 ---
 
 ## Panduan Perpanjangan Visa Bali: Kamu Tinggal di Wilayah Mana, Itu Kantor Imigrasi yang Harus Kamu Datangi

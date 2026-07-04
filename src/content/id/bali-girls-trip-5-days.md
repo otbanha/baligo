@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4247795b82aced2551357471c02657b1.jpg'
 originalUrl: 'https://vocus.cc/article/6628aadefd897800018ca028'
 lang: id
-_srcHash: 287fe89a1973953af85a41259cf54220
+_srcHash: a1344a913eaaf68e36f708e3439cced8
 ---
 Dalam perjalanan lima hari empat malam di Bali ini, Clairejenjen dan teman-temannya menjelajahi pesona unik dan beragam Pulau Dewata. Itinerary mereka penuh dengan aktivitas seru dan pengalaman menarik—dari nonton sunrise, snorkeling, sampai yoga di tengah hutan—setiap momen terasa penuh kejutan dan keindahan.
 

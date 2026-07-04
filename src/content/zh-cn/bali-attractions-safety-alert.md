@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66c69317fd8978000110fabc'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: a123d5ea64c540812e88adffe72d095e
+_srcHash: 52ee187a67c6dbb7d4024c45101a41f1
 ---
 
 近日，巴厘岛的两个著名景点——佩尼达岛的钻石海滩和乌鲁瓦图的Bingin海滩——发生了两起重大意外事故，当地救援队紧急出动，展开了救援行动。

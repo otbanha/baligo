@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_95be66904dfdb49c14259e108156f4ed.jpg'
 originalUrl: 'https://vocus.cc/article/65d887c6fd89780001d86b41'
 lang: en
-_srcHash: 6b35c3b5428db98e85c6f9cc77b592e8
+_srcHash: f1f848195127c5b87377e2c8ed547045
 ---
 
 ## **Dream Bali Itinerary – Relax and Enjoy Your Vacation**

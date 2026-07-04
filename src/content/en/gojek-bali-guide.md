@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/64e187dffd897800017304fe'
 category:
   - 叫車包車
 lang: en
-_srcHash: 90e0e9d0c295236569a62c9418364712
+_srcHash: f741eef5946ebdfcf46e0f4b770f4b32
 ---
 
 [🚗 Want to estimate Gojek fares? Click here](/map/gojek-fare/)

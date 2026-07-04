@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5276a5cd990c91278a453346f478d041.jpg'
 originalUrl: 'https://vocus.cc/article/6707c8e2fd897800014d3db5'
 lang: id
-_srcHash: 9c44bd354dd3af2ea17d0987b1b734b7
+_srcHash: 7e8f6fb3e1c296039aa66b42d929a368
 ---
 Di Bali, air bukan cuma sumber kehidupan, tapi juga elemen sakral. Buat orang Bali, mata air disebut "Tirta", yang dipercaya sebagai kekuatan pemberi kehidupan dan pemurni yang menjaga segala sesuatu tetap ada. Tirta memainkan peran penting di hampir semua upacara keagamaan — dipercaya bisa membersihkan pikiran, tubuh, dan jiwa, mengusir energi negatif, serta membawa berkah.
 

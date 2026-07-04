@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/66385c23fd897800014ead64'
 category:
   - 旅行技巧
 lang: id
-_srcHash: 6dfdad5ade61f0cd3b2a09443b4b2295
+_srcHash: b6e2243def8fdb225636ba8e83293751
 ---
 Pas liburan di Bali, kalau kamu alergi kacang tanah, menghindari makanan yang mengandung kacang itu wajib hukumnya. Makanan di Bali memang beragam, tapi kacang sering banget dipakai di beberapa masakan dan bumbu, jadi harus ekstra hati-hati.
 

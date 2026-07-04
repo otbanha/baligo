@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ec95b2ef12d730465f3dfa13b07341f6.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b7efd897800013a9815'
 lang: en
-_srcHash: 489cbd5b6d097bb651cf21767afc4a9e
+_srcHash: 4c48dbf51be39c75c782aa7404f98c94
 ---
 
 ### Bali Canggu Travel Guide

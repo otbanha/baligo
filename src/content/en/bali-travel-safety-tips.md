@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/6870c761fd89780001d5a85b'
 category:
   - 旅行技巧
 lang: en
-_srcHash: b6b89da103ad2d0a76d65f01a67fea2d
+_srcHash: dce42c02c7318cba54b0fffc96b28271
 ---
 
 Bali has long been considered the 'backyard' of Australians, offering proximity, affordable flights, and pleasant weather, making it a top holiday destination for countless Australians. Whether seeking sunny beaches, yoga retreats, or experiencing Balinese culture and cuisine, this tropical island never fails to captivate. However, with the resurgence of tourism, issues related to risk management in Bali have gradually come to the forefront.

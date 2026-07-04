@@ -16,7 +16,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_085acfb5807844c2051e0b2b6c2f422e.png'
 originalUrl: 'https://vocus.cc/article/67c6dce0fd8978000195cf12'
 lang: id
-_srcHash: 495891613c800eb74c82c40fde964a7f
+_srcHash: 202349c71a94ce794bf90c57f77b673f
 ---
 
 ![Bawa Bayi ke Bali: Hal yang Perlu Diperhatikan soal MPASI Me](https://images.gobaligo.id/vocus/vocus_a59ccd132da7a87eaa0ea98af1f573a0.png)

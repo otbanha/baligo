@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bb67efe0325c98bae38b71141e102a47.png'
 originalUrl: 'https://vocus.cc/article/6812dc5dfd897800018e284b'
 lang: zh-hk
-_srcHash: 3f42a57742ca45e58ff123b6e893dd8c
+_srcHash: cf13acb0b40514183c12b1a504cb3944
 ---
 
 ## **✨ 唔想煩惱規劃？呢啲一日遊行程令你「上車瞓覺、落車影相」！**

@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-06/1781582245855-tirta_empul.jpg'
 originalUrl: 'https://vocus.cc/article/6852cdc2fd89780001e0b7ad'
 lang: zh-cn
-_srcHash: 4329b892a5c10516a6f0ac940cc1e0d8
+_srcHash: 3364565a1631a8622c4c6519a6f00dd2
 ---
 
 Tirta Empul（意为「圣泉」）是巴厘岛最古老且灵性深厚的水庙之一，位于 Gianyar 的 Tampaksiring 村。这座寺庙以泉水净化仪式「Melukat」闻名，信徒相信此处泉水具有清除负能量的神力。

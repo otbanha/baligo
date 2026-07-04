@@ -28,7 +28,7 @@ agoda_star_rating: 5
 latitude: -8.6953763961792
 longitude: 115.16270446777344
 lang: en
-_srcHash: b6f0e6aaad08630a38b002521e8d8e77
+_srcHash: 120f58d65aa446300b8df88a4cd50d23
 ---
 ## [Room Tour] Hotel Indigo Bali Seminyak Beach｜Bali's Most Magical Beach Resort, with Six Restaurants So You'll Never Go Hungry!
 

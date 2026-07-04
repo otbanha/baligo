@@ -29,7 +29,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: en
-_srcHash: fc6708b10b42864ca0e30f96bfc44555
+_srcHash: 03a65481e402edced504076d2b1102fe
 ---
 As April 2026 approaches, the Indonesian Meteorological Agency (BMKG) has announced that the rainy season is coming to an end. For travelers who love in-depth exploration, now is the perfect time to plan a "cross-sea journey" between two islands. On one side is **Java**, with its rich cultural heritage and majestic volcanoes, and on the other is **Bali**, showcasing the ultimate island charm. These two islands, separated only by a narrow strait, have distinctly different personalities.
 

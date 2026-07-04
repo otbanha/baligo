@@ -31,7 +31,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: b219fa34fb319e8bcc27c7c9d4aa582d
+_srcHash: 1f98f01c18d4c95db0b451ab38219316
 ---
 
 Dear Bali enthusiasts, does the thought of traveling from the airport to Canggu conjure up images of being stuck in endless traffic? Great news! The Indonesian government has officially announced the construction of a 'Water Taxi' route directly from **Ngurah Rai International Airport** to **Canggu**, promising to avoid the frustrating land traffic, **reaching your destination in just 30 minutes**!

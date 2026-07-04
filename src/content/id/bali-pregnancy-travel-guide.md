@@ -19,7 +19,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_d151d1fea806eec12fad19726e274
 originalUrl: 'https://vocus.cc/article/670e6cb5fd89780001b3de2d'
 update: 2026/05/22
 lang: id
-_srcHash: fcdd5baec1f997f9ad991de8a2b5e6d4
+_srcHash: 24767bf9af407a6fad3ef24e1cc30f96
 ---
 
 > Konten di bawah ini diadaptasi dari cerita perjalanan anggota grup [Liu Huici](https://www.facebook.com/share/p/UxWzce2FRdK2gmsT/) :

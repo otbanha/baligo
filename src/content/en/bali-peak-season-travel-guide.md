@@ -20,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6a5d39f975ba52cec16b2d64dcadfaeb.jpg'
 originalUrl: 'https://vocus.cc/article/67581b8ffd89780001f5b5dc'
 lang: en
-_srcHash: f019131270effdafdfbef20fcd8f51e2
+_srcHash: 3a65e9de79339522c00c6b871b7f33a7
 ---
 
 ![Bali Peak Season Travel Guide: How to Avoid Traffic Jams and](https://images.gobaligo.id/vocus/vocus_acec44040e6eb1d33d385be4be6d0d18.jpg)

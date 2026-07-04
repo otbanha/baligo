@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66385c23fd897800014ead64'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 6dfdad5ade61f0cd3b2a09443b4b2295
+_srcHash: b6e2243def8fdb225636ba8e83293751
 ---
 
 喺峇里島旅行嗰陣，如果對花生敏感嘅人，避免食含有花生嘅食物係非常重要。峇里島嘅飲食多樣，但係花生喺一啲菜式同調味料中可能會被使用，所以需要格外小心。

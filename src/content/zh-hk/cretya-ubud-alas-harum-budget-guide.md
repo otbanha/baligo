@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66ac535efd89780001d5363a'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: 2419c528a26d346062f0aea35d148162
+_srcHash: 16a91fe3d93047632b6afa4325a80470
 ---
 
 ![預算中享受奢華：Cretya Ubud 泳池俱樂部與 Alas Harum 消費指南](https://images.gobaligo.id/vocus/vocus_99e3337f8aad55a08c019c50bfec06e8.jpg)

@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/65adf238fd89780001a798ea'
 category:
   - 叫車包車
 lang: en
-_srcHash: e1abf59877c0b412e93227d27e7889e2
+_srcHash: d9cd898d20967877f74a3f09ec195cc4
 ---
 
 ![Bali Motorcycle Rental Guide! Should You Rent a Motorcycle o](https://images.gobaligo.id/vocus/vocus_87dd993bf8b3961aa9a0173d0ac8c654.png)

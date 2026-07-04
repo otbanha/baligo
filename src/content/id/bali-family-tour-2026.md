@@ -29,7 +29,7 @@ heroImage: /images/2026-03-29-family-bali.png
 originalUrl: ''
 embeds: []
 lang: id
-_srcHash: 24774ea9702844fec2b4479db14bc666
+_srcHash: 1ae29f0255fb9af0fcad0399c1defd5a
 ---
 
 **Mau liburan murni yang spontan?** Lupakan rencana perjalanan yang ribet, tolak itinerary belanja yang bikin stres. Kali ini, kami siapkan liburan enam hari lima malam impian yang menggabungkan **keajaiban alam, satwa liar, villa pribadi, dan kuliner top**. Dari lautan awan gunung berapi di pagi hari hingga kolam renang sawah terasering di sore hari, setiap momen adalah kenangan keluarga yang layak disimpan.

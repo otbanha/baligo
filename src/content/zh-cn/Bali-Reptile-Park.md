@@ -27,7 +27,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: d46b25924c0a74a5cdf8963bd3563de1
+_srcHash: c1e01c21b9aee71fa6e15fdbfda57ffc
 ---
 
 说起巴厘岛，大多数人脑中浮现的，总是那片无尽的湛蓝海洋、金黄沙滩上的日落，以及宁静的梯田和神圣的寺庙。这些确实是巴厘岛迷人的一面，但如果你想为这趟假期增添一抹原始、狂野，甚至带点「来自恐龙时代」的刺激感，那么，我会诚挚地邀请你将脚步往吉安雅县（Gianyar）的深处移动。

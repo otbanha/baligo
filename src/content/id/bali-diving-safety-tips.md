@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6855271afd897800016d3b6a'
 category:
   - 旅行技巧
 lang: id
-_srcHash: 2bb505e944fe9f9bb35900f49d62f772
+_srcHash: 99b30ad95bfb720791236f5e305502f2
 ---
 
 Banyak traveler yang menjadikan aktivitas laut seperti diving atau snorkeling sebagai pilihan utama di Bali. Tapi karena kegiatannya biasanya di pinggir pantai atau pulau terpencil, kamu nggak bisa bawa tas ke atas kapal, apalagi brankas. Jadi pertanyaan yang paling sering muncul: 'Gimana cara amanin paspor, dompet, dan HP?'

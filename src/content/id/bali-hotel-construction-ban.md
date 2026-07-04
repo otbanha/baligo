@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/66e03af7fd89780001fbc9fc'
 category:
   - 旅行技巧
 lang: id
-_srcHash: f966769b66accb9dfd13c23312c144ad
+_srcHash: 3611a7a61f91e324009954f905b38cce
 ---
 
 Bali, destinasi wisata terkenal di dunia dengan keindahan alam dan budaya yang kaya, kini menghadapi tantangan baru. Seiring tekanan overdevelopment terhadap lingkungan dan budaya, pemerintah Bali berencana menerapkan aturan baru yang membatasi pembangunan pariwisata di wilayah selatan. Larangan ini terutama menyasar pembangunan hotel, resor, dan fasilitas wisata lainnya, dan bisa diperpanjang hingga sepuluh tahun.

@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5a51fcf78260d1469d53a1bf017c5028.jpg'
 originalUrl: 'https://vocus.cc/article/65dfd410fd897800019f4b40'
 lang: zh-cn
-_srcHash: cf22cf6e073a478fb4ad6d20632307a3
+_srcHash: f87a0701a5b55446fda4e0fb84615771
 ---
 
 ![【乌鲁瓦图攻略】Uluwatu乌鲁瓦图景点 50个吃喝玩乐推荐](https://images.gobaligo.id/vocus/vocus_f125d4fe43a2ab601b5eee023689000a.jpg)

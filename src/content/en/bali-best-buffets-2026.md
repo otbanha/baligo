@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4e1dfd668d34e5cebfa1f89eedf23450.png'
 originalUrl: 'https://vocus.cc/article/678603a8fd8978000196ff77'
 lang: en
-_srcHash: f059b773320afbb754c650dc27f14d69
+_srcHash: 45b48377dbeb475c0e9b99978029a547
 ---
 
 ## When it comes to "all-you-can-eat" dining experiences, Bali is undoubtedly a destination full of surprises. Whether it's a hearty breakfast, lunch, or dinner, the island's buffet restaurants will satisfy your cravings. Even better, some restaurants offer "unlimited drinks" options, especially during Sunday brunch. Today, we've curated 33 of Bali's best buffet restaurants for you—prepare to fall in love with these culinary paradises!

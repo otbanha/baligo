@@ -38,7 +38,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 9eb2c23cbd7ec059d1663af9ae535e0f
+_srcHash: 23f7fa422c1a1c79c1bcf44a542124be
 ---
 Buat pemain santai yang nggak perlu izin, langsung terbang aja! Lengkap dengan zona terlarang & checklist praktis.
 

@@ -34,7 +34,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: d46b25924c0a74a5cdf8963bd3563de1
+_srcHash: c1e01c21b9aee71fa6e15fdbfda57ffc
 ---
 Kalau ngomongin Bali, kebanyakan orang pasti langsung kebayang laut biru yang luas, sunset di pasir emas, sawah terasering yang tenang, dan pura-pura sakral. Semua itu memang sisi Bali yang memesona. Tapi kalau kamu mau nambahin sensasi liar, sedikit 'dari zaman dinosaurus' ke liburan ini, aku bakal ajak kamu melangkah lebih dalam ke daerah Gianyar.
 

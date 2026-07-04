@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6c80545c8d3d8426807cc8ab93225891.jpg'
 originalUrl: 'https://vocus.cc/article/672a0629fd897800010aa2bc'
 lang: zh-hk
-_srcHash: 0e5698fa1a7a883cc0d092001d703e06
+_srcHash: f415bef3dae532074bdff653e90e2772
 ---
 
 喺峇里島，電單車係當地人常見嘅交通工具，尤其係喺烏布等地，當地人成日揸住電單車穿梭喺田野間。好多遊客見到之後，都可能心動覺得電單車又經濟又方便，可以自由探索峇里島。

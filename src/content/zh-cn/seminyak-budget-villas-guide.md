@@ -19,7 +19,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_16c256b70aee5f839bf1ed7952ac49bb.jpg'
 originalUrl: 'https://vocus.cc/article/66ee9770fd89780001306753'
 lang: zh-cn
-_srcHash: fd1a3e2ca0108d7b042a3697dbd9ed1a
+_srcHash: 50e61fde066db44b9e1016d1e9c1d210
 ---
 
 # 水明漾好评的平价别墅

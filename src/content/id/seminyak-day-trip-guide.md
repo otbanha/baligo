@@ -26,7 +26,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d9d929150c54e9a96490136e18b3e11a.jpg'
 originalUrl: 'https://vocus.cc/article/669b1d59fd89780001def381'
 lang: id
-_srcHash: 27a6cacd9d7903d1b48737a38430438f
+_srcHash: 33874c0a0d1e6c9073b34ab21fbef40d
 ---
 
 Terletak di pesisir selatan, cuma sekitar 30 menit dari bandara, Seminyak adalah pusat beach club kece, kawasan belanja yang rame, dan deretan tempat makan hits. Di sini, kehidupan kota berpadu serasi dengan vibe pantai yang santai dan villa-villa mewah — ini adalah kota wisata paling trendi, kekinian, dan seru di pulau ini.

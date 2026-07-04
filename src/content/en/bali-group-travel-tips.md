@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8ecd395c592055f62b7806b7a46e23c0.png'
 originalUrl: 'https://vocus.cc/article/67c7ed8afd89780001d9cadc'
 lang: en
-_srcHash: 801c91e2ec4352fd7f96f0b041beca37
+_srcHash: 36ef23471dc78199e5e93dc53c7ef4fa
 ---
 
 ## Challenges and Solutions for Group Travel in Bali with 10+ People

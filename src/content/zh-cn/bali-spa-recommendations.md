@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4603b531b61b14e13a527e7b2492d400.jpg'
 originalUrl: 'https://vocus.cc/article/65ed5114fd89780001dcc688'
 lang: zh-cn
-_srcHash: bd8d9c2ba4afd3de5e2df0cb4f0277ea
+_srcHash: 9a140c7117e89867e608306b5c6d971a
 ---
 
 **团友**[**Li Ly**](https://www.facebook.com/lily850711/)**和她的朋友刚结束雨季之中的巴厘岛之旅，就来跟我们分享她们的旅游心得囉！**

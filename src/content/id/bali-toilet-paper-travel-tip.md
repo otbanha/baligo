@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/65fce2d0fd8978000151ec93'
 category:
   - 旅行技巧
 lang: id
-_srcHash: 18ce798020f15cfe4d0dc26e5f3dce1a
+_srcHash: 1969c5755b32e6173de183046f0e269f
 ---
 Bali itu destinasi wisata yang penuh kejutan dan seru banget. Tapi buat sebagian traveler, kebiasaan higienis di sini bisa bikin bingung dan heran. Salah satu perbedaan budaya yang paling bikin orang Taiwan nggak terima adalah alat buat bersihin pantat setelah buang air besar — yang namanya "pistol pantat" (bum gun).
 

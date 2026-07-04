@@ -29,7 +29,7 @@ heroImage: 'https://images.gobaligo.id/images/2026-06/1781587544726-uluwatu_temp
 originalUrl: 'https://vocus.cc/article/678b1d81fd89780001f7fe4d'
 update: 2026/05/22
 lang: id
-_srcHash: 160760cbe0a54d52e06446696eb1eae8
+_srcHash: 483bd7cf9f271c154ead2b65f49c199c
 ---
 Pura Uluwatu (Uluwatu Temple) udah jadi destinasi yang terkenal banget di kalangan wisatawan, penduduk lokal menyebutnya 'Pura Luhur Uluwatu'. Pura ini nggak cuma naikin popularitas tempat wisata di selatan Bali, tapi juga dihormati karena lokasinya yang unik dan makna budayanya. Pura ini terletak di atas tebing setinggi 97 meter, bukan cuma tempat ziarah umat, tapi juga kasih pemandangan menakjubkan yang bakal bikin kamu melongo. Di panduan wisata Pura Uluwatu ini, gue bakal kasih semua info penting buat bantu kamu rencanain perjalanan, termasuk harga tiket, sejarah, saran pakaian saat berkunjung, dll. Siap buat petualangan? Yuk, mulai!
 

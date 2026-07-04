@@ -18,7 +18,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3dba799dbbf88a08d80f720169f80421.jpg'
 originalUrl: 'https://vocus.cc/article/653dc7f3fd89780001f4f90a'
 lang: id
-_srcHash: ec676a543a79cdbd814f27c93ce075a3
+_srcHash: 5405cfd1a4e32d971df33953bfa9684d
 ---
 Setiap kali temen-temen minta rekomendasi tempat yang dekat dari pusat Ubud tapi tetap bisa nikmatin alam Ubud, apa harus推荐 Tegalalang rice terraces (Sawah Terasering Tegalalang)? Enggak deh, tempat itu udah terlalu komersial banget beberapa tahun terakhir! Mending kita推荐 aja yang bisa dicapai dengan jalan kaki, namanya Campuhan Ridge Walk (Jalur Punggung Bukit Campuhan) yang dijuluki "Ubud Skywalk".
 

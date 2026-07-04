@@ -31,7 +31,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 56ff22384070d65e9bc5a1dd511e7722
+_srcHash: 7171381a39929c7404569f4914fc32b0
 ---
 
 ![【Bali Belanja Dekorasi Rumah】Lampu Gantung Kerang Kurang dar](https://images.gobaligo.id/images/2026-04/1776061962467-mixcollage-13-apr-2026-01-25-pm-4838.jpg)

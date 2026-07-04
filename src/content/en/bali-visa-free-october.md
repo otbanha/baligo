@@ -18,7 +18,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: en
-_srcHash: 8481e33be150600bf57f1777812c481a
+_srcHash: 7ad145d2af048a102f848bccd172bdb3
 ---
 
 ## The Bali Visa-Free Issue: The Indonesian Government's Stance and Considerations

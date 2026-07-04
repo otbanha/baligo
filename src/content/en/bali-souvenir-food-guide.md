@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/64db6b5bfd897800013a8ff4'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 2e7125285e4596c3c7b7f4d389ddfbbb
+_srcHash: 09bd78ccd5fb37a2824c895decd07811
 ---
 
 ![Bali's Must-Buy Souvenirs: Snacks & Food Edition](https://images.gobaligo.id/vocus/vocus_b48db35889325f45edd5237d8e0b427a.jpg)

@@ -33,7 +33,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/H5N5_UuK7TI'
 lang: id
-_srcHash: 6b4a6b1a1b36bca00c032720bdb98e7b
+_srcHash: b58708c2c5d9a7a87254dacf112d95ca
 ---
 
 ### 【Prospek Liburan Bali 2026】Dari Akhir Musim Hujan ke Langit Biru Cerah: Panduan Lengkap Festival & Cuaca Maret–Juni

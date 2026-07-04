@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/68593269fd897800012cea64'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: a8757ecc9939e89c8f6569dfee987b7d
+_srcHash: 990dca2fe17e20dc40701b246a9333aa
 ---
 
 **「請求分享手機熱點」**可能係一種詐騙或者不當行為嘅手法，尤其係喺公眾場所或者旅遊地區要特別小心。遇到呢類請求嗰陣保持警覺係明智嘅，特別係喺人流密集嘅公眾場所！以下係幾種常見嘅詐騙或者風險情境：

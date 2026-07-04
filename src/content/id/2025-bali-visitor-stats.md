@@ -17,7 +17,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: id
-_srcHash: 6d7be69354475bbdabc0d2c2de2a7476
+_srcHash: 6ddabb47db7b1ad25ca04cc1e4b1cc68
 ---
 「Sekarang yang ke Bali, masih serame dulu nggak sih?」
 

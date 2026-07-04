@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/685101c0fd89780001e221f4'
 category:
   - 叫車包車
 lang: en
-_srcHash: 0d703b4444cb6ed9576c9ba48ed2efb7
+_srcHash: fb220e7cc7da79d1d077ed0d5504b692
 ---
 
 Planning a trip to Nusa Penida but worried about transportation? In fact, most visitors choose to have their **Bali-based driver** help plan the itinerary. This guide explains how to arrange a driver for Nusa Penida, along with recommended practices and key considerations.

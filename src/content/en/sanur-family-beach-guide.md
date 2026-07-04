@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d28ee1e8e57db46d81bf20ec96f6ac93.jpg'
 originalUrl: 'https://vocus.cc/article/685a4e9dfd897800015f493d'
 lang: en
-_srcHash: 102cc6386fbdfa9d7808664e621a3992
+_srcHash: 1549f867882760d08a62cb661fd9055b
 ---
 
 ![Bali's Top Family Destination: The Safest Beach for Kids - S](https://images.gobaligo.id/vocus/vocus_703008611ebd42c8436934b38f0c4796.jpg)

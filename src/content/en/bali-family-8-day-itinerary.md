@@ -24,7 +24,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_92c1c3c6353fec567c863e536302c897.jpg'
 originalUrl: 'https://vocus.cc/article/66551cfefd897800011f9d5e'
 lang: en
-_srcHash: 34c96dfc2cd43e703f4101ecd10a745b
+_srcHash: 73a52ae1579c50a46d0284afb734bcb2
 ---
 
 Facebook group member [Mei Chen](https://www.facebook.com/mei.co.nz/) shares her family's eight-day, seven-night Bali travel journal, kindly provided for us to edit and republish:

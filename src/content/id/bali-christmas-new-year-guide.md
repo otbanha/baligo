@@ -22,7 +22,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2852b7e85fd79c94b1667a9a54b5b783.jpg'
 originalUrl: 'https://vocus.cc/article/68f8711efd8978000136386b'
 lang: id
-_srcHash: 671728e86b980b5d6da81d64158fa792
+_srcHash: 835a16fddf53daa3fa5007291e8c2467
 ---
 Natal nggak harus di salju! Di Bali, pulau tropis yang penuh pesona ini, sinar matahari, pasir pantai, dan suasana perayaan yang kental udah siap menyambut kamu. Selain cuacanya yang nyaman, ada banyak banget acara seru, makan malam Natal yang lezat, dan pilihan akomodasi ramah keluarga yang nggak terhitung.
 

@@ -32,7 +32,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: db617efe9e980f8388c09b3de587bb96
+_srcHash: be015db6cd492e9990e1831f59db4b65
 ---
 
 When vacationing in Bali, the most exciting part is the thrilling outdoor activities—snorkeling in the sea, riding ATVs, or rafting adventures. But honestly, worrying about whether your passport and wallet might fall into the water while having fun can really dampen the mood. I’ve made this mistake myself, nearly soaking my entire wallet, and since then, I’ve deeply realized: **the right waterproof bag lets you enjoy activities worry-free**.

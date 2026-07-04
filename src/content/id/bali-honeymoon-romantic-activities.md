@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/64e35774fd89780001ace043'
 category:
   - 遊記分享
 lang: id
-_srcHash: 81ef189ec6babedcfab32dfb0a193297
+_srcHash: b0638dac7ea8239ca32251e54bb25612
 ---
 Kalau kamu dan pasangan lagi mimpiin bulan madu yang magical atau tempat buat bikin hubungan makin mesra, pilih Bali nggak bakal nyesel!
 

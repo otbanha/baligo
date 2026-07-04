@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bb2fa691f835fe4223ba3f58eb11eec4.jpg'
 originalUrl: 'https://vocus.cc/article/674bb924fd8978000120ac11'
 lang: zh-cn
-_srcHash: d6dff9018ac02c56e0d912f075ade862
+_srcHash: eb207256594cb25fb0b6c00719fa29c6
 ---
 
 > 越南台商小姐姐和家人前往巴厘岛游玩。

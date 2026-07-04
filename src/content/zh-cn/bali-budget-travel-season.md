@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_21bff0d73a91b0053d0ff13563ac5241.png'
 originalUrl: 'https://vocus.cc/article/68d49203fd89780001e4c5ef'
 lang: zh-cn
-_srcHash: 8e750d6db3032c60093490d6d1d31c32
+_srcHash: 53b9ad4c408c4c1ab3680a1e2c730b20
 ---
 
 想去巴厘岛又怕花费太高？其实只要掌握最佳旅游时机与省钱技巧，就能用小预算享受「众神之岛」的美丽。本文将详解最便宜的旅游月份、住宿优惠、交通方式及美食选择，让你在淡季依然能深度体验巴厘岛。

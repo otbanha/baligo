@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/68bf8728fd897800013427c2'
 category:
   - 簽證通關
 lang: en
-_srcHash: 00c8e3f6eb9fbe4a8796b7201dd4a648
+_srcHash: a996e644cc724f5fcf4626e334a28878
 ---
 
 ## **Many are asking: Do I need to print them?**

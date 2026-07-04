@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66e27989fd89780001685c6f'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 847176702f89664058ae348683e58a89
+_srcHash: b50cc5bcec0a1d26b84ba20366b7e2b3
 ---
 
 ## Bali Tourism Tax Evasion: Potential Fines or Imprisonment

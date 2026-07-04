@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_cb9447e2f26e0a7d8a3078de03ad4620.png'
 originalUrl: 'https://vocus.cc/article/6995d6f6fd89780001575756'
 lang: zh-cn
-_srcHash: 215ca870e14fe17134b1f2b8c9d4f853
+_srcHash: a6c3912a0a2c581695ff284bc100d4c0
 ---
 
 2 月的春节连假还意犹未尽？别担心，2026 年上半年的请假攻略已经帮你算好了！ 我们不仅要请对假，更要配合**巴厘岛**当地的节庆节奏。以下这三场说走就走的假期，哪一场最让你心动？

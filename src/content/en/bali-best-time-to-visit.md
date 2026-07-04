@@ -20,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1d6d384413728096b9b39481b1515e73.png'
 originalUrl: 'https://vocus.cc/article/657078edfd89780001f2d88d'
 lang: en
-_srcHash: ddc1cfb39f71c2d70aa443f7aa046720
+_srcHash: a9c43397ef0cf2d54d836d69fc7b04b7
 ---
 
 When planning a trip to Bali, one of the most frequently asked questions is: 'When is the best time to go?' Although Bali's climate is divided into dry and rainy seasons, the actual conditions can be more variable than we might imagine.

@@ -23,7 +23,7 @@ heroImage: 'https://images.gobaligo.id/images/2026-05/1779102196901-lempuyang.pn
 originalUrl: 'https://vocus.cc/article/64db6b72fd897800013a9475'
 updatedDate: 2026-05-18T00:00:00.000Z
 lang: id
-_srcHash: 6bc43bf0bd36482b88924ebe29485df3
+_srcHash: e70e9b029fa15b1537c63348a003f749
 ---
 
 Foto bayangan di Gate of Heaven itu diambil pakai layar HP — bukan pantulan air sungguhan. Ini bukan kritik, ini yang harus kamu tahu sebelum berangkat, biar kamu bisa mutusin mau antre dua jam demi fotografer, atau masuk jam tujuh pagi langsung motret bingkai pintu dengan Gunung Agung di belakang.

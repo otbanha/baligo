@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/65fccd88fd8978000150edda'
 category:
   - 旅行技巧
 lang: id
-_srcHash: 64c57f2ec05132c594910d48e40a1697
+_srcHash: 2169a9953b760eba6a3f17fdbf298127
 ---
 
 ![Wajib Tahu Sebelum ke Bali: Satu Kata Ajaib Bahasa Indonesia](https://images.gobaligo.id/vocus/vocus_1a3b754a96b4f0e921c41865215e967b.png)

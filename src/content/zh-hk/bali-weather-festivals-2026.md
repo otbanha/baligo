@@ -27,7 +27,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/H5N5_UuK7TI'
 lang: zh-hk
-_srcHash: 6b4a6b1a1b36bca00c032720bdb98e7b
+_srcHash: b58708c2c5d9a7a87254dacf112d95ca
 ---
 ### 【2026 峇里島旅遊展望】從雨季尾聲到藍天白雲：3～6 月節慶同天氣全攻略
 

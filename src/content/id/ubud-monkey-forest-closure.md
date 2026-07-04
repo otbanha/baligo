@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e50b47be8b5a445ea5822ae221250f22.jpg'
 originalUrl: 'https://vocus.cc/article/675e8258fd89780001f86f69'
 lang: id
-_srcHash: c0142a43ae4a99aa0990567724888d6d
+_srcHash: 645b7ae6c31fc3007be63a40e0f64486
 ---
 
 **Hutan Monyet Ubud (Monkey Forest)** yang terkenal di Bali, kini ditutup tanpa batas waktu setelah terjadi tragedi yang memilukan. Tempat wisata yang dikenal dengan keindahan alam dan kera-kera nakalnya ini kini terasa sepi. Kejadian ini tidak hanya memicu perhatian berbagai pihak terhadap keselamatan wisata, tetapi juga memaksa pengelola untuk mempercepat evaluasi langkah-langkah keamanan demi keselamatan pengunjung di masa depan.

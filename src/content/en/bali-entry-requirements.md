@@ -21,7 +21,7 @@ originalUrl: 'https://vocus.cc/article/686902bafd89780001e3f490'
 category:
   - 簽證通關
 lang: en
-_srcHash: e03dff00fcdecf9671a4929f95f2c69d
+_srcHash: bfc3f6616d649a5ab3863ae2a9939c43
 ---
 To ensure a smooth entry process, here’s a breakdown of the latest four essential entry documents, including application timelines, validity periods, and key considerations. Understand them all at once and prepare with ease!
 

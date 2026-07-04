@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/6608d51bfd89780001256dc5'
 category:
   - 遊記分享
 lang: en
-_srcHash: cf55c43f26cf9ed4897138539a805b43
+_srcHash: 96d6c82b21a95e39e404fcf90901d477
 ---
 
 ![What can you do staying in one place in Bali for four days? ](https://images.gobaligo.id/vocus/vocus_53ad30b22fb7ff7092abe536a294b524.jpg)

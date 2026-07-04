@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/67301111fd897800016667a1'
 category:
   - 家庭親子
 lang: id
-_srcHash: dca28c43defdedefbe401fef86ab8c3e
+_srcHash: 04c31f9d7735f5fbb063b60b30bd68ab
 ---
 Liburan ke Bali, apalagi kalau bawa anak kecil, banyak keluarga yang kepikiran buat sewa baby sitter biar gak terlalu repot ngurusin si kecil, jadi liburan lebih santai dan seru. Tapi nyari baby sitter di tempat asing, entah buat kebutuhan liburan singkat atau bantuan jangka panjang, pasti ada tantangan dan kebingungan sendiri. Panduan ini bakal ngenalin cara cari baby sitter, layanan yang ditawarkan baby sitter di Bali, kisaran harga, serta etika dan tips saat pakai jasa mereka, biar kamu bisa makin menikmati waktu santai selama liburan.
 

@@ -30,7 +30,7 @@ heroImage: >-
   https://images.gobaligo.id/images/2026-06/1780578711241-mixcollage-04-jun-2026-08-11-pm-8008.jpg
 originalUrl: 'https://vocus.cc/article/67ecf440fd897800012cb31b'
 lang: id
-_srcHash: 016eccf12e2c8e5e46735be4998cd8ab
+_srcHash: 71e5594efeea59010a12c9ee174ededc
 ---
 
 ![【50 Aktivitas Outdoor di Bali】Panduan Lengkap 50 Pengalaman ](https://images.gobaligo.id/vocus/vocus_eb57e77a7b3e161346b3b64e697d7f09.jpg)

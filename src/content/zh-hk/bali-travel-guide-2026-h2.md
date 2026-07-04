@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: 5d079d27243a80f16970391eac0253fa
+_srcHash: d5ed83e46534e95e6305550092449d3c
 ---
 
 # 【2026 峇里島旅遊展望】從乾季巔峰到雨季來臨：7～12 月節慶同氣候全攻略

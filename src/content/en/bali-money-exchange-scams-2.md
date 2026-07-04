@@ -21,7 +21,7 @@ originalUrl: 'https://vocus.cc/article/69933020fd89780001dd0275'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 4e7c60e358e7138e38d4f0d2de3e6ab9
+_srcHash: 7c102224a94be118010778d3f71bccfd
 ---
 
 ![Bali Money Exchange Horror Story: A Traveler's Firsthand Acc](https://images.gobaligo.id/vocus/vocus_93ba80c66bbeb7d6d88fcee66ca33fac.png)

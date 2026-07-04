@@ -19,7 +19,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_30f01426172989946dc54a0cffac4376.jpg'
 originalUrl: 'https://vocus.cc/article/64e730ddfd89780001336a09'
 lang: id
-_srcHash: ba688ce39a021767482ed9c066a66967
+_srcHash: 014d0cb1a6e3748555a2420d79d687f5
 ---
 
 **Di Indonesia/Bali, kamu sering lihat angka yang diikuti huruf K. Itu maksudnya apa sih?**

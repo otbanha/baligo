@@ -32,7 +32,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5c7513ab8313b5d1aa4c189bbff4899c.jpg'
 originalUrl: 'https://vocus.cc/article/660bcff3fd89780001d037ad'
 lang: zh-hk
-_srcHash: 09c01334e9bd615ffdbb7ef3b0d7c3fd
+_srcHash: 4488fb6b767a2dea12530df3f02ec05a
 ---
 
 峇里島嘅Ayana度假村係一個極之受歡迎嘅峇里島住宿點。YouTuber "設計師不累designer play"發佈嘅視頻，帶觀眾認識佢喺呢度嘅精彩體驗。

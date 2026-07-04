@@ -29,7 +29,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-06/1781923260637-car_charter_guide.jpg'
 originalUrl: 'https://vocus.cc/article/65a0a163fd8978000115f37a'
 lang: en
-_srcHash: 7650da1d049f2522c736395f7ae3ca36
+_srcHash: 6adfe32715da9e94ed459e824bc91c71
 ---
 
 update:2026/06/20

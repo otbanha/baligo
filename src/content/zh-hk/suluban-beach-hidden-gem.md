@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_27e430895976f8308bf766fe54d46305.jpg'
 originalUrl: 'https://vocus.cc/article/673207e9fd897800018987e7'
 lang: zh-hk
-_srcHash: cc7ca0785bff625024d2be546dbc3fc4
+_srcHash: 7bd20926a6f0a15619a2fefc69759124
 ---
 
 ![峇里島 Suluban Beach 詳細攻略：探索秘境海灘之美](https://images.gobaligo.id/vocus/vocus_67d2227cd36ea55fc95a50075a79269e.jpg)

@@ -24,7 +24,7 @@ heroImage: 'https://images.gobaligo.id/images/2026-06/1781587544726-uluwatu_temp
 originalUrl: 'https://vocus.cc/article/678b1d81fd89780001f7fe4d'
 update: 2026/05/22
 lang: zh-hk
-_srcHash: 160760cbe0a54d52e06446696eb1eae8
+_srcHash: 483bd7cf9f271c154ead2b65f49c199c
 ---
 
 烏魯瓦圖廟（Uluwatu Temple）已經成為遊客好熟悉嘅目的地，當地人叫佢做「Pura Luhur Uluwatu」。呢間寺廟唔單止提升咗峇里島南部景點嘅知名度，仲因為佢獨特嘅地理位置同文化意義而備受推崇。寺廟坐落喺 97 米高嘅懸崖上面，唔單止係信徒嘅朝聖地，仲提供咗令人驚嘆嘅壯麗景色，絕對會令你大開眼界。喺呢篇烏魯瓦圖廟旅遊指南入面，我會為你提供晒所有必備資訊，幫你更好咁規劃行程，包括門票價格、歷史背景、參觀時嘅衣着建議等。準備好展開一場冒險未？我哋開始啦！

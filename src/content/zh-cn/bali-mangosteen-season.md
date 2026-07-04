@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_12cc11716bb437c0193aae868beb4b84.jpg'
 originalUrl: 'https://vocus.cc/article/661943c7fd897800016eaf4a'
 lang: zh-cn
-_srcHash: ef1088a19966c4cdc7d606b4e2153fd6
+_srcHash: fe2a2d53d507053fc430e9c97479e49a
 ---
 
 山竹在印尼是一种被大量生产的热带水果之一。这种酸甜可口的水果在一个地区通常每年有三个月的收成季节。

@@ -18,7 +18,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_928bcf8de351c2ebc6891979b506e58e.jpg'
 originalUrl: 'https://vocus.cc/article/6658817efd89780001222f04'
 lang: id
-_srcHash: 19f2b44ad22063e51be8a0e55efa2219
+_srcHash: 8fdf0b44a5f3b86bbe0f04860bdf6fb2
 ---
 
 > Konten berikut disediakan oleh member [Angel Wu](https://www.facebook.com/angel.wu.75491/) dan sudah disetujui untuk diadaptasi.

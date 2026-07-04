@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/64e35774fd89780001ace043'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: 81ef189ec6babedcfab32dfb0a193297
+_srcHash: b0638dac7ea8239ca32251e54bb25612
 ---
 
 如果你同你另一半正夢想著一個異國情調嘅神奇蜜月或者感情升溫嘅聖地，咁揀峇里島你一定唔會失望！

@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/6624e237fd8978000146c224'
 category:
   - 遊記分享
 lang: id
-_srcHash: 873c48eb99763c068a8bc016cef68e6c
+_srcHash: 4603c4039e37bf8fbec5cb156490e889
 ---
 
 (Konten dan foto di bawah ini disediakan oleh anggota grup [Chuang Ling Chun](https://www.facebook.com/groups/131689774044943/user/100002621353548/), dan sudah disetujui untuk kami tata ulang)

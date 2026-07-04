@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e02b5d929f4c6b0aa444d358d8267022.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b72fd897800013a948b'
 lang: zh-cn
-_srcHash: 68cf4a9065e84db8b49817063513694f
+_srcHash: 2b41c9d9e374fa2cac17e1c4bfb74850
 ---
 
 这一集小杰带你们去猴子森林、乌布皇宫、乌布市场看看现在的情况。我们在乌布餐厅的发呆亭（Bale Udang）吃午餐，然后就离开乌布咯！

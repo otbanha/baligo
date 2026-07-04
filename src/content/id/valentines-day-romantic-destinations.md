@@ -20,7 +20,7 @@ category:
   - 旅行技巧
   - 遊記分享
 lang: id
-_srcHash: 6d00bc3132489c8e76d625fd72338930
+_srcHash: b11b214e879f2a6f17bbb6c409bd6e40
 ---
 Mawar, kue, cokelat, dan tempat liburan romantis — di Hari Valentine tanggal 14 Februari, tahu nggak kota mana aja yang jadi destinasi wisata Valentine paling populer di dunia tahun ini?
 

@@ -24,7 +24,7 @@ heroImage: >-
   https://images.gobaligo.id/images/2026-06/1780578711241-mixcollage-04-jun-2026-08-11-pm-8008.jpg
 originalUrl: 'https://vocus.cc/article/67ecf440fd897800012cb31b'
 lang: zh-cn
-_srcHash: 016eccf12e2c8e5e46735be4998cd8ab
+_srcHash: 71e5594efeea59010a12c9ee174ededc
 ---
 
 ![【巴厘岛户外活动】50种超人气户外体验全攻略：漂流、ATV、浮潜、水上活动与全家避雷装备指南](https://images.gobaligo.id/vocus/vocus_eb57e77a7b3e161346b3b64e697d7f09.jpg)

@@ -25,7 +25,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bc5effe6be71d08b10556ee097f70753.jpg'
 originalUrl: 'https://vocus.cc/article/67270573fd89780001adf758'
 lang: en
-_srcHash: 2bc919fd64a630edd64532fd8936fcb5
+_srcHash: b0f320220ee4935f5ae4bebb143ab622
 ---
 
 Located at the Ayana Resort in Bali, Rock Bar is a must-visit seaside bar that combines the stunning scenery of cliffs and ocean views. Whether it's the dazzling beauty of the sunset or the starry night party, it's a place that will leave you enchanted!

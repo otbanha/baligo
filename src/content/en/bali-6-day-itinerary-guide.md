@@ -18,7 +18,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_fe6a030ea275cf610d3a9c87b3d2c
 originalUrl: 'https://vocus.cc/article/66c0ba76fd89780001527eed'
 update: 2026/05/24
 lang: en
-_srcHash: 635dce6d3430259b8db1923ff539c21e
+_srcHash: 20f0934761396a68f5dc349a4b3e8b69
 ---
 
 > The following content is provided by group member [Oscar Lin](https://www.facebook.com/share/p/4Eev2drzrfF5SKtc/) and shared with permission for adaptation.

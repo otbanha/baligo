@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_35646475c341514d3f04bc912366046b.png'
 originalUrl: 'https://vocus.cc/article/69757a74fd897800011ee4b9'
 lang: en
-_srcHash: 71d553c79c955517996b74c129b24910
+_srcHash: fb38ee6b17ef84156780d685b9297001
 ---
 
 ![7 Bali Off-Season Secrets: Missed by Tourists, Cherished by ](https://images.gobaligo.id/vocus/vocus_06359c6b865bb73af6ccde17df378b20.png)

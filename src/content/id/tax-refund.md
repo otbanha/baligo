@@ -29,7 +29,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: bd8a8e10f7693d7907305de5db1ab056
+_srcHash: 943d8108d7e619f3f936a8ccc73cbac7
 ---
 
 Pemerintah Indonesia punya program 'Tax Refund for Tourists' yang ngasih kesempatan turis asing buat dapetin kembali Pajak Pertambahan Nilai (PPN, saat ini sekitar 11-12%) dari barang yang dibeli. Ini dia aturan resmi terbaru (dari Direktorat Jenderal Pajak pajak.go.id, berlaku 2026), khususnya buat belanja di Bali.

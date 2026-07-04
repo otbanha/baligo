@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0fbf0fa6cbdf5a3d06b5e9a8b4a461a0.jpg'
 originalUrl: 'https://vocus.cc/article/67e62aa8fd89780001888620'
 lang: id
-_srcHash: c109e7d985b3229a611afee92a32707f
+_srcHash: e88c978be29d3b2860ecce74c7325bd7
 ---
 Bali terkenal banget sama pemandangan alamnya yang indah dan budayanya yang kaya. Salah satu aktivitas yang paling banyak dicari wisatawan adalah arung jeram. Seru banget, kamu bakal menyusuri sungai yang berkelok-kelok, merasakan sensasi arus deras dan air tenang bergantian, sambil menikmati hutan tropis yang rimbun, ngarai spektakuler, dan air terjun tersembunyi. Itulah daya tarik unik arung jeram di Bali.
 

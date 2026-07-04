@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/665f1689fd89780001afd058'
 category:
   - 遊記分享
 lang: id
-_srcHash: 1898bad9e1b87acdb08e5e1da7b1b24c
+_srcHash: dcbc40aeaeacb18a7f2f993d233b4f4d
 ---
 
 > Konten berikut disediakan oleh anggota grup [Zhang Pingping](https://www.facebook.com/zhang.p.ping.3/) dan telah disetujui untuk diadaptasi oleh kami

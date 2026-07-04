@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/663ec407fd89780001e37610'
 category:
   - 旅行技巧
 lang: id
-_srcHash: 1fe8c7703f945bc572573461b0aaf955
+_srcHash: 0567f1eda236f8003de556dbc5350a67
 ---
 Di tanah magis Bali, makin banyak turis internasional, jadi penerimaan kartu kredit juga makin luas. Sebagai traveler, kamu mungkin kepikiran mau pakai kartu kredit buat bayar-bayar. Tapi, pakai kartu kredit pas liburan di Bali ada untung ruginya. Yuk kita bahas bareng-bareng.
 

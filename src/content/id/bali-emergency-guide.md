@@ -30,7 +30,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: bbd76b0be2a2eec903157184bdeb8ad3
+_srcHash: cff6e95af2324b8a76f8c1d5bedcf976
 ---
 
 Udah rencana liburan ke Bali? Mau ke Ubud cari vibe seni, surfing di Kuta, atau lihat pemacek di Nusa Penida, yang paling penting di perjalanan adalah 'keamanan'!

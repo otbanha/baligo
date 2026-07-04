@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_63ef5e2e4331b05fa400334cc1a4a4b9.jpg'
 originalUrl: 'https://vocus.cc/article/68875c61fd8978000143d895'
 lang: en
-_srcHash: 08cb239dad3b340f26b741e60e4dbb79
+_srcHash: a2b2106c469f1360fcadf652b44555b0
 ---
 
 ## **Take Your Bali Trip to the Next Level!**

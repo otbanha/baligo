@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/64db6b78fd897800013a9622'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: 7e2a39b24e3790fd45e2735d2142045b
+_srcHash: c22a104cd60b2bb62950b7864fe9b33c
 ---
 
 ![峇里島新景點｜Taman Tukad Korea 韓國河濱公園｜청계천｜Taman Kumbasari in Denpa](https://images.gobaligo.id/vocus/vocus_498ee7f36925a8e9d53a0b9cf326a3cc.jpg)

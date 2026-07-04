@@ -31,7 +31,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 698fd3ac22ee53c857c1c91f00a666ea
+_srcHash: aa0ed2f32b32b56ef55802780b58d7b8
 ---
 
 ![【Rekomendasi Penginapan di Bali】Liburan Keluarga Gak Perlu B](https://images.gobaligo.id/images/2026-04/1776217409706-mixcollage-15-apr-2026-08-42-am-2361.jpg)

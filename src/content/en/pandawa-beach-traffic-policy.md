@@ -22,7 +22,7 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: en
-_srcHash: 1e26abc580b8b2d1c17e57ee6bba7196
+_srcHash: 67e99de2388ce6859fd0e411896b90e3
 ---
 
 Pandawa Beach in Uluwatu, located at the southernmost tip of Bali, is often referred to as the 'Blue Highway' due to the majestic and unique limestone cliffs and its stunning white sandy beach, making it a must-visit destination for an increasing number of tourists. However, with the surge in visitor numbers over the past year and a half, local authorities have decided to adjust the access methods to ensure smoother and safer traffic for both pedestrians and vehicles.

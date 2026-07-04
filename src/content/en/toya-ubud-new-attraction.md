@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fc7d230efbaf5332a244fa14eeee2994.jpg'
 originalUrl: 'https://vocus.cc/article/67b7e25bfd89780001a6b041'
 lang: en
-_srcHash: befb7e75cc299777c97434ff49bcd797
+_srcHash: ba0415638671945990fc399f1bab2bf1
 ---
 
 ## **New Eco-Resort Toya Ubud Opens in Ubud, Bali, Captivating Visitors**

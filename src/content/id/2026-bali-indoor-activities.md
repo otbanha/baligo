@@ -32,7 +32,7 @@ heroImage: ''
 originalUrl: 'https://vocus.cc/article/6598c6fffd89780001047d76'
 updatedDate: 2026-05-26T00:00:00.000Z
 lang: id
-_srcHash: c92d14c9c8c1fe7083458f14444cd67a
+_srcHash: 3f693485266f9063d140a81aedd5097e
 ---
 
 Liburan di **Bali**, yang paling bikin was-was sih hujan deras dadakan di sore hari, atau panas terik tengah hari yang bikin lemas. Tapi jangan sampai cuaca merusak semangat liburanmu! Pulau ini selain punya pemandangan laut yang cantik, juga punya banyak banget ruang indoor berkualitas. Mau jalan-jalan santai di mal ber-AC, ajak anak main di playground indoor bintang lima, atau ikut workshop perak di tengah hujan gerimis di Ubud — 60 pilihan indoor yang udah dipilih dengan teliti ini bakal bikin kamu nemuin cara liburan **Bali** yang lebih elegan dan nyaman.

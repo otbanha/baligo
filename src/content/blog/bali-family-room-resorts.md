@@ -66,7 +66,7 @@ embeds: []
 
 https://youtu.be/-CJsTy4C3AQ
 
-> [Conrad Bali 房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=48699)
+> Conrad Bali 房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=48699) | [Trip]()
 
 ## **The Ritz-Carlton, Bali (麗思卡爾頓)**
 
@@ -98,7 +98,7 @@ https://youtu.be/-CJsTy4C3AQ
 
 **評價**| TripAdvisor 蟬聯多年家庭旅行獎項，父母評價「從入住到離開，孩子完全不想找爸媽，因為Ritz Kids太好玩」。
 
-> [The Ritz-Carlton, Bali房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=782765)
+> The Ritz-Carlton, Bali房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=782765) | [Trip]()
 
 ## **Holiday Inn Resort Bali Nusa Dua (假日度假村)**
 

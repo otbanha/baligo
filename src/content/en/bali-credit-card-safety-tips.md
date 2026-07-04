@@ -23,7 +23,7 @@ originalUrl: 'https://vocus.cc/article/681e03f8fd89780001228bf8'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 27f30d178dcd0eb894fce9668f7f5411
+_srcHash: b91600eb2321b41d5f1a1f0aa2184a46
 ---
 
 ## **Bali Travel: Cash or Credit Card?**

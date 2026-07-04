@@ -36,7 +36,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_50d4d6e19ceff21972a2e9988595aa00.jpg'
 originalUrl: 'https://vocus.cc/article/6791ea5dfd89780001a7a07c'
 lang: id
-_srcHash: 15f4c3132db98377006306120cc38f5a
+_srcHash: 114f6c6b5aeec538a5dd9e9e612f6e68
 ---
 
 ### Marine Safari Bali: Dibuka Desember 2024, Surga Eksplorasi Laut Terbaru di Bali!

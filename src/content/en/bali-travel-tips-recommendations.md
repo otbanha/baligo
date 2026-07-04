@@ -25,7 +25,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_75e4fcf9b30e3047d833ab5dfbea8
 originalUrl: 'https://vocus.cc/article/66b715defd89780001b25a1e'
 update: 2026/05/22
 lang: en
-_srcHash: 037c3fbca5969970b277601df9e6471a
+_srcHash: 9e56e279316ea6377c848c78cc1a6e39
 ---
 
 > The following is adapted from a post by group member [June Lin](https://www.facebook.com/groups/baligo/permalink/1581822932364946/)

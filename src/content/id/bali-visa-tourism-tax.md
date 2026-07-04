@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/68e36431fd89780001eea4fa'
 category:
   - 簽證通關
 lang: id
-_srcHash: ec6cfde88ad198149b3f4739e154327e
+_srcHash: def3024ea01c590939297a196452c3c0
 ---
 
 ## **Sekilas Aturan Baru Pajak Wisatawan Bali**

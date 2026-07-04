@@ -18,7 +18,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_fc4cd7d779889b43776f8be643f11
 originalUrl: 'https://vocus.cc/article/6795d36bfd8978000139ce96'
 update: 2026/05/23
 lang: en
-_srcHash: eef1d60e68366cec77cc3fb5a683a920
+_srcHash: 9daaf49dcf9208a4078c69dc8b6fe61c
 ---
 
 > The following content is adapted from fellow traveler [Gao Rongfan's shared travelogue](https://www.facebook.com/share/p/14kAoJ6sDG/):

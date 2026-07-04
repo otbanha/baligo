@@ -24,7 +24,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: bd8a8e10f7693d7907305de5db1ab056
+_srcHash: 943d8108d7e619f3f936a8ccc73cbac7
 ---
 
 印尼政府提供「Tax Refund for Tourists」計劃，讓符合資格嘅外國遊客可以退返商品嘅增值稅（VAT，目前約11-12%）。以下係最新官方規定（來自印尼稅務總局 pajak.go.id，2026年適用），特別適用於峇里島購物。

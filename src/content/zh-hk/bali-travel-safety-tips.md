@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6870c761fd89780001d5a85b'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: b6b89da103ad2d0a76d65f01a67fea2d
+_srcHash: dce42c02c7318cba54b0fffc96b28271
 ---
 
 峇里島一直都被澳洲人視為「後花園」，距離近、機票平、天氣好，係無數澳洲人假期首選嘅度假勝地。無論你想搵陽光海灘、享受瑜伽靜心、定係體驗峇里傳統文化同美食，呢個熱帶島嶼總有無窮魅力。不過，隨住旅遊人數回升，峇里島喺風險管理方面嘅問題都逐漸浮現。

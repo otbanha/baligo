@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/683e4b26fd89780001ea2016'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: ff59f86e695c891ebd35c730a1fa60c3
+_srcHash: 8b857b84c270bf1beb0ecefa90f7513b
 ---
 ## 印尼簽證延長制度迎來重大變革
 

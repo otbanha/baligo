@@ -15,7 +15,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9a3dbb0d78806081cfc5710ec96cbf05.jpg'
 originalUrl: 'https://vocus.cc/article/6688b074fd897800017bd1d5'
 lang: id
-_srcHash: 180e1bee3acbf6a676367768be6d3c8a
+_srcHash: dd9f17680d28f425ad39bc37a3e84e30
 ---
 
 > Konten ini disediakan oleh anggota grup​[Winnie Lin](https://www.facebook.com/winnie.lin.566/)​, dan sudah disetujui untuk kami adaptasi

@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/65ea5fc9fd89780001f099b8'
 category:
   - 旅行技巧
 lang: id
-_srcHash: 606537059b799d1c614b3546bdb12721
+_srcHash: f3dcfe039a2c4be3ab839600f6c67637
 ---
 
 ![【Berangkat ke Pulau-pulau Sekitar Bali】Tips Titip Koper di S](https://images.gobaligo.id/vocus/vocus_7fd7545646d5af015dd7862936b090bb.png)

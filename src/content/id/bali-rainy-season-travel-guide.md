@@ -16,7 +16,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f6b90b154e37dbd50a989a42055a7abb.png'
 originalUrl: 'https://vocus.cc/article/67ecc962fd89780001212629'
 lang: id
-_srcHash: 3eb3144268c8553e2e0d512acf4370b9
+_srcHash: 7b19b89fecaf903c43410701c19de669
 ---
 
 Sebelum menjawab pertanyaan yang paling sering ditanyakan di dua grup Facebook kami, yaitu "[Bali/Indonesia吃喝玩樂](https://www.facebook.com/groups/indonesia.travelguide/)" dan "[Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo/)", biar kamu cepat paham, lihat dulu tabel ini:

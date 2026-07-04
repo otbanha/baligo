@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f2d233b5cdc841409553c54fcd0d50a1.png'
 originalUrl: 'https://vocus.cc/article/65f39bd0fd897800012287e9'
 lang: en
-_srcHash: 239273b90c081cb6162ee1b4842ec7b6
+_srcHash: df724dcc63b21a0f2e3bfdfd2b3fe21c
 ---
 Today, I want to talk about a topic that might surprise you—why stop asking about Bali's weather?
 

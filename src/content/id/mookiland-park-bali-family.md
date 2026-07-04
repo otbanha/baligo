@@ -18,7 +18,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_09c749583a2a6ad84442825909d18a58.jpg'
 originalUrl: 'https://vocus.cc/article/66991013fd89780001c8e70b'
 lang: id
-_srcHash: 9e50de7bbc7150cb84941e646999a862
+_srcHash: 9e63ad6dd6551755e2b98d30c5fbbd38
 ---
 Di tengah kesibukan kerja, orang tua seringkali sulit memenuhi kebutuhan bermain anak-anak. Mau jalan-jalan ke tempat wisata, taman bermain, atau menyewa babysitter, pilihan-pilihan itu kadang masih belum bisa memuaskan rasa penasaran dan keinginan bermain si kecil. Mookiland Park yang berlokasi di Kerobokan, Bali, hadir sebagai tempat yang aman, nyaman, dan seru banget buat anak-anak — sementara orang tua bisa santai di taman atau restoran. Taman keluarga ini dirancang dengan apik, menawarkan berbagai aktivitas dan fasilitas yang dijamin bikin anak-anak betah seharian penuh.
 

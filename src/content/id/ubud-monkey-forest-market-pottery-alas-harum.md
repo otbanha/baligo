@@ -14,7 +14,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9fc2df4aca8629a249416c2894c825cb.jpg'
 originalUrl: 'https://vocus.cc/article/6609003dfd89780001273bee'
 lang: id
-_srcHash: 1f97946d83ac90da71bfc3f3ba9f1456
+_srcHash: ba2830903e19951577fde4da7e38876d
 ---
 
 Video dari YouTuber keturunan Indonesia [[TwoSis赤道女孩](https://www.youtube.com/@twosis%E5%8D%B0%E5%B0%BC%E5%A7%90%E5%A6%B9%E8%8A%B1)] ini mengajak kamu mengenal pengalaman traveling dan rekomendasi tempat di Ubud, Bali.

@@ -15,7 +15,7 @@ category:
   - 旅行技巧
   - 遊記分享
 lang: zh-hk
-_srcHash: 4fbaa81c1277fc5d38166b9e1b8b00c3
+_srcHash: 9877eb6ebec702e4f4610245c5906bee
 ---
 
 ![峇里島自由行旅遊攻略：一位經驗豐富嘅自助旅行者分享](https://images.gobaligo.id/vocus/vocus_0b3582d4ed8018cd3a3f48a267d13304.png)

@@ -26,7 +26,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e369e6351905ce7e76db2352f23292c8.png'
 originalUrl: 'https://vocus.cc/article/689db40ffd89780001eb2f3e'
 lang: id
-_srcHash: 0005aed3c3428def9bdb498567fb20e7
+_srcHash: e98bdf2c200625416df552cb59114f55
 ---
 
 ### Aturan Baru Masuk Indonesia 🇮🇩 PENTING! Mulai 18 Agustus 2025 Wajib Pakai Sistem 'All Indonesia'

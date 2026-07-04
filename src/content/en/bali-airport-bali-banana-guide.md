@@ -21,7 +21,7 @@ originalUrl: 'https://vocus.cc/article/66b379cefd89780001ef4899'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 70de6169fdf38ef0da33216e4c88f5d6
+_srcHash: 6f118ee926837be1f0aa7b87c4fb5cfc
 ---
 
 ![How to buy Bali Banana as a souvenir at Bali International A](https://images.gobaligo.id/vocus/vocus_6fb17aeb28479bd7b7d5a57f318dea63.jpg)

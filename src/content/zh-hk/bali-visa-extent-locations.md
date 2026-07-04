@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: e5e1c5a78fc34bb92644fe31e7a0de9f
+_srcHash: 528b24e8601ca455568b750a69c71c0a
 ---
 
 ## 峇里島簽證延簽攻略：你去邊個區域，就要去邊間移民局辦理

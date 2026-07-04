@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/66480ae5fd89780001fb7763'
 category:
   - 簽證通關
 lang: en
-_srcHash: 266394f3096e0a18feabb33af1a471f0
+_srcHash: 1cb90aa37ac4dc07e8e8b39f01fc62d3
 ---
 
 ![Indonesia/Bali E-Visa Application Mishap: How to Correct Err](https://images.gobaligo.id/vocus/vocus_5560b9a7da5290e0882e25695ee01bd2.png)

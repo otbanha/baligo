@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-06/1781582245855-tirta_empul.jpg'
 originalUrl: 'https://vocus.cc/article/6852cdc2fd89780001e0b7ad'
 lang: en
-_srcHash: 4329b892a5c10516a6f0ac940cc1e0d8
+_srcHash: 3364565a1631a8622c4c6519a6f00dd2
 ---
 Tirta Empul (meaning 'holy spring') is one of Bali's oldest and most spiritually profound water temples, located in the Tampaksiring village of Gianyar. This temple is renowned for the water purification ritual 'Melukat,' as devotees believe the spring water here has the power to cleanse negative energy.
 

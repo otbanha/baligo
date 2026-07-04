@@ -22,7 +22,7 @@ tags:
 originalUrl: 'https://vocus.cc/article/69b0d79bfd897800012060e7'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6814be3c0f8db54b25fdb2cf8d5de818.jpg'
 lang: en
-_srcHash: bbc98a204fe77f471be4f6914e135336
+_srcHash: d4da2269404e360318107ed0e0530358
 ---
 
 Do you usually do this?

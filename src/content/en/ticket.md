@@ -35,7 +35,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 284a7fc469e23fad930b13330563c06e
+_srcHash: 1882c70b4dadf9fdab17577f5ace2c1b
 ---
 Planning a 2026 Bali free-and-easy trip but shocked by soaring flight prices?
 

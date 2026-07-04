@@ -23,7 +23,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_066cc3116059f1ef4abd123f1f4a3d25.jpg'
 originalUrl: 'https://vocus.cc/article/6544f321fd89780001bb240c'
 lang: en
-_srcHash: dd2bdf2d103705fc4517f885c5ba287e
+_srcHash: 532c6cde4b9015052df869c40fde1d04
 ---
 
 ![Uluwatu Accommodation Guide 2026｜14 Cliffside Villas & Resor](https://images.gobaligo.id/vocus/vocus_405f6b98b0cb2943fbe0172c3ff4f07c.jpg)

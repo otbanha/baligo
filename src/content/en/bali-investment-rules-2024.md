@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6543aa55fd89780001ddf30b'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 888736a2cac3be3a63bac12545cf9017
+_srcHash: ad576946cb0ae883b97cbda54fc267f9
 ---
 
 ![2024 Bali Investment Regulations: Impact on Foreign Investor](https://images.gobaligo.id/vocus/vocus_02f9e0629db3fa5a8e4dc621e9b2389f.jpg)

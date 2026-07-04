@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6710b4ecfd89780001cea90d'
 category:
   - 簽證通關
 lang: en
-_srcHash: 95ffa0bf6c9a0f91256a4c6f8c7096fa
+_srcHash: c8aed03ab495efbdf3ea033481822051
 ---
 
 ![Long-Term Residence/Immigration Visa Options in Indonesia/Ba](https://images.gobaligo.id/vocus/vocus_fe9cede54dcbc6979f0382bbc3d2c50f.png)

@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e50b47be8b5a445ea5822ae221250f22.jpg'
 originalUrl: 'https://vocus.cc/article/675e8258fd89780001f86f69'
 lang: en
-_srcHash: c0142a43ae4a99aa0990567724888d6d
+_srcHash: 645b7ae6c31fc3007be63a40e0f64486
 ---
 
 Bali's famous **Sacred Monkey Forest** in Ubud has been closed indefinitely following a heartbreaking tragedy. This popular attraction, known for its natural beauty and playful monkey population, now stands eerily quiet. The incident has sparked widespread concern about tourist safety and prompted management to urgently review safety measures to ensure visitor security in the future.

@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/64db6b6dfd897800013a930e'
 category:
   - 住宿推薦
 lang: zh-cn
-_srcHash: 9941727c9dc2661b567a8550388d4df8
+_srcHash: fcf54293519cec69a396b6af1e96982c
 ---
 
 ![巴厘岛高性价比别墅推荐（上集）2026｜20 间精选别墅完整比较 - Go Bali Go](https://images.gobaligo.id/vocus/vocus_8e97326ae5f053b47236d054dbe99d42.jpg)

@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0fbf0fa6cbdf5a3d06b5e9a8b4a461a0.jpg'
 originalUrl: 'https://vocus.cc/article/67e62aa8fd89780001888620'
 lang: en
-_srcHash: c109e7d985b3229a611afee92a32707f
+_srcHash: e88c978be29d3b2860ecce74c7325bd7
 ---
 Bali is world-famous for its stunning natural landscapes and rich cultural heritage, and rafting is one of the top adventure activities that draws countless visitors. Navigating winding rivers, experiencing the thrill of alternating rapids and calm waters, and taking in the lush tropical rainforests, dramatic gorges, and hidden waterfalls along the way—these are the unique charms of Bali rafting.
 

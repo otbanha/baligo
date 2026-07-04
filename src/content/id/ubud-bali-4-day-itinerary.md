@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/6608d51bfd89780001256dc5'
 category:
   - 遊記分享
 lang: id
-_srcHash: cf55c43f26cf9ed4897138539a805b43
+_srcHash: 96d6c82b21a95e39e404fcf90901d477
 ---
 
 ![Empat hari di satu tempat di Bali, bisa ngapain aja? Catatan](https://images.gobaligo.id/vocus/vocus_53ad30b22fb7ff7092abe536a294b524.jpg)

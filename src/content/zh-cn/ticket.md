@@ -30,7 +30,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 284a7fc469e23fad930b13330563c06e
+_srcHash: 1882c70b4dadf9fdab17577f5ace2c1b
 ---
 
 准备规划 2026 巴厘岛自由行，却被飙升的机票价格吓到了吗？

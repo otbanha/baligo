@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/65c44c29fd89780001141a3e'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: a755a741a1f3fad0729468835f4b2128
+_srcHash: be7f9070280494ec98398ecae4029a75
 ---
 峇里島係印尼最受歡迎嘅旅遊勝地之一，每年吸引來自世界各地嘅數百萬遊客。由於旅遊業嘅發展，英文喺峇里島逐漸成為一種通用語言。
 

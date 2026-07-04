@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/69379606fd89780001607b4b'
 category:
   - 旅行技巧
 lang: id
-_srcHash: 30da34127bdb0012bb8de0d97fb29688
+_srcHash: 1ba2d33beeb7449072597266d7550d5d
 ---
 
 Buat kamu yang lagi rencana liburan ke Bali akhir tahun atau awal tahun depan, udah lihat belum pengumuman terbaru dari BMKG (Badan Meteorologi, Klimatologi, dan Geofisika Indonesia) yang kami share di [grup Facebook](https://www.facebook.com/share/p/1DCH98qzUf/)? Ini adalah peringatan tentang hujan deras periode akhir Desember sampai awal Januari—momen yang paling perlu diwaspadai selama musim hujan.

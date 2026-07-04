@@ -20,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1df7d57b714a85873203d59105b3dbc1.jpg'
 originalUrl: 'https://vocus.cc/article/64e2de1bfd897800018eff0b'
 lang: en
-_srcHash: 6b5f9250a2aa069024f46ebab018511f
+_srcHash: 5e64aff1ac014024492d0b211be4a075
 ---
 
 Welcome to Bali, Indonesia, a paradise filled with mystery and beauty. Among the many enchanting areas on this island, Sanur shines with its unique development history, diverse atmosphere, delicious cuisine, and captivating seaside scenery. In this Sanur travel guide, we'll take you through the highlights of Sanur and its surroundings.

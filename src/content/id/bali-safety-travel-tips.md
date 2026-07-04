@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/68872b9efd89780001398120'
 category:
   - 旅行技巧
 lang: id
-_srcHash: d92713c540275bdca3862f25621553f2
+_srcHash: 37b2ea45724b8feccd3a4af8ce56b9fd
 ---
 
 Bali, surga tropis yang dijuluki 'Pulau Dewata', setiap tahunnya menarik jutaan wisatawan buat menikmati sinar matahari, ombak, dan pengalaman budaya yang unik. Tapi, sambil menikmati keindahan tempat ini, keselamatan traveling jangan sampai diabaikan. Kementerian Pariwisata Indonesia baru aja ngeluarin panduan keamanan terbaru. Yuk, kita simak gimana caranya menikmati liburan di Bali yang seru sekaligus aman.

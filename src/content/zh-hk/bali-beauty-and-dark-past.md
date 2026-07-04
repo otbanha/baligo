@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66aae164fd8978000179d8f1'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: 1af9d102fc290098e5d2177bf970b07e
+_srcHash: 2f41708fdc40675e1c6e9ad61ce83a12
 ---
 
 ![重新認識峇里島：絕美嘅度假勝地，曾經卻發生一場惡夢](https://images.gobaligo.id/vocus/vocus_b45e85b2c504868618ed262e579ace76.jpg)

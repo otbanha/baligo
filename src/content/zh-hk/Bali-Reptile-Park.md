@@ -27,7 +27,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: d46b25924c0a74a5cdf8963bd3563de1
+_srcHash: c1e01c21b9aee71fa6e15fdbfda57ffc
 ---
 
 講起峇里島，大多數人腦入面浮現嘅，總係嗰片無盡嘅湛藍海洋、金黃沙灘上嘅日落，同埋寧靜嘅梯田同神聖嘅廟宇。呢啲的確係峇里島迷人嘅一面，但如果你想為呢趟假期增添一抹原始、狂野，甚至帶啲「來自恐龍時代」嘅刺激感，咁我會誠心邀請你將腳步移去吉安雅縣（Gianyar）嘅深處。

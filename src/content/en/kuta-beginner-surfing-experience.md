@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/64db6b70fd897800013a9419'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 4f48c2b7b2dd28cf56e07984838cc87b
+_srcHash: fe753787ac3b6bff400c7b865e576ced
 ---
 
 ![Bali Kuta Surfing Recommendation for Beginners Xiao Jie's Fi](https://images.gobaligo.id/vocus/vocus_7c237f65b50ad4d7ef93af48af7f45b0.jpg)

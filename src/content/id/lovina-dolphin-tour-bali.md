@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e904309c49a3175e3462349f40d9dcd3.jpg'
 originalUrl: 'https://vocus.cc/article/6627b8f4fd89780001823c77'
 lang: id
-_srcHash: d7662a688d1f4fccdecbd7e401f29844
+_srcHash: 06e9dc803c3a499cd529edcd2a29d069
 ---
 Sebagai YouTuber keturunan Indonesia, VY Journey (Bing Bing & Jing Jing) kali ini memulai petualangan ke Lovina Beach di Bali Utara, Indonesia. Lewat video ini, dia mendokumentasikan seluruh perjalanan dengan sudut pandangnya yang khas.
 

@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6870c761fd89780001d5a85b'
 category:
   - 旅行技巧
 lang: id
-_srcHash: b6b89da103ad2d0a76d65f01a67fea2d
+_srcHash: dce42c02c7318cba54b0fffc96b28271
 ---
 Bali udah lama banget dianggap sebagai 'halaman belakang' buat orang Australia. Jaraknya dekat, tiket pesawat murah, cuacanya enak — jadi destinasi liburan favorit banyak warga Australia. Mau cari pantai yang cerah, yoga buat relaksasi, atau pengalaman budaya dan kuliner khas Bali, pulau tropis ini selalu punya daya tarik yang nggak ada habisnya. Tapi, seiring makin banyaknya turis yang datang, isu soal manajemen risiko di Bali juga mulai naik ke permukaan.
 

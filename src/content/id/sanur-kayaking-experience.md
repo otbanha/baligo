@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a4842b9e2aeadf753db86f1707a6694f.jpg'
 originalUrl: 'https://vocus.cc/article/6548e78ffd89780001612686'
 lang: id
-_srcHash: 771362cf5cd1266136ecd06aa9aa4aa5
+_srcHash: f111762af6b0b422e05a3cf3ad65957c
 ---
 
 Hari ini gue mau sharing soal pengalaman yang nggak terlupakan di Sanur, Bali — yaitu naik kano! Sanur itu kota pantai yang santai dan asyik di Bali, punya pantai yang keren, sinar matahari yang hangat, dan banyak aktivitas air. Dari semuanya, kano jadi favorit gue. Nggak perlu keluar banyak duit, kamu bisa nikmatin satu jam naik kano di tempat wisata pantai yang tenang ini, cuma 50.000 IDR per jam (sekitar USD$2). Yuk, gue ceritain detail petualangan kano gue.

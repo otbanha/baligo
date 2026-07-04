@@ -29,7 +29,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6c80545c8d3d8426807cc8ab93225891.jpg'
 originalUrl: 'https://vocus.cc/article/672a0629fd897800010aa2bc'
 lang: en
-_srcHash: 0e5698fa1a7a883cc0d092001d703e06
+_srcHash: f415bef3dae532074bdff653e90e2772
 ---
 
 In Bali, motorcycles are a common mode of transportation for locals, especially in places like Ubud, where locals often ride through the fields. Many tourists, seeing this, might be tempted by the idea that motorcycles are both economical and convenient for freely exploring Bali.

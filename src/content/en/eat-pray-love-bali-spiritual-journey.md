@@ -21,7 +21,7 @@ category:
   - 美食景點活動
   - 遊記分享
 lang: en
-_srcHash: bb3777d29b5a90a63d536ca5f08a2d72
+_srcHash: 75a666b20f4c51ce8c6846fa1ba6fee4
 ---
 At 5:30 in the morning, I sat on the balcony of my Ubud homestay, repeatedly flipping through the Bali chapter of 'Eat Pray Love'. The edges of the pages were slightly curled from my constant handling, mirroring my anxious state of mind. Today, I was finally embarking on a spiritual journey similar to that of the protagonist Liz (played by Julia Roberts), but this time, the leading lady behind the scenes was me.
 

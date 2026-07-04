@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6c80545c8d3d8426807cc8ab93225891.jpg'
 originalUrl: 'https://vocus.cc/article/672a0629fd897800010aa2bc'
 lang: id
-_srcHash: 0e5698fa1a7a883cc0d092001d703e06
+_srcHash: f415bef3dae532074bdff653e90e2772
 ---
 
 Di Bali, motor adalah kendaraan sehari-hari warga lokal, apalagi di Ubud — mereka sering ngebut di antara sawah. Banyak turis lihat jadi kepengen juga, karena motor dianggap murah, praktis, dan bebas jelajahi Bali. 

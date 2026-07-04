@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: bbd76b0be2a2eec903157184bdeb8ad3
+_srcHash: cff6e95af2324b8a76f8c1d5bedcf976
 ---
 
 計劃去峇里島度假未？無論係去烏布感受文藝氣息、去庫塔衝浪，定係去佩尼達島睇絕美海景，出門在外，「安全」永遠係快樂旅遊嘅頭等大事！

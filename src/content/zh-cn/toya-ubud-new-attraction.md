@@ -19,7 +19,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fc7d230efbaf5332a244fa14eeee2994.jpg'
 originalUrl: 'https://vocus.cc/article/67b7e25bfd89780001a6b041'
 lang: zh-cn
-_srcHash: befb7e75cc299777c97434ff49bcd797
+_srcHash: ba0415638671945990fc399f1bab2bf1
 ---
 
 ## **新生态度假村Toya Ubud于巴厘岛乌布开幕，惊艳游客**

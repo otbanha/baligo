@@ -26,7 +26,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1fe96274e662eb94f29890119c8abcc0.jpg'
 originalUrl: 'https://vocus.cc/article/6746742bfd897800018d4906'
 lang: en
-_srcHash: a920d3d04a3614ca237e4fd0b1de5b84
+_srcHash: 8a308d6527dfc54e8ff1ead423454358
 ---
 Bali has always been a popular travel destination, and many attractions and activities are quite friendly and comfortable for elderly travelers. In our previous post, we covered tips and essential items for taking parents to Bali. If you missed it, click [here](/blog/bali-elderly-travel-guide/).
 

@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/65b62204fd89780001edda35'
 category:
   - 旅行技巧
 lang: id
-_srcHash: eb4ebc8b21d892528749460af16ea411
+_srcHash: ec8edd47b4722fe12f10b7d141a504c9
 ---
 Perjalanan ke Bali adalah pengalaman yang penuh mimpi dan keajaiban. Tapi buat banyak traveler, aturan bagasi di pesawat sering jadi tantangan tersendiri. Demi keselamatan penerbangan dan pelayanan yang lebih baik, maskapai yang terbang ke Bali punya sejumlah batasan bagasi yang perlu kamu siapkan sebelum berangkat.
 

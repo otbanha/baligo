@@ -33,7 +33,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: d46b25924c0a74a5cdf8963bd3563de1
+_srcHash: c1e01c21b9aee71fa6e15fdbfda57ffc
 ---
 When people think of Bali, most imagine endless blue oceans, golden sunsets on sandy beaches, serene rice terraces, and sacred temples. These are indeed Bali's charming sides, but if you want to add a touch of raw, wild, even 'dinosaur-era' excitement to your trip, I sincerely invite you to venture deeper into Gianyar Regency.
 

@@ -44,7 +44,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 0f2d381928adc2d16f7c0922955bafb3
+_srcHash: 3dc26d0a1feb91be33c8ac4f26afc9f2
 ---
 
 Baru-baru ini gue liat postingan di Threads yang bikin gue setuju banget.

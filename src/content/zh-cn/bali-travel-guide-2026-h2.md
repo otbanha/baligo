@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 5d079d27243a80f16970391eac0253fa
+_srcHash: d5ed83e46534e95e6305550092449d3c
 ---
 
 # 【2026 巴厘岛旅游展望】从干季巅峰到雨季来临：7～12 月节庆与气候全攻略

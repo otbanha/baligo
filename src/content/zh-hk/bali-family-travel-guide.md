@@ -25,7 +25,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_64fcba3d1a5b5e3b8f05490e85f8b
 originalUrl: 'https://vocus.cc/article/64db6b81fd897800013a98b4'
 update: 2026/05/22
 lang: zh-hk
-_srcHash: 826448b81a3ad514d7e539cfc466b5cf
+_srcHash: c5be1fba0ed3a9c4622841b40c28a7f1
 ---
 
 ![【2026 峇里島親子遊】100+ 親子友善景點同活動大全：帶細路玩轉全島最強攻略](https://images.gobaligo.id/vocus/vocus_5a925db17eaf9df98ec241c45617ca29.jpg)

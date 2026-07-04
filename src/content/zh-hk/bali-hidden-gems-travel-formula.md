@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4c28d02843bee1e1ce0445f4d73c4936.jpg'
 originalUrl: 'https://vocus.cc/article/68a00fc1fd89780001f621c5'
 lang: zh-hk
-_srcHash: cd8c6e011ec379769612480fbb9d066c
+_srcHash: 90a3fab2c5905e114d7afaff8dd456bf
 ---
 
 [每當朋友問我「峇里島有咩一定要去嘅景點？」時，我總係會反問：「你想要咩樣嘅旅行體驗？」停止盲從攻略！峇里島旅行嘅秘訣係先了解自己想要咩！](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)

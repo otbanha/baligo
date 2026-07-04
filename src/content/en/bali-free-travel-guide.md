@@ -20,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1b03fc94b87908a35413404f6f9a61aa.png'
 originalUrl: 'https://vocus.cc/article/65ba3bfefd89780001650f07'
 lang: en
-_srcHash: 42d2e0176bbae81b53cf8664c6706f4b
+_srcHash: 74f4e48a39a68b3781545e5a39905547
 ---
 
 ![【No Traffic Jams with This Itinerary!】Ultimate Bali Travel G](https://images.gobaligo.id/vocus/vocus_86b840290627cc094416ab3efb84a7cf.png)

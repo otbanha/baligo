@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6614b94e4dbd763830fa8bcec020aa64.png'
 originalUrl: 'https://vocus.cc/article/65f97cf5fd897800019eeca0'
 lang: id
-_srcHash: 51353d81e4d516d0794451fa48182e3b
+_srcHash: 893299a4c50a18edaabcc1e6e5d571e9
 ---
 
 Monyet di Bali itu unik banget, erat kaitannya sama kepercayaan Hindu setempat. Karena 'Dewa Kera Hanoman' sangat dihormati, penduduk setempat pada umumnya menghormati monyet, bahkan sering memberi mereka makan. 'Hutan Monyet Suci' di Ubud adalah kawasan lindung dan surga yang khusus dibuat untuk mereka.

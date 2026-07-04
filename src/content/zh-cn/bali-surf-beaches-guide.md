@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_072768a98cc9dfc8bf4b4bca8e2f8b39.jpg'
 originalUrl: 'https://vocus.cc/article/66236818fd89780001389aaa'
 lang: zh-cn
-_srcHash: bd173a3fedb6226fab4b4eeec6a5e882
+_srcHash: 0f57e186c5b540e05570fd9235d5246b
 ---
 
 对许多人来说，学会冲浪是他们的梦想之一，而不得不说，巴厘岛可能是世界上最适合学习冲浪的地方之一。

@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-06/1781582245855-tirta_empul.jpg'
 originalUrl: 'https://vocus.cc/article/6852cdc2fd89780001e0b7ad'
 lang: id
-_srcHash: 4329b892a5c10516a6f0ac940cc1e0d8
+_srcHash: 3364565a1631a8622c4c6519a6f00dd2
 ---
 
 Tirta Empul (artinya 'Air Suci') adalah salah satu pura air tertua dan paling spiritual di Bali, terletak di Desa Tampaksiring, Gianyar. Pura ini terkenal dengan ritual penyucian 'Melukat', di mana umat percaya airnya bisa membersihkan energi negatif.

@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3dba799dbbf88a08d80f720169f80421.jpg'
 originalUrl: 'https://vocus.cc/article/653dc7f3fd89780001f4f90a'
 lang: zh-hk
-_srcHash: ec676a543a79cdbd814f27c93ce075a3
+_srcHash: 5405cfd1a4e32d971df33953bfa9684d
 ---
 
 每次朋友叫我介紹一個離烏布市區唔遠，又可以感受烏布自然風光嘅地方，要推薦Tegalalang rice terraces（德格拉郎梯田）嗎？唔好喇，嗰度近幾年已經商業化得太誇張！我哋推薦一個行路就可以輕鬆到達，被稱為「烏布天空步道」嘅Campuhan Ridge Walk（詹普漢山脊步道）。

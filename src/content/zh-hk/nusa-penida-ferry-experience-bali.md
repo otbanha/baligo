@@ -15,7 +15,7 @@ tags:
 heroImage: ''
 originalUrl: 'https://vocus.cc/article/6655eceefd897800015c1b6a'
 lang: zh-hk
-_srcHash: 8869fb2a33c1522b944676b3474fd18a
+_srcHash: dabd6278395474a12d1bb159726234d9
 ---
 我哋嘅【[峇里島/印尼吃喝玩樂](https://www.facebook.com/groups/indonesia.travelguide)】Facebook群組成員[Mei Yi Liao](https://www.facebook.com/liao.meiyi.1/)同朋友去帕尼達島嘅經歷/遊記，特此提供俾我哋編輯/轉載：
 

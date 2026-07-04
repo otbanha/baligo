@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4247795b82aced2551357471c02657b1.jpg'
 originalUrl: 'https://vocus.cc/article/6628aadefd897800018ca028'
 lang: zh-cn
-_srcHash: 287fe89a1973953af85a41259cf54220
+_srcHash: a1344a913eaaf68e36f708e3439cced8
 ---
 
 在巴厘岛的这段五天四夜之旅中，Clairejenjen 和她的朋友们探索了巴厘岛独特而多样的魅力。他们的行程充满了多姿多彩的活动和精彩的体验，从观赏日出到浮潜，再到丛林瑜伽，每一个瞬间都弥漫着惊奇与美好。

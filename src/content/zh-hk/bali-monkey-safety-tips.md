@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6614b94e4dbd763830fa8bcec020aa64.png'
 originalUrl: 'https://vocus.cc/article/65f97cf5fd897800019eeca0'
 lang: zh-hk
-_srcHash: 51353d81e4d516d0794451fa48182e3b
+_srcHash: 893299a4c50a18edaabcc1e6e5d571e9
 ---
 
 峇里島嘅猴子相當獨特，同當地印度教信仰密切相關。由於「神猴哈努曼」備受尊崇，居民普遍尊敬猴子，甚至主動餵食。烏布嘅「聖猴森林」就係專為佢哋設立嘅保護區同樂園。

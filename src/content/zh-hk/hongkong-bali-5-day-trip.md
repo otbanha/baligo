@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_843eeccac53f5cb6e06a4002edc1802d.png'
 originalUrl: 'https://vocus.cc/article/66321a0ffd89780001f04f86'
 lang: zh-hk
-_srcHash: 901b4c18b4ed476e0149c1383aca030e
+_srcHash: aaa6a97620988f73982586cd6a80812e
 ---
 
 「[Hea遊美食](https://www.youtube.com/@hea_travel)」係一位來自香港嘅 YouTuber，佢經常喺佢嘅頻道分享美食同旅遊嘅影片。今次，佢嚟到印尼嘅峇里島，為我哋帶嚟精彩嘅五日遊旅遊攻略。

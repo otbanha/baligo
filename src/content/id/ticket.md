@@ -35,7 +35,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 284a7fc469e23fad930b13330563c06e
+_srcHash: 1882c70b4dadf9fdab17577f5ace2c1b
 ---
 Lagi siap-siap rencanain liburan ke Bali 2026, tapi kaget sama harga tiket pesawat yang naik drastis?
 

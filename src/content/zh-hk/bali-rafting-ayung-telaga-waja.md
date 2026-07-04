@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0fbf0fa6cbdf5a3d06b5e9a8b4a461a0.jpg'
 originalUrl: 'https://vocus.cc/article/67e62aa8fd89780001888620'
 lang: zh-hk
-_srcHash: c109e7d985b3229a611afee92a32707f
+_srcHash: e88c978be29d3b2860ecce74c7325bd7
 ---
 
 峇里島以佢壯麗嘅自然景觀同豐富嘅文化遺產聞名，其中泛舟活動更加係吸引無數遊客嚟體驗嘅冒險項目。喺蜿蜒嘅河流中穿梭，感受急流同平靜水域交替帶嚟嘅刺激，沿途仲可以欣賞茂密嘅熱帶雨林、壯觀嘅峽谷同隱藏嘅瀑布，呢啲都係峇里島泛舟嘅獨特魅力所在。

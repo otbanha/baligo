@@ -33,7 +33,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 5d079d27243a80f16970391eac0253fa
+_srcHash: d5ed83e46534e95e6305550092449d3c
 ---
 
 # 【Prospek Wisata Bali 2026】Dari Puncak Musim Kering ke Datangnya Musim Hujan: Panduan Lengkap Festival & Cuaca Juli–Desember

@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_21bff0d73a91b0053d0ff13563ac5241.png'
 originalUrl: 'https://vocus.cc/article/68d49203fd89780001e4c5ef'
 lang: zh-hk
-_srcHash: 8e750d6db3032c60093490d6d1d31c32
+_srcHash: 53b9ad4c408c4c1ab3680a1e2c730b20
 ---
 
 想去峇里島又怕使費太高？其實只要掌握最佳旅遊時機同慳錢技巧，就可以用小預算享受「眾神之島」嘅美麗。呢篇文章會詳細講解最平嘅旅遊月份、住宿優惠、交通方式同美食選擇，令你喺淡季依然可以深度體驗峇里島。

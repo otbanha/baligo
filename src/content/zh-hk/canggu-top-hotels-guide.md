@@ -22,7 +22,7 @@ heroImage: 'https://images.gobaligo.id/images/2026-05/1777896573960-canggu_stay.
 originalUrl: 'https://vocus.cc/article/651b8da8fd89780001974847'
 update: 2026/05/24
 lang: zh-hk
-_srcHash: 44f2feec6b40c1ff53d6367597d63993
+_srcHash: e115a74a42b9155bd40c717512f77952
 ---
 
 ![峇里島住宿推薦：坎古Top 18 你不能錯過嘅住宿推薦](https://images.gobaligo.id/vocus/vocus_70db4d4278079bda9256ae9b7375328c.jpg)

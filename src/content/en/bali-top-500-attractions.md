@@ -20,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2fb4ffe1c7cebb7f079cde9505277686.jpg'
 originalUrl: 'https://vocus.cc/article/65df201efd89780001994d11'
 lang: en
-_srcHash: b2bfc4ee79abb859ae5eb69e65dc543c
+_srcHash: 213192895191e792b53e62ff6bf331b4
 ---
 
 ![2026 Bali Attractions Map Guide Discover 500 Latest Popular ](https://images.gobaligo.id/vocus/vocus_5c80fca50d04d71c9afec378a7f72b96.jpg)

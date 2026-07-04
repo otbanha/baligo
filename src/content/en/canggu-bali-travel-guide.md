@@ -23,7 +23,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/aglSSIW2vZg'
 lang: en
-_srcHash: 1d6f36530a3e4de974aa2268e2f464df
+_srcHash: f0aaec82a5e903cf867754ed83a9f030
 ---
 
 In our previous Canggu guide, we gave an overview of what Canggu is like and why it has become the trendiest spot in Bali. Check out our introduction here:

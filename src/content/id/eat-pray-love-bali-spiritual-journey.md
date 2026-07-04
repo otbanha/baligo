@@ -24,7 +24,7 @@ category:
   - 美食景點活動
   - 遊記分享
 lang: id
-_srcHash: bb3777d29b5a90a63d536ca5f08a2d72
+_srcHash: 75a666b20f4c51ce8c6846fa1ba6fee4
 ---
 
 Jam setengah enam pagi, gue di balkon penginapan Ubud sambil bolak-balik baca bab Bali dari buku 'Eat Pray Love'. Pinggiran halaman udah mulai ngelinting karena sering gue pegang, persis kayak perasaan gue yang deg-degan sekarang. Hari ini, gue akhirnya bakal menjalani perjalanan spiritual mirip kayak tokoh utama Liz (diperanin Julia Roberts)—cuma kali ini, kamera gak nyorot dia, tapi gue sendiri.

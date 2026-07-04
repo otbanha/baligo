@@ -40,7 +40,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_72df3918142bccfea8b19414e6ee33a4.jpg'
 originalUrl: 'https://vocus.cc/article/662e156bfd8978000130c73c'
 lang: id
-_srcHash: 49aab28bbe7b4826b21e729ebda8aee3
+_srcHash: 64a322ceb80302d1c0e5f70cf7f5b395
 ---
 
 Bali terkenal sebagai surga liburan, dengan pantai cantik, penduduk ramah, dan budaya yang kaya. Belakangan ini, Bali juga jadi destinasi favorit buat liburan keluarga. Makin banyak keluarga yang milih liburan ke Bali.

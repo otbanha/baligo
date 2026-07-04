@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e02b5d929f4c6b0aa444d358d8267022.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b72fd897800013a948b'
 lang: en
-_srcHash: 68cf4a9065e84db8b49817063513694f
+_srcHash: 2b41c9d9e374fa2cac17e1c4bfb74850
 ---
 
 In this episode, Xiao Jie takes you to Monkey Forest, Ubud Palace, and Ubud Market to see the current situation. We had lunch at Bale Udang restaurant in Ubud before leaving!

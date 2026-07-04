@@ -11,7 +11,7 @@ originalUrl: ''
 shuffle_h2: true
 embeds: []
 lang: en
-_srcHash: 29e9f1c1c50487747f0c5e7b329c8ab4
+_srcHash: adc222960d13e7777d8b10c30ce5cb6e
 ---
 
 On the first page, our top recommended drivers are [here](https://gobaligo.id/blog/bali-private-car-drivers-guide/)

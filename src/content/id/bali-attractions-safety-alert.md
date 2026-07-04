@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/66c69317fd8978000110fabc'
 category:
   - 旅行技巧
 lang: id
-_srcHash: a123d5ea64c540812e88adffe72d095e
+_srcHash: 52ee187a67c6dbb7d4024c45101a41f1
 ---
 
 Baru-baru ini, dua destinasi terkenal di Bali — Diamond Beach di Nusa Penida dan Bingin Beach di Uluwatu — mengalami dua kecelakaan serius. Tim penyelamat setempat langsung bergerak cepat melakukan operasi penyelamatan.

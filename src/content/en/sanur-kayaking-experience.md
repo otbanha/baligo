@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a4842b9e2aeadf753db86f1707a6694f.jpg'
 originalUrl: 'https://vocus.cc/article/6548e78ffd89780001612686'
 lang: en
-_srcHash: 771362cf5cd1266136ecd06aa9aa4aa5
+_srcHash: f111762af6b0b422e05a3cf3ad65957c
 ---
 
 Today, I want to share with you an unforgettable experience I had in the beautiful Sanur area of Bali—a kayaking adventure. Sanur is a relaxed and charming coastal town on Bali, boasting stunning beaches, warm sunshine, and a variety of water activities, with kayaking being my favorite. Without spending much, you can enjoy an hour of kayaking in this tranquil seaside paradise for just 50,000 Indonesian Rupiah (approximately USD$3). Now, let me take you through the details of my kayaking expedition.

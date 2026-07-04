@@ -24,7 +24,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_214329c952f788b942561a41d700944d.jpg'
 originalUrl: 'https://vocus.cc/article/6814aa9efd89780001f68acc'
 lang: en
-_srcHash: 18aaf9fe5b3ad45e298e713bbaa343e9
+_srcHash: 83753529793ebd61b67965ed9dd47943
 ---
 
 I've always been a scaredy-cat who wouldn't even dare to ride a roller coaster. Every time I saw photos of others up in the sky, I felt both envious and terrified. This trip to Bali, I finally mustered the courage to take on my first paragliding experience! Honestly, my hands were trembling when I booked it, and my mind kept replaying all sorts of scary scenarios: What if I fall? What if the wind is too strong? But looking back now, those worries were completely unnecessary～

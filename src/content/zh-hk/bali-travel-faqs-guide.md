@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e14497d695ce945e47d1b8738cd5faa6.gif'
 originalUrl: 'https://vocus.cc/article/672e2c1afd897800014c3fbc'
 lang: zh-hk
-_srcHash: 4c75a021cf69bef0b6d672dbfabb1931
+_srcHash: 02a223e88f7ceeddbd458d2a4ff33e4d
 ---
 
 # **峇里島旅遊常見問題大解答**

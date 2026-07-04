@@ -26,7 +26,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e369e6351905ce7e76db2352f23292c8.png'
 originalUrl: 'https://vocus.cc/article/689db40ffd89780001eb2f3e'
 lang: en
-_srcHash: 0005aed3c3428def9bdb498567fb20e7
+_srcHash: e98bdf2c200625416df552cb59114f55
 ---
 
 ### New Indonesia Entry Measures🇮🇩 Important Notice! Starting August 18, 2025, 'All Indonesia' Single Declaration System Will Be Fully Implemented

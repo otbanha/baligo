@@ -31,7 +31,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 38cf35a77976266389f2dc65fd090eb4
+_srcHash: b51e73ff968fcb6d81f2966c908ac441
 ---
 
 ![【峇里島交通測驗】包車還是叫車？1 分鐘小測驗幫你選出最省錢、不踩雷的移動方式](https://images.gobaligo.id/images/2026-04/1776164547296-688329966154289635.png)

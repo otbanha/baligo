@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_75e1b468ed04ddb2a138fd4071cb2df1.png'
 originalUrl: 'https://vocus.cc/article/679ee4d8fd89780001d625b6'
 lang: zh-hk
-_srcHash: 81cd431efaf680b405359e2cfef9e604
+_srcHash: 4c2ff3e1a056fdffd48b4b7c7271cfce
 ---
 
 > 以下內容改編自團友 [Mei Liu](https://www.facebook.com/share/p/14streqDnD/) 分享遊記：

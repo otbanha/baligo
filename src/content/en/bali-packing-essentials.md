@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_75c3fa6975e4107f2613b15ec6310d6e.jpg'
 originalUrl: 'https://vocus.cc/article/68d13539fd89780001b06dfc'
 lang: en
-_srcHash: 70c55e2aa9622646b6a068bab2eecef5
+_srcHash: 541ba9c55a69f9cf8a43a887782aaf8c
 ---
 ### 1. Lightweight, breathable cotton or linen clothing
 

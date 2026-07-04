@@ -15,7 +15,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b6312892d57d19408e55b4209cea639d.png'
 originalUrl: 'https://vocus.cc/article/694bf0d9fd89780001214e1c'
 lang: en
-_srcHash: a8fcf57b28bcf092b8f65bca6b56ace2
+_srcHash: 5842885f75161abfa223f66ba8613408
 ---
 
 ## Complete Guide to Children's Visas for Bali Family Trips

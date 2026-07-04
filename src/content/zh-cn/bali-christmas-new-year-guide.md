@@ -10,7 +10,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2852b7e85fd79c94b1667a9a54b5b783.jpg'
 originalUrl: 'https://vocus.cc/article/68f8711efd8978000136386b'
 lang: zh-cn
-_srcHash: 671728e86b980b5d6da81d64158fa792
+_srcHash: 835a16fddf53daa3fa5007291e8c2467
 ---
 
 圣诞节不一定要在雪地中度过！在巴厘岛这座充满热带气息的岛屿上，阳光、沙滩与浓浓的节庆氛围正等着你。这里不仅气候宜人，还有丰富的活动、美味的圣诞大餐与无数适合家庭的住宿选择。

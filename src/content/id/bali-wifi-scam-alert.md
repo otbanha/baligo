@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/68593269fd897800012cea64'
 category:
   - 旅行技巧
 lang: id
-_srcHash: a8757ecc9939e89c8f6569dfee987b7d
+_srcHash: 990dca2fe17e20dc40701b246a9333aa
 ---
 
 **"Minta sharing hotspot HP"** bisa jadi modus penipuan atau tindakan nggak bener, apalagi di tempat umum atau area wisata. Waspada aja kalau ada yang minta gini, terutama di tempat ramai! Ini beberapa skenario penipuan atau risiko yang umum:

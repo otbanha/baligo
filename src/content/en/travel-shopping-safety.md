@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/64dcae12fd897800015a06a3'
 category:
   - 旅行技巧
 lang: en
-_srcHash: cdfc1aabc19f413b6edebbc2ba57ca38
+_srcHash: 0c45e9686b309ad55d8b4185f4f11e16
 ---
 
 ![Essential Shopping Tips for Travelers: A Guide to Safe and C](https://images.gobaligo.id/vocus/vocus_3b0f447cc3f00ad2869b6c9d9b734cc6.png)

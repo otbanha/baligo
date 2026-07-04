@@ -22,7 +22,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/aglSSIW2vZg'
 lang: id
-_srcHash: 1d6f36530a3e4de974aa2268e2f464df
+_srcHash: f0aaec82a5e903cf867754ed83a9f030
 ---
 
 Di episode sebelumnya, kita udah bahas gambaran Canggu dan kenapa tempat ini jadi kawasan paling hits di Bali. Cek juga yuk:

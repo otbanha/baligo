@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: bbd76b0be2a2eec903157184bdeb8ad3
+_srcHash: cff6e95af2324b8a76f8c1d5bedcf976
 ---
 
 计划去巴厘岛度假了吗？不论是去乌布感受文艺气息、去库塔冲浪，还是去佩尼达岛看绝美海景，出门在外，“安全”永远是快乐旅游的头等大事！

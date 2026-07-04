@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6855271afd897800016d3b6a'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 2bb505e944fe9f9bb35900f49d62f772
+_srcHash: 99b30ad95bfb720791236f5e305502f2
 ---
 
 喺峇里島參加潛水或者浮潛等海上活動係好多旅客嘅首選，但係由於呢類活動多數喺海邊或者離島進行，冇辦法帶袋上船，更加唔好講保險箱，所以「護照、銀包、手機應該點樣保管？」成為大家最常問嘅問題。

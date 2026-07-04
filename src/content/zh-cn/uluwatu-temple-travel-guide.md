@@ -24,7 +24,7 @@ heroImage: 'https://images.gobaligo.id/images/2026-06/1781587544726-uluwatu_temp
 originalUrl: 'https://vocus.cc/article/678b1d81fd89780001f7fe4d'
 update: 2026/05/22
 lang: zh-cn
-_srcHash: 160760cbe0a54d52e06446696eb1eae8
+_srcHash: 483bd7cf9f271c154ead2b65f49c199c
 ---
 
 乌鲁瓦图庙（Uluwatu Temple）已成为旅客们广为熟知的目的地，当地人称之为「Pura Luhur Uluwatu」。这座寺庙不仅提升了巴厘岛南部景点的知名度，更因其独特的地理位置与文化意义而备受推崇。寺庙坐落于97米高的悬崖之上，不仅是信徒的朝圣地，更提供了令人惊叹的壮丽景色，绝对会让你大开眼界。在这篇乌鲁瓦图庙旅游指南中，我将为你提供所有必备信息，帮助你更好地规划行程，包括门票价格、历史背景、参访时的穿着建议等。准备好展开一场冒险了吗？让我们开始吧！

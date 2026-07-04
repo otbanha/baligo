@@ -17,7 +17,7 @@ category:
   - 住宿推薦
   - 旅行技巧
 lang: en
-_srcHash: b15bb3b16f790b35f1b763e19fdac1fe
+_srcHash: fdb780bf31d24f5270dfaec858b9616e
 ---
 
 When planning your trip to Bali, booking accommodation is one of the most important steps. Bali offers a wide range of luxury hotels, exquisite villas, and affordable stays, but how do you find something that fits your budget and comfort? Here are some money-saving tips to help you save big when booking your accommodation in Bali.

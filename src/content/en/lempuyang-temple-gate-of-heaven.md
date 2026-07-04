@@ -24,7 +24,7 @@ heroImage: 'https://images.gobaligo.id/images/2026-05/1779102196901-lempuyang.pn
 originalUrl: 'https://vocus.cc/article/64db6b72fd897800013a9475'
 updatedDate: 2026-05-18T00:00:00.000Z
 lang: en
-_srcHash: 6bc43bf0bd36482b88924ebe29485df3
+_srcHash: e70e9b029fa15b1537c63348a003f749
 ---
 
 That famous Sky Gate reflection photo? It's taken using a phone screen—not an actual water reflection. This isn't a critique; it's something you should know before you go, so you can decide whether to spend two hours queuing for the photographer or arrive at 7 AM to capture the Mount Agung framed by the gate.

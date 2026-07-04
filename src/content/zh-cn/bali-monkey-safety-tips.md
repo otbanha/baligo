@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6614b94e4dbd763830fa8bcec020aa64.png'
 originalUrl: 'https://vocus.cc/article/65f97cf5fd897800019eeca0'
 lang: zh-cn
-_srcHash: 51353d81e4d516d0794451fa48182e3b
+_srcHash: 893299a4c50a18edaabcc1e6e5d571e9
 ---
 
 巴厘岛的猴子相当独特，与当地印度教信仰密切相关。由于「神猴哈努曼」备受尊崇，居民普遍尊敬猴子，甚至主动喂食。乌布的「圣猴森林」便是专为它们设立的保护区与乐园。

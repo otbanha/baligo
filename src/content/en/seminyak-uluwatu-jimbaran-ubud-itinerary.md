@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_91b278904531c76c5f88a15a022eab6d.jpg'
 originalUrl: 'https://vocus.cc/article/669488eafd89780001cc7d82'
 lang: en
-_srcHash: 68961278a02d4ac3db9866103542b7a3
+_srcHash: cb8be301bc389d4ec8738fc770e4b9d7
 ---
 
 > The following content was provided by group member [Lian Yuzhun](https://www.facebook.com/groups/baligo/permalink/1574999756380597/) and has been re-edited by us:

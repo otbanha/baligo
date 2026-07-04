@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fdd8586ccd57a9e42f423ed3045d56c2.jpg'
 originalUrl: 'https://vocus.cc/article/65647143fd897800014b96f1'
 lang: zh-cn
-_srcHash: 5aa479a47f722af494f13570e4017925
+_srcHash: af6a9a5ab55681b3de2610a6e4ad70bd
 ---
 
 ![巴厘岛乌布的瀑布酒吧 OMMA Dayclub：感受chill氛围，阳光下的惬意时光](https://images.gobaligo.id/vocus/vocus_c17bf195fd6ecbe15f62352549f17db8.jpg)

@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6c80545c8d3d8426807cc8ab93225891.jpg'
 originalUrl: 'https://vocus.cc/article/672a0629fd897800010aa2bc'
 lang: zh-cn
-_srcHash: 0e5698fa1a7a883cc0d092001d703e06
+_srcHash: f415bef3dae532074bdff653e90e2772
 ---
 
 在巴厘岛，摩托车是当地人常见的交通工具，尤其是在乌布等地，当地人常常骑着摩托车穿梭于田野间。许多观光客看见后，也可能会心动觉得摩托车既经济又方便，可以自由探索巴厘岛。

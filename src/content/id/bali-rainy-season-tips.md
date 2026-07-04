@@ -24,7 +24,7 @@ originalUrl: 'https://vocus.cc/article/691c6b2cfd89780001862b97'
 category:
   - 旅行技巧
 lang: id
-_srcHash: 12030143c3230fb640d554931ca65c62
+_srcHash: ae67234899b7006bd04597dd3894695c
 ---
 
 **Halo semuanya, gue adalah traveler yang cinta banget sama Bali, udah pernah ke sana pas musim kemarau dan juga beberapa kali pas musim hujan. Banyak orang langsung ciut begitu denger kata 'musim hujan di Bali', mikirnya bakal kehujanan seharian, itinerary berantakan. Padahal enggak kok! Musim hujan di Bali punya pesona lain yang lebih hijau, tenang, dan super worth it. Hari ini gue bakal share攻略 lengkap musim hujan Bali terbaru, biar kamu tetap happy jalan-jalan meski musim hujan!**

@@ -17,7 +17,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4603b531b61b14e13a527e7b2492d400.jpg'
 originalUrl: 'https://vocus.cc/article/65ed5114fd89780001dcc688'
 lang: id
-_srcHash: bd8d9c2ba4afd3de5e2df0cb4f0277ea
+_srcHash: 9a140c7117e89867e608306b5c6d971a
 ---
 
 **Teman grup**[**Li Ly**](https://www.facebook.com/lily850711/)**dan temannya baru aja selesai liburan ke Bali di tengah musim hujan, langsung sharing pengalaman jalan-jalan mereka!**

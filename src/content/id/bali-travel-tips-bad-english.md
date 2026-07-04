@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/65c44c29fd89780001141a3e'
 category:
   - 旅行技巧
 lang: id
-_srcHash: a755a741a1f3fad0729468835f4b2128
+_srcHash: be7f9070280494ec98398ecae4029a75
 ---
 
 Bali adalah salah satu destinasi wisata paling populer di Indonesia, setiap tahun menarik jutaan turis dari seluruh dunia. Karena perkembangan pariwisata, bahasa Inggris perlahan jadi bahasa umum di Bali.

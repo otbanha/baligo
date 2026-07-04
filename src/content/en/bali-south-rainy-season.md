@@ -18,7 +18,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6cb63d911d81b443322718ad53493ea0.png'
 originalUrl: 'https://vocus.cc/article/670fc5b2fd89780001cea7ee'
 lang: en
-_srcHash: bbf4af24abf3da2eda3f05ae05534485
+_srcHash: 7b692077933c89ee4d517cbbf08483ae
 ---
 According to rainfall probability charts, we can clearly see that the rainy season in southern Bali (including areas like **Kuta, Seminyak, Uluwatu, Nusa Dua, and Sanur**) mainly occurs from December to February. Around January 20th, the chance of rainfall peaks at 61%, the highest of the year. In January, there are an average of about 18 rainy days per month.
 

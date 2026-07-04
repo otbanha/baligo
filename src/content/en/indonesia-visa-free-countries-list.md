@@ -20,7 +20,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: en
-_srcHash: 06e84b9a1437cbda9ace1c2cca59fb2a
+_srcHash: ca1c9b8ba45cce19d6bca701e812094d
 ---
 
 Indonesian President Joko Widodo recently announced that citizens from 13 countries can enjoy visa-free entry into Indonesia. This policy is based on the principle of reciprocity and considerations for Indonesia's national economic interests, aiming to increase national revenue and support domestic economic development.

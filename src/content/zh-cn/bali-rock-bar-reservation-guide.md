@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bc5effe6be71d08b10556ee097f70753.jpg'
 originalUrl: 'https://vocus.cc/article/67270573fd89780001adf758'
 lang: zh-cn
-_srcHash: 2bc919fd64a630edd64532fd8936fcb5
+_srcHash: b0f320220ee4935f5ae4bebb143ab622
 ---
 
 位于巴厘岛Ayana度假村的Rock Bar，是巴厘岛必访的海边酒吧，结合悬崖和海景的壮丽风景，不论是日落时的灿烂美景，或夜晚的星空派对，皆让人流连忘返！

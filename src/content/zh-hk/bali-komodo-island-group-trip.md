@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2a24c85b34f64e559336545041ad6337.jpg'
 originalUrl: 'https://vocus.cc/article/66efc051fd89780001433018'
 lang: zh-hk
-_srcHash: 3c1d517f614c0dbd46ec9d76ba9c6d20
+_srcHash: 5595f154e76315364dc079ce1e276df4
 ---
 
 > 以下內容改編自團友 [Sandra Yun](https://www.facebook.com/share/p/R9sqkkpWfnrB6Bzr/) 分享遊記：

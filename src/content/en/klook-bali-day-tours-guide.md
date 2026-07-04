@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bb67efe0325c98bae38b71141e102a47.png'
 originalUrl: 'https://vocus.cc/article/6812dc5dfd897800018e284b'
 lang: en
-_srcHash: 0431ddfc93ebb085dd46eff11174b548
+_srcHash: cf13acb0b40514183c12b1a504cb3944
 ---
 ## **✨ Don't Want to Plan? These Day Tours Let You 'Sleep on the Bus, Snap Photos at Stops'!**
 

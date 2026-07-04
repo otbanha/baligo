@@ -18,7 +18,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: zh-cn
-_srcHash: 09eb6c6ba2baa0fbf6546f9c55fd5271
+_srcHash: 6ddabb47db7b1ad25ca04cc1e4b1cc68
 ---
 
 每一年，都有人问同样的问题。

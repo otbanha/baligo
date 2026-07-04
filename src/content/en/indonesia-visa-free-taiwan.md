@@ -12,7 +12,7 @@ originalUrl: 'https://vocus.cc/article/65742746fd89780001135982'
 category:
   - 旅行技巧
 lang: en
-_srcHash: af205f5bf322819e33e5e0f910c7749c
+_srcHash: b2c6d3c9530b006600c18883805ae9d8
 ---
 
 According to Central News Agency reports on December 8th, Indonesia is considering implementing a visa-free policy for visitors from 20 countries, including Taiwan.

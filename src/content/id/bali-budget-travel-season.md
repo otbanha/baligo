@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_21bff0d73a91b0053d0ff13563ac5241.png'
 originalUrl: 'https://vocus.cc/article/68d49203fd89780001e4c5ef'
 lang: id
-_srcHash: 0d89a4bdd705322e890ccb668b7acd4a
+_srcHash: 53b9ad4c408c4c1ab3680a1e2c730b20
 ---
 
 Mau ke Bali tapi takut budget membengkak? Sebenarnya, kalau kamu tahu waktu terbaik dan trik hemat, kamu bisa menikmati keindahan 'Pulau Dewata' dengan budget kecil. Artikel ini bakal kupas tuntas bulan termurah, diskon akomodasi, transportasi, dan pilihan kuliner, biar kamu tetap bisa eksplorasi Bali secara maksimal di musim sepi.

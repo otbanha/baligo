@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_127a8e6469f56bdbefac0f605a55d6a8.jpg'
 originalUrl: 'https://vocus.cc/article/68557a29fd897800017f4272'
 lang: zh-cn
-_srcHash: 7e5631ee64e1d8883d662ea54950caa4
+_srcHash: d262ee0d911fdf1ad9de1b5aa4b52af8
 ---
 
 ## **什么是Devdan 天坛秀？一场穿越印尼文化的旅程**

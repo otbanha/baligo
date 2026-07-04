@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6680c949bff873153e488598381a7ca6.png'
 originalUrl: 'https://vocus.cc/article/673c7478fd89780001db176b'
 lang: en
-_srcHash: ca2bd56f1565c488f66cc506d37d493a
+_srcHash: 5c144dc45bd62d66328ebff36211f1a4
 ---
 
 ## ❗❗New Offer for May 2026: Direct Flight from Taipei to Bali Included at USD$1,349 per Person❗❗

@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5276a5cd990c91278a453346f478d041.jpg'
 originalUrl: 'https://vocus.cc/article/6707c8e2fd897800014d3db5'
 lang: zh-cn
-_srcHash: 9c44bd354dd3af2ea17d0987b1b734b7
+_srcHash: 7e8f6fb3e1c296039aa66b42d929a368
 ---
 
 在巴厘岛,水不仅是生命之源,更是神圣的元素。对于巴厘岛人来说,泉水被称为"Tirta",是维持一切存在的赋予生命和净化的力量。Tirta在几乎所有宗教仪式中都扮演着重要角色,人们相信它可以净化思想、身体和精神,清除负面能量,并带来祝福。

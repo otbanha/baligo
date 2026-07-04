@@ -36,7 +36,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e83815f043de07c9decfbf014a7cc5e5.jpg'
 originalUrl: 'https://vocus.cc/article/67a813d4fd8978000165ae91'
 lang: en
-_srcHash: 38ce7a6d342cc0f7b494b292601adf59
+_srcHash: c375114f1133bac036b5a156d2cb9c94
 ---
 
 ![Bali is once again in the global spotlight! The best hotels ](https://images.gobaligo.id/vocus/vocus_eeb44772338cef2351250be97f6b6087.jpg)
