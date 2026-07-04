@@ -18,7 +18,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_895250b2562594f0df152abd4e1ca3de.jpg'
 originalUrl: 'https://vocus.cc/article/69a27e03fd89780001045c82'
 lang: id
-_srcHash: e6d10cf550909b9bcb9287fd096c09a0
+_srcHash: 3f4366ed3b512494192f9704cc72f96b
 ---
 Banyak yang DM saya: 'Pertama kali ke Bali, bakal kena tipu nggak ya?' Jujur, Bali secara keseluruhan aman banget, penduduk lokalnya juga ramah. Tapi di mana ada tempat wisata, pasti ada 'akal-akalan'. Biar perjalananmu cuma diisi pemandangan keren tanpa masalah, catat baik-baik modus penipuan yang sering terjadi di 2026 ini.
 

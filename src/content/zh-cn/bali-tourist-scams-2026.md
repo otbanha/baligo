@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_895250b2562594f0df152abd4e1ca3de.jpg'
 originalUrl: 'https://vocus.cc/article/69a27e03fd89780001045c82'
 lang: zh-cn
-_srcHash: e6d10cf550909b9bcb9287fd096c09a0
+_srcHash: 3f4366ed3b512494192f9704cc72f96b
 ---
 
 很多人私信问我：「第一次去巴厘岛会不会被骗？」 老实说，巴厘岛整体非常安全，当地人也很热情友善。但只要是观光区，就一定会有「套路」。为了让你的旅程只有美景没有陷阱，这些 2026 年常见的诈骗手法，请务必提高警觉。

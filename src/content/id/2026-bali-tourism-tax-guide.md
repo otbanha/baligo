@@ -30,7 +30,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-04/1777252730266-782544334399662200.png'
 originalUrl: 'https://vocus.cc/article/65955989fd89780001a95927'
 lang: id
-_srcHash: 394acbc314bfbf3c2eac9245a415864e
+_srcHash: c16bb8fa71cd5d7f14fca1733a9668d7
 ---
 Sejak 14 Februari 2024, **Bali** menerapkan kebijakan baru yaitu **Pajak Wisata (International Tourist Levy)** yang berlaku untuk semua turis asing yang datang ke **Bali**, baik dewasa maupun anak-anak. Setiap orang harus bayar 150.000 IDR, setara sekitar USD$5. Kebijakan ini dibuat untuk mengatasi masalah kemacetan dan sampah di **Bali**.
 

@@ -25,7 +25,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-04/1777252730266-782544334399662200.png'
 originalUrl: 'https://vocus.cc/article/65955989fd89780001a95927'
 lang: zh-cn
-_srcHash: 394acbc314bfbf3c2eac9245a415864e
+_srcHash: c16bb8fa71cd5d7f14fca1733a9668d7
 ---
 
 自从 2024 年 2 月 14 日起，**巴厘岛**实施了一项新的旅游政策，即「观光税 (International Tourist Levy)」，这适用于所有访问**巴厘岛**的国际旅客，不论是成人还是儿童。每人需支付 15 万印尼盾的税金，相当于约 10 美元。这项政策旨在应对**巴厘岛**面临的交通拥堵和垃圾问题。

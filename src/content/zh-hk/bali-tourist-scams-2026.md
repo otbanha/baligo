@@ -13,7 +13,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_895250b2562594f0df152abd4e1ca3de.jpg'
 originalUrl: 'https://vocus.cc/article/69a27e03fd89780001045c82'
 lang: zh-hk
-_srcHash: e6d10cf550909b9bcb9287fd096c09a0
+_srcHash: 3f4366ed3b512494192f9704cc72f96b
 ---
 
 好多人 inbox 問我：「第一次去峇里島會唔會俾人呃？」 老實講，峇里島整體好安全，當地人亦都好熱情友善。但係只要係觀光區，就一定有「套路」。為咗令你嘅旅程只有美景冇陷阱，呢啲 2026 年常見嘅呃人手法，請務必提高警覺。

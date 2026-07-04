@@ -31,7 +31,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-04/1777252730266-782544334399662200.png'
 originalUrl: 'https://vocus.cc/article/65955989fd89780001a95927'
 lang: en
-_srcHash: 394acbc314bfbf3c2eac9245a415864e
+_srcHash: c16bb8fa71cd5d7f14fca1733a9668d7
 ---
 
 Since February 14, 2024, **Bali** has implemented a new tourism policy called the "International Tourist Levy," applicable to all international visitors to **Bali**, regardless of age. Each person must pay IDR 150,000, equivalent to approximately USD$10. This policy aims to address traffic congestion and waste issues in **Bali**.

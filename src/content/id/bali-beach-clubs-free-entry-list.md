@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e0a0e5aecea809d5fd469b42f33cd5ac.jpg'
 originalUrl: 'https://vocus.cc/article/66bbfca7fd89780001c1ee0a'
 lang: id
-_srcHash: 80d0513479ac77f8376048c2b554aec0
+_srcHash: 51afcb1ac105e49722b37a9b759efcb3
 ---
 
 Bali itu surganya beach club, sama kayak kafe-kafe estetik dan restoran dengan pemandangan keren. Di sini, kamu bakal nemuin banyak tempat nongkrong kece yang bikin kamu bisa menikmati laut, pasir, dan sinar matahari ditemani DJ kelas dunia dan cocktail enak. Kalau liburan ke Bali tapi nggak mampir ke beach club, rasanya kurang afdol. Soalnya tempat-tempat ini bukan cuma kasih pemandangan yang juara dan vibe santai, tapi juga bikin kamu bisa menikmati sunset cantik sambil dengerin musik dan makan enak — pokoknya cara paling asyik buat ngerasain semangat Bali yang hangat dan penuh energi.
