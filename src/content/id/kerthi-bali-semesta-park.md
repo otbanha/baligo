@@ -15,7 +15,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_213915c8980abeaf3106c8b0c9114d11.jpg'
 originalUrl: 'https://vocus.cc/article/68f9ad45fd897800017798ec'
 lang: id
-_srcHash: 3075321664a757a0cebcbbe14c8ef50b
+_srcHash: 672f2a7cd428919ff4644160aa858ad3
 ---
 
 ## **Paramount Masuk Bali｜Kerthi Bali Semesta Park Dijadwalkan Buka 2026**

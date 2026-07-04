@@ -20,7 +20,7 @@ agoda_star_rating: 5
 latitude: -8.660595
 longitude: 115.13974
 lang: id
-_srcHash: 50a9efa58971f5c08814294a8b271057
+_srcHash: d512154a4f64f54ceeba52bd69e315f2
 ---
 
 ### TUI BLUE Berawa Hotel and Villas: Pengalaman Mewah di Canggu, Bali

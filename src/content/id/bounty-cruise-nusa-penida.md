@@ -32,7 +32,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 64ef7da0cf5e785c8321f4f7a1e7d3ab
+_srcHash: e17eff3d4ccbbc8680c5481b50854418
 ---
 
 Banyak orang pertama kali lihat nama 'Bounty Day Cruise Bali One Day Tour to Nusa Penida' langsung mikir:
