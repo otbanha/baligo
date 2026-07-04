@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/672c9eb5fd89780001ef6ffa'
 category:
   - 旅行技巧
 lang: id
-_srcHash: 57c79bc601a3143facb222c7d6ef2304
+_srcHash: 2a86905d5e0ea288af4e8aaffb73d1fb
 ---
 
 Pada tahun 2024, saat masih menjadi calon presiden Indonesia, Prabowo Subianto (yang kini sudah menjabat sebagai Presiden Indonesia) mengusulkan proyek ambisius pembangunan 'Bandara Internasional Bali Utara' di bagian utara Bali, dengan tujuan mengurangi tekanan pariwisata di wilayah selatan dan mendorong pertumbuhan ekonomi utara melalui infrastruktur baru. Dalam pidatonya, ia menekankan harapan agar Bali bisa bertransformasi menjadi destinasi wisata internasional modern, seperti Hong Kong atau Singapura. Namun, apakah visi ini benar-benar layak dijalankan setelah ia menjabat, masih perlu dikaji lebih dalam.

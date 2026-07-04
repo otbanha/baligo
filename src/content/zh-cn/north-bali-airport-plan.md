@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/672c9eb5fd89780001ef6ffa'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 57c79bc601a3143facb222c7d6ef2304
+_srcHash: 2a86905d5e0ea288af4e8aaffb73d1fb
 ---
 
 2024年，当时还是印尼总统候选人的Prabowo Subianto（现已就任印尼总统）提出了在巴厘岛北部建设“北巴厘国际机场”的宏大计划，目标是舒缓南部地区的观光压力，并通过新的基础设施带动北部经济发展。他在演讲中强调，希望巴厘岛能够转型为现代化的国际观光胜地，就如同香港或新加坡一般。然而，这样的愿景在他就任后是否切实可行，仍需仔细探讨。

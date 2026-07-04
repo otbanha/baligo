@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/668d3950fd89780001edc382'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 55d6fb0886aeed9eaa17e2e3e67e4d4d
+_srcHash: a0765b66bbb8e39bd51c8263cf0850a5
 ---
 
 ![【而家去最好！？】峇里島邊個月去最舒服？](https://images.gobaligo.id/vocus/vocus_627a552e98d467b4caa36da0295751e2.png)

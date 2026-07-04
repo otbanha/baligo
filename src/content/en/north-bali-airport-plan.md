@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/672c9eb5fd89780001ef6ffa'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 57c79bc601a3143facb222c7d6ef2304
+_srcHash: 2a86905d5e0ea288af4e8aaffb73d1fb
 ---
 
 In 2024, Prabowo Subianto, then a presidential candidate (now the President of Indonesia), proposed the grand plan of constructing the "North Bali International Airport" in northern Bali. The goal is to ease tourism pressure in the south and drive economic growth in the north through new infrastructure. In his speech, he highlighted his aspiration to transform Bali into a modern international tourist destination, comparable to Hong Kong or Singapore. However, whether this vision can be realized after his inauguration remains to be carefully examined.

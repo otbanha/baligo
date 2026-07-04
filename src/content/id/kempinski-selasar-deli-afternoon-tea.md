@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bdbf1e9814d60a19a2a11d07a7609ac5.jpg'
 originalUrl: 'https://vocus.cc/article/6832c6c0fd897800014776ba'
 lang: id
-_srcHash: 1936005d8006f032aa7f2ce02cee91a4
+_srcHash: 735dc5c9ff6266e917093348c69b6663
 ---
 
 Sinar matahari sore menyapu lembut garis pantai Nusa Dua, Bali. Kami tiba di **Kempinski Hotel (The Apurva Kempinski Bali)**. Resort mewah yang dibangun di lereng bukit ini langsung menyuguhkan aura luar biasa dari pintu masuk—struktur kayu menjulang, ukiran Bali yang detail, kolam pusat dengan ikan koi berenang santai, anak-anak antusias mengelilinginya, seluruh ruangan dipenuhi suasana liburan yang santai.

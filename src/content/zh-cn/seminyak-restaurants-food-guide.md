@@ -22,7 +22,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_8eb6c3d66e8b70069b54f1cdf1700
 originalUrl: 'https://vocus.cc/article/683c262efd89780001852be7'
 shuffle_h2: false
 lang: zh-cn
-_srcHash: 45bf09be5ebde2148d542c4d460c9716
+_srcHash: d51561beef4055cae85bcf004d215094
 ---
 
 ![【水明漾美食推荐】Seminyak 餐厅地图：精选 15 间必吃网红咖啡厅、海滨浪漫晚餐与地道小吃](https://images.gobaligo.id/vocus/vocus_544f4a7a9bfb074d356ed849aabccd85.jpg)

@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/672c9eb5fd89780001ef6ffa'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 57c79bc601a3143facb222c7d6ef2304
+_srcHash: 2a86905d5e0ea288af4e8aaffb73d1fb
 ---
 
 2024年，當時仲係印尼總統候選人嘅Prabowo Subianto（而家已經就任印尼總統）提出咗喺峇里島北部興建「北峇里國際機場」嘅宏大計劃，目標係舒緩南部地區嘅觀光壓力，同埋透過新嘅基建帶動北部經濟發展。佢喺演講度強調，希望峇里島可以轉型做現代化嘅國際觀光勝地，就好似香港或者新加坡咁。不過，咁嘅願景喺佢就任之後係咪真係可行，仲需要仔細探討。
