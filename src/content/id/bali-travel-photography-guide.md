@@ -27,7 +27,7 @@ heroImage: >-
   https://images.gobaligo.id/images/2026-06/1782575521156-traditional_costume.jpg
 originalUrl: 'https://vocus.cc/article/693f6a41fd89780001862bd4'
 lang: id
-_srcHash: 305a7a0bcb7b501e073fe04c65fba4b1
+_srcHash: d337da9dbb4429087452014605532ecd
 ---
 
 Bali punya pemandangan alam yang super beragam dan budaya yang dalem banget. Dari sawah terasering, gunung, pantai, sampai pura dan jalanan kota — setiap sudutnya Instagramable abis.

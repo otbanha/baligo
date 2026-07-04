@@ -22,7 +22,7 @@ heroImage: >-
   https://images.gobaligo.id/images/2026-06/1782575521156-traditional_costume.jpg
 originalUrl: 'https://vocus.cc/article/693f6a41fd89780001862bd4'
 lang: zh-cn
-_srcHash: 305a7a0bcb7b501e073fe04c65fba4b1
+_srcHash: d337da9dbb4429087452014605532ecd
 ---
 
 巴厘岛拥有多样化的自然景观与深厚文化底蕴。从梯田、火山、海滩，到寺庙与街景，每一处都充满画面感。

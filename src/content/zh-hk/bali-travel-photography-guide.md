@@ -22,7 +22,7 @@ heroImage: >-
   https://images.gobaligo.id/images/2026-06/1782575521156-traditional_costume.jpg
 originalUrl: 'https://vocus.cc/article/693f6a41fd89780001862bd4'
 lang: zh-hk
-_srcHash: 305a7a0bcb7b501e073fe04c65fba4b1
+_srcHash: d337da9dbb4429087452014605532ecd
 ---
 
 峇里島有好多唔同嘅自然景觀同深厚文化底蘊。由梯田、火山、沙灘，到神廟同街景，每個地方都好有畫面感。

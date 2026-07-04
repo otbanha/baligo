@@ -28,7 +28,7 @@ heroImage: >-
   https://images.gobaligo.id/images/2026-06/1782575521156-traditional_costume.jpg
 originalUrl: 'https://vocus.cc/article/693f6a41fd89780001862bd4'
 lang: en
-_srcHash: 305a7a0bcb7b501e073fe04c65fba4b1
+_srcHash: d337da9dbb4429087452014605532ecd
 ---
 Bali offers diverse natural landscapes and deep cultural heritage. From rice terraces, volcanoes, and beaches to temples and street scenes, every corner is picture-perfect.
 
