@@ -19,7 +19,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d66488cbf12527aba9885db31c4f0b5a.jpg'
 originalUrl: 'https://vocus.cc/article/65ff99e2fd897800016c300e'
 lang: id
-_srcHash: 50d15a396f3002cf741ce2abb3e03d1b
+_srcHash: b05f6f3d4e18d68167549038c35f79d9
 ---
 
 Sanur adalah salah satu kawasan di Bali yang super cocok buat liburan keluarga. Pantainya berpasir halus, cuacanya cerah, harga-harga relatif murah, ditambah banyak fasilitas seru buat anak-anak, jadi pilihan utama buat keluarga yang liburan bareng si kecil.

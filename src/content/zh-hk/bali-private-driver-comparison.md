@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65b332dbfd89780001708a23'
 category:
   - 叫車包車
 lang: zh-hk
-_srcHash: 6a71336b3e6a40764821d34a65435e78
+_srcHash: 21c36430bfdace16e3fec17f47899455
 ---
 
 當你計劃去峇里島旅行，揀一位優質嘅司機對你嘅旅行體驗好重要。喺呢篇文章入面，我哋會詳細分析點解社團推薦嘅優質司機好過隨機喺Klook上搵嘅司機。

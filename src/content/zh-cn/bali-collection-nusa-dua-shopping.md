@@ -23,7 +23,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_ddd14d39231e5b7db312805242b99
 originalUrl: 'https://vocus.cc/article/64db6b58fd897800013a8ea3'
 updatedDate: 2026-05-26T00:00:00.000Z
 lang: zh-cn
-_srcHash: 440198e007dd8b32a353e78691d6d632
+_srcHash: 6da0e73c0570e519d696027d796d2052
 ---
 来到南湾/Nusa Dua/沙努必逛的购物中心。晚餐/采购一站完成的好地方！
 

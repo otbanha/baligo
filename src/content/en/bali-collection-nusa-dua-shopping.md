@@ -29,7 +29,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_ddd14d39231e5b7db312805242b99
 originalUrl: 'https://vocus.cc/article/64db6b58fd897800013a8ea3'
 updatedDate: 2026-05-26T00:00:00.000Z
 lang: en
-_srcHash: 440198e007dd8b32a353e78691d6d632
+_srcHash: 6da0e73c0570e519d696027d796d2052
 ---
 A must-visit shopping center in South Bay/Nusa Dua/Sanur. The perfect place for dinner and shopping in one stop!
 

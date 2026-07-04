@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7b910f08903a18106fd6d774cdcb0a4e.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b5cfd897800013a9015'
 lang: zh-cn
-_srcHash: f8dc83aa828a66ea396d3fad965f89cd
+_srcHash: 339418d04ae95e1b6755e60225adc25d
 ---
 
 巴厘岛，不仅仅是一个迷人的旅游胜地，更是一个美食爱好者的天堂。当您踏上这片热带天堂的土地，除了欣赏绝美的海滩风景，参与当地文化活动，探索古老寺庙，享受浪漫日落，还有一件重要的事情您绝对不应该错过：品尝巴厘岛的美味佳肴。而当您准备离开这片美丽的土地，别忘了带一些美食类的伴手礼回家，让您的味蕾继续感受巴厘岛的魔力！

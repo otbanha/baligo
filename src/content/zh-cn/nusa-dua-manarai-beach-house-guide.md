@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a0202a8fecbbe830196c5755e35cdd7b.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b57fd897800013a8e48'
 lang: zh-cn
-_srcHash: c0ccf69520a421f9c344cdeb914946d9
+_srcHash: 715831c3c6002dbc143579146e2b1053
 ---
 
 如果你正在规划巴厘岛的行程，想要找一个既能疯狂打卡拍照、食物超有水准，又能躺一整天放空的地方，那真的直接把这家存进你的清单 就对了！

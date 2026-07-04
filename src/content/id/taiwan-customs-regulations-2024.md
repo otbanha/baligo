@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/66888b2cfd897800017a30c6'
 category:
   - 簽證通關
 lang: id
-_srcHash: ae3798dbb5ce32043260eb7700a552d5
+_srcHash: f72db22e34547a08e59355ee9261e0c2
 ---
 
 ![2024 Masuk Taiwan Wajib Tahu Aturan Ini, Bawa Barang Salah B](https://images.gobaligo.id/vocus/vocus_75accaa2bc49a2e100d7be4df6a8016b.jpg)

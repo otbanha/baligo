@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/64db6b71fd897800013a942c'
 category:
   - 美食景點活動
 lang: id
-_srcHash: 37de016d634520b4c9430a03a630f836
+_srcHash: b59e303db06e5a953fdf46502c95e6c2
 ---
 
 ![Bali Travelog｜Rahasia Air Terjun Bali yang Belum Banyak Oran](https://images.gobaligo.id/vocus/vocus_58deb853e5219dd7c4a2a06f4c88a79f.jpg)

@@ -32,7 +32,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 30406289ce17ea0c17eb2edca258d00f
+_srcHash: 610636b007679199d64f59c598fdfc10
 ---
 Bali’s villa market has been a bit unsettled lately. I recently attended the Bali Villa Connect 2026 forum, where industry heavyweights gathered, and it became clear the government means business—not only are they establishing an official rating system, but they’re also cracking down hard on unlicensed illegal rentals. For many villa owners, this is both a challenge and an opportunity to restructure the market.
 

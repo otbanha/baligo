@@ -30,7 +30,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 30406289ce17ea0c17eb2edca258d00f
+_srcHash: 610636b007679199d64f59c598fdfc10
 ---
 
 Pasar villa di Bali belakangan lagi panas-panasnya. Beberapa waktu lalu gue ikut forum Bali Villa Connect 2026, dan ternyata para pelaku industri besar pada kumpul. Baru sadar kalau pemerintah udah beneran serius—nggak cuma bikin sistem rating resmi, tapi juga bakal razia ketat penginapan ilegal tanpa izin. Buat banyak pemilik villa, ini既是 tantangan, juga kesempatan buat nata ulang pasar.

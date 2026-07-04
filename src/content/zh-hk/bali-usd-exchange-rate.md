@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/663261fdfd89780001f490fc'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 411134a517f0218b21f50f8fecd2a788
+_srcHash: 14dcb1190eced83d9e1a5cd794ba5648
 ---
 喺峇里島旅遊，好多人都會遇到換匯嘅問題，尤其係喺社交平台，成日有人問：換匯嗰陣，大紙嘅美金同細紙嘅係咪有差價？
 

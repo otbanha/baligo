@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/64db6b71fd897800013a942c'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: 37de016d634520b4c9430a03a630f836
+_srcHash: b59e303db06e5a953fdf46502c95e6c2
 ---
 
 ![峇里島遊記｜你所不知道嘅印尼峇里島瀑布秘密！｜烏布景點老司機帶路 賞瀑布免鐵腿｜離烏布最近嘅瀑布 Tegenungan ](https://images.gobaligo.id/vocus/vocus_58deb853e5219dd7c4a2a06f4c88a79f.jpg)

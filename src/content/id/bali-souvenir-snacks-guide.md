@@ -18,7 +18,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7b910f08903a18106fd6d774cdcb0a4e.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b5cfd897800013a9015'
 lang: id
-_srcHash: f8dc83aa828a66ea396d3fad965f89cd
+_srcHash: 339418d04ae95e1b6755e60225adc25d
 ---
 Bali, bukan cuma tempat liburan yang memukau, tapi juga surga bagi pecinta kuliner. Begitu kamu menginjakkan kaki di pulau tropis ini, selain menikmati pantai yang cantik, ikut kegiatan budaya lokal, menjelajahi pura kuno, dan menikmati sunset romantis, ada satu hal penting yang nggak boleh kamu lewatkan: mencicipi makanan enak khas Bali. Dan saat kamu siap pulang, jangan lupa bawa oleh-oleh makanan biar lidahmu tetap merasakan keajaiban Bali!
 

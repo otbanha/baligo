@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/64db6b71fd897800013a942c'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 37de016d634520b4c9430a03a630f836
+_srcHash: b59e303db06e5a953fdf46502c95e6c2
 ---
 
 ![巴厘岛游记｜你所不知道的印尼巴厘岛瀑布秘密！｜乌布景点老司机带路 赏瀑布免铁腿｜离乌布最近的瀑布 Tegenungan ](https://images.gobaligo.id/vocus/vocus_58deb853e5219dd7c4a2a06f4c88a79f.jpg)

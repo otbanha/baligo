@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/65b332dbfd89780001708a23'
 category:
   - 叫車包車
 lang: id
-_srcHash: 6a71336b3e6a40764821d34a65435e78
+_srcHash: 21c36430bfdace16e3fec17f47899455
 ---
 
 Pas kamu rencanain liburan ke Bali, milih sopir yang oke itu krusial buat pengalaman traveling kamu. Di artikel ini, kita bakal bahas tuntas kenapa sopir rekomendasi komunitas lebih unggul daripada sopir random yang kamu temuin di Klook.

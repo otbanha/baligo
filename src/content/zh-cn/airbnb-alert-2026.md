@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 30406289ce17ea0c17eb2edca258d00f
+_srcHash: 610636b007679199d64f59c598fdfc10
 ---
 
 巴厘岛的Villa市场最近有点不平静。前阵子参加了巴厘岛Villa Connect 2026论坛，看到业界大咖齐聚一堂，才发现政府动真格了——不只要建立官方分级制度，还要严查无执照的非法民宿。这对很多villa业主来说，既是挑战，也可能是重整市场秩序的机会。

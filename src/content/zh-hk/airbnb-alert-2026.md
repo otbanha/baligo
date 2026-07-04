@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: 30406289ce17ea0c17eb2edca258d00f
+_srcHash: 610636b007679199d64f59c598fdfc10
 ---
 
 峇里島嘅Villa市場最近有啲唔平靜。前排參加咗峇里島Villa Connect 2026論壇，見到業界大咖齊集一堂，先發現政府動真格——唔單止要建立官方分級制度，仲要嚴查冇牌照嘅非法民宿。呢個對好多villa業主嚟講，係挑戰，亦可能係重整市場秩序嘅機會。
