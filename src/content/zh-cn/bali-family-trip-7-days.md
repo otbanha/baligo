@@ -16,7 +16,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: zh-cn
-_srcHash: 3efea5236ba1d6917fee1afd2fcef9e3
+_srcHash: 5bcea1edb0a4ba05ef54c4e151e224f7
 ---
 
 这篇游记是由团友[Serena](https://www.facebook.com/100004740466944/)提供，记录了一个带着两个小朋友，五大二小家庭的亲子游巴厘岛之旅。在这次旅程中，他们与导游兼司机小钟Pacung Bali共度了七天的美好时光。通过详细的行程安排和景点推荐，他们探索了巴厘岛的各个角落，品尝了当地的美食，体验了丰富的水上活动，并留下了许多珍贵的回忆和美丽的照片。

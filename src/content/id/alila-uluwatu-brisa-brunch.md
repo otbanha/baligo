@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1c2d2e6554a3c1476ff9cef36bf2689b.jpg'
 originalUrl: 'https://vocus.cc/article/68451457fd89780001df60be'
 lang: id
-_srcHash: 8863bf03cd1589851b70b830f00c3c9c
+_srcHash: 60f58cc88ab8285a433eae8b22d1f268
 ---
 
 Berdiri di teras CIRE Restaurant Alila Villas Uluwatu, angin laut Samudra Hindia membelai wajah, dan di bawah kaki ada pemandangan tebing yang bikin napas terhenti. Ini bukan brunch biasa — ini maraton rasa dari siang sampai senja.

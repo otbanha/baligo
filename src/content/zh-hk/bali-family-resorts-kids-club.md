@@ -36,7 +36,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_01d41c15bdf5138beb0b256db4eba4ae.jpg'
 originalUrl: 'https://vocus.cc/article/66405077fd89780001f23b72'
 lang: zh-hk
-_srcHash: 2d0262fe04723d94bb4ea433f48faa63
+_srcHash: d9c105c37b87ecd1401e63eec4b84d34
 ---
 
 ![峇里島18間 kids club 親子度假村｜庫塔、水明漾、坎古、金巴蘭、烏魯瓦圖、烏布最啱家庭度假嘅選擇](https://images.gobaligo.id/vocus/vocus_5d06839bba40b17acc603bb277be77ec.jpg)

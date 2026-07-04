@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/66bea086fd8978000125a35f'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: 12c832c778111d9e2902524e78ed2e6b
+_srcHash: 5c2420315a0c77d1feb66457e404aba2
 ---
 
 ![峇里島 Mt. Batur 巴杜爾火山日出行山探險：10個注意事項令旅程更順利！](https://images.gobaligo.id/vocus/vocus_e675647a85c3d26ed3164cb736288d9a.jpg)

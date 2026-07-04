@@ -30,7 +30,7 @@ agoda_star_rating: 5
 latitude: -8.678791999816895
 longitude: 115.14952087402344
 lang: id
-_srcHash: 09778b047643aa687902d8fb114e425f
+_srcHash: 8431f04ad23cdc445857f068ef9db368
 ---
 
 Selama liburan di Bali, aku nginep di Potato Head Suites & Studios yang ada di Seminyak. Begitu masuk hotel, langsung terpesona sama lobinya — desainnya terbuka dan luas, dipadukan dekorasi natural yang simpel, bikin langsung rileks. Ada juga 'Jamu Station' gratis yang nyediain minuman herbal tradisional Indonesia, jamu, jadi pas sampai udah bisa ngerasain suasana khas budaya lokal.

@@ -19,7 +19,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: en
-_srcHash: 3efea5236ba1d6917fee1afd2fcef9e3
+_srcHash: 5bcea1edb0a4ba05ef54c4e151e224f7
 ---
 
 This travelogue was contributed by group member [Serena](https://www.facebook.com/100004740466944/), documenting a family trip to Bali with two young children—five adults and two kids in total. During the trip, they spent seven wonderful days with their guide and driver, Xiao Zhong from Pacung Bali. With a detailed itinerary and great spot recommendations, they explored every corner of Bali, savored local cuisine, enjoyed a variety of water activities, and created many precious memories and beautiful photos.

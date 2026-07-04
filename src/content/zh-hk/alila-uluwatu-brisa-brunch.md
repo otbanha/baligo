@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1c2d2e6554a3c1476ff9cef36bf2689b.jpg'
 originalUrl: 'https://vocus.cc/article/68451457fd89780001df60be'
 lang: zh-hk
-_srcHash: 8863bf03cd1589851b70b830f00c3c9c
+_srcHash: 60f58cc88ab8285a433eae8b22d1f268
 ---
 企喺Alila Villas Uluwatu嘅CIRE餐廳露台上，印度洋嘅海風輕輕吹過臉頰，腳下係令人屏息嘅懸崖海景。呢個唔係普通嘅早午餐約會，而係一場從正午持續到黃昏嘅味覺馬拉松。
 

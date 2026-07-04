@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1c2d2e6554a3c1476ff9cef36bf2689b.jpg'
 originalUrl: 'https://vocus.cc/article/68451457fd89780001df60be'
 lang: en
-_srcHash: 8863bf03cd1589851b70b830f00c3c9c
+_srcHash: 60f58cc88ab8285a433eae8b22d1f268
 ---
 
 Standing on the terrace of CIRE restaurant at Alila Villas Uluwatu, the Indian Ocean breeze gently caresses your cheeks while the awe-inspiring cliffside view stretches beneath your feet. This isn't just any brunch date—it's a gastronomic marathon that lasts from noon until dusk.

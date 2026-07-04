@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/673be498fd89780001da159b'
 category:
   - 美食景點活動
 lang: id
-_srcHash: cc63d2cd55e68d902595329253abf5ae
+_srcHash: 71903762981953087252595aaf2e2b69
 ---
 
 ![Maluku versi budget: Surga Pulau di Indonesia Timur](https://images.gobaligo.id/vocus/vocus_17da9c41fcd163fd15b07a37a4a2e397.jpg)

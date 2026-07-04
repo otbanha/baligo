@@ -16,7 +16,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: zh-hk
-_srcHash: 3efea5236ba1d6917fee1afd2fcef9e3
+_srcHash: 5bcea1edb0a4ba05ef54c4e151e224f7
 ---
 
 呢篇遊記係由團友[Serena](https://www.facebook.com/100004740466944/)提供，記錄咗一個帶住兩個小朋友，五大二小家庭嘅親子遊峇里島之旅。喺呢次旅程入面，佢哋同導遊兼司機小鍾Pacung Bali一齊過咗七日嘅美好時光。透過詳細嘅行程安排同景點推薦，佢哋探索咗峇里島嘅各個角落，品嚐咗當地嘅美食，體驗咗豐富嘅水上活動，仲留低咗好多珍貴嘅回憶同靚相。

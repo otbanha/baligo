@@ -25,7 +25,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_76e38d210548a0325c57cff7d30479ce.png'
 originalUrl: 'https://vocus.cc/article/65a51edbfd89780001ffc7b2'
 lang: id
-_srcHash: 5e7e366520c6b19e1eef61d0ca8a87ba
+_srcHash: f272de860d942d9db7cbf5b04bbeff1d
 ---
 Punya anak yang doyan banget main air? Atau si kecil yang suka berenang dan main di kolam? Atau mungkin ada petualang cilik yang wajib coba seluncuran air?
 

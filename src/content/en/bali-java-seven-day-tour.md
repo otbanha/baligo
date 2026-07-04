@@ -22,7 +22,7 @@ tags:
 originalUrl: 'https://vocus.cc/article/693d795efd8978000108c657'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_97dd578dfb813e3b6110fcd782d9053f.jpg'
 lang: en
-_srcHash: 14eb3f27b633d1ec46cbbf2fa8f905c6
+_srcHash: 196b3fa5d690be5394976d8c3203c1b4
 ---
 
 ## Light Luxury No-Shopping 7-Day In-Depth Tour ⭐⭐

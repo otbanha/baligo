@@ -25,7 +25,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-07/1782905630420-honeymoon36.jpg'
 originalUrl: 'https://vocus.cc/article/65d0e089fd89780001320e4c'
 lang: id
-_srcHash: e37955b964de452a596b164bfdd3ae60
+_srcHash: 6266ee89f8d8ff8f124fe0ce72eb286c
 ---
 Baru-baru ini dirilis '10 Destinasi Romantis Global Teratas', berdasarkan data besar platform perjalanan Agoda, Bali menduduki peringkat keenam dunia (lihat di sini). Sementara itu, data statistik TripAdvisor 2024 menempatkan Bali sebagai destinasi bulan madu nomor satu, mengalahkan Maladewa jadi juara dunia!
 

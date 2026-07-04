@@ -24,7 +24,7 @@ originalUrl: 'https://vocus.cc/article/66bea086fd8978000125a35f'
 category:
   - 美食景點活動
 lang: id
-_srcHash: 12c832c778111d9e2902524e78ed2e6b
+_srcHash: 5c2420315a0c77d1feb66457e404aba2
 ---
 
 ![Bali Mt. Batur Sunrise Trekking Adventure: 10 Hal yang Perlu](https://images.gobaligo.id/vocus/vocus_e675647a85c3d26ed3164cb736288d9a.jpg)
