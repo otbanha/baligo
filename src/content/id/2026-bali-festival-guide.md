@@ -19,7 +19,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b3815d5a3d738321cc3c3feb6481c2d8.png'
 originalUrl: 'https://vocus.cc/article/696a37c5fd89780001f0790b'
 lang: id
-_srcHash: 344ecd5eca13cd1f7e5a989dbfa190f7
+_srcHash: b7a644c08e050329b01de50d1817e270
 ---
 
 Bali, surga tropis yang memesona di Nusantara, akan menyambut setiap traveler yang mencari inspirasi dan kegembiraan dengan deretan festival budaya yang penuh warna di tahun 2026. Mau menghindari keramaian atau pengen banget larut dalam perayaan lokal, panduan ini bakal nerangin jalan dan ngajak kamu merasakan energi serta ritme unik Pulau Dewata. Yuk, mulai petualangan dan eksplorasi warna-warni semangat Bali yang hangat dan penuh gairah!
