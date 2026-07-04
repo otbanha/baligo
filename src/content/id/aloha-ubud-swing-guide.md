@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/669a60fffd89780001d61fb5'
 category:
   - 美食景點活動
 lang: id
-_srcHash: 4de1639af35acaa325e9ea8d93d94a92
+_srcHash: 4ee0af1abe97cb673d51de5ddd3cdae4
 ---
 
 Aloha Ubud Swing adalah salah satu destinasi wisata yang unik dan populer di Bali, terletak di daerah Tegallalang, Kabupaten Gianyar. Tempat ini nggak cuma menawarkan pemandangan alam yang memukau, tapi juga punya berbagai jenis ayunan dengan ketinggian berbeda yang bisa kamu pilih — cocok banget buat hunting foto kece.

@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/665ef28dfd89780001adfa98'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 06765aa498bec0876207dbffcdfae17b
+_srcHash: 49302fe023180f05d772eb266370593c
 ---
 
 巴厘岛是许多旅人心目中的度假胜地，结合热带风情与独特文化，吸引无数人前往体验。不过，选择适当的旅游时节对于旅游品质和预算控制来说，也是相当重要的考量。

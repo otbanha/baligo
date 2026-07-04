@@ -23,7 +23,7 @@ heroImage: >-
   https://images.gobaligo.id/images/2026-06/1781830647501-bali-souvenir-guide.jpg
 originalUrl: 'https://vocus.cc/article/664dcf84fd8978000131e5f4'
 lang: id
-_srcHash: b0d4234c1ec5049d6109c4ed54b46e51
+_srcHash: 6f45f7f405c8f516e98a66ace01fce0e
 ---
 
 Update: 19/06/2026

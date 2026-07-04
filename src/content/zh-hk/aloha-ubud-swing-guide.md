@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/669a60fffd89780001d61fb5'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: 4de1639af35acaa325e9ea8d93d94a92
+_srcHash: 4ee0af1abe97cb673d51de5ddd3cdae4
 ---
 
 Aloha Ubud Swing 係峇里島上一個獨特又受歡迎嘅旅遊景點，位於 Gianyar 縣嘅德哥拉朗地區。呢度唔單止有令人驚嘆嘅自然風光，仲提供多種唔同高度同類型嘅鞦韆，畀遊客選擇，成為影靚相嘅理想地點。

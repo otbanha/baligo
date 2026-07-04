@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/665ef28dfd89780001adfa98'
 category:
   - 旅行技巧
 lang: id
-_srcHash: 06765aa498bec0876207dbffcdfae17b
+_srcHash: 49302fe023180f05d772eb266370593c
 ---
 Bali itu destinasi liburan favorit banyak orang. Perpaduan nuansa tropis dan budaya uniknya bikin siapa pun betah. Tapi, milih waktu yang tepat buat liburan juga penting banget, baik buat kenyamanan maupun buat ngatur budget.
 

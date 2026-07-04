@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_c5c780a9262d6901c2139405a9097e28.jpg'
 originalUrl: 'https://vocus.cc/article/67375f47fd89780001591deb'
 lang: id
-_srcHash: 656b1545a71b9641292a8a2098720540
+_srcHash: 93a48ccac56cf3786bafde0597500836
 ---
 
 Hotel mewah top di Bali, The Apurva Kempinski Bali, makin ngegaskan posisinya sebagai pemimpin di industri perjalanan global. Meski baru buka tahun 2022, di ajang **Ultimate Luxury Travel Related Awards (ULTRAs) ke-18 tahun 2024**, hotel ini langsung menyabet gelar '**Best Sustainable Hotel**' (Hotel Berkelanjutan Terbaik). Penghargaan internasional ini mengakui keunggulan hotel dalam hal kemewahan berkelanjutan, serta komitmen penuh terhadap prinsip lingkungan, sosial, dan tata kelola perusahaan (ESG).
