@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/65c1defcfd89780001f79bfd'
 category:
   - 簽證通關
 lang: id
-_srcHash: 97083fce0d5810fae52a804187d6d01c
+_srcHash: ca4898268b6595e814f63cf5fe0c17aa
 ---
 
 ## Apa Itu Autogate?

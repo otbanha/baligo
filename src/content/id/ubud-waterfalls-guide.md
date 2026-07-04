@@ -20,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e74bbb16a16cd1b0f28c1d1b99c23329.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b82fd897800013a995f'
 lang: id
-_srcHash: 52c77d250b18d30c38c68fb29d904b1f
+_srcHash: 00f0cb5937379e309614c1232d87cf03
 ---
 Ubud adalah kota kecil yang tenang di pusat Bali, terkenal banget sama keindahan alamnya yang memukau dan warisan budayanya. Di sini, ada banyak air terjun yang bikin para pecinta alam dari seluruh dunia penasaran. Nah, di artikel ini kita bakal jelajahi tiga air terjun terkenal di dekat Ubud: Air Terjun Tegenungan, Air Terjun Kanto Lampo, dan Air Terjun Tukad Cepung. Masing-masing punya pesona dan daya tarik unik yang bakal kasih pengalaman alam yang nggak terlupakan.
 

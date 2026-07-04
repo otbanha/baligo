@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_518bf6250894fe40dd8bb2a87de767b5.jpg'
 originalUrl: 'https://vocus.cc/article/666425e6fd8978000121dadc'
 lang: id
-_srcHash: 286b0a2361f5b56f3be62d5e20430000
+_srcHash: ef88176819817df1db02b8582f812a5e
 ---
 Sebagai destinasi belanja premium di Bali, Mal Icon Bali resmi hadir di Sanur, tepatnya di Jalan Danau Tamblingan No. 27. Akhirnya, Icon Bali resmi beroperasi pada Jumat, 7 Juni 2024!
 

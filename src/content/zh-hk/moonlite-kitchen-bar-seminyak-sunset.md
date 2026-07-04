@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7295bd05ce06f285fb7199e08ebfda80.jpg'
 originalUrl: 'https://vocus.cc/article/6794ca61fd89780001127add'
 lang: zh-hk
-_srcHash: de30b44dc452957a1c137e8be873a321
+_srcHash: 72a7a2a4947152a5cb29b5a51ef8ec2e
 ---
 
 如果你正計劃緊去峇里島旅行，水明漾嘅MoonLite Kitchen and Bar絕對係一個值得列入行程嘅餐廳。呢間餐廳唔單止榮獲2024年Travelers' Choice獎項，仲以其絕佳嘅天台位置同迷人嘅日落景色聞名，成為好多遊客同當地人嘅熱門選擇。

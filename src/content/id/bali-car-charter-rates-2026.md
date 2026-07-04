@@ -5,9 +5,9 @@ title: >-
 slug: bali-car-charter-rates-2026
 description: >-
   Pengumuman resmi dari tim driver Bali. Mulai 1 Juli 2026, harga sewa mobil di
-  seluruh pulau akan ada penyesuaian kecil. Artikel ini merinci tarif terbaru
-  (5 penumpang hemat, ruang lega, bus grup), perhitungan biaya lembur, dan
-  detail biaya antar zona.
+  seluruh pulau akan ada penyesuaian kecil. Artikel ini merinci tarif terbaru (5
+  penumpang hemat, ruang lega, bus grup), perhitungan biaya lembur, dan detail
+  biaya antar zona.
 pubDate: 2026-06-13T00:00:00.000Z
 pubHour: 18
 category:
@@ -29,7 +29,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: ea4815b69a3bd1980e5d03164eef97b3
+_srcHash: 763d10ac1ea839770fff5291fddc13d0
 ---
 Update: 2026/06/16
 

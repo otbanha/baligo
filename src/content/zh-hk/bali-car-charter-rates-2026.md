@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: ea4815b69a3bd1980e5d03164eef97b3
+_srcHash: 763d10ac1ea839770fff5291fddc13d0
 ---
 
 ### 📢 嚟自峇里島司機團隊嘅公告：包車服務價格調整（2026年7月1日起生效）

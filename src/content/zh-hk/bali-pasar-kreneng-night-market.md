@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/64db6b78fd897800013a963e'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: 1289e00e9ae25d7cdc0b8d225a4748d9
+_srcHash: e3deef8b4ae636545d3eb317ef945139
 ---
 
 ![【深入峇里島】峇里島夜市街頭小食｜峇里島夜市 Pasar Kreneng 係峇里島最大嘅夜市｜有咩係峇里島夜市必食、必買](https://images.gobaligo.id/vocus/vocus_994e1b38fe9e5ae02d04c9e178525e3b.jpg)

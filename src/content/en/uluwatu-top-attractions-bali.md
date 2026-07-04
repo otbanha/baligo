@@ -19,7 +19,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/8mzJm_UrjSg'
 lang: en
-_srcHash: 0c61c3621a3b617b22c5bef0108dc132
+_srcHash: 9ed7fbc6e099bf1317a4baee1a4b0538
 ---
 
 ![Top 10 Attractions/Must-Do Activities in Uluwatu, Bali](https://images.gobaligo.id/vocus/vocus_dd3f3b7cadfa7c280b3748820ff69beb.jpg)

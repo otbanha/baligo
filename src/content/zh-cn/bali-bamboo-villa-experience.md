@@ -35,7 +35,7 @@ agoda_star_rating: 4
 latitude: -8.508825619969254
 longitude: 115.25057328414368
 lang: zh-cn
-_srcHash: b57669193f511efc73c74b04b27d7b60
+_srcHash: e417f8bd5ee40cab502b26e4fe058d00
 ---
 
 ![巴厘岛一晚居然不到$2,000!? 住这里是什么感觉? 体验巴厘岛隐世竹子民宿](https://images.gobaligo.id/vocus/vocus_c62a1ab2c4b39417175e2de5c99ef7b0.jpg)

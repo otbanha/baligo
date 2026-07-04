@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/64db6b78fd897800013a963e'
 category:
   - 美食景點活動
 lang: id
-_srcHash: 1289e00e9ae25d7cdc0b8d225a4748d9
+_srcHash: e3deef8b4ae636545d3eb317ef945139
 ---
 
 ![【Jelajah Bali】Jajanan Kaki Lima di Pasar Malam Bali｜Pasar Kr](https://images.gobaligo.id/vocus/vocus_994e1b38fe9e5ae02d04c9e178525e3b.jpg)

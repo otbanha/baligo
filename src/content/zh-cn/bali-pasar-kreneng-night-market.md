@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/64db6b78fd897800013a963e'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 1289e00e9ae25d7cdc0b8d225a4748d9
+_srcHash: e3deef8b4ae636545d3eb317ef945139
 ---
 
 ![【深入巴厘岛】巴厘岛夜市街头小吃｜巴厘岛夜市 Pasar Kreneng 是巴厘岛最大的夜市｜有什么是巴厘岛夜市美食必吃](https://images.gobaligo.id/vocus/vocus_994e1b38fe9e5ae02d04c9e178525e3b.jpg)

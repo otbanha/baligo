@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0000ef7e983fe143673d4acad378284d.jpg'
 originalUrl: 'https://vocus.cc/article/68404e54fd89780001530054'
 lang: zh-hk
-_srcHash: 1f6b66f9749efbf860430c692f4872e8
+_srcHash: d222516f5f835c548e3a9d5dbe4ba09d
 ---
 
 ![浪漫雙人船上用餐體驗：烏布卡曼達魯嘅錦鯉漂流河盛宴](https://images.gobaligo.id/vocus/vocus_94270edad192312ca18cd296ef31f4ae.jpg)

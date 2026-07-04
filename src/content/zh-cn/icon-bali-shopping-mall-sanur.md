@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_518bf6250894fe40dd8bb2a87de767b5.jpg'
 originalUrl: 'https://vocus.cc/article/666425e6fd8978000121dadc'
 lang: zh-cn
-_srcHash: 286b0a2361f5b56f3be62d5e20430000
+_srcHash: ef88176819817df1db02b8582f812a5e
 ---
 
 Icon Bali Mall 作为巴厘岛的顶级购物目的地，正式在巴厘岛亮相。位于 Sanur 的 Jalan Danau Tamblingan No. 27，Icon Bali 终于在 2024 年 6 月 7 日星期五正式运营了！

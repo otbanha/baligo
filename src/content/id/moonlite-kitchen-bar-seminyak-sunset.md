@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7295bd05ce06f285fb7199e08ebfda80.jpg'
 originalUrl: 'https://vocus.cc/article/6794ca61fd89780001127add'
 lang: id
-_srcHash: de30b44dc452957a1c137e8be873a321
+_srcHash: 72a7a2a4947152a5cb29b5a51ef8ec2e
 ---
 
 Kalau kamu lagi merencanakan liburan ke Bali, MoonLite Kitchen and Bar di Seminyak wajib banget masuk itinerary. Restoran ini nggak cuma menang penghargaan Travelers' Choice 2024, tapi juga terkenal dengan lokasi rooftop-nya yang kece dan pemandangan sunset yang memukau. Jadi favorit banyak turis dan lokal.

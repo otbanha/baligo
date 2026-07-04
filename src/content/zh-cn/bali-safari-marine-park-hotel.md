@@ -23,7 +23,7 @@ agoda_star_rating: 4
 latitude: -8.586938858032227
 longitude: 115.34322357177734
 lang: zh-cn
-_srcHash: db9b7c82739b9037278ef494b940a519
+_srcHash: 7233d66a9880586e97e130d67bd5721e
 ---
 
 ![开箱巴厘岛最大动物园！动物园酒店住宿体验 Bali Safari 在房间也能喂食动物？！](https://images.gobaligo.id/vocus/vocus_ac2d27b682ef6d668628cfd17400e43f.png)

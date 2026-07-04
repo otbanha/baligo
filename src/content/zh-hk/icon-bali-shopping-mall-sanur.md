@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_518bf6250894fe40dd8bb2a87de767b5.jpg'
 originalUrl: 'https://vocus.cc/article/666425e6fd8978000121dadc'
 lang: zh-hk
-_srcHash: 286b0a2361f5b56f3be62d5e20430000
+_srcHash: ef88176819817df1db02b8582f812a5e
 ---
 
 Icon Bali Mall 作為峇里島嘅頂級購物目的地，正式喺峇里島亮相。位於沙努爾嘅 Jalan Danau Tamblingan No. 27，Icon Bali 終於喺 2024 年 6 月 7 號星期五正式營運啦！

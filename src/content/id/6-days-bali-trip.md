@@ -19,7 +19,7 @@ update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_08443e3681ae1c13cb3f955183588745.jpg'
 originalUrl: 'https://vocus.cc/article/6948d8cafd89780001031e78'
 lang: id
-_srcHash: 5f42cf07ea9e5fa746adbe33f720df91
+_srcHash: 273ae3d88edbc2f8366f05678bd89001
 ---
 
 > Konten berikut diadaptasi dari catatan perjalanan yang dibagikan oleh anggota grup [Liao Yiwen](https://www.facebook.com/share/p/1CjoK9BEFX/):

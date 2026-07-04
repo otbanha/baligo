@@ -29,7 +29,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: ea4815b69a3bd1980e5d03164eef97b3
+_srcHash: 763d10ac1ea839770fff5291fddc13d0
 ---
 
 ### 📢 Announcement from Bali's Driver Team: Charter Service Price Adjustment (Effective July 1, 2026)

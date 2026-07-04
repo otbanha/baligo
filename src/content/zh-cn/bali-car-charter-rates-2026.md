@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: ea4815b69a3bd1980e5d03164eef97b3
+_srcHash: 763d10ac1ea839770fff5291fddc13d0
 ---
 
 ### 📢 来自巴厘岛司机团队的公告：包车服务价格调整（2026年7月1日起生效）
