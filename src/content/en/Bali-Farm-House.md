@@ -33,7 +33,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 21ddda6c6361e93f15cb5c732a17c345
+_srcHash: 6e51002554ebf2dbcc95150d6447dacc
 ---
 When people think of Bali, they usually picture sun, sand, and surf. But did you know that in the northern highlands of Bali, there's an adorable farm that feels like a European estate in Tuscany—Bali Farm House? Not only is the climate cool and refreshing, but there's also a cast of star animals from around the world waiting to interact with you. For families with kids, this will definitely become the highlight of your trip!
 

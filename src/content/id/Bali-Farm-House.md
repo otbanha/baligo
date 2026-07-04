@@ -32,7 +32,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 21ddda6c6361e93f15cb5c732a17c345
+_srcHash: 6e51002554ebf2dbcc95150d6447dacc
 ---
 
 Bicara soal Bali, yang kebayang pasti sinar matahari, pantai, dan ombak. Tapi tau gak sih? Di pegunungan utara Bali, ada sebuah peternakan super imut yang bikin kamu serasa lagi di vila Eropa ala Tuscany — namanya Bali Farm House! Di sini udaranya sejuk banget, dan ada banyak hewan dari berbagai belahan dunia yang siap diajak main. Apalagi buat kamu yang bawa anak kecil, tempat ini pasti bakal jadi favorit selama liburan!

@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 21ddda6c6361e93f15cb5c732a17c345
+_srcHash: 6e51002554ebf2dbcc95150d6447dacc
 ---
 
 说到巴厘岛，大家第一个想到的总是阳光、沙滩、海浪。但你知道吗？在巴厘岛北部山区，藏着一个让人有如置身托斯卡纳欧洲庄园的超可爱农场——Bali Farm House（巴厘岛农家乐）！这里不仅气候凉爽，还有一群来自世界各地的明星动物等着你来互动，尤其是带小孩的家长，这里绝对会成为你们旅程中的最爱！

@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_dc32299a9a4f860ee3f528879e12e632.jpg'
 originalUrl: 'https://vocus.cc/article/679aca0dfd89780001f4c434'
 lang: zh-hk
-_srcHash: b8d9fe589de91ecb44a6df7a05f06b2a
+_srcHash: 2b3c43ff9cba9d347e7e4672badc2ff9
 ---
 
 ![空姐冇話你知嘅隨身行李秘辛：登機箱挑選建議、上方行李架擺放禮儀同必備清單](https://images.gobaligo.id/vocus/vocus_49316950dc7a762a8401be7816d1dd28.jpg)

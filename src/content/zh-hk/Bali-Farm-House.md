@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: 21ddda6c6361e93f15cb5c732a17c345
+_srcHash: 6e51002554ebf2dbcc95150d6447dacc
 ---
 
 講到峇里島，大家第一個諗起嘅一定係陽光、沙灘、海浪。但你知唔知？喺峇里島北部山區，匿埋咗一個令人好似置身托斯卡納歐洲莊園咁嘅超可愛農場——Bali Farm House（峇里島農家樂）！呢度唔單止氣候涼爽，仲有一班嚟自世界各地嘅明星動物等你嚟互動，尤其係帶細路嘅家長，呢度絕對會成為你哋旅程中最愛嘅地方！

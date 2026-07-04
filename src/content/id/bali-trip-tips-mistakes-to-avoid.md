@@ -18,7 +18,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2b27e03403af45df112cf1bcec1f3aec.png'
 originalUrl: 'https://vocus.cc/article/6691f675fd89780001832a5b'
 lang: id
-_srcHash: c7c839f9af8339206038edcf25a9d806
+_srcHash: efc61a95dce192fc35bb6d7b3f1d6a22
 ---
 
 > Konten di bawah ini disusun ulang dari cerita anggota grup [Li Wallis](https://www.facebook.com/share/p/JqkCsRBtYLDZtsnV/):
