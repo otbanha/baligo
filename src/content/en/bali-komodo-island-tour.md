@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/66dd1eb3fd897800015bf1d0'
 category:
   - 遊記分享
 lang: en
-_srcHash: 982cf84d358bdbe2150bdf0c134be6e1
+_srcHash: 40e40ec8d242c69a93d487ffb90839a9
 ---
 
 > The following content is adapted from fellow traveler [Tyty Chow](https://www.facebook.com/groups/baligo/permalink/1591753798038526/)'s travelogue:

@@ -10,7 +10,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fc7f3da47eadb345f044cbd06455d214.jpg'
 originalUrl: 'https://vocus.cc/article/6712fb1dfd89780001f69011'
 lang: zh-cn
-_srcHash: 29196d394ec8113ed85cb7d7b8b02265
+_srcHash: fe0715cd5bd194c583ededc3609069a1
 ---
 
 乌布（Ubud）作为巴厘岛文化与艺术的中心，拥有多个极具特色的艺术市场，每一处都蕴含着独特的魅力与宝藏。今天就让我们一起探索这五个必访的艺术市场，感受巴厘岛最地道的文化氛围。

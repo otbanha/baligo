@@ -29,7 +29,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-06/1781584652116-tanah_lot.jpg'
 originalUrl: 'https://vocus.cc/article/671f86f1fd89780001de9fae'
 lang: en
-_srcHash: aa2ba4e3a3c479b100b45eed2ae9dd5a
+_srcHash: bdb9c5405704b411b729baa2c74d61bb
 ---
 
 Located in the Tabanan region of Bali, Tanah Lot Temple sits on a rocky islet in the sea, making it one of Bali's most iconic religious sites. Here, you can not only enjoy stunning sunsets and waves crashing against the rocky shore but also partake in a variety of activities that draw travelers from around the world. This article will provide you with a detailed introduction to Tanah Lot's history, activities, tide information, and accommodation tips, ensuring your Bali trip is even more memorable.

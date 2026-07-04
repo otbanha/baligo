@@ -29,7 +29,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-06/1781584652116-tanah_lot.jpg'
 originalUrl: 'https://vocus.cc/article/671f86f1fd89780001de9fae'
 lang: id
-_srcHash: aa2ba4e3a3c479b100b45eed2ae9dd5a
+_srcHash: bdb9c5405704b411b729baa2c74d61bb
 ---
 
 Terletak di kawasan Tabanan, Bali, Pura Tanah Lot berdiri di atas pulau karang di tengah laut, jadi salah satu ikon religi paling ikonik di Bali. Di sini kamu nggak cuma bisa menikmati sunset yang spektakuler dan deburan ombak yang menghantam karang, tapi juga banyak aktivitas seru yang bikin wisatawan dari seluruh dunia penasaran buat explore. Artikel ini bakal ngebahas tuntas sejarah Pura Tanah Lot, aktivitas seru, info pasang surut, dan rekomendasi penginapan, biar liburanmu ke Bali makin berkesan.

@@ -22,7 +22,7 @@ category:
   - 家庭親子
   - 美食景點活動
 lang: en
-_srcHash: 43b0081549c4a1f5d85271ee68273e88
+_srcHash: f8c9e7a619ed19d1f1c7bba1f8d50d0c
 ---
 
 ![【Bali Family-Friendly Attraction】Jungle Kids Bali Nuanu's Ki](https://images.gobaligo.id/vocus/vocus_4d890c56008750b221724ab34dc371a1.png)

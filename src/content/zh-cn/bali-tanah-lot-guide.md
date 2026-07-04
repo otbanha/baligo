@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-06/1781584652116-tanah_lot.jpg'
 originalUrl: 'https://vocus.cc/article/671f86f1fd89780001de9fae'
 lang: zh-cn
-_srcHash: aa2ba4e3a3c479b100b45eed2ae9dd5a
+_srcHash: bdb9c5405704b411b729baa2c74d61bb
 ---
 
 位于巴厘岛塔巴南（Tabanan）区的海神庙（Tanah Lot），坐落在一座海中岩石的小岛上，成为巴厘岛最具象征性的宗教景点之一。这里不仅可以欣赏壮丽的夕阳和海浪冲击岩岸的美景，还有许多值得一试的活动，吸引了世界各地的游客前来探索。本文将为您详细介绍海神庙的历史、游览活动、潮汐信息和住宿建议，让您的巴厘岛之行更加精彩。

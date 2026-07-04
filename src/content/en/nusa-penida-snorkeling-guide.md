@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d4e931135ea55fd309372f2872e96160.jpg'
 originalUrl: 'https://vocus.cc/article/654249defd89780001041c87'
 lang: en
-_srcHash: aef10a3f42e057038fd3436620ccf4b8
+_srcHash: c344b6be25c2a4440d3db4e530fa7dec
 ---
 
 This is the third episode of our series on Nusa Penida, the magical island. We'll introduce four famous snorkeling spots here, where both snorkelers and scuba divers can find plenty of fun.

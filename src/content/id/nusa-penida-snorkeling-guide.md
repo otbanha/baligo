@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d4e931135ea55fd309372f2872e96160.jpg'
 originalUrl: 'https://vocus.cc/article/654249defd89780001041c87'
 lang: id
-_srcHash: aef10a3f42e057038fd3436620ccf4b8
+_srcHash: c344b6be25c2a4440d3db4e530fa7dec
 ---
 Ini episode ketiga kita bahas Nusa Penida—pulau ajaib ini. Kali ini kita kenalin empat spot snorkeling terkenal di sini. Baik kamu snorkeling biasa atau scuba diving, semua bisa nemu spot seru.
 

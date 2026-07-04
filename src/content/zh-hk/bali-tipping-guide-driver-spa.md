@@ -23,7 +23,7 @@ heroImage: >-
   https://images.gobaligo.id/images/2026-06/1782792880989-mixcollage-30-jun-2026-11-14-am-6788.jpg
 originalUrl: 'https://vocus.cc/article/663a126bfd89780001390b63'
 lang: zh-hk
-_srcHash: fb946c127a39e074c91a55f9f504b703
+_srcHash: 78241ad936a602609e67ed4d84d05f68
 ---
 
 Update: 2026/06/30

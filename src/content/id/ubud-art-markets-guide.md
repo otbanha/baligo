@@ -16,7 +16,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fc7f3da47eadb345f044cbd06455d214.jpg'
 originalUrl: 'https://vocus.cc/article/6712fb1dfd89780001f69011'
 lang: id
-_srcHash: 29196d394ec8113ed85cb7d7b8b02265
+_srcHash: fe0715cd5bd194c583ededc3609069a1
 ---
 Ubud sebagai pusat budaya dan seni Bali punya beberapa pasar seni yang super khas, masing-masing menyimpan pesona dan harta karun unik. Hari ini kita bakal jelajahi lima pasar seni yang wajib dikunjungi, biar kamu bisa merasakan atmosfer budaya Bali yang paling autentik.
 

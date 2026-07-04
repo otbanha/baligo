@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-06/1781584652116-tanah_lot.jpg'
 originalUrl: 'https://vocus.cc/article/671f86f1fd89780001de9fae'
 lang: zh-hk
-_srcHash: aa2ba4e3a3c479b100b45eed2ae9dd5a
+_srcHash: bdb9c5405704b411b729baa2c74d61bb
 ---
 
 位於峇里島塔巴南（Tabanan）區嘅海神廟（Tanah Lot），坐落喺一座海中岩石嘅小島上面，成為峇里島最具象徵性嘅宗教景點之一。呢度唔單止可以欣賞壯麗嘅夕陽同海浪衝擊岩岸嘅美景，仲有好多值得一試嘅活動，吸引咗世界各地嘅遊客嚟探索。本文會為你詳細介紹海神廟嘅歷史、遊覽活動、潮汐資訊同住宿建議，等你嘅峇里島之行更加精彩。

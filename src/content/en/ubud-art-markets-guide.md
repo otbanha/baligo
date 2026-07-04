@@ -16,7 +16,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fc7f3da47eadb345f044cbd06455d214.jpg'
 originalUrl: 'https://vocus.cc/article/6712fb1dfd89780001f69011'
 lang: en
-_srcHash: 29196d394ec8113ed85cb7d7b8b02265
+_srcHash: fe0715cd5bd194c583ededc3609069a1
 ---
 As the cultural and artistic hub of Bali, Ubud is home to several unique art markets, each brimming with distinctive charm and treasures. Today, let's explore these five must-visit art markets and immerse ourselves in Bali's most authentic cultural ambiance.
 
