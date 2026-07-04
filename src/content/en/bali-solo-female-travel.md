@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e20cca6728d7a7fee0c32d76a9a21e37.jpg'
 originalUrl: 'https://vocus.cc/article/66155131fd89780001e64a99'
 lang: en
-_srcHash: eee75c5a05bdbb49f1c996b0794fed87
+_srcHash: 6912c16ab10a695fbb846fb4b8733ce9
 ---
 
 (The following content and photos are provided by group member [Lin Shih-Chien](https://www.facebook.com/groups/baligo/permalink/1520187905195116/) and republished with permission.)

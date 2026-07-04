@@ -21,7 +21,7 @@ category:
   - 家庭親子
   - 美食景點活動
 lang: id
-_srcHash: 81efd710d771a7572b7b2f15e8e0b95a
+_srcHash: d437782d25ca55d76b886daf30cfd764
 ---
 Terletak di dekat Pura Tanah Lot, **Magic Garden** adalah taman alam yang baru dibuka pada November 2024, sangat cocok untuk keluarga dan liburan bersama anak. Tempat seluas 3.600 meter persegi ini memiliki beragam tanaman dan pengalaman interaktif yang mendidik sekaligus seru.
 

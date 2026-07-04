@@ -19,7 +19,7 @@ category:
   - 家庭親子
   - 美食景點活動
 lang: en
-_srcHash: 81efd710d771a7572b7b2f15e8e0b95a
+_srcHash: d437782d25ca55d76b886daf30cfd764
 ---
 
 Located near Tanah Lot Temple, **Magic Garden** is a newly opened nature park in November 2024, perfect for families and children. Spanning 3,600 square meters, this attraction features a rich variety of plants and interactive experiences that are both educational and fun.

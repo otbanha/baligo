@@ -18,7 +18,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_aa77bb3f2f0ffee906fdccf34ddbdbcc.jpg'
 originalUrl: 'https://vocus.cc/article/67d4f8e0fd897800017aca0f'
 lang: id
-_srcHash: d39f9238c58289ba56c767e300e6adfc
+_srcHash: cb0718e3dc3515de5bbdca40c4303f74
 ---
 Mau merasakan pengalaman seru yang beda di Bali? Jangan sampai kelewatan **Beer on Wheels Bali**! Ini adalah konsep unik yang bawa bar ke atas roda — kamu bisa keliling jalanan Kuta dan Legian sambil menikmati bir dingin, musik, dan suasana pesta. Cocok banget buat jalan bareng teman, keluarga, atau solo traveler. Tur bus bir selama 2 jam ini pasti bikin kamu makin cinta sama energi dan semangat Bali! Udah jauh-jauh ke luar negeri, waktunya bersenang-senang!
 
