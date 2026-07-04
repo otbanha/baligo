@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_38eac710ef37ffaf4bfdd348e071bb02.jpg'
 originalUrl: 'https://vocus.cc/article/66964aa7fd89780001c7051c'
 lang: id
-_srcHash: 6a5a0454a9c755fe05081a2159f2f74a
+_srcHash: 9da7d65c6d93f223f377690ae06a363f
 ---
 Bali, tanah yang penuh pesona ini, nggak cuma terkenal sama pemandangan indah dan penduduknya yang ramah, tapi juga tradisi religius dan budayanya yang kental banget. Di antara semua tradisi itu, Canang Sari jadi bagian yang nggak bisa dipisahin dari keseharian umat Hindu Bali. Sesajen cantik ini bisa kamu temuin di mana-mana — dari depan rumah sampai pura — semuanya penuh dengan nuansa ibadah dan ketulusan.
 

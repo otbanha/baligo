@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_38eac710ef37ffaf4bfdd348e071bb02.jpg'
 originalUrl: 'https://vocus.cc/article/66964aa7fd89780001c7051c'
 lang: zh-hk
-_srcHash: 6a5a0454a9c755fe05081a2159f2f74a
+_srcHash: 9da7d65c6d93f223f377690ae06a363f
 ---
 
 峇里島，呢片充滿魅力嘅土地，唔單止以其美麗嘅風景同熱情好客嘅人民而著稱，仲以其深厚嘅宗教與文化傳統吸引住世界各地嘅遊客。喺呢啲傳統中，Canang sari （扎囊薩利）係峇里島每日祭拜習俗中不可或缺嘅一部分。呢啲精緻嘅祭品隨處可見，從家門口到寺廟，一切都彌漫住敬拜同虔誠嘅氣息。

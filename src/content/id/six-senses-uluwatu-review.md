@@ -36,7 +36,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_91532107705be575f99c7a8160f0d02c.jpg'
 originalUrl: 'https://vocus.cc/article/679ccd73fd897800016e1e52'
 lang: id
-_srcHash: 6f0df00f65b75e86a0b4fd0576184572
+_srcHash: 6416330be9b1dbc1695f8373cf59f761
 ---
 
 > Artikel review asli dari admin yang sering kontribusi di grup Facebook kita, [蕭雅心](https://www.facebook.com/share/p/1A5kJ9Micj/)

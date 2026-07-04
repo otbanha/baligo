@@ -36,7 +36,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_91532107705be575f99c7a8160f0d02c.jpg'
 originalUrl: 'https://vocus.cc/article/679ccd73fd897800016e1e52'
 lang: en
-_srcHash: 6f0df00f65b75e86a0b4fd0576184572
+_srcHash: 6416330be9b1dbc1695f8373cf59f761
 ---
 
 > Original review provided by [Xiao Yaxin](https://www.facebook.com/share/p/1A5kJ9Micj/), a frequent contributor to our Facebook group.

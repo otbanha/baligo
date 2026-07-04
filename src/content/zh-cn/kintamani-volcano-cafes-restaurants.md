@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/67467629fd897800018d71d1'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 6cf4b1b4a3196b2aaaf951a3c722f361
+_srcHash: 5bcd18703cc4332e38f645754ae0837f
 ---
 
 ![巴厘岛金塔玛尼13大景观火山咖啡馆/餐厅推荐](https://images.gobaligo.id/vocus/vocus_ab1c8d7414065034efc9da1640b4bd60.jpg)

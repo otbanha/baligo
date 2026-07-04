@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-05/1780194419711-7_sunset_points.jpg'
 originalUrl: 'https://vocus.cc/article/668e837dfd89780001357d06'
 lang: id
-_srcHash: 2d202f88c4914fe6f66099c1deda6bab
+_srcHash: 5c03be95fb1b8dcc6eaf78774b901a33
 ---
 
 ## Waktu Sunset di Bali

@@ -11,7 +11,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a814035ceed00b9d56b048de37f02303.jpg'
 originalUrl: 'https://vocus.cc/article/65348754fd89780001b2a259'
 lang: zh-cn
-_srcHash: 20f4a89e530443830a60aafb077c2047
+_srcHash: 02cb4f057433b9a043a1afdf8a3c249a
 ---
 
 ![佩尼达岛美食和碧海蓝天：Nusa Penida的Top 10美食餐厅](https://images.gobaligo.id/vocus/vocus_72f1c56bdf6326c2cfb52375320fb1a9.jpg)

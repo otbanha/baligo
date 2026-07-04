@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_129a0ecd951ffe4165c231c9e21b0fcb.png'
 originalUrl: 'https://vocus.cc/article/67d63943fd89780001c33ce2'
 lang: id
-_srcHash: 62204b213493b9099809571fba8940aa
+_srcHash: 90622996cf8dd38d72f628c2b5945a84
 ---
 
 ### Siapa bilang gunung api di Bali cuma bisa dinikmati pas sunrise? Sekarang kamu gak perlu begadang cuma buat lihat matahari terbit...
