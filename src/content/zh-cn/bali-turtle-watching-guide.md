@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ed1ea6cbc2b41221a0a57d6e6ed75985.jpg'
 originalUrl: 'https://vocus.cc/article/68f9b567fd89780001795353'
 lang: zh-cn
-_srcHash: 4ccdcd04314d0c95fb164f72798a31ff
+_srcHash: d8e229b5fd56d5e3e518cf13ad3f796d
 ---
 
 如果你以为巴厘岛只有浪漫的海滩、日落与度假村，那就错过了这座岛屿最动人的一面——**海龟保育故事**。每年 4 月至 10 月，海龟妈妈们会回到巴厘岛的沙滩产卵，而当地社区、志愿者与基金会也投入复育，让旅人有机会亲眼见证小生命奔向大海的瞬间。

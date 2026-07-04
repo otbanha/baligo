@@ -14,7 +14,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d27bcc8d17bb47c63b07984562154e9c.jpg'
 originalUrl: 'https://vocus.cc/article/698d771afd89780001418f97'
 lang: id
-_srcHash: b9bbbe21aedcf932dd24fe3633aae4ea
+_srcHash: af559e89ae6de040f1becdc57640b7c6
 ---
 Bicara soal kawasan pantai di Bali, kebanyakan orang langsung inget Kuta. Padahal, **Sanur adalah kawasan wisata pantai pertama yang berkembang di Bali**. Suasananya low profile, elegan, nggak norak, tapi tetap eksis dengan caranya sendiri.
 

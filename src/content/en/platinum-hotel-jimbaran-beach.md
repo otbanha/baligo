@@ -39,7 +39,7 @@ agoda_hotel_name: 峇里島金巴蘭海灘白金飯店
 agoda_hotel_id: 47017338
 latitude: -8.762973
 lang: en
-_srcHash: d37b284156456a78c044a0321a0015ac
+_srcHash: e39972bd315ad3747572624fe03e565e
 ---
 {{block:test}}
 

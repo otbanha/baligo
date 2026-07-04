@@ -15,7 +15,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ed1ea6cbc2b41221a0a57d6e6ed75985.jpg'
 originalUrl: 'https://vocus.cc/article/68f9b567fd89780001795353'
 lang: id
-_srcHash: 4ccdcd04314d0c95fb164f72798a31ff
+_srcHash: d8e229b5fd56d5e3e518cf13ad3f796d
 ---
 Kalau kamu pikir Bali cuma soal pantai romantis, sunset, dan resort, kamu bakal kelewatan sisi paling menyentuh dari pulau ini — **cerita konservasi penyu**. Setiap tahun dari April sampai Oktober, induk penyu kembali ke pantai-pantai Bali untuk bertelur. Komunitas lokal, relawan, dan yayasan aktif merehabilitasi, sehingga traveler bisa menyaksikan langsung momen kecil penyu berlari menuju laut.
 

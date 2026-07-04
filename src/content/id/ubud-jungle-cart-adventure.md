@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/66892d20fd8978000183776c'
 category:
   - 美食景點活動
 lang: id
-_srcHash: b4f69323313ca2a78c24e581f3916bd7
+_srcHash: 90bb6b5f15913fb917c904bce234ea45
 ---
 
 ## **Siap-siap buat petualangan di hutan!**
