@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8ade4b2203b276e1cd0d7fbe35c5c8a9.png'
 originalUrl: 'https://vocus.cc/article/684118d7fd897800017b1abb'
 lang: zh-cn
-_srcHash: b79d63fc31e0514c1755a7e7dfae14db
+_srcHash: eff0e6f7a359b4cff03e51b12695b36c
 ---
 
 这次我们通过 **KKday** 预订了[中/英文导游带领的夜市美食团](https://www.kkday.com/zh-tw/product/141048-denpasar-night-street-food-walking-tour-ubud-bali-indonesia?cid=25072)，准备一探 **巴厘岛最大、最道地的当地人夜市——Pasar Kreneng**！一走进夜市，扑面而来的是浓郁的香料味、炭烤香气，还有此起彼落的印尼语叫卖声。这里几乎没有观光客，摊商大多只会说印尼语，菜单也没有英文标示——**没人带路，还真不敢乱闯！**

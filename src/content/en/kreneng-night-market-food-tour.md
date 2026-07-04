@@ -18,7 +18,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8ade4b2203b276e1cd0d7fbe35c5c8a9.png'
 originalUrl: 'https://vocus.cc/article/684118d7fd897800017b1abb'
 lang: en
-_srcHash: b79d63fc31e0514c1755a7e7dfae14db
+_srcHash: eff0e6f7a359b4cff03e51b12695b36c
 ---
 
 This time, we booked a [night market food tour with a Chinese/English-speaking guide](https://www.kkday.com/zh-tw/product/141048-denpasar-night-street-food-walking-tour-ubud-bali-indonesia?cid=25072) through **KKday**, ready to explore **Bali’s largest and most authentic local night market—Pasar Kreneng**! As soon as we stepped in, we were hit by a wave of rich spices, charcoal-grilled aromas, and the lively chorus of Indonesian hawkers calling out their wares. There were almost no tourists here; most vendors spoke only Indonesian, and the menus had no English labels—**without a guide, we wouldn’t have dared to venture in!**

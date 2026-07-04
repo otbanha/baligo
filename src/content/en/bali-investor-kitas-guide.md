@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/669f938dfd897800012e6312'
 category:
   - 簽證通關
 lang: en
-_srcHash: 2e89e0f87babbd7e536c770a75446bb7
+_srcHash: 7c7cee8362cef41a0c30a3064cf31aae
 ---
 
 Bali, a paradise that captivates many, is not just a tourist destination but also a land brimming with business opportunities. For those looking to reside long-term and operate a business in Bali, applying for an investor KITAS is an essential step. This article will provide a detailed explanation on how to obtain an investor KITAS, establish a PT PMA (Foreign Investment Limited Liability Company), and comply with relevant regulations.

@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8ade4b2203b276e1cd0d7fbe35c5c8a9.png'
 originalUrl: 'https://vocus.cc/article/684118d7fd897800017b1abb'
 lang: zh-hk
-_srcHash: b79d63fc31e0514c1755a7e7dfae14db
+_srcHash: eff0e6f7a359b4cff03e51b12695b36c
 ---
 
 今次我哋經 **KKday** 預訂咗[中/英文導遊帶隊嘅夜市美食團](https://www.kkday.com/zh-tw/product/141048-denpasar-night-street-food-walking-tour-ubud-bali-indonesia?cid=25072)，準備去探索 **峇里島最大、最地道嘅本地人夜市——Pasar Kreneng**！一踏入夜市，撲面而嚟嘅係濃郁嘅香料味、炭烤香氣，仲有此起彼落嘅印尼話叫賣聲。呢度幾乎冇觀光客，攤販大多只識講印尼話，餐牌亦冇英文標示——**冇人帶路，真係唔敢亂闖！**

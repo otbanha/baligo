@@ -18,7 +18,7 @@ category:
   - 家庭親子
   - 美食景點活動
 lang: zh-cn
-_srcHash: 1d631e142b6515858e5e91bad96f9c78
+_srcHash: cbed4818311d11288ead03581b41ba29
 ---
 **Clip 'n Climb Bali（沙努尔攀岩乐园）**是印尼巴厘岛首个Clip 'n Climb室内攀岩中心，位于沙努尔（Sanur），提供适合全年龄段的趣味攀岩体验。
 

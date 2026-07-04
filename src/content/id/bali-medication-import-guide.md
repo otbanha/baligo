@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/65f4f94ffd897800016b340a'
 category:
   - 旅行技巧
 lang: id
-_srcHash: fcd56b6d80589ef4d70fb2f9a47b7f9b
+_srcHash: 8b547b83127c918ca1e927fe5380ca03
 ---
 Baru-baru ini, seorang model asal Australia kena masalah pas masuk Bali. Dia ditahan 4 hari dan diinterogasi 14 jam cuma karena bawa obat yang dianggap terlarang di Indonesia. Kejadian ini jadi pengingat buat traveler yang bawa obat khusus: harus ekstra hati-hati.
 

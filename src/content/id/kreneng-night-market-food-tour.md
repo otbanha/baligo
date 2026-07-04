@@ -18,7 +18,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8ade4b2203b276e1cd0d7fbe35c5c8a9.png'
 originalUrl: 'https://vocus.cc/article/684118d7fd897800017b1abb'
 lang: id
-_srcHash: b79d63fc31e0514c1755a7e7dfae14db
+_srcHash: eff0e6f7a359b4cff03e51b12695b36c
 ---
 
 Kali ini kita booking tur kuliner malam lewat **KKday** yang dipandu guide berbahasa Mandarin/Inggris, siap menjelajahi pasar malam terbesar dan paling otentik di Bali — **Pasar Kreneng**! Begitu masuk, langsung disambut aroma rempah yang kuat, wangi bakaran arang, dan teriakan pedagang dalam bahasa Indonesia yang saling sahut. Di sini hampir nggak ada turis, sebagian besar pedagang cuma bisa bahasa Indonesia, menu pun nggak ada tulisan Inggris — **kalau nggak ada yang ngantar, beneran nggak berani asal masuk!**

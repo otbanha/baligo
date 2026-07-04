@@ -22,7 +22,7 @@ category:
   - 家庭親子
   - 美食景點活動
 lang: id
-_srcHash: 1d631e142b6515858e5e91bad96f9c78
+_srcHash: cbed4818311d11288ead03581b41ba29
 ---
 **Clip 'n Climb Bali (Taman Panjat Tebing Sanur)** adalah pusat panjat tebing indoor pertama Clip 'n Climb di Bali, Indonesia, yang berlokasi di Sanur dan menawarkan pengalaman panjat tebing seru untuk segala usia.
 
