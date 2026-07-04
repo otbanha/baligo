@@ -37,7 +37,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7637ac635c331c40ccb594138cb074c8.jpg'
 originalUrl: 'https://vocus.cc/article/67094049fd8978000167f9f9'
 lang: id
-_srcHash: 3b6ce08e68d8afc66390268d9132c1d6
+_srcHash: e80c6f5c64e0ca5c5bbbe8ec90992890
 ---
 
 Bali punya banyak hotel bintang lima yang bisa memenuhi kebutuhan dan selera berbagai wisatawan. **Raffles Bali** yang terletak di Jimbaran Bay terpilih sebagai salah satu hotel mewah terbaik di tahun 2024, terus menarik wisatawan dari seluruh dunia untuk merasakan keanggunan dan kemewahan khasnya.

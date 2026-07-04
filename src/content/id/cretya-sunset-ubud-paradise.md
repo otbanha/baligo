@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/6799a185fd89780001c87e06'
 category:
   - 美食景點活動
 lang: id
-_srcHash: 332b063727fbef989765d2624a9e7e8f
+_srcHash: 5a743ce5b393155c0d2afddcf56bb479
 ---
 
 **Setelah sukses besar dengan** [**Cretya Ubud**](/blog/cretya-ubud-alas-harum-budget-guide/) **yang menyajikan pemandangan sawah terasering Tegalalang, grup Alas Harum kembali meluncurkan karya terbaru—Cretya Sunset by Alas Harum, Ubud.** Klub siang dan restoran matahari terbenam baru di Ubud ini bakal kasih kamu pengalaman relaksasi dan pemandangan yang nggak ada duanya, jadi destinasi impian yang wajib kamu kunjungi saat eksplor Bali.

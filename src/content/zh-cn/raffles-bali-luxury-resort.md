@@ -33,7 +33,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7637ac635c331c40ccb594138cb074c8.jpg'
 originalUrl: 'https://vocus.cc/article/67094049fd8978000167f9f9'
 lang: zh-cn
-_srcHash: 3b6ce08e68d8afc66390268d9132c1d6
+_srcHash: e80c6f5c64e0ca5c5bbbe8ec90992890
 ---
 
 巴厘岛上有许多五星级酒店，能满足各种旅客的需求与品味。位于金巴兰湾的**莱佛士酒店（Raffles Bali）**在2024年被评选为最佳奢华酒店之一，继续吸引全球各地的旅客前来体验其独特的优雅和高贵气息。

@@ -33,7 +33,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7637ac635c331c40ccb594138cb074c8.jpg'
 originalUrl: 'https://vocus.cc/article/67094049fd8978000167f9f9'
 lang: zh-hk
-_srcHash: 3b6ce08e68d8afc66390268d9132c1d6
+_srcHash: e80c6f5c64e0ca5c5bbbe8ec90992890
 ---
 
 峇里島有好多五星級酒店，可以滿足唔同旅客嘅需求同品味。位於金巴蘭灣嘅**萊佛士酒店（Raffles Bali）**喺2024年被評為最佳奢華酒店之一，繼續吸引世界各地嘅旅客嚟體驗佢哋獨特嘅優雅同高貴氣息。

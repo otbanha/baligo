@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6799a185fd89780001c87e06'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: 332b063727fbef989765d2624a9e7e8f
+_srcHash: 5a743ce5b393155c0d2afddcf56bb479
 ---
 
 **喺飽覽德哥拉郎梯田美景嘅** [**Cretya Ubub**](/blog/cretya-ubud-alas-harum-budget-guide/) **大受歡迎之後，Alas Harum集團再推出全新力作——Cretya Sunset by Alas Harum, Ubud。**呢座位於烏布嘅全新日落日間俱樂部同餐廳，將會帶畀您無與倫比嘅放鬆體驗同絕美景色，成為您探索峇里島時唔可以錯過嘅夢幻目的地。

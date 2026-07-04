@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d9efa1e57e443a91110d9b3182390577.jpg'
 originalUrl: 'https://vocus.cc/article/6739669dfd89780001afcd67'
 lang: id
-_srcHash: bbe57b1e1c58cac276425b056dfa5b77
+_srcHash: 32370013d1c8461a5578e97b6351ab88
 ---
 
 **Kalau kamu suka pemandangan alam yang spektakuler atau lagi cari spot buat foto IG yang aesthetic, Lahangan Sweet wajib banget masuk itinerary! Tempat ini kasih view 360 derajat yang super jelas ke Gunung Agung, ikon paling terkenal di Bali. Apalagi pas sunrise atau sunset, pemandangannya bikin speechless! 🌅**
