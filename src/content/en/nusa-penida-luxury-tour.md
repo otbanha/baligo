@@ -15,7 +15,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5d922971dbbd4941baab8e27787428fe.jpg'
 originalUrl: 'https://vocus.cc/article/67b1b9e2fd89780001ab13ac'
 lang: en
-_srcHash: 45976e56d1eda096a6bb0075a7950210
+_srcHash: 39f20027175cb08b9660f1d4201d2c49
 ---
 
 Experience breathtaking ocean views, bamboo forest ecology, private pool villas, and dreamy floating breakfasts with ocean-view spa massages! This is a fantasy journey tailor-made for influencers — come and immerse yourself in the stunning beauty of Bali + Nusa Penida!

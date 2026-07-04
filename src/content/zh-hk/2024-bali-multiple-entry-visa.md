@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65c0796ffd89780001e8d6db'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: 7d7957e20b95631318a66ccdab2f0bdf
+_srcHash: 4dd0b2d7cb917f9e11c538bfd6f06256
 ---
 
 ![峇里島D1多次入境簽證：2024年最新峇里島簽證更新](https://images.gobaligo.id/vocus/vocus_75a017bcc23776bfdf405a8361b72773.jpg)

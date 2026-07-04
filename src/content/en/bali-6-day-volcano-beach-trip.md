@@ -20,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_cccd829872b263271c23146285dbe1cb.jpg'
 originalUrl: 'https://vocus.cc/article/66284452fd89780001867c6a'
 lang: en
-_srcHash: 5b724d04aa49a60ccb38494072f03c52
+_srcHash: 9c96d1945df801446b17cd0761b4304a
 ---
 Our Facebook group member [Dai Yushan](https://www.facebook.com/100002382562993/) shared her six-day, five-night travel diary with us, which we’ve edited and republished with permission:
 

@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5d922971dbbd4941baab8e27787428fe.jpg'
 originalUrl: 'https://vocus.cc/article/67b1b9e2fd89780001ab13ac'
 lang: zh-hk
-_srcHash: 45976e56d1eda096a6bb0075a7950210
+_srcHash: 39f20027175cb08b9660f1d4201d2c49
 ---
 讓你一次擁有無敵海景、竹林生態、私人泳池VILLA，仲有超夢幻嘅漂浮早餐同海景SPA按摩！呢場係專為網美打造嘅夢幻旅程，快啲嚟感受峇里島+佩尼達島嘅絕美風光啦！
 

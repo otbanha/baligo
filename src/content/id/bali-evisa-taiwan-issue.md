@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/684447cdfd89780001bb6bf8'
 category:
   - 簽證通關
 lang: id
-_srcHash: bf33bc37c3d9a2095f2718f0b437c479
+_srcHash: 5fb1ad1ef7cd288bf9fb43cfe3dc0298
 ---
 
 ## Taiwan dihapus lagi

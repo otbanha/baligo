@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6668f9f5fd89780001e844ca'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: c9707a60351b75d6f4ba86b512dc0bb6
+_srcHash: 189582c3f02689f837baab2951b5a80f
 ---
 最近，努沙佩尼達懸崖上嘅新182米玻璃電梯項目引起咗廣泛關注。呢個項目唔單止改變咗當地嘅風景，亦喺當地社區同遊客之間引發咗熱烈討論。呢篇文章將會全面介紹呢個具爭議性項目嘅背景、設計、經濟影響同環境憂慮。
 

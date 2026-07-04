@@ -33,7 +33,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: zh-hk
-_srcHash: 861edd1f78bb96600434d414a80a2d3d
+_srcHash: bde48493a193736f8207bffc38051183
 ---
 
 如果你係榴槤控，嚟峇里島真係要揀啱時間，唔係可能只聞到味道但食唔到「爆量版本」😂

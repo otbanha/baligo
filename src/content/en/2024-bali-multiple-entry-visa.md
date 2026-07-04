@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/65c0796ffd89780001e8d6db'
 category:
   - 簽證通關
 lang: en
-_srcHash: 7d7957e20b95631318a66ccdab2f0bdf
+_srcHash: 4dd0b2d7cb917f9e11c538bfd6f06256
 ---
 
 ![Bali D1 Multiple Entry Visa: Latest Bali Visa Updates for 20](https://images.gobaligo.id/vocus/vocus_75a017bcc23776bfdf405a8361b72773.jpg)

@@ -21,7 +21,7 @@ originalUrl: 'https://vocus.cc/article/664c8e46fd89780001240c04'
 category:
   - 簽證通關
 lang: id
-_srcHash: 56cbb0f6e63ee5d5a1b3274a034c02f1
+_srcHash: 30ebf9ac5569a5a2f56d877afcfbeb03
 ---
 
 Pernah kepikiran nggak sih, visa kunjungan 30 hari Indonesia bisa dipakai sampai hari ke-30 baru pulang? Ini pertanyaan yang sering banget ditanyain sama orang yang mau liburan ke Indonesia/Bali. Di artikel ini, kita bakal bahas tuntas soal visa kunjungan 30 hari Indonesia, jawab semua rasa penasaran kamu, dan kasih tips traveling yang berguna.

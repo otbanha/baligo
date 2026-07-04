@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2cbac39774379bbcb2a04256d663206b.jpg'
 originalUrl: 'https://vocus.cc/article/667ff433fd897800017b331e'
 lang: zh-hk
-_srcHash: e8e5b386eb1fcbb815f25a8a5815a559
+_srcHash: 75a05d928db737cf7e8d5275df36f6f0
 ---
 
 ![探索峇里島嘅美味寶藏：龍蝦先生 Mr. Lobster 海鮮餐廳](https://images.gobaligo.id/vocus/vocus_3dc7be54d646651c0baffd85a2b0e7c2.jpg)

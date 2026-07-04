@@ -20,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_cccd829872b263271c23146285dbe1cb.jpg'
 originalUrl: 'https://vocus.cc/article/66284452fd89780001867c6a'
 lang: id
-_srcHash: 5b724d04aa49a60ccb38494072f03c52
+_srcHash: 9c96d1945df801446b17cd0761b4304a
 ---
 Anggota grup Facebook kami [Dai Yushan](https://www.facebook.com/100002382562993/) dan teman-temannya menulis travelog enam hari lima malam, dan mereka izinkan kami edit dan bagikan:
 

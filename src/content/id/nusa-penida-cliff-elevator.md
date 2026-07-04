@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/6668f9f5fd89780001e844ca'
 category:
   - 美食景點活動
 lang: id
-_srcHash: c9707a60351b75d6f4ba86b512dc0bb6
+_srcHash: 189582c3f02689f837baab2951b5a80f
 ---
 
 Baru-baru ini, proyek lift kaca setinggi 182 meter di tebing Nusa Penida menarik perhatian luas. Proyek ini nggak cuma mengubah pemandangan lokal, tapi juga memicu perdebatan seru di kalangan komunitas setempat dan wisatawan. Artikel ini bakal ngebahas tuntas latar belakang, desain, dampak ekonomi, dan kekhawatiran lingkungan dari proyek kontroversial ini.

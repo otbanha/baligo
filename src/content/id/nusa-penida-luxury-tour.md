@@ -14,7 +14,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5d922971dbbd4941baab8e27787428fe.jpg'
 originalUrl: 'https://vocus.cc/article/67b1b9e2fd89780001ab13ac'
 lang: id
-_srcHash: 45976e56d1eda096a6bb0075a7950210
+_srcHash: 39f20027175cb08b9660f1d4201d2c49
 ---
 
 Kamu bakal dapet semua: pemandangan laut yang kece badai, hutan bambu yang asri, villa dengan kolam renang pribadi, plus floating breakfast super dreamy dan spa massage dengan view laut! Ini adalah trip impian yang dirancang khusus buat para pecinta foto aesthetic. Yuk, rasain keindahan Bali + Nusa Penida yang luar biasa!

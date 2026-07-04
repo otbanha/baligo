@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/6668f9f5fd89780001e844ca'
 category:
   - 美食景點活動
 lang: en
-_srcHash: c9707a60351b75d6f4ba86b512dc0bb6
+_srcHash: 189582c3f02689f837baab2951b5a80f
 ---
 
 Recently, the new 182-meter glass elevator project on Nusa Penida's cliffs has attracted significant attention. This initiative not only transforms the local scenery but has also ignited lively debates among residents and visitors alike. This article provides a comprehensive overview of the controversial project's background, design, economic impact, and environmental concerns.

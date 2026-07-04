@@ -23,7 +23,7 @@ category:
   - 家庭親子
   - 美食景點活動
 lang: en
-_srcHash: d988354bcb38dd869eef05564ac8389c
+_srcHash: 2ab4f58e578960c1aa6f1471b1e13599
 ---
 If you're planning a fun and educational family trip, the **Pacha Alpaca Alpaca Interaction Experience** in Nauru Creative City, Bali, is the perfect choice for a family outing! Located in the Nuanu Nature Reserve (north of Canggu), this attraction not only allows children to get up close with adorable alpacas but also lets the whole family enjoy a peaceful and unforgettable time in the embrace of nature.
 

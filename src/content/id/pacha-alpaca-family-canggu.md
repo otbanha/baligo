@@ -23,7 +23,7 @@ category:
   - 家庭親子
   - 美食景點活動
 lang: id
-_srcHash: d988354bcb38dd869eef05564ac8389c
+_srcHash: 2ab4f58e578960c1aa6f1471b1e13599
 ---
 Kalau kamu lagi merencanakan liburan keluarga yang seru sekaligus mendidik, pengalaman interaksi dengan alpaka di **Pacha Alpaca**, Nuanu Creative City, Bali, ini pilihan yang pas banget buat jalan-jalan sekeluarga! Tempat yang terletak di kawasan konservasi alam Nuanu (utara Canggu) ini nggak cuma bikin anak-anak bisa dekat-dekatan sama alpaka yang lucu, tapi juga bikin seluruh keluarga menikmati waktu yang tenang dan tak terlupakan di pelukan alam.
 

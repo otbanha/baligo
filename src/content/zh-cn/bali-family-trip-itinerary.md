@@ -17,7 +17,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_8d1437ba19fd670577aeddab67726
 originalUrl: 'https://vocus.cc/article/670688f2fd8978000138a466'
 update: 2026/05/22
 lang: zh-cn
-_srcHash: 17de278efc2c547d8fc8873adbc7ff30
+_srcHash: 4d80342d855d2744532d27f3b3cdd29c
 ---
 
 > 以下内容改编自团友 [Sannie Lin](https://www.facebook.com/share/p/KZWh2fnM6upSM3uq/) 分享游记：

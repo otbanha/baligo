@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_cccd829872b263271c23146285dbe1cb.jpg'
 originalUrl: 'https://vocus.cc/article/66284452fd89780001867c6a'
 lang: zh-hk
-_srcHash: 5b724d04aa49a60ccb38494072f03c52
+_srcHash: 9c96d1945df801446b17cd0761b4304a
 ---
 
 我哋嘅Facebook群組團友[戴妤珊](https://www.facebook.com/100002382562993/)同朋友嘅六日五夜遊記，特此提供畀我哋編輯/轉載：

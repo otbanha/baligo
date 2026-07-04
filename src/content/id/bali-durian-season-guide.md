@@ -36,7 +36,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: id
-_srcHash: 861edd1f78bb96600434d414a80a2d3d
+_srcHash: bde48493a193736f8207bffc38051183
 ---
 Kalau kamu pecinta durian, datang ke Bali harus pilih waktu yang pas. Soalnya kalau salah momen, bisa cuma nyium baunya doang tanpa bisa nikmatin versi 'melimpah' 😂
 
