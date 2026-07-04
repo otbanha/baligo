@@ -20,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_451c30fd114d22e6e4d07d69cd30cc40.jpg'
 originalUrl: 'https://vocus.cc/article/680240b2fd89780001ec0df1'
 lang: zh-hk
-_srcHash: ad022c00a5b2c1b8ebd7f1ede2f1c259
+_srcHash: db0b218019557b61c08495f20c5f8b8b
 ---
 
 ![【峇里島親子必玩】烏布熱氣球初體驗：高空俯瞰阿貢火山、稻田美景同預約注意事項](https://images.gobaligo.id/vocus/vocus_6ed4e23babe897f0039aae5be80a2e83.jpg)

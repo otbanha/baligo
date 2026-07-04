@@ -10,7 +10,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2d75af8cafe43a7ba1d26cc311649b07.jpg'
 originalUrl: 'https://vocus.cc/article/69113993fd897800015bfa87'
 lang: zh-hk
-_srcHash: 6cacc31db345ce8a943c341d17a37fab
+_srcHash: e1c310506791df9008d9fe2858cc545b
 ---
 
 ![夜幕下嘅幻光雨林：峇里島烏布Hikaria沉浸式光影藝術體驗](https://images.gobaligo.id/vocus/vocus_513b249c4e9a87d33d49c0e009653ed8.jpg)

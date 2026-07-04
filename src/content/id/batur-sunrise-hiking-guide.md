@@ -16,7 +16,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_683bd40a8676e52f320bb3d617abc30e.png'
 originalUrl: 'https://vocus.cc/article/66d31f77fd897800011851c1'
 lang: id
-_srcHash: 60e806d45890a74ca79a9328d6aea50c
+_srcHash: e8482e6c83899e722ad519581645f274
 ---
 
 ## **Nikmati Sunrise Megah di Puncak Gunung Batur, Bali**
