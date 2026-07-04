@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/687cf195fd897800015d2985'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 75c8dfc8e69ee17304b86178c70eeae3
+_srcHash: ee187b5d9675eb65f018d8db451830f2
 ---
 
 峇里島巴東縣嘅獸醫部門最近通報咗幾宗由感染狂犬病嘅狗隻造成嘅咬傷事件；今個月頭我哋嘅團友喺庫塔一帶俾流浪狗咬傷，用咗USD$5,800打疫苗，呢件事仲上埋電視新聞，睇下[呢度嘅報導](/blog/bali-rabies-vaccine-cost/)。

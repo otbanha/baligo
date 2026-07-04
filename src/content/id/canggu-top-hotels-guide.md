@@ -29,7 +29,7 @@ heroImage: 'https://images.gobaligo.id/images/2026-05/1777896573960-canggu_stay.
 originalUrl: 'https://vocus.cc/article/651b8da8fd89780001974847'
 update: 2026/05/24
 lang: id
-_srcHash: e115a74a42b9155bd40c717512f77952
+_srcHash: 395d5278f13202da95ad791583fa6f26
 ---
 
 ![Rekomendasi Penginapan di Bali: Top 18 Penginapan di Canggu ](https://images.gobaligo.id/vocus/vocus_70db4d4278079bda9256ae9b7375328c.jpg)

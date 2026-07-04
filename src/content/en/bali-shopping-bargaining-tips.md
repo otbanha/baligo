@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/65fcdc32fd8978000151971b'
 category:
   - 旅行技巧
 lang: en
-_srcHash: ab830aa540d9ef1a2d847eee366530d7
+_srcHash: e5e86fd90d526fba6908ab726333c0a2
 ---
 
 Bali offers an incredible variety of souvenirs and handicrafts, making shopping a must-do activity for many visitors. However, knowing how to bargain is an essential skill here. Below are some bargaining tips and essential knowledge to help you get the best prices while shopping in Bali:

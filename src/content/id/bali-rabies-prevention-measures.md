@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/687cf195fd897800015d2985'
 category:
   - 旅行技巧
 lang: id
-_srcHash: 75c8dfc8e69ee17304b86178c70eeae3
+_srcHash: ee187b5d9675eb65f018d8db451830f2
 ---
 
 Unit veteriner Kabupaten Badung, Bali, baru-baru ini melaporkan beberapa kasus gigitan anjing yang terinfeksi rabies. Awal bulan ini, anggota grup kami juga digigit anjing liar di sekitar Kuta dan harus mengeluarkan biaya USD$5.806 untuk vaksinasi. Kejadian ini bahkan sempat tayang di berita TV. Cek [liputannya di sini](/blog/bali-rabies-vaccine-cost/).
