@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/65b8fcc3fd8978000157f236'
 category:
   - 旅行技巧
 lang: id
-_srcHash: db1dde478f0454c3c4caee51548e8a62
+_srcHash: ad90ae21a250e531bff373b5912fe006
 ---
 
 Di episode ini, kami akan ajak kamu ngintip camilan oleh-oleh wajib beli di Bali — total enam rekomendasi, semuanya makanan enak yang susah ditemukan di Taiwan!

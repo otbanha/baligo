@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_747ed11a26134e35e5596b98ec191a45.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b72fd897800013a9459'
 lang: zh-cn
-_srcHash: 0a8df6492031c52ed16cbfe703324582
+_srcHash: 3ae9b8191823d4a136403079e7756b60
 ---
 
 巴厘岛游记的第三个瀑布，我们来到乌布附近，经过两小时的车程，抵达被誉为「巴厘岛仙境」的Tukad Cepung瀑布。这个隐藏在壮丽自然景观中的瑰宝，绝对是您旅程中的必访之地。

@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65f8dca4fd89780001b57754'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 164b893815225b07ce78299416a2a27d
+_srcHash: d12241b90e1f809337d366a850ec4d51
 ---
 印尼係一個對毒品問題採取極端嚴厲態度嘅國家，而峇里島作為佢著名嘅旅遊勝地都唔例外。毒品喺呢度被視為極大嘅社會問題，印尼政府採取咗嚴格嘅法律措施去打擊毒品犯罪活動。
 

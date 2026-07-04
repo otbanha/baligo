@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/65bfadeffd89780001e1daf0'
 category:
   - 簽證通關
 lang: id
-_srcHash: 650dcda601c95b92c108fc5c752a6883
+_srcHash: 9774b6e51c249d3e4bcf5707f328a4c3
 ---
 
 Bali, surga liburan yang terkenal, selalu jadi incaran banyak traveler. Tapi makin ramai, makin sibuk juga bandaranya. Banyak orang khawatir harus nunggu lama setelah mendarat. Tapi pada 2 Februari 2024, temen grup kita 'DC' punya pengalaman beda — dia berhasil keluar dari Bandara Bali cuma dalam 25 menit setelah turun dari pesawat!

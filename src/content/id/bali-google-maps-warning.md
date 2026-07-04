@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/65ebd5ecfd89780001cf6c8b'
 category:
   - 旅行技巧
 lang: id
-_srcHash: a63f35179568388e9a1b4105d94f32ea
+_srcHash: 45b36a27b3063e8d5db33ed89e1e7bcc
 ---
 
 Di Bali, jangan percaya Google Maps! Bali itu destinasi liburan yang bikin ngiler, tapi buat traveler yang ngandelin Google Maps buat cari rute, bisa aja nemuin tantangan. Ada dua alasan utama kenapa kamu harus hati-hati pakai Google Maps pas rencanain perjalanan.

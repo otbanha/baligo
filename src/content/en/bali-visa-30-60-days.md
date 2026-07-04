@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/6631ae97fd89780001eaf400'
 category:
   - 簽證通關
 lang: en
-_srcHash: a837a1551e09d7434e439b245c00e380
+_srcHash: 75f93a40253c80a330f289497916b378
 ---
 
 ![Bali Visa Application Must-Read: 30 Days vs. 60 Days, Explai](https://images.gobaligo.id/vocus/vocus_674269d54ebfc7ede1f3a11443914ba7.png)

@@ -66,7 +66,7 @@ embeds: []
 
 https://youtu.be/-CJsTy4C3AQ
 
-> Conrad Bali 房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=48699) | [Trip]()
+> Conrad Bali 房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=48699) | [Trip](https://hk.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=926122&checkIn=2026-12-07&checkOut=2026-12-08&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-P6x8zFJMEk9Z2Z4-nlBdvZhBiNDFgtPgs6nj0DBGy9Dp6zZgJB_0SHAJ5GRvnW14E77lk7zGBcddhiIyNYKjHDYQcj0wnGB5OmMS5g6m5lO8XCwvHjsPwllt9M0dVK2amVSlYmOkolmSU5qUpWSs_m9D7tnvli024lHaWU1OJkoBCQlZibX5pXAmQbmRuYGRjoGRgABUsSKzxTlKzMdZSSE3OSS3MSS1JDKguAhpjpKGUWO5cUZRYEpeZmlpSkAlWlJeYUp4LEg1KLgTLJYEElP6AxRVCBzPw8iHYDFLGwxJzSVIgrgBa6pULtMK7VwXT800Xznjbseb6iFYfjTYBuR3W8yYA43rA29hELU3TsJxaGXywMTawMXawMk1hZOW5c28q4i5Un0iLM39BI11A3StdQStYQ6GZTQ2NTU12DRMvEZMsUI10TS1NjI6ACY2ONry9PPPlkbGQtxTrlwPNp7AqMWoLxIZ6eLoYlhalmhaWWOUUFpgaMpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYDJwMzA1Momy4mD1dggQPlqRobt1nYS8F4inCeFrMocEuhmtkolKs5aUdAg1rdkdpG_DaR8Lkk1irMnQ9vDMuihUwdjFyCzB6MEYwVjA2MDKuYmTnYjYwMhRg2sDIuIPxPwwwvmIE2QAAtwRPGuUCAAA&masterhotelid_tracelogid=100051355-0a9ac9d2-495322-133&detailFilters=17|1~17~1*31|926122~31~926122*80|0|1~80~0*29|1~29~1|2&display=exavg&subStamp=1044&isCT=true&isFlexible=F&locale=zh-HK&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18443868)
 
 ## **The Ritz-Carlton, Bali (麗思卡爾頓)**
 
@@ -98,7 +98,7 @@ https://youtu.be/-CJsTy4C3AQ
 
 **評價**| TripAdvisor 蟬聯多年家庭旅行獎項，父母評價「從入住到離開，孩子完全不想找爸媽，因為Ritz Kids太好玩」。
 
-> The Ritz-Carlton, Bali房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=782765) | [Trip]()
+> The Ritz-Carlton, Bali房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=782765) | [Trip](https://hk.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1716859&checkIn=2026-12-07&checkOut=2026-12-08&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-NqZOFikmCS-sXMcWDapH-sQoxGBpwWnwQd-w991YiJm-ngGQNibZrnEMDTyLhDrvV1YIWvwwzG308yVjAybmQ0BgH_UocdjEwnGB_sbGNawHR8hdMpFhaOG33ml1h-M0VXK2WnVipZmegolWSW5KQqWSk9XTTvacOe5ytalXSUUlKLk4FCQFZibn5pXgmQbWJubGBgoGdgABQsSazwTAFrTk7MSS7NSSxJDaksABpipqOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFlfyAxhRBBTLz8yDaDVDEwhJzSlMhrgBa6JYKtcOwVgfT8c_m9D7tnvli024cjge5HdXx5gPieOPa2EcsTNGxn1gYfrEwNLEydLEyTGJl5dhxYi_TLlaeQK8oT1cfXUPdKF1DKTlDoJtNDY1NTXUNEi2NE1NSTHRNLE2NjYx0DY3NTDWufjr95JOxkbUU65QDz6exKzBqCcaHeHq6GJYUppoVllrmFBWYGjCeYpQyNDe2MDQyNDQyMrI01jOxSDMrtsgrtsjNivBgDGKzcHVzNDGNsuFi9nQJEjxYkqK5dZ-FvRSIpwjjaYF4hjBeoGHN7ihtA177SJhIEmtVhq6Hd8ZFsQLGLkZuAUYPxgjGCsYGRsZVjOxczAZGhgJMGxgZdzD-hwHGV4wgMwE5iNQF6QIAAA&masterhotelid_tracelogid=100051355-0a93add4-495322-1365&detailFilters=17|1~17~1*31|1716859~31~1716859*80|0|1~80~0*29|1~29~1|2&display=exavg&subStamp=528&isCT=true&isFlexible=F&locale=zh-HK&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18443868)
 
 ## **Holiday Inn Resort Bali Nusa Dua (假日度假村)**
 
@@ -134,7 +134,7 @@ https://youtu.be/-CJsTy4C3AQ
 
 **評價**| Agoda 上累積超過五千則真實評價，家長一致認為「CP值爆表，小孩進房第一件事是搶上鋪」。
 
-> [Holiday Inn Resort Bali Nusa Dua房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=884471)
+> Holiday Inn Resort Bali Nusa Dua房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=884471) | [Trip]()
 
 ## Grand Mirage Resort & Thalasso Bali 
 
@@ -169,7 +169,7 @@ https://youtube.com/shorts/TEO6Fnugku8?si=SI042vIiPj0K7Yzv
 
 **評價**| Expedia 上獲得「親子首選」標章，家長分享「全包式超省心，孩子玩累了隨時有東西吃」。
 
-> [Grand Mirage Resort & Thalasso Bali 房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10335)
+> Grand Mirage Resort & Thalasso Bali 房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10335) | [Trip]()
 
 # 📍 金巴蘭 (Jimbaran)
 
@@ -320,7 +320,7 @@ https://youtu.be/RodQvCZKwD0
 
 **評價**| 精打細算的家長力推，「省下來的住宿費可以多吃好幾頓海鮮大餐」。
 
-> [Aloft Bali Kuta房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22572548) [Booking](https://booking.tpm.li/IiBScM3f)
+> [Aloft Bali Kuta房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22572548) | [Booking](https://booking.tpm.li/IiBScM3f)  | [Trip](https://hk.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=72291150&checkIn=2026-12-07&checkOut=2026-12-08&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-P6zszFJMEk9YGZ4-3yL39ZhRiNDDgtPgk6GoPA8QoHz_5DXzViftc6BPDMYDy3bI_SCkbGjYyFtlzXF18IcdjByHSCcUK3wwKme5-eqpxiYeG4sov3EstvpuhqpezUSiUrEx2lksySnFQlK6Vnc3qfds98sWm3ko5SSmpxMlAIyErMzS_NKwGyDQ1NTQ0M9AwMgIIliRWeKUpW5jpKyYk5yaU5iSWpIZUFQEPMdJQyi51LijILglJzM0tKUoGq0hJzilNB4kGpxUCZZLCgkh_QmCKoQGZ-HkS7AYpYWGJOaSrEFUAL3VKhdhjX6mA6_umieU8b9jxf0YrD8QZAt6M63mRAHG9YG_uIhSk69hMLwy8WhiZWhi5WhkmsLBxPjvruYuUJ9LI09ojSNdQFYil5Q6CTTQ2NTU11DRItLZLNE011TSxNjY0Mdc0NzCxMNRrfrXjyydjIWop1yoHn09gVGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsTkauLm4WEbZcDF7ugQJHixJ0dy6z8JeCsRThPG0QDxDGC_QsGZ3lLYBr30kTCSJtSpD18M746JYAWMXI7cAowdjBGMFYwMj4ypGdi5mAyNDAaYNjIw7GP_DAOMrRpCZAJ11f5bgAgAA&masterhotelid_tracelogid=100051355-0a98c7a5-495321-70685&detailFilters=17|1~17~1*31|72291150~31~72291150*80|0|1~80~0*29|1~29~1|2&display=exavg&subStamp=1330&isCT=true&isFlexible=F&locale=zh-HK&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18443868)
 
 ## **Padma Resort Legian (帕德瑪)**
 

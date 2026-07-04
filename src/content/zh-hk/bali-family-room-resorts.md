@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: aa0ed2f32b32b56ef55802780b58d7b8
+_srcHash: 2ee867711787ef26e0d46b71653c60f1
 ---
 
 ![【峇里島住宿推薦】全家出遊不擠房！擁有四人房的 13 間超強親子度假村區域全解析](https://images.gobaligo.id/images/2026-04/1776217409706-mixcollage-15-apr-2026-08-42-am-2361.jpg)

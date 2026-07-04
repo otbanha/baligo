@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65f8dca4fd89780001b57754'
 category:
   - 旅行技巧
 lang: id
-_srcHash: 164b893815225b07ce78299416a2a27d
+_srcHash: d12241b90e1f809337d366a850ec4d51
 ---
 Indonesia terkenal super keras soal narkoba, dan Bali sebagai destinasi wisata favorit juga nggak main-main. Narkoba dianggap masalah sosial besar, pemerintah Indonesia punya aturan ketat buat memberantasnya.
 

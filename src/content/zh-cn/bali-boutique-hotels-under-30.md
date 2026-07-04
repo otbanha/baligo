@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/64db6b62fd897800013a91b0'
 category:
   - 住宿推薦
 lang: zh-cn
-_srcHash: 839bab4d168b777cae45decc86c10ecc
+_srcHash: 430cd6e39b2cd6926e0d2dff6088bd00
 ---
 
 巴厘岛拥有成千上万的住宿选择, 要怎么样挑选出装潢美、气氛佳、位置方便的好酒店确实让人难以决定.

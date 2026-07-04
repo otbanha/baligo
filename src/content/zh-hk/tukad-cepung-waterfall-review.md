@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_747ed11a26134e35e5596b98ec191a45.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b72fd897800013a9459'
 lang: zh-hk
-_srcHash: 0a8df6492031c52ed16cbfe703324582
+_srcHash: 3ae9b8191823d4a136403079e7756b60
 ---
 峇里島遊記嘅第三個瀑布，我哋嚟到烏布附近，經過兩個鐘嘅車程，抵達被譽為「峇里島仙境」嘅Tukad Cepung瀑布。呢個隱藏喺壯麗自然景觀中嘅瑰寶，絕對係你旅程中嘅必訪之地。
 

@@ -20,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_747ed11a26134e35e5596b98ec191a45.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b72fd897800013a9459'
 lang: id
-_srcHash: 0a8df6492031c52ed16cbfe703324582
+_srcHash: 3ae9b8191823d4a136403079e7756b60
 ---
 
 Di blog travel Bali bagian ketiga soal air terjun, kita mampir ke dekat Ubud. Setelah perjalanan dua jam, sampailah di air terjun Tukad Cepung yang dijuluki 'surga Bali'. Hidden gem yang tersembunyi di tengah pemandangan alam yang spektakuler ini wajib banget masuk itinerary kamu.

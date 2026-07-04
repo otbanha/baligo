@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65ebd5ecfd89780001cf6c8b'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: a63f35179568388e9a1b4105d94f32ea
+_srcHash: 45b36a27b3063e8d5db33ed89e1e7bcc
 ---
 
 喺峇里島唔好信Google地圖！峇里島係一個令人嚮往嘅度假勝地，但係對於依賴Google地圖搵路線嘅遊客嚟講，可能會遇到一啲挑戰。呢度有兩個主要原因，令你喺計劃旅程時要謹慎對待Google地圖。

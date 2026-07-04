@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6602bc60fd89780001f34c70'
 category:
   - 旅行技巧
 lang: en
-_srcHash: f3f69be70eb47d5a986c071837c4645c
+_srcHash: 65710e7ad0123ae56354506a1a177600
 ---
 
 ![Essential Bali Travel Tips: Beware of Credit Card Surcharges](https://images.gobaligo.id/vocus/vocus_49bc8b6c7bfea6941ddd4b975868e7a0.png)

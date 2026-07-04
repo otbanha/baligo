@@ -21,7 +21,7 @@ originalUrl: 'https://vocus.cc/article/64db6b62fd897800013a91b0'
 category:
   - 住宿推薦
 lang: id
-_srcHash: 839bab4d168b777cae45decc86c10ecc
+_srcHash: 430cd6e39b2cd6926e0d2dff6088bd00
 ---
 Bali punya ribuan pilihan akomodasi, bingung milih hotel yang dekorasinya cantik, suasananya oke, dan lokasinya strategis?
 

@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/64db6b62fd897800013a91b0'
 category:
   - 住宿推薦
 lang: zh-hk
-_srcHash: 839bab4d168b777cae45decc86c10ecc
+_srcHash: 430cd6e39b2cd6926e0d2dff6088bd00
 ---
 
 峇里島有成千上萬嘅住宿選擇，要點樣揀到裝修靚、氣氛好、位置方便嘅好酒店真係令人難以決定。
