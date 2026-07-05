@@ -63,7 +63,7 @@ According to the Immigration Bureau, in such cases, you **may still be allowed**
 ## **Summary of Steps to Take**
 
 1. **Immediately Check the Type of Error:** Carefully confirm which information you entered incorrectly.
-2. **Critical Data Error:** If the error is in your name, nationality, or passport number, do not hesitate—immediately visit the official website (molina.imigrasi.go.id) to submit a new eVisa application. The old incorrect application will be unusable and non-refundable.
+2. **Critical Data Error:** If the error is in your name, nationality, or passport number, do not hesitate—immediately visit the official website (evisa.imigrasi.go.id) to submit a new eVisa application. The old incorrect application will be unusable and non-refundable.
 3. **Non-Critical Data Error:** If the error is in secondary information like sex or place of birth, you can assess the risk. While the authorities indicate it may still be usable, for peace of mind—especially if your schedule is tight or you have important business arrangements—it is recommended to reapply.
 4. **Contact Official Channels:** If you have any questions, it is advisable to seek assistance directly through the official contact methods of the Indonesian Immigration Bureau. However, please note that, according to current regulations, they cannot modify critical data on an already issued eVisa.
 

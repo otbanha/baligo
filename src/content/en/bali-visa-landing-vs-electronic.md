@@ -45,7 +45,7 @@ The electronic visa is a visa that travelers can apply for online through the of
 
 The advantage of the electronic visa is the simplicity of the application process. Just follow these steps within 14 days before departure:
 
-1. [Fill out the form on the website](https://molina.imigrasi.go.id/) (<--This is the only official website! There are many fake ones online)
+1. [Fill out the form on the website](https://evisa.imigrasi.go.id/) (<--This is the only official website! There are many fake ones online)
 2. Passport valid for more than six months
 3. Upload passport (photo page) and photo (can be taken with a phone, as long as it clearly identifies you)
 4. Prepare a credit card for payment (Online payments require Visa, Mastercard, or JCB credit cards. Up to five people can apply/use one credit card simultaneously. Amex cards cannot be used! There is a surcharge, and the final amount is Rp. 519,500)
