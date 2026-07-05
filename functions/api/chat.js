@@ -118,6 +118,34 @@ export function buildRagContext(matches, lang) {
   return parts.join('\n\n');
 }
 
+// 每則回覆最後固定附加的社群導流文字（不論是 LLM 生成、快取命中、還是找不到 chunk 的固定回覆都會加上）
+const COMMUNITY_FOOTER = {
+  'en': `
+
+🙋 Still can't find an answer?
+Join the Go Bali Go Bali Travel Community to browse the most complete Bali travel Q&A — visas, accommodation, transport, private drivers, currency exchange, and the latest travel updates, all answered by fellow travelers and local experts.
+✅ Free to join — sign up now!
+👉 [https://community.gobaligo.id/](https://community.gobaligo.id/)`,
+  'zh-CN': `
+
+🙋 还有问题找不到答案？
+加入 Go Bali Go 巴厘岛旅游讨论区，立即查看最完整的巴厘岛旅游 Q&A，从签证、住宿、交通、包车、换钱到最新旅游资讯，都有热心旅人与在地达人为你解答。
+✅ 免费注册，立即加入讨论！
+👉 [https://community.gobaligo.id/](https://community.gobaligo.id/)`,
+  'zh-HK': `
+
+🙋 仲有問題搵唔到答案？
+加入 Go Bali Go 峇里島旅遊討論區，即刻睇最齊全嘅峇里島旅遊 Q&A，簽證、住宿、交通、包車、換錢到最新旅遊資訊，都有熱心旅人同在地達人幫你解答。
+✅ 免費註冊，即刻加入討論！
+👉 [https://community.gobaligo.id/](https://community.gobaligo.id/)`,
+  'zh-TW': `
+
+🙋 還有問題找不到答案？
+加入 Go Bali Go 峇里島旅遊討論區，立即查看最完整的峇里島旅遊 Q&A，從簽證、住宿、交通、包車、換錢到最新旅遊資訊，都有熱心旅人與在地達人為你解答。
+✅ 免費註冊，立即加入討論！
+👉 [https://community.gobaligo.id/](https://community.gobaligo.id/)`,
+};
+
 // 沒有任何 chunk 過門檻時的固定回覆——涵蓋兩種情況（不呼叫 LLM，故用固定文案）：
 // 1) 離題問題（例如寫程式、跟峇里島無關）2) 峇里島相關但本站剛好沒有對應文章
 const NOT_FOUND_REPLY = {
@@ -302,7 +330,7 @@ export async function onRequestPost(context) {
 
   // ── 沒有任何 chunk 過門檻 → 不呼叫 LLM，直接走「找不到」回覆路徑 ──────────────
   if (matches.length === 0) {
-    const reply = NOT_FOUND_REPLY[lang] || NOT_FOUND_REPLY['zh-TW'];
+    const reply = (NOT_FOUND_REPLY[lang] || NOT_FOUND_REPLY['zh-TW']) + (COMMUNITY_FOOTER[lang] || COMMUNITY_FOOTER['zh-TW']);
     context.waitUntil(logChat(env, message, reply, pageLang, 0, null));
     return Response.json({ reply }, { headers: corsHeaders });
   }
@@ -371,6 +399,13 @@ export async function onRequestPost(context) {
             fullReply += token;
           } catch {}
         }
+      }
+      // 附加固定的社群導流文字，用同樣的 SSE delta 格式送出，前端解析邏輯不用改
+      if (fullReply) {
+        const footer = COMMUNITY_FOOTER[lang] || COMMUNITY_FOOTER['zh-TW'];
+        const footerChunk = `data: ${JSON.stringify({ choices: [{ delta: { content: footer } }] })}\n\n`;
+        await writer.write(enc.encode(footerChunk));
+        fullReply += footer;
       }
     } finally {
       await writer.close();
