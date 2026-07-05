@@ -1,15 +1,7 @@
 ---
-title: >-
-  【Tirta Empul Holy Water Temple】Complete Guide: Thousand-Year Purification
-  Ritual Process, Taboos, and Must-See Highlights
+title: "Tirta Empul Temple 2026: Purification Ritual & Dress Code"
 slug: tirta-empul-temple-guide
-description: >-
-  Step into Bali's most sacred water temple! This article provides a detailed
-  analysis of the historical background of Tirta Empul and the complete steps of
-  the Melukat purification ritual. It includes how to obtain a sarong, the order
-  of offerings, legends about the spring's healing powers, and religious taboos
-  for entering the temple. Experience the healing power of the holy spring water
-  in this thousand-year-old temple.
+description: "Tirta Empul is Bali's most sacred water temple, famous for its Melukat purification ritual. This guide covers the steps, sarong rental, and temple taboos."
 pubDate: 2026-01-18T00:00:00.000Z
 pubHour: null
 category:

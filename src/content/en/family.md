@@ -1,16 +1,7 @@
 ---
 slug: family
-title: >-
-  【2026 Winter/Summer Vacation in Bali】Family Travel Guide: Top 4 Areas, Dry
-  Season Weather & Accommodation Recommendations
-description: >-
-  Is the weather good in Bali during summer vacation? Where should families with
-  kids stay? What should you consider when traveling with elderly relatives?
-  This article covers everything: July dry season weather in Bali, the top 4
-  family-friendly areas (Sanur/Seminyak/Ubud/Nusa Dua), essential tips for
-  traveling with seniors, and a limited-time accommodation offer at Kempinski
-  Nusa Dua. Whether you're traveling with kids or multiple generations, you'll
-  find it easy to plan a Bali trip that suits the whole family.
+title: "Family Trip to Bali 2026: Best Areas, Weather & Hotels"
+description: "Planning a family holiday to Bali? Compare the top 4 family-friendly areas, the dry season outlook, and tips for traveling with kids or grandparents."
 pubDate: 2026-04-02T00:00:00.000Z
 category:
   - 家庭親子

@@ -1,9 +1,7 @@
 ---
 slug: bali-mangosteen-season
-title: 'The Queen of Tropical Fruits: Mangosteen Season in Indonesia/Bali'
-description: >-
-  Mangosteen is one of the most abundantly produced tropical fruits in
-  Indonesia. When is the season for this sweet and tangy fruit each year?
+title: "Mangosteen Season in Bali 2026: When, Where & Prices"
+description: "Bali's mangosteen season peaks January-April, when prices drop to around Rp 10,000/kg. Here's when to buy, where to find the best fruit, and fair prices."
 pubDate: 2024-04-12T00:00:00.000Z
 category:
   - 美食景點活動

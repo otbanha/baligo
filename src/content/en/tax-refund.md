@@ -1,12 +1,6 @@
 ---
-title: Bali (Indonesia) Complete Guide to VAT Refund for Tourists
-description: >-
-  Save money while shopping in Bali! A deep dive into Indonesia's VAT Refund for
-  Tourists system: Includes minimum spending thresholds, approved store logos,
-  airport procedures, and required documents. This guide highlights the latest
-  2026 refund deadlines and collection methods, teaching you how to elegantly
-  reclaim 11% VAT at Ngurah Rai Airport, making your island shopping spree more
-  cost-effective.
+title: "Bali Tax Refund 2026: How to Claim 11% VAT at the Airport"
+description: "Shopping in Bali? Tourists can reclaim 11% VAT on qualifying purchases. This guide covers minimum spend, approved stores, documents, and refund process."
 pubDate: 2026-04-16T00:00:00.000Z
 category:
   - 旅行技巧

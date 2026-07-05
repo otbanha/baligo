@@ -119,6 +119,19 @@ if (existsSync(CACHE_FILE)) {
   } catch { /* ignore corrupt cache */ }
 }
 
+// ── Title/description 鎖定清單 ────────────────────────────────────────────────
+// 人工優化過 SEO title/description 的頁面，翻譯腳本重跑時必須跳過這兩欄，
+// 只重翻 body。格式：{ "en": ["slug1", "slug2", ...], "zh-cn": [...] }
+const TITLE_LOCK_FILE = 'scripts/title-lock.json';
+let titleLocks = {};
+if (existsSync(TITLE_LOCK_FILE)) {
+  try { titleLocks = JSON.parse(readFileSync(TITLE_LOCK_FILE, 'utf-8')); } catch { /* ignore corrupt file */ }
+}
+function isTitleLocked(lang, destFilename) {
+  const slug = destFilename.replace(/\.mdx?$/, '');
+  return (titleLocks[lang] || []).includes(slug);
+}
+
 function saveCache() {
   if (!isDryRun) writeFileSync(CACHE_FILE, JSON.stringify(cache, null, 2));
 }
@@ -378,6 +391,17 @@ async function translateTexts(texts, lang) {
 
 // ── 主要翻譯邏輯 ─────────────────────────────────────────────────────────────
 
+// titleLocked 時，newFm.title/description 目前仍是來源語言（zh-tw）的值（來自 {...fm} 展開），
+// 必須換成翻譯檔既有的英文（或其他語言）title/description，否則會把中文寫進翻譯檔。
+function applyTitleLock(newFm, titleLocked, destPath) {
+  if (!titleLocked || !existsSync(destPath)) return;
+  try {
+    const { data: destFm } = matter(readFileSync(destPath, 'utf-8'));
+    if (destFm.title) newFm.title = destFm.title;
+    if (destFm.description) newFm.description = destFm.description;
+  } catch { /* fallthrough: keep source-language values */ }
+}
+
 async function translateFile(filename, lang) {
   const srcPath = join(SOURCE_DIR, filename);
   const srcContent = readFileSync(srcPath, 'utf-8');
@@ -411,13 +435,15 @@ async function translateFile(filename, lang) {
   }
 
   const { data: fm, content: body } = matter(srcContent);
+  const titleLocked = !isBlocks && isTitleLocked(lang, destFilename);
 
   // Frontmatter 可翻譯欄位
   const fmTranslatables = [];
   const fmKeys = [];
   // blocks 的 title 是區塊 slug 參考用，不能翻譯（否則文章找不到區塊）
-  if (fm.title && !isBlocks) { fmTranslatables.push(fm.title); fmKeys.push('title'); }
-  if (fm.description) { fmTranslatables.push(fm.description); fmKeys.push('description'); }
+  // titleLocked：人工優化過的 title/description，跳過重翻，保留翻譯檔現有內容
+  if (fm.title && !isBlocks && !titleLocked) { fmTranslatables.push(fm.title); fmKeys.push('title'); }
+  if (fm.description && !titleLocked) { fmTranslatables.push(fm.description); fmKeys.push('description'); }
 
   // Body 分割
   const segments = segmentBody(body);
@@ -433,6 +459,7 @@ async function translateFile(filename, lang) {
     // 無可翻譯文字（純 iframe / HTML）：直接複製來源，加 lang + _srcHash
     if (!isDryRun) {
       const newFm = { ...fm, lang, _srcHash: srcHash };
+      applyTitleLock(newFm, titleLocked, destPath);
       const newContent = matter.stringify(body, newFm);
       writeFileSync(destPath, newContent, 'utf-8');
       cache.files[fileCacheKey] = srcHash;
@@ -451,6 +478,7 @@ async function translateFile(filename, lang) {
     const t = translated[i];
     newFm[key] = (typeof t === 'string' && t.trim()) ? t : fm[key];
   });
+  applyTitleLock(newFm, titleLocked, destPath);
 
   // 修正無效 tags（空字串、多行字串 → 空陣列或正確陣列）
   if (newFm.tags != null && !Array.isArray(newFm.tags)) {

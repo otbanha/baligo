@@ -1,15 +1,7 @@
 ---
-title: >-
-  2027 Bali Nyepi Day Complete Guide: From Ogoh-ogoh Festivities to 24 Hours of
-  Silence + Resort Recommendations
+title: "Nyepi 2027 in Bali: Exact Date & What Actually Closes"
 slug: Nyepi-ogoh-ogoh-2027
-description: >-
-  Island-wide internet blackout, airport closure! 2027 Bali Nyepi Day is
-  arriving in March. This article honestly packs the most complete local guide:
-  from the thrilling Ogoh-ogoh demon statue parade the night before, to the
-  absolute silence with no lights for 24 hours. We've handpicked the island's
-  top resorts offering "stay-in, blissfully unwind" Nyepi Day packages, letting
-  you experience the purest soul of the Island of the Gods!
+description: "Bali's Day of Silence returns in March 2027 with an island lockdown and internet blackout. Here's the exact date, Ogoh-ogoh schedule, and open resorts."
 pubDate: 2026-05-30T00:00:00.000Z
 pubHour: 23
 category:

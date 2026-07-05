@@ -1,12 +1,7 @@
 ---
 slug: bali-e-customs-declaration
-title: >-
-  【2025 Latest】How to Fill Out Bali's Electronic Customs Declaration Form?
-  Complete eCD Process Guide for Smooth Entry
-description: >-
-  Essential for Your Bali Trip! Learn How to Correctly Fill Out the Electronic
-  Customs Declaration Form to Avoid Entry Delays or Fines. Step-by-Step Visual
-  Guide and FAQs Explained.
+title: "Bali E-Customs Declaration 2026: How to Fill It Out"
+description: "Every visitor now files an Electronic Customs Declaration before landing in Bali. This visual guide shows exactly what to enter and common mistakes."
 pubDate: '2025-06-23'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_24672d877372de2d4b1c95157ad5b40a.png'
 tags:

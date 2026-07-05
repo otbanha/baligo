@@ -1,15 +1,7 @@
 ---
 slug: indonesia-dry-season-2026
-title: >-
-  When Will the 2026 Rainy Season End in Indonesia? BMKG's Latest Forecast: Bali
-  and Java Dry Season Travel Guide
-description: >-
-  The Indonesian Meteorological Agency (BMKG) predicts that the 2026 rainy
-  season will end earlier than usual! This article provides the latest seasonal
-  transition schedule for Java and Bali. Want to know about climate changes from
-  April to October and how to plan a cross-sea trip between these two islands?
-  Follow our analysis to seize this year's driest and most stable golden travel
-  period, and embark on your rain-free Indonesian adventure.
+title: "Bali Dry Season 2026: When It Really Starts (Local's Guide)"
+description: "BMKG's 2026 forecast: Bali and Java's dry season starts earlier than usual. Here's the month breakdown and how to plan an island-hopping trip around it."
 pubDate: 2026-04-03T00:00:00.000Z
 category:
   - 旅行技巧

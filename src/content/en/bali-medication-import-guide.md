@@ -1,13 +1,7 @@
 ---
 slug: bali-medication-import-guide
-title: >-
-  Important Notes on Bringing Sleeping Pills/Special Prescription Medications to
-  Indonesia/Bali
-description: >-
-  Indonesia/Bali has very strict drug regulations. Some medications and sleeping
-  pills that are legal prescription drugs in your country are considered
-  controlled substances here! Read this guide to learn how to bring sleeping
-  pills and prescription medications into Bali/Indonesia.
+title: "Bringing Medication into Bali 2026: Rules & Declaration"
+description: "Some legal prescription drugs back home, including sleeping pills, count as controlled substances in Indonesia. Here's what's banned and how to declare it."
 pubDate: '2024-03-16'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7049673c0e149aad75e52ec534d61049.png'
 tags:

@@ -1,16 +1,7 @@
 ---
-title: >-
-  2026 Indonesia National Holidays & Bali Festivals Complete Guide: A Year of
-  Exciting Events at a Glance!
+title: "Bali Festival Calendar 2026: Every Major Event & Date"
 slug: 2026-bali-festival-guide
-description: >-
-  Bali, this enchanting tropical paradise in the South Seas, will welcome
-  travelers seeking inspiration and celebration in 2026 with a vibrant array of
-  cultural festivals. Whether you want to avoid the crowds or immerse yourself
-  in local festivities, this guide will light your way and lead you to
-  experience the island's unique vitality and rhythm. Embark now to explore the
-  brilliant and passionate colors of Bali's soul! For those looking to avoid
-  Bali's five peak seasons, please refer to
+description: "Bali's festival dates shift every year on the Balinese and Islamic calendars. This 2026 guide lists exact dates to plan your trip around or into."
 pubDate: 2026-01-16T00:00:00.000Z
 pubHour: null
 category:

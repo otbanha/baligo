@@ -1,7 +1,7 @@
 ---
 slug: bali-chinese-temples-guide
-title: "Six Chinese Temples/Buddhist Temples in Bali: Experience Zen and Chinese Culture on the Island \U0001F338"
-description: "Bali is famous for its Hindu temples, but scattered across the island are also several Chinese Buddhist temples filled with Eastern charm. These temples not only showcase the historical traces of Chinese immigrants in Bali but also serve as unique corners for travelers seeking tranquility and cultural fusion. Below, we introduce six temples/Buddhist temples in Bali worth visiting \U0001F447"
+title: "6 Chinese Temples in Bali: A Local's Guide to Visiting"
+description: "Bali isn't only Hindu temples. Scattered across the island are Chinese Buddhist temples tracing back to early immigrants. Here are 6 worth visiting."
 pubDate: 2025-10-25T00:00:00.000Z
 category:
   - 美食景點活動

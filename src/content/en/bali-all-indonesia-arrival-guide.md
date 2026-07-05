@@ -1,16 +1,7 @@
 ---
 slug: bali-all-indonesia-arrival-guide
-title: >-
-  【2026 Edition】Using the 'All Indonesia' Arrival Card for Bali Entry｜1-Minute
-  Guide to the Latest Process: From Landing to Customs to Baggage Claim
-description: >-
-  Planning a trip to Bali in 2026? Here's a complete breakdown of the latest
-  Electronic Customs Declaration (ECD) and 'All Indonesia' system. This
-  illustrated guide walks you through the newest procedures at Ngurah Rai
-  International Airport (DPS): from disembarking, scanning QR codes, clearing
-  customs, to collecting your luggage. Updated tips on tourist tax payment and
-  Visa on Arrival (VoA) processing to help you breeze through immigration and
-  start your perfect island getaway.
+title: "All Indonesia Arrival Card 2026: Step-by-Step Guide"
+description: "Landing in Bali now means scanning a QR code before customs. This walkthrough covers the arrival card, tourist tax, and Visa on Arrival in minutes."
 pubDate: 2025-08-14T00:00:00.000Z
 category:
   - 簽證通關

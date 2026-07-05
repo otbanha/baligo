@@ -1,16 +1,7 @@
 ---
 slug: indonesia-gojek-gopay-guide
-title: >-
-  Grab or Gojek? A Comprehensive Guide to Registering, Using, and Topping Up
-  Gojek and GoPay in Indonesia/Bali
-description: >-
-  When traveling or living in Indonesia or Bali, the name Gojek is undoubtedly
-  familiar to everyone. As one of Indonesia's most popular sharing economy
-  platforms, Gojek offers not only transportation services but also various food
-  delivery, shopping, and financial payment services. One of its key features is
-  its closely integrated payment system—GoPay. This article will delve into all
-  aspects of Gojek and GoPay, providing you with a detailed guide on how to
-  register and use these services.
+title: "GoPay for Tourists 2026: Set Up Gojek Payments in Bali"
+description: "GoPay is Bali's most useful app wallet, but signing up as a tourist trips people up. Here's how to register, top up, and pay with Gojek for rides and food."
 pubDate: 2024-10-13T00:00:00.000Z
 category:
   - 旅行技巧

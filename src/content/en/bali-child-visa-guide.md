@@ -1,13 +1,7 @@
 ---
 slug: bali-child-visa-guide
-title: Entry Requirements for Children Traveling to Indonesia/Bali
-description: >-
-  Taking a family vacation to Bali is a dream for many families. However, visa
-  issues often cause headaches for parents before departure, especially
-  questions like "What visa does my child need?" and "Does the whole family need
-  to queue for visa on arrival together?" This article will answer all your
-  questions, ensuring your family trip starts smoothly from the moment you
-  arrive!
+title: "Bali Visa for Children 2026: Rules, Fees & Family Tips"
+description: "Traveling to Bali with kids? Does your child need their own visa, can the family queue together on arrival? This guide answers both, with fees to expect."
 pubDate: 2025-12-24T00:00:00.000Z
 category:
   - 簽證通關

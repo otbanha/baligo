@@ -1,14 +1,7 @@
 ---
 slug: nuanu-creative-city-luna-guide
-title: >-
-  【2026 Bali's New Landmark】Nuanu Creative City Complete Guide: LUNA Beach Club
-  & Light Art Collection
-description: >-
-  Explore Bali's latest creative and sustainable city, Nuanu! This article
-  provides a comprehensive guide to must-visit spots in Nuanu Creative City,
-  including the globally acclaimed LUNA Beach Club, immersive light art towers,
-  and the seaside eco-park. Step into this futuristic city that blends
-  technology, art, and nature, and experience a new pinnacle of Bali tourism.
+title: "Nuanu Creative City & LUNA Beach Club 2026: Full Guide"
+description: "Bali's newest creative district blends art, sustainability, and a beach club that's gone viral. Here's what to see, how to visit, and if it's worth it."
 pubDate: 2026-01-18T00:00:00.000Z
 category:
   - 峇里島分區攻略

@@ -1,13 +1,7 @@
 ---
-title: 50+ Seminyak Eat Street Food Guide | Complete Jalan Kayu Aya Restaurant Map
+title: "Seminyak Eat Street 2026: 50+ Restaurants Reviewed"
 slug: seminyak-eat-street-guide
-description: >-
-  How to eat your way through Seminyak's Eat Street? This article compiles a
-  guide to over 50 must-try restaurants, brunch spots, and wine bars along Jalan
-  Kayu Aya. Includes Instagram-famous cafes, international creative cuisine, and
-  trusted hidden gems. Comes with a complete Google Map food guide and walking
-  route suggestions, helping you effortlessly become a foodie in Bali's most
-  vibrant district—no more restaurant indecision!
+description: "Jalan Kayu Aya packs in over 50 cafes, brunch spots, and wine bars. This guide sorts Instagram-famous places from local favorites, with a map and route."
 pubDate: 2026-05-06T00:00:00.000Z
 pubHour: 21
 category:

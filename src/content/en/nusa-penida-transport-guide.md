@@ -1,13 +1,7 @@
 ---
 slug: nusa-penida-transport-guide
-title: >-
-  Nusa Penida Transportation Guide: Taxis, Gojek/Grab, Private Drivers, and
-  Scooters
-description: >-
-  This article covers the availability of ride-hailing apps like Gojek and Grab
-  on Nusa Penida, along with the best ways to get from the port to your hotel.
-  It also offers tips on renting a scooter or hiring a private driver, helping
-  you decide which option is best for exploring the island.
+title: "Getting Around Nusa Penida 2026: Drivers, Gojek & Scooters"
+description: "Nusa Penida has no reliable Grab or Gojek past the port. Here's how private drivers, scooter rentals, and taxis work on the island, with prices for each."
 pubDate: 2024-01-16T00:00:00.000Z
 category:
   - 峇里島分區攻略

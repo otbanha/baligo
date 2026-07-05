@@ -1,13 +1,7 @@
 ---
-title: >-
-  AYANA Resort Bali｜Complete Guide: Comparing 4 Areas & Rock Bar Sunset
-  Reservations 2026 - Go Bali Go
+title: "AYANA Bali Guide 2026: Which of the 4 Areas to Book"
 slug: ayana-resort-bali-guide
-description: >-
-  Bali's most famous resort! AYANA Resort Bali features four highlights: Segara,
-  RIMBA, Villas, and Rock Bar. This complete guide compares the pros and cons of
-  each area, teaches you how to reserve a spot at the world's most beautiful
-  Rock Bar, and ensures a perfect Jimbaran vacation without any pitfalls!
+description: "AYANA Resort Bali spans four areas: Segara, RIMBA, Villas, and Rock Bar. We compare the pros, cons, and prices, plus how to snag a Rock Bar sunset seat."
 pubDate: 2026-03-26T00:00:00.000Z
 pubHour: null
 category:

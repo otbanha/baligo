@@ -1,13 +1,7 @@
 ---
 slug: bali-rock-bar-reservation-guide
-title: 'How to Reserve Rock Bar in Jimbaran, Bali? Complete Experience Guide!'
-description: >-
-  Planning to visit a world-class sunset bar? This article provides a
-  comprehensive explanation of the reservation system at Rock Bar, part of AYANA
-  Resort: from guest priority, non-guest queuing tips, to the latest minimum
-  spend standards. It includes a guide to taking the cable car to the cliffside
-  bar, dress code restrictions, and the best arrival times to avoid crowds,
-  ensuring your Jimbaran sunset experience is both elegant and smooth.
+title: "Rock Bar Bali: How to Get a Sunset Seat (2026 Guide)"
+description: "Rock Bar at AYANA is Bali's hardest sunset reservation. This guide covers guest vs. non-guest booking, minimum spend, dress code, and best arrival time."
 pubDate: 2025-11-03T00:00:00.000Z
 category:
   - 美食景點活動
