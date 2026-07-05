@@ -41,7 +41,7 @@ _srcHash: 9daaf49dcf9208a4078c69dc8b6fe61c
     - **Airport Drop-off**: Free transfer to the airport by the private driver
   **Quick Reference**:
 
-> [2026 Bali Immigration Changes Explained in One Minute: Indonesia/Bali Immigration Process - From Landing to Customs to Baggage Claim](/blog/2025-bali-immigration-process/)
+> [2026 Bali Immigration Changes Explained in One Minute: Indonesia/Bali Immigration Process - From Landing to Customs to Baggage Claim](/en/blog/2025-bali-immigration-process/)
 
 ## Detailed Itinerary
 
@@ -140,11 +140,11 @@ For families with children, I highly recommend this activity—the kids will abs
 
 🦒 Bali Safari & Marine Park Tickets ▶ [Klook Discount](https://affiliate.klook.com/my_ads/text_links?ad_id=988904&type=all)
 
-> Editor’s Note: Next to Bali Safari & Marine Park, there’s a new marine park opening in 2025. For more details, check out [here](/blog/marine-safari-bali-guide/)
+> Editor’s Note: Next to Bali Safari & Marine Park, there’s a new marine park opening in 2025. For more details, check out [here](/en/blog/marine-safari-bali-guide/)
 
 ![遊客可以近距離觸摸鯊魚和魟魚。除此之外還有企鵝、食人魚、水豚君...等，看看我們的介紹喔！](https://images.gobaligo.id/vocus/vocus_d1f018ab990e090d0f3afd49608a82a8.png)
 
-[Visitors can get up close to touch sharks and rays. There are also penguins, piranhas, capybaras, and more—check out our guide!](/blog/marine-safari-bali-guide/)
+[Visitors can get up close to touch sharks and rays. There are also penguins, piranhas, capybaras, and more—check out our guide!](/en/blog/marine-safari-bali-guide/)
 ---
 
 ## **Day 6 (January 6, Mon) — Nature & Culture Tour: Ulun Danu Beratan Temple, Tirta Empul, and Tegallalang Rice Terraces**
@@ -191,7 +191,7 @@ In the afternoon, we headed to the Tegalalang Rice Terraces, also known as Alas 
 After our visit to the rice terraces, we headed to Jimbaran Beach for dinner. With the sun setting in the background, we indulged in fresh seafood dishes, making this romantic dinner the perfect ending to the day.
   **Quick Reference:**
 
-> [11 Jimbaran Seafood Restaurants in Bali: Recommendations You Can Trust](/blog/jimbaran-seafood-restaurants-list/)
+> [11 Jimbaran Seafood Restaurants in Bali: Recommendations You Can Trust](/en/blog/jimbaran-seafood-restaurants-list/)
 >   ---
 
 ## **Day 7 (January 7, Tuesday) — Tanah Lot Temple and Cliffside Bar Sunset**
@@ -207,7 +207,7 @@ In the morning, we set out early to avoid traffic and arrived smoothly at Tanah 
 🛕🌊🌅 Tanah Lot Temple, a must-visit sunset destination in Bali, offering stunning ocean views and a spiritual atmosphere ▶[Klook Discount](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
 **Quick Reference:**
 
-[Tanah Lot Temple ticket prices, low tide times, and nearby attractions](/blog/bali-tanah-lot-guide/)
+[Tanah Lot Temple ticket prices, low tide times, and nearby attractions](/en/blog/bali-tanah-lot-guide/)
 
 ### **Lunch: Babi Guling (Roast Pork)**
 
@@ -228,7 +228,7 @@ https://youtube.com/shorts/tHRxnJqxqbw
 
   **Quick Reference:**
 
-> [How to Reserve Bali's Rock Bar in Jimbaran? Complete Experience Guide!](/blog/bali-rock-bar-reservation-guide/)
+> [How to Reserve Bali's Rock Bar in Jimbaran? Complete Experience Guide!](/en/blog/bali-rock-bar-reservation-guide/)
 >   ---
 
 ## **Day 8 (January 8th, Wednesday) — Tanjung Benoa Water Sports Adventure**
@@ -241,7 +241,7 @@ On this day, we headed to Tanjung Benoa for water sports, including snorkeling, 
 
 If you plan to participate in Tanjung Benoa water sports, don’t make the same mistake I did by not researching beforehand and ending up paying much more! **Be sure to book online in advance**, not only to save a significant amount but also to avoid being overcharged on-site.
 
-## Further Reading: [Introduction to Tanjung Benoa Water Activities in Bali](/blog/tanjung-benoa-water-activities/)
+## Further Reading: [Introduction to Tanjung Benoa Water Activities in Bali](/en/blog/tanjung-benoa-water-activities/)
 
 🏖️🌊🚤Tanjung Benoa Water Sports: Parasailing, Snorkeling, Sea Walking, Banana Boat Experience ▶[Klook Deals](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E4%25B8%25B9%25E6%2588%258E%25E8%25B2%259D%25E8%25AB%25BE%25E7%2593%25A6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3D4376a16ccb)  ▶[Trip Deals](https://tw.trip.com/travel-guide/attraction/bali/tanjung-benoa-watersports-33461755?curr=IDR&locale=zh-TW&poiType=3&ext-searchpage=1&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
   ---
@@ -284,8 +284,8 @@ https://youtu.be/hdIKOX5wghU
 
   **Quick Reference:**
 
-- [100 Things to Do in Seminyak, Bali](/blog/seminyak-guide/)
-- [50 Things to Eat, Drink, and Do in Sanur](/blog/sanur-guide/)
+- [100 Things to Do in Seminyak, Bali](/en/blog/seminyak-guide/)
+- [50 Things to Eat, Drink, and Do in Sanur](/en/blog/sanur-guide/)
   ---
 
 ## **Day 11 (January 11, Saturday) — Wrapping Up a Wonderful Journey**
@@ -296,7 +296,7 @@ At 11:50 AM, we headed to the airport, ready to conclude this memorable trip and
 
 - **Massage Experience**: Hot stone massage and aromatherapy massage, recommended by our driver, were both high-quality and affordable. We scheduled two massages during our trip—the first was a hot stone massage, and the second was an aromatherapy massage. Both experiences were fantastic, leaving us completely relaxed.
 
-💆‍♀️🌿🕯️ Indulge in a super-relaxing SPA in Bali, complete with aromatherapy and hot stone massage 😌, to fully unwind your body and mind! ▶[Top-Rated SPAs by Area](/blog/spa/)
+💆‍♀️🌿🕯️ Indulge in a super-relaxing SPA in Bali, complete with aromatherapy and hot stone massage 😌, to fully unwind your body and mind! ▶[Top-Rated SPAs by Area](/en/blog/spa/)
 
 - **Private Car Service**: We recommend hiring a private driver who can tailor your itinerary based on personal preferences and provide the best route suggestions. Our driver, Ok Bali, was highly professional, fluent in Chinese, and even shared insights into Bali's history and culture, giving us a deeper understanding of the island.
 
@@ -306,7 +306,7 @@ At 11:50 AM, we headed to the airport, ready to conclude this memorable trip and
 
 On the right is our driver for the past few days, whose name is simply "Ok." Thoughtful, attentive, doesn't speed, doesn't smoke, and always punctual—Ok has so many great qualities.
 
-🚗👨‍✈️🌴 When traveling in Bali, a private driver is your best companion! They know the local routes well, are enthusiastic and professional, and will take you around Bali with ease ▶ [Recommended Private Drivers List](/blog/bali-private-car-drivers-guide/)
+🚗👨‍✈️🌴 When traveling in Bali, a private driver is your best companion! They know the local routes well, are enthusiastic and professional, and will take you around Bali with ease ▶ [Recommended Private Drivers List](/en/blog/bali-private-car-drivers-guide/)
 
 ## Conclusion
 
@@ -318,6 +318,6 @@ Do you find Gao Rongfan's itinerary exciting? Start planning your own Bali adven
 
 Click here to read more exciting Bali travelogues
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Engaging Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Engaging Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
 
 {{block:攻略}}

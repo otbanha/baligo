@@ -29,9 +29,9 @@ _srcHash: aae8f3a0aaad627003b586be2196f3a2
 
 延伸閱讀：
 
-> [2024年印尼國定假日&峇里島節慶完整指南：精彩活動日期一覽！](/blog/2024-bali-festival-calendar/)
+> [2024年印尼國定假日&峇里島節慶完整指南：精彩活動日期一覽！](/zh-hk/blog/2024-bali-festival-calendar/)
 
-> [點樣勞動節（5/1）連休九日？](/blog/2024-bali-trip-planning-guide/)
+> [點樣勞動節（5/1）連休九日？](/zh-hk/blog/2024-bali-trip-planning-guide/)
 
 ## 峇里島靈性節嘅獨特之處
 
@@ -89,9 +89,9 @@ _srcHash: aae8f3a0aaad627003b586be2196f3a2
 
 節日期間，烏布地區嘅住宿可能會好爆，請提前安排好住宿。
 
-> [【峇里島烏布住宿】烏布21間特色住宿，體驗峇里島山林美景中嘅奇幻之旅！](/blog/ubud-villas-pool-guide/)
+> [【峇里島烏布住宿】烏布21間特色住宿，體驗峇里島山林美景中嘅奇幻之旅！](/zh-hk/blog/ubud-villas-pool-guide/)
 
-> [探索烏布8間令人嘆為觀止嘅樹屋/竹屋別墅 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)
+> [探索烏布8間令人嘆為觀止嘅樹屋/竹屋別墅 tree house/bamboo villa](/zh-hk/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ### 3. 準備行李
 
@@ -127,10 +127,10 @@ _srcHash: aae8f3a0aaad627003b586be2196f3a2
 
 ## 延伸閱讀
 
-> [峇里島攻略之認識峇里島區域: 峇里島住宿推薦指南 - 認識庫塔 水明漾 坎古 烏布](/blog/2023-12-29-65839fbafd89780001e876b5/)
+> [峇里島攻略之認識峇里島區域: 峇里島住宿推薦指南 - 認識庫塔 水明漾 坎古 烏布](/zh-hk/blog/2023-12-29-65839fbafd89780001e876b5/)
 
-> [2024峇里島烏布完整攻略：50種深入認識烏布嘅方式｜探索烏布嘅魅力](/blog/ubud-guide/)
+> [2024峇里島烏布完整攻略：50種深入認識烏布嘅方式｜探索烏布嘅魅力](/zh-hk/blog/ubud-guide/)
 
-> [峇里島家庭親子旅遊活動精選攻略：烏布53項親子活動帶小朋友最輕鬆！](/blog/ubud-with-kids-guide/)
+> [峇里島家庭親子旅遊活動精選攻略：烏布53項親子活動帶小朋友最輕鬆！](/zh-hk/blog/ubud-with-kids-guide/)
 
-> [烏布四天旅遊計畫 猴子森林/烏布市場/陶藝教室/Alas Harum](/blog/ubud-monkey-forest-market-pottery-alas-harum/)
+> [烏布四天旅遊計畫 猴子森林/烏布市場/陶藝教室/Alas Harum](/zh-hk/blog/ubud-monkey-forest-market-pottery-alas-harum/)

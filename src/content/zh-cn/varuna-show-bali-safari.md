@@ -78,7 +78,7 @@ _srcHash: 97e4a2f2704e581aebaa49c4df66537e
 
 > ▶购买 [Day Varuna Premium套票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)
 
-**快速参考：**[【巴厘岛亲子旅游景点海洋公园】Marine Safari Bali 巴厘岛海洋野生动物园攻略](/blog/marine-safari-bali-guide/)
+**快速参考：**[【巴厘岛亲子旅游景点海洋公园】Marine Safari Bali 巴厘岛海洋野生动物园攻略](/zh-cn/blog/marine-safari-bali-guide/)
 
 ## 💡 实用建议
 
@@ -98,7 +98,7 @@ Premium票的观赏位置最好
 > ▶购买 [Day Varuna Premium套票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)
 
 **快速参考：**
-[巴厘岛亲子游不能错过：巴厘岛动物园 Bali Safari 要怎么玩乐、夜宿攻略](/blog/bali-safari-night-stay/)
+[巴厘岛亲子游不能错过：巴厘岛动物园 Bali Safari 要怎么玩乐、夜宿攻略](/zh-cn/blog/bali-safari-night-stay/)
 
 {{block:ubud}}
 

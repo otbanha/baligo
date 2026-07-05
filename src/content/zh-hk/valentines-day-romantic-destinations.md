@@ -32,8 +32,8 @@ _srcHash: b11b214e879f2a6f17bbb6c409bd6e40
 
 情人節對情侶們嚟講係創造新回憶嘅絕佳機會。你想同你嘅愛侶度過難忘嘅浪漫之旅嗎？可以參考一下：
 
-- [峇里島蜜月浪漫指南：探索峇里島情侶/蜜月旅行嘅36種玩法](/blog/bali-honeymoon-romantic-activities-2/)
-- 【[峇里島住宿推薦：蜜月新婚/情侶就睇呢一篇！2024最新峇里島【20間度蜜月度假村、浪漫villa推薦懶人包】](/blog/bali-honeymoon-resorts-guide/)】
+- [峇里島蜜月浪漫指南：探索峇里島情侶/蜜月旅行嘅36種玩法](/zh-hk/blog/bali-honeymoon-romantic-activities-2/)
+- 【[峇里島住宿推薦：蜜月新婚/情侶就睇呢一篇！2024最新峇里島【20間度蜜月度假村、浪漫villa推薦懶人包】](/zh-hk/blog/bali-honeymoon-resorts-guide/)】
 
 ## 十大國際浪漫旅遊目的地排名
 

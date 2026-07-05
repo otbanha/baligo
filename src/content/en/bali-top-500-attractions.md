@@ -31,13 +31,13 @@ There's actually quite a bit of preparation needed for your first trip to Bali! 
 
 Including passport and visa, travel insurance, mosquito repellent, currency exchange, luggage considerations... and more. No more searching for fragmented explanations everywhere! We've got everything prepared for you right here:
 
-> [32 Must-See Travel Tips for First-Time Visitors to Bali](/blog/bali-ultimate-guide-2026/)
+> [32 Must-See Travel Tips for First-Time Visitors to Bali](/en/blog/bali-ultimate-guide-2026/)
 
 ## 【Arrange Private Car Hire & Internet】
 
 When traveling to Bali, essential services for every visitor include airport transfers, SIM cards for internet access, and private car hire! Airport transfers ensure you don't have to worry about transportation upon arrival; SIM cards keep you connected anytime, making it easy to find attraction information; while private car hire allows you to freely arrange your itinerary and fully explore Bali's beauty! Whether it's your first visit or you're a seasoned traveler, these services will add convenience and comfort to your journey. Please refer to the links we've provided below:
 
-> [Complete Guide to Private Car Hire - Costs, Booking Methods, Advantage Analysis](/blog/bali-private-car-hire-guide/)
+> [Complete Guide to Private Car Hire - Costs, Booking Methods, Advantage Analysis](/en/blog/bali-private-car-hire-guide/)
 
 > [Bali Airport Transfers](https://affiliate.klook.com/redirect?aid=116349&aff_adid=821950&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fairport-transfers%2Fservice%2Fdps-ngurah-rai-bali-international-airport%2F)
 
@@ -127,17 +127,17 @@ In Ubud’s bustling area, two must-visit spots stand out: the Ubud Art Market, 
 
 Additionally, there are many other attractions worth exploring in and around Ubud, such as waterfalls, rice terraces, pool clubs nestled in the mountains, volcano sunrises, and ancient sites in the east. Check out our curated list below:
 
-> [Complete Ubud Guide: 100 Ways to Deeply Explore Ubud’s Charm](/blog/ubud-guide/)
+> [Complete Ubud Guide: 100 Ways to Deeply Explore Ubud’s Charm](/en/blog/ubud-guide/)
 
-> [54 Family-Friendly Activities in Ubud for a Stress-Free Trip with Kids!](/blog/ubud-with-kids-guide/)
+> [54 Family-Friendly Activities in Ubud for a Stress-Free Trip with Kids!](/en/blog/ubud-with-kids-guide/)
 
 Not sure where to stay in Bali? Consider Ubud's central location - this town is one of Bali's best accommodation spots, offering many lodging options amidst stunning mountain and forest views. Check out our Ubud accommodation recommendations:
 
-> [28 Unique Stays in Ubud: Experience a Magical Journey Amid Bali's Mountain and Forest Scenery!](/blog/ubud-villas-pool-guide/)
+> [28 Unique Stays in Ubud: Experience a Magical Journey Amid Bali's Mountain and Forest Scenery!](/en/blog/ubud-villas-pool-guide/)
 
-> [Ubud Accommodation Recommendations: Private Paradise Pool Villas - 22 Amazing Bali Villa Recommendations](/blog/ubud-villa-pool-guide/)
+> [Ubud Accommodation Recommendations: Private Paradise Pool Villas - 22 Amazing Bali Villa Recommendations](/en/blog/ubud-villa-pool-guide/)
 
-> [Explore 10 Breathtaking Tree House/Bamboo Villa Stays in Ubud](/blog/ubud-treehouse-bamboo-villa-stays/)
+> [Explore 10 Breathtaking Tree House/Bamboo Villa Stays in Ubud](/en/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ## Kuta: Bali's Most Popular Surfing Destination [50+ Attractions Introduction]
 
@@ -145,7 +145,7 @@ If you've never tried surfing before, Kuta Beach is world-renowned as a great sp
 
 Kuta is arguably Bali's most bustling area, and watching the sunset from Kuta Beach is spectacular! However, in recent years it has become Bali's nightlife hotspot, giving it a somewhat mixed atmosphere. Nevertheless, it remains one of Bali's most popular tourist destinations. Check out our Kuta guide:
 
-> [Kuta Travel Guide: 50 Must-Visit Attractions, Vibrant Nightlife, Food, and Recommended Spas](/blog/2023-12-13-657598bdfd8978000120fe20/)
+> [Kuta Travel Guide: 50 Must-Visit Attractions, Vibrant Nightlife, Food, and Recommended Spas](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 ## Seminyak: A Gathering Place for Fashion and Fun [100 Attractions Introduction]
 
@@ -159,17 +159,17 @@ Seminyak also offers a diverse culinary scene and shopping opportunities with in
 
 Jay's 1 Minute Bali
 
-> [Seminyak Map: Comprehensive Guide to 100 Places to Eat, Drink, and Explore](/blog/seminyak-guide/)
+> [Seminyak Map: Comprehensive Guide to 100 Places to Eat, Drink, and Explore](/en/blog/seminyak-guide/)
 
 This area isn't just for the young—it's also a great spot for family vacations! Take a look at our accommodation recommendations:
 
-> [Guide to Luxurious Beachfront Themed Stays in Seminyak](/blog/seminyak-beach-resorts-guide/)
+> [Guide to Luxurious Beachfront Themed Stays in Seminyak](/en/blog/seminyak-beach-resorts-guide/)
 
-> [10 Highly Recommended Budget Hotels in Seminyak's Prime Area](/blog/seminyak-budget-hotels-guide/)
+> [10 Highly Recommended Budget Hotels in Seminyak's Prime Area](/en/blog/seminyak-budget-hotels-guide/)
 
-> [21 Stunning Bali Villas in Seminyak](/blog/2024-04-04-660e6e92fd89780001e6047e/)
+> [21 Stunning Bali Villas in Seminyak](/en/blog/2024-04-04-660e6e92fd89780001e6047e/)
 
-> [Seminyak: Affordable Bali Villas Under $100](/blog/seminyak-budget-villas-guide/)
+> [Seminyak: Affordable Bali Villas Under $100](/en/blog/seminyak-budget-villas-guide/)
 
 ## Canggu: A Bohemian Coastal Town [100 Must-See Spots]
 
@@ -183,13 +183,13 @@ The best beach clubs in Canggu
 
 This is a paradise for intermediate surfers, with beaches that offer consistent waves, drawing many surfing enthusiasts. Additionally, Canggu boasts trendy cafes, health food restaurants, and chic beach clubs, providing visitors with a wide range of dining and leisure options. Check out our guide to eating, drinking, and playing in Canggu:
 
-> [Bali Canggu Perfect Adventure Map: 100 Must-Visit Spots in Canggu](/blog/canggu-guide/)
+> [Bali Canggu Perfect Adventure Map: 100 Must-Visit Spots in Canggu](/en/blog/canggu-guide/)
 
 Canggu offers a variety of accommodation options. You can choose a beachfront villa or a resort hotel with beautiful views. Check out our accommodation recommendations:
 
-> [Canggu Top 16 Accommodations You Can't Miss](/blog/canggu-top-hotels-guide/)
+> [Canggu Top 16 Accommodations You Can't Miss](/en/blog/canggu-top-hotels-guide/)
 
-> [16 Private Pool Villas in Canggu: Bali Villas You Can't Miss](/blog/canggu-villas-guide/)
+> [16 Private Pool Villas in Canggu: Bali Villas You Can't Miss](/en/blog/canggu-villas-guide/)
 
 ## Jimbaran: Beach Sunsets and Seafood Dinner [30+ Attractions]
 
@@ -201,11 +201,11 @@ Jimbaran also offers Go Karting
 
 In addition, Jimbaran has many interesting attractions! Check out our "Jimbaran Guide":
 
-> [Complete Guide to 30 Recommended Attractions in Jimbaran](/blog/jimbaran-guide/)
+> [Complete Guide to 30 Recommended Attractions in Jimbaran](/en/blog/jimbaran-guide/)
 
 If you want to immerse yourself in stunning ocean views in Jimbaran or dive into the Ayana Resort with its 14 swimming pools, take a look at:
 
-> [Jimbaran Accommodation with Breathtaking Ocean Views](/blog/2023-11-09-654c6271fd8978000174ff5e/)
+> [Jimbaran Accommodation with Breathtaking Ocean Views](/en/blog/2023-11-09-654c6271fd8978000174ff5e/)
 
 ## Uluwatu: Bali's Cape Paradise 【Introduction to 45+ Attractions】
 
@@ -219,11 +219,11 @@ On these stunning beaches, you'll experience Bali's unique tranquility and seren
 
 Check out our "Uluwatu Guide":
 
-> [【Uluwatu Guide】50 Recommended Attractions for Food, Fun, and Adventure](/blog/uluwatu-guide/)
+> [【Uluwatu Guide】50 Recommended Attractions for Food, Fun, and Adventure](/en/blog/uluwatu-guide/)
 
 Uluwatu is renowned for its stunning cliffside villas and resorts with breathtaking ocean views. Check out our recommendations:
 
-> [Uluwatu Accommodation Guide: 13 Private Villas and Resorts with Spectacular Ocean Views](/blog/uluwatu-bali-villas-resorts-guide/)
+> [Uluwatu Accommodation Guide: 13 Private Villas and Resorts with Spectacular Ocean Views](/en/blog/uluwatu-bali-villas-resorts-guide/)
 
 ## **Nusa Dua: Bali's Five-Star Luxury Experience** 【40+ Attractions】
 
@@ -231,9 +231,9 @@ Get to Know Nusa Dua in Two Minutes
 
 Nusa Dua, located in the southern part of Bali, is the island's luxury resort area. Known for its upscale beach resorts and high-end hotels, it's the perfect destination for travelers seeking a lavish experience. The beaches in Nusa Dua are pristine and beautiful, with crystal-clear waters, making it an ideal spot for relaxation. Additionally, Nusa Dua boasts numerous high-end spas, golf courses, and luxury shopping centers, offering a wide range of leisure and entertainment activities. Check out our "Nusa Dua Guide":
 
-> [Nusa Dua: The Ultimate Luxury Destination in Bali - 40 Accommodations, Dining, and Activity Recommendations](/blog/nusa-dua-guide/)
+> [Nusa Dua: The Ultimate Luxury Destination in Bali - 40 Accommodations, Dining, and Activity Recommendations](/en/blog/nusa-dua-guide/)
 
-> [Bali Nusa Dua: 16 Top-Rated Five-Star Resorts and Accommodations](/blog/nusa-dua-resorts-guide/)
+> [Bali Nusa Dua: 16 Top-Rated Five-Star Resorts and Accommodations](/en/blog/nusa-dua-resorts-guide/)
 
 ## Sanur: A Family-Friendly Paradise 【45+ Attractions】
 
@@ -243,9 +243,9 @@ Sanur is a perfect destination on Bali, especially for family vacations. This co
 
 Sanur also offers many facilities suitable for family activities, including playgrounds and kids' clubs. Additionally, there are numerous family-friendly restaurants and accommodation options, ensuring that your family vacation in Sanur is a delightful and memorable experience. Check out our "Sanur Family Guide":
 
-> [Sanur Family Guide Map｜45 Things to Eat, Drink, and Do, Plus SPA and Accommodation Recommendations!](/blog/sanur-guide/)
+> [Sanur Family Guide Map｜45 Things to Eat, Drink, and Do, Plus SPA and Accommodation Recommendations!](/en/blog/sanur-guide/)
 
-> [Bali Accommodation Recommendations: 21 Resorts/Villas in Sanur from Luxury to Budget](/blog/sanur-luxury-budget-resorts/)
+> [Bali Accommodation Recommendations: 21 Resorts/Villas in Sanur from Luxury to Budget](/en/blog/sanur-luxury-budget-resorts/)
 
 ## Nusa Penida: Natural Wonders 【18+ Attractions Introduction】
 
@@ -255,15 +255,15 @@ Nusa Penida, an island near Bali, is renowned for its natural wonders and has be
 
 Additionally, Nusa Penida is an excellent spot for snorkeling and diving, where you can explore the vibrant underwater ecosystem. Whether you're on land or underwater, Nusa Penida promises an unforgettable natural adventure. Check out our five-part guide:
 
-> [Complete Nusa Penida Guide: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
+> [Complete Nusa Penida Guide: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/en/blog/nusa-penida-guide/)
 
-> [Nusa Penida Cuisine and Azure Skies: Top 9 Best Choices](/blog/nusa-penida-best-restaurants/)
+> [Nusa Penida Cuisine and Azure Skies: Top 9 Best Choices](/en/blog/nusa-penida-best-restaurants/)
 
-> [Nusa Penida Snorkeling Spots: How to Join a Snorkeling Tour?](/blog/nusa-penida-snorkeling-guide/)
+> [Nusa Penida Snorkeling Spots: How to Join a Snorkeling Tour?](/en/blog/nusa-penida-snorkeling-guide/)
 
-> [Nusa Penida Transportation Guide: Taxis, Gojek/Grab, Private Cars, and Motorbikes](/blog/nusa-penida-transport-guide/)
+> [Nusa Penida Transportation Guide: Taxis, Gojek/Grab, Private Cars, and Motorbikes](/en/blog/nusa-penida-transport-guide/)
 
-> [Nusa Penida Accommodation Recommendations: 13 Highly Rated Stays from Luxury to Budget](/blog/nusa-penida-hotels-guide/)
+> [Nusa Penida Accommodation Recommendations: 13 Highly Rated Stays from Luxury to Budget](/en/blog/nusa-penida-hotels-guide/)
 
 ## Nusa Lembongan: Bali's Paradise Island
 
@@ -271,9 +271,9 @@ Additionally, Nusa Penida is an excellent spot for snorkeling and diving, where 
 
 Just 30 minutes from Bali lies a secluded, traffic-free paradise island! Want to know about Nusa Lembongan's attractions, recommended restaurants, and accommodations? Check out our guide:
 
-- [Nusa Lembongan Guide Part 1: Attractions](/blog/nusa-lembongan-ceningan-guide/)
-- [Nusa Lembongan Guide Part 2: Food Recommendations](/blog/nusa-lembongan-restaurants/)
-- [Nusa Lembongan Guide Part 3: Best Accommodations](/blog/nusa-lembongan-ceningan-accommodation-guide/)
+- [Nusa Lembongan Guide Part 1: Attractions](/en/blog/nusa-lembongan-ceningan-guide/)
+- [Nusa Lembongan Guide Part 2: Food Recommendations](/en/blog/nusa-lembongan-restaurants/)
+- [Nusa Lembongan Guide Part 3: Best Accommodations](/en/blog/nusa-lembongan-ceningan-accommodation-guide/)
 
 ***
 
@@ -309,6 +309,6 @@ Whether you want to explore Bali's classic attractions or have specific needs—
 
 Let professional travel planners assist you, making your Bali trip more relaxed and enjoyable!
 
-Want to see the details of our group discounts? [Click here to view](/blog/isbali-tour-agency-review/) now!
+Want to see the details of our group discounts? [Click here to view](/en/blog/isbali-tour-agency-review/) now!
 
 {{block:isbali2}}

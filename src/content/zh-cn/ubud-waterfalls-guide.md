@@ -41,7 +41,7 @@ https://youtube.com/shorts/BBIXmPYUPZo
 
 现在在瀑布两旁还各有一个泳池俱乐部 ，可以尽情徜徉在大自然的美景中 。
 
-▶[OMMA Dayclub巴厘岛：感受chill氛围，阳光下的惬意时光](/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+▶[OMMA Dayclub巴厘岛：感受chill氛围，阳光下的惬意时光](/zh-cn/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 ▶[D'tukad River Club](https://youtube.com/shorts/WdPWlqgn_jY)
 

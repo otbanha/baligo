@@ -118,6 +118,6 @@ Nanti bisa lewat tol Gilimanuk-Mengwi langsung ke Jembrana, cuma butuh waktu sek
 
 **5. Apa aja taman hiburan wajib dikunjungi di Bali?**
 
-Selain proyek ini, [Waterbom Bali](/blog/waterbom-bali-water-park-guide/), [Bali Safari Park](/blog/bali-safari-night-stay/), dan [Bali Bird Park](/blog/bali-bird-park-guide/) juga tempat hits yang nggak boleh dilewatin.
+Selain proyek ini, [Waterbom Bali](/id/blog/waterbom-bali-water-park-guide/), [Bali Safari Park](/id/blog/bali-safari-night-stay/), dan [Bali Bird Park](/id/blog/bali-bird-park-guide/) juga tempat hits yang nggak boleh dilewatin.
 
 {{block:親子}}

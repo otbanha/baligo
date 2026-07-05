@@ -65,13 +65,13 @@ Nikmati makan malam lezat di restoran hotel bintang lima, sambil bermandikan cah
 
 > 【Seminyak】[Makan di Seasalt, Alila Hotel Seminyak](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94283-seasalt-alila-seminyak-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D493fe83922)
 
-> 【Seminyak】[MoonLite Kitchen and Bar: Surga kuliner sunset di Seminyak](/blog/moonlite-kitchen-bar-seminyak-sunset/)
+> 【Seminyak】[MoonLite Kitchen and Bar: Surga kuliner sunset di Seminyak](/id/blog/moonlite-kitchen-bar-seminyak-sunset/)
 
 ## **Makan Siang dengan Pemandangan Indah**
 
 Nikmati makan siang dikelilingi pemandangan alam yang cantik, rasanya beda banget — bikin momen seru dan kenangan manis.
 
-> 【Nusa Dua】[Review Afternoon Tea di Kempinski Bali: Sore Impian di Selasar Deli](/blog/kempinski-selasar-deli-afternoon-tea/)
+> 【Nusa Dua】[Review Afternoon Tea di Kempinski Bali: Sore Impian di Selasar Deli](/id/blog/kempinski-selasar-deli-afternoon-tea/)
 
 > 【Ubud】[Makan di Bale Udang Mang Engking Ubud](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F106498-bale-udang-mang-engking-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D628e0eac4e)
 
@@ -81,7 +81,7 @@ Nikmati makan siang dikelilingi pemandangan alam yang cantik, rasanya beda bange
 
 > 【Canggu】[Kuliner di De Jukung Resto And Bar Tanah Lot](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94323-de-jukung-resto-and-bar-tanah-lot-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D88b0b13a2e)
 
-> 【Uluwatu】[【Review Kuliner Bali】Brisa Brunch Alila Villas Uluwatu: Pesta Rasa Minggu di Tebing](/blog/alila-uluwatu-brisa-brunch/)
+> 【Uluwatu】[【Review Kuliner Bali】Brisa Brunch Alila Villas Uluwatu: Pesta Rasa Minggu di Tebing](/id/blog/alila-uluwatu-brisa-brunch/)
 
 ## **Spa Romantis & Pijat**
 
@@ -111,7 +111,7 @@ Nikmati liburan berdua di jungle/beach club yang mewah.
 
 > 【Uluwatu】[Day Pass White Rock Beach Club](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F83057-white-rock-beach-club-day-pass-ungasan-south-kuta-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Ddb21a121cc)
 
-> 【Seminyak】[Panduan Lengkap Ku De Ta Beach Club Seminyak: Makan, Pesta, dan Sunset yang Memukau](/blog/ku-de-ta-beach-club/)
+> 【Seminyak】[Panduan Lengkap Ku De Ta Beach Club Seminyak: Makan, Pesta, dan Sunset yang Memukau](/id/blog/ku-de-ta-beach-club/)
 
 ## **Ikut Kegiatan Seru**
 
@@ -127,7 +127,7 @@ Petualangan berdua yang bakal jadi kenangan seumur hidup!
 
 > 【Nusa Dua】[Sea Walker (Jalan-jalan di Bawah Laut)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F51733-bali-seawalker-watersports-tanjung-benoa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6f69f93a73)
 
-**Referensi Cepat:** [Mau Main Apa di Bali? 50 Aktivitas Outdoor Paling Populer](/blog/bali-top-50-outdoor-activities/)
+**Referensi Cepat:** [Mau Main Apa di Bali? 50 Aktivitas Outdoor Paling Populer](/id/blog/bali-top-50-outdoor-activities/)
 
 ##  Abadikan Momen Manis
 
@@ -189,7 +189,7 @@ Sewa mobil + sopir Mandarin di Bali, bikin liburanmu makin bebas dan santai. Gak
 
 Di perjalanan Bali kamu, jangan lupa mampir ke spot-spot hits buat foto-foto, ya! Wajib banget dateng ke 'Pintu Langit' di Pura Lempuyang — pemandangannya juara dan bakal bikin kamu terkesan. Abis itu, lanjut ke utara Bali buat ziarah ke Pura Ulun Danu Bratan, dan abadikan momen cantik di Gerbang Handara. Kalau masih penasaran, bisa juga ke timur Bali buat lihat Taman Air Tirta Gangga. Paket ini udah termasuk sopir yang bisa bahasa Mandarin dan antar-jemput dari hotel, jadi kamu nggak perlu pusing soal bahasa atau transportasi — tinggal fokus nikmatin setiap momen perjalanan.
 
-（Baca juga: [Surga Banget! Tiga Spot Hits di Bali Timur: Pintu Langit, Taman Suci Gangga, dan Ujung Water Palace](/blog/bali-east-tour-guide/)）
+（Baca juga: [Surga Banget! Tiga Spot Hits di Bali Timur: Pintu Langit, Taman Suci Gangga, dan Ujung Water Palace](/id/blog/bali-east-tour-guide/)）
 
 > ▶ Pesan [Tur Instagram Hits Bali Timur/Utara dengan Pemandu Bahasa Mandarin](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20722-instagram-tour-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3D69d806c9e7)
 
@@ -197,7 +197,7 @@ Di perjalanan Bali kamu, jangan lupa mampir ke spot-spot hits buat foto-foto, ya
 
 Jelajahi semua spot hits di Ubud, termasuk air terjun tersembunyi kayak Kanto Lampo dan Tibumana, Air Terjun Suwat, plus seru-seruan belanja oleh-oleh di Pasar Ubud, dan istana kuno yang penuh sejarah, Puri Ubud. Kamu juga bisa mampir ke Terasering Tegallalang, Air Terjun Tegenungan, dan tempat-tempat keren lainnya — abadikan momen-momen epik ini buat feed Instagram kamu, biar makin kece. Nggak cuma itu, kamu bisa kustom sendiri itinerary-nya, misalnya mampir ke Pura Tirta Empul, Ayunan Bali, perkebunan kopi, dan spot favorit lainnya di Ubud. Bisa tambahin sopir yang bisa bahasa Mandarin, bahkan beberapa paket ada fotografer khusus — jadi nggak perlu khawatir soal bahasa, dan setiap momen berharga bisa terabadikan. Yuk, kita eksplor pesona Ubud bareng-bareng dan ciptain kenangan yang nggak terlupakan!
 
-（Baca juga: [50 Cara Seru Kenalan Sama Ubud | Eksplor Pesona Ubud](/blog/ubud-guide/)）
+（Baca juga: [50 Cara Seru Kenalan Sama Ubud | Eksplor Pesona Ubud](/id/blog/ubud-guide/)）
 
 > ▶ Pesan [Private Day Trip ke Spot Hits Ubud dengan Sopir Bahasa Mandarin](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21714-private-ubud-trip-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3Da38e26e694)
 
@@ -205,11 +205,11 @@ Jelajahi semua spot hits di Ubud, termasuk air terjun tersembunyi kayak Kanto La
 
 Sopir yang bisa bahasa Mandarin bakal anter kamu ke Pantai Padang Padang yang cantik di Uluwatu — duduk santai di pasir putih sambil nikmatin air laut biru jernih, bikin kamu tenggelam dalam keindahan alam. Lanjut, mampir ke Pura Uluwatu yang megah di atas tebing; di sini kamu nggak cuma bisa nonton Tari Kecak yang khas dan spektakuler, tapi juga lihat pemandangan tebing yang dramatis pas matahari terbenam. Akhiri hari di Pantai Jimbaran, biar perjalanan kamu punya kenangan paling manis.
 
-（Baca juga: [Tari Kecak: Pertunjukan Spektakuler yang Wajib Ditonton di Bali](/blog/kecak-fire-dance-bali/)）
+（Baca juga: [Tari Kecak: Pertunjukan Spektakuler yang Wajib Ditonton di Bali](/id/blog/kecak-fire-dance-bali/)）
 
-（Baca juga: [Menjelajah Pantai Tersembunyi Bali: 6 Hidden Gem Beach & Cara Cek Pasang Surut](/blog/bali-hidden-beaches-guide/)）
+（Baca juga: [Menjelajah Pantai Tersembunyi Bali: 6 Hidden Gem Beach & Cara Cek Pasang Surut](/id/blog/bali-hidden-beaches-guide/)）
 
-（Baca juga: [8 Rekomendasi Seafood Restaurant di Jimbaran](/blog/jimbaran-guide/)）
+（Baca juga: [8 Rekomendasi Seafood Restaurant di Jimbaran](/id/blog/jimbaran-guide/)）
 
 > ▶ Pesan [Tur Uluwatu/Jimbaran & Tari Kecak dengan Driver Mandarin](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fscroll_pkg%3D287234%26shop_id%3D119049035%26shop_type%3D0)
 
@@ -217,7 +217,7 @@ Sopir yang bisa bahasa Mandarin bakal anter kamu ke Pantai Padang Padang yang ca
 
 Berangkat dari Bali naik kapal ke Nusa Penida, siap-siap buat petualangan sehari yang gila! Pemandu berbahasa Mandarin bakal anter kamu ke Kelingking Beach yang misterius — dari atas, bentuk pulaunya kayak T-Rex raksasa. Terus, mampir ke Angel's Billabong yang dikelilingi bebatuan vulkanik, airnya hijau jernih banget kayak kolam bidadari. Kalau kamu pengen lebih dalam lagi, bisa tambah paket snorkeling buat jelajah Crystal Bay, lihat langsung keindahan ekosistem laut Bali. Dijamin makin seru!
 
-（Baca juga: [Panduan Lengkap Nusa Penida: Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)）
+（Baca juga: [Panduan Lengkap Nusa Penida: Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)）
 
 ▶ Pesan [Tur Nusa Penida Sehari dengan Pemandu Mandarin](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3D7e1e0da9d2)
 

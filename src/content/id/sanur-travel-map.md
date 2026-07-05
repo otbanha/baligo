@@ -61,7 +61,7 @@ Sanur punya beragam aktivitas pantai yang seru. Kamu bisa jalan-jalan santai di 
 
 Sanur nggak cuma punya pantai yang cantik, tapi juga jadi pelabuhan utama buat naik kapal ke Nusa Penida. Kalau kamu berencana liburan ke pulau yang bikin speechless ini, berangkat dari Pelabuhan Sanur adalah pilihan paling praktis. Nusa Penida terkenal dengan alamnya yang masih perawan dan spot diving yang luar biasa — petualangan yang nggak bakal terlupakan.
 
-Cek juga: [Nusa Penida: Cara ke Sana & Tips Liburan](/blog/nusa-penida-guide/)
+Cek juga: [Nusa Penida: Cara ke Sana & Tips Liburan](/id/blog/nusa-penida-guide/)
 
 ## Massimo Italian Restaurant: Pesta Rasa di Sanur
 

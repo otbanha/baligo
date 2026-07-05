@@ -40,7 +40,7 @@ Lokasi Amigoo Lux Bali cukup strategis, berada di antara Kuta di pesisir barat d
 
 ## Jam Buka
 
-Amigoo Lux Bali buka setiap hari dari jam 10 pagi sampai 8 malam, kecuali pada [Hari Raya Nyepi](/blog/2025-bali-nyepi-day-guide/) yang tutup setahun sekali. Mau kamu belanja pagi-pagi atau mampir malam hari buat beli keperluan mendadak, tempat ini selalu siap menyambut kamu.
+Amigoo Lux Bali buka setiap hari dari jam 10 pagi sampai 8 malam, kecuali pada [Hari Raya Nyepi](/id/blog/2025-bali-nyepi-day-guide/) yang tutup setahun sekali. Mau kamu belanja pagi-pagi atau mampir malam hari buat beli keperluan mendadak, tempat ini selalu siap menyambut kamu.
 
 ## Latar Belakang yang Unik
 

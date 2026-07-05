@@ -31,10 +31,10 @@ Nusa Penida 係一個峇里島嘅離岸小島，由峇里島本島搭船大約45
 
 針對佩尼達島我哋總共有五集介紹，一齊嚟更加深入認識呢個海島天堂！其他四集呢度有傳送門：
 
-1. [佩尼達島美食同碧海藍天：Nusa Penida 嘅 Top 9 絕佳選擇](/blog/nusa-penida-best-restaurants/)
-2. [Nusa Penida 努沙佩尼達島嘅浮潛點介紹，點樣參加浮潛？](/blog/nusa-penida-snorkeling-guide/)
-3. [佩尼達島的士、Gojek/Grab、包車、摩托車交通攻略](/blog/nusa-penida-transport-guide/)
-4. [佩尼達島嘅住宿推薦：13間由奢華到平價嘅 Nusa Penida 好評住宿](/blog/nusa-penida-hotels-guide/)
+1. [佩尼達島美食同碧海藍天：Nusa Penida 嘅 Top 9 絕佳選擇](/zh-hk/blog/nusa-penida-best-restaurants/)
+2. [Nusa Penida 努沙佩尼達島嘅浮潛點介紹，點樣參加浮潛？](/zh-hk/blog/nusa-penida-snorkeling-guide/)
+3. [佩尼達島的士、Gojek/Grab、包車、摩托車交通攻略](/zh-hk/blog/nusa-penida-transport-guide/)
+4. [佩尼達島嘅住宿推薦：13間由奢華到平價嘅 Nusa Penida 好評住宿](/zh-hk/blog/nusa-penida-hotels-guide/)
 
 ## 佩尼達島熱門景點
 
@@ -128,7 +128,7 @@ Nusa Penida 係一個峇里島嘅離岸小島，由峇里島本島搭船大約45
 
 峇里島去Nusa Penida嘅快艇通常都有行李限制，最多帶兩個行李箱，總重量係30公斤。不過，佢哋其實唔會秤你嘅行李。佢哋會將行李放喺甲板上，用大防水布冚住避免整濕。
 
-如果你係想將大件行李寄存在峇里島本島，可以參考：[【出發前往峇里島離島】沙努爾行李寄存攻略](/blog/sanur-luggage-storage-guide/)
+如果你係想將大件行李寄存在峇里島本島，可以參考：[【出發前往峇里島離島】沙努爾行李寄存攻略](/zh-hk/blog/sanur-luggage-storage-guide/)
 
 ## **住宿推薦**
 
@@ -164,7 +164,7 @@ Nusa Penida 係一個峇里島嘅離岸小島，由峇里島本島搭船大約45
 
 3. 可以帶大件行李，但最好盡量避免，喺島上帶住好唔方便
 
-4. 寄物服務請 [參考呢度](/blog/sanur-luggage-storage-guide/)
+4. 寄物服務請 [參考呢度](/zh-hk/blog/sanur-luggage-storage-guide/)
 
 5. Klook 買飛嘅人，開船前提早至少 30 分鐘到港口
 
@@ -191,10 +191,10 @@ Nusa Penida 係一個峇里島嘅離岸小島，由峇里島本島搭船大約45
 
 我哋仲介紹咗九間有無邊際泳池、金黃沙灘、夕陽美景嘅Nusa Penida美食餐廳
 
-**▶努沙佩尼達島攻略第二集：**[享受佩尼達島嘅碧海藍天美食，TOP 9絕佳選擇](/blog/nusa-penida-best-restaurants/)
+**▶努沙佩尼達島攻略第二集：**[享受佩尼達島嘅碧海藍天美食，TOP 9絕佳選擇](/zh-hk/blog/nusa-penida-best-restaurants/)
 
 ![住宿推薦](https://images.gobaligo.id/vocus/vocus_22ae845281804118aa70b28861ed088e.jpg)
 
-**▶努沙佩尼達島攻略第三集：**[努沙佩尼達四大潛點介紹/點樣參加浮潛？](/blog/nusa-penida-snorkeling-guide/)
+**▶努沙佩尼達島攻略第三集：**[努沙佩尼達四大潛點介紹/點樣參加浮潛？](/zh-hk/blog/nusa-penida-snorkeling-guide/)
 
 ![住宿推薦](https://images.gobaligo.id/vocus/vocus_45dcf8200acb1b2e97b7e51cf764425f.jpg)

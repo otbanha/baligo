@@ -74,8 +74,8 @@ Clip 'n Climb Bali combines sports and entertainment, making it a popular indoor
 
 ▶[Purchase/Book Clip 'n Climb Discount Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1026544&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F150182-clip-n-climb-pass-in-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b7aec2eea)
 
-- **Nearby Attractions**: [45 Things to Eat, Drink, and Do in Sanur](/blog/sanur-guide/)
+- **Nearby Attractions**: [45 Things to Eat, Drink, and Do in Sanur](/en/blog/sanur-guide/)
 
 ![4. Tips](https://images.gobaligo.id/vocus/vocus_cf950e3526cd5cc4ac4b87c676f9d924.png)
 
-Sanur is a tranquil seaside town on Bali, renowned for its calm beaches, laid-back atmosphere, and stunning sunrise views. It offers family-friendly resorts, traditional markets, and a wealth of local cuisine, making it an ideal destination for those seeking a slower pace and cultural exploration. Whether strolling along the coastline or immersing yourself in local culture, Sanur promises a deeply relaxing holiday experience! Want to learn more about Sanur? [Click here](/blog/sanur-guide/).
+Sanur is a tranquil seaside town on Bali, renowned for its calm beaches, laid-back atmosphere, and stunning sunrise views. It offers family-friendly resorts, traditional markets, and a wealth of local cuisine, making it an ideal destination for those seeking a slower pace and cultural exploration. Whether strolling along the coastline or immersing yourself in local culture, Sanur promises a deeply relaxing holiday experience! Want to learn more about Sanur? [Click here](/en/blog/sanur-guide/).

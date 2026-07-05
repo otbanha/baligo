@@ -52,7 +52,7 @@ https://www.instagram.com/reel/C7hDmUmpeU4/?utm_source=ig_web_button_share_sheet
 
 https://www.instagram.com/reel/C6_hnL-J86g/?utm_source=ig_web_button_share_sheet
 
-> Further Reading: [11 Jimbaran Seafood Restaurants in Bali: Recommendations to Avoid Disappointment](/blog/jimbaran-seafood-restaurants-list/)
+> Further Reading: [11 Jimbaran Seafood Restaurants in Bali: Recommendations to Avoid Disappointment](/en/blog/jimbaran-seafood-restaurants-list/)
 
 ### GWK Cultural Park in Jimbaran
 
@@ -68,9 +68,9 @@ GWK Cultural Park is a highly worthwhile attraction. The majestic statue of Vish
 
 https://www.instagram.com/reel/C7mNt6nJPey/?utm_source=ig_web_button_share_sheet
 
-> Further Reading: 30 Attraction Guides [2026 Jimbaran Guide](/blog/jimbaran-guide/)
+> Further Reading: 30 Attraction Guides [2026 Jimbaran Guide](/en/blog/jimbaran-guide/)
 
-> Garuda Wisnu Kencana Guide: [Complete Guide to Garuda Wisnu Kencana GWK Cultural Park in Bali](/blog/gwk-cultural-park-bali/)
+> Garuda Wisnu Kencana Guide: [Complete Guide to Garuda Wisnu Kencana GWK Cultural Park in Bali](/en/blog/gwk-cultural-park-bali/)
 
 > Klook Discount Tickets: [Garuda Wisnu Kencana Cultural Park Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=881953&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29f498eeaf)
 
@@ -92,8 +92,8 @@ The Kecak Fire Dance performance at Uluwatu Temple is a visual feast combining c
 
 https://www.instagram.com/reel/C7oyY74JU3L/?utm_source=ig_web_button_share_sheet
 
-> Further reading: [Kecak Fire Dance: Bali's Must-See Spectacular Performance (with Ticket Booking Info)](/blog/kecak-fire-dance-bali/)
-> [Six Must-See Kecak Fire Dance Locations in Bali: A Visual and Cultural Feast](/blog/bali-kecak-fire-dance-locations/)
+> Further reading: [Kecak Fire Dance: Bali's Must-See Spectacular Performance (with Ticket Booking Info)](/en/blog/kecak-fire-dance-bali/)
+> [Six Must-See Kecak Fire Dance Locations in Bali: A Visual and Cultural Feast](/en/blog/bali-kecak-fire-dance-locations/)
 
 ### Uluwatu Oneeighty Club Cliffside Bar
 
@@ -113,11 +113,11 @@ Oneeighty Club Cliffside Bar attracts many visitors with its unique location and
 
 https://www.instagram.com/reel/C7MW0hVpkiz/?utm_source=ig_web_button_share_sheet
 
-> Further Reading: [Exploring Oneeighty Day Club: Stunning Cliffside Pool Views in Bali](/blog/oneeighty-dayclub-uluwatu-pool/)
+> Further Reading: [Exploring Oneeighty Day Club: Stunning Cliffside Pool Views in Bali](/en/blog/oneeighty-dayclub-uluwatu-pool/)
 
 > Klook offers [Oneeighty passes](https://affiliate.klook.com/redirect?aid=116349&aff_adid=782859&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F52229-oneeighty-pass-edge-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92cc562df8).
 
-> Further reading: [Bali Travel Health Tips: Drinking Water and Diarrhea Guide in Bali](/blog/bali-travel-health-tips/)
+> Further reading: [Bali Travel Health Tips: Drinking Water and Diarrhea Guide in Bali](/en/blog/bali-travel-health-tips/)
 
 ### Ubud Monkey Forest
 
@@ -137,7 +137,7 @@ The Sacred Monkey Forest is a culturally rich and surprising destination, perfec
 
 https://www.instagram.com/reel/C7bvX6NpmfO/?utm_source=ig_web_button_share_sheet
 
-> Further Reading: [Don't know how to explore Ubud? Check out our Ubud guide map](/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
+> Further Reading: [Don't know how to explore Ubud? Check out our Ubud guide map](/en/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
 
 ### Penglipuran Village, Ubud
 
@@ -157,7 +157,7 @@ Penglipuran Village is a highly recommended destination, where you can not only 
 
 https://www.instagram.com/reel/C7WlLcIJ5XA/?utm_source=ig_web_button_share_sheet
 
-> Further Reading: [Time-Travel to Penglipuran Village: Experience Bali's Ancient Charm](/blog/penglipuran-village-bali-experience/)
+> Further Reading: [Time-Travel to Penglipuran Village: Experience Bali's Ancient Charm](/en/blog/penglipuran-village-bali-experience/)
 
 **Klook Special Offers**
 
@@ -199,7 +199,7 @@ However, after returning home and doing some research, I found that these planta
 
 https://www.instagram.com/reel/C7zFZ-8pmny/?utm_source=ig_web_button_share_sheet
 
-> Further Reading: What are some fun things to do in Ubud? Check out [100 Ways to Explore Ubud](/blog/ubud-guide/)
+> Further Reading: What are some fun things to do in Ubud? Check out [100 Ways to Explore Ubud](/en/blog/ubud-guide/)
 
 ### Jungle Gym at Ubud Wapa Di Ume
 
@@ -223,13 +223,13 @@ During our trip, we encountered some unexpected incidents, which we’ve compile
 
 https://www.instagram.com/reel/C7UJZKbp4lZ/?utm_source=ig_web_button_share_sheet
 
-> Further Reading: [Bali App Ride-Hailing Driver Scams: How to Avoid Grab/Gojek Traps?](/blog/bali-grab-gojek-scam-tips/)
+> Further Reading: [Bali App Ride-Hailing Driver Scams: How to Avoid Grab/Gojek Traps?](/en/blog/bali-grab-gojek-scam-tips/)
 
 **2. Essentials for Ubud Mountain Area Self-Guided Tours:**
 
 https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
-> Further Reading: Can Taiwanese Hair Dryers Be Used in Bali? Check Out [Bali Travel Must-Read: Complete Guide to Voltage and Plug Adapters!](/blog/bali-voltage-adapter-tips/)
+> Further Reading: Can Taiwanese Hair Dryers Be Used in Bali? Check Out [Bali Travel Must-Read: Complete Guide to Voltage and Plug Adapters!](/en/blog/bali-voltage-adapter-tips/)
 
 ***
 
@@ -245,19 +245,19 @@ Time: 09:10-14:40
 
 Location: Currency Exchange at the Airport
 
-> Further Reading: [Bali Currency Exchange Guide](/blog/bali-currency-exchange-guide/)
+> Further Reading: [Bali Currency Exchange Guide](/en/blog/bali-currency-exchange-guide/)
 
 **Jimbaran Beach Sunset Dinner**
 
 Enjoy a romantic beach sunset and delicious seafood barbecue.
 
-> Further Reading: [9 Jimbaran Seafood Restaurants: Recommendations to Avoid Disappointment](/blog/jimbaran-seafood-restaurants-list/)
+> Further Reading: [9 Jimbaran Seafood Restaurants: Recommendations to Avoid Disappointment](/en/blog/jimbaran-seafood-restaurants-list/)
 
 **Recommended Massage**
 
 Location: The Calma Spa - Relax with a soothing massage to ease travel fatigue.
 
-> Further Reading: [Essential Guide: Top-Rated Spas in Bali Organized by Area for Easier Searching](/blog/spa/)
+> Further Reading: [Essential Guide: Top-Rated Spas in Bali Organized by Area for Easier Searching](/en/blog/spa/)
 
 **Supermarket Shopping**
 
@@ -287,7 +287,7 @@ Visit the famous Garuda Wisnu Kencana Cultural Park to admire the magnificent st
 
 Location: One eighty Day Club. Enjoy delicious food while taking in the breathtaking ocean views from this cliffside venue.
 
-> Further reading: [Exploring Oneeighty Day Club](/blog/oneeighty-dayclub-uluwatu-pool/)
+> Further reading: [Exploring Oneeighty Day Club](/en/blog/oneeighty-dayclub-uluwatu-pool/)
 
 **Uluwatu Temple**
 
@@ -297,7 +297,7 @@ Visit Bali's famous cliffside temple and experience local religious culture.
 
 Watch the traditional Kecak dance and fire performance at Uluwatu Temple.
 
-> Further reading: [Kecak Fire Dance - A Must-See Spectacular Performance in Bali (with Ticket Information)](/blog/kecak-fire-dance-bali/)
+> Further reading: [Kecak Fire Dance - A Must-See Spectacular Performance in Bali (with Ticket Information)](/en/blog/kecak-fire-dance-bali/)
 
 **Dinner**
 
@@ -327,7 +327,7 @@ Location: Blue Point Beach - An excellent spot for both beginners and profession
 
 Location: Thomas Beach - This beach is perfect for relaxation and photography.
 
-> Further Reading: [Bali's Hidden Gems: 6 Secret Beaches in Bali & How to Check Tides](/blog/bali-hidden-beaches-guide/)
+> Further Reading: [Bali's Hidden Gems: 6 Secret Beaches in Bali & How to Check Tides](/en/blog/bali-hidden-beaches-guide/)
 
 **Lunch**
 
@@ -341,7 +341,7 @@ Location: Happy Sunset Batujaran to enjoy spectacular ocean views and sunset.
 
 Location: Sundays Beach Club
 
-> Further Reading: [Uluwatu Guide](/blog/uluwatu-guide/)
+> Further Reading: [Uluwatu Guide](/en/blog/uluwatu-guide/)
 
 **Hidden Beach**
 
@@ -383,7 +383,7 @@ Location: Bebek Joni Restaurant
 
 Here you can purchase various handicrafts and souvenirs.
 
-Further reading: [100 Ways to Explore Ubud](/blog/ubud-guide/)
+Further reading: [100 Ways to Explore Ubud](/en/blog/ubud-guide/)
 
 **Ubud Monkey Forest**
 
@@ -393,7 +393,7 @@ Visit the Monkey Forest and interact with the local monkeys.
 
 Location: Peliatan Royal Palace
 
-> Further reading: [Must-Visit Attractions in Ubud: Ubud Palace - A Gem of Balinese Culture and History｜Opening Hours, Tickets, Performance Times, Nearby Attractions, Day Trip Recommendations](/blog/ubud-royal-palace-tour-guide/)
+> Further reading: [Must-Visit Attractions in Ubud: Ubud Palace - A Gem of Balinese Culture and History｜Opening Hours, Tickets, Performance Times, Nearby Attractions, Day Trip Recommendations](/en/blog/ubud-royal-palace-tour-guide/)
 
 **Dinner**
 
@@ -417,7 +417,7 @@ Location: Hotel
 
 Location: Penglipuran Village Visit this well-preserved traditional village to learn about the local way of life.
 
-> Further Reading: [Time Travel in Penglipuran Village: Experiencing Bali's Ancient Charm](/blog/penglipuran-village-bali-experience/)
+> Further Reading: [Time Travel in Penglipuran Village: Experiencing Bali's Ancient Charm](/en/blog/penglipuran-village-bali-experience/)
 
 **Hidden Cave Waterfall**
 
@@ -441,7 +441,7 @@ Location: Tegallalang
 
 Location: Jaens Spa Santhi (Ubud Area)
 
-> Further Reading: [【Essentials】Top-Rated Bali Spa Recommendations Organized by Area for Easier Searching](/blog/spa/)
+> Further Reading: [【Essentials】Top-Rated Bali Spa Recommendations Organized by Area for Easier Searching](/en/blog/spa/)
 
 **Dinner**
 
@@ -473,7 +473,7 @@ Location: Goa Lawah Temple (Bat Cave)
 
 Visit this expansive garden to admire various statues and beautiful garden landscapes.
 
-> Read more: [Sanur 50 Things to Do and Eat Guide](/blog/sanur-guide/)
+> Read more: [Sanur 50 Things to Do and Eat Guide](/en/blog/sanur-guide/)
 
 **Dinner**
 
@@ -485,7 +485,7 @@ Location: Naughty Nuri's Warung, Sanur
 
 Visit this fun upside-down world and take memorable photos.
 
-> Read more: [Kuta 50 Must-Visit Attractions Guide](/blog/2023-12-13-657598bdfd8978000120fe20/)
+> Read more: [Kuta 50 Must-Visit Attractions Guide](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 **Hotel Stay**
 
@@ -519,7 +519,7 @@ Enjoy the sunshine and beach activities at Kuta Beach.
 
 Location: Discovery Shopping Mall
 
-> Further Reading: [50 Must-Visit Spots in Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/)
+> Further Reading: [50 Must-Visit Spots in Kuta](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 **DPS Airport**
 

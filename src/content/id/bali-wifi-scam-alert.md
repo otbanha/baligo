@@ -80,5 +80,5 @@ Selama perjalanan, ingat ya — **hati-hati itu bukan berarti cuek, tapi bentuk 
 
 **Selain itu, cek juga dua modus penipuan jalanan yang pernah kami bahas:**
 
-1. [【Peringatan Jebakan Wisata】Panduan Mengenali dan Menghindari Penipuan Penukaran Uang di Bali](/blog/bali-money-exchange-scams/)
-2. [Peringatan Wisata Bali: Penipuan Pamer Uang di Jalanan, Jangan Sampai Jadi Korban Selanjutnya!](/blog/bali-street-scam-alert/)
+1. [【Peringatan Jebakan Wisata】Panduan Mengenali dan Menghindari Penipuan Penukaran Uang di Bali](/id/blog/bali-money-exchange-scams/)
+2. [Peringatan Wisata Bali: Penipuan Pamer Uang di Jalanan, Jangan Sampai Jadi Korban Selanjutnya!](/id/blog/bali-street-scam-alert/)

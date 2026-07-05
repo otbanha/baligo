@@ -36,13 +36,13 @@ https://youtu.be/op78Dk8CjL4
 
 我哋今次啱啱撞正峇里島嘅旅遊乾季，天氣清爽舒服，冇台灣咁濕熱翳焗，正值旅遊旺季向上攀升嘅高峰期。呢個時候嚟，雖然唔係人最多嘅時候，但旅遊品質相對好啲，唔會覺得人逼人。不過，我哋都遇到咗幾日落雨，錯過咗幾次睇夕陽同日出嘅機會。呢啲小遺憾都成為咗我哋將來再嚟嘅理由。
 
-> 延伸閱讀：[去峇里島旅行撞正落雨點算好？峇里島落雨天嘅60個後備方案攻略](/blog/2026-bali-indoor-activities/)
+> 延伸閱讀：[去峇里島旅行撞正落雨點算好？峇里島落雨天嘅60個後備方案攻略](/zh-hk/blog/2026-bali-indoor-activities/)
 
 原作者提供：
 
 https://youtu.be/C6zqIkgAAug
 
-> 延伸閱讀：[峇里島烏布附近三大知名瀑布攻略：Tegenungan瀑布、Kanto Lampo瀑布同Tukad Cepung瀑布](/blog/ubud-waterfalls-guide/)
+> 延伸閱讀：[峇里島烏布附近三大知名瀑布攻略：Tegenungan瀑布、Kanto Lampo瀑布同Tukad Cepung瀑布](/zh-hk/blog/ubud-waterfalls-guide/)
 
 ## 雖然有啲感冒，但係依然好細心咁安排
 
@@ -54,17 +54,17 @@ https://youtu.be/C6zqIkgAAug
 
 左：AMARTA Penida 中：Angel's Billabong 右：Broken beach with sea view
 
-> AMARTA Penida嘅介紹 [美食同碧海藍天：Nusa Penida嘅Top 10絕佳選擇](/blog/nusa-penida-best-restaurants/)
+> AMARTA Penida嘅介紹 [美食同碧海藍天：Nusa Penida嘅Top 10絕佳選擇](/zh-hk/blog/nusa-penida-best-restaurants/)
 
 我哋嘅行程仲包括咗跳島去Nusa Penida。雖然Ketut冇得親自接送，但佢嘅團隊依然同當地司機保持緊密合作，呢三日嘅跳島行程入面，佢哋不停咁幫我哋確認景點路線同時間安排，真係好貼心㗎！
 
-> 延伸閱讀：[佩尼達島住宿推介：13間由奢華到平價嘅 Nusa Penida 好評住宿](/blog/nusa-penida-hotels-guide/)
+> 延伸閱讀：[佩尼達島住宿推介：13間由奢華到平價嘅 Nusa Penida 好評住宿](/zh-hk/blog/nusa-penida-hotels-guide/)
 
 ![左：Kelingking Beach→ the origin of iPhone's wallpaper! 中：Tree House Bungalow 右：Diamond beach](https://images.gobaligo.id/vocus/vocus_54c623fcb2a8e1d4cc86bf0e3d31ded8.jpg)
 
 左：Kelingking Beach→ iPhone wallpaper嘅起源！ 中：Tree House Bungalow 右：Diamond beach
 
-> 延伸閱讀：[【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/nusa-penida-guide/)
+> 延伸閱讀：[【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/zh-hk/blog/nusa-penida-guide/)
 
 ## 海神廟嘅奇遇
 
@@ -72,7 +72,7 @@ https://youtu.be/C6zqIkgAAug
 
 https://youtu.be/oc0133x2FOU
 
-**快速參考：**[峇里島旅遊必去景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](/blog/bali-tanah-lot-guide/)
+**快速參考：**[峇里島旅遊必去景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](/zh-hk/blog/bali-tanah-lot-guide/)
 
 ##
 

@@ -28,7 +28,7 @@ Mei Yi Liao提供：沙努尔的登船处，沙努港口设施很完善，上下
 
 这次的旅程目标是佩尼达岛，这个拥有壮丽景色的岛屿。从巴厘岛出发，我们选择从沙努尔乘船前往。沙努尔的新港口在Google地图上是叫做「Sanur Harbour」。登船处现在设施相当完善，登船时不再需要担心脚会弄湿，这对于携带行李的旅客来说是一大福音。我们选择了携带轻便的背包，也有不少旅客携带登机箱。不过，登机箱会被放在船头顶前，航行过程中曝晒在阳光下，下船后还需要等船夫卸行李，可能会在大太阳下晒一阵子，因此建议带上遮阳帽和防晒霜。
 
-> 延伸阅读：[【出发前往巴厘岛离岛】沙努尔行李存放攻略](/blog/sanur-luggage-storage-guide/)
+> 延伸阅读：[【出发前往巴厘岛离岛】沙努尔行李存放攻略](/zh-cn/blog/sanur-luggage-storage-guide/)
 
 ## 航程中的体验
 
@@ -42,7 +42,7 @@ Mei Yi Liao提供：沙努尔的登船处，沙努港口设施很完善，上下
 
 佩尼达岛的道路相当狭窄，两辆车会车时相当惊险，经常需要靠边停车等待对方先行。虽然道路是柏油路，但路面并不平整，坐车的感觉就像在坐过山车，充满了刺激感。这段旅程让我们充分体会到了岛上交通的挑战，但也增添了旅行的乐趣和冒险感。
 
-> 延伸阅读：[Nusa Penida佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/blog/nusa-penida-transport-guide/)
+> 延伸阅读：[Nusa Penida佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/zh-cn/blog/nusa-penida-transport-guide/)
 
 ## 探索岛上的美景和美食
 
@@ -50,17 +50,17 @@ Mei Yi Liao提供：沙努尔的登船处，沙努港口设施很完善，上下
 
 佩尼达岛的景色绝对不容错过。无论是著名的克林金海滩（Kelingking Beach），还是天使浴池（Angel's Billabong），都让人惊叹不已。这些景点不仅拥有壮丽的自然风光，还有清澈见底的海水和壮观的悬崖景色，让人流连忘返。
 
-> 延伸阅读：[【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)
+> 延伸阅读：[【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/zh-cn/blog/nusa-penida-guide/)
 
 此外，岛上的美食也是一大亮点。我们品尝了当地的海鲜料理，新鲜美味，让人食指大动。特别是当地的烤鱼和海鲜拼盘，都是极具特色的美食，不仅味道鲜美，价格也相当实惠。
 
-> 延伸阅读：[佩尼达岛美食和碧海蓝天：Nusa Penida的Top 10绝佳选择](/blog/nusa-penida-best-restaurants/)
+> 延伸阅读：[佩尼达岛美食和碧海蓝天：Nusa Penida的Top 10绝佳选择](/zh-cn/blog/nusa-penida-best-restaurants/)
 
 ## 佩尼达岛过夜的选择
 
 前往佩尼达岛绝对是值得的，并且建议逗留一两晚，而不是参加一日游。这样将为您提供额外的时间来充分体验这个迷人的岛屿。虽然参加一日游是参观最受欢迎的旅游景点的好方法，但在这里逗留久一点，您将有更多的时间来探索和发现隐藏的宝藏。
 
-可以参考一下：[佩尼达岛的住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/blog/nusa-penida-hotels-guide/)
+可以参考一下：[佩尼达岛的住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/zh-cn/blog/nusa-penida-hotels-guide/)
 
 ## 回程的感受
 
@@ -77,7 +77,7 @@ Mei Yi Liao提供：沙努尔的登船处，沙努港口设施很完善，上下
 1. 直接在港口可以订票，但是务必提早在开船前一个小时到达售票处
 2. 事先在Klook订票有优惠又可以免去排队购票的时间
 3. 可携带大件行李，但是最好尽量避免，在岛上携带非常不方便
-4. 寄物服务请[参考这里](/blog/sanur-luggage-storage-guide/)
+4. 寄物服务请[参考这里](/zh-cn/blog/sanur-luggage-storage-guide/)
 5. Klook购票者开船前提早至少30分钟抵达港口
 
 6. Klook购票者最好提前一天以上订票
@@ -88,5 +88,5 @@ Mei Yi Liao提供：沙努尔的登船处，沙努港口设施很完善，上下
 
 {{block:遊記}}
 
-- [佩尼达岛吃喝玩乐全攻略](/blog/nusa-penida-guide/)
-- [蓝梦岛/金银岛景点全攻略](/blog/nusa-lembongan-ceningan-guide/)
+- [佩尼达岛吃喝玩乐全攻略](/zh-cn/blog/nusa-penida-guide/)
+- [蓝梦岛/金银岛景点全攻略](/zh-cn/blog/nusa-lembongan-ceningan-guide/)

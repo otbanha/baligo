@@ -96,9 +96,9 @@ Meskipun kamu nggak bisa bahasa lokal atau Inggris, kamu tetap bisa komunikasi s
 
 Di Bali, yang bikin perjalananmu lancar, happy, dan bebas masalah adalah sopir sewaan! Kami saranin, banyak juga teman grup yang bilang, sebenarnya nggak perlu khawatir soal bahasa Inggris jelek. Pakai aplikasi translate, bahasa tubuh, tetap bisa asyik main di Bali! Tapi kami tahu ada yang masih khawatir, nah kalau gitu langsung aja pilih sopir sewaan Mandarin yang kami rekomendasiin di bawah. Prioritaskan sopir sewaan Mandarin, ini bakal bantu kamu yang takut bahasa Inggris biar dapet layanan dan dukungan lebih baik selama perjalanan.
 
-> Baca juga: [Rekomendasi Sopir Mandarin / Pemandu Wisata Mandarin / Paket Wisata Sewa Mobil Mandarin di Bali](/blog/bali-chinese-tour-guide/)
+> Baca juga: [Rekomendasi Sopir Mandarin / Pemandu Wisata Mandarin / Paket Wisata Sewa Mobil Mandarin di Bali](/id/blog/bali-chinese-tour-guide/)
 
-> Baca juga: [Agen Travel Lokal Bali Milik Bos Taiwan: Sopir Mandarin / Semua Acara Diatur](/blog/bali-custom-tour-planning/)
+> Baca juga: [Agen Travel Lokal Bali Milik Bos Taiwan: Sopir Mandarin / Semua Acara Diatur](/id/blog/bali-custom-tour-planning/)
 
 ### Pahami Dulu Situasi Wisata yang Umum
 

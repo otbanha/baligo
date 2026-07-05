@@ -40,27 +40,27 @@ _srcHash: 985155bb95557cc56b64ea1f91140256
 
 如果你正在尋找一個極具浪漫氛圍嘅度假勝地，峇里島絕對係一個許多人夢寐以求嘅蜜月勝地。
 
-如果你計劃喺峇里島度過一個難忘嘅蜜月或浪漫之旅，不妨參考我哋嘅專屬文章「[蜜月新婚/情侶就睇呢一篇！2024最新峇里島【20間度蜜月度假村、浪漫villa推薦懶人包】](/blog/bali-honeymoon-resorts-guide/)」。呢份懶人包為你提供咗峇里島最精選嘅度假村同浪漫別墅，助你打造一段浪漫嘅回憶。無論係海灘邊嘅豪華度假村定係私密嘅別緻別墅，都能滿足唔同情侶嘅需求，為你嘅蜜月或浪漫之旅增添濃厚嘅色彩。
+如果你計劃喺峇里島度過一個難忘嘅蜜月或浪漫之旅，不妨參考我哋嘅專屬文章「[蜜月新婚/情侶就睇呢一篇！2024最新峇里島【20間度蜜月度假村、浪漫villa推薦懶人包】](/zh-hk/blog/bali-honeymoon-resorts-guide/)」。呢份懶人包為你提供咗峇里島最精選嘅度假村同浪漫別墅，助你打造一段浪漫嘅回憶。無論係海灘邊嘅豪華度假村定係私密嘅別緻別墅，都能滿足唔同情侶嘅需求，為你嘅蜜月或浪漫之旅增添濃厚嘅色彩。
 
 ![【20間度蜜月度假村、浪漫villa推薦懶人包】有峇里島最棒的推薦！](https://images.gobaligo.id/vocus/vocus_f4d29dce63300c6af63b6247aee36052.png)
 
-[【20間蜜月度假村、浪漫villa推薦懶人包】有峇里島最正嘅推薦！](/blog/bali-honeymoon-resorts-guide/)
+[【20間蜜月度假村、浪漫villa推薦懶人包】有峇里島最正嘅推薦！](/zh-hk/blog/bali-honeymoon-resorts-guide/)
 
 等峇里島成為你哋愛情冒險嘅舞台，留下美好嘅回憶同深刻嘅體驗。喺呢個印度洋上嘅天堂，同愛人共度嘅每一刻都會成為一段珍貴嘅回憶。祝你哋嘅旅程充滿愛與浪漫！
 
 ## 峇里島住宿/villa指南：
 
-- [CP值超高, 唔使美金$30入住11間峇里島精品酒店, 網美照影不停!](/blog/bali-boutique-hotels-under-30/)
-- [峇里島villa推薦：高CP值villa 20間推薦（上集）](/blog/bali-best-villas-top20-part1/)
-- [峇里島Villa CP值最高 浪漫villa推薦 - 共20間 (下集)](/blog/bali-best-villas-top20-part2/)
-- [峇里島家庭親子友善景點/住宿大全](/blog/bali-family-travel-guide/)
-- [蜜月新婚/情侶就睇呢一篇：2023最新峇里島蜜月旅行浪漫住宿推薦](/blog/bali-honeymoon-resorts-guide/)
-- [峇里島住宿推薦：10間水明漾精華區平價住宿好評推薦！](/blog/seminyak-budget-hotels-guide/)
-- [峇里島住宿推薦：水明漾嘅濱海精緻主題住宿指南](/blog/seminyak-beach-resorts-guide/)
-- [金巴蘭住宿推薦【峇里島阿雅娜】Ayana Bali 》](/blog/ayana-resort-bali-guide/)
-- [烏魯瓦圖 Uluwatu住宿推薦：12間無敵海景嘅私密別墅渡假村](/blog/uluwatu-bali-villas-resorts-guide/)
-- [峇里島住宿推薦：無敵海景金巴蘭住宿篇](/blog/2023-11-09-654c6271fd8978000174ff5e/)
-- [峇里島親子樂園：十五家擁有滑水道溜滑梯嘅親子渡假村 TOP 15](/blog/bali-family-resorts-water-slides/)
-- [峇里島家庭親子自由行：沙努爾攻略地圖｜45項吃喝玩樂，仲有SPA同住宿推薦喔！](/blog/sanur-guide/)
-- [努沙杜瓦、南灣：峇里島豪華度假嘅首選之地40個住宿、美食、活動攻略地圖](/blog/nusa-dua-guide/)
-- [佩尼達島嘅住宿推薦: 13間從奢華到平價嘅 Nusa Penida 好評住宿](/blog/nusa-penida-hotels-guide/)
+- [CP值超高, 唔使美金$30入住11間峇里島精品酒店, 網美照影不停!](/zh-hk/blog/bali-boutique-hotels-under-30/)
+- [峇里島villa推薦：高CP值villa 20間推薦（上集）](/zh-hk/blog/bali-best-villas-top20-part1/)
+- [峇里島Villa CP值最高 浪漫villa推薦 - 共20間 (下集)](/zh-hk/blog/bali-best-villas-top20-part2/)
+- [峇里島家庭親子友善景點/住宿大全](/zh-hk/blog/bali-family-travel-guide/)
+- [蜜月新婚/情侶就睇呢一篇：2023最新峇里島蜜月旅行浪漫住宿推薦](/zh-hk/blog/bali-honeymoon-resorts-guide/)
+- [峇里島住宿推薦：10間水明漾精華區平價住宿好評推薦！](/zh-hk/blog/seminyak-budget-hotels-guide/)
+- [峇里島住宿推薦：水明漾嘅濱海精緻主題住宿指南](/zh-hk/blog/seminyak-beach-resorts-guide/)
+- [金巴蘭住宿推薦【峇里島阿雅娜】Ayana Bali 》](/zh-hk/blog/ayana-resort-bali-guide/)
+- [烏魯瓦圖 Uluwatu住宿推薦：12間無敵海景嘅私密別墅渡假村](/zh-hk/blog/uluwatu-bali-villas-resorts-guide/)
+- [峇里島住宿推薦：無敵海景金巴蘭住宿篇](/zh-hk/blog/2023-11-09-654c6271fd8978000174ff5e/)
+- [峇里島親子樂園：十五家擁有滑水道溜滑梯嘅親子渡假村 TOP 15](/zh-hk/blog/bali-family-resorts-water-slides/)
+- [峇里島家庭親子自由行：沙努爾攻略地圖｜45項吃喝玩樂，仲有SPA同住宿推薦喔！](/zh-hk/blog/sanur-guide/)
+- [努沙杜瓦、南灣：峇里島豪華度假嘅首選之地40個住宿、美食、活動攻略地圖](/zh-hk/blog/nusa-dua-guide/)
+- [佩尼達島嘅住宿推薦: 13間從奢華到平價嘅 Nusa Penida 好評住宿](/zh-hk/blog/nusa-penida-hotels-guide/)

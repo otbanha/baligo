@@ -290,6 +290,6 @@ Ingat: datang pagi, main maksimal, ketawa kenceng! Biar liburan Bali-mu jadi ken
 
 **▶Klook** [Link Tiket](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1095375&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F175-waterbom-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da5c8052ce2) **Trip** [Link Tiket](https://tw.trip.com/travel-guide/attraction/bali/waterbom-bali-98347?curr=IDR&locale=zh-TW&poiType=66&scene=ticket&ext-searchpage=1&ext-mixlist=ticket_main&ext-listlocate=0&lasttraceid=39f207ba-5a66-eeef-9b5b-6bb438013523&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
-➡ Rekomendasi taman bermain keluarga di Bali lainnya: [Panduan Lengkap 10 Taman Bermain Keluarga Terbaik di Bali](/blog/top-10-kids-attractions-in-bali/)
+➡ Rekomendasi taman bermain keluarga di Bali lainnya: [Panduan Lengkap 10 Taman Bermain Keluarga Terbaik di Bali](/id/blog/top-10-kids-attractions-in-bali/)
 
 {{block:親子}}

@@ -38,9 +38,9 @@ Bali Governor **Wayan Koster** emphasized that the new regulations aim to ensure
 2. - When entering temples or visiting religious relics, maintain solemnity and avoid desecration.
    - If encountering local ceremonies, observe proper etiquette and avoid disturbances.
 3. **Hire Licensed Tour Guides**
-4. - When sightseeing in Bali, tourists must be accompanied by a licensed guide (or [professional private car driver](/blog/bali-private-car-drivers-guide/)) to ensure they understand local customs and environmental regulations.
+4. - When sightseeing in Bali, tourists must be accompanied by a licensed guide (or [professional private car driver](/en/blog/bali-private-car-drivers-guide/)) to ensure they understand local customs and environmental regulations.
 5. **Transaction and Payment Rules**
-6. - Exchange currency only at authorized institutions (see [here](/blog/bali-currency-exchange-guide/) for details).
+6. - Exchange currency only at authorized institutions (see [here](/en/blog/bali-currency-exchange-guide/) for details).
    - Use Indonesian Rupiah for transactions.
 
 ## **Traffic and Behavioral Guidelines**

@@ -41,7 +41,7 @@ Jujur, aku juga ngerasa 2026 berasa cepet banget. Awal tahun baru nulis liputan 
 
 Dan terus terang, beberapa tahun ini aku ngerasa ada perubahan yang jelas: **musim ramai di Bali diam-diam mulai lebih awal**. Dulu puncaknya dianggap Juni sampai pertengahan September, tapi sekarang akhir Mei aja udah mulai rame, nggak perlu nunggu liburan resmi.
 
-> Referensi cepat: [Bali Ternyata Punya Lima Musim Liburan! Cara Cerdas Traveling Saat Musim Ramai](/blog/bali-peak-season-travel-tips/)
+> Referensi cepat: [Bali Ternyata Punya Lima Musim Liburan! Cara Cerdas Traveling Saat Musim Ramai](/id/blog/bali-peak-season-travel-tips/)
 
 ## Angka Bicara: 65.000 Orang Sehari di Bandara, Seperti Apa Sih?
 
@@ -127,7 +127,7 @@ Ini yang jarang kepikiran banyak orang: **pas musim ramai, supermarket dan stok 
 
 > 💡 **Barang Wajib Stok** : Hari pertama di hotel, mending mampir ke Indomaret atau Circle K buat beli air, camilan, sunscreen, obat nyamuk. Pas musim ramai, mini bar hotel beneran bisa habis diminum tamu, dan restock-nya nggak bisa ngikutin.
 
-> Referensi cepat: [30+ Panduan Peta Supermarket Besar: Grand Lucky, Pepito, Bintang Lengkap dengan Daftar Belanja Wajib Lokal](/blog/bali-supermarket-guide-map/)
+> Referensi cepat: [30+ Panduan Peta Supermarket Besar: Grand Lucky, Pepito, Bintang Lengkap dengan Daftar Belanja Wajib Lokal](/id/blog/bali-supermarket-guide-map/)
 
 {{block:klook}}
 
@@ -139,7 +139,7 @@ Pas lagi musim ramai, turis banyak berdatangan, praktik nipu juga ikut merajalel
 
 ✅ **Cuma ke PT. Central Kuta Money Changer, BMC, Dirgahayu Valuta Prima yang resmi** — ini punya izin resmi dan tersebar di semua kawasan wisata. Di website kita ada [peta money changer resmi](/map/money-changer/) yang bisa kamu cek.
 
-> Referensi cepat: [《Panduan Lengkap Tukar Uang & Manajemen Uang di Bali》](/blog/bali-currency-exchange-guide/)
+> Referensi cepat: [《Panduan Lengkap Tukar Uang & Manajemen Uang di Bali》](/id/blog/bali-currency-exchange-guide/)
 
 **2. Sopir taksi calo di bandara** Begitu keluar arrival, pasti ada yang langsung nyamperin "Taxi? Transport?", ini dia yang namanya **mafia taksi**. Harganya bisa 3-5 kali lipat dari Grab resmi.
 
@@ -181,7 +181,7 @@ Ringkasan checklist penting kali ini:
 - ✅ Naik ojek jarak pendek pake Grab/Gojek
 - ✅ Asuransi perjalanan wajib beli, yang paling penting asuransi medis tambahan
 
-> Referensi cepat: [【Asuransi Perjalanan Bali】Wajib dibaca turis Taiwan, Hong Kong, Malaysia, Singapura! Panduan asuransi, klaim medis luar negeri & asuransi keterlambatan, poin penting hindari jebakan](/blog/bali-travel-insurance-guide/)
+> Referensi cepat: [【Asuransi Perjalanan Bali】Wajib dibaca turis Taiwan, Hong Kong, Malaysia, Singapura! Panduan asuransi, klaim medis luar negeri & asuransi keterlambatan, poin penting hindari jebakan](/id/blog/bali-travel-insurance-guide/)
 
 Kalo kamu berencana terbang ke Bali antara Juni sampai September, sekarang adalah waktu terbaik buat mulai rencanain. Pesen tiket, hold hotel, beli asuransi, tentuin garis besar itinerary—sisanya, biarin Bali yang kasih kejutan sendiri.
 

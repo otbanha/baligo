@@ -47,7 +47,7 @@ Bali isn't just about stunning beaches and luxury resorts—it also hides a weal
 
 - Bali is a paradise for surfers, with world-famous spots like Kuta Beach, Seminyak, Canggu, and Uluwatu.
     - With guidance from professional instructors, even beginners can experience the thrill of riding the waves.
-    - [【Bali Surf Guide】Beaches for Different Skill Levels](/blog/bali-surf-beaches-guide/)
+    - [【Bali Surf Guide】Beaches for Different Skill Levels](/en/blog/bali-surf-beaches-guide/)
 
 ### **2. Water Activities:**
 
@@ -64,7 +64,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 - The waters around Lembongan and Nusa Penida boast crystal-clear seas and rich coral reefs, making them prime snorkeling spots.
   - Glide through vibrant coral gardens and dance with tropical fish for unforgettable memories.
-  - [Four top snorkeling spots without the long commute](/blog/nusa-penida-snorkeling-guide/)
+  - [Four top snorkeling spots without the long commute](/en/blog/nusa-penida-snorkeling-guide/)
 **Snorkeling paradise just 10 minutes by boat from Sanur:**
 
 ![3. Snorkeling:](https://images.gobaligo.id/vocus/vocus_2b63fa1a7c1a8b0c7cf46359930783e9.png)
@@ -78,7 +78,7 @@ Discover the underwater wonders off Sanur’s coast and make your snorkeling tri
 - At Lovina Beach, hop on a boat at sunrise to witness wild dolphins leaping from the sea—a breathtaking close encounter with marine life.
 - [Lovina dolphin tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1024826&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dlovina%2520dolphin%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D62ac00bfec)
 
-▶[Complete Guide to Bali Water Activities: 15 Unexpected Ways to Play Beyond Snorkeling](/blog/2026-bali-water-activities/)
+▶[Complete Guide to Bali Water Activities: 15 Unexpected Ways to Play Beyond Snorkeling](/en/blog/2026-bali-water-activities/)
 
 ## **Thrills on Land**
 
@@ -88,19 +88,19 @@ Discover the underwater wonders off Sanur’s coast and make your snorkeling tri
 
 - Drive an all-terrain vehicle through jungles, rice paddies, and rivers for an adrenaline-pumping off-road adventure.
   - It’s a fantastic way to explore Bali’s inland scenery.
-  - [Bali ATV Quad Bike Adventure (Tips + FAQ)](/blog/bali-atv-adventure-guide/)
+  - [Bali ATV Quad Bike Adventure (Tips + FAQ)](/en/blog/bali-atv-adventure-guide/)
 
 ### 6. White Water Rafting:
 
 - Experience an exhilarating rafting adventure on the Ayung River, taking in the stunning canyons and waterfalls along the way.
   - Challenge the rushing rapids with friends or family, creating unforgettable team memories.
-  - [Bali Rafting Guide (Rafting FAQ)](/blog/bali-rafting-ayung-telaga-waja/)
-  - For a more relaxed option, known as "baby rafting," check out the river tubing experience [here](/blog/nukuwera-river-tubing-adventure/)
+  - [Bali Rafting Guide (Rafting FAQ)](/en/blog/bali-rafting-ayung-telaga-waja/)
+  - For a more relaxed option, known as "baby rafting," check out the river tubing experience [here](/en/blog/nukuwera-river-tubing-adventure/)
 
 ### 7. Jungle Go-Karting:
 
 - Racing through the jungle is a truly unique experience, letting you soak in the lush scenery while enjoying an adrenaline rush.
-  - [Bali Ubud Jungle Cart Bali](/blog/ubud-jungle-cart-adventure/)
+  - [Bali Ubud Jungle Cart Bali](/en/blog/ubud-jungle-cart-adventure/)
 
 ## **The Majesty of Nature**
 
@@ -109,20 +109,20 @@ Discover the underwater wonders off Sanur’s coast and make your snorkeling tri
 ### **8. Volcano Sunrise:**
 
 - Hike up Mount Batur to witness a breathtaking sunrise, overlooking the volcanic lake and surrounding peaks. This is a journey full of challenge and wonder.
-  - [Hike to Watch the Volcano Sunrise](/blog/mount-batur-sunrise-hike-tips/)
-  - [Take a Jeep to the Volcano for Sunrise](/blog/batur-volcano-jeep-sunrise-tour/)
+  - [Hike to Watch the Volcano Sunrise](/en/blog/mount-batur-sunrise-hike-tips/)
+  - [Take a Jeep to the Volcano for Sunrise](/en/blog/batur-volcano-jeep-sunrise-tour/)
 
 ### **9. Jungle Swing:**
 
 ![9. Jungle Swing:](https://images.gobaligo.id/vocus/vocus_d553645908858eefdee8ef82ec07084d.jpg)
 
 - Experience the thrill of soaring on a jungle swing in Ubud, letting go of all stress amidst the lush greenery.
-  - [Swinging in Ubud: The 8 Best Swing Photo Spots in Bali | Ubud Swing & Dress Rental Guide](/blog/ubud-jungle-swings-photo-guide/)
+  - [Swinging in Ubud: The 8 Best Swing Photo Spots in Bali | Ubud Swing & Dress Rental Guide](/en/blog/ubud-jungle-swings-photo-guide/)
 
 ### **10. Ubud Ridge Walk:**
 
 - - Hike along the Ubud ridge, taking in the lush green rice paddies and stunning valleys, and experience the serene beauty of Bali.
-    - [Introduction to the Campuhan Ridge Walk](/blog/ubud-campuhan-ridge-walk/)
+    - [Introduction to the Campuhan Ridge Walk](/en/blog/ubud-campuhan-ridge-walk/)
 
 ### **11. Ubud Jungle Sunrise Yoga & Meditation Experience:**
 
@@ -132,12 +132,12 @@ Discover the underwater wonders off Sanur’s coast and make your snorkeling tri
 ### **12. Uluwatu Paragliding:**
 
 - Take off from the cliffs of Uluwatu and soar through the sky like a bird, overlooking the magnificent Indian Ocean and coastline. This is a unique, adrenaline-pumping experience.
-- [Experience Details & Notes](/blog/uluwatu-paragliding-ocean-view/)
+- [Experience Details & Notes](/en/blog/uluwatu-paragliding-ocean-view/)
 
 ### **13. Ubud Waterfall Exploration:**
 
 - There are many beautiful waterfalls around Ubud, such as Tegenungan Waterfall, Kanto Lampo Waterfall, and Tukad Cepung Waterfall. Each waterfall has its own unique charm and appeal, allowing you to immerse yourself in the grandeur of nature.
-- [Guide to Three Major Waterfalls Near Ubud, Bali](/blog/ubud-waterfalls-guide/)
+- [Guide to Three Major Waterfalls Near Ubud, Bali](/en/blog/ubud-waterfalls-guide/)
 
 ## **Relaxation and Indulgence**
 
@@ -149,7 +149,7 @@ Discover the underwater wonders off Sanur’s coast and make your snorkeling tri
 ### **15. Jimbaran Sunset Dinner:**
 
 - - Savor delicious seafood barbecue on Jimbaran Beach while enjoying the romantic sunset views.
-    - Don't want to get ripped off? Check this out: [9 Jimbaran Seafood Restaurants in Bali: No Regrets Guide](/blog/jimbaran-seafood-restaurants-list/)
+    - Don't want to get ripped off? Check this out: [9 Jimbaran Seafood Restaurants in Bali: No Regrets Guide](/en/blog/jimbaran-seafood-restaurants-list/)
 
 ### **16. Watch a Performance:**
 
@@ -161,7 +161,7 @@ Discover the underwater wonders off Sanur’s coast and make your snorkeling tri
 ![17. Stay in a Villa: Enjoy Privacy and Sunshine:](https://images.gobaligo.id/vocus/vocus_83e375c72f9c2ff3f495a1ed4af60bbd.png)
 
 - - Bali is home to countless luxurious villas. Find one with a private pool, unwind, and savor your own time.
-    - Enjoy privacy and sunshine: [Ultimate Guide to Bali Villas](/blog/bali-private-villa-recommendations/)
+    - Enjoy privacy and sunshine: [Ultimate Guide to Bali Villas](/en/blog/bali-private-villa-recommendations/)
 
 ## **Explore Bali's Attractions & Culture**
 
@@ -170,7 +170,7 @@ Discover the underwater wonders off Sanur’s coast and make your snorkeling tri
 ### **18. Discover 500+ Top Bali Attractions All in One Place:**
 
 - - Bali boasts a wealth of cultural heritage and natural wonders, such as Tanah Lot Temple, Tirta Empul Temple, and Tegallalang Rice Terraces. You can arrange day trips or multi-day excursions to delve into Bali's culture and history.
-    - [500+ Latest Top Bali Attractions All in One Place](/blog/bali-top-500-attractions/)
+    - [500+ Latest Top Bali Attractions All in One Place](/en/blog/bali-top-500-attractions/)
 
 ## More Recommendations
 
@@ -181,76 +181,76 @@ If you think Bali is only about beaches and water sports, think again! This isla
 ### 19. **Taman Safari Bali**
 
 - A family-friendly wildlife park where you can hop on a safari bus and drive through animal habitats, getting up close with lions, elephants, and rhinos—it feels just like the African savanna!
-- [A Must for Family Trips: How to Play and Stay Overnight at Bali Safari](/blog/bali-safari-night-stay/)
+- [A Must for Family Trips: How to Play and Stay Overnight at Bali Safari](/en/blog/bali-safari-night-stay/)
 
 ### 20. **Marine Safari Bali**
 
 - Featuring a diverse range of marine life and interactive experiences, plus the chance to take photos with dolphins—a healing and educational attraction that's both fun and enriching.
-- [Marine Safari Bali Guide](/blog/marine-safari-bali-guide/)
+- [Marine Safari Bali Guide](/en/blog/marine-safari-bali-guide/)
 
 ### 21.22.23. Jungle Clubs: **Omma Day Club / Wanna Jungle Bar / Cretya Sunset / TUJU Tropic Club & Lounge**
 
 - Jungle clubs located in Ubud, offering infinity pools, signature cocktails, and music parties. Soak in the water while watching the jungle sunset—absolutely breathtaking 🌅
-- [Ubud's Waterfall Bar OMMA Dayclub: Chill Vibes and Leisurely Moments Under the Sun](/blog/ubud-omma-dayclub-tegenungan-waterfall/)
-- [Wanna Jungle Pool & Bar: IG-Famous Rice Terrace Pool and Crispy Duck Feast](/blog/wanna-jungle-pool-club-ubud/)
-- [Cretya Sunset, Ubud's Hidden Paradise: The Most Dreamy Sunset Haven](/blog/cretya-sunset-ubud-paradise/)
+- [Ubud's Waterfall Bar OMMA Dayclub: Chill Vibes and Leisurely Moments Under the Sun](/en/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+- [Wanna Jungle Pool & Bar: IG-Famous Rice Terrace Pool and Crispy Duck Feast](/en/blog/wanna-jungle-pool-club-ubud/)
+- [Cretya Sunset, Ubud's Hidden Paradise: The Most Dreamy Sunset Haven](/en/blog/cretya-sunset-ubud-paradise/)
 - [TUJU Tropic Club & Lounge: A Newly Opened Day Club with a Double-Decker Infinity Pool](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1051935&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F138909-tuju-tropic-club-lounge-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D67ecf97825)
 
 ### 24. **Ubud Hot Air Balloon Experience**
 
 - Float above rice paddies, valleys, and Mount Agung at sunset—a romantic, Bali-exclusive activity that's pure magic.
-- [【New Bali Experience】First Hot Air Balloon Ride in Ubud! Embrace the Stunning View of Mount Agung from Above](/blog/ubud-hot-air-balloon-agung-view/)
+- [【New Bali Experience】First Hot Air Balloon Ride in Ubud! Embrace the Stunning View of Mount Agung from Above](/en/blog/ubud-hot-air-balloon-agung-view/)
 
 ### 25. **Penglipuran Village**
 
 - This traditional village showcases Bali's most iconic architecture, with clean and orderly streets—a perfect spot for cultural exploration and stunning photos.
-- [Penglipuran Village: A Timeless Journey into Bali's Ancient Charm](/blog/penglipuran-village-bali-experience/)
+- [Penglipuran Village: A Timeless Journey into Bali's Ancient Charm](/en/blog/penglipuran-village-bali-experience/)
 
 ### 26.**Taman Dedari (Fairy Park)**
 
 - Nestled in a river valley, this dreamlike sculpture garden blends giant fairy statues with natural landscapes, ideal for a peaceful stroll and photography.
-- [【Ubud Food & Scenery】Taman Dedari Fairy Park Guide](/blog/taman-dedari-ubud-food-scenery/)
+- [【Ubud Food & Scenery】Taman Dedari Fairy Park Guide](/en/blog/taman-dedari-ubud-food-scenery/)
 
 ### 27.**Lahangan Sweet**
 
 - Located in eastern Bali, this hidden viewpoint offers breathtaking panoramas of the majestic Mount Agung. Visit at sunrise or sunset for misty, ethereal shots 📸
-- [Bali Attractions: Lahangan Sweet – Stunning Mount Agung Viewpoint 🌄](/blog/lahangan-sweet-volcano-view/)
+- [Bali Attractions: Lahangan Sweet – Stunning Mount Agung Viewpoint 🌄](/en/blog/lahangan-sweet-volcano-view/)
 
 ### 28.29.**Tegalalang & Jatiluwih Rice Terraces**
 
 - Tegalalang is Ubud's most popular rice terrace photo spot, while Jatiluwih is a UNESCO World Heritage site with spectacular terraced fields. Both offer unique green wonders not to be missed in Bali 🌾
-- [Bali Rice Terraces Guide: Tegalalang vs Jatiluwih – Entrance Fees, Best Time/Season to Visit](/blog/bali-rice-terraces-comparison/)
+- [Bali Rice Terraces Guide: Tegalalang vs Jatiluwih – Entrance Fees, Best Time/Season to Visit](/en/blog/bali-rice-terraces-comparison/)
 
 ### 30.31.**Exploring Holy Springs**
 
 - At places like Tirta Empul, you can experience the locals' sacred purification ritual, cleansing both body and mind for a sense of peace.
-- [【2025】Tirta Empul Temple Complete Guide: Bali's Most Sacred Purification Water Temple Experience](/blog/tirta-empul-temple-guide/)
-- [Exploring Bali's Holy Springs: From Tirta Gangga to Tirta Empul](/blog/bali-tirta-gangga-empul/)
+- [【2025】Tirta Empul Temple Complete Guide: Bali's Most Sacred Purification Water Temple Experience](/en/blog/tirta-empul-temple-guide/)
+- [Exploring Bali's Holy Springs: From Tirta Gangga to Tirta Empul](/en/blog/bali-tirta-gangga-empul/)
 
 ### 32.**Kecak Fire Dance**
 
 - Watch the thrilling fire dance and traditional Kecak performance against the backdrop of the Uluwatu cliffs, with the sunset and ocean views creating an electrifying atmosphere 🔥
-- [Top 6 Kecak Fire Dance Locations in Bali: A Visual and Cultural Feast](/blog/bali-kecak-fire-dance-locations/)
+- [Top 6 Kecak Fire Dance Locations in Bali: A Visual and Cultural Feast](/en/blog/bali-kecak-fire-dance-locations/)
 
 ### 33~36. Weekend Markets
 
 - Weekend markets pop up in Seminyak, Canggu, Uluwatu, Sanur, and other areas, selling handmade crafts, organic food, and local designs—shopping here lets you soak up the local vibe.
-- [【2024 Edition】 Four Bali Weekend Markets Still Running: The Most Down-to-Earth Shopping Experience](/blog/bali-weekend-markets-2026/)
+- [【2024 Edition】 Four Bali Weekend Markets Still Running: The Most Down-to-Earth Shopping Experience](/en/blog/bali-weekend-markets-2026/)
 
 ### 37. La Brisa Bali
 
 - Known as "Bali's most beautiful restaurant," this beachfront spot in Canggu features driftwood decor and stunning sunset ocean views—perfect for seafood dining and photo ops 🍹🌊
-- [Dubbed "Bali's Prettiest Restaurant": How La Brisa Stands Out Among Thousands of Dining Spots?](/blog/canggu-la-brisa-restaurant-guide/)
+- [Dubbed "Bali's Prettiest Restaurant": How La Brisa Stands Out Among Thousands of Dining Spots?](/en/blog/canggu-la-brisa-restaurant-guide/)
 
 ### 38. Oneeighty Day Club
 
 - Perched on a cliff with an infinity pool featuring a glass bottom that makes you feel suspended between sea and sky—a dream paradise for thrill-seekers and Instagrammers!
-- [Explore Oneeighty Day Club: Bali's Cliffside Pool with Breathtaking Views](/blog/oneeighty-dayclub-uluwatu-pool/)
+- [Explore Oneeighty Day Club: Bali's Cliffside Pool with Breathtaking Views](/en/blog/oneeighty-dayclub-uluwatu-pool/)
 
 ### 39. Kintamani Volcano View Cafés Tour 🌄☕
 
 - If you love mountain scenery and coffee, this is a must! Kintamani boasts over 12 volcano-view cafés where you can sip coffee while gazing at Mount Batur and the lake. These cafés are not only scenic but also incredibly photogenic—perfect for a morning chase of dawn or a lazy afternoon with a pour-over coffee, watching clouds drift by.
-- [Top 12 Kintamani Volcano View Cafés in Bali 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
+- [Top 12 Kintamani Volcano View Cafés in Bali 🌄☕](/en/blog/kintamani-volcano-cafes-restaurants/)
 
 ### 40. Lake Batur Boat Cruise
 
@@ -318,4 +318,4 @@ I hope this article helps you plan a fun and memorable outdoor adventure trip to
 
 👈 **Back to the Ultimate Bali Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read the '2026 Bali Ultimate Travel Guide'](/blog/bali-ultimate-guide-2026/) to get everything sorted before you go.
+Want to see the complete beginner's guide? [Click here to read the '2026 Bali Ultimate Travel Guide'](/en/blog/bali-ultimate-guide-2026/) to get everything sorted before you go.

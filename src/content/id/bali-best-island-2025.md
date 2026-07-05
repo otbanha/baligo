@@ -43,9 +43,9 @@ Setiap hari ada sesajen yang dipersembahkan, alunan musik gamelan terdengar, dan
 
 **Referensi Cepat:**
 
-- [Tradisi Sembahyang di Bali: Canang Sari](/blog/bali-canang-sari-explained/)
-- [【2025】Panduan Lengkap Pura Tirta Empul: Pengalaman Pura Air Suci Paling Sakral di Bali](/blog/tirta-empul-temple-guide/)
-- [【Perjalanan Spiritual/Healing di Bali】Saat *Eat Pray Love* Jadi Kehidupan Nyata Gue](/blog/eat-pray-love-bali-spiritual-journey/)
+- [Tradisi Sembahyang di Bali: Canang Sari](/id/blog/bali-canang-sari-explained/)
+- [【2025】Panduan Lengkap Pura Tirta Empul: Pengalaman Pura Air Suci Paling Sakral di Bali](/id/blog/tirta-empul-temple-guide/)
+- [【Perjalanan Spiritual/Healing di Bali】Saat *Eat Pray Love* Jadi Kehidupan Nyata Gue](/id/blog/eat-pray-love-bali-spiritual-journey/)
 
 ### ✨ **Pengalaman Wisata yang Beragam**
 
@@ -55,7 +55,7 @@ Dari yoga dan meditasi di Ubud, butik fashion kekinian di Seminyak, makan malam 
 
 **Referensi Cepat:**
 
-- [Mau coba outdoor activity di Bali? Ini 50 pengalaman seru yang paling populer](/blog/bali-top-50-outdoor-activities/)
+- [Mau coba outdoor activity di Bali? Ini 50 pengalaman seru yang paling populer](/id/blog/bali-top-50-outdoor-activities/)
 
 ### ✨ **Kehangatan yang tercipta dari interaksi dengan sesama traveler**
 
@@ -79,7 +79,7 @@ Dari panorama kayak di negeri dongeng di Pura Lempuyang (Gerbang Surga), pemanda
 
 **Referensi Cepat:**
 
-- [Panduan Peta Wisata Bali 2025 ｜Kumpulan 500 Destinasi Hits Terbaru di Bali](/blog/bali-top-500-attractions/)
+- [Panduan Peta Wisata Bali 2025 ｜Kumpulan 500 Destinasi Hits Terbaru di Bali](/id/blog/bali-top-500-attractions/)
 
 ***
 
@@ -99,4 +99,4 @@ Kuncinya ada di kedalaman budaya (kepercayaan dan ritual yang masih hidup), peng
 
 ## Pertama kali ke Bali, mulai dari mana?
 
-Saran gue, cek dulu [panduan 500+ tempat wisata populer](/blog/bali-top-500-attractions/) biar paham sebaran spot di seluruh pulau. Lalu pilih basecamp sesuai minat: Ubud (budaya & meditasi), Seminyak (belanja barang branded), atau Jimbaran (pemandangan laut & seafood).
+Saran gue, cek dulu [panduan 500+ tempat wisata populer](/id/blog/bali-top-500-attractions/) biar paham sebaran spot di seluruh pulau. Lalu pilih basecamp sesuai minat: Ubud (budaya & meditasi), Seminyak (belanja barang branded), atau Jimbaran (pemandangan laut & seafood).

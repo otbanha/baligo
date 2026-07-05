@@ -45,7 +45,7 @@ Nusa Dua di Bali, banyak traveler bilang ini salah satu tempat paling cocok buat
 Tapi 'cocok' bukan berarti 'nggak perlu persiapan sama sekali'. Sebelum berangkat, kuasai beberapa poin penting biar liburan ini benar-benar santai dan menyenangkan.
 
 > Rekomendasi area wisata keluarga di Bali
-> [Seminyak](/blog/2025-02-15-67ac4321fd897800015b9a11/) ｜ [Ubud](/blog/2025-02-16-67b0a910fd89780001798c4e/) ｜ [Sanur](/blog/2025-02-22-67b81b4cfd89780001b4a261/)
+> [Seminyak](/id/blog/2025-02-15-67ac4321fd897800015b9a11/) ｜ [Ubud](/id/blog/2025-02-16-67b0a910fd89780001798c4e/) ｜ [Sanur](/id/blog/2025-02-22-67b81b4cfd89780001b4a261/)
 
 ***
 
@@ -89,7 +89,7 @@ Bali itu daerah yang sangat religius, di mana-mana ada sesajen dan pura. Kalau b
 
 Kadang di jalan kamu lihat sesajen kecil di tanah (Canang Sari), jangan diinjak, dan ingatkan anak-anak untuk tidak sembarangan menyentuhnya. Semua ini bagian dari ritual sehari-hari umat Hindu, dan merupakan bagian penting dari budaya Bali.
 
-> Baca juga: [Tradisi Sembahyang di Bali: Canang Sari](/blog/2024-07-16-66964aa7fd89780001c7051c/)
+> Baca juga: [Tradisi Sembahyang di Bali: Canang Sari](/id/blog/2024-07-16-66964aa7fd89780001c7051c/)
 
 ***
 
@@ -135,7 +135,7 @@ Anak yang agak lebih besar (disarankan usia 8 tahun ke atas) bisa coba banana bo
 
 Waterboom Bali, yang jaraknya sekitar 30 menit berkendara dari Nusa Dua, adalah salah satu taman air dengan rating tertinggi se-Asia. Di sini ada seluncuran air untuk segala usia, mulai dari area khusus balita sampai seluncuran super cepat yang bikin orang dewasa gemetar. Bisa main seharian dengan santai. Disarankan datang di hari biasa biar nggak terlalu ramai, jangan lupa siapkan tabir surya dan baju ganti.
 
-[【Bali Wajib Coba Buat Keluarga】Waterbom Bali Water Park Panduan Lengkap: Water Park Terbaik se-Asia, Pembagian Seluncuran & Tips Hemat Tiket](/blog/2025-07-28-68875c61fd8978000143d895/)
+[【Bali Wajib Coba Buat Keluarga】Waterbom Bali Water Park Panduan Lengkap: Water Park Terbaik se-Asia, Pembagian Seluncuran & Tips Hemat Tiket](/id/blog/2025-07-28-68875c61fd8978000143d895/)
 
 ### 6. 🦜 Taman Budaya Garuda Wisnu Kencana (GWK)
 
@@ -143,7 +143,7 @@ Waterboom Bali, yang jaraknya sekitar 30 menit berkendara dari Nusa Dua, adalah 
 
 GWK Cultural Park terletak di dataran tinggi Uluwatu, dengan patung Dewa Wisnu yang megah banget, anak-anak pasti melongo melihatnya. Di dalam area, ada pertunjukan tari tradisional dan musik Bali secara rutin, tempat yang pas buat anak-anak belajar budaya Hindu. Kalau datang sore, kamu bisa nikmatin sunset dengan latar patung emas raksasa itu — pemandangannya juara!
 
-> [【Ikon Bali】Panduan Lengkap GWK Garuda Wisnu Kencana Cultural Park: Patung Tertinggi di Dunia, Pertunjukan Tari Tradisional & Spot Foto Kece](/blog/2025-07-17-68785bf9fd89780001822053/)
+> [【Ikon Bali】Panduan Lengkap GWK Garuda Wisnu Kencana Cultural Park: Patung Tertinggi di Dunia, Pertunjukan Tari Tradisional & Spot Foto Kece](/id/blog/2025-07-17-68785bf9fd89780001822053/)
 
 ### 7. 🎨 DIY Kerajinan Tradisional Bali
 
@@ -167,7 +167,7 @@ Belajar masak masakan Bali bareng koki lokal makin populer di kalangan wisatawan
 
 Pertunjukan panggung besar yang hanya digelar tiga kali seminggu ini, lewat musik, tarian, dan akrobat udara, mengajak penonton menjelajahi budaya lima pulau utama Indonesia. Cocok untuk semua usia, sayang banget kalau dilewatkan.
 
-> Kami punya penjelasan lengkap, cek [di sini](/blog/2025-06-21-68557a29fd897800017f4272/)
+> Kami punya penjelasan lengkap, cek [di sini](/id/blog/2025-06-21-68557a29fd897800017f4272/)
 
 ### 10. Bali Exotic Marine Park｜Lompat ke Birunya Laut, Dunia Air Impian Berdansa dengan Lumba-lumba
 
@@ -181,7 +181,7 @@ Selain interaksi lumba-lumba, taman ini juga punya pertunjukan singa laut, kolam
 
 **Tips traveling:** Slot interaksi lumba-lumba terbatas banget, saran banget buat booking lewat platform online jauh-jauh hari. Beberapa aktivitas interaksi punya batasan umur dan tinggi badan, pastikan cek dulu sebelum beli tiket.
 
-Info lengkap: [Panduan Bali Exotic Marine Park: Interaksi super dekat, berenang bareng lumba-lumba, tips hindari keramaian, dan rencana perjalanan keluarga](https://gobaligo.id/blog/Bali-Exotic-Marine-Park/)
+Info lengkap: [Panduan Bali Exotic Marine Park: Interaksi super dekat, berenang bareng lumba-lumba, tips hindari keramaian, dan rencana perjalanan keluarga](https://gobaligo.id/id/blog/Bali-Exotic-Marine-Park/)
 
 > Beli tiket online: [Kkday](https://www.kkday.com/zh-tw/product/138734-bali-exotic-dolphin-marine-park-indonesia?cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -393,7 +393,7 @@ Liburan sama anak-anak biasanya paling khawatir dua hal: anak kurang puas main, 
 Ini dia gambaran liburan keluarga ke Bali yang paling sempurna di mata traveler.
 
 > Rekomendasi area liburan keluarga di Bali
-> [Seminyak](/blog/2025-02-15-67ac4321fd897800015b9a11/) ｜ [Ubud](/blog/2025-02-16-67b0a910fd89780001798c4e/) ｜ [Sanur](/blog/2025-02-22-67b81b4cfd89780001b4a261/)
+> [Seminyak](/id/blog/2025-02-15-67ac4321fd897800015b9a11/) ｜ [Ubud](/id/blog/2025-02-16-67b0a910fd89780001798c4e/) ｜ [Sanur](/id/blog/2025-02-22-67b81b4cfd89780001b4a261/)
 
 {{block:親子}}
 

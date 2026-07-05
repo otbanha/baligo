@@ -60,6 +60,6 @@ __VID0__
 
 講到底，2026 年嘅峇里島，唔再只係「揀一間待到底」。識得移動、識得轉換氛圍，反而更能玩出層次。咖啡廳都值得去，但如果時間有限，我會老實講一句——將重心留俾 Beach Club，真係比較唔會後悔。😉🌴
 
-**快速參考：**[峇里島20個免費入場嘅海灘俱樂部](/blog/bali-beach-clubs-free-entry-list/)
+**快速參考：**[峇里島20個免費入場嘅海灘俱樂部](/zh-hk/blog/bali-beach-clubs-free-entry-list/)
 
 {{block:klook}}

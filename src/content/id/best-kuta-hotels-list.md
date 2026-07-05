@@ -35,7 +35,7 @@ _srcHash: b680c38c216e5c1a6470c9d8a3e93272
 ---
 Update: 2026/07/03
 
-**Kesimpulan dulu**: Nggak perlu maksain cari hotel dengan pemandangan laut di Kuta — kalau itinerary kamu isinya belanja dan jalan-jalan, pilih **hotel di kawasan Kartika Plaza atau sekitar Kuta Square** yang paling worth it (artikel ini pilihkan 10, rekomendasi utama yang tenang di tengah kota adalah Amnaya Resort Kuta); kalau kamu naik penerbangan tengah malam atau tiba larut, langsung aja **nginep di 2 hotel transit dekat bandara** biar nggak repot bawa koper. Mau hotel di pinggir pantai? Cek [daftar hotel pantai Kuta](/blog/kuta-beach-hotels/).
+**Kesimpulan dulu**: Nggak perlu maksain cari hotel dengan pemandangan laut di Kuta — kalau itinerary kamu isinya belanja dan jalan-jalan, pilih **hotel di kawasan Kartika Plaza atau sekitar Kuta Square** yang paling worth it (artikel ini pilihkan 10, rekomendasi utama yang tenang di tengah kota adalah Amnaya Resort Kuta); kalau kamu naik penerbangan tengah malam atau tiba larut, langsung aja **nginep di 2 hotel transit dekat bandara** biar nggak repot bawa koper. Mau hotel di pinggir pantai? Cek [daftar hotel pantai Kuta](/id/blog/kuta-beach-hotels/).
 
 Bicara soal penginapan di Kuta, yang pertama kepikiran pasti hotel pantai — tapi kamar dengan view laut belum tentu pilihan paling cerdas.
 
@@ -43,7 +43,7 @@ Kalau itinerary kamu isinya belanja, jalan-jalan, atau pakai Kuta sebagai base t
 
 Artikel ini ngelompokin 12 hotel jadi dua kategori: **10 di dekat pusat kota** dan **2 di dekat bandara**, biar kamu tinggal pilih sesuai kebutuhan liburan.
 
-**PS. Kalau kamu cari hotel Kuta di pinggir pantai? Cek** [**sini**](/blog/kuta-beach-hotels/)
+**PS. Kalau kamu cari hotel Kuta di pinggir pantai? Cek** [**sini**](/id/blog/kuta-beach-hotels/)
 
 ***
 
@@ -505,7 +505,7 @@ Kalau cuma butuh **basecamp yang nyaman buat tidur**, The Vira Bali punya CP val
 
 **Saran booking: bandingin harga di Agoda**. Kenaikan harga hotel di pusat kota biasanya lebih kecil dibanding hotel pantai pas high season. Tapi Amnaya dan Poppies yang termasuk boutique hotel favorit juga tetap laris, jadi mending booking dari jauh-jauh hari.
 
-> Mau cari hotel di Kuta yang dekat pantai? Cek [di sini](/blog/kuta-beach-hotels/)
+> Mau cari hotel di Kuta yang dekat pantai? Cek [di sini](/id/blog/kuta-beach-hotels/)
 
 {{block:kuta}}
 

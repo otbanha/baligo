@@ -62,7 +62,7 @@ https://youtu.be/J6mjw5k2lzY?si=qoVEwlncFrnqNvkm
 
 而家喺呢一帶**咖啡店跳店散步**真係舒服咗好多，唔使再擔心拗柴。
 
-**快速參考：**[沙努爾海灘上嘅6間熱門海景咖啡廳推薦](/blog/sanur-beach-cafes-guide/)
+**快速參考：**[沙努爾海灘上嘅6間熱門海景咖啡廳推薦](/zh-hk/blog/sanur-beach-cafes-guide/)
 
 ### ✅ 新嘅多層液壓電梯停車場
 
@@ -76,7 +76,7 @@ https://www.instagram.com/reel/DM-DKa6TUir/?utm_source=ig_web_copy_link&igsh=NTc
 
 提供更環保嘅公共交通選擇，對旅客嚟講亦都更方便。
 
-**快速參考：**[峇里島沙努爾推出全新旅遊接駁巴士](/blog/sanur-tourist-shuttle-launch/)
+**快速參考：**[峇里島沙努爾推出全新旅遊接駁巴士](/zh-hk/blog/sanur-tourist-shuttle-launch/)
 
 ### ✅ Mertasari碼頭重新啟用（試行）
 
@@ -145,7 +145,7 @@ https://youtu.be/laRb_l8BdLM
 ✔ 想慢節奏放空嘅人
 ✔ 想結合健康療養或者長住嘅旅客
 
-**快速參考：**[峇里島家庭親子旅遊首選: 最安全嘅戲水海灘 - 沙努爾](/blog/sanur-family-beach-guide/)
+**快速參考：**[峇里島家庭親子旅遊首選: 最安全嘅戲水海灘 - 沙努爾](/zh-hk/blog/sanur-family-beach-guide/)
 
 ***
 

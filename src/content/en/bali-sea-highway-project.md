@@ -90,7 +90,7 @@ With the advancement of the coastal highway project, Bali is set to welcome a mo
 
 Bali's coastal highway project is an innovative and promising initiative that will not only improve local transportation conditions but also bring new opportunities to tourism and the local economy. As the project progresses, we look forward to seeing Bali become more convenient and prosperous in the future.
 
-> Further reading: [【One of Bali's Transportation Improvement Plans】Bali LRT Construction to Begin in September](/blog/bali-lrt-construction-update/)
+> Further reading: [【One of Bali's Transportation Improvement Plans】Bali LRT Construction to Begin in September](/en/blog/bali-lrt-construction-update/)
 
 ## **Frequently Asked Questions (FAQ)**
 

@@ -39,7 +39,7 @@ Meskipun ada sedikit hambatan, perjalanan ini bikin aku sadar betapa pentingnya 
 
 **Referensi Cepat:**
 
-> Versi terbaru: [【Aturan Masuk】3 Langkah Wajib Sebelum Liburan ke Bali 2026](https://gobaligo.id/blog/2025-bali-immigration-process/)
+> Versi terbaru: [【Aturan Masuk】3 Langkah Wajib Sebelum Liburan ke Bali 2026](https://gobaligo.id/id/blog/2025-bali-immigration-process/)
 
 ***
 
@@ -55,7 +55,7 @@ Makanan di kelas bisnis
 
 Imlek emang musim liburan, harga tiket pasti bikin melongo. Tapi kadang kalau kita ubah cara pandang, naikin sedikit budget buat kelas bisnis malah bisa dapet kejutan seru. Pengalaman ini bikin saya sadar, fleksibel soal budget dan pilihan bisa bikin perjalanan makin nyaman dan asyik.
 
-> [Cara beli tiket pesawat ke Bali termurah? Tips dan trik hemat di Trip.com](https://gobaligo.id/blog/ticket/)
+> [Cara beli tiket pesawat ke Bali termurah? Tips dan trik hemat di Trip.com](https://gobaligo.id/id/blog/ticket/)
 
 ***
 
@@ -71,7 +71,7 @@ Kali ini kita pilih paket mobil, bukan cuma bikin perjalanan lebih santai, tapi 
 
 **Referensi Cepat:**
 
-> [Kapan sebaiknya pakai paket mobil di Bali? Kapan panggil taksi? Paket mobil vs. taksi: Gimana milih cara traveling yang paling cocok buat kamu?](/blog/bali-transportation-guide-car-rental/)
+> [Kapan sebaiknya pakai paket mobil di Bali? Kapan panggil taksi? Paket mobil vs. taksi: Gimana milih cara traveling yang paling cocok buat kamu?](/id/blog/bali-transportation-guide-car-rental/)
 
 ***
 
@@ -101,7 +101,7 @@ Kebanyakan driver Grab sih oke-oke aja, tapi kami pernah ketemu satu driver yang
 
 **Referensi Cepat:**
 
-> [Modus Driver Ojek Online di Bali: Cara Hindari Jebakan Grab/Gojek?](/blog/bali-grab-gojek-scam-tips/)
+> [Modus Driver Ojek Online di Bali: Cara Hindari Jebakan Grab/Gojek?](/id/blog/bali-grab-gojek-scam-tips/)
 
 ### **Sewa Motor**
 
@@ -109,7 +109,7 @@ Kali ini karena bawa orang tua dan anak kecil, nggak sempat nyoba sewa motor. Ta
 
 **Referensi Cepat:**
 
-> [Panduan Sewa Motor di Bali: Harga, Keamanan, Tips Penting](/blog/bali-motorbike-rental-tips/)
+> [Panduan Sewa Motor di Bali: Harga, Keamanan, Tips Penting](/id/blog/bali-motorbike-rental-tips/)
 
 Intinya, meskipun transportasi di Bali punya tantangan tersendiri, asal kamu rencanakan paket mobil sewaan atau pilih moda transportasi yang tepat, perjalanan tetap bisa lancar. Semoga pengalaman ini berguna buat kamu yang berencana liburan ke Bali!
 
@@ -135,9 +135,9 @@ Soal akomodasi, pengalaman nginep di Villa kali ini bikin sekeluarga puas banget
 
 **Referensi Cepat:**
 
-> [Bali Travel: Rekomendasi Villa Keluarga 3-4 Kamar Tidur](/blog/bali-group-villa-stay/)
+> [Bali Travel: Rekomendasi Villa Keluarga 3-4 Kamar Tidur](/id/blog/bali-group-villa-stay/)
 
-> [Airbnb Kamu Mungkin Hilang Agustus? Panduan Hindari Villa Ilegal di Bali](https://gobaligo.id/blog/airbnb-alert-2026/)
+> [Airbnb Kamu Mungkin Hilang Agustus? Panduan Hindari Villa Ilegal di Bali](https://gobaligo.id/id/blog/airbnb-alert-2026/)
 
 ***
 
@@ -161,7 +161,7 @@ Di daerah pegunungan Bali, beberapa tahun terakhir mulai banyak ditanami sayur d
 
 **Referensi cepat:**
 
-[Ratu Buah Tropis — Musim Manggis Indonesia/Bali Bulan Apa?](/blog/bali-mangosteen-season/)
+[Ratu Buah Tropis — Musim Manggis Indonesia/Bali Bulan Apa?](/id/blog/bali-mangosteen-season/)
 
 ### Produk Susu dan Makanan Penutup
 
@@ -179,7 +179,7 @@ Kualitas seafood di Bali lebih oke dibanding daging, soalnya Bali dikelilingi la
 
 **Referensi Cepat:**
 
-Kontak & promo terbaru Mr. Lobster ada [di sini](/blog/mr-lobster-seafood-bali/)
+Kontak & promo terbaru Mr. Lobster ada [di sini](/id/blog/mr-lobster-seafood-bali/)
 
 ***
 
@@ -187,15 +187,15 @@ Kontak & promo terbaru Mr. Lobster ada [di sini](/blog/mr-lobster-seafood-bali/)
 
 Seperti yang udah disebut, jalanan di Bali nggak dirancang dengan matang, jadinya hampir 24 jam sehari, lebih dari dua pertiga waktunya macet. Jadi, kalau ada rencana perjalanan di hari itu, apalagi destinasi yang jaraknya lebih dari satu jam dari tempat nginep, **sangat disarankan** berangkat jam 7-8 pagi. Kalau nggak, macet doang udah bisa bikin kamu kehilangan 50% energi, bikin perjalanan seharian jadi capek banget.
 
-Pas nyusun itinerary, usahain tempat-tempat yang satu area digabung, jangan mimpi bisa lintas jarak lebih dari 40 km dalam sehari! Soalnya jalan di Bali sempit dan pas Imlek ini adalah [musim puncak ketiga sepanjang tahun di Bali](/blog/bali-peak-season-travel-tips/), perjalanan kurang dari 40 km aja bisa makan waktu 2 jam itu udah biasa. **Jangan cuma lihat jarak di peta yang keliatan deket, lalu pengen isi itinerary penuh-penuh**, ujung-ujungnya cuma bikin kamu stres di jalan, hilang seru-seruan liburan.
+Pas nyusun itinerary, usahain tempat-tempat yang satu area digabung, jangan mimpi bisa lintas jarak lebih dari 40 km dalam sehari! Soalnya jalan di Bali sempit dan pas Imlek ini adalah [musim puncak ketiga sepanjang tahun di Bali](/id/blog/bali-peak-season-travel-tips/), perjalanan kurang dari 40 km aja bisa makan waktu 2 jam itu udah biasa. **Jangan cuma lihat jarak di peta yang keliatan deket, lalu pengen isi itinerary penuh-penuh**, ujung-ujungnya cuma bikin kamu stres di jalan, hilang seru-seruan liburan.
 
 ![適合長輩的景點參考，請點這裡](https://images.gobaligo.id/vocus/vocus_aed0dd9ef1952475718465e8e2f805a8.jpg)
 
-[Referensi destinasi yang cocok buat orang tua, klik di sini](/blog/bali-senior-friendly-travel-guide/)
+[Referensi destinasi yang cocok buat orang tua, klik di sini](/id/blog/bali-senior-friendly-travel-guide/)
 
 ![適合長輩的景點參考，請點這裡](https://images.gobaligo.id/vocus/vocus_c9d90c6b640576cf0c0e74c35643534f.jpg)
 
-[Referensi destinasi yang cocok buat orang tua, klik di sini](/blog/bali-senior-friendly-travel-guide/)
+[Referensi destinasi yang cocok buat orang tua, klik di sini](/id/blog/bali-senior-friendly-travel-guide/)
 
 ### Saran untuk Liburan Keluarga
 
@@ -237,7 +237,7 @@ Tanpa ragu kami pilih pijatan paling keras, yaitu Strong Barefoot, dan booking s
 
 Pengalaman pijat kali ini bikin aku benar-benar berubah pikiran soal pijat di Bali. Hot Bamboo SPA punya teknik khas yang profesional banget, bikin tubuh dan pikiran rileks total. Kalau kamu suka pijatan yang tekanannya agak keras, SPA ini wajib coba!
 
-**> Referensi Cepat** : Sudah masuk di "[Koleksi Rekomendasi SPA Terbaik di Bali](/blog/spa/)". Kalau mau cari SPA yang oke buat relaksasi, jangan lewatkan koleksi/rekomendasi kami ya!
+**> Referensi Cepat** : Sudah masuk di "[Koleksi Rekomendasi SPA Terbaik di Bali](/id/blog/spa/)". Kalau mau cari SPA yang oke buat relaksasi, jangan lewatkan koleksi/rekomendasi kami ya!
 
 ***
 

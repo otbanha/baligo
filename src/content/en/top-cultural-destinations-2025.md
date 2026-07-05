@@ -35,20 +35,20 @@ Bali, known as the 'Island of the Gods,' is a dream destination for many travele
 
 **Quick Reference:**
 
-- [Bali Travel Tips: 31 Must-Know Tips for First-Time Visitors](/blog/bali-ultimate-guide-2026/)
-- [Bali Must-Know: 41 Awkward Questions 99% of Travelers Secretly Search For! Bali Travel Guide](/blog/bali-travel-faqs-guide/)
-- [Bali Guide: Understanding Bali Regions - Bali Accommodation Recommendations - Know Kuta, Seminyak, Canggu, Ubud](/blog/2023-12-29-65839fbafd89780001e876b5/)
-- [Seminyak Guide: 100 Must-Visit Spots](/blog/seminyak-guide/)
-- [Kuta Guide: 50 Must-Visit Spots](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [Canggu Guide: 80 Must-Visit Spots](/blog/canggu-guide/)
-- [Ubud Guide: 100 Ways to Explore](/blog/ubud-guide/)
-- [Jimbaran Guide](/blog/jimbaran-guide/)
-- [Uluwatu Guide](/blog/uluwatu-guide/)
-- [Bukit Peninsula Adventure Guide](/blog/bukit-peninsula-guide/)
-- [Sanur Guide: 45 Things to Eat, Drink, and Do](/blog/sanur-guide/)
-- [Nusa Dua Guide: 40 Accommodations, Dining, and Activities](/blog/nusa-dua-guide/)
-- [Nusa Penida Guide: Complete Guide to Eating, Drinking, and Playing](/blog/nusa-penida-guide/)
-- [Nusa Lembongan & Ceningan Guide: Complete Guide to Attractions](/blog/nusa-lembongan-ceningan-guide/)
+- [Bali Travel Tips: 31 Must-Know Tips for First-Time Visitors](/en/blog/bali-ultimate-guide-2026/)
+- [Bali Must-Know: 41 Awkward Questions 99% of Travelers Secretly Search For! Bali Travel Guide](/en/blog/bali-travel-faqs-guide/)
+- [Bali Guide: Understanding Bali Regions - Bali Accommodation Recommendations - Know Kuta, Seminyak, Canggu, Ubud](/en/blog/2023-12-29-65839fbafd89780001e876b5/)
+- [Seminyak Guide: 100 Must-Visit Spots](/en/blog/seminyak-guide/)
+- [Kuta Guide: 50 Must-Visit Spots](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [Canggu Guide: 80 Must-Visit Spots](/en/blog/canggu-guide/)
+- [Ubud Guide: 100 Ways to Explore](/en/blog/ubud-guide/)
+- [Jimbaran Guide](/en/blog/jimbaran-guide/)
+- [Uluwatu Guide](/en/blog/uluwatu-guide/)
+- [Bukit Peninsula Adventure Guide](/en/blog/bukit-peninsula-guide/)
+- [Sanur Guide: 45 Things to Eat, Drink, and Do](/en/blog/sanur-guide/)
+- [Nusa Dua Guide: 40 Accommodations, Dining, and Activities](/en/blog/nusa-dua-guide/)
+- [Nusa Penida Guide: Complete Guide to Eating, Drinking, and Playing](/en/blog/nusa-penida-guide/)
+- [Nusa Lembongan & Ceningan Guide: Complete Guide to Attractions](/en/blog/nusa-lembongan-ceningan-guide/)
 
 ## 2.🇻🇳 **Hanoi, Vietnam**
 

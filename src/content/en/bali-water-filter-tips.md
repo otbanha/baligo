@@ -159,7 +159,7 @@ Someone made an interesting observation: "It varies by area and water supply sys
 - ✅ Drinks: Ice cubes at restaurants are fine, but skip street-side stalls
 - ✅ Canned drinks are the safest bet
 - ✅ Keep stomach meds handy just in case
-- ✅ **If you do get sick**: [**Check out this quick self-help guide**](/blog/bali-belly-medicine-guide/)
+- ✅ **If you do get sick**: [**Check out this quick self-help guide**](/en/blog/bali-belly-medicine-guide/)
 
 **The most practical tip**: Some travelers share, 'Before the trip and during breakfast on an empty stomach, take probiotics. On the first day, mix a bottle of Taiwanese mineral water with local mineral water (a way to adapt to the local water during travel), then you can drink local mineral water directly afterward.' This gradual adaptation method gives your digestive system time to adjust.
 
@@ -185,4 +185,4 @@ https://youtu.be/UoGlRyAdyB8?si=bVbXn2fjZ7GMpSiw&t=600
 
 👈 **Back to the Ultimate Bali Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read the 'Ultimate Bali Travel Guide 2026'](/blog/bali-ultimate-guide-2026/) to get everything sorted before you go.
+Want to see the complete beginner's guide? [Click here to read the 'Ultimate Bali Travel Guide 2026'](/en/blog/bali-ultimate-guide-2026/) to get everything sorted before you go.

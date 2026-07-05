@@ -81,8 +81,8 @@ Semoga rekomendasi akomodasi ini membantu kamu menemukan tempat menginap yang pa
 
 Ini adalah episode ketiga dari panduan Nusa Lembongan/Nusa Ceningan. Mau tahu apa saja tempat wisata dan rekomendasi kuliner di Nusa Lembongan dan Nusa Ceningan? Cek panduan kami:
 
-- [【Panduan Nusa Lembongan 1】Wisata & Tempat](/blog/nusa-lembongan-ceningan-guide/)
-- [【Panduan Nusa Lembongan 2】Rekomendasi Kuliner](/blog/nusa-lembongan-restaurants/)
+- [【Panduan Nusa Lembongan 1】Wisata & Tempat](/id/blog/nusa-lembongan-ceningan-guide/)
+- [【Panduan Nusa Lembongan 2】Rekomendasi Kuliner](/id/blog/nusa-lembongan-restaurants/)
 
 ## 1. Pantai Jungut Batu – Area Terbaik untuk Nightlife & Kuliner di Nusa Lembongan
 
@@ -96,7 +96,7 @@ Selain surfing, ada juga aktivitas diving buat eksplorasi kehidupan laut yang ka
 
 ### Rekomendasi Kuliner
 
-Jungut Batu juga surga kuliner di Nusa Lembongan. Sebagian besar restoran dan kafe ada di jalan utama pesisir (Jalan Jungutbatu). Buat kamu yang suka makanan sehat, banyak tempat yang nyajiin pilihan sehat dan enak. Cek panduan kami: [28 Restoran, Bar & Beach Club Terbaik di Nusa Lembongan & Ceningan](/blog/nusa-lembongan-restaurants/)
+Jungut Batu juga surga kuliner di Nusa Lembongan. Sebagian besar restoran dan kafe ada di jalan utama pesisir (Jalan Jungutbatu). Buat kamu yang suka makanan sehat, banyak tempat yang nyajiin pilihan sehat dan enak. Cek panduan kami: [28 Restoran, Bar & Beach Club Terbaik di Nusa Lembongan & Ceningan](/id/blog/nusa-lembongan-restaurants/)
 
 ### Nightlife
 
@@ -226,7 +226,7 @@ Mushroom Bay terletak di selatan Pantai Jungut Batu. Teluk ini terkenal dengan p
 
 ### Rekomendasi Kuliner
 
-Mushroom Bay juga tempat yang oke buat menikmati makanan lokal. Kami rekomendasiin tiga restoran sehat dan enak, cek panduan kami di sini: [28 Restoran, Bar, dan Beach Club Terbaik di Nusa Lembongan & Nusa Ceningan](/blog/nusa-lembongan-restaurants/)
+Mushroom Bay juga tempat yang oke buat menikmati makanan lokal. Kami rekomendasiin tiga restoran sehat dan enak, cek panduan kami di sini: [28 Restoran, Bar, dan Beach Club Terbaik di Nusa Lembongan & Nusa Ceningan](/id/blog/nusa-lembongan-restaurants/)
 
 ### Kehidupan Malam
 
@@ -348,7 +348,7 @@ Kalau nggak nyaman berenang di laut, banyak hotel tepi pantai di dekat Dream Bea
 
 ### Rekomendasi Kuliner
 
-Pilihan tempat makan di sekitar Dream Beach emang terbatas, tapi tetap ada beberapa restoran yang worth it buat dicoba. Cek rekomendasi lengkap kami di sini: [28 Restoran, Bar, dan Beach Club Terbaik di Nusa Lembongan & Ceningan](/blog/nusa-lembongan-restaurants/)
+Pilihan tempat makan di sekitar Dream Beach emang terbatas, tapi tetap ada beberapa restoran yang worth it buat dicoba. Cek rekomendasi lengkap kami di sini: [28 Restoran, Bar, dan Beach Club Terbaik di Nusa Lembongan & Ceningan](/id/blog/nusa-lembongan-restaurants/)
 
 ### Nightlife
 
@@ -657,7 +657,7 @@ Kalau kamu nginep di sini, saran kami sih sewa motor aja — karena bakal memuda
 
 ![Aktivitas Wajib Coba](https://images.gobaligo.id/vocus/vocus_f45f1e5afcba5c9631cc572a74cc9214.jpg)
 
-- Mau lihat lebih banyak beach club di Nusa Ceningan? Cek rekomendasi lengkap kami: [28 Restoran, Bar, dan Beach Club Terbaik di Nusa Lembongan & Nusa Ceningan](/blog/nusa-lembongan-restaurants/)
+- Mau lihat lebih banyak beach club di Nusa Ceningan? Cek rekomendasi lengkap kami: [28 Restoran, Bar, dan Beach Club Terbaik di Nusa Lembongan & Nusa Ceningan](/id/blog/nusa-lembongan-restaurants/)
 
 Meskipun agak terpencil, Nusa Ceningan punya pesona alam yang tenang dan memikat, cocok buat kamu yang cari pengalaman berbeda dari tur biasa.
 

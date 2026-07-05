@@ -78,7 +78,7 @@ Selain simpan nomor-nomor penting di HP, lakukan ini sebelum berangkat biar libu
 
 > **Keselamatan kamu yang utama!** > Siap-siap dari awal biar bisa liburan dengan tenang di Bali, nikmatin langit biru dan pemandangan indah Pulau Dewata. Semoga liburanmu di Bali menyenangkan dan aman!
 
-🌏 [Peta interaktif untuk cari kantor polisi terdekat saat darurat](/blog/bali-emergency-guide/)
+🌏 [Peta interaktif untuk cari kantor polisi terdekat saat darurat](/id/blog/bali-emergency-guide/)
 
 _（Artikel ini dirangkum dan dibagikan oleh gobaligo.id, panduan wisata Bali. Yuk, share ke teman-teman yang mau ke Bali!）_
 

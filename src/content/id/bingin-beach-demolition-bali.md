@@ -48,7 +48,7 @@ Saat ini, bangunan yang terkena dampak pembongkaran meliputi penginapan, restora
 
 ![Kalau kamu mau cari hidden gem pantai lainnya, dan tahu lebi](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
-Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal dengan tebing-tebing spektakuler, pantai yang memesona, dan spot surfing kelas dunia. Suasananya penuh romantisme tropis—cocok banget buat nikmatin sunset dan waktu santai. Kalau kamu juga mau nginep di Uluwatu, cek aja rekomendasi makan, minum, dan main yang udah kami susun rapi biar liburanmu makin seru: [【Panduan Uluwatu】Rekomendasi Tempat Wisata, Makan, Minum, dan Main di Uluwatu](/blog/uluwatu-guide/)
+Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal dengan tebing-tebing spektakuler, pantai yang memesona, dan spot surfing kelas dunia. Suasananya penuh romantisme tropis—cocok banget buat nikmatin sunset dan waktu santai. Kalau kamu juga mau nginep di Uluwatu, cek aja rekomendasi makan, minum, dan main yang udah kami susun rapi biar liburanmu makin seru: [【Panduan Uluwatu】Rekomendasi Tempat Wisata, Makan, Minum, dan Main di Uluwatu](/id/blog/uluwatu-guide/)
 
 ---
 

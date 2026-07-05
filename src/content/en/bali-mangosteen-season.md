@@ -33,4 +33,4 @@ Like most fruits, mangosteen prices tend to be cheaper during harvest season. Du
 
 To buy fresh and affordable mangosteen in Indonesia/Bali, the best time is typically between January and April.
 
-> Further Reading: [🥥 Complete Guide to Bali's Durian Season｜When is it Most Fragrant and Affordable?](/blog/2026-04-07-065104/)
+> Further Reading: [🥥 Complete Guide to Bali's Durian Season｜When is it Most Fragrant and Affordable?](/en/blog/2026-04-07-065104/)

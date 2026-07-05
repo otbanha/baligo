@@ -62,7 +62,7 @@ _srcHash: 436e18b361153a8ee720118766439d05
 
 👉 **建议：安排海滩行程或各种户外活动最好排在早上！**
 
-> [巴厘岛户外活动玩什么？18种不可错过的精彩体验](/blog/bali-top-50-outdoor-activities/)
+> [巴厘岛户外活动玩什么？18种不可错过的精彩体验](/zh-cn/blog/bali-top-50-outdoor-activities/)
 
 ---
 
@@ -78,10 +78,10 @@ _srcHash: 436e18b361153a8ee720118766439d05
 
 **快速参考：**
 
-> [巴厘岛雨季月份/降雨概率/降雨天数/平均气温/适合旅游指数...大解析](/blog/bali-rainy-season-travel-guide/)
+> [巴厘岛雨季月份/降雨概率/降雨天数/平均气温/适合旅游指数...大解析](/zh-cn/blog/bali-rainy-season-travel-guide/)
 
 ---
 
 ![小总结：天气预报不要看图吓自己！](https://images.gobaligo.id/vocus/vocus_09e4e66f29ac27a468ecc350cf0c839d.png)
 
-如果真的担心下雨天影响行程，【[雨天的60个备选景点推荐](/blog/2026-bali-indoor-activities/)】，赶快收藏起来吧！
+如果真的担心下雨天影响行程，【[雨天的60个备选景点推荐](/zh-cn/blog/2026-bali-indoor-activities/)】，赶快收藏起来吧！

@@ -31,9 +31,9 @@ Kedua, masalah cuaca di Bali itu bukan fokus utama liburan. Bali itu tempat yang
 
 ![為什麼別再問峇里島的天氣？下雨又如何？](https://images.gobaligo.id/vocus/vocus_26c4410d90cfbacef24b366044b27875.png)
 
-> Baca juga: [Bali Kehujanan? 60 Aktivitas Indoor di Bali yang Wajib Dicoba](/blog/2026-bali-indoor-activities/)
+> Baca juga: [Bali Kehujanan? 60 Aktivitas Indoor di Bali yang Wajib Dicoba](/id/blog/2026-bali-indoor-activities/)
 
-> Baca juga: [Waktu Terbaik Liburan ke Bali? Panduan Lengkap Musim Kemarau vs Musim Hujan](/blog/bali-best-time-to-visit/)
+> Baca juga: [Waktu Terbaik Liburan ke Bali? Panduan Lengkap Musim Kemarau vs Musim Hujan](/id/blog/bali-best-time-to-visit/)
 
 Selain itu, pas liburan di Bali, kita juga harus sadar kalau cuaca di setiap daerah itu nggak sama. Bentuk daratan Bali itu beragam, dari pantai sampai pegunungan, iklim dan cuaca di tiap tempat bisa beda. Contohnya, daerah pegunungan di pedalaman lebih gampang kena hujan dibanding pesisir selatan. Jadi, meskipun di satu pulau Bali yang sama, kamu bisa nemuin cuaca yang beda di daerah yang berbeda. Makanya kita nggak bisa cuma ngandelin jawaban beberapa orang buat nentuin cuaca Bali secara keseluruhan, harus lebih spesifik lihat lokasi pastinya.
 
@@ -67,6 +67,6 @@ Nggak sama. Bentang alam Bali beragam, daerah pegunungan di pedalaman (misalnya 
 
 ## Gimana cara siap-siap menghadapi cuaca yang nggak pasti?
 
-Saran gue, bawa perlengkapan tabir surya sekaligus jas hujan ringan (jas hujan, payung lipat) di koper. Jadwal perjalanan juga usahakan fleksibel. Kalau ketemu hujan, bisa intip [60 ide aktivitas indoor di Bali pas hujan](/blog/2026-bali-indoor-activities/) buat penyesuaian.
+Saran gue, bawa perlengkapan tabir surya sekaligus jas hujan ringan (jas hujan, payung lipat) di koper. Jadwal perjalanan juga usahakan fleksibel. Kalau ketemu hujan, bisa intip [60 ide aktivitas indoor di Bali pas hujan](/id/blog/2026-bali-indoor-activities/) buat penyesuaian.
 
 {{block:klook}}

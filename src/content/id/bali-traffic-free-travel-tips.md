@@ -37,7 +37,7 @@ Bali itu destinasi wisata kelas dunia, setiap tahunnya didatangi jutaan turis. T
 
 Masalah lalu lintas di Bali paling parah di kawasan utara bandara, kayak Kuta dan Seminyak. Soalnya ini daerah wisata paling populer di Bali, tapi justru jadi salah satu zona paling macet. Apalagi proyek LRT yang mulai konstruksi awal September 2024 dari parkiran depan IKEA Kuta, bikin macet makin parah dan dipastikan masuk 'masa kelam lalu lintas' selama beberapa tahun ke depan. Wisatawan di kawasan ini bakal habiskan banyak waktu di jalan, ganggu kenyamanan liburan.
 
-Baca juga: [Apa Itu LRT Bali? Nyambung ke Mana? Kapan Selesai?](/blog/bali-lrt-construction-update/)
+Baca juga: [Apa Itu LRT Bali? Nyambung ke Mana? Kapan Selesai?](/id/blog/bali-lrt-construction-update/)
 
 Makanya, milih kawasan selatan bandara kayak Jimbaran, Uluwatu; atau timur bandara kayak Nusa Dua dan Sanur sebagai tempat liburan bisa efektif hindari macet dan nikmatin liburan yang lebih tenang.
 
@@ -49,7 +49,7 @@ Jimbaran terletak di selatan Bandara Internasional Bali, terkenal dengan suasana
 
 Bacaan lanjutan:
 
-[Panduan lengkap Jimbaran: rekomendasi seafood restaurant anti-kecewa, tempat seru, akomodasi dengan view laut... cek di sini](/blog/jimbaran-guide/)
+[Panduan lengkap Jimbaran: rekomendasi seafood restaurant anti-kecewa, tempat seru, akomodasi dengan view laut... cek di sini](/id/blog/jimbaran-guide/)
 
 ## **Pesona Spektakuler Uluwatu**
 
@@ -59,7 +59,7 @@ Uluwatu terkenal banget sama tebing-tebing dramatis dan pemandangan sunset-nya y
 
 Bacaan lanjutan:
 
-[Panduan Uluwatu: tren kekinian, tempat wajib mampir, kuliner, akomodasi... cek di sini](/blog/uluwatu-guide/)
+[Panduan Uluwatu: tren kekinian, tempat wajib mampir, kuliner, akomodasi... cek di sini](/id/blog/uluwatu-guide/)
 
 ## Nusa Dua: Liburan Mewah yang Santai
 
@@ -71,7 +71,7 @@ Nusa Dua ada di tenggara Bali, kawasan yang memang didesain khusus buat liburan 
 
 Bacaan lanjutan:
 
-[Nusa Dua, Tanjung Benoa: Destinasi Liburan Mewah Terbaik di Bali — 40 Pilihan Akomodasi, Kuliner, & Aktivitas](/blog/nusa-dua-guide/)
+[Nusa Dua, Tanjung Benoa: Destinasi Liburan Mewah Terbaik di Bali — 40 Pilihan Akomodasi, Kuliner, & Aktivitas](/id/blog/nusa-dua-guide/)
 
 ## **Sanur: Pesona Santai yang Bikin Betah**
 
@@ -83,7 +83,7 @@ Sanur adalah destinasi liburan yang cocok banget buat keluarga atau kamu yang pe
 
 Baca Juga:
 
-[Panduan Peta Sanur｜45 Rekomendasi Makan, Main, SPA, & Penginapan!](/blog/sanur-guide/)
+[Panduan Peta Sanur｜45 Rekomendasi Makan, Main, SPA, & Penginapan!](/id/blog/sanur-guide/)
 
 ## **Dermaga Sanur & Trip ke Pulau Lain**
 
@@ -93,9 +93,9 @@ Sanur punya dermaga yang memudahkan akses ke pulau-pulau lain. Dari sini, kamu b
 
 Baca Juga:
 
-- [Panduan Island Hopping di Bali](/blog/bali-island-hopping-guide/): Cara ke pulau-pulau lain dari Bali
-- [Panduan Nusa Penida](/blog/nusa-penida-guide/): Info lengkap soal transportasi, spot wisata, diving, kuliner, & penginapan
-- [Jelajahi Nusa Lembongan & Nusa Ceningan — Wisata, Kuliner, Transportasi](/blog/nusa-lembongan-ceningan-guide/): Surga di Dekat Bali
+- [Panduan Island Hopping di Bali](/id/blog/bali-island-hopping-guide/): Cara ke pulau-pulau lain dari Bali
+- [Panduan Nusa Penida](/id/blog/nusa-penida-guide/): Info lengkap soal transportasi, spot wisata, diving, kuliner, & penginapan
+- [Jelajahi Nusa Lembongan & Nusa Ceningan — Wisata, Kuliner, Transportasi](/id/blog/nusa-lembongan-ceningan-guide/): Surga di Dekat Bali
 
 ## **Kesimpulan**
 
@@ -106,12 +106,12 @@ Intinya, kalau kamu pilih tempat liburan di selatan atau timur bandara — kayak
 1. **Gimana cara milih tempat nginep yang paling pas?**
 2. - Tergantung kebutuhanmu. Kalau mau hindari macet, mending pilih Jimbaran, Uluwatu, Nusa Dua, atau Sanur. Cek juga kolom rekomendasi akomodasi Bali kami.
 3. **Saran transportasi di Bali?**
-4. - Sewa motor online atau mobil sewaan aja, biar lebih fleksibel dan bisa hindari jalanan macet. Baca juga: [Kapan sewa mobil di Bali? Kapan panggil taksi? Sewa mobil vs. panggil taksi: gimana milih cara traveling yang paling cocok buat kamu?](/blog/bali-transportation-guide-car-rental/)
+4. - Sewa motor online atau mobil sewaan aja, biar lebih fleksibel dan bisa hindari jalanan macet. Baca juga: [Kapan sewa mobil di Bali? Kapan panggil taksi? Sewa mobil vs. panggil taksi: gimana milih cara traveling yang paling cocok buat kamu?](/id/blog/bali-transportation-guide-car-rental/)
 5. **Daerah mana aja di Bali yang paling sering macet?**
 6. - Kuta, Seminyak, Canggu, pusat Ubud, dan kota Denpasar — itu daerah yang paling sering macet, apalagi jam sibuk.
 7. **Ada rute rekomendasi ke Ubud?**
 8. - Saran sih, berangkat dari Sanur ke Ubud. Rute ini biasanya lebih lancar.
 9. **Apa aja spot wajib dikunjungi di daerah-daerah itu?**
-10. - Tebing dan sunset di Uluwatu, restoran seafood di Jimbaran, dan pantai santai di Sanur — semuanya wajib banget dicek. Bisa lihat juga panduan kami: [【Petualangan di Semenanjung Bukit】Surga Tersembunyi di Ujung Selatan Bali](/blog/bukit-peninsula-guide/) buat nemuin spot, restoran, dan aktivitas favoritmu.
+10. - Tebing dan sunset di Uluwatu, restoran seafood di Jimbaran, dan pantai santai di Sanur — semuanya wajib banget dicek. Bisa lihat juga panduan kami: [【Petualangan di Semenanjung Bukit】Surga Tersembunyi di Ujung Selatan Bali](/id/blog/bukit-peninsula-guide/) buat nemuin spot, restoran, dan aktivitas favoritmu.
 
 {{block:攻略}}

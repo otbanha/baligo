@@ -21,7 +21,7 @@ Update: 2026/07/03
 
 ![2026峇里島景點地圖推薦攻略 ｜500個最新峇里島人氣景點一次蒐全](https://images.gobaligo.id/vocus/vocus_5c80fca50d04d71c9afec378a7f72b96.jpg)
 
-**先讲结论**：这是一份500个巴厘岛景点的总索引地图，用途是**规划行程时查景点**而非逐一阅读——先看[第一次去巴厘岛必看的32项旅游攻略](/blog/bali-ultimate-guide-2026/)搞定签证/保险/换汇等行前准备，接着订好机场接送、上网SIM卡与包车，再从下方景点地图依区域挑选想去的地方，热门一日游也可直接通过Klook预订含导游行程。
+**先讲结论**：这是一份500个巴厘岛景点的总索引地图，用途是**规划行程时查景点**而非逐一阅读——先看[第一次去巴厘岛必看的32项旅游攻略](/zh-cn/blog/bali-ultimate-guide-2026/)搞定签证/保险/换汇等行前准备，接着订好机场接送、上网SIM卡与包车，再从下方景点地图依区域挑选想去的地方，热门一日游也可直接通过Klook预订含导游行程。
 
 ## 【行前准备】
 
@@ -29,13 +29,13 @@ Update: 2026/07/03
 
 包括护照签证、旅游保险、防蚊液、现金换汇、行李注意事项...等等，林林总总的准备事项，再也不用四处找片段的说明啦！我们都帮您准备在这里：
 
-> [第一次去巴厘岛必看的32项旅游攻略](/blog/bali-ultimate-guide-2026/)
+> [第一次去巴厘岛必看的32项旅游攻略](/zh-cn/blog/bali-ultimate-guide-2026/)
 
 ## 【搞定包车、上网】
 
 来到巴厘岛旅游，每位游客都必备的服务包括巴厘岛机场接送、上网SIM卡和包车服务！机场接送让您抵达目的地后无需担心交通问题；上网SIM卡让您随时保持网络连接，轻松寻找景点信息；而包车服务则让您自由安排行程，尽情探索巴厘岛的美景！无论您是第一次访问还是老手，这些服务都将为您的旅程增添便利与舒适。请参考底下我们提供的链接：
 
-[> 包车自由行全攻略 - 费用、预订方式、优势分析](/blog/bali-private-car-hire-guide/)
+[> 包车自由行全攻略 - 费用、预订方式、优势分析](/zh-cn/blog/bali-private-car-hire-guide/)
 
 [> 巴厘岛机场接送](https://affiliate.klook.com/redirect?aid=116349&aff_adid=821950&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Fairport-transfers%2Fservice%2Fdps-ngurah-rai-bali-international-airport%2F)
 
@@ -125,17 +125,17 @@ Update: 2026/07/03
 
 此外，在乌布及其周边还有许多其他景点值得参观，如瀑布、梯田、山林间的泳池俱乐部、火山日出、东部的古迹...等等。您可以看看我们准备在下面的清单：
 
-> [乌布完整攻略：100种深入认识乌布的方式｜探索乌布的魅力](/blog/ubud-guide/)
+> [乌布完整攻略：100种深入认识乌布的方式｜探索乌布的魅力](/zh-cn/blog/ubud-guide/)
 
-> [乌布54项亲子活动带小朋友最轻松！](/blog/ubud-with-kids-guide/)
+> [乌布54项亲子活动带小朋友最轻松！](/zh-cn/blog/ubud-with-kids-guide/)
 
 到巴厘岛不知道要住哪里？可以考虑一下乌布的中心位置，这个城镇是巴厘岛最佳住宿地之一，而且有着许多山林美景的住宿选项。请看我们的乌布住宿推荐：
 
-> [乌布28家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/blog/ubud-villas-pool-guide/)
+> [乌布28家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/zh-cn/blog/ubud-villas-pool-guide/)
 
-> [【乌布住宿推荐】乌布泳池别墅私密天堂: 22间令人惊艳的巴厘岛villa推荐](/blog/ubud-villa-pool-guide/)
+> [【乌布住宿推荐】乌布泳池别墅私密天堂: 22间令人惊艳的巴厘岛villa推荐](/zh-cn/blog/ubud-villa-pool-guide/)
 
-> [探索乌布10家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)
+> [探索乌布10家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/zh-cn/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ## Kuta 库塔：巴厘岛最受欢迎的冲浪胜地【50+个景点介绍】
 
@@ -143,7 +143,7 @@ Update: 2026/07/03
 
 库塔可以说是巴厘岛最热闹的地方，从库塔海滩欣赏日落是壮观的！然而近年来，它已成为巴厘岛的夜生活热点，因此有点龙蛇混杂的感觉。尽管如此，它仍然是巴厘岛最受游客欢迎的景点之一，可以参考我们的库塔攻略：
 
-> [库塔旅游攻略：50个必访景点、热闹夜生活、美食、推荐SPA全收集](/blog/2023-12-13-657598bdfd8978000120fe20/)
+> [库塔旅游攻略：50个必访景点、热闹夜生活、美食、推荐SPA全收集](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 ## Seminyak 水明漾：时尚与欢乐的聚集地【100个景点介绍】
 
@@ -157,17 +157,17 @@ Seminyak是在巴厘岛寻找沙滩和派对的最佳地点。这里拥有年轻
 
 小杰的 1 Minute Bali
 
-> [水明漾Seminyak地图：100个吃喝玩乐全面介绍](/blog/seminyak-guide/)
+> [水明漾Seminyak地图：100个吃喝玩乐全面介绍](/zh-cn/blog/seminyak-guide/)
 
 这里不只适合年轻人，也是家庭度假的好地方！请参考我们的住宿推荐：
 
-[水明漾的滨海精致主题住宿指南](/blog/seminyak-beach-resorts-guide/)
+[水明漾的滨海精致主题住宿指南](/zh-cn/blog/seminyak-beach-resorts-guide/)
 
-[10间水明漾精华区平价住宿好评推荐！](/blog/seminyak-budget-hotels-guide/)
+[10间水明漾精华区平价住宿好评推荐！](/zh-cn/blog/seminyak-budget-hotels-guide/)
 
-[水明漾21间令人惊艳的巴厘岛villa](/blog/2024-04-04-660e6e92fd89780001e6047e/)
+[水明漾21间令人惊艳的巴厘岛villa](/zh-cn/blog/2024-04-04-660e6e92fd89780001e6047e/)
 
-[【水明漾】不超过100美元的平价巴厘岛villa推荐](/blog/seminyak-budget-villas-guide/)
+[【水明漾】不超过100美元的平价巴厘岛villa推荐](/zh-cn/blog/seminyak-budget-villas-guide/)
 
 ## 坎古：波西米亚风的滨海小镇 【100个景点介绍】
 
@@ -181,13 +181,13 @@ Seminyak是在巴厘岛寻找沙滩和派对的最佳地点。这里拥有年轻
 
 这里是已有基础冲浪者的天堂，拥有着风浪不断的海滩，吸引着许多冲浪爱好者。此外，坎古还有许多时尚的咖啡厅、健康食品餐厅和潮流的海滩俱乐部，为游客提供了丰富的餐饮和休闲娱乐选择。请看我们坎古吃喝玩乐的攻略：
 
-[巴厘岛坎古完美探险地图：100个坎古必游景点](/blog/canggu-guide/)
+[巴厘岛坎古完美探险地图：100个坎古必游景点](/zh-cn/blog/canggu-guide/)
 
 坎古提供各式各样的住宿选择。您可以选择海滨别墅，或是享有美丽景观的度假饭店。请参考我们的住宿推荐：
 
-> [Canggu Top 16 你不能错过的住宿推荐](/blog/canggu-top-hotels-guide/)
+> [Canggu Top 16 你不能错过的住宿推荐](/zh-cn/blog/canggu-top-hotels-guide/)
 
-> [坎古区16间私人泳池别墅推荐 Canggu Villa 你不能错过的巴厘岛别墅](/blog/canggu-villas-guide/)
+> [坎古区16间私人泳池别墅推荐 Canggu Villa 你不能错过的巴厘岛别墅](/zh-cn/blog/canggu-villas-guide/)
 
 ## Jimbaran 金巴兰：沙滩夕阳、海鲜晚餐 【30+个景点介绍】
 
@@ -199,11 +199,11 @@ Seminyak是在巴厘岛寻找沙滩和派对的最佳地点。这里拥有年轻
 
 除此之外，金巴兰还有很多有趣的景点喔！请看我们的「金巴兰攻略」：
 
-> [金巴兰推荐30个玩乐景点全攻略](/blog/jimbaran-guide/)
+> [金巴兰推荐30个玩乐景点全攻略](/zh-cn/blog/jimbaran-guide/)
 
 若您想在金巴兰沉浸在无敌的海景之中、或是跳进有14个游泳池的Ayana度假村，请看：
 
-[> [无敌海景金巴兰住宿篇](/blog/2023-11-09-654c6271fd8978000174ff5e/)
+[> [无敌海景金巴兰住宿篇](/zh-cn/blog/2023-11-09-654c6271fd8978000174ff5e/)
 
 ## Uluwatu 乌鲁瓦图：巴厘岛的海角乐园 【45+个景点介绍】
 
@@ -217,11 +217,11 @@ Seminyak是在巴厘岛寻找沙滩和派对的最佳地点。这里拥有年轻
 
 请看我们的「乌鲁瓦图攻略」：
 
-> [【乌鲁瓦图攻略】乌鲁瓦图景点 50个吃喝玩乐推荐](/blog/uluwatu-guide/)
+> [【乌鲁瓦图攻略】乌鲁瓦图景点 50个吃喝玩乐推荐](/zh-cn/blog/uluwatu-guide/)
 
 乌鲁瓦图在住宿方面最具特色的就是悬崖边上的无敌海景别墅/度假村，请看我们的推荐：
 
-> [乌鲁瓦图 Uluwatu住宿推荐：13间无敌海景的私密别墅度假村](/blog/uluwatu-bali-villas-resorts-guide/)
+> [乌鲁瓦图 Uluwatu住宿推荐：13间无敌海景的私密别墅度假村](/zh-cn/blog/uluwatu-bali-villas-resorts-guide/)
 
 ## **Nusa Dua 努沙杜瓦：巴厘岛的五星奢华体验** 【40+个景点介绍】
 
@@ -229,9 +229,9 @@ Seminyak是在巴厘岛寻找沙滩和派对的最佳地点。这里拥有年轻
 
 Nusa Dua（努沙杜瓦）是巴厘岛的豪华度假区，位于岛屿的南部。这个区域以其豪华的海滩度假村和高级酒店而闻名，是寻找奢华体验的游客的理想之地。努沙杜瓦的海滩洁净美丽，水质清澈，是放松休闲的绝佳选择。此外，努沙杜瓦还拥有许多高级的SPA中心、高尔夫球场和豪华的购物中心，为游客提供了丰富多彩的休闲娱乐活动。请看我们的「努沙杜瓦攻略」：
 
-> [努沙杜瓦：巴厘岛豪华度假的首选之地40个住宿、美食、活动攻略地图](/blog/nusa-dua-guide/)
+> [努沙杜瓦：巴厘岛豪华度假的首选之地40个住宿、美食、活动攻略地图](/zh-cn/blog/nusa-dua-guide/)
 
-> [巴厘岛 Nusa Dua 努沙杜瓦16家公认最棒的五星度假村住宿推荐](/blog/nusa-dua-resorts-guide/)
+> [巴厘岛 Nusa Dua 努沙杜瓦16家公认最棒的五星度假村住宿推荐](/zh-cn/blog/nusa-dua-resorts-guide/)
 
 ## Sanur 沙努尔：亲子度假天堂 【45+个景点介绍】
 
@@ -241,9 +241,9 @@ Sanur（沙努尔）是巴厘岛上的一个理想之地，特别适合亲子度
 
 沙努尔还拥有许多适合亲子活动的设施，包括游乐场和儿童俱乐部。此外，这里还有许多适合家庭的餐厅和住宿选择，确保您的家庭度假在沙努尔是一个愉快难忘的体验。请看我们的「沙努尔亲子攻略」：
 
-> [沙努尔亲子攻略地图｜45项吃喝玩乐，还有SPA和住宿推荐喔！](/blog/sanur-guide/)
+> [沙努尔亲子攻略地图｜45项吃喝玩乐，还有SPA和住宿推荐喔！](/zh-cn/blog/sanur-guide/)
 
-> [巴厘岛住宿推荐：Sanur沙努尔21家从奢华到平价的度假村/villa收集](/blog/sanur-luxury-budget-resorts/)
+> [巴厘岛住宿推荐：Sanur沙努尔21家从奢华到平价的度假村/villa收集](/zh-cn/blog/sanur-luxury-budget-resorts/)
 
 ## Nusa Penida 佩尼达岛：天然奇迹美景 【18+个景点介绍】
 
@@ -253,15 +253,15 @@ Sanur（沙努尔）是巴厘岛上的一个理想之地，特别适合亲子度
 
 此外，佩尼达岛还是一个绝佳的浮潜/潜水地点，您可以在这里探索丰富多彩的海底生态。无论您是在陆地上还是水下，佩尼达岛都将为您带来一场难忘的自然探险之旅。请看我们的五集攻略：
 
-> [Nusa Penida 佩尼达岛全攻略：地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)
+> [Nusa Penida 佩尼达岛全攻略：地图、搭船、住宿、交通、包车、活动、摄影、景点](/zh-cn/blog/nusa-penida-guide/)
 
-> [佩尼达岛美食和碧海蓝天：Nusa Penida的Top 9绝佳选择](/blog/nusa-penida-best-restaurants/)
+> [佩尼达岛美食和碧海蓝天：Nusa Penida的Top 9绝佳选择](/zh-cn/blog/nusa-penida-best-restaurants/)
 
-> [Nusa Penida 努沙佩尼达岛的浮潜点介绍，如何参加浮潜？](/blog/nusa-penida-snorkeling-guide/)
+> [Nusa Penida 努沙佩尼达岛的浮潜点介绍，如何参加浮潜？](/zh-cn/blog/nusa-penida-snorkeling-guide/)
 
-> [Nusa Penida佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/blog/nusa-penida-transport-guide/)
+> [Nusa Penida佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/zh-cn/blog/nusa-penida-transport-guide/)
 
-> [佩尼达岛的住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/blog/nusa-penida-hotels-guide/)
+> [佩尼达岛的住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/zh-cn/blog/nusa-penida-hotels-guide/)
 
 ## Nusa Lembongan 蓝梦岛：巴厘岛的天堂离岛
 
@@ -269,9 +269,9 @@ Sanur（沙努尔）是巴厘岛上的一个理想之地，特别适合亲子度
 
 离巴厘岛30分钟居然就有一个人烟罕至、不堵车的天堂离岛！想知道蓝梦岛有哪些景点、推荐美食餐厅、推荐住宿？请看我们的攻略指南：
 
-- [【蓝梦岛攻略一】景点攻略篇](/blog/nusa-lembongan-ceningan-guide/)
-- [【蓝梦岛攻略二】美食推荐篇](/blog/nusa-lembongan-restaurants/)
-- [【蓝梦岛攻略三】最佳住宿篇](/blog/nusa-lembongan-ceningan-accommodation-guide/)
+- [【蓝梦岛攻略一】景点攻略篇](/zh-cn/blog/nusa-lembongan-ceningan-guide/)
+- [【蓝梦岛攻略二】美食推荐篇](/zh-cn/blog/nusa-lembongan-restaurants/)
+- [【蓝梦岛攻略三】最佳住宿篇](/zh-cn/blog/nusa-lembongan-ceningan-accommodation-guide/)
 
 ***
 
@@ -307,6 +307,6 @@ Sanur（沙努尔）是巴厘岛上的一个理想之地，特别适合亲子度
 
 让专业的旅行规划师帮助您，让您的巴厘岛之旅更加轻松愉快！
 
- 想看本社团优惠详情？立即[点击这里查看](/blog/isbali-tour-agency-review/)！
+ 想看本社团优惠详情？立即[点击这里查看](/zh-cn/blog/isbali-tour-agency-review/)！
 
 {{block:isbali2}}

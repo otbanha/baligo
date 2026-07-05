@@ -30,11 +30,11 @@ _srcHash: 4d80342d855d2744532d27f3b3cdd29c
 
 ✔️ **電子簽證：** 當日抵達時，我哋觀察到落地簽嘅排隊時間大約需要20分鐘，好彩有社團提供嘅電子簽新版網站，令我哋順利慳咗唔少時間！使用電子簽證真係方便好多，令我哋可以更快開始我哋嘅旅程。
 
-延伸閱讀：[你最想知道嘅落機、過海關、出機場流程](/blog/bali-all-indonesia-arrival-guide/)（2025最新版）
+延伸閱讀：[你最想知道嘅落機、過海關、出機場流程](/zh-hk/blog/bali-all-indonesia-arrival-guide/)（2025最新版）
 
 ✔️ **美金換匯：** 一開始我哋先換咗200美金，因為可以刷卡嘅地方幾乎都用刷卡，結果到咗最後先發現現金唔夠支付司機嘅包車費用，所以又喺酒店換咗150美金。今次嘅經驗令我哋體會到，雖然刷卡方便，但係都要留意現金嘅需求，特別係使用包車服務時，確保唔會因為現金唔夠而影響行程！
 
-> 延伸閱讀：[峇里島旅遊要準備幾多現金？](/blog/bali-travel-cash-budget-guide/)
+> 延伸閱讀：[峇里島旅遊要準備幾多現金？](/zh-hk/blog/bali-travel-cash-budget-guide/)
 
 跟住係我哋嘅詳細行程，我哋嘅行程安排如下：
 
@@ -42,7 +42,7 @@ _srcHash: 4d80342d855d2744532d27f3b3cdd29c
 
 抵達峇里島之後，我哋直接去咗入住嘅 **Bidadari Villa**。途中，司機 Agus 好貼心咁帶我哋去買咗張網絡卡同埋換咗啲錢。我哋揀咗最平嘅12GB網絡卡，大約用咗USD$16。峇里島嘅網絡速度都幾穩定，流量都夠我哋成個行程用，無論係導航定係上網分享旅遊點滴都好順暢。
 
-> [【峇里島旅遊必備】如何辦理峇里島網絡/SIM卡/eSIM?](/blog/bali-sim-card-esim-roaming-guide/)
+> [【峇里島旅遊必備】如何辦理峇里島網絡/SIM卡/eSIM?](/zh-hk/blog/bali-sim-card-esim-roaming-guide/)
 
 ![第一日](https://images.gobaligo.id/images/2026-06/1780408021527-130243921.jpg)
 
@@ -66,7 +66,7 @@ _srcHash: 4d80342d855d2744532d27f3b3cdd29c
 
 > [Bidadari Private Villas & Retreatfangjia&空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=237890) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=981731&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawcLFJMEkNZGFY9cDASFGA4vfgo7yra8Dd3yf5eC5pMCWK3zyAocAnogpB55PY0-0dHUv-nkw0KGQAQQeTHNoZDx7Bgg8Jzl0MbKC1cxgfPzVegUj40ZGkO7ruyscdjCyHGBkOcHY5buA6dVm1lMszBzr-C6xfGWKrlbKTq1UsjLRUSrJLMlJVbJSerpo3tOGPc9XtCrpKKWkFicDhYCsxNz80rwSINvS0FLPwAAoUpJY4ZkC1pmcmJNcmpNYkhpSWQA0wUxHKbPYuaQosyAoNTezpCQVqCotMac4FSQelFoMlEmGCyr5AY0pggpk5udBtBuiiIUl5pSmQpwAtNAtFWqHYa0Opsufzel92j3zxabdxLncnNouNyDG5ca1sY9YmKJjP7Ew_AJGQ79pEytDFyszxymmSUCyy3cXK4tpaGTgBdbHLYxS8oYGBgamhsamproGiZaJxkZpybomliZGZua6xkaWFhYaU7ZNvfTE2MhaChLzCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9gsXE0MHC2ibLiYPV2CBD_oPd_ebm1pL8UcEu6iODnowlvV3tP2WsyhwS6Gev8V_34zlXYI3PM654S98QL7SHvZfskVPaftk1irMnRDwjOOixUwNjAydTFyCzB6MEYwVgB5jKsYGTYwMu5g_A8DjK8YQaYDAOoJq3n9AgAA&masterhotelid_tracelogid=100051355-0a9a32fc-494267-32988&detailFilters=17|1~17~1*31|981731~31~981731*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=846&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/8cgKqDaH)
 
-收錄喺「[烏布20間令人驚艷嘅峇里島villa推薦](/blog/ubud-villa-pool-guide/)」
+收錄喺「[烏布20間令人驚艷嘅峇里島villa推薦](/zh-hk/blog/ubud-villa-pool-guide/)」
 
 夜晚，我哋行咗大約8分鐘去到 **Natys Restaurant Ubud** 食飯。呢間餐廳嘅價錢雖然唔算平，但食物嘅質素都幾好，味道同擺盤都有水準。服務亦都好周到，餐廳嘅氣氛好適合一家人放鬆享受一餐愉快嘅晚餐。
 
@@ -86,7 +86,7 @@ Natys Restaurant Ubud 食飯
 
 https://youtube.com/shorts/Z_vDb7AbMKg
 
-Nukuwera漂漂河嘅介紹：[峇里島洞穴漂流河探險記：Nukuwera River Tubing嘅親子冒險之旅](/blog/nukuwera-river-tubing-adventure/)
+Nukuwera漂漂河嘅介紹：[峇里島洞穴漂流河探險記：Nukuwera River Tubing嘅親子冒險之旅](/zh-hk/blog/nukuwera-river-tubing-adventure/)
 
 之後，我哋去咗著名嘅 **聖猴森林**
 
@@ -128,9 +128,9 @@ Ayoo Ayoo
 
 Bali Safari Zoo
 
-> 延伸閱讀：[【2026 峇里島野生動物園】Bali Safari 全攻略：夜宿獅子飯店、鐵籠餵老虎、門票套票比較與親子避雷行程規劃](/blog/bali-safari-night-experience/)
+> 延伸閱讀：[【2026 峇里島野生動物園】Bali Safari 全攻略：夜宿獅子飯店、鐵籠餵老虎、門票套票比較與親子避雷行程規劃](/zh-hk/blog/bali-safari-night-experience/)
 
-> 延伸閱讀：[峇里島親子一日遊攻略：探索野生動物園與紅鶴海灘俱樂部](/blog/bali-family-day-safari-flamingo/)
+> 延伸閱讀：[峇里島親子一日遊攻略：探索野生動物園與紅鶴海灘俱樂部](/zh-hk/blog/bali-family-day-safari-flamingo/)
 
 食完飯之後，餐廳外面仲提供咗同動物影相嘅服務。我哋揀咗呢項服務，攝影師幫我哋影咗好多相，有媽媽同哥哥嘅合照，爸爸同妹妹嘅，仲有全家四口嘅大合照。最正嘅係，呢組相包括晒所有數碼檔案，仲有一張沖印成 A4 大細嘅相配上精美相冊，價錢只係 USD$23 左右。相片質素好好，全家人都影得好靚，我哋覺得呢個真係超值嘅回憶紀錄！
 
@@ -144,15 +144,15 @@ Bali Safari Zoo
 
 今日我哋由 **Bali Safari** 搬去 **Westin Nusa Dua**，途中我哋請司機 Agus 幫手搵當地小食，包括 **Siobak 燒豬** 同 **Martabak 蛋餅**。Agus 唔單止幫我哋搵到合適嘅小店，仲好細心咁同店老闆溝通，避免我哋因為係遊客而被劏價。呢種細心嘅服務令我哋覺得好窩心。
 
-> 延伸閱讀：[峇里島十大美食推薦](/blog/bali-top-10-foods/)
+> 延伸閱讀：[峇里島十大美食推薦](/zh-hk/blog/bali-top-10-foods/)
 
 跟住，我哋問司機想買手信，我哋去咗 **Krisna** 同 **The Balinese** 買手信。Agus 介紹我哋去 Krisna 時，仲特別提醒我哋如果需要去其他地方，可以隨時話俾佢知，等我哋可以自主決定行程。呢個令我想起十幾年前嘅旅行經驗，嗰陣我明明話唔需要購物，但係俾包車司機強行帶去幾個購物工廠，當時嘅心情真係好嬲。今次嘅體驗令我覺得好滿意同放鬆，因為 Agus 完全尊重我哋嘅意願。
 
 ![特別推薦這家峇里島鳳梨酥, 買回去大家都說讚! 詳細介紹請點我](https://images.gobaligo.id/vocus/vocus_a262dcfae127272b45f387f27aa1463b.jpg)
 
-[特別推薦呢間峇里島鳳梨酥，買返去大家都話正！詳細介紹請撳我](/blog/bali-souvenirs-gift-guide/)
+[特別推薦呢間峇里島鳳梨酥，買返去大家都話正！詳細介紹請撳我](/zh-hk/blog/bali-souvenirs-gift-guide/)
 
-> [延伸閱讀：【網友推薦】超過20項峇里島手信推薦指南](/blog/bali-souvenirs-gift-guide/)
+> [延伸閱讀：【網友推薦】超過20項峇里島手信推薦指南](/zh-hk/blog/bali-souvenirs-gift-guide/)
 
 晚餐就喺度假村入面嘅 **Velada 餐廳**，我哋食咗漢堡同印度菜。呢度嘅餐廳環境好舒服，食物都好好味，漢堡嘅味道鮮美，印度菜更加令人驚喜，香料嘅運用恰到好處，令我哋喺呢個旅程嘅第四日完美收官。
 
@@ -190,11 +190,11 @@ Bali Safari Zoo
 
 晚餐我哋揀咗度假村入面嘅 **渡邊日本料理**，呢間餐廳嘅料理質素相當唔錯，味道鮮美，令我哋胃口大開，為我哋嘅放鬆日畫下完美嘅句點。
 
-> [峇里島18家 kids club 親子度假村｜庫塔、水明漾、坎古、金巴蘭、烏魯瓦圖、烏布適合家庭度假嘅最佳選擇](/blog/bali-family-resorts-kids-club/)
+> [峇里島18家 kids club 親子度假村｜庫塔、水明漾、坎古、金巴蘭、烏魯瓦圖、烏布適合家庭度假嘅最佳選擇](/zh-hk/blog/bali-family-resorts-kids-club/)
 
 {{block:dua}}
 
-努沙杜瓦（Nusa Dua）係峇里島以豪華度假村聞名嘅地區，擁有潔白嘅沙灘、碧藍嘅海水同完善嘅旅遊設施，係追求高端享受同寧靜假期嘅首選。呢度仲提供頂級水療、水上活動、同埋適合全家大小嘅休閒活動，係各類旅客嘅天堂。想了解更多努沙杜瓦攻略？[請點擊呢度](/blog/nusa-dua-guide/)
+努沙杜瓦（Nusa Dua）係峇里島以豪華度假村聞名嘅地區，擁有潔白嘅沙灘、碧藍嘅海水同完善嘅旅遊設施，係追求高端享受同寧靜假期嘅首選。呢度仲提供頂級水療、水上活動、同埋適合全家大小嘅休閒活動，係各類旅客嘅天堂。想了解更多努沙杜瓦攻略？[請點擊呢度](/zh-hk/blog/nusa-dua-guide/)
 
 ## **第六日**
 
@@ -234,6 +234,6 @@ LINE: gosaray 1105
 
 撳呢度睇更多峇里島精彩遊記
 
-你都想寫遊記但係唔知點落手？可以參考下「[點樣寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！
+你都想寫遊記但係唔知點落手？可以參考下「[點樣寫一篇精彩嘅峇里島遊記](/zh-hk/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！
 
 {{block:攻略}}

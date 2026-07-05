@@ -36,11 +36,11 @@ Pertama, cerita dulu persiapan kami / proses imigrasi:
 
 ✔️ **Visa Elektronik:** Pas tiba di hari itu, kami lihat antrean visa on arrival sekitar 20 menit. Untung ada website baru visa elektronik dari grup, jadi kami bisa hemat waktu! Pakai visa elektronik emang jauh lebih praktis, bikin kami bisa mulai liburan lebih cepat.
 
-Baca juga: [Yang Paling Kamu Butuhkan: Proses Turun Pesawat, Imigrasi, & Keluar Bandara](/blog/bali-all-indonesia-arrival-guide/) (Versi Terbaru 2025)
+Baca juga: [Yang Paling Kamu Butuhkan: Proses Turun Pesawat, Imigrasi, & Keluar Bandara](/id/blog/bali-all-indonesia-arrival-guide/) (Versi Terbaru 2025)
 
 ✔️ **Tukar Uang Dolar:** Awalnya kami cuma tukar USD$200, karena hampir semua tempat bisa pakai kartu. Eh, pas akhirnya sadar uang tunai nggak cukup buat bayar sopir sewa mobil, jadinya kami tukar lagi USD$150 di hotel. Dari pengalaman ini, kami sadar meskipun kartu itu praktis, tetap harus perhatiin kebutuhan uang tunai, apalagi pas pakai jasa sewa mobil, biar nggak keteteran gara-gara uang kurang!
 
-> Baca Juga: [Berapa Banyak Uang Tunai yang Harus Disiapkan untuk Liburan ke Bali?](/blog/bali-travel-cash-budget-guide/)
+> Baca Juga: [Berapa Banyak Uang Tunai yang Harus Disiapkan untuk Liburan ke Bali?](/id/blog/bali-travel-cash-budget-guide/)
 
 Nah, ini dia itinerary detail kami, begini susunannya:
 
@@ -48,7 +48,7 @@ Nah, ini dia itinerary detail kami, begini susunannya:
 
 Setelah tiba di Bali, kami langsung menuju **Bidadari Villa** tempat kami menginap. Di perjalanan, sopir Agus dengan baik hati mampir dulu ke tempat beli kartu internet dan penukaran uang. Kami pilih kartu internet 12GB yang paling murah, habis sekitar USD$16. Kecepatan internet di Bali lumayan stabil, kuotanya juga cukup buat seluruh perjalanan — baik buat navigasi maupun upload cerita liburan lancar banget.
 
-> [【Wajib Baca Sebelum Liburan ke Bali】Cara Urus Internet/SIM Card/eSIM di Bali](/blog/bali-sim-card-esim-roaming-guide/)
+> [【Wajib Baca Sebelum Liburan ke Bali】Cara Urus Internet/SIM Card/eSIM di Bali](/id/blog/bali-sim-card-esim-roaming-guide/)
 
 ![Hari Pertama](https://images.gobaligo.id/images/2026-06/1780408021527-130243921.jpg)
 
@@ -72,7 +72,7 @@ Setelah tiba di Bali, kami langsung menuju **Bidadari Villa** tempat kami mengin
 
 > [Bidadari Private Villas & Retreat Cek Harga & Ketersediaan](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=237890) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=981731&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawcLFJMEkNZGFY9cDASFGA4vfgo7yra8Dd3yf5eC5pMCWK3zyAocAnogpB55PY0-0dHUv-nkw0KGQAQQeTHNoZDx7Bgg8Jzl0MbKC1cxgfPzVegUj40ZGkO7ruyscdjCyHGBkOcHY5buA6dVm1lMszBzr-C6xfGWKrlbKTq1UsjLRUSrJLMlJVbJSerpo3tOGPc9XtCrpKKWkFicDhYCsxNz80rwSINvS0FLPwAAoUpJY4ZkC1pmcmJNcmpNYkhpSWQA0wUxHKbPYuaQosyAoNTezpCQVqCotMac4FSQelFoMlEkGCyr5AY0pggpk5udBtBuiiIUl5pSmQpwAtNAtFWqHYa0Opsufzel92j3zxabdxLncnNouNyDG5ca1sY9YmKJjP7Ew_AJGQ79pEytDFyszxymmSUCyy3cXK4tpaGTgBdbHLYxS8oYGBgamhsamproGiZaJxkZpybomliZGZua6xkaWFhYaU7ZNvfTE2MhaChLzCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9gsXE0MHC2ibLiYPV2CBD_oPd_ebm1pL8UcEu6iODnowlvV3tP2WsyhwS6Gev8V_34zlXYI3PM654S98QL7SHvZfskVPaftk1irMnRDwjOOixUwNjAydTFyCzB6MEYwVgB5jKsYGTYwMu5g_A8DjK8YQaYDAOoJq3n9AgAA&masterhotelid_tracelogid=100051355-0a9a32fc-494267-32988&detailFilters=17|1~17~1*31|981731~31~981731*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=846&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/8cgKqDaH)
 
-Termasuk dalam 「[20 Rekomendasi Villa Bali di Ubud yang Bikin Tercengang](/blog/ubud-villa-pool-guide/)」
+Termasuk dalam 「[20 Rekomendasi Villa Bali di Ubud yang Bikin Tercengang](/id/blog/ubud-villa-pool-guide/)」
 
 Malam harinya, kami jalan kaki sekitar 8 menit ke **Natys Restaurant Ubud** buat makan malam. Harga di restoran ini emang lumayan, tapi kualitas makanannya oke banget — rasa dan plating-nya standar. Pelayanannya juga ramah, suasananya pas buat keluarga santai menikmati makan malam yang menyenangkan.
 
@@ -92,7 +92,7 @@ Hari ini kami sewa mobil sehari penuh di Ubud. Perhentian pertama adalah **Nukuw
 
 https://youtube.com/shorts/Z_vDb7AbMKg
 
-Nukuwera漂漂河的介紹：[Bali洞穴漂流河探險記：Nukuwera River Tubing的親子冒險之旅](/blog/nukuwera-river-tubing-adventure/)
+Nukuwera漂漂河的介紹：[Bali洞穴漂流河探險記：Nukuwera River Tubing的親子冒險之旅](/id/blog/nukuwera-river-tubing-adventure/)
 
 Setelah itu, kami menuju ke **Hutan Monyet Suci** yang terkenal banget.
 
@@ -134,9 +134,9 @@ Lanjut, kita mampir ke supermarket dekat situ buat beli beberapa kebutuhan, lalu
 
 Bali Safari Zoo
 
-> Baca juga: [【2026 Bali Safari Park】Panduan Lengkap Bali Safari: Nginep di Lion Hotel, Kasih Makan Harimau dari Kandang Besi, Perbandingan Tiket & Tips Hindari Jebakan Liburan Keluarga](/blog/bali-safari-night-experience/)
+> Baca juga: [【2026 Bali Safari Park】Panduan Lengkap Bali Safari: Nginep di Lion Hotel, Kasih Makan Harimau dari Kandang Besi, Perbandingan Tiket & Tips Hindari Jebakan Liburan Keluarga](/id/blog/bali-safari-night-experience/)
 
-> Baca juga: [Panduan Liburan Keluarga Sehari di Bali: Eksplor Safari Park & Flamingo Beach Club](/blog/bali-family-day-safari-flamingo/)
+> Baca juga: [Panduan Liburan Keluarga Sehari di Bali: Eksplor Safari Park & Flamingo Beach Club](/id/blog/bali-family-day-safari-flamingo/)
 
 Setelah makan, di luar restoran ada layanan foto bareng hewan. Kita ambil paket itu, fotografernya ambil banyak foto — ada foto Mama dan Kakak, Papa dan Adik, juga foto keluarga berempat. Yang paling keren, satu set ini udah termasuk semua file digital, plus satu cetakan ukuran A4 dengan album cantik, harganya cuma sekitar USD$23. Kualitas fotonya bagus, semua anggota keluarga difoto dengan cantik, menurut kita ini benar-benar kenangan yang worth it!
 
@@ -150,15 +150,15 @@ Meskipun hari ini isinya lebih banyak perpindahan tempat, tapi penuh kejutan dan
 
 Hari ini kita pindah dari **Bali Safari** ke **Westin Nusa Dua**. Di perjalanan, kami minta sopir Agus bantu cari jajanan lokal, termasuk **Siobak Babi Panggang** dan **Martabak Telur**. Agus nggak cuma nemuin tempat yang pas, tapi juga ngobrol baik-baik sama pemilik warung biar kami nggak kena harga turis. Pelayanan yang perhatian banget bikin kami merasa dihargai.
 
-> Baca juga: [10 Makanan Wajib Coba di Bali](/blog/bali-top-10-foods/)
+> Baca juga: [10 Makanan Wajib Coba di Bali](/id/blog/bali-top-10-foods/)
 
 Terus, kami tanya sopir soal oleh-oleh, lalu mampir ke **Krisna** dan **The Balinese**. Waktu nawarin Krisna, Agus bilang kalau butuh tempat lain, bilang aja — jadi kami bebas atur rencana sendiri. Ini bikin saya inget pengalaman jalan-jalan belasan tahun lalu, waktu saya bilang nggak mau belanja, tapi sopir paksa bawa ke pabrik-pabrik. Dulu kesel banget. Sekarang puas dan santai banget karena Agus hormati keinginan kami.
 
 ![特別推薦這家峇里島鳳梨酥, 買回去大家都說讚! 詳細介紹請點我](https://images.gobaligo.id/vocus/vocus_a262dcfae127272b45f387f27aa1463b.jpg)
 
-[Rekomendasi banget nih bakpia khas Bali, semua suka! Klik buat detailnya](/blog/bali-souvenirs-gift-guide/)
+[Rekomendasi banget nih bakpia khas Bali, semua suka! Klik buat detailnya](/id/blog/bali-souvenirs-gift-guide/)
 
-> [Baca juga: Rekomendasi 20+ Oleh-Oleh Khas Bali dari Netizen](/blog/bali-souvenirs-gift-guide/)
+> [Baca juga: Rekomendasi 20+ Oleh-Oleh Khas Bali dari Netizen](/id/blog/bali-souvenirs-gift-guide/)
 
 Makan malam di restoran **Velada** dalam resort, kami pesan burger dan masakan India. Suasana restonya nyaman banget, makanannya enak — burger gurih, masakan Indianya bikin kaget enaknya, bumbu pas banget. Hari keempat trip ini ditutup sempurna.
 
@@ -196,11 +196,11 @@ Catatan redaksi: Heavenly Spa di Westin Resort Nusa Dua menawarkan beberapa pera
 
 Makan malam kami pilih **Watanabe Japanese Restaurant** di dalam resort. Kualitas masakannya oke banget, rasanya segar dan bikin selera makan kita naik — jadi penutup sempurna buat hari relaksasi kami.
 
-> [18 Resor Keluarga dengan Kids Club di Bali | Pilihan Terbaik untuk Liburan Keluarga di Kuta, Seminyak, Canggu, Jimbaran, Uluwatu, dan Ubud](/blog/bali-family-resorts-kids-club/)
+> [18 Resor Keluarga dengan Kids Club di Bali | Pilihan Terbaik untuk Liburan Keluarga di Kuta, Seminyak, Canggu, Jimbaran, Uluwatu, dan Ubud](/id/blog/bali-family-resorts-kids-club/)
 
 {{block:dua}}
 
-Nusa Dua adalah kawasan di Bali yang terkenal dengan resor mewahnya, punya pantai pasir putih, air laut biru jernih, dan fasilitas wisata yang lengkap. Ini pilihan utama buat kamu yang cari pengalaman kelas atas dan liburan tenang. Di sini juga ada spa top, olahraga air, dan aktivitas santai yang cocok buat seluruh keluarga — surga banget buat semua tipe traveler. Mau tahu lebih banyak tips Nusa Dua? [Klik di sini](/blog/nusa-dua-guide/)
+Nusa Dua adalah kawasan di Bali yang terkenal dengan resor mewahnya, punya pantai pasir putih, air laut biru jernih, dan fasilitas wisata yang lengkap. Ini pilihan utama buat kamu yang cari pengalaman kelas atas dan liburan tenang. Di sini juga ada spa top, olahraga air, dan aktivitas santai yang cocok buat seluruh keluarga — surga banget buat semua tipe traveler. Mau tahu lebih banyak tips Nusa Dua? [Klik di sini](/id/blog/nusa-dua-guide/)
 
 ## **Hari Keenam**
 
@@ -240,6 +240,6 @@ Kamu pikir perjalanan Sannie Lin seru? Yuk, rencanakan liburan bebasmu ke Bali s
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 
-Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
+Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
 
 {{block:攻略}}

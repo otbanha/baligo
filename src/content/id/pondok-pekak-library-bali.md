@@ -30,7 +30,7 @@ Katanya sih, traveling sama anak kecil itu salah satu momen paling seru buat kel
 
 Bali punya banyak aktivitas edukatif yang ramah keluarga buat balita. Salah satunya, Pondok Pekak Cultural Library di pusat Ubud — ini hidden gem banget yang wajib kamu mampirin pas liburan keluarga.
 
-(Termasuk dalam: [Panduan Lengkap Aktivitas Keluarga di Bali: 55 Kegiatan Seru di Ubud Biar Liburan Bareng Anak Makin Santai!](/blog/ubud-with-kids-guide/))
+(Termasuk dalam: [Panduan Lengkap Aktivitas Keluarga di Bali: 55 Kegiatan Seru di Ubud Biar Liburan Bareng Anak Makin Santai!](/id/blog/ubud-with-kids-guide/))
 
 ## Berdirinya Pondok Pekak dan Misinya
 

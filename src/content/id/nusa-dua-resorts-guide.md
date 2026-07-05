@@ -54,9 +54,9 @@ Mau tahu cara main di Nusa Dua? Cek panduan kami:
 
 ![努沙杜瓦攻略](https://images.gobaligo.id/vocus/vocus_8eb766b4f7c36e1bd9bb27687762de0f.png)
 
-[Panduan Nusa Dua](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+[Panduan Nusa Dua](/id/blog/2024-01-25-65afb7bbfd897800017023b4/)
 
-[Nusa Dua, Tanjung Benoa: Destinasi Liburan Mewah Nomor Satu di Bali 40 Peta Kuliner & Aktivitas Nusa Dua/Tanjung Benoa](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+[Nusa Dua, Tanjung Benoa: Destinasi Liburan Mewah Nomor Satu di Bali 40 Peta Kuliner & Aktivitas Nusa Dua/Tanjung Benoa](/id/blog/2024-01-25-65afb7bbfd897800017023b4/)
 
 Dari sekian banyak resor di Nusa Dua, ada 16 yang diakui sebagai yang terbaik. Yuk, lihat ulasan kami di bawah:
 
@@ -351,7 +351,7 @@ Transformasi ini bukan cuma ganti nama, positioning hotel langsung naik ke **res
 
 Singkatnya, hotel ini tetap jadi hotel baris depan pemandangan laut Nusa Dua yang udah dikenal lama, tapi hardware dan standar layanannya udah berubah total jadi resort mewah yang lebih elegan dan eksklusif.
 
-Baca ulasan lengkapnya di: [【2026 Hotel Baru Nusa Dua】Paradisus by Meliá Bali Unboxing: Resort All-Inclusive Mewah Pertama di Asia, Water Park Eksklusif & Pengalaman Mewah Khusus Dewasa](/blog/Paradisus-by-Melia-Bali/)
+Baca ulasan lengkapnya di: [【2026 Hotel Baru Nusa Dua】Paradisus by Meliá Bali Unboxing: Resort All-Inclusive Mewah Pertama di Asia, Water Park Eksklusif & Pengalaman Mewah Khusus Dewasa](/id/blog/Paradisus-by-Melia-Bali/)
 
 > ▶Paradisus by Meliá Bali 訂房連結：[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10347)  [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=987211&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-N6xsTFJMEkdZ-J4-71be1MQsyGBkYaTzkMHjBabJV39HhYJbLu10QHT82Y_kNfNaY5BPBETDnwfBp74grTs9Z-kY4OXYysYIEZjKcX2GxkbH0duENuZ4HDDkamA4xMJxhvPXnAuICp49wrxlMsLBydm7UusexljK5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDbzNLEzMxUz8AAKFiSWOGZAtacnJiTXJqTWJIaUlkANMRIRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBguCjC6C8jPz8yC6DVDEwhJzSlMhKoH2uaVCrTCsjX3EwhQd-4LlKccnFoZfLAxNrAxdrCwcE_azTmJl5QB5dxcrr69LWEikka5hiG6UruEF1umdXxil5A0NDAxMDY1NTXUNEi0Tk1PMjXVNLE2MTM11zQwtDEw1uk5cP_jE2MhaChKgCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9gs3YxcXFyjbLiYQ4NdBHOf_1750UjaQYrZ0yVIMdrp9l45F0t7LZCcIUwucBdz2N6nm3jtI2HySaxVGboh4RnHxQoYGxiZuhi5BRg9GCMYK4A8xlWM7FzMBkaGAkwbGBl3MP6HAcZXjCBLACTL6dZSAgAA&masterhotelid_tracelogid=100051355-0a9acd73-494257-61805&detailFilters=17|1~17~1*31|987211~31~987211*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=390&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660)  [Booking.com](https://booking.tpm.li/squT1Nf0)
 
@@ -627,6 +627,6 @@ Kenalan Sama Nusa Dua dalam 2 Menit
 
 https://youtu.be/zxDZJ93EqA4?si=6NzwPHfSdfJgCRGY
 
-Nusa Dua, Tanjung Benoa: Destinasi Mewah Favorit di Bali — 40+ Pilihan Akomodasi, Kuliner, & Aktivitas Lengkap dengan Peta Panduan Nusa Dua/Tanjung Benoa: Klik [di sini](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+Nusa Dua, Tanjung Benoa: Destinasi Mewah Favorit di Bali — 40+ Pilihan Akomodasi, Kuliner, & Aktivitas Lengkap dengan Peta Panduan Nusa Dua/Tanjung Benoa: Klik [di sini](/id/blog/2024-01-25-65afb7bbfd897800017023b4/)
 
 {{block:住宿}}

@@ -36,7 +36,7 @@ Bali adalah destinasi wisata paling hits di Indonesia, setiap tahun menarik turi
 
 Visa on Arrival adalah visa yang diurus di bandara internasional Bali setelah kamu mendarat. Biayanya Rp 500.000 (sekitar USD$16), berlaku 30 hari, bisa diperpanjang sekali sampai maksimal 60 hari.
 
-Kelebihan VoA: prosesnya simpel — tinggal tunjukin paspor minimal berlaku 6 bulan, tiket pulang atau tiket ke negara lain, bayar Rp 500.000 pakai cash atau mata uang tertentu (cek [di sini](/blog/indonesia-bali-visa-evoa-faq/)) atau kartu kredit (jenis kartu yang diterima [cek di sini](/blog/indonesia-bali-visa-evoa-faq/)).
+Kelebihan VoA: prosesnya simpel — tinggal tunjukin paspor minimal berlaku 6 bulan, tiket pulang atau tiket ke negara lain, bayar Rp 500.000 pakai cash atau mata uang tertentu (cek [di sini](/id/blog/indonesia-bali-visa-evoa-faq/)) atau kartu kredit (jenis kartu yang diterima [cek di sini](/id/blog/indonesia-bali-visa-evoa-faq/)).
 
 Tapi kekurangannya: nggak ada yang bisa jamin berapa lama prosesnya — bisa cepet, bisa antre berjam-jam. Ada netizen bilang "ngurus e-Visa ribet, mending antre VoA di bandara cuma 10-15 menit". Tapi **itu soal hoki doang**! Ada juga yang antre lebih dari sejam buat VoA. Yang dapet cepet, hoki banget sih!
 
@@ -48,7 +48,7 @@ Kalau pas kamu turun dari pesawat kebetulan ada jadwal penerbangan dari Eropa at
 
 ### **E-Visa**
 
-E-Visa adalah visa yang diajukan secara online oleh traveler sebelum berangkat melalui situs resmi Direktorat Jenderal Imigrasi Indonesia. Biaya pengajuannya sama, yaitu 500.000 IDR (sekitar USD$16), berlaku 30 hari, bisa diperpanjang sekali, maksimal tinggal 60 hari. Tapi kalau bayar pakai kartu kredit kena biaya tambahan. [Cek di sini](/blog/indonesia-bali-visa-evoa-faq/)
+E-Visa adalah visa yang diajukan secara online oleh traveler sebelum berangkat melalui situs resmi Direktorat Jenderal Imigrasi Indonesia. Biaya pengajuannya sama, yaitu 500.000 IDR (sekitar USD$16), berlaku 30 hari, bisa diperpanjang sekali, maksimal tinggal 60 hari. Tapi kalau bayar pakai kartu kredit kena biaya tambahan. [Cek di sini](/id/blog/indonesia-bali-visa-evoa-faq/)
 
 Kelebihan e-visa: prosesnya gampang banget. Asal kamu apply dalam 14 hari sebelum berangkat, ikuti langkah-langkah ini:
 
@@ -57,7 +57,7 @@ Kelebihan e-visa: prosesnya gampang banget. Asal kamu apply dalam 14 hari sebelu
 3. Upload foto paspor (halaman foto) dan foto diri (bisa pakai foto dari HP, yang penting jelas kelihatan wajah)
 4. Siapkan kartu kredit untuk bayar (online pakai Visa, Mastercard, atau JCB. Maksimal 5 orang bisa apply bareng pakai 1 kartu. Amex nggak bisa ya! Ada biaya tambahan, total akhir Rp.519.500)
 
-Proses e-visa cepet banget, biasanya cuma beberapa menit aja. Keuntungan apply e-visa dari rumah: begitu turun dari pesawat nggak perlu antre VOA. Mulai 2024, kamu juga bisa pakai gerbang otomatis yang nggak perlu antre sama sekali (cek [Sistem autogate face recognition di Bali 2024: pemegang e-visa bisa percepat imigrasi](/blog/2024-bali-automated-immigration/))
+Proses e-visa cepet banget, biasanya cuma beberapa menit aja. Keuntungan apply e-visa dari rumah: begitu turun dari pesawat nggak perlu antre VOA. Mulai 2024, kamu juga bisa pakai gerbang otomatis yang nggak perlu antre sama sekali (cek [Sistem autogate face recognition di Bali 2024: pemegang e-visa bisa percepat imigrasi](/id/blog/2024-bali-automated-immigration/))
 
 ## Cek tabel perbandingan kami:
 
@@ -67,10 +67,10 @@ Proses e-visa cepet banget, biasanya cuma beberapa menit aja. Keuntungan apply e
 
 [Nikmati waktu liburan yang indah! Sumber: Tensor Arts AI](https://tensor.art/images/668525124623917562?post_id=668525124619723259&source_id=nzi1pVnglEW1o_Isbnfy9xQj)
 
-VOA dan e-visa sama-sama punya plus minus. Traveler bisa pilih sesuai kebutuhan dan selera. Kalau kamu males urus visa dari jauh-jauh hari atau nggak mau repot riset cara online, VOA bisa jadi pilihan. Tapi kalau mau hemat waktu antre setelah landing, e-visa lebih oke. Mau lihat pengalaman orang lain? Cek juga: [VOA vs E-Visa di Indonesia/Bali: Saran Praktis buat Pilihan](/blog/bali-visa-on-arrival-vs-evisa/)
+VOA dan e-visa sama-sama punya plus minus. Traveler bisa pilih sesuai kebutuhan dan selera. Kalau kamu males urus visa dari jauh-jauh hari atau nggak mau repot riset cara online, VOA bisa jadi pilihan. Tapi kalau mau hemat waktu antre setelah landing, e-visa lebih oke. Mau lihat pengalaman orang lain? Cek juga: [VOA vs E-Visa di Indonesia/Bali: Saran Praktis buat Pilihan](/id/blog/bali-visa-on-arrival-vs-evisa/)
 
 ---
 
 👈 **Kembali ke Panduan Utama Liburan Mandiri ke Bali**
 
-Mau lihat paket lengkap untuk pemula? [Klik di sini baca «Panduan Utama Liburan Mandiri ke Bali 2026»](/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.
+Mau lihat paket lengkap untuk pemula? [Klik di sini baca «Panduan Utama Liburan Mandiri ke Bali 2026»](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.

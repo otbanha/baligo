@@ -150,7 +150,7 @@ Update: 2026/07/03
 
 ### 6️⃣ 更多申请上的问题？
 
-请参考我们制作的[印尼/巴厘岛签证指南](/blog/indonesia-bali-visa-evoa-faq/)
+请参考我们制作的[印尼/巴厘岛签证指南](/zh-cn/blog/indonesia-bali-visa-evoa-faq/)
 
 ## 📩 **立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！**
 

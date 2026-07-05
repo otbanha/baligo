@@ -33,4 +33,4 @@ International travelers entering, traveling, and visiting Indonesia in 2025 need
 
 👈 **Back to the Ultimate Bali Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read the '2026 Ultimate Bali Travel Guide'](/blog/bali-ultimate-guide-2026/) and learn everything you need to do before your trip.
+Want to see the complete beginner's guide? [Click here to read the '2026 Ultimate Bali Travel Guide'](/en/blog/bali-ultimate-guide-2026/) and learn everything you need to do before your trip.

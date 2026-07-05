@@ -27,8 +27,8 @@ _srcHash: 3f4366ed3b512494192f9704cc72f96b
 
 **快速参考：**
 
-- [巴厘岛换钱血泪史：团友亲身经历揭密，千万别贪小便宜！](/blog/bali-money-exchange-scams-2/)
-- [正规换汇所推荐](/blog/bali-currency-exchange-guide/)
+- [巴厘岛换钱血泪史：团友亲身经历揭密，千万别贪小便宜！](/zh-cn/blog/bali-money-exchange-scams-2/)
+- [正规换汇所推荐](/zh-cn/blog/bali-currency-exchange-guide/)
 
 ## **出租车的跳表罗生门**
 
@@ -36,8 +36,8 @@ _srcHash: 3f4366ed3b512494192f9704cc72f96b
 
 **快速参考：**
 
-- [Grab好？Gojek好？印尼/巴厘岛的Gojek与GoPay注册、使用、储值教学全面指南](/blog/indonesia-gojek-gopay-guide/)
-- [巴厘岛APP网约车司机的套路：如何避免Grab/Gojek陷阱？](/blog/bali-grab-gojek-scam-tips/)
+- [Grab好？Gojek好？印尼/巴厘岛的Gojek与GoPay注册、使用、储值教学全面指南](/zh-cn/blog/indonesia-gojek-gopay-guide/)
+- [巴厘岛APP网约车司机的套路：如何避免Grab/Gojek陷阱？](/zh-cn/blog/bali-grab-gojek-scam-tips/)
 
 ## **搜索引擎上的假签证官网**
 
@@ -45,8 +45,8 @@ _srcHash: 3f4366ed3b512494192f9704cc72f96b
 
 **快速参考：**
 
-- [入境印尼/巴厘岛eVisa签证、eCD海关、SSHP健康声明必填 All Indonesia 常见问题 FAQ](/blog/bali-evisa-customs-health-declaration/)
-- [入境印尼/巴厘岛的小朋友签证/儿童签证攻略](/blog/bali-child-visa-guide/)
+- [入境印尼/巴厘岛eVisa签证、eCD海关、SSHP健康声明必填 All Indonesia 常见问题 FAQ](/zh-cn/blog/bali-evisa-customs-health-declaration/)
+- [入境印尼/巴厘岛的小朋友签证/儿童签证攻略](/zh-cn/blog/bali-child-visa-guide/)
 
 ## **还车时的「新刮痕」争议**
 
@@ -54,9 +54,9 @@ _srcHash: 3f4366ed3b512494192f9704cc72f96b
 
 **快速参考：**
 
-[《巴厘岛摩托车租赁风险检查清单》巴厘岛租摩托车攻略：价格、安全、注意事项一次看](/blog/bali-motorbike-rental-tips/)
+[《巴厘岛摩托车租赁风险检查清单》巴厘岛租摩托车攻略：价格、安全、注意事项一次看](/zh-cn/blog/bali-motorbike-rental-tips/)
 
-[巴厘岛旅游安全警示：年轻旅客摩托车事故频发](/blog/bali-motorbike-safety-guide/)
+[巴厘岛旅游安全警示：年轻旅客摩托车事故频发](/zh-cn/blog/bali-motorbike-safety-guide/)
 
 ## **寺庙/景点门口的假工作人员**
 
@@ -66,7 +66,7 @@ _srcHash: 3f4366ed3b512494192f9704cc72f96b
 
 近年出现陌生人以没网络为由借用手机热点。这不仅存在数据泄露风险，对方若从事非法行为也会留下你的记录。保持礼貌并拒绝分享热点或连接不明 Wi-Fi，是保护个人隐私的基本动作。
 
-**快速参考：**[“借用热点”的请求竟然是陷阱！新型诈骗很多人都已中招…](/blog/bali-wifi-scam-alert/)
+**快速参考：**[“借用热点”的请求竟然是陷阱！新型诈骗很多人都已中招…](/zh-cn/blog/bali-wifi-scam-alert/)
 
 {{block:klook}}
 
@@ -82,7 +82,7 @@ https://youtu.be/LuEXL77-Qh0
 
 ## 不要错过这些主题
 
-- [2026年巴厘岛自由行｜行前终极指南：出发前必看 7 大重点！签证、换汇、住宿、电压/转换器...一次搞定](/blog/bali-travel-guide-2026/)
-- [巴厘岛不踩雷攻略：18个常见错误与建议](/blog/bali-travel-mistakes-tips/)
+- [2026年巴厘岛自由行｜行前终极指南：出发前必看 7 大重点！签证、换汇、住宿、电压/转换器...一次搞定](/zh-cn/blog/bali-travel-guide-2026/)
+- [巴厘岛不踩雷攻略：18个常见错误与建议](/zh-cn/blog/bali-travel-mistakes-tips/)
 
 {{block:klook}}

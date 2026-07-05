@@ -33,4 +33,4 @@ Tahun 2025, buat turis internasional yang mau masuk, jalan-jalan, dan ke Indones
 
 👈 **Kembali ke Panduan Lengkap Liburan ke Bali**
 
-Mau lihat panduan lengkap buat pemula? [Klik di sini baca 'Panduan Lengkap Liburan ke Bali 2026'](/blog/bali-ultimate-guide-2026/) — langsung paham apa aja yang harus disiapin sebelum berangkat.
+Mau lihat panduan lengkap buat pemula? [Klik di sini baca 'Panduan Lengkap Liburan ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/) — langsung paham apa aja yang harus disiapin sebelum berangkat.

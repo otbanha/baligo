@@ -51,7 +51,7 @@ However, the implementation of this tourism tax has been less than effective, wi
 
 **Quick Reference:**
 
-[Bali to Enforce Strict Measures Against 'Ticket-Evading' Tourists: Tourism Tax May Become Mandatory!](/blog/bali-tourism-tax-enforcement/)
+[Bali to Enforce Strict Measures Against 'Ticket-Evading' Tourists: Tourism Tax May Become Mandatory!](/en/blog/bali-tourism-tax-enforcement/)
 
 ### What Does the Future Hold?
 

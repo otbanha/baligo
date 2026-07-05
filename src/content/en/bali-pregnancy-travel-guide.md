@@ -47,9 +47,9 @@ This Bali trip was an exciting first-time experience for me! I'm very grateful t
 
 These preparations may seem tedious, but they all help make the trip smoother, allowing me to fully enjoy every moment in Bali!
 
-> Further Reading: [【2026 Edition】Using the 'All Indonesia' Arrival Card for Bali Entry｜Understand the Latest Process in 1 Minute: Get Off the Plane → Go Through Customs → Collect Luggage Full Guide](https://gobaligo.id/blog/bali-all-indonesia-arrival-guide/)
+> Further Reading: [【2026 Edition】Using the 'All Indonesia' Arrival Card for Bali Entry｜Understand the Latest Process in 1 Minute: Get Off the Plane → Go Through Customs → Collect Luggage Full Guide](https://gobaligo.id/en/blog/bali-all-indonesia-arrival-guide/)
 
-> Further Reading: [Bali Travel Tips: A Must-Read Beginner's Guide for First-Time Visitors to Bali](https://gobaligo.id/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
+> Further Reading: [Bali Travel Tips: A Must-Read Beginner's Guide for First-Time Visitors to Bali](https://gobaligo.id/en/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
 
 ***
 
@@ -130,7 +130,7 @@ Lunch was thoughtfully included in the tour, and we enjoyed local flavors at a b
 
 Scenery of Nusa Lembongan
 
-> Want to know what else there is to do on Nusa Lembongan? Check out our guide to the top attractions: [Nusa Lembongan & Ceningan Guide](/blog/nusa-lembongan-ceningan-guide/)
+> Want to know what else there is to do on Nusa Lembongan? Check out our guide to the top attractions: [Nusa Lembongan & Ceningan Guide](/en/blog/nusa-lembongan-ceningan-guide/)
 
 **Driver Picks Us Up for the Return to the Hotel**
 After a full day of fun, our Bali driver arrived right on time to take us back to the hotel. The stunning beauty of Nusa Lembongan left us wanting more—this trip was truly worth it.
@@ -160,7 +160,7 @@ Our Ubud adventure kicked off with an exhilarating rafting experience. We naviga
 
 After rafting, we visited a famous Instagram-friendly café, known for its giant swings that let you soar over stunning rice terraces. The locals really know how to take photos—the whole vibe made every picture look like a postcard. It's the perfect spot for snapping and sharing!
 
-> [【Ubud Swing Guide】Top 8 Most Beautiful Jungle Swings: Tips for Renting Dresses, Photo Angles, and Avoiding Crowds](https://gobaligo.id/blog/ubud-jungle-swings-photo-guide/)
+> [【Ubud Swing Guide】Top 8 Most Beautiful Jungle Swings: Tips for Renting Dresses, Photo Angles, and Avoiding Crowds](https://gobaligo.id/en/blog/ubud-jungle-swings-photo-guide/)
 
 ![Tebasari Resto, Bar & Lounge](https://images.gobaligo.id/vocus/vocus_de5feafe85fbc690903411bfb7bf280f.jpg)
 
@@ -172,14 +172,14 @@ At lunchtime, we visited a famous crispy duck restaurant in Ubud. This dish is a
 **Ubud Royal Palace**
 After lunch, we explored the historic Ubud Royal Palace. The architecture is distinctly Balinese, with intricate carvings and elaborate decorations that leave you in awe, offering a glimpse into the local culture and history.
 
-> [【Must-Visit in Ubud】Ubud Royal Palace: A Gem of Balinese Culture and History | Opening Hours, Tickets, Performance Times, Nearby Attractions, Day Trip Guide](https://gobaligo.id/blog/ubud-royal-palace-tour-guide/)
+> [【Must-Visit in Ubud】Ubud Royal Palace: A Gem of Balinese Culture and History | Opening Hours, Tickets, Performance Times, Nearby Attractions, Day Trip Guide](https://gobaligo.id/en/blog/ubud-royal-palace-tour-guide/)
 
 **Ubud Market**
 Next, we strolled through Ubud Market, which is brimming with handicrafts, clothing, and souvenirs. The lively atmosphere was infectious, and we picked up a few locally made keepsakes to remember our trip.
 
 https://youtube.com/shorts/Oh-RNfjhQhM
 
-> Further Reading: [Complete Guide to Ubud's Top 5 Art Markets: Souvenir Shopping and Exploring Balinese Cultural Treasures](/blog/ubud-art-markets-guide/)
+> Further Reading: [Complete Guide to Ubud's Top 5 Art Markets: Souvenir Shopping and Exploring Balinese Cultural Treasures](/en/blog/ubud-art-markets-guide/)
 
 https://youtu.be/JtxZHtijEkE
 
@@ -207,7 +207,7 @@ In the afternoon, we visited one of Bali’s landmarks—Tanah Lot Temple. Perch
 
 ![Day 4 Itinerary (A Chill Day in Canggu):](https://images.gobaligo.id/vocus/vocus_c8901a744d0d658d299564b9ec2515af.jpg)
 
-> [Bali Travel Must-See: Detailed Guide to Tanah Lot Temple, Including Tides and Nearby Attractions](https://gobaligo.id/blog/bali-tanah-lot-guide/)
+> [Bali Travel Must-See: Detailed Guide to Tanah Lot Temple, Including Tides and Nearby Attractions](https://gobaligo.id/en/blog/bali-tanah-lot-guide/)
 
 **The Lawn Canggu Beach Club**
 Our final stop of the day was The Lawn, a famous beach club in Canggu. It’s all about sun, sand, food, and beautiful people in bikinis and swim trunks. We spent a leisurely afternoon here, lounging in the pool, sipping chilled cocktails, and waiting for Bali’s iconic sunset to slowly descend. As night fell, the beach lit up with a cozy, romantic vibe, letting us fully unwind and savor every moment of our vacation.
@@ -248,7 +248,7 @@ After leaving the villa, we arrived at the airport three hours early—a good tr
 5. **Souvenir recommendation: BALI BANANA banana cake**
    Before heading home, don't forget to grab a box of BALI BANANA banana cake—a signature souvenir from Bali. It's soft, sweet, and delicious, and available at the airport. You can buy one to try upon arrival, and if you like it, buy more to take back. They also offer free packing service, making shopping even more convenient.
 
-Further reading: [【Recommended by Travelers】Over 20 Bali Souvenir Guide: Perfect Choices to Keep Precious Memories](/blog/bali-souvenirs-gift-guide/)
+Further reading: [【Recommended by Travelers】Over 20 Bali Souvenir Guide: Perfect Choices to Keep Precious Memories](/en/blog/bali-souvenirs-gift-guide/)
 
 ***
 

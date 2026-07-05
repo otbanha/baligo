@@ -36,7 +36,7 @@ Live Snapshot of 'Let's Play and Eat Ho Chi Minh City'
 
 ## Why We Stayed in Kuta
 
-Although Kuta isn't ideal for a long stay (see: [The Most Convenient Place to Stay in Bali, Yet the Least Recommended! Pros and Cons of Kuta, Bali](/blog/kuta-bali-accommodation-pros-cons/)), we chose to stay here right after landing for four reasons:
+Although Kuta isn't ideal for a long stay (see: [The Most Convenient Place to Stay in Bali, Yet the Least Recommended! Pros and Cons of Kuta, Bali](/en/blog/kuta-bali-accommodation-pros-cons/)), we chose to stay here right after landing for four reasons:
 
 1. It's the closest to the airport, so we could unwind soon after landing. Traveling with two kids, staying in Kuta—the nearest area to the airport—helps minimize fatigue from the long flight, letting the whole family relax and start enjoying Bali's beauty right away.
 2. It fit our plan to visit Jimbaran and Uluwatu on the second day. Kuta's prime location is not only close to the airport but also convenient for reaching other Bali attractions like Jimbaran and Uluwatu. We planned to visit these spots on day two, so staying in Kuta saved travel time and let us savor more of the journey.
@@ -137,7 +137,7 @@ We followed the recommendations from 'Xiao Jie Indonesia.' If you're interested 
 
 ![Notes & Reflections](https://images.gobaligo.id/vocus/vocus_21d540de87f478b39fd7f1dee26b368a.jpg)
 
-Want more Kuta guides? [Click here](/blog/2023-12-13-657598bdfd8978000120fe20/)
+Want more Kuta guides? [Click here](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 ## Recommended Bali Private Driver
 

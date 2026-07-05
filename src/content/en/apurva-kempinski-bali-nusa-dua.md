@@ -57,7 +57,7 @@ The hotel's Cliff Lounge serves a variety of cocktails and fine snacks, making i
 
 The Breathtaking Views of Selasar Deli Afternoon Tea
 
-[Selasar Deli Afternoon Tea Experience](/blog/apurva-kempinski-bali-nusa-dua/)
+[Selasar Deli Afternoon Tea Experience](/en/blog/apurva-kempinski-bali-nusa-dua/)
 
 > Book [Selasar Deli Restaurant Afternoon Tea](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1052045&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F58595-selasar-deli-apurva-kempinski-hotel-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D247caa596d)
 
@@ -87,6 +87,6 @@ Staying at Apurva Kempinski is an unforgettable luxury getaway—an unbeatable c
 
 ## Further Reading:
 
-> [Nusa Dua & Tanjung Benoa: The Ultimate Guide to Bali's Luxury Resort Area – 40 Accommodations, Dining, and Activities Map](/blog/nusa-dua-guide/)
+> [Nusa Dua & Tanjung Benoa: The Ultimate Guide to Bali's Luxury Resort Area – 40 Accommodations, Dining, and Activities Map](/en/blog/nusa-dua-guide/)
 
 {{block:住宿}}

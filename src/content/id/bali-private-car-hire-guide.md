@@ -35,13 +35,13 @@ Bali itu destinasi wisata yang indah banget, kaya budaya, dan punya daya tarik u
 
 ![{小傑印尼} 最愛的司機，每次來必指定！](https://images.gobaligo.id/vocus/vocus_00dce92754e6b20545eeeb0c3d087e34.jpg)
 
-[Sopir favorit {Xiao Jie Indonesia}, selalu pilih dia tiap ke Bali!](/blog/bali-private-driver-recommendation/)
+[Sopir favorit {Xiao Jie Indonesia}, selalu pilih dia tiap ke Bali!](/id/blog/bali-private-driver-recommendation/)
 
 ## Transportasi Terbaik buat Liburan di Bali
 
 ### **Kelebihan Sewa Mobil**
 
-Buat perjalanan jarak pendek di kota, kayak yang udah kita bahas di artikel sebelumnya — misalnya «[Panduan Wisata Kuta Bali: 50 Tempat Wajib Kunjung, Nightlife Seru, Kuliner, & Rekomendasi SPA Lengkap](/blog/2023-12-13-657598bdfd8978000120fe20/)», «[Peta Tempat Wajib di Seminyak Bali: 100+ Rekomendasi Kuliner & Hiburan Terlengkap 2026](/blog/seminyak-guide/)», «[Peta Petualangan Canggu Bali: 100 Tempat Wajib Kunjung di Canggu 2026](/blog/canggu-guide/)» — pakai ojek online itu paling oke (baca juga: [Cara Pakai Ojek Online di Bali?](/blog/gojek-bali-guide/)). Tapi kalau kamu mau dalam sehari mampir ke 2-3 tempat wisata, sewa mobil adalah pilihan paling ideal buat eksplorasi keindahan Bali. Ini dia kelebihan uniknya:
+Buat perjalanan jarak pendek di kota, kayak yang udah kita bahas di artikel sebelumnya — misalnya «[Panduan Wisata Kuta Bali: 50 Tempat Wajib Kunjung, Nightlife Seru, Kuliner, & Rekomendasi SPA Lengkap](/id/blog/2023-12-13-657598bdfd8978000120fe20/)», «[Peta Tempat Wajib di Seminyak Bali: 100+ Rekomendasi Kuliner & Hiburan Terlengkap 2026](/id/blog/seminyak-guide/)», «[Peta Petualangan Canggu Bali: 100 Tempat Wajib Kunjung di Canggu 2026](/id/blog/canggu-guide/)» — pakai ojek online itu paling oke (baca juga: [Cara Pakai Ojek Online di Bali?](/id/blog/gojek-bali-guide/)). Tapi kalau kamu mau dalam sehari mampir ke 2-3 tempat wisata, sewa mobil adalah pilihan paling ideal buat eksplorasi keindahan Bali. Ini dia kelebihan uniknya:
 
 1. **Tenang Urus Penukaran Uang & Beli SIM Card** — Di negara asing, urusan tukar uang dan beli SIM card bisa bikin pusing. Sopir sewa mobil nggak cuma kenal daerah, tapi juga bisa kasih saran biar kamu dapet harga terbaik dan nggak kena tipu. 
 2. **Sopir Profesional & Aman** — Sopir biasanya hafal jalan dan kondisi lalu lintas Bali, jadi perjalanan lebih aman dan lancar. Mereka juga bisa kasih rekomendasi tempat wisata, kuliner, dll. 
@@ -56,11 +56,11 @@ Intinya, sewa mobil di Bali bukan cuma alat transportasi, tapi juga teman setia 
 
 ![峇里島司機 Gede Arimbawa 提供](https://images.gobaligo.id/vocus/vocus_59d9e88e1887ee543b65195c87773829.jpg)
 
-[Sopir Bali Gede Arimbawa menyediakan](/blog/bali-private-driver-recommendation/)
+[Sopir Bali Gede Arimbawa menyediakan](/id/blog/bali-private-driver-recommendation/)
 
 ### Cara Booking Sewa Mobil di Bali?
 
-1. **Pesan Online** Banyak driver Bali yang menyediakan jasa bisa dipesan duluan. Kalau kamu bingung cari di mana, kamu juga bisa [cek rekomendasi driver dari dua grup kami](/blog/bali-private-car-drivers-guide/).
+1. **Pesan Online** Banyak driver Bali yang menyediakan jasa bisa dipesan duluan. Kalau kamu bingung cari di mana, kamu juga bisa [cek rekomendasi driver dari dua grup kami](/id/blog/bali-private-car-drivers-guide/).
 2. **Meja Resepsionis Hotel** Sebagian besar hotel di Bali menyediakan layanan sewa mobil. Kamu bisa langsung tanya dan booking di meja resepsionis hotel.
 3. **Agen Travel Lokal / Lapak Jual Trip di Pinggir Jalan** Di Bali, banyak agen travel lokal yang menawarkan jasa sewa mobil. Kamu bisa atur sewa mobil lewat agen travel lokal setelah tiba di Bali.
 
@@ -82,7 +82,7 @@ Saran kami, langsung tanya harga ke driver aja.
 
 Kami kumpulkan dengan teliti sumber daya dari dua grup Facebook yang kami kelola: 「[Bali/Indonesia Kuliner & Wisata](https://www.facebook.com/groups/indonesia.travelguide)」 dan 「[Go Bali Go Bali Travel](https://www.facebook.com/groups/baligo)」, hampir mencakup semua driver berkualitas yang direkomendasikan anggota grup, lalu kami pilih dan buat jadi 「**Daftar Driver Sewa Mobil Terbaik di Bali**」! Daftar ini bukan cuma pengalaman perjalanan nyata anggota grup, tapi juga sumber daya berharga dari pengamatan dan akumulasi kami selama bertahun-tahun di Bali. Dari teknik mengemudi, sikap pelayanan, sampai kemampuan komunikasi, setiap driver yang masuk daftar sudah melalui penilaian ketat dari semua orang, memastikan kamu bisa menikmati perjalanan yang aman, nyaman, dan terpercaya.
 
-Mau cari driver bagus wajib lihat▶「[Daftar Driver Sewa Mobil Terbaik di Bali](/blog/bali-private-car-drivers-guide/)」
+Mau cari driver bagus wajib lihat▶「[Daftar Driver Sewa Mobil Terbaik di Bali](/id/blog/bali-private-car-drivers-guide/)」
 
 ## FAQ Sewa Mobil di Bali
 
@@ -100,7 +100,7 @@ Mau cari driver bagus wajib lihat▶「[Daftar Driver Sewa Mobil Terbaik di Bali
 
 ![FAQ Sewa Mobil di Bali](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
 
-Cek: [【2026 Pengumuman Transportasi Bali】Pemberitahuan Penyesuaian Tarif Sewa Mobil per 1 Juli: Penawaran Terbaru & Cara Hitung Biaya dari Tim Supir](https://gobaligo.id/blog/bali-car-charter-rates-2026/)
+Cek: [【2026 Pengumuman Transportasi Bali】Pemberitahuan Penyesuaian Tarif Sewa Mobil per 1 Juli: Penawaran Terbaru & Cara Hitung Biaya dari Tim Supir](https://gobaligo.id/id/blog/bali-car-charter-rates-2026/)
 
 **Maksudnya mobil 5 penumpang itu gimana?**
 
@@ -163,11 +163,11 @@ Cek: [【2026 Pengumuman Transportasi Bali】Pemberitahuan Penyesuaian Tarif Sew
 
 ![慎選好的司機是確保旅遊順利的重要關鍵喔！不知道怎麼選可以點擊這裡](https://images.gobaligo.id/vocus/vocus_4425e094ccd3caa0b1c41d8f750091d1.png)
 
-[Pilih sopir yang tepat itu kunci biar perjalananmu lancar! Nggak tahu cara milih? Klik di sini](/blog/bali-private-car-drivers-guide/)
+[Pilih sopir yang tepat itu kunci biar perjalananmu lancar! Nggak tahu cara milih? Klik di sini](/id/blog/bali-private-car-drivers-guide/)
 
 ## Pengingat Terakhir
 
-Pernah ada kejadian begini: salah satu sopir di daftar '[Daftar Sopir Terbaik](/blog/bali-private-car-drivers-guide/)' (sebut aja Sopir X) udah sampai di bandara tepat waktu buat jemput, tapi ternyata rombongan turis itu juga pesan sopir lain lewat jalur lain. Turis langsung milih mobil lain dan batalin semua jadwal Sopir X setelahnya — bikin Sopir X rugi waktu dan penghasilan.
+Pernah ada kejadian begini: salah satu sopir di daftar '[Daftar Sopir Terbaik](/id/blog/bali-private-car-drivers-guide/)' (sebut aja Sopir X) udah sampai di bandara tepat waktu buat jemput, tapi ternyata rombongan turis itu juga pesan sopir lain lewat jalur lain. Turis langsung milih mobil lain dan batalin semua jadwal Sopir X setelahnya — bikin Sopir X rugi waktu dan penghasilan.
 
 **Himbauan tulus buat semua traveler**
 
@@ -181,4 +181,4 @@ Setiap pertemuan di perjalanan adalah soal kepercayaan dan rasa hormat dua arah.
 
 👈 **Kembali ke Panduan Utama Liburan Mandiri ke Bali**
 
-Mau lihat paket lengkap untuk pemula? [Klik di sini baca «Panduan Utama Liburan Mandiri ke Bali 2026»](/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.
+Mau lihat paket lengkap untuk pemula? [Klik di sini baca «Panduan Utama Liburan Mandiri ke Bali 2026»](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.

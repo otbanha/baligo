@@ -48,7 +48,7 @@ Masih penasaran sama liburan Imlek Februari kemarin? Tenang, strategi cuti semes
 
 - Duduk santai di satu atau dua Beach Club, rayakan Hari Buruh bareng para digital nomad dari seluruh dunia (👙 Tiket masuk pantai/resor populer Bali ▶[Diskon Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=931561&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-resort-passes%2Fc8-cate161%2F)).
 - Arung jeram Ubud, ATV (🚣 Aktivitas arung jeram Bali ▶[Diskon Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%25E6%25B3%259B%25E8%2588%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D8c8ac92422) / 🏎️ Aktivitas ATV Bali ▶[Diskon Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%2520ATV%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D28594dcbf2))
-- Daftar 50 aktivitas outdoor yang cocok buat kamu ada di [sini](/blog/bali-top-50-outdoor-activities/)
+- Daftar 50 aktivitas outdoor yang cocok buat kamu ada di [sini](/id/blog/bali-top-50-outdoor-activities/)
 
 {{block:klook}}
 
@@ -73,7 +73,7 @@ Panduan Uluwatu: [50 tempat wisata](https://s.id/uluwatu_guide)
 
 ![Rekomendasi Itinerary](https://images.gobaligo.id/vocus/vocus_4b32bc60b0a1fe9787825097f68cb2e8.jpg)
 
-- Juni adalah waktu yang super cocok buat main air! Nah, panduan kita ini pas banget: [Panduan Lengkap Aktivitas Air di Bali | Bali Nggak Cuma Snorkeling! 15 Cara Seru Main Air yang Nggak Terduga](/blog/2026-bali-water-activities/)
+- Juni adalah waktu yang super cocok buat main air! Nah, panduan kita ini pas banget: [Panduan Lengkap Aktivitas Air di Bali | Bali Nggak Cuma Snorkeling! 15 Cara Seru Main Air yang Nggak Terduga](/id/blog/2026-bali-water-activities/)
 
 {{block:戶外}}
 
@@ -81,7 +81,7 @@ Panduan Uluwatu: [50 tempat wisata](https://s.id/uluwatu_guide)
 
 ### 💡 Curhatan Traveler Hemat
 
-- **Pengingat Visa**: Sebelum berangkat, jangan lupa urus **Bali** e-VoA (Electronic Visa on Arrival) online dan bayar pajak turis 150.000 IDR. (Cek cepat: [【2026版】Proses Masuk Bali Indonesia 1 Menit Paham: Turun Pesawat → Imigrasi → Ambil Bagasi Panduan Lengkap](/blog/bali-all-indonesia-arrival-guide/))
+- **Pengingat Visa**: Sebelum berangkat, jangan lupa urus **Bali** e-VoA (Electronic Visa on Arrival) online dan bayar pajak turis 150.000 IDR. (Cek cepat: [【2026版】Proses Masuk Bali Indonesia 1 Menit Paham: Turun Pesawat → Imigrasi → Ambil Bagasi Panduan Lengkap](/id/blog/bali-all-indonesia-arrival-guide/))
 - **Jangan Asal Cari Driver Sewa**: Lihat [daftar rekomendasi dari netizen](https://s.id/bali_best_drivers) pasti aman!
 - **Tips Transportasi Macet**: Saat liburan panjang, tempat populer (kayak Ubud, Seminyak) gampang macet. Buat jarak dekat, mending pakai Gojek/Grab motor biar irit waktu.
 

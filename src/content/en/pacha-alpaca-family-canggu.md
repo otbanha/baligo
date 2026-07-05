@@ -85,4 +85,4 @@ Surrounded by an artistic and eco-friendly atmosphere, it's perfect for couples 
 
 Nuanu Creative City is Bali's latest rising creative hub, promoting zero carbon emissions and becoming Bali's newest sustainable tourism landmark. It has already begun attracting global creatives, making it the next must-visit hotspot!
 
-Check out the Nuanu Creative City travel guide [here](/blog/nuanu-creative-city-luna-guide/)
+Check out the Nuanu Creative City travel guide [here](/en/blog/nuanu-creative-city-luna-guide/)

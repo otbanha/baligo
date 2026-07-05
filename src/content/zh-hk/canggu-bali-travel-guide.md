@@ -24,7 +24,7 @@ _srcHash: f0aaec82a5e903cf867754ed83a9f030
 
 上一集嘅坎古攻略我哋大概介紹咗坎古嘅樣貌，同埋點解坎古會成為峇里島最潮嘅地方。可以睇睇我哋嘅介紹喔：
 
-[【峇里島必訪】坎古攻略：衝浪、美食同潮流嘅完美結合！](/blog/canggu-surf-food-guide/)
+[【峇里島必訪】坎古攻略：衝浪、美食同潮流嘅完美結合！](/zh-hk/blog/canggu-surf-food-guide/)
 
 ## 坎古導覽指南視頻 __VID0__
 
@@ -105,7 +105,7 @@ _srcHash: f0aaec82a5e903cf867754ed83a9f030
 第三條主要道路係Jl. Padang Lingjong巴當林瓊路，呢條路連接到Echo Beach（回音海灘）。最近喺近海邊嘅地區集中咗好多商店同住宿選擇。海邊有個La Brisa Beach Club，佔地好大，要網上預約先可以入去。呢個海灘俱樂部嘅裝修好有風格，令人好難唔鍾意呢度隨意嘅用餐氛圍。入面全部都係用漂流木搭建嘅木地板同建築，種咗超級多嘅椰子樹，仲有個適合小朋友玩嘅游泳池。好有唔同嘅風情。
 
 延伸閱讀:
-[被譽為「峇里島最靚嘅餐廳」：La Brisa喺數以萬計嘅美食餐廳之中點樣脫穎而出？](/blog/canggu-la-brisa-restaurant-guide/)
+[被譽為「峇里島最靚嘅餐廳」：La Brisa喺數以萬計嘅美食餐廳之中點樣脫穎而出？](/zh-hk/blog/canggu-la-brisa-restaurant-guide/)
 
 ![Jl. Padang Lingjong（巴當林瓊路）](https://images.gobaligo.id/vocus/vocus_ba0b7ff191ef1623871c136afd30e67a.jpg)
 
@@ -147,17 +147,17 @@ _srcHash: f0aaec82a5e903cf867754ed83a9f030
 
 ![Canggu吃喝玩樂攻略](https://images.gobaligo.id/vocus/vocus_c0262b12ea0d70b991550ffe89b65cd2.jpg)
 
-[坎古吃喝玩樂攻略](/blog/canggu-guide/)
+[坎古吃喝玩樂攻略](/zh-hk/blog/canggu-guide/)
 
 #### 延伸閱讀
 
-> [峇里島坎古完美探險地圖：100個坎古必遊景點｜2026指南](/blog/canggu-guide/)
+> [峇里島坎古完美探險地圖：100個坎古必遊景點｜2026指南](/zh-hk/blog/canggu-guide/)
 
-> [峇里島住宿推薦：坎古 Top 11 你不能錯過的住宿推薦](/blog/canggu-top-hotels-guide/)
+> [峇里島住宿推薦：坎古 Top 11 你不能錯過的住宿推薦](/zh-hk/blog/canggu-top-hotels-guide/)
 
-> [坎古區16間私人泳池別墅推薦 Canggu Villa 你唔可以錯過嘅峇里島別墅](/blog/canggu-villas-guide/)
+> [坎古區16間私人泳池別墅推薦 Canggu Villa 你唔可以錯過嘅峇里島別墅](/zh-hk/blog/canggu-villas-guide/)
 
-> [海神廟介紹 & 潮汐指南](/blog/bali-tanah-lot-guide/)
+> [海神廟介紹 & 潮汐指南](/zh-hk/blog/bali-tanah-lot-guide/)
 
 無論你想喺沙灘曬太陽、滑浪、影相，定係想食好嘢、shopping、體驗異國風情，坎古都可以滿足你嘅需求。無論係一個人、同家人朋友一齊，定係同摯愛共度浪漫時光，坎古都可以帶俾你一段難忘嘅旅程。
 

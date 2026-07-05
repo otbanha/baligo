@@ -165,6 +165,6 @@ Trans Studio Bali 的票价采动态定价，搭配不同促销方案。以 2026
 
 下次规划巴厘岛行程，记得把这里列进候补清单，说不定出发前几天的天气预报突然显示下雨，就刚好派上用场了！
 
-➡ 更多巴厘岛亲子乐园推荐：[巴厘岛十大亲子乐园完全攻略](/blog/top-10-kids-attractions-in-bali/)
+➡ 更多巴厘岛亲子乐园推荐：[巴厘岛十大亲子乐园完全攻略](/zh-cn/blog/top-10-kids-attractions-in-bali/)
 
 {{block:親子}}

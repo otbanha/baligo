@@ -117,12 +117,12 @@ Bali Beach Hotel benar-benar mengubah pandanganku soal hotel dengan value for mo
 
 ![Lebih Banyak Info Seru di Sanur](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
-[Panduan Sanur: Pilihan Liburan Keluarga Terbaik](/blog/sanur-guide/)
+[Panduan Sanur: Pilihan Liburan Keluarga Terbaik](/id/blog/sanur-guide/)
 
-Sanur adalah sebuah kota kecil di pesisir Bali yang penuh ketenangan, terkenal dengan pantainya yang tenang, suasana santai, dan pemandangan matahari terbit yang spektakuler. Di sini ada resor ramah keluarga, pasar tradisional, dan beragam kuliner lokal yang kaya—tempat ideal buat menikmati slow living sambil eksplorasi budaya. Mau jalan-jalan di sepanjang garis pantai atau merasakan vibe lokal, Sanur bakal kasih kamu liburan yang super rileks! Mau tahu lebih banyak tips Sanur? [Klik di sini](/blog/sanur-guide/).
+Sanur adalah sebuah kota kecil di pesisir Bali yang penuh ketenangan, terkenal dengan pantainya yang tenang, suasana santai, dan pemandangan matahari terbit yang spektakuler. Di sini ada resor ramah keluarga, pasar tradisional, dan beragam kuliner lokal yang kaya—tempat ideal buat menikmati slow living sambil eksplorasi budaya. Mau jalan-jalan di sepanjang garis pantai atau merasakan vibe lokal, Sanur bakal kasih kamu liburan yang super rileks! Mau tahu lebih banyak tips Sanur? [Klik di sini](/id/blog/sanur-guide/).
 
 ## Rekomendasi Penginapan Lain di Sanur
 
-[Koleksi 22 Resor/Villa Sanur dari Mewah sampai Budget](/blog/sanur-luxury-budget-resorts/)
+[Koleksi 22 Resor/Villa Sanur dari Mewah sampai Budget](/id/blog/sanur-luxury-budget-resorts/)
 
 {{block:住宿}}

@@ -56,7 +56,7 @@ _srcHash: 97515fee3830b81a831dc462cc8c229b
 
 ![建议的瓶装水品牌](https://images.gobaligo.id/vocus/vocus_3492fe649d1b46ef46788731bf208c73.png)
 
-👉**这里有新版的:** [巴厘岛腹泻/肠胃炎完整用药指南](/blog/bali-belly-medicine-guide/)
+👉**这里有新版的:** [巴厘岛腹泻/肠胃炎完整用药指南](/zh-cn/blog/bali-belly-medicine-guide/)
 
 ## 结语
 

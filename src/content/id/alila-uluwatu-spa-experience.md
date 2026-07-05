@@ -83,7 +83,7 @@ Sambil memegang teh vanila yang belum habis, aku mengikuti suara air menuju kola
 
 ## Review Menginap di Alila Uluwatu:
 
-[**【Definisi Baru Kemewahan di Bali】Alila Villas Uluwatu｜Kolam Renang Infinity Terbaik Dunia ✧ Tempat Favorit Artis untuk Nikah**](/blog/alila-villas-uluwatu-bali/)
+[**【Definisi Baru Kemewahan di Bali】Alila Villas Uluwatu｜Kolam Renang Infinity Terbaik Dunia ✧ Tempat Favorit Artis untuk Nikah**](/id/blog/alila-villas-uluwatu-bali/)
 
 ![Review Menginap di Alila Uluwatu:](https://images.gobaligo.id/vocus/vocus_a94ea4e5d3d05549aa074f0913cf1946.jpg)
 

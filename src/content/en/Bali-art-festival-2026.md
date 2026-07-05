@@ -108,7 +108,7 @@ In addition to dynamic performances, the art center also features a large exhibi
 
 If you prefer to avoid the crowds, plan to arrive at **10 AM** to enjoy the air-conditioned craft and photography exhibitions. Grab lunch at the Culinary Bazaar with authentic Balinese suckling pig (Babi Guling) or spiced chicken (Ayam Betutu). After a short rest, snag a good spot around **5 PM** to watch outdoor dances, then stay for the thrilling **7:30 PM** nighttime Gamelan showdown. A full day like this offers a free yet incredibly rich cultural immersion!
 
-> [【2026 Denpasar Guide】Exploring One of the World's Top 100 Cities: Bali's Capital Culture, History & Food Map](https://gobaligo.id/blog/denpasar-culture-guide/)
+> [【2026 Denpasar Guide】Exploring One of the World's Top 100 Cities: Bali's Capital Culture, History & Food Map](https://gobaligo.id/en/blog/denpasar-culture-guide/)
 
 ### Final Thoughts
 

@@ -42,7 +42,7 @@ Anggota lain, Huang Junjie, nambahin penjelasan begini:
 
 ![入境印尼/峇里島落地簽 vs. 電子簽證：選擇的實際建議](https://images.gobaligo.id/vocus/vocus_d5ae856e88dfdd6239eb60a49618a6d5.png)
 
-> Baca juga: [Panduan Masuk Bali 2026 Pakai Sistem 'All Indonesia' — 1 Menit Paham Proses Terbaru: Turun Pesawat → Imigrasi → Ambil Bagasi](/blog/bali-all-indonesia-arrival-guide/)
+> Baca juga: [Panduan Masuk Bali 2026 Pakai Sistem 'All Indonesia' — 1 Menit Paham Proses Terbaru: Turun Pesawat → Imigrasi → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
 
 ## Katanya VOA di bandara cepat banget?
 
@@ -52,7 +52,7 @@ Tapi kalau lagi banyak orang yang ngurus imigrasi, ceritanya bakal beda banget. 
 
 ![怎麼聽說落地簽很快？](https://images.gobaligo.id/vocus/vocus_75e0b7b75b7ad28994890343c6c92319.png)
 
-> Baca juga: [Panduan Lengkap eVisa Indonesia/Bali: Langkah, Syarat, & Tips](/blog/bali-evisa-application-guide/)
+> Baca juga: [Panduan Lengkap eVisa Indonesia/Bali: Langkah, Syarat, & Tips](/id/blog/bali-evisa-application-guide/)
 
 Soal bayar di tempat buat VOA, pengalaman netizen emang beda-beda. Ada yang bilang bayar di tempat cepet banget, hampir nggak antre. Tapi banyak juga yang ngeluh, pas musim liburan atau jam padat penerbangan, antreannya bisa panjang banget, bahkan lebih dari satu jam.
 
@@ -74,6 +74,6 @@ Tapi ya, kalau kamu tipe petualang atau waktu kedatangan fleksibel, silakan aja 
 
 Makanya kita tetap saranin **mending urus eVisa dari rumah aja**, biar bisa manfaatin jalur auto gate yang lebih cepet. Kalau ada masalah pas ngurus eVisa, kami udah kumpulin selengkapnya di link bawah ini, biar kalau kamu nemu kendala bisa cepet dibantu:
 
-> [FAQ Umum eVisa Indonesia/Bali, eCD Bea Cukai, SSHP Kesehatan Wajib Isi](/blog/bali-evisa-customs-health-declaration/)
+> [FAQ Umum eVisa Indonesia/Bali, eCD Bea Cukai, SSHP Kesehatan Wajib Isi](/id/blog/bali-evisa-customs-health-declaration/)
 
 {{block:klook}}

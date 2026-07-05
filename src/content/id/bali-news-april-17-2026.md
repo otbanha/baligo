@@ -38,4 +38,4 @@ _srcHash: 09f2aa91e8d75323eff45a9ff2cfab69
 - **Penerbangan & Pantauan Gunung Berapi**: Gunung Lewotobi masih dalam status siaga level 2, namun abu vulkanik saat ini menyebar ke arah barat daya dan barat. Penerbangan hari ini di Bandara Ngurah Rai (DPS) menuju Australia dan berbagai rute internasional utama **berjalan stabil**, tidak terpengaruh secara signifikan.
 - **Saran Keamanan**: Belakangan ini terjadi beberapa kasus perampasan paksa (jambret) yang menargetkan wisatawan asing. Saran dari kedutaan besar mengingatkan wisatawan di kawasan wisata populer (seperti Jimbaran, Seminyak) untuk selalu waspada terhadap barang bawaan pribadi, hindari bermain ponsel atau menggantung tas di sisi jalan yang gelap sendirian.
 
-> [【Panduan Wisata Bali】8 Hal Penting yang Wajib Diketahui Pemula: Keamanan Air Minum, Tegangan Listrik & Steker, Tabu Budaya & Tips Hindari Penipuan](/blog/bali-travel-tips/)
+> [【Panduan Wisata Bali】8 Hal Penting yang Wajib Diketahui Pemula: Keamanan Air Minum, Tegangan Listrik & Steker, Tabu Budaya & Tips Hindari Penipuan](/id/blog/bali-travel-tips/)

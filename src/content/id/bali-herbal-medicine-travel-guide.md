@@ -29,7 +29,7 @@ Pas mau ke Indonesia atau Bali, ada beberapa traveler yang perlu bawa jamu bubuk
 
 Baru-baru ini, ada turis Australia yang bawa obat resep, dianggap terlarang di Indonesia, ditahan 4 hari, diinterogasi 14 jam, dan kena denda Rp 82 juta. Cek link berikut:
 
-> Baca juga: [Penting! Cara Membawa Obat Tidur / Obat Resep Khusus ke Indonesia / Bali](/blog/bali-medication-import-guide/)
+> Baca juga: [Penting! Cara Membawa Obat Tidur / Obat Resep Khusus ke Indonesia / Bali](/id/blog/bali-medication-import-guide/)
 
 ### Aturan Hukum Indonesia soal Obat Herbal
 

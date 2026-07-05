@@ -115,16 +115,16 @@ Ada laporan kalau sebagian batu kapur **dibuang langsung ke laut**. Pemerintah l
 
 ### 5. Kenapa Pura Uluwatu Wajib Dikunjungi?
 
-Penjelasan lebih lanjut soal Pura Uluwatu, plus spot wajib lihat dan tips traveling, bisa cek [di sini](/blog/uluwatu-temple-travel-guide/).
+Penjelasan lebih lanjut soal Pura Uluwatu, plus spot wajib lihat dan tips traveling, bisa cek [di sini](/id/blog/uluwatu-temple-travel-guide/).
 
 ## Lebih Banyak Rekomendasi Kuliner & Wisata di Uluwatu
 
 ![Lebih Banyak Rekomendasi Kuliner & Wisata di Uluwatu](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
-[Rekomendasi Kuliner & Wisata di Uluwatu](/blog/uluwatu-guide/)
+[Rekomendasi Kuliner & Wisata di Uluwatu](/id/blog/uluwatu-guide/)
 
 Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal dengan pemandangan tebing yang dramatis, pantai yang memesona, dan spot surfing yang kece abis. Suasana tropisnya bikin liburan makin romantis, cocok banget buat nikmatin sunset dan melepas penat.
 
-Kalau kamu juga mau nginep di Uluwatu, cek aja rekomendasi kuliner dan wisata yang udah kami rangkum biar liburanmu makin seru: [【Panduan Uluwatu】Rekomendasi Tempat Wisata & Kuliner di Uluwatu](/blog/uluwatu-guide/)
+Kalau kamu juga mau nginep di Uluwatu, cek aja rekomendasi kuliner dan wisata yang udah kami rangkum biar liburanmu makin seru: [【Panduan Uluwatu】Rekomendasi Tempat Wisata & Kuliner di Uluwatu](/id/blog/uluwatu-guide/)
 
 ###

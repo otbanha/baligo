@@ -27,7 +27,7 @@ Mei Yi Liao提供：沙努爾嘅登船處，沙努港口設施好完善，上落
 
 今次旅程嘅目標係帕尼達島，呢個擁有壯麗景色嘅島嶼。由峇里島出發，我哋選擇由沙努爾搭船前往。沙努爾嘅新港口喺Google地圖上叫做「Sanur Harbour」。登船處而家設施相當完善，登船時唔使再擔心會整濕對腳，對於帶住行李嘅旅客嚟講係一大福音。我哋選擇咗帶輕便嘅背囊，都有唔少旅客帶登機箱。不過，登機箱會放喺船頭頂前，航行過程中會曬到太陽，落船後仲要等船夫卸行李，可能會喺大太陽下曬一陣，所以建議帶遮陽帽同防曬霜。
 
-> 延伸閱讀：[【出發前往峇里島離島】沙努爾行李寄放攻略](/blog/sanur-luggage-storage-guide/)
+> 延伸閱讀：[【出發前往峇里島離島】沙努爾行李寄放攻略](/zh-hk/blog/sanur-luggage-storage-guide/)
 
 ## 航程中嘅體驗
 
@@ -41,7 +41,7 @@ Mei Yi Liao提供：沙努爾嘅登船處，沙努港口設施好完善，上落
 
 帕尼達島嘅道路相當窄，兩架車會車時好驚險，成日要靠邊停車等對方先行。雖然條路係柏油路，但路面唔平坦，坐車嘅感覺就好似坐過山車咁，充滿刺激感。呢段旅程令我哋充分體會到島上交通嘅挑戰，但亦增添咗旅行嘅樂趣同冒險感。
 
-> 延伸閱讀：[Nusa Penida佩尼達島的士、Gojek/Grab、包車、電單車交通攻略](/blog/nusa-penida-transport-guide/)
+> 延伸閱讀：[Nusa Penida佩尼達島的士、Gojek/Grab、包車、電單車交通攻略](/zh-hk/blog/nusa-penida-transport-guide/)
 
 ## 探索島上嘅美景同美食
 
@@ -49,17 +49,17 @@ Mei Yi Liao提供：沙努爾嘅登船處，沙努港口設施好完善，上落
 
 帕尼達島嘅景色絕對唔可以錯過。無論係出名嘅克林金海灘（Kelingking Beach），定係天使浴池（Angel's Billabong），都令人驚嘆不已。呢啲景點唔單止有壯麗嘅自然風光，仲有清澈見底嘅海水同壯觀嘅懸崖景色，令人流連忘返。
 
-> 延伸閱讀：[【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/nusa-penida-guide/)
+> 延伸閱讀：[【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/zh-hk/blog/nusa-penida-guide/)
 
 另外，島上嘅美食都係一大亮點。我哋試咗當地嘅海鮮料理，新鮮美味，令人食指大動。特別係當地嘅烤魚同海鮮拼盤，都係極具特色嘅美食，唔單止味道鮮美，價錢亦相當抵食。
 
-> 延伸閱讀：[佩尼達島美食同碧海藍天：Nusa Penida嘅Top 10絕佳選擇](/blog/nusa-penida-best-restaurants/)
+> 延伸閱讀：[佩尼達島美食同碧海藍天：Nusa Penida嘅Top 10絕佳選擇](/zh-hk/blog/nusa-penida-best-restaurants/)
 
 ## 帕尼達島過夜嘅選擇
 
 去佩尼達島絕對係值得嘅，而且建議留低一兩晚，而唔係參加一日遊。咁樣會俾你多啲時間去好好體驗呢個迷人嘅島嶼。雖然參加一日遊係參觀最受歡迎景點嘅好方法，但留耐啲，你就可以有更多時間去探索同埋發現隱藏嘅寶藏。
 
-可以參考吓：[佩尼達島住宿推薦: 13間由奢華到平價嘅 Nusa Penida 好評住宿](/blog/nusa-penida-hotels-guide/)
+可以參考吓：[佩尼達島住宿推薦: 13間由奢華到平價嘅 Nusa Penida 好評住宿](/zh-hk/blog/nusa-penida-hotels-guide/)
 
 ## 回程嘅感受
 
@@ -76,7 +76,7 @@ Mei Yi Liao提供：沙努爾嘅登船處，沙努港口設施好完善，上落
 1. 可以直接喺港口買飛，但務必要提早在開船前一個鐘到達售票處
 2. 事先喺Klook訂飛有優惠又可以慳返排隊買飛嘅時間
 3. 可以帶大件行李，但最好盡量避免，喺島上帶住好唔方便
-4. 寄物服務請[參考呢度](/blog/sanur-luggage-storage-guide/)
+4. 寄物服務請[參考呢度](/zh-hk/blog/sanur-luggage-storage-guide/)
 5. Klook買飛嘅人要喺開船前提早至少30分鐘抵達港口
 
 6. Klook買飛嘅人最好提早一日以上訂飛
@@ -87,5 +87,5 @@ Mei Yi Liao提供：沙努爾嘅登船處，沙努港口設施好完善，上落
 
 {{block:遊記}}
 
-- [佩尼達島吃喝玩樂全攻略](/blog/nusa-penida-guide/)
-- [藍夢島/金銀島景點全攻略](/blog/nusa-lembongan-ceningan-guide/)
+- [佩尼達島吃喝玩樂全攻略](/zh-hk/blog/nusa-penida-guide/)
+- [藍夢島/金銀島景點全攻略](/zh-hk/blog/nusa-lembongan-ceningan-guide/)

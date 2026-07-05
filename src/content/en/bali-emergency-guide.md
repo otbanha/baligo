@@ -79,7 +79,7 @@ In addition to saving these numbers in your phone, doing the following before yo
 
 > **Your Safety is Most Important!** > Preparing in advance will allow you to enjoy Bali's blue skies and beautiful scenery with peace of mind. Wishing everyone a pleasant and safe Bali vacation!
 
-🌏 [Interactive Map to Find Police Nearby for Emergency Issues](/blog/bali-emergency-guide/)
+🌏 [Interactive Map to Find Police Nearby for Emergency Issues](/en/blog/bali-emergency-guide/)
 
 _(This article is compiled and shared by 'Bali Travel Guide gobaligo.id'. Feel free to share it with friends who are planning to visit Bali!)_
 

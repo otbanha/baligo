@@ -23,7 +23,7 @@ _srcHash: a3b9ef841b21eab013ee8ac459901ecf
 
 巴厘岛为幼儿提供了许多适合家庭的教育活动。其中，位于乌布市中心的Pondok Pekak文化图书馆是一个隐藏的宝藏，绝对是家庭假期中不可错过的地方。
 
-（收录在：[巴厘岛家庭亲子旅游活动精选攻略：乌布55项亲子活动带小朋友最轻松！](/blog/ubud-with-kids-guide/)）
+（收录在：[巴厘岛家庭亲子旅游活动精选攻略：乌布55项亲子活动带小朋友最轻松！](/zh-cn/blog/ubud-with-kids-guide/)）
 
 ## Pondok Pekak的创立与使命
 

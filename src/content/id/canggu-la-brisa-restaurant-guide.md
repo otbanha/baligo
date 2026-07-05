@@ -35,7 +35,7 @@ Dari sekian banyak restoran, yang satu ini dijuluki 'Restoran Terindah di Bali'.
 
 ![【Restaurant Terindah di Bali】La Brisa Bali Guide: Masuk ke K](https://images.gobaligo.id/vocus/vocus_a516952fa874238cf08ef63be006c56d.jpg)
 
-La Brisa terletak di pinggir Pantai Echo, Canggu—salah satu titik wisata paling populer di Bali sekarang (cek juga panduan 80 spot Canggu dari Xiao Jie [di sini](/blog/canggu-guide/)). Ini salah satu pantai paling terkenal di Bali, dengan pemandangan yang bikin speechless, kuliner melimpah, dan keramahan khas Bali sejati.
+La Brisa terletak di pinggir Pantai Echo, Canggu—salah satu titik wisata paling populer di Bali sekarang (cek juga panduan 80 spot Canggu dari Xiao Jie [di sini](/id/blog/canggu-guide/)). Ini salah satu pantai paling terkenal di Bali, dengan pemandangan yang bikin speechless, kuliner melimpah, dan keramahan khas Bali sejati.
 
 La Brisa bukan cuma restoran, tapi juga beach club. Konsepnya udah ada di namanya—La Brisa, artinya angin laut yang liar, mempesona, dan bikin rileks. La Brisa Bali dibangun dari kayu daur ulang lebih dari 500 perahu nelayan tua, dihias secara handmade profesional. Kini La Brisa jadi salah satu tempat paling stylish dan ramah lingkungan di Bali, memancarkan ciri khas Bali asli, dengan makanan dan koktail yang bikin lidah bergoyang.
 

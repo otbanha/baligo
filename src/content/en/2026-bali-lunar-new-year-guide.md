@@ -47,13 +47,13 @@ Here are the specifics of countries that observe Lunar New Year as a national ho
 
 During this special long holiday period, Bali will be even more bustling. There are some important considerations to ensure your Spring Festival holiday goes smoothly and pleasantly.
 
-(Further reading: [What are the Five Peak Travel Seasons in Bali?](/blog/bali-travel-money-saving-tips/))
+(Further reading: [What are the Five Peak Travel Seasons in Bali?](/en/blog/bali-travel-money-saving-tips/))
 
 Reasons why you should travel to Bali!
 
 ## Visa/Entry Documents
 
-For friends who need application links/text version instructions, please check [here](/blog/bali-all-indonesia-arrival-guide/)
+For friends who need application links/text version instructions, please check [here](/en/blog/bali-all-indonesia-arrival-guide/)
 
 ## Transportation
 
@@ -77,7 +77,7 @@ The peak traffic hours in Bali are usually from 7 to 9 AM and 5 to 7 PM. If we d
 
 **Opt for Private Car Hire**
 
-The best mode of transportation in Bali is hiring a private car, especially during January and February, which are the rainiest months. For information on why private car hire is ideal when traveling with elderly family members, essential tips, and recommended drivers, check out "[Complete Guide to Private Car Hire in Bali - Costs, Booking Methods, and Advantages](/blog/bali-private-car-hire-guide/)".
+The best mode of transportation in Bali is hiring a private car, especially during January and February, which are the rainiest months. For information on why private car hire is ideal when traveling with elderly family members, essential tips, and recommended drivers, check out "[Complete Guide to Private Car Hire in Bali - Costs, Booking Methods, and Advantages](/en/blog/bali-private-car-hire-guide/)".
 
 **Choose Smaller Area Attractions**
 
@@ -87,9 +87,9 @@ During Lunar New Year, many popular attractions in Bali experience severe traffi
 
 ## **Beware of the Rainy Season**
 
-The Lunar New Year falls within Bali's rainy season, which can bring days without rain or consecutive rainy days. [Check out the analysis of Bali's rainy season - experiencing the rainy season in the southern region](/blog/bali-south-rainy-season/).
+The Lunar New Year falls within Bali's rainy season, which can bring days without rain or consecutive rainy days. [Check out the analysis of Bali's rainy season - experiencing the rainy season in the southern region](/en/blog/bali-south-rainy-season/).
 
-The peak of the rainy season usually occurs in January and February. When visiting Bali during this time, it's essential to have backup plans for sudden rain. Refer to "[Bali Rainy Season: What to Do When It Rains? 60 Indoor Activity Ideas for Rainy Days in Bali](/blog/2026-bali-indoor-activities/)".
+The peak of the rainy season usually occurs in January and February. When visiting Bali during this time, it's essential to have backup plans for sudden rain. Refer to "[Bali Rainy Season: What to Do When It Rains? 60 Indoor Activity Ideas for Rainy Days in Bali](/en/blog/2026-bali-indoor-activities/)".
 
 ## A Guide for Family Trips Where Everyone is Happy
 
@@ -99,28 +99,28 @@ During Lunar New Year, many families travel together with members of all ages.
 
 During the Lunar New Year period, many families choose to travel to Bali with their loved ones to embrace the warmth of winter. This family vacation option not only provides an opportunity to spend quality time together but also allows people to experience Bali's rich culture and natural beauty.
 
-For elderly family members, Bali offers numerous relaxing and leisurely spots, such as beautiful beaches, spas, and picturesque countryside landscapes. These places not only allow seniors to enjoy peaceful moments but also enable them to participate in local cultural activities and learn about Bali's unique traditions. To ensure a worry-free trip for seniors, thorough preparation is essential! Check out "[Traveling with Seniors: A Bali Travel Guide for the Elderly - Safety, Comfort, and Precautions](/blog/bali-elderly-travel-guide/)"
+For elderly family members, Bali offers numerous relaxing and leisurely spots, such as beautiful beaches, spas, and picturesque countryside landscapes. These places not only allow seniors to enjoy peaceful moments but also enable them to participate in local cultural activities and learn about Bali's unique traditions. To ensure a worry-free trip for seniors, thorough preparation is essential! Check out "[Traveling with Seniors: A Bali Travel Guide for the Elderly - Safety, Comfort, and Precautions](/en/blog/bali-elderly-travel-guide/)"
 
-For children, the Lunar New Year coincides with winter break, and Bali offers them a joyful holiday experience. With abundant outdoor activities, zoo visits, and historical site explorations, Bali satisfies kids' curiosity for adventure and discovery. For family travel tips and guides, see "[Bali Family Travel: Tips for Vacationing with Babies, Toddlers, and School-Age Children](/blog/bali-family-travel-guide-2/)" and "[Ubud Family Travel Guide: 55 Kid-Friendly Activities Made Easy!](/blog/ubud-with-kids-guide/)"
+For children, the Lunar New Year coincides with winter break, and Bali offers them a joyful holiday experience. With abundant outdoor activities, zoo visits, and historical site explorations, Bali satisfies kids' curiosity for adventure and discovery. For family travel tips and guides, see "[Bali Family Travel: Tips for Vacationing with Babies, Toddlers, and School-Age Children](/en/blog/bali-family-travel-guide-2/)" and "[Ubud Family Travel Guide: 55 Kid-Friendly Activities Made Easy!](/en/blog/ubud-with-kids-guide/)"
 
-By the way, **seniors aged 60+ and infants/toddlers can use special lanes when queuing for immigration stamps**, avoiding long waits! If you want the whole family to breeze through customs with minimal waiting, don't miss "[Quick and Easy! 2026 Bali Automated Immigration Process & Guide](/blog/bali-all-indonesia-arrival-guide/)"
+By the way, **seniors aged 60+ and infants/toddlers can use special lanes when queuing for immigration stamps**, avoiding long waits! If you want the whole family to breeze through customs with minimal waiting, don't miss "[Quick and Easy! 2026 Bali Automated Immigration Process & Guide](/en/blog/bali-all-indonesia-arrival-guide/)"
 
 ## ⚠️Must-See⚠️ 2026 Lunar New Year Celebrations
 
 ![Must-See 2026 Lunar New Year Celebrations](https://images.gobaligo.id/vocus/vocus_8e4b2a2c15a42216e739d2c0cdcbdb4f.jpg)
 
-Want to experience Lunar New Year festivities in Bali this Spring Festival? We've compiled information on lion and dragon dance performances, New Year's Eve reunion dinner restaurants, and Chinese temples for New Year prayers. Check out "[2026 Bali Lunar New Year Celebration Guide](/blog/2026-bali-lunar-new-year/)"
+Want to experience Lunar New Year festivities in Bali this Spring Festival? We've compiled information on lion and dragon dance performances, New Year's Eve reunion dinner restaurants, and Chinese temples for New Year prayers. Check out "[2026 Bali Lunar New Year Celebration Guide](/en/blog/2026-bali-lunar-new-year/)"
 
 ## Conclusion
 
 Thorough preparation, understanding transportation options, and being ready for the rainy season are essential for enjoying this enchanting island during the Lunar New Year. Taking care of elderly family members and young children ensures everyone has a memorable time, making it a truly unforgettable family vacation!
 
-You can refer to this packaged 6-day itinerary: [🎉⭐6 Days 5 Nights Bali Lunar New Year Family Tour!⭐🎉](/blog/bali-lunar-new-year-family-tour/)
+You can refer to this packaged 6-day itinerary: [🎉⭐6 Days 5 Nights Bali Lunar New Year Family Tour!⭐🎉](/en/blog/bali-lunar-new-year-family-tour/)
 
 Finally, we sincerely wish you and your family a warm, joyful, and unforgettable Lunar New Year in beautiful Bali! Happy New Year!
 
 **Quick Reference:**
 
-- [Bali Travel Tips: 33 Must-Know Guides for First-Time Visitors](/blog/bali-ultimate-guide-2026/)
-- [Bali Travel Guide: 18 Common Mistakes and Tips to Avoid Them](/blog/bali-travel-mistakes-tips/)
-- [Bali Must-Know: 41 Awkward Questions 99% of Travelers Secretly Search For!](/blog/bali-travel-faqs-guide/)
+- [Bali Travel Tips: 33 Must-Know Guides for First-Time Visitors](/en/blog/bali-ultimate-guide-2026/)
+- [Bali Travel Guide: 18 Common Mistakes and Tips to Avoid Them](/en/blog/bali-travel-mistakes-tips/)
+- [Bali Must-Know: 41 Awkward Questions 99% of Travelers Secretly Search For!](/en/blog/bali-travel-faqs-guide/)

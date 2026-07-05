@@ -83,7 +83,7 @@ _srcHash: b6c3c90a70fe5adfed3e51b22500afd0
 - 品嚐手釀椰子酒同阿拉克（arak）
 - 喺梯田旁邊或者村落廚房享用慢食料理
 
-> 延伸閱讀：[🌶️ 峇里島必食10大印尼美食指南：由髒鴨餐到烤乳豬，舌尖上嘅南洋風情](/blog/top-10-bali-indonesian-food/)
+> 延伸閱讀：[🌶️ 峇里島必食10大印尼美食指南：由髒鴨餐到烤乳豬，舌尖上嘅南洋風情](/zh-hk/blog/top-10-bali-indonesian-food/)
 
 ---
 

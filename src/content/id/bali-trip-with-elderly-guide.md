@@ -46,7 +46,7 @@ Proses masuk ke Bali sebenarnya bisa disiapin sebelum berangkat. Banyak panduan 
 
 - Langkah ini bisa diselesaikan sebelum keberangkatan: [Portal Deklarasi Bea Cukai](https://ecd.beacukai.go.id/)
 
-Dengan persiapan awal ini, proses masuk ke Bali jadi lebih lancar, nggak perlu buang waktu ngisi formulir dan antre di tempat. Kalau masih bingung sama prosedurnya, bisa cek penjelasan detail di sini. Sekarang langkah pertama dan ketiga udah digabung: 「[【Panduan 2026】Cara Masuk Bali Pakai Kartu Kedatangan 'All Indonesia'｜Pahami Proses Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](/blog/bali-all-indonesia-arrival-guide/)」
+Dengan persiapan awal ini, proses masuk ke Bali jadi lebih lancar, nggak perlu buang waktu ngisi formulir dan antre di tempat. Kalau masih bingung sama prosedurnya, bisa cek penjelasan detail di sini. Sekarang langkah pertama dan ketiga udah digabung: 「[【Panduan 2026】Cara Masuk Bali Pakai Kartu Kedatangan 'All Indonesia'｜Pahami Proses Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)」
 
 ## 【Tips Komunikasi untuk Paket Wisata & Rencana Perjalanan】
 
@@ -74,7 +74,7 @@ Proses pengaturan paket wisata kali ini, awalnya komunikasi awal dengan sopir le
 
 Dengan persiapan dan komunikasi kayak gini, perjalanan sewa mobil bakal lebih lancar dan bisa lebih cocok sama kebutuhan trip, bikin pengalaman Bali makin memuaskan.
 
-> Catatan redaksi: soal perencanaan sebelum trip, bisa cek artikel ini "[Panduan Perencanaan Trip ke Bali: 5 Langkah Gampang](/blog/2026-bali-trip-planning-guide/)"
+> Catatan redaksi: soal perencanaan sebelum trip, bisa cek artikel ini "[Panduan Perencanaan Trip ke Bali: 5 Langkah Gampang](/id/blog/2026-bali-trip-planning-guide/)"
 
 ## 【Rencana Perjalanan】
 
@@ -119,7 +119,7 @@ https://youtu.be/JtxZHtijEkE
 
 - **Desa Penglipuran**: Desa tradisional Bali yang sangat kental dengan nuansa budaya, rumah-rumah yang tertata rapi dan jalan berbatu bata penuh dengan nilai kemanusiaan.
 
-> Catatan redaksi: Semua tempat wisata di Ubud di atas sudah dirangkum dalam "[Panduan Lengkap Ubud, Bali: 100 Cara Mendalami Ubud](/blog/ubud-guide/)"
+> Catatan redaksi: Semua tempat wisata di Ubud di atas sudah dirangkum dalam "[Panduan Lengkap Ubud, Bali: 100 Cara Mendalami Ubud](/id/blog/ubud-guide/)"
 
 1. - **Pura Luhur Uluwatu**: Pura yang terletak di atas tebing, tempat sempurna untuk menikmati pemandangan laut yang spektakuler dan matahari terbenam.
 
@@ -133,7 +133,7 @@ https://youtu.be/JtxZHtijEkE
 
 1. - **Pantai Melasti** (Melasti Beach): Pasir putihnya halus, air lautnya jernih banget, tempat ideal buat berjemur dan santai.
 
-> Catatan redaksi: Semua tempat wisata di Uluwatu di atas sudah dirangkum dalam "[50 Rekomendasi Tempat Wisata & Kuliner di Uluwatu](/blog/uluwatu-guide/)"
+> Catatan redaksi: Semua tempat wisata di Uluwatu di atas sudah dirangkum dalam "[50 Rekomendasi Tempat Wisata & Kuliner di Uluwatu](/id/blog/uluwatu-guide/)"
 
 1. - **Pusat Oleh-Oleh Krisna** (Krisna Oleh Oleh Bali Bypass): Toko oleh-oleh terkenal di Bali, tempat yang pas buat beli kado.
 
@@ -149,7 +149,7 @@ https://youtu.be/JtxZHtijEkE
 
 （Dokumentasi Claire Chen）
 
-> Referensi cepat: [Petualangan Bali: Catatan Lengkap Safari Jeep Sunrise Gunung Batur](/blog/batur-volcano-jeep-sunrise-tour/)
+> Referensi cepat: [Petualangan Bali: Catatan Lengkap Safari Jeep Sunrise Gunung Batur](/id/blog/batur-volcano-jeep-sunrise-tour/)
 
 1. - **Tur Sehari Nusa Penida** (Nusa Penida Day Tour): Ada sopir lokal profesional yang nemenin kita eksplor pulau cantik ini. Sopirnya mostly pake bahasa Inggris, tapi komunikasi dasar lancar. Kalau ada kendala, bisa hubungi guide Mandarin Bali, Ani, kapan aja. Sopir di Nusa Penida jago foto juga, jadi bisa bantu dapetin foto liburan yang kece.
 
@@ -177,7 +177,7 @@ https://youtu.be/JtxZHtijEkE
 
 (Dokumentasi Claire Chen)
 
-> Catatan Redaksi: Semua spot di Nusa Penida di atas sudah dirangkum dalam "[Panduan Lengkap Nusa Penida: Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)"
+> Catatan Redaksi: Semua spot di Nusa Penida di atas sudah dirangkum dalam "[Panduan Lengkap Nusa Penida: Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)"
 
 Perjalanan ini menggabungkan esensi alam, pemandangan indah, dan budaya. Baik buat santai, foto-foto, atau merasakan kehidupan lokal, semuanya bisa terpenuhi sesuai kebutuhan.
 
@@ -204,7 +204,7 @@ Ini pertama kalinya aku nulis rekomendasi, khusus buat kalian yang baru pertama 
 
 ## 【Penutup Perjalanan】
 
-Terakhir, yang mau aku rekomendasiin banget adalah tim sewa mobil profesional dan pemandu yang kami temukan lewat grup Facebook [Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo/) di "[Daftar Rekomendasi Sopir Sewa Mobil Bali](/blog/bali-private-car-drivers-guide/)". Mereka bikin perjalanan pertama ke Bali ini terasa super aman dan nyaman.
+Terakhir, yang mau aku rekomendasiin banget adalah tim sewa mobil profesional dan pemandu yang kami temukan lewat grup Facebook [Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo/) di "[Daftar Rekomendasi Sopir Sewa Mobil Bali](/id/blog/bali-private-car-drivers-guide/)". Mereka bikin perjalanan pertama ke Bali ini terasa super aman dan nyaman.
 
 ![【旅程結語】](https://images.gobaligo.id/vocus/vocus_da313eec958216453bae20d6d64fe17c.jpg)
 
@@ -214,9 +214,9 @@ Perjalanan tujuh hari enam malam ini bikin aku bisa bawa keluarga besar tanpa kh
 
 ## **Panduan Liburan ke Bali Bareng Orang Tua:**
 
-- Episode 1: [Panduan Liburan ke Bali untuk Lansia - Aman, Nyaman & Tips Penting](/blog/bali-elderly-travel-guide/)
-- Episode 2: [Rekomendasi Tempat Wisata Bali yang Ramah Lansia](/blog/bali-senior-friendly-travel-guide/)
-- Episode 3: [Tingkah Orang Tua yang Bikin Geleng-Geleng!? Bawa Mereka ke Luar Negeri, Siap-siap 'Capek Hati'](/blog/traveling-with-elderly-parents-tips/)
+- Episode 1: [Panduan Liburan ke Bali untuk Lansia - Aman, Nyaman & Tips Penting](/id/blog/bali-elderly-travel-guide/)
+- Episode 2: [Rekomendasi Tempat Wisata Bali yang Ramah Lansia](/id/blog/bali-senior-friendly-travel-guide/)
+- Episode 3: [Tingkah Orang Tua yang Bikin Geleng-Geleng!? Bawa Mereka ke Luar Negeri, Siap-siap 'Capek Hati'](/id/blog/traveling-with-elderly-parents-tips/)
 
 Menurut kamu perjalanan Claire Chen seru banget? Yuk, segera atur liburan bebasmu ke Bali! Jangan lupa kirim juga itinerary kamu ke grup ya!
 
@@ -224,6 +224,6 @@ Menurut kamu perjalanan Claire Chen seru banget? Yuk, segera atur liburan bebasm
 
 Klik di sini buat lihat lebih banyak cerita seru dari Bali
 
-Kamu juga pengen bikin cerita perjalanan tapi bingung mulai dari mana? Coba deh cek panduan 「[Cara bikin cerita perjalanan Bali yang keren](/blog/how-to-write-bali-travelogue/)」, biar cerita kamu makin kece!
+Kamu juga pengen bikin cerita perjalanan tapi bingung mulai dari mana? Coba deh cek panduan 「[Cara bikin cerita perjalanan Bali yang keren](/id/blog/how-to-write-bali-travelogue/)」, biar cerita kamu makin kece!
 
 {{block:攻略}}

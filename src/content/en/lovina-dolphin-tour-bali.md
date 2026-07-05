@@ -73,6 +73,6 @@ Finally, Bingbing and Jingjing will head to their next stop, Munduk, which is sa
 
 https://youtu.be/zSw8SRB3Sn8?si=HwQTRID8kIkM4PvI
 
-For those interested in North Bali itineraries, please continue reading: [Bali Travel Tips: 15 Tips for Traveling to North Bali](/blog/north-bali-travel-guide/)
+For those interested in North Bali itineraries, please continue reading: [Bali Travel Tips: 15 Tips for Traveling to North Bali](/en/blog/north-bali-travel-guide/)
 
 {{block:戶外}}

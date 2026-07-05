@@ -79,11 +79,11 @@ Cara ini cocok banget buat:
 
 Kami punya lima seri tentang Nusa Penida, yuk kenali lebih dalam surga pulau ini! Ini link-nya:
 
-1. [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)
-2. [Kuliner & Laut Biru di Nusa Penida: 9 Pilihan Terbaik](/blog/nusa-penida-best-restaurants/)
-3. [Spot Snorkeling di Nusa Penida, Gimana Cara Ikut?](/blog/nusa-penida-snorkeling-guide/)
-4. [Panduan Transportasi Nusa Penida: Taksi, Gojek/Grab, Sewa Mobil, Motor](/blog/nusa-penida-transport-guide/)
-5. [13 Akomodasi Nusa Penida dari Mewah sampai Budget](/blog/nusa-penida-hotels-guide/)
+1. [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)
+2. [Kuliner & Laut Biru di Nusa Penida: 9 Pilihan Terbaik](/id/blog/nusa-penida-best-restaurants/)
+3. [Spot Snorkeling di Nusa Penida, Gimana Cara Ikut?](/id/blog/nusa-penida-snorkeling-guide/)
+4. [Panduan Transportasi Nusa Penida: Taksi, Gojek/Grab, Sewa Mobil, Motor](/id/blog/nusa-penida-transport-guide/)
+5. [13 Akomodasi Nusa Penida dari Mewah sampai Budget](/id/blog/nusa-penida-hotels-guide/)
 
 ![佩尼達島完整攻略](https://images.gobaligo.id/vocus/vocus_0cb95fce009e6a0b11e1c5639d83ec4d.jpg)
 
@@ -103,7 +103,7 @@ Tergantung itinerary dan jumlah orang, rata-rata tur sehari sekitar USD$50–70,
 
 Bisa banget! Di sana ada beberapa homestay dan resort unik. Tapi saran sih, booking jauh-jauh hari biar dapat kamar.
 
-Cek juga: Rekomendasi penginapan di Nusa Penida: [13 Akomodasi Nusa Penida dari Mewah sampai Budget](/blog/nusa-penida-hotels-guide/)
+Cek juga: Rekomendasi penginapan di Nusa Penida: [13 Akomodasi Nusa Penida dari Mewah sampai Budget](/id/blog/nusa-penida-hotels-guide/)
 
 ### 4. Apakah supirnya bisa bahasa Mandarin?
 
@@ -135,4 +135,4 @@ Kalau kamu berencana ke Nusa Penida, mending langsung atur semuanya lewat **supi
 
 👈 **Kembali ke Panduan Lengkap Liburan Mandiri ke Bali**
 
-Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.
+Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.

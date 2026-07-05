@@ -146,8 +146,8 @@ Julia Roberts主演嘅「Eat, Pray, Love」喺烏布藝術市場取景
 
 ![「烏布完整攻略」涵蓋了烏布景點、美食、玩樂、住宿](https://images.gobaligo.id/vocus/vocus_aee38149f182eafd547c2e59a2e0acfa.jpg)
 
-[「烏布完整攻略」涵蓋咗烏布景點、美食、玩樂、住宿](/blog/ubud-guide/)
+[「烏布完整攻略」涵蓋咗烏布景點、美食、玩樂、住宿](/zh-hk/blog/ubud-guide/)
 
-想更加了解烏布，一定要睇吓我哋收集咗100個食玩買介紹嘅「[烏布完整攻略](/blog/ubud-guide/)」。呢份指南涵蓋咗由文化體驗到美食探索嘅所有精華，等您嘅烏布之旅更加豐富精彩。
+想更加了解烏布，一定要睇吓我哋收集咗100個食玩買介紹嘅「[烏布完整攻略](/zh-hk/blog/ubud-guide/)」。呢份指南涵蓋咗由文化體驗到美食探索嘅所有精華，等您嘅烏布之旅更加豐富精彩。
 
 {{block:klook}}

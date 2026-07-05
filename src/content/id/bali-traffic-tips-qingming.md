@@ -26,7 +26,7 @@ _srcHash: aad6c8100db5e4dd4fefcba72ba6bcfe
 
 **Referensi Cepat:**
 
-[靜居日是什麼？有什麼特別要注意的事項？](/blog/2025-bali-nyepi-day-guide/)
+[靜居日是什麼？有什麼特別要注意的事項？](/id/blog/2025-bali-nyepi-day-guide/)
 
 根據往年的經驗，預計Bali在3/24開始就會開始湧入各地的印尼當地人，到處塞滿印尼人，持續大約兩個禮拜。這是**Bali五大旺季之中的第一旺季**，這是一個建議你要避開，不要去Bali的假期！
 
@@ -44,7 +44,7 @@ Kalau kamu pegang paspor Taiwan, bisa pakai visa on arrival (VOA) dengan biaya 5
 
 Buat yang mau apply e-visa, usahakan dari jauh-jauh hari! Soalnya pas libur Lebaran yang panjangnya sekitar 9 hari, Imigrasi Indonesia biasanya tutup layanan online e-visa. Soalnya kantor pemerintah juga libur panjang, jadinya semua orang cuma bisa VOA, antriannya bisa panjang banget! Yang udah punya e-visa sih aman, tetap bisa lewat autogate dengan mulus.
 
-（Soal e-visa, autogate super cepat, pajak turis, dll. bisa cek: [Proses Masuk Bali 2024 Paham dalam 1 Menit: Turun Pesawat / Imigrasi / Ambil Bagasi](/blog/2025-bali-immigration-process/)）
+（Soal e-visa, autogate super cepat, pajak turis, dll. bisa cek: [Proses Masuk Bali 2024 Paham dalam 1 Menit: Turun Pesawat / Imigrasi / Ambil Bagasi](/id/blog/2025-bali-immigration-process/)）
 
 ## Transportasi
 
@@ -68,23 +68,23 @@ Ini dia beberapa tips khusus soal lalu lintas Bali di periode spesial ini:
 
 **Pilih Sewa Mobil Pribadi**
 
-> Transportasi terbaik di Bali adalah sewa mobil pribadi. Soal ini bisa lihat di 「[Panduan Lengkap Sewa Mobil Pribadi di Bali - Biaya, Cara Booking, Kelebihan](/blog/bali-private-car-hire-guide/)」
+> Transportasi terbaik di Bali adalah sewa mobil pribadi. Soal ini bisa lihat di 「[Panduan Lengkap Sewa Mobil Pribadi di Bali - Biaya, Cara Booking, Kelebihan](/id/blog/bali-private-car-hire-guide/)」
 
 **Pilih Wisata Area Kecil**
 
 > Selama periode Qingming-Lebaran, banyak tempat wisata terkenal di Bali macet parah. Saran: **bergerak di area kecil** biar liburan nggak habis di jalan. Cek area-area ini:
 
-- [100 Tempat Wisata di Seminyak, Bali](/blog/seminyak-guide/)
-- [50 Tempat Wajib Kunjung di Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [80 Tempat Wajib Kunjung di Canggu](/blog/canggu-guide/)
-- [100 Cara Eksplorasi Ubud](/blog/ubud-guide/)
-- [Panduan Jimbaran](/blog/jimbaran-guide/)
-- [Panduan Uluwatu](/blog/uluwatu-guide/)
-- [Panduan Petualangan Semenanjung Bukit](/blog/bukit-peninsula-guide/)
-- [45 Aktivitas Makan-Minum di Sanur](/blog/sanur-guide/)
-- [40 Panduan Akomodasi, Makan, dan Aktivitas di Nusa Dua](/blog/nusa-dua-guide/)
-- [Panduan Lengkap Makan-Minum di Nusa Penida](/blog/nusa-penida-guide/)
-- [Panduan Lengkap Tempat Wisata di Nusa Lembongan / Ceningan](/blog/nusa-lembongan-ceningan-guide/)
+- [100 Tempat Wisata di Seminyak, Bali](/id/blog/seminyak-guide/)
+- [50 Tempat Wajib Kunjung di Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [80 Tempat Wajib Kunjung di Canggu](/id/blog/canggu-guide/)
+- [100 Cara Eksplorasi Ubud](/id/blog/ubud-guide/)
+- [Panduan Jimbaran](/id/blog/jimbaran-guide/)
+- [Panduan Uluwatu](/id/blog/uluwatu-guide/)
+- [Panduan Petualangan Semenanjung Bukit](/id/blog/bukit-peninsula-guide/)
+- [45 Aktivitas Makan-Minum di Sanur](/id/blog/sanur-guide/)
+- [40 Panduan Akomodasi, Makan, dan Aktivitas di Nusa Dua](/id/blog/nusa-dua-guide/)
+- [Panduan Lengkap Makan-Minum di Nusa Penida](/id/blog/nusa-penida-guide/)
+- [Panduan Lengkap Tempat Wisata di Nusa Lembongan / Ceningan](/id/blog/nusa-lembongan-ceningan-guide/)
 
 ![部分知名景點最好放棄，免得把假期浪費在塞車上](https://images.gobaligo.id/vocus/vocus_a3bb9312579d287a186d81246be96731.png)
 
@@ -92,7 +92,7 @@ Sebaiknya hindari beberapa tempat wisata terkenal, biar liburan nggak habis di k
 
 ## **Waspada Musim Hujan**
 
-Qingming-Lebaran jatuh di akhir musim hujan Bali. Kadang nggak hujan, kadang bisa hujan berhari-hari. Kalau liburan ke Bali di musim hujan, wajib punya rencana cadangan kalau tiba-tiba hujan. Cek: [Musim Hujan di Bali: Apa yang Harus Dilakukan Saat Hujan? 60 Rencana Cadangan Aktivitas Indoor di Bali](/blog/2026-bali-indoor-activities/)
+Qingming-Lebaran jatuh di akhir musim hujan Bali. Kadang nggak hujan, kadang bisa hujan berhari-hari. Kalau liburan ke Bali di musim hujan, wajib punya rencana cadangan kalau tiba-tiba hujan. Cek: [Musim Hujan di Bali: Apa yang Harus Dilakukan Saat Hujan? 60 Rencana Cadangan Aktivitas Indoor di Bali](/id/blog/2026-bali-indoor-activities/)
 
 ## Panduan Liburan Keluarga Biar Semua Happy
 
@@ -100,30 +100,30 @@ Saat liburan panjang, banyak keluarga memilih liburan ke Bali bareng keluarga. P
 
 Buat orang tua di keluarga, Bali punya banyak tempat santai dan nyaman, kayak pantai indah, spa, dan pemandangan sawah yang cantik. Tempat-tempat ini bikin orang tua bisa nikmatin ketenangan, sekaligus ikut kegiatan budaya lokal dan belajar tradisi unik Bali. Biar orang tua nyaman, persiapan sebelum jalan wajib banget! Cek ini:
 
-- Episode 1: [Panduan Liburan Bali untuk Lansia - Aman, Nyaman & Tips Penting](/blog/bali-elderly-travel-guide/)
-- Episode 2: [Rekomendasi Tempat Wisata Bali yang Ramah Lansia](/blog/bali-senior-friendly-travel-guide/)
-- Episode 3: [Tingkah Orang Tua Bikin Geleng-Geleng!? Bawa Mereka Liburan ke Luar Negeri, Siap-siap 'Capek Hati'](/blog/traveling-with-elderly-parents-tips/)
+- Episode 1: [Panduan Liburan Bali untuk Lansia - Aman, Nyaman & Tips Penting](/id/blog/bali-elderly-travel-guide/)
+- Episode 2: [Rekomendasi Tempat Wisata Bali yang Ramah Lansia](/id/blog/bali-senior-friendly-travel-guide/)
+- Episode 3: [Tingkah Orang Tua Bikin Geleng-Geleng!? Bawa Mereka Liburan ke Luar Negeri, Siap-siap 'Capek Hati'](/id/blog/traveling-with-elderly-parents-tips/)
 
 Buat anak-anak, Bali kasih kesempatan liburan yang seru. Aktivitas outdoor, kebun binatang, dan eksplorasi sejarah bisa penasaran mereka. Tips dan panduan liburan keluarga:
 
-- [Daftar Tempat Ramah Keluarga di Bali | Lebih dari 100 Aktivitas Seru untuk Keluarga](/blog/bali-family-travel-guide/)
-- [20 Hal Penting Liburan Keluarga ke Bali Bareng Anak](/blog/bali-family-travel-tips/)
-- [Liburan Keluarga di Bali: Tips Bawa Bayi, Balita, dan Anak Usia Sekolah](/blog/bali-family-travel-guide-2/)
-- [Panduan Cari Pengasuh Anak di Bali: Cara Cari yang Cocok & Biaya](/blog/bali-nanny-hiring-guide/)
-- [Bawa Bayi ke Bali: Hal yang Perlu Diperhatikan soal Makanan Pendamping Daging Babi & Ayam](/blog/baby-food-bali-tips/)
-- [15 Resor Keluarga dengan Seluncuran Air Terbaik di Bali TOP 15](/blog/bali-family-resorts-water-slides/)
-- [14 Resor Keluarga Terbaik di Bali | Pilihan Terbaik buat Liburan Keluarga di Kuta, Seminyak, Canggu, Jimbaran, Uluwatu](/blog/bali-family-resorts-kids-club/)
-- [54 Aktivitas Keluarga di Ubud Paling Santai Bareng Anak!](/blog/ubud-with-kids-guide/)
-- [Pantai Terbaik buat Liburan Keluarga di Bali: Peta Panduan Sanur | 45 Aktivitas Makan-Minum](/blog/sanur-guide/)
-- [Panduan Liburan Sehari Keluarga di Bali: Eksplorasi Taman Safari & Flamingo Beach Club](/blog/bali-family-day-safari-flamingo/)
-- [Liburan Keluarga di Bali Wajib Coba: Cara Main & Nginep di Bali Safari](/blog/bali-safari-night-stay/)
-- [Baru Buka 2025](/blog/marine-safari-bali-guide/) [Panduan Marine Safari Bali](/blog/marine-safari-bali-guide/)
-- [Piknik Bareng Alpaka: Kelas Alam buat Anak](/blog/pacha-alpaca-family-canggu/)
-- [Taman Ajaib di Nuanu Creative City](/blog/nuanu-magic-garden-bali/)
-- [Jungle Kids Bali | Kids Club di Nuanu: Tempat Bermain & Belajar Terbaik buat Anak](/blog/jungle-kids-bali-nuanu-playground/)
-- [Panduan Liburan Keluarga di Bali - Bagian Seminyak](/blog/seminyak-family-travel-2026/)
-- [Panduan Liburan Keluarga di Bali - Bagian Ubud](/blog/ubud-family-travel-2026/)
-- [Panduan Liburan Keluarga di Bali - Bagian Sanur](/blog/sanur-family-travel-guide-2/)
+- [Daftar Tempat Ramah Keluarga di Bali | Lebih dari 100 Aktivitas Seru untuk Keluarga](/id/blog/bali-family-travel-guide/)
+- [20 Hal Penting Liburan Keluarga ke Bali Bareng Anak](/id/blog/bali-family-travel-tips/)
+- [Liburan Keluarga di Bali: Tips Bawa Bayi, Balita, dan Anak Usia Sekolah](/id/blog/bali-family-travel-guide-2/)
+- [Panduan Cari Pengasuh Anak di Bali: Cara Cari yang Cocok & Biaya](/id/blog/bali-nanny-hiring-guide/)
+- [Bawa Bayi ke Bali: Hal yang Perlu Diperhatikan soal Makanan Pendamping Daging Babi & Ayam](/id/blog/baby-food-bali-tips/)
+- [15 Resor Keluarga dengan Seluncuran Air Terbaik di Bali TOP 15](/id/blog/bali-family-resorts-water-slides/)
+- [14 Resor Keluarga Terbaik di Bali | Pilihan Terbaik buat Liburan Keluarga di Kuta, Seminyak, Canggu, Jimbaran, Uluwatu](/id/blog/bali-family-resorts-kids-club/)
+- [54 Aktivitas Keluarga di Ubud Paling Santai Bareng Anak!](/id/blog/ubud-with-kids-guide/)
+- [Pantai Terbaik buat Liburan Keluarga di Bali: Peta Panduan Sanur | 45 Aktivitas Makan-Minum](/id/blog/sanur-guide/)
+- [Panduan Liburan Sehari Keluarga di Bali: Eksplorasi Taman Safari & Flamingo Beach Club](/id/blog/bali-family-day-safari-flamingo/)
+- [Liburan Keluarga di Bali Wajib Coba: Cara Main & Nginep di Bali Safari](/id/blog/bali-safari-night-stay/)
+- [Baru Buka 2025](/id/blog/marine-safari-bali-guide/) [Panduan Marine Safari Bali](/id/blog/marine-safari-bali-guide/)
+- [Piknik Bareng Alpaka: Kelas Alam buat Anak](/id/blog/pacha-alpaca-family-canggu/)
+- [Taman Ajaib di Nuanu Creative City](/id/blog/nuanu-magic-garden-bali/)
+- [Jungle Kids Bali | Kids Club di Nuanu: Tempat Bermain & Belajar Terbaik buat Anak](/id/blog/jungle-kids-bali-nuanu-playground/)
+- [Panduan Liburan Keluarga di Bali - Bagian Seminyak](/id/blog/seminyak-family-travel-2026/)
+- [Panduan Liburan Keluarga di Bali - Bagian Ubud](/id/blog/ubud-family-travel-2026/)
+- [Panduan Liburan Keluarga di Bali - Bagian Sanur](/id/blog/sanur-family-travel-guide-2/)
 - Kolom Liburan Keluarga di Bali
 
 ![Panduan Liburan Keluarga Biar Semua Happy](https://images.gobaligo.id/vocus/vocus_02b21980932dcbfaf9c9146ef6bf887b.png)
@@ -136,7 +136,7 @@ Terakhir, kami doain kamu dan keluarga punya liburan panjang yang hangat, seru, 
 
 **Referensi Cepat:**
 
-- [Tips Liburan ke Bali: 31 Hal Wajib Tahu Sebelum Pertama Kali ke Bali](/blog/bali-ultimate-guide-2026/)
-- [Panduan Anti Zonk di Bali: 18 Kesalahan Umum & Saran](/blog/bali-travel-mistakes-tips/)
-- [【Wajib Tahu Bali】41 Pertanyaan Super Canggung yang Diam-diam Dicari 99% Turis!](/blog/bali-travel-faqs-guide/)
-- [【Main Gini Malah Nggak Macet!】Kitab Suci Rencana Liburan Mandiri ke Bali](/blog/bali-free-travel-guide/)
+- [Tips Liburan ke Bali: 31 Hal Wajib Tahu Sebelum Pertama Kali ke Bali](/id/blog/bali-ultimate-guide-2026/)
+- [Panduan Anti Zonk di Bali: 18 Kesalahan Umum & Saran](/id/blog/bali-travel-mistakes-tips/)
+- [【Wajib Tahu Bali】41 Pertanyaan Super Canggung yang Diam-diam Dicari 99% Turis!](/id/blog/bali-travel-faqs-guide/)
+- [【Main Gini Malah Nggak Macet!】Kitab Suci Rencana Liburan Mandiri ke Bali](/id/blog/bali-free-travel-guide/)

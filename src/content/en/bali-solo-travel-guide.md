@@ -154,7 +154,7 @@ Bali will gently show you: being alone can also feel complete.
 
 ![7. Final Reminder: Slow Down](https://images.gobaligo.id/images/2026-04/1775353631404-10819a3acdc4d57f5f5a684e1dfea4ed.jpg)
 
-> Solo travel diary reference: [🌺 8 Days Solo Adventure in Bali - A Female Solo Travel Experience 🌺](/blog/bali-solo-female-travel/)
+> Solo travel diary reference: [🌺 8 Days Solo Adventure in Bali - A Female Solo Travel Experience 🌺](/en/blog/bali-solo-female-travel/)
 
 ***
 

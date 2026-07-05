@@ -77,7 +77,7 @@ To ensure a smooth Rock Bar experience, here’s the latest reservation policy a
 
 This time slot is exclusively reserved for **guests** staying at Ayana Resort properties, including Ayana Resort Bali, Ayana Villas Bali, Ayana Segara Bali, or RIMBA by Ayana Bali. If you’re staying at any of these hotels, you can make reservations through the resort’s app ([Android](https://play.google.com/store/apps/details?id=com.ayanahospitality.app&pcampaignid=web_share) | [iOS](https://apps.apple.com/id/app/ayana-hotels-resorts/id6478279462?platform=iphone)).
 
-> Need help choosing Ayana accommodations? Check out the [Ayana Accommodation Guide](/blog/ayana-resort-bali-guide/).
+> Need help choosing Ayana accommodations? Check out the [Ayana Accommodation Guide](/en/blog/ayana-resort-bali-guide/).
 
 **Walk-ins Only**:
 
@@ -125,7 +125,7 @@ For any questions or to learn more, please visit the [Rock Bar reservation websi
 
 ## Staying at Ayana Bali
 
-Staying at **Ayana Bali** is the ideal choice for experiencing Bali's top luxury resort. Ayana features four distinct accommodation areas, each with its own unique charm to suit different traveler needs. If you're unsure how to choose, check out our [**Ayana Accommodation Guide**](/blog/ayana-resort-bali-guide/)
+Staying at **Ayana Bali** is the ideal choice for experiencing Bali's top luxury resort. Ayana features four distinct accommodation areas, each with its own unique charm to suit different traveler needs. If you're unsure how to choose, check out our [**Ayana Accommodation Guide**](/en/blog/ayana-resort-bali-guide/)
 
 ## Conclusion 🌴
 
@@ -135,4 +135,4 @@ Jimbaran's Rock Bar is a must-visit romantic spot in Bali. Whether you're watchi
 
 ## Bonus:
 
-[More Chill Than Rock Bar! Experience 360-Degree Sunset Views at Luna Rooftop Bar in Bali's Ayana Resort](/blog/ayana-luna-rooftop-bar-sunset/)
+[More Chill Than Rock Bar! Experience 360-Degree Sunset Views at Luna Rooftop Bar in Bali's Ayana Resort](/en/blog/ayana-luna-rooftop-bar-sunset/)

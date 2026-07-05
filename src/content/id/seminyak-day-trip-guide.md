@@ -51,7 +51,7 @@ Banyaknya pilihan belanja dan butik-butik yang tersebar di gang-gang Seminyak ja
 
 Gak ada yang lebih seru daripada sewa motor buat eksplorasi — nemuin pantai sepi, jelajahi gang-gang kecil, mampir ke kafe kece dan pura yang megah. Dari Seminyak, kamu bisa gampang ke utara ke Canggu atau ke selatan sedikit ke Kuta, Legian buat petualangan.
 
-Tapi sewa motor juga punya risiko dan ketidakpastian yang gak main-main (cek [di sini](/blog/bali-motorbike-safety-guide/)). Sebelum nyoba, siapin mental: "lalu lintas gak kayak yang kamu bayangin", "kecelakaan bisa bikin biaya medis gila-gilaan", "kena tilang polisi susah jelasinnya"! Untungnya, berkat teknologi, sekarang di Bali buat perjalanan pendek, pake aplikasi ojek online jelas pilihan yang lebih oke! Lewat aplikasi ini, kamu bisa gampang panggil motor, selain hemat waktu dan tenaga, juga bisa hindari macet dan repot cari parkir. Tinggal beberapa klik, langsung pesan driver motor terdekat, bikin kamu cepet sampai tujuan, nikmatin liburan lebih maksimal. Mau jelajahi gang kecil atau pergi ke pusat perbelanjaan yang rame, aplikasi ojek online bikin liburan Bali kamu makin praktis dan asyik. Cek "[Panggil Motor Lewat Aplikasi, Hemat Waktu dan Tenaga!](/blog/bali-travel-app-motorcycle-taxi/)"
+Tapi sewa motor juga punya risiko dan ketidakpastian yang gak main-main (cek [di sini](/id/blog/bali-motorbike-safety-guide/)). Sebelum nyoba, siapin mental: "lalu lintas gak kayak yang kamu bayangin", "kecelakaan bisa bikin biaya medis gila-gilaan", "kena tilang polisi susah jelasinnya"! Untungnya, berkat teknologi, sekarang di Bali buat perjalanan pendek, pake aplikasi ojek online jelas pilihan yang lebih oke! Lewat aplikasi ini, kamu bisa gampang panggil motor, selain hemat waktu dan tenaga, juga bisa hindari macet dan repot cari parkir. Tinggal beberapa klik, langsung pesan driver motor terdekat, bikin kamu cepet sampai tujuan, nikmatin liburan lebih maksimal. Mau jelajahi gang kecil atau pergi ke pusat perbelanjaan yang rame, aplikasi ojek online bikin liburan Bali kamu makin praktis dan asyik. Cek "[Panggil Motor Lewat Aplikasi, Hemat Waktu dan Tenaga!](/id/blog/bali-travel-app-motorcycle-taxi/)"
 
 ## Kunjungi Pura
 
@@ -108,7 +108,7 @@ https://youtube.com/shorts/wai2lSW3vVU
 - [Reservasi Daybed di Ku De Ta](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1004610&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F135291-kudeta-beach-club-in-seminyak-bali%2F)
 - [SugarSand: Restoran dengan Kolam Renang](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1004610&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F61915-sugarsand-bali%2F)
 
-> Baca Juga: [20 Beach Club di Bali dengan Tiket Masuk Gratis — Nikmati Bikini, Musik, Kolam Renang, dan Sunset](/blog/bali-beach-clubs-free-entry-list/)
+> Baca Juga: [20 Beach Club di Bali dengan Tiket Masuk Gratis — Nikmati Bikini, Musik, Kolam Renang, dan Sunset](/id/blog/bali-beach-clubs-free-entry-list/)
 
 ## Makan Iga Babi yang Enak Banget
 
@@ -138,7 +138,7 @@ Hidup di Seminyak nggak cuma soal relaksasi atau pesta. Saat traveling bareng pa
 
 ## Cari Lebih Banyak Seru-Seruan?
 
-Kumpulan lengkap tempat wisata, kuliner, dan klub malam di Seminyak ada di sini: [Peta Wajib Kunjungi Seminyak Bali: 100+ Tempat Makan, Main, dan Hangout](/blog/seminyak-guide/)
+Kumpulan lengkap tempat wisata, kuliner, dan klub malam di Seminyak ada di sini: [Peta Wajib Kunjungi Seminyak Bali: 100+ Tempat Makan, Main, dan Hangout](/id/blog/seminyak-guide/)
 
 {{block:攻略}}
 
@@ -146,4 +146,4 @@ Kumpulan lengkap tempat wisata, kuliner, dan klub malam di Seminyak ada di sini:
 
 👈 **Kembali ke Panduan Utama Liburan Mandiri ke Bali**
 
-Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 「Panduan Utama Liburan Mandiri ke Bali 2026」](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres!
+Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 「Panduan Utama Liburan Mandiri ke Bali 2026」](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres!

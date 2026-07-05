@@ -99,7 +99,7 @@ Waterproof bags might be a bit pricey, but compared to ruining your passport or 
 
 Another option is, **if you have a trusted ATV driver or guide, you can also entrust your passport and most of your cash to them**. Drivers with high ratings and trustworthiness in the community are usually more than willing to help, allowing you to fully immerse yourself in the activities without worrying about the safety of your belongings. This method is particularly suitable for group activities or when you have a familiar driver.
 
-> [【2026 Bali Private Car Driver Recommendations】Community-Rated Driver Hall of Fame: Honest Reviews and Booking Guide](/blog/bali-private-car-drivers-guide/)
+> [【2026 Bali Private Car Driver Recommendations】Community-Rated Driver Hall of Fame: Honest Reviews and Booking Guide](/en/blog/bali-private-car-drivers-guide/)
 
 Most importantly: **Use the right tools or find the right people to ensure you can safely enjoy every moment of adventure**. Next time you visit Bali, don't forget to prepare a waterproof bag or ask your driver in advance if they can keep your belongings for you, so you can fully enjoy your experience.
 

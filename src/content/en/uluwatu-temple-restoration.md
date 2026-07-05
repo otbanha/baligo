@@ -115,16 +115,16 @@ Reports indicate that some limestone was **directly dumped into the ocean**. The
 
 ### **5. Why is Uluwatu Temple a must-visit destination?**
 
-For further details about Uluwatu Temple, including must-see highlights and travel tips, please refer to [here](/blog/uluwatu-temple-travel-guide/).
+For further details about Uluwatu Temple, including must-see highlights and travel tips, please refer to [here](/en/blog/uluwatu-temple-travel-guide/).
 
 ## More Uluwatu Dining and Entertainment Guide
 
 ![More Uluwatu Dining and Entertainment Guide](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
-[Uluwatu Dining and Entertainment Recommendations](/blog/uluwatu-guide/)
+[Uluwatu Dining and Entertainment Recommendations](/en/blog/uluwatu-guide/)
 
 Uluwatu is one of the most popular areas in southern Bali, renowned for its stunning cliff views, enchanting beaches, and excellent surf spots. This region exudes a romantic tropical vacation vibe, making it the perfect choice for enjoying sunset views and relaxing moments.
 
-If you're also considering staying in Uluwatu, check out our carefully curated dining and entertainment guide below to make your trip even more enriching and fun: [【Uluwatu Guide】Uluwatu Attractions & Recommendations](/blog/uluwatu-guide/)
+If you're also considering staying in Uluwatu, check out our carefully curated dining and entertainment guide below to make your trip even more enriching and fun: [【Uluwatu Guide】Uluwatu Attractions & Recommendations](/en/blog/uluwatu-guide/)
 
 ###

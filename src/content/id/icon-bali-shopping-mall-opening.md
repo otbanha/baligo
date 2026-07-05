@@ -63,7 +63,7 @@ Di dalam mal bakal ada banyak kafe, restoran, dan tempat makan tepi pantai yang 
 
 Kenalan Sama Sanur dalam 3 Menit
 
-Baca Juga: [Peta Panduan Sanur｜45 Rekomendasi Makan, Main, SPA, dan Penginapan!](/blog/sanur-guide/)
+Baca Juga: [Peta Panduan Sanur｜45 Rekomendasi Makan, Main, SPA, dan Penginapan!](/id/blog/sanur-guide/)
 
 ## Kesimpulan
 
@@ -73,4 +73,4 @@ Pembukaan ICON Bali bakal kasih pengalaman belanja dan hiburan baru di Bali, sek
 
 Sebelum baca **「Panduan Liburan Mandiri Bali Paling Lengkap」**, kami ajak kamu subscribe dulu channel YouTube **「Xiao Jie Indonesia」** yang penuh konten visual seru. [Klik di sini](http://bit.ly/youtube-jason) buat subscribe sekarang!
 
-Setelah subscribe, langsung lanjut baca panduan lengkap kami dan eksplor setiap sudut keren Bali. Klik **「**[**Panduan Liburan Mandiri Bali Paling Lengkap**](/blog/2023-08-22-64e37f2dfd89780001b1f776/)**」** buat mulai rencanain liburanmu ke Bali!
+Setelah subscribe, langsung lanjut baca panduan lengkap kami dan eksplor setiap sudut keren Bali. Klik **「**[**Panduan Liburan Mandiri Bali Paling Lengkap**](/id/blog/2023-08-22-64e37f2dfd89780001b1f776/)**」** buat mulai rencanain liburanmu ke Bali!

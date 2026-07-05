@@ -116,7 +116,7 @@ Pura Uluwatu bukan cuma tempat yang indah, tapi juga pesta untuk indra, dengan p
 2. **Perbandingan Spot Sunset Lain di Bali**
    Walaupun Bali punya banyak spot sunset keren, Pura Uluwatu beda banget karena vibes-nya yang unik. Bedanya sama Tanah Lot yang ada di atas batu karang di pinggir pantai, posisi tebing Uluwatu nambahin kesan dramatis ke pengalaman nonton sunset.
 
-> Referensi cepat: [【Panduan Waktu Sunset Terbaik di Bali】Tujuh Spot Nonton Sunset di Bali, Udah Berapa yang Kamu Kunjungi?](/blog/bali-sunset-spots-guide/)
+> Referensi cepat: [【Panduan Waktu Sunset Terbaik di Bali】Tujuh Spot Nonton Sunset di Bali, Udah Berapa yang Kamu Kunjungi?](/id/blog/bali-sunset-spots-guide/)
 
 ![Pemandangan dan Arsitektur Unik Pura Uluwatu](https://images.gobaligo.id/vocus/vocus_83bd89800dff26aa55bcb32163b06b3b.jpg)
 
@@ -154,9 +154,9 @@ Pura Uluwatu bukan cuma tempat yang indah, tapi juga pesta untuk indra, dengan p
 
 ![蘇魯班海灘的介紹請點擊這裡！](https://images.gobaligo.id/vocus/vocus_1f543921995ff41fd729e05772f35ee4.jpg)
 
-[Klik di sini untuk info Pantai Suluban!](/blog/suluban-beach-hidden-gem/)
+[Klik di sini untuk info Pantai Suluban!](/id/blog/suluban-beach-hidden-gem/)
 
-Kalau kamu sudah sampai di Bali selatan, mampir juga ke tempat-tempat ini: **Garuda Wisnu Kencana (GWK), Pantai Suluban, Pantai Pandawa, Oneeighty Dayclub, dll. Info lengkapnya cek di** [Panduan Petualangan Bukit Peninsula](/blog/bukit-peninsula-guide/)
+Kalau kamu sudah sampai di Bali selatan, mampir juga ke tempat-tempat ini: **Garuda Wisnu Kencana (GWK), Pantai Suluban, Pantai Pandawa, Oneeighty Dayclub, dll. Info lengkapnya cek di** [Panduan Petualangan Bukit Peninsula](/id/blog/bukit-peninsula-guide/)
 
 ***
 
@@ -208,10 +208,10 @@ Banyak orang datang khusus buat lihat sunset, jadi sore hari lumayan ramai. Kala
 
 **8. Gimana cara atur itinerary ke Pura Uluwatu di Bali?**
 
-Ratusan spot di sekitar sini, **semua udah kami kumpulin di** [Panduan Petualangan Semenanjung Bukit](/blog/bukit-peninsula-guide/)
+Ratusan spot di sekitar sini, **semua udah kami kumpulin di** [Panduan Petualangan Semenanjung Bukit](/id/blog/bukit-peninsula-guide/)
 
 ![武吉半島攻略指南請點我](https://images.gobaligo.id/vocus/vocus_c0550a000561d9e7a5ab19d076dfcba5.jpg)
 
-[Panduan Lengkap Semenanjung Bukit — Klik di sini](/blog/bukit-peninsula-guide/)
+[Panduan Lengkap Semenanjung Bukit — Klik di sini](/id/blog/bukit-peninsula-guide/)
 
 {{block:uluwatu}}

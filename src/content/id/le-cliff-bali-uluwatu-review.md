@@ -121,7 +121,7 @@ Uluwatu nggak cocok buat semua orang. Tapi kalau kamu tipe orang yang nggak taku
 
 Info lengkap soal penginapan:
 
-> [【Uluwatu Accommodation】Le Cliff Bali Panduan Lengkap: Romantisme Ekstrim di Pinggir Tebing Uluwatu, Tidur dengan Suara Ombak](/blog/le-cliff-bali/)
+> [【Uluwatu Accommodation】Le Cliff Bali Panduan Lengkap: Romantisme Ekstrim di Pinggir Tebing Uluwatu, Tidur dengan Suara Ombak](/id/blog/le-cliff-bali/)
 
 {{block:遊記}}
 

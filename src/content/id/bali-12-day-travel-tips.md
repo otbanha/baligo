@@ -33,13 +33,13 @@ Awal Agustus kemarin, kita jalan-jalan ke Bali selama 12 hari. Perjalanan ini pe
 
 Karena Agustus sampai September itu musim ramai di Bali, antrean di konter visa on arrival dan imigrasi biasanya bisa 2-3 jam lebih. Untungnya, kita udah apply visa elektronik (EVoA) dari jauh-jauh hari, dan pakai gerbang otomatis, jadi proses imigrasinya lancar banget. Dari turun pesawat sampai ambil koper dan masuk hall kedatangan cuma butuh 7-8 menit. Saran gue, kalau bisa, mending apply visa elektronik dulu, bakal hemat banyak waktu.
 
-> Baca juga: [【2026版】Prosedur Masuk Bali Pakai Kartu Kedatangan 'All Indonesia'｜Pahami Langkah Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](https://gobaligo.id/blog/bali-all-indonesia-arrival-guide/)
+> Baca juga: [【2026版】Prosedur Masuk Bali Pakai Kartu Kedatangan 'All Indonesia'｜Pahami Langkah Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](https://gobaligo.id/id/blog/bali-all-indonesia-arrival-guide/)
 
 ## Kartu Internet
 
 Di Bali, kita pilih beli kartu internet lokal. Di daerah Kuta dan Uluwatu, kartunya support jaringan 5G, sementara di daerah lain yang agak pelosok biasanya 4G. Meskipun di pulau-pulau kecil, sinyalnya masih cukup buat navigasi, tapi di area pantai Penida sinyalnya agak jelek, cuma di beberapa spot wisata tertentu sinyalnya lumayan. Tapi ini nggak ganggu perjalanan kita secara keseluruhan sih.
 
-> Baca juga: [【Wajib Punya buat Liburan ke Bali】Cara Urus Internet/SIM Card di Bali?](/blog/bali-sim-card-esim-roaming-guide/)
+> Baca juga: [【Wajib Punya buat Liburan ke Bali】Cara Urus Internet/SIM Card di Bali?](/id/blog/bali-sim-card-esim-roaming-guide/)
 
 ## Belanja
 
@@ -47,7 +47,7 @@ Di Bali, kita pilih beli kartu internet lokal. Di daerah Kuta dan Uluwatu, kartu
 
 Belanja di Bali butuh skill nawar yang mumpuni. Biasanya, kamu bisa mulai nawar dari setengah harga yang tertera, dan harga akhir biasanya sekitar 30-40% dari harga awal. Di daerah Ubud, harga relatif lebih bersahabat dan pilihannya juga banyak. Barang yang sama, di Kuta biasanya bisa 2-3 kali lebih mahal daripada di Ubud. Makanya, milih tempat belanja itu penting banget.
 
-> Baca juga: [Cara Nawar Belanja di Bali? Panduan Belanja](/blog/bali-shopping-bargaining-tips/)
+> Baca juga: [Cara Nawar Belanja di Bali? Panduan Belanja](/id/blog/bali-shopping-bargaining-tips/)
 
 ## Transportasi
 
@@ -55,7 +55,7 @@ Lalu lintas di Bali bisa dibilang cuma satu kata: 'macet'. Karena liburan temank
 
 https://youtu.be/KQwrSiqq_Dw
 
-Redaksi: Referensi terbaik adalah '[Panduan Zona Bali](https://gobaligo.id/blog/?lang=tw&cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)' kami!
+Redaksi: Referensi terbaik adalah '[Panduan Zona Bali](https://gobaligo.id/id/blog/?lang=tw&cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)' kami!
 
 ## Makanan
 
@@ -63,7 +63,7 @@ Di trip kali ini, kami lebih milih makan di restoran kecil biar bisa cobain lebi
 
 https://youtu.be/-qvy0RZq1j8
 
-Baca juga: [Tips di Bali: Perlukah? Cara Kasih? Berapa Banyak?](/blog/bali-tipping-guide-driver-spa/)
+Baca juga: [Tips di Bali: Perlukah? Cara Kasih? Berapa Banyak?](/id/blog/bali-tipping-guide-driver-spa/)
 
 Kami sempat mampir ke Atlas Beach Club yang katanya terbesar se-Asia. Oh iya, kalau kamu ke Beach Club atau Day Club, kasih tip sedikit ke pelayan, mereka bakal super perhatian, bahkan bantuin jagain tas kamu.
 
@@ -81,7 +81,7 @@ https://youtu.be/8SW4Je-sJbY
 
 [**▶ Promo Klook Nusa Penida**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=909332&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fpoi%2F50190574-nusa-penida%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D21079c02f9)
 
-**Catatan redaksi: Kalau ke sini, jangan sekali-kali turun ke laut ya! Udah sering terjadi** [**kecelakaan fatal**](/blog/bali-attractions-safety-alert/) **~**
+**Catatan redaksi: Kalau ke sini, jangan sekali-kali turun ke laut ya! Udah sering terjadi** [**kecelakaan fatal**](/id/blog/bali-attractions-safety-alert/) **~**
 
 Spot kedua adalah **Tembeling Beach and Forest**, di sini lebih sepi, cocok banget buat santai. Tapi jalannya menuju lokasi agak jelek, mesti hati-hati. **Diamond Beach** lumayan biasa aja sih. Karena Penida masih pulau baru yang lagi dikembangin, kualitas akomodasi dan makanannya kurang oke, harganya juga sekitar dua kali lipat dari Bali daratan. Secara keseluruhan, trip ke Penida kami tetap seru kok.
 
@@ -110,7 +110,7 @@ Kami juga nginep 4 hari di Pulau Penida. Di sini mau komplain dikit: Airbnb yang
 https://youtu.be/1HgJ8ki8MEs
 
 **Bacaan lanjutan:**
-[Rekomendasi Penginapan di Pulau Penida: 13 Hotel Nusa Penida dari Mewah sampai Budget](/blog/nusa-penida-hotels-guide/)
+[Rekomendasi Penginapan di Pulau Penida: 13 Hotel Nusa Penida dari Mewah sampai Budget](/id/blog/nusa-penida-hotels-guide/)
 
 Pokoknya, Bali itu tempat yang cocok buat hidup santai, istirahat, dan berkarya. Semoga sharing pengalaman ini bisa bantu perjalanan kamu ke Bali! 🌴
 

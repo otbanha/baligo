@@ -175,7 +175,7 @@ Buat warga non-Indonesia, tiket 'Bali Safari' lumayan mahal sih. Kalau waktunya 
 
 Kalau catatan perjalananku ada membantu kamu, silakan lanjut baca catatan/panduan hari-hari lainnya ya:
 
-- [**Day 1: Nginep di dalam shopping mall! Akomodasi亲子 dua dewasa dua anak**](/blog/bali-family-trip-aloft-kuta/)
-- [**Day 2: GWK Garuda Wisnu Kencana, Pantai Gratis Uluwatu, Pura Uluwatu, Tari Kecak Uluwatu**](/blog/bali-family-trip-gwk-beach-club/)
-- [**Day 3-7: Lima Hari di Ubud: Rekomendasi Kuliner, Tempat Wisata, Akomodasi, & Eksplorasi Gunung Berapi**](/blog/bali-family-trip-ubud-guide/)
+- [**Day 1: Nginep di dalam shopping mall! Akomodasi亲子 dua dewasa dua anak**](/id/blog/bali-family-trip-aloft-kuta/)
+- [**Day 2: GWK Garuda Wisnu Kencana, Pantai Gratis Uluwatu, Pura Uluwatu, Tari Kecak Uluwatu**](/id/blog/bali-family-trip-gwk-beach-club/)
+- [**Day 3-7: Lima Hari di Ubud: Rekomendasi Kuliner, Tempat Wisata, Akomodasi, & Eksplorasi Gunung Berapi**](/id/blog/bali-family-trip-ubud-guide/)
 

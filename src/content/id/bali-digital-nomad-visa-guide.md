@@ -36,7 +36,7 @@ Kalau kamu berencana kerja di Bali, kamu harus pastiin visa dan persyaratan huku
 
 Nggak ada yang mau jadi pemegang visa ilegal, jadi kita jelasin beberapa pilihan visa buat kamu yang kerja remote di Indonesia:
 
->>Referensi: [FAQ Terbaru Perubahan Visa Masuk ke Bali 2025](/blog/2025-bali-visa-update-faq/)
+>>Referensi: [FAQ Terbaru Perubahan Visa Masuk ke Bali 2025](/id/blog/2025-bali-visa-update-faq/)
 
 ![確認簽證和法律要求](https://images.gobaligo.id/vocus/vocus_dd41d77001052cf97d5e040eff2b57b5.jpg)
 
@@ -127,4 +127,4 @@ Urusan kerja, tempat tinggal, dan visa udah beres. Sekarang, yuk bahas hal-hal p
 
 👈 **Kembali ke Panduan Lengkap Liburan ke Bali**
 
-Mau baca panduan lengkap buat pemula? [Klik di sini buat baca «Panduan Lengkap Liburan ke Bali 2026»](/blog/bali-ultimate-guide-2026/), biar paham semua yang harus disiapin sebelum berangkat.
+Mau baca panduan lengkap buat pemula? [Klik di sini buat baca «Panduan Lengkap Liburan ke Bali 2026»](/id/blog/bali-ultimate-guide-2026/), biar paham semua yang harus disiapin sebelum berangkat.

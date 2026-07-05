@@ -55,7 +55,7 @@ Terima kasih! [Thank you]
 - Fried Banana (pisang goreng) ▶[Introduction](https://youtu.be/EKJ4-jvhTiU?t=276)
 - Sweet Martabak (martabak manis) ▶[Introduction](https://youtu.be/EKJ4-jvhTiU?t=185)
 - Avocado Juice (jus alpukat) ▶[Introduction](https://youtu.be/FphhiUzB7gM?t=311)
-- Check out the [Second Edition of Bali's Top 10 Foods](/blog/bali-top-10-foods/)!
+- Check out the [Second Edition of Bali's Top 10 Foods](/en/blog/bali-top-10-foods/)!
 
 ### Recommended Bottled Water Brands
 
@@ -68,14 +68,14 @@ To better experience Bali, dive into this travel guide to understand its culture
 ## Important Notes
 
 - [Three Secrets to Navigating Bali's Traffic](https://www.youtube.com/watch?v=KQwrSiqq_Dw&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW&index=4)
-- Don't Trust Google Maps in Bali! [Read More](/blog/bali-google-maps-warning/)
+- Don't Trust Google Maps in Bali! [Read More](/en/blog/bali-google-maps-warning/)
 - 'Blue Bird' is Outdated! Now Everyone Uses Ride-Hailing Apps in Indonesia/Bali! (Includes Tutorial)
-- [What to Do If You Get Traveler's Diarrhea?](/blog/bali-travel-health-tips/)
-- Must-Learn [Local Indonesian Phrase](/blog/bali-travel-indonesian-phrase/) for Bali Travel
-- Always Carry Tissues! Why? [Find Out Here](/blog/bali-toilet-paper-travel-tip/)
-- Travel Taboos in Indonesia/Bali! [Never Touch It](/blog/bali-drug-laws-warning/)
-- [Which Area in Bali is Best to Stay? Which Area is Not?](/blog/kuta-bali-accommodation-pros-cons/)
-- Bali's Most Dangerous Animal Isn't Lions or Tigers, [It's 'This'](/blog/bali-monkey-safety-tips/)
+- [What to Do If You Get Traveler's Diarrhea?](/en/blog/bali-travel-health-tips/)
+- Must-Learn [Local Indonesian Phrase](/en/blog/bali-travel-indonesian-phrase/) for Bali Travel
+- Always Carry Tissues! Why? [Find Out Here](/en/blog/bali-toilet-paper-travel-tip/)
+- Travel Taboos in Indonesia/Bali! [Never Touch It](/en/blog/bali-drug-laws-warning/)
+- [Which Area in Bali is Best to Stay? Which Area is Not?](/en/blog/kuta-bali-accommodation-pros-cons/)
+- Bali's Most Dangerous Animal Isn't Lions or Tigers, [It's 'This'](/en/blog/bali-monkey-safety-tips/)
 - Should You Tip in Bali? How Much? [Tipping Guide for Various Occasions](https://youtu.be/B_oT905RkQw)
 - [Three Must-Have Apps for Indonesia/Bali](https://www.youtube.com/watch?v=4p8fliUxn0A&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW&index=8)
 - How to Choose the Right Area to Stay? [Bali Accommodation Guide](https://s.id/baliguide1)

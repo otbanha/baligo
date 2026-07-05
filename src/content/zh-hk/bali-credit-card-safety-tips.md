@@ -50,7 +50,7 @@ Update: 2026/07/03
 - - 如果商戶要求「手動入卡號」或者「影低信用卡」，就要即刻拒絕。
   - 改用現金或者電子支付（例如Apple Pay、Google Pay、印尼嘅GoPay）降低風險。
 
-> 延伸閱讀：[Grab好？Gojek好？印尼/峇里島嘅Gojek同GoPay註冊、使用、儲值教學全面指南](/blog/indonesia-gojek-gopay-guide/)
+> 延伸閱讀：[Grab好？Gojek好？印尼/峇里島嘅Gojek同GoPay註冊、使用、儲值教學全面指南](/zh-hk/blog/indonesia-gojek-gopay-guide/)
 
 ---
 
@@ -135,6 +135,6 @@ Update: 2026/07/03
 
 峇里島嘅刷卡環境冇台灣咁安全，但只要識得用啱嘅俾錢方法，就可以大大減低風險。建議旅行嗰陣盡量**現金同電子支付一齊用**，信用卡就輔助。仲要成日睇住交易紀錄，咁樣你個假期就又方便又放心啦！
 
-> 延伸閱讀：[峇里島旅遊要準備幾多現金？](/blog/bali-travel-cash-budget-guide/)
+> 延伸閱讀：[峇里島旅遊要準備幾多現金？](/zh-hk/blog/bali-travel-cash-budget-guide/)
 
 **你有喺峇里島遇過信用卡問題嗎？歡迎留言分享經驗！** 💳✈️

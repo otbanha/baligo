@@ -82,7 +82,7 @@ Cretya Ubud 每日都係中午到傍晚最多人
 
 ## 烏布其他好玩嘅地方有咩？
 
-喺烏布，至少仲有五十個景點同活動等你去探索。無論你鍾意文化體驗、自然風光定係冒險運動，烏布都可以滿足你嘅需求。從令人驚嘆嘅猴子森林、古老嘅寺廟，到壯觀嘅稻田景觀同充滿藝術氣息嘅市集，烏布提供咗豐富多樣嘅選擇。請睇下我哋嘅攻略「[峇里島烏布完整攻略：10](/blog/ubud-guide/)[0種深入認識烏布嘅方式｜探索烏布嘅魅力](/blog/ubud-guide/)」了解更多詳細資訊，幫你計劃一次難忘嘅烏布之旅。
+喺烏布，至少仲有五十個景點同活動等你去探索。無論你鍾意文化體驗、自然風光定係冒險運動，烏布都可以滿足你嘅需求。從令人驚嘆嘅猴子森林、古老嘅寺廟，到壯觀嘅稻田景觀同充滿藝術氣息嘅市集，烏布提供咗豐富多樣嘅選擇。請睇下我哋嘅攻略「[峇里島烏布完整攻略：10](/zh-hk/blog/ubud-guide/)[0種深入認識烏布嘅方式｜探索烏布嘅魅力](/zh-hk/blog/ubud-guide/)」了解更多詳細資訊，幫你計劃一次難忘嘅烏布之旅。
 
 ## 烏布嘅住宿選擇
 
@@ -90,8 +90,8 @@ Cretya Ubud 每日都係中午到傍晚最多人
 
 ![烏布嘅住宿選擇](https://images.gobaligo.id/vocus/vocus_02093589e6f9903498b1c3ef6c792e6f.jpg)
 
-- [【峇里島烏布住宿】烏布28家特色住宿，體驗峇里島山林美景中嘅奇幻之旅！](/blog/ubud-villas-pool-guide/)
-- [探索烏布9家令人嘆為觀止嘅樹屋/竹屋別墅 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)
-- [【烏布住宿推薦】泳池別墅私密天堂: 烏布20間令人驚艷嘅峇里島villa](/blog/ubud-villa-pool-guide/)
-- [烏布瑜伽住宿推薦：10間結合瑜珈課程與心靈放鬆嘅夢幻選擇](/blog/ubud-yoga-retreats-bali/)
-- [「全球最佳酒店」榜首喺峇里島：叢林中嘅隱藏奢華—Capella Ubud](/blog/capella-ubud-luxury-resort/)
+- [【峇里島烏布住宿】烏布28家特色住宿，體驗峇里島山林美景中嘅奇幻之旅！](/zh-hk/blog/ubud-villas-pool-guide/)
+- [探索烏布9家令人嘆為觀止嘅樹屋/竹屋別墅 tree house/bamboo villa](/zh-hk/blog/ubud-treehouse-bamboo-villa-stays/)
+- [【烏布住宿推薦】泳池別墅私密天堂: 烏布20間令人驚艷嘅峇里島villa](/zh-hk/blog/ubud-villa-pool-guide/)
+- [烏布瑜伽住宿推薦：10間結合瑜珈課程與心靈放鬆嘅夢幻選擇](/zh-hk/blog/ubud-yoga-retreats-bali/)
+- [「全球最佳酒店」榜首喺峇里島：叢林中嘅隱藏奢華—Capella Ubud](/zh-hk/blog/capella-ubud-luxury-resort/)

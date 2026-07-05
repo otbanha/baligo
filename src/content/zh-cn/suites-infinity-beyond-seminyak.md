@@ -121,7 +121,7 @@ Update: 2026/07/03
 
 水明漾是巴厘岛最时尚活力的地区之一，结合了高级餐厅、潮流咖啡厅、精品店以及迷人的沙滩，是享受休闲与娱乐的绝佳选择。如果你也想住在水明漾，不妨参考下列我们为你精心准备的住宿主题介绍：
 
-- [巴厘岛住宿推荐：水明漾的滨海精致主题住宿指南](/blog/seminyak-beach-resorts-guide/)
-- [【巴厘岛住宿推荐】VILLA泳池别墅私密天堂:水明漾21间令人惊艳的巴厘岛秘密花园](/blog/2024-04-04-660e6e92fd89780001e6047e/)
-- [三房/四房以上的家庭别墅住宿推荐](/blog/bali-group-villa-stay/)
-- [【水明漾】不超过100美元的平价巴厘岛villa推荐](/blog/seminyak-budget-villas-guide/)
+- [巴厘岛住宿推荐：水明漾的滨海精致主题住宿指南](/zh-cn/blog/seminyak-beach-resorts-guide/)
+- [【巴厘岛住宿推荐】VILLA泳池别墅私密天堂:水明漾21间令人惊艳的巴厘岛秘密花园](/zh-cn/blog/2024-04-04-660e6e92fd89780001e6047e/)
+- [三房/四房以上的家庭别墅住宿推荐](/zh-cn/blog/bali-group-villa-stay/)
+- [【水明漾】不超过100美元的平价巴厘岛villa推荐](/zh-cn/blog/seminyak-budget-villas-guide/)

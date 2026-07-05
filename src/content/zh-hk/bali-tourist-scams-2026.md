@@ -28,8 +28,8 @@ _srcHash: 3f4366ed3b512494192f9704cc72f96b
 
 **快速參考：**
 
-- [峇里島換錢血淚史：團友親身經歷揭秘，千祈唔好貪小便宜！](/blog/bali-money-exchange-scams-2/)
-- [正規找換店推薦](/blog/bali-currency-exchange-guide/)
+- [峇里島換錢血淚史：團友親身經歷揭秘，千祈唔好貪小便宜！](/zh-hk/blog/bali-money-exchange-scams-2/)
+- [正規找換店推薦](/zh-hk/blog/bali-currency-exchange-guide/)
 
 ## **的士嘅跳錶羅生門**
 
@@ -37,8 +37,8 @@ _srcHash: 3f4366ed3b512494192f9704cc72f96b
 
 **快速參考：**
 
-- [Grab好定Gojek好？印尼/峇里島嘅Gojek同GoPay註冊、使用、增值教學全面指南](/blog/indonesia-gojek-gopay-guide/)
-- [峇里島APP網約車司機嘅套路：點樣避免Grab/Gojek陷阱？](/blog/bali-grab-gojek-scam-tips/)
+- [Grab好定Gojek好？印尼/峇里島嘅Gojek同GoPay註冊、使用、增值教學全面指南](/zh-hk/blog/indonesia-gojek-gopay-guide/)
+- [峇里島APP網約車司機嘅套路：點樣避免Grab/Gojek陷阱？](/zh-hk/blog/bali-grab-gojek-scam-tips/)
 
 ## **搜尋引擎上嘅假簽證官網**
 
@@ -46,8 +46,8 @@ _srcHash: 3f4366ed3b512494192f9704cc72f96b
 
 **快速參考：**
 
-- [入境印尼/峇里島eVisa簽證、eCD海關、SSHP健康聲明必填 All Indonesia 常見問題 FAQ](/blog/bali-evisa-customs-health-declaration/)
-- [入境印尼/峇里島嘅小朋友簽證/兒童簽證攻略](/blog/bali-child-visa-guide/)
+- [入境印尼/峇里島eVisa簽證、eCD海關、SSHP健康聲明必填 All Indonesia 常見問題 FAQ](/zh-hk/blog/bali-evisa-customs-health-declaration/)
+- [入境印尼/峇里島嘅小朋友簽證/兒童簽證攻略](/zh-hk/blog/bali-child-visa-guide/)
 
 ## **還車時嘅「新刮痕」爭議**
 
@@ -55,9 +55,9 @@ _srcHash: 3f4366ed3b512494192f9704cc72f96b
 
 **快速參考：**
 
-[《峇里島電單車租賃風險檢查清單》峇里島租電單車攻略：價格、安全、注意事項一次睇](/blog/bali-motorbike-rental-tips/)
+[《峇里島電單車租賃風險檢查清單》峇里島租電單車攻略：價格、安全、注意事項一次睇](/zh-hk/blog/bali-motorbike-rental-tips/)
 
-[峇里島旅遊安全警示：後生旅客機車意外頻頻發生](/blog/bali-motorbike-safety-guide/)
+[峇里島旅遊安全警示：後生旅客機車意外頻頻發生](/zh-hk/blog/bali-motorbike-safety-guide/)
 
 ## **寺廟/景點門口嘅假工作人員**
 
@@ -67,7 +67,7 @@ _srcHash: 3f4366ed3b512494192f9704cc72f96b
 
 近年出現陌生人以冇網絡為由借用手機熱點。呢個唔單止有資料外洩風險，對方如果做非法行為都會留低你嘅紀錄。保持禮貌並拒絕分享熱點或者連線不明 Wi-Fi，係保護個人私隱嘅基本動作。
 
-**快速參考：**[「借用熱點」嘅請求竟然係陷阱！新型態詐騙好多人已經中招…](/blog/bali-wifi-scam-alert/)
+**快速參考：**[「借用熱點」嘅請求竟然係陷阱！新型態詐騙好多人已經中招…](/zh-hk/blog/bali-wifi-scam-alert/)
 
 {{block:klook}}
 
@@ -83,7 +83,7 @@ https://youtu.be/LuEXL77-Qh0
 
 ## 唔好錯過呢啲主題
 
-- [2026年峇里島自由行｜出發前終極指南：出發前必睇7大重點！簽證、換錢、住宿、電壓/轉插...一次搞掂](/blog/bali-travel-guide-2026/)
-- [峇里島唔中伏攻略：18個常見錯誤同建議](/blog/bali-travel-mistakes-tips/)
+- [2026年峇里島自由行｜出發前終極指南：出發前必睇7大重點！簽證、換錢、住宿、電壓/轉插...一次搞掂](/zh-hk/blog/bali-travel-guide-2026/)
+- [峇里島唔中伏攻略：18個常見錯誤同建議](/zh-hk/blog/bali-travel-mistakes-tips/)
 
 {{block:klook}}

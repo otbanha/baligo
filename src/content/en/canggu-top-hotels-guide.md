@@ -34,9 +34,9 @@ When planning a laid-back vacation in Canggu, Bali, Indonesia, picking a remarka
 
 ### You Might Also Want to See:
 
-> ▶[Canggu Guide Part 1](/blog/canggu-surf-food-guide/)
+> ▶[Canggu Guide Part 1](/en/blog/canggu-surf-food-guide/)
 > >
-> ▶[Canggu Guide Part 2](/blog/canggu-bali-travel-guide/)
+> ▶[Canggu Guide Part 2](/en/blog/canggu-bali-travel-guide/)
 
 ### 【Don't Miss These Canggu Ticket Deals】
 
@@ -158,7 +158,7 @@ The hotel features **119 rooms and suites** and **14 private pool villas**, with
 
 Oshom Bali, which opened in November 2024, is a boutique hotel with just 11 rooms, nestled within the Nuanu creative city in Tabanan, Bali. Set against a cliff and facing a black sand beach, the hotel also features seven mangrove treehouses, a saltwater pool, a fine dining restaurant, and a soon-to-open pink-orange rooftop bar. The rooms boast minimalist luxury design with floor-to-ceiling windows, smart devices, and traditional Indonesian handicrafts, along with daily bedtime stories and a meditation space for ultimate relaxation. Additionally, founder Daisy Angus curates creative activities like painting workshops and 'bedside conversations' to inspire creativity.
 
-Oshom is surrounded by rich amenities, just a short drive from Lumeira, the world's largest wood-fired steam healing dome, offering Finnish sauna and other therapeutic experiences. The hotel's restaurant serves both traditional Balinese and Western cuisine, and it's a 1-minute walk to [Luna Beach Club](/blog/canggu-guide/), where guests can enjoy pools, bars, and beach parties. Oshom combines art, nature, and inspiration, making it an ideal choice for those seeking a unique vacation experience.
+Oshom is surrounded by rich amenities, just a short drive from Lumeira, the world's largest wood-fired steam healing dome, offering Finnish sauna and other therapeutic experiences. The hotel's restaurant serves both traditional Balinese and Western cuisine, and it's a 1-minute walk to [Luna Beach Club](/en/blog/canggu-guide/), where guests can enjoy pools, bars, and beach parties. Oshom combines art, nature, and inspiration, making it an ideal choice for those seeking a unique vacation experience.
 
 > ▶[Agoda Best Price](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=64716205) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=117153593&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/zXbwVorS)
 
@@ -331,9 +331,9 @@ Please refer to the [Canggu Guide Map](https://gobaligo.id/map/canggu/)
 
 ## You Might Also Want to See:
 
-> ▶[Canggu Guide Part 1](/blog/canggu-surf-food-guide/)
+> ▶[Canggu Guide Part 1](/en/blog/canggu-surf-food-guide/)
 > >
-> ▶[Canggu Guide Part 2](/blog/canggu-bali-travel-guide/)
+> ▶[Canggu Guide Part 2](/en/blog/canggu-bali-travel-guide/)
 
 ## Don't Miss These Canggu Ticket Deals
 

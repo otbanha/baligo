@@ -117,7 +117,7 @@ Green Bowl Beach adalah salah satu pantai paling terpencil di Uluwatu, dan menja
 
 Waktu terbaik untuk datang adalah saat air surut, sekaligus jadi momen ideal buat snorkeling. Di pantai ini nggak ada penjual minuman atau makanan, jadi jangan lupa bawa air minum yang cukup.
 
-Baca juga: [Jelajahi Surga Tersembunyi Bali 6 Pantai Rahasia Bali & Cara Cek Pasang Surut](/blog/bali-hidden-beaches-guide/)
+Baca juga: [Jelajahi Surga Tersembunyi Bali 6 Pantai Rahasia Bali & Cara Cek Pasang Surut](/id/blog/bali-hidden-beaches-guide/)
 
 ## Peringkat Kedua: Tanah Barak Cliff / Jalan Tebing Biru
 
@@ -161,8 +161,8 @@ Garis pantai Uluwatu punya spot surfing yang oke punya, jadi ini surga banget bu
 
 Ini dia 10 spot & aktivitas wajib di Uluwatu yang udah kami rangkum buat kamu. Mau kamu tipe petualang yang doyan tantangan atau traveler yang cari ketenangan, Uluwatu punya semuanya. Semoga kamu punya waktu seru di sepanjang garis pantai yang cantik ini!
 
-> Baca juga: [【Panduan Uluwatu】50 Rekomendasi Tempat Makan & Main di Uluwatu](/blog/uluwatu-guide/)
+> Baca juga: [【Panduan Uluwatu】50 Rekomendasi Tempat Makan & Main di Uluwatu](/id/blog/uluwatu-guide/)
 
-> Baca juga: [Rekomendasi 12 Villa & Resort Pribadi dengan Pemandangan Laut di Uluwatu, Bali](/blog/uluwatu-bali-villas-resorts-guide/)
+> Baca juga: [Rekomendasi 12 Villa & Resort Pribadi dengan Pemandangan Laut di Uluwatu, Bali](/id/blog/uluwatu-bali-villas-resorts-guide/)
 
 {{block:攻略}}

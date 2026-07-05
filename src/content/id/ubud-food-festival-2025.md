@@ -85,7 +85,7 @@ Selain mencicipi makanan, kamu juga bisa ikut tur tematik, seperti:
 - Cicipi tuak kelapa dan arak buatan sendiri
 - Nikmati slow food di pinggir sawah atau dapur desa
 
-> Baca juga: [🌶️ 10 Makanan Indonesia Wajib Coba di Bali: Dari Bebek Betutu sampai Babi Guling, Cita Rasa Nusantara](/blog/top-10-bali-indonesian-food/)
+> Baca juga: [🌶️ 10 Makanan Indonesia Wajib Coba di Bali: Dari Bebek Betutu sampai Babi Guling, Cita Rasa Nusantara](/id/blog/top-10-bali-indonesian-food/)
 
 ---
 

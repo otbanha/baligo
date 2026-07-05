@@ -51,9 +51,9 @@ Kalau anak kamu penasaran sama laut, atau orang tua gak suka kelamaan di luar ke
 
 **Tips penting**: Pertunjukan durasinya sekitar 60 menit, tanpa jeda. Mending anter keluarga ke toilet dulu sebelum mulai.
 
-[Panduan Varuna Show Bali Safari: Harga tiket, tips transportasi, dan cara atur jadwal sehari penuh di Bali Safari](https://gobaligo.id/blog/varuna-show-bali-safari/)
+[Panduan Varuna Show Bali Safari: Harga tiket, tips transportasi, dan cara atur jadwal sehari penuh di Bali Safari](https://gobaligo.id/id/blog/varuna-show-bali-safari/)
 
-[峇里島海洋公園 Varuna Show 指南：水下劇場票價、交通建議與 Bali Safari 一日遊排法](https://gobaligo.id/blog/varuna-show-bali-safari/)
+[峇里島海洋公園 Varuna Show 指南：水下劇場票價、交通建議與 Bali Safari 一日遊排法](https://gobaligo.id/id/blog/varuna-show-bali-safari/)
 
 [Pesan tiket Varuna Show di Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)，sudah termasuk tiket masuk
 
@@ -71,7 +71,7 @@ Mulai dari tarian semangat Sumatera, tari istana Jawa yang elegan, irama hutan K
 
 **Keunggulan ramah keluarga**: Tersedia kursi anak, ada sesi interaktif sebelum pertunjukan, dan setelah selesai bisa foto bareng penari. Dijamin kenangan keluarga penuh senyum.
 
-[【Wajib Nonton di Bali】Panduan Lengkap Devdan Show: Diskon Tiket, Pilihan Kursi, dan Napak Tilas 5 Pulau Besar Indonesia](https://gobaligo.id/blog/devdan-show-nusa-dua/)
+[【Wajib Nonton di Bali】Panduan Lengkap Devdan Show: Diskon Tiket, Pilihan Kursi, dan Napak Tilas 5 Pulau Besar Indonesia](https://gobaligo.id/id/blog/devdan-show-nusa-dua/)
 
 > > [Pesan di Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1) [Pesan di KKday](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072) [Pesan di Trip.com](https://hk.trip.com/travel-guide/attraction/bali/devdan-show-10759118?curr=IDR&locale=zh-HK&poiType=3&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18064230)
 
@@ -93,7 +93,7 @@ Ceritanya diadaptasi dari *Ramayana*, klimaks pertempuran antara pasukan kera da
 - Sore hari angin di tebing kencang, siapkan jaket tipis untuk orang tua
 - Saat obor dinyalakan, ada panas dan bau asap — kalau anak-anak tidak suka asap, bisa duduk di belakang
 
-[Tari Kecak Api Uluwatu Pertunjukan Spektakuler Wajib Ditonton di Bali (dengan info pemesanan tiket)](https://gobaligo.id/blog/kecak-fire-dance-bali/)
+[Tari Kecak Api Uluwatu Pertunjukan Spektakuler Wajib Ditonton di Bali (dengan info pemesanan tiket)](https://gobaligo.id/id/blog/kecak-fire-dance-bali/)
 
 > [Beli tiket via Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1304016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21638-uluwatu-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7692452023) [Beli tiket via Kkday](https://www.kkday.com/zh-tw/product/129108-uluwatu-kecak-fire-dance-ticket-bali-indonesia?qs=kecak&cid=25072) [Beli tiket via Trip](https://hk.trip.com/travel-guide/attraction/bali/kecak-dance-uluwatu-136629489?curr=IDR&locale=zh-HK&poiType=66&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18064230)
 
@@ -120,7 +120,7 @@ Orang tua pasti akan kagum dengan detail kostum yang rumit, sementara anak-anak 
 
 **Tips Penting:** Area GWK itu luas banget, disarankan datang lebih awal sekalian lihat patung Garuda Wisnu raksasa; kursi baris depan bisa lihat detail topeng dengan jelas, tapi kalau anak yang sensitif sama suara keras, pilih kursi tengah atau belakang.
 
-[【Landmark Bali】Panduan Lengkap Taman Budaya GWK: Patung Tertinggi di Dunia, Pertunjukan Tari Tradisional, dan Spot Foto Cantik](https://gobaligo.id/blog/gwk-cultural-park-bali/)
+[【Landmark Bali】Panduan Lengkap Taman Budaya GWK: Patung Tertinggi di Dunia, Pertunjukan Tari Tradisional, dan Spot Foto Cantik](https://gobaligo.id/id/blog/gwk-cultural-park-bali/)
 
 > [Beli Tiket via Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1308000&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D267583b10e) [Beli Tiket via Trip](https://hk.trip.com/travel-guide/attraction/bali/garuda-wisnu-kencana-cultural-park-90757?curr=IDR&locale=zh_hk&poiType=3&ext-searchpage=1&lasttraceid=412fdea9-954a-0cc7-eab8-178eb2281978&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18082528)
 

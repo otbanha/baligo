@@ -97,10 +97,10 @@ The private pool at Bajra Bali Villa is truly a dreamlike setting, allowing you 
 
 ## Other Seminyak Accommodation Recommendations:
 
-- [Bali Accommodation Guide: Coastal Luxury Resorts in Seminyak](/blog/seminyak-beach-resorts-guide/)
-- [Bali Accommodation Recommendations: 22 Stunning Villa Pool Retreats in Seminyak](/blog/2024-04-04-660e6e92fd89780001e6047e/)
-- [Seminyak: Affordable Bali Villas Under USD$100](/blog/seminyak-budget-villas-guide/)
-- [Seminyak Accommodation Recommendation: Stay at the Coastal 5-Star Hotel Indigo Resort for USD$160](/blog/hotel-indigo-seminyak-review/)
+- [Bali Accommodation Guide: Coastal Luxury Resorts in Seminyak](/en/blog/seminyak-beach-resorts-guide/)
+- [Bali Accommodation Recommendations: 22 Stunning Villa Pool Retreats in Seminyak](/en/blog/2024-04-04-660e6e92fd89780001e6047e/)
+- [Seminyak: Affordable Bali Villas Under USD$100](/en/blog/seminyak-budget-villas-guide/)
+- [Seminyak Accommodation Recommendation: Stay at the Coastal 5-Star Hotel Indigo Resort for USD$160](/en/blog/hotel-indigo-seminyak-review/)
 
  BLOCK0 
  BLOCK1 

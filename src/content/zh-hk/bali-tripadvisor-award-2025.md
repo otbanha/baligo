@@ -35,7 +35,7 @@ TripAdvisor對峇里島嘅描述係：「呢張係一張活生生嘅明信片，
 
 ## 2025年更精彩嘅探索即將揭曉
 
-旅行者之選大獎嘅景點、活動同埋特定地標目的地，例如海灘同酒店，將會喺2025年逐步揭曉。喺呢之前，仲有好多2024年嘅獲獎景點值得去，例如出名嘅[努沙佩尼達嘅Kelingking海灘](/blog/nusa-penida-guide/)、[海神廟](/blog/bali-tanah-lot-guide/)、[聯合國教科文組織認可嘅梯田](/blog/bali-rice-terraces-comparison/)，同埋[烏布嘅聖猴森林保護區](/blog/ubud-guide/)。
+旅行者之選大獎嘅景點、活動同埋特定地標目的地，例如海灘同酒店，將會喺2025年逐步揭曉。喺呢之前，仲有好多2024年嘅獲獎景點值得去，例如出名嘅[努沙佩尼達嘅Kelingking海灘](/zh-hk/blog/nusa-penida-guide/)、[海神廟](/zh-hk/blog/bali-tanah-lot-guide/)、[聯合國教科文組織認可嘅梯田](/zh-hk/blog/bali-rice-terraces-comparison/)，同埋[烏布嘅聖猴森林保護區](/zh-hk/blog/ubud-guide/)。
 
 ## 峇里島周邊嘅松巴島：冒險與寧靜嘅完美結合
 
@@ -47,12 +47,12 @@ TripAdvisor對峇里島嘅描述係：「呢張係一張活生生嘅明信片，
 
 對於因過度旅遊被列入《Fodor's No List》嘅報導，峇里島領導人明確表示，問題唔在於過度旅遊，而係旅遊集中喺島嘅中南部度假村。
 
-所以，由2025年起，當地政府會推廣例如西峇里、[北峇里](/blog/north-bali-travel-guide/)同[東峇里](/blog/bali-east-tour-guide/)等尚未被大量開發嘅地區，等更多國際遊客了解呢啲絕美景點。例如，北峇里嘅Munduk瀑布同叢林、Lovina海灘嘅日出海豚，都係值得探索嘅隱藏珍寶。
+所以，由2025年起，當地政府會推廣例如西峇里、[北峇里](/zh-hk/blog/north-bali-travel-guide/)同[東峇里](/zh-hk/blog/bali-east-tour-guide/)等尚未被大量開發嘅地區，等更多國際遊客了解呢啲絕美景點。例如，北峇里嘅Munduk瀑布同叢林、Lovina海灘嘅日出海豚，都係值得探索嘅隱藏珍寶。
 
 ## 想更認識峇里島？
 
-- [2025峇里島景點推薦攻略 ｜500個最新峇里島人氣景點一次蒐全](/blog/bali-top-500-attractions/)
-- [【峇里島必知】99%遊客都喺偷偷搜尋嘅超尷尬41個問題！峇里島旅遊自由行攻略](/blog/bali-travel-faqs-guide/)
+- [2025峇里島景點推薦攻略 ｜500個最新峇里島人氣景點一次蒐全](/zh-hk/blog/bali-top-500-attractions/)
+- [【峇里島必知】99%遊客都喺偷偷搜尋嘅超尷尬41個問題！峇里島旅遊自由行攻略](/zh-hk/blog/bali-travel-faqs-guide/)
 
 ## 常見問題
 
@@ -74,23 +74,23 @@ TripAdvisor對峇里島嘅描述係：「呢張係一張活生生嘅明信片，
 
 **親子旅遊延伸閱讀：**
 
-- [峇里島家庭親子友善景點大全｜巴里島超過100樣適合親子同樂活動](/blog/bali-family-travel-guide/)
-- [帶小朋友去巴里島家庭旅遊的20個注意要點](/blog/bali-family-travel-tips/)
-- [峇里島親子遊：帶嬰兒、幼童和學齡兒童去度假的一些提示](/blog/bali-family-travel-guide-2/)
-- [峇里島找保母指南：如何找到適合的保母及費用概況](/blog/bali-nanny-hiring-guide/)
-- [峇里島親子樂園：十五家擁有滑水道溜滑梯的親子渡假村 TOP 15](/blog/bali-family-resorts-water-slides/)
-- [推薦峇里島13家庭親子度假村｜庫塔、水明漾、坎古、金巴蘭、烏魯瓦圖適合家庭度假、親子放鬆的最佳選擇](/blog/bali-family-resorts-kids-club/)
-- [烏布53項親子活動帶小朋友最輕鬆！](/blog/ubud-with-kids-guide/)
-- [峇里島最適合親子度假的海濱：沙努爾攻略地圖｜45項吃喝玩樂](/blog/sanur-guide/)
-- [峇里島親子一日遊攻略：探索野生動物園與紅鶴海灘俱樂部](/blog/bali-family-day-safari-flamingo/)
-- [巴里島親子遊不能錯過：峇里島動物園 Bali Safari 要怎麼玩樂、夜宿攻略](/blog/bali-safari-night-stay/)
+- [峇里島家庭親子友善景點大全｜巴里島超過100樣適合親子同樂活動](/zh-hk/blog/bali-family-travel-guide/)
+- [帶小朋友去巴里島家庭旅遊的20個注意要點](/zh-hk/blog/bali-family-travel-tips/)
+- [峇里島親子遊：帶嬰兒、幼童和學齡兒童去度假的一些提示](/zh-hk/blog/bali-family-travel-guide-2/)
+- [峇里島找保母指南：如何找到適合的保母及費用概況](/zh-hk/blog/bali-nanny-hiring-guide/)
+- [峇里島親子樂園：十五家擁有滑水道溜滑梯的親子渡假村 TOP 15](/zh-hk/blog/bali-family-resorts-water-slides/)
+- [推薦峇里島13家庭親子度假村｜庫塔、水明漾、坎古、金巴蘭、烏魯瓦圖適合家庭度假、親子放鬆的最佳選擇](/zh-hk/blog/bali-family-resorts-kids-club/)
+- [烏布53項親子活動帶小朋友最輕鬆！](/zh-hk/blog/ubud-with-kids-guide/)
+- [峇里島最適合親子度假的海濱：沙努爾攻略地圖｜45項吃喝玩樂](/zh-hk/blog/sanur-guide/)
+- [峇里島親子一日遊攻略：探索野生動物園與紅鶴海灘俱樂部](/zh-hk/blog/bali-family-day-safari-flamingo/)
+- [巴里島親子遊不能錯過：峇里島動物園 Bali Safari 要怎麼玩樂、夜宿攻略](/zh-hk/blog/bali-safari-night-stay/)
 - 峇里島家庭親子旅遊專欄
 
 **帶長輩同遊峇里島指南：**
 
-- 第一集：[適合長者嘅峇里島旅行指南 - 安全、舒適與注意事項](/blog/bali-elderly-travel-guide/)
-- 第二集：[適合年長者嘅峇里島旅遊地點全攻略](/blog/bali-senior-friendly-travel-guide/)
-- 第三集：[長輩嘅行為有幾騎呢！？帶出國旅遊當心「吃力不討好」](/blog/traveling-with-elderly-parents-tips/)
+- 第一集：[適合長者嘅峇里島旅行指南 - 安全、舒適與注意事項](/zh-hk/blog/bali-elderly-travel-guide/)
+- 第二集：[適合年長者嘅峇里島旅遊地點全攻略](/zh-hk/blog/bali-senior-friendly-travel-guide/)
+- 第三集：[長輩嘅行為有幾騎呢！？帶出國旅遊當心「吃力不討好」](/zh-hk/blog/traveling-with-elderly-parents-tips/)
 
 **峇里島蜜月/情侶延伸閱讀：**
 

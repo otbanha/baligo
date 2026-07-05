@@ -18,7 +18,7 @@ lang: zh-cn
 _srcHash: d2971954243750b5518049032cba7ff0
 ---
 
-不久前才出炉的「十大全球浪漫旅游目的地」，根据Agoda旅行平台的大数据，其中巴厘岛名列全球第六名（[请看这里](/blog/valentines-day-romantic-destinations/)）；而另一份Tripadvisor 2024年度统计资料，巴厘岛更被列为度蜜月目的地的顶尖宝座，[击败马尔代夫夺得全世界冠军！](/blog/bali-honeymoon-destination/)
+不久前才出炉的「十大全球浪漫旅游目的地」，根据Agoda旅行平台的大数据，其中巴厘岛名列全球第六名（[请看这里](/zh-cn/blog/valentines-day-romantic-destinations/)）；而另一份Tripadvisor 2024年度统计资料，巴厘岛更被列为度蜜月目的地的顶尖宝座，[击败马尔代夫夺得全世界冠军！](/zh-cn/blog/bali-honeymoon-destination/)
 
 ![为何越来越多人选择巴厘岛度蜜月？巴厘岛度蜜月常见问题解答](https://images.gobaligo.id/vocus/vocus_b4f537565e91e25fd6de607522f7cb4d.jpg)
 
@@ -48,7 +48,7 @@ _srcHash: d2971954243750b5518049032cba7ff0
 
 我们是最专业的巴厘岛旅游情报网站，我们提供了五百多个巴厘岛最新的热门旅游景点，您一定能在我们的攻略中找到很想去的景点！请看：
 
-【[2025必去巴厘岛景点攻略，500个最新人气景点一次搜全](/blog/bali-top-500-attractions/)】
+【[2025必去巴厘岛景点攻略，500个最新人气景点一次搜全](/zh-cn/blog/bali-top-500-attractions/)】
 
 ## 建议在巴厘岛待多久？
 
@@ -69,11 +69,11 @@ _srcHash: d2971954243750b5518049032cba7ff0
 - 如果您喜欢自然美景，推荐您在乌布多花些时间。
 - 如果您喜欢冒险，可以参加一些户外活动，如徒步旅行、浮潜或冲浪。
 
-> 延伸阅读：[巴厘岛南部的秘境沙滩](/blog/uluwatu-guide/)
+> 延伸阅读：[巴厘岛南部的秘境沙滩](/zh-cn/blog/uluwatu-guide/)
 
-> 延伸阅读：[乌布的自然美景与各种户外活动](/blog/ubud-guide/)]
+> 延伸阅读：[乌布的自然美景与各种户外活动](/zh-cn/blog/ubud-guide/)]
 
-如果您想找到更适合让两人感情升温，甜蜜到地老天荒的活动，可以参考一下【[巴厘岛蜜月浪漫指南：探索巴厘岛情侣/蜜月旅行的36种玩法](/blog/bali-honeymoon-romantic-activities-2/)】
+如果您想找到更适合让两人感情升温，甜蜜到地老天荒的活动，可以参考一下【[巴厘岛蜜月浪漫指南：探索巴厘岛情侣/蜜月旅行的36种玩法](/zh-cn/blog/bali-honeymoon-romantic-activities-2/)】
 
 无论您选择如何度蜜月，巴厘岛都能为您提供难忘的体验。
 
@@ -81,9 +81,9 @@ _srcHash: d2971954243750b5518049032cba7ff0
 
 建议先认识巴厘岛各个区域的住宿特色，选择适合蜜月情侣的住宿，并多加利用我们提供的一日游套餐，就可以轻松畅玩巴厘岛。
 
-> 延伸阅读：[认识巴厘岛的五个热门住宿区域](/blog/2023-12-29-65839fbafd89780001e876b5/)
+> 延伸阅读：[认识巴厘岛的五个热门住宿区域](/zh-cn/blog/2023-12-29-65839fbafd89780001e876b5/)
 
-> 延伸阅读：[20间度蜜月度假村、浪漫villa推荐](/blog/bali-honeymoon-resorts-guide/)
+> 延伸阅读：[20间度蜜月度假村、浪漫villa推荐](/zh-cn/blog/bali-honeymoon-resorts-guide/)
 
 ![如何预订巴厘岛行程？](https://images.gobaligo.id/vocus/vocus_0a0f01ddd3f1dbf1a47d1c9e05e9534b.png)
 
@@ -121,7 +121,7 @@ _srcHash: d2971954243750b5518049032cba7ff0
 
 这家台湾老板的巴厘岛在地旅行社绝对是您的不二选择！他们拥有逾20年的带团经验，深谙巴厘岛的一切风土人情。您只需提供旅行预算和想探索的景点，其他一切琐碎事务都会由专业团队为您打理，包括安排专业的中英文司机和导游，让您无后顾之忧地畅游巴厘岛，细味爱情与浪漫。
 
-请看：【[巴厘岛超爽行程 - 专业规划让您轻松享受假期](/blog/bali-custom-tour-planning/)】
+请看：【[巴厘岛超爽行程 - 专业规划让您轻松享受假期](/zh-cn/blog/bali-custom-tour-planning/)】
 
 ## 应该带现金/应该给小费吗？
 
@@ -139,12 +139,12 @@ _srcHash: d2971954243750b5518049032cba7ff0
 
 我们系统性的整理出了21项巴厘岛旅游必带物品，如果你像小编一样有「出游焦虑症」，这份清单可以让您省事不少喔！
 
-【[巴厘岛旅行要带什么？必备的21项物品](/blog/bali-travel-essentials/)】
+【[巴厘岛旅行要带什么？必备的21项物品](/zh-cn/blog/bali-travel-essentials/)】
 
 ## 巴厘岛蜜月/情侣延伸阅读：
 
-- [为何越来越多人选择巴厘岛度蜜月？巴厘岛度蜜月常见问题解答](/blog/bali-honeymoon-faq/)
-- [浪漫蜜月胜地大公开！巴厘岛击败马尔代夫夺得全世界冠军！](/blog/bali-honeymoon-destination/)
-- [巴厘岛蜜月浪漫指南：探索巴厘岛情侣/蜜月旅行的36种玩法](/blog/bali-honeymoon-romantic-activities-2/)
-- [蜜月住哪里？蜜月新婚/情侣就看这一篇！【20间度蜜月度假村、浪漫villa推荐】](/blog/bali-honeymoon-resorts-guide/)
-- [《World Travel Awards》巴厘岛荣获2024年度全球最浪漫旅游目的地殊荣](/blog/bali-world-travel-awards-2024/)
+- [为何越来越多人选择巴厘岛度蜜月？巴厘岛度蜜月常见问题解答](/zh-cn/blog/bali-honeymoon-faq/)
+- [浪漫蜜月胜地大公开！巴厘岛击败马尔代夫夺得全世界冠军！](/zh-cn/blog/bali-honeymoon-destination/)
+- [巴厘岛蜜月浪漫指南：探索巴厘岛情侣/蜜月旅行的36种玩法](/zh-cn/blog/bali-honeymoon-romantic-activities-2/)
+- [蜜月住哪里？蜜月新婚/情侣就看这一篇！【20间度蜜月度假村、浪漫villa推荐】](/zh-cn/blog/bali-honeymoon-resorts-guide/)
+- [《World Travel Awards》巴厘岛荣获2024年度全球最浪漫旅游目的地殊荣](/zh-cn/blog/bali-world-travel-awards-2024/)

@@ -44,9 +44,9 @@ _srcHash: 24767bf9af407a6fad3ef24e1cc30f96
 
 呢啲準備睇落好似好煩，但係都可以令旅程更加順利，令我可以喺峇里島嘅每一刻都盡情享受！
 
-> 延伸閱讀：[【2026版】印尼峇里島入境使用「All Indonesia」入境卡｜1分鐘搞懂最新流程：落機→過海關→拎行李全攻略](https://gobaligo.id/blog/bali-all-indonesia-arrival-guide/)
+> 延伸閱讀：[【2026版】印尼峇里島入境使用「All Indonesia」入境卡｜1分鐘搞懂最新流程：落機→過海關→拎行李全攻略](https://gobaligo.id/zh-hk/blog/bali-all-indonesia-arrival-guide/)
 
-> 延伸閱讀：[峇里島旅遊注意事項：第一次去峇里島必睇嘅新手攻略](https://gobaligo.id/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
+> 延伸閱讀：[峇里島旅遊注意事項：第一次去峇里島必睇嘅新手攻略](https://gobaligo.id/zh-hk/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
 
 ***
 
@@ -127,7 +127,7 @@ https://youtube.com/shorts/exdiGPLkVjw
 
 藍夢島風光
 
-> 你仲想知藍夢島有咩好玩？有咩有趣景點？請睇我哋嘅「[藍夢島景點攻略](/blog/nusa-lembongan-ceningan-guide/)」
+> 你仲想知藍夢島有咩好玩？有咩有趣景點？請睇我哋嘅「[藍夢島景點攻略](/zh-hk/blog/nusa-lembongan-ceningan-guide/)」
 
 **包車司機接送返酒店**
 玩咗成日，真係好盡興，峇里島嘅包車司機又準時嚟接我哋返酒店。藍夢島嘅美景令人回味無窮，呢段旅程真係好值得。
@@ -157,7 +157,7 @@ https://youtu.be/laRb_l8BdLM
 
 泛舟結束之後，嚟到一間好出名嘅網美咖啡店，呢度嘅特色係巨型盪鞦韆，可以一邊盪鞦韆，一邊望住壯麗嘅稻田景色。當地人真係好識影相，成個氛圍令每張相都靚到好似明信片咁，絕對係影相打卡嘅好地方。
 
-> [【烏布鞦韆攻略】8 大最美叢林鞦韆推薦：租禮服技巧、影相角度同避開人潮全指南](https://gobaligo.id/blog/ubud-jungle-swings-photo-guide/)
+> [【烏布鞦韆攻略】8 大最美叢林鞦韆推薦：租禮服技巧、影相角度同避開人潮全指南](https://gobaligo.id/zh-hk/blog/ubud-jungle-swings-photo-guide/)
 
 ![Tebasari Resto, Bar & Lounge](https://images.gobaligo.id/vocus/vocus_de5feafe85fbc690903411bfb7bf280f.jpg)
 
@@ -169,14 +169,14 @@ Tebasari Resto, Bar & Lounge
 **烏布皇宮**
 食完晏晝，我哋參觀咗歷史悠久嘅烏布皇宮。皇宮嘅建築風格好有峇里島特色，精緻嘅雕刻同繁複嘅裝飾令人嘆為觀止，感受到當地嘅傳統文化同歷史氣息。
 
-> [【烏布必訪景點】烏布皇宮：峇里島文化歷史嘅瑰寶｜開放時間、門票、表演時間、周邊景點、一日遊推薦](https://gobaligo.id/blog/ubud-royal-palace-tour-guide/)
+> [【烏布必訪景點】烏布皇宮：峇里島文化歷史嘅瑰寶｜開放時間、門票、表演時間、周邊景點、一日遊推薦](https://gobaligo.id/zh-hk/blog/ubud-royal-palace-tour-guide/)
 
 **烏布市集**
 緊接住，我哋喺烏布市集周圍行，呢度充滿咗各種手工藝品、服飾同紀念品。市集嘅氣氛好熱鬧，我哋都買咗幾件當地特色嘅紀念品，作為呢次旅行嘅回憶。
 
 https://youtube.com/shorts/Oh-RNfjhQhM
 
-> 延伸閱讀：[推薦烏布五大藝術市集完整指南：買紀念品/手信，搵峇里島文化寶藏](/blog/ubud-art-markets-guide/)
+> 延伸閱讀：[推薦烏布五大藝術市集完整指南：買紀念品/手信，搵峇里島文化寶藏](/zh-hk/blog/ubud-art-markets-guide/)
 
 https://youtu.be/JtxZHtijEkE
 
@@ -204,7 +204,7 @@ https://youtu.be/JtxZHtijEkE
 
 ![第四日行程（坎古區Chill一日遊）：](https://images.gobaligo.id/vocus/vocus_c8901a744d0d658d299564b9ec2515af.jpg)
 
-> [峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](https://gobaligo.id/blog/bali-tanah-lot-guide/)
+> [峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](https://gobaligo.id/zh-hk/blog/bali-tanah-lot-guide/)
 
 **The Lawn Canggu Beach Club**
 今日最後一站係Canggu嘅知名沙灘俱樂部——The Lawn。呢度有陽光、沙灘、美食，仲有比堅尼美女同靚仔。我哋喺度享受咗一個悠閒嘅下午，浸喺泳池入面，飲住冰凍嘅雞尾酒，等住峇里島出名嘅夕陽慢慢落下。夜晚嚟到之後，沙灘上燈火通明，氣氛寫意又浪漫，令我哋徹底放鬆，享受度假嘅每一刻。
@@ -245,7 +245,7 @@ https://youtu.be/JtxZHtijEkE
 5. **手信推薦：BALI BANANA 香蕉蛋糕**
    返香港嗰陣唔好唔記得買一盒BALI BANANA香蕉蛋糕，呢個係峇里島嘅特色手信，口感軟綿、香甜好味，機場就有得賣。可以喺抵達嗰陣先買嚟試食，覺得好味就買多啲帶返香港。佢哋仲提供免費裝箱服務，令購物更加方便。
 
-延伸閱讀：[【網友推薦】六大種類，超過20項峇里島手信推薦指南：留住珍貴回憶嘅絕佳選擇](/blog/bali-souvenirs-gift-guide/)
+延伸閱讀：[【網友推薦】六大種類，超過20項峇里島手信推薦指南：留住珍貴回憶嘅絕佳選擇](/zh-hk/blog/bali-souvenirs-gift-guide/)
 
 ***
 

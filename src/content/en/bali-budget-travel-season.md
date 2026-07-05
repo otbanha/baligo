@@ -24,7 +24,7 @@ When planning a low-budget trip to Bali, consider the following major expenses:
 
 - **Airfare**: Booking early and being flexible with dates saves the most money.
 - **Accommodation**: Prices are lowest during the off-season from January to May and September to early December.
-  (Excluding continuous holidays like Lunar New Year, see [here](/blog/bali-peak-season-travel-tips/))
+  (Excluding continuous holidays like Lunar New Year, see [here](/en/blog/bali-peak-season-travel-tips/))
 - **Transportation**: Renting a scooter is the most economical, or consider hiring a car with a driver for groups.
 - **Dining**: Local warungs and street stalls offer the best value.
 - **Activities**: Online bookings for water sports or spa packages often come with discounts.
@@ -104,18 +104,18 @@ Rain in Bali usually lasts no more than an hour.
 
 **Quick Reference:**
 
-- [Bali Private Car Hire Guide - Costs, Booking Methods, Advantages](/blog/bali-private-car-hire-guide/)
-- [Bali Private Car Driver Recommendations: Find the Right Driver Based on Real Reviews](/blog/bali-private-car-drivers-guide/)
-- [Arriving in Bali: Airport Transfer Options and First-Day Tips](/blog/bali-airport-transfer-guide/)
-- [Bali Chinese-Speaking Drivers/Tour Guides/Private Car Itinerary Recommendations](/blog/bali-chinese-tour-guide/)
-- [Bali Motorbike Rental Guide! Should You Rent a Scooter or Hire a Private Car?](/blog/bali-motorbike-rental-guide/)
-- [Bali Motorbike Rental Tips: Prices, Safety, and Precautions](/blog/bali-motorbike-rental-tips/)
-- [When to Hire a Private Car? When to Call a Ride? Private Car vs. Ride-Hailing: How to Choose the Best Option for Your Trip?](/blog/bali-transportation-guide-car-rental/)
-- [Must-Have Apps for Traveling in Indonesia/Bali: Complete Gojek Guide](/blog/gojek-bali-guide/)
-- [How to Use Gojek Ride-Hailing App?](/blog/gojek-bali-guide/)
-- [Complete Guide to Registering, Using, and Topping Up Gojek and GoPay in Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
-- [Bali Ride-Hailing App Scams: How to Avoid Grab/Gojek Traps?](/blog/bali-grab-gojek-scam-tips/)
-- [Nusa Penida Transportation Guide: Taxis, Gojek/Grab, Private Cars, and Scooters](/blog/nusa-penida-transport-guide/)
+- [Bali Private Car Hire Guide - Costs, Booking Methods, Advantages](/en/blog/bali-private-car-hire-guide/)
+- [Bali Private Car Driver Recommendations: Find the Right Driver Based on Real Reviews](/en/blog/bali-private-car-drivers-guide/)
+- [Arriving in Bali: Airport Transfer Options and First-Day Tips](/en/blog/bali-airport-transfer-guide/)
+- [Bali Chinese-Speaking Drivers/Tour Guides/Private Car Itinerary Recommendations](/en/blog/bali-chinese-tour-guide/)
+- [Bali Motorbike Rental Guide! Should You Rent a Scooter or Hire a Private Car?](/en/blog/bali-motorbike-rental-guide/)
+- [Bali Motorbike Rental Tips: Prices, Safety, and Precautions](/en/blog/bali-motorbike-rental-tips/)
+- [When to Hire a Private Car? When to Call a Ride? Private Car vs. Ride-Hailing: How to Choose the Best Option for Your Trip?](/en/blog/bali-transportation-guide-car-rental/)
+- [Must-Have Apps for Traveling in Indonesia/Bali: Complete Gojek Guide](/en/blog/gojek-bali-guide/)
+- [How to Use Gojek Ride-Hailing App?](/en/blog/gojek-bali-guide/)
+- [Complete Guide to Registering, Using, and Topping Up Gojek and GoPay in Indonesia/Bali](/en/blog/indonesia-gojek-gopay-guide/)
+- [Bali Ride-Hailing App Scams: How to Avoid Grab/Gojek Traps?](/en/blog/bali-grab-gojek-scam-tips/)
+- [Nusa Penida Transportation Guide: Taxis, Gojek/Grab, Private Cars, and Scooters](/en/blog/nusa-penida-transport-guide/)
 
 ***
 
@@ -137,7 +137,7 @@ The island comes alive with parades, music, and dances—completely free—offer
 ![Bali Cultural Activities and Free Experiences](https://images.gobaligo.id/vocus/vocus_af2a6c5d08ffe04b97f754a61f9d1e32.jpg)
 
 **Quick Reference:**
-[Bali Traditional Festivals: Guide to Bali's Religious Celebrations in 2025/2026](/blog/bali-religious-festivals-guide/)
+[Bali Traditional Festivals: Guide to Bali's Religious Celebrations in 2025/2026](/en/blog/bali-religious-festivals-guide/)
 
 ***
 

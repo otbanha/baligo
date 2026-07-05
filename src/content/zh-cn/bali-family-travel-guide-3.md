@@ -33,7 +33,7 @@ _srcHash: 4c2ff3e1a056fdffd48b4b7c7271cfce
 
 **快速参考：**
 
-> 最新版：[【入境规定】2026巴厘岛旅游前必完成的3个步骤](https://gobaligo.id/blog/2025-bali-immigration-process/)
+> 最新版：[【入境规定】2026巴厘岛旅游前必完成的3个步骤](https://gobaligo.id/zh-cn/blog/2025-bali-immigration-process/)
 
 ***
 
@@ -49,7 +49,7 @@ _srcHash: 4c2ff3e1a056fdffd48b4b7c7271cfce
 
 过年是旅游旺季，机票价格本来就高得令人咋舌，但有时候换个角度思考，稍微提高一点预算选择商务舱，反而可能会有意外惊喜。这次的经验让我深刻体会到，灵活调整预算和选择，能让旅程更加舒适愉快。
 
-> [巴厘岛机票怎么买最便宜？Trip.com 搜索技巧与省钱攻略](https://gobaligo.id/blog/ticket/)
+> [巴厘岛机票怎么买最便宜？Trip.com 搜索技巧与省钱攻略](https://gobaligo.id/zh-cn/blog/ticket/)
 
 ***
 
@@ -65,7 +65,7 @@ _srcHash: 4c2ff3e1a056fdffd48b4b7c7271cfce
 
 **快速参考：**
 
-> [巴厘岛什么时候包车？什么场合叫车？包车 vs. 叫车：如何选择最适合你的旅行方式？](/blog/bali-transportation-guide-car-rental/)
+> [巴厘岛什么时候包车？什么场合叫车？包车 vs. 叫车：如何选择最适合你的旅行方式？](/zh-cn/blog/bali-transportation-guide-car-rental/)
 
 ***
 
@@ -95,7 +95,7 @@ _srcHash: 4c2ff3e1a056fdffd48b4b7c7271cfce
 
 **快速参考：**
 
-> [巴厘岛APP网约车司机的套路：如何避免Grab/Gojek陷阱？](/blog/bali-grab-gojek-scam-tips/)
+> [巴厘岛APP网约车司机的套路：如何避免Grab/Gojek陷阱？](/zh-cn/blog/bali-grab-gojek-scam-tips/)
 
 ### **租摩托车**
 
@@ -103,7 +103,7 @@ _srcHash: 4c2ff3e1a056fdffd48b4b7c7271cfce
 
 **快速参考：**
 
-> [巴厘岛租摩托车攻略：价格、安全、注意事项一次看](/blog/bali-motorbike-rental-tips/)
+> [巴厘岛租摩托车攻略：价格、安全、注意事项一次看](/zh-cn/blog/bali-motorbike-rental-tips/)
 
 总的来说，巴厘岛的交通虽然有些挑战，但只要提前规划好包车或选择合适的交通方式，依然能让旅程顺利进行。希望这些经验能对未来计划去巴厘岛的旅人有所帮助！
 
@@ -129,9 +129,9 @@ _srcHash: 4c2ff3e1a056fdffd48b4b7c7271cfce
 
 **快速参考：**
 
-> [巴厘岛旅游：三房/四房以上的家庭别墅住宿推荐](/blog/bali-group-villa-stay/)
+> [巴厘岛旅游：三房/四房以上的家庭别墅住宿推荐](/zh-cn/blog/bali-group-villa-stay/)
 
-> [您订的 Airbnb 民宿可能 8 月消失？印尼政府铁腕拆迁与合法饭店 Villa 避雷指南](https://gobaligo.id/blog/airbnb-alert-2026/)
+> [您订的 Airbnb 民宿可能 8 月消失？印尼政府铁腕拆迁与合法饭店 Villa 避雷指南](https://gobaligo.id/zh-cn/blog/airbnb-alert-2026/)
 
 ***
 
@@ -155,7 +155,7 @@ _srcHash: 4c2ff3e1a056fdffd48b4b7c7271cfce
 
 **快速参考：**
 
-[热带水果女王-印尼/巴厘岛山竹的产季是几月](/blog/bali-mangosteen-season/)？
+[热带水果女王-印尼/巴厘岛山竹的产季是几月](/zh-cn/blog/bali-mangosteen-season/)？
 
 ### 奶制品与甜点
 
@@ -173,7 +173,7 @@ _srcHash: 4c2ff3e1a056fdffd48b4b7c7271cfce
 
 **快速参考：**
 
-龙虾先生的联系方式&最新优惠在[这里](/blog/mr-lobster-seafood-bali/)
+龙虾先生的联系方式&最新优惠在[这里](/zh-cn/blog/mr-lobster-seafood-bali/)
 
 ***
 
@@ -181,15 +181,15 @@ _srcHash: 4c2ff3e1a056fdffd48b4b7c7271cfce
 
 如之前所提到的，巴厘岛的道路设计缺乏全盘考量，导致几乎二十四小时中有三分之二以上的时间都处于塞车状态。因此，如果当天有行程安排，尤其是距离住处超过一小时车程的景点，**绝对建议**早上七八点就出发。否则，光是塞车就足以耗掉你五成的精气神，让整天的行程变得疲惫不堪。
 
-在安排行程时，尽量将同一个地区的景点排在一起，避免异想天开地想要一天内穿越超过四十公里的距离！因为巴厘岛路小又适逢农历新年是巴厘岛[全年的第三旺季](/blog/bali-peak-season-travel-tips/)，不到四十公里的路程走两小时是家常便饭。**不要因为地图上看起来距离不远，就想把行程排得满满的**，这样只会让你塞车塞到欲哭无泪，完全失去旅行的乐趣。
+在安排行程时，尽量将同一个地区的景点排在一起，避免异想天开地想要一天内穿越超过四十公里的距离！因为巴厘岛路小又适逢农历新年是巴厘岛[全年的第三旺季](/zh-cn/blog/bali-peak-season-travel-tips/)，不到四十公里的路程走两小时是家常便饭。**不要因为地图上看起来距离不远，就想把行程排得满满的**，这样只会让你塞车塞到欲哭无泪，完全失去旅行的乐趣。
 
 ![適合長輩的景點參考，請點這裡](https://images.gobaligo.id/vocus/vocus_aed0dd9ef1952475718465e8e2f805a8.jpg)
 
-[适合长辈的景点参考，请点这里](/blog/bali-senior-friendly-travel-guide/)
+[适合长辈的景点参考，请点这里](/zh-cn/blog/bali-senior-friendly-travel-guide/)
 
 ![適合長輩的景點參考，請點這裡](https://images.gobaligo.id/vocus/vocus_c9d90c6b640576cf0c0e74c35643534f.jpg)
 
-[适合长辈的景点参考，请点这里](/blog/bali-senior-friendly-travel-guide/)
+[适合长辈的景点参考，请点这里](/zh-cn/blog/bali-senior-friendly-travel-guide/)
 
 ### 家族旅行建议
 
@@ -231,7 +231,7 @@ _srcHash: 4c2ff3e1a056fdffd48b4b7c7271cfce
 
 这次的按摩体验让我对巴厘岛的按摩彻底改观，Hot Bamboo SPA的专业与独特手法，真的让人感受到身心灵的全面放松。如果你也喜欢力道较重的按摩，这间SPA绝对值得一试！
 
-**> 快速参考**：已收录在「[巴厘岛好评SPA推荐大集合](/blog/spa/)」要找一家好SPA放松身心，不要错过我们的收集/推荐喔！
+**> 快速参考**：已收录在「[巴厘岛好评SPA推荐大集合](/zh-cn/blog/spa/)」要找一家好SPA放松身心，不要错过我们的收集/推荐喔！
 
 ***
 

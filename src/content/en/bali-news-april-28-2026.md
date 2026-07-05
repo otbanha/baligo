@@ -38,4 +38,4 @@ _srcHash: 65d5d0909986b7e74fd724bfc111aad8
     - **FHT Bali (Food, Hotel & Tourism)**: A three-day professional tourism exhibition starts today at **Nusa Dua (BNDCC)**, attracting a large gathering of food and hospitality industry professionals. Visitors planning to travel along the Nusa Dua route should be aware of traffic flow around the exhibition center.
 - **Tourism Tax 'Secondary Checkpoint' Tested**: Airport inspection authorities reiterated that starting yesterday, the **Levy Vouchers** secondary inspection area will operate strictly. Inspectors will stop travelers without the **IDR 150,000** tourism tax voucher for on-the-spot scanning and payment. Travelers are advised to avoid relying on slow public Wi-Fi and instead save a QR Code screenshot before departure to ensure smooth passage.
 
-> [Bali Tourism Tax Can't Be Avoided! 'Secondary Checkpoint' Officially Launched: Latest Payment Process, Tax Evasion Penalties & Tips](/blog/bali-levy-check-warning/)
+> [Bali Tourism Tax Can't Be Avoided! 'Secondary Checkpoint' Officially Launched: Latest Payment Process, Tax Evasion Penalties & Tips](/en/blog/bali-levy-check-warning/)

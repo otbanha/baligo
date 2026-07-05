@@ -73,7 +73,7 @@ Hujan bukan berarti liburan berakhir, kok. Ini beberapa rekomendasi aktivitas ya
 - **Aktivitas petualangan**: Coba ATV adventure atau trip ke air terjun — di musim hujan malah makin seru dan menantang.
 - **Pengalaman budaya indoor**: Jelajahi **Museum Seni Agung Rai (ARMA)** di Ubud, atau ikut kelas bikin perak handmade di **Seminyak**.
 - **Hunting kafe**: Hujan adalah momen pas buat santai sambil eksplor kafe-kafe unik di Bali, misalnya **kafe hutan tersembunyi di Ubud**.
-- **60 ide aktivitas saat hujan**: Kami juga punya daftar lengkap aktivitas indoor biar kamu nggak bosen pas hujan! Cek di sini → [60 Ide Aktivitas Indoor Saat Hujan di Bali](/blog/2026-bali-indoor-activities/).
+- **60 ide aktivitas saat hujan**: Kami juga punya daftar lengkap aktivitas indoor biar kamu nggak bosen pas hujan! Cek di sini → [60 Ide Aktivitas Indoor Saat Hujan di Bali](/id/blog/2026-bali-indoor-activities/).
 
 ![3. Pilih Aktivitas dengan Fleksibel](https://images.gobaligo.id/vocus/vocus_c998b2b80ee7599ccd5311ab3e33b94c.png)
 
@@ -96,6 +96,6 @@ Baik itu banjir, longsor, atau bencana alam mendadak lainnya, asuransi perjalana
 
 ## **Kesimpulan**
 
-Musim hujan di Bali emang bisa bikin tantangan sih, tapi kalau kamu siap-siap dari awal dan atur jadwal dengan fleksibel, kamu tetap bisa menikmati musim liburan yang penuh kejutan ini. Apalagi ada satu keuntungan gede banget, yaitu lebih sepi pengunjung dan harga akomodasi jauh lebih murah! Cek juga [Panduan Liburan Hemat di Bali: Musim Paling Murah untuk Traveling](/blog/bali-budget-travel-season/). Mau eksplorasi keajaiban alam atau merasakan budaya lokal, musim hujan bakal kasih pengalaman unik buat liburanmu di Bali.
+Musim hujan di Bali emang bisa bikin tantangan sih, tapi kalau kamu siap-siap dari awal dan atur jadwal dengan fleksibel, kamu tetap bisa menikmati musim liburan yang penuh kejutan ini. Apalagi ada satu keuntungan gede banget, yaitu lebih sepi pengunjung dan harga akomodasi jauh lebih murah! Cek juga [Panduan Liburan Hemat di Bali: Musim Paling Murah untuk Traveling](/id/blog/bali-budget-travel-season/). Mau eksplorasi keajaiban alam atau merasakan budaya lokal, musim hujan bakal kasih pengalaman unik buat liburanmu di Bali.
 
 {{block:klook}}

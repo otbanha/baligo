@@ -22,9 +22,9 @@ _srcHash: f741eef5946ebdfcf46e0f4b770f4b32
 ---
 Update: 03/07/2026
 
-[🚗 Mau estimasi tarif Gojek? Klik di sini](/map/gojek-fare/)
+[🚗 Mau estimasi tarif Gojek? Klik di sini](/id/map/gojek-fare/)
 
-**Intinya** : Sebelum ke Bali, wajib install **Gojek** — ini kayak Uber + GoFood + dompet digital jadi satu di Indonesia. Bisa pesan mobil atau motor (sudah ada tarif jelas, nggak perlu tawar-menawar), pesan makanan, minta driver beliin barang, plus pakai dompet digital GoPay jadi hampir nggak perlu bawa uang tunai. Dibanding Grab, kelebihan Gojek adalah dompetnya sudah built-in (Grab perlu daftar OVO terpisah). Panduan registrasinya bisa cek [Panduan Lengkap Registrasi Gojek & GoPay](/blog/indonesia-gojek-gopay-guide/).
+**Intinya** : Sebelum ke Bali, wajib install **Gojek** — ini kayak Uber + GoFood + dompet digital jadi satu di Indonesia. Bisa pesan mobil atau motor (sudah ada tarif jelas, nggak perlu tawar-menawar), pesan makanan, minta driver beliin barang, plus pakai dompet digital GoPay jadi hampir nggak perlu bawa uang tunai. Dibanding Grab, kelebihan Gojek adalah dompetnya sudah built-in (Grab perlu daftar OVO terpisah). Panduan registrasinya bisa cek [Panduan Lengkap Registrasi Gojek & GoPay](/id/blog/indonesia-gojek-gopay-guide/).
 
 Kalau kamu lagi planning liburan ke Bali, atau lagi di Indonesia, Gojek itu aplikasi yang wajib banget buat traveling atau kehidupan sehari-hari. Yuk, kita eksplor alat keren yang bakal bikin perjalananmu makin praktis dan beda banget rasanya.
 
@@ -42,7 +42,7 @@ Pas liburan di Bali, transportasi biasanya jadi masalah yang nggak bisa diabaika
 
 Nggak cuma transportasi, Gojek juga punya metode bayar yang aman dan praktis. Kamu bisa simpan uang di dompet digital GoPay, jadi nggak perlu bawa uang tunai jutaan rupiah kemana-mana. Bayar ongkos, pesanan makanan, atau belanja jadi gampang pake GoPay. Cara cashless ini nggak cuma praktis, tapi juga bikin kamu lebih gampang ngatur pengeluaran.
 
-Bacaan lanjutan: [Panduan Lengkap Registrasi, Penggunaan, dan Top Up Gojek & GoPay di Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
+Bacaan lanjutan: [Panduan Lengkap Registrasi, Penggunaan, dan Top Up Gojek & GoPay di Indonesia/Bali](/id/blog/indonesia-gojek-gopay-guide/)
 
 ### **Perbandingan dengan Grab**
 
@@ -58,4 +58,4 @@ Saat traveling di Indonesia atau Bali, Gojek pasti jadi andalan kamu. Aplikasi i
 
 👈 **Kembali ke Panduan Utama Liburan ke Bali**
 
-Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 「Panduan Utama Liburan ke Bali 2026」](/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.
+Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 「Panduan Utama Liburan ke Bali 2026」](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.

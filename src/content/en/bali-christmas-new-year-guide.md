@@ -35,9 +35,9 @@ Many worry about the rainy season during Christmas. Don’t worry too much! Ther
 
 Want to stay in the heart of the action? Southern areas like **Seminyak**, **Kuta**, and **Canggu** are excellent picks. Here you’ll find upscale villas, festive buffets, shopping malls, and kids’ activities, letting the whole family soak in the Christmas cheer.
 
-- [Bali Seminyak 100 Attractions Guide](/blog/seminyak-guide/)
-- [Kuta 50 Must-Visit Attractions Guide](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [Canggu 100 Must-See Attractions](/blog/canggu-guide/)
+- [Bali Seminyak 100 Attractions Guide](/en/blog/seminyak-guide/)
+- [Kuta 50 Must-Visit Attractions Guide](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [Canggu 100 Must-See Attractions](/en/blog/canggu-guide/)
 
 ### **Areas with Culture and Tranquility**
 
@@ -45,9 +45,9 @@ If you're looking for a quiet holiday with a cultural touch, **Ubud** is a great
 
 ![Areas with Culture and Tranquility](https://images.gobaligo.id/vocus/vocus_45dd2d1531eeed43e5e6776b3205d148.jpg)
 
-- [100 Ways to Explore Ubud](/blog/ubud-guide/)
-- [50 Things to Eat, Drink, and Do in Sanur](/blog/sanur-guide/)
-- [40 Accommodation, Dining, and Activity Guides in Nusa Dua](/blog/nusa-dua-guide/)
+- [100 Ways to Explore Ubud](/en/blog/ubud-guide/)
+- [50 Things to Eat, Drink, and Do in Sanur](/en/blog/sanur-guide/)
+- [40 Accommodation, Dining, and Activity Guides in Nusa Dua](/en/blog/nusa-dua-guide/)
   ---
 
 ## **The Joy of Christmas Shopping in Bali**
@@ -134,7 +134,7 @@ Includes carved roast beef, turkey, seafood platter, and dessert tower. Live DJ,
 🎅 Enjoy a puppet show, children's choir, and a visit from Santa Claus.
 
 💰 **Approximately IDR 400K–450K per person.**
-  **Quick Reference:** [【Bali 5-Star Luxury Recommendation】St. Regis Bali Resort](/blog/st-regis-bali-resort/)
+  **Quick Reference:** [【Bali 5-Star Luxury Recommendation】St. Regis Bali Resort](/en/blog/st-regis-bali-resort/)
 
 ### **🌅 Arwana Restaurant – The Laguna, Nusa Dua**
 
@@ -155,7 +155,7 @@ Live jazz band and fireworks show.
 👨‍👩‍👧‍👦 Kids’ corner and live magic show.
 
 💰 **Adults approx. IDR 1,600K, children half price.**
-  **Quick Reference:** [【Bali 5-Star Luxury Recommendations】Luxury Resort Recommendation: Mulia Resort](/blog/mulia-resort-bali-luxury/)
+  **Quick Reference:** [【Bali 5-Star Luxury Recommendations】Luxury Resort Recommendation: Mulia Resort](/en/blog/mulia-resort-bali-luxury/)
 
 ## **Jimbaran Area**
 
@@ -176,7 +176,7 @@ Live jazz band and fireworks show.
 Offers a Traditional Christmas Roast and vegetarian options.
 
 💰 **Starting from IDR 1,200K per adult.**
-  **Quick Reference:** [【Bali Ayana】Ayana Bali Accommodation Guide》Ayana Segara, RIMBA, Ayana Resort..](/blog/ayana-resort-bali-guide/)
+  **Quick Reference:** [【Bali Ayana】Ayana Bali Accommodation Guide》Ayana Segara, RIMBA, Ayana Resort..](/en/blog/ayana-resort-bali-guide/)
 
 ### Four Seasons Resort Bali at Jimbaran Bay
 
@@ -184,7 +184,7 @@ Offers a Traditional Christmas Roast and vegetarian options.
 - - December 24 & 25 evening: French-Asian fusion five-course 'Festive Set Dinner at Sundara' from 18:00–23:00, priced at **IDR 1,450,000/person**.
     - Christmas lunch (December 25) Brunch from 11:00–16:00, adult price **IDR 1,500,000/person**.
     - December 31 New Year's Eve dinner: Buffet + fireworks and party atmosphere; adult price for five courses + champagne + unlimited drinks is **IDR 7,000,000/person**.
-  **Quick reference:** [Bali Accommodation: Four Seasons Jimbaran Bay Unboxing & Deals](/blog/four-seasons-bali-jimbaran-bay/)
+  **Quick reference:** [Bali Accommodation: Four Seasons Jimbaran Bay Unboxing & Deals](/en/blog/four-seasons-bali-jimbaran-bay/)
 
 ### InterContinental Bali Resort
 
@@ -235,7 +235,7 @@ One of Bali's most iconic Christmas markets, featuring handicraft stalls, local 
 
 Bali's renowned cultural performance, the Devdan Show, presents a special Christmas edition blending traditional dance with festive elements. Audiences can enjoy fireworks, light shows, and a surprise appearance by Santa, creating a dreamy and heartwarming atmosphere.
 
-For a detailed introduction, please see [here](/blog/devdan-show-nusa-dua/).
+For a detailed introduction, please see [here](/en/blog/devdan-show-nusa-dua/).
 
 > [Klook ticket link](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
 > [KKday ticket link](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
@@ -386,6 +386,6 @@ It's recommended to book at least 2 to 3 months in advance to secure your ideal 
 
 ### Q6: What if it suddenly rains?
 
-No worries! We've prepared 60 indoor activities for rainy days in Bali. Check them out [here](/blog/2026-bali-indoor-activities/).
+No worries! We've prepared 60 indoor activities for rainy days in Bali. Check them out [here](/en/blog/2026-bali-indoor-activities/).
   ---
  BLOCK0 

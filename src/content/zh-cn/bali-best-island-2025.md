@@ -41,9 +41,9 @@ Update: 2026/07/03
 
 **快速参考：**
 
-- [巴厘岛的祭拜习俗：Canang Sari](/blog/bali-canang-sari-explained/)
-- [【2025】Tirta Empul 圣泉寺完整指南：巴厘岛最神圣的净化水庙体验](/blog/tirta-empul-temple-guide/)
-- [【巴厘岛灵疗/灵性之旅】当《Eat Pray Love》成为我的真实人生](/blog/eat-pray-love-bali-spiritual-journey/)
+- [巴厘岛的祭拜习俗：Canang Sari](/zh-cn/blog/bali-canang-sari-explained/)
+- [【2025】Tirta Empul 圣泉寺完整指南：巴厘岛最神圣的净化水庙体验](/zh-cn/blog/tirta-empul-temple-guide/)
+- [【巴厘岛灵疗/灵性之旅】当《Eat Pray Love》成为我的真实人生](/zh-cn/blog/eat-pray-love-bali-spiritual-journey/)
 
 ### ✨ **多样化的旅游体验**
 
@@ -53,7 +53,7 @@ Update: 2026/07/03
 
 **快速参考：**
 
-- [巴厘岛户外活动玩什么？50种最受欢迎的户外体验](/blog/bali-top-50-outdoor-activities/)
+- [巴厘岛户外活动玩什么？50种最受欢迎的户外体验](/zh-cn/blog/bali-top-50-outdoor-activities/)
 
 ### ✨ **与旅人连结的温度**
 
@@ -77,7 +77,7 @@ Update: 2026/07/03
 
 **快速参考：**
 
-- [2025巴厘岛景点地图推荐攻略 ｜500个最新巴厘岛人气景点一次搜全](/blog/bali-top-500-attractions/)
+- [2025巴厘岛景点地图推荐攻略 ｜500个最新巴厘岛人气景点一次搜全](/zh-cn/blog/bali-top-500-attractions/)
 
 ***
 
@@ -97,4 +97,4 @@ Update: 2026/07/03
 
 ## 第一次去巴厘岛该从哪里开始规划？
 
-建议先看[500个人气景点地图攻略](/blog/bali-top-500-attractions/)掌握全岛景点分布，再依兴趣选择乌布（文化静心）、水明漾（精品购物）或金巴兰（海景美食）作为住宿基地。
+建议先看[500个人气景点地图攻略](/zh-cn/blog/bali-top-500-attractions/)掌握全岛景点分布，再依兴趣选择乌布（文化静心）、水明漾（精品购物）或金巴兰（海景美食）作为住宿基地。

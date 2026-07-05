@@ -39,7 +39,7 @@ _srcHash: 9daaf49dcf9208a4078c69dc8b6fe61c
     - **机场送机**：包车司机免费送至机场
   **快速参考：**
 
-> [2026巴厘岛入境变革一分钟搞懂：印尼/巴厘岛入境流程 - 下飞机/过海关/到领行李的流程](/blog/2025-bali-immigration-process/)
+> [2026巴厘岛入境变革一分钟搞懂：印尼/巴厘岛入境流程 - 下飞机/过海关/到领行李的流程](/zh-cn/blog/2025-bali-immigration-process/)
 
 ## 详细行程
 
@@ -138,11 +138,11 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 🦒巴厘岛野生动物园门票▶[Klook优惠](https://affiliate.klook.com/my_ads/text_links?ad_id=988904&type=all)
 
-> 编按：在巴厘岛野生动物园隔壁，有一个2025新开幕的海洋公园，详细介绍请看[这里](/blog/marine-safari-bali-guide/)
+> 编按：在巴厘岛野生动物园隔壁，有一个2025新开幕的海洋公园，详细介绍请看[这里](/zh-cn/blog/marine-safari-bali-guide/)
 
 ![遊客可以近距離觸摸鯊魚和魟魚。除此之外還有企鵝、食人魚、水豚君...等，看看我們的介紹喔！](https://images.gobaligo.id/vocus/vocus_d1f018ab990e090d0f3afd49608a82a8.png)
 
-[游客可以近距离触摸鲨鱼和魟鱼。除此之外还有企鹅、食人鱼、水豚君...等，看看我们的介绍喔！](/blog/marine-safari-bali-guide/)
+[游客可以近距离触摸鲨鱼和魟鱼。除此之外还有企鹅、食人鱼、水豚君...等，看看我们的介绍喔！](/zh-cn/blog/marine-safari-bali-guide/)
   ---
 
 ## **第六天（1 月 6 日，一）— 自然与文化之旅：水神庙、圣泉寺与德哥拉朗梯田**
@@ -189,7 +189,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 结束梯田之旅后，我们前往金巴兰海滩享用晚餐。在夕阳西下的背景下，我们品尝了新鲜的海鲜料理，这顿浪漫的晚餐成了当天的完美结尾。
   **快速参考：**
 
-> [巴厘岛金巴兰11家海鲜餐厅：不踩雷推荐](/blog/jimbaran-seafood-restaurants-list/)
+> [巴厘岛金巴兰11家海鲜餐厅：不踩雷推荐](/zh-cn/blog/jimbaran-seafood-restaurants-list/)
 >   ---
 
 ## **第七天（1 月 7 日，二）— 海神庙与悬崖酒吧的绝美日落**
@@ -205,7 +205,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 🛕🌊🌅海神庙，巴厘岛必访的日落圣地，欣赏壮丽的海景与宗教氛围 ▶[Klook优惠](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
   **快速参考：**
 
-[海神庙票价、退潮时间、周边景点介绍](/blog/bali-tanah-lot-guide/)
+[海神庙票价、退潮时间、周边景点介绍](/zh-cn/blog/bali-tanah-lot-guide/)
 
 ### **午餐：烤猪饭（Babi Guling）**
 
@@ -226,7 +226,7 @@ https://youtube.com/shorts/tHRxnJqxqbw
 
   **快速参考：**
 
-> [巴厘岛金巴兰岩石酒吧 Rock Bar 如何预约？完整体验攻略！](/blog/bali-rock-bar-reservation-guide/)
+> [巴厘岛金巴兰岩石酒吧 Rock Bar 如何预约？完整体验攻略！](/zh-cn/blog/bali-rock-bar-reservation-guide/)
 >   ---
 
 ## **第八天（1 月 8 日，三）— 南湾水上活动大冒险**
@@ -239,7 +239,7 @@ https://youtube.com/shorts/tHRxnJqxqbw
 
 如果有计划参加南湾的水上活动，不要像我一样没有事先研究好，结果多付了好几倍的钱！**务必提前在网上订票**，不只能省下大笔费用，也能避免到现场被当「冤大头」的情况。
 
-## 延伸阅读：[巴厘岛南湾水上活动介绍](/blog/tanjung-benoa-water-activities/)
+## 延伸阅读：[巴厘岛南湾水上活动介绍](/zh-cn/blog/tanjung-benoa-water-activities/)
 
 🏖️🌊🚤南湾水上活动，拖曳伞、浮潜、海底漫步、香蕉船体验 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E4%25B8%25B9%25E6%2588%258E%25E8%25B2%259D%25E8%25AB%25BE%25E7%2593%25A6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3D4376a16ccb)  ▶[Trip优惠](https://tw.trip.com/travel-guide/attraction/bali/tanjung-benoa-watersports-33461755?curr=IDR&locale=zh-TW&poiType=3&ext-searchpage=1&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
   ---
@@ -282,8 +282,8 @@ https://youtu.be/hdIKOX5wghU
 
   **快速参考：**
 
-- [巴厘岛水明漾100个景点攻略](/blog/seminyak-guide/)
-- [沙努尔50项吃喝玩乐攻略](/blog/sanur-guide/)
+- [巴厘岛水明漾100个景点攻略](/zh-cn/blog/seminyak-guide/)
+- [沙努尔50项吃喝玩乐攻略](/zh-cn/blog/sanur-guide/)
   ---
 
 ## **第十一天（1 月 11 日，六）— 结束愉快的旅程**
@@ -294,7 +294,7 @@ https://youtu.be/hdIKOX5wghU
 
 - **按摩体验**：热石按摩与精油按摩，司机推荐，品质保证且价格优惠。我们在旅程中安排了两次按摩，第一次是热石按摩，第二次是精油按摩，两次体验都非常棒，让我们彻底放松身心。
 
-💆‍♀️🌿🕯️在巴厘岛享受一次超放松的 SPA ，搭配芳香疗法与热石按摩 😌，让身心彻底舒缓！▶[各区域的好评SPA推荐](/blog/spa/)
+💆‍♀️🌿🕯️在巴厘岛享受一次超放松的 SPA ，搭配芳香疗法与热石按摩 😌，让身心彻底舒缓！▶[各区域的好评SPA推荐](/zh-cn/blog/spa/)
 
 - **包车服务**：推荐使用包车司机，可根据个人喜好规划行程，司机会提供最佳路线建议。我们的司机Ok Bali非常专业，中文流利，还会讲解巴厘岛的历史和文化，让我们对这个地方有了更深的了解。
 
@@ -304,7 +304,7 @@ https://youtu.be/hdIKOX5wghU
 
 右手边是我们这几天的司机，他的名字就叫「Ok」。体贴、细心、不飙车、不抽烟、守时的Ok司机——其实超多优点
 
-🚗👨‍✈️🌴在巴厘岛旅游，包车司机是你的最佳旅伴！他们熟悉当地路线，热情又专业，带你畅游巴厘岛 ▶[包车司机推荐名人榜](/blog/bali-private-car-drivers-guide/)
+🚗👨‍✈️🌴在巴厘岛旅游，包车司机是你的最佳旅伴！他们熟悉当地路线，热情又专业，带你畅游巴厘岛 ▶[包车司机推荐名人榜](/zh-cn/blog/bali-private-car-drivers-guide/)
 
 ## 结语
 
@@ -316,6 +316,6 @@ https://youtu.be/hdIKOX5wghU
 
 点击这里观看更多巴厘岛精彩游记
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/zh-cn/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
 
 {{block:攻略}}

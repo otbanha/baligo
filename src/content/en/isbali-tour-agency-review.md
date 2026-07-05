@@ -33,7 +33,7 @@ Among the myriad of travel options, finding a travel agency that truly caters to
 
 isBali is renowned for its customized itineraries, meticulously designing travel plans based on each traveler's budget and duration. For first-time visitors to Bali, this service is undoubtedly a tremendous help. Travelers simply need to share their budget and a few desired destinations, and isBali takes care of the rest. From flights and hotels to daily private drivers, everything is expertly arranged. This semi-independent travel style not only saves time on research and planning but also retains flexibility and freedom throughout the trip.
 
-> What are the must-visit spots in Bali? Check out: [2025 Ultimate Bali Travel Guide: 500 Top Attractions in One Place](/blog/bali-top-500-attractions/)
+> What are the must-visit spots in Bali? Check out: [2025 Ultimate Bali Travel Guide: 500 Top Attractions in One Place](/en/blog/bali-top-500-attractions/)
 
 ## Professional Drivers, Thoughtful Service
 
@@ -113,7 +113,7 @@ Let the professional team handle the tedious details, so you can focus on enjoyi
 
 Take advantage of this incredible offer and start planning your Bali trip now!
 
-**If you want to enjoy VIP luxury travel with Alphard transfers, check out [here](/blog/bali-luxury-vip-travel-guide/).**
+**If you want to enjoy VIP luxury travel with Alphard transfers, check out [here](/en/blog/bali-luxury-vip-travel-guide/).**
 
 All itineraries can be customized to your needs, making your journey perfect. Contact isBali Travel Agency via Line customer service and let **isBali** take you on an unforgettable Bali adventure!
 

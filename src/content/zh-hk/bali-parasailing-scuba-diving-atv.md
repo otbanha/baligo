@@ -59,7 +59,7 @@ update: 2026/05/26
 
 ![行程規劃同溝通](https://images.gobaligo.id/vocus/vocus_bc0d1457f9ad845aaff9a109114ba614.png)
 
-> [峇里島旅遊注意事項：第一次去峇里島必睇嘅32項旅遊攻略](/blog/bali-ultimate-guide-2026/)
+> [峇里島旅遊注意事項：第一次去峇里島必睇嘅32項旅遊攻略](/zh-hk/blog/bali-ultimate-guide-2026/)
 
 ## 行程心得與建議
 
@@ -67,7 +67,7 @@ update: 2026/05/26
 
 喺峇里島，唔係超市、大餐廳、連鎖店嘅飲料最好唔好隨便試。今次旅行中，我哋有朋友喺一般小食店飲咗飲料，結果肚屙咗兩日。雖然當地嘅飲料睇落好吸引，但係為咗避免旅行途中病咗，都係揀安全可靠嘅飲料比較好。另外，可以隨身帶啲治療腸胃不適嘅藥物，以防不時之需。
 
-> [峇里島旅行健康小貼士：峇里島嘅飲用水同腹瀉指南](/blog/bali-travel-health-tips/)
+> [峇里島旅行健康小貼士：峇里島嘅飲用水同腹瀉指南](/zh-hk/blog/bali-travel-health-tips/)
 
 ### **多帶換洗內衣褲**
 
@@ -115,13 +115,13 @@ https://youtu.be/IReL1ztxL7c
 
 峇里島有好多換錢嘅地方，可以請導遊或者司機帶你哋去，咁樣更加安全可靠。由於換錢非常方便，所以唔需要一次換太多錢。我今次旅行因為有先收公基金，所以自己五日嘅零用錢只係換咗200美金，結果仲有剩。建議隨身帶一啲美金，以備不時之需，亦可以減少喺當地換錢嘅次數。
 
-> [印尼/峇里島旅遊換匯懶人包：印尼/峇里島用咩錢？點樣換錢最抵？去邊度換錢最好？](/blog/bali-currency-exchange-guide/)
+> [印尼/峇里島旅遊換匯懶人包：印尼/峇里島用咩錢？點樣換錢最抵？去邊度換錢最好？](/zh-hk/blog/bali-currency-exchange-guide/)
 
 ### **泛舟體驗**
 
 喺峇里島玩泛舟之前，要行一段好長嘅山路（落樓梯）先可以到河邊。回程就要行一段上坡樓梯，雖然樓梯冇咁長，但對於體力唔好嘅人嚟講，都係有啲挑戰。如果有帶老人家或者細路，一定要評估佢哋嘅體力。不過，泛舟過程真係好刺激好玩，係一次難忘嘅體驗，所以都係好推薦大家試吓。
 
-> [峇里島泛舟攻略（泛舟常見問題FAQ）](/blog/bali-rafting-ayung-telaga-waja/)
+> [峇里島泛舟攻略（泛舟常見問題FAQ）](/zh-hk/blog/bali-rafting-ayung-telaga-waja/)
 
 ### 其他玩樂
 
@@ -131,15 +131,15 @@ https://youtu.be/IReL1ztxL7c
 
 （圖左）GWK神鷹廣場可以嚟行吓影相，唔會行好耐！（懶人認證👍🏻
 
-> [GWK神鷹廣場](/blog/bali-family-trip-gwk-beach-club/) 遊記
+> [GWK神鷹廣場](/zh-hk/blog/bali-family-trip-gwk-beach-club/) 遊記
 
 （圖中）我哋仲整壞咗一架ATV越野車（打空檔踩油門…
 
-> [峇里島 ATV 四輪越野車探險：感受熱帶天堂嘅刺激與自由（提醒事項+業者推薦）](/blog/bali-atv-adventure-guide/)
+> [峇里島 ATV 四輪越野車探險：感受熱帶天堂嘅刺激與自由（提醒事項+業者推薦）](/zh-hk/blog/bali-atv-adventure-guide/)
 
 （圖右）都唔知點解我哋咁大膽可以放雙手...下次仲要再玩拖曳傘
 
-> [烏魯瓦圖攻略](/blog/uluwatu-guide/) ｜[喺烏魯瓦圖飛翔！超靚海景+注意事項分享](/blog/uluwatu-paragliding-ocean-view/)
+> [烏魯瓦圖攻略](/zh-hk/blog/uluwatu-guide/) ｜[喺烏魯瓦圖飛翔！超靚海景+注意事項分享](/zh-hk/blog/uluwatu-paragliding-ocean-view/)
 
 ![余孟苓提供](https://images.gobaligo.id/vocus/vocus_86510d86b1e385faaad873854fe73fae.jpg)
 
@@ -147,15 +147,15 @@ https://youtu.be/IReL1ztxL7c
 
 （圖左）懸崖泳池超正！呢個係Oneeighty Dayclub，可以事先上網訂位㗎！
 
-> [探索Oneeighty Day Club：峇里島懸崖邊嘅游泳池極致美景](/blog/oneeighty-dayclub-uluwatu-pool/)
+> [探索Oneeighty Day Club：峇里島懸崖邊嘅游泳池極致美景](/zh-hk/blog/oneeighty-dayclub-uluwatu-pool/)
 
 （圖中）Tanah Barak Cliff一線天好靚
 
-> [峇里島 Batu Barak/Tanah Barak：藍色公路/斷崖公路嘅絕美之旅](/blog/batu-barak-cliff-road/)
+> [峇里島 Batu Barak/Tanah Barak：藍色公路/斷崖公路嘅絕美之旅](/zh-hk/blog/batu-barak-cliff-road/)
 
 （圖右）海底漫步都好正！不過會成日耳壓唔平衡
 
-> [南灣海底漫步](/blog/nusa-dua-guide/)
+> [南灣海底漫步](/zh-hk/blog/nusa-dua-guide/)
 
 {{block:戶外}}
 
@@ -167,6 +167,6 @@ https://youtu.be/IReL1ztxL7c
 
 撳呢度睇更多峇里島精彩遊記 __VID0__
 
-你都想寫遊記但唔知點入手？可以參考下「[點樣寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出色！
+你都想寫遊記但唔知點入手？可以參考下「[點樣寫一篇精彩嘅峇里島遊記](/zh-hk/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出色！
 
 {{block:攻略}}

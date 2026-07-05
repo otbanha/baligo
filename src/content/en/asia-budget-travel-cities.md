@@ -66,7 +66,7 @@ Daily Budget: US$28.23
 
 ![庫塔必訪50個景點攻略 》請點我](https://images.gobaligo.id/vocus/vocus_f2bb96f43b2afe6befd4cd536d9724f4.jpg)
 
-[50 Must-Visit Spots in Kuta 》Click Here](/blog/2023-12-13-657598bdfd8978000120fe20/)
+[50 Must-Visit Spots in Kuta 》Click Here](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 - **Highlights**: Charming beaches, nightlife, and affordable accommodations, perfect for travelers looking to unwind.
 - **Must-Do**: Learn to surf or join a beach yoga class to experience local activities.

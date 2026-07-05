@@ -58,9 +58,9 @@ _srcHash: 14dcb1190eced83d9e1a5cd794ba5648
 
 巴厘岛是一个让人心旷神怡的度假胜地，不值得因为货币兑换的问题而影响我们的心情。放开胸怀，畅游巴厘岛，享受这个独特的文化和美丽的自然景观吧！
 
-> 延伸阅读：[换汇懒人包、信用店家推荐](/blog/bali-currency-exchange-guide/)
+> 延伸阅读：[换汇懒人包、信用店家推荐](/zh-cn/blog/bali-currency-exchange-guide/)
 
 **快速参考：**
 
-- [印尼/巴厘岛换汇：直接换 vs 先换美金再换印尼盾，哪个划算？](/blog/bali-currency-exchange-tips/)
-- [巴厘岛换钱血泪史：团友亲身经历揭密，千万别贪小便宜！](/blog/bali-money-exchange-scams-2/)
+- [印尼/巴厘岛换汇：直接换 vs 先换美金再换印尼盾，哪个划算？](/zh-cn/blog/bali-currency-exchange-tips/)
+- [巴厘岛换钱血泪史：团友亲身经历揭密，千万别贪小便宜！](/zh-cn/blog/bali-money-exchange-scams-2/)

@@ -160,6 +160,6 @@ If your Bali family itinerary already includes Ubud, seriously consider adding t
 
 > Book online for the dolphin park: [kkday](https://www.kkday.com/en/product/138734-bali-exotic-dolphin-marine-park-indonesia?qs=Bali+exotic&cid=25072) [Trip](https://tw.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065?curr=IDR&locale=en-TW&poiType=3&ext-searchpage=1&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
-➡ More Bali family-friendly attractions: [Complete Guide to Bali's Top 10 Kids' Attractions](/blog/top-10-kids-attractions-in-bali/)
+➡ More Bali family-friendly attractions: [Complete Guide to Bali's Top 10 Kids' Attractions](/en/blog/top-10-kids-attractions-in-bali/)
 
 {{block:親子}}

@@ -55,7 +55,7 @@ Balerung Stage专业演出片段：__VID0__
 
 如果你计划到巴厘岛，不妨亲自来体验 Balerung Stage，这里的每场演出都蕴含着丰富的历史和传统，让你能够真正感受到巴厘的文化精髓！
 
-> 延伸阅读：[「票价为150K」... 150K是什么意思？](/blog/bali-budget-tips-k-explained/)
+> 延伸阅读：[「票价为150K」... 150K是什么意思？](/zh-cn/blog/bali-budget-tips-k-explained/)
 
 ## 注册加入我们的博客
 

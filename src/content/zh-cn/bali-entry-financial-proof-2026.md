@@ -66,12 +66,12 @@ https://youtu.be/7JIqxDIyDF0
 ### 核心证件
 
 - 护照：有效期需 6 个月以上。
-- 电子签证 (e-VOA)：建议事先在官网办妥。（请看[说明](/blog/bali-evisa-application-guide/)）
+- 电子签证 (e-VOA)：建议事先在官网办妥。（请看[说明](/zh-cn/blog/bali-evisa-application-guide/)）
 - 回程/续程机票：确保日期与签证停留期相符。
 
 ### 电子申报
 
-- [All Indonesia 入境卡](/blog/bali-all-indonesia-arrival-guide/) (AIAC)：出发前 72 小时内在线填写。
+- [All Indonesia 入境卡](/zh-cn/blog/bali-all-indonesia-arrival-guide/) (AIAC)：出发前 72 小时内在线填写。
 - 巴厘岛旅游税 (Tourist Levy)：在线支付 15 万印尼盾，并保存缴费凭证。
 
 ### 新制抽查文件

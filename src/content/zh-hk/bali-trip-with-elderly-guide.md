@@ -43,7 +43,7 @@ Update: 2026/07/03
 
 呢個步驟可以喺出境前完成：[海關申報入口](https://ecd.beacukai.go.id/)
 
-有咗呢啲預先準備，峇里島嘅入境流程會順暢好多，慳返即場填表排隊嘅時間。如果仲未清楚流程，可以參考呢度詳細嘅說明。而家第一關同第三關已經合併咗：「[【2026版】印尼峇里島入境使用「All Indonesia」入境卡｜1分鐘搞懂最新流程：落機→過關→拎行李全攻略](/blog/bali-all-indonesia-arrival-guide/)」
+有咗呢啲預先準備，峇里島嘅入境流程會順暢好多，慳返即場填表排隊嘅時間。如果仲未清楚流程，可以參考呢度詳細嘅說明。而家第一關同第三關已經合併咗：「[【2026版】印尼峇里島入境使用「All Indonesia」入境卡｜1分鐘搞懂最新流程：落機→過關→拎行李全攻略](/zh-hk/blog/bali-all-indonesia-arrival-guide/)」
 
 ## 【包車同行程安排嘅溝通建議】
 
@@ -65,7 +65,7 @@ Update: 2026/07/03
 
 透過咁樣嘅準備同溝通方式，包車旅行會更加順暢，而且可以更好咁配合旅程嘅需要，帶嚟滿足嘅峇里島體驗。
 
-> 編按：關於旅行前嘅計劃，可以參考呢篇「[峇里島自由行旅程規劃攻略：5 個步驟輕鬆搞定](/blog/2026-bali-trip-planning-guide/)」
+> 編按：關於旅行前嘅計劃，可以參考呢篇「[峇里島自由行旅程規劃攻略：5 個步驟輕鬆搞定](/zh-hk/blog/2026-bali-trip-planning-guide/)」
 
 ## 【行程安排】
 
@@ -110,7 +110,7 @@ https://youtu.be/JtxZHtijEkE
 
 - **Penglipuran村**：極具傳統風貌嘅峇里村落，整整齊齊嘅房屋同石板路充滿人文氣息。
 
-> 編按：以上烏布景點都收錄喺「[峇里島烏布完整攻略：100種深入認識烏布的方式](/blog/ubud-guide/)」
+> 編按：以上烏布景點都收錄喺「[峇里島烏布完整攻略：100種深入認識烏布的方式](/zh-hk/blog/ubud-guide/)」
 
 1. - **烏魯瓦圖神廟**（Pura Luhur Uluwatu）：坐落喺懸崖頂嘅神廟，係欣賞壯麗海景同日落嘅完美地點。
 
@@ -124,7 +124,7 @@ https://youtu.be/JtxZHtijEkE
 
 1. - **Melasti海灘**（Melasti Beach）：白沙細緻、海水清澈，係享受陽光同放鬆嘅理想去處。
 
-> 編按：以上烏魯瓦圖景點都收錄喺「[烏魯瓦圖景點 50個吃喝玩樂推薦](/blog/uluwatu-guide/)」
+> 編按：以上烏魯瓦圖景點都收錄喺「[烏魯瓦圖景點 50個吃喝玩樂推薦](/zh-hk/blog/uluwatu-guide/)」
 
 1. - **Krisna紀念品中心**（Krisna Oleh Oleh Bali Bypass）：峇里島出名嘅手信店，揀禮物嘅好地方。
 
@@ -140,7 +140,7 @@ https://youtu.be/JtxZHtijEkE
 
 （Claire Chen提供）
 
-> 快速參考：[峇里島探險：巴杜爾火山吉普車日出之旅全記錄](/blog/batur-volcano-jeep-sunrise-tour/)
+> 快速參考：[峇里島探險：巴杜爾火山吉普車日出之旅全記錄](/zh-hk/blog/batur-volcano-jeep-sunrise-tour/)
 
 1. - **努沙佩尼達島跳島一日遊**（Nusa Penida Day Tour）：安排島上專業司機帶我哋，盡情探索呢個迷人小島。司機主要講英文，但基本溝通冇問題，有疑問可以隨時聯絡峇里島嘅中文導遊Ani幫手。佩尼達島嘅司機個個都好識影相，可以幫手影到理想嘅旅遊相。
 
@@ -168,7 +168,7 @@ https://youtu.be/JtxZHtijEkE
 
 （Claire Chen提供）
 
-> 編按：以上佩尼達島景點都收錄喺「[佩尼達島全攻略:地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/nusa-penida-guide/)」
+> 編按：以上佩尼達島景點都收錄喺「[佩尼達島全攻略:地圖、搭船、住宿、交通、包車、活動、攝影、景點](/zh-hk/blog/nusa-penida-guide/)」
 
 呢次旅程集齊咗自然、美景同文化嘅精髓，無論係想放鬆、影相定體驗當地生活，都可以滿足唔同嘅需求。
 
@@ -195,7 +195,7 @@ https://youtu.be/JtxZHtijEkE
 
 ## 【旅程結語】
 
-最後特別要推薦嘅係我哋透過Facebook群組【[Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo/)】喺「[峇里島包車司機推薦名人榜](/blog/bali-private-car-drivers-guide/)」搵到嘅專業包車團隊同導遊，令呢趟首次去峇里島嘅旅程無比安心舒適。
+最後特別要推薦嘅係我哋透過Facebook群組【[Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo/)】喺「[峇里島包車司機推薦名人榜](/zh-hk/blog/bali-private-car-drivers-guide/)」搵到嘅專業包車團隊同導遊，令呢趟首次去峇里島嘅旅程無比安心舒適。
 
 ![【旅程結語】](https://images.gobaligo.id/vocus/vocus_da313eec958216453bae20d6d64fe17c.jpg)
 
@@ -205,9 +205,9 @@ https://youtu.be/JtxZHtijEkE
 
 ## **帶長輩同遊峇里島指南：**
 
-- 第一集：[適合長者嘅峇里島旅行指南 - 安全、舒適與注意事項](/blog/bali-elderly-travel-guide/)
-- 第二集：[適合年長者嘅峇里島旅遊地點全攻略](/blog/bali-senior-friendly-travel-guide/)
-- 第三集：[長輩嘅行為有幾奇葩！？帶出國旅遊要小心「吃力不討好」](/blog/traveling-with-elderly-parents-tips/)
+- 第一集：[適合長者嘅峇里島旅行指南 - 安全、舒適與注意事項](/zh-hk/blog/bali-elderly-travel-guide/)
+- 第二集：[適合年長者嘅峇里島旅遊地點全攻略](/zh-hk/blog/bali-senior-friendly-travel-guide/)
+- 第三集：[長輩嘅行為有幾奇葩！？帶出國旅遊要小心「吃力不討好」](/zh-hk/blog/traveling-with-elderly-parents-tips/)
 
 你覺得Claire Chen佢哋嘅行程好精彩嗎？快啲安排屬於你嘅峇里島自由行啦！亦歡迎大家去群組投稿你嘅行程㗎！
 
@@ -215,6 +215,6 @@ https://youtu.be/JtxZHtijEkE
 
 撳呢度睇更多峇里島精彩遊記
 
-你都好想寫遊記但唔知點入手？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更出色！
+你都好想寫遊記但唔知點入手？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/zh-hk/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更出色！
 
 {{block:攻略}}

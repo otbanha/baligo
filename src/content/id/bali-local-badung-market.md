@@ -75,13 +75,13 @@ Denpasar punya beberapa kedai kopi terbaik di Bali, kayak NADHI Heritage, The Ru
 
 https://youtu.be/gEcE2e4TFaM
 
-> [【Panduan Denpasar 2026】Jelajahi 100 Kota Terbaik Dunia: Peta Budaya, Sejarah & Kuliner Ibu Kota Bali](/blog/denpasar-culture-guide/)
+> [【Panduan Denpasar 2026】Jelajahi 100 Kota Terbaik Dunia: Peta Budaya, Sejarah & Kuliner Ibu Kota Bali](/id/blog/denpasar-culture-guide/)
 
 ## Mau makan, tapi nggak berani coba-coba sendiri?
 
 Jujur aja, pasar tradisional emang nggak semua orang berani masuk sendiri. Pedagangnya kebanyakan cuma bisa bahasa Indonesia, menu nggak ada bahasa Inggris, bahkan cara pesan dan bayar aja udah kayak petualangan kecil. Rempah-rempahnya juga bikin pusing — bubuk cabai aja ada beberapa level pedas yang beda.
 
-Kalau kamu tertarik sama konsep 'jalan-jalan ke pasar lokal', tapi takut salah beli karena kendala bahasa, **pasar malam Kreneng** bisa jadi pilihan yang lebih ramah pemula. Kami pernah nulis [catatan soal tur kuliner malam Kreneng bareng guide Mandarin](/blog/kreneng-night-market-food-tour/), dan itu tempat asli warga Denpasar makan — dari babi guling, sate, sampai Soto Ayam, nyaris nggak ada turis. Ada guide yang nemenin tuh beda banget, setidaknya kamu nggak bakal kelewatan lapak-lapak tersembunyi di gang-gang kecil.
+Kalau kamu tertarik sama konsep 'jalan-jalan ke pasar lokal', tapi takut salah beli karena kendala bahasa, **pasar malam Kreneng** bisa jadi pilihan yang lebih ramah pemula. Kami pernah nulis [catatan soal tur kuliner malam Kreneng bareng guide Mandarin](/id/blog/kreneng-night-market-food-tour/), dan itu tempat asli warga Denpasar makan — dari babi guling, sate, sampai Soto Ayam, nyaris nggak ada turis. Ada guide yang nemenin tuh beda banget, setidaknya kamu nggak bakal kelewatan lapak-lapak tersembunyi di gang-gang kecil.
 
 ## Pesan terakhir
 

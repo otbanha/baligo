@@ -197,7 +197,7 @@ Cocok buat: Keluarga yang suka area luas, sunset kece, dan makanan berkualitas.
 
 https://youtube.com/shorts/3HHn9DdLzug
 
-> [【Panduan Lengkap AYANA Bali 2026】 Cara Pilih 4 Hotel? Perbandingan Segara & RIMBA, Tips Reservasi Rock Bar](/blog/ayana-resort-bali-guide/)
+> [【Panduan Lengkap AYANA Bali 2026】 Cara Pilih 4 Hotel? Perbandingan Segara & RIMBA, Tips Reservasi Rock Bar](/id/blog/ayana-resort-bali-guide/)
 
 ## **Movenpick Resort Jimbaran**
 

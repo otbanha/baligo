@@ -171,7 +171,7 @@ Ini yang nggak bakal kamu baca di blog Klook atau artikel brand eSIM:
 3. Masukin SIM card baru, restart HP
 4. Kalau nggak otomatis setel jaringan, masuk ke pengaturan APN dan isi manual (lihat tutorial di bawah)
 
-**Ngomong-ngomong:** Buat urusan transportasi dari bandara ke penginapan, cek [Panduan Tiba di Bali: Pilihan Transportasi Jemput & Tips Hari Pertama yang Praktis](/blog/bali-airport-transfer-guide/), lengkap dengan perbandingan antar paket mobil, taksi, dan ojek online.
+**Ngomong-ngomong:** Buat urusan transportasi dari bandara ke penginapan, cek [Panduan Tiba di Bali: Pilihan Transportasi Jemput & Tips Hari Pertama yang Praktis](/id/blog/bali-airport-transfer-guide/), lengkap dengan perbandingan antar paket mobil, taksi, dan ojek online.
 
 ### 2. Beli di Minimarket Kota
 
@@ -387,7 +387,7 @@ Counter resmi Telkomsel dan Indosat di bandara ada layanan bahasa Inggris, atau 
 Klook, Airalo, Holafly itu platform global terkenal, pakai enkripsi HTTPS, amannya sama kayak belanja online biasa. Saran: pakai kartu kredit yang bebas biaya transaksi luar negeri (kayak Richart).
 
 **Wi-Fi portable vs SIM card, mana lebih murah?**
-Kalau trip 5 hari ke bawah dan bareng 3 orang lebih, Wi-Fi portable dibagi per orang mungkin lebih murah. Tapi kalau lebih dari 5 hari, atau cuma 1–2 orang, SIM card atau eSIM pasti lebih worth it, dan nggak perlu khawatir baterai Wi-Fi habis. [Perbandingan lengkap Wi-Fi portable vs SIM card di Bali](/blog/bali-sim-card-esim-roaming-guide/) ada di artikel lain.
+Kalau trip 5 hari ke bawah dan bareng 3 orang lebih, Wi-Fi portable dibagi per orang mungkin lebih murah. Tapi kalau lebih dari 5 hari, atau cuma 1–2 orang, SIM card atau eSIM pasti lebih worth it, dan nggak perlu khawatir baterai Wi-Fi habis. [Perbandingan lengkap Wi-Fi portable vs SIM card di Bali](/id/blog/bali-sim-card-esim-roaming-guide/) ada di artikel lain.
 
 **Bareng teman, eSIM atau SIM fisik lebih murah?**
 Kalau 2 orang ke bawah, masing-masing beli eSIM sendiri paling praktis. Kalau 3 orang lebih, satu SIM fisik Telkomsel buat hotspot adalah opsi termurah (satu IDR 120,000 dibagi tiga cuma sekitar USD$4 per orang). Tapi hotspot bikin baterai cepet habis, siapin power bank.
@@ -422,15 +422,15 @@ Kartu prabayar Telkomsel dan Indosat, saldo telepon dan SMS itu dihitung terpisa
 
 **Panduan yang mungkin lo butuhin selanjutnya:**
 
-- [Panduan Lengkap Transportasi Bandara Bali](/blog/bali-airport-transfer-guide/)——cara ke kota setelah keluar bandara
-- [Panduan Tukar Uang & Peta Tempat Tukar Uang Rekomendasi di Bali](/blog/bali-currency-exchange-guide/)——tips tukar uang biar nggak kena tipu
-- [Rekomendasi Sewa Mobil Pribadi & Biaya di Bali](/blog/bali-private-car-hire-guide/)——harga sewa mobil buat Ubud, air terjun, sunrise
-- [Panduan Lengkap Itinerary 7 Hari di Bali](/blog/bali-free-travel-guide/)——dari bandara sampai hari terakhir
+- [Panduan Lengkap Transportasi Bandara Bali](/id/blog/bali-airport-transfer-guide/)——cara ke kota setelah keluar bandara
+- [Panduan Tukar Uang & Peta Tempat Tukar Uang Rekomendasi di Bali](/id/blog/bali-currency-exchange-guide/)——tips tukar uang biar nggak kena tipu
+- [Rekomendasi Sewa Mobil Pribadi & Biaya di Bali](/id/blog/bali-private-car-hire-guide/)——harga sewa mobil buat Ubud, air terjun, sunrise
+- [Panduan Lengkap Itinerary 7 Hari di Bali](/id/blog/bali-free-travel-guide/)——dari bandara sampai hari terakhir
 
 ***
 
 📍 \*\*[Peta Lokasi Toko Resmi Operator Telekomunikasi Bali](/map/sim-card/)\*\*——lokasi, alamat, dan jam buka toko resmi Telkomsel / Indosat / XL di setiap area.
 
-[Panduan Ultimate Liburan ke Bali 2026｜Wajib Baca buat yang Pertama ke Bali](/blog/bali-ultimate-guide-2026/)
+[Panduan Ultimate Liburan ke Bali 2026｜Wajib Baca buat yang Pertama ke Bali](/id/blog/bali-ultimate-guide-2026/)
 
 {{block:klook}}

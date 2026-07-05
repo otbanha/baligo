@@ -120,7 +120,7 @@ Nama jalan: Jl. Raya Canggu
 - Jangan naik maskapai murah, aturan bagasi berat & ukuran bikin kamu menyesal
 - Barang berbentuk 3D seperti keranjang rotan, lampu gantung, pastikan **bisa di-check-in setelah dibungkus**
 
-> [Gimana cara kirim furnitur besar dari Bali ke luar negeri? Panduan kargo udara/laut/peti kemas](/blog/bali-furniture-shipping-guide/)
+> [Gimana cara kirim furnitur besar dari Bali ke luar negeri? Panduan kargo udara/laut/peti kemas](/id/blog/bali-furniture-shipping-guide/)
 
 {{block:伴手禮}}
 

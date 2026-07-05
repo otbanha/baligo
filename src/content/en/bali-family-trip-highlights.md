@@ -39,7 +39,7 @@ Provided by Lin Xiaozhao
 
 This time we specially arranged a visit to the GWK Cultural Park. It not only boasts magnificent cultural heritage but also countless scenic spots perfect for photos. The park is huge, so we strongly recommend taking the shuttle bus to easily and enjoyably explore every attraction.
 
-> [Complete Guide to Bali's Garuda Wisnu Kencana GWK Plaza/Cultural Park](/blog/gwk-cultural-park-bali/)
+> [Complete Guide to Bali's Garuda Wisnu Kencana GWK Plaza/Cultural Park](/en/blog/gwk-cultural-park-bali/)
 
 🦅☀️🌴 GWK Cultural Park — the massive Vishnu statue and Garuda are breathtaking 😍. You can also enjoy traditional performances, a perfect blend of culture and nature. ▶ [Book on Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=848821&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D795e4377a1)
 
@@ -51,7 +51,7 @@ Provided by Lin Xiaozhao
 
 The rafting trip we booked on Klook, "[Red Paddle Bali Adventure](https://affiliate.klook.com/redirect?aid=116349&aff_adid=901865&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F5504-ayung-white-water-rafting-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D65ec132ff9)," exceeded all expectations. The guides were not only professional but also incredibly attentive. When our eldest son felt a bit unwell during the trip, the guide kept checking on him, which put us at ease. The guides on other rafts were just as friendly—splashing water and racing each other, turning the two-hour rafting adventure into a joyride. We even met travelers from Saudi Arabia and South Korea, chatting and laughing together. It was a fantastic chance to practice our English and Korean—so much fun!
 
-> For "Rafting Tips & FAQs," check [here](/blog/bali-rafting-ayung-telaga-waja/)
+> For "Rafting Tips & FAQs," check [here](/en/blog/bali-rafting-ayung-telaga-waja/)
 
 ### **Our Driver's Thoughtful Service — Fulfilling Every Wish**
 
@@ -61,7 +61,7 @@ Provided by Lin Xiaozhao
 
 Our private driver, Teja, not only made our dreams of rice terraces and swings come true in one go but also took us to many hidden scenic spots. The swing at the rice terraces was especially breathtaking, with stunning views and long-tailed dresses available for rent. I instantly felt like a fairy—it was absolutely dreamy!
 
-> [Ubud Swings: The 8 Best Swing Photo Spots in Bali | Ubud Swing & Dress Rental Guide](/blog/ubud-jungle-swings-photo-guide/)
+> [Ubud Swings: The 8 Best Swing Photo Spots in Bali | Ubud Swing & Dress Rental Guide](/en/blog/ubud-jungle-swings-photo-guide/)
 
 🛕🐒🌿 A day trip to Ubud: explore Instagram-worthy spots, marvel at breathtaking natural beauty, and savor local cuisine and civet coffee ☕📸. A perfect blend of culture and nature ▶ [Choose from 50+ Klook tours](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989417&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E7%2583%258F%25E5%25B8%2583%25E4%25B8%2580%25E6%2597%25A5%26sort%3Dmost_relevant%26tab_key%3D0%26start%3D1)
 
@@ -73,7 +73,7 @@ Provided by Lin Xiaozhao
 
 At Paperhills Café, we were lucky enough to witness the magnificent Mount Batur in all its glory—the entire profile of this active volcano was crystal clear, truly awe-inspiring. The café has four levels, each offering picture-perfect photo spots. Wearing our own outfits, we could snap Instagram-worthy shots anywhere. The beauty of hiring a private driver is that we could bring along all our gear, big and small, capturing beautiful moments anytime, anywhere.
 
-> Read more: [12 Best View Cafés in Kintamani, Bali](/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
+> Read more: [12 Best View Cafés in Kintamani, Bali](/en/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
 
 ### **Rijasa Agung Resort and Villas – The Perfect Blend of Tranquility and Comfort**
 
@@ -92,7 +92,7 @@ During our stay in Ubud, we checked into Rijasa Agung Resort, nestled along the 
 
 > ▶ Check Rijasa Agung Resort and Villas rates & availability: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1744536&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/c79DvepT)
 
-Featured in: [【Bali Ubud Accommodation】28 Unique Stays in Ubud for a Magical Journey Through Bali's Mountain Scenery!](/blog/ubud-villas-pool-guide/)
+Featured in: [【Bali Ubud Accommodation】28 Unique Stays in Ubud for a Magical Journey Through Bali's Mountain Scenery!](/en/blog/ubud-villas-pool-guide/)
 
 ### **Jungle Cart – A Unique Bali Experience**
 
@@ -100,7 +100,7 @@ https://youtube.com/shorts/v7NAvCARzKY
 
 Many people have tried go-karting, but driving directly through the jungle roads of Ubud is a new experience exclusive to Bali! We sped through rice paddy scenery, with a lead car blasting music to check the road ahead. Along the way, chickens scurried, cows lazily mooed, and though the 30-minute ride was short, it was packed with endless fun.
 
-Check out the full introduction here: [Ubud Jungle Mario Kart Experience in Bali](/blog/ubud-jungle-cart-adventure/)
+Check out the full introduction here: [Ubud Jungle Mario Kart Experience in Bali](/en/blog/ubud-jungle-cart-adventure/)
 
 🏎️🏎️ [Book Jungle Cart Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=880814&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F121396-ubud-jungle-cart-experience-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbeaf072d1f)
 

@@ -42,11 +42,11 @@ Ada yang datang buat lihat sunset di pantai barat, santai aja tanpa mikir; ada y
 
 ![Perjalanan Tanpa Jawaban Pasti](https://images.gobaligo.id/vocus/vocus_104bf07d3e6737f9d056a85f8714c32b.png)
 
-**Referensi Cepat:** [【Panduan Terbaik Waktu Sunset di Bali】7 Spot Sunset di Bali, Udah Berapa yang Kamu Kunjungi?](/blog/bali-sunset-spots-guide/)
+**Referensi Cepat:** [【Panduan Terbaik Waktu Sunset di Bali】7 Spot Sunset di Bali, Udah Berapa yang Kamu Kunjungi?](/id/blog/bali-sunset-spots-guide/)
 
 ![Perjalanan Tanpa Jawaban Pasti](https://images.gobaligo.id/vocus/vocus_2634825130a33ed12c76424c2ef48c7e.png)
 
-**Referensi Cepat:** [20 Beach Club Gratis di Bali: Nikmatin Bikini, Musik, Kolam Renang, dan Pemandangan Sunset](/blog/bali-beach-clubs-free-entry-list/)
+**Referensi Cepat:** [20 Beach Club Gratis di Bali: Nikmatin Bikini, Musik, Kolam Renang, dan Pemandangan Sunset](/id/blog/bali-beach-clubs-free-entry-list/)
 
 Tentu, banyak juga yang datang buat spot Instagramable — ombak di Pura Tanah Lot, hijau sawah terasering Tegalalang, ayunan estetik, sarapan cantik di kafe, dll. Sementara pecinta petualangan mungkin lebih suka hiking gunung berapi, diving eksplorasi dunia bawah laut, atau rafting seru.
 
@@ -54,8 +54,8 @@ Tentu, banyak juga yang datang buat spot Instagramable — ombak di Pura Tanah L
 
 **Referensi Cepat:**
 
-- [Aktivitas Outdoor di Bali: 50 Pengalaman Paling Populer](/blog/bali-top-50-outdoor-activities/)
-- [Panduan Lengkap Aktivitas Air di Bali | Bukan Cuma Snorkeling! 15 Cara Main Air yang Nggak Terduga](/blog/2026-bali-water-activities/)
+- [Aktivitas Outdoor di Bali: 50 Pengalaman Paling Populer](/id/blog/bali-top-50-outdoor-activities/)
+- [Panduan Lengkap Aktivitas Air di Bali | Bukan Cuma Snorkeling! 15 Cara Main Air yang Nggak Terduga](/id/blog/2026-bali-water-activities/)
 
 ## Tanya Diri Sendiri Dulu Sebelum Mulai
 
@@ -67,8 +67,8 @@ Sebelum mulai merencanakan itinerary ke Bali, coba tanya diri sendiri: "Apa sih 
 - **Pengin foto aesthetic?** Siapin kamera, dari Gates of Heaven sampai ayunan, spot-spot hits di Bali udah nungguin kamu
 - **Pengin tantangan?** Sunrise trekking Gunung Batur, snorkeling di Nusa Lembongan, atau rafting di Sungai Ayung — semuanya oke banget
 - **Bawa anak dan pengin quality time keluarga?** Ada ratusan cara seru, cek aja rubrik "[Keluarga & Anak](/blog?cat=%E5%AE%B6%E5%BA%AD%E8%A6%AA%E5%AD%90)"
-- **Bawa orang tua dan pengin santai?**[Panduan Wisata Bali untuk Lansia — Aman, Nyaman, dan Tips Penting](/blog/bali-elderly-travel-guide/)
-- **Pengin romantis berdua?**[Panduan Romantis Bulan Madu di Bali: 36 Cara Seru buat Pasangan](/blog/bali-honeymoon-romantic-activities-2/)
+- **Bawa orang tua dan pengin santai?**[Panduan Wisata Bali untuk Lansia — Aman, Nyaman, dan Tips Penting](/id/blog/bali-elderly-travel-guide/)
+- **Pengin romantis berdua?**[Panduan Romantis Bulan Madu di Bali: 36 Cara Seru buat Pasangan](/id/blog/bali-honeymoon-romantic-activities-2/)
 
 ## Berjuta Cara buat Menikmati Bali
 
@@ -80,14 +80,14 @@ Bahkan bisa full petualangan: pagi buta naik gunung api lihat sunrise, siangnya 
 
 Referensi cepat:
 
-- [Panduan Lengkap Dua Teras Sawah di Bali: Tegallalang vs Jatiluwih — Tiket Masuk Berapa? Waktu Terbaik?](/blog/bali-rice-terraces-comparison/)
-- [9 Restoran Seafood Jimbaran: Rekomendasi Anti Zonk](/blog/jimbaran-seafood-restaurants-list/)
-- [5 Klub Malam Terbaik di Seminyak: Nightlife yang Bikin Kamu Bergoyang!](/blog/seminyak-nightclubs-guide/)
-- [Koleksi SPA & Pijat ke Rumah Terbaik di Bali — Lebih Gampang Dicari per Wilayah](/blog/spa/)
-- [Panduan Kuliner Seminyak: Perpaduan Romantis, Elegan, dan Autentik Bali](/blog/seminyak-restaurants-food-guide/)
-- [Petualangan di Bali: Naik Jeep Gunung Batur buat Sunrise — Cerita Lengkap](/blog/batur-volcano-jeep-sunrise-tour/)
-- [Spot Snorkeling Terindah di Bali: Panduan Petualangan Laut buat Pemula](/blog/bali-snorkeling-spots/)
-- [【Pengalaman Paralayang di Bali】Terbang di Uluwatu! Pemandangan Laut Super Indah + Tips Penting](/blog/uluwatu-paragliding-ocean-view/)
+- [Panduan Lengkap Dua Teras Sawah di Bali: Tegallalang vs Jatiluwih — Tiket Masuk Berapa? Waktu Terbaik?](/id/blog/bali-rice-terraces-comparison/)
+- [9 Restoran Seafood Jimbaran: Rekomendasi Anti Zonk](/id/blog/jimbaran-seafood-restaurants-list/)
+- [5 Klub Malam Terbaik di Seminyak: Nightlife yang Bikin Kamu Bergoyang!](/id/blog/seminyak-nightclubs-guide/)
+- [Koleksi SPA & Pijat ke Rumah Terbaik di Bali — Lebih Gampang Dicari per Wilayah](/id/blog/spa/)
+- [Panduan Kuliner Seminyak: Perpaduan Romantis, Elegan, dan Autentik Bali](/id/blog/seminyak-restaurants-food-guide/)
+- [Petualangan di Bali: Naik Jeep Gunung Batur buat Sunrise — Cerita Lengkap](/id/blog/batur-volcano-jeep-sunrise-tour/)
+- [Spot Snorkeling Terindah di Bali: Panduan Petualangan Laut buat Pemula](/id/blog/bali-snorkeling-spots/)
+- [【Pengalaman Paralayang di Bali】Terbang di Uluwatu! Pemandangan Laut Super Indah + Tips Penting](/id/blog/uluwatu-paragliding-ocean-view/)
 
 ## Sepuluh Landmark Ikonik di Bali
 
@@ -95,12 +95,12 @@ Referensi cepat:
 
 Meskipun nggak ada tempat yang wajib dikunjungi, Bali punya "sepuluh landmark ikonik". Tempat-tempat ini nunjukkin budaya, pemandangan alam, dan pesona khas Bali secara maksimal — bikin kamu bisa ngerasain keunikan Bali dalam waktu singkat. Selain itu, spot-spot ini juga hits banget buat foto-foto atau sekadar bilang "aku pernah ke sini".
 
-Selain itu, Bali punya banyak spot unik banget. Kamu bisa cek panduan lengkap kami yang berisi ratusan tempat wisata di "[Panduan Wisata Bali Lengkap 500+ Tempat](/blog/bali-top-500-attractions/)" — udah update 2025, dijamin nemu destinasi yang kamu incar!
+Selain itu, Bali punya banyak spot unik banget. Kamu bisa cek panduan lengkap kami yang berisi ratusan tempat wisata di "[Panduan Wisata Bali Lengkap 500+ Tempat](/id/blog/bali-top-500-attractions/)" — udah update 2025, dijamin nemu destinasi yang kamu incar!
 
 Baca juga:
 
-- [Panduan Wisata Bali: Pertama Kali ke Ubud? 20 Rekomendasi Tempat & Tips Lengkap](/blog/ubud-top-20-attractions-guide/)
-- [Panduan Sehari di Seminyak: Itinerary dari Matahari Terbit hingga Terbenam](/blog/seminyak-day-trip-guide/)
+- [Panduan Wisata Bali: Pertama Kali ke Ubud? 20 Rekomendasi Tempat & Tips Lengkap](/id/blog/ubud-top-20-attractions-guide/)
+- [Panduan Sehari di Seminyak: Itinerary dari Matahari Terbit hingga Terbenam](/id/blog/seminyak-day-trip-guide/)
 
 ## Kenapa Bali Bisa Bikin Traveler Dunia Jatuh Cinta?
 
@@ -162,4 +162,4 @@ Ingat, perjalanan terbaik bukan soal berapa banyak tempat yang dikunjungi, tapi 
 
 👈 **Kembali ke Panduan Lengkap Trip ke Bali**
 
-Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.
+Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.

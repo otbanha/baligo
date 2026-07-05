@@ -79,7 +79,7 @@ Pengunjung di sini relatif jarang, suasananya super tenang dan damai. Cocok bang
 
 Mau merasakan sensasi penaklukan sejati? Ikut sunrise hiking di Gunung Batur adalah aktivitas klasik banget! Biasanya harus berangkat dini hari, butuh waktu sekitar 2–3 jam untuk sampai ke puncak. Saat sinar pertama menyobek langit, seluruh danau dan pegunungan berkilauan di bawah cahaya keemasan — pemandangan megah yang bikin kamu terpana.
 
-**Referensi cepat:** [Panduan Sunrise Hiking Gunung Batur](/blog/batur-sunrise-hiking-guide/)
+**Referensi cepat:** [Panduan Sunrise Hiking Gunung Batur](/id/blog/batur-sunrise-hiking-guide/)
 
 ## 🚙 **Safari Jeep Sunrise**
 
@@ -87,7 +87,7 @@ Mau merasakan sensasi penaklukan sejati? Ikut sunrise hiking di Gunung Batur ada
 
 Kalau kamu mau yang lebih santai tapi tetap nggak mau ketinggalan pemandangan matahari terbit, bisa pilih paket **Jeep Sunrise Gunung Batur**. Jeep berpenggerak 4 roda akan membawa kamu melintasi hamparan pasir vulkanik hitam dan lembah lahar, langsung ke spot pemandangan terbaik.
 
-**Referensi cepat:** [Petualangan Bali: Catatan Lengkap Tur Jeep Sunrise Gunung Batur](/blog/batur-volcano-jeep-sunrise-tour/)
+**Referensi cepat:** [Petualangan Bali: Catatan Lengkap Tur Jeep Sunrise Gunung Batur](/id/blog/batur-volcano-jeep-sunrise-tour/)
 
 ## 🌅 **Safari Jeep Sunset**
 
@@ -101,7 +101,7 @@ Pengalaman ini cocok banget buat:
 
 Seluruh perjalanan sekitar 8 jam, biaya sudah termasuk antar-jemput hotel, tiket masuk tempat wisata, sopir sekaligus pemandu wisata berbahasa Inggris, layanan fotografi profesional, serta camilan dan air mineral.
 
-**Referensi Cepat:** [Gak perlu bangun pagi-pagi buat taklukin gunung berapi Bali! Tur Jeep Sunset bikin kamu dapet foto keren](https://gobaligo.id/blog/batur-volcano-sunset-jeep-tour/)
+**Referensi Cepat:** [Gak perlu bangun pagi-pagi buat taklukin gunung berapi Bali! Tur Jeep Sunset bikin kamu dapet foto keren](https://gobaligo.id/id/blog/batur-volcano-sunset-jeep-tour/)
 
 ***
 
@@ -131,7 +131,7 @@ Kalau jiwa Bali tersembunyi di antara gunung berapi dan danau, maka karakter Dan
 
 Ini dia rekomendasi **puluhan kafe dengan pemandangan Danau Batur** — mau santai-santai aja atau hunting foto estetik, semua ada tempatnya.
 
-**Cek Cepat:** [13 Kafe & Restoran Pemandangan Gunung Api di Kintamani, Bali 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
+**Cek Cepat:** [13 Kafe & Restoran Pemandangan Gunung Api di Kintamani, Bali 🌄☕](/id/blog/kintamani-volcano-cafes-restaurants/)
 
 ***
 

@@ -73,7 +73,7 @@ Tukad Badung Riverside 不只是夜景美丽的景点，更是城市更新的成
 5. **适合亲子旅游吗？**
    非常适合，设有儿童专属戏水喷泉区，但建议家长陪同。
 6. **如何安排附近的一日游?**
-   请参考: [【登巴萨攻略地图】巴厘岛的文化之都：登巴萨，2025年全球百大城市之一](/blog/denpasar-culture-guide/)
+   请参考: [【登巴萨攻略地图】巴厘岛的文化之都：登巴萨，2025年全球百大城市之一](/zh-cn/blog/denpasar-culture-guide/)
 
 > [登巴萨文化遗产与街头美食夜间导览](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1256541&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F197385-denpasar-heritage-street-food-evening-tour%2F)
 

@@ -37,7 +37,7 @@ Among so many restaurants, this one praised as 'Bali's Most Beautiful Restaurant
 
 ![【Bali's Most Beautiful Restaurant】La Brisa Bali Guide: Enter](https://images.gobaligo.id/vocus/vocus_a516952fa874238cf08ef63be006c56d.jpg)
 
-La Brisa is located on the foreshore of Echo Beach in Canggu, Bali's hottest tourist spot (check out [Canggu 80 Spots Guide](/blog/canggu-guide/)), one of Bali's most famous beaches, offering absolutely stunning, endless cuisine and genuine Balinese hospitality.
+La Brisa is located on the foreshore of Echo Beach in Canggu, Bali's hottest tourist spot (check out [Canggu 80 Spots Guide](/en/blog/canggu-guide/)), one of Bali's most famous beaches, offering absolutely stunning, endless cuisine and genuine Balinese hospitality.
 
 La Brisa is not just a restaurant but also a beach club. Its concept is written in its name—La Brisa, meaning the wild, charming, and pleasantly soothing sea breeze. Built using recycled wood from over 500 old fishing boats and professionally hand-decorated, La Brisa Bali is one of the island's most stylish and eco-friendly venues today, exuding authentic Balinese character and offering some jaw-droppingly delicious food and cocktails.
 

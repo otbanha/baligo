@@ -93,24 +93,24 @@ Bali nggak cuma terkenal di Asia, tapi juga bersinar banget di pasar wisata glob
 
 ##### Baca Juga:
 
-- [Paling Disukai Traveler Sedunia! Bali Juara](/blog/bali-tripadvisor-award-2025-2/)
-- [【Destinasi Wisata No.1 Asia 2025】Bali Bersinar di TripAdvisor 2025 Traveler's Choice Awards](/blog/bali-tripadvisor-award-2025/)
+- [Paling Disukai Traveler Sedunia! Bali Juara](/id/blog/bali-tripadvisor-award-2025-2/)
+- [【Destinasi Wisata No.1 Asia 2025】Bali Bersinar di TripAdvisor 2025 Traveler's Choice Awards](/id/blog/bali-tripadvisor-award-2025/)
 
 Dengan makin banyaknya liputan media, permintaan wisata ke Bali juga terus naik. Tahun 2025, Bali diperkirakan bakal kedatangan lebih dari **650.000 wisatawan internasional**, plus jutaan wisatawan domestik — bikin rekor baru terus-terusan.
 
 ## **Jelajahi Hidden Gem Bali: Spot Wisata Baru yang Lagi Naik Daun**
 
-Meskipun kawasan wisata utama Bali kayak **Kuta** ([**Info & Panduan Kuta**](/blog/2023-12-13-657598bdfd8978000120fe20/)**_）_、_Seminyak（_**[**Info & Panduan Seminyak**](/blog/seminyak-guide/)**_）_、_Nusa Dua（_**[**Info & Panduan Nusa Dua**](/blog/nusa-dua-guide/)） dan **Ubud** ([**Info & Panduan Ubud**](/blog/ubud-guide/)**）** masih jadi favorit, makin banyak traveler yang balik lagi milih explore hidden gem yang jarang diketahui orang — biar bisa lebih ngerasain budaya Bali dan hindarin keramaian.
+Meskipun kawasan wisata utama Bali kayak **Kuta** ([**Info & Panduan Kuta**](/id/blog/2023-12-13-657598bdfd8978000120fe20/)**_）_、_Seminyak（_**[**Info & Panduan Seminyak**](/id/blog/seminyak-guide/)**_）_、_Nusa Dua（_**[**Info & Panduan Nusa Dua**](/id/blog/nusa-dua-guide/)） dan **Ubud** ([**Info & Panduan Ubud**](/id/blog/ubud-guide/)**）** masih jadi favorit, makin banyak traveler yang balik lagi milih explore hidden gem yang jarang diketahui orang — biar bisa lebih ngerasain budaya Bali dan hindarin keramaian.
 
 Tahun 2026, kawasan-kawasan ini diprediksi bakal jadi destinasi hits baru:
 
 - **_Bali Timur_：_Karangasem_、_Candidasa_ yang tenang, _Amed_ surga diving**
 
-> Baca Juga：[Panduan Amed/Tulamben](/blog/amed-tulamben-diving-guide/)
+> Baca Juga：[Panduan Amed/Tulamben](/id/blog/amed-tulamben-diving-guide/)
 
 - **_Bali Utara_：_Lovina_ kampung lumba-lumba, _Pemuteran_ surga alam**
 
-> Baca juga: [15 Tips Liburan ke Bali Utara: Panduan Persiapan Sebelum Berangkat](/blog/north-bali-travel-guide/)
+> Baca juga: [15 Tips Liburan ke Bali Utara: Panduan Persiapan Sebelum Berangkat](/id/blog/north-bali-travel-guide/)
 
 - **_Bali Barat_ : Surga Surfing di _Medewi_, _West Bali National Park_ yang Megah**
 

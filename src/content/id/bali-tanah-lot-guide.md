@@ -42,7 +42,7 @@ Sejarah Pura Tanah Lot bisa dilacak sampai abad ke-16, konon didirikan oleh seor
 
 Arsitektur Pura Tanah Lot simpel tapi penuh kekuatan, apalagi pas air laut pasang, seluruh pura kayak mengapung di atas air, bikin suasana mistis dan sakral. Pas surut, pengunjung bisa jalan kaki sampai ke depan pura, lihat detail ukiran yang indah. Sebagai tempat ibadah penting di Bali, Pura Tanah Lot juga sering mengadakan upacara religi spesial, yang paling utama adalah perayaan Piodalan, biasanya diadakan empat hari setelah Hari Raya Kuningan, khas Bali. Kamu bisa saksikan langsung kegiatan religi yang penuh khidmat dari warga lokal.
 
-> Baca Juga: [Kalender Festival Bali 2026](/blog/2026-bali-festival-guide/)
+> Baca Juga: [Kalender Festival Bali 2026](/id/blog/2026-bali-festival-guide/)
 
 ![1. Latar Belakang Sejarah & Makna Religi Pura Tanah Lot](https://images.gobaligo.id/vocus/vocus_71c5ba824a21ebf14225e1a786a733aa.jpg)
 
@@ -89,8 +89,8 @@ Yang perlu diingat, pas jam sibuk matahari terbenam pasti rame banget. Kalau mau
 
 Canggu, yang paling deket sama Tanah Lot, jadi basecamp paling oke buat eksplorasi. Buat referensi nginep di Canggu, cek aja:
 
-- [Canggu Top 20: Rekomendasi Penginapan yang Wajib Kamu Coba](/blog/canggu-top-hotels-guide/)
-- [10+ Villa dengan Kolam Renang Pribadi di Canggu: Villa Canggu yang Gak Boleh Dilewatkan di Bali](/blog/canggu-villas-guide/)
+- [Canggu Top 20: Rekomendasi Penginapan yang Wajib Kamu Coba](/id/blog/canggu-top-hotels-guide/)
+- [10+ Villa dengan Kolam Renang Pribadi di Canggu: Villa Canggu yang Gak Boleh Dilewatkan di Bali](/id/blog/canggu-villas-guide/)
 
 ## 4. Kuliner di Pura Tanah Lot
 
@@ -100,13 +100,13 @@ Tepat di tepi pantai Pura Tanah Lot, ada restoran yang nawarin pengalaman makan 
 
 ## 5. Tempat Wisata di Sekitar Pura Tanah Lot
 
-Selain Tanah Lot, buat kamu yang cari ide liburan seru di Bali, jangan lupa cek "[Peta Panduan Canggu](/blog/canggu-guide/)" yang udah gue kumpulin dengan cermat. Di dalamnya ada 80 tempat wajib dikunjungi, dari pemandangan alam sampai kuliner, biar kamu bisa rencanain itinerary dengan gampang dan gak kelewatan momen keren. Kawasan Canggu juga deket dari Tanah Lot, jadi pilihan terbaik buat ngerasain kehidupan lokal dan tren terbaru di Bali!
+Selain Tanah Lot, buat kamu yang cari ide liburan seru di Bali, jangan lupa cek "[Peta Panduan Canggu](/id/blog/canggu-guide/)" yang udah gue kumpulin dengan cermat. Di dalamnya ada 80 tempat wajib dikunjungi, dari pemandangan alam sampai kuliner, biar kamu bisa rencanain itinerary dengan gampang dan gak kelewatan momen keren. Kawasan Canggu juga deket dari Tanah Lot, jadi pilihan terbaik buat ngerasain kehidupan lokal dan tren terbaru di Bali!
 
-Satu lagi tempat yang lebih deket dari Tanah Lot adalah "Nuanu Creative City" yang baru banget. Di sini ada puluhan spot seru. Lanjut baca di "[Panduan Nuanu Creative City](/blog/nuanu-creative-city-luna-guide/)"
+Satu lagi tempat yang lebih deket dari Tanah Lot adalah "Nuanu Creative City" yang baru banget. Di sini ada puluhan spot seru. Lanjut baca di "[Panduan Nuanu Creative City](/id/blog/nuanu-creative-city-luna-guide/)"
 
 ## Topik Rekomendasi untuk Lanjutan
 
-- [【Panduan Waktu Terbaik Menikmati Sunset di Bali】7 Spot Sunset Bali, Udah ke Berapa Banyak?](/blog/bali-sunset-spots-guide/)
-- [Panduan Nuanu Creative City](/blog/nuanu-creative-city-luna-guide/)
+- [【Panduan Waktu Terbaik Menikmati Sunset di Bali】7 Spot Sunset Bali, Udah ke Berapa Banyak?](/id/blog/bali-sunset-spots-guide/)
+- [Panduan Nuanu Creative City](/id/blog/nuanu-creative-city-luna-guide/)
 
 {{block:canggu}}

@@ -48,7 +48,7 @@ Below is an explanation of each comparison point:
 
 > **Renting a Scooter:** The most affordable option, costing around $3 to $5 USD per day. A budget-friendly choice for travelers.
 
-> **Private Car Hire:** More expensive, averaging around $38 to $51 USD per day. While pricier, it offers a more comfortable and secure mode of transportation. The price includes a driver, a five-seater car, fuel, the driver's meals, and parking fees. Toll fees and entrance tickets are not included. (Check out the [Complete Guide to Private Car Hire in Bali](/blog/bali-private-car-hire-guide/) for more details.)
+> **Private Car Hire:** More expensive, averaging around $38 to $51 USD per day. While pricier, it offers a more comfortable and secure mode of transportation. The price includes a driver, a five-seater car, fuel, the driver's meals, and parking fees. Toll fees and entrance tickets are not included. (Check out the [Complete Guide to Private Car Hire in Bali](/en/blog/bali-private-car-hire-guide/) for more details.)
 
 ### Required Documents:
 
@@ -138,8 +138,8 @@ For getting around Bali as a tourist, besides hiring private cars and renting sc
 
 Please refer to the following links:
 
-- Looking for a private car driver? Common questions? [Complete Guide to Private Car Hire in Bali](/blog/bali-private-car-hire-guide/)
-- Short-distance transportation? [Complete Guide to Using Gojek in Indonesia/Bali](/blog/gojek-bali-guide/)
+- Looking for a private car driver? Common questions? [Complete Guide to Private Car Hire in Bali](/en/blog/bali-private-car-hire-guide/)
+- Short-distance transportation? [Complete Guide to Using Gojek in Indonesia/Bali](/en/blog/gojek-bali-guide/)
 
 ## Language Barrier?
 
@@ -155,4 +155,4 @@ Finally, you should know how to make a wise choice between renting a scooter and
 
 👈 **Return to the Ultimate Bali Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.
+Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/en/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.

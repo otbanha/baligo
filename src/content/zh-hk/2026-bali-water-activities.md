@@ -49,7 +49,7 @@ https://youtu.be/gECdNvG16ww
     - **巴東巴東 (Padang Padang)**：經典浪點，適合進階衝浪者。
     -
 - **注意事項**：建議初學者先上1-2小時課程，了解安全規則同基本技巧。礁石浪點要着衝浪鞋保護對腳。
- **快速參考：**[【峇里島衝浪攻略】適合唔同等級嘅衝浪海灘介紹](/blog/bali-surf-beaches-guide/)
+ **快速參考：**[【峇里島衝浪攻略】適合唔同等級嘅衝浪海灘介紹](/zh-hk/blog/bali-surf-beaches-guide/)
 
 ## 🌊 刺激水上活動
 
@@ -116,7 +116,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ![6.1 浮潛（snorkeling）](https://images.gobaligo.id/vocus/vocus_8931b9fe6f6fd60c4c95f35857142770.jpg)
 
-> 請參考 [峇里島最靚浮潛地點大集合：新手友善海洋冒險指南](/blog/bali-snorkeling-spots/)
+> 請參考 [峇里島最靚浮潛地點大集合：新手友善海洋冒險指南](/zh-hk/blog/bali-snorkeling-spots/)
 
 ### 7. 海底漫步 (Sea Walking)
 
@@ -141,7 +141,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 - **體驗時間**：大約2-2.5小時河道時間（連交通同準備共4-5小時）。
 - **注意事項**：建議着快乾衫褲，帶定替換衫同防水袋。
 
-> ▶[峇里島泛舟推薦&攻略（泛舟常見問題FAQ）](/blog/bali-rafting-ayung-telaga-waja/)
+> ▶[峇里島泛舟推薦&攻略（泛舟常見問題FAQ）](/zh-hk/blog/bali-rafting-ayung-telaga-waja/)
 
 ### 9. 站立式划槳 (SUP) 同海上獨木舟 (Kayaking)
 
@@ -210,7 +210,7 @@ https://youtu.be/wai2lSW3vVU?si=smSuWoB2Y5ygrC9t
 
 峇里島周圍嘅沙灘俱樂部，係想感受青春、陽光同奔放嘅旅人唔可以錯過嘅行程必去景點之一！
 
-> [點解 2026 年嚟峇里島，大家都開始去 Beach Club？](/blog/2026-bali-beach-club-guide/)
+> [點解 2026 年嚟峇里島，大家都開始去 Beach Club？](/zh-hk/blog/2026-bali-beach-club-guide/)
 
 ### 額外加碼：泳池漂浮
 
@@ -246,6 +246,6 @@ https://youtu.be/wai2lSW3vVU?si=smSuWoB2Y5ygrC9t
 
 峇里島嘅水上活動選擇好多，無論你鍾意刺激冒險定係悠閒放鬆，都搵到啱嘅項目。建議根據自己嘅興趣、體能同預算嚟安排行程，盡情體驗呢個熱帶島嶼嘅海洋魅力！
 
-當然峇里島唔止得水上活動，陸地上嘅活動一樣咁精彩！想水陸通殺，可以參考呢篇：[峇里島戶外活動玩啲咩？50種最受歡迎嘅戶外體驗](/blog/bali-top-50-outdoor-activities/)
+當然峇里島唔止得水上活動，陸地上嘅活動一樣咁精彩！想水陸通殺，可以參考呢篇：[峇里島戶外活動玩啲咩？50種最受歡迎嘅戶外體驗](/zh-hk/blog/bali-top-50-outdoor-activities/)
 
 {{block:攻略}}

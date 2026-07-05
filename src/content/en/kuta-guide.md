@@ -99,7 +99,7 @@ Vihara Dharmayana Kuta is a Buddhist temple located in Kuta, Bali, Indonesia. Bu
 
 Vihara Dharmayana Kuta is an important pilgrimage site for Buddhists in Bali, drawing devotees from across the island each year.
 
-> Quick Reference: [**Six Major Chinese-Style Temples in Bali: Discover Zen and Chinese Heritage on the Island 🌸**](/blog/bali-chinese-temples-guide/)
+> Quick Reference: [**Six Major Chinese-Style Temples in Bali: Discover Zen and Chinese Heritage on the Island 🌸**](/en/blog/bali-chinese-temples-guide/)
 
 ### Satria Gatotkaca Statue Monument (👉🏼 Map: [Kuta Attractions](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing))
 
@@ -123,7 +123,7 @@ Experience a different side of local life at Bali's night market
 
 Night markets are common across Bali, and while Kuta Night Market is quite small, you can still find a variety of local food stalls offering traditional Indonesian snacks and Balinese specialties.
 
-Strolling through the night market lets you soak up the local culture and feel the vibrant energy of Kuta's nightlife. Check out ▶▶▶[Xiao Jie's blog about Bali's largest night market](/blog/bali-pasar-kreneng-night-market/).
+Strolling through the night market lets you soak up the local culture and feel the vibrant energy of Kuta's nightlife. Check out ▶▶▶[Xiao Jie's blog about Bali's largest night market](/en/blog/bali-pasar-kreneng-night-market/).
 
 {{block:klook}}
 
@@ -153,7 +153,7 @@ Waterbom Bali is a water park located in Kuta, Bali, and is one of the most popu
 
 According to Tripadvisor ratings, Waterbom Bali is the world's second-ranked water park, just behind Schlitterbahn Waterpark in the United States. It also tops the list of Asian water parks. Based on Blooloop's ratings, Waterbom Bali is the number one water park in Asia.
 
-For a detailed guide, check out [Bali Family Attractions: The Ultimate Guide to Waterbom Bali Water Park in Kuta 🌊](/blog/waterbom-bali-water-park-guide/)
+For a detailed guide, check out [Bali Family Attractions: The Ultimate Guide to Waterbom Bali Water Park in Kuta 🌊](/en/blog/waterbom-bali-water-park-guide/)
 
 > [Waterbom Discount Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=785571&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F175-waterbom-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D36b843df73)
 
@@ -171,7 +171,7 @@ Trans Studio Bali is a popular attraction near Kuta, close to Seminyak. It’s s
 
 https://youtube.com/shorts/POSTtRPKK5c?si=MzT-rDEK1gBqU86W
 
-> [Trans Studio Bali Detailed Guide](https://gobaligo.id/blog/trans-studio-bali/)
+> [Trans Studio Bali Detailed Guide](https://gobaligo.id/en/blog/trans-studio-bali/)
 
 Trans Studio Bali has seven themed zones with 23 rides and attractions—you could spend a whole day here and still not see it all! If you encounter rain during your Bali trip and your original plans fall through, don't worry! Trans Studio Bali's indoor theme park will provide a day full of fun and excitement. Check out the short video above by Xiao Jie for a quick introduction.
 
@@ -191,7 +191,7 @@ Looking for a fun activity in Bali that’s safe from the sun and rain? ZONE OUT
 
 They offer a variety of thrilling games to choose from: racing, shooting, horror, adventure, roller coasters, and more. The equipment is state-of-the-art, and the visuals are fully immersive, making it fun for both adults and kids. Situated in the bustling heart of Kuta, it’s easily accessible and an ideal choice for rainy days or afternoon leisure.
 
-For more details, check out [here](/blog/zone-out-bali-vr-adventure/)
+For more details, check out [here](/en/blog/zone-out-bali-vr-adventure/)
 
 **Book on Klook**: [Click here](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1155611&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F182303-zoneout-ticket-in-kuta-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D609046a554)
 
@@ -255,7 +255,7 @@ All you need to do is gather your friends, crank up your shamelessness, and get 
 
 There's also **Beer on Wheels Bali**, a unique mobile bar experience that lets visitors ride through the lively streets of Kuta while enjoying unlimited beer and soft drinks, all set to music and a party vibe! This 2-hour tour comes with ceiling speakers, a subwoofer, and 12 seats, perfect for groups or solo travelers.
 
-👉 [**Click here for full details and booking info**](/blog/kuta-beer-on-wheels-bali/)
+👉 [**Click here for full details and booking info**](/en/blog/kuta-beer-on-wheels-bali/)
 
 ### Nightclub Party at Sky Garden (👉🏼 Map: [Kuta Activities](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing))
 
@@ -353,7 +353,7 @@ Famous for its crispy duck (crispy skin duck), this is one of Bali's signature d
 
 Wanaku Seafood & Chinese Restaurant is a Chinese seafood restaurant. Unlike other local eateries, it is surrounded by ponds, flowing water, and lush gardens, allowing you to feel peaceful and serene throughout your meal! While enjoying authentic Chinese cuisine, modern performances and traditional activities enhance your dining experience. Plus, it's very close to the airport!
 
-Detailed introduction [here](/blog/wanaku-seafood-airport-bali/).
+Detailed introduction [here](/en/blog/wanaku-seafood-airport-bali/).
 
 👉[**Wanaku Seafood & Chinese Restaurant Dining Discount**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988045&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F143929-wanaku-seafood-chinese-restaurant-in-kuta-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dc33c5c5189)
 
@@ -445,7 +445,7 @@ You can't go wrong with our top-rated spa recommendations!
 
 A trip to Bali wouldn't be complete without indulging in high-quality yet affordable spa treatments! However, many travelers end up disappointed—sometimes the storefront looks beautiful but the treatment rooms are shabby, and even more common are spas where the service feels half-hearted and impersonal.
 
-To find a top-notch spa, check out our curated list of ▶▶▶「[Top-Rated Spa Recommendations in Bali](/blog/spa/)」, which covers the best spas across Bali's main tourist areas. So far, this list has received zero negative reviews from travelers!
+To find a top-notch spa, check out our curated list of ▶▶▶「[Top-Rated Spa Recommendations in Bali](/en/blog/spa/)」, which covers the best spas across Bali's main tourist areas. So far, this list has received zero negative reviews from travelers!
 
 ## Recommended Accommodations in Kuta
 
@@ -457,7 +457,7 @@ As one of Bali's most popular destinations, Kuta boasts the most diverse range o
 
 [> 16 Handpicked Hotels Near Kuta Beach](/admin/)
 
-[> 12 Kuta Hotels Ultimate Guide: City Shopping, Airport Transit, and High-Value Stays](https://gobaligo.id/blog/best-kuta-hotels-list/)
+[> 12 Kuta Hotels Ultimate Guide: City Shopping, Airport Transit, and High-Value Stays](https://gobaligo.id/en/blog/best-kuta-hotels-list/)
 
 {{block:住宿}}
 

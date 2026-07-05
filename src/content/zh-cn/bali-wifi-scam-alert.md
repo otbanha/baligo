@@ -76,5 +76,5 @@ _srcHash: 990dca2fe17e20dc40701b246a9333aa
 
 **此外也参考一下我们分享过的两种街头骗术：**
 
-1. [【旅游陷阱警示】巴厘岛常见的换钱诈骗手法与防范指南](/blog/bali-money-exchange-scams/)
-2. [巴厘岛旅游警示：街头展示货币骗术，避免成为下一个受害者！](/blog/bali-street-scam-alert/)
+1. [【旅游陷阱警示】巴厘岛常见的换钱诈骗手法与防范指南](/zh-cn/blog/bali-money-exchange-scams/)
+2. [巴厘岛旅游警示：街头展示货币骗术，避免成为下一个受害者！](/zh-cn/blog/bali-street-scam-alert/)

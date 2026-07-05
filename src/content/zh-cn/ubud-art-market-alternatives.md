@@ -45,9 +45,9 @@ _srcHash: 11b9440da6bb9a1955f05423bdb29f14
 
 ![50種深入認識烏布的方式｜探索烏布的魅力](https://images.gobaligo.id/vocus/vocus_80395bdba038994228a52ece28779e07.jpg)
 
-[50种深入了解乌布的方式｜探索乌布的魅力](/blog/ubud-guide/)
+[50种深入了解乌布的方式｜探索乌布的魅力](/zh-cn/blog/ubud-guide/)
 
-乌布就要这样玩：[50种深入了解乌布的方式｜探索乌布的魅力](/blog/ubud-guide/)
+乌布就要这样玩：[50种深入了解乌布的方式｜探索乌布的魅力](/zh-cn/blog/ubud-guide/)
 
 ## 注册加入我们的博客
 

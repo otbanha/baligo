@@ -107,8 +107,8 @@ Canggu has become one of Bali's most popular tourist hotspots in recent years, r
 
 If you're also considering staying in the charming area of Canggu, take a look at the following curated accommodation guides we've prepared for you, helping you find the perfect choice:
 
-- [Canggu Top 12 Must-Visit Accommodation Recommendations](/blog/canggu-top-hotels-guide/)
-- [16 Private Pool Villas in Canggu: Bali Villas You Can't Miss](/blog/canggu-villas-guide/)
+- [Canggu Top 12 Must-Visit Accommodation Recommendations](/en/blog/canggu-top-hotels-guide/)
+- [16 Private Pool Villas in Canggu: Bali Villas You Can't Miss](/en/blog/canggu-villas-guide/)
 
  BLOCK0 
  BLOCK1 

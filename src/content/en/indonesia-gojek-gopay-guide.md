@@ -17,7 +17,7 @@ lang: en
 _srcHash: 33ade627fa0ba0394c672affdac72f38
 ---
 
-[🚗 Want to estimate Gojek fares? Click here](/map/gojek-fare/)
+[🚗 Want to estimate Gojek fares? Click here](/en/map/gojek-fare/)
 
 When traveling or living in Indonesia or Bali, the name **Gojek** is undoubtedly familiar to everyone. As one of Indonesia's most popular sharing economy platforms, Gojek offers not only transportation services but also various food delivery, shopping, and financial payment services. One of its key features is its closely integrated payment system—**GoPay**. This article will delve into all aspects of Gojek and GoPay, providing you with a detailed guide on how to register and use these services, helping you live more conveniently and easily in Indonesia.
 
@@ -124,7 +124,7 @@ Essentially, **Gojek** and **Grab** offer very similar services, both being supe
 
 Don’t worry! If you encounter issues registering for Gojek, you can **wait until you arrive locally to register**. In Taiwan, you just need to download the **Gojek app** in advance. Once you arrive in Indonesia and connect to the local network using a local SIM card, you can complete the registration process smoothly.
 
-> Further reading: [Bali Travel Essentials: How to Get Bali Internet/SIM Card?](/blog/bali-sim-card-esim-roaming-guide/)
+> Further reading: [Bali Travel Essentials: How to Get Bali Internet/SIM Card?](/en/blog/bali-sim-card-esim-roaming-guide/)
 
 ### **How to ask if a store accepts GoPay?**
 

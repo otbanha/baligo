@@ -120,7 +120,7 @@ Dengan masuknya Starlux ke arena, penerbangan langsung Taipei ke **Bali** bakal 
 ## **💡  Tips Perjalanan untuk Rute Ini**
 
 - **Pesan Driver Andalan**: Setelah mendarat dengan Starlux, cara paling mulus adalah pesan [[**sopir mobil pribadi**](/go/bali-car-charter-guide)] dengan rating tinggi. Saat kamu turun dari JX765, lihat sopir rapi yang sudah menunggu di hall kedatangan, lalu duduk di mobil luas dan sejuk — kesinambungan dari kabin premium ke kendaraan pribadi inilah kemewahan sejati.
-- **Urus Visa Sebelum Berangkat**: Penumpang Starlux juga wajib mengajukan eVisa Indonesia. Pastikan data benar sebelum berangkat; kalau salah isi, cek [[**Panduan Perbaikan Data eVisa**](/blog/bali-evisa-error-fix/)].
+- **Urus Visa Sebelum Berangkat**: Penumpang Starlux juga wajib mengajukan eVisa Indonesia. Pastikan data benar sebelum berangkat; kalau salah isi, cek [[**Panduan Perbaikan Data eVisa**](/id/blog/bali-evisa-error-fix/)].
 - **Padukan dengan Akomodasi Mewah**: Kalau sudah pilih maskapai premium, jangan asal pilih penginapan. Rekomendasi: [[**Rekomendasi Hotel Keluarga di Nusa Dua**](/go/nusa-dua-resorts)] atau [[**Panduan Seminyak**](/go/seminyak-guide)], biar kualitas perjalanan tetap maksimal.
 
 ***

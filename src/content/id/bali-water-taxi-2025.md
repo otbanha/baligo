@@ -74,7 +74,7 @@ Rute taksi laut baru ini akan memiliki tiga titik pemberhentian utama:
 
 ## Layanan GoBoat yang Sudah Ada
 
-Meskipun proyek ini digagas oleh pemerintah, ini bukan proyek transportasi laut pertama di Bali. Sudah ada layanan GoBoat yang dioperasikan oleh perusahaan swasta, yang saat ini menyediakan rute dari Canggu ke [Semenanjung Bukit](/blog/bukit-peninsula-guide/).
+Meskipun proyek ini digagas oleh pemerintah, ini bukan proyek transportasi laut pertama di Bali. Sudah ada layanan GoBoat yang dioperasikan oleh perusahaan swasta, yang saat ini menyediakan rute dari Canggu ke [Semenanjung Bukit](/id/blog/bukit-peninsula-guide/).
 
 ### **Rute GoBoat yang Ada**
 
@@ -125,4 +125,4 @@ Meskipun target utamanya turis, warga lokal juga bisa pakai layanan ini, dan mun
 
 👈 **Kembali ke Panduan Lengkap Liburan Mandiri ke Bali**
 
-Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.
+Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.

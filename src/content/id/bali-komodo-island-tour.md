@@ -82,13 +82,13 @@ Terakhir, kalau kamu juga mau liburan di Bali yang bebas ribet, penuh budaya lok
 - - WeChat: BettyPinkyWu
   - Line: @bettypinkywu
 
-### **Menyediakan paket all-in 5 hari 4 malam, termasuk tiket pesawat langsung Taiwan-Bali, tiket pesawat Bali-Komodo, 4 malam akomodasi, sewa mobil berdua selama perjalanan... dan lainnya: ⭐⭐**[**Bali + Pulau Komodo, 4 malam akomodasi mewah / tanpa belanja / tanpa biaya tambahan / 5 hari**](/blog/bali-komodo-luxury-tour-2026/)**⭐⭐**
+### **Menyediakan paket all-in 5 hari 4 malam, termasuk tiket pesawat langsung Taiwan-Bali, tiket pesawat Bali-Komodo, 4 malam akomodasi, sewa mobil berdua selama perjalanan... dan lainnya: ⭐⭐**[**Bali + Pulau Komodo, 4 malam akomodasi mewah / tanpa belanja / tanpa biaya tambahan / 5 hari**](/id/blog/bali-komodo-luxury-tour-2026/)**⭐⭐**
 
 ### Paket Tour "Bali + Pulau Komodo"
 
 ![「峇里島+科摩多島」套裝行程](https://images.gobaligo.id/vocus/vocus_b44d6f245184aea60972fa03ca2e2331.png)
 
-[Paket Tour "Bali + Pulau Komodo"](/blog/bali-komodo-luxury-tour-2026/)
+[Paket Tour "Bali + Pulau Komodo"](/id/blog/bali-komodo-luxury-tour-2026/)
 
 Kamu pikir itinerary dari Tyty Chow seru banget? Yuk, buruan atur liburan seru kamu ke Bali! Jangan lupa juga kirim itinerary kamu di grup ya!
 
@@ -96,4 +96,4 @@ Kamu pikir itinerary dari Tyty Chow seru banget? Yuk, buruan atur liburan seru k
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 
-Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan "[Cara Menulis Cerita Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)" biar ceritamu makin kece!
+Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan "[Cara Menulis Cerita Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)" biar ceritamu makin kece!

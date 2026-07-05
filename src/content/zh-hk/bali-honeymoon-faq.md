@@ -18,7 +18,7 @@ lang: zh-hk
 _srcHash: d2971954243750b5518049032cba7ff0
 ---
 
-唔耐之前先出爐嘅「十大全球浪漫旅遊目的地」，根據Agoda旅行平台嘅大數據，其中峇里島名列全球第六名（[請睇呢度](/blog/valentines-day-romantic-destinations/)）；而另一份Tripadvisor 2024年度統計資料，峇里島更被列為度蜜月目的地嘅頂尖寶座，[擊敗馬爾地夫奪得全世界冠軍！](/blog/bali-honeymoon-destination/)
+唔耐之前先出爐嘅「十大全球浪漫旅遊目的地」，根據Agoda旅行平台嘅大數據，其中峇里島名列全球第六名（[請睇呢度](/zh-hk/blog/valentines-day-romantic-destinations/)）；而另一份Tripadvisor 2024年度統計資料，峇里島更被列為度蜜月目的地嘅頂尖寶座，[擊敗馬爾地夫奪得全世界冠軍！](/zh-hk/blog/bali-honeymoon-destination/)
 
 ![點解越來越多人揀峇里島度蜜月？峇里島度蜜月常見問題解答](https://images.gobaligo.id/vocus/vocus_b4f537565e91e25fd6de607522f7cb4d.jpg)
 
@@ -48,7 +48,7 @@ _srcHash: d2971954243750b5518049032cba7ff0
 
 我哋係最專業嘅峇里島旅遊情報網站，我哋提供咗五百幾個峇里島最新嘅熱門旅遊景點，你實會喺我哋嘅攻略度搵到好想去嘅景點！請睇：
 
-【[2025必去峇里島景點攻略，500個最新人氣景點一次蒐全](/blog/bali-top-500-attractions/)】
+【[2025必去峇里島景點攻略，500個最新人氣景點一次蒐全](/zh-hk/blog/bali-top-500-attractions/)】
 
 ## 建議喺峇里島留幾耐？
 
@@ -69,11 +69,11 @@ _srcHash: d2971954243750b5518049032cba7ff0
 - 如果你鍾意自然美景，推薦你喺烏布多花啲時間。
 - 如果你鍾意冒險，可以參加一啲戶外活動，例如行山、浮潛或者滑浪。
 
-> 延伸閱讀：[峇里島南部嘅秘境沙灘](/blog/uluwatu-guide/)
+> 延伸閱讀：[峇里島南部嘅秘境沙灘](/zh-hk/blog/uluwatu-guide/)
 
-> 延伸閱讀：[烏布嘅自然美景與各種戶外活動](/blog/ubud-guide/)]
+> 延伸閱讀：[烏布嘅自然美景與各種戶外活動](/zh-hk/blog/ubud-guide/)]
 
-如果你想搵到更加適合令兩個人感情升溫，甜蜜到天荒地老嘅活動，可以參考下【[峇里島蜜月浪漫指南：探索峇里島情侶/蜜月旅行嘅36種玩法](/blog/bali-honeymoon-romantic-activities-2/)】
+如果你想搵到更加適合令兩個人感情升溫，甜蜜到天荒地老嘅活動，可以參考下【[峇里島蜜月浪漫指南：探索峇里島情侶/蜜月旅行嘅36種玩法](/zh-hk/blog/bali-honeymoon-romantic-activities-2/)】
 
 無論你選擇點樣度過蜜月，峇里島都可以為你提供難忘嘅體驗。
 
@@ -81,9 +81,9 @@ _srcHash: d2971954243750b5518049032cba7ff0
 
 建議先認識峇里島各個區域嘅住宿特色，選擇適合蜜月情侶嘅住宿，並多加利用我哋提供嘅一日遊套餐，就可以輕鬆暢玩峇里島。
 
-> 延伸閱讀：[認識峇里島嘅五個熱門住宿區域](/blog/2023-12-29-65839fbafd89780001e876b5/)
+> 延伸閱讀：[認識峇里島嘅五個熱門住宿區域](/zh-hk/blog/2023-12-29-65839fbafd89780001e876b5/)
 
-> 延伸閱讀：[20間度蜜月度假村、浪漫villa推薦](/blog/bali-honeymoon-resorts-guide/)
+> 延伸閱讀：[20間度蜜月度假村、浪漫villa推薦](/zh-hk/blog/bali-honeymoon-resorts-guide/)
 
 ![點樣預訂峇里島行程？](https://images.gobaligo.id/vocus/vocus_0a0f01ddd3f1dbf1a47d1c9e05e9534b.png)
 
@@ -121,7 +121,7 @@ _srcHash: d2971954243750b5518049032cba7ff0
 
 呢間台灣老闆嘅峇里島在地旅行社絕對係您嘅不二之選！佢哋擁有超過20年嘅帶團經驗，對峇里島嘅一切風土人情都瞭如指掌。您只需要提供旅行預算同想探索嘅景點，其他一切瑣碎事務都會由專業團隊為您打理，包括安排專業嘅中英文司機同導遊，讓您無後顧之憂咁暢遊峇里島，細味愛情同浪漫。
 
-請睇：【[峇里島超爽行程 - 專業規劃讓您輕鬆享受假期](/blog/bali-custom-tour-planning/)】
+請睇：【[峇里島超爽行程 - 專業規劃讓您輕鬆享受假期](/zh-hk/blog/bali-custom-tour-planning/)】
 
 ## 應該帶現金/應該俾小費嗎？
 

@@ -78,7 +78,7 @@ This temple sees relatively few visitors, offering an incredibly peaceful and se
 
 Want to feel a true sense of conquest? Joining a sunrise hike up Mount Batur is a classic adventure! You'll typically set off in the early hours, taking about 2–3 hours to reach the summit. As the first rays of light break across the sky, the entire lake and surrounding peaks shimmer in golden hues—a breathtaking sight that leaves you speechless.
 
-**Quick Reference:** [Mount Batur Sunrise Hiking Guide](/blog/batur-sunrise-hiking-guide/)
+**Quick Reference:** [Mount Batur Sunrise Hiking Guide](/en/blog/batur-sunrise-hiking-guide/)
 
 ## 🚙 **Sunrise Jeep Safari Experience**
 
@@ -86,7 +86,7 @@ Want to feel a true sense of conquest? Joining a sunrise hike up Mount Batur is 
 
 If you prefer a more relaxed way to enjoy the sunrise without missing out, opt for the 'Mount Batur Sunrise Jeep Tour.' A 4x4 jeep will take you across black volcanic sands and lava valleys, straight to the best viewpoints.
 
-**Quick Reference:** [Bali Adventure: A Complete Guide to the Mount Batur Jeep Sunrise Tour](/blog/batur-volcano-jeep-sunrise-tour/)
+**Quick Reference:** [Bali Adventure: A Complete Guide to the Mount Batur Jeep Sunrise Tour](/en/blog/batur-volcano-jeep-sunrise-tour/)
 
 ## 🌅 **Sunset Jeep Safari Experience**
 
@@ -100,7 +100,7 @@ This experience is perfect for:
 
 The entire tour lasts about 8 hours and includes hotel pickup and drop-off, attraction entrance fees, an English-speaking driver-guide, professional photography services, and snacks and bottled water.
 
-**Quick Reference:** [Conquer Bali's volcano without waking up early! The sunset jeep tour lets you snap stunning photos with ease](https://gobaligo.id/blog/batur-volcano-sunset-jeep-tour/)
+**Quick Reference:** [Conquer Bali's volcano without waking up early! The sunset jeep tour lets you snap stunning photos with ease](https://gobaligo.id/en/blog/batur-volcano-sunset-jeep-tour/)
 
 ***
 
@@ -130,7 +130,7 @@ If Bali's soul lies between its volcanoes and lakes, then the character of Lake 
 
 Here’s our curated list of **dozens of Lake Batur view cafes**—whether you’re after a peaceful escape or the perfect photo spot, you’ll find your corner.
 
-**Quick Reference:** [Top 13 Volcano View Cafes & Restaurants in Kintamani, Bali 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
+**Quick Reference:** [Top 13 Volcano View Cafes & Restaurants in Kintamani, Bali 🌄☕](/en/blog/kintamani-volcano-cafes-restaurants/)
 
 ***
 

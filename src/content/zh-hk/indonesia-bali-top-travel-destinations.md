@@ -58,7 +58,7 @@ _srcHash: 80dd816018688cb4f744f77396d7abfd
 
 ![2. CP值超高嘅奢華體驗](https://images.gobaligo.id/vocus/vocus_56ab0ceda63196ea577a807d5be9054a.jpg)
 
-比起歐美、台灣嘅高物價，峇里島可以用一半嘅預算享受**五星級Villa、懸崖SPA、私人海灘晚餐**。推薦[水明漾（Seminyak）嘅私人泳池villa](/blog/2024-04-04-660e6e92fd89780001e6047e/)、[金巴蘭Ayana岩石酒吧無敵日落](/blog/ayana-resort-bali-guide/)、[烏布（Ubud）嘅叢林美景酒店](/blog/ubud-villas-pool-guide/)、[努沙杜瓦（Nusa Dua）嘅五星度假村](/blog/nusa-dua-resorts-guide/)。
+比起歐美、台灣嘅高物價，峇里島可以用一半嘅預算享受**五星級Villa、懸崖SPA、私人海灘晚餐**。推薦[水明漾（Seminyak）嘅私人泳池villa](/zh-hk/blog/2024-04-04-660e6e92fd89780001e6047e/)、[金巴蘭Ayana岩石酒吧無敵日落](/zh-hk/blog/ayana-resort-bali-guide/)、[烏布（Ubud）嘅叢林美景酒店](/zh-hk/blog/ubud-villas-pool-guide/)、[努沙杜瓦（Nusa Dua）嘅五星度假村](/zh-hk/blog/nusa-dua-resorts-guide/)。
 
 ### 3. **獨一無二嘅在地生活**
 
@@ -67,7 +67,7 @@ _srcHash: 80dd816018688cb4f744f77396d7abfd
 
 **📌延伸閱讀：**
 
-- [峇里島六大必睇卡恰火舞（Kecak Fire Dance）地點：一場視覺與文化嘅饗宴](/blog/bali-kecak-fire-dance-locations/)
+- [峇里島六大必睇卡恰火舞（Kecak Fire Dance）地點：一場視覺與文化嘅饗宴](/zh-hk/blog/bali-kecak-fire-dance-locations/)
 - [峇里島各種手作、烹飪體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1023869&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%2520%25E6%2589%258B%25E4%25BD%259C%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3D1314702255)
 
 ### 4. **冒險愛好者嘅樂園**
@@ -76,8 +76,8 @@ _srcHash: 80dd816018688cb4f744f77396d7abfd
 
 **📌延伸閱讀：**
 
-- [峇里島戶外活動玩咩好？50種唔可以錯過嘅精彩體驗](/blog/bali-top-50-outdoor-activities/)
-- [峇里島+科摩多恐龍島，四晚輕奢住宿/無購物/無自費/五日遊](/blog/bali-komodo-luxury-tour-2026/)
+- [峇里島戶外活動玩咩好？50種唔可以錯過嘅精彩體驗](/zh-hk/blog/bali-top-50-outdoor-activities/)
+- [峇里島+科摩多恐龍島，四晚輕奢住宿/無購物/無自費/五日遊](/zh-hk/blog/bali-komodo-luxury-tour-2026/)
 
 ### 
 
@@ -85,24 +85,24 @@ _srcHash: 80dd816018688cb4f744f77396d7abfd
 
 ## ✈️ 旅行小貼士：點樣玩轉印尼/峇里島？
 
-- **最佳季節**：4-10月係乾季，但雨季嘅峇里島遊客較少、房價更抵！（[峇里島雨季月份/降雨機率/降雨天數/平均氣溫/適合旅遊指數...大解析](/blog/bali-rainy-season-travel-guide/)）
-- **簽證**：台灣護照30天簽（請睇[簽證FAQ](/blog/indonesia-bali-visa-evoa-faq/)）。
-- **隱藏版路線**：避開庫塔（Kuta）人潮，改去東部嘅[沙努爾（Sanur）](/blog/sanur-guide/)氣氛更悠閒！
+- **最佳季節**：4-10月係乾季，但雨季嘅峇里島遊客較少、房價更抵！（[峇里島雨季月份/降雨機率/降雨天數/平均氣溫/適合旅遊指數...大解析](/zh-hk/blog/bali-rainy-season-travel-guide/)）
+- **簽證**：台灣護照30天簽（請睇[簽證FAQ](/zh-hk/blog/indonesia-bali-visa-evoa-faq/)）。
+- **隱藏版路線**：避開庫塔（Kuta）人潮，改去東部嘅[沙努爾（Sanur）](/zh-hk/blog/sanur-guide/)氣氛更悠閒！
 - **超強攻略**：
 
-1. [峇里島水明漾100個景點攻略](/blog/seminyak-guide/)
-2. [庫塔必訪50個景點攻略](/blog/2023-12-13-657598bdfd8978000120fe20/)
-3. [坎古100個必遊景點](/blog/canggu-guide/)
-4. [烏布探索嘅100個方式](/blog/ubud-guide/)
-5. [金巴蘭攻略](/blog/jimbaran-guide/)
-6. [烏魯瓦圖攻略](/blog/uluwatu-guide/)
-7. [武吉半島冒險指南](/blog/bukit-peninsula-guide/)
-8. [Sanur 45項吃喝玩樂攻略](/blog/sanur-guide/)
-9. [努沙杜瓦40個住宿美食活動攻略](/blog/nusa-dua-guide/)
-10. [佩尼達島吃喝玩樂全攻略](/blog/nusa-penida-guide/)
-11. [藍夢島/金銀島景點全攻略](/blog/nusa-lembongan-ceningan-guide/)
-12. [Nuanu Creative City攻略](/blog/nuanu-creative-city-luna-guide/)
-13. [科摩多島攻略](/blog/komodo-island-labuan-bajo-travel/)
+1. [峇里島水明漾100個景點攻略](/zh-hk/blog/seminyak-guide/)
+2. [庫塔必訪50個景點攻略](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)
+3. [坎古100個必遊景點](/zh-hk/blog/canggu-guide/)
+4. [烏布探索嘅100個方式](/zh-hk/blog/ubud-guide/)
+5. [金巴蘭攻略](/zh-hk/blog/jimbaran-guide/)
+6. [烏魯瓦圖攻略](/zh-hk/blog/uluwatu-guide/)
+7. [武吉半島冒險指南](/zh-hk/blog/bukit-peninsula-guide/)
+8. [Sanur 45項吃喝玩樂攻略](/zh-hk/blog/sanur-guide/)
+9. [努沙杜瓦40個住宿美食活動攻略](/zh-hk/blog/nusa-dua-guide/)
+10. [佩尼達島吃喝玩樂全攻略](/zh-hk/blog/nusa-penida-guide/)
+11. [藍夢島/金銀島景點全攻略](/zh-hk/blog/nusa-lembongan-ceningan-guide/)
+12. [Nuanu Creative City攻略](/zh-hk/blog/nuanu-creative-city-luna-guide/)
+13. [科摩多島攻略](/zh-hk/blog/komodo-island-labuan-bajo-travel/)
 
 ---
 
@@ -112,11 +112,11 @@ _srcHash: 80dd816018688cb4f744f77396d7abfd
 
 **📌 延伸閱讀**：
 
-- [峇里島Tegalalang德格拉朗、Jatiluwih賈提魯維兩大梯田區拜訪攻略｜入場門票幾錢？最佳拜訪時間/季節？](/blog/bali-rice-terraces-comparison/)
-- [峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](/blog/bali-tanah-lot-guide/)
-- [峇里島20個免費入場嘅海灘俱樂部 享受比基尼、音樂、泳池、夕陽美景](/blog/bali-beach-clubs-free-entry-list/)  
-  [峇里島旅遊攻略：第一次到烏布要玩咩？20個景點推薦 烏布攻略篇](/blog/ubud-top-20-attractions-guide/)
-- 【精華篇】峇里島好評SPA推薦大集合 用區域劃分更方便查找](/blog/spa/)
-- [台灣人友好嘅包車司機推薦](/blog/bali-private-car-drivers-guide/)
+- [峇里島Tegalalang德格拉朗、Jatiluwih賈提魯維兩大梯田區拜訪攻略｜入場門票幾錢？最佳拜訪時間/季節？](/zh-hk/blog/bali-rice-terraces-comparison/)
+- [峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](/zh-hk/blog/bali-tanah-lot-guide/)
+- [峇里島20個免費入場嘅海灘俱樂部 享受比基尼、音樂、泳池、夕陽美景](/zh-hk/blog/bali-beach-clubs-free-entry-list/)  
+  [峇里島旅遊攻略：第一次到烏布要玩咩？20個景點推薦 烏布攻略篇](/zh-hk/blog/ubud-top-20-attractions-guide/)
+- 【精華篇】峇里島好評SPA推薦大集合 用區域劃分更方便查找](/zh-hk/blog/spa/)
+- [台灣人友好嘅包車司機推薦](/zh-hk/blog/bali-private-car-drivers-guide/)
 
 ##

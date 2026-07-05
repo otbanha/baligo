@@ -45,4 +45,4 @@ Currently, Indonesia has not introduced any additional preventive measures, and 
 
 Most people infected with Mpox do not require special treatment and only need simple supportive care, typically to alleviate flu-like symptoms and body aches. In severe cases, antiviral medications may be necessary, and vaccination can be administered before or after exposure to prevent the disease.
 
-▶[Instructions & Tutorial for Filling Out the "Indonesia Health Declaration Form"](/blog/2024-08-30-66d109f9fd89780001f47806/)
+▶[Instructions & Tutorial for Filling Out the "Indonesia Health Declaration Form"](/en/blog/2024-08-30-66d109f9fd89780001f47806/)

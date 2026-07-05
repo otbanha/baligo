@@ -47,14 +47,14 @@ Pesan dan hemat, cek di sini:
 6. **Konsumsi Berlebihan:** Pakai kartu kredit bisa bikin kamu nggak sadar pengeluaran, jadi boros. Pake kartu kredit dengan bijak, jangan sampe liburan bikin utang banyak, ngaruh ke pengalaman traveling kamu.
 7. **Situasi Tak Terduga:** Kartu kredit yang biasanya lancar, di Bali bisa aja tiba-tiba bermasalah. Di grup Facebook kita, ada anggota yang cerita pengalaman: kartu kreditnya normal dipake beberapa hari, tapi pas makan di restoran mewah, tiba-tiba nggak bisa dipake. Saat itu dia nggak bawa uang tunai cukup, cuma bisa panik nunggu bantuan di restoran. Untungnya, anggota grup lain cepet dateng bantu, masalah selesai. ([Lihat di sini](https://www.facebook.com/share/p/17GvUqdNkW/)) Cerita ini ngajarin kita, pas traveling ke luar negeri, siapin cadangan biar nggak kena situasi kaku.
 
-> Baca Juga: [Panduan Budget Liburan Bali: Pahami Arti 'K' di Harga Biar Anggaranmu Terkendali](/blog/bali-budget-tips-k-explained/)
+> Baca Juga: [Panduan Budget Liburan Bali: Pahami Arti 'K' di Harga Biar Anggaranmu Terkendali](/id/blog/bali-budget-tips-k-explained/)
 
-> Baca Juga: [Tips Penting Liburan ke Bali: Waspada Jebakan Saat Bayar Pakai Kartu](/blog/bali-credit-card-payment-tips/)
+> Baca Juga: [Tips Penting Liburan ke Bali: Waspada Jebakan Saat Bayar Pakai Kartu](/id/blog/bali-credit-card-payment-tips/)
 
-> Baca Juga: [Tips Hemat Liburan ke Bali! 19 Jurus Jitu Biar Nggak Boncos](/blog/bali-travel-money-saving-tips/)
+> Baca Juga: [Tips Hemat Liburan ke Bali! 19 Jurus Jitu Biar Nggak Boncos](/id/blog/bali-travel-money-saving-tips/)
 
-> Baca juga: [Panduan Belanja Aman dan Nyaman](/blog/travel-shopping-safety/)
+> Baca juga: [Panduan Belanja Aman dan Nyaman](/id/blog/travel-shopping-safety/)
 
-> Baca Juga: [Berapa Banyak Uang Tunai yang Harus Disiapkan untuk Liburan ke Bali?](/blog/bali-travel-cash-budget-guide/)
+> Baca Juga: [Berapa Banyak Uang Tunai yang Harus Disiapkan untuk Liburan ke Bali?](/id/blog/bali-travel-cash-budget-guide/)
 
 Biar nggak kena biaya yang nggak perlu, saran gue sebelum traveling ke Bali, baca baik-baik syarat dan ketentuan kartu kredit kamu. Pahami soal biaya konversi kurs dan biaya transaksi luar negeri, lalu pilih cara bayar yang paling cocok buat kebutuhanmu. Kadang, bawa uang tunai Rupiah itu lebih praktis dan bisa lebih hemat. Jadi, punya beberapa cara bayar selama liburan bisa jadi pilihan yang cerdas.

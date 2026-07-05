@@ -52,7 +52,7 @@ At center stage is a massive transparent water tank, where dancers and acrobats 
 
 **Heads-up**: The show runs about 60 minutes with no intermission, so take the family to the restroom before it starts.
 
-[Bali Marine Park Varuna Show Guide: Underwater Theater Tickets, Transport Tips & Bali Safari Day Trip Itinerary](https://gobaligo.id/blog/varuna-show-bali-safari/)
+[Bali Marine Park Varuna Show Guide: Underwater Theater Tickets, Transport Tips & Bali Safari Day Trip Itinerary](https://gobaligo.id/en/blog/varuna-show-bali-safari/)
 
 [Purchase Varuna Show on Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D), which already includes park admission.
 
@@ -70,7 +70,7 @@ From the drum dances of Sumatra and elegant Javanese court dances to the jungle 
 
 **Family-friendly highlights**: On-site children’s seating, interactive warm-up before the show, and photo ops with dancers afterward—creating lasting memories for the whole family.
 
-[【Must-See in Bali】Devdan Show Complete Guide: Ticket Deals, Seat Selection, and a Tour of Indonesia's Five Major Islands](https://gobaligo.id/blog/devdan-show-nusa-dua/)
+[【Must-See in Bali】Devdan Show Complete Guide: Ticket Deals, Seat Selection, and a Tour of Indonesia's Five Major Islands](https://gobaligo.id/en/blog/devdan-show-nusa-dua/)
 
 > > [Buy tickets on Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1) [Buy tickets on kkday](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072) [Buy tickets on Trip](https://hk.trip.com/travel-guide/attraction/bali/devdan-show-10759118?curr=IDR&locale=zh-HK&poiType=3&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18064230)
 
@@ -92,7 +92,7 @@ The story is adapted from the *Ramayana*, culminating in a dramatic battle betwe
 - It gets windy on the cliff at dusk, so bring a light jacket for the elderly.
 - When the torches are lit, there’s a burst of heat and smoke—kids sensitive to smoke can sit farther back.
 
-[Kecak Fire Dance: Bali’s Must-See Spectacular Performance (with Booking Info)](https://gobaligo.id/blog/kecak-fire-dance-bali/)
+[Kecak Fire Dance: Bali’s Must-See Spectacular Performance (with Booking Info)](https://gobaligo.id/en/blog/kecak-fire-dance-bali/)
 
 > [Book via Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1304016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21638-uluwatu-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7692452023) [Book via Kkday](https://www.kkday.com/zh-tw/product/129108-uluwatu-kecak-fire-dance-ticket-bali-indonesia?qs=kecak&cid=25072) [Book via Trip](https://hk.trip.com/travel-guide/attraction/bali/kecak-dance-uluwatu-136629489?curr=IDR&locale=zh-HK&poiType=66&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18064230)
 
@@ -119,7 +119,7 @@ Elders will marvel at the intricate craftsmanship of the costumes, while kids wi
 
 **Helpful Tips**: The GWK park is huge, so arrive early to also explore the giant Garuda statue; front-row seats offer the best view of mask details, but if your child is sensitive to loud sounds, choose middle or back rows.
 
-[【Bali Landmark】GWK Cultural Park Complete Guide: World’s Tallest Statue, Traditional Dance Performances & Photo Spots](https://gobaligo.id/blog/gwk-cultural-park-bali/)
+[【Bali Landmark】GWK Cultural Park Complete Guide: World’s Tallest Statue, Traditional Dance Performances & Photo Spots](https://gobaligo.id/en/blog/gwk-cultural-park-bali/)
 
 > [Book on Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1308000&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D267583b10e) [Book on Trip.com](https://hk.trip.com/travel-guide/attraction/bali/garuda-wisnu-kencana-cultural-park-90757?curr=IDR&locale=zh_hk&poiType=3&ext-searchpage=1&lasttraceid=412fdea9-954a-0cc7-eab8-178eb2281978&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18082528)
 

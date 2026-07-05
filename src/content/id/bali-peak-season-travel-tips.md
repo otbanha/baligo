@@ -27,7 +27,7 @@ Bali itu destinasi liburan favorit banyak orang. Perpaduan nuansa tropis dan bud
 
 Hindarin musim ramai di Bali, selain bisa hemat tiket pesawat, akomodasi, dan lainnya, kamu juga bisa nikmatin suasana liburan yang lebih tenang. Pastinya worth it banget! Nah, kapan sih sebenarnya musim ramai di Bali? Secara umum, musim kemarau yang curah hujannya rendah, sekitar bulan April sampai September, adalah waktu terbaik buat liburan ke Bali. Makanya itu jadi musim ramai. Meskipun musim hujan cuacanya kurang ideal, kamu bisa lihat sisi lain Bali dan dapetin diskon tiket pesawat serta akomodasi.
 
-> Baca juga: [Musim Hujan di Bali: Gimana Kalau Liburan ke Bali Kehujanan? 60 Alternatif Aktivitas Indoor di Bali](/blog/2026-bali-indoor-activities/)
+> Baca juga: [Musim Hujan di Bali: Gimana Kalau Liburan ke Bali Kehujanan? 60 Alternatif Aktivitas Indoor di Bali](/id/blog/2026-bali-indoor-activities/)
 
 ## Lima Musim Liburan di Bali
 
@@ -47,7 +47,7 @@ Selain dibagi berdasarkan musim, lima momen spesial berikut ini juga sering biki
 
 Tahun Baru Imlek adalah salah satu hari raya terpenting di Asia, dan banyak wisatawan Asia yang bepergian ke Bali selama periode ini. Selain China dan Taiwan, negara-negara seperti Hong Kong, Malaysia, Singapura, Korea Selatan, Vietnam juga punya libur dua hingga lima hari; Filipina, Thailand, dan Indonesia libur satu hari di hari pertama Imlek, dan **selama periode Tahun Baru Imlek 2026, Indonesia punya libur empat hari berturut-turut**. Libur Tahun Baru Imlek menempati peringkat ketiga sebagai penyebab keramaian di tempat wisata.
 
-> Baca juga: [Panduan Liburan Keluarga ke Bali saat Imlek: Tiket, Visa, Transportasi, Tempat Wisata Lengkap](/blog/2026-bali-lunar-new-year-guide/)
+> Baca juga: [Panduan Liburan Keluarga ke Bali saat Imlek: Tiket, Visa, Transportasi, Tempat Wisata Lengkap](/id/blog/2026-bali-lunar-new-year-guide/)
 
 ### 【Peringkat Keempat】Liburan Musim Panas
 
@@ -73,15 +73,15 @@ Tahun Baru Imlek adalah salah satu hari raya terpenting di Asia, dan banyak wisa
 
 > Baca juga:
 
-> [Panduan Liburan Musim Ramai Bali: Cara Hindari Macet dan Nikmati Liburan dengan Santai](/blog/bali-peak-season-travel-guide/)
+> [Panduan Liburan Musim Ramai Bali: Cara Hindari Macet dan Nikmati Liburan dengan Santai](/id/blog/bali-peak-season-travel-guide/)
 
-> [峇里島包車自由行全攻略 - 費用、預訂方式、優勢分析](/blog/bali-private-car-hire-guide/)
+> [峇里島包車自由行全攻略 - 費用、預訂方式、優勢分析](/id/blog/bali-private-car-hire-guide/)
 
 ## Penutup
 
 Keindahan dan budaya Bali layak dinikmati pelan-pelan. Mau kamu pergi di musim ramai atau sepi, pasti dapet banyak kenangan. Kalau mau hindari keramaian dan nikmati Bali dengan harga lebih murah, coba ikuti tips di atas buat rencanain liburan yang nyaman.
 
-> Baca Juga: [Kapan Libur Panjang & Festival Spesial di Indonesia/Bali Tahun 2026?](/blog/2026-bali-festival-guide/)
+> Baca Juga: [Kapan Libur Panjang & Festival Spesial di Indonesia/Bali Tahun 2026?](/id/blog/2026-bali-festival-guide/)
 
 ## 📩 **Gabung Sekarang di 'Panduan Liburan Bali', Jadi Ahli Liburan Bali!**
 

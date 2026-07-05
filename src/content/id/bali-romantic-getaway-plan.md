@@ -38,7 +38,7 @@ Selain visa, ada dua urusan online lain yang juga penting. Saran kami, urus semu
 1. **Semua Formulir Masuk Indonesia (termasuk e-CD untuk Deklarasi Pabean dan SSHP untuk Pernyataan Kesehatan)**
 2. **Bukti Pembayaran Pajak Wisatawan (Tourist Levy)**
 
-Keempat proses di atas **semuanya bisa diurus secara online sebagai dokumen digital**. Sebenarnya nggak susah kok, asal kamu siapin fotokopi paspor, info penerbangan, dan metode pembayaran dari awal. QR Code yang udah jadi mending di-screenshot dan disimpan di galeri HP, biar pas masuk tinggal scan aja, lebih cepet. Untuk detail lengkapnya, cek di sini: [2026 Perubahan Masuk Bali Paham dalam 1 Menit: Prosedur Masuk Indonesia/Bali - Turun Pesawat/Lewat Imigrasi/Ambil Bagasi](/blog/bali-all-indonesia-arrival-guide/)
+Keempat proses di atas **semuanya bisa diurus secara online sebagai dokumen digital**. Sebenarnya nggak susah kok, asal kamu siapin fotokopi paspor, info penerbangan, dan metode pembayaran dari awal. QR Code yang udah jadi mending di-screenshot dan disimpan di galeri HP, biar pas masuk tinggal scan aja, lebih cepet. Untuk detail lengkapnya, cek di sini: [2026 Perubahan Masuk Bali Paham dalam 1 Menit: Prosedur Masuk Indonesia/Bali - Turun Pesawat/Lewat Imigrasi/Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
 
 Nah, sekarang kita mulai petualangan berdua di Bali~ 🌴
 
@@ -62,7 +62,7 @@ Walaupun kita sampai agak telat dan ketinggalan momen sunset cuma dapet夜景, t
 
 Kami nginep di kamar sea view, semalem sekitar USD$387. Meskipun udah oke banget, tapi ada sedikit saran nih: **area hotel AYANA itu gede banget**, kalau milih tipe kamar yang lebih murah, bisa aja dapet kamar di zona yang agak jauh, jalan kaki ke fasilitas utama bisa bikin pegel. Saran gue, tambahin sedikit budget, pilih kamar yang deket area utama, pasti pengalamannya lebih worth it!
 
-Baca juga: [【Bali Ayana】Paket Lengkap Menginap di Ayana Bali » Ayana Segara, RIMBA, Ayana Resort..](/blog/ayana-resort-bali-guide/)
+Baca juga: [【Bali Ayana】Paket Lengkap Menginap di Ayana Bali » Ayana Segara, RIMBA, Ayana Resort..](/id/blog/ayana-resort-bali-guide/)
 
 ## 📸 **Hari Kedua: Bangun Pagi buat Foto Ciamik di Kolam H2O!**
 
@@ -74,7 +74,7 @@ Biar dapet foto kolam impian yang sering muncul di IG, kami bangun jam 7 pagi ke
 
 Kami foto berkali-kali, cuma buat dapetin momen pas sinar matahari paling oke (haha). Bangun pagi emang bener-bener worth it!
 
-Referensi cepat: [【Wajib Dicoba buat Traveler Cantik di Bali】Enam Kolam Renang Cantik di Ayana Resort](/blog/ayana-resort-pools-photo/)
+Referensi cepat: [【Wajib Dicoba buat Traveler Cantik di Bali】Enam Kolam Renang Cantik di Ayana Resort](/id/blog/ayana-resort-pools-photo/)
 
 ### 🍽 **Sarapan Puas, Langsung Skip Makan Siang**
 
@@ -110,7 +110,7 @@ Catatan Redaksi: Di The Cave juga ada day club kolam renang tebing yang jadi des
 
 ![The Cave Restaurant, Makan Malam Impian yang Wajib Dicoba Se](https://images.gobaligo.id/vocus/vocus_a41f7059b9d933b43ebc4cfd56684828.png)
 
-[探索Oneeighty Day Club：Bali悬崖边的泳池极致美景](/blog/oneeighty-dayclub-uluwatu-pool/)
+[探索Oneeighty Day Club：Bali悬崖边的泳池极致美景](/id/blog/oneeighty-dayclub-uluwatu-pool/)
 
 ## ☕️ **第三天：前进高地咖啡厅，Ubud入住浪漫丛林Villa**
 
@@ -156,7 +156,7 @@ Malam itu kami menginap di **The Claremont Luxury Villas** yang lokasinya di pus
 
 Kalau budget terbatas tapi tetap pengin villa berkualitas dengan lokasi strategis, ini wajib dicatat ✅.
 
-▶ Untuk info detail tentang The Claremont Luxury Villas — lokasi, fasilitas, kamar — cek di [sini](/blog/2024-04-04-660e6e92fd89780001e6047e/)
+▶ Untuk info detail tentang The Claremont Luxury Villas — lokasi, fasilitas, kamar — cek di [sini](/id/blog/2024-04-04-660e6e92fd89780001e6047e/)
 
 {{block:smk}}
 
@@ -210,7 +210,7 @@ Apalagi rute Jimbaran, Seminyak sampai Ubud sering banget macet. Saran banget, c
 
 Lebih dari 75% penduduk Bali bekerja di sektor jasa, jadi kasih tip secukupnya itu bentuk sopan santun dan dukungan. Tapi kadang ada juga yang pake kata-kata manipulatif atau bersikap seolah-olah tip itu sudah kewajiban. Kalau begitu, **kamu nggak perlu maksa diri buat kasih tip**, jaga batasan dan harga diri lebih penting.
 
-Referensi cepat: [Perlu Kasih Tip di Bali? Cara Kasih Tip? Berapa Tip di Berbagai Situasi?](/blog/bali-tipping-guide-driver-spa/)
+Referensi cepat: [Perlu Kasih Tip di Bali? Cara Kasih Tip? Berapa Tip di Berbagai Situasi?](/id/blog/bali-tipping-guide-driver-spa/)
 
 ### 🐰 **5. Pabrik Kopi Gold Rabbit? Google Dulu Sebelum Mutusin Mau ke Sana!**
 

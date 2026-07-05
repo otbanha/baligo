@@ -94,4 +94,4 @@ Kami menginap dua malam di villa satu kamar tidur, dikelilingi alam, dengan pema
 
 ![Lebih Banyak Rekomendasi Villa di Ubud](https://images.gobaligo.id/vocus/vocus_f07a86db6cc56e8e0fb884c9454a6d96.png)
 
-Pengen liburan yang kayak mimpi? 🌴 Villa dengan kolam renang pribadi di Ubud bakal kasih kamu kemewahan dan relaksasi maksimal! Kolam renang pribadi, pemandangan cakep, fasilitas top — semuanya ada biar liburanmu makin sempurna. Langsung klik [di sini](/blog/ubud-villa-pool-guide/) buat lihat lebih banyak rekomendasi villa kece di Ubud, dan mulai petualangan liburan eksklusifmu! ✨
+Pengen liburan yang kayak mimpi? 🌴 Villa dengan kolam renang pribadi di Ubud bakal kasih kamu kemewahan dan relaksasi maksimal! Kolam renang pribadi, pemandangan cakep, fasilitas top — semuanya ada biar liburanmu makin sempurna. Langsung klik [di sini](/id/blog/ubud-villa-pool-guide/) buat lihat lebih banyak rekomendasi villa kece di Ubud, dan mulai petualangan liburan eksklusifmu! ✨

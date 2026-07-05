@@ -114,6 +114,6 @@ Additionally, I'd like to remind everyone that **this year's Nyepi Day coincides
 Starting from March 13th, Bali is expected to be flooded with locals from across Indonesia, leading to crowded conditions everywhere for about two weeks. This marks the first peak season among Bali's five major high seasons. **It's highly recommended to avoid traveling to Bali during this period!**
 
 ## Other Festivals in Bali
-For more information, check out the [Complete Guide to Indonesian National Holidays & Bali Festivals in 2026: A Full Year of Exciting Events!](/blog/2026-bali-festival-guide/)
+For more information, check out the [Complete Guide to Indonesian National Holidays & Bali Festivals in 2026: A Full Year of Exciting Events!](/en/blog/2026-bali-festival-guide/)
 
-請看[2026年印尼國定假日&峇里島節慶一整年完整指南：精彩活動日期一覽！](/blog/2026-bali-festival-guide/)
+請看[2026年印尼國定假日&峇里島節慶一整年完整指南：精彩活動日期一覽！](/en/blog/2026-bali-festival-guide/)

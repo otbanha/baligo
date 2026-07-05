@@ -44,7 +44,7 @@ In the morning, we visited Oneeighty Dayclub, which we highly recommend. We arri
 
 https://youtu.be/Czw4ALduV14
 
-> [Exploring Oneeighty Day Club: The Ultimate Cliffside Pool Experience in Bali](/blog/oneeighty-dayclub-uluwatu-pool/) – Pricing and Reservation Guide
+> [Exploring Oneeighty Day Club: The Ultimate Cliffside Pool Experience in Bali](/en/blog/oneeighty-dayclub-uluwatu-pool/) – Pricing and Reservation Guide
 
 Next, we headed to Blue Point Beach to watch the surf pros show off their skills—it was truly eye-opening.
 
@@ -54,7 +54,7 @@ https://youtu.be/hQbBTktqEqY
 
 Afterward, Komang recommended we catch a traditional dance performance at Uluwatu Temple. He even had a friend reserve tickets for us in advance, so we could linger longer at Blue Point Beach without having to buy tickets early.
 
-> [Kecak Fire Dance: A Must-See Spectacle in Bali (with Booking Info)](/blog/kecak-fire-dance-bali/)
+> [Kecak Fire Dance: A Must-See Spectacle in Bali (with Booking Info)](/en/blog/kecak-fire-dance-bali/)
 
 ![烏魯瓦圖美景。連育諄提供](https://images.gobaligo.id/vocus/vocus_a2ffbc76870b45338de0935d3e72d256.jpg)
 
@@ -90,7 +90,7 @@ She also recommended we buy souvenirs at Bintang Supermarket Ubud. Later, at the
 
 https://youtu.be/UoGlRyAdyB8
 
-Extended reading: [【Recommended by Travelers】Over 20 Types of Bali Souvenirs in 6 Categories: The Perfect Guide to Cherish Your Memories](/blog/bali-souvenirs-gift-guide/)
+Extended reading: [【Recommended by Travelers】Over 20 Types of Bali Souvenirs in 6 Categories: The Perfect Guide to Cherish Your Memories](/en/blog/bali-souvenirs-gift-guide/)
 
 ## Day 5:
 
@@ -110,7 +110,7 @@ Finally, we visited the Tegallalang Rice Terrace. The entrance fee doesn't inclu
 
 https://youtu.be/op78Dk8CjL4
 
-> For more inspiration: [The Ultimate Ubud Guide: 100 Ways to Dive into Ubud's Charm](/blog/ubud-guide/)
+> For more inspiration: [The Ultimate Ubud Guide: 100 Ways to Dive into Ubud's Charm](/en/blog/ubud-guide/)
 
 After the tour, we asked Komang to take us to our favorite restaurant of the trip — Kebun Bistro. Unfortunately, their famous lamb chops were sold out, but the steak recommended by the staff was equally amazing! We ordered it medium-rare, and when cut, there was no blood — the meat was incredibly tender, and even the sides were delicious. Since it gets busy, I recommend booking ahead during meal times. (Already added to the [Ubud Guide Map](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
 
@@ -118,7 +118,7 @@ After the tour, we asked Komang to take us to our favorite restaurant of the tri
 
 In the morning, we set off from Ubud to Tanah Lot Temple. You may need to wade through water to reach the temple, so wear water-friendly shoes and shorts. I've heard the sunset view is stunning, but unfortunately, our schedule placed us there at noon, so we missed it.
 
-[Bali Must-Visit Attractions: Detailed Guide to Tanah Lot Temple, Including Tides and Nearby Sights](https://gobaligo.id/blog/bali-tanah-lot-guide/)
+[Bali Must-Visit Attractions: Detailed Guide to Tanah Lot Temple, Including Tides and Nearby Sights](https://gobaligo.id/en/blog/bali-tanah-lot-guide/)
 
 When we arrived at Tanah Lot, we realized we had accidentally taken the key from our previous night's hotel. Komang immediately said he could return it for us in a couple of days (after getting approval from the hotel supervisor). We were truly grateful for his help.
 

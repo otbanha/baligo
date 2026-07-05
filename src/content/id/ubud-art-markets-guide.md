@@ -151,8 +151,8 @@ Pasar seni di Ubud punya ciri khas masing-masing. Mau cari kerajinan tradisional
 
 ![「烏布完整攻略」涵蓋了烏布景點、美食、玩樂、住宿](https://images.gobaligo.id/vocus/vocus_aee38149f182eafd547c2e59a2e0acfa.jpg)
 
-[「Panduan Lengkap Ubud」cakup tempat wisata, kuliner, aktivitas, dan akomodasi di Ubud](/blog/ubud-guide/)
+[「Panduan Lengkap Ubud」cakup tempat wisata, kuliner, aktivitas, dan akomodasi di Ubud](/id/blog/ubud-guide/)
 
-Mau lebih kenal Ubud? Wajib banget lihat 「[Panduan Lengkap Ubud](/blog/ubud-guide/)」 yang udah kami kumpulin dari 100 rekomendasi seru. Panduan ini mencakup semua yang terbaik, dari pengalaman budaya sampai eksplorasi kuliner, biar liburanmu di Ubud makin seru dan berkesan.
+Mau lebih kenal Ubud? Wajib banget lihat 「[Panduan Lengkap Ubud](/id/blog/ubud-guide/)」 yang udah kami kumpulin dari 100 rekomendasi seru. Panduan ini mencakup semua yang terbaik, dari pengalaman budaya sampai eksplorasi kuliner, biar liburanmu di Ubud makin seru dan berkesan.
 
 {{block:klook}}

@@ -42,7 +42,7 @@ Gak sabar pengen langsung nyemplung ke surga liburan, kami pilih penerbangan lan
 
 ### 2. (Penting banget!) Visa, Masuk, dan Pengurusan Lainnya
 
-Termasuk visa (eVOA/VOA), ~~eCD deklarasi bea cukai elektronik, kartu informasi kesehatan (SSHP)~~ (udah digabung jadi [AIAC](/blog/bali-evisa-customs-health-declaration/)), dan pajak wisata.
+Termasuk visa (eVOA/VOA), ~~eCD deklarasi bea cukai elektronik, kartu informasi kesehatan (SSHP)~~ (udah digabung jadi [AIAC](/id/blog/bali-evisa-customs-health-declaration/)), dan pajak wisata.
 
 **Pengingat penting (pengalaman pribadi):**
 
@@ -55,7 +55,7 @@ Biar hemat waktu pas masuk, aku pilih urus eVOA (Electronic Visa on Arrival) seb
 - Dokumen yang disiapkan: scan halaman paspor (JPG/PDF), foto ukuran paspor (JPG), alamat akomodasi, info tiket pesawat, kartu kredit
 - Biaya: 500.000 IDR/orang (sekitar USD$16)
 - Link resmi pendaftaran: <https://evisa.imigrasi.go.id/> <--- satu-satunya link resmi
-- Tutorial: banyak banget artikel di grup, misalnya [【2026版】Panduan Masuk Bali Pakai Kartu Kedatangan "All Indonesia"｜Pahamin Proses Terbaru dalam 1 Menit: Turun Pesawat → Bea Cukai → Ambil Bagasi](/blog/bali-all-indonesia-arrival-guide/)
+- Tutorial: banyak banget artikel di grup, misalnya [【2026版】Panduan Masuk Bali Pakai Kartu Kedatangan "All Indonesia"｜Pahamin Proses Terbaru dalam 1 Menit: Turun Pesawat → Bea Cukai → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
 
 **PS:**
 
@@ -68,7 +68,7 @@ Punya eVOA udah bisa lewat autogate, aku biasa print cadangan buat jaga-jaga.
 - Dokumen yang disiapkan: data paspor, nomor eVOA, info tiket dan akomodasi
 - Link pendaftaran: sistem terintegrasi "All Indonesia" <https://allindonesia.imigrasi.go.id/>
 - Biaya: gratis
-- Tutorial: [【2026版】Panduan Masuk Bali Pakai Kartu Kedatangan "All Indonesia"｜Pahamin Proses Terbaru dalam 1 Menit: Turun Pesawat → Bea Cukai → Ambil Bagasi](/blog/bali-all-indonesia-arrival-guide/)
+- Tutorial: [【2026版】Panduan Masuk Bali Pakai Kartu Kedatangan "All Indonesia"｜Pahamin Proses Terbaru dalam 1 Menit: Turun Pesawat → Bea Cukai → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
 
 **PS：** QR Code simpan di HP, atau cetak kertasnya buat jaga-jaga ya.
 
@@ -132,7 +132,7 @@ Betty mengajak kami menyusuri **Blue Cliff Highway**, air laut biru jernih kontr
 
 {{block:uluwatu}}
 
-- [【Video Highlight】Kumpulan Rekomendasi Spa & Pijat ke Rumah Terbaik di Bali, Dibagi Berdasarkan Area Biar Lebih Gampang Cari](/blog/spa/)
+- [【Video Highlight】Kumpulan Rekomendasi Spa & Pijat ke Rumah Terbaik di Bali, Dibagi Berdasarkan Area Biar Lebih Gampang Cari](/id/blog/spa/)
 
 ***
 
@@ -146,7 +146,7 @@ Betty mengajak kami menyusuri **Blue Cliff Highway**, air laut biru jernih kontr
 
 **Taman Safari Bali** pasti jadi favorit anak-anak! Kamu bisa lihat gajah, harimau, dan hewan lainnya dari dekat, plus naik mobil wisata ke area satwa liar — serasa di padang rumput Afrika. Makan malam di **Freddies Resort & Villas** suasananya adem banget, makanannya juga enak-enak.
 
-**Referensi Cepat:** [Panduan Lengkap Bali Safari: Pengalaman Menginap, Aktivitas Keluarga & Itinerary](/blog/bali-safari-night-experience/)
+**Referensi Cepat:** [Panduan Lengkap Bali Safari: Pengalaman Menginap, Aktivitas Keluarga & Itinerary](/id/blog/bali-safari-night-experience/)
 
 ***
 
@@ -164,9 +164,9 @@ Pagi-pagi langsung ke **Arung Jeram Sungai Ayung**, pemandangan hutan tropisnya 
 
 **Referensi Cepat:**
 
-- [Panduan Arung Jeram Bali (FAQ umum arung jeram)](/blog/bali-rafting-ayung-telaga-waja/)
-- [Menelusuri Desa Penglipuran: Merasakan Pesona Kuno Bali](/blog/penglipuran-village-bali-experience/)
-- [Ubud Swing: 8 Spot Ayunan Terindah di Bali & Panduan Sewa Gaun](/blog/ubud-jungle-swings-photo-guide/)
+- [Panduan Arung Jeram Bali (FAQ umum arung jeram)](/id/blog/bali-rafting-ayung-telaga-waja/)
+- [Menelusuri Desa Penglipuran: Merasakan Pesona Kuno Bali](/id/blog/penglipuran-village-bali-experience/)
+- [Ubud Swing: 8 Spot Ayunan Terindah di Bali & Panduan Sewa Gaun](/id/blog/ubud-jungle-swings-photo-guide/)
 
 ***
 

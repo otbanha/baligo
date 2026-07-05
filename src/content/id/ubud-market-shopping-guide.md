@@ -83,7 +83,7 @@ Ubud sejak dulu dikenal sebagai tempat ngumpulnya para seniman. Di pasar, kamu b
 
 Kerajinan perak di Bali juga terkenal banget, apalagi di Pasar Ubud yang penuh dengan pilihan. Baik itu **gelang, cincin, kalung, atau anting-anting**, setiap karya dibuat dengan teliti oleh pengrajin, detailnya halus dan desainnya beragam. Kalau kamu suka gaya minimalis atau etnik, pasti bakal nemu yang cocok di sini.
 
-**Ikut kelas bikin perhiasan perak**: [Menyelami Budaya Bali: Pengalaman Workshop Perak yang Wajib Dicoba](/blog/bali-silver-workshop/)
+**Ikut kelas bikin perhiasan perak**: [Menyelami Budaya Bali: Pengalaman Workshop Perak yang Wajib Dicoba](/id/blog/bali-silver-workshop/)
 
 ***
 
@@ -119,10 +119,10 @@ Barang-barang kecil ini harganya ramah di kantong dan gampang ditemukan di berba
 
 **Bacaan Lanjutan:**
 
-- [Panduan Lengkap 5 Pasar Seni Terbaik di Ubud: Cari Oleh-Oleh & Suvenir, Jelajahi Harta Karun Budaya Bali](/blog/ubud-art-markets-guide/)
-- [Suvenir Seni Khas Bali: Ubah Kenangan Perjalanan Jadi Koleksi Abadi](/blog/bali-art-souvenirs-guide/)
-- [【Rekomendasi Netizen】6 Jenis, 20+ Rekomendasi Oleh-Oleh Bali: Pilihan Terbaik untuk Menyimpan Kenangan Berharga](/blog/bali-souvenirs-gift-guide/)
-- [【Tips Wisata Bali】Oleh-Oleh Ini Gak Boleh Dibawa ke Taiwan! Pahami Aturan Bea Cukai Taiwan Sekali](/blog/bali-souvenirs-customs-restrictions/)
+- [Panduan Lengkap 5 Pasar Seni Terbaik di Ubud: Cari Oleh-Oleh & Suvenir, Jelajahi Harta Karun Budaya Bali](/id/blog/ubud-art-markets-guide/)
+- [Suvenir Seni Khas Bali: Ubah Kenangan Perjalanan Jadi Koleksi Abadi](/id/blog/bali-art-souvenirs-guide/)
+- [【Rekomendasi Netizen】6 Jenis, 20+ Rekomendasi Oleh-Oleh Bali: Pilihan Terbaik untuk Menyimpan Kenangan Berharga](/id/blog/bali-souvenirs-gift-guide/)
+- [【Tips Wisata Bali】Oleh-Oleh Ini Gak Boleh Dibawa ke Taiwan! Pahami Aturan Bea Cukai Taiwan Sekali](/id/blog/bali-souvenirs-customs-restrictions/)
 
 ***
 

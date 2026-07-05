@@ -35,9 +35,9 @@ Clairejenjen視頻截圖
 
 隨後，佢哋搭咗Gojek電單車返度假別墅，享受咗一頓豐富嘅早餐，然後去咗烏布嘅藝術市集，感受當地文化嘅獨特魅力。喺市集入面，佢哋品嚐咗各種峇里島特色美食，欣賞咗當地手工藝品同藝術作品，好似置身於一個充滿生活氣息嘅異國小鎮。
 
-> 延伸閱讀：推薦[烏布22間令人驚艷嘅峇里島villa](/blog/ubud-villa-pool-guide/)
+> 延伸閱讀：推薦[烏布22間令人驚艷嘅峇里島villa](/zh-hk/blog/ubud-villa-pool-guide/)
 
-> [【峇里島烏布住宿】烏布32家特色住宿，體驗峇里島山林美景中嘅奇幻之旅！](/blog/ubud-villas-pool-guide/)
+> [【峇里島烏布住宿】烏布32家特色住宿，體驗峇里島山林美景中嘅奇幻之旅！](/zh-hk/blog/ubud-villas-pool-guide/)
 
 ![Clairejenjen視頻截圖](https://images.gobaligo.id/vocus/vocus_dcba359c585b69b719edfb486213c9cb.jpg)
 
@@ -87,6 +87,6 @@ https://www.youtube.com/watch?v=faJH5pOjzpo
 
 撳呢度睇更多峇里島精彩遊記
 
-你都想寫遊記但係唔知點落手咩？可以參考下「[點樣寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！
+你都想寫遊記但係唔知點落手咩？可以參考下「[點樣寫一篇精彩嘅峇里島遊記](/zh-hk/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！
 
 {{block:攻略}}

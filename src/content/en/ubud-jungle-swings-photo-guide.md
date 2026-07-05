@@ -59,7 +59,7 @@ In addition to the exhilarating swing experiences, many parks also feature life-
 
 ## Recommended Experience Locations
 
-> [Aloha Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20061-aloha-ubud-swing-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db14b625403) (Check out our [dedicated guide](/blog/aloha-ubud-swing-guide/) here)
+> [Aloha Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20061-aloha-ubud-swing-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db14b625403) (Check out our [dedicated guide](/en/blog/aloha-ubud-swing-guide/) here)
 
 > [Bali Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20020-swing-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D57a4f3d075)
 

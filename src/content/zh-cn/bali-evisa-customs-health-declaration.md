@@ -36,7 +36,7 @@ _srcHash: e98bdf2c200625416df552cb59114f55
 
 ### ✈️ 行前必做：
 
-✅ 出发前务必提前完成线上申报**电子签证、All Indonesia、观光税**。请看[这里](/blog/bali-all-indonesia-arrival-guide/)有流程解说
+✅ 出发前务必提前完成线上申报**电子签证、All Indonesia、观光税**。请看[这里](/zh-cn/blog/bali-all-indonesia-arrival-guide/)有流程解说
 
 ✅ 保存/截图最终生成的 QR CODE 于手机中（建议同时存云端备份）
 
@@ -54,7 +54,7 @@ _srcHash: e98bdf2c200625416df552cb59114f55
 
 ### **❓ 我需要办理签证（VoA, Visa on Arrival）吗？**
 
-目前公布13个国家享有入境免签证的优惠（[名单在这里](/blog/indonesia-visa-free-countries-list/)）。至于其他国家包括台湾、中国等80几个国家皆需办理签证。
+目前公布13个国家享有入境免签证的优惠（[名单在这里](/zh-cn/blog/indonesia-visa-free-countries-list/)）。至于其他国家包括台湾、中国等80几个国家皆需办理签证。
 
 ### **❓ 小孩需要办理签证吗？**
 
@@ -62,7 +62,7 @@ _srcHash: e98bdf2c200625416df552cb59114f55
 
 ### **❓ 电子签证eVisa在哪里办理？**
 
-请参考[这里](/blog/bali-evisa-application-guide/)有进一步的说明。
+请参考[这里](/zh-cn/blog/bali-evisa-application-guide/)有进一步的说明。
 
 ### **❓ 不想办电子签证？落地签在哪里办？准备哪些文件**？
 
@@ -153,11 +153,11 @@ Place of Birth（出生地） 和 Date of Birth (出生日期） 必须和护照
 
 ### **❓** 带小朋友也可以自动通关吗？
 
-年满 6 岁的儿童也可以使用机场的自动通关。请查看[入境印尼/巴厘岛的小朋友签证/儿童签证攻略](/blog/bali-child-visa-guide/)
+年满 6 岁的儿童也可以使用机场的自动通关。请查看[入境印尼/巴厘岛的小朋友签证/儿童签证攻略](/zh-cn/blog/bali-child-visa-guide/)
 
 ### **❓ 观光签证期限多久？逾期会怎么样？**
 
-观光签证入境后的有效期限为30天，可在当地移民局或[线上申请延长](/blog/2024-bali-visa-extension/)一次，最多居留60天。
+观光签证入境后的有效期限为30天，可在当地移民局或[线上申请延长](/zh-cn/blog/2024-bali-visa-extension/)一次，最多居留60天。
 
 若逾期每天罚款1,000,000印尼盾，并被视为非法居留，可能面临收押、驱逐出境、特定期限不能入境印尼等惩罚。
 
@@ -171,7 +171,7 @@ Place of Birth（出生地） 和 Date of Birth (出生日期） 必须和护照
 
 ### **❓ 入境那些机场可以使用** [All Indonesia](https://allindonesia.imigrasi.go.id/) ？
 
-雅加达苏卡诺哈达( Soekarno-Hatta )、泗水朱安达(Juanda)及巴厘岛伍拉赖(Ngurah Rai)等3处国际机场可以用「All Indonesia」一站申请，入境其他机场请分开填写**电子签证eVisa**、**报关eCD**、及**健康声明SSHP**（填写说明请看[链接](/blog/bali-entry-requirements/)）
+雅加达苏卡诺哈达( Soekarno-Hatta )、泗水朱安达(Juanda)及巴厘岛伍拉赖(Ngurah Rai)等3处国际机场可以用「All Indonesia」一站申请，入境其他机场请分开填写**电子签证eVisa**、**报关eCD**、及**健康声明SSHP**（填写说明请看[链接](/zh-cn/blog/bali-entry-requirements/)）
 
 ### **❓ 如何查询我的申请状态？**
 
@@ -205,7 +205,7 @@ Place of Birth（出生地） 和 Date of Birth (出生日期） 必须和护照
 
 ### **❓**没有整合旅游税吗？
 
-没有。因为旅游税只有巴厘岛收，并不适用于全国。旅游税仍须在不同的系统缴交。请看：[巴厘岛观光税/旅游税懒人包：2024年新规定、缴费方式、跳岛注意事项一次看](/blog/2026-bali-tourism-tax-guide/)
+没有。因为旅游税只有巴厘岛收，并不适用于全国。旅游税仍须在不同的系统缴交。请看：[巴厘岛观光税/旅游税懒人包：2024年新规定、缴费方式、跳岛注意事项一次看](/zh-cn/blog/2026-bali-tourism-tax-guide/)
 
 ***
 

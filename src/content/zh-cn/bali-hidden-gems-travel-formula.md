@@ -36,11 +36,11 @@ _srcHash: 90a3fab2c5905e114d7afaff8dd456bf
 
 ![没有标准答案的旅行](https://images.gobaligo.id/vocus/vocus_104bf07d3e6737f9d056a85f8714c32b.png)
 
-**快速参考：**[【掌握巴厘岛日落时间最佳观赏指南】七大巴厘岛日落夕阳观赏地点，你去过几个？](/blog/bali-sunset-spots-guide/)
+**快速参考：**[【掌握巴厘岛日落时间最佳观赏指南】七大巴厘岛日落夕阳观赏地点，你去过几个？](/zh-cn/blog/bali-sunset-spots-guide/)
 
 ![没有标准答案的旅行](https://images.gobaligo.id/vocus/vocus_2634825130a33ed12c76424c2ef48c7e.png)
 
-**快速参考：**[巴厘岛20个免费入场的海滩俱乐部 享受比基尼、音乐、泳池、夕阳美景](/blog/bali-beach-clubs-free-entry-list/)
+**快速参考：**[巴厘岛20个免费入场的海滩俱乐部 享受比基尼、音乐、泳池、夕阳美景](/zh-cn/blog/bali-beach-clubs-free-entry-list/)
 
 当然，也有不少人是为了那些Instagram上的热门打卡点而来 - 海神庙的浪花、德格拉朗梯田的绿意、还有网红秋千、咖啡厅的精致早餐等。而冒险爱好者们则可能更爱火山健行、潜水探索海底世界，或是体验刺激的泛舟活动。
 
@@ -48,8 +48,8 @@ _srcHash: 90a3fab2c5905e114d7afaff8dd456bf
 
 **快速参考：**
 
-- [巴厘岛户外活动玩什么？50种最受欢迎的户外体验](/blog/bali-top-50-outdoor-activities/)
-- [巴厘岛水上活动完整指南｜巴厘岛不只浮潜！15种意想不到的水上玩法](/blog/2026-bali-water-activities/)
+- [巴厘岛户外活动玩什么？50种最受欢迎的户外体验](/zh-cn/blog/bali-top-50-outdoor-activities/)
+- [巴厘岛水上活动完整指南｜巴厘岛不只浮潜！15种意想不到的水上玩法](/zh-cn/blog/2026-bali-water-activities/)
 
 ## 先问自己这个问题
 
@@ -61,8 +61,8 @@ _srcHash: 90a3fab2c5905e114d7afaff8dd456bf
 - **想要拍出美照？** 准备好相机，从天空之门到荡秋千，巴厘岛的打卡圣地等着你
 - **想要挑战自己？** 巴杜尔火山日出健行、蓝梦岛潜水、阿勇河泛舟都是不错的选择
 - **想带小孩亲子同乐？**几百种玩法，请参考「[家庭亲子](/blog?cat=%E5%AE%B6%E5%BA%AD%E8%A6%AA%E5%AD%90)」专栏
-- **想带长辈散心？**[适合长者的巴厘岛旅行指南 - 安全、舒适与注意事项](/blog/bali-elderly-travel-guide/)
-- **想两人浪漫？**[巴厘岛蜜月浪漫指南：探索巴厘岛情侣/蜜月旅行的36种玩法](/blog/bali-honeymoon-romantic-activities-2/)
+- **想带长辈散心？**[适合长者的巴厘岛旅行指南 - 安全、舒适与注意事项](/zh-cn/blog/bali-elderly-travel-guide/)
+- **想两人浪漫？**[巴厘岛蜜月浪漫指南：探索巴厘岛情侣/蜜月旅行的36种玩法](/zh-cn/blog/bali-honeymoon-romantic-activities-2/)
 
 ## 千变万化的玩法
 
@@ -74,14 +74,14 @@ _srcHash: 90a3fab2c5905e114d7afaff8dd456bf
 
 快速参考：
 
-- [巴厘岛德格拉朗、贾提鲁维两大梯田区攻略｜入场门票多少钱？最佳拜访时间/季节？](/blog/bali-rice-terraces-comparison/)
-- [巴厘岛金巴兰9家海鲜餐厅：不踩雷推荐](/blog/jimbaran-seafood-restaurants-list/)
-- [巴厘岛水明漾的五大夜店推荐：让你嗨翻天的夜生活体验！](/blog/seminyak-nightclubs-guide/)
-- [巴厘岛好评SPA、到府按摩推荐大集合 用区域划分更方便查找](/blog/spa/)
-- [水明漾美食攻略｜浪漫、精致与地道巴厘岛的完美结合](/blog/seminyak-restaurants-food-guide/)
-- [巴厘岛探险：巴杜尔火山吉普车日出之旅全记录](/blog/batur-volcano-jeep-sunrise-tour/)
-- [巴厘岛最美浮潜地点大收集：新手友善海洋冒险指南](/blog/bali-snorkeling-spots/)
-- 【巴厘岛滑翔翼体验】在乌鲁瓦图飞翔！超美海景+注意事项分享](/blog/uluwatu-paragliding-ocean-view/)
+- [巴厘岛德格拉朗、贾提鲁维两大梯田区攻略｜入场门票多少钱？最佳拜访时间/季节？](/zh-cn/blog/bali-rice-terraces-comparison/)
+- [巴厘岛金巴兰9家海鲜餐厅：不踩雷推荐](/zh-cn/blog/jimbaran-seafood-restaurants-list/)
+- [巴厘岛水明漾的五大夜店推荐：让你嗨翻天的夜生活体验！](/zh-cn/blog/seminyak-nightclubs-guide/)
+- [巴厘岛好评SPA、到府按摩推荐大集合 用区域划分更方便查找](/zh-cn/blog/spa/)
+- [水明漾美食攻略｜浪漫、精致与地道巴厘岛的完美结合](/zh-cn/blog/seminyak-restaurants-food-guide/)
+- [巴厘岛探险：巴杜尔火山吉普车日出之旅全记录](/zh-cn/blog/batur-volcano-jeep-sunrise-tour/)
+- [巴厘岛最美浮潜地点大收集：新手友善海洋冒险指南](/zh-cn/blog/bali-snorkeling-spots/)
+- 【巴厘岛滑翔翼体验】在乌鲁瓦图飞翔！超美海景+注意事项分享](/zh-cn/blog/uluwatu-paragliding-ocean-view/)
 
 ## 巴厘岛十大地标景点
 
@@ -89,12 +89,12 @@ _srcHash: 90a3fab2c5905e114d7afaff8dd456bf
 
 虽然没有一定要去的景点，巴厘岛确实有「十大标志性景点」。这些景点集中展现了巴厘岛的文化、自然风光和特色魅力，让您在短时间内深入体验巴厘岛的独特魅力。同时这些地方也是拍照打卡/到此一游的热门景点。
 
-除此之外，巴厘岛特殊的景点很多，可以看看我们介绍上百个景点的「[巴厘岛自由行旅游景点懒人包](/blog/bali-top-500-attractions/)」，介绍了500个2025年最新巴厘岛景点，你一定可以找到你非常想去的景点喔！
+除此之外，巴厘岛特殊的景点很多，可以看看我们介绍上百个景点的「[巴厘岛自由行旅游景点懒人包](/zh-cn/blog/bali-top-500-attractions/)」，介绍了500个2025年最新巴厘岛景点，你一定可以找到你非常想去的景点喔！
 
 延伸阅读：
 
-- [巴厘岛旅游攻略：第一次到乌布要玩什么？20个景点推荐 乌布攻略篇](/blog/ubud-top-20-attractions-guide/)
-- [巴厘岛一日水明漾攻略：从日出到日落的完美行程](/blog/seminyak-day-trip-guide/)
+- [巴厘岛旅游攻略：第一次到乌布要玩什么？20个景点推荐 乌布攻略篇](/zh-cn/blog/ubud-top-20-attractions-guide/)
+- [巴厘岛一日水明漾攻略：从日出到日落的完美行程](/zh-cn/blog/seminyak-day-trip-guide/)
 
 ## 巴厘岛为何能吸引全球旅人？
 
@@ -156,4 +156,4 @@ _srcHash: 90a3fab2c5905e114d7afaff8dd456bf
 
 👈 **回到巴厘岛自由行终极指南**
 
-想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/zh-cn/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

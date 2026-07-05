@@ -76,7 +76,7 @@ Selain ruang pameran, SAKA Museum juga punya teater, perpustakaan, ruang pertemu
 
 **Referensi Cepat:**
 
-> [【Bali Ayana】Paket Menginap Ayana Bali Lengkap》](/blog/ayana-resort-bali-guide/)
+> [【Bali Ayana】Paket Menginap Ayana Bali Lengkap》](/id/blog/ayana-resort-bali-guide/)
 
 ## **FAQ: Pertanyaan Umum & Jawaban**
 

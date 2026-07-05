@@ -52,9 +52,9 @@ Want to know how to make the most of Nusa Dua? Check out our guide:
 
 ![努沙杜瓦攻略](https://images.gobaligo.id/vocus/vocus_8eb766b4f7c36e1bd9bb27687762de0f.png)
 
-[Nusa Dua Guide](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+[Nusa Dua Guide](/en/blog/2024-01-25-65afb7bbfd897800017023b4/)
 
-[Nusa Dua & Tanjung Benoa: The Premier Choice for Luxury Holidays in Bali - 40 Food & Activity Guide Map](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+[Nusa Dua & Tanjung Benoa: The Premier Choice for Luxury Holidays in Bali - 40 Food & Activity Guide Map](/en/blog/2024-01-25-65afb7bbfd897800017023b4/)
 
 Among the many resorts in Nusa Dua, 16 stand out as the best. Here's our introduction:
 
@@ -349,7 +349,7 @@ This transformation is more than just a name change; the hotel has elevated its 
 
 In short, it remains the familiar, historic beachfront hotel in Nusa Dua, but with completely transformed facilities and service standards, becoming a more refined and luxurious top-tier resort.
 
-For a detailed introduction, please see: [【2026 Nusa Dua New Hotel】Paradisus by Meliá Bali Review: Asia's First Luxury All-Inclusive Resort, Exclusive Water Park, and Adult-Only Luxury Experience](/blog/Paradisus-by-Melia-Bali/)
+For a detailed introduction, please see: [【2026 Nusa Dua New Hotel】Paradisus by Meliá Bali Review: Asia's First Luxury All-Inclusive Resort, Exclusive Water Park, and Adult-Only Luxury Experience](/en/blog/Paradisus-by-Melia-Bali/)
 
 > ▶Paradisus by Meliá Bali Booking Links: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10347)  [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=987211&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-N6xsTFJMEkdZ-J4-71be1MQsyGBkYaTzkMHjBabJV39HhYJbLu10QHT82Y_kNfNaY5BPBETDnwfBp74grTs9Z-kY4OXYysYIEZjKcX2GxkbH0duENuZ4HDDkamA4xMJxhvPXnAuICp49wrxlMsLBydm7UusexljK5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDbzNLEzMxUz8AAKFiSWOGZAtacnJiTXJqTWJIaUlkANMRIRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBguCjC6C8jPz8yC6DVDEwhJzSlMhKoH2uaVCrTCsjX3EwhQd-4LlKccnFoZfLAxNrAxdrCwcE_azTmJl5QB5dxcrr69LWEikka5hiG6UruEF1umdXxil5A0NDAxMDY1NTXUNEi0Tk1PMjXVNLE2MTM11zQwtDEw1uk5cP_jE2MhaChKgCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9gs3YxcXFyjbLiYQ4NdBHOf_1750UjaQYrZ0yVIMdrp9l45F0t7LZCcIUwucBdz2N6nm3jtI2HySaxVGboh4RnHxQoYGxiZuhi5BRg9GCMYK4A8xlWM7FzMBkaGAkwbGBl3MP6HAcZXjCBLACTL6dZSAgAA&masterhotelid_tracelogid=100051355-0a9acd73-494257-61805&detailFilters=17|1~17~1*31|987211~31~987211*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=390&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660)  [Booking.com](https://booking.tpm.li/squT1Nf0)
 
@@ -625,6 +625,6 @@ Get to Know Nusa Dua in Two Minutes
 
 https://youtu.be/zxDZJ93EqA4?si=6NzwPHfSdfJgCRGY
 
-Nusa Dua and Tanjung Benoa: Bali's Premier Luxury Resort Destinations - 40 Accommodation, Dining, and Activity Guide Map. Click [here](/blog/2024-01-25-65afb7bbfd897800017023b4/) for more details.
+Nusa Dua and Tanjung Benoa: Bali's Premier Luxury Resort Destinations - 40 Accommodation, Dining, and Activity Guide Map. Click [here](/en/blog/2024-01-25-65afb7bbfd897800017023b4/) for more details.
 
 {{block:住宿}}

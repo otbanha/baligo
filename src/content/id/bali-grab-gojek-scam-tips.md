@@ -24,7 +24,7 @@ _srcHash: 5e541c8d3985565ea7a7772c4e941d44
 ---
 Update: 2026/07/03
 
-[🚗 Mau estimasi tarif Gojek? Klik di sini](/map/gojek-fare/)
+[🚗 Mau estimasi tarif Gojek? Klik di sini](/id/map/gojek-fare/)
 
 **Kesimpulan dulu ya**: Dua modus paling umum Grab/Gojek di Bali itu—① **Naikin harga di bandara**: Driver nelpon langsung minta bayar 3-4 kali lipat cash (sistem bilang Rp 100.000, dia minta Rp 400.000), kalau gitu langsung cancel aja trus panggil lagi; ② **Jualan di luar aplikasi**: Di mobil nawarin paket tour, alasan nggak punya uang kecil minta kamu 'naik lagi pas balik', pas balik harganya gila-gilaan. Prinsip jaga: **patok harga di aplikasi, transaksi di dalam platform aja, kalau ke bandara pesen dari jauh dan siap-siap cancel-panggil ulang**.
 
@@ -52,12 +52,12 @@ Setelah mereka protes, supirnya mulai nurunin harga sendiri, dan akhirnya nawari
 
 Pengalaman nyata para wisatawan ini semoga bisa jadi referensi buat kalian. Platform ojek online sendiri emang praktis banget, kemungkinan ketemu supir nakal juga nggak terlalu tinggi, tapi tetap waspada selama traveling itu penting.
 
-> Baca juga: [Aplikasi Wajib Pas Traveling di Indonesia/Bali: Panduan Lengkap Gojek](/blog/2023-08-20-64e187dffd897800017304fe/)
+> Baca juga: [Aplikasi Wajib Pas Traveling di Indonesia/Bali: Panduan Lengkap Gojek](/id/blog/2023-08-20-64e187dffd897800017304fe/)
 
-> Baca juga: [【Panduan Wisata Bali】Wajib Punya Buat Perjalanan Pendek! Aplikasi Panggil Ojek, Hemat Waktu & Tenaga!](/blog/2024-05-03-6634d110fd897800012a9d6b/)
+> Baca juga: [【Panduan Wisata Bali】Wajib Punya Buat Perjalanan Pendek! Aplikasi Panggil Ojek, Hemat Waktu & Tenaga!](/id/blog/2024-05-03-6634d110fd897800012a9d6b/)
 
-> Baca juga: [Kapan Sewa Mobil di Bali? Kapan Panggil Ojek? Sewa Mobil vs. Panggil Ojek: Cara Pilih yang Paling Cocok Buat Liburanmu?](/blog/2024-05-05-6636f348fd897800013df126/)
+> Baca juga: [Kapan Sewa Mobil di Bali? Kapan Panggil Ojek? Sewa Mobil vs. Panggil Ojek: Cara Pilih yang Paling Cocok Buat Liburanmu?](/id/blog/2024-05-05-6636f348fd897800013df126/)
 
-[🚗 Mau estimasi tarif Gojek? Klik di sini](/map/gojek-fare/)
+[🚗 Mau estimasi tarif Gojek? Klik di sini](/id/map/gojek-fare/)
 
 {{block:包車}}

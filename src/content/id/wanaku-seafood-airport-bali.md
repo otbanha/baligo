@@ -124,6 +124,6 @@ Pas kamu ke Bali lagi, jangan lupa mampir ke Wanaku, biar lidah dan hati kamu sa
 
 ![Serba-Serbi Kuliner & Hiburan di Kuta Dekat Bandara](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
 
-[Klik di sini buat panduan Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/)
+[Klik di sini buat panduan Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
 
-Kuta adalah salah satu spot paling hidup di Bali, terkenal dengan kehidupan malam yang ramai, jalanan yang sibuk, dan pantai ramah pemula buat surfing yang menarik wisatawan dari seluruh dunia. Di sini, kamu bakal nemuin banyak toko, restoran, dan tempat hiburan—cocok banget buat yang cari sensasi dan belanja. Mau nikmatin pesta seru atau lihat sunset cantik, Kuta bakal bikin liburanmu penuh kenangan! Mau tahu lebih banyak tips Kuta? [Klik di sini](/blog/2023-12-13-657598bdfd8978000120fe20/).
+Kuta adalah salah satu spot paling hidup di Bali, terkenal dengan kehidupan malam yang ramai, jalanan yang sibuk, dan pantai ramah pemula buat surfing yang menarik wisatawan dari seluruh dunia. Di sini, kamu bakal nemuin banyak toko, restoran, dan tempat hiburan—cocok banget buat yang cari sensasi dan belanja. Mau nikmatin pesta seru atau lihat sunset cantik, Kuta bakal bikin liburanmu penuh kenangan! Mau tahu lebih banyak tips Kuta? [Klik di sini](/id/blog/2023-12-13-657598bdfd8978000120fe20/).

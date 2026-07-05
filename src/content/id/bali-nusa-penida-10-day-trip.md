@@ -38,13 +38,13 @@ https://youtu.be/op78Dk8CjL4
 
 Kebetulan kami datang pas musim kemarau di Bali, cuacanya sejuk dan nyaman, nggak panas lembab kayak di Taiwan. Ini lagi naik menuju puncak musim liburan. Dateng pas begini, meskipun bukan yang paling ramai, kualitas liburannya lumayan oke, nggak berdesakan. Tapi, kami juga kena hujan beberapa hari, jadi kelewatan beberapa kali lihat sunset dan sunrise. Kekecilan kayak gini jadi alasan buat balik lagi lain kali.
 
-> Baca juga: [Liburan ke Bali Kehujanan? 60 Alternatif Aktivitas Indoor di Bali Saat Hujan](/blog/2026-bali-indoor-activities/)
+> Baca juga: [Liburan ke Bali Kehujanan? 60 Alternatif Aktivitas Indoor di Bali Saat Hujan](/id/blog/2026-bali-indoor-activities/)
 
 Sumber: 
 
 https://youtu.be/C6zqIkgAAug
 
-> Baca juga: [Panduan 3 Air Terjun Terkenal di Sekitar Ubud, Bali: Tegenungan, Kanto Lampo, dan Tukad Cepung](/blog/ubud-waterfalls-guide/)
+> Baca juga: [Panduan 3 Air Terjun Terkenal di Sekitar Ubud, Bali: Tegenungan, Kanto Lampo, dan Tukad Cepung](/id/blog/ubud-waterfalls-guide/)
 
 ## Meski Masuk Angin, Tetap Teliti dalam Merencanakan
 
@@ -56,17 +56,17 @@ Meskipun Ketut merasa kurang enak badan di hari kedua kunjungan kami ke Bali, di
 
 Kiri: AMARTA Penida | Tengah: Angel's Billabong | Kanan: Broken Beach dengan pemandangan laut
 
-> Info lengkap AMARTA Penida: [Kuliner & Laut Biru: 10 Pilihan Terbaik di Nusa Penida](/blog/nusa-penida-best-restaurants/)
+> Info lengkap AMARTA Penida: [Kuliner & Laut Biru: 10 Pilihan Terbaik di Nusa Penida](/id/blog/nusa-penida-best-restaurants/)
 
 Rencana perjalanan kami juga termasuk island hopping ke Nusa Penida. Meskipun Ketut nggak bisa antar jemput langsung, timnya tetap kerja sama erat dengan supir lokal. Selama tiga hari island hopping, mereka terus-menerus ngecek rute dan jadwal tempat wisata — bener-bener perhatian banget!
 
-> Baca juga: [Rekomendasi Penginapan di Nusa Penida: 13 Akomodasi dari Mewah hingga Budget, Rating Terbaik](/blog/nusa-penida-hotels-guide/)
+> Baca juga: [Rekomendasi Penginapan di Nusa Penida: 13 Akomodasi dari Mewah hingga Budget, Rating Terbaik](/id/blog/nusa-penida-hotels-guide/)
 
 ![左：Kelingking Beach→ the origin of iPhone's wallpaper! 中：Tree House Bungalow 右：Diamond beach](https://images.gobaligo.id/vocus/vocus_54c623fcb2a8e1d4cc86bf0e3d31ded8.jpg)
 
 Kiri: Pantai Kelingking → aslinya wallpaper iPhone! | Tengah: Tree House Bungalow | Kanan: Diamond Beach
 
-> Baca juga: [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)
+> Baca juga: [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)
 
 ## Seru-seruan di Pura Tanah Lot
 
@@ -74,7 +74,7 @@ Pas jalan-jalan di Pura Tanah Lot, kita ketemu banyak monyet liar. Sambil cerita
 
 https://youtu.be/oc0133x2FOU
 
-**Referensi Cepat:** [Panduan Lengkap Pura Tanah Lot: Info Pasang Surut & Tempat Wisata Sekitar](/blog/bali-tanah-lot-guide/)
+**Referensi Cepat:** [Panduan Lengkap Pura Tanah Lot: Info Pasang Surut & Tempat Wisata Sekitar](/id/blog/bali-tanah-lot-guide/)
 
 ##
 

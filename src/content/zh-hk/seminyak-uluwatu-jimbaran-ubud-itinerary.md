@@ -45,7 +45,7 @@ Update: 2026/07/03
 
 https://youtu.be/Czw4ALduV14
 
-> [探索Oneeighty Day Club：峇里島懸崖邊嘅游泳池極致美景](/blog/oneeighty-dayclub-uluwatu-pool/) 消費方式、預約方式介紹
+> [探索Oneeighty Day Club：峇里島懸崖邊嘅游泳池極致美景](/zh-hk/blog/oneeighty-dayclub-uluwatu-pool/) 消費方式、預約方式介紹
 
 跟住，我哋去咗Blue Point Beach，睇衝浪高手表演，真係大開眼界。
 
@@ -55,7 +55,7 @@ https://youtu.be/hQbBTktqEqY
 
 之後，Komang介紹我哋去Uluwatu Temple睇傳統舞蹈表演，佢仲提前叫朋友幫我哋留咗飛，咁我哋就可以喺Blue Point Beach玩耐啲，唔使提早去買飛。
 
-> [Kecak Fire Dance卡恰火舞秀 峇里島必睇嘅震撼表演（附訂票資訊）](/blog/kecak-fire-dance-bali/)
+> [Kecak Fire Dance卡恰火舞秀 峇里島必睇嘅震撼表演（附訂票資訊）](/zh-hk/blog/kecak-fire-dance-bali/)
 
 ![烏魯瓦圖美景。連育諄提供](https://images.gobaligo.id/vocus/vocus_a2ffbc76870b45338de0935d3e72d256.jpg)
 
@@ -91,7 +91,7 @@ https://youtu.be/hQbBTktqEqY
 
 https://youtu.be/UoGlRyAdyB8
 
-延伸閱讀：[【網友推薦】六大種類，超過20項峇里島伴手禮推薦指南：留住珍貴回憶嘅絕佳選擇](/blog/bali-souvenirs-gift-guide/)
+延伸閱讀：[【網友推薦】六大種類，超過20項峇里島伴手禮推薦指南：留住珍貴回憶嘅絕佳選擇](/zh-hk/blog/bali-souvenirs-gift-guide/)
 
 ## 第五日：
 
@@ -111,7 +111,7 @@ Montana Del Café可惜天氣唔好。連育諄提供
 
 https://youtu.be/op78Dk8CjL4
 
-> 可以參考吓：[峇里島烏布完整攻略：100種深入認識烏布嘅方式｜探索烏布嘅魅力](/blog/ubud-guide/)
+> 可以參考吓：[峇里島烏布完整攻略：100種深入認識烏布嘅方式｜探索烏布嘅魅力](/zh-hk/blog/ubud-guide/)
 
 行程完咗之後，我哋請Komang帶我哋去呢行最鍾意嘅餐廳-Kebun Bistro，雖然最有名嘅羊扒賣晒，但店員推薦嘅牛扒都好好味！叫咗五成熟，切開冇血水，肉質好嫩，連配菜都好食。因為客人好多，建議喺正餐時間提早訂位。（已加入[烏布攻略地圖](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
 
@@ -119,7 +119,7 @@ https://youtu.be/op78Dk8CjL4
 
 朝早我哋由烏布出發去海神廟。行到海神廟可能要涉水，建議着可以浸水嘅鞋同短褲。聽講日落時分好靚，可惜我哋因為行程安排喺中午，冇得欣賞到。
 
-> [峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](https://gobaligo.id/blog/bali-tanah-lot-guide/)
+> [峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](https://gobaligo.id/zh-hk/blog/bali-tanah-lot-guide/)
 
 我哋到海神廟先發現唔小心帶走咗前一晚酒店嘅鎖匙，Komang即刻話佢過兩日可以幫我哋送返去（已經得到酒店主管姐姐嘅同意），真係好多謝佢！
 

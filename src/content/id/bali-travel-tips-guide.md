@@ -27,7 +27,7 @@ _srcHash: 9dd275ceff974248e04213df6890ace8
 ---
 Update: 03/07/2026
 
-[🚗 Mau estimasi tarif Gojek? Klik di sini](/map/gojek-fare/)
+[🚗 Mau estimasi tarif Gojek? Klik di sini](/id/map/gojek-fare/)
 
 Video seri Bali kita udah sampai episode ke-55, nih! Kali ini kita bakal bahas enam hal penting yang wajib kamu tahu sebelum liburan ke Bali!
 

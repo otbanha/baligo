@@ -31,7 +31,7 @@ _srcHash: ccdd2cb2bbcb75de2d77c653e0021f99
 
 由于我们在台湾提前购买了SIM卡，抵达巴厘岛后很快就能联络上我们这次的包车司机——Bali Holiday的Awan先生。
 
-> 延伸阅读：[【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡?](/blog/bali-sim-card-esim-roaming-guide/)
+> 延伸阅读：[【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡?](/zh-cn/blog/bali-sim-card-esim-roaming-guide/)
 
 他非常亲切，英文沟通毫无障碍，而且他的车辆是一辆辨识度超高的粉红色车子，无论走到哪里都很容易辨认。上车后，我们先请他带我们去换汇，接着前往乌布。在途中，我们先造访了一个美丽的瀑布（Tegenungan Waterfall），随后还去了超市购买零食和饮用水。
 
@@ -39,7 +39,7 @@ _srcHash: ccdd2cb2bbcb75de2d77c653e0021f99
 
 Tegenungan Waterfall. （赵康康提供）
 
-> 延伸阅读：[巴厘岛乌布附近的三大知名瀑布攻略：Tegenungan瀑布、Kanto Lampo瀑布和Tukad Cepung瀑布](/blog/ubud-waterfalls-guide/)
+> 延伸阅读：[巴厘岛乌布附近的三大知名瀑布攻略：Tegenungan瀑布、Kanto Lampo瀑布和Tukad Cepung瀑布](/zh-cn/blog/ubud-waterfalls-guide/)
 
 > 延伸阅读：[【印尼/巴厘岛旅游】超市/便利店买什么？｜有什么东西是你到超市一定要买的？](https://youtu.be/UoGlRyAdyB8)
 
@@ -47,7 +47,7 @@ Tegenungan Waterfall. （赵康康提供）
 
 [**▶乌布天堂 空房 & 房价查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920688) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=2511061&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLQ0NjUzMdQ1sTQxsjTRNTc1MDTTaJpyuPGpsZGBlmB8iKeni2FJYapZYallTlGB6SlGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNiMzQyMntyg-KeaQcBfFlTeZ1x6YcNo-ibUqQzckPKNXHAARxK4vggAAAA&masterhotelid_tracelogid=100051355-0a935641-494294-75016&detailFilters=17|1~17~1*31|2511061~31~2511061*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1440&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/yI4C37fv)
 
-**（**评价很高的优质villa！已收录在[16间令人惊艳的巴厘岛villa推荐](/blog/ubud-villa-pool-guide/)**）**
+**（**评价很高的优质villa！已收录在[16间令人惊艳的巴厘岛villa推荐](/zh-cn/blog/ubud-villa-pool-guide/)**）**
 
 ## **Day 2：漂流河与乌布探险**
 
@@ -55,7 +55,7 @@ Tegenungan Waterfall. （赵康康提供）
 
 https://youtu.be/ZEkv46_-_mM
 
-**快速参考：**[巴厘岛洞穴漂流河探险记：Nukuwera River Tubing的亲子冒险之旅](/blog/nukuwera-river-tubing-adventure/)
+**快速参考：**[巴厘岛洞穴漂流河探险记：Nukuwera River Tubing的亲子冒险之旅](/zh-cn/blog/nukuwera-river-tubing-adventure/)
 
 ![叢林鞦韆。（趙康康提供）](https://images.gobaligo.id/vocus/vocus_86291fefaa0646e19596de72aa7330bd.jpg)
 
@@ -79,7 +79,7 @@ Safari Zoo. （赵康康提供）
 
 中午时分，我们偶然观看了一场老虎秀，让我大为惊艳。这是我第一次如此近距离地观察老虎，而且它们不在玻璃笼内，甚至还与现场工作人员有互动，这场景真是值得一看！
 
-> 编按：Bali Safari动物园提供冒险野生游览车，带您穿越动物们的家园，让您感受仿若置身野外的刺激与震撼。除了动物观赏，园区还举办丰富的动物表演，为您带来一场欢乐与自然的交融之旅。请看[这里我们有详细的介绍](/blog/bali-safari-night-stay/)。如果你想要更高的性价比，可以考虑 [住在动物园里](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155)
+> 编按：Bali Safari动物园提供冒险野生游览车，带您穿越动物们的家园，让您感受仿若置身野外的刺激与震撼。除了动物观赏，园区还举办丰富的动物表演，为您带来一场欢乐与自然的交融之旅。请看[这里我们有详细的介绍](/zh-cn/blog/bali-safari-night-stay/)。如果你想要更高的性价比，可以考虑 [住在动物园里](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155)
 
 晚上，我们请Awan带我们去当地的夜市体验。在夜市里，我们先绕了一圈，请他帮忙介绍各种食物，之后再由他帮我们向店家点餐（因为有些店家不会说英文）。我们享用了烤猪饭、鸡肉丸子面、鸡肉沙嗲、猪肉沙嗲等美食，还买了一堆当地的甜点回住宿享用，这一切花费竟然不超过USD$10，真是非常划算又充满趣味的体验！
 
@@ -143,7 +143,7 @@ Atlas（赵康康提供）
 
 另外，有两天我请他帮忙安排按摩师傅到Villa，他也很尽力地帮我们协调时间。总体来说，Awan是一位非常棒的包车司机，虽然不是大型公司，但他的人情味让我们倍感温暖，我的家人也与他相处得非常愉快！下次如果有机会再来巴厘岛，我一定会再选择这位司机，也非常推荐给正在寻找包车司机的朋友们！
 
-Awan的联系方式收录在[巴厘岛包车司机名人榜](/blog/bali-private-car-drivers-guide/)
+Awan的联系方式收录在[巴厘岛包车司机名人榜](/zh-cn/blog/bali-private-car-drivers-guide/)
 
 您觉得赵康康他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
@@ -151,6 +151,6 @@ Awan的联系方式收录在[巴厘岛包车司机名人榜](/blog/bali-private-
 
 点击这里观看更多巴厘岛精彩游记
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/zh-cn/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
 
 {{block:攻略}}

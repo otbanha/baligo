@@ -73,7 +73,7 @@ But seeing his girlfriend feeling down, the guy suddenly thought of a possibilit
 He immediately took two actions:
 
 - Contacted the Seminyak hotel, asking staff to help search
-- Simultaneously downloaded and registered for Gojek (see how to download and register [here](/blog/indonesia-gojek-gopay-guide/))
+- Simultaneously downloaded and registered for Gojek (see how to download and register [here](/en/blog/indonesia-gojek-gopay-guide/))
 
 Soon, good news arrived - the neck pillow was found.
 
@@ -133,7 +133,7 @@ Back in their room, the couple was still amazed by the whole experience:
 
 In the end, they decided to add an extra IDR 30,000 tip through the platform as a token of their gratitude.
 
-> [8 Must-Have Apps for Traveling to Indonesia/Bali](/blog/bali-travel-apps-guide/)
+> [8 Must-Have Apps for Traveling to Indonesia/Bali](/en/blog/bali-travel-apps-guide/)
 
 ***
 ## 🙏The Unsung Heroes: Hotel Staff

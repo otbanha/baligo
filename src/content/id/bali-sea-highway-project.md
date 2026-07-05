@@ -91,7 +91,7 @@ Dengan adanya proyek tol laut ini, Bali bakal punya jaringan transportasi yang l
 
 Proyek tol laut di Bali ini inovatif banget dan penuh prospek. Nggak cuma bikin lalu lintas lebih lancar, tapi juga kasih angin segar buat pariwisata dan ekonomi lokal. Seiring proyek ini berjalan, kita pasti bakal lihat Bali makin nyaman dan maju.
 
-> Baca juga: [【Salah Satu Proyek Perbaikan Transportasi Bali】Kereta Ringan Bali Segera Mulai Dibangun September](/blog/bali-lrt-construction-update/)
+> Baca juga: [【Salah Satu Proyek Perbaikan Transportasi Bali】Kereta Ringan Bali Segera Mulai Dibangun September](/id/blog/bali-lrt-construction-update/)
 
 ## **FAQ (Pertanyaan yang Sering Ditanyakan)**
 

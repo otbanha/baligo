@@ -49,7 +49,7 @@ Kuta adalah salah satu kawasan komersial tertua di Bali, letaknya dekat banget s
 
 Kuta itu semacam melting pot berbagai macam orang di Bali
 
-Kuta punya banyak banget pilihan aktivitas, tempat wisata, dan akomodasi. Kami udah siapin panduan lengkap yang bisa kamu simpan >>[Panduan Wisata Kuta: 50 Tempat Wajib Kunjungi, Kehidupan Malam yang Seru, Kuliner, & Rekomendasi SPA](/blog/kuta-guide/)
+Kuta punya banyak banget pilihan aktivitas, tempat wisata, dan akomodasi. Kami udah siapin panduan lengkap yang bisa kamu simpan >>[Panduan Wisata Kuta: 50 Tempat Wajib Kunjungi, Kehidupan Malam yang Seru, Kuliner, & Rekomendasi SPA](/id/blog/kuta-guide/)
 
 ## Legian
 
@@ -65,7 +65,7 @@ Seminyak terletak sedikit di atas Legian, dan ini tempat yang super stylish di B
 
 Mau lihat Seminyak kayak apa? >>[Cek video review dari Xiaojie](https://youtu.be/uFv_4Wr6YsI?si=EBJL09xoRoIQJfyD&t=181)
 
-Pas traveling ke Seminyak, jangan lupa lihat >>[Peta Panduan Wisata Seminyak](/blog/seminyak-guide/) kami: 100 tempat dijelasin lengkap!
+Pas traveling ke Seminyak, jangan lupa lihat >>[Peta Panduan Wisata Seminyak](/id/blog/seminyak-guide/) kami: 100 tempat dijelasin lengkap!
 
 ![水明漾有一種高級的氛圍](https://images.gobaligo.id/vocus/vocus_e236bcb399e2d79bf7b0b77f24166b71.png)
 
@@ -73,10 +73,10 @@ Seminyak punya vibe yang mewah banget.
 
 Mau nginep di Seminyak? Cek juga rekomendasi akomodasi rating tinggi dari kami:
 
-- [10 Rekomendasi Penginapan Murah di Seminyak, Area Premium Bali](/blog/seminyak-budget-hotels-guide/)
-- [Panduan Menginap Tematik Tepi Pantai di Seminyak](/blog/seminyak-beach-resorts-guide/)
-- [18 Villa Bali yang Bikin Takjub di Seminyak](/blog/seminyak-private-villas-guide/)
-- [Rekomendasi Villa Bali Murah di Seminyak, Nggak Sampai USD$100](/blog/seminyak-budget-villas-guide/)
+- [10 Rekomendasi Penginapan Murah di Seminyak, Area Premium Bali](/id/blog/seminyak-budget-hotels-guide/)
+- [Panduan Menginap Tematik Tepi Pantai di Seminyak](/id/blog/seminyak-beach-resorts-guide/)
+- [18 Villa Bali yang Bikin Takjub di Seminyak](/id/blog/seminyak-private-villas-guide/)
+- [Rekomendasi Villa Bali Murah di Seminyak, Nggak Sampai USD$100](/id/blog/seminyak-budget-villas-guide/)
 
 ## Canggu
 
@@ -88,8 +88,8 @@ Meskipun bukan destinasi wisata mainstream, gaya unik Canggu berhasil menarik wi
 
 {{block:canggu}}
 
-- [Top 12 Penginapan di Canggu yang Wajib Kamu Coba](/blog/canggu-top-hotels-guide/)
-- [16 Villa dengan Kolam Renang Pribadi di Canggu — Villa Bali yang Gak Boleh Dilewatkan](/blog/canggu-villas-guide/)
+- [Top 12 Penginapan di Canggu yang Wajib Kamu Coba](/id/blog/canggu-top-hotels-guide/)
+- [16 Villa dengan Kolam Renang Pribadi di Canggu — Villa Bali yang Gak Boleh Dilewatkan](/id/blog/canggu-villas-guide/)
 
 ## Ubud
 
@@ -103,14 +103,14 @@ Ubud wajib banget dikunjungi setiap kali ke Bali.
 
 Mau lihat seperti apa Ubud? >>[Cek video pengenalan Xiaojie](https://youtu.be/uFv_4Wr6YsI?si=JqgwwyGqWFL2BQgD&t=488)
 
-Ubud susah dijelasin cuma dengan beberapa kata. Kalau mau kenal lebih dalam, cek panduan lengkap kami >>[100 Cara Mengenal Ubud](/blog/ubud-guide/). Yang bawa anak-anak, lihat: [Panduan Aktivitas Keluarga di Ubud: 55 Kegiatan Seru Biar Liburan Bareng Anak Makin Santai!](/blog/ubud-with-kids-guide/)
+Ubud susah dijelasin cuma dengan beberapa kata. Kalau mau kenal lebih dalam, cek panduan lengkap kami >>[100 Cara Mengenal Ubud](/id/blog/ubud-guide/). Yang bawa anak-anak, lihat: [Panduan Aktivitas Keluarga di Ubud: 55 Kegiatan Seru Biar Liburan Bareng Anak Makin Santai!](/id/blog/ubud-with-kids-guide/)
 
 Di Ubud juga banyak pilihan akomodasi — dari villa di tengah hutan, resor bintang lima, sampai hostel dan homestay ekonomis, cocok buat semua selera. Mau kamu suka pusat kota atau pemandangan pedesaan, Ubud punya tempat menginap yang pas biar kamu nyaman eksplorasi. Cek:
 
-- [【Rekomendasi Penginapan Ubud】28 Akomodasi Unik di Ubud, Nikmati Keindahan Hutan Bali dalam Petualangan Fantastis!](/blog/ubud-villas-pool-guide/)
-- [Jelajahi 10 Villa Pohon/Bambu yang Bikin Tercengang di Ubud (tree house/bamboo villa)](/blog/ubud-treehouse-bamboo-villa-stays/)
-- [【Rekomendasi Penginapan Ubud】Surga Privat Villa Kolam Renang di Ubud: 18 Villa Bali yang Bikin Tercengang](/blog/ubud-villa-pool-guide/)
-- [Rekomendasi Penginapan Yoga di Ubud: 10 Pilihan Impian yang Gabungin Kelas Yoga dan Relaksasi Jiwa](/blog/ubud-yoga-retreats-bali/)
+- [【Rekomendasi Penginapan Ubud】28 Akomodasi Unik di Ubud, Nikmati Keindahan Hutan Bali dalam Petualangan Fantastis!](/id/blog/ubud-villas-pool-guide/)
+- [Jelajahi 10 Villa Pohon/Bambu yang Bikin Tercengang di Ubud (tree house/bamboo villa)](/id/blog/ubud-treehouse-bamboo-villa-stays/)
+- [【Rekomendasi Penginapan Ubud】Surga Privat Villa Kolam Renang di Ubud: 18 Villa Bali yang Bikin Tercengang](/id/blog/ubud-villa-pool-guide/)
+- [Rekomendasi Penginapan Yoga di Ubud: 10 Pilihan Impian yang Gabungin Kelas Yoga dan Relaksasi Jiwa](/id/blog/ubud-yoga-retreats-bali/)
 
 ![Ubud](https://images.gobaligo.id/vocus/vocus_c0a56c56099cc0fe60cba864bdf58052.png)
 
@@ -124,4 +124,4 @@ Di Ubud juga banyak pilihan akomodasi — dari villa di tengah hutan, resor bint
 
 👈 **Kembali ke Panduan Lengkap Trip ke Bali**
 
-Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.
+Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.

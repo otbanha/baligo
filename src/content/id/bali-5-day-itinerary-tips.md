@@ -46,11 +46,11 @@ Perjalanan ke Bali kali ini cuma 5 hari 4 malam, tapi jujur, setelah dikurangi w
 11. Adaptor charger: Jangan lupa bawa adaptor charger, atau tanya hotel dulu apakah bisa pinjam.
 12. Pajak tambahan: Beberapa restoran dan tempat pijat bisa kena pajak tambahan, dan kalau pakai kartu kredit mungkin kena biaya tambahan 3%.
 
-> [Wajib Baca: Panduan Lengkap Voltage dan Stopkontak di Bali!](/blog/bali-voltage-adapter-tips/)
+> [Wajib Baca: Panduan Lengkap Voltage dan Stopkontak di Bali!](/id/blog/bali-voltage-adapter-tips/)
 
-> [Liburan ke Bali, perlu kasih tip nggak? Gimana cara kasih tip? Berapa tip di berbagai situasi di Bali?](/blog/bali-tipping-guide-driver-spa/)
+> [Liburan ke Bali, perlu kasih tip nggak? Gimana cara kasih tip? Berapa tip di berbagai situasi di Bali?](/id/blog/bali-tipping-guide-driver-spa/)
 
-> [【Ringkasan】Kumpulan Rekomendasi SPA Terbaik di Bali, Dibagi Berdasarkan Area Biar Lebih Gampang Dicari](/blog/spa/)
+> [【Ringkasan】Kumpulan Rekomendasi SPA Terbaik di Bali, Dibagi Berdasarkan Area Biar Lebih Gampang Dicari](/id/blog/spa/)
 
 ## Rencana Perjalanan
 
@@ -60,7 +60,7 @@ Perjalanan ke Bali kali ini cuma 5 hari 4 malam, tapi jujur, setelah dikurangi w
 
 - Begitu sampai di Bali, hal pertama yang harus dilakukan adalah menukar uang ke Rupiah biar lebih gampang buat belanja nanti.
 
-> [Panduan Lengkap Tukar Uang di Bali: Pakai uang apa? Cara tukar paling untung? Di mana tempat terbaik?](/blog/bali-currency-exchange-guide/)
+> [Panduan Lengkap Tukar Uang di Bali: Pakai uang apa? Cara tukar paling untung? Di mana tempat terbaik?](/id/blog/bali-currency-exchange-guide/)
 
 **2. Check-in Hotel di Ubud**
 
@@ -127,7 +127,7 @@ Catatan redaksi: Petualangan ATV di Ubud biasanya lewati hutan tropis, sungai, t
 
 Ada juga paket 'ATV Volcano Adventure', di mana kamu akan melintasi hutan lebat, mendaki lereng berbatu lava hitam, dan menaklukkan medan off-road yang menantang. Guide akan temani kamu melewati medan yang selalu berubah ini, bikin kamu puas merasakan sensasi dan keseruan ATV.
 
-Referensi: [Petualangan ATV Bali: Rasakan Sensasi dan Kebebasan di Surga Tropis (Tips + FAQ + Rekomendasi Operator)](/blog/bali-atv-adventure-guide/)
+Referensi: [Petualangan ATV Bali: Rasakan Sensasi dan Kebebasan di Surga Tropis (Tips + FAQ + Rekomendasi Operator)](/id/blog/bali-atv-adventure-guide/)
 
 > [Tiket Promo Petualangan ATV Ubud](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F6595-atv-quad-bike-adventure-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D937776272b)
 
@@ -144,7 +144,7 @@ Referensi: [Petualangan ATV Bali: Rasakan Sensasi dan Kebebasan di Surga Tropis 
 
 Catatan redaksi: Buat para petualang yang suka tantangan, ikut arung jeram (rafting) adalah pilihan yang super menarik. Sungai-sungai di sekitar Ubud berkelok-kelok, melewati lembah biru dan hutan, kasih petualangan baru buat pecinta petualangan. Dalam petualangan ini, kamu bakal melewati pemandangan yang asyik, nemuin jeram dan aliran tenang di sepanjang jalan, bikin kamu bisa ngerasain sensasi seru dan rileks bareng. Ini bukan cuma petualangan, tapi juga kesempatan buat deket sama alam, bikin kamu ngerasain energi penuh dari air, pohon, dan tanah.
 
-Referensi: [【FAQ Arung Jeram Bali】Gak bisa renang juga bisa? Batasan umur, tips aman & Ayung vs Telaga Waja Lengkap](/blog/bali-rafting-ayung-telaga-waja/)
+Referensi: [【FAQ Arung Jeram Bali】Gak bisa renang juga bisa? Batasan umur, tips aman & Ayung vs Telaga Waja Lengkap](/id/blog/bali-rafting-ayung-telaga-waja/)
 
 > [Ayung River Rafting](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)
 
@@ -161,7 +161,7 @@ Referensi: [【FAQ Arung Jeram Bali】Gak bisa renang juga bisa? Batasan umur, t
 
 Catatan redaksi: Di Ubud, bahkan main ayunan aja bisa jadi pengalaman eksotis. Di beberapa tempat khusus di Ubud, kamu bakal nemuin berbagai ayunan unik dan didesain dengan apik, tergantung di antara pepohonan atau menghadap pemandangan lembah yang memukau. Ayunan bukan cuma cara buat bersenang-senang, tapi juga cara yang oke buat nikmatin keindahan Ubud dengan tenang. Ayun sepuasnya, biar hati bergoyang sama angin sepoi-sepoi, rasain rasa santai dan nyaman.
 
-[【Ubud Ayunan Guide】8 Rekomendasi Ayunan Hutan Terindah: Tips Sewa Gaun, Angle Foto & Panduan Hindari Keramaian](/blog/ubud-jungle-swings-photo-guide/)
+[【Ubud Ayunan Guide】8 Rekomendasi Ayunan Hutan Terindah: Tips Sewa Gaun, Angle Foto & Panduan Hindari Keramaian](/id/blog/ubud-jungle-swings-photo-guide/)
 
 **5. Makan Malam**
 
@@ -253,7 +253,7 @@ Catatan redaksi: Yang perlu kamu perhatikan, aktivitas air di Tanjung Benoa (南
 
 - Keunggulan: Ada dua tebing pemandangan yang perlu beli tiket masuk, cocok banget buat foto-foto. Sepanjang jalan juga ada pemandangan, tapi karena waktu kita mepet, kita nggak berlama-lama.
 
-Referensi: [Panduan Wisata Tebing Jalan Batu Barak Bali: Biaya Masuk, Analisis Kondisi Jalan, & Rencana Perjalanan Sehari di Ujung Selatan Uluwatu](/blog/batu-barak-cliff-road/)
+Referensi: [Panduan Wisata Tebing Jalan Batu Barak Bali: Biaya Masuk, Analisis Kondisi Jalan, & Rencana Perjalanan Sehari di Ujung Selatan Uluwatu](/id/blog/batu-barak-cliff-road/)
 
 **5. Sunset Jimbaran**
 
@@ -264,9 +264,9 @@ Referensi: [Panduan Wisata Tebing Jalan Batu Barak Bali: Biaya Masuk, Analisis K
 - Highlight: bisa pilih naik kuda atau unta pas sunset, seru banget buat nikmatin keindahan Jimbaran yang beda dari biasanya.
 - Udah cek di internet, banyak banget pose sunset yang bisa bikin kenangan keren.
 
-> [【Panduan Waktu Terbaik Menikmati Sunset di Bali】7 Spot Sunset di Bali, Udah Berapa yang Kamu Kunjungi?](/blog/bali-sunset-spots-guide/)
+> [【Panduan Waktu Terbaik Menikmati Sunset di Bali】7 Spot Sunset di Bali, Udah Berapa yang Kamu Kunjungi?](/id/blog/bali-sunset-spots-guide/)
 
-> [11 Restoran Seafood di Jimbaran, Bali: Rekomendasi Anti Gagal](/blog/jimbaran-seafood-restaurants-list/)
+> [11 Restoran Seafood di Jimbaran, Bali: Rekomendasi Anti Gagal](/id/blog/jimbaran-seafood-restaurants-list/)
 
 **6. Pijat**
 
@@ -296,7 +296,7 @@ Pesan [Naughty Nuri's Warung美食體驗](https://affiliate.klook.com/redirect?a
 
 - Belanja: Mending riset dulu mau beli apa, biar nggak pusing pas lihat banyak pilihan. Mampir ke toko oleh-oleh lokal, pilih beberapa barang khas buat dibawa pulang
 
-> [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Ide Oleh-Oleh Bali: Pilihan Terbaik buat Bawa Pulang Kenangan Berharga](/blog/bali-souvenirs-gift-guide/)
+> [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Ide Oleh-Oleh Bali: Pilihan Terbaik buat Bawa Pulang Kenangan Berharga](/id/blog/bali-souvenirs-gift-guide/)
 
 **3. Aktivitas di Kuta**
 

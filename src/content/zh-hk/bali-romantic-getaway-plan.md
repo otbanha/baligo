@@ -38,7 +38,7 @@ _srcHash: 6e60d83369f1669842de6b2acf64bdea
 1. **All Indonesia入境卡（含海關申報單 e-CD 與健康聲明表 SSHP）**
 2. **觀光稅繳費憑證（Tourist Levy）**
 
-以上四個流程都係**可以線上完成嘅電子文件**，處理起嚟其實唔難，只要提前準備好護照影本、航班資訊同付款方式就得喇。完成後嘅 QR Code 建議截圖保存到手機相簿，入境時直接出示掃碼會快好多。詳細嘅流程可以睇呢邊：[2026峇里島入境變革一分鐘搞懂：印尼/峇里島入境流程 - 落飛機/過海關/到拎行李嘅流程](/blog/bali-all-indonesia-arrival-guide/)
+以上四個流程都係**可以線上完成嘅電子文件**，處理起嚟其實唔難，只要提前準備好護照影本、航班資訊同付款方式就得喇。完成後嘅 QR Code 建議截圖保存到手機相簿，入境時直接出示掃碼會快好多。詳細嘅流程可以睇呢邊：[2026峇里島入境變革一分鐘搞懂：印尼/峇里島入境流程 - 落飛機/過海關/到拎行李嘅流程](/zh-hk/blog/bali-all-indonesia-arrival-guide/)
 
 跟住，就要開始我哋嘅峇里島二人行啦～🌴
 
@@ -62,7 +62,7 @@ https://youtu.be/lbDfKut2J7M
 
 我哋入住嘅係海景房，一晚大約 USD$400，雖然已經好唔錯，但係呢度要俾個小建議：**AYANA 酒店園區好大**，如果揀比較平嘅房型，可能會住到比較偏遠嘅區域，行去主要設施會行到腳軟。建議可以加多少少預算，揀近主設施區嘅房型，體驗會更加好！
 
-延伸閱讀：[【峇里島阿雅那】Ayana Bali 住宿懶人包》Ayana Segara, RIMBA, Ayana Resort..](/blog/ayana-resort-bali-guide/)
+延伸閱讀：[【峇里島阿雅那】Ayana Bali 住宿懶人包》Ayana Segara, RIMBA, Ayana Resort..](/zh-hk/blog/ayana-resort-bali-guide/)
 
 ## 📸 **第二日：早起衝著名 H2O 泳池影靚相！**
 
@@ -74,7 +74,7 @@ https://youtu.be/lbDfKut2J7M
 
 我哋影咗一輪又一輪，就係為咗捉住嗰幾個陽光角度最靚嘅瞬間（笑）。早起真係值得！
 
-快速參考：[【來峇里島網美必拍】Ayana渡假村六個絕美泳池](/blog/ayana-resort-pools-photo/)
+快速參考：[【來峇里島網美必拍】Ayana渡假村六個絕美泳池](/zh-hk/blog/ayana-resort-pools-photo/)
 
 ### 🍽 **早餐食到飽，午餐直接慳返**
 
@@ -110,7 +110,7 @@ https://youtu.be/lbDfKut2J7M
 
 ![The Cave 洞穴餐廳，一生必試嘅夢幻晚餐](https://images.gobaligo.id/vocus/vocus_a41f7059b9d933b43ebc4cfd56684828.png)
 
-[探索Oneeighty Day Club：峇里島懸崖邊嘅泳池極致美景](/blog/oneeighty-dayclub-uluwatu-pool/)
+[探索Oneeighty Day Club：峇里島懸崖邊嘅泳池極致美景](/zh-hk/blog/oneeighty-dayclub-uluwatu-pool/)
 
 ## ☕️ **第三日：前進高地咖啡廳，烏布入住浪漫叢林 Villa**
 
@@ -156,7 +156,7 @@ https://youtu.be/63mZAiTt3aE
 
 如果預算有限、但又想住到有質感又地點便利嘅 Villa，呢間真係可以筆記低✅。
 
-▶The Claremont Luxury Villas 周邊、設施、客房等詳細介紹請睇[呢度](/blog/2024-04-04-660e6e92fd89780001e6047e/)
+▶The Claremont Luxury Villas 周邊、設施、客房等詳細介紹請睇[呢度](/zh-hk/blog/2024-04-04-660e6e92fd89780001e6047e/)
 
 {{block:smk}}
 
@@ -210,7 +210,7 @@ https://youtu.be/MpetWBEQ2Ts
 
 峇里島有超過 75% 嘅人口從事服務業，適度畀小費係一種禮貌同支持。但都遇過一啲人會用言語 PUA 或者擺出理所當然嘅態度索取，呢種情況下，**真係唔需要勉強自己畀小費**，保持界線同自我尊重更重要。
 
-快速參考：[峇里島旅遊要畀小費嗎？小費點畀？峇里島各種場合嘅小費要畀幾多？](/blog/bali-tipping-guide-driver-spa/)
+快速參考：[峇里島旅遊要畀小費嗎？小費點畀？峇里島各種場合嘅小費要畀幾多？](/zh-hk/blog/bali-tipping-guide-driver-spa/)
 
 ### 🐰 **5. Gold Rabbit 咖啡工廠？請自己 Google 再決定去唔去！**
 

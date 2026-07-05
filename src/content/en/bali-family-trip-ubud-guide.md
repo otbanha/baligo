@@ -30,9 +30,9 @@ _srcHash: eb207256594cb25fb0b6c00719fa29c6
 
 For the first two days in Bali, we stayed at the newly opened "Aloft Kuta" (April 2022) located within "Beachwalk Shopping Center". This Marriott-owned hotel offers a youthful brand with simple yet comfortable design at affordable prices while maintaining Marriott's quality standards. The friendly service and modern facilities made our stay truly enjoyable! The twin-bed room perfectly accommodated our family of four - two adults and two children.
 
-Click here to learn more: [Aloft Kuta Accommodation & Beachwalk Shopping Center Guide](/blog/bali-family-trip-aloft-kuta/)
+Click here to learn more: [Aloft Kuta Accommodation & Beachwalk Shopping Center Guide](/en/blog/bali-family-trip-aloft-kuta/)
 
-Our second day itinerary included: [GWK Cultural Park, Uluwatu Free Beach Club, Uluwatu Temple, and Uluwatu Kecak Dance](/blog/bali-family-trip-aloft-kuta/)
+Our second day itinerary included: [GWK Cultural Park, Uluwatu Free Beach Club, Uluwatu Temple, and Uluwatu Kecak Dance](/en/blog/bali-family-trip-aloft-kuta/)
 
 ![Prologue](https://images.gobaligo.id/vocus/vocus_140e60d5b6dd4a29ce14048ecda7379c.jpg)
 
@@ -441,7 +441,7 @@ During our stay, we chose the "Antique 907" room type. The relaxation pavilion f
 - **On-site communication**: Communicating with hotel staff via messaging apps is more efficient for accommodation needs.
 - **No deposit required**: Catering to international travelers, payment can be made upon check-in.
 
-▶**Madani Antique Villas featured in**[**22 Amazing Ubud Villas**](/blog/ubud-villa-pool-guide/)
+▶**Madani Antique Villas featured in**[**22 Amazing Ubud Villas**](/en/blog/ubud-villa-pool-guide/)
 
 ***
 
@@ -750,7 +750,7 @@ Kintamani is not only famous for its stunning volcanic scenery but has also seen
 
 📍 **Other Recommended Cafes**
 
-- [Top 13 Scenic Cafes in Kintamani, Bali](/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
+- [Top 13 Scenic Cafes in Kintamani, Bali](/en/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
 
 Whether it’s the sunrise trek or a visit to a scenic cafe, Mount Batur in Kintamani offers unforgettable views and experiences. The pristine and majestic natural scenery, the thrill of a jeep adventure, the grandeur of the sunrise and lava, paired with the comfort of a cup of coffee, create a must-have memory of Bali 🌋☀️.
 
@@ -849,7 +849,7 @@ If you're also yearning for an intimate encounter with the jungle, don't hesitat
 
 ![Day 6 Accommodation Recommendation: Sebatu Sanctuary Eco-res](https://images.gobaligo.id/vocus/vocus_b80d9684405aba0db01f6d3e125e98b5.jpg)
 
-▶[**Check out 9 other breathtaking bamboo villas**](/blog/ubud-treehouse-bamboo-villa-stays/)
+▶[**Check out 9 other breathtaking bamboo villas**](/en/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ***
 
@@ -871,7 +871,7 @@ If you're also yearning for an intimate encounter with the jungle, don't hesitat
 
 💡 Tip: Staying overnight is more cost-effective than buying single tickets and offers a more complete experience!
 
-👉 Click to learn more about [our experience staying in the zoo and accommodation details](/blog/bali-safari-night-stay/)!
+👉 Click to learn more about [our experience staying in the zoo and accommodation details](/en/blog/bali-safari-night-stay/)!
 
 ***
 
@@ -906,7 +906,7 @@ If you're traveling in Bali, I highly recommend using Gede's private car service
 - WhatsApp: +62 8786 2004 094
 - Phone: +62 81237 811 841
 
-If you're looking for a reliable and thoughtful driver, Gede is absolutely the best choice! You can find a more detailed introduction to this driver [here](/blog/bali-private-driver-recommendation/).
+If you're looking for a reliable and thoughtful driver, Gede is absolutely the best choice! You can find a more detailed introduction to this driver [here](/en/blog/bali-private-driver-recommendation/).
 
 PS Indonesia is a tipping country - please don't hesitate to tip generously, because Gede deserves it! (10% of total car hire cost is basic, 20%-30% - Gede and I thank you)
 
@@ -918,10 +918,10 @@ As we concluded this family trip to Bali, we gained not just beautiful scenery a
 
 ### Full travelogue:
 
-- [**Day 1: Staying in a Shopping Mall! Family Accommodation for Two Adults and Two Kids**](/blog/bali-family-trip-aloft-kuta/)
-- [**Day 2: GWK Cultural Park, Free Beach Club at Uluwatu, Uluwatu Temple, Uluwatu Kecak Fire Dance**](/blog/bali-family-trip-gwk-beach-club/)
+- [**Day 1: Staying in a Shopping Mall! Family Accommodation for Two Adults and Two Kids**](/en/blog/bali-family-trip-aloft-kuta/)
+- [**Day 2: GWK Cultural Park, Free Beach Club at Uluwatu, Uluwatu Temple, Uluwatu Kecak Fire Dance**](/en/blog/bali-family-trip-gwk-beach-club/)
 - **Day 3-7: Five Days in Ubud: Food, Attractions, Accommodation, and Volcano Exploration Recommendations**
-- [**Day 8: How to Enjoy Bali Safari and Night Stay Guide**](/blog/bali-safari-night-stay/)
+- [**Day 8: How to Enjoy Bali Safari and Night Stay Guide**](/en/blog/bali-safari-night-stay/)
 
 ***
 
@@ -931,7 +931,7 @@ Do you find the itinerary from [Let's Play and Eat Ho Chi Minh City](https://www
 
 Click here to explore more amazing Bali travel stories
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
 
 {{block:ubud}}
 

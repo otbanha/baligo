@@ -83,7 +83,7 @@ Di Bali, naik motor wajib punya SIM internasional, kalau nggak bisa kena tilang 
 
 ### 4. Biaya medis mahal banget 💰
 
-Menurut cerita pemilik [Mr. Lobster](/blog/mr-lobster-seafood-restaurant-bali/), restoran seafood di Bali, dia sering ketemu turis yang cedera karena kecelakaan motor. Karena susah gerak, mereka nggak bisa ikut aktivitas lain, cuma bisa istirahat dan makan di restorannya. Yang perlu diwaspadai juga, biaya medis di Bali super mahal. Kalau sampai cedera, pengeluaran medis bisa bikin budget liburan membengkak dan bikin liburan jadi nggak seru. (Pengalaman pribadi: waktu itu teman saya patah pergelangan kaki, cuma dibalut dan diperban, biayanya 12.000.000, kira-kira setara NT$24.000 / USD$800)
+Menurut cerita pemilik [Mr. Lobster](/id/blog/mr-lobster-seafood-restaurant-bali/), restoran seafood di Bali, dia sering ketemu turis yang cedera karena kecelakaan motor. Karena susah gerak, mereka nggak bisa ikut aktivitas lain, cuma bisa istirahat dan makan di restorannya. Yang perlu diwaspadai juga, biaya medis di Bali super mahal. Kalau sampai cedera, pengeluaran medis bisa bikin budget liburan membengkak dan bikin liburan jadi nggak seru. (Pengalaman pribadi: waktu itu teman saya patah pergelangan kaki, cuma dibalut dan diperban, biayanya 12.000.000, kira-kira setara NT$24.000 / USD$800)
 
 ### 5. Kondisi jalan dan faktor alam 🌧️
 
@@ -93,9 +93,9 @@ Kondisi jalan di Bali nggak stabil, apalagi di Ubud atau daerah pedesaan. Jalamn
 
 Sebenernya Bali punya banyak pilihan transportasi yang terjangkau, kayak sewa mobil dengan sopir, ojek online, atau taksi online. Dibandingkan motor, transportasi ini lebih aman dan praktis. Buat turis yang nggak familiar dengan lalu lintas lokal, ini pilihan yang lebih bijak.
 
-> Baca juga: [Panduan Lengkap Sewa Mobil Pribadi di Bali - Biaya, Cara Pesan, Kelebihan](/blog/bali-private-car-hire-guide/)
+> Baca juga: [Panduan Lengkap Sewa Mobil Pribadi di Bali - Biaya, Cara Pesan, Kelebihan](/id/blog/bali-private-car-hire-guide/)
 
-> Baca juga: [Panggil ojek lewat aplikasi, cara hemat waktu dan tenaga!](/blog/bali-travel-app-motorcycle-taxi/)
+> Baca juga: [Panggil ojek lewat aplikasi, cara hemat waktu dan tenaga!](/id/blog/bali-travel-app-motorcycle-taxi/)
 
 ![6. Alternatif lain yang lebih hemat](https://images.gobaligo.id/vocus/vocus_49791dac6020e950bda56dde7ee4e7f5.jpg)
 
@@ -196,4 +196,4 @@ Inget, **keselamatan nomor satu**! Ini bukan buat nakutin kamu, tapi buat nginge
 
 👈 **Kembali ke Panduan Lengkap Trip ke Bali**
 
-Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.
+Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.

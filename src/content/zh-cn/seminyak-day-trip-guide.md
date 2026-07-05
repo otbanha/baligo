@@ -46,7 +46,7 @@ _srcHash: 33874c0a0d1e6c9073b34ab21fbef40d
 
 没有什么比租摩托车探险更好的了；发现人少的海滩，探索隐秘的小巷，钻进凉爽的咖啡馆和庄严的寺庙。从水明漾，你可以轻松到达以北的坎古和或往南部一点去库塔、雷吉安探险。
 
-但是租摩托车有其危险和很大的不确定性（参考[这里](/blog/bali-motorbike-safety-guide/)），在尝试之前要有「交通状况不是你想像的那样」、「发生意外受伤巨额医疗费」、「被警察拦检有理说不清」的心理准备！所幸拜科技所赐，现在在巴厘岛进行短途出行，使用叫车App无疑更佳的选择！通过这些应用，你可以轻松叫到摩托车，不仅省时省力，还能避免繁忙的交通和找车位的烦恼。只需几步点击，就能即时预约到附近的摩托车司机，让你快速到达目的地，享受更多旅游乐趣。无论是探索隐秘的小巷，还是前往热闹的购物区，叫车App都能让你的巴厘岛之行变得更加便捷愉快。请参考「[叫车App叫摩托车，省时省力！](/blog/bali-travel-app-motorcycle-taxi/)」
+但是租摩托车有其危险和很大的不确定性（参考[这里](/zh-cn/blog/bali-motorbike-safety-guide/)），在尝试之前要有「交通状况不是你想像的那样」、「发生意外受伤巨额医疗费」、「被警察拦检有理说不清」的心理准备！所幸拜科技所赐，现在在巴厘岛进行短途出行，使用叫车App无疑更佳的选择！通过这些应用，你可以轻松叫到摩托车，不仅省时省力，还能避免繁忙的交通和找车位的烦恼。只需几步点击，就能即时预约到附近的摩托车司机，让你快速到达目的地，享受更多旅游乐趣。无论是探索隐秘的小巷，还是前往热闹的购物区，叫车App都能让你的巴厘岛之行变得更加便捷愉快。请参考「[叫车App叫摩托车，省时省力！](/zh-cn/blog/bali-travel-app-motorcycle-taxi/)」
 
 ## 拜访寺庙
 
@@ -103,7 +103,7 @@ https://youtube.com/shorts/wai2lSW3vVU
 - [Kudeta沙发床预约](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1004610&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F135291-kudeta-beach-club-in-seminyak-bali%2F)
 - [SugarSand泳池餐厅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1004610&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F61915-sugarsand-bali%2F)
 
-> 延伸阅读：[巴厘岛20个免费入场的海滩俱乐部 享受比基尼、音乐、泳池、夕阳美景](/blog/bali-beach-clubs-free-entry-list/)
+> 延伸阅读：[巴厘岛20个免费入场的海滩俱乐部 享受比基尼、音乐、泳池、夕阳美景](/zh-cn/blog/bali-beach-clubs-free-entry-list/)
 
 ## 享用美味猪肋排
 
@@ -133,7 +133,7 @@ https://youtu.be/RodQvCZKwD0
 
 ## 想找更多好玩的？
 
-完整的水明漾景点、美食、夜店的介绍收集在这里：[水明漾景点Seminyak巴厘岛必去地点地图：100个吃喝玩乐全面介绍](/blog/seminyak-guide/)
+完整的水明漾景点、美食、夜店的介绍收集在这里：[水明漾景点Seminyak巴厘岛必去地点地图：100个吃喝玩乐全面介绍](/zh-cn/blog/seminyak-guide/)
 
 {{block:攻略}}
 
@@ -141,4 +141,4 @@ https://youtu.be/RodQvCZKwD0
 
 👈 **回到巴厘岛自由行终极指南**
 
-想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/zh-cn/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

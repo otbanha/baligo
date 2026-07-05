@@ -61,7 +61,7 @@ Area pantai di Canggu punya banyak restoran kece, apalagi pas matahari mau tengg
 
 ![Seru-seruan di Beach Club (Peta: Tempat Wajib Dikunjungi di ](https://images.gobaligo.id/vocus/vocus_3a943928e41a400088025840e732cf37.jpg)
 
-Canggu terkenal sama beach club-nya yang kekinian dan modern. Tempat-tempat ini gabungin musik, makanan enak, dan kolam renang jadi satu, bikin suasana yang nggak bakal kamu lupain. Atlas Beach Fest, Finns Beach Club, Cafe del Mar, dan [La Brisa yang katanya restoran tercantik di Bali](/blog/canggu-la-brisa-restaurant-guide/) adalah spot yang pas buat nikmatin minuman, lihat sunset, sambil ikut berbagai aktivitas seru.
+Canggu terkenal sama beach club-nya yang kekinian dan modern. Tempat-tempat ini gabungin musik, makanan enak, dan kolam renang jadi satu, bikin suasana yang nggak bakal kamu lupain. Atlas Beach Fest, Finns Beach Club, Cafe del Mar, dan [La Brisa yang katanya restoran tercantik di Bali](/id/blog/canggu-la-brisa-restaurant-guide/) adalah spot yang pas buat nikmatin minuman, lihat sunset, sambil ikut berbagai aktivitas seru.
 
 > Atlas Beach Fest, beach club terbesar se-Asia, [tiket masuk diskon](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80472-atlas-beach-club-admission-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad7b2e5830)
 
@@ -155,7 +155,7 @@ Makan enak di Canggu bukan cuma soal lidah, tapi juga pesta budaya dan seni. Beb
 
 ![Kunjungi Pura Tanah Lot（Peta: Tempat Wajib Dikunjungi di Can](https://images.gobaligo.id/vocus/vocus_27727cc971e3c80e5832f4bb4398567c.jpg)
 
-Tidak jauh dari utara Canggu, ada tempat kuno dan sakral yang wajib kamu kunjungi, yaitu Pura Tanah Lot. Pura ini dibangun di atas batu karang raksasa di tepi pantai, dan merupakan salah satu pura tepi laut paling terkenal di Bali. Saat matahari terbenam, pemandangan pura ini super spektakuler—sinar keemasan matahari menyinari pura, menciptakan pemandangan yang luar biasa. Selain menikmati keindahan, kamu juga bisa merasakan kedalaman budaya religius lokal. Ini benar-benar perjalanan yang penuh spiritualitas dan sejarah. Info lengkap tentang Pura Tanah Lot dan pantangan saat berkunjung [bisa lihat di sini](/blog/bali-tanah-lot-guide/).
+Tidak jauh dari utara Canggu, ada tempat kuno dan sakral yang wajib kamu kunjungi, yaitu Pura Tanah Lot. Pura ini dibangun di atas batu karang raksasa di tepi pantai, dan merupakan salah satu pura tepi laut paling terkenal di Bali. Saat matahari terbenam, pemandangan pura ini super spektakuler—sinar keemasan matahari menyinari pura, menciptakan pemandangan yang luar biasa. Selain menikmati keindahan, kamu juga bisa merasakan kedalaman budaya religius lokal. Ini benar-benar perjalanan yang penuh spiritualitas dan sejarah. Info lengkap tentang Pura Tanah Lot dan pantangan saat berkunjung [bisa lihat di sini](/id/blog/bali-tanah-lot-guide/).
 
 > [Tur Pura Tanah Lot dengan Antar-Jemput](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772665&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F152-tanah-lot-sunset-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D25157e7304)
 
@@ -219,13 +219,13 @@ Di peta 'Canggu Guide Map' di bawah ini ada lebih dari 30 rekomendasi tempat mak
 
 ### Mr. Lobster Canggu
 
-Restoran seafood harga terjangkau yang dikelola orang Taiwan. Masakannya segar dan berkualitas, lagi hits banget, sering ada promo spesial buat member grup. Wajib coba buat pecinta seafood! Ada [info kontak](/blog/mr-lobster-seafood-restaurant-bali/) sama alamatnya, saran reservasi dulu sama Pak Xu ya!
+Restoran seafood harga terjangkau yang dikelola orang Taiwan. Masakannya segar dan berkualitas, lagi hits banget, sering ada promo spesial buat member grup. Wajib coba buat pecinta seafood! Ada [info kontak](/id/blog/mr-lobster-seafood-restaurant-bali/) sama alamatnya, saran reservasi dulu sama Pak Xu ya!
 
 ### **Nikmati Kuliner Lokal yang Lezat dan Terjangkau**
 
 ![Nikmati Kuliner Lokal yang Lezat dan Terjangkau](https://images.gobaligo.id/vocus/vocus_47ffeccd5dfebdb63eca42f57f2f7695.jpg)
 
-Ke Bali, wajib cobain makanan lokal dong! Penasaran apa aja? Cek rekomendasi Jie soal "[10 Makanan Khas Bali](/blog/bali-travel-tips/)", dijamin petualangan kuliner yang seru!
+Ke Bali, wajib cobain makanan lokal dong! Penasaran apa aja? Cek rekomendasi Jie soal "[10 Makanan Khas Bali](/id/blog/bali-travel-tips/)", dijamin petualangan kuliner yang seru!
 
 ## The Wheel (Ferris Wheel) **— (👉🏼Map: **[Tempat Wajib Kunjung di Canggu](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**)**
 
@@ -263,7 +263,7 @@ Bali itu surganya SPA, dan daerah Canggu juga punya banyak tempat SPA berkualita
 
 ![1.Mookiland Park Bali](https://images.gobaligo.id/vocus/vocus_90b45ff0d624893de0fb9692de75864d.jpg)
 
-Mookiland Park adalah taman bermain yang didesain khusus untuk keluarga, dengan luas 5.000 meter persegi. Mookiland Park punya berbagai macam wahana seru, mulai dari dinding panjat, lintasan rintangan, sampai istana tiup — setiap anak pasti nemu mainan yang cocok buat mereka. Wahana-wahana ini nggak cuma bikin anak-anak capek happy, tapi juga bikin mereka senang sepuasnya. Info lengkap dan tiket diskon [cek di sini](/blog/mookiland-park-bali-family/).
+Mookiland Park adalah taman bermain yang didesain khusus untuk keluarga, dengan luas 5.000 meter persegi. Mookiland Park punya berbagai macam wahana seru, mulai dari dinding panjat, lintasan rintangan, sampai istana tiup — setiap anak pasti nemu mainan yang cocok buat mereka. Wahana-wahana ini nggak cuma bikin anak-anak capek happy, tapi juga bikin mereka senang sepuasnya. Info lengkap dan tiket diskon [cek di sini](/id/blog/mookiland-park-bali-family/).
 
 ### 2.Mai Main Playground
 
@@ -295,13 +295,13 @@ Destinasi baru di Canggu, Bali — **Aurora Media Park Bali**, adalah landmark k
 
 Aurora Park bukan cuma tempat wisata malam, tapi juga ruang imersif yang menggabungkan seni, alam, dan teknologi. Cocok banget buat kamu yang suka eksplorasi dan petualangan. Dari lampu bambu berpendar, jam matahari spiral, sampai interaksi magis di Crystal Oasis — semuanya bikin betah berlama-lama.
 
-Info lengkapnya cek di [sini](/blog/aurora-media-park-canggu/)
+Info lengkapnya cek di [sini](/id/blog/aurora-media-park-canggu/)
 
 ### 5.Pacha Alpaca — Interaksi Seru dengan Alpaca
 
 Kalau kamu lagi cari tempat wisata Bali yang cocok untuk seluruh keluarga, **Pacha Alpaca** di Canggu wajib banget masuk daftar! Di sini, anak-anak bisa dekat-dekat dengan alpaca yang lucu dan jinak, sambil belajar soal hewan ini lewat tur dan penjelasan staf — seru sekaligus mendidik. Orang tua bisa ikut kasih makan, elus-elus, bahkan piknik atau foto bareng alpaca. Dijadiin momen keluarga yang nggak terlupakan.
 
-Pacha Alpaca punya beberapa paket tiket, mulai dari tur interaktif, sesi foto bareng alpaca, piknik, sampai menginap di bamboo house — semua bisa disesuaikan dengan kebutuhan keluarga. Mau santai atau ajak anak-anak eksplorasi alam, tempat ini siap kasih pengalaman yang healing dan penuh tawa. Yuk, pesan pengalaman spesial kamu dan habiskan waktu seru bareng alpaca! Info lengkap & link booking resmi ada di [sini](/blog/pacha-alpaca-family-canggu/).
+Pacha Alpaca punya beberapa paket tiket, mulai dari tur interaktif, sesi foto bareng alpaca, piknik, sampai menginap di bamboo house — semua bisa disesuaikan dengan kebutuhan keluarga. Mau santai atau ajak anak-anak eksplorasi alam, tempat ini siap kasih pengalaman yang healing dan penuh tawa. Yuk, pesan pengalaman spesial kamu dan habiskan waktu seru bareng alpaca! Info lengkap & link booking resmi ada di [sini](/id/blog/pacha-alpaca-family-canggu/).
 
 ## Beach/Pool Club Baru Buka di 2024** (👉🏼Peta: **[Tempat Wajib Kunjung di Canggu](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**)**
 
@@ -339,15 +339,15 @@ Link reservasi: <https://le-bajo.com/>
 
 Nuanu Creative City di sebelah utara Canggu adalah kawasan baru yang menggabungkan elemen kreativitas, budaya, seni, ramah lingkungan, dan alam.
 
-Selain punya beach club mewah terbaru yang dibuka tahun 2024, di sini juga ada banyak spot wisata keluarga/anak-anak, serta pertunjukan spektakuler yang memadukan teknologi dan tradisi magis. Lanjut baca panduan lengkap Nuanu Creative City di [sini](/blog/nuanu-creative-city-luna-guide/)
+Selain punya beach club mewah terbaru yang dibuka tahun 2024, di sini juga ada banyak spot wisata keluarga/anak-anak, serta pertunjukan spektakuler yang memadukan teknologi dan tradisi magis. Lanjut baca panduan lengkap Nuanu Creative City di [sini](/id/blog/nuanu-creative-city-luna-guide/)
 
 ## **Nikmati Hotel Bergaya Bohemian Mewah**
 
 ![Nikmati Hotel Bergaya Bohemian Mewah](https://images.gobaligo.id/vocus/vocus_ca9b675b21d67d71df79f31c8982155b.jpg)
 
-Hotel-hotel di area Canggu itu beragam banget, tapi yang paling unik ya hotel bergaya Bohemian. Hotel-hotel ini terkenal dengan desain khas, dekorasi detail, dan suasananya yang santai, bikin pengalaman menginap kamu beda sendiri. Mau yang bernuansa nostalgia atau modern kekinian, pasti ada hotel Bohemian yang cocok buat kamu. Cek rekomendasi kami di 「[Rekomendasi Penginapan Wajib di Canggu](/blog/canggu-top-hotels-guide/)」
+Hotel-hotel di area Canggu itu beragam banget, tapi yang paling unik ya hotel bergaya Bohemian. Hotel-hotel ini terkenal dengan desain khas, dekorasi detail, dan suasananya yang santai, bikin pengalaman menginap kamu beda sendiri. Mau yang bernuansa nostalgia atau modern kekinian, pasti ada hotel Bohemian yang cocok buat kamu. Cek rekomendasi kami di 「[Rekomendasi Penginapan Wajib di Canggu](/id/blog/canggu-top-hotels-guide/)」
 
-Kalau kamu lebih suka villa, jangan lewatkan artikel ini: 「[Rekomendasi Villa dengan Kolam Renang Pribadi di Canggu — Villa Bali yang Wajib Kamu Coba](/blog/canggu-villas-guide/)」
+Kalau kamu lebih suka villa, jangan lewatkan artikel ini: 「[Rekomendasi Villa dengan Kolam Renang Pribadi di Canggu — Villa Bali yang Wajib Kamu Coba](/id/blog/canggu-villas-guide/)」
 
 {{block:住宿}}
 

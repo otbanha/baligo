@@ -44,7 +44,7 @@ Nusa Dua, Bali, is considered by many travelers to be one of the most family-fri
 But 'suitable' doesn't mean 'no preparation needed'. Mastering a few key points before departure can make the trip truly relaxing and enjoyable.
 
 > Recommended Areas for Family Travel in Bali
-> [Seminyak](/blog/2025-02-15-67ac4321fd897800015b9a11/) ｜ [Ubud](/blog/2025-02-16-67b0a910fd89780001798c4e/) ｜ [Sanur](/blog/2025-02-22-67b81b4cfd89780001b4a261/)
+> [Seminyak](/en/blog/2025-02-15-67ac4321fd897800015b9a11/) ｜ [Ubud](/en/blog/2025-02-16-67b0a910fd89780001798c4e/) ｜ [Sanur](/en/blog/2025-02-22-67b81b4cfd89780001b4a261/)
 
 ***
 
@@ -88,7 +88,7 @@ Bali is a highly religious place, with offerings and temples visible everywhere.
 
 If you occasionally see small offerings (Canang Sari) on the ground, avoid stepping on them and remind children not to touch them casually. These are part of the daily Hindu rituals of offering to the gods and are an important aspect of Balinese culture.
 
-> Further reading: [Balinese Worship Customs: Canang Sari](/blog/2024-07-16-66964aa7fd89780001c7051c/)
+> Further reading: [Balinese Worship Customs: Canang Sari](/en/blog/2024-07-16-66964aa7fd89780001c7051c/)
 
 ***
 
@@ -134,7 +134,7 @@ For slightly older kids (recommended for ages 8 and up), trying the banana boat 
 
 Located about a 30-minute drive from Nusa Dua, Waterboom Bali is one of the highest-rated waterparks in Asia. It features water slides suitable for all ages, from dedicated areas for toddlers to high-speed slides that will leave adults breathless, making it easy to spend an entire day here. It's recommended to visit on weekdays to avoid crowds, and don't forget to bring sunscreen and a change of clothes.
 
-> [Must-Visit for Families in Bali: Complete Guide to Waterbom Bali Waterpark - Asia's Best, Slide Ratings, and Money-Saving Tips](/blog/2025-07-28-68875c61fd8978000143d895/)
+> [Must-Visit for Families in Bali: Complete Guide to Waterbom Bali Waterpark - Asia's Best, Slide Ratings, and Money-Saving Tips](/en/blog/2025-07-28-68875c61fd8978000143d895/)
 
 ### 6. 🦜 Bali Cultural Village (Garuda Wisnu Kencana)
 
@@ -142,7 +142,7 @@ Located about a 30-minute drive from Nusa Dua, Waterboom Bali is one of the high
 
 GWK Cultural Park is situated on the highlands of Uluwatu, where the massive statue of Lord Vishnu is awe-inspiring and sure to leave children wide-eyed. The park regularly hosts traditional dance performances and Balinese music shows, making it a great place for kids to learn about Hindu culture. Visiting in the evening also offers a stunning sunset backdrop with the golden statue, creating a breathtaking scene.
 
-> [Bali Landmark: Complete Guide to GWK Cultural Park - World's Tallest Statue, Traditional Dance Performances, and Photo Spots](/blog/2025-07-17-68785bf9fd89780001822053/)
+> [Bali Landmark: Complete Guide to GWK Cultural Park - World's Tallest Statue, Traditional Dance Performances, and Photo Spots](/en/blog/2025-07-17-68785bf9fd89780001822053/)
 
 ### 7. 🎨 Traditional Balinese Craft DIY
 
@@ -166,7 +166,7 @@ Learning to cook Balinese dishes with local chefs is becoming increasingly popul
 
 A grand stage performance held only three times a week, taking the audience on a cultural journey through Indonesia's five major islands via music, dance, and aerial stunts. Suitable for all ages, this is an experience you absolutely cannot miss.
 
-> For more details, check out our [full guide](/blog/2025-06-21-68557a29fd897800017f4272/)
+> For more details, check out our [full guide](/en/blog/2025-06-21-68557a29fd897800017f4272/)
 
 ### 10. Bali Exotic Marine Park｜Dive into the Blue, Dance with Dolphins in a Dreamy Underwater World
 
@@ -180,7 +180,7 @@ Beyond dolphin interactions, the park also features sea lion shows, underwater o
 
 **Travel Tip:** Dolphin interaction spots are limited, so it's highly recommended to book in advance through online platforms. Some interaction programs have age and height restrictions, so please confirm before booking.
 
-Detailed Guide: [Bali Exotic Marine Park – Up-Close Interactions, Swimming with Dolphins, Crowd Avoidance & Family Itinerary Planning](https://gobaligo.id/blog/Bali-Exotic-Marine-Park/)
+Detailed Guide: [Bali Exotic Marine Park – Up-Close Interactions, Swimming with Dolphins, Crowd Avoidance & Family Itinerary Planning](https://gobaligo.id/en/blog/Bali-Exotic-Marine-Park/)
 
 > Buy Tickets Online: [Kkday](https://www.kkday.com/zh-tw/product/138734-bali-exotic-dolphin-marine-park-indonesia?cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -392,7 +392,7 @@ When traveling with kids, there are two main concerns: the kids not having enoug
 This is what travelers envision as the perfect family vacation in Bali.
 
 > Recommended Areas for Family Travel in Bali
-> [Seminyak](/blog/2025-02-15-67ac4321fd897800015b9a11/) | [Ubud](/blog/2025-02-16-67b0a910fd89780001798c4e/) | [Sanur](/blog/2025-02-22-67b81b4cfd89780001b4a261/)
+> [Seminyak](/en/blog/2025-02-15-67ac4321fd897800015b9a11/) | [Ubud](/en/blog/2025-02-16-67b0a910fd89780001798c4e/) | [Sanur](/en/blog/2025-02-22-67b81b4cfd89780001b4a261/)
 
 {{block:親子}}
 

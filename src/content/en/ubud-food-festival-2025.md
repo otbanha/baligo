@@ -86,7 +86,7 @@ In addition to savoring delicious food, you can also participate in themed guide
 - Tasting handcrafted coconut wine and arak
 - Enjoying slow food cuisine by the rice terraces or in a village kitchen
 
-> Further reading: [🌶️ Top 10 Must-Try Indonesian Dishes in Bali: From Dirty Duck to Suckling Pig, A Taste of Southeast Asia](/blog/top-10-bali-indonesian-food/)
+> Further reading: [🌶️ Top 10 Must-Try Indonesian Dishes in Bali: From Dirty Duck to Suckling Pig, A Taste of Southeast Asia](/en/blog/top-10-bali-indonesian-food/)
 
 ---
 

@@ -46,7 +46,7 @@ Tirta Gangga bukan cuma keajaiban visual, tapi juga tempat dengan makna spiritua
 
 Waktu terbaik buat berkunjung adalah musim kemarau, dari April sampai Oktober. Ingat, pakaian yang sopan dan hormati adat setempat ya.
 
-> Baca juga: [Surga Banget! Tiga Spot Wajib di Bali Timur: Pura Lempuyang, Taman Tirta Gangga, dan Taman Ujung](/blog/bali-east-tour-guide/)
+> Baca juga: [Surga Banget! Tiga Spot Wajib di Bali Timur: Pura Lempuyang, Taman Tirta Gangga, dan Taman Ujung](/id/blog/bali-east-tour-guide/)
 
 {{block:戶外}}
 
@@ -71,7 +71,7 @@ Yang perlu kamu tahu:
 - Waktu terbaik datang adalah pagi atau sore hari biar nggak terlalu ramai
 - Ada dua pancuran yang cuma dipakai buat membersihkan jenazah, nggak boleh dipakai buat ritual Melukat
 
-**Panduan lengkapnya cek di sini:** [**Panduan Lengkap Tirta Empul**](/blog/tirta-empul-temple-guide/)
+**Panduan lengkapnya cek di sini:** [**Panduan Lengkap Tirta Empul**](/id/blog/tirta-empul-temple-guide/)
 
 ![2016年小傑在聖泉寺](https://images.gobaligo.id/vocus/vocus_4f009e23b2961e9bbeaefb0a4ee8b71e.jpg)
 

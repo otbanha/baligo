@@ -66,6 +66,6 @@ Tapi kalau kamu nggak mau cuma dateng ke tempat besar, aku pribadi suka banget r
 
 Intinya, Bali tahun 2026 nggak cuma soal 'pilih satu tempat dan bertahan di situ'. Yang pinter bergerak, pinter ganti suasana, malah bisa dapet pengalaman yang lebih berlapis. Kafe sih masih worth it, tapi kalau waktu terbatas, aku jujur aja — fokusin ke Beach Club, dijamin nggak bakal nyesel. 😉🌴
 
-**Referensi cepat:** [20 Beach Club di Bali dengan Akses Gratis](/blog/bali-beach-clubs-free-entry-list/)
+**Referensi cepat:** [20 Beach Club di Bali dengan Akses Gratis](/id/blog/bali-beach-clubs-free-entry-list/)
 
 {{block:klook}}

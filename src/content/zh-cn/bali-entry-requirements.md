@@ -37,7 +37,7 @@ eVoA 必须在出发前先于[印尼官方网站](https://evisa.imigrasi.go.id/)
 
 建议申请时间为出发前1周内，既可确保处理时间，也避免太早申请而错过使用期限。
 
-**快速参考：**[2025最新版印尼/巴厘岛入境签证&电子签证eVoA 填写相关 FAQ](/blog/indonesia-bali-visa-evoa-faq/)
+**快速参考：**[2025最新版印尼/巴厘岛入境签证&电子签证eVoA 填写相关 FAQ](/zh-cn/blog/indonesia-bali-visa-evoa-faq/)
 
 ---
 
@@ -49,7 +49,7 @@ eCD（Electronic Customs Declaration）是[印尼官方的线上海关报关表]
 
 建议可于搭机前2至3天填写，避免因忘记或其他问题影响入境流程。
 
-**快速参考：**[【2025最新】如何填写巴厘岛电子海关申报表？电子报关单eCD完整流程教你轻松入境](/blog/bali-e-customs-declaration/)
+**快速参考：**[【2025最新】如何填写巴厘岛电子海关申报表？电子报关单eCD完整流程教你轻松入境](/zh-cn/blog/bali-e-customs-declaration/)
 
 ---
 
@@ -61,7 +61,7 @@ eCD（Electronic Customs Declaration）是[印尼官方的线上海关报关表]
 
 建议将填妥后的 SSHP 存为 PDF 或截图保留，以备不时之需。
 
-**快速参考：**[印尼/巴厘岛入境新规：搭机前必填健康声明表SSHP/填写教学](/blog/2024-08-30-66d109f9fd89780001f47806/)
+**快速参考：**[印尼/巴厘岛入境新规：搭机前必填健康声明表SSHP/填写教学](/zh-cn/blog/2024-08-30-66d109f9fd89780001f47806/)
 
 ---
 
@@ -73,7 +73,7 @@ eCD（Electronic Customs Declaration）是[印尼官方的线上海关报关表]
 
 建议出发前一周完成，以免在机场临时操作影响行程。
 
-**快速参考：**[巴厘岛观光税/旅游税懒人包：2024年新规定、缴费方式、跳岛注意事项一次看](/blog/2026-bali-tourism-tax-guide/)
+**快速参考：**[巴厘岛观光税/旅游税懒人包：2024年新规定、缴费方式、跳岛注意事项一次看](/zh-cn/blog/2026-bali-tourism-tax-guide/)
 
 ---
 

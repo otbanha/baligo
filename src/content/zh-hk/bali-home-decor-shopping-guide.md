@@ -114,7 +114,7 @@ _srcHash: 7171381a39929c7404569f4914fc32b0
 - 唔好搭廉航，行李重量同尺寸限制會令你喊
 - 藤籃、吊燈呢類立體物品，務必確認**包裝後可否託運**
 
-> [點樣從峇里島運送大型傢俬返國? 空運/海運/裝櫃運送攻略](/blog/bali-furniture-shipping-guide/)
+> [點樣從峇里島運送大型傢俬返國? 空運/海運/裝櫃運送攻略](/zh-hk/blog/bali-furniture-shipping-guide/)
 
 {{block:伴手禮}}
 

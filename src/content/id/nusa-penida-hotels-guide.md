@@ -25,10 +25,10 @@ _srcHash: eafa73599a46ba2bb318f1af1896a7f0
 
 針對Penida Island我們共有五集介紹，一起來更深入認識這個海島天堂！其他四集這裡有傳送門：
 
-1. [【Bali - Nusa Penida Penida Island全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/nusa-penida-guide/)
-2. [Penida Island美食和碧海藍天：Nusa Penida的Top 9絕佳選擇](/blog/nusa-penida-best-restaurants/)
-3. [Nusa Penida 努沙佩尼達島的浮潛點介紹，如何參加浮潛？](/blog/nusa-penida-snorkeling-guide/)
-4. [Penida Island計程車、Gojek/Grab、包車、摩托車交通攻略](/blog/nusa-penida-transport-guide/)
+1. [【Bali - Nusa Penida Penida Island全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/id/blog/nusa-penida-guide/)
+2. [Penida Island美食和碧海藍天：Nusa Penida的Top 9絕佳選擇](/id/blog/nusa-penida-best-restaurants/)
+3. [Nusa Penida 努沙佩尼達島的浮潛點介紹，如何參加浮潛？](/id/blog/nusa-penida-snorkeling-guide/)
+4. [Penida Island計程車、Gojek/Grab、包車、摩托車交通攻略](/id/blog/nusa-penida-transport-guide/)
 
 ## Penida Island住宿指南 – 常見問題解答
 
@@ -340,9 +340,9 @@ Dayuh House cocok buat solo traveler atau pasangan. Kalau kamu traveling sendiri
 
 ## Panduan Lengkap Nusa Penida:
 
-1. [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Paket Wisata, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)
-2. [Kuliner & Laut Biru di Nusa Penida: 9 Pilihan Terbaik](/blog/nusa-penida-best-restaurants/)
-3. [Spot Snorkeling di Nusa Penida & Cara Ikut Snorkeling?](/blog/nusa-penida-snorkeling-guide/)
-4. [Panduan Transportasi Nusa Penida: Taksi, Gojek/Grab, Paket Wisata, Motor](/blog/nusa-penida-transport-guide/)
+1. [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Paket Wisata, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)
+2. [Kuliner & Laut Biru di Nusa Penida: 9 Pilihan Terbaik](/id/blog/nusa-penida-best-restaurants/)
+3. [Spot Snorkeling di Nusa Penida & Cara Ikut Snorkeling?](/id/blog/nusa-penida-snorkeling-guide/)
+4. [Panduan Transportasi Nusa Penida: Taksi, Gojek/Grab, Paket Wisata, Motor](/id/blog/nusa-penida-transport-guide/)
 
 {{block:penidaklook}}

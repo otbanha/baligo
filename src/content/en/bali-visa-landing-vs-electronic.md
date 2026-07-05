@@ -29,7 +29,7 @@ Bali, Indonesia's most famous tourist destination, attracts visitors from around
 
 The on-arrival visa is processed at Bali's international airport upon arrival. The visa fee is IDR 500,000 (approximately USD$32), valid for 30 days and extendable once, allowing a maximum stay of 60 days.
 
-The advantage of the on-arrival visa is its simple application process. Upon arrival at Bali's international airport, travelers need only present a passport valid for at least six months, a return ticket or onward flight ticket, and pay the IDR 500,000 fee in cash (specific currencies accepted, [see here](/blog/indonesia-bali-visa-evoa-faq/)) or by credit card (accepted card types [see here](/blog/indonesia-bali-visa-evoa-faq/)).
+The advantage of the on-arrival visa is its simple application process. Upon arrival at Bali's international airport, travelers need only present a passport valid for at least six months, a return ticket or onward flight ticket, and pay the IDR 500,000 fee in cash (specific currencies accepted, [see here](/en/blog/indonesia-bali-visa-evoa-faq/)) or by credit card (accepted card types [see here](/en/blog/indonesia-bali-visa-evoa-faq/)).
 
 However, the downside is the unpredictable processing time, which could be quick or involve waiting in line for several hours. Some travelers report that "applying for an e-visa is too troublesome, while queuing for an on-arrival visa at immigration only takes about ten minutes." However, **this is purely a matter of luck!** Others have spent over an hour waiting in line for their on-arrival visa. Those who process it quickly are indeed fortunate!
 
@@ -41,7 +41,7 @@ If your flight arrives simultaneously with European or American flights, most of
 
 ### **Electronic Visa**
 
-The electronic visa is a visa that travelers can apply for online through the official website of the Indonesian Immigration Directorate before departure. The application fee for the electronic visa is also IDR 500,000 (approximately USD$32), valid for 30 days, extendable once, allowing a maximum stay of 60 days. However, additional handling fees are required for credit card payments. [See here](/blog/indonesia-bali-visa-evoa-faq/)
+The electronic visa is a visa that travelers can apply for online through the official website of the Indonesian Immigration Directorate before departure. The application fee for the electronic visa is also IDR 500,000 (approximately USD$32), valid for 30 days, extendable once, allowing a maximum stay of 60 days. However, additional handling fees are required for credit card payments. [See here](/en/blog/indonesia-bali-visa-evoa-faq/)
 
 The advantage of the electronic visa is the simplicity of the application process. Just follow these steps within 14 days before departure:
 
@@ -50,7 +50,7 @@ The advantage of the electronic visa is the simplicity of the application proces
 3. Upload passport (photo page) and photo (can be taken with a phone, as long as it clearly identifies you)
 4. Prepare a credit card for payment (Online payments require Visa, Mastercard, or JCB credit cards. Up to five people can apply/use one credit card simultaneously. Amex cards cannot be used! There is a surcharge, and the final amount is Rp. 519,500)
 
-The processing time for the electronic visa is short, usually taking only a few minutes. The advantage of obtaining the electronic visa in advance is that you don't have to queue for the visa-on-arrival after landing. Starting in 2024, you can also use the completely queue-free electronic gates (see [Bali's Automated Immigration System with Facial Recognition Launched in 2024: Electronic Visa Holders Can Expedite Entry](/blog/2024-bali-automated-immigration/))
+The processing time for the electronic visa is short, usually taking only a few minutes. The advantage of obtaining the electronic visa in advance is that you don't have to queue for the visa-on-arrival after landing. Starting in 2024, you can also use the completely queue-free electronic gates (see [Bali's Automated Immigration System with Facial Recognition Launched in 2024: Electronic Visa Holders Can Expedite Entry](/en/blog/2024-bali-automated-immigration/))
 
 ## Please see our chart explanation:
 
@@ -60,10 +60,10 @@ The processing time for the electronic visa is short, usually taking only a few 
 
 [Enjoy the wonderful time of vacation! Image source: Tensor Arts AI Art](https://tensor.art/images/668525124623917562?post_id=668525124619723259&source_id=nzi1pVnglEW1o_Isbnfy9xQj)
 
-Both visa-on-arrival and electronic visas have their pros and cons. Travelers can choose the appropriate method based on their needs and preferences. If travelers do not want to apply for a visa in advance or spend too much time researching online visa applications, they can opt for the visa-on-arrival. If travelers want to save time queuing for visa processing after landing, they can choose the electronic visa. If you want to refer to others' experiences, you can also check here: [Entry into Indonesia/Bali Visa-on-Arrival vs. Electronic Visa: Practical Advice for Choosing](/blog/bali-visa-on-arrival-vs-evisa/)
+Both visa-on-arrival and electronic visas have their pros and cons. Travelers can choose the appropriate method based on their needs and preferences. If travelers do not want to apply for a visa in advance or spend too much time researching online visa applications, they can opt for the visa-on-arrival. If travelers want to save time queuing for visa processing after landing, they can choose the electronic visa. If you want to refer to others' experiences, you can also check here: [Entry into Indonesia/Bali Visa-on-Arrival vs. Electronic Visa: Practical Advice for Choosing](/en/blog/bali-visa-on-arrival-vs-evisa/)
 
 ---
 
 👈 **Return to the Ultimate Bali Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.
+Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/en/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.

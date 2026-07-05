@@ -61,9 +61,9 @@ The small loss from currency exchange shouldn't affect our vacation mood!
 
 Bali is a relaxing holiday destination, and it's not worth letting currency exchange issues affect our mood. Open your heart, explore Bali, and enjoy its unique culture and beautiful natural scenery!
 
-> Further Reading: [Currency Exchange Guide, Recommended Trusted Shops](/blog/bali-currency-exchange-guide/)
+> Further Reading: [Currency Exchange Guide, Recommended Trusted Shops](/en/blog/bali-currency-exchange-guide/)
 
 **Quick Reference:**
 
-- [Indonesia/Bali Currency Exchange: Direct Exchange vs. Exchanging USD First, Which is Better?](/blog/bali-currency-exchange-tips/)
-- [Bali Money Exchange Horror Stories: A Group Member's Experience Revealed, Don't Be Fooled by Small Gains!](/blog/bali-money-exchange-scams-2/)
+- [Indonesia/Bali Currency Exchange: Direct Exchange vs. Exchanging USD First, Which is Better?](/en/blog/bali-currency-exchange-tips/)
+- [Bali Money Exchange Horror Stories: A Group Member's Experience Revealed, Don't Be Fooled by Small Gains!](/en/blog/bali-money-exchange-scams-2/)

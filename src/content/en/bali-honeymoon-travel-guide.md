@@ -31,7 +31,7 @@ Trip dates: 2024/05/19 - 05/23
 
 First and foremost, the visa. We applied for an e-visa about three weeks in advance, following instructions from forum members and YouTube guides step by step. After filling out the form, we received the e-visa immediately—remember to print it out, as it will be checked at customs. Don't take any chances; the tourist tax must also be paid online in advance. Upon arrival, allow about an hour from immigration to baggage claim. After collecting your luggage, you'll need to scan a pre-filled electronic customs declaration QR code before being allowed through.
 
-> Further reading: [2025 Latest Indonesia Bali Entry Using 'All Indonesia' Arrival Card | Understand the New Process in 1 Minute: Deplaning → Customs → Baggage Claim Full Guide](/blog/bali-all-indonesia-arrival-guide/)
+> Further reading: [2025 Latest Indonesia Bali Entry Using 'All Indonesia' Arrival Card | Understand the New Process in 1 Minute: Deplaning → Customs → Baggage Claim Full Guide](/en/blog/bali-all-indonesia-arrival-guide/)
 
 ## Currency Exchange
 
@@ -97,13 +97,13 @@ This Jimbaran seafood restaurant offers a two-person set meal for about USD$23. 
 
 The atmosphere at this restaurant is fantastic—you can enjoy the sea view while dining. For a tourist spot, the price and dining environment are really impressive.
 
-Editor's note: The Jimbaran seafood restaurant recommended by Angel is now included in [11 Best Seafood Restaurants in Jimbaran, Bali: A No-Fail Guide](/blog/jimbaran-seafood-restaurants-list/)
+Editor's note: The Jimbaran seafood restaurant recommended by Angel is now included in [11 Best Seafood Restaurants in Jimbaran, Bali: A No-Fail Guide](/en/blog/jimbaran-seafood-restaurants-list/)
 
 ## Tipping
 
 After searching online, I found that some say Indonesia has a tipping culture, while others say it doesn't. In our experience, a few times when we offered a tip, the recipient was surprised and a bit reluctant to accept. They only took it when we expressed our thanks for their service. Generally, we gave 10,000 Indonesian rupiah for rides or luggage assistance, and an additional 10,000 rupiah in cash to service staff when paying the bill at restaurants. At the hotel, some enthusiastic staff members helped us take many photos and also said we didn't need to tip. So, personally, I feel tipping isn't mandatory, but it's a polite gesture. If you do tip, try to avoid giving coins, as that's considered impolite. (Editor's note: The largest coin denomination in Indonesia is 1,000 rupiah, roughly equivalent to USD$0.03)
 
-Further reading: [Should You Tip in Bali? How Much to Tip in Various Situations?](/blog/bali-tipping-guide-driver-spa/)
+Further reading: [Should You Tip in Bali? How Much to Tip in Various Situations?](/en/blog/bali-tipping-guide-driver-spa/)
 
 Since it was our honeymoon trip, even though it was our first time in Bali, we wanted to visit many places but didn't want to rush around in traffic every day. So we chose an extremely relaxed itinerary. We enjoyed the hotel facilities, indulged in hearty afternoon teas, experienced authentic massages, strolled along three different beaches, and had dinner—and we still had a fulfilling time.
 
@@ -159,7 +159,7 @@ Here’s a brief overview of the accommodations:
 
 Indigo Seminyak is a boutique hotel full of design flair, perfectly located in the heart of Seminyak. The hotel blends traditional Balinese style with modern design, and both the interiors and outdoor spaces are exquisitely crafted. The rooms are spacious and comfortable, with all the amenities you need for a relaxing stay. We tried their famous SAVA SPA, enjoying a 90-minute hot stone massage—the whole experience was soothing and satisfying.
 
-Blog post: [【Seminyak Accommodation Recommendation】Stay at the 5-Star Indigo Resort by the Sea for USD$161/night](/blog/hotel-indigo-seminyak-review/)
+Blog post: [【Seminyak Accommodation Recommendation】Stay at the 5-Star Indigo Resort by the Sea for USD$161/night](/en/blog/hotel-indigo-seminyak-review/)
 
 > ▶[Book Hotel Indigo Bali Seminyak Beach](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1220348) [Booking](https://booking.tpm.li/Wod9awed)
 

@@ -28,27 +28,27 @@ After wrapping up this wonderful 7-day, 6-night Bali trip, I’d like to share s
 
 During this trip, each of us exchanged about USD$320. This amount was just enough for the 7-day, 6-night itinerary, and we even bought quite a few souvenirs. So, I’d suggest exchanging between USD$300 and USD$350, and supplementing with card payments. Many restaurants and massage places accept credit cards, allowing you to manage your budget flexibly.
 
-> [Indonesia/Bali Travel Currency Exchange Guide: What Currency Does Indonesia/Bali Use? How to Get the Best Rate? Where to Exchange?](/blog/bali-currency-exchange-guide/)
+> [Indonesia/Bali Travel Currency Exchange Guide: What Currency Does Indonesia/Bali Use? How to Get the Best Rate? Where to Exchange?](/en/blog/bali-currency-exchange-guide/)
 
-> [How Much Cash Should You Bring for a Bali Trip?](/blog/bali-travel-cash-budget-guide/)
+> [How Much Cash Should You Bring for a Bali Trip?](/en/blog/bali-travel-cash-budget-guide/)
 
 ## 2️⃣ **Internet**
 
 I recommend buying a local SIM card after arriving in Bali, as it’s cheaper and offers more stable connectivity (though this might just be my personal experience). The airport provides free Wi-Fi, so you don’t need to worry about contacting your driver. The local SIM card we bought had a total data allowance of 18GB per person. Even with frequent use of social media, watching YouTube videos, and downloading apps, this was more than enough for the seven days. So, you can choose a data plan based on your own usage needs.
 
-[【Essential Bali Travel Guide】How to Get a Bali SIM Card/eSIM/Roaming?](/blog/bali-sim-card-esim-roaming-guide/)
+[【Essential Bali Travel Guide】How to Get a Bali SIM Card/eSIM/Roaming?](/en/blog/bali-sim-card-esim-roaming-guide/)
 
 ## 3️⃣ **Visa, Tourist Tax, and Customs**
 
 Make sure to apply for your visa online before departure, and submit your customs declaration three days in advance to avoid long queues at the airport and save time.
 
-> [2026 Indonesia Bali Entry: Use the "All Indonesia" Declaration System｜Master the Latest Process in 1 Minute: Deplane → Customs → Baggage Claim Full Guide](/blog/bali-all-indonesia-arrival-guide/)
+> [2026 Indonesia Bali Entry: Use the "All Indonesia" Declaration System｜Master the Latest Process in 1 Minute: Deplane → Customs → Baggage Claim Full Guide](/en/blog/bali-all-indonesia-arrival-guide/)
 
 ## 4️⃣ **Transportation**
 
 In Bali, aside from hiring a private driver, most short-distance trips or food delivery services use the Grab or Gojek apps. Remember to set up your account in Taiwan beforehand (you'll need a Taiwanese phone number to receive the verification code) so you can use it smoothly upon arrival.
 
-> [Must-Download App for Traveling in Indonesia/Bali: Gojek Full Guide](/blog/gojek-bali-guide/)
+> [Must-Download App for Traveling in Indonesia/Bali: Gojek Full Guide](/en/blog/gojek-bali-guide/)
 
 ## ⚠️ **Your Private Driver Is Extremely Important!**
 
@@ -62,7 +62,7 @@ Traffic in Bali can be chaotic, so for safety-conscious travelers like us, choos
 
 {{block:包車}}
 
-**Quick Reference:** [Top 6 Must-See Kecak Fire Dance Locations in Bali: A Feast of Sight and Culture](/blog/bali-kecak-fire-dance-locations/)
+**Quick Reference:** [Top 6 Must-See Kecak Fire Dance Locations in Bali: A Feast of Sight and Culture](/en/blog/bali-kecak-fire-dance-locations/)
 
 During this trip, we met the gentle and attentive Komang, who said his greatest wish is for every visitor to Bali to experience the beauty of this place. We are truly grateful for his help. If you're planning a trip to Bali, we highly recommend Komang!
 
@@ -78,7 +78,7 @@ Here is the driver's contact info:
 
 > Facebook : Komang WikaSutresna
 
-▶▶[【Bali Private Car Driver Recommendation Hall of Fame】Comprehensive Reviews from Netizens: Find Your Perfect Driver Through Real Feedback](/blog/bali-private-car-drivers-guide/)
+▶▶[【Bali Private Car Driver Recommendation Hall of Fame】Comprehensive Reviews from Netizens: Find Your Perfect Driver Through Real Feedback](/en/blog/bali-private-car-drivers-guide/)
 
 Think Pan Yixun's itinerary was exciting? Plan your own Bali free and easy trip now! Feel free to share your itinerary in the community too!
 

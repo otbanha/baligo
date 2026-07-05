@@ -43,7 +43,7 @@ Oscar Lin提供
 
 > Komaneka at Rasa Sayang 房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=256185) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685387&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaycLFJMEkNYmF4_nZrtOsQuyGpmYGhgZGBhtFLFqbGR09HlaJrDvc5uApss79YZVLj0MAT8SUA8-nsSdauroX_TwY6NDFyAoWmMF4-pXmCkbGjYzGIMCc5rCDkekAI9MJxvcKC5imLL5vdoqFmWMT2yWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJsYWOoZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGXywMTawMXazMHKeYJgHJ9wq7WPn9IkPM_Bx1w80iXXWjdA0vsO5UlpI3NDAwMDU0NjXVNUi0TDQ1TjbUNbE0MTI31DU2tjA107gztfPmE2MjaylIClBg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmpubm5mGWXDxRwa7CKYfvV5lraZtIMUc0i4i-LkoAtvVXtP22sxe7oEGX7Qe7693drSPnDP65wT9sYL7CPXz6zZfBYon8RalaEbEp7RK17A2MDI1MXILcDowRjBWAHkMa5iZOdiNjAyFGDawMi4g_E_DDC-YgRZAgB1UectBQMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-33856&detailFilters=17|1~17~1*31|685387~31~685387*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=285&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/j3XfJIPj)
 
-已收錄喺[【峇里島烏布住宿】烏布30+特色住宿，體驗峇里島山林美景嘅奇幻之旅！](https://gobaligo.id/blog/ubud-resorts-guide/)
+已收錄喺[【峇里島烏布住宿】烏布30+特色住宿，體驗峇里島山林美景嘅奇幻之旅！](https://gobaligo.id/zh-hk/blog/ubud-resorts-guide/)
 
 
 ## 8月14日：烏布同周邊景點遊覽
@@ -72,7 +72,7 @@ Oscar Lin提供
 
 下晝，我哋再次包車去**烏魯瓦圖**（Pura Luhur Uluwatu）睇出名嘅火舞表演。由烏布去呢度大概要三個鐘頭車程，司機一路開得好穩，令我哋好放心。到咗目的地之後，眼前嘅懸崖寺廟真係令人驚嘆，壯觀嘅景色配埋火舞表演，呢種獨特嘅體驗令我哋覺得呢趟長途跋涉好值得。
 
-> 編按：火舞表演演啲乜？請睇：[Kecak Fire Dance卡恰火舞秀 峇里島必睇嘅震撼表演（附訂票資訊）](/blog/kecak-fire-dance-bali/)
+> 編按：火舞表演演啲乜？請睇：[Kecak Fire Dance卡恰火舞秀 峇里島必睇嘅震撼表演（附訂票資訊）](/zh-hk/blog/kecak-fire-dance-bali/)
 
 夜晚，我哋去**Bali Collection**食晚餐，呢度係一個大型嘅購物中心，集合咗好多間餐廳同商店，好啱一家人嚟食飯同購物。
 
@@ -112,7 +112,7 @@ Oscar Lin提供
 
 https://youtu.be/Czw4ALduV14
 
-> [Oneeighty Dayclub 介紹同消費方式](/blog/oneeighty-dayclub-uluwatu-pool/)
+> [Oneeighty Dayclub 介紹同消費方式](/zh-hk/blog/oneeighty-dayclub-uluwatu-pool/)
 
 之後，我哋去咗位於峇里島西南海岸嘅**Rock Bar**，呢度嘅夕陽景色真係令人難以忘懷，尤其係夜晚開燈之後，成個酒吧嘅氣氛更加迷人。我哋叫咗幾杯飲品，慢慢享受呢度嘅美景，呢個絕對係峇里島之行中最浪漫嘅一刻。
 
@@ -122,7 +122,7 @@ Oscar Lin提供
 
 https://youtube.com/shorts/tHRxnJqxqbw
 
-> 編按：點樣預約Rock Bar？可以參考我哋嘅「[峇里島金巴蘭岩石酒吧 Rock Bar 點樣預約？完整體驗攻略！](/blog/bali-rock-bar-reservation-guide/)」
+> 編按：點樣預約Rock Bar？可以參考我哋嘅「[峇里島金巴蘭岩石酒吧 Rock Bar 點樣預約？完整體驗攻略！](/zh-hk/blog/bali-rock-bar-reservation-guide/)」
 
 最後，我哋結束咗呢日嘅行程，喺司機嘅推薦之下去咗**Calma Spa**做咗次按摩。呢度環境好優雅，按摩師嘅技術亦都好專業，搞到我哋不知不覺間都放鬆到瞓著咗。
 
@@ -141,7 +141,7 @@ Oscar Lin提供
 呢次行程入面，我哋特別推薦**Jon Devn（Agus）**呢位包車司機。佢係由Satrya介紹畀我哋嘅，駕駛技術好穩定，唔會亂咁超車或者響咹，令我哋喺峇里島嘅山路上面覺得好安心。司機本人嘅態度亦都好斯文，車廂保持得好乾淨整潔。如果旅程入面有咩需要幫手嘅地方，佢都好樂意幫手，令成趟旅行變得更加輕鬆愉快。
 
 > 編按：呢位司機亦都係我哋名人榜嘅常客㗎！
-> [【峇里島包車司機推薦名人榜】巴里島司機網友評鑑大全：睇網友真實點評搵到適合你嘅好司機](/blog/bali-private-car-drivers-guide/)
+> [【峇里島包車司機推薦名人榜】巴里島司機網友評鑑大全：睇網友真實點評搵到適合你嘅好司機](/zh-hk/blog/bali-private-car-drivers-guide/)
 
 你覺得 Oscar Lin 佢哋嘅行程好精彩嗎？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家去社團投稿你嘅行程㗎！
 

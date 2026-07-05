@@ -38,7 +38,7 @@ From the morning light over Tegallalang Rice Terraces to the sleepy yawns of civ
 Traffic in Ubud city center is essentially a 'moving parking lot'! If you don't mind the sun, we highly recommend using **GoBike/GrabBike** as your mode of transportation—navigate through the traffic with ease, saving at least half the time compared to being stuck in a car! Just remember to apply sunscreen, and don't worry too much about your hairstyle under the helmet～(laughs)
 
 **Quick Reference:**  
-What is GoBike/GrabBike? Check out [Essential for Short Trips! Hailing a Motorcycle Taxi via App, Saves Time and Effort!](/blog/bali-travel-app-motorcycle-taxi/)
+What is GoBike/GrabBike? Check out [Essential for Short Trips! Hailing a Motorcycle Taxi via App, Saves Time and Effort!](/en/blog/bali-travel-app-motorcycle-taxi/)
 
 ### **Our Ubud Highlights Itinerary:**
 
@@ -137,7 +137,7 @@ After sightseeing, it's time to unleash your shopping spirit! Ubud is essentiall
 - Carry small bills, many shops don’t accept credit cards
 
 **Quick Reference**:  
-[Complete Guide to Ubud's Top 5 Art Markets: Souvenirs, Gifts, and Exploring Bali's Cultural Treasures](/blog/ubud-art-markets-guide/)
+[Complete Guide to Ubud's Top 5 Art Markets: Souvenirs, Gifts, and Exploring Bali's Cultural Treasures](/en/blog/ubud-art-markets-guide/)
 
 ## **Fourth Stop: Kecak Fire Dance**
 
@@ -169,7 +169,7 @@ When hundreds of bare-chested dancers chant "Cak! Cak! Cak!" around the fire, it
 📍 Recommended venue: Ubud Palace 💵 Ticket price: IDR 100,000 (choose rows 3-5 for the best view)
 
 **Quick Reference**:  
-[【Ubud Palace Guide】: Bali’s Cultural and Historical Gem｜Opening Hours, Tickets, Show Times, Nearby Attractions, Day Trip Recommendations](/blog/ubud-royal-palace-tour-guide/)
+[【Ubud Palace Guide】: Bali’s Cultural and Historical Gem｜Opening Hours, Tickets, Show Times, Nearby Attractions, Day Trip Recommendations](/en/blog/ubud-royal-palace-tour-guide/)
 
 ## **Epilogue: The Magic and Reality of 24 Hours in Ubud**
 
@@ -187,4 +187,4 @@ Did you find Chen Cheng's itinerary exciting? Start planning your own Bali free-
 
 Click here to explore more amazing Bali travel stories
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to help make your travelogue stand out!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)" to help make your travelogue stand out!

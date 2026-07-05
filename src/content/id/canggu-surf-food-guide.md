@@ -49,7 +49,7 @@ Cuplikan video Xiao Jie
 
 [Masih penasaran sama Canggu? Cek sini yuk!](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
-Bali mulai berkembang dari Kuta dan Legian, jadi kawasan paling rame di seluruh Bali. Dulu kita pernah bikin satu episode 'Panduan Kuta', jadi kalau liburan ke Bali jangan lupa cek '[Panduan Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/)' ya!
+Bali mulai berkembang dari Kuta dan Legian, jadi kawasan paling rame di seluruh Bali. Dulu kita pernah bikin satu episode 'Panduan Kuta', jadi kalau liburan ke Bali jangan lupa cek '[Panduan Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)' ya!
 
 ![小傑的視頻截圖](https://images.gobaligo.id/vocus/vocus_ef926785ed04367981ee15ffdbb273f1.jpg)
 
@@ -57,7 +57,7 @@ Screenshot video Jie
 
 Setelah beberapa tahun, Kuta dan Legian berubah, kawasan ramenya meluas ke utara sepanjang pantai. Seminyak yang ada di utara Kuta/Legian ini, awalnya adalah desa kecil yang terpisah dari Kuta. Karena harga tanah murah, dekat Kuta, dan punya pantai cantik, mulai disukai ekspatriat yang tinggal di Bali. Mereka bangun villa-villa mewah, dan menarik banyak restoran keren, butik, SPA, dan merek fashion terkenal. Sekarang Seminyak bisa dibilang ikon gaya dan tren di Bali. Dari Kuta, Legian, sampai Seminyak, jadi satu kawasan belanja paling hits di Bali.
 
-> Baca juga: [Panduan Lengkap Seminyak Bali: 60 Tempat Makan, Main, dan Belanja Wajib Coba](/blog/seminyak-guide/)
+> Baca juga: [Panduan Lengkap Seminyak Bali: 60 Tempat Makan, Main, dan Belanja Wajib Coba](/id/blog/seminyak-guide/)
 
 Kalau lanjut ke utara, sekitar 15 menit dari Seminyak, sampailah kita di Canggu. Namanya terdengar seperti 'lembah panjang' dalam bahasa Indonesia, tapi sebenarnya nggak ada hubungannya sama lembah panjang, ya!
 
@@ -115,10 +115,10 @@ Siap buat petualangan seru di Canggu? Link di bawah ini ada peta keren Canggu, B
 
 ## Baca Juga
 
-[Peta Petualangan Canggu Bali: 100 Tempat Wajib Kunjungi di Canggu | Panduan 2026](/blog/canggu-guide/)
+[Peta Petualangan Canggu Bali: 100 Tempat Wajib Kunjungi di Canggu | Panduan 2026](/id/blog/canggu-guide/)
 
-[Rekomendasi Penginapan di Bali: Top 13 Akomodasi di Canggu yang Wajib Kamu Coba](/blog/canggu-top-hotels-guide/)
+[Rekomendasi Penginapan di Bali: Top 13 Akomodasi di Canggu yang Wajib Kamu Coba](/id/blog/canggu-top-hotels-guide/)
 
-[16 Rekomendasi Villa dengan Kolam Renang Pribadi di Canggu, Villa Canggu yang Wajib Kamu Coba di Bali](/blog/canggu-villas-guide/)
+[16 Rekomendasi Villa dengan Kolam Renang Pribadi di Canggu, Villa Canggu yang Wajib Kamu Coba di Bali](/id/blog/canggu-villas-guide/)
 
 {{block:攻略}}

@@ -19,7 +19,7 @@ _srcHash: 9dd275ceff974248e04213df6890ace8
 ---
 Update: 2026/07/03
 
-[🚗 想预估 Gojek 车资？请点击这里](/map/gojek-fare/)
+[🚗 想预估 Gojek 车资？请点击这里](/zh-cn/map/gojek-fare/)
 
 我们的巴厘岛系列视频已经做到第55集啦！这一集来给大家说说巴厘岛旅游的六大注意事项！
 

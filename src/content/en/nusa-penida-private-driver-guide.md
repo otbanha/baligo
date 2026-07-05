@@ -76,11 +76,11 @@ This option is especially suitable for:
 
 We have five episodes covering Nusa Penida—let's dive deeper into this island paradise! Here's the portal:
 
-1. [【Bali - Nusa Penida Complete Guide】Map, Ferry, Accommodation, Transportation, Private Driver, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
-2. [Nusa Penida Food & Blue Skies: Top 9 Choices on the Island](/blog/nusa-penida-best-restaurants/)
-3. [Snorkeling Spots in Nusa Penida: How to Join a Snorkeling Trip?](/blog/nusa-penida-snorkeling-guide/)
-4. [Nusa Penida Taxi, Gojek/Grab, Private Driver, and Scooter Transport Guide](/blog/nusa-penida-transport-guide/)
-5. [13 Highly-Rated Nusa Penida Accommodations from Luxury to Budget](/blog/nusa-penida-hotels-guide/)
+1. [【Bali - Nusa Penida Complete Guide】Map, Ferry, Accommodation, Transportation, Private Driver, Activities, Photography, Attractions](/en/blog/nusa-penida-guide/)
+2. [Nusa Penida Food & Blue Skies: Top 9 Choices on the Island](/en/blog/nusa-penida-best-restaurants/)
+3. [Snorkeling Spots in Nusa Penida: How to Join a Snorkeling Trip?](/en/blog/nusa-penida-snorkeling-guide/)
+4. [Nusa Penida Taxi, Gojek/Grab, Private Driver, and Scooter Transport Guide](/en/blog/nusa-penida-transport-guide/)
+5. [13 Highly-Rated Nusa Penida Accommodations from Luxury to Budget](/en/blog/nusa-penida-hotels-guide/)
 
 ![Complete Guide to Nusa Penida](https://images.gobaligo.id/vocus/vocus_0cb95fce009e6a0b11e1c5639d83ec4d.jpg)
 
@@ -100,7 +100,7 @@ It depends on the itinerary and group size. A full-day tour typically ranges fro
 
 Yes, and the island has some unique guesthouses and resorts. It's recommended to book early to secure your accommodation.
 
-Check out: Nusa Penida accommodation recommendations: [13 Highly-Rated Nusa Penida Accommodations from Luxury to Budget](/blog/nusa-penida-hotels-guide/)
+Check out: Nusa Penida accommodation recommendations: [13 Highly-Rated Nusa Penida Accommodations from Luxury to Budget](/en/blog/nusa-penida-hotels-guide/)
 
 ### 4. Do the drivers speak Chinese?
 
@@ -132,4 +132,4 @@ If you're planning a trip to Nusa Penida, I recommend arranging everything throu
 
 👈 **Back to the Ultimate Bali Travel Guide**
 
-Want to see the full beginner's cheat sheet? [Click here to read the '2026 Bali Ultimate Travel Guide'](/blog/bali-ultimate-guide-2026/) and get everything sorted before you go.
+Want to see the full beginner's cheat sheet? [Click here to read the '2026 Bali Ultimate Travel Guide'](/en/blog/bali-ultimate-guide-2026/) and get everything sorted before you go.

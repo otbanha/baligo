@@ -31,7 +31,7 @@ Update: 2026/07/03
 
 没人想成为违法签证持有者，所以让我们来解释一下你在印尼远程工作的几种签证选择：
 
->>请参考：[最新入境印尼巴厘岛签证改版 FAQ](/blog/2025-bali-visa-update-faq/)
+>>请参考：[最新入境印尼巴厘岛签证改版 FAQ](/zh-cn/blog/2025-bali-visa-update-faq/)
 
 ![確認簽證和法律要求](https://images.gobaligo.id/vocus/vocus_dd41d77001052cf97d5e040eff2b57b5.jpg)
 
@@ -122,4 +122,4 @@ Update: 2026/07/03
 
 👈 **回到巴厘岛自由行终极指南**
 
-想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/zh-cn/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

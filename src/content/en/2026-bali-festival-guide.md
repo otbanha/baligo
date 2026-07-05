@@ -17,8 +17,8 @@ Bali, this enchanting tropical paradise in the South Seas, will welcome traveler
 
 ![2026 Indonesia National Holidays & Bali Festivals Complete G](https://images.gobaligo.id/vocus/vocus_fc17bb84dfccbaa2faf4a7ac915d1349.png)
 
-- **For those looking to avoid Bali's five peak seasons, please refer to:**[**Bali Has Five Peak Seasons! How to Travel Smartly and Avoid the Crowds?**](/blog/bali-peak-season-travel-tips/)
-- [Bali Rainy Season: Months, Rainfall Probability, Rainy Days, Average Temperature, Travel Suitability Index... Full Breakdown](/blog/bali-rainy-season-travel-guide/)
+- **For those looking to avoid Bali's five peak seasons, please refer to:**[**Bali Has Five Peak Seasons! How to Travel Smartly and Avoid the Crowds?**](/en/blog/bali-peak-season-travel-tips/)
+- [Bali Rainy Season: Months, Rainfall Probability, Rainy Days, Average Temperature, Travel Suitability Index... Full Breakdown](/en/blog/bali-rainy-season-travel-guide/)
 
 Before diving into the guide below, it's important to understand that most holidays in Indonesia and Bali follow the Islamic calendar, the Balinese calendar, or the Chinese lunar calendar. As a result, their dates shift each year and don't align with fixed Western calendar dates. So, the same date next year (or any other year) won't necessarily mark the same festival!
 
@@ -94,7 +94,7 @@ Click the 'Open Table of Contents' button for quick navigation
 - - **Date:** March 19–20, 2026, Indonesian national holiday
     - **Description:** Balinese Hindu New Year, where the entire island comes to a standstill for 24 hours, observing the 'Four No's' prohibitions, and the airport is closed.
 
-[2026 Bali Nyepi Day Guide: Ogoh-Ogoh Parade Tips](/blog/nyepi-day-bali-guide-2026/)
+[2026 Bali Nyepi Day Guide: Ogoh-Ogoh Parade Tips](/en/blog/nyepi-day-bali-guide-2026/)
 
 ### **Omed-Omedan, Sesetan Denpasar (Kissing Ritual)**
 
@@ -271,7 +271,7 @@ The scene in Bali during past Idul Fitri holidays
 ![Penglipuran Village Festival](https://images.gobaligo.id/vocus/vocus_d209e48a8c78b2a2d0f4cd43b2017d1e.jpg)
 
 - **Dates:** July 10–12, 2026 (updated dates)
-    - **Description:** A festival held in the traditional village of Penglipuran, showcasing culture, handicrafts, local cuisine, and tourism programs. This annual cultural festival in Penglipuran Village aims to highlight the village's traditional culture and way of life, renowned for its well-preserved traditional architecture and customs. Activities include traditional dance and music performances, handicraft exhibitions, local food stalls, and cultural workshops. Visitors can gain deep insights into Penglipuran's unique culture and experience the daily life of its residents, making it an ideal way to explore Bali's traditional village culture. (Read more: [A Journey Through Time in Penglipuran Village: Experience Bali's Ancient Charm](/blog/penglipuran-village-bali-experience/))
+    - **Description:** A festival held in the traditional village of Penglipuran, showcasing culture, handicrafts, local cuisine, and tourism programs. This annual cultural festival in Penglipuran Village aims to highlight the village's traditional culture and way of life, renowned for its well-preserved traditional architecture and customs. Activities include traditional dance and music performances, handicraft exhibitions, local food stalls, and cultural workshops. Visitors can gain deep insights into Penglipuran's unique culture and experience the daily life of its residents, making it an ideal way to explore Bali's traditional village culture. (Read more: [A Journey Through Time in Penglipuran Village: Experience Bali's Ancient Charm](/en/blog/penglipuran-village-bali-experience/))
 
 ### **Festival Bali Jani (Bali Contemporary Arts Festival)**
 
@@ -387,14 +387,14 @@ The Ubud Village Jazz Festival (UVJF) is one of Asia’s most important jazz mus
 
 ![Nyepi Laut (Ocean Peace Day)](https://images.gobaligo.id/vocus/vocus_4a95e8af75a39af7fa9ae53d359af247.png)
 
-Nyepi Laut, the "Ocean Peace Day" observed on Bali's three satellite islands, is a crucial date for travelers heading to Nusa Penida, Nusa Lembongan, and Nusa Ceningan. On this day, all ferry services to and from these islands are suspended. Please take note and plan accordingly! What is "Ocean Peace Day" and what are the key things to know? Check out our [explanation here](/blog/bali-ocean-peace-day/).
+Nyepi Laut, the "Ocean Peace Day" observed on Bali's three satellite islands, is a crucial date for travelers heading to Nusa Penida, Nusa Lembongan, and Nusa Ceningan. On this day, all ferry services to and from these islands are suspended. Please take note and plan accordingly! What is "Ocean Peace Day" and what are the key things to know? Check out our [explanation here](/en/blog/bali-ocean-peace-day/).
 
 ### **Lembongan Surf and Music Festival**
 
 - - **Date:** TBD (usually in September)
     - **Description:** Held on Nusa Lembongan, combining surfing activities with a music stage.
 
-[【Nusa Lembongan / Nusa Ceningan Attractions Guide】Explore Nusa Lembongan / Nusa Ceningan attractions, food, and transportation: Bali's nearby paradise](/blog/nusa-lembongan-ceningan-guide/)
+[【Nusa Lembongan / Nusa Ceningan Attractions Guide】Explore Nusa Lembongan / Nusa Ceningan attractions, food, and transportation: Bali's nearby paradise](/en/blog/nusa-lembongan-ceningan-guide/)
 
 ### **Buleleng Fashion Festival**
 
@@ -421,7 +421,7 @@ Nyepi Laut, the "Ocean Peace Day" observed on Bali's three satellite islands, is
 
 ![Nusa Penida Festival](https://images.gobaligo.id/vocus/vocus_18f01f8938ac90a9dbc22c83a1198a6a.jpg)
 
-[【Bali - Complete Guide to Nusa Penida】Maps, Ferry, Accommodation, Transportation, Private Car, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
+[【Bali - Complete Guide to Nusa Penida】Maps, Ferry, Accommodation, Transportation, Private Car, Activities, Photography, Attractions](/en/blog/nusa-penida-guide/)
 
 ### **Klungkung Heritage Festival**
 
@@ -450,7 +450,7 @@ Nyepi Laut, the "Ocean Peace Day" observed on Bali's three satellite islands, is
 
 ![Tulamben Ocean Harmony Festival](https://images.gobaligo.id/vocus/vocus_c2ef082fb20b5470203d5c2269a6fa5d.jpg)
 
-[Complete Guide to Bali's Northeast Hidden Gems: Amed and Tulamben](/blog/amed-tulamben-diving-guide/)
+[Complete Guide to Bali's Northeast Hidden Gems: Amed and Tulamben](/en/blog/amed-tulamben-diving-guide/)
 
 ### **Bali Hockey Festival**
 
@@ -501,7 +501,7 @@ Nyepi Laut, the "Ocean Peace Day" observed on Bali's three satellite islands, is
 ![Sanur Village Festival Official Website](https://images.gobaligo.id/vocus/vocus_edb9e9b9954eccd208e6c1001d793309.png)
 
 - - **Dates:** November 2026 (dates TBD)
-    - The [Sanur Village Festival](https://sanurvillagefestival.com/) is an annual event (for more on what to do in Sanur, check out the [Sanur Guide Map: 50 Things to Eat, Drink, and Do, Plus SPA and Accommodation Recommendations!](/blog/sanur-guide/)).
+    - The [Sanur Village Festival](https://sanurvillagefestival.com/) is an annual event (for more on what to do in Sanur, check out the [Sanur Guide Map: 50 Things to Eat, Drink, and Do, Plus SPA and Accommodation Recommendations!](/en/blog/sanur-guide/)).
     This festival celebrates art, food, culture, fashion, yoga, and the environment. Many large-scale events coincide with the festival, including tennis, traditional boat races, marine water sports, surfing competitions, photography contests and exhibitions, kite flying festivals, village bike tours, markets, coral planting, baby turtle releases, food festivals, music and cultural performances, yoga, an open golf championship, and the Bali International Triathlon, among others.
 
 ### **Goa Lawah Festival (Bat Cave Temple Festival)**
@@ -544,7 +544,7 @@ An Indonesian national holiday, with December 24 and 25 as consecutive days off.
     - **Description:** Held near Besakih Temple, Bali’s mother temple, aimed at promoting local tourism and culture.
   ---
 
-The above is the most comprehensive list of festivals in Indonesia/Bali for 2026. Bali is a popular tourist destination and can get very crowded during peak seasons. If you prefer to avoid the crowds, you can skip the "[Five Major Peak Seasons in Bali](/blog/bali-peak-season-travel-tips/)" we’ve introduced, and combine the unique Balinese festivals mentioned above—**plan your Bali trip around these dates**—to make your holiday more diverse and exciting!
+The above is the most comprehensive list of festivals in Indonesia/Bali for 2026. Bali is a popular tourist destination and can get very crowded during peak seasons. If you prefer to avoid the crowds, you can skip the "[Five Major Peak Seasons in Bali](/en/blog/bali-peak-season-travel-tips/)" we’ve introduced, and combine the unique Balinese festivals mentioned above—**plan your Bali trip around these dates**—to make your holiday more diverse and exciting!
 
 *The above dates are subject to final government announcements.
 

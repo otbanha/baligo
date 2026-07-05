@@ -30,7 +30,7 @@ _srcHash: 532c6cde4b9015052df869c40fde1d04
 
 Uluwatu, one of Bali's most popular southern destinations, is home to stunning hidden beaches, the iconic Uluwatu Temple, and many other attractions.
 
-Want to learn more about the area's unique character and must-visit spots? Check out this [guide](/blog/bukit-peninsula-guide/).
+Want to learn more about the area's unique character and must-visit spots? Check out this [guide](/en/blog/bukit-peninsula-guide/).
 
 If you're looking for a comfortable, luxurious stay with unbeatable ocean views, here are some top picks:
 
@@ -162,7 +162,7 @@ AYANA Villas Bali
 
 While AYANA isn't located in Uluwatu proper, it's very close. AYANA Villas is a top-tier luxury resort in Bali, with villas ranging from 200 to 1,000 square meters, accommodating 2 to 12 guests. Perched on the oceanfront heights of the AYANA Bali estate, they offer stunning views. There are 60 villas in total, each with its own private pool, personal butler service, and premium amenities.
 
-For a detailed introduction to Ayana Bali, [check this out](/blog/ayana-resort-bali-guide/).
+For a detailed introduction to Ayana Bali, [check this out](/en/blog/ayana-resort-bali-guide/).
 
 > ▶[Check Agoda's best rates for your travel dates](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=478524)
 
@@ -232,7 +232,7 @@ La Cabane's facilities are quite comprehensive, featuring an outdoor swimming po
 
 The location is excellent, just a few minutes' drive from the famous Uluwatu Temple, with nearby attractions like Pandawa Beach and Padang Padang Beach. Whether you want to experience world-class surfing, admire breathtaking sunsets, or explore Bali's cultural heritage, La Cabane is the perfect starting point.
 
-> La Cabane is featured on this site [here](/blog/la-cabane-bali-uluwatu/)
+> La Cabane is featured on this site [here](/en/blog/la-cabane-bali-uluwatu/)
 
 > ▶[Check Agoda deals for your dates](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=822795) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=10627469&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6z8TFJMEkdYOJ49_WowuYhJgNDYw07rMZPGC02Crv2Po6cIecc4eD5zeNmP5DN3sdAngiphx4Po098aZtZcSKg4EOXYysYIEZjL2XO1hXMDJuZDz8Fag4Ks1hByPTAUamE4y3lRYwPZw9VewUCzPHfrZLLLsYo6uVslMrlaxMdJRKMktyUpWslJ4umve0Yc_zFa1KOkopqcXJQCEgKzE3vzSvBMi2MDbUMzAAipQkVnimgHUmJ-Ykl-YklqSGVBYATTDSUcosdi4pyiwISs3NLClJBapKS8wpTgWJB6UWA2WSwYIgc4ug_Mz8PIhuAxSxsMSc0lSISqB9bqlQKwxrYx-xMEXHvmC5z_aJheEXC0MTK0MXKzPHKaZJQPK20i5WXm9j3yATD13DEN0oXcMLrE9VpeQNDQwMTA2NTU11DRItE80sDU10TSxNjMwsdY2NLIyMNP61X7n6xNjIWgoSkgqMWoLxIZ6eLoYlhalmhaWWOUUFpgaMpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPY3AwtTcyMo2y4mEODXQS9T7DbzjaVdpBiDgl3UbSX7Zdc0XPaXgskZwiTC9zzOueEvfEC-8jS1c-XfO89bZ_EWpWhGxKecVysgLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQAi9qwDksCAAA&masterhotelid_tracelogid=100051355-0a9a6914-494269-32822&detailFilters=17|1~17~1*31|10627469~31~10627469*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=416&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/wKgXBxsN)
 

@@ -97,7 +97,7 @@ Intinya, Belajar Bali Boutique Hotel & Retreat adalah hotel butik kecil dengan d
 
 ***
 
-[Termasuk dalam Canggu Top 16 Rekomendasi Penginapan yang Nggak Boleh Kamu Lewatkan, Klik di Sini buat Info Lengkap](/blog/canggu-top-hotels-guide/)
+[Termasuk dalam Canggu Top 16 Rekomendasi Penginapan yang Nggak Boleh Kamu Lewatkan, Klik di Sini buat Info Lengkap](/id/blog/canggu-top-hotels-guide/)
 
 {{block:canggu}}
 

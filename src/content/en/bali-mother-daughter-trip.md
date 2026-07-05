@@ -32,7 +32,7 @@ This itinerary is based on suggestions from the community group and my own perso
 
 The driver we chose was Fovix Ketut, highly recommended by the community group, and I sincerely recommend him to anyone in need. Although my English is extremely poor, I managed to get through these days smoothly, thanks to Ketut's help. I want to reassure everyone: don't be afraid of language barriers—using translation apps and a few basic words is enough.
 
-> Further reading: [【Bali Guide】Worried About Your English in Bali? Here's What to Do](/blog/bali-travel-tips-bad-english/)
+> Further reading: [【Bali Guide】Worried About Your English in Bali? Here's What to Do](/en/blog/bali-travel-tips-bad-english/)
 
 One thing to note about booking a driver: be punctual and reliable—don't stand your driver up. This is the foundation of mutual trust. We communicated thoroughly beforehand, and Ketut actually helped adjust most of my itinerary, including recommending the spa.
 
@@ -42,7 +42,7 @@ We had already completed the customs, visa, and tourist tax procedures online in
 
 After collecting your luggage, head to the least crowded customs lane. Scanning your QR code gets you out of the airport in under three minutes.
 
-> Read more: [[2026 Edition] Indonesia Entry Using 'All Indonesia' Arrival Card｜Master the Latest Process in 1 Minute: From Landing to Customs to Baggage Claim](/blog/bali-all-indonesia-arrival-guide/)
+> Read more: [[2026 Edition] Indonesia Entry Using 'All Indonesia' Arrival Card｜Master the Latest Process in 1 Minute: From Landing to Customs to Baggage Claim](/en/blog/bali-all-indonesia-arrival-guide/)
 
 ## Itinerary and Transportation
 
@@ -52,7 +52,7 @@ I thought this trip wouldn't be too packed and would be relaxing, but the traffi
 
 My mom and I used an eSIM and a physical SIM card respectively, both from XL. Unfortunately, my eSIM kept dropping signal—especially when I desperately needed translation, leaving me scrambling to recall basic English words. Meanwhile, my mom's physical SIM worked flawlessly throughout. Over the seven days, I mostly relied on hotel WiFi and used less than 3GB of data.
 
-> Read more: [Essential for Bali Travel: How to Get a Bali SIM Card/eSIM/Roaming Guide](/blog/bali-sim-card-esim-roaming-guide/)
+> Read more: [Essential for Bali Travel: How to Get a Bali SIM Card/eSIM/Roaming Guide](/en/blog/bali-sim-card-esim-roaming-guide/)
 
 ---
 
@@ -104,7 +104,7 @@ Our first stop today was the jungle swing in Ubud, a spot recommended by Ketut t
 
 Zhang Pingping shares: The long dress is rented for 150k IDR (about USD$5), optional.
 
-**Quick Reference:** [Swinging in Ubud: 8 Best Swing Photo Spots in Bali | Ubud Swing/Dress Rental Guide](/blog/ubud-jungle-swings-photo-guide/)
+**Quick Reference:** [Swinging in Ubud: 8 Best Swing Photo Spots in Bali | Ubud Swing/Dress Rental Guide](/en/blog/ubud-jungle-swings-photo-guide/)
 
 ### Dining at a Restaurant
 
@@ -128,11 +128,11 @@ After that, we arrived at Tegenungan Waterfall, where there's also a pool club, 
 
 Photo by Zhang Pingping
 
-**Quick Reference:** [Guide to the three major waterfalls near Ubud, Bali: Tegenungan Waterfall, Kanto Lampo Waterfall, and Tukad Cepung Waterfall](/blog/ubud-waterfalls-guide/)
+**Quick Reference:** [Guide to the three major waterfalls near Ubud, Bali: Tegenungan Waterfall, Kanto Lampo Waterfall, and Tukad Cepung Waterfall](/en/blog/ubud-waterfalls-guide/)
 
 ![Tegenungan Waterfall](https://images.gobaligo.id/vocus/vocus_237f10c60c257d436c2cec2c97feb2c8.jpg)
 
-Want more Ubud tips? [Click here](/blog/ubud-guide/)
+Want more Ubud tips? [Click here](/en/blog/ubud-guide/)
 
 ### Jimbaran Spa
 
@@ -144,7 +144,7 @@ Photo by Zhang Pingping
 
 ### The Apurva Kempinski Bali
 
-Due to traffic, we didn't arrive safely at The Apurva Kempinski Bali until 10 p.m. (Editor's note: For an introduction to The Apurva Kempinski, [see here](/blog/apurva-kempinski-bali-nusa-dua/))
+Due to traffic, we didn't arrive safely at The Apurva Kempinski Bali until 10 p.m. (Editor's note: For an introduction to The Apurva Kempinski, [see here](/en/blog/apurva-kempinski-bali-nusa-dua/))
 
 > ▶[Dining at an underwater restaurant from USD$100](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90340-koral-restaurant-dining-the-apurva-kempinski-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd2225956a4)
 
@@ -173,7 +173,7 @@ In the evening, we swam in the luxurious hotel room and also enjoyed the hotel's
 
 ![More to Eat, Drink, and Do in Nusa Dua](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
 
-Nusa Dua is a region in Bali renowned for its luxury resorts, boasting pristine white sand beaches, crystal-clear waters, and top-notch tourist facilities. It's the ultimate choice for those seeking high-end indulgence and a tranquil getaway. Here you'll find premium spas, water sports, and leisure activities perfect for the whole family—a paradise for all types of travelers. Want more Nusa Dua tips? [Click here](/blog/nusa-dua-guide/)
+Nusa Dua is a region in Bali renowned for its luxury resorts, boasting pristine white sand beaches, crystal-clear waters, and top-notch tourist facilities. It's the ultimate choice for those seeking high-end indulgence and a tranquil getaway. Here you'll find premium spas, water sports, and leisure activities perfect for the whole family—a paradise for all types of travelers. Want more Nusa Dua tips? [Click here](/en/blog/nusa-dua-guide/)
 
 ---
 
@@ -187,19 +187,19 @@ Our first stop today was Tanah Barak. I’m not exactly the type to strike a per
 
 Provided by Zhang Pingping
 
-**Quick Reference:** [Bali’s Batu Barak/Tanah Barak: A Stunning Journey Along the Blue Road/Cliff Road](/blog/batu-barak-cliff-road/)
+**Quick Reference:** [Bali’s Batu Barak/Tanah Barak: A Stunning Journey Along the Blue Road/Cliff Road](/en/blog/batu-barak-cliff-road/)
 
 ### Uluwatu Temple
 
 Next, we arrived at Uluwatu Temple. The monkeys here are incredibly aggressive, so Ketut accompanied us like a bodyguard the whole way, sweating profusely as he shooed them away and took photos for us. A special thanks to him for carrying my mom’s bag, which felt as heavy as a rock. Just moments earlier, we witnessed a tourist’s phone being snatched by a monkey and tossed off the cliff into the sea, never to be seen again. This made us even more grateful for Ketut’s company and protection.
 
-**Quick Reference:** [Bali Uluwatu Temple/Lover’s Cliff Travel Guide: Must-See Highlights and Practical Tips](/blog/uluwatu-temple-travel-guide/)
+**Quick Reference:** [Bali Uluwatu Temple/Lover’s Cliff Travel Guide: Must-See Highlights and Practical Tips](/en/blog/uluwatu-temple-travel-guide/)
 
 ### More on Eating, Drinking, and Fun in Uluwatu
 
 ![More on Eating, Drinking, and Fun in Uluwatu](https://images.gobaligo.id/vocus/vocus_88e1fc85f675618e40236e0e76037d1e.jpg)
 
-Uluwatu is one of the most popular areas in southern Bali, renowned for its dramatic cliff views, stunning beaches, and excellent surf spots. It exudes a romantic tropical resort vibe, making it the perfect choice for enjoying sunset vistas and relaxing moments. If you’re planning to stay in Uluwatu, check out our carefully curated guide to eating, drinking, and having fun below to make your trip even more exciting: [【Uluwatu Guide】Uluwatu Attractions: Food, Drink, and Fun Recommendations](/blog/uluwatu-guide/)
+Uluwatu is one of the most popular areas in southern Bali, renowned for its dramatic cliff views, stunning beaches, and excellent surf spots. It exudes a romantic tropical resort vibe, making it the perfect choice for enjoying sunset vistas and relaxing moments. If you’re planning to stay in Uluwatu, check out our carefully curated guide to eating, drinking, and having fun below to make your trip even more exciting: [【Uluwatu Guide】Uluwatu Attractions: Food, Drink, and Fun Recommendations](/en/blog/uluwatu-guide/)
 
 ### Buying Fruit
 
@@ -225,7 +225,7 @@ On June 2, we checked into [The Oberoi Beach Resort](https://www.agoda.com/partn
 
 We strolled around the area, watched the sunset, and enjoyed all the hotel's amenities, spending a delightful evening.
 
-Featured in: [Bali Accommodation Guide: Seminyak's Coastal Boutique Hotels](/blog/seminyak-beach-resorts-guide/)
+Featured in: [Bali Accommodation Guide: Seminyak's Coastal Boutique Hotels](/en/blog/seminyak-beach-resorts-guide/)
 
 
 ![Accommodation and Surroundings](https://images.gobaligo.id/vocus/vocus_47fc0bf37f298d6acbf3db505b14ae96.jpg)
@@ -273,4 +273,4 @@ Do you think Zhang Pingping's itinerary is amazing? Plan your own Bali free-and-
 
 Click here to see more exciting Bali travelogues.
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write a Stunning Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your story shine!
+Want to write a travelogue but don't know where to start? Check out "[How to Write a Stunning Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)" to make your story shine!

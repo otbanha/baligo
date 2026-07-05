@@ -47,7 +47,7 @@ Also, when paying the tourism tax online, I found that the first payment always 
 
 Leftmost is Ani, rightmost is her husband. Photo courtesy of Chuang Ling Chun
 
-> Further reading: [Bali Private Car Hire Guide - Costs, Booking, and Advantages](/blog/bali-private-car-hire-guide/)
+> Further reading: [Bali Private Car Hire Guide - Costs, Booking, and Advantages](/en/blog/bali-private-car-hire-guide/)
 
 Mom said Ani always had a smile on her face, was very easygoing, and went along with their free itinerary perfectly. Both Ani and her husband worked in Taiwan for many years, so communication with her was very smooth. Their rates were very affordable—even with the guide-plus-driver format, the car hire price was within the average range. If you want to contact Ani, her Line ID is agussolihin72.
 
@@ -59,7 +59,7 @@ My mom and her group started their Bali adventure at Uluwatu Temple. Although th
 
 Illustration of the Uluwatu Kecak Fire Dance
 
-> Further reading: [Kecak Fire Dance - Bali's Must-See Spectacular Show (with Booking Info)](/blog/kecak-fire-dance-bali/)
+> Further reading: [Kecak Fire Dance - Bali's Must-See Spectacular Show (with Booking Info)](/en/blog/kecak-fire-dance-bali/)
 
 On the first day, I arranged for them to check into the PinkCoco Uluwatu hotel. Though the exterior is a bit kitschy, you can snap pink-tinted photos anywhere you look.
 
@@ -79,7 +79,7 @@ Ani knew my mom loves taking photos, so she recommended a swing experience—400
 
 Get the best deal on Ubud swings here:
 
-> [Ubud Swing: The 8 Best Swing Photo Spots in Bali | Ubud Swing & Dress Rental Guide](/blog/ubud-jungle-swings-photo-guide/)
+> [Ubud Swing: The 8 Best Swing Photo Spots in Bali | Ubud Swing & Dress Rental Guide](/en/blog/ubud-jungle-swings-photo-guide/)
 
 ![圖：Chuang Ling Chun提供 + 網路截圖](https://images.gobaligo.id/vocus/vocus_a3fd5654938f7fafc790509041021cf0.jpg)
 
@@ -127,7 +127,7 @@ Top-rated activities in the rice terrace area:
 
 Further reading:
 
-> [2026 Bali Ubud Complete Guide: 100 Ways to Deeply Explore Ubud | Discover the Charm of Ubud](/blog/ubud-guide/)
+> [2026 Bali Ubud Complete Guide: 100 Ways to Deeply Explore Ubud | Discover the Charm of Ubud](/en/blog/ubud-guide/)
 
 In the evening, I arranged for them to stay at Grün Canggu Garden. When I first saw this place's unique design while booking, I was instantly drawn in. It feels like a treehouse: the first floor is the staircase, halfway up you'll find the toilet and bathroom, the second floor is a small platform, and the third floor is the bedroom. The room design is very open—except for the enclosed toilet and bathroom, all other areas are open spaces. Surrounded by trees, with the sounds of insects and birds, it feels like you're immersed in nature, allowing you to fully enjoy a leisurely vacation.
 
@@ -167,11 +167,11 @@ The advantage of booking online in advance is that you can see the exact fare wh
 
 ## Afterword
 
-1. If you like mangosteens, be sure to buy some. At the supermarket, 12 mangosteens cost just USD$3—cheap and delicious. Mom also asked the guide to take them to a roadside stall for durian, where one durian was only USD$10. (Read more: [Indonesia/Bali Mangosteen Season](/blog/bali-mangosteen-season/))
-2. When traveling in Bali, you're likely to encounter heavy traffic and poor road conditions, so Google Maps estimated travel times are for reference only. (Read more: [Don't Trust Google Maps in Bali!](/blog/bali-google-maps-warning/))
+1. If you like mangosteens, be sure to buy some. At the supermarket, 12 mangosteens cost just USD$3—cheap and delicious. Mom also asked the guide to take them to a roadside stall for durian, where one durian was only USD$10. (Read more: [Indonesia/Bali Mangosteen Season](/en/blog/bali-mangosteen-season/))
+2. When traveling in Bali, you're likely to encounter heavy traffic and poor road conditions, so Google Maps estimated travel times are for reference only. (Read more: [Don't Trust Google Maps in Bali!](/en/blog/bali-google-maps-warning/))
 3. Mom and her group were very satisfied with Ani's service, so on the last day, they gave her and her husband a little extra tip. We also tipped the luggage handlers and massage attendants as a token of gratitude. (Read more: [Do You Need to Tip in Bali? How to Tip? How Much to Tip in Various Situations?](https://youtu.be/B_oT905RkQw))
-4. When getting into the car, ask the driver-guide to take your mom and her group to exchange money—he'll bring them to a trustworthy place. (Read more: [Free & Easy Currency Exchange Guide](/blog/bali-currency-exchange-guide/))
-5. Locally, a SIM card costs USD$19 for 18GB of data, while roaming with 5GB costs USD$16. I recommend using roaming, as Mom didn't need to look up much information during her trip, and most hotels offer free Wi-Fi—5GB was more than enough. (Read more: [Essential Bali Travel: How to Get Bali Internet/SIM Card?](/blog/bali-sim-card-esim-roaming-guide/))
+4. When getting into the car, ask the driver-guide to take your mom and her group to exchange money—he'll bring them to a trustworthy place. (Read more: [Free & Easy Currency Exchange Guide](/en/blog/bali-currency-exchange-guide/))
+5. Locally, a SIM card costs USD$19 for 18GB of data, while roaming with 5GB costs USD$16. I recommend using roaming, as Mom didn't need to look up much information during her trip, and most hotels offer free Wi-Fi—5GB was more than enough. (Read more: [Essential Bali Travel: How to Get Bali Internet/SIM Card?](/en/blog/bali-sim-card-esim-roaming-guide/))
 
 Mom's verdict on this trip was that she had a blast—she really enjoyed the fun of taking photos. She especially praised the hotels I picked, saying each one had its own unique charm, allowing her to capture many beautiful pictures. For her, as long as she can snap plenty of photos, it's a wonderful journey.
 
@@ -183,9 +183,9 @@ This Bali trip was full of surprises and wonderful memories, whether exploring t
 
 ## **Guide to Traveling to Bali with Elderly Parents:**
 
-- Episode 1: [Bali Travel Guide for Seniors - Safety, Comfort & Tips](/blog/bali-elderly-travel-guide/)
-- Episode 2: [Complete Guide to Bali Attractions for Seniors](/blog/bali-senior-friendly-travel-guide/)
-- Episode 3: [How Eccentric Can Seniors Be?! Beware of 'Ungrateful Efforts' When Traveling Abroad](/blog/traveling-with-elderly-parents-tips/)
+- Episode 1: [Bali Travel Guide for Seniors - Safety, Comfort & Tips](/en/blog/bali-elderly-travel-guide/)
+- Episode 2: [Complete Guide to Bali Attractions for Seniors](/en/blog/bali-senior-friendly-travel-guide/)
+- Episode 3: [How Eccentric Can Seniors Be?! Beware of 'Ungrateful Efforts' When Traveling Abroad](/en/blog/traveling-with-elderly-parents-tips/)
 
 Do you think Ling Chun's itinerary for her mom was amazing? Go ahead and plan your own Bali free & easy trip! Feel free to share your itinerary in the community group too!
 
@@ -193,4 +193,4 @@ Do you think Ling Chun's itinerary for her mom was amazing? Go ahead and plan yo
 
 Click here to see more amazing travel stories from Bali
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write a Stunning Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your story shine!
+Want to write a travelogue but don't know where to start? Check out "[How to Write a Stunning Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)" to make your story shine!

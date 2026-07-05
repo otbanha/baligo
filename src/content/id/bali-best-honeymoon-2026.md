@@ -51,7 +51,7 @@ Bali tuh kayak kartu pos hidup, surga Indonesia ini benar-benar bak mimpi, mengg
 
 Bayangin, kamu bersantai di pantai berpasir putih yang halus banget, atau nyemplung ke air laut yang jernih, explore terumbu karang warna-warni bareng ikan tropis. Buat pasangan yang suka petualangan, kalian bahkan bisa diving di sekitar bangkai kapal Perang Dunia II, dapet pengalaman eksplorasi bawah laut yang unik.
 
-> [Panduan Lengkap Aktivitas Air di Bali｜Bali Nggak Cuma Snorkeling! 15 Cara Seru Main Air yang Nggak Terduga](/blog/2026-bali-water-activities/)
+> [Panduan Lengkap Aktivitas Air di Bali｜Bali Nggak Cuma Snorkeling! 15 Cara Seru Main Air yang Nggak Terduga](/id/blog/2026-bali-water-activities/)
 
 ### 🌿 Hutan Rimba yang Asri Banget
 
@@ -69,7 +69,7 @@ Dijuluki sebagai 'Kota Seni', Ubud adalah tempat terbaik buat ngerasain esensi b
 - Ikut workshop batik atau perak, bikin oleh-oleh spesial sendiri
 - Relaksasi di kelas yoga yang dikelilingi sawah terasering, bikin hati bener-bener tenang
 
-> [Panduan Lengkap Ubud 2026: 100 Cara Kenal Lebih Dalam Ubud｜Explore Pesona Ubud](/blog/ubud-guide/)
+> [Panduan Lengkap Ubud 2026: 100 Cara Kenal Lebih Dalam Ubud｜Explore Pesona Ubud](/id/blog/ubud-guide/)
 
 ### 💎 Pengalaman Serba Bisa, Penuhi Semua Impian Bulan Madu
 
@@ -83,7 +83,7 @@ Yang paling bikin Bali menarik adalah bisa memenuhi kebutuhan berbagai tipe pasa
 - **Pasangan Petualang**: Surfing, diving, trekking gunung berapi
 - **Healing Vibes**: SPA tradisional dan pengalaman wellness
 
-> [【Edisi Spesial】Kumpulan Rekomendasi SPA & Pijat ke Rumah Terbaik di Bali — Lebih Gampang Dicari Berdasarkan Zona](/blog/spa/)
+> [【Edisi Spesial】Kumpulan Rekomendasi SPA & Pijat ke Rumah Terbaik di Bali — Lebih Gampang Dicari Berdasarkan Zona](/id/blog/spa/)
 
 ---
 
@@ -99,11 +99,11 @@ Siap memulai petualangan romantis ini? Artikel pilihan di bawah ini bakal bantu 
 
 **📖 Baca Juga: Bulan Madu/Pasangan di Bali:**
 
-- [Kenapa Makin Banyak Orang Pilih Bali buat Bulan Madu? FAQ Seputar Bulan Madu di Bali](/blog/bali-honeymoon-faq/)
-- [Destinasi Bulan Madu Romantis Terbongkar! Bali Kalahkan Maladewa Jadi Juara Dunia!](/blog/bali-honeymoon-destination/)
-- [Panduan Romantis Bulan Madu Bali: 36 Cara Seru buat Pasangan/Pengantin Baru](/blog/bali-honeymoon-romantic-activities-2/)
-- [Bingung Pilih Penginapan? Panduan Bulan Madu buat Pengantin Baru/Pasangan! 【20 Rekomendasi Resor & Vila Romantis】](/blog/bali-honeymoon-resorts-guide/)
-- [《World Travel Awards》Bali Raih Penghargaan Destinasi Wisata Paling Romantis Sedunia 2024](/blog/bali-world-travel-awards-2024/)
-- [Terakui: Bali Jadi Surga Foto Bulan Madu Terbaik di Dunia](/blog/bali-best-honeymoon-photo-spot/)
+- [Kenapa Makin Banyak Orang Pilih Bali buat Bulan Madu? FAQ Seputar Bulan Madu di Bali](/id/blog/bali-honeymoon-faq/)
+- [Destinasi Bulan Madu Romantis Terbongkar! Bali Kalahkan Maladewa Jadi Juara Dunia!](/id/blog/bali-honeymoon-destination/)
+- [Panduan Romantis Bulan Madu Bali: 36 Cara Seru buat Pasangan/Pengantin Baru](/id/blog/bali-honeymoon-romantic-activities-2/)
+- [Bingung Pilih Penginapan? Panduan Bulan Madu buat Pengantin Baru/Pasangan! 【20 Rekomendasi Resor & Vila Romantis】](/id/blog/bali-honeymoon-resorts-guide/)
+- [《World Travel Awards》Bali Raih Penghargaan Destinasi Wisata Paling Romantis Sedunia 2024](/id/blog/bali-world-travel-awards-2024/)
+- [Terakui: Bali Jadi Surga Foto Bulan Madu Terbaik di Dunia](/id/blog/bali-best-honeymoon-photo-spot/)
 
 **Nah, kamu bakal milih Bali sebagai destinasi bulan madu? Dan di mana kamu akan mengabadikan kisah cintamu?**

@@ -115,10 +115,10 @@ Pura Ulun Danu Beratan (Pura Air) di Bali
 
 ## Lebih Banyak Tentang Bali:
 
-- [Rekomendasi Wisata Bali 2025 ｜Kumpulkan 500+ Tempopuler Terbaru Bali Sekaligus](/blog/bali-top-500-attractions/)
-- [Bali Raih Penghargaan Destinasi Paling Romantis Dunia 2024 versi World Travel Awards](/blog/bali-world-travel-awards-2024/)
-- [Daftar Lengkap Tempat Ramah Keluarga di Bali ｜100+ Aktivitas Seru untuk Anak dan Orang Tua](/blog/bali-family-travel-guide/)
-- [Panduan Lengkap Wisata Bali untuk Lansia](/blog/bali-senior-friendly-travel-guide/)
+- [Rekomendasi Wisata Bali 2025 ｜Kumpulkan 500+ Tempopuler Terbaru Bali Sekaligus](/id/blog/bali-top-500-attractions/)
+- [Bali Raih Penghargaan Destinasi Paling Romantis Dunia 2024 versi World Travel Awards](/id/blog/bali-world-travel-awards-2024/)
+- [Daftar Lengkap Tempat Ramah Keluarga di Bali ｜100+ Aktivitas Seru untuk Anak dan Orang Tua](/id/blog/bali-family-travel-guide/)
+- [Panduan Lengkap Wisata Bali untuk Lansia](/id/blog/bali-senior-friendly-travel-guide/)
 - Kumpulan 70+ Cerita Perjalanan ke Bali
 
 ## **Pertanyaan Umum (FAQ)**
@@ -133,7 +133,7 @@ Musim terbaik buat jalan-jalan ke Bali adalah musim kemarau (April–November). 
 
 ### 3.**Apa aja sih makanan lokal yang wajib dicoba di Bali?**
 
-Kuliner Bali nggak boleh dilewatkan! Wajib coba Babi Guling (babi panggang khas Bali), Sate Lilit (sate lilit ikan), dan Nasi Goreng khas Indonesia. Jangan lupa juga seafood segar dan buah tropisnya — dijamin nagih. Cek juga rekomendasi lengkapnya di sini: [10 Makanan Terbaik di Bali](/blog/bali-travel-tips/)
+Kuliner Bali nggak boleh dilewatkan! Wajib coba Babi Guling (babi panggang khas Bali), Sate Lilit (sate lilit ikan), dan Nasi Goreng khas Indonesia. Jangan lupa juga seafood segar dan buah tropisnya — dijamin nagih. Cek juga rekomendasi lengkapnya di sini: [10 Makanan Terbaik di Bali](/id/blog/bali-travel-tips/)
 
 ### 4.**Pilihan akomodasi di Bali banyak nggak sih?**
 
@@ -141,7 +141,7 @@ Bali punya puluhan ribu pilihan tempat nginep, dari resort mewah sampai homestay
 
 ### **5. Perlu visa nggak buat ke Bali?**
 
-Buat liburan singkat, traveler dari beberapa negara kayak Singapura, Malaysia, Hong Kong bisa bebas visa. Tapi buat warga Taiwan atau China, tetap harus urus visa dulu. Lengkapnya cek: [Aturan Masuk 2025: 4 Langkah Wajib Sebelum Liburan ke Bali](/blog/2025-01-11-67821654fd89780001f932b5/)
+Buat liburan singkat, traveler dari beberapa negara kayak Singapura, Malaysia, Hong Kong bisa bebas visa. Tapi buat warga Taiwan atau China, tetap harus urus visa dulu. Lengkapnya cek: [Aturan Masuk 2025: 4 Langkah Wajib Sebelum Liburan ke Bali](/id/blog/2025-01-11-67821654fd89780001f932b5/)
 
 ## 📩 **Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Bali!**
 

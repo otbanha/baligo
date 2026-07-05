@@ -51,7 +51,7 @@ Kebanyakan toko diving atau perusahaan snorkeling menyediakan tempat penyimpanan
 
 Kalau kamu jalan pakai mobil sewaan dan sopirnya **orang lokal yang udah dikenal dan bisa dipercaya**, boleh banget nitipin sebagian barang berharga (misal HP, uang tunai) ke dia buat dijagain.
 
-Ini tuh umum banget di kalangan turis lokal, apalagi pas trip panjang (misal sehari penuh ke Nusa Lembongan). Tapi saran sih, mending cek dulu [sopir dengan reputasi bagus](/blog/bali-private-car-drivers-guide/) di grup sebelum mutusin.
+Ini tuh umum banget di kalangan turis lokal, apalagi pas trip panjang (misal sehari penuh ke Nusa Lembongan). Tapi saran sih, mending cek dulu [sopir dengan reputasi bagus](/id/blog/bali-private-car-drivers-guide/) di grup sebelum mutusin.
 
 ---
 

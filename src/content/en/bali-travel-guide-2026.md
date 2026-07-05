@@ -44,75 +44,75 @@ Here are the useful links mentioned in the video:
 
 ## Festival-Related:
 
-- [2026 Bali Nyepi Day (Day of Silence) Guide: The Ogoh-Ogoh Parade You Need to Know](/blog/nyepi-day-bali-guide-2026/)
-- [2026 Complete Guide to Indonesian Public Holidays & Bali Festivals: Key Event Dates at a Glance!](/blog/2026-bali-festival-guide/)
-- [Bali Has Five Peak Seasons! How to Travel Smart and Avoid the Crowds?](/blog/bali-peak-season-travel-tips/)
-- [Bali Rainy Season: Monthly Rainfall, Rain Days, Average Temperature, Travel Suitability Index... Full Breakdown](/blog/bali-rainy-season-travel-guide/)
+- [2026 Bali Nyepi Day (Day of Silence) Guide: The Ogoh-Ogoh Parade You Need to Know](/en/blog/nyepi-day-bali-guide-2026/)
+- [2026 Complete Guide to Indonesian Public Holidays & Bali Festivals: Key Event Dates at a Glance!](/en/blog/2026-bali-festival-guide/)
+- [Bali Has Five Peak Seasons! How to Travel Smart and Avoid the Crowds?](/en/blog/bali-peak-season-travel-tips/)
+- [Bali Rainy Season: Monthly Rainfall, Rain Days, Average Temperature, Travel Suitability Index... Full Breakdown](/en/blog/bali-rainy-season-travel-guide/)
 
 ## Entry Requirements:
 
-- [Using the "All Indonesia" Arrival Card: Master the Latest Process in 1 Minute: From Landing to Customs to Baggage Claim – Full Guide](/blog/bali-all-indonesia-arrival-guide/)
-- [Indonesia/Bali eVisa, eCD Customs, SSHP Health Declaration – All Indonesia FAQs](/blog/bali-evisa-customs-health-declaration/)
+- [Using the "All Indonesia" Arrival Card: Master the Latest Process in 1 Minute: From Landing to Customs to Baggage Claim – Full Guide](/en/blog/bali-all-indonesia-arrival-guide/)
+- [Indonesia/Bali eVisa, eCD Customs, SSHP Health Declaration – All Indonesia FAQs](/en/blog/bali-evisa-customs-health-declaration/)
 
 ## Accommodation Base/Area Guide:
 
 ### Kuta/Legian/Seminyak/Canggu/Ubud
 
-- [50 Must-Visit Attractions in Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [100 Attractions in Seminyak Guide](/blog/seminyak-guide/)
-- [100 Must-Visit Spots in Canggu](/blog/canggu-guide/)
-- [100 Ways to Explore Ubud](/blog/ubud-guide/)
+- [50 Must-Visit Attractions in Kuta](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [100 Attractions in Seminyak Guide](/en/blog/seminyak-guide/)
+- [100 Must-Visit Spots in Canggu](/en/blog/canggu-guide/)
+- [100 Ways to Explore Ubud](/en/blog/ubud-guide/)
 
 ### Nusa Dua
 
-- [Nusa Dua: 40 Accommodation, Dining & Activity Guide](/blog/nusa-dua-guide/)
+- [Nusa Dua: 40 Accommodation, Dining & Activity Guide](/en/blog/nusa-dua-guide/)
 
 ### Jimbaran
 
-- [Jimbaran Guide](/blog/jimbaran-guide/)
+- [Jimbaran Guide](/en/blog/jimbaran-guide/)
 
 ### Uluwatu
 
-- [Uluwatu Guide](/blog/uluwatu-guide/)
+- [Uluwatu Guide](/en/blog/uluwatu-guide/)
 
 ### Sanur
 
-- [50 Things to Eat, Drink, and Do in Sanur](/blog/sanur-guide/)
+- [50 Things to Eat, Drink, and Do in Sanur](/en/blog/sanur-guide/)
 
 ### Other Areas
 
-- [Nusa Penida: The Ultimate Eat, Drink & Play Guide](/blog/nusa-penida-guide/)
-- [Nusa Lembongan & Ceningan: Complete Attractions Guide](/blog/nusa-lembongan-ceningan-guide/)
-- [Nuanu Creative City Guide](/blog/nuanu-creative-city-luna-guide/)
-- [Komodo Island Guide](/blog/komodo-island-labuan-bajo-travel/)
-- [Amed & Tulamben Guide](/blog/amed-tulamben-diving-guide/)
+- [Nusa Penida: The Ultimate Eat, Drink & Play Guide](/en/blog/nusa-penida-guide/)
+- [Nusa Lembongan & Ceningan: Complete Attractions Guide](/en/blog/nusa-lembongan-ceningan-guide/)
+- [Nuanu Creative City Guide](/en/blog/nuanu-creative-city-luna-guide/)
+- [Komodo Island Guide](/en/blog/komodo-island-labuan-bajo-travel/)
+- [Amed & Tulamben Guide](/en/blog/amed-tulamben-diving-guide/)
 
 ### Where to Stay
 
 ![住宿推薦](https://images.gobaligo.id/vocus/vocus_cb23993cde9c417ee4093fb3bd3de849.jpg)
 
-We’ve handpicked Bali’s top-rated accommodations—all with zero negative reviews and organized by area and type. If you’re looking for the perfect place to stay in Bali, don’t miss this! Click [here](/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
+We’ve handpicked Bali’s top-rated accommodations—all with zero negative reviews and organized by area and type. If you’re looking for the perfect place to stay in Bali, don’t miss this! Click [here](/en/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 
 {{block:住宿}}
 
 ### Beat the Traffic Nightmare
 
-- [【How to Explore Bali Without Traffic Jams!】Ultimate Bali Travel Guide: Transportation, Accommodation, Attractions, Food, Shopping, Spa, Nightlife – All in One](/blog/bali-free-travel-guide/)
+- [【How to Explore Bali Without Traffic Jams!】Ultimate Bali Travel Guide: Transportation, Accommodation, Attractions, Food, Shopping, Spa, Nightlife – All in One](/en/blog/bali-free-travel-guide/)
 
 ## Transportation / Private Car Hire
 
-- [Bali Private Car Hire Guide – Costs, Booking, and Benefits](/blog/bali-private-car-hire-guide/)
-- [【Recommended Bali Private Car Drivers】Read Real Reviews to Find Your Perfect Driver](/blog/bali-private-car-drivers-guide/)
-- [Arriving in Bali: Airport Transfer Options and First-Day Tips](/blog/bali-airport-transfer-guide/)
-- [Bali Chinese-Speaking Driver/Guide/Private Car Tour Recommendations](/blog/bali-chinese-tour-guide/)
-- [Bali Motorbike Rental Guide! Should You Rent a Motorbike or Hire a Private Car?](/blog/bali-motorbike-rental-guide/)
-- [Bali Scooter Rental Guide: Prices, Safety, and Tips at a Glance](/blog/bali-motorbike-rental-tips/)
-- [When to Hire a Private Car? When to Use a Ride-Hailing App? Private Car vs. Ride-Hailing: How to Choose the Best Travel Option for You?](/blog/bali-transportation-guide-car-rental/)
-- [Traveling in Indonesia/Bali? Must-Download App: Gojek Complete Guide](/blog/gojek-bali-guide/)
-- [How to Use the Ride-Hailing App Gojek?](/blog/gojek-bali-guide/)
-- [Complete Guide to Registering, Using, and Topping Up Gojek & GoPay in Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
-- [Bali Ride-Hailing App Driver Tricks: How to Avoid Grab/Gojek Scams?](/blog/bali-grab-gojek-scam-tips/)
-- [Nusa Penida Transportation Guide: Taxis, Gojek/Grab, Private Cars, and Motorbikes](/blog/nusa-penida-transport-guide/)
+- [Bali Private Car Hire Guide – Costs, Booking, and Benefits](/en/blog/bali-private-car-hire-guide/)
+- [【Recommended Bali Private Car Drivers】Read Real Reviews to Find Your Perfect Driver](/en/blog/bali-private-car-drivers-guide/)
+- [Arriving in Bali: Airport Transfer Options and First-Day Tips](/en/blog/bali-airport-transfer-guide/)
+- [Bali Chinese-Speaking Driver/Guide/Private Car Tour Recommendations](/en/blog/bali-chinese-tour-guide/)
+- [Bali Motorbike Rental Guide! Should You Rent a Motorbike or Hire a Private Car?](/en/blog/bali-motorbike-rental-guide/)
+- [Bali Scooter Rental Guide: Prices, Safety, and Tips at a Glance](/en/blog/bali-motorbike-rental-tips/)
+- [When to Hire a Private Car? When to Use a Ride-Hailing App? Private Car vs. Ride-Hailing: How to Choose the Best Travel Option for You?](/en/blog/bali-transportation-guide-car-rental/)
+- [Traveling in Indonesia/Bali? Must-Download App: Gojek Complete Guide](/en/blog/gojek-bali-guide/)
+- [How to Use the Ride-Hailing App Gojek?](/en/blog/gojek-bali-guide/)
+- [Complete Guide to Registering, Using, and Topping Up Gojek & GoPay in Indonesia/Bali](/en/blog/indonesia-gojek-gopay-guide/)
+- [Bali Ride-Hailing App Driver Tricks: How to Avoid Grab/Gojek Scams?](/en/blog/bali-grab-gojek-scam-tips/)
+- [Nusa Penida Transportation Guide: Taxis, Gojek/Grab, Private Cars, and Motorbikes](/en/blog/nusa-penida-transport-guide/)
 
 ## Recommended Immersive Experiences
 
@@ -142,7 +142,7 @@ We’ve handpicked Bali’s top-rated accommodations—all with zero negative re
 - [Ketut's Bali Food Cooking Class Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23861-cooking-class-ketut-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D49762d8ba4)
 - [Ubud Cooking Class](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17260-cooking-class-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc9fd495c23)
 - [Pottery Making Class](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F81778-pottery-class-serayu-pottery-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3d74ec6f17)
-- [Sound Healing / Sound Therapy](/blog/ubud-sound-healing/)
+- [Sound Healing / Sound Therapy](/en/blog/ubud-sound-healing/)
 
 ### Yoga Classes
 
@@ -160,21 +160,21 @@ We’ve handpicked Bali’s top-rated accommodations—all with zero negative re
 
 ![戶外活動](https://images.gobaligo.id/vocus/vocus_b9d08056ca87707c17ba42c41712d2da.png)
 
-Bali isn’t just about stunning beaches and luxurious resorts—it’s also packed with a diverse range of outdoor adventures waiting for thrill-seeking travelers to explore. Whether you’re an adrenaline junkie or a nature lover looking to unwind, Bali has something for everyone. Here are six categories featuring 50 popular outdoor activities—click [here](/blog/bali-top-50-outdoor-activities/) to dive in.
+Bali isn’t just about stunning beaches and luxurious resorts—it’s also packed with a diverse range of outdoor adventures waiting for thrill-seeking travelers to explore. Whether you’re an adrenaline junkie or a nature lover looking to unwind, Bali has something for everyone. Here are six categories featuring 50 popular outdoor activities—click [here](/en/blog/bali-top-50-outdoor-activities/) to dive in.
 
 ## Money, Internet & Life Tips
 
-- [Indonesia/Bali Currency Exchange Guide: What currency is used in Bali? How to get the best rates? Where to exchange money?](/blog/bali-currency-exchange-guide/)
-- [【Essential Bali Travel Tips】How to Get Internet/SIM Card/eSIM in Bali?](/blog/bali-sim-card-esim-roaming-guide/)
-- [Indonesia/Bali Travel Must-Read: Complete Guide to Voltage and Plugs!](/blog/bali-voltage-adapter-tips/)
+- [Indonesia/Bali Currency Exchange Guide: What currency is used in Bali? How to get the best rates? Where to exchange money?](/en/blog/bali-currency-exchange-guide/)
+- [【Essential Bali Travel Tips】How to Get Internet/SIM Card/eSIM in Bali?](/en/blog/bali-sim-card-esim-roaming-guide/)
+- [Indonesia/Bali Travel Must-Read: Complete Guide to Voltage and Plugs!](/en/blog/bali-voltage-adapter-tips/)
 
 ## Top 8 Recommended Apps for Bali
 
-Check it out here: [8 Must-Have Apps for Traveling to Indonesia/Bali](/blog/bali-travel-apps-guide/)
+Check it out here: [8 Must-Have Apps for Traveling to Indonesia/Bali](/en/blog/bali-travel-apps-guide/)
 
 ## Packing Tips
 
-- [Do You Need a Jacket in Bali? Bali Packing Guide: 8 Essential Clothing Items for Your Trip](/blog/bali-packing-essentials/)
+- [Do You Need a Jacket in Bali? Bali Packing Guide: 8 Essential Clothing Items for Your Trip](/en/blog/bali-packing-essentials/)
 
 ## Offline Maps
 
@@ -205,4 +205,4 @@ We’ve compiled and continuously updated these over the years—save them to yo
 
 👈 **Back to the Ultimate Bali Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read the '2026 Bali Ultimate Travel Guide'](/blog/bali-ultimate-guide-2026/) and get everything you need to know before you go.
+Want to see the complete beginner's guide? [Click here to read the '2026 Bali Ultimate Travel Guide'](/en/blog/bali-ultimate-guide-2026/) and get everything you need to know before you go.

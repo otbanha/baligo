@@ -33,9 +33,9 @@ Bali, as a tourist destination, is equally suitable for elderly travelers. For s
 
 Check out our featured articles:
 
-- Part 1: [A Guide to Bali for Elderly Travelers - Safety, Comfort, and Considerations](/blog/bali-elderly-travel-guide/)
-- Part 2: [A Comprehensive Guide to Senior-Friendly Travel Destinations in Bali](/blog/bali-senior-friendly-travel-guide/)
-- Part 3: [How Quirky Can Elderly Parents Be? Tips for Traveling Without Regret](/blog/traveling-with-elderly-parents-tips/)
+- Part 1: [A Guide to Bali for Elderly Travelers - Safety, Comfort, and Considerations](/en/blog/bali-elderly-travel-guide/)
+- Part 2: [A Comprehensive Guide to Senior-Friendly Travel Destinations in Bali](/en/blog/bali-senior-friendly-travel-guide/)
+- Part 3: [How Quirky Can Elderly Parents Be? Tips for Traveling Without Regret](/en/blog/traveling-with-elderly-parents-tips/)
 
 ## Advantages
 
@@ -79,14 +79,14 @@ Some attractions or activities may be more suitable for younger individuals and 
 
 When traveling to Bali with elderly family members, here are 10 important considerations to keep in mind:
 
-- **Itinerary Planning**: Choose attractions and activities that suit the mobility of elderly travelers. Refer to: [Senior-Friendly Bali Travel Guide](/blog/bali-senior-friendly-travel-guide/)
+- **Itinerary Planning**: Choose attractions and activities that suit the mobility of elderly travelers. Refer to: [Senior-Friendly Bali Travel Guide](/en/blog/bali-senior-friendly-travel-guide/)
 - **Health Care**: Ensure sufficient water and medications are carried, and avoid prolonged sun exposure.
 - **Safety Awareness**: Remind elderly travelers to stay vigilant, especially in crowded areas.
 - **Comfortable Clothing**: Choose comfortable clothing and shoes to adapt to Bali's climate and terrain.
 - **Adequate Rest**: Allow ample rest time for elderly travelers to avoid overexertion.
 - **Dietary Considerations**: Opt for light and easily digestible meals, avoiding unclean or cold foods. Check out this guide on [Bali Diarrhea: Prevention and Tips](https://youtu.be/B4ngSsTe9sU)
 - **Emergency Preparedness**: Research nearby medical facilities, carry maps, and purchase travel insurance for unexpected situations.
-- **Private Car Hire**: Hiring a private car offers maximum convenience for elderly travelers, eliminating waiting times. Refer to our [Recommended Bali Private Car Drivers](/blog/bali-private-car-drivers-guide/). You can also arrange for a [Chinese-speaking driver/guide](/blog/bali-chinese-tour-guide/).
+- **Private Car Hire**: Hiring a private car offers maximum convenience for elderly travelers, eliminating waiting times. Refer to our [Recommended Bali Private Car Drivers](/en/blog/bali-private-car-drivers-guide/). You can also arrange for a [Chinese-speaking driver/guide](/en/blog/bali-chinese-tour-guide/).
 - **Essential Items**: Carry a waist bag with essentials like medications, passports, and wallets for easy access.
 - **Consult a Doctor**: If elderly travelers have chronic conditions, consult a doctor before the trip.
 
@@ -111,16 +111,16 @@ When traveling to Bali with elderly family members, here are 10 essential items 
 
 Traveling to Bali with elderly family members can be a wonderful experience, but it requires careful planning and thorough preparation!
 
-> Accommodation Recommendation: [Bali Travel: Recommended Family Villas with 3+ Bedrooms](/blog/bali-group-villa-stay/)
+> Accommodation Recommendation: [Bali Travel: Recommended Family Villas with 3+ Bedrooms](/en/blog/bali-group-villa-stay/)
 
-When it comes to visas, if elderly family members are not comfortable with electronic visas, consider opting for a visa on arrival. **Seniors aged 60 and above, as well as infants and young children, can use special lanes when queuing for immigration stamps**, avoiding long waits. If you want the whole family to breeze through customs with minimal waiting, check out our guide: [Quick and Easy! 2024 Bali Automatic Customs Process & Tips](/blog/2025-bali-automatic-customs/).
+When it comes to visas, if elderly family members are not comfortable with electronic visas, consider opting for a visa on arrival. **Seniors aged 60 and above, as well as infants and young children, can use special lanes when queuing for immigration stamps**, avoiding long waits. If you want the whole family to breeze through customs with minimal waiting, check out our guide: [Quick and Easy! 2024 Bali Automatic Customs Process & Tips](/en/blog/2025-bali-automatic-customs/).
 
 Bali offers enchanting attractions and a welcoming culture, making it a memorable adventure for seniors. However, it’s important to consider their health and mobility, plan suitable itineraries, and prepare necessary items. For elderly travelers, respecting local culture, adapting to the climate, and preparing in advance are key to ensuring a smooth and enjoyable trip. Providing a warm environment and attentive care will allow them to fully enjoy the journey and create lasting memories.
 
 ## **Guide to Traveling to Bali with Seniors:**
 
-- Part 1: [Bali Travel Guide for Seniors - Safety, Comfort, and Precautions](/blog/bali-elderly-travel-guide/)
-- Part 2: [Complete Guide to Senior-Friendly Travel Destinations in Bali](/blog/bali-senior-friendly-travel-guide/)
-- Part 3: [How Quirky Can Elderly Parents Be? Tips to Avoid 'Thankless Efforts' When Traveling Abroad](/blog/traveling-with-elderly-parents-tips/)
+- Part 1: [Bali Travel Guide for Seniors - Safety, Comfort, and Precautions](/en/blog/bali-elderly-travel-guide/)
+- Part 2: [Complete Guide to Senior-Friendly Travel Destinations in Bali](/en/blog/bali-senior-friendly-travel-guide/)
+- Part 3: [How Quirky Can Elderly Parents Be? Tips to Avoid 'Thankless Efforts' When Traveling Abroad](/en/blog/traveling-with-elderly-parents-tips/)
 
 ## 📩 **Join the 'Bali Travel Guide' Now and Become a Bali Travel Expert!**

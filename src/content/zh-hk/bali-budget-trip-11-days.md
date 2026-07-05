@@ -39,7 +39,7 @@ _srcHash: 9daaf49dcf9208a4078c69dc8b6fe61c
     - **機場送機**：包車司機免費送至機場
   **快速參考：**
 
-> [2026峇里島入境變革一分鐘搞懂：印尼/峇里島入境流程 - 落飛機/過海關/到拎行李嘅流程](/blog/2025-bali-immigration-process/)
+> [2026峇里島入境變革一分鐘搞懂：印尼/峇里島入境流程 - 落飛機/過海關/到拎行李嘅流程](/zh-hk/blog/2025-bali-immigration-process/)
 
 ## 詳細行程
 
@@ -138,11 +138,11 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 🦒峇里島野生動物園門票▶[Klook優惠](https://affiliate.klook.com/my_ads/text_links?ad_id=988904&type=all)
 
-> 編按：喺峇里島野生動物園隔離，有一個2025年新開幕嘅海洋公園，詳細介紹請睇[呢度](/blog/marine-safari-bali-guide/)
+> 編按：喺峇里島野生動物園隔離，有一個2025年新開幕嘅海洋公園，詳細介紹請睇[呢度](/zh-hk/blog/marine-safari-bali-guide/)
 
 ![遊客可以近距離觸摸鯊魚和魟魚。除此之外還有企鵝、食人魚、水豚君...等，看看我們的介紹喔！](https://images.gobaligo.id/vocus/vocus_d1f018ab990e090d0f3afd49608a82a8.png)
 
-[遊客可以近距離摸鯊魚同魟魚。除此之外仲有企鵝、食人魚、水豚君...等，睇吓我哋嘅介紹啦！](/blog/marine-safari-bali-guide/)
+[遊客可以近距離摸鯊魚同魟魚。除此之外仲有企鵝、食人魚、水豚君...等，睇吓我哋嘅介紹啦！](/zh-hk/blog/marine-safari-bali-guide/)
   ---
 
 ## **第六日（1月6號，星期一）— 自然與文化之旅：水神廟、聖泉寺與德哥拉朗梯田**
@@ -189,7 +189,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 結束梯田之旅後，我哋去咗金巴蘭海灘食晚餐。喺夕陽西下嘅背景下，我哋品嚐咗新鮮嘅海鮮料理，呢頓浪漫嘅晚餐成為咗當日嘅完美結尾。
 **快速參考：**
 
-> [峇里島金巴蘭11家海鮮餐廳：不踩雷推薦](/blog/jimbaran-seafood-restaurants-list/)
+> [峇里島金巴蘭11家海鮮餐廳：不踩雷推薦](/zh-hk/blog/jimbaran-seafood-restaurants-list/)
 >   ---
 
 ## **第七日（1 月 7 日，二）— 海神廟與懸崖酒吧嘅絕美日落**
@@ -205,7 +205,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 🛕🌊🌅海神廟，峇里島必訪嘅日落聖地，欣賞壯麗嘅海景同宗教氛圍 ▶[Klook優惠](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
   **快速參考：**
 
-[海神廟票價、退潮時間、周邊景點介紹](/blog/bali-tanah-lot-guide/)
+[海神廟票價、退潮時間、周邊景點介紹](/zh-hk/blog/bali-tanah-lot-guide/)
 
 ### **午餐：烤豬飯（Babi Guling）**
 
@@ -226,7 +226,7 @@ https://youtube.com/shorts/tHRxnJqxqbw
 
   **快速參考：**
 
-> [峇里島金巴蘭岩石酒吧 Rock Bar 如何預約？完整體驗攻略！](/blog/bali-rock-bar-reservation-guide/)
+> [峇里島金巴蘭岩石酒吧 Rock Bar 如何預約？完整體驗攻略！](/zh-hk/blog/bali-rock-bar-reservation-guide/)
 >   ---
 
 ## **第八日（1 月 8 日，三）— 南灣水上活動大冒險**
@@ -239,7 +239,7 @@ https://youtube.com/shorts/tHRxnJqxqbw
 
 如果有計劃參加南灣嘅水上活動，千祈唔好好似我咁冇事先研究好，結果俾多咗幾倍錢！**務必提前喺網上訂票**，唔單止可以慳返一大筆，仲可以避免到現場俾人當「水魚」嘅情況。
 
-## 延伸閱讀：[峇里島南灣水上活動介紹](/blog/tanjung-benoa-water-activities/)
+## 延伸閱讀：[峇里島南灣水上活動介紹](/zh-hk/blog/tanjung-benoa-water-activities/)
 
 🏖️🌊🚤南灣水上活動，拖曳傘、浮潛、海底漫步、香蕉船體驗 ▶[Klook優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E4%25B8%25B9%25E6%2588%258E%25E8%25B2%259D%25E8%25AB%25BE%25E7%2593%25A6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3D4376a16ccb)  ▶[Trip優惠](https://tw.trip.com/travel-guide/attraction/bali/tanjung-benoa-watersports-33461755?curr=IDR&locale=zh-TW&poiType=3&ext-searchpage=1&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
   ---
@@ -282,8 +282,8 @@ https://youtu.be/hdIKOX5wghU
 
   **快速參考：**
 
-- [峇里島水明漾100個景點攻略](/blog/seminyak-guide/)
-- [沙努爾50項吃喝玩樂攻略](/blog/sanur-guide/)
+- [峇里島水明漾100個景點攻略](/zh-hk/blog/seminyak-guide/)
+- [沙努爾50項吃喝玩樂攻略](/zh-hk/blog/sanur-guide/)
   ---
 
 ## **第十一日（1月11日，六）— 結束愉快嘅旅程**
@@ -294,7 +294,7 @@ https://youtu.be/hdIKOX5wghU
 
 - **按摩體驗**：熱石按摩同精油按摩，司機推薦，品質保證且價格優惠。我哋喺旅程中安排咗兩次按摩，第一次係熱石按摩，第二次係精油按摩，兩次體驗都非常正，讓我哋徹底放鬆身心。
 
-💆‍♀️🌿🕯️喺峇里島享受一次超放鬆嘅 SPA ，搭配芳香療法同熱石按摩 😌，讓身心徹底舒緩！▶[各區域嘅好評SPA推薦](/blog/spa/)
+💆‍♀️🌿🕯️喺峇里島享受一次超放鬆嘅 SPA ，搭配芳香療法同熱石按摩 😌，讓身心徹底舒緩！▶[各區域嘅好評SPA推薦](/zh-hk/blog/spa/)
 
 - **包車服務**：推薦使用包車司機，可以根據個人喜好規劃行程，司機會提供最佳路線建議。我哋嘅司機Ok Bali非常專業，中文流利，仲會講解峇里島嘅歷史同文化，令我哋對呢個地方有更深嘅了解。
 
@@ -304,7 +304,7 @@ https://youtu.be/hdIKOX5wghU
 
 右手邊係我哋呢幾日嘅司機，佢個名就叫「Ok」。體貼、細心、唔飆車、唔食煙、守時嘅Ok司機 - 其實有超多優點。
 
-🚗👨‍✈️🌴喺峇里島旅遊，包車司機係你嘅最佳旅伴！佢哋熟悉當地路線，熱情又專業，帶你暢遊峇里島 ▶[包車司機推薦名人榜](/blog/bali-private-car-drivers-guide/)
+🚗👨‍✈️🌴喺峇里島旅遊，包車司機係你嘅最佳旅伴！佢哋熟悉當地路線，熱情又專業，帶你暢遊峇里島 ▶[包車司機推薦名人榜](/zh-hk/blog/bali-private-car-drivers-guide/)
 
 ## 結語
 
@@ -316,6 +316,6 @@ https://youtu.be/hdIKOX5wghU
 
 點擊呢度觀看更多峇里島精彩遊記
 
-你都想寫遊記但唔知點落手嗎？可以參考一下「[如何寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更出彩！
+你都想寫遊記但唔知點落手嗎？可以參考一下「[如何寫一篇精彩嘅峇里島遊記](/zh-hk/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更出彩！
 
 {{block:攻略}}

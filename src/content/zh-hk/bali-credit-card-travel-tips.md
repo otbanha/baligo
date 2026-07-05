@@ -46,14 +46,14 @@ _srcHash: 0567f1eda236f8003de556dbc5350a67
 6. **過度消費：** 用信用卡支付可能會讓您失去對消費嘅控制，導致過度消費。請謹慎用信用卡，避免因旅行而產生過多債務，影響您嘅旅行體驗。
 7. **不可預知嘅狀況：** 即使係平時運作正常嘅信用卡，喺峇里島亦都可能遭遇意想不到嘅狀況。我哋嘅Facebook社團就曾經有團友分享親身經歷：某張信用卡喺前幾日都能正常使用，卻喺一間高檔餐廳食飯埋單時突然無法碌卡，當下身上又冇帶足夠現金，只能焦急地喺餐廳內等待救援。好彩該團友最終獲得其他Facebook團友及時前往支援，順利解決困境。（[請睇呢度](https://www.facebook.com/share/p/17GvUqdNkW/)）呢個案例提醒我哋，喺異國旅遊時多一份準備，就能避免陷入尷尬處境。
 
-> 延伸閱讀：[峇里島旅遊預算指南：睇懂價格中嘅「K」如何幫助您控制預算](/blog/bali-budget-tips-k-explained/)
+> 延伸閱讀：[峇里島旅遊預算指南：睇懂價格中嘅「K」如何幫助您控制預算](/zh-hk/blog/bali-budget-tips-k-explained/)
 
-> 延伸閱讀：[遊峇里島必知：提防刷卡結帳嘅陷阱](/blog/bali-credit-card-payment-tips/)
+> 延伸閱讀：[遊峇里島必知：提防刷卡結帳嘅陷阱](/zh-hk/blog/bali-credit-card-payment-tips/)
 
-> 延伸閱讀：[印尼峇里島旅遊慳錢大作戰！19個巴里島旅遊慳錢秘訣攻略](/blog/bali-travel-money-saving-tips/)
+> 延伸閱讀：[印尼峇里島旅遊慳錢大作戰！19個巴里島旅遊慳錢秘訣攻略](/zh-hk/blog/bali-travel-money-saving-tips/)
 
-> 延伸閱讀：[旅行購物必知：安全又便利嘅消費指南](/blog/travel-shopping-safety/)
+> 延伸閱讀：[旅行購物必知：安全又便利嘅消費指南](/zh-hk/blog/travel-shopping-safety/)
 
-> 延伸閱讀：[峇里島旅遊要準備幾多現金？](/blog/bali-travel-cash-budget-guide/)
+> 延伸閱讀：[峇里島旅遊要準備幾多現金？](/zh-hk/blog/bali-travel-cash-budget-guide/)
 
 為咗避免唔必要嘅開支，建議你去峇里島旅行之前，仔細睇清楚你信用卡嘅條款同條件，了解相關嘅匯率轉換費用同海外交易手續費，再根據你嘅需要揀最適合嘅支付方式。有時，帶啲印尼盾現金可能會更加方便同慳錢。所以，喺旅行中多元化支付方式可能係一個明智嘅選擇。

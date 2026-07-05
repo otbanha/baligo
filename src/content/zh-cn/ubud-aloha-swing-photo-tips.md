@@ -33,6 +33,6 @@ https://youtu.be/_Lvp9cIVYz8
 
 ## 更多乌布秋千介绍
 
-> [【乌布秋千攻略】8 大最美丛林秋千推荐：租礼服技巧、拍照角度与避开人潮全指南](/blog/ubud-jungle-swings-photo-guide/)
+> [【乌布秋千攻略】8 大最美丛林秋千推荐：租礼服技巧、拍照角度与避开人潮全指南](/zh-cn/blog/ubud-jungle-swings-photo-guide/)
 
 {{block:ubud}}

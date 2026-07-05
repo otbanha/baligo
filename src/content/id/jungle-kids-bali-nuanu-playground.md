@@ -131,4 +131,4 @@ Kalau kamu lagi rencana liburan ke Bali bareng anak dan pengen ada aktivitas khu
 
 Nuanu Creative City adalah kawasan kreatif terbaru di Bali yang mengusung konsep zero carbon, jadi destinasi wisata berkelanjutan paling hits. Sekarang udah mulai menarik para kreator global, wajib masuk bucket list!
 
-Panduan lengkap spot-spot di Nuanu Creative City bisa cek [di sini](/blog/nuanu-creative-city-luna-guide/)
+Panduan lengkap spot-spot di Nuanu Creative City bisa cek [di sini](/id/blog/nuanu-creative-city-luna-guide/)

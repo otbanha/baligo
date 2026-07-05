@@ -116,12 +116,12 @@ Bali Beach Hotel completely changed my perception of high-value accommodations! 
 
 ![More Sanur Food and Fun](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
-[Family Vacation Guide to Sanur](/blog/sanur-guide/)
+[Family Vacation Guide to Sanur](/en/blog/sanur-guide/)
 
-Sanur is a tranquil seaside town on Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. With family-friendly resorts, traditional markets, and a wealth of local cuisine, it's an ideal destination for those seeking a slower pace and cultural exploration. Whether strolling along the coastline or immersing yourself in local charm, Sanur offers an incredibly relaxing holiday experience! Want to learn more about Sanur? [Click here](/blog/sanur-guide/).
+Sanur is a tranquil seaside town on Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. With family-friendly resorts, traditional markets, and a wealth of local cuisine, it's an ideal destination for those seeking a slower pace and cultural exploration. Whether strolling along the coastline or immersing yourself in local charm, Sanur offers an incredibly relaxing holiday experience! Want to learn more about Sanur? [Click here](/en/blog/sanur-guide/).
 
 ## Other Accommodation Recommendations in Sanur
 
-[Collection of 22 Resorts/Villas in Sanur, from Luxury to Budget Options](/blog/sanur-luxury-budget-resorts/)
+[Collection of 22 Resorts/Villas in Sanur, from Luxury to Budget Options](/en/blog/sanur-luxury-budget-resorts/)
 
 {{block:住宿}}

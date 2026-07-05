@@ -44,9 +44,9 @@ However, with so many options, it can be hard to decide. That's why we've compil
 
 ![水明漾攻略](https://images.gobaligo.id/vocus/vocus_69da4a058e0bb55e0fb1761369904f12.png)
 
-[Seminyak Guide](/blog/seminyak-guide/)
+[Seminyak Guide](/en/blog/seminyak-guide/)
 
-Seminyak is not only famous for its fantastic beach clubs but also for its vibrant nightlife and fashionable shopping scene, featuring numerous high-quality restaurants, cafes, and home decor stores. If you want to explore Seminyak's food and entertainment scene in depth, don't miss our '[Seminyak 60 Must-Try Guide](/blog/seminyak-guide/)'. This guide will take you through every corner of Seminyak, from hidden culinary gems to unmissable entertainment activities, allowing you to fully enjoy this lively tropical paradise.
+Seminyak is not only famous for its fantastic beach clubs but also for its vibrant nightlife and fashionable shopping scene, featuring numerous high-quality restaurants, cafes, and home decor stores. If you want to explore Seminyak's food and entertainment scene in depth, don't miss our '[Seminyak 60 Must-Try Guide](/en/blog/seminyak-guide/)'. This guide will take you through every corner of Seminyak, from hidden culinary gems to unmissable entertainment activities, allowing you to fully enjoy this lively tropical paradise.
 
 Here we introduce seven beach clubs in Seminyak that you can't miss:
 
@@ -76,7 +76,7 @@ Ku De Ta's menu offers a range of modern European and Asian dishes, with all ing
 - **Menu Price Range**: Mains start at Rp. 150,000 (approx. $10); drinks start at Rp. 85,000 (approx. $5.70)
 - **Address**: Jl. Kayu Aya No.9, Seminyak, Kuta Utara, Kabupaten Badung, Bali 80361
 - **Opening Hours**: Mon-Sun 8am-12am
-- **Details & Online Reservations**: [Click Here](/blog/ku-de-ta-beach-club/)
+- **Details & Online Reservations**: [Click Here](/en/blog/ku-de-ta-beach-club/)
 
 ### **Mano Beach House**
 
@@ -155,9 +155,9 @@ SugarSand Beach Club is another beach club offering free entry. A popular featur
 
 ![50個長谷必遊景點](https://images.gobaligo.id/vocus/vocus_3905282615174c989730b6dedf9b0462.png)
 
-[50 Must-Visit Spots in Canggu](/blog/canggu-guide/)
+[50 Must-Visit Spots in Canggu](/en/blog/canggu-guide/)
 
-Canggu has quickly become one of Bali's most popular areas, attracting visitors and locals from around the world. It blends a laid-back beach vibe, rich cultural experiences, and mouthwatering cuisine. If you're planning a trip to Canggu and want to dive deep into its essence, the "[Canggu Food, Drink, and Fun Guide](/blog/canggu-guide/)" is your best companion. This guide will help you discover the best dining spots, trendy cafes, and hidden leisure spots, ensuring you don't miss a single highlight of this tropical paradise.
+Canggu has quickly become one of Bali's most popular areas, attracting visitors and locals from around the world. It blends a laid-back beach vibe, rich cultural experiences, and mouthwatering cuisine. If you're planning a trip to Canggu and want to dive deep into its essence, the "[Canggu Food, Drink, and Fun Guide](/en/blog/canggu-guide/)" is your best companion. This guide will help you discover the best dining spots, trendy cafes, and hidden leisure spots, ensuring you don't miss a single highlight of this tropical paradise.
 
 Next, let’s introduce four beach clubs in Canggu with free entry:
 
@@ -224,13 +224,13 @@ This charming beach club exudes luxury at every turn, yet it doesn't alienate an
 
 ![金巴蘭攻略](https://images.gobaligo.id/vocus/vocus_7b012a6bf68feb9c64a9b45faa636c93.png)
 
-[Jimbaran Guide](/blog/jimbaran-guide/)
+[Jimbaran Guide](/en/blog/jimbaran-guide/)
 
-Jimbaran and Uluwatu are two captivating regions in Bali, each offering unique landscapes and cultural vibes. In Jimbaran, you can immerse yourself in world-famous seafood barbecues and breathtaking sunset views, while Uluwatu is renowned for its dramatic cliffside scenery and sacred temples. If you're planning to explore these two areas, don't forget to check out my "[Jimbaran Guide](/blog/jimbaran-guide/)" and "[Uluwatu Guide](/blog/uluwatu-guide/)". These guides will take you through every must-see spot, allowing you to deeply experience the charm of these regions.
+Jimbaran and Uluwatu are two captivating regions in Bali, each offering unique landscapes and cultural vibes. In Jimbaran, you can immerse yourself in world-famous seafood barbecues and breathtaking sunset views, while Uluwatu is renowned for its dramatic cliffside scenery and sacred temples. If you're planning to explore these two areas, don't forget to check out my "[Jimbaran Guide](/en/blog/jimbaran-guide/)" and "[Uluwatu Guide](/en/blog/uluwatu-guide/)". These guides will take you through every must-see spot, allowing you to deeply experience the charm of these regions.
 
 ![烏魯瓦圖攻略](https://images.gobaligo.id/vocus/vocus_9b74c552d436546c4da5ea78ebaa7c29.png)
 
-[Uluwatu Guide](/blog/uluwatu-guide/)
+[Uluwatu Guide](/en/blog/uluwatu-guide/)
 
 Next, we'll introduce you to the top beach clubs in these two areas, where you can enjoy unparalleled luxury along this heavenly coastline:
 
@@ -343,9 +343,9 @@ White Rock Beach Club is located at Melasti Beach in Bali, with its cliffside de
 
 ![努沙杜瓦攻略](https://images.gobaligo.id/vocus/vocus_d537f2ae8e07b44853881442ee5713c8.png)
 
-[Nusa Dua Guide](/blog/nusa-dua-guide/)
+[Nusa Dua Guide](/en/blog/nusa-dua-guide/)
 
-Nusa Dua is renowned for its tranquil white sand beaches and luxurious resorts, making it one of Bali's most ideal leisure destinations. If you happen to be staying nearby, the '[Nusa Dua Guide](/blog/nusa-dua-guide/)' is a must-read travel guide. From high-end resorts to cultural attractions, this guide will help you explore every highlight of Nusa Dua and plan the perfect vacation.
+Nusa Dua is renowned for its tranquil white sand beaches and luxurious resorts, making it one of Bali's most ideal leisure destinations. If you happen to be staying nearby, the '[Nusa Dua Guide](/en/blog/nusa-dua-guide/)' is a must-read travel guide. From high-end resorts to cultural attractions, this guide will help you explore every highlight of Nusa Dua and plan the perfect vacation.
 
 If you're interested in the beach clubs here, keep reading. I'll introduce you to the most worthwhile beach clubs in Nusa Dua, ensuring you enjoy unparalleled leisure time on this serene coastline!
 

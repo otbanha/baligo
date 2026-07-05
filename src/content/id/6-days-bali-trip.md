@@ -56,13 +56,13 @@ Kepercayaan yang aku berikan lebih awal ini terbayar banget. Ani bukan cuma pema
 
 ![Jiwa Petualang:](https://images.gobaligo.id/vocus/vocus_ac018a86bbb625114fb5312631d10213.jpg)
 
-> **Referensi Cepat:** [Petualangan di Bali: Catatan Lengkap Tur Sunrise Jeep Gunung Batur](/blog/batur-volcano-jeep-sunrise-tour/)
+> **Referensi Cepat:** [Petualangan di Bali: Catatan Lengkap Tur Sunrise Jeep Gunung Batur](/id/blog/batur-volcano-jeep-sunrise-tour/)
 
 - **ATV Kuber:** Naik ATV melewati hutan, lumpur, dan pematang sawah, rasakan adrenalin yang naik turun dan keseruan murni.
 
 https://youtube.com/shorts/lz69CKyTYLk
 
-> **Referensi Cepat:** [Petualangan ATV di Bali: Rasakan Sensasi dan Kebebasan di Surga Tropis (Tips + FAQ + Rekomendasi Operator)](/blog/bali-atv-adventure-guide/)
+> **Referensi Cepat:** [Petualangan ATV di Bali: Rasakan Sensasi dan Kebebasan di Surga Tropis (Tips + FAQ + Rekomendasi Operator)](/id/blog/bali-atv-adventure-guide/)
 
 - **Mari Beach Club:** Beach club keren di Seminyak yang terkenal dengan suasananya yang santai dan pengalaman kuliner berkualitas.
 
@@ -76,7 +76,7 @@ https://youtube.com/shorts/lz69CKyTYLk
 
 https://youtube.com/shorts/BORrtY6fafs
 
-> **Referensi cepat:** [【Pengalaman Paralayang di Bali】Terbang di Uluwatu! Pemandangan laut super cantik + tips penting](/blog/uluwatu-paragliding-ocean-view/)
+> **Referensi cepat:** [【Pengalaman Paralayang di Bali】Terbang di Uluwatu! Pemandangan laut super cantik + tips penting](/id/blog/uluwatu-paragliding-ocean-view/)
 
 - **Jalan Tanah Barak:** Bayar tiket masuk yang murah, kamu bisa berdiri di tembok raksasa yang menjorok ke laut, ambil foto pemandangan sepi yang kayak ujung dunia.
 
@@ -84,7 +84,7 @@ https://youtube.com/shorts/BORrtY6fafs
 
 ![Jiwa Petualang:](https://images.gobaligo.id/vocus/vocus_2e1bf7f65cd7d7bb67c5abbd8dc732ad.jpg)
 
-> **Referensi cepat:** [Batu Barak/Tanah Barak: Perjalanan Indah ke Jalan Biru / Tebing](/blog/batu-barak-cliff-road/)
+> **Referensi cepat:** [Batu Barak/Tanah Barak: Perjalanan Indah ke Jalan Biru / Tebing](/id/blog/batu-barak-cliff-road/)
 
 ### **🛕 Budaya & Belanja:**
 
@@ -102,7 +102,7 @@ https://youtube.com/shorts/BORrtY6fafs
 
 - **Montana Del Cafe：** Nikmatin sarapan sambil dikelilingi pemandangan danau kawah yang bikin adem banget.
 
-> [Rekomendasi 13 Kafe Vulkanik dengan Pemandangan Gunung Api di Kintamani, Bali 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
+> [Rekomendasi 13 Kafe Vulkanik dengan Pemandangan Gunung Api di Kintamani, Bali 🌄☕](/id/blog/kintamani-volcano-cafes-restaurants/)
 
 - **D'tukad Coffee Club：** Kolam renang infinity dan air terjun yang menggantung di atas hutan, tempat wajib buat foto aesthetic dan santai.
 
@@ -144,7 +144,7 @@ https://youtube.com/shorts/exdiGPLkVjw
 
 Hari terakhir, kita balik dari Nusa Lembongan ke **Pelabuhan Sanur**. Kita inget tips dari pengalaman online—transportasi di sekitar pelabuhan agak susah—jadi kita hubungi Ani lagi, pesan jemputan sekali jalan ke **Beachwalk Shopping Center** di Kuta. Keputusan ini tepat banget. Sopir udah nunggu di luar dermaga tepat waktu, kita juga minta dia mampir sebentar ke Bali Banana buat belanja terakhir. Perjalanan sekitar 40 menit, bayar sekitar USD$19, tapi yang kita dapet adalah ketenangan paling berharga saat bawa koper.
 
-> [【Panduan Wisata Nusa Lembongan/Ceningan】Jelajahi Tempat Wisata, Kuliner, Transportasi Nusa Lembongan/Ceningan: Surga di Dekat Bali](/blog/nusa-lembongan-ceningan-guide/)
+> [【Panduan Wisata Nusa Lembongan/Ceningan】Jelajahi Tempat Wisata, Kuliner, Transportasi Nusa Lembongan/Ceningan: Surga di Dekat Bali](/id/blog/nusa-lembongan-ceningan-guide/)
 
 ## Kesimpulan: Lebih dari Sekali yang Indah
 
@@ -162,6 +162,6 @@ Kamu pikir itinerary [廖苡妏](https://www.facebook.com/share/p/1CjoK9BEFX/) m
 
 Klik di sini buat lihat lebih banyak [cerita seru liburan di Bali](/blog?cat=%E9%81%8A%E8%A8%98%E5%88%86%E4%BA%AB)
 
-Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
+Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
 
 {{block:攻略}}

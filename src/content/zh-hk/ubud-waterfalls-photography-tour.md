@@ -30,7 +30,7 @@ _srcHash: d9a16fe8a42077ecf9881ee87a62ec22
 
 ![出發前嘅準備](https://images.gobaligo.id/vocus/vocus_25c77ae3894da2cae177666ebed9781f.jpg)
 
-想了解更多庫塔攻略？[請點擊這裡](/blog/2023-12-13-657598bdfd8978000120fe20/)
+想了解更多庫塔攻略？[請點擊這裡](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 峇里島攝影師一日遊共有三個行程可選：**峇里島東部**、**烏布同瀑布**、同埋**峇里島北部**。經過同旅伴嘅討論後，我哋選擇咗「烏布同瀑布」路線，呢個選擇等我哋可以體驗峇里島最具代表性嘅文化景點同自然美景。
 
@@ -81,7 +81,7 @@ _srcHash: d9a16fe8a42077ecf9881ee87a62ec22
 
 ![第三站：蒂布馬納瀑布](https://images.gobaligo.id/vocus/vocus_e4e3b5818941b29c25a2d591ec46a08d.jpg)
 
-想了解更多烏布攻略？[請點擊呢度](/blog/ubud-guide/)
+想了解更多烏布攻略？[請點擊呢度](/zh-hk/blog/ubud-guide/)
 
 ## 回程 - 15:00返庫塔
 

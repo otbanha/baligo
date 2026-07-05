@@ -123,6 +123,6 @@ _srcHash: 7c102224a94be118010778d3f71bccfd
 
 **快速參考：**
 
-- [印尼/峇里島旅遊換匯懶人包](/blog/bali-currency-exchange-guide/)
-- [峇里島美金匯率：大鈔定細鈔？換匯攻略大公開！](/blog/bali-usd-exchange-rate/)
-- [印尼/峇里島換匯：直接換 vs 先換美金再換印尼盾，邊個抵？](/blog/bali-currency-exchange-tips/)
+- [印尼/峇里島旅遊換匯懶人包](/zh-hk/blog/bali-currency-exchange-guide/)
+- [峇里島美金匯率：大鈔定細鈔？換匯攻略大公開！](/zh-hk/blog/bali-usd-exchange-rate/)
+- [印尼/峇里島換匯：直接換 vs 先換美金再換印尼盾，邊個抵？](/zh-hk/blog/bali-currency-exchange-tips/)

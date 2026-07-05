@@ -48,7 +48,7 @@ Dia bisa:
 - **15:20**: Tiba di Bandara Bali, siap mulai petualangan. Driver bilang meski musim hujan, udah lama nggak hujan.
 - **16:00**: Sampai bandara, tukar uang lokal. Saran: cari tempat penukaran yang terpercaya.
 
-> (Baca juga: [Panduan Lengkap Seputar Penukaran Uang yang Wajib Kamu Tahu](/blog/bali-currency-exchange-guide/))
+> (Baca juga: [Panduan Lengkap Seputar Penukaran Uang yang Wajib Kamu Tahu](/id/blog/bali-currency-exchange-guide/))
 
 - **18:00**: Cobain bebek tepi sawah sambil duduk di gazebo air — pilihan terbaik di [Bebek Tebasari Resto](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89252-bebek-tepi-sawah-dining-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6380339e0f). Restoran ini benar-benar worth it banget.
 
@@ -66,7 +66,7 @@ Hujan deras turun dari jam 5 pagi sampai jam 2 siang, tapi nggak bikin semangat 
 
 > [Arung Jeram Sungai Ayung](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)[Arung Jeram Sungai Ayung (termasuk antar jemput)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
 
-Referensi cepat: [Panduan Arung Jeram di Bali (FAQ seputar arung jeram)](/blog/bali-rafting-ayung-telaga-waja/)
+Referensi cepat: [Panduan Arung Jeram di Bali (FAQ seputar arung jeram)](/id/blog/bali-rafting-ayung-telaga-waja/)
 
 - **13:00**: Nikmatin makan siang yang enak sambil lihat pemandangan sawah terasering di samping Tis Cafe.
 
@@ -88,7 +88,7 @@ Ubud市區攻略：Tukies Coconut Shop在哪兒？市區逛什麼？
 
 在Ubud度過毛毛雨的上午，然後前往Penida島
 
-- **09:00** [Omma Dayclub](/blog/ubud-omma-dayclub-tegenungan-waterfall/) Bali瀑布+午餐
+- **09:00** [Omma Dayclub](/id/blog/ubud-omma-dayclub-tegenungan-waterfall/) Bali瀑布+午餐
 
 ![Omma Dayclub  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_699d0a9f7a85019dac97b82980480d3f.jpg)
 
@@ -104,7 +104,7 @@ Atuh Beach  foto: Sophie
 
 - **15:00** : Di Penida nikmatin sore dan petang yang cerah.
 
-> (Baca juga: [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)）
+> (Baca juga: [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)）
 
 ## 1/21 Hari Keempat: Eksplorasi Pulau Nusa Penida
 
@@ -112,7 +112,7 @@ Hari ini dihabiskan di Pulau Nusa Penida
 
 - **07:00** : Snorkeling di dekat hotel.
 
-> (Baca juga: [Panduan Snorkeling Nusa Penida, Cara Ikut Snorkeling?](/blog/nusa-penida-snorkeling-guide/))
+> (Baca juga: [Panduan Snorkeling Nusa Penida, Cara Ikut Snorkeling?](/id/blog/nusa-penida-snorkeling-guide/))
 
 - **09:00** : Kunjungi Kelingking Beach, jelajahi pantai peri.
 - **13:00** : Jelajahi Broken Beach dan Angel's Billabong, lihat pemandangan alam yang spektakuler.
@@ -122,7 +122,7 @@ Hari ini dihabiskan di Pulau Nusa Penida
 
 Sky gate tanpa antre  foto: Sophie
 
-（延伸閱讀：[Amarta Penida介紹](/blog/nusa-penida-best-restaurants/)）
+（延伸閱讀：[Amarta Penida介紹](/id/blog/nusa-penida-best-restaurants/)）
 
 ## 1/22 第五天：Nusa Penida島和Jimbaran
 
@@ -135,7 +135,7 @@ Diamond Beach 圖：Sophie提供
 
 - **17:00**：回到Bali，在Jimbaran海灘享用美味晚餐+烤玉米，還有超夢幻的夕陽，結束一天的旅程。
 
-（延伸閱讀：[Jimbaran九家海鮮餐廳推薦](/blog/jimbaran-guide/)）
+（延伸閱讀：[Jimbaran九家海鮮餐廳推薦](/id/blog/jimbaran-guide/)）
 
 ![金巴蘭夕陽晚餐  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_0b40e77d3c97f550983e107d821f854b.jpg)
 
@@ -152,12 +152,12 @@ Wahaha吃過的都說讚！
 
 Yang jago tahu banget kalau belanja oleh-oleh wajib mampir ke Prema Rasa.
 
-**Referensi Cepat:** [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Rekomendasi Oleh-Oleh Bali: Pilihan Terbaik untuk Mengabadikan Kenangan Berharga](/blog/bali-souvenirs-gift-guide/)
+**Referensi Cepat:** [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Rekomendasi Oleh-Oleh Bali: Pilihan Terbaik untuk Mengabadikan Kenangan Berharga](/id/blog/bali-souvenirs-gift-guide/)
 
 - **14:30** Berangkat ke bandara. Keuntungan menghabiskan hari terakhir di sekitar Kuta, Jimbaran adalah "kamu nggak perlu khawatir ketinggalan pesawat"!
 
-> （Baca Juga: [Panduan Wisata Kuta: 50 Tempat Wajib Kunjungi, Kuliner, & Rekomendasi SPA Lengkap](/blog/2023-12-13-657598bdfd8978000120fe20/)）  
-> （Baca Juga: [Panduan Liburan Jimbaran: 31 Rekomendasi Tempat Wisata Lengkap](/blog/jimbaran-guide/)）
+> （Baca Juga: [Panduan Wisata Kuta: 50 Tempat Wajib Kunjungi, Kuliner, & Rekomendasi SPA Lengkap](/id/blog/2023-12-13-657598bdfd8978000120fe20/)）  
+> （Baca Juga: [Panduan Liburan Jimbaran: 31 Rekomendasi Tempat Wisata Lengkap](/id/blog/jimbaran-guide/)）
 
 - **16:30**：Pamit dari Bali, terbang tepat waktu.
 

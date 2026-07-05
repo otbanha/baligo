@@ -39,7 +39,7 @@ Although Bali is an island, it is actually quite large and diverse, offering eve
 
 Try to reduce frequent changes in accommodation to avoid wasting time packing and moving, which can leave you exhausted.
 
-On the other hand, if you don't mind packing and changing accommodations frequently and want a quick tour of Bali's highlights, check out our '[Ultimate Bali Guide: Transportation, Accommodation, Attractions, Food, Shopping, Spa, Nightlife, and Comprehensive Planning](/blog/bali-free-travel-guide/)'.
+On the other hand, if you don't mind packing and changing accommodations frequently and want a quick tour of Bali's highlights, check out our '[Ultimate Bali Guide: Transportation, Accommodation, Attractions, Food, Shopping, Spa, Nightlife, and Comprehensive Planning](/en/blog/bali-free-travel-guide/)'.
 
 ### 2. Only Visiting "Instagram Hotspots"
 
@@ -51,7 +51,7 @@ Popular attractions are often packed with tourists
 
 Instead of solely focusing on these hotspots, consider exploring some hidden gems. For inspiration, check out:
 
-"[2026 Bali Must-Visit Attractions Guide: Discover 500 Latest Popular Spots](/blog/bali-top-500-attractions/)"
+"[2026 Bali Must-Visit Attractions Guide: Discover 500 Latest Popular Spots](/en/blog/bali-top-500-attractions/)"
 
 Balance your itinerary to capture those Instagram-perfect shots while also enjoying a truly peaceful travel experience.
 
@@ -63,9 +63,9 @@ To avoid delays in your return due to weather-related boat cancellations, it's a
 
 Further Reading:
 
->[Complete Nusa Penida Guide: Maps, Boat Trips, Accommodation, Transportation, Private Cars, Activities, Photography, and Attractions](/blog/nusa-penida-guide/)]
+>[Complete Nusa Penida Guide: Maps, Boat Trips, Accommodation, Transportation, Private Cars, Activities, Photography, and Attractions](/en/blog/nusa-penida-guide/)]
 
-> [Island Hopping from Bali to Nusa Penida/Lembongan/Gili Islands/Lombok? How and Where to Buy Speedboat Tickets?](/blog/bali-island-hopping-guide/)
+> [Island Hopping from Bali to Nusa Penida/Lembongan/Gili Islands/Lombok? How and Where to Buy Speedboat Tickets?](/en/blog/bali-island-hopping-guide/)
 
 ### 4. Staying Only in the Southern Region
 
@@ -75,7 +75,7 @@ Explore lesser-known regions to discover a more authentic Bali:
 
 - Ubud: The cultural and artistic heart of Bali, perfect for immersing yourself in local culture.
 - Amed: A paradise for diving and snorkeling, with breathtaking underwater scenery.
-- **North Bali**: Escape the crowds in the northern part of the island, where you'll find stunning beaches and coral reefs. Check out the [North Bali Travel Guide](/blog/north-bali-travel-guide/)
+- **North Bali**: Escape the crowds in the northern part of the island, where you'll find stunning beaches and coral reefs. Check out the [North Bali Travel Guide](/en/blog/north-bali-travel-guide/)
 
 {{block:攻略}}
 
@@ -87,12 +87,12 @@ Explore lesser-known regions to discover a more authentic Bali:
 
 Choose alternative accommodation areas based on your needs:
 
-- [**Seminyak**](/blog/seminyak-guide/): Home to many stylish boutique hotels and upscale restaurants, perfect for those seeking a refined vacation.
-- [**Canggu**](/blog/canggu-guide/): Known as a surfing paradise, with a laid-back vibe and charming cafes, ideal for younger travelers.
-- [**Sanur**](/blog/sanur-guide/): Quieter than Kuta, suitable for families and travelers looking to escape the hustle and bustle.
-- [**Nusa Dua**](/blog/nusa-dua-guide/): If you love five-star resorts and private beaches, this is the perfect choice.
+- [**Seminyak**](/en/blog/seminyak-guide/): Home to many stylish boutique hotels and upscale restaurants, perfect for those seeking a refined vacation.
+- [**Canggu**](/en/blog/canggu-guide/): Known as a surfing paradise, with a laid-back vibe and charming cafes, ideal for younger travelers.
+- [**Sanur**](/en/blog/sanur-guide/): Quieter than Kuta, suitable for families and travelers looking to escape the hustle and bustle.
+- [**Nusa Dua**](/en/blog/nusa-dua-guide/): If you love five-star resorts and private beaches, this is the perfect choice.
 
-Further Reading: [The Most Convenient Place to Stay in Bali, But Not Recommended! What Are the Pros and Cons of Kuta Area in Bali?](/blog/kuta-bali-accommodation-pros-cons/)
+Further Reading: [The Most Convenient Place to Stay in Bali, But Not Recommended! What Are the Pros and Cons of Kuta Area in Bali?](/en/blog/kuta-bali-accommodation-pros-cons/)
 
 By the way! We’ve introduced 300 reliable "[**Bali Accommodation Recommendations**](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)" — definitely check them out!
 
@@ -126,7 +126,7 @@ Some areas in Bali may pose a risk of credit card fraud, so it's recommended to 
 - **Use electronic payments**: Whenever possible, use e-wallets like Gojek to reduce the use of physical cards.
   **Quick Reference**:
 
-> [Comprehensive Guide to Registering, Using, and Topping Up Gojek and GoPay in Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
+> [Comprehensive Guide to Registering, Using, and Topping Up Gojek and GoPay in Indonesia/Bali](/en/blog/indonesia-gojek-gopay-guide/)
 
 ### 8. Mosquito Protection
 
@@ -154,7 +154,7 @@ https://youtube.com/shorts/bqtCP1YoKCM
 - **Carry a raincoat**: A lightweight raincoat is more practical than an umbrella, as the rain comes suddenly and is often accompanied by strong winds.
 - **Plan morning activities**: The weather is usually more stable in the morning, so it's advisable to schedule outdoor activities before noon to avoid sudden afternoon showers.
 
-Quick reference: [Must-see for escaping rain and sun! 60 amazing indoor activities: From newly opened malls, five-star afternoon teas to top-notch hands-on experiences](/blog/2026-bali-indoor-activities/)
+Quick reference: [Must-see for escaping rain and sun! 60 amazing indoor activities: From newly opened malls, five-star afternoon teas to top-notch hands-on experiences](/en/blog/2026-bali-indoor-activities/)
 
 ### 10. Monkey Safety Guidelines
 
@@ -182,7 +182,7 @@ Bali is a cultural hub of Hinduism, where locals place great importance on relig
 - **Temple Dress Code**: When entering temples, dress modestly and wear a sarong (temples usually offer free rentals).
 - **Avoid Stepping on Offerings**: On the streets of Bali, you’ll often see small basket-like offerings. These are daily offerings made by locals, so be sure to avoid stepping on them.
 
-Further Reading: [Understanding Bali’s Offering Rituals: Canang Sari](/blog/bali-canang-sari-explained/)
+Further Reading: [Understanding Bali’s Offering Rituals: Canang Sari](/en/blog/bali-canang-sari-explained/)
 
 - **Taboo Behaviors**: Do not touch someone’s head, as it is considered disrespectful in local culture. Additionally, using your left hand to pass items is seen as impolite.
 - **Remove Shoes Indoors**: When entering locals’ homes or certain shops, remove your shoes as a sign of respect.
@@ -215,7 +215,7 @@ When traveling in Bali, being well-prepared and understanding local conditions c
 
 https://youtu.be/KPGb6MmwfZw
 
-- **Exchange Upon Arrival**: Refer to the "[Bali Currency Exchange Guide](/blog/bali-currency-exchange-guide/)" to learn how and where to exchange currency.
+- **Exchange Upon Arrival**: Refer to the "[Bali Currency Exchange Guide](/en/blog/bali-currency-exchange-guide/)" to learn how and where to exchange currency.
 - **Avoid Carrying Large Amounts of Cash**: Carrying too much cash increases risks; using debit cards or electronic payments is safer.
 
 ### 14. Bargaining Tips
@@ -261,7 +261,7 @@ https://youtu.be/lIV-T2jYhVk
 - **Request a spare helmet when booking rides**: When using ride-hailing services like Gojek or Grab for motorcycle rides, always ask the driver to provide you with a helmet.
 - **Follow traffic rules**: The road conditions and traffic regulations in Bali may differ from those in your home country. Drive cautiously and make sure to adhere to local traffic laws.
 
-> Further reading: [Essential for short trips! Hailing a motorcycle taxi via apps saves time and effort!](/blog/bali-travel-app-motorcycle-taxi/)
+> Further reading: [Essential for short trips! Hailing a motorcycle taxi via apps saves time and effort!](/en/blog/bali-travel-app-motorcycle-taxi/)
 
 ### 18. Ignoring local food safety
 
@@ -287,4 +287,4 @@ Bali is a captivating island, boasting stunning natural landscapes and rich cult
 
 👈 **Return to the Ultimate Bali Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.
+Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/en/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.

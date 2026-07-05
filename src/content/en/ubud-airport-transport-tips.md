@@ -64,9 +64,9 @@ Near the Kuta area, you can selectively visit some attractions, buy souvenirs, o
 
 ![More on Dining and Entertainment in Kuta](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
 
-[Click here for Kuta guide](/blog/2023-12-13-657598bdfd8978000120fe20/)
+[Click here for Kuta guide](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
 
-Kuta is one of the most vibrant tourist hotspots in Bali, attracting travelers from around the world with its lively nightlife, bustling streets, and beginner-friendly surfing beaches. This area is packed with a variety of shops, restaurants, and entertainment venues, making it an excellent destination for thrill-seekers and shoppers alike. Whether you're experiencing the energetic party atmosphere or enjoying the sunset views, Kuta ensures your vacation is filled with unforgettable memories! Want to learn more about Kuta? [Click here](/blog/2023-12-13-657598bdfd8978000120fe20/).
+Kuta is one of the most vibrant tourist hotspots in Bali, attracting travelers from around the world with its lively nightlife, bustling streets, and beginner-friendly surfing beaches. This area is packed with a variety of shops, restaurants, and entertainment venues, making it an excellent destination for thrill-seekers and shoppers alike. Whether you're experiencing the energetic party atmosphere or enjoying the sunset views, Kuta ensures your vacation is filled with unforgettable memories! Want to learn more about Kuta? [Click here](/en/blog/2023-12-13-657598bdfd8978000120fe20/).
 
 ***
 
@@ -82,7 +82,7 @@ Many real-time traffic apps can help you stay updated on current traffic conditi
 
 However, **never fully trust the estimated arrival time provided by traffic apps**! In Bali, there's a high chance they won't be accurate!
 
-Take a look: [Don't Trust Google Maps in Bali!](/blog/bali-google-maps-warning/)
+Take a look: [Don't Trust Google Maps in Bali!](/en/blog/bali-google-maps-warning/)
 
 ***
 
@@ -111,9 +111,9 @@ Traveling from Ubud to the airport can be unpredictable, but with proper prepara
 
 ![More About Jimbaran: Food and Fun](https://images.gobaligo.id/vocus/vocus_c81d870630ca07dead1d2e8614f923c4.jpg)
 
-[Click here for the complete Jimbaran guide](/blog/jimbaran-guide/)
+[Click here for the complete Jimbaran guide](/en/blog/jimbaran-guide/)
 
-Jimbaran is a coastal paradise in Bali, renowned for its romantic ambiance and culinary delights. With its stunning golden beaches and breathtaking sunsets, Jimbaran offers an unforgettable dining experience along its seafood barbecue restaurant strip. It also boasts luxurious resorts and a tranquil fishing village vibe, allowing travelers to enjoy both luxury and local charm. Whether you're traveling with family or on a romantic getaway, Jimbaran has something for everyone! Want to learn more about Jimbaran? [Click here](/blog/jimbaran-guide/).
+Jimbaran is a coastal paradise in Bali, renowned for its romantic ambiance and culinary delights. With its stunning golden beaches and breathtaking sunsets, Jimbaran offers an unforgettable dining experience along its seafood barbecue restaurant strip. It also boasts luxurious resorts and a tranquil fishing village vibe, allowing travelers to enjoy both luxury and local charm. Whether you're traveling with family or on a romantic getaway, Jimbaran has something for everyone! Want to learn more about Jimbaran? [Click here](/en/blog/jimbaran-guide/).
 
 {{block:klook}}
 
@@ -121,4 +121,4 @@ Jimbaran is a coastal paradise in Bali, renowned for its romantic ambiance and c
 
 👈 **Return to the Ultimate Bali Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.
+Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/en/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.

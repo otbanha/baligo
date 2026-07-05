@@ -45,7 +45,7 @@ The highlight of our first day was enjoying a seafood feast at 【Jimbaran Bay�
 
 Provided by Yi Chen Lai
 
-> Further Reading: [9 Jimbaran Seafood Restaurants: Recommendations to Avoid Disappointment](/blog/jimbaran-seafood-restaurants-list/)
+> Further Reading: [9 Jimbaran Seafood Restaurants: Recommendations to Avoid Disappointment](/en/blog/jimbaran-seafood-restaurants-list/)
 
 In the evening, we headed straight to Ubud to stay at 【The Ambengan Villas Ubud by Pramana Villas】. I give this Villa a five-star recommendation!🌟🌟🌟🌟🌟
 
@@ -69,7 +69,7 @@ In the evening, we headed straight to Ubud to stay at 【The Ambengan Villas Ubu
 
 ![Day 1: Beach Sunset, Ubud Mountains, Here We Come!](https://images.gobaligo.id/images/2026-03/1774360359884-d239345d1540ed321f9c749ed1a4279b.jpeg)
 
-Featured in [20 Stunning Bali Villas in Ubud](/blog/ubud-villa-pool-guide/)
+Featured in [20 Stunning Bali Villas in Ubud](/en/blog/ubud-villa-pool-guide/)
 
 Spacious rooms, tranquil surroundings, and a design that blends Bali's natural essence with modern minimalism, especially the private pool area, which is simply dreamy. Choosing this as our base for the next few days in Ubud was absolutely the right decision.
 
@@ -95,7 +95,7 @@ The entire rafting activity lasts about 2 hours, passing through tropical jungle
 
 But the moment you jump into the cool river water after sweating is incredibly refreshing—it feels like a natural baptism～✨
 
-> Further Reading: [Bali Rafting Guide (FAQ)](/blog/bali-rafting-ayung-telaga-waja/)
+> Further Reading: [Bali Rafting Guide (FAQ)](/en/blog/bali-rafting-ayung-telaga-waja/)
 
 ### 🔹ATV Adventure｜Thrilling Mud Trail Ride 🛻💨
 
@@ -109,13 +109,13 @@ Photo by Yi Chen Lai
 
 Photo by Yi Chen Lai
 
-> Further Reading: [Bali ATV Adventure Guide: Experience the Thrill and Freedom of Tropical Paradise (Tips + FAQ + Operator Recommendations)](/blog/bali-atv-adventure-guide/)
+> Further Reading: [Bali ATV Adventure Guide: Experience the Thrill and Freedom of Tropical Paradise (Tips + FAQ + Operator Recommendations)](/en/blog/bali-atv-adventure-guide/)
 
 ### 🔹Perfect Ending｜Relaxing One-Hour Massage 🧖‍♀️💆‍♂️
 
 After a sweaty day, how could we not indulge in a relaxing massage? We booked a local SPA session to properly rejuvenate our tired bodies.
 
-> Further Reading: [The Ultimate Guide to Bali's Best SPAs and In-Home Massages (Organized by Area for Easy Reference)](/blog/spa/)
+> Further Reading: [The Ultimate Guide to Bali's Best SPAs and In-Home Massages (Organized by Area for Easy Reference)](/en/blog/spa/)
 
 Throughout the day's activities, we had no worries at all because Jimmi not only handled transportation but also **watched our bags, assisted with communication, and even helped take photos**, allowing us to play safely and comfortably～👏
 
@@ -144,7 +144,7 @@ Provided by Yi Chen Lai, the person on the far left is Jimmi
 
 The afterglow of the sunrise reflecting on Lake Batur was as beautiful as a painting, one of the most moving moments of the trip.
 
-> Further Reading: [Bali Adventure: Complete Guide to the Batur Volcano Jeep Sunrise Tour](/blog/batur-volcano-jeep-sunrise-tour/)
+> Further Reading: [Bali Adventure: Complete Guide to the Batur Volcano Jeep Sunrise Tour](/en/blog/batur-volcano-jeep-sunrise-tour/)
 
 ### 🔹 Montana Del Cafe: Volcanic View Café ☕️⛰️
 
@@ -156,7 +156,7 @@ Image courtesy of Yi Chen Lai
 
 The café features a minimalist white design, and the outdoor seating is perfect for photos. However, it’s quite popular, so we recommend arriving early to secure a good spot.
 
-> Further Reading: [Top 12 Volcano View Cafés & Restaurants in Kintamani, Bali 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
+> Further Reading: [Top 12 Volcano View Cafés & Restaurants in Kintamani, Bali 🌄☕](/en/blog/kintamani-volcano-cafes-restaurants/)
 
 ### 🔹 Tegalalang Rice Terrace & Instagram Swing 🌾💃
 
@@ -172,9 +172,9 @@ We rented flowing long skirts for the occasion, costing **370,000 IDR (approxima
 
 https://youtu.be/e1QnJGYvL0U
 
-> Further Reading: [Swinging in Ubud: Bali's 8 Most Beautiful Swing Photo Spots | Ubud Swing/Dress Rental Guide](/blog/ubud-jungle-swings-photo-guide/)
+> Further Reading: [Swinging in Ubud: Bali's 8 Most Beautiful Swing Photo Spots | Ubud Swing/Dress Rental Guide](/en/blog/ubud-jungle-swings-photo-guide/)
 
-> Further Reading: [What to Do for Outdoor Activities in Bali? 50 Most Popular Outdoor Experiences](/blog/bali-top-50-outdoor-activities/)
+> Further Reading: [What to Do for Outdoor Activities in Bali? 50 Most Popular Outdoor Experiences](/en/blog/bali-top-50-outdoor-activities/)
 
 ### 🔹 Bebek Tebasari Resto Dirty Duck Rice 🍗✨
 
@@ -198,7 +198,7 @@ https://youtu.be/Oh-RNfjhQhM
 
 I've heard you can haggle down to half the asking price, but personally, my bargaining success rate is only about 30% off 🤣. Still, even if you don't get the lowest price, buying something you love is what matters most!
 
-> Further reading: [Recommended Guide to Ubud's Top Five Art Markets: Souvenirs, Gifts, and Exploring Bali's Cultural Treasures](/blog/ubud-art-markets-guide/)
+> Further reading: [Recommended Guide to Ubud's Top Five Art Markets: Souvenirs, Gifts, and Exploring Bali's Cultural Treasures](/en/blog/ubud-art-markets-guide/)
 
 ### 🔹Taman Saraswati Temple: A Romantic Secret Garden Next to the Market 🌺
 
@@ -224,7 +224,7 @@ https://youtu.be/nm3ufjBsiRU
 - **The venue only accepts card payments**, no cash, so remember to bring your credit card
 - If visiting during peak hours (like before sunset), it's recommended to make a reservation in advance!
 
-> Further reading: [Finns Beach Club Guide](/blog/finns-beach-club-bali-guide/)
+> Further reading: [Finns Beach Club Guide](/en/blog/finns-beach-club-bali-guide/)
 
 The journey from Ubud southward took about 2 hours, and it was **super congested**. However, Jimmi was very thoughtful—he didn't wait for us at a fixed spot but instead parked nearby to rest. When we finished exploring, we called him, and he quickly came to pick us up. It was super efficient and reassuring ❤️
 
@@ -240,7 +240,7 @@ Ayana covers a vast area, with **14 swimming pools** scattered throughout the re
 
 We didn't step foot outside the hotel all day, completely immersing ourselves in the hotel facilities and truly experiencing what it means to 'vacation.'
 
-> Further reading: [Ayana Bali Accommodation Guide](/blog/ayana-resort-bali-guide/)
+> Further reading: [Ayana Bali Accommodation Guide](/en/blog/ayana-resort-bali-guide/)
 
 ### 🔹 Rock Bar: Bali's Most Iconic Sunset Bar 🌇🍹
 
@@ -250,7 +250,7 @@ https://youtu.be/etRRIXwFbQs
 
 Perched on the edge of a cliff, Rock Bar is accessed via a special elevator that feels like entering a secret base from a movie. Sipping a cocktail while watching the waves crash against the rocks and the sun slowly set is a scene that will stay etched in your memory forever—one of Bali's most unforgettable experiences!
 
-> Further reading: [How to Reserve Rock Bar in Jimbaran, Bali? Complete Experience Guide!](/blog/bali-rock-bar-reservation-guide/)
+> Further reading: [How to Reserve Rock Bar in Jimbaran, Bali? Complete Experience Guide!](/en/blog/bali-rock-bar-reservation-guide/)
 
 ## 🤍 Day 6: Soaring Above Uluwatu, Paragliding + Massage + Food + Shopping Guide 🪂💆‍♀️🍖🛍️
 
@@ -367,6 +367,6 @@ Do you find [Yi Chen Lai](https://www.facebook.com/share/p/1AUuB62LBX/)'s itiner
 
 Click here to explore more amazing Bali travel stories
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
 
 {{block:攻略}}

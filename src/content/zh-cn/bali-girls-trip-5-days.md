@@ -35,9 +35,9 @@ Clairejenjen视频截图
 
 随后，他们搭乘Gojek摩托车返回度假别墅，享受了一顿丰盛的早餐，然后前往乌布的艺术市集，感受着当地文化的独特魅力。在市集里，他们品尝了各种巴厘岛特色美食，欣赏了当地手工艺品和艺术作品，仿佛置身于一个充满生活气息的异国小镇。
 
-> 延伸阅读：推荐[乌布22间令人惊艳的巴厘岛villa](/blog/ubud-villa-pool-guide/)
+> 延伸阅读：推荐[乌布22间令人惊艳的巴厘岛villa](/zh-cn/blog/ubud-villa-pool-guide/)
 
-> [【巴厘岛乌布住宿】乌布32家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/blog/ubud-villas-pool-guide/)
+> [【巴厘岛乌布住宿】乌布32家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/zh-cn/blog/ubud-villas-pool-guide/)
 
 ![Clairejenjen視頻截圖](https://images.gobaligo.id/vocus/vocus_dcba359c585b69b719edfb486213c9cb.jpg)
 
@@ -87,6 +87,6 @@ https://www.youtube.com/watch?v=faJH5pOjzpo
 
 点击这里观看更多巴厘岛精彩游记
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/zh-cn/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
 
 {{block:攻略}}

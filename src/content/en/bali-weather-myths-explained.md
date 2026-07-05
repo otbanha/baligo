@@ -67,7 +67,7 @@ As shown in this screenshot, sometimes the forecast includes 'every three hours'
 
 👉 **Recommendation: Schedule beach or outdoor activities in the morning!**
 
-> [What outdoor activities can you do in Bali? 18 must-try experiences](/blog/bali-top-50-outdoor-activities/)
+> [What outdoor activities can you do in Bali? 18 must-try experiences](/en/blog/bali-top-50-outdoor-activities/)
 
 ---
 
@@ -83,10 +83,10 @@ Bali's weather changes rapidly, and mobile app forecasts tend to be overly conse
 
 **Quick Reference:**
 
-> [Detailed analysis of Bali's rainy season months/rain probability/rainy days/average temperature/travel suitability index...](/blog/bali-rainy-season-travel-guide/)
+> [Detailed analysis of Bali's rainy season months/rain probability/rainy days/average temperature/travel suitability index...](/en/blog/bali-rainy-season-travel-guide/)
 
 ---
 
 ![Quick summary: Don’t let the weather forecast icons scare yo](https://images.gobaligo.id/vocus/vocus_09e4e66f29ac27a468ecc350cf0c839d.png)
 
-If you're really worried about rainy days affecting your itinerary, check out 【[60 recommended rainy day backup activities](/blog/2026-bali-indoor-activities/)】 and save it for later!
+If you're really worried about rainy days affecting your itinerary, check out 【[60 recommended rainy day backup activities](/en/blog/2026-bali-indoor-activities/)】 and save it for later!

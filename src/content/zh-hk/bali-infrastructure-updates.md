@@ -78,7 +78,7 @@ Besakih寺廟係峇里島最神聖嘅宗教聖地，政府計劃喺2026年開始
 
 Gilimanuk-Mengwi高速公路計劃將會繼續推進，並會新增南峇里地鐵系統，進一步提升南部旅遊熱點嘅交通便利性，減少車流壓力。
 
-除咗呢10個尚未/正在動工嘅計劃之外，仲有正在施工中嘅峇里島機場輕軌，請睇我哋[之前嘅報導](/blog/bali-lrt-construction-update/)
+除咗呢10個尚未/正在動工嘅計劃之外，仲有正在施工中嘅峇里島機場輕軌，請睇我哋[之前嘅報導](/zh-hk/blog/bali-lrt-construction-update/)
 
 ![峇里島將採用和雅加達相同的輕軌系統](https://images.gobaligo.id/vocus/vocus_18c707e4ec41b5fe1c5ccd1650b0aee3.jpg)
 

@@ -20,7 +20,7 @@ lang: zh-hk
 _srcHash: 41ee6c6a8520c5b39426309a56773b8d
 ---
 
-[🚗 想預估 Gojek 車資？請撳呢度](/map/gojek-fare/)
+[🚗 想預估 Gojek 車資？請撳呢度](/zh-hk/map/gojek-fare/)
 
 呢個係我哋介紹Nusa Penida（中文譯名：努沙佩尼達島、佩尼達島）呢個神奇島嶼嘅第四集，計劃去努沙佩尼達旅行嘅朋友，你哋可能想知共乘App，好似Grab、Gojek喺呢個島上用唔用到。
 
@@ -30,10 +30,10 @@ _srcHash: 41ee6c6a8520c5b39426309a56773b8d
 
 針對佩尼達島我哋總共有五集介紹，一齊嚟更加深入認識呢個海島天堂！其他四集呢度有傳送門：
 
-1. [【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/nusa-penida-guide/)
-2. [佩尼達島美食同碧海藍天：Nusa Penida嘅Top 9絕佳選擇](/blog/nusa-penida-best-restaurants/)
-3. [Nusa Penida 努沙佩尼達島嘅浮潛點介紹，點樣參加浮潛？](/blog/nusa-penida-snorkeling-guide/)
-4. [佩尼達島嘅住宿推薦: 13間由奢華到平價嘅 Nusa Penida 好評住宿](/blog/nusa-penida-hotels-guide/)
+1. [【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/zh-hk/blog/nusa-penida-guide/)
+2. [佩尼達島美食同碧海藍天：Nusa Penida嘅Top 9絕佳選擇](/zh-hk/blog/nusa-penida-best-restaurants/)
+3. [Nusa Penida 努沙佩尼達島嘅浮潛點介紹，點樣參加浮潛？](/zh-hk/blog/nusa-penida-snorkeling-guide/)
+4. [佩尼達島嘅住宿推薦: 13間由奢華到平價嘅 Nusa Penida 好評住宿](/zh-hk/blog/nusa-penida-hotels-guide/)
 
 ## Gojek/Grab...呢啲網約車有冇？
 
@@ -80,7 +80,7 @@ Nusa Penida目前仲未有，估計以後都唔會有Grab同Gojek服務，因為
 
 講到小費，俾小費係表示你多謝司機嘅服務，佢哋會好開心㗎。如果你對體驗滿意，俾10%至20%嘅小費就啱啱好，當然，如果你負擔得起，俾多啲都冇問題㗎！
 
-咁佩尼達島嘅包車司機點樣搵呢？請參考：[佩尼達島包車司機點樣揀？｜旅人實用推薦包車同安排方式](/blog/nusa-penida-private-driver-guide/)
+咁佩尼達島嘅包車司機點樣搵呢？請參考：[佩尼達島包車司機點樣揀？｜旅人實用推薦包車同安排方式](/zh-hk/blog/nusa-penida-private-driver-guide/)
 
 > 請參考Klook提供嘅[佩尼達島私人包車旅遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=799894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23014-nusa-penida-private-car-charter-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D54b6524de7)
 
@@ -88,10 +88,10 @@ Nusa Penida目前仲未有，估計以後都唔會有Grab同Gojek服務，因為
 
 ## 佩尼達島旅遊懶人包
 
-- 佩尼達島[景點攻略](/blog/nusa-penida-guide/)
-- 佩尼達島[用餐賞美景攻略](/blog/nusa-penida-best-restaurants/)
-- 佩尼達島[浮潛潛點攻略](/blog/nusa-penida-snorkeling-guide/)
-- 佩尼達島[住宿攻略](/blog/nusa-penida-hotels-guide/)
+- 佩尼達島[景點攻略](/zh-hk/blog/nusa-penida-guide/)
+- 佩尼達島[用餐賞美景攻略](/zh-hk/blog/nusa-penida-best-restaurants/)
+- 佩尼達島[浮潛潛點攻略](/zh-hk/blog/nusa-penida-snorkeling-guide/)
+- 佩尼達島[住宿攻略](/zh-hk/blog/nusa-penida-hotels-guide/)
 
 {{block:攻略}}
 
@@ -99,4 +99,4 @@ Nusa Penida目前仲未有，估計以後都唔會有Grab同Gojek服務，因為
 
 👈 **返去峇里島自由行終極指南**
 
-想睇晒完整嘅新手懶人包？[撳呢度閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。
+想睇晒完整嘅新手懶人包？[撳呢度閱讀「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。

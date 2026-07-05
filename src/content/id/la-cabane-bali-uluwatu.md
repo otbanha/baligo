@@ -96,7 +96,7 @@ Nginep di La Cabane, nggak usah khawatir bakal bosen:
 
 ![Lebih Banyak Info Wisata & Kuliner di Uluwatu](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
-Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal dengan tebing-tebing dramatis, pantai yang memesona, dan spot surfing yang kece. Suasananya penuh romantisme tropis, cocok banget buat nikmatin sunset dan waktu santai. Kalau kamu juga mau nginep di Uluwatu, bisa cek referensi wisata dan kuliner yang udah kami rangkum biar perjalananmu makin seru: [【Panduan Uluwatu】Rekomendasi Tempat Wisata & Kuliner di Uluwatu](/blog/uluwatu-guide/)
+Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal dengan tebing-tebing dramatis, pantai yang memesona, dan spot surfing yang kece. Suasananya penuh romantisme tropis, cocok banget buat nikmatin sunset dan waktu santai. Kalau kamu juga mau nginep di Uluwatu, bisa cek referensi wisata dan kuliner yang udah kami rangkum biar perjalananmu makin seru: [【Panduan Uluwatu】Rekomendasi Tempat Wisata & Kuliner di Uluwatu](/id/blog/uluwatu-guide/)
 
 
 ## Tips & Informasi

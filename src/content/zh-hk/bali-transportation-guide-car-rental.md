@@ -25,7 +25,7 @@ _srcHash: 4ad2f5b34ea4ed66ebe41ddbbaba7fe1
 ---
 Update: 2026/07/03
 
-[🚗 想預估 Gojek 車費？㩒呢度](/map/gojek-fare/)
+[🚗 想預估 Gojek 車費？㩒呢度](/zh-hk/map/gojek-fare/)
 
 ![【峇里島交通全攻略】什麼時候該包車？什麼場合用 Gojek/Grab？包車 vs. 叫車優缺點與場景分析](https://images.gobaligo.id/vocus/vocus_86a39e40d1c5e42fbdbb7ba5e81f3369.png)
 
@@ -35,7 +35,7 @@ Update: 2026/07/03
 
 喺峇里島最安全、最放心嘅交通方式就係「包車」同「叫車」。所謂包車就係喺一段時間內（通常係十個鐘或五個鐘），你可以任意用司機去你想去嘅地方；而「叫車」就似的士咁，用 Gojek 或 Grab 呢啲 app 進行點對點嘅移動。
 
-> 延伸閱讀：[喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/blog/gojek-bali-guide/)
+> 延伸閱讀：[喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/zh-hk/blog/gojek-bali-guide/)
 
 ## 包車優缺點
 
@@ -91,7 +91,7 @@ https://youtube.com/shorts/wnhyqUekdW0
 - 想傾偈/需要基本講解▶包車
 - 想識峇里島嘅在地朋友▶包車
 
-**有冇好嘅包車司機推薦？**網友推薦嘅「優質司機推薦名單」[請睇呢度](/blog/bali-private-car-drivers-guide/)
+**有冇好嘅包車司機推薦？**網友推薦嘅「優質司機推薦名單」[請睇呢度](/zh-hk/blog/bali-private-car-drivers-guide/)
 
 ## FAQ 常見問題
 
@@ -119,7 +119,7 @@ https://youtube.com/shorts/wnhyqUekdW0
 
 得，但係唔建議。因為好大機會遇到亂開價嘅司機。
 
-**其他**[**包車FAQ請睇>呢度**](/blog/bali-private-car-hire-guide/)
+**其他**[**包車FAQ請睇>呢度**](/zh-hk/blog/bali-private-car-hire-guide/)
 
 ## 結論
 
@@ -131,4 +131,4 @@ https://youtube.com/shorts/wnhyqUekdW0
 
 👈 **返去峇里島自由行終極指南**
 
-想睇晒成個新手懶人包？[撳呢度睇「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。
+想睇晒成個新手懶人包？[撳呢度睇「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。

@@ -45,7 +45,7 @@ Pagi-pagi kita mampir ke Oneeighty Dayclub, tempat ini wajib banget dicoba. Kita
 
 https://youtu.be/Czw4ALduV14
 
-> [Jelajahi Oneeighty Day Club: Kolam Renang Tepi Tebing Bali dengan Pemandangan Super Epic](/blog/oneeighty-dayclub-uluwatu-pool/) Info harga & cara booking
+> [Jelajahi Oneeighty Day Club: Kolam Renang Tepi Tebing Bali dengan Pemandangan Super Epic](/id/blog/oneeighty-dayclub-uluwatu-pool/) Info harga & cara booking
 
 Lanjut, kita ke Blue Point Beach, nonton para peselancar pro unjuk gigi — bener-bener bikin melek.
 
@@ -55,7 +55,7 @@ https://youtu.be/hQbBTktqEqY
 
 Setelah itu, Komang ngajak kita ke Pura Uluwatu buat nonton tari tradisional. Untungnya dia udah nitip temennya buat booking tiket duluan, jadi kita bisa santai lebih lama di Blue Point Beach tanpa harus buru-buru antre beli tiket.
 
-> [Kecak Fire Dance: Pertunjukan Api yang Wajib Ditonton di Bali (Lengkap Info Tiket)](/blog/kecak-fire-dance-bali/)
+> [Kecak Fire Dance: Pertunjukan Api yang Wajib Ditonton di Bali (Lengkap Info Tiket)](/id/blog/kecak-fire-dance-bali/)
 
 ![烏魯瓦圖美景。連育諄提供](https://images.gobaligo.id/vocus/vocus_a2ffbc76870b45338de0935d3e72d256.jpg)
 
@@ -91,7 +91,7 @@ Dia juga rekomendasiin kami ke Bintang Supermarket Ubud buat beli oleh-oleh. Ter
 
 https://youtu.be/UoGlRyAdyB8
 
-Baca juga: [【Rekomendasi Teman】6 Kategori, 20+ Oleh-oleh Bali Terbaik: Pilihan Tepat untuk Kenangan Berharga](/blog/bali-souvenirs-gift-guide/)
+Baca juga: [【Rekomendasi Teman】6 Kategori, 20+ Oleh-oleh Bali Terbaik: Pilihan Tepat untuk Kenangan Berharga](/id/blog/bali-souvenirs-gift-guide/)
 
 ## Hari Kelima:
 
@@ -111,7 +111,7 @@ Terakhir kita mampir ke Tegallalang Rice Terrace. Tiket masuknya belum termasuk 
 
 https://youtu.be/op78Dk8CjL4
 
-> Bisa cek juga: [Panduan Lengkap Ubud Bali: 100 Cara Mengenal Ubud Lebih Dalam | Eksplor Pesona Ubud](/blog/ubud-guide/)
+> Bisa cek juga: [Panduan Lengkap Ubud Bali: 100 Cara Mengenal Ubud Lebih Dalam | Eksplor Pesona Ubud](/id/blog/ubud-guide/)
 
 Setelah selesai jalan-jalan, kami minta Komang anter ke restoran favorit kami selama trip ini — Kebun Bistro. Sayangnya iga kambing yang paling terkenal udah habis, tapi steak yang direkomendasiin staffnya juga enak banget! Kami pesan medium rare, pas dipotong nggak ada darahnya, dagingnya super lembut, bahkan lauknya juga enak. Karena ramai pengunjung, saran kami booking tempat duluan sebelum jam makan. (Udah masukin ke [Peta Panduan Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
 
@@ -119,7 +119,7 @@ Setelah selesai jalan-jalan, kami minta Komang anter ke restoran favorit kami se
 
 Pagi-pagi kami berangkat dari Ubud menuju Pura Tanah Lot. Untuk sampai ke pura, kamu mungkin harus melewati air, jadi saran pakai sepatu dan celana pendek yang bisa basah. Katanya sih pas sunset pemandangannya cantik banget, sayang jadwal kami pas siang jadi nggak sempat lihat.
 
-> [Wajib Kunjungi Saat Liburan ke Bali: Panduan Lengkap Pura Tanah Lot, Pasang Surut & Tempat Sekitar](https://gobaligo.id/blog/bali-tanah-lot-guide/)
+> [Wajib Kunjungi Saat Liburan ke Bali: Panduan Lengkap Pura Tanah Lot, Pasang Surut & Tempat Sekitar](https://gobaligo.id/id/blog/bali-tanah-lot-guide/)
 
 Pas sampai di Pura Tanah Lot, baru sadar kami nggak sengaja bawa kunci hotel malam sebelumnya. Komang langsung bilang dia bisa bantu antar kuncinya dua hari lagi (udah dapat izin dari mbak supervisor hotel). Makasih banget, Komang!
 

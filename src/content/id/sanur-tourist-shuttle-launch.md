@@ -90,7 +90,7 @@ Pemerintah Kabupaten Badung juga udah konfirmasi kalau rencana ini udah masuk ta
 
 ![Lebih Banyak Info Seru di Sanur](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
-Sanur adalah sebuah kota kecil di pesisir Bali yang penuh ketenangan, terkenal dengan pantainya yang tenang, suasana santai, dan pemandangan matahari terbit yang spektakuler. Di sini ada resor ramah keluarga, pasar tradisional, dan beragam kuliner lokal yang kaya—tempat ideal buat menikmati slow living sambil eksplorasi budaya. Mau jalan-jalan di sepanjang garis pantai atau merasakan vibe lokal, Sanur bakal kasih kamu liburan yang super rileks! Mau tahu lebih banyak tips Sanur? [Klik di sini](/blog/sanur-guide/).
+Sanur adalah sebuah kota kecil di pesisir Bali yang penuh ketenangan, terkenal dengan pantainya yang tenang, suasana santai, dan pemandangan matahari terbit yang spektakuler. Di sini ada resor ramah keluarga, pasar tradisional, dan beragam kuliner lokal yang kaya—tempat ideal buat menikmati slow living sambil eksplorasi budaya. Mau jalan-jalan di sepanjang garis pantai atau merasakan vibe lokal, Sanur bakal kasih kamu liburan yang super rileks! Mau tahu lebih banyak tips Sanur? [Klik di sini](/id/blog/sanur-guide/).
 
 ---
 
@@ -112,4 +112,4 @@ Sementara ini cuma di area Sanur aja. Nanti bakal lihat hasil uji coba dulu buat
 
 👈 **Kembali ke Panduan Lengkap Trip ke Bali**
 
-Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.
+Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.

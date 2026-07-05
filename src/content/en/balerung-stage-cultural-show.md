@@ -60,7 +60,7 @@ Performed by renowned Peliatan dancers and musicians every Friday night at 7:30 
 
 If you're planning a trip to Bali, make sure to experience Balerung Stage for yourself. Each performance here is rich in history and tradition, allowing you to truly feel the cultural essence of Bali!
 
-> Further Reading: ["The ticket price is 150K"... What does 150K mean?](/blog/bali-budget-tips-k-explained/)
+> Further Reading: ["The ticket price is 150K"... What does 150K mean?](/en/blog/bali-budget-tips-k-explained/)
 
 ## Sign Up for Our Blog
 

@@ -58,7 +58,7 @@ After leaving the tranquil Monkey Forest, they quickly walked to the Ubud Tradit
 
 At the new market, they discovered several practical and interesting handicrafts, such as woven fruit baskets crafted into various intricate patterns—quite unique. They also spotted many beautiful surf-themed wood carvings, coconut carvings, and dyed fabric hangings, offering an endless variety with an exotic flair. Although prices were slightly higher than at the old market, they felt the exquisite craftsmanship made them well worth the purchase.
 
-> Further reading: [Not sure how to explore Ubud? Check out our Ubud city guide map](/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
+> Further reading: [Not sure how to explore Ubud? Check out our Ubud city guide map](/en/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
 
 ## Serayu Pottery Art Class
 

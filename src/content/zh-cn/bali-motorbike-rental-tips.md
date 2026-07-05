@@ -77,7 +77,7 @@ https://youtube.com/shorts/KBLKSQT7Pn4?si=yxJwczQBjlD0jXzY
 
 ### 4. 医疗费用高昂 💰
 
-根据在巴厘岛经营餐厅的[龙虾先生](/blog/mr-lobster-seafood-restaurant-bali/)老板所述，他经常遇到因为摩托车事故受伤的观光客，由于行动不便，无法参加其他行程，只能在他的餐厅休息用餐。要特别注意的还有巴厘岛的医疗费用非常昂贵，若不幸受伤，面临的医疗开支可能让旅游预算大幅增加，大大的扫兴。（亲身经历：上次朋友脚踝骨折，简单的固定/包扎，花费12,000,000，约等于800美元）
+根据在巴厘岛经营餐厅的[龙虾先生](/zh-cn/blog/mr-lobster-seafood-restaurant-bali/)老板所述，他经常遇到因为摩托车事故受伤的观光客，由于行动不便，无法参加其他行程，只能在他的餐厅休息用餐。要特别注意的还有巴厘岛的医疗费用非常昂贵，若不幸受伤，面临的医疗开支可能让旅游预算大幅增加，大大的扫兴。（亲身经历：上次朋友脚踝骨折，简单的固定/包扎，花费12,000,000，约等于800美元）
 
 ### 5. 道路状况和自然因素 🌧️
 
@@ -87,9 +87,9 @@ https://youtube.com/shorts/KBLKSQT7Pn4?si=yxJwczQBjlD0jXzY
 
 其实巴厘岛提供了很多经济实惠的交通方式，像是包车、网约摩托车、或是网约汽车。相比机车/摩托车，这些交通工具安全且方便，对于不熟悉当地交通的游客来说，是更稳妥的选择。
 
-> 延伸阅读：[巴厘岛包车自由行全攻略 - 费用、预订方式、优势分析](/blog/bali-private-car-hire-guide/)
+> 延伸阅读：[巴厘岛包车自由行全攻略 - 费用、预订方式、优势分析](/zh-cn/blog/bali-private-car-hire-guide/)
 
-> 延伸阅读：[叫车App叫机车，省时省力的实际案例！](/blog/bali-travel-app-motorcycle-taxi/)
+> 延伸阅读：[叫车App叫机车，省时省力的实际案例！](/zh-cn/blog/bali-travel-app-motorcycle-taxi/)
 
 ![6. 经济实惠的其他选择](https://images.gobaligo.id/vocus/vocus_49791dac6020e950bda56dde7ee4e7f5.jpg)
 
@@ -190,4 +190,4 @@ https://youtu.be/lIV-T2jYhVk?si=KOKR7HFKOtrw1EAb
 
 👈 **回到巴厘岛自由行终极指南**
 
-想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/zh-cn/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

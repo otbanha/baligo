@@ -51,7 +51,7 @@ Tapi tahun 2025, jumlah pengunjung langsung melonjak ke 420.000 lebih — nembus
 
 ## Kenapa Baru Dibatasi Sekarang?
 
-Jujur aja, popularitas Komodo beberapa tahun terakhir ini naiknya serem banget. Tahun ini, tempat ini berhasil dapet [dua peringkat pertama](/blog/komodo-national-park-global-award/) di daftar 'Destinasi Terindah di Dunia' versi Time Out, dan Pink Beach di dalam taman ini bahkan dinobatkan Forbes sebagai pantai terindah nomor satu di dunia.
+Jujur aja, popularitas Komodo beberapa tahun terakhir ini naiknya serem banget. Tahun ini, tempat ini berhasil dapet [dua peringkat pertama](/id/blog/komodo-national-park-global-award/) di daftar 'Destinasi Terindah di Dunia' versi Time Out, dan Pink Beach di dalam taman ini bahkan dinobatkan Forbes sebagai pantai terindah nomor satu di dunia.
 
 Kalau suatu tempat dapat liputan gencar kayak gitu, wajar aja kalau turisnya meledak.
 
@@ -81,7 +81,7 @@ Yang paling kena dampak adalah traveler yang biasa jalan tanpa persiapan, asal p
 
 Buat yang mau masukin Komodo ke itinerary, saran pesan minimal 1–2 bulan sebelumnya, apalagi kalau tanggal perjalanan sudah pasti. Soalnya kuota cuma segitu, siapa cepat dia dapat.
 
-Kalau kamu nggak mau repot ngurus tiket sendiri, takut kehabisan, atau bingung gimana caranya ke sana dari Bali, langsung aja cek [paket trip Bali + Komodo 5 hari ini](/blog/bali-komodo-luxury-tour-2026/) — udah termasuk tiket pesawat langsung dari Taipei ke Bali, penerbangan domestik, akomodasi, tiket masuk, dan transportasi full. Nggak ada belanja paksa atau biaya tambahan, urusan naik ke pulau juga udah diaturin, jadi nggak perlu khawatir pas sampai di sana kuotanya penuh.
+Kalau kamu nggak mau repot ngurus tiket sendiri, takut kehabisan, atau bingung gimana caranya ke sana dari Bali, langsung aja cek [paket trip Bali + Komodo 5 hari ini](/id/blog/bali-komodo-luxury-tour-2026/) — udah termasuk tiket pesawat langsung dari Taipei ke Bali, penerbangan domestik, akomodasi, tiket masuk, dan transportasi full. Nggak ada belanja paksa atau biaya tambahan, urusan naik ke pulau juga udah diaturin, jadi nggak perlu khawatir pas sampai di sana kuotanya penuh.
 
 ***
 
@@ -117,6 +117,6 @@ A: Cara paling aman adalah lewat agen travel yang punya koneksi lokal — mereka
 
 ![FAQ Pertanyaan Umum](https://images.gobaligo.id/vocus/vocus_6680c949bff873153e488598381a7ca6.png)
 
-[⭐⭐Bali + Pulau Komodo, 4 Malam Menginap Mewah/Tanpa Belanja/Tanpa Biaya Tambahan/5 Hari⭐⭐](/blog/bali-komodo-luxury-tour-2026/)
+[⭐⭐Bali + Pulau Komodo, 4 Malam Menginap Mewah/Tanpa Belanja/Tanpa Biaya Tambahan/5 Hari⭐⭐](/id/blog/bali-komodo-luxury-tour-2026/)
 
 {{block:攻略}}

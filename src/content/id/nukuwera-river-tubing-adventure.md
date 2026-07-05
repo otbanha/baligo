@@ -28,7 +28,7 @@ Bali nggak cuma soal pantai dan pura yang kece, tapi juga punya banyak aktivitas
 
 ## Persiapan Sebelum Berangkat & Reservasi
 
-Sebelum berangkat, kami nemuin perusahaan river tubing profesional bernama Nukuwera Adventure lewat rekomendasi dari [panduan Ubud](/blog/ubud-guide/). Di panduan itu bilang kalau ini adalah petualangan arus sungai yang bisa bikin kamu ngerasain sejarah Bali dengan menyusuri goa peninggalan tentara Jepang! Deskripsi yang penuh petualangan ini langsung bikin kami tertarik.
+Sebelum berangkat, kami nemuin perusahaan river tubing profesional bernama Nukuwera Adventure lewat rekomendasi dari [panduan Ubud](/id/blog/ubud-guide/). Di panduan itu bilang kalau ini adalah petualangan arus sungai yang bisa bikin kamu ngerasain sejarah Bali dengan menyusuri goa peninggalan tentara Jepang! Deskripsi yang penuh petualangan ini langsung bikin kami tertarik.
 
 Proses reservasinya gampang banget. Kami booking lewat [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1064752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F53430-ubud-cave-tubing-adventure-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D7271ea9df1) buat 4 orang. Soal harga, per orang sekitar USD$48, nggak bedain dewasa atau anak-anak. Biaya udah termasuk jemputan dari hotel, river tubing, makan siang, dan ATV. Menurutku, all-in satu hari kayak gini worth it banget!
 
@@ -41,7 +41,7 @@ Proses reservasinya gampang banget. Kami booking lewat [Klook](https://affiliate
 
 ## Mulai Petualangan Sehari
 
-Jam 10 pagi di hari H, mobil jemputan dateng tepat waktu ke tempat kami nginep, [Bidadari Private Villas & Retreat](/blog/bidadari-private-villas-ubud/). Vila yang tenang di pinggiran Ubud ini adalah pilihan akomodasi yang kami pilih dengan saksama. Dari Ubud, cuma butuh 15 menit naik mobil buat sampai ke basecamp Nukuwera. Di basecamp ada ruang ganti dan loker yang lengkap, jadi kami bisa nyimpen barang bawaan dengan aman.
+Jam 10 pagi di hari H, mobil jemputan dateng tepat waktu ke tempat kami nginep, [Bidadari Private Villas & Retreat](/id/blog/bidadari-private-villas-ubud/). Vila yang tenang di pinggiran Ubud ini adalah pilihan akomodasi yang kami pilih dengan saksama. Dari Ubud, cuma butuh 15 menit naik mobil buat sampai ke basecamp Nukuwera. Di basecamp ada ruang ganti dan loker yang lengkap, jadi kami bisa nyimpen barang bawaan dengan aman.
 
 Setelah itu, kita naik shuttle mereka menuju titik awal yang lebih ke hulu. Sepanjang jalan, pemandu menjelaskan latar belakang sejarah sungai buatan ini. Ternyata, selama Perang Dunia II, tentara Jepang pernah mendirikan pos di gua-gua ini, dan sekarang peninggalan sejarah itu menjadi bagian dari petualangan.
 
@@ -99,7 +99,7 @@ Perjalanan ini sengaja menyisipkan beberapa titik berhenti buat foto-foto: jepre
 
 Setiap tikungan bikin surprise, setiap jalur punya cerita. Ini jelas cara paling seru buat kenal keindahan pedesaan Bali!
 
-ATV ini juga seru banget sih! Tapi bukan fokus utama artikel ini, jadi cuma disingkat aja. Buat info lengkap soal ATV, pertanyaan umum, dll., cek [di sini](/blog/bali-atv-adventure-guide/) ada panduan detail.
+ATV ini juga seru banget sih! Tapi bukan fokus utama artikel ini, jadi cuma disingkat aja. Buat info lengkap soal ATV, pertanyaan umum, dll., cek [di sini](/id/blog/bali-atv-adventure-guide/) ada panduan detail.
 
 ## Kenapa Nukuwera River Tubing Wajib Dicoba?
 
@@ -136,7 +136,7 @@ Mengingat kembali pengalaman Nukuwera River Tubing kali ini, yang paling berharg
 
 Kalau kamu lagi merencanakan liburan keluarga ke Bali, wajib banget masukin Nukuwera River Tubing ke daftar kegiatan yang harus dicoba. Ini bukan cuma aktivitas petualangan, tapi juga pengalaman unik yang menggabungkan alam, sejarah, dan keseruan keluarga.
 
-**Catatan akhir**: Buat tips profesional lainnya soal arung jeram dan aktivitas air di Bali, rekomendasi banget cek panduan praktis "[Panduan Arung Jeram Bali (FAQ Seputar Arung Jeram)](/blog/bali-rafting-ayung-telaga-waja/)" ini.
+**Catatan akhir**: Buat tips profesional lainnya soal arung jeram dan aktivitas air di Bali, rekomendasi banget cek panduan praktis "[Panduan Arung Jeram Bali (FAQ Seputar Arung Jeram)](/id/blog/bali-rafting-ayung-telaga-waja/)" ini.
 
 ## Tips praktis dan hal yang perlu diperhatikan
 

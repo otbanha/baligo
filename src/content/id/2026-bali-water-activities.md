@@ -55,7 +55,7 @@ https://youtu.be/gECdNvG16ww
     - **Padang Padang**: Spot ombak klasik, cocok buat yang udah advanced.
     -
 - **Catatan Penting**: Pemula disarankan ambil kursus 1-2 jam dulu buat paham aturan keamanan dan teknik dasar. Di spot karang, pakai sepatu surfing biar kaki aman.
- **Referensi Cepat**: [【Panduan Surfing Bali】Pengenalan Pantai Surfing Sesuai Level](/blog/bali-surf-beaches-guide/)
+ **Referensi Cepat**: [【Panduan Surfing Bali】Pengenalan Pantai Surfing Sesuai Level](/id/blog/bali-surf-beaches-guide/)
 
 ## 🌊 Olahraga Air Ekstrem
 
@@ -122,7 +122,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ![6.1 Snorkeling](https://images.gobaligo.id/vocus/vocus_8931b9fe6f6fd60c4c95f35857142770.jpg)
 
-> Lihat [Kumpulan Spot Snorkeling Terindah di Bali: Panduan Petualangan Laut Ramah Pemula](/blog/bali-snorkeling-spots/)
+> Lihat [Kumpulan Spot Snorkeling Terindah di Bali: Panduan Petualangan Laut Ramah Pemula](/id/blog/bali-snorkeling-spots/)
 
 ### 7. Sea Walking (Jalan-jalan di Dasar Laut)
 
@@ -147,7 +147,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 - **Durasi**: Sekitar 2-2,5 jam di sungai (total 4-5 jam termasuk transportasi dan persiapan).
 - **Tips**: Pakai baju cepat kering, bawa baju ganti dan tas anti air.
 
-> ▶[Rekomendasi & Panduan Arung Jeram di Bali (FAQ Arung Jeram)](/blog/bali-rafting-ayung-telaga-waja/)
+> ▶[Rekomendasi & Panduan Arung Jeram di Bali (FAQ Arung Jeram)](/id/blog/bali-rafting-ayung-telaga-waja/)
 
 ### 9. Stand-Up Paddleboarding (SUP) & Kayak Laut
 
@@ -216,7 +216,7 @@ https://youtu.be/wai2lSW3vVU?si=smSuWoB2Y5ygrC9t
 
 Beach club yang tersebar di seluruh Bali adalah destinasi wajib bagi traveler yang ingin merasakan vibe anak muda, sinar matahari, dan semangat bebas!
 
-> [Kenapa di 2026 semua orang di Bali mulai demen ke Beach Club?](/blog/2026-bali-beach-club-guide/)
+> [Kenapa di 2026 semua orang di Bali mulai demen ke Beach Club?](/id/blog/2026-bali-beach-club-guide/)
 
 ### Bonus Tambahan: Floating di Kolam Renang
 
@@ -252,6 +252,6 @@ Di bawah sinar matahari Bali yang hangat, biarkan pelampung lucu menambah gaya l
 
 Bali punya banyak banget pilihan水上活動, mau yang seru-seru penuh adrenalin atau santai-santai aja, semua ada. Saran sih, atur jadwal sesuai minat, kondisi fisik, dan budget kamu biar makin maksimal nikmatin pesona laut pulau tropis ini!
 
-Tapi tenang, Bali nggak cuma soal水上活動 doang, aktivitas di darat juga seru abis! Kalau mau main di air dan darat sekaligus, cek deh artikel ini: [50 Aktivitas Outdoor Paling Populer di Bali](/blog/bali-top-50-outdoor-activities/)
+Tapi tenang, Bali nggak cuma soal水上活動 doang, aktivitas di darat juga seru abis! Kalau mau main di air dan darat sekaligus, cek deh artikel ini: [50 Aktivitas Outdoor Paling Populer di Bali](/id/blog/bali-top-50-outdoor-activities/)
 
 {{block:攻略}}

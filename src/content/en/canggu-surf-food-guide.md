@@ -47,7 +47,7 @@ Jay’s video screenshot
 
 [What else can you do in Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
-Bali started with Kuta and Legian, which have developed into the most bustling areas of the entire island. We previously did an episode on "Kuta Guide," so don't miss my "[Kuta Guide](/blog/2023-12-13-657598bdfd8978000120fe20/)" when traveling to Bali!
+Bali started with Kuta and Legian, which have developed into the most bustling areas of the entire island. We previously did an episode on "Kuta Guide," so don't miss my "[Kuta Guide](/en/blog/2023-12-13-657598bdfd8978000120fe20/)" when traveling to Bali!
 
 ![小傑的視頻截圖](https://images.gobaligo.id/vocus/vocus_ef926785ed04367981ee15ffdbb273f1.jpg)
 
@@ -55,7 +55,7 @@ Screenshot of Xiao Jie's video
 
 After years of evolution, the lively area along the coast gradually extended northward from Kuta and Legian. Located north of Kuta/Legian, Seminyak, known in Chinese as "Shui Mingyang" or "Semiake," was originally a small village independent of the Kuta area. Due to its cheap land prices, proximity to Kuta, and beautiful beaches, it began to attract expatriates living in Bali, leading to the construction of luxurious villas. This brought in exquisite dining, boutique shops, spas, and various designer brands to the area. Today, Seminyak is considered the epitome of fashion and trends in Bali, forming a continuous stretch from Kuta and Legian to Seminyak, making it the most essential shopping district on the island.
 
-> Further reading: [Seminyak Attractions: A Comprehensive Guide to 60 Must-Visit Spots in Bali](/blog/seminyak-guide/)
+> Further reading: [Seminyak Attractions: A Comprehensive Guide to 60 Must-Visit Spots in Bali](/en/blog/seminyak-guide/)
 
 Continuing north, about a 15-minute drive from Seminyak, we arrive at Canggu. While the Indonesian pronunciation sounds like "Changgu," the name actually has nothing to do with "long valleys"!
 
@@ -113,10 +113,10 @@ Ready to embark on a Canggu adventure? Below is a link to an exciting map of Can
 
 ## Further Reading
 
-[The Ultimate Canggu Adventure Map: 100 Must-Visit Spots in Canggu｜2026 Guide](/blog/canggu-guide/)
+[The Ultimate Canggu Adventure Map: 100 Must-Visit Spots in Canggu｜2026 Guide](/en/blog/canggu-guide/)
 
-[Bali Accommodation Recommendations: Top 13 Canggu Stays You Can't Miss](/blog/canggu-top-hotels-guide/)
+[Bali Accommodation Recommendations: Top 13 Canggu Stays You Can't Miss](/en/blog/canggu-top-hotels-guide/)
 
-[16 Private Pool Villas in Canggu: Bali Villas You Can't Miss](/blog/canggu-villas-guide/)
+[16 Private Pool Villas in Canggu: Bali Villas You Can't Miss](/en/blog/canggu-villas-guide/)
 
 {{block:攻略}}

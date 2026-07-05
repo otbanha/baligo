@@ -54,7 +54,7 @@ The entire park is wheelchair accessible, with ample lockers, changing rooms, an
 
 **Travel Tip:** It's best to arrive right when it opens in the morning to avoid the afternoon crowds. You can pre-purchase tickets through online platforms like Klook, which often offer discounts.
 
-Detailed Guide: [Waterbom Bali Water Park Complete Guide: Asia's Best, Waterslide Ratings, and Money-Saving Ticket Tips](https://gobaligo.id/blog/waterbom-bali-water-park-guide/)
+Detailed Guide: [Waterbom Bali Water Park Complete Guide: Asia's Best, Waterslide Ratings, and Money-Saving Ticket Tips](https://gobaligo.id/en/blog/waterbom-bali-water-park-guide/)
 
 > Online Tickets: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F175-waterbom-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D6ed5430a3c) [Kkday](https://www.kkday.com/zh-tw/product/19712-waterbom-bali-waterpark-tickets?cid=25072) [Trip](https://www.trip.com/travel-guide/attraction/bali/waterbom-bali-98347/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -72,7 +72,7 @@ The park is divided into several themed areas: the **Drive-Through Safari** is t
 
 **Travel Tip:** Taman Safari and the neighboring Marine Safari Bali offer a two-day combo ticket, so you can visit one each day—great value! See details below.
 
-Detailed Guide: [【2026 Bali Safari Park】Complete Guide: Sleeping at the Lion Hotel, Feeding Tigers from a Cage, Ticket Comparisons, and Family-Friendly Itinerary Tips](https://gobaligo.id/blog/bali-safari-night-experience/)
+Detailed Guide: [【2026 Bali Safari Park】Complete Guide: Sleeping at the Lion Hotel, Feeding Tigers from a Cage, Ticket Comparisons, and Family-Friendly Itinerary Tips](https://gobaligo.id/en/blog/bali-safari-night-experience/)
 
 > Book online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170-bali-safari-and-marine-park-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D5e2c8336f4) [Kkday](https://www.kkday.com/zh-tw/product/593851?cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/taman-safari-bali-90756/?locale=en-XX&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -92,7 +92,7 @@ For families who love the underwater world, rather than rushing to the other sid
 
 **Travel Tip:** The two-day combo ticket can be booked through authorized platforms. It’s recommended to visit Marine Safari first (open Tuesday to Sunday), then follow up with Taman Safari.
 
-Detailed guide: [Marine Safari Bali Guide](https://gobaligo.id/blog/marine-safari-bali-guide/)
+Detailed guide: [Marine Safari Bali Guide](https://gobaligo.id/en/blog/marine-safari-bali-guide/)
 
 > Book online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dff9b891d3a) [Kkday](https://www.kkday.com/zh-tw/product/582030?qs=%E5%B3%87%E9%87%8C%E5%B3%B6%E6%B5%B7%E6%B4%8B&groupOid=88&cid=25072) [Trip](https://www.trip.com/travel-guide/attraction/bali/marine-safari-bali-149824960/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -130,7 +130,7 @@ Adjacent to Bali Reptile Park (see below), you can purchase a combo ticket to ex
 
 **Travel Tip:** Wear long sleeves to protect against mosquitoes, and visit in the morning when the weather is cooler for the best experience.
 
-Detailed guide: [Bali Bird Park Ultimate Guide: Rare Birds, Interactive Activities, and Eco-Conservation Adventures](https://gobaligo.id/blog/bali-bird-park-guide/)
+Detailed guide: [Bali Bird Park Ultimate Guide: Rare Birds, Interactive Activities, and Eco-Conservation Adventures](https://gobaligo.id/en/blog/bali-bird-park-guide/)
 
 > Book online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D9f20741f36) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-bird-park-80525/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -148,7 +148,7 @@ The most popular experience here is having a staff member help **drape a python 
 
 A guide accompanies you throughout, explaining each animal's habits and conservation status in detail, turning this 'courageous journey' into a vivid natural education lesson.
 
-For more details: [Bali Reptile Park Guide: Get Up Close with Komodo Dragons, Interactive Giant Pythons, Ticket Prices, and Family Tips](https://gobaligo.id/blog/Bali-Reptile-Park/)
+For more details: [Bali Reptile Park Guide: Get Up Close with Komodo Dragons, Interactive Giant Pythons, Ticket Prices, and Family Tips](https://gobaligo.id/en/blog/Bali-Reptile-Park/)
 
 > Buy tickets online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F37955-bali-reptile-park-ticket%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7db7e3e24e) [Kkday](https://www.kkday.com/zh-tw/product/593869?qs=Bali+Reptile+Park&cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-reptile-park-128527409/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -168,7 +168,7 @@ Beyond dolphin interactions, the park also features sea lion shows, underwater o
 
 **Travel Tip:** Dolphin interaction experiences have limited availability, so it's highly recommended to book in advance through online platforms. Some interactive activities have age and height restrictions, so please check before booking.
 
-Detailed guide: [Bali Exotic Marine Park Guide: Up-Close Interactions, Swimming with Dolphins, Crowd Avoidance Tips, and Family Itinerary Planning](https://gobaligo.id/blog/Bali-Exotic-Marine-Park/)
+Detailed guide: [Bali Exotic Marine Park Guide: Up-Close Interactions, Swimming with Dolphins, Crowd Avoidance Tips, and Family Itinerary Planning](https://gobaligo.id/en/blog/Bali-Exotic-Marine-Park/)
 
 > Online Tickets: [Kkday](https://www.kkday.com/zh-tw/product/138734-bali-exotic-dolphin-marine-park-indonesia?cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -202,7 +202,7 @@ If you thought Trans Studio was Bali's only indoor theme park, AeroXSpace Advent
 
 **Travel Tip:** Each ride has height restrictions (Space Coaster requires 120cm+, Stellar Ropes 140cm+, VR Cinema 130cm+). Kids aged 8 and up can play independently; those under 8 but over 110cm can enter with a parent. Tickets start from IDR 175,000, and weekdays are recommended for smaller crowds.
 
-Detailed info: [AeroXSpace Adventure: A Massive Indoor Playground Opens in Sanur](https://gobaligo.id/blog/aeroxspace-sanur-indoor-playground/)
+Detailed info: [AeroXSpace Adventure: A Massive Indoor Playground Opens in Sanur](https://gobaligo.id/en/blog/aeroxspace-sanur-indoor-playground/)
 
 > Book online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F129545-aeroxspace-adventure-pass-in-denpasar-bali%2F%3Fspm%3DLanguageCurrencySelectionPopup.MoreLanguage_LIST%26clickId%3D040e88c578) [Trip](https://tw.trip.com/travel-guide/attraction/bali/aeroxspace-adventure-148887623?curr=IDR&locale=zh-TW&poiType=66&ext-searchpage=1&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -222,7 +222,7 @@ If your itinerary happens to coincide with Bali's typical tropical afternoon thu
 
 **Travel Tip:** Consider purchasing a Fast Track ticket for the best value—skip the lines and maximize your fun. The shopping mall offers plenty of dining options, so you can easily combine shopping and play for a relaxed day out.
 
-Detailed guide: [Trans Studio Bali Complete Guide: Top 5 Rides, Ticket Deals, and Rainy Day Backup Plans](https://gobaligo.id/blog/trans-studio-bali/)
+Detailed guide: [Trans Studio Bali Complete Guide: Top 5 Rides, Ticket Deals, and Rainy Day Backup Plans](https://gobaligo.id/en/blog/trans-studio-bali/)
 
 > Book online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99048-trans-studio-bali-ticket%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7de4b80bf3) [Kkday](https://www.kkday.com/zh-tw/product/154657-trans-studio-bali-theme-park-bali-seminyak-indonesia?qs=trans+studio&cid=25072) [Trip](https://tw.trip.com/travel-guide/attraction/bali/trans-studio-bali-theme-park-142709856/?locale=zh-TW&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -259,7 +259,7 @@ _The information in this article is accurate as of the time of writing. Please c
 
 ![Practical Tips for Planning a Family Trip to Bali](https://images.gobaligo.id/images/2026-05/1780210997008-689d437ba3e141dc624b514a766ad8d9.jpg)
 
->[【Ubud Family Travel】50+ Kids' Favorite Activities: Zoos, Jungle Adventures & Traditional DIY Crafts Full Guide](https://gobaligo.id/blog/ubud-with-kids-guide/)
+>[【Ubud Family Travel】50+ Kids' Favorite Activities: Zoos, Jungle Adventures & Traditional DIY Crafts Full Guide](https://gobaligo.id/en/blog/ubud-with-kids-guide/)
 
 ## Frequently Asked Questions (FAQ)
 
@@ -267,9 +267,9 @@ _The information in this article is accurate as of the time of writing. Please c
 
 **Q2: How do I purchase a two-day combo ticket for Taman Safari and Marine Safari?** You can inquire about two-day combo ticket options directly at the Taman Safari official ticket counter. Some authorized booking platforms (like Klook) also occasionally offer package deals. It's recommended to pre-purchase through official or trusted platforms, as combo tickets may not always be available at the on-site ticket booth. The two parks are adjacent, so staying in the Gianyar or Ubud area for two days is most convenient.
 
-- [Ubud Accommodation Guide 2026 | 30+ Ubud Resorts Complete Guide](https://gobaligo.id/blog/ubud-resorts-guide/)
-- [20+ Dreamy Ubud Villa Pool Villas: From Forest Hideaways to Rural Luxury, a No-Fail Paradise List](https://gobaligo.id/blog/ubud-villa-pool-guide/)
-- [10 Breathtaking Treehouse/Bamboo Villas in Ubud](https://gobaligo.id/blog/ubud-treehouse-bamboo-villa-stays/)
+- [Ubud Accommodation Guide 2026 | 30+ Ubud Resorts Complete Guide](https://gobaligo.id/en/blog/ubud-resorts-guide/)
+- [20+ Dreamy Ubud Villa Pool Villas: From Forest Hideaways to Rural Luxury, a No-Fail Paradise List](https://gobaligo.id/en/blog/ubud-villa-pool-guide/)
+- [10 Breathtaking Treehouse/Bamboo Villas in Ubud](https://gobaligo.id/en/blog/ubud-treehouse-bamboo-villa-stays/)
 
 **Q3: Where are Bali's zoos and animal parks concentrated?** Bali Bird Park, Bali Reptile Park, Bali Zoo, and Taman Safari / Marine Safari are all located in **Gianyar Regency**, not far from each other. This makes it easy to plan a 2-3 day 'animal-themed itinerary,' with Ubud as the most convenient base for accommodation.
 

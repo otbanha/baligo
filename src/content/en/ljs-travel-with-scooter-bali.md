@@ -133,13 +133,13 @@ For dinner, we chose the popular local eatery **Sun Sun Warung**, known for its 
 
 **Day Five**: Early in the morning, we headed to **Ubud Palace**. With few tourists around at this hour, the palace was exceptionally peaceful, making it the perfect time to capture the pure Balinese architectural and carving details in photos.
 
-> Quick Reference: [【Must-Visit Spots in Ubud】Ubud Palace: A Treasure of Balinese Culture and History｜Opening Hours, Tickets, Performance Times, Nearby Attractions, Day Trip Recommendations](/blog/ubud-royal-palace-tour-guide/)
+> Quick Reference: [【Must-Visit Spots in Ubud】Ubud Palace: A Treasure of Balinese Culture and History｜Opening Hours, Tickets, Performance Times, Nearby Attractions, Day Trip Recommendations](/en/blog/ubud-royal-palace-tour-guide/)
 
 Next, we visited the famous **Tirta Empul Temple**, a sacred site for locals where many devotees come to perform purification rituals in the holy spring. The atmosphere inside the temple is solemn and serene, evoking a sense of connection with nature and faith.
 
 ![Jimbaran Accommodation](https://images.gobaligo.id/vocus/vocus_2e29af9eca891ff9b6e50c096a6ddc9b.jpg)
 
-> Quick Reference: [【2025】Tirta Empul Temple Complete Guide: Bali's Most Sacred Purification Water Temple Experience](/blog/tirta-empul-temple-guide/)
+> Quick Reference: [【2025】Tirta Empul Temple Complete Guide: Bali's Most Sacred Purification Water Temple Experience](/en/blog/tirta-empul-temple-guide/)
 
 After the visit, we rode another 3.5 kilometers to the emerging Instagram hotspot **Sari Timbul by Kubu Bali**. Known for its large wooden art installations, every corner is full of dramatic flair, making it a highly photogenic location, especially popular among women, and a perfect spot for social media check-ins.
 
@@ -183,7 +183,7 @@ After resting for a while, we headed to the magnificent **Uluwatu Temple** in th
 
 The sunset at Uluwatu Temple is one of the most unforgettable Bali experiences for many travelers. Built on a cliff overlooking the Indian Ocean, as the sun slowly sinks below the horizon, the sky turns golden and orange, reflecting off the majestic coastline. The atmosphere is both romantic and sacred. Pairing this with the famous Kecak Dance performance enhances the unique cultural and natural fusion that Bali offers.
 
-> Quick Reference: [Top 6 Must-See Kecak Fire Dance Locations in Bali: A Visual and Cultural Feast](/blog/bali-kecak-fire-dance-locations/)
+> Quick Reference: [Top 6 Must-See Kecak Fire Dance Locations in Bali: A Visual and Cultural Feast](/en/blog/bali-kecak-fire-dance-locations/)
 
 **Day Six**: Today's itinerary was more relaxed as we visited the **Pandawa Beach** area. Once a hidden gem, it has now been developed into a complete tourist destination. Upon entering, don't miss the unique experience of purchasing a ticket to ride a shuttle car (IDR 30K per person) to the so-called 'Blue Road' of **Tanah Barak**. The most striking feature here is the towering limestone cliffs on both sides, often described as 'Bali's version of Japan's Tateyama Kurobe Alpine Route,' but with magnificent limestone instead of snow. This scene is particularly popular among young people, offering impressive photo opportunities.
 
@@ -191,7 +191,7 @@ The sunset at Uluwatu Temple is one of the most unforgettable Bali experiences f
 
 In recent years, these spectacular cliffs have become a trending spot among influencers. Thanks to the changing angles and light, every photo turns out beautifully. To get here, you must enter through the Pandawa Beach entrance and take the shuttle provided by the compound. The journey itself is scenic, and upon arrival, you'll be struck by the dramatic interplay of cliffs, blue sky, and ocean—a must-visit spot for photography enthusiasts.
 
-Quick Reference: [Batu Barak/Tanah Barak in Bali: A Stunning Journey Along the Blue Road/Cliff Road](/blog/batu-barak-cliff-road/)
+Quick Reference: [Batu Barak/Tanah Barak in Bali: A Stunning Journey Along the Blue Road/Cliff Road](/en/blog/batu-barak-cliff-road/)
 
 {{block:uluwatu}}
 
@@ -201,7 +201,7 @@ In the afternoon, we returned to our villa in Jimbaran, choosing to do nothing b
 
 The sunset at Jimbaran Beach is considered by many to be one of Bali's most romantic moments. As the sun slowly sets, the sea turns into a golden-orange hue, accompanied by the sound of waves and a gentle breeze, creating an enchanting atmosphere. Many visitors enjoy ordering a seafood candlelit dinner on the beach, savoring the food while watching the sun sink into the Indian Ocean. The scene is poetic and picturesque, making Jimbaran a must-visit romantic experience for couples and families.
 
-> Quick reference: [Bali Jimbaran Seafood Recommendations: 13 Trusted Seafood Restaurants](/blog/jimbaran-seafood-restaurants-list/)
+> Quick reference: [Bali Jimbaran Seafood Recommendations: 13 Trusted Seafood Restaurants](/en/blog/jimbaran-seafood-restaurants-list/)
 
 That night, we stayed again at [**The Jimbaran Villa by Ini Vie Hospitality**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5730375) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=23782664&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_CsfD98-esQuyGpmYGhgZGBguFLW5XOFaLrHN_OKvewXOHXOvrwCPNDgE8EVMOPJ_GntjytZ7v86xAhy5GVrDADMaOU6u5NzJeX1xgy7U93mEHI9MBRqYTjL_FFjBt7nxoeYqFmeMMyyWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZBtZmugZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGXywMTawMXazMHMeZJgHJ32K7WPn9I_2DLEx1w80iXXWjdA0vsB6SlJI3NDAwMDU0NjXVNUi0tDA3M7HUNbE0MTYAUsYmJiYaLcf2zXpqbGQtBYl_BUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWzmhi6Gli5RNlzMocEugoW2XNcXG0g7SDGHhLsorrzJvPbAhNP2WsyeLkGG9_6z5GorW9oHWnwR439vucA-EiafxFqVoRsSntErXsDYwMjUxcgtwOjBGMFYAeQxrmJk52I2MDIUYNrAyLiD8T8MML5iBFkCADI-06gCAwAA&masterhotelid_tracelogid=100051355-0a987649-494309-43444&detailFilters=17|1~17~1*31|23782664~31~23782664*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=224&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/LerWcw1j), continuing to enjoy the serene nightscape of Jimbaran.
 
@@ -213,7 +213,7 @@ In the afternoon, we timed our visit to **Tanah Lot Temple** to coincide with lo
 
 ![Jimbaran Accommodation](https://images.gobaligo.id/vocus/vocus_e865be61feb283663c6b4e451024b0a6.jpg)
 
-> Quick reference: [Bali Must-Visit Attraction: Tanah Lot Temple Detailed Guide & Tide Information](/blog/bali-tanah-lot-guide/)
+> Quick reference: [Bali Must-Visit Attraction: Tanah Lot Temple Detailed Guide & Tide Information](/en/blog/bali-tanah-lot-guide/)
 
 In the evening, we returned to the city and dined at the highly-rated **Naughty Nuri's Warung Seminyak**. This restaurant is famous for its grilled pork ribs, which are tender and coated in a rich, flavorful sauce. The aroma was irresistible, making it a perfect spot for indulging. We spent the night in Kuta, preparing for the final day of our journey.
 
@@ -227,9 +227,9 @@ In the evening, we returned to the city and dined at the highly-rated **Naughty 
 
 This **8-day, 7-night Bali trip for two** was an unforgettable adventure as we explored the island on scooters, weaving through cities, rice fields, and coastlines. While we didn’t opt for luxurious private car tours, we embraced the local rhythm of life, stopping freely and exploring at our own pace. Along the way, we shared romantic moments and overcame small challenges together, making the journey feel even more meaningful. For us, this 'budget-friendly' approach truly captured the essence of travel: freedom, authenticity, and our own little adventure.
 
-- [Bali Motorbike Rental Guide: Should You Rent a Scooter or Hire a Private Car?](/blog/bali-motorbike-rental-guide/)
-- [Bali Scooter Rental Tips: Prices, Safety, and What to Know](/blog/bali-motorbike-rental-tips/)
-- [When to Hire a Private Car vs. When to Call a Ride: Choosing the Best Transportation for Your Trip](/blog/bali-transportation-guide-car-rental/)
+- [Bali Motorbike Rental Guide: Should You Rent a Scooter or Hire a Private Car?](/en/blog/bali-motorbike-rental-guide/)
+- [Bali Scooter Rental Tips: Prices, Safety, and What to Know](/en/blog/bali-motorbike-rental-tips/)
+- [When to Hire a Private Car vs. When to Call a Ride: Choosing the Best Transportation for Your Trip](/en/blog/bali-transportation-guide-car-rental/)
 
 I’ve chosen to travel by motorbike in **Thailand, Malaysia, Indonesia, Laos, and Sri Lanka**. It’s a budget-friendly, convenient, and liberating way to explore, and it helps avoid the hassle of being overcharged for transportation. Over the years, I’ve gained plenty of experience, and while the biggest downside is enduring the scorching sun—often leading to tanning or sunburn—the benefits of controlling my travel pace and exploring freely far outweigh the drawbacks.
 
@@ -243,6 +243,6 @@ Did you find their itinerary exciting? Start planning your own Bali adventure no
 
 Click here to explore more amazing Bali travel stories
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
 
 {{block:攻略}}

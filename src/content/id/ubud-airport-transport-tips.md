@@ -75,9 +75,9 @@ Di sekitar Kuta, kamu bisa mampir ke beberapa tempat, beli oleh-oleh, atau cari 
 
 ![更多庫塔吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
 
-[Baca Panduan Kuta di sini](/blog/2023-12-13-657598bdfd8978000120fe20/)
+[Baca Panduan Kuta di sini](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
 
-Kuta adalah salah satu destinasi paling hidup di Bali, terkenal dengan nightlife yang rame, jalanan yang sibuk, dan pantai ramah pemula buat surfing. Di sini ada banyak toko, restoran, dan tempat hiburan — cocok banget buat yang suka belanja atau cari sensasi. Mau party seru atau lihat sunset cantik, Kuta bakal bikin liburanmu penuh kenangan! Mau tahu lebih banyak tips soal Kuta? [Klik di sini](/blog/2023-12-13-657598bdfd8978000120fe20/).
+Kuta adalah salah satu destinasi paling hidup di Bali, terkenal dengan nightlife yang rame, jalanan yang sibuk, dan pantai ramah pemula buat surfing. Di sini ada banyak toko, restoran, dan tempat hiburan — cocok banget buat yang suka belanja atau cari sensasi. Mau party seru atau lihat sunset cantik, Kuta bakal bikin liburanmu penuh kenangan! Mau tahu lebih banyak tips soal Kuta? [Klik di sini](/id/blog/2023-12-13-657598bdfd8978000120fe20/).
 
 ***
 
@@ -93,7 +93,7 @@ Sekarang banyak aplikasi lalu lintas real-time yang bisa bantu kamu lihat kondis
 
 Tapi **jangan terlalu percaya sama perkiraan waktu tiba dari aplikasi lalu lintas!** Karena di Bali, kemungkinan besar nggak akurat!
 
-Cek ini: [Di Bali, Jangan Percaya Google Maps!](/blog/bali-google-maps-warning/)
+Cek ini: [Di Bali, Jangan Percaya Google Maps!](/id/blog/bali-google-maps-warning/)
 
 ***
 
@@ -122,9 +122,9 @@ Perjalanan dari Ubud ke bandara penuh dengan ketidakpastian, tapi kalau kamu sia
 
 ![更多金巴蘭吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_c81d870630ca07dead1d2e8614f923c4.jpg)
 
-[Baca Panduan Lengkap Jimbaran di Sini](/blog/jimbaran-guide/)
+[Baca Panduan Lengkap Jimbaran di Sini](/id/blog/jimbaran-guide/)
 
-Jimbaran adalah surga pesisir di Bali yang terkenal dengan suasana romantis dan kuliner kece. Punya pantai pasir keemasan yang memesona plus pemandangan sunset yang spektakuler banget. Sepanjang jalan di sini ada deretan restoran seafood bakar yang wajib kamu coba — pengalaman kuliner yang nggak boleh dilewatkan. Selain itu, ada juga resor mewah dan nuansa desa nelayan yang tenang, bikin kamu bisa menikmati kemewahan sekaligus merasakan kehidupan lokal. Mau liburan keluarga atau kencan romantis, Jimbaran pasti bisa memenuhi ekspektasi kamu! Mau tahu lebih banyak soal Jimbaran? [Klik di sini](/blog/jimbaran-guide/).
+Jimbaran adalah surga pesisir di Bali yang terkenal dengan suasana romantis dan kuliner kece. Punya pantai pasir keemasan yang memesona plus pemandangan sunset yang spektakuler banget. Sepanjang jalan di sini ada deretan restoran seafood bakar yang wajib kamu coba — pengalaman kuliner yang nggak boleh dilewatkan. Selain itu, ada juga resor mewah dan nuansa desa nelayan yang tenang, bikin kamu bisa menikmati kemewahan sekaligus merasakan kehidupan lokal. Mau liburan keluarga atau kencan romantis, Jimbaran pasti bisa memenuhi ekspektasi kamu! Mau tahu lebih banyak soal Jimbaran? [Klik di sini](/id/blog/jimbaran-guide/).
 
 {{block:klook}}
 
@@ -132,4 +132,4 @@ Jimbaran adalah surga pesisir di Bali yang terkenal dengan suasana romantis dan 
 
 👈 **Kembali ke Panduan Lengkap Liburan Mandiri ke Bali**
 
-Mau lihat panduan lengkap buat pemula? [Klik di sini baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam sekali baca.
+Mau lihat panduan lengkap buat pemula? [Klik di sini baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam sekali baca.

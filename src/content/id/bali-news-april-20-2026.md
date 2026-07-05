@@ -38,4 +38,4 @@ Hari ini (20/4) rangkuman berita **Bali** sebagai berikut:
 - **Digitalisasi Masuk Wajib**: Pemerintah menegaskan bahwa sebelum masuk Indonesia tahun 2026, wisatawan harus menyelesaikan **e-VOA (Visa on Arrival elektronik)** dan **Arrival Card** di situs "All Indonesia". Tidak ada lagi layanan kertas di lapangan.
 - **Peringatan Lalu Lintas**: Akibat dampak lari kemarin dan hujan badai hari ini, arus lalu lintas di ruas Gianyar-Denpasar melambat. Selain itu, pagar proyek MRT di selatan terus bertambah; disarankan menyisihkan waktu 30 menit lebih awal ke bandara.
 
-> [「All Indonesia」Kartu Kedatangan｜Panduan Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](/blog/bali-all-indonesia-arrival-guide/)
+> [「All Indonesia」Kartu Kedatangan｜Panduan Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)

@@ -35,10 +35,10 @@ Kami punya total empat episode tentang Nusa Penida, berikut linknya:
 
 Kami punya total lima episode tentang Nusa Penida, yuk kenali lebih dalam surga pulau ini! Berikut link ke episode lainnya:
 
-1. [Kuliner dan Laut Biru di Nusa Penida: Top 9 Pilihan Terbaik](/blog/nusa-penida-best-restaurants/)
-2. [Spot Snorkeling Nusa Penida, Gimana Cara Ikut?](/blog/nusa-penida-snorkeling-guide/)
-3. [Panduan Transportasi Nusa Penida: Taksi, Gojek/Grab, Sewa Mobil, Motor](/blog/nusa-penida-transport-guide/)
-4. [Rekomendasi Penginapan Nusa Penida: 13 Hotel dari Mewah sampai Budget](/blog/nusa-penida-hotels-guide/)
+1. [Kuliner dan Laut Biru di Nusa Penida: Top 9 Pilihan Terbaik](/id/blog/nusa-penida-best-restaurants/)
+2. [Spot Snorkeling Nusa Penida, Gimana Cara Ikut?](/id/blog/nusa-penida-snorkeling-guide/)
+3. [Panduan Transportasi Nusa Penida: Taksi, Gojek/Grab, Sewa Mobil, Motor](/id/blog/nusa-penida-transport-guide/)
+4. [Rekomendasi Penginapan Nusa Penida: 13 Hotel dari Mewah sampai Budget](/id/blog/nusa-penida-hotels-guide/)
 
 ## Tempat Wisata Populer di Nusa Penida
 
@@ -132,7 +132,7 @@ Begitu kapal jalan, dari Sanur ke Nusa Penida butuh waktu sekitar 45 menit. Kapa
 
 Speed boat dari Bali ke Nusa Penida biasanya punya batas bagasi: maksimal dua koper dengan total berat 30 kg. Tapi, mereka nggak bakal nimbang beneran. Barang kamu bakal ditaruh di dek, ditutup terpal besar biar nggak kecipratan.
 
-Kalau kamu mau nitip koper besar di daratan Bali, bisa cek: [【Panduan Titip Koper di Sanur buat ke Pulau Lain】](/blog/sanur-luggage-storage-guide/)
+Kalau kamu mau nitip koper besar di daratan Bali, bisa cek: [【Panduan Titip Koper di Sanur buat ke Pulau Lain】](/id/blog/sanur-luggage-storage-guide/)
 
 ## **Rekomendasi Penginapan**
 
@@ -168,7 +168,7 @@ Terakhir, ada beberapa catatan penting buat kamu yang mau ke Nusa Penida:
 
 3. Boleh bawa koper besar, tapi mending dihindari aja — di pulau bakal ribet banget.
 
-4. Buat penitipan barang, [cek di sini](/blog/sanur-luggage-storage-guide/).
+4. Buat penitipan barang, [cek di sini](/id/blog/sanur-luggage-storage-guide/).
 
 5. Kalau beli tiket lewat Klook, datang ke pelabuhan minimal 30 menit sebelum kapal berangkat.
 
@@ -195,10 +195,10 @@ Terakhir, ada beberapa catatan penting buat kamu yang mau ke Nusa Penida:
 
 ### Kami juga udah bahas sembilan restoran keren di Nusa Penida yang punya infinity pool, pasir emas, dan sunset kece
 
-**▶ Panduan Nusa Penida Part 2:** [Nikmatin Kuliner Laut Biru Langit di Nusa Penida, TOP 9 Pilihan Terbaik](/blog/nusa-penida-best-restaurants/)
+**▶ Panduan Nusa Penida Part 2:** [Nikmatin Kuliner Laut Biru Langit di Nusa Penida, TOP 9 Pilihan Terbaik](/id/blog/nusa-penida-best-restaurants/)
 
 ![Kami juga udah bahas sembilan restoran keren di Nusa Penida ](https://images.gobaligo.id/vocus/vocus_22ae845281804118aa70b28861ed088e.jpg)
 
-**▶ Panduan Nusa Penida Part 3:** [Empat Spot Snorkeling Terbaik di Nusa Penida / Cara Ikut Snorkeling?](/blog/nusa-penida-snorkeling-guide/)
+**▶ Panduan Nusa Penida Part 3:** [Empat Spot Snorkeling Terbaik di Nusa Penida / Cara Ikut Snorkeling?](/id/blog/nusa-penida-snorkeling-guide/)
 
 ![Kami juga udah bahas sembilan restoran keren di Nusa Penida ](https://images.gobaligo.id/vocus/vocus_45dcf8200acb1b2e97b7e51cf764425f.jpg)

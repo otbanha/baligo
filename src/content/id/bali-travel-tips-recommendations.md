@@ -46,7 +46,7 @@ Kali ini aku milih Peppers Villa yang baru aja gabung sama grup Accor, lokasinya
 
 > 編按：這裡也推一下 [Peppers Seminyak 水療體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97308-spa-at-peppers-seminyak-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D36822d6253)
 
-> 延伸閱讀：[本站Peppers Seminyak的詳細中文介紹](https://gobaligo.id/blog/seminyak-private-villas-guide/#peppers-seminyak---%E4%B8%96%E7%95%8C%E7%B4%9A%E8%B1%AA%E8%8F%AF%E9%AB%94%E9%A9%97)
+> 延伸閱讀：[本站Peppers Seminyak的詳細中文介紹](https://gobaligo.id/id/blog/seminyak-private-villas-guide/#peppers-seminyak---%E4%B8%96%E7%95%8C%E7%B4%9A%E8%B1%AA%E8%8F%AF%E9%AB%94%E9%A9%97)
 
 > Peppers Seminyak 房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=90309) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1200024&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxMLFJMEk1c3C8Xv_hKdsQoxGBvIWXwUdW18H7pBjnuzgKQ9i2U53COCJmHLg-TT2RK_qZn2fI4EOjYxLCmy5rie7O3QxsoKlZjDOmO-5kTENBF4VOOxgZDrB-N90AdPnkyu1T7Ewc7zgvMTylSm6Wik7tVLJykRHqSSzJCdVyUrp2Zzep90zX2zaraSjlJJanAwUArISc_NL80qAbDNTCz0DA6BISWKFZ4qSlbmOUnJiTnJpTmJJakhlAdAEMx2lzGLnkqLMgqDU3MySklSgqrTEnOJUkHhQajFQJhksqOQHNKYIKpCZnwfRboAiFpaYU5oKcQLQQrdUqB3GtTqYLn-6aN7Thj3PV7Rid7mpJarLTQbE5Ya1sY9YmKJjP7Ew_GJhaGJl6GJl5jjFNAlI_jfdxcoTYurqF2mpa6gbpWt4gfWkhZS8oYGBgamhsamprkGipUWScaKBromliZGlqa6hobGJkcahxneNT42NrKUgEa_AqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzdXY3MzcMsqGi9nTJUjw3n-WXG1lS3sp5pBwF8WVN5nXHphw2l4LJGcIkwu0-CLG_95ygX1kXreRdMqk0_ZJrFUZuiHhGb3iBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUA-7eDov4CAAA&masterhotelid_tracelogid=100051355-0a98b3a0-494295-11342&detailFilters=17|1~17~1*31|1200024~31~1200024*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=264&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/aVlkTHog)
 
@@ -80,13 +80,13 @@ Oneeighty Day Club (dok. June Lin)
 
 Kali ini kami sengaja booking VIP area di Oneeighty Day Club, dapet seat baris depan, rasanya oke banget. Biaya booking plus makanan sekitar USD$48 per orang. Meskipun harganya lumayan, makanannya enak banget di luar dugaan, pelayanannya juga super ramah. Kolam infinity di sini dalam banget, 1,7 meter, jadi kami cuma bisa foto-foto di pinggir kolam, terus fokus nikmatin makanan. Overall, aku kasih 95 poin buat pengalaman makan di sini.
 
-> Cara booking, sistem bayar, dan video review: [Eksplorasi Oneeighty Day Club: Pemandangan Kolam Renang Tepi Tebing Bali yang Spektakuler](/blog/oneeighty-dayclub-uluwatu-pool/)
+> Cara booking, sistem bayar, dan video review: [Eksplorasi Oneeighty Day Club: Pemandangan Kolam Renang Tepi Tebing Bali yang Spektakuler](/id/blog/oneeighty-dayclub-uluwatu-pool/)
 
 ### Cretya Ubud
 
 Cretya Ubud adalah restoran ayunan terkenal di Ubud. Makanannya jauh lebih enak dari yang aku bayangkan, rasa dan teksturnya di luar ekspektasi. Soal foto di ayunan, tempat ini udah kayak pusat para cewek dari seluruh dunia buat foto estetik. Pagi-pagi aja, area ayunan udah penuh sama yang antre foto. Saran aku, jangan nekat ambil ayunan paling tinggi, ayunan kecil di sampingnya malah lebih bagus hasil fotonya. Kami sekelompok akhirnya dapet banyak foto panik, lucu banget momennya. Makanan aku kasih 90 poin, pengalaman foto estetik 70 poin.
 
-> Baca juga: [Mewah dengan Budget Pas-pasan: Panduan Cretya Ubud Pool Club & Alas Harum](/blog/cretya-ubud-alas-harum-budget-guide/)
+> Baca juga: [Mewah dengan Budget Pas-pasan: Panduan Cretya Ubud Pool Club & Alas Harum](/id/blog/cretya-ubud-alas-harum-budget-guide/)
 
 ### Ku De Ta
 
@@ -96,7 +96,7 @@ Ku De Ta (dok. June Lin)
 
 Ku De Ta adalah salah satu restoran di kawasan pantai Seminyang. Di sini kamu bisa menikmati makanan sambil melihat sunset yang cantik banget. Pelayanannya oke, live music-nya juga pas banget sama suasananya, bikin rileks. Abis makan, kamu bisa jalan-jalan ke pantai. Harga dinner juga reasonable banget, sekitar USD$16-19 per orang. Di Taiwan mungkin susah dapet makanan seenak ini dengan harga segitu. Aku kasih restoran ini 90 poin.
 
-> [Panduan Ku De Ta](/blog/ku-de-ta-beach-club/)
+> [Panduan Ku De Ta](/id/blog/ku-de-ta-beach-club/)
 
 > Ku De Ta [Pemesanan Sofa Bed](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1004596&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F135291-kudeta-beach-club-in-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D67569d3aa6)
 

@@ -68,7 +68,7 @@ https://youtube.com/shorts/ymx-kClfA1I
 
 - 薄身長袖衫（去廟或者夜晚涼咗可以著）
 
-**快速參考：**[峇里島要帶外套嗎？峇里島穿搭攻略：旅行中必帶嘅8件衫褲](/blog/bali-packing-essentials/)
+**快速參考：**[峇里島要帶外套嗎？峇里島穿搭攻略：旅行中必帶嘅8件衫褲](/zh-hk/blog/bali-packing-essentials/)
 
 ## 雨季交通小貼士
 
@@ -88,7 +88,7 @@ https://youtube.com/shorts/ymx-kClfA1I
 6. 瀑布追逐：雨季水量最大，Sekumpul、Tegenungan瀑布超壯觀！
 7. 文化之旅：參觀廟宇、睇傳統舞蹈表演（好多係室內）。
 
-**快速參考：**[峇里島落雨天嘅60個備案攻略](/blog/2026-bali-indoor-activities/)
+**快速參考：**[峇里島落雨天嘅60個備案攻略](/zh-hk/blog/2026-bali-indoor-activities/)
 
 ## 我嘅真心建議
 

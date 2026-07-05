@@ -74,7 +74,7 @@ Currently, the most common types are B1 and C1:
 
 ![Here's another important point many people ask about: How to](https://images.gobaligo.id/vocus/vocus_dd1d15ae602a759d1d7e072cbd771d4d.jpg)
 
-**Quick Reference:** [Indonesia/Bali eVisa/eVoa Complete Guide: Application Steps, Precautions All in One Place!](/blog/bali-evisa-application-guide/)
+**Quick Reference:** [Indonesia/Bali eVisa/eVoa Complete Guide: Application Steps, Precautions All in One Place!](/en/blog/bali-evisa-application-guide/)
 
 ### B1 Visa (Tourist Visa)
 
@@ -152,7 +152,7 @@ Yes. EVOA (Electronic Visa on Arrival) can now be applied for online before depa
 
 making the entry process much smoother and reducing the need to wait in long queues.
 
-**Quick Reference:** [Complete Guide to Indonesia/Bali eVisa/eVOA: Application Steps & Precautions All in One Place!](/blog/bali-evisa-application-guide/)
+**Quick Reference:** [Complete Guide to Indonesia/Bali eVisa/eVOA: Application Steps & Precautions All in One Place!](/en/blog/bali-evisa-application-guide/)
 
 ### Q7: Can EVOA be extended?
 

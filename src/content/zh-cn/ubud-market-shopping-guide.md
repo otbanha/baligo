@@ -83,7 +83,7 @@ Update: 2026/07/03
 
 巴厘岛的银饰工艺同样有名，尤其是在乌布市场更是琳琅满目。无论是 **手链、戒指、项链或耳环**，每一件作品都由工匠精心打造，线条细致、设计多样。如果你喜欢简约风或民族风，在这里一定能找到属于你的那一款。
 
-**参加银饰制作课程**：[深入巴厘岛文化：银饰工艺工作坊不可错过的日游体验](/blog/bali-silver-workshop/)
+**参加银饰制作课程**：[深入巴厘岛文化：银饰工艺工作坊不可错过的日游体验](/zh-cn/blog/bali-silver-workshop/)
 
 ***
 
@@ -119,10 +119,10 @@ Update: 2026/07/03
 
 **延伸阅读：**
 
-- [推荐乌布五大艺术市集/艺术市场完整指南：购买纪念品/伴手礼，寻访巴厘岛文化宝藏](/blog/ubud-art-markets-guide/)
-- [巴厘岛特色的艺术纪念品：将旅程回忆变成永久收藏](/blog/bali-art-souvenirs-guide/)
-- [【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/blog/bali-souvenirs-gift-guide/)
-- [【巴厘岛旅游注意】这些巴厘岛伴手礼不能带回台湾！一次搞懂台湾海关规定](/blog/bali-souvenirs-customs-restrictions/)
+- [推荐乌布五大艺术市集/艺术市场完整指南：购买纪念品/伴手礼，寻访巴厘岛文化宝藏](/zh-cn/blog/ubud-art-markets-guide/)
+- [巴厘岛特色的艺术纪念品：将旅程回忆变成永久收藏](/zh-cn/blog/bali-art-souvenirs-guide/)
+- [【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/zh-cn/blog/bali-souvenirs-gift-guide/)
+- [【巴厘岛旅游注意】这些巴厘岛伴手礼不能带回台湾！一次搞懂台湾海关规定](/zh-cn/blog/bali-souvenirs-customs-restrictions/)
 
 ***
 

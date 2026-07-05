@@ -47,7 +47,7 @@ So, you don't need to ask 'Is it raining in Bali?' or 'Will it rain in Bali?' an
 
 Whenever you choose to visit Bali, always carry rain gear and stay alert to weather changes. Your journey might include some surprising weather fluctuations, but that's part of Bali's charm. We hope you enjoy the unique allure and wonderful moments this beautiful island offers, no matter when you visit!
 
-**Further Reading:** [Bali Rainy Season: What to Do When It Rains in Bali? 60 Alternative Activities for Rainy Days](/blog/2026-bali-indoor-activities/)
+**Further Reading:** [Bali Rainy Season: What to Do When It Rains in Bali? 60 Alternative Activities for Rainy Days](/en/blog/2026-bali-indoor-activities/)
 
 ## Rainy Season Precautions
 
@@ -66,6 +66,6 @@ The rainy season in Bali requires special attention from travelers. Here are eig
 
 If you do encounter rainy weather and your plans are disrupted, the link below offers 30 alternative activities that aren't affected by the rain:
 
-> [What to Do When It Rains? 60 Alternative Activities for Rainy Days in Bali](/blog/2026-bali-indoor-activities/)
+> [What to Do When It Rains? 60 Alternative Activities for Rainy Days in Bali](/en/blog/2026-bali-indoor-activities/)
 
 {{block:klook}}

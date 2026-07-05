@@ -38,7 +38,7 @@ eVoA 必须在出发前先在[印尼官方网站](https://evisa.imigrasi.go.id/)
 
 建议申请时间为出发前 1 周内，既可确保处理时间，也避免太早申请而错过使用期限。
 
-**快速参考：**[2025 最新版印尼/Bali 入境签证 & 电子签证 eVoA 填写相关 FAQ](/blog/indonesia-bali-visa-evoa-faq/)
+**快速参考：**[2025 最新版印尼/Bali 入境签证 & 电子签证 eVoA 填写相关 FAQ](/id/blog/indonesia-bali-visa-evoa-faq/)
 
 ---
 
@@ -50,7 +50,7 @@ Aturan pengisiannya cukup jelas: hanya bisa diisi **dalam 3 hari sebelum keberan
 
 Saran: isi 2–3 hari sebelum penerbangan, biar nggak lupa atau kena masalah lain yang bisa bikin proses imigrasi jadi ribet.
 
-**Referensi cepat:** [【Terbaru 2025】Cara Isi eCD Bali? Panduan Lengkap eCD Biar Masuk Bali Lancar Jaya](/blog/bali-e-customs-declaration/)
+**Referensi cepat:** [【Terbaru 2025】Cara Isi eCD Bali? Panduan Lengkap eCD Biar Masuk Bali Lancar Jaya](/id/blog/bali-e-customs-declaration/)
 
 ---
 
@@ -62,7 +62,7 @@ Formulir ini harus diisi **dalam 3 hari sebelum masuk Indonesia**, dan informasi
 
 Saran: simpan SSHP yang sudah diisi sebagai PDF atau screenshot, buat jaga-jaga.
 
-**Referensi cepat:** [Aturan Baru Masuk Indonesia/Bali: Wajib Isi SSHP Sebelum Naik Pesawat / Panduan Isi](/blog/2024-08-30-66d109f9fd89780001f47806/)
+**Referensi cepat:** [Aturan Baru Masuk Indonesia/Bali: Wajib Isi SSHP Sebelum Naik Pesawat / Panduan Isi](/id/blog/2024-08-30-66d109f9fd89780001f47806/)
 
 ---
 
@@ -74,7 +74,7 @@ Biayanya **150.000 IDR (sekitar USD$5)**, setelah bayar kamu akan dapat QR Code 
 
 Disarankan selesai seminggu sebelum berangkat, biar nggak ribet di bandara dan ganggu jadwal.
 
-**Referensi cepat:** [Panduan Lengkap Pajak Wisata/Turis Bali: Aturan Baru 2024, Cara Bayar, & Tips Antar-Pulau](/blog/2026-bali-tourism-tax-guide/)
+**Referensi cepat:** [Panduan Lengkap Pajak Wisata/Turis Bali: Aturan Baru 2024, Cara Bayar, & Tips Antar-Pulau](/id/blog/2026-bali-tourism-tax-guide/)
 
 ---
 

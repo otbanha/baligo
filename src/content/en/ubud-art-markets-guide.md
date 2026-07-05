@@ -151,8 +151,8 @@ Ubud's art markets each have their unique charm, whether you're seeking traditio
 
 ![「烏布完整攻略」涵蓋了烏布景點、美食、玩樂、住宿](https://images.gobaligo.id/vocus/vocus_aee38149f182eafd547c2e59a2e0acfa.jpg)
 
-[The Complete Ubud Guide covers Ubud attractions, food, activities, and accommodations](/blog/ubud-guide/)
+[The Complete Ubud Guide covers Ubud attractions, food, activities, and accommodations](/en/blog/ubud-guide/)
 
-To get to know Ubud better, be sure to check out our '[Complete Ubud Guide](/blog/ubud-guide/)', which features 100 recommendations for dining, drinking, and entertainment. This guide includes everything from cultural experiences to culinary explorations, ensuring your trip to Ubud is as enriching and exciting as possible.
+To get to know Ubud better, be sure to check out our '[Complete Ubud Guide](/en/blog/ubud-guide/)', which features 100 recommendations for dining, drinking, and entertainment. This guide includes everything from cultural experiences to culinary explorations, ensuring your trip to Ubud is as enriching and exciting as possible.
 
 {{block:klook}}

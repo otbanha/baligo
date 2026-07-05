@@ -52,7 +52,7 @@ Pas ke sini, wajib banget cobain restoran di tebing resort. Selain bisa nikmatin
 
 > Baca juga:
 
-> [【Bali Ayana】14 Highlight Ayana Bali & Paket Menginap](/blog/ayana-resort-bali-guide/)
+> [【Bali Ayana】14 Highlight Ayana Bali & Paket Menginap](/id/blog/ayana-resort-bali-guide/)
 
 Intinya, AYANA Resort itu destinasi liburan yang unforgettable di Bali. Cocok banget buat liburan keluarga, honeymoon, atau sekadar chill sama teman. Di sini kamu bisa nikmatin kemewahan dan kenyamanan maksimal, bikin liburanmu jadi unforgettable.
 
@@ -108,6 +108,6 @@ Pakai **Live Photos** atau mode burst biar nggak ketinggalan momen karena kedip 
 
 Area pinggir kolam renang licin banget, udah lebih dari satu tamu yang ngingetin buat hati-hati, ada cewek yang pernah jatuh gara-gara ini. Foto-foto emang penting, tapi safety nomor satu.
 
-[【Ayana Bali】14 Highlight & Paket Menginap Ayana Bali](/blog/ayana-resort-bali-guide/)
+[【Ayana Bali】14 Highlight & Paket Menginap Ayana Bali](/id/blog/ayana-resort-bali-guide/)
 
 {{block:jim}}

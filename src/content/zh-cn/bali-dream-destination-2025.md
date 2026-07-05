@@ -113,10 +113,10 @@ Julia Roberts主演的Eat, Pray, Love有很多在巴厘岛拍摄的片段
 
 ## 更多巴厘岛：
 
-- [2025巴厘岛景点推荐攻略 ｜500个最新巴厘岛人气景点一次蒐全](/blog/bali-top-500-attractions/)
-- [《World Travel Awards》巴厘岛荣获2024年度全球最浪漫旅游目的地殊荣](/blog/bali-world-travel-awards-2024/)
-- [巴厘岛家庭亲子友善景点大全｜巴厘岛超过100样适合亲子同乐活动](/blog/bali-family-travel-guide/)
-- [适合年长者的巴厘岛旅游地点全攻略](/blog/bali-senior-friendly-travel-guide/)
+- [2025巴厘岛景点推荐攻略 ｜500个最新巴厘岛人气景点一次蒐全](/zh-cn/blog/bali-top-500-attractions/)
+- [《World Travel Awards》巴厘岛荣获2024年度全球最浪漫旅游目的地殊荣](/zh-cn/blog/bali-world-travel-awards-2024/)
+- [巴厘岛家庭亲子友善景点大全｜巴厘岛超过100样适合亲子同乐活动](/zh-cn/blog/bali-family-travel-guide/)
+- [适合年长者的巴厘岛旅游地点全攻略](/zh-cn/blog/bali-senior-friendly-travel-guide/)
 - 70+篇巴厘岛游记大收集
 
 ## **常见问题 (FAQ)**
@@ -131,7 +131,7 @@ Julia Roberts主演的Eat, Pray, Love有很多在巴厘岛拍摄的片段
 
 ### 3.**在巴厘岛有哪些推荐的当地美食？**
 
-巴厘岛的美食不可错过，包括烤乳猪（Babi Guling）、沙嗲串烧（Sate Lilit）和印尼炒饭（Nasi Goreng）。此外，当地的新鲜海鲜与热带水果也值得一试。请参考「[巴厘岛十大美食](/blog/bali-travel-tips/)」
+巴厘岛的美食不可错过，包括烤乳猪（Babi Guling）、沙嗲串烧（Sate Lilit）和印尼炒饭（Nasi Goreng）。此外，当地的新鲜海鲜与热带水果也值得一试。请参考「[巴厘岛十大美食](/zh-cn/blog/bali-travel-tips/)」
 
 ### 4.**巴厘岛的住宿选择多吗？**
 
@@ -139,7 +139,7 @@ Julia Roberts主演的Eat, Pray, Love有很多在巴厘岛拍摄的片段
 
 ### **5. 巴厘岛是否需要签证？**
 
-对于短期旅游，一些国家的旅客可享受免签待遇，如新加坡、马来西亚、香港等。台湾或中国的游客仍须事先签证。请看[【入境规定】2025巴厘岛旅游前必完成的4大步骤](/blog/2025-01-11-67821654fd89780001f932b5/)
+对于短期旅游，一些国家的旅客可享受免签待遇，如新加坡、马来西亚、香港等。台湾或中国的游客仍须事先签证。请看[【入境规定】2025巴厘岛旅游前必完成的4大步骤](/zh-cn/blog/2025-01-11-67821654fd89780001f932b5/)
 
 ## 📩 **立即加入「巴厘岛旅游攻略」，成为巴厘岛旅游达人！**
 

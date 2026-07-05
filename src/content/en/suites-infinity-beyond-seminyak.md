@@ -123,7 +123,7 @@ A wonderful stay! This hotel's villa is the perfect choice for a relaxing getawa
 
 Seminyak is one of Bali's most stylish and vibrant areas, combining upscale restaurants, trendy cafes, boutique shops, and beautiful beaches, making it an excellent choice for leisure and entertainment. If you're considering staying in Seminyak, check out our carefully curated accommodation guides below:
 
-- [Bali Accommodation Recommendations: A Guide to Luxurious Beachfront Stays in Seminyak](/blog/seminyak-beach-resorts-guide/)
-- [Bali Accommodation Recommendations: Private Pool Villas in Seminyak - 21 Stunning Secret Gardens](/blog/2024-04-04-660e6e92fd89780001e6047e/)
-- [Family Villas with 3+ Bedrooms Recommendations](/blog/bali-group-villa-stay/)
-- [Seminyak: Affordable Bali Villas Under $100](/blog/seminyak-budget-villas-guide/)
+- [Bali Accommodation Recommendations: A Guide to Luxurious Beachfront Stays in Seminyak](/en/blog/seminyak-beach-resorts-guide/)
+- [Bali Accommodation Recommendations: Private Pool Villas in Seminyak - 21 Stunning Secret Gardens](/en/blog/2024-04-04-660e6e92fd89780001e6047e/)
+- [Family Villas with 3+ Bedrooms Recommendations](/en/blog/bali-group-villa-stay/)
+- [Seminyak: Affordable Bali Villas Under $100](/en/blog/seminyak-budget-villas-guide/)

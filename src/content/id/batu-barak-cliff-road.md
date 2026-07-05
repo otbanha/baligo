@@ -35,7 +35,7 @@ Bali, surga liburan yang penuh misteri dan romantis, selain pantai dan sawah ter
 
 ### **Di Mana Lokasi Batu Barak/Tanah Barak?**
 
-Pantai Batu Barak ada di kawasan Uluwatu, Bali selatan, tepatnya di Desa Kutuh, dekat dengan Pantai Pandawa dan [Pantai Green Bowl](/blog/green-bowl-beach-bali/). Jalan yang sengaja dibelah di antara tebing karang ini punya pemandangan alam yang unik banget, beneran hidden gem di ujung selatan Bali.
+Pantai Batu Barak ada di kawasan Uluwatu, Bali selatan, tepatnya di Desa Kutuh, dekat dengan Pantai Pandawa dan [Pantai Green Bowl](/id/blog/green-bowl-beach-bali/). Jalan yang sengaja dibelah di antara tebing karang ini punya pemandangan alam yang unik banget, beneran hidden gem di ujung selatan Bali.
 
 ***
 
@@ -75,7 +75,7 @@ Jalan pesisir ini disebut 'Jalan Biru' karena tebing karangnya berpadu dengan la
 
 ![詳細位置請參考「烏魯瓦圖攻略地圖」](https://images.gobaligo.id/vocus/vocus_d55264b0552506fae6f6c3bde6ded6f9.png)
 
-[Lokasi detail bisa cek di "Peta Panduan Uluwatu"](/blog/uluwatu-guide/)
+[Lokasi detail bisa cek di "Peta Panduan Uluwatu"](/id/blog/uluwatu-guide/)
 
 ***
 
@@ -115,12 +115,12 @@ Jalan pesisir ini disebut 'Jalan Biru' karena tebing karangnya berpadu dengan la
 3. **Suasana Tenang**:
    Ketenangan dan privasi di sini bikin betah, tempat ideal buat relaksasi dan cari kedamaian batin.
 
-Pantai Pandawa terletak di antara Green Bowl Beach (cek [video dari Xiao Jie Indonesia](https://youtu.be/8mzJm_UrjSg)) dan Pantai Gunung Payung. Kalau mau cari tempat lain di dekat sini, lihat [【Panduan Uluwatu】Rekomendasi Tempat Makan & Main di Uluwatu](/blog/uluwatu-guide/)
+Pantai Pandawa terletak di antara Green Bowl Beach (cek [video dari Xiao Jie Indonesia](https://youtu.be/8mzJm_UrjSg)) dan Pantai Gunung Payung. Kalau mau cari tempat lain di dekat sini, lihat [【Panduan Uluwatu】Rekomendasi Tempat Makan & Main di Uluwatu](/id/blog/uluwatu-guide/)
 
 Tanah Barak dan Pantai Pandawa sebenarnya lebih dekat ke dua resor di pesisir timur Bali selatan, yaitu Nusa Dua atau Sanur. Bisa lihat panduan wisata/kuliner/akomodasi kami di bawah ini:
 
-- [Panduan Nusa Dua](/blog/nusa-dua-guide/)
-- [Panduan Sanur](/blog/sanur-guide/)
+- [Panduan Nusa Dua](/id/blog/nusa-dua-guide/)
+- [Panduan Sanur](/id/blog/sanur-guide/)
 
 ## Tur Klook Sehari:
 
@@ -134,7 +134,7 @@ Naik VW convertible keliling Bali selatan! Mampir ke Pantai Padang Padang dan Pa
 
 ## Pengalaman Seru:
 
-2024/06 kami makan siang di [Icon Bali](/blog/icon-bali-shopping-mall-sanur/), lalu siangnya sewa mobil dari Sanur ke Tanah Barak, sorenya lanjut ke White Rock Beach Club yang gak jauh. Santai setengah hari kayak gini seru banget, bisa jadi referensi buat kamu.
+2024/06 kami makan siang di [Icon Bali](/id/blog/icon-bali-shopping-mall-sanur/), lalu siangnya sewa mobil dari Sanur ke Tanah Barak, sorenya lanjut ke White Rock Beach Club yang gak jauh. Santai setengah hari kayak gini seru banget, bisa jadi referensi buat kamu.
 
 ![2024/06 Tanah Barak](https://images.gobaligo.id/vocus/vocus_847386533b3fbadca83c1b183576feb3.jpg)
 

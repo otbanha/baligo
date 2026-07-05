@@ -128,7 +128,7 @@ Renaissance Bali Uluwatu Resort & Spa 专为亲子旅客打造的亮点之一，
 
 距离巴厘岛国际机场仅 30 分钟车程，我们整理了这附近的50个热门景点：
 
-[【乌鲁瓦图攻略】乌鲁瓦图景点 50个吃喝玩乐推荐](/blog/uluwatu-guide/)
+[【乌鲁瓦图攻略】乌鲁瓦图景点 50个吃喝玩乐推荐](/zh-cn/blog/uluwatu-guide/)
 
 ## 查看预定日期的Agoda优惠价
 

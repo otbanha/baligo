@@ -89,7 +89,7 @@ The Badung Regency government has confirmed that the plans are in the final stag
 
 ![More Sanur Food and Fun](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
-Sanur is a tranquil seaside town on Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. With family-friendly resorts, traditional markets, and a wealth of local cuisine, it's an ideal destination for those seeking a slower pace and cultural exploration. Whether strolling along the coastline or immersing yourself in local charm, Sanur offers an incredibly relaxing holiday experience! Want to learn more about Sanur? [Click here](/blog/sanur-guide/).
+Sanur is a tranquil seaside town on Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. With family-friendly resorts, traditional markets, and a wealth of local cuisine, it's an ideal destination for those seeking a slower pace and cultural exploration. Whether strolling along the coastline or immersing yourself in local charm, Sanur offers an incredibly relaxing holiday experience! Want to learn more about Sanur? [Click here](/en/blog/sanur-guide/).
 
 ---
 
@@ -111,4 +111,4 @@ Currently limited to the Sanur area only. Future expansion will depend on the tr
 
 👈 **Return to the Ultimate Bali Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.
+Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/en/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.

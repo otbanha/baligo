@@ -115,7 +115,7 @@ Uluwatu isn't for everyone. But if you happen to be someone who doesn't mind tro
 
 Accommodation details:
 
-> [【Uluwatu Accommodation】Le Cliff Bali Complete Guide: Front Row Cliffside Ocean Views in Uluwatu, The Ultimate Romance of Falling Asleep to the Sound of Waves](/blog/le-cliff-bali/)
+> [【Uluwatu Accommodation】Le Cliff Bali Complete Guide: Front Row Cliffside Ocean Views in Uluwatu, The Ultimate Romance of Falling Asleep to the Sound of Waves](/en/blog/le-cliff-bali/)
 
 {{block:遊記}}
 

@@ -32,7 +32,7 @@ Hea遊美食 menikmati pemandangan laut yang spektakuler di Pura Tanah Lot, samb
 
 Destinasi pertamanya adalah Pura Tanah Lot di Canggu, Bali. Pura ini berdiri di tepi pantai, konon katanya Dewa Laut tinggal di sini. Dia cerita legenda rakyat tentang Pura Tanah Lot: dulu kala, ada seorang nelayan yang melaut dan kena badai besar, perahunya dihantam ombak raksasa, dan dia hilang. Warga desa khawatir banget, lalu berdoa dengan khusyuk. Tiba-tiba, pintu gerbang Pura Tanah Lot terbuka, membentuk lorong rahasia menuju dasar laut. Warga percaya itu petunjuk Dewa Laut, mereka melewati lorong itu dan akhirnya menemukan nelayan di dasar laut. Nelayan itu pulang dan cerita tentang keindahan yang dia lihat di dasar laut. Sejak itu, Pura Tanah Lot di Bali dianggap sebagai tempat suci yang terhubung dengan dunia bawah laut.
 
-> [Destinasi Wajib Kunjung di Bali: Panduan Lengkap Pura Tanah Lot (Tanah Lot) – Pasang Surut & Tempat Sekitar](/blog/bali-tanah-lot-guide/)
+> [Destinasi Wajib Kunjung di Bali: Panduan Lengkap Pura Tanah Lot (Tanah Lot) – Pasang Surut & Tempat Sekitar](/id/blog/bali-tanah-lot-guide/)
 
 ***
 
@@ -70,7 +70,7 @@ Hea遊美食 video screenshot
 
 Hari ketiga mereka mampir ke Uluwatu Cliff (Pura Luhur Uluwatu) dan Pura Tirta Empul. Uluwatu Cliff ada di atas tebing, pemandangannya keren banget. Dia ingetin wisatawan buat hati-hati sama monyet, soalnya mereka suka ngambil barang.
 
-> [Panduan Wisata Pura Uluwatu / Uluwatu Cliff Bali: Highlights & Tips Praktis](/blog/uluwatu-temple-travel-guide/)
+> [Panduan Wisata Pura Uluwatu / Uluwatu Cliff Bali: Highlights & Tips Praktis](/id/blog/uluwatu-temple-travel-guide/)
 
 ![Hea遊美食視頻截圖](https://images.gobaligo.id/vocus/vocus_840392aad64f284a6ab6c6ff79f9e264.png)
 
@@ -146,6 +146,6 @@ Kamu pikir itinerary mereka seru banget? Yuk, buruan atur liburan seru kamu ke B
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 
-Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Cerita Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)」, biar cerita kamu makin kece!
+Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Cerita Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, biar cerita kamu makin kece!
 
 {{block:攻略}}

@@ -151,7 +151,7 @@ Kalau kamu lagi rencanain liburan ke Bali, atau perjalanan sebelumnya kurang mem
 
 Ada masalah langsung tanya aja, nggak usah bingung sendiri. 🙌
 
-> Baca selengkapnya: [Panduan Anti Gagal di Bali: 18 Kesalahan Umum & Tips](/blog/bali-travel-mistakes-tips/)
+> Baca selengkapnya: [Panduan Anti Gagal di Bali: 18 Kesalahan Umum & Tips](/id/blog/bali-travel-mistakes-tips/)
 
 {{block:klook}}
 

@@ -96,24 +96,24 @@ Nggak perlu pusing urus itinerary, nggak ada toko oleh-oleh, nggak ada biaya tam
 
 ![▼ Promo Lain yang Lagi Jalan](https://images.gobaligo.id/vocus/vocus_2abc41f5a9e9e13d248add4bf70717e4.jpg)
 
-[Klik aku! Bikin trip Bali paling seru bareng tim kami](/blog/isbali-tour-agency-review/)
+[Klik aku! Bikin trip Bali paling seru bareng tim kami](/id/blog/isbali-tour-agency-review/)
 
 ![▼ Promo Lain yang Lagi Jalan](https://images.gobaligo.id/vocus/vocus_c9e28c93bbbe5f6030c996d2158d6801.jpg)
 
-[Klik aku! Paket all-in Bali-Komodo yang udah diatur rapi](/blog/bali-komodo-luxury-tour-2026/)
+[Klik aku! Paket all-in Bali-Komodo yang udah diatur rapi](/id/blog/bali-komodo-luxury-tour-2026/)
 
 ![▼ Promo Lain yang Lagi Jalan](https://images.gobaligo.id/vocus/vocus_8d1c49bc97d705d414ae97e29e6deacb.jpg)
 
-[Klik aku! Trip 5 hari Nusa Penida timur-barat + hidden gem Bali](/blog/nusa-penida-luxury-tour/)
+[Klik aku! Trip 5 hari Nusa Penida timur-barat + hidden gem Bali](/id/blog/nusa-penida-luxury-tour/)
 
 ![▼ Promo Lain yang Lagi Jalan](https://images.gobaligo.id/vocus/vocus_33672ee04cad9cd5d2169e0fc3f6403a.jpg)
 
-[Klik aku! Petualangan 5 hari ke Gunung Ijen + Bali](/blog/ijen-bromo-bali-luxury-tour/)
+[Klik aku! Petualangan 5 hari ke Gunung Ijen + Bali](/id/blog/ijen-bromo-bali-luxury-tour/)
 
 ![▼ Promo Lain yang Lagi Jalan](https://images.gobaligo.id/vocus/vocus_bfbd87f7b8aeb2816d05ce668257860f.jpg)
 
-[Klik aku! Private tour Bali super mewah](/blog/bali-luxury-vip-travel-guide/)
+[Klik aku! Private tour Bali super mewah](/id/blog/bali-luxury-vip-travel-guide/)
 
 ![▼ Promo Lain yang Lagi Jalan](https://images.gobaligo.id/vocus/vocus_5ade1700adacfafb5b97583754daa9d0.jpg)
 
-[Klik aku! Solusi jitu buat perjalanan grup yang ribet](/blog/bali-group-travel-tips/)
+[Klik aku! Solusi jitu buat perjalanan grup yang ribet](/id/blog/bali-group-travel-tips/)

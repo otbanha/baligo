@@ -46,11 +46,11 @@ Non-Hindus can also participate, as long as they respect the culture and etiquet
 **Participation Guidelines:**
 
 - Wear a Sarong and sash (provided free by the temple)
-- You may prepare [Canang Sari](/blog/bali-canang-sari-explained/) (offerings) for purchase outside the temple
+- You may prepare [Canang Sari](/en/blog/bali-canang-sari-explained/) (offerings) for purchase outside the temple
 - Maintain silence, humility, and respect
 - Follow the spring order for purification (ask a guide for assistance)
 
-> Further reading: [Balinese Offering Traditions: Canang Sari](/blog/bali-canang-sari-explained/)
+> Further reading: [Balinese Offering Traditions: Canang Sari](/en/blog/bali-canang-sari-explained/)
 
 ### The Correct Procedure and Order of the Holy Spring Purification Ritual
 

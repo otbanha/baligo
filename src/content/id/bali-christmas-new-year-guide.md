@@ -39,9 +39,9 @@ Banyak yang khawatir kalau musim hujan pas Natal. Tenang aja! Memang mungkin ada
 
 Mau di pusat keramaian? Daerah selatan kayak **Seminyak**, **Kuta**, dan **Canggu** adalah pilihan yang pas banget. Di sini ada vila mewah, prasmanan Natal, pusat perbelanjaan, dan aktivitas anak-anak, bikin seluruh keluarga bisa merasakan keceriaan Natal.
 
-- [Panduan 100 Tempat Wisata di Seminyak, Bali](/blog/seminyak-guide/)
-- [50 Tempat Wajib Kunjungi di Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [100 Tempat Wisata di Canggu](/blog/canggu-guide/)
+- [Panduan 100 Tempat Wisata di Seminyak, Bali](/id/blog/seminyak-guide/)
+- [50 Tempat Wajib Kunjungi di Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [100 Tempat Wisata di Canggu](/id/blog/canggu-guide/)
 
 ### **Daerah dengan Nuansa Budaya dan Ketenangan**
 
@@ -49,9 +49,9 @@ Kalau kamu pengen liburan yang tenang tapi tetap kental nuansa budayanya, **Ubud
 
 ![Daerah dengan Nuansa Budaya dan Ketenangan](https://images.gobaligo.id/vocus/vocus_45dd2d1531eeed43e5e6776b3205d148.jpg)
 
-- [100 Cara Seru Eksplor Ubud](/blog/ubud-guide/)
-- [50 Rekomendasi Makan & Main di Sanur](/blog/sanur-guide/)
-- [40 Panduan Hotel, Kuliner & Aktivitas di Nusa Dua](/blog/nusa-dua-guide/)
+- [100 Cara Seru Eksplor Ubud](/id/blog/ubud-guide/)
+- [50 Rekomendasi Makan & Main di Sanur](/id/blog/sanur-guide/)
+- [40 Panduan Hotel, Kuliner & Aktivitas di Nusa Dua](/id/blog/nusa-dua-guide/)
   ---
 
 ## **Serunya Belanja Natal di Bali**
@@ -137,7 +137,7 @@ Termasuk roast beef yang dipotong langsung, kalkun, seafood platter, dan dessert
 🎅 Ada pertunjukan boneka, paduan suara anak-anak, dan Santa Claus.
 
 💰 **Sekitar IDR 400K–450K per orang.**
-  **Referensi cepat:** [【Rekomendasi Mewah Bintang Lima di Bali】St. Regis Bali Resort](/blog/st-regis-bali-resort/)
+  **Referensi cepat:** [【Rekomendasi Mewah Bintang Lima di Bali】St. Regis Bali Resort](/id/blog/st-regis-bali-resort/)
 
 ### **🌅 Arwana Restaurant – The Laguna, Nusa Dua**
 
@@ -158,7 +158,7 @@ Ada pertunjukan jazz live dan kembang api.
 👨‍👩‍👧‍👦 Ada kids corner dan pertunjukan sulap langsung.
 
 💰 **Dewasa sekitar IDR 1,600K, anak-anak setengah harga.**
-  **Referensi cepat:** [【Rekomendasi Mewah Bintang 5 Bali】Resor Mewah Mulia Resort](/blog/mulia-resort-bali-luxury/)
+  **Referensi cepat:** [【Rekomendasi Mewah Bintang 5 Bali】Resor Mewah Mulia Resort](/id/blog/mulia-resort-bali-luxury/)
 
 ## **Area Jimbaran**
 
@@ -179,7 +179,7 @@ Ada pertunjukan jazz live dan kembang api.
 Menyediakan menu 'Traditional Christmas Roast' dan opsi vegetarian.
 
 💰 **Mulai dari IDR 1.200K per orang.**
-  **Referensi cepat:** [【Bali Ayana】Panduan Menginap Ayana Bali » Ayana Segara, RIMBA, Ayana Resort..](/blog/ayana-resort-bali-guide/)
+  **Referensi cepat:** [【Bali Ayana】Panduan Menginap Ayana Bali » Ayana Segara, RIMBA, Ayana Resort..](/id/blog/ayana-resort-bali-guide/)
 
 ### Four Seasons Resort Bali at Jimbaran Bay
 
@@ -187,7 +187,7 @@ Menyediakan menu 'Traditional Christmas Roast' dan opsi vegetarian.
 - - Malam 24 & 25 Des: Makan malam lima hidangan fusion Prancis-Asia "Festive Set Dinner at Sundara" pukul 18:00–23:00, harga **IDR 1.450.000/orang**.
     - Makan siang Natal (25/12) Brunch pukul 11:00–16:00, harga dewasa **IDR 1.500.000/orang**.
     - Malam Tahun Baru 31 Des: Buffet + kembang api dan pesta, harga dewasa misalnya lima hidangan + champagne + minuman tak terbatas sebesar **IDR 7.000.000/orang**.
-  **Referensi cepat:** [Penginapan Bali: Unboxing & Promo Four Seasons Jimbaran Bay](/blog/four-seasons-bali-jimbaran-bay/)
+  **Referensi cepat:** [Penginapan Bali: Unboxing & Promo Four Seasons Jimbaran Bay](/id/blog/four-seasons-bali-jimbaran-bay/)
 
 ### InterContinental Bali Resort
 
@@ -238,7 +238,7 @@ Ini salah satu pasar Natal paling ikonik di Bali, lengkap dengan stan kerajinan 
 
 Pertunjukan budaya terkenal di Bali, Devdan Show, ngadain edisi spesial Natal yang menggabungkan tarian tradisional dengan elemen perayaan. Penonton bisa nikmatin kembang api, lampu-lampu, dan kejutan Sinterklas yang muncul, suasananya magis dan mengharukan.
 
-Kami punya penjelasan lengkap, cek [di sini](/blog/devdan-show-nusa-dua/)
+Kami punya penjelasan lengkap, cek [di sini](/id/blog/devdan-show-nusa-dua/)
 
 > [Link pembelian tiket Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
 > [Link pembelian tiket kkday](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
@@ -389,6 +389,6 @@ Saran sih minimal 2–3 bulan sebelumnya, biar bisa dapet villa atau hotel yang 
 
 ### Q6：Gimana kalau tiba-tiba hujan?
 
-Tenang aja! Kami punya 60 ide aktivitas indoor di Bali pas hujan. Cek di [sini](/blog/2026-bali-indoor-activities/).
+Tenang aja! Kami punya 60 ide aktivitas indoor di Bali pas hujan. Cek di [sini](/id/blog/2026-bali-indoor-activities/).
   ---
  BLOCK0 

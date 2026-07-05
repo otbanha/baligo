@@ -25,16 +25,16 @@ In the video below, we delve into the budget required for a Bali trip and provid
 
 ## [When to Use Cash?] Related Links
 
-* [Top 10 Foods in Bali](/blog/bali-travel-tips/) (Part 1)
-* [Top 10 Foods in Bali](/blog/bali-top-10-foods/) (Part 2)
-* [Complete Guide to Private Car Hire in Bali - Costs, Booking Methods, Advantages](/blog/bali-private-car-hire-guide/)
-* [Short-Distance Transportation: Complete Guide to Gojek](/blog/gojek-bali-guide/)
+* [Top 10 Foods in Bali](/en/blog/bali-travel-tips/) (Part 1)
+* [Top 10 Foods in Bali](/en/blog/bali-top-10-foods/) (Part 2)
+* [Complete Guide to Private Car Hire in Bali - Costs, Booking Methods, Advantages](/en/blog/bali-private-car-hire-guide/)
+* [Short-Distance Transportation: Complete Guide to Gojek](/en/blog/gojek-bali-guide/)
 * [How to Tip in Bali?](https://youtu.be/B_oT905RkQw)
-* [What Outdoor Activities to Do in Bali? 50 Most Popular Outdoor Experiences](/blog/bali-top-50-outdoor-activities/)
+* [What Outdoor Activities to Do in Bali? 50 Most Popular Outdoor Experiences](/en/blog/bali-top-50-outdoor-activities/)
 
 ## [Bali Souvenirs] Related Links
 
-[Recommended by Netizens] Six Categories, Over 20 Bali Souvenirs Guide: Perfect Choices to Preserve Precious Memories](/blog/bali-souvenirs-gift-guide/)
+[Recommended by Netizens] Six Categories, Over 20 Bali Souvenirs Guide: Perfect Choices to Preserve Precious Memories](/en/blog/bali-souvenirs-gift-guide/)
 
 {{block:klook}}
 
@@ -50,6 +50,6 @@ https://youtu.be/11xViUhEnYQ
 
 ## Recommended Spas
 
-[Budget-Friendly Spa Tips: Only Recommending Highly-Rated Spas](/blog/spa/)
+[Budget-Friendly Spa Tips: Only Recommending Highly-Rated Spas](/en/blog/spa/)
 
 {{block:戶外}}

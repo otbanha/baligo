@@ -58,7 +58,7 @@ Berdasarkan prakiraan cuaca terbaru, musim kemarau di Indonesia tahun ini diperk
 
 ![2026季节转换旅游贴士](https://images.gobaligo.id/images/2026-04/1775175669285-reddit.jpeg)
 
-> Masih ada beberapa "[cuti 4 hari, libur 9 hari](/blog/2026-bali-holiday-planning/)" di paruh pertama 2026, yuk segera rencanakan!
+> Masih ada beberapa "[cuti 4 hari, libur 9 hari](/id/blog/2026-bali-holiday-planning/)" di paruh pertama 2026, yuk segera rencanakan!
 
 ## Kapan pastinya musim hujan berakhir?
 
@@ -133,4 +133,4 @@ A: 1. Tabir surya dan hidrasi: Semakin dekat musim kemarau, sinar UV bakal makin
 
 ![Q6: Apa yang perlu diperhatikan kalau liburan di periode ini](https://images.gobaligo.id/vocus/vocus_97dd578dfb813e3b6110fcd782d9053f.jpg)
 
-[⭐⭐ 【Destinasi Kelas Dunia】Bali × Candi Borobudur Yogyakarta × Cahaya Surga × Api Biru 7 Hari Tur Mendalam](/blog/bali-java-seven-day-tour/)
+[⭐⭐ 【Destinasi Kelas Dunia】Bali × Candi Borobudur Yogyakarta × Cahaya Surga × Api Biru 7 Hari Tur Mendalam](/id/blog/bali-java-seven-day-tour/)

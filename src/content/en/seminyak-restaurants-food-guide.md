@@ -167,7 +167,7 @@ That wraps up our curated list of over 30 must-visit restaurants in Seminyak—f
 
 ## Also Check Out
 
-- [Kuta Food Guide | Bali's Ultimate Food Guide](/blog/kuta-best-food-guide/)
-- [Ubud Food Guide | Bali's Ultimate Food Guide](/blog/ubud-food-guide/)
+- [Kuta Food Guide | Bali's Ultimate Food Guide](/en/blog/kuta-best-food-guide/)
+- [Ubud Food Guide | Bali's Ultimate Food Guide](/en/blog/ubud-food-guide/)
 
 {{block:美食}}

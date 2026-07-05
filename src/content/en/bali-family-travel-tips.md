@@ -34,9 +34,9 @@ Currently, you need a visa to enter Indonesia! Travelers from Taiwan can apply f
 
 Everyone must also fill out and submit the electronic customs declaration and tourist tax. Please refer to the link below:
 
-> Read more: [Indonesia/Bali Arrival Guide - From Landing, Customs, to Baggage Claim](https://gobaligo.id/blog/bali-all-indonesia-arrival-guide/)
+> Read more: [Indonesia/Bali Arrival Guide - From Landing, Customs, to Baggage Claim](https://gobaligo.id/en/blog/bali-all-indonesia-arrival-guide/)
 
-The advantage of applying for an e-Visa in advance is that you can skip the queue after landing and use the automated gates, bypassing immigration passport checks. The only catch is that children under 6 cannot use the automated gates, but there are dedicated counters to assist with clearance (see: [Guide to Children's Visas for Entering Indonesia/Bali](https://gobaligo.id/blog/bali-child-visa-guide/))
+The advantage of applying for an e-Visa in advance is that you can skip the queue after landing and use the automated gates, bypassing immigration passport checks. The only catch is that children under 6 cannot use the automated gates, but there are dedicated counters to assist with clearance (see: [Guide to Children's Visas for Entering Indonesia/Bali](https://gobaligo.id/en/blog/bali-child-visa-guide/))
 
 ###
 
@@ -50,7 +50,7 @@ It is advisable to purchase overseas travel insurance to protect yourself and yo
 
 ![本表僅供參考，實際保障內容以各保險公司商品為主](https://images.gobaligo.id/vocus/vocus_9ca24acf53daac137bbe25fab121cf3d.jpg)
 
-> [【Bali Travel Insurance】A Must-Read for Travelers from Taiwan, Hong Kong, Macau, and Singapore! A Guide to Purchasing, Overseas Medical and Trip Interruption Insurance Claims Tips](https://gobaligo.id/blog/bali-travel-insurance-guide/)
+> [【Bali Travel Insurance】A Must-Read for Travelers from Taiwan, Hong Kong, Macau, and Singapore! A Guide to Purchasing, Overseas Medical and Trip Interruption Insurance Claims Tips](https://gobaligo.id/en/blog/bali-travel-insurance-guide/)
 
 ###
 
@@ -62,13 +62,13 @@ When traveling in Bali, staying connected with your phone and the internet is es
 
 In Bali, staying connected to the internet is essential—it helps you easily look up information, keep in touch with family and friends, use navigation apps, and makes your trip more convenient and enjoyable.
 
-> Read more: [How to Get a SIM Card/eSIM/Roaming for Bali?](/blog/bali-sim-card-esim-roaming-guide/)
+> Read more: [How to Get a SIM Card/eSIM/Roaming for Bali?](/en/blog/bali-sim-card-esim-roaming-guide/)
 
 ### Voltage & Plugs:
 
 The standard voltage in Indonesia and Bali is **220 volts (220V)**—an important detail, especially for travelers planning to bring electrical devices. Before packing any electronics, make sure they support the international standard of 220V and the specific plug type, so you can use them normally in Indonesia and Bali!
 
-> Read more: [Bali Voltage & Plug Types: How to Prepare?](/blog/bali-voltage-adapter-tips/)
+> Read more: [Bali Voltage & Plug Types: How to Prepare?](/en/blog/bali-voltage-adapter-tips/)
 
 ### Currency Exchange:
 
@@ -80,13 +80,13 @@ The currency in Indonesia is the Indonesian Rupiah (IDR), which is the only lega
 
 Bali has a hot climate, so it's recommended to pack lightweight, breathable clothing, sunscreen, swimwear, a hat, sunglasses, and more. For a detailed packing list, check here:
 
-> [21 Essential Items to Pack for Bali Travel](/blog/bali-travel-essentials/)
+> [21 Essential Items to Pack for Bali Travel](/en/blog/bali-travel-essentials/)
 
 ### Medications:
 
 It's recommended to bring your personal medications, but Indonesia/Bali has strict regulations on medicines and prescription drugs. Medications that are legal in other countries may be prohibited in Indonesia! If you need to bring medications, please read the link below for details:
 
-> [Important Notes on Bringing Sleeping Pills/Special Prescription Medications to Indonesia/Bali](/blog/bali-medication-import-guide/)
+> [Important Notes on Bringing Sleeping Pills/Special Prescription Medications to Indonesia/Bali](/en/blog/bali-medication-import-guide/)
 
 ### **Insect Repellent**:
 
@@ -119,13 +119,13 @@ Getting around Bali mainly relies on private car hire and ride-hailing apps.**
 
 The advantages of private car hire include spacious and comfortable vehicles, ideal for family trips, as well as greater safety, flexible itineraries, and drivers who know the roads well. For everything you need to know about private car hire, check out the links below:
 
-> [Bali Private Car Hire Guide - Costs, Booking, and Benefits](/blog/bali-private-car-hire-guide/)
+> [Bali Private Car Hire Guide - Costs, Booking, and Benefits](/en/blog/bali-private-car-hire-guide/)
 
-> [Recommended Chinese-Speaking Drivers/Guides and Private Car Tours in Bali](/blog/bali-chinese-tour-guide/)
+> [Recommended Chinese-Speaking Drivers/Guides and Private Car Tours in Bali](/en/blog/bali-chinese-tour-guide/)
 
 Ride-hailing apps offer the benefits of lower costs and transparent pricing, and can be booked via an app. How to use ride-hailing apps in Indonesia/Bali? Which apps to use? Check here:
 
-> [Essential App for Traveling in Indonesia/Bali: Complete Guide to Gojek](/blog/gojek-bali-guide/)
+> [Essential App for Traveling in Indonesia/Bali: Complete Guide to Gojek](/en/blog/gojek-bali-guide/)
 
 ### Accommodation/Attractions/Activities:
 
@@ -133,7 +133,7 @@ Bali offers a wide range of accommodation options, including hotels, resorts, an
 
 ![峇里島親子住宿推薦](https://images.gobaligo.id/vocus/vocus_62021a66b4fb2080c4351c4391ea4e2b.jpg)
 
-[Bali Family-Friendly Accommodation Recommendations](/blog/bali-family-travel-guide/)
+[Bali Family-Friendly Accommodation Recommendations](/en/blog/bali-family-travel-guide/)
 
 For parents traveling with children, consider family-friendly resorts that often feature pool slides for kids to splash around and kids' clubs where parents can take a breather.
 
@@ -149,7 +149,7 @@ For recommendations on family-friendly resorts, kid-friendly activities, and the
 
 When traveling in Bali, pay attention to food hygiene to avoid Bali belly. Here's a set of safety guidelines for reference:
 
-> [Bali Travel Health Tips: Drinking Water and Diarrhea Guide](/blog/bali-travel-health-tips/)
+> [Bali Travel Health Tips: Drinking Water and Diarrhea Guide](/en/blog/bali-travel-health-tips/)
 
 {{block:美食}}
 
@@ -157,7 +157,7 @@ When traveling in Bali, pay attention to food hygiene to avoid Bali belly. Here'
 
 Bali has many vendors and scammers who target tourists, so stay vigilant.
 
-[Is Bali Safe? Exposing the Top 6 Tourist Scams of 2026! Currency Exchange, Fake Visas, Hotspot Traps... If You See This Person, Turn Away Immediately!](https://gobaligo.id/blog/bali-tourist-scams-2026/)
+[Is Bali Safe? Exposing the Top 6 Tourist Scams of 2026! Currency Exchange, Fake Visas, Hotspot Traps... If You See This Person, Turn Away Immediately!](https://gobaligo.id/en/blog/bali-tourist-scams-2026/)
 
 ### Safety Tips:
 

@@ -161,7 +161,7 @@ Ada yang nemuin hal menarik: "Tergantung daerah dan sistem airnya, setiap tempat
 - ✅ Minuman: es batu di restoran aman, tapi jangan dari warung pinggir jalan
 - ✅ Minuman kaleng paling aman
 - ✅ Siapin obat lambung buat jaga-jaga
-- ✅ **Kalau kena**: [**Cek cara cepat自救 di sini**](/blog/bali-belly-medicine-guide/)
+- ✅ **Kalau kena**: [**Cek cara cepat自救 di sini**](/id/blog/bali-belly-medicine-guide/)
 
 **Tips paling praktis**: Ada yang share cara 'sebelum berangkat sampai di perjalanan, pagi hari perut kosong minum probiotik, hari pertama sampai pakai satu botol air mineral Taiwan dicampur air mineral lokal (cara adaptasi air di tempat tujuan), setelah itu bisa langsung minum air mineral lokal.' Cara adaptasi bertahap ini bikin perut punya waktu buat menyesuaikan diri.
 
@@ -187,4 +187,4 @@ https://youtu.be/UoGlRyAdyB8?si=bVbXn2fjZ7GMpSiw&t=600
 
 👈 **Kembali ke Panduan Lengkap Trip ke Bali**
 
-Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.
+Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.

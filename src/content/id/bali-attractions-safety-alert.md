@@ -30,11 +30,11 @@ Pantai cantik di Nusa Penida ternyata menyimpan bahaya tersembunyi!
 
 Pada 14 Agustus, di Diamond Beach, Nusa Penida, seorang wisatawan terseret ombak ke laut, situasinya kritis banget. Untungnya, ada turis asal Prancis yang sigap — bareng pengunjung lain, mereka pakai tali panjang buat narik korban kembali ke darat, mencegah tragedi. Diamond Beach emang terkenal dengan teluknya yang jernih, tapi arus bawahnya kuat dan nggak terduga, plus ombak yang keliatan tenang tapi sebenarnya ganas. Makanya, petugas setempat berkali-kali melarang keras aktivitas berenang atau main air di area dangkal demi keamanan.
 
-Baca juga: [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)
+Baca juga: [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)
 
 Di hari yang sama, tragedi lain terjadi di Bingin Beach, Uluwatu. Seorang wisatawan jatuh dari tebing terkenal dan meninggal dunia. Jenazahnya pertama kali ditemukan turis Prancis, lalu tim penyelamat langsung datang setelah laporan. Tapi karena posisi jenazah di dasar tebing curam, tim nggak bisa langsung evakuasi dengan aman — baru keesokan paginya mereka pakai alat profesional buat menyelesaikan operasi. Korban diketahui berasal dari Amerika Serikat, usia 51 tahun. Diduga, sebelum kejadian, dia parkir motor sewaannya di atas tebing area Batu Jaran, Bingin Beach.
 
-Baca juga: Pantai Tersembunyi di Uluwatu [47 Rekomendasi Tempat Wisata & Kuliner di Uluwatu](/blog/uluwatu-guide/)
+Baca juga: Pantai Tersembunyi di Uluwatu [47 Rekomendasi Tempat Wisata & Kuliner di Uluwatu](/id/blog/uluwatu-guide/)
 
 ![Dua Tempat Wisata Populer di Bali Alami Kecelakaan, Ini Peri](https://images.gobaligo.id/vocus/vocus_3e535492ebd1e221d48aa49d449d3fde.png)
 

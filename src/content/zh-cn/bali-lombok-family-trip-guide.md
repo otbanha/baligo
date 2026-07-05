@@ -58,7 +58,7 @@ _srcHash: 52908e6958f9c69455076f4335a13e41
 
 如果遇到距离较远的目的地，也不用担心！我们会使用叫车服务，像是GRAB或GO-JEK，这些应用程序在巴厘岛运行得相当成熟，随叫随到，非常方便。
 
-> 延伸阅读：[印尼/巴厘岛的Gojek与GoPay注册、使用、储值教学全面指南](/blog/indonesia-gojek-gopay-guide/)
+> 延伸阅读：[印尼/巴厘岛的Gojek与GoPay注册、使用、储值教学全面指南](/zh-cn/blog/indonesia-gojek-gopay-guide/)
 
 ### 行程分段分享：
 
@@ -113,7 +113,7 @@ Libra Li提供
 1. **海神庙（Tanah Lot）**
 巴厘岛最具代表性的海边寺庙，壮丽的海景与雄伟的寺庙结合，让我们大开眼界。孩子们在这里玩得很开心，尤其对于这种直接与自然接触的景点，他们特别感兴趣。
 
-> 延伸阅读：[巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/blog/bali-tanah-lot-guide/)
+> 延伸阅读：[巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/zh-cn/blog/bali-tanah-lot-guide/)
 
 2. **Turtle Conservation and Education Center**
 这个保育中心非常适合亲子游，尤其是孩子们可以亲眼看到刚出生的小海龟！这里不仅提供了与海龟互动的机会，还有教育性质，能让孩子们学习到关于海洋生态的知识。强烈推荐给有小朋友的家庭。
@@ -127,7 +127,7 @@ https://youtube.com/shorts/9EeW2YH0iY0
 3. **乌鲁瓦图悬崖庙（Pura Uluwatu）**
 位于壮观悬崖上的乌鲁瓦图庙是巴厘岛另一个不得不去的景点。这里的景色美不胜收，悬崖和大海交织的壮丽画面让人难忘。我们还在这里看到了猴子，孩子们兴奋不已，但也要小心他们抢夺物品。
 
-> [巴厘岛乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](/blog/uluwatu-temple-travel-guide/)
+> [巴厘岛乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](/zh-cn/blog/uluwatu-temple-travel-guide/)
 
 4. **放松按摩**
 在结束了一天的观光后，来到巴厘岛怎么能不体验按摩呢？我们特意找了一家当地的按摩店，全家人都享受了舒适的按摩，这样的结束方式让我们完全放松，准备迎接明天的新行程。
@@ -234,7 +234,7 @@ https://youtu.be/UoGlRyAdyB8
 
 ![預算中享受奢華：Cretya Ubud 泳池俱樂部與 Alas Harum 消費指南](https://images.gobaligo.id/vocus/vocus_fac2fc209557ede84fb4b81503ec6df3.jpg)
 
-[预算中享受奢华：Cretya Ubud 泳池俱乐部与 Alas Harum 消费指南](/blog/cretya-ubud-alas-harum-budget-guide/)
+[预算中享受奢华：Cretya Ubud 泳池俱乐部与 Alas Harum 消费指南](/zh-cn/blog/cretya-ubud-alas-harum-budget-guide/)
 
 ***
 
@@ -276,7 +276,7 @@ https://youtube.com/shorts/3PmPpoHI_6c
 
 ![Bali Bird Park](https://images.gobaligo.id/vocus/vocus_f6aa64339e4c1dc2b4bd2cfec3b33115.jpg)
 
-详细介绍：[Bali Bird Park 巴厘岛鸟园终极攻略：珍稀鸟种、互动活动与生态保育的奇幻旅程](https://gobaligo.id/blog/bali-bird-park-guide/)
+详细介绍：[Bali Bird Park 巴厘岛鸟园终极攻略：珍稀鸟种、互动活动与生态保育的奇幻旅程](https://gobaligo.id/zh-cn/blog/bali-bird-park-guide/)
 
 > 在线购票：[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D9f20741f36) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-bird-park-80525/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -298,7 +298,7 @@ Libra Li提供
 
 ![Bali Reptile Park](https://images.gobaligo.id/vocus/vocus_0622339e61ec519ef81ef4527e6ceeff.jpg)
 
-详细介绍：[Bali Reptile Park 攻略：近距离看科莫多龙、巨蟒亲密互动、门票价格与亲子避雷指南](https://gobaligo.id/blog/Bali-Reptile-Park/)
+详细介绍：[Bali Reptile Park 攻略：近距离看科莫多龙、巨蟒亲密互动、门票价格与亲子避雷指南](https://gobaligo.id/zh-cn/blog/Bali-Reptile-Park/)
 
 > 在线购票：[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F37955-bali-reptile-park-ticket%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7db7e3e24e) [Kkday](https://www.kkday.com/zh-tw/product/593869?qs=Bali+Reptile+Park&cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-reptile-park-128527409/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 

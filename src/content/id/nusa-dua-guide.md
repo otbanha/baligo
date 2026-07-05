@@ -129,7 +129,7 @@ Di Kempinski, selain restoran akuarium, ada juga restoran minum teh sore dengan 
 
 ![按我：Selasar Deli 下午茶體驗記](https://images.gobaligo.id/vocus/vocus_d1404fae059635c1384855f142381263.jpg)
 
-[Klik di sini: Cerita minum teh sore di Selasar Deli](/blog/kempinski-selasar-deli-afternoon-tea/)
+[Klik di sini: Cerita minum teh sore di Selasar Deli](/id/blog/kempinski-selasar-deli-afternoon-tea/)
 
 > Pesan [Minum Teh Sore di Selasar Deli](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1052045&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F58595-selasar-deli-apurva-kempinski-hotel-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D247caa596d)
 
@@ -231,7 +231,7 @@ Kalau kamu pengin menikmati teh sore, hidangan berkualitas tinggi, dan pelayanan
 
 https://youtube.com/shorts/0pk0syQh5sw
 
-Restoran seafood murah meriah yang dijalankan oleh orang Taiwan. Masakannya segar banget, porsinya pas, dan lagi hits abis. Sering ada promo spesial buat anggota grup. Wajib dicoba buat pecinta seafood! [Di sini](/blog/mr-lobster-seafood-restaurant-bali/) ada alamat dan kontak — saran hubungi Pak Xu dulu buat reservasi ya!
+Restoran seafood murah meriah yang dijalankan oleh orang Taiwan. Masakannya segar banget, porsinya pas, dan lagi hits abis. Sering ada promo spesial buat anggota grup. Wajib dicoba buat pecinta seafood! [Di sini](/id/blog/mr-lobster-seafood-restaurant-bali/) ada alamat dan kontak — saran hubungi Pak Xu dulu buat reservasi ya!
 
 ***
 
@@ -338,7 +338,7 @@ Baik kamu pemula atau jagoan mancing, aktivitas ini udah sedia alat pancing, ump
 
 Pertunjukan panggung besar yang cuma digelar tiga kali seminggu ini, lewat musik, tari, dan akrobat udara, bakal ngajak kamu menyusuri petualangan budaya melewati lima pulau besar Indonesia. Cocok buat semua umur, sayang banget kalau dilewatkan.
 
-Kami punya ulasan lengkap, cek [di sini](/blog/devdan-show-nusa-dua/)
+Kami punya ulasan lengkap, cek [di sini](/id/blog/devdan-show-nusa-dua/)
 
 > [Link tiket Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
 > [Link tiket kkday](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
@@ -369,7 +369,7 @@ Selain interaksi lumba-lumba, taman ini juga punya pertunjukan singa laut, kolam
 
 **Tips perjalanan:** Kuota interaksi lumba-lumba terbatas, banget disaranin booking lewat platform online jauh-jauh hari. Beberapa aktivitas interaksi punya batasan umur dan tinggi badan, pastikan cek dulu sebelum beli tiket.
 
-Penjelasan lengkap: [Panduan Bali Exotic Marine Park: Interaksi Super Dekat, Berenang dengan Lumba-lumba, Tips Hindari Keramaian & Rencana Perjalanan Keluarga](https://gobaligo.id/blog/Bali-Exotic-Marine-Park/)
+Penjelasan lengkap: [Panduan Bali Exotic Marine Park: Interaksi Super Dekat, Berenang dengan Lumba-lumba, Tips Hindari Keramaian & Rencana Perjalanan Keluarga](https://gobaligo.id/id/blog/Bali-Exotic-Marine-Park/)
 
 > Beli tiket online: [Kkday](https://www.kkday.com/zh-tw/product/138734-bali-exotic-dolphin-marine-park-indonesia?cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -413,7 +413,7 @@ Biar nggak ganggu jadwal liburan karena lupa booking SPA, pastikan kamu reservas
 
 ### Top 16 Hotel/Resor Bintang Lima
 
-Di kawasan Nusa Dua/Benoa, kamu bakal nemuin deretan hotel bintang lima yang super elegan dan bikin kagum. Peringkat ini berdasarkan penilaian traveler global di Tripadvisor, yang nunjukin keunggulan layanan dan kualitas hotel-hotel ini. Cek: [16 Resor Bintang Lima Terbaik di Nusa Dua, Bali](/blog/nusa-dua-resorts-guide/)
+Di kawasan Nusa Dua/Benoa, kamu bakal nemuin deretan hotel bintang lima yang super elegan dan bikin kagum. Peringkat ini berdasarkan penilaian traveler global di Tripadvisor, yang nunjukin keunggulan layanan dan kualitas hotel-hotel ini. Cek: [16 Resor Bintang Lima Terbaik di Nusa Dua, Bali](/id/blog/nusa-dua-resorts-guide/)
 
 Pengalaman Xiao Jie menginap di Conrad Bali:
 

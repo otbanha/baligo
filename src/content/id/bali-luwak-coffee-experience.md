@@ -92,16 +92,16 @@ Pengalaman sewa mobil pribadi kali ini bikin aku puas banget, sopirnya profesion
 
 **Referensi Cepat:**
 
-- [Panduan Sewa Mobil Pribadi Bali - Biaya, Cara Pesan, Analisis Kelebihan](/blog/bali-private-car-hire-guide/)
-- [【Rekomendasi Sopir Sewa Mobil Bali】Lihat Ulasan Nyata Netizen untuk Cari Sopir yang Cocok](/blog/bali-private-car-drivers-guide/)
-- [Sampai di Bali: Pilihan Transportasi Penjemputan dan Saran Praktis Hari Pertama](/blog/bali-airport-transfer-guide/)
-- [Rekomendasi Sopir/Pemandu/Paket Sewa Mobil Berbahasa Mandarin di Bali](/blog/bali-chinese-tour-guide/)
-- [Panduan Sewa Motor Bali! Lebih Baik Sewa Motor atau Sewa Mobil Pribadi?](/blog/bali-motorbike-rental-guide/)
-- [Kapan Sewa Mobil Pribadi? Kapan Pakai Ojek Online? Sewa Mobil vs. Ojek Online: Cara Pilih yang Paling Cocok untuk Perjalananmu?](/blog/bali-transportation-guide-car-rental/)
-- [Pas Travel di Indonesia/Bali, Wajib Download Aplikasi Ini: Panduan Lengkap Gojek](/blog/gojek-bali-guide/)
-- [Cara Pakai Gojek?](/blog/gojek-bali-guide/)
-- [Panduan Lengkap Registrasi, Penggunaan, dan Isi Ulang Gojek & GoPay di Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
-- [Trik Sopir Ojek Online di Bali: Cara Hindari Jebakan Grab/Gojek?](/blog/bali-grab-gojek-scam-tips/)
+- [Panduan Sewa Mobil Pribadi Bali - Biaya, Cara Pesan, Analisis Kelebihan](/id/blog/bali-private-car-hire-guide/)
+- [【Rekomendasi Sopir Sewa Mobil Bali】Lihat Ulasan Nyata Netizen untuk Cari Sopir yang Cocok](/id/blog/bali-private-car-drivers-guide/)
+- [Sampai di Bali: Pilihan Transportasi Penjemputan dan Saran Praktis Hari Pertama](/id/blog/bali-airport-transfer-guide/)
+- [Rekomendasi Sopir/Pemandu/Paket Sewa Mobil Berbahasa Mandarin di Bali](/id/blog/bali-chinese-tour-guide/)
+- [Panduan Sewa Motor Bali! Lebih Baik Sewa Motor atau Sewa Mobil Pribadi?](/id/blog/bali-motorbike-rental-guide/)
+- [Kapan Sewa Mobil Pribadi? Kapan Pakai Ojek Online? Sewa Mobil vs. Ojek Online: Cara Pilih yang Paling Cocok untuk Perjalananmu?](/id/blog/bali-transportation-guide-car-rental/)
+- [Pas Travel di Indonesia/Bali, Wajib Download Aplikasi Ini: Panduan Lengkap Gojek](/id/blog/gojek-bali-guide/)
+- [Cara Pakai Gojek?](/id/blog/gojek-bali-guide/)
+- [Panduan Lengkap Registrasi, Penggunaan, dan Isi Ulang Gojek & GoPay di Indonesia/Bali](/id/blog/indonesia-gojek-gopay-guide/)
+- [Trik Sopir Ojek Online di Bali: Cara Hindari Jebakan Grab/Gojek?](/id/blog/bali-grab-gojek-scam-tips/)
 
 ***
 
@@ -157,8 +157,8 @@ Meskipun Bebek Betutu dan Iga Babi bikin kita kagum, masakan tradisional Indones
 
 **Referensi Cepat:**
 
-- [10 Makanan Terbaik di Bali](/blog/bali-travel-tips/)
-- [10 Makanan Terbaik di Bali (Edisi Kedua)](/blog/bali-top-10-foods/)
+- [10 Makanan Terbaik di Bali](/id/blog/bali-travel-tips/)
+- [10 Makanan Terbaik di Bali (Edisi Kedua)](/id/blog/bali-top-10-foods/)
 
 ***
 
@@ -168,7 +168,7 @@ Selain makanan berat, camilan di Bali juga bikin gue kaget! Apalagi "keripik kel
 
 ![Camilan](https://images.gobaligo.id/vocus/vocus_3ea8ffe66b2a6770faffd5da33e37e49.png)
 
-Ada panduan lengkap di sini: [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Ide Oleh-Oleh Khas Bali: Pilihan Terbaik untuk Mengabadikan Kenangan Berharga](/blog/bali-souvenirs-gift-guide/)
+Ada panduan lengkap di sini: [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Ide Oleh-Oleh Khas Bali: Pilihan Terbaik untuk Mengabadikan Kenangan Berharga](/id/blog/bali-souvenirs-gift-guide/)
 
 ***
 
@@ -208,7 +208,7 @@ Pertama-tama, mau ingetin dulu, nyamuk di Bali itu banyak banget, dan ukurannya 
 
 **Referensi Cepat:**
 
-[Daftar Obat Wajib Bawa Liburan ke Bali? Anti Nyamuk/Sunscreen Beli di Mana?](/blog/bali-travel-medicine-checklist/)
+[Daftar Obat Wajib Bawa Liburan ke Bali? Anti Nyamuk/Sunscreen Beli di Mana?](/id/blog/bali-travel-medicine-checklist/)
 
 ### Sarapan:
 
@@ -238,6 +238,6 @@ Kamu pikir itinerary I-Hsuan Chang seru? Yuk, segera rencanain liburan bebasmu k
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 
-Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
+Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
 
 {{block:攻略}}

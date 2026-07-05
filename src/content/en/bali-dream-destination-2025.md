@@ -115,10 +115,10 @@ The water temple in Bali
 
 ## More About Bali:
 
-- [2025 Bali Attractions Guide | Discover 500 Latest Popular Bali Spots](/blog/bali-top-500-attractions/)
-- [Bali Wins 2024 World Travel Awards for Most Romantic Destination](/blog/bali-world-travel-awards-2024/)
-- [Complete Guide to Family-Friendly Activities in Bali | Over 100 Activities for Families](/blog/bali-family-travel-guide/)
-- [Senior-Friendly Travel Guide to Bali](/blog/bali-senior-friendly-travel-guide/)
+- [2025 Bali Attractions Guide | Discover 500 Latest Popular Bali Spots](/en/blog/bali-top-500-attractions/)
+- [Bali Wins 2024 World Travel Awards for Most Romantic Destination](/en/blog/bali-world-travel-awards-2024/)
+- [Complete Guide to Family-Friendly Activities in Bali | Over 100 Activities for Families](/en/blog/bali-family-travel-guide/)
+- [Senior-Friendly Travel Guide to Bali](/en/blog/bali-senior-friendly-travel-guide/)
 - Collection of 70+ Bali Travel Stories
 
 ## **Frequently Asked Questions (FAQ)**
@@ -133,7 +133,7 @@ The best time to visit Bali is during the dry season (April to November), when t
 
 ### 3. **What are some recommended local dishes to try in Bali?**
 
-Don't miss out on Bali's culinary delights, including roast suckling pig (Babi Guling), satay skewers (Sate Lilit), and Indonesian fried rice (Nasi Goreng). Additionally, the local fresh seafood and tropical fruits are worth trying. Check out '[Top 10 Foods in Bali](/blog/bali-travel-tips/)' for more recommendations.
+Don't miss out on Bali's culinary delights, including roast suckling pig (Babi Guling), satay skewers (Sate Lilit), and Indonesian fried rice (Nasi Goreng). Additionally, the local fresh seafood and tropical fruits are worth trying. Check out '[Top 10 Foods in Bali](/en/blog/bali-travel-tips/)' for more recommendations.
 
 ### 4. **Are there many accommodation options in Bali?**
 
@@ -141,7 +141,7 @@ Bali offers tens of thousands of accommodation options, ranging from luxurious r
 
 ### **5. Do I need a visa to visit Bali?**
 
-For short-term tourism, travelers from certain countries can enjoy visa-free entry, such as Singapore, Malaysia, and Hong Kong. Visitors from Taiwan or mainland China still need to obtain a visa in advance. Check out ["Entry Requirements" 4 Essential Steps to Complete Before Your 2025 Bali Trip](/blog/2025-01-11-67821654fd89780001f932b5/) for more details.
+For short-term tourism, travelers from certain countries can enjoy visa-free entry, such as Singapore, Malaysia, and Hong Kong. Visitors from Taiwan or mainland China still need to obtain a visa in advance. Check out ["Entry Requirements" 4 Essential Steps to Complete Before Your 2025 Bali Trip](/en/blog/2025-01-11-67821654fd89780001f932b5/) for more details.
 
 ## 📩 **Join the "Bali Travel Guide" Now and Become a Bali Travel Expert!**
 

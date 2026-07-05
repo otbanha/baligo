@@ -102,9 +102,9 @@ Pantai Pererenan juga **salah satu spot surfing terbaik di Bali**, cocok buat **
 
 ![Lebih Banyak Info Seru di Canggu](https://images.gobaligo.id/vocus/vocus_3b47b6501ceec6425040cb1bda360b29.jpg)
 
-[Klik di sini untuk panduan Canggu!](/blog/canggu-guide/)
+[Klik di sini untuk panduan Canggu!](/id/blog/canggu-guide/)
 
-Canggu adalah hotspot di Bali yang menggabungkan suasana santai dengan tren kekinian. Enggak cuma punya pantai yang kece, tapi juga banyak kafe unik, restoran kreatif, dan butik-butik kecil yang bikin betah. Tempat ini favorit banget buat pecinta surfing dan traveler muda. Mau tau lebih banyak tips liburan ke Canggu? [Klik di sini](/blog/canggu-guide/).
+Canggu adalah hotspot di Bali yang menggabungkan suasana santai dengan tren kekinian. Enggak cuma punya pantai yang kece, tapi juga banyak kafe unik, restoran kreatif, dan butik-butik kecil yang bikin betah. Tempat ini favorit banget buat pecinta surfing dan traveler muda. Mau tau lebih banyak tips liburan ke Canggu? [Klik di sini](/id/blog/canggu-guide/).
 
 ---
 

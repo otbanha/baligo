@@ -45,7 +45,7 @@ Bali nggak cuma soal pantai kece dan resort mewah, lho. Di balik itu semua, ada 
 
 - Bali itu surganya para surfer! Pantai Kuta, Seminyak, Canggu, Uluwatu, dan lainnya jadi spot kelas dunia.
     - Dengan bimbingan instruktur profesional, pemula pun bisa ngerasain sensasi naik ombak.
-    - [【Panduan Surfing di Bali】Rekomendasi Pantai Buat Semua Level](/blog/bali-surf-beaches-guide/)
+    - [【Panduan Surfing di Bali】Rekomendasi Pantai Buat Semua Level](/id/blog/bali-surf-beaches-guide/)
 
 ### **2. Olahraga Air Lainnya:**
 
@@ -62,7 +62,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 - - Di sekitar Nusa Lembongan / Nusa Penida, airnya jernih banget dan terumbu karangnya melimpah — tempat snorkeling yang super kece.
     - Ngelahap di antara terumbu karang warna-warni sambil berenang bareng ikan tropis, bakal jadi kenangan yang nggak terlupakan.
-    - [Empat spot snorkeling terkenal tanpa perlu capek jalan jauh](/blog/nusa-penida-snorkeling-guide/)
+    - [Empat spot snorkeling terkenal tanpa perlu capek jalan jauh](/id/blog/nusa-penida-snorkeling-guide/)
   **Surga snorkeling cuma 10 menit naik perahu dari Sanur:**
 
 ![3. Snorkeling:](https://images.gobaligo.id/vocus/vocus_2b63fa1a7c1a8b0c7cf46359930783e9.png)
@@ -76,7 +76,7 @@ Yuk, nikmati keajaiban bawah laut di pesisir Sanur — bikin trip snorkeling kam
 - Di Pantai Lovina, kamu bisa naik perahu kecil ke tengah laut dan lihat lumba-lumba liar melompat pas matahari terbit. Ini pengalaman seru buat deket-deket sama makhluk laut.
 - [Tur Lumba-lumba Lovina](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1024826&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dlovina%2520dolphin%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D62ac00bfec)
 
-▶[Panduan Lengkap Aktivitas Air di Bali | Nggak Cuma Snorkeling! 15 Macam Main Air yang Nggak Terduga](/blog/2026-bali-water-activities/)
+▶[Panduan Lengkap Aktivitas Air di Bali | Nggak Cuma Snorkeling! 15 Macam Main Air yang Nggak Terduga](/id/blog/2026-bali-water-activities/)
 
 ## **Serunya Petualangan Darat**
 
@@ -86,19 +86,19 @@ Yuk, nikmati keajaiban bawah laut di pesisir Sanur — bikin trip snorkeling kam
 
 - - Bawa kendaraan ATV nyusuri hutan, sawah, dan sungai — rasain sensasi off-road yang bikin adrenalin naik.
     - Ini cara paling asyik buat eksplorasi pedalaman Bali.
-    - [Petualangan ATV 4 Roda di Bali (Tips + FAQ)](/blog/bali-atv-adventure-guide/)
+    - [Petualangan ATV 4 Roda di Bali (Tips + FAQ)](/id/blog/bali-atv-adventure-guide/)
 
 ### 6. Arung Jeram:
 
 - - Coba serunya arung jeram di Sungai Ayung, nikmatin pemandangan ngarai dan air terjun yang keren abis.
     - Tantang arus deras bareng teman atau keluarga, bikin kenangan tim yang nggak terlupakan.
-    - [Panduan Arung Jeram Bali (FAQ Umum)](/blog/bali-rafting-ayung-telaga-waja/)
-    - Ada juga alternatif yang lebih santai, dijuluki 'baby rafting' — cek [info di sini](/blog/nukuwera-river-tubing-adventure/)
+    - [Panduan Arung Jeram Bali (FAQ Umum)](/id/blog/bali-rafting-ayung-telaga-waja/)
+    - Ada juga alternatif yang lebih santai, dijuluki 'baby rafting' — cek [info di sini](/id/blog/nukuwera-river-tubing-adventure/)
 
 ### 7. Jungle Mario Kart:
 
 - - Balapan di tengah hutan itu pengalaman yang super unik, kamu bisa nikmatin pemandangan hutan sambil merasakan sensasi seru.
-    - [Jungle Cart Bali Ubud](/blog/ubud-jungle-cart-adventure/)
+    - [Jungle Cart Bali Ubud](/id/blog/ubud-jungle-cart-adventure/)
 
 ## **Keindahan Alam yang Spektakuler**
 
@@ -107,20 +107,20 @@ Yuk, nikmati keajaiban bawah laut di pesisir Sanur — bikin trip snorkeling kam
 ### **8. Sunrise di Gunung Berapi:**
 
 - - Naik ke Gunung Batur, saksikan sunrise yang megah, nikmati pemandangan danau kawah dan pegunungan di sekitarnya. Ini perjalanan yang penuh tantangan dan kejutan.
-    - [Trekking lihat sunrise di gunung berapi](/blog/mount-batur-sunrise-hike-tips/)
-    - [Naik Jeep ke gunung berapi lihat sunrise](/blog/batur-volcano-jeep-sunrise-tour/)
+    - [Trekking lihat sunrise di gunung berapi](/id/blog/mount-batur-sunrise-hike-tips/)
+    - [Naik Jeep ke gunung berapi lihat sunrise](/id/blog/batur-volcano-jeep-sunrise-tour/)
 
 ### **9. Ayunan Hutan:**
 
 ![9. Ayunan Hutan:](https://images.gobaligo.id/vocus/vocus_d553645908858eefdee8ef82ec07084d.jpg)
 
 - - Coba ayunan ketinggian di hutan Ubud, lepas stres di tengah pemandangan hijau yang asri.
-    - [Main Ayunan di Ubud: 8 Spot Foto Ayunan Terindah di Bali｜Panduan Ayunan/Sewa Gaun](/blog/ubud-jungle-swings-photo-guide/)
+    - [Main Ayunan di Ubud: 8 Spot Foto Ayunan Terindah di Bali｜Panduan Ayunan/Sewa Gaun](/id/blog/ubud-jungle-swings-photo-guide/)
 
 ### **10. Trekking Punggung Bukit Ubud:**
 
 - - Trekking di punggung bukit Ubud, nikmati sawah hijau dan lembah yang memukau, rasakan kedamaian alam Bali.
-    - [Pengenalan "Skywalk Ubud" Campuhan Ridge Walk](/blog/ubud-campuhan-ridge-walk/)
+    - [Pengenalan "Skywalk Ubud" Campuhan Ridge Walk](/id/blog/ubud-campuhan-ridge-walk/)
 
 ### **11. Yoga & Meditasi Sunrise di Hutan Ubud:**
 
@@ -130,12 +130,12 @@ Yuk, nikmati keajaiban bawah laut di pesisir Sanur — bikin trip snorkeling kam
 ### **12. Paralayang di Uluwatu:**
 
 - Lepas landas dari tebing Uluwatu, terbang seperti burung di langit, sambil lihat pemandangan Samudra Hindia dan garis pantai yang megah. Ini pengalaman unik yang bikin adrenalin naik.
-- [Ikut Pengalaman & Info Penting](/blog/uluwatu-paragliding-ocean-view/)
+- [Ikut Pengalaman & Info Penting](/id/blog/uluwatu-paragliding-ocean-view/)
 
 ### **13. Eksplorasi Air Terjun Ubud:**
 
 - Di sekitar Ubud banyak air terjun cantik, misalnya: Air Terjun Tegenungan, Air Terjun Kanto Lampo, dan Air Terjun Tukad Cepung. Masing-masing punya pesona dan daya tarik unik. Bikin kamu bisa tenggelam dalam keindahan alam.
-- [Panduan Tiga Air Terjun Terkenal di Dekat Ubud, Bali](/blog/ubud-waterfalls-guide/)
+- [Panduan Tiga Air Terjun Terkenal di Dekat Ubud, Bali](/id/blog/ubud-waterfalls-guide/)
 
 ## **Nikmati Relaksasi**
 
@@ -147,7 +147,7 @@ Yuk, nikmati keajaiban bawah laut di pesisir Sanur — bikin trip snorkeling kam
 ### **15. Makan Malam di Jimbaran Saat Sunset:**
 
 - - Di Pantai Jimbaran, nikmatin seafood bakar yang enak sambil lihat pemandangan sunset romantis.
-    - Biar nggak kena tipu, wajib baca: [9 Restoran Seafood di Jimbaran, Bali: Rekomendasi Anti Gagal](/blog/jimbaran-seafood-restaurants-list/)
+    - Biar nggak kena tipu, wajib baca: [9 Restoran Seafood di Jimbaran, Bali: Rekomendasi Anti Gagal](/id/blog/jimbaran-seafood-restaurants-list/)
 
 ### **16. Nonton Pertunjukan:**
 
@@ -159,7 +159,7 @@ Yuk, nikmati keajaiban bawah laut di pesisir Sanur — bikin trip snorkeling kam
 ![17. Chill di Villa: Nikmati Privasi dan Sinar Matahari:](https://images.gobaligo.id/vocus/vocus_83e375c72f9c2ff3f495a1ed4af60bbd.png)
 
 - - Ada banyak banget villa mewah di Bali. Cari villa dengan kolam renang pribadi, santai total, dan nikmati waktu untuk diri sendiri.
-    - Nikmati privasi dan sinar matahari [Kumpulan Villa Rekomendasi di Bali](/blog/bali-private-villa-recommendations/)
+    - Nikmati privasi dan sinar matahari [Kumpulan Villa Rekomendasi di Bali](/id/blog/bali-private-villa-recommendations/)
 
 ## **Jelajahi Tempat Wisata & Budaya Bali**
 
@@ -168,7 +168,7 @@ Yuk, nikmati keajaiban bawah laut di pesisir Sanur — bikin trip snorkeling kam
 ### **18. Kumpulan 500 Tempat Wisata Terbaru di Bali Sekaligus:**
 
 - - Bali punya warisan budaya dan pemandangan alam yang kaya, kayak Pura Tanah Lot, Pura Tirta Empul, dan Terasering Tegalalang. Kamu bisa atur trip sehari atau beberapa hari buat eksplorasi budaya dan sejarah Bali lebih dalam.
-    - [500 Tempat Wisata Terbaru di Bali Sekaligus](/blog/bali-top-500-attractions/)
+    - [500 Tempat Wisata Terbaru di Bali Sekaligus](/id/blog/bali-top-500-attractions/)
 
 ## Rekomendasi Lainnya
 
@@ -179,76 +179,76 @@ Kalau kamu pikir Bali cuma pantai dan olahraga air, kamu salah besar! Pulau ini 
 ### 19. **Taman Safari Bali**
 
 - Cocok banget buat liburan keluarga! Safari park ini punya bus tur yang bisa bawa kamu lewati habitat hewan, deketan sama singa, gajah, badak — serasa di padang Afrika! 🦁🐘🦏
-- [Wajib coba pas liburan keluarga di Bali: Cara main & nginep di Bali Safari Park](/blog/bali-safari-night-stay/)
+- [Wajib coba pas liburan keluarga di Bali: Cara main & nginep di Bali Safari Park](/id/blog/bali-safari-night-stay/)
 
 ### 20.**Marine Safari Bali**
 
 - Punya banyak koleksi biota laut dan aktivitas interaktif, bisa foto bareng lumba-lumba juga. Tempat healing yang seru sekaligus edukatif banget.
-- [Panduan lengkap Marine Safari Bali](/blog/marine-safari-bali-guide/)
+- [Panduan lengkap Marine Safari Bali](/id/blog/marine-safari-bali-guide/)
 
 ### 21.22.23. Jungle Club **Omma Day Club / Wanna Jungle Bar / Cretya Sunset / TUJU Tropic Club & Lounge**
 
 - Day club di Ubud yang punya infinity pool, cocktail khas, dan party musik. Sambil berendam, kamu bisa nikmatin sunset di tengah hutan — pemandangannya gila cantik! 🌅
-- [Waterfall Bar OMMA Dayclub di Ubud: Chill vibes, quality time di bawah sinar matahari](/blog/ubud-omma-dayclub-tegenungan-waterfall/)
-- [Wanna Jungle Pool & Bar: Kolam renang terasering hits di IG & feast bebek crispy](/blog/wanna-jungle-pool-club-ubud/)
-- [Cretya Sunset, hidden gem di Ubud: Surga sunset paling dreamy](/blog/cretya-sunset-ubud-paradise/)
+- [Waterfall Bar OMMA Dayclub di Ubud: Chill vibes, quality time di bawah sinar matahari](/id/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+- [Wanna Jungle Pool & Bar: Kolam renang terasering hits di IG & feast bebek crispy](/id/blog/wanna-jungle-pool-club-ubud/)
+- [Cretya Sunset, hidden gem di Ubud: Surga sunset paling dreamy](/id/blog/cretya-sunset-ubud-paradise/)
 - [TUJU Tropic Club & Lounge — day club terbaru dengan infinity pool dua lantai](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1051935&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F138909-tuju-tropic-club-lounge-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D67ecf97825)
 
 ### 24.**Ubud Hot Air Balloon Experience**
 
 - Naik balon udara, lihat sawah, lembah, dan Gunung Agung dari atas. Floating di sunset — aktivitas limited edition di Bali yang super romantis! 🎈
-- [【Pengalaman Baru di Bali】Pertama Kali Naik Balon Udara di Ubud! Nikmati pemandangan Gunung Agung dari ketinggian](/blog/ubud-hot-air-balloon-agung-view/)
+- [【Pengalaman Baru di Bali】Pertama Kali Naik Balon Udara di Ubud! Nikmati pemandangan Gunung Agung dari ketinggian](/id/blog/ubud-hot-air-balloon-agung-view/)
 
 ### 25.**Penglipuran Village**
 
 - Desa tradisional dengan arsitektur khas Bali yang paling ikonik. Bersih, rapi, tempat terbaik buat eksplor budaya dan foto aesthetic.
-- [Menjelajah Desa Penglipuran: Merasakan pesona Bali tempo dulu](/blog/penglipuran-village-bali-experience/)
+- [Menjelajah Desa Penglipuran: Merasakan pesona Bali tempo dulu](/id/blog/penglipuran-village-bali-experience/)
 
 ### 26.**Taman Dedari**
 
 - Taman patung impian yang terletak di antara lembah sungai, dengan patung bidadari raksasa berpadu dengan pemandangan alam, cocok banget buat jalan santai dan foto-foto.
-- [【Rekomendasi Kuliner + Pemandangan Ubud】Taman Dedari (Taman Bidadari)](/blog/taman-dedari-ubud-food-scenery/)
+- [【Rekomendasi Kuliner + Pemandangan Ubud】Taman Dedari (Taman Bidadari)](/id/blog/taman-dedari-ubud-food-scenery/)
 
 ### 27.**Lahangan Sweet**
 
 - Terletak di timur Bali, ini adalah spot pandang rahasia untuk melihat Gunung Agung yang megah. Datang pas pagi atau sore hari, kamu bisa dapetin foto cantik dengan kabut yang bikin suasana makin dramatis 📸
-- [Rekomendasi Tempat Wisata Bali: Lahangan Sweet — Pemandangan Gunung Agung yang Super Indah 🌄](/blog/lahangan-sweet-volcano-view/)
+- [Rekomendasi Tempat Wisata Bali: Lahangan Sweet — Pemandangan Gunung Agung yang Super Indah 🌄](/id/blog/lahangan-sweet-volcano-view/)
 
 ### 28.29.**Sawah Terasering Tegalalang & Jatiluwih**
 
 - Tegalalang adalah spot sawah terasering paling hits di Ubud, sementara Jatiluwih udah diakui UNESCO sebagai Warisan Dunia. Dua-duanya punya pesona sendiri dan wajib banget kamu kunjungi buat nikmatin kehijauan khas Bali 🌾
-- [Panduan Liburan ke Dua Sawah Terasering Besar di Bali: Tegalalang & Jatiluwih — Tiket Masuk Berapa? Waktu Terbaik ke Sini?](/blog/bali-rice-terraces-comparison/)
+- [Panduan Liburan ke Dua Sawah Terasering Besar di Bali: Tegalalang & Jatiluwih — Tiket Masuk Berapa? Waktu Terbaik ke Sini?](/id/blog/bali-rice-terraces-comparison/)
 
 ### 30.31.**Menjelajahi Mata Air Suci**
 
 - Di tempat seperti Pura Tirta Empul, kamu bisa ikut ritual pembersihan diri yang sakral ala penduduk lokal, bikin badan dan pikiran jadi lebih segar dan tenang.
-- [【2025】Panduan Lengkap Tirta Empul: Pengalaman Pura Pemurnian Paling Sakral di Bali](/blog/tirta-empul-temple-guide/)
-- [Jelajahi Mata Air Suci Bali: Dari Tirta Gangga sampai Tirta Empul](/blog/bali-tirta-gangga-empul/)
+- [【2025】Panduan Lengkap Tirta Empul: Pengalaman Pura Pemurnian Paling Sakral di Bali](/id/blog/tirta-empul-temple-guide/)
+- [Jelajahi Mata Air Suci Bali: Dari Tirta Gangga sampai Tirta Empul](/id/blog/bali-tirta-gangga-empul/)
 
 ### 32.**Tarian Api Kecak (Kecak Fire Dance)**
 
 - Saksikan pertunjukan tari api yang spektakuler di tebing Uluwatu, dengan latar matahari terbenam dan laut yang bikin suasananya makin dramatis 🔥
-- [Enam Tempat Terbaik buat Nonton Tari Kecak di Bali: Pesta Visual dan Budaya](/blog/bali-kecak-fire-dance-locations/)
+- [Enam Tempat Terbaik buat Nonton Tari Kecak di Bali: Pesta Visual dan Budaya](/id/blog/bali-kecak-fire-dance-locations/)
 
 ### 33~36.**Pasar Akhir Pekan (Weekend Markets)**
 
 - Di Seminyak, Canggu, Uluwatu, Sanur, dan daerah lainnya ada pasar akhir pekan yang jual kerajinan tangan, makanan organik, dan desain lokal. Jalan-jalan di sini juga bisa ngerasain vibes kehidupan lokal banget.
-- [【Edisi 2024】Masih ada 4 Pasar Akhir Pekan di Bali yang Paling Kece: Pengalaman Belanja Paling Lokal](/blog/bali-weekend-markets-2026/)
+- [【Edisi 2024】Masih ada 4 Pasar Akhir Pekan di Bali yang Paling Kece: Pengalaman Belanja Paling Lokal](/id/blog/bali-weekend-markets-2026/)
 
 ### 37.**La Brisa Bali**
 
 - Dijuluki sebagai 'Restoran Terindah di Bali', restoran tepi pantai ini ada di Canggu. Dekorasinya dari kayu apung dan pemandangan sunset laut yang super cantik, cocok banget buat makan seafood sambil foto-foto 🍹🌊
-- [Dibilang 'Restoran Terindah di Bali': Gimana La Brisa Bisa Ngehits di Antara Ribuan Tempat Makan?](/blog/canggu-la-brisa-restaurant-guide/)
+- [Dibilang 'Restoran Terindah di Bali': Gimana La Brisa Bisa Ngehits di Antara Ribuan Tempat Makan?](/id/blog/canggu-la-brisa-restaurant-guide/)
 
 ### 38.**Oneeighty Day Club**
 
 - Kolam renang tanpa batas di atas tebing dengan dasar kaca, bikin kamu serasa melayang di antara laut dan langit. Surga banget buat pecinta ketinggian dan para pecinta foto! 
-- [Jelajahi Oneeighty Day Club: Pemandangan Kolam Renang di Tebing Bali yang Super Epic](/blog/oneeighty-dayclub-uluwatu-pool/)
+- [Jelajahi Oneeighty Day Club: Pemandangan Kolam Renang di Tebing Bali yang Super Epic](/id/blog/oneeighty-dayclub-uluwatu-pool/)
 
 ### 39.**Ngopi di Kintamani dengan Pemandangan Gunung Berapi 🌄☕**
 
 - Buat kamu yang suka pemandangan gunung dan aroma kopi, wajib banget cobain! Kintamani punya lebih dari 12 kafe dengan pemandangan gunung berapi, di mana kamu bisa menikmati kopi sambil lihat Gunung Batur dan danau yang indah. Kafe-kafe ini bukan cuma pemandangannya cakep, tapi juga super instagramable! Cocok buat ngatur waktu buat lihat matahari terbit atau sore santai sambil ngopi manual dan lihat awan bergerak.
-- [Rekomendasi 12 Kafe Pemandangan Gunung Berapi di Kintamani Bali 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
+- [Rekomendasi 12 Kafe Pemandangan Gunung Berapi di Kintamani Bali 🌄☕](/id/blog/kintamani-volcano-cafes-restaurants/)
 
 ### 40. Naik Perahu di Danau Batur (Danau Kawah Gunung Batur)
 
@@ -316,4 +316,4 @@ Semoga artikel ini bisa bantu kamu merencanakan petualangan outdoor di Bali yang
 
 👈 **Kembali ke Panduan Lengkap Trip ke Bali**
 
-Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.
+Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.

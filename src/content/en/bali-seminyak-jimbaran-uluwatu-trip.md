@@ -82,7 +82,7 @@ It's truly an amazing place where you won't want to leave.
 
 > Book The Tukad Villa: [Agoda Special Offer](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=240473)
 
-Featured in "[Seminyak Villa Recommendations](/blog/2024-04-04-660e6e92fd89780001e6047e/)"
+Featured in "[Seminyak Villa Recommendations](/en/blog/2024-04-04-660e6e92fd89780001e6047e/)"
 
 ## Odysseys Surf School
 
@@ -118,7 +118,7 @@ The venue features indoor, outdoor, and beachfront areas, offering dinner, snack
 
 Although the prices are slightly higher than other places, it's absolutely worth it. Visitors to Bali must come here to experience its unique charm.
 
-- [Ku De Ta Guide](/blog/ku-de-ta-beach-club/)
+- [Ku De Ta Guide](/en/blog/ku-de-ta-beach-club/)
 - Ku De Ta [Daybed Reservation](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1004596&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F135291-kudeta-beach-club-in-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D67569d3aa6)
 
 {{block:smk}}
@@ -137,7 +137,7 @@ Perched on a cliff overlooking the vast Indian Ocean, the temple offers breathta
 
 Aside from a mischievous monkey nearly snatching my sunglasses, everything about this place was simply stunning. This visit to Uluwatu Temple deepened my appreciation for this ancient and sacred site.
 
-**Quick Reference:** [Bali Uluwatu Temple/Lover's Cliff Travel Guide: Must-See Highlights and Practical Tips](/blog/uluwatu-temple-travel-guide/)
+**Quick Reference:** [Bali Uluwatu Temple/Lover's Cliff Travel Guide: Must-See Highlights and Practical Tips](/en/blog/uluwatu-temple-travel-guide/)
 
 ## Karma Jimbaran
 
@@ -237,6 +237,6 @@ Did you find Lin Yanwei's itinerary exciting? Start planning your own Bali free-
 
 Click here to explore more amazing Bali travel stories
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travel writing shine!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)" to make your travel writing shine!
 
 {{block:攻略}}

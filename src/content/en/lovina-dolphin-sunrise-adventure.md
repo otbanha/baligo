@@ -69,7 +69,7 @@ https://youtu.be/1COxi_x8L78
 
 (provided by Feilin Huang)
 
-> Editor's note: Want to experience the ethereal bamboo villa for yourself? Check out our recommended "[11 breathtaking tree houses/bamboo villas in Ubud](/blog/ubud-treehouse-bamboo-villa-stays/)".
+> Editor's note: Want to experience the ethereal bamboo villa for yourself? Check out our recommended "[11 breathtaking tree houses/bamboo villas in Ubud](/en/blog/ubud-treehouse-bamboo-villa-stays/)".
 
 ***
 
@@ -131,7 +131,7 @@ https://youtu.be/Pi1RcbRRong
 
 **Quick Reference:**
 
-> [Detailed Guide to Tanah Lot Temple: Tides and Nearby Attractions](/blog/bali-tanah-lot-guide/)
+> [Detailed Guide to Tanah Lot Temple: Tides and Nearby Attractions](/en/blog/bali-tanah-lot-guide/)
 
 Perhaps because we were tired from waking up early, we only visited these two places before returning to our villa in Seminyak to relax and enjoy some leisurely time.
 
@@ -145,7 +145,7 @@ Perhaps because we were tired from waking up early, we only visited these two pl
 
 (Provided by Feilin Huang)
 
-> Editor’s note: For the updated entry policy to Pantai Batu Barak, [check here](/blog/pandawa-beach-traffic-policy/).
+> Editor’s note: For the updated entry policy to Pantai Batu Barak, [check here](/en/blog/pandawa-beach-traffic-policy/).
 
 📍At noon, we had lunch at **Malini**, where the stunning cliffside ocean views left us in awe. Enjoying our meal with such scenery made the experience even more delightful. While it wasn’t too crowded at lunchtime, if you want a seat by the cliff with a view, it’s best to book in advance, as those spots are usually fully occupied.
 
@@ -173,7 +173,7 @@ https://youtu.be/DSi7QvqOLTQ
 
 ![Day 5](https://images.gobaligo.id/vocus/vocus_7dad59174130e2068985c1770b74c176.jpg)
 
-A detailed introduction to [Ziva a Boutique Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656) is included in "[22 Stunning Bali Secret Gardens in Seminyak](/blog/seminyak-private-villas-guide/)". Don't miss it if you're planning a villa getaway in Seminyak!
+A detailed introduction to [Ziva a Boutique Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656) is included in "[22 Stunning Bali Secret Gardens in Seminyak](/en/blog/seminyak-private-villas-guide/)". Don't miss it if you're planning a villa getaway in Seminyak!
 
 ***
 
@@ -181,7 +181,7 @@ A detailed introduction to [Ziva a Boutique Villa](https://www.agoda.com/partner
 
 📍Around 11:30, we went to the supermarket and shops to buy souvenirs, then headed straight to the airport for our return flight✈️.
 
-Further reading: [【Reader Recommended】Six Categories, Over 20 Bali Souvenir Recommendations: The Perfect Choices to Preserve Precious Memories](/blog/bali-souvenirs-gift-guide/)
+Further reading: [【Reader Recommended】Six Categories, Over 20 Bali Souvenir Recommendations: The Perfect Choices to Preserve Precious Memories](/en/blog/bali-souvenirs-gift-guide/)
 
 Unassuming street art, yet crafted by extraordinary masters!
 

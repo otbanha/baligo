@@ -17,8 +17,8 @@ _srcHash: bdf82dccdfd954e6f69059ef1f3822de
 
 呢篇係藍夢島/金銀島攻略嘅第二集。想知道藍夢島、金銀島有咩景點、推薦住宿？請睇我哋嘅攻略指南：
 
-- [【藍夢島攻略一】景點攻略篇](/blog/nusa-lembongan-ceningan-guide/)
-- [【藍夢島攻略三】最佳住宿篇](/blog/nusa-lembongan-ceningan-accommodation-guide/)
+- [【藍夢島攻略一】景點攻略篇](/zh-hk/blog/nusa-lembongan-ceningan-guide/)
+- [【藍夢島攻略三】最佳住宿篇](/zh-hk/blog/nusa-lembongan-ceningan-accommodation-guide/)
 
 ***
 
@@ -286,6 +286,6 @@ Agung Beach Club 係藍夢島上一個無拘無束嘅海灘俱樂部，當地人
 
 **呢篇係藍夢島/金銀島攻略嘅第二集，唔好忘記睇埋第一集呀：**
 
-- [【藍夢島攻略一】景點攻略篇](/blog/nusa-lembongan-ceningan-guide/)
+- [【藍夢島攻略一】景點攻略篇](/zh-hk/blog/nusa-lembongan-ceningan-guide/)
 
 {{block:klook}}

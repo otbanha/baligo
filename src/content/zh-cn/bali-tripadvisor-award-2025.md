@@ -35,7 +35,7 @@ TripAdvisor对巴厘岛的描述是：“这是一张活生生的明信片，是
 
 ## 2025年更精彩的探索即将揭晓
 
-旅行者之选大奖的景点、活动以及如海滩和酒店等特定地标目的地的奖项，将于2025年逐步揭晓。在此之前，仍有许多2024年的获奖景点值得造访，例如著名的[努沙佩尼达的Kelingking海滩](/blog/nusa-penida-guide/)、[海神庙](/blog/bali-tanah-lot-guide/)、[联合国教科文组织认可的梯田](/blog/bali-rice-terraces-comparison/)，以及[乌布的圣猴森林保护区](/blog/ubud-guide/)。
+旅行者之选大奖的景点、活动以及如海滩和酒店等特定地标目的地的奖项，将于2025年逐步揭晓。在此之前，仍有许多2024年的获奖景点值得造访，例如著名的[努沙佩尼达的Kelingking海滩](/zh-cn/blog/nusa-penida-guide/)、[海神庙](/zh-cn/blog/bali-tanah-lot-guide/)、[联合国教科文组织认可的梯田](/zh-cn/blog/bali-rice-terraces-comparison/)，以及[乌布的圣猴森林保护区](/zh-cn/blog/ubud-guide/)。
 
 ## 巴厘岛周边的松巴岛：冒险与宁静的完美结合
 
@@ -47,12 +47,12 @@ TripAdvisor对巴厘岛的描述是：“这是一张活生生的明信片，是
 
 对于因过度旅游被列入《Fodor's No List》的报道，巴厘岛领导人明确表示，问题不在于过度旅游，而是旅游集中于岛的中南部度假村。
 
-因此，从2025年起，当地政府将推广如西巴厘、[北巴厘](/blog/north-bali-travel-guide/)和[东巴厘](/blog/bali-east-tour-guide/)等尚未被大量开发的地区，让更多国际游客了解这些绝美景点。例如，北巴厘的Munduk瀑布和丛林、Lovina海滩的日出海豚，都是值得探索的隐藏珍宝。
+因此，从2025年起，当地政府将推广如西巴厘、[北巴厘](/zh-cn/blog/north-bali-travel-guide/)和[东巴厘](/zh-cn/blog/bali-east-tour-guide/)等尚未被大量开发的地区，让更多国际游客了解这些绝美景点。例如，北巴厘的Munduk瀑布和丛林、Lovina海滩的日出海豚，都是值得探索的隐藏珍宝。
 
 ## 想更认识巴厘岛？
 
-- [2025巴厘岛景点推荐攻略 ｜500个最新巴厘岛人气景点一次搜全](/blog/bali-top-500-attractions/)
-- [【巴厘岛必知】99%游客都在偷偷搜索的超尴尬41个问题！巴厘岛旅游自由行攻略](/blog/bali-travel-faqs-guide/)
+- [2025巴厘岛景点推荐攻略 ｜500个最新巴厘岛人气景点一次搜全](/zh-cn/blog/bali-top-500-attractions/)
+- [【巴厘岛必知】99%游客都在偷偷搜索的超尴尬41个问题！巴厘岛旅游自由行攻略](/zh-cn/blog/bali-travel-faqs-guide/)
 
 ## 常见问题
 
@@ -74,28 +74,28 @@ TripAdvisor对巴厘岛的描述是：“这是一张活生生的明信片，是
 
 **亲子旅游延伸阅读：**
 
-- [巴厘岛家庭亲子友善景点大全｜巴厘岛超过100样适合亲子同乐活动](/blog/bali-family-travel-guide/)
-- [带小朋友去巴厘岛家庭旅游的20个注意要点](/blog/bali-family-travel-tips/)
-- [巴厘岛亲子游：带婴儿、幼童和学龄儿童去度假的一些提示](/blog/bali-family-travel-guide-2/)
-- [巴厘岛找保姆指南：如何找到适合的保姆及费用概况](/blog/bali-nanny-hiring-guide/)
-- [巴厘岛亲子乐园：十五家拥有滑水道溜滑梯的亲子度假村 TOP 15](/blog/bali-family-resorts-water-slides/)
-- [推荐巴厘岛13家庭亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图适合家庭度假、亲子放松的最佳选择](/blog/bali-family-resorts-kids-club/)
-- [乌布53项亲子活动带小朋友最轻松！](/blog/ubud-with-kids-guide/)
-- [巴厘岛最适合亲子度假的海滨：沙努尔攻略地图｜45项吃喝玩乐](/blog/sanur-guide/)
-- [巴厘岛亲子一日游攻略：探索野生动物园与红鹤海滩俱乐部](/blog/bali-family-day-safari-flamingo/)
-- [巴厘岛亲子游不能错过：巴厘岛动物园 Bali Safari 要怎么玩乐、夜宿攻略](/blog/bali-safari-night-stay/)
+- [巴厘岛家庭亲子友善景点大全｜巴厘岛超过100样适合亲子同乐活动](/zh-cn/blog/bali-family-travel-guide/)
+- [带小朋友去巴厘岛家庭旅游的20个注意要点](/zh-cn/blog/bali-family-travel-tips/)
+- [巴厘岛亲子游：带婴儿、幼童和学龄儿童去度假的一些提示](/zh-cn/blog/bali-family-travel-guide-2/)
+- [巴厘岛找保姆指南：如何找到适合的保姆及费用概况](/zh-cn/blog/bali-nanny-hiring-guide/)
+- [巴厘岛亲子乐园：十五家拥有滑水道溜滑梯的亲子度假村 TOP 15](/zh-cn/blog/bali-family-resorts-water-slides/)
+- [推荐巴厘岛13家庭亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图适合家庭度假、亲子放松的最佳选择](/zh-cn/blog/bali-family-resorts-kids-club/)
+- [乌布53项亲子活动带小朋友最轻松！](/zh-cn/blog/ubud-with-kids-guide/)
+- [巴厘岛最适合亲子度假的海滨：沙努尔攻略地图｜45项吃喝玩乐](/zh-cn/blog/sanur-guide/)
+- [巴厘岛亲子一日游攻略：探索野生动物园与红鹤海滩俱乐部](/zh-cn/blog/bali-family-day-safari-flamingo/)
+- [巴厘岛亲子游不能错过：巴厘岛动物园 Bali Safari 要怎么玩乐、夜宿攻略](/zh-cn/blog/bali-safari-night-stay/)
 - 巴厘岛家庭亲子旅游专栏
 
 **带长辈同游巴厘岛指南：**
 
-- 第一集：[适合长者的巴厘岛旅行指南 - 安全、舒适与注意事项](/blog/bali-elderly-travel-guide/)
-- 第二集：[适合年长者的巴厘岛旅游地点全攻略](/blog/bali-senior-friendly-travel-guide/)
-- 第三集：[长辈的行为有多奇葩！？带出国旅游当心「吃力不讨好」](/blog/traveling-with-elderly-parents-tips/)
+- 第一集：[适合长者的巴厘岛旅行指南 - 安全、舒适与注意事项](/zh-cn/blog/bali-elderly-travel-guide/)
+- 第二集：[适合年长者的巴厘岛旅游地点全攻略](/zh-cn/blog/bali-senior-friendly-travel-guide/)
+- 第三集：[长辈的行为有多奇葩！？带出国旅游当心「吃力不讨好」](/zh-cn/blog/traveling-with-elderly-parents-tips/)
 
 **巴厘岛蜜月/情侣延伸阅读：**
 
-- [为何越来越多人选择巴厘岛度蜜月？巴厘岛度蜜月常见问题解答](/blog/bali-honeymoon-faq/)
-- [浪漫蜜月胜地大公开！巴厘岛击败马尔代夫夺得全世界冠军！](/blog/bali-honeymoon-destination/)
-- [巴厘岛蜜月浪漫指南：探索巴厘岛情侣/蜜月旅行的36种玩法](/blog/bali-honeymoon-romantic-activities-2/)
-- [蜜月住哪里？蜜月新婚/情侣就看这一篇！【20间度蜜月度假村、浪漫villa推荐】](/blog/bali-honeymoon-resorts-guide/)
-- [《World Travel Awards》巴厘岛荣获2024年度全球最浪漫旅游目的地殊荣](/blog/bali-world-travel-awards-2024/)
+- [为何越来越多人选择巴厘岛度蜜月？巴厘岛度蜜月常见问题解答](/zh-cn/blog/bali-honeymoon-faq/)
+- [浪漫蜜月胜地大公开！巴厘岛击败马尔代夫夺得全世界冠军！](/zh-cn/blog/bali-honeymoon-destination/)
+- [巴厘岛蜜月浪漫指南：探索巴厘岛情侣/蜜月旅行的36种玩法](/zh-cn/blog/bali-honeymoon-romantic-activities-2/)
+- [蜜月住哪里？蜜月新婚/情侣就看这一篇！【20间度蜜月度假村、浪漫villa推荐】](/zh-cn/blog/bali-honeymoon-resorts-guide/)
+- [《World Travel Awards》巴厘岛荣获2024年度全球最浪漫旅游目的地殊荣](/zh-cn/blog/bali-world-travel-awards-2024/)

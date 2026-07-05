@@ -74,11 +74,11 @@ Klook 不仅提供一日游与多日行程选项，还有一些方案是**包含
 
 针对佩尼达岛我们共有五集介绍，一起来更深入认识这个海岛天堂！这里有传送门：
 
-1. [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)
-2. [佩尼达岛美食和碧海蓝天：Nusa Penida的Top 9绝佳选择](/blog/nusa-penida-best-restaurants/)
-3. [Nusa Penida 努沙佩尼达岛的浮潜点介绍，如何参加浮潜？](/blog/nusa-penida-snorkeling-guide/)
-4. [佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/blog/nusa-penida-transport-guide/)
-5. [13间从奢华到平价的 Nusa Penida 好评住宿](/blog/nusa-penida-hotels-guide/)
+1. [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/zh-cn/blog/nusa-penida-guide/)
+2. [佩尼达岛美食和碧海蓝天：Nusa Penida的Top 9绝佳选择](/zh-cn/blog/nusa-penida-best-restaurants/)
+3. [Nusa Penida 努沙佩尼达岛的浮潜点介绍，如何参加浮潜？](/zh-cn/blog/nusa-penida-snorkeling-guide/)
+4. [佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/zh-cn/blog/nusa-penida-transport-guide/)
+5. [13间从奢华到平价的 Nusa Penida 好评住宿](/zh-cn/blog/nusa-penida-hotels-guide/)
 
 ![佩尼達島完整攻略](https://images.gobaligo.id/vocus/vocus_0cb95fce009e6a0b11e1c5639d83ec4d.jpg)
 
@@ -98,7 +98,7 @@ Klook 不仅提供一日游与多日行程选项，还有一些方案是**包含
 
 可以，而且岛上有一些特色民宿和度假村，建议提前预订以确保房源。
 
-请参考: 佩尼达岛的住宿推荐: [13间从奢华到平价的 Nusa Penida 好评住宿](/blog/nusa-penida-hotels-guide/)
+请参考: 佩尼达岛的住宿推荐: [13间从奢华到平价的 Nusa Penida 好评住宿](/zh-cn/blog/nusa-penida-hotels-guide/)
 
 ### 4. 司机会说中文吗？
 
@@ -130,4 +130,4 @@ Klook 提供了多种选择，包括探访Nusa Penida著名景点的行程，以
 
 👈 **回到巴厘岛自由行终极指南**
 
-想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/zh-cn/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

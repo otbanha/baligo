@@ -31,7 +31,7 @@ According to the latest rankings by the renowned UK travel service platform Trav
 ![Bali Crowned the World's Most Enchanting Island: Latest Rank](https://images.gobaligo.id/vocus/vocus_634888bfed094ae7a5caac40b1511211.jpg)
 
 **Quick Reference:**  
-[Top 10 Bali Landmarks & How to Plan Your Trip](/blog/bali-top-landmarks-guide/)
+[Top 10 Bali Landmarks & How to Plan Your Trip](/en/blog/bali-top-landmarks-guide/)
 
 ## **Bali: An Irresistible Paradise**
 
@@ -74,7 +74,7 @@ From surfing and diving to volcano trekking, meditation, and spa treatments, the
 ![4. Diverse Activity Options](https://images.gobaligo.id/vocus/vocus_7030ca3e24fe75b65f4b81031df4960a.jpg)
 
 **Quick Reference:**  
-[What to Do for Outdoor Activities in Bali? Top 50 Popular Outdoor Experiences](/blog/bali-top-50-outdoor-activities/)
+[What to Do for Outdoor Activities in Bali? Top 50 Popular Outdoor Experiences](/en/blog/bali-top-50-outdoor-activities/)
 
 ---
 
@@ -100,26 +100,26 @@ Bali boasts stunning natural landscapes, warm local culture, diverse tourist act
 The best travel season is from April to October, during the dry season when the weather is sunny and humidity is low, making it perfect for beach activities and outdoor adventures.
 
 **Quick Reference:**  
-[Bali Travel Months/Rainfall Probability/Rainfall Days/Average Temperature/Travel Suitability Index...Detailed Analysis](/blog/bali-rainy-season-travel-guide/)
+[Bali Travel Months/Rainfall Probability/Rainfall Days/Average Temperature/Travel Suitability Index...Detailed Analysis](/en/blog/bali-rainy-season-travel-guide/)
 
 ### **What travel documents are needed for Bali?**
 
-Travelers from some countries/regions may enjoy visa-free entry, while others require a visa. It's recommended to check [here](/blog/bali-all-indonesia-arrival-guide/) before departure to ensure smooth entry.
+Travelers from some countries/regions may enjoy visa-free entry, while others require a visa. It's recommended to check [here](/en/blog/bali-all-indonesia-arrival-guide/) before departure to ensure smooth entry.
 
 ### **Is Bali better for independent travel or joining a tour?**
 
 Both options are suitable. If you enjoy exploring and flexible itinerary planning, independent travel is a great choice; if you prefer a hassle-free experience, joining local tours allows you to quickly experience major attractions.
 
 **Quick Reference:**  
-[Recommended Bali Tour Agencies](/blog/isbali-tour-agency-review/)
+[Recommended Bali Tour Agencies](/en/blog/isbali-tour-agency-review/)
 
 ### **Is Bali expensive to visit?**
 
 Bali offers travel options for various budgets, ranging from backpacker hostels to luxury resorts. Daily expenses such as meals, transportation, and activities typically cost around USD $50~100 per person per day, making it suitable for travelers with different budgets.
 
 **Quick Reference:**  
-[How Much Cash to Prepare for a Bali Trip?](/blog/bali-travel-cash-budget-guide/)
+[How Much Cash to Prepare for a Bali Trip?](/en/blog/bali-travel-cash-budget-guide/)
 
 ### **How to prepare for your first trip to Bali?**
 
-When traveling to Bali for the first time, it's crucial to be well-prepared. Here are some things you should consider: [31 Must-See Tips for First-Time Bali Travelers](/blog/bali-ultimate-guide-2026/)
+When traveling to Bali for the first time, it's crucial to be well-prepared. Here are some things you should consider: [31 Must-See Tips for First-Time Bali Travelers](/en/blog/bali-ultimate-guide-2026/)

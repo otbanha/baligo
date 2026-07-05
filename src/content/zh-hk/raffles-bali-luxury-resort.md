@@ -42,7 +42,7 @@ _srcHash: e80c6f5c64e0ca5c5bbbe8ec90992890
 
 呢間度假村唔單止係一個住宿地方，更加係通往峇里島靈魂嘅大門。每座別墅都體現咗峇里島嘅工藝精神，傢俬同藝術品展示咗島嶼豐富嘅文化遺產。萊佛士酒店嘅32棟華麗別墅為客人提供獨特嘅私隱同自然融為一體嘅體驗，呢個都係好多旅客年年返嚟嘅原因。
 
-萊佛士酒店選址遠離海岸線，四周被濃密嘅綠意包圍，仲堅持支持當地環境嘅保護工作，確保大自然元素融入客人嘅住宿體驗。酒店所在嘅23公頃土地中，有一半仍然保持未開發狀態，作為當地動植物嘅庇護所，呢種保護自然嘅做法喺峇里島逐漸稀有，特別係喺峇里島[已經過度開發](/blog/bali-hotel-construction-ban/)嘅情況下。
+萊佛士酒店選址遠離海岸線，四周被濃密嘅綠意包圍，仲堅持支持當地環境嘅保護工作，確保大自然元素融入客人嘅住宿體驗。酒店所在嘅23公頃土地中，有一半仍然保持未開發狀態，作為當地動植物嘅庇護所，呢種保護自然嘅做法喺峇里島逐漸稀有，特別係喺峇里島[已經過度開發](/zh-hk/blog/bali-hotel-construction-ban/)嘅情況下。
 
 ![Raffles Bali](https://images.gobaligo.id/vocus/vocus_1c0e30a1dd911ab4199e712c479a2f46.jpg)
 
@@ -68,9 +68,9 @@ Raffles Bali
 
 ### 嚟到金巴蘭唔知食咩好？去邊度行街？有咩好玩？
 
-> 請睇我哋[收集咗30個景點嘅金巴蘭攻略](/blog/jimbaran-guide/)
+> 請睇我哋[收集咗30個景點嘅金巴蘭攻略](/zh-hk/blog/jimbaran-guide/)
 
-萊佛士酒店仲俾《康泰納仕旅遊者》評選為印尼十大度假村之一，同知名嘅卡佩拉烏布（[Capella Ubud，請睇我哋嘅介紹](/blog/capella-ubud-luxury-resort/)）並列，展示咗佢喺奢華旅遊中嘅頂尖地位。隨住峇里島逐漸從封鎖影響中復甦，並開始遠離過度旅遊嘅模式，萊佛士酒店唔單止成為咗旅客嘅最愛，仲成為咗可持續旅遊嘅典範。
+萊佛士酒店仲俾《康泰納仕旅遊者》評選為印尼十大度假村之一，同知名嘅卡佩拉烏布（[Capella Ubud，請睇我哋嘅介紹](/zh-hk/blog/capella-ubud-luxury-resort/)）並列，展示咗佢喺奢華旅遊中嘅頂尖地位。隨住峇里島逐漸從封鎖影響中復甦，並開始遠離過度旅遊嘅模式，萊佛士酒店唔單止成為咗旅客嘅最愛，仲成為咗可持續旅遊嘅典範。
 
 ## 金巴蘭嘅隱秘海濱度假村
 
@@ -80,15 +80,15 @@ Raffles Bali
 
 Raffles Bali
 
-金巴蘭嘅奢華度假村種類繁多，適合唔同類型嘅旅客，無論係家庭度假定係浪漫情侶之旅，呢度總會搵到合適嘅選擇，請睇我哋介紹嘅「[無敵海景金巴蘭住宿篇](/blog/jimbaran-beachfront-hotels-guide/)」。特別係萊佛士酒店，以其卓越嘅服務同優雅嘅氛圍，成為咗好多奢華旅客嘅首選。
+金巴蘭嘅奢華度假村種類繁多，適合唔同類型嘅旅客，無論係家庭度假定係浪漫情侶之旅，呢度總會搵到合適嘅選擇，請睇我哋介紹嘅「[無敵海景金巴蘭住宿篇](/zh-hk/blog/jimbaran-beachfront-hotels-guide/)」。特別係萊佛士酒店，以其卓越嘅服務同優雅嘅氛圍，成為咗好多奢華旅客嘅首選。
 
 > ▶Raffles Bali 空房 & 房價查詢：[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=14654956) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=51669662&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NazcLFJMEktYSF49-apf9YhRiNDOwsvgo6nj0DBN5bHDyDdsi1as_b4RDAEzHlwPNp7Ik_gh8vnX0o0KGQAQQ02hwaGQ9_1YjpV2lx6GJkBauZwTjv6kWJjYwi69wfVnlOdNjByHSAkekE490njAuYzmzvkDrFwswxWeMSy3em6Gql7NRKJSsTHaWSzJKcVCUrpaeL5j1t2PN8RauSjlJKanEyUAjISszNL80rAbKNTEzM9QwMgEIliRWeKWCtyYk5yaU5iSWpIZUFQCPMdJQyi51LijILglJzM0tKUoGq0hJzilNB4kGpxUCZZLCgkh_QmCKoQGZ-HkS7AYpYWGJOaSrEDUAL3VKhdhjW6mA6_dmc3qfdM19s2o3D6WaWRihONx8QpxvXxj5iYYqOfcFyn-0TC8MvYGRcUm1iZehiZeY4xTSJlYUDGFG7WHkCvSJ9orx1DXWjdA0vsP7sYZJSNDQwMDAyNTUy1zVItLRItTQ20jWxNDEyM9I1NTc2NTC20Lj67uKpJ8ZG1lKQpKDAqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzdXJzdHIOcqGizk02EUw7fuTxIVm0g5SzCHhLoo2e4OmKfadttdi9nQJMszfoeSQY2VpH7h-6_eVWiYL7CP_8bk22k08bZ_EWpWhGxKecVysgLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQAEqTzXBkDAAA&masterhotelid_tracelogid=100025527-0a98e932-494262-5735038&detailFilters=17|1~17~1*31|51669662~31~51669662*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=352&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/5BcbfgJh)
 
 ***
 
-同樣要講嘅係，位於水明漾嘅Potato Head Suites & Studios都俾人評為2024年全球最佳酒店之一（請睇[水明漾海邊主題住宿推薦](/blog/seminyak-beach-resorts-guide/)）。呢間知名酒店喺今年全球前50家酒店名單入面排第21位，展示咗峇里島奢華住宿嘅另一種角度。呢間酒店唔單止有超正嘅海邊位置，仲因為佢獨特嘅藝術裝置、壯觀嘅建築設計同埋零浪費嘅理念，成為奢華旅遊嘅新標桿。
+同樣要講嘅係，位於水明漾嘅Potato Head Suites & Studios都俾人評為2024年全球最佳酒店之一（請睇[水明漾海邊主題住宿推薦](/zh-hk/blog/seminyak-beach-resorts-guide/)）。呢間知名酒店喺今年全球前50家酒店名單入面排第21位，展示咗峇里島奢華住宿嘅另一種角度。呢間酒店唔單止有超正嘅海邊位置，仲因為佢獨特嘅藝術裝置、壯觀嘅建築設計同埋零浪費嘅理念，成為奢華旅遊嘅新標桿。
 
-> 水明漾 Seminyak 必去地點地圖：100[個食買玩全面介紹](/blog/seminyak-guide/)
+> 水明漾 Seminyak 必去地點地圖：100[個食買玩全面介紹](/zh-hk/blog/seminyak-guide/)
 
 ![Potato Head Suites & Studios](https://images.gobaligo.id/vocus/vocus_e4202a8a0d98ca9b485a7b454b1a276d.jpg)
 
@@ -96,6 +96,6 @@ Potato Head Suites & Studios
 
 > ▶Potato Head Suites & Studios [查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11295575) [Booking](https://booking.tpm.li/P2lxvZpf)
 
-> [【水明漾酒店推薦】Potato Head Suites & Studios住宿體驗分享](/blog/potato-head-suites-seminyak-review/)
+> [【水明漾酒店推薦】Potato Head Suites & Studios住宿體驗分享](/zh-hk/blog/potato-head-suites-seminyak-review/)
 
 {{block:住宿}}

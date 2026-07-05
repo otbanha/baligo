@@ -60,11 +60,11 @@ Meskipun luas Bali nggak terlalu besar, tapi pilihan tempatnya super banyak bang
 
 **Referensi Cepat:**
 
-- [Panduan Ubud](/blog/ubud-guide/)
-- [Panduan Uluwatu](/blog/uluwatu-guide/)
-- [Panduan Seminyak](/blog/seminyak-guide/)
-- [Panduan Sunrise Volcano](/blog/batur-volcano-jeep-sunrise-tour/)
-- Pulau Lain: [Panduan Nusa Penida](/blog/nusa-penida-guide/) / [Panduan Nusa Lembongan & Nusa Ceningan](/blog/nusa-lembongan-ceningan-guide/)
+- [Panduan Ubud](/id/blog/ubud-guide/)
+- [Panduan Uluwatu](/id/blog/uluwatu-guide/)
+- [Panduan Seminyak](/id/blog/seminyak-guide/)
+- [Panduan Sunrise Volcano](/id/blog/batur-volcano-jeep-sunrise-tour/)
+- Pulau Lain: [Panduan Nusa Penida](/id/blog/nusa-penida-guide/) / [Panduan Nusa Lembongan & Nusa Ceningan](/id/blog/nusa-lembongan-ceningan-guide/)
 
 ---
 
@@ -84,7 +84,7 @@ Semua ini menyatu dalam konsep khas Bali, yaitu "Jalan Harmoni" (Tri Hita Karana
 
 ## Bali Juga Juara di Asia Pasifik
 
-Selain masuk 3 besar dunia, bulan lalu Bali berhasil mengalahkan Koh Samui (Thailand) dan Phu Quoc (Vietnam) dalam ajang *Travel + Leisure* Asia Pacific Luxury Travel Awards, menjadi [**Pulau Terbaik di Asia Pasifik**](/blog/bali-best-island-2025/). Penghargaan ini fokus di pasar wisata mewah, makin ngebuktiin kalau Bali punya daya tarik dari yang ramah kantong sampai yang high-end, cocok buat semua tipe traveler.
+Selain masuk 3 besar dunia, bulan lalu Bali berhasil mengalahkan Koh Samui (Thailand) dan Phu Quoc (Vietnam) dalam ajang *Travel + Leisure* Asia Pacific Luxury Travel Awards, menjadi [**Pulau Terbaik di Asia Pasifik**](/id/blog/bali-best-island-2025/). Penghargaan ini fokus di pasar wisata mewah, makin ngebuktiin kalau Bali punya daya tarik dari yang ramah kantong sampai yang high-end, cocok buat semua tipe traveler.
 
 ---
 
@@ -103,10 +103,10 @@ Bali punya segalanya buat semua orang — variasi pengalaman wisatanya super kay
 
 **Referensi Cepat:**
 
-- [Panduan Romantis Bulan Madu di Bali: 36 Cara Seru buat Pasangan](/blog/bali-honeymoon-romantic-activities-2/)
+- [Panduan Romantis Bulan Madu di Bali: 36 Cara Seru buat Pasangan](/id/blog/bali-honeymoon-romantic-activities-2/)
 - Liburan Keluarga di Bali
-- [Panduan Lengkap Tempat Wisata di Bali buat Lansia](/blog/bali-senior-friendly-travel-guide/)
-- [Aktivitas Outdoor di Bali: 50 Pengalaman Paling Populer](/blog/bali-top-50-outdoor-activities/)
+- [Panduan Lengkap Tempat Wisata di Bali buat Lansia](/id/blog/bali-senior-friendly-travel-guide/)
+- [Aktivitas Outdoor di Bali: 50 Pengalaman Paling Populer](/id/blog/bali-top-50-outdoor-activities/)
 
 ---
 

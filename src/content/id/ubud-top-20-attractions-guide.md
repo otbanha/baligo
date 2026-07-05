@@ -47,10 +47,10 @@ Pariwisata di Ubud didukung oleh akomodasi yang lengkap, mulai dari hostel murah
 
 ![Pilihan Akomodasi yang Beragam](https://images.gobaligo.id/vocus/vocus_13a74a1d8c8fd5941d410b5cd70f4cf0.jpg)
 
-- [【Rekomendasi Menginap di Ubud, Bali】28 Akomodasi Unik di Ubud, Rasakan Petualangan Indah di Tengah Alam Pegunungan Bali!](/blog/ubud-villas-pool-guide/)
-- [Jelajahi 9 Villa Pohon/Bambu yang Memukau di Ubud (tree house/bamboo villa)](/blog/ubud-treehouse-bamboo-villa-stays/)
-- [【Rekomendasi Menginap di Ubud】Surga Privat Villa dengan Kolam Renang: 20 Villa Bali yang Bikin Kamu Tercengang di Ubud](/blog/ubud-villa-pool-guide/)
-- [Rekomendasi Menginap Yoga di Ubud: 10 Pilihan Impian yang Menggabungkan Kelas Yoga dan Relaksasi Jiwa](/blog/ubud-yoga-retreats-bali/)
+- [【Rekomendasi Menginap di Ubud, Bali】28 Akomodasi Unik di Ubud, Rasakan Petualangan Indah di Tengah Alam Pegunungan Bali!](/id/blog/ubud-villas-pool-guide/)
+- [Jelajahi 9 Villa Pohon/Bambu yang Memukau di Ubud (tree house/bamboo villa)](/id/blog/ubud-treehouse-bamboo-villa-stays/)
+- [【Rekomendasi Menginap di Ubud】Surga Privat Villa dengan Kolam Renang: 20 Villa Bali yang Bikin Kamu Tercengang di Ubud](/id/blog/ubud-villa-pool-guide/)
+- [Rekomendasi Menginap Yoga di Ubud: 10 Pilihan Impian yang Menggabungkan Kelas Yoga dan Relaksasi Jiwa](/id/blog/ubud-yoga-retreats-bali/)
 
 ### Kuliner di Ubud
 
@@ -84,7 +84,7 @@ Selain itu, naik motor butuh SIM internasional. Kamu bisa dapetin SIM internasio
 
 ![Naik Motor – Panduan Transportasi Ubud](https://images.gobaligo.id/vocus/vocus_fc84efe12c3d37e38738d93e3332713f.jpg)
 
-Soal topik rental motor, bisa cek: [Panduan Rental Motor di Bali! Lebih Baik Sewa Motor atau Sewa Mobil?](/blog/bali-motorbike-rental-guide/)
+Soal topik rental motor, bisa cek: [Panduan Rental Motor di Bali! Lebih Baik Sewa Motor atau Sewa Mobil?](/id/blog/bali-motorbike-rental-guide/)
 
 ### Sewa Mobil (Private Driver) – Panduan Transportasi Ubud
 
@@ -92,7 +92,7 @@ Kalau kamu lebih suka naik mobil, ada dua cara buat jalan-jalan di pusat Ubud.
 
 **Sewa Mobil + Sopir**  Di Ubud cukup susah nyari rental mobil buat nyetir sendiri. Plus, tempat parkir di pusat Ubud itu terbatas banget, banyak rambu dilarang parkir di mana-mana. Kalau kamu nggak mau pusing cari parkir, nggak mau nyetir sendiri, dan pengin eksplor tempat lain di luar Ubud, saran sih sewa mobil plus sopir aja (paket sewa mobil + driver).
 
--  Info lengkap sewa mobil + driver: [Panduan Lengkap Sewa Mobil + Driver di Bali - Biaya, Cara Pesan, Keuntungan](/blog/bali-private-car-hire-guide/)
+-  Info lengkap sewa mobil + driver: [Panduan Lengkap Sewa Mobil + Driver di Bali - Biaya, Cara Pesan, Keuntungan](/id/blog/bali-private-car-hire-guide/)
 
 **Paket Wisata Ubud**  Ada juga traveler yang males ngatur sendiri, milih booking paket wisata Bali. Paket-paket ini udah include pemandu, antar-jemput, itinerary, tiket masuk, makanan enak... pokoknya all-in-one!
 
@@ -131,7 +131,7 @@ Pesan perjalanan:
 
 Arung jeram adalah aktivitas seru di Ubud
 
-Sungai Ayung di Ubud adalah salah satu tempat arung jeram terkenal di Bali, dan aktivitas arung jeram di sini cocok untuk keluarga dan wisatawan yang santai. Kalau kamu ingin tantangan yang lebih ekstrem, bisa coba arung jeram di Sungai Telaga Waja, Karangasem. Cek [panduan arung jeram Bali (FAQ arung jeram)](/blog/bali-rafting-ayung-telaga-waja/)
+Sungai Ayung di Ubud adalah salah satu tempat arung jeram terkenal di Bali, dan aktivitas arung jeram di sini cocok untuk keluarga dan wisatawan yang santai. Kalau kamu ingin tantangan yang lebih ekstrem, bisa coba arung jeram di Sungai Telaga Waja, Karangasem. Cek [panduan arung jeram Bali (FAQ arung jeram)](/id/blog/bali-rafting-ayung-telaga-waja/)
 
 Pesan aktivitas arung jeram:
 
@@ -186,7 +186,7 @@ Pesan tur sehari:
 
 ![8. Pura Tirta Empul (Tirta Empul Temple)](https://images.gobaligo.id/vocus/vocus_88c944a5fa78e838a7b5907d644ae8ca.jpg)
 
-Pura Tirta Empul terkenal dengan mata air alaminya — airnya mengalir dari dalam pura, menghasilkan sumber air segar yang jernih banget. Pengunjung wajib pakai sarung dan sabuk untuk masuk ke area dalam pura, bisa disewa di pintu masuk. Cek [Panduan Lengkap Pura Tirta Empul: Pengalaman Pura Penyucian Tersuci di Bali](/blog/tirta-empul-temple-guide/)
+Pura Tirta Empul terkenal dengan mata air alaminya — airnya mengalir dari dalam pura, menghasilkan sumber air segar yang jernih banget. Pengunjung wajib pakai sarung dan sabuk untuk masuk ke area dalam pura, bisa disewa di pintu masuk. Cek [Panduan Lengkap Pura Tirta Empul: Pengalaman Pura Penyucian Tersuci di Bali](/id/blog/tirta-empul-temple-guide/)
 
 Pesan tur sehari:
 
@@ -206,7 +206,7 @@ Pesan tur:
 
 Omma Dayclub terkenal dengan pemandangan air terjun yang spektakuler. Air terjunnya setinggi sekitar 30 meter, dan kamu bisa menikmati pemandangan air terjun yang megah dari teras klub atau kolam renang yang dibangun di tepi sungai.
 
-- [Review Omma Dayclub & Website Resmi](/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+- [Review Omma Dayclub & Website Resmi](/id/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 ### 11. D'Tukad River Club
 
@@ -249,19 +249,19 @@ Cretya Ubud buka setiap hari dari jam 8 pagi sampai jam 9 malam. Tiket masuk dew
 
 Istana Ubud terletak di jalan utama Ubud, dekat dengan Pasar Seni Ubud dan Istana Air Ubud. Tonton video di atas, Xiao Jie akan ajak kamu keliling pusat kota Ubud.
 
-[Istana Ubud: Permata Sejarah dan Budaya Bali | Jam Buka, Tiket, Jadwal Pertunjukan, Tempat Wisata Sekitar, Rekomendasi Tur Sehari](/blog/ubud-royal-palace-tour-guide/)
+[Istana Ubud: Permata Sejarah dan Budaya Bali | Jam Buka, Tiket, Jadwal Pertunjukan, Tempat Wisata Sekitar, Rekomendasi Tur Sehari](/id/blog/ubud-royal-palace-tour-guide/)
 
 ### 16. Pasar Seni Ubud (Ubud Art Market)
 
 Pasar Seni Ubud adalah tempat yang pas buat belanja kerajinan tangan khas Bali, seperti tas anyaman, keranjang, dan barang handmade lainnya. Pasar ini dekat dengan Istana Ubud, buka dari jam 10:00 sampai 17:00.
 
-Baca juga: [Panduan Lengkap 5 Pasar Seni Terbaik di Ubud: Belanja Souvenir/Oleh-oleh, Jelajahi Khazanah Budaya Bali](/blog/ubud-art-markets-guide/)
+Baca juga: [Panduan Lengkap 5 Pasar Seni Terbaik di Ubud: Belanja Souvenir/Oleh-oleh, Jelajahi Khazanah Budaya Bali](/id/blog/ubud-art-markets-guide/)
 
 ### 17. Campuhan Ridge Walk (Campuhan Hill)
 
 Tempat yang bisa dicapai dengan jalan kaki dari Istana Ubud, dikenal sebagai 'Campuhan Ridge Walk' atau 'Skywalk Ubud'. Ini adalah hidden gem di pusat kota Ubud yang menawarkan ketenangan alam dan pemandangan indah. Jalur setapak ini berada di atas bukit, menyuguhkan panorama 360 derajat yang luas dan menakjubkan, jauh dari hiruk-pikuk kota.
 
-Gimana cara ke skywalk? Berapa lama waktu yang dibutuhkan? Kapan waktu terbaik untuk berkunjung? Cek [penjelasan detail Xiao Jie](/blog/ubud-campuhan-ridge-walk/)
+Gimana cara ke skywalk? Berapa lama waktu yang dibutuhkan? Kapan waktu terbaik untuk berkunjung? Cek [penjelasan detail Xiao Jie](/id/blog/ubud-campuhan-ridge-walk/)
 
 ### 18. Ayunan Ubud (Swing)
 
@@ -269,13 +269,13 @@ Gimana cara ke skywalk? Berapa lama waktu yang dibutuhkan? Kapan waktu terbaik u
 
 Ayunan di Ubud jadi aktivitas hits buat foto Instagram. Di Bali banyak tempat buat main ayunan, tapi Ubud yang paling terkenal.
 
-​Cek [Panduan Main Ayunan di Ubud: 8 Spot Foto Ayunan Terindah di Bali | Ayunan Ubud & Sewa Gaun](/blog/ubud-jungle-swings-photo-guide/)
+​Cek [Panduan Main Ayunan di Ubud: 8 Spot Foto Ayunan Terindah di Bali | Ayunan Ubud & Sewa Gaun](/id/blog/ubud-jungle-swings-photo-guide/)
 
 ### 19  Berburu Air Terjun (Waterfall Hunting)
 
 ![19 Berburu Air Terjun (Waterfall Hunting)](https://images.gobaligo.id/vocus/vocus_68745d1fbb03c0df4da67ba5a349df4b.png)
 
-Daerah Ubud nggak cuma terkenal sama seni dan budayanya, tapi juga punya pemandangan alam yang bikin speechless, terutama air terjunnya yang wajib banget dikunjungi. Tiga air terjun terkenal di dekat Ubud: Tegenungan, Kanto Lampo, dan Tukad Cepung. Baca [panduan lengkap tiga air terjun populer di sekitar Ubud](/blog/ubud-waterfalls-guide/)
+Daerah Ubud nggak cuma terkenal sama seni dan budayanya, tapi juga punya pemandangan alam yang bikin speechless, terutama air terjunnya yang wajib banget dikunjungi. Tiga air terjun terkenal di dekat Ubud: Tegenungan, Kanto Lampo, dan Tukad Cepung. Baca [panduan lengkap tiga air terjun populer di sekitar Ubud](/id/blog/ubud-waterfalls-guide/)
 
 Air terjun ini tempat yang pas buat eksplorasi keindahan alam, sekaligus spot kece buat foto IG. Jauh dari hiruk-pikuk kota, jalan setapak di tengah hutan hijau bikin kamu serasa masuk ke dunia rahasia. Berdiri di depan air terjun, percikan air dan derasnya aliran bikin kamu merasakan kekuatan alam yang luar biasa.
 
@@ -287,7 +287,7 @@ Pesan tur harian:
 
 ### 20  Naik ATV
 
-Mau eksplorasi keindahan alam Ubud dengan kecepatan lebih? Naik ATV (All Terrain Vehicle) adalah pilihan yang super menantang dan seru. Tur ATV di Ubud biasanya melintasi hutan hujan, sungai, terowongan, dan medan pegunungan yang terjal, bikin kamu serasa di petualangan yang mendebarkan. Cara ngebut melewati alam ini bikin kamu bisa merasakan beragam medan dan pemandangan Ubud dalam waktu singkat, pasti jadi favorit para petualang. Cek [Petualangan ATV di Bali: Rasakan Sensasi dan Kebebasan di Surga Tropis (Tips + FAQ + Rekomendasi Operator)](/blog/bali-atv-adventure-guide/)
+Mau eksplorasi keindahan alam Ubud dengan kecepatan lebih? Naik ATV (All Terrain Vehicle) adalah pilihan yang super menantang dan seru. Tur ATV di Ubud biasanya melintasi hutan hujan, sungai, terowongan, dan medan pegunungan yang terjal, bikin kamu serasa di petualangan yang mendebarkan. Cara ngebut melewati alam ini bikin kamu bisa merasakan beragam medan dan pemandangan Ubud dalam waktu singkat, pasti jadi favorit para petualang. Cek [Petualangan ATV di Bali: Rasakan Sensasi dan Kebebasan di Surga Tropis (Tips + FAQ + Rekomendasi Operator)](/id/blog/bali-atv-adventure-guide/)
 
 Pesan tur:
 
@@ -305,12 +305,12 @@ Buat yang butuh peta lokasi, cek aja: 「[Peta Panduan Ubud](https://www.google.
 
 Semoga daftar ini bisa bantu kamu merencanakan liburan Ubud yang nggak terlupakan!
 
-Kalau kamu bukan pertama kali ke sini dan pengen eksplor Ubud lebih dalam, cek juga 「[Panduan Lengkap Ubud: 100 Cara Kenal Lebih Dekat Ubud](/blog/ubud-guide/)」, biar makin seru!
+Kalau kamu bukan pertama kali ke sini dan pengen eksplor Ubud lebih dalam, cek juga 「[Panduan Lengkap Ubud: 100 Cara Kenal Lebih Dekat Ubud](/id/blog/ubud-guide/)」, biar makin seru!
 
-> Baca juga: [Tips Liburan Bali: 32 Hal Wajib Tahu Sebelum ke Bali](/blog/bali-ultimate-guide-2026/)
+> Baca juga: [Tips Liburan Bali: 32 Hal Wajib Tahu Sebelum ke Bali](/id/blog/bali-ultimate-guide-2026/)
 
-> Baca juga: [Panduan Anti Zonk di Bali: 18 Kesalahan Umum & Saran](/blog/bali-travel-mistakes-tips/)
+> Baca juga: [Panduan Anti Zonk di Bali: 18 Kesalahan Umum & Saran](/id/blog/bali-travel-mistakes-tips/)
 
-> Baca juga: [Panduan Sehari di Seminyak: Itinerary dari Sunrise ke Sunset](/blog/seminyak-day-trip-guide/)
+> Baca juga: [Panduan Sehari di Seminyak: Itinerary dari Sunrise ke Sunset](/id/blog/seminyak-day-trip-guide/)
 
 {{block:住宿}}

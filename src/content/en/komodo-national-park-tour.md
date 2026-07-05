@@ -134,10 +134,10 @@ Left: Last stop: Kanawa Island—also crystal-clear glassy waters, perfect for s
 
 Left: Overall, I feel Ayana Komodo's service isn't quite five-star—likely because it's on a remote island and relatively new, so the level of detail isn't fully polished yet. But the hotel has plenty of facilities and stunning views—though you must book a sea-view room, otherwise it's not worth it. Right: Thank you to Arda, owner of Asri Labuan Bajo, for the arrangements and care 🥰🙇🏻‍♀️ (Photo by Astrid Chang)
 
-> **Offering an all-inclusive five-day, four-night itinerary, including round-trip direct flights between Taiwan and Bali, flights between Bali and Komodo Island, four nights' accommodation, a private car and driver for two throughout the trip, and more: ⭐⭐**[**Bali + Komodo Dragon Island: Four-Night Light-Luxury Stay / No Shopping / No Optional Tours / 5-Day Trip**](/blog/bali-komodo-luxury-tour-2026/)**⭐⭐**
+> **Offering an all-inclusive five-day, four-night itinerary, including round-trip direct flights between Taiwan and Bali, flights between Bali and Komodo Island, four nights' accommodation, a private car and driver for two throughout the trip, and more: ⭐⭐**[**Bali + Komodo Dragon Island: Four-Night Light-Luxury Stay / No Shopping / No Optional Tours / 5-Day Trip**](/en/blog/bali-komodo-luxury-tour-2026/)**⭐⭐**
 
 Think Astrid Chang's itinerary looks amazing? Go ahead and plan your own Bali free-and-easy trip! Feel free to share your itinerary in the community group too!
 
-Latest update: [Komodo officially limits visitors! In 2026, no reservation means being sent back to shore immediately — spontaneous trips are history!](https://gobaligo.id/blog/komodo-booking-2026/)
+Latest update: [Komodo officially limits visitors! In 2026, no reservation means being sent back to shore immediately — spontaneous trips are history!](https://gobaligo.id/en/blog/komodo-booking-2026/)
 
 {{block:遊記}}

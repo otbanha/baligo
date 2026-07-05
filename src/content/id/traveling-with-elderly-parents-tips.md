@@ -103,8 +103,8 @@ Pengalaman 'pahit' ini kelihatannya sepele, tapi kalau numpuk selama perjalanan,
 
 **'Bawa orang tua liburan ke Bali' panduan cepat:**
 
-- Episode 1: [Panduan Liburan Bali untuk Lansia - Keamanan, Kenyamanan & Tips Penting](/blog/bali-elderly-travel-guide/)
-- Episode 2: [Rekomendasi Tempat Wisata Bali yang Ramah Lansia Lengkap](/blog/bali-senior-friendly-travel-guide/)
+- Episode 1: [Panduan Liburan Bali untuk Lansia - Keamanan, Kenyamanan & Tips Penting](/id/blog/bali-elderly-travel-guide/)
+- Episode 2: [Rekomendasi Tempat Wisata Bali yang Ramah Lansia Lengkap](/id/blog/bali-senior-friendly-travel-guide/)
 
 ### **1. Jadwal jangan terlalu padat: jangan bikin liburan jadi 'maraton'**
 
@@ -136,7 +136,7 @@ Ada keluarga yang liburan ke Bali, pikirnya naik ojek online (Gojek/Grab) di pus
 
 Sepasang suami istri mengajak orang tua mereka ke Pura Besakih di Bali. Sesampainya di sana, ternyata harus naik tangga yang sangat banyak untuk sampai ke bangunan utama. Orang tua mereka kelelahan di tengah jalan, bahkan hampir jatuh karena kehabisan tenaga, dan akhirnya harus menyerah di tengah perjalanan.
 
-**Saran**: Sebelum berangkat, cari tahu dulu apakah tempat wisata butuh jalan kaki lama atau naik tangga. Tempat seperti sawah terasering atau air terjun juga perlu dipertimbangkan apakah tenaga orang tua cukup. Cek juga panduan lengkapnya di «[Panduan Lengkap Tempat Wisata Ramah Lansia di Bali](/blog/bali-senior-friendly-travel-guide/)»
+**Saran**: Sebelum berangkat, cari tahu dulu apakah tempat wisata butuh jalan kaki lama atau naik tangga. Tempat seperti sawah terasering atau air terjun juga perlu dipertimbangkan apakah tenaga orang tua cukup. Cek juga panduan lengkapnya di «[Panduan Lengkap Tempat Wisata Ramah Lansia di Bali](/id/blog/bali-senior-friendly-travel-guide/)»
 
 ### **5. Perhatikan kebiasaan makan dan pantangan orang tua**
 
@@ -182,8 +182,8 @@ Sebuah keluarga menginap di hotel di pusat keramaian Kuta, Bali. Malam hari, sua
 
 **Referensi Cepat:**
 
-- [Panduan Jimbaran](/blog/jimbaran-guide/)
-- [45 Rekomendasi Wisata Kuliner & Aktivitas di Sanur](/blog/sanur-guide/)
+- [Panduan Jimbaran](/id/blog/jimbaran-guide/)
+- [45 Rekomendasi Wisata Kuliner & Aktivitas di Sanur](/id/blog/sanur-guide/)
 
 ### **10. Perjalanan terlalu jauh? Jangan lupa istirahat**
 
@@ -279,8 +279,8 @@ Meskipun bawa orang tua ke luar negeri punya banyak hal kecil yang harus diperha
 
 ## **Panduan Liburan ke Bali Bareng Orang Tua:**
 
-- Episode 1: [Panduan Liburan ke Bali untuk Lansia - Keamanan, Kenyamanan & Tips Penting](/blog/bali-elderly-travel-guide/)
-- Episode 2: [Panduan Lengkap Tempat Wisata Bali yang Ramah Lansia](/blog/bali-senior-friendly-travel-guide/)
+- Episode 1: [Panduan Liburan ke Bali untuk Lansia - Keamanan, Kenyamanan & Tips Penting](/id/blog/bali-elderly-travel-guide/)
+- Episode 2: [Panduan Lengkap Tempat Wisata Bali yang Ramah Lansia](/id/blog/bali-senior-friendly-travel-guide/)
 - Episode 3: Tingkah Orang Tua Bikin Geleng-Geleng!? Bawa Mereka ke Luar Negeri, Siap-siap 'Capek Hati' (Episode ini)
 
 {{block:親子}}

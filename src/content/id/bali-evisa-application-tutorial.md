@@ -44,6 +44,6 @@ Setelah formulir selesai, GilaNgoding demo cara bayar, dan ngomong kalau kita ha
 
 Karena video GilaNgoding cuma bisa ditonton di YouTube, buat yang butuh tutorial step by step lebih detail [klik di sini buat nonton](https://www.youtube.com/watch?v=j1VOvlR9vbo).
 
-Kalau kamu masih ada masalah atau bingung soal pengajuan, bisa cek di sini: [FAQ Lengkap Visa & e-VoA Indonesia/Bali 2024](/blog/indonesia-bali-visa-evoa-faq/)
+Kalau kamu masih ada masalah atau bingung soal pengajuan, bisa cek di sini: [FAQ Lengkap Visa & e-VoA Indonesia/Bali 2024](/id/blog/indonesia-bali-visa-evoa-faq/)
 
-Mau tahu langkah-langkah dari turun pesawat sampai keluar bandara? [Cek di sini](/blog/2025-bali-immigration-process/)
+Mau tahu langkah-langkah dari turun pesawat sampai keluar bandara? [Cek di sini](/id/blog/2025-bali-immigration-process/)

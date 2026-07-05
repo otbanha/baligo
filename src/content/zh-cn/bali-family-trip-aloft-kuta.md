@@ -36,7 +36,7 @@ Update: 2026/07/03
 
 ## 住在库塔的原因
 
-虽然库塔不是一个适合长住的地方（请看：[去巴厘岛住这里最方便，却最不推荐！巴厘岛库塔区有什么优缺点？](/blog/kuta-bali-accommodation-pros-cons/)），为何我们选择下飞机后就住在库塔呢？原因有四：
+虽然库塔不是一个适合长住的地方（请看：[去巴厘岛住这里最方便，却最不推荐！巴厘岛库塔区有什么优缺点？](/zh-cn/blog/kuta-bali-accommodation-pros-cons/)），为何我们选择下飞机后就住在库塔呢？原因有四：
 
 1. 因为离机场最近，下飞机不久就可以立刻放松。考虑到我们带着两个小孩旅行，选择住在离机场最近的库塔，可以最大程度地减少长途飞行后的疲劳，让全家可以尽快放松身心，开始享受巴厘岛的美好。
 2. 配合我们第二天前往金巴兰、乌鲁瓦图的行程。库塔地理位置优越，不仅离机场近，而且方便前往巴厘岛其他景点，比如金巴兰和乌鲁瓦图。我们计划第二天前往这两个地方，所以选择在库塔住宿，可以节省交通时间，让我们更多地享受旅程中的美好时光。
@@ -137,7 +137,7 @@ check-in > Beachwalk shopping 3F 看夕阳 > 吃小杰介绍的烤猪饭Warung B
 
 ![雜記&心得](https://images.gobaligo.id/vocus/vocus_21d540de87f478b39fd7f1dee26b368a.jpg)
 
-想了解更多库塔攻略？[请点击这里](/blog/2023-12-13-657598bdfd8978000120fe20/)
+想了解更多库塔攻略？[请点击这里](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 ## 巴厘岛包车司机推荐
 
@@ -192,10 +192,10 @@ PS 🇮🇩印尼是个收小费的国家，请大家不吝啬多给一点小费
 这是连载的第一集。今天我们要吃饱😋、睡好💤，体力补充完毕💪，我们准备好迎接接下来的挑战，库塔海滩的冲浪趣🏄‍♀️。这个充满活力和浪漫的岛屿，充满了无尽的可能性，我们期待着在这片美丽的海滩上度过难忘的时光。
 
 连载已完结：
-- [**Day 1: 住在shopping mall里！两大两小的亲子住宿安排**](/blog/bali-family-trip-aloft-kuta/)
-- [**Day 2: GWK神鹰广场、乌鲁瓦图免费海滩俱乐部、乌鲁瓦图庙、乌鲁瓦图火舞**](/blog/bali-family-trip-gwk-beach-club/)
-- [**Day 3-7: 五天乌布：美食、景点、住宿、火山探索推荐**](/blog/bali-family-trip-ubud-guide/)
-- [**Day 8: Bali Safari 要怎么玩乐、夜宿攻略**](/blog/bali-safari-night-stay/)
+- [**Day 1: 住在shopping mall里！两大两小的亲子住宿安排**](/zh-cn/blog/bali-family-trip-aloft-kuta/)
+- [**Day 2: GWK神鹰广场、乌鲁瓦图免费海滩俱乐部、乌鲁瓦图庙、乌鲁瓦图火舞**](/zh-cn/blog/bali-family-trip-gwk-beach-club/)
+- [**Day 3-7: 五天乌布：美食、景点、住宿、火山探索推荐**](/zh-cn/blog/bali-family-trip-ubud-guide/)
+- [**Day 8: Bali Safari 要怎么玩乐、夜宿攻略**](/zh-cn/blog/bali-safari-night-stay/)
 
 您觉得越南台商小姐姐安排的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
 

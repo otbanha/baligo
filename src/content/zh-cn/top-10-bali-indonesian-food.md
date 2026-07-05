@@ -270,7 +270,7 @@ _srcHash: cf97ab51a25a18c671983ae3fad178cc
 - **Gado-Gado**：温沙拉佐花生酱，配料有炸豆腐、水煮蛋和印尼国宝「Krupuk」虾饼
 - **Tempeh Manis**：发酵黄豆饼用甜酱油炒到焦香，蛋白质爆表！
 
-> 延伸阅读：[巴厘岛Top 20素食友善餐厅探索：巴厘岛素食的美味之旅](/blog/bali-vegan-restaurants-guide/)
+> 延伸阅读：[巴厘岛Top 20素食友善餐厅探索：巴厘岛素食的美味之旅](/zh-cn/blog/bali-vegan-restaurants-guide/)
 
 ---
 
@@ -290,16 +290,16 @@ _srcHash: cf97ab51a25a18c671983ae3fad178cc
 
 ## 美食收集：
 
-- [巴厘岛十大美食｜巴厘岛旅游的八大注意事项](/blog/bali-travel-tips/)
-- [水明漾美食攻略](/blog/seminyak-guide/)
-- [库塔美食攻略](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [坎古美食攻略](/blog/canggu-guide/)
-- [乌布美食攻略](/blog/ubud-guide/)
-- [金巴兰攻略](/blog/jimbaran-guide/)
-- [乌鲁瓦图美食攻略](/blog/uluwatu-guide/)
-- [沙努尔美食](/blog/sanur-guide/)[攻略](/blog/sanur-guide/)
-- [努沙杜瓦美食攻略](/blog/nusa-dua-guide/)
-- [北部罗威那美食推荐](/blog/north-bali-travel-guide/)
-- [佩尼达岛美食攻略](/blog/nusa-penida-best-restaurants/)
-- [蓝梦岛/金银岛美食攻略](/blog/nusa-lembongan-restaurants/)
-- [科莫多岛美食攻略](/blog/komodo-island-labuan-bajo-travel/)
+- [巴厘岛十大美食｜巴厘岛旅游的八大注意事项](/zh-cn/blog/bali-travel-tips/)
+- [水明漾美食攻略](/zh-cn/blog/seminyak-guide/)
+- [库塔美食攻略](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [坎古美食攻略](/zh-cn/blog/canggu-guide/)
+- [乌布美食攻略](/zh-cn/blog/ubud-guide/)
+- [金巴兰攻略](/zh-cn/blog/jimbaran-guide/)
+- [乌鲁瓦图美食攻略](/zh-cn/blog/uluwatu-guide/)
+- [沙努尔美食](/zh-cn/blog/sanur-guide/)[攻略](/zh-cn/blog/sanur-guide/)
+- [努沙杜瓦美食攻略](/zh-cn/blog/nusa-dua-guide/)
+- [北部罗威那美食推荐](/zh-cn/blog/north-bali-travel-guide/)
+- [佩尼达岛美食攻略](/zh-cn/blog/nusa-penida-best-restaurants/)
+- [蓝梦岛/金银岛美食攻略](/zh-cn/blog/nusa-lembongan-restaurants/)
+- [科莫多岛美食攻略](/zh-cn/blog/komodo-island-labuan-bajo-travel/)

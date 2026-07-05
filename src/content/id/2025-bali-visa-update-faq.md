@@ -95,7 +95,7 @@ Saran sih, ajukan dari jauh-jauh hari biar nggak buang-buang waktu liburan kamu.
 
 - Hati-hati pakai jasa pihak ketiga, pemerintah nggak tanggung jawab atas kualitas layanan mereka. Ajukan langsung di [situs resmi](https://evisa.imigrasi.go.id/).
 
-（Baca juga: [Perubahan Masuk Bali 2025 Paham dalam 1 Menit: Prosedur Masuk Indonesia/Bali - Dari Turun Pesawat/Imigrasi sampai Ambil Bagasi](/blog/2025-bali-immigration-process/)）
+（Baca juga: [Perubahan Masuk Bali 2025 Paham dalam 1 Menit: Prosedur Masuk Indonesia/Bali - Dari Turun Pesawat/Imigrasi sampai Ambil Bagasi](/id/blog/2025-bali-immigration-process/)）
 
 ## 8 Jenis Visa
 
@@ -112,4 +112,4 @@ Buat turis, maksimal 30 hari — udah tahu pilih yang mana?
 
 👈 **Kembali ke Panduan Lengkap Trip ke Bali**
 
-Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.
+Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.

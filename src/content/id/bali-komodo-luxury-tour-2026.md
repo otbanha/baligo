@@ -32,7 +32,7 @@ Update: 2026/07/03
 
 ![2026/5新優惠，含台北直飛峇里島機票台幣41,833元/人](https://images.gobaligo.id/images/2026-04/1775402779415-8c1c7efa856f2ba9f2984560bfefe7f9.jpeg)
 
-榮獲「[全球最美度假勝地](/blog/komodo-national-park-global-award/)」第一名的科摩多！這趟豪華五日遊讓你享受獨特且無壓力的旅遊體驗，無購物行程、無隱藏費用，適合喜愛探索自然和放鬆的你。以下是專屬於你的獨特行程：
+榮獲「[全球最美度假勝地](/id/blog/komodo-national-park-global-award/)」第一名的科摩多！這趟豪華五日遊讓你享受獨特且無壓力的旅遊體驗，無購物行程、無隱藏費用，適合喜愛探索自然和放鬆的你。以下是專屬於你的獨特行程：
 
 ✨ **專屬服務**：兩人獨享一車一導遊，無須與其他旅客共享，讓你盡享私人空間與個性化的旅遊體驗。
 
@@ -46,7 +46,7 @@ Update: 2026/07/03
 
 🌊 **Snorkeling Manta Ray**: Snorkeling di Samudra Hindia, dekat dengan pari manta yang elegan.
 
-🍹 **Omma Dayclub Bali**: Santai di [dayclub paling hits di Ubud, Bali](/blog/ubud-omma-dayclub-tegenungan-waterfall/), nikmati perpaduan sempurna antara pemandangan dan minuman.
+🍹 **Omma Dayclub Bali**: Santai di [dayclub paling hits di Ubud, Bali](/id/blog/ubud-omma-dayclub-tegenungan-waterfall/), nikmati perpaduan sempurna antara pemandangan dan minuman.
 
 💆 **Pengalaman SPA**: Relaksasi dengan perawatan SPA, lepaskan penat selama perjalanan.
 
@@ -112,7 +112,7 @@ Update: 2026/07/03
 - Harga tiket pesawat dan akomodasi bisa berbeda tergantung tanggal keberangkatan.
 - Paket ini adalah harga spesial cash untuk minimal 2 orang. Kalau jumlah peserta berbeda, silakan hubungi tim kami untuk detail harga.
 - Ini promo terbatas, setelah dipesan tidak bisa dibatalkan atau refund.
-- Dijamin bisa naik ke pulau, tidak terpengaruh [pembatasan jumlah pengunjung](/blog/komodo-booking-2026/)
+- Dijamin bisa naik ke pulau, tidak terpengaruh [pembatasan jumlah pengunjung](/id/blog/komodo-booking-2026/)
 
 ![特別說明：](https://images.gobaligo.id/images/2026-04/1775403013880-573914366_1243124144524262_1616867715591804103_n.jpg)
 

@@ -38,9 +38,9 @@ Saat kamu merencanakan liburan santai ke Canggu di Bali, Indonesia, memilih peng
 
 ### Pasti kamu juga mau lihat:
 
-> ▶[Panduan Canggu Bagian Atas](/blog/canggu-surf-food-guide/)
+> ▶[Panduan Canggu Bagian Atas](/id/blog/canggu-surf-food-guide/)
 > >
-> ▶[Panduan Canggu Bagian Bawah](/blog/canggu-bali-travel-guide/)
+> ▶[Panduan Canggu Bagian Bawah](/id/blog/canggu-bali-travel-guide/)
 
 ### 【Jangan Lewatkan Diskon Tiket Canggu Ini】
 
@@ -162,7 +162,7 @@ Hotel punya **119 kamar dan suite** plus **14 vila dengan kolam renang pribadi**
 
 Oshom Bali, yang baru buka November 2024, adalah butik hotel dengan cuma 11 kamar. Letaknya di Nuanu Creative City, Tabanan, Bali — di atas tebing menghadap pantai pasir hitam. Hotel ini juga punya tujuh treehouse di hutan mangrove, kolam renang air asin, restoran kece, dan rooftop bar warna pink-oranye yang bakal segera buka. Desain kamarnya minimalis mewah, dengan jendela kaca full, perangkat pintar, dan kerajinan tradisional Indonesia. Ada juga cerita pengantar tidur setiap malam dan ruang meditasi biar kamu bisa relaks total. Pendirinya, Daisy Angus, juga ngadain workshop melukis dan 'bedside talk' buat memicu inspirasi dan kreativitas.
 
-Fasilitas di sekitar Oshom juga oke banget. Jarak tempuh pendek ke Lumeira, kubah uap kayu terbesar di dunia buat terapi relaksasi, plus sauna ala Finlandia. Restoran hotel nyajiin makanan tradisional Bali dan Western. Jalan kaki 1 menit aja udah sampe [Luna Beach Club](/blog/canggu-guide/), buat nikmatin kolam renang, bar, dan pesta pantai. Oshom adalah perpaduan seni, alam, dan inspirasi — cocok buat kamu yang cari pengalaman liburan unik.
+Fasilitas di sekitar Oshom juga oke banget. Jarak tempuh pendek ke Lumeira, kubah uap kayu terbesar di dunia buat terapi relaksasi, plus sauna ala Finlandia. Restoran hotel nyajiin makanan tradisional Bali dan Western. Jalan kaki 1 menit aja udah sampe [Luna Beach Club](/id/blog/canggu-guide/), buat nikmatin kolam renang, bar, dan pesta pantai. Oshom adalah perpaduan seni, alam, dan inspirasi — cocok buat kamu yang cari pengalaman liburan unik.
 
 > ▶[Harga Spesial Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=64716205) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=117153593&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/zXbwVorS)
 
@@ -335,9 +335,9 @@ Cek aja di "[Peta Panduan Canggu](https://gobaligo.id/map/canggu/)"
 
 ## Pasti kamu juga mau lihat:
 
-> ▶[Panduan Canggu Bagian Atas](/blog/canggu-surf-food-guide/)
+> ▶[Panduan Canggu Bagian Atas](/id/blog/canggu-surf-food-guide/)
 > >
-> ▶[Panduan Canggu Bagian Bawah](/blog/canggu-bali-travel-guide/)
+> ▶[Panduan Canggu Bagian Bawah](/id/blog/canggu-bali-travel-guide/)
 
 ## Jangan Lewatkan Diskon Tiket Canggu Ini
 

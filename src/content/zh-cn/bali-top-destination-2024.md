@@ -25,7 +25,7 @@ _srcHash: b1620b97db9664b4af60b8bf21a5c0b4
 
 **快速参考:**
 
-[巴厘岛六大必看卡恰火舞（Kecak Fire Dance）地点：一场视觉与文化的盛宴](/blog/bali-kecak-fire-dance-locations/)
+[巴厘岛六大必看卡恰火舞（Kecak Fire Dance）地点：一场视觉与文化的盛宴](/zh-cn/blog/bali-kecak-fire-dance-locations/)
 
 2024年11月的外国游客人数为109万人次，与10月相比下降了8.58%，这与旅游淡季的趋势一致。不过，最终的2024年数据尚需等待一个月才能完全统计出来，但可以确定的是，到2025年2月初公布最终数据时，整个印尼的游客总人数将超过1300万人次。
 
@@ -43,7 +43,7 @@ _srcHash: b1620b97db9664b4af60b8bf21a5c0b4
 
 **快速参考:**
 
-[家庭度假首选: 沙努尔攻略地图｜45项吃喝玩乐，还有SPA和住宿推荐](/blog/sanur-guide/)
+[家庭度假首选: 沙努尔攻略地图｜45项吃喝玩乐，还有SPA和住宿推荐](/zh-cn/blog/sanur-guide/)
 
 ---
 
@@ -59,7 +59,7 @@ _srcHash: b1620b97db9664b4af60b8bf21a5c0b4
 
 **快速参考:**
 
-彭里普兰村有何特色?请参考[2025巴厘岛乌布完整攻略](/blog/ubud-guide/)
+彭里普兰村有何特色?请参考[2025巴厘岛乌布完整攻略](/zh-cn/blog/ubud-guide/)
 
 ---
 

@@ -53,10 +53,10 @@ Update: 2026/07/03
 
 全程保持冷靜友善，唔好表現得太想要件貨，費事畀商家抬高價錢，亦唔好死纏爛打咁講價，傾到雙方都接受嘅價錢就可以成交。
 
-> 延伸閱讀：[旅行購物必知：安全又便利嘅消費指南](/blog/travel-shopping-safety/)
+> 延伸閱讀：[旅行購物必知：安全又便利嘅消費指南](/zh-hk/blog/travel-shopping-safety/)
 
-> 延伸閱讀：[峇里島最大藝術批發市場 Kumbasri Art Market](/blog/kumbasari-art-market-shopping/)
+> 延伸閱讀：[峇里島最大藝術批發市場 Kumbasri Art Market](/zh-hk/blog/kumbasari-art-market-shopping/)
 
-> 延伸閱讀：[仲有舉辦緊嘅峇里島四個假日市集：最接地氣嘅購物體驗](/blog/bali-weekend-markets-2026/)
+> 延伸閱讀：[仲有舉辦緊嘅峇里島四個假日市集：最接地氣嘅購物體驗](/zh-hk/blog/bali-weekend-markets-2026/)
 
 {{block:伴手禮}}

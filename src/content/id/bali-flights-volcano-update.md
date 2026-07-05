@@ -62,7 +62,7 @@ Artinya, traveler dari Taiwan yang terbang langsung ke Bali **masih bisa berangk
 
 **Penerbangan domestik yang dibatalkan:**
 
-- [Labuan Bajo dari Bandara Komodo](/blog/komodo-island-labuan-bajo-travel/) ke Bali (2 penerbangan)
+- [Labuan Bajo dari Bandara Komodo](/id/blog/komodo-island-labuan-bajo-travel/) ke Bali (2 penerbangan)
 
 **Penerbangan keberangkatan yang dibatalkan:**
 

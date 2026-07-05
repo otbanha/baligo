@@ -100,7 +100,7 @@ Dijuluki sebagai "prasmanan all-you-can-eat paling top di Bali", The Mulia Resor
 
 ![更多努沙杜瓦吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_b44c89e53b6c550aa22f958f7e8008f5.png)
 
-Nusa Dua adalah kawasan di Bali yang terkenal dengan resort mewahnya, punya pantai putih bersih, air laut biru jernih, dan fasilitas wisata yang lengkap. Tempat ini jadi pilihan utama buat kamu yang cari pengalaman high-end dan liburan tenang. Di sini juga ada spa kelas atas, olahraga air, dan aktivitas santai yang cocok untuk seluruh keluarga — surga banget buat semua tipe traveler. Mau tahu lebih banyak tips soal Nusa Dua? [Klik di sini](/blog/nusa-dua-guide/).
+Nusa Dua adalah kawasan di Bali yang terkenal dengan resort mewahnya, punya pantai putih bersih, air laut biru jernih, dan fasilitas wisata yang lengkap. Tempat ini jadi pilihan utama buat kamu yang cari pengalaman high-end dan liburan tenang. Di sini juga ada spa kelas atas, olahraga air, dan aktivitas santai yang cocok untuk seluruh keluarga — surga banget buat semua tipe traveler. Mau tahu lebih banyak tips soal Nusa Dua? [Klik di sini](/id/blog/nusa-dua-guide/).
 
 ***
 
@@ -144,7 +144,7 @@ Seminyak adalah pusat gaya hidup di Bali, dengan banyak restoran dan bar kelas a
 
 ![更多水明漾吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_366287b60b610bfff45aea753d91ba55.jpg)
 
-Seminyak adalah kawasan mempesona di Bali yang memadukan gaya modern dan tradisi, punya restoran kelas atas, butik-butik keren, dan kehidupan malam yang semarak—surga banget buat liburan! Mau tahu info lebih lanjut tentang tempat wisata seru, kuliner, SPA, beach club? [Klik di sini](/blog/seminyak-guide/).
+Seminyak adalah kawasan mempesona di Bali yang memadukan gaya modern dan tradisi, punya restoran kelas atas, butik-butik keren, dan kehidupan malam yang semarak—surga banget buat liburan! Mau tahu info lebih lanjut tentang tempat wisata seru, kuliner, SPA, beach club? [Klik di sini](/id/blog/seminyak-guide/).
 
 ***
 
@@ -182,7 +182,7 @@ Ubud adalah pusat budaya Bali, punya banyak restoran sehat dan pengalaman makan 
 
 ![Lebih banyak rekomendasi kuliner dan seru-seruan di Ubud](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
-Ubud adalah pusat seni dan budaya Bali, dengan sawah bertingkat yang hijau, hutan yang tenang, dan tradisi yang kental, bikin siapa pun betah. Tempat ini cocok banget buat kamu yang mau rileks dan melepas penat. Mau eksplorasi tradisi lokal, nikmatin alam, atau coba aktivitas seru di luar ruangan yang unik perpaduan makanan + pemandangan, Ubud bakal kasih pengalaman yang beda! Mau tahu lebih banyak tips Ubud? [Klik di sini](/blog/ubud-guide/).
+Ubud adalah pusat seni dan budaya Bali, dengan sawah bertingkat yang hijau, hutan yang tenang, dan tradisi yang kental, bikin siapa pun betah. Tempat ini cocok banget buat kamu yang mau rileks dan melepas penat. Mau eksplorasi tradisi lokal, nikmatin alam, atau coba aktivitas seru di luar ruangan yang unik perpaduan makanan + pemandangan, Ubud bakal kasih pengalaman yang beda! Mau tahu lebih banyak tips Ubud? [Klik di sini](/id/blog/ubud-guide/).
 
 ***
 
@@ -214,7 +214,7 @@ Kuta adalah kawasan wisata populer di Bali, banyak restoran murah dan suasana ma
 
 ![Info Seru Lainnya soal Kuta](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
 
-Kuta adalah salah satu destinasi paling hidup di Bali, terkenal dengan kehidupan malam yang ramai, jalanan yang sibuk, dan pantai yang cocok untuk pemula selancar. Di sini kamu bisa menemukan banyak toko, restoran, dan tempat hiburan—cocok banget buat yang suka petualangan dan belanja. Mau menikmati pesta seru atau sunset cantik, Kuta bakal bikin liburanmu penuh kenangan! Mau tahu lebih banyak tips Kuta? [Klik di sini](/blog/2023-12-13-657598bdfd8978000120fe20/).
+Kuta adalah salah satu destinasi paling hidup di Bali, terkenal dengan kehidupan malam yang ramai, jalanan yang sibuk, dan pantai yang cocok untuk pemula selancar. Di sini kamu bisa menemukan banyak toko, restoran, dan tempat hiburan—cocok banget buat yang suka petualangan dan belanja. Mau menikmati pesta seru atau sunset cantik, Kuta bakal bikin liburanmu penuh kenangan! Mau tahu lebih banyak tips Kuta? [Klik di sini](/id/blog/2023-12-13-657598bdfd8978000120fe20/).
 
 ***
 
@@ -250,13 +250,13 @@ Jimbaran terkenal dengan seafood dan sunset-nya, punya banyak restoran tepi pant
 - 📌 Jumat｜Fisherman Night – Malam Seafood
 - 📌 Sabtu｜Taste of Latin – Malam Rasa Latin
 
-[Hotline Reservasi & Info Lengkap](/blog/platinum-hotel-jimbaran-beach/)
+[Hotline Reservasi & Info Lengkap](/id/blog/platinum-hotel-jimbaran-beach/)
 
 ### Lebih Banyak Rekomendasi Makan & Main di Jimbaran
 
 ![Lebih Banyak Rekomendasi Makan & Main di Jimbaran](https://images.gobaligo.id/vocus/vocus_c81d870630ca07dead1d2e8614f923c4.jpg)
 
-Jimbaran adalah surga tepi pantai di Bali yang terkenal dengan suasana romantis dan kulinernya. Punya pantai pasir keemasan yang memesona dan pemandangan sunset yang spektakuler. Restoran seafood di sini wajib banget kamu coba, apalagi ditambah resort mewah dan nuansa desa nelayan yang tenang — bikin liburanmu terasa mewah tapi tetap dekat dengan kehidupan lokal. Mau jalan-jalan keluarga atau kencan romantis, Jimbaran siap memenuhi ekspektasimu! Mau tahu lebih banyak soal Jimbaran? [Klik di sini](/blog/jimbaran-guide/).
+Jimbaran adalah surga tepi pantai di Bali yang terkenal dengan suasana romantis dan kulinernya. Punya pantai pasir keemasan yang memesona dan pemandangan sunset yang spektakuler. Restoran seafood di sini wajib banget kamu coba, apalagi ditambah resort mewah dan nuansa desa nelayan yang tenang — bikin liburanmu terasa mewah tapi tetap dekat dengan kehidupan lokal. Mau jalan-jalan keluarga atau kencan romantis, Jimbaran siap memenuhi ekspektasimu! Mau tahu lebih banyak soal Jimbaran? [Klik di sini](/id/blog/jimbaran-guide/).
 
 ***
 
@@ -278,7 +278,7 @@ Meskipun namanya 'Brunch', sesi makannya berlangsung dari siang sampai jam 4 sor
 
 ![Brisa Brunch di CIRE Restaurant - Pengalaman Makan Mewah di ](https://images.gobaligo.id/vocus/vocus_4517d5f5ef11b46ea70cfaf3d153eaf1.jpg)
 
-Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal dengan tebing-tebing spektakuler, pantai yang memesona, dan spot surfing kelas dunia. Suasananya penuh romantisme tropis—cocok banget buat nikmatin sunset dan waktu santai. Kalau kamu juga mau nginep di Uluwatu, cek aja rekomendasi makan, minum, dan main yang udah kami susun rapi biar liburanmu makin seru: [【Panduan Uluwatu】Rekomendasi Tempat Wisata, Makan, Minum, dan Main di Uluwatu](/blog/uluwatu-guide/)
+Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal dengan tebing-tebing spektakuler, pantai yang memesona, dan spot surfing kelas dunia. Suasananya penuh romantisme tropis—cocok banget buat nikmatin sunset dan waktu santai. Kalau kamu juga mau nginep di Uluwatu, cek aja rekomendasi makan, minum, dan main yang udah kami susun rapi biar liburanmu makin seru: [【Panduan Uluwatu】Rekomendasi Tempat Wisata, Makan, Minum, dan Main di Uluwatu](/id/blog/uluwatu-guide/)
 
 ***
 
@@ -343,7 +343,7 @@ Legian terletak di antara Kuta dan Seminyak, punya banyak restoran harga menenga
 - Alamat: Jl. Hotel Puri Bagus Pemaron, Pemaron, Bali
 - Info online: [Warung Bambu Pemaron](http://warung-bambu.mahanara.com/)
 
-**Referensi Cepat:** [15 Tips Liburan ke Bali Utara](/blog/north-bali-travel-guide/)
+**Referensi Cepat:** [15 Tips Liburan ke Bali Utara](/id/blog/north-bali-travel-guide/)
 
 **2. Warung NG, Nusa Penida**
 
@@ -359,7 +359,7 @@ Legian terletak di antara Kuta dan Seminyak, punya banyak restoran harga menenga
 - Alamat: Jl. Raya Sengkidu, Sengkidu, Bali
 - Info online: [Instagram](https://www.instagram.com/garpurestaurant/)
 
-**Referensi cepat:** [Tiga tempat wisata di Bali Timur](/blog/bali-east-tour-guide/)
+**Referensi cepat:** [Tiga tempat wisata di Bali Timur](/id/blog/bali-east-tour-guide/)
 
 **4. Clay Craft @ Renaissance Bali, Ungasan**
 
@@ -368,7 +368,7 @@ Legian terletak di antara Kuta dan Seminyak, punya banyak restoran harga menenga
 - Alamat: Jl. Pantai Balangan I No.1, Ungasan, Bali
 - Info online: [Marriott Bonvoy](https://)
 
-**Referensi cepat:** [Panduan Uluwatu](/blog/uluwatu-guide/)
+**Referensi cepat:** [Panduan Uluwatu](/id/blog/uluwatu-guide/)
 
 ***
 

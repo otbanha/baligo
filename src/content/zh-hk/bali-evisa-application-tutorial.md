@@ -40,6 +40,6 @@ Update: 2026/07/03
 
 由於攻城君嘅影片淨係喺YouTube播到，需要詳細一步一步教學嘅朋友[請按呢度睇](https://www.youtube.com/watch?v=j1VOvlR9vbo).
 
-若你仲有任何申請上嘅疑難雜症，可以參考呢度：[2024最新版印尼/峇里島入境簽證&電子簽證eVoA 填寫相關 FAQ](/blog/indonesia-bali-visa-evoa-faq/)
+若你仲有任何申請上嘅疑難雜症，可以參考呢度：[2024最新版印尼/峇里島入境簽證&電子簽證eVoA 填寫相關 FAQ](/zh-hk/blog/indonesia-bali-visa-evoa-faq/)
 
-關於由落機到行出機場嘅全部過程，有邊啲步驟，[請參考呢度](/blog/2025-bali-immigration-process/)
+關於由落機到行出機場嘅全部過程，有邊啲步驟，[請參考呢度](/zh-hk/blog/2025-bali-immigration-process/)

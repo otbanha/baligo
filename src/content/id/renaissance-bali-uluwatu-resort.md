@@ -136,7 +136,7 @@ Di dalam resort, The Spa menawarkan berbagai pijat tradisional Bali, perawatan a
 
 Cuma 30 menit berkendara dari Bandara Internasional Bali, kami sudah rangkum 50 tempat seru di sekitar sini:
 
-[【Panduan Uluwatu】50 Rekomendasi Tempat Makan & Wisata di Uluwatu](/blog/uluwatu-guide/)
+[【Panduan Uluwatu】50 Rekomendasi Tempat Makan & Wisata di Uluwatu](/id/blog/uluwatu-guide/)
 
 ## Cek Harga Promo Agoda untuk Tanggal yang Kamu Pilih
 

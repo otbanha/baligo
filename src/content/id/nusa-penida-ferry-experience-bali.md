@@ -30,7 +30,7 @@ Dari Mei Yi Liao: Tempat naik ferry di Sanur, fasilitas Pelabuhan Sanur sudah le
 
 Destinasi kali ini adalah Nusa Penida, pulau dengan pemandangan yang spektakuler. Dari Bali, kami memilih naik ferry dari Sanur. Pelabuhan baru Sanur di Google Maps namanya 'Sanur Harbour'. Sekarang tempat naik ferry fasilitasnya sudah oke banget, kaki nggak perlu khawatir basah lagi — ini kabar baik buat yang bawa koper. Kami bawa backpack ringan, tapi banyak juga turis yang bawa cabin luggage. Sayangnya, cabin luggage ditaruh di depan atap kapal, kena panas selama perjalanan. Turun nanti harus nunggu kru ngambil barang, bisa kepanasan di bawah matahari. Jadi saran: bawa topi dan sunscreen.
 
-> Baca juga: [【Pergi ke Pulau di Sekitar Bali】Panduan Titip Barang di Sanur](/blog/sanur-luggage-storage-guide/)
+> Baca juga: [【Pergi ke Pulau di Sekitar Bali】Panduan Titip Barang di Sanur](/id/blog/sanur-luggage-storage-guide/)
 
 ## Pengalaman Selama Perjalanan
 
@@ -44,7 +44,7 @@ Sampai di Nusa Penida, begitu turun dari kapal, kita langsung lihat di pintu mas
 
 Jalan di Nusa Penida lumayan sempit, kalau dua mobil papasan rasanya deg-degan, sering harus minggir dan nunggu lawan duluan. Meskipun aspal, jalannya nggak rata, naik mobil tuh kayak naik roller coaster, penuh sensasi. Perjalanan ini bikin kita ngerasain banget tantangan transportasi di pulau, tapi juga nambah seru dan petualangan liburan.
 
-> Baca juga: [Panduan Transportasi Nusa Penida: Taksi, Gojek/Grab, Sewa Mobil, Motor](/blog/nusa-penida-transport-guide/)
+> Baca juga: [Panduan Transportasi Nusa Penida: Taksi, Gojek/Grab, Sewa Mobil, Motor](/id/blog/nusa-penida-transport-guide/)
 
 ## Eksplorasi Pemandangan dan Kuliner di Pulau
 
@@ -52,17 +52,17 @@ Jalan di Nusa Penida lumayan sempit, kalau dua mobil papasan rasanya deg-degan, 
 
 Pemandangan di Nusa Penida wajib banget kamu lihat. Baik itu Kelingking Beach yang terkenal, atau Angel's Billabong, semuanya bikin takjub. Tempat-tempat ini nggak cuma punya alam yang indah, tapi juga air laut yang jernih banget dan tebing yang spektakuler, bikin betah berlama-lama.
 
-> Baca juga: [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)
+> Baca juga: [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)
 
 Selain itu, kuliner di pulau juga jadi highlight. Kita nyobain seafood lokal, segar dan enak banget, bikin ngiler. Apalagi ikan bakar dan seafood platter di sini, khas banget, rasanya mantap dan harganya juga ramah di kantong.
 
-> Baca juga: [Kuliner Nusa Penida dan Laut Biru: Top 10 Pilihan Terbaik di Nusa Penida](/blog/nusa-penida-best-restaurants/)
+> Baca juga: [Kuliner Nusa Penida dan Laut Biru: Top 10 Pilihan Terbaik di Nusa Penida](/id/blog/nusa-penida-best-restaurants/)
 
 ## Pilihan Menginap di Nusa Penida
 
 Pergi ke Nusa Penida itu benar-benar worth it, dan saran sih mending nginep satu atau dua malam, jangan cuma ikut day trip. Ini bakal kasih kamu waktu ekstra buat menikmati pulau yang mempesona ini. Meskipun day trip oke buat lihat spot wisata paling populer, tapi kalau nginep lebih lama, kamu punya lebih banyak waktu buat eksplor dan nemuin hidden gems.
 
-Bisa cek ini: [Rekomendasi Penginapan di Nusa Penida: 13 Hotel dari Mewah sampai Budget-friendly](/blog/nusa-penida-hotels-guide/)
+Bisa cek ini: [Rekomendasi Penginapan di Nusa Penida: 13 Hotel dari Mewah sampai Budget-friendly](/id/blog/nusa-penida-hotels-guide/)
 
 ## Perasaan Pas Pulang
 
@@ -79,7 +79,7 @@ Terakhir, ada beberapa hal penting yang perlu kamu perhatikan kalau mau ke Nusa 
 1. Langsung di pelabuhan bisa beli tiket, tapi wajib datang sejam sebelum kapal berangkat ke loket
 2. Pesan di Klook lebih murah dan nggak perlu antre beli tiket
 3. Boleh bawa koper besar, tapi mending dihindari, karena di pulau susah banget dibawa
-4. Layanan penitipan barang [cek di sini](/blog/sanur-luggage-storage-guide/)
+4. Layanan penitipan barang [cek di sini](/id/blog/sanur-luggage-storage-guide/)
 5. Yang beli tiket di Klook, datang minimal 30 menit sebelum kapal berangkat ke pelabuhan
 
 6. Mending pesan tiket Klook minimal sehari sebelumnya biar aman.
@@ -90,5 +90,5 @@ Kamu merasa perjalanan Mei Yi Liao seru banget? Yuk, atur liburan Bali versi kam
 
 {{block:遊記}}
 
-- [Panduan Lengkap Nusa Penida: Makan, Main, Seru-seruan](/blog/nusa-penida-guide/)
-- [Panduan Lengkap Nusa Lembongan & Ceningan](/blog/nusa-lembongan-ceningan-guide/)
+- [Panduan Lengkap Nusa Penida: Makan, Main, Seru-seruan](/id/blog/nusa-penida-guide/)
+- [Panduan Lengkap Nusa Lembongan & Ceningan](/id/blog/nusa-lembongan-ceningan-guide/)

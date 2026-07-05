@@ -92,4 +92,4 @@ We stayed in a one-bedroom villa for two nights, surrounded by nature, with stun
 
 ![More Ubud Villa Recommendations](https://images.gobaligo.id/vocus/vocus_f07a86db6cc56e8e0fb884c9454a6d96.png)
 
-Dreaming of a magical getaway? 🌴 Ubud pool villas offer the ultimate in luxury and relaxation! With private pools, stunning views, and top-notch amenities, everything is designed to give you the perfect vacation. Click [here](/blog/ubud-villa-pool-guide/) now to explore more of our recommended Ubud pool villas and start your exclusive holiday journey! ✨
+Dreaming of a magical getaway? 🌴 Ubud pool villas offer the ultimate in luxury and relaxation! With private pools, stunning views, and top-notch amenities, everything is designed to give you the perfect vacation. Click [here](/en/blog/ubud-villa-pool-guide/) now to explore more of our recommended Ubud pool villas and start your exclusive holiday journey! ✨

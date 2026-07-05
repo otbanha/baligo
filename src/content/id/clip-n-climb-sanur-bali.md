@@ -92,8 +92,8 @@ Clip 'n Climb Bali menggabungkan olahraga dan hiburan, menjadi destinasi petuala
 
 ▶[Beli/Pesan Tiket Diskon Clip 'n Climb](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1026544&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F150182-clip-n-climb-pass-in-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b7aec2eea)
 
-- **Tempat wisata di sekitar**: [Panduan 45 Aktivitas Seru di Sanur](/blog/sanur-guide/)
+- **Tempat wisata di sekitar**: [Panduan 45 Aktivitas Seru di Sanur](/id/blog/sanur-guide/)
 
 ![4. Tips Penting](https://images.gobaligo.id/vocus/vocus_cf950e3526cd5cc4ac4b87c676f9d924.png)
 
-Sanur adalah kota kecil di pesisir Bali yang penuh ketenangan, terkenal dengan pantainya yang tenang, suasana santai, dan pemandangan matahari terbit yang spektakuler. Di sini ada resor ramah keluarga, pasar tradisional, dan beragam kuliner lokal yang kaya—tempat ideal buat menikmati slow living dan eksplorasi budaya. Mau jalan-jalan di sepanjang garis pantai atau merasakan vibe lokal, Sanur bakal kasih kamu liburan super rileks! Mau tahu lebih banyak tips Sanur? [Klik di sini](/blog/sanur-guide/).
+Sanur adalah kota kecil di pesisir Bali yang penuh ketenangan, terkenal dengan pantainya yang tenang, suasana santai, dan pemandangan matahari terbit yang spektakuler. Di sini ada resor ramah keluarga, pasar tradisional, dan beragam kuliner lokal yang kaya—tempat ideal buat menikmati slow living dan eksplorasi budaya. Mau jalan-jalan di sepanjang garis pantai atau merasakan vibe lokal, Sanur bakal kasih kamu liburan super rileks! Mau tahu lebih banyak tips Sanur? [Klik di sini](/id/blog/sanur-guide/).

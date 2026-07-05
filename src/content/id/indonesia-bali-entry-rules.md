@@ -49,4 +49,4 @@ Cek panduan lengkap dari kami
 
 👈 **Kembali ke Panduan Lengkap Liburan Mandiri ke Bali**
 
-Mau lihat paket lengkap untuk pemula? [Klik di sini baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.
+Mau lihat paket lengkap untuk pemula? [Klik di sini baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.

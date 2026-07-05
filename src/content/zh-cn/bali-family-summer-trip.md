@@ -54,7 +54,7 @@ https://youtu.be/EotdDxXHFwE
 
 Nusa Dua Westing Resort 巧遇小海龟放生活动（Fish Lee提供）
 
-**快速参考：**[🐢巴厘岛看海龟全指南：从库塔到沙努尔，亲子必访的海龟保育据点 🌴](/blog/bali-turtle-watching-guide/)
+**快速参考：**[🐢巴厘岛看海龟全指南：从库塔到沙努尔，亲子必访的海龟保育据点 🌴](/zh-cn/blog/bali-turtle-watching-guide/)
 
 这次我们有一天入住了努沙杜瓦的威斯汀酒店。早上起床后，恰巧遇到了小海龟放生的活动，觉得非常有意义。原本我们计划去库塔的海龟中心，但这次提前实现了这个愿望，让人感到非常满足。
 
@@ -74,7 +74,7 @@ Hard Rock 非常适合带小孩（Fish Lee提供）
 
 **更多有 Kids Club 的度假村推荐：**
 
-> [推荐巴厘岛18家庭亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图适合家庭度假、亲子放松的最佳选择](/blog/bali-family-resorts-kids-club/)
+> [推荐巴厘岛18家庭亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图适合家庭度假、亲子放松的最佳选择](/zh-cn/blog/bali-family-resorts-kids-club/)
 
 ## 美味的食物
 
@@ -90,7 +90,7 @@ Hard Rock 非常适合带小孩（Fish Lee提供）
 
 https://youtube.com/shorts/MmqfkXw211k
 
-**快速参考：**[巴厘岛漂流攻略（漂流常见问题FAQ）](/blog/bali-rafting-ayung-telaga-waja/)
+**快速参考：**[巴厘岛漂流攻略（漂流常见问题FAQ）](/zh-cn/blog/bali-rafting-ayung-telaga-waja/)
 
 我们这次还去乌布体验了漂流，非常好玩。因为选择很多，我们直接请包车司机帮我们预订，他找了一个口碑不错的业者。建议选择从头到尾2小时的行程，不要选择1小时的，体验会更完整。我们有两个比较小的孩子，一个5岁多，一个7岁，他们都玩得很开心。漂流活动大概2小时，我们早上9点从乌布的Villa出发，有附简单午餐，吃完后大概13:00结束行程。要去漂流的地方需要走一段较长的下坡楼梯，我们家小孩慢慢走也能接受，并不困难。
 
@@ -100,15 +100,15 @@ https://youtube.com/shorts/MmqfkXw211k
 
 > [阿勇河漂流（含接送）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
 
-> 延伸阅读：[Omma Dayclub介绍 & 官网](/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+> 延伸阅读：[Omma Dayclub介绍 & 官网](/zh-cn/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 ## 多样的旅游地点
 
 这次我们游览了三个地区。努沙杜瓦应该是最悠闲的地方，非常适合放松。乌布则以其瀑布、火山、丛林、皇宫、寺庙等景点著称，非常适合拍照和体验巴厘岛的文化。
 
 > 延伸阅读：
-> [努沙杜瓦、南湾：巴厘岛豪华度假的首选之地40个住宿、美食、活动攻略地图 Nusa Dua/Tanjung Benoa](/blog/nusa-dua-guide/)
-> [巴厘岛乌布完整攻略：100种深入认识乌布的方式｜探索乌布的魅力](/blog/ubud-guide/)
+> [努沙杜瓦、南湾：巴厘岛豪华度假的首选之地40个住宿、美食、活动攻略地图 Nusa Dua/Tanjung Benoa](/zh-cn/blog/nusa-dua-guide/)
+> [巴厘岛乌布完整攻略：100种深入认识乌布的方式｜探索乌布的魅力](/zh-cn/blog/ubud-guide/)
 
 ![我們去了不少地方（Fish Lee提供）](https://images.gobaligo.id/vocus/vocus_f7f0019c1de282e44c12abadee71c3a0.jpg)
 
@@ -116,7 +116,7 @@ https://youtube.com/shorts/MmqfkXw211k
 
 库塔海边虽然人多，但实际上并没有我想象中的那么糟糕，一层层的浪花还挺治愈的。
 
-> 延伸阅读：[库塔旅游攻略：50个必访景点、热闹夜生活、美食、推荐SPA全收集](/blog/2023-12-13-657598bdfd8978000120fe20/)
+> 延伸阅读：[库塔旅游攻略：50个必访景点、热闹夜生活、美食、推荐SPA全收集](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 ## 有趣的编发体验
 
@@ -146,7 +146,7 @@ Edy司机、我们这几天搭乘的小巴（Fish Lee提供）
 
 这次我们的包车司机Edy和他的团队，还有我们的中文导游Ani，都非常值得推荐。司机开车技术稳定，导游能说流利的中文，解答了我们很多疑问，也很会照顾孩子和拍照。如果不知道吃什么，他们还可以给出很好的推荐。
 
-司机Edy和中文导游Ani的评价[请看这里](/blog/bali-private-car-drivers-guide/)
+司机Edy和中文导游Ani的评价[请看这里](/zh-cn/blog/bali-private-car-drivers-guide/)
 
 这次的巴厘岛之旅非常愉快，无论是风景、美食还是服务，都让我们留下了深刻的印象。希望这些分享能对大家的旅行计划有所帮助。
 

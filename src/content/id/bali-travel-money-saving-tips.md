@@ -29,7 +29,7 @@ Hai, para traveler sejati! Hari ini admin mau berbagi tips-tips hemat liburan ke
 
 Pertama-tama, mulai dari pemilihan waktu perjalanan! Hindari pergi ke Bali saat musim ramai, karena harga tiket pesawat, akomodasi, dan aktivitas biasanya melonjak drastis. Pilih musim sepi atau waktu yang tidak terlalu padat, selain bisa menghemat budget tiket dan hotel, kamu juga bisa menikmati suasana liburan yang lebih tenang.
 
-Kapan sih musim ramai di Bali? Secara umum, musim kemarau dengan curah hujan rendah adalah waktu terbaik untuk liburan ke Bali, yaitu sekitar bulan April hingga Oktober — inilah puncak musim liburan. Kalau kamu menghindari musim ramai, apa kekurangannya? Cek [di sini](/blog/bali-best-time-to-visit/) untuk tahu soal musim hujan di Bali.
+Kapan sih musim ramai di Bali? Secara umum, musim kemarau dengan curah hujan rendah adalah waktu terbaik untuk liburan ke Bali, yaitu sekitar bulan April hingga Oktober — inilah puncak musim liburan. Kalau kamu menghindari musim ramai, apa kekurangannya? Cek [di sini](/id/blog/bali-best-time-to-visit/) untuk tahu soal musim hujan di Bali.
 
 Selain membedakan musim ramai dan sepi berdasarkan cuaca, ada lima momen berikut yang juga bikin Bali penuh sesak, diurutkan dari yang paling ramai:
 
@@ -49,21 +49,21 @@ Di periode-periode ini jumlah wisatawan melonjak drastis, dan harga akomodasi se
 
 Di bawah ini kami kasih beberapa rekomendasi penginapan hemat yang bisa kamu intip:
 
-> [CP Gila-gilaan, Kurang dari USD$30 Nginep di 11 Hotel Butik Bali, Dijamin Foto Kece Abis!](/blog/bali-boutique-hotels-under-30/)
+> [CP Gila-gilaan, Kurang dari USD$30 Nginep di 11 Hotel Butik Bali, Dijamin Foto Kece Abis!](/id/blog/bali-boutique-hotels-under-30/)
 
-> [Rekomendasi Villa Bali: 20 Villa CP Tinggi (Bagian 1)](/blog/bali-best-villas-top20-part1/)
+> [Rekomendasi Villa Bali: 20 Villa CP Tinggi (Bagian 1)](/id/blog/bali-best-villas-top20-part1/)
 
-> [Villa Bali CP Tertinggi, Rekomendasi Villa Romantis - Total 20 Villa (Bagian 2)](/blog/bali-best-villas-top20-part2/)
+> [Villa Bali CP Tertinggi, Rekomendasi Villa Romantis - Total 20 Villa (Bagian 2)](/id/blog/bali-best-villas-top20-part2/)
 
-> [Kawasan Premium Bali: 10 Rekomendasi Akomodasi Murah di Seminyak](/blog/seminyak-budget-hotels-guide/)
+> [Kawasan Premium Bali: 10 Rekomendasi Akomodasi Murah di Seminyak](/id/blog/seminyak-budget-hotels-guide/)
 
-> [【Seminyak】Rekomendasi Villa Bali Murah di Bawah USD$100](/blog/seminyak-budget-villas-guide/)
+> [【Seminyak】Rekomendasi Villa Bali Murah di Bawah USD$100](/id/blog/seminyak-budget-villas-guide/)
 
 ## 3. Waspada Berbagai Macam Penipuan
 
 Selama traveling, tetap waspada ya! Di Bali ada beberapa modus penipuan, jadi jangan gampang percaya hal yang terlalu bagus untuk jadi kenyataan, dan jangan sembarangan percaya sama orang asing. Dengerin aja saran dari orang asing, jangan sampai kamu kena jebakan.
 
-Selain itu, ada juga modus penipuan yang dilakukan oleh turis asing, banyak wisatawan Taiwan yang jadi korban. Penjelasan lengkapnya bisa lihat di [sini](/blog/bali-street-scam-alert/)
+Selain itu, ada juga modus penipuan yang dilakukan oleh turis asing, banyak wisatawan Taiwan yang jadi korban. Penjelasan lengkapnya bisa lihat di [sini](/id/blog/bali-street-scam-alert/)
 
 ## 4. Manfaatin Pemesanan Online
 
@@ -87,7 +87,7 @@ Buat kamu yang traveling, di Bali ada tiga pilihan transportasi yang **langsung*
 
 Sewa motor di Bali cocok banget buat kamu yang suka eksplorasi bebas; taksi pas buat perjalanan pendek atau yang males nyetir sendiri; sementara sewa mobil + sopir cocok buat yang pengen pengalaman lebih dalam dan itinerary custom — apalagi kalau ada teman patungan, harganya juga nggak terlalu mahal. Tinggal sesuaikan sama kebutuhan dan budget kamu, pasti ketemu yang paling pas. Yang penting, **utamakan keselamatan** biar liburanmu di Bali makin seru!
 
-Bisa cek rekomendasi [Sopir Sewa Mobil di Bali Favorit Wisatawan](/blog/bali-private-car-drivers-guide/) yang udah kami kumpulkan
+Bisa cek rekomendasi [Sopir Sewa Mobil di Bali Favorit Wisatawan](/id/blog/bali-private-car-drivers-guide/) yang udah kami kumpulkan
 
 ## 7. Waspada Tarif Taksi yang Dinaikkan
 
@@ -97,7 +97,7 @@ Kalau perlu taksi buat jarak pendek, hati-hati ya. Sopir kadang suka narik harga
 
 Ngomongin Gojek, di Bali aplikasi ini super fleksibel — bisa pesan ojek, delivery makanan, kirim barang, dan lain-lain. Gojek bantu kamu atur perjalanan lebih efisien, sekaligus ngirit duit.
 
-> Penjelasan lengkapnya bisa lihat [Aplikasi Wajib Pas Traveling ke Indonesia/Bali: Panduan Lengkap Gojek](/blog/gojek-bali-guide/)
+> Penjelasan lengkapnya bisa lihat [Aplikasi Wajib Pas Traveling ke Indonesia/Bali: Panduan Lengkap Gojek](/id/blog/gojek-bali-guide/)
 
 ## 9. Bayar Pakai Uang Tunai
 
@@ -140,13 +140,13 @@ SPA di Bali wajib banget dicoba, tapi kalau nggak riset dulu, bisa aja kejebak d
 
 Klik link di bawah
 
-> [Kumpulan Rekomendasi SPA Terbaik di Bali](/blog/spa/)
+> [Kumpulan Rekomendasi SPA Terbaik di Bali](/id/blog/spa/)
 
 ## 13. Cek Daftar Barang Bawaan
 
 Ngecek daftar barang bawaan itu langkah penting biar perjalananmu lancar. Kalau ada barang penting yang ketinggalan, urusannya bisa jauh lebih ribet dari yang kamu bayangkan. Mau beli ulang di tempat tujuan? Belum tentu semudah itu! Soalnya mungkin aja nggak ada yang jual, atau pilihannya terbatas. Bahkan, bisa aja nggak nemu barang pengganti yang cocok!
 
-Ini terutama banget buat barang-barang spesifik kayak obat-obatan tertentu, produk perawatan pribadi, pakaian atau aksesoris dengan ukuran khusus. Kalau barang-barang ini sampai ketinggalan, kamu bisa repot sendiri dan perjalanan jadi nggak nyaman. Makanya, ngecek daftar barang bawaan sebelum berangkat itu cara jitu buat hindarin drama nggak perlu. Sebelum berangkat, pastikan kamu udah baca artikel 「[Apa yang Harus Dibawa ke Bali? 21 Barang Wajib](/blog/bali-travel-essentials/)」
+Ini terutama banget buat barang-barang spesifik kayak obat-obatan tertentu, produk perawatan pribadi, pakaian atau aksesoris dengan ukuran khusus. Kalau barang-barang ini sampai ketinggalan, kamu bisa repot sendiri dan perjalanan jadi nggak nyaman. Makanya, ngecek daftar barang bawaan sebelum berangkat itu cara jitu buat hindarin drama nggak perlu. Sebelum berangkat, pastikan kamu udah baca artikel 「[Apa yang Harus Dibawa ke Bali? 21 Barang Wajib](/id/blog/bali-travel-essentials/)」
 
 ## 14. Pintar-pintar Tukar Uang
 
@@ -176,7 +176,7 @@ Saat traveling, kita pasti pengen bawa pulang momen berharga dan kenangan indah,
 
 Nih, cek rekomendasi oleh-oleh Bali yang udah kami rangkum di bawah:
 
-> [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Rekomendasi Oleh-Oleh Bali: Pilihan Terbaik untuk Menyimpan Kenangan Berharga](/blog/bali-souvenirs-gift-guide/)
+> [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Rekomendasi Oleh-Oleh Bali: Pilihan Terbaik untuk Menyimpan Kenangan Berharga](/id/blog/bali-souvenirs-gift-guide/)
 
 {{block:伴手禮}}
 
@@ -188,7 +188,7 @@ Terakhir, coba deh pelan-pelanin ritme traveling. Tinggal lama di satu tempat ng
 
 Pas bayar hotel pake kartu kredit, usahain pilih transaksi dalam mata uang lokal. Ini biar kamu terhindar dari biaya konversi kurs yang nggak perlu, dan bisa maksimalin penghematan duit.
 
-> Baca juga: [Tips Penting Liburan ke Bali: Waspada Jebakan Saat Bayar Pakai Kartu](/blog/bali-credit-card-payment-tips/)
+> Baca juga: [Tips Penting Liburan ke Bali: Waspada Jebakan Saat Bayar Pakai Kartu](/id/blog/bali-credit-card-payment-tips/)
 
 ###
 

@@ -56,7 +56,7 @@ _srcHash: ce34fa69dda19b8a46f802403a9c2dd1
 - 费用只便宜 5 美金，节省时间却值超多
 - 2026 年海关政策越来越严，先备好绝对没坑
 
-👉 [**完整签证攻略点这里**](/blog?cat=%E7%B0%BD%E8%AD%89%E9%80%9A%E9%97%9C) | [**下飞机之后的流程教学**](/blog/bali-all-indonesia-arrival-guide/)
+👉 [**完整签证攻略点这里**](/blog?cat=%E7%B0%BD%E8%AD%89%E9%80%9A%E9%97%9C) | [**下飞机之后的流程教学**](/zh-cn/blog/bali-all-indonesia-arrival-guide/)
 
 ### 2. 旅游保险：真的别省
 
@@ -68,7 +68,7 @@ _srcHash: ce34fa69dda19b8a46f802403a9c2dd1
 - 医疗费用（包含海外住院）
 - 旅程中断／行李遗失
 
-可以参考这里：[台港马新旅客必看！投保指南、海外医疗与不便险理赔避雷重点整理](/blog/bali-travel-insurance-guide/)
+可以参考这里：[台港马新旅客必看！投保指南、海外医疗与不便险理赔避雷重点整理](/zh-cn/blog/bali-travel-insurance-guide/)
 
 ### 3. 机票规划：避开尖峰期能省 1/3 预算
 
@@ -101,7 +101,7 @@ _srcHash: ce34fa69dda19b8a46f802403a9c2dd1
 
 务必保留收据，景点可能会被要求出示。
 
-👉 [**旅游税最新缴费懒人包**](/blog/bali-levy-check-warning/)
+👉 [**旅游税最新缴费懒人包**](/zh-cn/blog/bali-levy-check-warning/)
 
 ***
 
@@ -127,7 +127,7 @@ _srcHash: ce34fa69dda19b8a46f802403a9c2dd1
 
 💡 **新手最常踩的坑**：「我要带台币到巴厘岛！」别傻了，台币在巴厘岛不仅难找到愿意收的店家，就算有人愿意收，汇率也差得离谱。
 
-👉 [**必看！！换汇懒人包**](/blog/bali-currency-exchange-guide/) | [**诈骗换汇所避雷指南**](/blog/bali-money-exchange-scams-2/)
+👉 [**必看！！换汇懒人包**](/zh-cn/blog/bali-currency-exchange-guide/) | [**诈骗换汇所避雷指南**](/zh-cn/blog/bali-money-exchange-scams-2/)
 
 ### 6. 行李打包清单：什么该带、什么别带
 
@@ -153,7 +153,7 @@ _srcHash: ce34fa69dda19b8a46f802403a9c2dd1
 - 超过 5 升的酒精饮料
 - 野生动物制品
 
-👉 [**完整行李清单 21 项**](/blog/bali-travel-essentials/) | [**航空公司行李规定**](/blog/bali-airline-luggage-rules/)
+👉 [**完整行李清单 21 项**](/zh-cn/blog/bali-travel-essentials/) | [**航空公司行李规定**](/zh-cn/blog/bali-airline-luggage-rules/)
 
 ### 7. 手机与网络：不要用漫游
 
@@ -170,7 +170,7 @@ _srcHash: ce34fa69dda19b8a46f802403a9c2dd1
 - 出发前在 Klook 买当地 SIM 卡（机场领或台湾邮寄）
 - 或直接抵达机场买，Telkomsel（Simpati 红卡）信号最好
 
-👉[ ](/blog/bali-sim-card-esim-guide/)[**网络SIM卡完整教程**](/blog/bali-sim-card-esim-guide/)
+👉[ ](/zh-cn/blog/bali-sim-card-esim-guide/)[**网络SIM卡完整教程**](/zh-cn/blog/bali-sim-card-esim-guide/)
 
 ### 8. 电压与插头：220V，带对转接头
 
@@ -185,7 +185,7 @@ _srcHash: ce34fa69dda19b8a46f802403a9c2dd1
 
 ![](https://images.gobaligo.id/images/2026-05/1778167260923-plug.png)
 
-👉 [**电压插头完整指南**](/blog/bali-voltage-adapter-tips/)
+👉 [**电压插头完整指南**](/zh-cn/blog/bali-voltage-adapter-tips/)
 
 ***
 
@@ -247,7 +247,7 @@ https://youtu.be/uFv_4Wr6YsI
 - 缺点：景点离得远、选择少
 - 住宿成本：$$ ～ $$$$
 
-👉 [**区域选择完整攻略**](/blog/bali-accommodation-area-guide/) | [**各区住宿推荐**](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
+👉 [**区域选择完整攻略**](/zh-cn/blog/bali-accommodation-area-guide/) | [**各区住宿推荐**](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 
 ### 11. 什么时候去最好？
 
@@ -269,7 +269,7 @@ https://youtube.com/shorts/ymx-kClfA1I
 
 💡 **你可能不知道**：雨季没有想象中可怕，通常只是午后 1-2 小时的阵雨，景点该去的还是能去。而且雨季的梯田最绿、酒店最便宜、人最少，反而是懂玩的人的秘密季节。
 
-👉 [**干季雨季完整解析**](/blog/bali-best-time-to-visit/) | [**雨季怎么玩？**](/blog/2026-bali-indoor-activities/)
+👉 [**干季雨季完整解析**](/zh-cn/blog/bali-best-time-to-visit/) | [**雨季怎么玩？**](/zh-cn/blog/2026-bali-indoor-activities/)
 
 ### 12. 旺季与特殊时节要避开
 
@@ -283,7 +283,7 @@ https://youtube.com/shorts/ymx-kClfA1I
 
 避开这些时间，你能省 1/3 的机票钱，还能少人挤人。
 
-👉 [**2026 巴厘岛旺季与节庆完整表**](/blog/2026-bali-festival-guide/)
+👉 [**2026 巴厘岛旺季与节庆完整表**](/zh-cn/blog/2026-bali-festival-guide/)
 
 ### 13. 行程规划 7 步骤
 
@@ -295,7 +295,7 @@ https://youtube.com/shorts/ymx-kClfA1I
 6. **制作简单的日程表**（早上、下午、晚上各一个重点）
 7. **留白时间**（别排太满，为临时发现的咖啡馆留空间）
 
-👉 [**完整行程规划教学 7 步骤**](/blog/2026-bali-trip-planning-guide/) | [**免费行程规划工具**](/trip-planner/)
+👉 [**完整行程规划教学 7 步骤**](/zh-cn/blog/2026-bali-trip-planning-guide/) | [**免费行程规划工具**](/zh-cn/trip-planner/)
 
 ***
 
@@ -318,7 +318,7 @@ https://youtube.com/shorts/ymx-kClfA1I
 
 **整个流程如果没排队顶多 30-60 分钟**，不用紧张。
 
-👉 [**最新入境流程完整攻略**](/blog/bali-all-indonesia-arrival-guide/)
+👉 [**最新入境流程完整攻略**](/zh-cn/blog/bali-all-indonesia-arrival-guide/)
 
 ### 15. 机场到酒店的交通选择
 
@@ -335,7 +335,7 @@ https://youtube.com/shorts/ymx-kClfA1I
 
 💡 **包车的隐藏优势**：整个旅程用同一位司机，他知道哪家餐厅不会被游客坑、哪个时间点景点人最少、今天的堵车在哪里。这些在地知识，值得付这个钱。
 
-👉 [**包车完整攻略**](/blog/bali-private-car-hire-guide/) | [**司机推荐**](/blog/bali-private-car-drivers-guide/)
+👉 [**包车完整攻略**](/zh-cn/blog/bali-private-car-hire-guide/) | [**司机推荐**](/zh-cn/blog/bali-private-car-drivers-guide/)
 
 ### 16. 水土不服与肠胃问题
 
@@ -355,7 +355,7 @@ https://youtu.be/GivvqCXp11A
 - 喝电解质饮料（巴厘岛超市有卖）
 - 休息半天，通常一天内就会好
 
-👉 [**肠胃问题完整懒人包**](/blog/bali-belly-medicine-guide/)
+👉 [**肠胃问题完整懒人包**](/zh-cn/blog/bali-belly-medicine-guide/)
 
 ***
 
@@ -417,7 +417,7 @@ https://youtube.com/shorts/oBLpQ-MH4kY
 
 💡 **新手常犯的错**：下午 3-6 点是堵车高峰，避开这个时段能省时间和钱。
 
-👉 [**Gojek 完整教程**](/blog/indonesia-gojek-gopay-guide/)
+👉 [**Gojek 完整教程**](/zh-cn/blog/indonesia-gojek-gopay-guide/)
 
 ### 21. 谨防常见诈骗
 
@@ -425,7 +425,7 @@ https://youtube.com/shorts/oBLpQ-MH4kY
 
 [https://youtu.be/LuEXL77-Qh0](https://youtu.be/LuEXL77-Qh0)
 
-👉 [**2026 诈骗完整懒人包**](/blog/bali-tourist-scams-2026/) | [**街头骗术实例**](/blog/bali-street-scam-alert/)
+👉 [**2026 诈骗完整懒人包**](/zh-cn/blog/bali-tourist-scams-2026/) | [**街头骗术实例**](/zh-cn/blog/bali-street-scam-alert/)
 
 ### 22. 购物与纪念品
 
@@ -437,8 +437,8 @@ https://youtube.com/shorts/oBLpQ-MH4kY
 - **传统织品**（沙龙、布料）
 - **当地护肤品**（乳木果油、椰子油护肤品）
 
-👉 [**伴手礼推荐 20 项**](/blog/bali-souvenirs-gift-guide/)
-👉 [🛍️巴厘岛乌布市场必买攻略：从手工艺到艺术收藏，一次买个过瘾！](/blog/ubud-market-shopping-guide/)
+👉 [**伴手礼推荐 20 项**](/zh-cn/blog/bali-souvenirs-gift-guide/)
+👉 [🛍️巴厘岛乌布市场必买攻略：从手工艺到艺术收藏，一次买个过瘾！](/zh-cn/blog/ubud-market-shopping-guide/)
 
 ### 23. 文化禁忌与尊重
 
@@ -462,13 +462,13 @@ https://youtube.com/shorts/oBLpQ-MH4kY
 - 进入寺庙、村落要穿盖肩膀和膝盖的衣着
 - 正式场合男性穿polo衫即可
 
-👉 [**文化禁忌完整指南**](/blog/bali-do-and-dont-2026/)
+👉 [**文化禁忌完整指南**](/zh-cn/blog/bali-do-and-dont-2026/)
 
 ### 24. 必下载的8个APP
 
 [https://youtube.com/shorts/lltGiElNWBA](https://youtube.com/shorts/lltGiElNWBA)
 
-👉 [**8大APP完整教学**](/blog/bali-travel-apps-guide/)
+👉 [**8大APP完整教学**](/zh-cn/blog/bali-travel-apps-guide/)
 
 ***
 
@@ -508,7 +508,7 @@ https://youtube.com/shorts/oBLpQ-MH4kY
 
 这种服务虽然贵一点，但时间宝贵的人很值得。
 
-👉 [**旅行社推荐**](/blog/isbali-tour-agency-review/)
+👉 [**旅行社推荐**](/zh-cn/blog/isbali-tour-agency-review/)
 
 ***
 
@@ -522,7 +522,7 @@ https://youtube.com/shorts/oBLpQ-MH4kY
 
 **A:** 6 天 5 夜的人均预算：200～2,000美金都有可能。建议使用下方工具：
 
-👉 [**详细预算计算**](/bali-budget-calculator/)
+👉 [**详细预算计算**](/zh-cn/bali-budget-calculator/)
 
 ## Q: 巴厘岛可以用台币吗？
 
@@ -536,7 +536,7 @@ https://youtube.com/shorts/oBLpQ-MH4kY
 
 **A:** 完全可以。雨季（11 月-3 月）通常**只是午后 1-2 小时的阵雨**，景点照样开放。反而雨季有优点：游客少、酒店便宜 40-50%、梯田最绿、Spa 更舒服。很多老手都专挑雨季去。缺点是无法预测上山天气、部分户外活动可能临时取消。
 
-👉 [**雨季完整攻略**](/blog/2026-bali-indoor-activities/)
+👉 [**雨季完整攻略**](/zh-cn/blog/2026-bali-indoor-activities/)
 
 ## Q: 第一次去巴厘岛要先办签证吗？可以落地签吗？
 
@@ -574,7 +574,7 @@ https://youtube.com/shorts/oBLpQ-MH4kY
 
 新手最推荐「**水明漾 + 乌布**」搭配，同时体验海滩和文化。
 
-👉 [**区域选择完整指南**](/blog/bali-accommodation-area-guide/)
+👉 [**区域选择完整指南**](/zh-cn/blog/bali-accommodation-area-guide/)
 
 {{block:住宿}}
 
@@ -604,7 +604,7 @@ https://youtube.com/shorts/oBLpQ-MH4kY
 
 **别过度准备。有时候最好的旅程，来自于你没有计划的那些时刻。**
 
-欢迎免费使用我们提供的「[巴厘岛行程规划工具](/trip-planner/)」
+欢迎免费使用我们提供的「[巴厘岛行程规划工具](/zh-cn/trip-planner/)」
 
 祝你有一段难忘的旅程。
 

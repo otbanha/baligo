@@ -19,9 +19,9 @@ _srcHash: f741eef5946ebdfcf46e0f4b770f4b32
 ---
 Update: 2026/07/03
 
-[🚗 想预估 Gojek 车资？请点击这里](/map/gojek-fare/)
+[🚗 想预估 Gojek 车资？请点击这里](/zh-cn/map/gojek-fare/)
 
-**先讲结论**：去巴厘岛前必装 **Gojek**——它是印尼版的 Uber + 外卖 + 移动支付三合一 APP，可以叫汽车或摩托车（明码标价、不用议价）、点外卖、请司机代买，搭配内置电子钱包 GoPay 出门几乎不用带现金。与 Grab 相比，Gojek 的优势是钱包内置（Grab 需另外注册 OVO），注册教学见[Gojek 与 GoPay 注册使用全指南](/blog/indonesia-gojek-gopay-guide/)。
+**先讲结论**：去巴厘岛前必装 **Gojek**——它是印尼版的 Uber + 外卖 + 移动支付三合一 APP，可以叫汽车或摩托车（明码标价、不用议价）、点外卖、请司机代买，搭配内置电子钱包 GoPay 出门几乎不用带现金。与 Grab 相比，Gojek 的优势是钱包内置（Grab 需另外注册 OVO），注册教学见[Gojek 与 GoPay 注册使用全指南](/zh-cn/blog/indonesia-gojek-gopay-guide/)。
 
 如果您正在计划前往巴厘岛，或者身处印尼，那么Gojek绝对是您旅行中或生活中不可或缺的APP。让我们一起探索这款引领潮流的便利工具，以及它对您的旅程所带来的改变。
 
@@ -39,7 +39,7 @@ Gojek不仅仅是一款APP，更是一种简单便利的生活方式。它整合
 
 不仅仅是交通，Gojek还提供了安全便捷的支付方式，你可以把钱存在Gojek当中的电子钱包「GoPay」里，这样我们出门就不用随身携带好几百万现金。您可以轻松使用GoPay支付您的交通费用、外送订单，甚至是购物付款。这种无现金支付方式不仅方便，还能让您更好地掌握您的开支。
 
-延伸阅读：[印尼/巴厘岛的Gojek与GoPay注册、使用、储值教学全面指南](/blog/indonesia-gojek-gopay-guide/)
+延伸阅读：[印尼/巴厘岛的Gojek与GoPay注册、使用、储值教学全面指南](/zh-cn/blog/indonesia-gojek-gopay-guide/)
 
 ### **与Grab比较**
 
@@ -55,4 +55,4 @@ Gojek不仅仅是一款APP，更是一种简单便利的生活方式。它整合
 
 👈 **回到巴厘岛自由行终极指南**
 
-想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/zh-cn/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

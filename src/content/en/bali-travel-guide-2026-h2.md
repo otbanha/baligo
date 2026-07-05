@@ -79,21 +79,21 @@ These six months showcase Bali’s full journey from the peak of the dry season 
 
 - **Jatiluwih Rice Terraces:** July is the best time to view the terraces at their peak. The morning light filtering through the rice paddies creates a dreamlike scene. Besides the Jatiluwih Festival, you can also take a leisurely walk, ride a scooter around the area, or join a rice field yoga class.
 
-> [【Bali Rice Terrace Guide】Tegalalang vs. Jatiluwih: Tickets, Best Season, and Photo Spots Fully Explained (with Itinerary Suggestions)](https://gobaligo.id/blog/bali-rice-terraces-comparison/)
+> [【Bali Rice Terrace Guide】Tegalalang vs. Jatiluwih: Tickets, Best Season, and Photo Spots Fully Explained (with Itinerary Suggestions)](https://gobaligo.id/en/blog/bali-rice-terraces-comparison/)
 
 - **Sanur Beach:** July offers the most stable sea conditions and clear skies. You can watch the Kite Festival, go snorkeling, or take a boat to Nusa Lembongan and Nusa Penida.
 
-> [【Bali - Nusa Penida Complete Guide】Map, Ferry, Accommodation, Transportation, Private Car, Activities, Photography, Attractions](https://gobaligo.id/blog/nusa-penida-guide/)
+> [【Bali - Nusa Penida Complete Guide】Map, Ferry, Accommodation, Transportation, Private Car, Activities, Photography, Attractions](https://gobaligo.id/en/blog/nusa-penida-guide/)
 
-[Nusa Lembongan & Ceningan Attractions Guide] Explore Nusa Lembongan and Ceningan’s top spots, food, and transport: Bali’s neighboring paradise (https://gobaligo.id/blog/nusa-lembongan-ceningan-guide/)
+[Nusa Lembongan & Ceningan Attractions Guide] Explore Nusa Lembongan and Ceningan’s top spots, food, and transport: Bali’s neighboring paradise (https://gobaligo.id/en/blog/nusa-lembongan-ceningan-guide/)
 
 - **Mount Batur:** High chance of sea clouds; the sunrise and morning light at the summit are most stunning.
 
-> [Bali Kintamani Batur Lake & Volcano Guide: Sunrise Hike × Royal Boat × Lakefront Café × Mountain Playground × Hot Springs](https://gobaligo.id/blog/batur-lake-volcano-guide/)
+> [Bali Kintamani Batur Lake & Volcano Guide: Sunrise Hike × Royal Boat × Lakefront Café × Mountain Playground × Hot Springs](https://gobaligo.id/en/blog/batur-lake-volcano-guide/)
 
 - **Penglipuran Village:** Join the traditional village cultural festival to experience the architecture, lifestyle, and handicraft heritage of the Bali Aga people.
 
-> [A Timeless Journey Through Penglipuran Village: Experience Bali’s Ancient Charm](https://gobaligo.id/blog/penglipuran-village-bali-experience/)
+> [A Timeless Journey Through Penglipuran Village: Experience Bali’s Ancient Charm](https://gobaligo.id/en/blog/penglipuran-village-bali-experience/)
 
 ***
 
@@ -121,16 +121,16 @@ These six months showcase Bali’s full journey from the peak of the dry season 
 
 - **Ubud Center:** Book your accommodation early for the Jazz Festival. Experience this annual international music event and enjoy world-class jazz performances.
 
-> [2026 Complete Ubud Guide: 100 Ways to Deeply Explore Ubud | Discover Ubud's Charm](https://gobaligo.id/blog/ubud-guide/)
+> [2026 Complete Ubud Guide: 100 Ways to Deeply Explore Ubud | Discover Ubud's Charm](https://gobaligo.id/en/blog/ubud-guide/)
 
 - **Buleleng Regency:** Join North Bali's largest cultural festival and experience local traditions and performances. The mountainous landscapes of Buleleng offer a unique charm, with perfect weather for exploration in August.
 - **Tanah Lot:** Attend the festival while admiring the legendary sunset view of Tanah Lot Temple.
 
-> [Must-Visit Bali Attractions: Detailed Guide to Tanah Lot Temple, Tides, and Nearby Spots](https://gobaligo.id/blog/bali-tanah-lot-guide/)
+> [Must-Visit Bali Attractions: Detailed Guide to Tanah Lot Temple, Tides, and Nearby Spots](https://gobaligo.id/en/blog/bali-tanah-lot-guide/)
 
 - **Sanur Beach:** August brings stable sea conditions and clear weather, ideal for snorkeling, water sports, or taking a boat to nearby islands.
 
-> [Bali Family-Friendly Guide: Sanur Ultimate Map – 50+ Dining, Icon Bali Mall, Top Spas, and High-Value Accommodation Tips](https://gobaligo.id/blog/sanur-guide/)
+> [Bali Family-Friendly Guide: Sanur Ultimate Map – 50+ Dining, Icon Bali Mall, Top Spas, and High-Value Accommodation Tips](https://gobaligo.id/en/blog/sanur-guide/)
 
 ***
 
@@ -158,15 +158,15 @@ These six months showcase Bali’s full journey from the peak of the dry season 
 
 - **Taman Ayun Royal Temple** – Join the Barong Dance Festival and immerse yourself in the elegance and drama of Balinese dance. The temple grounds themselves are an architectural masterpiece, ideal for culture lovers.
 
-> [【2026 Denpasar Guide】Exploring a Global Top 100 City: Culture, History & Food Map of Bali’s Capital](https://gobaligo.id/blog/denpasar-culture-guide/)
+> [【2026 Denpasar Guide】Exploring a Global Top 100 City: Culture, History & Food Map of Bali’s Capital](https://gobaligo.id/en/blog/denpasar-culture-guide/)
 
 - **Nusa Lembongan** – Attend the Surf and Music Festival, or simply enjoy the island’s tranquility and crystal-clear waters. Remember: you’ll need to return early due to the Nyepi Laut on Sep 27.
 
-> [【Nusa Lembongan & Ceningan Guide】Exploring Attractions, Food & Transport: Bali’s Nearby Paradise](https://gobaligo.id/blog/nusa-lembongan-ceningan-guide/)
+> [【Nusa Lembongan & Ceningan Guide】Exploring Attractions, Food & Transport: Bali’s Nearby Paradise](https://gobaligo.id/en/blog/nusa-lembongan-ceningan-guide/)
 
 - **Kuta** – With the summer crowds gone, Kuta becomes much more pleasant.
 
-> [Bali Kuta Guide: From Surfing, Shopping to SPA – Unlock 50 Must-Visit Spots & Travel Tips](https://gobaligo.id/blog/kuta-guide/)
+> [Bali Kuta Guide: From Surfing, Shopping to SPA – Unlock 50 Must-Visit Spots & Travel Tips](https://gobaligo.id/en/blog/kuta-guide/)
 
 ***
 
@@ -193,15 +193,15 @@ These six months showcase Bali’s full journey from the peak of the dry season 
 
 - **Nusa Penida:** Join the island festival, and marvel at the Heaven's Gate, cliffside vistas, and manta rays.
 
-> [【Bali - Nusa Penida Complete Guide】Maps, Ferries, Accommodation, Transport, Private Drivers, Activities, Photography, Attractions](https://gobaligo.id/blog/nusa-penida-guide/)
+> [【Bali - Nusa Penida Complete Guide】Maps, Ferries, Accommodation, Transport, Private Drivers, Activities, Photography, Attractions](https://gobaligo.id/en/blog/nusa-penida-guide/)
 
 - **Ubud Center:** A must-visit for literature enthusiasts. During the Writers & Readers Festival, Ubud's bookstores, cafes, and hotels host related events. Be sure to book early.
 
-> [Bali Travel Guide: What to Do in Ubud for the First Time? 20 Attractions Recommended - Ubud Guide](https://gobaligo.id/blog/ubud-top-20-attractions-guide/)
+> [Bali Travel Guide: What to Do in Ubud for the First Time? 20 Attractions Recommended - Ubud Guide](https://gobaligo.id/en/blog/ubud-top-20-attractions-guide/)
 
 - **Amed and Tulamben:** Sea conditions are still favorable in late October, making it ideal for wreck diving and underwater photography.
 
-[Bali’s Northeast Corner Hidden Gems: A Complete Guide to Amed and Tulamben – Diving, Water Palaces, and Secret Spots](https://gobaligo.id/blog/amed-tulamben-diving-guide/)
+[Bali’s Northeast Corner Hidden Gems: A Complete Guide to Amed and Tulamben – Diving, Water Palaces, and Secret Spots](https://gobaligo.id/en/blog/amed-tulamben-diving-guide/)
 
 ***
 
@@ -230,12 +230,12 @@ These six months showcase Bali’s full journey from the peak of the dry season 
 
 - **Ulun Danu Temple & Lake Bratan:** Join the Ulun Danu Festival and meditate amidst the solemn ceremonies at the lakeside temple. November’s rain makes the lake clearer, enhancing the surreal scenery.
 
-> [2026 Complete Ubud Guide: 100 Ways to Deeply Explore Ubud – Discover Its Charm](https://gobaligo.id/blog/ubud-guide/)
+> [2026 Complete Ubud Guide: 100 Ways to Deeply Explore Ubud – Discover Its Charm](https://gobaligo.id/en/blog/ubud-guide/)
 
 - **Jembrana Regency:** Attend the Jegog Festival and buffalo races. West Bali is relatively less touristy, with pristine natural landscapes, and November offers the richest greenery.
 - **Sanur:** A month-long festival featuring food fairs, yoga classes, marine activities, and cultural performances. This month, Sanur is full of energy.
 
-[> 【Bali Family Attractions】Sanur Ultimate Map: 50+ Things to Do, Icon Bali Mall, Top Spas & High-Value Accommodation Guide](https://gobaligo.id/blog/sanur-guide/)
+[> 【Bali Family Attractions】Sanur Ultimate Map: 50+ Things to Do, Icon Bali Mall, Top Spas & High-Value Accommodation Guide](https://gobaligo.id/en/blog/sanur-guide/)
 
 - **Tegallalang Rice Terraces:** November is when the terraces are at their greenest (rice growing season), best explored in the early morning or late afternoon. Fewer tourists, soft lighting, perfect for photography.
 
@@ -263,15 +263,15 @@ https://youtu.be/op78Dk8CjL4
 
 - **Pandawa Beach:** Enjoy the beach festival while taking in the dramatic cliff views of South Bali. During Christmas, Pandawa Beach is decorated with festive vibes.
 
-[> 【2026 Complete Guide to Southern Bali】Bukit Peninsula Secrets: Jimbaran Sunset, Uluwatu Cliffs & Hidden Beach Collection](https://gobaligo.id/blog/bukit-peninsula-guide/)
+[> 【2026 Complete Guide to Southern Bali】Bukit Peninsula Secrets: Jimbaran Sunset, Uluwatu Cliffs & Hidden Beach Collection](https://gobaligo.id/en/blog/bukit-peninsula-guide/)
 
 - **Uluwatu:** The cliffside temple at dusk in December remains spectacular. You can book a traditional dance performance paired with the sunset to celebrate the start of the holiday season.
 
-[> 【Uluwatu Guide】50 Food, Drink & Fun Recommendations for Uluwatu Attractions](https://gobaligo.id/blog/uluwatu-guide/)
+[> 【Uluwatu Guide】50 Food, Drink & Fun Recommendations for Uluwatu Attractions](https://gobaligo.id/en/blog/uluwatu-guide/)
 
 - **Ubud:** Despite the peak season, Ubud still retains its cultural charm. The rice terraces are lush green, best explored on a morning stroll. You can join a yoga class for a mind-body healing experience.
 
-[> Ubud Sound Healing/Singing Bowl Meditation](https://gobaligo.id/blog/ubud-sound-healing/)
+[> Ubud Sound Healing/Singing Bowl Meditation](https://gobaligo.id/en/blog/ubud-sound-healing/)
 
 - **Denpasar:** Join the Denpasar Festival to witness year-end celebrations and New Year vibes in Bali's capital. Markets, concerts, and cultural performances come together here.
 
@@ -320,10 +320,10 @@ https://youtu.be/op78Dk8CjL4
 
 ## Quick Reference
 
-- [More 2026 Bali Festival Highlights](https://gobaligo.id/blog/2026-bali-festival-guide/)
-- [2026 Bali Ultimate Travel Guide](https://gobaligo.id/blog/bali-ultimate-guide-2026/)
-- [Complete Guide to Traveling Bali in the Rainy Season](https://gobaligo.id/blog/bali-rainy-season-travel-guide/)
-- [【2026 Bali Rainy Day/Sun Shelter Backup Plans】A Must-Read for Rain or Sun! 60 Incredible Indoor Activities](https://gobaligo.id/blog/2026-bali-indoor-activities/)
+- [More 2026 Bali Festival Highlights](https://gobaligo.id/en/blog/2026-bali-festival-guide/)
+- [2026 Bali Ultimate Travel Guide](https://gobaligo.id/en/blog/bali-ultimate-guide-2026/)
+- [Complete Guide to Traveling Bali in the Rainy Season](https://gobaligo.id/en/blog/bali-rainy-season-travel-guide/)
+- [【2026 Bali Rainy Day/Sun Shelter Backup Plans】A Must-Read for Rain or Sun! 60 Incredible Indoor Activities](https://gobaligo.id/en/blog/2026-bali-indoor-activities/)
 
 ***
 

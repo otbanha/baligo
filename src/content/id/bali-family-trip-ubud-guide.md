@@ -34,9 +34,9 @@ Update: 2026/07/03
 
 Dua hari pertama setelah tiba di Bali, kami memilih menginap di Aloft Kuta yang terletak di dalam Beachwalk Shopping Center, buka April 2022. Hotel ini adalah merek muda di bawah Marriott, dengan desain simpel dan nyaman, harga relatif terjangkau namun tetap menjaga kualitas Marriott. Pelayanannya ramah, fasilitasnya baru, dan rasanya enak banget! Kamar twin dengan dua tempat tidur besar juga cocok untuk kebutuhan keluarga kami yang berempat.
 
-Klik di sini untuk lihat: [Review Menginap di Aloft Kuta & Beachwalk Shopping Center](/blog/bali-family-trip-aloft-kuta/)
+Klik di sini untuk lihat: [Review Menginap di Aloft Kuta & Beachwalk Shopping Center](/id/blog/bali-family-trip-aloft-kuta/)
 
-Hari kedua itinerary kami: [GWK Garuda Wisnu Kencana, Pantai Club Gratis di Uluwatu, Pura Uluwatu, Tari Kecak Uluwatu](/blog/bali-family-trip-aloft-kuta/)
+Hari kedua itinerary kami: [GWK Garuda Wisnu Kencana, Pantai Club Gratis di Uluwatu, Pura Uluwatu, Tari Kecak Uluwatu](/id/blog/bali-family-trip-aloft-kuta/)
 
 ![前情提要](https://images.gobaligo.id/vocus/vocus_140e60d5b6dd4a29ce14048ecda7379c.jpg)
 
@@ -245,7 +245,7 @@ Dekat area taman ada kafe dengan rating Google 4.8 bintang, cocok banget buat ni
 
 🕘**Jam Buka**: 09:00 - 18:00 (masuk terakhir jam 17:00)
 
-💰**Harga Tiket**: (Catatan: April 2026 [sudah naik](/blog/2026-04-09-152047/))
+💰**Harga Tiket**: (Catatan: April 2026 [sudah naik](/id/blog/2026-04-09-152047/))
 
 - Dewasa: 80,000 IDR (sekitar USD$5)
 - Anak-anak: 60,000 IDR (sekitar USD$4)
@@ -445,7 +445,7 @@ Pas check-in, kita pilih tipe kamar "Antique 907", yang punya bale santai mengha
 - **Komunikasi di tempat**: Lebih efisien kalau urusan kebutuhan nginep hubungi staf hotel lewat aplikasi chat.
 - **Bebas DP**: Ramah buat turis asing, booking kamar bisa bayar pas hari check-in.
 
-▶ **Madani Antique Villas** masuk dalam **[22 Villa Ubud yang Bikin Melongo](/blog/ubud-villa-pool-guide/)**
+▶ **Madani Antique Villas** masuk dalam **[22 Villa Ubud yang Bikin Melongo](/id/blog/ubud-villa-pool-guide/)**
 
 ***
 
@@ -754,7 +754,7 @@ Kintamani nggak cuma terkenal dengan pemandangan gunung berapinya yang megah, be
 
 📍 **Daftar Kafe Lain yang Direkomendasikan**
 
-- [13 Rekomendasi Kafe Pemandangan di Kintamani Bali](/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
+- [13 Rekomendasi Kafe Pemandangan di Kintamani Bali](/id/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
 
 Baik itu sunrise trekking ke gunung berapi atau sekadar nongkrong di kafe dengan pemandangan, Gunung Batur di Kintamani selalu kasih pengalaman dan pemandangan yang nggak terlupakan. Alam di sini tuh murni banget dan megah, seru naik jeep, sunrise bareng lahar yang gagah, ditambah ngopi santai — jadi momen di Bali yang wajib kamu rasain 🌋☀️.
 
@@ -851,7 +851,7 @@ Kalau kamu juga kangen pengalaman seru di tengah hutan, buruan booking! 🌲💚
 
 ![第六天住宿推薦《Sebatu Sanctuary Eco-resort》](https://images.gobaligo.id/vocus/vocus_b80d9684405aba0db01f6d3e125e98b5.jpg)
 
-▶[**Lihat 9 villa bambu lainnya yang bikin speechless**](/blog/ubud-treehouse-bamboo-villa-stays/)
+▶[**Lihat 9 villa bambu lainnya yang bikin speechless**](/id/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ***
 
@@ -873,7 +873,7 @@ Kalau kamu juga kangen pengalaman seru di tengah hutan, buruan booking! 🌲💚
 
 💡 Saran: mending nginep aja langsung, lebih worth it daripada beli tiket biasa, dan pengalamannya lebih lengkap!
 
-👉 Klik untuk baca lebih lanjut [pengalaman kami nginep di kebun binatang dan detail akomodasinya](/blog/bali-safari-night-stay/)!
+👉 Klik untuk baca lebih lanjut [pengalaman kami nginep di kebun binatang dan detail akomodasinya](/id/blog/bali-safari-night-stay/)!
 
 ***
 
@@ -908,7 +908,7 @@ Kalau kamu liburan di Bali, wajib banget coba pakai jasa sewa mobil Gede! Gede i
 - WhatsApp : +62 8786 2004 094
 - Telepon : +62 81237 811 841
 
-Kalau kamu butuh sopir yang bisa diandalkan dan perhatian, Gede pilihan yang nggak salah! Info lebih detail tentang sopir ini ada di [sini](/blog/bali-private-driver-recommendation/).
+Kalau kamu butuh sopir yang bisa diandalkan dan perhatian, Gede pilihan yang nggak salah! Info lebih detail tentang sopir ini ada di [sini](/id/blog/bali-private-driver-recommendation/).
 
 PS Di Indonesia itu budaya kasih tip, jadi jangan pelit ya kasih tip lebih buat Gede, karena dia emang layak! (10% dari total biaya sewa itu standar banget, 20%–30%? Aku atas nama Gede makasih banget!)
 
@@ -920,10 +920,10 @@ Setelah liburan keluarga di Bali ini, yang kita bawa pulang bukan cuma pemandang
 
 ### Cerita Perjalanan Lengkap:
 
-- [**Hari 1: Nginep di dalam mall! Tips akomodasi quality time keluarga 2 dewasa 2 anak**](/blog/bali-family-trip-aloft-kuta/)
-- [**Hari 2: GWK Garuda Wisnu Kencana, Klub Pantai Gratis di Uluwatu, Pura Uluwatu, Tari Kecak Uluwatu**](/blog/bali-family-trip-gwk-beach-club/)
+- [**Hari 1: Nginep di dalam mall! Tips akomodasi quality time keluarga 2 dewasa 2 anak**](/id/blog/bali-family-trip-aloft-kuta/)
+- [**Hari 2: GWK Garuda Wisnu Kencana, Klub Pantai Gratis di Uluwatu, Pura Uluwatu, Tari Kecak Uluwatu**](/id/blog/bali-family-trip-gwk-beach-club/)
 - **Hari 3-7: Lima Hari di Ubud: Rekomendasi Kuliner, Tempat Wisata, Akomodasi, & Eksplorasi Gunung Berapi**
-- [**Hari 8: Cara Seru Main di Bali Safari & Tips Nginep Semalam**](/blog/bali-safari-night-stay/)
+- [**Hari 8: Cara Seru Main di Bali Safari & Tips Nginep Semalam**](/id/blog/bali-safari-night-stay/)
 
 ***
 
@@ -933,7 +933,7 @@ Kamu pikir itinerary [Let's Play and Eat Ho Chi Minh City](https://www.facebook.
 
 Klik di sini buat lihat lebih banyak cerita seru liburan ke Bali
 
-Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Cek aja panduan "[Cara Nulis Cerita Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)" biar ceritamu makin kece!
+Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Cek aja panduan "[Cara Nulis Cerita Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)" biar ceritamu makin kece!
 
 {{block:ubud}}
 

@@ -85,4 +85,4 @@ A: Gejalanya meliputi demam, ruam, dan pembengkakan kelenjar getah bening. Ruam 
 
 A: Bandara di Bali, Indonesia, udah nerapin thermal imaging buat deteksi demam, wajib isi formulir deklarasi kesehatan, dan ada protokol isolasi buat kasus yang dicurigai.
 
-▶[Panduan & Tutorial Isi "Formulir Deklarasi Kesehatan Indonesia"](/blog/2024-08-30-66d109f9fd89780001f47806/)
+▶[Panduan & Tutorial Isi "Formulir Deklarasi Kesehatan Indonesia"](/id/blog/2024-08-30-66d109f9fd89780001f47806/)

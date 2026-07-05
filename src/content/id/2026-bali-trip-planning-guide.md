@@ -53,19 +53,19 @@ Kenali gaya traveling kamu adalah dasar buat atur itinerary Bali.
 
 **Referensi Cepat:**
 
-> Panduan dasar: [Mengenal Wilayah Bali: Panduan Rekomendasi Akomodasi Bali - Kenali Kuta, Seminyak, Canggu, Ubud](/blog/2023-12-29-65839fbafd89780001e876b5/)
+> Panduan dasar: [Mengenal Wilayah Bali: Panduan Rekomendasi Akomodasi Bali - Kenali Kuta, Seminyak, Canggu, Ubud](/id/blog/2023-12-29-65839fbafd89780001e876b5/)
 
-> Liburan keluarga: [Rekomendasi/Panduan Liburan Keluarga di Bali](/blog/bali-family-travel-guide-2/)
+> Liburan keluarga: [Rekomendasi/Panduan Liburan Keluarga di Bali](/id/blog/bali-family-travel-guide-2/)
 
 https://youtu.be/MdQYUy31LiY?si=s6E1DVtnKybOmlLB
 
-> Pasangan/Bulan Madu: [Panduan Romantis Bulan Madu di Bali: 36 Cara Seru Menjelajahi Liburan Pasangan/Bulan Madu di Bali](/blog/bali-honeymoon-romantic-activities-2/)
+> Pasangan/Bulan Madu: [Panduan Romantis Bulan Madu di Bali: 36 Cara Seru Menjelajahi Liburan Pasangan/Bulan Madu di Bali](/id/blog/bali-honeymoon-romantic-activities-2/)
 
-> Liburan orang tua: [Panduan Liburan Bali untuk Lansia - Aman, Nyaman, Tempat Wisata & Tips Penting](/blog/bali-elderly-travel-guide/)
+> Liburan orang tua: [Panduan Liburan Bali untuk Lansia - Aman, Nyaman, Tempat Wisata & Tips Penting](/id/blog/bali-elderly-travel-guide/)
 
-> Landmark ikonik: [10 Landmark Penting di Bali & Cara Mengatur Perjalanan](/blog/bali-top-landmarks-guide/)
+> Landmark ikonik: [10 Landmark Penting di Bali & Cara Mengatur Perjalanan](/id/blog/bali-top-landmarks-guide/)
 
-> Lebih banyak tempat wisata: [Panduan Lengkap Tempat Wisata Wajib di Bali 2026, 500 Spot Hits Terbaru Sekaligus](/blog/bali-top-500-attractions/)
+> Lebih banyak tempat wisata: [Panduan Lengkap Tempat Wisata Wajib di Bali 2026, 500 Spot Hits Terbaru Sekaligus](/id/blog/bali-top-500-attractions/)
 
 **Ingat, nggak ada yang bisa bikin itinerary yang 100% sesuai ekspektasi kamu!** Semua keputusan akhir harus berdasarkan selera dan kebutuhan kamu sendiri, biar liburan Bali ini jadi petualangan yang nggak terlupakan.
 
@@ -77,21 +77,21 @@ Pantai di ujung selatan Bali itu kece banget
 
 Bali punya segalanya: dari santai di pantai, eksplorasi hutan tropis, sampai pengalaman budaya yang kaya banget.
 
-[Mau ngapain aja di outdoor Bali? 50 Aktivitas Seru yang Wajib Kamu Coba](/blog/bali-top-50-outdoor-activities/)
+[Mau ngapain aja di outdoor Bali? 50 Aktivitas Seru yang Wajib Kamu Coba](/id/blog/bali-top-50-outdoor-activities/)
 
 {{block:戶外}}
 
 - **Pantai dan Alam**: Daerah seperti Seminyak, Jimbaran, dan Ubud cocok banget buat kamu yang suka aktivitas outdoor.
-- **Aktivitas Budaya**: Seni lokal, tarian tradisional, dan upacara di pura semuanya worth it untuk diikuti. Ubud wajib banget dikunjungi! Di Ubud juga ada jungle swing, rafting, ATV, air terjun, Mario Kart... dan masih banyak lagi. Cek panduan kami "[100 Cara Mengenal Ubud](/blog/ubud-guide/)" biar kamu makin paham kota budaya ini.
+- **Aktivitas Budaya**: Seni lokal, tarian tradisional, dan upacara di pura semuanya worth it untuk diikuti. Ubud wajib banget dikunjungi! Di Ubud juga ada jungle swing, rafting, ATV, air terjun, Mario Kart... dan masih banyak lagi. Cek panduan kami "[100 Cara Mengenal Ubud](/id/blog/ubud-guide/)" biar kamu makin paham kota budaya ini.
 
 ### Lima Zona Wisata Favorit di Bali:
 
-- [Peta Wajib Dikunjungi di Seminyak Bali: 100 Tempat Makan, Main, dan Seru-seruan](/blog/seminyak-guide/)
-- [Peta Petualangan Sempurna di Canggu Bali: 100 Tempat yang Harus Dikunjungi](/blog/canggu-guide/)
-- [Panduan Liburan ke Jimbaran Bali: 30 Tempat Wisata Rekomendasi Lengkap](/blog/jimbaran-guide/)
-- [Jelajahi Ubud Bali: 100 Cara Mendalami Ubud](/blog/ubud-guide/)
-- [Panduan Wisata Kuta Bali: 50 Tempat Hits, Nightlife Seru, Kuliner, & SPA Rekomendasi](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [Panduan Aktivitas Keluarga di Ubud: 55 Kegiatan Seru buat Anak-anak Paling Santai!](/blog/ubud-with-kids-guide/)
+- [Peta Wajib Dikunjungi di Seminyak Bali: 100 Tempat Makan, Main, dan Seru-seruan](/id/blog/seminyak-guide/)
+- [Peta Petualangan Sempurna di Canggu Bali: 100 Tempat yang Harus Dikunjungi](/id/blog/canggu-guide/)
+- [Panduan Liburan ke Jimbaran Bali: 30 Tempat Wisata Rekomendasi Lengkap](/id/blog/jimbaran-guide/)
+- [Jelajahi Ubud Bali: 100 Cara Mendalami Ubud](/id/blog/ubud-guide/)
+- [Panduan Wisata Kuta Bali: 50 Tempat Hits, Nightlife Seru, Kuliner, & SPA Rekomendasi](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [Panduan Aktivitas Keluarga di Ubud: 55 Kegiatan Seru buat Anak-anak Paling Santai!](/id/blog/ubud-with-kids-guide/)
 
 ## **3.** Tentukan Budget dan Area Menginap
 
@@ -122,7 +122,7 @@ Memahami lokasi tempat wisata dan mengatur rute yang efisien adalah cara yang ba
 
 - Gunakan "[Peta Panduan Zona Bali](https://)" kami. Setiap peta panduan dilengkapi dengan Google Maps yang detail, membantu kamu memahami dengan jelas lokasi setiap tempat wisata, sehingga kamu bisa dengan mudah merencanakan rute terbaik.
 
-Jika ragu dengan pengaturan itinerary, disarankan untuk meminta bantuan sopir sewaan lokal. Mereka familiar dengan tempat wisata dan rute, bisa membantu kamu menghemat waktu dan menikmati perjalanan sepenuhnya. Cek "[Review Lengkap Sopir Bali dari Netizen](/blog/bali-private-car-drivers-guide/)" kami untuk menemukan sopir lokal dengan rating bagus.
+Jika ragu dengan pengaturan itinerary, disarankan untuk meminta bantuan sopir sewaan lokal. Mereka familiar dengan tempat wisata dan rute, bisa membantu kamu menghemat waktu dan menikmati perjalanan sepenuhnya. Cek "[Review Lengkap Sopir Bali dari Netizen](/id/blog/bali-private-car-drivers-guide/)" kami untuk menemukan sopir lokal dengan rating bagus.
 
 {{block:包車}}
 
@@ -163,14 +163,14 @@ Kalau kamu pengin liburan di Bali dengan tenang tanpa pusing, pakai jasa agen tr
 
 Dari sekian banyak agen travel, kami rekomendasiin satu agen yang udah lama berkecimpung di Bali, yaitu **「isBali」**. Agen ini terdiri dari tim profesional asal Taiwan dan lokal Bali yang paham banget kebutuhan traveler Taiwan, dan bisa bikin itinerary yang dipersonalisasi. Mereka gak cuma kenal budaya dan tempat-tempat lokal, tapi juga bisa sesuaikan itinerary sesuai minat kamu — dari transportasi, pilihan akomodasi, sampai rekomendasi aktivitas, semuanya lengkap, bikin kamu liburan tanpa khawatir!
 
-Selain itu, lewat [kode promo](/blog/isbali-tour-agency-review/) kami, kamu bisa dapet diskon untuk layanan 「isBali」! Promo ini bikin kamu hemat uang dan tenaga, jadi pilihan liburan terbaik.
+Selain itu, lewat [kode promo](/id/blog/isbali-tour-agency-review/) kami, kamu bisa dapet diskon untuk layanan 「isBali」! Promo ini bikin kamu hemat uang dan tenaga, jadi pilihan liburan terbaik.
 
 ![7. Cara paling praktis dan anti ribet: pakai jasa agen trave](https://images.gobaligo.id/vocus/vocus_aff811a953c18b497d83f3d79e2d6b79.png)
 
 **Baca Juga:**
 
-- [Tips Liburan ke Bali: 33 Hal yang Wajib Kamu Tahu Sebelum Pertama Kali ke Bali](/blog/bali-ultimate-guide-2026/)
-- [Panduan Anti Gagal di Bali: 18 Kesalahan Umum dan Saran](/blog/bali-travel-mistakes-tips/)
+- [Tips Liburan ke Bali: 33 Hal yang Wajib Kamu Tahu Sebelum Pertama Kali ke Bali](/id/blog/bali-ultimate-guide-2026/)
+- [Panduan Anti Gagal di Bali: 18 Kesalahan Umum dan Saran](/id/blog/bali-travel-mistakes-tips/)
 
 {{block:攻略}}
 
@@ -178,4 +178,4 @@ Selain itu, lewat [kode promo](/blog/isbali-tour-agency-review/) kami, kamu bisa
 
 👈 **Kembali ke Panduan Utama Liburan Mandiri ke Bali**
 
-Mau lihat paket lengkap untuk pemula? [Klik di sini baca «Panduan Utama Liburan Mandiri ke Bali 2026»](/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.
+Mau lihat paket lengkap untuk pemula? [Klik di sini baca «Panduan Utama Liburan Mandiri ke Bali 2026»](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.

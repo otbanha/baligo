@@ -41,7 +41,7 @@ Honestly, I also feel like 2026 is flying by. It seems like just yesterday I was
 
 And frankly, I've noticed a clear trend in recent years: **Bali's peak season is quietly arriving earlier**. While the traditional peak was recognized as June to mid-September, now the crowds start pouring in by late May, well before the official summer vacation period.
 
-> Quick Reference: [Bali Actually Has Five Peak Seasons! How to Travel Smartly During Peak Season?](/blog/bali-peak-season-travel-tips/)
+> Quick Reference: [Bali Actually Has Five Peak Seasons! How to Travel Smartly During Peak Season?](/en/blog/bali-peak-season-travel-tips/)
 
 ## Numbers Speak: What Does 65,000 Airport Visitors Per Day Mean?
 
@@ -127,7 +127,7 @@ This is something many people don't consider: **During peak season, even superma
 
 > 💡 **Must-Have Items**: On your first day at the hotel, it's a good idea to head to Indomaret or Circle K to stock up on water, snacks, sunscreen, and insect repellent. During peak season, the mini bar in your room can really get emptied by guests, and restocking can't keep up.
 
-> Quick Reference: [30+ Large Supermarket Map Guide: Grand Lucky, Pepito, Bintang Explained with Locals' Must-Buy List](/blog/bali-supermarket-guide-map/)
+> Quick Reference: [30+ Large Supermarket Map Guide: Grand Lucky, Pepito, Bintang Explained with Locals' Must-Buy List](/en/blog/bali-supermarket-guide-map/)
 
 {{block:klook}}
 
@@ -139,7 +139,7 @@ During peak tourist season, scams targeting visitors become more prevalent. Here
 
 ✅ **Only use authorized money changers like PT. Central Kuta Money Changer, BMC, and Dirgahayu Valuta Prima**, which have official business licenses and are located throughout tourist areas. You can refer to our [legitimate money changer map](/map/money-changer/) on our website.
 
-> Quick Reference: [《The Ultimate Guide to Currency Exchange and Money Management in Bali》](/blog/bali-currency-exchange-guide/)
+> Quick Reference: [《The Ultimate Guide to Currency Exchange and Money Management in Bali》](/en/blog/bali-currency-exchange-guide/)
 
 **2. Airport Taxi Scams** As soon as you exit the arrival area, people will approach you saying "Taxi? Transport?" These are the infamous **taxi mafia**, charging 3-5 times the regular Grab fare.
 
@@ -181,7 +181,7 @@ Here's a quick summary of key points:
 - ✅ Use Grab/Gojek for short trips
 - ✅ Always buy travel insurance, with medical coverage being most important
 
-Quick Reference: [Bali Travel Insurance Guide: Essential Reading for Taiwan, Hong Kong, Malaysia, and Singapore Travelers!](/blog/bali-travel-insurance-guide/)
+Quick Reference: [Bali Travel Insurance Guide: Essential Reading for Taiwan, Hong Kong, Malaysia, and Singapore Travelers!](/en/blog/bali-travel-insurance-guide/)
 
 If you're planning to fly to Bali between June and September, now is the perfect time to start planning. Book your flights, reserve your hotel, purchase insurance, and sketch out a rough itinerary—then let Bali surprise you with the rest.
 

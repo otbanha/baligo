@@ -27,7 +27,7 @@ Update: 2026/07/03
 
 First-time visitors to Bali may experience diarrhea or digestive issues, playfully called 'Bali belly' in English. Sometimes, the whole family gets affected—what bad luck! Some travelers end up stuck in their hotel for days, unable to go out and explore.
 
-> Further reading: [Bali Travel Health Tips: A Guide to Drinking Water and Diarrhea in Bali](/blog/bali-travel-health-tips/)
+> Further reading: [Bali Travel Health Tips: A Guide to Drinking Water and Diarrhea in Bali](/en/blog/bali-travel-health-tips/)
 
 Nothing ruins a trip faster than feeling unwell. It not only dampens the joy of your itinerary but can also become serious enough to require medical help.
 
@@ -43,9 +43,9 @@ Also, if mosquito bites leave you itching unbearably, we recommend an Indonesian
 
 Whether for prevention or handling unexpected situations, staying healthy is key to an enjoyable trip. We hope these tips help you have a safe and wonderful time in Bali.
 
-> Read more: [Important Notes on Bringing Sleeping Pills / Prescription Medications to Indonesia / Bali](/blog/bali-medication-import-guide/)
+> Read more: [Important Notes on Bringing Sleeping Pills / Prescription Medications to Indonesia / Bali](/en/blog/bali-medication-import-guide/)
 
-> Read more: [How to Safely Bring Herbal Powders and Supplements to Bali, Indonesia: A Complete Guide](/blog/bali-herbal-medicine-travel-guide/)
+> Read more: [How to Safely Bring Herbal Powders and Supplements to Bali, Indonesia: A Complete Guide](/en/blog/bali-herbal-medicine-travel-guide/)
 
 Quick tip: Should you apply sunscreen or insect repellent first? The correct order is **sunscreen first, then insect repellent**. Here's why: Sunscreen should go on first because it needs to form an even protective layer on your skin to effectively block UV rays. It's best applied 15–30 minutes before heading out to allow absorption. Insect repellent goes on second, as its active ingredients (like DEET) need to evaporate into the air to repel mosquitoes. Applying repellent first can cause sunscreen to dilute or cover it, reducing its effectiveness. **Pro tip:** After applying sunscreen, wait a few minutes for it to absorb, then apply repellent. A 5–10 minute gap is ideal. Some products warn against mixing with sunscreen, so check the label. If you reapply sunscreen, remember to reapply repellent too. This way, both products work at their best—keeping you sun-safe and bug-free!
 
@@ -65,6 +65,6 @@ Try 'Tjing Tjau Balsem' (Green Oil Balm), a popular Indonesian ointment for soot
 
 ## What over-the-counter medications should I prepare for Bali Belly (traveler's diarrhea)?
 
-It's recommended to prepare stomach medication, anti-diarrhea medicine, and cold medicine before your trip. For a detailed self-care checklist and brands available at local pharmacies, see the [Bali Belly Medicine Guide](/blog/bali-belly-medicine-guide/).
+It's recommended to prepare stomach medication, anti-diarrhea medicine, and cold medicine before your trip. For a detailed self-care checklist and brands available at local pharmacies, see the [Bali Belly Medicine Guide](/en/blog/bali-belly-medicine-guide/).
 
 {{block:戶外}}

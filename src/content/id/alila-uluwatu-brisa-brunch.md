@@ -77,9 +77,9 @@ Senja di Alila Uluwatu terlalu nyata buat jadi kenyataan!
 ***
 
 **Referensi Cepat:**
-[【Definisi Baru Kemewahan Bali】Alila Villas Uluwatu｜Kolam Renang Infinity Terbaik Dunia✧ Tempat Pernikahan Selebriti](/blog/alila-villas-uluwatu-bali/)
+[【Definisi Baru Kemewahan Bali】Alila Villas Uluwatu｜Kolam Renang Infinity Terbaik Dunia✧ Tempat Pernikahan Selebriti](/id/blog/alila-villas-uluwatu-bali/)
 
-[Pengalaman Healing Mewah di Bali: Eksplorasi Mendalam Alila Villas Uluwatu Spa](/blog/alila-uluwatu-spa-experience/)
+[Pengalaman Healing Mewah di Bali: Eksplorasi Mendalam Alila Villas Uluwatu Spa](/id/blog/alila-uluwatu-spa-experience/)
 
 ***
 

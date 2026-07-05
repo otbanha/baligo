@@ -53,7 +53,7 @@ Most dive shops or snorkeling companies provide temporary storage space for part
 
 If you're traveling with a private driver who is **a familiar and trustworthy local**, consider leaving some valuables (like your phone or cash) in their care.
 
-This is quite common among travelers, especially during long trips (such as a day trip to Nusa Lembongan). However, it's still advisable to first refer to drivers with good reputations in community forums [like this guide](/blog/bali-private-car-drivers-guide/).
+This is quite common among travelers, especially during long trips (such as a day trip to Nusa Lembongan). However, it's still advisable to first refer to drivers with good reputations in community forums [like this guide](/en/blog/bali-private-car-drivers-guide/).
 
 ---
 

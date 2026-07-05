@@ -87,24 +87,24 @@ _srcHash: 72cf006c01f0003242328bde6bdc2647
 
 ##### 延伸閱讀：
 
-- [全世界旅行者最愛! 峇里島封王](/blog/bali-tripadvisor-award-2025-2/)
-- [【2025年亞洲第一旅遊目的地】峇里島在TripAdvisor 2025旅行者之選大獎中大放異彩](/blog/bali-tripadvisor-award-2025/)
+- [全世界旅行者最愛! 峇里島封王](/zh-hk/blog/bali-tripadvisor-award-2025-2/)
+- [【2025年亞洲第一旅遊目的地】峇里島在TripAdvisor 2025旅行者之選大獎中大放異彩](/zh-hk/blog/bali-tripadvisor-award-2025/)
 
 隨住媒體曝光度增加，峇里島嘅旅遊需求都持續上升。2025年，嗰度預計會接待超過**650萬名國際旅客**，同埋幾百萬名國內遊客，不斷刷新旅遊紀錄。
 
 ## **探索峇里島嘅隱藏寶藏：新興旅遊熱點**
 
-雖然峇里島嘅主流旅遊區好似**庫塔（**[**Kuta嘅介紹同攻略**](/blog/2023-12-13-657598bdfd8978000120fe20/)**_）_、_水明漾（_**[**Seminyak嘅介紹同攻略**](/blog/seminyak-guide/)**_）_、_努沙杜瓦（_**[**Nusa Dua嘅介紹同攻略**](/blog/nusa-dua-guide/)）同**烏布（**[**Ubud嘅介紹同攻略**](/blog/ubud-guide/)**）**呢啲地方仍然好受旅客歡迎，但係越來越多返嚟玩嘅遊客會揀探索啲比較少人知嘅隱秘景點，想深入了解峇里島文化同避開人潮。
+雖然峇里島嘅主流旅遊區好似**庫塔（**[**Kuta嘅介紹同攻略**](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)**_）_、_水明漾（_**[**Seminyak嘅介紹同攻略**](/zh-hk/blog/seminyak-guide/)**_）_、_努沙杜瓦（_**[**Nusa Dua嘅介紹同攻略**](/zh-hk/blog/nusa-dua-guide/)）同**烏布（**[**Ubud嘅介紹同攻略**](/zh-hk/blog/ubud-guide/)**）**呢啲地方仍然好受旅客歡迎，但係越來越多返嚟玩嘅遊客會揀探索啲比較少人知嘅隱秘景點，想深入了解峇里島文化同避開人潮。
 
 2026年，以下地區預計會成為新興熱門目的地：
 
 - **_東峇里_：_Karangasem_、靜謐嘅_Candidasa_、潛水天堂_Amed_**
 
-> 延伸閱讀：[Amed/Tulamben攻略](/blog/amed-tulamben-diving-guide/)
+> 延伸閱讀：[Amed/Tulamben攻略](/zh-hk/blog/amed-tulamben-diving-guide/)
 
 - **_北峇里_：海豚之鄉_羅威納Lovina_、自然秘境_Pemuteran_**
 
-> 延伸閱讀：[峇里島自由行注意事項：15個去峇里島北部玩嘅小貼士](/blog/north-bali-travel-guide/)
+> 延伸閱讀：[峇里島自由行注意事項：15個去峇里島北部玩嘅小貼士](/zh-hk/blog/north-bali-travel-guide/)
 
 - **_西峇里_：衝浪勝地_Medewi_、壯觀嘅_West Bali National Park_**
 

@@ -98,11 +98,11 @@ Berdasarkan review di Agoda, MAJA Canggu dapet skor 9,0 — tinggi banget! Tamu 
 
 ![住客評價](https://images.gobaligo.id/vocus/vocus_3425e74a7fff4a400f98cb8dcb2efb96.jpg)
 
-Mau rekomendasi akomodasi lain di Canggu? Atau butuh panduan lengkap? [Klik di sini](/blog/canggu-guide/)
+Mau rekomendasi akomodasi lain di Canggu? Atau butuh panduan lengkap? [Klik di sini](/id/blog/canggu-guide/)
 
 **Referensi Cepat:**
 
-- [Top 16 Akomodasi Wajib Coba di Canggu](/blog/canggu-top-hotels-guide/)
-- [16 Rekomendasi Villa dengan Kolam Renang Pribadi di Canggu — Villa Bali yang Wajib Kamu Coba](/blog/canggu-villas-guide/)
+- [Top 16 Akomodasi Wajib Coba di Canggu](/id/blog/canggu-top-hotels-guide/)
+- [16 Rekomendasi Villa dengan Kolam Renang Pribadi di Canggu — Villa Bali yang Wajib Kamu Coba](/id/blog/canggu-villas-guide/)
 
 {{block:住宿}}

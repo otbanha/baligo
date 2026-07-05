@@ -22,7 +22,7 @@ _srcHash: 53b9ad4c408c4c1ab3680a1e2c730b20
 
 - **機票**：早啲訂、彈性揀日期最慳錢。
 - **住宿**：1–5 月、9 月–12 月初嘅淡季房價最低。
-  （農曆新年等連續假期除外，請睇[呢度](/blog/bali-peak-season-travel-tips/)）
+  （農曆新年等連續假期除外，請睇[呢度](/zh-hk/blog/bali-peak-season-travel-tips/)）
 - **交通**：租電單車最慳，或者考慮包車連司機，適合多人。
 - **飲食**：當地小餐館（Warung）同路邊攤最抵。
 - **活動**：網上預訂水上活動或SPA，成日有套票優惠。
@@ -102,18 +102,18 @@ _srcHash: 53b9ad4c408c4c1ab3680a1e2c730b20
 
 **快速參考：**
 
-- [峇里島包車須知 - 費用、預訂方式、優勢分析](/blog/bali-private-car-hire-guide/)
-- [【峇里島包車司機推薦】睇網友真實點評搵到適合你嘅好司機](/blog/bali-private-car-drivers-guide/)
-- [抵達峇里島：接機嘅交通選擇同第一日嘅實用建議](/blog/bali-airport-transfer-guide/)
-- [峇里島旅遊中文司機/中文導遊/中文包車行程推薦](/blog/bali-chinese-tour-guide/)
-- [峇里島租摩托車攻略！應該租摩托車好，定係包車好？](/blog/bali-motorbike-rental-guide/)
-- [峇里島租電單車攻略：價格、安全、注意事項一次睇](/blog/bali-motorbike-rental-tips/)
-- [幾時包車？幾時叫車？包車 vs. 叫車：點樣揀最適合你嘅旅行方式？](/blog/bali-transportation-guide-car-rental/)
-- [喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/blog/gojek-bali-guide/)
-- [網約車Gojek點樣用？](/blog/gojek-bali-guide/)
-- [印尼/峇里島嘅Gojek同GoPay註冊、使用、儲值教學全面指南](/blog/indonesia-gojek-gopay-guide/)
-- [峇里島APP網約車司機嘅套路：點樣避免Grab/Gojek陷阱？](/blog/bali-grab-gojek-scam-tips/)
-- [Nusa Penida佩尼達島的士、Gojek/Grab、包車、摩托車交通攻略](/blog/nusa-penida-transport-guide/)
+- [峇里島包車須知 - 費用、預訂方式、優勢分析](/zh-hk/blog/bali-private-car-hire-guide/)
+- [【峇里島包車司機推薦】睇網友真實點評搵到適合你嘅好司機](/zh-hk/blog/bali-private-car-drivers-guide/)
+- [抵達峇里島：接機嘅交通選擇同第一日嘅實用建議](/zh-hk/blog/bali-airport-transfer-guide/)
+- [峇里島旅遊中文司機/中文導遊/中文包車行程推薦](/zh-hk/blog/bali-chinese-tour-guide/)
+- [峇里島租摩托車攻略！應該租摩托車好，定係包車好？](/zh-hk/blog/bali-motorbike-rental-guide/)
+- [峇里島租電單車攻略：價格、安全、注意事項一次睇](/zh-hk/blog/bali-motorbike-rental-tips/)
+- [幾時包車？幾時叫車？包車 vs. 叫車：點樣揀最適合你嘅旅行方式？](/zh-hk/blog/bali-transportation-guide-car-rental/)
+- [喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/zh-hk/blog/gojek-bali-guide/)
+- [網約車Gojek點樣用？](/zh-hk/blog/gojek-bali-guide/)
+- [印尼/峇里島嘅Gojek同GoPay註冊、使用、儲值教學全面指南](/zh-hk/blog/indonesia-gojek-gopay-guide/)
+- [峇里島APP網約車司機嘅套路：點樣避免Grab/Gojek陷阱？](/zh-hk/blog/bali-grab-gojek-scam-tips/)
+- [Nusa Penida佩尼達島的士、Gojek/Grab、包車、摩托車交通攻略](/zh-hk/blog/nusa-penida-transport-guide/)
 
 ***
 
@@ -135,7 +135,7 @@ _srcHash: 53b9ad4c408c4c1ab3680a1e2c730b20
 ![峇里島文化活動與免費體驗](https://images.gobaligo.id/vocus/vocus_af2a6c5d08ffe04b97f754a61f9d1e32.jpg)
 
 **快速參考：**
-[峇里島傳統節日：2025/2026年嘅峇里島宗教節慶指南](/blog/bali-religious-festivals-guide/)
+[峇里島傳統節日：2025/2026年嘅峇里島宗教節慶指南](/zh-hk/blog/bali-religious-festivals-guide/)
 
 ***
 

@@ -19,9 +19,9 @@ _srcHash: f741eef5946ebdfcf46e0f4b770f4b32
 ---
 Update: 2026/07/03
 
-[🚗 想預估 Gojek 車費？㩒呢度](/map/gojek-fare/)
+[🚗 想預估 Gojek 車費？㩒呢度](/zh-hk/map/gojek-fare/)
 
-**先講結論**：去峇里島前一定要裝 **Gojek**——佢係印尼版嘅 Uber + 外賣 + 電子錢包三合一APP，可以叫汽車或者電單車（明碼實價、唔使講價）、叫外賣、叫司機代買，配合內置嘅電子錢包 GoPay 出門幾乎唔使帶現金。同 Grab 比較，Gojek 嘅優勢係錢包內置（Grab 要另外註冊 OVO），註冊教學可以睇[Gojek 與 GoPay 註冊使用全指南](/blog/indonesia-gojek-gopay-guide/)。
+**先講結論**：去峇里島前一定要裝 **Gojek**——佢係印尼版嘅 Uber + 外賣 + 電子錢包三合一APP，可以叫汽車或者電單車（明碼實價、唔使講價）、叫外賣、叫司機代買，配合內置嘅電子錢包 GoPay 出門幾乎唔使帶現金。同 Grab 比較，Gojek 嘅優勢係錢包內置（Grab 要另外註冊 OVO），註冊教學可以睇[Gojek 與 GoPay 註冊使用全指南](/zh-hk/blog/indonesia-gojek-gopay-guide/)。
 
 如果你計劃去峇里島，或者已經喺印尼，咁Gojek絕對係你旅行或者生活入面唔可以冇嘅APP。等我哋一齊睇下呢款超方便嘅工具，同埋佢點樣改變你嘅旅程。
 
@@ -39,7 +39,7 @@ Gojek唔單止係一個APP，更加係一種簡單方便嘅生活方式。佢整
 
 唔止係交通，Gojek仲提供咗安全又方便嘅俾錢方式，你可以將錢存入Gojek嘅電子錢包「GoPay」度，咁樣出街就唔使帶住幾百萬現金喺身。你可以輕鬆用GoPay俾車錢、外賣訂單，甚至購物找數。呢種無現金嘅俾錢方式唔單止方便，仲可以幫你更好咁控制開支。
 
-延伸閱讀：[印尼/峇里島嘅Gojek與GoPay註冊、使用、增值教學全面指南](/blog/indonesia-gojek-gopay-guide/)
+延伸閱讀：[印尼/峇里島嘅Gojek與GoPay註冊、使用、增值教學全面指南](/zh-hk/blog/indonesia-gojek-gopay-guide/)
 
 ### **同Grab比較**
 
@@ -55,4 +55,4 @@ Gojek唔單止係一個APP，更加係一種簡單方便嘅生活方式。佢整
 
 👈 **返去峇里島自由行終極指南**
 
-想睇晒成個新手懶人包？[撳呢度睇「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。
+想睇晒成個新手懶人包？[撳呢度睇「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。

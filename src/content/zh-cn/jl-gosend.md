@@ -68,7 +68,7 @@ _srcHash: f57f1a84ceeb6c36e9ed452ef4a9fdfd
 他立刻採取兩個行動：
 
 - 聯絡水明漾的酒店，請工作人員協助尋找
-- 同時下載並註冊 : Gojek （如何下載註冊請看[這裡](/blog/indonesia-gojek-gopay-guide/)）
+- 同時下載並註冊 : Gojek （如何下載註冊請看[這裡](/zh-cn/blog/indonesia-gojek-gopay-guide/)）
 
 很快地，好消息傳來——頸枕找到了。
 
@@ -128,7 +128,7 @@ https://youtu.be/ByGkcmys01g
 
 最终，他们决定通过平台额外补上30,000印尼盾作为小费，表达感谢。
 
-> [到印尼/巴厘岛旅行必备的八大app推荐](/blog/bali-travel-apps-guide/)
+> [到印尼/巴厘岛旅行必备的八大app推荐](/zh-cn/blog/bali-travel-apps-guide/)
 
 ***
 ## 🙏幕后功臣：酒店人员

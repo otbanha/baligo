@@ -73,7 +73,7 @@ _srcHash: 6ddabb47db7b1ad25ca04cc1e4b1cc68
 
 目前最常見嘅就係 B1 同 C1 呢兩種：
 
-**快速參考：**[印尼/峇里島電子簽證eVisa/eVoa全攻略：申請步驟、注意事項一次掌握！](/blog/bali-evisa-application-guide/)
+**快速參考：**[印尼/峇里島電子簽證eVisa/eVoa全攻略：申請步驟、注意事項一次掌握！](/zh-hk/blog/bali-evisa-application-guide/)
 
 ### B1 簽證（Tourist Visa／觀光簽證）
 
@@ -148,7 +148,7 @@ C1 就係強調訪問、交流、考察，但一樣唔可以做嘢。
 
 入境嗰陣流程會順好多，亦都唔使排長龍。
 
-**快速參考：**[印尼/峇里島電子簽證eVisa/eVoa全攻略：申請步驟、注意事項一次掌握！](/blog/bali-evisa-application-guide/)
+**快速參考：**[印尼/峇里島電子簽證eVisa/eVoa全攻略：申請步驟、注意事項一次掌握！](/zh-hk/blog/bali-evisa-application-guide/)
 
 ## Q7：EVOA 可唔可以延期㗎？
 

@@ -148,7 +148,7 @@ https://youtu.be/ePutHL_Ob1Q
 
 有問題直接問，唔使一個人亂咁摸索。🙌
 
-> 睇更多：[峇里島唔好中伏攻略：18個常見錯誤同建議](/blog/bali-travel-mistakes-tips/)
+> 睇更多：[峇里島唔好中伏攻略：18個常見錯誤同建議](/zh-hk/blog/bali-travel-mistakes-tips/)
 
 {{block:klook}}
 

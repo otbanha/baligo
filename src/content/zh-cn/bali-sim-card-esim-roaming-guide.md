@@ -67,7 +67,7 @@ _srcHash: d867aa050268294f5def51dd914e2047
 
 ## eSIM推荐
 
-如果你的手机可以使用eSIM，信号最稳定、最推荐的eSIM方案是[这个](/blog/bali-esim-travel-guide/)！
+如果你的手机可以使用eSIM，信号最稳定、最推荐的eSIM方案是[这个](/zh-cn/blog/bali-esim-travel-guide/)！
 
 ![eSIM推荐](https://images.gobaligo.id/images/2026-03/1774795350035-d191a0b14c5f198b32ba296c4e0035b1.jpg)
 
@@ -79,4 +79,4 @@ _srcHash: d867aa050268294f5def51dd914e2047
 
 👈 **回到巴厘岛自由行终极指南**
 
-想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/zh-cn/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

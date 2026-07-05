@@ -189,7 +189,7 @@ https://youtube.com/shorts/TEO6Fnugku8?si=SI042vIiPj0K7Yzv
 
 https://youtube.com/shorts/3HHn9DdLzug
 
-> [【2026 巴厘岛 AYANA 全攻略】四间酒店怎么选？Segara、RIMBA 比较与 Rock Bar 预约秘技](/blog/ayana-resort-bali-guide/)
+> [【2026 巴厘岛 AYANA 全攻略】四间酒店怎么选？Segara、RIMBA 比较与 Rock Bar 预约秘技](/zh-cn/blog/ayana-resort-bali-guide/)
 
 ## **Movenpick Resort Jimbaran (莫凡彼)**
 

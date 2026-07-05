@@ -37,24 +37,24 @@ https://youtu.be/0M0voLfFLrQ
 
 ### Prosedur masuk & visa:
 
-- [Perubahan masuk Bali 2024 dalam 1 menit: Prosedur masuk Indonesia/Bali - dari turun pesawat/melewati imigrasi/sampai ambil bagasi](/blog/2025-bali-immigration-process/)
+- [Perubahan masuk Bali 2024 dalam 1 menit: Prosedur masuk Indonesia/Bali - dari turun pesawat/melewati imigrasi/sampai ambil bagasi](/id/blog/2025-bali-immigration-process/)
 
 ### Rekomendasi Tempat Wisata / Itinerary:
 
-- [Wajib Cek! 500 Tem Wisata Terbaru di Bali 2025, Kumpul Lengkap di Sini](/blog/bali-top-500-attractions/)
-- [Panduan Liburan Seru ke Bali: Transportasi, Akomodasi, Tempat Wisata, Kuliner, Belanja, Nightlife — Semua Terencana](/blog/bali-free-travel-guide/)
+- [Wajib Cek! 500 Tem Wisata Terbaru di Bali 2025, Kumpul Lengkap di Sini](/id/blog/bali-top-500-attractions/)
+- [Panduan Liburan Seru ke Bali: Transportasi, Akomodasi, Tempat Wisata, Kuliner, Belanja, Nightlife — Semua Terencana](/id/blog/bali-free-travel-guide/)
 
 ### Tips Kesehatan & Air Minum di Bali:
 
-- [Tips Sehat Travel ke Bali: Panduan Air Minum & Diare di Bali](/blog/bali-travel-health-tips/)
+- [Tips Sehat Travel ke Bali: Panduan Air Minum & Diare di Bali](/id/blog/bali-travel-health-tips/)
 
 ### Mata Uang & Penukaran:
 
-- [Panduan Lengkap Penukaran Uang di Indonesia/Bali: Pakai Uang Apa? Cara Tukar Paling Untung? Di Mana Tempat Terbaik?](/blog/bali-currency-exchange-guide/)
+- [Panduan Lengkap Penukaran Uang di Indonesia/Bali: Pakai Uang Apa? Cara Tukar Paling Untung? Di Mana Tempat Terbaik?](/id/blog/bali-currency-exchange-guide/)
 
 ### Soal Uang Tunai:
 
-- [Berapa Banyak Uang Tunai yang Harus Disiapkan untuk Liburan ke Bali?](/blog/bali-travel-cash-budget-guide/)
+- [Berapa Banyak Uang Tunai yang Harus Disiapkan untuk Liburan ke Bali?](/id/blog/bali-travel-cash-budget-guide/)
 
 ### Beli Sunscreen / Anti Nyamuk di Mana?
 
@@ -62,15 +62,15 @@ https://youtu.be/0M0voLfFLrQ
 
 ### Aturan Baru Bawa Power Bank:
 
-- [Power Bank & Kipas USB/Leher Bisa Bawa ke Pesawat? Rangkuman Aturan Terbaru 2025](/blog/airplane-power-bank-fan-rules-2025/)
+- [Power Bank & Kipas USB/Leher Bisa Bawa ke Pesawat? Rangkuman Aturan Terbaru 2025](/id/blog/airplane-power-bank-fan-rules-2025/)
 
 ### Bawa Obat-obatan:
 
-- [Hal Penting Bawa Obat Tidur/Obat Resep Khusus ke Indonesia/Bali](/blog/bali-medication-import-guide/)
+- [Hal Penting Bawa Obat Tidur/Obat Resep Khusus ke Indonesia/Bali](/id/blog/bali-medication-import-guide/)
 
 ### Wajib Baca buat Pertama ke Bali:
 
-- [32 Tips Travel Wajib Tahu buat Pertama ke Bali](/blog/bali-ultimate-guide-2026/)
+- [32 Tips Travel Wajib Tahu buat Pertama ke Bali](/id/blog/bali-ultimate-guide-2026/)
 
 ***
 
@@ -82,12 +82,12 @@ Sunscreen, obat nyamuk, obat perut, dan adaptor colokan paling sering kelewat. S
 
 ## Bawa uang tunai berapa ke Bali?
 
-Saran bawa USD cash secukupnya, nanti dituker di money changer resmi lokal. Jangan lupa kombinasikan dengan kartu kredit dan dompet digital GoPay biar risikonya terbagi. Untuk detail jumlahnya, cek [Panduan Budget Cash Bali](/blog/bali-travel-cash-budget-guide/).
+Saran bawa USD cash secukupnya, nanti dituker di money changer resmi lokal. Jangan lupa kombinasikan dengan kartu kredit dan dompet digital GoPay biar risikonya terbagi. Untuk detail jumlahnya, cek [Panduan Budget Cash Bali](/id/blog/bali-travel-cash-budget-guide/).
 
 ## Power bank boleh dibawa ke pesawat?
 
-Kebanyakan maskapai mewajibkan power bank dibawa di kabin, nggak boleh masuk bagasi. Ada juga batas kapasitasnya. Sebelum berangkat, pastikan cek aturan terbaru, detailnya di [Aturan Bawa Power Bank](/blog/airplane-power-bank-fan-rules-2025/).
+Kebanyakan maskapai mewajibkan power bank dibawa di kabin, nggak boleh masuk bagasi. Ada juga batas kapasitasnya. Sebelum berangkat, pastikan cek aturan terbaru, detailnya di [Aturan Bawa Power Bank](/id/blog/airplane-power-bank-fan-rules-2025/).
 
 ## Obat tidur atau obat resep bisa dibawa ke Indonesia?
 
-Hati-hati, ya! Indonesia punya aturan ketat soal obat-obatan tertentu. Kalau bawa obat resep, saran bawa surat keterangan dokter versi Inggris dan lapor sesuai aturan. Info lengkap di [Panduan Bawa Obat Resep ke Bali](/blog/bali-medication-import-guide/).
+Hati-hati, ya! Indonesia punya aturan ketat soal obat-obatan tertentu. Kalau bawa obat resep, saran bawa surat keterangan dokter versi Inggris dan lapor sesuai aturan. Info lengkap di [Panduan Bawa Obat Resep ke Bali](/id/blog/bali-medication-import-guide/).

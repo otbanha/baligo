@@ -32,7 +32,7 @@ Sebelum berangkat, dia saranin **urus e-visa online**. Pas masuk dengan paspor T
 
 Setelah ambil bagasi dan mau keluar bandara, kamu harus siapin **e-customs declaration**. Form ini wajib diurus duluan, pas lewat tinggal scan aja, bisa hemat waktu banget. Penting banget!
 
-> Baca juga: [【2026版】Panduan Masuk Bali Pakai Kartu Kedatangan 'All Indonesia'｜Pahami Proses Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi Lengkap](/blog/bali-all-indonesia-arrival-guide/)
+> Baca juga: [【2026版】Panduan Masuk Bali Pakai Kartu Kedatangan 'All Indonesia'｜Pahami Proses Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi Lengkap](/id/blog/bali-all-indonesia-arrival-guide/)
 
 Soal **pajak turis**, dia bilang terserah masing-masing mau bayar atau enggak. Secara pribadi, dia senang dukung kegiatan lingkungan kayak pelepasan penyu, meskipun ada yang meragukan penggunaan dana, setidaknya itu kontribusi buat lingkungan. Cuma USD$10, setara beberapa kaleng bir.
 
@@ -44,7 +44,7 @@ Soal **pajak turis**, dia bilang terserah masing-masing mau bayar atau enggak. S
 2. Sekarang Bali lumayan lebih tenang, setidaknya pantai-pantainya juga udah jauh lebih bersih dari polusi.
 3. Buat yang bingung mau masukin objek wisata apa aja, saran dia: Monkey Forest dan Ubud Palace emang worth it dikunjungi, tapi 5 menit aja cukup, nggak perlu buang waktu banyak. Sebaliknya, di seberang jalan istana ada Ubud Market, mungkin lebih seru jalan-jalan di sana. Kalau sawah terasering, di sepanjang jalan juga keliatan, jadi bisa diatur mau mampir atau nggak. Intinya, perjalanan itu sendiri udah pemandangan, mending fokus nikmatin dan santai aja.
 
-> Baca Juga: [Panduan Lengkap Ubud Bali 2025: 100 Cara Seru Mengenal Ubud Lebih Dalam | Eksplor Pesona Ubud](/blog/ubud-guide/)
+> Baca Juga: [Panduan Lengkap Ubud Bali 2025: 100 Cara Seru Mengenal Ubud Lebih Dalam | Eksplor Pesona Ubud](/id/blog/ubud-guide/)
 
 ## **Saran Akomodasi & Rencana Perjalanan:**
 
@@ -64,4 +64,4 @@ Terakhir, traveler yang sering bolak-balik Bali ini berharap bisa sharing pengal
 
 Klik di sini untuk lihat lebih banyak cerita seru dari Bali
 
-Kamu juga pengen nulis cerita traveling tapi bingung mulai dari mana? Coba deh lihat panduan '[Cara Menulis Cerita Traveling Bali yang Keren](/blog/how-to-write-bali-travelogue/)', biar ceritamu makin kece!
+Kamu juga pengen nulis cerita traveling tapi bingung mulai dari mana? Coba deh lihat panduan '[Cara Menulis Cerita Traveling Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)', biar ceritamu makin kece!

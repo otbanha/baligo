@@ -42,15 +42,15 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 
 Suhu rata-rata sekitar 27–30°C, tapi karena kelembapan dan sinar matahari, rasanya lebih gerah. Kalau bawa anak kecil atau orang tua, saran aku: atur "waktu jeda panas" sekitar tengah hari, balik ke hotel atau bersantai di ruangan ber-AC, bakal jauh lebih nyaman.
 
-> [Bali Bulan 1~12, Indeks Kesesuaian Wisata Setiap Bulan... Analisis Lengkap](/blog/bali-rainy-season-travel-guide/)
+> [Bali Bulan 1~12, Indeks Kesesuaian Wisata Setiap Bulan... Analisis Lengkap](/id/blog/bali-rainy-season-travel-guide/)
 
-> [60 Aktivitas Indoor buat Berteduh Hujan & Sinar Matahari](/blog/2026-bali-indoor-activities/)
+> [60 Aktivitas Indoor buat Berteduh Hujan & Sinar Matahari](/id/blog/2026-bali-indoor-activities/)
 
 ## 👨‍👩‍👧‍👦 Bawa Anak ke Bali, Pilih Daerah Mana yang Paling Cocok?
 
 Di antara wisatawan liburan musim panas, keluarga dengan anak-anak mendominasi. Banyak resor di Bali yang menjadikan Kids Club dan seluncuran air sebagai daya tarik utama, jadi orang tua nggak perlu repot mikirin hiburan tambahan.
 
-Kami udah siapin dua referensi khusus: "[Hotel dengan Kids Club](/blog/bali-family-resorts-kids-club/)" dan "[Resor dengan Seluncuran Air di Bali](/blog/bali-family-resorts-water-slides/)", biar keluarga yang bawa anak bisa langsung cek.
+Kami udah siapin dua referensi khusus: "[Hotel dengan Kids Club](/id/blog/bali-family-resorts-kids-club/)" dan "[Resor dengan Seluncuran Air di Bali](/id/blog/bali-family-resorts-water-slides/)", biar keluarga yang bawa anak bisa langsung cek.
 
 Kalau soal pilihan daerah, tiga tempat ini paling direkomendasiin:
 
@@ -60,7 +60,7 @@ Kalau soal pilihan daerah, tiga tempat ini paling direkomendasiin:
 
 Sanur itu daerah yang sering kelewat, padahal cocok banget buat liburan keluarga. Ombaknya tenang, pantainya bersih, nggak ada keramaian pesta kayak di Seminyak. Kamu bisa jalan kaki ke pantai, dan malamnya juga adem. Kalau ada anak kecil atau orang tua ikut, Sanur jadi pilihan yang bikin tenang.
 
-> 👉 Panduan lengkap bisa cek: [Panduan Liburan Keluarga ke Bali Musim Panas/Dingin: Panduan Lengkap Biar Liburan Keluarga Makin Santai –](/blog/sanur-family-travel-guide-2/) [Sanur](/blog/sanur-family-travel-guide-2/)
+> 👉 Panduan lengkap bisa cek: [Panduan Liburan Keluarga ke Bali Musim Panas/Dingin: Panduan Lengkap Biar Liburan Keluarga Makin Santai –](/id/blog/sanur-family-travel-guide-2/) [Sanur](/id/blog/sanur-family-travel-guide-2/)
 
 ### 📍 Seminyak
 
@@ -68,7 +68,7 @@ Sanur itu daerah yang sering kelewat, padahal cocok banget buat liburan keluarga
 
 Keunggulan Seminyak itu "semua ada" — belanja, restoran, beach club, resor berkualitas, lengkap. Kalau orang tua juga pengen punya waktu sendiri, nggak mau semua kegiatan cuma muter di anak, Seminyak bisa nampung kebutuhan orang dewasa dan anak-anak.
 
-> 👉 Panduan lengkap cek: [Panduan Liburan Keluarga ke Bali Musim Panas/Dingin: Panduan Lengkap Biar Liburan Keluarga Makin Santai – Seminyak](/blog/seminyak-family-travel-2026/)
+> 👉 Panduan lengkap cek: [Panduan Liburan Keluarga ke Bali Musim Panas/Dingin: Panduan Lengkap Biar Liburan Keluarga Makin Santai – Seminyak](/id/blog/seminyak-family-travel-2026/)
 
 ### 📍 Ubud
 
@@ -76,13 +76,13 @@ Keunggulan Seminyak itu "semua ada" — belanja, restoran, beach club, resor ber
 
 Ubud menawarkan pengalaman yang benar-benar berbeda. Di sini tidak ada pantai, yang ada adalah sawah terasering, budaya, hutan, dan segudang aktivitas keluarga—bahkan banyak anak-anak yang lebih betah di Ubud daripada di pantai, karena terlalu banyak hal seru yang bisa mereka lakukan.
 
-> 👉 Rencana detailnya bisa kamu lihat di: [Panduan Liburan Keluarga ke Bali saat Liburan Sekolah: Panduan Lengkap Biar Liburan Keluarga Makin Santai – Bagian Ubud](/blog/ubud-family-travel-2026/)
+> 👉 Rencana detailnya bisa kamu lihat di: [Panduan Liburan Keluarga ke Bali saat Liburan Sekolah: Panduan Lengkap Biar Liburan Keluarga Makin Santai – Bagian Ubud](/id/blog/ubud-family-travel-2026/)
 
 #### 🎨 Aktivitas Keluarga di Ubud, Banyak Banget Sampai Kamu Bingung Pilih
 
 Kami sudah menyusun panduan super lengkap aktivitas keluarga di Ubud, dengan lebih dari 55 pengalaman yang dirancang khusus untuk keluarga—mulai dari naik gajah, ATV off-road, arung jeram, sampai berbagai kursus kerajinan budaya. Seru banget, pasti nggak cukup satu kali liburan buat mencoba semuanya.
 
-> 👉 Detailnya bisa cek: [【Panduan Keluarga Ubud】Pilihan Aktivitas Liburan Keluarga di Bali: 55 Aktivitas Keluarga di Ubud yang Paling Santai Buat Anak-anak!](/blog/ubud-with-kids-guide/)
+> 👉 Detailnya bisa cek: [【Panduan Keluarga Ubud】Pilihan Aktivitas Liburan Keluarga di Bali: 55 Aktivitas Keluarga di Ubud yang Paling Santai Buat Anak-anak!](/id/blog/ubud-with-kids-guide/)
 
 Kelebihan panduan ini adalah aktivitasnya sudah dikelompokkan berdasarkan tingkat kesulitan dan usia anak. Jadi kamu nggak perlu repot riset sendiri, tinggal lihat dan atur jadwal.
 
@@ -92,7 +92,7 @@ Kelebihan panduan ini adalah aktivitasnya sudah dikelompokkan berdasarkan tingka
 
 Nusa Dua adalah pilihan utama liburan keluarga paling santai di Bali. Ini adalah kawasan resor tertutup dengan jalan yang lebar dan rapi, lingkungan yang super aman dan tenang—cocok banget buat jalan-jalan sambil dorong stroller. Ombak di pantainya juga landai, jadi anak-anak bisa bermain pasir dan air dengan aman. Selain itu, hotel-hotel bintang lima di sini kebanyakan punya kids club dan fasilitas bermain air yang lengkap, jadi begitu masuk hotel, seluruh keluarga bisa langsung menikmati liburan tanpa harus keluar.
 
-> 👉 Rencana detailnya bisa kamu lihat di: [Panduan Liburan Keluarga ke Nusa Dua saat Liburan Sekolah: 9 Destinasi One Day Trip, Rekomendasi Ramah Anak](/blog/2026-04-02-112654/)
+> 👉 Rencana detailnya bisa kamu lihat di: [Panduan Liburan Keluarga ke Nusa Dua saat Liburan Sekolah: 9 Destinasi One Day Trip, Rekomendasi Ramah Anak](/id/blog/2026-04-02-112654/)
 
 {{block:親子}}
 
@@ -105,9 +105,9 @@ Liburan musim panas kadang jadi momen kumpul tiga generasi — kakek-nenek ikut 
 Yang paling diperhatikan orang tua biasanya: jalannya enak apa nggak, kepanasan nggak, perlu naik banyak tangga nggak, dan gimana kalau tiba-tiba sakit.
 Kami sudah siapkan dua artikel khusus buat kebutuhan ini:
 
-> [Panduan Lengkap Bawa Orang Tua ke Bali — Dari ritme perjalanan, transportasi, sampai tips biar mereka nggak kelelahan, semua dijelasin detail.](/blog/bali-elderly-travel-guide/)
+> [Panduan Lengkap Bawa Orang Tua ke Bali — Dari ritme perjalanan, transportasi, sampai tips biar mereka nggak kelelahan, semua dijelasin detail.](/id/blog/bali-elderly-travel-guide/)
 
-> [Bawa Orang Tua ke Bali: Rekomendasi Tempat Wisata Ramah Lansia — Menilai aksesibilitas, jarak jalan kaki, dan kenyamanan tiap spot biar kamu punya acuan pas bikin itinerary.](/blog/bali-senior-friendly-travel-guide/)
+> [Bawa Orang Tua ke Bali: Rekomendasi Tempat Wisata Ramah Lansia — Menilai aksesibilitas, jarak jalan kaki, dan kenyamanan tiap spot biar kamu punya acuan pas bikin itinerary.](/id/blog/bali-senior-friendly-travel-guide/)
 
 ## 🏡  Pilihan Akomodasi
 
@@ -133,7 +133,7 @@ Banyak orang tua nggak cocok makan masakan Indonesia berhari-hari. Villa pribadi
 **✔ Dibagi rata, CP-nya gila-gilaan**
 Pilihan villa pribadi di Bali banyak banget, dari 3 kamar sampai 6 kamar lebih. Harga dibagi per keluarga, seringkali lebih murah daripada hotel bintang lima, tapi dapet ruangan lebih luas dan kebebasan lebih besar.
 
-> [Rekomendasi menginap villa pribadi 3/4/5/6+ kamar untuk keluarga di paket wisata grup bebas Bali](/blog/bali-group-villa-stay/)
+> [Rekomendasi menginap villa pribadi 3/4/5/6+ kamar untuk keluarga di paket wisata grup bebas Bali](/id/blog/bali-group-villa-stay/)
 
 ### Resor Bintang Lima
 
@@ -150,7 +150,7 @@ Kempinski adalah salah satu resor mewah di Bali yang punya arsitektur elegan, pe
 - Pesanan terakhir: 31 Mei 2026
 - Masa menginap: mulai sekarang sampai 31 Maret 2027
 
-> Info lebih lengkap bisa cek artikel: [Promo Terbatas Apurva Kempinski Bali](/blog/apurva-kempinski-bali-deal/)
+> Info lebih lengkap bisa cek artikel: [Promo Terbatas Apurva Kempinski Bali](/id/blog/apurva-kempinski-bali-deal/)
 
 {{block:住宿}}
 

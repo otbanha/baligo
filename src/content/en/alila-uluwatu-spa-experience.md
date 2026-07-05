@@ -82,7 +82,7 @@ Holding the unfinished herbal tea, I follow the sound of water to Alila's pride�
 
 ## Alila Uluwatu Accommodation Overview:
 
-[**【Redefining Luxury in Bali】Alila Villas Uluwatu｜Top 10 Infinity Pools in the World ✧ Celebrity Wedding Destination**](/blog/alila-villas-uluwatu-bali/)
+[**【Redefining Luxury in Bali】Alila Villas Uluwatu｜Top 10 Infinity Pools in the World ✧ Celebrity Wedding Destination**](/en/blog/alila-villas-uluwatu-bali/)
 
 ![Alila Uluwatu Accommodation Overview:](https://images.gobaligo.id/vocus/vocus_a94ea4e5d3d05549aa074f0913cf1946.jpg)
 

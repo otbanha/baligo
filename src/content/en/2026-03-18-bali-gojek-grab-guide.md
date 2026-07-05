@@ -16,7 +16,7 @@ lang: en
 _srcHash: 977adc8bfe7940d2372106117cdfb290
 ---
 
-[🚗 Want to estimate Gojek fares? Click here](/map/gojek-fare/)
+[🚗 Want to estimate Gojek fares? Click here](/en/map/gojek-fare/)
 
 ![【印尼/峇里島必備APP】Gojek / Grab 叫車圖文教學指南](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
 
@@ -98,7 +98,7 @@ While restrictions exist, their overall impact on tourists is limited. You can n
 3. Workaround: In such cases, walk about 5-10 minutes away from the area to a nearby main road or alley, then use the app to hail a ride. This usually works smoothly and offers fairer pricing.
 4. Alternative option: For full-day cross-regional sightseeing (e.g., from the south to Ubud or the volcanoes), booking a private car is a more common, comfortable, and hassle-free choice. Drivers often double as guides.
 
-Quick reference: [【Bali Private Car Hire Guide】](/blog/bali-private-car-hire-guide/)
+Quick reference: [【Bali Private Car Hire Guide】](/en/blog/bali-private-car-hire-guide/)
 ## ⚠️ Important Reminders
 
 __VID0__
@@ -114,4 +114,4 @@ In summary, online ride-hailing remains a viable tool in most areas of Bali, jus
 
 👈 **Back to Bali Ultimate Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read the '2026 Bali Ultimate Travel Guide'](/blog/bali-ultimate-guide-2026/) and understand everything you need to do before your trip.
+Want to see the complete beginner's guide? [Click here to read the '2026 Bali Ultimate Travel Guide'](/en/blog/bali-ultimate-guide-2026/) and understand everything you need to do before your trip.

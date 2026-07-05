@@ -93,7 +93,7 @@ Staying at La Cabane, you'll never be bored:
 
 ![More on Uluwatu's Food, Fun, and Attractions](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
-Uluwatu is one of the most popular areas in southern Bali, famed for its dramatic cliffside views, stunning beaches, and excellent surf spots. It exudes a romantic tropical vibe, making it a perfect choice for sunset views and leisurely escapes. If you're considering staying in Uluwatu, check out our curated guide to food, fun, and attractions to enrich your trip: [【Uluwatu Guide】Uluwatu Attractions & Recommendations](/blog/uluwatu-guide/)
+Uluwatu is one of the most popular areas in southern Bali, famed for its dramatic cliffside views, stunning beaches, and excellent surf spots. It exudes a romantic tropical vibe, making it a perfect choice for sunset views and leisurely escapes. If you're considering staying in Uluwatu, check out our curated guide to food, fun, and attractions to enrich your trip: [【Uluwatu Guide】Uluwatu Attractions & Recommendations](/en/blog/uluwatu-guide/)
 
 ## Tips and Info
 

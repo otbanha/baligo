@@ -68,7 +68,7 @@ _srcHash: b58708c2c5d9a7a87254dacf112d95ca
 
 **3月推薦旅遊地點清單**
 
-- **登巴薩 (Denpasar)：** 3/18 傍晚去 Puputan 廣場一帶，睇最壯觀、最原汁原味嘅 **Ogoh-ogoh 妖怪大遊行**。（請參考：[【寧靜日攻略】2026峇里島靜居日/寧靜日（Nyepi Day）｜妖怪大遊行須知](/blog/nyepi-day-bali-guide-2026/)）
+- **登巴薩 (Denpasar)：** 3/18 傍晚去 Puputan 廣場一帶，睇最壯觀、最原汁原味嘅 **Ogoh-ogoh 妖怪大遊行**。（請參考：[【寧靜日攻略】2026峇里島靜居日/寧靜日（Nyepi Day）｜妖怪大遊行須知](/zh-hk/blog/nyepi-day-bali-guide-2026/)）
 - **烏魯瓦圖 (Uluwatu) 斷崖度假村：** 3/19-20 **靜居日 (Nyepi)** 期間，留喺擁有壯麗海景嘅度假村內。呢度光害極少，係全島觀賞「靜居日銀河」嘅最佳地點。（請參考：[烏魯瓦圖 Uluwatu住宿推薦：13間無敵海景的私密別墅渡假村](https://s.id/uluwatu_Stay)）
 
 ![3 月：喺極致熱鬧同絕對靜止之間](https://images.gobaligo.id/vocus/vocus_808475a368c14385c6ee2c414ee6f88b.png)
@@ -88,9 +88,9 @@ _srcHash: b58708c2c5d9a7a87254dacf112d95ca
 
 **4月推薦旅遊地點清單**
 
-- **烏布 (Ubud)：** 呢個時候係 **Bali Spirit Festival** 嘅主場。推薦你住喺聖猴森林附近嘅瑜伽教室，或者去 **The Yoga Barn** 參加工作坊。（請參考：[峇里島烏布瑜伽住宿推薦：10間結合瑜珈課程與心靈放鬆嘅夢幻選擇](/blog/ubud-yoga-retreats-bali/)）
-- **德哥拉朗梯田 (Tegallalang)：** 4 月雨水減少，陽光穿透翠綠梯田嘅光影最迷人，適合清晨漫步避開熱浪。（請參考：[峇里島Tegalalang德格拉朗、Jatiluwih賈提魯維兩大梯田區拜訪攻略｜入場門票幾錢？最佳拜訪時間/季節？](/blog/bali-rice-terraces-comparison/)）
-- **詹普漢山脊步道 (Campuhan Ridge Walk)：** 氣候轉乾，步道唔再濕滑，適合傍晚散步。（請參考：[烏布中心步行可到嘅距離居然有咁樣嘅天堂？「烏布天空步道」Campuhan Ridge Walk介紹](/blog/ubud-campuhan-ridge-walk/)）
+- **烏布 (Ubud)：** 呢個時候係 **Bali Spirit Festival** 嘅主場。推薦你住喺聖猴森林附近嘅瑜伽教室，或者去 **The Yoga Barn** 參加工作坊。（請參考：[峇里島烏布瑜伽住宿推薦：10間結合瑜珈課程與心靈放鬆嘅夢幻選擇](/zh-hk/blog/ubud-yoga-retreats-bali/)）
+- **德哥拉朗梯田 (Tegallalang)：** 4 月雨水減少，陽光穿透翠綠梯田嘅光影最迷人，適合清晨漫步避開熱浪。（請參考：[峇里島Tegalalang德格拉朗、Jatiluwih賈提魯維兩大梯田區拜訪攻略｜入場門票幾錢？最佳拜訪時間/季節？](/zh-hk/blog/bali-rice-terraces-comparison/)）
+- **詹普漢山脊步道 (Campuhan Ridge Walk)：** 氣候轉乾，步道唔再濕滑，適合傍晚散步。（請參考：[烏布中心步行可到嘅距離居然有咁樣嘅天堂？「烏布天空步道」Campuhan Ridge Walk介紹](/zh-hk/blog/ubud-campuhan-ridge-walk/)）
 
 ![4 月：身心靈嘅甦醒時刻](https://images.gobaligo.id/vocus/vocus_e25ce066777027e59ef06a60eb4c681b.png)
 
@@ -112,9 +112,9 @@ _srcHash: b58708c2c5d9a7a87254dacf112d95ca
 **5月推薦旅遊地點清單**
 
 - **烏布中心區 (Ubud Center)：** 為咗 **烏布美食節**，一定要住喺中心區附近，方便穿梭喺各個長桌午餐同廚師講座之間。（請參考[烏布住宿推薦](https://s.id/UbudResorts)）
-- **水上活動：**呢個時候冇旺季嘅人潮但係有最好嘅天氣！（請參考[峇里島水上活動完整指南｜峇里島唔只浮潛！15種意想不到嘅水上玩法](/blog/2026-bali-water-activities/)）
-- **離島探險/浮潛：** 5 月海況趨於穩定，係前往 **藍夢島** 或者去 **佩尼達島** 浮潛睇魔鬼魚嘅最佳時機。（請參考[藍夢島攻略](/blog/nusa-lembongan-ceningan-guide/) / [佩尼達島攻略](https://s.id/penida_guide)）
-- **土蘭奔 (Tulamben)：** 乾季報到，水下能見度極佳，適合探索沉船潛水。(請參考[峇里島東北角秘境：艾眉 Amed 同土蘭奔 Tulamben 完整攻略](/blog/amed-tulamben-diving-guide/))
+- **水上活動：**呢個時候冇旺季嘅人潮但係有最好嘅天氣！（請參考[峇里島水上活動完整指南｜峇里島唔只浮潛！15種意想不到嘅水上玩法](/zh-hk/blog/2026-bali-water-activities/)）
+- **離島探險/浮潛：** 5 月海況趨於穩定，係前往 **藍夢島** 或者去 **佩尼達島** 浮潛睇魔鬼魚嘅最佳時機。（請參考[藍夢島攻略](/zh-hk/blog/nusa-lembongan-ceningan-guide/) / [佩尼達島攻略](https://s.id/penida_guide)）
+- **土蘭奔 (Tulamben)：** 乾季報到，水下能見度極佳，適合探索沉船潛水。(請參考[峇里島東北角秘境：艾眉 Amed 同土蘭奔 Tulamben 完整攻略](/zh-hk/blog/amed-tulamben-diving-guide/))
 
 ![5 月：食貨同戶外控嘅黃金月](https://images.gobaligo.id/vocus/vocus_e417ec268a8acaeff77d38f72eb5db82.png)
 
@@ -134,15 +134,15 @@ _srcHash: b58708c2c5d9a7a87254dacf112d95ca
 
 **6月推薦旅遊地點清單**
 
-- **登巴薩藝術中心 (Werdhi Budaya Art Centre)：** 6 月成個月係 **峇里島藝術節 (PKB)**，每日下晝到夜晚都有頂級嘅傳統舞蹈同戲劇演出。（請參考[登巴薩攻略地圖](/blog/denpasar-culture-guide/)）
-- **巴杜爾火山 (Mount Batur)：** 6 月係全年最乾爽、清晨最涼爽嘅月份，非常適合攀登火山睇日出，雲海機會極高。（請參考[峇里島金塔瑪尼巴杜爾火山湖｜日出登山 × 皇家遊船 × 湖景咖啡廳 × 山林遊樂場 × 火山溫泉全攻略](/blog/batur-lake-volcano-guide/)）
-- **潘達瓦海灘 (Pandawa Beach)：** 參加 **潘達瓦海灘節**，喺湛藍嘅海邊享受文化遊行同音樂表演。（峇里島南端連成一氣點玩？請睇[【武吉半島冒險指南】從金巴蘭日落到烏魯瓦圖懸崖寺廟：峇里島南端嘅隱藏天堂](/blog/bukit-peninsula-guide/)）
+- **登巴薩藝術中心 (Werdhi Budaya Art Centre)：** 6 月成個月係 **峇里島藝術節 (PKB)**，每日下晝到夜晚都有頂級嘅傳統舞蹈同戲劇演出。（請參考[登巴薩攻略地圖](/zh-hk/blog/denpasar-culture-guide/)）
+- **巴杜爾火山 (Mount Batur)：** 6 月係全年最乾爽、清晨最涼爽嘅月份，非常適合攀登火山睇日出，雲海機會極高。（請參考[峇里島金塔瑪尼巴杜爾火山湖｜日出登山 × 皇家遊船 × 湖景咖啡廳 × 山林遊樂場 × 火山溫泉全攻略](/zh-hk/blog/batur-lake-volcano-guide/)）
+- **潘達瓦海灘 (Pandawa Beach)：** 參加 **潘達瓦海灘節**，喺湛藍嘅海邊享受文化遊行同音樂表演。（峇里島南端連成一氣點玩？請睇[【武吉半島冒險指南】從金巴蘭日落到烏魯瓦圖懸崖寺廟：峇里島南端嘅隱藏天堂](/zh-hk/blog/bukit-peninsula-guide/)）
 
 ![6 月：文化與美感嘅巔峰](https://images.gobaligo.id/vocus/vocus_6b96e31d9a9ab513eda3d295cd7a5da3.png)
 
 ## 💡 小編嘅聰明旅遊筆記
 
-1. **穿衣哲學：** 3、4 月請準備好雨衣同排汗衣；5、6 月除咗夏裝，請多帶一件薄外套，因為有時夜晚嘅涼風真係會令你起雞皮。可以睇睇[巴里島要帶外套嗎？峇里島穿搭攻略：旅行中必帶嘅8件衣物](/blog/bali-packing-essentials/)
+1. **穿衣哲學：** 3、4 月請準備好雨衣同排汗衣；5、6 月除咗夏裝，請多帶一件薄外套，因為有時夜晚嘅涼風真係會令你起雞皮。可以睇睇[巴里島要帶外套嗎？峇里島穿搭攻略：旅行中必帶嘅8件衣物](/zh-hk/blog/bali-packing-essentials/)
 2. **避開地雷區：** 再次強調，3 月中下旬嘅開齋節係「**本地人旺季**」，若非必要，請將假期挪至 4 月後。
 3. **預約建議：** 想參加烏布美食節或靈性節嘅朋友，呢兩大活動期間烏布市區會非常擠迫，建議提早三個月訂房。
 
@@ -152,8 +152,8 @@ __VID3__
 
 **快速參考：**
 
-- [更多2026峇里島節慶整理](/blog/2026-bali-festival-guide/)
-- [2026上半年請假攻略](/blog/2026-bali-holiday-planning/)]
+- [更多2026峇里島節慶整理](/zh-hk/blog/2026-bali-festival-guide/)
+- [2026上半年請假攻略](/zh-hk/blog/2026-bali-holiday-planning/)]
 
 {{block:klook}}
 
@@ -161,4 +161,4 @@ __VID3__
 
 👈 **返去峇里島自由行終極指南**
 
-想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次搞掂出發前要做咩。
+想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次搞掂出發前要做咩。

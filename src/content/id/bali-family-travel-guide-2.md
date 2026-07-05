@@ -49,25 +49,25 @@ Bawa balita jalan-jalan, jebakan terbesarnya adalah 'pikiran sampai di sana aja'
 - Pastikan akomodasi menyediakan baby cot, ada fasilitas bermain anak
 - Rencanakan ritme harian, jangan terlalu padat, balita butuh waktu tidur siang
 
-Perencanaan anggaran juga penting. Biaya liburan bawa anak lebih besar dari orang dewasa, apalagi kalau beli obat atau perlengkapan anak di pulau, harganya sering lebih mahal dari Taiwan. Baca juga: [Berapa Banyak Uang Tunai yang Harus Disiapkan untuk Liburan ke Bali?](/blog/bali-travel-cash-budget-guide/)
+Perencanaan anggaran juga penting. Biaya liburan bawa anak lebih besar dari orang dewasa, apalagi kalau beli obat atau perlengkapan anak di pulau, harganya sering lebih mahal dari Taiwan. Baca juga: [Berapa Banyak Uang Tunai yang Harus Disiapkan untuk Liburan ke Bali?](/id/blog/bali-travel-cash-budget-guide/)
 
 ### Pilih Akomodasi yang Tepat, Liburan Keluarga Sudah Setengah Berhasil
 
 Bali punya banyak hotel yang khusus dirancang untuk keluarga, lengkap dengan baby cot, Kids Club, kolam renang anak, dan menu makanan anak. Kalau bawa balita yang baru belajar jalan, mending pilih villa dengan kolam berpagar atau kolam pribadi — lebih aman banget.
 
-Selain itu, Bali juga punya layanan sewa perlengkapan bayi dan balita (bisa dipesan lewat Klook), termasuk car seat, stroller, baby cot, rompi renang, dan pagar kolam. Kalau nggak mau bawa koper gede di pesawat, sewa di tempat langsung itu pilihan yang worth it. Cek juga rekomendasi [hotel liburan keluarga di Bali](/blog/bali-family-travel-guide/) ini.
+Selain itu, Bali juga punya layanan sewa perlengkapan bayi dan balita (bisa dipesan lewat Klook), termasuk car seat, stroller, baby cot, rompi renang, dan pagar kolam. Kalau nggak mau bawa koper gede di pesawat, sewa di tempat langsung itu pilihan yang worth it. Cek juga rekomendasi [hotel liburan keluarga di Bali](/id/blog/bali-family-travel-guide/) ini.
 
 ![峇里島親子住宿推薦](https://images.gobaligo.id/vocus/vocus_ded3431198378280b186990e0cda284a.jpg)
 
-[Rekomendasi penginapan keluarga di Bali](/blog/bali-family-travel-guide/)
+[Rekomendasi penginapan keluarga di Bali](/id/blog/bali-family-travel-guide/)
 
-> Baca juga: [Taman Hiburan Keluarga Bali: 15 Resor Keluarga dengan Seluncuran Air Terbaik TOP 1](/blog/bali-family-resorts-water-slides/)
+> Baca juga: [Taman Hiburan Keluarga Bali: 15 Resor Keluarga dengan Seluncuran Air Terbaik TOP 1](/id/blog/bali-family-resorts-water-slides/)
 
-> Baca juga: [Rekomendasi 13 Resor Keluarga di Bali｜Kuta, Seminyak, Canggu, Jimbaran, Uluwatu — Pilihan Terbaik untuk Liburan Keluarga dan Relaksasi](/blog/bali-family-resorts-kids-club/)
+> Baca juga: [Rekomendasi 13 Resor Keluarga di Bali｜Kuta, Seminyak, Canggu, Jimbaran, Uluwatu — Pilihan Terbaik untuk Liburan Keluarga dan Relaksasi](/id/blog/bali-family-resorts-kids-club/)
 
-> [【Rekomendasi Penginapan Bali】Liburan Keluarga Nggak Perlu Berdesakan! 13 Resor Keluarga Super dengan Kamar Quad — Analisis Lengkap Area](/blog/bali-family-room-resorts/)
+> [【Rekomendasi Penginapan Bali】Liburan Keluarga Nggak Perlu Berdesakan! 13 Resor Keluarga Super dengan Kamar Quad — Analisis Lengkap Area](/id/blog/bali-family-room-resorts/)
 
-> [Panduan Liburan Bareng Anak dan Orang Tua: Rekomendasi 4 Area Utama, Cuaca Musim Kemarau, dan Penginapan](/blog/2026-03-30-113245/)
+> [Panduan Liburan Bareng Anak dan Orang Tua: Rekomendasi 4 Area Utama, Cuaca Musim Kemarau, dan Penginapan](/id/blog/2026-03-30-113245/)
 
 {{block:親子}}
 
@@ -128,13 +128,13 @@ Obat-obatan lain yang disarankan dibawa:
 
 Yang paling penting: **jangan lupa asuransi perjalanan medis sebelum berangkat**. Rumah sakit swasta di Bali kualitasnya lumayan, tapi biayanya mahal banget. Kalau nggak punya asuransi, kejadian darurat bisa bikin dompet jebol.
 
-Bisa cek juga artikel「[21 Barang Wajib Bawa Saat Travel ke Bali](/blog/bali-travel-essentials/)」dan「[Bawa Bayi ke Bali: Tips Bawa MPASI Daging Babi & Ayam](/blog/baby-food-bali-tips/)」
+Bisa cek juga artikel「[21 Barang Wajib Bawa Saat Travel ke Bali](/id/blog/bali-travel-essentials/)」dan「[Bawa Bayi ke Bali: Tips Bawa MPASI Daging Babi & Ayam](/id/blog/baby-food-bali-tips/)」
 
 ### **Sumber Daya Baby Sitter: Nggak Harus Nahan Sendiri**
 
 ![Sumber Daya Baby Sitter: Nggak Harus Nahan Sendiri](https://images.gobaligo.id/vocus/vocus_7f570b4b0f39515ecb5982207e21e909.png)
 
-Banyak orang tua dari Taiwan yang nggak tahu kalau Bali punya industri baby sitter yang cukup matang, banyak keluarga ekspat dan turis yang udah pakai. Kalau kamu pengen sesekali ambil napas, atau butuh ada yang jagain anak saat orang dewasa ada acara, baby sitter di Bali ternyata lebih gampang dicari dari yang kamu bayangin. Gimana cara cari baby sitter? Apa aja yang perlu diperhatikan? Berapa biayanya? Cek artikel khusus ini: 「[Panduan Cari Baby Sitter di Bali: Cara Cari Baby Sitter yang Cocok & Perkiraan Biaya](/blog/bali-nanny-hiring-guide/)」
+Banyak orang tua dari Taiwan yang nggak tahu kalau Bali punya industri baby sitter yang cukup matang, banyak keluarga ekspat dan turis yang udah pakai. Kalau kamu pengen sesekali ambil napas, atau butuh ada yang jagain anak saat orang dewasa ada acara, baby sitter di Bali ternyata lebih gampang dicari dari yang kamu bayangin. Gimana cara cari baby sitter? Apa aja yang perlu diperhatikan? Berapa biayanya? Cek artikel khusus ini: 「[Panduan Cari Baby Sitter di Bali: Cara Cari Baby Sitter yang Cocok & Perkiraan Biaya](/id/blog/bali-nanny-hiring-guide/)」
 
 ### **5. Pilih Tempat Wisata/Aktivitas yang Cocok untuk Anak:**
 

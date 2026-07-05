@@ -34,7 +34,7 @@ Additionally, the tourism tax is used to support cultural preservation and promo
 
 In summary, Bali's tourism tax system is an innovative approach aimed at improving the quality of life for local communities and protecting the natural environment through the sustainable development of tourism. By educating tourists about the purpose and use of the tourism tax, Bali hopes to inspire more support and participation, collectively building a better Bali.
 
-Since only 70% of travelers actually pay the tourism tax, [Bali has started random checks on tourism tax payments from March 26th!](/blog/bali-tourism-tax-update/) To be a responsible Bali tourist, we still recommend that you pay it!
+Since only 70% of travelers actually pay the tourism tax, [Bali has started random checks on tourism tax payments from March 26th!](/en/blog/bali-tourism-tax-update/) To be a responsible Bali tourist, we still recommend that you pay it!
 
 ![Is it optional? What exactly is Bali's tourism tax?](https://images.gobaligo.id/vocus/vocus_7b65cf3a3a36d6fec5bc94d0b20dc173.png)
 
@@ -49,7 +49,7 @@ Since only 70% of travelers actually pay the tourism tax, [Bali has started rand
 
 **The tourism tax is a commitment to Bali—if you love its beauty, you should contribute to its sustainability.**
 
-Read more: [Bali Tourism Tax Guide 2024: New Rules, Payment Methods, and Island-Hopping Tips](/blog/2026-bali-tourism-tax-guide/)
+Read more: [Bali Tourism Tax Guide 2024: New Rules, Payment Methods, and Island-Hopping Tips](/en/blog/2026-bali-tourism-tax-guide/)
 
 ## 
 

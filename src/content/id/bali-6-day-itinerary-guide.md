@@ -45,7 +45,7 @@ Setelah makan malam, kami kembali ke penginapan malam itu — **Komaneka at Rasa
 
 > Komaneka at Rasa Sayang 房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=256185) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685387&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaycLFJMEkNYmF4_nZrtOsQuyGpmYGhgZGBhtFLFqbGR09HlaJrDvc5uApss79YZVLj0MAT8SUA8-nsSdauroX_TwY6NDFyAoWmMF4-pXmCkbGjYzGIMCc5rCDkekAI9MJxvcKC5imLL5vdoqFmWMT2yWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJsYWOoZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGXywMTawMXazMHKeYJgHJ9wq7WPn9IkPM_Bx1w80iXXWjdA0vsO5UlpI3NDAwMDU0NjXVNUi0TDQ1TjbUNbE0MTI31DU2tjA107gztfPmE2MjaylIClBg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmpubm5mGWXDxRwa7CKYfvV5lraZtIMUc0i4i-LkoAtvVXtP22sxe7oEGX7Qe7693drSPnDP65wT9sYL7CPXz6zZfBYon8RalaEbEp7RK17A2MDI1MXILcDowRjBWAHkMa5iZOdiNjAyFGDawMi4g_E_DDC-YgRZAgB1UectBQMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-33856&detailFilters=17|1~17~1*31|685387~31~685387*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=285&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/j3XfJIPj)
 
-Sudah masuk di [【Bali Ubud住宿】Ubud 30+特色住宿，體驗Bali山林美景中的奇幻之旅！](https://gobaligo.id/blog/ubud-resorts-guide/)
+Sudah masuk di [【Bali Ubud住宿】Ubud 30+特色住宿，體驗Bali山林美景中的奇幻之旅！](https://gobaligo.id/id/blog/ubud-resorts-guide/)
 
 
 ## 14 Agustus: Jalan-jalan di Ubud dan Sekitarnya
@@ -74,7 +74,7 @@ Oscar Lin提供
 
 Sore harinya, kita sewa mobil lagi ke **Uluwatu** (Pura Luhur Uluwatu) buat nonton pertunjukan tari api yang terkenal. Perjalanan dari Ubud ke sini butuh sekitar tiga jam, tapi sopirnya bawa mobil dengan stabil banget, jadi kita merasa aman. Sesampainya di tujuan, kuil di tebing ini bener-bener bikin kita terkesima — pemandangannya spektakuler ditambah pertunjukan tari api, pengalaman unik ini bikin perjalanan jauh tadi terasa worth it banget.
 
-> Catatan redaksi: Penasaran tari api itu ngapain aja? Cek: [Kecak Fire Dance – Pertunjukan Tari Kecak yang Wajib Ditonton di Bali (lengkap info tiket)](/blog/kecak-fire-dance-bali/)
+> Catatan redaksi: Penasaran tari api itu ngapain aja? Cek: [Kecak Fire Dance – Pertunjukan Tari Kecak yang Wajib Ditonton di Bali (lengkap info tiket)](/id/blog/kecak-fire-dance-bali/)
 
 Malamnya, kita pergi ke **Bali Collection** buat makan malam. Ini mall besar yang punya banyak restoran dan toko, cocok banget buat makan dan belanja sekeluarga.
 
@@ -114,7 +114,7 @@ Di hari terakhir, kita sewa mobil lagi buat jalan-jalan seharian. Destinasi pert
 
 https://youtu.be/Czw4ALduV14
 
-> [Info lengkap Oneeighty Dayclub & cara booking](/blog/oneeighty-dayclub-uluwatu-pool/)
+> [Info lengkap Oneeighty Dayclub & cara booking](/id/blog/oneeighty-dayclub-uluwatu-pool/)
 
 Setelah itu, kita lanjut ke **Rock Bar** yang ada di pesisir barat daya Bali. Pemandangan sunset di sini bener-bener unforgettable, apalagi pas lampu-lampu mulai nyala — suasananya makin magical. Kita pesen beberapa minuman, nikmatin pemandangan pelan-pelan. Momen ini definitely jadi yang paling romantis selama trip ke Bali.
 
@@ -124,7 +124,7 @@ Dokumentasi oleh Oscar Lin
 
 https://youtube.com/shorts/tHRxnJqxqbw
 
-> 編按：如何預約Rock Bar？請參考我們的「[峇里島金巴蘭岩石酒吧 Rock Bar 如何預約？完整體驗攻略！](/blog/bali-rock-bar-reservation-guide/)」
+> 編按：如何預約Rock Bar？請參考我們的「[峇里島金巴蘭岩石酒吧 Rock Bar 如何預約？完整體驗攻略！](/id/blog/bali-rock-bar-reservation-guide/)」
 
 Akhirnya, kita menutup hari itu dengan pijatan di **Calma Spa** sesuai rekomendasi supir. Suasananya elegan banget, teknik pijatnya juga profesional, bikin kita tanpa sadar rileks sampai ketiduran.
 
@@ -143,7 +143,7 @@ Oscar Lin menyediakan
 Di perjalanan ini, kami rekomendasi banget **Jon Devn (Agus)** sebagai supir sewaan. Dia dikenalin sama Satrya, cara nyetirnya stabil banget, nggak suka ngebut atau klakson sembarangan, bikin kita merasa aman di jalan pegunungan Bali. Sikapnya juga sopan, mobilnya bersih rapi. Kalau ada perlu bantuan selama perjalanan, dia dengan senang hati bantu, bikin liburan makin asyik dan nyaman.
 
 > 編按：Supir ini juga langganan di papan nama kami, lho!
-> [【Rekomendasi Supir Sewaan Bali】Daftar Sopir Terbaik versi Netizen: Lihat Review Asli untuk Temukan Supir yang Cocok](/blog/bali-private-car-drivers-guide/)
+> [【Rekomendasi Supir Sewaan Bali】Daftar Sopir Terbaik versi Netizen: Lihat Review Asli untuk Temukan Supir yang Cocok](/id/blog/bali-private-car-drivers-guide/)
 
 Kamu merasa perjalanan Oscar Lin seru banget? Yuk, segera atur liburan Bali versi kamu sendiri! Jangan lupa kirim itinerary kamu ke grup ya!
 

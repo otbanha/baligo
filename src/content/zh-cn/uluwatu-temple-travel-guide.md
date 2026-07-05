@@ -114,7 +114,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 2. **巴厘岛其他日落景点比较**
    虽然巴厘岛有许多令人惊叹的日落景点，但乌鲁瓦图因其独特的氛围脱颖而出。与位于海边岩石上的海神庙（Tanah Lot）不同，乌鲁瓦图的悬崖位置为日落体验增添了额外的戏剧性。
 
-> 快速参考：[【掌握巴厘岛日落时间最佳观赏指南】七大巴厘岛日落观赏地点，你去过几个？](/blog/bali-sunset-spots-guide/)
+> 快速参考：[【掌握巴厘岛日落时间最佳观赏指南】七大巴厘岛日落观赏地点，你去过几个？](/zh-cn/blog/bali-sunset-spots-guide/)
 
 ![乌鲁瓦图庙的日落美景](https://images.gobaligo.id/vocus/vocus_83bd89800dff26aa55bcb32163b06b3b.jpg)
 
@@ -152,9 +152,9 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 ![蘇魯班海灘的介紹請點擊這裡！](https://images.gobaligo.id/vocus/vocus_1f543921995ff41fd729e05772f35ee4.jpg)
 
-[苏鲁班海滩的介绍请点击这里！](/blog/suluban-beach-hidden-gem/)
+[苏鲁班海滩的介绍请点击这里！](/zh-cn/blog/suluban-beach-hidden-gem/)
 
-如果你已经来到巴厘岛南部，不妨顺道参观以下景点：**神鹰广场（Garuda Wisnu Kencana, GWK）、苏鲁班海滩（Suluban Beach）、潘达瓦海滩（Pandawa Beach）、Oneeighty Dayclub等，这些地点的介绍请参考我们的**[武吉半岛冒险指南](/blog/bukit-peninsula-guide/)
+如果你已经来到巴厘岛南部，不妨顺道参观以下景点：**神鹰广场（Garuda Wisnu Kencana, GWK）、苏鲁班海滩（Suluban Beach）、潘达瓦海滩（Pandawa Beach）、Oneeighty Dayclub等，这些地点的介绍请参考我们的**[武吉半岛冒险指南](/zh-cn/blog/bukit-peninsula-guide/)
 
 ***
 
@@ -206,10 +206,10 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 **8. 如何安排巴厘岛乌鲁瓦图寺的行程？**
 
-这附近一带的上百个景点，**我们都收集在我们的**[武吉半岛冒险指南](/blog/bukit-peninsula-guide/)
+这附近一带的上百个景点，**我们都收集在我们的**[武吉半岛冒险指南](/zh-cn/blog/bukit-peninsula-guide/)
 
 ![武吉半島攻略指南請點我](https://images.gobaligo.id/vocus/vocus_c0550a000561d9e7a5ab19d076dfcba5.jpg)
 
-[武吉半岛攻略指南请点我](/blog/bukit-peninsula-guide/)
+[武吉半岛攻略指南请点我](/zh-cn/blog/bukit-peninsula-guide/)
 
 {{block:uluwatu}}

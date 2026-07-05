@@ -47,7 +47,7 @@ _srcHash: 33874c0a0d1e6c9073b34ab21fbef40d
 
 冇嘢好得過租架電單車去探險；搵到少人嘅沙灘，發掘隱蔽嘅小巷，走入涼爽嘅咖啡館同莊嚴嘅寺廟。由水明漾出發，你可以輕鬆去到北面嘅坎古，或者向南少少去庫塔、雷吉安探險。
 
-但係租電單車都有佢嘅危險同好大嘅唔確定性（參考[呢度](/blog/bali-motorbike-safety-guide/)），試之前要有「交通狀況唔係你想像咁樣」、「發生意外受傷要俾巨額醫療費」、「俾警察截查有理說不清」嘅心理準備！好彩靠科技，而家喺峇里島短途出行，用叫車App肯定係更好嘅選擇！透過呢啲應用程式，你可以輕鬆叫到電單車，唔單止慳時間慳力，仲可以避開繁忙嘅交通同搵車位嘅煩惱。只需幾下點擊，就可以即時預約到附近嘅電單車司機，令你快啲去到目的地，享受更多旅遊樂趣。無論係探索隱蔽嘅小巷，定係去熱鬧嘅購物區，叫車App都可以令你嘅峇里島之行更加方便愉快。請參考「[叫車App叫電單車，慳時間慳力！](/blog/bali-travel-app-motorcycle-taxi/)」
+但係租電單車都有佢嘅危險同好大嘅唔確定性（參考[呢度](/zh-hk/blog/bali-motorbike-safety-guide/)），試之前要有「交通狀況唔係你想像咁樣」、「發生意外受傷要俾巨額醫療費」、「俾警察截查有理說不清」嘅心理準備！好彩靠科技，而家喺峇里島短途出行，用叫車App肯定係更好嘅選擇！透過呢啲應用程式，你可以輕鬆叫到電單車，唔單止慳時間慳力，仲可以避開繁忙嘅交通同搵車位嘅煩惱。只需幾下點擊，就可以即時預約到附近嘅電單車司機，令你快啲去到目的地，享受更多旅遊樂趣。無論係探索隱蔽嘅小巷，定係去熱鬧嘅購物區，叫車App都可以令你嘅峇里島之行更加方便愉快。請參考「[叫車App叫電單車，慳時間慳力！](/zh-hk/blog/bali-travel-app-motorcycle-taxi/)」
 
 ## 拜訪寺廟
 
@@ -120,7 +120,7 @@ https://youtube.com/shorts/wai2lSW3vVU
 - [Kudeta梳化床預約](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1004610&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F135291-kudeta-beach-club-in-seminyak-bali%2F)
 - [SugarSand泳池餐廳](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1004610&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F61915-sugarsand-bali%2F)
 
-> 延伸閱讀：[峇里島20個免費入場嘅沙灘俱樂部 享受比堅尼、音樂、泳池、夕陽美景](/blog/bali-beach-clubs-free-entry-list/)
+> 延伸閱讀：[峇里島20個免費入場嘅沙灘俱樂部 享受比堅尼、音樂、泳池、夕陽美景](/zh-hk/blog/bali-beach-clubs-free-entry-list/)
 
 ## 享用美味豬肋排
 
@@ -150,7 +150,7 @@ https://youtu.be/RodQvCZKwD0
 
 ## 想搵更多好玩嘅嘢？
 
-完整嘅水明漾景點、美食、夜店介紹晒喺度：[水明漾景點Seminyak峇里島必去地點地圖：100個吃喝玩樂全面介紹](/blog/seminyak-guide/)
+完整嘅水明漾景點、美食、夜店介紹晒喺度：[水明漾景點Seminyak峇里島必去地點地圖：100個吃喝玩樂全面介紹](/zh-hk/blog/seminyak-guide/)
 
 {{block:攻略}}
 
@@ -158,4 +158,4 @@ https://youtu.be/RodQvCZKwD0
 
 👈 **返去峇里島自由行終極指南**
 
-想睇晒完整嘅新手懶人包？[撳呢度閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。
+想睇晒完整嘅新手懶人包？[撳呢度閱讀「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。

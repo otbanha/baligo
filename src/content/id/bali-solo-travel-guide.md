@@ -148,7 +148,7 @@ Bali bakal ngajarin kamu dengan lembut: sendirian pun, kamu bisa tetap utuh.
 
 ![7. Pengingat Terakhir: Santai Aja](https://images.gobaligo.id/images/2026-04/1775353631404-10819a3acdc4d57f5f5a684e1dfea4ed.jpg)
 
-> Referensi catatan solo traveling: [🌺 8 Hari Berpetualang Sendiri di Bali - Pengalaman Solo Travel Perempuan 🌺](/blog/bali-solo-female-travel/)
+> Referensi catatan solo traveling: [🌺 8 Hari Berpetualang Sendiri di Bali - Pengalaman Solo Travel Perempuan 🌺](/id/blog/bali-solo-female-travel/)
 
 ***
 

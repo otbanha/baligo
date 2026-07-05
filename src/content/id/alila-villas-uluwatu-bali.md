@@ -118,10 +118,10 @@ Tempat ini juga menjadi favorit liburan low-key para bintang seperti **Beckham, 
 
 * Pura Uluwatu + Tebing Cinta (15 menit naik mobil)
 
-> [Panduan Wisata Pura Uluwatu/Tebing Cinta Bali: Spot Wajib & Tips Praktis](/blog/uluwatu-temple-travel-guide/)
+> [Panduan Wisata Pura Uluwatu/Tebing Cinta Bali: Spot Wajib & Tips Praktis](/id/blog/uluwatu-temple-travel-guide/)
 
 * Pantai Hidden Gem Padang Padang
-* Cek juga spot lainnya: [【Panduan Petualangan Semenanjung Bukit】Dari Sunset Jimbaran ke Pura Tebing Uluwatu: Surga Tersembunyi di Ujung Selatan Bali](/blog/bukit-peninsula-guide/)
+* Cek juga spot lainnya: [【Panduan Petualangan Semenanjung Bukit】Dari Sunset Jimbaran ke Pura Tebing Uluwatu: Surga Tersembunyi di Ujung Selatan Bali](/id/blog/bukit-peninsula-guide/)
 
 ## 🌿 **Tentang Brand Alila｜Puncak Kemewahan Berkelanjutan**
 

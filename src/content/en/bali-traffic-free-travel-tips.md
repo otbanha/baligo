@@ -34,7 +34,7 @@ Bali is a world-renowned tourist destination that attracts countless visitors ev
 
 Bali's traffic problems are mainly concentrated in areas north of the airport, such as Kuta and Seminyak. These are the most popular tourist areas in Bali, but they are also among the most congested. The ongoing LRT construction, which started in early September 2024 from the parking lot in front of IKEA in Kuta, has further exacerbated traffic in these areas, leading to what is expected to be a 'traffic dark period' for several years. Tourists in these areas will spend a lot of time on the road, affecting the comfort of their vacation.
 
-Further reading: [What is Bali's LRT? Where does it connect? When will it be completed?](/blog/bali-lrt-construction-update/)
+Further reading: [What is Bali's LRT? Where does it connect? When will it be completed?](/en/blog/bali-lrt-construction-update/)
 
 Therefore, choosing areas south of the airport such as Jimbaran and Uluwatu, or east of the airport like Nusa Dua and Sanur as vacation spots, can effectively avoid traffic congestion and allow for a more peaceful holiday.
 
@@ -46,7 +46,7 @@ Jimbaran, located south of Bali's international airport, is known for its tranqu
 
 Further Reading:
 
-[Recommendations for seafood restaurants in Jimbaran, guides to dining and entertainment, and stunning ocean-view accommodations... Check out the 'Jimbaran Guide' here](/blog/jimbaran-guide/)
+[Recommendations for seafood restaurants in Jimbaran, guides to dining and entertainment, and stunning ocean-view accommodations... Check out the 'Jimbaran Guide' here](/en/blog/jimbaran-guide/)
 
 ## **The Spectacular Scenery of Uluwatu**
 
@@ -56,7 +56,7 @@ Uluwatu is renowned for its stunning cliffs and sunset views. The Uluwatu Temple
 
 Further Reading:
 
-[For Uluwatu's trendy spots, must-visit attractions, dining, entertainment, and accommodation guides... check out the "Uluwatu Guide"](/blog/uluwatu-guide/)
+[For Uluwatu's trendy spots, must-visit attractions, dining, entertainment, and accommodation guides... check out the "Uluwatu Guide"](/en/blog/uluwatu-guide/)
 
 ## **The Luxury Resorts of Nusa Dua**
 
@@ -68,7 +68,7 @@ Located in the southeastern part of Bali, Nusa Dua is a region specifically desi
 
 Further Reading:
 
-[Nusa Dua and Tanjung Benoa: The top choices for luxury vacations in Bali, with 40 guides on accommodations, dining, and activities](/blog/nusa-dua-guide/)
+[Nusa Dua and Tanjung Benoa: The top choices for luxury vacations in Bali, with 40 guides on accommodations, dining, and activities](/en/blog/nusa-dua-guide/)
 
 ## **The Relaxing Charm of Sanur**
 
@@ -80,7 +80,7 @@ Sanur is another perfect destination for families and travelers seeking a laid-b
 
 Further Reading:
 
-[Sanur Guide Map｜45 recommendations for dining, entertainment, SPA, and accommodations!](/blog/sanur-guide/)
+[Sanur Guide Map｜45 recommendations for dining, entertainment, SPA, and accommodations!](/en/blog/sanur-guide/)
 
 ## **Sanur's Pier and Island Hopping**
 
@@ -90,9 +90,9 @@ Sanur boasts a convenient pier for island hopping. From here, you can easily acc
 
 Further Reading:
 
-- [Bali Island Hopping Guide](/blog/bali-island-hopping-guide/): How to travel from Bali to other islands?
-- [Nusa Penida Guide](/blog/nusa-penida-guide/): Comprehensive guide on transportation, attractions, dive spots, restaurants, and accommodations
-- [Exploring Nusa Lembongan and Nusa Ceningan: Attractions, Food, and Transportation](/blog/nusa-lembongan-ceningan-guide/): Bali's neighboring paradises
+- [Bali Island Hopping Guide](/en/blog/bali-island-hopping-guide/): How to travel from Bali to other islands?
+- [Nusa Penida Guide](/en/blog/nusa-penida-guide/): Comprehensive guide on transportation, attractions, dive spots, restaurants, and accommodations
+- [Exploring Nusa Lembongan and Nusa Ceningan: Attractions, Food, and Transportation](/en/blog/nusa-lembongan-ceningan-guide/): Bali's neighboring paradises
 
 ## **Conclusion**
 
@@ -103,12 +103,12 @@ In summary, choosing resort locations south or east of the airport, such as Jimb
 1. **How to Choose the Best Accommodation?**
 2. - Depending on your needs, if you want to avoid traffic, consider staying in Jimbaran, Uluwatu, Nusa Dua, or Sanur. Check out our Bali accommodation recommendations column
 3. **Recommended Transportation in Bali?**
-4. - We recommend renting a scooter or hiring a private car for more flexibility in avoiding congested routes. Read more: [When to Rent a Car in Bali? When to Call a Ride? Car Rental vs. Ride-Hailing: How to Choose the Best Travel Option for You?](/blog/bali-transportation-guide-car-rental/)
+4. - We recommend renting a scooter or hiring a private car for more flexibility in avoiding congested routes. Read more: [When to Rent a Car in Bali? When to Call a Ride? Car Rental vs. Ride-Hailing: How to Choose the Best Travel Option for You?](/en/blog/bali-transportation-guide-car-rental/)
 5. **Which Areas in Bali Are Most Prone to Traffic?**
 6. - Kuta, Seminyak, Canggu, central Ubud, and Denpasar are the most congested areas, especially during peak hours.
 7. **Recommended Route to Ubud?**
 8. - We suggest traveling from Sanur to Ubud, as this route is usually smoother.
 9. **What Are the Must-See Attractions in These Areas?**
-10. - Uluwatu's cliffs and sunsets, Jimbaran's seafood restaurants, and Sanur's laid-back beaches are all must-see attractions. Check out our "[Bukit Peninsula Adventure Guide: Bali's Hidden Paradise in the South](/blog/bukit-peninsula-guide/)" to find your favorite spots, restaurants, and activities.
+10. - Uluwatu's cliffs and sunsets, Jimbaran's seafood restaurants, and Sanur's laid-back beaches are all must-see attractions. Check out our "[Bukit Peninsula Adventure Guide: Bali's Hidden Paradise in the South](/en/blog/bukit-peninsula-guide/)" to find your favorite spots, restaurants, and activities.
 
 {{block:攻略}}

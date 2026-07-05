@@ -46,7 +46,7 @@ Penghargaan ini datang dari majalah *Condé Nast Traveller*, yang sejak lama dia
 
 Resor ini bukan sekadar tempat menginap, tapi juga gerbang menuju jiwa Bali. Setiap vila mencerminkan semangat kerajinan tangan Bali, dengan furnitur dan karya seni yang menampilkan kekayaan warisan budaya pulau ini. 32 vila mewah Raffles Bali menawarkan privasi unik dan pengalaman menyatu dengan alam, itulah kenapa banyak wisatawan kembali lagi setiap tahun.
 
-Raffles Bali berlokasi agak jauh dari garis pantai, dikelilingi oleh rimbunnya pepohonan hijau, dan berkomitmen mendukung upaya pelestarian lingkungan setempat, memastikan elemen alam menyatu dalam pengalaman menginap tamu. Dari lahan seluas 23 hektar yang ditempati hotel, setengahnya masih dibiarkan alami sebagai tempat perlindungan flora dan fauna lokal. Praktik menjaga alam seperti ini semakin langka di Bali, apalagi di tengah [pembangunan yang sudah terlalu masif](/blog/bali-hotel-construction-ban/).
+Raffles Bali berlokasi agak jauh dari garis pantai, dikelilingi oleh rimbunnya pepohonan hijau, dan berkomitmen mendukung upaya pelestarian lingkungan setempat, memastikan elemen alam menyatu dalam pengalaman menginap tamu. Dari lahan seluas 23 hektar yang ditempati hotel, setengahnya masih dibiarkan alami sebagai tempat perlindungan flora dan fauna lokal. Praktik menjaga alam seperti ini semakin langka di Bali, apalagi di tengah [pembangunan yang sudah terlalu masif](/id/blog/bali-hotel-construction-ban/).
 
 ![Raffles Bali](https://images.gobaligo.id/vocus/vocus_1c0e30a1dd911ab4199e712c479a2f46.jpg)
 
@@ -72,9 +72,9 @@ Tahun 2024, Raffles Hotel dapet penghargaan global, sejajar sama hotel mewah ter
 
 ### Bingung mau makan apa di Jimbaran? Mau ke mana jalan-jalan? Ada yang seru?
 
-> Cek [panduan 30 tempat wisata di Jimbaran](/blog/jimbaran-guide/) yang udah kami kumpulin
+> Cek [panduan 30 tempat wisata di Jimbaran](/id/blog/jimbaran-guide/) yang udah kami kumpulin
 
-Raffles Hotel juga dinobatkan sama *Conde Nast Traveler* sebagai salah satu dari sepuluh resort terbaik di Indonesia, sejajar sama Capella Ubud yang terkenal ([Capella Ubud, baca review kami](/blog/capella-ubud-luxury-resort/)). Ini nunjukin posisi puncaknya di dunia wisata mewah. Seiring Bali pulih dari dampak lockdown dan mulai ninggalin model pariwisata yang berlebihan, Raffles Hotel nggak cuma jadi favorit traveler, tapi juga jadi contoh pariwisata berkelanjutan.
+Raffles Hotel juga dinobatkan sama *Conde Nast Traveler* sebagai salah satu dari sepuluh resort terbaik di Indonesia, sejajar sama Capella Ubud yang terkenal ([Capella Ubud, baca review kami](/id/blog/capella-ubud-luxury-resort/)). Ini nunjukin posisi puncaknya di dunia wisata mewah. Seiring Bali pulih dari dampak lockdown dan mulai ninggalin model pariwisata yang berlebihan, Raffles Hotel nggak cuma jadi favorit traveler, tapi juga jadi contoh pariwisata berkelanjutan.
 
 ## Resort Tersembunyi di Pinggir Pantai Jimbaran
 
@@ -84,15 +84,15 @@ Jimbaran itu tempat liburan pantai di Bali yang aman, nyaman, dan sering kelewat
 
 Raffles Bali
 
-Resort mewah di Jimbaran banyak banget pilihannya, cocok buat berbagai tipe traveler, entah liburan keluarga atau pasangan romantis. Pasti ada yang pas, cek aja artikel kami soal «[Penginapan Jimbaran dengan Pemandangan Laut yang Nggak Ada Matinya](/blog/jimbaran-beachfront-hotels-guide/)». Khususnya Raffles Hotel, dengan pelayanan luar biasa dan suasana elegan, jadi pilihan utama banyak traveler mewah.
+Resort mewah di Jimbaran banyak banget pilihannya, cocok buat berbagai tipe traveler, entah liburan keluarga atau pasangan romantis. Pasti ada yang pas, cek aja artikel kami soal «[Penginapan Jimbaran dengan Pemandangan Laut yang Nggak Ada Matinya](/id/blog/jimbaran-beachfront-hotels-guide/)». Khususnya Raffles Hotel, dengan pelayanan luar biasa dan suasana elegan, jadi pilihan utama banyak traveler mewah.
 
 > ▶Cek ketersediaan kamar & harga Raffles Bali: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=14654956) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=51669662&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NazcLFJMEktYSF49-apf9YhRiNDOwsvgo6nj0DBN5bHDyDdsi1as_b4RDAEzHlwPNp7Ik_gh8vnX0o0KGQAQQ02hwaGQ9_1YjpV2lx6GJkBauZwTjv6kWJjYwi69wfVnlOdNjByHSAkekE490njAuYzmzvkDrFwswxWeMSy3em6Gql7NRKJSsTHaWSzJKcVCUrpaeL5j1t2PN8RauSjlJKanEyUAjISszNL80rAbKNTEzM9QwMgEIliRWeKWCtyYk5yaU5iSWpIZUFQCPMdJQyi51LijILglJzM0tKUoGq0hJzilNB4kGpxUCZZLCgkh_QmCKoQGZ-HkS7AYpYWGJOaSrEDUAL3VKhdhjW6mA6_dmc3qfdM19s2o3D6WaWRihONx8QpxvXxj5iYYqOfcFyn-0TC8MvYGRcUm1iZehiZeY4xTSJlYUDGFG7WHkCvSJ9orx1DXWjdA0vsP7sYZJSNDQwMDAyNTUy1zVItLRItTQ20jWxNDEyM9I1NTc2NTC20Lj67uKpJ8ZG1lKQpKDAqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzdXJzdHIOcqGizk02EUw7fuTxIVm0g5SzCHhLoo2e4OmKfadttdi9nQJMszfoeSQY2VpH7h-6_eVWiYL7CP_8bk22k08bZ_EWpWhGxKecVysgLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQAEqTzXBkDAAA&masterhotelid_tracelogid=100025527-0a98e932-494262-5735038&detailFilters=17|1~17~1*31|51669662~31~51669662*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=352&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/5BcbfgJh)
 
 ***
 
-Yang juga patut disebut, Potato Head Suites & Studios di Seminyak masuk sebagai salah satu hotel terbaik dunia tahun 2024 (cek [rekomendasi akomodasi tepi pantai Seminyak](/blog/seminyak-beach-resorts-guide/)). Hotel terkenal ini menempati peringkat ke-21 dalam daftar 50 hotel terbaik global tahun ini, kasih perspektif lain soal akomodasi mewah di Bali. Selain lokasi tepi pantai yang kece, hotel ini juga jadi standar baru wisata mewah berkat instalasi seni unik, desain arsitektur yang spektakuler, dan konsep zero waste-nya.
+Yang juga patut disebut, Potato Head Suites & Studios di Seminyak masuk sebagai salah satu hotel terbaik dunia tahun 2024 (cek [rekomendasi akomodasi tepi pantai Seminyak](/id/blog/seminyak-beach-resorts-guide/)). Hotel terkenal ini menempati peringkat ke-21 dalam daftar 50 hotel terbaik global tahun ini, kasih perspektif lain soal akomodasi mewah di Bali. Selain lokasi tepi pantai yang kece, hotel ini juga jadi standar baru wisata mewah berkat instalasi seni unik, desain arsitektur yang spektakuler, dan konsep zero waste-nya.
 
-> Peta tempat wajib dikunjungi di Seminyak: 100 [info lengkap tempat makan, main, dan seru-seruan](/blog/seminyak-guide/)
+> Peta tempat wajib dikunjungi di Seminyak: 100 [info lengkap tempat makan, main, dan seru-seruan](/id/blog/seminyak-guide/)
 
 ![Potato Head Suites & Studios](https://images.gobaligo.id/vocus/vocus_e4202a8a0d98ca9b485a7b454b1a276d.jpg)
 
@@ -100,6 +100,6 @@ Potato Head Suites & Studios
 
 > ▶Potato Head Suites & Studios [Cek harga diskon Agoda untuk tanggal pemesanan](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11295575) [Booking](https://booking.tpm.li/P2lxvZpf)
 
-> [【Rekomendasi Hotel Seminyak】Review Pengalaman Menginap di Potato Head Suites & Studios](/blog/potato-head-suites-seminyak-review/)
+> [【Rekomendasi Hotel Seminyak】Review Pengalaman Menginap di Potato Head Suites & Studios](/id/blog/potato-head-suites-seminyak-review/)
 
 {{block:住宿}}

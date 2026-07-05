@@ -84,7 +84,7 @@ Tonight we checked into Aloft Bali Kuta in the Kuta area, choosing the Pool View
 
 After enjoying a hearty breakfast at the hotel, we drove to one of Bali's most iconic landmarks—Tanah Lot Temple. This 16th-century Hindu temple sits atop a massive offshore rock; at low tide, you can walk up to it, while at high tide, it's surrounded by the sea, creating a picturesque scene. Standing on the shore, watching the waves crash against the rocks as the temple glistens in the sunlight, the awe is indescribable. We recommend visiting in the afternoon, as the temple at sunset is breathtakingly beautiful.
 
-**Quick Reference:** [Bali Travel Must-Visit: Tanah Lot Temple Detailed Guide with Tide and Nearby Attractions](/blog/bali-tanah-lot-guide/)
+**Quick Reference:** [Bali Travel Must-Visit: Tanah Lot Temple Detailed Guide with Tide and Nearby Attractions](/en/blog/bali-tanah-lot-guide/)
 
 ### Midday: Dining and Shopping at Seminyak Square
 
@@ -209,7 +209,7 @@ After leaving the reptile park, we headed to Ubud Market. This is the liveliest 
 
 In the evening, we had dinner at Taman Dedari, a perfect way to end a fulfilling day.
 
-**Quick Reference:** [【Ubud Food + Scenery Guide】Taman Dedari Fairy Park](/blog/taman-dedari-ubud-food-scenery/)
+**Quick Reference:** [【Ubud Food + Scenery Guide】Taman Dedari Fairy Park](/en/blog/taman-dedari-ubud-food-scenery/)
 
 ***
 
@@ -225,9 +225,9 @@ Today we drove to one of Bali’s most famous volcanic landscapes—Kintamani. H
 
 We chose to dine at Ritatkala Café, a scenic coffee shop with unbeatable views. I highly recommend grabbing an outdoor seat facing the volcano and lake, where you can enjoy delicious food while soaking in nature’s masterpiece. The chicken wings here are a standout—crispy on the outside, juicy on the inside, and perfectly paired with a special dipping sauce. Sipping hot coffee in the cool mountain air while gazing at the distant volcano is an indescribably refreshing experience.
 
-**Quick Reference:** [12 Best Volcano View Cafés in Kintamani, Bali 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
+**Quick Reference:** [12 Best Volcano View Cafés in Kintamani, Bali 🌄☕](/en/blog/kintamani-volcano-cafes-restaurants/)
 
-[Complete Guide to Kintamani & Lake Batur: Sunrise Hiking, Royal Boat Rides, Lakeview Cafés & Hot Springs](/blog/batur-lake-volcano-guide/)
+[Complete Guide to Kintamani & Lake Batur: Sunrise Hiking, Royal Boat Rides, Lakeview Cafés & Hot Springs](/en/blog/batur-lake-volcano-guide/)
 
 ### Afternoon: Penglipuran Village
 
@@ -239,7 +239,7 @@ After leaving Kintamani, we headed to Penglipuran Village, a beautifully preserv
 
 The village streets are spotless and lined with bamboo groves, creating a serene atmosphere as you stroll through. Some homes sell handmade crafts or local specialties, and prices are negotiable, so feel free to chat with the owners. We bought popsicles from one family, and the host was incredibly warm, inviting us to rest in their courtyard. Sitting in a traditional Balinese compound, feeling the gentle breeze and soaking in the tranquility, we felt so relaxed we didn’t want to leave. The slow pace of life here, filled with genuine hospitality, makes it an ideal spot to experience Bali’s traditional culture.
 
-**Quick Reference:** [A Journey Through Time at Penglipuran Village: Experience Bali’s Ancient Charm](/blog/penglipuran-village-bali-experience/)
+**Quick Reference:** [A Journey Through Time at Penglipuran Village: Experience Bali’s Ancient Charm](/en/blog/penglipuran-village-bali-experience/)
 
 ### Rice Terrace Swing Experience
 
@@ -247,7 +247,7 @@ The village streets are spotless and lined with bamboo groves, creating a serene
 
 After visiting the village, we headed to a nearby rice terrace swing spot. Swinging in front of layered green rice terraces has become one of the most popular activities in Bali in recent years. The moment the swing takes off, you’re greeted by a lush expanse of rice paddies and distant jungle—it feels like flying through nature. That sense of freedom and beauty became one of the most unforgettable memories of the trip.
 
-**Quick Reference:** [Swinging in Ubud: The 8 Most Beautiful Swing Photo Spots in Bali | Ubud Swing & Dress Rental Guide](/blog/ubud-jungle-swings-photo-guide/)
+**Quick Reference:** [Swinging in Ubud: The 8 Most Beautiful Swing Photo Spots in Bali | Ubud Swing & Dress Rental Guide](/en/blog/ubud-jungle-swings-photo-guide/)
 
 {{block:ubud}}
 
@@ -281,11 +281,11 @@ As evening falls, we head to Uluwatu Temple, a cliffside temple that is one of B
 
 **Important Reminder: The monkeys here are incredibly mischievous and bold!** We witnessed a tourist’s glasses being snatched by a monkey. These monkeys, through long-term interaction with visitors, have learned to quickly grab items like glasses, hats, and sunglasses, then 'demand' food in exchange. So, when visiting, be sure to secure your belongings—use a strap for your glasses, and avoid wearing shiny accessories or carrying food to avoid attracting their attention.
 
-**Quick Reference:** [Bali Uluwatu Temple / Cliffside Travel Guide: Must-See Highlights & Practical Tips](/blog/uluwatu-temple-travel-guide/)
+**Quick Reference:** [Bali Uluwatu Temple / Cliffside Travel Guide: Must-See Highlights & Practical Tips](/en/blog/uluwatu-temple-travel-guide/)
 
 Despite the need to watch out for monkeys, the views at Uluwatu Temple are truly breathtaking. As the sun sets, golden light spills across the sea, creating a shimmering effect, and the temple appears even more sacred and solemn in silhouette. If time permits, stay for the traditional Kecak Fire Dance performance—a cultural feast blending dance, music, and drama against the backdrop of the sunset.
 
-**Quick Reference:** [Kecak Fire Dance: A Must-See Spectacular Performance in Bali (with Ticket Info)](/blog/kecak-fire-dance-bali/)
+**Quick Reference:** [Kecak Fire Dance: A Must-See Spectacular Performance in Bali (with Ticket Info)](/en/blog/kecak-fire-dance-bali/)
 
 ### Dinner: Ulu Cliffhouse
 

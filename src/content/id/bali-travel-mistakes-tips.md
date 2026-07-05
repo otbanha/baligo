@@ -38,7 +38,7 @@ Meskipun Bali adalah pulau, ukurannya sebenarnya besar banget dan beragam. Mulai
 
 Usahakan seminimal mungkin gonta-ganti tempat nginep, biar nggak buang waktu karena packing dan pindah terus, yang bikin capek sendiri.
 
-Sebaliknya, kalau kamu nggak takut repot packing dan ganti penginapan, serta pengin tur cepat ke spot-spot hits di Bali, cek juga panduan kami: «[Main Max di Bali: Transportasi, Akomodasi, Tempat Wisata, Kuliner, Belanja, SPA, Nightlife, Rencana All-in-One](/blog/bali-free-travel-guide/)»
+Sebaliknya, kalau kamu nggak takut repot packing dan ganti penginapan, serta pengin tur cepat ke spot-spot hits di Bali, cek juga panduan kami: «[Main Max di Bali: Transportasi, Akomodasi, Tempat Wisata, Kuliner, Belanja, SPA, Nightlife, Rencana All-in-One](/id/blog/bali-free-travel-guide/)»
 
 ### 2. Cuma Datengin Tempat ‘Instagramable’ Aja
 
@@ -50,7 +50,7 @@ Tempat hits sering penuh sesak
 
 Selain mampir ke tempat-tempat hits itu, mending coba eksplor hidden gems yang lebih sepi. Contohnya bisa cek:
 
-「[2026 Panduan Wajib Kunjungi di Bali, 500 Tempat Hits Terbaru Sekaligus!](/blog/bali-top-500-attractions/)」
+「[2026 Panduan Wajib Kunjungi di Bali, 500 Tempat Hits Terbaru Sekaligus!](/id/blog/bali-top-500-attractions/)」
 
 Atur itinerary kamu biar seimbang — dapet foto kece, tapi juga bisa nikmatin suasana tenang yang beneran.
 
@@ -62,9 +62,9 @@ Biar aman dari cuaca yang bikin kapal batal dan nggak ganggu jadwal pulang, mend
 
 Baca juga:
 
-> [【Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)
+> [【Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)
 
-[Panduan Island Hopping Bali ke Nusa Penida/Nusa Lembongan/Gili Islands/Lombok? Cara Beli Tiket Kapal Cepat & Tempat Belinya](/blog/bali-island-hopping-guide/)
+[Panduan Island Hopping Bali ke Nusa Penida/Nusa Lembongan/Gili Islands/Lombok? Cara Beli Tiket Kapal Cepat & Tempat Belinya](/id/blog/bali-island-hopping-guide/)
 
 ### 4. Cuma Nongkrong di Daerah Selatan Aja
 
@@ -74,7 +74,7 @@ Coba eksplor daerah lain yang jarang dikunjungi, kamu bakal nemuin Bali yang leb
 
 - **Ubud**: Pusat budaya dan seni Bali, cocok buat yang pengen santai sambil nyerap budaya lokal.
 - **Amed**: Surganya diving dan snorkeling, dunia bawah lautnya juara banget.
-- **Bali Utara**: Jauh dari keramaian turis, ada pantai cantik dan terumbu karang. Cek [Panduan Wisata Bali Utara](/blog/north-bali-travel-guide/)
+- **Bali Utara**: Jauh dari keramaian turis, ada pantai cantik dan terumbu karang. Cek [Panduan Wisata Bali Utara](/id/blog/north-bali-travel-guide/)
 
 {{block:攻略}}
 
@@ -86,12 +86,12 @@ Coba eksplor daerah lain yang jarang dikunjungi, kamu bakal nemuin Bali yang leb
 
 Sesuai kebutuhanmu, pilih alternatif area nginep berikut:
 
-- [**Seminyak**](/blog/seminyak-guide/): Banyak butik hotel kece dan restoran kelas atas, pas buat yang doyan liburan mewah.
-- [**Canggu**](/blog/canggu-guide/): Dikenal sebagai surga surfing, suasananya santai dan kafe-kafenya Instagramable, cocok banget buat anak muda.
-- [**Sanur**](/blog/sanur-guide/): Lebih tenang dibanding Kuta, pas buat keluarga atau traveler yang pengen jauhin keramaian.
-- [**Nusa Dua**](/blog/nusa-dua-guide/): Kalau kamu suka resort bintang lima dan pantai pribadi, ini pilihan sempurna.
+- [**Seminyak**](/id/blog/seminyak-guide/): Banyak butik hotel kece dan restoran kelas atas, pas buat yang doyan liburan mewah.
+- [**Canggu**](/id/blog/canggu-guide/): Dikenal sebagai surga surfing, suasananya santai dan kafe-kafenya Instagramable, cocok banget buat anak muda.
+- [**Sanur**](/id/blog/sanur-guide/): Lebih tenang dibanding Kuta, pas buat keluarga atau traveler yang pengen jauhin keramaian.
+- [**Nusa Dua**](/id/blog/nusa-dua-guide/): Kalau kamu suka resort bintang lima dan pantai pribadi, ini pilihan sempurna.
 
-Bacaan lanjutan: [Menginap di sini paling strategis di Bali, tapi justru paling tidak direkomendasikan! Apa sih kelebihan dan kekurangan area Kuta, Bali?](/blog/kuta-bali-accommodation-pros-cons/)
+Bacaan lanjutan: [Menginap di sini paling strategis di Bali, tapi justru paling tidak direkomendasikan! Apa sih kelebihan dan kekurangan area Kuta, Bali?](/id/blog/kuta-bali-accommodation-pros-cons/)
 
 Oh iya! Kami udah review 300 rekomendasi akomodasi di Bali yang anti zonk, wajib banget kamu cek: [**Rekomendasi Penginapan di Bali**](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 
@@ -125,7 +125,7 @@ Di beberapa daerah di Bali, ada risiko carding pakai kartu kredit. Makanya, mend
 - **Pakai e-wallet**：Kalau bisa, bayar pakai dompet digital kayak Gojek, biar jarang pegang kartu fisik.
   **Referensi cepat:**
 
-> [Panduan Lengkap Daftar, Pakai, & Isi Saldo Gojek & GoPay di Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
+> [Panduan Lengkap Daftar, Pakai, & Isi Saldo Gojek & GoPay di Indonesia/Bali](/id/blog/indonesia-gojek-gopay-guide/)
 
 ### 8. Antisipasi Nyamuk
 
@@ -153,7 +153,7 @@ https://youtube.com/shorts/bqtCP1YoKCM
 - **Bawa jas hujan**：Bawa jas hujan ringan lebih praktis daripada payung, karena hujan deras datang tiba-tiba dan disertai angin kencang.
 - **Atur aktivitas pagi hari**：Cuaca pagi biasanya lebih stabil. Sebaiknya rencanakan aktivitas outdoor di pagi hari untuk menghindari hujan dadakan di siang atau sore hari.
 
-Referensi cepat：[Saat hujan atau panas terik, wajib lihat! 60+ aktivitas indoor super: dari mal baru, afternoon tea bintang lima, hingga pengalaman kerajinan tangan premium](/blog/2026-bali-indoor-activities/)
+Referensi cepat：[Saat hujan atau panas terik, wajib lihat! 60+ aktivitas indoor super: dari mal baru, afternoon tea bintang lima, hingga pengalaman kerajinan tangan premium](/id/blog/2026-bali-indoor-activities/)
 
 ### 10. Aturan Keamanan Monyet
 
@@ -181,7 +181,7 @@ Bali itu pusat budaya Hindu, dan penduduk setempat sangat serius sama upacara ke
 - **Aturan Berpakaian di Pura**: Kalau masuk pura, pastikan pakaianmu sopan dan pakai selendang (biasanya pura nyediain pinjaman gratis).
 - **Jangan Injak Sesajen**: Di jalan-jalan Bali, kamu sering lihat sesajen kecil berbentuk keranjang. Itu adalah persembahan harian warga setempat, jangan sampai kamu injak ya.
 
-Baca juga: [Mengenal Tradisi Sembahyang di Bali: Canang Sari](/blog/bali-canang-sari-explained/)
+Baca juga: [Mengenal Tradisi Sembahyang di Bali: Canang Sari](/id/blog/bali-canang-sari-explained/)
 
 - **Pantangan**: Jangan sentuh kepala orang lain, itu dianggap nggak sopan dalam budaya lokal. Selain itu, ngasih barang pakai tangan kiri juga dianggap kurang ajar.
 - **Lepas Sepatu Masuk Rumah**: Kalau masuk rumah warga atau beberapa toko, biasakan lepas sepatu dulu sebagai tanda hormat.
@@ -214,7 +214,7 @@ Saat traveling di Bali, persiapan yang matang dan memahami situasi lokal bikin p
 
 https://youtu.be/KPGb6MmwfZw
 
-- **Tukar Setelah Sampai**: Cek panduan lengkapnya di «[Panduan Penukaran Uang di Bali](/blog/bali-currency-exchange-guide/)», biar tahu cara dan tempat terbaik.
+- **Tukar Setelah Sampai**: Cek panduan lengkapnya di «[Panduan Penukaran Uang di Bali](/id/blog/bali-currency-exchange-guide/)», biar tahu cara dan tempat terbaik.
 - **Hindari Bawa Uang Tunai Banyak**: Bawa uang tunai terlalu banyak risikonya gede, lebih aman pakai kartu debit atau pembayaran digital.
 
 ### 14. Tips Tawar-menawar
@@ -260,7 +260,7 @@ https://youtu.be/lIV-T2jYhVk
 - **Minta helm cadangan saat pesan ojek**：Kalau pakai Gojek atau Grab, pastikan minta helm ke driver.
 - **Patuhi aturan lalu lintas**：Kondisi jalan dan aturan lalu lintas di Bali mungkin beda sama di kampung halaman kamu. Tetap hati-hati dan patuhi rambu-rambu lokal.
 
-> Baca juga：[Wajib Coba! Aplikasi Ojek Online, Hemat Waktu & Tenaga!](/blog/bali-travel-app-motorcycle-taxi/)
+> Baca juga：[Wajib Coba! Aplikasi Ojek Online, Hemat Waktu & Tenaga!](/id/blog/bali-travel-app-motorcycle-taxi/)
 
 ### 18. Abaikan Keamanan Makanan Lokal
 
@@ -286,4 +286,4 @@ Bali adalah pulau yang penuh pesona, gak cuma punya pemandangan alam yang indah,
 
 👈 **Kembali ke Panduan Lengkap Trip ke Bali**
 
-Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.
+Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.

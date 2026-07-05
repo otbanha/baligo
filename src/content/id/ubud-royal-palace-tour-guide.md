@@ -62,7 +62,7 @@ https://youtube.com/shorts/Oh-RNfjhQhM
 
 Ubud Art Market letaknya persis di seberang Ubud Palace, pasar yang super khas Bali. Di sini kamu bisa nemuin berbagai macam barang, mulai dari aksesoris handmade, ukiran kayu, lukisan, baju tradisional, dan lainnya — semuanya penuh nuansa seni lokal. Tips: jangan lupa tawar-menawar ya, biar dapet harga lebih miring buat oleh-oleh favoritmu!
 
-Baca juga: [Panduan Lengkap 5 Pasar Seni Terbaik di Ubud: Cari Oleh-Oleh & Souvenir, Jelajahi Harta Karun Budaya Bali](/blog/ubud-art-markets-guide/)
+Baca juga: [Panduan Lengkap 5 Pasar Seni Terbaik di Ubud: Cari Oleh-Oleh & Souvenir, Jelajahi Harta Karun Budaya Bali](/id/blog/ubud-art-markets-guide/)
 
 ### 2. Pura Taman Saraswati (Ubud Water Palace) 🗺️[Lokasi di Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
@@ -131,7 +131,7 @@ Puri Ubud bukan cuma landmark di Ubud, tapi juga harta karun sejarah dan seni Ba
 **2. Berapa harga tiket masuk Puri Ubud?**
 
 - Tiket masuk siang hari gratis. Kalau mau nonton pertunjukan tari tradisional malam, perlu beli tiket sekitar IDR 100K (sekitar USD$6). Harga bisa beda tergantung pertunjukan. Disarankan [pesan duluan](https://affiliate.klook.com/redirect?aid=116349&aff_adid=944134&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2deaa6927)
-- Harga 100K... Maksudnya K apa? Cek [di sini](/blog/bali-budget-tips-k-explained/)
+- Harga 100K... Maksudnya K apa? Cek [di sini](/id/blog/bali-budget-tips-k-explained/)
 
 **3. Apakah semua area di Ubud Palace bisa dimasuki?**
 

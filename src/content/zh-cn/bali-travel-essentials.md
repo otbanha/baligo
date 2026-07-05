@@ -31,24 +31,24 @@ https://youtu.be/0M0voLfFLrQ
 
 ### 入境、签证的流程：
 
-- [2024巴厘岛入境变革一分钟搞懂：印尼/巴厘岛入境流程 - 下飞机/过海关/到领行李的流程](/blog/2025-bali-immigration-process/)
+- [2024巴厘岛入境变革一分钟搞懂：印尼/巴厘岛入境流程 - 下飞机/过海关/到领行李的流程](/zh-cn/blog/2025-bali-immigration-process/)
 
 ### 景点/行程推荐：
 
-- [2025必去巴厘岛景点攻略，500个最新人气景点一次搜全](/blog/bali-top-500-attractions/)
-- [爽玩巴厘岛自由行攻略：交通、住宿、景点、美食、购物、夜生活，全方位规划](/blog/bali-free-travel-guide/)
+- [2025必去巴厘岛景点攻略，500个最新人气景点一次搜全](/zh-cn/blog/bali-top-500-attractions/)
+- [爽玩巴厘岛自由行攻略：交通、住宿、景点、美食、购物、夜生活，全方位规划](/zh-cn/blog/bali-free-travel-guide/)
 
 ### 巴厘岛肠胃炎与饮用水推荐：
 
-- [巴厘岛旅行健康小贴士：巴厘岛的饮用水和腹泻指南](/blog/bali-travel-health-tips/)
+- [巴厘岛旅行健康小贴士：巴厘岛的饮用水和腹泻指南](/zh-cn/blog/bali-travel-health-tips/)
 
 ### 货币与换汇：
 
-- [印尼/巴厘岛旅游换汇懒人包：印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？](/blog/bali-currency-exchange-guide/)
+- [印尼/巴厘岛旅游换汇懒人包：印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？](/zh-cn/blog/bali-currency-exchange-guide/)
 
 ### 关于现金：
 
-- [巴厘岛旅游要准备多少现金？](/blog/bali-travel-cash-budget-guide/)
+- [巴厘岛旅游要准备多少现金？](/zh-cn/blog/bali-travel-cash-budget-guide/)
 
 ### 防晒/防蚊去哪里买？
 
@@ -56,15 +56,15 @@ https://youtu.be/0M0voLfFLrQ
 
 ### 移动电源/充电宝携带新规定：
 
-- [移动电源/充电宝与随身USB风扇/挂脖风扇能否带上飞机？2025年最新规定总整理](/blog/airplane-power-bank-fan-rules-2025/)
+- [移动电源/充电宝与随身USB风扇/挂脖风扇能否带上飞机？2025年最新规定总整理](/zh-cn/blog/airplane-power-bank-fan-rules-2025/)
 
 ### 携带药品：
 
-- [携带安眠药/特殊处方药物前往印尼/巴厘岛的重要注意事项](/blog/bali-medication-import-guide/)
+- [携带安眠药/特殊处方药物前往印尼/巴厘岛的重要注意事项](/zh-cn/blog/bali-medication-import-guide/)
 
 ### 第一次去巴厘岛必读：
 
-- [第一次去巴厘岛必看的32项旅游攻略](/blog/bali-ultimate-guide-2026/)
+- [第一次去巴厘岛必看的32项旅游攻略](/zh-cn/blog/bali-ultimate-guide-2026/)
 
 ***
 
@@ -76,12 +76,12 @@ https://youtu.be/0M0voLfFLrQ
 
 ## 现金要带多少去巴厘岛？
 
-建议带足够的美金现钞到当地授权换汇所兑换，同时搭配信用卡与 GoPay 电子钱包分散携带风险，详细金额建议见[巴厘岛现金预算指南](/blog/bali-travel-cash-budget-guide/)。
+建议带足够的美金现钞到当地授权换汇所兑换，同时搭配信用卡与 GoPay 电子钱包分散携带风险，详细金额建议见[巴厘岛现金预算指南](/zh-cn/blog/bali-travel-cash-budget-guide/)。
 
 ## 充电宝可以带上飞机吗？
 
-多数航空公司规定充电宝必须随身携带、不可托运，且容量有上限规定，出发前请依最新规范确认，详见[充电宝携带规定整理](/blog/airplane-power-bank-fan-rules-2025/)。
+多数航空公司规定充电宝必须随身携带、不可托运，且容量有上限规定，出发前请依最新规范确认，详见[充电宝携带规定整理](/zh-cn/blog/airplane-power-bank-fan-rules-2025/)。
 
 ## 安眠药或处方药可以带去印尼吗？
 
-需特别留意，印尼对特定管制药物查核严格，携带处方药建议准备英文诊断证明并如实申报，详细规定见[携带处方药物注意事项](/blog/bali-medication-import-guide/)。
+需特别留意，印尼对特定管制药物查核严格，携带处方药建议准备英文诊断证明并如实申报，详细规定见[携带处方药物注意事项](/zh-cn/blog/bali-medication-import-guide/)。

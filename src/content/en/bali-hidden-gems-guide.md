@@ -69,9 +69,9 @@ At **Kamala Resort**, where we stayed in Ubud, some details fell a bit short, bu
 
 **Further Reading:**
 
-[Bali Ubud Accommodation: 30+ Unique Stays for a Magical Journey Through Bali's Mountain Scenery](/blog/ubud-villas-pool-guide/)
+[Bali Ubud Accommodation: 30+ Unique Stays for a Magical Journey Through Bali's Mountain Scenery](/en/blog/ubud-villas-pool-guide/)
 
-[Top Ubud Accommodation: 20+ Stunning Bali Villa Recommendations for Private Pool Paradise](/blog/ubud-villa-pool-guide/)
+[Top Ubud Accommodation: 20+ Stunning Bali Villa Recommendations for Private Pool Paradise](/en/blog/ubud-villa-pool-guide/)
 
 Ubud isn't just about tranquility—at the **Tegalalang Rice Terrace** forest playground, you can also find thrills and joy in nature. I spent an adventurous, laughter-filled afternoon there, and this place is absolutely worth a full day to savor every moment.
 
@@ -81,7 +81,7 @@ Tegalalang Rice Terrace (Photo by Shih Nien-hsin)
 
 ![我們還去了Montana Del cafe。這間咖啡廳景在烏布很美很值得去。點我看「烏布攻略」](https://images.gobaligo.id/vocus/vocus_d3a11499461fd7f17140d3839b6f8672.jpg)
 
-[We also visited Montana Del Cafe. This cafe in Ubud has a beautiful view and is well worth a visit. Click here for the "Ubud Guide"](/blog/ubud-guide/)
+[We also visited Montana Del Cafe. This cafe in Ubud has a beautiful view and is well worth a visit. Click here for the "Ubud Guide"](/en/blog/ubud-guide/)
 
 {{block:ubud}}
 

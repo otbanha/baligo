@@ -76,12 +76,12 @@ Sasaran kebijakan: Aturan ini terutama mau menakut-nakuti wisatawan jangka panja
 ### Dokumen Inti
 
 - Paspor: masa berlaku minimal 6 bulan.
-- Visa Elektronik (e-VOA): sebaiknya urus dulu secara online di situs resmi. (Lihat [panduan](/blog/bali-evisa-application-guide/))
+- Visa Elektronik (e-VOA): sebaiknya urus dulu secara online di situs resmi. (Lihat [panduan](/id/blog/bali-evisa-application-guide/))
 - Tiket pulang/lanjutan: pastikan tanggalnya sesuai dengan masa berlaku visa.
 
 ### Pengisian Elektronik
 
-- [Kartu Kedatangan All Indonesia](/blog/bali-all-indonesia-arrival-guide/) (AIAC): isi online maksimal 72 jam sebelum keberangkatan.
+- [Kartu Kedatangan All Indonesia](/id/blog/bali-all-indonesia-arrival-guide/) (AIAC): isi online maksimal 72 jam sebelum keberangkatan.
 - Pajak Wisatawan Bali (Tourist Levy): bayar online sebesar 150.000 IDR, lalu simpan bukti pembayaran.
 
 ### Dokumen Pemeriksaan Acak Baru

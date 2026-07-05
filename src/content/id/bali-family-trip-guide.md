@@ -47,7 +47,7 @@ Hujan deras datang, buru-buru kabur dari pantai!! Melewati beberapa daerah renda
 
 Selanjutnya soal **tantangan dan kejutan musim hujan**. Iya, selama tujuh hari, kami hujan-hujanan selama lima hari. Tapi musim hujan bukan cuma bikin repot — malah ada untungnya: suhu lebih sejuk, pemandangan lebih hijau dan segar, plus turis lebih sedikit, jadi gak perlu berdesakan. Tentu, hujan deras yang tiba-tiba memang perlu antisipasi (seperti foto banjir yang bikin kami 'kabur' dari pantai — sekarang ingetnya cuma ketawa 🤣🤣). Lucunya, ramalan cuaca ternyata cuma perkiraan. Misalnya di Kuta, kami dapat **peringatan badai**, tapi dua hari di sana malah **cerah banget**, cuma sore-sore gerimis. Ini bikin kami sadar, di Bali lebih baik santai aja soal cuaca. Strategi kami: siapkan **rencana cadangan** — misalnya pindah ke tempat indoor, museum, galeri seni, atau pasar — biar perjalanan tetap fleksibel. Suara hujan malah jadi latar yang menenangkan.
 
-> **Referensi cepat:** [Musim Hujan Bali: Apa yang Harus Dilakukan Saat Hujan? 60 Alternatif Aktivitas Indoor di Bali](/blog/2026-bali-indoor-activities/)
+> **Referensi cepat:** [Musim Hujan Bali: Apa yang Harus Dilakukan Saat Hujan? 60 Alternatif Aktivitas Indoor di Bali](/id/blog/2026-bali-indoor-activities/)
 
 Tentu, perjalanan ini juga punya beberapa hal yang perlu adaptasi: lalu lintas di kota memang kurang ramah pejalan kaki — nyebrang jalan kayak main 'Frog Crossing' versi nyata; dan nominal rupiah yang banyak nol bikin otak saya hampir overheat pas ngitung ♨️
 
@@ -63,7 +63,7 @@ Saat tiba di **Villa** yang sudah dipesan di Ubud, rasa lelah perjalanan langsun
 
 ![Hari Pertama: Tiba di Ubud, Prolog Santai di Villa](https://images.gobaligo.id/vocus/vocus_fc948ca985ea8069ac9dd4b23dbc3d0e.jpg)
 
-> **Referensi Cepat:** [Paket Liburan Kelompok Bebas di Bali: Rekomendasi Sewa Villa Pribadi 3/4/5/6 Kamar atau Lebih untuk Keluarga](/blog/bali-group-villa-stay/)
+> **Referensi Cepat:** [Paket Liburan Kelompok Bebas di Bali: Rekomendasi Sewa Villa Pribadi 3/4/5/6 Kamar atau Lebih untuk Keluarga](/id/blog/bali-group-villa-stay/)
 
 ### **Hari Kedua: Berkah Air Suci, Pemandangan Gunung Berapi, dan Petualangan Rasa**
 
@@ -73,7 +73,7 @@ Hari ini penuh dengan kontras antara budaya dan alam, benar-benar padat dan seru
 
 ![Hari Kedua: Berkah Air Suci, Pemandangan Gunung Berapi, dan ](https://images.gobaligo.id/vocus/vocus_b60719f084e134a94fa7186d3e2c18f7.jpg)
 
-> **Referensi Cepat:** [Panduan Lengkap Tirta Empul 2026: Pengalaman Pura Penyucian Tersakral di Bali](/blog/tirta-empul-temple-guide/)
+> **Referensi Cepat:** [Panduan Lengkap Tirta Empul 2026: Pengalaman Pura Penyucian Tersakral di Bali](/id/blog/tirta-empul-temple-guide/)
 
 🔱💦 Pura Tirta Empul di Ubud, pura air suci terkenal di Bali, terkenal dengan ritual pemurnian 🙏 dan air sucinya 💧, dipercaya bisa membawa berkah dan keberuntungan ✨ bagi umat dan wisatawan! ▶[Promo Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)
 
@@ -81,13 +81,13 @@ Hari ini penuh dengan kontras antara budaya dan alam, benar-benar padat dan seru
 
 ![Hari Kedua: Berkah Air Suci, Pemandangan Gunung Berapi, dan ](https://images.gobaligo.id/vocus/vocus_8de97539719cb37d06c510346db2230d.jpg)
 
-> **Referensi Cepat:** [13 Kafe & Restoran dengan Pemandangan Gunung Berapi di Kintamani, Bali 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
+> **Referensi Cepat:** [13 Kafe & Restoran dengan Pemandangan Gunung Berapi di Kintamani, Bali 🌄☕](/id/blog/kintamani-volcano-cafes-restaurants/)
 
 - **Desa Penglipuran:** Setelah makan, kami mengunjungi Desa Penglipuran. Tempat ini lebih tenang dibandingkan tempat wisata populer, dan kamu bisa merasakan ritme kehidupan desa tradisional Bali. Berjalan-jalan di sini, kamu bisa melihat penduduk desa yang fokus pada kerajinan tangan atau sekadar mengobrol santai, seolah waktu berjalan lebih lambat.
 
 ![Hari Kedua: Berkah Air Suci, Pemandangan Gunung Berapi, dan ](https://images.gobaligo.id/vocus/vocus_3638ed5e8a2500e413dca3df549ac608.jpg)
 
-> **Referensi Cepat:** [Menembus Waktu di Desa Penglipuran: Rasakan Pesona Kuno Bali](/blog/penglipuran-village-bali-experience/)
+> **Referensi Cepat:** [Menembus Waktu di Desa Penglipuran: Rasakan Pesona Kuno Bali](/id/blog/penglipuran-village-bali-experience/)
 
 🏘️✨ Desa Penglipuran—desa tradisional tercantik di Bali, dengan budaya Bali yang masih terjaga utuh 🌺, terkenal dengan jalan yang rapi 🛤️, hutan bambu 🎋, dan arsitektur tradisional 🏛️, dijuluki 'Desa Terbersih di Indonesia' 🧹! ▶[Paket Promo Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1207087&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dpenglipuran)
 
@@ -112,7 +112,7 @@ Perjalanan hari ini penuh dengan kontras dan kejutan, dari hutan hingga sawah te
 
 ![Hari Ketiga: Menjelajahi Antara Spiritualitas Alam dan Keram](https://images.gobaligo.id/vocus/vocus_a804dbb47152b6d827a07473286d114f.jpg)
 
-> **Referensi Cepat:** [Panduan Mengunjungi Dua Area Terasering Sawah di Bali: Tegalalang dan Jatiluwih | Berapa Tiket Masuknya? Waktu/Musim Terbaik Berkunjung?](/blog/bali-rice-terraces-comparison/)
+> **Referensi Cepat:** [Panduan Mengunjungi Dua Area Terasering Sawah di Bali: Tegalalang dan Jatiluwih | Berapa Tiket Masuknya? Waktu/Musim Terbaik Berkunjung?](/id/blog/bali-rice-terraces-comparison/)
 
 - **Wisata Kayu Putih (Pohon Putih):** Sebagai perbandingan, tempat wisata pohon ini benar-benar memberi kami kejutan besar! Pohon kayu putih raksasa ini terasa khidmat dan penuh energi spiritual. Berdiri di bawah pohon raksasa ini, manusia terasa sangat kecil. Jalur hutan di sekitarnya tenang, udaranya seolah dipenuhi kekuatan yang menenangkan, **bikin hati langsung adem dan tenang—ini highlight terbaik hari itu**. Sangat direkomendasikan buat kamu yang suka suasana alam dan ketenangan.
 
@@ -122,7 +122,7 @@ Perjalanan hari ini penuh dengan kontras dan kejutan, dari hutan hingga sawah te
 
 ![Hari Ketiga: Menjelajahi Antara Spiritualitas Alam dan Keram](https://images.gobaligo.id/vocus/vocus_d83da6954901731170a3f42382dc19f8.jpg)
 
-> **Referensi Cepat:** [【Destinasi Wajib di Ubud】Puri Ubud: Permata Sejarah dan Budaya Bali | Jam Buka, Tiket Masuk, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Tur Sehari](/blog/ubud-royal-palace-tour-guide/)
+> **Referensi Cepat:** [【Destinasi Wajib di Ubud】Puri Ubud: Permata Sejarah dan Budaya Bali | Jam Buka, Tiket Masuk, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Tur Sehari](/id/blog/ubud-royal-palace-tour-guide/)
 
 - **Makan Siang: Jatiluwih Resto**
   Makan di restoran yang terletak di samping area terasering sawah ini, pemandangannya juara. Sambil menikmati makanan sederhana yang dimasak dengan bahan lokal, kamu bisa memandangi hamparan sawah bertingkat yang tak berujung—rasa makanannya jadi makin nikmat dengan aroma sawah.
@@ -136,14 +136,14 @@ Perjalanan hari ini penuh dengan kontras dan kejutan, dari hutan hingga sawah te
 
 ![Hari Ketiga: Menjelajahi Antara Spiritualitas Alam dan Keram](https://images.gobaligo.id/vocus/vocus_37891f30f3e1e93406a35d99756c09cd.jpg)
 
-> **Referensi Cepat:** [【Rekomendasi Kuliner + Pemandangan Ubud】Taman Dedari (Taman Bidadari)](/blog/taman-dedari-ubud-food-scenery/)
+> **Referensi Cepat:** [【Rekomendasi Kuliner + Pemandangan Ubud】Taman Dedari (Taman Bidadari)](/id/blog/taman-dedari-ubud-food-scenery/)
 
 🌸✨ Taman Dedari—Taman Tersembunyi di Bali 🏞️, punya patung bidadari raksasa yang fantastis 💦, kolam alami 🏊, dan pemandangan hutan tropis 🌿, tempat liburan yang sempurna buat relaksasi jiwa dan raga 🧘‍♀️! ▶[Paket Makan Promo di Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1207087&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F93907-taman-dedari-ubud-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D44efaec6e5)
 
 - **Malam: Spa di Villa**
   Kembali ke Villa, nikmati lagi layanan spa pribadi. Relaksasi total di lingkungan yang sudah akrab, ditemani suara alam malam hari—ini cara terbaik buat menghilangkan penat setelah seharian beraktivitas.
 
-> **Referensi Cepat:** [Panduan Spa Pribadi Villa/Hotel](/blog/spa/)
+> **Referensi Cepat:** [Panduan Spa Pribadi Villa/Hotel](/id/blog/spa/)
 
 ### **Hari Keempat: Eksplorasi Desa Kuno & Pesona Pantai di Pesisir Timur**
 
@@ -175,11 +175,11 @@ Perjalanan masuk hari kelima, kita siapin aktivitas yang paling ditunggu anggota
 
 ATV menurutku kurang cocok buat orang tua dan anak di bawah 7 tahun, soalnya terlalu ekstrem, takut jatuh 😄
 
-> **Referensi Cepat:** [Petualangan ATV Roda Empat di Bali: Rasakan Sensasi dan Kebebasan di Surga Tropis (Tips + FAQ + Rekomendasi Penyedia)](/blog/bali-atv-adventure-guide/)
+> **Referensi Cepat:** [Petualangan ATV Roda Empat di Bali: Rasakan Sensasi dan Kebebasan di Surga Tropis (Tips + FAQ + Rekomendasi Penyedia)](/id/blog/bali-atv-adventure-guide/)
 
 - **Jalan-jalan Terakhir di Ubud & Pijat:** Sorenya balik ke Ubud, kita jalan-jalan belanja terakhir buat nambah oleh-oleh yang kurang. Abis itu, kita pijat lagi. Kali ini nyoba **pijat refleksi kaki**, tekanan di titik akupuntur dari terapisnya pas banget, bikin kaki yang udah jalan seharian langsung terasa segar. **Rasa nyaman dari telapak kaki menjalar ke seluruh tubuh, bikin ketagihan.**
 - **Makan Siang/Malam: This is Bali**
-  Nama restorannya lugas, kita makan di sini dengan menu campuran Barat dan Indonesia. Suasananya santai, pilihan makanannya banyak, cocok buat semua anggota keluarga yang seleranya beda-beda. Cocok banget jadi tempat isi energi seharian. (Lokasinya ada di [Peta Panduan Ubud](/blog/ubud-guide/))
+  Nama restorannya lugas, kita makan di sini dengan menu campuran Barat dan Indonesia. Suasananya santai, pilihan makanannya banyak, cocok buat semua anggota keluarga yang seleranya beda-beda. Cocok banget jadi tempat isi energi seharian. (Lokasinya ada di [Peta Panduan Ubud](/id/blog/ubud-guide/))
 
 {{block:ubud}}
 
@@ -214,7 +214,7 @@ Kita nginep di hotel Kuta **Amnaya Resort**, pemenang [2025 Agoda Traveller Choi
 - **Check-out Villa & Bintang Supermarket:** Dengan berat hati pamitan dari villa nyaman yang udah ditempati beberapa hari, kita mampir ke supermarket jaringan besar lokal **Bintang Supermarket** buat belanja terakhir. Di sini tempat yang pas buat beli oleh-oleh kayak kopi, camilan, saus, dll. Stok lengkap, harga transparan.
 - **Pura Tanah Lot:** Dalam perjalanan ke Kuta, kita singgah di landmark Pura Tanah Lot. Meskipun turisnya banyak, pura yang berdiri di atas batu karang di tengah laut tetap megah banget. Kita mendekat saat air surut, merasakan deburan ombak yang dahsyat, dan foto-foto klasik di sini.
 
-> **Referensi Cepat:** [Destinasi Wajib Kunjungi di Bali: Panduan Lengkap Pura Tanah Lot, Pasang Surut, dan Tempat Wisata Sekitar](/blog/bali-tanah-lot-guide/)
+> **Referensi Cepat:** [Destinasi Wajib Kunjungi di Bali: Panduan Lengkap Pura Tanah Lot, Pasang Surut, dan Tempat Wisata Sekitar](/id/blog/bali-tanah-lot-guide/)
 
 > 🛕🌊🌅 Pura Tanah Lot, tempat sunset wajib dikunjungi di Bali, nikmati pemandangan laut yang megah dan suasana religius ▶[Promo Klook](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
 
@@ -245,11 +245,11 @@ Perjalanan udah sampai di penghujung.
 
 Berdasarkan pengalaman langsung ini, kita rangkum beberapa tips kecil buat kamu yang mau ke sini nanti:
 
-1. **Tukar Uang:** Di sana, **kurs dolar AS ke rupiah biasanya lebih bagus daripada pakai NT$ atau mata uang lain**. Saran bawa uang tunai dolar AS, tukar di money changer resmi di pusat kota. **Referensi Cepat:** [Panduan Tukar Uang Liburan Indonesia/Bali: Pakai Uang Apa? Cara Tukar Paling Hemat? Di Mana Terbaik?](/blog/bali-currency-exchange-guide/)
-2. **Internet:** **Kartu eSIM DJB** yang kita pakai sinyalnya stabil banget, internet lancar sepanjang perjalanan, navigasi, komunikasi, cari info nggak ada masalah, sangat andal. **Referensi Cepat:** [【Wajib Punya Liburan Bali】Cara Urus Internet/SIM Card/eSIM Bali?](/blog/bali-sim-card-esim-roaming-guide/)
+1. **Tukar Uang:** Di sana, **kurs dolar AS ke rupiah biasanya lebih bagus daripada pakai NT$ atau mata uang lain**. Saran bawa uang tunai dolar AS, tukar di money changer resmi di pusat kota. **Referensi Cepat:** [Panduan Tukar Uang Liburan Indonesia/Bali: Pakai Uang Apa? Cara Tukar Paling Hemat? Di Mana Terbaik?](/id/blog/bali-currency-exchange-guide/)
+2. **Internet:** **Kartu eSIM DJB** yang kita pakai sinyalnya stabil banget, internet lancar sepanjang perjalanan, navigasi, komunikasi, cari info nggak ada masalah, sangat andal. **Referensi Cepat:** [【Wajib Punya Liburan Bali】Cara Urus Internet/SIM Card/eSIM Bali?](/id/blog/bali-sim-card-esim-roaming-guide/)
 3. **Belanja Bandingin Harga:** **Harga barang di supermarket belum tentu lebih murah daripada pedagang kaki lima**, terutama oleh-oleh. Di pedagang kaki lima biasanya bisa tawar, sementara supermarket harga tetap. Saran bandingin dulu antara keduanya sebelum beli, tergantung jenis barangnya.
-4. **Transportasi:** Buat perjalanan pendek di kota atau manggil kendaraan dadakan, **aplikasi Gojek atau Grab sangat praktis dan terjangkau**, jadi pilihan bagus selain sewa mobil. **Referensi Cepat:** [Grab Bagus? Gojek Bagus? Panduan Lengkap Daftar, Pakai, Isi Saldo Gojek & GoPay di Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
-5. **Anti Nyamuk & Serangga:** Di Bali **lalat dan nyamuk banyak banget**, terutama dekat sawah atau sore hari. **Obat anti nyamuk wajib banget setiap hari**, bawa selalu dan semprot ulang secara rutin. **Referensi Cepat:** [Daftar Obat/Wajib Bawa Liburan Bali? Cara Beli Anti Nyamuk/Sunscreen?](/blog/bali-travel-medicine-checklist/)
+4. **Transportasi:** Buat perjalanan pendek di kota atau manggil kendaraan dadakan, **aplikasi Gojek atau Grab sangat praktis dan terjangkau**, jadi pilihan bagus selain sewa mobil. **Referensi Cepat:** [Grab Bagus? Gojek Bagus? Panduan Lengkap Daftar, Pakai, Isi Saldo Gojek & GoPay di Indonesia/Bali](/id/blog/indonesia-gojek-gopay-guide/)
+5. **Anti Nyamuk & Serangga:** Di Bali **lalat dan nyamuk banyak banget**, terutama dekat sawah atau sore hari. **Obat anti nyamuk wajib banget setiap hari**, bawa selalu dan semprot ulang secara rutin. **Referensi Cepat:** [Daftar Obat/Wajib Bawa Liburan Bali? Cara Beli Anti Nyamuk/Sunscreen?](/id/blog/bali-travel-medicine-checklist/)
 6. **Jaga Perut (Terbukti Manjur):** Biar nggak sakit perut karena perubahan lingkungan, kita terapkan ini dengan ketat, seluruh rombongan nggak ada yang masalah pencernaan:
 7. - **Setiap pagi, perut kosong, minum satu probiotik.**
 
@@ -282,6 +282,6 @@ Kamu pikir itinerary [Lin Konglong](https://www.facebook.com/share/p/1DMYqVwzhq/
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 
-Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
+Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
 
 {{block:攻略}}

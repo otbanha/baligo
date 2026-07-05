@@ -82,11 +82,11 @@ _srcHash: c3f4c28f6e3a55c890e576444d03d2cd
 
 快速參考：
 
-> [印尼/峇里島旅遊換匯懶人包：印尼/峇里島用咩錢？點樣換錢最抵？去邊度換錢最好？](/blog/bali-currency-exchange-guide/)
+> [印尼/峇里島旅遊換匯懶人包：印尼/峇里島用咩錢？點樣換錢最抵？去邊度換錢最好？](/zh-hk/blog/bali-currency-exchange-guide/)
 
 **快速參考：**
 
-- [峇里島美金匯率：大鈔定細鈔？換匯攻略大公開！](/blog/bali-usd-exchange-rate/)
-- [峇里島換錢血淚史：團友親身經歷揭密，千祈唔好貪小便宜！](/blog/bali-money-exchange-scams-2/)
+- [峇里島美金匯率：大鈔定細鈔？換匯攻略大公開！](/zh-hk/blog/bali-usd-exchange-rate/)
+- [峇里島換錢血淚史：團友親身經歷揭密，千祈唔好貪小便宜！](/zh-hk/blog/bali-money-exchange-scams-2/)
 
 ---

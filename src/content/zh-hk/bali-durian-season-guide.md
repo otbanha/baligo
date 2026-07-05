@@ -112,6 +112,6 @@ _srcHash: bde48493a193736f8207bffc38051183
 👉 想避開人潮 → **2～3月都OK**
 👉 其他時間 → 睇運氣 😆
 
-> 延伸閱讀: [熱帶水果女王-印尼/峇里島山竹嘅產季](/blog/bali-mangosteen-season/)
+> 延伸閱讀: [熱帶水果女王-印尼/峇里島山竹嘅產季](/zh-hk/blog/bali-mangosteen-season/)
 
 {{block:美食}}

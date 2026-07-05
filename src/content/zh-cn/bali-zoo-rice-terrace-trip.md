@@ -39,7 +39,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 此外，搭乘游园车也非常方便，可以轻松地观赏到各种动物，孩子们在车上不停地惊呼，完全沉浸在这个充满生机的环境中。如果你带着孩子旅行，这里绝对是一个不容错过的选择。
 
-**快速参考：**[巴厘岛野生动物园 Bali Safari 全攻略：夜宿体验、亲子游乐与行程规划](/blog/bali-safari-night-experience/)
+**快速参考：**[巴厘岛野生动物园 Bali Safari 全攻略：夜宿体验、亲子游乐与行程规划](/zh-cn/blog/bali-safari-night-experience/)
 
 🦒[住在Mara River Safari Lodge](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1012580&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fhotels%2Fdetail%2F253798-mara-river-safari-lodge%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De5b519631a)🐒
 
@@ -63,7 +63,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 **海神庙（Tanah Lot）**是巴厘岛的标志性景点之一，这里的海蚀门和海蚀平台非常壮观，完全符合我们对巴厘岛的想象。虽然海边的阳光有些炙热，但看着海浪拍打岩石的场景，还是让人感到无比震撼。建议来这里的朋友可以带上帽子或遮阳伞，并选择在傍晚时分造访，既能避开烈日，还能欣赏到美丽的日落。
 
-**快速参考：**[巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/blog/bali-tanah-lot-guide/)
+**快速参考：**[巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/zh-cn/blog/bali-tanah-lot-guide/)
 
 🛕🌊🌅海神庙，巴厘岛必访的日落圣地，欣赏壮丽的海景与宗教氛围 ▶[Klook优惠](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
 
@@ -75,7 +75,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 巴厘岛的梯田景观非常有名，我们选择了一个有荡秋千的梯田景点，这里不仅适合拍照，还能让孩子和老人一起玩乐。孩子们在梯田间穿梭，上上下下地奔跑，完全放电；而长辈们则坐在一旁，欣赏着绿意盎然的梯田风光，享受着微风吹拂的舒适感。这里的氛围非常轻松，适合全家一起来体验。
 
-**快速参考：**[Ubud Swing 乌布玩秋千：巴厘岛最美的8个秋千拍照胜地｜乌布秋千/租礼服攻略](/blog/ubud-jungle-swings-photo-guide/)
+**快速参考：**[Ubud Swing 乌布玩秋千：巴厘岛最美的8个秋千拍照胜地｜乌布秋千/租礼服攻略](/zh-cn/blog/ubud-jungle-swings-photo-guide/)
 
 🛕🐒🌿乌布一日游，探索IG热门景点、欣赏鬼斧神工自然美景，享受当地美食与麝香猫咖啡 ☕📸，文化与自然的完美结合 ▶[Klook 50+旅程任选](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989417&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E7%2583%258F%25E5%25B8%2583%25E4%25B8%2580%25E6%2597%25A5%26sort%3Dmost_relevant%26tab_key%3D0%26start%3D1)
 
@@ -87,7 +87,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 **圣泉寺（Tirta Empul）**是一个充满宗教氛围的地方，我们在这里看到了许多当地人进行沐浴仪式，场面非常庄严且新奇。不过，相较于沐浴仪式，我个人对山上的总统行宫更感兴趣。这座建筑充满了历史感，周围的环境也非常优美，值得花点时间细细品味。
 
-**快速参考：**[【2026】Tirta Empul 圣泉寺完整指南：巴厘岛最神圣的净化水庙体验](/blog/tirta-empul-temple-guide/)
+**快速参考：**[【2026】Tirta Empul 圣泉寺完整指南：巴厘岛最神圣的净化水庙体验](/zh-cn/blog/tirta-empul-temple-guide/)
 
 🔱💦 乌布圣泉寺（Tirta Empul）巴厘岛著名圣水寺庙，以净化仪式🙏 和神圣泉水💧闻名，能为信徒与游客带来祝福与好运✨！▶[Klook优惠行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)
 
@@ -99,7 +99,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 **断崖公路**的景色非常壮丽，但由于日前曾发生崩塌，目前虽然修缮良好，还是建议大家搭乘接驳车前往。此外，这里的阳光非常强烈，记得带上帽子或遮阳装备，以免晒伤。
 
-**快速参考：**[巴厘岛 Batu Barak/Tanah Barak：蓝色公路/断崖公路的绝美之旅](/blog/batu-barak-cliff-road/)
+**快速参考：**[巴厘岛 Batu Barak/Tanah Barak：蓝色公路/断崖公路的绝美之旅](/zh-cn/blog/batu-barak-cliff-road/)
 
 🏖️🪨🌊探索蓝色公路悬崖之美，劈开的壮丽景观，随手一拍就是 Instagram 打卡胜地！▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F114124-tanah-barak-cliff-garuda-wisnu-kencana-malini-sunset-tour-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8aad5d46e9)
 
@@ -113,7 +113,7 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 **神鹰文化公园（Garuda Wisnu Kencana Cultural Park）**的占地面积非常广大，其中最引人注目的就是那座巨大的神鹰雕像，其高度和规模确实令人惊叹。从机场就能看到这座雕像，足以见其壮观程度。不过，整个园区的设施似乎还不够完善，感觉有些空旷，建议来这里的朋友可以安排短暂停留，欣赏雕像后再前往其他景点。
 
-**快速参考：**[巴厘岛 Garuda Wisnu Kencana GWK神鹰广场/神鹰文化公园全攻略](/blog/gwk-cultural-park-bali/)
+**快速参考：**[巴厘岛 Garuda Wisnu Kencana GWK神鹰广场/神鹰文化公园全攻略](/zh-cn/blog/gwk-cultural-park-bali/)
 
 🦅☀️🌴GWK神鹰广场 ，巨大的维什努神像和神鹰令人惊叹 😍，还能欣赏传统表演 ，文化与自然的完美结合 ▶[Klook 订票网址](https://affiliate.klook.com/redirect?aid=116349&aff_adid=848821&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D795e4377a1)
 
@@ -188,4 +188,4 @@ _srcHash: 9d1be2475062a0f2842a749e005281d3
 
 点击这里观看更多巴厘岛精彩游记
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/zh-cn/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！

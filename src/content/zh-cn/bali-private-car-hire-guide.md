@@ -32,13 +32,13 @@ update:2026/06/20
 
 ![{小傑印尼} 最愛的司機，每次來必指定！](https://images.gobaligo.id/vocus/vocus_00dce92754e6b20545eeeb0c3d087e34.jpg)
 
-[{小杰印尼} 最爱的司机，每次来必指定！](/blog/bali-private-driver-recommendation/)
+[{小杰印尼} 最爱的司机，每次来必指定！](/zh-cn/blog/bali-private-driver-recommendation/)
 
 ## 巴厘岛旅游的最佳交通方式
 
 ### **包车服务的优势**
 
-如果市区短程交通，像是我们介绍过的「[巴厘岛库塔旅游攻略：50个必访景点、热闹夜生活、美食、推荐SPA全收集](/blog/2023-12-13-657598bdfd8978000120fe20/)」、「[水明漾Seminyak巴厘岛必去地点地图：100个吃喝玩乐全面介绍｜2026最佳旅游指南](/blog/seminyak-guide/)」、「[巴厘岛Canggu完美探险地图：100个坎古必游景点｜2026指南](/blog/canggu-guide/)」等，利用网约车是最好的方式（延伸阅读：[如何在巴厘岛使用网约车？](/blog/gojek-bali-guide/)）。而如果想在一天内参访两三个景点，包车服务就是探索巴厘岛之美的最理想方式。以下是包车的独特优势：
+如果市区短程交通，像是我们介绍过的「[巴厘岛库塔旅游攻略：50个必访景点、热闹夜生活、美食、推荐SPA全收集](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)」、「[水明漾Seminyak巴厘岛必去地点地图：100个吃喝玩乐全面介绍｜2026最佳旅游指南](/zh-cn/blog/seminyak-guide/)」、「[巴厘岛Canggu完美探险地图：100个坎古必游景点｜2026指南](/zh-cn/blog/canggu-guide/)」等，利用网约车是最好的方式（延伸阅读：[如何在巴厘岛使用网约车？](/zh-cn/blog/gojek-bali-guide/)）。而如果想在一天内参访两三个景点，包车服务就是探索巴厘岛之美的最理想方式。以下是包车的独特优势：
 
 1. **安心换汇、办SIM卡** 在陌生的国度，换汇和办理SIM卡可能让人感到头疼。包车司机不仅熟悉当地，还可提供实用建议，确保你以最优惠的方式完成这些必要任务，避免被不诚实的信息所困扰。
 2. **司机的专业与安全** 包车司机通常熟悉巴厘岛的道路和交通状况，能够更安全、顺畅地将你带到目的地。他们也能够提供旅游建议，例如最佳的观光点、美食推荐等。
@@ -53,11 +53,11 @@ update:2026/06/20
 
 ![峇里島司機 Gede Arimbawa 提供](https://images.gobaligo.id/vocus/vocus_59d9e88e1887ee543b65195c87773829.jpg)
 
-[巴厘岛司机 Gede Arimbawa 提供](/blog/bali-private-driver-recommendation/)
+[巴厘岛司机 Gede Arimbawa 提供](/zh-cn/blog/bali-private-driver-recommendation/)
 
 ### 如何预约巴厘岛包车服务？
 
-1. **网上预订** 许多提供服务的巴厘岛司机都可以事先预约。如果你不知道去哪里找，你也可以[参考来自我们两个社团的司机推荐](/blog/bali-private-car-drivers-guide/)。
+1. **网上预订** 许多提供服务的巴厘岛司机都可以事先预约。如果你不知道去哪里找，你也可以[参考来自我们两个社团的司机推荐](/zh-cn/blog/bali-private-car-drivers-guide/)。
 2. **酒店服务台** 大多数巴厘岛的酒店都提供包车服务的安排。你可以直接向酒店的服务台询问并预订。
 3. **当地旅行社/路边卖行程的摊位** 在巴厘岛，有很多当地的旅行社提供包车服务。你可以在抵达巴厘岛后，通过当地旅行社安排包车。
 
@@ -79,7 +79,7 @@ update:2026/06/20
 
 我们用心收集了我们经营的两个脸书社团的丰富资源：「[巴厘岛/印尼吃喝玩乐](https://www.facebook.com/groups/indonesia.travelguide)」以及「[Go Bali Go 巴厘岛旅游](https://www.facebook.com/groups/baligo)」，几乎囊括了所有团友们强力推荐的优质司机，精选制作成了「**巴厘岛优质包车司机名人榜**」！这份榜单不仅是团友们的实际旅游经验，也是我们在巴厘岛多年观察与累积的宝贵资源。从驾驶技术、服务态度到沟通能力，每位上榜司机都经过大家的严格评比，确保您能够享受到安全、舒适、且值得信赖的旅程。
 
-想找到好司机必看▶「[巴厘岛优质包车司机名人榜](/blog/bali-private-car-drivers-guide/)」
+想找到好司机必看▶「[巴厘岛优质包车司机名人榜](/zh-cn/blog/bali-private-car-drivers-guide/)」
 
 ## 巴厘岛包车FAQ
 
@@ -97,7 +97,7 @@ update:2026/06/20
 
 ![巴厘岛包车FAQ](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
 
-请看：[【2026 巴厘岛交通公告】7月1日起包车价格调整通知：司机团队最新报价、计费方式](https://gobaligo.id/blog/bali-car-charter-rates-2026/)
+请看：[【2026 巴厘岛交通公告】7月1日起包车价格调整通知：司机团队最新报价、计费方式](https://gobaligo.id/zh-cn/blog/bali-car-charter-rates-2026/)
 
 **包车五人座的定义？**
 
@@ -160,11 +160,11 @@ update:2026/06/20
 
 ![慎選好的司機是確保旅遊順利的重要關鍵喔！不知道怎麼選可以點擊這裡](https://images.gobaligo.id/vocus/vocus_4425e094ccd3caa0b1c41d8f750091d1.png)
 
-[慎选好的司机是确保旅游顺利的重要关键喔！不知道怎么选可以点击这里](/blog/bali-private-car-drivers-guide/)
+[慎选好的司机是确保旅游顺利的重要关键喔！不知道怎么选可以点击这里](/zh-cn/blog/bali-private-car-drivers-guide/)
 
 ## 最后提醒
 
-曾经发生过这样的情况：我们「[优质司机名人榜](/blog/bali-private-car-drivers-guide/)」上的一位司机（以下简称X司机）按照预约准时抵达机场接机，却发现该组游客同时通过其他管道预订了另一位司机。游客当场选择了另一辆车，并随即取消了X司机后续的所有行程，造成X司机在时间与收入上的双重损失。
+曾经发生过这样的情况：我们「[优质司机名人榜](/zh-cn/blog/bali-private-car-drivers-guide/)」上的一位司机（以下简称X司机）按照预约准时抵达机场接机，却发现该组游客同时通过其他管道预订了另一位司机。游客当场选择了另一辆车，并随即取消了X司机后续的所有行程，造成X司机在时间与收入上的双重损失。
 
 **致所有旅行者的诚挚呼吁**
 
@@ -178,4 +178,4 @@ update:2026/06/20
 
 👈 **回到巴厘岛自由行终极指南**
 
-想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/zh-cn/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

@@ -57,7 +57,7 @@ Kolam renangnya bersih dan luas banget, plus Villa ini menyediakan layanan mobil
 
 > ▶[Cek ketersediaan kamar, tipe, dan harga The Dusun Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=64314)
 
-Review The Dusun Villa sudah masuk di artikel「[20+ Villa Bali yang Wajib Kamu Coba di Seminyak](/blog/2024-04-04-660e6e92fd89780001e6047e/)」
+Review The Dusun Villa sudah masuk di artikel「[20+ Villa Bali yang Wajib Kamu Coba di Seminyak](/id/blog/2024-04-04-660e6e92fd89780001e6047e/)」
 
 ### **Akomodasi di Ubud**
 
@@ -81,7 +81,7 @@ Di sini kamu bisa booking pertunjukan Kecak Dance, nggak perlu berdesakan di ker
 
 ▶[Cek ketersediaan kamar, tipe, dan harga Tanah Gajah](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=69555) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=987913&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazcLFJMEkNYWFY_6hPRPZhBgNLH4LOra-Dtwh926ug-cbIM2atMghgCdiyoHn09gTvaqb9X2OBDoUMoAAx3yHRkZjEHg4y6GLkRWsZgZj5zKbjYweD6tE1oVXO-xgZDrAyHSCcVvoAqZXyxlPsTBzfOC_xPKdKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsQwNDMz0DA6BQSWKFZwpYa3JiTnJpTmJJakhlAdAIMx2lzGLnkqLMgqDU3MySklSgqrTEnOJUkHhQajFQJhksqOQHNKYIKpCZnwfRbogiFpaYU5oKcQPQQrdUqB2GtTqYTn82p_dp98wXm3YT6XRzajvdgBinG9fGPmJhio79xMLwCxgRTR5NrAxdrMwcp5gmAcltobtY2YJ8Ak0CHS-wNi1glJI3NDAwMDU0NjXVNUi0TDQ1TjbUNbE0MbI00TU3MjU00Zi_fXfjU2MjaylI1CswagnGh3h6uhiWFKaaFZZa5hQVmBownmKUMjQ3tjA0MjQ0MjKyNNYzsUgzK7bIK7bIzYrwYAxic3E0N3exiLLhYvZ0CRK8958lV1vZ0l6KOSTcRXHlTea1ByacttcCyRnC5AItvojxv7dcYB-Z120knTLptH0Sa1WGbkh4Rq94AWMDI1MXI7cAowdjBGMFkMe4ipFhAyPjDsb_MMD4ihFkOgCc7suXAAMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494294-72514&detailFilters=17|1~17~1*31|987913~31~987913*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=703&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/kFUdWN1A)
 
-（Sudah masuk di artikel[20+ Villa Bali yang Wajib Kamu Coba di Ubud](/blog/ubud-villa-pool-guide/)）
+（Sudah masuk di artikel[20+ Villa Bali yang Wajib Kamu Coba di Ubud](/id/blog/ubud-villa-pool-guide/)）
 
 # Itinerary
 
@@ -99,7 +99,7 @@ Jimbaran (Foto: Ya-yun Chen)
 
 Menginap di villa dengan kolam renang besar cocok banget buat keluarga yang bawa anak kecil (Foto: Ya-yun Chen)
 
-> Baca juga: [Liburan ke Bali: Rekomendasi Villa Keluarga dengan 3 Kamar / 4 Kamar Tidur](/blog/bali-group-villa-stay/)
+> Baca juga: [Liburan ke Bali: Rekomendasi Villa Keluarga dengan 3 Kamar / 4 Kamar Tidur](/id/blog/bali-group-villa-stay/)
 
 - Pagi hari kami sarapan santai di Villa sambil berenang, lalu lanjut ke iiga Warung untuk makan siang iga babi yang juara. Iga babi di sini empuk dan juicy banget, bikin ngiler.
 
@@ -113,7 +113,7 @@ GWK punya patung tertinggi ke-4 di dunia
 
 GWK punya pertunjukan gratis setiap jam, bisa langsung masuk kapan aja. Kalau kamu nggak mau keluar uang tambahan buat nonton Tari Kecak di Uluwatu, jangan lewatkan pertunjukan api gratis jam 18:00 di sini ya!
 
-[> Panduan Lengkap Garuda Wisnu Kencana GWK Cultural Park di Bali](/blog/gwk-cultural-park-bali/)
+[> Panduan Lengkap Garuda Wisnu Kencana GWK Cultural Park di Bali](/id/blog/gwk-cultural-park-bali/)
 
 > Pesan [Tiket Masuk GWK Cultural Park](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D31be720b57)
 
@@ -123,7 +123,7 @@ Kayak Laut (dok. Ya-yun Chen)
 
 - Setelah itu, kami main kayak di Pantai Mertasari. Cuma USD$1 per perahu, bisa dipakai sejam. Anak-anak asyik main air, sementara orang dewasa santai di pinggir pantai.
 
-> Baca Juga: [Pengalaman Kayak Laut Kak Jie](/blog/sanur-kayaking-experience/)
+> Baca Juga: [Pengalaman Kayak Laut Kak Jie](/id/blog/sanur-kayaking-experience/)
 
 ![Bandar Nelayan Seafood（Ya-yun Chen提供）](https://images.gobaligo.id/vocus/vocus_0986163175368aef99f15a4b9fa93ce4.jpg)
 
@@ -165,7 +165,7 @@ https://youtu.be/op78Dk8CjL4
 - Sore hari menuju ke Pura Ulun Danu Beratan, pura ini terletak di tengah danau, pemandangannya indah seperti lukisan, tempat yang sempurna untuk berfoto.
 - Kami juga mengunjungi Gerbang Handara (Handara Gate). Sesampainya di sana, petugas loket bilang kalau mau foto harus nunggu satu jam, jadi kami memutuskan untuk skip.
 
-> Baca juga: [Ternyata "Pintu Baik-Jahat" Itu Terjemahan yang Salah!? Arti dan Nama yang Benar untuk Candi Bentar](/blog/candi-bentar-balinese-gate-history/)
+> Baca juga: [Ternyata "Pintu Baik-Jahat" Itu Terjemahan yang Salah!? Arti dan Nama yang Benar untuk Candi Bentar](/id/blog/candi-bentar-balinese-gate-history/)
 
 ## **Hari 5：**
 
@@ -173,9 +173,9 @@ https://youtu.be/op78Dk8CjL4
 
 ![Jungle Cart 請看小傑的介紹](https://images.gobaligo.id/vocus/vocus_67919aa2ca07a223f708bf11bc265a00.jpg)
 
-[Lihat review Jungle Cart dari Jie](/blog/ubud-jungle-cart-adventure/)
+[Lihat review Jungle Cart dari Jie](/id/blog/ubud-jungle-cart-adventure/)
 
-> Baca juga: [Bali Ubud Jungle Mario Kart — Jungle Cart Bali](/blog/ubud-jungle-cart-adventure/)
+> Baca juga: [Bali Ubud Jungle Mario Kart — Jungle Cart Bali](/id/blog/ubud-jungle-cart-adventure/)
 
 - Terus kita mampir ke Ubud Palace (Puri Ubud), istana ini masih terawat banget, bikin kita makin paham soal arsitektur tradisional dan budaya Bali.
 - Lanjut kita ke Pura Taman Saraswati (Ubud Water Palace), kolam teratai dan ukiran batunya yang detail bikin betah berlama-lama.
@@ -197,13 +197,13 @@ Aktivitas Day 6 (dok. Ya-yun Chen)
 
 - Hari ini kita ikut Wos Tubbing Adventure rafting, aktivitas air yang seru banget, sekeluarga pada happy semua.
 
-> [Panduan Rafting Bali (FAQ umum rafting)](/blog/bali-rafting-ayung-telaga-waja/)
+> [Panduan Rafting Bali (FAQ umum rafting)](/id/blog/bali-rafting-ayung-telaga-waja/)
 
 > Pesan [tiket diskon Wos River Tubing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F110089-tubing-experience-ubud-wos-tubing-adventure%2F%3Fcampaignid%3D21203884931%26adgroupid%3D166936151891%26targetid%3Ddsa-2304163218195%26matchtype%3D%26device%3Dc%26creative%3D697061761157%26extensionid%3D%26keyword%3D%26loc_interest_ms%3D%26loc_physical_ms%3D9119738%26network%3Dg%26utm_content%3Dcampaignid_21203884931_adgroupid_166936151891%26gad_source%3D1%26gclid%3DCjwKCAjw4_K0BhBsEiwAfVVZ_6xWskrg8op_zwbS5jmaegXQ5hh1Qn8eJlcJUhIOPQ9gyTjW5tKoWBoCUtIQAvD_BwE%26spm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dc20fca3e03)
 
 - Selanjutnya kita mampir ke Bali Bird Park, di sini banyak burung cantik, anak-anak pada tertarik banget sama burung-burung warna-warni ini.
 
-[> Panduan Lengkap Bali Bird Park: Burung Langka, Interaksi Seru, dan Petualangan Konservasi Alam di Bali](/blog/bali-bird-park-guide/)
+[> Panduan Lengkap Bali Bird Park: Burung Langka, Interaksi Seru, dan Petualangan Konservasi Alam di Bali](/id/blog/bali-bird-park-guide/)
 
 > Pesan [Tiket Diskon Bali Bird Park](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D8c994fcef3)
 

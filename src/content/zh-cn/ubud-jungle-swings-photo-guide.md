@@ -54,7 +54,7 @@ _srcHash: 620ee3010b60aa71167b71a624fc7a50
 
 ## 推荐体验地点
 
-> [Aloha Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20061-aloha-ubud-swing-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db14b625403) （[这里](/blog/aloha-ubud-swing-guide/)有专文介绍）
+> [Aloha Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20061-aloha-ubud-swing-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db14b625403) （[这里](/zh-cn/blog/aloha-ubud-swing-guide/)有专文介绍）
 
 > [Bali Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20020-swing-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D57a4f3d075)
 

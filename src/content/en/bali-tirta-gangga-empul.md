@@ -47,7 +47,7 @@ Tirta Gangga is not only a visual marvel but also a place of profound spiritual 
 
 The best time to visit is during the dry season from April to October. Remember to dress modestly and respect local customs.
 
-> Further reading: [Truly a Fairyland! Three Must-See Attractions in Eastern Bali: Gates of Heaven, Tirta Gangga, and Ujung Water Palace](/blog/bali-east-tour-guide/)
+> Further reading: [Truly a Fairyland! Three Must-See Attractions in Eastern Bali: Gates of Heaven, Tirta Gangga, and Ujung Water Palace](/en/blog/bali-east-tour-guide/)
 
 {{block:戶外}}
 
@@ -72,7 +72,7 @@ Notably:
 - The best times to visit are early morning or evening to avoid crowds
 - Two spouts are reserved for cleaning the deceased and are prohibited for melukat rituals
 
-**For further tips, refer to:** [**Complete Guide to Tirta Empul**](/blog/tirta-empul-temple-guide/)
+**For further tips, refer to:** [**Complete Guide to Tirta Empul**](/en/blog/tirta-empul-temple-guide/)
 
 ![2016年小傑在聖泉寺](https://images.gobaligo.id/vocus/vocus_4f009e23b2961e9bbeaefb0a4ee8b71e.jpg)
 

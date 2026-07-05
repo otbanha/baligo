@@ -38,7 +38,7 @@ _srcHash: c1e01c21b9aee71fa6e15fdbfda57ffc
 
 这不仅仅是一个动物园，它更像是一座浓缩了印尼群岛爬虫生态的活体博物馆。更棒的是，它就**紧邻着巴厘岛鸟园（Bali Bird Park）**，两座园区共用同一个停车场，步行几步就能转换场景，从「爬虫的沉默世界」瞬间踏入「羽族的缤纷天堂」。时间安排得宜，你绝对可以一次畅玩两个风格迥异、却同样精彩万分的动物王国。
 
-➡ 更多巴厘岛亲子乐园推荐：[巴厘岛十大亲子乐园完全攻略](/blog/top-10-kids-attractions-in-bali/)
+➡ 更多巴厘岛亲子乐园推荐：[巴厘岛十大亲子乐园完全攻略](/zh-cn/blog/top-10-kids-attractions-in-bali/)
 
 ## 为什么这里值得专程前往？
 
@@ -136,7 +136,7 @@ _srcHash: c1e01c21b9aee71fa6e15fdbfda57ffc
 **【下午】巴厘岛鸟园（Bali Bird Park）－ 建议停留 3-4 小时**
 午餐后，直接步行到隔壁的鸟园！这里占地广阔，拥有超过 **250 种、上千只**来自印尼群岛及世界各地的鸟类。你可以走进巨大的鸟舍，让可爱的犀鸟、鹦鹉在你头顶飞过；更不能错过每天固定时段的**鹦鹉秀**和**猛禽秀**，非常精彩！鸟园的造景也极具热带风情，瀑布、莲花池、传统巴厘岛建筑，随便拍都像明信片。
 
-详细介绍：[Bali Bird Park 巴厘岛鸟园终极攻略：珍稀鸟种、互动活动与生态保育的奇幻旅程](https://gobaligo.id/blog/bali-bird-park-guide/)
+详细介绍：[Bali Bird Park 巴厘岛鸟园终极攻略：珍稀鸟种、互动活动与生态保育的奇幻旅程](https://gobaligo.id/zh-cn/blog/bali-bird-park-guide/)
 
 > 在线购票：[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D9f20741f36) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-bird-park-80525/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -234,6 +234,6 @@ _srcHash: c1e01c21b9aee71fa6e15fdbfda57ffc
 
 > 线上购票：[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F37955-bali-reptile-park-ticket%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7db7e3e24e) [Kkday](https://www.kkday.com/zh-tw/product/593869?qs=Bali+Reptile+Park&cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-reptile-park-128527409/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
-➡ 更多巴厘岛亲子乐园推荐：[巴厘岛十大亲子乐园完全攻略](/blog/top-10-kids-attractions-in-bali/)
+➡ 更多巴厘岛亲子乐园推荐：[巴厘岛十大亲子乐园完全攻略](/zh-cn/blog/top-10-kids-attractions-in-bali/)
 
 {{block:戶外}}

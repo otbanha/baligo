@@ -58,9 +58,9 @@ Meskipun luas wilayah Bali tidak terlalu besar, pulau ini memiliki pilihan tempa
 
 ![Ubud](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
-Ubud adalah pusat seni dan budaya Bali, dengan sawah terasering yang hijau, hutan yang tenang, dan tradisi yang kaya, menarik banyak pelancong. Tempat ini ideal untuk bersantai. Mau eksplorasi tradisi lokal, nikmati keindahan alam, atau coba berbagai aktivitas outdoor seru plus pengalaman unik kuliner dan pemandangan, Ubud pasti bikin kamu terkesan! Ingin tahu lebih banyak panduan Ubud? [Klik di sini](/blog/ubud-guide/)
+Ubud adalah pusat seni dan budaya Bali, dengan sawah terasering yang hijau, hutan yang tenang, dan tradisi yang kaya, menarik banyak pelancong. Tempat ini ideal untuk bersantai. Mau eksplorasi tradisi lokal, nikmati keindahan alam, atau coba berbagai aktivitas outdoor seru plus pengalaman unik kuliner dan pemandangan, Ubud pasti bikin kamu terkesan! Ingin tahu lebih banyak panduan Ubud? [Klik di sini](/id/blog/ubud-guide/)
 
-Kuta adalah pusat wisata paling hidup di Bali, menarik pelancong dari seluruh dunia dengan kehidupan malam yang ramai, jalan-jalan yang sibuk, dan pantai yang cocok untuk pemula selancar. Di sini, kamu akan menemukan berbagai toko, restoran, dan tempat hiburan yang berlimpah—tempat yang sempurna untuk mencari sensasi dan berbelanja. Baik kamu ingin merasakan suasana pesta yang seru atau menikmati pemandangan matahari terbenam, Kuta pasti akan membuat liburanmu penuh kenangan seru! Ingin tahu lebih banyak tips tentang Kuta? [Klik di sini](/blog/2023-12-13-657598bdfd8978000120fe20/)
+Kuta adalah pusat wisata paling hidup di Bali, menarik pelancong dari seluruh dunia dengan kehidupan malam yang ramai, jalan-jalan yang sibuk, dan pantai yang cocok untuk pemula selancar. Di sini, kamu akan menemukan berbagai toko, restoran, dan tempat hiburan yang berlimpah—tempat yang sempurna untuk mencari sensasi dan berbelanja. Baik kamu ingin merasakan suasana pesta yang seru atau menikmati pemandangan matahari terbenam, Kuta pasti akan membuat liburanmu penuh kenangan seru! Ingin tahu lebih banyak tips tentang Kuta? [Klik di sini](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 ![Ubud](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
 
@@ -70,9 +70,9 @@ Seminyak adalah kawasan di Bali yang memadukan gaya时尚 dan tradisi, dengan re
 
 ![Seminyak](https://images.gobaligo.id/vocus/vocus_366287b60b610bfff45aea753d91ba55.jpg)
 
-[Panduan Lengkap Seminyak](/blog/seminyak-guide/)[Klik di sini](/blog/seminyak-guide/)
+[Panduan Lengkap Seminyak](/id/blog/seminyak-guide/)[Klik di sini](/id/blog/seminyak-guide/)
 
-[水明漾完整攻略](/blog/seminyak-guide/)[請點擊這裡](/blog/seminyak-guide/)
+[水明漾完整攻略](/id/blog/seminyak-guide/)[請點擊這裡](/id/blog/seminyak-guide/)
 
 ### Canggu
 
@@ -80,32 +80,32 @@ Seminyak adalah kawasan di Bali yang memadukan gaya时尚 dan tradisi, dengan re
 
 Canggu adalah spot hits di Bali yang menggabungkan vibe santai dengan gaya kekinian. Nggak cuma punya pantai yang memesona, tapi juga banyak kafe unik, restoran kreatif, dan butik-butik kecil yang kece. Tempat ini wajib banget dikunjungi buat para pecinta surfing dan traveler muda. Mau menikmati alam atau eksplor budaya lokal, Canggu siap memenuhi ekspektasi kamu!
 
-Mau tahu lebih banyak tips seru di Canggu? [Klik di sini](/blog/canggu-guide/).
+Mau tahu lebih banyak tips seru di Canggu? [Klik di sini](/id/blog/canggu-guide/).
 
 ### Uluwatu: Makan, Minum, dan Seru-seruan
 
 ![Uluwatu: Makan, Minum, dan Seru-seruan](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
-Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal dengan tebing-tebing spektakuler, pantai yang memesona, dan spot surfing kelas dunia. Suasananya penuh romantisme tropis—cocok banget buat nikmatin sunset dan waktu santai. Kalau kamu juga mau nginep di Uluwatu, cek aja rekomendasi makan, minum, dan main yang udah kami susun rapi biar liburanmu makin seru: [【Panduan Uluwatu】Rekomendasi Tempat Wisata, Makan, Minum, dan Main di Uluwatu](/blog/uluwatu-guide/)
+Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal dengan tebing-tebing spektakuler, pantai yang memesona, dan spot surfing kelas dunia. Suasananya penuh romantisme tropis—cocok banget buat nikmatin sunset dan waktu santai. Kalau kamu juga mau nginep di Uluwatu, cek aja rekomendasi makan, minum, dan main yang udah kami susun rapi biar liburanmu makin seru: [【Panduan Uluwatu】Rekomendasi Tempat Wisata, Makan, Minum, dan Main di Uluwatu](/id/blog/uluwatu-guide/)
 
 ### Nusa Dua
 
 ![Nusa Dua](https://images.gobaligo.id/vocus/vocus_b44c89e53b6c550aa22f958f7e8008f5.png)
 
-Nusa Dua adalah kawasan di Bali yang terkenal dengan resor mewahnya. Punya pantai putih bersih, air laut biru jernih, dan fasilitas wisata yang lengkap banget — cocok banget buat kamu yang cari pengalaman kelas atas dan liburan yang tenang. Di sini juga ada spa top, olahraga air, dan aktivitas santai yang cocok untuk seluruh keluarga. Surga banget buat semua tipe traveler. Mau tahu lebih banyak tips Nusa Dua? Klik [di sini](/blog/nusa-dua-guide/)
+Nusa Dua adalah kawasan di Bali yang terkenal dengan resor mewahnya. Punya pantai putih bersih, air laut biru jernih, dan fasilitas wisata yang lengkap banget — cocok banget buat kamu yang cari pengalaman kelas atas dan liburan yang tenang. Di sini juga ada spa top, olahraga air, dan aktivitas santai yang cocok untuk seluruh keluarga. Surga banget buat semua tipe traveler. Mau tahu lebih banyak tips Nusa Dua? Klik [di sini](/id/blog/nusa-dua-guide/)
 
 ### Sanur
 
 ![Sanur](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
-Sanur adalah sebuah kota kecil di pesisir Bali yang penuh ketenangan, terkenal dengan pantainya yang tenang, suasana santai, dan pemandangan matahari terbit yang spektakuler. Di sini ada resor ramah keluarga, pasar tradisional, dan beragam kuliner lokal yang kaya—tempat ideal buat menikmati slow living sambil eksplorasi budaya. Mau jalan-jalan di sepanjang garis pantai atau merasakan vibe lokal, Sanur bakal kasih kamu liburan yang super rileks! Mau tahu lebih banyak tips Sanur? [Klik di sini](/blog/sanur-guide/).
+Sanur adalah sebuah kota kecil di pesisir Bali yang penuh ketenangan, terkenal dengan pantainya yang tenang, suasana santai, dan pemandangan matahari terbit yang spektakuler. Di sini ada resor ramah keluarga, pasar tradisional, dan beragam kuliner lokal yang kaya—tempat ideal buat menikmati slow living sambil eksplorasi budaya. Mau jalan-jalan di sepanjang garis pantai atau merasakan vibe lokal, Sanur bakal kasih kamu liburan yang super rileks! Mau tahu lebih banyak tips Sanur? [Klik di sini](/id/blog/sanur-guide/).
 
 ### **Eksplorasi Pulau Sekitar (Kayak Nusa Penida & Nusa Lembongan)**
 
 Pulau-pulau kecil yang super cantik ini cuma butuh perjalanan kapal sebentar. Airnya biru bening, ada terumbu karang, dan pantainya bersih — tempat terbaik buat snorkeling, island hopping, atau sekadar santai lepas pikiran.
 
-- [Panduan Nusa Penida](/blog/nusa-penida-guide/)
-- [Panduan Nusa Lembongan & Ceningan](/blog/nusa-lembongan-ceningan-guide/)
+- [Panduan Nusa Penida](/id/blog/nusa-penida-guide/)
+- [Panduan Nusa Lembongan & Ceningan](/id/blog/nusa-lembongan-ceningan-guide/)
 
 ---
 
@@ -126,7 +126,7 @@ Semua ini menyatu jadi 'jalan harmoni' khas Bali (Tri Hita Karana), yang menyela
 Selain masuk jajaran 3 besar dunia, bulan lalu Bali berhasil mengalahkan Koh Samui (Thailand) dan Phu Quoc (Vietnam) di ajang *Travel + Leisure* Asia Pacific Luxury Travel Awards, dan dinobatkan sebagai **Pulau Terbaik di Asia Pasifik**. Penghargaan ini fokus di pasar wisata mewah, tapi justru makin ngejelasin kalau Bali punya daya tarik dari yang budget-friendly sampai high-end — cocok buat semua tipe traveler.
 
 **Referensi Cepat:**  
-[2025 Ranking Pulau Terbaik Asia: Bali Raih Juara 1](/blog/bali-best-island-2025/)
+[2025 Ranking Pulau Terbaik Asia: Bali Raih Juara 1](/id/blog/bali-best-island-2025/)
 
 ---
 

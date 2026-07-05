@@ -28,13 +28,13 @@ _srcHash: 4205fd602554bad05b0acae0d9e76629
 
 由于8月至9月是巴厘岛的旅游旺季，落地签证柜台和海关的排队时间通常需要2-3小时以上。幸运的是，我们提前申请了电子签证（EVoA），并使用自动通关闸门，这使得整个通关过程非常顺利。我们从下飞机到拿行李，进入入境大厅只花了7-8分钟。建议大家如果可以，还是先申请电子签证，这样会节省很多时间。
 
-> 延伸阅读：[【2026版】印尼巴厘岛入境使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](https://gobaligo.id/blog/bali-all-indonesia-arrival-guide/)
+> 延伸阅读：[【2026版】印尼巴厘岛入境使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](https://gobaligo.id/zh-cn/blog/bali-all-indonesia-arrival-guide/)
 
 ## 网卡
 
 在巴厘岛，我们选择购买当地的网卡。库塔和乌鲁瓦图市区的网卡可以支援5G网络，其他一些比较偏远一点的地区则主要是4G。即使在离岛，网络信号也基本上能够支持导航，但在Penida海边区域，信号较差，只有在某些特定观光景点信号才会比较好。不过，这并不影响我们的整体行程。
 
-> 延伸阅读：[【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡?](/blog/bali-sim-card-esim-roaming-guide/)
+> 延伸阅读：[【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡?](/zh-cn/blog/bali-sim-card-esim-roaming-guide/)
 
 ## 购物
 
@@ -42,7 +42,7 @@ _srcHash: 4205fd602554bad05b0acae0d9e76629
 
 在巴厘岛购物需要一定的砍价技巧。一般来说，可以从标价的一半开始砍价，最后成交价通常是标价的3到4折。乌布地区的价格相对较好，选择也多。同样的商品，在库塔的价格通常会比乌布贵2-3倍。因此，购物时选择地点非常重要。
 
-> 延伸阅读：[巴厘岛购物如何砍价？购物须知](/blog/bali-shopping-bargaining-tips/)
+> 延伸阅读：[巴厘岛购物如何砍价？购物须知](/zh-cn/blog/bali-shopping-bargaining-tips/)
 
 ## 交通
 
@@ -50,7 +50,7 @@ _srcHash: 4205fd602554bad05b0acae0d9e76629
 
 https://youtu.be/KQwrSiqq_Dw
 
-编按：参考我们的「[巴厘岛分区攻略](https://gobaligo.id/blog/?lang=tw&cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)」是最好的指南！
+编按：参考我们的「[巴厘岛分区攻略](https://gobaligo.id/zh-cn/blog/?lang=tw&cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)」是最好的指南！
 
 ## 食物
 
@@ -58,7 +58,7 @@ https://youtu.be/KQwrSiqq_Dw
 
 https://youtu.be/-qvy0RZq1j8
 
-延伸阅读：[巴厘岛旅游要给小费吗？小费怎么给？巴厘岛各种场合的小费要给多少？](/blog/bali-tipping-guide-driver-spa/)
+延伸阅读：[巴厘岛旅游要给小费吗？小费怎么给？巴厘岛各种场合的小费要给多少？](/zh-cn/blog/bali-tipping-guide-driver-spa/)
 
 我们拜访了号称全亚洲最大的Atlas Beach Club。顺道提一下，如果你到Beach Club或Day Club，给服务员一些小费，他们会非常关照你，甚至帮你看管包包。
 
@@ -76,7 +76,7 @@ https://youtu.be/8SW4Je-sJbY
 
 [**▶Klook的Nusa Penida优惠**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=909332&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fpoi%2F50190574-nusa-penida%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D21079c02f9)
 
-**编按：来到这里「切记」不要下海喔！已经发生过**[**不少次致死意外了**](/blog/bali-attractions-safety-alert/)**～**
+**编按：来到这里「切记」不要下海喔！已经发生过**[**不少次致死意外了**](/zh-cn/blog/bali-attractions-safety-alert/)**～**
 
 另一个是Tembeling Beach and Forest，这里人比较少，非常适合休息。不过，通往景点的路况不好，需要特别小心。Diamond Beach相对而言比较一般。由于Penida是新开发的离岛，住宿和餐饮的品质不高，价格也比巴厘岛本岛贵两倍左右。整体来说，我们的Penida岛之行还是非常不错的。
 
@@ -105,7 +105,7 @@ https://youtu.be/8SW4Je-sJbY
 https://youtu.be/1HgJ8ki8MEs
 
 **延伸阅读：**
-[佩尼达岛的住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/blog/nusa-penida-hotels-guide/)
+[佩尼达岛的住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/zh-cn/blog/nusa-penida-hotels-guide/)
 
 总的来说，巴厘岛是一个适合慢步调生活和休息创作的好地方。希望这次的心得分享能对你的巴厘岛旅行有所帮助！🌴
 

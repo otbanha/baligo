@@ -41,7 +41,7 @@ Another group member, Huang Junjie, added some additional information:
 
 ![Entry Options for Indonesia/Bali: On-Arrival Visa vs. E-Visa](https://images.gobaligo.id/vocus/vocus_d5ae856e88dfdd6239eb60a49618a6d5.png)
 
-> Extended Reading: [Using the 'All Indonesia' Declaration System for Bali Entry in 2026｜1-Minute Guide to the Latest Process: From Landing to Customs to Baggage Claim](/blog/bali-all-indonesia-arrival-guide/)
+> Extended Reading: [Using the 'All Indonesia' Declaration System for Bali Entry in 2026｜1-Minute Guide to the Latest Process: From Landing to Customs to Baggage Claim](/en/blog/bali-all-indonesia-arrival-guide/)
 
 ## Why do I hear that the on-arrival visa is quick?
 
@@ -51,7 +51,7 @@ If you encounter a large crowd going through immigration procedures, the situati
 
 ![Why do I hear that the on-arrival visa is quick?](https://images.gobaligo.id/vocus/vocus_75e0b7b75b7ad28994890343c6c92319.png)
 
-> Further reading: [Indonesia/Bali eVOA Guide: Application Steps & Important Notes!](/blog/bali-evisa-application-guide/)
+> Further reading: [Indonesia/Bali eVOA Guide: Application Steps & Important Notes!](/en/blog/bali-evisa-application-guide/)
 
 Regarding on-site payment for visa on arrival, netizens' experiences vary significantly. Some report that payment was very quick with almost no queue, while others mention that during peak tourist seasons or when many flights arrive simultaneously, waiting times can be lengthy, sometimes exceeding an hour.
 
@@ -73,6 +73,6 @@ Of course, if you enjoy adventure or have flexible arrival times, you can choose
 
 Therefore, we still recommend **applying for the electronic visa in advance** whenever possible to enjoy the convenience of automated immigration. We've compiled common issues with electronic visa applications in the link below to help solve any problems you might encounter during the application process:
 
-> [Essential Forms for Entering Indonesia/Bali: eVisa, eCD Customs, SSHP Health Declaration - All Indonesia FAQ](/blog/bali-evisa-customs-health-declaration/)
+> [Essential Forms for Entering Indonesia/Bali: eVisa, eCD Customs, SSHP Health Declaration - All Indonesia FAQ](/en/blog/bali-evisa-customs-health-declaration/)
 
 {{block:klook}}

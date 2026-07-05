@@ -133,7 +133,7 @@ The Spa at the resort offers a variety of traditional Balinese massages, aromath
 
 Just a 30-minute drive from Bali International Airport, we've compiled 50 popular attractions in the area:
 
-[【Uluwatu Guide】50 Must-Visit Spots in Uluwatu](/blog/uluwatu-guide/)
+[【Uluwatu Guide】50 Must-Visit Spots in Uluwatu](/en/blog/uluwatu-guide/)
 
 ## Check Agoda's Special Rates for Your Dates
 

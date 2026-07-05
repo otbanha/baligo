@@ -28,7 +28,7 @@ _srcHash: efc61a95dce192fc35bb6d7b3f1d6a22
 
 ![簽證：](https://images.gobaligo.id/vocus/vocus_a26a7527e1e934bfe40d5158bf8470d7.png)
 
-> 延伸閱讀：[2025/08印尼峇里島入境使用「All Indonesia」申報系統｜1分鐘搞掂最新流程：落飛機→過海關→攞行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
+> 延伸閱讀：[2025/08印尼峇里島入境使用「All Indonesia」申報系統｜1分鐘搞掂最新流程：落飛機→過海關→攞行李全攻略](/zh-hk/blog/bali-all-indonesia-arrival-guide/)
 
 ## 包車司機：
 
@@ -38,7 +38,7 @@ _srcHash: efc61a95dce192fc35bb6d7b3f1d6a22
 
 仲有一次，我哋埋單嗰日，司機話因為係假期，要額外加收 Rp5 萬。呢個情況令我哋好困惑，因為出發前我特登確認咗兩次價錢，司機都話唔會有變動。呢種臨時加價嘅行為令我哋好不滿。所以，大家預訂包車服務嗰陣，一定要仔細核對價錢同條款，避免遇到類似嘅情況。
 
-> 延伸閱讀：[【峇里島包車司機推薦名人榜】峇里島司機網友評鑑大全：睇網友真實點評搵到適合你嘅好司機](/blog/bali-private-car-drivers-guide/)
+> 延伸閱讀：[【峇里島包車司機推薦名人榜】峇里島司機網友評鑑大全：睇網友真實點評搵到適合你嘅好司機](/zh-hk/blog/bali-private-car-drivers-guide/)
 
 ## 景點同餐廳：
 
@@ -48,7 +48,7 @@ _srcHash: efc61a95dce192fc35bb6d7b3f1d6a22
 
 Li Wallis 提供
 
-海神廟（Tanah Lot）係一個非常靚同值得一訪嘅景點。廟宇起喺海邊嘅岩石上，漲潮時會被海水包圍，形成獨特嘅景觀。呢度嘅日落尤其壯觀，建議傍晚前嚟，可以睇到壯麗嘅海上日落景色。快速參考：[峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](/blog/bali-tanah-lot-guide/)
+海神廟（Tanah Lot）係一個非常靚同值得一訪嘅景點。廟宇起喺海邊嘅岩石上，漲潮時會被海水包圍，形成獨特嘅景觀。呢度嘅日落尤其壯觀，建議傍晚前嚟，可以睇到壯麗嘅海上日落景色。快速參考：[峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](/zh-hk/blog/bali-tanah-lot-guide/)
 
 🛕🌊🌅海神廟，峇里島必訪嘅日落聖地，欣賞壯麗嘅海景同宗教氛圍 ▶[Klook優惠](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
 
@@ -60,7 +60,7 @@ Li Wallis 提供
 
 Li Wallis 提供
 
-烏魯瓦圖廟（Uluwatu Temple）同樣靚，起喺峭壁上，俯瞰印度洋，風景非常壯觀。不過，呢度嘅猴子好狡猾，會搶走你嘅眼鏡、帽同手機，所以要格外小心保管自己嘅物品。快速參考：[峇里島烏魯瓦圖廟/情人崖旅遊指南：必看亮點與實用建議](/blog/uluwatu-temple-travel-guide/)]
+烏魯瓦圖廟（Uluwatu Temple）同樣靚，起喺峭壁上，俯瞰印度洋，風景非常壯觀。不過，呢度嘅猴子好狡猾，會搶走你嘅眼鏡、帽同手機，所以要格外小心保管自己嘅物品。快速參考：[峇里島烏魯瓦圖廟/情人崖旅遊指南：必看亮點與實用建議](/zh-hk/blog/uluwatu-temple-travel-guide/)]
 
 🛕🌊🌅 烏魯瓦圖廟，懸崖之上嘅壯麗景點，仲可以欣賞傳統嘅火舞表演 ▶[Klook優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fp50231639-uluwatu%2F1-things-to-do%2F)
 
@@ -70,7 +70,7 @@ Li Wallis 提供
 
 Li Wallis 提供
 
-斷崖公路（Broken Beach）都係一個唔可以錯過嘅景點。建議早啲出發，我哋11點前到達時，人仲唔多，可以影到好多靚相。之後，隨住人流增加，影相就變得困難。影完斷崖公路後，唔好急住離開，繼續向前行會到達一個美麗嘅沙灘。快速參考：[峇里島 Batu Barak/Tanah Barak：藍色公路/斷崖公路嘅絕美之旅](/blog/batu-barak-cliff-road/)
+斷崖公路（Broken Beach）都係一個唔可以錯過嘅景點。建議早啲出發，我哋11點前到達時，人仲唔多，可以影到好多靚相。之後，隨住人流增加，影相就變得困難。影完斷崖公路後，唔好急住離開，繼續向前行會到達一個美麗嘅沙灘。快速參考：[峇里島 Batu Barak/Tanah Barak：藍色公路/斷崖公路嘅絕美之旅](/zh-hk/blog/batu-barak-cliff-road/)
 
 🏖️🪨🌊探索藍色公路懸崖之美，劈開嘅壯麗景觀，隨手一影就係 Instagram 打卡勝地！▶[Klook優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F114124-tanah-barak-cliff-garuda-wisnu-kencana-malini-sunset-tour-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8aad5d46e9)
 
@@ -84,7 +84,7 @@ Li Wallis 提供
 
 Li Wallis 提供
 
-聖泉寺（Tirta Empul）係一個值得一去嘅地方。如果你打算落水淨身，記得帶替換嘅衫。此外，呢度附近有美麗嘅梯田，我哋喺梯田旁邊嘅咖啡館叫咗兩杯飲品，坐喺度欣賞風景，感覺非常寫意。延伸閱讀：[【2025】Tirta Empul 聖泉寺完整指南：峇里島最神聖嘅淨化水廟體驗](/blog/tirta-empul-temple-guide/)
+聖泉寺（Tirta Empul）係一個值得一去嘅地方。如果你打算落水淨身，記得帶替換嘅衫。此外，呢度附近有美麗嘅梯田，我哋喺梯田旁邊嘅咖啡館叫咗兩杯飲品，坐喺度欣賞風景，感覺非常寫意。延伸閱讀：[【2025】Tirta Empul 聖泉寺完整指南：峇里島最神聖嘅淨化水廟體驗](/zh-hk/blog/tirta-empul-temple-guide/)
 
 🔱💦 烏布聖泉寺（Tirta Empul）峇里島著名聖水寺廟，以淨化儀式🙏 同神聖泉水💧聞名，能為信徒同遊客帶來祝福同好運✨！▶[Klook優惠行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)
 
@@ -110,7 +110,7 @@ Li Wallis 提供
 
 烏布市集嘅紀念品幾乎都係一模一樣，冇咩特別吸引我哋買嘅嘢，相反，我哋喺行超市嗰陣更加開心，雖然價錢貴少少。意外發現咗Bali Galeria Mall，非常好行！呢度有超市、紀念品店同餐廳，應有盡有。本來我哋想搵郵局寄明信片，但郵局已經閂咗門🥲。所以，想去郵局嘅朋友記得要早啲去。最後，我哋喺機場買咗郵票並搵到郵筒。
 
-> 延伸閱讀：[【網友推薦】六大種類，超過20項峇里島伴手禮推薦指南：留住珍貴回憶嘅絕佳選擇](/blog/bali-souvenirs-gift-guide/)
+> 延伸閱讀：[【網友推薦】六大種類，超過20項峇里島伴手禮推薦指南：留住珍貴回憶嘅絕佳選擇](/zh-hk/blog/bali-souvenirs-gift-guide/)
 
 ## 其他心得
 
@@ -124,7 +124,7 @@ https://youtu.be/0M0voLfFLrQ
 
 ## 呢度仲有：
 
-[峇里島避雷攻略：18個常見錯誤同建議](/blog/bali-travel-mistakes-tips/)
+[峇里島避雷攻略：18個常見錯誤同建議](/zh-hk/blog/bali-travel-mistakes-tips/)
 
 你覺得Li Wallis佢哋嘅行程好精彩咩？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家到社團投稿你嘅行程喔！
 
@@ -132,6 +132,6 @@ https://youtu.be/0M0voLfFLrQ
 
 點擊呢度睇更多峇里島精彩遊記
 
-你都想寫遊記但係唔知點落手？可以參考下「[點樣寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！
+你都想寫遊記但係唔知點落手？可以參考下「[點樣寫一篇精彩嘅峇里島遊記](/zh-hk/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！
 
 {{block:攻略}}

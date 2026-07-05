@@ -32,7 +32,7 @@ _srcHash: 9c96d1945df801446b17cd0761b4304a
 
 戴妤珊提供
 
-> 山竹咩季節最好？請睇：[熱帶水果女王-印尼/峇里島山竹嘅產季](/blog/bali-mangosteen-season/)
+> 山竹咩季節最好？請睇：[熱帶水果女王-印尼/峇里島山竹嘅產季](/zh-hk/blog/bali-mangosteen-season/)
 
 每日朝早，佢都準時到villa接我哋，而且對我哋嘅需求總係可以迅速咁回應。我哋想搵書店時，佢即刻打電話畀書店，用印尼話問店員。即使喺百沙基母廟，佢都會喺我哋落車前提醒我哋注意事項。能夠遇到Komang Sucika咁嘅司機，我哋覺得非常幸運！佢嘅服務已經遠超出佢收取嘅價格，我哋畀咗佢豐厚嘅小費，因為我哋認為佢絕對值得更多。
 
@@ -62,11 +62,11 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 影片由戴妤珊提供
 
-> La Brisa詳細介紹/點樣預約？請睇：[被譽為係「峇里島最靚嘅餐廳」：La Brisa喺數以萬計嘅美食餐廳入面點樣突圍而出？](/blog/canggu-la-brisa-restaurant-guide/)
+> La Brisa詳細介紹/點樣預約？請睇：[被譽為係「峇里島最靚嘅餐廳」：La Brisa喺數以萬計嘅美食餐廳入面點樣突圍而出？](/zh-hk/blog/canggu-la-brisa-restaurant-guide/)
 
 ![第一日（庫塔/坎古）：](https://images.gobaligo.id/vocus/vocus_a8d594309ff33fbcc5edd332d4309d42.jpg)
 
-想知更多坎古攻略？[請撳呢度](/blog/canggu-guide/)
+想知更多坎古攻略？[請撳呢度](/zh-hk/blog/canggu-guide/)
 
 ## 第二日(Ubud)：
 
@@ -77,7 +77,7 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 - 烏布市場
 - 烏布皇宮
 
-> 烏布鬧區點樣行？請睇[烏布市中心逛街攻略](/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
+> 烏布鬧區點樣行？請睇[烏布市中心逛街攻略](/zh-hk/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
 
 - 德哥拉朗梯田
 
@@ -95,7 +95,7 @@ https://youtu.be/op78Dk8CjL4
 
 戴妤珊提供
 
-> 呢個景點嘅詳細介紹請睇：[穿越時空嘅 Penglipuran 村莊：體驗峇里古老嘅魅力](/blog/penglipuran-village-bali-experience/)
+> 呢個景點嘅詳細介紹請睇：[穿越時空嘅 Penglipuran 村莊：體驗峇里古老嘅魅力](/zh-hk/blog/penglipuran-village-bali-experience/)
 
 - 午餐：Naughty Nuri's Ubud（豬肋骨好出名）
 - 點心：Tukies cocount shop（椰子冰）
@@ -162,7 +162,7 @@ https://youtu.be/op78Dk8CjL4
 
 戴妤珊提供
 
-> [峇里島烏魯瓦圖廟/情人崖旅遊指南：必睇亮點同實用建議](https://gobaligo.id/blog/uluwatu-temple-travel-guide/)
+> [峇里島烏魯瓦圖廟/情人崖旅遊指南：必睇亮點同實用建議](https://gobaligo.id/zh-hk/blog/uluwatu-temple-travel-guide/)
 
 - Suluban Beach（好靚嘅沙灘！）
 
@@ -177,7 +177,7 @@ https://youtu.be/hQbBTktqEqY
 
 呢次旅程令我哋收穫滿滿，如果你正計劃緊峇里島之旅，不妨參考吓我嘅行程啦！
 
-> [【網友推薦】六大種類，超過20項峇里島手信推薦指南：留住珍貴回憶嘅絕佳選擇](https://gobaligo.id/blog/bali-souvenirs-gift-guide/)
+> [【網友推薦】六大種類，超過20項峇里島手信推薦指南：留住珍貴回憶嘅絕佳選擇](https://gobaligo.id/zh-hk/blog/bali-souvenirs-gift-guide/)
 
 ## 【峇里島包車司機推薦 Part 2】
 

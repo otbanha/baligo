@@ -40,11 +40,11 @@ _srcHash: c0a1f573c80784d9a39391dbec9899e0
 11. 充电转接头：记得携带充电转接头，或者先询问酒店是否可以借用。
 12. 额外税金：有些餐厅和按摩店会收取额外的税金，刷卡也有可能多收3%的手续费。
 
-> [印尼/巴厘岛旅游必读：电压与插座指南完全手册！](/blog/bali-voltage-adapter-tips/)
+> [印尼/巴厘岛旅游必读：电压与插座指南完全手册！](/zh-cn/blog/bali-voltage-adapter-tips/)
 
-> [巴厘岛旅游要给小费吗？小费怎么给？巴厘岛各种场合的小费要给多少？](/blog/bali-tipping-guide-driver-spa/)
+> [巴厘岛旅游要给小费吗？小费怎么给？巴厘岛各种场合的小费要给多少？](/zh-cn/blog/bali-tipping-guide-driver-spa/)
 
-> 【精华篇】巴厘岛好评SPA推荐大集合 用区域划分更方便查找](/blog/spa/)
+> 【精华篇】巴厘岛好评SPA推荐大集合 用区域划分更方便查找](/zh-cn/blog/spa/)
 
 ## 行程安排
 
@@ -54,7 +54,7 @@ _srcHash: c0a1f573c80784d9a39391dbec9899e0
 
 - 一到巴厘岛后，第一件事就是兑换当地货币卢比，方便接下来的消费。
 
-> [印尼/巴厘岛旅游换汇懒人包：印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？](/blog/bali-currency-exchange-guide/)
+> [印尼/巴厘岛旅游换汇懒人包：印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？](/zh-cn/blog/bali-currency-exchange-guide/)
 
 **2. 乌布酒店入住**
 
@@ -121,7 +121,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
 还有一种「火山 ATV 之旅」，您将穿越茂密的森林，攀越黑色熔岩山坡地，并征服具有挑战性的越野地形。导游将带领您穿越这些变化万千的地形，让您充分体验ATV带来的刺激和乐趣。
 
-参考：[巴厘岛 ATV 四轮越野车探险：感受热带天堂的刺激与自由（提醒事项+FAQ+业者推荐）](/blog/bali-atv-adventure-guide/)
+参考：[巴厘岛 ATV 四轮越野车探险：感受热带天堂的刺激与自由（提醒事项+FAQ+业者推荐）](/zh-cn/blog/bali-atv-adventure-guide/)
 
 > [乌布ATV越野冒险优惠票券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F6595-atv-quad-bike-adventure-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D937776272b)
 
@@ -138,7 +138,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
 编者按：对于热爱挑战的冒险者而言，参加漂流活动（rafting）是一个极为吸引人的选择。乌布周边的河流迂回蜿蜒，穿越蔚蓝的山谷和丛林，为冒险爱好者提供了一场全新的探险之旅。在这趟冒险中，你将穿越宜人的风景，沿途遇到急流和平缓的水道，让你能够充分体验刺激和放松并存的愉悦感觉。这不仅仅是一场冒险，更是一次与自然亲密接触的契机，让你感受到水流、树木和大地的充沛活力。
 
-参考：[【巴厘岛漂流 FAQ】不会游泳也能玩？年龄限制、安全须知与阿勇河 vs 泰拉嘉河全解析](/blog/bali-rafting-ayung-telaga-waja/)
+参考：[【巴厘岛漂流 FAQ】不会游泳也能玩？年龄限制、安全须知与阿勇河 vs 泰拉嘉河全解析](/zh-cn/blog/bali-rafting-ayung-telaga-waja/)
 
 > [阿勇河漂流](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)
 
@@ -155,7 +155,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
 编者按：在乌布，即使是荡秋千都能成为一种富有异国风情的体验。在乌布的一些专门的地方，你会发现各种各样独特而精心设计的荡秋千，悬挂在绿树间或者面对迷人的山谷美景。荡秋千不仅是一种玩乐的方式，更是一种在宁静中欣赏乌布美景的绝佳方式。尽情荡动，让心随着微风摇曳，感受一份轻松和惬意。
 
-> [【乌布秋千攻略】8 大最美丛林秋千推荐：租礼服技巧、拍照角度与避开人潮全指南](/blog/ubud-jungle-swings-photo-guide/)
+> [【乌布秋千攻略】8 大最美丛林秋千推荐：租礼服技巧、拍照角度与避开人潮全指南](/zh-cn/blog/ubud-jungle-swings-photo-guide/)
 
 **5. 晚餐**
 
@@ -247,7 +247,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
 - 亮点：有两个悬崖景点需要购买门票，非常适合拍照留念，沿路也有风景但我们时间较赶就没有多呆
 
-参考：[巴厘岛断崖公路 Batu Barak 旅游指南：入园费、路况分析与乌鲁瓦图南端一日游规划](/blog/batu-barak-cliff-road/)
+参考：[巴厘岛断崖公路 Batu Barak 旅游指南：入园费、路况分析与乌鲁瓦图南端一日游规划](/zh-cn/blog/batu-barak-cliff-road/)
 
 **5. 金巴兰日落**
 
@@ -258,9 +258,9 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 - 亮点：可以选择在日落时分骑马或骆驼，体验独特的金巴兰美景。
 - 网络查好很多日落的拍法可以留下很好的纪念
 
-> [【掌握巴厘岛日落时间最佳观赏指南】七大巴厘岛日落观赏地点，你去过几个？](/blog/bali-sunset-spots-guide/)
+> [【掌握巴厘岛日落时间最佳观赏指南】七大巴厘岛日落观赏地点，你去过几个？](/zh-cn/blog/bali-sunset-spots-guide/)
 
-> [巴厘岛金巴兰11家海鲜餐厅：不踩雷推荐](/blog/jimbaran-seafood-restaurants-list/)
+> [巴厘岛金巴兰11家海鲜餐厅：不踩雷推荐](/zh-cn/blog/jimbaran-seafood-restaurants-list/)
 
 **6. 按摩**
 
@@ -290,7 +290,7 @@ https://youtube.com/shorts/MTbr3sojGAM?si=GZhCEZuNUdypLyRp
 
 - 购物：最好先查询好要购买什么否则会眼花缭乱，探访当地的伴手礼店，挑选一些特色商品带回家
 
-> [【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/blog/bali-souvenirs-gift-guide/)
+> [【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/zh-cn/blog/bali-souvenirs-gift-guide/)
 
 **3. 库塔活动**
 

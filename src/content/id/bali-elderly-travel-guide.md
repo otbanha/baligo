@@ -28,7 +28,7 @@ _srcHash: f6a895347399bb3d21e0e28e1fe558d5
 ---
 Update: 03/07/2026
 
-**Kesimpulan dulu**: Bali cocok buat bawa orang tua, asal pilih itinerary yang pas — kelebihannya cuaca sejuk, penduduk ramah, bahasa Inggris dasar bisa dipakai. Kekurangannya, **beberapa spot medannya nggak rata, perlu jalan kaki dan naik turun**, jadi lansia dengan mobilitas terbatas harus hindari. Solusinya: pilih tempat wisata yang landai dan gampang diakses, sewa mobil pribadi biar nggak perlu jalan kaki terlalu jauh, dan atur waktu istirahat yang cukup. Seri ini ada tiga bagian, selanjutnya baca [Panduan Lengkap Tempat Wisata Ramah Lansia](/blog/bali-senior-friendly-travel-guide/) dan [Tips Nyata Bawa Orang Tua ke Luar Negeri](/blog/traveling-with-elderly-parents-tips/).
+**Kesimpulan dulu**: Bali cocok buat bawa orang tua, asal pilih itinerary yang pas — kelebihannya cuaca sejuk, penduduk ramah, bahasa Inggris dasar bisa dipakai. Kekurangannya, **beberapa spot medannya nggak rata, perlu jalan kaki dan naik turun**, jadi lansia dengan mobilitas terbatas harus hindari. Solusinya: pilih tempat wisata yang landai dan gampang diakses, sewa mobil pribadi biar nggak perlu jalan kaki terlalu jauh, dan atur waktu istirahat yang cukup. Seri ini ada tiga bagian, selanjutnya baca [Panduan Lengkap Tempat Wisata Ramah Lansia](/id/blog/bali-senior-friendly-travel-guide/) dan [Tips Nyata Bawa Orang Tua ke Luar Negeri](/id/blog/traveling-with-elderly-parents-tips/).
 
 Bali sebagai destinasi wisata juga cocok buat dieksplorasi sama lansia. Buat orang tua, ada banyak pesona yang bikin betah. Pemandangan alam Bali megah tapi menenangkan, pasir lembut di pantai dan angin sepoi-sepoi jadi tempat sempurna buat relaksasi. Selain itu, Bali punya tradisi budaya yang kaya — suasana ini bikin orang tua ngerasain keunikan dan lebih paham pesona pulau ini. Beberapa tempat wisata di Bali juga relatif santai dan cocok buat istirahat, sesuai kebutuhan lansia. Intinya, Bali nggak cuma punya keindahan dan energi buat anak muda, tapi juga tempat buat orang tua bersantai, merasakan budaya, dan menikmati ketenangan.
 
@@ -36,9 +36,9 @@ Bali sebagai destinasi wisata juga cocok buat dieksplorasi sama lansia. Buat ora
 
 Baca artikel khusus kami:
 
-- Episode 1: [Panduan Liburan Bali Ramah Lansia - Aman, Nyaman & Hal yang Perlu Diperhatikan](/blog/bali-elderly-travel-guide/)
-- Episode 2: [Panduan Lengkap Tempat Wisata Bali Ramah Lansia](/blog/bali-senior-friendly-travel-guide/)
-- Episode 3: [Tingkah Orang Tua Bisa Ajaib!? Bawa Mereka ke Luar Negeri, Hati-hati 'Capek Nggak Dianggap'](/blog/traveling-with-elderly-parents-tips/)
+- Episode 1: [Panduan Liburan Bali Ramah Lansia - Aman, Nyaman & Hal yang Perlu Diperhatikan](/id/blog/bali-elderly-travel-guide/)
+- Episode 2: [Panduan Lengkap Tempat Wisata Bali Ramah Lansia](/id/blog/bali-senior-friendly-travel-guide/)
+- Episode 3: [Tingkah Orang Tua Bisa Ajaib!? Bawa Mereka ke Luar Negeri, Hati-hati 'Capek Nggak Dianggap'](/id/blog/traveling-with-elderly-parents-tips/)
 
 ## Kelebihan
 
@@ -82,14 +82,14 @@ Beberapa tempat wisata atau aktivitas mungkin lebih cocok buat anak muda, jadi k
 
 Kalau mau ajak orang tua ke Bali, ada 10 hal penting yang harus diperhatikan:
 
-- **Atur Jadwal**: Pertimbangkan kemampuan gerak lansia, pilih tempat dan aktivitas yang cocok. Cek juga: [Panduan Lengkap Tempat Wisata Bali yang Ramah Lansia](/blog/bali-senior-friendly-travel-guide/)
+- **Atur Jadwal**: Pertimbangkan kemampuan gerak lansia, pilih tempat dan aktivitas yang cocok. Cek juga: [Panduan Lengkap Tempat Wisata Bali yang Ramah Lansia](/id/blog/bali-senior-friendly-travel-guide/)
 - **Jaga Kesehatan**: Pastikan bawa cukup air minum, obat-obatan, dan hindari paparan sinar matahari terlalu lama.
 - **Utamakan Keamanan**: Ingatkan lansia untuk tetap waspada, terutama di tempat ramai atau padat.
 - **Pakai Baju Nyaman**: Pilih baju dan sepatu yang nyaman biar cocok sama cuaca dan medan di Bali.
 - **Istirahat Cukup**: Kasih waktu istirahat yang cukup buat lansia, jangan terlalu banyak tempat wisata biar nggak kelelahan.
 - **Jaga Makanan**: Pilih makanan yang ringan dan mudah dicerna, hindari makanan kotor atau mentah. Bisa cek juga penjelasan soal [「diare di Bali」 dan tips pencegahannya](https://youtu.be/B4ngSsTe9sU)
 - **Siap Siaga**: Cari tahu dulu fasilitas kesehatan terdekat, bawa peta, dan asuransi perjalanan buat jaga-jaga kalau ada keadaan darurat.
-- **Sewa Mobil Pribadi**: Sewa mobil pribadi bisa bikin perjalanan lebih nyaman buat orang tua, nggak perlu nunggu lama-lama. Cek rekomendasi kami soal 「[Sopir Mobil Pribadi di Bali Rekomendasi Netizen](/blog/bali-private-car-drivers-guide/)」. Bisa juga [sewa sopir/guide berbahasa Mandarin](/blog/bali-chinese-tour-guide/) buat orang tua.
+- **Sewa Mobil Pribadi**: Sewa mobil pribadi bisa bikin perjalanan lebih nyaman buat orang tua, nggak perlu nunggu lama-lama. Cek rekomendasi kami soal 「[Sopir Mobil Pribadi di Bali Rekomendasi Netizen](/id/blog/bali-private-car-drivers-guide/)」. Bisa juga [sewa sopir/guide berbahasa Mandarin](/id/blog/bali-chinese-tour-guide/) buat orang tua.
 - **Bawa Barang Penting**: Pakai waist bag buat bawa barang penting kayak obat, paspor, dompet, biar aman dan gampang diambil.
 - **Konsultasi Dokter**: Kalau lansia punya penyakit kronis, sebaiknya konsultasi dulu sama dokter sebelum berangkat.
 
@@ -114,16 +114,16 @@ Kalau mau ajak orang tua ke Bali, ini dia 10 barang wajib yang harus dibawa:
 
 Bawa lansia ke Bali itu pengalaman yang menyenangkan, tapi butuh persiapan matang dan perhatian ekstra!
 
-> Rekomendasi booking: [Liburan ke Bali: Rekomendasi Villa Keluarga 3+ Kamar Tidur](/blog/bali-group-villa-stay/)
+> Rekomendasi booking: [Liburan ke Bali: Rekomendasi Villa Keluarga 3+ Kamar Tidur](/id/blog/bali-group-villa-stay/)
 
-Soal visa, kalau orang tua nggak bisa pakai e-visa, bisa langsung ambil visa on arrival (VOA) aja. Soalnya **lansia di atas 60 tahun dan bayi/balita bisa pakai jalur khusus saat antre imigrasi**, jadi nggak perlu nunggu lama. Kalau mau seluruh keluarga bebas antre, cek [Cepat & Praktis! Panduan Autogate & Imigrasi Bali 2024](/blog/2025-bali-automatic-customs/)
+Soal visa, kalau orang tua nggak bisa pakai e-visa, bisa langsung ambil visa on arrival (VOA) aja. Soalnya **lansia di atas 60 tahun dan bayi/balita bisa pakai jalur khusus saat antre imigrasi**, jadi nggak perlu nunggu lama. Kalau mau seluruh keluarga bebas antre, cek [Cepat & Praktis! Panduan Autogate & Imigrasi Bali 2024](/id/blog/2025-bali-automatic-customs/)
 
 Bali punya tempat wisata yang memukau dan budaya yang ramah, cocok banget jadi petualangan seru buat orang tua. Tapi, jangan lupa perhatikan kondisi kesehatan dan mobilitas mereka, atur itinerary yang pas, dan siapin barang-barang penting. Kuncinya: hormati budaya lokal, sesuaikan dengan cuaca, dan persiapan matang biar liburan makin lancar. Kasih lingkungan yang nyaman dan perhatian penuh, biar mereka bisa menikmati perjalanan dan pulang dengan kenangan indah.
 
 ## **Panduan Liburan ke Bali Bareng Orang Tua:**
 
-- Episode 1: [Panduan Liburan ke Bali untuk Lansia - Aman, Nyaman & Tips Penting](/blog/bali-elderly-travel-guide/)
-- Episode 2: [Rekomendasi Tempat Wisata Bali yang Ramah Lansia](/blog/bali-senior-friendly-travel-guide/)
-- Episode 3: [Tingkah Orang Tua yang Bikin Geleng-Geleng!? Bawa Mereka ke Luar Negeri, Siap-siap 'Capek Hati'](/blog/traveling-with-elderly-parents-tips/)
+- Episode 1: [Panduan Liburan ke Bali untuk Lansia - Aman, Nyaman & Tips Penting](/id/blog/bali-elderly-travel-guide/)
+- Episode 2: [Rekomendasi Tempat Wisata Bali yang Ramah Lansia](/id/blog/bali-senior-friendly-travel-guide/)
+- Episode 3: [Tingkah Orang Tua yang Bikin Geleng-Geleng!? Bawa Mereka ke Luar Negeri, Siap-siap 'Capek Hati'](/id/blog/traveling-with-elderly-parents-tips/)
 
 ## 📩 **Gabung Sekarang 'Panduan Liburan ke Bali', Jadi Ahli Liburan Bali!**

@@ -30,41 +30,41 @@ Yang paling bikin kami terharu selama trip ini, selain pemandangan indah, adalah
 
 ![1. Rekomendasi Driver Sewa: Gede Arimbawa](https://images.gobaligo.id/vocus/vocus_9c6297afa65717ca1de714d7b83a7289.jpg)
 
-Gede punya banyak review positif di grup! [Cek di sini](/blog/bali-private-car-drivers-guide/)
+Gede punya banyak review positif di grup! [Cek di sini](/id/blog/bali-private-car-drivers-guide/)
 
 ## 2. Masuk Bandara: EVOA Fast Track
 
 Proses imigrasi lancar banget. Kami pakai EVOA fast track, nggak ada hambatan sama sekali, petugas imigrasi juga nggak nanya apa-apa. Tapi, nunggu bagasi itu lama banget, hampir satu jam!
 
-> Catatan editor: Prosedur masuk Bali terbaru bisa cek [Panduan Masuk Bandara Bali 2025/08 Pakai Kartu Kedatangan 'All Indonesia' | Paham dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](/blog/bali-all-indonesia-arrival-guide/)
+> Catatan editor: Prosedur masuk Bali terbaru bisa cek [Panduan Masuk Bandara Bali 2025/08 Pakai Kartu Kedatangan 'All Indonesia' | Paham dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
 
 ## 3. Wi-Fi Bandara Lemah Banget!
 
 Begitu sampai di bandara Bali, kami langsung sadar kalau Wi-Fi di sana lemah banget, kayaknya karena yang connect lagi banyak banget. Untung teman seperjalanan punya layanan roaming dari Chunghwa Telecom, kalau nggak, bingung juga gimana caranya hubungi driver kami. Kalau kamu mau beli SIM card lokal Telkomsel, harganya sekitar USD$10 sampai USD$16, dapat kuota 14GB, tapi di beberapa daerah terpencil (misalnya area island hopping Labuan Bajo) sinyalnya tetap aja kurang kuat.
 
-Baca juga: [【Wajib Tahu Liburan ke Bali】Cara Urus Internet/SIM Card di Bali?](/blog/bali-sim-card-esim-roaming-guide/)
+Baca juga: [【Wajib Tahu Liburan ke Bali】Cara Urus Internet/SIM Card di Bali?](/id/blog/bali-sim-card-esim-roaming-guide/)
 
 ## 4. Kondisi Lalu Lintas di Bali
 
 Selama perjalanan ini, kami sadar kalau macet di pusat kota bener-bener parah! Apalagi antara jam 1 siang sampai 7.30 malam, di daerah Uluwatu, Ubud, Jimbaran macetnya makin gila. Meskipun Google Map ngasih estimasi waktu yang keliatan singkat, perjalanan aslinya sering butuh waktu 2,5 sampai 3 kali lipat. Saran gue, sebisa mungkin hindari perjalanan jauh di jam-jam itu.
 
-> Catatan Redaksi: [Jangan Percaya Google Maps di Bali!](/blog/bali-google-maps-warning/)
+> Catatan Redaksi: [Jangan Percaya Google Maps di Bali!](/id/blog/bali-google-maps-warning/)
 
 ## 5. Tips Booking Spa
 
 Kalau kamu berencana menikmati spa di Bali, mending booking duluan lewat WhatsApp, atau minta bantuan driver mobil sewaan buat booking. Apalagi spa yang ratingnya bagus, kalau datang dadakan besar kemungkinan nggak dapat tempat. Kalau minta driver bantu booking, mereka mungkin perlu bayar DP dulu, jadi inget baik-baik sebelum cancel, atau kamu harus balikin DP ke driver.
 
-> Baca juga: [Kumpulan Rekomendasi SPA Terbaik di Bali (Lengkap per Area)](/blog/spa/)
+> Baca juga: [Kumpulan Rekomendasi SPA Terbaik di Bali (Lengkap per Area)](/id/blog/spa/)
 
 ## 6. Atur Transportasi di Pulau
 
 Karena perjalanan kami kali ini juga termasuk island hopping, waktu di Bali cuma tiga hari. Tapi kami malah milih tiga area berbeda buat dijelajahi, hasilnya tiap hari dihabisin di jalan macet. Kalau kamu mau keliling banyak tempat, saran gue pilih satu area aja dan stay 1-2 hari, biar waktu berharga nggak kebuang di jalan.
 
-> 編按：盡量小區域的移動才是峇里島旅遊的王道啊！請看「[峇里島分區攻略](https://gobaligo.id/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)」
+> 編按：盡量小區域的移動才是峇里島旅遊的王道啊！請看「[峇里島分區攻略](https://gobaligo.id/id/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)」
 
 ![烏魯瓦圖火舞的門票可以在網上先買好（Sandra Yun提供）](https://images.gobaligo.id/vocus/vocus_d3a5a16996aa1d2906eea06f2716a19c.jpg)
 
-[烏魯瓦圖火舞的門票可以在網上先買好（Sandra Yun提供）](/blog/kecak-fire-dance-bali/)
+[烏魯瓦圖火舞的門票可以在網上先買好（Sandra Yun提供）](/id/blog/kecak-fire-dance-bali/)
 
 ## 7. 水上活動價差大
 
@@ -84,13 +84,13 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 https://youtube.com/shorts/tHRxnJqxqbw
 
-延伸閱讀：[採「預約+現場排隊」的Rock Bar如何預約？](/blog/ayana-resort-bali-guide/)
+延伸閱讀：[採「預約+現場排隊」的Rock Bar如何預約？](/id/blog/ayana-resort-bali-guide/)
 
 ## 9. Soal Tip, Nih Pengalamanku
 
 Di Bali, aku perhatikan banyak restoran yang ngembaliin tip pertama yang kita kasih. Baru pas kita kasih kedua kali, mereka mau terima. Tapi kalau kasih tip ke petugas kebersihan kamar, porter, atau instruktur aktivitas, mereka seneng banget!
 
-> Baca juga: [Perlu Kasih Tip di Bali? Gimana Caranya? Berapa Tip untuk Berbagai Situasi?](/blog/bali-tipping-guide-driver-spa/)
+> Baca juga: [Perlu Kasih Tip di Bali? Gimana Caranya? Berapa Tip untuk Berbagai Situasi?](/id/blog/bali-tipping-guide-driver-spa/)
 
 ## 10. Oleh-Oleh: Bali Banana
 
@@ -98,7 +98,7 @@ Kalau mau beli oleh-oleh, Bali Banana pilihan yang oke. Ada beberapa toko di pus
 
 > Catatan redaksi: Bali Banana punya banyak toko khusus di Kuta. Cek lokasinya di [Peta Panduan Kuta](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)
 
-> Baca Juga: [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Rekomendasi Oleh-Oleh Bali: Pilihan Terbaik untuk Mengabadikan Kenangan Berharga](/blog/bali-souvenirs-gift-guide/)
+> Baca Juga: [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Rekomendasi Oleh-Oleh Bali: Pilihan Terbaik untuk Mengabadikan Kenangan Berharga](/id/blog/bali-souvenirs-gift-guide/)
 
 ## 11. Trip Island Hopping ke Komodo
 
@@ -112,7 +112,7 @@ Klook punya puluhan pilihan trip Komodo, [cek di sini](https://affiliate.klook.c
 
 > Catatan redaksi: Kami juga menyediakan paket tur lengkap dari agen perjalanan profesional sebagai referensi
 
-- [Paket All-Inclusive Semi-Mewah Bali + Pulau Komodo](/blog/bali-komodo-luxury-tour-2026/)
+- [Paket All-Inclusive Semi-Mewah Bali + Pulau Komodo](/id/blog/bali-komodo-luxury-tour-2026/)
 
 ## 12. Pentingnya Bawa Obat Maag & Diare
 
@@ -126,7 +126,7 @@ https://youtu.be/GivvqCXp11A
 
 Di Ubud kami ketemu beberapa tukang ojek (motor taxi) yang nawarin harga, kami pesan dua perjalanan, eh mereka malah salah antar dan pas sampai tempat tujuan minta bayar lagi. Ini kemungkinan besar penipuan ojek abal-abal yang sering dibahas netizen, kamu harus hati-hati dan pastikan rute serta harga di awal.
 
-> Catatan redaksi, pakai aplikasi panggil ojek bisa hindari kejadian ini: [Aplikasi Wajib Pas Traveling di Indonesia/Bali: Panduan Lengkap Gojek](/blog/gojek-bali-guide/)
+> Catatan redaksi, pakai aplikasi panggil ojek bisa hindari kejadian ini: [Aplikasi Wajib Pas Traveling di Indonesia/Bali: Panduan Lengkap Gojek](/id/blog/gojek-bali-guide/)
 
 ![13. Hati-hati Penipuan Ojek!](https://images.gobaligo.id/vocus/vocus_132b0fdbdbd2b8f1e37a9dc51b38bd58.png)
 

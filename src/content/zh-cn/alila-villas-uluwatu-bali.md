@@ -113,10 +113,10 @@ _srcHash: 441b04dc04abfec8c551ef6981202764
 
 * 乌鲁瓦图庙+情人崖（15分钟车程）
 
-> [巴厘岛乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](/blog/uluwatu-temple-travel-guide/)
+> [巴厘岛乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](/zh-cn/blog/uluwatu-temple-travel-guide/)
 
 * Padang Padang 秘境海滩
-* 附近更多景点参考：[【武吉半岛冒险指南】从金巴兰日落到乌鲁瓦图悬崖寺庙：巴厘岛南端的隐藏天堂](/blog/bukit-peninsula-guide/)
+* 附近更多景点参考：[【武吉半岛冒险指南】从金巴兰日落到乌鲁瓦图悬崖寺庙：巴厘岛南端的隐藏天堂](/zh-cn/blog/bukit-peninsula-guide/)
 
 ## 🌿 **关于Alila品牌｜永续奢华的极致**
 

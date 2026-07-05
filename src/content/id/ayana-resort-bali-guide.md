@@ -69,7 +69,7 @@ Vila-vila di Ayana Villas didekorasi dengan gaya tradisional Bali, luas dan supe
 
 Ayana Villas adalah resort mewah kelas atas di Bali, cocok banget buat liburan santai, bulan madu, atau liburan keluarga.
 
-**Referensi cepat**: [Ayana Villa: Vila Mewah & Pengalaman Bintang Lima di Jimbaran](/blog/ayana-resort-villa-experience/)
+**Referensi cepat**: [Ayana Villa: Vila Mewah & Pengalaman Bintang Lima di Jimbaran](/id/blog/ayana-resort-villa-experience/)
 
 > Harga & ketersediaan kamar Ayana Villa ▶ [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=478524) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1232235&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oax8LFJMEkNZ2F4-fUjw1sQuyGpmYGhgZGGvfZDE6xWixwdvR4WCWy7ulWB08QffzYLocAnogpB55PY0-U1r-rwnYw0KGLkRUsMIPx9SzvjYxpINAy2WEHI9MJxo8_GBcwvd632_oUCzPHGt1LLN-ZoquVslMrlaxMdJRKMktyUpWslJ7N6X3aPfPFpt1KOkopqcXJQCEgKzE3vzSvBMg2sjQw0jMwAAqVJFZ4pihZmesoJSfmJJfmJJakhlQWAI0w01HKLHYuKcosCErNzSwpSQWqSkvMKU4FiQelFgNlksGCSn5AY4qgApn5eRDtBihiYYk5pakQNwAtdEuF2mFcq4Pp9KeL5j1t2PN8RSuRTjehttMNiXG6YW3sIxam6NgXLPfZPrEw_GJhaGJl6GJl5jjFNImVhQMYS7tY-QP9jIPMfXXDzSJddaN0DS-wTv7PKCVvaGBgYGpobGqqa5BoaWFsamKua2JpYmRmqGthamJhotHd9fjEE2MjaylIIlBg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmLoZGRpEmXDxRwa7CKY5fu5L9hE2kGKOSTcRXHaJp7CNd2n7bWYPV2CDLt_NO6Vt7W0D5yc5_2kyXiBfeSLdsFDi3tP2yexVmXohoRnHBcrYGxgZOpi5BZg9GCMYKwA8hhXMbJzMRsYGQowbWBk3MH4HwYYXzGCLAEArPSKFAoDAAA&masterhotelid_tracelogid=100051355-0a983547-494261-85484&detailFilters=17|1~17~1*31|1232235~31~1232235*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1092&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/9JyxFJPS)
 
@@ -87,7 +87,7 @@ Ayana Segara punya desain yang menggabungkan ruang indoor dan outdoor, memadukan
 
 Karena ini bangunan baru yang selesai tahun 2023, harganya agak lebih mahal sih.
 
-**Referensi cepat**: [Pengalaman menginap di Segara - Surga liburan yang bikin lupa dunia](/blog/ayana-resort-bali-experience/)
+**Referensi cepat**: [Pengalaman menginap di Segara - Surga liburan yang bikin lupa dunia](/id/blog/ayana-resort-bali-experience/)
 
 > Harga & ketersediaan kamar Ayana Segara ▶[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=35461774) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=100618092&checkIn=2026-09-25&checkOut=2026-09-26&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-NqZOFikmCS-sXMsXb779WsQowGFhOFHGfNBAL2GQ6exiAQONchgKeQAQQepDjMYHwz76_-RsY0EFArddjByHSCsffpcqYFTO-AEqdYWDi2rDa9xPKbKbpaKTu1UsnKREepJLMkJ1XJSunZnN6n3TNfbNqtpKOUklqcDBQCshJz80vzSoBsE2MzS1MTPQMDoGBJYoVnipKVuY5ScmJOcmlOYklqSGUB0BAzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FugCIWlphTmgpxBdBCt1SoHca1OpiOf7po3tOGPc9XtBLteBNqO96QGMcb1sY-YmGKjv3EwvALGBt9S6SaWBm6WBkmsbJygCJqFyubo3-An7vvBdbZnYeYpGQNDQwMTA2NTU11DRItLZJNDFN0TSxNDA2MdC3NDDQm3V6x7ZGxkYkCo5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNgMXSwMzgygbLmZPlyDBugcsHbUJlvZSIJ4ijKcF4hnCeIFM7y5t-_OC1z4SJpLEWpWhGxKe0SFWwNjAyNTFyC3A6MEYwVgB5DGuYmTYwMi4g_E_DDC-YgSZBwCHom903QIAAA&masterhotelid_tracelogid=100051355-0a98c41d-494102-960&detailFilters=17|1~17~1*31|100618092~31~100618092*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=325&isCT=true&isFlexible=F&isFirstEnterDetail=T&locale=zh-TW&isRightClick=T&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16945049) [Booking.com](https://booking.tpm.li/pzG2GQ1N)
 
@@ -123,7 +123,7 @@ Berikut beberapa tips untuk booking Rock Bar:
 - Tamu hotel bisa cek opsi tempat duduk lewat [situs resmi Rock Bar](https://www.ayana.com/bali/dining/rock-bar-bali/) atau [aplikasi TableCheck](https://www.tablecheck.com/en/ayana-resort-and-spa-rockbar/reserve/message?menu_lists[]=63b515a4bbd3110045eca51e&utm_source=ayanawebsite).
 - Tamu non-hotel ada minimum spend di Rock Bar.
 
-Review lengkap Rock Bar ada di sini: [Cara Booking Rock Bar Jimbaran? Panduan Lengkap Pengalaman!](/blog/bali-rock-bar-reservation-guide/)
+Review lengkap Rock Bar ada di sini: [Cara Booking Rock Bar Jimbaran? Panduan Lengkap Pengalaman!](/id/blog/bali-rock-bar-reservation-guide/)
 
 ### Bonus Kece 2: Kubu Beach Club
 
@@ -154,7 +154,7 @@ Lapangan Golf Ayana Bali
 
 https://youtube.com/shorts/NAMjz-0M-bw
 
-Di atap AYANA Segara di Bali ada Luna Rooftop Bar, yang terkenal dengan pemandangan matahari terbenamnya dan suasananya yang berubah-ubah, jadi tempat hidden gem buat bersantai. Dari ketinggian ini, sisa cahaya senja berpadu dengan luasnya laut, jadi latar belakang keren banget buat para pecinta foto. Di Luna, yang dinikmati bukan cuma makanan dan minuman, tapi juga kenangan yang nggak terlupakan. Mau pengalaman liburan yang unik? Ada [ulasan lengkap dengan foto di sini](/blog/ayana-luna-rooftop-bar-sunset/).
+Di atap AYANA Segara di Bali ada Luna Rooftop Bar, yang terkenal dengan pemandangan matahari terbenamnya dan suasananya yang berubah-ubah, jadi tempat hidden gem buat bersantai. Dari ketinggian ini, sisa cahaya senja berpadu dengan luasnya laut, jadi latar belakang keren banget buat para pecinta foto. Di Luna, yang dinikmati bukan cuma makanan dan minuman, tapi juga kenangan yang nggak terlupakan. Mau pengalaman liburan yang unik? Ada [ulasan lengkap dengan foto di sini](/id/blog/ayana-luna-rooftop-bar-sunset/).
 
 ### Bonus Poin 5: SAKA Museum
 
@@ -177,7 +177,7 @@ Selain pemandangan alam yang indah dan layanan kelas atas, kawasan resor Ayana s
 Saka Museum bukan cuma spot baru di kawasan Ayana Resort, tapi juga jadi permata budaya Bali yang bersinar banget. Kalau kamu nginep di Ayana, sempetin deh mampir ke Saka Museum — dijamin puas dan berkesan.
 
 **Referensi Cepat:**
-[Bali SAKA Museum Raih Penghargaan Museum Terindah Dunia 2025](/blog/saka-museum-bali-global-award/)
+[Bali SAKA Museum Raih Penghargaan Museum Terindah Dunia 2025](/id/blog/saka-museum-bali-global-award/)
 
 ### Bonus Spot 6: Kisik Seafood and Grill
 
@@ -264,7 +264,7 @@ Sekarang kawasan AYANA di Bali udah full cashless, dan ini jelas nguntungin kamu
 
 Selain itu, sistem digital bikin operasional resort jadi lebih efisien dan transparan. Dengan tap kartu atau scan QR, bayar di restoran dan toko jadi lebih cepet. Pas check-out, kamu bisa lihat semua pengeluaran lewat tagihan elektronik. Di era yang makin peduli kebersihan, sentuh uang fisik yang lebih sedikit juga bikin liburan lebih sehat. Model ini nggak cuma ngikutin tren digital travel modern, tapi juga bikin pelayanan resort mewah ini makin rapi dan kekinian.
 
-> **Referensi Cepat:** Mau lihat 30 rekomendasi tempat makan, main, dan seru-seruan lainnya di Jimbaran? Cek [Panduan Jimbaran](/blog/jimbaran-guide/)
+> **Referensi Cepat:** Mau lihat 30 rekomendasi tempat makan, main, dan seru-seruan lainnya di Jimbaran? Cek [Panduan Jimbaran](/id/blog/jimbaran-guide/)
 
 ## Buruan Booking!
 
@@ -275,7 +275,7 @@ Udah kepikiran banget buat liburan ke sini? Saatnya booking, yuk!
 - Ayana Segara — Cek harga & ketersediaan kamar ▶ [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=35461774) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=100618092&checkIn=2026-09-25&checkOut=2026-09-26&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-NqZOFikmCS-sXMsXb779WsQowGFhOFHGfNBAL2GQ6exiAQONchgKeQAQQepDjMYHwz76_-RsY0EFArddjByHSCsffpcqYFTO-AEqdYWDi2rDa9xPKbKbpaKTu1UsnKREepJLMkJ1XJSunZnN6n3TNfbNqtpKOUklqcDBQCshJz80vzSoBsE2MzS1MTPQMDoGBJYoVnipKVuY5ScmJOcmlOYklqSGUB0BAzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FugCIWlphTmgpxBdBCt1SoHca1OpiOf7po3tOGPc9XtBLteBNqO96QGMcb1sY-YmGKjv3EwvALGBt9S6SaWBm6WBkmsbJygCJqFyubo3-An7vvBdbZnYeYpGQNDQwMTA2NTU11DRItLZJNDFN0TSxNDA2MdC3NDDQm3V6x7ZGxkYkCo5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNgMXSwMzgygbLmZPlyDBugcsHbUJlvZSIJ4ijKcF4hnCeIFM7y5t-_OC1z4SJpLEWpWhGxKe0SFWwNjAyNTFyC3A6MEYwVgB5DGuYmTYwMi4g_E_DDC-YgSZBwCHom903QIAAA&masterhotelid_tracelogid=100051355-0a98c41d-494102-960&detailFilters=17|1~17~1*31|100618092~31~100618092*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=325&isCT=true&isFlexible=F&isFirstEnterDetail=T&locale=zh-TW&isRightClick=T&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16945049) [Booking.com](https://booking.tpm.li/pzG2GQ1N)
 - RIMBA by Ayana — Cek harga & ketersediaan kamar [▶Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=489045) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=987799&checkIn=2026-09-25&checkOut=2026-09-26&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-NqYeFikmCS-svMMX_Kwe-sQowGFhOFHNe5P6wSSep38Dx7BghUJjsE8BQygIBCosMMxulLbTYygpXMy3bYwch0gnHZhIOMC5h-r51seYqFhePRS6VLLL-ZoquVslMrlaxMdJRKMktyUpWslJ7N6X3aPfPFpt1KOkopqcXJQCEgKzE3vzSvBMg2sjA1sjTXMzAACpYkVnimKFmZ6yglJ-Ykl-YklqSGVBYADTHTUcosdi4pyiwISs3NLClJBapKS8wpTgWJB6UWA2WSwYJKfkBjiqACmfl5EO0GKGJhiTmlqRBXAC10S4XaYVyrg-n4p4vmPW3Y83xFK9GON6G24w2JcbxhbewjFqbo2E8sDL-AsTHttGgTK0MXK8MkVlYOUETtYuUKNLA0CAvVjdI1vMC65_Y1Rik5QwMDA1NDY1NTXYNESwtjg0RzXRNLE0MDI12gp0w1Fm5at-2RsZGJAqOWYHyIp6eLYUlhqllhqWVOUYGpAeMpRilDc2MLQyNDQyMjI0tjPROLNLNii7xii9ysCA_GIDYDZ0cDS6MoGy5mT5cgwboHLB21CZb2UiCeIoynBeIZwniBTO8ubfvzgtc-EiaSxFqVoRsSntEhVsDYwMjUxcgtwOjBGMFYAeQxrmJk52I2MDIUYNrAyLiD8T8MML5iBBkLAArx1iHoAgAA&masterhotelid_tracelogid=100051355-0a9830a7-494102-2975&detailFilters=17|1~17~1*31|987799~31~987799*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=836&isCT=true&isFlexible=F&isFirstEnterDetail=T&locale=zh-TW&isRightClick=T&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16945077) [Booking.com](https://booking.tpm.li/5Tw3lsbE)
 
-> Baca juga: [【Wajib Coba buat Traveler ke Bali】6 Kolam Renang Cantik di Ayana Resort](/blog/ayana-resort-pools-photo/)
+> Baca juga: [【Wajib Coba buat Traveler ke Bali】6 Kolam Renang Cantik di Ayana Resort](/id/blog/ayana-resort-pools-photo/)
 
 ## Peta Lokasi Empat Area Hotel
 

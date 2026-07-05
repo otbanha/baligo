@@ -92,7 +92,7 @@ Belajar Bali Boutique Hotel and Retreat 距離 Batu Bolong 海灘 僅 2.8 公里
 
 ***
 
-[收錄喺 Canggu Top 16 你不能錯過嘅住宿推薦，請撳我睇更多](/blog/canggu-top-hotels-guide/)
+[收錄喺 Canggu Top 16 你不能錯過嘅住宿推薦，請撳我睇更多](/zh-hk/blog/canggu-top-hotels-guide/)
 
 {{block:canggu}}
 

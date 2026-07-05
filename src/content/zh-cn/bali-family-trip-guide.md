@@ -40,7 +40,7 @@ AI示意图
 
 接着谈到**雨季的挑战与惊喜**。是的，我们在七天的旅程中，断断续续遇到了五天的降雨。但雨季并非全然不便，它反而带来了几个好处：气温更为凉爽舒适、绿意格外盎然清新，而且游客相对较少，避免了人挤人的窘境。当然，突如其来的暴雨确实需要应变（就像附图中那场让我们从海边「仓皇逃离」的暴雨淹水画面，现在回想起来只剩好笑🤣🤣）。有趣的是，天气预报似乎只能参考。例如在库塔时，明明收到了**暴雨特报**，我们待的两天却反而是**大太阳居多**，仅在傍晚偶有阵雨。这让我们体会到，在巴厘岛，与其担心天气，不如保持行程弹性。我们的对策是随时准备好**雨天备案**，例如转往室内景点、博物馆、美术馆或市集，让行程保持弹性，雨声反而成了旅途中的白噪音伴奏。
 
-> **快速参考：**[巴厘岛雨季：旅游巴厘岛碰到下雨天怎么办？巴厘岛下雨天的60个备案攻略](/blog/2026-bali-indoor-activities/)
+> **快速参考：**[巴厘岛雨季：旅游巴厘岛碰到下雨天怎么办？巴厘岛下雨天的60个备案攻略](/zh-cn/blog/2026-bali-indoor-activities/)
 
 当然，这趟旅程也有一些需要适应的地方：市区的交通对行人确实不太友善，过马路得像玩现实版「青蛙过河」；印尼盾面额上的无数个零，也让我的大脑CPU在换算时差点过载冒烟♨️
 
@@ -56,7 +56,7 @@ AI示意图
 
 ![第一天：抵达乌布，入住 Villa 的悠闲序幕](https://images.gobaligo.id/vocus/vocus_fc948ca985ea8069ac9dd4b23dbc3d0e.jpg)
 
-> **快速参考：**[巴厘岛团体自由行旅游：包栋villa 三房/四房/五房/六房以上的家庭别墅住宿推荐](/blog/bali-group-villa-stay/)
+> **快速参考：**[巴厘岛团体自由行旅游：包栋villa 三房/四房/五房/六房以上的家庭别墅住宿推荐](/zh-cn/blog/bali-group-villa-stay/)
 
 ### **第二天：圣泉洗礼、火山远眺与味觉探索之旅**
 
@@ -66,7 +66,7 @@ AI示意图
 
 ![第二天：圣泉洗礼、火山远眺与味觉探索之旅](https://images.gobaligo.id/vocus/vocus_b60719f084e134a94fa7186d3e2c18f7.jpg)
 
-> **快速参考：**[【2026】Tirta Empul 圣泉寺完整指南：巴厘岛最神圣的净化水庙体验](/blog/tirta-empul-temple-guide/)
+> **快速参考：**[【2026】Tirta Empul 圣泉寺完整指南：巴厘岛最神圣的净化水庙体验](/zh-cn/blog/tirta-empul-temple-guide/)
 
 🔱💦 乌布圣泉寺（Tirta Empul）巴厘岛著名圣水寺庙，以净化仪式🙏 和神圣泉水💧闻名，能为信徒与游客带来祝福与好运✨！▶[Klook优惠行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)
 
@@ -74,13 +74,13 @@ AI示意图
 
 ![第二天：圣泉洗礼、火山远眺与味觉探索之旅](https://images.gobaligo.id/vocus/vocus_8de97539719cb37d06c510346db2230d.jpg)
 
-> **快速参考：**[巴厘岛金塔玛尼13大景观火山咖啡馆/餐厅推荐 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
+> **快速参考：**[巴厘岛金塔玛尼13大景观火山咖啡馆/餐厅推荐 🌄☕](/zh-cn/blog/kintamani-volcano-cafes-restaurants/)
 
 - **普兰村 (Penglipurang)：** 饭后我们造访了普兰村。这里相较于热门景点更为宁静，能感受到巴厘传统村落的生活节奏。漫步其中，可以看到村民专注于手工艺或闲话家常，时间的流速仿佛也慢了下来。
 
 ![第二天：圣泉洗礼、火山远眺与味觉探索之旅](https://images.gobaligo.id/vocus/vocus_3638ed5e8a2500e413dca3df549ac608.jpg)
 
-> **快速参考：**[穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/blog/penglipuran-village-bali-experience/)
+> **快速参考：**[穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/zh-cn/blog/penglipuran-village-bali-experience/)
 
 🏘️✨ Penglipuran村——巴厘岛最美传统村落，保存完整巴厘文化🌺，以整洁街道🛤️、竹林🎋和传统建筑🏛️闻名，被誉为「印尼最干净村庄」🧹！▶[Klook优惠行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1207087&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dpenglipuran)
 
@@ -106,7 +106,7 @@ AI示意图
 
 ![第三天：穿梭于自然灵性与市井喧嚣之间](https://images.gobaligo.id/vocus/vocus_a804dbb47152b6d827a07473286d114f.jpg)
 
-> **快速参考：**[巴厘岛Tegalalang德格拉朗、Jatiluwih贾提鲁维两大梯田区拜访攻略｜入场门票多少钱？最佳拜访时间/季节？](/blog/bali-rice-terraces-comparison/)
+> **快速参考：**[巴厘岛Tegalalang德格拉朗、Jatiluwih贾提鲁维两大梯田区拜访攻略｜入场门票多少钱？最佳拜访时间/季节？](/zh-cn/blog/bali-rice-terraces-comparison/)
 
 - **Wisata Kayu Putih 神木：** 相比之下，神木景点给了我们极大的惊喜！这棵巨大的白木树（Kayu Putih）庄严肃穆，充满灵性能量。站在巨树之下，人类显得格外渺小。周遭森林步道清幽，空气中仿佛弥漫着一股宁静的力量，**让人内心瞬间沉淀下来，是当天最棒的亮点**，非常推荐给喜欢自然与静谧氛围的旅人。
 
@@ -116,7 +116,7 @@ AI示意图
 
 ![第三天：穿梭于自然灵性与市井喧嚣之间](https://images.gobaligo.id/vocus/vocus_d83da6954901731170a3f42382dc19f8.jpg)
 
-> **快速参考：**[【乌布必访景点】乌布皇宫：巴厘岛文化历史的瑰宝｜开放时间、门票、表演时间、周边景点、一日游推荐](/blog/ubud-royal-palace-tour-guide/)
+> **快速参考：**[【乌布必访景点】乌布皇宫：巴厘岛文化历史的瑰宝｜开放时间、门票、表演时间、周边景点、一日游推荐](/zh-cn/blog/ubud-royal-palace-tour-guide/)
 
 - **午餐：Jatiluwih Resto**
   在梯田景区旁的这家餐厅用餐，视野极佳。一边享受以当地食材烹调的简朴美食，一边欣赏无边的梯田风光，食物的滋味仿佛也因此增添了田野的香气。
@@ -130,14 +130,14 @@ AI示意图
 
 ![第三天：穿梭于自然灵性与市井喧嚣之间](https://images.gobaligo.id/vocus/vocus_37891f30f3e1e93406a35d99756c09cd.jpg)
 
-> **快速参考：**[【乌布美食+美景推荐】Taman Dedari 仙女公园](/blog/taman-dedari-ubud-food-scenery/)
+> **快速参考：**[【乌布美食+美景推荐】Taman Dedari 仙女公园](/zh-cn/blog/taman-dedari-ubud-food-scenery/)
 
 🌸✨ Taman Dedari——巴厘岛隐藏秘境花园🏞️，拥有梦幻仙女巨型雕像💦、天然泳池🏊和热带雨林景观🌿，是放松身心的绝佳度假胜地🧘‍♀️！▶[Klook优惠用餐行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1207087&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F93907-taman-dedari-ubud-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D44efaec6e5)
 
 - **夜晚：Villa Spa**
   回到Villa，再度享受私人Spa服务。在熟悉的环境中彻底放松，听着夜晚的自然乐音，是消除一日疲劳的最佳方式。
 
-> **快速参考：**如何[Villa/酒店私人SPA指南](/blog/spa/)
+> **快速参考：**如何[Villa/酒店私人SPA指南](/zh-cn/blog/spa/)
 
 ### **第四天：探索东岸的古朴村落与海岸风光**
 
@@ -169,11 +169,11 @@ https://youtu.be/ysUVgnICbg0
 
 ATV 我觉得老人和7岁以下不适合，太刺激怕会掉下来😄
 
-> **快速参考：**[巴厘岛 ATV 四轮越野车探险：感受热带天堂的刺激与自由（提醒事项+FAQ+业者推荐）](/blog/bali-atv-adventure-guide/)
+> **快速参考：**[巴厘岛 ATV 四轮越野车探险：感受热带天堂的刺激与自由（提醒事项+FAQ+业者推荐）](/zh-cn/blog/bali-atv-adventure-guide/)
 
 - **乌布最后巡礼与按摩：** 下午回到乌布，进行最后的逛街采购，补齐还没买够的纪念品。之后，我们再次投入按摩的怀抱。这次尝试了**脚底按摩**，师傅精准的穴位按压，让走了一天的双脚瞬间获得救赎，**那种从脚底蔓延至全身的舒畅感，令人直呼过瘾**。
 - **午餐/晚餐：This is Bali**
-  这家餐厅的名字取得直接，我们在这里享用了混合西式与印尼风味的料理。环境轻松，餐点选择多样，能满足一家老小不同的口味需求，作为一整天的能量补给站非常称职。（地点位置收录在[乌布攻略地图](/blog/ubud-guide/)）
+  这家餐厅的名字取得直接，我们在这里享用了混合西式与印尼风味的料理。环境轻松，餐点选择多样，能满足一家老小不同的口味需求，作为一整天的能量补给站非常称职。（地点位置收录在[乌布攻略地图](/zh-cn/blog/ubud-guide/)）
 
 {{block:ubud}}
 
@@ -208,7 +208,7 @@ ATV 我觉得老人和7岁以下不适合，太刺激怕会掉下来😄
 - **Villa Check-out 与 Bintang Supermarket：** 依依不舍地告别了住了多日的温馨Villa，我们前往当地大型连锁超市 **Bintang Supermarket** 进行最后一波采购。这里是购买咖啡、零食、酱料等伴手礼的好地方，货品齐全，价格透明。
 - **海神庙 (Tanah Lot)：** 前往库塔的路上，我们顺道造访了地标景点海神庙。虽然游客众多，但矗立于海中岩石上的寺庙依然气势磅礴。我们在退潮时走近，感受海浪拍打的震撼，并留下了经典的纪念照。
 
-> **快速参考：**[巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/blog/bali-tanah-lot-guide/)
+> **快速参考：**[巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/zh-cn/blog/bali-tanah-lot-guide/)
 
 > 🛕🌊🌅海神庙，巴厘岛必访的日落圣地，欣赏壮丽的海景与宗教氛围 ▶[Klook优惠](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
 
@@ -239,11 +239,11 @@ ATV 我觉得老人和7岁以下不适合，太刺激怕会掉下来😄
 
 根据这次的亲身体验，我们总结了以下几点小诀窍，供未来计划前往的朋友参考：
 
-1. **换汇：** 在当地，**使用美金兑换印尼盾的汇率通常比用台币或其他货币更好**。建议携带美金现钞，到市区正规的换汇所（Money Changer）兑换。**快速参考：**[印尼/巴厘岛旅游换汇懒人包：印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？](/blog/bali-currency-exchange-guide/)
-2. **网络：** 我们使用的 **DJB 实体网卡** 信号非常稳定，全程网络顺畅，导航、联系、查资讯都没问题，相当可靠。**快速参考：**[【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡/eSIM?](/blog/bali-sim-card-esim-roaming-guide/)
+1. **换汇：** 在当地，**使用美金兑换印尼盾的汇率通常比用台币或其他货币更好**。建议携带美金现钞，到市区正规的换汇所（Money Changer）兑换。**快速参考：**[印尼/巴厘岛旅游换汇懒人包：印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？](/zh-cn/blog/bali-currency-exchange-guide/)
+2. **网络：** 我们使用的 **DJB 实体网卡** 信号非常稳定，全程网络顺畅，导航、联系、查资讯都没问题，相当可靠。**快速参考：**[【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡/eSIM?](/zh-cn/blog/bali-sim-card-esim-roaming-guide/)
 3. **购物比价：** **超市的商品价格不一定比小贩便宜**，尤其是纪念品。小贩处通常可议价，而超市则是定价。建议根据商品类型，在两者间比较后再购买。
-4. **交通：** 在市区短程移动或临时叫车，**Gojek 或 Grab 叫车APP非常方便且实惠**，是除了包车之外的好选择。**快速参考：**[Grab好？Gojek好？印尼/巴厘岛的Gojek与GoPay注册、使用、储值教学全面指南](/blog/indonesia-gojek-gopay-guide/)
-5. **防蚊防虫：** 巴厘岛**苍蝇和蚊子不少**，尤其是近田野或傍晚时分。**防蚊液绝对是每日必需品**，务必随身携带并定时补擦。**快速参考：**[印尼巴厘岛旅游必备成药/药品有哪些？防蚊液/防晒乳怎么买？](/blog/bali-travel-medicine-checklist/)
+4. **交通：** 在市区短程移动或临时叫车，**Gojek 或 Grab 叫车APP非常方便且实惠**，是除了包车之外的好选择。**快速参考：**[Grab好？Gojek好？印尼/巴厘岛的Gojek与GoPay注册、使用、储值教学全面指南](/zh-cn/blog/indonesia-gojek-gopay-guide/)
+5. **防蚊防虫：** 巴厘岛**苍蝇和蚊子不少**，尤其是近田野或傍晚时分。**防蚊液绝对是每日必需品**，务必随身携带并定时补擦。**快速参考：**[印尼巴厘岛旅游必备成药/药品有哪些？防蚊液/防晒乳怎么买？](/zh-cn/blog/bali-travel-medicine-checklist/)
 6. **肠胃保健（实测有效）：** 为了避免水土不服，我们严格执行以下几点，全团无人肠胃不适：
 7. - **每天早晨空腹吃一颗益生菌**。
 
@@ -276,6 +276,6 @@ https://youtu.be/mx2zwlUovew
 
 点击这里观看更多巴厘岛精彩游记
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/zh-cn/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
 
 {{block:攻略}}

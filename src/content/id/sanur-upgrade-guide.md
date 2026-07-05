@@ -65,7 +65,7 @@ Jalan utama paling rame di Sanur sekarang jadi lebih rata, lebih bersih, plus pe
 
 Sekarang **jalan-jalan sambil pindah kafe** di sini jadi jauh lebih nyaman, nggak perlu khawatir keseleo lagi.
 
-**Referensi Cepat:** [6 Rekomendasi Kafe Tepi Pantai di Sanur yang Hits Banget](/blog/sanur-beach-cafes-guide/)
+**Referensi Cepat:** [6 Rekomendasi Kafe Tepi Pantai di Sanur yang Hits Banget](/id/blog/sanur-beach-cafes-guide/)
 
 ### ✅ Parkir Lift Hidrolik Bertingkat Baru
 
@@ -79,7 +79,7 @@ https://www.instagram.com/reel/DM-DKa6TUir/?utm_source=ig_web_copy_link&igsh=NTc
 
 Nawarin opsi transportasi umum yang lebih ramah lingkungan, dan pastinya lebih praktis buat traveler.
 
-**Referensi Cepat:** [Bali Sanur Luncurkan Shuttle Turis Baru](/blog/sanur-tourist-shuttle-launch/)
+**Referensi Cepat:** [Bali Sanur Luncurkan Shuttle Turis Baru](/id/blog/sanur-tourist-shuttle-launch/)
 
 ### ✅ Dermaga Mertasari Beroperasi Lagi (Uji Coba)
 
@@ -148,7 +148,7 @@ Ditambah infrastruktur udah selesai di-upgrade, pengalaman traveling secara kese
 ✔ Yang pengin slow living dan nganggur
 ✔ Traveler yang mau gabungin kesehatan atau staycation panjang
 
-**Referensi cepat:** [Bali Family Travel Guide: Pantai Paling Aman buat Anak-anak - Sanur](/blog/sanur-family-beach-guide/)
+**Referensi cepat:** [Bali Family Travel Guide: Pantai Paling Aman buat Anak-anak - Sanur](/id/blog/sanur-family-beach-guide/)
 
 ***
 

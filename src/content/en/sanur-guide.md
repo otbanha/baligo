@@ -90,7 +90,7 @@ You might also consider joining one of these two half-day tours.
 
 ![Beach Sunrise Bike Tour](https://images.gobaligo.id/vocus/vocus_8f65ced337e0f7409ee7a617c4d85b04.png)
 
-If you were to rank the most breathtaking sunrises in Bali, the undisputed number one is the sunrise at Mount Batur (see our [Ubud Guide](/blog/ubud-guide/)). But since Sanur is on the east coast, its sunrises are also especially enchanting! Along the beach promenade, you can witness the magnificent sight of the sun rising from every angle.
+If you were to rank the most breathtaking sunrises in Bali, the undisputed number one is the sunrise at Mount Batur (see our [Ubud Guide](/en/blog/ubud-guide/)). But since Sanur is on the east coast, its sunrises are also especially enchanting! Along the beach promenade, you can witness the magnificent sight of the sun rising from every angle.
 
 The most famous spot to enjoy the sunrise—and one of Bali's most photogenic locations—is Sunrise Sanur Point. The sunrise here is absolutely worth seeing. After watching the sunrise, continue cycling to Mertasari Beach for a delicious breakfast, and explore Sanur with a friendly local guide, relaxing and enjoying a pleasant morning.
 
@@ -281,8 +281,8 @@ Sanur Harbour is an important port in Bali, located in Sanur. It provides ferry 
 
 If you're planning a trip to Nusa Penida or Nusa Lembongan, check out our guides:
 
-- [【Bali - Nusa Penida】Maps, Boats, Accommodation, Transportation, Private Drivers, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
-- [【Nusa Lembongan/Ceningan Attractions Guide】Explore Nusa Lembongan/Ceningan's sights, food, and transportation: Bali's Nearby Paradise](/blog/nusa-lembongan-ceningan-guide/)
+- [【Bali - Nusa Penida】Maps, Boats, Accommodation, Transportation, Private Drivers, Activities, Photography, Attractions](/en/blog/nusa-penida-guide/)
+- [【Nusa Lembongan/Ceningan Attractions Guide】Explore Nusa Lembongan/Ceningan's sights, food, and transportation: Bali's Nearby Paradise](/en/blog/nusa-lembongan-ceningan-guide/)
 
 ### Icon Bali (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
@@ -344,13 +344,13 @@ However, visitors should note that water activities in South Bay are very popula
 
 The opening of AeroXSpace Indoor Adventure Park has brought a new entertainment option for families and visitors in Bali. Spanning 3,500 square meters, this adventure center features 26 different attractions and games, ensuring fun for all ages, rain or shine.
 
-Read the full details [here](/blog/aeroxspace-sanur-indoor-playground/).
+Read the full details [here](/en/blog/aeroxspace-sanur-indoor-playground/).
 
 ### Clip 'n Climb Indoor Rock Climbing
 
 ![Clip 'n Climb Indoor Rock Climbing](https://images.gobaligo.id/vocus/vocus_299767d0544b5a5db93ddce11b528cb4.jpg)
 
-Clip 'n Climb Bali combines sport and entertainment, making it a rising indoor adventure spot on the island. Whether you're a beginner or a pro, there's fun to be had! For detailed info and entry rules, check [here](/blog/clip-n-climb-sanur-bali/).
+Clip 'n Climb Bali combines sport and entertainment, making it a rising indoor adventure spot on the island. Whether you're a beginner or a pro, there's fun to be had! For detailed info and entry rules, check [here](/en/blog/clip-n-climb-sanur-bali/).
 
 ▶[Buy Clip 'n Climb Discount Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1026544&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F150182-clip-n-climb-pass-in-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b7aec2eea)
 
@@ -366,7 +366,7 @@ Beyond dolphin interactions, the park also features sea lion shows, an underwate
 
 **Travel Tip:** Dolphin interaction slots are limited, so it's highly recommended to book online in advance. Some interactive activities have age and height restrictions, so be sure to check before booking.
 
-Detailed guide: [Bali Exotic Marine Park Guide: Ultra-Close Interaction, Swimming with Dolphins, Crowd Avoidance Tips, and Family Itinerary Planning](https://gobaligo.id/blog/Bali-Exotic-Marine-Park/)
+Detailed guide: [Bali Exotic Marine Park Guide: Ultra-Close Interaction, Swimming with Dolphins, Crowd Avoidance Tips, and Family Itinerary Planning](https://gobaligo.id/en/blog/Bali-Exotic-Marine-Park/)
 
 > Online tickets: [Kkday](https://www.kkday.com/zh-tw/product/138734-bali-exotic-dolphin-marine-park-indonesia?cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -430,7 +430,7 @@ Whether you're enjoying a casual meal with friends or a romantic dinner, The Vil
 
 ![Sanur Seaview Cafe](https://images.gobaligo.id/vocus/vocus_dec525d7171bd1501b6db42fd4ccc185.jpg)
 
-We've rounded up 6 of the latest and hottest beachfront cafes. For full details, check out [here](/blog/sanur-beach-cafes-guide/)
+We've rounded up 6 of the latest and hottest beachfront cafes. For full details, check out [here](/en/blog/sanur-beach-cafes-guide/)
 
 ### More Sanur Eats (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
@@ -478,11 +478,11 @@ Looking for top-rated, no-regret spa treatments while vacationing in Sanur? Chec
 
 ### Sanur Accommodation Guide
 
-We've curated over 20 options, from luxurious Sanur resorts and hotels near Sanur Harbor (Sanur Port) to villa recommendations and budget-friendly stays. Don't miss our '[20+ Sanur Resorts/Villas from Luxury to Budget](/blog/sanur-luxury-budget-resorts/)' collection!
+We've curated over 20 options, from luxurious Sanur resorts and hotels near Sanur Harbor (Sanur Port) to villa recommendations and budget-friendly stays. Don't miss our '[20+ Sanur Resorts/Villas from Luxury to Budget](/en/blog/sanur-luxury-budget-resorts/)' collection!
 
 ![Sanur沙努爾21家從奢華到平價的渡假村/villa收集](https://images.gobaligo.id/vocus/vocus_c9b555d1a2f729dc2eec89a632d5ffe1.jpg)
 
-[20+ Sanur Resorts/Villas from Luxury to Budget](/blog/sanur-luxury-budget-resorts/)
+[20+ Sanur Resorts/Villas from Luxury to Budget](/en/blog/sanur-luxury-budget-resorts/)
 
 ### Rent a Large Pool Float for Stunning Photos
 

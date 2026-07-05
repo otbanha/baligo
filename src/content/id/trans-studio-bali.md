@@ -171,6 +171,6 @@ Kalau kamu bawa keluarga yang nggak cocok naik motor, trekking, atau kepanasan s
 
 Pas rencanain itinerary Bali nanti, jangan lupa masukin tempat ini ke daftar cadangan. Siapa tahu beberapa hari sebelum berangkat ramalan cuaca bilang bakal hujan, nah ini jadi penyelamat!
 
-➡ Rekomendasi taman bermain keluarga di Bali lainnya: [Panduan Lengkap 10 Taman Bermain Keluarga Terbaik di Bali](/blog/top-10-kids-attractions-in-bali/)
+➡ Rekomendasi taman bermain keluarga di Bali lainnya: [Panduan Lengkap 10 Taman Bermain Keluarga Terbaik di Bali](/id/blog/top-10-kids-attractions-in-bali/)
 
 {{block:親子}}

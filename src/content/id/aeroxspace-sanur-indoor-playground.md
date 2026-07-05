@@ -105,9 +105,9 @@ Anggota grup Claire Lin datang bareng putrinya. Awalnya dia mau nitip anak di乐
 
 ![沙努爾攻略地圖｜45項吃喝玩樂](https://images.gobaligo.id/vocus/vocus_fe05c3b56f6dc3de245d215193f93a7f.jpg)
 
-[Peta Panduan Sanur｜45 Aktivitas Seru](/blog/sanur-guide/)
+[Peta Panduan Sanur｜45 Aktivitas Seru](/id/blog/sanur-guide/)
 
-Selain pembukaan AeroXSpace Indoor Adventure Park yang jadi spot baru wisata keluarga di Bali, kawasan Sanur punya banyak banget aktivitas seru untuk anak-anak. Sanur jelas destinasi paling cocok untuk liburan keluarga di Bali, nggak ada duanya! Buat yang traveling bareng keluarga, jangan lewatkan panduan kami: 「[Peta Panduan Sanur｜45 Aktivitas Seru](/blog/sanur-guide/)」, biar kamu bisa menikmati momen keluarga yang nggak terlupakan di Sanur!
+Selain pembukaan AeroXSpace Indoor Adventure Park yang jadi spot baru wisata keluarga di Bali, kawasan Sanur punya banyak banget aktivitas seru untuk anak-anak. Sanur jelas destinasi paling cocok untuk liburan keluarga di Bali, nggak ada duanya! Buat yang traveling bareng keluarga, jangan lewatkan panduan kami: 「[Peta Panduan Sanur｜45 Aktivitas Seru](/id/blog/sanur-guide/)」, biar kamu bisa menikmati momen keluarga yang nggak terlupakan di Sanur!
 
 ## 4 Rekomendasi Tambahan
 
@@ -123,30 +123,30 @@ Trans Studio Bali punya 7 zona tema dengan 23 wahana dan atraksi — dijamin ser
 
 ![沙努爾住宿指南](https://images.gobaligo.id/vocus/vocus_0ae60becd2c9670c57f5d542c8a1d774.jpg)
 
-[Panduan Akomodasi Sanur](/blog/sanur-luxury-budget-resorts/)
+[Panduan Akomodasi Sanur](/id/blog/sanur-luxury-budget-resorts/)
 
 Hotel atau villa di Sanur, Bali, kebanyakan terletak di dekat pusat kota yang ramai atau di sepanjang pantai Sanur sepanjang 8 km yang indah. Ini adalah salah satu pilihan akomodasi terbaik di Bali untuk keluarga dan traveler budget. Mau kamu suka resort mewah, hotel dekat Sanur Harbour (Pelabuhan Sanur), penginapan di sekitar kuliner Sanur, atau villa privat — rekomendasi akomodasi Sanur kami adalah panduan paling lengkap!
 
-**▶**[**Rekomendasi Akomodasi Bali: 21 Resort/Villa Sanur dari Mewah sampai Budget**](/blog/sanur-luxury-budget-resorts/)
+**▶**[**Rekomendasi Akomodasi Bali: 21 Resort/Villa Sanur dari Mewah sampai Budget**](/id/blog/sanur-luxury-budget-resorts/)
 
 ### 3. Liburan Keluarga: Rekomendasi 13 Resort Keluarga di Bali
 
 ![親子渡假村推薦](https://images.gobaligo.id/vocus/vocus_0fff621dfe2d6f977c9d6c5a59b80337.png)
 
-[Rekomendasi Resort Keluarga](/blog/bali-family-resorts-kids-club/)
+[Rekomendasi Resort Keluarga](/id/blog/bali-family-resorts-kids-club/)
 
 Bali buat keluarga yang suka traveling punya pemandangan alam yang cantik, fasilitas mewah, dan aktivitas khusus keluarga yang bikin liburan kamu dan keluarga jadi tak terlupakan. Di sini, kamu bisa puas bermain di air laut yang biru atau berenang di kolam renang. Kids club punya tim pengasuh profesional yang siap ngatur aktivitas seru buat si kecil, jadi kamu bisa santai menikmati liburan. Ada juga berbagai kegiatan keluarga dan tema hari spesial yang bikin setiap anggota keluarga nemuin hiburan favoritnya. Kami udah ngumpulin beberapa resort ramah keluarga terbaik di Bali biar liburan keluarga kamu selanjutnya makin asyik.
 
-**▶**[**13 Rekomendasi Resort Keluarga & Anak**](/blog/bali-family-resorts-kids-club/)
+**▶**[**13 Rekomendasi Resort Keluarga & Anak**](/id/blog/bali-family-resorts-kids-club/)
 
 ### **4. Seru-seruan Apa Aja di Bali Bareng Keluarga?**
 
 ![峇里島家庭親子友善景點大全｜巴里島超過100樣適合親子同樂活動](https://images.gobaligo.id/vocus/vocus_00d4395e5eb515dfe6d1d360db69bf04.jpg)
 
-[Panduan Lengkap Tempat Wisata Ramah Keluarga di Bali｜Lebih dari 100 Aktivitas Seru untuk Keluarga](/blog/bali-family-travel-guide/)
+[Panduan Lengkap Tempat Wisata Ramah Keluarga di Bali｜Lebih dari 100 Aktivitas Seru untuk Keluarga](/id/blog/bali-family-travel-guide/)
 
 Bali itu ramah keluarga dan cocok banget buat liburan bareng anak. Ada banyak banget aktivitas dan fasilitas seru yang cocok buat semua usia. Kalau kamu mau jalan-jalan sama si kecil sambil eksplor keajaiban dunia, Bali adalah pilihan yang pas. Di sini kami kasih tahu lebih dari 100 aktivitas dan tempat main yang bikin anak-anak betah seharian. Klik link di bawah buat lihat detailnya:
 
-**▶**[**Panduan Lengkap Tempat Wisata Ramah Keluarga di Bali｜Lebih dari 100 Aktivitas Seru untuk Keluarga**](/blog/bali-family-travel-guide/)
+**▶**[**Panduan Lengkap Tempat Wisata Ramah Keluarga di Bali｜Lebih dari 100 Aktivitas Seru untuk Keluarga**](/id/blog/bali-family-travel-guide/)
 
-➡ Rekomendasi taman bermain anak di Bali lainnya: [Panduan Lengkap 10 Taman Bermain Anak Terbaik di Bali](/blog/top-10-kids-attractions-in-bali/)
+➡ Rekomendasi taman bermain anak di Bali lainnya: [Panduan Lengkap 10 Taman Bermain Anak Terbaik di Bali](/id/blog/top-10-kids-attractions-in-bali/)

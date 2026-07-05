@@ -56,7 +56,7 @@ _srcHash: 97515fee3830b81a831dc462cc8c229b
 
 ![建議嘅樽裝水品牌](https://images.gobaligo.id/vocus/vocus_3492fe649d1b46ef46788731bf208c73.png)
 
-👉**呢度有新嘅:** [峇里島肚屙/腸胃炎完整用藥指南](/blog/bali-belly-medicine-guide/)
+👉**呢度有新嘅:** [峇里島肚屙/腸胃炎完整用藥指南](/zh-hk/blog/bali-belly-medicine-guide/)
 
 ## 結語
 

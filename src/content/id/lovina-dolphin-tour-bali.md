@@ -73,6 +73,6 @@ Terakhir, Bing Bing Jing Jing bakal lanjut ke Munduk, katanya udaranya sejuk dan
 
 https://youtu.be/zSw8SRB3Sn8?si=HwQTRID8kIkM4PvI
 
-Buat yang tertarik dengan itinerary Bali utara, cek juga: [15 Tips Liburan ke Bali Utara yang Wajib Kamu Tahu](/blog/north-bali-travel-guide/)
+Buat yang tertarik dengan itinerary Bali utara, cek juga: [15 Tips Liburan ke Bali Utara yang Wajib Kamu Tahu](/id/blog/north-bali-travel-guide/)
 
 {{block:戶外}}

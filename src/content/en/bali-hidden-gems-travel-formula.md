@@ -43,11 +43,11 @@ Some come here to watch the sunset on the west coast beaches, letting their mind
 
 ![A Trip Without Standard Answers](https://images.gobaligo.id/vocus/vocus_104bf07d3e6737f9d056a85f8714c32b.png)
 
-**Quick Reference:** [【Ultimate Guide to Bali Sunset Times】Top 7 Spots to Watch the Sunset in Bali—How Many Have You Visited?](/blog/bali-sunset-spots-guide/)
+**Quick Reference:** [【Ultimate Guide to Bali Sunset Times】Top 7 Spots to Watch the Sunset in Bali—How Many Have You Visited?](/en/blog/bali-sunset-spots-guide/)
 
 ![A Trip Without Standard Answers](https://images.gobaligo.id/vocus/vocus_2634825130a33ed12c76424c2ef48c7e.png)
 
-**Quick Reference:** [20 Free-Entry Beach Clubs in Bali: Enjoy Bikinis, Music, Pools, and Stunning Sunsets](/blog/bali-beach-clubs-free-entry-list/)
+**Quick Reference:** [20 Free-Entry Beach Clubs in Bali: Enjoy Bikinis, Music, Pools, and Stunning Sunsets](/en/blog/bali-beach-clubs-free-entry-list/)
 
 Of course, many come for those Instagram-famous spots—the waves at Tanah Lot, the greenery of Tegallalang Rice Terraces, the iconic swings, and the exquisite breakfasts at trendy cafes. Adventure enthusiasts, on the other hand, might prefer volcano hikes, diving to explore the underwater world, or thrilling white-water rafting.
 
@@ -55,8 +55,8 @@ Of course, many come for those Instagram-famous spots—the waves at Tanah Lot, 
 
 **Quick Reference:**
 
-- [What Outdoor Activities Can You Do in Bali? 50 Most Popular Outdoor Experiences](/blog/bali-top-50-outdoor-activities/)
-- [Complete Guide to Water Activities in Bali｜Bali Isn’t Just About Snorkeling! 15 Unexpected Water Adventures](/blog/2026-bali-water-activities/)
+- [What Outdoor Activities Can You Do in Bali? 50 Most Popular Outdoor Experiences](/en/blog/bali-top-50-outdoor-activities/)
+- [Complete Guide to Water Activities in Bali｜Bali Isn’t Just About Snorkeling! 15 Unexpected Water Adventures](/en/blog/2026-bali-water-activities/)
 
 ## Ask Yourself This Question
 
@@ -68,8 +68,8 @@ Before planning your Bali trip, ask yourself: "What do I want most from this jou
 - **Want to capture stunning photos?** Prepare your camera, from the Gates of Heaven to jungle swings, Bali's Instagram hotspots await
 - **Want to challenge yourself?** Mount Batur sunrise trekking, diving in Nusa Lembongan, and Ayung River rafting are great options
 - **Traveling with kids?** Hundreds of family-friendly activities await, check out our [Family Travel](/blog?cat=%E5%AE%B6%E5%BA%AD%E8%A6%AA%E5%AD%90) section
-- **Traveling with elderly?** [Bali Travel Guide for Seniors - Safety, Comfort & Precautions](/blog/bali-elderly-travel-guide/)
-- **Planning a romantic getaway?** [Bali Honeymoon Romantic Guide: 36 Activities for Couples](/blog/bali-honeymoon-romantic-activities-2/)
+- **Traveling with elderly?** [Bali Travel Guide for Seniors - Safety, Comfort & Precautions](/en/blog/bali-elderly-travel-guide/)
+- **Planning a romantic getaway?** [Bali Honeymoon Romantic Guide: 36 Activities for Couples](/en/blog/bali-honeymoon-romantic-activities-2/)
 
 ## Endless Possibilities
 
@@ -81,14 +81,14 @@ You can even create an adventure-themed itinerary: climb a volcano at dawn for s
 
 Quick Reference:
 
-- [Bali Rice Terraces Comparison: Tegallalang vs Jatiluwih](/blog/bali-rice-terraces-comparison/)
-- [9 Best Seafood Restaurants in Jimbaran: Our Top Picks](/blog/jimbaran-seafood-restaurants-list/)
-- [Top 5 Nightclubs in Seminyak: Experience Bali's Best Nightlife!](/blog/seminyak-nightclubs-guide/)
-- [Best Spas & In-room Massages in Bali: Organized by Area](/blog/spa/)
-- [Seminyak Food Guide: Romantic, Refined & Authentic Balinese Cuisine](/blog/seminyak-restaurants-food-guide/)
-- [Bali Adventure: Complete Guide to Mount Batur Jeep Sunrise Tour](/blog/batur-volcano-jeep-sunrise-tour/)
-- [Best Snorkeling Spots in Bali: Beginner-friendly Ocean Adventures](/blog/bali-snorkeling-spots/)
-- [Paragliding in Uluwatu: Stunning Ocean Views & Tips](/blog/uluwatu-paragliding-ocean-view/)
+- [Bali Rice Terraces Comparison: Tegallalang vs Jatiluwih](/en/blog/bali-rice-terraces-comparison/)
+- [9 Best Seafood Restaurants in Jimbaran: Our Top Picks](/en/blog/jimbaran-seafood-restaurants-list/)
+- [Top 5 Nightclubs in Seminyak: Experience Bali's Best Nightlife!](/en/blog/seminyak-nightclubs-guide/)
+- [Best Spas & In-room Massages in Bali: Organized by Area](/en/blog/spa/)
+- [Seminyak Food Guide: Romantic, Refined & Authentic Balinese Cuisine](/en/blog/seminyak-restaurants-food-guide/)
+- [Bali Adventure: Complete Guide to Mount Batur Jeep Sunrise Tour](/en/blog/batur-volcano-jeep-sunrise-tour/)
+- [Best Snorkeling Spots in Bali: Beginner-friendly Ocean Adventures](/en/blog/bali-snorkeling-spots/)
+- [Paragliding in Uluwatu: Stunning Ocean Views & Tips](/en/blog/uluwatu-paragliding-ocean-view/)
 
 ## Bali's Top 10 Landmarks
 
@@ -96,12 +96,12 @@ Quick Reference:
 
 While there are no must-see attractions, Bali does have "Ten Iconic Landmarks." These sites showcase Bali's culture, natural beauty, and unique charm, allowing you to deeply experience Bali's essence in a short time. These locations are also popular spots for photo ops and checking off your Bali bucket list.
 
-In addition, Bali has many unique attractions. Check out our '[Bali Free Travel Guide: Top 500 Attractions](/blog/bali-top-500-attractions/)' which introduces 500 of the latest Bali attractions for 2025. You're sure to find places you're eager to visit!
+In addition, Bali has many unique attractions. Check out our '[Bali Free Travel Guide: Top 500 Attractions](/en/blog/bali-top-500-attractions/)' which introduces 500 of the latest Bali attractions for 2025. You're sure to find places you're eager to visit!
 
 Further Reading:
 
-- [Bali Travel Guide: What to Do on Your First Visit to Ubud? 20 Recommended Attractions - Ubud Guide](/blog/ubud-top-20-attractions-guide/)
-- [Seminyak Day Trip Guide: A Perfect Itinerary from Sunrise to Sunset](/blog/seminyak-day-trip-guide/)
+- [Bali Travel Guide: What to Do on Your First Visit to Ubud? 20 Recommended Attractions - Ubud Guide](/en/blog/ubud-top-20-attractions-guide/)
+- [Seminyak Day Trip Guide: A Perfect Itinerary from Sunrise to Sunset](/en/blog/seminyak-day-trip-guide/)
 
 ## Why Does Bali Attract Global Travelers?
 
@@ -163,4 +163,4 @@ Remember, the best trip isn't about how many attractions you visit, but how well
 
 👈 **Return to the Ultimate Bali Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.
+Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/en/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.

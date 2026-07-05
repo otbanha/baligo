@@ -47,7 +47,7 @@ Di perjalanan ini, anakku yang 7 tahun paling suka **Mara River Safari Lodge**. 
 
 Selain itu, naik mobil wisata juga gampang banget, bisa lihat berbagai satwa dengan santai. Anak-anak terus teriak kegirangan di dalam mobil, bener-bener tenggelam di lingkungan yang penuh kehidupan ini. Kalau kamu bawa anak-anak, tempat ini wajib banget dicoba.
 
-**Referensi Cepat:** [Panduan Lengkap Bali Safari: Pengalaman Menginap, Aktivitas Keluarga & Itinerary](/blog/bali-safari-night-experience/)
+**Referensi Cepat:** [Panduan Lengkap Bali Safari: Pengalaman Menginap, Aktivitas Keluarga & Itinerary](/id/blog/bali-safari-night-experience/)
 
 🦒[Menginap di Mara River Safari Lodge](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1012580&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fhotels%2Fdetail%2F253798-mara-river-safari-lodge%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De5b519631a)🐒
 
@@ -71,7 +71,7 @@ Buat para orang tua yang udah 70 tahun ke atas, **Pura Ulun Danu Beratan** adala
 
 **Pura Tanah Lot** adalah salah satu ikon Bali yang wajib dikunjungi. Tebing karang dan platform batu di sini keren banget, sesuai banget sama ekspektasi kita soal Bali. Meskipun sinar matahari di pantai agak panas, tapi liat ombak yang menghantam karang tuh bikin kita speechless. Saran buat kalian yang mau ke sini, bawa topi atau payung, dan mending datang pas sore hari biar nggak kepanasan sambil nikmatin sunset yang cantik.
 
-**Referensi Cepat:** [Panduan Lengkap Pura Tanah Lot: Info Pasang Surut & Tempat Wisata Sekitar](/blog/bali-tanah-lot-guide/)
+**Referensi Cepat:** [Panduan Lengkap Pura Tanah Lot: Info Pasang Surut & Tempat Wisata Sekitar](/id/blog/bali-tanah-lot-guide/)
 
 🛕🌊🌅 Pura Tanah Lot, tempat sunset wajib dikunjungi di Bali, nikmati pemandangan laut yang megah dan suasana religius ▶[Diskon Klook](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
 
@@ -83,7 +83,7 @@ Buat para orang tua yang udah 70 tahun ke atas, **Pura Ulun Danu Beratan** adala
 
 Pemandangan sawah terasering di Bali emang terkenal banget. Kita milih spot sawah yang ada ayunannya, di sini nggak cuma cocok buat foto-foto, tapi juga seru buat anak-anak dan orang tua. Anak-anak lari-larian di antara sawah, naik turun, full energy release. Sementara orang tua duduk santai, nikmatin pemandangan hijau sawah yang asri sambil merasakan angin sepoi-sepoi. Suasananya santai banget, cocok buat quality time sekeluarga.
 
-**Referensi Cepat:** [Ubud Swing: 8 Spot Ayunan Terindah di Bali & Panduan Sewa Gaun](/blog/ubud-jungle-swings-photo-guide/)
+**Referensi Cepat:** [Ubud Swing: 8 Spot Ayunan Terindah di Bali & Panduan Sewa Gaun](/id/blog/ubud-jungle-swings-photo-guide/)
 
 🛕🐒🌿 Tur sehari di Ubud, eksplor spot IG hits, nikmati keindahan alam yang luar biasa, cicipi kuliner lokal dan kopi luwak ☕📸, perpaduan sempurna budaya dan alam ▶ [Klook 50+ Pilihan Trip](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989417&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E7%2583%258F%25E5%25B8%2583%25E4%25B8%2580%25E6%2597%25A5%26sort%3Dmost_relevant%26tab_key%3D0%26start%3D1)
 
@@ -95,7 +95,7 @@ Pemandangan sawah terasering di Bali emang terkenal banget. Kita milih spot sawa
 
 **Pura Tirta Empul** adalah tempat yang penuh dengan nuansa religius. Di sini, kami melihat banyak penduduk setempat melakukan ritual mandi suci, suasananya sangat khidmat dan unik. Tapi kalau dibandingkan dengan ritual mandi itu, aku pribadi lebih tertarik sama istana presiden di atas bukit. Bangunannya penuh sejarah, lingkungan sekitarnya juga super indah, worth it banget buat dinikmati pelan-pelan.
 
-**Referensi Cepat:** [【2026】Panduan Lengkap Pura Tirta Empul: Pengalaman Pura Pemurnian Tersakral di Bali](/blog/tirta-empul-temple-guide/)
+**Referensi Cepat:** [【2026】Panduan Lengkap Pura Tirta Empul: Pengalaman Pura Pemurnian Tersakral di Bali](/id/blog/tirta-empul-temple-guide/)
 
 🔱💦 Pura Tirta Empul di Ubud, pura air suci terkenal di Bali, terkenal dengan ritual pemurnian 🙏 dan air sucinya 💧, dipercaya bisa membawa berkah dan keberuntungan ✨ bagi umat dan wisatawan! ▶[Promo Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)
 
@@ -107,7 +107,7 @@ Pemandangan sawah terasering di Bali emang terkenal banget. Kita milih spot sawa
 
 Pemandangan **Jalan Tebing** ini keren banget, tapi karena pernah longsor beberapa waktu lalu—meski sekarang sudah diperbaiki dengan baik—tetap disarankan naik shuttle aja. Selain itu, sinar matahari di sini terik banget, jangan lupa bawa topi atau pelindung biar nggak gosong.
 
-**Referensi Cepat:** [Batu Barak/Tanah Barak Bali: Petualangan Seru di Blue Highway / Cliff Road](/blog/batu-barak-cliff-road/)
+**Referensi Cepat:** [Batu Barak/Tanah Barak Bali: Petualangan Seru di Blue Highway / Cliff Road](/id/blog/batu-barak-cliff-road/)
 
 🏖️🪨🌊 Eksplorasi keindahan tebing biru, pemandangan yang terbelah, jepret aja langsung jadi incaran Instagram! ▶[Promo Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F114124-tanah-barak-cliff-garuda-wisnu-kencana-malini-sunset-tour-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8aad5d46e9)
 
@@ -121,7 +121,7 @@ Pemandangan **Jalan Tebing** ini keren banget, tapi karena pernah longsor bebera
 
 **Garuda Wisnu Kencana Cultural Park (GWK)** luas banget areanya, yang paling mencolok ya patung Garuda Wisnu yang raksasa—tinggi dan skalanya benar-benar bikin takjub. Dari bandara aja udah keliatan patung ini, kebayang kan seberapa megahnya? Sayangnya, fasilitas di taman ini masih kurang lengkap, terasa agak hampa. Saran buat yang mau ke sini, mampir sebentar aja buat lihat patungnya, terus lanjut ke tempat lain.
 
-**Referensi Cepat:** [Panduan Lengkap GWK Cultural Park Bali](/blog/gwk-cultural-park-bali/)
+**Referensi Cepat:** [Panduan Lengkap GWK Cultural Park Bali](/id/blog/gwk-cultural-park-bali/)
 
 🦅☀️🌴GWK Garuda Wisnu Kencana Plaza, patung Dewa Wisnu dan Garuda yang raksasa bikin takjub 😍, plus bisa nonton pertunjukan tradisional, perpaduan budaya dan alam yang pas banget ▶ [Link tiket Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=848821&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D795e4377a1)
 
@@ -196,4 +196,4 @@ Kamu pikir itinerary-nya Chingju Wang seru banget? Yuk, segera atur liburan Bali
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 
-Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan "[Cara Menulis Cerita Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)" biar ceritamu makin kece!
+Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan "[Cara Menulis Cerita Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)" biar ceritamu makin kece!

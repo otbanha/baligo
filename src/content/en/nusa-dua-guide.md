@@ -127,7 +127,7 @@ At the Kempinski, besides the aquarium restaurant, there's also the stunning aft
 
 ![按我：Selasar Deli 下午茶體驗記](https://images.gobaligo.id/vocus/vocus_d1404fae059635c1384855f142381263.jpg)
 
-[Click here: Selasar Deli Afternoon Tea Experience](/blog/kempinski-selasar-deli-afternoon-tea/)
+[Click here: Selasar Deli Afternoon Tea Experience](/en/blog/kempinski-selasar-deli-afternoon-tea/)
 
 > Book [Afternoon Tea at Selasar Deli Restaurant](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1052045&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F58595-selasar-deli-apurva-kempinski-hotel-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D247caa596d)
 
@@ -229,7 +229,7 @@ If you're looking to enjoy high-quality afternoon tea, dining, and exceptional s
 
 https://youtube.com/shorts/0pk0syQh5sw
 
-A budget-friendly seafood restaurant run by Taiwanese, serving fresh and honest dishes with huge popularity. They often offer special deals for group members. Recommended for seafood lovers! Find the address and contact info [here](/blog/mr-lobster-seafood-restaurant-bali/). It's best to make a reservation with Boss Xu in advance!
+A budget-friendly seafood restaurant run by Taiwanese, serving fresh and honest dishes with huge popularity. They often offer special deals for group members. Recommended for seafood lovers! Find the address and contact info [here](/en/blog/mr-lobster-seafood-restaurant-bali/). It's best to make a reservation with Boss Xu in advance!
 
 ***
 
@@ -336,7 +336,7 @@ Whether you're a first-timer or an experienced angler, this activity provides fi
 
 Performed only three times a week, this grand stage production takes audiences on a cultural journey across Indonesia's five main islands through music, dance, and aerial stunts. Fun for all ages—an absolute must-see.
 
-For a detailed introduction, check out [this article](/blog/devdan-show-nusa-dua/)
+For a detailed introduction, check out [this article](/en/blog/devdan-show-nusa-dua/)
 
 > [Book via Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
 > [Book via KKday](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
@@ -367,7 +367,7 @@ Beyond dolphin interactions, the park also features sea lion shows, an underwate
 
 **Travel Tip:** Dolphin interaction slots are limited, so it's highly recommended to book online in advance. Some activities have age and height restrictions, so be sure to check before booking.
 
-Detailed guide: [Bali Exotic Marine Park Guide: Ultra-Close Encounters, Swimming with Dolphins, Crowd Avoidance Tips, and Family Itinerary Planning](https://gobaligo.id/blog/Bali-Exotic-Marine-Park/)
+Detailed guide: [Bali Exotic Marine Park Guide: Ultra-Close Encounters, Swimming with Dolphins, Crowd Avoidance Tips, and Family Itinerary Planning](https://gobaligo.id/en/blog/Bali-Exotic-Marine-Park/)
 
 > Book online: [Kkday](https://www.kkday.com/zh-tw/product/138734-bali-exotic-dolphin-marine-park-indonesia?cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -411,7 +411,7 @@ To avoid disrupting your itinerary by not booking SPA services in advance, be su
 
 ### Top 16 Five-Star Hotels/Resorts
 
-In the Nusa Dua/Tanjung Benoa area, you'll discover a series of exceptionally elegant and stunning five-star hotels. This ranking, based on comprehensive reviews from TripAdvisor users worldwide, showcases these hotels' outstanding service and quality. Check out: [Bali's 16 Best Five-Star Resort Stays in Nusa Dua](/blog/nusa-dua-resorts-guide/)
+In the Nusa Dua/Tanjung Benoa area, you'll discover a series of exceptionally elegant and stunning five-star hotels. This ranking, based on comprehensive reviews from TripAdvisor users worldwide, showcases these hotels' outstanding service and quality. Check out: [Bali's 16 Best Five-Star Resort Stays in Nusa Dua](/en/blog/nusa-dua-resorts-guide/)
 
 Xiao Jie's stay experience at Conrad Bali: 
 

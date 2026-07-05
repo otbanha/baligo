@@ -62,9 +62,9 @@ Padang Padang Beach小傑嘅介紹
 
 ![烏魯瓦圖攻略有更全面的介紹](https://images.gobaligo.id/vocus/vocus_21777e6a472d74c62c56833f409a2864.jpg)
 
-[烏魯瓦圖攻略有更全面嘅介紹](/blog/uluwatu-guide/)
+[烏魯瓦圖攻略有更全面嘅介紹](/zh-hk/blog/uluwatu-guide/)
 
-其他喺視頻冇介紹到嘅「Tanah Barak Cliff」藍色公路、11個烏魯瓦圖海灘俱樂部、16間美食餐廳推薦、兩間親子餐廳、四個購物點...等介紹，請參考我哋嘅「[【烏魯瓦圖攻略】烏魯瓦圖景點 50個吃喝玩樂推薦](/blog/uluwatu-guide/)」
+其他喺視頻冇介紹到嘅「Tanah Barak Cliff」藍色公路、11個烏魯瓦圖海灘俱樂部、16間美食餐廳推薦、兩間親子餐廳、四個購物點...等介紹，請參考我哋嘅「[【烏魯瓦圖攻略】烏魯瓦圖景點 50個吃喝玩樂推薦](/zh-hk/blog/uluwatu-guide/)」
 
 ![](https://res.cloudinary.com/dksxqobud/image/upload/v1774107631/pandawa3_jbnbjf.jpg)
 

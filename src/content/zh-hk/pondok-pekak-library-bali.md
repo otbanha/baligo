@@ -23,7 +23,7 @@ _srcHash: a3b9ef841b21eab013ee8ac459901ecf
 
 峇里島為幼兒提供咗好多適合家庭嘅教育活動。其中，位於烏布市中心嘅Pondok Pekak文化圖書館係一個隱藏嘅寶藏，絕對係家庭假期中唔可以錯過嘅地方。
 
-（收錄在：[峇里島家庭親子旅遊活動精選攻略：烏布55項親子活動帶小朋友最輕鬆！](/blog/ubud-with-kids-guide/)）
+（收錄在：[峇里島家庭親子旅遊活動精選攻略：烏布55項親子活動帶小朋友最輕鬆！](/zh-hk/blog/ubud-with-kids-guide/)）
 
 ## Pondok Pekak嘅創立與使命
 

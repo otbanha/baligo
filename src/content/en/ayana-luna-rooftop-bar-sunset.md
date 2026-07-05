@@ -99,7 +99,7 @@ Below is a short video of Jay's experience at Luna Rooftop Bar: __VID0__
 
 ## Complete Guide to Staying at Ayana
 
-This article is also included in our [Complete Guide to Ayana Resort Bali](/blog/ayana-resort-bali-guide/)! Want to know about the interesting facilities at Ayana, the unique pools, and the photo-worthy spots? You can't miss this guide!
+This article is also included in our [Complete Guide to Ayana Resort Bali](/en/blog/ayana-resort-bali-guide/)! Want to know about the interesting facilities at Ayana, the unique pools, and the photo-worthy spots? You can't miss this guide!
 
 ## Frequently Asked Questions
 

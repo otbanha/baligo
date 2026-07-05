@@ -132,6 +132,6 @@ The service here was impeccable, with every staff member displaying warmth and p
 
 **Nusa Dua is a renowned luxury resort area in southern Bali, famous for its tranquil environment, pristine white sand beaches, and world-class luxury experiences.** If you're looking for a luxurious five-star resort, Nusa Dua offers a plethora of top-tier options, from exclusive private beaches to exquisite dining and spa experiences.
 
-👉 **Want to explore more top accommodations in Nusa Dua?** [**Click here**](/blog/nusa-dua-resorts-guide/)**!**
+👉 **Want to explore more top accommodations in Nusa Dua?** [**Click here**](/en/blog/nusa-dua-resorts-guide/)**!**
 
 ** BLOCK0 **

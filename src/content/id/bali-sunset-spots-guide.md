@@ -80,9 +80,9 @@ Pantai Jimbaran terkenal sama restoran seafood-nya. Tempat yang pas buat makan e
 
 ### **Rock Bar**
 
-Ada di dalam [Ayana Resort](/blog/ayana-resort-bali-guide/), ini salah satu bar sunset paling populer di Bali. Pemandangan tebing dan lautnya juara, suasananya unik banget.
+Ada di dalam [Ayana Resort](/id/blog/ayana-resort-bali-guide/), ini salah satu bar sunset paling populer di Bali. Pemandangan tebing dan lautnya juara, suasananya unik banget.
 
-> Baca juga: [【Ayana Bali】Panduan Menginap di Ayana Resort Bali](/blog/ayana-resort-bali-guide/)
+> Baca juga: [【Ayana Bali】Panduan Menginap di Ayana Resort Bali](/id/blog/ayana-resort-bali-guide/)
 
 ### **Pantai Seminyak (Seminyak Beach)**
 
@@ -90,17 +90,17 @@ Pantai, beach club, dan bar di sini punya vibe yang super stylish — tempat yan
 
 > Baca juga:
 
-> [MoonLite Kitchen and Bar: Surga Kuliner Sunset di Seminyak](/blog/moonlite-kitchen-bar-seminyak-sunset/)
+> [MoonLite Kitchen and Bar: Surga Kuliner Sunset di Seminyak](/id/blog/moonlite-kitchen-bar-seminyak-sunset/)
 
-> [Panduan Lengkap Ku De Ta Beach Club Seminyak Bali: Makan, Pesta, dan Pengalaman Pantai Impian](/blog/ku-de-ta-beach-club/)
+> [Panduan Lengkap Ku De Ta Beach Club Seminyak Bali: Makan, Pesta, dan Pengalaman Pantai Impian](/id/blog/ku-de-ta-beach-club/)
 
-> [100+ Tempat Wajib di Seminyak Bali: Peta Lengkap Kuliner, Minum, dan Main](/blog/seminyak-guide/)
+> [100+ Tempat Wajib di Seminyak Bali: Peta Lengkap Kuliner, Minum, dan Main](/id/blog/seminyak-guide/)
 
 ### **Echo Beach**
 
 Lokasinya di Canggu, ini surga para peselancar. La Brisa beach club yang terkenal di sini kasih suasana santai buat nikmatin sunset.
 
-> Baca juga: [Dijuluki 'Restoran Terindah di Bali': La Brisa](/blog/canggu-la-brisa-restaurant-guide/)
+> Baca juga: [Dijuluki 'Restoran Terindah di Bali': La Brisa](/id/blog/canggu-la-brisa-restaurant-guide/)
 
 ## Tips Pengalaman Sunset yang Sempurna
 

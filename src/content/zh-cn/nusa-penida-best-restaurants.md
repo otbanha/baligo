@@ -18,14 +18,14 @@ _srcHash: 02cb4f057433b9a043a1afdf8a3c249a
 
 Nusa Penida以其宛如天堂一般的沙滩、清澈的海水和充满异国风情的美食而闻名于世。在这个目的地，我们将带您探索最令人着迷的美食、放松地点。
 
-上一集我们介绍了[佩尼达岛的旅游攻略和九个佩尼达岛的自然美景](/blog/nusa-penida-guide/)；在这篇文章中，我们将介绍十家餐厅为您带来无尽的欢乐和度假的氛围，让您在假期中可以尽情享受。无论您是一位海滩爱好者、美食家，还是追求极致的放松，Nusa Penida都将给予您一个难以忘怀的体验。让我们一起开始这场探险，发现这个岛屿的奇妙之处，带您进入一个充满美丽和幸福的度假世界。
+上一集我们介绍了[佩尼达岛的旅游攻略和九个佩尼达岛的自然美景](/zh-cn/blog/nusa-penida-guide/)；在这篇文章中，我们将介绍十家餐厅为您带来无尽的欢乐和度假的氛围，让您在假期中可以尽情享受。无论您是一位海滩爱好者、美食家，还是追求极致的放松，Nusa Penida都将给予您一个难以忘怀的体验。让我们一起开始这场探险，发现这个岛屿的奇妙之处，带您进入一个充满美丽和幸福的度假世界。
 
 针对佩尼达岛我们共有五集介绍，一起来更深入认识这个海岛天堂！其他四集这里有传送门：
 
-1. [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)
-2. [Nusa Penida 努沙佩尼达岛的浮潜点介绍，如何参加浮潜？](/blog/nusa-penida-snorkeling-guide/)
-3. [佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/blog/nusa-penida-transport-guide/)
-4. [佩尼达岛的住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/blog/nusa-penida-hotels-guide/)
+1. [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/zh-cn/blog/nusa-penida-guide/)
+2. [Nusa Penida 努沙佩尼达岛的浮潜点介绍，如何参加浮潜？](/zh-cn/blog/nusa-penida-snorkeling-guide/)
+3. [佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/zh-cn/blog/nusa-penida-transport-guide/)
+4. [佩尼达岛的住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/zh-cn/blog/nusa-penida-hotels-guide/)
 
 ## Amok Sunset
 

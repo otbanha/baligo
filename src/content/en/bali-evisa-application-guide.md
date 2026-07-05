@@ -40,7 +40,7 @@ The e-Visa application should be completed within 3 days before departure. It is
 
 The e-Visa application usually takes only a few minutes to complete. The advantage of applying for the e-Visa in advance is that you don't have to queue for a visa on arrival after landing, and starting from 2024, you can use almost queue-free electronic immigration gates.
 
-> Further Reading: [Quick and Convenient! 2025 Bali Automatic Customs Process & Guide](/blog/2025-bali-automatic-customs/)
+> Further Reading: [Quick and Convenient! 2025 Bali Automatic Customs Process & Guide](/en/blog/2025-bali-automatic-customs/)
 
 **B1 Tourist Visa**
 
@@ -50,20 +50,20 @@ This is the visa most tourists should choose! (PS. No longer need to create an a
 
 ## What other documents are needed besides the e-visa?
 
-Please refer to the detailed instructions for all procedures here: [Bali, Indonesia Entry Using the 'All Indonesia' Declaration System｜1-Minute Guide to the Latest Process: From Landing → Customs → Baggage Claim](/blog/bali-all-indonesia-arrival-guide/)
+Please refer to the detailed instructions for all procedures here: [Bali, Indonesia Entry Using the 'All Indonesia' Declaration System｜1-Minute Guide to the Latest Process: From Landing → Customs → Baggage Claim](/en/blog/bali-all-indonesia-arrival-guide/)
 
 ## eVOA vs. Airport Visa on Arrival — Which One Should You Get?
 
-Both options cost the same and grant the same 30-day stay, but they're not identical in practice. If you'd rather queue at the airport counter than fill out a form in advance, or you're unsure which fits your trip, see our full breakdown: [Bali Travel Visa Guide: On-Arrival Visa vs. E-Visa — Which is Better for You?](/blog/bali-visa-landing-vs-electronic/)
+Both options cost the same and grant the same 30-day stay, but they're not identical in practice. If you'd rather queue at the airport counter than fill out a form in advance, or you're unsure which fits your trip, see our full breakdown: [Bali Travel Visa Guide: On-Arrival Visa vs. E-Visa — Which is Better for You?](/en/blog/bali-visa-landing-vs-electronic/)
 
 ## Online Visa Extension
 
-Starting from 2024, Indonesia will encourage tourists planning to visit Bali to use online immigration services. Tourists can apply for various Indonesian visas online and also extend their visas online, without having to visit the immigration office in person! How to extend online? Check out [our prepared guide](/blog/2024-bali-visa-extension/).
+Starting from 2024, Indonesia will encourage tourists planning to visit Bali to use online immigration services. Tourists can apply for various Indonesian visas online and also extend their visas online, without having to visit the immigration office in person! How to extend online? Check out [our prepared guide](/en/blog/2024-bali-visa-extension/).
 
 ## Common Mistakes to Avoid
 
 Most eVOA problems come down to two things: a rejected photo upload, or a scam email after you've already paid.
 
-- **Photo won't upload?** It's almost always a file size issue. See our fix: [Having Trouble Uploading Your Photo for the Indonesia/Bali eVisa? Here's How to Fix It](/blog/bali-evoa-photo-fix/)
-- **Got an email asking for more money after approval?** It's a scam — the government never charges extra post-approval. Full details: [Beware of the Latest Email Scam After Applying for an Indonesian Visa!](/blog/indonesia-evoa-scam-alert/)
-- **Still have questions?** Check our [Indonesia/Bali Entry Visa & eVOA FAQ](/blog/indonesia-bali-visa-evoa-faq/) for answers to the most common questions travelers ask.
+- **Photo won't upload?** It's almost always a file size issue. See our fix: [Having Trouble Uploading Your Photo for the Indonesia/Bali eVisa? Here's How to Fix It](/en/blog/bali-evoa-photo-fix/)
+- **Got an email asking for more money after approval?** It's a scam — the government never charges extra post-approval. Full details: [Beware of the Latest Email Scam After Applying for an Indonesian Visa!](/en/blog/indonesia-evoa-scam-alert/)
+- **Still have questions?** Check our [Indonesia/Bali Entry Visa & eVOA FAQ](/en/blog/indonesia-bali-visa-evoa-faq/) for answers to the most common questions travelers ask.

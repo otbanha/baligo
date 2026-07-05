@@ -282,8 +282,8 @@ Sanur Harbour adalah pelabuhan penting di Bali yang terletak di Sanur. Pelabuhan
 
 Kalau kamu mau ke Nusa Penida atau Nusa Lembongan, cek panduan kami di sini:
 
-- [【Bali - Nusa Penida】Peta, naik kapal, akomodasi, transportasi, sewa mobil, aktivitas, fotografi, tempat wisata](/blog/nusa-penida-guide/)
-- [【Panduan Wisata Nusa Lembongan/Ceningan】Jelajahi tempat wisata, kuliner, transportasi di Nusa Lembongan/Ceningan: Surga di Dekat Bali](/blog/nusa-lembongan-ceningan-guide/)
+- [【Bali - Nusa Penida】Peta, naik kapal, akomodasi, transportasi, sewa mobil, aktivitas, fotografi, tempat wisata](/id/blog/nusa-penida-guide/)
+- [【Panduan Wisata Nusa Lembongan/Ceningan】Jelajahi tempat wisata, kuliner, transportasi di Nusa Lembongan/Ceningan: Surga di Dekat Bali](/id/blog/nusa-lembongan-ceningan-guide/)
 
 ### Icon Bali （📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
@@ -345,13 +345,13 @@ Tapi perlu diingat, aktivitas air di Teluk Selatan ini cukup populer, jadi saran
 
 Pembukaan AeroXSpace Indoor Adventure Park kasih pilihan hiburan baru buat keluarga dan wisatawan di Bali. Pusat petualangan seluas 3.500 meter persegi ini punya 26 atraksi dan permainan seru, cocok buat segala usia, baik saat cuaca cerah maupun hujan.
 
-Penjelasan lengkapnya [di sini](/blog/aeroxspace-sanur-indoor-playground/).
+Penjelasan lengkapnya [di sini](/id/blog/aeroxspace-sanur-indoor-playground/).
 
 ### Clip 'n Climb Indoor Rock Climbing
 
 ![Clip 'n Climb Indoor Rock Climbing](https://images.gobaligo.id/vocus/vocus_299767d0544b5a5db93ddce11b528cb4.jpg)
 
-Clip 'n Climb Bali menggabungkan olahraga dan hiburan, jadi destinasi indoor adventure yang lagi hits di Bali. Baik pemula maupun yang udah jago, pasti nemu keseruannya! Info lengkap dan aturan masuk ada [di sini](/blog/clip-n-climb-sanur-bali/).
+Clip 'n Climb Bali menggabungkan olahraga dan hiburan, jadi destinasi indoor adventure yang lagi hits di Bali. Baik pemula maupun yang udah jago, pasti nemu keseruannya! Info lengkap dan aturan masuk ada [di sini](/id/blog/clip-n-climb-sanur-bali/).
 
 ▶[Beli Tiket Diskon Clip 'n Climb](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1026544&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F150182-clip-n-climb-pass-in-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b7aec2eea)
 
@@ -367,7 +367,7 @@ Selain interaksi lumba-lumba, taman ini juga punya pertunjukan singa laut, kolam
 
 **Tips perjalanan:** Kuota interaksi lumba-lumba terbatas banget, saran banget buat booking lewat platform online jauh-jauh hari. Beberapa aktivitas interaksi punya batasan umur dan tinggi badan, pastikan cek dulu sebelum beli tiket.
 
-Info lengkap: [Panduan Bali Exotic Marine Park: Interaksi super dekat, berenang bareng lumba-lumba, tips hindari keramaian, dan rencana perjalanan keluarga](https://gobaligo.id/blog/Bali-Exotic-Marine-Park/)
+Info lengkap: [Panduan Bali Exotic Marine Park: Interaksi super dekat, berenang bareng lumba-lumba, tips hindari keramaian, dan rencana perjalanan keluarga](https://gobaligo.id/id/blog/Bali-Exotic-Marine-Park/)
 
 > Beli tiket online: [Kkday](https://www.kkday.com/zh-tw/product/138734-bali-exotic-dolphin-marine-park-indonesia?cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -431,7 +431,7 @@ Mau hangout santai sama teman atau dinner romantis, The Village Cucina siap kasi
 
 ![Kafe dengan Pemandangan Laut di Sanur](https://images.gobaligo.id/vocus/vocus_dec525d7171bd1501b6db42fd4ccc185.jpg)
 
-Kami kumpulin 6 kafe dengan pemandangan laut paling hits dan terbaru. Penjelasan lengkapnya bisa cek [di sini](/blog/sanur-beach-cafes-guide/)
+Kami kumpulin 6 kafe dengan pemandangan laut paling hits dan terbaru. Penjelasan lengkapnya bisa cek [di sini](/id/blog/sanur-beach-cafes-guide/)
 
 ### Kuliner Lain di Sanur (📌[Peta](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
@@ -479,11 +479,11 @@ Mau liburan di Sanur sambil menikmati SPA berkualitas tinggi yang dijamin nggak 
 
 ### Panduan Menginap di Sanur
 
-Kami sudah mengumpulkan lebih dari 20 pilihan, mulai dari resor mewah Sanur, hotel dekat Pelabuhan Sanur (Sanur Harbour), rekomendasi villa, hingga penginapan budget. Jangan lewatkan koleksi "[20+ Resor/Villa Sanur dari Mewah hingga Budget](/blog/sanur-luxury-budget-resorts/)" ya!
+Kami sudah mengumpulkan lebih dari 20 pilihan, mulai dari resor mewah Sanur, hotel dekat Pelabuhan Sanur (Sanur Harbour), rekomendasi villa, hingga penginapan budget. Jangan lewatkan koleksi "[20+ Resor/Villa Sanur dari Mewah hingga Budget](/id/blog/sanur-luxury-budget-resorts/)" ya!
 
 ![Sanur沙努爾21家從奢華到平價的渡假村/villa收集](https://images.gobaligo.id/vocus/vocus_c9b555d1a2f729dc2eec89a632d5ffe1.jpg)
 
-[Koleksi 20+ Resor/Villa Sanur dari Mewah hingga Budget](/blog/sanur-luxury-budget-resorts/)
+[Koleksi 20+ Resor/Villa Sanur dari Mewah hingga Budget](/id/blog/sanur-luxury-budget-resorts/)
 
 ### Sewa Pelampung Besar buat Foto Kece
 

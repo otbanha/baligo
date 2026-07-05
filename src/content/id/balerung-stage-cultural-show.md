@@ -59,7 +59,7 @@ Dimainkan oleh penari dan musisi terkenal dari Peliatan, setiap Jumat malam jam 
 
 Kalau kamu berencana ke Bali, mampir langsung aja ke Balerung Stage. Setiap pertunjukan di sini penuh sejarah dan tradisi, bikin kamu benar-benar bisa merasakan esensi budaya Bali!
 
-> Baca juga: [「Harga tiket 150K」... 150K itu artinya apa?](/blog/bali-budget-tips-k-explained/)
+> Baca juga: [「Harga tiket 150K」... 150K itu artinya apa?](/id/blog/bali-budget-tips-k-explained/)
 
 ## Daftar & Gabung Blog Kami
 

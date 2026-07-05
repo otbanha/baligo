@@ -115,7 +115,7 @@ Banyak resor mewah dan restoran di Bali yang menggelar perayaan seru, bikin kamu
 - - Tanggal: Mulai sekarang hingga 24 Februari 2025
   - Acara: Paket promo Imlek
   - Harga: IDR 400.000 belum pajak/orang
-  - Kontak: Cek [di sini](/blog/mr-lobster-seafood-bali/)
+  - Kontak: Cek [di sini](/id/blog/mr-lobster-seafood-bali/)
 
 ### Seminyak
 
@@ -218,7 +218,7 @@ Perayaan Tahun Baru Imlek 2025 di Bali memadukan tradisi Tionghoa dengan budaya 
 
 **Referensi Cepat:**
 
-[Panduan Liburan Keluarga ke Bali saat Imlek: Tiket Pesawat, Visa, Transportasi, Tempat Wisata, & Tips Penting Selama Liburan Tahun Baru Imlek](/blog/2026-bali-lunar-new-year-guide/)
+[Panduan Liburan Keluarga ke Bali saat Imlek: Tiket Pesawat, Visa, Transportasi, Tempat Wisata, & Tips Penting Selama Liburan Tahun Baru Imlek](/id/blog/2026-bali-lunar-new-year-guide/)
 
 ## 📩 **Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Bali!**
 

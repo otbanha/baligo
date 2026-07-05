@@ -28,13 +28,13 @@ _srcHash: 4205fd602554bad05b0acae0d9e76629
 
 由於8月至9月係峇里島嘅旅遊旺季，落地簽證櫃檯同海關排隊時間通常要2-3個鐘以上。好彩我哋提前申請咗電子簽證（EVoA），仲用自動通關閘門，搞到成個通關過程好順利。我哋由落機到拎行李，入到入境大廳只係用咗7-8分鐘。建議大家如果可以，都係先申請電子簽證，咁樣會慳返好多時間。
 
-> 延伸閱讀：[【2026版】印尼峇里島入境使用「All Indonesia」入境卡｜1分鐘搞懂最新流程：落機→過海關→拎行李全攻略](https://gobaligo.id/blog/bali-all-indonesia-arrival-guide/)
+> 延伸閱讀：[【2026版】印尼峇里島入境使用「All Indonesia」入境卡｜1分鐘搞懂最新流程：落機→過海關→拎行李全攻略](https://gobaligo.id/zh-hk/blog/bali-all-indonesia-arrival-guide/)
 
 ## 網卡
 
 喺峇里島，我哋揀咗買當地嘅網卡。庫塔同烏魯瓦圖市區嘅網卡可以支援5G網絡，其他比較偏僻嘅地區就主要係4G。就算喺離島，網絡訊號基本上都支援到導航，但係喺Penida海邊區域，訊號就比較差，只有喺某啲特定觀光景點訊號先會好啲。不過，呢樣嘢冇影響到我哋嘅整體行程。
 
-> 延伸閱讀：[【峇里島旅遊必備】點樣辦理峇里島網絡/SIM卡？](/blog/bali-sim-card-esim-roaming-guide/)
+> 延伸閱讀：[【峇里島旅遊必備】點樣辦理峇里島網絡/SIM卡？](/zh-hk/blog/bali-sim-card-esim-roaming-guide/)
 
 ## 購物
 
@@ -42,7 +42,7 @@ _srcHash: 4205fd602554bad05b0acae0d9e76629
 
 喺峇里島買嘢，一定要識得講價。一般嚟講，可以從標價嘅一半開始還價，最後成交價通常係標價嘅三到四折。烏布地區嘅價格比較合理，選擇亦都多。同樣嘅貨品，喺庫塔嘅價格通常會比烏布貴兩到三倍。所以，買嘢嗰陣揀啱地方好重要。
 
-> 延伸閱讀：[峇里島購物點樣講價？購物須知](/blog/bali-shopping-bargaining-tips/)
+> 延伸閱讀：[峇里島購物點樣講價？購物須知](/zh-hk/blog/bali-shopping-bargaining-tips/)
 
 ## 交通
 
@@ -50,7 +50,7 @@ _srcHash: 4205fd602554bad05b0acae0d9e76629
 
 https://youtu.be/KQwrSiqq_Dw
 
-編按：參考我哋嘅「[峇里島分區攻略](https://gobaligo.id/blog/?lang=tw&cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)」就係最好嘅指南！
+編按：參考我哋嘅「[峇里島分區攻略](https://gobaligo.id/zh-hk/blog/?lang=tw&cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)」就係最好嘅指南！
 
 ## 食物
 
@@ -58,7 +58,7 @@ https://youtu.be/KQwrSiqq_Dw
 
 https://youtu.be/-qvy0RZq1j8
 
-延伸閱讀：[峇里島旅遊要俾小費嗎？小費點樣俾？峇里島唔同場合嘅小費要俾幾多？](/blog/bali-tipping-guide-driver-spa/)
+延伸閱讀：[峇里島旅遊要俾小費嗎？小費點樣俾？峇里島唔同場合嘅小費要俾幾多？](/zh-hk/blog/bali-tipping-guide-driver-spa/)
 
 我哋去咗號稱全亞洲最大嘅Atlas Beach Club。順便講下，如果你去Beach Club或者Day Club，俾啲小費侍應，佢哋會好關照你，甚至幫你睇住個袋。
 
@@ -76,7 +76,7 @@ https://youtu.be/8SW4Je-sJbY
 
 [**▶Klook嘅Nusa Penida優惠**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=909332&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fpoi%2F50190574-nusa-penida%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D21079c02f9)
 
-**編按：嚟到呢度「切記」唔好落海呀！已經發生過**[**唔少次致死意外**](/blog/bali-attractions-safety-alert/)**㗎～**
+**編按：嚟到呢度「切記」唔好落海呀！已經發生過**[**唔少次致死意外**](/zh-hk/blog/bali-attractions-safety-alert/)**㗎～**
 
 另一個係Tembeling Beach and Forest，呢度人比較少，好啱休息。不過，去景點嘅路況唔係幾好，要特別小心。Diamond Beach相對嚟講就一般般。因為Penida係新開發嘅離島，住宿同餐飲嘅質素唔高，價錢仲比峇里島本島貴大約兩倍。整體嚟講，我哋嘅Penida島之行都算幾唔錯。
 
@@ -105,7 +105,7 @@ https://youtu.be/8SW4Je-sJbY
 https://youtu.be/1HgJ8ki8MEs
 
 **延伸閱讀：**
-[佩尼達島嘅住宿推薦: 13間從奢華到平價嘅 Nusa Penida 好評住宿](/blog/nusa-penida-hotels-guide/)
+[佩尼達島嘅住宿推薦: 13間從奢華到平價嘅 Nusa Penida 好評住宿](/zh-hk/blog/nusa-penida-hotels-guide/)
 
 總括嚟講，峇里島係一個適合慢步調生活同休息創作嘅好地方。希望今次嘅心得分享可以幫到你嘅峇里島旅行！🌴
 

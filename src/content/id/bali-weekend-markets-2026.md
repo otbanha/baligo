@@ -27,7 +27,7 @@ Setelah pandemi, banyak informasi di internet tentang pasar mingguan (Sunday Mar
 
 La Brisa Sunday Market adalah pasar yang kece abis dan penuh energi di Bali, tepatnya di Echo Beach, Canggu. Setiap hari Minggu, kamu bisa nemuin perhiasan handmade lokal, tekstil, dan produk kecantikan di sini.
 
-Nama La Brisa artinya 'angin laut', dan bangunannya pakai kayu daur ulang dari lebih 500 perahu nelayan tua, plus dekorasi yang ciamik. Sekarang La Brisa jadi salah satu tempat ramah lingkungan paling terkenal dan sustainable di Bali, dengan vibe Bali banget. Cek artikel kami: [Dijuluki 'Restoran Terindah di Bali': Gimana La Brisa Bisa Bersaing di Antara Ribuan Tempat Makan?](/blog/canggu-la-brisa-restaurant-guide/)
+Nama La Brisa artinya 'angin laut', dan bangunannya pakai kayu daur ulang dari lebih 500 perahu nelayan tua, plus dekorasi yang ciamik. Sekarang La Brisa jadi salah satu tempat ramah lingkungan paling terkenal dan sustainable di Bali, dengan vibe Bali banget. Cek artikel kami: [Dijuluki 'Restoran Terindah di Bali': Gimana La Brisa Bisa Bersaing di Antara Ribuan Tempat Makan?](/id/blog/canggu-la-brisa-restaurant-guide/)
 
 La Brisa Sunday Market diadakan setiap hari Minggu, dari jam 10 pagi sampai 4 sore. Ini inisiatif untuk mendukung petani lokal dan usaha kecil, dengan produk organik dari LYD Organic Farm, bakery, produk perawatan tubuh alami, fashion daur ulang, dan barang zero waste.
 
@@ -45,11 +45,11 @@ Samadi Sunday Market tempat yang pas buat beli produk lokal dan dukung usaha kec
 
 ![長谷攻略請點我！](https://images.gobaligo.id/vocus/vocus_132830c86013e94b1bf531918a1748e6.jpg)
 
-[Klik di sini untuk panduan Canggu!](/blog/canggu-guide/)
+[Klik di sini untuk panduan Canggu!](/id/blog/canggu-guide/)
 
 Canggu adalah spot hits di Bali yang menggabungkan vibe santai dengan gaya kekinian. Nggak cuma punya pantai yang memesona, tapi juga banyak kafe unik, restoran kreatif, dan butik-butik kecil yang kece. Tempat ini wajib banget dikunjungi buat para pecinta surfing dan traveler muda. Mau menikmati alam atau eksplor budaya lokal, Canggu siap memenuhi ekspektasi kamu!
 
-Mau tahu lebih banyak tips seru di Canggu? [Klik di sini](/blog/canggu-guide/).
+Mau tahu lebih banyak tips seru di Canggu? [Klik di sini](/id/blog/canggu-guide/).
 
 ---
 
@@ -65,9 +65,9 @@ Datang ke pasar ini bukan cuma buat belanja, tapi juga cara mendukung bisnis lok
 
 ![家庭度假首選沙努爾攻略](https://images.gobaligo.id/vocus/vocus_b236ec1a8a19fcf31cc4b4417061013a.png)
 
-[Panduan Sanur: Pilihan Liburan Keluarga Terbaik](/blog/sanur-guide/)
+[Panduan Sanur: Pilihan Liburan Keluarga Terbaik](/id/blog/sanur-guide/)
 
-Sanur adalah sebuah kota kecil di pesisir Bali yang penuh ketenangan, terkenal dengan pantainya yang tenang, suasana santai, dan pemandangan matahari terbit yang spektakuler. Di sini ada resor ramah keluarga, pasar tradisional, dan beragam kuliner lokal yang kaya—tempat ideal buat menikmati slow living sambil eksplorasi budaya. Mau jalan-jalan di sepanjang garis pantai atau merasakan vibe lokal, Sanur bakal kasih kamu liburan yang super rileks! Mau tahu lebih banyak tips Sanur? [Klik di sini](/blog/sanur-guide/).
+Sanur adalah sebuah kota kecil di pesisir Bali yang penuh ketenangan, terkenal dengan pantainya yang tenang, suasana santai, dan pemandangan matahari terbit yang spektakuler. Di sini ada resor ramah keluarga, pasar tradisional, dan beragam kuliner lokal yang kaya—tempat ideal buat menikmati slow living sambil eksplorasi budaya. Mau jalan-jalan di sepanjang garis pantai atau merasakan vibe lokal, Sanur bakal kasih kamu liburan yang super rileks! Mau tahu lebih banyak tips Sanur? [Klik di sini](/id/blog/sanur-guide/).
 
 ---
 
@@ -79,7 +79,7 @@ SUNDAZE ULUWATU MARKET ada di ujung selatan Bali, tepatnya di Hatch Bali Uluwatu
 
 ![Lebih Banyak Rekomendasi Makan, Minum, dan Main di Uluwatu](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
-Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal dengan tebing-tebing spektakuler, pantai yang memesona, dan spot surfing kelas dunia. Suasananya penuh romantisme tropis—cocok banget buat nikmatin sunset dan waktu santai. Kalau kamu juga mau nginep di Uluwatu, cek aja rekomendasi makan, minum, dan main yang udah kami susun rapi biar liburanmu makin seru: [【Panduan Uluwatu】Rekomendasi Tempat Wisata, Makan, Minum, dan Main di Uluwatu](/blog/uluwatu-guide/)
+Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal dengan tebing-tebing spektakuler, pantai yang memesona, dan spot surfing kelas dunia. Suasananya penuh romantisme tropis—cocok banget buat nikmatin sunset dan waktu santai. Kalau kamu juga mau nginep di Uluwatu, cek aja rekomendasi makan, minum, dan main yang udah kami susun rapi biar liburanmu makin seru: [【Panduan Uluwatu】Rekomendasi Tempat Wisata, Makan, Minum, dan Main di Uluwatu](/id/blog/uluwatu-guide/)
 
 ---
 

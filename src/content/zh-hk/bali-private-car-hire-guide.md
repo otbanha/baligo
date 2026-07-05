@@ -32,13 +32,13 @@ update:2026/06/20
 
 ![{小傑印尼} 最愛的司機，每次來必指定！](https://images.gobaligo.id/vocus/vocus_00dce92754e6b20545eeeb0c3d087e34.jpg)
 
-[{小傑印尼} 最鍾意嘅司機，每次嚟都指定佢！](/blog/bali-private-driver-recommendation/)
+[{小傑印尼} 最鍾意嘅司機，每次嚟都指定佢！](/zh-hk/blog/bali-private-driver-recommendation/)
 
 ## 峇里島旅遊嘅最佳交通方式
 
 ### **包車服務嘅優勢**
 
-如果係市區短程交通，好似我哋介紹過嘅「[峇里島庫塔旅遊攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集](/blog/2023-12-13-657598bdfd8978000120fe20/)」、「[水明漾Seminyak峇里島必去地點地圖：100個吃喝玩樂全面介紹｜2026最佳旅遊指南](/blog/seminyak-guide/)」、「[峇里島Canggu完美探險地圖：100個坎古必遊景點｜2026指南](/blog/canggu-guide/)」等，用網約車就最好（延伸閱讀：[點樣喺峇里島用網約車？](/blog/gojek-bali-guide/)）。而如果想喺一日之內去兩三個景點，包車服務就係探索峇里島之美嘅最理想方式。以下係包車嘅獨特優勢：
+如果係市區短程交通，好似我哋介紹過嘅「[峇里島庫塔旅遊攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)」、「[水明漾Seminyak峇里島必去地點地圖：100個吃喝玩樂全面介紹｜2026最佳旅遊指南](/zh-hk/blog/seminyak-guide/)」、「[峇里島Canggu完美探險地圖：100個坎古必遊景點｜2026指南](/zh-hk/blog/canggu-guide/)」等，用網約車就最好（延伸閱讀：[點樣喺峇里島用網約車？](/zh-hk/blog/gojek-bali-guide/)）。而如果想喺一日之內去兩三個景點，包車服務就係探索峇里島之美嘅最理想方式。以下係包車嘅獨特優勢：
 
 1. **安心換匯、辦SIM卡** 喺陌生嘅國度，換匯同辦SIM卡可能會令人頭痛。包車司機唔單止熟悉當地，仲可以提供實用建議，確保你用最抵嘅方式完成呢啲必要任務，避免俾唔老實嘅資訊呃到。
 2. **司機嘅專業與安全** 包車司機通常熟悉峇里島嘅道路同交通狀況，可以更安全、順暢咁帶你去到目的地。佢哋亦可以提供旅遊建議，例如最佳嘅觀光點、美食推薦等。
@@ -53,11 +53,11 @@ update:2026/06/20
 
 ![峇里島司機 Gede Arimbawa 提供](https://images.gobaligo.id/vocus/vocus_59d9e88e1887ee543b65195c87773829.jpg)
 
-[峇里島司機 Gede Arimbawa 提供](/blog/bali-private-driver-recommendation/)
+[峇里島司機 Gede Arimbawa 提供](/zh-hk/blog/bali-private-driver-recommendation/)
 
 ### 點樣預約峇里島包車服務？
 
-1. **網上預訂** 好多提供服務嘅峇里島司機都可以事先預約。如果你唔知去邊度搵，你都可以[參考嚟自我哋兩個社團嘅司機推薦](/blog/bali-private-car-drivers-guide/)。
+1. **網上預訂** 好多提供服務嘅峇里島司機都可以事先預約。如果你唔知去邊度搵，你都可以[參考嚟自我哋兩個社團嘅司機推薦](/zh-hk/blog/bali-private-car-drivers-guide/)。
 2. **酒店服務台** 大多數峇里島嘅酒店都提供包車服務嘅安排。你可以直接向酒店嘅服務台查詢同預訂。
 3. **當地旅行社/路邊賣行程嘅攤位** 喺峇里島，有好多當地旅行社提供包車服務。你可以喺抵達峇里島之後，經當地旅行社安排包車。
 
@@ -79,7 +79,7 @@ update:2026/06/20
 
 我哋用心收集咗我哋經營嘅兩個Facebook社團嘅豐富資源：「[峇里島/印尼吃喝玩樂](https://www.facebook.com/groups/indonesia.travelguide)」同「[Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo)」，幾乎囊括晒所有團友強力推薦嘅優質司機，精選製作成「**峇里島優質包車司機名人榜**」！呢份榜單唔單止係團友嘅實際旅遊經驗，亦係我哋喺峇里島多年觀察同累積嘅寶貴資源。由駕駛技術、服務態度到溝通能力，每位上榜司機都經過大家嘅嚴格評比，確保你可以享受到安全、舒適、同值得信賴嘅旅程。
 
-想搵好司機必睇▶「[峇里島優質包車司機名人榜](/blog/bali-private-car-drivers-guide/)」
+想搵好司機必睇▶「[峇里島優質包車司機名人榜](/zh-hk/blog/bali-private-car-drivers-guide/)」
 
 ## 峇里島包車FAQ
 
@@ -97,7 +97,7 @@ update:2026/06/20
 
 ![峇里島包車FAQ](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
 
-請睇：[【2026 峇里島交通公告】7月1日起包車價格調整通知：司機團隊最新報價、計費方式](https://gobaligo.id/blog/bali-car-charter-rates-2026/)
+請睇：[【2026 峇里島交通公告】7月1日起包車價格調整通知：司機團隊最新報價、計費方式](https://gobaligo.id/zh-hk/blog/bali-car-charter-rates-2026/)
 
 **包車五人座嘅定義係點？**
 
@@ -160,11 +160,11 @@ update:2026/06/20
 
 ![慎選好的司機是確保旅遊順利的重要關鍵喔！不知道怎麼選可以點擊這裡](https://images.gobaligo.id/vocus/vocus_4425e094ccd3caa0b1c41d8f750091d1.png)
 
-[慎選好嘅司機係確保旅遊順利嘅重要關鍵㗎！唔知點樣揀可以撳呢度](/blog/bali-private-car-drivers-guide/)
+[慎選好嘅司機係確保旅遊順利嘅重要關鍵㗎！唔知點樣揀可以撳呢度](/zh-hk/blog/bali-private-car-drivers-guide/)
 
 ## 最後提醒
 
-曾經發生過咁嘅情況：我哋「[優質司機名人榜](/blog/bali-private-car-drivers-guide/)」上嘅一位司機（以下簡稱X司機）按照預約準時抵達機場接機，卻發現嗰組遊客同時透過其他渠道預訂咗另一位司機。遊客當場揀咗另一架車，並隨即取消咗X司機之後嘅所有行程，搞到X司機喺時間同收入上嘅雙重損失。
+曾經發生過咁嘅情況：我哋「[優質司機名人榜](/zh-hk/blog/bali-private-car-drivers-guide/)」上嘅一位司機（以下簡稱X司機）按照預約準時抵達機場接機，卻發現嗰組遊客同時透過其他渠道預訂咗另一位司機。遊客當場揀咗另一架車，並隨即取消咗X司機之後嘅所有行程，搞到X司機喺時間同收入上嘅雙重損失。
 
 **致所有旅行者嘅誠摯呼籲**
 
@@ -178,4 +178,4 @@ update:2026/06/20
 
 👈 **返到峇里島自由行終極指南**
 
-想睇晒成個新手懶人包？[撳呢度睇「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。
+想睇晒成個新手懶人包？[撳呢度睇「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。

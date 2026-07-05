@@ -21,7 +21,7 @@ lang: en
 _srcHash: f741eef5946ebdfcf46e0f4b770f4b32
 ---
 
-[🚗 Want to estimate Gojek fares? Click here](/map/gojek-fare/)
+[🚗 Want to estimate Gojek fares? Click here](/en/map/gojek-fare/)
 
 If you're planning a trip to Bali or currently in Indonesia, Gojek is an essential app for both your travels and daily life. Let's dive into this innovative convenience tool and discover how it can enhance your experience.
 
@@ -39,7 +39,7 @@ Transportation is often a significant concern when traveling in Bali, and Gojek 
 
 Beyond transportation, Gojek offers secure and convenient payment options. You can store money in Gojek's e-wallet, GoPay, eliminating the need to carry large amounts of cash. You can effortlessly use GoPay for transportation fees, food deliveries, and even shopping payments. This cashless payment method is not only convenient but also helps you better track your expenses.
 
-Further Reading: [Indonesia/Bali Gojek and GoPay Registration, Usage, and Top-Up Guide](/blog/indonesia-gojek-gopay-guide/)
+Further Reading: [Indonesia/Bali Gojek and GoPay Registration, Usage, and Top-Up Guide](/en/blog/indonesia-gojek-gopay-guide/)
 
 ### **Comparison with Grab**
 
@@ -55,4 +55,4 @@ When traveling in Indonesia or Bali, Gojek is definitely your best companion. It
 
 👈 **Back to Bali Ultimate Free Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read the "2026 Bali Ultimate Free Travel Guide"](/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.
+Want to see the complete beginner's guide? [Click here to read the "2026 Bali Ultimate Free Travel Guide"](/en/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.

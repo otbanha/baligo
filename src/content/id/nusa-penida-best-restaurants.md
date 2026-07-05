@@ -21,14 +21,14 @@ _srcHash: 02cb4f057433b9a043a1afdf8a3c249a
 
 Nusa Penida terkenal banget sama pantainya yang kayak surga, air laut yang jernih, dan makanan eksotis yang menggoda. Di artikel ini, kita bakal ajak kamu jelajahi tempat-tempat makan dan chill paling kece.
 
-Di episode sebelumnya kita udah bahas [panduan wisata Nusa Penida dan sembilan spot alamnya yang keren](/blog/nusa-penida-guide/). Nah, di artikel ini kita bakal kasih tau sepuluh restoran yang bakal bikin liburanmu makin seru dan santai. Mau kamu pecinta pantai, foodie, atau yang cari relaksasi maksimal, Nusa Penida bakal kasih pengalaman yang nggak terlupakan. Yuk, mulai petualangan ini dan temukan keajaiban pulau ini—dunia liburan yang penuh keindahan dan kebahagiaan.
+Di episode sebelumnya kita udah bahas [panduan wisata Nusa Penida dan sembilan spot alamnya yang keren](/id/blog/nusa-penida-guide/). Nah, di artikel ini kita bakal kasih tau sepuluh restoran yang bakal bikin liburanmu makin seru dan santai. Mau kamu pecinta pantai, foodie, atau yang cari relaksasi maksimal, Nusa Penida bakal kasih pengalaman yang nggak terlupakan. Yuk, mulai petualangan ini dan temukan keajaiban pulau ini—dunia liburan yang penuh keindahan dan kebahagiaan.
 
 Kita punya total lima episode tentang Nusa Penida, biar kamu makin kenal surga pulau ini! Empat episode lainnya bisa kamu akses lewat link ini:
 
-1. [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)
-2. [Spot Snorkeling di Nusa Penida, Gimana Cara Ikut Snorkeling?](/blog/nusa-penida-snorkeling-guide/)
-3. [Panduan Taksi, Gojek/Grab, Sewa Mobil, dan Motor di Nusa Penida](/blog/nusa-penida-transport-guide/)
-4. [Rekomendasi Penginapan di Nusa Penida: 13 Akomodasi dari Mewah sampai Budget, Rating Bagus](/blog/nusa-penida-hotels-guide/)
+1. [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)
+2. [Spot Snorkeling di Nusa Penida, Gimana Cara Ikut Snorkeling?](/id/blog/nusa-penida-snorkeling-guide/)
+3. [Panduan Taksi, Gojek/Grab, Sewa Mobil, dan Motor di Nusa Penida](/id/blog/nusa-penida-transport-guide/)
+4. [Rekomendasi Penginapan di Nusa Penida: 13 Akomodasi dari Mewah sampai Budget, Rating Bagus](/id/blog/nusa-penida-hotels-guide/)
 
 ## Amok Sunset
 

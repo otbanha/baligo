@@ -47,7 +47,7 @@ Ngomong-ngomong, pas bayar pajak wisatawan online, aku nemuin kalau pembayaran p
 
 Paling kiri Ani, paling kanan suaminya. Foto: Chuang Ling Chun
 
-> Baca juga: [Panduan Lengkap Sewa Mobil di Bali - Biaya, Cara Booking, Kelebihan](/blog/bali-private-car-hire-guide/)
+> Baca juga: [Panduan Lengkap Sewa Mobil di Bali - Biaya, Cara Booking, Kelebihan](/id/blog/bali-private-car-hire-guide/)
 
 Mama bilang Ani itu murah senyum, santai banget, dan sangat fleksibel sama itinerary mereka. Ani dan suaminya pernah kerja di Taiwan bertahun-tahun, jadi komunikasi sama dia lancar jaya. Harganya juga worth it banget, meskipun bentuknya pemandu plus sopir, biaya sewanya masih rata-rata. Kalau kamu mau kontak Ani, Line-nya: agussolihin72.
 
@@ -59,7 +59,7 @@ Petualangan mama di Bali dimulai dari Pura Uluwatu. Meskipun cuacanya kurang ber
 
 Ilustrasi Tari Kecak di Uluwatu
 
-> Baca juga: [Tari Kecak Fire Dance - Pertunjukan Spektakuler Wajib Nonton di Bali (Info Tiket)](/blog/kecak-fire-dance-bali/)
+> Baca juga: [Tari Kecak Fire Dance - Pertunjukan Spektakuler Wajib Nonton di Bali (Info Tiket)](/id/blog/kecak-fire-dance-bali/)
 
 Hari pertama, aku ngajak mereka nginep di PinkCoco Uluwatu. Hotel ini sih dari luar agak norak, tapi di mana-mana bisa dapet foto estetik pink yang kece abis.
 
@@ -79,7 +79,7 @@ Ani tahu mamaku suka foto-foto, jadi dia rekomendasiin aktivitas ayunan. Hargany
 
 Diskon ayunan Ubud di sini:
 
-> [Ubud Swing 烏布玩秋千：峇里島最美的8個鞦韆拍照勝地｜烏布鞦韆/租禮服攻略](/blog/ubud-jungle-swings-photo-guide/)
+> [Ubud Swing 烏布玩秋千：峇里島最美的8個鞦韆拍照勝地｜烏布鞦韆/租禮服攻略](/id/blog/ubud-jungle-swings-photo-guide/)
 
 ![圖：Chuang Ling Chun提供 + 網路截圖](https://images.gobaligo.id/vocus/vocus_a3fd5654938f7fafc790509041021cf0.jpg)
 
@@ -127,7 +127,7 @@ Aktivitas seru di area sawah terasering:
 
 Bacaan lanjutan:
 
-> [Panduan Lengkap Ubud Bali 2026: 100 Cara Mengenal Ubud Lebih Dalam｜Jelajah Pesona Ubud](/blog/ubud-guide/)
+> [Panduan Lengkap Ubud Bali 2026: 100 Cara Mengenal Ubud Lebih Dalam｜Jelajah Pesona Ubud](/id/blog/ubud-guide/)
 
 Malamnya aku menginapkan mereka di Grün Canggu Garden. Waktu aku booking, aku langsung tertarik banget sama desainnya yang unik. Suasanya kayak rumah pohon gitu — lantai satu tangga, setengah jalan ada toilet & kamar mandi, lantai dua balkon kecil, lantai tiga kamar tidur. Desain kamarnya super terbuka, kecuali toilet & kamar mandi yang tertutup, area lainnya open space. Dikelilingi pepohonan, suara serangga dan burung bikin kita serasa di alam bebas, bisa menikmati liburan dengan santai.
 
@@ -166,11 +166,11 @@ Udah booking antar-jemput bandara online sebelumnya, sopirnya datang lebih awal,
 Keuntungan booking online itu kamu bisa langsung tahu biaya pastinya lewat kartu kredit, jadi nggak perlu nyisihin uang tunai. Di hari terakhir, tinggal habisin semua rupiah sampai bersih! Kalau ke Bali lagi, pasti bakal pakai layanan ini lagi.
 
 ## Catatan Akhir
-1. Kalau kamu suka manggis, wajib beli buat dicoba. Di supermarket, 12 biji manggis cuma USD$3, murah dan enak banget. Ibu juga minta supir antar-jemput anter ke pinggir jalan buat beli durian, satu durian cuma USD$10. (Baca juga: [Musim Manggis di Bali](/blog/bali-mangosteen-season/))
-2. Pas liburan di Bali, sering banget nemu macet, dan kondisi jalannya kurang bagus. Jadi perkiraan waktu di Google Maps cuma buat referensi aja. (Baca juga: [Jangan Percaya Google Maps di Bali!](/blog/bali-google-maps-warning/))
+1. Kalau kamu suka manggis, wajib beli buat dicoba. Di supermarket, 12 biji manggis cuma USD$3, murah dan enak banget. Ibu juga minta supir antar-jemput anter ke pinggir jalan buat beli durian, satu durian cuma USD$10. (Baca juga: [Musim Manggis di Bali](/id/blog/bali-mangosteen-season/))
+2. Pas liburan di Bali, sering banget nemu macet, dan kondisi jalannya kurang bagus. Jadi perkiraan waktu di Google Maps cuma buat referensi aja. (Baca juga: [Jangan Percaya Google Maps di Bali!](/id/blog/bali-google-maps-warning/))
 3. Ibu dan rombongan puas banget sama pelayanan Ani, jadi di hari terakhir mereka kasih tip tambahan buat Ani dan suaminya. Kami juga kasih tip buat porter dan terapis pijat sebagai ucapan terima kasih. (Baca juga: [Perlu Kasih Tip di Bali? Cara Kasih Tip? Berapa Tip di Berbagai Situasi?](__VID0__))
-4. Pas naik mobil, minta supir antar Ibu dan rombongan ke tempat penukaran uang, dia bakal anter ke toko yang terpercaya. (Baca juga: [Panduan Lengkap Penukaran Uang untuk Backpacker](/blog/bali-currency-exchange-guide/))
-5. Di sana, harga SIM card USD$19 dengan kuota 18GB, sedangkan roaming 5GB seharga USD$16. Saran saya pakai roaming aja, karena selama perjalanan Ibu nggak perlu cari data, dan sebagian besar hotel kasih Wi-Fi gratis, 5GB udah cukup banget. (Baca juga: [【Wajib Tahu Liburan ke Bali】Cara Urus Internet/SIM Card di Bali?](/blog/bali-sim-card-esim-roaming-guide/))
+4. Pas naik mobil, minta supir antar Ibu dan rombongan ke tempat penukaran uang, dia bakal anter ke toko yang terpercaya. (Baca juga: [Panduan Lengkap Penukaran Uang untuk Backpacker](/id/blog/bali-currency-exchange-guide/))
+5. Di sana, harga SIM card USD$19 dengan kuota 18GB, sedangkan roaming 5GB seharga USD$16. Saran saya pakai roaming aja, karena selama perjalanan Ibu nggak perlu cari data, dan sebagian besar hotel kasih Wi-Fi gratis, 5GB udah cukup banget. (Baca juga: [【Wajib Tahu Liburan ke Bali】Cara Urus Internet/SIM Card di Bali?](/id/blog/bali-sim-card-esim-roaming-guide/))
 
 Ibu bilang liburan kali ini seru banget, dia suka banget hobi motretnya. Dia khusus muji hotel-hotel yang aku pilih semuanya keren, masing-masing punya keunikan sendiri, jadi dia bisa ambil banyak foto cantik. Buat dia, asal bisa banyak foto, itu udah liburan yang oke.
 
@@ -181,15 +181,15 @@ Liburan pakai mobil sewaan di Bali bikin dia merasa bebas dan nyaman, plus harga
 Liburan Bali kali ini penuh kejutan dan kenangan indah, mulai dari jelajah pura, naik gunung berapi, sampai dekat-dekat sama gajah, setiap momen nggak terlupakan. Semoga catatan perjalanan Ibu bisa jadi referensi dan bantuan buat yang lagi rencana liburan ke Bali. Nggak sabar buat kembali lagi ke pulau surga ini.
 
 ## **Panduan Liburan ke Bali Bareng Orang Tua:**
-- Episode 1: [Panduan Liburan Bali untuk Lansia - Aman, Nyaman, dan Tips Penting](/blog/bali-elderly-travel-guide/)
-- Episode 2: [Panduan Lengkap Tempat Wisata Bali untuk Lansia](/blog/bali-senior-friendly-travel-guide/)
-- Episode 3: [Tingkah Orang Tua yang Aneh!? Bawa Liburan ke Luar Negeri, Hati-hati 'Repot Nggak Enak'](/blog/traveling-with-elderly-parents-tips/)
+- Episode 1: [Panduan Liburan Bali untuk Lansia - Aman, Nyaman, dan Tips Penting](/id/blog/bali-elderly-travel-guide/)
+- Episode 2: [Panduan Lengkap Tempat Wisata Bali untuk Lansia](/id/blog/bali-senior-friendly-travel-guide/)
+- Episode 3: [Tingkah Orang Tua yang Aneh!? Bawa Liburan ke Luar Negeri, Hati-hati 'Repot Nggak Enak'](/id/blog/traveling-with-elderly-parents-tips/)
 
 Kamu rasa itinerary yang Ling Chun atur buat Ibu seru banget? Yuk, rencanain liburan Bali versi kamu sendiri! Juga, jangan lupa kirim itinerary kamu ke grup ya!
 
-- 第一集：[適合長者的峇里島旅行指南 - 安全、舒適與注意事項](/blog/bali-elderly-travel-guide/)
-- 第二集：[適合年長者的峇里島旅遊地點全攻略](/blog/bali-senior-friendly-travel-guide/)
-- 第三集：[長輩的行為有多奇葩！？帶出國旅遊當心「吃力不討好」](/blog/traveling-with-elderly-parents-tips/)
+- 第一集：[適合長者的峇里島旅行指南 - 安全、舒適與注意事項](/id/blog/bali-elderly-travel-guide/)
+- 第二集：[適合年長者的峇里島旅遊地點全攻略](/id/blog/bali-senior-friendly-travel-guide/)
+- 第三集：[長輩的行為有多奇葩！？帶出國旅遊當心「吃力不討好」](/id/blog/traveling-with-elderly-parents-tips/)
 
 您覺得Ling Chun幫媽媽安排的行程很精彩嗎？趕快安排屬於你的峇里島自由行吧！也歡迎大家到社團投稿您的行程喔！
 
@@ -197,4 +197,4 @@ Kamu rasa itinerary yang Ling Chun atur buat Ibu seru banget? Yuk, rencanain lib
 
 Klik di sini buat lihat lebih banyak cerita seru dari Bali
 
-Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh cek panduan 「[Cara Nulis Cerita Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)」, biar cerita kamu makin kece!
+Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh cek panduan 「[Cara Nulis Cerita Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, biar cerita kamu makin kece!

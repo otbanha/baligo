@@ -60,11 +60,11 @@ Although Bali is not large in size, it offers an incredibly rich selection of at
 
 **Quick References:**
 
-- [Ubud Guide](/blog/ubud-guide/)
-- [Uluwatu Guide](/blog/uluwatu-guide/)
-- [Seminyak Guide](/blog/seminyak-guide/)
-- [Volcano Sunrise Guide](/blog/batur-volcano-jeep-sunrise-tour/)
-- Island hopping: [Nusa Penida Guide](/blog/nusa-penida-guide/) / [Nusa Lembongan and Ceningan Guide](/blog/nusa-lembongan-ceningan-guide/)
+- [Ubud Guide](/en/blog/ubud-guide/)
+- [Uluwatu Guide](/en/blog/uluwatu-guide/)
+- [Seminyak Guide](/en/blog/seminyak-guide/)
+- [Volcano Sunrise Guide](/en/blog/batur-volcano-jeep-sunrise-tour/)
+- Island hopping: [Nusa Penida Guide](/en/blog/nusa-penida-guide/) / [Nusa Lembongan and Ceningan Guide](/en/blog/nusa-lembongan-ceningan-guide/)
 
 ---
 
@@ -84,7 +84,7 @@ All of this blends into Bali's distinctive "Tri Hita Karana" philosophy, perfect
 
 ## Bali Reigns Supreme in the Asia-Pacific Region
 
-In addition to ranking among the top 3 globally, Bali recently defeated Thailand's Koh Samui and Vietnam's Phu Quoc to become the [**Best Island in the Asia-Pacific Region**](/blog/bali-best-island-2025/) in the Travel + Leisure Asia-Pacific Luxury Travel Awards. This award, focused on the luxury travel market, further proves that Bali combines accessibility with high-end appeal, catering to all types of travelers.
+In addition to ranking among the top 3 globally, Bali recently defeated Thailand's Koh Samui and Vietnam's Phu Quoc to become the [**Best Island in the Asia-Pacific Region**](/en/blog/bali-best-island-2025/) in the Travel + Leisure Asia-Pacific Luxury Travel Awards. This award, focused on the luxury travel market, further proves that Bali combines accessibility with high-end appeal, catering to all types of travelers.
 
 ---
 
@@ -103,10 +103,10 @@ Bali offers a rich and diverse travel experience.
 
 **Quick References:**
 
-- [Bali Honeymoon Romantic Guide: Explore 36 Activities for Couples/Honeymooners](/blog/bali-honeymoon-romantic-activities-2/)
+- [Bali Honeymoon Romantic Guide: Explore 36 Activities for Couples/Honeymooners](/en/blog/bali-honeymoon-romantic-activities-2/)
 - Bali Family Travel
-- [Complete Guide to Senior-Friendly Travel Destinations in Bali](/blog/bali-senior-friendly-travel-guide/)
-- [What Outdoor Activities to Do in Bali? Top 50 Popular Outdoor Experiences](/blog/bali-top-50-outdoor-activities/)
+- [Complete Guide to Senior-Friendly Travel Destinations in Bali](/en/blog/bali-senior-friendly-travel-guide/)
+- [What Outdoor Activities to Do in Bali? Top 50 Popular Outdoor Experiences](/en/blog/bali-top-50-outdoor-activities/)
 
 ---
 

@@ -74,7 +74,7 @@ Mau coba sesuatu yang beda di Bali? Langsung aja ke **ZONE OUT Bali** buat ngera
 
 ![Link Cepat](https://images.gobaligo.id/vocus/vocus_59f40e8823a3411d9458f4a11c4dce3f.png)
 
-[Musim Hujan di Bali: Gimana Kalau Liburan ke Bali Ketemu Hujan? 60 Rencana Cadangan Aktivitas Indoor di Bali](/blog/2026-bali-indoor-activities/)
+[Musim Hujan di Bali: Gimana Kalau Liburan ke Bali Ketemu Hujan? 60 Rencana Cadangan Aktivitas Indoor di Bali](/id/blog/2026-bali-indoor-activities/)
 
 ***
 

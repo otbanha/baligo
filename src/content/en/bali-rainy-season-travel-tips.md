@@ -73,7 +73,7 @@ Rainy days don't have to mean the end of your plans. Here are some activities su
 - **Adventure Activities**: Join an ATV off-road adventure or a waterfall tour, which can be even more thrilling in the rain.
 - **Indoor Cultural Experiences**: Explore the **Agung Rai Museum of Art (ARMA)** in Ubud or take a silver jewelry-making class in **Seminyak**.
 - **Café Hopping**: Rainy days are perfect for leisurely exploring Bali's unique cafés, such as the hidden forest café in **Ubud**.
-- **60 Rainy Day Alternatives**: We've also prepared a comprehensive list of rainy day alternatives to keep you entertained when it rains! Check it out [here](/blog/2026-bali-indoor-activities/).
+- **60 Rainy Day Alternatives**: We've also prepared a comprehensive list of rainy day alternatives to keep you entertained when it rains! Check it out [here](/en/blog/2026-bali-indoor-activities/).
 
 ![3. Flexible Activity Choices](https://images.gobaligo.id/vocus/vocus_c998b2b80ee7599ccd5311ab3e33b94c.png)
 
@@ -96,6 +96,6 @@ Whether it's floods, landslides, or other sudden natural disasters, comprehensiv
 
 ## **Conclusion**
 
-While Bali's rainy season may present some challenges, with proper preparation and flexible itinerary planning, you can fully enjoy this season full of surprises. Plus, there's a significant advantage: fewer crowds and much cheaper accommodations! Check out our [Bali Budget Travel Guide: Complete Guide to the Cheapest Travel Season](/blog/bali-budget-travel-season/). Whether you're exploring natural wonders or immersing yourself in local culture, the rainy season can add a unique flavor to your Bali adventure.
+While Bali's rainy season may present some challenges, with proper preparation and flexible itinerary planning, you can fully enjoy this season full of surprises. Plus, there's a significant advantage: fewer crowds and much cheaper accommodations! Check out our [Bali Budget Travel Guide: Complete Guide to the Cheapest Travel Season](/en/blog/bali-budget-travel-season/). Whether you're exploring natural wonders or immersing yourself in local culture, the rainy season can add a unique flavor to your Bali adventure.
 
 {{block:klook}}

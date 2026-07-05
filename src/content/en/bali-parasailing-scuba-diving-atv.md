@@ -63,7 +63,7 @@ So, if you’re planning to take your family to Bali, feel free to reach out to 
 
 ![Itinerary Planning and Communication](https://images.gobaligo.id/vocus/vocus_bc0d1457f9ad845aaff9a109114ba614.png)
 
-> [Bali Travel Tips: 32 Must-Know Tips for First-Time Visitors](/blog/bali-ultimate-guide-2026/)
+> [Bali Travel Tips: 32 Must-Know Tips for First-Time Visitors](/en/blog/bali-ultimate-guide-2026/)
 
 ## Trip Insights and Recommendations
 
@@ -71,7 +71,7 @@ So, if you’re planning to take your family to Bali, feel free to reach out to 
 
 In Bali, it’s best to avoid drinks from non-chain stores, small eateries, or street vendors. During our trip, a friend had a drink at a local food stall and ended up with diarrhea for two days. While the local beverages might look tempting, it’s safer to stick to reliable options to avoid getting sick during your trip. Additionally, it’s a good idea to carry some stomach medicine just in case.
 
-> [Bali Travel Health Tips: A Guide to Drinking Water and Diarrhea in Bali](/blog/bali-travel-health-tips/)
+> [Bali Travel Health Tips: A Guide to Drinking Water and Diarrhea in Bali](/en/blog/bali-travel-health-tips/)
 
 ### **Bring Extra Underwear**
 
@@ -119,13 +119,13 @@ Just across the street is Kuta Beach, with vibrant nightlife nearby. Although th
 
 There are many currency exchange spots in Bali. It's safer and more reliable to ask your guide or driver to take you to one. Since exchanging money is convenient, there's no need to exchange too much at once. For this trip, I only exchanged USD$200 for my five-day personal expenses, and I still had some left. It's advisable to carry some USD with you for emergencies, which also reduces the number of times you need to exchange money locally.
 
-> [Indonesia/Bali Currency Exchange Guide: What currency is used in Indonesia/Bali? How to get the best exchange rate? Where is the best place to exchange money?](/blog/bali-currency-exchange-guide/)
+> [Indonesia/Bali Currency Exchange Guide: What currency is used in Indonesia/Bali? How to get the best exchange rate? Where is the best place to exchange money?](/en/blog/bali-currency-exchange-guide/)
 
 ### **White Water Rafting Experience**
 
 Before starting your white water rafting adventure in Bali, you'll need to descend a long mountain path (down a staircase) to reach the riverside. On the way back, you'll have to climb up a shorter but steep set of stairs, which can be a bit challenging for those with limited stamina. If you're traveling with elderly family members or children, make sure to assess their physical condition beforehand. That said, the rafting experience itself is incredibly thrilling and fun, making it a truly unforgettable adventure that I highly recommend trying.
 
-> [Bali Rafting Guide (Frequently Asked Questions FAQ)](/blog/bali-rafting-ayung-telaga-waja/)
+> [Bali Rafting Guide (Frequently Asked Questions FAQ)](/en/blog/bali-rafting-ayung-telaga-waja/)
 
 ### Other Activities
 
@@ -135,15 +135,15 @@ Provided by Yu Mengling
 
 (Left image) GWK Cultural Park is worth visiting for photos and doesn't require much walking! (Lazy person approved 👍🏻)
 
-> [GWK Cultural Park](/blog/bali-family-trip-gwk-beach-club/) travelogue
+> [GWK Cultural Park](/en/blog/bali-family-trip-gwk-beach-club/) travelogue
 
 (Middle image) We even managed to break an ATV by shifting into neutral and revving the engine...
 
-> [Bali ATV Adventure: Experience the Thrill and Freedom of a Tropical Paradise (Tips + Operator Recommendations)](/blog/bali-atv-adventure-guide/)
+> [Bali ATV Adventure: Experience the Thrill and Freedom of a Tropical Paradise (Tips + Operator Recommendations)](/en/blog/bali-atv-adventure-guide/)
 
 (Right image) Not sure why we were brave enough to let go of the handles... Definitely want to try parasailing again next time!
 
-> [Uluwatu Guide](/blog/uluwatu-guide/) | [Soaring in Uluwatu! Stunning Ocean Views + Tips Shared](/blog/uluwatu-paragliding-ocean-view/)
+> [Uluwatu Guide](/en/blog/uluwatu-guide/) | [Soaring in Uluwatu! Stunning Ocean Views + Tips Shared](/en/blog/uluwatu-paragliding-ocean-view/)
 
 ![余孟苓提供](https://images.gobaligo.id/vocus/vocus_86510d86b1e385faaad873854fe73fae.jpg)
 
@@ -151,15 +151,15 @@ Provided by Yu Mengling
 
 (Left image) The cliffside pool is amazing! This is Oneeighty Dayclub, and you can make reservations online!
 
- > [Exploring Oneeighty Day Club: Bali's Cliffside Pool with Breathtaking Views](/blog/oneeighty-dayclub-uluwatu-pool/)
+ > [Exploring Oneeighty Day Club: Bali's Cliffside Pool with Breathtaking Views](/en/blog/oneeighty-dayclub-uluwatu-pool/)
 
 (Middle image) Tanah Barak Cliff is stunning with its narrow skyline
 
- > [Bali Batu Barak/Tanah Barak: A Journey Along the Blue Road/Cliff Road](/blog/batu-barak-cliff-road/)
+ > [Bali Batu Barak/Tanah Barak: A Journey Along the Blue Road/Cliff Road](/en/blog/batu-barak-cliff-road/)
 
 (Right image) Sea walking is also fantastic! Though you might experience ear pressure imbalance
 
- > [Sea Walking in Nusa Dua](/blog/nusa-dua-guide/)
+ > [Sea Walking in Nusa Dua](/en/blog/nusa-dua-guide/)
 
 {{block:戶外}}
 

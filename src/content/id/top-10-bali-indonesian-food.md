@@ -269,7 +269,7 @@ Nanti kalau kamu udah lelah jalan-jalan di Ubud, jangan buru-buru nyari kopi —
 - **Gado-Gado**: salad hangat pake saus kacang, lengkap dengan tahu goreng, telur rebus, dan kerupuk udang 'Krupuk' — ikon Indonesia banget.
 - **Tempeh Manis**: tempe fermentasi yang ditumis pake kecap manis sampai wangi gosong-gosong — proteinnya melimpah!
 
-> Baca juga: [Menjelajahi 20 Restoran Vegan Terbaik di Bali: Petualangan Kuliner Vegan di Pulau Dewata](/blog/bali-vegan-restaurants-guide/)
+> Baca juga: [Menjelajahi 20 Restoran Vegan Terbaik di Bali: Petualangan Kuliner Vegan di Pulau Dewata](/id/blog/bali-vegan-restaurants-guide/)
 
 ---
 
@@ -289,16 +289,16 @@ Nanti kalau kamu udah lelah jalan-jalan di Ubud, jangan buru-buru nyari kopi —
 
 ## Koleksi Kuliner:
 
-- [10 Makanan Khas Bali yang Wajib Dicoba | 8 Hal Penting Saat Liburan ke Bali](/blog/bali-travel-tips/)
-- [Panduan Kuliner Seminyak](/blog/seminyak-guide/)
-- [Panduan Kuliner Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [Panduan Kuliner Canggu](/blog/canggu-guide/)
-- [Panduan Kuliner Ubud](/blog/ubud-guide/)
-- [Panduan Jimbaran](/blog/jimbaran-guide/)
-- [Panduan Kuliner Uluwatu](/blog/uluwatu-guide/)
-- [Kuliner Sanur](/blog/sanur-guide/)
-- [Panduan Kuliner Nusa Dua](/blog/nusa-dua-guide/)
-- [Rekomendasi Kuliner Lovina, Bali Utara](/blog/north-bali-travel-guide/)
-- [Panduan Kuliner Nusa Penida](/blog/nusa-penida-best-restaurants/)
-- [Panduan Kuliner Nusa Lembongan / Ceningan](/blog/nusa-lembongan-restaurants/)
-- [Panduan Kuliner Pulau Komodo](/blog/komodo-island-labuan-bajo-travel/)
+- [10 Makanan Khas Bali yang Wajib Dicoba | 8 Hal Penting Saat Liburan ke Bali](/id/blog/bali-travel-tips/)
+- [Panduan Kuliner Seminyak](/id/blog/seminyak-guide/)
+- [Panduan Kuliner Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [Panduan Kuliner Canggu](/id/blog/canggu-guide/)
+- [Panduan Kuliner Ubud](/id/blog/ubud-guide/)
+- [Panduan Jimbaran](/id/blog/jimbaran-guide/)
+- [Panduan Kuliner Uluwatu](/id/blog/uluwatu-guide/)
+- [Kuliner Sanur](/id/blog/sanur-guide/)
+- [Panduan Kuliner Nusa Dua](/id/blog/nusa-dua-guide/)
+- [Rekomendasi Kuliner Lovina, Bali Utara](/id/blog/north-bali-travel-guide/)
+- [Panduan Kuliner Nusa Penida](/id/blog/nusa-penida-best-restaurants/)
+- [Panduan Kuliner Nusa Lembongan / Ceningan](/id/blog/nusa-lembongan-restaurants/)
+- [Panduan Kuliner Pulau Komodo](/id/blog/komodo-island-labuan-bajo-travel/)

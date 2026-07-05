@@ -26,7 +26,7 @@ _srcHash: eb18b45ff07b756da355f523e3260162
 
 首先，等我哋由揀旅行時間開始！避免喺旺季去峇里島，因為呢個時候機票、住宿同活動價格通常會飆升。揀淡季或者非繁忙時段，唔單止可以慳返機票、住宿等預算，仲可以享受更寧靜嘅旅遊體驗。
 
-咁幾時係峇里島嘅旅遊旺季呢？一般嚟講，降雨機率較低嘅旱季係峇里島最適合旅行嘅時候，大約係每年嘅四月至十月，亦即係峇里島旅行嘅旺季。如果避開旺季有咩缺點？請[睇吓呢度](/blog/bali-best-time-to-visit/)了解峇里島雨季。
+咁幾時係峇里島嘅旅遊旺季呢？一般嚟講，降雨機率較低嘅旱季係峇里島最適合旅行嘅時候，大約係每年嘅四月至十月，亦即係峇里島旅行嘅旺季。如果避開旺季有咩缺點？請[睇吓呢度](/zh-hk/blog/bali-best-time-to-visit/)了解峇里島雨季。
 
 除咗以季節區分淡旺季，以下五個時節都係人潮湧入峇里島嘅時候，依照人潮/車潮嘅多寡，排序如下：
 
@@ -46,21 +46,21 @@ _srcHash: eb18b45ff07b756da355f523e3260162
 
 下面我哋分享過一啲慳錢嘅住宿建議，大家可以參考吓：
 
-> [CP值超高，唔使美金$30入住11間峇里島精品酒店，網美相影唔停！](/blog/bali-boutique-hotels-under-30/)
+> [CP值超高，唔使美金$30入住11間峇里島精品酒店，網美相影唔停！](/zh-hk/blog/bali-boutique-hotels-under-30/)
 
-> [峇里島villa推薦：高CP值villa 20間推薦（上集）](/blog/bali-best-villas-top20-part1/)
+> [峇里島villa推薦：高CP值villa 20間推薦（上集）](/zh-hk/blog/bali-best-villas-top20-part1/)
 
-> [峇里島Villa CP值最高 浪漫villa推薦 - 共20間 (下集)](/blog/bali-best-villas-top20-part2/)
+> [峇里島Villa CP值最高 浪漫villa推薦 - 共20間 (下集)](/zh-hk/blog/bali-best-villas-top20-part2/)
 
-> [峇里島精華區：10間水明漾平價住宿推薦](/blog/seminyak-budget-hotels-guide/)
+> [峇里島精華區：10間水明漾平價住宿推薦](/zh-hk/blog/seminyak-budget-hotels-guide/)
 
-> [【水明漾】唔超過100美元嘅平價峇里島villa推薦](/blog/seminyak-budget-villas-guide/)
+> [【水明漾】唔超過100美元嘅平價峇里島villa推薦](/zh-hk/blog/seminyak-budget-villas-guide/)
 
 ## 3. 提防各種詐騙
 
 旅行嗰陣要小心啲！當地可能會有人呃人，所以記住要保持警覺，唔好信有啲平到離譜嘅嘢，亦都唔好隨便信陌生人。陌生人嘅建議聽吓就算，以免中咗陷阱。
 
-除此之外，仲有一種由外國人玩嘅騙術，唔少台灣遊客中招，詳細嘅說明請睇[呢度](/blog/bali-street-scam-alert/)
+除此之外，仲有一種由外國人玩嘅騙術，唔少台灣遊客中招，詳細嘅說明請睇[呢度](/zh-hk/blog/bali-street-scam-alert/)
 
 ## 4. 用網上預訂
 
@@ -84,7 +84,7 @@ https://youtube.com/shorts/-qvy0RZq1j8
 
 喺峇里島租電單車適合想自由探索嘅旅行者；的士適合短途移動或者唔想自己揸車嘅人；而包車適合追求更深入體驗同定制行程嘅遊客，如果有旅伴一齊分車錢其實都唔算貴。根據你嘅需求同預算，可以喺呢啲選擇入面搵到最合適嘅交通方式。無論你揀邊種方式，都要確保**安全第一**，令你嘅峇里島之旅更加愉快！
 
-可以參考我哋整理出嚟嘅 [峇里島好評包車司機：網友評鑑](/blog/bali-private-car-drivers-guide/) 篇
+可以參考我哋整理出嚟嘅 [峇里島好評包車司機：網友評鑑](/zh-hk/blog/bali-private-car-drivers-guide/) 篇
 
 ## 7. 小心被抬價的士費
 
@@ -94,7 +94,7 @@ https://youtube.com/shorts/-qvy0RZq1j8
 
 頭先提到嘅Gojek，喺峇里島Gojek係一個極具靈活性嘅App，可以叫車、叫外賣、送貨上門等等。呢個App可以幫你更有效咁安排行程，同時亦可以慳返唔少錢。
 
-> 文字說明請參考 [喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/blog/gojek-bali-guide/)
+> 文字說明請參考 [喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/zh-hk/blog/gojek-bali-guide/)
 
 ## 9. 用現金找數
 
@@ -137,13 +137,13 @@ https://youtube.com/shorts/-qvy0RZq1j8
 
 請撳下面條link
 
-> [峇里島好評SPA推薦大集合](/blog/spa/)
+> [峇里島好評SPA推薦大集合](/zh-hk/blog/spa/)
 
 ## 13. 檢查行李清單
 
 檢查你嘅行李清單係確保旅行順順利利嘅重要一環。如果有啲原本應該帶去旅行嘅物品漏咗喺行李度，後續處理可能遠比你想像中麻煩。諗住去到目的地先再買過，可能冇咁簡單㗎！因為一係當地冇得賣，一係選擇唔多。再講，甚至可能根本搵唔到合適嘅代替品！
 
-呢種情況喺特定物品上尤其明顯，例如特別嘅藥品、個人護理用品、特別尺寸嘅衫褲或者器材配件等等。如果喺行李清單漏咗呢啲嘢，你可能會陷入困境，甚至可能影響成個旅程。所以，提早檢查行李清單係避免旅行中冇謂煩惱嘅好方法。出發前，記得睇咗「[峇里島旅行要帶咩？必備嘅21項物品](/blog/bali-travel-essentials/)」
+呢種情況喺特定物品上尤其明顯，例如特別嘅藥品、個人護理用品、特別尺寸嘅衫褲或者器材配件等等。如果喺行李清單漏咗呢啲嘢，你可能會陷入困境，甚至可能影響成個旅程。所以，提早檢查行李清單係避免旅行中冇謂煩惱嘅好方法。出發前，記得睇咗「[峇里島旅行要帶咩？必備嘅21項物品](/zh-hk/blog/bali-travel-essentials/)」
 
 ## 14. 精明兌錢
 
@@ -173,7 +173,7 @@ https://youtu.be/UoGlRyAdyB8
 
 可以睇吓我哋整理喺下面嘅峇里島手信建議：
 
-> [【網友推薦】六大種類，超過20項峇里島手信推薦指南：留住珍貴回憶嘅絕佳選擇](/blog/bali-souvenirs-gift-guide/)
+> [【網友推薦】六大種類，超過20項峇里島手信推薦指南：留住珍貴回憶嘅絕佳選擇](/zh-hk/blog/bali-souvenirs-gift-guide/)
 
 {{block:伴手禮}}
 
@@ -185,7 +185,7 @@ https://youtu.be/UoGlRyAdyB8
 
 用信用卡畀房費嗰陣，請優先揀用當地貨幣結算。咁樣可以避免唔必要嘅匯率轉換費用，幫你最大程度咁慳返錢。
 
-> 延伸閱讀：[遊峇里島必知：提防刷卡結帳嘅陷阱](/blog/bali-credit-card-payment-tips/)
+> 延伸閱讀：[遊峇里島必知：提防刷卡結帳嘅陷阱](/zh-hk/blog/bali-credit-card-payment-tips/)
 
 ###
 

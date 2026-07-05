@@ -31,13 +31,13 @@ In early August, we took a 12-day trip to Bali. The journey was full of surprise
 
 Since August to September is the peak tourist season in Bali, the queues at the visa-on-arrival counters and customs usually take over 2-3 hours. Fortunately, we applied for an electronic visa (EVoA) in advance and used the automated gates, which made the entire immigration process very smooth. From getting off the plane to picking up our luggage and entering the arrival hall, it only took 7-8 minutes. I recommend applying for an e-visa if possible, as it saves a lot of time.
 
-> Further reading: [【2026 Edition】Indonesia Bali Entry Using the "All Indonesia" Arrival Card｜Understand the Latest Process in 1 Minute: From Getting Off the Plane → Customs → Baggage Claim Full Guide](https://gobaligo.id/blog/bali-all-indonesia-arrival-guide/)
+> Further reading: [【2026 Edition】Indonesia Bali Entry Using the "All Indonesia" Arrival Card｜Understand the Latest Process in 1 Minute: From Getting Off the Plane → Customs → Baggage Claim Full Guide](https://gobaligo.id/en/blog/bali-all-indonesia-arrival-guide/)
 
 ## SIM Card
 
 In Bali, we chose to buy a local SIM card. In Kuta and Uluwatu city areas, the SIM card supports 5G networks, while in some more remote areas, it's mainly 4G. Even on the outlying islands, the network signal was generally sufficient for navigation, but in the coastal areas of Penida, the signal was poor, only getting better at certain specific tourist spots. However, this didn't affect our overall itinerary.
 
-> Read more: [Essential Bali Travel Tips: How to Get a Bali SIM Card/eSIM/Roaming?](/blog/bali-sim-card-esim-roaming-guide/)
+> Read more: [Essential Bali Travel Tips: How to Get a Bali SIM Card/eSIM/Roaming?](/en/blog/bali-sim-card-esim-roaming-guide/)
 
 ## Shopping
 
@@ -45,7 +45,7 @@ In Bali, we chose to buy a local SIM card. In Kuta and Uluwatu city areas, the S
 
 Shopping in Bali requires some bargaining skills. Generally, you can start by offering half the listed price, and the final deal is usually 30-40% of the original. Prices in Ubud are relatively better, with more choices too. The same items in Kuta can cost 2-3 times more than in Ubud. So, choosing the right place to shop is key.
 
-> Read more: [How to Bargain When Shopping in Bali? Shopping Tips](/blog/bali-shopping-bargaining-tips/)
+> Read more: [How to Bargain When Shopping in Bali? Shopping Tips](/en/blog/bali-shopping-bargaining-tips/)
 
 ## Transportation
 
@@ -53,7 +53,7 @@ Traffic in Bali can be summed up in one word: congested. Since my friend had a s
 
 https://youtu.be/KQwrSiqq_Dw
 
-Editor's note: Check out our [Bali Area Guide](https://gobaligo.id/blog/?lang=tw&cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5) for the best tips!
+Editor's note: Check out our [Bali Area Guide](https://gobaligo.id/en/blog/?lang=tw&cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5) for the best tips!
 
 ## Food
 
@@ -61,7 +61,7 @@ On this trip, we mostly ate at small local restaurants to enjoy more authentic d
 
 https://youtu.be/-qvy0RZq1j8
 
-Read more: [Do you need to tip in Bali? How much to tip in various situations?](/blog/bali-tipping-guide-driver-spa/)
+Read more: [Do you need to tip in Bali? How much to tip in various situations?](/en/blog/bali-tipping-guide-driver-spa/)
 
 We visited the Atlas Beach Club, said to be the largest in Asia. By the way, if you tip the staff at a Beach Club or Day Club, they'll take great care of you and even watch your bags.
 
@@ -79,7 +79,7 @@ https://youtu.be/8SW4Je-sJbY
 
 [**▶Klook Nusa Penida Deals**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=909332&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fpoi%2F50190574-nusa-penida%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D21079c02f9)
 
-**Editor's note: Remember, 'do not' go into the sea here! There have been [**several fatal accidents**](/blog/bali-attractions-safety-alert/) already.**
+**Editor's note: Remember, 'do not' go into the sea here! There have been [**several fatal accidents**](/en/blog/bali-attractions-safety-alert/) already.**
 
 Another spot is Tembeling Beach and Forest, which is less crowded and perfect for relaxing. However, the road to the attraction is in poor condition, so you need to be extra careful. Diamond Beach is relatively average. Since Penida is a newly developed offshore island, the quality of accommodation and dining is low, and prices are about twice as expensive as on mainland Bali. Overall, our trip to Penida Island was still quite enjoyable.
 
@@ -108,7 +108,7 @@ We also stayed on Penida Island for 4 days. I have to complain that our Airbnb r
 https://youtu.be/1HgJ8ki8MEs
 
 **Further Reading:**
-[Accommodation Recommendations on Nusa Penida: 13 Highly-Rated Stays from Luxury to Budget](/blog/nusa-penida-hotels-guide/)
+[Accommodation Recommendations on Nusa Penida: 13 Highly-Rated Stays from Luxury to Budget](/en/blog/nusa-penida-hotels-guide/)
 
 Overall, Bali is a great place for a slow-paced lifestyle, rest, and creative work. I hope this sharing of experiences helps with your Bali trip! 🌴
 

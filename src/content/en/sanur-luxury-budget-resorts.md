@@ -57,7 +57,7 @@ Sanur town has a relaxed, leisurely vibe and retains a strong Balinese cultural 
 
 https://youtu.be/SpcgZ4iK7qs
 
-**Guide:** [Bali Family Trip: Sanur Guide Map｜50+ Things to Do, Eat, and SPA Recommendations!](/blog/sanur-guide/)
+**Guide:** [Bali Family Trip: Sanur Guide Map｜50+ Things to Do, Eat, and SPA Recommendations!](/en/blog/sanur-guide/)
 
 Sanur Beach is quieter and cleaner than other Bali beaches. Plus, compared to other beach resorts on the island, Sanur's beachfront hotels are more affordable.
 
@@ -352,7 +352,7 @@ Opened in 2024, with an Agoda rating of 9.1 and winner of the 2025 Traveler Appr
 
 💬 What Guests Say | “The rooms are huge, breakfast is amazing, staff are friendly—staying here is incredibly relaxing.” “Walking in feels like entering a museum; the spa massage was the most unforgettable experience of this Bali trip.”
 
-▶ [Click here](/blog/the-meru-sanur/) for more details
+▶ [Click here](/en/blog/the-meru-sanur/) for more details
 
 > ➡️ **Check Rates & Availability** [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=50081294) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=116694051&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6ycTFJMEk9YiJ49P5XR9YhTjMjC0NLAwMjDQ28hks5bDoTHY8ewYIkqY7eM6aCQQisxwCeCKmHHg-jT3Rluv64oL9gQ5djKxggRmMi3dcMl_ByLiRMQ0E-lIddjAyHWBkOsF43mYB06nfE61OsTBzLGK7xLKbMbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsCwMjPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1sY9YmKJjX7Bs5PvEwvCLhaGJlaGLlZnjFNMkIHneZherYKCzp5mzh66ToVNQoLdulK7hBdYWByl5QwMDA1NDY1NTXYNEy0Rjo7RkXRNLEyMzM11zA1MDA411k6defGJsZC0FCU4FRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbCaurmZGrlE2XMyhwS6CyyuPa1oZSTtIMYeEuyh-WH7M27zztL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD7yrXvXiQ1dp-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxjZuZgNjAwFmDYwMu5g_A8DjK8YQZYAAHS6woJVAgAA&masterhotelid_tracelogid=100051355-0a9a32fc-494266-70500&detailFilters=17|1~17~1*31|116694051~31~116694051*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=946&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Pb1nQOIo)
 
@@ -870,6 +870,6 @@ We've marked all the hotels and villas on [this map](https://gobaligo.id/map/san
 
 Whether you're seeking a luxury getaway, a family vacation, or budget-friendly accommodation, Sanur has something for everyone. From upscale five-star stays to cozy boutique guesthouses, the diverse options here ensure every traveler can find their ideal lodging and soak up Bali's sunshine and scenery.
 
-Our [Sanur Guide](/blog/sanur-guide/) covers everything from activities and attractions to dining and spa recommendations, making your Sanur trip an unforgettable memory. Follow our guide and explore this charming seaside town to the fullest!
+Our [Sanur Guide](/en/blog/sanur-guide/) covers everything from activities and attractions to dining and spa recommendations, making your Sanur trip an unforgettable memory. Follow our guide and explore this charming seaside town to the fullest!
 
 {{block:住宿}}

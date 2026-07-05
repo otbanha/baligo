@@ -159,7 +159,7 @@ Peta Taman
 
 ### **Cara ke Sana**
 
-Marine Safari Bali ada di Gianyar, Bali. Gue saranin kamu pakai [**jasa sewa mobil**](/blog/bali-private-car-drivers-guide/) buat ke sini.
+Marine Safari Bali ada di Gianyar, Bali. Gue saranin kamu pakai [**jasa sewa mobil**](/id/blog/bali-private-car-drivers-guide/) buat ke sini.
 
 **Alamat**: Jl. Prof. Dr. Ida Bagus Mantra Km. 19, Serongga, Gianyar, Bali
 
@@ -203,8 +203,8 @@ Di kompleks yang sama ada [Taman Safari Bali](https://www.balisafarimarinepark.c
 
 **Referensi Cepat:**
 
-- [Wajib Coba Liburan Keluarga ke Bali: Cara Seru Main & Nginep di Bali Safari](/blog/bali-safari-night-stay/)
-- [Panduan Liburan Keluarga Sehari di Bali: Eksplorasi Safari Park & Flamingo Beach Club](/blog/bali-family-day-safari-flamingo/)
+- [Wajib Coba Liburan Keluarga ke Bali: Cara Seru Main & Nginep di Bali Safari](/id/blog/bali-safari-night-stay/)
+- [Panduan Liburan Keluarga Sehari di Bali: Eksplorasi Safari Park & Flamingo Beach Club](/id/blog/bali-family-day-safari-flamingo/)
 
 ***
 
@@ -214,8 +214,8 @@ Ubud adalah pusat budaya dan seni Bali, terkenal dengan sawah yang hijau, pura y
 
 Kalau kamu juga mau nginep di Ubud, cek aja rekomendasi tempat makan, main, dan seru-seruan yang udah kami rangkum biar liburanmu makin berwarna!
 
-👉 [2026 Panduan Lengkap Ubud Bali: 100 Cara Mengenal Ubud Lebih Dalam｜Jelajahi Pesona Ubud](/blog/ubud-guide/)
+👉 [2026 Panduan Lengkap Ubud Bali: 100 Cara Mengenal Ubud Lebih Dalam｜Jelajahi Pesona Ubud](/id/blog/ubud-guide/)
 
-➡ Rekomendasi taman bermain keluarga di Bali lainnya: [Panduan Lengkap 10 Taman Bermain Keluarga Terbaik di Bali](/blog/top-10-kids-attractions-in-bali/)
+➡ Rekomendasi taman bermain keluarga di Bali lainnya: [Panduan Lengkap 10 Taman Bermain Keluarga Terbaik di Bali](/id/blog/top-10-kids-attractions-in-bali/)
 
 {{block:親子}}

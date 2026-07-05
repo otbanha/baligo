@@ -136,7 +136,7 @@ Selain restoran di dalam resor, di sekitar Mulia Resort juga ada banyak restoran
 
 ![Lebih Banyak Info Seru soal Nusa Dua](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
 
-Nusa Dua adalah kawasan di Bali yang terkenal dengan resor mewahnya. Punya pantai pasir putih, air laut biru jernih, dan fasilitas wisata yang lengkap—cocok banget buat kamu yang cari pengalaman kelas atas dan liburan yang tenang. Di sini juga ada spa premium, olahraga air, dan aktivitas santai yang ramah keluarga. Surga banget buat semua tipe traveler. Mau tahu lebih banyak tips soal Nusa Dua? [Klik di sini](/blog/nusa-dua-guide/)
+Nusa Dua adalah kawasan di Bali yang terkenal dengan resor mewahnya. Punya pantai pasir putih, air laut biru jernih, dan fasilitas wisata yang lengkap—cocok banget buat kamu yang cari pengalaman kelas atas dan liburan yang tenang. Di sini juga ada spa premium, olahraga air, dan aktivitas santai yang ramah keluarga. Surga banget buat semua tipe traveler. Mau tahu lebih banyak tips soal Nusa Dua? [Klik di sini](/id/blog/nusa-dua-guide/)
 
 🏖️🌊🚤 Aktivitas air di Tanjung Benoa: parasailing, snorkeling, sea walker, banana boat—coba semuanya sekaligus ▶[Promo Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E4%25B8%25B9%25E6%2588%258E%25E8%25B2%259D%25E8%25AB%25BE%25E7%2593%25A6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3D4376a16ccb)
 
@@ -196,6 +196,6 @@ Ini pertama kalinya kami ke Bali, dan Mulia Resort jadi awal yang sempurna. Dari
 
 **Nusa Dua adalah kawasan resor mewah terkenal di selatan Bali, dengan suasana tenang, pantai pasir putih, dan pengalaman mewah kelas dunia.** Kalau kamu lagi cari resort bintang lima yang mewah, Nusa Dua punya banyak pilihan top — dari pantai pribadi eksklusif sampai restoran dan spa yang ciamik.
 
-👉 **Mau eksplor lebih banyak akomodasi top di Nusa Dua?** [**Klik di sini**](/blog/nusa-dua-resorts-guide/)**!**
+👉 **Mau eksplor lebih banyak akomodasi top di Nusa Dua?** [**Klik di sini**](/id/blog/nusa-dua-resorts-guide/)**!**
 
 {{block:dua}}

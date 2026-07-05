@@ -42,9 +42,9 @@ Situated in the heart of Ubud, Alam Wayang Ubud is tucked away on a quiet lane i
 
 📍 Just 800 meters from the Blanco Renaissance Museum 🏛
 
-📍 A 10-minute drive to the [Ubud Royal Palace](/blog/ubud-royal-palace-tour-guide/) and market
+📍 A 10-minute drive to the [Ubud Royal Palace](/en/blog/ubud-royal-palace-tour-guide/) and market
 
-📍 Walkable to the [Campuhan Ridge Walk](/blog/ubud-campuhan-ridge-walk/) and nearby boutique shops 🧘‍♀️
+📍 Walkable to the [Campuhan Ridge Walk](/en/blog/ubud-campuhan-ridge-walk/) and nearby boutique shops 🧘‍♀️
 
 ### **Luxury Stay: Where Tradition Meets Modernity**
 
@@ -126,7 +126,7 @@ The location is also very convenient. You need to go to a pickup point and then 
 
 ![更多烏布villa介紹](https://images.gobaligo.id/vocus/vocus_a30b2c12d987f7f2f04e8d47f429fb9d.png)
 
-Dreaming of a magical getaway? 🌴 Ubud pool villas offer the ultimate in luxury and relaxation! Private pools, stunning views, and top-notch amenities—all designed for your perfect vacation. Click [here](/blog/ubud-villa-pool-guide/) to explore more of our recommended Ubud pool villas and start planning your exclusive retreat! ✨
+Dreaming of a magical getaway? 🌴 Ubud pool villas offer the ultimate in luxury and relaxation! Private pools, stunning views, and top-notch amenities—all designed for your perfect vacation. Click [here](/en/blog/ubud-villa-pool-guide/) to explore more of our recommended Ubud pool villas and start planning your exclusive retreat! ✨
 
  BLOCK0 
  BLOCK1 

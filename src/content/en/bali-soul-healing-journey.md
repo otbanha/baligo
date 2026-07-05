@@ -55,7 +55,7 @@ This video is not an ordinary travel vlog but a journey of soul exploration and 
 
 🌿✨Next time when we talk about Bali, can we also put down our cameras and forget about Instagram spots, just like Chiang Chiang did, and truly listen, observe, and feel the ancient soul hidden behind the tropical sunshine?
 
-> Further reading: [【Bali Spiritual Healing/Spiritual Journey】When 'Eat Pray Love' Became My Real Life](/blog/eat-pray-love-bali-spiritual-journey/)
+> Further reading: [【Bali Spiritual Healing/Spiritual Journey】When 'Eat Pray Love' Became My Real Life](/en/blog/eat-pray-love-bali-spiritual-journey/)
 
 > Join Bali Spiritual Healing: [Private Spiritual Healing Day Trip in Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1033788&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F43536-private-spiritual-healing-day-trip-bali%2F%3Fspm%3DTicketList.OrderDetails.Activity%26clickId%3D91c1b40633)
 

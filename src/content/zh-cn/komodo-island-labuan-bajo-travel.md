@@ -366,7 +366,7 @@ https://youtu.be/hm6Uetu3LWA?si=kIikXkgJiH8JhQBp
 
 **6. 新规定:登岛人数限定**
 
-如果您梦想中的地图清单包含那头史前巨兽「科莫多龙」或是如梦似幻的「粉红沙滩」，那么 2026 年的这则消息可能会打乱您的计划。为了守护这片脆弱的世外桃源，印尼政府正式对科莫多国家公园（Komodo National Park）实施严格的入园人数限制。过去那种抵达码头随叫随出发的「说走就走」，在 2026 年已成为历史。现在，每一场与巨龙的邂逅都需要精确的预约与提前规划。(详情请看[这里](/blog/komodo-booking-2026/))
+如果您梦想中的地图清单包含那头史前巨兽「科莫多龙」或是如梦似幻的「粉红沙滩」，那么 2026 年的这则消息可能会打乱您的计划。为了守护这片脆弱的世外桃源，印尼政府正式对科莫多国家公园（Komodo National Park）实施严格的入园人数限制。过去那种抵达码头随叫随出发的「说走就走」，在 2026 年已成为历史。现在，每一场与巨龙的邂逅都需要精确的预约与提前规划。(详情请看[这里](/zh-cn/blog/komodo-booking-2026/))
 
 ### **为什么选择专业行程？**
 
@@ -387,7 +387,7 @@ https://youtu.be/hm6Uetu3LWA?si=kIikXkgJiH8JhQBp
 
 ![兩人成行輕奢團](https://images.gobaligo.id/vocus/vocus_42ebac9652d3fd78261e9efec83fb421.jpg)
 
-[两人成行轻奢团](/blog/bali-komodo-luxury-tour-2026/)
+[两人成行轻奢团](/zh-cn/blog/bali-komodo-luxury-tour-2026/)
 
 ***
 
@@ -415,7 +415,7 @@ https://youtu.be/hm6Uetu3LWA?si=kIikXkgJiH8JhQBp
 
 ## 其他离岛攻略
 
-- [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)
-- [【伦邦岸岛/蓝梦岛景点攻略】探索蓝梦岛/金银岛景点、美食、交通：巴厘岛的邻近天堂](/blog/nusa-lembongan-ceningan-guide/)
+- [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/zh-cn/blog/nusa-penida-guide/)
+- [【伦邦岸岛/蓝梦岛景点攻略】探索蓝梦岛/金银岛景点、美食、交通：巴厘岛的邻近天堂](/zh-cn/blog/nusa-lembongan-ceningan-guide/)
 
 ***

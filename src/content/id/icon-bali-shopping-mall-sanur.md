@@ -38,7 +38,7 @@ https://youtu.be/SpcgZ4iK7qs
 
 Dengan luas 32.000 meter persegi, Icon Bali Mall disebut-sebut sebagai mal terbesar di Bali. Tempat ini menawarkan pengalaman belanja, makan, dan rekreasi pantai yang langsung bisa diakses, bikin destinasi unik buat warga lokal maupun turis. Kehadiran Icon Bali diprediksi bakal kasih pengalaman belanja dan hiburan yang nggak ada duanya buat para pengunjung Sanur.
 
-> Baca juga: [Panduan Liburan Keluarga ke Bali: Peta Wisata Sanur Lengkap 45 Aktivitas Seru, Termasuk SPA dan Rekomendasi Penginapan!](/blog/sanur-guide/)
+> Baca juga: [Panduan Liburan Keluarga ke Bali: Peta Wisata Sanur Lengkap 45 Aktivitas Seru, Termasuk SPA dan Rekomendasi Penginapan!](/id/blog/sanur-guide/)
 
 Jantung dari Icon Bali Mall adalah Jaje Bali Floating Market, pasar terapung indoor terbesar di Asia Tenggara. Pasar ini menyajikan aneka kuliner khas Bali, camilan manis, dan barang-barang unik yang bikin kamu bisa interaksi langsung sama penjualnya. Selain itu, Icon Bali Mall juga punya banyak pilihan hiburan dan belanja lain, seperti panggung seni budaya, bioskop, area bermain, dan masih banyak lagi.
 

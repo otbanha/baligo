@@ -19,7 +19,7 @@ lang: zh-hk
 _srcHash: 3c3c5eaef1257a3040e929f048c484e6
 ---
 
-[🚗 想預估 Gojek 車費？請撳呢度](/map/gojek-fare/)
+[🚗 想預估 Gojek 車費？請撳呢度](/zh-hk/map/gojek-fare/)
 
 ## **🚖 峇里島的士司機抗議後 政府加強監管網約車**
 

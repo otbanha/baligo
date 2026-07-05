@@ -154,7 +154,7 @@ Yearning for a peaceful countryside getaway? Bliss Spa Ubud Hotel is sure to mee
 
 Looking for top-notch private pool villas in Ubud for couples? Amora Ubud Boutique Villas is your perfect choice! This boutique resort offers just 15 secluded private villas, ideal for travelers who cherish peace and tranquility.
 
-**Location**｜The villas are less than 2 km from Ubud Palace and Ubud Market, and just 400 meters from Neka Art Museum. Guests can follow a paved nature trail to reach the top of the [Campuhan Ridge Walk](/blog/ubud-campuhan-ridge-walk/), just over 1 km away. Several restaurants are also within walking distance.
+**Location**｜The villas are less than 2 km from Ubud Palace and Ubud Market, and just 400 meters from Neka Art Museum. Guests can follow a paved nature trail to reach the top of the [Campuhan Ridge Walk](/en/blog/ubud-campuhan-ridge-walk/), just over 1 km away. Several restaurants are also within walking distance.
 
 **Facilities**｜The resort boasts a stunning infinity pool, sun terrace, spa center, and a yoga studio offering daily classes. The highly-rated on-site restaurant serves both Balinese and international cuisine. Bike rentals and tour arrangements are available within the villa.
 
@@ -504,7 +504,7 @@ This place is so fairytale-like and perfect for photography! Highly recommended 
 
 **Additional Experiences**｜The resort offers a variety of activities, including rice field hikes, yoga classes, cooking classes, and the unique hot air balloon flight experience. After a day of adventure, you can enjoy a meal at the resort's Tempayan restaurant or savor complimentary cocktails and afternoon tea at the Bird Lounge while admiring the rice field views.
 
-Tanah Gajah combines luxury and tranquility, making it a paradise where both body and mind can fully relax. Whether you're a couple, family, or solo traveler, this place offers an unforgettable stay. ([Provided by Ya-yun Chen](/blog/bali-family-trip-7-days-2/))
+Tanah Gajah combines luxury and tranquility, making it a paradise where both body and mind can fully relax. Whether you're a couple, family, or solo traveler, this place offers an unforgettable stay. ([Provided by Ya-yun Chen](/en/blog/bali-family-trip-7-days-2/))
 
 > [Tanah Gajah Room Rates & Availability Check](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=69555) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=987913&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazcLFJMEkNYWFY_6hPRPZhBgNLH4LOra-Dtwh926ug-cbIM2atMghgCdiyoHn09gTvaqb9X2OBDoUMoAAx3yHRkZjEHg4y6GLkRWsZgZj5zKbjYweD6tE1oVXO-xgZDrAyHSCcVvoAqZXyxlPsTBzfOC_xPKdKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsQwNDMz0DA6BQSWKFZwpYa3JiTnJpTmJJakhlAdAIMx2lzGLnkqLMgqDU3MySklSgqrTEnOJUkHhQajFQJhksqOQHNKYIKpCZnwfRbogiFpaYU5oKcQPQQrdUqB2GtTqYTn82p_dp98wXm3YT6XRzajvdgBinG9fGPmJhio79xMLwCxgRTR5NrAxdrMwcp5gmAcltobtY2YJ8Ak0CHS-wNi1glJI3NDAwMDU0NjXVNUi0TDQ1TjbUNbE0MbI00TU3MjU00Zi_fXfjU2MjaylI1CswagnGh3h6uhiWFKaaFZZa5hQVmBownmKUMjQ3tjA0MjQ0MjKyNNYzsUgzK7bIK7bIzYrwYAxic3E0N3exiLLhYvZ0CRK8958lV1vZ0l6KOSTcRXHlTea1ByacttcCyRnC5AItvojxv7dcYB-Z120knTLptH0Sa1WGbkh4Rq94AWMDI1MXI7cAowdjBGMFkMe4ipFhAyPjDsb_MMD4ihFkOgCc7suXAAMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494294-72514&detailFilters=17|1~17~1*31|987913~31~987913*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=703&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/kFUdWN1A)
 
@@ -536,7 +536,7 @@ Tanah Gajah combines luxury and tranquility, making it a paradise where both bod
 
 **Rooms**｜The villas here come in one-bedroom and two-bedroom options. Each villa includes a spacious lounge area, a desk, and a private safe. The living room is equipped with a flat-screen satellite TV, CD/DVD player, and a laptop safe. The fully-equipped kitchen features a microwave and oven, while the semi-open private bathroom offers a bathtub (or shower facilities), slippers, and complimentary toiletries. Guests can enjoy a delicious breakfast every morning and take in the beautiful mountain and pool views from the villa.
 
-Ubud Paradise Villa combines tranquility with convenience, making it an ideal retreat for those looking to escape the city's hustle and bustle without sacrificing amenities. Mr. Sumaba and the villa staff are warm and attentive, ensuring your stay is nothing short of perfect. ([Provided by Zhao Kangkang](/blog/bali-family-trip-ubud-canggu/))
+Ubud Paradise Villa combines tranquility with convenience, making it an ideal retreat for those looking to escape the city's hustle and bustle without sacrificing amenities. Mr. Sumaba and the villa staff are warm and attentive, ensuring your stay is nothing short of perfect. ([Provided by Zhao Kangkang](/en/blog/bali-family-trip-ubud-canggu/))
 
 > [Check Rates & Availability at Ubud Paradise Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920688) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=2511061&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLQ0NjUzMdQ1sTQxsjTRNTc1MDTTaJpyuPGpsZGBlmB8iKeni2FJYapZYallTlGB6SlGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNiMzQyMntyg-KeaQcBfFlTeZ1x6YcNo-ibUqQzckPKNXHAARxK4vggAAAA&masterhotelid_tracelogid=100051355-0a935641-494294-75016&detailFilters=17|1~17~1*31|2511061~31~2511061*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1440&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/yI4C37fv)
 
@@ -566,7 +566,7 @@ Ubud Paradise Villa combines tranquility with convenience, making it an ideal re
 
 **Rooms**｜Room options include villas with private pools. All rooms are equipped with air conditioning, a desk, an electric kettle, a safe, a flat-screen TV, and a private bathroom. Some rooms also come with a kitchenette. Guests can enjoy a continental, American, or Asian breakfast each day.
 
-**Guest Reviews**｜Guests are impressed by the friendly service at Inara Alas Harum. Despite being in the jungle, the environment is very clean. The hotel's pool and hot tub are favorites among travelers, and the facilities are well-maintained. The restaurant's cuisine and rice field views are unforgettable, and the thoughtful shuttle service makes this a perfect vacation spot. ([Provided by Li Ly](/blog/bali-spa-recommendations/))
+**Guest Reviews**｜Guests are impressed by the friendly service at Inara Alas Harum. Despite being in the jungle, the environment is very clean. The hotel's pool and hot tub are favorites among travelers, and the facilities are well-maintained. The restaurant's cuisine and rice field views are unforgettable, and the thoughtful shuttle service makes this a perfect vacation spot. ([Provided by Li Ly](/en/blog/bali-spa-recommendations/))
 
 > [Check Rates & Availability at Inara Alas Harum](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41581751)
 
@@ -638,7 +638,7 @@ Additionally, the Matahari Spa within the resort provides traditional Balinese m
 
 **Room Types**｜E Sanctuary Resort offers only 7 refined rooms, emphasizing privacy and tranquility. The highlight is the Grand Pool Villa, boasting 250 square meters of spacious living area and a private pool, starting at just $152 USD during the low season, including breakfast. Each room is equipped with air conditioning, a balcony, a coffee machine, a minibar, and bathrobes, ensuring every night feels as cozy as home.
 
-We have a detailed review available [here](/blog/e-sanctuary-resort-ubud/)
+We have a detailed review available [here](/en/blog/e-sanctuary-resort-ubud/)
 
 > [Check Rates & Availability for E Sanctuary Resort Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=63295924)
 

@@ -44,7 +44,7 @@ Hari pertama sampai bandara, Benny anter kami dulu ke Money Changer buat tukar u
 
 https://youtu.be/UoGlRyAdyB8
 
-> Referensi cepat: [Tips Kesehatan Perjalanan Bali: Panduan Air Minum Bali & Bali Belly (Diare/Gastroenteritis)](/blog/bali-travel-health-tips/)
+> Referensi cepat: [Tips Kesehatan Perjalanan Bali: Panduan Air Minum Bali & Bali Belly (Diare/Gastroenteritis)](/id/blog/bali-travel-health-tips/)
 
 ## 🏡 住進肉桂天堂：Kayumanis Jimbaran Private Estate & Spa
 

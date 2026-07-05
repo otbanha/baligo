@@ -86,4 +86,4 @@ A: Symptoms include fever, rash, and swollen lymph nodes. The rash typically pro
 
 A: Bali Airport in Indonesia has implemented thermal imaging for fever detection, requires travelers to complete a health declaration form, and has established isolation protocols for suspected cases.
 
-▶[Instructions & Tutorial for Completing the 'Indonesia Health Declaration Form'](/blog/2024-08-30-66d109f9fd89780001f47806/)
+▶[Instructions & Tutorial for Completing the 'Indonesia Health Declaration Form'](/en/blog/2024-08-30-66d109f9fd89780001f47806/)

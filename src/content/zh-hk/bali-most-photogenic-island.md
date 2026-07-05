@@ -25,7 +25,7 @@ _srcHash: 473ea6ff2827f7e941ef6642a5bf7c99
 ![Bali 榮登全球最迷人島嶼寶座：英國旅遊專家 Travelbag 最新評比出爐](https://images.gobaligo.id/vocus/vocus_634888bfed094ae7a5caac40b1511211.jpg)
 
 **快速參考：**  
-[峇里島十大重要地標景點 & 如何安排旅程](/blog/bali-top-landmarks-guide/)？
+[峇里島十大重要地標景點 & 如何安排旅程](/zh-hk/blog/bali-top-landmarks-guide/)？
 
 ## **峇里島：魅力無法擋嘅度假天堂**
 
@@ -68,7 +68,7 @@ _srcHash: 473ea6ff2827f7e941ef6642a5bf7c99
 ![4. 多樣化嘅活動選擇](https://images.gobaligo.id/vocus/vocus_7030ca3e24fe75b65f4b81031df4960a.jpg)
 
 **快速參考：**  
-[峇里島戶外活動玩咩好？50種最受歡迎嘅戶外體驗](/blog/bali-top-50-outdoor-activities/)
+[峇里島戶外活動玩咩好？50種最受歡迎嘅戶外體驗](/zh-hk/blog/bali-top-50-outdoor-activities/)
 
 ---
 
@@ -94,26 +94,26 @@ _srcHash: 473ea6ff2827f7e941ef6642a5bf7c99
 最佳旅遊季節係每年4月至10月，屬於乾季，天氣晴朗而且濕度較低，非常適合海灘活動同戶外探險。
 
 **快速參考：**  
-[峇里島旅遊月份/降雨機率/降雨天數/平均氣溫/適合旅遊指數...大解析](/blog/bali-rainy-season-travel-guide/)
+[峇里島旅遊月份/降雨機率/降雨天數/平均氣溫/適合旅遊指數...大解析](/zh-hk/blog/bali-rainy-season-travel-guide/)
 
 ### **去峇里島要準備咩旅遊證件？**
 
-有啲國家/地區嘅旅客可以免簽，有啲就要簽證，建議出發前查下[呢度](/blog/bali-all-indonesia-arrival-guide/)，確保順利入境。
+有啲國家/地區嘅旅客可以免簽，有啲就要簽證，建議出發前查下[呢度](/zh-hk/blog/bali-all-indonesia-arrival-guide/)，確保順利入境。
 
 ### **峇里島適合自由行定係跟團？**
 
 兩樣都得。如果你鍾意探索同彈性安排行程，自由行係唔錯嘅選擇；如果你想輕鬆無負擔，參加當地旅行團可以快速體驗主要景點。
 
 **快速參考：**  
-[峇里島旅行團推薦](/blog/isbali-tour-agency-review/)
+[峇里島旅行團推薦](/zh-hk/blog/isbali-tour-agency-review/)
 
 ### **峇里島消費貴唔貴？**
 
 峇里島有唔同價位嘅旅遊選擇，由背包客旅館到豪華度假村都有。日常消費好似餐飲、交通、活動等，大約一個人USD $50~100/日，適合唔同預算嘅旅客。
 
 **快速參考：**  
-[峇里島旅遊要準備幾多現金？](/blog/bali-travel-cash-budget-guide/)
+[峇里島旅遊要準備幾多現金？](/zh-hk/blog/bali-travel-cash-budget-guide/)
 
 ### 想去峇里島，第一次要點準備？
 
-當你第一次去峇里島，確保做好充分準備係非常重要。以下係一啲你應該考慮準備嘅事項：[新手必睇嘅31項峇里島旅遊攻略](/blog/bali-ultimate-guide-2026/)
+當你第一次去峇里島，確保做好充分準備係非常重要。以下係一啲你應該考慮準備嘅事項：[新手必睇嘅31項峇里島旅遊攻略](/zh-hk/blog/bali-ultimate-guide-2026/)

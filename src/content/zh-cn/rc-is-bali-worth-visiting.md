@@ -59,7 +59,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 尤其像爬火山、看日出这种行程，通常半夜两三点就要集合，温度跟白天差很多。
 我一开始还觉得「去海岛带外套是不是太夸张」，结果后来真的庆幸自己有带。
 
-> [巴厘岛要带外套吗？巴厘岛穿搭攻略：旅行中必带的8件衣物](https://gobaligo.id/blog/bali-packing-essentials/)
+> [巴厘岛要带外套吗？巴厘岛穿搭攻略：旅行中必带的8件衣物](https://gobaligo.id/zh-cn/blog/bali-packing-essentials/)
 
 ***
 
@@ -105,7 +105,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 我还记得同班飞机有一对母女，在机场直接买了十几瓶矿泉水，超怕当地水不干净。
 结果后来几天看她们一路提着那些水跑行程，几乎都没真正用到 😂
 
-[> [Bali Belly 巴厘岛腹泻/肠胃炎/脏水病如何自救?Bali Belly 纾解成药攻略](https://gobaligo.id/blog/bali-belly-medicine-guide/)
+[> [Bali Belly 巴厘岛腹泻/肠胃炎/脏水病如何自救?Bali Belly 纾解成药攻略](https://gobaligo.id/zh-cn/blog/bali-belly-medicine-guide/)
 
 ***
 
@@ -123,7 +123,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 不用一次换很多，但身上有一些会安心很多。
 
-> [《巴厘岛换汇与金钱管理终极懒人包》印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？换汇推荐](https://gobaligo.id/blog/bali-currency-exchange-guide/)
+> [《巴厘岛换汇与金钱管理终极懒人包》印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？换汇推荐](https://gobaligo.id/zh-cn/blog/bali-currency-exchange-guide/)
 
 ***
 
@@ -201,7 +201,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 所以现金最好还是准备一些。
 
-> [巴厘岛旅游费用? 巴厘岛旅游要准备多少现金？](https://gobaligo.id/blog/bali-travel-cash-budget-guide/)
+> [巴厘岛旅游费用? 巴厘岛旅游要准备多少现金？](https://gobaligo.id/zh-cn/blog/bali-travel-cash-budget-guide/)
 
 ***
 
@@ -227,7 +227,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 小心一点总是比较安心。
 
-> [【信用卡盗刷/手续费/加%】巴厘岛刷卡安全吗？](https://gobaligo.id/blog/bali-credit-card-safety-tips/)
+> [【信用卡盗刷/手续费/加%】巴厘岛刷卡安全吗？](https://gobaligo.id/zh-cn/blog/bali-credit-card-safety-tips/)
 
 # 巴厘岛旅行优缺点总整理 🌴
 
@@ -268,7 +268,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 ![1｜住宿 CP 值真的很高](https://images.gobaligo.id/images/2026-05/1780114466879-709266529_27672523185741878_3244504790469808433_n.jpg)
 
-这次我们住了一间感觉非常棒的精品小型旅馆。详细介绍：[Dune Seseh 坎古旁最新秘境美学公寓 极简野奢](https://gobaligo.id/blog/dune-seseh/)
+这次我们住了一间感觉非常棒的精品小型旅馆。详细介绍：[Dune Seseh 坎古旁最新秘境美学公寓 极简野奢](https://gobaligo.id/zh-cn/blog/dune-seseh/)
 
 #### 📌 订房信息
 
@@ -303,9 +303,9 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 尤其像建于十世纪的圣泉寺，那种历史感和宗教氛围，真的会让人印象很深刻。
 
-- [【巴厘岛圣泉寺】Tirta Empul 完整指南：千年圣水净化仪式流程、禁忌与必看重点](https://gobaligo.id/blog/tirta-empul-temple-guide/)
-- [巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](https://gobaligo.id/blog/bali-tanah-lot-guide/)
-- [巴厘岛乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](https://gobaligo.id/blog/uluwatu-temple-travel-guide/)
+- [【巴厘岛圣泉寺】Tirta Empul 完整指南：千年圣水净化仪式流程、禁忌与必看重点](https://gobaligo.id/zh-cn/blog/tirta-empul-temple-guide/)
+- [巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](https://gobaligo.id/zh-cn/blog/bali-tanah-lot-guide/)
+- [巴厘岛乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](https://gobaligo.id/zh-cn/blog/uluwatu-temple-travel-guide/)
 
 ***
 
@@ -339,7 +339,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 今天可能还在 Beach Club 放空，隔天又跑去看瀑布、爬火山、玩 ATV，旅行节奏很有变化，不太容易腻。
 
-> [2026巴厘岛景点地图推荐攻略 ｜500个最新巴厘岛人气景点一次搜全](https://gobaligo.id/blog/bali-top-500-attractions/)
+> [2026巴厘岛景点地图推荐攻略 ｜500个最新巴厘岛人气景点一次搜全](https://gobaligo.id/zh-cn/blog/bali-top-500-attractions/)
 
 {{block:戶外}}
 
@@ -456,7 +456,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 整体逛起来压力不大，算是比较舒服的旅游氛围。
 
-> [推荐乌布五大艺术市集/艺术市场完整指南：购买纪念品/伴手礼，寻访巴厘岛文化宝藏](https://gobaligo.id/blog/ubud-art-markets-guide/)
+> [推荐乌布五大艺术市集/艺术市场完整指南：购买纪念品/伴手礼，寻访巴厘岛文化宝藏](https://gobaligo.id/zh-cn/blog/ubud-art-markets-guide/)
 
 ***
 
@@ -480,7 +480,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 从安静小酒馆到大型派对都有。
 
-> [巴厘岛水明漾的五大夜店推荐：让你嗨翻天的夜生活体验！](https://gobaligo.id/blog/seminyak-nightclubs-guide/)
+> [巴厘岛水明漾的五大夜店推荐：让你嗨翻天的夜生活体验！](https://gobaligo.id/zh-cn/blog/seminyak-nightclubs-guide/)
 
 ***
 
@@ -499,7 +499,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 有时候半夜想买东西也不太需要担心。
 
-> [【2026 巴厘岛超市总攻略】30+ 间大型超市地图指南：Grand Lucky、Pepito、Bintang 全解析与当地人必买清单](https://gobaligo.id/blog/bali-supermarket-guide-map/)
+> [【2026 巴厘岛超市总攻略】30+ 间大型超市地图指南：Grand Lucky、Pepito、Bintang 全解析与当地人必买清单](https://gobaligo.id/zh-cn/blog/bali-supermarket-guide-map/)
 
 ***
 
@@ -511,7 +511,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 对怕太热的人来说，暑假去巴厘岛其实意外舒服。
 
-[【寒暑假巴厘岛】带小孩亲子长辈攻略：四大区域推荐、干季天气与住宿推荐](https://gobaligo.id/blog/family/)
+[【寒暑假巴厘岛】带小孩亲子长辈攻略：四大区域推荐、干季天气与住宿推荐](https://gobaligo.id/zh-cn/blog/family/)
 
 ***
 
@@ -537,7 +537,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 玩了一整天后回去按摩，真的会变成每天固定行程 😂
 
-> [【精华篇】巴厘岛好评SPA推荐、到府按摩大集合 用区域划分更方便查找](https://gobaligo.id/blog/spa/)
+> [【精华篇】巴厘岛好评SPA推荐、到府按摩大集合 用区域划分更方便查找](https://gobaligo.id/zh-cn/blog/spa/)
 
 ***
 
@@ -568,7 +568,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 如果人多一起分低消，其实会划算很多。
 
-> [【2026 巴厘岛必玩】别再只去咖啡厅！懂玩的人都在「Beach Club Jumping」全岛跳店攻略](https://gobaligo.id/blog/2026-bali-beach-club-guide/)
+> [【2026 巴厘岛必玩】别再只去咖啡厅！懂玩的人都在「Beach Club Jumping」全岛跳店攻略](https://gobaligo.id/zh-cn/blog/2026-bali-beach-club-guide/)
 
 ***
 
@@ -589,7 +589,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 而且现在很多店家其实都能刷卡，除了传统市场、小摊贩之外，大部分消费都算方便。
 
-> [巴厘岛旅游预算指南：看懂价格中的「K」如何帮助您控制预算](https://gobaligo.id/blog/bali-budget-tips-k-explained/)
+> [巴厘岛旅游预算指南：看懂价格中的「K」如何帮助您控制预算](https://gobaligo.id/zh-cn/blog/bali-budget-tips-k-explained/)
 
 # 巴厘岛旅行的缺点与注意事项｜出发前最好先知道 😅
 
@@ -629,7 +629,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 [https://youtu.be/ByGkcmys01g](https://youtu.be/ByGkcmys01g)
 
-> [【这样玩居然不塞车！】爽玩巴厘岛自由行攻略：交通、住宿、景点、美食、购物、SPA、夜生活，全方位规划](https://gobaligo.id/blog/bali-free-travel-guide/)
+> [【这样玩居然不塞车！】爽玩巴厘岛自由行攻略：交通、住宿、景点、美食、购物、SPA、夜生活，全方位规划](https://gobaligo.id/zh-cn/blog/bali-free-travel-guide/)
 
 ***
 
@@ -669,7 +669,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 而且酒店、Villa 大多都会提供瓶装水，所以实际上也没有想象中不方便。
 
-> [巴厘岛旅行健康小贴士：巴厘岛的饮用水和巴厘岛腹泻/肠胃炎（Bali Belly）指南](https://gobaligo.id/blog/bali-travel-health-tips/)
+> [巴厘岛旅行健康小贴士：巴厘岛的饮用水和巴厘岛腹泻/肠胃炎（Bali Belly）指南](https://gobaligo.id/zh-cn/blog/bali-travel-health-tips/)
 
 ***
 
@@ -692,7 +692,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 当然也不是每个店家都会乱开价，但在市集购物时，还是要有心理准备。
 
-> [巴厘岛购物如何砍价？购物须知](https://gobaligo.id/blog/bali-shopping-bargaining-tips/)
+> [巴厘岛购物如何砍价？购物须知](https://gobaligo.id/zh-cn/blog/bali-shopping-bargaining-tips/)
 
 ***
 
@@ -714,7 +714,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 如果价格超便宜但评论很差，我自己就不太敢冒险。
 
-> [【精华篇】巴厘岛好评SPA推荐、上门按摩大集合 按区域划分更方便查找](https://gobaligo.id/blog/spa/)
+> [【精华篇】巴厘岛好评SPA推荐、上门按摩大集合 按区域划分更方便查找](https://gobaligo.id/zh-cn/blog/spa/)
 
 ***
 

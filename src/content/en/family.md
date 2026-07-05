@@ -33,15 +33,15 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 
 Average temperatures range between 27–30°C, but humidity and sunlight can make it feel hotter. If you’re traveling with kids or seniors, it’s wise to schedule a midday "heat break"—returning to the hotel or staying in air-conditioned spaces will make everyone more comfortable.
 
-> [Bali’s Monthly Travel Suitability Index: A Complete Guide](/blog/bali-rainy-season-travel-guide/)
+> [Bali’s Monthly Travel Suitability Index: A Complete Guide](/en/blog/bali-rainy-season-travel-guide/)
 
-> [60 Indoor Activities for Rainy or Sunny Days](/blog/2026-bali-indoor-activities/)
+> [60 Indoor Activities for Rainy or Sunny Days](/en/blog/2026-bali-indoor-activities/)
 
 ## 👨‍👩‍👧‍👦 Where is the Best Area in Bali for Families with Kids?
 
 Among summer travelers, families with children make up a significant portion. Many resorts in Bali feature Kids Clubs and water slides as their main attractions, so parents don't need to worry about extra planning.
 
-We've compiled two resources: "[Which Hotels Have Kids Clubs](/blog/bali-family-resorts-kids-club/)" and "[Bali Resorts with Water Slides](/blog/bali-family-resorts-water-slides/)" to make it easier for families with kids to find the right options.
+We've compiled two resources: "[Which Hotels Have Kids Clubs](/en/blog/bali-family-resorts-kids-club/)" and "[Bali Resorts with Water Slides](/en/blog/bali-family-resorts-water-slides/)" to make it easier for families with kids to find the right options.
 
 As for choosing the best area, we highly recommend these three locations:
 
@@ -51,7 +51,7 @@ As for choosing the best area, we highly recommend these three locations:
 
 Sanur is often overlooked but is actually perfect for family travel. The waves are calm, the beaches are clean, and it lacks the party crowds of Seminyak. It's just a short walk to the beach, and nights are quiet. If you're traveling with young children or elderly family members, Sanur is a reassuring choice.
 
-> 👉 For detailed planning, check out: [Summer/Winter Bali Family Travel Guide: A Comprehensive Guide for Stress-Free Family Trips – Sanur Edition](/blog/sanur-family-travel-guide-2/)
+> 👉 For detailed planning, check out: [Summer/Winter Bali Family Travel Guide: A Comprehensive Guide for Stress-Free Family Trips – Sanur Edition](/en/blog/sanur-family-travel-guide-2/)
 
 ### 📍 Seminyak
 
@@ -59,7 +59,7 @@ Sanur is often overlooked but is actually perfect for family travel. The waves a
 
 Seminyak's advantage lies in having "everything"—shopping, restaurants, beach clubs, and high-quality resorts are all available. If parents also want to enjoy their own vacation time without the entire trip revolving around the kids, Seminyak can balance both adult and children's needs.
 
-> 👉 For detailed planning, see: [Summer/Winter Bali Family Travel Guide: A Comprehensive Guide for Stress-Free Family Trips – Seminyak Edition](/blog/seminyak-family-travel-2026/)
+> 👉 For detailed planning, see: [Summer/Winter Bali Family Travel Guide: A Comprehensive Guide for Stress-Free Family Trips – Seminyak Edition](/en/blog/seminyak-family-travel-2026/)
 
 ### 📍 Ubud
 
@@ -67,13 +67,13 @@ Seminyak's advantage lies in having "everything"—shopping, restaurants, beach 
 
 Ubud offers a completely different experience. Instead of beaches, you'll find rice terraces, culture, forests, and plenty of family-friendly activities—many kids actually enjoy Ubud more than the beach because there are so many engaging experiences to participate in.
 
-> 👉 For detailed planning, check out: [Summer/Winter Bali Family Travel Guide: Comprehensive Tips for a Stress-Free Trip – Ubud Edition](/blog/ubud-family-travel-2026/)
+> 👉 For detailed planning, check out: [Summer/Winter Bali Family Travel Guide: Comprehensive Tips for a Stress-Free Trip – Ubud Edition](/en/blog/ubud-family-travel-2026/)
 
 #### 🎨 Endless Family Activities in Ubud
 
 We’ve compiled an extensive guide to family-friendly activities in Ubud, featuring over 55 experiences designed specifically for families. From elephant rides and ATV adventures to rafting and cultural workshops, there’s so much to do that you won’t be able to fit it all into one trip.
 
-> 👉 For more details, refer to: [Ubud Family Guide: Top 55 Family-Friendly Activities in Bali – Making Travel with Kids Easy!](/blog/ubud-with-kids-guide/)
+> 👉 For more details, refer to: [Ubud Family Guide: Top 55 Family-Friendly Activities in Bali – Making Travel with Kids Easy!](/en/blog/ubud-with-kids-guide/)
 
 The best part of this guide is that it categorizes activities by difficulty and age group, so you don’t have to spend time researching—just pick and plan.
 
@@ -83,7 +83,7 @@ The best part of this guide is that it categorizes activities by difficulty and 
 
 Nusa Dua is the ultimate hassle-free destination for family vacations in Bali. This enclosed resort area features smooth, wide roads, an extremely safe and quiet environment, and is perfect for strolling with a stroller. The beaches here have gentle waves, making it safe for kids to play in the sand and water. The area is packed with five-star hotels, most of which offer excellent kids’ clubs and water facilities, allowing the whole family to enjoy a 'stay-and-play' vacation mode.
 
-> 👉 For detailed planning, check out: [Nusa Dua Summer/Winter Family Travel Guide: Nine Must-See Day Trip Highlights & Kid-Friendly Recommendations](/blog/2026-04-02-112654/)
+> 👉 For detailed planning, check out: [Nusa Dua Summer/Winter Family Travel Guide: Nine Must-See Day Trip Highlights & Kid-Friendly Recommendations](/en/blog/2026-04-02-112654/)
 
 {{block:親子}}
 
@@ -96,9 +96,9 @@ Summer vacations often involve multiple generations traveling together — when 
 Seniors typically care most about: ease of walking, avoiding excessive heat, minimizing stairs, and having contingency plans for health issues.
 We've compiled two articles addressing these concerns:
 
-> [How to Easily Travel Bali with Seniors? A Complete Guide — Covers everything from pacing your itinerary, transportation arrangements, to tips for preventing fatigue.](/blog/bali-elderly-travel-guide/)
+> [How to Easily Travel Bali with Seniors? A Complete Guide — Covers everything from pacing your itinerary, transportation arrangements, to tips for preventing fatigue.](/en/blog/bali-elderly-travel-guide/)
 
-> [Taking Seniors to Bali: A Guide to Senior-Friendly Destinations — Evaluates accessibility, walking distances, and comfort levels at various attractions to help you plan better.](/blog/bali-senior-friendly-travel-guide/)
+> [Taking Seniors to Bali: A Guide to Senior-Friendly Destinations — Evaluates accessibility, walking distances, and comfort levels at various attractions to help you plan better.](/en/blog/bali-senior-friendly-travel-guide/)
 
 ## 🏡 Accommodation Options
 
@@ -124,7 +124,7 @@ Many elders may not enjoy Indonesian cuisine for multiple days in a row. A priva
 **✔ Great value when costs are split**
 Bali offers a wide range of private villas, from three to six bedrooms or more. When the cost is divided among families, it often works out cheaper than staying at a five-star hotel, while offering more space and greater freedom.
 
-> [Bali Group Free & Easy Travel: Recommended Family Villas with 3/4/5/6+ Bedrooms](/blog/bali-group-villa-stay/)
+> [Bali Group Free & Easy Travel: Recommended Family Villas with 3/4/5/6+ Bedrooms](/en/blog/bali-group-villa-stay/)
 
 ### Five-Star Resorts
 
@@ -141,7 +141,7 @@ Kempinski is one of the few resorts in Bali that combines luxurious architecture
 - Booking deadline: May 31, 2026
 - Stay period: From now until March 31, 2027
 
-> For a more complete introduction, please see: [Bali Apurva Kempinski Limited-Time Promotion](/blog/apurva-kempinski-bali-deal/)
+> For a more complete introduction, please see: [Bali Apurva Kempinski Limited-Time Promotion](/en/blog/apurva-kempinski-bali-deal/)
 
 {{block:住宿}}
 

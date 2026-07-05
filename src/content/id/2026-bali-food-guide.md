@@ -57,7 +57,7 @@ Ini hidangan panggang lambat tradisional Bali. Seluruh ayam atau bebek dimarinas
 
 Pantai Jimbaran terkenal banget sama panggangan seafood-nya. Seafood segar ditambah pemandangan sunset yang cantik — rasanya kayak surga! Ikan, udang, lobster yang langsung ditangkap dan dibakar, lalu disiram saus spesial. Ini wajib banget dicoba kalau ke Bali, romantis abis!
 
-**Referensi Cepat:** [Rekomendasi 11 Restoran Seafood Jimbaran di Bali yang Anti Gagal](/blog/jimbaran-seafood-restaurants-list/)
+**Referensi Cepat:** [Rekomendasi 11 Restoran Seafood Jimbaran di Bali yang Anti Gagal](/id/blog/jimbaran-seafood-restaurants-list/)
 
 {{block:klook}}
 

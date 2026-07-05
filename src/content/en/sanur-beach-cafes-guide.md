@@ -121,4 +121,4 @@ Highly suitable. The spaces are mostly open and spacious, with meal options avai
 
 ![More Sanur Food and Fun](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
-Sanur is a serene coastal town on Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. It boasts family-friendly resorts, traditional markets, and a wealth of local cuisine, making it an ideal spot for enjoying a slow-paced life and exploring culture. Whether you're strolling along the coastline or soaking up the local vibe, Sanur offers an incredibly relaxing holiday experience! Want to learn more about Sanur? [Click here](/blog/sanur-guide/)
+Sanur is a serene coastal town on Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. It boasts family-friendly resorts, traditional markets, and a wealth of local cuisine, making it an ideal spot for enjoying a slow-paced life and exploring culture. Whether you're strolling along the coastline or soaking up the local vibe, Sanur offers an incredibly relaxing holiday experience! Want to learn more about Sanur? [Click here](/en/blog/sanur-guide/)

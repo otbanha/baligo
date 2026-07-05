@@ -171,6 +171,6 @@ Kamar kami luas dan elegan, rasanya kayak tinggal di villa pribadi sendiri — s
 
 ![Lebih Banyak Rekomendasi Villa di Ubud](https://images.gobaligo.id/vocus/vocus_a30b2c12d987f7f2f04e8d47f429fb9d.png)
 
-Pengen liburan yang kayak mimpi? 🌴 Villa dengan kolam renang di Ubud bakal kasih kamu kemewahan dan relaksasi maksimal! Kolam renang pribadi, pemandangan cantik banget, fasilitas top—semuanya cuma buat bikin liburanmu makin sempurna. Langsung klik [di sini](/blog/ubud-villa-pool-guide/), eksplor lebih banyak villa kolam renang di Ubud yang kami rekomendasikan, dan mulai petualangan liburan spesialmu! ✨
+Pengen liburan yang kayak mimpi? 🌴 Villa dengan kolam renang di Ubud bakal kasih kamu kemewahan dan relaksasi maksimal! Kolam renang pribadi, pemandangan cantik banget, fasilitas top—semuanya cuma buat bikin liburanmu makin sempurna. Langsung klik [di sini](/id/blog/ubud-villa-pool-guide/), eksplor lebih banyak villa kolam renang di Ubud yang kami rekomendasikan, dan mulai petualangan liburan spesialmu! ✨
 
 {{block:住宿}}

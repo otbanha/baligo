@@ -38,7 +38,7 @@ _srcHash: 73fd0049b0c0926df9622dfbde18bcca
 
 https://youtu.be/UoGlRyAdyB8
 
-> 快速参考：[巴厘岛旅行健康小贴士：巴厘岛的饮用水和巴厘岛腹泻/肠胃炎（Bali Belly）指南](/blog/bali-travel-health-tips/)
+> 快速参考：[巴厘岛旅行健康小贴士：巴厘岛的饮用水和巴厘岛腹泻/肠胃炎（Bali Belly）指南](/zh-cn/blog/bali-travel-health-tips/)
 
 ## 🏡 住进肉桂天堂：Kayumanis Jimbaran Private Estate & Spa
 

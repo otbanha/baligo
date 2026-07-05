@@ -59,7 +59,7 @@ Paspor kamu harus punya **masa berlaku minimal 6 bulan**. Imigrasi Indonesia san
 - Biaya cuma lebih murah USD$5, tapi waktu yang dihemat worth it banget
 - Kebijakan imigrasi 2026 makin ketat, siapin dari awal biar nggak kena masalah
 
-👉 [**Panduan Visa Lengkap di Sini**](/blog?cat=%E7%B0%BD%E8%AD%89%E9%80%9A%E9%97%9C) | [**Tutorial Prosedur Setelah Turun dari Pesawat**](/blog/bali-all-indonesia-arrival-guide/)
+👉 [**Panduan Visa Lengkap di Sini**](/blog?cat=%E7%B0%BD%E8%AD%89%E9%80%9A%E9%97%9C) | [**Tutorial Prosedur Setelah Turun dari Pesawat**](/id/blog/bali-all-indonesia-arrival-guide/)
 
 ### 2. Asuransi Perjalanan: Jangan Pernah Dilewatkan
 
@@ -71,7 +71,7 @@ Fasilitas medis di Bali nggak sebagus di Taiwan, kalau sampai harus dirawat inap
 - Biaya medis (termasuk rawat inap di luar negeri)
 - Pembatalan perjalanan / kehilangan bagasi
 
-Bisa cek di sini: [Wajib Baca buat Traveler Taiwan, Hong Kong, Malaysia, Singapura! Panduan Asuransi, Klaim Medis Luar Negeri & Tips Hindari Masalah](/blog/bali-travel-insurance-guide/)
+Bisa cek di sini: [Wajib Baca buat Traveler Taiwan, Hong Kong, Malaysia, Singapura! Panduan Asuransi, Klaim Medis Luar Negeri & Tips Hindari Masalah](/id/blog/bali-travel-insurance-guide/)
 
 ### 3. Tiket Pesawat: Hindari Musim Puncak, Bisa Hemat 1/3 Budget
 
@@ -104,7 +104,7 @@ Mulai 2024, setiap turis asing yang masuk Bali wajib bayar pajak wisatawan sebes
 
 Jangan lupa simpan bukti bayar — kadang dicek di pintu masuk objek wisata.
 
-👉 [**Panduan lengkap cara bayar Tourist Levy**](/blog/bali-levy-check-warning/)
+👉 [**Panduan lengkap cara bayar Tourist Levy**](/id/blog/bali-levy-check-warning/)
 
 ***
 
@@ -130,7 +130,7 @@ Jangan lupa simpan bukti bayar — kadang dicek di pintu masuk objek wisata.
 
 💡 **Jebakan yang paling sering kena pemula**: "Aku mau bawa Dolar Taiwan ke Bali!" Jangan konyol, Dolar Taiwan di Bali bukan cuma susah cari tempat yang mau nerima, tapi kalaupun ada yang mau, kursnya juga parah banget.
 
-👉 [**WAJIB BACA!! Panduan Lengkap Tukar Uang**](/blog/bali-currency-exchange-guide/) | [**Panduan Hindari Money Changer Penipuan**](/blog/bali-money-exchange-scams-2/)
+👉 [**WAJIB BACA!! Panduan Lengkap Tukar Uang**](/id/blog/bali-currency-exchange-guide/) | [**Panduan Hindari Money Changer Penipuan**](/id/blog/bali-money-exchange-scams-2/)
 
 ### 6. Daftar Packing Barang: Apa yang Harus Dibawa, Apa yang Jangan
 
@@ -156,7 +156,7 @@ Jangan lupa simpan bukti bayar — kadang dicek di pintu masuk objek wisata.
 - Minuman beralkohol lebih dari 5 liter
 - Produk satwa liar
 
-👉 [**Daftar lengkap 21 barang bawaan**](/blog/bali-travel-essentials/) | [**Aturan bagasi maskapai**](/blog/bali-airline-luggage-rules/)
+👉 [**Daftar lengkap 21 barang bawaan**](/id/blog/bali-travel-essentials/) | [**Aturan bagasi maskapai**](/id/blog/bali-airline-luggage-rules/)
 
 ### 7. HP & Internet: jangan pakai roaming
 
@@ -173,7 +173,7 @@ Jangan lupa simpan bukti bayar — kadang dicek di pintu masuk objek wisata.
 - Beli SIM lokal di Klook sebelum berangkat (ambil di bandara atau dikirim ke Taiwan)
 - Atau langsung beli di bandara pas sampai, Telkomsel (Simpati kartu merah) sinyalnya paling oke
 
-👉[ ](/blog/bali-sim-card-esim-guide/)[**Panduan Lengkap SIM Card & eSIM**](/blog/bali-sim-card-esim-guide/)
+👉[ ](/id/blog/bali-sim-card-esim-guide/)[**Panduan Lengkap SIM Card & eSIM**](/id/blog/bali-sim-card-esim-guide/)
 
 ### 8. Tegangan Listrik & Colokan: 220V, Bawa Adaptor yang Tepat
 
@@ -188,7 +188,7 @@ Kebanyakan charger laptop dan HP udah support 110-240V otomatis (cek di charger-
 
 ![](https://images.gobaligo.id/images/2026-05/1778167260923-plug.png)
 
-👉 [**Panduan Lengkap Tegangan & Colokan**](/blog/bali-voltage-adapter-tips/)
+👉 [**Panduan Lengkap Tegangan & Colokan**](/id/blog/bali-voltage-adapter-tips/)
 
 ***
 
@@ -250,7 +250,7 @@ Bali emang nggak gede-gede amat, tapi tiap zona punya vibe yang beda banget. **B
 - Kekurangan: jarak antar tempat wisata lumayan jauh, pilihan terbatas
 - Biaya akomodasi: $$ ～ $$$$
 
-👉 [**Panduan Lengkap Pilih Area**](/blog/bali-accommodation-area-guide/) | [**Rekomendasi Akomodasi per Area**](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
+👉 [**Panduan Lengkap Pilih Area**](/id/blog/bali-accommodation-area-guide/) | [**Rekomendasi Akomodasi per Area**](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 
 ### 11. Kapan Waktu Terbaik ke Sana?
 
@@ -272,7 +272,7 @@ https://youtube.com/shorts/ymx-kClfA1I
 
 💡 **Kamu mungkin belum tahu**: musim hujan nggak separah yang dibayangkan, biasanya cuma hujan 1-2 jam di sore hari. Tempat wisata tetap bisa dikunjungi. Malah, sawah terasering paling hijau, hotel paling murah, dan pengunjung paling sedikit — ini musim rahasia para traveler sejati.
 
-👉 [**Analisis Lengkap Musim Kemarau & Hujan**](/blog/bali-best-time-to-visit/) | [**Tips Liburan Musim Hujan**](/blog/2026-bali-indoor-activities/)
+👉 [**Analisis Lengkap Musim Kemarau & Hujan**](/id/blog/bali-best-time-to-visit/) | [**Tips Liburan Musim Hujan**](/id/blog/2026-bali-indoor-activities/)
 
 ### 12. Hindari Musim Puncak & Momen Khusus
 
@@ -286,7 +286,7 @@ https://youtube.com/shorts/ymx-kClfA1I
 
 Hindari waktu-waktu ini, kamu bisa hemat 1/3 harga tiket pesawat dan nggak perlu berdesakan.
 
-👉 [**Jadwal Lengkap Musim Puncak & Festival Bali 2026**](/blog/2026-bali-festival-guide/)
+👉 [**Jadwal Lengkap Musim Puncak & Festival Bali 2026**](/id/blog/2026-bali-festival-guide/)
 
 ### 13. 7 Langkah Perencanaan Perjalanan
 
@@ -298,7 +298,7 @@ Hindari waktu-waktu ini, kamu bisa hemat 1/3 harga tiket pesawat dan nggak perlu
 6. **Buat jadwal simpel** (pagi, siang, malam masing-masing satu fokus)
 7. **Sisakan waktu luang** (jangan terlalu padat, kasih ruang buat kafe yang ditemukan mendadak)
 
-👉 [**Panduan Lengkap 7 Langkah Perencanaan Perjalanan**](/blog/2026-bali-trip-planning-guide/) | [**Alat Perencanaan Perjalanan Gratis**](/trip-planner/)
+👉 [**Panduan Lengkap 7 Langkah Perencanaan Perjalanan**](/id/blog/2026-bali-trip-planning-guide/) | [**Alat Perencanaan Perjalanan Gratis**](/id/trip-planner/)
 
 ***
 
@@ -321,7 +321,7 @@ Hindari waktu-waktu ini, kamu bisa hemat 1/3 harga tiket pesawat dan nggak perlu
 
 **Seluruh proses kalau nggak antre paling cuma 30-60 menit**, nggak usah panik.
 
-👉 [**Panduan Lengkap Proses Masuk Terbaru**](/blog/bali-all-indonesia-arrival-guide/)
+👉 [**Panduan Lengkap Proses Masuk Terbaru**](/id/blog/bali-all-indonesia-arrival-guide/)
 
 ### 15. Pilihan Transportasi dari Bandara ke Hotel
 
@@ -338,7 +338,7 @@ Hindari waktu-waktu ini, kamu bisa hemat 1/3 harga tiket pesawat dan nggak perlu
 
 💡 **Keuntungan tersembunyi sopir sewa**: Kalau pake sopir yang sama sepanjang trip, dia tahu restoran mana yang nggak ngerjain turis, jam berapa tempat wisata sepi, dan di mana macet hari ini. Pengetahuan lokal kayak gini worth it banget.
 
-👉 [**Panduan lengkap sopir sewa**](/blog/bali-private-car-hire-guide/) | [**Rekomendasi sopir**](/blog/bali-private-car-drivers-guide/)
+👉 [**Panduan lengkap sopir sewa**](/id/blog/bali-private-car-hire-guide/) | [**Rekomendasi sopir**](/id/blog/bali-private-car-drivers-guide/)
 
 ### 16. Masalah Pencernaan & Perut
 
@@ -358,7 +358,7 @@ https://youtu.be/GivvqCXp11A
 - Minum minuman elektrolit (ada di supermarket Bali)
 - Istirahat setengah hari, biasanya sembuh dalam sehari
 
-👉 [**Panduan Lengkap Masalah Perut**](/blog/bali-belly-medicine-guide/)
+👉 [**Panduan Lengkap Masalah Perut**](/id/blog/bali-belly-medicine-guide/)
 
 ***
 
@@ -420,7 +420,7 @@ Orang Indonesia suka banget kalau turis nyoba ngomong pake bahasa lokal. Meskipu
 
 💡 **Kesalahan umum pemula**: Jam 3-6 sore adalah puncak macet, hindari jam ini biar hemat waktu dan uang.
 
-👉 [**Panduan Lengkap Gojek**](/blog/indonesia-gojek-gopay-guide/)
+👉 [**Panduan Lengkap Gojek**](/id/blog/indonesia-gojek-gopay-guide/)
 
 ### 21. Waspada Penipuan Umum
 
@@ -428,7 +428,7 @@ Orang Indonesia suka banget kalau turis nyoba ngomong pake bahasa lokal. Meskipu
 
 [https://youtu.be/LuEXL77-Qh0](https://youtu.be/LuEXL77-Qh0)
 
-👉 [**Paket Lengkap Penipuan 2026**](/blog/bali-tourist-scams-2026/) | [**Contoh Penipuan di Jalan**](/blog/bali-street-scam-alert/)
+👉 [**Paket Lengkap Penipuan 2026**](/id/blog/bali-tourist-scams-2026/) | [**Contoh Penipuan di Jalan**](/id/blog/bali-street-scam-alert/)
 
 ### 22. Belanja & Oleh-Oleh
 
@@ -440,8 +440,8 @@ Orang Indonesia suka banget kalau turis nyoba ngomong pake bahasa lokal. Meskipu
 - **Kain tradisional** (sarung, kain tenun)
 - **Skincare lokal** (produk shea butter, minyak kelapa)
 
-👉 [**20 Rekomendasi Oleh-Oleh**](/blog/bali-souvenirs-gift-guide/)
-👉 [🛍️ Panduan Wajib Belanja di Pasar Ubud Bali: Dari Kerajinan Tangan sampai Koleksi Seni, Puas Banget Belanja!](/blog/ubud-market-shopping-guide/)
+👉 [**20 Rekomendasi Oleh-Oleh**](/id/blog/bali-souvenirs-gift-guide/)
+👉 [🛍️ Panduan Wajib Belanja di Pasar Ubud Bali: Dari Kerajinan Tangan sampai Koleksi Seni, Puas Banget Belanja!](/id/blog/ubud-market-shopping-guide/)
 
 ### 23. Tabu Budaya & Etika
 
@@ -465,13 +465,13 @@ Orang Indonesia suka banget kalau turis nyoba ngomong pake bahasa lokal. Meskipu
 - Kalau masuk pura atau desa, harus pakai baju yang nutupin bahu dan lutut
 - Di acara formal, cowok cukup pakai polo shirt aja
 
-👉 [**Panduan Lengkap Etika & Larangan**](/blog/bali-do-and-dont-2026/)
+👉 [**Panduan Lengkap Etika & Larangan**](/id/blog/bali-do-and-dont-2026/)
 
 ### 24. 8 Aplikasi Wajib Download
 
 [https://youtube.com/shorts/lltGiElNWBA](https://youtube.com/shorts/lltGiElNWBA)
 
-👉 [**Tutorial Lengkap 8 Aplikasi**](/blog/bali-travel-apps-guide/)
+👉 [**Tutorial Lengkap 8 Aplikasi**](/id/blog/bali-travel-apps-guide/)
 
 ***
 
@@ -511,7 +511,7 @@ Kalau kamu males banget ngatur itinerary sendiri, ada travel agent lokal Bali ya
 
 Layanan kayak gini emang agak lebih mahal, tapi buat yang waktu berharga, worth it banget.
 
-👉 [**Rekomendasi Travel Agent**](/blog/isbali-tour-agency-review/)
+👉 [**Rekomendasi Travel Agent**](/id/blog/isbali-tour-agency-review/)
 
 ***
 
@@ -525,7 +525,7 @@ Layanan kayak gini emang agak lebih mahal, tapi buat yang waktu berharga, worth 
 
 **A:** Budget per orang untuk 6 hari 5 malam: bisa dari USD$200 sampai USD$2,000. Saran pakai tools di bawah:
 
-👉 [**Kalkulator Budget Detail**](/bali-budget-calculator/)
+👉 [**Kalkulator Budget Detail**](/id/bali-budget-calculator/)
 
 ## Q: Di Bali bisa pakai Dolar Taiwan (NTD) nggak?
 
@@ -539,7 +539,7 @@ Layanan kayak gini emang agak lebih mahal, tapi buat yang waktu berharga, worth 
 
 **A:** Bisa banget. Musim hujan (November–Maret) biasanya **cuma hujan sore 1–2 jam doang**, tempat wisata tetap buka. Malah musim hujan ada untungnya: turis sepi, hotel diskon 40–50%, sawah terasering paling hijau, Spa makin nyaman. Banyak traveler senior sengaja milih musim hujan. Kekurangannya: cuaca di gunung nggak bisa diprediksi, beberapa aktivitas outdoor bisa tiba-tiba dibatalin.
 
-👉 [**Panduan Lengkap Musim Hujan**](/blog/2026-bali-indoor-activities/)
+👉 [**Panduan Lengkap Musim Hujan**](/id/blog/2026-bali-indoor-activities/)
 
 ## Q: Pertama kali ke Bali, perlu urus visa dulu? Bisa visa on arrival?
 
@@ -577,7 +577,7 @@ Intinya sih, kalau ada yang bantu kamu, kasih aja tip. Nggak perlu besar, yang p
 
 Pemula paling recommended kombinasi **Seminyak + Ubud**, biar bisa nikmatin pantai dan budaya sekaligus.
 
-👉 [**Panduan lengkap pilih area**](/blog/bali-accommodation-area-guide/)
+👉 [**Panduan lengkap pilih area**](/id/blog/bali-accommodation-area-guide/)
 
 {{block:住宿}}
 
@@ -607,7 +607,7 @@ Langkah selanjutnya simpel banget:
 
 **Jangan over-preparasi. Kadang perjalanan terbaik justru datang dari momen-momen yang nggak kamu rencanain.**
 
-Gratis pakai aja [alat perencanaan itinerary Bali](/trip-planner/) yang kami sediakan
+Gratis pakai aja [alat perencanaan itinerary Bali](/id/trip-planner/) yang kami sediakan
 
 Semoga perjalananmu seru dan nggak terlupakan.
 

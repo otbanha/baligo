@@ -30,7 +30,7 @@ Here are the must-visit spots for your Uluwatu getaway:
 
 ### Hidden Beaches (📌[Location Map](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
-This area is packed with secret beaches that are hard to spot from the land—you usually have to descend the cliffs to find them. Beyond Bali’s well-known popular beaches, the island hides many tiny, secluded coves waiting for explorers. Check out six hidden beach recommendations: “[Explore Bali’s Untouched Paradises: A Guide to 6 Hidden Beaches & How to Check Tides](/blog/bali-hidden-beaches-guide/)”
+This area is packed with secret beaches that are hard to spot from the land—you usually have to descend the cliffs to find them. Beyond Bali’s well-known popular beaches, the island hides many tiny, secluded coves waiting for explorers. Check out six hidden beach recommendations: “[Explore Bali’s Untouched Paradises: A Guide to 6 Hidden Beaches & How to Check Tides](/en/blog/bali-hidden-beaches-guide/)”
 
 Here are three hidden beaches that Xiao Jie has visited:
 
@@ -64,13 +64,13 @@ Uluwatu Temple is one of Bali's iconic seaside temples, perched on towering clif
 
 A word of caution: the monkeys here are quite mischievous. Keep a close eye on anything in your hands, your backpack, and even your glasses or sunglasses—they might snatch them!
 
-For a detailed guide, check out [Uluwatu Temple Travel Guide: Must-See Highlights & Practical Tips](/blog/uluwatu-temple-travel-guide/)
+For a detailed guide, check out [Uluwatu Temple Travel Guide: Must-See Highlights & Practical Tips](/en/blog/uluwatu-temple-travel-guide/)
 
 ### Kecak Fire Dance (📌[Location Map](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
 ![Kecak Fire Dance (Location Map)](https://images.gobaligo.id/vocus/vocus_9bb712068745724f248cc567be7b531d.jpg)
 
-The Kecak Fire Dance reenacts a segment of the Hindu epic Ramayana, featuring the monkey king's battle against demons. With dazzling flames and vibrant costumes, it's a mesmerizing spectacle! To learn more about this famous Balinese performance, [click here](/blog/kecak-fire-dance-bali/) for our in-depth guide. Nearly everyone who sees it agrees it's a show well worth the price!
+The Kecak Fire Dance reenacts a segment of the Hindu epic Ramayana, featuring the monkey king's battle against demons. With dazzling flames and vibrant costumes, it's a mesmerizing spectacle! To learn more about this famous Balinese performance, [click here](/en/blog/kecak-fire-dance-bali/) for our in-depth guide. Nearly everyone who sees it agrees it's a show well worth the price!
 
 If you're planning to catch the fire dance, check out these highly-rated Klook tours. Booking through Klook makes it easy to enjoy this thrilling performance!
 
@@ -94,7 +94,7 @@ This is also a fantastic spot for wedding photos, with many couples choosing the
 
 What does it feel like to stand on a 162-meter-high cliff?
 
-Oneeighty is a sky pool bar and club perched 162 meters above the Indian Ocean. It features a one-of-a-kind cliff-top pool with a glass wall. You can enjoy a 180-degree view of the Indian Ocean from the part of the pool that juts out over the cliff. Check out our guide for an introduction, photo spot recommendations, pricing, and more: [Explore Oneeighty Day Club: Bali's Ultimate Cliffside Pool Experience](/blog/oneeighty-dayclub-uluwatu-pool/)
+Oneeighty is a sky pool bar and club perched 162 meters above the Indian Ocean. It features a one-of-a-kind cliff-top pool with a glass wall. You can enjoy a 180-degree view of the Indian Ocean from the part of the pool that juts out over the cliff. Check out our guide for an introduction, photo spot recommendations, pricing, and more: [Explore Oneeighty Day Club: Bali's Ultimate Cliffside Pool Experience](/en/blog/oneeighty-dayclub-uluwatu-pool/)
 
 Xiao Jie's introduction video
 
@@ -239,7 +239,7 @@ For the locations of these shops, check out our "[Uluwatu Guide Map](https://www
 
 SUNDAZE ULUWATU MARKET is held at Hatch Bali Uluwatu on the southern tip of Bali, every Sunday from 11 AM to 6 PM, transforming into a vibrant market. Here, you can enjoy performances by talented acoustic musicians, savor delicious grilled food from local vendors, and whether you're looking for unique products or tasty snacks, this market is the perfect place to relax and connect with friends, defining the laid-back weekend vibe of Uluwatu!
 
-Read more: [【2026 Edition】Four Bali Weekend Markets Still Running: The Most Authentic Shopping Experience](/blog/bali-weekend-markets-2026/)
+Read more: [【2026 Edition】Four Bali Weekend Markets Still Running: The Most Authentic Shopping Experience](/en/blog/bali-weekend-markets-2026/)
 
 ***
 
@@ -332,7 +332,7 @@ Uluwatu is one of the most popular tourist areas at the southern tip of Bali. Th
 
 If you're looking for a comfortable, luxurious stay with unbeatable sea views, consider these 12 handpicked options:
 
-> [Uluwatu Accommodation Guide: 14 Private Villas and Resorts with Stunning Ocean Views](/blog/uluwatu-bali-villas-resorts-guide/)
+> [Uluwatu Accommodation Guide: 14 Private Villas and Resorts with Stunning Ocean Views](/en/blog/uluwatu-bali-villas-resorts-guide/)
 
 ## Rent a Large Pool Float for Stunning Photos
 
@@ -352,6 +352,6 @@ This service delivers the float right to your hotel or villa entrance, with staf
 
 To help you better understand the locations of the attractions mentioned above, we've prepared a '[Uluwatu Travel Map](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing)' marking the positions of all the spots. If you're planning a trip or adventure to Uluwatu, be sure to save it!
 
-Further reading: [Bali Travel Guide: Understanding Bali's Regions - Bali Accommodation Recommendations - A Guide to Kuta, Seminyak, Canggu, and Ubud](/blog/2023-12-29-65839fbafd89780001e876b5/)
+Further reading: [Bali Travel Guide: Understanding Bali's Regions - Bali Accommodation Recommendations - A Guide to Kuta, Seminyak, Canggu, and Ubud](/en/blog/2023-12-29-65839fbafd89780001e876b5/)
 
 {{block:攻略}}

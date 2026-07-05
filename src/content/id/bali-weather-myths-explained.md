@@ -68,7 +68,7 @@ Kayak di screenshot ini, kadang ramalan kasih info perubahan cuaca tiap 3 jam. K
 
 👉 **Saran: Jadwalin aktivitas pantai atau outdoor di pagi hari aja!**
 
-> [Apa aja sih aktivitas outdoor seru di Bali? 18 pengalaman wajib coba!](/blog/bali-top-50-outdoor-activities/)
+> [Apa aja sih aktivitas outdoor seru di Bali? 18 pengalaman wajib coba!](/id/blog/bali-top-50-outdoor-activities/)
 
 ---
 
@@ -84,10 +84,10 @@ Cuaca di Bali itu cepat banget berubahnya, ramalan dari aplikasi HP seringkali t
 
 **Referensi Cepat:**
 
-> [Bulan Musim Hujan di Bali / Persentase Hujan / Jumlah Hari Hujan / Suhu Rata-rata / Skor Cocok Liburan... Analisis Lengkap](/blog/bali-rainy-season-travel-guide/)
+> [Bulan Musim Hujan di Bali / Persentase Hujan / Jumlah Hari Hujan / Suhu Rata-rata / Skor Cocok Liburan... Analisis Lengkap](/id/blog/bali-rainy-season-travel-guide/)
 
 ---
 
 ![Intinya: Jangan panik lihat ikon cuaca doang!](https://images.gobaligo.id/vocus/vocus_09e4e66f29ac27a468ecc350cf0c839d.png)
 
-Kalau kamu khawatir hujan bakal ganggu rencana, langsung aja simpan 【[60 Rekomendasi Tempat Wisata Alternatif Saat Hujan](/blog/2026-bali-indoor-activities/)】, wajib bookmark!
+Kalau kamu khawatir hujan bakal ganggu rencana, langsung aja simpan 【[60 Rekomendasi Tempat Wisata Alternatif Saat Hujan](/id/blog/2026-bali-indoor-activities/)】, wajib bookmark!

@@ -287,6 +287,6 @@ If you have more time, we recommend visiting these three stunning nearby attract
 - **Tirta Gangga**: A former royal water garden, the stone sculptures and koi fish in the pools create a mesmerizing scene, making it an excellent spot for strolling and photography.
 - **Ujung Water Palace**: An ancient palace blending European and Balinese styles, surrounded by pools and greenery, offering a serene atmosphere rich with historical ambiance.
 
-For more details, check out this guide: [A Slice of Heaven! Bali's Top Three Eastern Attractions: Lempuyang Temple, Tirta Gangga, and Ujung Water Palace](/blog/bali-east-tour-guide/)
+For more details, check out this guide: [A Slice of Heaven! Bali's Top Three Eastern Attractions: Lempuyang Temple, Tirta Gangga, and Ujung Water Palace](/en/blog/bali-east-tour-guide/)
 
 {{block:攻略}}

@@ -35,7 +35,7 @@ _srcHash: bdb9c5405704b411b729baa2c74d61bb
 
 海神廟嘅建築風格簡潔但充滿力量感，特別係喺漲潮嘅時候，成個寺廟好似漂浮喺海上咁，增添咗一種神秘而莊嚴嘅氛圍。退潮嘅時候，遊客就可以行到寺廟前面，欣賞雕刻精美嘅結構。作為峇里島嘅重要宗教場所，海神廟亦會舉辦特別嘅宗教祭典活動，其中最重要嘅係「皮歐達蘭」（Piodalan）慶典，通常喺峇里島特有嘅「庫寧安節」（Hari Raya Kuningan）後四日舉行，遊客可以親眼見證當地虔誠嘅宗教活動。
 
-> 延伸閱讀：[2026峇里島嘅慶典日期](/blog/2026-bali-festival-guide/)
+> 延伸閱讀：[2026峇里島嘅慶典日期](/zh-hk/blog/2026-bali-festival-guide/)
 
 ![一、海神廟嘅歷史背景同宗教意義](https://images.gobaligo.id/vocus/vocus_71c5ba824a21ebf14225e1a786a733aa.jpg)
 
@@ -82,8 +82,8 @@ _srcHash: bdb9c5405704b411b729baa2c74d61bb
 
 離海神廟最近嘅坎古（長谷區）係探訪海神廟最方便嘅住宿基地。關於坎古嘅住宿可以參考：
 
-- [Canggu Top 20 你不能錯過的住宿推薦](/blog/canggu-top-hotels-guide/)
-- [長谷區10+ 私人泳池別墅推薦 Canggu Villa 你不能錯過的峇里島別墅](/blog/canggu-villas-guide/)
+- [Canggu Top 20 你不能錯過的住宿推薦](/zh-hk/blog/canggu-top-hotels-guide/)
+- [長谷區10+ 私人泳池別墅推薦 Canggu Villa 你不能錯過的峇里島別墅](/zh-hk/blog/canggu-villas-guide/)
 
 ## 四、海神廟美食
 
@@ -93,13 +93,13 @@ _srcHash: bdb9c5405704b411b729baa2c74d61bb
 
 ## 五、海神廟周邊景點
 
-除咗海神廟，如果想搵更多峇里島玩嘅點子，推薦大家睇我哋精心收集嘅「[長谷攻略地圖](/blog/canggu-guide/)」，入面有80個必遊景點，涵蓋自然景觀到美食體驗嘅各式選擇，令你輕鬆規劃行程，唔會錯過任何美好瞬間。坎古區域亦離海神廟唔遠，係探訪峇里島當地生活同潮流嘅最佳選擇之一！
+除咗海神廟，如果想搵更多峇里島玩嘅點子，推薦大家睇我哋精心收集嘅「[長谷攻略地圖](/zh-hk/blog/canggu-guide/)」，入面有80個必遊景點，涵蓋自然景觀到美食體驗嘅各式選擇，令你輕鬆規劃行程，唔會錯過任何美好瞬間。坎古區域亦離海神廟唔遠，係探訪峇里島當地生活同潮流嘅最佳選擇之一！
 
-另一個離海神廟更近嘅景點係今年最新嘅「Nuanu Creative City」，呢度有幾十個有趣嘅景點，請繼續參考「[Nauru Creative City攻略](/blog/nuanu-creative-city-luna-guide/)」
+另一個離海神廟更近嘅景點係今年最新嘅「Nuanu Creative City」，呢度有幾十個有趣嘅景點，請繼續參考「[Nauru Creative City攻略](/zh-hk/blog/nuanu-creative-city-luna-guide/)」
 
 ## 繼續了解的建議主題
 
-- [【掌握峇里島日落時間最佳觀賞指南】七大峇里島日落觀賞地點，你去過幾個？](/blog/bali-sunset-spots-guide/)
-- [Nauru Creative City攻略](/blog/nuanu-creative-city-luna-guide/)
+- [【掌握峇里島日落時間最佳觀賞指南】七大峇里島日落觀賞地點，你去過幾個？](/zh-hk/blog/bali-sunset-spots-guide/)
+- [Nauru Creative City攻略](/zh-hk/blog/nuanu-creative-city-luna-guide/)
 
 {{block:canggu}}

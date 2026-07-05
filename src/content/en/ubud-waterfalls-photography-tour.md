@@ -39,7 +39,7 @@ During our first few days in Bali, we stayed at the Sheraton Bali Kuta Resort, a
 
 ![Preparations Before Departure](https://images.gobaligo.id/vocus/vocus_25c77ae3894da2cae177666ebed9781f.jpg)
 
-Want to learn more about Kuta? [Click here](/blog/2023-12-13-657598bdfd8978000120fe20/)
+Want to learn more about Kuta? [Click here](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 The day before our tour, we received a confirmation message from our photographer and guide, Udin, via WhatsApp, detailing the pickup time and location. Since we had chosen the Bali Professional Photographer Day Tour, which included both camera and drone photography services, we were eagerly looking forward to the upcoming adventure.
 
@@ -90,7 +90,7 @@ Here, our photographer made full use of the drone to capture the waterfall's ful
 
 ![Third Stop: Tegenungan Waterfall](https://images.gobaligo.id/vocus/vocus_e4e3b5818941b29c25a2d591ec46a08d.jpg)
 
-Want to learn more about Ubud? [Click here](/blog/ubud-guide/)
+Want to learn more about Ubud? [Click here](/en/blog/ubud-guide/)
 
 ## Return Journey - 15:00 Back to Kuta
 

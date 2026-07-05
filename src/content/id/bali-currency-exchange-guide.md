@@ -32,7 +32,7 @@ Pas rencana traveling ke Bali, urusan tukar uang itu langkah penting yang harus 
 
 **Tuker ke USD dulu sebelum berangkat**: Yang paling penting, tuker dulu uang lokal kamu ke USD sebelum berangkat, baru bawa USD itu ke Indonesia/Bali buat dituker lagi ke Rupiah. Soalnya kursnya paling oke. Kalau kamu pegang AUD, langsung aja bawa AUD ke Bali buat dituker ke Rupiah. Soalnya Australia emang negara besar yang sering liburan ke Bali, kursnya nggak kalah sama USD.
 
-Kenapa tuker dari TWD ke USD dulu, baru USD ke Rupiah kursnya lebih bagus? Cek [di sini](/blog/bali-currency-exchange-tips/) penjelasannya
+Kenapa tuker dari TWD ke USD dulu, baru USD ke Rupiah kursnya lebih bagus? Cek [di sini](/id/blog/bali-currency-exchange-tips/) penjelasannya
 
 Kebanyakan turis pas baru sampai Bali langsung urus tukar uang. Kamu bisa cari driver sewaan yang terpercaya buat anter ke Money Changer yang reputasinya bagus — ini cara paling ampuh biar nggak kena tipu!
 
@@ -98,7 +98,7 @@ Kamu bisa cari semua tempat penukaran uang yang resmi, legal, dan aman dengan ce
 
 ***
 
-Baca juga: [Kurs Dolar AS di Bali: Uang Besar atau Uang Kecil? Panduan Lengkap Menukar Uang!](/blog/bali-usd-exchange-rate/)
+Baca juga: [Kurs Dolar AS di Bali: Uang Besar atau Uang Kecil? Panduan Lengkap Menukar Uang!](/id/blog/bali-usd-exchange-rate/)
 
 Di Bali, tempat penukaran uang (Money Changer) ada di mana-mana, kepadatannya tinggi banget. Terutama di kawasan wisata seperti Kuta, Seminyak, Ubud, Sanur, dan lainnya — hampir setiap jalan ada.
 
@@ -122,7 +122,7 @@ Bali sebagai bagian dari Indonesia pakai Rupiah (IDR). Semua transaksi di sini c
 
 ## **2. Apakah saya perlu bawa dolar AS ke Bali?**
 
-Iya, saran kami sebelum berangkat tukar mata uang lokalmu ke dolar AS, karena kurs dolar di Bali biasanya lebih bagus. Kalau kamu punya dolar Australia, bisa langsung bawa aja ke Bali karena kursnya juga lumayan. Referensi: [Tukar Uang di Indonesia/Bali: Tukar Langsung vs Tukar ke Dolar AS Dulu, Mana Lebih Hemat?](/blog/bali-currency-exchange-tips/)
+Iya, saran kami sebelum berangkat tukar mata uang lokalmu ke dolar AS, karena kurs dolar di Bali biasanya lebih bagus. Kalau kamu punya dolar Australia, bisa langsung bawa aja ke Bali karena kursnya juga lumayan. Referensi: [Tukar Uang di Indonesia/Bali: Tukar Langsung vs Tukar ke Dolar AS Dulu, Mana Lebih Hemat?](/id/blog/bali-currency-exchange-tips/)
 
 ## **3. Di mana tempat tukar uang paling worth it?**
 
@@ -212,7 +212,7 @@ Bali itu destinasi wisata yang udah matang banget, jadi di Money Changer resmi, 
 
 ## 16. Di Bali, kurs uang pecahan besar dan kecil sama nggak sih?
 
-Nggak sama! Tapi basically bisa diabaikan aja. Cek penjelasannya di sini: [Kurs Dolar AS di Bali: Pecahan Besar atau Kecil? Panduan Lengkap Tukar Uang!](/blog/bali-usd-exchange-rate/)
+Nggak sama! Tapi basically bisa diabaikan aja. Cek penjelasannya di sini: [Kurs Dolar AS di Bali: Pecahan Besar atau Kecil? Panduan Lengkap Tukar Uang!](/id/blog/bali-usd-exchange-rate/)
 
 ## 17. **Bayar Pakai Kartu Kredit**
 
@@ -222,13 +222,13 @@ Saran sih pakai kartu kredit yang kasih cashback transaksi luar negeri, dengan b
 
 **Referensi Cepat:**
 
-- [Kurs Dolar AS di Bali: Pecahan Besar atau Kecil? Panduan Lengkap Tukar Uang!](/blog/bali-usd-exchange-rate/)
-- [Tukar Uang di Indonesia/Bali: Tukar Langsung vs Tukar Dolar AS Dulu ke Rupiah, Mana Lebih Untung?](/blog/bali-currency-exchange-tips/)
-- [Kisah Nyata Tukar Uang di Bali: Pengalaman Anggota Grup, Jangan Serakah!](/blog/bali-money-exchange-scams-2/)
-- [【Skimming Kartu Kredit/Biaya Transaksi/Tambah %】Aman Nggak Bayar Pakai Kartu di Bali?](/blog/bali-credit-card-safety-tips/)
+- [Kurs Dolar AS di Bali: Pecahan Besar atau Kecil? Panduan Lengkap Tukar Uang!](/id/blog/bali-usd-exchange-rate/)
+- [Tukar Uang di Indonesia/Bali: Tukar Langsung vs Tukar Dolar AS Dulu ke Rupiah, Mana Lebih Untung?](/id/blog/bali-currency-exchange-tips/)
+- [Kisah Nyata Tukar Uang di Bali: Pengalaman Anggota Grup, Jangan Serakah!](/id/blog/bali-money-exchange-scams-2/)
+- [【Skimming Kartu Kredit/Biaya Transaksi/Tambah %】Aman Nggak Bayar Pakai Kartu di Bali?](/id/blog/bali-credit-card-safety-tips/)
 
 ---
 
 👈 **Kembali ke Panduan Lengkap Liburan Mandiri ke Bali**
 
-Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.
+Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.

@@ -31,7 +31,7 @@ Update: 2026/07/03
 
 Bali itu surganya liburan, dan sebelum pulang, banyak turis pasti pengin beli oleh-oleh buat dibawa pulang. Bali Banana, kue pisang yang enak banget ini, jadi pilihan yang populer banget.
 
-> Baca juga: [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Panduan Oleh-Oleh Bali: Pilihan Terbaik buat Kenangan Berharga](/blog/bali-souvenirs-gift-guide/)
+> Baca juga: [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Panduan Oleh-Oleh Bali: Pilihan Terbaik buat Kenangan Berharga](/id/blog/bali-souvenirs-gift-guide/)
 
 Nah, gimana cara beli oleh-oleh ini di Bandara Internasional Bali? Karena Bali Banana cuma ada di area pertokoan pintu keluar terminal domestik, terminal internasional sekarang belum buka cabang baik di keberangkatan maupun kedatangan. Ini dia panduan jalan kaki detailnya, cara dari pintu keluar kedatangan internasional ke area pertokoan terminal domestik, biar kamu bisa beli Bali Banana dengan lancar.
 

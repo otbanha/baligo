@@ -37,20 +37,20 @@ Bali dijuluki 'Pulau Dewata' dan jadi surga liburan favorit banyak orang. Budaya
 
 **Referensi Cepat:**
 
-- [Tips Liburan ke Bali: 31 Hal Wajib Tahu Sebelum Pertama Kali ke Bali](/blog/bali-ultimate-guide-2026/)
-- [【Wajib Tahu soal Bali】99% Traveler Diam-diam Cari 41 Pertanyaan Super Canggung! Panduan Liburan Bebas ke Bali](/blog/bali-travel-faqs-guide/)
-- [Panduan Bali: Kenali Wilayah Bali - Rekomendasi Penginapan Bali, Kenali Kuta, Seminyak, Canggu, Ubud](/blog/2023-12-29-65839fbafd89780001e876b5/)
-- [Panduan 100 Tempat di Seminyak, Bali](/blog/seminyak-guide/)
-- [Panduan 50 Tempat Wajib Kunjungi di Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [80 Tempat Wisata Wajib di Canggu](/blog/canggu-guide/)
-- [100 Cara Eksplorasi Ubud](/blog/ubud-guide/)
-- [Panduan Jimbaran](/blog/jimbaran-guide/)
-- [Panduan Uluwatu](/blog/uluwatu-guide/)
-- [Panduan Petualangan Bukit Peninsula](/blog/bukit-peninsula-guide/)
-- [45 Aktivitas Makan, Minum, dan Seru-seruan di Sanur](/blog/sanur-guide/)
-- [40 Panduan Penginapan, Makan, dan Aktivitas di Nusa Dua](/blog/nusa-dua-guide/)
-- [Panduan Lengkap Makan, Minum, dan Seru-seruan di Nusa Penida](/blog/nusa-penida-guide/)
-- [Panduan Lengkap Tempat Wisata di Nusa Lembongan / Ceningan](/blog/nusa-lembongan-ceningan-guide/)
+- [Tips Liburan ke Bali: 31 Hal Wajib Tahu Sebelum Pertama Kali ke Bali](/id/blog/bali-ultimate-guide-2026/)
+- [【Wajib Tahu soal Bali】99% Traveler Diam-diam Cari 41 Pertanyaan Super Canggung! Panduan Liburan Bebas ke Bali](/id/blog/bali-travel-faqs-guide/)
+- [Panduan Bali: Kenali Wilayah Bali - Rekomendasi Penginapan Bali, Kenali Kuta, Seminyak, Canggu, Ubud](/id/blog/2023-12-29-65839fbafd89780001e876b5/)
+- [Panduan 100 Tempat di Seminyak, Bali](/id/blog/seminyak-guide/)
+- [Panduan 50 Tempat Wajib Kunjungi di Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [80 Tempat Wisata Wajib di Canggu](/id/blog/canggu-guide/)
+- [100 Cara Eksplorasi Ubud](/id/blog/ubud-guide/)
+- [Panduan Jimbaran](/id/blog/jimbaran-guide/)
+- [Panduan Uluwatu](/id/blog/uluwatu-guide/)
+- [Panduan Petualangan Bukit Peninsula](/id/blog/bukit-peninsula-guide/)
+- [45 Aktivitas Makan, Minum, dan Seru-seruan di Sanur](/id/blog/sanur-guide/)
+- [40 Panduan Penginapan, Makan, dan Aktivitas di Nusa Dua](/id/blog/nusa-dua-guide/)
+- [Panduan Lengkap Makan, Minum, dan Seru-seruan di Nusa Penida](/id/blog/nusa-penida-guide/)
+- [Panduan Lengkap Tempat Wisata di Nusa Lembongan / Ceningan](/id/blog/nusa-lembongan-ceningan-guide/)
 
 ## 2.🇻🇳 **Hanoi, Vietnam**
 

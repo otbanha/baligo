@@ -34,6 +34,6 @@ Hukuman ini bukan cuma omongan, sudah ada beberapa pengedar narkoba yang dieksek
 
 Buat kamu yang mau liburan ke Bali atau daerah lain di Indonesia, wajib tahu dan patuh sama aturan keras ini biar nggak celaka. Bawa atau jual narkoba bisa mengancam kebebasan dan nyawa, nggak worth it sama sekali. Bahkan beberapa obat resep yang legal di Taiwan atau Hong Kong, di Indonesia bisa dianggap terlarang lho!
 
-> Baca juga: [Panduan Penting Bawa Obat Tidur/Resep Khusus ke Indonesia/Bali](/blog/bali-medication-import-guide/)
+> Baca juga: [Panduan Penting Bawa Obat Tidur/Resep Khusus ke Indonesia/Bali](/id/blog/bali-medication-import-guide/)
 
 Jadi, baik kamu turis yang mau liburan ke Bali atau warga lokal, ingat buat patuh sama hukum setempat, jangan pernah nekat langgar aturan narkoba. Cuma dengan kerja sama, jauhi aktivitas narkoba, kita bisa ciptakan lingkungan yang lebih aman dan sehat, biar semua orang bisa nikmatin kedamaian dan kebahagiaan.

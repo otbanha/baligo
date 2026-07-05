@@ -114,6 +114,6 @@ Meskipun banyak daerah di Indonesia punya durian sepanjang tahun, Bali masih ter
 👉 Mau hindari keramaian → **Februari–Maret juga oke**
 👉 Di luar musim itu → tergantung hoki 😆
 
-> Baca juga: [Ratu Buah Tropis - Musim Manggis di Bali/Indonesia](/blog/bali-mangosteen-season/)
+> Baca juga: [Ratu Buah Tropis - Musim Manggis di Bali/Indonesia](/id/blog/bali-mangosteen-season/)
 
 {{block:美食}}

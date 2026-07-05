@@ -81,7 +81,7 @@ Pembangunan jalan lingkar ini akan membantu mendistribusikan arus lalu lintas, m
 
 Proyek Jalan Tol Gilimanuk-Mengwi akan terus dilanjutkan, dan akan ditambah dengan sistem MRT Bali Selatan untuk semakin meningkatkan kemudahan transportasi di kawasan wisata populer selatan serta mengurangi tekanan lalu lintas.
 
-Selain 10 proyek yang belum/sedang dalam proses pembangunan ini, ada juga proyek LRT Bandara Bali yang sedang dalam tahap konstruksi. Lihat [laporan kami sebelumnya](/blog/bali-lrt-construction-update/)
+Selain 10 proyek yang belum/sedang dalam proses pembangunan ini, ada juga proyek LRT Bandara Bali yang sedang dalam tahap konstruksi. Lihat [laporan kami sebelumnya](/id/blog/bali-lrt-construction-update/)
 
 ![峇里島將採用和雅加達相同的輕軌系統](https://images.gobaligo.id/vocus/vocus_18c707e4ec41b5fe1c5ccd1650b0aee3.jpg)
 

@@ -21,7 +21,7 @@ lang: en
 _srcHash: 17707370d5381abbedc5f38f5923f428
 ---
 
-Starting from 2024, Indonesia will encourage tourists planning to visit Bali to use online immigration services. Visitors can apply for various Indonesian visas online and also handle visa extension procedures online, eliminating the need to visit immigration offices in person! (Latest update as of 2025/05/29: Now it's required to visit immigration offices for fingerprinting! Please see [here](/blog/indonesia-visa-rules-2025/))
+Starting from 2024, Indonesia will encourage tourists planning to visit Bali to use online immigration services. Visitors can apply for various Indonesian visas online and also handle visa extension procedures online, eliminating the need to visit immigration offices in person! (Latest update as of 2025/05/29: Now it's required to visit immigration offices for fingerprinting! Please see [here](/en/blog/indonesia-visa-rules-2025/))
 
 ![2024 Indonesia/Bali Online Visa Extension Guide](https://images.gobaligo.id/vocus/vocus_3251272747de6e2dc78cc7eb7b80f815.png)
 
@@ -79,4 +79,4 @@ When calculating the new expiration date, be mindful of the differences in month
 
 ## Latest Update
 
-Latest update as of 05/29/2025: Now you have to go to the immigration office for fingerprinting again! Please see [here](/blog/indonesia-visa-rules-2025/)
+Latest update as of 05/29/2025: Now you have to go to the immigration office for fingerprinting again! Please see [here](/en/blog/indonesia-visa-rules-2025/)

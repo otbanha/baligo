@@ -36,13 +36,13 @@ Bali has a tropical climate, with summer vacations (June to August) falling in t
 
 ![1. Climate & Clothing](https://images.gobaligo.id/vocus/vocus_7c08d86c6df883cdd0f82bbf4a41a31c.png)
 
-For those planning to hike or take a jeep to see the sunrise on a volcano, bring warm clothing regardless of the season. Check out our [Mount Batur Sunrise Hiking Guide](/blog/batur-sunrise-hiking-guide/) for more details.
+For those planning to hike or take a jeep to see the sunrise on a volcano, bring warm clothing regardless of the season. Check out our [Mount Batur Sunrise Hiking Guide](/en/blog/batur-sunrise-hiking-guide/) for more details.
 
 ### 2. **Health & Safety**
 
 - **Mosquito Protection**: Bali has many mosquitoes, so local repellents are more effective. Choose accommodations with mosquito nets.
 - **Drinking Water**: Avoid tap water; opt for bottled or boiled water.
-- **Medical Preparation**: Bring common medications like fever reducers, anti-diarrheal pills, motion sickness medicine, and band-aids. Refer to: [Essential Medications & Supplies for Bali Travel: What to Pack?](/blog/bali-travel-medicine-checklist/)
+- **Medical Preparation**: Bring common medications like fever reducers, anti-diarrheal pills, motion sickness medicine, and band-aids. Refer to: [Essential Medications & Supplies for Bali Travel: What to Pack?](/en/blog/bali-travel-medicine-checklist/)
 
 ![2. Health & Safety](https://images.gobaligo.id/vocus/vocus_1fe90182feb7b0f11bdd7ee503a63a11.png)
 
@@ -54,8 +54,8 @@ Bali's traffic can be chaotic, so it's recommended to book a reputable private c
 
 **Quick Reference:**
 
-- [Complete Guide to Bali Private Car Hire - Costs, Booking Methods, and Advantages](/blog/bali-private-car-hire-guide/)
-- [2025 Bali Attractions Guide | 500 Latest Popular Bali Spots All in One Place](/blog/bali-top-500-attractions/)
+- [Complete Guide to Bali Private Car Hire - Costs, Booking Methods, and Advantages](/en/blog/bali-private-car-hire-guide/)
+- [2025 Bali Attractions Guide | 500 Latest Popular Bali Spots All in One Place](/en/blog/bali-top-500-attractions/)
 
 ### 4. **Dining Options**
 
@@ -65,7 +65,7 @@ Additionally, many restaurants offer children's menus, and you can also opt for 
 
 **Quick Reference:**
 
-- [Top 10 Must-Try Foods in Bali](/blog/bali-travel-tips/)
+- [Top 10 Must-Try Foods in Bali](/en/blog/bali-travel-tips/)
 
 ### 5. **Cultural Etiquette**
 
@@ -73,8 +73,8 @@ Bali locals are friendly and warm, but the culture places great emphasis on etiq
 
 **Quick Reference:**
 
-- [The Misunderstood "Gates of Good and Evil"? The Meaning and Correct Name of Candi Bentar](/blog/candi-bentar-balinese-gate-history/)
-- [Bali's Offering Rituals: Canang Sari Explained](/blog/bali-canang-sari-explained/)
+- [The Misunderstood "Gates of Good and Evil"? The Meaning and Correct Name of Candi Bentar](/en/blog/candi-bentar-balinese-gate-history/)
+- [Bali's Offering Rituals: Canang Sari Explained](/en/blog/bali-canang-sari-explained/)
 
 ![5. Cultural Etiquette](https://images.gobaligo.id/vocus/vocus_c21f61f96c32186966727957fc399238.png)
 
@@ -86,10 +86,10 @@ Bali is an excellent choice for family vacations, and we particularly recommend 
 
 ### Recommended Areas for Summer/Winter Family Trips
 
-- [Part 1: Seminyak](/blog/seminyak-family-travel-2026/)
-- [Part 2: Ubud](/blog/ubud-family-travel-2026/)
-- [Part 3: Sanur](/blog/sanur-family-travel-guide-2/)
-- [Part 4: Nusa Dua](/blog/2026-04-02-112654/)
+- [Part 1: Seminyak](/en/blog/seminyak-family-travel-2026/)
+- [Part 2: Ubud](/en/blog/ubud-family-travel-2026/)
+- [Part 3: Sanur](/en/blog/sanur-family-travel-guide-2/)
+- [Part 4: Nusa Dua](/en/blog/2026-04-02-112654/)
 
 ## **Eight Family-Friendly Activities in Seminyak:**
 
@@ -166,7 +166,7 @@ Shooter Bali is a sports bar located in Seminyak, offering a variety of games an
 
 Mookiland Park is a family-friendly playground spanning 5,000 square meters. It offers a variety of attractions, including climbing walls, obstacle courses, and inflatable castles, ensuring every child finds something they enjoy. These facilities not only help kids burn off energy but also provide endless fun.
 
-> For detailed information and discount tickets, [click here](/blog/mookiland-park-bali-family/).
+> For detailed information and discount tickets, [click here](/en/blog/mookiland-park-bali-family/).
 
 ### 7.**Family-Friendly Workshops: Hands-On Fun for All Ages!**
 
@@ -222,7 +222,7 @@ We recommend choosing resorts with kids' clubs, pools, and family rooms to maxim
 
 ![More Seminyak food, drink, and entertainment recommendations](https://images.gobaligo.id/vocus/vocus_366287b60b610bfff45aea753d91ba55.jpg)
 
-Seminyak is a charming area in Bali that blends fashion and tradition, offering top-notch restaurants, boutique shops, and vibrant nightlife, making it a paradise for vacationers! Want to know more about exciting attractions, dining, spas, and beach clubs? [Click here](/blog/seminyak-guide/).
+Seminyak is a charming area in Bali that blends fashion and tradition, offering top-notch restaurants, boutique shops, and vibrant nightlife, making it a paradise for vacationers! Want to know more about exciting attractions, dining, spas, and beach clubs? [Click here](/en/blog/seminyak-guide/).
 
 ***
 
@@ -230,10 +230,10 @@ Seminyak is a charming area in Bali that blends fashion and tradition, offering 
 
 ### Top four recommended areas for summer/winter family trips
 
-- [Part 1: Seminyak](/blog/seminyak-family-travel-2026/)
-- [Part 2: Ubud](/blog/ubud-family-travel-2026/)
-- [Part 3: Sanur](/blog/sanur-family-travel-guide-2/)
-- [Part 4: Nusa Dua](/blog/2026-04-02-112654/)
+- [Part 1: Seminyak](/en/blog/seminyak-family-travel-2026/)
+- [Part 2: Ubud](/en/blog/ubud-family-travel-2026/)
+- [Part 3: Sanur](/en/blog/sanur-family-travel-guide-2/)
+- [Part 4: Nusa Dua](/en/blog/2026-04-02-112654/)
 
 ***
 
@@ -241,7 +241,7 @@ Seminyak is a charming area in Bali that blends fashion and tradition, offering 
 
 **1. Is Bali suitable for traveling with infants or toddlers?**
 
-Yes! Bali is very suitable for traveling with infants or toddlers, and you can even [hire a nanny](/blog/bali-family-travel-guide-2/).
+Yes! Bali is very suitable for traveling with infants or toddlers, and you can even [hire a nanny](/en/blog/bali-family-travel-guide-2/).
 
 **2. Do Bali restaurants offer kids' meals?**
 
@@ -257,7 +257,7 @@ Major cities like Kuta, Seminyak, and Sanur have international hospitals that ca
 
 **5. Are there more family-friendly resort recommendations in different areas?**
 
-Yes, please refer to [this guide](/blog/bali-family-resorts-kids-club/).
+Yes, please refer to [this guide](/en/blog/bali-family-resorts-kids-club/).
 
 {{block:親子}}
 

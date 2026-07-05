@@ -35,8 +35,8 @@ Selain itu, Bali di Indonesia juga masuk dalam daftar. Ada juga Phuket — dua k
 ![Panduan Romantis Hari Valentine: 10 Destinasi Wisata Romanti](https://images.gobaligo.id/vocus/vocus_6215ad9ad25ef58453bfc1181abcabf6.png)
 
 Hari Valentine adalah kesempatan sempurna buat pasangan untuk menciptakan kenangan baru. Kamu mau liburan romantis yang tak terlupakan bareng pasangan? Cek ini:
-- [Panduan Romantis Bulan Madu di Bali: 36 Cara Seru buat Pasangan/Bulan Madu di Bali](/blog/bali-honeymoon-romantic-activities-2/)
-- [[Rekomendasi Akomodasi di Bali: Wajib Baca buat Pasutri/Pasangan! 2024 Panduan Lengkap 20 Resor Bulan Madu & Villa Romantis di Bali]](/blog/bali-honeymoon-resorts-guide/)
+- [Panduan Romantis Bulan Madu di Bali: 36 Cara Seru buat Pasangan/Bulan Madu di Bali](/id/blog/bali-honeymoon-romantic-activities-2/)
+- [[Rekomendasi Akomodasi di Bali: Wajib Baca buat Pasutri/Pasangan! 2024 Panduan Lengkap 20 Resor Bulan Madu & Villa Romantis di Bali]](/id/blog/bali-honeymoon-resorts-guide/)
 
 ## 10 Destinasi Wisata Romantis Internasional Teratas
 

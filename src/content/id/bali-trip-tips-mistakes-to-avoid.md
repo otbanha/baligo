@@ -31,7 +31,7 @@ Karena di grup banyak yang cerita ribetnya urus eVOA, akhirnya kami memutuskan a
 
 ![Visa:](https://images.gobaligo.id/vocus/vocus_a26a7527e1e934bfe40d5158bf8470d7.png)
 
-> Baca juga: [Panduan Masuk Bali 2025/08 Pakai Sistem 'All Indonesia'｜Pahamin Proses Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](/blog/bali-all-indonesia-arrival-guide/)
+> Baca juga: [Panduan Masuk Bali 2025/08 Pakai Sistem 'All Indonesia'｜Pahamin Proses Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
 
 ## Sopir Sewaan:
 
@@ -41,7 +41,7 @@ Katanya biaya sudah termasuk bensin dan parkir. Tapi pas ke Tebing Pantai, pas b
 
 Pernah juga, pas hari pembayaran, supirnya bilang karena hari libur, harus bayar tambahan Rp50.000. Ini bikin kita bingung banget, soalnya sebelum berangkat aku udah ngecek harga dua kali, supirnya bilang nggak bakal berubah. Perilaku nambah harga mendadak kayak gini bikin kita kecewa. Makanya, pas kamu booking paket mobil pribadi, pastiin cek harga dan ketentuannya dengan teliti biar nggak kena kejadian serupa.
 
-> Baca juga: [【Rekomendasi Supir Mobil Pribadi Bali】Review Lengkap Supir Bali dari Netizen: Temukan Supir Terbaik untukmu Berdasarkan Ulasan Nyata](/blog/bali-private-car-drivers-guide/)
+> Baca juga: [【Rekomendasi Supir Mobil Pribadi Bali】Review Lengkap Supir Bali dari Netizen: Temukan Supir Terbaik untukmu Berdasarkan Ulasan Nyata](/id/blog/bali-private-car-drivers-guide/)
 
 ## Tempat Wisata dan Restoran:
 
@@ -51,7 +51,7 @@ Pernah juga, pas hari pembayaran, supirnya bilang karena hari libur, harus bayar
 
 Li Wallis menyediakan
 
-Pura Tanah Lot (Tanah Lot) adalah tempat wisata yang cantik banget dan wajib dikunjungi. Pura ini dibangun di atas batu karang di tepi laut, pas air pasang bakal dikelilingi air laut, jadi pemandangannya unik banget. Sunset di sini luar biasa, mending datang sore hari biar bisa lihat pemandangan matahari terbenam yang spektakuler di laut. Referensi cepat: [Panduan Wisata Pura Tanah Lot (Tanah Lot) di Bali: Detail, Pasang Surut, dan Tempat Sekitar](/blog/bali-tanah-lot-guide/)
+Pura Tanah Lot (Tanah Lot) adalah tempat wisata yang cantik banget dan wajib dikunjungi. Pura ini dibangun di atas batu karang di tepi laut, pas air pasang bakal dikelilingi air laut, jadi pemandangannya unik banget. Sunset di sini luar biasa, mending datang sore hari biar bisa lihat pemandangan matahari terbenam yang spektakuler di laut. Referensi cepat: [Panduan Wisata Pura Tanah Lot (Tanah Lot) di Bali: Detail, Pasang Surut, dan Tempat Sekitar](/id/blog/bali-tanah-lot-guide/)
 
 🛕🌊🌅 Pura Tanah Lot, tempat sunset wajib dikunjungi di Bali, nikmati pemandangan laut yang megah dan suasana religius ▶[Diskon Klook](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
 
@@ -63,7 +63,7 @@ Pura Tanah Lot (Tanah Lot) adalah tempat wisata yang cantik banget dan wajib dik
 
 Li Wallis menyediakan
 
-Pura Uluwatu (Uluwatu Temple) juga cantik, dibangun di atas tebing yang menghadap Samudra Hindia, pemandangannya spektakuler banget. Tapi, monyet di sini licik banget, suka ngambil kacamata, topi, dan HP kamu, jadi hati-hati banget jagain barang bawaan. Referensi cepat: [Panduan Wisata Pura Uluwatu / Tebing Cinta di Bali: Sorotan dan Tips Praktis](/blog/uluwatu-temple-travel-guide/)
+Pura Uluwatu (Uluwatu Temple) juga cantik, dibangun di atas tebing yang menghadap Samudra Hindia, pemandangannya spektakuler banget. Tapi, monyet di sini licik banget, suka ngambil kacamata, topi, dan HP kamu, jadi hati-hati banget jagain barang bawaan. Referensi cepat: [Panduan Wisata Pura Uluwatu / Tebing Cinta di Bali: Sorotan dan Tips Praktis](/id/blog/uluwatu-temple-travel-guide/)
 
 🛕🌊🌅 Pura Uluwatu, spot keren di atas tebing, plus bisa nonton tari api tradisional ▶[Promo Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fp50231639-uluwatu%2F1-things-to-do%2F)
 
@@ -73,7 +73,7 @@ Pura Uluwatu (Uluwatu Temple) juga cantik, dibangun di atas tebing yang menghada
 
 Dokumentasi Li Wallis
 
-Jalan Tebing (Broken Beach) juga wajib banget dikunjungi. Saran sih mending berangkat pagi, pas kita sampai sebelum jam 11, masih sepi, bisa foto-foto cantik. Setelah itu, makin rame, jadi susah buat foto. Abis puas di Jalan Tebing, jangan buru-buru pergi, lanjutin jalan ke depan bakal nemu pantai yang indah. Cek cepat: [Bali Batu Barak/Tanah Barak: Petualangan Keren di Jalan Tebing Biru](/blog/batu-barak-cliff-road/)
+Jalan Tebing (Broken Beach) juga wajib banget dikunjungi. Saran sih mending berangkat pagi, pas kita sampai sebelum jam 11, masih sepi, bisa foto-foto cantik. Setelah itu, makin rame, jadi susah buat foto. Abis puas di Jalan Tebing, jangan buru-buru pergi, lanjutin jalan ke depan bakal nemu pantai yang indah. Cek cepat: [Bali Batu Barak/Tanah Barak: Petualangan Keren di Jalan Tebing Biru](/id/blog/batu-barak-cliff-road/)
 
 🏖️🪨🌊 Eksplorasi keindahan tebing biru, pemandangan yang terbelah, jepret aja langsung jadi incaran Instagram! ▶[Promo Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F114124-tanah-barak-cliff-garuda-wisnu-kencana-malini-sunset-tour-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8aad5d46e9)
 
@@ -87,7 +87,7 @@ Di dekat situ ada restoran dengan pemandangan laut namanya Pawdwa Seaview, kita 
 
 Dokumentasi Li Wallis
 
-Pura Tirta Empul (Tirta Empul) tempat yang worth it dikunjungi. Kalau kamu mau turun ke air buat bersuci, jangan lupa bawa baju ganti. Selain itu, di dekat sini ada sawah terasering yang cantik, kita duduk di kafe samping sawah sambil pesan dua minuman, nikmatin pemandangan, rasanya adem banget. Baca juga: [【2025】Panduan Lengkap Tirta Empul: Pengalaman Suci di Pura Air Paling Sakral Bali](/blog/tirta-empul-temple-guide/)
+Pura Tirta Empul (Tirta Empul) tempat yang worth it dikunjungi. Kalau kamu mau turun ke air buat bersuci, jangan lupa bawa baju ganti. Selain itu, di dekat sini ada sawah terasering yang cantik, kita duduk di kafe samping sawah sambil pesan dua minuman, nikmatin pemandangan, rasanya adem banget. Baca juga: [【2025】Panduan Lengkap Tirta Empul: Pengalaman Suci di Pura Air Paling Sakral Bali](/id/blog/tirta-empul-temple-guide/)
 
 🔱💦 Pura Tirta Empul di Ubud, pura air suci terkenal di Bali, terkenal dengan ritual pemurnian 🙏 dan air sucinya 💧, dipercaya bisa membawa berkah dan keberuntungan ✨ bagi umat dan wisatawan! ▶[Promo Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)
 
@@ -113,7 +113,7 @@ Dokumentasi: Li Wallis
 
 Barang di Pasar Ubud hampir semuanya sama aja, nggak ada yang bikin kami tertarik buat beli. Sebaliknya, kami lebih happy pas jalan-jalan di supermarket, meskipun harganya sedikit lebih mahal. Eh, nggak sengaja nemu Bali Galeria Mall — asyik banget buat jalan-jalan! Ada supermarket, toko oleh-oleh, dan restoran, lengkap semua. Tadinya kami mau cari kantor pos buat kirim kartu pos, tapi udah tutup 🥲. Jadi, kalau mau ke kantor pos, inget datang lebih awal ya. Akhirnya kami beli perangko di bandara dan nemu kotak pos di sana.
 
-> Baca Juga: [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Rekomendasi Oleh-Oleh Bali: Pilihan Terbaik untuk Mengabadikan Kenangan Berharga](/blog/bali-souvenirs-gift-guide/)
+> Baca Juga: [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Rekomendasi Oleh-Oleh Bali: Pilihan Terbaik untuk Mengabadikan Kenangan Berharga](/id/blog/bali-souvenirs-gift-guide/)
 
 ## Tips Lainnya
 
@@ -127,7 +127,7 @@ https://youtu.be/0M0voLfFLrQ
 
 ## Baca Juga:
 
-[18 Kesalahan & Tips Liburan ke Bali Biar Nggak Nyesel](/blog/bali-travel-mistakes-tips/)
+[18 Kesalahan & Tips Liburan ke Bali Biar Nggak Nyesel](/id/blog/bali-travel-mistakes-tips/)
 
 Menurut kamu itinerary Li Wallis seru nggak? Yuk, rencanain liburanmu ke Bali sekarang! Jangan lupa juga kirim itinerary kamu ke grup ya!
 
@@ -135,6 +135,6 @@ Menurut kamu itinerary Li Wallis seru nggak? Yuk, rencanain liburanmu ke Bali se
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 
-Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
+Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
 
 {{block:攻略}}

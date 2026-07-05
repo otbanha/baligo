@@ -91,7 +91,7 @@ Pengunjung Aloha Ubud Swing bisa pilih beberapa paket, yaitu:
 
 Aloha Ubud Swing adalah destinasi wisata seru di Bali yang cocok buat semua umur. Di sini, kamu bisa coba ayunan dengan berbagai ketinggian, rasain sensasi deg-degan sambil dapetin foto-foto keren. Fasilitas lengkap dan layanan antar-jemput yang praktis bikin tempat ini wajib masuk daftar liburan kamu.
 
-> Baca juga: [Panduan Lengkap Ubud Bali: 100 Cara Menjelajahi Pesona Ubud | Temukan Keindahan Ubud](/blog/ubud-guide/)
+> Baca juga: [Panduan Lengkap Ubud Bali: 100 Cara Menjelajahi Pesona Ubud | Temukan Keindahan Ubud](/id/blog/ubud-guide/)
 
 ## **Pertanyaan Umum**
 

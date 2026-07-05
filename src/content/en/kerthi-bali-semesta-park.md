@@ -119,6 +119,6 @@ In the future, visitors can take the Gilimanuk-Mengwi highway directly to Jembra
 
 **5. What other must-visit parks are there in Bali?**
 
-In addition to this project, [Waterbom Bali](/blog/waterbom-bali-water-park-guide/), [Bali Safari Park](/blog/bali-safari-night-stay/), and [Bali Bird Park](/blog/bali-bird-park-guide/) are all popular attractions not to be missed.
+In addition to this project, [Waterbom Bali](/en/blog/waterbom-bali-water-park-guide/), [Bali Safari Park](/en/blog/bali-safari-night-stay/), and [Bali Bird Park](/en/blog/bali-bird-park-guide/) are all popular attractions not to be missed.
 
 {{block:親子}}

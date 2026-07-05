@@ -45,7 +45,7 @@ Miniatur ukiran batu dari batu pasir
 
 - **Tekstil**: Tekstil Bali terkenal dengan warna-warna cerah dan motif tradisionalnya. Baik itu sarung, syal, atau taplak meja, semuanya bisa bikin kamu merasakan nuansa lokal.
 - **Kerajinan Tangan**: Seperti gelang, kalung, dan barang anyaman kecil lainnya.
-- **Dupa**: Bawa pulang aroma khas Bali. Penjelasan lengkapnya bisa dilihat [di sini](/blog/bali-art-souvenirs-guide/).
+- **Dupa**: Bawa pulang aroma khas Bali. Penjelasan lengkapnya bisa dilihat [di sini](/id/blog/bali-art-souvenirs-guide/).
 - 👜 **Tas Anyaman Rotan Bali**
 
 ![Kerajinan Tangan Budaya Bali](https://images.gobaligo.id/vocus/vocus_0da8524d97ec3c0a0ab9714a64bb7364.png)
@@ -294,7 +294,7 @@ Merek kopi nasional Indonesia yang bisa kamu beli di supermarket atau minimarket
 
 Cara seduhnya: diamkan 2-3 menit sampai ampasnya mengendap, minum bagian atasnya aja. Dijamin paling alami, tanpa bahan kimia, dan tetap sehat buat mata!
 
-Baca selengkapnya: [【Rekomendasi Kopi Bubuk Indonesia/Bali】Kopi ini jangan diminum! Riset 500.000 orang: risiko degenerasi makula naik 7x, beralih ke kopi alami tanpa tambahan, pilihan sehat Kapal Api](https://gobaligo.id/blog/2026-06-19-013143/)
+Baca selengkapnya: [【Rekomendasi Kopi Bubuk Indonesia/Bali】Kopi ini jangan diminum! Riset 500.000 orang: risiko degenerasi makula naik 7x, beralih ke kopi alami tanpa tambahan, pilihan sehat Kapal Api](https://gobaligo.id/id/blog/2026-06-19-013143/)
 
 ***
 
@@ -302,8 +302,8 @@ Klik link di bawah buat info lebih detail, biar kamu bisa milih oleh-oleh Bali y
 
 - Oleh-oleh Bali yang [jangan dibeli](https://youtu.be/d_TDRuMLzrQ)
 - [Toko kerajinan besar](https://youtu.be/mxnU1BxJCcM?t=367) cuma 10 menit dari bandara
-- [Oleh-oleh Bali yang nggak boleh dibawa ke Taiwan! Pahami aturan bea cukai Taiwan](https://gobaligo.id/blog/bali-souvenirs-customs-restrictions/)
-- Belanja di supermarket besar: [Panduan peta 30+ supermarket: Grand Lucky, Pepito, Bintang lengkap dengan daftar belanja wajib lokal](https://gobaligo.id/blog/bali-supermarket-guide-map/)
+- [Oleh-oleh Bali yang nggak boleh dibawa ke Taiwan! Pahami aturan bea cukai Taiwan](https://gobaligo.id/id/blog/bali-souvenirs-customs-restrictions/)
+- Belanja di supermarket besar: [Panduan peta 30+ supermarket: Grand Lucky, Pepito, Bintang lengkap dengan daftar belanja wajib lokal](https://gobaligo.id/id/blog/bali-supermarket-guide-map/)
 
 ## Koleksi Oleh-Oleh
 

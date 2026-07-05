@@ -53,7 +53,7 @@ https://youtube.com/shorts/POSTtRPKK5c
 
 Trans Studio Bali sendiri adalah mal besar, dan di lantai atas ada taman bermain indoor super luas dengan tujuh zona tema, punya 23 wahana dan atraksi — main seharian pun nggak bakal bosen! Kalau lagi liburan di Bali terus hujan dan rencana awal gagal, jangan khawatir! Taman hiburan indoor Trans Studio Bali bakal kasih kamu hari yang penuh keseruan dan kegembiraan. Cek video singkat dari Xiaojie di atas ya.
 
-詳細介紹：[【Bali Indoor Spots】Trans Studio Bali 完整攻略：必玩五大設施](https://gobaligo.id/blog/trans-studio-bali/)
+詳細介紹：[【Bali Indoor Spots】Trans Studio Bali 完整攻略：必玩五大設施](https://gobaligo.id/id/blog/trans-studio-bali/)
 
 > [Tiket Diskon Trans Studio](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794706&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99048-trans-studio-bali-ticket%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3D80fb6fdbba)
 
@@ -85,7 +85,7 @@ Mau cari aktivitas seru di Bali yang nggak takut panas, nggak takut hujan, dan p
 
 Ada banyak pilihan game seru di sini: balapan, tembak-tembakan, horor, petualangan, roller coaster, dan lainnya. Peralatannya baru, visualnya immersive banget, cocok buat dewasa maupun anak-anak. Lokasinya di pusat keramaian Kuta, aksesnya gampang, jadi pilihan pas buat sore hari atau pas hujan.
 
-Penjelasan lengkap ada di [sini](/blog/zone-out-bali-vr-adventure/)
+Penjelasan lengkap ada di [sini](/id/blog/zone-out-bali-vr-adventure/)
 
 **Pesan tiket via Klook**: [Klik link ini](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1155611&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F182303-zoneout-ticket-in-kuta-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D609046a554)
 
@@ -99,7 +99,7 @@ Karena Kuta paling banyak turis, tempat belanjanya juga paling banyak! Beberapa 
 - Mal Bali Galeria
 - Trans Studio
 
-Buat yang tertarik, bisa cek artikel ini: [Peta Panduan Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/)—sudah ditandai semua lokasinya, lho!
+Buat yang tertarik, bisa cek artikel ini: [Peta Panduan Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)—sudah ditandai semua lokasinya, lho!
 
 ### Toko Oleh-Oleh
 
@@ -312,7 +312,7 @@ Sukawati Art Market terkenal dengan kerajinan tangan dan barang seni tradisional
 
 Kedua pasar di Ubud ini nggak cuma tempat belanja, tapi juga tempat berteduh yang asyik. Jalan-jalan di dalam pasar pas hujan bikin liburanmu makin seru!
 
-> Baca juga: [Panduan Lengkap 5 Pasar Seni Terbaik di Ubud: Cari Suvenir/Oleh-Oleh, Jelajahi Harta Karun Budaya Bali](/blog/ubud-art-markets-guide/)
+> Baca juga: [Panduan Lengkap 5 Pasar Seni Terbaik di Ubud: Cari Suvenir/Oleh-Oleh, Jelajahi Harta Karun Budaya Bali](/id/blog/ubud-art-markets-guide/)
 
 ### Bali Purma Art & Workshop
 
@@ -324,7 +324,7 @@ Yang paling disukai anak-anak adalah kelas bikin layang-layang tradisional yang 
 
 Bali Purma Art & Workshop [situs resmi](https://linktr.ee/balipurmaartworkshop?utm_source=ig&utm_medium=social&utm_content=link_in_bio)
 
-（🛕🌄🌴Bacaan lanjutan: [Kenali 100 Tempat di Ubud](/blog/ubud-guide/)）
+（🛕🌄🌴Bacaan lanjutan: [Kenali 100 Tempat di Ubud](/id/blog/ubud-guide/)）
 
 ![在峇里島雨天還是可以精彩、有意義喔！](https://images.gobaligo.id/vocus/vocus_4675ee467901a748f9f8e52da585d36c.png)
 
@@ -342,7 +342,7 @@ Hujan di Bali juga bisa seru dan bermakna, lho!
 
 ![AeroXSpace Adventure Indoor Playground](https://images.gobaligo.id/vocus/vocus_4548e46a1c68e1c1f46eb1d22ea3a4f3.jpg)
 
-Dibuka akhir Agustus 2024, "AeroXSpace Adventure" — playground indoor super luas seluas 1000+ meter persegi — bikin orang dewasa dan anak-anak bisa bersenang-senang tanpa batas! Info lengkap dan link tiketnya [di sini](/blog/aeroxspace-sanur-indoor-playground/).
+Dibuka akhir Agustus 2024, "AeroXSpace Adventure" — playground indoor super luas seluas 1000+ meter persegi — bikin orang dewasa dan anak-anak bisa bersenang-senang tanpa batas! Info lengkap dan link tiketnya [di sini](/id/blog/aeroxspace-sanur-indoor-playground/).
 
 ### Kids Soho Playground Indoor Playground
 
@@ -358,13 +358,13 @@ Saat hujan, mampir ke Sanur dan bikin perhiasan perak sendiri bareng pengrajin p
 
 - [Pesan pengalaman membuat perak di Sanur](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F124447-silver-jewelry-making-class-in-sanur%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df1e2fd5ed6)
 
-> ☀️⛱️Baca juga: [Panduan 50+ Tempat Makan, Minum, dan Main di Sanur](/blog/sanur-guide/)
+> ☀️⛱️Baca juga: [Panduan 50+ Tempat Makan, Minum, dan Main di Sanur](/id/blog/sanur-guide/)
 
 ### Clip 'n Climb Panjat Tebing Indoor
 
 ![Clip 'n Climb Panjat Tebing Indoor](https://images.gobaligo.id/vocus/vocus_b8939e59e7c9c142707627c653fa9d12.jpg)
 
-Clip 'n Climb Bali menggabungkan olahraga dan hiburan, jadi destinasi petualangan indoor baru di Bali yang seru banget, baik buat pemula maupun yang udah jago! Info lengkap dan aturan masuk bisa dicek di [sini](/blog/clip-n-climb-sanur-bali/).
+Clip 'n Climb Bali menggabungkan olahraga dan hiburan, jadi destinasi petualangan indoor baru di Bali yang seru banget, baik buat pemula maupun yang udah jago! Info lengkap dan aturan masuk bisa dicek di [sini](/id/blog/clip-n-climb-sanur-bali/).
 
 > [Beli tiket diskon Clip 'n Climb](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1026544&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F150182-clip-n-climb-pass-in-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b7aec2eea)
 
@@ -386,7 +386,7 @@ Pengalaman di Kevala Studio sudah termasuk hasil karyamu, setelah dibakar dan di
 
 Kalau lagi hujan, mending ambil sesi SPA buat relaksasi badan dan pikiran!
 
-Bisa cek referensi kami yang udah dikelompokkan per area di "[Koleksi Rekomendasi SPA Terbaik di Bali](/blog/spa/)", selain ada di setiap daerah wisata utama, kamu juga bisa nikmatin SPA berkualitas tanpa khawatir zonk!
+Bisa cek referensi kami yang udah dikelompokkan per area di "[Koleksi Rekomendasi SPA Terbaik di Bali](/id/blog/spa/)", selain ada di setiap daerah wisata utama, kamu juga bisa nikmatin SPA berkualitas tanpa khawatir zonk!
 
 ## Nikmati Kuliner / Teh Sore
 
@@ -409,13 +409,13 @@ Cek link di bawah ini:
 - [Makan / Teh Sore di D'Tukad Coffee Club Ubud](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1173741&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F120659-d-tukad-coffee-club-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0c044edf49)
 - [Pengalaman Kuliner di The Mulia Resort Nusa Dua](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1173741&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94019-dining-experience-the-mulia-resort-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D70d06cb2ea)
 - [Makan / Teh Sore di The Ritz-Carlton Nusa Dua](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1173741&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94002-the-ritz-carlton-dining-experience-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8d0ca29aa8)
-- [Review Teh Sore Kempinski: Sore Impian di Selasar Deli](/blog/kempinski-selasar-deli-afternoon-tea/)
-- [【Khusus Minggu】Brisa Brunch Alila Villas Uluwatu](/blog/alila-uluwatu-brisa-brunch/)
+- [Review Teh Sore Kempinski: Sore Impian di Selasar Deli](/id/blog/kempinski-selasar-deli-afternoon-tea/)
+- [【Khusus Minggu】Brisa Brunch Alila Villas Uluwatu](/id/blog/alila-uluwatu-brisa-brunch/)
 
 **Referensi Cepat:**
 
-> [Rekomendasi Makanan Terbaik di Kuta | Panduan Kuliner Bali Paling Kece](/blog/kuta-best-food-guide/)
-> [Panduan Kuliner Seminyak | Perpaduan Romantis, Elegan, dan Autentik Bali](/blog/seminyak-restaurants-food-guide/)
+> [Rekomendasi Makanan Terbaik di Kuta | Panduan Kuliner Bali Paling Kece](/id/blog/kuta-best-food-guide/)
+> [Panduan Kuliner Seminyak | Perpaduan Romantis, Elegan, dan Autentik Bali](/id/blog/seminyak-restaurants-food-guide/)
 
 ## Foto Seni Bali di Dalam Ruangan
 
@@ -436,7 +436,7 @@ Meskipun kamu belum punya pengalaman foto, tetap bisa menghasilkan foto seni ber
 - [Pengalaman Fotografi Budaya Bali dengan Rating Tinggi](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1178016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94778-bali-traditional-costume-photoshoot-at-asana-artseum%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7c8cbcdce4)
 - [Pengalaman dan Foto Baju Tradisional Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1178016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F112401-balinese-costume-experience-and-photoshoot-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8dbe5a4f43)
 
-> **Referensi Cepat:** [Panduan Lengkap Fotografi Travel Bali: Panduan Sempurna untuk Foto Perjalanan dan Foto Baju Tradisional](/blog/bali-travel-photography-guide/)
+> **Referensi Cepat:** [Panduan Lengkap Fotografi Travel Bali: Panduan Sempurna untuk Foto Perjalanan dan Foto Baju Tradisional](/id/blog/bali-travel-photography-guide/)
 
 ## Terapi Suara Gong
 
@@ -449,7 +449,7 @@ Klook menawarkan beberapa layanan terapi suara gong yang baru, bikin pengunjung 
 - [Serendipity Sounds Meditation](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1199540&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113155-sound-healing-and-meditation-at-serendipity-sounds-meditation-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcb611fcf25) (Rating Google 5.0⭐⭐⭐⭐⭐)
 - [Ubud Sound Yoga And Energy Healing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1199540&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F171223-ubud-sound-yoga-and-energy-healing-experience%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5dc5342d17)(Rating Google 4.9⭐⭐⭐⭐⭐)
 
-> [Terapi Suara Gong / Meditasi Suara di Ubud](/blog/ubud-sound-healing/)
+> [Terapi Suara Gong / Meditasi Suara di Ubud](/id/blog/ubud-sound-healing/)
 
 {{block:klook}}
 
@@ -463,4 +463,4 @@ Entah untuk menghindari hujan deras atau terik matahari yang menyengat, 60 renca
 
 👈 **Kembali ke Panduan Utama Liburan Mandiri ke Bali**
 
-Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 'Panduan Utama Liburan Mandiri ke Bali 2026'](/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.
+Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 'Panduan Utama Liburan Mandiri ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.

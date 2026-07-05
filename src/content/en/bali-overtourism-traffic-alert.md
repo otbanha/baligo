@@ -25,7 +25,7 @@ Update: 2026/07/03
 - South Bali (Kuta, Seminyak, Canggu, Jimbaran, Uluwatu, Nusa Dua, Sanur) has been designated as an overtourism hotspot, with severe traffic congestion during peak seasons.
 - Starting September 2024, construction of the Bali airport rail link will begin, **exacerbating traffic congestion in the Kuta and Seminyak areas**.
 - Officials plan to divert tourists to northern, western, and eastern regions.
-- Practical tips: Avoid peak periods like Christmas and New Year, allow at least double the usual travel time to and from the airport, and check out [Five Tips for Avoiding Peak Season in Bali](/blog/bali-peak-season-travel-tips/).
+- Practical tips: Avoid peak periods like Christmas and New Year, allow at least double the usual travel time to and from the airport, and check out [Five Tips for Avoiding Peak Season in Bali](/en/blog/bali-peak-season-travel-tips/).
 
 Bali continues to draw attention for its overtourism issues, especially in South Bali, where overcrowding from too many visitors has become severe. Since 2023, the World Travel & Tourism Council has listed Bali as a top overtourism destination, alongside Athens, Paris, and Phuket.
 
@@ -35,10 +35,10 @@ South Bali is already suffering from overtourism!
 
 In early 2024, Bali made headlines again when severe traffic jams on the road to Ngurah Rai International Airport forced foreign and local travelers to abandon their vehicles and walk to the airport (the Christmas and New Year holiday period ranked as the second busiest for crowds and traffic in Bali. Here’s a short video showing the situation: [Traffic on the airport highway on 2023/12/29](https://www.facebook.com/groups/indonesia.travelguide/permalink/3579975912271532/)). Indonesian Tourism Minister Sandiaga Uno acknowledged that South Bali has too many tourists and plans to divert visitors to northern, western, and eastern regions to ease the pressure, with measures to be announced in September.
 
-> Further reading: [Bali Actually Has Five Peak Seasons! How to Travel Smart and Avoid the Crowds?](/blog/bali-peak-season-travel-tips/)
+> Further reading: [Bali Actually Has Five Peak Seasons! How to Travel Smart and Avoid the Crowds?](/en/blog/bali-peak-season-travel-tips/)
 
 ![峇里島南部包含西岸的長谷、水明漾、庫塔、金巴蘭、烏魯瓦圖；和東岸的努沙杜瓦、沙努爾。](https://images.gobaligo.id/vocus/vocus_116100a5cd534e0ae2d1707ef11bbe1f.png)
 
 South Bali includes the west coast areas of Canggu, Seminyak, Kuta, Jimbaran, and Uluwatu, as well as the east coast areas of Nusa Dua and Sanur.
 
-Additionally, construction of the Bali airport rail link will begin this September (see [【Bali Transportation Improvement Plan Part 1】Bali Light Rail to Start Construction in September](/blog/bali-lrt-construction-update/)), and authorities have warned that severe traffic congestion is likely in the Kuta and Seminyak areas.
+Additionally, construction of the Bali airport rail link will begin this September (see [【Bali Transportation Improvement Plan Part 1】Bali Light Rail to Start Construction in September](/en/blog/bali-lrt-construction-update/)), and authorities have warned that severe traffic congestion is likely in the Kuta and Seminyak areas.

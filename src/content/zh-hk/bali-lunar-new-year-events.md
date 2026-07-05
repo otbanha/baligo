@@ -112,7 +112,7 @@ _srcHash: d7f3fde71789dc874d2ad9b686c30f9c
 - - 日期：即日起至2025年2月24日
   - 活動：新春優惠套餐
   - 價格：IDR 400,000未稅/人
-  - 聯絡：請洽[這裡](/blog/mr-lobster-seafood-bali/)
+  - 聯絡：請洽[這裡](/zh-hk/blog/mr-lobster-seafood-bali/)
 
 ### 水明漾
 
@@ -215,7 +215,7 @@ _srcHash: d7f3fde71789dc874d2ad9b686c30f9c
 
 **快速參考：**
 
-[農曆新年峇里島家庭旅遊攻略：春節嘅機票、簽證、交通、景點、注意事項全攻略](/blog/2026-bali-lunar-new-year-guide/)
+[農曆新年峇里島家庭旅遊攻略：春節嘅機票、簽證、交通、景點、注意事項全攻略](/zh-hk/blog/2026-bali-lunar-new-year-guide/)
 
 ## 📩 **立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！**
 

@@ -44,7 +44,7 @@ Taman Dedari adalah destinasi yang lagi hits di Ubud, terkenal dengan patung bid
 
 Di dalamnya ada banyak spot foto yang estetik banget, kamu bisa puas berfoto-foto di sini!
 
-[Info Lengkap Taman Dedari](/blog/taman-dedari-ubud-food-scenery/)
+[Info Lengkap Taman Dedari](/id/blog/taman-dedari-ubud-food-scenery/)
 
 > [Tiket Masuk, Afternoon Tea, dan Pengalaman Makan di Kolam Renang Taman Dedari](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F93907-taman-dedari-ubud-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D18eb8d34de)
 
@@ -76,7 +76,7 @@ Omma Dayclub nawarin berbagai paket, biar kamu bisa nikmatin makanan dan minuman
 
 https://youtube.com/shorts/MmqfkXw211k
 
-> [Pengenalan & Website Resmi Omma Dayclub](/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+> [Pengenalan & Website Resmi Omma Dayclub](/id/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 > [Tiket Diskon Omma Day Club](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1209001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F100356-omma-dayclub-day-pass-ubud-sukawati-gianyar-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D022b469388)
 
@@ -94,7 +94,7 @@ Wanna Jungle Pool & Bar adalah day club di Ubud yang terkenal dengan kolam renan
 
 Cretya Ubud adalah day club mewah di kawasan Ubud, dengan kolam renang tiga lantai yang super khas. Tempat ini ada di dalam Alas Harum yang udah disebut sebelumnya, menghadap ke sawah yang hijau banget, dengan pemandangan yang spektakuler.
 
-Cretya Ubud buka setiap hari dari jam 8 pagi sampai 9 malam. Cek juga panduan lengkapnya di «[Panduan Budget Cretya Ubud & Alas Harum](/blog/cretya-ubud-alas-harum-budget-guide/)».
+Cretya Ubud buka setiap hari dari jam 8 pagi sampai 9 malam. Cek juga panduan lengkapnya di «[Panduan Budget Cretya Ubud & Alas Harum](/id/blog/cretya-ubud-alas-harum-budget-guide/)».
 
 > [Paket Wisata](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89567-ubud-jungle-club-mount-batur-jeep-waterfall-tour-land-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2f260216ee)
 
@@ -228,7 +228,7 @@ Di Terracotta, kamu bisa kabur dari hiruk-pikuk dan masuk ke dunia yang tenang d
 
 Setelah sukses besar dengan Cretya Ubud yang menyajikan pemandangan sawah terasering Tegallalang, grup Alas Harum kembali meluncurkan karya terbaru—Cretya Sunset by Alas Harum, Ubud. Day club dan restoran di Ubud ini menggabungkan kemewahan, alam, dan hiburan, punya infinity pool, area santai yang stylish, serta desain perpaduan modern dan nuansa Bali. Kamu bisa menikmati makanan enak dan cocktail sambil tenggelam dalam pemandangan sunset dan sawah terasering yang memukau.
 
-Cretya Sunset terletak di tengah sawah hijau Ubud yang asri, posisinya menghadap ke barat bikin tempat ini jadi spot terbaik buat lihat matahari terbenam. Setiap sore, ditemani musik DJ live, kamu bisa bersantai di sini, merasakan pesona alam dan budaya Bali. Mau menikmati pemandangan dengan tenang atau ikut suasana ramai, tempat ini wajib banget masuk bucket list. Info selengkapnya ada di [sini](/blog/cretya-sunset-ubud-paradise/).
+Cretya Sunset terletak di tengah sawah hijau Ubud yang asri, posisinya menghadap ke barat bikin tempat ini jadi spot terbaik buat lihat matahari terbenam. Setiap sore, ditemani musik DJ live, kamu bisa bersantai di sini, merasakan pesona alam dan budaya Bali. Mau menikmati pemandangan dengan tenang atau ikut suasana ramai, tempat ini wajib banget masuk bucket list. Info selengkapnya ada di [sini](/id/blog/cretya-sunset-ubud-paradise/).
 
 > Cretya Sunset ▶[Kupon Klook Rp.125,000](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989669&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F78117-ubudsunset-pass-poolbar-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D09b568e351)
 
@@ -270,7 +270,7 @@ Ini bukan cuma surga kuliner, tapi juga ruang seni alam yang imersif. Stafnya ra
 
 Di tengah sungai ikan koi yang tenang di resort Kamandalu, nikmati pengalaman makan di atas perahu yang unik bareng pasangan. Kalian berdua naik perahu kayu tradisional, dikelilingi taman tropis hijau, dan ikan koi warna-warni berenang di air jernih — menciptakan pemandangan romantis yang super indah. Koki resort menyiapkan paket makan malam bintang lima yang mewah, pakai bahan segar musiman, campuran rasa tradisional Indonesia dan teknik internasional, plus sparkling wine dan minuman spesial — bikin lidah dan mata puas barengan.
 
-Tim fotografer profesional bakal abadikan momen berharga ini, jadi kamu nggak perlu repot pose — ekspresi bahagia alami kalian bakal jadi kenangan abadi. Mau bulan madu, anniversary, atau sekadar kasi kejutan buat pasangan, pengalaman 60 menit yang kayak mimpi ini bakal jadi kenangan paling berkilau di perjalanan Bali-mu. Ada [info lebih lanjut di sini](/blog/kamandalu-ubud-koi-river-dining/).
+Tim fotografer profesional bakal abadikan momen berharga ini, jadi kamu nggak perlu repot pose — ekspresi bahagia alami kalian bakal jadi kenangan abadi. Mau bulan madu, anniversary, atau sekadar kasi kejutan buat pasangan, pengalaman 60 menit yang kayak mimpi ini bakal jadi kenangan paling berkilau di perjalanan Bali-mu. Ada [info lebih lanjut di sini](/id/blog/kamandalu-ubud-koi-river-dining/).
 
 > [Diskon Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1061065&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F136296-dining-experience-at-kamandalu-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Debd9e9bd14)
 
@@ -336,7 +336,7 @@ Kuliner di Ubud tuh seru banget, nggak cuma masakan tradisional Indonesia asli, 
 
 ![品味美味且經濟實惠的當地美食](https://images.gobaligo.id/vocus/vocus_4182aca9b5cf1fe4d85278c159021273.jpg)
 
-Ke Bali, wajib banget cobain makanan lokal! Terus, apa aja sih makanan khas Bali? Cek aja artikel '**[10 Makanan Khas Bali yang Wajib Dicoba](/blog/bali-travel-tips/)**' dari Xiao Jie, ini bakal jadi petualangan kuliner yang seru.
+Ke Bali, wajib banget cobain makanan lokal! Terus, apa aja sih makanan khas Bali? Cek aja artikel '**[10 Makanan Khas Bali yang Wajib Dicoba](/id/blog/bali-travel-tips/)**' dari Xiao Jie, ini bakal jadi petualangan kuliner yang seru.
 
 ***
 
@@ -344,5 +344,5 @@ Ke Bali, wajib banget cobain makanan lokal! Terus, apa aja sih makanan khas Bali
 
 ## Bonus
 
-- [Rekomendasi Kuliner Kuta｜Panduan Kuliner Terbaik di Bali](/blog/kuta-best-food-guide/)
-- [Panduan Kuliner Seminyak｜Perpaduan Sempurna Romantis, Elegan, dan Khas Bali](/blog/seminyak-restaurants-food-guide/)
+- [Rekomendasi Kuliner Kuta｜Panduan Kuliner Terbaik di Bali](/id/blog/kuta-best-food-guide/)
+- [Panduan Kuliner Seminyak｜Perpaduan Sempurna Romantis, Elegan, dan Khas Bali](/id/blog/seminyak-restaurants-food-guide/)

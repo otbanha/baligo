@@ -87,24 +87,24 @@ _srcHash: 72cf006c01f0003242328bde6bdc2647
 
 ##### 延伸阅读：
 
-- [全世界旅行者最爱! 巴厘岛封王](/blog/bali-tripadvisor-award-2025-2/)
-- [【2025年亚洲第一旅游目的地】巴厘岛在TripAdvisor 2025旅行者之选大奖中大放异彩](/blog/bali-tripadvisor-award-2025/)
+- [全世界旅行者最爱! 巴厘岛封王](/zh-cn/blog/bali-tripadvisor-award-2025-2/)
+- [【2025年亚洲第一旅游目的地】巴厘岛在TripAdvisor 2025旅行者之选大奖中大放异彩](/zh-cn/blog/bali-tripadvisor-award-2025/)
 
 随着媒体曝光度的增加，巴厘岛的旅游需求也持续攀升。2025年，该地预计将接待超过**650万名国际旅客**，以及数百万名国内游客，持续刷新旅游纪录。
 
 ## **探索巴厘岛的隐秘宝藏：新兴旅游热点**
 
-虽然巴厘岛的主流旅游区如**库塔（**[**Kuta的介绍与攻略**](/blog/2023-12-13-657598bdfd8978000120fe20/)**_）_、_水明漾（_**[**Seminyak的介绍与攻略**](/blog/seminyak-guide/)**_）_、_努沙杜瓦（_**[**Nusa Dua的介绍与攻略**](/blog/nusa-dua-guide/)）和**乌布（**[**Ubud的介绍与攻略**](/blog/ubud-guide/)**）**等地仍然深受旅客喜爱，但越来越多回访的游客选择探索较少人知的隐秘景点，以更深入地了解巴厘岛文化并避开人潮。
+虽然巴厘岛的主流旅游区如**库塔（**[**Kuta的介绍与攻略**](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)**_）_、_水明漾（_**[**Seminyak的介绍与攻略**](/zh-cn/blog/seminyak-guide/)**_）_、_努沙杜瓦（_**[**Nusa Dua的介绍与攻略**](/zh-cn/blog/nusa-dua-guide/)）和**乌布（**[**Ubud的介绍与攻略**](/zh-cn/blog/ubud-guide/)**）**等地仍然深受旅客喜爱，但越来越多回访的游客选择探索较少人知的隐秘景点，以更深入地了解巴厘岛文化并避开人潮。
 
 2026年，以下地区预计将成为新兴热门目的地：
 
 - **_东巴厘_：_Karangasem_、静谧的_Candidasa_、潜水天堂_Amed_**
 
-> 延伸阅读：[Amed/Tulamben攻略](/blog/amed-tulamben-diving-guide/)
+> 延伸阅读：[Amed/Tulamben攻略](/zh-cn/blog/amed-tulamben-diving-guide/)
 
 - **_北巴厘_：海豚之乡_罗威纳Lovina_、自然秘境_Pemuteran_**
 
-> 延伸阅读：[巴厘岛自由行注意事项：15个前往巴厘岛北部旅游的小贴士](/blog/north-bali-travel-guide/)
+> 延伸阅读：[巴厘岛自由行注意事项：15个前往巴厘岛北部旅游的小贴士](/zh-cn/blog/north-bali-travel-guide/)
 
 - **_西巴厘_：冲浪胜地_Medewi_、壮丽的_West Bali National Park_**
 

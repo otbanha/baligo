@@ -35,7 +35,7 @@ Bali is a globally renowned hub for art, where the creative works of local artis
 
 Travelers often stumble upon precious souvenirs unexpectedly, but for a more focused shopping experience, consider visiting these famous art markets:
 
-- [Recommended Guide to Ubud's Top Five Art Markets: Buying Souvenirs/Gifts and Discovering Bali's Cultural Treasures](/blog/ubud-art-markets-guide/)
+- [Recommended Guide to Ubud's Top Five Art Markets: Buying Souvenirs/Gifts and Discovering Bali's Cultural Treasures](/en/blog/ubud-art-markets-guide/)
 
 These markets not only offer reasonable prices but also feature many unique handmade items, perfect for gifts or personal use.
 
@@ -89,7 +89,7 @@ The most popular souvenirs in Bali include sarongs, wood carvings, batik fabrics
 
 **Where can I find high-quality Balinese souvenirs?**
 
-[Ubud's Top Five Art Markets](/blog/ubud-art-markets-guide/) are the best places, offering a wide variety of unique items.
+[Ubud's Top Five Art Markets](/en/blog/ubud-art-markets-guide/) are the best places, offering a wide variety of unique items.
 
 **What is the cultural significance of Batik?**
 
@@ -105,4 +105,4 @@ A sarong can be used as a beach towel, shawl, tablecloth, baby carrier, or even 
 
 **Looking for snack souvenirs?**
 
-Check out this [Recommended by Netizens] Comprehensive Guide to Over 20 Bali Souvenirs Across 6 Categories: Perfect Choices to Preserve Precious Memories](/blog/bali-souvenirs-gift-guide/).
+Check out this [Recommended by Netizens] Comprehensive Guide to Over 20 Bali Souvenirs Across 6 Categories: Perfect Choices to Preserve Precious Memories](/en/blog/bali-souvenirs-gift-guide/).

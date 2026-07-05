@@ -23,8 +23,8 @@ Nusa Lembongan dan Nusa Ceningan adalah dua pulau hidden gem di dekat Bali, puny
 
 Ini bagian kedua dari panduan Nusa Lembongan / Nusa Ceningan. Mau tahu apa aja tempat wisata dan rekomendasi penginapan di sana? Cek panduan lengkap kami:
 
-- [【Panduan Nusa Lembongan #1】Wisata](/blog/nusa-lembongan-ceningan-guide/)
-- [【Panduan Nusa Lembongan #3】Akomodasi Terbaik](/blog/nusa-lembongan-ceningan-accommodation-guide/)
+- [【Panduan Nusa Lembongan #1】Wisata](/id/blog/nusa-lembongan-ceningan-guide/)
+- [【Panduan Nusa Lembongan #3】Akomodasi Terbaik](/id/blog/nusa-lembongan-ceningan-accommodation-guide/)
 
 ***
 
@@ -292,6 +292,6 @@ Entah kamu datang buat santai-santai atau hunting kuliner, restoran dan bar di N
 
 **Ini bagian kedua dari panduan Nusa Lembongan & Nusa Ceningan, jangan lupa cek juga bagian pertamanya ya:**
 
-- [【Panduan Nusa Lembongan Bagian 1】Jelajah Spot Wisata](/blog/nusa-lembongan-ceningan-guide/)
+- [【Panduan Nusa Lembongan Bagian 1】Jelajah Spot Wisata](/id/blog/nusa-lembongan-ceningan-guide/)
 
 {{block:klook}}

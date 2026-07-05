@@ -78,9 +78,9 @@ Beyond the stunning scenery and exquisite cuisine, the Radisson Blu Bali Uluwatu
 
 The Radisson Blu Bali Uluwatu is approximately **60 minutes by car** from Bali Airport, and the hotel provides airport transfer services to make your journey more convenient. Additionally, the hotel offers free parking for guests arriving by car.
 
-The hotel is surrounded by many famous landmarks and attractions, allowing you to fully explore this beautiful island. First, the [**Uluwatu Temple**](/blog/uluwatu-temple-travel-guide/) is nearby, an ancient and sacred temple that is part of Balinese culture. Here, you can experience the local religious atmosphere and admire traditional architecture and artwork.
+The hotel is surrounded by many famous landmarks and attractions, allowing you to fully explore this beautiful island. First, the [**Uluwatu Temple**](/en/blog/uluwatu-temple-travel-guide/) is nearby, an ancient and sacred temple that is part of Balinese culture. Here, you can experience the local religious atmosphere and admire traditional architecture and artwork.
 
-Besides Uluwatu Temple, the Radisson Blu Bali Uluwatu is also close to many beautiful beaches. [**Pandawa Beach**](/blog/pandawa-beach-traffic-policy/) and [**Padang Padang Beach**](/blog/bali-hidden-beaches-guide/) are two very popular beaches with clear waters and soft sands. Here, you can enjoy the sun, surf, or simply relax. These beaches are renowned for their stunning scenery and romantic ambiance.
+Besides Uluwatu Temple, the Radisson Blu Bali Uluwatu is also close to many beautiful beaches. [**Pandawa Beach**](/en/blog/pandawa-beach-traffic-policy/) and [**Padang Padang Beach**](/en/blog/bali-hidden-beaches-guide/) are two very popular beaches with clear waters and soft sands. Here, you can enjoy the sun, surf, or simply relax. These beaches are renowned for their stunning scenery and romantic ambiance.
 
 ### **Conclusion**
 
@@ -122,15 +122,15 @@ My spa experience here was undoubtedly one of the best massages of my life—rel
 
 ![烏魯瓦圖吃喝玩樂推薦](https://images.gobaligo.id/vocus/vocus_b87d214b48bfe1cb8c5a45f688955404.jpg)
 
-[Uluwatu Dining and Activity Guide](/blog/uluwatu-guide/)
+[Uluwatu Dining and Activity Guide](/en/blog/uluwatu-guide/)
 
 Uluwatu is one of the most popular areas in southern Bali, renowned for its stunning cliffside views, enchanting beaches, and excellent surf spots. Filled with a romantic tropical vacation vibe, it's the perfect choice for enjoying sunset views and relaxing moments.
 
-If you're also considering staying in Uluwatu, check out our carefully curated guide to dining, activities, and entertainment to make your trip even more enriching and fun: [Uluwatu Guide: 50 Recommendations for Dining, Activities, and Entertainment](/blog/uluwatu-guide/)
+If you're also considering staying in Uluwatu, check out our carefully curated guide to dining, activities, and entertainment to make your trip even more enriching and fun: [Uluwatu Guide: 50 Recommendations for Dining, Activities, and Entertainment](/en/blog/uluwatu-guide/)
 
 ## Other Uluwatu Accommodation Recommendations:
 
-- [Uluwatu Accommodation Recommendations: 13 Private Villas and Resorts with Breathtaking Ocean Views](/blog/uluwatu-bali-villas-resorts-guide/)
-- [A Vacation Experience Beyond Imagination: Complete Guide to Bali's Private Jet Villa](/blog/bali-private-jet-villa-guide/)
-- [Alila Villas Uluwatu｜One of the World's Top Infinity Pools✧Celebrity Wedding Destination](/blog/alila-villas-uluwatu-bali/)
-- [In-Depth Review of Renaissance Bali Uluwatu Resort & Family-Friendly Highlights](/blog/renaissance-bali-uluwatu-resort/)
+- [Uluwatu Accommodation Recommendations: 13 Private Villas and Resorts with Breathtaking Ocean Views](/en/blog/uluwatu-bali-villas-resorts-guide/)
+- [A Vacation Experience Beyond Imagination: Complete Guide to Bali's Private Jet Villa](/en/blog/bali-private-jet-villa-guide/)
+- [Alila Villas Uluwatu｜One of the World's Top Infinity Pools✧Celebrity Wedding Destination](/en/blog/alila-villas-uluwatu-bali/)
+- [In-Depth Review of Renaissance Bali Uluwatu Resort & Family-Friendly Highlights](/en/blog/renaissance-bali-uluwatu-resort/)

@@ -32,20 +32,20 @@ Update: 2026/07/03
 参考我们的玩乐攻略，把交通/塞车的时间降到最低，您的巴厘岛之旅，硬是玩得比别人多，比别人充实喔！！
 
 1. 先根据我们的建议，选择住宿/活动的区域
-2. 若您对各个区域不是很了解，可以参考[这里的解说](/blog/2023-12-29-65839fbafd89780001e876b5/)
+2. 若您对各个区域不是很了解，可以参考[这里的解说](/zh-cn/blog/2023-12-29-65839fbafd89780001e876b5/)
 3. 遇到有【方案一】、【方案二】的选择，可择一方案；或是「小孩子才做选择，我全都要」！
 4. 在选定的区域参考我们提供的攻略，攻略里都有详细的地图，帮您找到感兴趣的景点
 5. 预订攻略里头的景点行程票券
-6. [善用App叫车](/blog/gojek-bali-guide/)，轻松在区域内游玩
+6. [善用App叫车](/zh-cn/blog/gojek-bali-guide/)，轻松在区域内游玩
 7. 山区或跨区的日子联络包车司机载你沿路四处玩
 
-> 延伸阅读：[巴厘岛包车自由行全攻略 - 费用、预订方式、优势分析](/blog/bali-private-car-hire-guide/)
+> 延伸阅读：[巴厘岛包车自由行全攻略 - 费用、预订方式、优势分析](/zh-cn/blog/bali-private-car-hire-guide/)
 
-> 延伸阅读：[巴厘岛旅游中文司机/中文导游/中文包车行程推荐](/blog/bali-chinese-tour-guide/)
+> 延伸阅读：[巴厘岛旅游中文司机/中文导游/中文包车行程推荐](/zh-cn/blog/bali-chinese-tour-guide/)
 
-> 延伸阅读：[巴厘岛什么时候包车？什么场合叫车？包车 vs. 叫车：如何选择最适合你的旅行方式？](/blog/bali-transportation-guide-car-rental/)
+> 延伸阅读：[巴厘岛什么时候包车？什么场合叫车？包车 vs. 叫车：如何选择最适合你的旅行方式？](/zh-cn/blog/bali-transportation-guide-car-rental/)
 
-如果您是第一次前来巴厘岛，您可以先看看「[巴厘岛旅游注意事项：第一次去巴厘岛必看的31项旅游攻略](/blog/bali-ultimate-guide-2026/)」。这份攻略将可以帮助您规划一次完美的巴厘岛之旅！
+如果您是第一次前来巴厘岛，您可以先看看「[巴厘岛旅游注意事项：第一次去巴厘岛必看的31项旅游攻略](/zh-cn/blog/bali-ultimate-guide-2026/)」。这份攻略将可以帮助您规划一次完美的巴厘岛之旅！
 
 ![峇里島熱門旅遊區域地圖，歡迎取用，【點此下載】](https://images.gobaligo.id/vocus/vocus_1d33298e43fb9fae8a74cdcbf67c0cb1.png)
 
@@ -59,45 +59,45 @@ Update: 2026/07/03
 
 - 离机场大约40~60分钟的水明漾地区。这是巴厘岛的时尚和高级区域。
 - 入住Seminyak的时尚酒店或私人别墅，享受奢华的住宿体验。
-- 探索Seminyak的时尚精品店和高档餐厅，品尝[本地不容错过的传统美食](/blog/bali-top-10-foods/)和世界各地的美食。
+- 探索Seminyak的时尚精品店和高档餐厅，品尝[本地不容错过的传统美食](/zh-cn/blog/bali-top-10-foods/)和世界各地的美食。
 - 前往Seminyak海滩，欣赏日落美景，这里是巴厘岛最著名的观日落地點之一。
 - 想看看水明漾的样子 >>[请参考小杰视频的介绍](https://youtu.be/uFv_4Wr6YsI?si=EBJL09xoRoIQJfyD&t=181)
 
 ![水明漾景點、餐廳、住宿推薦](https://images.gobaligo.id/vocus/vocus_8f508d63f2f8c7b20d561c92e7cdb801.jpg)
 
-[水明漾景点、餐厅、住宿推荐](/blog/seminyak-guide/)
+[水明漾景点、餐厅、住宿推荐](/zh-cn/blog/seminyak-guide/)
 
-水明漾有什么有趣的景点吗？要怎么逛？去哪里吃饭？住在哪里？请看：[水明漾Seminyak巴厘岛必去地点地图：100个吃喝玩乐全面介绍｜2025最佳旅游指南](/blog/seminyak-guide/)
+水明漾有什么有趣的景点吗？要怎么逛？去哪里吃饭？住在哪里？请看：[水明漾Seminyak巴厘岛必去地点地图：100个吃喝玩乐全面介绍｜2025最佳旅游指南](/zh-cn/blog/seminyak-guide/)
 
 找住宿：
 
-> [10间水明漾精华区平价住宿好评推荐！](/blog/seminyak-budget-hotels-guide/)
+> [10间水明漾精华区平价住宿好评推荐！](/zh-cn/blog/seminyak-budget-hotels-guide/)
 
-> [水明漾的滨海精致主题住宿指南](/blog/seminyak-beach-resorts-guide/)
+> [水明漾的滨海精致主题住宿指南](/zh-cn/blog/seminyak-beach-resorts-guide/)
 
-> [【水明漾】不超过100美元的平价巴厘岛villa推荐](/blog/seminyak-budget-villas-guide/)
+> [【水明漾】不超过100美元的平价巴厘岛villa推荐](/zh-cn/blog/seminyak-budget-villas-guide/)
 
-> [水明漾villa 21间令人惊艳的巴厘岛秘密花园](/blog/2024-04-04-660e6e92fd89780001e6047e/)
+> [水明漾villa 21间令人惊艳的巴厘岛秘密花园](/zh-cn/blog/2024-04-04-660e6e92fd89780001e6047e/)
 
 ### 方案二：坎古
 
 - 从机场到坎古需时50～70分钟。现在Jl. Pantai Berawa两个T字路口的交通死结已经解开，新加入了【New Canggu Shortcut】，拥堵现象已经得到一些缓解。
 - 穿梭于这个巴厘岛上最多外国人的地方。坎古地区融合了异国风情和巴厘岛的传统，带给您独特的旅行体验。
 - 您可以探索多个各有风情的海滩俱乐部，感受阳光沙滩与海浪的美妙结合。无论是悠闲享受日光浴还是挑战刺激的冲浪，坎古的海滩都能满足您的需求。
-- 坎古地区还拥有许多波西米亚风情的餐厅，提供各种口味的美食，从地道的[巴厘岛料理](/blog/bali-top-10-foods/)到国际美食应有尽有。尽情享受美食之旅。
+- 坎古地区还拥有许多波西米亚风情的餐厅，提供各种口味的美食，从地道的[巴厘岛料理](/zh-cn/blog/bali-top-10-foods/)到国际美食应有尽有。尽情享受美食之旅。
 - 坎古独特风格吸引世界游客。想看看坎古景点的样子 >>[请参考小杰视频的介绍](https://youtu.be/uFv_4Wr6YsI?si=JqgwwyGqWFL2BQgD&t=318)
 
 ![很多人很喜歡長谷的氛圍，不要錯過峇里島上的這一個特殊地方](https://images.gobaligo.id/vocus/vocus_ec95b2ef12d730465f3dfa13b07341f6.jpg)
 
-[很多人很喜欢坎古的氛围，不要错过巴厘岛上的这一个特殊地方](/blog/canggu-guide/)
+[很多人很喜欢坎古的氛围，不要错过巴厘岛上的这一个特殊地方](/zh-cn/blog/canggu-guide/)
 
-坎古有什么必访景点？美食/咖啡厅的介绍？购物的好地点推荐？去哪里做SPA？如何在坎古玩乐两天？请看：[巴厘岛Canggu完美探险地图：50个坎古必游景点｜2024指南](/blog/canggu-guide/)
+坎古有什么必访景点？美食/咖啡厅的介绍？购物的好地点推荐？去哪里做SPA？如何在坎古玩乐两天？请看：[巴厘岛Canggu完美探险地图：50个坎古必游景点｜2024指南](/zh-cn/blog/canggu-guide/)
 
 找住宿：
 
-[> [Canggu Top 14 你不能错过的住宿推荐](/blog/canggu-top-hotels-guide/)
+[> [Canggu Top 14 你不能错过的住宿推荐](/zh-cn/blog/canggu-top-hotels-guide/)
 
-[> [坎古区16间私人泳池别墅推荐 Canggu Villa 你不能错过的巴厘岛别墅](/blog/canggu-villas-guide/)
+[> [坎古区16间私人泳池别墅推荐 Canggu Villa 你不能错过的巴厘岛别墅](/zh-cn/blog/canggu-villas-guide/)
 
 ## 第三天至第四天：沙努尔（Sanur）或佩尼达岛（Nusa Penida）
 
@@ -115,11 +115,11 @@ Update: 2026/07/03
 
 ![適合家庭度假的沙努爾攻略](https://images.gobaligo.id/vocus/vocus_f70927bb4b24c69685305c623a8b4f7e.jpg)
 
-[适合家庭度假的沙努尔攻略](/blog/sanur-guide/)
+[适合家庭度假的沙努尔攻略](/zh-cn/blog/sanur-guide/)
 
 沙努尔是一个超适合家庭亲子度假的胜地，最适合爸爸妈妈悠闲带小孩，小朋友有玩到、爸妈有轻松到的巴厘岛瑰宝。
 
-想了解沙努尔的吃喝玩乐、带小孩攻略，请参考【[巴厘岛沙努尔攻略地图｜45项吃喝玩乐，还有SPA和住宿推荐喔！](/blog/sanur-guide/)】让大家认识沙努尔的全貌喔！
+想了解沙努尔的吃喝玩乐、带小孩攻略，请参考【[巴厘岛沙努尔攻略地图｜45项吃喝玩乐，还有SPA和住宿推荐喔！](/zh-cn/blog/sanur-guide/)】让大家认识沙努尔的全貌喔！
 
 ### 方案二：佩尼达岛
 
@@ -130,25 +130,25 @@ Update: 2026/07/03
 
 ![【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](https://images.gobaligo.id/vocus/vocus_7be3a947a82ef5a92081381623d0f4d8.jpg)
 
-[【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)
+[【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/zh-cn/blog/nusa-penida-guide/)
 
 我们已经制作了五集的佩尼达岛攻略喔！请看下面链接深入了解：
 
-> [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)
+> [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/zh-cn/blog/nusa-penida-guide/)
 
-> [佩尼达岛美食和碧海蓝天：Nusa Penida的Top 9绝佳选择](/blog/nusa-penida-best-restaurants/)
+> [佩尼达岛美食和碧海蓝天：Nusa Penida的Top 9绝佳选择](/zh-cn/blog/nusa-penida-best-restaurants/)
 
-> [Nusa Penida 努沙佩尼达岛的浮潜点介绍，如何参加浮潜？](/blog/nusa-penida-snorkeling-guide/)
+> [Nusa Penida 努沙佩尼达岛的浮潜点介绍，如何参加浮潜？](/zh-cn/blog/nusa-penida-snorkeling-guide/)
 
-> [Nusa Penida佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/blog/nusa-penida-transport-guide/)
+> [Nusa Penida佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/zh-cn/blog/nusa-penida-transport-guide/)
 
-> [佩尼达岛的住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/blog/nusa-penida-hotels-guide/)
+> [佩尼达岛的住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/zh-cn/blog/nusa-penida-hotels-guide/)
 
 ## **第五天至第六天：乌布 (Ubud)**
 
 距离沙努尔大约一个小时的车程，来到巴厘岛最有名的山城乌布。
 
-- 前往乌布之前可以稍微绕一下，到「[巴厘岛最大的艺术批发市场](/blog/kumbasari-art-market-shopping/)」逛逛。
+- 前往乌布之前可以稍微绕一下，到「[巴厘岛最大的艺术批发市场](/zh-cn/blog/kumbasari-art-market-shopping/)」逛逛。
 - 乌布是巴厘岛以前王国的首都乌布，这是巴厘岛文化和艺术的中心。
 - 乌布是巴厘岛最具特殊人文艺术气息的地方。
 - 入住乌布的度假别墅或精品酒店，感受乌布独特的氛围和风情。
@@ -158,19 +158,19 @@ Update: 2026/07/03
 
 ![沒有【方案二】！烏布是你必來的地方！](https://images.gobaligo.id/vocus/vocus_af332254f6aa2972222f23e596abfdae.jpg)
 
-[没有【方案二】！乌布是你必来的地方！](/blog/ubud-guide/)
+[没有【方案二】！乌布是你必来的地方！](/zh-cn/blog/ubud-guide/)
 
-乌布有什么特别之处？有什么特殊的景点？参加乌布的泛舟/漂流河/ATV等活动？参加当地一日游？请看：[2026巴厘岛乌布完整攻略：100种深入认识乌布的方式｜探索乌布的魅力](/blog/ubud-guide/)
+乌布有什么特别之处？有什么特殊的景点？参加乌布的泛舟/漂流河/ATV等活动？参加当地一日游？请看：[2026巴厘岛乌布完整攻略：100种深入认识乌布的方式｜探索乌布的魅力](/zh-cn/blog/ubud-guide/)
 
-此外，带小朋友亲子游的人不要错过：[乌布53项亲子活动带小朋友最轻松！](/blog/ubud-with-kids-guide/)
+此外，带小朋友亲子游的人不要错过：[乌布53项亲子活动带小朋友最轻松！](/zh-cn/blog/ubud-with-kids-guide/)
 
 **找住宿：**
 
 > 乌布的住宿推荐请看：
 
-- [【巴厘岛乌布住宿】乌布30+家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/blog/ubud-villas-pool-guide/)
-- [探索乌布10+家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)
-- [乌布20+令人惊艳的巴厘岛villa](/blog/ubud-villa-pool-guide/)
+- [【巴厘岛乌布住宿】乌布30+家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/zh-cn/blog/ubud-villas-pool-guide/)
+- [探索乌布10+家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/zh-cn/blog/ubud-treehouse-bamboo-villa-stays/)
+- [乌布20+令人惊艳的巴厘岛villa](/zh-cn/blog/ubud-villa-pool-guide/)
 
 ## **第七天至第八天：库塔（Kuta）或金巴兰（Jimbaran）**
 
@@ -180,42 +180,42 @@ Update: 2026/07/03
 
 - 库塔区是巴厘岛最繁华的商业区之一，拥有各种各样的商店、市集和购物中心。您可以在这里购买到巴厘岛的精美工艺品、服装、珠宝首饰等各式商品。
 - Kuta海滩是巴厘岛最著名的海滩之一，以其金黄色的细沙和壮观的海浪闻名。这里是冲浪者的天堂，也是游客享受日光浴和观赏日落的绝佳地点。
-- 库塔区提供各式各样的美食选择，从[当地传统菜肴](/blog/bali-top-10-foods/)到国际美食应有尽有。您可以品尝到来自世界各地的美味佳肴，满足您的味蕾。
+- 库塔区提供各式各样的美食选择，从[当地传统菜肴](/zh-cn/blog/bali-top-10-foods/)到国际美食应有尽有。您可以品尝到来自世界各地的美味佳肴，满足您的味蕾。
 - 库塔区的夜生活非常活跃，拥有许多酒吧、夜店和娱乐场所。夜幕降临后，您可以在这里尽情享受巴厘岛的热情派对文化。
 - 在Kuta海滩，您可以参加冲浪水上活动，这里是全世界出名的适合冲浪初学者的海滩。[小杰第一次冲浪的视频](https://youtu.be/gECdNvG16ww)。
 - 想看看库塔的样子 >>[请参考小杰视频的介绍](https://youtu.be/uFv_4Wr6YsI?si=gJSxh9PhSjIcRzGG&t=53)
 
 ![庫塔全部有趣的景點我們都收集在這兒！](https://images.gobaligo.id/vocus/vocus_b2ca70ea8dcf02a0f9bbf8b334cca856.jpg)
 
-[库塔全部有趣的景点我们都收集在这儿！](/blog/2023-12-13-657598bdfd8978000120fe20/)
+[库塔全部有趣的景点我们都收集在这儿！](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)
 
-在库塔吃喝玩乐的极乐攻略就在：[巴厘岛库塔旅游攻略：50个必访景点、热闹夜生活、美食、推荐SPA全收集](/blog/2023-12-13-657598bdfd8978000120fe20/)
+在库塔吃喝玩乐的极乐攻略就在：[巴厘岛库塔旅游攻略：50个必访景点、热闹夜生活、美食、推荐SPA全收集](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 ### 方案二：金巴兰
 
 - 金巴兰以其著名的海滩烧烤而闻名，您可以在海滩上享受新鲜的海鲜和其他美味佳肴，同时欣赏着夕阳西下的景色，这是一个浪漫又写意的用餐体验。
 - 金巴兰以其壮丽的日落景色而闻名，您可以在海滩上或餐厅中欣赏到日落时分的美丽景色，这是一个绝佳的拍照和观赏日落的地点。
 - 金巴兰拥有许多豪华的度假村和酒店，提供一流的住宿设施和服务。您可以在这里享受到无忧无虑的度假时光，沉浸在豪华舒适的环境中。
-- 如果还有时间，可以穿插更南边乌鲁瓦图的 [6个巴厘岛秘境沙滩](/blog/bali-hidden-beaches-guide/)，或是到[Oneeighty Day Club：巴厘岛悬崖边的游泳池极致美景](/blog/oneeighty-dayclub-uluwatu-pool/)
+- 如果还有时间，可以穿插更南边乌鲁瓦图的 [6个巴厘岛秘境沙滩](/zh-cn/blog/bali-hidden-beaches-guide/)，或是到[Oneeighty Day Club：巴厘岛悬崖边的游泳池极致美景](/zh-cn/blog/oneeighty-dayclub-uluwatu-pool/)
 - 看看金巴兰的样子>>[请参考小杰视频的介绍](https://www.youtube.com/watch?v=2rvFv04KpAA)
 
 ![金巴蘭的景點足夠你玩樂好幾天！](https://images.gobaligo.id/vocus/vocus_8bcfeaa4ee28576b942edcad435880ab.jpg)
 
-[金巴兰的景点足够你玩乐好几天！](/blog/jimbaran-guide/)
+[金巴兰的景点足够你玩乐好几天！](/zh-cn/blog/jimbaran-guide/)
 
-金巴兰有什么景点？有什么推荐/不坑钱的海鲜餐厅？有什么度假酒店推荐？请看：[巴厘岛金巴兰自由行：推荐30个玩乐景点全攻略｜2026旅游指南](/blog/jimbaran-guide/)
+金巴兰有什么景点？有什么推荐/不坑钱的海鲜餐厅？有什么度假酒店推荐？请看：[巴厘岛金巴兰自由行：推荐30个玩乐景点全攻略｜2026旅游指南](/zh-cn/blog/jimbaran-guide/)
 
 找住宿：
 
-> [【巴厘岛阿雅娜】Ayana Bali 住宿懒人包》](/blog/ayana-resort-bali-guide/)
+> [【巴厘岛阿雅娜】Ayana Bali 住宿懒人包》](/zh-cn/blog/ayana-resort-bali-guide/)
 
-> [巴厘岛住宿推荐：无敌海景金巴兰住宿篇](/blog/2023-11-09-654c6271fd8978000174ff5e/)
+> [巴厘岛住宿推荐：无敌海景金巴兰住宿篇](/zh-cn/blog/2023-11-09-654c6271fd8978000174ff5e/)
 
 ## 别忘了伴手礼！
 
 选择在库塔或金巴兰度过旅程的最后时刻不仅因为交通方便、靠近机场，还因为这两地拥有巴厘岛最多的伴手礼专卖店。这是一个极大的优势，让您可以轻松选购各种精美的巴厘岛伴手礼和纪念品，为亲朋好友带回独特而珍贵的礼物。点击以下链接，了解更多关于这些特色商品的详细信息：
 
-> [【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/blog/bali-souvenirs-gift-guide/)
+> [【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/zh-cn/blog/bali-souvenirs-gift-guide/)
 
 ## 千万不要 vs 就要
 
@@ -230,7 +230,7 @@ Update: 2026/07/03
 
 这样的安排将跨区的车程控制在一小时内，避免浪费宝贵的旅游时光！
 
-如果您是第一次前往巴厘岛，建议参考一下「[巴厘岛旅游注意事项：第一次去巴厘岛必看的31项旅游攻略](/blog/bali-ultimate-guide-2026/)」。
+如果您是第一次前往巴厘岛，建议参考一下「[巴厘岛旅游注意事项：第一次去巴厘岛必看的31项旅游攻略](/zh-cn/blog/bali-ultimate-guide-2026/)」。
 
 最后，这份攻略提供您一个参考，您可以根据自己的喜好和需求进行调整，或在我们的区域攻略中，找到你想去的景点畅快地游玩不用舟车劳顿。
 

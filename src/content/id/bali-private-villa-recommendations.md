@@ -38,13 +38,13 @@ Bali sebagai destinasi wisata terkenal di dunia, setiap tahunnya menarik banyak 
 
 ![截圖自情侶渡假/蜜月別墅推薦](https://images.gobaligo.id/vocus/vocus_a8ef47800f71d819b9ac3dc1f3ef82b0.png)
 
-[Tangkapan layar dari rekomendasi villa untuk pasangan/bulan madu](/blog/bali-honeymoon-resorts-guide/)
+[Tangkapan layar dari rekomendasi villa untuk pasangan/bulan madu](/id/blog/bali-honeymoon-resorts-guide/)
 
 ### **Kelebihan Villa Private**
 
 Privasi dan layanan personal yang ditawarkan villa private adalah nilai jual utamanya. Baik untuk liburan keluarga atau bulan madu romantis, villa private bisa memberikan ruang yang mandiri dan nyaman bagi wisatawan. Villa biasanya dilengkapi kolam renang pribadi, taman, dan dapur, bikin kamu menikmati liburan yang lebih bebas.
 
-> [Untuk yang baru menikah/pasangan, baca ini! 2024 terbaru Bali 【20 rekomendasi resort bulan madu, villa romantis lengkap】](/blog/bali-honeymoon-resorts-guide/)
+> [Untuk yang baru menikah/pasangan, baca ini! 2024 terbaru Bali 【20 rekomendasi resort bulan madu, villa romantis lengkap】](/id/blog/bali-honeymoon-resorts-guide/)
 
 ### **Kelebihan Tradisional Hotel**
 
@@ -66,13 +66,13 @@ Hendrawan menyebutkan bahwa tren ini terutama disebabkan oleh suasana dan fasili
 
 ![截圖自水明漾villa推薦](https://images.gobaligo.id/vocus/vocus_7d737d9009c5d7bc2acd814c87eaa697.jpg)
 
-[Screenshot dari rekomendasi vila Seminyak](/blog/seminyak-private-villas-guide/)
+[Screenshot dari rekomendasi vila Seminyak](/id/blog/seminyak-private-villas-guide/)
 
 ### **Privasi dan Fasilitas**
 
 Vila pribadi menawarkan privasi dan fasilitas personal yang sulit ditandingi. Baik menikmati kesejukan kolam renang pribadi maupun bersantai di taman yang terpisah, vila pribadi bisa menciptakan surga liburan yang terisolasi dari dunia luar.
 
-> [【Rekomendasi Akomodasi Bali】Surga Privat Kolam Renang Villa: 20+ Taman Rahasia Bali yang Memukau di Seminyak](/blog/seminyak-private-villas-guide/)
+> [【Rekomendasi Akomodasi Bali】Surga Privat Kolam Renang Villa: 20+ Taman Rahasia Bali yang Memukau di Seminyak](/id/blog/seminyak-private-villas-guide/)
 
 ### **Kebebasan Eksplorasi yang Praktis Banget**
 
@@ -82,7 +82,7 @@ Keunggulan lain dari milih private villa adalah fleksibilitasnya. Kamu bisa atur
 
 ![截圖自「沙努爾villa推薦」](https://images.gobaligo.id/vocus/vocus_2ad73f465bcd1125da0d7da914172579.jpg)
 
-[Screenshot dari 'Rekomendasi Villa Sanur'](/blog/sanur-luxury-budget-resorts/)
+[Screenshot dari 'Rekomendasi Villa Sanur'](/id/blog/sanur-luxury-budget-resorts/)
 
 ### **Peran Influencer dan Content Creator**
 
@@ -92,13 +92,13 @@ Berkat media sosial, pesona private villa makin dikenal banyak orang. Banyak inf
 
 Khususnya akomodasi unik kayak bamboo villa dan tree house, jadi favorit banyak traveler. Contohnya, bamboo villa di The Hideout dapet review bagus banget karena desainnya yang khas dan kedekatannya sama alam.
 
-> [Jelajahi 11 Tree House / Bamboo Villa di Ubud yang Bikin Melongo](/blog/ubud-treehouse-bamboo-villa-stays/)
+> [Jelajahi 11 Tree House / Bamboo Villa di Ubud yang Bikin Melongo](/id/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ## **Pilihan Akomodasi Campuran**
 
 ![截圖自 Bamboo Villa 推薦](https://images.gobaligo.id/vocus/vocus_46faebe339e9b8003fc6ad8fddb06fe9.jpg)
 
-[Screenshot dari Rekomendasi Bamboo Villa](/blog/ubud-treehouse-bamboo-villa-stays/)
+[Screenshot dari Rekomendasi Bamboo Villa](/id/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ### **Gabungan Kelebihan Villa dan Hotel**
 

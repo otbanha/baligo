@@ -370,7 +370,7 @@ Berbeda dari pulau liburan biasa, Labuan Bajo punya itinerary yang variatif dan 
 
 **6. Aturan Baru: Batas Jumlah Pengunjung ke Pulau**
 
-Kalau daftar impian kamu termasuk raksasa prasejarah 'Komodo' atau 'Pantai Pink' yang super cantik, kabar tahun 2026 ini mungkin bakal mengubah rencana. Demi menjaga surga yang rapuh ini, pemerintah Indonesia resmi memberlakukan batasan ketat jumlah pengunjung ke Taman Nasional Komodo. Dulu bisa 'dadakan' datang ke dermaga langsung berangkat, sekarang di 2026 udah nggak berlaku. Setiap pertemuan dengan komodo butuh reservasi dan perencanaan matang. (Detail cek [di sini](/blog/komodo-booking-2026/))
+Kalau daftar impian kamu termasuk raksasa prasejarah 'Komodo' atau 'Pantai Pink' yang super cantik, kabar tahun 2026 ini mungkin bakal mengubah rencana. Demi menjaga surga yang rapuh ini, pemerintah Indonesia resmi memberlakukan batasan ketat jumlah pengunjung ke Taman Nasional Komodo. Dulu bisa 'dadakan' datang ke dermaga langsung berangkat, sekarang di 2026 udah nggak berlaku. Setiap pertemuan dengan komodo butuh reservasi dan perencanaan matang. (Detail cek [di sini](/id/blog/komodo-booking-2026/))
 
 ### **Kenapa Pilih Itinerary Profesional?**
 
@@ -391,7 +391,7 @@ Itinerary yang kami desain udah ngurus semua ribetnya:
 
 ![兩人成行輕奢團](https://images.gobaligo.id/vocus/vocus_42ebac9652d3fd78261e9efec83fb421.jpg)
 
-[Paket Eksklusif Berdua](/blog/bali-komodo-luxury-tour-2026/)
+[Paket Eksklusif Berdua](/id/blog/bali-komodo-luxury-tour-2026/)
 
 ***
 
@@ -419,7 +419,7 @@ Banget cocok, ada paket wisata yang ramah buat orang tua dan anak-anak, plus spo
 
 ## Panduan Pulau Lainnya
 
-- [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)
-- [【Panduan Wisata Nusa Lembongan / Nusa Ceningan】Jelajahi Tempat Wisata, Kuliner, Transportasi di Nusa Lembongan & Nusa Ceningan: Surga Tersembunyi di Dekat Bali](/blog/nusa-lembongan-ceningan-guide/)
+- [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)
+- [【Panduan Wisata Nusa Lembongan / Nusa Ceningan】Jelajahi Tempat Wisata, Kuliner, Transportasi di Nusa Lembongan & Nusa Ceningan: Surga Tersembunyi di Dekat Bali](/id/blog/nusa-lembongan-ceningan-guide/)
 
 ***

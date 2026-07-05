@@ -19,7 +19,7 @@ _srcHash: 977adc8bfe7940d2372106117cdfb290
 ---
 Update: 2026/07/03
 
-[🚗 想預估 Gojek 車費？㩒呢度](/map/gojek-fare/)
+[🚗 想預估 Gojek 車費？㩒呢度](/zh-hk/map/gojek-fare/)
 
 ![【印尼/峇里島必備APP】Gojek / Grab 叫車圖文教學指南](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
 
@@ -108,7 +108,7 @@ https://youtu.be/ByGkcmys01g
 3. 應對技巧：遇到上述情況，可以行開嗰個區域大約5-10分鐘，去到附近嘅主幹道或者小巷再用APP叫車，咁樣通常可以順利叫到車，而且價格更合理。
 4. 替代方案：對於一日嘅跨區域觀光（例如由南部去烏布或者火山），預訂包車係更普遍、舒適同冇爭議嘅選擇，司機通常仲可以兼任嚮導。
 
-快速參考：[【峇里島包車須知懶人包】](/blog/bali-private-car-hire-guide/)
+快速參考：[【峇里島包車須知懶人包】](/zh-hk/blog/bali-private-car-hire-guide/)
 
 ## ⚠️ 重要提醒
 
@@ -125,4 +125,4 @@ https://youtu.be/ByGkcmys01g
 
 👈 **返去峇里島自由行終極指南**
 
-想睇完整嘅新手懶人包？[㩒呢度閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。
+想睇完整嘅新手懶人包？[㩒呢度閱讀「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。

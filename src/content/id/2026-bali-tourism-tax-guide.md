@@ -104,7 +104,7 @@ Garis besar penerapan pajak turis di Bali kali ini adalah:
 5. Orang luar yang kurang hormat sama adat setempat bikin warga nggak senang, pemerintah daerah juga nggak suka.
 6. Pajak turis bukan ide baru, udah ada contoh di tempat lain, tapi Gubernur Bali yakin ini bakal bantu perbaiki lingkungan dan kualitas pariwisata.
 
-> Baca juga: Selain 'pajak wisatawan' apa lagi yang perlu disiapkan? Cek 【[Panduan Lengkap Masuk Bali 2026: Dari Turun Pesawat → Imigrasi → Ambil Bagasi dalam 1 Menit](/blog/bali-all-indonesia-arrival-guide/)】
+> Baca juga: Selain 'pajak wisatawan' apa lagi yang perlu disiapkan? Cek 【[Panduan Lengkap Masuk Bali 2026: Dari Turun Pesawat → Imigrasi → Ambil Bagasi dalam 1 Menit](/id/blog/bali-all-indonesia-arrival-guide/)】
 
 {{block:klook}}
 
@@ -112,4 +112,4 @@ Garis besar penerapan pajak turis di Bali kali ini adalah:
 
 👈 **Kembali ke Panduan Lengkap Trip ke Bali**
 
-Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.
+Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.

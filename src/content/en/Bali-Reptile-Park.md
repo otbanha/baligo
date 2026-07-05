@@ -43,7 +43,7 @@ There, hidden away from most tourists, lies a fantastic world—**Bali Reptile P
 
 This is more than just a zoo; it's a living museum that condenses the reptile ecology of the Indonesian archipelago. Even better, it's **right next to Bali Bird Park**, sharing the same parking lot. Just a few steps and you can switch scenes, from the 'silent world of reptiles' to the 'colorful paradise of birds.' With good timing, you can easily enjoy two distinct yet equally wonderful animal kingdoms in one go.
 
-➡ More Bali family-friendly attractions: [Complete Guide to Bali's Top 10 Kids' Attractions](/blog/top-10-kids-attractions-in-bali/)
+➡ More Bali family-friendly attractions: [Complete Guide to Bali's Top 10 Kids' Attractions](/en/blog/top-10-kids-attractions-in-bali/)
 
 ## Why Is It Worth a Special Trip?
 
@@ -141,7 +141,7 @@ Both parks have their own restaurants. The reptile park’s eatery is simpler, w
 **【Afternoon】Bali Bird Park – Recommended 3-4 hours**
 After lunch, just walk next door to the bird park! This sprawling sanctuary is home to over **250 species and thousands of birds** from across the Indonesian archipelago and around the world. Step into massive aviaries where charming hornbills and parrots fly overhead; don’t miss the daily **parrot show** and **raptor show**—they’re spectacular! The park’s landscaping is lush with tropical vibes—waterfalls, lotus ponds, and traditional Balinese architecture make every shot look like a postcard.
 
-Detailed guide: [Bali Bird Park Ultimate Guide: Rare Birds, Interactive Activities, and a Journey of Eco-Conservation](https://gobaligo.id/blog/bali-bird-park-guide/)
+Detailed guide: [Bali Bird Park Ultimate Guide: Rare Birds, Interactive Activities, and a Journey of Eco-Conservation](https://gobaligo.id/en/blog/bali-bird-park-guide/)
 
 > Book online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D9f20741f36) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-bird-park-80525/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -239,6 +239,6 @@ On your next Bali trip, try adding this fantastical reptile world to your itiner
 
 > Online Tickets: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F37955-bali-reptile-park-ticket%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7db7e3e24e) [Kkday](https://www.kkday.com/zh-tw/product/593869?qs=Bali+Reptile+Park&cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-reptile-park-128527409/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
-➡ More Bali family-friendly attractions: [Ultimate Guide to Top 10 Kids' Attractions in Bali](/blog/top-10-kids-attractions-in-bali/)
+➡ More Bali family-friendly attractions: [Ultimate Guide to Top 10 Kids' Attractions in Bali](/en/blog/top-10-kids-attractions-in-bali/)
 
 {{block:戶外}}

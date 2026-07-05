@@ -306,6 +306,6 @@ Bali Safari has indeed put great effort into being family-friendly. With proper 
 - 🎭 **Bali Reptile Park**: Discover Southeast Asia's most comprehensive collection of reptiles and learn about them ([Klook Discount Ticket](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1148651&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F37955-bali-reptile-park-ticket%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7d7be6c50c))
 - 🛍️ **Mason Elephant Park**: Explore Bali's only professional elephant rescue park and interact closely with Sumatran elephants. Enjoy elephant shows and connect with these gentle giants through feeding activities ([Klook Discount Ticket](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1148651&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F24353-mason-elephant-park-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1c4e1cc903))
 
-➡ More family-friendly attractions in Bali: [Complete Guide to Top 10 Kids' Attractions in Bali](/blog/top-10-kids-attractions-in-bali/)
+➡ More family-friendly attractions in Bali: [Complete Guide to Top 10 Kids' Attractions in Bali](/en/blog/top-10-kids-attractions-in-bali/)
 
 {{block:親子}}

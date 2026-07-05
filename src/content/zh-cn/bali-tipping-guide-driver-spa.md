@@ -60,7 +60,7 @@ https://youtube.com/shorts/oBLpQ-MH4kY
 
 为了确保给予小费的方便和无担忧，建议您在巴厘岛时，尽量准备一些印尼盾现金。这样可以确保您在需要给予小费时，能够立即提供当地货币，而不必担心汇率转换或其他问题。
 
-> [巴厘岛旅游费用? 巴厘岛旅游要准备多少现金？](/blog/bali-travel-cash-budget-guide/)
+> [巴厘岛旅游费用? 巴厘岛旅游要准备多少现金？](/zh-cn/blog/bali-travel-cash-budget-guide/)
 
 {{block:戶外}}
 
@@ -68,4 +68,4 @@ https://youtube.com/shorts/oBLpQ-MH4kY
 
 👈 **回到巴厘岛自由行终极指南**
 
-想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/zh-cn/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

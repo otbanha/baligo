@@ -42,7 +42,7 @@ Di akhir video, dia menekankan kalau harus memenuhi kebutuhan teman-teman seperj
 
 ![Bawa dua cewek cantik surfing di Uluwatu!](https://images.gobaligo.id/vocus/vocus_9468e44e84f0c2df36e48c0335495cf1.jpg)
 
-Untuk tempat-tempat lain yang nggak sempat dibahas di video, kayak jalur biru 'Tanah Barak Cliff', 11 klub pantai di Uluwatu, 16 rekomendasi restoran kece, dua restoran ramah keluarga, empat tempat belanja, dan berbagai aktivitas seru... semuanya bisa kamu cek di artikel '[【Panduan Uluwatu】50 Rekomendasi Wisata & Kuliner di Uluwatu](/blog/uluwatu-guide/)'.
+Untuk tempat-tempat lain yang nggak sempat dibahas di video, kayak jalur biru 'Tanah Barak Cliff', 11 klub pantai di Uluwatu, 16 rekomendasi restoran kece, dua restoran ramah keluarga, empat tempat belanja, dan berbagai aktivitas seru... semuanya bisa kamu cek di artikel '[【Panduan Uluwatu】50 Rekomendasi Wisata & Kuliner di Uluwatu](/id/blog/uluwatu-guide/)'.
 
 ![烏魯瓦圖的活動也很精彩！](https://images.gobaligo.id/vocus/vocus_9e0e86a47efb0c721d702157c2706225.jpg)
 
@@ -54,6 +54,6 @@ Menurut kamu itinerary mereka seru? Yuk, rencanakan liburanmu sendiri ke Bali! J
 
 Klik di sini buat lihat lebih banyak cerita perjalanan seru di Bali
 
-Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Cerita Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)」, biar cerita kamu makin kece!
+Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Cerita Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, biar cerita kamu makin kece!
 
 {{block:攻略}}

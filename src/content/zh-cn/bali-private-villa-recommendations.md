@@ -33,13 +33,13 @@ _srcHash: 140708d34f6db2bb9c703a47e67473f7
 
 ![截圖自情侶渡假/蜜月別墅推薦](https://images.gobaligo.id/vocus/vocus_a8ef47800f71d819b9ac3dc1f3ef82b0.png)
 
-[截图自情侣度假/蜜月别墅推荐](/blog/bali-honeymoon-resorts-guide/)
+[截图自情侣度假/蜜月别墅推荐](/zh-cn/blog/bali-honeymoon-resorts-guide/)
 
 ### **私人别墅的优势**
 
 私人别墅提供的私密性和个性化服务是其最大的卖点。无论是家庭旅游还是浪漫蜜月，私人别墅都能为旅客提供一个独立而舒适的空间。别墅内通常配备私人泳池、花园和厨房，让旅客享受更自由的度假体验。
 
-> [蜜月新婚/情侣就看这一篇！2024最新巴厘岛【20间度蜜月度假村、浪漫villa推荐懒人包】](/blog/bali-honeymoon-resorts-guide/)
+> [蜜月新婚/情侣就看这一篇！2024最新巴厘岛【20间度蜜月度假村、浪漫villa推荐懒人包】](/zh-cn/blog/bali-honeymoon-resorts-guide/)
 
 ### **酒店的传统优势**
 
@@ -61,13 +61,13 @@ _srcHash: 140708d34f6db2bb9c703a47e67473f7
 
 ![截圖自水明漾villa推薦](https://images.gobaligo.id/vocus/vocus_7d737d9009c5d7bc2acd814c87eaa697.jpg)
 
-[截图自水明漾villa推荐](/blog/seminyak-private-villas-guide/)
+[截图自水明漾villa推荐](/zh-cn/blog/seminyak-private-villas-guide/)
 
 ### **私密性和设施**
 
 私人别墅为旅客提供了难以匹敌的私密性和个性化设施。无论是享受私人泳池的清凉，还是在独立花园中放松，私人别墅都能为旅客打造一个与世隔绝的度假天堂。
 
-> [【巴厘岛住宿推荐】VILLA泳池别墅私密天堂:水明漾20+令人惊艳的巴厘岛秘密花园](/blog/seminyak-private-villas-guide/)
+> [【巴厘岛住宿推荐】VILLA泳池别墅私密天堂:水明漾20+令人惊艳的巴厘岛秘密花园](/zh-cn/blog/seminyak-private-villas-guide/)
 
 ### **独立探索的便利性**
 
@@ -77,7 +77,7 @@ _srcHash: 140708d34f6db2bb9c703a47e67473f7
 
 ![截圖自「沙努爾villa推薦」](https://images.gobaligo.id/vocus/vocus_2ad73f465bcd1125da0d7da914172579.jpg)
 
-[截图自「沙努尔villa推荐」](/blog/sanur-luxury-budget-resorts/)
+[截图自「沙努尔villa推荐」](/zh-cn/blog/sanur-luxury-budget-resorts/)
 
 ### **网红和内容创作者的推动作用**
 
@@ -87,13 +87,13 @@ _srcHash: 140708d34f6db2bb9c703a47e67473f7
 
 特别是竹屋和树屋这类别具特色的住宿选择，成为了许多旅客的心头好。例如，The Hideout的竹屋就因其独特的设计和与自然的亲密接触，受到了广泛的好评。
 
-> [探索乌布11家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)
+> [探索乌布11家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/zh-cn/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ## **混合住宿的选择**
 
 ![截圖自 Bamboo Villa 推薦](https://images.gobaligo.id/vocus/vocus_46faebe339e9b8003fc6ad8fddb06fe9.jpg)
 
-[截图自 Bamboo Villa 推荐](/blog/ubud-treehouse-bamboo-villa-stays/)
+[截图自 Bamboo Villa 推荐](/zh-cn/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ### **结合别墅和酒店的优势**
 

@@ -37,7 +37,7 @@ Beberapa hari pertama di Bali, kami nginep di **Sheraton Bali Kuta Resort**. Lok
 
 ![Persiapan Sebelum Berangkat](https://images.gobaligo.id/vocus/vocus_25c77ae3894da2cae177666ebed9781f.jpg)
 
-Mau tahu lebih banyak tips seputar Kuta? [Klik di sini](/blog/2023-12-13-657598bdfd8978000120fe20/)
+Mau tahu lebih banyak tips seputar Kuta? [Klik di sini](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 Sehari sebelum berangkat, kita dapet konfirmasi dari Udin, fotografer sekaligus guide, lewat WhatsApp. Dia jelasin detail waktu jemput dan lokasi. Karena kita pilih paket one day tour bareng fotografer profesional di Bali, yang udah termasuk jasa foto pake kamera dan drone, makin bikin kita nggak sabar buat mulai petualangan.
 
@@ -88,7 +88,7 @@ Di sini fotografer memanfaatkan drone dengan maksimal, mengambil gambar air terj
 
 ![Pemberhentian Ketiga: Air Terjun Tibumana](https://images.gobaligo.id/vocus/vocus_e4e3b5818941b29c25a2d591ec46a08d.jpg)
 
-Mau tahu lebih banyak tips Ubud? [Klik di sini](/blog/ubud-guide/)
+Mau tahu lebih banyak tips Ubud? [Klik di sini](/id/blog/ubud-guide/)
 
 ## Perjalanan Pulang - Kembali ke Kuta pukul 15:00
 

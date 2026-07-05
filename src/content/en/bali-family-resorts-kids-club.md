@@ -183,7 +183,7 @@ At the resort's pool area, kids can splash around to their hearts' content while
 
 ![More to Eat, Drink, and Explore in Kuta](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
 
-Kuta is one of Bali's most vibrant tourist hotspots, drawing travelers from around the world with its lively nightlife, bustling streets, and beginner-friendly surf beach. Packed with countless shops, restaurants, and entertainment venues, it's a fantastic destination for those seeking excitement and shopping. Whether you're diving into the party scene or soaking up the sunset views, Kuta promises a vacation full of unforgettable memories! Want more Kuta tips? [Click here](/blog/2023-12-13-657598bdfd8978000120fe20/)
+Kuta is one of Bali's most vibrant tourist hotspots, drawing travelers from around the world with its lively nightlife, bustling streets, and beginner-friendly surf beach. Packed with countless shops, restaurants, and entertainment venues, it's a fantastic destination for those seeking excitement and shopping. Whether you're diving into the party scene or soaking up the sunset views, Kuta promises a vacation full of unforgettable memories! Want more Kuta tips? [Click here](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 ## Family-Friendly Resorts in Seminyak
 
@@ -292,7 +292,7 @@ Kids' Club Highlights:
 
 ![More Seminyak Dining & Fun](https://images.gobaligo.id/vocus/vocus_366287b60b610bfff45aea753d91ba55.jpg)
 
-Seminyak is a charming area of Bali that blends style and tradition, boasting top-notch restaurants, boutique shops, and a vibrant nightlife—a true paradise for vacationers! Want to discover more about exciting attractions, dining, spas, and beach clubs? [Click here](/blog/seminyak-guide/).
+Seminyak is a charming area of Bali that blends style and tradition, boasting top-notch restaurants, boutique shops, and a vibrant nightlife—a true paradise for vacationers! Want to discover more about exciting attractions, dining, spas, and beach clubs? [Click here](/en/blog/seminyak-guide/).
 
 ## Family-Friendly Resorts in Canggu
 
@@ -376,11 +376,11 @@ For older children and teenagers, the resort offers a range of entertainment opt
 
 Ayana Bali is an ideal choice for a family-friendly vacation. This resort is perched on the cliffs of Jimbaran, offering beautiful surroundings and comprehensive facilities. For toddlers, the resort provides plenty of fun activities, such as a baby pool and a specially designed children's play area, allowing them to play safely. For older children, the resort also offers a rich variety of programs and activities, including a kids' club, beach sports, and a packed schedule of children's activities.
 
-Ayana Bali features 14 swimming pools and four tiers of accommodation. For more details on room introductions, resort facilities, beach club, Rock Bar reservation methods, and more, please refer here: [【Bali Ayana】Ayana Bali Accommodation Guide》](/blog/ayana-resort-bali-guide/)
+Ayana Bali features 14 swimming pools and four tiers of accommodation. For more details on room introductions, resort facilities, beach club, Rock Bar reservation methods, and more, please refer here: [【Bali Ayana】Ayana Bali Accommodation Guide》](/en/blog/ayana-resort-bali-guide/)
 
 ![Ayana住宿有分為四個等級，點我了解](https://images.gobaligo.id/vocus/vocus_c2f18961b7d5670096f1ac1b2a8871e1.jpg)
 
-[Ayana accommodation is divided into four levels, click here to learn more](/blog/ayana-resort-bali-guide/)
+[Ayana accommodation is divided into four levels, click here to learn more](/en/blog/ayana-resort-bali-guide/)
 
 Both Ayana Resort and Rimba have kids' clubs and activities where little ones can burn off energy all day long!
 
@@ -414,7 +414,7 @@ The Umah Rare Kids' Club is an innovative, sustainability-focused activity cente
 
 ![More to Eat and Explore in Jimbaran](https://images.gobaligo.id/vocus/vocus_c81d870630ca07dead1d2e8614f923c4.jpg)
 
-Jimbaran is a seaside paradise on Bali known for its romantic atmosphere and culinary delights, with stunning golden beaches and spectacular sunset views. Its seafood restaurants are an unmissable gastronomic experience, complemented by luxury resorts and a tranquil fishing village vibe that lets travelers enjoy both indulgence and local life. Whether for a family getaway or a romantic date, Jimbaran has something for everyone! Want to learn more about Jimbaran? [Click here](/blog/jimbaran-guide/).
+Jimbaran is a seaside paradise on Bali known for its romantic atmosphere and culinary delights, with stunning golden beaches and spectacular sunset views. Its seafood restaurants are an unmissable gastronomic experience, complemented by luxury resorts and a tranquil fishing village vibe that lets travelers enjoy both indulgence and local life. Whether for a family getaway or a romantic date, Jimbaran has something for everyone! Want to learn more about Jimbaran? [Click here](/en/blog/jimbaran-guide/).
 
 ## Family-Friendly Resorts in Uluwatu
 
@@ -450,7 +450,7 @@ The whole family can also head to Roosterfish Beach Club for quality beach time.
 
 ![More Uluwatu Dining & Fun Ideas](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
-Uluwatu is one of the most popular areas in southern Bali, renowned for its dramatic cliffside views, stunning beaches, and excellent surf spots. It exudes a romantic tropical vibe, making it the perfect choice for enjoying sunset vistas and relaxing getaways. If you're planning to stay in Uluwatu, check out our curated guide to dining and activities to make your trip even more memorable: [【Uluwatu Guide】Top Attractions, Dining & Fun Recommendations](/blog/uluwatu-guide/)
+Uluwatu is one of the most popular areas in southern Bali, renowned for its dramatic cliffside views, stunning beaches, and excellent surf spots. It exudes a romantic tropical vibe, making it the perfect choice for enjoying sunset vistas and relaxing getaways. If you're planning to stay in Uluwatu, check out our curated guide to dining and activities to make your trip even more memorable: [【Uluwatu Guide】Top Attractions, Dining & Fun Recommendations](/en/blog/uluwatu-guide/)
 
 ## Family-Friendly Resorts in Ubud
 
@@ -462,7 +462,7 @@ In Ubud, to keep kids entertained during your trip, here are some hotel recommen
 
 This resort features the Wolly Kids Club designed for children aged 4 to 12, offering a variety of activities and educational toys, allowing kids to have fun under the supervision of professional staff.
 
-> ▶ For a detailed introduction to Padma Resort Ubud, see [here](/blog/bali-best-hotels-2024/)
+> ▶ For a detailed introduction to Padma Resort Ubud, see [here](/en/blog/bali-best-hotels-2024/)
 
 ### **Maya Ubud Resort & Spa**
 
@@ -492,6 +492,6 @@ This luxury resort, set just outside Ubud in a stunning natural setting, offers 
 
 ![More Ubud Food & Fun Highlights](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
-Ubud is Bali's cultural and artistic heart, drawing countless travelers with its lush rice terraces, serene jungles, and deep-rooted traditions. It's the perfect place to unwind and recharge. Whether you're exploring local heritage, soaking in natural beauty, or diving into exciting outdoor activities and unique food-and-scenery experiences, Ubud promises to leave you inspired. Want more Ubud tips? [Click here](/blog/ubud-guide/).
+Ubud is Bali's cultural and artistic heart, drawing countless travelers with its lush rice terraces, serene jungles, and deep-rooted traditions. It's the perfect place to unwind and recharge. Whether you're exploring local heritage, soaking in natural beauty, or diving into exciting outdoor activities and unique food-and-scenery experiences, Ubud promises to leave you inspired. Want more Ubud tips? [Click here](/en/blog/ubud-guide/).
 
 {{block:親子}}

@@ -92,17 +92,17 @@ Update: 2026/07/03
 4. **線上付款**：每人**50萬印尼盾**，可以用信用卡畀\*\*(碌卡有手續費)\*\*
 5. **收取簽證**：通常12個鐘內會收到電子簽證，記得打印或者存喺手機度
 
-**延伸閱讀:** [印尼峇里島入境用「All Indonesia」入境卡｜1分鐘搞掂最新流程：落機→過關→拎行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
+**延伸閱讀:** [印尼峇里島入境用「All Indonesia」入境卡｜1分鐘搞掂最新流程：落機→過關→拎行李全攻略](/zh-hk/blog/bali-all-indonesia-arrival-guide/)
 
 ![申請電子簽證的步驟](https://images.gobaligo.id/vocus/vocus_a0603b99fe6343a76c317f76555a027a.png)
 
-**延伸閱讀:** [印尼峇里島入境使用「All Indonesia」入境卡｜1分鐘搞懂最新流程：下飛機→過海關→領行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
+**延伸閱讀:** [印尼峇里島入境使用「All Indonesia」入境卡｜1分鐘搞懂最新流程：下飛機→過海關→領行李全攻略](/zh-hk/blog/bali-all-indonesia-arrival-guide/)
 
 ### **出發前一定要做嘅事**：
 
-1. 一定要先搞掂電子簽證eVisa。可以參考[呢度](/blog/bali-evisa-application-guide/)嘅詳細說明，唔好入咗詐騙網站。
-2. 出發前3日填好All Indonesia入境卡，仲要**截圖QR Code**留底備查。睇我哋整理嘅[常見問題FAQ](/blog/bali-evisa-customs-health-declaration/)。
-3. **交峇里島觀光稅**費用：15萬印尼盾/人（約USD$10）。點樣交？睇[觀光稅](/blog/2026-bali-tourism-tax-guide/)說明
+1. 一定要先搞掂電子簽證eVisa。可以參考[呢度](/zh-hk/blog/bali-evisa-application-guide/)嘅詳細說明，唔好入咗詐騙網站。
+2. 出發前3日填好All Indonesia入境卡，仲要**截圖QR Code**留底備查。睇我哋整理嘅[常見問題FAQ](/zh-hk/blog/bali-evisa-customs-health-declaration/)。
+3. **交峇里島觀光稅**費用：15萬印尼盾/人（約USD$10）。點樣交？睇[觀光稅](/zh-hk/blog/2026-bali-tourism-tax-guide/)說明
 
 ### 溫馨提示
 

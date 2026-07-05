@@ -69,9 +69,9 @@ Kami nginep di **Kamala Resort** di Ubud. Meskipun beberapa detailnya agak kuran
 
 **Bacaan lanjutan:**
 
-[【Rekomendasi Penginapan Ubud Bali】30+ Penginapan Unik di Ubud, Rasakan Petualangan Indah di Tengah Pemandangan Gunung Bali!](/blog/ubud-villas-pool-guide/)
+[【Rekomendasi Penginapan Ubud Bali】30+ Penginapan Unik di Ubud, Rasakan Petualangan Indah di Tengah Pemandangan Gunung Bali!](/id/blog/ubud-villas-pool-guide/)
 
-[【Rekomendasi Penginapan Ubud】Surga Pribadi Vila Kolam Renang Ubud: 20+ Rekomendasi Vila Bali yang Memukau](/blog/ubud-villa-pool-guide/)
+[【Rekomendasi Penginapan Ubud】Surga Pribadi Vila Kolam Renang Ubud: 20+ Rekomendasi Vila Bali yang Memukau](/id/blog/ubud-villa-pool-guide/)
 
 Ubud nggak cuma soal ketenangan. Di taman hutan **Tegallalang Rice Terrace**, kamu juga bisa nemu keseruan dan kegembiraan alami. Aku habiskan sore yang penuh petualangan dan tawa di sini. Tempat ini worth it banget buat dihabisin seharian penuh.
 
@@ -81,7 +81,7 @@ Tegallalang Rice Terrace (foto oleh Shih Nien Hsin)
 
 ![我們還去了Montana Del cafe。這間咖啡廳景在烏布很美很值得去。點我看「烏布攻略」](https://images.gobaligo.id/vocus/vocus_d3a11499461fd7f17140d3839b6f8672.jpg)
 
-[Kami juga mampir ke Montana Del Cafe. Kafe ini punya pemandangan yang cantik banget di Ubud, worth it buat dikunjungi. Klik buat lihat 'Panduan Ubud'](/blog/ubud-guide/)
+[Kami juga mampir ke Montana Del Cafe. Kafe ini punya pemandangan yang cantik banget di Ubud, worth it buat dikunjungi. Klik buat lihat 'Panduan Ubud'](/id/blog/ubud-guide/)
 
 {{block:ubud}}
 

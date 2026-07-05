@@ -29,10 +29,10 @@ Bali has always been a popular destination for family travel, and Ubud is one of
 
 ### Top Four Areas for Summer Family Travel
 
-- [Part 1: Seminyak](/blog/seminyak-family-travel-2026/)
+- [Part 1: Seminyak](/en/blog/seminyak-family-travel-2026/)
 - Part 2: Ubud (this guide)
-- [Part 3: Sanur](/blog/sanur-family-travel-guide-2/)
-- [Part 4: Nusa Dua](/blog/2026-04-02-112654/)
+- [Part 3: Sanur](/en/blog/sanur-family-travel-guide-2/)
+- [Part 4: Nusa Dua](/en/blog/2026-04-02-112654/)
 
 ***
 
@@ -49,7 +49,7 @@ Located inland, Ubud has a cooler climate compared to Bali’s coastal areas. Ho
 - Rain gear/raincoat (to stay dry during light showers)
 - Insect repellent (especially important during the rainy season)
 
-If planning to visit surrounding mountain areas (such as Mount Batur or Mount Kintamani), be prepared for significant temperature differences between day and night. Bring a light jacket or warm clothing. For those interested, refer to our [Mount Batur Sunrise Hiking Guide](/blog/batur-sunrise-hiking-guide/)
+If planning to visit surrounding mountain areas (such as Mount Batur or Mount Kintamani), be prepared for significant temperature differences between day and night. Bring a light jacket or warm clothing. For those interested, refer to our [Mount Batur Sunrise Hiking Guide](/en/blog/batur-sunrise-hiking-guide/)
 
 ![1. Climate & Clothing](https://images.gobaligo.id/vocus/vocus_351c6775dde8c47b62b05190d216ba54.png)
 
@@ -59,7 +59,7 @@ If planning to visit surrounding mountain areas (such as Mount Batur or Mount Ki
 
 - **Mosquito Protection**: Ubud's natural environment has many mosquitoes. We recommend using locally purchased insect repellent and choosing accommodations with mosquito nets.
 - **Drinking Water**: Avoid drinking tap water directly. Purchase bottled water or use boiled water.
-- **Medical Preparation**: Prepare common medications such as fever reducers, anti-diarrheal medicine, motion sickness pills, and band-aids. Refer to: [Essential Medicines for Bali Travel - How to Buy Insect Repellent/Sunscreen?](/blog/bali-travel-medicine-checklist/) There are clinics in Ubud city, but for serious cases, it's recommended to go to international hospitals in southern Bali.
+- **Medical Preparation**: Prepare common medications such as fever reducers, anti-diarrheal medicine, motion sickness pills, and band-aids. Refer to: [Essential Medicines for Bali Travel - How to Buy Insect Repellent/Sunscreen?](/en/blog/bali-travel-medicine-checklist/) There are clinics in Ubud city, but for serious cases, it's recommended to go to international hospitals in southern Bali.
 
 ***
 
@@ -69,8 +69,8 @@ Private car hire is the main mode of transportation in Ubud. We recommend bookin
 
 **Quick References:**
 
-- [Complete Guide to Private Car Hire in Bali - Costs, Booking Methods, Advantages](/blog/bali-private-car-hire-guide/)
-- [2025 Bali Attractions Recommendation Guide | 500 Latest Popular Bali Attractions in One Place](/blog/bali-top-500-attractions/)
+- [Complete Guide to Private Car Hire in Bali - Costs, Booking Methods, Advantages](/en/blog/bali-private-car-hire-guide/)
+- [2025 Bali Attractions Recommendation Guide | 500 Latest Popular Bali Attractions in One Place](/en/blog/bali-top-500-attractions/)
 
 ![3. Transportation & Getting Around](https://images.gobaligo.id/vocus/vocus_42e21a087b9c9ec368e4430460776e17.png)
 
@@ -86,7 +86,7 @@ Ubud offers a diverse range of dining options, from local delicacies to internat
 
 Quick Reference:
 
-- [Top 10 Foods to Try in Bali](/blog/bali-travel-tips/)
+- [Top 10 Foods to Try in Bali](/en/blog/bali-travel-tips/)
 
 ***
 
@@ -100,8 +100,8 @@ As the cultural heart of Bali, Ubud places great importance on traditional custo
 
 Quick Reference:
 
-- [The Truth Behind the "Gate of Good and Evil"? The Meaning and Correct Name of Candi Bentar](/blog/candi-bentar-balinese-gate-history/)
-- [Bali's Offering Rituals: Canang Sari Explained](/blog/bali-canang-sari-explained/)
+- [The Truth Behind the "Gate of Good and Evil"? The Meaning and Correct Name of Candi Bentar](/en/blog/candi-bentar-balinese-gate-history/)
+- [Bali's Offering Rituals: Canang Sari Explained](/en/blog/bali-canang-sari-explained/)
 
 ***
 
@@ -111,9 +111,9 @@ Bali is an excellent destination for family vacations, and we highly recommend *
 
 ### Recommended Areas for Summer/Winter Family Trips
 
-- [Part 1: Seminyak](/blog/seminyak-family-travel-2026/)
-- [Part 2: Ubud](/blog/ubud-family-travel-2026/)
-- [Part 3: Sanur](/blog/sanur-family-travel-guide-2/)
+- [Part 1: Seminyak](/en/blog/seminyak-family-travel-2026/)
+- [Part 2: Ubud](/en/blog/ubud-family-travel-2026/)
+- [Part 3: Sanur](/en/blog/sanur-family-travel-guide-2/)
 
 ***
 
@@ -135,7 +135,7 @@ Ubud is the cultural and natural heart of Bali, offering a wide range of family-
 
 1. - The Rice Terrace is one of Ubud's most famous attractions, perfect for a family stroll to admire the stunning rice field scenery. You can also experience the rice field swing.
 
-- [Guide to Visiting Ubud's Two Main Rice Terrace Areas](/blog/bali-rice-terraces-comparison/)
+- [Guide to Visiting Ubud's Two Main Rice Terrace Areas](/en/blog/bali-rice-terraces-comparison/)
 
 ### **3. Bali Safari Park**
 
@@ -145,7 +145,7 @@ Ubud is the cultural and natural heart of Bali, offering a wide range of family-
 
 - [Zoo Ticket Discounts](https://affiliate.klook.com/redirect?aid=116349&aff_adid=999461&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F170-bali-safari-and-marine-park-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D25bbba1e97)
 - [Stay at the Zoo](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685834&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_C8XvDnkesQoxGBlu4LbZnORqDwMdeB883gTvkWpsmOQTwREw58Hwae6It1_XFBfsDHQoZwEDLoYuRFSwzg7HrneYKRsaNjP2HvmrE-Oc47GBkOsDIdIKxUXsB0539ExROsTBzzOG4xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsUyMzPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebdhPncnNqu9yAGJcb18Y-YmGKjv3EwvCLhYnDuomVoYuVmeMU0yQg2ai9i5XD38MpMCxI1_ACa5uelLyhgYGBqaGxqamuQaKlhbGpibmuiaWJkZmZrrGJsYmpRsP-vReeGBtZS0EiX4FRSzA-xNPTxbCkMNWssNQyp6jA1IDxFKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbpZujuYVjlA0Xs6dLkOAHvefb260t7aWYQ8JdFD8sP-Zt3nnaXgskZwiTC9zzOueEvfEC-0iYfBJrVYZuSHjGcbECxgZGpi5GbgFGD8YIxgogj3EVI8MGRsYdjP9hgPEVI8h0AAcWO6P7AgAA&masterhotelid_tracelogid=100051355-0a983547-494266-34345&detailFilters=17|1~17~1*31|685834~31~685834*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1440&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/PbKYpC56)
-- [Guide to Visiting Bali Safari Park](/blog/bali-safari-night-stay/)
+- [Guide to Visiting Bali Safari Park](/en/blog/bali-safari-night-stay/)
 
 ### **4. Bali Marine Park**
 
@@ -155,7 +155,7 @@ Ubud is the cultural and natural heart of Bali, offering a wide range of family-
 
 - [Discounted Price](https://affiliate.klook.com/redirect?aid=116349&aff_adid=986936&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D242e58b391)
 - "[Wildlife and Marine 3-Day Pass](https://affiliate.klook.com/redirect?aid=116349&aff_adid=986936&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D242e58b391)", offering unlimited access to Bali Safari Park and Marine Park over three days at a great value
-- [Marine Safari Bali Guide](/blog/marine-safari-bali-guide/)
+- [Marine Safari Bali Guide](/en/blog/marine-safari-bali-guide/)
 
 ### **5. Craft Workshops**
 
@@ -174,7 +174,7 @@ Ubud is the cultural and natural heart of Bali, offering a wide range of family-
 
 1. - Perfect for older kids and parents to experience the thrill of ATV off-roading together, traversing rice fields, jungles, and village paths for an adventurous outing.
 
-- [Bali ATV Quad Bike Adventure: Experience the Thrill and Freedom of Tropical Paradise (Tips + FAQs + Operator Recommendations)](/blog/bali-atv-adventure-guide/)
+- [Bali ATV Quad Bike Adventure: Experience the Thrill and Freedom of Tropical Paradise (Tips + FAQs + Operator Recommendations)](/en/blog/bali-atv-adventure-guide/)
 
 ### **7. Baby-Friendly Rafting - Cave Tubing**
 
@@ -187,7 +187,7 @@ Ubud is the cultural and natural heart of Bali, offering a wide range of family-
 ![8. Ubud Jungle Cart](https://images.gobaligo.id/vocus/vocus_895ae420ddaa68109e64502fe66fa68e.jpg)
 
 1. - This is an activity that combines go-karting with nature exploration, perfect for families. Race through the jungle and countryside, experiencing speed and excitement.
-2. - [Ubud Jungle Cart Adventure in Bali](/blog/ubud-jungle-cart-adventure/) Detailed introduction and booking link
+2. - [Ubud Jungle Cart Adventure in Bali](/en/blog/ubud-jungle-cart-adventure/) Detailed introduction and booking link
 
 https://youtube.com/shorts/v7NAvCARzKY
 
@@ -203,8 +203,8 @@ https://youtube.com/shorts/v7NAvCARzKY
 
 1. - Ubud offers many family-friendly hiking trails, such as the Campuhan Ridge Walk or waterfall explorations, allowing children to connect with nature and enjoy the thrill of discovery.
 
-- [Campuhan Ridge Walk Guide](/blog/ubud-campuhan-ridge-walk/)
-- [Guide to Three Famous Waterfalls Near Ubud](/blog/ubud-waterfalls-guide/)
+- [Campuhan Ridge Walk Guide](/en/blog/ubud-campuhan-ridge-walk/)
+- [Guide to Three Famous Waterfalls Near Ubud](/en/blog/ubud-waterfalls-guide/)
 
 ### 11. Bali Exotic Marine Park — A Must-Visit Marine Park for Families
 
@@ -236,7 +236,7 @@ In Ubud, to ensure children enjoy their travels, here are some hotels with kids'
 
 This resort features the Wolly Kids Club designed for children aged 4 to 12, offering a variety of activities and educational toys, allowing kids to have fun under the care of professional staff.
 
-> For detailed information about Padma Resort Ubud, please click [here](/blog/bali-best-hotels-2024/)
+> For detailed information about Padma Resort Ubud, please click [here](/en/blog/bali-best-hotels-2024/)
 
 ### **Maya Ubud Resort & Spa**
 
@@ -270,9 +270,9 @@ This luxurious resort is located on the outskirts of Ubud, offering a beautiful 
 
 ![More Ubud Travel Tips](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
-[Complete Ubud Guide Here!](/blog/ubud-guide/)
+[Complete Ubud Guide Here!](/en/blog/ubud-guide/)
 
-Ubud is the cultural and artistic heart of Bali, attracting countless travelers with its lush rice terraces, serene jungles, and rich traditional culture. It's an ideal place to relax and rejuvenate. Whether you're exploring local traditions, enjoying natural beauty, or engaging in fun and exciting outdoor activities, Ubud offers unique experiences that combine food and scenery! Want to learn more about Ubud? [Click here](/blog/ubud-guide/).
+Ubud is the cultural and artistic heart of Bali, attracting countless travelers with its lush rice terraces, serene jungles, and rich traditional culture. It's an ideal place to relax and rejuvenate. Whether you're exploring local traditions, enjoying natural beauty, or engaging in fun and exciting outdoor activities, Ubud offers unique experiences that combine food and scenery! Want to learn more about Ubud? [Click here](/en/blog/ubud-guide/).
 
 ***
 
@@ -282,10 +282,10 @@ Ubud is the cultural and artistic heart of Bali, attracting countless travelers 
 
 ### Top 4 Recommended Areas for Summer/Winter Family Travel
 
-- [Part 1: Seminyak](/blog/seminyak-family-travel-2026/)
-- [Part 2: Ubud](/blog/ubud-family-travel-2026/)
-- [Part 3: Sanur](/blog/sanur-family-travel-guide-2/)
-- [Part 4: Nusa Dua](/blog/2026-04-02-112654/)
+- [Part 1: Seminyak](/en/blog/seminyak-family-travel-2026/)
+- [Part 2: Ubud](/en/blog/ubud-family-travel-2026/)
+- [Part 3: Sanur](/en/blog/sanur-family-travel-guide-2/)
+- [Part 4: Nusa Dua](/en/blog/2026-04-02-112654/)
 
 ***
 
@@ -297,11 +297,11 @@ Ubud is a great destination for family travel, offering rich cultural attraction
 
 **What other activities are suitable for children in Ubud?**
 
-We've compiled a list of 54 activities in Ubud that are perfect for kids. Click [here](/blog/ubud-with-kids-guide/) to check them out.
+We've compiled a list of 54 activities in Ubud that are perfect for kids. Click [here](/en/blog/ubud-with-kids-guide/) to check them out.
 
 **Are there accommodations in Ubud with water slides?**
 
-Currently, none are known. If you're specifically looking for family resorts with water slides, you can explore our curated list of 15 family resorts featuring water slides. Click [here](/blog/bali-family-resorts-water-slides/) for more details.
+Currently, none are known. If you're specifically looking for family resorts with water slides, you can explore our curated list of 15 family resorts featuring water slides. Click [here](/en/blog/bali-family-resorts-water-slides/) for more details.
 
 **What is the weather like in Ubud? What clothing should I prepare?**
 
@@ -329,7 +329,7 @@ Most areas in Ubud have uneven surfaces. It's recommended to use a baby carrier 
 
 **Are there more family-friendly resorts in different areas to recommend?**
 
-Yes, please refer to [here](/blog/bali-family-resorts-kids-club/)
+Yes, please refer to [here](/en/blog/bali-family-resorts-kids-club/)
 
 {{block:攻略}}
 

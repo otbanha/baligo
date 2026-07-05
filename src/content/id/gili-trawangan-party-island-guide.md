@@ -49,7 +49,7 @@ Pulau T terkenal banget sama sunset romantis dan atmosfer pesta yang seru, bikin
 - **Transportasi Lokal**: Di sini nggak ada mobil, transportasi utamanya sepeda dan kereta kencana. Sangat mendukung wisata ramah lingkungan.
 - **Rekomendasi Tempat**: Banyak restoran dan kafe kece di Pulau T, wajib coba buat food trip!
 
-> Baca juga: [【Panduan Lompat Pulau】Lompat dari Bali ke Nusa Penida / Nusa Lembongan / Gili Islands / Lombok? Cara Beli Tiket Kapal Cepat? Di Mana?](/blog/bali-island-hopping-guide/)
+> Baca juga: [【Panduan Lompat Pulau】Lompat dari Bali ke Nusa Penida / Nusa Lembongan / Gili Islands / Lombok? Cara Beli Tiket Kapal Cepat? Di Mana?](/id/blog/bali-island-hopping-guide/)
 
 ### Video Ini Bahas Detail Pulau T (Pulau Jamur) di Kepulauan ATM
 

@@ -66,7 +66,7 @@ Tapi kalau kamu cuma punya mata uang lain kayak Dolar AS atau Euro, biasanya jug
 
 Biar tip-mu lancar tanpa drama, saran gue sih siapin aja uang tunai Rupiah selama di Bali. Dengan begitu, kapan pun kamu mau kasih tip, tinggal kasih aja tanpa pusing mikirin kurs atau masalah lainnya.
 
-> [Biaya Liburan ke Bali? Berapa Cash yang Harus Disiapkan?](/blog/bali-travel-cash-budget-guide/)
+> [Biaya Liburan ke Bali? Berapa Cash yang Harus Disiapkan?](/id/blog/bali-travel-cash-budget-guide/)
 
 {{block:戶外}}
 
@@ -74,4 +74,4 @@ Biar tip-mu lancar tanpa drama, saran gue sih siapin aja uang tunai Rupiah selam
 
 👈 **Kembali ke Panduan Lengkap Liburan Mandiri ke Bali**
 
-Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 'Panduan Ultimate Liburan ke Bali 2026'](/blog/bali-ultimate-guide-2026/), biar langsung paham apa yang harus dilakukan sebelum berangkat.
+Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 'Panduan Ultimate Liburan ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), biar langsung paham apa yang harus dilakukan sebelum berangkat.

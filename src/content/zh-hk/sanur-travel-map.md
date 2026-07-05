@@ -58,7 +58,7 @@ Sanur有好多唔同嘅海灘活動。你可以喺度享受寧靜嘅海灘漫步
 
 Sanur唔單止有靚海灘，仲係去Nusa Penida島嘅主要港口。如果你計劃去呢個令人驚嘆嘅島嶼，由Sanur港出發就最方便。Nusa Penida以原始自然風光同超正嘅潛水勝地聞名，係一次難忘嘅冒險之旅。
 
-請睇：[Nusa Penida點去？點玩？](/blog/nusa-penida-guide/)
+請睇：[Nusa Penida點去？點玩？](/zh-hk/blog/nusa-penida-guide/)
 
 ## Massimo意大利餐廳：Sanur嘅味蕾盛宴
 

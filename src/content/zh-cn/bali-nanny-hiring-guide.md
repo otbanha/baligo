@@ -65,15 +65,15 @@ _srcHash: 04c31f9d7735f5fbb063b60b30bd68ab
 
 ## 亲子旅游延伸阅读：
 
-- [巴厘岛家庭亲子友善景点大全｜巴厘岛超过100样适合亲子同乐活动](/blog/bali-family-travel-guide/)
-- [带小朋友去巴厘岛家庭旅游的20个注意要点](/blog/bali-family-travel-tips/)
-- [巴厘岛亲子游：带婴儿、幼童和学龄儿童去度假的一些提示](/blog/bali-family-travel-guide-2/)
-- [巴厘岛亲子乐园：十五家拥有滑水道溜滑梯的亲子度假村 TOP 15](/blog/bali-family-resorts-water-slides/)
-- [推荐巴厘岛13家庭亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图适合家庭度假、亲子放松的最佳选择](/blog/bali-family-resorts-kids-club/)
-- [乌布53项亲子活动带小朋友最轻松！](/blog/ubud-with-kids-guide/)
-- [巴厘岛最适合亲子度假的海滨：沙努尔攻略地图｜45项吃喝玩乐](/blog/sanur-guide/)
-- [巴厘岛亲子一日游攻略：探索野生动物园与红鹤海滩俱乐部](/blog/bali-family-day-safari-flamingo/)
-- [巴厘岛亲子游不能错过：巴厘岛动物园 Bali Safari 要怎么玩乐、夜宿攻略](/blog/bali-safari-night-stay/)
-- [2025新开幕](/blog/marine-safari-bali-guide/) [Marine Safari Bali 巴厘岛海洋野生动物园攻略](/blog/marine-safari-bali-guide/)
-- [与羊驼互动野餐：孩子们的自然课堂](/blog/pacha-alpaca-family-canggu/)
+- [巴厘岛家庭亲子友善景点大全｜巴厘岛超过100样适合亲子同乐活动](/zh-cn/blog/bali-family-travel-guide/)
+- [带小朋友去巴厘岛家庭旅游的20个注意要点](/zh-cn/blog/bali-family-travel-tips/)
+- [巴厘岛亲子游：带婴儿、幼童和学龄儿童去度假的一些提示](/zh-cn/blog/bali-family-travel-guide-2/)
+- [巴厘岛亲子乐园：十五家拥有滑水道溜滑梯的亲子度假村 TOP 15](/zh-cn/blog/bali-family-resorts-water-slides/)
+- [推荐巴厘岛13家庭亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图适合家庭度假、亲子放松的最佳选择](/zh-cn/blog/bali-family-resorts-kids-club/)
+- [乌布53项亲子活动带小朋友最轻松！](/zh-cn/blog/ubud-with-kids-guide/)
+- [巴厘岛最适合亲子度假的海滨：沙努尔攻略地图｜45项吃喝玩乐](/zh-cn/blog/sanur-guide/)
+- [巴厘岛亲子一日游攻略：探索野生动物园与红鹤海滩俱乐部](/zh-cn/blog/bali-family-day-safari-flamingo/)
+- [巴厘岛亲子游不能错过：巴厘岛动物园 Bali Safari 要怎么玩乐、夜宿攻略](/zh-cn/blog/bali-safari-night-stay/)
+- [2025新开幕](/zh-cn/blog/marine-safari-bali-guide/) [Marine Safari Bali 巴厘岛海洋野生动物园攻略](/zh-cn/blog/marine-safari-bali-guide/)
+- [与羊驼互动野餐：孩子们的自然课堂](/zh-cn/blog/pacha-alpaca-family-canggu/)
 - 巴厘岛家庭亲子旅游专栏

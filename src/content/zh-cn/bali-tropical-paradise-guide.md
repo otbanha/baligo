@@ -55,11 +55,11 @@ _srcHash: 74eb52e639bee9fe31d3e33a2e80f9dd
 
 **快速参考:**
 
-- [乌布攻略](/blog/ubud-guide/)
-- [乌鲁瓦图攻略](/blog/uluwatu-guide/)
-- [水明漾攻略](/blog/seminyak-guide/)
-- [火山日出攻略](/blog/batur-volcano-jeep-sunrise-tour/)
-- 离岛之 [佩尼达岛攻略](/blog/nusa-penida-guide/) / [蓝梦岛与金银岛攻略](/blog/nusa-lembongan-ceningan-guide/)
+- [乌布攻略](/zh-cn/blog/ubud-guide/)
+- [乌鲁瓦图攻略](/zh-cn/blog/uluwatu-guide/)
+- [水明漾攻略](/zh-cn/blog/seminyak-guide/)
+- [火山日出攻略](/zh-cn/blog/batur-volcano-jeep-sunrise-tour/)
+- 离岛之 [佩尼达岛攻略](/zh-cn/blog/nusa-penida-guide/) / [蓝梦岛与金银岛攻略](/zh-cn/blog/nusa-lembongan-ceningan-guide/)
 
 ---
 
@@ -79,7 +79,7 @@ _srcHash: 74eb52e639bee9fe31d3e33a2e80f9dd
 
 ## 巴厘岛在亚太区也称王
 
-除了荣登全球前3名外，巴厘岛上个月更在《Travel + Leisure》亚太奢华旅游奖中击败泰国苏梅岛与越南富国岛，成为 [**亚太区最佳岛屿**](/blog/bali-best-island-2025/)。这项奖项专注于奢华旅游市场，更证明巴厘岛兼具亲民与高端魅力，能满足各类型旅客的需求。
+除了荣登全球前3名外，巴厘岛上个月更在《Travel + Leisure》亚太奢华旅游奖中击败泰国苏梅岛与越南富国岛，成为 [**亚太区最佳岛屿**](/zh-cn/blog/bali-best-island-2025/)。这项奖项专注于奢华旅游市场，更证明巴厘岛兼具亲民与高端魅力，能满足各类型旅客的需求。
 
 ---
 
@@ -98,10 +98,10 @@ _srcHash: 74eb52e639bee9fe31d3e33a2e80f9dd
 
 **快速参考:**
 
-- [巴厘岛蜜月浪漫指南：探索巴厘岛情侣/蜜月旅行的36种玩法](/blog/bali-honeymoon-romantic-activities-2/)
+- [巴厘岛蜜月浪漫指南：探索巴厘岛情侣/蜜月旅行的36种玩法](/zh-cn/blog/bali-honeymoon-romantic-activities-2/)
 - 巴厘岛家庭亲子旅游
-- [适合年长者的巴厘岛旅游地点全攻略](/blog/bali-senior-friendly-travel-guide/)
-- [巴厘岛户外活动玩什么？50种最受欢迎的户外体验](/blog/bali-top-50-outdoor-activities/)
+- [适合年长者的巴厘岛旅游地点全攻略](/zh-cn/blog/bali-senior-friendly-travel-guide/)
+- [巴厘岛户外活动玩什么？50种最受欢迎的户外体验](/zh-cn/blog/bali-top-50-outdoor-activities/)
 
 ---
 

@@ -62,7 +62,7 @@ Jadi, kalau kalian mau ajak keluarga ke Bali, boleh banget cari Oe ya! Line ID-n
 
 ![Perencanaan Itinerary & Komunikasi](https://images.gobaligo.id/vocus/vocus_bc0d1457f9ad845aaff9a109114ba614.png)
 
-[Tips Liburan ke Bali: 32 Hal Penting yang Wajib Kamu Tahu Sebelum Pertama Kali ke Bali](/blog/bali-ultimate-guide-2026/)
+[Tips Liburan ke Bali: 32 Hal Penting yang Wajib Kamu Tahu Sebelum Pertama Kali ke Bali](/id/blog/bali-ultimate-guide-2026/)
 
 ## Pengalaman & Tips Perjalanan
 
@@ -70,7 +70,7 @@ Jadi, kalau kalian mau ajak keluarga ke Bali, boleh banget cari Oe ya! Line ID-n
 
 Di Bali, minuman dari tempat selain supermarket, restoran besar, atau jaringan ternama sebaiknya jangan asal coba. Dalam trip ini, ada teman kami yang minum di warung biasa dan akhirnya diare selama dua hari. Meskipun minuman lokal kelihatan menggoda, biar perjalananmu nggak terganggu sakit, mending pilih minuman yang lebih aman dan terpercaya. Selain itu, bawa juga obat-obatan untuk masalah perut sebagai antisipasi.
 
-[> Tips Kesehatan Traveling di Bali: Panduan Air Minum & Diare](/blog/bali-travel-health-tips/)
+[> Tips Kesehatan Traveling di Bali: Panduan Air Minum & Diare](/id/blog/bali-travel-health-tips/)
 
 ### **Bawa Lebih Banyak Baju Dalam**
 
@@ -118,13 +118,13 @@ Tinggal nyebrang jalan aja udah sampe Kuta Beach, di deketnya juga ada kehidupan
 
 Di Bali banyak banget tempat tukar uang, kamu bisa minta supir atau guide anterin ke sana, biar lebih aman dan terpercaya. Karena gampang banget tukar uang, jadi nggak perlu sekaligus banyak-banyak. Pas trip kali ini, karena udah ada dana patungan duluan, jadi uang jajan pribadi lima hari cuma ganti USD$200, dan ternyata masih sisa. Saran sih bawa beberapa USD$ cash buat jaga-jaga, biar nggak perlu bolak-balik tukar uang di sana.
 
-> [Panduan Lengkap Tukar Uang di Bali: Pakai uang apa? Cara tukar paling untung? Di mana tempat terbaik?](/blog/bali-currency-exchange-guide/)
+> [Panduan Lengkap Tukar Uang di Bali: Pakai uang apa? Cara tukar paling untung? Di mana tempat terbaik?](/id/blog/bali-currency-exchange-guide/)
 
 ### **Arung Jeram**
 
 Sebelum arung jeram di Bali, kamu harus jalan kaki turun lewat jalan setapak yang panjang banget (nuruni tangga) buat sampai ke sungai. Pas baliknya, harus naik tangga lagi, walaupun tangganya lebih pendek, tapi buat yang nggak terlalu fit, tetap aja lumayan berat. Kalau bawa orang tua atau anak kecil, pastiin dulu kondisi fisik mereka. Tapi serius, proses arung jeramnya seru banget dan bikin nagih, pengalaman yang nggak terlupakan, jadi tetep worth it buat dicoba!
 
-> [Panduan Arung Jeram Bali (FAQ Arung Jeram)](/blog/bali-rafting-ayung-telaga-waja/)
+> [Panduan Arung Jeram Bali (FAQ Arung Jeram)](/id/blog/bali-rafting-ayung-telaga-waja/)
 
 ### Lainnya
 
@@ -134,15 +134,15 @@ Dokumentasi pribadi Yu Mengling
 
 (Foto kiri) Kalau ke GWK Garuda Wisnu Kencana, bisa jalan-jalan sambil foto-foto — nggak perlu jalan jauh kok! (Udah dijamin cocok buat yang males jalan kaki 👍🏻)
 
-> [Baca cerita lengkap GWK](/blog/bali-family-trip-gwk-beach-club/)
+> [Baca cerita lengkap GWK](/id/blog/bali-family-trip-gwk-beach-club/)
 
 (Foto tengah) Kami malah berhasil merusak satu ATV — ngegas di gigi netral gitu…
 
-> [Petualangan ATV di Bali: Sensasi dan Kebebasan di Surga Tropis (Tips + Rekomendasi Penyedia)](/blog/bali-atv-adventure-guide/)
+> [Petualangan ATV di Bali: Sensasi dan Kebebasan di Surga Tropis (Tips + Rekomendasi Penyedia)](/id/blog/bali-atv-adventure-guide/)
 
 (Foto kanan) Entah kenapa kami seberani itu sampai lepas tangan... next time pasti mau main parasailing lagi deh
 
-> [Panduan Uluwatu](/blog/uluwatu-guide/) ｜[Terbang di Uluwatu! Pemandangan laut super cantik + tips penting](/blog/uluwatu-paragliding-ocean-view/)
+> [Panduan Uluwatu](/id/blog/uluwatu-guide/) ｜[Terbang di Uluwatu! Pemandangan laut super cantik + tips penting](/id/blog/uluwatu-paragliding-ocean-view/)
 
 ![余孟苓提供](https://images.gobaligo.id/vocus/vocus_86510d86b1e385faaad873854fe73fae.jpg)
 
@@ -150,15 +150,15 @@ Dokumentasi pribadi Yu Mengling
 
 (Foto kiri) Kolam renang di tebing itu keren banget! Ini Oneeighty Dayclub, bisa booking online dulu ya!
 
-> [Jelajahi Oneeighty Day Club: Kolam Renang di Tebing dengan Pemandangan Ekstrem di Bali](/blog/oneeighty-dayclub-uluwatu-pool/)
+> [Jelajahi Oneeighty Day Club: Kolam Renang di Tebing dengan Pemandangan Ekstrem di Bali](/id/blog/oneeighty-dayclub-uluwatu-pool/)
 
 （di foto）Tanah Barak Cliff — celah tebingnya cantik banget
 
-> [Bali Batu Barak/Tanah Barak: Perjalanan Epik di Blue Highway / Cliff Road](/blog/batu-barak-cliff-road/)
+> [Bali Batu Barak/Tanah Barak: Perjalanan Epik di Blue Highway / Cliff Road](/id/blog/batu-barak-cliff-road/)
 
 （foto kanan）sea walker-nya juga seru! Cuma telinga suka nggak seimbang terus sih
 
-> [Sea Walker di Tanjung Benoa](/blog/nusa-dua-guide/)
+> [Sea Walker di Tanjung Benoa](/id/blog/nusa-dua-guide/)
 
 {{block:戶外}}
 
@@ -170,6 +170,6 @@ Kamu pikir itinerary-nya Yu Mengling keren? Yuk, atur jadwal liburan Bali versi 
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 
-Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Cerita Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)」, biar cerita kamu makin kece!
+Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Cerita Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, biar cerita kamu makin kece!
 
 {{block:攻略}}

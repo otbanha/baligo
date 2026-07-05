@@ -42,7 +42,7 @@ After dinner, we returned to our accommodation for the night—**Komaneka at Ras
 
 > Check Komaneka at Rasa Sayang rates & availability: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=256185) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685387&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaycLFJMEkNYmF4_nZrtOsQuyGpmYGhgZGBhtFLFqbGR09HlaJrDvc5uApss79YZVLj0MAT8SUA8-nsSdauroX_TwY6NDFyAoWmMF4-pXmCkbGjYzGIMCc5rCDkekAI9MJxvcKC5imLL5vdoqFmWMT2yWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJsYWOoZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGXywMTawMXazMHKeYJgHJ9wq7WPn9IkPM_Bx1w80iXXWjdA0vsO5UlpI3NDAwMDU0NjXVNUi0TDQ1TjbUNbE0MTI31DU2tjA107gztfPmE2MjaylIClBg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmpubm5mGWXDxRwa7CKYfvV5lraZtIMUc0i4i-LkoAtvVXtP22sxe7oEGX7Qe7693drSPnDP65wT9sYL7CPXz6zZfBYon8RalaEbEp7RK17A2MDI1MXILcDowRjBWAHkMa5iZOdiNjAyFGDawMi4g_E_DDC-YgRZAgB1UectBQMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-33856&detailFilters=17|1~17~1*31|685387~31~685387*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=285&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/j3XfJIPj)
 
-This has been included in [【Ubud Accommodation】30+ Unique Stays in Ubud: Experience a Magical Journey Through Bali’s Mountain Scenery!](https://gobaligo.id/blog/ubud-resorts-guide/)
+This has been included in [【Ubud Accommodation】30+ Unique Stays in Ubud: Experience a Magical Journey Through Bali’s Mountain Scenery!](https://gobaligo.id/en/blog/ubud-resorts-guide/)
 
 
 ## August 14: Exploring Ubud and Surrounding Attractions
@@ -71,7 +71,7 @@ Provided by Oscar Lin
 
 In the afternoon, we hired a driver again to head to **Uluwatu** (Pura Luhur Uluwatu) to watch the famous fire dance performance. The drive from Ubud took about three hours, but our driver was steady and reassuring. Upon arrival, the cliffside temple was absolutely breathtaking—the stunning scenery paired with the fire dance made the long journey feel completely worthwhile.
 
-> Editor's note: Curious about what the fire dance entails? Check out: [Kecak Fire Dance: A Must-See Spectacle in Bali (with Booking Info)](/blog/kecak-fire-dance-bali/)
+> Editor's note: Curious about what the fire dance entails? Check out: [Kecak Fire Dance: A Must-See Spectacle in Bali (with Booking Info)](/en/blog/kecak-fire-dance-bali/)
 
 In the evening, we headed to **Bali Collection** for dinner. This large shopping mall features a variety of restaurants and shops, making it a perfect spot for families to dine and shop together.
 
@@ -111,7 +111,7 @@ On the last day, we hired a driver again for a full day of sightseeing. Our firs
 
 https://youtu.be/Czw4ALduV14
 
-> [Oneeighty Dayclub Introduction and Pricing](/blog/oneeighty-dayclub-uluwatu-pool/)
+> [Oneeighty Dayclub Introduction and Pricing](/en/blog/oneeighty-dayclub-uluwatu-pool/)
 
 Afterward, we headed to **Rock Bar** on Bali's southwestern coast. The sunset views there were truly unforgettable, especially after dark when the lights came on—the whole bar became even more enchanting. We ordered a few drinks and slowly savored the scenery; it was definitely the most romantic moment of our Bali trip.
 
@@ -121,7 +121,7 @@ Oscar Lin provides
 
 https://youtube.com/shorts/tHRxnJqxqbw
 
-> Editor's note: How to book Rock Bar? Please refer to our "[Complete Guide to Booking Rock Bar at Jimbaran, Bali!](/blog/bali-rock-bar-reservation-guide/)"
+> Editor's note: How to book Rock Bar? Please refer to our "[Complete Guide to Booking Rock Bar at Jimbaran, Bali!](/en/blog/bali-rock-bar-reservation-guide/)"
 
 Finally, we wrapped up the day and, on our driver's recommendation, headed to **Calma Spa** for a massage. The ambiance was elegant, and the masseuses were so skilled that we both drifted off into a relaxed sleep without even realizing it.
 
@@ -140,7 +140,7 @@ Provided by Oscar Lin
 During this trip, we highly recommend **Jon Devn (Agus)** as a private driver. He was introduced to us by Satrya. His driving was exceptionally steady—no reckless overtaking or honking—which made us feel very safe on Bali's winding mountain roads. He was also very polite and kept the car spotlessly clean. Whenever we needed any assistance during the journey, he was always happy to help, making the entire trip much more relaxed and enjoyable.
 
 > Editor's note: This driver is also a regular on our Hall of Fame!
-> [【Bali Private Driver Recommendation Hall of Fame】Comprehensive Reviews of Bali Drivers: Read Real User Feedback to Find Your Perfect Driver](/blog/bali-private-car-drivers-guide/)
+> [【Bali Private Driver Recommendation Hall of Fame】Comprehensive Reviews of Bali Drivers: Read Real User Feedback to Find Your Perfect Driver](/en/blog/bali-private-car-drivers-guide/)
 
 Think Oscar Lin's itinerary is amazing? Start planning your own Bali free-and-easy trip now! Feel free to share your itinerary in the community as well!
 

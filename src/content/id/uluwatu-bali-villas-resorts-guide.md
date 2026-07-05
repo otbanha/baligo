@@ -32,7 +32,7 @@ _srcHash: 532c6cde4b9015052df869c40fde1d04
 
 Uluwatu adalah salah satu kawasan wisata paling hits di ujung selatan Bali. Di sini ada banyak hidden gem pantai cantik, Pura Uluwatu yang legendaris, dan spot-spot seru lainnya.
 
-Mau tahu lebih detail soal area ini dan tempat-tempat yang wajib dikunjungi? Cek langsung [panduan lengkapnya](/blog/bukit-peninsula-guide/) ya.
+Mau tahu lebih detail soal area ini dan tempat-tempat yang wajib dikunjungi? Cek langsung [panduan lengkapnya](/id/blog/bukit-peninsula-guide/) ya.
 
 Kalau kamu lagi cari penginapan yang nyaman, mewah, dan punya view laut yang bikin speechless, ini dia beberapa pilihan terbaik:
 
@@ -164,7 +164,7 @@ AYANA Villas Bali
 
 Meskipun Ayana lokasinya bukan di Uluwatu, tapi sebenarnya dekat banget. AYANA Villas adalah resor mewah kelas atas di Bali, dengan luas vila mulai dari 200 meter persegi hingga 1000 meter persegi, bisa menampung 2 sampai 12 orang. Berada di area pesisir yang tinggi di kompleks Ayana Bali, pemandangannya juara. Total ada 60 vila, masing-masing punya kolam renang pribadi, layanan butler pribadi, dan fasilitas premium lainnya.
 
-Bahas detail soal Ayana Bali bisa kamu cek [di sini](/blog/ayana-resort-bali-guide/).
+Bahas detail soal Ayana Bali bisa kamu cek [di sini](/id/blog/ayana-resort-bali-guide/).
 
 > ▶[Cek harga promo Agoda untuk tanggal yang kamu mau](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=478524)
 
@@ -210,7 +210,7 @@ Kalau bulan madu ke sini, stafnya bakal super perhatian: kasih handuk dingin kap
 
 Dan yang bikin makin keren, hotel ini terinspirasi dari Kerajaan Majapahit abad ke-14. Setiap sudut arsitekturnya cerita tentang sejarah kerajaan kuno — pokoknya ini hotel paling berbudaya dan berkelas di Bali.
 
-Momen bulan madu kamu, layak banget dirayakan dengan liburan yang penuh cerita ✨ (baca selengkapnya: [Jumeirah Bali Uluwatu: Istana Air Majapahit yang Super Cantik, Panduan Liburan Mewah All-Villa](https://gobaligo.id/blog/Jumeirah-Bali/))
+Momen bulan madu kamu, layak banget dirayakan dengan liburan yang penuh cerita ✨ (baca selengkapnya: [Jumeirah Bali Uluwatu: Istana Air Majapahit yang Super Cantik, Panduan Liburan Mewah All-Villa](https://gobaligo.id/id/blog/Jumeirah-Bali/))
 
 > Cek harga & booking: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=40316042) | [Booking](https://www.booking.com/hotel/id/jumeirah-bali-bali.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaGiIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Aq2rktAGwAIB0gIkZmFkZTE3MzItNjk3MS00NDliLThkZmUtZDRiMzlkMWEwNGEx2AIB4AIB&sid=6eb6ec19b5b6ad6faf1663a2ef8412a8&age=9&all_sr_blocks=573309902_416213410_2_1_0&checkin=2026-05-13&checkout=2026-05-14&dest_id=5733099&dest_type=hotel&dist=0&group_adults=2&group_children=1&hapos=1&highlighted_blocks=573309902_416213410_2_1_0&hpos=1&matching_block_id=573309902_416213410_2_1_0&no_rooms=1&req_adults=2&req_age=9&req_children=1&room1=A%2CA%2C9&sb_price_type=total&sr_order=popularity&sr_pri_blocks=573309902_416213410_2_1_0__1638824000&srepoch=1778685387&srpvid=81fc6b63e1b307f7&type=total&ucfs=1&) | [Trip](https://www.trip.com/t/wBQijSymgU2)
 
@@ -252,7 +252,7 @@ Fasilitas La Cabane lengkap banget, ada kolam renang outdoor, pantai pribadi, ru
 
 Lokasinya juara, cuma beberapa menit berkendara dari Pura Uluwatu yang terkenal. Di dekatnya juga ada Pantai Pandawa, Pantai Padang Padang, dan tempat-tempat hits lainnya. Mau coba surfing kelas dunia, lihat sunset yang cantik, atau eksplorasi warisan budaya Bali — La Cabane adalah titik awal yang sempurna.
 
-> Artikel La Cabane di website kami ada di [sini](/blog/la-cabane-bali-uluwatu/)
+> Artikel La Cabane di website kami ada di [sini](/id/blog/la-cabane-bali-uluwatu/)
 
 > ▶[Cek harga diskon Agoda untuk tanggal pemesanan](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=822795) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=10627469&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6z8TFJMEkdYOJ49_WowuYhJgNDYw07rMZPGC02Crv2Po6cIecc4eD5zeNmP5DN3sdAngiphx4Po098aZtZcSKg4EOXYysYIEZjL2XO1hXMDJuZDz8Fag4Ks1hByPTAUamE4y3lRYwPZw9VewUCzPHfrZLLLsYo6uVslMrlaxMdJRKMktyUpWslJ4umve0Yc_zFa1KOkopqcXJQCEgKzE3vzSvBMi2MDbUMzAAipQkVnimgHUmJ-Ykl+YklqSGVBYATTDSUcosdi4pyiwISs3NLClJBapKS8wpTgWJB6UWA2WSwYIgc4ug_Mz8PIhuAxSxsMSc0lSISqB9bqlQKwxrYx-xMEXHvmC5z_aJheEXC0MTK0MXKzPHKaZJQPK20i5WXm9j3yATD13DEN0oXcMLrE9VpeQNDQwMTA2NTU11DRItE80sDU10TSxNjMwsdY2NLIyMNP61X7n6xNjIWgoSkgqMWoLxIZ6eLoYlhalmhaWWOUUFpgaMpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPY3AwtTcyMo2y4mEODXQS9T7DbzjaVdpBiDgl3UbSX7Zdc0XPaXgskZwiTC9zzOueEvfEC-8jS1c-XfO89bZ_EWpWhGxKecVysgLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQAi9qwDksCAAA&masterhotelid_tracelogid=100051355-0a9a6914-494269-32822&detailFilters=17|1~17~1*31|10627469~31~10627469*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=416&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/wKgXBxsN)
 

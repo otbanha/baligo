@@ -76,13 +76,13 @@ Setiap hotel punya acara dan promo malam tahun baru yang unik — dari dinner me
 
 ![Pesta Seru](https://images.gobaligo.id/vocus/vocus_700d8e5ab02bc66cfc6e9213e960bc2d.png)
 
-Buat kamu yang doyan pesta, wajib banget mampir ke beach club di Bali. Malam tahun baru, hampir semua beach club punya acara keren yang bikin kamu bisa berpesta sepuasnya. 👉 [[Klik di sini buat lihat rekomendasi beach club terbaik di Bali](/blog/bali-beach-clubs-free-entry-list/)]
+Buat kamu yang doyan pesta, wajib banget mampir ke beach club di Bali. Malam tahun baru, hampir semua beach club punya acara keren yang bikin kamu bisa berpesta sepuasnya. 👉 [[Klik di sini buat lihat rekomendasi beach club terbaik di Bali](/id/blog/bali-beach-clubs-free-entry-list/)]
 
 ## 🔥 Cara Persiapan Sebelumnya 🔥
 
 Malam tahun baru di Bali adalah musim liburan yang super sibuk, jadi saran banget buat kamu pesen tiket pesawat dan akomodasi jauh-jauh hari biar nggak kehabisan pilihan terbaik. Beberapa tempat hits kayak beach club yang biasanya gratis mungkin bakal narik biaya masuk, jadi jangan lupa booking duluan biar bisa ikut acara seru ini.
 
-**Baca Juga:** [**Ternyata Bali Punya Lima Musim Liburan! Gimana Cara Pinter Traveling Biar Nggak Kena Peak Season?**](/blog/bali-peak-season-travel-tips/)
+**Baca Juga:** [**Ternyata Bali Punya Lima Musim Liburan! Gimana Cara Pinter Traveling Biar Nggak Kena Peak Season?**](/id/blog/bali-peak-season-travel-tips/)
 
 Mau kamu tipe party animal atau traveler yang suka rayain tahun baru dengan santai, acara malam tahun baru 2025 di Bali bakal kasih kamu kenangan yang nggak terlupakan! Buruan atur jadwalmu, siap-siap sambut tahun baru! 🎇🌴
 

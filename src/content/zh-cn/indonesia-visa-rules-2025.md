@@ -70,7 +70,7 @@ _srcHash: 8b857b84c270bf1beb0ecefa90f7513b
 建议携带旅游计划书、住宿证明与返程机票等相关资料备查。
 
 **快速参考：**  
-[印尼/巴厘岛线上延长签证教学](/blog/2024-bali-visa-extension/)
+[印尼/巴厘岛线上延长签证教学](/zh-cn/blog/2024-bali-visa-extension/)
 
 ---
 

@@ -98,10 +98,10 @@ Kolam renang pribadi di Bajra Bali Villa benar-benar kayak mimpi, bikin kamu bis
 
 ## Rekomendasi Menginap Lainnya di Seminyak:
 
-- [Rekomendasi Akomodasi Bali: Panduan Tema Pantai Mewah di Seminyak](/blog/seminyak-beach-resorts-guide/)
-- [【Rekomendasi Akomodasi Bali】Surga Pribadi Vila Kolam Renang: 22 Vila Taman Rahasia Bali yang Memukau di Seminyak](/blog/2024-04-04-660e6e92fd89780001e6047e/)
-- [【Seminyak】Rekomendasi Vila Bali Murah di Bawah USD$100](/blog/seminyak-budget-villas-guide/)
-- [【Rekomendasi Akomodasi Seminyak】Menginap di Resor Bintang Lima Indigo Tepi Pantai dengan USD$161](/blog/hotel-indigo-seminyak-review/)
+- [Rekomendasi Akomodasi Bali: Panduan Tema Pantai Mewah di Seminyak](/id/blog/seminyak-beach-resorts-guide/)
+- [【Rekomendasi Akomodasi Bali】Surga Pribadi Vila Kolam Renang: 22 Vila Taman Rahasia Bali yang Memukau di Seminyak](/id/blog/2024-04-04-660e6e92fd89780001e6047e/)
+- [【Seminyak】Rekomendasi Vila Bali Murah di Bawah USD$100](/id/blog/seminyak-budget-villas-guide/)
+- [【Rekomendasi Akomodasi Seminyak】Menginap di Resor Bintang Lima Indigo Tepi Pantai dengan USD$161](/id/blog/hotel-indigo-seminyak-review/)
 
  BLOCK0 
  BLOCK1 

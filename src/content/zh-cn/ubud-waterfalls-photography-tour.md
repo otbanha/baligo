@@ -30,7 +30,7 @@ _srcHash: d9a16fe8a42077ecf9881ee87a62ec22
 
 ![出发前的准备](https://images.gobaligo.id/vocus/vocus_25c77ae3894da2cae177666ebed9781f.jpg)
 
-想了解更多库塔攻略？[请点击这里](/blog/2023-12-13-657598bdfd8978000120fe20/)
+想了解更多库塔攻略？[请点击这里](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 巴厘岛摄影师一日游共有三个行程可选：**巴厘岛东部**、**乌布和瀑布**、以及**巴厘岛北部**。经过和旅伴的讨论后，我们选择了「乌布和瀑布」路线，这个选择让我们能够体验巴厘岛最具代表性的文化景点和自然美景。
 
@@ -81,7 +81,7 @@ _srcHash: d9a16fe8a42077ecf9881ee87a62ec22
 
 ![第三站：蒂布马纳瀑布](https://images.gobaligo.id/vocus/vocus_e4e3b5818941b29c25a2d591ec46a08d.jpg)
 
-想了解更多乌布攻略？[请点击这里](/blog/ubud-guide/)
+想了解更多乌布攻略？[请点击这里](/zh-cn/blog/ubud-guide/)
 
 ## 回程 - 15:00返回库塔
 

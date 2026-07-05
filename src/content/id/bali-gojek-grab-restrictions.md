@@ -22,7 +22,7 @@ lang: id
 _srcHash: 3c3c5eaef1257a3040e929f048c484e6
 ---
 
-[🚗 Mau estimasi tarif Gojek? Klik di sini](/map/gojek-fare/)
+[🚗 Mau estimasi tarif Gojek? Klik di sini](/id/map/gojek-fare/)
 
 ## **🚖 Sopir Taksi Bali Demo, Pemerintah Makin Ketat Awasi Ojek Online**
 

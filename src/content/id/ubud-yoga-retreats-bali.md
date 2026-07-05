@@ -274,7 +274,7 @@ Resort yang tersembunyi di antara sawah dan taman tropis ini menawarkan kelas yo
 
 ![Tempat Wisata di Sekitar Ubud](https://images.gobaligo.id/vocus/vocus_843bc34c8b0e7915ed3fdffb7ffcb8f3.jpg)
 
-Jangan lupa tonton rekomendasi kami [**100 Tempat Wisata di Sekitar Ubud**](/blog/ubud-guide/), buat eksplorasi lebih banyak keindahan alam dan budaya!
+Jangan lupa tonton rekomendasi kami [**100 Tempat Wisata di Sekitar Ubud**](/id/blog/ubud-guide/), buat eksplorasi lebih banyak keindahan alam dan budaya!
 
 Entah kamu lagi cari tempat meditasi yang tenang, atau pengin menyatu dengan alam, 10 pilihan akomodasi yoga di Ubud di atas pasti bikin liburanmu makin berwarna. Yuk, langsung pilih penginapan favoritmu, dan mulai liburan yoga-mu dari Ubud!
 

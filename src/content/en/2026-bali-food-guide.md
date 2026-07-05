@@ -58,7 +58,7 @@ A traditional Balinese slow-roasted dish, where a whole chicken or duck is marin
 
 Jimbaran Beach is famous for its seafood barbecues, where fresh seafood paired with sunset views creates an unforgettable dining experience! Freshly caught and grilled fish, shrimp, lobster, and other seafood, drizzled with special sauces, make for a must-try romantic meal in Bali.
 
-**Quick Reference:** [Top Jimbaran Seafood Restaurants in Bali: 11 Reliable Picks](/blog/jimbaran-seafood-restaurants-list/)
+**Quick Reference:** [Top Jimbaran Seafood Restaurants in Bali: 11 Reliable Picks](/en/blog/jimbaran-seafood-restaurants-list/)
 
 {{block:klook}}
 

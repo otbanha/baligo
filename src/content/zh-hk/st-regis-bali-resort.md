@@ -129,6 +129,6 @@ _srcHash: 7ccc556d256a29523330d059d0fc863b
 
   **Nusa Dua 係峇里島南部一個著名嘅高級渡假勝地，以其寧靜嘅環境、潔白嘅沙灘同世界級嘅奢華體驗聞名。** 如果您正在尋找奢華五星級渡假村，Nusa Dua 提供咗眾多頂尖選擇，從專屬私人海灘到精緻嘅餐飲與水療，應有盡有。
 
-👉 **想探索更多Nusa Dua嘅頂級住宿？**[**請點擊這裡**](/blog/nusa-dua-resorts-guide/)**！**
+👉 **想探索更多Nusa Dua嘅頂級住宿？**[**請點擊這裡**](/zh-hk/blog/nusa-dua-resorts-guide/)**！**
 
 ** BLOCK0 **

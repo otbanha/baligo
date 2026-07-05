@@ -66,7 +66,7 @@ Toko aksesoris di Bali estetik banget, contohnya Blink, hampir setiap toko bikin
 
 Naik taksi pakai Grab atau Gojek gampang banget, sebagian besar sopirnya sopan. Perjalanan 20 menit kira-kira USD$3, kalau mau ke tempat yang lebih jauh bisa sewa mobil. Layanan sewa mobil fleksibel banget, sopir biasanya bakal atur rute sesuai kebutuhanmu, jadi waktu lebih efisien buat explore banyak tempat. Sebelum berangkat, diskusikan itinerary sama sopir biar semua tempat tujuan lancar dikunjungi.
 
-[> Kapan Harus Sewa Mobil di Bali? Kapan Panggil Taksi? Sewa Mobil vs. Panggil Taksi: Cara Pilih yang Paling Cocok Buat Liburanmu?](/blog/bali-transportation-guide-car-rental/)
+[> Kapan Harus Sewa Mobil di Bali? Kapan Panggil Taksi? Sewa Mobil vs. Panggil Taksi: Cara Pilih yang Paling Cocok Buat Liburanmu?](/id/blog/bali-transportation-guide-car-rental/)
 
 ## **Baju Yoga**
 
@@ -82,7 +82,7 @@ Kelas di Yoga Barn emang banyak, tapi tempatnya agak tua, mungkin ekspektasiku k
 
 Masakan Bali identik dengan iga babi, mie goreng, dan nasi goreng. Yang suka jus sayur bakal jatuh cinta sama aneka jus di sini, super segar, bisa dua gelas sehari. Bahannya fresh, rasanya unik, wajib coba. Sambil menikmati kuliner, cari tahu juga budaya makannya biar makin seru. Coba restoran lokal, selain dapet makanan autentik, juga bisa rasain atmosfer budayanya yang kental.
 
-[> 10 Makanan Terbaik di Bali | 8 Hal yang Perlu Diperhatikan Saat Liburan ke Bali](/blog/bali-travel-tips/)
+[> 10 Makanan Terbaik di Bali | 8 Hal yang Perlu Diperhatikan Saat Liburan ke Bali](/id/blog/bali-travel-tips/)
 
 ## **Orang dan Pelayanan**
 
@@ -90,7 +90,7 @@ Masakan Bali identik dengan iga babi, mie goreng, dan nasi goreng. Yang suka jus
 
 Kebanyakan orang di sini sopan banget dan ramah, jalan-jalan malam juga aman. Pelayanan SPA-nya emang oke, murah, dan worth it banget. Saran aku, selama perjalanan cobain beberapa SPA berbeda buat rileksin badan dan nikmatin suasana santai di sini. Keramahan penduduk lokal bikin hati hangat, entah di restoran, toko, atau tempat wisata, kamu bakal ngerasain kebaikan dan perhatian mereka. Suasana kayak gini nambah banyak kenangan indah selama liburan.
 
-> [【Ringkasan】Kumpulan Rekomendasi SPA Terbaik di Bali, Dibagi Berdasarkan Area Biar Lebih Gampang Dicari](/blog/spa/)
+> [【Ringkasan】Kumpulan Rekomendasi SPA Terbaik di Bali, Dibagi Berdasarkan Area Biar Lebih Gampang Dicari](/id/blog/spa/)
 
 ## Penutup
 
@@ -102,16 +102,16 @@ Kamu lihat itinerary seru dari Haobo LI? Yuk, rencanakan liburan Bali versi kamu
 
 Klik di sini buat lihat lebih banyak cerita perjalanan seru di Bali
 
-Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Cerita Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)」, biar cerita kamu makin kece!
+Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Cerita Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, biar cerita kamu makin kece!
 
 ## Panduan Referensi:
 
-- [Panduan 60 Tempat Wisata di Seminyak Bali 2024](/blog/seminyak-guide/)
-- [Panduan 50 Tempat Wajib Kunjung di Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [50 Tempat Wisata Wajib di Canggu](/blog/canggu-guide/)
-- [50 Cara Eksplor Ubud](/blog/ubud-guide/)
-- [Panduan Jimbaran 2024](/blog/jimbaran-guide/)
-- [Panduan Uluwatu 2024](/blog/uluwatu-guide/)
-- [45 Aktivitas Seru di Sanur](/blog/sanur-guide/)
-- [40 Rekomendasi Akomodasi, Makan & Aktivitas di Nusa Dua](/blog/nusa-dua-guide/)
-- [Panduan Lengkap Nusa Penida](/blog/nusa-penida-guide/)
+- [Panduan 60 Tempat Wisata di Seminyak Bali 2024](/id/blog/seminyak-guide/)
+- [Panduan 50 Tempat Wajib Kunjung di Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [50 Tempat Wisata Wajib di Canggu](/id/blog/canggu-guide/)
+- [50 Cara Eksplor Ubud](/id/blog/ubud-guide/)
+- [Panduan Jimbaran 2024](/id/blog/jimbaran-guide/)
+- [Panduan Uluwatu 2024](/id/blog/uluwatu-guide/)
+- [45 Aktivitas Seru di Sanur](/id/blog/sanur-guide/)
+- [40 Rekomendasi Akomodasi, Makan & Aktivitas di Nusa Dua](/id/blog/nusa-dua-guide/)
+- [Panduan Lengkap Nusa Penida](/id/blog/nusa-penida-guide/)

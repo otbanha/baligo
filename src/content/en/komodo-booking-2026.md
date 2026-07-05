@@ -49,7 +49,7 @@ But by 2025, visitor numbers surged to over 420,000, shattering the cap.
 ![每天只放 1,000 人進去](https://images.gobaligo.id/images/2026-04/1776404897217-fdf1ae42c54b9b350a38e08a3ccc880d.jpg)
 ## Why the Limits Now?
 
-Honestly, Komodo's rapid rise to fame has been astonishing. This year, it claimed [two top spots](/blog/komodo-national-park-global-award/) in Time Out's 'World's Most Beautiful Places' rankings, and Pink Beach was named the world's most beautiful beach by Forbes.
+Honestly, Komodo's rapid rise to fame has been astonishing. This year, it claimed [two top spots](/en/blog/komodo-national-park-global-award/) in Time Out's 'World's Most Beautiful Places' rankings, and Pink Beach was named the world's most beautiful beach by Forbes.
 
 With such widespread acclaim, it's no surprise that tourist numbers have exploded.
 
@@ -78,7 +78,7 @@ The ones truly affected are travelers who are used to spontaneous trips without 
 
 For those looking to include Komodo in their itinerary, it’s recommended to book at least 1 to 2 months in advance, especially if your travel dates are fixed. After all, spots are limited—first come, first served.
 
-If you don't want to hassle with booking tickets, worry about missing out, or are unsure how to arrange transportation from Bali, you can directly check out this [5-Day Bali + Komodo Luxury Tour](/blog/bali-komodo-luxury-tour-2026/)—it includes round-trip flights from Taipei to Bali, domestic flights, accommodations, entrance tickets, and private transfers throughout. There are no shopping stops or additional fees, and the island-hopping itinerary is pre-arranged, so you won’t have to worry about finding out that spots are full upon arrival.
+If you don't want to hassle with booking tickets, worry about missing out, or are unsure how to arrange transportation from Bali, you can directly check out this [5-Day Bali + Komodo Luxury Tour](/en/blog/bali-komodo-luxury-tour-2026/)—it includes round-trip flights from Taipei to Bali, domestic flights, accommodations, entrance tickets, and private transfers throughout. There are no shopping stops or additional fees, and the island-hopping itinerary is pre-arranged, so you won’t have to worry about finding out that spots are full upon arrival.
 
 ***
 
@@ -114,6 +114,6 @@ A: The most reliable method is to book a package tour through a local travel age
 
 ![常見問題 FAQ](https://images.gobaligo.id/vocus/vocus_6680c949bff873153e488598381a7ca6.png)
 
-[⭐⭐Bali + Komodo Dragon Island, 4 Nights Luxury Stay/No Shopping/No Hidden Fees/5-Day Tour⭐⭐](/blog/bali-komodo-luxury-tour-2026/)
+[⭐⭐Bali + Komodo Dragon Island, 4 Nights Luxury Stay/No Shopping/No Hidden Fees/5-Day Tour⭐⭐](/en/blog/bali-komodo-luxury-tour-2026/)
 
 {{block:攻略}}

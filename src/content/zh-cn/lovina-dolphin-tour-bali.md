@@ -72,6 +72,6 @@ _srcHash: 06e9dc803c3a499cd529edcd2a29d069
 
 https://youtu.be/zSw8SRB3Sn8?si=HwQTRID8kIkM4PvI
 
-对巴厘岛北部行程有兴趣的朋友，请继续参考：[巴厘岛自由行注意事项：15个前往巴厘岛北部旅游的小贴士](/blog/north-bali-travel-guide/)
+对巴厘岛北部行程有兴趣的朋友，请继续参考：[巴厘岛自由行注意事项：15个前往巴厘岛北部旅游的小贴士](/zh-cn/blog/north-bali-travel-guide/)
 
 {{block:戶外}}

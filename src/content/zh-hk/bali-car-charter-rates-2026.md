@@ -62,8 +62,8 @@ _srcHash: 763d10ac1ea839770fff5291fddc13d0
 - 包車半日油費補貼 50,000；包車全日油費補貼 100,000
 ***
 ## 📌 包車須知 & 推薦司機
-- 關於包車嘅注意事項（費用包啲乜、小費、超時點計等），請參考 👉[**呢度**](https://gobaligo.id/blog/bali-private-car-hire-guide/)
-- 團友最常推薦嘅司機名單同聯絡方式，請參考 👉[**呢度**](https://gobaligo.id/blog/bali-private-car-drivers-guide/)
+- 關於包車嘅注意事項（費用包啲乜、小費、超時點計等），請參考 👉[**呢度**](https://gobaligo.id/zh-hk/blog/bali-private-car-hire-guide/)
+- 團友最常推薦嘅司機名單同聯絡方式，請參考 👉[**呢度**](https://gobaligo.id/zh-hk/blog/bali-private-car-drivers-guide/)
 
 - **生效日**：2026年7月1日起
 - **適用對象**：所有**出發日期在2026年7月1日（含）之後**的行程
@@ -83,8 +83,8 @@ _srcHash: 763d10ac1ea839770fff5291fddc13d0
 
 ## 📌 包車須知 & 推薦司機
 
-- 關於包車的注意事項（費用包含哪些、小費、超時計算等），請參考 👉[**這裡**](https://gobaligo.id/blog/bali-private-car-hire-guide/)]
-- 團友們最常推薦的司機名單與聯絡方式，請參考 👉[**這裡**](https://gobaligo.id/blog/bali-private-car-drivers-guide/)]
+- 關於包車的注意事項（費用包含哪些、小費、超時計算等），請參考 👉[**這裡**](https://gobaligo.id/zh-hk/blog/bali-private-car-hire-guide/)]
+- 團友們最常推薦的司機名單與聯絡方式，請參考 👉[**這裡**](https://gobaligo.id/zh-hk/blog/bali-private-car-drivers-guide/)]
 
 ***
 

@@ -67,15 +67,15 @@ Semoga panduan ini bikin liburan kamu di Bali makin santai dan menyenangkan, ser
 
 ## Baca Juga: Liburan Keluarga di Bali:
 
-- [Daftar Lengkap Tempat Wisata Keluarga di Bali | Lebih dari 100 Aktivitas Seru untuk Keluarga](/blog/bali-family-travel-guide/)
-- [20 Hal Penting yang Perlu Diperhatikan Saat Liburan Keluarga ke Bali](/blog/bali-family-travel-tips/)
-- [Liburan Keluarga di Bali: Tips untuk Bayi, Balita, dan Anak Usia Sekolah](/blog/bali-family-travel-guide-2/)
-- [Taman Hiburan Keluarga di Bali: 15 Resor Keluarga dengan Seluncuran Air Terbaik](/blog/bali-family-resorts-water-slides/)
-- [Rekomendasi 13 Resor Keluarga di Bali | Pilihan Terbaik di Kuta, Seminyak, Canggu, Jimbaran, dan Uluwatu untuk Liburan Keluarga](/blog/bali-family-resorts-kids-club/)
-- [53 Aktivitas Seru di Ubud untuk Keluarga dengan Anak-anak!](/blog/ubud-with-kids-guide/)
-- [Pantai Terbaik untuk Liburan Keluarga di Bali: Panduan Sanur | 45 Tempat Makan dan Bermain](/blog/sanur-guide/)
-- [Panduan Liburan Sehari Keluarga di Bali: Eksplorasi Safari Wildlife dan Flamingo Beach Club](/blog/bali-family-day-safari-flamingo/)
-- [Jangan Lewatkan Liburan Keluarga di Bali: Cara Seru Main di Kebun Binatang Bali Safari & Tips Menginap](/blog/bali-safari-night-stay/)
-- [Baru Dibuka 2025](/blog/marine-safari-bali-guide/) [Panduan Marine Safari Bali Kebun Binatang Laut Bali](/blog/marine-safari-bali-guide/)
-- [Piknik Interaksi dengan Alpaka: Kelas Alam untuk Anak-anak](/blog/pacha-alpaca-family-canggu/)
+- [Daftar Lengkap Tempat Wisata Keluarga di Bali | Lebih dari 100 Aktivitas Seru untuk Keluarga](/id/blog/bali-family-travel-guide/)
+- [20 Hal Penting yang Perlu Diperhatikan Saat Liburan Keluarga ke Bali](/id/blog/bali-family-travel-tips/)
+- [Liburan Keluarga di Bali: Tips untuk Bayi, Balita, dan Anak Usia Sekolah](/id/blog/bali-family-travel-guide-2/)
+- [Taman Hiburan Keluarga di Bali: 15 Resor Keluarga dengan Seluncuran Air Terbaik](/id/blog/bali-family-resorts-water-slides/)
+- [Rekomendasi 13 Resor Keluarga di Bali | Pilihan Terbaik di Kuta, Seminyak, Canggu, Jimbaran, dan Uluwatu untuk Liburan Keluarga](/id/blog/bali-family-resorts-kids-club/)
+- [53 Aktivitas Seru di Ubud untuk Keluarga dengan Anak-anak!](/id/blog/ubud-with-kids-guide/)
+- [Pantai Terbaik untuk Liburan Keluarga di Bali: Panduan Sanur | 45 Tempat Makan dan Bermain](/id/blog/sanur-guide/)
+- [Panduan Liburan Sehari Keluarga di Bali: Eksplorasi Safari Wildlife dan Flamingo Beach Club](/id/blog/bali-family-day-safari-flamingo/)
+- [Jangan Lewatkan Liburan Keluarga di Bali: Cara Seru Main di Kebun Binatang Bali Safari & Tips Menginap](/id/blog/bali-safari-night-stay/)
+- [Baru Dibuka 2025](/id/blog/marine-safari-bali-guide/) [Panduan Marine Safari Bali Kebun Binatang Laut Bali](/id/blog/marine-safari-bali-guide/)
+- [Piknik Interaksi dengan Alpaka: Kelas Alam untuk Anak-anak](/id/blog/pacha-alpaca-family-canggu/)
 - Rubrik Khusus Liburan Keluarga di Bali

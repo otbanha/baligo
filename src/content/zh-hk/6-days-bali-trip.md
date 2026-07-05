@@ -48,13 +48,13 @@ https://youtube.com/shorts/4qrez0ZwYb4
 
 ![探險之魂：](https://images.gobaligo.id/vocus/vocus_ac018a86bbb625114fb5312631d10213.jpg)
 
-> **快速參考：**[峇里島探險：巴杜爾火山吉普車日出之旅全記錄](/blog/batur-volcano-jeep-sunrise-tour/)
+> **快速參考：**[峇里島探險：巴杜爾火山吉普車日出之旅全記錄](/zh-hk/blog/batur-volcano-jeep-sunrise-tour/)
 
 - **Kuber ATV 越野：** 駕住沙灘車穿越叢林、泥濘同田埂，感受腎上腺素飆升嘅純粹快樂。
 
 __VID0__
 
-> **快速參考：**[峇里島 ATV 四輪越野車探險：感受熱帶天堂嘅刺激與自由（提醒事項+FAQ+業者推薦）](/blog/bali-atv-adventure-guide/)
+> **快速參考：**[峇里島 ATV 四輪越野車探險：感受熱帶天堂嘅刺激與自由（提醒事項+FAQ+業者推薦）](/zh-hk/blog/bali-atv-adventure-guide/)
 
 - **Mari Beach Club：** 位於水明漾嘅時尚海灘俱樂部，以其放鬆嘅氛圍同優質嘅餐飲體驗而聞名。
 
@@ -68,7 +68,7 @@ __VID0__
 
 __VID0__
 
-> **快速參考：**[【峇里島滑翔翼體驗】喺烏魯瓦圖飛翔！超靚海景+注意事項分享](/blog/uluwatu-paragliding-ocean-view/)
+> **快速參考：**[【峇里島滑翔翼體驗】喺烏魯瓦圖飛翔！超靚海景+注意事項分享](/zh-hk/blog/uluwatu-paragliding-ocean-view/)
 
 - **Tanah Barak公路：** 畀少少門票，就可以企上呢道延伸至海中嘅巨牆，影低好似世界盡頭嘅孤寂美景。
 
@@ -76,7 +76,7 @@ __VID0__
 
 ![探險之魂：](https://images.gobaligo.id/vocus/vocus_2e1bf7f65cd7d7bb67c5abbd8dc732ad.jpg)
 
-> **快速參考：**[Batu Barak/Tanah Barak：藍色公路/斷崖公路嘅絕美之旅](/blog/batu-barak-cliff-road/)
+> **快速參考：**[Batu Barak/Tanah Barak：藍色公路/斷崖公路嘅絕美之旅](/zh-hk/blog/batu-barak-cliff-road/)
 
 ### **🛕 文化與採購：**
 
@@ -94,7 +94,7 @@ __VID0__
 
 - **Montana Del Cafe：** 喺火山湖景嘅環抱下食早餐，真係心曠神怡。
 
-> [峇里島金塔瑪尼13大景觀火山咖啡廳推薦 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
+> [峇里島金塔瑪尼13大景觀火山咖啡廳推薦 🌄☕](/zh-hk/blog/kintamani-volcano-cafes-restaurants/)
 
 - **D'tukad Coffee Club：** 掛喺叢林上面嘅無邊際泳池同瀑布，係網美打卡同放空嘅好去處。
 
@@ -136,7 +136,7 @@ __VID0__
 
 最後一日，從藍夢島返回**沙努爾港口**。我哋記取網上嘅經驗分享——港口周邊交通唔方便——再次聯絡 Ani，預約咗前往庫塔 **Beachwalk Shopping Center** 嘅單程送機服務。呢個決定非常正確。司機準時喺碼頭外等候，我哋仲請佢順路去 Bali Banana 完成最後採買。約四十幾分鐘嘅車程，花費約 USD$19，換來嘅係拖住行李時最珍貴嘅「從從容容」。
 
-> [【倫邦岸島/藍夢島景點攻略】探索藍夢島/金銀島景點、美食、交通：峇里島嘅鄰近天堂](/blog/nusa-lembongan-ceningan-guide/)
+> [【倫邦岸島/藍夢島景點攻略】探索藍夢島/金銀島景點、美食、交通：峇里島嘅鄰近天堂](/zh-hk/blog/nusa-lembongan-ceningan-guide/)
 
 ## 結語：不只一次嘅美好
 
@@ -154,6 +154,6 @@ Ani Si Febri 聯絡資料
 
 撳呢度睇多啲[峇里島精彩遊記](/blog?cat=%E9%81%8A%E8%A8%98%E5%88%86%E4%BA%AB)
 
-你都想寫遊記但唔知點落手？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！
+你都想寫遊記但唔知點落手？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/zh-hk/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！
 
 {{block:攻略}}

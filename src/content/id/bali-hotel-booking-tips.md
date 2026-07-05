@@ -30,7 +30,7 @@ Biar liburanmu seru tanpa khawatir bangkrut! Cus, langsung cek tips-tips jitu in
 
 Pertama-tama, mulai dari milih waktu liburan! Usahain jangan traveling ke Bali pas musim ramai, soalnya harga tiket pesawat, hotel, dan aktivitas biasanya naik drastis. Pilih musim sepi atau di luar jam sibuk, selain bisa hemat budget tiket dan akomodasi, kamu juga bisa nikmatin suasana liburan yang lebih tenang.
 
-Kapan sih musim ramai di Bali? Biasanya, musim kemarau yang jarang hujan adalah waktu terbaik buat liburan ke Bali, yaitu sekitar bulan April sampai September — itu juga musim puncak liburan. Penasaran apa kekurangannya kalau hindari musim ramai? Cek [di sini](/blog/bali-best-time-to-visit/) buat info soal musim hujan di Bali.
+Kapan sih musim ramai di Bali? Biasanya, musim kemarau yang jarang hujan adalah waktu terbaik buat liburan ke Bali, yaitu sekitar bulan April sampai September — itu juga musim puncak liburan. Penasaran apa kekurangannya kalau hindari musim ramai? Cek [di sini](/id/blog/bali-best-time-to-visit/) buat info soal musim hujan di Bali.
 
 Selain berdasarkan musim, ada lima momen berikut yang juga bikin Bali penuh sesak, diurutkan berdasarkan tingkat keramaian:
 
@@ -68,11 +68,11 @@ Pesan dan hemat, cek di sini:
 
 Coba sewa villa atau apartemen, apalagi kalau traveling bareng keluarga atau teman. Biasanya lebih hemat daripada hotel, plus makin seru buat quality time bareng. Cek rekomendasi kami:
 
-- [【Rekomendasi Akomodasi Bali】Villa Kolam Renang Surga Privat: 15 Taman Rahasia Seminyak yang Bikin Tercengang](/blog/2024-04-04-660e6e92fd89780001e6047e/)
-- [Value for Money Banget! Kurang dari USD$30 Nginep di 11 Butik Hotel Bali, Dijamin Kece Badai!](/blog/bali-boutique-hotels-under-30/)
-- [Rekomendasi Villa Bali: 20 Villa High CP Value (Part 1)](/blog/bali-best-villas-top20-part1/)
-- [Villa Bali CP Paling Tinggi, Rekomendasi Villa Romantis - Total 20 (Part 2)](/blog/bali-best-villas-top20-part2/)
-- [Rekomendasi Akomodasi Bali: 10 Hotel Budget di Area Seminyak yang Recommended!](/blog/seminyak-budget-hotels-guide/)
+- [【Rekomendasi Akomodasi Bali】Villa Kolam Renang Surga Privat: 15 Taman Rahasia Seminyak yang Bikin Tercengang](/id/blog/2024-04-04-660e6e92fd89780001e6047e/)
+- [Value for Money Banget! Kurang dari USD$30 Nginep di 11 Butik Hotel Bali, Dijamin Kece Badai!](/id/blog/bali-boutique-hotels-under-30/)
+- [Rekomendasi Villa Bali: 20 Villa High CP Value (Part 1)](/id/blog/bali-best-villas-top20-part1/)
+- [Villa Bali CP Paling Tinggi, Rekomendasi Villa Romantis - Total 20 (Part 2)](/id/blog/bali-best-villas-top20-part2/)
+- [Rekomendasi Akomodasi Bali: 10 Hotel Budget di Area Seminyak yang Recommended!](/id/blog/seminyak-budget-hotels-guide/)
 
 ## **Langganan Email Promo**
 
@@ -82,6 +82,6 @@ Subscribe notifikasi email dari hotel dan situs booking biar gak ketinggalan pro
 
 Pas bayar kamar hotel pake kartu kredit, usahain pilih mata uang lokal buat transaksi. Ini bisa ngindarin biaya konversi nilai tukar yang nggak perlu, bikin kamu bisa maksimalin penghematan duit.
 
-> Baca Juga: [Tips Penting Liburan ke Bali: Waspada Jebakan Saat Bayar Pakai Kartu](/blog/bali-credit-card-payment-tips/)
+> Baca Juga: [Tips Penting Liburan ke Bali: Waspada Jebakan Saat Bayar Pakai Kartu](/id/blog/bali-credit-card-payment-tips/)
 
 Bali punya banyak pilihan akomodasi dengan harga dan gaya beragam, jadi pasti kamu bakal nemu yang cocok sama budget dan kebutuhan. Dengan perencanaan yang pas dan strategi booking yang fleksibel, kamu bisa hemat duit dan nikmatin liburan Bali yang maksimal.

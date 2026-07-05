@@ -56,7 +56,7 @@ It has hotels with spacious family rooms, reasonably priced restaurants on every
 
 ![烏布53項親子活動帶小朋友最輕鬆](https://images.gobaligo.id/vocus/vocus_fd4811a3c20b2c2754363f063e388449.png)
 
-[55 Kid-Friendly Activities in Ubud: Traveling with Kids Made Easy](/blog/ubud-with-kids-guide/)
+[55 Kid-Friendly Activities in Ubud: Traveling with Kids Made Easy](/en/blog/ubud-with-kids-guide/)
 
 ### Are there affordable accommodations in Ubud?
 
@@ -382,7 +382,7 @@ Nestled in Ubud's tropical rainforest above the Ayung River, Rijasa Agung Resort
 
 The resort features an outdoor swimming pool in a beautiful, private setting perfect for relaxation. Free WiFi is available, and airport transfers can be arranged for an additional fee. Guests can unwind with soothing massage services on-site. The restaurant serves both Western and Asian cuisine, with room service available so you can dine in comfort without leaving your room.
 
-Rijasa Agung Resort's rooms blend modern and classic styles, with marble floors and elegant furnishings. Each room includes a balcony overlooking the river and rainforest, offering stunning panoramic views. For added luxury, villas with private pools are available, providing unparalleled privacy and indulgence in your own exclusive space. The spacious, comfortable accommodations are ideal for quiet rest, helping you find true peace amidst the greenery far from the city's hustle. (Contributed by [Lin Xiaozhao](/blog/bali-family-trip-highlights/))
+Rijasa Agung Resort's rooms blend modern and classic styles, with marble floors and elegant furnishings. Each room includes a balcony overlooking the river and rainforest, offering stunning panoramic views. For added luxury, villas with private pools are available, providing unparalleled privacy and indulgence in your own exclusive space. The spacious, comfortable accommodations are ideal for quiet rest, helping you find true peace amidst the greenery far from the city's hustle. (Contributed by [Lin Xiaozhao](/en/blog/bali-family-trip-highlights/))
 
 > [▶ Check Rijasa Agung Resort and Villas Rates & Availability](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1744536&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/c79DvepT)
 
@@ -414,7 +414,7 @@ Rijasa Agung Resort's rooms blend modern and classic styles, with marble floors 
 
 **Rooms**｜Soulshine Bali offers a variety of room types, including double suites, family suites, and studio apartments with private pools. All rooms are equipped with air conditioning, a flat-screen TV, and a private bathroom with shower and complimentary toiletries. Some rooms also feature a balcony, allowing guests to enjoy the surrounding views.
 
-**Guest Reviews**｜Guests rave about the overall design and service at Soulshine Bali. The resort's pool is a highlight, with the waterslide and diving area providing endless fun. The rooms have excellent soundproofing, allowing guests to enjoy music and time with friends without disturbance. The staff is warm and attentive, always ready to meet guests' needs. The overall atmosphere creates a comfortable sense of relaxation, especially suitable for those seeking tranquility. The food is delicious and generous, with breakfast being particularly satisfying. (Provided by [Yang Fangyu](/blog/bali-5-day-itinerary-tips/))
+**Guest Reviews**｜Guests rave about the overall design and service at Soulshine Bali. The resort's pool is a highlight, with the waterslide and diving area providing endless fun. The rooms have excellent soundproofing, allowing guests to enjoy music and time with friends without disturbance. The staff is warm and attentive, always ready to meet guests' needs. The overall atmosphere creates a comfortable sense of relaxation, especially suitable for those seeking tranquility. The food is delicious and generous, with breakfast being particularly satisfying. (Provided by [Yang Fangyu](/en/blog/bali-5-day-itinerary-tips/))
 
 > ▶[**Soulshine Bali Room Rates & Availability**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2978867) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=9203399&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/djqgcgo8)
 
@@ -446,7 +446,7 @@ Rijasa Agung Resort's rooms blend modern and classic styles, with marble floors 
 
 **Rooms**｜Each room at Komaneka Rasa Sayang features a private balcony with a daybed, allowing you to enjoy comfort while overlooking beautiful views. Rooms are equipped with a TV and cozy beds for complete relaxation after a day of exploration. The private bathrooms include a shower and are clean and spacious, ensuring an excellent bathing experience.
 
-**Guest Reviews**｜Guests highly praise Komaneka at Rasa Sayang, especially its convenient location—restaurants, shops, and the Monkey Forest are all within a 15-minute walk. The complimentary local-style afternoon tea is also a favorite, offering a moment of tranquility amidst exploring Ubud. The staff is incredibly friendly, making every guest feel at home. The rooftop rooms and pool facilities exceed expectations, leaving a lasting impression. Many guests say they would definitely choose to stay here again if given the chance. (Provided by [Oscar Lin](/blog/bali-6-day-itinerary-guide/))
+**Guest Reviews**｜Guests highly praise Komaneka at Rasa Sayang, especially its convenient location—restaurants, shops, and the Monkey Forest are all within a 15-minute walk. The complimentary local-style afternoon tea is also a favorite, offering a moment of tranquility amidst exploring Ubud. The staff is incredibly friendly, making every guest feel at home. The rooftop rooms and pool facilities exceed expectations, leaving a lasting impression. Many guests say they would definitely choose to stay here again if given the chance. (Provided by [Oscar Lin](/en/blog/bali-6-day-itinerary-guide/))
 
 > ▶[Komaneka at Rasa Sayang Room Rates & Availability](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=256185) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685387&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaycLFJMEkNYmF4_nZrtOsQuyGpmYGhgZGBhtFLFqbGR09HlaJrDvc5uApss79YZVLj0MAT8SUA8-nsSdauroX_TwY6NDFyAoWmMF4-pXmCkbGjYzGIMCc5rCDkekAI9MJxvcKC5imLL5vdoqFmWMT2yWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJsYWOoZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGXywMTawMXazMHKeYJgHJ9wq7WPn9IkPM_Bx1w80iXXWjdA0vsO5UlpI3NDAwMDU0NjXVNUi0TDQ1TjbUNbE0MTI31DU2tjA107gztfPmE2MjaylIClBg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmpubm5mGWXDxRwa7CKYfvV5lraZtIMUc0i4i-LkoAtvVXtP22sxe7oEGX7Qe7693drSPnDP65wT9sYL7CPXz6zZfBYon8RalaEbEp7RK17A2MDI1MXILcDowRjBWAHkMa5iZOdiNjAyFGDawMi4g_E_DDC-YgRZAgB1UectBQMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-33856&detailFilters=17|1~17~1*31|685387~31~685387*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=285&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/j3XfJIPj)
 
@@ -472,7 +472,7 @@ Rijasa Agung Resort's rooms blend modern and classic styles, with marble floors 
 
 ![World-Class Service at Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540287809-536098818.jpg)
 
-Ranked on the "Best Hotels of 2024" list, it took third place in the "Top 25 Hotels in Asia" ([see the full ranking](/blog/top-bali-hotels-asia-rankings/))!
+Ranked on the "Best Hotels of 2024" list, it took third place in the "Top 25 Hotels in Asia" ([see the full ranking](/en/blog/top-bali-hotels-asia-rankings/))!
 
 **Location** | Adiwana Suweta is located in Ubud, 1.9 km from the Ubud Palace—about a 10-minute drive. The hotel offers a peaceful setting close to the city center, making it easy to explore.
 
@@ -758,7 +758,7 @@ Tucked away in the Lodtunduh village south of Ubud, this five-star villa resort 
 💬 **Reviews**｜"Right in the middle of the jungle, the room is comfortable, service is five-star, and the Indonesian and international dishes at the restaurant are impressive. The only problem is not wanting to leave!"
 "A true hidden gem in Ubud, with natural materials in the decor, comfortable beds, and staff who are consistently warm and friendly from check-in to check-out." (Source: Tripadvisor)
 
-Detailed Review: [【2026 New Ubud Hotel】Sanggraloka Ubud Unboxing: Opening June 2026, Jungle Organic Farm & Secluded Resort Villa Guide](https://gobaligo.id/blog/Sanggraloka-Ubud/)
+Detailed Review: [【2026 New Ubud Hotel】Sanggraloka Ubud Unboxing: Opening June 2026, Jungle Organic Farm & Secluded Resort Villa Guide](https://gobaligo.id/en/blog/Sanggraloka-Ubud/)
 
 📌 **Booking Info**｜Agoda 9.5⭐  Trip 9.7⭐
 
@@ -772,10 +772,10 @@ Detailed Review: [【2026 New Ubud Hotel】Sanggraloka Ubud Unboxing: Opening Ju
 
 ### Ubud for Family Travel
 
-If you're traveling with family and looking for a kid-friendly stay, check out the [Bali Family Travel Activity Guide](/blog/ubud-with-kids-guide/), which features 55 family-friendly attractions and activities, plus ten top-rated Ubud family accommodations chosen by travelers worldwide.
+If you're traveling with family and looking for a kid-friendly stay, check out the [Bali Family Travel Activity Guide](/en/blog/ubud-with-kids-guide/), which features 55 family-friendly attractions and activities, plus ten top-rated Ubud family accommodations chosen by travelers worldwide.
 
 ![100種深入認識烏布的方式｜探索烏布的魅力](https://images.gobaligo.id/vocus/vocus_ea533e1649d072068698827355e60224.jpg)
 
-If you're traveling without kids and want to truly experience Ubud, here's the [2026 Complete Ubud Guide: 100 Ways to Dive into Ubud's Charm](/blog/ubud-guide/) to help you get to know Ubud even better!
+If you're traveling without kids and want to truly experience Ubud, here's the [2026 Complete Ubud Guide: 100 Ways to Dive into Ubud's Charm](/en/blog/ubud-guide/) to help you get to know Ubud even better!
 
 {{block:戶外}}

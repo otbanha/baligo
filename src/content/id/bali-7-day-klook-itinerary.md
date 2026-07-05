@@ -77,7 +77,7 @@ Kami berangkat tepat jam 7:30 pagi dari hotel. Antar-jemput mobil pribadi bikin 
 
 https://youtu.be/H-IocbLNpE4
 
-> [Panduan Lengkap Lempuyang Gate of Heaven｜Apakah pantulannya layar HP? Cara jalan ke enam pura? Biaya dan rute lengkap](https://gobaligo.id/blog/lempuyang-temple-gate-of-heaven/)
+> [Panduan Lengkap Lempuyang Gate of Heaven｜Apakah pantulannya layar HP? Cara jalan ke enam pura? Biaya dan rute lengkap](https://gobaligo.id/id/blog/lempuyang-temple-gate-of-heaven/)
 
 Lanjut ke **Swing Heaven**, tempat ini bukan cuma ayunan doang, tapi ada banyak spot foto keren buat dapetin foto estetik ala influencer 🌺. Abis foto, pemandu juga bantuin cari angle, jago banget soal fotografi!
 
@@ -206,7 +206,7 @@ Kami menikmati waktu minum teh sore di Mulia Resort, berendam di kolam renang sa
 
 ![Day 5: Bebas Aktifitas + Sore Santai di Pantai](https://images.gobaligo.id/images/2026-05/1780016971982-6532982_19022510000072495025_large.jpeg)
 
-> 👉 [**Review Lengkap Mulia Resort**](/blog/mulia-resort-bali-luxury/)
+> 👉 [**Review Lengkap Mulia Resort**](/id/blog/mulia-resort-bali-luxury/)
 
 {{block:dua}}
 
@@ -246,7 +246,7 @@ Pertunjukan ini salah satu highlight perjalanan kita! Tari Kecak nggak pakai ala
 
 (Paket ini **bebas antre** langsung masuk, bener-bener ngirit waktu, super recommended!)
 
-> [Kecak Fire Dance — Pertunjukan Api yang Wajib Ditonton di Bali (info tiket di sini)](/blog/kecak-fire-dance-bali/)
+> [Kecak Fire Dance — Pertunjukan Api yang Wajib Ditonton di Bali (info tiket di sini)](/id/blog/kecak-fire-dance-bali/)
 
 ### 🐟 19:00 Makan Malam di Pantai Jimbaran (Jimbaran Beach)
 
@@ -254,7 +254,7 @@ Setelah puas menikmati pertunjukan, kita ke tepi pantai buat santap malam seafoo
 
 ![19:00 Makan Malam di Pantai Jimbaran (Jimbaran Beach)](https://images.gobaligo.id/vocus/vocus_0b8853265196d9f74c4f5461505927dc.jpg)
 
-> [11 Restoran Seafood di Jimbaran, Bali: Rekomendasi Anti Gagal](/blog/jimbaran-seafood-restaurants-list/)
+> [11 Restoran Seafood di Jimbaran, Bali: Rekomendasi Anti Gagal](/id/blog/jimbaran-seafood-restaurants-list/)
 
 ### 🛻 20:00 Pulang dengan Puas
 
@@ -333,6 +333,6 @@ Kamu pikir itinerary mereka seru banget? Yuk, buruan atur liburan seru kamu ke B
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 
-Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
+Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
 
 {{block:攻略}}

@@ -123,7 +123,7 @@ Di Sanur juga ada beberapa playground indoor ber-AC yang super gede, lho! Kalau 
 
 ![更多沙努爾吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
-Sanur adalah kota pesisir yang tenang di Bali, terkenal dengan pantainya yang kalem, suasana santai, dan pemandangan matahari terbit yang spektakuler. Di sini ada resort ramah keluarga, pasar tradisional, dan kuliner lokal yang melimpah — tempat yang pas buat menikmati slow living sambil eksplorasi budaya. Mau jalan-jalan di pinggir pantai atau merasakan vibe lokal, Sanur bakal kasih kamu liburan yang super rileks! Mau tahu lebih banyak panduan Sanur? [Klik di sini](/blog/sanur-guide/).
+Sanur adalah kota pesisir yang tenang di Bali, terkenal dengan pantainya yang kalem, suasana santai, dan pemandangan matahari terbit yang spektakuler. Di sini ada resort ramah keluarga, pasar tradisional, dan kuliner lokal yang melimpah — tempat yang pas buat menikmati slow living sambil eksplorasi budaya. Mau jalan-jalan di pinggir pantai atau merasakan vibe lokal, Sanur bakal kasih kamu liburan yang super rileks! Mau tahu lebih banyak panduan Sanur? [Klik di sini](/id/blog/sanur-guide/).
 
 {{block:klook}}
 
@@ -147,7 +147,7 @@ Di bagian pantai utama ada ruang ganti umum dan toilet yang bersih, tapi untuk r
 
 ### **Sanur bakal bosenin nggak sih? Anak-anak bakal seneng nggak?**
 
-Sanur punya kombinasi pantai, olahraga air, taman bermain indoor gede, pasar, seni, dan kuliner — bikin anak-anak dapet pengalaman beda tiap hari. 10 aktivitas keluarga plus rekomendasi makanan di Sanur bisa kamu cek di [sini](/blog/sanur-family-travel-guide-2/)
+Sanur punya kombinasi pantai, olahraga air, taman bermain indoor gede, pasar, seni, dan kuliner — bikin anak-anak dapet pengalaman beda tiap hari. 10 aktivitas keluarga plus rekomendasi makanan di Sanur bisa kamu cek di [sini](/id/blog/sanur-family-travel-guide-2/)
 
 ### **Air laut di Sanur bersih nggak?**
 

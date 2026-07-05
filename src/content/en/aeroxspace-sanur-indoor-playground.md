@@ -105,9 +105,9 @@ Our group member Claire Lin brought her daughter along. Initially planning to dr
 
 ![沙努爾攻略地圖｜45項吃喝玩樂](https://images.gobaligo.id/vocus/vocus_fe05c3b56f6dc3de245d215193f93a7f.jpg)
 
-[Sanur Guide Map｜45 Things to Eat, Drink, and Do](/blog/sanur-guide/)
+[Sanur Guide Map｜45 Things to Eat, Drink, and Do](/en/blog/sanur-guide/)
 
-Beyond the opening of AeroXSpace Indoor Adventure Park, which has become a new hotspot for family travel in Bali, Sanur offers an abundance of family-friendly activities, making it undoubtedly the best destination for family vacations in Bali—hands down! Families traveling with kids shouldn’t miss our '[Sanur Guide Map｜45 Things to Eat, Drink, and Do](/blog/sanur-guide/)', ensuring you enjoy unparalleled family time in Sanur!
+Beyond the opening of AeroXSpace Indoor Adventure Park, which has become a new hotspot for family travel in Bali, Sanur offers an abundance of family-friendly activities, making it undoubtedly the best destination for family vacations in Bali—hands down! Families traveling with kids shouldn’t miss our '[Sanur Guide Map｜45 Things to Eat, Drink, and Do](/en/blog/sanur-guide/)', ensuring you enjoy unparalleled family time in Sanur!
 
 ## 4 Bonus Recommendations
 
@@ -123,28 +123,28 @@ Trans Studio Bali features seven themed areas with 23 rides and attractions, off
 
 ![沙努爾住宿指南](https://images.gobaligo.id/vocus/vocus_0ae60becd2c9670c57f5d542c8a1d774.jpg)
 
-[Sanur Accommodation Guide](/blog/sanur-luxury-budget-resorts/)
+[Sanur Accommodation Guide](/en/blog/sanur-luxury-budget-resorts/)
 
 Most hotels or villas in Sanur, Bali, are located near the bustling city center or along Sanur's beautiful 8-kilometer beach. It's one of the best accommodation options on the island for families and budget-conscious travelers. Whether you prefer luxurious resorts, hotels near Sanur Port, lodgings surrounded by Sanur's culinary delights, or private villas, our Sanur accommodation guide is the most comprehensive resource!
 
-**▶**[**Bali Accommodation Recommendations: 21 Sanur Resorts and Villas from Luxury to Budget**](/blog/sanur-luxury-budget-resorts/)
+**▶**[**Bali Accommodation Recommendations: 21 Sanur Resorts and Villas from Luxury to Budget**](/en/blog/sanur-luxury-budget-resorts/)
 
 ### 3. Family Vacation: Recommended 13 Family-Friendly Resorts in Bali
 
 ![親子渡假村推薦](https://images.gobaligo.id/vocus/vocus_0fff621dfe2d6f977c9d6c5a59b80337.png)
 
-[Family Resort Recommendations](/blog/bali-family-resorts-kids-club/)
+[Family Resort Recommendations](/en/blog/bali-family-resorts-kids-club/)
 
 Bali is an ideal destination for family travelers, offering stunning natural landscapes, luxurious facilities, and activities specifically designed for families to create unforgettable vacation memories. Here, you can immerse yourself in the crystal-clear ocean waters or enjoy playful moments in the pool. Kids' clubs provide professional nanny teams to arrange exclusive activities for children, allowing parents to relax and enjoy their holiday. Various family activities and themed days ensure that every family member finds their favorite way to have fun. We’ve curated some of Bali’s best family-friendly resorts to make your next family vacation even more enjoyable.
 
-**▶** [**13 Recommended Family-Friendly Resorts**](/blog/bali-family-resorts-kids-club/)
+**▶** [**13 Recommended Family-Friendly Resorts**](/en/blog/bali-family-resorts-kids-club/)
 
 ### **4. What to Do on a Family Vacation in Bali?**
 
 ![峇里島家庭親子友善景點大全｜巴里島超過100樣適合親子同樂活動](https://images.gobaligo.id/vocus/vocus_00d4395e5eb515dfe6d1d360db69bf04.jpg)
 
-[Complete Guide to Family-Friendly Attractions in Bali | Over 100 Activities for Parents and Kids](/blog/bali-family-travel-guide/)
+[Complete Guide to Family-Friendly Attractions in Bali | Over 100 Activities for Parents and Kids](/en/blog/bali-family-travel-guide/)
 
 Bali is a family-friendly destination, perfect for traveling with children. The island offers a wide range of colorful activities and facilities to cater to visitors of all ages. If you’re planning a family trip to explore the wonders of the world with your kids, Bali is an excellent choice. Here, we introduce over 100 activities and attractions that will keep your little ones entertained all day long. Click the link below for detailed information:
 
-**▶** [**Complete Guide to Family-Friendly Attractions in Bali | Over 100 Activities for Parents and Kids**](/blog/bali-family-travel-guide/)
+**▶** [**Complete Guide to Family-Friendly Attractions in Bali | Over 100 Activities for Parents and Kids**](/en/blog/bali-family-travel-guide/)

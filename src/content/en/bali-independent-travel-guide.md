@@ -30,7 +30,7 @@ Before you go, he recommends **applying for an e-Visa online**. With a Taiwanese
 
 After collecting your luggage and before exiting the airport, you'll need to have your **electronic customs declaration** ready. Be sure to complete this in advance—just scan it at the checkpoint to save significant time. This step is crucial.
 
-> Further reading: [【2026 Edition】Indonesia Bali Entry: Use 'All Indonesia' Arrival Card｜Master the Latest Process in 1 Minute: Landing → Customs → Baggage Claim Full Guide](/blog/bali-all-indonesia-arrival-guide/)
+> Further reading: [【2026 Edition】Indonesia Bali Entry: Use 'All Indonesia' Arrival Card｜Master the Latest Process in 1 Minute: Landing → Customs → Baggage Claim Full Guide](/en/blog/bali-all-indonesia-arrival-guide/)
 
 As for the **tourist tax**, he thinks it's up to each person whether to pay or not. He personally enjoys supporting eco-activities like sea turtle releases, even if the use of funds has been questioned—it's still a small contribution to the environment. At just USD$10, it's the price of a few beers.
 
@@ -42,7 +42,7 @@ As for the **tourist tax**, he thinks it's up to each person whether to pay or n
 2. Right now, Bali offers a relatively peaceful environment, and at least the beaches are much less polluted.
 3. When asked about must-see spots, he suggests that while Monkey Forest and Ubud Palace are worth a visit, five minutes is enough—no need to linger. Across the road from the palace is the Ubud Market, which might be more fun to browse. As for the rice terraces, you’ll see them along the way, so you can decide whether to stop. In short, the journey itself is the scenery—just enjoy it and relax.
 
-> Further reading: [2025 Ubud Complete Guide: 100 Ways to Deeply Explore Ubud’s Charm](/blog/ubud-guide/)
+> Further reading: [2025 Ubud Complete Guide: 100 Ways to Deeply Explore Ubud’s Charm](/en/blog/ubud-guide/)
 
 ## **Accommodation & Itinerary Planning Tips:**
 
@@ -61,4 +61,4 @@ Finally, this frequent Bali traveler sincerely hopes to share travel insights in
 
 Click here to see more exciting Bali travelogues
 
-Want to write a travelogue but don’t know where to start? Check out ‘[How to Write a Stunning Bali Travelogue](/blog/how-to-write-bali-travelogue/)’ to make your story shine!
+Want to write a travelogue but don’t know where to start? Check out ‘[How to Write a Stunning Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)’ to make your story shine!

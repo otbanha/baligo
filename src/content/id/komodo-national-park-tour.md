@@ -134,10 +134,10 @@ Kiri: Stasiun terakhir: Kanawa Island, lautnya jernih banget kayak kaca. Bisa sn
 
 Kiri: Ayana Komodo secara keseluruhan, menurutku pelayanannya belum sampai level bintang lima. Kayaknya karena di pulau terpencil & masih baru, jadi detailnya belum maksimal. Tapi fasilitas hotelnya banyak banget, pemandangannya juga juara. Tapi wajib ambil kamar dengan pemandangan laut, kalau nggak, nggak worth it. Kanan: Makasih banyak buat Arda, pemilik Asri Labuan Bajo, atas pengaturan dan perhatiannya 🥰🙇🏻‍♀️ (Dok. Astrid Chang)
 
-> **Menyediakan paket all-in 5 hari 4 malam, termasuk tiket pesawat langsung Taiwan-Bali, tiket pesawat Bali-Komodo, 4 malam akomodasi, mobil pribadi untuk 2 orang selama perjalanan... dan lainnya: ⭐⭐**[**Bali + Pulau Komodo, 4 malam menginap mewah/ tanpa belanja/ tanpa biaya tambahan/ tur 5 hari**](/blog/bali-komodo-luxury-tour-2026/)**⭐⭐**
+> **Menyediakan paket all-in 5 hari 4 malam, termasuk tiket pesawat langsung Taiwan-Bali, tiket pesawat Bali-Komodo, 4 malam akomodasi, mobil pribadi untuk 2 orang selama perjalanan... dan lainnya: ⭐⭐**[**Bali + Pulau Komodo, 4 malam menginap mewah/ tanpa belanja/ tanpa biaya tambahan/ tur 5 hari**](/id/blog/bali-komodo-luxury-tour-2026/)**⭐⭐**
 
 Kamu pikir itinerary Astrid Chang seru banget? Yuk, segera atur liburan bebasmu ke Bali! Jangan lupa juga kirim itinerary kamu ke grup ya!
 
-Update terbaru: [Komodo resmi 'batasi pengunjung'! 2026 tanpa reservasi langsung dipulangkan ke daratan, jalan-jalan dadakan udah jadi sejarah!](https://gobaligo.id/blog/komodo-booking-2026/)
+Update terbaru: [Komodo resmi 'batasi pengunjung'! 2026 tanpa reservasi langsung dipulangkan ke daratan, jalan-jalan dadakan udah jadi sejarah!](https://gobaligo.id/id/blog/komodo-booking-2026/)
 
 {{block:遊記}}

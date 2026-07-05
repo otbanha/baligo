@@ -64,7 +64,7 @@ So we quickly changed tactics and opted to rent a scooter as our main mode of tr
 
 If we needed to go somewhere farther, no worries! We used ride-hailing services like GRAB or GO-JEK, which run smoothly in Bali—just call and they arrive, super convenient.
 
-> Further reading: [Complete Guide to Registering, Using, and Topping Up Gojek & GoPay in Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
+> Further reading: [Complete Guide to Registering, Using, and Topping Up Gojek & GoPay in Indonesia/Bali](/en/blog/indonesia-gojek-gopay-guide/)
 
 ### Itinerary Breakdown:
 
@@ -119,7 +119,7 @@ Today's itinerary was packed with excitement. We set off early to explore some o
 1. **Tanah Lot**
 Bali's most iconic seaside temple, with stunning ocean views and majestic architecture that left us in awe. The kids had a blast here, especially loving the direct connection with nature.
 
-> Read more: [Bali Travel Must-Visit: Tanah Lot – Detailed Guide with Tides and Nearby Attractions](/blog/bali-tanah-lot-guide/)
+> Read more: [Bali Travel Must-Visit: Tanah Lot – Detailed Guide with Tides and Nearby Attractions](/en/blog/bali-tanah-lot-guide/)
 
 2. **Turtle Conservation and Education Center**
 This conservation center is perfect for family trips, especially since kids can see newly hatched baby turtles up close! It offers not only opportunities to interact with turtles but also an educational aspect, teaching children about marine ecology. Highly recommended for families with young children.
@@ -133,7 +133,7 @@ https://youtube.com/shorts/9EeW2YH0iY0
 3. **Pura Uluwatu (Uluwatu Cliff Temple)**
 Perched on a dramatic cliff, Uluwatu Temple is another must-see attraction in Bali. The views here are breathtaking, with the stunning interplay of cliffs and ocean creating an unforgettable scene. We even spotted monkeys here, which thrilled the kids, but be careful—they might snatch your belongings!
 
-> [Bali Uluwatu Temple / Lovers' Cliff Travel Guide: Must-See Highlights & Practical Tips](/blog/uluwatu-temple-travel-guide/)
+> [Bali Uluwatu Temple / Lovers' Cliff Travel Guide: Must-See Highlights & Practical Tips](/en/blog/uluwatu-temple-travel-guide/)
 
 4. **Relaxing Massage**
 After a day of sightseeing, how could you visit Bali without experiencing a massage? We specifically found a local massage parlor, and the whole family enjoyed a soothing session. It was the perfect way to unwind and recharge for the next day's adventures.
@@ -240,7 +240,7 @@ For lunch, we chose to dine at **Cretya**, where the stunning rice terrace views
 
 ![預算中享受奢華：Cretya Ubud 泳池俱樂部與 Alas Harum 消費指南](https://images.gobaligo.id/vocus/vocus_fac2fc209557ede84fb4b81503ec6df3.jpg)
 
-[Enjoying Luxury on a Budget: A Guide to Cretya Ubud Pool Club and Alas Harum](/blog/cretya-ubud-alas-harum-budget-guide/)
+[Enjoying Luxury on a Budget: A Guide to Cretya Ubud Pool Club and Alas Harum](/en/blog/cretya-ubud-alas-harum-budget-guide/)
 
 ***
 
@@ -282,7 +282,7 @@ Today we visited **Bali Bird Park**, a fantastic spot for families with kids. Th
 
 ![Bali Bird Park](https://images.gobaligo.id/vocus/vocus_f6aa64339e4c1dc2b4bd2cfec3b33115.jpg)
 
-Detailed guide: [Bali Bird Park Ultimate Guide: Rare Birds, Interactive Activities, and Eco-Conservation Adventures](https://gobaligo.id/blog/bali-bird-park-guide/)
+Detailed guide: [Bali Bird Park Ultimate Guide: Rare Birds, Interactive Activities, and Eco-Conservation Adventures](https://gobaligo.id/en/blog/bali-bird-park-guide/)
 
 > Book online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D9f20741f36) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-bird-park-80525/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -304,7 +304,7 @@ Today's itinerary was a visit to **Bali Reptile Park**, which mainly showcases v
 
 ![Bali Reptile Park](https://images.gobaligo.id/vocus/vocus_0622339e61ec519ef81ef4527e6ceeff.jpg)
 
-Detailed guide: [Bali Reptile Park Guide: Up-Close Komodo Dragons, Intimate Python Encounters, Ticket Prices & Family Travel Tips](https://gobaligo.id/blog/Bali-Reptile-Park/)
+Detailed guide: [Bali Reptile Park Guide: Up-Close Komodo Dragons, Intimate Python Encounters, Ticket Prices & Family Travel Tips](https://gobaligo.id/en/blog/Bali-Reptile-Park/)
 
 > Buy tickets online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F37955-bali-reptile-park-ticket%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7db7e3e24e) [Kkday](https://www.kkday.com/zh-tw/product/593869?qs=Bali+Reptile+Park&cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-reptile-park-128527409/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 

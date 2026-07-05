@@ -34,9 +34,9 @@ Bali Spirit Festival bakal digelar lagi di Ubud pada 1–5 Mei 2024. Acara ini j
 
 Baca juga:
 
-> [Panduan Lengkap Hari Libur Nasional & Festival Bali 2024: Jadwal Acara Seru!](/blog/2024-bali-festival-calendar/)
+> [Panduan Lengkap Hari Libur Nasional & Festival Bali 2024: Jadwal Acara Seru!](/id/blog/2024-bali-festival-calendar/)
 
-> [Gimana Caranya Libur 9 Hari Pas May Day (1/5)?](/blog/2024-bali-trip-planning-guide/)
+> [Gimana Caranya Libur 9 Hari Pas May Day (1/5)?](/id/blog/2024-bali-trip-planning-guide/)
 
 ## Keunikan Bali Spirit Festival
 
@@ -94,9 +94,9 @@ Tiket Bali Spirit Festival udah dijual nih, [buruan beli](https://www.balispirit
 
 Pas festival, akomodasi di Ubud bisa penuh banget, jadi siapin tempat nginep dari jauh-jauh hari.
 
-> [【Akomodasi Ubud Bali】21 Penginapan Unik di Ubud, Nikmati Petualangan di Tengah Pemandangan Alam Bali!](/blog/ubud-villas-pool-guide/)
+> [【Akomodasi Ubud Bali】21 Penginapan Unik di Ubud, Nikmati Petualangan di Tengah Pemandangan Alam Bali!](/id/blog/ubud-villas-pool-guide/)
 
-> [Jelajahi 8 Vila Pohon/Bambu yang Bikin Terpana di Ubud (tree house/bamboo villa)](/blog/ubud-treehouse-bamboo-villa-stays/)
+> [Jelajahi 8 Vila Pohon/Bambu yang Bikin Terpana di Ubud (tree house/bamboo villa)](/id/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ### 3. Siapin Barang Bawaan
 
@@ -132,10 +132,10 @@ Kamu bisa naik taksi atau pakai jasa antar-jemput buat sampai ke lokasi festival
 
 ## Baca Juga
 
-> [Panduan Mengenal Wilayah Bali: Rekomendasi Hotel di Bali - Kenalan Sama Kuta, Seminyak, Canggu, Ubud](/blog/2023-12-29-65839fbafd89780001e876b5/)
+> [Panduan Mengenal Wilayah Bali: Rekomendasi Hotel di Bali - Kenalan Sama Kuta, Seminyak, Canggu, Ubud](/id/blog/2023-12-29-65839fbafd89780001e876b5/)
 
-> [Panduan Lengkap Ubud 2024: 50 Cara Kenal Lebih Dalam Sama Ubud｜Eksplor Pesona Ubud](/blog/ubud-guide/)
+> [Panduan Lengkap Ubud 2024: 50 Cara Kenal Lebih Dalam Sama Ubud｜Eksplor Pesona Ubud](/id/blog/ubud-guide/)
 
-> [Panduan Aktivitas Liburan Keluarga di Bali: 53 Aktivitas Seru Bareng Anak di Ubud, Dijamin Santai!](/blog/ubud-with-kids-guide/)
+> [Panduan Aktivitas Liburan Keluarga di Bali: 53 Aktivitas Seru Bareng Anak di Ubud, Dijamin Santai!](/id/blog/ubud-with-kids-guide/)
 
-> [Rencana Liburan 4 Hari di Ubud: Monkey Forest / Pasar Ubud / Kelas Keramik / Alas Harum](/blog/ubud-monkey-forest-market-pottery-alas-harum/)
+> [Rencana Liburan 4 Hari di Ubud: Monkey Forest / Pasar Ubud / Kelas Keramik / Alas Harum](/id/blog/ubud-monkey-forest-market-pottery-alas-harum/)

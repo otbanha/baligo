@@ -26,7 +26,7 @@ _srcHash: aad6c8100db5e4dd4fefcba72ba6bcfe
 
 **快速参考：**
 
-[静居日是什么？有什么特别要注意的事项？](/blog/2025-bali-nyepi-day-guide/)
+[静居日是什么？有什么特别要注意的事项？](/zh-cn/blog/2025-bali-nyepi-day-guide/)
 
 根据往年的经验，预计巴厘岛在3/24开始就会开始涌入各地的印尼当地人，到处塞满印尼人，持续约两个礼拜。这是**巴厘岛五大旺季之中的第一旺季**，这是一个建议你要避开，不要去巴厘岛的假期！
 
@@ -44,7 +44,7 @@ _srcHash: aad6c8100db5e4dd4fefcba72ba6bcfe
 
 意欲申请电子签的朋友请提早申请！因为在开斋节假期期间约九天的时长，印尼移民局通常会关闭电子签证的线上申请，这是因为政府机关也在放长假，大家都只能办落地签，极有可能大排长龙！事先办好电子签者则不受影响，一样可以丝滑自动通关。
 
-（其他电子签证、超快自动通关、观光税等话题请看：[2024巴厘岛入境变革一分钟搞懂：巴厘岛入境流程 - 下飞机/过海关/到领行李的流程](/blog/2025-bali-immigration-process/)）
+（其他电子签证、超快自动通关、观光税等话题请看：[2024巴厘岛入境变革一分钟搞懂：巴厘岛入境流程 - 下飞机/过海关/到领行李的流程](/zh-cn/blog/2025-bali-immigration-process/)）
 
 ## 交通
 
@@ -68,23 +68,23 @@ _srcHash: aad6c8100db5e4dd4fefcba72ba6bcfe
 
 **选择包车**
 
-> 在巴厘岛出行的最佳交通工具是包车，这一点可以看看「[巴厘岛包车自由行全攻略 - 费用、预订方式、优势分析](/blog/bali-private-car-hire-guide/)」
+> 在巴厘岛出行的最佳交通工具是包车，这一点可以看看「[巴厘岛包车自由行全攻略 - 费用、预订方式、优势分析](/zh-cn/blog/bali-private-car-hire-guide/)」
 
 **选择小区域景点**
 
 > 清明节-开斋节期间，巴厘岛的许多知名景点交通拥堵。建议**小区域移动**以避免将假期浪费在堵车上。这些小区域请参考：
 
-- [巴厘岛水明漾100个景点攻略](/blog/seminyak-guide/)
-- [库塔必访50个景点攻略](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [坎古80个必游景点](/blog/canggu-guide/)
-- [乌布探索的100个方式](/blog/ubud-guide/)
-- [金巴兰攻略](/blog/jimbaran-guide/)
-- [乌鲁瓦图攻略](/blog/uluwatu-guide/)
-- [武吉半岛冒险指南](/blog/bukit-peninsula-guide/)
-- [沙努尔45项吃喝玩乐攻略](/blog/sanur-guide/)
-- [努沙杜瓦40个住宿美食活动攻略](/blog/nusa-dua-guide/)
-- [佩尼达岛吃喝玩乐全攻略](/blog/nusa-penida-guide/)
-- [蓝梦岛/金银岛景点全攻略](/blog/nusa-lembongan-ceningan-guide/)
+- [巴厘岛水明漾100个景点攻略](/zh-cn/blog/seminyak-guide/)
+- [库塔必访50个景点攻略](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [坎古80个必游景点](/zh-cn/blog/canggu-guide/)
+- [乌布探索的100个方式](/zh-cn/blog/ubud-guide/)
+- [金巴兰攻略](/zh-cn/blog/jimbaran-guide/)
+- [乌鲁瓦图攻略](/zh-cn/blog/uluwatu-guide/)
+- [武吉半岛冒险指南](/zh-cn/blog/bukit-peninsula-guide/)
+- [沙努尔45项吃喝玩乐攻略](/zh-cn/blog/sanur-guide/)
+- [努沙杜瓦40个住宿美食活动攻略](/zh-cn/blog/nusa-dua-guide/)
+- [佩尼达岛吃喝玩乐全攻略](/zh-cn/blog/nusa-penida-guide/)
+- [蓝梦岛/金银岛景点全攻略](/zh-cn/blog/nusa-lembongan-ceningan-guide/)
 
 ![部分知名景點最好放棄，免得把假期浪費在塞車上](https://images.gobaligo.id/vocus/vocus_a3bb9312579d287a186d81246be96731.png)
 
@@ -92,7 +92,7 @@ _srcHash: aad6c8100db5e4dd4fefcba72ba6bcfe
 
 ## **小心雨季**
 
-清明节-开斋节落在巴厘岛雨季的末期里，雨季可能不会下雨，也可能好几天都在下雨。在雨季造访巴厘岛务必要有突然下雨的备案。请参考「[巴厘岛雨季：旅游巴厘岛碰到下雨天怎么办？巴厘岛下雨天的60个备案攻略](/blog/2026-bali-indoor-activities/)」
+清明节-开斋节落在巴厘岛雨季的末期里，雨季可能不会下雨，也可能好几天都在下雨。在雨季造访巴厘岛务必要有突然下雨的备案。请参考「[巴厘岛雨季：旅游巴厘岛碰到下雨天怎么办？巴厘岛下雨天的60个备案攻略](/zh-cn/blog/2026-bali-indoor-activities/)」
 
 ## 家庭出游 大家都快乐的指南
 
@@ -100,30 +100,30 @@ _srcHash: aad6c8100db5e4dd4fefcba72ba6bcfe
 
 对于家庭中的长辈而言，巴厘岛提供了许多适合放松和休闲的场所，例如美丽的海滩、水疗中心和风光如画的田园风光。这些地方不仅能够让长辈享受安宁的时光，还可以一同参与当地的文化活动，了解巴厘岛独特的传统。要让长辈安心的旅游，行前的准备不可少！可以看看：
 
-- 第一集：[适合长者的巴厘岛旅行指南 - 安全、舒适与注意事项](/blog/bali-elderly-travel-guide/)
-- 第二集：[适合年长者的巴厘岛旅游地点全攻略](/blog/bali-senior-friendly-travel-guide/)
-- 第三集：[长辈的行为有多奇葩！？带出国旅游当心「吃力不讨好」](/blog/traveling-with-elderly-parents-tips/)
+- 第一集：[适合长者的巴厘岛旅行指南 - 安全、舒适与注意事项](/zh-cn/blog/bali-elderly-travel-guide/)
+- 第二集：[适合年长者的巴厘岛旅游地点全攻略](/zh-cn/blog/bali-senior-friendly-travel-guide/)
+- 第三集：[长辈的行为有多奇葩！？带出国旅游当心「吃力不讨好」](/zh-cn/blog/traveling-with-elderly-parents-tips/)
 
 对于小朋友来说，巴厘岛为他们提供了一个欢乐的度假机会。丰富的户外活动、动物园参观和历史古迹探索，可以满足小朋友对冒险和探索的好奇心。关于亲子游的提示及指南请看：
 
-- [巴厘岛家庭亲子友善景点大全｜巴厘岛超过100样适合亲子同乐活动](/blog/bali-family-travel-guide/)
-- [带小朋友去巴厘岛家庭旅游的20个注意要点](/blog/bali-family-travel-tips/)
-- [巴厘岛亲子游：带婴儿、幼童和学龄儿童去度假的一些提示](/blog/bali-family-travel-guide-2/)
-- [巴厘岛找保姆指南：如何找到适合的保姆及费用概况](/blog/bali-nanny-hiring-guide/)
-- [带宝宝去巴厘岛：携带含猪肉、鸡肉副食品的注意事项](/blog/baby-food-bali-tips/)
-- [巴厘岛亲子乐园：十五家拥有滑水道滑梯的亲子度假村 TOP 15](/blog/bali-family-resorts-water-slides/)
-- [推荐巴厘岛14家庭亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图适合家庭度假、亲子放松的最佳选择](/blog/bali-family-resorts-kids-club/)
-- [乌布54项亲子活动带小朋友最轻松！](/blog/ubud-with-kids-guide/)
-- [巴厘岛最适合亲子度假的海滨：沙努尔攻略地图｜45项吃喝玩乐](/blog/sanur-guide/)
-- [巴厘岛亲子一日游攻略：探索野生动物园与红鹤海滩俱乐部](/blog/bali-family-day-safari-flamingo/)
-- [巴厘岛亲子游不能错过：巴厘岛动物园 Bali Safari 要怎么玩乐、夜宿攻略](/blog/bali-safari-night-stay/)
-- [2025新开幕](/blog/marine-safari-bali-guide/) [Marine Safari Bali 巴厘岛海洋野生动物园攻略](/blog/marine-safari-bali-guide/)
-- [与羊驼互动野餐：孩子们的自然课堂](/blog/pacha-alpaca-family-canggu/)
-- [Nuanu Creative City 的魔法花园 Magic Garden](/blog/nuanu-magic-garden-bali/)
-- [Jungle Kids Bali | Nuanu 的 Kids Club：最适合孩子的游乐与学习空间](/blog/jungle-kids-bali-nuanu-playground/)
-- [巴厘岛亲子旅游攻略 - 水明漾篇](/blog/seminyak-family-travel-2026/)
-- [巴厘岛亲子旅游攻略 - 乌布篇](/blog/ubud-family-travel-2026/)
-- [巴厘岛亲子旅游攻略 - 沙努尔篇](/blog/sanur-family-travel-guide-2/)
+- [巴厘岛家庭亲子友善景点大全｜巴厘岛超过100样适合亲子同乐活动](/zh-cn/blog/bali-family-travel-guide/)
+- [带小朋友去巴厘岛家庭旅游的20个注意要点](/zh-cn/blog/bali-family-travel-tips/)
+- [巴厘岛亲子游：带婴儿、幼童和学龄儿童去度假的一些提示](/zh-cn/blog/bali-family-travel-guide-2/)
+- [巴厘岛找保姆指南：如何找到适合的保姆及费用概况](/zh-cn/blog/bali-nanny-hiring-guide/)
+- [带宝宝去巴厘岛：携带含猪肉、鸡肉副食品的注意事项](/zh-cn/blog/baby-food-bali-tips/)
+- [巴厘岛亲子乐园：十五家拥有滑水道滑梯的亲子度假村 TOP 15](/zh-cn/blog/bali-family-resorts-water-slides/)
+- [推荐巴厘岛14家庭亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图适合家庭度假、亲子放松的最佳选择](/zh-cn/blog/bali-family-resorts-kids-club/)
+- [乌布54项亲子活动带小朋友最轻松！](/zh-cn/blog/ubud-with-kids-guide/)
+- [巴厘岛最适合亲子度假的海滨：沙努尔攻略地图｜45项吃喝玩乐](/zh-cn/blog/sanur-guide/)
+- [巴厘岛亲子一日游攻略：探索野生动物园与红鹤海滩俱乐部](/zh-cn/blog/bali-family-day-safari-flamingo/)
+- [巴厘岛亲子游不能错过：巴厘岛动物园 Bali Safari 要怎么玩乐、夜宿攻略](/zh-cn/blog/bali-safari-night-stay/)
+- [2025新开幕](/zh-cn/blog/marine-safari-bali-guide/) [Marine Safari Bali 巴厘岛海洋野生动物园攻略](/zh-cn/blog/marine-safari-bali-guide/)
+- [与羊驼互动野餐：孩子们的自然课堂](/zh-cn/blog/pacha-alpaca-family-canggu/)
+- [Nuanu Creative City 的魔法花园 Magic Garden](/zh-cn/blog/nuanu-magic-garden-bali/)
+- [Jungle Kids Bali | Nuanu 的 Kids Club：最适合孩子的游乐与学习空间](/zh-cn/blog/jungle-kids-bali-nuanu-playground/)
+- [巴厘岛亲子旅游攻略 - 水明漾篇](/zh-cn/blog/seminyak-family-travel-2026/)
+- [巴厘岛亲子旅游攻略 - 乌布篇](/zh-cn/blog/ubud-family-travel-2026/)
+- [巴厘岛亲子旅游攻略 - 沙努尔篇](/zh-cn/blog/sanur-family-travel-guide-2/)
 - 巴厘岛家庭亲子旅游专栏
 
 ![家庭出游 大家都快乐的指南](https://images.gobaligo.id/vocus/vocus_02b21980932dcbfaf9c9146ef6bf887b.png)
@@ -136,7 +136,7 @@ _srcHash: aad6c8100db5e4dd4fefcba72ba6bcfe
 
 **快速参考：**
 
-- [巴厘岛旅游注意事项：第一次去巴厘岛必看的31项旅游攻略](/blog/bali-ultimate-guide-2026/)
-- [巴厘岛不踩雷攻略：18个常见错误与建议](/blog/bali-travel-mistakes-tips/)
-- 【巴厘岛必知】99%游客都在偷偷搜索的超尴尬41个问题！](/blog/bali-travel-faqs-guide/)
-- 【这样玩居然不堵车！】巴厘岛自由行规划圣经](/blog/bali-free-travel-guide/)
+- [巴厘岛旅游注意事项：第一次去巴厘岛必看的31项旅游攻略](/zh-cn/blog/bali-ultimate-guide-2026/)
+- [巴厘岛不踩雷攻略：18个常见错误与建议](/zh-cn/blog/bali-travel-mistakes-tips/)
+- 【巴厘岛必知】99%游客都在偷偷搜索的超尴尬41个问题！](/zh-cn/blog/bali-travel-faqs-guide/)
+- 【这样玩居然不堵车！】巴厘岛自由行规划圣经](/zh-cn/blog/bali-free-travel-guide/)

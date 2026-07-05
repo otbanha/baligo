@@ -99,11 +99,11 @@ Kalau lagi hoki, kamu bisa dapetin foto Gunung Agung — gunung suci Bali yang m
 
 ## Tempat Wisata Sekitar
 
-Di sekitar Lahangan Sweet ada «[Tiga Destinasi Impian di Bali Timur](/blog/bali-east-tour-guide/)»
+Di sekitar Lahangan Sweet ada «[Tiga Destinasi Impian di Bali Timur](/id/blog/bali-east-tour-guide/)»
 
 ![峇里島東部三大夢幻景點](https://images.gobaligo.id/vocus/vocus_7a661cfed6b6052d1f85e5dccd0fd05d.png)
 
-[Tiga Destinasi Impian di Bali Timur](/blog/bali-east-tour-guide/)
+[Tiga Destinasi Impian di Bali Timur](/id/blog/bali-east-tour-guide/)
 
 Tapi kalau kamu udah mutusin ke Lahangan Sweet, mending skip aja Gerbang Surga yang asli, soalnya antre 2-3 jam nggak sebanding.
 

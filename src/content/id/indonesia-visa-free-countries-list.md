@@ -59,9 +59,9 @@ Selain itu, negara-negara kayak Inggris, Korea Selatan, Prancis, Jepang, Rusia, 
 
 Berdasarkan aturan yang berlaku saat ini, warga Taiwan yang masuk ke Indonesia bisa mengajukan visa on arrival (VOA) atau 'Electronic Visa on Arrival (eVOA)' dengan biaya Rp 500.000 (sekitar USD$16), berlaku untuk tinggal 30 hari dan bisa diperpanjang satu kali.
 
-> Baca juga: [FAQ Terbaru 2024: Visa & e-VOA Masuk Indonesia/Bali](/blog/indonesia-bali-visa-evoa-faq/)
+> Baca juga: [FAQ Terbaru 2024: Visa & e-VOA Masuk Indonesia/Bali](/id/blog/indonesia-bali-visa-evoa-faq/)
 
-> Baca juga: [Pahami dalam 1 Menit: Prosedur Masuk Indonesia/Bali - Turun Pesawat/Imigrasi/Ambil Bagasi](/blog/2025-bali-immigration-process/)
+> Baca juga: [Pahami dalam 1 Menit: Prosedur Masuk Indonesia/Bali - Turun Pesawat/Imigrasi/Ambil Bagasi](/id/blog/2025-bali-immigration-process/)
 
 Sesuai arahan Presiden Jokowi, Menteri Hukum dan HAM Indonesia akan mengevaluasi kebijakan bebas visa setiap enam bulan. Saat itu, akan dibahas apakah akan menambahkan lebih banyak negara ke dalam daftar bebas visa. Hal ini memicu perhatian publik terhadap daftar negara bebas visa gelombang berikutnya, terutama apakah negara seperti China dan Taiwan memiliki kesempatan untuk masuk dalam daftar tersebut. Negara-negara ini memiliki potensi pasar ekonomi dan pariwisata yang signifikan bagi Indonesia, sehingga apakah akan dimasukkan dalam kebijakan bebas visa akan menjadi salah satu isu penting dalam diskusi antar kementerian di masa depan.
 

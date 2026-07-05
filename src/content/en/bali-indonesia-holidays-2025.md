@@ -29,8 +29,8 @@ Bali, this picturesque Indonesian island, will host a dazzling array of cultural
 
 ![Complete Guide to Indonesia's Public Holidays & Bali Festiva](https://images.gobaligo.id/vocus/vocus_c0f9a3baeb0aed740edc947ff8866451.jpg)
 
-- **For those looking to avoid Bali's five peak seasons, check out:** [**Bali Actually Has Five Peak Tourist Seasons! How to Travel Smartly During Off-Peak Times?**](/blog/bali-peak-season-travel-tips/)
-- **When are Indonesia/Bali's rainy and dry seasons? See:** [**Best Time to Visit Bali? In-Depth Look at Dry Season, Rainy Season/Pros & Cons**](/blog/bali-best-time-to-visit/)
+- **For those looking to avoid Bali's five peak seasons, check out:** [**Bali Actually Has Five Peak Tourist Seasons! How to Travel Smartly During Off-Peak Times?**](/en/blog/bali-peak-season-travel-tips/)
+- **When are Indonesia/Bali's rainy and dry seasons? See:** [**Best Time to Visit Bali? In-Depth Look at Dry Season, Rainy Season/Pros & Cons**](/en/blog/bali-best-time-to-visit/)
 
 ### 
 
@@ -57,7 +57,7 @@ Click the 'Open Table of Contents' button for quick navigation
 - January 1st, New Year's Day, is a public holiday worldwide, including in Indonesia/Bali, with celebrations peaking on December 31st. Indonesians observe a ~~spontaneous~~ 'Nataru' holiday during this period—see the festival description at the end of December.
 - January 27th marks [Siwa Ratri Day], one of the most important festivals in the Balinese calendar. Siwa Ratri emphasizes introspection, meditation, and seeking forgiveness. Rituals include staying awake for 36 hours, fasting for 24 hours, and maintaining silence for 12 hours. After this period, purification ceremonies are often held on beaches, alongside rituals at major temples across the island.
 - January 27th, 2025, is also Indonesia's national public holiday, 'Ascension of Prophet Muhammad.' This significant Islamic holiday commemorates the Prophet Muhammad's ascension. On this day, Muslims gather at mosques for prayers and worship.
-- January 29th is our Chinese Lunar New Year! Indonesia designates the first day of the lunar year (January 29th, 2025) as a public holiday, while Taiwan enjoys a nine-day holiday from January 25th (Saturday) to February 2nd (Sunday). Although the nine-day Lunar New Year holiday may seem unrelated to Bali, it's a prime time for travelers from China, Hong Kong, and Taiwan to take extended vacations. Additionally, since January 27th and 29th are Indonesian public holidays, with January 28th as a flexible holiday, this creates a five-day break. Taking two more days off on January 30th and 31st extends the holiday to nine days, attracting many Indonesians to Bali for vacations. Thus, Lunar New Year is also a peak tourist season in Bali! If you're visiting Bali during this time, here are some tips: [Bali Family Travel Guide for Lunar New Year: Flights, Visas, Transportation, Attractions](/blog/2026-bali-lunar-new-year-guide/)
+- January 29th is our Chinese Lunar New Year! Indonesia designates the first day of the lunar year (January 29th, 2025) as a public holiday, while Taiwan enjoys a nine-day holiday from January 25th (Saturday) to February 2nd (Sunday). Although the nine-day Lunar New Year holiday may seem unrelated to Bali, it's a prime time for travelers from China, Hong Kong, and Taiwan to take extended vacations. Additionally, since January 27th and 29th are Indonesian public holidays, with January 28th as a flexible holiday, this creates a five-day break. Taking two more days off on January 30th and 31st extends the holiday to nine days, attracting many Indonesians to Bali for vacations. Thus, Lunar New Year is also a peak tourist season in Bali! If you're visiting Bali during this time, here are some tips: [Bali Family Travel Guide for Lunar New Year: Flights, Visas, Transportation, Attractions](/en/blog/2026-bali-lunar-new-year-guide/)
 
 ![農曆新年假期大人放長假、小孩放寒假、還可以帶著家中長輩來峇里島避寒喔～](https://images.gobaligo.id/vocus/vocus_9634954ff2fb33a725912d22905fbeae.png)
 
@@ -98,7 +98,7 @@ Escape the winter chill this Lunar New Year holiday! It's the perfect time for a
 
 - March 29: Nyepi Day / Balinese Hindu New Year. This is the most important holiday of the year in Bali.
 
-- What is Nyepi Day? Is Nyepi Day a good time to visit Bali? What should you be aware of? Where can you watch the Ogoh-Ogoh Parade? [Click here for more info](/blog/2025-bali-nyepi-day-guide/).
+- What is Nyepi Day? Is Nyepi Day a good time to visit Bali? What should you be aware of? Where can you watch the Ogoh-Ogoh Parade? [Click here for more info](/en/blog/2025-bali-nyepi-day-guide/).
 
 ### 
 
@@ -147,7 +147,7 @@ The Eid al-Fitr period is also known as 'Lebaran'. For more about Eid al-Fitr, c
 - May 30th–June 1st: The Ubud Food Festival takes place in Ubud, Bali. This festival celebrates Indonesian food and drink with various activities, including long-table lunches, culinary collaborations among Southeast Asia's leading chefs, food talks, concerts, and film screenings. If you'd like to attend, you can purchase tickets on the [official website](https://www.ubudfoodfestival.com/).
 
 **Quick Reference:**  
-[Ubud Food Festival 2025: A Culinary Heritage Journey in the Heart of Bali](/blog/ubud-food-festival-2025/)
+[Ubud Food Festival 2025: A Culinary Heritage Journey in the Heart of Bali](/en/blog/ubud-food-festival-2025/)
 
 ## June
 
@@ -190,13 +190,13 @@ The Eid al-Fitr period is also known as 'Lebaran'. For more about Eid al-Fitr, c
 
 The Bali Kite Festival is an internationally renowned kite competition
 
-- The [Sanur Village Festival](https://sanurvillagefestival.com/) is an annual event (Read more: What's fun in Sanur? Check out our [Sanur Guide Map｜45 Things to Eat, Drink, and Enjoy, Plus SPA and Accommodation Recommendations!](/blog/sanur-guide/)). This festival celebrates art, food, culture, fashion, yoga, and the environment. Numerous large-scale events and festivities take place simultaneously, such as tennis, traditional boat races, marine water sports, surfing competitions, photography contests and exhibitions, kite flying festivals, village cycling tours, markets, coral planting, baby turtle releases, food festivals, music and cultural performances, yoga, open golf championships, and the Bali International Triathlon.
+- The [Sanur Village Festival](https://sanurvillagefestival.com/) is an annual event (Read more: What's fun in Sanur? Check out our [Sanur Guide Map｜45 Things to Eat, Drink, and Enjoy, Plus SPA and Accommodation Recommendations!](/en/blog/sanur-guide/)). This festival celebrates art, food, culture, fashion, yoga, and the environment. Numerous large-scale events and festivities take place simultaneously, such as tennis, traditional boat races, marine water sports, surfing competitions, photography contests and exhibitions, kite flying festivals, village cycling tours, markets, coral planting, baby turtle releases, food festivals, music and cultural performances, yoga, open golf championships, and the Bali International Triathlon.
 
 ![Sanur Village Festival](https://images.gobaligo.id/vocus/vocus_9909be8a3fbfc5f55786b656c8093cc9.png)
 
 Sanur Village Festival
 
-- Held in July, the "Penglipuran Village Festival" is an annual cultural event in Penglipuran Village, Bali. This festival aims to showcase the traditional culture and lifestyle of Penglipuran Village, which is renowned for its well-preserved traditional architecture and cultural practices. Activities include traditional dance and music performances, handicraft exhibitions, local food stalls, and cultural workshops. Visitors can gain a deeper understanding of Penglipuran Village's unique culture and experience the daily lives of its residents, making it an ideal way to explore Bali's traditional village culture. (Read more: [Time Travel in Penglipuran Village: Experiencing Bali's Ancient Charm](/blog/penglipuran-village-bali-experience/))
+- Held in July, the "Penglipuran Village Festival" is an annual cultural event in Penglipuran Village, Bali. This festival aims to showcase the traditional culture and lifestyle of Penglipuran Village, which is renowned for its well-preserved traditional architecture and cultural practices. Activities include traditional dance and music performances, handicraft exhibitions, local food stalls, and cultural workshops. Visitors can gain a deeper understanding of Penglipuran Village's unique culture and experience the daily lives of its residents, making it an ideal way to explore Bali's traditional village culture. (Read more: [Time Travel in Penglipuran Village: Experiencing Bali's Ancient Charm](/en/blog/penglipuran-village-bali-experience/))
 
 ![彭里普蘭村是一個奇妙的體驗](https://images.gobaligo.id/vocus/vocus_67e9f1a9b60cefaf4ced3fc2fdf340c2.jpg)
 
@@ -255,8 +255,8 @@ Bali Carnival
 
 ### October 29: Ubud Writers and Readers Festival
 
-- September 22: Navaratri is a Hindu festival celebrating the victory of Goddess Durga. This festival usually takes place in September or October each year and lasts for 9 days, during which people engage in fasting, prayers, flower offerings, and dancing. The last day of Navaratri (October 1) is "Dussehra," celebrating Prince Rama's defeat of the demon king Ravana. This is also the story told in the [Bali Kecak Fire Dance](/blog/kecak-fire-dance-bali/)!
-- October 7: This day is the "Ocean Peace Day" for Bali's three main offshore islands. Friends traveling to and from Nusa Penida, Nusa Lembongan, and Nusa Ceningan should take note, as all ferry services will be suspended on this day. Be sure to plan accordingly! What is "Ocean Peace Day"? What should you be aware of? Check out our [explanation here](/blog/bali-ocean-peace-day/).
+- September 22: Navaratri is a Hindu festival celebrating the victory of Goddess Durga. This festival usually takes place in September or October each year and lasts for 9 days, during which people engage in fasting, prayers, flower offerings, and dancing. The last day of Navaratri (October 1) is "Dussehra," celebrating Prince Rama's defeat of the demon king Ravana. This is also the story told in the [Bali Kecak Fire Dance](/en/blog/kecak-fire-dance-bali/)!
+- October 7: This day is the "Ocean Peace Day" for Bali's three main offshore islands. Friends traveling to and from Nusa Penida, Nusa Lembongan, and Nusa Ceningan should take note, as all ferry services will be suspended on this day. Be sure to plan accordingly! What is "Ocean Peace Day"? What should you be aware of? Check out our [explanation here](/en/blog/bali-ocean-peace-day/).
 - Diwali, the Festival of Lights, is a Hindu celebration of light overcoming darkness. This festival usually occurs in October or November each year, with the date determined by the Hindu calendar. In 2025, Diwali will be celebrated on October 20.
 - October 29 to November 2: The [Ubud Writers and Readers Festival](https://www.ubudwritersfestival.com/) will take place in Ubud. This is one of Indonesia's largest international cultural events, bringing together top talents in literature, art, and culture.
 
@@ -286,7 +286,7 @@ Welcome to the Southern Hemisphere for New Year's! But be prepared for large cro
 
 **➡️**[**Click here for more great deals in Bali**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)**⬅️**
 
-Above is the most complete list of festivals in Indonesia/Bali for 2025. Bali is a popular tourist destination, and during peak seasons, it can get very crowded. If you prefer to avoid the crowds, you can steer clear of the "[Five Peak Travel Seasons in Bali](/blog/bali-peak-season-travel-tips/)" we introduced. By combining this with some of the unique Balinese festivals mentioned above, "**plan your trip to Bali around these dates**," and your vacation will be more diverse and exciting!
+Above is the most complete list of festivals in Indonesia/Bali for 2025. Bali is a popular tourist destination, and during peak seasons, it can get very crowded. If you prefer to avoid the crowds, you can steer clear of the "[Five Peak Travel Seasons in Bali](/en/blog/bali-peak-season-travel-tips/)" we introduced. By combining this with some of the unique Balinese festivals mentioned above, "**plan your trip to Bali around these dates**," and your vacation will be more diverse and exciting!
 
 \*The above dates are subject to final government announcement
 

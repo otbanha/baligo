@@ -53,10 +53,10 @@ Update: 2026/07/03
 
 全程保持冷静友善，不要过度表现对商品的渴望以免商家提高价格，也不要一直纠缠砍价，谈到双方都能接受的价格就可以成交。
 
-> 延伸阅读：[旅行购物必知：安全又便利的消费指南](/blog/travel-shopping-safety/)
+> 延伸阅读：[旅行购物必知：安全又便利的消费指南](/zh-cn/blog/travel-shopping-safety/)
 
-> 延伸阅读：[巴厘岛最大艺术批发市场 Kumbasri Art Market](/blog/kumbasari-art-market-shopping/)
+> 延伸阅读：[巴厘岛最大艺术批发市场 Kumbasri Art Market](/zh-cn/blog/kumbasari-art-market-shopping/)
 
-> 延伸阅读：[还有在举办的巴厘岛四个假日市集：最接地气的购物体验](/blog/bali-weekend-markets-2026/)
+> 延伸阅读：[还有在举办的巴厘岛四个假日市集：最接地气的购物体验](/zh-cn/blog/bali-weekend-markets-2026/)
 
 {{block:伴手禮}}

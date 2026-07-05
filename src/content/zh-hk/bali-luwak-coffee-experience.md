@@ -87,16 +87,16 @@ _srcHash: 2b29413ca09fa8cb0e3ddc1eb264a59a
 
 **快速參考：**
 
-- [峇里島包車須知 - 費用、預訂方式、優勢分析](/blog/bali-private-car-hire-guide/)
-- [【峇里島包車司機推薦】睇網友真實點評搵到適合你嘅好司機](/blog/bali-private-car-drivers-guide/)
-- [抵達峇里島：接機嘅交通選擇及第一日嘅實用建議](/blog/bali-airport-transfer-guide/)
-- [峇里島旅遊中文司機/中文導遊/中文包車行程推薦](/blog/bali-chinese-tour-guide/)
-- [峇里島租電單車攻略！應該租電單車好，定係包車好？](/blog/bali-motorbike-rental-guide/)
-- [咩時候包車？咩場合叫車？包車 vs. 叫車：點樣選擇最適合你嘅旅行方式？](/blog/bali-transportation-guide-car-rental/)
-- [喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/blog/gojek-bali-guide/)
-- [網約車Gojek點樣用？](/blog/gojek-bali-guide/)
-- [印尼/峇里島嘅Gojek與GoPay註冊、使用、儲值教學全面指南](/blog/indonesia-gojek-gopay-guide/)
-- [峇里島APP網約車司機嘅套路：點樣避免Grab/Gojek陷阱？](/blog/bali-grab-gojek-scam-tips/)
+- [峇里島包車須知 - 費用、預訂方式、優勢分析](/zh-hk/blog/bali-private-car-hire-guide/)
+- [【峇里島包車司機推薦】睇網友真實點評搵到適合你嘅好司機](/zh-hk/blog/bali-private-car-drivers-guide/)
+- [抵達峇里島：接機嘅交通選擇及第一日嘅實用建議](/zh-hk/blog/bali-airport-transfer-guide/)
+- [峇里島旅遊中文司機/中文導遊/中文包車行程推薦](/zh-hk/blog/bali-chinese-tour-guide/)
+- [峇里島租電單車攻略！應該租電單車好，定係包車好？](/zh-hk/blog/bali-motorbike-rental-guide/)
+- [咩時候包車？咩場合叫車？包車 vs. 叫車：點樣選擇最適合你嘅旅行方式？](/zh-hk/blog/bali-transportation-guide-car-rental/)
+- [喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/zh-hk/blog/gojek-bali-guide/)
+- [網約車Gojek點樣用？](/zh-hk/blog/gojek-bali-guide/)
+- [印尼/峇里島嘅Gojek與GoPay註冊、使用、儲值教學全面指南](/zh-hk/blog/indonesia-gojek-gopay-guide/)
+- [峇里島APP網約車司機嘅套路：點樣避免Grab/Gojek陷阱？](/zh-hk/blog/bali-grab-gojek-scam-tips/)
 
 ***
 
@@ -152,8 +152,8 @@ https://youtu.be/NEnIZjZnrTk
 
 **快速參考：**
 
-- [峇里島十大美食](/blog/bali-travel-tips/)
-- [峇里島十大美食（第二版）](/blog/bali-top-10-foods/)
+- [峇里島十大美食](/zh-hk/blog/bali-travel-tips/)
+- [峇里島十大美食（第二版）](/zh-hk/blog/bali-top-10-foods/)
 
 ***
 
@@ -163,7 +163,7 @@ https://youtu.be/NEnIZjZnrTk
 
 ![零食](https://images.gobaligo.id/vocus/vocus_3ea8ffe66b2a6770faffd5da33e37e49.png)
 
-呢度有介紹：[【網友推薦】六大種類，超過20項峇里島伴手禮推薦指南：留住珍貴回憶嘅絕佳選擇](/blog/bali-souvenirs-gift-guide/)
+呢度有介紹：[【網友推薦】六大種類，超過20項峇里島伴手禮推薦指南：留住珍貴回憶嘅絕佳選擇](/zh-hk/blog/bali-souvenirs-gift-guide/)
 
 ***
 
@@ -203,7 +203,7 @@ https://youtu.be/NEnIZjZnrTk
 
 **快速參考：**
 
-[印尼峇里島旅遊必備藥品有咩？防蚊液/防曬乳點買？](/blog/bali-travel-medicine-checklist/)
+[印尼峇里島旅遊必備藥品有咩？防蚊液/防曬乳點買？](/zh-hk/blog/bali-travel-medicine-checklist/)
 
 ### 早餐供應：
 
@@ -233,6 +233,6 @@ https://youtu.be/NEnIZjZnrTk
 
 撳呢度睇更多峇里島精彩遊記
 
-你都想寫遊記但唔知點落手？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！
+你都想寫遊記但唔知點落手？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/zh-hk/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！
 
 {{block:攻略}}

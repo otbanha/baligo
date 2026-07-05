@@ -120,6 +120,6 @@ This villa is my most impressive recent discovery. While the price isn’t cheap
 
 ![Editor’s Honest Thoughts](https://images.gobaligo.id/vocus/vocus_8d5ad2e2d7609bc307d6ab558884e63e.jpg)
 
-Jimbaran in Bali boasts stunning beaches and breathtaking landscapes. This area is renowned for its incredible resorts, featuring charming golden beaches, mesmerizing sunsets, and luxurious resorts. It combines leisure, dining, shopping, and entertainment, making it a favorite among tourists. Click [here](/blog/jimbaran-beachfront-hotels-guide/) to explore some of Jimbaran’s well-known beachfront accommodations.
+Jimbaran in Bali boasts stunning beaches and breathtaking landscapes. This area is renowned for its incredible resorts, featuring charming golden beaches, mesmerizing sunsets, and luxurious resorts. It combines leisure, dining, shopping, and entertainment, making it a favorite among tourists. Click [here](/en/blog/jimbaran-beachfront-hotels-guide/) to explore some of Jimbaran’s well-known beachfront accommodations.
 
 {{block:住宿}}

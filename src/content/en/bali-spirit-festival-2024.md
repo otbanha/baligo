@@ -32,9 +32,9 @@ The Bali Spirit Festival will return to Ubud from May 1st to 5th, 2024. This gra
 
 Further Reading:
 
-> [Complete Guide to 2024 Indonesian Public Holidays & Bali Festivals: Dates of Exciting Events!](/blog/2024-bali-festival-calendar/)
+> [Complete Guide to 2024 Indonesian Public Holidays & Bali Festivals: Dates of Exciting Events!](/en/blog/2024-bali-festival-calendar/)
 
-> [How to Enjoy a Nine-Day Holiday for Labor Day (May 1st)?](/blog/2024-bali-trip-planning-guide/)
+> [How to Enjoy a Nine-Day Holiday for Labor Day (May 1st)?](/en/blog/2024-bali-trip-planning-guide/)
 
 ## What Makes the Bali Spirit Festival Unique
 
@@ -92,9 +92,9 @@ Tickets for the Bali Spirit Festival are now on sale. Please [book your tickets 
 
 Accommodation in Ubud can get quite crowded during the festival period, so make sure to arrange your stay in advance.
 
-> [【Ubud Accommodation Guide】21 Unique Stays in Ubud: Experience the Magic of Bali's Mountainous Landscapes!](/blog/ubud-villas-pool-guide/)
+> [【Ubud Accommodation Guide】21 Unique Stays in Ubud: Experience the Magic of Bali's Mountainous Landscapes!](/en/blog/ubud-villas-pool-guide/)
 
-> [Explore 8 Breathtaking Tree House/Bamboo Villa Stays in Ubud](/blog/ubud-treehouse-bamboo-villa-stays/)
+> [Explore 8 Breathtaking Tree House/Bamboo Villa Stays in Ubud](/en/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ### 3. Packing Essentials
 
@@ -130,10 +130,10 @@ You can take a taxi or hire a private car to reach the festival venue.
 
 ## Further Reading
 
-> [Bali Area Guide: Recommended Accommodations - Understanding Kuta, Seminyak, Canggu, Ubud](/blog/2023-12-29-65839fbafd89780001e876b5/)
+> [Bali Area Guide: Recommended Accommodations - Understanding Kuta, Seminyak, Canggu, Ubud](/en/blog/2023-12-29-65839fbafd89780001e876b5/)
 
-> [2024 Ubud Complete Guide: 50 Ways to Deeply Explore Ubud’s Charm](/blog/ubud-guide/)
+> [2024 Ubud Complete Guide: 50 Ways to Deeply Explore Ubud’s Charm](/en/blog/ubud-guide/)
 
-> [Bali Family Travel Guide: 53 Kid-Friendly Activities in Ubud for a Stress-Free Trip!](/blog/ubud-with-kids-guide/)
+> [Bali Family Travel Guide: 53 Kid-Friendly Activities in Ubud for a Stress-Free Trip!](/en/blog/ubud-with-kids-guide/)
 
-> [4-Day Ubud Itinerary: Monkey Forest, Ubud Market, Pottery Class, Alas Harum](/blog/ubud-monkey-forest-market-pottery-alas-harum/)
+> [4-Day Ubud Itinerary: Monkey Forest, Ubud Market, Pottery Class, Alas Harum](/en/blog/ubud-monkey-forest-market-pottery-alas-harum/)

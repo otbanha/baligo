@@ -78,7 +78,7 @@ Besakih寺庙是巴厘岛最神圣的宗教圣地，政府计划于2026年开始
 
 Gilimanuk-Mengwi高速公路计划将持续推进，并将新增南巴厘地铁系统，进一步提升南部旅游热区的交通便利性，减少车流压力。
 
-除了这10个尚未/正在动工的计划之外，还有正在施工中的巴厘岛机场轻轨，请看我们[以前的报道](/blog/bali-lrt-construction-update/)
+除了这10个尚未/正在动工的计划之外，还有正在施工中的巴厘岛机场轻轨，请看我们[以前的报道](/zh-cn/blog/bali-lrt-construction-update/)
 
 ![峇里島將採用和雅加達相同的輕軌系統](https://images.gobaligo.id/vocus/vocus_18c707e4ec41b5fe1c5ccd1650b0aee3.jpg)
 

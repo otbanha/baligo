@@ -50,7 +50,7 @@ Update: 2026/07/03
 - - 若商家要求「手动输入卡号」或「拍照记录信用卡」，应立即拒绝。
   - 改用现金或移动支付（如Apple Pay、Google Pay、印尼的GoPay）降低风险。
 
-> 延伸阅读：[Grab好？Gojek好？印尼/巴厘岛的Gojek与GoPay注册、使用、储值教学全面指南](/blog/indonesia-gojek-gopay-guide/)
+> 延伸阅读：[Grab好？Gojek好？印尼/巴厘岛的Gojek与GoPay注册、使用、储值教学全面指南](/zh-cn/blog/indonesia-gojek-gopay-guide/)
 
 ---
 
@@ -135,6 +135,6 @@ Update: 2026/07/03
 
 巴厘岛的刷卡环境不如台湾安全，但只要掌握正确的支付策略，就能大幅降低风险。建议旅途中尽量使用**现金与电子支付并用**，信用卡为辅。并随时留意交易记录，让你的假期既便利又安心！
 
-> 延伸阅读：[巴厘岛旅游要准备多少现金？](/blog/bali-travel-cash-budget-guide/)
+> 延伸阅读：[巴厘岛旅游要准备多少现金？](/zh-cn/blog/bali-travel-cash-budget-guide/)
 
 **你在巴厘岛遇到过信用卡问题吗？欢迎留言分享经验！** 💳✈️

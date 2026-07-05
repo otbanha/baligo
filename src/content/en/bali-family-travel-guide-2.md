@@ -50,25 +50,25 @@ The biggest pitfall when traveling with toddlers is thinking 'we’ll figure it 
 - Check if accommodations provide cribs and have children’s play facilities
 - Plan daily itineraries in advance, keeping them relaxed as toddlers need nap time
 
-Budget planning is also crucial. Traveling with kids costs more than traveling solo, especially for medical and baby supplies, which can be more expensive in Bali than in Taiwan. [Extended Reading: How Much Cash Should You Prepare for a Bali Trip?](/blog/bali-travel-cash-budget-guide/)
+Budget planning is also crucial. Traveling with kids costs more than traveling solo, especially for medical and baby supplies, which can be more expensive in Bali than in Taiwan. [Extended Reading: How Much Cash Should You Prepare for a Bali Trip?](/en/blog/bali-travel-cash-budget-guide/)
 
 ### Choosing the Right Accommodation: Half the Success of Family Travel
 
 Bali has numerous family-friendly hotels offering cribs, Kids Clubs, children's pools, and kid's menus. For families with toddlers, it's advisable to prioritize villas with fenced pools or private pools for enhanced safety.
 
-Additionally, Bali offers rental services for baby and toddler equipment (bookable via Klook), including car seats, strollers, cribs, swim vests, and pool fences. Renting locally can be a cost-effective option if you prefer not to lug bulky items on your flight. Check out this [Bali Family Resort Guide](/blog/bali-family-travel-guide/) for recommendations.
+Additionally, Bali offers rental services for baby and toddler equipment (bookable via Klook), including car seats, strollers, cribs, swim vests, and pool fences. Renting locally can be a cost-effective option if you prefer not to lug bulky items on your flight. Check out this [Bali Family Resort Guide](/en/blog/bali-family-travel-guide/) for recommendations.
 
 ![峇里島親子住宿推薦](https://images.gobaligo.id/vocus/vocus_ded3431198378280b186990e0cda284a.jpg)
 
-[Bali Family Accommodation Recommendations](/blog/bali-family-travel-guide/)
+[Bali Family Accommodation Recommendations](/en/blog/bali-family-travel-guide/)
 
-> Further Reading: [Bali Family Fun: Top 15 Resorts with Water Slides and Playgrounds](/blog/bali-family-resorts-water-slides/)
+> Further Reading: [Bali Family Fun: Top 15 Resorts with Water Slides and Playgrounds](/en/blog/bali-family-resorts-water-slides/)
 
-> Further Reading: [13 Best Family Resorts in Bali: Top Picks for Families in Kuta, Seminyak, Canggu, Jimbaran, and Uluwatu](/blog/bali-family-resorts-kids-club/)
+> Further Reading: [13 Best Family Resorts in Bali: Top Picks for Families in Kuta, Seminyak, Canggu, Jimbaran, and Uluwatu](/en/blog/bali-family-resorts-kids-club/)
 
-> [Bali Accommodation Guide: Spacious Family Rooms in 13 Top Resorts](/blog/bali-family-room-resorts/)
+> [Bali Accommodation Guide: Spacious Family Rooms in 13 Top Resorts](/en/blog/bali-family-room-resorts/)
 
-> [Family Travel Guide: Top Areas, Dry Season Weather, and Accommodation Recommendations](/blog/2026-03-30-113245/)
+> [Family Travel Guide: Top Areas, Dry Season Weather, and Accommodation Recommendations](/en/blog/2026-03-30-113245/)
 
 {{block:親子}}
 
@@ -129,13 +129,13 @@ Other recommended medications to pack:
 
 Most importantly: **Remember to purchase travel medical insurance before your trip**. Private hospitals in Bali are decent but very expensive. Without insurance, unexpected medical costs can hit your wallet hard.
 
-You can refer to "[21 Essential Items for Your Bali Trip](/blog/bali-travel-essentials/)" and "[Taking Your Baby to Bali: Precautions for Bringing Pork and Chicken Baby Food](/blog/baby-food-bali-tips/)"
+You can refer to "[21 Essential Items for Your Bali Trip](/en/blog/bali-travel-essentials/)" and "[Taking Your Baby to Bali: Precautions for Bringing Pork and Chicken Baby Food](/en/blog/baby-food-bali-tips/)"
 
 ### Nanny Resources: You Don’t Have to Do It All Alone
 
 ![Nanny Resources: You Don’t Have to Do It All Alone](https://images.gobaligo.id/vocus/vocus_7f570b4b0f39515ecb5982207e21e909.png)
 
-Many Taiwanese parents are unaware that Bali has a well-established nanny industry, widely used by expat families and travelers. If you need a break or someone to care for your child while you’re busy, finding a nanny in Bali is easier than you might think. How do you find one? What should you consider? What are the costs? Check out our guide "[How to Find the Right Nanny in Bali: A Comprehensive Guide and Cost Overview](/blog/bali-nanny-hiring-guide/)"
+Many Taiwanese parents are unaware that Bali has a well-established nanny industry, widely used by expat families and travelers. If you need a break or someone to care for your child while you’re busy, finding a nanny in Bali is easier than you might think. How do you find one? What should you consider? What are the costs? Check out our guide "[How to Find the Right Nanny in Bali: A Comprehensive Guide and Cost Overview](/en/blog/bali-nanny-hiring-guide/)"
 
 ### **5. Choose Child-Friendly Activities:**
 

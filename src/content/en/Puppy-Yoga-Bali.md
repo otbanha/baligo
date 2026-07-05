@@ -94,6 +94,6 @@ If you're willing to let go of the expectation of a 'serious yoga practice' and 
 
 If you prefer formal yoga classes, check out:
 
-> [Recommended Yoga Retreats in Ubud, Bali: 10 Dreamy Options Combining Yoga Classes and Spiritual Relaxation](https://gobaligo.id/blog/ubud-yoga-retreats-bali/)
+> [Recommended Yoga Retreats in Ubud, Bali: 10 Dreamy Options Combining Yoga Classes and Spiritual Relaxation](https://gobaligo.id/en/blog/ubud-yoga-retreats-bali/)
 
 {{block:戶外}}

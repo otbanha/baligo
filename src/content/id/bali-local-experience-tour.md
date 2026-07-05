@@ -36,7 +36,7 @@ https://youtu.be/RRurkFC7UG4
 
 Pasar ini nggak cuma punya kerajinan tangan yang beraneka ragam, tapi juga banyak toko yang sering didatangi warga lokal, jadi kamu bisa ngerasain suasana belanja Bali yang paling autentik. Waktu jalan-jalan, jangan lupa bawa uang tunai yang cukup, soalnya banyak pedagang yang nggak terima kartu kredit.
 
-Baca juga: [Panduan Budget Tunai untuk Liburan ke Bali](/blog/bali-travel-cash-budget-guide/)
+Baca juga: [Panduan Budget Tunai untuk Liburan ke Bali](/id/blog/bali-travel-cash-budget-guide/)
 
 ## Pasar Badung
 
@@ -92,6 +92,6 @@ Semoga artikel ini bisa kasih inspirasi buat liburanmu ke Bali, biar kamu juga b
 
 Klik di sini untuk lihat lebih banyak cerita seru dari Bali
 
-Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara nulis cerita perjalanan Bali yang kece](/blog/how-to-write-bali-travelogue/)」, biar ceritamu makin keren!
+Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara nulis cerita perjalanan Bali yang kece](/id/blog/how-to-write-bali-travelogue/)」, biar ceritamu makin keren!
 
 {{block:戶外}}

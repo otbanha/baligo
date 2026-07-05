@@ -44,11 +44,11 @@ Ensure your passport has at least six months of validity remaining and check if 
 
 Quick Reference:
 
-- [August 2025 Indonesia Bali Entry Reforms｜Understand the Latest Process in 1 Minute: From Landing → Customs → Baggage Claim](/blog/bali-all-indonesia-arrival-guide/)
+- [August 2025 Indonesia Bali Entry Reforms｜Understand the Latest Process in 1 Minute: From Landing → Customs → Baggage Claim](/en/blog/bali-all-indonesia-arrival-guide/)
 
 **In addition to your passport and visa, here's what else you need to prepare:**
 
-- Screenshot or download of your [Tourism Tax Receipt](/blog/2026-bali-tourism-tax-guide/)
+- Screenshot or download of your [Tourism Tax Receipt](/en/blog/2026-bali-tourism-tax-guide/)
 
 ### 2. Health and Medical Insurance:
 
@@ -64,22 +64,22 @@ Bali is a tropical region where mosquitoes are quite common, especially during t
 
 Bali uses the Indonesian Rupiah (IDR) as the sole currency in circulation. You'll need to exchange your local currency for "US dollars" before departure. Why? Here's a quick guide to currency exchange:
 
-- [Currency Exchange Guide for Indonesia/Bali](/blog/bali-currency-exchange-guide/)
-- [How Much Cash Should You Prepare for a Bali Trip?](/blog/bali-travel-cash-budget-guide/)
+- [Currency Exchange Guide for Indonesia/Bali](/en/blog/bali-currency-exchange-guide/)
+- [How Much Cash Should You Prepare for a Bali Trip?](/en/blog/bali-travel-cash-budget-guide/)
 
 ### 5. What to Pack?:
 
 ![5. What to Pack?:](https://images.gobaligo.id/vocus/vocus_91ec7922f1447500e4a3e09b3f71f767.jpg)
 
-Pack light and appropriate luggage according to your travel plans. If you're planning to participate in water activities or explore Bali's natural attractions, it's important to bring suitable clothing and footwear. For other reminders such as sun protection, whether to bring rain gear, voltage/plug types, and other details, please refer to: [What to Pack for Bali? 21 Essential Items](/blog/bali-travel-essentials/)
+Pack light and appropriate luggage according to your travel plans. If you're planning to participate in water activities or explore Bali's natural attractions, it's important to bring suitable clothing and footwear. For other reminders such as sun protection, whether to bring rain gear, voltage/plug types, and other details, please refer to: [What to Pack for Bali? 21 Essential Items](/en/blog/bali-travel-essentials/)
 
-For recommended clothing, please refer to [Do You Need a Jacket in Bali? Bali Outfit Guide: 8 Must-Pack Clothing Items](/blog/bali-packing-essentials/)
+For recommended clothing, please refer to [Do You Need a Jacket in Bali? Bali Outfit Guide: 8 Must-Pack Clothing Items](/en/blog/bali-packing-essentials/)
 
 Also, when preparing your luggage, make sure it complies with airline regulations!
 
-> Further reading: [Bali Flight Airline Luggage Regulations Guide](/blog/bali-airline-luggage-rules/)
+> Further reading: [Bali Flight Airline Luggage Regulations Guide](/en/blog/bali-airline-luggage-rules/)
 
-> Must-read: [Can You Bring Power Banks/Portable Chargers and USB Fans/Neck Fans on a Plane? Latest 2025 Regulations](/blog/airplane-power-bank-fan-rules-2025/)
+> Must-read: [Can You Bring Power Banks/Portable Chargers and USB Fans/Neck Fans on a Plane? Latest 2025 Regulations](/en/blog/airplane-power-bank-fan-rules-2025/)
 
 ### 6. Mobile Phones and Internet:
 
@@ -87,23 +87,23 @@ When traveling in Bali, having a mobile phone and internet connection is essenti
 
 In Bali, ensuring your phone can connect to the internet is crucial. It helps you easily find information, stay in touch with family and friends, use navigation apps, and more, making your trip more convenient and enjoyable.
 
-> Further reading: [Bali Travel Essentials: How to Get Bali Internet/SIM Card?](/blog/bali-sim-card-esim-roaming-guide/)
+> Further reading: [Bali Travel Essentials: How to Get Bali Internet/SIM Card?](/en/blog/bali-sim-card-esim-roaming-guide/)
 
 ### 7. Voltage and Plug Types:
 
 The voltage standard in Indonesia and Bali is **220 volts (220V)**, which is important information, especially for travelers planning to bring electrical appliances. Before deciding which appliances to bring, make sure they support the international standard of 220 volts and have the appropriate plug type to ensure they can be used normally in Indonesia and Bali!
 
-> Further reading: [What is Bali's voltage/plug type? How to prepare?](/blog/bali-voltage-adapter-tips/)
+> Further reading: [What is Bali's voltage/plug type? How to prepare?](/en/blog/bali-voltage-adapter-tips/)
 
 ### 8. Confirm your travel style:
 
-How can you plan a Bali trip that combines diversity and depth? Check out the "[Bali Free Travel Planning Guide: 7 Steps to Easily Organize Your Trip](/blog/2026-bali-trip-planning-guide/)". First, determine your preferred travel style!
+How can you plan a Bali trip that combines diversity and depth? Check out the "[Bali Free Travel Planning Guide: 7 Steps to Easily Organize Your Trip](/en/blog/2026-bali-trip-planning-guide/)". First, determine your preferred travel style!
 
 Bali offers endless travel options, from mountains to seas. Based on your preferences and needs, you can make this Bali trip an unforgettable adventure.
 
 If you're traveling with elderly family members or children, pre-trip preparations are even more essential!
 
-> Further reading: [Bali Travel Guide for Seniors - Safety, Comfort, and Considerations](/blog/bali-elderly-travel-guide/) Further reading: [Bali Family Travel: Tips for Vacationing with Babies, Toddlers, and School-Age Children](/blog/bali-family-travel-guide-2/)
+> Further reading: [Bali Travel Guide for Seniors - Safety, Comfort, and Considerations](/en/blog/bali-elderly-travel-guide/) Further reading: [Bali Family Travel: Tips for Vacationing with Babies, Toddlers, and School-Age Children](/en/blog/bali-family-travel-guide-2/)
 
 ### 9. Briefly understand the characteristics of each region:
 
@@ -111,9 +111,9 @@ If you're traveling with elderly family members or children, pre-trip preparatio
 
 Although Bali isn't large, each region has distinct travel features. Understanding the unique aspects of each area will help you find accommodations that suit different travelers' preferences and vacation needs.
 
-> Further reading: [Understanding Bali's Regions: Bali Accommodation Guide - Learn About Kuta, Seminyak, Canggu, and Ubud](/blog/2023-12-29-65839fbafd89780001e876b5/)
+> Further reading: [Understanding Bali's Regions: Bali Accommodation Guide - Learn About Kuta, Seminyak, Canggu, and Ubud](/en/blog/2023-12-29-65839fbafd89780001e876b5/)
 
-After getting a basic understanding of the different areas, choose your accommodation from our curated list of over 300 reliable options! Our "[Bali Accommodation Recommendations](/blog/bali-travel-mistakes-tips/)" covers various regions and themes, including family-friendly, romantic getaways, villas, resorts, and budget hotels — a must-read for your trip!
+After getting a basic understanding of the different areas, choose your accommodation from our curated list of over 300 reliable options! Our "[Bali Accommodation Recommendations](/en/blog/bali-travel-mistakes-tips/)" covers various regions and themes, including family-friendly, romantic getaways, villas, resorts, and budget hotels — a must-read for your trip!
 
 ### 10. Accommodation and Transportation:
 
@@ -141,7 +141,7 @@ Our blog "Bali Travel Guide" features nearly 30 detailed maps covering various r
 
 When is the best time to visit Bali?
 
-Indonesia and Bali have numerous local festivals and events. Knowing when to avoid crowds or which special celebrations to attend can significantly impact your travel experience. Check out "[2026 Indonesia Public Holidays & Bali Festivals Complete Guide: Key Event Dates!](/blog/2026-bali-festival-guide/)" to plan your Bali trip more wisely!
+Indonesia and Bali have numerous local festivals and events. Knowing when to avoid crowds or which special celebrations to attend can significantly impact your travel experience. Check out "[2026 Indonesia Public Holidays & Bali Festivals Complete Guide: Key Event Dates!](/en/blog/2026-bali-festival-guide/)" to plan your Bali trip more wisely!
 
 ### 13. Avoid Bali's Peak Season
 
@@ -149,7 +149,7 @@ Avoiding Bali's peak tourist season not only helps you save on expenses like fli
 
 In addition to seasonal distinctions, Bali also has five special periods that tend to attract large numbers of tourists!
 
-Check out: [Bali Actually Has Five Peak Tourist Seasons! How to Travel Smartly During Peak Season?](/blog/bali-peak-season-travel-tips/)
+Check out: [Bali Actually Has Five Peak Tourist Seasons! How to Travel Smartly During Peak Season?](/en/blog/bali-peak-season-travel-tips/)
 
 ### 14. Understand Bali's Dry and Rainy Seasons:
 
@@ -157,11 +157,11 @@ Check out: [Bali Actually Has Five Peak Tourist Seasons! How to Travel Smartly D
 
 What to do if it rains during your trip?
 
-When is the best time to visit Bali? The dry season typically runs from April to October, offering sunny and pleasant weather—perfect for travel. The rainy season lasts from November to April. However, it’s possible to experience rain during the dry season and dry spells during the rainy season. Read more: [Best Time to Visit Bali? A Deep Dive into Dry and Rainy Seasons/Pros and Cons](/blog/bali-best-time-to-visit/)
+When is the best time to visit Bali? The dry season typically runs from April to October, offering sunny and pleasant weather—perfect for travel. The rainy season lasts from November to April. However, it’s possible to experience rain during the dry season and dry spells during the rainy season. Read more: [Best Time to Visit Bali? A Deep Dive into Dry and Rainy Seasons/Pros and Cons](/en/blog/bali-best-time-to-visit/)
 
-> Further Reading: [Bali Rainy Season Months/Rainfall Probability/Rainy Days/Average Temperature/Travel Suitability Index...Detailed Analysis](/blog/bali-rainy-season-travel-guide/)
+> Further Reading: [Bali Rainy Season Months/Rainfall Probability/Rainy Days/Average Temperature/Travel Suitability Index...Detailed Analysis](/en/blog/bali-rainy-season-travel-guide/)
 
-> Further Reading: [What to Do in Bali on a Rainy Day? 60 Rainy Day Backup Plans for Bali](/blog/2026-bali-indoor-activities/)
+> Further Reading: [What to Do in Bali on a Rainy Day? 60 Rainy Day Backup Plans for Bali](/en/blog/2026-bali-indoor-activities/)
 
 ### 15. Bali Attractions Guide:
 
@@ -169,12 +169,12 @@ When is the best time to visit Bali? The dry season typically runs from April to
 
 Bali boasts 'Ten Iconic Attractions' that showcase the island's culture, natural beauty, and unique charm, allowing you to deeply experience Bali's distinctive allure in a short time. These spots are also popular for photo ops and must-visit destinations.
 
-Beyond these, Bali has many special attractions. Check out our '[Bali Free Travel Guide: Top 500 Attractions](/blog/bali-top-500-attractions/)', which introduces 500 of the latest Bali attractions for 2026. You're sure to find places you're eager to visit!
+Beyond these, Bali has many special attractions. Check out our '[Bali Free Travel Guide: Top 500 Attractions](/en/blog/bali-top-500-attractions/)', which introduces 500 of the latest Bali attractions for 2026. You're sure to find places you're eager to visit!
 
 Further Reading:
 
-- [Bali Travel Guide: What to Do on Your First Visit to Ubud? 20 Recommended Attractions - Ubud Guide](/blog/ubud-top-20-attractions-guide/)
-- [Seminyak Day Trip Guide: A Perfect Itinerary from Sunrise to Sunset](/blog/seminyak-day-trip-guide/)
+- [Bali Travel Guide: What to Do on Your First Visit to Ubud? 20 Recommended Attractions - Ubud Guide](/en/blog/ubud-top-20-attractions-guide/)
+- [Seminyak Day Trip Guide: A Perfect Itinerary from Sunrise to Sunset](/en/blog/seminyak-day-trip-guide/)
 
 ### 16. Essential Travel Apps
 
@@ -182,13 +182,13 @@ https://youtube.com/shorts/lltGiElNWBA
 
 The apps commonly used vary by country. When planning a trip to Indonesia/Bali, knowing some useful mobile apps can make your journey more convenient. Whether it's for transportation, navigation, or communication, modern technology offers various convenient solutions. Here are our top 6 app picks to help you explore and enjoy Indonesia/Bali with ease.
 
-▶[8 Must-Have Apps for Traveling to Indonesia/Bali](/blog/bali-travel-apps-guide/)
+▶[8 Must-Have Apps for Traveling to Indonesia/Bali](/en/blog/bali-travel-apps-guide/)
 
 ### 17. Bali Travel Expert-Designed Itineraries
 
 ![17. Bali Travel Expert-Designed Itineraries](https://images.gobaligo.id/vocus/vocus_8eeed2c49e4d80410fa6844fe5acfee8.png)
 
-The most valuable itinerary reference guide to ensure you travel with ease, see more, and have a fuller experience! Check it out here: [Ultimate Bali Free Travel Guide: Transportation, Accommodation, Attractions, Food, Shopping, SPA, Nightlife - Comprehensive Planning](/blog/bali-free-travel-guide/)
+The most valuable itinerary reference guide to ensure you travel with ease, see more, and have a fuller experience! Check it out here: [Ultimate Bali Free Travel Guide: Transportation, Accommodation, Attractions, Food, Shopping, SPA, Nightlife - Comprehensive Planning](/en/blog/bali-free-travel-guide/)
 
 ### 18. Stay Updated on Bali News
 
@@ -208,7 +208,7 @@ Our website not only provides the latest Bali news but also offers practical tra
 
 ### 19. Regulations on Power Banks and Portable Fans
 
-Starting in 2025, airlines will enforce strict regulations on passengers carrying power banks. If you plan to bring a power bank, portable fan, or any item with rechargeable batteries, be sure to refer to: [Can You Bring Power Banks/Portable Chargers and USB Fans/Neck Fans on a Plane? 2025 Updated Regulations](/blog/airplane-power-bank-fan-rules-2025/)
+Starting in 2025, airlines will enforce strict regulations on passengers carrying power banks. If you plan to bring a power bank, portable fan, or any item with rechargeable batteries, be sure to refer to: [Can You Bring Power Banks/Portable Chargers and USB Fans/Neck Fans on a Plane? 2025 Updated Regulations](/en/blog/airplane-power-bank-fan-rules-2025/)
 
 ***
 
@@ -239,7 +239,7 @@ After arriving in Bali, you'll need to follow these steps for immigration proced
 
 If you need the latest application links or have any questions, please refer to:
 
-▶[2025/08 Bali, Indonesia Entry Using 'All Indonesia' System｜1-Minute Guide to Latest Procedures: From Landing → Customs → Baggage Collection](/blog/bali-all-indonesia-arrival-guide/)
+▶[2025/08 Bali, Indonesia Entry Using 'All Indonesia' System｜1-Minute Guide to Latest Procedures: From Landing → Customs → Baggage Collection](/en/blog/bali-all-indonesia-arrival-guide/)
 
 ### 21. Airport Pickup:
 
@@ -262,7 +262,7 @@ In addition to the three airport transfer services mentioned above, there's also
 
 https://youtu.be/0fqEvAzAy9A
 
-▶ What is private car hire? How to book? How are fees calculated? Check out: [Complete Guide to Private Car Hire in Bali - Costs, Booking Methods, and Advantages](/blog/bali-private-car-hire-guide/)
+▶ What is private car hire? How to book? How are fees calculated? Check out: [Complete Guide to Private Car Hire in Bali - Costs, Booking Methods, and Advantages](/en/blog/bali-private-car-hire-guide/)
 
 ### 22. Acclimatization:
 
@@ -270,7 +270,7 @@ https://youtu.be/0fqEvAzAy9A
 
 To ensure a pleasant and healthy trip, 'drinking water' is the first and most important thing you should pay attention to upon arriving in Bali! Due to the local water quality, tap water is not safe to drink, so it's recommended to avoid it to prevent severe gastrointestinal discomfort. You can easily purchase bottled water at supermarkets, small shops, or roadside stalls. What if you accidentally fall ill? The link below teaches you how to quickly alleviate symptoms.
 
-> Further reading: [Bali Travel Health Tips: Drinking Water and Diarrhea Guide in Bali](/blog/bali-travel-health-tips/)
+> Further reading: [Bali Travel Health Tips: Drinking Water and Diarrhea Guide in Bali](/en/blog/bali-travel-health-tips/)
 
 ### 23. How to Convert Local Currency:
 
@@ -288,7 +288,7 @@ Most residents of Bali are friendly and polite. However, as with any tourist des
 
 https://youtu.be/LuEXL77-Qh0
 
-There's also a long-standing street scam: [Bali Travel Alert: Beware of Currency Scams on the Streets, Avoid Becoming the Next Victim!](/blog/bali-street-scam-alert/)
+There's also a long-standing street scam: [Bali Travel Alert: Beware of Currency Scams on the Streets, Avoid Becoming the Next Victim!](/en/blog/bali-street-scam-alert/)
 
 ### 25. Short-Distance Transportation:
 
@@ -298,9 +298,9 @@ https://youtu.be/ByGkcmys01g
 
 This convenient ride-hailing service provides you with a safe and reliable option for short-distance travel, making it easier to move around during your stay in Bali.
 
-> Further Reading: [Essential Apps for Traveling in Indonesia/Bali: A Complete Guide to Gojek](/blog/gojek-bali-guide/)
+> Further Reading: [Essential Apps for Traveling in Indonesia/Bali: A Complete Guide to Gojek](/en/blog/gojek-bali-guide/)
 
-> Further Reading: [Comprehensive Guide to Registering, Using, and Topping Up Gojek and GoPay in Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
+> Further Reading: [Comprehensive Guide to Registering, Using, and Topping Up Gojek and GoPay in Indonesia/Bali](/en/blog/indonesia-gojek-gopay-guide/)
 
 ### 26. Must-Learn Local Indonesian Phrases:
 
@@ -316,9 +316,9 @@ All you need to learn is the Indonesian word for 'thank you.' This phrase is use
 
 When dining in Indonesia, be mindful of additional fees on your bill. Indonesian dining tax is added separately, usually at 11%, which goes to the government. Additionally, many restaurants charge an extra 4% to 10% service fee. So, if a menu item costs 100,000 IDR, your final bill will be 100,000 IDR + 11% tax + the corresponding service fee. Be sure to check these extra charges when ordering to avoid overspending.
 
-> Further Reading: [Bali Travel Money-Saving Tips: 18 Budget-Friendly Strategies](/blog/bali-travel-money-saving-tips/)
+> Further Reading: [Bali Travel Money-Saving Tips: 18 Budget-Friendly Strategies](/en/blog/bali-travel-money-saving-tips/)
 
-> Further Reading: [Bali Travel Budget Guide: Understanding the 'K' in Prices to Help You Stay on Budget](/blog/bali-budget-tips-k-explained/)
+> Further Reading: [Bali Travel Budget Guide: Understanding the 'K' in Prices to Help You Stay on Budget](/en/blog/bali-budget-tips-k-explained/)
 
 ### 28. How to Tip?
 
@@ -340,11 +340,11 @@ If you're interested in local cuisine, consider bringing home some regional spec
 
 Click the link below to learn more about Bali's souvenirs and gifts:
 
-▶[Netizen Recommendations: Six Categories, Over 20 Bali Souvenir Ideas: The Perfect Choices to Preserve Precious Memories](/blog/bali-souvenirs-gift-guide/)
+▶[Netizen Recommendations: Six Categories, Over 20 Bali Souvenir Ideas: The Perfect Choices to Preserve Precious Memories](/en/blog/bali-souvenirs-gift-guide/)
 
 ### 30. Hassle-Free Day Trip Recommendations:
 
-If you'd rather not learn about the different styles of Bali's regions or go through our list of over 500 [Bali attractions](/blog/bali-top-500-attractions/), a simpler option is to join a local day or two-day small group tour. Klook offers a range of highly-rated day tours with an average of 4.5 stars, some even featuring Chinese-speaking guides. Just pick a few, and you're guaranteed to create unforgettable mountain and sea memories in Bali!
+If you'd rather not learn about the different styles of Bali's regions or go through our list of over 500 [Bali attractions](/en/blog/bali-top-500-attractions/), a simpler option is to join a local day or two-day small group tour. Klook offers a range of highly-rated day tours with an average of 4.5 stars, some even featuring Chinese-speaking guides. Just pick a few, and you're guaranteed to create unforgettable mountain and sea memories in Bali!
 
 ![Klook提供了200多個不同類型的一日遊/活動可以參與](https://images.gobaligo.id/vocus/vocus_bd08bff1a39b43760e3bf638e642c126.png)
 
@@ -389,7 +389,7 @@ Below are some popular private day tour options:
 
 ![31. Avoid These 18 Common Traveler Mistakes](https://images.gobaligo.id/vocus/vocus_7d8713436ffa82cf25fb5f537d208897.jpg)
 
-Travelers often make mistakes in Bali that can ruin their trip, waste time, and cost money. Here are 18 common errors and practical tips to help you enjoy a smoother, more enjoyable journey. Check out "[Bali Travel Guide: 18 Common Mistakes & Tips](/blog/bali-travel-mistakes-tips/)".
+Travelers often make mistakes in Bali that can ruin their trip, waste time, and cost money. Here are 18 common errors and practical tips to help you enjoy a smoother, more enjoyable journey. Check out "[Bali Travel Guide: 18 Common Mistakes & Tips](/en/blog/bali-travel-mistakes-tips/)".
 
 ### 32. The Hassle-Free Way to Travel: Seek Professional Help
 
@@ -399,7 +399,7 @@ While planning your own Bali trip can be fun, truly understanding the island tak
 
 If it’s your first time in Bali, our community highly recommends a local Bali travel agency run by a Taiwanese owner, with over 20 years of experience in organizing tours.
 
-Check out: "[Bali Dream Itinerary - Professional Planning for a Relaxing Vacation](/blog/isbali-tour-agency-review/)"
+Check out: "[Bali Dream Itinerary - Professional Planning for a Relaxing Vacation](/en/blog/isbali-tour-agency-review/)"
 
 **Travel safely and fully enjoy the charm of Bali!**
 

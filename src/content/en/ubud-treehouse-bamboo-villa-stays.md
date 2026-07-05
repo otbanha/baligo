@@ -202,7 +202,7 @@ Beyond the accommodations themselves, Ubud serves as an excellent base for exper
 
 ### Further Reading:
 
-1. [2026 Ubud Bali Complete Guide: 100 Ways to Deeply Understand Ubud | Exploring Ubud's Charm](/blog/ubud-guide/)
-2. [Bali Family Travel Activities Guide: 55 Kid-Friendly Activities in Ubud for the Easiest Trip with Kids!](/blog/ubud-with-kids-guide/)
-3. [Bali Ubud Accommodations: 28 Unique Stays for a Magical Journey Amidst Bali's Mountain Scenery!](/blog/ubud-villas-pool-guide/)
-4. [Ubud Accommodation Recommendations: Private Pool Villa Paradise - 20 Stunning Bali Villas in Ubud](/blog/ubud-villa-pool-guide/)
+1. [2026 Ubud Bali Complete Guide: 100 Ways to Deeply Understand Ubud | Exploring Ubud's Charm](/en/blog/ubud-guide/)
+2. [Bali Family Travel Activities Guide: 55 Kid-Friendly Activities in Ubud for the Easiest Trip with Kids!](/en/blog/ubud-with-kids-guide/)
+3. [Bali Ubud Accommodations: 28 Unique Stays for a Magical Journey Amidst Bali's Mountain Scenery!](/en/blog/ubud-villas-pool-guide/)
+4. [Ubud Accommodation Recommendations: Private Pool Villa Paradise - 20 Stunning Bali Villas in Ubud](/en/blog/ubud-villa-pool-guide/)

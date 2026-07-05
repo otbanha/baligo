@@ -26,27 +26,27 @@ _srcHash: 3819203f5e36e8c40d4d4aacc0aae8c1
 
 我们在这次旅程中，每人兑换了约320美金，这笔金额对于七天六夜的行程来说，刚好足够，甚至还购买了不少伴手礼。因此，我建议大家可以先兑换300到350美金，再加上刷卡。许多餐厅和按摩店都接受刷卡付款，这样可以灵活运用您的预算。
 
-> [印尼/巴厘岛旅游换汇懒人包：印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？](/blog/bali-currency-exchange-guide/)
+> [印尼/巴厘岛旅游换汇懒人包：印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？](/zh-cn/blog/bali-currency-exchange-guide/)
 
-> [巴厘岛旅游要准备多少现金？](/blog/bali-travel-cash-budget-guide/)
+> [巴厘岛旅游要准备多少现金？](/zh-cn/blog/bali-travel-cash-budget-guide/)
 
 ## 2️⃣ **网络**
 
 建议大家可以在抵达巴厘岛后再购买当地的网卡，因为价格较便宜且连线更稳定（这也许是个人感觉）。机场提供免费的Wi-Fi，因此不用担心会联系不到司机。我们在当地购买的网卡总流量是每人18GB，即使经常使用社群平台、观看YouTube视频和下载应用程序，七天下来这个流量已经非常足够。所以，大家可以根据自己的使用需求选择适合的流量套餐。
 
-[> 【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡?](/blog/bali-sim-card-esim-roaming-guide/)
+[> 【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡?](/zh-cn/blog/bali-sim-card-esim-roaming-guide/)
 
 ## 3️⃣ **签证、观光税和海关**
 
 记得出发前一定要提前在网上办好签证，前三天可以先在网上申报海关，这样可以避免在机场排队等候太久，节省时间。
 
-[> 2026印尼巴厘岛入境使用「All Indonesia」申报系统｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
+[> 2026印尼巴厘岛入境使用「All Indonesia」申报系统｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/zh-cn/blog/bali-all-indonesia-arrival-guide/)
 
 ## 4️⃣ **交通**
 
 在巴厘岛，除了包车司机之外，大部分的短程移动或叫外卖服务都是使用Grab或Gojek这个应用程序，记得先在台湾办好账号（需要用台湾手机号码接收验证码），这样到当地才能顺利使用。
 
-[> 在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略](/blog/gojek-bali-guide/)
+[> 在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略](/zh-cn/blog/gojek-bali-guide/)
 
 ## ⚠️ **包车司机非常重要！**
 
@@ -60,7 +60,7 @@ _srcHash: 3819203f5e36e8c40d4d4aacc0aae8c1
 
 {{block:包車}}
 
-**快速参考：**[巴厘岛六大必看卡恰火舞（Kecak Fire Dance）地点：一场视觉与文化的盛宴](/blog/bali-kecak-fire-dance-locations/)
+**快速参考：**[巴厘岛六大必看卡恰火舞（Kecak Fire Dance）地点：一场视觉与文化的盛宴](/zh-cn/blog/bali-kecak-fire-dance-locations/)
 
 这次旅程中，我们遇到了非常温柔细心的Komang，他说他最希望来巴厘岛的游客都能体验到这个地方的美好，真的非常感谢他的帮助。如果你也要来巴厘岛玩，强力推荐Komang！
 
@@ -76,7 +76,7 @@ _srcHash: 3819203f5e36e8c40d4d4aacc0aae8c1
 
 > Facebook : Komang WikaSutresna
 
-▶▶[【巴厘岛包车司机推荐名人榜】巴厘岛司机网友评鉴大全：看网友真实点评找到适合你的好司机](/blog/bali-private-car-drivers-guide/)
+▶▶[【巴厘岛包车司机推荐名人榜】巴厘岛司机网友评鉴大全：看网友真实点评找到适合你的好司机](/zh-cn/blog/bali-private-car-drivers-guide/)
 
 您觉得潘奕勋他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
 

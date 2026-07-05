@@ -39,7 +39,7 @@ Although there were a few bumps along the way, this journey deeply reminded me o
 
 **Quick Reference:**
 
-> Latest version: [【Entry Requirements】3 Essential Steps Before Traveling to Bali in 2026](https://gobaligo.id/blog/2025-bali-immigration-process/)
+> Latest version: [【Entry Requirements】3 Essential Steps Before Traveling to Bali in 2026](https://gobaligo.id/en/blog/2025-bali-immigration-process/)
 
 ***
 
@@ -55,7 +55,7 @@ Business class meal
 
 The New Year is peak travel season, so flight prices are notoriously high. But sometimes, shifting your perspective and slightly increasing your budget to choose business class can lead to pleasant surprises. This experience made me realize that flexible budgeting and choices can make a trip much more comfortable and enjoyable.
 
-> [How to find the cheapest Bali flights? Trip.com search tips and money-saving strategies](https://gobaligo.id/blog/ticket/)
+> [How to find the cheapest Bali flights? Trip.com search tips and money-saving strategies](https://gobaligo.id/en/blog/ticket/)
 
 ***
 
@@ -71,7 +71,7 @@ This time, we chose a private car charter, which not only made the trip more rel
 
 **Quick Reference:**
 
-> [When to charter a car in Bali? When to take a taxi? Charter vs. Taxi: How to choose the best travel option for you?](/blog/bali-transportation-guide-car-rental/)
+> [When to charter a car in Bali? When to take a taxi? Charter vs. Taxi: How to choose the best travel option for you?](/en/blog/bali-transportation-guide-car-rental/)
 
 ***
 
@@ -101,7 +101,7 @@ Most Grab drivers are decent, but we did encounter one who asked us to cancel th
 
 **Quick Reference:**
 
-> [Bali Ride-Hailing App Driver Tricks: How to Avoid Grab/Gojek Scams?](/blog/bali-grab-gojek-scam-tips/)
+> [Bali Ride-Hailing App Driver Tricks: How to Avoid Grab/Gojek Scams?](/en/blog/bali-grab-gojek-scam-tips/)
 
 ### **Renting a Scooter**
 
@@ -109,7 +109,7 @@ Since we were traveling with elderly family and kids, we didn't get a chance to 
 
 **Quick Reference:**
 
-> [Bali Motorbike Rental Guide: Prices, Safety, and Tips at a Glance](/blog/bali-motorbike-rental-tips/)
+> [Bali Motorbike Rental Guide: Prices, Safety, and Tips at a Glance](/en/blog/bali-motorbike-rental-tips/)
 
 Overall, while getting around Bali can be a bit challenging, planning ahead for a private driver or choosing the right transportation can still make your trip go smoothly. I hope these insights will be helpful for anyone planning a trip to Bali in the future!
 
@@ -135,9 +135,9 @@ When it comes to accommodation, this villa stay made our whole family very satis
 
 **Quick Reference:**
 
-> [Bali Travel: Recommended Family Villas with 3+ Bedrooms](/blog/bali-group-villa-stay/)
+> [Bali Travel: Recommended Family Villas with 3+ Bedrooms](/en/blog/bali-group-villa-stay/)
 
-> [Your Airbnb Might Disappear in August? Indonesia's Government Crackdown and Tips to Avoid Illegal Hotels & Villas](https://gobaligo.id/blog/airbnb-alert-2026/)
+> [Your Airbnb Might Disappear in August? Indonesia's Government Crackdown and Tips to Avoid Illegal Hotels & Villas](https://gobaligo.id/en/blog/airbnb-alert-2026/)
 
 ***
 
@@ -161,7 +161,7 @@ In recent years, Bali’s highlands have started growing a variety of imported f
 
 **Quick Reference:**
 
-[When is mangosteen season in Indonesia/Bali?](/blog/bali-mangosteen-season/)
+[When is mangosteen season in Indonesia/Bali?](/en/blog/bali-mangosteen-season/)
 
 ### Dairy Products and Desserts
 
@@ -179,7 +179,7 @@ Seafood quality in Bali is generally better than meat, mainly because the island
 
 **Quick Reference:**
 
-Mr. Lobster's contact info & latest deals are [here](/blog/mr-lobster-seafood-bali/)
+Mr. Lobster's contact info & latest deals are [here](/en/blog/mr-lobster-seafood-bali/)
 
 ***
 
@@ -187,15 +187,15 @@ Mr. Lobster's contact info & latest deals are [here](/blog/mr-lobster-seafood-ba
 
 As mentioned earlier, Bali's road design lacks comprehensive planning, resulting in traffic jams for more than two-thirds of the day, almost around the clock. So if you have any itinerary planned, especially for attractions more than an hour's drive from your accommodation, **it's absolutely recommended** to set off by 7–8 AM. Otherwise, traffic alone can drain half your energy, making the entire day's schedule exhausting.
 
-When planning your itinerary, try to group attractions in the same area together, and don't fantasize about covering more than 40 kilometers in a single day! Because Bali's roads are narrow, and since the Lunar New Year falls during Bali's [third peak season of the year](/blog/bali-peak-season-travel-tips/), covering less than 40 kilometers in two hours is common. **Don't pack your schedule just because the distance looks short on the map**—it'll only leave you stuck in traffic, crying in frustration, and completely ruin the joy of travel.
+When planning your itinerary, try to group attractions in the same area together, and don't fantasize about covering more than 40 kilometers in a single day! Because Bali's roads are narrow, and since the Lunar New Year falls during Bali's [third peak season of the year](/en/blog/bali-peak-season-travel-tips/), covering less than 40 kilometers in two hours is common. **Don't pack your schedule just because the distance looks short on the map**—it'll only leave you stuck in traffic, crying in frustration, and completely ruin the joy of travel.
 
 ![適合長輩的景點參考，請點這裡](https://images.gobaligo.id/vocus/vocus_aed0dd9ef1952475718465e8e2f805a8.jpg)
 
-[Click here for senior-friendly attraction recommendations](/blog/bali-senior-friendly-travel-guide/)
+[Click here for senior-friendly attraction recommendations](/en/blog/bali-senior-friendly-travel-guide/)
 
 ![適合長輩的景點參考，請點這裡](https://images.gobaligo.id/vocus/vocus_c9d90c6b640576cf0c0e74c35643534f.jpg)
 
-[Click here for senior-friendly attraction recommendations](/blog/bali-senior-friendly-travel-guide/)
+[Click here for senior-friendly attraction recommendations](/en/blog/bali-senior-friendly-travel-guide/)
 
 ### Family Travel Tips
 
@@ -237,7 +237,7 @@ Without hesitation, we opted for the firmest option, the 'Strong Barefoot' massa
 
 This massage experience completely changed my view of Balinese massages. Hot Bamboo SPA's professionalism and unique techniques truly offer a full-body and mind relaxation. If you enjoy firmer massages, this SPA is absolutely worth a try!
 
-**> Quick Reference**: Already included in '[Best Recommended SPA in Bali](/blog/spa/)'—if you're looking for a great SPA to unwind, don't miss our collection and recommendations!
+**> Quick Reference**: Already included in '[Best Recommended SPA in Bali](/en/blog/spa/)'—if you're looking for a great SPA to unwind, don't miss our collection and recommendations!
 
 ***
 

@@ -25,9 +25,9 @@ Second, Bali's weather isn't the focus of your trip. Bali is a place filled with
 
 ![Why stop asking about Bali's weather? What if it rains?](https://images.gobaligo.id/vocus/vocus_26c4410d90cfbacef24b366044b27875.png)
 
-> Further reading: [What to do when it rains in Bali? 60 indoor activity ideas](/blog/2026-bali-indoor-activities/)
+> Further reading: [What to do when it rains in Bali? 60 indoor activity ideas](/en/blog/2026-bali-indoor-activities/)
 
-> Further reading: [Best time to visit Bali? In-depth look at dry season, rainy season/pros and cons](/blog/bali-best-time-to-visit/)
+> Further reading: [Best time to visit Bali? In-depth look at dry season, rainy season/pros and cons](/en/blog/bali-best-time-to-visit/)
 
 Moreover, when traveling in Bali, we need to be aware that the weather isn't the same across every region. Bali's diverse terrain means that climates and weather can vary from the coast to the mountains. For example, inland mountainous areas might experience more rainfall than the southern coast. So, even on this small island, you might notice weather differences depending on the area. This is why we can't simply judge Bali's overall weather based on a few people's answers—it's better to consider the specific location you're in.
 

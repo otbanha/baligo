@@ -31,8 +31,8 @@ Street-side shops offering suspiciously high exchange rates often use 'fast coun
 
 **Quick Reference:**
 
-- [Bali Money Exchange Horror Stories: A Group Member's Firsthand Account Reveals All—Don't Be Greedy!](/blog/bali-money-exchange-scams-2/)
-- [Recommended Authorized Money Changers](/blog/bali-currency-exchange-guide/)
+- [Bali Money Exchange Horror Stories: A Group Member's Firsthand Account Reveals All—Don't Be Greedy!](/en/blog/bali-money-exchange-scams-2/)
+- [Recommended Authorized Money Changers](/en/blog/bali-currency-exchange-guide/)
 
 ## **The Taxi Meter Mystery**
 
@@ -40,8 +40,8 @@ Some drivers will claim the meter is broken or ask you to cancel your App order 
 
 **Quick Reference:**
 
-- [Grab or Gojek? Complete Guide to Registering, Using, and Topping Up Gojek & GoPay in Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
-- [Bali Ride-Hailing App Scams: How to Avoid Grab/Gojek Traps](/blog/bali-grab-gojek-scam-tips/)
+- [Grab or Gojek? Complete Guide to Registering, Using, and Topping Up Gojek & GoPay in Indonesia/Bali](/en/blog/indonesia-gojek-gopay-guide/)
+- [Bali Ride-Hailing App Scams: How to Avoid Grab/Gojek Traps](/en/blog/bali-grab-gojek-scam-tips/)
 
 ## **Fake Visa Websites on Search Engines**
 
@@ -49,8 +49,8 @@ When searching for e-visas, the top results are often beautifully designed but u
 
 **Quick Reference:**
 
-- [Indonesia/Bali eVisa, eCD Customs, and SSHP Health Declaration: All Indonesia FAQ](/blog/bali-evisa-customs-health-declaration/)
-- [Guide to Children's Visas for Indonesia/Bali](/blog/bali-child-visa-guide/)
+- [Indonesia/Bali eVisa, eCD Customs, and SSHP Health Declaration: All Indonesia FAQ](/en/blog/bali-evisa-customs-health-declaration/)
+- [Guide to Children's Visas for Indonesia/Bali](/en/blog/bali-child-visa-guide/)
 
 ## **Disputes Over 'New Scratches' When Returning a Rental**
 
@@ -58,9 +58,9 @@ Renting a scooter is convenient, but if you're accused of causing new damage whe
 
 **Quick Reference:**
 
-[Bali Scooter Rental Risk Checklist: Complete Guide to Prices, Safety, and Tips](/blog/bali-motorbike-rental-tips/)
+[Bali Scooter Rental Risk Checklist: Complete Guide to Prices, Safety, and Tips](/en/blog/bali-motorbike-rental-tips/)
 
-[Bali Travel Safety Alert: Rising Scooter Accidents Among Young Travelers](/blog/bali-motorbike-safety-guide/)
+[Bali Travel Safety Alert: Rising Scooter Accidents Among Young Travelers](/en/blog/bali-motorbike-safety-guide/)
 
 ## **Fake Staff at Temple/Attraction Entrances**
 
@@ -70,7 +70,7 @@ At the entrance of attractions, people often approach you claiming there’s a s
 
 In recent years, strangers have been asking to borrow your mobile hotspot, claiming they have no internet. This not only risks data leaks but also leaves your digital footprint if they engage in illegal activities. Politely decline sharing your hotspot or connecting to unknown Wi-Fi—it’s a basic step to protect your privacy.
 
-**Quick Reference:** [The “Can I Use Your Hotspot?” Request Is Actually a Trap! Many Have Fallen for This New Scam…](/blog/bali-wifi-scam-alert/)
+**Quick Reference:** [The “Can I Use Your Hotspot?” Request Is Actually a Trap! Many Have Fallen for This New Scam…](/en/blog/bali-wifi-scam-alert/)
 
 {{block:klook}}
 
@@ -86,7 +86,7 @@ https://youtu.be/LuEXL77-Qh0
 
 ## Don't Miss These Topics
 
-- [2026 Bali Travel Guide: 7 Essential Pre-Trip Tips! Visa, Currency Exchange, Accommodation, Voltage/Adapters... All in One Place](/blog/bali-travel-guide-2026/)
-- [Bali No-Regret Guide: 18 Common Mistakes and Tips](/blog/bali-travel-mistakes-tips/)
+- [2026 Bali Travel Guide: 7 Essential Pre-Trip Tips! Visa, Currency Exchange, Accommodation, Voltage/Adapters... All in One Place](/en/blog/bali-travel-guide-2026/)
+- [Bali No-Regret Guide: 18 Common Mistakes and Tips](/en/blog/bali-travel-mistakes-tips/)
 
 {{block:klook}}

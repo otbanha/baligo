@@ -62,7 +62,7 @@ Akhirnya kami ubah strategi, pilih sewa motor sebagai transportasi utama. Karena
 
 Kalau tujuan jauh, gak usah khawatir! Kami pakai layanan ojek online kayak GRAB atau GO-JEK. Aplikasi ini udah jalan dengan baik di Bali, tinggal panggil langsung datang, super praktis.
 
-> Baca juga: [Panduan Lengkap Daftar, Pakai, dan Isi Saldo Gojek & GoPay di Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
+> Baca juga: [Panduan Lengkap Daftar, Pakai, dan Isi Saldo Gojek & GoPay di Indonesia/Bali](/id/blog/indonesia-gojek-gopay-guide/)
 
 ### Rincian Perjalanan:
 
@@ -117,7 +117,7 @@ Hari ini jadwalnya padat banget. Kami berangkat pagi-pagi buat explore beberapa 
 1. **Pura Tanah Lot**
 Pura tepi laut paling ikonik di Bali. Pemandangan lautnya spektakuler, dipadu arsitektur pura yang megah — bikin kami semua terkesima. Anak-anak betah banget main di sini, apalagi karena spot ini langsung bersentuhan dengan alam.
 
-> Baca juga: [Panduan Lengkap Pura Tanah Lot — Info Pasang Surut & Tempat Wisata Sekitar](/blog/bali-tanah-lot-guide/)
+> Baca juga: [Panduan Lengkap Pura Tanah Lot — Info Pasang Surut & Tempat Wisata Sekitar](/id/blog/bali-tanah-lot-guide/)
 
 2. **Turtle Conservation and Education Center**
 Pusat konservasi ini cocok banget buat liburan keluarga, apalagi anak-anak bisa lihat langsung penyu kecil yang baru menetas! Selain ada kesempatan interaksi sama penyu, tempat ini juga punya nilai edukasi yang bikin anak-anak belajar tentang ekosistem laut. Wajib banget direkomendasikan buat keluarga yang bawa anak kecil.
@@ -131,7 +131,7 @@ https://youtube.com/shorts/9EeW2YH0iY0
 3. **Pura Uluwatu**
 Pura Uluwatu yang terletak di tebing spektakuler ini adalah salah satu tempat wajib dikunjungi di Bali. Pemandangannya juara banget, perpaduan tebing dan laut yang megah bikin siapa pun terpana. Kami juga lihat monyet di sini, anak-anak antusias banget, tapi hati-hati ya mereka suka ambil barang.
 
-> [Panduan Wisata Pura Uluwatu / Tebing Cinta di Bali: Sorotan Wajib & Tips Praktis](/blog/uluwatu-temple-travel-guide/)
+> [Panduan Wisata Pura Uluwatu / Tebing Cinta di Bali: Sorotan Wajib & Tips Praktis](/id/blog/uluwatu-temple-travel-guide/)
 
 4. **Pijat Relaksasi**
 Setelah seharian jalan-jalan, masa ke Bali nggak cobain pijat? Kami sengaja cari tempat pijat lokal, sekeluarga semua menikmati pijatan yang nyaman. Cara ini bikin kami benar-benar rileks dan siap buat petualangan besok.
@@ -238,7 +238,7 @@ Waktu makan siang kita mampir di **Cretya**. Pemandangan sawah teraseringnya can
 
 ![預算中享受奢華：Cretya Ubud 泳池俱樂部與 Alas Harum 消費指南](https://images.gobaligo.id/vocus/vocus_fac2fc209557ede84fb4b81503ec6df3.jpg)
 
-[Tips Hemat Tapi Mewah: Panduan Budget Cretya Ubud Pool Club & Alas Harum](/blog/cretya-ubud-alas-harum-budget-guide/)
+[Tips Hemat Tapi Mewah: Panduan Budget Cretya Ubud Pool Club & Alas Harum](/id/blog/cretya-ubud-alas-harum-budget-guide/)
 
 ***
 
@@ -280,7 +280,7 @@ Hari ini kita dateng ke **Bali Bird Park**, taman burung ini cocok banget buat q
 
 ![Bali Bird Park](https://images.gobaligo.id/vocus/vocus_f6aa64339e4c1dc2b4bd2cfec3b33115.jpg)
 
-詳細介紹：[Bali Bird Park 峇里島鳥園終極攻略：珍稀鳥種、互動活動與生態保育的奇幻旅程](https://gobaligo.id/blog/bali-bird-park-guide/)
+詳細介紹：[Bali Bird Park 峇里島鳥園終極攻略：珍稀鳥種、互動活動與生態保育的奇幻旅程](https://gobaligo.id/id/blog/bali-bird-park-guide/)
 
 > 線上購票：[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D9f20741f36) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-bird-park-80525/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -302,7 +302,7 @@ Libra Li提供
 
 ![Bali Reptile Park](https://images.gobaligo.id/vocus/vocus_0622339e61ec519ef81ef4527e6ceeff.jpg)
 
-Penjelasan lengkap: [Panduan Bali Reptile Park: Lihat Komodo dari Dekat, Interaksi Seru dengan Ular Piton, Harga Tiket & Tips Anti Gagal untuk Keluarga](https://gobaligo.id/blog/Bali-Reptile-Park/)
+Penjelasan lengkap: [Panduan Bali Reptile Park: Lihat Komodo dari Dekat, Interaksi Seru dengan Ular Piton, Harga Tiket & Tips Anti Gagal untuk Keluarga](https://gobaligo.id/id/blog/Bali-Reptile-Park/)
 
 > Beli tiket online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F37955-bali-reptile-park-ticket%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7db7e3e24e) [Kkday](https://www.kkday.com/zh-tw/product/593869?qs=Bali+Reptile+Park&cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-reptile-park-128527409/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 

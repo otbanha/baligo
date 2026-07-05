@@ -32,8 +32,8 @@ Toko kecil di pinggir jalan yang nawarin kurs tinggi banget sering pakai 'teknik
 
 **Referensi Cepat:**
 
-- [Kisah pilu penukaran uang di Bali: Pengalaman langsung anggota rombongan, jangan serakah!](/blog/bali-money-exchange-scams-2/)
-- [Rekomendasi money changer resmi](/blog/bali-currency-exchange-guide/)
+- [Kisah pilu penukaran uang di Bali: Pengalaman langsung anggota rombongan, jangan serakah!](/id/blog/bali-money-exchange-scams-2/)
+- [Rekomendasi money changer resmi](/id/blog/bali-currency-exchange-guide/)
 
 ## **Misteri Argo Taksi**
 
@@ -41,8 +41,8 @@ Beberapa supir suka bohong kalau argometer rusak, atau minta kamu batalkan pesan
 
 **Referensi Cepat:**
 
-- [Grab atau Gojek? Panduan Lengkap Registrasi, Penggunaan, dan Top Up Gojek & GoPay di Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
-- [Trik Sopir Ojek Online di Bali: Cara Hindari Jebakan Grab/Gojek?](/blog/bali-grab-gojek-scam-tips/)
+- [Grab atau Gojek? Panduan Lengkap Registrasi, Penggunaan, dan Top Up Gojek & GoPay di Indonesia/Bali](/id/blog/indonesia-gojek-gopay-guide/)
+- [Trik Sopir Ojek Online di Bali: Cara Hindari Jebakan Grab/Gojek?](/id/blog/bali-grab-gojek-scam-tips/)
 
 ## **Situs Palsu Visa di Mesin Pencari**
 
@@ -50,8 +50,8 @@ Saat mencari e-visa, beberapa hasil teratas seringkali adalah situs perantara ya
 
 **Referensi Cepat:**
 
-- [FAQ Umum: eVisa, eCD Bea Cukai, SSHP Deklarasi Kesehatan untuk Masuk Indonesia/Bali](/blog/bali-evisa-customs-health-declaration/)
-- [Panduan Visa Anak untuk Masuk Indonesia/Bali](/blog/bali-child-visa-guide/)
+- [FAQ Umum: eVisa, eCD Bea Cukai, SSHP Deklarasi Kesehatan untuk Masuk Indonesia/Bali](/id/blog/bali-evisa-customs-health-declaration/)
+- [Panduan Visa Anak untuk Masuk Indonesia/Bali](/id/blog/bali-child-visa-guide/)
 
 ## **Sengketa 'Lecet Baru' Saat Pengembalian**
 
@@ -59,9 +59,9 @@ Sewa motor emang praktis, tapi kalau pas balikin dituduh ada lecet lama dan dimi
 
 **Referensi Cepat:**
 
-[《Checklist Risiko Sewa Motor di Bali》Panduan Sewa Motor Bali: Harga, Keamanan, Hal yang Perlu Diperhatikan Sekali Lihat](/blog/bali-motorbike-rental-tips/)
+[《Checklist Risiko Sewa Motor di Bali》Panduan Sewa Motor Bali: Harga, Keamanan, Hal yang Perlu Diperhatikan Sekali Lihat](/id/blog/bali-motorbike-rental-tips/)
 
-[Panduan Keamanan Travel Bali: Kecelakaan Motor Banyak Terjadi pada Wisatawan Muda](/blog/bali-motorbike-safety-guide/)
+[Panduan Keamanan Travel Bali: Kecelakaan Motor Banyak Terjadi pada Wisatawan Muda](/id/blog/bali-motorbike-safety-guide/)
 
 ## **Pura/Tempat Wisata: Waspada Orang Pura-pura Staf**
 
@@ -71,7 +71,7 @@ Di pintu masuk tempat wisata, sering ada orang yang bilang kalau hari ini ada up
 
 Belakangan ini sering ada orang asing minta pinjam hotspot ponsel dengan alasan gak punya internet. Ini bukan cuma risiko bocornya data pribadi, tapi kalau mereka melakukan hal ilegal, jejak digitalmu ikut tercatat. Tolak dengan sopan dan jangan pernah share hotspot atau connect Wi-Fi sembarangan — itu langkah dasar buat jaga privasi.
 
-**Referensi cepat:** [Permintaan 'Pinjam Hotspot' Ternyata Jebakan! Modus Penipuan Baru yang Banyak Kena…](/blog/bali-wifi-scam-alert/)
+**Referensi cepat:** [Permintaan 'Pinjam Hotspot' Ternyata Jebakan! Modus Penipuan Baru yang Banyak Kena…](/id/blog/bali-wifi-scam-alert/)
 
 {{block:klook}}
 
@@ -87,7 +87,7 @@ https://youtu.be/LuEXL77-Qh0
 
 ## Jangan sampai kelewatan topik ini
 
-- [Panduan Liburan ke Bali 2026｜7 Hal Penting yang Wajib Kamu Tahu Sebelum Berangkat! Visa, Tukar Uang, Akomodasi, Voltase/Adaptor... Semua Beres!](/blog/bali-travel-guide-2026/)
-- [Tips Anti Gagal di Bali: 18 Kesalahan Umum & Saran](/blog/bali-travel-mistakes-tips/)
+- [Panduan Liburan ke Bali 2026｜7 Hal Penting yang Wajib Kamu Tahu Sebelum Berangkat! Visa, Tukar Uang, Akomodasi, Voltase/Adaptor... Semua Beres!](/id/blog/bali-travel-guide-2026/)
+- [Tips Anti Gagal di Bali: 18 Kesalahan Umum & Saran](/id/blog/bali-travel-mistakes-tips/)
 
 {{block:klook}}

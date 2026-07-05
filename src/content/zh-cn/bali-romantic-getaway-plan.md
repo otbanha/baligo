@@ -38,7 +38,7 @@ _srcHash: 6e60d83369f1669842de6b2acf64bdea
 1. **All Indonesia入境卡（含海关申报单 e-CD 与健康声明表 SSHP）**
 2. **观光税缴费凭证（Tourist Levy）**
 
-以上四个流程都是**可以线上完成的电子文件**，处理起来其实不难，只要提前准备好护照复印件、航班信息和付款方式就行了。完成后的 QR Code 建议截图保存到手机相册，入境时直接出示扫码会快很多。详细的流程可以看这边：[2026巴厘岛入境变革一分钟搞懂：印尼/巴厘岛入境流程 - 下飞机/过海关/到领行李的流程](/blog/bali-all-indonesia-arrival-guide/)
+以上四个流程都是**可以线上完成的电子文件**，处理起来其实不难，只要提前准备好护照复印件、航班信息和付款方式就行了。完成后的 QR Code 建议截图保存到手机相册，入境时直接出示扫码会快很多。详细的流程可以看这边：[2026巴厘岛入境变革一分钟搞懂：印尼/巴厘岛入境流程 - 下飞机/过海关/到领行李的流程](/zh-cn/blog/bali-all-indonesia-arrival-guide/)
 
 接下来，就要开始我们的巴厘岛二人行啦～🌴
 
@@ -62,7 +62,7 @@ https://youtu.be/lbDfKut2J7M
 
 我们入住的是海景房，一晚约 USD$387，虽然已经很不错，但这边要给个小建议：**AYANA 酒店园区非常大**，若选择较便宜的房型，可能会住到比较偏远的区块，走去主要设施会走到腿软。建议可以多加一点预算，选离主设施区近一点的房型，体验会更好！
 
-延伸阅读：[【巴厘岛阿雅那】Ayana Bali 住宿懒人包》Ayana Segara, RIMBA, Ayana Resort..](/blog/ayana-resort-bali-guide/)
+延伸阅读：[【巴厘岛阿雅那】Ayana Bali 住宿懒人包》Ayana Segara, RIMBA, Ayana Resort..](/zh-cn/blog/ayana-resort-bali-guide/)
 
 ## 📸 **第二天：早起冲著名 H2O 泳池拍美照！**
 
@@ -74,7 +74,7 @@ https://youtu.be/lbDfKut2J7M
 
 我们拍了一轮又一轮，就为了抓住那几个阳光角度最美的瞬间（笑）。早起真的值得！
 
-快速参考：[【来巴厘岛网红必拍】Ayana度假村六个绝美泳池](/blog/ayana-resort-pools-photo/)
+快速参考：[【来巴厘岛网红必拍】Ayana度假村六个绝美泳池](/zh-cn/blog/ayana-resort-pools-photo/)
 
 ### 🍽 **早餐吃好吃满，午餐直接省下来**
 
@@ -110,7 +110,7 @@ https://youtu.be/lbDfKut2J7M
 
 ![The Cave 洞穴餐厅，一生必体验的梦幻晚餐](https://images.gobaligo.id/vocus/vocus_a41f7059b9d933b43ebc4cfd56684828.png)
 
-[探索Oneeighty Day Club：巴厘岛悬崖边的游泳池极致美景](/blog/oneeighty-dayclub-uluwatu-pool/)
+[探索Oneeighty Day Club：巴厘岛悬崖边的游泳池极致美景](/zh-cn/blog/oneeighty-dayclub-uluwatu-pool/)
 
 ## ☕️ **第三天：前进高地咖啡厅，乌布入住浪漫丛林 Villa**
 
@@ -156,7 +156,7 @@ https://youtu.be/63mZAiTt3aE
 
 如果预算有限、但又想住到有质感又地点便利的 Villa，这间真的可以笔记下来✅。
 
-▶The Claremont Luxury Villas 周边、设施、客房等详细介绍请看[这里](/blog/2024-04-04-660e6e92fd89780001e6047e/)
+▶The Claremont Luxury Villas 周边、设施、客房等详细介绍请看[这里](/zh-cn/blog/2024-04-04-660e6e92fd89780001e6047e/)
 
 {{block:smk}}
 
@@ -210,7 +210,7 @@ https://youtu.be/MpetWBEQ2Ts
 
 巴厘岛有超过 75% 的人口从事服务业，适度给小费是一种礼貌与支持。但也遇过一些人会用言语 PUA 或摆出理所当然的态度索取，这种情况下，**真的不需要勉强自己给小费**，保持界限与自我尊重更重要。
 
-快速参考：[巴厘岛旅游要给小费吗？小费怎么给？巴厘岛各种场合的小费要给多少？](/blog/bali-tipping-guide-driver-spa/)
+快速参考：[巴厘岛旅游要给小费吗？小费怎么给？巴厘岛各种场合的小费要给多少？](/zh-cn/blog/bali-tipping-guide-driver-spa/)
 
 ### 🐰 **5. Gold Rabbit 咖啡工厂？请自己 Google 再决定要不要去！**
 

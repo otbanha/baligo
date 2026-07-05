@@ -40,7 +40,7 @@ Bali itu destinasi liburan yang bikin betah, punya pantai cantik, pemandangan al
 
 ➡️[Klik di sini untuk diskon seru lainnya di Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
-Nah, dari sini kamu bisa lihat kalau sewa mobil sama sopir itu lebih unggul daripada sewa motor. Harga sewa mobil di Bali tahun 2024 mulai dari Rp 600.000 untuk 10 jam (sekitar USD$40). Soal cara hitung biaya, biaya tambahan, dan info lengkap lainnya, bisa cek [panduan sewa mobil Bali di sini](/blog/bali-private-car-hire-guide/).
+Nah, dari sini kamu bisa lihat kalau sewa mobil sama sopir itu lebih unggul daripada sewa motor. Harga sewa mobil di Bali tahun 2024 mulai dari Rp 600.000 untuk 10 jam (sekitar USD$40). Soal cara hitung biaya, biaya tambahan, dan info lengkap lainnya, bisa cek [panduan sewa mobil Bali di sini](/id/blog/bali-private-car-hire-guide/).
 
 Selanjutnya kita rekomendasiin beberapa sopir yang paling banyak direview di grup. Kami nggak kasih opini pribadi, kamu bisa lihat review asli dari anggota dua grup Facebook kami. Selain itu, saran kami jangan nilai sopir cuma dari banyaknya review ya! Yang masuk daftar ini semuanya sopir bagus! Yang penting lihat isi review dan alasan netizen merekomendasiin, biar cocok sama yang kamu butuhin. Soalnya sopir sewa mobil bakal nemenin kamu jalan-jalan di Bali beberapa hari, dan itu inti dari liburan Bali. Nemuin sopir yang cocok itu yang paling penting!
 
@@ -56,7 +56,7 @@ Selanjutnya kita rekomendasiin beberapa sopir yang paling banyak direview di gru
 
 ![Gede Arimbawa](https://images.gobaligo.id/vocus/vocus_e96d46f4fff8532b766b84b03cae9eb8.png)
 
-👉 [Baca review Gede Arimbawa](/blog/bali-private-driver-recommendation/)
+👉 [Baca review Gede Arimbawa](/id/blog/bali-private-driver-recommendation/)
 
 👍🏼[Rekomendasi netizen 1](https://www.facebook.com/groups/baligo/permalink/1173796323167611/) 👍🏼[Rekomendasi netizen 2](https://www.facebook.com/groups/baligo/permalink/1270152276865348/) 👍🏼[Rekomendasi netizen 3](https://www.facebook.com/groups/baligo/permalink/1348959758984599/) 👍🏼[Rekomendasi netizen 4](https://www.facebook.com/groups/baligo/permalink/1348360015711240/) 👍🏼[Rekomendasi netizen 5](https://www.facebook.com/groups/baligo/permalink/1260026594544583/) 👍🏼[Rekomendasi netizen 6](https://www.facebook.com/groups/baligo/permalink/1306258926588016/) 👍🏼[Rekomendasi netizen 7](https://www.facebook.com/groups/baligo/permalink/1241526689727907/) 👍🏼[Rekomendasi netizen 8](https://www.facebook.com/groups/baligo/permalink/1289682914912284/) 👍🏼[Rekomendasi netizen 9](https://www.facebook.com/groups/baligo/permalink/143661292847791/) 👍🏼[Rekomendasi netizen 10](https://www.facebook.com/groups/baligo/permalink/1343577336189508/) 👍🏼[Rekomendasi netizen 11](https://www.facebook.com/groups/indonesia.travelguide/permalink/3489776264624831/) 👍🏼[Rekomendasi netizen 12](https://www.facebook.com/groups/baligo/permalink/1409975659549675/) 👍🏼[Rekomendasi netizen 13](https://www.facebook.com/groups/baligo/permalink/1431157174098190/?mibextid=oMANbw) 👍🏼[Rekomendasi netizen 14](https://www.facebook.com/groups/baligo/permalink/1492057241341516/) 👍🏼[Rekomendasi netizen 15](https://www.facebook.com/groups/baligo/permalink/1511651786048728/) 👍🏼[Rekomendasi netizen 16](https://www.facebook.com/groups/baligo/permalink/1542004513013455/) 👍🏼[Rekomendasi netizen 17](https://www.facebook.com/groups/baligo/permalink/1555630811650825/) 👍🏼[Rekomendasi netizen 18](https://www.facebook.com/share/15Gi8idWzs/) 👍🏼[Rekomendasi netizen 19](https://www.facebook.com/share/p/1AAS7saeGk/) 👍🏼[Rekomendasi netizen 20](https://www.facebook.com/share/p/15wXLx3hKx/) 👍🏼[Rekomendasi netizen 21](https://www.facebook.com/share/p/1Gn4x5Mvke/) 👍🏼[Rekomendasi netizen 22](https://www.facebook.com/share/p/19mrC6ZkZd/) 👍🏼[Rekomendasi netizen 23](https://www.facebook.com/share/p/1AVV529xd1/) 👍🏼[Rekomendasi netizen 24](https://www.facebook.com/share/p/1FrBiTvy2p/) 👍🏼[Rekomendasi netizen 25](https://www.facebook.com/share/p/14UD2y6rqe7/) 👍🏼[Rekomendasi netizen 26](https://www.facebook.com/share/p/1BPbNtxKh2/) 👍🏼[Rekomendasi netizen 27](https://www.facebook.com/share/p/1LTgLSNRzh/)
 
@@ -248,7 +248,7 @@ Selanjutnya kita rekomendasiin beberapa sopir yang paling banyak direview di gru
 
 <!-- no-shuffle -->
 
-▼Masih ada rekomendasi driver lainnya di [halaman berikutnya](/blog/2026-03-21-bali-driver-recommend-p2/)▼
-other recommended drivers on [next page](/blog/2026-03-21-bali-driver-recommend-p2/)
+▼Masih ada rekomendasi driver lainnya di [halaman berikutnya](/id/blog/2026-03-21-bali-driver-recommend-p2/)▼
+other recommended drivers on [next page](/id/blog/2026-03-21-bali-driver-recommend-p2/)
 
 {{block:klook}}

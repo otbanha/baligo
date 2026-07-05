@@ -38,7 +38,7 @@ eVoA 一定要喺出發前先去[印尼官方網站](https://evisa.imigrasi.go.i
 
 建議申請時間係出發前1星期內，咁樣既可以確保有足夠時間處理，又唔會太早申請而錯過使用期限。
 
-**快速參考：**[2025最新版印尼/峇里島入境簽證&電子簽證eVoA 填寫相關 FAQ](/blog/indonesia-bali-visa-evoa-faq/)
+**快速參考：**[2025最新版印尼/峇里島入境簽證&電子簽證eVoA 填寫相關 FAQ](/zh-hk/blog/indonesia-bali-visa-evoa-faq/)
 
 ---
 
@@ -50,7 +50,7 @@ eCD（Electronic Customs Declaration）係[印尼官方嘅網上海關報關表]
 
 建議喺搭機前2至3日填寫，避免因為唔記得或者其他問題影響入境流程。
 
-**快速參考：**[【2025最新】點樣填寫峇里島電子海關申報表？電子報關單eCD完整流程教你輕鬆入境](/blog/bali-e-customs-declaration/)
+**快速參考：**[【2025最新】點樣填寫峇里島電子海關申報表？電子報關單eCD完整流程教你輕鬆入境](/zh-hk/blog/bali-e-customs-declaration/)
 
 ---
 
@@ -62,7 +62,7 @@ eCD（Electronic Customs Declaration）係[印尼官方嘅網上海關報關表]
 
 建議將填好嘅SSHP儲存做PDF或者截圖留底，以備不時之需。
 
-**快速參考：**[印尼/峇里島入境新規：搭機前必填健康聲明表SSHP/填寫教學](/blog/2024-08-30-66d109f9fd89780001f47806/)
+**快速參考：**[印尼/峇里島入境新規：搭機前必填健康聲明表SSHP/填寫教學](/zh-hk/blog/2024-08-30-66d109f9fd89780001f47806/)
 
 ---
 
@@ -74,7 +74,7 @@ eCD（Electronic Customs Declaration）係[印尼官方嘅網上海關報關表]
 
 建議出發前一星期搞掂，費事喺機場臨時操作影響行程。
 
-**快睇：**[峇里島觀光稅/旅遊稅懶人包：2024年新規定、繳費方式、跳島注意事項一次睇](/blog/2026-bali-tourism-tax-guide/)
+**快睇：**[峇里島觀光稅/旅遊稅懶人包：2024年新規定、繳費方式、跳島注意事項一次睇](/zh-hk/blog/2026-bali-tourism-tax-guide/)
 
 ---
 

@@ -165,6 +165,6 @@ Trans Studio Bali 嘅票價係動態定價，配合唔同促銷方案。以 2026
 
 下次計劃峇里島行程，記得將呢度列入候補名單，話唔定出發前幾日天氣預報突然話落雨，咁就啱啱好派上用場啦！
 
-➡ 更多峇里島親子樂園推薦：[峇里島十大親子樂園完全攻略](/blog/top-10-kids-attractions-in-bali/)
+➡ 更多峇里島親子樂園推薦：[峇里島十大親子樂園完全攻略](/zh-hk/blog/top-10-kids-attractions-in-bali/)
 
 {{block:親子}}

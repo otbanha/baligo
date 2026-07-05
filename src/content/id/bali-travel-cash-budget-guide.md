@@ -24,16 +24,16 @@ Di video paling bawah, kita bahas tuntas soal budget yang diperlukan buat libura
 
 ## 【Kapan Perlu Uang Tunai?】Link Terkait
 
-* [10 Makanan Terenak di Bali](/blog/bali-travel-tips/) (Bagian 1)
-* [10 Makanan Terenak di Bali](/blog/bali-top-10-foods/) (Bagian 2)
-* [Panduan Lengkap Sewa Mobil Pribadi di Bali - Biaya, Cara Pesan, Analisis Kelebihan](/blog/bali-private-car-hire-guide/)
-* [Transportasi Jarak Dekat Pakai Ini: Panduan Lengkap Gojek](/blog/gojek-bali-guide/)
+* [10 Makanan Terenak di Bali](/id/blog/bali-travel-tips/) (Bagian 1)
+* [10 Makanan Terenak di Bali](/id/blog/bali-top-10-foods/) (Bagian 2)
+* [Panduan Lengkap Sewa Mobil Pribadi di Bali - Biaya, Cara Pesan, Analisis Kelebihan](/id/blog/bali-private-car-hire-guide/)
+* [Transportasi Jarak Dekat Pakai Ini: Panduan Lengkap Gojek](/id/blog/gojek-bali-guide/)
 * [Gimana Cara Ngasih Tip di Bali?](https://youtu.be/B_oT905RkQw)
-* [Aktivitas Outdoor di Bali? 50 Pengalaman Outdoor Paling Populer](/blog/bali-top-50-outdoor-activities/)
+* [Aktivitas Outdoor di Bali? 50 Pengalaman Outdoor Paling Populer](/id/blog/bali-top-50-outdoor-activities/)
 
 ## 【Oleh-Oleh Khas Bali】Link Terkait
 
-[【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Pilihan Oleh-Oleh Khas Bali: Pilihan Terbaik buat Kenangan Berharga](/blog/bali-souvenirs-gift-guide/)
+[【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Pilihan Oleh-Oleh Khas Bali: Pilihan Terbaik buat Kenangan Berharga](/id/blog/bali-souvenirs-gift-guide/)
 
 {{block:klook}}
 
@@ -49,6 +49,6 @@ https://youtu.be/11xViUhEnYQ
 
 ## Rekomendasi SPA
 
-[SPA juga harus pintar-pintar milih: cuma rekomendasi SPA rating bagus](/blog/spa/)
+[SPA juga harus pintar-pintar milih: cuma rekomendasi SPA rating bagus](/id/blog/spa/)
 
 {{block:戶外}}

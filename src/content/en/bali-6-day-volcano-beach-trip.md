@@ -36,7 +36,7 @@ First, let me introduce our driver for the first three days: Komang Sucika. He h
 
 Provided by Dai Yushan
 
-> What’s the best season for mangosteens? Check out: [Queen of Tropical Fruits – Mangosteen Season in Indonesia/Bali](/blog/bali-mangosteen-season/)
+> What’s the best season for mangosteens? Check out: [Queen of Tropical Fruits – Mangosteen Season in Indonesia/Bali](/en/blog/bali-mangosteen-season/)
 
 Every morning, he arrived at our villa on time to pick us up and always responded quickly to our needs. When we wanted to find a bookstore, he immediately called the shop and asked the staff in Indonesian. Even at Besakih Mother Temple, he reminded us of things to watch out for before we got out of the car. We feel incredibly lucky to have met a driver like Komang Sucika! His service far exceeded what we paid for, so we gave him a generous tip—because he absolutely deserves more.
 
@@ -66,11 +66,11 @@ Provided by Dai Yushan
 
 Video provided by Dai Yushan
 
-> For a detailed introduction to La Brisa and how to book, check out: [Dubbed 'Bali's Most Beautiful Restaurant': How Does La Brisa Stand Out Among Countless Dining Options?](/blog/canggu-la-brisa-restaurant-guide/)
+> For a detailed introduction to La Brisa and how to book, check out: [Dubbed 'Bali's Most Beautiful Restaurant': How Does La Brisa Stand Out Among Countless Dining Options?](/en/blog/canggu-la-brisa-restaurant-guide/)
 
 ![Day 1 (Kuta/Canggu):](https://images.gobaligo.id/vocus/vocus_a8d594309ff33fbcc5edd332d4309d42.jpg)
 
-Want more Canggu guides? [Click here](/blog/canggu-guide/)
+Want more Canggu guides? [Click here](/en/blog/canggu-guide/)
 
 ## Day 2 (Ubud):
 
@@ -81,7 +81,7 @@ Provided by Dai Yushan
 - Ubud Market
 - Ubud Palace
 
-> How to explore Ubud's town center? Check out [Ubud City Center Shopping Guide](/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
+> How to explore Ubud's town center? Check out [Ubud City Center Shopping Guide](/en/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
 
 - Tegallalang Rice Terraces
 
@@ -99,7 +99,7 @@ https://youtu.be/op78Dk8CjL4
 
 Photo by Dai Yushan
 
-> For a detailed introduction to this attraction, check out: [A Journey Through Time in Penglipuran Village: Experience Bali's Ancient Charm](/blog/penglipuran-village-bali-experience/)
+> For a detailed introduction to this attraction, check out: [A Journey Through Time in Penglipuran Village: Experience Bali's Ancient Charm](/en/blog/penglipuran-village-bali-experience/)
 
 - Lunch: Naughty Nuri's Ubud (famous for pork ribs)
 - Snack: Tukies Coconut Shop (coconut ice cream)
@@ -166,7 +166,7 @@ Provided by Yu-Shan Tai
 
 Provided by Yu-Shan Tai
 
-> [Bali Uluwatu Temple / Uluwatu Cliff Travel Guide: Must-See Highlights & Practical Tips](https://gobaligo.id/blog/uluwatu-temple-travel-guide/)
+> [Bali Uluwatu Temple / Uluwatu Cliff Travel Guide: Must-See Highlights & Practical Tips](https://gobaligo.id/en/blog/uluwatu-temple-travel-guide/)
 
 - Suluban Beach (stunning beach!)
 
@@ -181,7 +181,7 @@ https://youtu.be/hQbBTktqEqY
 
 This trip was incredibly rewarding. If you're planning a trip to Bali, feel free to use my itinerary as a reference!
 
-> [【Recommended by Travelers】Over 20 Types of Bali Souvenirs: The Perfect Guide to Cherish Your Memories](https://gobaligo.id/blog/bali-souvenirs-gift-guide/)
+> [【Recommended by Travelers】Over 20 Types of Bali Souvenirs: The Perfect Guide to Cherish Your Memories](https://gobaligo.id/en/blog/bali-souvenirs-gift-guide/)
 
 ## 【Bali Private Driver Recommendation Part 2】
 

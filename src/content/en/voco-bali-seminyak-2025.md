@@ -78,10 +78,10 @@ The opening of voco Bali Seminyak injects new vitality into Bali's tourism indus
 
 ![More Seminyak Dining and Entertainment Recommendations](https://images.gobaligo.id/vocus/vocus_366287b60b610bfff45aea753d91ba55.jpg)
 
-[Complete Seminyak Guide](/blog/seminyak-guide/)
+[Complete Seminyak Guide](/en/blog/seminyak-guide/)
 
-Seminyak is a charming area in Bali that blends fashion with tradition, offering top-tier restaurants, boutique shops, and vibrant nightlife—a paradise for vacationers! Want to discover more about its culinary delights? [Click here](/blog/seminyak-guide/).
+Seminyak is a charming area in Bali that blends fashion with tradition, offering top-tier restaurants, boutique shops, and vibrant nightlife—a paradise for vacationers! Want to discover more about its culinary delights? [Click here](/en/blog/seminyak-guide/).
 
-- [Bali Accommodation Recommendations: A Guide to Coastal Luxury Resorts in Seminyak](/blog/seminyak-beach-resorts-guide/)
-- [Bali Accommodation Recommendations: Private Pool Villas in Seminyak—21 Stunning Secret Gardens](/blog/2024-04-04-660e6e92fd89780001e6047e/)
-- [Seminyak: Affordable Bali Villas Under $100](/blog/seminyak-budget-villas-guide/)
+- [Bali Accommodation Recommendations: A Guide to Coastal Luxury Resorts in Seminyak](/en/blog/seminyak-beach-resorts-guide/)
+- [Bali Accommodation Recommendations: Private Pool Villas in Seminyak—21 Stunning Secret Gardens](/en/blog/2024-04-04-660e6e92fd89780001e6047e/)
+- [Seminyak: Affordable Bali Villas Under $100](/en/blog/seminyak-budget-villas-guide/)

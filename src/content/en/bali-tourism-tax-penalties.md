@@ -21,7 +21,7 @@ _srcHash: b50cc5bcec0a1d26b84ba20366b7e2b3
 
 ### 1. What is Bali's Tourism Tax?
 
-Starting from February 2024, Bali has implemented a tourism tax for all international visitors, requiring each person to pay IDR 150,000 (approximately USD$10). This tax is primarily used to support Bali's infrastructure development, protect local culture, and preserve the natural environment. Tourists can pay online through the LoveBali App, and in the future, payments may also be possible at airports or through some hotels and travel agencies. After payment, tourists will receive a QR code, which they should keep ready in case of random checks by tourism tax officials. (For the payment process, see: [Bali Tourism Tax Guide: New 2024 Regulations, Payment Methods, and Island-Hopping Tips](/blog/2026-bali-tourism-tax-guide/))
+Starting from February 2024, Bali has implemented a tourism tax for all international visitors, requiring each person to pay IDR 150,000 (approximately USD$10). This tax is primarily used to support Bali's infrastructure development, protect local culture, and preserve the natural environment. Tourists can pay online through the LoveBali App, and in the future, payments may also be possible at airports or through some hotels and travel agencies. After payment, tourists will receive a QR code, which they should keep ready in case of random checks by tourism tax officials. (For the payment process, see: [Bali Tourism Tax Guide: New 2024 Regulations, Payment Methods, and Island-Hopping Tips](/en/blog/2026-bali-tourism-tax-guide/))
 
 ![1. What is Bali's Tourism Tax?](https://images.gobaligo.id/vocus/vocus_45e18794a5fa7b3c863c8a06c4e980d8.png)
 
@@ -29,7 +29,7 @@ Starting from February 2024, Bali has implemented a tourism tax for all internat
 
 The purpose of this tax is clear: to help Bali develop its tourism industry while protecting its cultural heritage and natural resources. Bali is a highly popular tourist destination, and the increase in visitors has put pressure on infrastructure and impacted local culture and the environment. This tax is intended to address these issues, ensuring Bali's long-term sustainable development.
 
-[Can You Skip Paying? What Exactly is Bali's Tourism Tax?](/blog/bali-tourism-tax-explained/)
+[Can You Skip Paying? What Exactly is Bali's Tourism Tax?](/en/blog/bali-tourism-tax-explained/)
 
 ### 3. What's the Problem?
 

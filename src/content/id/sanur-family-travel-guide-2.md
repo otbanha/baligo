@@ -29,10 +29,10 @@ Panduan ini bakal jelasin detail tips liburan ke Sanur pas liburan sekolah, plus
 
 ## Tiga Rekomendasi Area Liburan Keluarga Pas Liburan Sekolah
 
-> Episode 1: [Seminyak](/blog/seminyak-family-travel-2026/)
-> Episode 2: [Ubud](/blog/ubud-family-travel-2026/)
+> Episode 1: [Seminyak](/id/blog/seminyak-family-travel-2026/)
+> Episode 2: [Ubud](/id/blog/ubud-family-travel-2026/)
 > Episode 3: Sanur (artikel ini)
-> [Episode 4: Nusa Dua](/blog/2026-04-02-112654/)
+> [Episode 4: Nusa Dua](/id/blog/2026-04-02-112654/)
 
 ## Tips Penting Liburan Keluarga
 
@@ -54,7 +54,7 @@ Sanur ada di tenggara Bali, cuacanya hangat dan nyaman. Pas liburan sekolah (Jun
 
 - **Tabir Surya & Anti Nyamuk** : Area pantai Sanur terik banget, jadi wajib rajin reapply sunscreen. Meskipun nyamuk di Sanur lumayan jarang, tetap siapin lotion anti nyamuk ya.
 - **Air Minum** : Jangan minum air keran langsung, mending beli air kemasan atau pakai air yang sudah direbus.
-- **Persiapan Medis** : Bawa obat-obatan umum kayak obat demam, obat diare, obat mabuk perjalanan, plester luka, dll. Cek juga: [Daftar Obat Wajib Bawa ke Bali? Cara Beli Sunscreen & Anti Nyamuk?](/blog/bali-travel-medicine-checklist/) Di pusat kota Sanur udah ada rumah sakit internasional terbesar dan terbaru di Bali.
+- **Persiapan Medis** : Bawa obat-obatan umum kayak obat demam, obat diare, obat mabuk perjalanan, plester luka, dll. Cek juga: [Daftar Obat Wajib Bawa ke Bali? Cara Beli Sunscreen & Anti Nyamuk?](/id/blog/bali-travel-medicine-checklist/) Di pusat kota Sanur udah ada rumah sakit internasional terbesar dan terbaru di Bali.
 
 ***
 
@@ -64,8 +64,8 @@ Transportasi di Sanur lumayan gampang. Saran sih booking layanan sewa mobil yang
 
 **Referensi Cepat:**
 
-- [Panduan Lengkap Sewa Mobil di Bali - Biaya, Cara Booking, Kelebihan](/blog/bali-private-car-hire-guide/)
-- [Rekomendasi Tempat Wisata Bali 2025｜500 Spot Hits Terbaru di Bali](/blog/bali-top-500-attractions/)
+- [Panduan Lengkap Sewa Mobil di Bali - Biaya, Cara Booking, Kelebihan](/id/blog/bali-private-car-hire-guide/)
+- [Rekomendasi Tempat Wisata Bali 2025｜500 Spot Hits Terbaru di Bali](/id/blog/bali-top-500-attractions/)
 
 ***
 
@@ -116,7 +116,7 @@ https://youtu.be/SaYjta3JYVo?si=Nrb731tvcYa2SCI8
 
 Pembukaan AeroXSpace Indoor Adventure Park bawa pilihan hiburan baru buat keluarga dan turis di Bali. Pusat petualangan seluas 3.500 meter persegi ini punya 26 atraksi dan aktivitas game yang beda-beda, cocok buat semua umur, baik saat cuaca cerah atau hujan.
 
-Penjelasan lengkap & tiket diskon [di sini](/blog/aeroxspace-sanur-indoor-playground/).
+Penjelasan lengkap & tiket diskon [di sini](/id/blog/aeroxspace-sanur-indoor-playground/).
 
 ### 5. Big Garden Corner
 
@@ -160,7 +160,7 @@ HTM 35K IDR, sekitar USD$1.
 
 Di Sanur, Bali, ada tiga pusat konservasi penyu yang sangat bermakna, apalagi kalau bawa anak-anak ke sini. Tempat ini jadi rumah bagi bayi penyu, mereka dirawat dan dilindungi sampai dewasa. Dengan mengunjungi kawasan konservasi penyu, anak-anak nggak cuma bisa lihat dari dekat dan belajar tentang kehidupan penyu, tapi juga bisa paham pentingnya menjaga makhluk laut. Pengalaman edukatif yang berharga ini bakal bantu memicu kepedulian anak-anak terhadap perlindungan lingkungan dan keanekaragaman hayati, sekaligus jadi aktivitas keluarga yang nggak terlupakan.
 
-Referensi cepat: [🐢 Panduan Lengkap Lihat Penyu di Bali: Dari Kuta ke Sanur, Spot Konservasi Penyu Wajib Kunjungi Keluarga 🌴](/blog/bali-turtle-watching-guide/)
+Referensi cepat: [🐢 Panduan Lengkap Lihat Penyu di Bali: Dari Kuta ke Sanur, Spot Konservasi Penyu Wajib Kunjungi Keluarga 🌴](/id/blog/bali-turtle-watching-guide/)
 
 ### Bonus: Pengalaman Snorkeling Lepas Pantai Sanur
 
@@ -282,7 +282,7 @@ Buat orang tua yang perlu meninggalkan hotel, pihak hotel menyediakan jasa babys
 
 ## Lebih Banyak Info Seru di Sanur
 
-Sanur adalah sebuah kota kecil di pesisir Bali yang penuh ketenangan, terkenal dengan pantainya yang tenang, suasana santai, dan pemandangan matahari terbit yang spektakuler. Di sini ada resor ramah keluarga, pasar tradisional, dan beragam kuliner lokal yang kaya—tempat ideal buat menikmati slow living sambil eksplorasi budaya. Mau jalan-jalan di sepanjang garis pantai atau merasakan vibe lokal, Sanur bakal kasih kamu liburan yang super rileks! Mau tahu lebih banyak tips Sanur? [Klik di sini](/blog/sanur-guide/).
+Sanur adalah sebuah kota kecil di pesisir Bali yang penuh ketenangan, terkenal dengan pantainya yang tenang, suasana santai, dan pemandangan matahari terbit yang spektakuler. Di sini ada resor ramah keluarga, pasar tradisional, dan beragam kuliner lokal yang kaya—tempat ideal buat menikmati slow living sambil eksplorasi budaya. Mau jalan-jalan di sepanjang garis pantai atau merasakan vibe lokal, Sanur bakal kasih kamu liburan yang super rileks! Mau tahu lebih banyak tips Sanur? [Klik di sini](/id/blog/sanur-guide/).
 
 ***
 
@@ -292,10 +292,10 @@ Sanur adalah sebuah kota kecil di pesisir Bali yang penuh ketenangan, terkenal d
 
 ### Tiga Rekomendasi Area untuk Liburan Keluarga Musim Panas/Musim Dingin
 
-- [Episode 1: Seminyak](/blog/seminyak-family-travel-2026/)
-- [Episode 2: Ubud](/blog/ubud-family-travel-2026/)
+- [Episode 1: Seminyak](/id/blog/seminyak-family-travel-2026/)
+- [Episode 2: Ubud](/id/blog/ubud-family-travel-2026/)
 - Episode 3: Sanur (artikel ini)
-- [Episode 4: Nusa Dua](/blog/2026-04-02-112654/)
+- [Episode 4: Nusa Dua](/id/blog/2026-04-02-112654/)
 
 ***
 
@@ -307,11 +307,11 @@ Sanur itu tempat yang ramah buat liburan keluarga. Punya pantai yang tenang, hot
 
 **Apa lagi aktivitas seru buat anak-anak di Sanur?**
 
-Kami sudah mengumpulkan puluhan aktivitas di Sanur yang cocok buat anak-anak, termasuk snorkeling, kunjungan ke pusat konservasi penyu, dan workshop kerajinan tangan. Klik [di sini](/blog/sanur-guide/) buat lihat detail lengkapnya.
+Kami sudah mengumpulkan puluhan aktivitas di Sanur yang cocok buat anak-anak, termasuk snorkeling, kunjungan ke pusat konservasi penyu, dan workshop kerajinan tangan. Klik [di sini](/id/blog/sanur-guide/) buat lihat detail lengkapnya.
 
 **Ada akomodasi di Sanur yang punya seluncuran air?**
 
-Beberapa resor keluarga menyediakan fasilitas seluncuran air, cocok buat anak-anak yang suka main air. Kami sudah pilihkan beberapa hotel keluarga dengan seluncuran air, klik [di sini](/blog/bali-family-resorts-water-slides/) buat info lebih lanjut.
+Beberapa resor keluarga menyediakan fasilitas seluncuran air, cocok buat anak-anak yang suka main air. Kami sudah pilihkan beberapa hotel keluarga dengan seluncuran air, klik [di sini](/id/blog/bali-family-resorts-water-slides/) buat info lebih lanjut.
 
 **Gimana cuaca di Sanur? Pakaian apa yang perlu disiapin?**
 
@@ -339,7 +339,7 @@ Jalanan dan jalur tepi pantai di Sanur relatif datar, jadi cocok banget buat baw
 
 **Spot wajib dikunjungi di sekitar Sanur**
 
-Dari Sanur, naik speedboat sekitar 30 menit aja udah sampai ke dua pulau kecil di pesisir timur Bali. Cek yuk [Panduan Nusa Penida](/blog/nusa-penida-guide/) / [Panduan Nusa Lembongan & Ceningan](/blog/nusa-lembongan-ceningan-guide/)
+Dari Sanur, naik speedboat sekitar 30 menit aja udah sampai ke dua pulau kecil di pesisir timur Bali. Cek yuk [Panduan Nusa Penida](/id/blog/nusa-penida-guide/) / [Panduan Nusa Lembongan & Ceningan](/id/blog/nusa-lembongan-ceningan-guide/)
 
 {{block:攻略}}
 

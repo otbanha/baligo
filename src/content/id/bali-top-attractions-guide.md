@@ -52,7 +52,7 @@ Garis-garis hijau yang bertingkat-tingkat ini udah diakui sebagai Warisan Dunia.
 
 - _💬 Review Google Asli:_ 'Pemandangannya cantik banget, sawah teraseringnya spektakuler. Banyak ayunan langit yang bisa dicoba, hasil fotonya estetik. Tapi tangganya curam, kalau turun naik lagi butuh tenaga ekstra.'
 
-> [8 Rekomendasi Jungle Swing Terbaik: Tips Sewa Gaun, Angle Foto, & Cara Hindari Keramaian](https://gobaligo.id/blog/ubud-jungle-swings-photo-guide/)
+> [8 Rekomendasi Jungle Swing Terbaik: Tips Sewa Gaun, Angle Foto, & Cara Hindari Keramaian](https://gobaligo.id/id/blog/ubud-jungle-swings-photo-guide/)
 
 ### 2. Pura Tirta Empul (Pura Tirta Empul)
 
@@ -62,7 +62,7 @@ Air mata air bawah tanah di sini sudah mengalir selama ratusan tahun. Penduduk s
 
 - _💬 Ulasan asli Google:_ "Tempat yang sangat sakral dan penuh energi! Antre untuk pengalaman pembersihan butuh waktu sekitar satu jam, airnya dingin banget dan jernih. Setelah selesai, hati yang gelisah jadi tenang. Ingat, harus pakai sarung (Sarong) sesuai aturan."
 
-> [【Pura Tirta Empul di Bali】Panduan Lengkap: Proses Ritual Pembersihan Air Suci Seribu Tahun, Larangan, dan Hal Penting yang Wajib Dilihat](https://gobaligo.id/blog/tirta-empul-temple-guide/)
+> [【Pura Tirta Empul di Bali】Panduan Lengkap: Proses Ritual Pembersihan Air Suci Seribu Tahun, Larangan, dan Hal Penting yang Wajib Dilihat](https://gobaligo.id/id/blog/tirta-empul-temple-guide/)
 
 ### 3. Istana Ubud & Pasar Tradisional Ubud Palace & Market
 
@@ -74,7 +74,7 @@ https://youtube.com/shorts/Oh-RNfjhQhM
 
 - _💬 Ulasan asli Google:_ "Istana kecil dan cantik, gratis masuk. Pasar di seberangnya seru banget buat jalan-jalan, ada tas anyaman rotan, aksesoris ukiran kayu—pokoknya lengkap. Tapi kalau belanja, harus nawar dari 30% harga awal, proses nawarnya juga seru!"
 
-> [Istana Ubud: Permata Sejarah dan Budaya Bali | Jam Buka, Tiket, Jadwal Pertunjukan, Tempat Wisata Sekitar, Rekomendasi Tur Sehari](https://gobaligo.id/blog/ubud-royal-palace-tour-guide/)
+> [Istana Ubud: Permata Sejarah dan Budaya Bali | Jam Buka, Tiket, Jadwal Pertunjukan, Tempat Wisata Sekitar, Rekomendasi Tur Sehari](https://gobaligo.id/id/blog/ubud-royal-palace-tour-guide/)
 
 ### 4. Desa Tradisional Penglipuran Village
 
@@ -84,7 +84,7 @@ Permukiman kuno ini masih mempertahankan tata letak bangunan tradisional dan gay
 
 - _💬 Ulasan asli Google:_ "Seluruh desa sangat bersih dan rapi, rumah anyaman bambu tradisionalnya unik banget. Penduduknya ramah, bahkan ada yang ngajak masuk ke halaman rumah mereka. Sangat recommended buat merasakan budaya tradisional Bali yang autentik."
 
-[【Bali Cultural Spot】Penglipuran Village Guide: Masuk ke Desa Paling Bersih dan Tua di Bali serta Hutan Bambu Rahasianya](https://gobaligo.id/blog/penglipuran-village-bali-experience/)
+[【Bali Cultural Spot】Penglipuran Village Guide: Masuk ke Desa Paling Bersih dan Tua di Bali serta Hutan Bambu Rahasianya](https://gobaligo.id/id/blog/penglipuran-village-bali-experience/)
 
 ### 5. Sungai Ayung (Ayung River)
 
@@ -94,7 +94,7 @@ Coba seru-seruan naik perahu karet di Sungai Ayung, Ubud! Sepanjang sungai yang 
 
 - _💬 Review asli Google:_ “Arung jeram seru banget! Pemandangan hutan tropis di sepanjang jalan indah kayak Jurassic Park, bahkan bisa lihat patung batu di tebing. Instrukturnya humoris, meskipun tangan pegel setelah mendayung, tapi worth it banget!”
 
-[【FAQ Arung Jeram Bali】Gak bisa renang juga bisa? Batas usia, tips aman, dan perbandingan Sungai Ayung vs Telaga Waja](https://gobaligo.id/blog/bali-rafting-ayung-telaga-waja/)
+[【FAQ Arung Jeram Bali】Gak bisa renang juga bisa? Batas usia, tips aman, dan perbandingan Sungai Ayung vs Telaga Waja](https://gobaligo.id/id/blog/bali-rafting-ayung-telaga-waja/)
 
 ### 6. Air Terjun Tegenungan (Tegenungan Waterfall)
 
@@ -104,7 +104,7 @@ Tersembunyi di tengah rimbunnya pepohonan, ini air terjun raksasa paling dekat d
 
 - _💬 Review asli Google:_ “Gak terlalu jauh dari pusat Ubud, debit air terjunnya melimpah dan bikin merinding! Jalurnya tertata rapi, banyak instalasi seni yang cocok buat foto-foto. Turun ke bawah cuma sekitar 10 menit, cocok buat yang males jalan jauh.”
 
-[Dayclub Air Terjun Ubud Bali OMMA Dayclub: Nikmati suasana chill, waktu santai di bawah sinar matahari](https://gobaligo.id/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+[Dayclub Air Terjun Ubud Bali OMMA Dayclub: Nikmati suasana chill, waktu santai di bawah sinar matahari](https://gobaligo.id/id/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 {{block:ubud}}
 
@@ -120,7 +120,7 @@ Berdiri di atas bongkahan batu besar di tepi laut. Pas laut naik, pura ini terpu
 
 - _💬 Review asli Google:_ “Saran datang jam 5 sore biar bisa lihat momen magis sebelum dan sesudah sunset. Pas surut, kamu bisa turun ke bawah pura buat sentuh air suci. Sunset di sini wajib banget kamu lihat sekali seumur hidup!”
 
-> [Panduan lengkap Pura Tanah Lot: pasang surut & tempat wisata sekitar](https://gobaligo.id/blog/bali-tanah-lot-guide/)
+> [Panduan lengkap Pura Tanah Lot: pasang surut & tempat wisata sekitar](https://gobaligo.id/id/blog/bali-tanah-lot-guide/)
 
 ### 8. Pura Uluwatu
 
@@ -130,7 +130,7 @@ Terletak di tepi tebing curam setinggi 70 meter. Dari sini kamu bisa lihat hampa
 
 - _💬 Review asli Google:_ “Pura di tebing ini keren banget, pemandangan sunset lautnya juara. Tari Kecak sore hari bikin merinding, semua suara dari mulut penari. Tapi hati-hati sama monyetnya yang galak, suka rebut kacamata dan topi — simpan baik-baik.”
 
-> [Panduan Wisata Pura Uluwatu / Tebing Cinta di Bali: Spot Wajib & Tips Praktis](https://gobaligo.id/blog/uluwatu-temple-travel-guide/)
+> [Panduan Wisata Pura Uluwatu / Tebing Cinta di Bali: Spot Wajib & Tips Praktis](https://gobaligo.id/id/blog/uluwatu-temple-travel-guide/)
 
 ### 9. Seminyak
 
@@ -184,7 +184,7 @@ Istana air yang dulu dibangun raja ini memadukan arsitektur lokal dan sentuhan T
 
 - _💬 Review asli Google:_ “Istana airnya cantik banget, penuh nuansa kerajaan. Yang paling seru beli sebungkus pakan ikan, lalu jalan di atas batu pahatan sambil kasih makan ikan koi. Ikan-koinya gede-gede dan gemuk, bikin foto makin kece!”
 
-> [【Panduan Wisata Bali Timur】Pura Lempuyang, Taman Tirta Gangga, Istana Air Ujung: Panduan Foto & Transportasi ke Tempat Wisata Kayak Surga](https://gobaligo.id/blog/bali-east-tour-guide/)
+> [【Panduan Wisata Bali Timur】Pura Lempuyang, Taman Tirta Gangga, Istana Air Ujung: Panduan Foto & Transportasi ke Tempat Wisata Kayak Surga](https://gobaligo.id/id/blog/bali-east-tour-guide/)
 
 ## 4. Danau Berkabut & Pemandangan Gunung Berapi: Destinasi Rahasia Pegunungan Utara (Bali Utara & Kintamani)
 
@@ -198,7 +198,7 @@ Karena dikelilingi kabut tipis dan Danau Bratan yang tenang, saat air danau naik
 
 - _💬 Review asli Google:_ “Tempat ini di daerah pegunungan, udaranya sejuk bahkan agak dingin. Pura di atas danau muncul samar-samar di tengah kabut, beneran kayak surga dunia. Beda banget sama pantai selatan yang ramai, ini tempat yang bikin hati tenang.”
 
-> [Panduan Lengkap Danau Batur & Gunung Batur Kintamani Bali | Sunrise Trekking × Royal Boat × Kafe Danau × Taman Bermain × Pemandian Air Panas Vulkanik](https://gobaligo.id/blog/batur-lake-volcano-guide/)
+> [Panduan Lengkap Danau Batur & Gunung Batur Kintamani Bali | Sunrise Trekking × Royal Boat × Kafe Danau × Taman Bermain × Pemandian Air Panas Vulkanik](https://gobaligo.id/id/blog/batur-lake-volcano-guide/)
 
 ### 16. Kintamani / Gunung Batur
 
@@ -208,7 +208,7 @@ Sudut pandang terbaik untuk menikmati Gunung Batur dan Danau Batur. Akhir-akhir 
 
 - _💬 Review asli Google:_ “Cuaca di sini sejuk banget, beda sama panasnya di selatan! Duduk di kafe dengan pemandangan, lihat lava hitam vulkanik dan danau, pemandangannya luas banget, sangat recommended buat dikunjungi.”
 
-> [Rekomendasi 13 Kafe & Restoran dengan Pemandangan Gunung Berapi di Kintamani 🌄☕](https://gobaligo.id/blog/kintamani-volcano-cafes-restaurants/)
+> [Rekomendasi 13 Kafe & Restoran dengan Pemandangan Gunung Berapi di Kintamani 🌄☕](https://gobaligo.id/id/blog/kintamani-volcano-cafes-restaurants/)
 
 ## 五、 Mutiara yang Jatuh dari Surga: Nusa Penida & Kepulauan Nusa
 
@@ -238,7 +238,7 @@ Broken Beach adalah lengkungan laut alami berbentuk lingkaran raksasa hasil eros
 
 - _💬 Review asli Google:_ “Mahakarya alam yang luar biasa! Lengkungan laut alaminya megah banget. Angel's Billabong di sebelahnya pas surut airnya tenang kayak infinity pool transparan, keliatan tekstur batu di dasarnya. Indah banget.”
 
-[【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](https://gobaligo.id/blog/nusa-penida-guide/)
+[【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](https://gobaligo.id/id/blog/nusa-penida-guide/)
 
 ### 20. Devil's Tears（Pulau Lembongan）
 
@@ -248,7 +248,7 @@ Terletak di pulau lepas pantai bernama Pulau Lembongan, ini adalah tebing meleng
 
 - _💬 Ulasan asli Google:_ "Saat ombak besar menghantam celah batu, percikan air dan kabut air sangat dahsyat! Suaranya bikin merinding! Kalau beruntung, kamu bisa lihat pelangi di antara percikan air. Tapi jangan berdiri terlalu dekat ke tepi, ya. Safety first."
 
-> [【Panduan Wisata Pulau Lembongan/Ceningan】Jelajahi Tempat Wisata, Kuliner, Transportasi di Pulau Lembongan/Ceningan: Surga di Dekat Bali](https://gobaligo.id/blog/nusa-lembongan-ceningan-guide/)
+> [【Panduan Wisata Pulau Lembongan/Ceningan】Jelajahi Tempat Wisata, Kuliner, Transportasi di Pulau Lembongan/Ceningan: Surga di Dekat Bali](https://gobaligo.id/id/blog/nusa-lembongan-ceningan-guide/)
 
 https://youtube.com/shorts/D6ZFGWE74cE
 
@@ -258,11 +258,11 @@ Setelah melihat 20 tempat impian yang bikin napas tersengal ini, pasti kamu suda
 
 Biar perjalananmu lebih lancar dan makin stylish, kami khusus menyusun panduan super detail 【Panduan Lengkap Zona Bali Eksklusif Situs Ini】! Di sini, kami nggak cuma menghubungkan tempat-tempat wisata terdekat jadi rute sehari, tapi juga kasih bonus tips transportasi rahasia yang cuma diketahui orang lokal dan trik menghindari keramaian.
 
-#### 👉 Klik di sini untuk lihat sekarang: [Panduan Lengkap Zona Bali, Bawa Kamu Jelajahi Pulau Para Dewa dalam Satu Artikel!](https://gobaligo.id/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)
+#### 👉 Klik di sini untuk lihat sekarang: [Panduan Lengkap Zona Bali, Bawa Kamu Jelajahi Pulau Para Dewa dalam Satu Artikel!](https://gobaligo.id/id/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)
 
-> [Panduan Pemula ke Bali](https://gobaligo.id/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
+> [Panduan Pemula ke Bali](https://gobaligo.id/id/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
 
-> [Bali Anti Zonk Guide: 18 Kesalahan Umum & Tips](https://gobaligo.id/blog/bali-travel-mistakes-tips/)
+> [Bali Anti Zonk Guide: 18 Kesalahan Umum & Tips](https://gobaligo.id/id/blog/bali-travel-mistakes-tips/)
 
 Biarkan panduan perjalanan paling autentik nemenin kamu packing, dan mulai petualangan super mewah yang bikin jiwa raga fresh!
 

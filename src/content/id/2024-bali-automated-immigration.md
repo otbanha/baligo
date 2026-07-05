@@ -62,4 +62,4 @@ Jadi mulai 2024, urus eVOA (Electronic Visa on Arrival) dulu bikin kamu nggak pe
 
 👈 **Kembali ke Panduan Lengkap Liburan Mandiri ke Bali**
 
-Mau baca panduan lengkap buat pemula? [Klik di sini buat baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/blog/bali-ultimate-guide-2026/), biar paham semua yang harus disiapin sebelum berangkat.
+Mau baca panduan lengkap buat pemula? [Klik di sini buat baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/id/blog/bali-ultimate-guide-2026/), biar paham semua yang harus disiapin sebelum berangkat.

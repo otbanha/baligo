@@ -17,7 +17,7 @@ Update: 2026/07/03
 
 **Apa isi halaman ini**: Halaman kedua dari "Papan Kehormatan Rekomendasi Pengguna" untuk driver sewa mobil di Bali. Berisi rekomendasi asli dari anggota grup Facebook untuk driver yang bisa bahasa Mandarin. Setiap tautan "Rekomendasi Pengguna" di bawah nama driver adalah postingan grup asli yang bisa diklik untuk verifikasi. Semakin banyak rekomendasi, semakin lama reputasi yang terakumulasi. Tarif sewa mobil sekitar **Rp 600.000–800.000/hari (termasuk bensin, sekitar 10 jam)**, saat menghubungi, sebutkan tanggal, jumlah orang, dan area yang ingin dikunjungi.
 
-Halaman pertama, driver yang kami rekomendasikan ada di [sini](https://gobaligo.id/blog/bali-private-car-drivers-guide/)
+Halaman pertama, driver yang kami rekomendasikan ada di [sini](https://gobaligo.id/id/blog/bali-private-car-drivers-guide/)
 
 <!-- shuffle-start -->
 
@@ -143,4 +143,4 @@ Halaman pertama, driver yang kami rekomendasikan ada di [sini](https://gobaligo.
 
 👈 **Kembali ke Panduan Lengkap Liburan Mandiri ke Bali**
 
-Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.
+Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.

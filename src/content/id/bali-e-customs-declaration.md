@@ -124,7 +124,7 @@ Mulai tahun 2024, setiap turis asing wajib bayar pajak wisata satu kali sebesar 
 
 Ini formulir survei kesehatan, isinya cepat dan gratis. Berisi riwayat perjalanan terbaru dan info kesehatan dasar, tujuannya untuk pelacakan kesehatan. Isi di [sini](https://sshp.kemkes.go.id/).
 
-> Referensi cepat: [2025 Perubahan Masuk Bali Paham dalam 1 Menit: Proses Masuk Indonesia/Bali - Turun Pesawat/Melewati Imigrasi/Ambil Bagasi](/blog/2025-bali-immigration-process/)
+> Referensi cepat: [2025 Perubahan Masuk Bali Paham dalam 1 Menit: Proses Masuk Indonesia/Bali - Turun Pesawat/Melewati Imigrasi/Ambil Bagasi](/id/blog/2025-bali-immigration-process/)
 
 ---
 

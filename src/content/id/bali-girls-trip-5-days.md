@@ -37,9 +37,9 @@ Cuplikan video Clairejenjen
 
 Setelah itu, mereka naik Gojek motor kembali ke villa, menikmati sarapan super lengkap, lalu lanjut ke pasar seni Ubud untuk merasakan pesona budaya lokal yang unik. Di pasar, mereka mencicipi berbagai makanan khas Bali, melihat-lihat kerajinan tangan dan karya seni lokal—serasa lagi jalan-jalan di kota kecil eksotis yang penuh kehidupan.
 
-> Baca juga: Rekomendasi [22 Villa Bali yang Bikin Tercengang di Ubud](/blog/ubud-villa-pool-guide/)
+> Baca juga: Rekomendasi [22 Villa Bali yang Bikin Tercengang di Ubud](/id/blog/ubud-villa-pool-guide/)
 
-> [【Akomodasi Ubud Bali】32 Penginapan Unik di Ubud, Rasakan Petualangan Seru di Tengah Pemandangan Alam Bali!](/blog/ubud-villas-pool-guide/)
+> [【Akomodasi Ubud Bali】32 Penginapan Unik di Ubud, Rasakan Petualangan Seru di Tengah Pemandangan Alam Bali!](/id/blog/ubud-villas-pool-guide/)
 
 ![Clairejenjen視頻截圖](https://images.gobaligo.id/vocus/vocus_dcba359c585b69b719edfb486213c9cb.jpg)
 
@@ -89,6 +89,6 @@ Kamu pikir itinerary mereka seru banget? Yuk, buruan atur liburan seru kamu ke B
 
 Klik di sini buat lihat lebih banyak cerita perjalanan seru di Bali
 
-Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Cerita Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)」, biar cerita kamu makin kece!
+Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Cerita Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, biar cerita kamu makin kece!
 
 {{block:攻略}}

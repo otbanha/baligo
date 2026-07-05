@@ -78,7 +78,7 @@ Ketinggian 600m bikin suhu lebih sejuk 4–6°C dibanding Kuta atau pusat Ubud. 
 | Ubud | Sekitar 1,5–2 jam | Lewat jalan pegunungan ke timur melewati Klungkung |
 | Amed | Sekitar 45 menit | Paling dekat, basecamp favorit buat yang nginep di timur |
 
-👉 [Peta dan daftar tempat wisata Bali Timur](/map/ubud/) ｜ [Paket tur sehari dari Ubud ke timur](/blog/bali-east-tour-guide/)
+👉 [Peta dan daftar tempat wisata Bali Timur](/map/ubud/) ｜ [Paket tur sehari dari Ubud ke timur](/id/blog/bali-east-tour-guide/)
 
 ![Lokasi — di mana sih di Bali? Jauh nggak dari tempat kamu ng](https://images.gobaligo.id/images/2026-05/1779103229342-_2026-05-18_18.20.11.png)
 
@@ -110,7 +110,7 @@ Ketinggian 600m bikin suhu lebih sejuk 4–6°C dibanding Kuta atau pusat Ubud. 
 
 ## Rincian Biaya (Harga Asli di Lapangan 2026)
 
-👉 Disarankan tukar uang di [money changer resmi](/blog/bali-currency-exchange-guide/) di Kuta atau Ubud, karena di bandara rugi kursnya bisa 10–15%. Semua biaya di lapangan hanya cash.
+👉 Disarankan tukar uang di [money changer resmi](/id/blog/bali-currency-exchange-guide/) di Kuta atau Ubud, karena di bandara rugi kursnya bisa 10–15%. Semua biaya di lapangan hanya cash.
 
 | Item | Biaya (IDR) | Konversi ke USD | Catatan |
 | --- | --- | --- | --- |
@@ -124,7 +124,7 @@ Ketinggian 600m bikin suhu lebih sejuk 4–6°C dibanding Kuta atau pusat Ubud. 
 
 **Catatan:** Biaya fotografer adalah item yang paling sering ditawar seenaknya. Tanyakan dulu sebelum masuk: per session (satu kelompok) atau per person? Harga wajar 150.000–200.000 IDR/30 menit. Semua biaya di lapangan hanya cash, nggak bisa kartu.
 
-👉 [Gimana cara hitung biaya sewa mobil? Biaya tur sehari penuh](/blog/bali-private-car-hire-guide/)
+👉 [Gimana cara hitung biaya sewa mobil? Biaya tur sehari penuh](/id/blog/bali-private-car-hire-guide/)
 
 ![Rincian Biaya (Harga Asli di Lapangan 2026)](https://images.gobaligo.id/images/2026-05/1779103736991-lempuyang-temple-opening-hours.jpg)
 
@@ -171,14 +171,14 @@ Ketinggian 600m bikin suhu lebih sejuk 4–6°C dibanding Kuta atau pusat Ubud. 
 
 Dari Ubud lanjut ke timur, dalam sehari bisa atur 2–3 tempat:
 
-- [**Tirta Gangga Water Palace**](/blog/bali-tirta-gangga-empul/)——taman air tercantik di Indonesia, sekitar 30 menit dari Gapura Langit
+- [**Tirta Gangga Water Palace**](/id/blog/bali-tirta-gangga-empul/)——taman air tercantik di Indonesia, sekitar 30 menit dari Gapura Langit
 - [**Taman Ujung Water Palace**](../blog/bali-east-tour-guide)——situs istana air kerajaan, sekitar 40 menit dari Gapura Langit
-- [**Snorkeling di Amed**](/blog/amed-tulamben-diving-guide/)——terumbu karang di pesisir timur, sekitar 1 jam dari Gapura Langit
+- [**Snorkeling di Amed**](/id/blog/amed-tulamben-diving-guide/)——terumbu karang di pesisir timur, sekitar 1 jam dari Gapura Langit
 - **Pura Besakih**——pura terbesar di Bali, sekitar 1,5 jam dari Gapura Langit
 
 Jangan serakah masukin 4 tempat——perjalanan plus antrean aja udah bikin enggak kuat. Maksimal 3 tempat sehari.
 
-👉 [Paket tur sehari Gapura Langit Bali Timur di Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DLempuyang%2520Temple) | [Biaya sewa mobil & rekomendasi sopir](/blog/bali-private-car-hire-guide/)
+👉 [Paket tur sehari Gapura Langit Bali Timur di Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DLempuyang%2520Temple) | [Biaya sewa mobil & rekomendasi sopir](/id/blog/bali-private-car-hire-guide/)
 
 **Opsi 2: Tur gabungan Klook**
 
@@ -188,7 +188,7 @@ Cocok buat traveler solo yang males ngurus sewa mobil. Kebanyakan paket udah inc
 
 Beberapa kilometer terakhir dari Amlapura ke atas tanjakannya curam banget. Yang belum familiar dengan jalan pegunungan Bali gampang meremehkan; kalau hujan, risiko licin tinggi. **Buat tamu yang nginep di Amed, naik motor masuk akal banget; dari Kuta atau Seminyak nggak disarankan.**
 
-👉 [Panduan lengkap biaya sewa mobil & itinerary](/blog/bali-private-car-hire-guide/) | [Panduan lengkap tempat wisata Bali Timur](/blog/bali-east-tour-guide/)
+👉 [Panduan lengkap biaya sewa mobil & itinerary](/id/blog/bali-private-car-hire-guide/) | [Panduan lengkap tempat wisata Bali Timur](/id/blog/bali-east-tour-guide/)
 
 ## Aturan berpakaian, larangan, & info di lokasi
 
@@ -288,7 +288,7 @@ Di musim hujan atau hari berawan, kemungkinan Gunung Agung tertutup awan cukup b
 
 **Siapa yang sebaiknya nggak datang:**
 
-- Yang cuma ikut-ikutan foto tapi nggak peduli hasilnya → mending ke [Taman Air Tirta Gangga](/blog/bali-tirta-gangga-empul/) lebih worth it
+- Yang cuma ikut-ikutan foto tapi nggak peduli hasilnya → mending ke [Taman Air Tirta Gangga](/id/blog/bali-tirta-gangga-empul/) lebih worth it
 - Yang langsung bete kalau antre lebih dari 30 menit → pilih musim sepi atau skip aja tempat ini
 - Yang nggak tertarik sama budaya religius, cuma mau foto terus pergi → [tur sehari Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DLempuyang%2520Temple) punya jadwal yang lebih cocok buat kamu
 
@@ -331,7 +331,7 @@ Perjalanan mobil sekitar 1,5–2 jam, tergantung lalu lintas dan jam berangkat. 
 
 **Q6: Dari Kuta ke sana berapa lama?**
 
-Perjalanan mobil sekitar 2,5–3 jam, pulang-pergi minimal 5–6 jam di jalan. Dari Kuta, mending pakai [paket sewa mobil harian](/blog/bali-private-car-hire-guide/) biar sekalian mampir ke Tirta Gangga, Amed, atau Taman Ujung di hari yang sama — bikin perjalanan jauh jadi worth it.
+Perjalanan mobil sekitar 2,5–3 jam, pulang-pergi minimal 5–6 jam di jalan. Dari Kuta, mending pakai [paket sewa mobil harian](/id/blog/bali-private-car-hire-guide/) biar sekalian mampir ke Tirta Gangga, Amed, atau Taman Ujung di hari yang sama — bikin perjalanan jauh jadi worth it.
 
 **Q7: Cocok bawa orang tua?**
 
@@ -347,7 +347,7 @@ Boleh. Masalah utama musim hujan (November–Maret) adalah Gunung Agung sering k
 
 **Q10: Satu hari bisa mampir ke tempat lain juga?**
 
-Pintu Surga (Lempuyang Temple) ada di timur Bali, dalam satu hari bisa atur (pilih 2–3 aja, jangan semua): [Tirta Gangga Water Palace](/blog/bali-tirta-gangga-empul/), [Taman Ujung Water Palace](https://youtu.be/zePMt3KSwTo), [Snorkeling di Amed](/blog/amed-tulamben-diving-guide/), Pura Besakih (butuh tambahan 1 jam perjalanan). Rencana perjalanan timur lengkap lihat di [Panduan One Day Tour Bali Timur](/blog/bali-east-tour-guide/).
+Pintu Surga (Lempuyang Temple) ada di timur Bali, dalam satu hari bisa atur (pilih 2–3 aja, jangan semua): [Tirta Gangga Water Palace](/id/blog/bali-tirta-gangga-empul/), [Taman Ujung Water Palace](https://youtu.be/zePMt3KSwTo), [Snorkeling di Amed](/id/blog/amed-tulamben-diving-guide/), Pura Besakih (butuh tambahan 1 jam perjalanan). Rencana perjalanan timur lengkap lihat di [Panduan One Day Tour Bali Timur](/id/blog/bali-east-tour-guide/).
 
 ## Udah siap berangkat?
 
@@ -357,15 +357,15 @@ Pintu Surga (Lempuyang Temple) ada di timur Bali, dalam satu hari bisa atur (pil
 
 **Tanya harga sewa mobil + sopir:**
 
-Kalau kamu mau atur jadwal sendiri dan bebas ngatur waktu, bisa cek [sopir lokal yang direkomendasiin netizen](/blog/bali-private-car-drivers-guide/). Mereka udah hafal rute timur dan tahu jam berapa Gates of Heaven paling sepi.
+Kalau kamu mau atur jadwal sendiri dan bebas ngatur waktu, bisa cek [sopir lokal yang direkomendasiin netizen](/id/blog/bali-private-car-drivers-guide/). Mereka udah hafal rute timur dan tahu jam berapa Gates of Heaven paling sepi.
 
 **Lanjut rencanain itinerary Bali:**
 
 - 📍 [Peta Lengkap Tempat Wisata Bali](/map/) — Semua spot di timur, selatan, dan Ubud dalam satu tampilan
-- 🗺️ [Panduan Lengkap One Day Trip Bali Timur](/blog/bali-east-tour-guide/) — Rute Gates of Heaven + Tirta Gangga + Amed
-- 💱 [Panduan Tukar Uang di Bali Biar Nggak Kena Tipu](/blog/bali-currency-exchange-guide/) — Siapin cash dulu sebelum ke timur
-- 🚗 [Panduan Lengkap Sewa Mobil di Bali](/blog/bali-private-car-hire-guide/) — Biaya sopir dan rencana perjalanan beres semua
-- 🏝️ [Panduan Ultimate Liburan ke Bali](/blog/bali-ultimate-guide-2026/) — Wajib baca sebelum pemula berangkat
+- 🗺️ [Panduan Lengkap One Day Trip Bali Timur](/id/blog/bali-east-tour-guide/) — Rute Gates of Heaven + Tirta Gangga + Amed
+- 💱 [Panduan Tukar Uang di Bali Biar Nggak Kena Tipu](/id/blog/bali-currency-exchange-guide/) — Siapin cash dulu sebelum ke timur
+- 🚗 [Panduan Lengkap Sewa Mobil di Bali](/id/blog/bali-private-car-hire-guide/) — Biaya sopir dan rencana perjalanan beres semua
+- 🏝️ [Panduan Ultimate Liburan ke Bali](/id/blog/bali-ultimate-guide-2026/) — Wajib baca sebelum pemula berangkat
 
 <script type="application/ld+json">
 [

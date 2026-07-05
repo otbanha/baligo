@@ -163,7 +163,7 @@ Dengan pakai teknologi manajemen dan teknis yang canggih, proyek LRT Bali bisa m
 
 Secara keseluruhan, proyek LRT Bali adalah proyek infrastruktur yang punya potensi gede banget. Nggak cuma bakal memperbaiki kondisi lalu lintas di Bali dan ningkatin pengalaman wisata, tapi juga bakal dorong ekonomi lokal, ciptain lapangan kerja, dan berkontribusi buat pelestarian lingkungan. Seiring proyek ini berjalan, kita pasti nantikan perubahan positif yang bakal dibawa LRT Bali buat pulau ini.
 
-> Baca juga: [【Bali Transport Improvement Plan Part 2】Sea Highway Project Has Started Construction](/blog/bali-sea-highway-project/)
+> Baca juga: [【Bali Transport Improvement Plan Part 2】Sea Highway Project Has Started Construction](/id/blog/bali-sea-highway-project/)
 
 ## Pertanyaan yang Sering Diajukan
 

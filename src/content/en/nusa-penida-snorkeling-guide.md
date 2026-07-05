@@ -39,11 +39,11 @@ This is the third episode of our series on Nusa Penida, the magical island. We'l
 
 We have five episodes covering Nusa Penida, so let's dive deeper into this island paradise! Here are the portals to the other four episodes:
 
-1. [【Bali - Nusa Penida Complete Guide】Maps, Ferry, Accommodation, Transportation, Private Car, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
-2. [Nusa Penida Food and Blue Skies: Top 9 Choices on the Island](/blog/nusa-penida-best-restaurants/)
-3. [Nusa Penida Snorkeling Spots Guide: How to Join Snorkeling?](/blog/nusa-penida-snorkeling-guide/)
-4. [Nusa Penida Taxi, Gojek/Grab, Private Car, and Scooter Transport Guide](/blog/nusa-penida-transport-guide/)
-5. [Nusa Penida Accommodation Guide: 13 Highly Rated Stays from Luxury to Budget](/blog/nusa-penida-hotels-guide/)
+1. [【Bali - Nusa Penida Complete Guide】Maps, Ferry, Accommodation, Transportation, Private Car, Activities, Photography, Attractions](/en/blog/nusa-penida-guide/)
+2. [Nusa Penida Food and Blue Skies: Top 9 Choices on the Island](/en/blog/nusa-penida-best-restaurants/)
+3. [Nusa Penida Snorkeling Spots Guide: How to Join Snorkeling?](/en/blog/nusa-penida-snorkeling-guide/)
+4. [Nusa Penida Taxi, Gojek/Grab, Private Car, and Scooter Transport Guide](/en/blog/nusa-penida-transport-guide/)
+5. [Nusa Penida Accommodation Guide: 13 Highly Rated Stays from Luxury to Budget](/en/blog/nusa-penida-hotels-guide/)
 
 ![How to Join Snorkeling in Nusa Penida? A Complete Guide to D](https://images.gobaligo.id/vocus/vocus_0efc881cd070bd9b15b0d572fe80b427.jpg)
 
@@ -57,7 +57,7 @@ For quicker access to great snorkeling or diving spots, we recommend taking a ca
 
 Curious about what to see and do in Sanur? Check out Jay's "[Sanur Guide](https://www.youtube.com/watch?v=laRb_l8BdLM)" for more details.
 
-Wondering about land attractions on Nusa Penida, how to get there by boat, and where to store your luggage? [Take a look here](/blog/nusa-penida-guide/). In this post, we’ll introduce you to the top four dive sites around Nusa Penida, complete with our own video footage to give you a closer look at this breathtaking, stunning underwater world!
+Wondering about land attractions on Nusa Penida, how to get there by boat, and where to store your luggage? [Take a look here](/en/blog/nusa-penida-guide/). In this post, we’ll introduce you to the top four dive sites around Nusa Penida, complete with our own video footage to give you a closer look at this breathtaking, stunning underwater world!
 
 ## Crystal Bay
 

@@ -97,7 +97,7 @@ Since its opening in 2021, Adiwana Suweta has quickly become **a favorite among 
 
 > ▶[**Agoda Special Offer**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22016379)
 
-Explore more Ubud hotel recommendations: [Unique Ubud Stays: Experience the Magic of Bali’s Mountainous Beauty!](/blog/ubud-villas-pool-guide/)
+Explore more Ubud hotel recommendations: [Unique Ubud Stays: Experience the Magic of Bali’s Mountainous Beauty!](/en/blog/ubud-villas-pool-guide/)
 
 ## **Padma Resort Ubud - A Dream Paradise for Family Vacations**
 
@@ -209,12 +209,12 @@ From Bali's Denpasar Airport (DPS), it takes approximately **90 minutes by car**
 
 Adiwana Suweta is more suitable for honeymoon trips, offering private villas and a romantic atmosphere.
 
-> Further reading: [For honeymooners/newlyweds/couples: 2025 latest Bali honeymoon travel romantic accommodation recommendations](/blog/bali-honeymoon-resorts-guide/)
+> Further reading: [For honeymooners/newlyweds/couples: 2025 latest Bali honeymoon travel romantic accommodation recommendations](/en/blog/bali-honeymoon-resorts-guide/)
 
 ## More Ubud Dining and Entertainment Recommendations
 
 ![More Ubud Dining and Entertainment Recommendations](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
-Ubud, the cultural and artistic heart of Bali, attracts countless visitors with its lush rice terraces, serene jungles, and rich traditional culture. Home to magnificent temples, charming art markets, and abundant yoga and meditation retreats, Ubud is the perfect place to relax and rejuvenate. Whether you're exploring local traditions, enjoying natural beauty, or engaging in exciting outdoor activities, Ubud offers a unique blend of culinary delights and scenic views that will leave you deeply moved! Want to learn more about Ubud? [Click here](/blog/ubud-guide/).
+Ubud, the cultural and artistic heart of Bali, attracts countless visitors with its lush rice terraces, serene jungles, and rich traditional culture. Home to magnificent temples, charming art markets, and abundant yoga and meditation retreats, Ubud is the perfect place to relax and rejuvenate. Whether you're exploring local traditions, enjoying natural beauty, or engaging in exciting outdoor activities, Ubud offers a unique blend of culinary delights and scenic views that will leave you deeply moved! Want to learn more about Ubud? [Click here](/en/blog/ubud-guide/).
 
 {{block:住宿}}

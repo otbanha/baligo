@@ -49,7 +49,7 @@ T Island is renowned for its romantic sunsets and vibrant party atmosphere, maki
 - **Local Transportation**: Cars are banned on the island, with bicycles and horse-drawn carriages being the primary modes of transport, promoting eco-friendly and sustainable tourism.
 - **Recommended Spots**: T Island boasts many exquisite restaurants and cafes, perfect for a culinary adventure.
 
-> Further Reading: [Island Hopping Guide: How to Get from Bali to Nusa Penida, Nusa Lembongan, Gili Islands, and Lombok? Where to Buy Speedboat Tickets?](/blog/bali-island-hopping-guide/)
+> Further Reading: [Island Hopping Guide: How to Get from Bali to Nusa Penida, Nusa Lembongan, Gili Islands, and Lombok? Where to Buy Speedboat Tickets?](/en/blog/bali-island-hopping-guide/)
 
 ### This Video Provides a Detailed Introduction to T Island (Mushroom Island) in the ATM Islands
 

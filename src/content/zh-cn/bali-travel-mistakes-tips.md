@@ -35,7 +35,7 @@ _srcHash: 3dbefdccdb5e5c686043147367d198a1
 
 尽量减少频繁更换住宿地点，避免因为一直在打包、移动而浪费时间，让自己疲于奔命。
 
-反之，如果你不怕打包行李、换住宿，又想要快速导览巴厘岛精华，可以看看我们的「[爽玩巴厘岛：交通、住宿、景点、美食、购物、SPA、夜生活，全方位规划](/blog/bali-free-travel-guide/)」
+反之，如果你不怕打包行李、换住宿，又想要快速导览巴厘岛精华，可以看看我们的「[爽玩巴厘岛：交通、住宿、景点、美食、购物、SPA、夜生活，全方位规划](/zh-cn/blog/bali-free-travel-guide/)」
 
 ### 2. 只拜访「Instagram热门景点」
 
@@ -47,7 +47,7 @@ _srcHash: 3dbefdccdb5e5c686043147367d198a1
 
 除了拜访这些热门景点，建议探索一些隐藏的私房景点。例如可以参考：
 
-「[2026巴厘岛必去景点攻略，500个最新人气景点一次搜全](/blog/bali-top-500-attractions/)」
+「[2026巴厘岛必去景点攻略，500个最新人气景点一次搜全](/zh-cn/blog/bali-top-500-attractions/)」
 
 平衡你的行程，既能拍出网红美照，又能享受真正宁静的旅行体验。
 
@@ -59,9 +59,9 @@ _srcHash: 3dbefdccdb5e5c686043147367d198a1
 
 延伸阅读：
 
-> [【佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)
+> [【佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/zh-cn/blog/nusa-penida-guide/)
 
-> [巴厘岛跳岛到佩尼达岛/蓝梦岛/吉利群岛/龙目岛? 快艇船票如何买?哪里买?](/blog/bali-island-hopping-guide/)
+> [巴厘岛跳岛到佩尼达岛/蓝梦岛/吉利群岛/龙目岛? 快艇船票如何买?哪里买?](/zh-cn/blog/bali-island-hopping-guide/)
 
 ### 4. 只待在南部地区
 
@@ -71,7 +71,7 @@ _srcHash: 3dbefdccdb5e5c686043147367d198a1
 
 - 乌布 (Ubud)：巴厘岛的文化与艺术中心，适合静心体验当地文化。
 - 艾湄 (Amed)：潜水与浮潜的天堂，水下世界美不胜收。
-- **巴厘岛北部**：远离观光客的北部地区，这里有迷人的海滩与珊瑚礁。请看[巴厘岛北部旅游攻略](/blog/north-bali-travel-guide/)
+- **巴厘岛北部**：远离观光客的北部地区，这里有迷人的海滩与珊瑚礁。请看[巴厘岛北部旅游攻略](/zh-cn/blog/north-bali-travel-guide/)
 
 {{block:攻略}}
 
@@ -83,12 +83,12 @@ _srcHash: 3dbefdccdb5e5c686043147367d198a1
 
 根据你的需求，选择以下替代住宿区域：
 
-- [**水明漾 (Seminyak)**](/blog/seminyak-guide/)：拥有许多时尚的精品酒店与高级餐厅，适合追求精致度假的游客。
-- [**坎古 (Canggu)**](/blog/canggu-guide/)：以冲浪天堂著称，拥有悠闲的氛围与迷人的咖啡馆，非常适合年轻族群。
-- [**沙努尔 (Sanur)**](/blog/sanur-guide/)：相比库塔更加宁静，适合家庭亲子与想要远离喧嚣的旅客。
-- [**努沙杜瓦 (Nusa Dua)**](/blog/nusa-dua-guide/)：如果你喜欢五星级度假村与私人海滩，这里是完美选择。
+- [**水明漾 (Seminyak)**](/zh-cn/blog/seminyak-guide/)：拥有许多时尚的精品酒店与高级餐厅，适合追求精致度假的游客。
+- [**坎古 (Canggu)**](/zh-cn/blog/canggu-guide/)：以冲浪天堂著称，拥有悠闲的氛围与迷人的咖啡馆，非常适合年轻族群。
+- [**沙努尔 (Sanur)**](/zh-cn/blog/sanur-guide/)：相比库塔更加宁静，适合家庭亲子与想要远离喧嚣的旅客。
+- [**努沙杜瓦 (Nusa Dua)**](/zh-cn/blog/nusa-dua-guide/)：如果你喜欢五星级度假村与私人海滩，这里是完美选择。
 
-延伸阅读：[去巴厘岛住这里最方便，却最不推荐！巴厘岛库塔区有什么优缺点？](/blog/kuta-bali-accommodation-pros-cons/)
+延伸阅读：[去巴厘岛住这里最方便，却最不推荐！巴厘岛库塔区有什么优缺点？](/zh-cn/blog/kuta-bali-accommodation-pros-cons/)
 
 对了！我们介绍了300家不踩雷的「[**巴厘岛住宿推荐**](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)」一定要看喔！
 
@@ -122,7 +122,7 @@ https://youtube.com/shorts/9uSjE2FVGQs
 - **使用电子支付**：在可能的情况下，使用如Gojek等电子钱包支付，减少使用实体卡的次数。
   **快速参考：**
 
-> [印尼/巴厘岛的Gojek与GoPay注册、使用、储值教学全面指南](/blog/indonesia-gojek-gopay-guide/)
+> [印尼/巴厘岛的Gojek与GoPay注册、使用、储值教学全面指南](/zh-cn/blog/indonesia-gojek-gopay-guide/)
 
 ### 8. 防蚊措施
 
@@ -150,7 +150,7 @@ https://youtube.com/shorts/bqtCP1YoKCM
 - **随身携带雨衣**：携带轻便的雨衣比雨伞更实用，因为暴雨来得急且伴随大风。
 - **安排上午活动**：早上的天气通常较为稳定，建议将户外活动安排在上午进行，以避开午后突如其来的阵雨。
 
-快速参考：[下雨躲太阳必看！60 个超强室内行程：从新开幕购物中心、五星级下午茶到顶级手作体验](/blog/2026-bali-indoor-activities/)
+快速参考：[下雨躲太阳必看！60 个超强室内行程：从新开幕购物中心、五星级下午茶到顶级手作体验](/zh-cn/blog/2026-bali-indoor-activities/)
 
 ### 10. 猴子安全守则
 
@@ -178,7 +178,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 - **寺庙穿着规范**：进入寺庙时，务必着装得体，并佩戴沙龙（寺庙通常会免费提供租借服务）。
 - **避免踩踏供品**：在巴厘岛的街道上，经常会看到小篮子状的供品，这些是当地人每日供奉的祭品，务必避免踩踏。
 
-延伸阅读：[认识巴厘岛的祭拜习俗：Canang Sari](/blog/bali-canang-sari-explained/)
+延伸阅读：[认识巴厘岛的祭拜习俗：Canang Sari](/zh-cn/blog/bali-canang-sari-explained/)
 
 - **禁忌行为**：不要触碰别人的头部，这在当地文化中被视为不敬。此外，用左手递物也被认为是不礼貌的行为。
 - **进屋脱鞋**：进入当地人的家中或某些商店时，应该先脱鞋，以表示尊重。
@@ -211,7 +211,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 https://youtu.be/KPGb6MmwfZw
 
-- **抵达后再兑换**：请参考「[巴厘岛换汇懒人包](/blog/bali-currency-exchange-guide/)」，告诉你如何换？去哪里换？
+- **抵达后再兑换**：请参考「[巴厘岛换汇懒人包](/zh-cn/blog/bali-currency-exchange-guide/)」，告诉你如何换？去哪里换？
 - **避免携带大量现金**：携带过多现金容易增加风险，使用debit金融卡或电子支付更为安全。
 
 ### 14. 议价技巧
@@ -257,7 +257,7 @@ https://youtu.be/lIV-T2jYhVk
 - **叫车时主动要求备用安全帽**：使用Gojek或Grab等叫车服务时，若是叫摩托车，务必要求司机你要安全帽。
 - **遵守交通规则**：巴厘岛的道路状况与交通规则可能与你的家乡不同，保持谨慎驾驶，并注意遵守当地的交通法规。
 
-> 延伸阅读：[短途出行必备！叫车App叫摩托车，省时省力！](/blog/bali-travel-app-motorcycle-taxi/)
+> 延伸阅读：[短途出行必备！叫车App叫摩托车，省时省力！](/zh-cn/blog/bali-travel-app-motorcycle-taxi/)
 
 ### 18. 忽略当地食品安全
 
@@ -283,4 +283,4 @@ https://youtu.be/GivvqCXp11A
 
 👈 **回到巴厘岛自由行终极指南**
 
-想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/zh-cn/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

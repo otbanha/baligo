@@ -68,7 +68,7 @@ Meskipun Bali sebagian besar waktu panas, aku tetap saranin bawa jaket tipis ata
 Apalagi kalau aktivitasnya seperti naik gunung api atau lihat sunrise, biasanya kumpul jam 2-3 pagi, suhunya beda banget sama siang hari.
 Awalnya aku pikir 'bawa jaket ke pulau tropis lebay banget sih', tapi ternyata bersyukur banget udah bawa.
 
-> [Bawa Jaket ke Bali? Panduan Packing: 8 Pakaian Wajib Dibawa](https://gobaligo.id/blog/bali-packing-essentials/)
+> [Bawa Jaket ke Bali? Panduan Packing: 8 Pakaian Wajib Dibawa](https://gobaligo.id/id/blog/bali-packing-essentials/)
 
 ***
 
@@ -103,7 +103,7 @@ Kalau ikut tur, biasanya bus juga selalu sediain air mineral — jadi sebenarnya
 Aku inget di pesawat ada ibu dan anak yang beli belasan botol air mineral di bandara, takut banget sama air lokal. 
 Eh, beberapa hari kemudian mereka malah bawa-bawa botol itu ke mana-mana, hampir nggak kepake sama sekali 😂
 
-> [Bali Belly: Diare/Gastroenteritis/Mabuk Air di Bali — Cara Menolong Diri Sendiri? Panduan Obat Pereda Bali Belly](https://gobaligo.id/blog/bali-belly-medicine-guide/)
+> [Bali Belly: Diare/Gastroenteritis/Mabuk Air di Bali — Cara Menolong Diri Sendiri? Panduan Obat Pereda Bali Belly](https://gobaligo.id/id/blog/bali-belly-medicine-guide/)
 
 ***
 
@@ -121,7 +121,7 @@ Soalnya:
 
 Nggak perlu banyak-banyak, tapi punya sedikit di saku bikin lebih tenang.
 
-> [《Panduan Lengkap Penukaran Uang & Manajemen Keuangan di Bali》Pake uang apa di Indonesia/Bali? Cara tukar paling untung? Di mana tempat tukar terbaik? Rekomendasi penukaran](https://gobaligo.id/blog/bali-currency-exchange-guide/)
+> [《Panduan Lengkap Penukaran Uang & Manajemen Keuangan di Bali》Pake uang apa di Indonesia/Bali? Cara tukar paling untung? Di mana tempat tukar terbaik? Rekomendasi penukaran](https://gobaligo.id/id/blog/bali-currency-exchange-guide/)
 
 ***
 
@@ -199,7 +199,7 @@ Yang umum diterima:
 
 Jadi mending siapin cash aja.
 
-> [Biaya Liburan ke Bali? Berapa Cash yang Harus Disiapkan?](https://gobaligo.id/blog/bali-travel-cash-budget-guide/)
+> [Biaya Liburan ke Bali? Berapa Cash yang Harus Disiapkan?](https://gobaligo.id/id/blog/bali-travel-cash-budget-guide/)
 
 ***
 
@@ -225,7 +225,7 @@ Tentu nggak semua tempat kayak gitu, tapi cara aku:
 
 Lebih hati-hati selalu lebih tenang.
 
-> [【Kartu Kredit Fraud/Biaya/Tambah %】Aman nggak sih swipe di Bali?](https://gobaligo.id/blog/bali-credit-card-safety-tips/)
+> [【Kartu Kredit Fraud/Biaya/Tambah %】Aman nggak sih swipe di Bali?](https://gobaligo.id/id/blog/bali-credit-card-safety-tips/)
 
 # Kelebihan & Kekurangan Liburan ke Bali 🌴
 
@@ -266,7 +266,7 @@ Apalagi banyak Villa di Bali yang beneran punya nuansa liburan banget. Malam-mal
 
 ![1｜Value for Money Akomodasi Beneran Tinggi](https://images.gobaligo.id/images/2026-05/1780114466879-709266529_27672523185741878_3244504790469808433_n.jpg)
 
-Kali ini kami nginep di satu butik hotel kecil yang keren banget. Detail lengkap: [Dune Seseh Apartemen Estetika Terbaru di Dekat Canggu, Minimalis & Rustic](https://gobaligo.id/blog/dune-seseh/)
+Kali ini kami nginep di satu butik hotel kecil yang keren banget. Detail lengkap: [Dune Seseh Apartemen Estetika Terbaru di Dekat Canggu, Minimalis & Rustic](https://gobaligo.id/id/blog/dune-seseh/)
 
 #### 📌 Info Booking
 
@@ -301,9 +301,9 @@ Semuanya sangat ikonik.
 
 Apalagi Pura Tirta Empul yang dibangun sejak abad ke-10, aura sejarah dan religiusnya bikin siapa pun terkesan banget.
 
-- [【Pura Tirta Empul Bali】Panduan Lengkap Tirta Empul: Prosesi Penyucian Air Suci, Larangan & Hal yang Wajib Dilihat](https://gobaligo.id/blog/tirta-empul-temple-guide/)
-- [Destinasi Wajib Kunjung di Bali: Panduan Lengkap Pura Tanah Lot, Pasang Surut & Tempat Sekitar](https://gobaligo.id/blog/bali-tanah-lot-guide/)
-- [Panduan Wisata Pura Uluwatu / Tebing Cinta Bali: Spot Terbaik & Tips Praktis](https://gobaligo.id/blog/uluwatu-temple-travel-guide/)
+- [【Pura Tirta Empul Bali】Panduan Lengkap Tirta Empul: Prosesi Penyucian Air Suci, Larangan & Hal yang Wajib Dilihat](https://gobaligo.id/id/blog/tirta-empul-temple-guide/)
+- [Destinasi Wajib Kunjung di Bali: Panduan Lengkap Pura Tanah Lot, Pasang Surut & Tempat Sekitar](https://gobaligo.id/id/blog/bali-tanah-lot-guide/)
+- [Panduan Wisata Pura Uluwatu / Tebing Cinta Bali: Spot Terbaik & Tips Praktis](https://gobaligo.id/id/blog/uluwatu-temple-travel-guide/)
 
 ***
 
@@ -337,7 +337,7 @@ Jadi itinerary-nya bisa fleksibel banget.
 
 Hari ini mungkin masih santai di Beach Club, besoknya udah lari-larian ke air terjun, naik gunung, main ATV — ritme perjalanannya variatif, nggak gampang bosen.
 
-> [2026 Peta Rekomendasi Tempat Wisata Bali ｜500+ Spot Hits Terbaru di Bali Sekaligus](https://gobaligo.id/blog/bali-top-500-attractions/)
+> [2026 Peta Rekomendasi Tempat Wisata Bali ｜500+ Spot Hits Terbaru di Bali Sekaligus](https://gobaligo.id/id/blog/bali-top-500-attractions/)
 
 {{block:戶外}}
 
@@ -454,7 +454,7 @@ Meskipun tetap ada yang nyapa, biasanya mereka nggak maksa banget buat beli.
 
 Jalan-jalannya jadi santai, suasananya cukup nyaman buat wisata.
 
-> [Rekomendasi 5 Pasar Seni & Panduan Lengkap Art Market di Ubud: Cari Oleh-Oleh, Temukan Harta Karun Budaya Bali](https://gobaligo.id/blog/ubud-art-markets-guide/)
+> [Rekomendasi 5 Pasar Seni & Panduan Lengkap Art Market di Ubud: Cari Oleh-Oleh, Temukan Harta Karun Budaya Bali](https://gobaligo.id/id/blog/ubud-art-markets-guide/)
 
 ***
 
@@ -478,7 +478,7 @@ Banyak banget tempat yang unik-unik:
 
 Dari bar kecil yang santai sampai pesta besar semua ada.
 
-> [5 Rekomendasi Klub Malam di Seminyak, Bali: Nightlife yang Bikin Kamu Bergoyang!](https://gobaligo.id/blog/seminyak-nightclubs-guide/)
+> [5 Rekomendasi Klub Malam di Seminyak, Bali: Nightlife yang Bikin Kamu Bergoyang!](https://gobaligo.id/id/blog/seminyak-nightclubs-guide/)
 
 ***
 
@@ -497,7 +497,7 @@ Beli air, camilan, kebutuhan sehari-hari jadi gampang.
 
 Kadang kalau tengah malam mau beli sesuatu juga nggak perlu khawatir.
 
-> [【2026 Panduan Lengkap Supermarket Bali】30+ Peta Supermarket Besar: Grand Lucky, Pepito, Bintang Lengkap & Daftar Belanja Wajib Lokal](https://gobaligo.id/blog/bali-supermarket-guide-map/)
+> [【2026 Panduan Lengkap Supermarket Bali】30+ Peta Supermarket Besar: Grand Lucky, Pepito, Bintang Lengkap & Daftar Belanja Wajib Lokal](https://gobaligo.id/id/blog/bali-supermarket-guide-map/)
 
 ***
 
@@ -509,7 +509,7 @@ Enggak kayak musim panas di Taiwan yang gerah banget, malem-malem kadang masih a
 
 Buat yang gampang kepanasan, liburan sekolah ke Bali ternyata lumayan nyaman.
 
-[【寒暑假峇里島】帶小孩親子長輩攻略：四大區域推薦、乾季天氣與住宿推薦](https://gobaligo.id/blog/family/)
+[【寒暑假峇里島】帶小孩親子長輩攻略：四大區域推薦、乾季天氣與住宿推薦](https://gobaligo.id/id/blog/family/)
 
 ***
 
@@ -535,7 +535,7 @@ Dan banyak tempat yang suasananya lumayan enak.
 
 Abis main seharian terus balik pijat, beneran jadi rutinitas harian 😂
 
-> [【Edisi Spesial】Rekomendasi SPA Terbaik di Bali, Pijat ke Villa Lengkap — Dibagi per Area Biar Gampang Cari](https://gobaligo.id/blog/spa/)
+> [【Edisi Spesial】Rekomendasi SPA Terbaik di Bali, Pijat ke Villa Lengkap — Dibagi per Area Biar Gampang Cari](https://gobaligo.id/id/blog/spa/)
 
 ***
 
@@ -566,7 +566,7 @@ Tapi banyak Beach Club populer yang punya sistem minimum spend, jadi mending cek
 
 Kalau ramai-ramai patungan minimum spend, malah lebih murah banget.
 
-> [【2026 Wajib Coba di Bali】Jangan cuma ke kafe! Yang jago main pasti ikut 'Beach Club Jumping' keliling pulau](https://gobaligo.id/blog/2026-bali-beach-club-guide/)
+> [【2026 Wajib Coba di Bali】Jangan cuma ke kafe! Yang jago main pasti ikut 'Beach Club Jumping' keliling pulau](https://gobaligo.id/id/blog/2026-bali-beach-club-guide/)
 
 ***
 
@@ -587,7 +587,7 @@ Begitu kamu pegang polanya, bakal cepat terbiasa kok.
 
 Dan sekarang banyak toko yang udah terima kartu, kecuali di pasar tradisional atau pedagang kaki lima, sebagian besar transaksi udah cukup praktis.
 
-> [Panduan Budget Liburan ke Bali: Pahami Arti 'K' di Harga Biar Anggaranmu Terkendali](https://gobaligo.id/blog/bali-budget-tips-k-explained/)
+> [Panduan Budget Liburan ke Bali: Pahami Arti 'K' di Harga Biar Anggaranmu Terkendali](https://gobaligo.id/id/blog/bali-budget-tips-k-explained/)
 
 # Kekurangan & Hal yang Perlu Diperhatikan Saat Liburan ke Bali｜Mending Tahu Dulu Sebelum Berangkat 😅
 
@@ -627,7 +627,7 @@ Soalnya kalau nggak, bisa-bisa seharian cuma di jalan doang.
 
 [https://youtu.be/ByGkcmys01g](https://youtu.be/ByGkcmys01g)
 
-> [【Mau Liburan Tanpa Macet?】Panduan Lengkap Liburan Seru di Bali: Transportasi, Akomodasi, Tempat Wisata, Kuliner, Belanja, SPA, Nightlife, Semua Terencana](https://gobaligo.id/blog/bali-free-travel-guide/)
+> [【Mau Liburan Tanpa Macet?】Panduan Lengkap Liburan Seru di Bali: Transportasi, Akomodasi, Tempat Wisata, Kuliner, Belanja, SPA, Nightlife, Semua Terencana](https://gobaligo.id/id/blog/bali-free-travel-guide/)
 
 ***
 
@@ -667,7 +667,7 @@ Meskipun kedengarannya agak repot, sebenarnya setelah beberapa hari kamu bakal t
 
 Lagipula, hotel dan villa biasanya sudah menyediakan air minum kemasan, jadi sebenarnya nggak sesulit yang dibayangkan.
 
-> [Tips Kesehatan Travel Bali: Panduan Air Minum di Bali & Bali Belly (Diare/Gastroenteritis)](https://gobaligo.id/blog/bali-travel-health-tips/)
+> [Tips Kesehatan Travel Bali: Panduan Air Minum di Bali & Bali Belly (Diare/Gastroenteritis)](https://gobaligo.id/id/blog/bali-travel-health-tips/)
 
 ***
 
@@ -690,7 +690,7 @@ Apalagi kalau beli bareng temen atau ambil banyak sekaligus, biasanya lebih gamp
 
 Tentu nggak semua toko suka buka harga sembarangan, tapi pas belanja di pasar, tetap harus siap mental ya.
 
-> [Tips Belanja & Nego di Bali? Panduan Belanja](https://gobaligo.id/blog/bali-shopping-bargaining-tips/)
+> [Tips Belanja & Nego di Bali? Panduan Belanja](https://gobaligo.id/id/blog/bali-shopping-bargaining-tips/)
 
 ***
 
@@ -712,7 +712,7 @@ Apalagi review terbaru biasanya paling akurat.
 
 Kalau harganya murah banget tapi review-nya jelek, sih, aku pribadi nggak berani ambil risiko.
 
-> [【Ringkasan】Kumpulan Rekomendasi SPA & Pijat ke Villa di Bali — Dibagi per Area Biar Gampang Cari](https://gobaligo.id/blog/spa/)
+> [【Ringkasan】Kumpulan Rekomendasi SPA & Pijat ke Villa di Bali — Dibagi per Area Biar Gampang Cari](https://gobaligo.id/id/blog/spa/)
 
 ***
 

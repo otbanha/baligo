@@ -47,7 +47,7 @@ _srcHash: a6c3912a0a2c581695ff284bc100d4c0
 
 - 鎖定**​**一兩間 Beach Club 坐低，同來自世界各地嘅數碼遊牧民族一齊慶祝勞動節（👙峇里島熱門海灘/度假村通票 ▶[Klook優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=931561&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-resort-passes%2Fc8-cate161%2F)）。
 - 烏布泛舟、ATV（🚣峇里島泛舟活動 ▶[Klook優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%25E6%25B3%259B%25E8%2588%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D8c8ac92422) / 🏎️峇里島ATV活動 ▶[Klook優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%2520ATV%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D28594dcbf2)）
-- 50種適合你嘅戶外活動清單喺[呢度](/blog/bali-top-50-outdoor-activities/)
+- 50種適合你嘅戶外活動清單喺[呢度](/zh-hk/blog/bali-top-50-outdoor-activities/)
 
 {{block:klook}}
 
@@ -72,7 +72,7 @@ _srcHash: a6c3912a0a2c581695ff284bc100d4c0
 
 ![推薦行程](https://images.gobaligo.id/vocus/vocus_4b32bc60b0a1fe9787825097f68cb2e8.jpg)
 
-- 六月係超適合玩水上活動嘅時候！呢個時候我哋嘅攻略就大派用場喇：[峇里島水上活動完整指南｜峇里島唔止浮潛！15種意想不到嘅水上玩法](/blog/2026-bali-water-activities/)
+- 六月係超適合玩水上活動嘅時候！呢個時候我哋嘅攻略就大派用場喇：[峇里島水上活動完整指南｜峇里島唔止浮潛！15種意想不到嘅水上玩法](/zh-hk/blog/2026-bali-water-activities/)
 
 {{block:戶外}}
 
@@ -80,7 +80,7 @@ _srcHash: a6c3912a0a2c581695ff284bc100d4c0
 
 ### 💡 小資旅行碎碎念
 
-- **簽證提醒**：出發前記得先上網辦好 **峇里島** 電子落地簽 (e-VoA) 同 15 萬印尼盾嘅觀光稅。（快速參考：[【2026版】印尼峇里島入境1分鐘搞掂最新流程：落機→過海關→拎行李全攻略](/blog/bali-all-indonesia-arrival-guide/)）
+- **簽證提醒**：出發前記得先上網辦好 **峇里島** 電子落地簽 (e-VoA) 同 15 萬印尼盾嘅觀光稅。（快速參考：[【2026版】印尼峇里島入境1分鐘搞掂最新流程：落機→過海關→拎行李全攻略](/zh-hk/blog/bali-all-indonesia-arrival-guide/)）
 - **包車司機唔好亂搵：**睇[網友推薦嘅名單](https://s.id/bali_best_drivers)就冇錯！
 - **短程交通建議**：連假期間熱門景點（如烏布、水明漾）好易塞車，短距離移動建議多啲利用 Gojek/Grab 叫電單車可以慳返唔少交通時間。
 

@@ -26,8 +26,8 @@ Bali, surga tropis yang memesona di Nusantara, akan menyambut setiap traveler ya
 
 ![Panduan Lengkap Libur Nasional Indonesia & Festival Bali 202](https://images.gobaligo.id/vocus/vocus_fc17bb84dfccbaa2faf4a7ac915d1349.png)
 
-- **Buat yang pengin menghindari lima musim ramai di Bali, cek:**[**Bali Ternyata Punya Lima Musim Ramai! Gimana Cara Pinter Menghindarinya?**](/blog/bali-peak-season-travel-tips/)
-- [Bulan Hujan Bali / Peluang Hujan / Hari Hujan / Suhu Rata-rata / Indeks Kesesuaian Wisata... Analisis Lengkap](/blog/bali-rainy-season-travel-guide/)
+- **Buat yang pengin menghindari lima musim ramai di Bali, cek:**[**Bali Ternyata Punya Lima Musim Ramai! Gimana Cara Pinter Menghindarinya?**](/id/blog/bali-peak-season-travel-tips/)
+- [Bulan Hujan Bali / Peluang Hujan / Hari Hujan / Suhu Rata-rata / Indeks Kesesuaian Wisata... Analisis Lengkap](/id/blog/bali-rainy-season-travel-guide/)
 
 Sebelum mulai bahas di bawah, perlu kamu tahu: festival di Indonesia dan Bali sebagian besar pakai kalender Islam/kalender Bali/kalender Imlek, jadi tanggalnya berubah tiap tahun, beda sama kalender Masehi yang tetap. Jadi tahun depan (atau setiap tahun) belum tentu tanggal yang sama berarti festival yang sama ya!
 
@@ -103,7 +103,7 @@ Klik tombol "Buka Daftar Isi" buat navigasi cepat
 - - **Tanggal:** 19–20 Maret 2026, Hari Libur Nasional Indonesia
     - **Deskripsi:** Tahun Baru Hindu Bali — seluruh pulau berhenti total selama 24 jam, mengikuti aturan 'Catur Brata Penyepian', termasuk bandara ditutup. Momen langka buat merasakan keheningan total di Bali!
 
-[2026 Bali Nyepi Day (Hari Raya Nyepi)｜Yang Perlu Kamu Tahu soal Pawai Ogoh-Ogoh](/blog/nyepi-day-bali-guide-2026/)
+[2026 Bali Nyepi Day (Hari Raya Nyepi)｜Yang Perlu Kamu Tahu soal Pawai Ogoh-Ogoh](/id/blog/nyepi-day-bali-guide-2026/)
 
 ### **Omed-Omedan, Sesetan Denpasar (Upacara Ciuman)**
 
@@ -280,7 +280,7 @@ Diprediksi mulai 13 Maret, Bali bakal kebanjiran wisatawan domestik dari berbaga
 ![Penglipuran Village Festival](https://images.gobaligo.id/vocus/vocus_d209e48a8c78b2a2d0f4cd43b2017d1e.jpg)
 
 - - **Tanggal:** 10–12 Juli 2026 (tanggal diperbarui)
-    - **Deskripsi:** Festival yang digelar di desa tradisional Penglipuran, menampilkan budaya, kerajinan tangan, kuliner lokal, dan proyek pariwisata. Festival tahunan di Desa Penglipuran ini bertujuan memperkenalkan budaya dan gaya hidup tradisional desa yang terkenal dengan arsitektur dan adat istiadatnya yang terjaga. Acara meliputi pertunjukan tari dan musik tradisional, pameran kerajinan, stan kuliner lokal, serta workshop budaya. Pengunjung bisa mendalami budaya unik Penglipuran dan merasakan keseharian warga setempat—cocok banget buat kamu yang ingin eksplorasi desa tradisional Bali. (Baca juga: [Menembus Waktu di Desa Penglipuran: Merasakan Pesona Bali Kuno](/blog/penglipuran-village-bali-experience/))
+    - **Deskripsi:** Festival yang digelar di desa tradisional Penglipuran, menampilkan budaya, kerajinan tangan, kuliner lokal, dan proyek pariwisata. Festival tahunan di Desa Penglipuran ini bertujuan memperkenalkan budaya dan gaya hidup tradisional desa yang terkenal dengan arsitektur dan adat istiadatnya yang terjaga. Acara meliputi pertunjukan tari dan musik tradisional, pameran kerajinan, stan kuliner lokal, serta workshop budaya. Pengunjung bisa mendalami budaya unik Penglipuran dan merasakan keseharian warga setempat—cocok banget buat kamu yang ingin eksplorasi desa tradisional Bali. (Baca juga: [Menembus Waktu di Desa Penglipuran: Merasakan Pesona Bali Kuno](/id/blog/penglipuran-village-bali-experience/))
 
 ### **Festival Bali Jani (Festival Seni Kontemporer Bali)**
 
@@ -396,14 +396,14 @@ Ubud Village Jazz Festival (UVJF) adalah salah satu acara jazz paling penting di
 
 ![Nyepi Laut](https://images.gobaligo.id/vocus/vocus_4a95e8af75a39af7fa9ae53d359af247.png)
 
-Nyepi Laut adalah 'Hari Hening Laut' di tiga pulau kecil Bali — Nusa Penida, Nusa Lembongan, dan Nusa Ceningan. Buat kamu yang mau bolak-balik ke sana, wajib catat: semua kapal feri libur total di hari itu. Jangan sampai kejebak, ya! Atur jadwal dengan baik. Penasaran apa itu Nyepi Laut dan apa aja yang perlu diperhatikan? Cek penjelasan lengkapnya [di sini](/blog/bali-ocean-peace-day/).
+Nyepi Laut adalah 'Hari Hening Laut' di tiga pulau kecil Bali — Nusa Penida, Nusa Lembongan, dan Nusa Ceningan. Buat kamu yang mau bolak-balik ke sana, wajib catat: semua kapal feri libur total di hari itu. Jangan sampai kejebak, ya! Atur jadwal dengan baik. Penasaran apa itu Nyepi Laut dan apa aja yang perlu diperhatikan? Cek penjelasan lengkapnya [di sini](/id/blog/bali-ocean-peace-day/).
 
 ### **Lembongan Surf and Music Festival**
 
 - - **Tanggal:** Belum pasti (biasanya September)
     - **Deskripsi:** Acara seru di Nusa Lembongan yang menggabungkan surfing dan panggung musik.
 
-[【Panduan Wisata Nusa Lembongan & Nusa Ceningan】Jelajahi Spot, Kuliner, dan Transportasi: Surga di Dekat Bali](/blog/nusa-lembongan-ceningan-guide/)
+[【Panduan Wisata Nusa Lembongan & Nusa Ceningan】Jelajahi Spot, Kuliner, dan Transportasi: Surga di Dekat Bali](/id/blog/nusa-lembongan-ceningan-guide/)
 
 ### **Buleleng Fashion Festival**
 
@@ -430,7 +430,7 @@ Nyepi Laut adalah 'Hari Hening Laut' di tiga pulau kecil Bali — Nusa Penida, N
 
 ![Nusa Penida Festival](https://images.gobaligo.id/vocus/vocus_18f01f8938ac90a9dbc22c83a1198a6a.jpg)
 
-[【Panduan Lengkap Nusa Penida Bali】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)
+[【Panduan Lengkap Nusa Penida Bali】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)
 
 ### **Klungkung Heritage Festival**
 
@@ -459,7 +459,7 @@ Nyepi Laut adalah 'Hari Hening Laut' di tiga pulau kecil Bali — Nusa Penida, N
 
 ![Tulamben Ocean Harmony Festival](https://images.gobaligo.id/vocus/vocus_c2ef082fb20b5470203d5c2269a6fa5d.jpg)
 
-[Surga Tersembunyi di Ujung Timur Bali: Panduan Lengkap Amed & Tulamben](/blog/amed-tulamben-diving-guide/)
+[Surga Tersembunyi di Ujung Timur Bali: Panduan Lengkap Amed & Tulamben](/id/blog/amed-tulamben-diving-guide/)
 
 ### **Bali Hockey Festival**
 
@@ -509,7 +509,7 @@ Nyepi Laut adalah 'Hari Hening Laut' di tiga pulau kecil Bali — Nusa Penida, N
 ![Sanur Village Festival (Festival Desa Sanur) Situs Resmi](https://images.gobaligo.id/vocus/vocus_edb9e9b9954eccd208e6c1001d793309.png)
 
 - - **Tanggal:** November 2026 (tanggal belum ditentukan)
-    - [Sanur Village Festival](https://sanurvillagefestival.com/) adalah acara tahunan (baca juga: Ada apa aja sih di Sanur? Cek [Panduan Sanur Map｜50+ Tempat Makan, Main, SPA, dan Rekomendasi Penginapan!](/blog/sanur-guide/)).
+    - [Sanur Village Festival](https://sanurvillagefestival.com/) adalah acara tahunan (baca juga: Ada apa aja sih di Sanur? Cek [Panduan Sanur Map｜50+ Tempat Makan, Main, SPA, dan Rekomendasi Penginapan!](/id/blog/sanur-guide/)).
     Acara ini merayakan seni, kuliner, budaya, fashion, yoga, dan lingkungan. Ada banyak kegiatan besar yang berlangsung bersamaan, seperti tenis, lomba perahu tradisional, olahraga air laut, lomba selancar, lomba dan pameran fotografi, festival layang-layang, tur desa dengan sepeda, bazar, penanaman karang, pelepasan tukik, festival kuliner, pertunjukan musik dan budaya, yoga, turnamen golf terbuka, dan Triathlon Internasional Bali, dan masih banyak lagi.
 
 ### **Goa Lawah Festival (Festival Goa Lawah)**
@@ -552,7 +552,7 @@ Hari libur nasional Indonesia, libur panjang 24-25 Desember. Tanggal 25 Desember
     - **Deskripsi:** Diadakan di dekat Pura Besakih, pura induk Bali, untuk mempromosikan pariwisata dan budaya lokal.
   ---
 
-Itu dia daftar festival paling lengkap di Indonesia/Bali tahun 2026. Bali memang destinasi wisata favorit, apalagi pas musim ramai pasti penuh banget. Kalau kamu nggak suka keramaian, bisa hindari "[Lima Musim Puncak Wisata Bali](/blog/bali-peak-season-travel-tips/)" yang udah kita bahas, lalu kombinasikan dengan beberapa festival khas Bali di atas. "**Pilih tanggal yang pas buat liburan ke Bali**", dijamin liburanmu makin seru dan berkesan!
+Itu dia daftar festival paling lengkap di Indonesia/Bali tahun 2026. Bali memang destinasi wisata favorit, apalagi pas musim ramai pasti penuh banget. Kalau kamu nggak suka keramaian, bisa hindari "[Lima Musim Puncak Wisata Bali](/id/blog/bali-peak-season-travel-tips/)" yang udah kita bahas, lalu kombinasikan dengan beberapa festival khas Bali di atas. "**Pilih tanggal yang pas buat liburan ke Bali**", dijamin liburanmu makin seru dan berkesan!
 
 *Tanggal di atas mengikuti pengumuman resmi pemerintah terakhir
 

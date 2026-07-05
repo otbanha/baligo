@@ -88,6 +88,6 @@ Taman Dedari adalah destinasi unik yang menggabungkan sejarah, budaya, seni, dan
 
 ![更多烏布吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
-[Klik di sini untuk panduan lengkap Ubud!](/blog/ubud-guide/)
+[Klik di sini untuk panduan lengkap Ubud!](/id/blog/ubud-guide/)
 
-Ubud adalah pusat budaya dan seni di Bali, dengan sawah terasering yang hijau, hutan yang tenang, dan tradisi yang dalam banget — bikin siapa pun betah. Di sini ada kuil-kuil keren, pasar seni yang memikat, dan pengalaman yoga & meditasi yang bikin rileks. Mau eksplorasi tradisi lokal, nikmatin alam, atau coba aktivitas seru plus kuliner dengan pemandangan kece? Ubud siap kasih kamu pengalaman yang beda! Mau info lebih lengkap soal Ubud? [Klik di sini](/blog/ubud-guide/).
+Ubud adalah pusat budaya dan seni di Bali, dengan sawah terasering yang hijau, hutan yang tenang, dan tradisi yang dalam banget — bikin siapa pun betah. Di sini ada kuil-kuil keren, pasar seni yang memikat, dan pengalaman yoga & meditasi yang bikin rileks. Mau eksplorasi tradisi lokal, nikmatin alam, atau coba aktivitas seru plus kuliner dengan pemandangan kece? Ubud siap kasih kamu pengalaman yang beda! Mau info lebih lengkap soal Ubud? [Klik di sini](/id/blog/ubud-guide/).

@@ -43,7 +43,7 @@ Check out Jay’s travelogue of the Gates of Heaven:
 
 https://youtu.be/H-IocbLNpE4
 
-> Don’t want to wait in line for 2-3 hours? Consider this [Bali Attraction Recommendation: Lahangan Sweet ─ Stunning Mount Agung Viewpoint 🌄](/blog/lahangan-sweet-volcano-view/)
+> Don’t want to wait in line for 2-3 hours? Consider this [Bali Attraction Recommendation: Lahangan Sweet ─ Stunning Mount Agung Viewpoint 🌄](/en/blog/lahangan-sweet-volcano-view/)
 
 ## Tirta Gangga Water Palace
 
@@ -67,7 +67,7 @@ From the breathtaking views of Mount Agung at the Gates of Heaven to the fairy-t
 
 ![Ujung Water Palace](https://images.gobaligo.id/vocus/vocus_1b788d4b2052c6e67e9c475e88df1921.jpg)
 
-Make sure to also visit Amed and Tulamben in the east! Find the guide [here](/blog/amed-tulamben-diving-guide/).
+Make sure to also visit Amed and Tulamben in the east! Find the guide [here](/en/blog/amed-tulamben-diving-guide/).
 
 {{block:ubud}}
 

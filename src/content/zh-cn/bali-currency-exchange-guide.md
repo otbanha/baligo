@@ -27,7 +27,7 @@ _srcHash: 943b1da98e9d29656787dd52932ee353
 
 **出发前换美金**：首先最重要的是在出发前将您的当地货币换成美金，然后带着美金到印尼/巴厘岛再换成印尼盾。这样做的原因是汇率最好。如果您手上持有澳币，则直接带着澳币去巴厘岛换成印尼盾即可。因为澳洲一直是到巴厘岛观光的大国，汇率不比美金差。
 
-为何台币换美金，再把美金换印尼盾汇率好? 请看[这里](/blog/bali-currency-exchange-tips/)的说明
+为何台币换美金，再把美金换印尼盾汇率好? 请看[这里](/zh-cn/blog/bali-currency-exchange-tips/)的说明
 
 大部分游客会在抵达巴厘岛的当下先去处理换汇，你可以找值得信赖的包车司机带你们去司机知道的信誉良好 Money Changer 换钱，这是避免被骗的最好方式！
 
@@ -93,7 +93,7 @@ _srcHash: 943b1da98e9d29656787dd52932ee353
 
 ***
 
-延伸阅读：[巴厘岛美金汇率：大钞还是小钞？换汇攻略大公开！](/blog/bali-usd-exchange-rate/)
+延伸阅读：[巴厘岛美金汇率：大钞还是小钞？换汇攻略大公开！](/zh-cn/blog/bali-usd-exchange-rate/)
 
 巴厘岛到处都是换汇点（Money Changer），密度相当高，特别是在观光区域如库塔、水明漾、乌布、沙努尔等地，几乎每条街都能找到。
 
@@ -117,7 +117,7 @@ https://youtu.be/KPGb6MmwfZw
 
 ## **2. 我需要带美金去巴厘岛吗？**
 
-是的，建议在出发前将您的当地货币换成美金，因为美金在巴厘岛的汇率通常较好。如果您持有澳币，也可以直接带澳币去巴厘岛换汇，因为澳币在巴厘岛的汇率也不错。参考：[印尼/巴厘岛换汇：直接换 vs 先换美金再换印尼盾，哪个划算？](/blog/bali-currency-exchange-tips/)
+是的，建议在出发前将您的当地货币换成美金，因为美金在巴厘岛的汇率通常较好。如果您持有澳币，也可以直接带澳币去巴厘岛换汇，因为澳币在巴厘岛的汇率也不错。参考：[印尼/巴厘岛换汇：直接换 vs 先换美金再换印尼盾，哪个划算？](/zh-cn/blog/bali-currency-exchange-tips/)
 
 ## **3. 在哪里换汇最划算？**
 
@@ -207,7 +207,7 @@ https://youtu.be/KPGb6MmwfZw
 
 ## 16.巴厘岛换汇的时候，大钞和小钞的汇率一样吗？
 
-不一样！不过基本上也可以无视。请看这里的解说：[巴厘岛美金汇率：大钞还是小钞？换汇攻略大公开！](/blog/bali-usd-exchange-rate/)
+不一样！不过基本上也可以无视。请看这里的解说：[巴厘岛美金汇率：大钞还是小钞？换汇攻略大公开！](/zh-cn/blog/bali-usd-exchange-rate/)
 
 ## 17.**信用卡刷卡消费**
 
@@ -217,13 +217,13 @@ https://youtu.be/KPGb6MmwfZw
 
 **快速参考：**
 
-- [巴厘岛美金汇率：大钞还是小钞？换汇攻略大公开！](/blog/bali-usd-exchange-rate/)
-- [印尼/巴厘岛换汇：直接换 vs 先换美金再换印尼盾，哪个划算？](/blog/bali-currency-exchange-tips/)
-- [巴厘岛换钱血泪史：团友亲身经历揭密，千万别贪小便宜！](/blog/bali-money-exchange-scams-2/)
-- [【信用卡盗刷/手续费/加%】巴厘岛刷卡安全吗？](/blog/bali-credit-card-safety-tips/)
+- [巴厘岛美金汇率：大钞还是小钞？换汇攻略大公开！](/zh-cn/blog/bali-usd-exchange-rate/)
+- [印尼/巴厘岛换汇：直接换 vs 先换美金再换印尼盾，哪个划算？](/zh-cn/blog/bali-currency-exchange-tips/)
+- [巴厘岛换钱血泪史：团友亲身经历揭密，千万别贪小便宜！](/zh-cn/blog/bali-money-exchange-scams-2/)
+- [【信用卡盗刷/手续费/加%】巴厘岛刷卡安全吗？](/zh-cn/blog/bali-credit-card-safety-tips/)
 
 ---
 
 👈 **回到巴厘岛自由行终极指南**
 
-想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/zh-cn/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

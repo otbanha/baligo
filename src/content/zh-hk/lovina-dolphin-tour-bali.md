@@ -72,6 +72,6 @@ _srcHash: 06e9dc803c3a499cd529edcd2a29d069
 
 https://youtu.be/zSw8SRB3Sn8?si=HwQTRID8kIkM4PvI
 
-對峇里島北部行程有興趣嘅朋友，請繼續參考：[峇里島自由行注意事項：15個前往峇里島北部旅遊嘅小貼士](/blog/north-bali-travel-guide/)
+對峇里島北部行程有興趣嘅朋友，請繼續參考：[峇里島自由行注意事項：15個前往峇里島北部旅遊嘅小貼士](/zh-hk/blog/north-bali-travel-guide/)
 
 {{block:戶外}}

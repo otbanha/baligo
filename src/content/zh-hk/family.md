@@ -35,15 +35,15 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 
 平均氣溫大約喺 27–30°C 之間，但係因為濕度同日照嘅關係，體感會更加悶熱一啲。如果帶小朋友或者長輩一齊去，建議安排每日中午前後嘅「避熱時間」，返酒店休息或者留喺冷氣房入面，會舒服好多。
 
-> [峇里島1\~12月，每個月嘅適合旅遊指數...大解析](/blog/bali-rainy-season-travel-guide/)
+> [峇里島1\~12月，每個月嘅適合旅遊指數...大解析](/zh-hk/blog/bali-rainy-season-travel-guide/)
 
-> [避雨、避太陽嘅60個室內行程](/blog/2026-bali-indoor-activities/)
+> [避雨、避太陽嘅60個室內行程](/zh-hk/blog/2026-bali-indoor-activities/)
 
 ## 👨‍👩‍👧‍👦 帶小朋友去峇里島，揀邊區最啱？
 
 暑假出遊嘅旅客入面，親子家庭佔咗好大比例。峇里島好多度假村本身就有兒童俱樂部（Kids Club）同滑水道作為主要賣點，家長唔使再額外花心機安排。
 
-我哋特別整理咗「[邊啲酒店有兒童俱樂部](/blog/bali-family-resorts-kids-club/)」同「[峇里島有滑水道嘅度假村](/blog/bali-family-resorts-water-slides/)」兩份資源，方便帶小朋友嘅家庭直接查閱。
+我哋特別整理咗「[邊啲酒店有兒童俱樂部](/zh-hk/blog/bali-family-resorts-kids-club/)」同「[峇里島有滑水道嘅度假村](/zh-hk/blog/bali-family-resorts-water-slides/)」兩份資源，方便帶小朋友嘅家庭直接查閱。
 
 至於揀邊區，最推薦以下三個地方：
 
@@ -53,7 +53,7 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 
 沙努爾係一個經常被忽略、但其實非常適合親子旅遊嘅區域。海浪平穩、海灘乾淨，冇水明漾咁多派對人潮，行路就可以到海邊，夜晚亦都好安靜。如果屋企有年幼嘅小朋友或者同行有長輩，沙努爾係一個令人好放心嘅選擇。
 
-> 👉 詳細規劃可以參考：[暑假/寒假峇里島親子旅遊攻略：全方位指南，讓家庭出遊更輕鬆 – ](/blog/sanur-family-travel-guide-2/)[沙努爾篇](/blog/sanur-family-travel-guide-2/)
+> 👉 詳細規劃可以參考：[暑假/寒假峇里島親子旅遊攻略：全方位指南，讓家庭出遊更輕鬆 – ](/zh-hk/blog/sanur-family-travel-guide-2/)[沙努爾篇](/zh-hk/blog/sanur-family-travel-guide-2/)
 
 ### 📍 水明漾（Seminyak）
 
@@ -61,7 +61,7 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 
 水明漾嘅優勢在於「乜都有」——購物、餐廳、海灘俱樂部、高質素度假村一應俱全。如果家長都想享有自己嘅度假時光，唔想行程完全圍繞住小朋友轉，水明漾可以兼顧大人同小朋友嘅需求。
 
-> 👉 詳細規劃請睇：[暑假/寒假峇里島親子旅遊攻略：全方位指南，讓家庭出遊更輕鬆 – 水明漾篇](/blog/seminyak-family-travel-2026/)
+> 👉 詳細規劃請睇：[暑假/寒假峇里島親子旅遊攻略：全方位指南，讓家庭出遊更輕鬆 – 水明漾篇](/zh-hk/blog/seminyak-family-travel-2026/)
 
 ### 📍 烏布（Ubud）
 
@@ -69,13 +69,13 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 
 烏布帶嚟嘅係完全唔同嘅體驗。呢度冇海灘，取而代之嘅係梯田、文化、森林同大量親子活動——而且好多小朋友去到烏布，反而比去海邊玩得更開心，因為可以參與嘅體驗實在太多。
 
-> 👉 詳細規劃請睇：[暑假/寒假峇里島親子旅遊攻略：全方位指南，讓家庭出遊更輕鬆 – 烏布篇](/blog/ubud-family-travel-2026/)
+> 👉 詳細規劃請睇：[暑假/寒假峇里島親子旅遊攻略：全方位指南，讓家庭出遊更輕鬆 – 烏布篇](/zh-hk/blog/ubud-family-travel-2026/)
 
 #### 🎨 烏布嘅親子活動，多到你揀唔晒
 
 烏布我哋特別整理咗一份超完整嘅親子活動攻略，收錄超過 55 項專為家庭設計嘅體驗，從騎大象、ATV 越野車、泛舟，到各種文化工藝課程，豐富到一次根本玩唔晒。
 
-> 👉 詳細內容請參考：[【烏布親子攻略】峇里島家庭親子旅遊活動精選攻略：烏布55項親子活動帶小朋友最輕鬆！](/blog/ubud-with-kids-guide/)
+> 👉 詳細內容請參考：[【烏布親子攻略】峇里島家庭親子旅遊活動精選攻略：烏布55項親子活動帶小朋友最輕鬆！](/zh-hk/blog/ubud-with-kids-guide/)
 
 呢份攻略嘅好處係，已經幫你將活動按難易度同年齡層分類好，唔使再自己慢慢研究，可以直接參考安排。
 
@@ -85,7 +85,7 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 
 努沙杜瓦係峇里島最省心嘅親子度假首選。呢度屬於封閉式嘅度假區，道路平整寬敞、環境極度安全且安靜，非常適合推住嬰兒車散步。呢度嘅沙灘浪潮平緩，小朋友可以安全咁喺海邊玩沙踏浪，而區內密集嘅五星級酒店大多設有完善嘅兒童俱樂部同戲水設施，讓全家人入咗酒店就可以展開「定點度假」模式。
 
-> 👉 詳細規劃請睇：[努沙杜瓦 Nusa Dua 暑假｜寒假親子自由行攻略：九大一日遊亮點、兒童友善推薦](/blog/2026-04-02-112654/)
+> 👉 詳細規劃請睇：[努沙杜瓦 Nusa Dua 暑假｜寒假親子自由行攻略：九大一日遊亮點、兒童友善推薦](/zh-hk/blog/2026-04-02-112654/)
 
 {{block:親子}}
 
@@ -98,9 +98,9 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 老人家最在意嘅通常係：路好唔好行、會唔會太熱、使唔使行好多樓梯、身體唔舒服時點算。
 我哋針對呢啲需求整理咗兩篇文章：
 
-> [點樣輕鬆帶老人家玩轉峇里島？全攻略分享 — 由行程節奏、交通安排到避免老人家太過勞累嘅技巧，都有詳細說明。](/blog/bali-elderly-travel-guide/)
+> [點樣輕鬆帶老人家玩轉峇里島？全攻略分享 — 由行程節奏、交通安排到避免老人家太過勞累嘅技巧，都有詳細說明。](/zh-hk/blog/bali-elderly-travel-guide/)
 
-> [帶老人家去峇里島：適合年長者嘅峇里島旅遊地點全攻略 — 針對各景點嘅無障礙程度、步行距離與舒適度進行評估，等你可以更有依據咁規劃行程。](/blog/bali-senior-friendly-travel-guide/)
+> [帶老人家去峇里島：適合年長者嘅峇里島旅遊地點全攻略 — 針對各景點嘅無障礙程度、步行距離與舒適度進行評估，等你可以更有依據咁規劃行程。](/zh-hk/blog/bali-senior-friendly-travel-guide/)
 
 ## 🏡 住宿選擇
 
@@ -126,7 +126,7 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 **✔ 平均分攤落嚟，CP值超高**
 峇里島嘅包棟Villa選擇好多，由三房到六房以上都有，價錢分攤到每個家庭後，往往比住五星級酒店仲抵，但係可以享有更大嘅空間同更高嘅自由度。
 
-> [峇里島團體自由行旅遊：包棟villa 三房/四房/五房/六房以上嘅家庭別墅住宿推薦](/blog/bali-group-villa-stay/)
+> [峇里島團體自由行旅遊：包棟villa 三房/四房/五房/六房以上嘅家庭別墅住宿推薦](/zh-hk/blog/bali-group-villa-stay/)
 
 ### 五星渡假村
 
@@ -143,7 +143,7 @@ https://youtu.be/MdQYUy31LiY?si=_oj6pEam_FE87pau
 - 訂購截止：2026 年 5 月 31 日
 - 入住期限：即日起至 2027 年 3 月 31 日
 
-> 更完整嘅介紹請睇：[峇里島凱賓斯基 Apurva Kempinski 限時優惠](/blog/apurva-kempinski-bali-deal/)文章
+> 更完整嘅介紹請睇：[峇里島凱賓斯基 Apurva Kempinski 限時優惠](/zh-hk/blog/apurva-kempinski-bali-deal/)文章
 
 {{block:住宿}}
 

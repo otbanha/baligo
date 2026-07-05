@@ -44,7 +44,7 @@ This accolade comes from Condé Nast Traveller, a publication long regarded as a
 
 This resort is more than just a place to stay—it's a gateway to the soul of Bali. Each villa embodies Balinese craftsmanship, with furniture and artworks showcasing the island's rich cultural heritage. Raffles Bali's 32 stunning villas offer guests a unique sense of privacy and immersion in nature, a reason many travelers return year after year.
 
-Raffles Bali is set back from the coastline, surrounded by lush greenery, and is committed to supporting local conservation efforts, ensuring that natural elements are woven into the guest experience. Half of the resort's 23-hectare property remains undeveloped, serving as a sanctuary for local flora and fauna. This dedication to preserving nature is becoming increasingly rare in Bali, especially given the island's [overdevelopment](/blog/bali-hotel-construction-ban/).
+Raffles Bali is set back from the coastline, surrounded by lush greenery, and is committed to supporting local conservation efforts, ensuring that natural elements are woven into the guest experience. Half of the resort's 23-hectare property remains undeveloped, serving as a sanctuary for local flora and fauna. This dedication to preserving nature is becoming increasingly rare in Bali, especially given the island's [overdevelopment](/en/blog/bali-hotel-construction-ban/).
 
 ![Raffles Bali](https://images.gobaligo.id/vocus/vocus_1c0e30a1dd911ab4199e712c479a2f46.jpg)
 
@@ -70,9 +70,9 @@ In 2024, Raffles Bali received a Global Recognition Award, placing it among the 
 
 ### Not sure what to eat, where to shop, or what to do in Jimbaran?
 
-> Check out our [guide to 30 attractions in Jimbaran](/blog/jimbaran-guide/)
+> Check out our [guide to 30 attractions in Jimbaran](/en/blog/jimbaran-guide/)
 
-Raffles Bali has also been named one of Indonesia's top ten resorts by Condé Nast Traveler, alongside the renowned Capella Ubud ([check out our review of Capella Ubud](/blog/capella-ubud-luxury-resort/)), showcasing its elite status in luxury travel. As Bali gradually recovers from the pandemic's impact and moves away from overtourism, Raffles Bali has become not only a guest favorite but also a model for sustainable tourism.
+Raffles Bali has also been named one of Indonesia's top ten resorts by Condé Nast Traveler, alongside the renowned Capella Ubud ([check out our review of Capella Ubud](/en/blog/capella-ubud-luxury-resort/)), showcasing its elite status in luxury travel. As Bali gradually recovers from the pandemic's impact and moves away from overtourism, Raffles Bali has become not only a guest favorite but also a model for sustainable tourism.
 
 ## A Hidden Beachfront Resort in Jimbaran
 
@@ -82,15 +82,15 @@ Jimbaran is a safe, convenient, and often overlooked beachfront resort area in B
 
 Raffles Bali
 
-Jimbaran boasts a wide variety of luxury resorts catering to different types of travelers, whether for family vacations or romantic getaways—there's always a perfect choice. Check out our guide to [Jimbaran's best beachfront hotels with stunning sea views](/blog/jimbaran-beachfront-hotels-guide/). Raffles Bali, in particular, stands out as a top pick for luxury travelers, thanks to its exceptional service and elegant ambiance.
+Jimbaran boasts a wide variety of luxury resorts catering to different types of travelers, whether for family vacations or romantic getaways—there's always a perfect choice. Check out our guide to [Jimbaran's best beachfront hotels with stunning sea views](/en/blog/jimbaran-beachfront-hotels-guide/). Raffles Bali, in particular, stands out as a top pick for luxury travelers, thanks to its exceptional service and elegant ambiance.
 
 > ▶ Raffles Bali Room Availability & Rates: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=14654956) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=51669662&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NazcLFJMEktYSF49-apf9YhRiNDOwsvgo6nj0DBN5bHDyDdsi1as_b4RDAEzHlwPNp7Ik_gh8vnX0o0KGQAQQ02hwaGQ9_1YjpV2lx6GJkBauZwTjv6kWJjYwi69wfVnlOdNjByHSAkekE490njAuYzmzvkDrFwswxWeMSy3em6Gql7NRKJSsTHaWSzJKcVCUrpaeL5j1t2PN8RauSjlJKanEyUAjISszNL80rAbKNTEzM9QwMgEIliRWeKWCtyYk5yaU5iSWpIZUFQCPMdJQyi51LijILglJzM0tKUoGq0hJzilNB4kGpxUCZZLCgkh_QmCKoQGZ-HkS7AYpYWGJOaSrEDUAL3VKhdhjW6mA6_dmc3qfdM19s2o3D6WaWRihONx8QpxvXxj5iYYqOfcFyn-0TC8MvYGRcUm1iZehiZeY4xTSJlYUDGFG7WHkCvSJ9orx1DXWjdA0vsP7sYZJSNDQwMDAyNTUy1zVItLRItTQ20jWxNDEyM9I1NTc2NTC20Lj67uKpJ8ZG1lKQpKDAqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzdXJzdHIOcqGizk02EUw7fuTxIVm0g5SzCHhLoo2e4OmKfadttdi9nQJMszfoeSQY2VpH7h-6_eVWiYL7CP_8bk22k08bZ_EWpWhGxKecVysgLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQAEqTzXBkDAAA&masterhotelid_tracelogid=100025527-0a98e932-494262-5735038&detailFilters=17|1~17~1*31|51669662~31~51669662*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=352&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/5BcbfgJh)
 
 ***
 
-Also worth mentioning is Potato Head Suites & Studios in Seminyak, which was named one of the world's best hotels for 2024 (see [Seminyak Beachfront Accommodation Guide](/blog/seminyak-beach-resorts-guide/)). This iconic hotel ranked 21st in this year's global top 50 hotels list, offering a different perspective on Bali's luxury accommodations. Not only does it boast a prime beachfront location, but it also sets a new benchmark in luxury travel with its unique art installations, stunning architectural design, and zero-waste philosophy.
+Also worth mentioning is Potato Head Suites & Studios in Seminyak, which was named one of the world's best hotels for 2024 (see [Seminyak Beachfront Accommodation Guide](/en/blog/seminyak-beach-resorts-guide/)). This iconic hotel ranked 21st in this year's global top 50 hotels list, offering a different perspective on Bali's luxury accommodations. Not only does it boast a prime beachfront location, but it also sets a new benchmark in luxury travel with its unique art installations, stunning architectural design, and zero-waste philosophy.
 
-> Seminyak Must-Visit Map: 100 [Comprehensive Guide to Eating, Drinking, and Fun](/blog/seminyak-guide/)
+> Seminyak Must-Visit Map: 100 [Comprehensive Guide to Eating, Drinking, and Fun](/en/blog/seminyak-guide/)
 
 ![Potato Head Suites & Studios](https://images.gobaligo.id/vocus/vocus_e4202a8a0d98ca9b485a7b454b1a276d.jpg)
 
@@ -98,6 +98,6 @@ Potato Head Suites & Studios
 
 > ▶Potato Head Suites & Studios [Check Agoda's Best Rates for Your Dates](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11295575) [Booking](https://booking.tpm.li/P2lxvZpf)
 
-> [【Seminyak Hotel Recommendation】Potato Head Suites & Studios Stay Experience Review](/blog/potato-head-suites-seminyak-review/)
+> [【Seminyak Hotel Recommendation】Potato Head Suites & Studios Stay Experience Review](/en/blog/potato-head-suites-seminyak-review/)
 
 {{block:住宿}}

@@ -50,4 +50,4 @@ Please refer to the guide we've prepared
 
 👈 **Back to the Ultimate Bali Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read the '2026 Ultimate Bali Travel Guide'](/blog/bali-ultimate-guide-2026/) and get everything you need to know before your trip.
+Want to see the complete beginner's guide? [Click here to read the '2026 Ultimate Bali Travel Guide'](/en/blog/bali-ultimate-guide-2026/) and get everything you need to know before your trip.

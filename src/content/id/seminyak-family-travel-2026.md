@@ -35,13 +35,13 @@ Bali beriklim tropis. Pas liburan semester (Juni–Agustus) itu musim kemarau, c
 
 ![1. Cuaca & Pakaian](https://images.gobaligo.id/vocus/vocus_7c08d86c6df883cdd0f82bbf4a41a31c.png)
 
-Kalau ada rencana naik gunung buat lihat sunrise, baik trekking atau naik jeep, wajib bawa jaket tebal. Buat yang butuh info lengkap, cek [Panduan Trekking Sunrise Gunung Batur](/blog/batur-sunrise-hiking-guide/)
+Kalau ada rencana naik gunung buat lihat sunrise, baik trekking atau naik jeep, wajib bawa jaket tebal. Buat yang butuh info lengkap, cek [Panduan Trekking Sunrise Gunung Batur](/id/blog/batur-sunrise-hiking-guide/)
 
 ### 2. **Kesehatan & Keamanan**
 
 - **Anti nyamuk**: Nyamuk di Bali banyak. Saran: pakai lotion anti nyamuk lokal Bali yang lebih ampuh, dan pilih penginapan yang ada kelambu.
 - **Air minum**: Jangan minum air keran langsung. Beli air kemasan atau air matang aja.
-- **Persiapan obat**: Siapkan obat-obatan umum kayak obat demam, obat diare, obat mabuk perjalanan, plester luka, dll. Cek juga: [Daftar Obat & Perlengkapan Wajib Liburan ke Bali](/blog/bali-travel-medicine-checklist/)
+- **Persiapan obat**: Siapkan obat-obatan umum kayak obat demam, obat diare, obat mabuk perjalanan, plester luka, dll. Cek juga: [Daftar Obat & Perlengkapan Wajib Liburan ke Bali](/id/blog/bali-travel-medicine-checklist/)
 
 ![2. Kesehatan & Keamanan](https://images.gobaligo.id/vocus/vocus_1fe90182feb7b0f11bdd7ee503a63a11.png)
 
@@ -53,8 +53,8 @@ Transportasi di Bali lumayan semrawut sih, jadi saran gue booking layanan mobil 
 
 **Referensi Cepat:**
 
-- [Panduan Lengkap Sewa Mobil Pribadi di Bali - Biaya, Cara Booking, Kelebihan](/blog/bali-private-car-hire-guide/)
-- [Rekomendasi 500 Tempat Wisata Bali Terbaru 2025 - Koleksi Lengkap Spot Hits](/blog/bali-top-500-attractions/)
+- [Panduan Lengkap Sewa Mobil Pribadi di Bali - Biaya, Cara Booking, Kelebihan](/id/blog/bali-private-car-hire-guide/)
+- [Rekomendasi 500 Tempat Wisata Bali Terbaru 2025 - Koleksi Lengkap Spot Hits](/id/blog/bali-top-500-attractions/)
 
 ### 4. **Pilihan Makanan**
 
@@ -64,7 +64,7 @@ Selain itu, banyak restoran yang menyediakan menu anak-anak, atau kamu bisa pili
 
 **Referensi Cepat:**
 
-- [10 Makanan Khas Bali Wajib Coba](/blog/bali-travel-tips/)
+- [10 Makanan Khas Bali Wajib Coba](/id/blog/bali-travel-tips/)
 
 ### 5. **Etika Budaya**
 
@@ -72,8 +72,8 @@ Orang Bali ramah dan hangat, tapi budaya mereka sangat menjunjung sopan santun. 
 
 **Referensi Cepat:**
 
-- [Ternyata 'Candi Bentar' Bukan 'Pintu Baik-Jahat'!? Arti dan Sejarahnya](/blog/candi-bentar-balinese-gate-history/)
-- [Tradisi Sembahyang di Bali: Canang Sari](/blog/bali-canang-sari-explained/)
+- [Ternyata 'Candi Bentar' Bukan 'Pintu Baik-Jahat'!? Arti dan Sejarahnya](/id/blog/candi-bentar-balinese-gate-history/)
+- [Tradisi Sembahyang di Bali: Canang Sari](/id/blog/bali-canang-sari-explained/)
 
 ![5. Etika Budaya](https://images.gobaligo.id/vocus/vocus_c21f61f96c32186966727957fc399238.png)
 
@@ -85,10 +85,10 @@ Bali itu destinasi liburan keluarga yang super recommended, dan kami rekomendasi
 
 ### Area Rekomendasi Liburan Keluarga Liburan Sekolah/Lebaran
 
-- [Episode 1: Seminyak](/blog/seminyak-family-travel-2026/)
-- [Episode 2: Ubud](/blog/ubud-family-travel-2026/)
-- [Episode 3: Sanur](/blog/sanur-family-travel-guide-2/)
-- [Episode 4: Nusa Dua](/blog/2026-04-02-112654/)
+- [Episode 1: Seminyak](/id/blog/seminyak-family-travel-2026/)
+- [Episode 2: Ubud](/id/blog/ubud-family-travel-2026/)
+- [Episode 3: Sanur](/id/blog/sanur-family-travel-guide-2/)
+- [Episode 4: Nusa Dua](/id/blog/2026-04-02-112654/)
 
 ## **8 Aktivitas Seru di Seminyak yang Ramah Anak**
 
@@ -218,7 +218,7 @@ Saran pilih resort yang punya kids club, kolam renang, dan kamar keluarga biar l
 
 ![Lebih Banyak Rekomendasi Makan, Main, dan Jalan-jalan di Sem](https://images.gobaligo.id/vocus/vocus_366287b60b610bfff45aea753d91ba55.jpg)
 
-Seminyak adalah kawasan mempesona di Bali yang memadukan gaya modern dan tradisi, punya restoran kelas atas, butik-butik keren, dan kehidupan malam yang semarak—surga banget buat liburan! Mau tahu info lebih lanjut tentang tempat wisata seru, kuliner, SPA, beach club? [Klik di sini](/blog/seminyak-guide/).
+Seminyak adalah kawasan mempesona di Bali yang memadukan gaya modern dan tradisi, punya restoran kelas atas, butik-butik keren, dan kehidupan malam yang semarak—surga banget buat liburan! Mau tahu info lebih lanjut tentang tempat wisata seru, kuliner, SPA, beach club? [Klik di sini](/id/blog/seminyak-guide/).
 
 ***
 
@@ -226,10 +226,10 @@ Seminyak adalah kawasan mempesona di Bali yang memadukan gaya modern dan tradisi
 
 ### Empat Zona Rekomendasi Liburan Keluarga Musim Panas/Dingin
 
-- [Episode 1: Seminyak](/blog/seminyak-family-travel-2026/)
-- [Episode 2: Ubud](/blog/ubud-family-travel-2026/)
-- [Episode 3: Sanur](/blog/sanur-family-travel-guide-2/)
-- [Episode 4: Nusa Dua](/blog/2026-04-02-112654/)
+- [Episode 1: Seminyak](/id/blog/seminyak-family-travel-2026/)
+- [Episode 2: Ubud](/id/blog/ubud-family-travel-2026/)
+- [Episode 3: Sanur](/id/blog/sanur-family-travel-guide-2/)
+- [Episode 4: Nusa Dua](/id/blog/2026-04-02-112654/)
 
 ***
 
@@ -237,7 +237,7 @@ Seminyak adalah kawasan mempesona di Bali yang memadukan gaya modern dan tradisi
 
 **1. Apakah Bali cocok untuk traveling sama bayi atau balita?**
 
-Iya banget! Bali sangat cocok buat traveling sama bayi atau balita, kamu bahkan bisa [sewa babysitter](/blog/bali-family-travel-guide-2/).
+Iya banget! Bali sangat cocok buat traveling sama bayi atau balita, kamu bahkan bisa [sewa babysitter](/id/blog/bali-family-travel-guide-2/).
 
 **2. Apakah restoran di Bali punya menu anak-anak?**
 
@@ -253,7 +253,7 @@ Di kota-kota besar kayak Kuta, Seminyak, Sanur ada rumah sakit internasional yan
 
 **5. Ada rekomendasi resort keluarga di berbagai daerah lain?**
 
-Ada, cek aja [di sini](/blog/bali-family-resorts-kids-club/).
+Ada, cek aja [di sini](/id/blog/bali-family-resorts-kids-club/).
 
 {{block:親子}}
 

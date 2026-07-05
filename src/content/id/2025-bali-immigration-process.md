@@ -31,7 +31,7 @@ Pahami dalam 1 Menit Prosedur dari Turun Pesawat sampai Keluar
 
 ➡️[ Cari Akomodasi di Bali Klik di Sini ](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️
 
-## Ini adalah penjelasan versi lama, untuk penjelasan versi baru Agustus 2025 lihat [di sini](/blog/bali-all-indonesia-arrival-guide/)
+## Ini adalah penjelasan versi lama, untuk penjelasan versi baru Agustus 2025 lihat [di sini](/id/blog/bali-all-indonesia-arrival-guide/)
 
 ---
 
@@ -41,25 +41,25 @@ Setelah tiba di Indonesia atau Bali, ikuti urutan berikut untuk masuk, biar cepa
    Saat kamu sampai di bandara Bali, ikuti petunjuk untuk turun pesawat.
 2. **Urus/Bayar Visa on Arrival**  
    Jika kamu belum mengajukan visa elektronik sebelumnya, langkah pertama kamu perlu antre di konter Visa on Arrival (disingkat VoA) di bandara untuk mengurus visa on arrival  
-   ▶️ Visa on Arrival bagus? Visa elektronik bagus? Lihat [Panduan Lengkap Visa Elektronik eVoa Indonesia/Bali](/blog/bali-evisa-application-guide/)
+   ▶️ Visa on Arrival bagus? Visa elektronik bagus? Lihat [Panduan Lengkap Visa Elektronik eVoa Indonesia/Bali](/id/blog/bali-evisa-application-guide/)
 3. **Isi Formulir Deklarasi Kesehatan Online**  
    Untuk mencegah penyebaran berbagai penyakit menular seperti cacar monyet, pneumonia manusia, dan lainnya, penumpang perlu mengisi "Deklarasi Kesehatan (SSHP)".  
-   ▶️ Cara mengisi? Lihat [Panduan Pengisian SSHP](/blog/2024-08-30-66d109f9fd89780001f47806/)
+   ▶️ Cara mengisi? Lihat [Panduan Pengisian SSHP](/id/blog/2024-08-30-66d109f9fd89780001f47806/)
 4. **Antre di Imigrasi - Periksa Visa/Stempel Paspor**  
    Di konter imigrasi, kamu perlu antre menunggu pemeriksaan paspor dan dokumen visa. Pastikan paspor dan dokumen visamu lengkap.
 5. **Layanan Pintu Otomatis**  
    Jika kamu punya visa elektronik, lewati langkah 4 dan langsung menuju "Gerbang Pintu Otomatis", berlaku di Bandara Internasional Jakarta dan Bandara Internasional Bali.  
-   ▶️ Cara lewat pintu otomatis? Lihat [Panduan Pintu Otomatis Bali](/blog/2025-bali-automatic-customs/)
+   ▶️ Cara lewat pintu otomatis? Lihat [Panduan Pintu Otomatis Bali](/id/blog/2025-bali-automatic-customs/)
 6. **Ambil Bagasi**  
    Setelah selesai pemeriksaan imigrasi/pintu otomatis, kamu bisa menuju area pengambilan bagasi untuk mengambil bagasi.
 7. **Pemeriksaan Bagasi Bea Cukai**  
    Langkah terakhir, kamu perlu melewati pemeriksaan bea cukai. Harap isi deklarasi bea cukai elektronik (e-CD) terlebih dahulu dan tunjukkan kepada petugas bea cukai. Patuhi aturan, jangan membawa barang terlarang seperti buah, tanaman, atau mata uang asing berlebih.  
-   ▶️ Aturan detail dan panduan pengisian deklarasi: [Panduan Pengisian Deklarasi Bea Cukai Elektronik](/blog/bali-e-customs-declaration/)
+   ▶️ Aturan detail dan panduan pengisian deklarasi: [Panduan Pengisian Deklarasi Bea Cukai Elektronik](/id/blog/bali-e-customs-declaration/)
 8. **Pajak Wisatawan**  
    Mulai 14 Februari 2024, wisatawan internasional yang masuk Bali perlu membayar terlebih dahulu  
-   ▶️ Cara membayar? Lihat penjelasan [Pajak Wisatawan](/blog/2026-bali-tourism-tax-guide/)
+   ▶️ Cara membayar? Lihat penjelasan [Pajak Wisatawan](/id/blog/2026-bali-tourism-tax-guide/)
 
-> Bacaan Lanjutan: [Dokumen Apa yang Perlu Disiapkan untuk Masuk Bali?](/blog/indonesia-bali-visa-evoa-faq/)
+> Bacaan Lanjutan: [Dokumen Apa yang Perlu Disiapkan untuk Masuk Bali?](/id/blog/indonesia-bali-visa-evoa-faq/)
 
 **Mulai Nikmati Liburanmu!**  
 Setelah melewati bea cukai, selamat kamu sudah menyelesaikan proses masuk! Sekarang bisa menuju aula penjemputan, bertemu dengan sopir yang sudah dipesan atau keluarga/teman, dan memulai perjalanan indah!
@@ -76,4 +76,4 @@ Setelah melewati bea cukai, selamat kamu sudah menyelesaikan proses masuk! Sekar
 
 👈 **Kembali ke Panduan Lengkap Trip ke Bali**
 
-Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.
+Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.

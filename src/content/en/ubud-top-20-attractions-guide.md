@@ -48,10 +48,10 @@ Ubud's tourism industry is supported by a comprehensive range of accommodations,
 
 ![Diverse Accommodation Options](https://images.gobaligo.id/vocus/vocus_13a74a1d8c8fd5941d410b5cd70f4cf0.jpg)
 
-- [【Bali Ubud Accommodation】28 Unique Stays in Ubud, Experience a Magical Journey Amidst Bali's Mountain Scenery!](/blog/ubud-villas-pool-guide/)
-- [Explore 9 Breathtaking Tree House/Bamboo Villa Stays in Ubud](/blog/ubud-treehouse-bamboo-villa-stays/)
-- [【Ubud Accommodation Recommendations】Private Pool Villas: 20 Stunning Bali Villas in Ubud](/blog/ubud-villa-pool-guide/)
-- [Ubud Yoga Retreats: 10 Dreamy Options Combining Yoga Classes and Relaxation](/blog/ubud-yoga-retreats-bali/)
+- [【Bali Ubud Accommodation】28 Unique Stays in Ubud, Experience a Magical Journey Amidst Bali's Mountain Scenery!](/en/blog/ubud-villas-pool-guide/)
+- [Explore 9 Breathtaking Tree House/Bamboo Villa Stays in Ubud](/en/blog/ubud-treehouse-bamboo-villa-stays/)
+- [【Ubud Accommodation Recommendations】Private Pool Villas: 20 Stunning Bali Villas in Ubud](/en/blog/ubud-villa-pool-guide/)
+- [Ubud Yoga Retreats: 10 Dreamy Options Combining Yoga Classes and Relaxation](/en/blog/ubud-yoga-retreats-bali/)
 
 ### Ubud's Culinary Scene
 
@@ -85,7 +85,7 @@ Additionally, an international driver's license is required to ride a scooter. Y
 
 ![Riding a Scooter – Ubud Transportation Guide](https://images.gobaligo.id/vocus/vocus_fc84efe12c3d37e38738d93e3332713f.jpg)
 
-For more on renting scooters, check out: [Bali Scooter Rental Guide! Should You Rent a Scooter or Hire a Private Car?](/blog/bali-motorbike-rental-guide/)
+For more on renting scooters, check out: [Bali Scooter Rental Guide! Should You Rent a Scooter or Hire a Private Car?](/en/blog/bali-motorbike-rental-guide/)
 
 ### Private Car Hire – Ubud Transportation Guide
 
@@ -93,7 +93,7 @@ If you prefer traveling by car, there are two main options for getting around ce
 
 **Private Car with Driver** Finding self-drive car rentals in Ubud can be challenging. Moreover, parking spaces in Ubud's central area are extremely limited, with no-parking signs everywhere. If you want to avoid the hassle of finding parking, prefer not to drive yourself, and wish to explore areas beyond Ubud, renting a car with a driver (private car hire) is highly recommended.
 
-- About Private Car Hire: [Complete Guide to Private Car Hire in Bali - Costs, Booking Methods, Advantages](/blog/bali-private-car-hire-guide/)
+- About Private Car Hire: [Complete Guide to Private Car Hire in Bali - Costs, Booking Methods, Advantages](/en/blog/bali-private-car-hire-guide/)
 
 **Ubud Tour Packages** Some travelers prefer not to arrange everything themselves and opt for pre-booked Bali tour packages. These packages take care of everything for you: tour guides, transportation, itinerary planning, attraction tickets, delicious meals... all in one!
 
@@ -132,7 +132,7 @@ Book your trip:
 
 Rafting is an exciting activity in Ubud
 
-The Ayung River in Ubud is one of Bali's famous rafting spots, ideal for families and leisure travelers. For a more challenging rafting experience, consider the Telaga Waja River in Karangasem. Check out the [Bali Rafting Guide (Rafting FAQ)](/blog/bali-rafting-ayung-telaga-waja/)
+The Ayung River in Ubud is one of Bali's famous rafting spots, ideal for families and leisure travelers. For a more challenging rafting experience, consider the Telaga Waja River in Karangasem. Check out the [Bali Rafting Guide (Rafting FAQ)](/en/blog/bali-rafting-ayung-telaga-waja/)
 
 Book your rafting adventure:
 
@@ -187,7 +187,7 @@ Book a day tour:
 
 ![8. Tirta Empul Temple](https://images.gobaligo.id/vocus/vocus_88c944a5fa78e838a7b5907d644ae8ca.jpg)
 
-Tirta Empul Temple is famous for its natural spring water, which flows from within the temple, creating a clear, fresh water source. Visitors must wear sarongs and sashes to enter the temple interior, which can be rented at the entrance. Check out the [Complete Guide to Tirta Empul Temple: Bali's Most Sacred Purification Water Temple Experience](/blog/tirta-empul-temple-guide/)
+Tirta Empul Temple is famous for its natural spring water, which flows from within the temple, creating a clear, fresh water source. Visitors must wear sarongs and sashes to enter the temple interior, which can be rented at the entrance. Check out the [Complete Guide to Tirta Empul Temple: Bali's Most Sacred Purification Water Temple Experience](/en/blog/tirta-empul-temple-guide/)
 
 Book a day tour:
 
@@ -207,7 +207,7 @@ Book your tour:
 
 Omma Dayclub is renowned for its stunning views of a waterfall that cascades approximately 30 meters. Visitors can enjoy the breathtaking waterfall scenery from the club's terrace or the riverside swimming pool.
 
-- [Omma Dayclub Introduction & Official Website](/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+- [Omma Dayclub Introduction & Official Website](/en/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 ### 11. D'Tukad River Club
 
@@ -250,19 +250,19 @@ Cretya Ubud is open daily from 8 AM to 9 PM. The entrance fee for adults is IDR 
 
 The Ubud Royal Palace is located on the main road in Ubud, near the Ubud Art Market and the Ubud Water Palace. Watch the video above as Xiao Jie takes you on a tour around Ubud city.
 
-[Ubud Royal Palace: A Gem of Balinese Cultural History｜Opening Hours, Tickets, Performance Times, Nearby Attractions, Day Trip Recommendations](/blog/ubud-royal-palace-tour-guide/)
+[Ubud Royal Palace: A Gem of Balinese Cultural History｜Opening Hours, Tickets, Performance Times, Nearby Attractions, Day Trip Recommendations](/en/blog/ubud-royal-palace-tour-guide/)
 
 ### 16. Ubud Art Market
 
 The Ubud Art Market is a great place to buy Balinese handicrafts, including woven bags, baskets, and other handmade items. The market is close to the Ubud Royal Palace and is open from 10:00 AM to 5:00 PM.
 
-Further Reading: [Recommended Guide to Ubud's Top Five Art Markets: Souvenirs/Gifts, Discovering Balinese Cultural Treasures](/blog/ubud-art-markets-guide/)
+Further Reading: [Recommended Guide to Ubud's Top Five Art Markets: Souvenirs/Gifts, Discovering Balinese Cultural Treasures](/en/blog/ubud-art-markets-guide/)
 
 ### 17. Campuhan Ridge Walk
 
 A short walk from the Ubud Royal Palace, the Campuhan Ridge Walk, known as the 'Ubud Skywalk,' is a hidden gem near the center of Ubud. It offers tranquility and beautiful natural scenery. This trail along the ridge provides stunning 360-degree views, away from the hustle and bustle of the city.
 
-How to get to the Skywalk? How much time does it take? What's the best time to visit? Check out [Jay's detailed guide](/blog/ubud-campuhan-ridge-walk/) for more information.
+How to get to the Skywalk? How much time does it take? What's the best time to visit? Check out [Jay's detailed guide](/en/blog/ubud-campuhan-ridge-walk/) for more information.
 
 ### 18. Ubud Swing
 
@@ -270,13 +270,13 @@ How to get to the Skywalk? How much time does it take? What's the best time to v
 
 The jungle swings in Ubud are a popular activity for Instagram-worthy photos. While there are many places to enjoy swings in Bali, Ubud is the most famous.
 
-Check out [Ubud Jungle Swings: Bali's 8 Most Beautiful Swing Photo Spots｜Ubud Swing/Dress Rental Guide](/blog/ubud-jungle-swings-photo-guide/)
+Check out [Ubud Jungle Swings: Bali's 8 Most Beautiful Swing Photo Spots｜Ubud Swing/Dress Rental Guide](/en/blog/ubud-jungle-swings-photo-guide/)
 
 ### 19 Waterfall Hunting
 
 ![19 Waterfall Hunting](https://images.gobaligo.id/vocus/vocus_68745d1fbb03c0df4da67ba5a349df4b.png)
 
-The Ubud area is not only famous for its culture and art but also boasts breathtaking natural landscapes, with waterfalls being a must-visit. The three renowned waterfalls near Ubud are Tegenungan Waterfall, Kanto Lampo Waterfall, and Tukad Cepung Waterfall. Check out [this guide to the three famous waterfalls around Ubud](/blog/ubud-waterfalls-guide/)
+The Ubud area is not only famous for its culture and art but also boasts breathtaking natural landscapes, with waterfalls being a must-visit. The three renowned waterfalls near Ubud are Tegenungan Waterfall, Kanto Lampo Waterfall, and Tukad Cepung Waterfall. Check out [this guide to the three famous waterfalls around Ubud](/en/blog/ubud-waterfalls-guide/)
 
 Waterfalls are ideal for exploring the beauty of nature or capturing stunning Instagram photos. Escape the city noise and wander along trails through lush jungles, as if entering a mysterious hidden realm. Standing before the waterfall, the splashing water and rushing currents let you feel the awe-inspiring power of nature.
 
@@ -288,7 +288,7 @@ Book a day tour:
 
 ### 20 ATV Riding
 
-Want to explore Ubud's natural beauty at a faster pace? Riding an ATV (All-Terrain Vehicle) is an exciting and challenging option. Ubud's ATV tours typically take you through tropical rainforests, rivers, tunnels, and rugged mountain areas, immersing you in an adventurous experience. This high-speed way of traversing nature allows you to experience Ubud's diverse landscapes and scenery in a short time, making it a favorite for thrill-seekers. Check out [Bali ATV Adventure: Experience the Thrill and Freedom of a Tropical Paradise (Tips + FAQ + Operator Recommendations)](/blog/bali-atv-adventure-guide/)
+Want to explore Ubud's natural beauty at a faster pace? Riding an ATV (All-Terrain Vehicle) is an exciting and challenging option. Ubud's ATV tours typically take you through tropical rainforests, rivers, tunnels, and rugged mountain areas, immersing you in an adventurous experience. This high-speed way of traversing nature allows you to experience Ubud's diverse landscapes and scenery in a short time, making it a favorite for thrill-seekers. Check out [Bali ATV Adventure: Experience the Thrill and Freedom of a Tropical Paradise (Tips + FAQ + Operator Recommendations)](/en/blog/bali-atv-adventure-guide/)
 
 Book a tour:
 
@@ -306,12 +306,12 @@ For friends who need map locations, please refer to: "[Ubud Guide Map](https://w
 
 We hope this list helps you plan an unforgettable trip to Ubud!
 
-If it's not your first time visiting and you want to explore Ubud more deeply, you can also check out "[Complete Ubud Guide: 100 Ways to Deeply Experience Ubud](/blog/ubud-guide/)" to take your Ubud adventure to the next level!
+If it's not your first time visiting and you want to explore Ubud more deeply, you can also check out "[Complete Ubud Guide: 100 Ways to Deeply Experience Ubud](/en/blog/ubud-guide/)" to take your Ubud adventure to the next level!
 
-> Further Reading: [Bali Travel Tips: 32 Must-Know Tips for First-Time Visitors](/blog/bali-ultimate-guide-2026/)
+> Further Reading: [Bali Travel Tips: 32 Must-Know Tips for First-Time Visitors](/en/blog/bali-ultimate-guide-2026/)
 
-> Further Reading: [Bali Travel Mistakes to Avoid: 18 Common Pitfalls and Tips](/blog/bali-travel-mistakes-tips/)
+> Further Reading: [Bali Travel Mistakes to Avoid: 18 Common Pitfalls and Tips](/en/blog/bali-travel-mistakes-tips/)
 
-> Further Reading: [Perfect Seminyak Day Trip Guide: From Sunrise to Sunset](/blog/seminyak-day-trip-guide/)
+> Further Reading: [Perfect Seminyak Day Trip Guide: From Sunrise to Sunset](/en/blog/seminyak-day-trip-guide/)
 
 {{block:住宿}}

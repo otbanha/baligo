@@ -37,7 +37,7 @@ Artikel ini bakal ngenalin 15 resor keluarga terbaik di Bali yang punya seluncur
 
 ## Kuta/Legian
 
-（Baca juga: [Panduan Wisata Kuta: 50 Tempat Wajib Kunjungi, Nightlife Seru, Kuliner, & Rekomendasi SPA](/blog/2023-12-13-657598bdfd8978000120fe20/)）
+（Baca juga: [Panduan Wisata Kuta: 50 Tempat Wajib Kunjungi, Nightlife Seru, Kuliner, & Rekomendasi SPA](/id/blog/2023-12-13-657598bdfd8978000120fe20/)）
 
 ### **Hard Rock Hotel Bali**
 
@@ -65,7 +65,7 @@ Resor di Legian ini punya lokasi pantai yang kece banget, lengkap dengan water p
 
 ## Seminyak
 
-（Baca juga: [Panduan Lengkap 60 Tempat Makan, Main, dan Nongkrong di Seminyak](/blog/seminyak-guide/)）
+（Baca juga: [Panduan Lengkap 60 Tempat Makan, Main, dan Nongkrong di Seminyak](/id/blog/seminyak-guide/)）
 
 ### **FuramaXclusive Ocean Beach Seminyak**
 
@@ -127,13 +127,13 @@ Resor ramah keluarga di kawasan Teluk Benoa ini punya lima kolam renang, termasu
 
 ## Jimbaran
 
-（Baca juga: [Panduan Lengkap 28 Tempat Wisata di Jimbaran](/blog/jimbaran-guide/)）
+（Baca juga: [Panduan Lengkap 28 Tempat Wisata di Jimbaran](/id/blog/jimbaran-guide/)）
 
 ### **AYANA Resort, Bali**
 
 ![AYANA Resort, Bali](https://images.gobaligo.id/vocus/vocus_5adf4aacc4cca8b902ecb041966b40c7.jpg)
 
-AYANA Resort yang terletak di tebing Jimbaran ini adalah resort mewah di kawasan AYANA, dengan pemandangan Samudra Hindia yang bikin speechless. Resort ini punya 14 kolam renang berbeda yang tersebar di 4 resort terpisah tapi saling terhubung. Ini salah satu resort paling populer di Bali, yuk cek [panduan lengkap Ayana](/blog/ayana-resort-bali-guide/) dari kami. Kolam anak-anak dilengkapi dua seluncuran air, bikin si kecil serasa petualang di hutan tropis.
+AYANA Resort yang terletak di tebing Jimbaran ini adalah resort mewah di kawasan AYANA, dengan pemandangan Samudra Hindia yang bikin speechless. Resort ini punya 14 kolam renang berbeda yang tersebar di 4 resort terpisah tapi saling terhubung. Ini salah satu resort paling populer di Bali, yuk cek [panduan lengkap Ayana](/id/blog/ayana-resort-bali-guide/) dari kami. Kolam anak-anak dilengkapi dua seluncuran air, bikin si kecil serasa petualang di hutan tropis.
 
 [Link booking AYANA Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6504)
 
@@ -155,7 +155,7 @@ Resort bintang lima di Jimbaran ini punya water park anak-anak yang seru banget,
 
 ## Sanur
 
-（Baca juga: [Peta Panduan Sanur](/blog/sanur-travel-map/)）
+（Baca juga: [Peta Panduan Sanur](/id/blog/sanur-travel-map/)）
 
 ### Prama Sanur Beach Bali
 
@@ -177,7 +177,7 @@ Prime Plaza Suites Sanur adalah salah satu destinasi liburan keluarga favorit di
 
 ![Ubud](https://images.gobaligo.id/vocus/vocus_3b5571bf2988db848cdf0c08b20164cb.png)
 
-（Baca juga: [Panduan Lengkap Aktivitas Keluarga di Ubud: 55 Kegiatan Seru Biar Liburan Bareng Anak Makin Santai!](/blog/ubud-with-kids-guide/)）
+（Baca juga: [Panduan Lengkap Aktivitas Keluarga di Ubud: 55 Kegiatan Seru Biar Liburan Bareng Anak Makin Santai!](/id/blog/ubud-with-kids-guide/)）
 
 Hotel/resort di area Ubud, Bali emang nggak punya water slide, tapi tetap ada banyak tempat yang cocok banget buat liburan keluarga. Ini dia sepuluh hotel/resort yang menonjol di ulasan pelanggan Tripadvisor, cocok buat keluarga. Kalian bisa klik link-nya langsung ya:
 

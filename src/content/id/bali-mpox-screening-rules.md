@@ -45,4 +45,4 @@ Sampai sekarang, Indonesia belum ngeluarin aturan pencegahan tambahan apa pun. M
 
 Kebanyakan orang yang kena Mpox nggak perlu perawatan khusus, cukup terapi suportif sederhana — biasanya buat meredakan gejala mirip flu dan pegal-pegal. Kalau parah, mungkin perlu obat antivirus. Vaksinasi juga bisa dilakukan sebelum atau sesudah terpapar virus buat mencegah infeksi.
 
-▶[Panduan & Cara Isi "Surat Pernyataan Kesehatan Indonesia"](/blog/2024-08-30-66d109f9fd89780001f47806/)
+▶[Panduan & Cara Isi "Surat Pernyataan Kesehatan Indonesia"](/id/blog/2024-08-30-66d109f9fd89780001f47806/)

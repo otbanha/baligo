@@ -73,7 +73,7 @@ Cara lain adalah beli online duluan. Klook punya banyak pilihan paket yang bisa 
 
 ## Rekomendasi eSIM
 
-Kalau HP kamu support eSIM, sinyal paling stabil dan paling recommended sih pakai [ini](/blog/bali-esim-travel-guide/)!
+Kalau HP kamu support eSIM, sinyal paling stabil dan paling recommended sih pakai [ini](/id/blog/bali-esim-travel-guide/)!
 
 ![Rekomendasi eSIM](https://images.gobaligo.id/images/2026-03/1774795350035-d191a0b14c5f198b32ba296c4e0035b1.jpg)
 
@@ -85,4 +85,4 @@ Kalau HP kamu support eSIM, sinyal paling stabil dan paling recommended sih paka
 
 👈 **Kembali ke Panduan Lengkap Trip ke Bali**
 
-Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.
+Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.

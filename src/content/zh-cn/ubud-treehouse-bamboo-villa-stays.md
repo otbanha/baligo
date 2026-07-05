@@ -198,7 +198,7 @@ Emana Bambooscape以其全新落成的优势、独特单间客房设计及完善
 
 ### 延伸阅读:
 
-1. [2026巴厘岛乌布完整攻略：100种深入认识乌布的方式｜探索乌布的魅力](/blog/ubud-guide/)
-2. [巴厘岛家庭亲子旅游活动精选攻略：乌布55项亲子活动带小朋友最轻松！](/blog/ubud-with-kids-guide/)
-3. [【巴厘岛乌布住宿】乌布28家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/blog/ubud-villas-pool-guide/)
-4. [【乌布住宿推荐】泳池别墅私密天堂: 乌布20间令人惊艳的巴厘岛villa](/blog/ubud-villa-pool-guide/)
+1. [2026巴厘岛乌布完整攻略：100种深入认识乌布的方式｜探索乌布的魅力](/zh-cn/blog/ubud-guide/)
+2. [巴厘岛家庭亲子旅游活动精选攻略：乌布55项亲子活动带小朋友最轻松！](/zh-cn/blog/ubud-with-kids-guide/)
+3. [【巴厘岛乌布住宿】乌布28家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/zh-cn/blog/ubud-villas-pool-guide/)
+4. [【乌布住宿推荐】泳池别墅私密天堂: 乌布20间令人惊艳的巴厘岛villa](/zh-cn/blog/ubud-villa-pool-guide/)

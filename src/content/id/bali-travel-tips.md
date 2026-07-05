@@ -54,7 +54,7 @@ Terima kasih! [artinya makasih]
 - Pisang Goreng ▶[Info](https://youtu.be/EKJ4-jvhTiU?t=276)
 - Martabak Manis ▶[Info](https://youtu.be/EKJ4-jvhTiU?t=185)
 - Jus Alpukat ▶[Info](https://youtu.be/FphhiUzB7gM?t=311)
-- Ada juga [versi kedua 10 makanan terkenal Bali](/blog/bali-top-10-foods/) lho!
+- Ada juga [versi kedua 10 makanan terkenal Bali](/id/blog/bali-top-10-foods/) lho!
 
 ### Rekomendasi Merek Air Minum Kemasan
 
@@ -67,14 +67,14 @@ Mau menikmati Bali lebih maksimal? Mulai dari panduan ini, kamu bakal paham buda
 ## Hal yang Perlu Diperhatikan
 
 - [Tiga Trik Transportasi di Bali](https://www.youtube.com/watch?v=KQwrSiqq_Dw&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW&index=4)
-- Percaya deh, [jangan percaya Google Maps di Bali!](/blog/bali-google-maps-warning/)
+- Percaya deh, [jangan percaya Google Maps di Bali!](/id/blog/bali-google-maps-warning/)
 - 'Blue Bird' udah ketinggalan! Sekarang di Indonesia/Bali semua pake aplikasi ojek online! (lengkap dengan tutorial)
-- [Traveler sakit perut, muntaber? Gini cara ngatasinnya.](/blog/bali-travel-health-tips/)
-- Wajib banget belajar [satu kalimat gaul khas Indonesia](/blog/bali-travel-indonesian-phrase/) buat liburan di Bali
-- Jangan lupa bawa tisu kemana-mana! Kenapa? [Cek di sini](/blog/bali-toilet-paper-travel-tip/)
-- Pantangan wisata di Indonesia/Bali! [Jangan pernah coba-coba](/blog/bali-drug-laws-warning/)
-- [Mana sih daerah terbaik buat nginep di Bali? Mana yang paling nggak recommended?](/blog/kuta-bali-accommodation-pros-cons/)
-- Hewan paling serem di Bali bukan singa atau harimau, tapi [ternyata dia](/blog/bali-monkey-safety-tips/)
+- [Traveler sakit perut, muntaber? Gini cara ngatasinnya.](/id/blog/bali-travel-health-tips/)
+- Wajib banget belajar [satu kalimat gaul khas Indonesia](/id/blog/bali-travel-indonesian-phrase/) buat liburan di Bali
+- Jangan lupa bawa tisu kemana-mana! Kenapa? [Cek di sini](/id/blog/bali-toilet-paper-travel-tip/)
+- Pantangan wisata di Indonesia/Bali! [Jangan pernah coba-coba](/id/blog/bali-drug-laws-warning/)
+- [Mana sih daerah terbaik buat nginep di Bali? Mana yang paling nggak recommended?](/id/blog/kuta-bali-accommodation-pros-cons/)
+- Hewan paling serem di Bali bukan singa atau harimau, tapi [ternyata dia](/id/blog/bali-monkey-safety-tips/)
 - Liburan di Bali perlu kasih tip nggak sih? Cara ngasihnya gimana? [Berapa tip yang pas di berbagai situasi?](https://youtu.be/B_oT905RkQw)
 - [Tiga aplikasi wajib di Indonesia/Bali](https://www.youtube.com/watch?v=4p8fliUxn0A&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW&index=8)
 - Cara milih daerah nginep? [Panduan lengkap penginapan di Bali](https://s.id/baliguide1)

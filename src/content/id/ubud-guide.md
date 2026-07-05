@@ -50,7 +50,7 @@ Apa aja sih aktivitas wisata yang bisa dilakukan di Ubud? Kami bagi kontennya ja
 
 Begitu masuk ke pusat Ubud, rasanya seperti melangkah ke dalam perjalanan melintasi waktu. Puri Ubud bagaikan gudang harta karun berusia ribuan tahun, dengan arsitektur khas Bali yang anggun menunjukkan kekayaan budaya lokal. Di puri yang kuno dan mistis ini, kamu akan merasakan perpaduan antara agama dan kerajaan, serta menyaksikan kemegahan berbagai artefak kuno.
 
-Info lengkap soal tiket masuk dan jam buka Puri Ubud, cek di [sini](/blog/ubud-royal-palace-tour-guide/).
+Info lengkap soal tiket masuk dan jam buka Puri Ubud, cek di [sini](/id/blog/ubud-royal-palace-tour-guide/).
 
 ![烏布中心地圖。小傑的視頻帶你徒步逛一圈！](https://images.gobaligo.id/vocus/vocus_c6fdef7285695a13059f6b83b709d9a1.png)
 
@@ -89,7 +89,7 @@ Istana Air Ubud sendiri nggak terlalu besar, kalau cuma jalan-jalan doang nggak 
 
 Saat malam tiba di Istana Ubud, ada pertunjukan spektakuler yang menampilkan keindahan mistis Tari Kecak Api. Ini adalah perpaduan unik antara tarian khas Bali, musik, dan elemen teater. Api yang berderak dan gerakan penari yang anggun berpadu di halaman istana, menghadirkan pengalaman budaya yang nggak terlupakan.
 
-Info lengkap soal jadwal, harga tiket, dan lainnya tentang Tari Kecak Api di Istana Ubud bisa kamu lihat [di sini](/blog/ubud-royal-palace-tour-guide/).
+Info lengkap soal jadwal, harga tiket, dan lainnya tentang Tari Kecak Api di Istana Ubud bisa kamu lihat [di sini](/id/blog/ubud-royal-palace-tour-guide/).
 
 > [Pesan tiket diskon](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Deb69a61294)
 
@@ -111,7 +111,7 @@ Tapi karena kera di sini nakal banget, pengunjung harus tetap waspada saat masuk
 
 Pasar seni di Ubud nggak cuma yang terkenal 'Ubud Art Market'! Kalau kamu mau eksplorasi budaya dan keindahan seni lokal, pasar-pasar tersembunyi ini wajib banget dikunjungi. Ajak kamu jalan-jalan ke empat pasar unik yang dikelola seniman lokal, rasakan nuansa seni Ubud yang autentik. Dari kerajinan tangan sampai lukisan, setiap pasar punya harta karun unik yang siap kamu temukan.
 
-Lihat: [Panduan Lengkap 5 Pasar Seni Terbaik Ubud: Beli Oleh-Oleh/Cinderamata, Cari Harta Karun Budaya Bali](/blog/ubud-art-markets-guide/)
+Lihat: [Panduan Lengkap 5 Pasar Seni Terbaik Ubud: Beli Oleh-Oleh/Cinderamata, Cari Harta Karun Budaya Bali](/id/blog/ubud-art-markets-guide/)
 
 ### Folk Pool & Gardens, Pool Club Tersembunyi yang Tenang di Tengah Keramaian Ubud
 
@@ -159,15 +159,15 @@ Alas Harum juga punya warisan budaya yang kaya. Banyak pura, patung, dan situs k
 
 Rekomendasi tempat yang gampang dijangkau dengan jalan kaki dari Ubud Palace, namanya Campuhan Ridge Walk — sering disebut skywalk Ubud. Ini hidden gem di dekat pusat Ubud yang kasih kamu ketenangan alam dan pemandangan cantik. Jalurnya ada di atas bukit, jadi kamu bisa lihat panorama 360 derajat yang luas banget, jauh dari hiruk-pikuk kota.
 
-Gimana caranya ke skywalk? Berapa lama jalan kakinya? Kapan waktu terbaik? Cek [artikel lengkap dari Xiao Jie](/blog/ubud-campuhan-ridge-walk/)
+Gimana caranya ke skywalk? Berapa lama jalan kakinya? Kapan waktu terbaik? Cek [artikel lengkap dari Xiao Jie](/id/blog/ubud-campuhan-ridge-walk/)
 
 ### Eksplorasi Tiga Air Terjun (👉🏼 Peta: [Tempat Hits di Sekitar Ubud](https://gobaligo.id/map/ubud/))
 
 ![烏布附近三大瀑布探秘](https://images.gobaligo.id/vocus/vocus_e883e487b364bdf8a8aa37988f64462c.png)
 
-[Tiga Air Terjun di Sekitar Ubud yang Wajib Kamu Kunjungi](/blog/ubud-waterfalls-guide/)
+[Tiga Air Terjun di Sekitar Ubud yang Wajib Kamu Kunjungi](/id/blog/ubud-waterfalls-guide/)
 
-Ubud nggak cuma terkenal sama seni dan budayanya, tapi juga punya pemandangan alam yang bikin speechless — salah satunya air terjun yang wajib banget kamu datengin. Tiga air terjun hits di sekitar Ubud: Tegenungan, Kanto Lampo, dan Tukad Cepung. Cek [panduan lengkapnya di sini](/blog/ubud-waterfalls-guide/) ya.
+Ubud nggak cuma terkenal sama seni dan budayanya, tapi juga punya pemandangan alam yang bikin speechless — salah satunya air terjun yang wajib banget kamu datengin. Tiga air terjun hits di sekitar Ubud: Tegenungan, Kanto Lampo, dan Tukad Cepung. Cek [panduan lengkapnya di sini](/id/blog/ubud-waterfalls-guide/) ya.
 
 Air terjun ini bukan cuma tempat buat eksplorasi keindahan alam, tapi juga spot kece buat foto-foto IG-an. Jauh dari hiruk-pikuk kota, kamu bisa jalan-jalan di jalur setapak yang dikelilingi hutan hijau, serasa masuk ke hidden gem yang mistis. Begitu berdiri di depan air terjun, percikan air dan derasnya aliran bikin kamu ngerasa seberapa dahsyatnya alam.
 
@@ -207,7 +207,7 @@ Kedua pura air suci ini punya pesona dan nilai budaya masing-masing, plus suasan
 
 ![Kunjungi Desa Penglipuran ( Peta: Tempat wisata populer di s](https://images.gobaligo.id/vocus/vocus_52e021ca1f655e109c3a05e03e3df486.jpg)
 
-Jalan-jalan di Desa Penglipuran, desa tradisional yang kaya sejarah dan warisan. Dijuluki 'desa terindah di Bali', tempat ini mempertahankan salah satu komunitas tradisional Bali yang paling utuh. Maknanya spesial karena masih menjaga budaya asli Bali dan gaya hidup unik. Desa ini penuh dengan nuansa budaya Bali, benar-benar harta karun Bali yang berharga. [Baca ulasan lengkapnya](/blog/penglipuran-village-bali-experience/)
+Jalan-jalan di Desa Penglipuran, desa tradisional yang kaya sejarah dan warisan. Dijuluki 'desa terindah di Bali', tempat ini mempertahankan salah satu komunitas tradisional Bali yang paling utuh. Maknanya spesial karena masih menjaga budaya asli Bali dan gaya hidup unik. Desa ini penuh dengan nuansa budaya Bali, benar-benar harta karun Bali yang berharga. [Baca ulasan lengkapnya](/id/blog/penglipuran-village-bali-experience/)
 
 > [Tur Sehari Desa Penglipuran (termasuk kelas memasak)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F76095-penglipuran-village-day-tour-bali-free-cooking-class-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7317846487)
 
@@ -221,7 +221,7 @@ Taman Dedari adalah salah satu spot hits di Ubud yang terkenal dengan patung bid
 
 Di dalamnya banyak banget spot foto yang instagramable, jadi kamu bisa puas-puasin foto-foto, deh!
 
-[Info Lengkap Taman Dedari](/blog/taman-dedari-ubud-food-scenery/)
+[Info Lengkap Taman Dedari](/id/blog/taman-dedari-ubud-food-scenery/)
 
 > [Tiket Masuk Taman Dedari, Paket Teh Sore, & Pengalaman Makan di Restoran Kolam Renang](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F93907-taman-dedari-ubud-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D18eb8d34de)
 
@@ -247,7 +247,7 @@ Bali Safari & Marine Park adalah petualangan safari liar yang bikin kamu takjub.
 
 Di tanah ajaib ini, kamu bisa lihat langsung berbagai satwa liar yang bikin speechless, mulai dari singa garang, gajah yang imut, sampai jerapah yang anggun. Mereka semua berkeliaran bebas di habitatnya, kasih kamu suguhan nyata dari kerajaan hewan.
 
-Bali Safari & Marine Park punya mobil petualangan safari yang bakal bawa kamu keliling rumah para hewan, bikin kamu serasa di alam liar langsung. Selain lihat hewan, ada juga pertunjukan seru yang bikin liburan makin asyik. Cek [artikel lengkapnya di sini](/blog/bali-safari-night-stay/)
+Bali Safari & Marine Park punya mobil petualangan safari yang bakal bawa kamu keliling rumah para hewan, bikin kamu serasa di alam liar langsung. Selain lihat hewan, ada juga pertunjukan seru yang bikin liburan makin asyik. Cek [artikel lengkapnya di sini](/id/blog/bali-safari-night-stay/)
 
 > [Menginap di Kebun Binatang](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685834&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_C8XvDnkesQoxGBlu4LbZnORqDwMdeB883gTvkWpsmOQTwREw58Hwae6It1_XFBfsDHQoZwEDLoYuRFSwzg7HrneYKRsaNjP2HvmrE-Oc47GBkOsDIdIKxUXsB0539ExROsTBzzOG4xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsUyMzPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebdhPncnNqu9yAGJcb18Y-YmGKjv3EwvCLhYnDuomVoYuVmeMU0yQg2ai9i5XD38MpMCxI1_ACa5uelLyhgYGBqaGxqamuQaKlhbGpibmuiaWJkZmZrrGJsYmpRsP-vReeGBtZS0EiX4FRSzA-xNPTxbCkMNWssNQyp6jA1IDxFKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbpZujuYVjlA0Xs6dLkOAHvefb260t7aWYQ8JdFD8sP-Zt3nnaXgskZwiTC9zzOueEvfEC-0iYfBJrVYZuSHjGcbECxgZGpi5GbgFGD8YIxgogj3EVI8MGRsYdjP9hgPEVI8h0AAcWO6P7AgAA&masterhotelid_tracelogid=100051355-0a983547-494266-34345&detailFilters=17|1~17~1*31|685834~31~685834*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1440&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/PbKYpC56)
 
@@ -259,7 +259,7 @@ Pengen kunjungin satu tempat tapi bisa lihat dua dunia?
 
 2025 baru buka nih, 'Bali Marine Safari Park' bikin liburan keluarga kamu makin seru, darat dan laut semua kebagian! Satu tempat, dua keajaiban: eksplorasi laut, puas jalan-jalan di safari park, liburan keluarga langsung naik level 🚀
 
-Panduan lengkap 'Bali Marine Safari Park' [cek artikel kami](/blog/marine-safari-bali-guide/)
+Panduan lengkap 'Bali Marine Safari Park' [cek artikel kami](/id/blog/marine-safari-bali-guide/)
 
 ![Marine Safari Bali ( Peta: Tempat Hits di Sekitar Ubud)](https://images.gobaligo.id/vocus/vocus_ca1f0902f94caa16d3c871e271096227.png)
 
@@ -317,7 +317,7 @@ Buat kamu yang tertarik dengan pengalaman spiritual ini, bisa ikut [Klook一日�
 
 ![Taman Kunang-Kunang The Firefly Garden（ Peta: Tempat Wisata ](https://images.gobaligo.id/vocus/vocus_f390ebaed29268e4d1bc7c04e5e1a6e5.jpg)
 
-Nikmati pemandangan kunang-kunang yang beterbangan di bawah langit malam yang romantis 🌌, sambil mendukung konservasi dan pertanian organik 🌿. 👯‍♀️ Kalau kamu ke Ubud lain kali, jangan lupa atur pengalaman malam yang ajaib ini! Info lengkap ada di [sini](/blog/the-firefly-garden-ubud/)
+Nikmati pemandangan kunang-kunang yang beterbangan di bawah langit malam yang romantis 🌌, sambil mendukung konservasi dan pertanian organik 🌿. 👯‍♀️ Kalau kamu ke Ubud lain kali, jangan lupa atur pengalaman malam yang ajaib ini! Info lengkap ada di [sini](/id/blog/the-firefly-garden-ubud/)
 
 > Paket tur sehari: [Tur Taman Kunang-Kunang, termasuk Sorotan Ubud dan Tur Kopi Kintamani](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1110614&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F148460-fireflies-garden-with-ubud-highlight-kintamani-cafe-tour%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Ded9d6d5bff)
 
@@ -327,7 +327,7 @@ Nikmati pemandangan kunang-kunang yang beterbangan di bawah langit malam yang ro
 
 Pengalaman malam imersif di Ubud, Bali, yang menggabungkan inovasi digital dan hiburan imersif. Dibuat oleh para ahli, perpaduan sempurna antara mitologi tradisional dan teknologi mutakhir. Jalur hutan sepanjang satu kilometer berubah menjadi dunia cahaya yang memukau, menceritakan legenda dewa cahaya dan dewa bayangan melalui teknologi proyeksi canggih.
 
-Di dalam area ada banyak spot foto keren, termasuk instalasi lampu yang memesona dan instalasi bulan raksasa yang ikonik. Tersedia juga penyewaan kostum dan layanan fotografi profesional. Cek [di sini](/blog/hikaria-ubud-light-show/) untuk artikel lengkap dan link tiket diskon.
+Di dalam area ada banyak spot foto keren, termasuk instalasi lampu yang memesona dan instalasi bulan raksasa yang ikonik. Tersedia juga penyewaan kostum dan layanan fotografi profesional. Cek [di sini](/id/blog/hikaria-ubud-light-show/) untuk artikel lengkap dan link tiket diskon.
 
 Pengalaman malam yang unik ini cocok buat semua usia, baik untuk kencan romantis maupun liburan keluarga. Di hutan ajaib yang diterangi cahaya malam, kamu bisa menikmati perpaduan cahaya, budaya, dan alam yang bikin perjalanan nggak terlupakan.
 
@@ -409,7 +409,7 @@ https://youtu.be/_Lvp9cIVYz8
 
 Di Ubud, bahkan main ayunan aja bisa jadi pengalaman yang super eksotis. Di beberapa tempat khusus di Ubud, kamu bakal nemuin berbagai ayunan unik dan didesain dengan cermat, digantung di antara pepohonan hijau atau menghadap pemandangan air yang memesona. Ayunan bukan cuma soal seru-seruan, tapi juga cara kece buat menikmati keindahan Ubud dengan tenang. Ayun aja sepuasnya, biar hati ikut bergoyang sama angin sepoi-sepoi, rasanya rileks dan nyaman banget.
 
-> [Aloha Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20061-aloha-ubud-swing-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db14b625403) （[Ada artikel khusus di sini](/blog/aloha-ubud-swing-guide/)）
+> [Aloha Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20061-aloha-ubud-swing-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db14b625403) （[Ada artikel khusus di sini](/id/blog/aloha-ubud-swing-guide/)）
 
 > [Bali Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20020-swing-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D57a4f3d075)
 
@@ -481,7 +481,7 @@ Gunung Batur nggak cuma buat sunrise doang lho — ada juga pilihan sunset yang 
 
 Pengalaman unik di Ubud! Jungle Cart nawarin petualangan balapan yang beda banget! Kamu bakal meluncur melewati hutan sakral Bali, sawah, pura, dan desa tradisional Bali (total sekitar 15-25 menit). Bukan cuma soal kecepatan dan tawa, tapi juga kesempatan buat merasakan keindahan alam dan budaya lokal.
 
-Mobil ini nggak pakai mesin, cuma andalkan tenaga gravitasi turunan — makanya disebut 'luge cart'. Biaya di website resmi Rp380.000, dan anak di bawah 14 tahun gratis kalau satu mobil dengan orang dewasa. Cocok banget buat quality time keluarga, seru abis! Mau kamu pecinta adrenalin atau pencinta alam, Jungle Cart kasih pengalaman yang beda dari biasanya. Cek review Jie [di sini](/blog/ubud-jungle-cart-adventure/)
+Mobil ini nggak pakai mesin, cuma andalkan tenaga gravitasi turunan — makanya disebut 'luge cart'. Biaya di website resmi Rp380.000, dan anak di bawah 14 tahun gratis kalau satu mobil dengan orang dewasa. Cocok banget buat quality time keluarga, seru abis! Mau kamu pecinta adrenalin atau pencinta alam, Jungle Cart kasih pengalaman yang beda dari biasanya. Cek review Jie [di sini](/id/blog/ubud-jungle-cart-adventure/)
 
 Salah satu cuplikan Jie main (atur ke kualitas tertinggi ya):
 
@@ -551,7 +551,7 @@ Kalau kamu mau ngerasain budaya tradisional Bali secara mendalam, pertunjukan di
 
 Pertunjukan penari dan musisi dimulai setiap Jumat malam pukul 19:30. Reservasi via WhatsApp: +6281936281721
 
-Kalau rombongannya besar, kamu juga bisa booking untuk belajar musik tradisional Bali, belajar tari Legong/Barong, lho! Cek [pengalaman langsung Xiao Jie](/blog/balerung-stage-cultural-show/).
+Kalau rombongannya besar, kamu juga bisa booking untuk belajar musik tradisional Bali, belajar tari Legong/Barong, lho! Cek [pengalaman langsung Xiao Jie](/id/blog/balerung-stage-cultural-show/).
 
 ### Tur Sepeda Listrik di Ubud
 
@@ -643,7 +643,7 @@ Omma Dayclub punya kolam renang, kursi berjemur, dan layanan pijat. Selain itu a
 
 Omma Dayclub menawarkan berbagai paket yang bikin kamu bisa nikmatin makanan dan minuman sambil lihat pemandangan air terjun. Cek detail lebih lengkap di website mereka ya.
 
-[> Pengenalan & Situs Resmi Omma Dayclub](/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+[> Pengenalan & Situs Resmi Omma Dayclub](/id/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 ### Wanna Jungle Pool & Bar (👉🏼 Peta: [Nikmati Pemandangan Alam](https://gobaligo.id/map/ubud/))
 
@@ -659,7 +659,7 @@ Wanna Jungle Pool & Bar adalah day club baru di Ubud yang terkenal dengan kolam 
 
 Cretya Ubud adalah day club mewah di kawasan Ubud dengan kolam renang tiga tingkat yang super khas. Letaknya di dalam Alas Harum yang udah disebut sebelumnya, menghadap ke sawah yang hijau subur dengan pemandangan yang bikin speechless.
 
-Cretya Ubud buka setiap hari dari jam 8 pagi sampai 9 malam. Cek juga panduan lengkapnya di «[Panduan Budget Cretya Ubud & Alas Harum](/blog/cretya-ubud-alas-harum-budget-guide/)».
+Cretya Ubud buka setiap hari dari jam 8 pagi sampai 9 malam. Cek juga panduan lengkapnya di «[Panduan Budget Cretya Ubud & Alas Harum](/id/blog/cretya-ubud-alas-harum-budget-guide/)».
 
 [> Paket Wisata](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89567-ubud-jungle-club-mount-batur-jeep-waterfall-tour-land-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2f260216ee)
 
@@ -825,7 +825,7 @@ Google rating 4.8 bintang. Nikmati berbagai pengalaman kuliner di Padma Resort U
 
 Setelah sukses besar dengan Cretya Ubud yang menyajikan pemandangan sawah terasering Tegalalang, grup Alas Harum meluncurkan karya baru—Cretya Sunset by Alas Harum, Ubud. Klub siang dan restoran di Ubud ini menggabungkan kemewahan, alam, dan hiburan, dilengkapi kolam renang tanpa batas, area santai yang stylish, serta desain perpaduan modern dan tradisional Bali. Kamu bisa menikmati hidangan lezat dan koktail sambil tenggelam dalam pemandangan matahari terbenam dan sawah terasering yang memukau.
 
-Cretya Sunset terletak di tengah sawah hijau subur Ubud, dengan posisi menghadap ke barat yang menjadikannya spot sempurna untuk menikmati matahari terbenam. Setiap sore, ditemani musik DJ live, kamu bisa bersantai dan merasakan pesona alam dan budaya Bali. Mau menikmati pemandangan dengan tenang atau merasakan suasana ramai, tempat ini wajib banget dikunjungi. Info lebih lanjut ada di [sini](/blog/cretya-sunset-ubud-paradise/).
+Cretya Sunset terletak di tengah sawah hijau subur Ubud, dengan posisi menghadap ke barat yang menjadikannya spot sempurna untuk menikmati matahari terbenam. Setiap sore, ditemani musik DJ live, kamu bisa bersantai dan merasakan pesona alam dan budaya Bali. Mau menikmati pemandangan dengan tenang atau merasakan suasana ramai, tempat ini wajib banget dikunjungi. Info lebih lanjut ada di [sini](/id/blog/cretya-sunset-ubud-paradise/).
 
 > Cretya Sunset ▶ [Kupon Klook Rp62.500](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989669&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F78117-ubudsunset-pass-poolbar-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D09b568e351)
 
@@ -867,7 +867,7 @@ Tempat ini bukan hanya surga kuliner, tapi juga ruang seni alam yang imersif. St
 
 Di tengah sungai koi yang tenang di resor Kamandalu, nikmati pengalaman makan malam unik di atas perahu bersama orang tersayang. Kalian berdua naik perahu kayu tradisional, dikelilingi taman tropis hijau, dengan koi warna-warni berenang di air jernih—menciptakan pemandangan romantis yang luar biasa. Koki resor menyiapkan paket makan malam bintang lima yang mewah, menggunakan bahan segar musiman, memadukan cita rasa tradisional Indonesia dengan teknik internasional, dilengkapi dengan sparkling wine dan minuman khas—memanjakan lidah dan mata secara bersamaan.
 
-Tim fotografer profesional bakal mengabadikan momen berharga ini tanpa perlu kamu repot-repot pose. Ekspresi bahagia yang natural bakal jadi kenangan abadi. Mau untuk bulan madu, anniversary, atau sekadar bikin kejutan buat pasangan, pengalaman 60 menit yang dreamy ini bakal jadi kenangan paling berkesan selama liburan di Bali. Ada [info selengkapnya](/blog/kamandalu-ubud-koi-river-dining/).
+Tim fotografer profesional bakal mengabadikan momen berharga ini tanpa perlu kamu repot-repot pose. Ekspresi bahagia yang natural bakal jadi kenangan abadi. Mau untuk bulan madu, anniversary, atau sekadar bikin kejutan buat pasangan, pengalaman 60 menit yang dreamy ini bakal jadi kenangan paling berkesan selama liburan di Bali. Ada [info selengkapnya](/id/blog/kamandalu-ubud-koi-river-dining/).
 
 > [Diskon Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1061065&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F136296-dining-experience-at-kamandalu-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Debd9e9bd14)
 
@@ -903,7 +903,7 @@ Kuliner di Ubud tuh seru banget, bukan cuma masakan tradisional Indonesia, tapi 
 
 ![Nikmati Makanan Lokal yang Enak dan Terjangkau](https://images.gobaligo.id/vocus/vocus_4182aca9b5cf1fe4d85278c159021273.jpg)
 
-Ke Bali ya wajib cobain makanan lokal! Penasaran apa aja makanan khas Bali? Simak artikel '**[10 Makanan Khas Bali yang Wajib Dicoba](/blog/bali-travel-tips/)**' dari Jie — ini bakal jadi petualangan rasa yang seru.
+Ke Bali ya wajib cobain makanan lokal! Penasaran apa aja makanan khas Bali? Simak artikel '**[10 Makanan Khas Bali yang Wajib Dicoba](/id/blog/bali-travel-tips/)**' dari Jie — ini bakal jadi petualangan rasa yang seru.
 
 ***
 
@@ -925,9 +925,9 @@ Uniknya, pura air di Bali ini juga tercetak di uang kertas Indonesia, tepatnya d
 
 ![12家景觀咖啡廳介紹](https://images.gobaligo.id/vocus/vocus_075571a329c945f6dd5e23eecb659683.jpg)
 
-[[Pengenalan 12 Kafe Pemandangan](/blog/kintamani-volcano-cafes-restaurants/)
+[[Pengenalan 12 Kafe Pemandangan](/id/blog/kintamani-volcano-cafes-restaurants/)
 
-Kawasan Kintamani terkenal dengan pemandangan Gunung Batur dan Danau Kintamani yang megah, jadi tempat tinggi yang super indah di Bali. Udara sejuk dan panorama keren bikin Kintamani jadi spot paling oke buat ngopi dan santai! Berikut 12 kafe pemandangan yang wajib kamu coba, masing-masing punya pesona dan menu andalan sendiri. Klik [di sini](/blog/kintamani-volcano-cafes-restaurants/) buat lihat!
+Kawasan Kintamani terkenal dengan pemandangan Gunung Batur dan Danau Kintamani yang megah, jadi tempat tinggi yang super indah di Bali. Udara sejuk dan panorama keren bikin Kintamani jadi spot paling oke buat ngopi dan santai! Berikut 12 kafe pemandangan yang wajib kamu coba, masing-masing punya pesona dan menu andalan sendiri. Klik [di sini](/id/blog/kintamani-volcano-cafes-restaurants/) buat lihat!
 
 ### Toya Devasya Waterpark Pemandian Air Panas (👉🏼 Peta: [Tempat Wisata di Sekitar Ubud](https://gobaligo.id/map/ubud/))
 
@@ -997,7 +997,7 @@ Hidden gem baru Lahangan Sweet, yuk kita buruan ambil foto-foto estetik!
 
 Spot hits IG ini bikin kamu bisa lihat Gunung Agung yang sakral dari dekat tanpa halangan, nikmatin pemandangan gunung 360 derajat yang juara, dan yang paling penting — nggak perlu berdesakan sama turis lain! 😍
 
-Penasaran gimana caranya dapetin foto secantik 'Gerbang Surga'? Berapa tiket masuknya? Gimana cara sewa fotografer profesional? Cek detail lengkapnya di sini: «[Lahangan Sweet — Spot Pemandangan Gunung Agung yang Kece Abis](/blog/lahangan-sweet-volcano-view/) 🌄»
+Penasaran gimana caranya dapetin foto secantik 'Gerbang Surga'? Berapa tiket masuknya? Gimana cara sewa fotografer profesional? Cek detail lengkapnya di sini: «[Lahangan Sweet — Spot Pemandangan Gunung Agung yang Kece Abis](/id/blog/lahangan-sweet-volcano-view/) 🌄»
 
 ***
 
@@ -1047,39 +1047,39 @@ Selain itu, kami juga punya lima rekomendasi akomodasi tematik di Ubud lainnya, 
 
 ![烏布最具特色的28家住宿推薦](https://images.gobaligo.id/vocus/vocus_8092290c2bac6096557c0e32556c5b0c.jpg)
 
-[28 Rekomendasi Penginapan Paling Unik di Ubud](/blog/ubud-villas-pool-guide/)
+[28 Rekomendasi Penginapan Paling Unik di Ubud](/id/blog/ubud-villas-pool-guide/)
 
-> [【Akomodasi Ubud Bali】30+ Penginapan Unik di Ubud, Nikmati Petualangan Seru di Tengah Pemandangan Alam Pegunungan Bali!](/blog/ubud-villas-pool-guide/)
+> [【Akomodasi Ubud Bali】30+ Penginapan Unik di Ubud, Nikmati Petualangan Seru di Tengah Pemandangan Alam Pegunungan Bali!](/id/blog/ubud-villas-pool-guide/)
 
 ### Bamboo Villa
 
 ![10家bamboo villa推薦](https://images.gobaligo.id/vocus/vocus_b96e9d765ccf52dae074554359f07d08.png)
 
-10 [rekomendasi bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)
+10 [rekomendasi bamboo villa](/id/blog/ubud-treehouse-bamboo-villa-stays/)
 
-> [Jelajahi 10 tree house / bamboo villa di Ubud yang bikin kamu speechless](/blog/ubud-treehouse-bamboo-villa-stays/)
+> [Jelajahi 10 tree house / bamboo villa di Ubud yang bikin kamu speechless](/id/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ### Villa kolam renang pribadi di Ubud
 
 ![18間烏布私人泳池別墅推薦](https://images.gobaligo.id/vocus/vocus_8ed3633db6e0cf72382b29c543916d60.jpg)
 
-20+ [rekomendasi villa kolam renang pribadi di Ubud](/blog/ubud-villa-pool-guide/)
+20+ [rekomendasi villa kolam renang pribadi di Ubud](/id/blog/ubud-villa-pool-guide/)
 
-> [【Rekomendasi Penginapan Ubud】Surga Privat Villa Kolam Renang: 20+ Villa Bali yang Bikin Tercengang](/blog/ubud-villa-pool-guide/)
+> [【Rekomendasi Penginapan Ubud】Surga Privat Villa Kolam Renang: 20+ Villa Bali yang Bikin Tercengang](/id/blog/ubud-villa-pool-guide/)
 
 ### Hotel / Resort dengan kelas yoga
 
 ![烏布瑜伽住宿推薦](https://images.gobaligo.id/vocus/vocus_f608b6fd11e1f970775f39493357f0b1.jpg)
 
-[Rekomendasi penginapan yoga di Ubud](/blog/ubud-yoga-retreats-bali/)
+[Rekomendasi penginapan yoga di Ubud](/id/blog/ubud-yoga-retreats-bali/)
 
-> [Rekomendasi Penginapan Yoga di Ubud: 10 Pilihan Impian yang Gabungin Kelas Yoga dan Relaksasi Jiwa](/blog/ubud-yoga-retreats-bali/)
+> [Rekomendasi Penginapan Yoga di Ubud: 10 Pilihan Impian yang Gabungin Kelas Yoga dan Relaksasi Jiwa](/id/blog/ubud-yoga-retreats-bali/)
 
 ### Lokasi camping
 
 ![Lokasi camping](https://images.gobaligo.id/vocus/vocus_aa2e5903772efc3eb6c62e1a5eb3ec46.jpg)
 
-Glamping baru buka 2025 Toya Ubud, mulai dari USD$19 per malam. Cek [info lengkapnya](/blog/toya-ubud-new-attraction/)
+Glamping baru buka 2025 Toya Ubud, mulai dari USD$19 per malam. Cek [info lengkapnya](/id/blog/toya-ubud-new-attraction/)
 
 {{block:klook}}
 

@@ -44,7 +44,7 @@ Selain jumlah kendaraan yang melonjak drastis, peningkatan truk dan kendaraan be
 
 Tapi, Sena bilang penyebab macet lainnya adalah bertambahnya jumlah kendaraan pribadi. Katanya, begitu musim hujan tiba, makin banyak turis yang milih naik mobil daripada motor biar nggak kehujanan.
 
-> Baca juga: [Kapan Musim Hujan di Bali Mulai?](/blog/bali-best-time-to-visit/)
+> Baca juga: [Kapan Musim Hujan di Bali Mulai?](/id/blog/bali-best-time-to-visit/)
 
 Usulan Sena buat membatasi truk masuk ke kawasan wisata dan pusat kota dianggap banyak orang sebagai langkah positif. Tapi, pelaku industri konstruksi mungkin bakal kurang setuju.
 
@@ -56,4 +56,4 @@ Seiring makin ramainya diskusi soal macet di Bali, turis perlu tahu kalau polisi
 
 Polisi juga bakal tilang pengendara yang langgar aturan kayak nggak pakai helm, ngebut, atau pakaian yang nggak sesuai buat naik motor. Razia ini udah mulai di Canggu dan bakal diperluas ke Kuta Utara dalam beberapa minggu ke depan.
 
-Sementara itu, proyek kereta bandara Bali bakal mulai konstruksi September tahun ini (cek [【Salah Satu Rencana Perbaikan Transportasi Bali】Kereta Ringan Bali Mulai Dibangun September](/blog/bali-lrt-construction-update/)). Pemerintah udah ngasih peringatan kalau kawasan Kuta dan Seminyak bakal macet parah.
+Sementara itu, proyek kereta bandara Bali bakal mulai konstruksi September tahun ini (cek [【Salah Satu Rencana Perbaikan Transportasi Bali】Kereta Ringan Bali Mulai Dibangun September](/id/blog/bali-lrt-construction-update/)). Pemerintah udah ngasih peringatan kalau kawasan Kuta dan Seminyak bakal macet parah.

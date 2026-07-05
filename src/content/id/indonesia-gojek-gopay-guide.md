@@ -27,7 +27,7 @@ _srcHash: 33ade627fa0ba0394c672affdac72f38
 ---
 Update: 2026/07/03
 
-[🚗 Mau estimasi tarif Gojek? Klik di sini](/map/gojek-fare/)
+[🚗 Mau estimasi tarif Gojek? Klik di sini](/id/map/gojek-fare/)
 
 **Intinya dulu**: Gojek adalah super app asli Indonesia, keunggulannya adalah **e-wallet GoPay udah built-in** (Grab perlu link OVO terpisah), panggil ojek, pesan makanan (GoFood), belanja & kirim barang (GoMart/GoSend) semua dalam satu App — cocok buat kamu yang bakal lama di Indonesia dan males install banyak app pembayaran; buat turis jangka pendek, antarmuka Grab lebih ramah buat kartu internasional. Berikut panduan lengkap registrasi, penggunaan, dan top up GoPay.
 
@@ -136,7 +136,7 @@ Pada dasarnya, **Gojek** dan **Grab** punya layanan yang hampir sama, sama-sama 
 
 Tenang aja! Kalau kamu kesulitan registrasi Gojek, bisa **daftar nanti pas udah sampai di lokasi**. Di Indonesia, kamu cukup download dulu **aplikasi Gojek**. Begitu tiba di Bali, pakai jaringan lokal dan SIM card lokal, registrasinya bakal lancar jaya.
 
-> Baca juga: [【Wajib Tahu Liburan ke Bali】Cara Urus SIM Card/Internet di Bali?](/blog/bali-sim-card-esim-roaming-guide/)
+> Baca juga: [【Wajib Tahu Liburan ke Bali】Cara Urus SIM Card/Internet di Bali?](/id/blog/bali-sim-card-esim-roaming-guide/)
 
 ## **Gimana cara nanya ke toko apakah bisa bayar pakai GoPay?**
 

@@ -29,9 +29,9 @@ _srcHash: aae8f3a0aaad627003b586be2196f3a2
 
 延伸阅读：
 
-> [2024年印尼国定假日&巴厘岛节庆完整指南：精彩活动日期一览！](/blog/2024-bali-festival-calendar/)
+> [2024年印尼国定假日&巴厘岛节庆完整指南：精彩活动日期一览！](/zh-cn/blog/2024-bali-festival-calendar/)
 
-> [如何劳动节（5/1）连休九天？](/blog/2024-bali-trip-planning-guide/)
+> [如何劳动节（5/1）连休九天？](/zh-cn/blog/2024-bali-trip-planning-guide/)
 
 ## 巴厘岛灵性节的独特之处
 
@@ -89,9 +89,9 @@ _srcHash: aae8f3a0aaad627003b586be2196f3a2
 
 在节日期间，乌布地区的住宿可能会很拥挤，请提前安排好住宿。
 
-> [【巴厘岛乌布住宿】乌布21家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/blog/ubud-villas-pool-guide/)
+> [【巴厘岛乌布住宿】乌布21家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/zh-cn/blog/ubud-villas-pool-guide/)
 
-> [探索乌布8家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)
+> [探索乌布8家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/zh-cn/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ### 3. 准备行囊
 
@@ -127,10 +127,10 @@ Bali Spirit Festival官网：<https://www.balispiritfestival.com/>
 
 ## 延伸阅读
 
-> [巴厘岛攻略之认识巴厘岛区域: 巴厘岛住宿推荐指南 - 认识库塔 水明漾 坎古 乌布](/blog/2023-12-29-65839fbafd89780001e876b5/)
+> [巴厘岛攻略之认识巴厘岛区域: 巴厘岛住宿推荐指南 - 认识库塔 水明漾 坎古 乌布](/zh-cn/blog/2023-12-29-65839fbafd89780001e876b5/)
 
-> [2024巴厘岛乌布完整攻略：50种深入认识乌布的方式｜探索乌布的魅力](/blog/ubud-guide/)
+> [2024巴厘岛乌布完整攻略：50种深入认识乌布的方式｜探索乌布的魅力](/zh-cn/blog/ubud-guide/)
 
-> [巴厘岛家庭亲子旅游活动精选攻略：乌布53项亲子活动带小朋友最轻松！](/blog/ubud-with-kids-guide/)
+> [巴厘岛家庭亲子旅游活动精选攻略：乌布53项亲子活动带小朋友最轻松！](/zh-cn/blog/ubud-with-kids-guide/)
 
-> [乌布四天旅游计划 猴子森林/乌布市场/陶艺教室/Alas Harum](/blog/ubud-monkey-forest-market-pottery-alas-harum/)
+> [乌布四天旅游计划 猴子森林/乌布市场/陶艺教室/Alas Harum](/zh-cn/blog/ubud-monkey-forest-market-pottery-alas-harum/)

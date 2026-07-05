@@ -76,13 +76,13 @@ Each hotel offers unique New Year's Eve events and deals, ranging from luxurious
 
 ![Party Time](https://images.gobaligo.id/vocus/vocus_700d8e5ab02bc66cfc6e9213e960bc2d.png)
 
-If you're a party enthusiast, you can't miss Bali's beach clubs, where New Year's Eve celebrations are in full swing. Dive into the festivities at these top clubs. 👉 [[Click here for Bali's top beach club recommendations](/blog/bali-beach-clubs-free-entry-list/)]
+If you're a party enthusiast, you can't miss Bali's beach clubs, where New Year's Eve celebrations are in full swing. Dive into the festivities at these top clubs. 👉 [[Click here for Bali's top beach club recommendations](/en/blog/bali-beach-clubs-free-entry-list/)]
 
 ## 🔥 How to Prepare in Advance 🔥
 
 Bali's New Year's Eve is a peak travel season, so it's advisable to book your flights and accommodations early to avoid missing out on ideal options. Some popular locations, such as previously free beach clubs, may charge entrance fees, so remember to make reservations in advance to ensure you can participate in these exciting activities.
 
-**Further Reading:** [**Bali Actually Has Five Peak Travel Seasons! How to Travel Smartly and Avoid the Crowds?**](/blog/bali-peak-season-travel-tips/)
+**Further Reading:** [**Bali Actually Has Five Peak Travel Seasons! How to Travel Smartly and Avoid the Crowds?**](/en/blog/bali-peak-season-travel-tips/)
 
 Whether you're a party animal or a traveler who enjoys a leisurely celebration, Bali's 2025 New Year's Eve events will create unforgettable memories for you! Hurry and book your trip to welcome the arrival of the new year! 🎇🌴
 

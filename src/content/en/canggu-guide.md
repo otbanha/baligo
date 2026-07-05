@@ -66,7 +66,7 @@ The beach area in Canggu offers many charming restaurants, especially during sun
 
 ![Immerse Yourself in Beach Club Fun ( Map: Must-Visit Spots i](https://images.gobaligo.id/vocus/vocus_3a943928e41a400088025840e732cf37.jpg)
 
-Canggu is renowned for its trendy and modern beach clubs, where music, food, and pools combine to create an unforgettable atmosphere. Atlas Beach Fest, Finns Beach Club, Cafe del Mar, and [La Brisa, hailed as Bali's most beautiful restaurant](/blog/canggu-la-brisa-restaurant-guide/), are ideal spots to enjoy cocktails, watch the sunset, and participate in various fun activities.
+Canggu is renowned for its trendy and modern beach clubs, where music, food, and pools combine to create an unforgettable atmosphere. Atlas Beach Fest, Finns Beach Club, Cafe del Mar, and [La Brisa, hailed as Bali's most beautiful restaurant](/en/blog/canggu-la-brisa-restaurant-guide/), are ideal spots to enjoy cocktails, watch the sunset, and participate in various fun activities.
 
 > Atlas Beach Fest, Asia's Largest Beach Club [Discounted Admission](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80472-atlas-beach-club-admission-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad7b2e5830)
 
@@ -160,7 +160,7 @@ Dining in Canggu is not just a treat for your taste buds but also a cultural and
 
 ![Visit Tanah Lot Temple（Map:Must-Visit Spots in Canggu）](https://images.gobaligo.id/vocus/vocus_27727cc971e3c80e5832f4bb4398567c.jpg)
 
-Not far north of Canggu, you absolutely cannot miss the ancient and sacred site of Tanah Lot Temple (Pura Tanah Lot). This temple is built on a massive rock by the coast and is one of Bali's most famous seaside temples. At sunset, the view of the temple is particularly spectacular, with the golden sunlight illuminating the structure, creating an incredible scene. Beyond the stunning views, you can also feel the deep-rooted local religious culture, making this a spiritually and historically significant visit. For more details about Tanah Lot Temple and visiting tips, [click here](/blog/bali-tanah-lot-guide/).
+Not far north of Canggu, you absolutely cannot miss the ancient and sacred site of Tanah Lot Temple (Pura Tanah Lot). This temple is built on a massive rock by the coast and is one of Bali's most famous seaside temples. At sunset, the view of the temple is particularly spectacular, with the golden sunlight illuminating the structure, creating an incredible scene. Beyond the stunning views, you can also feel the deep-rooted local religious culture, making this a spiritually and historically significant visit. For more details about Tanah Lot Temple and visiting tips, [click here](/en/blog/bali-tanah-lot-guide/).
 
 > [Private Transfer to Tanah Lot Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772665&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F152-tanah-lot-sunset-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D25157e7304)
 
@@ -224,13 +224,13 @@ Check out our 'Canggu Food Guide Map' featuring over 30 restaurants and cafes - 
 
 ### Mr. Lobster Canggu
 
-A budget-friendly seafood restaurant run by Taiwanese, offering fresh and authentic dishes. Highly popular, it often provides special deals for group members. Highly recommended for seafood lovers! Here's the [contact information](/blog/mr-lobster-seafood-restaurant-bali/) and address. It's advisable to make a reservation with Mr. Hsu in advance!
+A budget-friendly seafood restaurant run by Taiwanese, offering fresh and authentic dishes. Highly popular, it often provides special deals for group members. Highly recommended for seafood lovers! Here's the [contact information](/en/blog/mr-lobster-seafood-restaurant-bali/) and address. It's advisable to make a reservation with Mr. Hsu in advance!
 
 ### **Savor Delicious and Affordable Local Cuisine**
 
 ![Savor Delicious and Affordable Local Cuisine](https://images.gobaligo.id/vocus/vocus_47ffeccd5dfebdb63eca42f57f2f7695.jpg)
 
-When in Bali, you must try the local cuisine! What are some must-try local dishes in Bali? Check out Jay's guide to the "[Top 10 Local Foods in Bali](/blog/bali-travel-tips/)" for a culinary adventure.
+When in Bali, you must try the local cuisine! What are some must-try local dishes in Bali? Check out Jay's guide to the "[Top 10 Local Foods in Bali](/en/blog/bali-travel-tips/)" for a culinary adventure.
 
 ## The Wheel Ferris Wheel**（👉🏼Map: **[Must-Visit Spots in Canggu](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
 
@@ -268,7 +268,7 @@ Bali is a paradise for spa lovers, and Canggu is home to some high-quality spa c
 
 ![1.Mookiland Park Bali](https://images.gobaligo.id/vocus/vocus_90b45ff0d624893de0fb9692de75864d.jpg)
 
-Mookiland Park is a family-oriented playground spanning 5,000 square meters. It offers a variety of attractions, including climbing walls, obstacle courses, and inflatable castles, ensuring every child finds something to enjoy. These facilities not only help kids burn off energy but also provide endless fun. For detailed information and discounted tickets, [click here](/blog/mookiland-park-bali-family/).
+Mookiland Park is a family-oriented playground spanning 5,000 square meters. It offers a variety of attractions, including climbing walls, obstacle courses, and inflatable castles, ensuring every child finds something to enjoy. These facilities not only help kids burn off energy but also provide endless fun. For detailed information and discounted tickets, [click here](/en/blog/mookiland-park-bali-family/).
 
 ### 2.Mai Main Playground
 
@@ -300,13 +300,13 @@ Bali's newest attraction in Canggu—**Aurora Media Park Bali**—is a groundbre
 
 Aurora Park is not just a nighttime attraction but an immersive space blending art, nature, and technology, perfect for adventurous explorers seeking unique experiences. Whether it’s the glowing bamboo lanterns, spiral sundials, or the enchanting interactions of the crystal oasis, every detail will leave you captivated.
 
-For a detailed introduction, check out [here](/blog/aurora-media-park-canggu/)
+For a detailed introduction, check out [here](/en/blog/aurora-media-park-canggu/)
 
 ### 5. Pacha Alpaca Alpaca Interaction Experience
 
 If you’re looking for a family-friendly attraction in Bali, the **Pacha Alpaca Alpaca Interaction Experience** in Canggu is an ideal choice! Here, children can get up close with gentle and adorable alpacas while learning about them through guided tours and staff explanations, making it an educational and nature-filled journey. Parents can join their kids in feeding, petting the alpacas, or even participate in picnics and photography sessions, creating unforgettable family memories.
 
-Pacha Alpaca offers various ticket options, including guided interactions, alpaca photography, picnic experiences, and bamboo house stays, catering to different family needs. Whether you want to relax or let your kids explore nature to their heart’s content, this place promises a healing and joyful adventure. Book your exclusive experience now and spend a wonderful time with the alpacas! For detailed info and official booking links, check out [here](/blog/pacha-alpaca-family-canggu/).
+Pacha Alpaca offers various ticket options, including guided interactions, alpaca photography, picnic experiences, and bamboo house stays, catering to different family needs. Whether you want to relax or let your kids explore nature to their heart’s content, this place promises a healing and joyful adventure. Book your exclusive experience now and spend a wonderful time with the alpacas! For detailed info and official booking links, check out [here](/en/blog/pacha-alpaca-family-canggu/).
 
 ## Newly Opened Beach/Pool Clubs in 2024 **（👉🏼Map:** [Must-Visit Spots in Canggu](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
 
@@ -344,15 +344,15 @@ Booking website: <https://le-bajo.com/>
 
 Located north of Canggu, Nuanu Creative City is an emerging complex that blends creativity, culture, art, sustainability, and nature.
 
-In addition to the latest luxury beach club opening in 2024, there are numerous family-friendly attractions and large-scale performances combining technology and traditional magic. Continue reading the Nuanu Creative City guide [here](/blog/nuanu-creative-city-luna-guide/)
+In addition to the latest luxury beach club opening in 2024, there are numerous family-friendly attractions and large-scale performances combining technology and traditional magic. Continue reading the Nuanu Creative City guide [here](/en/blog/nuanu-creative-city-luna-guide/)
 
 ## **Indulge in Luxurious Bohemian-Style Hotels**
 
 ![Indulge in Luxurious Bohemian-Style Hotels](https://images.gobaligo.id/vocus/vocus_ca9b675b21d67d71df79f31c8982155b.jpg)
 
-The Canggu area offers a wide variety of hotels, with Bohemian-style accommodations being the most unique. These hotels are renowned for their distinctive designs, exquisite decor, and relaxing atmosphere, providing you with an extraordinary stay. Whether you prefer nostalgic charm or modern chic, you'll find a Bohemian-style hotel that suits your taste. Check out our "[Canggu Top Hotels Guide](/blog/canggu-top-hotels-guide/)"
+The Canggu area offers a wide variety of hotels, with Bohemian-style accommodations being the most unique. These hotels are renowned for their distinctive designs, exquisite decor, and relaxing atmosphere, providing you with an extraordinary stay. Whether you prefer nostalgic charm or modern chic, you'll find a Bohemian-style hotel that suits your taste. Check out our "[Canggu Top Hotels Guide](/en/blog/canggu-top-hotels-guide/)"
 
-If you prefer villas, don't miss this article: "[Canggu Private Pool Villa Recommendations: Bali Villas You Can't Miss](/blog/canggu-villas-guide/)"
+If you prefer villas, don't miss this article: "[Canggu Private Pool Villa Recommendations: Bali Villas You Can't Miss](/en/blog/canggu-villas-guide/)"
 
 {{block:住宿}}
 

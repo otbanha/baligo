@@ -47,7 +47,7 @@ Pesona Bali nggak cuma buat pasangan yang lagi bulan madu aja, lho. Destinasi in
 
 ![「烏魯瓦圖攻略」點我](https://images.gobaligo.id/vocus/vocus_243351590f43aa1d22bedb1c643866c0.jpg)
 
-[「Panduan Uluwatu」Klik di sini](/blog/uluwatu-guide/)
+[「Panduan Uluwatu」Klik di sini](/id/blog/uluwatu-guide/)
 
 Uluwatu terletak di ujung selatan Bali, terkenal dengan tebing-tebingnya yang megah dan pemandangan laut yang nggak terbatas—tempat yang super romantis banget di hati banyak pasangan. Dari Pura Uluwatu (Uluwatu Temple), kamu bisa menikmati pemandangan Samudra Hindia yang spektakuler, apalagi pas matahari terbenam, sinar keemasan menyelimuti seluruh permukaan laut, menciptakan suasana romantis yang bikin napas tertahan. Nggak cuma itu, pertunjukan Tari Kecak (Kecak Dance) di sini juga menambah warna budaya dalam perjalanan pasangan, bikin kamu bisa merasakan tradisi Bali yang dalam sambil menikmati pemandangan indah. Entah itu bersantai dengan makan malam lilin di tepi tebing, atau menjelajahi pantai-pantai tersembunyi di sekitarnya, Uluwatu pasti kasih kenangan yang beda buat pasangan.
 
@@ -55,7 +55,7 @@ Uluwatu terletak di ujung selatan Bali, terkenal dengan tebing-tebingnya yang me
 
 ![「烏布攻略」點我](https://images.gobaligo.id/vocus/vocus_fb67e6538b904e372bb5cc023239468e.jpg)
 
-[「Panduan Ubud」Klik di sini](/blog/ubud-guide/)
+[「Panduan Ubud」Klik di sini](/id/blog/ubud-guide/)
 
 Sebagai jantung budaya Bali, Ubud memikat banyak pelancong yang mencari romantisme dengan pemandangan sawah yang tenang dan atmosfer seni yang kental. Saat menyusuri jalur setapak di antara sawah Ubud, hamparan hijau dan jalan kecil yang berkelok menciptakan pemandangan indah bak lukisan — cocok banget buat pasangan yang ingin melambatkan langkah dan menikmati waktu berdua. Selain itu, di sekitar Ubud juga tersembunyi banyak air terjun memesona, seperti Tegenungan Waterfall dan Kanto Lampo Waterfall. Keajaiban alam ini wajib banget kamu kunjungi saat eksplorasi Ubud.
 
@@ -65,7 +65,7 @@ Ubud juga populer karena pengalaman budayanya yang kaya, mulai dari mengunjungi 
 
 ![「Canggu攻略」點我](https://images.gobaligo.id/vocus/vocus_9e38a3ae92fbbd703b24a157364b2380.jpg)
 
-[「Panduan Canggu」Klik di sini](/blog/canggu-guide/)
+[「Panduan Canggu」Klik di sini](/id/blog/canggu-guide/)
 
 Canggu adalah salah satu kawasan paling populer di Bali belakangan ini, menarik banyak pasangan dengan nuansa bohemian yang khas dan gaya hidup santai yang nyaman. Pantai-pantai di sini, seperti Batu Bolong dan Echo Beach, bukan cuma tempat terbaik buat menikmati ombak dan matahari terbenam, tapi juga cocok banget buat pasangan yang mau coba surfing bareng — rasain kebebasan dan pesona laut yang seru. Canggu juga terkenal dengan kafe-kafe artistik dan restoran butiknya. Tempat hits seperti La Brisa jadi pilihan utama buat berbagi hidangan lezat dan momen romantis. Saat malam, ditemani alunan musik live, nikmati koktail buatan tangan — suasana santai tapi hangat ini bikin setiap pasangan bisa menemukan momen romantis mereka sendiri di Canggu.
 
@@ -73,7 +73,7 @@ Canggu adalah salah satu kawasan paling populer di Bali belakangan ini, menarik 
 
 ![「金巴蘭攻略」點我](https://images.gobaligo.id/vocus/vocus_2439a1dd7478d5ed6b3661cd65410ab3.jpg)
 
-[「Panduan Jimbaran」Klik di sini](/blog/jimbaran-guide/)
+[「Panduan Jimbaran」Klik di sini](/id/blog/jimbaran-guide/)
 
 Jimbaran terkenal dengan teluknya yang tenang dan makan malam lilin yang memesona — salah satu spot romantis paling klasik di Bali. Di Pantai Jimbaran, pasangan bisa bergandengan tangan menyusuri pasir putih yang lembut, sambil menikmati pemandangan matahari terbenam yang tenggelam ke laut dengan warna merah keemasan. Saat malam tiba, Jimbaran makin populer berkat seafood panggangnya. Banyak restoran tepi pantai yang menyajikan seafood segar dengan cita rasa khas Bali — makan malam di bawah bintang-bintang ditemani deburan ombak, suasananya romantis banget, nggak ada duanya. Selain itu, Jimbaran juga punya banyak resor mewah seperti Four Seasons dan The St. Regis Bali, yang menawarkan vila pribadi kelas atas dan kolam renang tanpa batas — bikin pasangan benar-benar tenggelam dalam surga cinta ini.
 
@@ -100,7 +100,7 @@ Nggak cuma di World Travel Awards, di TripAdvisor Travelers' Choice Awards 2024,
 
 ![「藍夢島攻略」點我](https://images.gobaligo.id/vocus/vocus_6ce3bfe714aa0a73ab4701ed7421ca83.jpg)
 
-[Klik di sini untuk panduan Nusa Lembongan](/blog/nusa-lembongan-ceningan-guide/)
+[Klik di sini untuk panduan Nusa Lembongan](/id/blog/nusa-lembongan-ceningan-guide/)
 
 Dibandingkan Nusa Penida yang lebih ramai, Nusa Lembongan menawarkan suasana yang lebih tenang dan privat — cocok banget buat jalan santai sambil menikmati pemandangan alam. Air lautnya biru jernih, pasirnya putih bersih. Pasangan bisa bergandengan tangan menyusuri pantai yang damai, atau eksplorasi terumbu karang tersembunyi dan Blue Lagoon. Selain itu, sewa motor kecil buat keliling pulau sambil menikmati pemandangan pedesaan Nusa Lembongan juga pilihan yang oke banget. Kedamaian dan kemurnian Nusa Lembongan bikin pasangan serasa punya surga pribadi yang jauh dari hiruk-pikuk, bikin cinta bersinar di tengah alam.
 
@@ -108,7 +108,7 @@ Dibandingkan Nusa Penida yang lebih ramai, Nusa Lembongan menawarkan suasana yan
 
 ![「烏布攻略」點我](https://images.gobaligo.id/vocus/vocus_cc198c91d024660bc6cc110912c1aa13.jpg)
 
-[「Panduan Ubud」Klik di sini](/blog/ubud-guide/)
+[「Panduan Ubud」Klik di sini](/id/blog/ubud-guide/)
 
 Ikut ritual penyucian air tradisional di Pura Tirta Empul, Ubud, nggak cuma bikin hati dan pikiran bersih, tapi juga bisa bikin pasangan saling mengikat janji cinta lagi. Ritual ini punya makna religius dan budaya yang dalam di Bali. Peserta wajib pakai kain sarung tradisional, lalu mandi di air suci alami yang melambangkan pembersihan dari beban dan energi negatif. Lewat Melukat, pasangan bisa mencapai hubungan batin yang lebih dalam dan kasih sayang makin segar. Setelah ritual, kamu juga bisa jalan-jalan di jalur hutan sekitar, nikmatin ketenangan dan harmoni alam.
 
@@ -116,7 +116,7 @@ Ikut ritual penyucian air tradisional di Pura Tirta Empul, Ubud, nggak cuma biki
 
 ![「烏布提供花浴的住宿」點我](https://images.gobaligo.id/vocus/vocus_b8386fc6fe646729320b36ae859d600b.jpg)
 
-[「Penginapan dengan flower bath di Ubud」Klik di sini](/blog/ubud-villas-pool-guide/)
+[「Penginapan dengan flower bath di Ubud」Klik di sini](/id/blog/ubud-villas-pool-guide/)
 
 Ubud terkenal banget sama budaya yang kental dan pemandangan alam yang memukau. Nah, mandi bunga romantis di tengah hutan rahasia ini wajib banget dicoba pasangan. Di resort-resort mewah yang tersembunyi di antara hutan hujan, banyak yang nawarin layanan mandi bunga spesial. Kamu dan pasangan bisa bersantai di bak mandi penuh kelopak bunga wangi, sambil ngerasain relaksasi dan manisnya cinta. Bak mandinya biasanya outdoor dengan pemandangan hutan, ditemani suara gemericik sungai dan kicauan burung, bikin suasana jadi puitis banget.
 
@@ -126,7 +126,7 @@ Mandi bunga bukan cuma pengalaman mewah buat indra, tapi juga semacam ritual int
 
 ![「峇里島東部三大景點」點我](https://images.gobaligo.id/vocus/vocus_dfcc16b23b9023568c0f9108cfc4101a.jpg)
 
-[「Tiga Destinasi Wisata di Bali Timur」Klik di sini](/blog/bali-east-tour-guide/)
+[「Tiga Destinasi Wisata di Bali Timur」Klik di sini](/id/blog/bali-east-tour-guide/)
 
 Istana air di daerah Karangasem, kayak Tirta Gangga dan Taman Ujung, termasuk bangunan bersejarah paling romantis di Bali. Istana-istana ini menggabungkan arsitektur Bali dan Eropa, punya air mancur cantik, kolam, dan taman yang rapi. Tempat ini jadi spot foto impian buat pasangan. Tirta Gangga terkenal dengan kolam air hijau kebiruan dan suasananya yang sakral, sementara Taman Ujung punya pemandangan laut yang megah. Jalan-jalan di istana air ini, nikmatin perpaduan sejarah dan alam, pasangan pasti dapet kenangan romantis yang nggak terlupakan.
 
@@ -155,7 +155,7 @@ Bali benar-benar mewujudkan esensi 'romantic travel' dengan pemandangan alam yan
 
 ## Baca Juga: Bali untuk Bulan Madu / Pasangan
 
-- [Kenapa makin banyak orang pilih Bali buat bulan madu? FAQ bulan madu di Bali](/blog/bali-honeymoon-faq/)
-- [Destinasi bulan madu romantis terungkap! Bali kalahkan Maladewa jadi juara dunia!](/blog/bali-honeymoon-destination/)
-- [Panduan romantis bulan madu di Bali: Eksplorasi 36 cara seru buat pasangan/pasangan bulan madu di Bali](/blog/bali-honeymoon-romantic-activities-2/)
-- [Mau nginep di mana? Panduan bulan madu buat pasangan baru/pasangan kekasih! 【20 rekomendasi resort bulan madu & villa romantis】](/blog/bali-honeymoon-resorts-guide/)
+- [Kenapa makin banyak orang pilih Bali buat bulan madu? FAQ bulan madu di Bali](/id/blog/bali-honeymoon-faq/)
+- [Destinasi bulan madu romantis terungkap! Bali kalahkan Maladewa jadi juara dunia!](/id/blog/bali-honeymoon-destination/)
+- [Panduan romantis bulan madu di Bali: Eksplorasi 36 cara seru buat pasangan/pasangan bulan madu di Bali](/id/blog/bali-honeymoon-romantic-activities-2/)
+- [Mau nginep di mana? Panduan bulan madu buat pasangan baru/pasangan kekasih! 【20 rekomendasi resort bulan madu & villa romantis】](/id/blog/bali-honeymoon-resorts-guide/)

@@ -32,8 +32,8 @@ _srcHash: b11b214e879f2a6f17bbb6c409bd6e40
 
 情人节对情侣们来说是创造新回忆的绝佳机会。你想跟你的爱侣度过难忘的浪漫之旅吗？可以参考一下：
 
-- [巴厘岛蜜月浪漫指南：探索巴厘岛情侣/蜜月旅行的36种玩法](/blog/bali-honeymoon-romantic-activities-2/)
-- 【[巴厘岛住宿推荐：蜜月新婚/情侣就看这一篇！2024最新巴厘岛【20间度蜜月度假村、浪漫villa推荐懒人包】](/blog/bali-honeymoon-resorts-guide/)】
+- [巴厘岛蜜月浪漫指南：探索巴厘岛情侣/蜜月旅行的36种玩法](/zh-cn/blog/bali-honeymoon-romantic-activities-2/)
+- 【[巴厘岛住宿推荐：蜜月新婚/情侣就看这一篇！2024最新巴厘岛【20间度蜜月度假村、浪漫villa推荐懒人包】](/zh-cn/blog/bali-honeymoon-resorts-guide/)】
 
 ## 十大国际浪漫旅游目的地排名
 

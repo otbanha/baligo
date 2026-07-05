@@ -96,7 +96,7 @@ We recommend applying in advance to avoid wasting valuable travel time.
 
 - Be cautious when using third-party services, as the government is not responsible for their service quality. Please apply through the [official website](https://evisa.imigrasi.go.id/).
 
-(Read more: [Understand Bali's 2025 Immigration Changes in One Minute: Indonesia/Bali Entry Process - From Landing to Customs to Baggage Claim](/blog/2025-bali-immigration-process/))
+(Read more: [Understand Bali's 2025 Immigration Changes in One Minute: Indonesia/Bali Entry Process - From Landing to Customs to Baggage Claim](/en/blog/2025-bali-immigration-process/))
 
 ## Eight Visa Types
 
@@ -113,4 +113,4 @@ Tourists staying less than 30 days, do you know which one to choose?
 
 👈 **Return to the Ultimate Bali Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.
+Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/en/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.

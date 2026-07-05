@@ -32,7 +32,7 @@ _srcHash: 848ccea18e4dd3057134797fe1e89b19
 - **Temperature and Humidity**: Temperatures range between **26°C - 31°C**. The chance of rain during the day is as high as **66%**.
 - Reminder that today's rainfall may be intense, posing higher risks for outdoor activities.
 
-> [Must-See Indoor Activities for Rainy Days: From Newly Opened Shopping Malls to Five-Star Afternoon Teas and Premium Craft Experiences](/blog/2026-bali-indoor-activities/)
+> [Must-See Indoor Activities for Rainy Days: From Newly Opened Shopping Malls to Five-Star Afternoon Teas and Premium Craft Experiences](/en/blog/2026-bali-indoor-activities/)
 
 ## 📄 Topics of Concern for Visitors: Safety Alerts and Entry Procedures
 

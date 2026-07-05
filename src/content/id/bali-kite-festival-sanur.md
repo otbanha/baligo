@@ -70,7 +70,7 @@ Dewan juri akan memberi skor berdasarkan desain layang-layang, stabilitas terban
 
 ### **Transformasi Modern Sanur**
 
-Sanur sedang mengalami transformasi modern, dengan banyak resor dan fasilitas baru yang dibangun, memberikan lebih banyak pilihan dan kenyamanan bagi wisatawan. Cek: [Panduan Peta Sanur｜45 Rekomendasi Makan, Main, SPA, dan Akomodasi!](/blog/sanur-guide/)
+Sanur sedang mengalami transformasi modern, dengan banyak resor dan fasilitas baru yang dibangun, memberikan lebih banyak pilihan dan kenyamanan bagi wisatawan. Cek: [Panduan Peta Sanur｜45 Rekomendasi Makan, Main, SPA, dan Akomodasi!](/id/blog/sanur-guide/)
 
 ## **Musim Terbang Layang-Layang**
 
@@ -130,7 +130,7 @@ Waktu terbaik adalah pagi dan sore hari, karena anginnya paling pas buat layang-
 
 ### **Apa aja pilihan akomodasi di Sanur?**
 
-Sanur punya banyak pilihan tempat nginep, dari resort mewah sampai hotel budget. Kamu bisa pilih sesuai budget dan kebutuhan. Cek aja [Panduan Peta Sanur｜45 Rekomendasi Makan, Main, SPA, dan Penginapan!](/blog/sanur-guide/)
+Sanur punya banyak pilihan tempat nginep, dari resort mewah sampai hotel budget. Kamu bisa pilih sesuai budget dan kebutuhan. Cek aja [Panduan Peta Sanur｜45 Rekomendasi Makan, Main, SPA, dan Penginapan!](/id/blog/sanur-guide/)
 
 ### **Perlu beli tiket buat ikut festival layang-layang?**
 

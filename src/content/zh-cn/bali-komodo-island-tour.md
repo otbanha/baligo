@@ -79,13 +79,13 @@ _srcHash: 40e40ec8d242c69a93d487ffb90839a9
 - - 微信：BettyPinkyWu
   - Line：@bettypinkywu
 
-### **提供一个全包式的五天四夜行程，含台湾-巴厘岛直飞机票、巴厘岛-科莫多岛机票、四晚住宿、全程两人包车...等等： ⭐⭐**[**巴厘岛+科莫多恐龙岛，四晚轻奢住宿/无购物/无自费/五日游**](/blog/bali-komodo-luxury-tour-2026/)**⭐⭐**
+### **提供一个全包式的五天四夜行程，含台湾-巴厘岛直飞机票、巴厘岛-科莫多岛机票、四晚住宿、全程两人包车...等等： ⭐⭐**[**巴厘岛+科莫多恐龙岛，四晚轻奢住宿/无购物/无自费/五日游**](/zh-cn/blog/bali-komodo-luxury-tour-2026/)**⭐⭐**
 
 ### 「巴厘岛+科莫多岛」的套装行程
 
 ![「峇里島+科摩多島」套裝行程](https://images.gobaligo.id/vocus/vocus_b44d6f245184aea60972fa03ca2e2331.png)
 
-[「巴厘岛+科莫多岛」套装行程](/blog/bali-komodo-luxury-tour-2026/)
+[「巴厘岛+科莫多岛」套装行程](/zh-cn/blog/bali-komodo-luxury-tour-2026/)
 
 您觉得Tyty Chow他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
@@ -93,4 +93,4 @@ _srcHash: 40e40ec8d242c69a93d487ffb90839a9
 
 点击这里观看更多巴厘岛精彩游记
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/zh-cn/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！

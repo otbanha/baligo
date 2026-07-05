@@ -48,19 +48,19 @@ _srcHash: 749b8f88f861ee795b3981b73cd22c94
 
 **快速參考：**
 
-> 基本認識：[認識峇里島區域: 峇里島住宿推薦指南 - 認識庫塔 水明漾 坎古 烏布](/blog/2023-12-29-65839fbafd89780001e876b5/)
+> 基本認識：[認識峇里島區域: 峇里島住宿推薦指南 - 認識庫塔 水明漾 坎古 烏布](/zh-hk/blog/2023-12-29-65839fbafd89780001e876b5/)
 
-> 親子旅遊：[峇里島親子旅遊推薦/指南](/blog/bali-family-travel-guide-2/)
+> 親子旅遊：[峇里島親子旅遊推薦/指南](/zh-hk/blog/bali-family-travel-guide-2/)
 
 https://youtu.be/MdQYUy31LiY?si=s6E1DVtnKybOmlLB
 
-> 情侶/蜜月：[峇里島蜜月浪漫指南：探索峇里島情侶/蜜月旅行的36種玩法](/blog/bali-honeymoon-romantic-activities-2/)
+> 情侶/蜜月：[峇里島蜜月浪漫指南：探索峇里島情侶/蜜月旅行的36種玩法](/zh-hk/blog/bali-honeymoon-romantic-activities-2/)
 
-> 長輩旅遊：[適合長者的峇里島旅行指南 - 安全、舒適、景點與注意事項](/blog/bali-elderly-travel-guide/)
+> 長輩旅遊：[適合長者的峇里島旅行指南 - 安全、舒適、景點與注意事項](/zh-hk/blog/bali-elderly-travel-guide/)
 
-> 地標景點：[峇里島十大重要地標景點 & 旅程安排](/blog/bali-top-landmarks-guide/)
+> 地標景點：[峇里島十大重要地標景點 & 旅程安排](/zh-hk/blog/bali-top-landmarks-guide/)
 
-> 更多景點：[2026峇里島必去景點攻略，500個最新人氣景點一次蒐全](/blog/bali-top-500-attractions/)
+> 更多景點：[2026峇里島必去景點攻略，500個最新人氣景點一次蒐全](/zh-hk/blog/bali-top-500-attractions/)
 
 **請記住，冇人能夠幫你安排一個完全符合你期待的完美行程**！最終所有嘅決定都應該依據你自己嘅喜好同需求，先可以令呢趟峇里島之旅成為一段令人難忘嘅探險之旅。
 
@@ -72,21 +72,21 @@ https://youtu.be/MdQYUy31LiY?si=s6E1DVtnKybOmlLB
 
 峇里島提供海灘放鬆、熱帶雨林探索同文化體驗等豐富活動。
 
-[峇里島戶外活動玩咩？50種不可錯過嘅精彩體驗](/blog/bali-top-50-outdoor-activities/)
+[峇里島戶外活動玩咩？50種不可錯過嘅精彩體驗](/zh-hk/blog/bali-top-50-outdoor-activities/)
 
 {{block:戶外}}
 
 - **海灘同大自然**：水明漾、金巴蘭同烏布等地區適合戶外愛好者。
-- **文化活動**：當地藝術、舞蹈表演同寺廟祭典都值得參與。烏布更加係必訪之地！烏布仲有叢林鞦韆、泛舟、ATV、瀑布、馬力歐賽車...等活動，請參考我哋嘅「[100種認識烏布嘅方法](/blog/ubud-guide/)」，讓你更深入了解呢個文化之都。
+- **文化活動**：當地藝術、舞蹈表演同寺廟祭典都值得參與。烏布更加係必訪之地！烏布仲有叢林鞦韆、泛舟、ATV、瀑布、馬力歐賽車...等活動，請參考我哋嘅「[100種認識烏布嘅方法](/zh-hk/blog/ubud-guide/)」，讓你更深入了解呢個文化之都。
 
 ### 峇里島五大推薦旅遊熱區：
 
-- [水明漾Seminyak峇里島必去地點地圖：100個吃喝玩樂全面介紹](/blog/seminyak-guide/)
-- [峇里島坎古完美探險地圖：100個必遊景點](/blog/canggu-guide/)
-- [峇里島金巴蘭自由行：推薦30個玩樂景點全攻略](/blog/jimbaran-guide/)
-- [探索峇里島烏布：100種深入認識烏布嘅方式](/blog/ubud-guide/)
-- [峇里島庫塔旅遊攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [烏布家庭親子旅遊活動精選攻略：55項親子活動帶小朋友最輕鬆！](/blog/ubud-with-kids-guide/)
+- [水明漾Seminyak峇里島必去地點地圖：100個吃喝玩樂全面介紹](/zh-hk/blog/seminyak-guide/)
+- [峇里島坎古完美探險地圖：100個必遊景點](/zh-hk/blog/canggu-guide/)
+- [峇里島金巴蘭自由行：推薦30個玩樂景點全攻略](/zh-hk/blog/jimbaran-guide/)
+- [探索峇里島烏布：100種深入認識烏布嘅方式](/zh-hk/blog/ubud-guide/)
+- [峇里島庫塔旅遊攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [烏布家庭親子旅遊活動精選攻略：55項親子活動帶小朋友最輕鬆！](/zh-hk/blog/ubud-with-kids-guide/)
 
 ## **3.** 確定住宿預算與地區
 
@@ -117,7 +117,7 @@ https://youtu.be/MdQYUy31LiY?si=s6E1DVtnKybOmlLB
 
 - 使用我哋嘅「[峇里島分區攻略地圖](https://)」。每份攻略地圖都附有詳盡嘅Google地圖，幫助你清晰了解各個景點嘅位置，等你可以輕鬆規劃出最佳路線。
 
-若果對行程安排唔確定，建議可以尋求當地包車司機嘅協助，佢哋熟悉景點同路線，能夠幫助你節省時間，充分體驗旅程。查看我哋嘅「[峇里島司機網友評鑑大全](/blog/bali-private-car-drivers-guide/)」，搵到好評嘅當地司機。
+若果對行程安排唔確定，建議可以尋求當地包車司機嘅協助，佢哋熟悉景點同路線，能夠幫助你節省時間，充分體驗旅程。查看我哋嘅「[峇里島司機網友評鑑大全](/zh-hk/blog/bali-private-car-drivers-guide/)」，搵到好評嘅當地司機。
 
 {{block:包車}}
 
@@ -158,14 +158,14 @@ https://youtu.be/MdQYUy31LiY?si=s6E1DVtnKybOmlLB
 
 喺眾多旅行社中，我哋特別推薦一家喺峇里島當地深耕多年嘅台灣旅行社──**「isBali」**。呢家旅行社由台灣同峇里島在地嘅專業團隊組成，了解台灣旅行者嘅需求，並能夠提供客製化嘅行程設計。佢哋唔單止熟悉當地文化同景點，仲可以根據你嘅喜好量身打造最合適嘅行程，從交通安排、住宿選擇到活動推薦都一應俱全，讓你免去任何顧慮，輕鬆出遊！
 
-此外，透過我哋嘅[優惠碼](/blog/isbali-tour-agency-review/)預訂「isBali」嘅服務，仲可以享受規劃折扣添！咁樣嘅優惠讓你既慳錢又慳心，係最正嘅出遊選擇之一。
+此外，透過我哋嘅[優惠碼](/zh-hk/blog/isbali-tour-agency-review/)預訂「isBali」嘅服務，仲可以享受規劃折扣添！咁樣嘅優惠讓你既慳錢又慳心，係最正嘅出遊選擇之一。
 
 ![7.最慳心慳力嘅方式：搵旅行社規劃行程](https://images.gobaligo.id/vocus/vocus_aff811a953c18b497d83f3d79e2d6b79.png)
 
 **延伸閱讀：**
 
-- [峇里島旅遊注意事項：第一次去峇里島必睇嘅33項旅遊攻略](/blog/bali-ultimate-guide-2026/)
-- [峇里島不踩雷攻略：18個常見錯誤與建議](/blog/bali-travel-mistakes-tips/)
+- [峇里島旅遊注意事項：第一次去峇里島必睇嘅33項旅遊攻略](/zh-hk/blog/bali-ultimate-guide-2026/)
+- [峇里島不踩雷攻略：18個常見錯誤與建議](/zh-hk/blog/bali-travel-mistakes-tips/)
 
 {{block:攻略}}
 
@@ -173,4 +173,4 @@ https://youtu.be/MdQYUy31LiY?si=s6E1DVtnKybOmlLB
 
 👈 **返去峇里島自由行終極指南**
 
-想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次搞掂出發前要做咩。
+想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次搞掂出發前要做咩。

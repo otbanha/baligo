@@ -34,7 +34,7 @@ _srcHash: 8febd28eea3c045d27ed05a74560ad43
 
 Located in Jimbaran Bay, Bali, **Raffles Bali** was named one of the world's best luxury hotels in 2024, renowned not only for its serene and private resort atmosphere but also for its dining experiences that surpass five-star standards. Surrounded by tropical greenery and overlooking the vast Indian Ocean with its own secluded beach, the dining scene here is not just about food but a memorable journey.
 
-Read more: [Raffles Bali in Jimbaran Bay Named One of the World's Best Luxury Resorts](/blog/raffles-bali-luxury-resort/)
+Read more: [Raffles Bali in Jimbaran Bay Named One of the World's Best Luxury Resorts](/en/blog/raffles-bali-luxury-resort/)
 
 ## Dinner: The Artistic Feast at Rumari
 
@@ -115,7 +115,7 @@ Acceptance: Non-guests can also book dining experiences, subject to seat availab
 
 ## Bonus:
 
-- [Bali Food Experience: Alila Villas Uluwatu Brisa Brunch - A Sunday Feast by the Cliff](/blog/alila-uluwatu-brisa-brunch/)
-- [Bali Kempinski Afternoon Tea Journey: A Dreamy Afternoon at Selasar Deli](/blog/kempinski-selasar-deli-afternoon-tea/)
+- [Bali Food Experience: Alila Villas Uluwatu Brisa Brunch - A Sunday Feast by the Cliff](/en/blog/alila-uluwatu-brisa-brunch/)
+- [Bali Kempinski Afternoon Tea Journey: A Dreamy Afternoon at Selasar Deli](/en/blog/kempinski-selasar-deli-afternoon-tea/)
 
 {{block:蜜月}}

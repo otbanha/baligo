@@ -51,7 +51,7 @@ Tapi, penerapan pajak turis ini kurang efektif—cuma 40% turis yang beneran bay
 
 **Referensi Cepat:**
 
-[Bali Bakal Wajibkan Turis 'Nakal' Bayar Pajak: Pajak Turis Jadi Aturan Wajib!](/blog/bali-tourism-tax-enforcement/)
+[Bali Bakal Wajibkan Turis 'Nakal' Bayar Pajak: Pajak Turis Jadi Aturan Wajib!](/id/blog/bali-tourism-tax-enforcement/)
 
 ### Gimana ke Depannya?
 

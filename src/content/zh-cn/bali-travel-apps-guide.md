@@ -41,7 +41,7 @@ _srcHash: 4273fe3f15b62ce1912ec055aeeb9762
 - 外卖功能（GrabFood）能让你在巴厘岛任何地方订购美食。
 - 同时提供送货和每日生活需求的各类服务，让你的旅途变得更方便。
 
-延伸阅读：[印尼/巴厘岛的Gojek与GoPay注册、使用、充值教学全面指南](/blog/indonesia-gojek-gopay-guide/)
+延伸阅读：[印尼/巴厘岛的Gojek与GoPay注册、使用、充值教学全面指南](/zh-cn/blog/indonesia-gojek-gopay-guide/)
 
 ## **2. Google Maps：无缝导航与探索巴厘岛的最佳工具**
 
@@ -91,7 +91,7 @@ _srcHash: 4273fe3f15b62ce1912ec055aeeb9762
 
 编按：不管任何天气预测app目前都无法百分之百预测巴厘岛的天气，如果是雨季出游，最好还是先做好准备哦！
 
-延伸阅读：[巴厘岛雨季：旅游巴厘岛碰到下雨天怎么办？巴厘岛下雨天的60个备案攻略](/blog/2026-bali-indoor-activities/)
+延伸阅读：[巴厘岛雨季：旅游巴厘岛碰到下雨天怎么办？巴厘岛下雨天的60个备案攻略](/zh-cn/blog/2026-bali-indoor-activities/)
 
 ## **6. WhatsApp：与当地人及服务提供者保持联系**
 

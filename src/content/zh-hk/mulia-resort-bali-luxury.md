@@ -132,7 +132,7 @@ https://www.tiktok.com/@themuliabali/video/7379878015309761797?is_from_webapp=1&
 
 ![更多努沙杜瓦吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
 
-努沙杜瓦（Nusa Dua）係峇里島以豪華度假村出名嘅地區，有潔白嘅沙灘、碧藍嘅海水同完善嘅旅遊設施，係追求高級享受同寧靜假期嘅首選。呢度仲有頂級水療、水上活動，同埋適合一家大細嘅休閒活動，係各類旅客嘅天堂。想知更多努沙杜瓦攻略？[請撳呢度](/blog/nusa-dua-guide/)
+努沙杜瓦（Nusa Dua）係峇里島以豪華度假村出名嘅地區，有潔白嘅沙灘、碧藍嘅海水同完善嘅旅遊設施，係追求高級享受同寧靜假期嘅首選。呢度仲有頂級水療、水上活動，同埋適合一家大細嘅休閒活動，係各類旅客嘅天堂。想知更多努沙杜瓦攻略？[請撳呢度](/zh-hk/blog/nusa-dua-guide/)
 
 🏖️🌊🚤南灣水上活動，拖曳傘、浮潛、海底漫步、香蕉船一次過體驗 ▶[Klook優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E4%25B8%25B9%25E6%2588%258E%25E8%25B2%259D%25E8%25AB%25BE%25E7%2593%25A6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3D4376a16ccb)
 
@@ -192,6 +192,6 @@ https://www.tiktok.com/@themuliabali/video/7379878015309761797?is_from_webapp=1&
 
 **Nusa Dua 係峇里島南部一個著名嘅高級渡假勝地，以寧靜嘅環境、潔白嘅沙灘同世界級嘅奢華體驗聞名。** 如果你正在搵奢華五星級渡假村，Nusa Dua 提供咗好多頂尖選擇，由專屬私人海灘到精緻嘅餐飲同水療，應有盡有。
 
-👉 **想探索更多Nusa Dua嘅頂級住宿？**[**請撳呢度**](/blog/nusa-dua-resorts-guide/)**！**
+👉 **想探索更多Nusa Dua嘅頂級住宿？**[**請撳呢度**](/zh-hk/blog/nusa-dua-resorts-guide/)**！**
 
 {{block:dua}}

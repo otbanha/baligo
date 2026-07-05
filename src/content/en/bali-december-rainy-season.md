@@ -89,4 +89,4 @@ Honestly, I have a love-hate relationship with Bali during this time. After a ra
 
 The rainy season is never an obstacle to travel; it just reminds you to adjust your pace.
 
-Wondering what to do when it rains? Or need an emergency Plan B when sudden downpours disrupt your itinerary? Check out our [60 Rainy Day Alternatives in Bali](/blog/2026-bali-indoor-activities/)!
+Wondering what to do when it rains? Or need an emergency Plan B when sudden downpours disrupt your itinerary? Check out our [60 Rainy Day Alternatives in Bali](/en/blog/2026-bali-indoor-activities/)!

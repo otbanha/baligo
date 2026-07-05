@@ -95,8 +95,8 @@ _srcHash: a637e580c765e51b1d7ed53b70c1a782
 
 **「帶長輩同遊峇里島」快速參考：**
 
-- 第一集：[適合長者嘅峇里島旅行指南 - 安全、舒適與注意事項](/blog/bali-elderly-travel-guide/)
-- 第二集：[適合年長者嘅峇里島旅遊地點全攻略](/blog/bali-senior-friendly-travel-guide/)
+- 第一集：[適合長者嘅峇里島旅行指南 - 安全、舒適與注意事項](/zh-hk/blog/bali-elderly-travel-guide/)
+- 第二集：[適合年長者嘅峇里島旅遊地點全攻略](/zh-hk/blog/bali-senior-friendly-travel-guide/)
 
 ### **1. 行程唔好太緊湊：唔好令旅程變成「馬拉松」**
 
@@ -128,7 +128,7 @@ _srcHash: a637e580c765e51b1d7ed53b70c1a782
 
 有對夫婦帶埋老人家去峇里島嘅Besakih母廟參觀，去到先發現要行好多樓梯先可以到主要建築。老人家行到一半就話攰，仲差啲因為體力唔夠而跌倒，最後唯有中途放棄。
 
-**建議**：出發前要了解景點係咪需要長時間行路或者行樓梯，好似梯田景觀或者瀑布呢啲地方，都要事先評估老人家嘅體力夠唔夠。可以參考「[適合老人家嘅峇里島旅遊地點全攻略](/blog/bali-senior-friendly-travel-guide/)」
+**建議**：出發前要了解景點係咪需要長時間行路或者行樓梯，好似梯田景觀或者瀑布呢啲地方，都要事先評估老人家嘅體力夠唔夠。可以參考「[適合老人家嘅峇里島旅遊地點全攻略](/zh-hk/blog/bali-senior-friendly-travel-guide/)」
 
 ### **5. 留意老人家飲食習慣同禁忌**
 
@@ -174,8 +174,8 @@ _srcHash: a637e580c765e51b1d7ed53b70c1a782
 
 **快速參考：**
 
-- [金巴蘭攻略](/blog/jimbaran-guide/)
-- [Sanur 45項吃喝玩樂攻略](/blog/sanur-guide/)
+- [金巴蘭攻略](/zh-hk/blog/jimbaran-guide/)
+- [Sanur 45項吃喝玩樂攻略](/zh-hk/blog/sanur-guide/)
 
 ### **10. 車程過長需安排休息**
 
@@ -271,8 +271,8 @@ _srcHash: a637e580c765e51b1d7ed53b70c1a782
 
 ## **帶長輩同遊峇里島指南：**
 
-- 第一集：[適合長者嘅峇里島旅行指南 - 安全、舒適與注意事項](/blog/bali-elderly-travel-guide/)
-- 第二集：[適合年長者嘅峇里島旅遊地點全攻略](/blog/bali-senior-friendly-travel-guide/)
+- 第一集：[適合長者嘅峇里島旅行指南 - 安全、舒適與注意事項](/zh-hk/blog/bali-elderly-travel-guide/)
+- 第二集：[適合年長者嘅峇里島旅遊地點全攻略](/zh-hk/blog/bali-senior-friendly-travel-guide/)
 - 第三集：長輩嘅行為有幾奇葩！？帶出國旅行當心「吃力不討好」（本篇）
 
 {{block:親子}}

@@ -63,7 +63,7 @@ Kalau kamu lagi liburan di Bali, sangat disarankan beli air kemasan di supermark
 
 ![Rekomendasi Merek Air Kemasan](https://images.gobaligo.id/vocus/vocus_3492fe649d1b46ef46788731bf208c73.png)
 
-👉**Ada versi baru di sini:** [Panduan Lengkap Obat Diare/Maag di Bali](/blog/bali-belly-medicine-guide/)
+👉**Ada versi baru di sini:** [Panduan Lengkap Obat Diare/Maag di Bali](/id/blog/bali-belly-medicine-guide/)
 
 ## Penutup
 

@@ -45,7 +45,7 @@ Many Bali residents complain that foreign tourists' behavior is disrupting their
 
 The influx of tourists has also caused damage to Bali's natural environment. Overdevelopment and the pressure from crowds have led to the degradation of natural landscapes and harm to ecosystems, posing threats to Bali's long-term sustainability.
 
-> Further reading: [Bali Actually Has Five Peak Tourist Seasons! How to Travel Smartly and Avoid the Crowds?](/blog/bali-peak-season-travel-tips/)
+> Further reading: [Bali Actually Has Five Peak Tourist Seasons! How to Travel Smartly and Avoid the Crowds?](/en/blog/bali-peak-season-travel-tips/)
 
 ## Lessons from Barcelona
 

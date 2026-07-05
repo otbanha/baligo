@@ -51,8 +51,8 @@ In these areas, vegetarianism isn't just a healthy lifestyle—it's a symbol of 
 
 Further Reading:
 
-- [100 Things to Eat, Drink, and Do in Canggu](/blog/2023-02-11-64db6b7efd897800013a9815/)
-- [The Ultimate Guide to 100 Things to Eat, Drink, and Do in Seminyak](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+- [100 Things to Eat, Drink, and Do in Canggu](/en/blog/2023-02-11-64db6b7efd897800013a9815/)
+- [The Ultimate Guide to 100 Things to Eat, Drink, and Do in Seminyak](/en/blog/2023-08-15-64db7fc2fd897800013d367c/)
 
 ## **Ubud: Where Culture Meets Healthy Eating**
 
@@ -66,8 +66,8 @@ Vegan-friendly restaurants in Ubud offer more than just food; they promote a hea
 
 Further Reading:
 
-- [100 Things to Eat, Drink, and Do in Ubud](/blog/2023-11-17-655054b1fd897800011d4d2c/)
-- [55 Family-Friendly Activities in Ubud](/blog/2024-01-10-659cf4a5fd89780001d6fb69/)
+- [100 Things to Eat, Drink, and Do in Ubud](/en/blog/2023-11-17-655054b1fd897800011d4d2c/)
+- [55 Family-Friendly Activities in Ubud](/en/blog/2024-01-10-659cf4a5fd89780001d6fb69/)
 
 ## **Nusa Dua: Vegan Options in a Luxury Resort Enclave**
 
@@ -81,7 +81,7 @@ These restaurants not only offer vegetarian-friendly meals but also emphasize th
 
 Further Reading:
 
-- [50 Things to Eat, Drink, and Do in Nusa Dua](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+- [50 Things to Eat, Drink, and Do in Nusa Dua](/en/blog/2024-01-25-65afb7bbfd897800017023b4/)
 
 {{block:美食}}
 

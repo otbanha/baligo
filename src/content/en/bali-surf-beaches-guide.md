@@ -49,15 +49,15 @@ For first-time surfers, Kuta Beach is the undisputed champion. This long stretch
 
 Nearby beaches like Legian and Seminyak also offer similar beginner-friendly conditions.
 
-> Kuta Guide: [What else can you do in Kuta?](/blog/2023-12-13-657598bdfd8978000120fe20/)
+> Kuta Guide: [What else can you do in Kuta?](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
 
-> Seminyak Guide: [What else can you do in Seminyak?](/blog/seminyak-guide/)
+> Seminyak Guide: [What else can you do in Seminyak?](/en/blog/seminyak-guide/)
 
 ### Intermediate Waves: Canggu
 
 As your confidence grows, Batu Bolong Beach in Canggu becomes more appealing. This iconic beach offers waves suitable for intermediate surfers. The lively atmosphere and beachfront cafes make Old Man's at Batu Bolong Beach a fun place to spend time, both in and out of the water.
 
-> Canggu Guide: [What else can you do in Canggu?](/blog/canggu-guide/)
+> Canggu Guide: [What else can you do in Canggu?](/en/blog/canggu-guide/)
 
 ### Expert Surfers: Uluwatu and Surroundings
 
@@ -65,7 +65,7 @@ For experienced riders, Bali truly becomes a surfer's paradise. Uluwatu is Bali'
 
 Other premium surf spots include Padang Padang, a beach break hidden within rocky caves, and Keramas, renowned for its long, peeling waves. These locations can get crowded with experienced surfers, so it's recommended to join a surf tour early in the morning.
 
-> Uluwatu Guide: [What else can you do in Uluwatu?](/blog/uluwatu-guide/)
+> Uluwatu Guide: [What else can you do in Uluwatu?](/en/blog/uluwatu-guide/)
 
 ##
 
@@ -89,7 +89,7 @@ Intermediate surfers enjoy the faster, more challenging waves, while beginners c
 
 ![回聲海灘不能錯過的美食/美景海灘俱樂部](https://images.gobaligo.id/vocus/vocus_947725fb14b3e426f80e5df6b4e73b91.png)
 
-[Must-Try Food and Scenic Beach Clubs at Echo Beach](/blog/canggu-la-brisa-restaurant-guide/)
+[Must-Try Food and Scenic Beach Clubs at Echo Beach](/en/blog/canggu-la-brisa-restaurant-guide/)
 
 ### Batu Bolong Beach
 
@@ -97,7 +97,7 @@ Batu Bolong Beach is said to be named after a rock sea cave that once extended i
 
 ![Jalan Batu Bolong路上的拍照景點](https://images.gobaligo.id/vocus/vocus_05c55e8b3f7706f9f0ef046ddda32bf5.png)
 
-[Photo Spots Along Jalan Batu Bolong](/blog/canggu-bali-travel-guide/)
+[Photo Spots Along Jalan Batu Bolong](/en/blog/canggu-bali-travel-guide/)
 
 Surfers can rent boards and take lessons from local instructors. After a surfing session, they can explore the popular beach town of Canggu, known for its trendy cafes, boutique shops, and vibrant nightlife, adding to the allure of surfing at Batu Bolong Beach.
 
@@ -151,7 +151,7 @@ Experience the fastest, easiest, and most enjoyable way to surf at Old Man's in 
 
 ![Jalan Batu Bolong路上的拍照景點](https://images.gobaligo.id/vocus/vocus_a57c937d4efa64f5c319806aeb26db40.png)
 
-[Photo spots along Jalan Batu Bolong](/blog/canggu-bali-travel-guide/)
+[Photo spots along Jalan Batu Bolong](/en/blog/canggu-bali-travel-guide/)
 
 > [2-Hour Surf Lesson at Old Man's Batu Bolong](https://affiliate.klook.com/redirect?aid=116349&aff_adid=845746&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32669-surfing-lesson-old-mans-beach-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9ee53dacd6)
 

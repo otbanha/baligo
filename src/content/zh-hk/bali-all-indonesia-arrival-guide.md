@@ -38,8 +38,8 @@ _srcHash: 495672c5879fb73044571e09e27fb0e0
 
 ### **行前必做**：
 
-1. 務必先完成申請電子簽證eVisa。請參考[呢度](/blog/bali-evisa-application-guide/)有進一步嘅說明，避免進入詐騙網站。
-2. 出發前三天完成AIAC入境卡，並**截圖QR Code**備查。請睇本站整理[常見問題FAQ](/blog/bali-evisa-customs-health-declaration/)。
+1. 務必先完成申請電子簽證eVisa。請參考[呢度](/zh-hk/blog/bali-evisa-application-guide/)有進一步嘅說明，避免進入詐騙網站。
+2. 出發前三天完成AIAC入境卡，並**截圖QR Code**備查。請睇本站整理[常見問題FAQ](/zh-hk/blog/bali-evisa-customs-health-declaration/)。
 
 ![行前必做：](https://images.gobaligo.id/vocus/vocus_47def0beb4f9737f8e70065afa8db58b.png)
 
@@ -57,7 +57,7 @@ _srcHash: 495672c5879fb73044571e09e27fb0e0
 - **排隊櫃檯**：落地簽證嘅人需要排隊查驗。
 - **電子通關**：事先申請/繳費eVisa嘅人唔使排隊人工蓋章，可以使用「自動通關閘門」。
 
-▶️ 點樣自動通關？請睇[峇里島自動通關流程攻略](/blog/2025-bali-automatic-customs/)
+▶️ 點樣自動通關？請睇[峇里島自動通關流程攻略](/zh-hk/blog/2025-bali-automatic-customs/)
 
 ### **4️⃣ 領取行李**
 
@@ -79,9 +79,9 @@ _srcHash: 495672c5879fb73044571e09e27fb0e0
 
 - 費用：15萬印尼盾/人（約USD$10）。
 
-▶️ 點樣繳交？請睇[觀光稅](/blog/2026-bali-tourism-tax-guide/)說明
+▶️ 點樣繳交？請睇[觀光稅](/zh-hk/blog/2026-bali-tourism-tax-guide/)說明
 
-👉**額外說明:** [入境印尼/峇里島嘅小朋友簽證/兒童簽證攻略](/blog/bali-child-visa-guide/)
+👉**額外說明:** [入境印尼/峇里島嘅小朋友簽證/兒童簽證攻略](/zh-hk/blog/bali-child-visa-guide/)
 
 ## ⏰ 幾耐前要辦理？
 
@@ -103,7 +103,7 @@ _srcHash: 495672c5879fb73044571e09e27fb0e0
 
 ## **💡 申請電子簽證/All Indonesia時可能遇到嘅常見問題**
 
-請參考[本站FAQ](/blog/bali-evisa-customs-health-declaration/)
+請參考[本站FAQ](/zh-hk/blog/bali-evisa-customs-health-declaration/)
 
 ***
 
@@ -123,4 +123,4 @@ _srcHash: 495672c5879fb73044571e09e27fb0e0
 
 👈 **返去峇里島自由行終極指南**
 
-想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次搞掂出發前要做咩。
+想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次搞掂出發前要做咩。

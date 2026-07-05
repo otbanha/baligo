@@ -107,6 +107,6 @@ Truthfully, Bali's progress in tourism infrastructure over the past few years ha
 
 Next time you land at Ngurah Rai Airport, hopefully we'll all experience that smooth "from plane to car in under 30 minutes" feeling. After all, every minute of your vacation should be spent by the beach or enjoying great food, not standing in queues.
 
-👉 Quick Reference: [2026 Bali Ultimate Guide | Must-Read First-Timer's Guide](/blog/bali-ultimate-guide-2026/)
+👉 Quick Reference: [2026 Bali Ultimate Guide | Must-Read First-Timer's Guide](/en/blog/bali-ultimate-guide-2026/)
 
 {{block:klook}}

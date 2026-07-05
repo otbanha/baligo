@@ -87,17 +87,17 @@ Every village in Bali has at least three main temples: Pura Puseh (village origi
 
 Some visitors may be invited to participate in these ceremonies but are required to wear traditional Balinese attire (sarong and sash). These events not only showcase Bali’s reverence for ancestors and deities but also offer outsiders a glimpse into the island’s unique spiritual and cultural traditions. If you’re interested in joining these celebrations, don’t hesitate to ask your private driver!
 
-Here’s a list of recommended [Bali Private Car Drivers](/blog/bali-private-car-drivers-guide/) shared by fellow travelers.
+Here’s a list of recommended [Bali Private Car Drivers](/en/blog/bali-private-car-drivers-guide/) shared by fellow travelers.
 
 ***
 
 Bali’s festivals and ceremonies are filled with spirituality, unity, and profound cultural significance. Whether it’s the contemplation of Nyepi, the family reunions during Galungan, or the community celebrations of Odalan, these events highlight Bali’s deep connections with ancestors, deities, and each other.
 
-The festivals mentioned above are just the major ones. For a more comprehensive guide, check out our '[2025 Indonesia Public Holidays & Bali Festivals Complete Guide](/blog/bali-indonesia-holidays-2025/)'!
+The festivals mentioned above are just the major ones. For a more comprehensive guide, check out our '[2025 Indonesia Public Holidays & Bali Festivals Complete Guide](/en/blog/bali-indonesia-holidays-2025/)'!
 
 ![2025節慶完整列表](https://images.gobaligo.id/vocus/vocus_80033ca939ab3cb1d35ef44838601733.jpg)
 
-[Complete List of Festivals in 2025](/blog/bali-indonesia-holidays-2025/)
+[Complete List of Festivals in 2025](/en/blog/bali-indonesia-holidays-2025/)
 
 ### FAQ (Frequently Asked Questions)
 

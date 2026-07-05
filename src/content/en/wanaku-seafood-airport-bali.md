@@ -124,6 +124,6 @@ On your next trip to Bali, don’t miss Wanaku—let your taste buds and soul in
 
 ![More Dining and Entertainment Near Kuta Airport](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
 
-[Click here for Kuta guide](/blog/2023-12-13-657598bdfd8978000120fe20/)
+[Click here for Kuta guide](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
 
-Kuta is one of Bali’s most vibrant hotspots, known for its lively nightlife, bustling streets, and beginner-friendly surf beaches that attract travelers from around the globe. Packed with shops, restaurants, and entertainment venues, Kuta is the perfect place for thrill-seekers and shoppers alike. Whether you’re soaking up the party atmosphere or enjoying stunning sunsets, Kuta ensures your vacation is filled with unforgettable moments! Want to learn more about Kuta? [Click here](/blog/2023-12-13-657598bdfd8978000120fe20/).
+Kuta is one of Bali’s most vibrant hotspots, known for its lively nightlife, bustling streets, and beginner-friendly surf beaches that attract travelers from around the globe. Packed with shops, restaurants, and entertainment venues, Kuta is the perfect place for thrill-seekers and shoppers alike. Whether you’re soaking up the party atmosphere or enjoying stunning sunsets, Kuta ensures your vacation is filled with unforgettable moments! Want to learn more about Kuta? [Click here](/en/blog/2023-12-13-657598bdfd8978000120fe20/).

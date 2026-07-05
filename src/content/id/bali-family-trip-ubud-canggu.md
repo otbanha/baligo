@@ -38,7 +38,7 @@ Kali ini kami mengatur perjalanan keluarga 6 hari 5 malam ke Bali, memilih pener
 
 Karena kami sudah membeli SIM card di Taiwan sebelumnya, begitu tiba di Bali kami bisa langsung menghubungi sopir sewaan kami kali ini — Pak Awan dari Bali Holiday.
 
-> Baca juga: [【Wajib Punya buat Liburan ke Bali】Cara Urus Internet/SIM Card di Bali?](/blog/bali-sim-card-esim-roaming-guide/)
+> Baca juga: [【Wajib Punya buat Liburan ke Bali】Cara Urus Internet/SIM Card di Bali?](/id/blog/bali-sim-card-esim-roaming-guide/)
 
 Dia sangat ramah, komunikasi bahasa Inggris lancar tanpa hambatan, dan mobilnya berwarna pink yang sangat mudah dikenali, ke mana pun pergi gampang terlihat. Setelah naik mobil, kami minta dia mengantar kami ke tempat penukaran uang, lalu melanjutkan perjalanan ke Ubud. Di tengah jalan, kami mampir ke air terjun yang indah (Tegenungan Waterfall), lalu pergi ke supermarket untuk membeli camilan dan air minum.
 
@@ -46,7 +46,7 @@ Dia sangat ramah, komunikasi bahasa Inggris lancar tanpa hambatan, dan mobilnya 
 
 Tegenungan Waterfall. (Foto oleh 趙康康)
 
-> Baca juga: [Panduan Tiga Air Terjun Terkenal di Dekat Ubud, Bali: Tegenungan Waterfall, Kanto Lampo Waterfall, dan Tukad Cepung Waterfall](/blog/ubud-waterfalls-guide/)
+> Baca juga: [Panduan Tiga Air Terjun Terkenal di Dekat Ubud, Bali: Tegenungan Waterfall, Kanto Lampo Waterfall, dan Tukad Cepung Waterfall](/id/blog/ubud-waterfalls-guide/)
 
 > Baca juga: [【Wisata Bali/Indonesia】Belanja di Supermarket/Minimarket?｜Apa aja yang wajib kamu beli di supermarket?](https://youtu.be/UoGlRyAdyB8)
 
@@ -54,7 +54,7 @@ Kali ini kami nginep di "Ubud Paradise" yang kami booking lewat situs pemesanan.
 
 [**▶ Cek Ketersediaan & Harga Ubud Paradise**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920688) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=2511061&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLQ0NjUzMdQ1sTQxsjTRNTc1MDTTaJpyuPGpsZGBlmB8iKeni2FJYapZYallTlGB6SlGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNiMzQyMntyg-KeaQcBfFlTeZ1x6YcNo-ibUqQzckPKNXHAARxK4vggAAAA&masterhotelid_tracelogid=100051355-0a935641-494294-75016&detailFilters=17|1~17~1*31|2511061~31~2511061*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1440&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/yI4C37fv)
 
-**（Villa kualitas tinggi dengan rating bagus! Sudah masuk dalam [16 rekomendasi villa Bali yang memukau](/blog/ubud-villa-pool-guide/)**）**
+**（Villa kualitas tinggi dengan rating bagus! Sudah masuk dalam [16 rekomendasi villa Bali yang memukau](/id/blog/ubud-villa-pool-guide/)**）**
 
 ## **Day 2: Arung Jeram & Petualangan di Ubud**
 
@@ -62,7 +62,7 @@ Hari kedua, kami pergi petualangan arung jeram. Kegiatan ini dipesenin sama Awan
 
 https://youtu.be/ZEkv46_-_mM
 
-**Referensi cepat:** [Petualangan Arung Jeram Goa di Bali: Petualangan Keluarga Nukuwera River Tubing](/blog/nukuwera-river-tubing-adventure/)
+**Referensi cepat:** [Petualangan Arung Jeram Goa di Bali: Petualangan Keluarga Nukuwera River Tubing](/id/blog/nukuwera-river-tubing-adventure/)
 
 ![叢林鞦韆。（趙康康提供）](https://images.gobaligo.id/vocus/vocus_86291fefaa0646e19596de72aa7330bd.jpg)
 
@@ -86,7 +86,7 @@ Hari ketiga, kami pergi ke Safari Zoo. Meskipun agak jauh dari Ubud, tempat ini 
 
 Siang harinya, kami kebetulan nonton pertunjukan harimau yang bikin aku kagum banget. Ini pertama kalinya aku lihat harimau dari dekat, tanpa kandang kaca, bahkan ada interaksi sama staf di sana. Pertunjukannya worth it banget buat ditonton!
 
-> Catatan Redaksi: Bali Safari Zoo menawarkan wahana petualangan safari yang membawa kamu menyusuri habitat hewan, bikin kamu serasa di alam liar. Selain melihat hewan, ada juga berbagai pertunjukan seru yang menggabungkan hiburan dan alam. Baca selengkapnya [di sini](/blog/bali-safari-night-stay/). Kalau mau lebih hemat, kamu bisa pertimbangkan [menginap di dalam zoo](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685834&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_C8XvDnkesQoxGBlu4LbZnORqDwMdeB883gTvkWpsmOQTwREw58Hwae6It1_XFBfsDHQoZwEDLoYuRFSwzg7HrneYKRsaNjP2HvmrE-Oc47GBkOsDIdIKxUXsB0539ExROsTBzzOG4xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsUyMzPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebdhPncnNqu9yAGJcb18Y-YmGKjv3EwvCLhYnDuomVoYuVmeMU0yQg2ai9i5XD38MpMCxI1_ACa5uelLyhgYGBqaGxqamuQaKlhbGpibmuiaWJkZmZrrGJsYmpRsP-vReeGBtZS0EiX4FRSzA-xNPTxbCkMNWssNQyp6jA1IDxFKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbpZujuYVjlA0Xs6dLkOAHvefb260t7aWYQ8JdFD8sP-Zt3nnaXgskZwiTC9zzOueEvfEC-0iYfBJrVYZuSHjGcbECxgZGpi5GbgFGD8YIxgogj3EVI8MGRsYdjP9hgPEVI8h0AAcWO6P7AgAA&masterhotelid_tracelogid=100051355-0a983547-494266-34345&detailFilters=17|1~17~1*31|685834~31~685834*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1440&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/PbKYpC56)
+> Catatan Redaksi: Bali Safari Zoo menawarkan wahana petualangan safari yang membawa kamu menyusuri habitat hewan, bikin kamu serasa di alam liar. Selain melihat hewan, ada juga berbagai pertunjukan seru yang menggabungkan hiburan dan alam. Baca selengkapnya [di sini](/id/blog/bali-safari-night-stay/). Kalau mau lebih hemat, kamu bisa pertimbangkan [menginap di dalam zoo](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685834&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_C8XvDnkesQoxGBlu4LbZnORqDwMdeB883gTvkWpsmOQTwREw58Hwae6It1_XFBfsDHQoZwEDLoYuRFSwzg7HrneYKRsaNjP2HvmrE-Oc47GBkOsDIdIKxUXsB0539ExROsTBzzOG4xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsUyMzPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebdhPncnNqu9yAGJcb18Y-YmGKjv3EwvCLhYnDuomVoYuVmeMU0yQg2ai9i5XD38MpMCxI1_ACa5uelLyhgYGBqaGxqamuQaKlhbGpibmuiaWJkZmZrrGJsYmpRsP-vReeGBtZS0EiX4FRSzA-xNPTxbCkMNWssNQyp6jA1IDxFKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbpZujuYVjlA0Xs6dLkOAHvefb260t7aWYQ8JdFD8sP-Zt3nnaXgskZwiTC9zzOueEvfEC-0iYfBJrVYZuSHjGcbECxgZGpi5GbgFGD8YIxgogj3EVI8MGRsYdjP9hgPEVI8h0AAcWO6P7AgAA&masterhotelid_tracelogid=100051355-0a983547-494266-34345&detailFilters=17|1~17~1*31|685834~31~685834*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1440&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/PbKYpC56)
 
 Malamnya, kami minta Awan anter ke pasar malam lokal. Di sana, kami muter-muter dulu, minta dia jelasin berbagai makanan, lalu dia bantu pesan ke penjual (soalnya beberapa penjual nggak bisa bahasa Inggris). Kami makan nasi babi panggang, mie bakso ayam, sate ayam, sate babi, dan masih banyak lagi. Plus beli banyak kue tradisional buat cemilan di penginapan. Total belanja nggak sampai USD$10 — murah banget dan seru abis!
 
@@ -150,7 +150,7 @@ Driver sewa mobil yang bikin kami puas (dok. Zhao Kangkang)
 
 Oh iya, dua hari aku minta dia bantu atur tukang pijat ke Villa, dan dia juga berusaha banget koordinasi waktu. Intinya, Awan itu driver sewa mobil yang keren banget. Meskipun bukan perusahaan besar, tapi keramahannya bikin kami merasa hangat, dan keluargaku juga akrab banget sama dia! Kalau lain kali ada kesempatan ke Bali lagi, pasti aku pilih driver ini lagi. Juga aku rekomendasiin banget buat kalian yang lagi cari driver sewa mobil!
 
-Kontak Awan ada di [Daftar Driver Sewa Mobil Bali Terkenal](/blog/bali-private-car-drivers-guide/)
+Kontak Awan ada di [Daftar Driver Sewa Mobil Bali Terkenal](/id/blog/bali-private-car-drivers-guide/)
 
 Menurut kamu perjalanan Zhao Kangkang seru nggak? Yuk, rencanain liburan Bali versi kamu sendiri! Jangan lupa kirim itinerary kamu ke grup ya!
 
@@ -158,6 +158,6 @@ Menurut kamu perjalanan Zhao Kangkang seru nggak? Yuk, rencanain liburan Bali ve
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 
-Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
+Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
 
 {{block:攻略}}

@@ -135,7 +135,7 @@ Gede 不只是專業司機，更像一位暖心的在地朋友，用心讓每個
 - **包車服務**：一天 10 小時，包含油費跟停車費，建議給小費大約包車費用的 10%-30%。
 - **司機的角色**：Gede 是包車司機，不是專業導遊，所以有些景點他不會跟著進去，請旅客理解並將心比心。
 
-> 延伸閱讀：[Bali 包車全攻略](/blog/bali-private-car-hire-guide/)
+> 延伸閱讀：[Bali 包車全攻略](/id/blog/bali-private-car-hire-guide/)
 
 ***
 
@@ -153,4 +153,4 @@ Gede Arimbawa 不只是司機，更像一位老朋友，他的真誠跟貼心服
 
 👈 **Kembali ke Panduan Lengkap Trip ke Bali**
 
-Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.
+Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.

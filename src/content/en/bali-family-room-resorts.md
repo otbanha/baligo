@@ -193,7 +193,7 @@ Ideal for: Families who love expansive grounds, stunning sunsets, and high-quali
 
 https://youtube.com/shorts/3HHn9DdLzug
 
-> [【2026 Bali AYANA Complete Guide】How to Choose Among Four Hotels? Segara, RIMBA Comparison & Rock Bar Reservation Tips](/blog/ayana-resort-bali-guide/)
+> [【2026 Bali AYANA Complete Guide】How to Choose Among Four Hotels? Segara, RIMBA Comparison & Rock Bar Reservation Tips](/en/blog/ayana-resort-bali-guide/)
 
 ## **Movenpick Resort Jimbaran**
 

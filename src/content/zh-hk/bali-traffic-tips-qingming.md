@@ -25,7 +25,7 @@ _srcHash: aad6c8100db5e4dd4fefcba72ba6bcfe
 
 **快速參考：**
 
-[靜居日係咩？有咩特別要注意嘅事項？](/blog/2025-bali-nyepi-day-guide/)
+[靜居日係咩？有咩特別要注意嘅事項？](/zh-hk/blog/2025-bali-nyepi-day-guide/)
 
 根據往年嘅經驗，預計峇里島喺3/24開始就會湧入各地嘅印尼本地人，到處都塞滿印尼人，持續約兩個禮拜。呢個係**峇里島五大旺季之中嘅第一旺季**，呢個係一個建議你要避開，唔好去峇里島嘅假期！
 
@@ -43,7 +43,7 @@ _srcHash: aad6c8100db5e4dd4fefcba72ba6bcfe
 
 想申請電子簽嘅朋友請提早申請！因為喺開齋節假期期間約九日嘅時間，印尼移民局通常會關閉電子簽證嘅線上申請，呢個係因為政府機關都喺度放長假，大家都只能辦落地簽，極有可能大排長龍！事先辦好電子簽嘅人就唔受影響，一樣可以順利自動通關。
 
-（其他電子簽證、超快自動通關、觀光税等話題請睇：[2024峇里島入境變革一分鐘搞懂：峇里島入境流程 - 落飛機/過海關/到拎行李嘅流程](/blog/2025-bali-immigration-process/)）
+（其他電子簽證、超快自動通關、觀光税等話題請睇：[2024峇里島入境變革一分鐘搞懂：峇里島入境流程 - 落飛機/過海關/到拎行李嘅流程](/zh-hk/blog/2025-bali-immigration-process/)）
 
 ## 交通
 
@@ -67,23 +67,23 @@ _srcHash: aad6c8100db5e4dd4fefcba72ba6bcfe
 
 **選擇包車**
 
-> 喺峇里島出行嘅最佳交通工具係包車，呢一點可以睇下「[峇里島包車自由行全攻略 - 費用、預訂方式、優勢分析](/blog/bali-private-car-hire-guide/)」
+> 喺峇里島出行嘅最佳交通工具係包車，呢一點可以睇下「[峇里島包車自由行全攻略 - 費用、預訂方式、優勢分析](/zh-hk/blog/bali-private-car-hire-guide/)」
 
 **選擇小區域景點**
 
 清明節同開齋節期間，峇里島好多出名景點都塞車塞到爆。建議大家**細區域移動**，咁就唔會浪費假期時間塞車啦。以下係一啲細區域嘅參考：
 
-- [峇里島水明漾100個景點攻略](/blog/seminyak-guide/)
-- [庫塔必訪50個景點攻略](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [坎古80個必遊景點](/blog/canggu-guide/)
-- [烏布探索嘅100個方式](/blog/ubud-guide/)
-- [金巴蘭攻略](/blog/jimbaran-guide/)
-- [烏魯瓦圖攻略](/blog/uluwatu-guide/)
-- [武吉半島冒險指南](/blog/bukit-peninsula-guide/)
-- [沙努爾45項吃喝玩樂攻略](/blog/sanur-guide/)
-- [努沙杜瓦40個住宿美食活動攻略](/blog/nusa-dua-guide/)
-- [佩尼達島吃喝玩樂全攻略](/blog/nusa-penida-guide/)
-- [藍夢島/金銀島景點全攻略](/blog/nusa-lembongan-ceningan-guide/)
+- [峇里島水明漾100個景點攻略](/zh-hk/blog/seminyak-guide/)
+- [庫塔必訪50個景點攻略](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [坎古80個必遊景點](/zh-hk/blog/canggu-guide/)
+- [烏布探索嘅100個方式](/zh-hk/blog/ubud-guide/)
+- [金巴蘭攻略](/zh-hk/blog/jimbaran-guide/)
+- [烏魯瓦圖攻略](/zh-hk/blog/uluwatu-guide/)
+- [武吉半島冒險指南](/zh-hk/blog/bukit-peninsula-guide/)
+- [沙努爾45項吃喝玩樂攻略](/zh-hk/blog/sanur-guide/)
+- [努沙杜瓦40個住宿美食活動攻略](/zh-hk/blog/nusa-dua-guide/)
+- [佩尼達島吃喝玩樂全攻略](/zh-hk/blog/nusa-penida-guide/)
+- [藍夢島/金銀島景點全攻略](/zh-hk/blog/nusa-lembongan-ceningan-guide/)
 
 ![部分知名景點最好放棄，免得把假期浪費在塞車上](https://images.gobaligo.id/vocus/vocus_a3bb9312579d287a186d81246be96731.png)
 
@@ -91,7 +91,7 @@ _srcHash: aad6c8100db5e4dd4fefcba72ba6bcfe
 
 ## **小心雨季**
 
-清明節同開齋節期間，峇里島正值雨季尾聲，雨季可能唔落雨，亦可能連續幾日落雨。雨季去峇里島一定要有突然落雨嘅準備。可以參考「[峇里島雨季：旅遊峇里島碰到落雨天點算？峇里島落雨天嘅60個備案攻略](/blog/2026-bali-indoor-activities/)」。
+清明節同開齋節期間，峇里島正值雨季尾聲，雨季可能唔落雨，亦可能連續幾日落雨。雨季去峇里島一定要有突然落雨嘅準備。可以參考「[峇里島雨季：旅遊峇里島碰到落雨天點算？峇里島落雨天嘅60個備案攻略](/zh-hk/blog/2026-bali-indoor-activities/)」。
 
 ## 家庭出遊 大家都快樂嘅指南
 
@@ -99,30 +99,30 @@ _srcHash: aad6c8100db5e4dd4fefcba72ba6bcfe
 
 對於家庭中嘅長輩嚟講，峇里島提供咗好多適合放鬆同休閒嘅地方，例如美麗嘅海灘、水療中心同風景如畫嘅田園風光。呢啲地方唔單止可以讓長輩享受安寧嘅時光，仲可以一齊參與當地嘅文化活動，了解峇里島獨特嘅傳統。要讓長輩安心旅遊，行前嘅準備唔少得！可以睇下：
 
-- 第一集：[適合長者嘅峇里島旅行指南 - 安全、舒適與注意事項](/blog/bali-elderly-travel-guide/)
-- 第二集：[適合年長者嘅峇里島旅遊地點全攻略](/blog/bali-senior-friendly-travel-guide/)
-- 第三集：[長輩嘅行為有幾騎呢！？帶出國旅遊當心「吃力不討好」](/blog/traveling-with-elderly-parents-tips/)
+- 第一集：[適合長者嘅峇里島旅行指南 - 安全、舒適與注意事項](/zh-hk/blog/bali-elderly-travel-guide/)
+- 第二集：[適合年長者嘅峇里島旅遊地點全攻略](/zh-hk/blog/bali-senior-friendly-travel-guide/)
+- 第三集：[長輩嘅行為有幾騎呢！？帶出國旅遊當心「吃力不討好」](/zh-hk/blog/traveling-with-elderly-parents-tips/)
 
 對於小朋友嚟講，峇里島為佢哋提供咗一個歡樂嘅度假機會。豐富嘅戶外活動、動物園參觀同歷史古蹟探索，可以滿足小朋友對冒險同探索嘅好奇心。關於親子遊嘅提示及指南請睇：
 
-- [峇里島家庭親子友善景點大全｜峇里島超過100樣適合親子同樂活動](/blog/bali-family-travel-guide/)
-- [帶小朋友去峇里島家庭旅遊嘅20個注意要點](/blog/bali-family-travel-tips/)
-- [峇里島親子遊：帶嬰兒、幼童同學齡兒童去度假嘅一啲提示](/blog/bali-family-travel-guide-2/)
-- [峇里島搵保母指南：如何搵到適合嘅保母及費用概況](/blog/bali-nanny-hiring-guide/)
-- [帶寶寶去峇里島：攜帶含豬肉、雞肉副食品嘅注意事項](/blog/baby-food-bali-tips/)
-- [峇里島親子樂園：十五家擁有滑水道溜滑梯嘅親子渡假村 TOP 15](/blog/bali-family-resorts-water-slides/)
-- [推薦峇里島14家庭親子度假村｜庫塔、水明漾、坎古、金巴蘭、烏魯瓦圖適合家庭度假、親子放鬆嘅最佳選擇](/blog/bali-family-resorts-kids-club/)
-- [烏布54項親子活動帶小朋友最輕鬆！](/blog/ubud-with-kids-guide/)
-- [峇里島最適合親子度假嘅海濱：沙努爾攻略地圖｜45項吃喝玩樂](/blog/sanur-guide/)
-- [峇里島親子一日遊攻略：探索野生動物園與紅鶴海灘俱樂部](/blog/bali-family-day-safari-flamingo/)
-- [峇里島親子遊唔可以錯過：峇里島動物園 Bali Safari 要點玩樂、夜宿攻略](/blog/bali-safari-night-stay/)
-- [2025新開幕](/blog/marine-safari-bali-guide/) [Marine Safari Bali 峇里島海洋野生動物園攻略](/blog/marine-safari-bali-guide/)
-- [與羊駝互動野餐：孩子們嘅自然課堂](/blog/pacha-alpaca-family-canggu/)
-- [Nuanu Creative City 嘅魔法花園 Magic Garden](/blog/nuanu-magic-garden-bali/)
-- [Jungle Kids Bali | Nuanu 嘅 Kids Club：最適合孩子嘅遊樂與學習空間](/blog/jungle-kids-bali-nuanu-playground/)
-- [峇里島親子旅遊攻略 - 水明漾篇](/blog/seminyak-family-travel-2026/)
-- [峇里島親子旅遊攻略 - 烏布篇](/blog/ubud-family-travel-2026/)
-- [峇里島親子旅遊攻略 - 沙努爾篇](/blog/sanur-family-travel-guide-2/)
+- [峇里島家庭親子友善景點大全｜峇里島超過100樣適合親子同樂活動](/zh-hk/blog/bali-family-travel-guide/)
+- [帶小朋友去峇里島家庭旅遊嘅20個注意要點](/zh-hk/blog/bali-family-travel-tips/)
+- [峇里島親子遊：帶嬰兒、幼童同學齡兒童去度假嘅一啲提示](/zh-hk/blog/bali-family-travel-guide-2/)
+- [峇里島搵保母指南：如何搵到適合嘅保母及費用概況](/zh-hk/blog/bali-nanny-hiring-guide/)
+- [帶寶寶去峇里島：攜帶含豬肉、雞肉副食品嘅注意事項](/zh-hk/blog/baby-food-bali-tips/)
+- [峇里島親子樂園：十五家擁有滑水道溜滑梯嘅親子渡假村 TOP 15](/zh-hk/blog/bali-family-resorts-water-slides/)
+- [推薦峇里島14家庭親子度假村｜庫塔、水明漾、坎古、金巴蘭、烏魯瓦圖適合家庭度假、親子放鬆嘅最佳選擇](/zh-hk/blog/bali-family-resorts-kids-club/)
+- [烏布54項親子活動帶小朋友最輕鬆！](/zh-hk/blog/ubud-with-kids-guide/)
+- [峇里島最適合親子度假嘅海濱：沙努爾攻略地圖｜45項吃喝玩樂](/zh-hk/blog/sanur-guide/)
+- [峇里島親子一日遊攻略：探索野生動物園與紅鶴海灘俱樂部](/zh-hk/blog/bali-family-day-safari-flamingo/)
+- [峇里島親子遊唔可以錯過：峇里島動物園 Bali Safari 要點玩樂、夜宿攻略](/zh-hk/blog/bali-safari-night-stay/)
+- [2025新開幕](/zh-hk/blog/marine-safari-bali-guide/) [Marine Safari Bali 峇里島海洋野生動物園攻略](/zh-hk/blog/marine-safari-bali-guide/)
+- [與羊駝互動野餐：孩子們嘅自然課堂](/zh-hk/blog/pacha-alpaca-family-canggu/)
+- [Nuanu Creative City 嘅魔法花園 Magic Garden](/zh-hk/blog/nuanu-magic-garden-bali/)
+- [Jungle Kids Bali | Nuanu 嘅 Kids Club：最適合孩子嘅遊樂與學習空間](/zh-hk/blog/jungle-kids-bali-nuanu-playground/)
+- [峇里島親子旅遊攻略 - 水明漾篇](/zh-hk/blog/seminyak-family-travel-2026/)
+- [峇里島親子旅遊攻略 - 烏布篇](/zh-hk/blog/ubud-family-travel-2026/)
+- [峇里島親子旅遊攻略 - 沙努爾篇](/zh-hk/blog/sanur-family-travel-guide-2/)
 - 峇里島家庭親子旅遊專欄
 
 ![家庭出遊 大家都快樂嘅指南](https://images.gobaligo.id/vocus/vocus_02b21980932dcbfaf9c9146ef6bf887b.png)
@@ -135,7 +135,7 @@ _srcHash: aad6c8100db5e4dd4fefcba72ba6bcfe
 
 **快速參考：**
 
-- [峇里島旅遊注意事項：第一次去峇里島必睇嘅31項旅遊攻略](/blog/bali-ultimate-guide-2026/)
-- [峇里島唔好中伏攻略：18個常見錯誤與建議](/blog/bali-travel-mistakes-tips/)
-- 【峇里島必知】99%遊客都喺度偷偷搜尋嘅超尷尬41個問題！](/blog/bali-travel-faqs-guide/)
-- 【咁玩居然唔塞車！】峇里島自由行規劃聖經](/blog/bali-free-travel-guide/)
+- [峇里島旅遊注意事項：第一次去峇里島必睇嘅31項旅遊攻略](/zh-hk/blog/bali-ultimate-guide-2026/)
+- [峇里島唔好中伏攻略：18個常見錯誤與建議](/zh-hk/blog/bali-travel-mistakes-tips/)
+- 【峇里島必知】99%遊客都喺度偷偷搜尋嘅超尷尬41個問題！](/zh-hk/blog/bali-travel-faqs-guide/)
+- 【咁玩居然唔塞車！】峇里島自由行規劃聖經](/zh-hk/blog/bali-free-travel-guide/)

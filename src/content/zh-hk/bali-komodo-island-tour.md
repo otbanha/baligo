@@ -79,13 +79,13 @@ _srcHash: 40e40ec8d242c69a93d487ffb90839a9
 - - 微信：BettyPinkyWu
   - Line：@bettypinkywu
 
-### **提供一個全包式嘅五日四夜行程，含台灣-峇里島直飛機票、峇里島-科莫多島機票、四晚住宿、全程兩人包車...等等： ⭐⭐**[**峇里島+科摩多恐龍島，四晚輕奢住宿/無購物/無自費/五日遊**](/blog/bali-komodo-luxury-tour-2026/)**⭐⭐**
+### **提供一個全包式嘅五日四夜行程，含台灣-峇里島直飛機票、峇里島-科莫多島機票、四晚住宿、全程兩人包車...等等： ⭐⭐**[**峇里島+科摩多恐龍島，四晚輕奢住宿/無購物/無自費/五日遊**](/zh-hk/blog/bali-komodo-luxury-tour-2026/)**⭐⭐**
 
 ### 「峇里島+科摩多島」嘅套裝行程
 
 ![「峇里島+科摩多島」套裝行程](https://images.gobaligo.id/vocus/vocus_b44d6f245184aea60972fa03ca2e2331.png)
 
-[「峇里島+科摩多島」套裝行程](/blog/bali-komodo-luxury-tour-2026/)
+[「峇里島+科摩多島」套裝行程](/zh-hk/blog/bali-komodo-luxury-tour-2026/)
 
 你覺得Tyty Chow佢哋嘅行程好精彩咩？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家去社團投稿你嘅行程㗎！
 
@@ -93,4 +93,4 @@ _srcHash: 40e40ec8d242c69a93d487ffb90839a9
 
 撳呢度睇更多峇里島精彩遊記
 
-你都想寫遊記但唔知點樣開始？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！
+你都想寫遊記但唔知點樣開始？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/zh-hk/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！

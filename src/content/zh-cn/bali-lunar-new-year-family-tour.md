@@ -96,24 +96,24 @@ _srcHash: bdc0f5e7cf8d112b27241e89d4545c82
 
 ![▼更多正在进行的优惠](https://images.gobaligo.id/vocus/vocus_2abc41f5a9e9e13d248add4bf70717e4.jpg)
 
-[点我！专人帮你定制最精彩的巴厘岛之旅](/blog/isbali-tour-agency-review/)
+[点我！专人帮你定制最精彩的巴厘岛之旅](/zh-cn/blog/isbali-tour-agency-review/)
 
 ![▼更多正在进行的优惠](https://images.gobaligo.id/vocus/vocus_c9e28c93bbbe5f6030c996d2158d6801.jpg)
 
-[点我！全部都帮你打包好的巴厘岛-科莫多之旅](/blog/bali-komodo-luxury-tour-2026/)
+[点我！全部都帮你打包好的巴厘岛-科莫多之旅](/zh-cn/blog/bali-komodo-luxury-tour-2026/)
 
 ![▼更多正在进行的优惠](https://images.gobaligo.id/vocus/vocus_8d1c49bc97d705d414ae97e29e6deacb.jpg)
 
-[点我！佩尼达岛东西岸+巴厘岛网红秘境五日游](/blog/nusa-penida-luxury-tour/)
+[点我！佩尼达岛东西岸+巴厘岛网红秘境五日游](/zh-cn/blog/nusa-penida-luxury-tour/)
 
 ![▼更多正在进行的优惠](https://images.gobaligo.id/vocus/vocus_33672ee04cad9cd5d2169e0fc3f6403a.jpg)
 
-[点我！伊真火山+巴厘岛探险五日游](/blog/ijen-bromo-bali-luxury-tour/)
+[点我！伊真火山+巴厘岛探险五日游](/zh-cn/blog/ijen-bromo-bali-luxury-tour/)
 
 ![▼更多正在进行的优惠](https://images.gobaligo.id/vocus/vocus_bfbd87f7b8aeb2816d05ce668257860f.jpg)
 
-[点我！顶级豪华巴厘岛私人旅游](/blog/bali-luxury-vip-travel-guide/)
+[点我！顶级豪华巴厘岛私人旅游](/zh-cn/blog/bali-luxury-vip-travel-guide/)
 
 ![▼更多正在进行的优惠](https://images.gobaligo.id/vocus/vocus_5ade1700adacfafb5b97583754daa9d0.jpg)
 
-[点我！一次解决团体旅游痛点](/blog/bali-group-travel-tips/)
+[点我！一次解决团体旅游痛点](/zh-cn/blog/bali-group-travel-tips/)

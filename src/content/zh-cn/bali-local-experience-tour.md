@@ -32,7 +32,7 @@ https://youtu.be/RRurkFC7UG4
 
 这个市场不仅有琳琅满目的手工艺品，还有许多本地人经常光顾的店家，因此你可以感受到最真实的巴厘岛购物氛围。逛市场时，别忘了携带足够的现金，因为很多摊贩不接受信用卡。
 
-延伸阅读：[巴厘岛旅游要准备多少现金？](/blog/bali-travel-cash-budget-guide/)
+延伸阅读：[巴厘岛旅游要准备多少现金？](/zh-cn/blog/bali-travel-cash-budget-guide/)
 
 ## 巴东市场：Pasar Badung
 
@@ -88,6 +88,6 @@ https://youtu.be/FphhiUzB7gM
 
 点击这里观看更多巴厘岛精彩游记
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/zh-cn/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
 
 {{block:戶外}}

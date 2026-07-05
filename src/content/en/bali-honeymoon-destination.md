@@ -44,27 +44,27 @@ Bali is the best honeymoon destination voted by global travelers
 
 If you are looking for a highly romantic vacation spot, Bali is definitely a dream honeymoon destination for many.
 
-If you plan to spend an unforgettable honeymoon or romantic trip in Bali, consider referring to our exclusive article '[For Honeymooners/Couples Only! The Latest 2024 Bali Guide: 20 Honeymoon Resorts & Romantic Villas](/blog/bali-honeymoon-resorts-guide/)'. This guide provides you with the most selected resorts and romantic villas in Bali, helping you create a romantic memory. Whether it's a luxurious beachfront resort or a private chic villa, it can meet the needs of different couples, adding rich colors to your honeymoon or romantic trip.
+If you plan to spend an unforgettable honeymoon or romantic trip in Bali, consider referring to our exclusive article '[For Honeymooners/Couples Only! The Latest 2024 Bali Guide: 20 Honeymoon Resorts & Romantic Villas](/en/blog/bali-honeymoon-resorts-guide/)'. This guide provides you with the most selected resorts and romantic villas in Bali, helping you create a romantic memory. Whether it's a luxurious beachfront resort or a private chic villa, it can meet the needs of different couples, adding rich colors to your honeymoon or romantic trip.
 
 ![【20間度蜜月度假村、浪漫villa推薦懶人包】有峇里島最棒的推薦！](https://images.gobaligo.id/vocus/vocus_f4d29dce63300c6af63b6247aee36052.png)
 
-[20 Honeymoon Resorts & Romantic Villas Recommended Guide](/blog/bali-honeymoon-resorts-guide/)
+[20 Honeymoon Resorts & Romantic Villas Recommended Guide](/en/blog/bali-honeymoon-resorts-guide/)
 
 Let Bali be the stage for your romantic adventure, creating beautiful memories and profound experiences. In this paradise on the Indian Ocean, every moment spent with your loved one will become a cherished memory. May your journey be filled with love and romance!
 
 ## Bali Accommodation/Villa Guide:
 
-- [Incredible Value: Stay at 11 Boutique Hotels in Bali for Under $30, Perfect for Instagram-Worthy Photos!](/blog/bali-boutique-hotels-under-30/)
-- [Bali Villa Recommendations: Top 20 High-Value Villas (Part 1)](/blog/bali-best-villas-top20-part1/)
-- [Bali Villa Recommendations: Top 20 High-Value Romantic Villas (Part 2)](/blog/bali-best-villas-top20-part2/)
-- [Bali Family-Friendly Attractions & Accommodations Guide](/blog/bali-family-travel-guide/)
-- [Honeymoon & Couples' Guide: Latest 2023 Romantic Accommodation Recommendations in Bali](/blog/bali-honeymoon-resorts-guide/)
-- [Bali Accommodation Recommendations: 10 Affordable Stays in Seminyak’s Prime Area](/blog/seminyak-budget-hotels-guide/)
-- [Bali Accommodation Recommendations: Coastal-Themed Stays in Seminyak](/blog/seminyak-beach-resorts-guide/)
-- [Jimbaran Accommodation Recommendation: Ayana Resort Bali](/blog/ayana-resort-bali-guide/)
-- [Uluwatu Accommodation Recommendations: 12 Private Villas with Stunning Ocean Views](/blog/uluwatu-bali-villas-resorts-guide/)
-- [Bali Accommodation Recommendations: Unbeatable Ocean Views in Jimbaran](/blog/2023-11-09-654c6271fd8978000174ff5e/)
-- [Bali Family Paradise: Top 15 Resorts with Water Slides](/blog/bali-family-resorts-water-slides/)
-- [Bali Family Travel Guide: Sanur Map｜45 Things to Eat, Drink, and Do, Plus SPA and Accommodation Recommendations!](/blog/sanur-guide/)
-- [Nusa Dua & Tanjung Benoa: The Ultimate Luxury Destination in Bali - 40 Accommodations, Dining, and Activities Guide](/blog/nusa-dua-guide/)
-- [Nusa Penida Accommodation Recommendations: 13 Highly-Rated Stays from Luxury to Budget](/blog/nusa-penida-hotels-guide/)
+- [Incredible Value: Stay at 11 Boutique Hotels in Bali for Under $30, Perfect for Instagram-Worthy Photos!](/en/blog/bali-boutique-hotels-under-30/)
+- [Bali Villa Recommendations: Top 20 High-Value Villas (Part 1)](/en/blog/bali-best-villas-top20-part1/)
+- [Bali Villa Recommendations: Top 20 High-Value Romantic Villas (Part 2)](/en/blog/bali-best-villas-top20-part2/)
+- [Bali Family-Friendly Attractions & Accommodations Guide](/en/blog/bali-family-travel-guide/)
+- [Honeymoon & Couples' Guide: Latest 2023 Romantic Accommodation Recommendations in Bali](/en/blog/bali-honeymoon-resorts-guide/)
+- [Bali Accommodation Recommendations: 10 Affordable Stays in Seminyak’s Prime Area](/en/blog/seminyak-budget-hotels-guide/)
+- [Bali Accommodation Recommendations: Coastal-Themed Stays in Seminyak](/en/blog/seminyak-beach-resorts-guide/)
+- [Jimbaran Accommodation Recommendation: Ayana Resort Bali](/en/blog/ayana-resort-bali-guide/)
+- [Uluwatu Accommodation Recommendations: 12 Private Villas with Stunning Ocean Views](/en/blog/uluwatu-bali-villas-resorts-guide/)
+- [Bali Accommodation Recommendations: Unbeatable Ocean Views in Jimbaran](/en/blog/2023-11-09-654c6271fd8978000174ff5e/)
+- [Bali Family Paradise: Top 15 Resorts with Water Slides](/en/blog/bali-family-resorts-water-slides/)
+- [Bali Family Travel Guide: Sanur Map｜45 Things to Eat, Drink, and Do, Plus SPA and Accommodation Recommendations!](/en/blog/sanur-guide/)
+- [Nusa Dua & Tanjung Benoa: The Ultimate Luxury Destination in Bali - 40 Accommodations, Dining, and Activities Guide](/en/blog/nusa-dua-guide/)
+- [Nusa Penida Accommodation Recommendations: 13 Highly-Rated Stays from Luxury to Budget](/en/blog/nusa-penida-hotels-guide/)

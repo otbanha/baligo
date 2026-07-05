@@ -43,7 +43,7 @@ Baca cerita perjalanan Jie ke Pintu Langit:
 
 https://youtu.be/H-IocbLNpE4
 
-> Gak mau antre 2-3 jam? Coba deh tempat ini [Rekomendasi Tempat Wisata Bali: Lahangan Sweet — Pemandangan Gunung Agung yang Keren Abis 🌄](/blog/lahangan-sweet-volcano-view/)
+> Gak mau antre 2-3 jam? Coba deh tempat ini [Rekomendasi Tempat Wisata Bali: Lahangan Sweet — Pemandangan Gunung Agung yang Keren Abis 🌄](/id/blog/lahangan-sweet-volcano-view/)
 
 ## Taman Suci Gangga
 
@@ -67,7 +67,7 @@ Mulai dari pemandangan Gunung Agung yang megah di Pura Lempuyang (Sky Gate), sam
 
 ![Ujung Water Palace](https://images.gobaligo.id/vocus/vocus_1b788d4b2052c6e67e9c475e88df1921.jpg)
 
-Jangan lupa mampir juga ke Amed dan Tulamben yang ada di timur Bali! Panduan lengkapnya ada [di sini](/blog/amed-tulamben-diving-guide/)
+Jangan lupa mampir juga ke Amed dan Tulamben yang ada di timur Bali! Panduan lengkapnya ada [di sini](/id/blog/amed-tulamben-diving-guide/)
 
 {{block:ubud}}
 

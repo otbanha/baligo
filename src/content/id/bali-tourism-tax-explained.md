@@ -33,7 +33,7 @@ Selain itu, pajak wisata juga dipakai buat mendukung pelestarian budaya dan mend
 
 Intinya, sistem pajak wisata Bali adalah cara inovatif yang bertujuan ningkatin kualitas hidup masyarakat lokal dan melindungi lingkungan alam lewat pariwisata berkelanjutan. Dengan bikin wisatawan paham tujuan dan penggunaan pajak wisata, Bali berharap bisa menginspirasi lebih banyak orang buat mendukung dan berpartisipasi, bareng-bareng membangun Bali yang lebih baik.
 
-Karena cuma 70% wisatawan yang beneran bayar pajak wisata, [Bali udah mulai ngadain pemeriksaan acak pajak wisata sejak 26 Maret!](/blog/bali-tourism-tax-update/) Biar jadi turis Bali yang bertanggung jawab, kita saranin kamu tetap bayar ya!
+Karena cuma 70% wisatawan yang beneran bayar pajak wisata, [Bali udah mulai ngadain pemeriksaan acak pajak wisata sejak 26 Maret!](/id/blog/bali-tourism-tax-update/) Biar jadi turis Bali yang bertanggung jawab, kita saranin kamu tetap bayar ya!
 
 ![Gak Bayar Juga Boleh? Apa Sih Pajak Wisata / Tourist Tax Bal](https://images.gobaligo.id/vocus/vocus_7b65cf3a3a36d6fec5bc94d0b20dc173.png)
 
@@ -48,7 +48,7 @@ Karena cuma 70% wisatawan yang beneran bayar pajak wisata, [Bali udah mulai ngad
 
 **Pajak turis itu komitmen buat Bali — kalau kamu cinta keindahannya, kamu harus ikut jaga keberlanjutannya.**
 
-Baca juga: [Panduan Lengkap Pajak Turis/Travel Tax Bali: Aturan Baru 2024, Cara Bayar, Tips Antar-Pulau](/blog/2026-bali-tourism-tax-guide/)
+Baca juga: [Panduan Lengkap Pajak Turis/Travel Tax Bali: Aturan Baru 2024, Cara Bayar, Tips Antar-Pulau](/id/blog/2026-bali-tourism-tax-guide/)
 
 ## 
 

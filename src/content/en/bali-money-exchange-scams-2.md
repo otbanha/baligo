@@ -129,6 +129,6 @@ We hope everyone can leave Bali with wonderful memories, not painful lessons of 
 
 **Quick Reference:**
 
-- [Indonesia/Bali Travel Currency Exchange Guide](/blog/bali-currency-exchange-guide/)
-- [Bali USD Exchange Rate: Big Bills or Small Bills? Exchange Rate Guide Revealed!](/blog/bali-usd-exchange-rate/)
-- [Indonesia/Bali Currency Exchange: Direct Exchange vs. Exchanging USD First, Which is Better?](/blog/bali-currency-exchange-tips/)
+- [Indonesia/Bali Travel Currency Exchange Guide](/en/blog/bali-currency-exchange-guide/)
+- [Bali USD Exchange Rate: Big Bills or Small Bills? Exchange Rate Guide Revealed!](/en/blog/bali-usd-exchange-rate/)
+- [Indonesia/Bali Currency Exchange: Direct Exchange vs. Exchanging USD First, Which is Better?](/en/blog/bali-currency-exchange-tips/)

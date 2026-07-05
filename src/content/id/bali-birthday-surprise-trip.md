@@ -76,7 +76,7 @@ Makan malam kita pilih **Wahaha Pork Ribs**. Iga babi panggang dan jagung bakar-
 
 [**▶Cek Ketersediaan Kamar & Harga Fairfield Legian**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2179176) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=8669641&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjM0MDAwNTQ2NdU1SLRMtDBOTNU1sTQxNrDUNTIwMdL4v-zazKfGRgZagvEhnp4uhiWFqWaFpZY5RQWmpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYnNwMnUzNo_ikmEPCXRRX3mRee2DCafsk1qoM3ZDwjF5xAAJsCP2BAAAA&masterhotelid_tracelogid=100051355-0a9a83ae-494309-2042&detailFilters=17|1~17~1*31|8669641~31~8669641*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1425&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/AaX6Ygwm)
 
-> ** **[【Rekomendasi 12 Hotel Terbaik di Kuta】Panduan Lengkap: Belanja di Pusat Kota, Transit Bandara, Akomodasi dengan Harga Terjangkau](/blog/best-kuta-hotels-list/)
+> ** **[【Rekomendasi 12 Hotel Terbaik di Kuta】Panduan Lengkap: Belanja di Pusat Kota, Transit Bandara, Akomodasi dengan Harga Terjangkau](/id/blog/best-kuta-hotels-list/)
 
 ## **9 September: Tur Sehari Nusa Penida yang Spektakuler & Snorkeling**
 
@@ -200,7 +200,7 @@ Menginap di **VIVARA private pool Villas & Spa Retreats**. Pas baru sampai, hote
 
 Perjalanan udah mau habis, tapi kejutannya masih ada. Pagi-pagi kita ke GWK (Garuda Wisnu Kencana) **Cultural Park**. Tempat ini nggak cuma terkenal sama patung Garuda raksasa, tapi juga punya banyak pertunjukan tari tradisional Bali. Di dalam taman, hampir tiap jam ada pertunjukan tari yang beda-beda, nunjukin keindahan budaya Bali. Kita nonton dua-tiga pertunjukan berturut-turut, sebelum tiap pertunjukan kita pakai ChatGPT buat foto dan terjemahin teks penjelasannya, jadi bisa ngerti sedikit cerita mitologi di balik tariannya, bikin nonton makin seru.
 
-Referensi cepat: [【Ikon Bali】Panduan Lengkap GWK Cultural Park: Patung Tertinggi di Dunia, Tari Tradisional & Spot Foto Kece](/blog/gwk-cultural-park-bali/)
+Referensi cepat: [【Ikon Bali】Panduan Lengkap GWK Cultural Park: Patung Tertinggi di Dunia, Tari Tradisional & Spot Foto Kece](/id/blog/gwk-cultural-park-bali/)
 
 > [Tiket Diskon GWK Cultural Park](https://affiliate.klook.com/redirect?aid=116349&aff_adid=939346&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Debd8965f1e)
 
@@ -214,7 +214,7 @@ Sore harinya, kami lanjut ke **Pura Uluwatu** (Uluwatu Temple). Sepanjang jalan,
 
 Menjelang senja, kami cari tempat duduk dan siap nonton pertunjukan **Tari Kecak Api (Kecak Fire Dance)** yang udah terkenal itu. Pertunjukan ini menggabungkan mitologi Bali dengan tarian tradisional, panggungnya setengah lingkaran bertingkat, dan efek visual penonton yang dikelilingi api bener-bener bikin merinding. Sepanjang pertunjukan nggak pakai alat musik, cuma puluhan penari yang ngeluarin suara 'kecak-kecak' dengan ritme rendah dan kuat, suara dari mulut ke mulut itu jadi latar yang menghanyutkan. Cara pertunjukan yang unik ini bikin kita benar-benar tenggelam. Di akhir pertunjukan, ada seorang penonton yang malah ngelamar kekasihnya di tengah suasana itu! Dengan latar api yang menyala, kejutan lamaran ini menyatu dengan pertunjukan klasik, jadi momen seru yang nggak terlupakan di perjalanan ini.
 
-> Tari Kecak Api itu pertunjukan apa? Apa yang spesial? Cek [penjelasannya di sini](/blog/kecak-fire-dance-bali/)
+> Tari Kecak Api itu pertunjukan apa? Apa yang spesial? Cek [penjelasannya di sini](/id/blog/kecak-fire-dance-bali/)
 
 Hari ini penuh dengan tradisi, kejutan, dan nuansa budaya Bali yang kental.
 
@@ -274,6 +274,6 @@ Kamu pikir perjalanan Zhang Jiawei seru? Yuk, rencanain liburan mandiri ke Bali 
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 
-Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
+Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
 
 {{block:攻略}}

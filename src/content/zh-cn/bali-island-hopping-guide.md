@@ -25,9 +25,9 @@ _srcHash: fc7ae84a0ba8944ed38cf777f77bd660
 
 延伸阅读:
 
-> [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)
+> [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/zh-cn/blog/nusa-penida-guide/)
 
-> [【Gili islands 吉利群岛攻略：极致度假胜地】：沉醉于天堂海岛的度假体验！](/blog/gili-islands-travel-guide/)
+> [【Gili islands 吉利群岛攻略：极致度假胜地】：沉醉于天堂海岛的度假体验！](/zh-cn/blog/gili-islands-travel-guide/)
 
 计划一趟巴厘岛跳岛之旅时，确保事先安排好快艇船票是至关重要的一步。而购买快艇船票的方式和地点将直接影响你旅程的顺利程度。在这篇文章中，我们将讨论如何购买快艇船票、哪里可以购买以及为何我们推荐在 Klook 上进行购买。让我们一起来探索这个主题吧！
 
@@ -74,7 +74,7 @@ _srcHash: fc7ae84a0ba8944ed38cf777f77bd660
 1. 直接在港口可以订票，但是务必提早在开船前一个小时到达售票处
 2. 事先在Klook订票有优惠又可以免去排队购票的时间
 3. 可携带大件行李，但是最好尽量避免，在岛上携带非常不方便
-4. 寄物服务请[参考这里](/blog/sanur-luggage-storage-guide/)
+4. 寄物服务请[参考这里](/zh-cn/blog/sanur-luggage-storage-guide/)
 5. 穿着拖鞋和短裤上船，因为在部分岛屿须涉水下船
 6. Klook购票者开船前提早至少30分钟抵达港口
 7. Klook购票者最好提前一天以上先订票

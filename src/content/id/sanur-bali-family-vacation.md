@@ -42,6 +42,6 @@ Kalau jalan di sepanjang pantai, dekat Hotel Mecure ada taman bermain pantai gra
 
 Sanur menawarkan beragam pilihan aktivitas keluarga, ditambah fasilitas pendukung yang lengkap, bener-bener tempat ideal buat liburan sekeluarga. Video Gary ini kasih panduan praktis, jadi referensi perjalanan yang oke buat keluarga yang mau liburan ke Sanur.
 
-Selain yang udah Gary kasih bocoran dikit, kita juga udah siapin buat kamu **50 rekomendasi tempat makan, main, SPA, dan penginapan di Sanur yang cocok banget buat liburan keluarga**! Klik [di sini](/blog/sanur-guide/) ya!
+Selain yang udah Gary kasih bocoran dikit, kita juga udah siapin buat kamu **50 rekomendasi tempat makan, main, SPA, dan penginapan di Sanur yang cocok banget buat liburan keluarga**! Klik [di sini](/id/blog/sanur-guide/) ya!
 
 {{block:sanur}}

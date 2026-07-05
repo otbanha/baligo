@@ -72,4 +72,4 @@ Luna Beach Club is more than just a beach club - it's an integrated destination 
 
 Nuanu Creative City is Bali's latest emerging creative hub, promoting zero carbon emissions and becoming the island's newest sustainable tourism landmark. It's already attracting global creatives as the next must-visit hotspot!
 
-For a guide to Nuanu Creative City's attractions, check out [here](/blog/nuanu-creative-city-luna-guide/)
+For a guide to Nuanu Creative City's attractions, check out [here](/en/blog/nuanu-creative-city-luna-guide/)

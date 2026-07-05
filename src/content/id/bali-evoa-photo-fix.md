@@ -20,7 +20,7 @@ Update: 2026/07/03
 
 **Kesimpulan dulu** : Gagal upload foto paspor eVoa, 90% penyebabnya **file lebih dari 2MB** — sekarang hp jepret aja udah gede banget filenya. Solusi paling cepat: kirim foto lewat **LINE ke temen, minta dia kirim balik**, nanti otomatis dikompres jadi beberapa ratus KB tanpa pecah, baru bisa lolos upload. Syarat resmi foto: jpeg/jpg/png warna, minimal 400×600, file maks 2MB, komposisi rapi (selfie di dinding polos aja udah oke).
 
-Mau liburan ke Indonesia atau Bali wajib urus visa dulu. Ada dua cara, perbandingannya bisa cek: [Panduan Visa Liburan Bali: Visa on Arrival vs E-Visa, Mana yang Lebih Cocok Buat Kamu?](/blog/bali-visa-landing-vs-electronic/)
+Mau liburan ke Indonesia atau Bali wajib urus visa dulu. Ada dua cara, perbandingannya bisa cek: [Panduan Visa Liburan Bali: Visa on Arrival vs E-Visa, Mana yang Lebih Cocok Buat Kamu?](/id/blog/bali-visa-landing-vs-electronic/)
 
 ## Banyak untungnya apply eVisa (eVoA) buat masuk Indonesia/Bali!
 
@@ -69,6 +69,6 @@ Kalau udah ikutin petunjuk kami tapi masih gak lanjut ke langkah berikutnya, cob
 
 ## Baca Juga
 
-> [Panduan Lengkap eVisa Bali: Cara Daftar, Syarat, & Tips Penting!](/blog/bali-evisa-application-guide/)
+> [Panduan Lengkap eVisa Bali: Cara Daftar, Syarat, & Tips Penting!](/id/blog/bali-evisa-application-guide/)
 
-> [Cepat & Gampang! Panduan Autogate Bali 2024 & Tips Lolos Imigrasi](/blog/2025-bali-automatic-customs/)
+> [Cepat & Gampang! Panduan Autogate Bali 2024 & Tips Lolos Imigrasi](/id/blog/2025-bali-automatic-customs/)

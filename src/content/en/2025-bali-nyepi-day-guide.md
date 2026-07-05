@@ -96,7 +96,7 @@ Expect Bali to start filling up with local Indonesians from March 26th, peaking 
 
 ## Special Festivals in Bali During Other Months
 
-We recommend checking out our [2025 Indonesia/Bali Festival Guide](/blog/bali-indonesia-holidays-2025/) for comprehensive information and guidelines on all special festivals in Bali, ensuring you have a meaningful and uniquely memorable holiday experience.
+We recommend checking out our [2025 Indonesia/Bali Festival Guide](/en/blog/bali-indonesia-holidays-2025/) for comprehensive information and guidelines on all special festivals in Bali, ensuring you have a meaningful and uniquely memorable holiday experience.
 
 ## **FAQ: Common Questions About Bali's Nyepi**
 

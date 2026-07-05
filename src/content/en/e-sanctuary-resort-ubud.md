@@ -171,6 +171,6 @@ Our room was spacious and elegant, making us feel like we were staying in our ow
 
 ![More Ubud Villa Introductions](https://images.gobaligo.id/vocus/vocus_a30b2c12d987f7f2f04e8d47f429fb9d.png)
 
-Want to experience a dreamy vacation? 🌴 Ubud pool villas offer you the ultimate luxury and relaxation! Private pools, stunning scenery, top-notch amenities—everything designed for your perfect getaway. Click [here](/blog/ubud-villa-pool-guide/) to explore more of our recommended Ubud pool villas and their unique charm, and start your exclusive vacation journey! ✨
+Want to experience a dreamy vacation? 🌴 Ubud pool villas offer you the ultimate luxury and relaxation! Private pools, stunning scenery, top-notch amenities—everything designed for your perfect getaway. Click [here](/en/blog/ubud-villa-pool-guide/) to explore more of our recommended Ubud pool villas and their unique charm, and start your exclusive vacation journey! ✨
 
 {{block:住宿}}

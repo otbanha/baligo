@@ -391,6 +391,22 @@ async function translateTexts(texts, lang) {
 
 // ── 主要翻譯邏輯 ─────────────────────────────────────────────────────────────
 
+// 站內連結（/blog/、/trip-planner/、/bali-budget-calculator/、/map/gojek-fare/）在 zh-tw 來源一律不帶語系前綴，
+// 但這些路徑在其他語言都有各自的 /{lang}/... 版本，翻譯後必須補上前綴，否則讀者點連結會被切回中文頁。
+// 注意：/map/ 底下只有 gojek-fare 有語系版本，其餘（/map/ubud/、/map/index 等地區地圖、
+// favorites、itinerary）只有 src/pages/map/ 根路由，沒有 /{lang}/map/... 版本，千萬不要一併加前綴，
+// 否則連結會導向不存在的頁面（404）。/go/ 和 /ask/ 同樣沒有語系版本，維持原樣。
+const LOCALIZED_PATH_PREFIXES = ['blog', 'trip-planner', 'bali-budget-calculator', 'map/gojek-fare'];
+const LOCALIZED_PATH_ALT = LOCALIZED_PATH_PREFIXES.map(p => p.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|');
+const LOCALIZED_MD_LINK_RE = new RegExp(`\\]\\(/(${LOCALIZED_PATH_ALT})/`, 'g');
+const LOCALIZED_ABS_URL_RE = new RegExp(`https://(www\\.)?gobaligo\\.id/(${LOCALIZED_PATH_ALT})/`, 'g');
+
+function localizeInternalLinks(text, lang) {
+  return text
+    .replace(LOCALIZED_MD_LINK_RE, (_, p) => `](/${lang}/${p}/`)
+    .replace(LOCALIZED_ABS_URL_RE, (_, www, p) => `https://${www || ''}gobaligo.id/${lang}/${p}/`);
+}
+
 // titleLocked 時，newFm.title/description 目前仍是來源語言（zh-tw）的值（來自 {...fm} 展開），
 // 必須換成翻譯檔既有的英文（或其他語言）title/description，否則會把中文寫進翻譯檔。
 function applyTitleLock(newFm, titleLocked, destPath) {
@@ -460,7 +476,7 @@ async function translateFile(filename, lang) {
     if (!isDryRun) {
       const newFm = { ...fm, lang, _srcHash: srcHash };
       applyTitleLock(newFm, titleLocked, destPath);
-      const newContent = matter.stringify(body, newFm);
+      const newContent = matter.stringify(localizeInternalLinks(body, lang), newFm);
       writeFileSync(destPath, newContent, 'utf-8');
       cache.files[fileCacheKey] = srcHash;
       saveCache();
@@ -511,7 +527,7 @@ async function translateFile(filename, lang) {
     return seg.content;
   }).join('\n\n');
 
-  const newContent = matter.stringify(newBody, newFm);
+  const newContent = matter.stringify(localizeInternalLinks(newBody, lang), newFm);
 
   if (!isDryRun) {
     writeFileSync(destPath, newContent, 'utf-8');

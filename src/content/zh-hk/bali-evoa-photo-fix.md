@@ -20,7 +20,7 @@ Update: 2026/07/03
 
 **先講結論**：eVoA 大頭相上傳失敗，九成原因係**檔案超過 2MB**——而家手機隨手影都會超。最快解決方法：將相片用 **LINE 傳畀朋友再叫佢傳返畀你**，通訊軟件會自動壓縮到幾百 KB 而唔失真，咁就可以通過上傳。官方相片要求：jpeg/jpg/png 彩色相、最少 400×600、檔案 2MB 以內、構圖端正（素色牆自拍就得）。
 
-要去印尼或峇里島旅行需要申請簽證(VISA)。而申請簽證嘅方法有兩種，呢兩種方法嘅比較請參考：[峇里島旅遊簽證攻略：落地簽 vs 電子簽，邊種更適合你？](/blog/bali-visa-landing-vs-electronic/)
+要去印尼或峇里島旅行需要申請簽證(VISA)。而申請簽證嘅方法有兩種，呢兩種方法嘅比較請參考：[峇里島旅遊簽證攻略：落地簽 vs 電子簽，邊種更適合你？](/zh-hk/blog/bali-visa-landing-vs-electronic/)
 
 ## 申請電子簽證(eVoA)入境印尼/峇里島好處多多㗎！
 
@@ -69,6 +69,6 @@ Update: 2026/07/03
 
 ## 延伸閱讀
 
-> [印尼/峇里島電子簽證eVoa全攻略：申請步驟、注意事項一次掌握！](/blog/bali-evisa-application-guide/)
+> [印尼/峇里島電子簽證eVoa全攻略：申請步驟、注意事項一次掌握！](/zh-hk/blog/bali-evisa-application-guide/)
 
-> [快靚正！2024峇里島自動通關流程&過關攻略](/blog/2025-bali-automatic-customs/)
+> [快靚正！2024峇里島自動通關流程&過關攻略](/zh-hk/blog/2025-bali-automatic-customs/)

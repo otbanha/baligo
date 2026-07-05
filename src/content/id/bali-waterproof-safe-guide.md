@@ -96,9 +96,9 @@ Dari tiga pertanyaan itu, kamu bisa langsung tahu jenis waterproof bag yang pas.
 
 Waterproof bag emang agak mahalan, tapi dibanding risiko paspor rusak atau kartu kredit ilang, ini jauh lebih worth it. Apalagi bag yang bagus nggak cuma buat trip kali ini — bisa dipake lagi ke pantai lain, bahkan liburan ke luar negeri.
 
-Alternatif lainnya, **kalau kamu punya supir atau guide ATV yang terpercaya, kamu bisa titipin paspor dan sebagian besar uang tunai ke dia**. Di grup-grup komunitas, [supir dengan rating bagus dan terpercaya](/blog/bali-private-car-drivers-guide/) biasanya dengan senang hati bantu. Dengan begitu kamu bisa fokus 100% ke aktivitas tanpa khawatir barang. Cara ini cocok banget buat kegiatan grup atau kalau udah kenal sama supir.
+Alternatif lainnya, **kalau kamu punya supir atau guide ATV yang terpercaya, kamu bisa titipin paspor dan sebagian besar uang tunai ke dia**. Di grup-grup komunitas, [supir dengan rating bagus dan terpercaya](/id/blog/bali-private-car-drivers-guide/) biasanya dengan senang hati bantu. Dengan begitu kamu bisa fokus 100% ke aktivitas tanpa khawatir barang. Cara ini cocok banget buat kegiatan grup atau kalau udah kenal sama supir.
 
-> [【Rekomendasi Sewa Mobil Bali 2026】Daftar Supir Terbaik Versi Netizen: Review Asli & Cara Booking](/blog/bali-private-car-drivers-guide/)
+> [【Rekomendasi Sewa Mobil Bali 2026】Daftar Supir Terbaik Versi Netizen: Review Asli & Cara Booking](/id/blog/bali-private-car-drivers-guide/)
 
 Intinya: **pakai alat yang tepat atau cari orang yang tepat, biar bisa nikmatin setiap petualangan dengan tenang**. Pas ke Bali nanti, jangan lupa siapin waterproof bag, atau tanya dulu ke supir apakah bisa bantu jagain barang — biar makin puas mainnya.
 

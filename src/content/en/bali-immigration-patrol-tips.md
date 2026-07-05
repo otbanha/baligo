@@ -54,7 +54,7 @@ To better manage tourists, Indonesia's immigration authorities launched the new 
 
 The goal of this policy is not just to streamline management but also to effectively curb illegal activities.
 
-Quick Reference: [New Indonesian Visa Extension Rules Effective Immediately: Important Changes Bali Tourists Need to Know, Visa Extension Process Has Changed](/blog/indonesia-visa-rules-2025/)
+Quick Reference: [New Indonesian Visa Extension Rules Effective Immediately: Important Changes Bali Tourists Need to Know, Visa Extension Process Has Changed](/en/blog/indonesia-visa-rules-2025/)
 
 ---
 

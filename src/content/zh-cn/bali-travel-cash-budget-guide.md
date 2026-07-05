@@ -20,16 +20,16 @@ _srcHash: c7df2f5b72ed8a0131bdf7bb7d17329b
 
 ## 【何时要用现金？】相关链接
 
-* [巴厘岛十大美食](/blog/bali-travel-tips/)（一）
-* [巴厘岛十大美食](/blog/bali-top-10-foods/)（二）
-* [巴厘岛包车自由行全攻略 - 费用、预订方式、优势分析](/blog/bali-private-car-hire-guide/)
-* [短程交通用这个：Gojek全攻略](/blog/gojek-bali-guide/)
+* [巴厘岛十大美食](/zh-cn/blog/bali-travel-tips/)（一）
+* [巴厘岛十大美食](/zh-cn/blog/bali-top-10-foods/)（二）
+* [巴厘岛包车自由行全攻略 - 费用、预订方式、优势分析](/zh-cn/blog/bali-private-car-hire-guide/)
+* [短程交通用这个：Gojek全攻略](/zh-cn/blog/gojek-bali-guide/)
 * [在巴厘岛如何给小费？](https://youtu.be/B_oT905RkQw)
-* [巴厘岛户外活动玩什么？50种最受欢迎的户外体验](/blog/bali-top-50-outdoor-activities/)
+* [巴厘岛户外活动玩什么？50种最受欢迎的户外体验](/zh-cn/blog/bali-top-50-outdoor-activities/)
 
 ## 【巴厘岛伴手礼】相关链接
 
-[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/blog/bali-souvenirs-gift-guide/)
+[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/zh-cn/blog/bali-souvenirs-gift-guide/)
 
 {{block:klook}}
 
@@ -45,6 +45,6 @@ https://youtu.be/11xViUhEnYQ
 
 ## SPA推荐
 
-[SPA也要精打细算：只推荐好评SPA](/blog/spa/)
+[SPA也要精打细算：只推荐好评SPA](/zh-cn/blog/spa/)
 
 {{block:戶外}}

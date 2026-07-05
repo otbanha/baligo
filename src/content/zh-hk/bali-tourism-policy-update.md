@@ -46,7 +46,7 @@ _srcHash: 37055e34ac72ef21dbbd1163a1f55043
 
 **快速參考：**
 
-[峇里島將強制禁止「逃票」遊客：觀光稅或成強制規定！](/blog/bali-tourism-tax-enforcement/)
+[峇里島將強制禁止「逃票」遊客：觀光稅或成強制規定！](/zh-hk/blog/bali-tourism-tax-enforcement/)
 
 ### 未來會點樣？
 

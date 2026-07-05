@@ -85,17 +85,17 @@ Setiap desa di Bali punya setidaknya tiga pura utama: Pura Puseh (pura asal-usul
 
 Beberapa turis kadang diundang ikut serta, tapi wajib pakai pakaian tradisional Bali (sarung dan selendang). Acara ini nggak cuma menunjukkan penghormatan orang Bali terhadap leluhur dan dewa-dewi, tapi juga kasih kesempatan pengunjung luar buat ngintip tradisi spiritual yang unik. Kalau kamu tertarik ikut festival ini, coba tanya aja supir sewaan kamu!
 
-Ada rekomendasi [daftar supir sewaan mobil di Bali versi netizen](/blog/bali-private-car-drivers-guide/)
+Ada rekomendasi [daftar supir sewaan mobil di Bali versi netizen](/id/blog/bali-private-car-drivers-guide/)
 
 ***
 
 Festival dan upacara di Bali penuh dengan spiritualitas, kebersamaan, dan makna budaya yang dalam. Entah itu perenungan saat Nyepi, kumpul keluarga di Galungan, atau perayaan komunitas di Odalan, semua festival ini menunjukkan hubungan erat orang Bali dengan leluhur, dewa-dewi, dan sesama.
 
-Itu tadi cuma festival utama aja. Panduan lengkap setahun penuh bisa kamu lihat di artikel kami: '[Panduan Lengkap Libur Nasional Indonesia & Festival Bali 2025](/blog/bali-indonesia-holidays-2025/)'!
+Itu tadi cuma festival utama aja. Panduan lengkap setahun penuh bisa kamu lihat di artikel kami: '[Panduan Lengkap Libur Nasional Indonesia & Festival Bali 2025](/id/blog/bali-indonesia-holidays-2025/)'!
 
 ![2025節慶完整列表](https://images.gobaligo.id/vocus/vocus_80033ca939ab3cb1d35ef44838601733.jpg)
 
-[Daftar Lengkap Hari Libur 2025](/blog/bali-indonesia-holidays-2025/)
+[Daftar Lengkap Hari Libur 2025](/id/blog/bali-indonesia-holidays-2025/)
 
 ### FAQ (Pertanyaan Umum)
 

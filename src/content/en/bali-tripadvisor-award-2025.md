@@ -37,7 +37,7 @@ TripAdvisor describes Bali as: "A living postcard, an Indonesian paradise that f
 
 ## More Exciting Discoveries Await in 2025
 
-The Travelers' Choice Awards for attractions, activities, and specific landmark destinations like beaches and hotels will be gradually unveiled in 2025. Before then, there are still many award-winning attractions from 2024 worth visiting, such as the famous [Kelingking Beach in Nusa Penida](/blog/nusa-penida-guide/), [Tanah Lot Temple](/blog/bali-tanah-lot-guide/), [UNESCO-recognized rice terraces](/blog/bali-rice-terraces-comparison/), and the [Sacred Monkey Forest Sanctuary in Ubud](/blog/ubud-guide/).
+The Travelers' Choice Awards for attractions, activities, and specific landmark destinations like beaches and hotels will be gradually unveiled in 2025. Before then, there are still many award-winning attractions from 2024 worth visiting, such as the famous [Kelingking Beach in Nusa Penida](/en/blog/nusa-penida-guide/), [Tanah Lot Temple](/en/blog/bali-tanah-lot-guide/), [UNESCO-recognized rice terraces](/en/blog/bali-rice-terraces-comparison/), and the [Sacred Monkey Forest Sanctuary in Ubud](/en/blog/ubud-guide/).
 
 ## Sumba Island Near Bali: The Perfect Blend of Adventure and Serenity
 
@@ -49,12 +49,12 @@ Sumba Island is one of the excellent additional destinations for Bali trips in 2
 
 In response to being listed on Fodor's No List due to overtourism, Bali's leaders have clarified that the issue isn't overtourism itself but the concentration of tourism in the central and southern resorts of the island.
 
-Starting from 2025, the local government will promote less-developed areas such as West Bali, [North Bali](/blog/north-bali-travel-guide/), and [East Bali](/blog/bali-east-tour-guide/), introducing more international tourists to these stunning locations. For example, the Munduk Waterfalls and jungles in North Bali, and the sunrise dolphin watching at Lovina Beach, are hidden gems worth exploring.
+Starting from 2025, the local government will promote less-developed areas such as West Bali, [North Bali](/en/blog/north-bali-travel-guide/), and [East Bali](/en/blog/bali-east-tour-guide/), introducing more international tourists to these stunning locations. For example, the Munduk Waterfalls and jungles in North Bali, and the sunrise dolphin watching at Lovina Beach, are hidden gems worth exploring.
 
 ## Want to Know More About Bali?
 
-- [2025 Bali Attractions Guide | Collecting the Latest 500 Popular Bali Attractions](/blog/bali-top-500-attractions/)
-- [Must-Know Bali: 41 Awkward Questions 99% of Tourists Secretly Search For! Bali Travel Free Guide](/blog/bali-travel-faqs-guide/)
+- [2025 Bali Attractions Guide | Collecting the Latest 500 Popular Bali Attractions](/en/blog/bali-top-500-attractions/)
+- [Must-Know Bali: 41 Awkward Questions 99% of Tourists Secretly Search For! Bali Travel Free Guide](/en/blog/bali-travel-faqs-guide/)
 
 ## Frequently Asked Questions
 
@@ -76,28 +76,28 @@ Yes, Bali offers a variety of family-friendly activities, such as zoos, theme pa
 
 **Extended reading for family travel:**
 
-- [Complete Guide to Family-Friendly Attractions in Bali | Over 100 Activities for Families](/blog/bali-family-travel-guide/)
-- [20 Essential Tips for Traveling to Bali with Kids](/blog/bali-family-travel-tips/)
-- [Bali Family Travel: Tips for Vacationing with Babies, Toddlers, and School-Age Children](/blog/bali-family-travel-guide-2/)
-- [Guide to Hiring a Nanny in Bali: How to Find the Right Nanny and Cost Overview](/blog/bali-nanny-hiring-guide/)
-- [Bali Family Fun Parks: Top 15 Resorts with Water Slides](/blog/bali-family-resorts-water-slides/)
-- [Recommended 13 Family-Friendly Resorts in Bali | Best Options for Family Holidays and Relaxation in Kuta, Seminyak, Canggu, Jimbaran, and Uluwatu](/blog/bali-family-resorts-kids-club/)
-- [53 Kid-Friendly Activities in Ubud for the Easiest Travel with Kids](/blog/ubud-with-kids-guide/)
-- [The Best Family-Friendly Seaside in Bali: Sanur Guide Map | 45 Things to Eat, Drink, and Explore](/blog/sanur-guide/)
-- [Bali Family Day Trip Guide: Exploring the Safari Park and Flamingo Beach Club](/blog/bali-family-day-safari-flamingo/)
-- [Don’t Miss This on Your Bali Family Trip: How to Enjoy Bali Safari and Night Stay Guide](/blog/bali-safari-night-stay/)
+- [Complete Guide to Family-Friendly Attractions in Bali | Over 100 Activities for Families](/en/blog/bali-family-travel-guide/)
+- [20 Essential Tips for Traveling to Bali with Kids](/en/blog/bali-family-travel-tips/)
+- [Bali Family Travel: Tips for Vacationing with Babies, Toddlers, and School-Age Children](/en/blog/bali-family-travel-guide-2/)
+- [Guide to Hiring a Nanny in Bali: How to Find the Right Nanny and Cost Overview](/en/blog/bali-nanny-hiring-guide/)
+- [Bali Family Fun Parks: Top 15 Resorts with Water Slides](/en/blog/bali-family-resorts-water-slides/)
+- [Recommended 13 Family-Friendly Resorts in Bali | Best Options for Family Holidays and Relaxation in Kuta, Seminyak, Canggu, Jimbaran, and Uluwatu](/en/blog/bali-family-resorts-kids-club/)
+- [53 Kid-Friendly Activities in Ubud for the Easiest Travel with Kids](/en/blog/ubud-with-kids-guide/)
+- [The Best Family-Friendly Seaside in Bali: Sanur Guide Map | 45 Things to Eat, Drink, and Explore](/en/blog/sanur-guide/)
+- [Bali Family Day Trip Guide: Exploring the Safari Park and Flamingo Beach Club](/en/blog/bali-family-day-safari-flamingo/)
+- [Don’t Miss This on Your Bali Family Trip: How to Enjoy Bali Safari and Night Stay Guide](/en/blog/bali-safari-night-stay/)
 - Bali Family Travel Column
 
 **Guide to Traveling to Bali with Elderly Family Members:**
 
-- Part 1: [Bali Travel Guide for Seniors - Safety, Comfort, and Precautions](/blog/bali-elderly-travel-guide/)
-- Part 2: [Complete Guide to Senior-Friendly Travel Destinations in Bali](/blog/bali-senior-friendly-travel-guide/)
-- Part 3: [How Quirky Can Elderly Parents Be? Tips to Avoid 'Thankless Efforts' When Traveling Abroad](/blog/traveling-with-elderly-parents-tips/)
+- Part 1: [Bali Travel Guide for Seniors - Safety, Comfort, and Precautions](/en/blog/bali-elderly-travel-guide/)
+- Part 2: [Complete Guide to Senior-Friendly Travel Destinations in Bali](/en/blog/bali-senior-friendly-travel-guide/)
+- Part 3: [How Quirky Can Elderly Parents Be? Tips to Avoid 'Thankless Efforts' When Traveling Abroad](/en/blog/traveling-with-elderly-parents-tips/)
 
 **Extended Reading for Bali Honeymoon/Couples:**
 
-- [Why Are More and More People Choosing Bali for Their Honeymoon? Answers to Common Questions](/blog/bali-honeymoon-faq/)
-- [Romantic Honeymoon Destinations Revealed! Bali Beats the Maldives to Win the Global Title!](/blog/bali-honeymoon-destination/)
-- [Romantic Guide to Bali Honeymoon: Explore 36 Activities for Couples/Honeymooners](/blog/bali-honeymoon-romantic-activities-2/)
-- [Where to Stay for Your Honeymoon? Newlyweds/Couples, This One's for You! [20 Recommended Honeymoon Resorts & Romantic Villas]](/blog/bali-honeymoon-resorts-guide/)
-- [Bali Wins the Title of the World's Most Romantic Travel Destination at the 2024 World Travel Awards](/blog/bali-world-travel-awards-2024/)
+- [Why Are More and More People Choosing Bali for Their Honeymoon? Answers to Common Questions](/en/blog/bali-honeymoon-faq/)
+- [Romantic Honeymoon Destinations Revealed! Bali Beats the Maldives to Win the Global Title!](/en/blog/bali-honeymoon-destination/)
+- [Romantic Guide to Bali Honeymoon: Explore 36 Activities for Couples/Honeymooners](/en/blog/bali-honeymoon-romantic-activities-2/)
+- [Where to Stay for Your Honeymoon? Newlyweds/Couples, This One's for You! [20 Recommended Honeymoon Resorts & Romantic Villas]](/en/blog/bali-honeymoon-resorts-guide/)
+- [Bali Wins the Title of the World's Most Romantic Travel Destination at the 2024 World Travel Awards](/en/blog/bali-world-travel-awards-2024/)

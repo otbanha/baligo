@@ -64,7 +64,7 @@ Bali's accessory shops are incredibly charming, such as Blink, where almost ever
 
 Using Grab or Gojek for taxis is very convenient, and most drivers are polite. A 20-minute ride costs around USD$3, and for longer distances, you can hire a private car. Private car services are highly flexible, and drivers usually tailor the route to your needs, allowing you to make the most of your time and visit more attractions. Before setting off, discuss your itinerary with the driver to ensure you can smoothly reach each destination.
 
-> [When to Rent a Car in Bali? When to Hire a Driver? Renting vs. Hiring: How to Choose the Best Transportation for Your Trip?](/blog/bali-transportation-guide-car-rental/)
+> [When to Rent a Car in Bali? When to Hire a Driver? Renting vs. Hiring: How to Choose the Best Transportation for Your Trip?](/en/blog/bali-transportation-guide-car-rental/)
 
 ## **Yoga Apparel**
 
@@ -80,7 +80,7 @@ Yoga Barn offers many classes, but the venue is a bit outdated, perhaps due to o
 
 Bali's cuisine mainly features pork ribs, fried noodles, and fried rice. Those who love vegetable juices will adore the fresh juices here—super fresh, perfect for two glasses a day. The ingredients are fresh, and the dishes have unique flavors worth trying. While enjoying the food, take the time to learn about the local culinary culture and experience different tastes. Try local specialty restaurants to not only enjoy authentic dishes but also immerse yourself in the cultural atmosphere.
 
-> [Top 10 Foods in Bali | 8 Travel Tips for Bali](/blog/bali-travel-tips/)
+> [Top 10 Foods in Bali | 8 Travel Tips for Bali](/en/blog/bali-travel-tips/)
 
 ## **People and Services**
 
@@ -88,7 +88,7 @@ Bali's cuisine mainly features pork ribs, fried noodles, and fried rice. Those w
 
 Most people are very polite and friendly, and it's safe to walk around at night. The spa services here are excellent, affordable, and offer great value. It's recommended to try different spas during your trip to relax and enjoy the leisurely pace. The warm hospitality of the locals makes you feel very welcome, whether in restaurants, shops, or attractions. This human touch adds many beautiful memories to your journey.
 
-> [Highlight: Top-Rated Spas in Bali Organized by Region for Easier Searching](/blog/spa/)
+> [Highlight: Top-Rated Spas in Bali Organized by Region for Easier Searching](/en/blog/spa/)
 
 ## Conclusion
 
@@ -100,16 +100,16 @@ Do you think Haobo LI's itinerary is exciting? Quickly arrange your own Bali fre
 
 Click here to explore more amazing Bali travel stories
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travel writing shine!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)" to make your travel writing shine!
 
 ## Reference Guides:
 
-- [2024 Seminyak 60 Attractions Guide](/blog/seminyak-guide/)
-- [Kuta Must-Visit 50 Attractions Guide](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [Canggu 50 Must-Visit Attractions](/blog/canggu-guide/)
-- [50 Ways to Explore Ubud](/blog/ubud-guide/)
-- [2024 Jimbaran Guide](/blog/jimbaran-guide/)
-- [2024 Uluwatu Guide](/blog/uluwatu-guide/)
-- [Sanur 45 Food, Drink, and Fun Guide](/blog/sanur-guide/)
-- [Nusa Dua 40 Accommodation, Food, and Activity Guide](/blog/nusa-dua-guide/)
-- [Nusa Penida Comprehensive Food, Drink, and Fun Guide](/blog/nusa-penida-guide/)
+- [2024 Seminyak 60 Attractions Guide](/en/blog/seminyak-guide/)
+- [Kuta Must-Visit 50 Attractions Guide](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [Canggu 50 Must-Visit Attractions](/en/blog/canggu-guide/)
+- [50 Ways to Explore Ubud](/en/blog/ubud-guide/)
+- [2024 Jimbaran Guide](/en/blog/jimbaran-guide/)
+- [2024 Uluwatu Guide](/en/blog/uluwatu-guide/)
+- [Sanur 45 Food, Drink, and Fun Guide](/en/blog/sanur-guide/)
+- [Nusa Dua 40 Accommodation, Food, and Activity Guide](/en/blog/nusa-dua-guide/)
+- [Nusa Penida Comprehensive Food, Drink, and Fun Guide](/en/blog/nusa-penida-guide/)

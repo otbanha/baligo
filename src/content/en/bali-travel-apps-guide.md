@@ -45,7 +45,7 @@ In Indonesia/Bali, **Gojek** and **Grab** are the most popular ride-hailing and 
 - Food delivery feature (GrabFood) lets you order meals from anywhere in Bali.
 - Also offers delivery and various daily life services, making your trip more convenient.
 
-Further Reading: [Comprehensive Guide to Registering, Using, and Topping Up Gojek and GoPay in Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
+Further Reading: [Comprehensive Guide to Registering, Using, and Topping Up Gojek and GoPay in Indonesia/Bali](/en/blog/indonesia-gojek-gopay-guide/)
 
 ## **2. Google Maps: The Best Tool for Seamless Navigation and Exploring Bali**
 
@@ -95,7 +95,7 @@ Bali's weather can be unpredictable, especially during the rainy season when sud
 
 Editor's Note: No weather app can predict Bali's weather with 100% accuracy. If traveling during the rainy season, it's best to be prepared!
 
-Further Reading: [Bali Rainy Season: What to Do on Rainy Days in Bali? 60 Indoor Activity Ideas](/blog/2026-bali-indoor-activities/)
+Further Reading: [Bali Rainy Season: What to Do on Rainy Days in Bali? 60 Indoor Activity Ideas](/en/blog/2026-bali-indoor-activities/)
 
 ## **6. WhatsApp: Stay Connected with Locals and Service Providers**
 

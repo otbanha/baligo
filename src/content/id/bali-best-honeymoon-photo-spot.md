@@ -60,7 +60,7 @@ Dalam satu hari, kamu bisa:
 
 Semua detail udah dipikirin buat pasangan: ritual Spa bunga kamboja, dinner cahaya lilin, villa privat dengan kolam renang pribadi, naik kuda di pantai, dan sunrise yang bikin kamu rela bangun jam lima pagi. Semuanya begitu indah sampai kamu pengen langsung share di Instagram. Ini mungkin alasan kenapa Bali udah jadi sinonim nyata dari 'bulan madu impian'.
 
-Bahkan pengalaman budayanya pun terasa dirancang khusus buat sepasang kekasih. Pura, tarian tradisional, upacara adat — semuanya menciptakan atmosfer dongeng tropis. Makin banyak yang kamu coba, makin banyak foto yang pengen kamu lihat lagi — dan tentu aja di-share di medsos. Lanjut baca [Panduan Romantis Bulan Madu Bali: 36 Aktivitas Seru buat Pasangan/Pengantin Baru di Bali](/blog/bali-honeymoon-romantic-activities-2/)
+Bahkan pengalaman budayanya pun terasa dirancang khusus buat sepasang kekasih. Pura, tarian tradisional, upacara adat — semuanya menciptakan atmosfer dongeng tropis. Makin banyak yang kamu coba, makin banyak foto yang pengen kamu lihat lagi — dan tentu aja di-share di medsos. Lanjut baca [Panduan Romantis Bulan Madu Bali: 36 Aktivitas Seru buat Pasangan/Pengantin Baru di Bali](/id/blog/bali-honeymoon-romantic-activities-2/)
 
 ## Dua Kebahagiaan Sekaligus: Bali Raih Gelar Destinasi Romantis Terbaik Asia
 
@@ -83,11 +83,11 @@ Pendiri penghargaan, Graham Cooke, dalam pernyataannya menekankan: "Kami sangat 
 
 ## Baca Juga: Bali untuk Bulan Madu / Pasangan
 
-- [Kenapa Makin Banyak Orang Pilih Bali buat Bulan Madu? FAQ Bulan Madu di Bali](/blog/bali-honeymoon-faq/)
-- [Surga Romantis Bulan Madu Terbongkar! Bali Kalahkan Maladewa Jadi Juara Dunia!](/blog/bali-honeymoon-destination/)
-- [Panduan Romantis Bulan Madu Bali: Eksplorasi 36 Cara Seru buat Pasangan/Bulan Madu di Bali](/blog/bali-honeymoon-romantic-activities-2/)
-- [Mau Nginep di Mana? Pasutri/Pasangan Baru Nikah Wajib Baca Ini! 【20 Rekomendasi Resor Bulan Madu & Villa Romantis】](/blog/bali-honeymoon-resorts-guide/)
-- [World Travel Awards: Bali Raih Gelar Destinasi Paling Romantis Sedunia 2024](/blog/bali-world-travel-awards-2024/)
+- [Kenapa Makin Banyak Orang Pilih Bali buat Bulan Madu? FAQ Bulan Madu di Bali](/id/blog/bali-honeymoon-faq/)
+- [Surga Romantis Bulan Madu Terbongkar! Bali Kalahkan Maladewa Jadi Juara Dunia!](/id/blog/bali-honeymoon-destination/)
+- [Panduan Romantis Bulan Madu Bali: Eksplorasi 36 Cara Seru buat Pasangan/Bulan Madu di Bali](/id/blog/bali-honeymoon-romantic-activities-2/)
+- [Mau Nginep di Mana? Pasutri/Pasangan Baru Nikah Wajib Baca Ini! 【20 Rekomendasi Resor Bulan Madu & Villa Romantis】](/id/blog/bali-honeymoon-resorts-guide/)
+- [World Travel Awards: Bali Raih Gelar Destinasi Paling Romantis Sedunia 2024](/id/blog/bali-world-travel-awards-2024/)
 
 ## Penutup
 

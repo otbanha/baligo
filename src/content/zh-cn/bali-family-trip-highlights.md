@@ -37,7 +37,7 @@ _srcHash: 4179eb55859d6107558c4c4ceb1fe2b1
 
 这次我们特地安排了参观GWK神鹰文化公园，这里不仅有壮丽的文化遗产，还有着无数的美景，非常适合拍照。园区很大，强烈建议一定要搭乘接驳车，这样才能轻松愉快地享受每一处景点。
 
-> [巴厘岛 Garuda Wisnu Kencana GWK神鹰广场/神鹰文化公园全攻略](/blog/gwk-cultural-park-bali/)
+> [巴厘岛 Garuda Wisnu Kencana GWK神鹰广场/神鹰文化公园全攻略](/zh-cn/blog/gwk-cultural-park-bali/)
 
 🦅☀️🌴GWK神鹰广场，巨大的维什努神像和神鹰令人惊叹 😍，还能欣赏传统表演，文化与自然的完美结合 ▶[Klook 订票网址](https://affiliate.klook.com/redirect?aid=116349&aff_adid=848821&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D795e4377a1)
 
@@ -49,7 +49,7 @@ _srcHash: 4179eb55859d6107558c4c4ceb1fe2b1
 
 我们在Klook订购的「[Red Paddle Bali Adventure](https://affiliate.klook.com/redirect?aid=116349&aff_adid=901865&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F5504-ayung-white-water-rafting-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D65ec132ff9)」泛舟行程超乎预期的精彩。教练们不仅专业，而且非常体贴。特别是我们的大儿子在途中有点不舒服，教练始终关心他的状况，让我们感到非常安心。其他船上的教练也同样友善，大家互相泼水、比赛超船，让2小时的泛舟活动充满了欢笑。我们还遇到了来自沙特阿拉伯和韩国的游客，大家聊得非常愉快，这段经历也让我们练习了英语和韩语，实在是太有趣了。
 
-> 「泛舟须知与常见问题」请看[这里](/blog/bali-rafting-ayung-telaga-waja/)
+> 「泛舟须知与常见问题」请看[这里](/zh-cn/blog/bali-rafting-ayung-telaga-waja/)
 
 ### **特家司机的贴心服务——满足所有愿望**
 
@@ -59,7 +59,7 @@ _srcHash: 4179eb55859d6107558c4c4ceb1fe2b1
 
 我们的包车司机特家，不仅让我们的梯田和荡秋千愿望一次满足，还带我们去了许多隐藏的美景。特别是在梯田荡秋千处，这里的风景美得令人屏息，而且还提供出租长尾礼服，让我一下子就变身成为仙女，实在是太梦幻了！
 
-> [乌布玩秋千：巴厘岛最美的8个秋千拍照胜地｜乌布秋千/租礼服攻略](/blog/ubud-jungle-swings-photo-guide/)
+> [乌布玩秋千：巴厘岛最美的8个秋千拍照胜地｜乌布秋千/租礼服攻略](/zh-cn/blog/ubud-jungle-swings-photo-guide/)
 
 🛕🐒🌿乌布一日游，探索IG热门景点、欣赏鬼斧神工自然美景，享受当地美食与麝香猫咖啡 ☕📸，文化与自然的完美结合 ▶[Klook 50+旅程任选](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989417&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E7%2583%258F%25E5%25B8%2583%25E4%25B8%2580%25E6%2597%25A5%26sort%3Dmost_relevant%26tab_key%3D0%26start%3D1)
 
@@ -71,7 +71,7 @@ _srcHash: 4179eb55859d6107558c4c4ceb1fe2b1
 
 在Paperhills咖啡厅，我们幸运地看到了壮观的巴杜尔火山，这座活火山全貌清晰可见，实在是让人惊叹。这家咖啡厅共有四层，每一层都能拍出美美的照片，穿着自己准备的衣服，在这里随便拍都是网美照。包车的好处就在于，我们可以大包小包带着各种装备，随时随地都能捕捉到美好的瞬间。
 
-> 延伸阅读：[巴厘岛金塔马尼12大景观咖啡厅推荐](/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
+> 延伸阅读：[巴厘岛金塔马尼12大景观咖啡厅推荐](/zh-cn/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
 
 ### **Rijasa Agung 乌布阿贡里加萨酒店——宁静与舒适的完美结合**
 
@@ -90,7 +90,7 @@ _srcHash: 4179eb55859d6107558c4c4ceb1fe2b1
 
 > ▶Rijasa Agung Resort and Villas 房价 & 空房查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1744536&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/c79DvepT)
 
-已收录在[【巴厘岛乌布住宿】乌布28家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/blog/ubud-villas-pool-guide/)
+已收录在[【巴厘岛乌布住宿】乌布28家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/zh-cn/blog/ubud-villas-pool-guide/)
 
 ### **Jungle Cart 丛林卡丁车——巴厘岛的新奇体验**
 
@@ -98,7 +98,7 @@ https://youtube.com/shorts/v7NAvCARzKY
 
 卡丁车可能很多人都玩过，但能够直接在乌布的丛林道路上驾驶，这可是巴厘岛独有的新玩法！我们在稻田景色中疾驰，途中还有嗨歌前导车帮忙确认路况，沿途有鸡飞狗跳、牛慵懒地哞叫，30分钟的体验虽然短暂，却充满了无限乐趣。
 
-可以看看这里有完整的介绍：[巴厘岛乌布丛林马里奥赛车 Jungle Cart Bali](/blog/ubud-jungle-cart-adventure/)
+可以看看这里有完整的介绍：[巴厘岛乌布丛林马里奥赛车 Jungle Cart Bali](/zh-cn/blog/ubud-jungle-cart-adventure/)
 
 🏎️🏎️ [Jungle Cart预约体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=880814&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F121396-ubud-jungle-cart-experience-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbeaf072d1f)
 

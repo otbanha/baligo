@@ -27,7 +27,7 @@ _srcHash: 943b1da98e9d29656787dd52932ee353
 
 **出發前換美金**：首先最重要係喺出發前將你嘅本地貨幣換成美金，然後帶住美金去印尼/峇里島再換成印尼盾。咁做嘅原因係匯率最好。如果你手上揸住澳幣，就直接帶住澳幣去峇里島換成印尼盾就得。因為澳洲一直係去峇里島觀光嘅大國，匯率唔比美金差。
 
-點解台幣換美金，再將美金換印尼盾匯率好？請睇[呢度](/blog/bali-currency-exchange-tips/)嘅說明
+點解台幣換美金，再將美金換印尼盾匯率好？請睇[呢度](/zh-hk/blog/bali-currency-exchange-tips/)嘅說明
 
 大部分遊客會喺抵達峇里島嘅時候即刻去處理換匯，你可以搵值得信賴嘅包車司機帶你哋去司機知道嘅信譽良好 Money Changer 換錢，呢個係避免俾人呃嘅最好方式！
 
@@ -93,7 +93,7 @@ _srcHash: 943b1da98e9d29656787dd52932ee353
 
 ***
 
-延伸閱讀：[峇里島美金匯率：大鈔定細鈔？找換攻略大公開！](/blog/bali-usd-exchange-rate/)
+延伸閱讀：[峇里島美金匯率：大鈔定細鈔？找換攻略大公開！](/zh-hk/blog/bali-usd-exchange-rate/)
 
 峇里島周圍都係找換點（Money Changer），密度好高，特別係觀光區好似庫塔、水明漾、烏布、沙努爾呢啲地方，幾乎條條街都搵到。
 
@@ -117,7 +117,7 @@ https://youtu.be/KPGb6MmwfZw
 
 ## **2. 我要唔要帶美金去峇里島？**
 
-係，建議出發前將你嘅本地貨幣換成美金，因為美金喺峇里島嘅匯率通常會好啲。如果你有澳幣，都可以直接帶澳幣去峇里島換，因為澳幣喺峇里島嘅匯率都唔錯。參考：[印尼/峇里島換匯：直接換 vs 先換美金再換印尼盾，邊個抵啲？](/blog/bali-currency-exchange-tips/)
+係，建議出發前將你嘅本地貨幣換成美金，因為美金喺峇里島嘅匯率通常會好啲。如果你有澳幣，都可以直接帶澳幣去峇里島換，因為澳幣喺峇里島嘅匯率都唔錯。參考：[印尼/峇里島換匯：直接換 vs 先換美金再換印尼盾，邊個抵啲？](/zh-hk/blog/bali-currency-exchange-tips/)
 
 ## **3. 喺邊度換匯最抵？**
 
@@ -207,7 +207,7 @@ https://youtu.be/KPGb6MmwfZw
 
 ## 16.峇里島換錢嘅時候，大紙同細紙嘅匯率係咪一樣㗎？
 
-唔一樣！不過基本上可以無視。請睇呢度嘅解說：[峇里島美金匯率：大紙定細紙？換錢攻略大公開！](/blog/bali-usd-exchange-rate/)
+唔一樣！不過基本上可以無視。請睇呢度嘅解說：[峇里島美金匯率：大紙定細紙？換錢攻略大公開！](/zh-hk/blog/bali-usd-exchange-rate/)
 
 ## 17.**信用卡簽賬消費**
 
@@ -217,13 +217,13 @@ https://youtu.be/KPGb6MmwfZw
 
 **快速參考：**
 
-- [峇里島美金匯率：大鈔定細鈔？換錢攻略大公開！](/blog/bali-usd-exchange-rate/)
-- [印尼/峇里島換錢：直接換定先換美金再換印尼盾，邊個抵啲？](/blog/bali-currency-exchange-tips/)
-- [峇里島換錢血淚史：團友親身經歷揭秘，千祈唔好貪小便宜！](/blog/bali-money-exchange-scams-2/)
-- [【信用卡盜刷/手續費/加%】峇里島碌卡安全嗎？](/blog/bali-credit-card-safety-tips/)
+- [峇里島美金匯率：大鈔定細鈔？換錢攻略大公開！](/zh-hk/blog/bali-usd-exchange-rate/)
+- [印尼/峇里島換錢：直接換定先換美金再換印尼盾，邊個抵啲？](/zh-hk/blog/bali-currency-exchange-tips/)
+- [峇里島換錢血淚史：團友親身經歷揭秘，千祈唔好貪小便宜！](/zh-hk/blog/bali-money-exchange-scams-2/)
+- [【信用卡盜刷/手續費/加%】峇里島碌卡安全嗎？](/zh-hk/blog/bali-credit-card-safety-tips/)
 
 ---
 
 👈 **返去峇里島自由行終極指南**
 
-想睇完整嘅新手懶人包？[㩒呢度閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。
+想睇完整嘅新手懶人包？[㩒呢度閱讀「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。

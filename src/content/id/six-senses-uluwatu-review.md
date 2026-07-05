@@ -53,7 +53,7 @@ Six Senses Uluwatu terletak di tebing Uluwatu, Bali, menghadap ke Samudra Hindia
 
 ![Kemewahan di Tebing: Nginep di Six Senses Uluwatu](https://images.gobaligo.id/vocus/vocus_2f685310380c86680dce3f72475d7e82.jpg)
 
-Kami booking satu malam lewat platform reservasi, harganya USD$477 (harga low season). Memang lumayan mahal, tapi begitu kamu melangkah ke surga di tebing ini, kamu bakal sadar setiap sennya worth it! Hotel ini sekitar 5 km dari [**Suluban Beach**](/blog/suluban-beach-hidden-gem/), dan 3,7 km dari [**Padang Padang Beach**](/blog/bali-hidden-beaches-guide/). Jarak dari Bandara Internasional Bali sekitar 11 km, aksesnya gampang banget.
+Kami booking satu malam lewat platform reservasi, harganya USD$477 (harga low season). Memang lumayan mahal, tapi begitu kamu melangkah ke surga di tebing ini, kamu bakal sadar setiap sennya worth it! Hotel ini sekitar 5 km dari [**Suluban Beach**](/id/blog/suluban-beach-hidden-gem/), dan 3,7 km dari [**Padang Padang Beach**](/id/blog/bali-hidden-beaches-guide/). Jarak dari Bandara Internasional Bali sekitar 11 km, aksesnya gampang banget.
 
 https://youtu.be/6jr7VutKZtY?si=GB771wODnWO_uTbB
 

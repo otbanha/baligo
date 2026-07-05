@@ -58,7 +58,7 @@ https://youtube.com/shorts/Oh-RNfjhQhM
 
 烏布藝術市場位於烏布皇宮嘅對面，係一個充滿峇里島傳統特色嘅市集。呢度賣嘅商品種類好多，包括手工飾品、木雕、繪畫、傳統服飾等，每件商品都展現出當地濃厚嘅藝術氛圍。記得買嘢嗰陣可以適當講價，令你可以用更優惠嘅價錢帶走心儀嘅紀念品！
 
-延伸閱讀：[推薦烏布五大藝術市集完整指南：購買紀念品/伴手禮，尋訪峇里島文化寶藏](/blog/ubud-art-markets-guide/)
+延伸閱讀：[推薦烏布五大藝術市集完整指南：購買紀念品/伴手禮，尋訪峇里島文化寶藏](/zh-hk/blog/ubud-art-markets-guide/)
 
 ### 2. 烏布水皇宮（Pura Taman Saraswati）🗺️[地圖位置](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
@@ -127,7 +127,7 @@ https://youtu.be/JtxZHtijEkE
 **2. 烏布皇宮嘅門票費用係幾多？**
 
 - 參觀烏布皇宮嘅日間門票係免費嘅。如果想睇夜晚舉行嘅傳統舞蹈表演，就需要買飛，費用大約係 IDR 100K（約 USD$6），票價可能會因演出而異。建議可以[事先預訂](https://affiliate.klook.com/redirect?aid=116349&aff_adid=944134&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2deaa6927)
-- 票價100K...入面嘅K係咩意思？請睇[呢度](/blog/bali-budget-tips-k-explained/)
+- 票價100K...入面嘅K係咩意思？請睇[呢度](/zh-hk/blog/bali-budget-tips-k-explained/)
 
 **3. 可以入晒烏布皇宮所有地方嗎？**
 

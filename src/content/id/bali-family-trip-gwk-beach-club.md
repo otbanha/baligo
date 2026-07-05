@@ -32,7 +32,7 @@ Hari kedua liburan keluarga pertama ke Bali, itinerary hari ini:
 
 ![【Dua Dewasa Dua Anak di Bali】Day 2: GWK Cultural Park, Panta](https://images.gobaligo.id/vocus/vocus_85927681da5e54d9cc9e2a0075146d7b.jpg)
 
-Berangkat dari Aloft Kuta yang super nyaman (cek [cerita sebelumnya di sini](/blog/bali-family-trip-aloft-kuta/)) > GWK Cultural Park di Jimbaran > Kelly's Warung, restoran dengan pemandangan laut di Uluwatu > Pura Uluwatu > Tari Kecak > jajanan pinggir jalan
+Berangkat dari Aloft Kuta yang super nyaman (cek [cerita sebelumnya di sini](/id/blog/bali-family-trip-aloft-kuta/)) > GWK Cultural Park di Jimbaran > Kelly's Warung, restoran dengan pemandangan laut di Uluwatu > Pura Uluwatu > Tari Kecak > jajanan pinggir jalan
 
 ## GWK Cultural Park
 
@@ -104,7 +104,7 @@ Di dalam GWK Cultural Park, kamu bisa nemuin berbagai restoran dan kafe buat nyo
 > 🦅☀️🌴GWK Cultural Park, patung Dewa Wisnu dan Garuda raksasanya bikin speechless 😍, plus ada pertunjukan tradisional yang keren banget. Perpaduan budaya dan alam yang sempurna ▶ [Link Pesan Tiket Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=848821&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D795e4377a1)
 
 > **Referensi Cepat:**
-> [Panduan Lengkap Garuda Wisnu Kencana GWK Cultural Park Bali](/blog/gwk-cultural-park-bali/)
+> [Panduan Lengkap Garuda Wisnu Kencana GWK Cultural Park Bali](/id/blog/gwk-cultural-park-bali/)
 
 ## **Kelly's Warung Beach Club — Nikmati Pemandangan Laut yang Epic**
 
@@ -204,7 +204,7 @@ Harga tiket masuk tergantung status pengunjung, jadi beli sesuai kondisi kamu. S
 
 **Tentang Tarian Api**
 
-Tarian Api Kacak ini intinya menceritakan ulang salah satu bagian dari epos mitologi Hindu Ramayana, yaitu pertarungan Raja Kera dengan raksasa. Api yang menyala-nyala dan kostum warna-warni bikin mata terpukau! Kalau kamu penasaran sama pertunjukan terkenal dari Hindu ini, bisa [klik di sini](/blog/kecak-fire-dance-bali/), admin pernah bahas detail banget. Ini pertunjukan yang hampir semua orang nonton dan bilang worth it banget!
+Tarian Api Kacak ini intinya menceritakan ulang salah satu bagian dari epos mitologi Hindu Ramayana, yaitu pertarungan Raja Kera dengan raksasa. Api yang menyala-nyala dan kostum warna-warni bikin mata terpukau! Kalau kamu penasaran sama pertunjukan terkenal dari Hindu ini, bisa [klik di sini](/id/blog/kecak-fire-dance-bali/), admin pernah bahas detail banget. Ini pertunjukan yang hampir semua orang nonton dan bilang worth it banget!
 
 ![📝強烈建議觀看擁有夕陽相伴的第一場，自然美景和Kacak 表演內容融合在一起，半夢半醒之間💭，非常有意義](https://images.gobaligo.id/vocus/vocus_6c9a483035b9e7089425c30954218809.jpg)
 
@@ -232,7 +232,7 @@ Buat kamu yang pengen nonton pertunjukan tari api, bisa cek paket wisata populer
 
 ## Pulang & Cuplikan Seru
 
-Balik istirahat ke Aloft Kuta yang ada di dalam Beachwalk Shopping Center. Hotel ini cocok banget buat keluarga kami berempat — modern, kece, dan ada tipe kamar dengan dua tempat tidur besar. Cek catatan perjalanan hari pertama aku di 【[Day 1: Menginap di Aloft Kuta, Rekomendasi Driver Sewa](/blog/bali-family-trip-aloft-kuta/)】 buat info lebih detail.
+Balik istirahat ke Aloft Kuta yang ada di dalam Beachwalk Shopping Center. Hotel ini cocok banget buat keluarga kami berempat — modern, kece, dan ada tipe kamar dengan dua tempat tidur besar. Cek catatan perjalanan hari pertama aku di 【[Day 1: Menginap di Aloft Kuta, Rekomendasi Driver Sewa](/id/blog/bali-family-trip-aloft-kuta/)】 buat info lebih detail.
 
 ![Aloft Kuta的兩張雙人床房型，還有一個mini bar](https://images.gobaligo.id/vocus/vocus_6caf8d830268f4376302459bd2d776f4.jpg)
 
@@ -259,10 +259,10 @@ Di episode selanjutnya, kita bakal ikut serunya surfing dan lihat-lihat seru di 
 
 Cerita lengkapnya udah selesai:
 
-- [**Day 1: Nginep di dalam mall! Akomodasi keluarga 2 dewasa 2 anak**](/blog/bali-family-trip-aloft-kuta/)
-- [**Day 2: GWK Garuda Wisnu Kencana, Pantai Club gratis di Uluwatu, Pura Uluwatu, Tari Kecak Uluwatu**](/blog/bali-family-trip-gwk-beach-club/)
-- [**Day 3-7: Lima hari di Ubud: rekomendasi kuliner, tempat wisata, penginapan, dan eksplorasi gunung berapi**](/blog/bali-family-trip-ubud-guide/)
-- [**Day 8: Cara main di Bali Safari & tips nginep di sana**](/blog/bali-safari-night-stay/)
+- [**Day 1: Nginep di dalam mall! Akomodasi keluarga 2 dewasa 2 anak**](/id/blog/bali-family-trip-aloft-kuta/)
+- [**Day 2: GWK Garuda Wisnu Kencana, Pantai Club gratis di Uluwatu, Pura Uluwatu, Tari Kecak Uluwatu**](/id/blog/bali-family-trip-gwk-beach-club/)
+- [**Day 3-7: Lima hari di Ubud: rekomendasi kuliner, tempat wisata, penginapan, dan eksplorasi gunung berapi**](/id/blog/bali-family-trip-ubud-guide/)
+- [**Day 8: Cara main di Bali Safari & tips nginep di sana**](/id/blog/bali-safari-night-stay/)
 
 > Cerita ini dari seorang kakak perempuan pengusaha Taiwan di Vietnam yang liburan ke Bali bareng keluarganya.
 > Konten di atas sudah diadaptasi/dibagikan ulang dengan izin dari pemilik akun "[Let's Play and Eat Ho Chi Minh City](https://www.facebook.com/profile.php?id=100068951930592)".

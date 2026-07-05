@@ -19,7 +19,7 @@ _srcHash: 33ade627fa0ba0394c672affdac72f38
 ---
 Update: 2026/07/03
 
-[🚗 想預估 Gojek 車費？㩒呢度](/map/gojek-fare/)
+[🚗 想預估 Gojek 車費？㩒呢度](/zh-hk/map/gojek-fare/)
 
 **先講結論**：Gojek係印尼本土超級App，優勢係**電子錢包GoPay內置**（Grab就要另外綁OVO），叫車、外賣（GoFood）、代買代送（GoMart/GoSend）都喺同一個App搞掂，適合會喺印尼留耐啲、想少裝一個支付App嘅旅客；短期觀光客就Grab個界面對國際卡支援度更高。以下係註冊、使用同GoPay儲值嘅完整教學。
 
@@ -128,7 +128,7 @@ GoPay仲可以綁定信用卡，咁你就算戶口唔夠錢，都可以快啲完
 
 唔使急！如果你喺註冊Gojek嗰陣遇到問題，可以等**去到當地先再註冊**。喺台灣，你只需要先下載好**Gojek應用程式**。當你抵達印尼，連上當地網絡、用當地SIM卡，就可以正常完成註冊程序。
 
-> 延伸閱讀：[【峇里島旅遊必備】點樣辦理峇里島網絡/SIM卡？](/blog/bali-sim-card-esim-roaming-guide/)
+> 延伸閱讀：[【峇里島旅遊必備】點樣辦理峇里島網絡/SIM卡？](/zh-hk/blog/bali-sim-card-esim-roaming-guide/)
 
 ## **想問店家可唔可以用GoPay俾錢要點問？**
 

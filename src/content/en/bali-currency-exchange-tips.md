@@ -88,11 +88,11 @@ Of course, if you have other channels (like Indonesian shops in Taiwan), you can
 
 Quick References:
 
-> [Indonesia/Bali Currency Exchange Guide: What currency is used in Indonesia/Bali? How to get the best exchange rate? Where is the best place to exchange money?](/blog/bali-currency-exchange-guide/)
+> [Indonesia/Bali Currency Exchange Guide: What currency is used in Indonesia/Bali? How to get the best exchange rate? Where is the best place to exchange money?](/en/blog/bali-currency-exchange-guide/)
 
 **Quick Reference:**
 
-- [Bali USD Exchange Rate: Big Bills or Small Bills? Complete Currency Exchange Guide!](/blog/bali-usd-exchange-rate/)
-- [Bali Money Exchange Horror Stories: Fellow Travelers' Experiences Revealed - Don't Be Fooled by Small Savings!](/blog/bali-money-exchange-scams-2/)
+- [Bali USD Exchange Rate: Big Bills or Small Bills? Complete Currency Exchange Guide!](/en/blog/bali-usd-exchange-rate/)
+- [Bali Money Exchange Horror Stories: Fellow Travelers' Experiences Revealed - Don't Be Fooled by Small Savings!](/en/blog/bali-money-exchange-scams-2/)
 
 ---

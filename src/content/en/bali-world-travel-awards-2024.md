@@ -44,7 +44,7 @@ Bali's allure extends beyond honeymooners; it also serves as a haven of inspirat
 
 ![「烏魯瓦圖攻略」點我](https://images.gobaligo.id/vocus/vocus_243351590f43aa1d22bedb1c643866c0.jpg)
 
-[Click here for the 'Uluwatu Guide'](/blog/uluwatu-guide/)
+[Click here for the 'Uluwatu Guide'](/en/blog/uluwatu-guide/)
 
 Located at the southern tip of Bali, Uluwatu is renowned for its stunning cliffs and endless ocean views, making it a dreamy romantic spot for many couples. Overlooking the Indian Ocean from Uluwatu Temple, especially during sunset, the golden sunlight bathes the horizon, creating a breathtaking and romantic atmosphere. Additionally, the Kecak Dance performances add a cultural touch to couples' itineraries, allowing them to experience Bali's rich traditions while enjoying the scenery. Whether it's a leisurely candlelit dinner by the cliffs or exploring hidden beaches nearby, Uluwatu offers couples unforgettable memories.
 
@@ -52,7 +52,7 @@ Located at the southern tip of Bali, Uluwatu is renowned for its stunning cliffs
 
 ![「烏布攻略」點我](https://images.gobaligo.id/vocus/vocus_fb67e6538b904e372bb5cc023239468e.jpg)
 
-[Click here for "Ubud Guide"](/blog/ubud-guide/)
+[Click here for "Ubud Guide"](/en/blog/ubud-guide/)
 
 As the cultural heart of Bali, Ubud captivates countless travelers seeking romance with its serene countryside and rich artistic atmosphere. Strolling along Ubud's rice field trails, the lush green fields and winding paths paint a picturesque scene, perfect for couples to slow down and enjoy intimate moments. Additionally, Ubud is surrounded by enchanting waterfalls such as Tegenungan Waterfall and Kanto Lampo Waterfall, natural wonders that are must-see highlights when exploring Ubud.
 
@@ -62,7 +62,7 @@ Ubud is also widely celebrated for its cultural experiences, from visiting local
 
 ![「Canggu攻略」點我](https://images.gobaligo.id/vocus/vocus_9e38a3ae92fbbd703b24a157364b2380.jpg)
 
-[Click here for "Canggu Guide"](/blog/canggu-guide/)
+[Click here for "Canggu Guide"](/en/blog/canggu-guide/)
 
 Canggu has become one of Bali's most popular areas in recent years, attracting countless couples with its distinctive bohemian vibe and laid-back lifestyle. Beaches like Batu Bolong and Echo Beach are not only ideal spots for watching waves and sunsets but also great places for couples to try surfing and experience the free-spirited allure of the ocean. Canggu is also renowned for its artistic cafes and boutique restaurants, with popular venues like La Brisa being top choices for sharing delicious meals and romantic moments. As evening sets in, sipping handcrafted cocktails to the soothing sounds of live music creates a casual yet warm atmosphere, allowing every couple to find their own romantic moment in Canggu.
 
@@ -70,7 +70,7 @@ Canggu has become one of Bali's most popular areas in recent years, attracting c
 
 ![「金巴蘭攻略」點我](https://images.gobaligo.id/vocus/vocus_2439a1dd7478d5ed6b3661cd65410ab3.jpg)
 
-[Click here for "Jimbaran Guide"](/blog/jimbaran-guide/)
+[Click here for "Jimbaran Guide"](/en/blog/jimbaran-guide/)
 
 Jimbaran is famous for its tranquil bay and enchanting candlelit dinners, making it one of Bali's most classic romantic destinations. At Jimbaran Beach, couples can stroll hand in hand along the soft white sand, admiring the golden-red hues as the sun dips below the horizon. As night falls, Jimbaran is celebrated for its seafood barbecues, with numerous beachfront restaurants offering fresh seafood and authentic Balinese flavors. Dining under the stars with the sound of waves in the background creates an unparalleled romantic ambiance. Additionally, Jimbaran is home to luxury resorts like the Four Seasons and The St. Regis Bali Resort, providing couples with high-end private villas and infinity pools, allowing them to fully immerse themselves in this heavenly sanctuary of love.
 
@@ -97,7 +97,7 @@ Not just the 'World Travel Awards,' Bali also secured multiple accolades in the 
 
 ![「藍夢島攻略」點我](https://images.gobaligo.id/vocus/vocus_6ce3bfe714aa0a73ab4701ed7421ca83.jpg)
 
-[「Nusa Lembongan Guide」Click here](/blog/nusa-lembongan-ceningan-guide/)
+[「Nusa Lembongan Guide」Click here](/en/blog/nusa-lembongan-ceningan-guide/)
 
 Compared to the bustling Nusa Penida, Nusa Lembongan offers a more tranquil and intimate atmosphere, making it an ideal spot for strolling and enjoying natural scenery. With its turquoise waters and pristine white sand beaches, couples can walk hand in hand along the serene shores or explore the island's hidden coral reefs and Blue Lagoon. Additionally, renting a scooter for a leisurely island tour, immersing in Nusa Lembongan's pastoral landscapes, is also an excellent choice. The peace and purity of Nusa Lembongan provide couples with a secluded paradise away from the hustle and bustle, allowing love to blossom amidst nature.
 
@@ -105,7 +105,7 @@ Compared to the bustling Nusa Penida, Nusa Lembongan offers a more tranquil and 
 
 ![「烏布攻略」點我](https://images.gobaligo.id/vocus/vocus_cc198c91d024660bc6cc110912c1aa13.jpg)
 
-["Ubud Guide" Click Here](/blog/ubud-guide/)
+["Ubud Guide" Click Here](/en/blog/ubud-guide/)
 
 Participate in a traditional water purification ceremony at Tirta Empul Temple in Ubud, which not only cleanses the body and mind but also allows couples to reaffirm their love for each other. This ceremony holds deep religious and cultural significance in Bali. Participants wear traditional sarongs and bathe in natural holy water, symbolizing the washing away of worries and negative energy. Through the Melukat ceremony, couples can achieve a deeper spiritual connection and infuse their relationship with renewed vitality. After the ceremony, take a walk along the surrounding jungle paths to experience the tranquility and harmony of nature.
 
@@ -113,7 +113,7 @@ Participate in a traditional water purification ceremony at Tirta Empul Temple i
 
 ![「烏布提供花浴的住宿」點我](https://images.gobaligo.id/vocus/vocus_b8386fc6fe646729320b36ae859d600b.jpg)
 
-["Ubud Accommodations Offering Flower Baths" Click Here](/blog/ubud-villas-pool-guide/)
+["Ubud Accommodations Offering Flower Baths" Click Here](/en/blog/ubud-villas-pool-guide/)
 
 Ubud is renowned for its rich cultural atmosphere and stunning natural scenery, and a romantic petal bath in the forest sanctuary is a dreamy experience couples shouldn't miss. Nestled in secluded rainforests, many luxury resorts offer unique petal bath services, allowing couples to relax and enjoy the sweetness of love in a fragrant bath. The baths are often set in open-air jungle settings, accompanied by the soothing sounds of flowing streams and bird songs, creating a picturesque ambiance.
 
@@ -123,7 +123,7 @@ The petal bath is not just a luxurious sensory indulgence but also a profound ri
 
 ![「峇里島東部三大景點」點我](https://images.gobaligo.id/vocus/vocus_dfcc16b23b9023568c0f9108cfc4101a.jpg)
 
-["Top Three Attractions in East Bali" Click Here](/blog/bali-east-tour-guide/)
+["Top Three Attractions in East Bali" Click Here](/en/blog/bali-east-tour-guide/)
 
 The water palaces in Karangasem, such as Tirta Gangga and Taman Ujung, are among the most romantic historical sites in Bali. These palaces blend Balinese and European architectural styles, featuring beautiful fountains, ponds, and manicured gardens, providing couples with perfect settings for dreamy photo shoots. Tirta Gangga attracts visitors with its emerald pools and sacred atmosphere, while Taman Ujung is famous for its breathtaking views overlooking the sea. Strolling through these water palaces, couples will experience the fusion of history and nature, creating unforgettable romantic memories.
 
@@ -152,7 +152,7 @@ Bali, with its unparalleled natural scenery, rich cultural heritage, and diverse
 
 ## Extended Reading for Bali Honeymoon/Couples:
 
-- [Why Are More People Choosing Bali for Their Honeymoon? Bali Honeymoon FAQ](/blog/bali-honeymoon-faq/)
-- [Romantic Honeymoon Destinations Revealed! Bali Beats the Maldives to Claim the World Championship!](/blog/bali-honeymoon-destination/)
-- [Bali Honeymoon Romantic Guide: Explore 36 Ways to Enjoy Bali as a Couple/Honeymoon](/blog/bali-honeymoon-romantic-activities-2/)
-- [Where to Stay for Your Honeymoon? This Guide is Perfect for Newlyweds/Couples! 【20 Honeymoon Resorts & Romantic Villas Recommended】](/blog/bali-honeymoon-resorts-guide/)
+- [Why Are More People Choosing Bali for Their Honeymoon? Bali Honeymoon FAQ](/en/blog/bali-honeymoon-faq/)
+- [Romantic Honeymoon Destinations Revealed! Bali Beats the Maldives to Claim the World Championship!](/en/blog/bali-honeymoon-destination/)
+- [Bali Honeymoon Romantic Guide: Explore 36 Ways to Enjoy Bali as a Couple/Honeymoon](/en/blog/bali-honeymoon-romantic-activities-2/)
+- [Where to Stay for Your Honeymoon? This Guide is Perfect for Newlyweds/Couples! 【20 Honeymoon Resorts & Romantic Villas Recommended】](/en/blog/bali-honeymoon-resorts-guide/)

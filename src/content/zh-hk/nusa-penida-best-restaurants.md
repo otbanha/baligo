@@ -18,14 +18,14 @@ _srcHash: 02cb4f057433b9a043a1afdf8a3c249a
 
 Nusa Penida以佢好似天堂咁嘅沙灘、清澈嘅海水同充滿異國風情嘅美食而聞名於世。喺呢個目的地，我哋會帶你探索最令人著迷嘅美食同放鬆地點。
 
-上一集我哋介紹咗[佩尼達島嘅旅遊攻略同九個佩尼達島嘅自然美景](/blog/nusa-penida-guide/)；喺呢篇文章入面，我哋會介紹十間餐廳為你帶嚟無盡嘅歡樂同度假嘅氛圍，等你可以喺假期入面盡情享受。無論你係一位海灘愛好者、美食家，定係追求極致嘅放鬆，Nusa Penida都會俾你一個難以忘懷嘅體驗。等我哋一齊開始呢場探險，發現呢個島嶼嘅奇妙之處，帶你進入一個充滿美麗同幸福嘅度假世界。
+上一集我哋介紹咗[佩尼達島嘅旅遊攻略同九個佩尼達島嘅自然美景](/zh-hk/blog/nusa-penida-guide/)；喺呢篇文章入面，我哋會介紹十間餐廳為你帶嚟無盡嘅歡樂同度假嘅氛圍，等你可以喺假期入面盡情享受。無論你係一位海灘愛好者、美食家，定係追求極致嘅放鬆，Nusa Penida都會俾你一個難以忘懷嘅體驗。等我哋一齊開始呢場探險，發現呢個島嶼嘅奇妙之處，帶你進入一個充滿美麗同幸福嘅度假世界。
 
 針對佩尼達島我哋總共有五集介紹，一齊嚟更加深入認識呢個海島天堂！其他四集呢度有傳送門：
 
-1. [【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/nusa-penida-guide/)
-2. [Nusa Penida 努沙佩尼達島嘅浮潛點介紹，點樣參加浮潛？](/blog/nusa-penida-snorkeling-guide/)
-3. [佩尼達島的士、Gojek/Grab、包車、電單車交通攻略](/blog/nusa-penida-transport-guide/)
-4. [佩尼達島嘅住宿推薦: 13間由奢華到平價嘅 Nusa Penida 好評住宿](/blog/nusa-penida-hotels-guide/)
+1. [【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/zh-hk/blog/nusa-penida-guide/)
+2. [Nusa Penida 努沙佩尼達島嘅浮潛點介紹，點樣參加浮潛？](/zh-hk/blog/nusa-penida-snorkeling-guide/)
+3. [佩尼達島的士、Gojek/Grab、包車、電單車交通攻略](/zh-hk/blog/nusa-penida-transport-guide/)
+4. [佩尼達島嘅住宿推薦: 13間由奢華到平價嘅 Nusa Penida 好評住宿](/zh-hk/blog/nusa-penida-hotels-guide/)
 
 ## Amok Sunset
 

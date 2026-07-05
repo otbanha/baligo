@@ -54,7 +54,7 @@ https://youtu.be/EotdDxXHFwE
 
 Nusa Dua Westing Resort 撞正小海龜放生活動（Fish Lee提供）
 
-**快速參考：**[🐢峇里島睇海龜全攻略：由庫塔到沙努爾，親子必去嘅海龜保育點 🌴](/blog/bali-turtle-watching-guide/)
+**快速參考：**[🐢峇里島睇海龜全攻略：由庫塔到沙努爾，親子必去嘅海龜保育點 🌴](/zh-hk/blog/bali-turtle-watching-guide/)
 
 今次我哋有一日住咗努沙杜瓦嘅威斯汀酒店。朝早起身，啱啱撞正小海龜放生嘅活動，覺得好有意義。原本我哋計劃去庫塔嘅海龜中心，但今次提早實現咗呢個願望，真係好滿足。
 
@@ -74,7 +74,7 @@ Hard Rock 好啱帶細路（Fish Lee提供）
 
 **更多有 Kids Club 嘅渡假村推薦：**
 
-> [推薦峇里島18家庭親子度假村｜庫塔、水明漾、坎古、金巴蘭、烏魯瓦圖適合家庭度假、親子放鬆嘅最佳選擇](/blog/bali-family-resorts-kids-club/)
+> [推薦峇里島18家庭親子度假村｜庫塔、水明漾、坎古、金巴蘭、烏魯瓦圖適合家庭度假、親子放鬆嘅最佳選擇](/zh-hk/blog/bali-family-resorts-kids-club/)
 
 ## 好味嘅食物
 
@@ -90,7 +90,7 @@ Hard Rock 好啱帶細路（Fish Lee提供）
 
 https://youtube.com/shorts/MmqfkXw211k
 
-**快速參考：**[峇里島泛舟攻略（泛舟常見問題FAQ）](/blog/bali-rafting-ayung-telaga-waja/)
+**快速參考：**[峇里島泛舟攻略（泛舟常見問題FAQ）](/zh-hk/blog/bali-rafting-ayung-telaga-waja/)
 
 我哋今次仲去咗烏布玩泛舟，真係好好玩。因為選擇好多，我哋直接叫包車司機幫我哋預訂，佢搵咗個口碑唔錯嘅業者。建議揀由頭到尾2個鐘嘅行程，唔好揀1個鐘嗰啲，體驗會更完整。我哋有兩個比較細嘅細路，一個5歲幾，一個7歲，佢哋都玩得好開心。泛舟活動大概2個鐘，我哋朝早9點喺烏布嘅Villa出發，有附簡單午餐，食完之後大概13:00結束行程。要去泛舟嘅地方需要行一段比較長嘅落坡樓梯，我哋屋企啲細路慢慢行都接受到，唔算難行。
 
@@ -100,15 +100,15 @@ https://youtube.com/shorts/MmqfkXw211k
 
 > [阿勇河泛舟（含接送）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
 
-> 延伸閱讀：[Omma Dayclub介紹 & 官網](/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+> 延伸閱讀：[Omma Dayclub介紹 & 官網](/zh-hk/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 ## 多樣嘅旅遊地點
 
 今次我哋玩咗三個地方。努沙杜瓦應該係最悠閒嘅地方，好啱放鬆。烏布就以瀑布、火山、叢林、皇宮、廟宇呢啲景點出名，好啱影相同體驗峇里島嘅文化。
 
 > 延伸閱讀：
-> [努沙杜瓦、南灣：峇里島豪華度假嘅首選之地40個住宿、美食、活動攻略地圖 Nusa Dua/Tanjung Benoa](/blog/nusa-dua-guide/)
-> [峇里島烏布完整攻略：100種深入認識烏布嘅方式｜探索烏布嘅魅力](/blog/ubud-guide/)
+> [努沙杜瓦、南灣：峇里島豪華度假嘅首選之地40個住宿、美食、活動攻略地圖 Nusa Dua/Tanjung Benoa](/zh-hk/blog/nusa-dua-guide/)
+> [峇里島烏布完整攻略：100種深入認識烏布嘅方式｜探索烏布嘅魅力](/zh-hk/blog/ubud-guide/)
 
 ![我們去了不少地方（Fish Lee提供）](https://images.gobaligo.id/vocus/vocus_f7f0019c1de282e44c12abadee71c3a0.jpg)
 
@@ -116,7 +116,7 @@ https://youtube.com/shorts/MmqfkXw211k
 
 庫塔海邊雖然人多，但實際上冇我想像中咁差，一層層嘅浪花仲幾療癒㗎。
 
-> 延伸閱讀：[庫塔旅遊攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集](/blog/2023-12-13-657598bdfd8978000120fe20/)
+> 延伸閱讀：[庫塔旅遊攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 ## 有趣嘅編髮體驗
 
@@ -146,7 +146,7 @@ Edy司機、我哋呢幾日搭嘅小巴（Fish Lee提供）
 
 今次我哋嘅包車司機Edy同佢嘅團隊，仲有我哋嘅中文導遊Ani，都好值得推薦。司機揸車技術穩定，導遊講得一口流利嘅中文，解答咗我哋好多疑問，仲好識得照顧細路同影相。如果唔知食咩，佢哋仲可以畀到好好嘅推薦。
 
-司機Edy同中文導遊Ani嘅評價[請睇呢度](/blog/bali-private-car-drivers-guide/)
+司機Edy同中文導遊Ani嘅評價[請睇呢度](/zh-hk/blog/bali-private-car-drivers-guide/)
 
 今次嘅峇里島之旅好開心，無論係風景、美食定係服務，都令我哋留下咗深刻嘅印象。希望呢啲分享可以幫到大家計劃旅行。
 

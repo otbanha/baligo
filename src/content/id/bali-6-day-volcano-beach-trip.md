@@ -36,7 +36,7 @@ Yang pertama, driver kami untuk tiga hari pertama, Komang Sucika. Dia nggak cuma
 
 Disediakan oleh Dai Yushan
 
-> Musim manggis kapan paling enak? Cek: [Ratu Buah Tropis - Musim Manggis di Indonesia/Bali](/blog/bali-mangosteen-season/)
+> Musim manggis kapan paling enak? Cek: [Ratu Buah Tropis - Musim Manggis di Indonesia/Bali](/id/blog/bali-mangosteen-season/)
 
 Setiap pagi, dia jemput kami di villa tepat waktu, dan selalu cepat tanggap sama kebutuhan kami. Waktu kami mau cari toko buku, dia langsung telepon tokonya pakai bahasa Indonesia buat nanya sama pegawainya. Bahkan di Pura Besakih, dia ingetin kami soal hal-hal yang perlu diperhatikan sebelum turun. Kami merasa sangat beruntung bisa dapet driver kayak Komang Sucika! Pelayanannya jauh melebihi harga yang dia minta. Kami kasih tip yang besar karena menurut kami dia layak dapet lebih.
 
@@ -66,11 +66,11 @@ Disediakan oleh Dai Yushan
 
 Video oleh Dai Yushan
 
-> Penjelasan lengkap La Brisa / cara booking? Baca: [Dijuluki 'Restoran Terindah di Bali': Gimana La Brisa Bisa Bersaing di Antara Ribuan Tempat Makan?](/blog/canggu-la-brisa-restaurant-guide/)
+> Penjelasan lengkap La Brisa / cara booking? Baca: [Dijuluki 'Restoran Terindah di Bali': Gimana La Brisa Bisa Bersaing di Antara Ribuan Tempat Makan?](/id/blog/canggu-la-brisa-restaurant-guide/)
 
 ![Hari Pertama (Kuta/Canggu):](https://images.gobaligo.id/vocus/vocus_a8d594309ff33fbcc5edd332d4309d42.jpg)
 
-Mau tahu lebih banyak tips Canggu? [Klik di sini](/blog/canggu-guide/)
+Mau tahu lebih banyak tips Canggu? [Klik di sini](/id/blog/canggu-guide/)
 
 ## Hari Kedua (Ubud):
 
@@ -81,7 +81,7 @@ Dai Yushan
 - Pasar Ubud
 - Puri Ubud
 
-> Cara jalan-jalan di pusat Ubud? Baca [Panduan Belanja di Pusat Kota Ubud](/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
+> Cara jalan-jalan di pusat Ubud? Baca [Panduan Belanja di Pusat Kota Ubud](/id/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
 
 - Terasering Tegalalang
 
@@ -99,7 +99,7 @@ https://youtu.be/op78Dk8CjL4
 
 Dokumentasi: 戴妤珊
 
-> Penjelasan detail tentang tempat ini bisa kamu baca di: [Menembus Waktu di Desa Penglipuran: Merasakan Pesona Bali Kuno](/blog/penglipuran-village-bali-experience/)
+> Penjelasan detail tentang tempat ini bisa kamu baca di: [Menembus Waktu di Desa Penglipuran: Merasakan Pesona Bali Kuno](/id/blog/penglipuran-village-bali-experience/)
 
 - Makan siang: Naughty Nuri's Ubud (iga babi terkenal banget)
 - Camilan: Tukies Coconut Shop (es kelapa)
@@ -166,7 +166,7 @@ Video oleh Dai Yushan
 
 戴妤珊提供
 
-> [Panduan Wisata Pura Uluwatu / Tebing Cinta di Bali: Spot Wajib & Tips Praktis](https://gobaligo.id/blog/uluwatu-temple-travel-guide/)
+> [Panduan Wisata Pura Uluwatu / Tebing Cinta di Bali: Spot Wajib & Tips Praktis](https://gobaligo.id/id/blog/uluwatu-temple-travel-guide/)
 
 - Pantai Suluban (pantainya cantik banget!)
 
@@ -181,7 +181,7 @@ https://youtu.be/hQbBTktqEqY
 
 Perjalanan kali ini bikin kita puas banget. Kalau kamu lagi rencanain liburan ke Bali, coba deh intip itinerary aku ini!
 
-[【Rekomendasi Netizen】6 Kategori, Lebih dari 20 Pilihan Oleh-Oleh Khas Bali: Pilihan Terbaik untuk Menyimpan Kenangan Berharga](https://gobaligo.id/blog/bali-souvenirs-gift-guide/)
+[【Rekomendasi Netizen】6 Kategori, Lebih dari 20 Pilihan Oleh-Oleh Khas Bali: Pilihan Terbaik untuk Menyimpan Kenangan Berharga](https://gobaligo.id/id/blog/bali-souvenirs-gift-guide/)
 
 ## 【Rekomendasi Driver Sewa Mobil di Bali Part 2】
 

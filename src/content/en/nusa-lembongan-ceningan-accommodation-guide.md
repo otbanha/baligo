@@ -81,8 +81,8 @@ We hope this accommodation guide helps you find the perfect place to stay on Nus
 
 This is the third installment of our Nusa Lembongan/Nusa Ceningan guide. Want to know about the attractions and recommended restaurants on Nusa Lembongan and Nusa Ceningan? Check out our guide:
 
-- [Nusa Lembongan Guide Part 1: Attractions](/blog/nusa-lembongan-ceningan-guide/)
-- [Nusa Lembongan Guide Part 2: Food Recommendations](/blog/nusa-lembongan-restaurants/)
+- [Nusa Lembongan Guide Part 1: Attractions](/en/blog/nusa-lembongan-ceningan-guide/)
+- [Nusa Lembongan Guide Part 2: Food Recommendations](/en/blog/nusa-lembongan-restaurants/)
 
 ## 1. Jungut Batu Beach – The Best Area for Nightlife, Dining, and Accommodation in Nusa Lembongan
 
@@ -96,7 +96,7 @@ In addition to surfing, there are diving activities available, allowing you to e
 
 ### Dining Recommendations
 
-Jungut Batu is also a culinary paradise on Nusa Lembongan, with most restaurants and cafes located along the main coastal road (Jalan Jungutbatu). For health-conscious diners, there are plenty of options offering healthy and delicious meals. Check out our guide: [28 Best Restaurants, Bars, and Beach Clubs in Nusa Lembongan and Nusa Ceningan](/blog/nusa-lembongan-restaurants/)
+Jungut Batu is also a culinary paradise on Nusa Lembongan, with most restaurants and cafes located along the main coastal road (Jalan Jungutbatu). For health-conscious diners, there are plenty of options offering healthy and delicious meals. Check out our guide: [28 Best Restaurants, Bars, and Beach Clubs in Nusa Lembongan and Nusa Ceningan](/en/blog/nusa-lembongan-restaurants/)
 
 ### Nightlife
 
@@ -226,7 +226,7 @@ Mushroom Bay lies to the south of Jungut Batu Beach. Known for its tranquil, pic
 
 ### Dining Recommendations
 
-Mushroom Bay is also a great place to enjoy local cuisine. We’ve recommended three healthy and delicious restaurants—check out our guide: [The 28 Best Restaurants, Bars, and Beach Clubs in Nusa Lembongan & Nusa Ceningan](/blog/nusa-lembongan-restaurants/)
+Mushroom Bay is also a great place to enjoy local cuisine. We’ve recommended three healthy and delicious restaurants—check out our guide: [The 28 Best Restaurants, Bars, and Beach Clubs in Nusa Lembongan & Nusa Ceningan](/en/blog/nusa-lembongan-restaurants/)
 
 ### Nightlife
 
@@ -348,7 +348,7 @@ If swimming in the sea isn’t convenient, many beachfront hotels near Dream Bea
 
 ### Dining Recommendations
 
-While dining options around Dream Beach are somewhat limited, there are still some noteworthy restaurants. Check out our guide for recommendations: [28 Best Restaurants, Bars, and Beach Clubs in Nusa Lembongan and Nusa Ceningan](/blog/nusa-lembongan-restaurants/)
+While dining options around Dream Beach are somewhat limited, there are still some noteworthy restaurants. Check out our guide for recommendations: [28 Best Restaurants, Bars, and Beach Clubs in Nusa Lembongan and Nusa Ceningan](/en/blog/nusa-lembongan-restaurants/)
 
 ### Nightlife
 
@@ -657,7 +657,7 @@ If you choose to stay here, we recommend renting a scooter, as it allows you to 
 
 ![Must-Do Activities](https://images.gobaligo.id/vocus/vocus_f45f1e5afcba5c9631cc572a74cc9214.jpg)
 
-- For more beach clubs on Nusa Ceningan, check out our guide: [28 Best Restaurants, Bars, and Beach Clubs in Nusa Lembongan and Nusa Ceningan](/blog/nusa-lembongan-restaurants/)
+- For more beach clubs on Nusa Ceningan, check out our guide: [28 Best Restaurants, Bars, and Beach Clubs in Nusa Lembongan and Nusa Ceningan](/en/blog/nusa-lembongan-restaurants/)
 
 Although remote, Nusa Ceningan attracts travelers seeking unique experiences with its serene and captivating natural landscapes, making it an ideal destination for those looking for something extraordinary.
 

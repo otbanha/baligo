@@ -58,7 +58,7 @@ Video ini bukan vlog perjalanan biasa, melainkan eksplorasi dan refleksi jiwa. Q
 
 🌿✨ Lain kali kalau ngomongin Bali, coba deh sesekali lepas kamera dan tempat-tempat hits. Kayak Qiang Qiang, nikmati dengan hati, dengerin, dan rasakan jiwa kuno yang tersembunyi di balik sinar matahari tropisnya.
 
-> Baca juga: [【Healing & Spiritual Journey di Bali】Saat 'Eat Pray Love' Jadi Hidup Nyata](/blog/eat-pray-love-bali-spiritual-journey/)
+> Baca juga: [【Healing & Spiritual Journey di Bali】Saat 'Eat Pray Love' Jadi Hidup Nyata](/id/blog/eat-pray-love-bali-spiritual-journey/)
 
 > Ikut healing spiritual di Bali: [Private Spiritual Healing Day Trip in Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1033788&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F43536-private-spiritual-healing-day-trip-bali%2F%3Fspm%3DTicketList.OrderDetails.Activity%26clickId%3D91c1b40633)
 

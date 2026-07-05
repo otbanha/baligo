@@ -25,7 +25,7 @@ Update: 2026/07/03
 
 Pertama kali ke Bali, beberapa orang mungkin bakal ngalamin diare atau masalah pencernaan — ini sering disebut 'Bali belly' dalam bahasa Inggris. Kadang, satu keluarga kena semua, sial banget! Ada turis yang sampai harus nginep di hotel berhari-hari, nggak bisa jalan-jalan.
 
-> Baca juga: [Tips Kesehatan Travel ke Bali: Panduan Air Minum dan Diare di Bali](/blog/bali-travel-health-tips/)
+> Baca juga: [Tips Kesehatan Travel ke Bali: Panduan Air Minum dan Diare di Bali](/id/blog/bali-travel-health-tips/)
 
 Yang paling ditakutin pas traveling ya sakit badan. Nggak cuma bikin perjalanan jadi nggak asyik, tapi bisa parah sampai perlu bantuan medis.
 
@@ -41,9 +41,9 @@ Terus, kalau digigit nyamuk dan gatal banget, cobain deh obat gatal andalan oran
 
 Entah buat pencegahan atau antisipasi keadaan darurat, jaga kesehatan itu kunci biar liburanmu seru. Semoga tips ini bikin perjalananmu di Bali aman dan menyenangkan.
 
-> Baca juga: [Penting! Cara Membawa Obat Tidur / Obat Resep Khusus ke Indonesia / Bali](/blog/bali-medication-import-guide/)
+> Baca juga: [Penting! Cara Membawa Obat Tidur / Obat Resep Khusus ke Indonesia / Bali](/id/blog/bali-medication-import-guide/)
 
-> Baca juga: [Panduan Lengkap Membawa Jamu Bubuk & Suplemen Kesehatan ke Bali, Indonesia](/blog/bali-herbal-medicine-travel-guide/)
+> Baca juga: [Panduan Lengkap Membawa Jamu Bubuk & Suplemen Kesehatan ke Bali, Indonesia](/id/blog/bali-herbal-medicine-travel-guide/)
 
 Tambahan: Pakai sunscreen dulu atau lotion anti nyamuk dulu? Urutan yang benar adalah **pakai sunscreen dulu, baru lotion anti nyamuk**. Alasannya: Sunscreen harus dipakai duluan karena perlu menempel rata di kulit membentuk lapisan pelindung, biar efektif menangkal sinar UV. Sunscreen biasanya perlu dipakai 15-30 menit sebelum keluar rumah, biar sempat meresap ke kulit. Lotion anti nyamuk dipakai setelahnya, karena kandungannya (seperti DEET atau repellent lain) perlu menguap ke udara biar efektif mengusir nyamuk. Kalau lotion anti nyamuk dipakai duluan baru sunscreen, sunscreen bisa mengencerkan atau menutupi lotion anti nyamuk, bikin efeknya berkurang. **Tips pakai:** Setelah pakai sunscreen, tunggu beberapa menit biar meresap, baru pakai lotion anti nyamuk. Idealnya beri jeda 5-10 menit. Beberapa produk ada yang bilang jangan dicampur dengan sunscreen, cek dulu petunjuknya. Kalau perlu re-apply sunscreen, jangan lupa re-apply juga lotion anti nyamuk. Dengan cara ini, dua produk bisa bekerja maksimal, bikin kamu terlindung dari sinar matahari dan nyamuk!
 
@@ -63,6 +63,6 @@ Rekomendasi banget **Minyak Hijau (Tjing Tjau Balsem)**, ini salep anti gatal kh
 
 ## Persiapan Obat untuk Diare (Bali Belly) di Bali?
 
-Saran: siapkan obat gangguan pencernaan, obat diare, dan obat flu sebelum berangkat. Daftar lengkap obat darurat dan merek yang bisa dibeli di apotek lokal bisa kamu lihat di [Panduan Obat Bali Belly](/blog/bali-belly-medicine-guide/).
+Saran: siapkan obat gangguan pencernaan, obat diare, dan obat flu sebelum berangkat. Daftar lengkap obat darurat dan merek yang bisa dibeli di apotek lokal bisa kamu lihat di [Panduan Obat Bali Belly](/id/blog/bali-belly-medicine-guide/).
 
 {{block:戶外}}

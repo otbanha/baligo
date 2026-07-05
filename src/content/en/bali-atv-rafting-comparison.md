@@ -113,8 +113,8 @@ Based on our experience, here are the essential items you'll need:
 
 **Editor's Note - For more tips, check out:**
 
-- [Bali Rafting Guide (Frequently Asked Questions FAQ)](/blog/bali-rafting-ayung-telaga-waja/)
-- [Bali ATV Quad Bike Adventure: Experience the Thrill and Freedom of a Tropical Paradise (Reminders + FAQ + Operator Recommendations)](/blog/bali-atv-adventure-guide/)
+- [Bali Rafting Guide (Frequently Asked Questions FAQ)](/en/blog/bali-rafting-ayung-telaga-waja/)
+- [Bali ATV Quad Bike Adventure: Experience the Thrill and Freedom of a Tropical Paradise (Reminders + FAQ + Operator Recommendations)](/en/blog/bali-atv-adventure-guide/)
 
 ### Important Reminders
 

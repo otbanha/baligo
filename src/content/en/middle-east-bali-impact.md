@@ -48,7 +48,7 @@ Over 60% of Bali's GDP comes from tourism, deeply tying it to the aviation marke
 
 Concrete actions are already underway: KLM Royal Dutch Airlines has announced the cancellation of hundreds of flights starting May 2026, including routes to Indonesia. This is just the beginning; the industry fears that if other major airlines follow suit, international tourist numbers could be severely impacted.
 
-> How much have flights from Taiwan to Bali increased? Check it out [here](/blog/2026-04-09-025558/)
+> How much have flights from Taiwan to Bali increased? Check it out [here](/en/blog/2026-04-09-025558/)
 
 ## Not Just International Flights—Domestic Ticket Prices Are Soaring Too
 

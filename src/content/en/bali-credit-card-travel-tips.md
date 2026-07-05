@@ -48,14 +48,14 @@ Book and save here:
 6. **Overspending:** Using a credit card might lead to a loss of control over your spending, resulting in overspending. Use your card cautiously to avoid accumulating debt that could affect your travel experience.
 7. **Unpredictable Issues:** Even a normally functioning credit card might encounter unexpected issues in Bali. Our Facebook group once shared a member's experience: a card that worked perfectly for days suddenly failed at a high-end restaurant, leaving the traveler without enough cash and stranded. Fortunately, other group members came to the rescue, resolving the situation. ([See here](https://www.facebook.com/share/p/17GvUqdNkW/)) This case reminds us that being prepared while traveling abroad can help avoid awkward situations.
 
-> Further Reading: [Bali Travel Budget Guide: Understanding 'K' to Help Control Your Budget](/blog/bali-budget-tips-k-explained/)
+> Further Reading: [Bali Travel Budget Guide: Understanding 'K' to Help Control Your Budget](/en/blog/bali-budget-tips-k-explained/)
 
-> Further Reading: [Must-Know Tips for Bali: Beware of Credit Card Payment Traps](/blog/bali-credit-card-payment-tips/)
+> Further Reading: [Must-Know Tips for Bali: Beware of Credit Card Payment Traps](/en/blog/bali-credit-card-payment-tips/)
 
-> Further Reading: [Bali Travel Money-Saving Tips: 19 Strategies to Save Money](/blog/bali-travel-money-saving-tips/)
+> Further Reading: [Bali Travel Money-Saving Tips: 19 Strategies to Save Money](/en/blog/bali-travel-money-saving-tips/)
 
-> Further reading: [Essential Guide to Safe and Convenient Travel Shopping](/blog/travel-shopping-safety/)
+> Further reading: [Essential Guide to Safe and Convenient Travel Shopping](/en/blog/travel-shopping-safety/)
 
-> Further Reading: [How Much Cash Should You Prepare for a Bali Trip?](/blog/bali-travel-cash-budget-guide/)
+> Further Reading: [How Much Cash Should You Prepare for a Bali Trip?](/en/blog/bali-travel-cash-budget-guide/)
 
 To avoid unnecessary fees, it's advisable to carefully review your credit card terms and conditions before traveling to Bali. Understand the associated currency conversion fees and foreign transaction charges, and choose the most suitable payment method based on your needs. Sometimes, carrying some Indonesian Rupiah cash can be more convenient and cost-effective. Therefore, diversifying your payment methods during your trip might be a wise choice.

@@ -28,41 +28,41 @@ _srcHash: 5595f154e76315364dc079ce1e276df4
 
 ![1. 包車司機推薦：Gede Arimbawa](https://images.gobaligo.id/vocus/vocus_9c6297afa65717ca1de714d7b83a7289.jpg)
 
-Gede 喺社團有超多好評！[請參考呢度](/blog/bali-private-car-drivers-guide/)
+Gede 喺社團有超多好評！[請參考呢度](/zh-hk/blog/bali-private-car-drivers-guide/)
 
 ## 2. 機場入境：EVOA快通關
 
 入境過程好順利，我哋用咗EVOA快速通關，完全冇遇到任何阻滯，海關都冇問嘢。不過，等行李就等咗好耐，差唔多用咗成一個鐘頭！
 
-> 編按：最新嘅峇里島入境程序請參考[2025/08印尼峇里島入境使用「All Indonesia」入境卡｜1分鐘搞懂最新流程：落機→過海關→拎行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
+> 編按：最新嘅峇里島入境程序請參考[2025/08印尼峇里島入境使用「All Indonesia」入境卡｜1分鐘搞懂最新流程：落機→過海關→拎行李全攻略](/zh-hk/blog/bali-all-indonesia-arrival-guide/)
 
 ## 3. 機場Wi-Fi弱到爆！
 
 我哋一到峇里島機場就發現嗰度嘅Wi-Fi真係好弱，感覺係因為當時連線嘅人太多。好彩同行嘅朋友有中華電信嘅漫遊服務，如果唔係真係唔知點樣聯絡我哋嘅司機。如果你打算買當地嘅Telkomsel SIM卡，價錢大約喺300到500台幣之間，即係大概USD$10到USD$16，包14G流量，但係喺某啲偏遠地區（例如Labuan Bajo跳島區）訊號依然唔係好強。
 
-延伸閱讀：[【峇里島旅遊必備】如何辦理峇里島網路/SIM卡?](/blog/bali-sim-card-esim-roaming-guide/)
+延伸閱讀：[【峇里島旅遊必備】如何辦理峇里島網路/SIM卡?](/zh-hk/blog/bali-sim-card-esim-roaming-guide/)
 
 ## 4. 峇里島嘅交通狀況
 
 今次行程入面，我哋發現鬧區塞車嘅情況真係好嚴重！特別係下晝1點到夜晚7點半之間，烏魯瓦圖、烏布、金巴蘭呢啲地方嘅塞車情況更加誇張。雖然Google Map預估嘅時間睇落好短，但實際路程往往要乘2.5到3倍嘅時間。建議大家喺呢段時間盡量避免長途移動。
 
-> 編按：[喺峇里島唔好信Google地圖！](/blog/bali-google-maps-warning/)
+> 編按：[喺峇里島唔好信Google地圖！](/zh-hk/blog/bali-google-maps-warning/)
 
 ## 5. Spa預訂小技巧
 
 如果你計劃去峇里島享受Spa，最好提前透過WhatsApp預訂，或者請包車司機幫手預訂。特別係評價高嘅Spa店，臨時去現場好大機會冇位。如果請司機幫手預訂嘅話，佢哋可能會需要先畀訂金，所以記得慎重考慮係咪取消，如果唔係就要記得還返訂金畀司機。
 
-> 延伸閱讀：[【精華篇】峇里島好評SPA推薦大集合 用區域劃分更方便查找](/blog/spa/)
+> 延伸閱讀：[【精華篇】峇里島好評SPA推薦大集合 用區域劃分更方便查找](/zh-hk/blog/spa/)
 
 ## 6. 島內交通安排
 
 因為我哋今次行程仲包埋跳島，所以喺峇里島得三日時間。但我哋揀咗三個唔同區域去玩，結果日日都塞車塞到傻。如果你想去多啲地方，建議揀同一個區域住一至兩日，咁就唔會浪費寶貴時間喺條路度。
 
-> 編按：盡量細區域移動先係峇里島旅遊嘅王道㗎！請睇「[峇里島分區攻略](https://gobaligo.id/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)」
+> 編按：盡量細區域移動先係峇里島旅遊嘅王道㗎！請睇「[峇里島分區攻略](https://gobaligo.id/zh-hk/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)」
 
 ![烏魯瓦圖火舞的門票可以在網上先買好（Sandra Yun提供）](https://images.gobaligo.id/vocus/vocus_d3a5a16996aa1d2906eea06f2716a19c.jpg)
 
-[烏魯瓦圖火舞嘅門票可以喺網上預先買定（Sandra Yun提供）](/blog/kecak-fire-dance-bali/)
+[烏魯瓦圖火舞嘅門票可以喺網上預先買定（Sandra Yun提供）](/zh-hk/blog/kecak-fire-dance-bali/)
 
 ## 7. 水上活動價錢差好遠
 
@@ -82,13 +82,13 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 https://youtube.com/shorts/tHRxnJqxqbw
 
-延伸閱讀：[採「預約+現場排隊」嘅Rock Bar點樣預約？](/blog/ayana-resort-bali-guide/)
+延伸閱讀：[採「預約+現場排隊」嘅Rock Bar點樣預約？](/zh-hk/blog/ayana-resort-bali-guide/)
 
 ## 9. 關於貼士嘅觀察
 
 喺峇里島，我哋發現好多餐廳都會將我哋第一次俾嘅貼士退返，直到我哋第二次再俾佢哋先會收。但如果係俾房務人員、行李員或者活動教練少少貼士，佢哋會好開心！
 
-> 延伸閱讀：[峇里島旅遊要俾貼士嗎？貼士點樣俾？峇里島各種場合嘅貼士要俾幾多？](/blog/bali-tipping-guide-driver-spa/)
+> 延伸閱讀：[峇里島旅遊要俾貼士嗎？貼士點樣俾？峇里島各種場合嘅貼士要俾幾多？](/zh-hk/blog/bali-tipping-guide-driver-spa/)
 
 ## 10. 手信：Bali Banana
 
@@ -96,7 +96,7 @@ https://youtube.com/shorts/tHRxnJqxqbw
 
 > 編按：Bali Banana喺庫塔有好多間專賣店，地點請參考「[庫塔攻略地圖](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)」
 
-> 延伸閱讀：[【網友推薦】六大種類，超過20項峇里島手信推薦指南：留住珍貴回憶嘅絕佳選擇](/blog/bali-souvenirs-gift-guide/)
+> 延伸閱讀：[【網友推薦】六大種類，超過20項峇里島手信推薦指南：留住珍貴回憶嘅絕佳選擇](/zh-hk/blog/bali-souvenirs-gift-guide/)
 
 ## 11. 科摩多島跳島行程
 
@@ -110,7 +110,7 @@ Klook有幾十種科摩多行程可以揀，[撳呢度睇](https://affiliate.klo
 
 > 編按：我哋都有提供專業嘅旅行社套裝行程，可以參考吓
 
-- [峇里島+科摩多島全包輕奢行程](/blog/bali-komodo-luxury-tour-2026/)
+- [峇里島+科摩多島全包輕奢行程](/zh-hk/blog/bali-komodo-luxury-tour-2026/)
 
 ## 12. 帶腸胃藥嘅重要性
 
@@ -124,7 +124,7 @@ https://youtu.be/GivvqCXp11A
 
 喺烏布我哋遇到啲開天殺價嘅騎士（motor taxi），當時book咗兩段車程，點知佢哋車錯地方，到咗正確地點又收多次錢。呢種情況好大機會係網友講嘅白牌車騙局，大家一定要小心，事前確認好路線同價錢。
 
-> 編按，用手機叫車就可以避免呢種情況發生㗎：[喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/blog/gojek-bali-guide/)
+> 編按，用手機叫車就可以避免呢種情況發生㗎：[喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/zh-hk/blog/gojek-bali-guide/)
 
 ![13. 騎士騙局要小心！](https://images.gobaligo.id/vocus/vocus_132b0fdbdbd2b8f1e37a9dc51b38bd58.png)
 

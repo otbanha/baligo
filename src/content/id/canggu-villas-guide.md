@@ -51,7 +51,7 @@ update: 06/06/2026
 
 Canggu (dibaca: Chang-gu), kota kecil yang terletak di pesisir barat daya Bali, udah jadi destinasi favorit para traveler global. Dengan vibe santai, budaya yang kaya, dan pemandangan alam yang ciamik, Canggu menarik berbagai macam wisatawan—dari peselancar, digital nomad, sampai yang cari liburan mewah. Di sini ada pantai pasir hitam yang luas, sawah hijau nan asri, dan segudang kafe serta restoran kekinian yang bikin pengalaman kamu makin seru dan unforgettable.
 
-Penasaran apa aja sih yang bikin Canggu begitu memikat? Jangan sampai kelewatan panduan lengkap kami: [Peta Petualangan Sempurna di Canggu, Bali: 100 Tempat Wajib Kunjungi di Canggu | Panduan 2026](/blog/canggu-guide/)
+Penasaran apa aja sih yang bikin Canggu begitu memikat? Jangan sampai kelewatan panduan lengkap kami: [Peta Petualangan Sempurna di Canggu, Bali: 100 Tempat Wajib Kunjungi di Canggu | Panduan 2026](/id/blog/canggu-guide/)
 
 ![長谷攻略裡有景點、餐廳、住宿、SPA推薦](https://images.gobaligo.id/vocus/vocus_55f2f31688753fb3500e30ac5c809196.jpg)
 
@@ -616,9 +616,9 @@ Domisili Villa Canggu Bali By Fays Hospitality terkenal dengan fasilitas luas, f
 
 # Pilihan Akomodasi Lain di Canggu
 
-- Resor: [Rekomendasi Akomodasi Bali: Top 10 Akomodasi di Canggu yang Wajib Kamu Coba](/blog/canggu-top-hotels-guide/)
-- Liburan Keluarga: [Rekomendasi 13 Resor Keluarga di Bali｜Pilihan Terbaik untuk Liburan Keluarga di Kuta, Seminyak, Canggu, Jimbaran, dan Uluwatu](/blog/bali-family-resorts-kids-club/)
-- Akomodasi Keluarga: Untuk villa keluarga di Canggu, cek [Rekomendasi Villa Keluarga dengan 3/4/5+ Kamar Tidur](/blog/bali-group-villa-stay/)
+- Resor: [Rekomendasi Akomodasi Bali: Top 10 Akomodasi di Canggu yang Wajib Kamu Coba](/id/blog/canggu-top-hotels-guide/)
+- Liburan Keluarga: [Rekomendasi 13 Resor Keluarga di Bali｜Pilihan Terbaik untuk Liburan Keluarga di Kuta, Seminyak, Canggu, Jimbaran, dan Uluwatu](/id/blog/bali-family-resorts-kids-club/)
+- Akomodasi Keluarga: Untuk villa keluarga di Canggu, cek [Rekomendasi Villa Keluarga dengan 3/4/5+ Kamar Tidur](/id/blog/bali-group-villa-stay/)
 
  BLOCK0 
  BLOCK1 

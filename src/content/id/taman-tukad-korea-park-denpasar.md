@@ -79,7 +79,7 @@ Tukad Badung Riverside bukan cuma tempat yang cantik pas malam, tapi juga contoh
 5. **Cocok buat liburan keluarga?**
    Banget, ada area air mancur khusus anak-anak, tapi disarankan orang tua tetap dampingi.
 6. **Gimana rencanain jalan-jalan sehari di sekitar sini?**
-   Cek aja: [【Peta Panduan Denpasar】Ibu Kota Budaya Bali: Denpasar, Salah Satu 100 Kota Terbaik Dunia 2025](/blog/denpasar-culture-guide/)
+   Cek aja: [【Peta Panduan Denpasar】Ibu Kota Budaya Bali: Denpasar, Salah Satu 100 Kota Terbaik Dunia 2025](/id/blog/denpasar-culture-guide/)
 
 > [Tur Malam Warisan Budaya & Kuliner Jalanan Denpasar](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1256541&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F197385-denpasar-heritage-street-food-evening-tour%2F)
 

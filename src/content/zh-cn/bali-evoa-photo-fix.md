@@ -20,7 +20,7 @@ Update: 2026/07/03
 
 **先讲结论**：eVoA 大头照上传失败，九成原因是**文件超过2MB**——现在手机随手拍都会超过。最快解法：把照片用 **LINE 传给朋友再请对方传回来**，通讯软件会自动压缩到几百KB而不失真，即可通过上传。官方照片要求：jpeg/jpg/png 彩色照、最小400×600、文件2MB以内、构图端正（素色墙自拍即可）。
 
-要去印尼或巴厘岛旅游需要申请签证(VISA)。而申请签证的方法有两种，这两种方法的比较请参考：[巴厘岛旅游签证攻略：落地签 vs 电子签，哪种更适合你？](/blog/bali-visa-landing-vs-electronic/)
+要去印尼或巴厘岛旅游需要申请签证(VISA)。而申请签证的方法有两种，这两种方法的比较请参考：[巴厘岛旅游签证攻略：落地签 vs 电子签，哪种更适合你？](/zh-cn/blog/bali-visa-landing-vs-electronic/)
 
 ## 申请电子签证(eVoA)入境印尼/巴厘岛好处多多哦！
 
@@ -69,6 +69,6 @@ Update: 2026/07/03
 
 ## 延伸阅读
 
-> [印尼/巴厘岛电子签证eVoa全攻略：申请步骤、注意事项一次掌握！](/blog/bali-evisa-application-guide/)
+> [印尼/巴厘岛电子签证eVoa全攻略：申请步骤、注意事项一次掌握！](/zh-cn/blog/bali-evisa-application-guide/)
 
-> [快速便捷！2024巴厘岛自动通关流程&过关攻略](/blog/2025-bali-automatic-customs/)
+> [快速便捷！2024巴厘岛自动通关流程&过关攻略](/zh-cn/blog/2025-bali-automatic-customs/)

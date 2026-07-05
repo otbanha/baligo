@@ -60,7 +60,7 @@ Your passport must have **at least 6 months of validity remaining**. Indonesian 
 - It’s only $5 cheaper, but the time saved is worth so much more
 - Customs policies are getting stricter by 2026, so being prepared avoids any issues
 
-👉 [**Full Visa Guide Here**](/blog?cat=%E7%B0%BD%E8%AD%89%E9%80%9A%E9%97%9C) | [**Post-Landing Process Tutorial**](/blog/bali-all-indonesia-arrival-guide/)
+👉 [**Full Visa Guide Here**](/blog?cat=%E7%B0%BD%E8%AD%89%E9%80%9A%E9%97%9C) | [**Post-Landing Process Tutorial**](/en/blog/bali-all-indonesia-arrival-guide/)
 
 ### 2. Travel Insurance: Seriously, Don’t Skip It
 
@@ -72,7 +72,7 @@ Bali's medical standards are not as good as Taiwan's. Hospitalization there coul
 - Medical expenses (including overseas hospitalization)
 - Trip interruption/lost luggage
 
-Check this out: [Essential Guide for Taiwan, Hong Kong, Malaysia & Singapore Travelers: Insurance Tips, Overseas Medical Claims & Travel Inconvenience Coverage](/blog/bali-travel-insurance-guide/)
+Check this out: [Essential Guide for Taiwan, Hong Kong, Malaysia & Singapore Travelers: Insurance Tips, Overseas Medical Claims & Travel Inconvenience Coverage](/en/blog/bali-travel-insurance-guide/)
 
 ### 3. Flight Planning: Avoid Peak Periods to Save 1/3 of Your Budget
 
@@ -105,7 +105,7 @@ Starting in 2024, every foreign tourist entering Bali will need to pay a tourist
 
 Be sure to keep the receipt, as you may be asked to show it at tourist sites.
 
-👉 [**Latest Guide on Paying the Tourist Levy**](/blog/bali-levy-check-warning/)
+👉 [**Latest Guide on Paying the Tourist Levy**](/en/blog/bali-levy-check-warning/)
 
 ***
 
@@ -131,7 +131,7 @@ Be sure to keep the receipt, as you may be asked to show it at tourist sites.
 
 💡 **Most common mistake for beginners**: "I’ll bring NT$ to Bali!" Don’t be silly. NT$ is not only hard to use in Bali, but even if someone accepts it, the exchange rate is ridiculously bad.
 
-👉 [**Must-read!! Currency Exchange Guide**](/blog/bali-currency-exchange-guide/) | [**Scam Money Changer Avoidance Guide**](/blog/bali-money-exchange-scams-2/)
+👉 [**Must-read!! Currency Exchange Guide**](/en/blog/bali-currency-exchange-guide/) | [**Scam Money Changer Avoidance Guide**](/en/blog/bali-money-exchange-scams-2/)
 
 ### 6. Packing Checklist: What to Bring and What to Skip
 
@@ -157,7 +157,7 @@ Be sure to keep the receipt, as you may be asked to show it at tourist sites.
 - Alcoholic beverages exceeding 5 liters
 - Wildlife products
 
-👉 [**Complete 21-Item Packing List**](/blog/bali-travel-essentials/) | [**Airline Luggage Regulations**](/blog/bali-airline-luggage-rules/)
+👉 [**Complete 21-Item Packing List**](/en/blog/bali-travel-essentials/) | [**Airline Luggage Regulations**](/en/blog/bali-airline-luggage-rules/)
 
 ### 7. Mobile Phones & Internet: Avoid Roaming
 
@@ -174,7 +174,7 @@ Be sure to keep the receipt, as you may be asked to show it at tourist sites.
 - Buy a local SIM card on Klook before departure (pick up at airport or have it mailed to Taiwan)
 - Or purchase directly at the airport, Telkomsel (Simpati Red Card) has the best signal
 
-👉[ ](/blog/bali-sim-card-esim-guide/)[**Complete Guide to SIM Cards & eSIMs**](/blog/bali-sim-card-esim-guide/)
+👉[ ](/en/blog/bali-sim-card-esim-guide/)[**Complete Guide to SIM Cards & eSIMs**](/en/blog/bali-sim-card-esim-guide/)
 
 ### 8. Voltage & Plugs: 220V, Bring the Right Adapter
 
@@ -189,7 +189,7 @@ Most laptop and phone chargers support automatic conversion between 110-240V (ch
 
 ![](https://images.gobaligo.id/images/2026-05/1778167260923-plug.png)
 
-👉 [**Complete Guide to Voltage & Adapters**](/blog/bali-voltage-adapter-tips/)
+👉 [**Complete Guide to Voltage & Adapters**](/en/blog/bali-voltage-adapter-tips/)
 
 ***
 
@@ -251,7 +251,7 @@ Although Bali isn’t large, each area has a completely different vibe. **For fi
 - Downsides: Attractions are spread out, limited options
 - Accommodation cost: $$ ～ $$$$
 
-👉 [**Complete Area Selection Guide**](/blog/bali-accommodation-area-guide/) | [**Accommodation Recommendations by Area**](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
+👉 [**Complete Area Selection Guide**](/en/blog/bali-accommodation-area-guide/) | [**Accommodation Recommendations by Area**](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 
 ### 11. When is the best time to visit?
 
@@ -273,7 +273,7 @@ https://youtube.com/shorts/ymx-kClfA1I
 
 💡 **You might not know**: The rainy season isn't as scary as you might think. It's usually just 1-2 hours of rain in the afternoon, and you can still visit all the attractions you want. Plus, the rice terraces are at their greenest, hotels are cheapest, and crowds are smallest during the rainy season—making it a secret season for those in the know.
 
-👉 [**Complete Guide to Dry & Rainy Seasons**](/blog/bali-best-time-to-visit/) | [**How to Enjoy the Rainy Season?**](/blog/2026-bali-indoor-activities/)
+👉 [**Complete Guide to Dry & Rainy Seasons**](/en/blog/bali-best-time-to-visit/) | [**How to Enjoy the Rainy Season?**](/en/blog/2026-bali-indoor-activities/)
 
 ### 12. Avoid Peak Seasons and Special Holidays
 
@@ -287,7 +287,7 @@ https://youtube.com/shorts/ymx-kClfA1I
 
 Avoid these times, and you can save 1/3 on airfare and skip the crowds.
 
-👉 [**2026 Bali Peak Seasons & Festivals Guide**](/blog/2026-bali-festival-guide/)
+👉 [**2026 Bali Peak Seasons & Festivals Guide**](/en/blog/2026-bali-festival-guide/)
 
 ### 13. 7 Steps to Plan Your Itinerary
 
@@ -299,7 +299,7 @@ Avoid these times, and you can save 1/3 on airfare and skip the crowds.
 6. **Create a simple schedule** (One highlight each for morning, afternoon, and evening)
 7. **Leave some free time** (Don't overpack your schedule—leave room for spontaneous café discoveries)
 
-👉 [**Complete Trip Planning Guide in 7 Steps**](/blog/2026-bali-trip-planning-guide/) | [**Free Trip Planning Tool**](/trip-planner/)
+👉 [**Complete Trip Planning Guide in 7 Steps**](/en/blog/2026-bali-trip-planning-guide/) | [**Free Trip Planning Tool**](/en/trip-planner/)
 
 ***
 
@@ -322,7 +322,7 @@ Avoid these times, and you can save 1/3 on airfare and skip the crowds.
 
 **The entire process takes 30-60 minutes if there’s no queue**, so don’t stress.
 
-👉 [**Latest Arrival Process Complete Guide**](/blog/bali-all-indonesia-arrival-guide/)
+👉 [**Latest Arrival Process Complete Guide**](/en/blog/bali-all-indonesia-arrival-guide/)
 
 ### 15. Transportation Options from Airport to Hotel
 
@@ -339,7 +339,7 @@ Avoid these times, and you can save 1/3 on airfare and skip the crowds.
 
 💡 **Hidden Benefits of Hiring a Private Driver**: Using the same driver throughout your trip means they know which restaurants won't overcharge tourists, the best times to visit attractions with fewer crowds, and where traffic jams are likely to occur. This local knowledge is worth the investment.
 
-👉 [**Complete Guide to Private Car Hire**](/blog/bali-private-car-hire-guide/) | [**Driver Recommendations**](/blog/bali-private-car-drivers-guide/)
+👉 [**Complete Guide to Private Car Hire**](/en/blog/bali-private-car-hire-guide/) | [**Driver Recommendations**](/en/blog/bali-private-car-drivers-guide/)
 
 ### 16. Stomach Issues and Digestive Problems
 
@@ -359,7 +359,7 @@ https://youtu.be/GivvqCXp11A
 - Drink electrolyte beverages (available in Bali supermarkets)
 - Rest for half a day; symptoms usually improve within a day
 
-👉 [**Complete Guide to Digestive Issues**](/blog/bali-belly-medicine-guide/)
+👉 [**Complete Guide to Digestive Issues**](/en/blog/bali-belly-medicine-guide/)
 
 ***
 
@@ -421,7 +421,7 @@ Indonesians love it when tourists make an effort to speak their language, even i
 
 💡 **Common Beginner Mistake:** Peak traffic hours are from 3-6 PM. Avoiding this time can save both time and money.
 
-👉 [**Complete Gojek Guide**](/blog/indonesia-gojek-gopay-guide/)
+👉 [**Complete Gojek Guide**](/en/blog/indonesia-gojek-gopay-guide/)
 
 ### 21. Beware of Common Scams
 
@@ -429,7 +429,7 @@ Indonesians love it when tourists make an effort to speak their language, even i
 
 [https://youtu.be/LuEXL77-Qh0](https://youtu.be/LuEXL77-Qh0)
 
-👉 [**2026 Scam Guide**](/blog/bali-tourist-scams-2026/) | [**Street Scam Examples**](/blog/bali-street-scam-alert/)
+👉 [**2026 Scam Guide**](/en/blog/bali-tourist-scams-2026/) | [**Street Scam Examples**](/en/blog/bali-street-scam-alert/)
 
 ### 22. Shopping and Souvenirs
 
@@ -441,8 +441,8 @@ Indonesians love it when tourists make an effort to speak their language, even i
 - **Traditional textiles** (sarongs, fabrics)
 - **Local skincare products** (shea butter, coconut oil skincare)
 
-👉 [**20 Recommended Souvenirs**](/blog/bali-souvenirs-gift-guide/)
-👉 [🛍️Ultimate Ubud Market Shopping Guide: From Handicrafts to Art Collections, Shop to Your Heart's Content!](/blog/ubud-market-shopping-guide/)
+👉 [**20 Recommended Souvenirs**](/en/blog/bali-souvenirs-gift-guide/)
+👉 [🛍️Ultimate Ubud Market Shopping Guide: From Handicrafts to Art Collections, Shop to Your Heart's Content!](/en/blog/ubud-market-shopping-guide/)
 
 ### 23. Cultural Taboos and Respect
 
@@ -466,13 +466,13 @@ Indonesians love it when tourists make an effort to speak their language, even i
 - Cover shoulders and knees when entering temples or villages
 - Polo shirts are acceptable for men in formal settings
 
-👉 [**Complete Guide to Cultural Taboos**](/blog/bali-do-and-dont-2026/)
+👉 [**Complete Guide to Cultural Taboos**](/en/blog/bali-do-and-dont-2026/)
 
 ### 24. 8 Must-Download Apps
 
 [https://youtube.com/shorts/lltGiElNWBA](https://youtube.com/shorts/lltGiElNWBA)
 
-👉 [**Complete Guide to 8 Essential Apps**](/blog/bali-travel-apps-guide/)
+👉 [**Complete Guide to 8 Essential Apps**](/en/blog/bali-travel-apps-guide/)
 
 ***
 
@@ -512,7 +512,7 @@ If you don’t want to plan anything yourself, there’s a local Bali travel age
 
 While this service is a bit pricier, it’s worth it for those who value their time.
 
-👉 [**Recommended Travel Agency**](/blog/isbali-tour-agency-review/)
+👉 [**Recommended Travel Agency**](/en/blog/isbali-tour-agency-review/)
 
 ***
 
@@ -526,7 +526,7 @@ While this service is a bit pricier, it’s worth it for those who value their t
 
 **A:** The per person budget for 6 days and 5 nights can range from USD$200 to USD$2,000. We recommend using the tool below:
 
-👉 [**Detailed Budget Calculator**](/bali-budget-calculator/)
+👉 [**Detailed Budget Calculator**](/en/bali-budget-calculator/)
 
 ### Q: Can I use Taiwanese dollars in Bali?
 
@@ -540,7 +540,7 @@ While this service is a bit pricier, it’s worth it for those who value their t
 
 **A:** Absolutely. During the rainy season (November-March), it's usually **just 1-2 hours of afternoon showers**, and attractions remain open. In fact, the rainy season has advantages: fewer tourists, hotels are 40-50% cheaper, rice terraces are at their greenest, and Spas are more relaxing. Many seasoned travelers specifically choose the rainy season to visit. The downsides are unpredictable mountain weather and potential cancellations of some outdoor activities.
 
-👉 [**Complete Rainy Season Guide**](/blog/2026-bali-indoor-activities/)
+👉 [**Complete Rainy Season Guide**](/en/blog/2026-bali-indoor-activities/)
 
 ### Q: Do I need to apply for a visa before my first trip to Bali? Can I get a visa on arrival?
 
@@ -578,7 +578,7 @@ The key is to "tip those who help you," and the amount doesn't need to be large�
 
 For beginners, we recommend combining **Seminyak + Ubud** to experience both beach and culture.
 
-👉 [**Complete Area Selection Guide**](/blog/bali-accommodation-area-guide/)
+👉 [**Complete Area Selection Guide**](/en/blog/bali-accommodation-area-guide/)
 
 {{block:住宿}}
 
@@ -608,7 +608,7 @@ The next steps are simple:
 
 **Don't overprepare. Sometimes the best journeys come from unplanned moments.**
 
-Feel free to use our free '[Bali Trip Planner](/trip-planner/)' tool.
+Feel free to use our free '[Bali Trip Planner](/en/trip-planner/)' tool.
 
 Wishing you an unforgettable journey.
 

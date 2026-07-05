@@ -77,7 +77,7 @@ https://www.youtube.com/watch?v=sfFytMFJUgE
 
 Ayana Bali di Bali adalah resort super besar yang jadi favorit turis, luasnya 90 hektar. Di dalamnya ada empat area hotel dengan gaya berbeda, masing-masing punya level kemewahan sendiri, 19 restoran dan bar, 14 kolam renang, lapangan golf 18 lubang, kids club, sunset yoga, Rock Bar yang terkenal, pantai pribadi, plus pemandangan laut yang juara!
 
-Buat info detail soal keempat hotel di sini, fasilitas, cara booking Rock Bar, harga semalam, 13 kelebihan utama... jangan lupa baca [panduan lengkap kami](/blog/ayana-resort-bali-guide/)
+Buat info detail soal keempat hotel di sini, fasilitas, cara booking Rock Bar, harga semalam, 13 kelebihan utama... jangan lupa baca [panduan lengkap kami](/id/blog/ayana-resort-bali-guide/)
 
 ## Buruan Booking!
 

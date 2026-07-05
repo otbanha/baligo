@@ -41,7 +41,7 @@ Taman Dedari is a standout attraction in Ubud, famous for its iconic giant fairy
 
 There are plenty of photo-worthy spots inside, so feel free to snap away!
 
-[Detailed Introduction to Taman Dedari](/blog/taman-dedari-ubud-food-scenery/)
+[Detailed Introduction to Taman Dedari](/en/blog/taman-dedari-ubud-food-scenery/)
 
 > [Taman Dedari Tickets, Afternoon Tea, and Swimming Restaurant Dining Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F93907-taman-dedari-ubud-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D18eb8d34de)
 
@@ -73,7 +73,7 @@ Omma Dayclub provides a range of packages that let you savor delicious food and 
 
 https://youtube.com/shorts/MmqfkXw211k
 
-[Omma Dayclub Introduction & Official Website](/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+[Omma Dayclub Introduction & Official Website](/en/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 [Omma Day Club Discount Ticket](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1209001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F100356-omma-dayclub-day-pass-ubud-sukawati-gianyar-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D022b469388)
 
@@ -91,7 +91,7 @@ Wanna Jungle Pool & Bar is a day club in Ubud, famous for its unique three-tiere
 
 Cretya Ubud is a luxurious day club in the Ubud area, featuring a distinctive three-tiered pool. It's located within the aforementioned Alas Harum, facing lush rice paddies and offering stunning views.
 
-Cretya Ubud is open daily from 8 AM to 9 PM. For more details, refer to the '[Cretya Ubud Pool Club & Alas Harum Budget Guide](/blog/cretya-ubud-alas-harum-budget-guide/)'.
+Cretya Ubud is open daily from 8 AM to 9 PM. For more details, refer to the '[Cretya Ubud Pool Club & Alas Harum Budget Guide](/en/blog/cretya-ubud-alas-harum-budget-guide/)'.
 
 [Travel Package](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89567-ubud-jungle-club-mount-batur-jeep-waterfall-tour-land-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2f260216ee)
 
@@ -225,7 +225,7 @@ At Terracotta Restaurant, visitors can escape the hustle and bustle into a seren
 
 After the immense popularity of Cretya Ubud with its stunning views of the Tegallalang Rice Terraces, the Alas Harum Group has launched a new masterpiece—Cretya Sunset by Alas Harum, Ubud. This day club and restaurant in Ubud blends luxury, nature, and entertainment, featuring an infinity pool, stylish lounge areas, and a design that fuses modern aesthetics with Balinese style. Here, you can savor gourmet food and cocktails while immersing yourself in breathtaking sunsets and rice terrace vistas.
 
-Nestled among Ubud's lush rice paddies, Cretya Sunset faces west, making it the perfect spot to watch the sunset. Every evening, accompanied by live DJ music, you can unwind here and soak in Bali's natural and cultural charm. Whether you prefer quietly admiring the scenery or enjoying the lively atmosphere, this is an unmissable dream destination. For more details, check out [here](/blog/cretya-sunset-ubud-paradise/).
+Nestled among Ubud's lush rice paddies, Cretya Sunset faces west, making it the perfect spot to watch the sunset. Every evening, accompanied by live DJ music, you can unwind here and soak in Bali's natural and cultural charm. Whether you prefer quietly admiring the scenery or enjoying the lively atmosphere, this is an unmissable dream destination. For more details, check out [here](/en/blog/cretya-sunset-ubud-paradise/).
 
 > Cretya Sunset ▶[Klook Voucher Rp.125,000](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989669&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F78117-ubudsunset-pass-poolbar-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D09b568e351)
 
@@ -267,7 +267,7 @@ This isn't just a food paradise; it's an immersive natural art space. The friend
 
 In the serene koi river at the heart of Kamandalu Resort, enjoy a one-of-a-kind dining experience on a boat with your loved one. The two of you sit in a traditional wooden boat, surrounded by lush tropical gardens, with colorful koi fish swimming in the clear waters—creating an incredibly romantic scene. The resort's chef has specially crafted a lavish five-star couple's set menu, using fresh seasonal ingredients that blend Indonesian traditional flavors with international culinary techniques, paired with selected sparkling wine and signature drinks for a feast that delights both palate and eyes.
 
-A professional photography team will capture this precious moment, so you don't need to worry about posing—the natural expressions of happiness will become eternal memories. Whether it's a honeymoon, anniversary, or simply a surprise for your loved one, this 60-minute dreamy experience will shine as the brightest memory of your Bali trip. Find [more details here](/blog/kamandalu-ubud-koi-river-dining/).
+A professional photography team will capture this precious moment, so you don't need to worry about posing—the natural expressions of happiness will become eternal memories. Whether it's a honeymoon, anniversary, or simply a surprise for your loved one, this 60-minute dreamy experience will shine as the brightest memory of your Bali trip. Find [more details here](/en/blog/kamandalu-ubud-koi-river-dining/).
 
 > [Klook Booking Discount](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1061065&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F136296-dining-experience-at-kamandalu-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Debd9e9bd14)
 
@@ -333,7 +333,7 @@ Ubud's food scene is truly exciting—not just traditional Indonesian cuisine, b
 
 ![Savor Delicious and Affordable Local Food](https://images.gobaligo.id/vocus/vocus_4182aca9b5cf1fe4d85278c159021273.jpg)
 
-When you're in Bali, you have to try the local cuisine! So what are Bali's local dishes? Check out Xiao Jie's introduction to the "[Top 10 Local Foods in Bali](/blog/bali-travel-tips/)"—it's a culinary adventure.
+When you're in Bali, you have to try the local cuisine! So what are Bali's local dishes? Check out Xiao Jie's introduction to the "[Top 10 Local Foods in Bali](/en/blog/bali-travel-tips/)"—it's a culinary adventure.
 
 ***
 
@@ -341,5 +341,5 @@ When you're in Bali, you have to try the local cuisine! So what are Bali's local
 
 ## Also Check Out
 
-- [Kuta Food Guide | Bali's Ultimate Food Guide](/blog/kuta-best-food-guide/)
-- [Seminyak Food Guide | A Perfect Blend of Romance, Elegance, and Authentic Bali](/blog/seminyak-restaurants-food-guide/)
+- [Kuta Food Guide | Bali's Ultimate Food Guide](/en/blog/kuta-best-food-guide/)
+- [Seminyak Food Guide | A Perfect Blend of Romance, Elegance, and Authentic Bali](/en/blog/seminyak-restaurants-food-guide/)

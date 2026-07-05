@@ -48,15 +48,15 @@ Buat kamu yang baru pertama kali coba surfing, Pantai Kuta juara banget nggak ad
 
 Pantai-pantai di dekatnya kayak Legian dan Seminyak juga punya kondisi yang mirip, cocok buat pemula.
 
-> Panduan Kuta: [Apa lagi yang bisa dilakukan di Kuta?](/blog/2023-12-13-657598bdfd8978000120fe20/)
+> Panduan Kuta: [Apa lagi yang bisa dilakukan di Kuta?](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
 
-> Panduan Seminyak: [Apa lagi yang bisa dilakukan di Seminyak?](/blog/seminyak-guide/)
+> Panduan Seminyak: [Apa lagi yang bisa dilakukan di Seminyak?](/id/blog/seminyak-guide/)
 
 ### Ombak Level Menengah: Canggu
 
 Begitu rasa percaya diri kamu makin naik, pantai kayak Batu Bolong di Canggu jadi makin menggoda. Pantai ikonik ini punya ombak yang pas buat peselancar level menengah. Suasana yang hidup dan kafe-kafe pinggir pantai bikin area Old Man's di Batu Bolong jadi tempat seru buat bersantai, baik di dalam air maupun di darat.
 
-> Panduan Canggu: [Apa lagi yang bisa dilakukan di Canggu?](/blog/canggu-guide/)
+> Panduan Canggu: [Apa lagi yang bisa dilakukan di Canggu?](/id/blog/canggu-guide/)
 
 ### Jagoan Surfing: Uluwatu dan Sekitarnya
 
@@ -64,7 +64,7 @@ Buat peselancar berpengalaman, Bali beneran berubah jadi surga surfing. Uluwatu 
 
 Ombak level advanced lainnya termasuk Padang Padang, ombak pantai yang tersembunyi di balik gua batu, dan Keramas yang terkenal dengan ombak panjangnya yang mendorong. Tempat-tempat ini bisa agak ramai karena banyak peselancar berpengalaman, jadi saran terbaik datang pagi-pagi buat surfing trip.
 
-> Panduan Uluwatu: [Ada apa lagi di Uluwatu?](/blog/uluwatu-guide/)
+> Panduan Uluwatu: [Ada apa lagi di Uluwatu?](/id/blog/uluwatu-guide/)
 
 ##
 
@@ -88,7 +88,7 @@ Peselancar menengah suka ombak yang lebih cepat dan menantang, sementara pemula 
 
 ![回聲海灘不能錯過的美食/美景海灘俱樂部](https://images.gobaligo.id/vocus/vocus_947725fb14b3e426f80e5df6b4e73b91.png)
 
-[Echo Beach: Makanan & Beach Club yang Wajib Dicoba](/blog/canggu-la-brisa-restaurant-guide/)
+[Echo Beach: Makanan & Beach Club yang Wajib Dicoba](/id/blog/canggu-la-brisa-restaurant-guide/)
 
 ### Pantai Batu Bolong
 
@@ -96,7 +96,7 @@ Pantai Batu Bolong (Batu Bolong Beach) katanya dulu ada batu karang berlubang ya
 
 ![Jalan Batu Bolong路上的拍照景點](https://images.gobaligo.id/vocus/vocus_05c55e8b3f7706f9f0ef046ddda32bf5.png)
 
-[Spot Foto di Jalan Batu Bolong](/blog/canggu-bali-travel-guide/)
+[Spot Foto di Jalan Batu Bolong](/id/blog/canggu-bali-travel-guide/)
 
 Peselancar bisa nyewa papan dan ambil les sama instruktur lokal. Habis surfing, mereka bisa eksplor kota pantai Canggu yang hits—ada kafe kekinian, butik, dan nightlife seru. Ini yang bikin surfing di Pantai Batu Bolong makin worth it.
 
@@ -150,7 +150,7 @@ Di Old Man's, Batu Bolong, Canggu, kamu bisa ngerasain cara surfing yang paling 
 
 ![Jalan Batu Bolong路上的拍照景點](https://images.gobaligo.id/vocus/vocus_a57c937d4efa64f5c319806aeb26db40.png)
 
-[Spot foto di Jalan Batu Bolong](/blog/canggu-bali-travel-guide/)
+[Spot foto di Jalan Batu Bolong](/id/blog/canggu-bali-travel-guide/)
 
 [> Old Man's Batu Bolong 2 Jam Pelajaran Surfing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=845746&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32669-surfing-lesson-old-mans-beach-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9ee53dacd6)
 

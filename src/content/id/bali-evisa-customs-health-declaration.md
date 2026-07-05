@@ -41,7 +41,7 @@ Kalau kamu bukan pemegang paspor Indonesia, pilih menu '外国访客' (Pengunjun
 
 ### ✈️ Wajib Dilakukan Sebelum Berangkat:
 
-✅ Isi online **eVisa, All Indonesia, dan Pajak Wisatawan** sebelum berangkat. Cek panduan lengkapnya di [sini](/blog/bali-all-indonesia-arrival-guide/)
+✅ Isi online **eVisa, All Indonesia, dan Pajak Wisatawan** sebelum berangkat. Cek panduan lengkapnya di [sini](/id/blog/bali-all-indonesia-arrival-guide/)
 
 ✅ Simpan/screenshot QR CODE yang sudah jadi di HP (saran: backup juga di cloud)
 
@@ -59,7 +59,7 @@ Kalau kamu bukan pemegang paspor Indonesia, pilih menu '外国访客' (Pengunjun
 
 ### **❓ Apakah aku perlu mengurus visa (VoA, Visa on Arrival)?**
 
-Saat ini ada 13 negara yang dapat bebas visa masuk (daftarnya [di sini](/blog/indonesia-visa-free-countries-list/)). Sementara negara lain termasuk Taiwan, China, dan 80+ negara lainnya wajib mengurus visa.
+Saat ini ada 13 negara yang dapat bebas visa masuk (daftarnya [di sini](/id/blog/indonesia-visa-free-countries-list/)). Sementara negara lain termasuk Taiwan, China, dan 80+ negara lainnya wajib mengurus visa.
 
 ### **❓ Apakah anak-anak perlu visa?**
 
@@ -67,7 +67,7 @@ Visa nggak lihat umur — bayi sekalipun tetap harus daftar.
 
 ### **❓ Di mana cara bikin eVisa (visa elektronik)?**
 
-Cek [panduan lengkapnya di sini](/blog/bali-evisa-application-guide/) ya.
+Cek [panduan lengkapnya di sini](/id/blog/bali-evisa-application-guide/) ya.
 
 ### **❓ Gak mau urus e-Visa? Visa on Arrival (VoA) diurus di mana dan siapin dokumen apa aja?**
 
@@ -158,11 +158,11 @@ Kalau ketahuan salah isi:
 
 ### **❓** Anak kecil bisa pakai autogate juga?
 
-Anak usia 6 tahun ke atas juga bisa pakai autogate bandara. Cek [panduan visa anak masuk Indonesia/Bali](/blog/bali-child-visa-guide/)
+Anak usia 6 tahun ke atas juga bisa pakai autogate bandara. Cek [panduan visa anak masuk Indonesia/Bali](/id/blog/bali-child-visa-guide/)
 
 ### **❓ Berapa lama masa berlaku visa turis? Kalau lewat batas gimana?**
 
-Visa turis berlaku 30 hari setelah masuk, bisa diperpanjang satu kali di kantor imigrasi setempat atau [online](/blog/2024-bali-visa-extension/), maksimal tinggal 60 hari.
+Visa turis berlaku 30 hari setelah masuk, bisa diperpanjang satu kali di kantor imigrasi setempat atau [online](/id/blog/2024-bali-visa-extension/), maksimal tinggal 60 hari.
 
 Kalau overstay, kena denda 1.000.000 IDR per hari, dianggap ilegal, bisa ditahan, dideportasi, dan dilarang masuk Indonesia dalam jangka waktu tertentu.
 
@@ -176,7 +176,7 @@ Karena sekarang sudah terintegrasi dengan deklarasi kesehatan, kamu harus lapor 
 
 ### **❓ Bandara mana aja yang bisa pakai** [All Indonesia](https://allindonesia.imigrasi.go.id/) **?**
 
-Tiga bandara internasional: Soekarno-Hatta (Jakarta), Juanda (Surabaya), dan Ngurah Rai (Bali) bisa pakai All Indonesia satu atap. Kalau masuk lewat bandara lain, harus isi **eVisa**, **eCD**, dan **SSHP** (deklarasi kesehatan) secara terpisah — panduan lengkapnya cek [di sini](/blog/bali-entry-requirements/).
+Tiga bandara internasional: Soekarno-Hatta (Jakarta), Juanda (Surabaya), dan Ngurah Rai (Bali) bisa pakai All Indonesia satu atap. Kalau masuk lewat bandara lain, harus isi **eVisa**, **eCD**, dan **SSHP** (deklarasi kesehatan) secara terpisah — panduan lengkapnya cek [di sini](/id/blog/bali-entry-requirements/).
 
 ### **❓ Cara cek status pengajuan gimana?**
 
@@ -210,7 +210,7 @@ Lanjut aja isi [All Indonesia](https://allindonesia.imigrasi.go.id/) langsung.
 
 ### **❓ Nggak ada integrasi pajak turis?**
 
-Nggak ada. Soalnya pajak turis cuma berlaku di Bali, nggak nasional. Pajak turis tetap harus dibayar lewat sistem terpisah. Cek: [Panduan Pajak Turis Bali: Aturan Baru 2024, Cara Bayar, Tips Loncat Pulau](/blog/2026-bali-tourism-tax-guide/)
+Nggak ada. Soalnya pajak turis cuma berlaku di Bali, nggak nasional. Pajak turis tetap harus dibayar lewat sistem terpisah. Cek: [Panduan Pajak Turis Bali: Aturan Baru 2024, Cara Bayar, Tips Loncat Pulau](/id/blog/2026-bali-tourism-tax-guide/)
 
 ***
 

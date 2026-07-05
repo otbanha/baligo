@@ -57,7 +57,7 @@ Catatan redaksi: Bisa juga pertimbangkan [Sewa Pelampung Kolam Renang Bali](http
 
 Nusa Dua Westing Resort kebetulan ada acara pelepasliaran tukik (dok. Fish Lee)
 
-**Referensi Cepat:** [🐢Panduan Lengkap Lihat Penyu di Bali: Dari Kuta ke Sanur, Tempat Konservasi Penyu Wajib Kunjung untuk Keluarga 🌴](/blog/bali-turtle-watching-guide/)
+**Referensi Cepat:** [🐢Panduan Lengkap Lihat Penyu di Bali: Dari Kuta ke Sanur, Tempat Konservasi Penyu Wajib Kunjung untuk Keluarga 🌴](/id/blog/bali-turtle-watching-guide/)
 
 Kali ini kami nginep satu malam di Westin Hotel Nusa Dua. Pas banget pagi-pagi lihat ada acara pelepasliaran tukik, seru banget dan penuh makna. Tadinya kami berencana ke Turtle Center di Kuta, tapi ternyata kesampaian lebih dulu di sini, puas banget rasanya.
 
@@ -77,7 +77,7 @@ Yang值得一提, Kids Club Hard Rock tiap hari punya aktivitas beda-beda. Meski
 
 **Rekomendasi resort lain yang punya Kids Club:**
 
-> [18 Rekomendasi Resort Keluarga & Anak di Bali | Kuta, Seminyak, Canggu, Jimbaran, Uluwatu — Cocok buat Liburan Keluarga dan Relaksasi](/blog/bali-family-resorts-kids-club/)
+> [18 Rekomendasi Resort Keluarga & Anak di Bali | Kuta, Seminyak, Canggu, Jimbaran, Uluwatu — Cocok buat Liburan Keluarga dan Relaksasi](/id/blog/bali-family-resorts-kids-club/)
 
 ## Makanan Enak Banget
 
@@ -93,7 +93,7 @@ Arung Jeram, OMMA Day Club (dokumentasi Fish Lee)
 
 https://youtube.com/shorts/MmqfkXw211k
 
-**Referensi Cepat:** [Panduan Arung Jeram di Bali (FAQ Arung Jeram)](/blog/bali-rafting-ayung-telaga-waja/)
+**Referensi Cepat:** [Panduan Arung Jeram di Bali (FAQ Arung Jeram)](/id/blog/bali-rafting-ayung-telaga-waja/)
 
 Kali ini kita juga nyobain arung jeram di Ubud, seru banget. Karena banyak pilihan, kita langsung minta sopir sewaan buat bookingin, dan dia kasih rekomendasi penyedia yang reputasinya bagus. Saran aku, pilih paket 2 jam dari awal sampai akhir, jangan yang 1 jam, biar pengalamannya lebih maksimal. Kita bawa dua anak kecil, umur 5 dan 7 tahun, mereka juga senang banget. Kegiatan arung jeram sekitar 2 jam, kita berangkat jam 9 pagi dari Villa di Ubud, dapat makan siang sederhana, selesai sekitar jam 13:00. Tempat arung jeram harus turun tangga yang lumayan panjang, tapi anak-anakku jalan pelan-pelan juga bisa kok, nggak susah.
 
@@ -103,15 +103,15 @@ Kali ini kita juga nyobain arung jeram di Ubud, seru banget. Karena banyak pilih
 
 > [Arung Jeram Sungai Ayung (termasuk antar jemput)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
 
-> Baca Juga: [Review Omma Dayclub & Website Resmi](/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+> Baca Juga: [Review Omma Dayclub & Website Resmi](/id/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 ## Banyak Pilihan Tempat Wisata
 
 Kali ini kita jalan-jalan ke tiga daerah. Nusa Dua tuh tempat paling santai, cocok banget buat relaksasi. Ubud terkenal dengan air terjun, gunung berapi, hutan, istana, pura, dan tempat-tempat keren lainnya — pas banget buat foto-foto dan merasakan budaya Bali.
 
 > Baca juga:
-> [Nusa Dua, Tanjung Benoa: Destinasi Liburan Mewah Terbaik di Bali — 40 Pilihan Akomodasi, Kuliner, Aktivitas Lengkap dengan Peta](/blog/nusa-dua-guide/)
-> [Panduan Lengkap Ubud: 100 Cara Menjelajahi Pesona Ubud](/blog/ubud-guide/)
+> [Nusa Dua, Tanjung Benoa: Destinasi Liburan Mewah Terbaik di Bali — 40 Pilihan Akomodasi, Kuliner, Aktivitas Lengkap dengan Peta](/id/blog/nusa-dua-guide/)
+> [Panduan Lengkap Ubud: 100 Cara Menjelajahi Pesona Ubud](/id/blog/ubud-guide/)
 
 ![我們去了不少地方（Fish Lee提供）](https://images.gobaligo.id/vocus/vocus_f7f0019c1de282e44c12abadee71c3a0.jpg)
 
@@ -119,7 +119,7 @@ Kami sempat mampir ke banyak tempat (dok. Fish Lee)
 
 Pantai Kuta emang ramai, tapi ternyata nggak seburuk yang aku bayangkan. Ombaknya berlapis-lapis, lumayan menenangkan sih.
 
-> Baca juga: [Panduan Wisata Kuta: 50 Tempat Wajib Kunjungi, Kehidupan Malam yang Seru, Kuliner, & Rekomendasi SPA Lengkap](/blog/2023-12-13-657598bdfd8978000120fe20/)
+> Baca juga: [Panduan Wisata Kuta: 50 Tempat Wajib Kunjungi, Kehidupan Malam yang Seru, Kuliner, & Rekomendasi SPA Lengkap](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 ## Seru-seruan Bikin Kepang Rambut
 
@@ -149,7 +149,7 @@ Supir Edy, mobil yang kami pakai beberapa hari ini (disediakan Fish Lee)
 
 Supir sewaan kami, Edy, sama timnya, plus guide Mandarin Ani, semuanya recommended banget. Supirnya nyetirnya stabil, guidenya bisa bahasa Mandarin lancar, jawab banyak pertanyaan kami, jago jagain anak-anak dan jago foto. Kalau bingung mau makan apa, mereka juga kasih rekomendasi yang oke.
 
-Review supir Edy dan guide Mandarin Ani [bisa lihat di sini](/blog/bali-private-car-drivers-guide/)
+Review supir Edy dan guide Mandarin Ani [bisa lihat di sini](/id/blog/bali-private-car-drivers-guide/)
 
 Liburan Bali kali ini seru banget — pemandangan, makanan, sama pelayanannya semua bikin kesan mendalam. Semoga sharing ini berguna buat rencana liburan kalian.
 

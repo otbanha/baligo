@@ -126,7 +126,7 @@ Pengalaman menginap yang menyenangkan banget. Villa hotel ini pilihan sempurna b
 
 Seminyak adalah salah satu kawasan paling trendi dan hidup di Bali, perpaduan restoran kelas atas, kafe kekinian, butik, dan pantai yang memesona — pilihan tepat buat santai dan hiburan. Kalau kamu juga mau nginep di Seminyak, cek aja rekomendasi tema akomodasi yang udah kami siapin khusus buat kamu:
 
-- [Rekomendasi Akomodasi Bali: Panduan Menginap Bertema Pantai Mewah di Seminyak](/blog/seminyak-beach-resorts-guide/)
-- [【Rekomendasi Akomodasi Bali】Surga Privat Villa Kolam Renang: 21 Villa Taman Rahasia Bali yang Memukau di Seminyak](/blog/2024-04-04-660e6e92fd89780001e6047e/)
-- [Rekomendasi Villa Keluarga dengan 3 Kamar Tidur atau Lebih](/blog/bali-group-villa-stay/)
-- [【Seminyak】Rekomendasi Villa Bali Murah di Bawah USD$100](/blog/seminyak-budget-villas-guide/)
+- [Rekomendasi Akomodasi Bali: Panduan Menginap Bertema Pantai Mewah di Seminyak](/id/blog/seminyak-beach-resorts-guide/)
+- [【Rekomendasi Akomodasi Bali】Surga Privat Villa Kolam Renang: 21 Villa Taman Rahasia Bali yang Memukau di Seminyak](/id/blog/2024-04-04-660e6e92fd89780001e6047e/)
+- [Rekomendasi Villa Keluarga dengan 3 Kamar Tidur atau Lebih](/id/blog/bali-group-villa-stay/)
+- [【Seminyak】Rekomendasi Villa Bali Murah di Bawah USD$100](/id/blog/seminyak-budget-villas-guide/)

@@ -79,21 +79,21 @@ Enam bulan ini menyaksikan perjalanan lengkap Bali dari puncak musim kering menu
 
 - **Sawah Terasering Jatiluwih:** Juli adalah waktu terbaik untuk menikmati sawah terasering. Cahaya pagi yang menembus sawah menciptakan pemandangan super dreamy. Selain ikut festival, kamu bisa jalan-jalan santai, keliling pakai motor, atau ikut kelas yoga di sawah.
 
-> [【Panduan Sawah Terasering Bali】Perbandingan Tegallalang vs Jatiluwih: Tiket, Musim Terbaik, & Spot Foto Lengkap (dengan Saran Itinerary)](https://gobaligo.id/blog/bali-rice-terraces-comparison/)
+> [【Panduan Sawah Terasering Bali】Perbandingan Tegallalang vs Jatiluwih: Tiket, Musim Terbaik, & Spot Foto Lengkap (dengan Saran Itinerary)](https://gobaligo.id/id/blog/bali-rice-terraces-comparison/)
 
 - **Pantai Sanur:** Kondisi laut paling stabil di bulan Juli, cuaca cerah. Bisa nonton festival layang-layang, snorkeling, atau naik kapal ke Nusa Lembongan dan Nusa Penida.
 
-> [【Panduan Lengkap Nusa Penida Bali】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](https://gobaligo.id/blog/nusa-penida-guide/)
+> [【Panduan Lengkap Nusa Penida Bali】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](https://gobaligo.id/id/blog/nusa-penida-guide/)
 
-> [【Panduan Wisata Nusa Lembongan/Ceningan】Jelajahi Tempat Wisata, Kuliner, Transportasi di Lembongan/Ceningan: Surga di Dekat Bali](https://gobaligo.id/blog/nusa-lembongan-ceningan-guide/)
+> [【Panduan Wisata Nusa Lembongan/Ceningan】Jelajahi Tempat Wisata, Kuliner, Transportasi di Lembongan/Ceningan: Surga di Dekat Bali](https://gobaligo.id/id/blog/nusa-lembongan-ceningan-guide/)
 
 - **Gunung Batur:** Peluang melihat lautan awan sangat tinggi. Pemandangan matahari terbit di pagi hari dan cahaya di puncak gunung paling indah.
 
-[Bali Kintamani Danau Batur Gunung Berapi｜Panduan Lengkap Pendakian Matahari Terbit × Kapal Pesiar Kerajaan × Kafe Pemandangan Danau × Taman Hiburan Hutan × Pemandian Air Panas Vulkanik](https://gobaligo.id/blog/batur-lake-volcano-guide/)
+[Bali Kintamani Danau Batur Gunung Berapi｜Panduan Lengkap Pendakian Matahari Terbit × Kapal Pesiar Kerajaan × Kafe Pemandangan Danau × Taman Hiburan Hutan × Pemandian Air Panas Vulkanik](https://gobaligo.id/id/blog/batur-lake-volcano-guide/)
 
 - **Desa Penglipuran:** Ikuti festival budaya desa tradisional, rasakan arsitektur, gaya hidup, dan warisan kerajinan tangan suku Bali Aga.
 
-> [Menjelajahi Desa Penglipuran: Merasakan Pesona Kuno Bali](https://gobaligo.id/blog/penglipuran-village-bali-experience/)
+> [Menjelajahi Desa Penglipuran: Merasakan Pesona Kuno Bali](https://gobaligo.id/id/blog/penglipuran-village-bali-experience/)
 
 ***
 
@@ -121,16 +121,16 @@ Enam bulan ini menyaksikan perjalanan lengkap Bali dari puncak musim kering menu
 
 - **Pusat Ubud (Ubud Center):** Demi festival jazz, pastikan pesan kamar lebih awal. Rasakan acara musik internasional tahunan ini, nikmati permainan memukau dari musisi jazz kelas dunia.
 
-> [Panduan Lengkap Ubud Bali 2026: 100 Cara Mendalami Ubud｜Jelajahi Pesona Ubud](https://gobaligo.id/blog/ubud-guide/)
+> [Panduan Lengkap Ubud Bali 2026: 100 Cara Mendalami Ubud｜Jelajahi Pesona Ubud](https://gobaligo.id/id/blog/ubud-guide/)
 
 - **Kabupaten Buleleng:** Ikut festival budaya terbesar di Bali Utara, rasakan kearifan lokal dan pertunjukan tradisional. Selain itu, pemandangan pegunungan Buleleng punya pesona tersendiri, cuaca di bulan Agustus sangat pas buat petualangan.
 - **Tanah Lot:** Sambil ikut festival, nikmati juga pemandangan Tanah Lot yang legendaris saat matahari terbenam.
 
-> [Destinasi Wajib Kunjung di Bali: Panduan Lengkap Pura Tanah Lot, Pasang Surut & Tempat Wisata Sekitar](https://gobaligo.id/blog/bali-tanah-lot-guide/)
+> [Destinasi Wajib Kunjung di Bali: Panduan Lengkap Pura Tanah Lot, Pasang Surut & Tempat Wisata Sekitar](https://gobaligo.id/id/blog/bali-tanah-lot-guide/)
 
 - **Pantai Sanur:** Kondisi laut di bulan Agustus stabil, cuaca cerah, cocok buat snorkeling, olahraga air, atau naik kapal ke pulau-pulau sekitar.
 
-> [【Tempat Wisata Keluarga di Bali】Panduan Sanur Ultimate Map: 50+ Tempat Makan, Belanja, Icon Mall, Spa Mewah, dan Akomodasi Murah Berkualitas](https://gobaligo.id/blog/sanur-guide/)
+> [【Tempat Wisata Keluarga di Bali】Panduan Sanur Ultimate Map: 50+ Tempat Makan, Belanja, Icon Mall, Spa Mewah, dan Akomodasi Murah Berkualitas](https://gobaligo.id/id/blog/sanur-guide/)
 
 ***
 
@@ -158,15 +158,15 @@ Enam bulan ini menyaksikan perjalanan lengkap Bali dari puncak musim kering menu
 
 - **Taman Ayun Royal Garden:** Ikut Barong Dance Festival, tenggelam dalam keanggunan dan drama tari Bali. Tamannya sendiri juga merupakan mahakarya arsitektur, cocok buat pecinta budaya.
 
-> [【Panduan Denpasar 2026】Jelajahi 100 Kota Terbaik Dunia: Budaya, Sejarah, dan Peta Kuliner Ibu Kota Bali](https://gobaligo.id/blog/denpasar-culture-guide/)
+> [【Panduan Denpasar 2026】Jelajahi 100 Kota Terbaik Dunia: Budaya, Sejarah, dan Peta Kuliner Ibu Kota Bali](https://gobaligo.id/id/blog/denpasar-culture-guide/)
 
 - **藍夢島 (Nusa Lembongan)：** Ikut surfing dan festival musik, atau nikmati ketenangan serta air jernih di pulau terpencil. Ingat: 27/9 Hari Lautan Tenang harus pulang lebih awal.
 
-> [【Panduan Wisata Nusa Lembongan/Ceningan】Jelajahi Tempat Wisata, Kuliner, dan Transportasi di Nusa Lembongan/Ceningan: Surga di Dekat Bali](https://gobaligo.id/blog/nusa-lembongan-ceningan-guide/)
+> [【Panduan Wisata Nusa Lembongan/Ceningan】Jelajahi Tempat Wisata, Kuliner, dan Transportasi di Nusa Lembongan/Ceningan: Surga di Dekat Bali](https://gobaligo.id/id/blog/nusa-lembongan-ceningan-guide/)
 
 - **庫塔 (Kuta)：** Liburan musim panas sudah selesai, Kuta jadi lebih ramah.
 
-> [Panduan Wisata Kuta Bali: Dari Surfing, Belanja hingga SPA, Buka 50 Tempat Wajib Kunjung dan Tips Travel](https://gobaligo.id/blog/kuta-guide/)
+> [Panduan Wisata Kuta Bali: Dari Surfing, Belanja hingga SPA, Buka 50 Tempat Wajib Kunjung dan Tips Travel](https://gobaligo.id/id/blog/kuta-guide/)
 
 ***
 
@@ -193,15 +193,15 @@ Enam bulan ini menyaksikan perjalanan lengkap Bali dari puncak musim kering menu
 
 - **佩尼達島 (Nusa Penida):** Ikut festival pulau, nikmati Gerbang Surga, tebing curam, dan ikan pari manta.
 
-[> 【Bali - Panduan Lengkap Nusa Penida】Peta, Naik Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](https://gobaligo.id/blog/nusa-penida-guide/)
+[> 【Bali - Panduan Lengkap Nusa Penida】Peta, Naik Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](https://gobaligo.id/id/blog/nusa-penida-guide/)
 
 - **Pusat Ubud (Ubud Center):** Wajib dikunjungi buat pecinta sastra. Selama Festival Penulis dan Pembaca, toko buku, kafe, dan hotel di Ubud mengadakan acara terkait. Pastikan booking kamar jauh-jauh hari.
 
-[> Panduan Wisata Bali: Pertama Kali ke Ubud Mau Main Apa? 20 Rekomendasi Tempat Wisata - Panduan Ubud](https://gobaligo.id/blog/ubud-top-20-attractions-guide/)
+[> Panduan Wisata Bali: Pertama Kali ke Ubud Mau Main Apa? 20 Rekomendasi Tempat Wisata - Panduan Ubud](https://gobaligo.id/id/blog/ubud-top-20-attractions-guide/)
 
 - **Amed dan Tulamben:** Akhir Oktober kondisi laut masih oke banget, cocok banget buat diving kapal karam dan foto bawah air.
 
-[> Hidden Gem di Timur Laut Bali: Panduan Lengkap Amed dan Tulamben: Diving, Pura Air, dan Tempat Tersembunyi](https://gobaligo.id/blog/amed-tulamben-diving-guide/)
+[> Hidden Gem di Timur Laut Bali: Panduan Lengkap Amed dan Tulamben: Diving, Pura Air, dan Tempat Tersembunyi](https://gobaligo.id/id/blog/amed-tulamben-diving-guide/)
 
 ***
 
@@ -230,12 +230,12 @@ Enam bulan ini menyaksikan perjalanan lengkap Bali dari puncak musim kering menu
 
 - **Pura Ulun Danu & Danau Bratan:** Ikut festival Pura Air, meditasi di tengah upacara sakral di pura tepi danau. Hujan November bikin air danau lebih jernih, pemandangan makin magis.
 
-> [Panduan Lengkap Ubud 2026: 100 Cara Menjelajahi Pesona Ubud](https://gobaligo.id/blog/ubud-guide/)
+> [Panduan Lengkap Ubud 2026: 100 Cara Menjelajahi Pesona Ubud](https://gobaligo.id/id/blog/ubud-guide/)
 
 - **Kabupaten Jembrana (Wilayah Barat):** Ikut Festival Musik Bambu dan Pacuan Kerbau. Bali barat relatif sepi turis, alamnya masih perawan, dan di November hijaunya paling pekat.
 - **Sanur:** Festival sebulan penuh, ada pameran kuliner, kelas yoga, aktivitas laut, dan pertunjukan budaya. Bulan ini Sanur penuh energi banget.
 
-> [【Destinasi Keluarga di Bali】Panduan Sanur Ultimate: 50+ Tempat Makan, Icon Bali Mall, Spa Mewah, & Tips Akomodasi Terbaik](https://gobaligo.id/blog/sanur-guide/)
+> [【Destinasi Keluarga di Bali】Panduan Sanur Ultimate: 50+ Tempat Makan, Icon Bali Mall, Spa Mewah, & Tips Akomodasi Terbaik](https://gobaligo.id/id/blog/sanur-guide/)
 
 - **Terasering Tegallalang:** November adalah musim terhijau buat terasering (masa pertumbuhan padi). Paling oke jalan-jalan pagi atau sore. Sepi pengunjung, cahaya lembut, cocok banget buat foto.
 
@@ -263,15 +263,15 @@ https://youtu.be/op78Dk8CjL4
 
 - **Pantai Pandawa (Pandawa Beach):** Ikutan beach festival sambil menikmati pemandangan tebing spektakuler di Bali selatan. Saat Natal, Pantai Pandawa biasanya dihias dengan nuansa perayaan.
 
-> [【Panduan Lengkap Ujung Selatan Bali 2026】Hidden Gem Semenanjung Bukit: Sunset Jimbaran, Tebing Uluwatu & Pantai Tersembunyi](https://gobaligo.id/blog/bukit-peninsula-guide/)
+> [【Panduan Lengkap Ujung Selatan Bali 2026】Hidden Gem Semenanjung Bukit: Sunset Jimbaran, Tebing Uluwatu & Pantai Tersembunyi](https://gobaligo.id/id/blog/bukit-peninsula-guide/)
 
 - **Uluwatu:** Pemandangan sore di pura tebing pada bulan Desember tetap keren banget. Kamu bisa booking pertunjukan tari tradisional pas sunset buat rayain awal musim liburan.
 
-> [【Panduan Uluwatu】50 Rekomendasi Tempat Makan & Main di Uluwatu](https://gobaligo.id/blog/uluwatu-guide/)
+> [【Panduan Uluwatu】50 Rekomendasi Tempat Makan & Main di Uluwatu](https://gobaligo.id/id/blog/uluwatu-guide/)
 
 - **Ubud:** Meskipun lagi musim ramai, Ubud tetap punya vibe budaya yang kental. Sawah teraseringnya hijau, paling enak jalan pagi-pagi. Bisa juga ikut kelas yoga buat relaksasi jiwa dan raga.
 
-> [Terapi Suara/Sound Healing Ubud: Meditasi Nyanyian Mangkuk](https://gobaligo.id/blog/ubud-sound-healing/)
+> [Terapi Suara/Sound Healing Ubud: Meditasi Nyanyian Mangkuk](https://gobaligo.id/id/blog/ubud-sound-healing/)
 
 - **Denpasar:** Ikutan Denpasar Festival, saksikan perayaan akhir tahun dan suasana tahun baru di ibu kota Bali. Ada pasar, konser musik, dan pertunjukan budaya seru.
 
@@ -320,10 +320,10 @@ https://youtu.be/op78Dk8CjL4
 
 ## Referensi Cepat
 
-- [Lebih banyak rangkuman festival Bali 2026](https://gobaligo.id/blog/2026-bali-festival-guide/)
-- [Panduan ultimate liburan mandiri Bali 2026](https://gobaligo.id/blog/bali-ultimate-guide-2026/)
-- [Panduan lengkap traveling Bali musim hujan](https://gobaligo.id/blog/bali-rainy-season-travel-guide/)
-- [【2026 Rencana cadangan Bali saat hujan/terik】Wajib lihat! 60+ aktivitas indoor keren](https://gobaligo.id/blog/2026-bali-indoor-activities/)
+- [Lebih banyak rangkuman festival Bali 2026](https://gobaligo.id/id/blog/2026-bali-festival-guide/)
+- [Panduan ultimate liburan mandiri Bali 2026](https://gobaligo.id/id/blog/bali-ultimate-guide-2026/)
+- [Panduan lengkap traveling Bali musim hujan](https://gobaligo.id/id/blog/bali-rainy-season-travel-guide/)
+- [【2026 Rencana cadangan Bali saat hujan/terik】Wajib lihat! 60+ aktivitas indoor keren](https://gobaligo.id/id/blog/2026-bali-indoor-activities/)
 
 ***
 

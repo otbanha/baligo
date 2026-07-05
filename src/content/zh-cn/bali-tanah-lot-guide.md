@@ -35,7 +35,7 @@ _srcHash: bdb9c5405704b411b729baa2c74d61bb
 
 海神庙的建筑风格简洁但充满力量感，特别是在涨潮时，整个寺庙仿佛漂浮于海上，增添了一种神秘而庄严的氛围。退潮时，游客则可步行到寺庙前方，欣赏雕刻精美的结构。作为巴厘岛的重要宗教场所，海神庙也会举办特殊的宗教祭典活动，其中最重要的是「皮欧达兰」（Piodalan）庆典，通常在巴厘岛特有的「库宁安节」（Hari Raya Kuningan）后四天举行，游客可亲眼见证当地虔诚的宗教活动。
 
-> 延伸阅读：[2026巴厘岛的庆典日期](/blog/2026-bali-festival-guide/)
+> 延伸阅读：[2026巴厘岛的庆典日期](/zh-cn/blog/2026-bali-festival-guide/)
 
 ![一、海神庙的历史背景与宗教意义](https://images.gobaligo.id/vocus/vocus_71c5ba824a21ebf14225e1a786a733aa.jpg)
 
@@ -82,8 +82,8 @@ _srcHash: bdb9c5405704b411b729baa2c74d61bb
 
 离海神庙最近的Canggu（坎古区）是探访海神庙最方便的住宿基地。关于坎古的住宿可以参考：
 
-- [Canggu Top 20 你不能错过的住宿推荐](/blog/canggu-top-hotels-guide/)
-- [坎古区10+ 私人泳池别墅推荐 Canggu Villa 你不能错过的巴厘岛别墅](/blog/canggu-villas-guide/)
+- [Canggu Top 20 你不能错过的住宿推荐](/zh-cn/blog/canggu-top-hotels-guide/)
+- [坎古区10+ 私人泳池别墅推荐 Canggu Villa 你不能错过的巴厘岛别墅](/zh-cn/blog/canggu-villas-guide/)
 
 ## 四、海神庙美食
 
@@ -93,13 +93,13 @@ _srcHash: bdb9c5405704b411b729baa2c74d61bb
 
 ## 五、海神庙周边景点
 
-除了海神庙，对于寻找更多巴厘岛游玩点子的朋友，推荐大家来看我们精心收集的「[坎古攻略地图](/blog/canggu-guide/)」，其中包含了80个必游景点，涵盖从自然景观到美食体验的各式选择，让您轻松规划行程，不错过任何美好瞬间。坎古区域也距海神庙不远，是探访巴厘岛当地生活与潮流的最佳选择之一！
+除了海神庙，对于寻找更多巴厘岛游玩点子的朋友，推荐大家来看我们精心收集的「[坎古攻略地图](/zh-cn/blog/canggu-guide/)」，其中包含了80个必游景点，涵盖从自然景观到美食体验的各式选择，让您轻松规划行程，不错过任何美好瞬间。坎古区域也距海神庙不远，是探访巴厘岛当地生活与潮流的最佳选择之一！
 
-另外一个离海神庙更近的景点是今年最新的「Nuanu Creative City」，在这里有数十个有趣的景点，请继续参考「[Nauru Creative City攻略](/blog/nuanu-creative-city-luna-guide/)」
+另外一个离海神庙更近的景点是今年最新的「Nuanu Creative City」，在这里有数十个有趣的景点，请继续参考「[Nauru Creative City攻略](/zh-cn/blog/nuanu-creative-city-luna-guide/)」
 
 ## 继续了解的建议主题
 
-- [【掌握巴厘岛日落时间最佳观赏指南】七大巴厘岛日落观赏地点，你去过几个？](/blog/bali-sunset-spots-guide/)
-- [Nauru Creative City攻略](/blog/nuanu-creative-city-luna-guide/)
+- [【掌握巴厘岛日落时间最佳观赏指南】七大巴厘岛日落观赏地点，你去过几个？](/zh-cn/blog/bali-sunset-spots-guide/)
+- [Nauru Creative City攻略](/zh-cn/blog/nuanu-creative-city-luna-guide/)
 
 {{block:canggu}}

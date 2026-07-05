@@ -89,6 +89,6 @@ https://www.instagram.com/reel/DLOYzxLSP47/?utm_source=ig_web_button_share_sheet
 
 如果你鍾意正式嘅瑜伽課程，可以參考呢啲：
 
-> [峇里島烏布瑜伽住宿推薦：10間結合瑜伽課程同心靈放鬆嘅夢幻選擇](https://gobaligo.id/blog/ubud-yoga-retreats-bali/)
+> [峇里島烏布瑜伽住宿推薦：10間結合瑜伽課程同心靈放鬆嘅夢幻選擇](https://gobaligo.id/zh-hk/blog/ubud-yoga-retreats-bali/)
 
 {{block:戶外}}

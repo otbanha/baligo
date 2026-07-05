@@ -134,7 +134,7 @@ Beyond the resort's own dining options, Mulia Resort is surrounded by numerous r
 
 ![More on Nusa Dua's Food, Fun, and Attractions](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
 
-Nusa Dua is Bali's renowned area for luxury resorts, featuring pristine white beaches, turquoise waters, and top-notch tourist facilities, making it the top choice for those seeking high-end indulgence and tranquil getaways. It also offers premium spas, water sports, and family-friendly activities, catering to all types of travelers. Want to learn more about Nusa Dua? [Click here](/blog/nusa-dua-guide/)
+Nusa Dua is Bali's renowned area for luxury resorts, featuring pristine white beaches, turquoise waters, and top-notch tourist facilities, making it the top choice for those seeking high-end indulgence and tranquil getaways. It also offers premium spas, water sports, and family-friendly activities, catering to all types of travelers. Want to learn more about Nusa Dua? [Click here](/en/blog/nusa-dua-guide/)
 
 🏖️🌊🚤 Water sports at Tanjung Benoa: parasailing, snorkeling, sea walking, and banana boat rides all in one experience ▶[Klook Deal](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E4%25B8%25B9%25E6%2588%258E%25E8%25B2%259D%25E8%25AB%25BE%25E7%2593%25A6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3D4376a16ccb)
 
@@ -194,6 +194,6 @@ This was our first time in Bali, and Mulia Resort gave us the perfect start. Fro
 
 **Nusa Dua is a renowned upscale resort area in southern Bali, famous for its tranquil environment, pristine white beaches, and world-class luxury experiences.** If you're looking for a five-star luxury resort, Nusa Dua offers a wealth of top-tier options, from exclusive private beaches to exquisite dining and spas.
 
-👉 **Want to explore more top accommodations in Nusa Dua?** [**Click here**](/blog/nusa-dua-resorts-guide/)**!**
+👉 **Want to explore more top accommodations in Nusa Dua?** [**Click here**](/en/blog/nusa-dua-resorts-guide/)**!**
 
 {{block:dua}}

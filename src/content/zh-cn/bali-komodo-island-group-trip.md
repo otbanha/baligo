@@ -28,41 +28,41 @@ _srcHash: 5595f154e76315364dc079ce1e276df4
 
 ![1. 包车司机推荐：Gede Arimbawa](https://images.gobaligo.id/vocus/vocus_9c6297afa65717ca1de714d7b83a7289.jpg)
 
-Gede 在社团拥有超多好评！[请参考这里](/blog/bali-private-car-drivers-guide/)
+Gede 在社团拥有超多好评！[请参考这里](/zh-cn/blog/bali-private-car-drivers-guide/)
 
 ## 2. 机场入境：EVOA快通关
 
 入关过程相当顺利，我们使用了EVOA快速通关，完全没有遇到任何阻碍，海关也什么都没问。但是，等行李可是一段漫长的等待，差不多耗费了将近一小时的时间！
 
-> 编按：最新的巴厘岛入境程序请参考[2025/08印尼巴厘岛入境使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
+> 编按：最新的巴厘岛入境程序请参考[2025/08印尼巴厘岛入境使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/zh-cn/blog/bali-all-indonesia-arrival-guide/)
 
 ## 3. 机场Wi-Fi弱到爆！
 
 我们一到巴厘岛机场就发现那里的Wi-Fi实在太弱了，感觉是因为当时连接的人太多。幸好同行的朋友有中华电信的漫游服务，否则真不知道该如何联系我们的司机。如果你打算购买当地的Telkomsel SIM卡，价格大约在10到16美元之间，包含14G流量，但在某些偏远地区（例如Labuan Bajo跳岛区）信号依然不强就是。
 
-延伸阅读：[【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡？](/blog/bali-sim-card-esim-roaming-guide/)
+延伸阅读：[【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡？](/zh-cn/blog/bali-sim-card-esim-roaming-guide/)
 
 ## 4. 巴厘岛的交通状况
 
 这次行程中，我们发现闹区的塞车情况真的相当严重！特别是在下午1点到晚上7点半之间，乌鲁瓦图、乌布、金巴兰这些地方的塞车情况更是夸张。虽然Google Map预估的时间看起来很短，但实际路程往往需要乘以2.5到3倍的时间。建议大家在这段时间内尽量避免长途移动。
 
-> 编按：[在巴厘岛别相信Google地图！](/blog/bali-google-maps-warning/)
+> 编按：[在巴厘岛别相信Google地图！](/zh-cn/blog/bali-google-maps-warning/)
 
 ## 5. Spa预订小技巧
 
 如果你计划去巴厘岛享受Spa，最好提前通过WhatsApp预订，或者请包车司机帮忙预订。特别是评价较高的Spa店，临时去现场有很大的机会是没位子的。如果请司机帮忙预订的话，他们可能会需要先支付订金，所以记得慎重考虑是否取消，否则就要记得把订金还给司机。
 
-> 延伸阅读：[【精华篇】巴厘岛好评SPA推荐大集合 用区域划分更方便查找](/blog/spa/)
+> 延伸阅读：[【精华篇】巴厘岛好评SPA推荐大集合 用区域划分更方便查找](/zh-cn/blog/spa/)
 
 ## 6. 岛内交通安排
 
 由于我们这次行程还包括跳岛，因此在巴厘岛的时间只有三天。但我们却选择了三个不同的区域去游览，结果每天都在堵车中度过。如果你想要多逛一些地方，建议选择在同一区域待1-2天，这样才不会把宝贵的时间浪费在路上。
 
-> 编按：尽量小区域的移动才是巴厘岛旅游的王道啊！请看「[巴厘岛分区攻略](https://gobaligo.id/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8C%BA%E6%94%BB%E7%95%A5)」
+> 编按：尽量小区域的移动才是巴厘岛旅游的王道啊！请看「[巴厘岛分区攻略](https://gobaligo.id/zh-cn/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8C%BA%E6%94%BB%E7%95%A5)」
 
 ![烏魯瓦圖火舞的門票可以在網上先買好（Sandra Yun提供）](https://images.gobaligo.id/vocus/vocus_d3a5a16996aa1d2906eea06f2716a19c.jpg)
 
-[乌鲁瓦图火舞的门票可以在网上先买好（Sandra Yun提供）](/blog/kecak-fire-dance-bali/)
+[乌鲁瓦图火舞的门票可以在网上先买好（Sandra Yun提供）](/zh-cn/blog/kecak-fire-dance-bali/)
 
 ## 7. 水上活动价差大
 
@@ -82,13 +82,13 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 https://youtube.com/shorts/tHRxnJqxqbw
 
-延伸阅读：[采「预约+现场排队」的Rock Bar如何预约？](/blog/ayana-resort-bali-guide/)
+延伸阅读：[采「预约+现场排队」的Rock Bar如何预约？](/zh-cn/blog/ayana-resort-bali-guide/)
 
 ## 9. 关于小费的观察
 
 在巴厘岛，我们发现很多餐厅都会把我们第一次给的小费退还，直到我们第二次再给他们才会收下。但如果是给房务人员、行李员或者活动教练一点小费，他们会非常开心！
 
-> 延伸阅读：[巴厘岛旅游要给小费吗？小费怎么给？巴厘岛各种场合的小费要给多少？](/blog/bali-tipping-guide-driver-spa/)
+> 延伸阅读：[巴厘岛旅游要给小费吗？小费怎么给？巴厘岛各种场合的小费要给多少？](/zh-cn/blog/bali-tipping-guide-driver-spa/)
 
 ## 10. 伴手礼：Bali Banana
 
@@ -96,7 +96,7 @@ https://youtube.com/shorts/tHRxnJqxqbw
 
 > 编按：Bali Banana在库塔有多家专卖店，地点请参考「[库塔攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)」
 
-> 延伸阅读：[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/blog/bali-souvenirs-gift-guide/)
+> 延伸阅读：[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/zh-cn/blog/bali-souvenirs-gift-guide/)
 
 ## 11. 科莫多岛跳岛行程
 
@@ -110,7 +110,7 @@ Klook有数十种科莫多行程可以选择，[请看这里](https://affiliate.
 
 > 编按：我们也有提供专业的旅行社打包好的行程，供参考
 
-- [巴厘岛+科莫多岛全包轻奢行程](/blog/bali-komodo-luxury-tour-2026/)
+- [巴厘岛+科莫多岛全包轻奢行程](/zh-cn/blog/bali-komodo-luxury-tour-2026/)
 
 ## 12. 携带肠胃药的重要性
 
@@ -124,7 +124,7 @@ https://youtu.be/GivvqCXp11A
 
 在乌布我们遇到了一些喊价的骑士（摩的，motor taxi），当时预订了两段车程，结果他们把我们载错地方，并在到达正确地点时又收了一次费用。这种情况很可能是网友们提到的白牌机车骗局，大家一定要小心，事前确认好路线和价格。
 
-> 编按，用手机叫车就可以避免这种情况发生喔：[在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略](/blog/gojek-bali-guide/)
+> 编按，用手机叫车就可以避免这种情况发生喔：[在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略](/zh-cn/blog/gojek-bali-guide/)
 
 ![13. 骑士骗局要小心！](https://images.gobaligo.id/vocus/vocus_132b0fdbdbd2b8f1e37a9dc51b38bd58.png)
 

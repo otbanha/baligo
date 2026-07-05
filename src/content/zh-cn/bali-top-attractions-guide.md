@@ -46,7 +46,7 @@ https://youtu.be/op78Dk8CjL4
 
 - _💬 Google真实评论：_「风景很美，层层叠叠的梯田很壮观。里面有很多高空秋千可以体验，拍照非常出片，但阶梯比较陡，走下去再爬上来需要一点体力。」
 
-[> [8 大最美丛林秋千推荐：租礼服技巧、拍照角度与避开人潮全指南](https://gobaligo.id/blog/ubud-jungle-swings-photo-guide/)
+[> [8 大最美丛林秋千推荐：租礼服技巧、拍照角度与避开人潮全指南](https://gobaligo.id/zh-cn/blog/ubud-jungle-swings-photo-guide/)
 
 ### 2. 圣泉庙 Pura Tirta Empul
 
@@ -56,7 +56,7 @@ https://youtube.com/shorts/fiYs5GKdINU
 
 - _💬 Google真实评论：_「非常神圣且充满能量的地方！排队体验净化仪式大约需要一小时，泉水非常冰凉清澈，洗完後浮躁的心真的安静了下来。记得入内要遵守规定穿着沙龙（Sarong）。」
 
-[> 【巴厘岛圣泉寺】Tirta Empul 完整指南：千年圣水净化仪式流程、禁忌与必看重点](https://gobaligo.id/blog/tirta-empul-temple-guide/)
+[> 【巴厘岛圣泉寺】Tirta Empul 完整指南：千年圣水净化仪式流程、禁忌与必看重点](https://gobaligo.id/zh-cn/blog/tirta-empul-temple-guide/)
 
 ### 3. 乌布皇宫与传统市场 Ubud Palace & Market
 
@@ -68,7 +68,7 @@ https://youtube.com/shorts/Oh-RNfjhQhM
 
 - _💬 Google真实评论：_「皇宫精致小巧，免费参观。对面的市集超好逛，藤编包、木雕饰品琳琅满目，不过买东西一定要从3折开始砍价，砍价过程也是一种乐趣！」
 
-> [乌布皇宫：巴厘岛文化历史的瑰宝｜开放时间、门票、表演时间、周边景点、一日游推荐](https://gobaligo.id/blog/ubud-royal-palace-tour-guide/)
+> [乌布皇宫：巴厘岛文化历史的瑰宝｜开放时间、门票、表演时间、周边景点、一日游推荐](https://gobaligo.id/zh-cn/blog/ubud-royal-palace-tour-guide/)
 
 ### 4. 彭丽普兰传统村落 Penglipuran Village
 
@@ -78,7 +78,7 @@ https://youtube.com/shorts/Oh-RNfjhQhM
 
 - _💬 Google真实评论：_「整个村庄非常干净整洁，传统竹编房屋很有特色。村民都很友善，还会邀请你进去他们的庭院参观。很推荐来体验地道的巴厘岛传统文化。」
 
-> [【巴厘岛文化景点】Penglipuran 彭丽普兰村攻略：走进全岛最干净古老村庄与竹林秘境](https://gobaligo.id/blog/penglipuran-village-bali-experience/)
+> [【巴厘岛文化景点】Penglipuran 彭丽普兰村攻略：走进全岛最干净古老村庄与竹林秘境](https://gobaligo.id/zh-cn/blog/penglipuran-village-bali-experience/)
 
 ### 5. 阿勇河 Ayung River
 
@@ -88,7 +88,7 @@ https://youtube.com/shorts/Oh-RNfjhQhM
 
 - _💬 Google真实评论：_「激流泛舟超好玩！沿途的热带雨林风景美得像侏罗纪公园，还能看到悬崖上的石雕。教练幽默风趣，虽然划完手有点酸，但非常值得！」
 
-> [【巴厘岛泛舟 FAQ】不会游泳也能玩？年龄限制、安全须知与阿勇河 vs 泰拉嘉河全解析](https://gobaligo.id/blog/bali-rafting-ayung-telaga-waja/)
+> [【巴厘岛泛舟 FAQ】不会游泳也能玩？年龄限制、安全须知与阿勇河 vs 泰拉嘉河全解析](https://gobaligo.id/zh-cn/blog/bali-rafting-ayung-telaga-waja/)
 
 ### 6. 特格努南瀑布 Tegenungan Waterfall
 
@@ -98,7 +98,7 @@ https://youtube.com/shorts/BBIXmPYUPZo
 
 - _💬 Google真实评论：_「距离乌布市区不算远，瀑布水量非常充沛、很震撼！沿途规划得很好，有很多适合网红拍照的装置艺术，走下去大约只要10分钟，很适合不想爬太久山路的人。」
 
-> [巴厘岛乌布的瀑布酒吧 OMMA Dayclub：感受chill氛围，阳光下的惬意时光](https://gobaligo.id/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+> [巴厘岛乌布的瀑布酒吧 OMMA Dayclub：感受chill氛围，阳光下的惬意时光](https://gobaligo.id/zh-cn/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 {{block:ubud}}
 
@@ -114,7 +114,7 @@ https://youtube.com/shorts/BBIXmPYUPZo
 
 - _💬 Google真实评论：_「建议傍晚5点左右到，可以同时看到落日前与日落后的魔幻时刻。退潮时可以走到神庙下方触摸圣水，这里的夕阳绝对是一生必看一次的奇景！」
 
-[> [海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](https://gobaligo.id/blog/bali-tanah-lot-guide/)
+[> [海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](https://gobaligo.id/zh-cn/blog/bali-tanah-lot-guide/)
 
 ### 8. 乌鲁瓦图断崖庙 Uluwatu Temple
 
@@ -124,7 +124,7 @@ https://youtube.com/shorts/BBIXmPYUPZo
 
 - _💬 Google真实评论：_「建在悬崖边的神庙极具气势，落日海景无敌。傍晚的Kecak舞非常震撼，表演者全靠人声和声。要注意这里的猴子蛮凶的，会抢眼镜和帽子，一定要收好。」
 
-> [巴厘岛乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](https://gobaligo.id/blog/uluwatu-temple-travel-guide/)
+> [巴厘岛乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](https://gobaligo.id/zh-cn/blog/uluwatu-temple-travel-guide/)
 
 ### 9. 水明漾 Seminyak
 
@@ -178,7 +178,7 @@ https://youtu.be/ysUVgnICbg0
 
 - _💬 Google真实评论：_「水上宫殿非常漂亮，充满皇家气息。最有趣的是买一包鱼饲料，走在水中的石雕步道上喂鱼，周围会聚集超级多巨大又肥美的锦鲤，拍照非常吸睛！」
 
-> [【巴厘岛东部攻略】天空之门、恒河圣泉花园、乌戎水宫：仙境景点拍照与交通全指南](https://gobaligo.id/blog/bali-east-tour-guide/)
+> [【巴厘岛东部攻略】天空之门、恒河圣泉花园、乌戎水宫：仙境景点拍照与交通全指南](https://gobaligo.id/zh-cn/blog/bali-east-tour-guide/)
 
 ## 四、 迷雾湖泊与火山绝景：北部山区秘境（North Bali & Kintamani）
 
@@ -192,7 +192,7 @@ https://youtu.be/ysUVgnICbg0
 
 - _💬 Google真实评论：_「这里位于山区，天气凉爽甚至有点冷。湖面上的寺庙在迷雾中若隐若现，真的很像人间仙境。跟南部海滩的热闹完全不同，是一个能让人平静的地方。」
 
-> [巴厘岛金塔马尼巴杜尔火山湖｜日出登山 × 皇家游船 × 湖景咖啡厅 × 山林游乐场 × 火山温泉全攻略](https://gobaligo.id/blog/batur-lake-volcano-guide/)
+> [巴厘岛金塔马尼巴杜尔火山湖｜日出登山 × 皇家游船 × 湖景咖啡厅 × 山林游乐场 × 火山温泉全攻略](https://gobaligo.id/zh-cn/blog/batur-lake-volcano-guide/)
 
 ### 16. 金塔马尼火山 Kintamani / Mount Batur
 
@@ -202,7 +202,7 @@ https://youtu.be/mx2zwlUovew
 
 - _💬 Google真实评论：_「这里的气候非常凉爽，跟南部的炎热完全不同！坐在景观咖啡厅里看着黑色的火山熔岩遗迹与湖景，视野非常辽阔，极度推荐一游。」
 
-> [巴厘岛金塔马尼13大景观火山咖啡厅/餐厅推荐 🌄☕](https://gobaligo.id/blog/kintamani-volcano-cafes-restaurants/)
+> [巴厘岛金塔马尼13大景观火山咖啡厅/餐厅推荐 🌄☕](https://gobaligo.id/zh-cn/blog/kintamani-volcano-cafes-restaurants/)
 
 ## 五、 上帝遗落的明珠：佩尼达岛与离岛区域（Nusa Islands）
 
@@ -232,7 +232,7 @@ https://youtu.be/mx2zwlUovew
 
 - _💬 Google真实评论：_「大自然的鬼斧神工！天然的海蚀拱门非常壮观。隔壁的天神裂缝在退潮时，水面平静得像透明的无边无际泳池，可以看到底下的岩石纹理，美极了。」
 
-[> 【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](https://gobaligo.id/blog/nusa-penida-guide/)
+[> 【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](https://gobaligo.id/zh-cn/blog/nusa-penida-guide/)
 
 ### 20. 恶魔的眼泪 Devil's Tears（蓝梦岛）
 
@@ -242,7 +242,7 @@ https://youtube.com/shorts/exdiGPLkVjw
 
 - _💬 Google真实评论：_「当大浪拍击岩石裂缝时，激起巨大的浪花和水雾，现场听声音非常震撼！运气好还能看到浪花中折射出的彩虹。不过千万不要站太靠近边缘，安全第一。」
 
-> [【伦邦岸岛/蓝梦岛景点攻略】探索蓝梦岛/金银岛景点、美食、交通：巴厘岛的邻近天堂](https://gobaligo.id/blog/nusa-lembongan-ceningan-guide/)
+> [【伦邦岸岛/蓝梦岛景点攻略】探索蓝梦岛/金银岛景点、美食、交通：巴厘岛的邻近天堂](https://gobaligo.id/zh-cn/blog/nusa-lembongan-ceningan-guide/)
 
 https://youtube.com/shorts/D6ZFGWE74cE
 
@@ -252,11 +252,11 @@ https://youtube.com/shorts/D6ZFGWE74cE
 
 为了让你的旅程更流畅、玩得更优雅，我们特别为大家整理了超详细的【本站专属：巴厘岛分区顺游全攻略】！里面不仅帮你把邻近景点串成一日游路线，还加码了内行人才知道的秘境交通指南与避开人潮的小撇步。
 
-#### 👉 点我立即观看：[巴厘岛分区顺游全攻略，带你一文玩透诸神之岛！](https://gobaligo.id/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%87%E5%8C%BA%E6%94%BB%E7%95%A5)
+#### 👉 点我立即观看：[巴厘岛分区顺游全攻略，带你一文玩透诸神之岛！](https://gobaligo.id/zh-cn/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%87%E5%8C%BA%E6%94%BB%E7%95%A5)
 
-> [巴厘岛新手指南](https://gobaligo.id/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
+> [巴厘岛新手指南](https://gobaligo.id/zh-cn/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
 
-> [巴厘岛不踩雷攻略：18个常见错误与建议](https://gobaligo.id/blog/bali-travel-mistakes-tips/)
+> [巴厘岛不踩雷攻略：18个常见错误与建议](https://gobaligo.id/zh-cn/blog/bali-travel-mistakes-tips/)
 
 让最地道的行程指引，陪你一起打包行李，开启这趟洗涤身心的极致奢华之旅吧！
 

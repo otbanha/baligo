@@ -35,7 +35,7 @@ Bali terkenal sebagai pusat seni dunia. Di mana-mana kamu bisa lihat hasil karya
 
 Traveler sering nemu oleh-oleh berharga secara nggak sengaja. Tapi kalau mau belanja sekaligus, mampir aja ke pasar seni terkenal ini:
 
-- [Panduan Lengkap 5 Pasar Seni Terbaik di Ubud: Cari Oleh-oleh & Harta Karun Budaya Bali](/blog/ubud-art-markets-guide/)
+- [Panduan Lengkap 5 Pasar Seni Terbaik di Ubud: Cari Oleh-oleh & Harta Karun Budaya Bali](/id/blog/ubud-art-markets-guide/)
 
 Pasar-pasar ini nggak cuma harganya ramah di kantong, tapi juga punya banyak barang handmade unik yang cocok buat oleh-oleh atau koleksi pribadi.
 
@@ -89,7 +89,7 @@ Oleh-oleh paling populer di Bali antara lain kain sarung, ukiran kayu, kain bati
 
 **Di mana bisa beli oleh-oleh Bali yang berkualitas?**
 
-[Lima Pasar Seni/Pasar Seni di Ubud](/blog/ubud-art-markets-guide/) adalah tempat terbaik, karena di sana ada banyak pilihan barang yang beragam.
+[Lima Pasar Seni/Pasar Seni di Ubud](/id/blog/ubud-art-markets-guide/) adalah tempat terbaik, karena di sana ada banyak pilihan barang yang beragam.
 
 **Apa makna budaya dari kain batik?**
 
@@ -105,4 +105,4 @@ Kain sarung bisa jadi handuk pantai, selendang, taplak meja, gendongan bayi, bah
 
 **Kalau mau beli oleh-oleh cemilan?**
 
-Cek di sini [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Panduan Oleh-Oleh Bali yang Wajib Dicoba: Pilihan Terbaik untuk Mengabadikan Kenangan Berharga](/blog/bali-souvenirs-gift-guide/)
+Cek di sini [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Panduan Oleh-Oleh Bali yang Wajib Dicoba: Pilihan Terbaik untuk Mengabadikan Kenangan Berharga](/id/blog/bali-souvenirs-gift-guide/)

@@ -32,7 +32,7 @@ _srcHash: 4ad2f5b34ea4ed66ebe41ddbbaba7fe1
 ---
 Update: 2026/07/03
 
-[🚗 Mau estimasi tarif Gojek? Klik di sini](/map/gojek-fare/)
+[🚗 Mau estimasi tarif Gojek? Klik di sini](/id/map/gojek-fare/)
 
 ![【峇里島交通全攻略】什麼時候該包車？什麼場合用 Gojek/Grab？包車 vs. 叫車優缺點與場景分析](https://images.gobaligo.id/vocus/vocus_86a39e40d1c5e42fbdbb7ba5e81f3369.png)
 
@@ -42,7 +42,7 @@ Bali, surga liburan yang indah banget, selalu menarik wisatawan dari seluruh dun
 
 Cara transportasi paling aman dan paling nyaman di Bali ya 'sewa mobil' dan 'panggil ojek'. Sewa mobil artinya dalam jangka waktu tertentu (biasanya 10 jam atau 5 jam), kamu bisa pakai sopir untuk anter ke mana aja yang kamu mau; sedangkan 'panggil ojek' kayak taksi, pakai aplikasi Gojek atau Grab untuk perjalanan dari titik A ke titik B.
 
-> Baca Juga: [Aplikasi Wajib Pas Traveling di Indonesia/Bali: Panduan Lengkap Gojek](/blog/gojek-bali-guide/)
+> Baca Juga: [Aplikasi Wajib Pas Traveling di Indonesia/Bali: Panduan Lengkap Gojek](/id/blog/gojek-bali-guide/)
 
 ## Kelebihan & Kekurangan Sewa Mobil
 
@@ -98,7 +98,7 @@ Kalau itinerary kamu butuh perjalanan jarak jauh, driver ojek yang mau ambil ord
 - Mau ngobrol / butuh penjelasan dasar ▶ Sewa mobil pribadi
 - Mau kenalan sama teman lokal di Bali ▶ Sewa mobil pribadi
 
-**Ada rekomendasi driver mobil pribadi yang bagus?** Daftar rekomendasi driver dari netizen [cek di sini](/blog/bali-private-car-drivers-guide/)
+**Ada rekomendasi driver mobil pribadi yang bagus?** Daftar rekomendasi driver dari netizen [cek di sini](/id/blog/bali-private-car-drivers-guide/)
 
 ## FAQ Pertanyaan Umum
 
@@ -126,7 +126,7 @@ Biasanya Gojek harganya sedikit lebih murah.
 
 Bisa, tapi nggak disarankan. Soalnya sering banget ketemu driver yang suka ngegas harga seenaknya.
 
-**Lainnya** [**FAQ Sewa Mobil > Klik di sini**](/blog/bali-private-car-hire-guide/)
+**Lainnya** [**FAQ Sewa Mobil > Klik di sini**](/id/blog/bali-private-car-hire-guide/)
 
 ## Kesimpulan
 
@@ -138,4 +138,4 @@ Mau pilih paket mobil sewaan atau panggil taksi online, dua-duanya punya kelebih
 
 👈 **Kembali ke Panduan Lengkap Liburan Mandiri ke Bali**
 
-Mau baca panduan lengkap buat pemula? [Klik di sini buat baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/blog/bali-ultimate-guide-2026/), biar paham semua yang harus disiapin sebelum berangkat.
+Mau baca panduan lengkap buat pemula? [Klik di sini buat baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/id/blog/bali-ultimate-guide-2026/), biar paham semua yang harus disiapin sebelum berangkat.

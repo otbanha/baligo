@@ -41,7 +41,7 @@ Non-Indonesian passport holders please select 'Foreign Visitors'
 
 ### ✈️ Must-Do Before Departure:
 
-✅ Complete online declarations for **e-visa, All Indonesia, and tourism tax** before departure. See [here](/blog/bali-all-indonesia-arrival-guide/) for process explanation
+✅ Complete online declarations for **e-visa, All Indonesia, and tourism tax** before departure. See [here](/en/blog/bali-all-indonesia-arrival-guide/) for process explanation
 
 ✅ Save/screenshot the final generated QR CODE on your phone (recommend cloud backup as well)
 
@@ -59,7 +59,7 @@ Non-Indonesian passport holders please select 'Foreign Visitors'
 
 ### **❓ Do I need to apply for a visa (VoA, Visa on Arrival)?**
 
-Currently, citizens from 13 countries enjoy visa-free entry ([list here](/blog/indonesia-visa-free-countries-list/)). Citizens from over 80 other countries, including Taiwan and China, need to apply for a visa.
+Currently, citizens from 13 countries enjoy visa-free entry ([list here](/en/blog/indonesia-visa-free-countries-list/)). Citizens from over 80 other countries, including Taiwan and China, need to apply for a visa.
 
 ### **❓ Do children need to apply for a visa?**
 
@@ -67,7 +67,7 @@ Visa requirements apply regardless of age - even infants need to apply.
 
 ### **❓ Where can I apply for the eVisa?**
 
-Please refer to [this guide](/blog/bali-evisa-application-guide/) for further instructions.
+Please refer to [this guide](/en/blog/bali-evisa-application-guide/) for further instructions.
 
 ### **❓ Don't want to apply for an e-visa? Where to get a visa on arrival and what documents are needed?**
 
@@ -158,11 +158,11 @@ If you notice any mistakes:
 
 ### **❓** Can children also use automatic immigration?
 
-Children aged 6 and above can also use automatic immigration at the airport. Please see [Guide to Indonesian/Bali Visa for Children](/blog/bali-child-visa-guide/)
+Children aged 6 and above can also use automatic immigration at the airport. Please see [Guide to Indonesian/Bali Visa for Children](/en/blog/bali-child-visa-guide/)
 
 ### **❓ How long is the tourist visa valid? What happens if I overstay?**
 
-The validity period for a tourist visa upon entry is 30 days, which can be extended once either at the local immigration office or [online](/blog/2024-bali-visa-extension/), allowing a maximum stay of 60 days.
+The validity period for a tourist visa upon entry is 30 days, which can be extended once either at the local immigration office or [online](/en/blog/2024-bali-visa-extension/), allowing a maximum stay of 60 days.
 
 Overstaying incurs a daily fine of 1,000,000 Indonesian Rupiah (approximately USD$65) and is considered illegal residence, potentially leading to detention, deportation, or a ban from entering Indonesia for a specified period.
 
@@ -176,7 +176,7 @@ Since it now integrates health declarations requiring the latest status updates,
 
 ### **❓ Which airports can I use** [All Indonesia](https://allindonesia.imigrasi.go.id/) **for entry?**
 
-Three international airports—Jakarta Soekarno-Hatta, Surabaya Juanda, and Bali Ngurah Rai—allow the use of "All Indonesia" for one-stop applications. For other airports, please separately complete the **eVisa**, **eCD Customs Declaration**, and **SSHP Health Declaration** (see [link](/blog/bali-entry-requirements/) for instructions).
+Three international airports—Jakarta Soekarno-Hatta, Surabaya Juanda, and Bali Ngurah Rai—allow the use of "All Indonesia" for one-stop applications. For other airports, please separately complete the **eVisa**, **eCD Customs Declaration**, and **SSHP Health Declaration** (see [link](/en/blog/bali-entry-requirements/) for instructions).
 
 ### **❓ How can I check my application status?**
 
@@ -210,7 +210,7 @@ Next, proceed to fill out [All Indonesia](https://allindonesia.imigrasi.go.id/).
 
 ### **❓ Is the tourism tax integrated?**
 
-No. Since the tourism tax is only applicable in Bali and not nationwide, it must be paid through a separate system. Refer to: [Bali Tourism Tax Guide 2024: New Regulations, Payment Methods, and Island-Hopping Tips](/blog/2026-bali-tourism-tax-guide/)
+No. Since the tourism tax is only applicable in Bali and not nationwide, it must be paid through a separate system. Refer to: [Bali Tourism Tax Guide 2024: New Regulations, Payment Methods, and Island-Hopping Tips](/en/blog/2026-bali-tourism-tax-guide/)
 
 ***
 

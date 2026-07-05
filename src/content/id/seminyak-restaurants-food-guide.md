@@ -167,7 +167,7 @@ Itu dia lebih dari 30 restoran wajib coba di Seminyak yang udah kami rangkum, da
 
 ## Tambahan Lainnya
 
-- [Rekomendasi Kuliner Kuta｜Panduan Kuliner Terbaik di Bali](/blog/kuta-best-food-guide/)
-- [Rekomendasi Kuliner Ubud｜Panduan Kuliner Terbaik di Bali](/blog/ubud-food-guide/)
+- [Rekomendasi Kuliner Kuta｜Panduan Kuliner Terbaik di Bali](/id/blog/kuta-best-food-guide/)
+- [Rekomendasi Kuliner Ubud｜Panduan Kuliner Terbaik di Bali](/id/blog/ubud-food-guide/)
 
 {{block:美食}}

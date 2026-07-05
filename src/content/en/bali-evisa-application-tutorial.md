@@ -42,6 +42,6 @@ After finishing the form, Mr. Engineer demonstrates how to make the payment and 
 
 Since Mr. Engineer’s video is only available on YouTube, for those who need a detailed step-by-step guide, [click here to watch](https://www.youtube.com/watch?v=j1VOvlR9vbo).
 
-If you have any other questions about the application, you can check out this resource: [2024 Latest Indonesia/Bali Entry Visa & e-VoA FAQ](/blog/indonesia-bali-visa-evoa-faq/)
+If you have any other questions about the application, you can check out this resource: [2024 Latest Indonesia/Bali Entry Visa & e-VoA FAQ](/en/blog/indonesia-bali-visa-evoa-faq/)
 
-For the complete process from landing to exiting the airport, please refer to [this article](/blog/2025-bali-immigration-process/).
+For the complete process from landing to exiting the airport, please refer to [this article](/en/blog/2025-bali-immigration-process/).

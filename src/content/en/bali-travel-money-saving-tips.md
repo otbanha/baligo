@@ -29,7 +29,7 @@ Hey travel lovers! Today, we're sharing some awesome money-saving tips for Bali 
 
 First, let's start with choosing your travel time! Avoid visiting Bali during peak seasons, when flight, accommodation, and activity prices tend to skyrocket. Opt for the off-season or less busy periods to save on flights and lodging while enjoying a more peaceful travel experience.
 
-So, when is Bali's peak travel season? Generally, the dry season with lower rainfall is the best time to visit Bali, roughly from April to October, which is the peak season. What are the downsides of avoiding the peak season? Check out [this link](/blog/bali-best-time-to-visit/) to learn about Bali's rainy season.
+So, when is Bali's peak travel season? Generally, the dry season with lower rainfall is the best time to visit Bali, roughly from April to October, which is the peak season. What are the downsides of avoiding the peak season? Check out [this link](/en/blog/bali-best-time-to-visit/) to learn about Bali's rainy season.
 
 Beyond seasonal distinctions, here are five specific times when crowds flood into Bali, ranked by the level of people and traffic:
 
@@ -49,21 +49,21 @@ Accommodation can take up a huge chunk of your travel budget! Bali offers countl
 
 Here are some budget-friendly accommodation tips we've shared before—check them out:
 
-> [Incredible Value: 11 Bali Boutique Hotels Under $30 for Stunning Instagram Photos!](/blog/bali-boutique-hotels-under-30/)
+> [Incredible Value: 11 Bali Boutique Hotels Under $30 for Stunning Instagram Photos!](/en/blog/bali-boutique-hotels-under-30/)
 
-> [Bali Villa Recommendations: 20 High-Value Villas (Part 1)](/blog/bali-best-villas-top20-part1/)
+> [Bali Villa Recommendations: 20 High-Value Villas (Part 1)](/en/blog/bali-best-villas-top20-part1/)
 
-> [Best Value Bali Villas: 20 Romantic Villa Picks (Part 2)](/blog/bali-best-villas-top20-part2/)
+> [Best Value Bali Villas: 20 Romantic Villa Picks (Part 2)](/en/blog/bali-best-villas-top20-part2/)
 
-> [Bali's Hotspot: 10 Budget-Friendly Accommodations in Seminyak](/blog/seminyak-budget-hotels-guide/)
+> [Bali's Hotspot: 10 Budget-Friendly Accommodations in Seminyak](/en/blog/seminyak-budget-hotels-guide/)
 
-> [【Seminyak】Affordable Bali Villas Under $100](/blog/seminyak-budget-villas-guide/)
+> [【Seminyak】Affordable Bali Villas Under $100](/en/blog/seminyak-budget-villas-guide/)
 
 ## 3. Beware of Scams
 
 Stay alert while traveling! There may be some scams locally, so remember to stay vigilant—don't believe in deals that seem too good to be true, and don't trust strangers easily. Take strangers' advice with a grain of salt to avoid falling into traps.
 
-Additionally, there's a scam run by foreigners that has caught many Taiwanese tourists off guard. For detailed information, check [here](/blog/bali-street-scam-alert/)
+Additionally, there's a scam run by foreigners that has caught many Taiwanese tourists off guard. For detailed information, check [here](/en/blog/bali-street-scam-alert/)
 
 ## 4. Book Online in Advance
 
@@ -87,7 +87,7 @@ For travelers, Bali offers three convenient, **direct** transport options: renti
 
 Renting a scooter in Bali is ideal for travelers who want to explore freely; taxis are great for short trips or those who prefer not to drive; and hiring a private driver suits those seeking a deeper experience and customized itinerary—especially if you split the cost with travel companions, it's quite reasonable. Based on your needs and budget, you can find the best option among these choices. Whichever you pick, always prioritize **safety first** to make your Bali trip even more enjoyable!
 
-Check out our curated guide: [Top-Rated Private Drivers in Bali: Reviews from Travelers](/blog/bali-private-car-drivers-guide/)
+Check out our curated guide: [Top-Rated Private Drivers in Bali: Reviews from Travelers](/en/blog/bali-private-car-drivers-guide/)
 
 ## 7. Beware of Inflated Taxi Fares
 
@@ -97,7 +97,7 @@ When taking a taxi for short trips, be cautious. Drivers sometimes try to overch
 
 Speaking of Gojek, it's an incredibly versatile app in Bali that lets you book rides, order food delivery, send packages, and more. This app can help you plan your itinerary more efficiently while saving you a good amount of money.
 
-> For detailed instructions, refer to [Must-Have App for Traveling in Indonesia/Bali: Gojek Complete Guide](/blog/gojek-bali-guide/)
+> For detailed instructions, refer to [Must-Have App for Traveling in Indonesia/Bali: Gojek Complete Guide](/en/blog/gojek-bali-guide/)
 
 ## 9. Pay with Cash
 
@@ -140,7 +140,7 @@ SPA treatments in Bali are an absolute must, but without proper research, you mi
 
 Click the link below
 
-> [Top-Rated SPA Recommendations in Bali](/blog/spa/)
+> [Top-Rated SPA Recommendations in Bali](/en/blog/spa/)
 
 ## 13. Check Your Packing List
 
@@ -176,7 +176,7 @@ During our travels, we always want to bring home precious moments and beautiful 
 
 Check out our curated list of Bali souvenir suggestions below:
 
-> [【Recommended by Travelers】6 Categories, Over 20 Bali Souvenir Ideas: Perfect Choices to Cherish Precious Memories](/blog/bali-souvenirs-gift-guide/)
+> [【Recommended by Travelers】6 Categories, Over 20 Bali Souvenir Ideas: Perfect Choices to Cherish Precious Memories](/en/blog/bali-souvenirs-gift-guide/)
 
 {{block:伴手禮}}
 
@@ -188,7 +188,7 @@ Finally, consider slowing down your travel pace. Staying longer in one place not
 
 When paying for your hotel with a credit card, always choose to settle in the local currency. This helps you avoid unnecessary currency conversion fees, allowing you to save as much money as possible.
 
-> Further Reading: [Essential Tips for Bali Travel: Beware of Credit Card Payment Traps](/blog/bali-credit-card-payment-tips/)
+> Further Reading: [Essential Tips for Bali Travel: Beware of Credit Card Payment Traps](/en/blog/bali-credit-card-payment-tips/)
 
 ###
 

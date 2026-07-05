@@ -47,7 +47,7 @@ Miniature sandstone carvings
 
 - **Textiles**: Balinese textiles are known for their vibrant colors and traditional patterns. Whether it's a sarong, scarf, or tablecloth, they let you feel the local charm.
 - **Handicrafts**: Such as handwoven bracelets, necklaces, and other small items.
-- **Incense Sticks**: Bring the scent of Bali home. For a detailed guide, check [here](/blog/bali-art-souvenirs-guide/).
+- **Incense Sticks**: Bring the scent of Bali home. For a detailed guide, check [here](/en/blog/bali-art-souvenirs-guide/).
 - 👜 **Balinese Woven Bags**
 
 ![Balinese Cultural Handicrafts](https://images.gobaligo.id/vocus/vocus_0da8524d97ec3c0a0ab9714a64bb7364.png)
@@ -117,7 +117,7 @@ Made from 100% premium Indonesian dried squid, this snack is savory, salty, and 
 
 Most tour guides bring their groups to souvenir shops to buy these—a must-have souvenir that travelers miss dearly after returning to Taiwan. For independent travelers in Bali, ask your driver for 'cumi juhi garing' to find these squid slices; some drivers know where to get them.
 
-Alternatively, stop by Mr. Lobster for a seafood feast and ask Boss Xu to prepare some for you! Check [here](/blog/mr-lobster-seafood-bali/) for details.
+Alternatively, stop by Mr. Lobster for a seafood feast and ask Boss Xu to prepare some for you! Check [here](/en/blog/mr-lobster-seafood-bali/) for details.
 
 ### Frangipani Essential Oil and Incense (Available at Aromatic Shops)
 
@@ -296,7 +296,7 @@ A beloved Indonesian national brand available in supermarkets and convenience st
 
 Just let it sit for 2–3 minutes to let the grounds settle, drink only the top part, and you’ll protect your eyes the most natural, chemical-free way!
 
-Full details: [【Indonesia/Bali Coffee Powder Recommendation】Avoid This Coffee! Study of 500,000 People Shows 7x Higher Risk of Macular Degeneration — Switch to Natural, Additive-Free Indonesian Coffee Kapal Api for Eye Health](https://gobaligo.id/blog/2026-06-19-013143/)
+Full details: [【Indonesia/Bali Coffee Powder Recommendation】Avoid This Coffee! Study of 500,000 People Shows 7x Higher Risk of Macular Degeneration — Switch to Natural, Additive-Free Indonesian Coffee Kapal Api for Eye Health](https://gobaligo.id/en/blog/2026-06-19-013143/)
 
 ***
 
@@ -304,8 +304,8 @@ Click the links below for more details to help you pick the best Bali souvenirs:
 
 - Bali [souvenirs you should never buy](https://youtu.be/d_TDRuMLzrQ)
 - A [large art shop just 10 minutes from the airport](https://youtu.be/mxnU1BxJCcM?t=367)
-- [Which Bali souvenirs can’t be brought back to Taiwan? A complete guide to Taiwan customs regulations](https://gobaligo.id/blog/bali-souvenirs-customs-restrictions/)
-- One-stop shopping at large supermarkets: [30+ Supermarket Map Guide: Grand Lucky, Pepito, Bintang — Full Breakdown & Local Must-Buy List](https://gobaligo.id/blog/bali-supermarket-guide-map/)
+- [Which Bali souvenirs can’t be brought back to Taiwan? A complete guide to Taiwan customs regulations](https://gobaligo.id/en/blog/bali-souvenirs-customs-restrictions/)
+- One-stop shopping at large supermarkets: [30+ Supermarket Map Guide: Grand Lucky, Pepito, Bintang — Full Breakdown & Local Must-Buy List](https://gobaligo.id/en/blog/bali-supermarket-guide-map/)
 
 ## Souvenir Collection in Progress
 

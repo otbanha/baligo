@@ -113,8 +113,8 @@ Berdasarkan pengalaman kami, ini barang-barang yang wajib kamu bawa:
 
 **Catatan redaksi - masih ada info penting lainnya, cek di sini:**
 
-- [Panduan Arung Jeram Bali (FAQ umum arung jeram)](/blog/bali-rafting-ayung-telaga-waja/)
-- [Petualangan ATV di Bali: Rasakan Sensasi dan Kebebasan di Surga Tropis (Tips + FAQ + Rekomendasi Penyedia)](/blog/bali-atv-adventure-guide/)
+- [Panduan Arung Jeram Bali (FAQ umum arung jeram)](/id/blog/bali-rafting-ayung-telaga-waja/)
+- [Petualangan ATV di Bali: Rasakan Sensasi dan Kebebasan di Surga Tropis (Tips + FAQ + Rekomendasi Penyedia)](/id/blog/bali-atv-adventure-guide/)
 
 ### Pengingat Penting
 

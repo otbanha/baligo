@@ -58,7 +58,7 @@ Kota Sanur punya vibe santai dan rileks, serta masih kental dengan budaya Bali. 
 
 https://youtu.be/SpcgZ4iK7qs
 
-**Panduan:** [Liburan Keluarga ke Bali: Peta Panduan Sanur｜50+ Aktivitas, Kuliner, SPA, dan Rekomendasi Penginapan!](/blog/sanur-guide/)
+**Panduan:** [Liburan Keluarga ke Bali: Peta Panduan Sanur｜50+ Aktivitas, Kuliner, SPA, dan Rekomendasi Penginapan!](/id/blog/sanur-guide/)
 
 Pantai Sanur lebih tenang dibanding pantai Bali lainnya, dan bersih banget. Selain itu, dibanding resort pantai lain di pulau ini, harga hotel tepi pantai di Sanur lebih terjangkau.
 
@@ -353,7 +353,7 @@ Buka tahun 2024, rating Agoda 9.1, menang penghargaan Traveler Choice 2025 — l
 
 💬 Kata tamu | "Kamar super gede, sarapan enak, staf ramah, nginep di sini bikin rileks banget." "Masuknya kayak masuk museum, spa-nya jadi pengalaman paling berkesan selama di Bali."
 
-▶[Baca selengkapnya di sini](/blog/the-meru-sanur/)
+▶[Baca selengkapnya di sini](/id/blog/the-meru-sanur/)
 
 > ➡️ **Cek harga & ketersediaan** [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=50081294) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=116694051&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6ycTFJMEk9YiJ49P5XR9YhTjMjC0NLAwMjDQ28hks5bDoTHY8ewYIkqY7eM6aCQQisxwCeCKmHHg-jT3Rluv64oL9gQ5djKxggRmMi3dcMl_ByLiRMQ0E-lIddjAyHWBkOsF43mYB06nfE61OsTBzLGK7xLKbMbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsCwMjPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1sY9YmKJjX7Bs5PvEwvCLhaGJlaGLlZnjFNMkIHneZherYKCzp5mzh66ToVNQoLdulK7hBdYWByl5QwMDA1NDY1NTXYNEy0Rjo7RkXRNLEyMzM11zA1MDA411k6defGJsZC0FCU4FRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbCaurmZGrlE2XMyhwS6CyyuPa1oZSTtIMYeEuyh-WH7M27zztL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD7yrXvXiQ1dp-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxjZuZgNjAwFmDYwMu5g_A8DjK8YQZYAAHS6woJVAgAA&masterhotelid_tracelogid=100051355-0a9a32fc-494266-70500&detailFilters=17|1~17~1*31|116694051~31~116694051*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=946&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Pb1nQOIo)
 
@@ -871,6 +871,6 @@ Kami sudah menandai semua lokasi hotel/villa di [peta ini](https://gobaligo.id/m
 
 Baik kamu cari liburan mewah, liburan keluarga, atau akomodasi yang ramah di kantong, Sanur bisa memenuhi semua kebutuhan. Dari penginapan bintang lima yang kece sampai guest house mungil yang cozy, pilihan beragam di sini dijamin bikin setiap traveler nemuin tempat nginep yang pas buat menikmati sinar matahari dan pemandangan indah Bali.
 
-Panduan [Sanur Guide](/blog/sanur-guide/) kami udah mencakup berbagai info seru, tempat wisata, kuliner, spa, dan lainnya. Dijamin bikin liburan kamu di Sanur jadi momen yang nggak terlupakan. Yuk, ikuti panduan kami dan eksplorasi kota pantai yang memesona ini!
+Panduan [Sanur Guide](/id/blog/sanur-guide/) kami udah mencakup berbagai info seru, tempat wisata, kuliner, spa, dan lainnya. Dijamin bikin liburan kamu di Sanur jadi momen yang nggak terlupakan. Yuk, ikuti panduan kami dan eksplorasi kota pantai yang memesona ini!
 
 {{block:住宿}}

@@ -66,6 +66,6 @@ But if you're not just about the big venues, I personally love the route that in
 
 In the end, Bali in 2026 is no longer just about 'picking one spot and staying there.' Knowing how to move around and switch up the atmosphere actually allows you to experience more depth. Cafes are still worth visiting, but if time is limited, I'll be honest—focusing on Beach Clubs is definitely the way to go if you want to avoid regrets. 😉🌴
 
-**Quick Reference:** [20 Free Entry Beach Clubs in Bali](/blog/bali-beach-clubs-free-entry-list/)
+**Quick Reference:** [20 Free Entry Beach Clubs in Bali](/en/blog/bali-beach-clubs-free-entry-list/)
 
 {{block:klook}}

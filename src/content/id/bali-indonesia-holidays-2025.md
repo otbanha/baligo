@@ -28,8 +28,8 @@ Bali, pulau Indonesia yang indah bagaikan lukisan, punya festival dan perayaan d
 
 ![Panduan Lengkap Hari Libur Nasional Indonesia & Festival Bal](https://images.gobaligo.id/vocus/vocus_c0f9a3baeb0aed740edc947ff8866451.jpg)
 
-- **Buat yang mau hindari lima musim ramai di Bali, cek:**[**Ternyata Bali Punya Lima Musim Ramai! Gimana Cara Pinter Traveling Biar Nggak Kena Macet?**](/blog/bali-peak-season-travel-tips/)
-- **Kapan musim hujan dan kemarau di Indonesia/Bali? Lihat:**[**Waktu Terbaik ke Bali? Pahamin Musim Kemarau, Hujan, Plus Minusnya**](/blog/bali-best-time-to-visit/)[**di Sini**](/blog/bali-best-time-to-visit/)
+- **Buat yang mau hindari lima musim ramai di Bali, cek:**[**Ternyata Bali Punya Lima Musim Ramai! Gimana Cara Pinter Traveling Biar Nggak Kena Macet?**](/id/blog/bali-peak-season-travel-tips/)
+- **Kapan musim hujan dan kemarau di Indonesia/Bali? Lihat:**[**Waktu Terbaik ke Bali? Pahamin Musim Kemarau, Hujan, Plus Minusnya**](/id/blog/bali-best-time-to-visit/)[**di Sini**](/id/blog/bali-best-time-to-visit/)
 
 ### 
 
@@ -56,7 +56,7 @@ Tekan tombol "Buka Daftar Isi" buat navigasi cepat
 - 1 Januari, Tahun Baru, hampir jadi hari libur nasional di seluruh dunia, termasuk Indonesia/Bali. Biasanya puncak perayaannya di malam tahun baru 31 Desember. Orang Indonesia di momen ini punya liburan ~~spontan~~ yang disebut "Nataru", lihat deskripsi festival di bagian Desember paling bawah.
 - 27 Januari, [Siwa Ratri] adalah salah satu festival penting di kalender Bali. Siwa Ratri menekankan introspeksi, meditasi, dan memohon pengampunan. Ritualnya termasuk tidak tidur selama 36 jam, puasa 24 jam, dan diam selama 12 jam. Setelah periode ini, biasanya ada upacara pembersihan di pantai, dan juga upacara di beberapa pura besar di pulau.
 - 27 Januari 2025 juga bertepatan dengan hari libur nasional Indonesia, yaitu Isra Mikraj Nabi Muhammad. Ini hari raya Islam penting yang memperingati perjalanan malam Nabi Muhammad. Di hari ini, umat Muslim berkumpul di masjid untuk berdoa dan beribadah.
-- 29 Januari adalah Tahun Baru Imlek kita! Indonesia menetapkan hari pertama bulan pertama (2025/01/29) sebagai hari libur nasional. Di Taiwan ada libur sembilan hari dari 25 Januari (Sabtu) sampai 2 Februari (Minggu). Libur sembilan hari Tahun Baru Imlek 2025 ini kayaknya nggak ada hubungan langsung sama Bali, tapi ini juga jadi momen libur panjang buat turis dari China, Hong Kong, dan Taiwan. Karena tanggal 27 dan 29 juga hari libur nasional Indonesia, dan tanggal 28 jadi cuti bersama, total libur lima hari. Kalau 30/31 ambil cuti dua hari lagi, bisa libur sembilan hari, dan pasti banyak orang Indonesia yang liburan ke Bali. Jadi Tahun Baru Imlek kita juga jadi musim ramai turis di Bali! Kalau kamu ke Bali saat ini, ada beberapa tips: [Panduan Liburan Keluarga ke Bali saat Imlek: Tiket, Visa, Transportasi, Tempat Wisata Lengkap](/blog/2026-bali-lunar-new-year-guide/)
+- 29 Januari adalah Tahun Baru Imlek kita! Indonesia menetapkan hari pertama bulan pertama (2025/01/29) sebagai hari libur nasional. Di Taiwan ada libur sembilan hari dari 25 Januari (Sabtu) sampai 2 Februari (Minggu). Libur sembilan hari Tahun Baru Imlek 2025 ini kayaknya nggak ada hubungan langsung sama Bali, tapi ini juga jadi momen libur panjang buat turis dari China, Hong Kong, dan Taiwan. Karena tanggal 27 dan 29 juga hari libur nasional Indonesia, dan tanggal 28 jadi cuti bersama, total libur lima hari. Kalau 30/31 ambil cuti dua hari lagi, bisa libur sembilan hari, dan pasti banyak orang Indonesia yang liburan ke Bali. Jadi Tahun Baru Imlek kita juga jadi musim ramai turis di Bali! Kalau kamu ke Bali saat ini, ada beberapa tips: [Panduan Liburan Keluarga ke Bali saat Imlek: Tiket, Visa, Transportasi, Tempat Wisata Lengkap](/id/blog/2026-bali-lunar-new-year-guide/)
 
 ![農曆新年假期大人放長假、小孩放寒假、還可以帶著家中長輩來峇里島避寒喔～](https://images.gobaligo.id/vocus/vocus_9634954ff2fb33a725912d22905fbeae.png)
 
@@ -97,7 +97,7 @@ Libur Tahun Baru Imlek, orang dewasa dapat cuti panjang, anak-anak libur sekolah
 
 - 3/29 峇里島靜居日/印度教新年。這是峇里島一年之中最重要的節日。
 
-- 靜居日是什麼？靜居日適合去峇里島旅遊嗎？有什麼需要注意的事項？妖怪大遊行在哪裡看？[請看這裡](/blog/2025-bali-nyepi-day-guide/)。
+- 靜居日是什麼？靜居日適合去峇里島旅遊嗎？有什麼需要注意的事項？妖怪大遊行在哪裡看？[請看這裡](/id/blog/2025-bali-nyepi-day-guide/)。
 
 ### 
 
@@ -147,7 +147,7 @@ Libur Tahun Baru Imlek, orang dewasa dapat cuti panjang, anak-anak libur sekolah
 - 30 Mei – 1 Juni: Ubud Food Festival akan digelar di Ubud, Bali. Festival ini adalah perayaan makanan dan minuman Indonesia, dengan berbagai kegiatan seperti long table lunch, kolaborasi memasak antara chef terkemuka Asia Tenggara, kuliah kuliner, konser, dan pemutaran film. Kalau mau ikut, kamu bisa [beli tiket di situs resmi](https://www.ubudfoodfestival.com/).
 
 **Referensi Cepat:**  
-[Ubud Food Festival 2025: Perjalanan Warisan Kuliner di Jantung Bali](/blog/ubud-food-festival-2025/)
+[Ubud Food Festival 2025: Perjalanan Warisan Kuliner di Jantung Bali](/id/blog/ubud-food-festival-2025/)
 
 ## Juni
 
@@ -190,14 +190,14 @@ Libur Tahun Baru Imlek, orang dewasa dapat cuti panjang, anak-anak libur sekolah
 
 Bali Kite Festival adalah kompetisi layang-layang yang terkenal di dunia internasional
 
-- [Sanur Village Festival](https://sanurvillagefestival.com/) adalah acara tahunan (baca juga: Ada apa aja sih di Sanur? Cek [Panduan Sanur Map｜45 Tempat Makan, Main, SPA, dan Rekomendasi Penginapan!](/blog/sanur-guide/)).  
+- [Sanur Village Festival](https://sanurvillagefestival.com/) adalah acara tahunan (baca juga: Ada apa aja sih di Sanur? Cek [Panduan Sanur Map｜45 Tempat Makan, Main, SPA, dan Rekomendasi Penginapan!](/id/blog/sanur-guide/)).  
   Festival ini merayakan seni, kuliner, budaya, fashion, yoga, dan lingkungan. Ada banyak acara besar yang digelar bersamaan, seperti tenis, lomba perahu tradisional, olahraga air laut, lomba selancar, lomba dan pameran fotografi, festival layang-layang, tur desa dengan sepeda, bazar, penanaman karang, pelepasan tukik, festival kuliner, pertunjukan musik dan budaya, yoga, turnamen golf terbuka, dan Bali International Triathlon, dan masih banyak lagi.
 
 ![Sanur Village Festival](https://images.gobaligo.id/vocus/vocus_9909be8a3fbfc5f55786b656c8093cc9.png)
 
 Sanur Village Festival
 
-- Festival Desa Penglipuran yang diadakan setiap Juli adalah festival budaya tahunan di Desa Penglipuran, Bali. Festival ini bertujuan menampilkan tradisi dan gaya hidup Desa Penglipuran yang terkenal dengan arsitektur tradisional dan adat istiadatnya yang terjaga. Kegiatannya meliputi pertunjukan tari dan musik tradisional, pameran kerajinan tangan, stan kuliner lokal, dan lokakarya budaya. Lewat festival ini, kamu bisa mendalami budaya unik Desa Penglipuran dan merasakan keseharian warga setempat—cara yang pas buat eksplorasi desa tradisional Bali. (Baca juga: [Menembus Waktu di Desa Penglipuran: Rasakan Pesona Kuno Bali](/blog/penglipuran-village-bali-experience/))
+- Festival Desa Penglipuran yang diadakan setiap Juli adalah festival budaya tahunan di Desa Penglipuran, Bali. Festival ini bertujuan menampilkan tradisi dan gaya hidup Desa Penglipuran yang terkenal dengan arsitektur tradisional dan adat istiadatnya yang terjaga. Kegiatannya meliputi pertunjukan tari dan musik tradisional, pameran kerajinan tangan, stan kuliner lokal, dan lokakarya budaya. Lewat festival ini, kamu bisa mendalami budaya unik Desa Penglipuran dan merasakan keseharian warga setempat—cara yang pas buat eksplorasi desa tradisional Bali. (Baca juga: [Menembus Waktu di Desa Penglipuran: Rasakan Pesona Kuno Bali](/id/blog/penglipuran-village-bali-experience/))
 
 ![彭里普蘭村是一個奇妙的體驗](https://images.gobaligo.id/vocus/vocus_67e9f1a9b60cefaf4ced3fc2fdf340c2.jpg)
 
@@ -256,8 +256,8 @@ Bali Carnival
 
 ### 29 Oktober: Ubud Writer's and Readers Festival
 
-- 22 September – 1 Oktober: Navaratri adalah festival Hindu yang merayakan kemenangan Dewi Durga. Festival ini biasanya diadakan setiap tahun pada bulan September atau Oktober, berlangsung selama 9 hari, di mana orang-orang berpuasa, berdoa, mempersembahkan bunga, dan menari. Hari terakhir Navaratri (1 Oktober) adalah 'Dussehra', yang merayakan kemenangan Pangeran Rama atas Raja Ravana. Ini juga cerita yang diceritakan dalam [pertunjukan tari api Bali](/blog/kecak-fire-dance-bali/)!
-- 7 Oktober adalah 'Hari Perdamaian Laut' untuk tiga pulau lepas Bali. Teman-teman yang bepergian ke Nusa Penida, Nusa Lembongan, dan Nusa Ceningan harus perhatikan, karena semua kapal feri berhenti beroperasi pada hari ini. Pastikan untuk memperhatikan dan merencanakan dengan baik! Apa itu 'Hari Perdamaian Laut'? Apa saja yang perlu diperhatikan? Lihat [penjelasan kami di sini](/blog/bali-ocean-peace-day/)
+- 22 September – 1 Oktober: Navaratri adalah festival Hindu yang merayakan kemenangan Dewi Durga. Festival ini biasanya diadakan setiap tahun pada bulan September atau Oktober, berlangsung selama 9 hari, di mana orang-orang berpuasa, berdoa, mempersembahkan bunga, dan menari. Hari terakhir Navaratri (1 Oktober) adalah 'Dussehra', yang merayakan kemenangan Pangeran Rama atas Raja Ravana. Ini juga cerita yang diceritakan dalam [pertunjukan tari api Bali](/id/blog/kecak-fire-dance-bali/)!
+- 7 Oktober adalah 'Hari Perdamaian Laut' untuk tiga pulau lepas Bali. Teman-teman yang bepergian ke Nusa Penida, Nusa Lembongan, dan Nusa Ceningan harus perhatikan, karena semua kapal feri berhenti beroperasi pada hari ini. Pastikan untuk memperhatikan dan merencanakan dengan baik! Apa itu 'Hari Perdamaian Laut'? Apa saja yang perlu diperhatikan? Lihat [penjelasan kami di sini](/id/blog/bali-ocean-peace-day/)
 - Diwali adalah festival Hindu yang merayakan kemenangan cahaya atas kegelapan. Festival ini biasanya diadakan setiap tahun pada bulan Oktober atau November, tanggalnya ditentukan berdasarkan kalender Hindu. Diwali tahun 2025 akan jatuh pada 20 Oktober
 - 29 Oktober – 2 November: [Ubud Writer's and Readers Festival](https://www.ubudwritersfestival.com/) akan diadakan di Ubud. Ini adalah salah satu acara budaya internasional terbesar di Indonesia, yang menghimpun talenta terbaik di bidang sastra, seni, dan budaya.
 
@@ -287,7 +287,7 @@ Selamat datang untuk merayakan Tahun Baru di belahan bumi selatan! Tapi bersiapl
 
 **➡️[Klik di sini untuk lihat promo-promo seru di Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️**
 
-Itulah daftar festival terlengkap di Indonesia/Bali tahun 2025. Bali adalah destinasi wisata populer, dan saat musim ramai, pengunjung sangat banyak. Jika kamu tidak suka berdesak-desakan, kamu bisa menghindari '[Lima Musim Puncak Wisata Bali](/blog/bali-peak-season-travel-tips/)' yang kami jelaskan, lalu kombinasikan dengan beberapa festival khas Bali yang disebutkan di atas, '**pilih tanggal yang tepat untuk main ke Bali**', akan membuat liburanmu lebih beragam dan seru!
+Itulah daftar festival terlengkap di Indonesia/Bali tahun 2025. Bali adalah destinasi wisata populer, dan saat musim ramai, pengunjung sangat banyak. Jika kamu tidak suka berdesak-desakan, kamu bisa menghindari '[Lima Musim Puncak Wisata Bali](/id/blog/bali-peak-season-travel-tips/)' yang kami jelaskan, lalu kombinasikan dengan beberapa festival khas Bali yang disebutkan di atas, '**pilih tanggal yang tepat untuk main ke Bali**', akan membuat liburanmu lebih beragam dan seru!
 
 *Tanggal di atas mengikuti pengumuman resmi pemerintah terakhir
 

@@ -38,7 +38,7 @@ Besides the visa, there are two other online procedures that are equally importa
 1. **All Indonesia Arrival Card (including e-CD Customs Declaration and SSHP Health Declaration Form)**
 2. **Tourist Levy Payment Receipt**
 
-All four processes above can be completed online as electronic documents, and they’re actually quite straightforward. Just make sure to prepare copies of your passport, flight information, and payment method in advance. After completing them, it’s recommended to save the QR Codes as screenshots in your phone album—it’ll make the immigration process much faster when you scan them directly. For a detailed step-by-step guide, check this out: [2026 Bali Arrival Changes Explained in One Minute: Indonesia/Bali Arrival Process - From Landing to Customs to Baggage Claim](/blog/bali-all-indonesia-arrival-guide/)
+All four processes above can be completed online as electronic documents, and they’re actually quite straightforward. Just make sure to prepare copies of your passport, flight information, and payment method in advance. After completing them, it’s recommended to save the QR Codes as screenshots in your phone album—it’ll make the immigration process much faster when you scan them directly. For a detailed step-by-step guide, check this out: [2026 Bali Arrival Changes Explained in One Minute: Indonesia/Bali Arrival Process - From Landing to Customs to Baggage Claim](/en/blog/bali-all-indonesia-arrival-guide/)
 
 Next, our Bali couple’s adventure begins! 🌴
 
@@ -62,7 +62,7 @@ Although we arrived a bit late and missed the sunset, capturing the night view w
 
 We stayed in an ocean view room for about USD$387 per night. While it was already quite nice, here's a small tip: **the AYANA resort complex is massive**. If you choose a cheaper room type, you might end up in a more remote area, and walking to the main facilities can be exhausting. I recommend adding a bit more to your budget and selecting a room closer to the main facilities for a better experience!
 
-Further reading: [【AYANA Bali】Complete Guide to Ayana Bali Accommodations: Ayana Segara, RIMBA, Ayana Resort..](/blog/ayana-resort-bali-guide/)
+Further reading: [【AYANA Bali】Complete Guide to Ayana Bali Accommodations: Ayana Segara, RIMBA, Ayana Resort..](/en/blog/ayana-resort-bali-guide/)
 
 ## 📸 **Day 2: Wake Up Early to Snap Stunning Photos at the Famous H2O Pool!**
 
@@ -74,7 +74,7 @@ To capture those dreamy pool photos often seen on Instagram, we woke up at 7 AM 
 
 We took multiple rounds of photos just to capture those perfect moments when the sunlight was at its best (laughs). Waking up early was totally worth it!
 
-Quick reference: [【Must-Take Photos in Bali】Six Stunning Pools at Ayana Resort](/blog/ayana-resort-pools-photo/)
+Quick reference: [【Must-Take Photos in Bali】Six Stunning Pools at Ayana Resort](/en/blog/ayana-resort-pools-photo/)
 
 ### 🍽 **Enjoy a Hearty Breakfast, Skip Lunch**
 
@@ -110,7 +110,7 @@ Editor's note: The Cave also has a cliffside pool day club, which is another mus
 
 ![The Cave Restaurant, a Dream Dinner You Must Experience Once](https://images.gobaligo.id/vocus/vocus_a41f7059b9d933b43ebc4cfd56684828.png)
 
-[Explore Oneeighty Day Club: Bali's Cliffside Pool with Breathtaking Views](/blog/oneeighty-dayclub-uluwatu-pool/)
+[Explore Oneeighty Day Club: Bali's Cliffside Pool with Breathtaking Views](/en/blog/oneeighty-dayclub-uluwatu-pool/)
 
 ## ☕️ **Day 3: Heading to the Highlands Café, Checking into a Romantic Jungle Villa in Ubud**
 
@@ -156,7 +156,7 @@ That night, we stayed at **The Claremont Luxury Villas**, located in the heart o
 
 If you're on a budget but still want a stylish and conveniently located villa, this one is definitely worth bookmarking ✅.
 
->>For detailed information about The Claremont Luxury Villas' surroundings, facilities, and rooms, please check [here](/blog/2024-04-04-660e6e92fd89780001e6047e/)
+>>For detailed information about The Claremont Luxury Villas' surroundings, facilities, and rooms, please check [here](/en/blog/2024-04-04-660e6e92fd89780001e6047e/)
 
 {{block:smk}}
 
@@ -210,7 +210,7 @@ Especially on routes like Jimbaran, Seminyak to Ubud, traffic jams are common. W
 
 Over 75% of Bali's population works in the service industry, so tipping moderately is a polite way to show support. However, some people might use manipulative language or act entitled when asking for tips. In such cases, **you really don't need to force yourself to tip**. Maintaining boundaries and self-respect is more important.
 
-Quick Reference: [Do You Need to Tip in Bali? How Much to Tip in Different Situations?](/blog/bali-tipping-guide-driver-spa/)
+Quick Reference: [Do You Need to Tip in Bali? How Much to Tip in Different Situations?](/en/blog/bali-tipping-guide-driver-spa/)
 
 ### 🐰 **5. Gold Rabbit Coffee Factory? Google It Before Deciding to Go!**
 

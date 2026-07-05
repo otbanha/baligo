@@ -63,15 +63,15 @@ _srcHash: 04c31f9d7735f5fbb063b60b30bd68ab
 
 ## 親子旅遊延伸閱讀：
 
-- [峇里島家庭親子友善景點大全｜峇里島超過100樣適合親子同樂活動](/blog/bali-family-travel-guide/)
-- [帶小朋友去峇里島家庭旅遊嘅20個注意要點](/blog/bali-family-travel-tips/)
-- [峇里島親子遊：帶嬰兒、幼童同學齡兒童去度假嘅一啲提示](/blog/bali-family-travel-guide-2/)
-- [峇里島親子樂園：十五家擁有滑水道溜滑梯嘅親子度假村 TOP 15](/blog/bali-family-resorts-water-slides/)
-- [推薦峇里島13家庭親子度假村｜庫塔、水明漾、坎古、金巴蘭、烏魯瓦圖適合家庭度假、親子放鬆嘅最佳選擇](/blog/bali-family-resorts-kids-club/)
-- [烏布53項親子活動帶小朋友最輕鬆！](/blog/ubud-with-kids-guide/)
-- [峇里島最適合親子度假嘅海濱：沙努爾攻略地圖｜45項吃喝玩樂](/blog/sanur-guide/)
-- [峇里島親子一日遊攻略：探索野生動物園與紅鶴海灘俱樂部](/blog/bali-family-day-safari-flamingo/)
-- [峇里島親子遊不能錯過：峇里島動物園 Bali Safari 要點玩樂、夜宿攻略](/blog/bali-safari-night-stay/)
-- [2025新開幕](/blog/marine-safari-bali-guide/) [Marine Safari Bali 峇里島海洋野生動物園攻略](/blog/marine-safari-bali-guide/)
-- [與羊駝互動野餐：小朋友嘅自然課堂](/blog/pacha-alpaca-family-canggu/)
+- [峇里島家庭親子友善景點大全｜峇里島超過100樣適合親子同樂活動](/zh-hk/blog/bali-family-travel-guide/)
+- [帶小朋友去峇里島家庭旅遊嘅20個注意要點](/zh-hk/blog/bali-family-travel-tips/)
+- [峇里島親子遊：帶嬰兒、幼童同學齡兒童去度假嘅一啲提示](/zh-hk/blog/bali-family-travel-guide-2/)
+- [峇里島親子樂園：十五家擁有滑水道溜滑梯嘅親子度假村 TOP 15](/zh-hk/blog/bali-family-resorts-water-slides/)
+- [推薦峇里島13家庭親子度假村｜庫塔、水明漾、坎古、金巴蘭、烏魯瓦圖適合家庭度假、親子放鬆嘅最佳選擇](/zh-hk/blog/bali-family-resorts-kids-club/)
+- [烏布53項親子活動帶小朋友最輕鬆！](/zh-hk/blog/ubud-with-kids-guide/)
+- [峇里島最適合親子度假嘅海濱：沙努爾攻略地圖｜45項吃喝玩樂](/zh-hk/blog/sanur-guide/)
+- [峇里島親子一日遊攻略：探索野生動物園與紅鶴海灘俱樂部](/zh-hk/blog/bali-family-day-safari-flamingo/)
+- [峇里島親子遊不能錯過：峇里島動物園 Bali Safari 要點玩樂、夜宿攻略](/zh-hk/blog/bali-safari-night-stay/)
+- [2025新開幕](/zh-hk/blog/marine-safari-bali-guide/) [Marine Safari Bali 峇里島海洋野生動物園攻略](/zh-hk/blog/marine-safari-bali-guide/)
+- [與羊駝互動野餐：小朋友嘅自然課堂](/zh-hk/blog/pacha-alpaca-family-canggu/)
 - 峇里島家庭親子旅遊專欄

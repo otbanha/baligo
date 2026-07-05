@@ -21,7 +21,7 @@ lang: id
 _srcHash: 41ee6c6a8520c5b39426309a56773b8d
 ---
 
-[🚗 Mau cek perkiraan tarif Gojek? Klik di sini](/map/gojek-fare/)
+[🚗 Mau cek perkiraan tarif Gojek? Klik di sini](/id/map/gojek-fare/)
 
 Ini adalah episode keempat kita bahas Nusa Penida (dalam bahasa Indonesia: Pulau Penida), pulau yang super keren. Buat kamu yang lagi rencana liburan ke sini, pasti penasaran apakah aplikasi ride-hailing kayak Grab dan Gojek tersedia di pulau ini.
 
@@ -31,10 +31,10 @@ Bergerak di Nusa Penida bisa agak tricky, jadi penting banget buat persiapan mat
 
 Kita punya total lima episode tentang Nusa Penida, biar kamu makin kenal surga pulau ini! Empat episode lainnya bisa kamu akses lewat link ini:
 
-1. [【Panduan Lengkap Bali - Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)
-2. [Kuliner dan Laut Biru di Nusa Penida: 9 Pilihan Terbaik](/blog/nusa-penida-best-restaurants/)
-3. [Spot Snorkeling di Nusa Penida, Gimana Cara Ikut?](/blog/nusa-penida-snorkeling-guide/)
-4. [Rekomendasi Hotel di Nusa Penida: 13 Akomodasi dari Mewah sampai Budget](/blog/nusa-penida-hotels-guide/)
+1. [【Panduan Lengkap Bali - Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)
+2. [Kuliner dan Laut Biru di Nusa Penida: 9 Pilihan Terbaik](/id/blog/nusa-penida-best-restaurants/)
+3. [Spot Snorkeling di Nusa Penida, Gimana Cara Ikut?](/id/blog/nusa-penida-snorkeling-guide/)
+4. [Rekomendasi Hotel di Nusa Penida: 13 Akomodasi dari Mewah sampai Budget](/id/blog/nusa-penida-hotels-guide/)
 
 ## Ada Gojek/Grab... atau ojek online lainnya?
 
@@ -81,7 +81,7 @@ Di Nusa Penida, harga **sewa mobil doang** biasanya sekitar Rp700.000 sampai Rp8
 
 Ngomongin soal tip, ngasih tip itu tanda terima kasih kamu ke supir, dan pasti bakal dihargai banget. Kalau kamu puas sama pelayanannya, kasih tip 10% sampai 20% udah pas, dan kalau kamu mampu, ya makin banyak makin oke lah!
 
-Terus gimana cara cari supir sewa mobil di Nusa Penida? Cek aja: [Cara Pilih Supir Sewa Mobil di Nusa Penida?｜Rekomendasi Praktis dari Traveler](/blog/nusa-penida-private-driver-guide/)
+Terus gimana cara cari supir sewa mobil di Nusa Penida? Cek aja: [Cara Pilih Supir Sewa Mobil di Nusa Penida?｜Rekomendasi Praktis dari Traveler](/id/blog/nusa-penida-private-driver-guide/)
 
 > Cek juga [Paket Sewa Mobil Pribadi Nusa Penida dari Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=799894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23014-nusa-penida-private-car-charter-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D54b6524de7)
 
@@ -89,10 +89,10 @@ Terus gimana cara cari supir sewa mobil di Nusa Penida? Cek aja: [Cara Pilih Sup
 
 ## Panduan Lengkap Liburan ke Nusa Penida
 
-- [Panduan Tempat Wisata](/blog/nusa-penida-guide/) Nusa Penida
-- [Panduan Makan Sambil Nikmati Pemandangan](/blog/nusa-penida-best-restaurants/) Nusa Penida
-- [Panduan Snorkeling](/blog/nusa-penida-snorkeling-guide/) Nusa Penida
-- [Panduan Akomodasi](/blog/nusa-penida-hotels-guide/) Nusa Penida
+- [Panduan Tempat Wisata](/id/blog/nusa-penida-guide/) Nusa Penida
+- [Panduan Makan Sambil Nikmati Pemandangan](/id/blog/nusa-penida-best-restaurants/) Nusa Penida
+- [Panduan Snorkeling](/id/blog/nusa-penida-snorkeling-guide/) Nusa Penida
+- [Panduan Akomodasi](/id/blog/nusa-penida-hotels-guide/) Nusa Penida
 
 {{block:攻略}}
 
@@ -100,4 +100,4 @@ Terus gimana cara cari supir sewa mobil di Nusa Penida? Cek aja: [Cara Pilih Sup
 
 👈 **Kembali ke Panduan Utama Liburan ke Bali**
 
-Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 「Panduan Utama Liburan ke Bali 2026」](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres!
+Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 「Panduan Utama Liburan ke Bali 2026」](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres!

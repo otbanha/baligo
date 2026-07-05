@@ -87,8 +87,8 @@ Meskipun aturannya nggak mewajibkan versi kertas, **nyetak cadangan bikin perjal
 
 **Bacaan lanjutan:**
 
-- [Panduan Lengkap Masuk Bali Agustus 2025 Pakai Sistem 'All Indonesia' — 1 Menit Paham: Turun Pesawat → Imigrasi → Ambil Bagasi](/blog/bali-all-indonesia-arrival-guide/)
-- [FAQ eVisa, eCD, SSHP & All Indonesia untuk Masuk Indonesia/Bali](/blog/bali-evisa-customs-health-declaration/)
+- [Panduan Lengkap Masuk Bali Agustus 2025 Pakai Sistem 'All Indonesia' — 1 Menit Paham: Turun Pesawat → Imigrasi → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
+- [FAQ eVisa, eCD, SSHP & All Indonesia untuk Masuk Indonesia/Bali](/id/blog/bali-evisa-customs-health-declaration/)
 
 ---
 

@@ -24,7 +24,7 @@ _srcHash: 9a140c7117e89867e608306b5c6d971a
 
 入境相關嘅嘢我哋都線上申請好並付費，行最左邊嘅自動通關門好快就出咗去（但運氣唔好嘅係，我嘅行李等咗40分鐘 😅😅😅）
 
-**快速參考:** [2026最新入境程序-落機到出機場](/blog/bali-all-indonesia-arrival-guide/)
+**快速參考:** [2026最新入境程序-落機到出機場](/zh-hk/blog/bali-all-indonesia-arrival-guide/)
 
 ## Activity 推薦 & 心得
 
@@ -113,7 +113,7 @@ https://youtu.be/RodQvCZKwD0
 - **Merah Putih**：印尼菜，好味而且裝修靚，室內有舒服嘅冷氣，價錢略貴。
 - **La Brisa 峇里島**：靚嘅Beach club，影相效果極佳，食物同酒水都唔錯，可以直接行去隔離嘅沙灘。
 
-> 延伸閱讀：[被譽為是「峇里島最靚嘅餐廳」：La Brisa喺數以萬計嘅美食餐廳之中點樣脫穎而出？](/blog/canggu-la-brisa-restaurant-guide/)
+> 延伸閱讀：[被譽為是「峇里島最靚嘅餐廳」：La Brisa喺數以萬計嘅美食餐廳之中點樣脫穎而出？](/zh-hk/blog/canggu-la-brisa-restaurant-guide/)
 
 {{block:canggu}}
 
@@ -138,7 +138,7 @@ Inara Alas Harum
 
 ▶[Inara Alas Harum](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41581751) 訂房連結
 
-已收錄喺[【烏布住宿推薦】烏布泳池別墅私密天堂: 令人驚艷嘅峇里島villa推薦](/blog/ubud-villa-pool-guide/)
+已收錄喺[【烏布住宿推薦】烏布泳池別墅私密天堂: 令人驚艷嘅峇里島villa推薦](/zh-hk/blog/ubud-villa-pool-guide/)
 
 {{block:住宿}}
 

@@ -49,9 +49,9 @@ Bali terkenal sama pemandangan indah dan budaya yang beragam, makanya banyak tur
 
 Pengalaman Poon ngingetin kita, meski motor praktis, di tempat yang nggak familiar — apalagi jalanan rumit dan aturan lalu lintas beda sama negara asal — risiko kecelakaan naik drastis.
 
-> Baca Juga: [Panduan Sewa Motor di Bali! Lebih Baik Sewa Motor atau Pakai Sopir?](/blog/bali-motorbike-rental-guide/)
+> Baca Juga: [Panduan Sewa Motor di Bali! Lebih Baik Sewa Motor atau Pakai Sopir?](/id/blog/bali-motorbike-rental-guide/)
 
-> Baca Juga: [【Panduan Wisata Bali】Wajib Coba Buat Perjalanan Singkat! Aplikasi Panggil Ojek, Hemat Waktu & Tenaga!](/blog/bali-travel-app-motorcycle-taxi/)
+> Baca Juga: [【Panduan Wisata Bali】Wajib Coba Buat Perjalanan Singkat! Aplikasi Panggil Ojek, Hemat Waktu & Tenaga!](/id/blog/bali-travel-app-motorcycle-taxi/)
 
 https://youtube.com/shorts/fXVYdj4SZT0?si=YfMVHvDIsYBgs6D9
 
@@ -73,4 +73,4 @@ Semoga semua traveler yang akan ke Bali bisa menikmati liburan yang aman dan men
 
 👈 **Kembali ke Panduan Utama Liburan Mandiri ke Bali**
 
-Mau lihat paket lengkap untuk pemula? [Klik di sini baca «Panduan Utama Liburan Mandiri ke Bali 2026»](/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.
+Mau lihat paket lengkap untuk pemula? [Klik di sini baca «Panduan Utama Liburan Mandiri ke Bali 2026»](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.

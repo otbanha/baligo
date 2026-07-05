@@ -113,10 +113,10 @@ Julia Roberts主演嘅Eat, Pray, Love有好多喺峇里島拍攝嘅片段
 
 ## 更多峇里島：
 
-- [2025峇里島景點推薦攻略 ｜500個最新峇里島人氣景點一次蒐全](/blog/bali-top-500-attractions/)
-- [《World Travel Awards》峇里島榮獲2024年度全球最浪漫旅遊目的地殊榮](/blog/bali-world-travel-awards-2024/)
-- [峇里島家庭親子友善景點大全｜巴里島超過100樣適合親子同樂活動](/blog/bali-family-travel-guide/)
-- [適合年長者嘅峇里島旅遊地點全攻略](/blog/bali-senior-friendly-travel-guide/)
+- [2025峇里島景點推薦攻略 ｜500個最新峇里島人氣景點一次蒐全](/zh-hk/blog/bali-top-500-attractions/)
+- [《World Travel Awards》峇里島榮獲2024年度全球最浪漫旅遊目的地殊榮](/zh-hk/blog/bali-world-travel-awards-2024/)
+- [峇里島家庭親子友善景點大全｜巴里島超過100樣適合親子同樂活動](/zh-hk/blog/bali-family-travel-guide/)
+- [適合年長者嘅峇里島旅遊地點全攻略](/zh-hk/blog/bali-senior-friendly-travel-guide/)
 - 70+篇峇里島遊記大收集
 
 ## **常見問題 (FAQ)**
@@ -131,7 +131,7 @@ Julia Roberts主演嘅Eat, Pray, Love有好多喺峇里島拍攝嘅片段
 
 ### 3. **峇里島有咩地道美食推薦？**
 
-峇里島嘅美食絕對唔可以錯過，包括烤乳豬（Babi Guling）、沙嗲串燒（Sate Lilit）同印尼炒飯（Nasi Goreng）。另外，當地嘅新鮮海鮮同熱帶水果都值得一試。可以參考「[峇里島十大美食](/blog/bali-travel-tips/)」。
+峇里島嘅美食絕對唔可以錯過，包括烤乳豬（Babi Guling）、沙嗲串燒（Sate Lilit）同印尼炒飯（Nasi Goreng）。另外，當地嘅新鮮海鮮同熱帶水果都值得一試。可以參考「[峇里島十大美食](/zh-hk/blog/bali-travel-tips/)」。
 
 ### 4. **峇里島嘅住宿選擇多唔多？**
 
@@ -139,7 +139,7 @@ Julia Roberts主演嘅Eat, Pray, Love有好多喺峇里島拍攝嘅片段
 
 ### **5. 去峇里島使唔使簽證？**
 
-對於短期旅遊，一啲國家嘅旅客可以享受免簽待遇，例如新加坡、馬來西亞、香港等。台灣或者中國嘅遊客就仍然需要事先簽證。可以睇[【入境規定】2025峇里島旅遊前必完成嘅4大步驟](/blog/2025-01-11-67821654fd89780001f932b5/)。
+對於短期旅遊，一啲國家嘅旅客可以享受免簽待遇，例如新加坡、馬來西亞、香港等。台灣或者中國嘅遊客就仍然需要事先簽證。可以睇[【入境規定】2025峇里島旅遊前必完成嘅4大步驟](/zh-hk/blog/2025-01-11-67821654fd89780001f932b5/)。
 
 ## 📩 **立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！**
 

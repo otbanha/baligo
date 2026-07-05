@@ -49,16 +49,16 @@ Shuttle bus-nya bisa ngangkut 800 turis per hari dari parkiran ke pantai, tapi b
 
 Tim manajemen Pantai Pandawa juga cepat beradaptasi ngatur cara buat ngadepin lonjakan pengunjung. Misalnya pas Lebaran tahun ini, jumlah pengunjung per hari di Pantai Pandawa bisa tembus 2.500 sampai 3.000 orang — tantangan banget buat pengelola.
 
-> Baca juga: [Bali Ternyata Punya Lima Musim Liburan! Gimana Cara Pinter Ngindarin Musim Ramai?](/blog/bali-peak-season-travel-tips/)
+> Baca juga: [Bali Ternyata Punya Lima Musim Liburan! Gimana Cara Pinter Ngindarin Musim Ramai?](/id/blog/bali-peak-season-travel-tips/)
 
 Pemimpin lokal juga lagi mikirin zonasi baru, rencananya pantai bakal dibagi jadi beberapa area khusus: zona pantai umum, zona olahraga air, zona beach club, zona kuliner, plus satu area pantai pribadi buat acara privat kayak wedding atau lamaran.
 
-Pantai Pandawa terletak di antara Pantai Green Bowl (cek [video dari Xiao Jie Indonesia](https://youtu.be/8mzJm_UrjSg)) dan Pantai Gunung Payung. Kalau kamu mau cari satu dua tempat lain di dekat sini, lihat [【Panduan Uluwatu】47 Rekomendasi Tempat Makan, Main, dan Nongkrong di Uluwatu](/blog/uluwatu-guide/)
+Pantai Pandawa terletak di antara Pantai Green Bowl (cek [video dari Xiao Jie Indonesia](https://youtu.be/8mzJm_UrjSg)) dan Pantai Gunung Payung. Kalau kamu mau cari satu dua tempat lain di dekat sini, lihat [【Panduan Uluwatu】47 Rekomendasi Tempat Makan, Main, dan Nongkrong di Uluwatu](/id/blog/uluwatu-guide/)
 
 Tanah Barak dan Pantai Pandawa sebenarnya lebih dekat ke dua resor di pesisir timur Bali selatan, yaitu Nusa Dua atau Sanur. Cek panduan kuliner dan akomodasi kami di bawah ini:
 
-- [Panduan Nusa Dua](/blog/nusa-dua-guide/)
-- [Panduan Sanur](/blog/sanur-guide/)
+- [Panduan Nusa Dua](/id/blog/nusa-dua-guide/)
+- [Panduan Sanur](/id/blog/sanur-guide/)
 
 ## Tur Sehari Klook:
 
@@ -70,7 +70,7 @@ Jalan-jalan keliling Bali selatan naik VW convertible! Berhenti di Pantai Padang
 
 ## Pengalaman Seru:
 
-2024/06 Siang kami makan di [Icon Bali](/blog/icon-bali-shopping-mall-sanur/), sorenya sewa mobil dari Sanur ke Tanah Barak, menjelang magrib lanjut ke White Sand Beach Club yang nggak jauh dari situ. Santai setengah hari gini rasanya worth it banget, kalian bisa coba juga!
+2024/06 Siang kami makan di [Icon Bali](/id/blog/icon-bali-shopping-mall-sanur/), sorenya sewa mobil dari Sanur ke Tanah Barak, menjelang magrib lanjut ke White Sand Beach Club yang nggak jauh dari situ. Santai setengah hari gini rasanya worth it banget, kalian bisa coba juga!
 
 ![2023/06 Tanah Barak](https://images.gobaligo.id/vocus/vocus_9ceecc2ebeccbe53dbbd9d37872c50c3.jpg)
 

@@ -39,7 +39,7 @@ _srcHash: 71e5594efeea59010a12c9ee174ededc
 
 - - 巴厘岛是冲浪爱好者的天堂，库塔海滩、水明漾、坎古、乌鲁瓦图等地都是世界知名的冲浪胜地。
     - 在专业教练的指导下，即使是初学者也能体验到乘风破浪的快感。
-    - [【巴厘岛冲浪攻略】适合不同等级的冲浪海滩介绍](/blog/bali-surf-beaches-guide/)
+    - [【巴厘岛冲浪攻略】适合不同等级的冲浪海滩介绍](/zh-cn/blog/bali-surf-beaches-guide/)
 
 ### **2.水上活动：**
 
@@ -56,7 +56,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 - - 蓝梦岛/佩尼达岛一带拥有清澈的海水和丰富的珊瑚礁，是浮潜的绝佳地点。
     - 在色彩缤纷的珊瑚礁中穿梭，与热带鱼群共舞，留下难忘的回忆。
-    - [不用舟车劳顿的四个知名潜点](/blog/nusa-penida-snorkeling-guide/)
+    - [不用舟车劳顿的四个知名潜点](/zh-cn/blog/nusa-penida-snorkeling-guide/)
   **沙努尔搭船十分钟的浮潜圣地：**
 
 ![3.浮潜：](https://images.gobaligo.id/vocus/vocus_2b63fa1a7c1a8b0c7cf46359930783e9.png)
@@ -70,7 +70,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 - 在罗威纳海滩，您可以搭乘小船出海，观赏野生海豚在日出时分跃出海面的壮观景象。这是一次与海洋生物近距离接触的难忘体验。
 - [罗威纳海豚之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1024826&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dlovina%2520dolphin%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D62ac00bfec)
 
-▶[巴厘岛水上活动完整指南｜巴厘岛不只浮潜！15种意想不到的水上玩法](/blog/2026-bali-water-activities/)
+▶[巴厘岛水上活动完整指南｜巴厘岛不只浮潜！15种意想不到的水上玩法](/zh-cn/blog/2026-bali-water-activities/)
 
 ## **陆地冒险的刺激**
 
@@ -80,19 +80,19 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 - - 驾驶全地形车穿越丛林、稻田和河流，感受越野的刺激与快感。
     - 这是一种探索巴厘岛内陆风光的绝佳方式。
-    - [巴厘岛 ATV 四轮越野车探险（提醒事项+FAQ）](/blog/bali-atv-adventure-guide/)
+    - [巴厘岛 ATV 四轮越野车探险（提醒事项+FAQ）](/zh-cn/blog/bali-atv-adventure-guide/)
 
 ### 6.泛舟：
 
 - - 在阿勇河上体验刺激的泛舟之旅，欣赏沿途壮丽的峡谷和瀑布。
     - 与朋友或家人一同挑战湍急的河流，留下难忘的团队回忆。
-    - [巴厘岛泛舟攻略（泛舟常见问题FAQ）](/blog/bali-rafting-ayung-telaga-waja/)
-    - 另一种比泛舟更轻松，号称「宝宝版泛舟」的漂流河，可以参考[这里的介绍](/blog/nukuwera-river-tubing-adventure/)
+    - [巴厘岛泛舟攻略（泛舟常见问题FAQ）](/zh-cn/blog/bali-rafting-ayung-telaga-waja/)
+    - 另一种比泛舟更轻松，号称「宝宝版泛舟」的漂流河，可以参考[这里的介绍](/zh-cn/blog/nukuwera-river-tubing-adventure/)
 
 ### 7.丛林马力欧赛车：
 
 - - 在丛林里赛车是个非常特别的体验，能够让你一边欣赏丛林风景一边享受刺激感。
-    - [巴厘岛乌布 Jungle Cart Bali](/blog/ubud-jungle-cart-adventure/)
+    - [巴厘岛乌布 Jungle Cart Bali](/zh-cn/blog/ubud-jungle-cart-adventure/)
 
 ## **大自然的壮丽**
 
@@ -101,20 +101,20 @@ https://youtube.com/shorts/y5HMPegD5Rk
 ### **8.火山日出：**
 
 - - 攀登巴杜尔火山，迎接壮丽的日出，欣赏火山湖和周围群山的壮丽景色。这是一次充满挑战和惊喜的旅程。
-    - [徒步健行欣赏火山日出](/blog/mount-batur-sunrise-hike-tips/)
-    - [搭吉普车上火山看日出](/blog/batur-volcano-jeep-sunrise-tour/)
+    - [徒步健行欣赏火山日出](/zh-cn/blog/mount-batur-sunrise-hike-tips/)
+    - [搭吉普车上火山看日出](/zh-cn/blog/batur-volcano-jeep-sunrise-tour/)
 
 ### **9.丛林荡秋千：**
 
 ![9.丛林荡秋千：](https://images.gobaligo.id/vocus/vocus_d553645908858eefdee8ef82ec07084d.jpg)
 
 - - 在乌布的丛林中体验高空荡秋千，在绿意盎然的景色中尽情释放压力。
-    - [乌布玩秋千：巴厘岛最美的8个秋千拍照胜地｜乌布秋千/租礼服攻略](/blog/ubud-jungle-swings-photo-guide/)
+    - [乌布玩秋千：巴厘岛最美的8个秋千拍照胜地｜乌布秋千/租礼服攻略](/zh-cn/blog/ubud-jungle-swings-photo-guide/)
 
 ### **10.乌布山脊健走：**
 
 - - 健走在乌布山脊上，欣赏翠绿的稻田和壮丽的山谷，感受巴厘岛的宁静之美。
-    - [「乌布天空步道」Campuhan Ridge Walk介绍](/blog/ubud-campuhan-ridge-walk/)
+    - [「乌布天空步道」Campuhan Ridge Walk介绍](/zh-cn/blog/ubud-campuhan-ridge-walk/)
 
 ### **11.乌布丛林日出瑜伽＆冥想体验：**
 
@@ -124,12 +124,12 @@ https://youtube.com/shorts/y5HMPegD5Rk
 ### **12.乌鲁瓦图滑翔伞：**
 
 - 从乌鲁瓦图的悬崖上起飞，像鸟一样翱翔在天空，俯瞰壮丽的印度洋和海岸线。这是一次令人肾上腺素飙升的独特体验。
-- [参加体验 &注意事项](/blog/uluwatu-paragliding-ocean-view/)
+- [参加体验 &注意事项](/zh-cn/blog/uluwatu-paragliding-ocean-view/)
 
 ### **13.乌布瀑布探秘：**
 
 - 乌布周边有许多美丽的瀑布，例如：Tegenungan瀑布、Kanto Lampo瀑布和Tukad Cepung瀑布，每一个瀑布都拥有独特的魅力和吸引力。可以让你沉浸在大自然的壮丽之中。
-- [巴厘岛乌布附近的三大知名瀑布攻略](/blog/ubud-waterfalls-guide/)
+- [巴厘岛乌布附近的三大知名瀑布攻略](/zh-cn/blog/ubud-waterfalls-guide/)
 
 ## **放松身心的享受**
 
@@ -141,7 +141,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 ### **15.金巴兰夕阳晚餐：**
 
 - - 在金巴兰海滩品尝美味的海鲜烧烤，欣赏浪漫的夕阳美景。
-    - 不想被坑必看：[巴厘岛金巴兰9家海鲜餐厅：不踩雷推荐](/blog/jimbaran-seafood-restaurants-list/)
+    - 不想被坑必看：[巴厘岛金巴兰9家海鲜餐厅：不踩雷推荐](/zh-cn/blog/jimbaran-seafood-restaurants-list/)
 
 ### **16.看表演：**
 
@@ -153,7 +153,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 ![17.待在villa内：享受私密和阳光：](https://images.gobaligo.id/vocus/vocus_83e375c72f9c2ff3f495a1ed4af60bbd.png)
 
 - - 巴厘岛有非常多的豪华villa，找一间拥有私人泳池的villa，好好的放松，享受属于自己的时光。
-    - 享受私密和阳光[巴厘岛推荐villa大全](/blog/bali-private-villa-recommendations/)
+    - 享受私密和阳光[巴厘岛推荐villa大全](/zh-cn/blog/bali-private-villa-recommendations/)
 
 ## **探索巴厘岛的景点/文化**
 
@@ -162,7 +162,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 ### **18.500个最新巴厘岛人气景点一次搜全：**
 
 - - 巴厘岛拥有丰富的文化遗产和自然景观，如海神庙、圣泉寺、德哥拉朗梯田等。您可以安排一日游或多日游，深入探索巴厘岛的文化和历史。
-    - [500个最新巴厘岛人气景点一次搜全](/blog/bali-top-500-attractions/)
+    - [500个最新巴厘岛人气景点一次搜全](/zh-cn/blog/bali-top-500-attractions/)
 
 ## 更多推荐
 
@@ -173,76 +173,76 @@ https://youtube.com/shorts/y5HMPegD5Rk
 ### 19.**巴厘岛野生动物园（Taman Safari Bali）**
 
 - 适合亲子同游的野生动物园，可搭乘游园巴士穿越动物栖息地，与狮子、大象、犀牛近距离接触，仿佛身在非洲草原！
-- [巴厘岛亲子游不能错过：巴厘岛动物园 Bali Safari 要怎么玩乐、夜宿攻略](/blog/bali-safari-night-stay/)
+- [巴厘岛亲子游不能错过：巴厘岛动物园 Bali Safari 要怎么玩乐、夜宿攻略](/zh-cn/blog/bali-safari-night-stay/)
 
 ### 20.**巴厘岛海洋公园（Marine Safari Bali）**
 
 - 拥有多样水族生物与互动体验，还可与海豚合影，是兼具娱乐与教育价值的疗愈系景点。
-- [Marine Safari Bali 巴厘岛海洋野生动物园攻略](/blog/marine-safari-bali-guide/)
+- [Marine Safari Bali 巴厘岛海洋野生动物园攻略](/zh-cn/blog/marine-safari-bali-guide/)
 
 ### 21.22.23.丛林俱乐部 **Omma Day Club / Wanna Jungle Bar / Cretya Sunset /** TUJU Tropic Club & Lounge
 
 - 位于乌布的丛林俱乐部，享受无边泳池、特色调酒与音乐派对，边泡水边欣赏丛林夕阳，美得不可思议🌅
-- [巴厘岛乌布的瀑布酒吧 OMMA Dayclub：感受chill氛围，阳光下的惬意时光](/blog/ubud-omma-dayclub-tegenungan-waterfall/)
-- [Wanna Jungle Pool & Bar：IG爆红梯田泳池与脆皮鸭盛宴](/blog/wanna-jungle-pool-club-ubud/)
-- [Cretya Sunset，巴厘岛乌布秘境：最梦幻的日落天堂](/blog/cretya-sunset-ubud-paradise/)
+- [巴厘岛乌布的瀑布酒吧 OMMA Dayclub：感受chill氛围，阳光下的惬意时光](/zh-cn/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+- [Wanna Jungle Pool & Bar：IG爆红梯田泳池与脆皮鸭盛宴](/zh-cn/blog/wanna-jungle-pool-club-ubud/)
+- [Cretya Sunset，巴厘岛乌布秘境：最梦幻的日落天堂](/zh-cn/blog/cretya-sunset-ubud-paradise/)
 - [TUJU Tropic Club & Lounge 最近开业的一家日间俱乐部，拥有双层无边泳池](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1051935&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F138909-tuju-tropic-club-lounge-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D67ecf97825)
 
 ### 24.**乌布热气球体验**
 
 - 从空中俯瞰稻田、山谷与阿贡山，在夕阳中漂浮，是浪漫满点的巴厘岛限定活动。
-- [【巴厘岛新玩法】乌布热气球初体验！高空拥抱阿贡火山绝景](/blog/ubud-hot-air-balloon-agung-view/)
+- [【巴厘岛新玩法】乌布热气球初体验！高空拥抱阿贡火山绝景](/zh-cn/blog/ubud-hot-air-balloon-agung-view/)
 
 ### 25.**彭丽普兰村（Penglipuran Village）**
 
 - 这座传统村落拥有巴厘岛最具代表性的建筑风貌，村落干净整齐，是探索文化与拍美照的绝佳地点。
-- [穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/blog/penglipuran-village-bali-experience/)
+- [穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/zh-cn/blog/penglipuran-village-bali-experience/)
 
 ### 26.**仙女公园（Taman Dedari）**
 
 - 坐落于河谷之间的梦幻雕塑花园，巨型仙女雕像与自然景观交织，是静心散步与摄影的好地方。
-- [【乌布美食+美景推荐】Taman Dedari 仙女公园](/blog/taman-dedari-ubud-food-scenery/)
+- [【乌布美食+美景推荐】Taman Dedari 仙女公园](/zh-cn/blog/taman-dedari-ubud-food-scenery/)
 
 ### 27.**Lahangan Sweet**
 
 - 位于巴厘岛东部，是远眺壮丽阿贡山的秘境观景台，清晨或黄昏来访更能拍出云雾缭绕的绝美画面📸
-- [巴厘岛景点推荐：Lahangan Sweet ─ 绝美的阿贡山景观点 🌄](/blog/lahangan-sweet-volcano-view/)
+- [巴厘岛景点推荐：Lahangan Sweet ─ 绝美的阿贡山景观点 🌄](/zh-cn/blog/lahangan-sweet-volcano-view/)
 
 ### 28.29.**Tegalalang & Jatiluwih 梯田区**
 
 - Tegalalang 是乌布最热门的梯田打卡地，而 Jatiluwih 则是被联合国列为世界文化遗产的壮丽梯田，两者各具风格，都是巴厘岛不可错过的绿意奇景🌾
-- [巴厘岛Tegalalang德格拉朗、Jatiluwih贾提鲁维两大梯田区拜访攻略｜入场门票多少钱？最佳拜访时间/季节？](/blog/bali-rice-terraces-comparison/)
+- [巴厘岛Tegalalang德格拉朗、Jatiluwih贾提鲁维两大梯田区拜访攻略｜入场门票多少钱？最佳拜访时间/季节？](/zh-cn/blog/bali-rice-terraces-comparison/)
 
 ### 30.31.**探索圣泉**
 
 - 如圣泉寺（Tirta Empul）等地，可以体验当地人虔诚的净身仪式，让身心都获得洗涤与平静。
-- [【2025】Tirta Empul 圣泉寺完整指南：巴厘岛最神圣的净化水庙体验](/blog/tirta-empul-temple-guide/)
-- [探索巴厘岛的圣泉:从Tirta Gangga到Tirta Empul](/blog/bali-tirta-gangga-empul/)
+- [【2025】Tirta Empul 圣泉寺完整指南：巴厘岛最神圣的净化水庙体验](/zh-cn/blog/tirta-empul-temple-guide/)
+- [探索巴厘岛的圣泉:从Tirta Gangga到Tirta Empul](/zh-cn/blog/bali-tirta-gangga-empul/)
 
 ### 32.**火舞表演（Kecak Fire Dance）**
 
 - 在乌鲁瓦图断崖前观赏震撼的火舞与传统歌舞，夕阳与海景作为背景，气氛张力十足🔥
-- [巴厘岛六大必看卡恰火舞（Kecak Fire Dance）地点：一场视觉与文化的盛宴](/blog/bali-kecak-fire-dance-locations/)
+- [巴厘岛六大必看卡恰火舞（Kecak Fire Dance）地点：一场视觉与文化的盛宴](/zh-cn/blog/bali-kecak-fire-dance-locations/)
 
 ### 33~36.**假日市集（Weekend Markets）**
 
 - 在水明漾、坎古、乌鲁瓦图、沙努尔等地都有周末市集，贩售手作艺品、有机食品与当地设计，逛街也能感受在地生活氛围。
-- [【2024年版】还有在举办的巴厘岛四个假日市集：最接地气的购物体验](/blog/bali-weekend-markets-2026/)
+- [【2024年版】还有在举办的巴厘岛四个假日市集：最接地气的购物体验](/zh-cn/blog/bali-weekend-markets-2026/)
 
 ### 37.**La Brisa Bali**
 
 - 被誉为「巴厘岛最美餐厅」的海滨餐厅，位于坎古，拥有漂流木装潢与绝美夕阳海景，是品尝海鲜与拍照打卡的最佳去处🍹🌊
-- [被誉为是「巴厘岛最漂亮的餐厅」：La Brisa在数以万计的美食餐厅之中如何脱瘾而出？](/blog/canggu-la-brisa-restaurant-guide/)
+- [被誉为是「巴厘岛最漂亮的餐厅」：La Brisa在数以万计的美食餐厅之中如何脱瘾而出？](/zh-cn/blog/canggu-la-brisa-restaurant-guide/)
 
 ### 38.**Oneeighty Day Club**
 
 - 坐落于悬崖上的高空无边泳池，玻璃池底让人仿佛悬浮于海天之间，是高空控与网美的梦幻天堂！
-- [探索Oneeighty Day Club：巴厘岛悬崖边的游泳池极致美景](/blog/oneeighty-dayclub-uluwatu-pool/)
+- [探索Oneeighty Day Club：巴厘岛悬崖边的游泳池极致美景](/zh-cn/blog/oneeighty-dayclub-uluwatu-pool/)
 
 ### 39.**金塔玛尼景观火山咖啡厅巡礼 🌄☕**
 
 - 喜欢山景与咖啡香的你绝对不能错过！金塔玛尼拥有12间以上的火山景观咖啡厅，可以一边品尝咖啡、一边欣赏巴图尔火山与湖泊美景。这些咖啡厅不但风景迷人，还超好拍！适合安排个追着晨曦或悠闲下午来杯手冲咖啡、看云起云落。
-- [巴厘岛金塔玛尼12大景观火山咖啡厅推荐 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
+- [巴厘岛金塔玛尼12大景观火山咖啡厅推荐 🌄☕](/zh-cn/blog/kintamani-volcano-cafes-restaurants/)
 
 ### 40.巴杜尔火山湖游船湖
 
@@ -310,4 +310,4 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 👈 **回到巴厘岛自由行终极指南**
 
-想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/zh-cn/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

@@ -120,7 +120,7 @@ Sanur also boasts several spacious air-conditioned indoor playgrounds! If the we
 
 ![More Sanur Food and Fun](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
-Sanur is a tranquil seaside town on Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. With family-friendly resorts, traditional markets, and a wealth of local cuisine, it's an ideal destination for those seeking a slower pace and cultural exploration. Whether strolling along the coastline or immersing yourself in local charm, Sanur offers an incredibly relaxing holiday experience! Want to learn more about Sanur? [Click here](/blog/sanur-guide/).
+Sanur is a tranquil seaside town on Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. With family-friendly resorts, traditional markets, and a wealth of local cuisine, it's an ideal destination for those seeking a slower pace and cultural exploration. Whether strolling along the coastline or immersing yourself in local charm, Sanur offers an incredibly relaxing holiday experience! Want to learn more about Sanur? [Click here](/en/blog/sanur-guide/).
 
 {{block:klook}}
 
@@ -144,7 +144,7 @@ The main beach areas have clean public changing rooms and restrooms, but for nur
 
 ### **Is Sanur too boring? Will kids have fun?**
 
-Sanur offers a mix of beaches, water activities, large indoor playgrounds, markets, art, and dining, ensuring kids have different experiences every day. Check out Sanur's top 10 family activities and food recommendations [here](/blog/sanur-family-travel-guide-2/)
+Sanur offers a mix of beaches, water activities, large indoor playgrounds, markets, art, and dining, ensuring kids have different experiences every day. Check out Sanur's top 10 family activities and food recommendations [here](/en/blog/sanur-family-travel-guide-2/)
 
 ### **Is the seawater in Sanur clean?**
 

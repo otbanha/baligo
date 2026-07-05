@@ -33,7 +33,7 @@ Most Bali enthusiasts have heard of 'Nyepi,' a special annual day on the island.
 
 Nyepi Laut is a sacred festival established by Bali residents to honor Baruna, the god of the sea (also one of Bali's deities). It is primarily celebrated by the residents of **Nusa Penida**, **Ceningan Island**, and **Lembongan Island**, three islands off Bali's coast. On this day, all marine activities will cease entirely—whether tourist boats, fishing, or water sports like snorkeling and surfing.
 
-Further reading: [2025 Nyepi Day Guide](/blog/2025-bali-nyepi-day-guide/)
+Further reading: [2025 Nyepi Day Guide](/en/blog/2025-bali-nyepi-day-guide/)
 
 ## **How extensive are the impacts?**
 
@@ -57,7 +57,7 @@ Starting early on October 19, all water activities will gradually return to norm
 
 ![When Will Normalcy Resume?](https://images.gobaligo.id/vocus/vocus_5ed269a843a5f1ff7a8651552695af98.png)
 
-Further Reading: [Bali - Nusa Penida Complete Guide: Maps, Ferries, Accommodation, Transportation, Private Tours, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
+Further Reading: [Bali - Nusa Penida Complete Guide: Maps, Ferries, Accommodation, Transportation, Private Tours, Activities, Photography, Attractions](/en/blog/nusa-penida-guide/)
 
 ## **Frequently Asked Questions**
 
@@ -87,7 +87,7 @@ It is advisable to confirm arrangements with your accommodation in advance and e
 
 ### 7. When is 'Ocean Day of Silence' in 2025?
 
-If you're planning a trip to Bali in 2025, don't miss our comprehensive '[2025 Indonesia National Holidays & Bali Festivals Complete Guide](/blog/bali-indonesia-holidays-2025/)'.
+If you're planning a trip to Bali in 2025, don't miss our comprehensive '[2025 Indonesia National Holidays & Bali Festivals Complete Guide](/en/blog/bali-indonesia-holidays-2025/)'.
 
 ## **Conclusion**
 

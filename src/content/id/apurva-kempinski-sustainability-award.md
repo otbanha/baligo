@@ -116,8 +116,8 @@ Penghargaan The Apurva Kempinski Bali sebagai 'Best Sustainable Hotel' di ULTRAs
 
 Kempinski berlokasi di **Nusa Dua**, di pesisir timur Bali bagian selatan. Dari bandara, naik jalan tol berbayar cuma butuh 30 menit perjalanan. Nusa Dua punya pantai berpasir keemasan, air laut jernih, dan vegetasi tropis yang rimbun — tempat ideal buat menikmati matahari, pasir, dan laut.
 
-Cek juga [peta panduan](/blog/nusa-dua-guide/) kami yang berisi 40 rekomendasi akomodasi, kuliner, dan aktivitas!
+Cek juga [peta panduan](/id/blog/nusa-dua-guide/) kami yang berisi 40 rekomendasi akomodasi, kuliner, dan aktivitas!
 
 ![努沙杜瓦攻略地圖](https://images.gobaligo.id/vocus/vocus_63cd2daa53e7c8cb15724fdcda0ec1f9.png)
 
-[Peta Panduan Nusa Dua](/blog/nusa-dua-guide/)
+[Peta Panduan Nusa Dua](/id/blog/nusa-dua-guide/)

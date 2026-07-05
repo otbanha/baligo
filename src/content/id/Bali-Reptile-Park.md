@@ -44,7 +44,7 @@ Di sana, tersembunyi dunia fantasi yang jarang diketahui turis — **Bali Reptil
 
 Ini bukan sekadar kebun binatang biasa. Tempat ini lebih kayak museum hidup yang merangkum ekosistem reptil dari seluruh kepulauan Indonesia. Yang lebih keren lagi, lokasinya **tepat di sebelah Bali Bird Park**, satu parkiran, tinggal jalan kaki beberapa langkah aja udah bisa pindah suasana dari 'dunia hewan melata yang sunyi' ke 'surga burung warna-warni'. Kalau waktunya diatur pas, kamu pasti bisa main di dua kerajaan hewan yang beda banget tapi sama-sama seru ini!
 
-➡ Rekomendasi taman bermain keluarga di Bali lainnya: [Panduan Lengkap 10 Taman Bermain Keluarga Terbaik di Bali](/blog/top-10-kids-attractions-in-bali/)
+➡ Rekomendasi taman bermain keluarga di Bali lainnya: [Panduan Lengkap 10 Taman Bermain Keluarga Terbaik di Bali](/id/blog/top-10-kids-attractions-in-bali/)
 
 ## Kenapa Tempat Ini Wajib Dikunjungi?
 
@@ -142,7 +142,7 @@ Kedua taman punya restoran sendiri. Restoran di Reptile Park lebih sederhana, se
 **【Sore】Bali Bird Park — Saran tinggal 3-4 jam**
 Setelah makan siang, jalan kaki aja ke Bird Park di sebelah! Tamannya luas banget, punya lebih dari **250 spesies, ribuan burung** dari kepulauan Indonesia dan seluruh dunia. Kamu bisa masuk ke kandang raksasa, lihat burung rangkong dan nuri terbang di atas kepala; jangan lewatkan **pertunjukan nuri** dan **pertunjukan burung pemangsa** yang dijadwalkan tiap hari — keren abis! Taman ini juga didesain dengan nuansa tropis, ada air terjun, kolam teratai, bangunan tradisional Bali — foto di mana aja kayak kartu pos.
 
-Penjelasan detail: [Bali Bird Park Panduan Lengkap: Spesies Burung Langka, Aktivitas Interaktif, dan Petualangan Konservasi Ekosistem](https://gobaligo.id/blog/bali-bird-park-guide/)
+Penjelasan detail: [Bali Bird Park Panduan Lengkap: Spesies Burung Langka, Aktivitas Interaktif, dan Petualangan Konservasi Ekosistem](https://gobaligo.id/id/blog/bali-bird-park-guide/)
 
 > Beli tiket online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D9f20741f36) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-bird-park-80525/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -240,6 +240,6 @@ Pas liburan ke Bali berikutnya, coba deh masukin taman reptil yang unik ini ke i
 
 > Beli tiket online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F37955-bali-reptile-park-ticket%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7db7e3e24e) [Kkday](https://www.kkday.com/zh-tw/product/593869?qs=Bali+Reptile+Park&cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-reptile-park-128527409/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
-➡ Rekomendasi taman bermain keluarga di Bali lainnya: [Panduan Lengkap 10 Taman Bermain Keluarga Terbaik di Bali](/blog/top-10-kids-attractions-in-bali/)
+➡ Rekomendasi taman bermain keluarga di Bali lainnya: [Panduan Lengkap 10 Taman Bermain Keluarga Terbaik di Bali](/id/blog/top-10-kids-attractions-in-bali/)
 
 {{block:戶外}}

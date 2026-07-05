@@ -76,7 +76,7 @@ https://www.youtube.com/watch?v=sfFytMFJUgE
 
 Bali's Ayana Resort is a massive resort complex beloved by travelers, covering 90 hectares. Within the complex, there are four hotel zones with different styles, each representing a different level of luxury, 19 restaurants and bars, 14 different pools, an 18-hole golf course, a kids' club, sunset yoga, the famous Rock Bar, a private beach, and more—plus unparalleled ocean views!
 
-For detailed introductions to these four hotels, resort facilities, Rock Bar reservation tips, room rates, and 13 standout highlights... be sure to check out [our feature article](/blog/ayana-resort-bali-guide/)
+For detailed introductions to these four hotels, resort facilities, Rock Bar reservation tips, room rates, and 13 standout highlights... be sure to check out [our feature article](/en/blog/ayana-resort-bali-guide/)
 
 ## Book it now!
 

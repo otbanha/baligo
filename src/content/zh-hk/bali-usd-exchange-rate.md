@@ -57,9 +57,9 @@ _srcHash: 14dcb1190eced83d9e1a5cd794ba5648
 
 峇里島係一個讓人心曠神怡嘅度假勝地，唔值得因為貨幣兌換嘅問題而影響我哋嘅心情。放開心胸，暢遊峇里島，享受呢個獨特嘅文化同美麗嘅自然景觀啦！
 
-> 延伸閱讀：[換匯懶人包、信用店家推薦](/blog/bali-currency-exchange-guide/)
+> 延伸閱讀：[換匯懶人包、信用店家推薦](/zh-hk/blog/bali-currency-exchange-guide/)
 
 **快速參考：**
 
-- [印尼/峇里島換匯：直接換 vs 先換美金再換印尼盾，邊個划算？](/blog/bali-currency-exchange-tips/)
-- [峇里島換錢血淚史：團友親身經歷揭密，千祈唔好貪小便宜！](/blog/bali-money-exchange-scams-2/)
+- [印尼/峇里島換匯：直接換 vs 先換美金再換印尼盾，邊個划算？](/zh-hk/blog/bali-currency-exchange-tips/)
+- [峇里島換錢血淚史：團友親身經歷揭密，千祈唔好貪小便宜！](/zh-hk/blog/bali-money-exchange-scams-2/)

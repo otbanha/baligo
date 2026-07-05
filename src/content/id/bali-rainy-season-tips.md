@@ -76,7 +76,7 @@ https://youtube.com/shorts/ymx-kClfA1I
 
 - Baju lengan panjang tipis (buat ke pura atau kalau malam dingin)
 
-**Referensi Cepat:** [Perlu bawa jaket ke Bali? Panduan Packing Bali: 8 Baju Wajib Bawa](/blog/bali-packing-essentials/)
+**Referensi Cepat:** [Perlu bawa jaket ke Bali? Panduan Packing Bali: 8 Baju Wajib Bawa](/id/blog/bali-packing-essentials/)
 
 ## Tips Transportasi Musim Hujan
 
@@ -96,7 +96,7 @@ https://youtube.com/shorts/ymx-kClfA1I
 6. Berburu Air Terjun: Debit air paling besar di musim hujan, Air Terjun Sekumpul dan Tegenungan keren abis!
 7. Wisata Budaya: Kunjungi pura, nonton pertunjukan tari tradisional (banyak yang di dalam ruangan).
 
-**Referensi Cepat:** [60 Rencana Alternatif Saat Hujan di Bali](/blog/2026-bali-indoor-activities/)
+**Referensi Cepat:** [60 Rencana Alternatif Saat Hujan di Bali](/id/blog/2026-bali-indoor-activities/)
 
 ## Saran Jujur dari Aku
 

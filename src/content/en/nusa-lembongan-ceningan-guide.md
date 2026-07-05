@@ -41,8 +41,8 @@ When visiting Nusa Lembongan, you'll experience a completely different, more rel
 
 **This is the first part of our Nusa Lembongan/Nusa Ceningan travel guide. Want to know the best restaurants and accommodations on Nusa Lembongan and Nusa Ceningan? Check out our guide:**
 
-- [【Nusa Lembongan Guide Part 2】Food Recommendations](/blog/nusa-lembongan-restaurants/)
-- [【Nusa Lembongan Guide Part 3】Best Accommodations](/blog/nusa-lembongan-ceningan-accommodation-guide/)
+- [【Nusa Lembongan Guide Part 2】Food Recommendations](/en/blog/nusa-lembongan-restaurants/)
+- [【Nusa Lembongan Guide Part 3】Best Accommodations](/en/blog/nusa-lembongan-ceningan-accommodation-guide/)
 
 ![藍夢島/金銀島六大住宿區域](https://images.gobaligo.id/vocus/vocus_98e5ac2df0cf847a9ace93ee013d74e4.jpg)
 
@@ -140,7 +140,7 @@ Besides diving and snorkeling, Nusa Lembongan offers a variety of water activiti
 
 If time permits, consider arranging a trip to Nusa Penida. This larger island boasts spectacular natural landscapes, such as the famous Kelingking Beach, renowned for its breathtaking dinosaur-head-shaped cliffs. Broken Beach and Angel's Billabong are also must-visit spots. The beauty of these locations is unforgettable and a paradise for photography enthusiasts.
 
-For a detailed guide, refer to our comprehensive "[Nusa Penida Guide](/blog/nusa-penida-guide/)".
+For a detailed guide, refer to our comprehensive "[Nusa Penida Guide](/en/blog/nusa-penida-guide/)".
 
 ## Island Cuisine and Nightlife
 
@@ -150,7 +150,7 @@ Nusa Lembongan's restaurants and beach clubs offer a diverse range of culinary o
 
 ![Island Cuisine and Nightlife](https://images.gobaligo.id/vocus/vocus_4658ef6acc04406ea26445d61ca062df.jpg)
 
-Here are 30 recommended restaurants, bars, and beach clubs on Nusa Lembongan and Nusa Ceningan: [Nusa Lembongan Guide Part 2: Food & Dining](/blog/nusa-lembongan-restaurants/)
+Here are 30 recommended restaurants, bars, and beach clubs on Nusa Lembongan and Nusa Ceningan: [Nusa Lembongan Guide Part 2: Food & Dining](/en/blog/nusa-lembongan-restaurants/)
 
 ## Transportation
 

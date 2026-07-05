@@ -50,7 +50,7 @@ Terima kasih! [谢谢]的意思
 - 炸香蕉（pisang goreng）▶[介绍](https://youtu.be/EKJ4-jvhTiU?t=276)
 - Martabak甜蛋饼（martabak manis）▶[介绍](https://youtu.be/EKJ4-jvhTiU?t=185)
 - 酪梨果汁（jus alpukat）▶[介绍](https://youtu.be/FphhiUzB7gM?t=311)
-- 这里还有[巴厘岛十大美食第二版](/blog/bali-top-10-foods/)喔！
+- 这里还有[巴厘岛十大美食第二版](/zh-cn/blog/bali-top-10-foods/)喔！
 
 ### 推荐的瓶装水品牌
 
@@ -63,14 +63,14 @@ Terima kasih! [谢谢]的意思
 ## 注意事项
 
 - [巴厘岛交通的三个秘技](https://www.youtube.com/watch?v=KQwrSiqq_Dw&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW&index=4)
-- 我信你个鬼！在巴厘岛[别相信Google地图！](/blog/bali-google-maps-warning/)
+- 我信你个鬼！在巴厘岛[别相信Google地图！](/zh-cn/blog/bali-google-maps-warning/)
 - 『蓝鸟』过时了！现在印尼/巴厘岛都用手机叫车了！（附教学）
-- [旅游水土不服、上吐下泻怎么办？](/blog/bali-travel-health-tips/)
-- 印尼巴厘岛旅游必学的[一句接地气短语](/blog/bali-travel-indonesian-phrase/)
-- 一定要随身携带卫生纸！为什么？[请看这里](/blog/bali-toilet-paper-travel-tip/)
-- 印尼/巴厘岛的旅游禁忌！[千万别碰它](/blog/bali-drug-laws-warning/)
-- [巴厘岛住哪一区最好？哪一区最不好？](/blog/kuta-bali-accommodation-pros-cons/)
-- 巴厘岛最可怕的动物，不是狮子老虎，[竟然是「它」](/blog/bali-monkey-safety-tips/)
+- [旅游水土不服、上吐下泻怎么办？](/zh-cn/blog/bali-travel-health-tips/)
+- 印尼巴厘岛旅游必学的[一句接地气短语](/zh-cn/blog/bali-travel-indonesian-phrase/)
+- 一定要随身携带卫生纸！为什么？[请看这里](/zh-cn/blog/bali-toilet-paper-travel-tip/)
+- 印尼/巴厘岛的旅游禁忌！[千万别碰它](/zh-cn/blog/bali-drug-laws-warning/)
+- [巴厘岛住哪一区最好？哪一区最不好？](/zh-cn/blog/kuta-bali-accommodation-pros-cons/)
+- 巴厘岛最可怕的动物，不是狮子老虎，[竟然是「它」](/zh-cn/blog/bali-monkey-safety-tips/)
 - 巴厘岛旅游要给小费吗？小费怎么给？[巴厘岛各种场合的小费要给多少？](https://youtu.be/B_oT905RkQw)
 - [印尼/巴厘岛三大必备APP](https://www.youtube.com/watch?v=4p8fliUxn0A&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW&index=8)
 - 如何选择住宿区域？[巴厘岛住宿指南懒人包](https://s.id/baliguide1)

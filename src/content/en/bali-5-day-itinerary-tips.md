@@ -46,11 +46,11 @@ Although this Bali trip was only 5 days and 4 nights, it felt like the actual pl
 11. Charging Adapter: Remember to bring a charging adapter or ask the hotel if they can lend one.
 12. Additional Taxes: Some restaurants and massage shops may charge additional taxes, and credit card payments might incur a 3% surcharge.
 
-> [Essential Reading for Indonesia/Bali Travel: Complete Guide to Voltage and Socket Types!](/blog/bali-voltage-adapter-tips/)
+> [Essential Reading for Indonesia/Bali Travel: Complete Guide to Voltage and Socket Types!](/en/blog/bali-voltage-adapter-tips/)
 
-> [Should You Tip in Bali Travel? How to Tip? How Much to Tip in Various Situations in Bali?](/blog/bali-tipping-guide-driver-spa/)
+> [Should You Tip in Bali Travel? How to Tip? How Much to Tip in Various Situations in Bali?](/en/blog/bali-tipping-guide-driver-spa/)
 
-> [Essential Collection: Highly Recommended SPAs in Bali Organized by Region for Easier Searching](/blog/spa/)
+> [Essential Collection: Highly Recommended SPAs in Bali Organized by Region for Easier Searching](/en/blog/spa/)
 
 ## Itinerary Planning
 
@@ -60,7 +60,7 @@ Although this Bali trip was only 5 days and 4 nights, it felt like the actual pl
 
 - Upon arriving in Bali, the first thing to do is exchange currency for Indonesian Rupiah to facilitate spending during your trip.
 
-> [Indonesia/Bali Currency Exchange Guide: What currency is used in Indonesia/Bali? How to get the best exchange rate? Where is the best place to exchange money?](/blog/bali-currency-exchange-guide/)
+> [Indonesia/Bali Currency Exchange Guide: What currency is used in Indonesia/Bali? How to get the best exchange rate? Where is the best place to exchange money?](/en/blog/bali-currency-exchange-guide/)
 
 **2. Check-in at Ubud Hotel**
 
@@ -127,7 +127,7 @@ Editor's Note: Ubud's ATV tours typically traverse tropical rainforests, rivers,
 
 There's also a 'Volcano ATV Tour,' where you'll trek through dense forests, climb black lava slopes, and conquer challenging off-road terrains. The guide will lead you through these varied landscapes, letting you fully experience the thrill and excitement of ATV riding.
 
-Reference: [Bali ATV Quad Bike Adventure: Feel the Excitement and Freedom of a Tropical Paradise (Reminders + FAQ + Operator Recommendations)](/blog/bali-atv-adventure-guide/)
+Reference: [Bali ATV Quad Bike Adventure: Feel the Excitement and Freedom of a Tropical Paradise (Reminders + FAQ + Operator Recommendations)](/en/blog/bali-atv-adventure-guide/)
 
 > [Ubud ATV Off-Road Adventure Discount Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F6595-atv-quad-bike-adventure-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D937776272b)
 
@@ -144,7 +144,7 @@ Reference: [Bali ATV Quad Bike Adventure: Feel the Excitement and Freedom of a T
 
 Editor's Note: For adventure enthusiasts who love challenges, participating in a rafting activity is an extremely attractive option. The rivers around Ubud wind through blue valleys and jungles, offering adventurers a brand-new exploration journey. During this adventure, you'll traverse pleasant landscapes, encountering both rapids and calm waterways, allowing you to fully experience the joy of both excitement and relaxation. This is not just an adventure, but also an opportunity to intimately connect with nature, feeling the abundant vitality of the water, trees, and earth.
 
-Reference: [Bali Rafting FAQ: Can You Do It Without Swimming? Age Limits, Safety Tips, and Ayung River vs Telaga Waja Full Analysis](/blog/bali-rafting-ayung-telaga-waja/)
+Reference: [Bali Rafting FAQ: Can You Do It Without Swimming? Age Limits, Safety Tips, and Ayung River vs Telaga Waja Full Analysis](/en/blog/bali-rafting-ayung-telaga-waja/)
 
 > [Ayung River Rafting](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)
 
@@ -161,7 +161,7 @@ Reference: [Bali Rafting FAQ: Can You Do It Without Swimming? Age Limits, Safety
 
 Editor's Note: In Ubud, even swinging can become an exotic experience. In some specialized spots in Ubud, you'll find various uniquely designed swings hanging among green trees or facing stunning valley views. Swinging isn't just a way to play; it's also an excellent method to appreciate Ubud's beauty in tranquility. Swing freely, let your heart sway with the breeze, and feel a sense of ease and comfort.
 
-> [Ubud Swing Guide: Top 8 Most Beautiful Jungle Swings - Dress Rental Tips, Photography Angles & Crowd Avoidance](/blog/ubud-jungle-swings-photo-guide/)
+> [Ubud Swing Guide: Top 8 Most Beautiful Jungle Swings - Dress Rental Tips, Photography Angles & Crowd Avoidance](/en/blog/ubud-jungle-swings-photo-guide/)
 
 **5. Dinner**
 
@@ -253,7 +253,7 @@ Editor's Note: Visitors should note that water activities in Nusa Dua are quite 
 
 - Highlights: There are two cliff viewpoints that require ticket purchases, perfect for taking memorable photos. There are scenic views along the way, but we didn't stay long due to time constraints.
 
-Reference: [Bali Cliff Road Batu Barak Travel Guide: Entrance Fees, Road Conditions, and Uluwatu South Day Trip Planning](/blog/batu-barak-cliff-road/)
+Reference: [Bali Cliff Road Batu Barak Travel Guide: Entrance Fees, Road Conditions, and Uluwatu South Day Trip Planning](/en/blog/batu-barak-cliff-road/)
 
 **5. Jimbaran Sunset**
 
@@ -264,9 +264,9 @@ Reference: [Bali Cliff Road Batu Barak Travel Guide: Entrance Fees, Road Conditi
 - Highlight: Choose to ride horses or camels at sunset to experience the unique beauty of Jimbaran.
 - Check online for many sunset photography tips to capture great memories.
 
-> [Master the Best Bali Sunset Viewing Guide: Seven Bali Sunset Spots, How Many Have You Visited?](/blog/bali-sunset-spots-guide/)
+> [Master the Best Bali Sunset Viewing Guide: Seven Bali Sunset Spots, How Many Have You Visited?](/en/blog/bali-sunset-spots-guide/)
 
-> [11 Jimbaran Seafood Restaurants in Bali: No-Fail Recommendations](/blog/jimbaran-seafood-restaurants-list/)
+> [11 Jimbaran Seafood Restaurants in Bali: No-Fail Recommendations](/en/blog/jimbaran-seafood-restaurants-list/)
 
 **6. Massage**
 
@@ -296,7 +296,7 @@ Book [Naughty Nuri's Warung Dining Experience](https://affiliate.klook.com/redir
 
 - Shopping: It's best to research what you want to buy beforehand, otherwise you might get overwhelmed. Visit local souvenir shops and pick up some unique items to bring home.
 
-> [【Reader Recommendations】Six Categories, Over 20 Bali Souvenir Recommendations: The Perfect Choices to Preserve Precious Memories](/blog/bali-souvenirs-gift-guide/)
+> [【Reader Recommendations】Six Categories, Over 20 Bali Souvenir Recommendations: The Perfect Choices to Preserve Precious Memories](/en/blog/bali-souvenirs-gift-guide/)
 
 **3. Kuta Activities**
 

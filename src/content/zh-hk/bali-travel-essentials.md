@@ -31,24 +31,24 @@ https://youtu.be/0M0voLfFLrQ
 
 ### 入境、簽證嘅流程：
 
-- [2024峇里島入境變革一分鐘搞掂：印尼/峇里島入境流程 - 落機/過海關/到攞行李嘅流程](/blog/2025-bali-immigration-process/)
+- [2024峇里島入境變革一分鐘搞掂：印尼/峇里島入境流程 - 落機/過海關/到攞行李嘅流程](/zh-hk/blog/2025-bali-immigration-process/)
 
 ### 景點/行程推薦：
 
-- [2025必去峇里島景點攻略，500個最新人氣景點一次睇晒](/blog/bali-top-500-attractions/)
-- [爽玩峇里島自由行攻略：交通、住宿、景點、美食、購物、夜生活，全方位規劃](/blog/bali-free-travel-guide/)
+- [2025必去峇里島景點攻略，500個最新人氣景點一次睇晒](/zh-hk/blog/bali-top-500-attractions/)
+- [爽玩峇里島自由行攻略：交通、住宿、景點、美食、購物、夜生活，全方位規劃](/zh-hk/blog/bali-free-travel-guide/)
 
 ### 峇里島腸胃炎同飲用水推薦：
 
-- [峇里島旅行健康小貼士：峇里島嘅飲用水同腹瀉指南](/blog/bali-travel-health-tips/)
+- [峇里島旅行健康小貼士：峇里島嘅飲用水同腹瀉指南](/zh-hk/blog/bali-travel-health-tips/)
 
 ### 貨幣同換匯：
 
-- [印尼/峇里島旅遊換匯懶人包：印尼/峇里島用咩錢？點樣換錢最抵？去邊度換錢最好？](/blog/bali-currency-exchange-guide/)
+- [印尼/峇里島旅遊換匯懶人包：印尼/峇里島用咩錢？點樣換錢最抵？去邊度換錢最好？](/zh-hk/blog/bali-currency-exchange-guide/)
 
 ### 關於現金：
 
-- [峇里島旅遊要準備幾多現金？](/blog/bali-travel-cash-budget-guide/)
+- [峇里島旅遊要準備幾多現金？](/zh-hk/blog/bali-travel-cash-budget-guide/)
 
 ### 防曬/防蚊去邊度買？
 
@@ -56,15 +56,15 @@ https://youtu.be/0M0voLfFLrQ
 
 ### 行動電源/充電寶攜帶新規定：
 
-- [行動電源/充電寶同隨身USB風扇/掛頸風扇可唔可以帶上飛機？2025年最新規定總整理](/blog/airplane-power-bank-fan-rules-2025/)
+- [行動電源/充電寶同隨身USB風扇/掛頸風扇可唔可以帶上飛機？2025年最新規定總整理](/zh-hk/blog/airplane-power-bank-fan-rules-2025/)
 
 ### 攜帶藥品：
 
-- [攜帶安眠藥/特殊處方藥物去印尼/峇里島嘅重要注意事項](/blog/bali-medication-import-guide/)
+- [攜帶安眠藥/特殊處方藥物去印尼/峇里島嘅重要注意事項](/zh-hk/blog/bali-medication-import-guide/)
 
 ### 第一次去峇里島必讀：
 
-- [第一次去峇里島必睇嘅32項旅遊攻略](/blog/bali-ultimate-guide-2026/)
+- [第一次去峇里島必睇嘅32項旅遊攻略](/zh-hk/blog/bali-ultimate-guide-2026/)
 
 ***
 
@@ -76,12 +76,12 @@ https://youtu.be/0M0voLfFLrQ
 
 ## 去峇里島要帶幾多現金？
 
-建議帶夠美金現鈔去當地授權找換店兌換，同時用信用卡同 GoPay 電子錢包分散風險，詳細金額建議睇[峇里島現金預算指南](/blog/bali-travel-cash-budget-guide/)。
+建議帶夠美金現鈔去當地授權找換店兌換，同時用信用卡同 GoPay 電子錢包分散風險，詳細金額建議睇[峇里島現金預算指南](/zh-hk/blog/bali-travel-cash-budget-guide/)。
 
 ## 尿袋可以帶上飛機嗎？
 
-多數航空公司規定尿袋一定要隨身帶、唔可以寄艙，而且容量有上限，出發前請跟最新規定確認，詳情睇[尿袋攜帶規定整理](/blog/airplane-power-bank-fan-rules-2025/)。
+多數航空公司規定尿袋一定要隨身帶、唔可以寄艙，而且容量有上限，出發前請跟最新規定確認，詳情睇[尿袋攜帶規定整理](/zh-hk/blog/airplane-power-bank-fan-rules-2025/)。
 
 ## 安眠藥或處方藥可以帶去印尼嗎？
 
-要特別留意，印尼對特定管制藥物查得好嚴，帶處方藥建議準備英文診斷證明同如實申報，詳細規定睇[攜帶處方藥物注意事項](/blog/bali-medication-import-guide/)。
+要特別留意，印尼對特定管制藥物查得好嚴，帶處方藥建議準備英文診斷證明同如實申報，詳細規定睇[攜帶處方藥物注意事項](/zh-hk/blog/bali-medication-import-guide/)。

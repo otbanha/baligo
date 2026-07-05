@@ -43,7 +43,7 @@ _srcHash: e13aeba5a98c67fdb4e94ed9f4241dea
 
 庫塔係峇里島上各種人種嘅大熔爐
 
-庫塔呢度有非常多樣嘅活動﹨景點﹨住宿選擇，我哋準備嘅攻略建議你可以保存起嚟 >>[庫塔旅遊攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集](/blog/kuta-guide/)
+庫塔呢度有非常多樣嘅活動﹨景點﹨住宿選擇，我哋準備嘅攻略建議你可以保存起嚟 >>[庫塔旅遊攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集](/zh-hk/blog/kuta-guide/)
 
 ## 雷吉安 (Legian)
 
@@ -59,7 +59,7 @@ _srcHash: e13aeba5a98c67fdb4e94ed9f4241dea
 
 想睇吓水明漾嘅樣 >>[請參考小傑視頻嘅介紹](https://youtu.be/uFv_4Wr6YsI?si=EBJL09xoRoIQJfyD&t=181)
 
-到水明漾旅遊，務必參考我哋嘅>>[水明漾Seminyak旅遊攻略地圖](/blog/seminyak-guide/)：100個地點詳盡介紹！
+到水明漾旅遊，務必參考我哋嘅>>[水明漾Seminyak旅遊攻略地圖](/zh-hk/blog/seminyak-guide/)：100個地點詳盡介紹！
 
 ![水明漾有一種高級的氛圍](https://images.gobaligo.id/vocus/vocus_e236bcb399e2d79bf7b0b77f24166b71.png)
 
@@ -67,10 +67,10 @@ _srcHash: e13aeba5a98c67fdb4e94ed9f4241dea
 
 想住喺水明漾，您亦可以參考我哋推薦嘅高評價住宿:
 
-- [峇里島精華區：10間水明漾平價住宿推薦](/blog/seminyak-budget-hotels-guide/)
-- [水明漾嘅濱海精緻主題住宿指南](/blog/seminyak-beach-resorts-guide/)
-- [水明漾18間令人驚艷嘅峇里島villa](/blog/seminyak-private-villas-guide/)
-- [水明漾】不超過100美元嘅平價峇里島villa推薦](/blog/seminyak-budget-villas-guide/)
+- [峇里島精華區：10間水明漾平價住宿推薦](/zh-hk/blog/seminyak-budget-hotels-guide/)
+- [水明漾嘅濱海精緻主題住宿指南](/zh-hk/blog/seminyak-beach-resorts-guide/)
+- [水明漾18間令人驚艷嘅峇里島villa](/zh-hk/blog/seminyak-private-villas-guide/)
+- [水明漾】不超過100美元嘅平價峇里島villa推薦](/zh-hk/blog/seminyak-budget-villas-guide/)
 
 ## 坎古 (Canggu)
 
@@ -82,8 +82,8 @@ _srcHash: e13aeba5a98c67fdb4e94ed9f4241dea
 
 {{block:canggu}}
 
-- [坎古Top 12 你唔可以錯過嘅住宿推薦](/blog/canggu-top-hotels-guide/)
-- [坎古區16間私人泳池別墅推薦 Canggu Villa 你唔可以錯過嘅峇里島別墅](/blog/canggu-villas-guide/)
+- [坎古Top 12 你唔可以錯過嘅住宿推薦](/zh-hk/blog/canggu-top-hotels-guide/)
+- [坎古區16間私人泳池別墅推薦 Canggu Villa 你唔可以錯過嘅峇里島別墅](/zh-hk/blog/canggu-villas-guide/)
 
 ## 烏布 (Ubud)
 
@@ -97,14 +97,14 @@ _srcHash: e13aeba5a98c67fdb4e94ed9f4241dea
 
 想睇下烏布嘅樣 >>[請參考小傑視頻嘅介紹](https://youtu.be/uFv_4Wr6YsI?si=JqgwwyGqWFL2BQgD&t=488)
 
-烏布好難用三言兩語概括咁做個完整嘅介紹，想進一步認識烏布，請睇我哋 >>烏布周邊嘅完整攻略：[認識烏布嘅100種方式](/blog/ubud-guide/)。帶小朋友家庭親子遊嘅請睇：[烏布家庭親子旅遊活動精選攻略：55項親子活動帶小朋友最輕鬆！](/blog/ubud-with-kids-guide/)
+烏布好難用三言兩語概括咁做個完整嘅介紹，想進一步認識烏布，請睇我哋 >>烏布周邊嘅完整攻略：[認識烏布嘅100種方式](/zh-hk/blog/ubud-guide/)。帶小朋友家庭親子遊嘅請睇：[烏布家庭親子旅遊活動精選攻略：55項親子活動帶小朋友最輕鬆！](/zh-hk/blog/ubud-with-kids-guide/)
 
 喺烏布都有多元嘅住宿選擇，山林villa或者五星渡假村，都有經濟型旅館同埋民宿，滿足唔同喜好。無論你偏向市中心定係鄉村風光，烏布都有合適嘅住宿，俾你舒適探索呢度。請睇:
 
-- [【峇里島烏布住宿】烏布28家特色住宿，體驗峇里島山林美景中嘅奇幻之旅！](/blog/ubud-villas-pool-guide/)
-- [探索烏布10家令人嘆為觀止嘅樹屋/竹屋別墅 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)
-- [【烏布住宿推薦】烏布泳池別墅私密天堂: 18間令人驚艷嘅峇里島villa推薦](/blog/ubud-villa-pool-guide/)
-- [烏布瑜伽住宿推薦：10間結合瑜珈課程與心靈放鬆嘅夢幻選擇](/blog/ubud-yoga-retreats-bali/)
+- [【峇里島烏布住宿】烏布28家特色住宿，體驗峇里島山林美景中嘅奇幻之旅！](/zh-hk/blog/ubud-villas-pool-guide/)
+- [探索烏布10家令人嘆為觀止嘅樹屋/竹屋別墅 tree house/bamboo villa](/zh-hk/blog/ubud-treehouse-bamboo-villa-stays/)
+- [【烏布住宿推薦】烏布泳池別墅私密天堂: 18間令人驚艷嘅峇里島villa推薦](/zh-hk/blog/ubud-villa-pool-guide/)
+- [烏布瑜伽住宿推薦：10間結合瑜珈課程與心靈放鬆嘅夢幻選擇](/zh-hk/blog/ubud-yoga-retreats-bali/)
 
 ![烏布 (Ubud)](https://images.gobaligo.id/vocus/vocus_c0a56c56099cc0fe60cba864bdf58052.png)
 
@@ -118,4 +118,4 @@ _srcHash: e13aeba5a98c67fdb4e94ed9f4241dea
 
 👈 **返去峇里島自由行終極指南**
 
-想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次搞掂出發前要做咩。
+想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次搞掂出發前要做咩。

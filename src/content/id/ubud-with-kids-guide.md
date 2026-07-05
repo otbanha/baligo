@@ -84,7 +84,7 @@ https://youtube.com/shorts/3PmPpoHI_6c
 
 Tempat ini cocok buat keluarga, anak-anak dan orang tua bisa sama-sama merasakan keindahan alam. Kalian bisa jalan santai sambil menikmati pemandangan, merasakan suasana tenang khas punggung bukit. Di sini nggak ada bising lalu lintas, cuma suara alam dan pemandangan indah yang menanti kalian.
 
-Gimana caranya ke skywalk? Berapa lama waktu yang dibutuhkan? Kapan waktu terbaik buat berkunjung? Cek [penjelasan lengkap Xiaojie di sini](/blog/ubud-campuhan-ridge-walk/)
+Gimana caranya ke skywalk? Berapa lama waktu yang dibutuhkan? Kapan waktu terbaik buat berkunjung? Cek [penjelasan lengkap Xiaojie di sini](/id/blog/ubud-campuhan-ridge-walk/)
 
 ### Menelusuri Jalur Pedesaan Ubud: Tur Sepeda
 
@@ -150,7 +150,7 @@ Bali Safari Park pasti jadi petualangan seru buat liburan keluarga. Tempat ini m
 
 Di tempat yang ajaib ini, kamu bisa lihat dari dekat berbagai satwa liar yang bikin kagum—mulai dari singa garang, gajah imut, sampai jerapah anggun yang berkeliaran bebas di habitat aslinya, kasih kamu pemandangan kerajaan hewan yang nyata dan spektakuler.
 
-Bali Safari Park punya wahana Safari Adventure Tour yang bakal bawa kamu menjelajahi rumah para hewan, serasa di alam liar—seru dan bikin deg-degan! Selain lihat hewan, ada juga pertunjukan satwa yang seru banget, bikin kamu menikmati perpaduan sempurna antara keseruan dan alam. Ini bakal jadi perjalanan tak terlupakan buat keluarga buat eksplorasi, belajar, dan bersenang-senang bareng. Cek [info lengkapnya di sini](/blog/bali-safari-night-stay/)
+Bali Safari Park punya wahana Safari Adventure Tour yang bakal bawa kamu menjelajahi rumah para hewan, serasa di alam liar—seru dan bikin deg-degan! Selain lihat hewan, ada juga pertunjukan satwa yang seru banget, bikin kamu menikmati perpaduan sempurna antara keseruan dan alam. Ini bakal jadi perjalanan tak terlupakan buat keluarga buat eksplorasi, belajar, dan bersenang-senang bareng. Cek [info lengkapnya di sini](/id/blog/bali-safari-night-stay/)
 
 > [Menginap di Kebun Binatang](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685834&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_C8XvDnkesQoxGBlu4LbZnORqDwMdeB883gTvkWpsmOQTwREw58Hwae6It1_XFBfsDHQoZwEDLoYuRFSwzg7HrneYKRsaNjP2HvmrE-Oc47GBkOsDIdIKxUXsB0539ExROsTBzzOG4xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsUyMzPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebdhPncnNqu9yAGJcb18Y-YmGKjv3EwvCLhYnDuomVoYuVmeMU0yQg2ai9i5XD38MpMCxI1_ACa5uelLyhgYGBqaGxqamuQaKlhbGpibmuiaWJkZmZrrGJsYmpRsP-vReeGBtZS0EiX4FRSzA-xNPTxbCkMNWssNQyp6jA1IDxFKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbpZujuYVjlA0Xs6dLkOAHvefb260t7aWYQ8JdFD8sP-Zt3nnaXgskZwiTC9zzOueEvfEC-0iYfBJrVYZuSHjGcbECxgZGpi5GbgFGD8YIxgogj3EVI8MGRsYdjP9hgPEVI8h0AAcWO6P7AgAA&masterhotelid_tracelogid=100051355-0a983547-494266-34345&detailFilters=17|1~17~1*31|685834~31~685834*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1440&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/PbKYpC56)
 
@@ -162,7 +162,7 @@ Pengin kunjungi satu tempat tapi bisa nikmatin dua dunia?
 
 Marine Safari Bali yang baru buka tahun 2025 bikin liburan keluarga kamu makin seru, darat dan laut semua kebagian! Satu destinasi, dua keajaiban: jelajahi lautan dan taman safari, bikin liburan keluarga kamu langsung naik level 🚀
 
-Panduan lengkap Marine Safari Bali [cek di sini](/blog/marine-safari-bali-guide/)
+Panduan lengkap Marine Safari Bali [cek di sini](/id/blog/marine-safari-bali-guide/)
 
 ![Marine Safari Bali ( Peta: Tempat Wisata Populer di Sekitar ](https://images.gobaligo.id/vocus/vocus_165e3d21713d6877f6ed24569926916a.png)
 
@@ -218,7 +218,7 @@ Yang paling seru di sini adalah **minta bantuan staf untuk melilitkan ular piton
 
 Pemandu menemani sepanjang jalan, menjelaskan detail kebiasaan setiap hewan dan status konservasinya, jadi petualangan 'uji nyali' ini sekaligus jadi pelajaran alam yang seru.
 
-Info lengkap: [Panduan Bali Reptile Park: Lihat Komodo dari dekat, interaksi akrab dengan piton raksasa, harga tiket, dan tips liburan keluarga](https://gobaligo.id/blog/Bali-Reptile-Park/)
+Info lengkap: [Panduan Bali Reptile Park: Lihat Komodo dari dekat, interaksi akrab dengan piton raksasa, harga tiket, dan tips liburan keluarga](https://gobaligo.id/id/blog/Bali-Reptile-Park/)
 
 > Beli tiket online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F37955-bali-reptile-park-ticket%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7db7e3e24e) [Kkday](https://www.kkday.com/zh-tw/product/593869?qs=Bali+Reptile+Park&cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-reptile-park-128527409/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -256,7 +256,7 @@ Selain tur ATV biasa, ada juga 'Tur ATV Gunung Berapi'. Kalian akan melintasi hu
 
 Usia: 1 tahun ke atas
 
-Kalau kamu liburan ke Bali bareng keluarga, Ubud nggak cuma terkenal sama seni dan budayanya, tapi juga punya pemandangan alam yang bikin speechless — apalagi air terjunnya, wajib banget masuk itinerary. Ada tiga air terjun hits di sekitar Ubud: Tegenungan, Kanto Lampo, dan Tukad Cepung. Cek [panduan lengkap air terjun Ubud di sini](/blog/ubud-waterfalls-guide/)
+Kalau kamu liburan ke Bali bareng keluarga, Ubud nggak cuma terkenal sama seni dan budayanya, tapi juga punya pemandangan alam yang bikin speechless — apalagi air terjunnya, wajib banget masuk itinerary. Ada tiga air terjun hits di sekitar Ubud: Tegenungan, Kanto Lampo, dan Tukad Cepung. Cek [panduan lengkap air terjun Ubud di sini](/id/blog/ubud-waterfalls-guide/)
 
 Air terjun ini tempat yang pas buat eksplorasi alam sambil hunting foto IG yang aesthetic. Jauh dari hiruk-pikuk kota, kamu bisa jalan-jalan di jalur setapak yang dikelilingi hutan hijau, rasanya kayak masuk ke dunia rahasia. Begitu sampai di depan air terjun, percikan air dan derasnya aliran bakal bikin kamu merasakan kekuatan alam yang luar biasa. Tempat ini cocok banget buat quality time keluarga — merasakan kekuatan alam sambil lihat pemandangan keren. Jangan lupa bawa kamera, abadikan momen seru bareng si kecil!
 
@@ -276,7 +276,7 @@ Di Ubud, main ayunan aja bisa jadi pengalaman seru bareng keluarga. Di beberapa 
 
 Ini aktivitas unik yang bikin keluarga bisa bareng-bareng bikin kenangan manis. Anak-anak bisa seru-seruan di ayunan sambil lihat pemandangan alam khas Ubud, dan orang tua ikut nimatin momen bahagia. Pengalaman kayak gini pasti bakal nambah kehangatan dan keceriaan di perjalanan kalian.
 
-[> 8 Rekomendasi Ayunan Hutan Terindah: Tips Sewa Gaun, Sudut Foto, dan Cara Hindari Keramaian](https://gobaligo.id/blog/ubud-jungle-swings-photo-guide/)
+[> 8 Rekomendasi Ayunan Hutan Terindah: Tips Sewa Gaun, Sudut Foto, dan Cara Hindari Keramaian](https://gobaligo.id/id/blog/ubud-jungle-swings-photo-guide/)
 
 ### Pengalaman Balon Udara
 
@@ -298,7 +298,7 @@ Usia yang cocok: 8 tahun ke atas
 
 Jungle Cart kasih pengalaman petualangan unik di Ubud! Ini balapan seru yang bikin kamu melintasi hutan sakral Bali, sawah, pura, dan desa tradisional Bali (sekitar 20-25 menit). Bukan cuma soal kecepatan dan tawa, tapi juga kesempatan buat merasakan keindahan alam dan budaya lokal.
 
-Mobil ini nggak punya mesin, jalannya cuma andalkan gravitasi turunan, makanya disebut juga 'mobil seluncur'. Biayanya Rp380.000, dan anak di bawah 14 tahun bisa gratis naik bareng orang dewasa. Cocok banget buat aktivitas keluarga, bikin waktu bersama jadi penuh keseruan. Mau kamu pecinta kecepatan atau traveler yang suka menikmati alam, Jungle Cart kasih pilihan yang beda dari biasanya. Ini petualangan keluarga yang bikin orang tua dan anak-anak tenggelam dalam suasana seru, sambil eksplorasi pemandangan dan budaya khas Ubud. Pengalaman langsung dari Xiao Jie bisa kamu baca [di sini](/blog/ubud-jungle-cart-adventure/)
+Mobil ini nggak punya mesin, jalannya cuma andalkan gravitasi turunan, makanya disebut juga 'mobil seluncur'. Biayanya Rp380.000, dan anak di bawah 14 tahun bisa gratis naik bareng orang dewasa. Cocok banget buat aktivitas keluarga, bikin waktu bersama jadi penuh keseruan. Mau kamu pecinta kecepatan atau traveler yang suka menikmati alam, Jungle Cart kasih pilihan yang beda dari biasanya. Ini petualangan keluarga yang bikin orang tua dan anak-anak tenggelam dalam suasana seru, sambil eksplorasi pemandangan dan budaya khas Ubud. Pengalaman langsung dari Xiao Jie bisa kamu baca [di sini](/id/blog/ubud-jungle-cart-adventure/)
 
 [> [Pengalaman Jungle Cart](https://affiliate.klook.com/redirect?aid=116349&aff_adid=880814&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F121396-ubud-jungle-cart-experience-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbeaf072d1f)
 
@@ -347,7 +347,7 @@ Ada kolam renang, sunbed, dan layanan pijat, plus berbagai aktivitas seru kayak 
 
 Buat liburan keluarga, Omma Dayclub punya paket ramah keluarga yang cocok banget. Kamu dan anak-anak bisa nikmatin pemandangan air terjun sambil makan enak dan minum segar.
 
-> [Paket Diskon](https://affiliate.klook.com/redirect?aid=116349&aff_adid=796563&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F100356-omma-dayclub-day-pass-ubud-sukawati-gianyar-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Dc44db95a42) （Kalau rombongan besar, mending booking langsung lewat website resmi: [Omma Dayclub介绍 & 官网](/blog/ubud-omma-dayclub-tegenungan-waterfall/)）
+> [Paket Diskon](https://affiliate.klook.com/redirect?aid=116349&aff_adid=796563&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F100356-omma-dayclub-day-pass-ubud-sukawati-gianyar-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Dc44db95a42) （Kalau rombongan besar, mending booking langsung lewat website resmi: [Omma Dayclub介绍 & 官网](/id/blog/ubud-omma-dayclub-tegenungan-waterfall/)）
 
 ### Jungle Fish Pool & Restaurant (🗺️ Peta: [Taman Bermain & Restoran Ramah Anak](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
 
@@ -405,7 +405,7 @@ Area aman dan bersih, hewan-hewannya jinak, cocok buat anak segala usia. Tiket m
 
 Pas ke Bali lagi, jangan lupa masukin peternakan seru di pegunungan ini ke itinerary, ciptain kenangan paling hangat bareng si kecil!
 
-Info lengkap: [Panduan Bali Farm House: Kebun Eropa di Pegunungan Bali, Interaksi Alpaca & Tips Tiket](https://gobaligo.id/blog/Bali-Farm-House/)
+Info lengkap: [Panduan Bali Farm House: Kebun Eropa di Pegunungan Bali, Interaksi Alpaca & Tips Tiket](https://gobaligo.id/id/blog/Bali-Farm-House/)
 
 > Tiket diskon Bali Farm House [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1300404&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F118362-bali-farm-house-ticket%2F%3Fgad_source%3D1%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D47343%26utm_term%3D%26dd_referrer%3Dhttps%253A%252F%252Fwww.google.com%252F%26spm%3DLanguageCurrencySelectionPopup.MoreCurrency_LIST%26clickId%3Ded57c98434) [Trip](https://www.trip.com/travel-guide/attraction/bali/bali-farm-house-147620140/?locale=en-ID&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17788038)
 
@@ -421,7 +421,7 @@ Anak-anak mungkin nggak suka perpustakaan atau museum biasa, tapi Pondok Pekak L
 
 Selain baca buku, kamu juga bisa belajar bikin perhiasan atau topeng kayu. Anak-anak bisa bawa pulang barang spesial buatan sendiri, bikin teman-temannya kagum. Pondok Pekak Library kasih pengalaman unik di Bali yang nggak ada duanya. Belajar jadi seru banget, baik buat anak-anak maupun dewasa. Bayangin aja, di depan sekolah kamu bisa pamer ke orang tua lain kalau anakmu jadi suka perpustakaan dan museum selama liburan seru di Bali — pasti bangga banget!
 
-Mau tahu lebih lanjut? Cek [artikel lengkapnya](/blog/pondok-pekak-library-bali/).
+Mau tahu lebih lanjut? Cek [artikel lengkapnya](/id/blog/pondok-pekak-library-bali/).
 
 Catatan penting: anak-anak harus punya kemampuan dasar bahasa Inggris, ini juga kesempatan bagus buat latihan bahasa Inggris lho!
 

@@ -27,13 +27,13 @@ Seorang teman grup, Pingping, yang rencananya mau liburan ke Bali, nanya soal tr
 
 Nah, temen grup lain, James, kasih saran berdasarkan pengalamannya. Katanya, sebelum ke Bali, dia sempet mikir mau sewa motor. Tapi setelah nyoba Gojek (layanan ojek online), ternyata praktis banget! Motor sewaannya malah nggak dipake, bahkan pas pulang naik pesawat pun dia males naik motor lagi.
 
-> Baca juga: [Wajib Download Saat Liburan di Indonesia/Bali: Panduan Lengkap Gojek](/blog/gojek-bali-guide/)
+> Baca juga: [Wajib Download Saat Liburan di Indonesia/Bali: Panduan Lengkap Gojek](/id/blog/gojek-bali-guide/)
 
 Kelebihan panggil motor lewat aplikasi buat jarak pendek: selain tinggal panggil langsung dateng, harganya murah banget, juga nggak perlu khawatir soal keamanan atau kena razia polisi. Sesampainya di tujuan, nggak perlu cari parkir atau bayar parkir. Praktis banget, bikin kamu bisa atur jadwal dengan lebih santai, nikmatin pemandangan kapan aja tanpa pusing mikirin transportasi. Apalagi buat kamu yang pengin jalan-jalan jarak pendek di Bali sambil relaks, cara ini bikin liburan makin seru tanpa harus nyetir sendiri.
 
 {{block:klook}}
 
-Sementara itu, temen grup lain, Shih-Chien, yang baru aja selesai [Liburan 8 Hari Solo di Bali - Cerita Perjalanan Perempuan Sendiri](/blog/bali-solo-female-travel/), kasih saran buat Pingping yang pengin hindari macet: mungkin panggil dua motor lewat aplikasi bisa jadi pilihan oke. Dengan gitu, kamu bisa nikmatin pemandangan dan aktivitas di pusat kota tanpa buang waktu di kemacetan.
+Sementara itu, temen grup lain, Shih-Chien, yang baru aja selesai [Liburan 8 Hari Solo di Bali - Cerita Perjalanan Perempuan Sendiri](/id/blog/bali-solo-female-travel/), kasih saran buat Pingping yang pengin hindari macet: mungkin panggil dua motor lewat aplikasi bisa jadi pilihan oke. Dengan gitu, kamu bisa nikmatin pemandangan dan aktivitas di pusat kota tanpa buang waktu di kemacetan.
 
 Selama liburan di Bali, milih transportasi yang cocok itu kunci biar perjalanan lancar dan menyenangkan. **Kamu bisa pake rumus di bawah ini buat milih transportasi paling hemat dan aman:**
 
@@ -53,11 +53,11 @@ Selama liburan di Bali, milih transportasi yang cocok itu kunci biar perjalanan 
 - Pengin ngobrol/dapet penjelasan dasar ▶ sewa mobil + sopir
 - Mau kenalan sama temen lokal di Bali ▶ sewa mobil + sopir
 
-**Ada rekomendasi driver sewa mobil yang oke?**[Cek di sini](/blog/2023-07-26-64db6b83fd897800013a9994/)
+**Ada rekomendasi driver sewa mobil yang oke?**[Cek di sini](/id/blog/2023-07-26-64db6b83fd897800013a9994/)
 
-> Baca juga: [Panduan Lengkap Sewa Mobil di Bali - Biaya, Cara Pesan, Analisis Kelebihan](/blog/bali-private-car-hire-guide/)
+> Baca juga: [Panduan Lengkap Sewa Mobil di Bali - Biaya, Cara Pesan, Analisis Kelebihan](/id/blog/bali-private-car-hire-guide/)
 
-> Baca juga: [Panduan Sewa Motor di Bali! Lebih Baik Sewa Motor atau Sewa Mobil?](/blog/bali-motorbike-rental-guide/)
+> Baca juga: [Panduan Sewa Motor di Bali! Lebih Baik Sewa Motor atau Sewa Mobil?](/id/blog/bali-motorbike-rental-guide/)
 
 Setiap moda transportasi punya plus minusnya sendiri, semoga kamu bisa pilih yang paling pas dan punya liburan yang tak terlupakan di Bali!
 
@@ -81,4 +81,4 @@ Dari segi keamanan, saran aku sih sewa mobil. Apalagi kalau malam hari atau mau 
 
 👈 **Kembali ke Panduan Lengkap Liburan Mandiri ke Bali**
 
-Mau baca panduan lengkap buat pemula? [Klik di sini buat baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/blog/bali-ultimate-guide-2026/), biar paham semua yang harus disiapin sebelum berangkat.
+Mau baca panduan lengkap buat pemula? [Klik di sini buat baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/id/blog/bali-ultimate-guide-2026/), biar paham semua yang harus disiapin sebelum berangkat.

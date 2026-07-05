@@ -37,9 +37,9 @@ Clairejenjen video screenshot
 
 Afterward, they rode Gojek motorcycles back to their vacation villa, enjoyed a hearty breakfast, and then headed to Ubud's art market to immerse themselves in the local culture. At the market, they sampled various Balinese delicacies and admired local handicrafts and artworks, feeling as though they had stepped into a vibrant, foreign town full of life.
 
-> Further reading: Recommended [22 Amazing Bali Villas in Ubud](/blog/ubud-villa-pool-guide/)
+> Further reading: Recommended [22 Amazing Bali Villas in Ubud](/en/blog/ubud-villa-pool-guide/)
 
-> [【Bali Ubud Accommodation】32 Unique Stays in Ubud, Experience a Magical Journey Amidst Bali's Mountain Scenery!](/blog/ubud-villas-pool-guide/)
+> [【Bali Ubud Accommodation】32 Unique Stays in Ubud, Experience a Magical Journey Amidst Bali's Mountain Scenery!](/en/blog/ubud-villas-pool-guide/)
 
 ![Clairejenjen視頻截圖](https://images.gobaligo.id/vocus/vocus_dcba359c585b69b719edfb486213c9cb.jpg)
 
@@ -89,6 +89,6 @@ Did you find their itinerary exciting? Start planning your own Bali adventure no
 
 Click here to watch more exciting Bali travelogues
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travel writing shine!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)" to make your travel writing shine!
 
 {{block:攻略}}

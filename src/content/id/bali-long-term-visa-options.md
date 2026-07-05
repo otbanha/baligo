@@ -74,7 +74,7 @@ Kita bahas singkat beberapa jenis izin tinggal:
 3. **Izin Tinggal Keluarga**, membutuhkan pasangan WNI sebagai sponsor bagi orang asing. Dengan izin tinggal ini, orang asing bisa tinggal lama di Indonesia, tapi tidak boleh bekerja. Kalau mau bekerja, harus dapat izin kerja dari perusahaan tempatnya bekerja.
 4. **Izin Tinggal Pensiun**, berlaku untuk orang asing berusia 55 tahun ke atas. Izin ini disponsori oleh perusahaan yang diakui oleh Direktorat Jenderal Imigrasi. Izin tinggal pensiun tidak mengizinkan orang asing bekerja di Indonesia, hanya untuk menikmati masa pensiun di Indonesia.
 
-Baca juga: [Penyesuaian Biaya Visa/Izin Tinggal Jangka Panjang Bali](/blog/bali-visa-fee-changes-2024/)
+Baca juga: [Penyesuaian Biaya Visa/Izin Tinggal Jangka Panjang Bali](/id/blog/bali-visa-fee-changes-2024/)
 
 Pilih visa atau izin tinggal yang tepat biar hidup jangka panjang kamu di Bali makin lancar dan menyenangkan. Sesuai kebutuhan dan situasi, pilih opsi yang paling cocok, dan nikmati waktu indah di Bali!
 

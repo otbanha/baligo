@@ -30,9 +30,9 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 而每個人都要填寫/繳交嘅電子申報單/旅遊稅，請睇下面條link：
 
-> 延伸閱讀: [印尼/峇里島入境流程 - 落機/過海關/拎行李嘅流程](https://gobaligo.id/blog/bali-all-indonesia-arrival-guide/)
+> 延伸閱讀: [印尼/峇里島入境流程 - 落機/過海關/拎行李嘅流程](https://gobaligo.id/zh-hk/blog/bali-all-indonesia-arrival-guide/)
 
-事先辦好電子簽證嘅好處係落機之後完全唔使排隊，仲可以用自動通關，慳返移民局查護照嘅時間。不過有一點要注意，就係未夠6歲嘅小朋友唔可以用自動通關，但係有專屬櫃檯幫佢哋過關（請睇: [入境印尼/峇里島嘅小朋友簽證/兒童簽證攻略](https://gobaligo.id/blog/bali-child-visa-guide/)）
+事先辦好電子簽證嘅好處係落機之後完全唔使排隊，仲可以用自動通關，慳返移民局查護照嘅時間。不過有一點要注意，就係未夠6歲嘅小朋友唔可以用自動通關，但係有專屬櫃檯幫佢哋過關（請睇: [入境印尼/峇里島嘅小朋友簽證/兒童簽證攻略](https://gobaligo.id/zh-hk/blog/bali-child-visa-guide/)）
 
 ###
 
@@ -48,7 +48,7 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 呢個表只係參考，實際保障內容以各保險公司產品為準
 
-> [【峇里島旅遊保險】台港馬新旅客必睇！投保指南、海外醫療同不便險理賠避雷重點整理](https://gobaligo.id/blog/bali-travel-insurance-guide/)
+> [【峇里島旅遊保險】台港馬新旅客必睇！投保指南、海外醫療同不便險理賠避雷重點整理](https://gobaligo.id/zh-hk/blog/bali-travel-insurance-guide/)
 
 ###
 
@@ -58,13 +58,13 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 喺峇里島，確保手機可以連到網絡係好重要嘅，咁可以幫你輕鬆搵資料、同屋企人朋友聯絡、用導航App等等，令你嘅旅程更加方便同開心。
 
-> 延伸閱讀：[【峇里島旅遊必備】點樣搞峇里島網絡/SIM卡？](/blog/bali-sim-card-esim-roaming-guide/)
+> 延伸閱讀：[【峇里島旅遊必備】點樣搞峇里島網絡/SIM卡？](/zh-hk/blog/bali-sim-card-esim-roaming-guide/)
 
 ### 電壓同插頭：
 
 印尼同峇里島嘅電壓標準係**220伏特（220V）**，呢個係好重要嘅資訊，尤其係打算帶電器去嗰邊嘅旅客。揀帶邊啲電器之前，一定要確保你帶嘅電器支援國際標準嘅220伏特電壓，仲有特別嘅插頭款式，咁先至可以喺印尼同峇里島正常用到呢啲電器㗎！
 
-> 延伸閱讀：峇里島[電壓/插頭款式係點？點樣準備？](/blog/bali-voltage-adapter-tips/)
+> 延伸閱讀：峇里島[電壓/插頭款式係點？點樣準備？](/zh-hk/blog/bali-voltage-adapter-tips/)
 
 ### 換錢：
 
@@ -76,13 +76,13 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 峇里島天氣好熱，建議帶輕便透氣嘅衫褲、防曬用品、泳衣、帽、太陽眼鏡等。詳細嘅應帶清單，可以參考呢度：
 
-> [峇里島旅行要帶啲乜？必備嘅21項物品](/blog/bali-travel-essentials/)
+> [峇里島旅行要帶啲乜？必備嘅21項物品](/zh-hk/blog/bali-travel-essentials/)
 
 ### 藥品：
 
 建議帶自己慣用嘅藥品，但係印尼/峇里島對藥品/處方藥有嚴格規定，喺其他國家合法嘅藥品喺印尼可能係禁藥！有需要帶藥品嘅朋友請睇下面連結：
 
-> [攜帶安眠藥/特殊處方藥物前往印尼/峇里島嘅重要注意事項](/blog/bali-medication-import-guide/)
+> [攜帶安眠藥/特殊處方藥物前往印尼/峇里島嘅重要注意事項](/zh-hk/blog/bali-medication-import-guide/)
 
 ### **防蚊液**：
 
@@ -115,13 +115,13 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 包車嘅優點除咗車廂空間舒服，適合家庭旅遊之外，仲有比較安全、行程彈性、司機熟路等優點。關於包車你需要知道嘅所有細節，我哋都收埋喺下面條link度：
 
-> [峇里島包車自由行全攻略 - 費用、預訂方式、優勢分析](/blog/bali-private-car-hire-guide/)
+> [峇里島包車自由行全攻略 - 費用、預訂方式、優勢分析](/zh-hk/blog/bali-private-car-hire-guide/)
 
-> [峇里島旅遊中文司機/中文導遊/中文包車行程推薦](/blog/bali-chinese-tour-guide/)
+> [峇里島旅遊中文司機/中文導遊/中文包車行程推薦](/zh-hk/blog/bali-chinese-tour-guide/)
 
 網約車優點係費用比較平/明碼實價，可以透過 App 叫車。喺印尼/峇里島點樣用網約車？用咩APP？請參考呢度：
 
-> [喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/blog/gojek-bali-guide/)
+> [喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/zh-hk/blog/gojek-bali-guide/)
 
 ### 住宿/景點/活動：
 
@@ -129,7 +129,7 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 ![峇里島親子住宿推薦](https://images.gobaligo.id/vocus/vocus_62021a66b4fb2080c4351c4391ea4e2b.jpg)
 
-[峇里島親子住宿推薦](/blog/bali-family-travel-guide/)
+[峇里島親子住宿推薦](/zh-hk/blog/bali-family-travel-guide/)
 
 帶小朋友嘅家長，可以考慮啱小朋友嘅親子度假酒店，呢啲酒店通常有泳池滑梯俾細路玩水、兒童俱樂部等，等爸媽可以唞吓氣。
 
@@ -145,7 +145,7 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 峇里島旅遊要注意飲食衛生，提防峇里島肚痾嘅發生。呢度有個安全準則俾你參考：
 
-> [峇里島旅行健康小貼士：峇里島嘅飲用水同肚痾指南](/blog/bali-travel-health-tips/)
+> [峇里島旅行健康小貼士：峇里島嘅飲用水同肚痾指南](/zh-hk/blog/bali-travel-health-tips/)
 
 {{block:美食}}
 
@@ -153,7 +153,7 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 峇里島有好多小販/掮客專劏觀光客，要小心提防。
 
-[> [峇里島安全嗎？ 揭露最新 6 大觀光詐騙！換錢、假簽證、熱點陷阱...見到呢種人請即刻轉身！](https://gobaligo.id/blog/bali-tourist-scams-2026/)
+[> [峇里島安全嗎？ 揭露最新 6 大觀光詐騙！換錢、假簽證、熱點陷阱...見到呢種人請即刻轉身！](https://gobaligo.id/zh-hk/blog/bali-tourist-scams-2026/)
 
 ### 注意治安：
 

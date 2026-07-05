@@ -51,7 +51,7 @@ Bali is like a living postcard – this Indonesian paradise is dreamlike, perfec
 
 Imagine basking in the sun on pristine white sand beaches or diving into crystal-clear waters to explore vibrant coral reefs alongside tropical fish. For adventurous couples, you can even dive around WWII shipwrecks for a unique underwater exploration experience.
 
-> [Complete Guide to Bali Water Activities | More Than Just Snorkeling! 15 Unexpected Water Adventures](/blog/2026-bali-water-activities/)
+> [Complete Guide to Bali Water Activities | More Than Just Snorkeling! 15 Unexpected Water Adventures](/en/blog/2026-bali-water-activities/)
 
 ### 🌿 Lush Jungle Hideaways
 
@@ -69,7 +69,7 @@ Known as the 'Art Capital,' Ubud is the best place to experience the essence of 
 - Join batik or silver jewelry workshops to create your own souvenirs
 - Relax with yoga sessions surrounded by rice terraces, finding true inner peace
 
-> [2026 Complete Ubud Guide: 100 Ways to Deeply Explore Ubud’s Charm](/blog/ubud-guide/)
+> [2026 Complete Ubud Guide: 100 Ways to Deeply Explore Ubud’s Charm](/en/blog/ubud-guide/)
 
 ### 💎 Diverse Experiences to Fulfill Every Honeymoon Fantasy
 
@@ -83,7 +83,7 @@ The most enchanting aspect of Bali is its ability to cater to the desires of all
 - **Adventurous couples**: Surfing, diving, and volcano trekking
 - **Wellness seekers**: Traditional spa and wellness experiences
 
-> [【Essentials】Top-rated Bali Spas & In-House Massage Recommendations Organized by Area for Easier Search](/blog/spa/)
+> [【Essentials】Top-rated Bali Spas & In-House Massage Recommendations Organized by Area for Easier Search](/en/blog/spa/)
 
 ---
 
@@ -99,11 +99,11 @@ Ready to embark on this romantic journey? The following curated articles will he
 
 **📖 Extended Reading for Bali Honeymoon/Couples:**
 
-- [Why Are More People Choosing Bali for Their Honeymoon? Answers to Common Questions About Honeymooning in Bali](/blog/bali-honeymoon-faq/)
-- [Romantic Honeymoon Destinations Revealed! Bali Beats the Maldives to Win the Global Crown!](/blog/bali-honeymoon-destination/)
-- [Romantic Guide to Bali Honeymoon: Explore 36 Ways to Experience Bali as a Couple/Honeymoon](/blog/bali-honeymoon-romantic-activities-2/)
-- [Where to Stay for Your Honeymoon? This Guide is Perfect for Newlyweds/Couples! 【20 Honeymoon Resorts & Romantic Villas Recommended】](/blog/bali-honeymoon-resorts-guide/)
-- [Bali Wins the Title of World’s Most Romantic Travel Destination in the 2024 World Travel Awards](/blog/bali-world-travel-awards-2024/)
-- [Certified: Bali Named the Best Honeymoon Spot for Stunning Photos](/blog/bali-best-honeymoon-photo-spot/)
+- [Why Are More People Choosing Bali for Their Honeymoon? Answers to Common Questions About Honeymooning in Bali](/en/blog/bali-honeymoon-faq/)
+- [Romantic Honeymoon Destinations Revealed! Bali Beats the Maldives to Win the Global Crown!](/en/blog/bali-honeymoon-destination/)
+- [Romantic Guide to Bali Honeymoon: Explore 36 Ways to Experience Bali as a Couple/Honeymoon](/en/blog/bali-honeymoon-romantic-activities-2/)
+- [Where to Stay for Your Honeymoon? This Guide is Perfect for Newlyweds/Couples! 【20 Honeymoon Resorts & Romantic Villas Recommended】](/en/blog/bali-honeymoon-resorts-guide/)
+- [Bali Wins the Title of World’s Most Romantic Travel Destination in the 2024 World Travel Awards](/en/blog/bali-world-travel-awards-2024/)
+- [Certified: Bali Named the Best Honeymoon Spot for Stunning Photos](/en/blog/bali-best-honeymoon-photo-spot/)
 
 **So, will you choose Bali as your honeymoon destination? And where will you capture your love story?**

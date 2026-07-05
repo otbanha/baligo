@@ -26,27 +26,27 @@ _srcHash: 3819203f5e36e8c40d4d4aacc0aae8c1
 
 我哋喺呢次旅程入面，每人兌換咗大約320美金，呢筆錢對於七日六夜嘅行程嚟講，啱啱夠用，甚至仲買咗唔少手信。所以，我建議大家可以先兌換300到350美金，再加埋碌卡。好多餐廳同按摩店都接受碌卡找數，咁就可以靈活運用你嘅預算。
 
-> [印尼/峇里島旅遊換匯懶人包：印尼/峇里島用咩錢？點樣換錢最抵？去邊度換錢最好？](/blog/bali-currency-exchange-guide/)
+> [印尼/峇里島旅遊換匯懶人包：印尼/峇里島用咩錢？點樣換錢最抵？去邊度換錢最好？](/zh-hk/blog/bali-currency-exchange-guide/)
 
-> [峇里島旅遊要準備幾多現金？](/blog/bali-travel-cash-budget-guide/)
+> [峇里島旅遊要準備幾多現金？](/zh-hk/blog/bali-travel-cash-budget-guide/)
 
 ## 2️⃣ **網絡**
 
 建議大家喺抵達峇里島之後先買當地嘅電話卡，因為價錢平啲同連線穩定啲（可能係個人感覺）。機場有免費Wi-Fi，所以唔使擔心聯絡唔到司機。我哋喺當地買嘅電話卡總流量係每人18GB，就算成日用社交平台、睇YouTube片同下載App，七日嚟講呢個流量已經好夠用。所以，大家可以根據自己嘅使用需求揀適合嘅流量套餐。
 
-[> 【峇里島旅遊必備】點樣搞峇里島網絡/SIM卡?](/blog/bali-sim-card-esim-roaming-guide/)
+[> 【峇里島旅遊必備】點樣搞峇里島網絡/SIM卡?](/zh-hk/blog/bali-sim-card-esim-roaming-guide/)
 
 ## 3️⃣ **簽證、觀光稅同海關**
 
 記住出發前一定要預先喺網上搞掂簽證，出發前三日可以喺網上申報海關，咁樣就唔使喺機場排隊等咁耐，慳返啲時間。
 
-> [2026印尼峇里島入境用「All Indonesia」申報系統｜1分鐘搞掂最新流程：落機→過關→拎行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
+> [2026印尼峇里島入境用「All Indonesia」申報系統｜1分鐘搞掂最新流程：落機→過關→拎行李全攻略](/zh-hk/blog/bali-all-indonesia-arrival-guide/)
 
 ## 4️⃣ **交通**
 
 喺峇里島，除咗包車司機之外，大部分短途移動或者叫外送服務都係用Grab或者Gojek呢個App，記住喺台灣預先開好帳號（要用台灣手機號碼收驗證碼），咁去到當地先至用得順暢。
 
-> [喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/blog/gojek-bali-guide/)
+> [喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/zh-hk/blog/gojek-bali-guide/)
 
 ## ⚠️ **包車司機好重要！**
 
@@ -60,7 +60,7 @@ _srcHash: 3819203f5e36e8c40d4d4aacc0aae8c1
 
 {{block:包車}}
 
-**快速參考：**[峇里島六大必睇卡恰火舞（Kecak Fire Dance）地點：一場視覺與文化嘅饗宴](/blog/bali-kecak-fire-dance-locations/)
+**快速參考：**[峇里島六大必睇卡恰火舞（Kecak Fire Dance）地點：一場視覺與文化嘅饗宴](/zh-hk/blog/bali-kecak-fire-dance-locations/)
 
 今次旅程入面，我哋遇到咗好溫柔細心嘅Komang，佢話佢最希望嚟峇里島嘅遊客都可以體驗到呢個地方嘅美好，真係好多謝佢嘅幫忙。如果你都要嚟峇里島玩，強力推薦Komang！
 
@@ -76,7 +76,7 @@ _srcHash: 3819203f5e36e8c40d4d4aacc0aae8c1
 
 > Facebook : Komang WikaSutresna
 
-▶▶[【峇里島包車司機推薦名人榜】巴里島司機網友評鑑大全：睇網友真實點評搵到適合你嘅好司機](/blog/bali-private-car-drivers-guide/)
+▶▶[【峇里島包車司機推薦名人榜】巴里島司機網友評鑑大全：睇網友真實點評搵到適合你嘅好司機](/zh-hk/blog/bali-private-car-drivers-guide/)
 
 你覺得潘奕勳佢哋嘅行程好精彩嗎？快啲安排屬於你嘅峇里島自由行啦！都歡迎大家去社團投稿你嘅行程㗎！
 

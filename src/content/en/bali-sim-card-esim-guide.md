@@ -170,7 +170,7 @@ This is something Klook blogs and eSIM brand articles won’t tell you:
 n3. Insert the new SIM card and restart your phone
 4. If the network isn’t automatically configured, manually enter the APN settings (see the next section for guidance)
 
-**By the way:** For transportation arrangements from the airport to your accommodation, check out [Arriving in Bali: Airport Transfer Options and First-Day Tips](/blog/bali-airport-transfer-guide/), which includes comparisons of private cars, taxis, and ride-hailing services.
+**By the way:** For transportation arrangements from the airport to your accommodation, check out [Arriving in Bali: Airport Transfer Options and First-Day Tips](/en/blog/bali-airport-transfer-guide/), which includes comparisons of private cars, taxis, and ride-hailing services.
 
 ### 2. Buying at Convenience Stores in the City
 
@@ -386,7 +386,7 @@ Official Telkomsel and Indosat counters at the airport offer English services, a
 Klook, Airalo, and Holafly are globally recognized platforms that use HTTPS encryption, making transactions as secure as regular online shopping. It’s recommended to use a credit card with no foreign transaction fees (e.g., Richart) for purchases.
 
 **Which is more cost-effective: Wi-Fi router or SIM card?**
-For trips under 5 days with 3 or more people, a Wi-Fi router divided per person might be cheaper. However, for trips over 5 days or with only 1–2 people, a SIM card or eSIM is almost always more economical, and you won’t have to worry about the router’s battery life. For a full comparison, refer to our article: [Bali Wi-Fi Router vs SIM Card Guide](/blog/bali-sim-card-esim-roaming-guide/).
+For trips under 5 days with 3 or more people, a Wi-Fi router divided per person might be cheaper. However, for trips over 5 days or with only 1–2 people, a SIM card or eSIM is almost always more economical, and you won’t have to worry about the router’s battery life. For a full comparison, refer to our article: [Bali Wi-Fi Router vs SIM Card Guide](/en/blog/bali-sim-card-esim-roaming-guide/).
 
 **Is eSIM or physical SIM more cost-effective for groups?**
 For 2 people or fewer, buying individual eSIMs is the most convenient. For groups of 3 or more, sharing a Telkomsel physical SIM with hotspot is the cheapest option (around USD$0.65 per person for IDR 120,000 divided among three). However, hotspot sharing drains battery faster, so bring a power bank.
@@ -421,15 +421,15 @@ For Telkomsel and Indosat prepaid SIM cards, voice calls and SMS balances are ca
 
 **You might also find these guides helpful:**
 
-- [Complete Guide to Bali Airport Transfers](/blog/bali-airport-transfer-guide/)—How to get to the city after clearing customs
-- [Bali Currency Exchange Guide & Recommended Money Changer Map](/blog/bali-currency-exchange-guide/)—Tips to avoid scams when exchanging money
-- [Recommended Bali Private Car Hire & Cost Reference](/blog/bali-private-car-hire-guide/)—How to calculate costs for Ubud, waterfalls, and sunrise tours
-- [7-Day Bali Itinerary Planning Guide](/blog/bali-free-travel-guide/)—From airport arrival to your final day
+- [Complete Guide to Bali Airport Transfers](/en/blog/bali-airport-transfer-guide/)—How to get to the city after clearing customs
+- [Bali Currency Exchange Guide & Recommended Money Changer Map](/en/blog/bali-currency-exchange-guide/)—Tips to avoid scams when exchanging money
+- [Recommended Bali Private Car Hire & Cost Reference](/en/blog/bali-private-car-hire-guide/)—How to calculate costs for Ubud, waterfalls, and sunrise tours
+- [7-Day Bali Itinerary Planning Guide](/en/blog/bali-free-travel-guide/)—From airport arrival to your final day
 
 ***
 
 📍 **[Bali Telecom Provider Official Store Map](/map/sim-card/)** — Locations, addresses, and business hours of Telkomsel / Indosat / XL official stores across various areas.
 
-[2026 Bali Ultimate Free Travel Guide | Must-See First-Timer's Handbook](/blog/bali-ultimate-guide-2026/)
+[2026 Bali Ultimate Free Travel Guide | Must-See First-Timer's Handbook](/en/blog/bali-ultimate-guide-2026/)
 
 {{block:klook}}

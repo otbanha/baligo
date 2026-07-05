@@ -42,75 +42,75 @@ https://youtu.be/H5N5_UuK7TI
 
 ## 節慶相關：
 
-- [2026峇里島靜居日/寧靜日（Nyepi Day）｜妖怪大遊行須知](/blog/nyepi-day-bali-guide-2026/)
-- [2026年印尼國定假日&峇里島節慶一整年完整指南：精彩活動日期一覽！](/blog/2026-bali-festival-guide/)
-- [峇里島居然有五個旅遊旺季！點樣避開旺季聰明旅遊？](/blog/bali-peak-season-travel-tips/)
-- [峇里島雨季月份/降雨機率/降雨天數/平均氣溫/適合旅遊指數...大解析](/blog/bali-rainy-season-travel-guide/)
+- [2026峇里島靜居日/寧靜日（Nyepi Day）｜妖怪大遊行須知](/zh-hk/blog/nyepi-day-bali-guide-2026/)
+- [2026年印尼國定假日&峇里島節慶一整年完整指南：精彩活動日期一覽！](/zh-hk/blog/2026-bali-festival-guide/)
+- [峇里島居然有五個旅遊旺季！點樣避開旺季聰明旅遊？](/zh-hk/blog/bali-peak-season-travel-tips/)
+- [峇里島雨季月份/降雨機率/降雨天數/平均氣溫/適合旅遊指數...大解析](/zh-hk/blog/bali-rainy-season-travel-guide/)
 
 ## 入境相關：
 
-- [用「All Indonesia」入境卡｜1分鐘搞掂最新流程：落機→過海關→拎行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
-- [入境印尼/峇里島eVisa簽證、eCD海關、SSHP健康聲明必填 All Indonesia 常見問題 FAQ](/blog/bali-evisa-customs-health-declaration/)
+- [用「All Indonesia」入境卡｜1分鐘搞掂最新流程：落機→過海關→拎行李全攻略](/zh-hk/blog/bali-all-indonesia-arrival-guide/)
+- [入境印尼/峇里島eVisa簽證、eCD海關、SSHP健康聲明必填 All Indonesia 常見問題 FAQ](/zh-hk/blog/bali-evisa-customs-health-declaration/)
 
 ## 住宿基地/區域詳解：
 
 ### 庫塔/雷吉安/水明漾/坎古/烏布
 
-- [庫塔必訪50個景點攻略](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [水明漾100個景點攻略](/blog/seminyak-guide/)
-- [坎古100個必遊景點](/blog/canggu-guide/)
-- [烏布探索嘅100個方式](/blog/ubud-guide/)
+- [庫塔必訪50個景點攻略](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [水明漾100個景點攻略](/zh-hk/blog/seminyak-guide/)
+- [坎古100個必遊景點](/zh-hk/blog/canggu-guide/)
+- [烏布探索嘅100個方式](/zh-hk/blog/ubud-guide/)
 
 ### 努沙杜瓦
 
-- [努沙杜瓦40個住宿美食活動攻略](/blog/nusa-dua-guide/)
+- [努沙杜瓦40個住宿美食活動攻略](/zh-hk/blog/nusa-dua-guide/)
 
 ### 金巴蘭
 
-- [金巴蘭攻略](/blog/jimbaran-guide/)
+- [金巴蘭攻略](/zh-hk/blog/jimbaran-guide/)
 
 ### 烏魯瓦圖
 
-- [烏魯瓦圖攻略](/blog/uluwatu-guide/)
+- [烏魯瓦圖攻略](/zh-hk/blog/uluwatu-guide/)
 
 ### 沙努爾
 
-- [Sanur 50項吃喝玩樂攻略](/blog/sanur-guide/)
+- [Sanur 50項吃喝玩樂攻略](/zh-hk/blog/sanur-guide/)
 
 ### 其他地區
 
-- [佩尼達島吃喝玩樂全攻略](/blog/nusa-penida-guide/)
-- [藍夢島/金銀島景點全攻略](/blog/nusa-lembongan-ceningan-guide/)
-- [Nuanu Creative City攻略](/blog/nuanu-creative-city-luna-guide/)
-- [科摩多島攻略](/blog/komodo-island-labuan-bajo-travel/)
-- [Amed/Tulamben攻略](/blog/amed-tulamben-diving-guide/)
+- [佩尼達島吃喝玩樂全攻略](/zh-hk/blog/nusa-penida-guide/)
+- [藍夢島/金銀島景點全攻略](/zh-hk/blog/nusa-lembongan-ceningan-guide/)
+- [Nuanu Creative City攻略](/zh-hk/blog/nuanu-creative-city-luna-guide/)
+- [科摩多島攻略](/zh-hk/blog/komodo-island-labuan-bajo-travel/)
+- [Amed/Tulamben攻略](/zh-hk/blog/amed-tulamben-diving-guide/)
 
 ### 住宿推薦
 
 ![住宿推薦](https://images.gobaligo.id/vocus/vocus_cb23993cde9c417ee4093fb3bd3de849.jpg)
 
-我哋推薦嘅峇里島住宿都係零負評嘅優質住宿，仲經過詳細分區/分類整理。想搵峇里島住宿嘅朋友一定唔可以錯過！請撳[呢度](/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
+我哋推薦嘅峇里島住宿都係零負評嘅優質住宿，仲經過詳細分區/分類整理。想搵峇里島住宿嘅朋友一定唔可以錯過！請撳[呢度](/zh-hk/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 
 {{block:住宿}}
 
 ### 避開塞車惡夢
 
-- [【咁樣玩居然唔塞車！】爽玩峇里島自由行攻略：交通、住宿、景點、美食、購物、SPA、夜生活，全方位規劃](/blog/bali-free-travel-guide/)
+- [【咁樣玩居然唔塞車！】爽玩峇里島自由行攻略：交通、住宿、景點、美食、購物、SPA、夜生活，全方位規劃](/zh-hk/blog/bali-free-travel-guide/)
 
 ## 交通/包車
 
-- [峇里島包車須知 - 費用、預訂方式、優勢分析](/blog/bali-private-car-hire-guide/)
-- [【峇里島包車司機推薦】睇網友真實點評搵到啱你嘅好司機](/blog/bali-private-car-drivers-guide/)
-- [抵達峇里島：接機嘅交通選擇同第一日嘅實用建議](/blog/bali-airport-transfer-guide/)
-- [峇里島旅遊中文司機/中文導遊/中文包車行程推薦](/blog/bali-chinese-tour-guide/)
-- [峇里島租摩托車攻略！應該租摩托車好，定係包車好？](/blog/bali-motorbike-rental-guide/)
-- [峇里島租電單車攻略：價格、安全、注意事項一次睇](/blog/bali-motorbike-rental-tips/)
-- [幾時包車？幾時叫車？包車 vs. 叫車：點樣揀最啱你嘅旅行方式？](/blog/bali-transportation-guide-car-rental/)
-- [喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/blog/gojek-bali-guide/)
-- [網約車Gojek點樣用？](/blog/gojek-bali-guide/)
-- [印尼/峇里島嘅Gojek同GoPay註冊、使用、增值教學全面指南](/blog/indonesia-gojek-gopay-guide/)
-- [峇里島APP網約車司機嘅套路：點樣避免Grab/Gojek陷阱？](/blog/bali-grab-gojek-scam-tips/)
-- [Nusa Penida佩尼達島的士、Gojek/Grab、包車、電單車交通攻略](/blog/nusa-penida-transport-guide/)
+- [峇里島包車須知 - 費用、預訂方式、優勢分析](/zh-hk/blog/bali-private-car-hire-guide/)
+- [【峇里島包車司機推薦】睇網友真實點評搵到啱你嘅好司機](/zh-hk/blog/bali-private-car-drivers-guide/)
+- [抵達峇里島：接機嘅交通選擇同第一日嘅實用建議](/zh-hk/blog/bali-airport-transfer-guide/)
+- [峇里島旅遊中文司機/中文導遊/中文包車行程推薦](/zh-hk/blog/bali-chinese-tour-guide/)
+- [峇里島租摩托車攻略！應該租摩托車好，定係包車好？](/zh-hk/blog/bali-motorbike-rental-guide/)
+- [峇里島租電單車攻略：價格、安全、注意事項一次睇](/zh-hk/blog/bali-motorbike-rental-tips/)
+- [幾時包車？幾時叫車？包車 vs. 叫車：點樣揀最啱你嘅旅行方式？](/zh-hk/blog/bali-transportation-guide-car-rental/)
+- [喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/zh-hk/blog/gojek-bali-guide/)
+- [網約車Gojek點樣用？](/zh-hk/blog/gojek-bali-guide/)
+- [印尼/峇里島嘅Gojek同GoPay註冊、使用、增值教學全面指南](/zh-hk/blog/indonesia-gojek-gopay-guide/)
+- [峇里島APP網約車司機嘅套路：點樣避免Grab/Gojek陷阱？](/zh-hk/blog/bali-grab-gojek-scam-tips/)
+- [Nusa Penida佩尼達島的士、Gojek/Grab、包車、電單車交通攻略](/zh-hk/blog/nusa-penida-transport-guide/)
 
 ## 推薦深度體驗
 
@@ -140,7 +140,7 @@ https://youtu.be/H5N5_UuK7TI
 - [Ketut's Bali 美食烹飪教室體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23861-cooking-class-ketut-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D49762d8ba4)
 - [烏布烹飪課程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17260-cooking-class-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc9fd495c23)
 - [陶藝製作課](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F81778-pottery-class-serayu-pottery-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3d74ec6f17)
-- [頌缽療癒/音療](/blog/ubud-sound-healing/)
+- [頌缽療癒/音療](/zh-hk/blog/ubud-sound-healing/)
 
 ### 瑜伽課程
 
@@ -158,21 +158,21 @@ https://youtu.be/H5N5_UuK7TI
 
 ![戶外活動](https://images.gobaligo.id/vocus/vocus_b9d08056ca87707c17ba42c41712d2da.png)
 
-峇里島唔單止有靚到爆嘅沙灘同豪華度假村，仲隱藏咗好多唔同類型嘅戶外活動，等緊鍾意冒險嘅旅人嚟發掘。無論你係想搵刺激嘅探險家，定係想喺大自然入面放鬆身心嘅旅行者，峇里島都可以滿足你嘅需要。以下係六大分類，總共50種熱門戶外活動，請撳[呢度](/blog/bali-top-50-outdoor-activities/)。
+峇里島唔單止有靚到爆嘅沙灘同豪華度假村，仲隱藏咗好多唔同類型嘅戶外活動，等緊鍾意冒險嘅旅人嚟發掘。無論你係想搵刺激嘅探險家，定係想喺大自然入面放鬆身心嘅旅行者，峇里島都可以滿足你嘅需要。以下係六大分類，總共50種熱門戶外活動，請撳[呢度](/zh-hk/blog/bali-top-50-outdoor-activities/)。
 
 ## 錢銀、網絡、生活小貼士
 
-- [印尼/峇里島旅遊換匯懶人包：印尼/峇里島用咩錢？點樣換錢最抵？去邊度換錢最好？](/blog/bali-currency-exchange-guide/)
-- [【峇里島旅遊必備】點樣辦理峇里島網絡/SIM卡/eSIM?](/blog/bali-sim-card-esim-roaming-guide/)
-- [印尼/峇里島旅遊必讀：電壓同插座指南完全手冊！](/blog/bali-voltage-adapter-tips/)
+- [印尼/峇里島旅遊換匯懶人包：印尼/峇里島用咩錢？點樣換錢最抵？去邊度換錢最好？](/zh-hk/blog/bali-currency-exchange-guide/)
+- [【峇里島旅遊必備】點樣辦理峇里島網絡/SIM卡/eSIM?](/zh-hk/blog/bali-sim-card-esim-roaming-guide/)
+- [印尼/峇里島旅遊必讀：電壓同插座指南完全手冊！](/zh-hk/blog/bali-voltage-adapter-tips/)
 
 ## 峇里島八大推薦App
 
-請睇呢度：[到印尼/峇里島旅行必備嘅八大app推薦](/blog/bali-travel-apps-guide/)
+請睇呢度：[到印尼/峇里島旅行必備嘅八大app推薦](/zh-hk/blog/bali-travel-apps-guide/)
 
 ## 執行李參考
 
-- [巴里島要帶外套咩？峇里島穿搭攻略：旅行中必帶嘅8件衫](/blog/bali-packing-essentials/)
+- [巴里島要帶外套咩？峇里島穿搭攻略：旅行中必帶嘅8件衫](/zh-hk/blog/bali-packing-essentials/)
 
 ## 離線地圖
 
@@ -203,4 +203,4 @@ https://youtu.be/H5N5_UuK7TI
 
 👈 **返去峇里島自由行終極指南**
 
-想睇完整嘅新手懶人包？[㩒呢度閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。
+想睇完整嘅新手懶人包？[㩒呢度閱讀「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。

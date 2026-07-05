@@ -44,8 +44,8 @@ Mulai sekarang **nggak perlu lagi isi terpisah** deklarasi bea cukai (e-CD) dan 
 
 ### **Wajib Dilakukan Sebelum Berangkat**:
 
-1. Pastikan udah selesai urus eVisa. Cek [di sini](/blog/bali-evisa-application-guide/) untuk penjelasan lebih lanjut, biar nggak masuk website penipuan.
-2. Tiga hari sebelum berangkat, isi AIAC Arrival Card dan **screenshot QR Code** buat diperiksa. Lihat [FAQ](/blog/bali-evisa-customs-health-declaration/) yang udah kami siapkan.
+1. Pastikan udah selesai urus eVisa. Cek [di sini](/id/blog/bali-evisa-application-guide/) untuk penjelasan lebih lanjut, biar nggak masuk website penipuan.
+2. Tiga hari sebelum berangkat, isi AIAC Arrival Card dan **screenshot QR Code** buat diperiksa. Lihat [FAQ](/id/blog/bali-evisa-customs-health-declaration/) yang udah kami siapkan.
 
 ![Wajib Dilakukan Sebelum Berangkat:](https://images.gobaligo.id/vocus/vocus_47def0beb4f9737f8e70065afa8db58b.png)
 
@@ -63,7 +63,7 @@ Mulai sekarang **nggak perlu lagi isi terpisah** deklarasi bea cukai (e-CD) dan 
 - **Antre di konter**: Pemegang visa on arrival harus antre buat diperiksa.
 - **Pintu elektronik**: Kalau udah daftar/bayar eVisa sebelumnya, kamu nggak perlu antre stempel manual — bisa langsung pakai "pintu otomatis".
 
-▶️ Cara pakai pintu otomatis? Cek [panduan pintu otomatis Bali](/blog/2025-bali-automatic-customs/)
+▶️ Cara pakai pintu otomatis? Cek [panduan pintu otomatis Bali](/id/blog/2025-bali-automatic-customs/)
 
 ### **4️⃣ Ambil Bagasi**
 
@@ -85,9 +85,9 @@ Setelah ambil bagasi, langsung jalan lewat pos pemeriksaan bea cukai
 
 - Biaya: 150.000 IDR/orang (sekitar USD$5).
 
-▶️ Cara bayar? Cek panduan [Pajak Wisatawan](/blog/2026-bali-tourism-tax-guide/)
+▶️ Cara bayar? Cek panduan [Pajak Wisatawan](/id/blog/2026-bali-tourism-tax-guide/)
 
-👉**Info tambahan:** [Panduan Visa Anak untuk Masuk Indonesia/Bali](/blog/bali-child-visa-guide/)
+👉**Info tambahan:** [Panduan Visa Anak untuk Masuk Indonesia/Bali](/id/blog/bali-child-visa-guide/)
 
 ## ⏰ Kapan Harus Urus?
 
@@ -109,7 +109,7 @@ Lihat gambar, langsung paham
 
 ## **💡 Masalah Umum Saat Urus Visa Elektronik/All Indonesia**
 
-Cek [FAQ di sini](/blog/bali-evisa-customs-health-declaration/) ya
+Cek [FAQ di sini](/id/blog/bali-evisa-customs-health-declaration/) ya
 
 ***
 
@@ -129,4 +129,4 @@ Setelah lewat bea cukai, selamat ya — proses masuk sudah selesai! Sekarang kam
 
 👈 **Kembali ke Panduan Lengkap Trip ke Bali**
 
-Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.
+Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.

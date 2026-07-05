@@ -21,7 +21,7 @@ lang: id
 _srcHash: 17707370d5381abbedc5f38f5923f428
 ---
 
-Mulai tahun 2024, Indonesia bakal mendorong wisatawan yang mau ke Bali buat pakai layanan imigrasi online. Kamu bisa ngurus berbagai visa Indonesia secara online, termasuk perpanjangan visa — nggak perlu repot-repot ke kantor imigrasi lagi! (Update terbaru 29/05/2025: Sekarang balik lagi harus ke kantor imigrasi buat cap jempol, ya! Cek di [sini](/blog/indonesia-visa-rules-2025/))
+Mulai tahun 2024, Indonesia bakal mendorong wisatawan yang mau ke Bali buat pakai layanan imigrasi online. Kamu bisa ngurus berbagai visa Indonesia secara online, termasuk perpanjangan visa — nggak perlu repot-repot ke kantor imigrasi lagi! (Update terbaru 29/05/2025: Sekarang balik lagi harus ke kantor imigrasi buat cap jempol, ya! Cek di [sini](/id/blog/indonesia-visa-rules-2025/))
 
 ![2024印尼/Bali Online Visa Extension Guide](https://images.gobaligo.id/vocus/vocus_3251272747de6e2dc78cc7eb7b80f815.png)
 
@@ -79,4 +79,4 @@ Saat menghitung tanggal baru, perhatikan perbedaan jumlah hari dalam sebulan (bu
 
 ## Update Terbaru
 
-Update terbaru 29 Mei 2025: Sekarang aturannya berubah lagi, kamu harus datang ke kantor imigrasi untuk sidik jari! Cek selengkapnya di [sini](/blog/indonesia-visa-rules-2025/)
+Update terbaru 29 Mei 2025: Sekarang aturannya berubah lagi, kamu harus datang ke kantor imigrasi untuk sidik jari! Cek selengkapnya di [sini](/id/blog/indonesia-visa-rules-2025/)

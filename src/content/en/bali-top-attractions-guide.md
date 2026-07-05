@@ -50,7 +50,7 @@ Layered green lines recognized as a UNESCO World Heritage site, stunning like a 
 
 - _💬 Real Google Review:_ 'The scenery is beautiful, with impressive layered rice terraces. There are many jungle swings to try, great for photos. But the steps are steep, so going down and back up requires some stamina.'
 
-[> 8 Best Jungle Swing Recommendations: Dress Rental Tips, Photo Angles & Crowd Avoidance Guide](https://gobaligo.id/blog/ubud-jungle-swings-photo-guide/)
+[> 8 Best Jungle Swing Recommendations: Dress Rental Tips, Photo Angles & Crowd Avoidance Guide](https://gobaligo.id/en/blog/ubud-jungle-swings-photo-guide/)
 
 ### 2. Pura Tirta Empul
 
@@ -60,7 +60,7 @@ Here, underground springs have been flowing for thousands of years. Locals and t
 
 - _💬 Real Google Review:_ “An incredibly sacred and energizing place! Waiting in line for the purification ritual takes about an hour. The spring water is icy cold and crystal clear, and after washing, my restless mind truly calmed down. Remember to follow the rules and wear a sarong when entering.”
 
-[> [Bali's Tirta Empul Temple] Complete Guide: Thousand-Year Sacred Water Purification Ritual Process, Taboos & Must-See Highlights](https://gobaligo.id/blog/tirta-empul-temple-guide/)
+[> [Bali's Tirta Empul Temple] Complete Guide: Thousand-Year Sacred Water Purification Ritual Process, Taboos & Must-See Highlights](https://gobaligo.id/en/blog/tirta-empul-temple-guide/)
 
 ### 3. Ubud Palace & Market
 
@@ -72,7 +72,7 @@ https://youtube.com/shorts/Oh-RNfjhQhM
 
 - _💬 Real Google Review:_ "The palace is exquisite and compact, and free to enter. The market across the street is fantastic for shopping—rattan bags, wooden carvings, and more are everywhere. But you must start bargaining from 30% off the asking price; the haggling itself is part of the fun!"
 
-> [Ubud Royal Palace: A Gem of Balinese Culture and History | Opening Hours, Tickets, Performance Times, Nearby Attractions, and Day Trip Recommendations](https://gobaligo.id/blog/ubud-royal-palace-tour-guide/)
+> [Ubud Royal Palace: A Gem of Balinese Culture and History | Opening Hours, Tickets, Performance Times, Nearby Attractions, and Day Trip Recommendations](https://gobaligo.id/en/blog/ubud-royal-palace-tour-guide/)
 
 ### 4. Penglipuran Traditional Village
 
@@ -82,7 +82,7 @@ This ancient settlement still perfectly preserves its traditional architectural 
 
 - _💬 Real Google Review:_ "The entire village is incredibly clean and tidy, with unique traditional bamboo houses. The locals are very friendly and even invite you into their courtyards for a visit. Highly recommended for experiencing authentic Balinese traditional culture."
 
-> [【Bali Cultural Attractions】Penglipuran Village Guide: Step into the Cleanest and Most Ancient Village on the Island, Plus a Bamboo Forest Hidden Gem](https://gobaligo.id/blog/penglipuran-village-bali-experience/)
+> [【Bali Cultural Attractions】Penglipuran Village Guide: Step into the Cleanest and Most Ancient Village on the Island, Plus a Bamboo Forest Hidden Gem](https://gobaligo.id/en/blog/penglipuran-village-bali-experience/)
 
 ### 5. Ayung River
 
@@ -92,7 +92,7 @@ Head to Ubud's Ayung River for an exhilarating white-water rafting adventure! Th
 
 - _💬 Real Google Review:_ "White-water rafting was so much fun! The tropical rainforest scenery along the way is as beautiful as Jurassic Park, and you can even see stone carvings on the cliffs. The instructor was humorous and engaging. My arms were a bit sore afterward, but it was totally worth it!"
 
-> [【Bali Rafting FAQ】Can You Do It If You Can't Swim? Age Limits, Safety Tips, and a Full Comparison of Ayung River vs. Telaga Waja River](https://gobaligo.id/blog/bali-rafting-ayung-telaga-waja/)
+> [【Bali Rafting FAQ】Can You Do It If You Can't Swim? Age Limits, Safety Tips, and a Full Comparison of Ayung River vs. Telaga Waja River](https://gobaligo.id/en/blog/bali-rafting-ayung-telaga-waja/)
 
 ### 6. Tegenungan Waterfall
 
@@ -102,7 +102,7 @@ Hidden among lush greenery, this massive waterfall is the closest and most acces
 
 - _💬 Real Google Review:_ “It’s not too far from Ubud town center. The waterfall has an incredibly powerful flow—truly stunning! The path is well-maintained with lots of art installations perfect for photos. It only takes about 10 minutes to walk down, ideal for those who don’t want a long hike.”
 
-> [OMMA Dayclub: A Waterfall Bar in Ubud, Bali – Chill Vibes and Leisurely Moments Under the Sun](https://gobaligo.id/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+> [OMMA Dayclub: A Waterfall Bar in Ubud, Bali – Chill Vibes and Leisurely Moments Under the Sun](https://gobaligo.id/en/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 {{block:ubud}}
 
@@ -118,7 +118,7 @@ Perched on a massive rock along the coast. At high tide, the temple is cut off f
 
 - _💬 Real Google Review:_ “I recommend arriving around 5 PM so you can catch both the pre-sunset and post-sunset magic. At low tide, you can walk down to the temple’s base and touch the holy water. The sunset here is truly a once-in-a-lifetime sight!”
 
-[Detailed Guide to Tanah Lot Temple: Tides and Nearby Attractions](https://gobaligo.id/blog/bali-tanah-lot-guide/)
+[Detailed Guide to Tanah Lot Temple: Tides and Nearby Attractions](https://gobaligo.id/en/blog/bali-tanah-lot-guide/)
 
 ### 8. Uluwatu Temple
 
@@ -128,7 +128,7 @@ Perched on a steep cliff 70 meters high, this temple offers sweeping views of th
 
 - _💬 Real Google Review:_ “The temple built on the cliff edge is incredibly majestic, with unbeatable sunset sea views. The evening Kecak dance is breathtaking, performed entirely with vocal harmonies. Watch out for the aggressive monkeys here—they snatch glasses and hats, so keep your belongings secure.”
 
-[Bali Uluwatu Temple / Lover's Cliff Travel Guide: Must-See Highlights and Practical Tips](https://gobaligo.id/blog/uluwatu-temple-travel-guide/)
+[Bali Uluwatu Temple / Lover's Cliff Travel Guide: Must-See Highlights and Practical Tips](https://gobaligo.id/en/blog/uluwatu-temple-travel-guide/)
 
 ### 9. Seminyak
 
@@ -182,7 +182,7 @@ This former royal water palace blends local and Chinese architectural aesthetics
 
 - _💬 Real Google Review:_ "The water palace is incredibly beautiful, full of royal charm. The most fun part is buying a pack of fish food and feeding the koi while walking on the stone path in the water. Huge, plump fish gather all around you, making for an eye-catching photo!"
 
-> [【East Bali Guide】Gates of Heaven, Tirta Gangga, Ujung Water Palace: Fairy-tale Spots, Photography Tips & Transport Guide](https://gobaligo.id/blog/bali-east-tour-guide/)
+> [【East Bali Guide】Gates of Heaven, Tirta Gangga, Ujung Water Palace: Fairy-tale Spots, Photography Tips & Transport Guide](https://gobaligo.id/en/blog/bali-east-tour-guide/)
 
 ## 四、 Misty Lakes & Volcanic Vistas: North Bali & Kintamani Highlands
 
@@ -196,7 +196,7 @@ Surrounded by ethereal mist and the serene Lake Bratan, the temple appears to fl
 
 - _💬 Real Google Review:_ “It’s located in the mountains, so the weather is cool and even a bit chilly. The temple on the lake appears and disappears in the mist, truly like a paradise on earth. Completely different from the lively southern beaches, it’s a place that brings you peace.”
 
-> [Bali Kintamani Batur Volcano Lake | Sunrise Hiking × Royal Boat × Lakeview Cafés × Mountain Playground × Hot Springs Guide](https://gobaligo.id/blog/batur-lake-volcano-guide/)
+> [Bali Kintamani Batur Volcano Lake | Sunrise Hiking × Royal Boat × Lakeview Cafés × Mountain Playground × Hot Springs Guide](https://gobaligo.id/en/blog/batur-lake-volcano-guide/)
 
 ### 16. Kintamani / Mount Batur
 
@@ -206,7 +206,7 @@ The best vantage point to take in Mount Batur and Lake Batur. In recent years, m
 
 - _💬 Real Google Review:_ “The climate here is so cool, completely different from the heat in the south! Sitting in a viewpoint café looking at the black volcanic lava remains and the lake, the view is incredibly expansive. Highly recommend a visit.”
 
-> [Top 13 Kintamani Volcano Viewpoint Cafés/Restaurants in Bali 🌄☕](https://gobaligo.id/blog/kintamani-volcano-cafes-restaurants/)
+> [Top 13 Kintamani Volcano Viewpoint Cafés/Restaurants in Bali 🌄☕](https://gobaligo.id/en/blog/kintamani-volcano-cafes-restaurants/)
 
 ## 5. God’s Dropped Pearl: Nusa Islands & Surrounding Isles
 
@@ -236,7 +236,7 @@ Broken Beach is a massive circular natural sea arch. Just a few minutes' walk aw
 
 - _💬 Real Google Review:_ “Nature's masterpiece! The natural sea arch is incredibly spectacular. Next door, Angel's Billabong at low tide is as calm and clear as a transparent infinity pool, revealing the rock patterns beneath—absolutely gorgeous.”
 
-[【Bali - Nusa Penida Complete Guide】Map, Ferry, Accommodation, Transportation, Private Car, Activities, Photography, Attractions](https://gobaligo.id/blog/nusa-penida-guide/)
+[【Bali - Nusa Penida Complete Guide】Map, Ferry, Accommodation, Transportation, Private Car, Activities, Photography, Attractions](https://gobaligo.id/en/blog/nusa-penida-guide/)
 
 ### 20. Devil's Tears (Lembongan Island)
 
@@ -246,7 +246,7 @@ Located on the offshore island of Lembongan, this is a crescent-shaped cliff for
 
 - _💬 Real Google Review:_ “When the big waves hit the rock crevices, they create huge splashes and mist—the sound is absolutely thunderous! If you're lucky, you can even spot a rainbow in the spray. But don't stand too close to the edge—safety first.”
 
-[【Lembongan/Ceningan Island Attractions Guide】Explore Lembongan/Ceningan Island Attractions, Food, Transportation: Bali's Nearby Paradise](https://gobaligo.id/blog/nusa-lembongan-ceningan-guide/)
+[【Lembongan/Ceningan Island Attractions Guide】Explore Lembongan/Ceningan Island Attractions, Food, Transportation: Bali's Nearby Paradise](https://gobaligo.id/en/blog/nusa-lembongan-ceningan-guide/)
 
 https://youtube.com/shorts/D6ZFGWE74cE
 
@@ -256,11 +256,11 @@ After browsing these 20 breathtaking dream spots, aren't you itching to slip int
 
 To make your journey smoother and more elegant, we've put together a super detailed 【Exclusive to This Site: Bali Zoned Travel Guide】! It not only links nearby attractions into day-trip itineraries but also includes insider tips on secret transport routes and crowd-avoidance hacks.
 
-#### 👉 Click to watch now: [Complete Bali Regional Travel Guide — Explore the Island of the Gods in One Read!](https://gobaligo.id/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)
+#### 👉 Click to watch now: [Complete Bali Regional Travel Guide — Explore the Island of the Gods in One Read!](https://gobaligo.id/en/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)
 
-> [Bali Beginner's Guide](https://gobaligo.id/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
+> [Bali Beginner's Guide](https://gobaligo.id/en/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
 
-> [Bali No-Mistakes Guide: 18 Common Errors and Tips](https://gobaligo.id/blog/bali-travel-mistakes-tips/)
+> [Bali No-Mistakes Guide: 18 Common Errors and Tips](https://gobaligo.id/en/blog/bali-travel-mistakes-tips/)
 
 Let the most authentic itinerary guide accompany you as you pack your bags and embark on this ultimate luxury journey to refresh your mind, body, and soul!
 

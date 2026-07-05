@@ -94,7 +94,7 @@ Selain visa, jangan lupa juga urus pajak wisatawan dan e-declaration. Cek link d
 
 **Referensi Cepat:**
 
-- [Panduan Masuk Indonesia/Bali 2025 - Proses dari Turun Pesawat/Melewati Imigrasi sampai Ambil Bagasi](/blog/bali-all-indonesia-arrival-guide/)
+- [Panduan Masuk Indonesia/Bali 2025 - Proses dari Turun Pesawat/Melewati Imigrasi sampai Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
 
 ***
 
@@ -138,7 +138,7 @@ Agama utama di Bali adalah Hindu Bali (Balinese Hinduism), yaitu perpaduan unik 
 
 **Referensi Cepat:**
 
-- [Festival Tradisional Bali: Panduan Hari Raya Keagamaan Bali 2025/2026](/blog/bali-religious-festivals-guide/)
+- [Festival Tradisional Bali: Panduan Hari Raya Keagamaan Bali 2025/2026](/id/blog/bali-religious-festivals-guide/)
 
 ***
 
@@ -152,7 +152,7 @@ https://youtu.be/0M0voLfFLrQ
 
 ## 10. Tegangan listrik di Bali beda sama Taiwan, apa yang perlu diperhatikan? 🔌
 
-Tegangan listrik di Bali _220 volt_, sedangkan Taiwan _110 volt_. Artinya, beberapa barang elektronik dari Taiwan mungkin nggak cocok dipakai di Bali. Nggak cuma tegangannya beda, bentuk colokannya juga beda. Ini beberapa poin penting yang perlu kamu tahu, cek selengkapnya di [sini](/blog/bali-voltage-adapter-tips/).
+Tegangan listrik di Bali _220 volt_, sedangkan Taiwan _110 volt_. Artinya, beberapa barang elektronik dari Taiwan mungkin nggak cocok dipakai di Bali. Nggak cuma tegangannya beda, bentuk colokannya juga beda. Ini beberapa poin penting yang perlu kamu tahu, cek selengkapnya di [sini](/id/blog/bali-voltage-adapter-tips/).
 
 ***
 
@@ -162,7 +162,7 @@ https://youtube.com/shorts/lltGiElNWBA
 
 Ini dia delapan aplikasi pilihan kami, mulai dari aplikasi panggil ojek/pesan makanan, navigasi, penerjemah, konversi mata uang, cuaca, sampai komunikasi sama warga lokal — semua fitur yang pasti kepake pas traveling. Bantu kamu eksplor Indonesia/Bali dengan mudah dan nikmatin perjalanan!
 
-Lihat di «[Rekomendasi 8 aplikasi wajib traveling ke Indonesia/Bali](/blog/bali-travel-apps-guide/)»
+Lihat di «[Rekomendasi 8 aplikasi wajib traveling ke Indonesia/Bali](/id/blog/bali-travel-apps-guide/)»
 
 ***
 
@@ -184,9 +184,9 @@ https://youtu.be/GivvqCXp11A
 
 **Referensi Cepat:**
 
-- [Yang paling menakutkan di Bali bukan ular atau binatang buas, tapi monyet](/blog/bali-monkey-safety-tips/)
-- [Peringatan wisata Bali: Penipuan pamer uang di jalanan, hindari jadi korban berikutnya!](/blog/bali-street-scam-alert/)
-- [Tips kesehatan perjalanan Bali: Panduan air minum dan diare di Bali](/blog/bali-travel-health-tips/)
+- [Yang paling menakutkan di Bali bukan ular atau binatang buas, tapi monyet](/id/blog/bali-monkey-safety-tips/)
+- [Peringatan wisata Bali: Penipuan pamer uang di jalanan, hindari jadi korban berikutnya!](/id/blog/bali-street-scam-alert/)
+- [Tips kesehatan perjalanan Bali: Panduan air minum dan diare di Bali](/id/blog/bali-travel-health-tips/)
 
 ***
 
@@ -196,12 +196,12 @@ Rekomendasi itinerary di Bali sekitar _7 hari_. Waktu ini cukup untuk mencakup t
 
 ![請看佩尼達島攻略](https://images.gobaligo.id/vocus/vocus_fe35012ee0928f3031e9c5cd9297802f.jpg)
 
-[Lihat panduan Nusa Penida](/blog/nusa-penida-guide/)
+[Lihat panduan Nusa Penida](/id/blog/nusa-penida-guide/)
 
 **Referensi Cepat:**
 
-- [Kitab suci perencanaan itinerary Bali yang wajib lihat](/blog/bali-free-travel-guide/)
-- [【Panduan Lengkap Nusa Penida】Peta, kapal, akomodasi, transportasi, sewa mobil, aktivitas, fotografi, tempat wisata](/blog/nusa-penida-guide/)
+- [Kitab suci perencanaan itinerary Bali yang wajib lihat](/id/blog/bali-free-travel-guide/)
+- [【Panduan Lengkap Nusa Penida】Peta, kapal, akomodasi, transportasi, sewa mobil, aktivitas, fotografi, tempat wisata](/id/blog/nusa-penida-guide/)
 - [【Panduan Lengkap Nusa Lembongan】Jelajahi tempat wisata, kuliner, transportasi di Nusa Lembongan/Ceningan: Surga di dekat Bali](https://)
 
 ***
@@ -210,7 +210,7 @@ Rekomendasi itinerary di Bali sekitar _7 hari_. Waktu ini cukup untuk mencakup t
 
 Gimana caranya merencanakan perjalanan ke Bali yang seru dan mendalam? Kalau kamu sendiri nggak punya gambaran, orang lain nggak bisa rekomendasiin cara main yang cocok buat kamu!
 
-Lihat [panduan perencanaan perjalanan mandiri](/blog/2026-bali-trip-planning-guide/) yang kami buat, bantu kamu cepat atur itinerary Bali.
+Lihat [panduan perencanaan perjalanan mandiri](/id/blog/2026-bali-trip-planning-guide/) yang kami buat, bantu kamu cepat atur itinerary Bali.
 
 Selain itu, kalau khusus untuk liburan keluarga, bawa orang tua, atau pasangan/bulan madu romantis, cek tips di nomor 34, 35, 36 di bawah.
 
@@ -218,11 +218,11 @@ Selain itu, kalau khusus untuk liburan keluarga, bawa orang tua, atau pasangan/b
 
 ## 15. Ada tempat wisata apa aja di Bali?
 
-Kalau kamu pertama kali ke Bali, saran aku mulai dari "[10 Destinasi Wajib di Bali](/blog/bali-top-landmarks-guide/)" dulu.
+Kalau kamu pertama kali ke Bali, saran aku mulai dari "[10 Destinasi Wajib di Bali](/id/blog/bali-top-landmarks-guide/)" dulu.
 
 ![峇里島十大必訪景點](https://images.gobaligo.id/vocus/vocus_878ad590ace0b35b4d3c3e3538d707c9.jpg)
 
-[10 Destinasi Wajib di Bali](/blog/bali-top-landmarks-guide/)
+[10 Destinasi Wajib di Bali](/id/blog/bali-top-landmarks-guide/)
 
 Pas bikin itinerary, inget ya — waktu perjalanan di Bali sering lebih lama dari perkiraan. Makanya jangan terlalu padatin tempat tiap hari. Kalau ke pura, jaga sikap sopan. Di musim ramai, mending pesen tiket tempat wisata dan transportasi dari jauh-jauh hari.
 
@@ -240,7 +240,7 @@ Pas liburan di Bali, transportasi itu bagian penting yang gak boleh disepelein. 
 
 https://youtu.be/0fqEvAzAy9A
 
-**Sewa mobil plus sopir** jadi favorit banyak turis di Bali karena praktis, aman, dan harganya masuk akal. Kebanyakan sopir juga jago jadi guide, hafal tempat-tempat wisata dan rute terbaik. Cocok banget buat liburan keluarga atau rombongan minimal dua orang, bikin perjalanan lebih nyaman. Mau cari sopir andalan? Cek rekomendasi asli dari anggota grup kita di 【[Daftar Sopir Terbaik](/blog/bali-private-car-drivers-guide/)】
+**Sewa mobil plus sopir** jadi favorit banyak turis di Bali karena praktis, aman, dan harganya masuk akal. Kebanyakan sopir juga jago jadi guide, hafal tempat-tempat wisata dan rute terbaik. Cocok banget buat liburan keluarga atau rombongan minimal dua orang, bikin perjalanan lebih nyaman. Mau cari sopir andalan? Cek rekomendasi asli dari anggota grup kita di 【[Daftar Sopir Terbaik](/id/blog/bali-private-car-drivers-guide/)】
 
 **2. Taksi & Ojek Online 🚕**
 
@@ -270,7 +270,7 @@ Dari Bali mau ke Nusa Penida, Nusa Lembongan, atau pulau-pulau lain di sekitarny
 
 Naik speedboat sekitar 30–45 menit, tiketnya sekitar 150.000–200.000 IDR (sekitar USD$5–6). Saran gue, pesen tiket online duluan biar lebih aman.
 
-Referensi cepat: [【Panduan Island Hopping】Lompat Pulau dari Bali ke Nusa Penida/Nusa Lembongan/Gili/Lombok? Cara Beli Tiket Speedboat? Di Mana?](/blog/bali-island-hopping-guide/)
+Referensi cepat: [【Panduan Island Hopping】Lompat Pulau dari Bali ke Nusa Penida/Nusa Lembongan/Gili/Lombok? Cara Beli Tiket Speedboat? Di Mana?](/id/blog/bali-island-hopping-guide/)
 
 **Pilihan transportasi:**
 
@@ -287,8 +287,8 @@ Referensi cepat: [【Panduan Island Hopping】Lompat Pulau dari Bali ke Nusa Pen
 
 **Panduan Dua Pulau Lepas Bali:**
 
-- [Panduan Lengkap Nusa Penida: Makan, Main, dan Seru-seruan](/blog/nusa-penida-guide/)
-- [Panduan Lengkap Nusa Lembongan & Ceningan: Spot Wisata](/blog/nusa-lembongan-ceningan-guide/)
+- [Panduan Lengkap Nusa Penida: Makan, Main, dan Seru-seruan](/id/blog/nusa-penida-guide/)
+- [Panduan Lengkap Nusa Lembongan & Ceningan: Spot Wisata](/id/blog/nusa-lembongan-ceningan-guide/)
 
 ***
 
@@ -315,7 +315,7 @@ Harga di Bali sebenarnya fleksibel banget, tergantung gaya traveling dan kebiasa
 
 ![19. Gimana Cara Hemat Budget Liburan ke Bali?](https://images.gobaligo.id/vocus/vocus_c795af0f5b6014135ec5f32377cd075e.jpg)
 
-Yang paling dihindari pas traveling itu boros, apalagi pas rencanain perjalanan, penting banget buat atur budget dengan cermat! Gimana caranya biar setiap rupiah terpakai dengan worth it? Gimana cara dapetin pengalaman liburan terbaik dengan harga paling hemat? Tenang, kami udah siapin panduan super praktis — 「[Tips Hemat Liburan ke Bali](/blog/bali-travel-money-saving-tips/)」! Artikel ini nggak cuma ngajarin kamu hindari jebakan konsumtif yang umum, tapi juga bagiin banyak trik hemat yang berguna, biar kamu gampang kuasai rahasia traveling di Bali, main puas tanpa bikin kantong bolong! Siapin buku catatan, mulai catat poin pentingnya!
+Yang paling dihindari pas traveling itu boros, apalagi pas rencanain perjalanan, penting banget buat atur budget dengan cermat! Gimana caranya biar setiap rupiah terpakai dengan worth it? Gimana cara dapetin pengalaman liburan terbaik dengan harga paling hemat? Tenang, kami udah siapin panduan super praktis — 「[Tips Hemat Liburan ke Bali](/id/blog/bali-travel-money-saving-tips/)」! Artikel ini nggak cuma ngajarin kamu hindari jebakan konsumtif yang umum, tapi juga bagiin banyak trik hemat yang berguna, biar kamu gampang kuasai rahasia traveling di Bali, main puas tanpa bikin kantong bolong! Siapin buku catatan, mulai catat poin pentingnya!
 
 ***
 
@@ -323,7 +323,7 @@ Yang paling dihindari pas traveling itu boros, apalagi pas rencanain perjalanan,
 
 ![20. Berapa Banyak Uang Tunai yang Harus Disiapkan untuk Libu](https://images.gobaligo.id/vocus/vocus_ae701b59f0e6834d794a3ce752ddd57c.jpg)
 
-「Berapa banyak uang tunai yang harus disiapkan buat liburan ke Bali?」、「Bawa USD berapa banyak?」 Pertanyaan kayak gini sering bikin bingung para traveler yang mau ke surga liburan Indonesia ini. Soal kapan perlu pakai uang tunai? Gimana cara ngatur budget? Sisa uang gimana? Cek artikel khusus [di sini](/blog/bali-travel-cash-budget-guide/).
+「Berapa banyak uang tunai yang harus disiapkan buat liburan ke Bali?」、「Bawa USD berapa banyak?」 Pertanyaan kayak gini sering bikin bingung para traveler yang mau ke surga liburan Indonesia ini. Soal kapan perlu pakai uang tunai? Gimana cara ngatur budget? Sisa uang gimana? Cek artikel khusus [di sini](/id/blog/bali-travel-cash-budget-guide/).
 
 ***
 
@@ -349,13 +349,13 @@ Lingkungan pembayaran pakai kartu di Bali udah cukup matang, tapi tetap perlu pe
 **Referensi Cepat:**
 
 - **Bawa kartu kredit multi-mata uang:** Visa dan MasterCard paling banyak diterima.
-- **Pakai pembayaran digital:** Dompet digital GoPay di Bali makin populer, bisa pertimbangkan instal aplikasinya. Cek panduan lengkapnya di sini: [Panduan Lengkap Daftar, Pakai, dan Isi Saldo Gojek & GoPay di Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
+- **Pakai pembayaran digital:** Dompet digital GoPay di Bali makin populer, bisa pertimbangkan instal aplikasinya. Cek panduan lengkapnya di sini: [Panduan Lengkap Daftar, Pakai, dan Isi Saldo Gojek & GoPay di Indonesia/Bali](/id/blog/indonesia-gojek-gopay-guide/)
 
 ***
 
 **Catatan kecil:** Sebelum pakai kartu kredit, pastikan tanya dulu apakah ada biaya tambahan, dan jaga baik-baik info kartu biar aman dari risiko pencurian data.
 
-- [Apakah Kartu Kredit Praktis di Bali? Worth It Nggak?](/blog/bali-credit-card-travel-tips/)
+- [Apakah Kartu Kredit Praktis di Bali? Worth It Nggak?](/id/blog/bali-credit-card-travel-tips/)
 
 ## 22. Berapa Tip yang Pas di Bali Biar Nggak Kelihatan Kikuk?
 
@@ -363,7 +363,7 @@ Lingkungan pembayaran pakai kartu di Bali udah cukup matang, tapi tetap perlu pe
 
 Di Bali ada beberapa situasi yang emang pas banget kasih tip, kayak porter yang bantu bawa koper ke kamar, mbak housekeeping yang bersihin kamar tiap hari, pelayan di restoran atau kafe, tukang pijat atau SPA, supir transportasi... dan lain-lain. Jumlah tip yang disarankan pakai uang kertas, dan usahakan jangan kurang dari 10.000 Rupiah (sekitar USD$1).
 
-Setelah berkali-kali eksplorasi dan observasi, kami sadar kalau wisatawan di Bali sering banget bikin kesalahan yang nggak cuma bikin liburan kurang maksimal, tapi juga bisa buang-buang waktu dan uang. Nih, beberapa kesalahan umum beserta tips praktis biar liburanmu makin seru dan bebas drama: Panduan Anti Zonk di Bali: [18 Kesalahan Umum & Tips](/blog/bali-travel-mistakes-tips/)
+Setelah berkali-kali eksplorasi dan observasi, kami sadar kalau wisatawan di Bali sering banget bikin kesalahan yang nggak cuma bikin liburan kurang maksimal, tapi juga bisa buang-buang waktu dan uang. Nih, beberapa kesalahan umum beserta tips praktis biar liburanmu makin seru dan bebas drama: Panduan Anti Zonk di Bali: [18 Kesalahan Umum & Tips](/id/blog/bali-travel-mistakes-tips/)
 
 ***
 
@@ -381,13 +381,13 @@ Bali punya banyak pilihan akomodasi yang super variatif, dari yang mewah buat li
 
 Semenanjung Bukit di ujung selatan Bali dalam beberapa tahun terakhir ini naik daun banget jadi kawasan wisata hits. Dibanding Kuta dan Seminyak di pesisir barat, di sini lebih sepi dari keramaian dan macet yang bikin pusing, suasananya lebih tenang dan santai, plus pemandangan tebing yang spektakuler serta pantai-pantai kece. Mau kamu peselancar, penjelajah alam, atau traveler yang cari resort tersembunyi, Semenanjung Bukit pasti cocok.
 
-Kami udah siapin "[Panduan Wisata Semenanjung Bukit](/blog/bukit-peninsula-guide/)" yang bakal ngebuka tabir pesona tempat ini, dari tempat wajib dikunjungi sampai kuliner tersembunyi, plus rekomendasi transportasi dan penginapan, semuanya udah diramu! Jangan sampai kelewatan panduan praktis ini, bawa pas berangkat dan rasain sendiri keunikan Semenanjung Bukit!
+Kami udah siapin "[Panduan Wisata Semenanjung Bukit](/id/blog/bukit-peninsula-guide/)" yang bakal ngebuka tabir pesona tempat ini, dari tempat wajib dikunjungi sampai kuliner tersembunyi, plus rekomendasi transportasi dan penginapan, semuanya udah diramu! Jangan sampai kelewatan panduan praktis ini, bawa pas berangkat dan rasain sendiri keunikan Semenanjung Bukit!
 
 Kalau kamu berencana ke pulau-pulau kecil di sekitar Bali, misalnya Nusa Lembongan yang memesona atau Nusa Penida yang spektakuler, Sanur wajib banget jadi basecamp nginep! Sanur terkenal dengan suasananya yang tenang dan santai, beda sama Kuta atau Seminyang yang rame, di sini lebih cocok buat kamu yang pengin relaksasi. Jalan-jalan di sepanjang trotoar pantai yang panjang, nikmatin angin laut yang sepoi, atau cobain kuliner lokal yang autentik, Sanur punya semua kenyamanan yang kamu butuhin.
 
 Plus, Sanur juga titik awal terbaik buat ke pulau-pulau kecil, karena sebagian besar speed boat berangkat dari sini. Mau naik kapal pagi atau pulang sore, nginep di sini bikin perjalananmu makin gampang dan bebas repot.
 
-Mau tahu lebih banyak tentang tempat wajib dikunjungi, rekomendasi penginapan, dan kuliner khas Sanur? Cus cek "[Panduan Sanur](/blog/sanur-guide/)" yang kami susun dengan teliti, bantu kamu nemuin surga yang low profile tapi mempesona ini!
+Mau tahu lebih banyak tentang tempat wajib dikunjungi, rekomendasi penginapan, dan kuliner khas Sanur? Cus cek "[Panduan Sanur](/id/blog/sanur-guide/)" yang kami susun dengan teliti, bantu kamu nemuin surga yang low profile tapi mempesona ini!
 
 ***
 
@@ -406,9 +406,9 @@ Untuk urusan booking akomodasi di Bali, saran saya sih pertimbangkan beberapa ha
 
 **Referensi Cepat:**
 
-- [Ternyata Bali punya lima musim ramai! Gimana cara pinter-pinteran hindari musim ramai?](/blog/bali-peak-season-travel-tips/)
-- [Kapan sih Idul Fitri di Indonesia?](/blog/bali-indonesia-holidays-2025/)
-- [Festival Tradisional Bali: Panduan Hari Raya Keagamaan Bali 2025/2026](/blog/bali-religious-festivals-guide/)
+- [Ternyata Bali punya lima musim ramai! Gimana cara pinter-pinteran hindari musim ramai?](/id/blog/bali-peak-season-travel-tips/)
+- [Kapan sih Idul Fitri di Indonesia?](/id/blog/bali-indonesia-holidays-2025/)
+- [Festival Tradisional Bali: Panduan Hari Raya Keagamaan Bali 2025/2026](/id/blog/bali-religious-festivals-guide/)
 
 ## 27. Gimana Cara Merencanakan Liburan/Backpackeran ke Bali?
 
@@ -416,7 +416,7 @@ Untuk urusan booking akomodasi di Bali, saran saya sih pertimbangkan beberapa ha
 
 Kalau kamu lebih suka backpackeran sendiri tapi bingung cara bikin rencana liburan Bali yang kece, tenang aja — kami udah siapin panduan simpel dan praktis buat kamu!
 
-1️⃣ Pertama, wajib banget cek dulu panduan kami «[Panduan Rencana Perjalanan Backpacker Bali](/blog/2026-bali-trip-planning-guide/)», cukup tujuh langkah aja, urusan itinerary Bali jadi gampang — mulai dari transportasi, tempat wisata, sampai akomodasi, semuanya udah dipikirin buat kamu!
+1️⃣ Pertama, wajib banget cek dulu panduan kami «[Panduan Rencana Perjalanan Backpacker Bali](/id/blog/2026-bali-trip-planning-guide/)», cukup tujuh langkah aja, urusan itinerary Bali jadi gampang — mulai dari transportasi, tempat wisata, sampai akomodasi, semuanya udah dipikirin buat kamu!
 
 2️⃣ Selain itu, kami juga mengumpulkan pengalaman berharga dari teman-teman komunitas. Hingga tahun 2024, kami sudah mengoleksi lebih dari 70 artikel berbagi itinerary perjalanan ke Bali dan cerita seru. Setiap artikel penuh info berguna dan kisah menarik — cocok banget jadi inspirasi buat rencana liburanmu! Klik di sini buat lihat lebih dalam 👉「[Koleksi Catatan Perjalanan Bali](/blog?cat=%E9%81%8A%E8%A8%98%E5%88%86%E4%BA%AB)」
 
@@ -426,8 +426,8 @@ Kalau kamu lebih suka backpackeran sendiri tapi bingung cara bikin rencana libur
 
 Makanan lokal yang nggak boleh kamu lewatkan pas ke Bali, udah kami kumpulin semua di link bawah ini:
 
-- [10 Makanan Terbaik Bali (Edisi Pertama)](/blog/bali-travel-tips/)
-- [10 Makanan Terbaik Bali (Edisi Kedua)](/blog/bali-top-10-foods/)
+- [10 Makanan Terbaik Bali (Edisi Pertama)](/id/blog/bali-travel-tips/)
+- [10 Makanan Terbaik Bali (Edisi Kedua)](/id/blog/bali-top-10-foods/)
 
 ## 29. Ada rekomendasi restoran vegan di Bali?
 
@@ -435,13 +435,13 @@ Bali bukan cuma surga wisata, tapi juga terkenal dengan budaya vegan yang kaya. 
 
 Penasaran restoran vegan mana yang paling populer? Klik link di bawah buat tahu lebih lanjut:
 
-[Eksplorasi 20 Restoran Vegan Terbaik di Bali: Petualangan Kuliner Nabati](/blog/bali-vegan-restaurants-guide/)
+[Eksplorasi 20 Restoran Vegan Terbaik di Bali: Petualangan Kuliner Nabati](/id/blog/bali-vegan-restaurants-guide/)
 
 ## 30. Apa yang enak di pasar malam Bali?
 
 Kalau kamu pengen merasakan budaya dan kuliner lokal di Bali, Pasar Malam Pasar Kreneng adalah pilihan yang kece banget. Pasar ini terletak di pusat Kota Denpasar, ibu kota Bali, dan jadi tempat favorit baik warga lokal maupun turis.
 
-Bisa cek [info kami](/blog/bali-pasar-kreneng-night-market/)
+Bisa cek [info kami](/id/blog/bali-pasar-kreneng-night-market/)
 
 ***
 
@@ -457,7 +457,7 @@ Tapi, perlu diingat,水上活動 di Teluk Selatan ini populer banget. Makanya, s
 
 > [Pesan Paket Banana Boat Teluk Selatan](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F9106-banana-boat-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D461f80f005)
 
-Kalau kamu mau surfing, cek [panduan surfing Bali kami](/blog/bali-surf-beaches-guide/)
+Kalau kamu mau surfing, cek [panduan surfing Bali kami](/id/blog/bali-surf-beaches-guide/)
 
 ***
 
@@ -467,7 +467,7 @@ https://youtube.com/shorts/arOR8IvtHbc
 
 Pengalaman SPA di Bali sudah terkenal di seluruh dunia dan jadi salah satu aktivitas wajib bagi banyak wisatawan. Mulai dari pijat romantis menghadap Samudra Hindia, perawatan alami yang tersembunyi di tengah hutan, hingga spa yang menggabungkan terapi tradisional Bali dengan teknik modern, semuanya bikin tubuh dan pikiran rileks total. Dari SPA mewah di resor hingga tempat pijat pinggir jalan yang terjangkau, Bali punya banyak pilihan untuk berbagai budget dan kebutuhan. Jadi, apakah SPA di Bali benar-benar worth it? Jawabannya jelas iya! Berikut ini kami ungkap pesona perawatan ini dan rekomendasi wajib coba:
 
-[Kumpulan Rekomendasi SPA Terbaik di Bali, Dibagi Berdasarkan Area Biar Lebih Gampang Dicari](/blog/spa/)
+[Kumpulan Rekomendasi SPA Terbaik di Bali, Dibagi Berdasarkan Area Biar Lebih Gampang Dicari](/id/blog/spa/)
 
 ***
 
@@ -481,7 +481,7 @@ https://youtube.com/shorts/wai2lSW3vVU
 
 Bali punya puluhan beach club dengan gaya yang beda-beda. Mau rebahan di pinggir kolam sambil menyesap cocktail dingin, menikmati pemandangan laut yang ciamik, atau ikut party dengan musik live, semuanya bisa kamu dapatkan di sini. Dari sunset spektakuler di Jimbaran, desain kekinian di Seminyak, sampai pemandangan menakjubkan dari tebing tinggi di Uluwatu, setiap beach club punya pesona uniknya sendiri. Link di bawah ini bakal ngajak kamu menjelajahi beberapa beach club paling populer di Bali, biar liburanmu makin seru!
 
-[20 Beach Club Gratis di Bali, Nikmati Bikini, Musik, Kolam Renang, dan Pemandangan Sunset](/blog/bali-beach-clubs-free-entry-list/)
+[20 Beach Club Gratis di Bali, Nikmati Bikini, Musik, Kolam Renang, dan Pemandangan Sunset](/id/blog/bali-beach-clubs-free-entry-list/)
 
 ***
 
@@ -513,9 +513,9 @@ Bali cocok nggak sih buat diajak sama orang tua? Jawabannya: tentu aja bisa! Pul
 
 **Panduan liburan ke Bali bareng orang tua:**
 
-- Episode 1: [Panduan Liburan Bali untuk Lansia - Aman, Nyaman & Tips Penting](/blog/bali-elderly-travel-guide/)
-- Episode 2: [Rekomendasi Tempat Wisata Bali yang Ramah Lansia](/blog/bali-senior-friendly-travel-guide/)
-- Episode 3: [Tingkah Orang Tua Bikin Geleng-Geleng!? Bawa Mereka Liburan ke Luar Negeri, Siap-siap 'Capek Hati'](/blog/traveling-with-elderly-parents-tips/)
+- Episode 1: [Panduan Liburan Bali untuk Lansia - Aman, Nyaman & Tips Penting](/id/blog/bali-elderly-travel-guide/)
+- Episode 2: [Rekomendasi Tempat Wisata Bali yang Ramah Lansia](/id/blog/bali-senior-friendly-travel-guide/)
+- Episode 3: [Tingkah Orang Tua Bikin Geleng-Geleng!? Bawa Mereka Liburan ke Luar Negeri, Siap-siap 'Capek Hati'](/id/blog/traveling-with-elderly-parents-tips/)
 
 ***
 
@@ -525,8 +525,8 @@ Bali cocok nggak sih buat diajak sama orang tua? Jawabannya: tentu aja bisa! Pul
 
 Kalau kamu lagi cari tempat buat pesta semalaman, Kuta dan Seminyak di Bali adalah tempat yang wajib kamu datangi!
 
-- Dua klub malam utama di Kuta bisa kamu lihat di [[panduan Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/)]
-- Lima klub malam di Seminyak [bisa lihat di sini](/blog/seminyak-nightclubs-guide/)
+- Dua klub malam utama di Kuta bisa kamu lihat di [[panduan Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)]
+- Lima klub malam di Seminyak [bisa lihat di sini](/id/blog/seminyak-nightclubs-guide/)
 
 ***
 
@@ -542,7 +542,7 @@ Nih, beberapa tarian tradisional Bali yang wajib kamu tonton:
 
 Ini dia tarian paling ikonik di Bali, sering disebut juga 'Tari Kera'. Terinspirasi dari epos Hindu Ramayana, para penari duduk melingkar sambil bersuara 'cak cak cak' kayak suara kera — suasananya super megah! Tempat paling terkenal buat nonton Kecak adalah di Pura Uluwatu (Uluwatu Temple) pas matahari terbenam. Latar belakangnya sunset keemasan plus pemandangan laut yang ciamik, bikin mata dan telinga kamu terhipnotis.
 
-[6 Lokasi Wajib Nonton Tari Kecak (Kecak Fire Dance) di Bali](/blog/bali-kecak-fire-dance-locations/)
+[6 Lokasi Wajib Nonton Tari Kecak (Kecak Fire Dance) di Bali](/id/blog/bali-kecak-fire-dance-locations/)
 
 2. **Tari Barong (Barong Dance)**
 
@@ -552,7 +552,7 @@ Tari Barong menceritakan pertarungan antara kebaikan dan kejahatan. Makhluk suci
 
 Tari Legong dianggap sebagai tarian paling elegan di Bali. Biasanya dibawakan oleh gadis-gadis muda, lewat gerakan tangan yang super halus dan tatapan mata yang penuh arti, mereka menceritakan kisah mitologi yang memukau. Tarian ini terkenal dengan ritme yang padat dan gerakan yang presisi. Biasanya dipentaskan di Puri Ubud (Ubud Palace) atau desa seni setempat — surga banget buat pecinta seni.
 
-Tari Barong dan Tari Legong bisa dinikmati di panggung indoor Balerung Stage, detailnya cek [di sini](/blog/balerung-stage-cultural-show/).
+Tari Barong dan Tari Legong bisa dinikmati di panggung indoor Balerung Stage, detailnya cek [di sini](/id/blog/balerung-stage-cultural-show/).
 
 **Kenapa wajib ditonton**
 
@@ -576,7 +576,7 @@ Keunikan setiap kawasan inilah yang membentuk puzzle surga tropis ini. Cara kamu
 
 ![40. Aku males ribet, ada rekomendasi agen travel?](https://images.gobaligo.id/vocus/vocus_fc839808c11834a857c58ba81322969f.jpg)
 
-Agen travel yang bisa 100% kustomisasi itinerary itu langka. Kami rekomendasiin isBali, agen travel yang udah punya pengalaman belasan tahun di Bali. Mereka bisa bikin rencana perjalanan paling pas sesuai budget dan lama liburanmu. Buat first-timer ke Bali, layanan ini bener-bener membantu banget. Kamu tinggal kasih budget dan beberapa tempat yang diincar, sisanya urusan isBali. Dari tiket pesawat, hotel, sampai sopir pribadi harian, semuanya diatur rapi. Model semi-paket ini nggak cuma ngirit waktu riset dan atur jadwal, tapi juga kasih fleksibilitas dan kebebasan. Diskon paket perjalanan dari kami bisa dicek [di sini](/blog/isbali-tour-agency-review/).
+Agen travel yang bisa 100% kustomisasi itinerary itu langka. Kami rekomendasiin isBali, agen travel yang udah punya pengalaman belasan tahun di Bali. Mereka bisa bikin rencana perjalanan paling pas sesuai budget dan lama liburanmu. Buat first-timer ke Bali, layanan ini bener-bener membantu banget. Kamu tinggal kasih budget dan beberapa tempat yang diincar, sisanya urusan isBali. Dari tiket pesawat, hotel, sampai sopir pribadi harian, semuanya diatur rapi. Model semi-paket ini nggak cuma ngirit waktu riset dan atur jadwal, tapi juga kasih fleksibilitas dan kebebasan. Diskon paket perjalanan dari kami bisa dicek [di sini](/id/blog/isbali-tour-agency-review/).
 
 ***
 
@@ -592,4 +592,4 @@ Sekarang **Klook** jadi platform travel yang paling lengkap buat cari diskonan d
 
 👈 **Kembali ke Panduan Lengkap Trip ke Bali**
 
-Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.
+Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.

@@ -57,7 +57,7 @@ Bagi kamu yang berencana ke Bali, penting banget untuk memahami dan menyesuaikan
 
 Selain biaya visa, wisatawan juga perlu membayar pajak wisatawan Bali sebesar IDR 150.000. Biaya ini digunakan untuk melindungi lingkungan alam, melestarikan warisan budaya, dan meningkatkan infrastruktur pariwisata. Kamu bisa bayar saat tiba di bandara, atau melalui aplikasi dan situs Love Bali.
 
-Baca juga: [Panduan Lengkap Pajak Turis/Travel Tax Bali: Aturan Baru 2024, Cara Bayar, Tips Antar-Pulau](/blog/2026-bali-tourism-tax-guide/)
+Baca juga: [Panduan Lengkap Pajak Turis/Travel Tax Bali: Aturan Baru 2024, Cara Bayar, Tips Antar-Pulau](/id/blog/2026-bali-tourism-tax-guide/)
 
 ### Tantangan Implementasi Kebijakan
 

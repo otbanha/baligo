@@ -22,7 +22,7 @@ Update: 2026/07/03
 
 - Mulai 26 Maret 2024, polisi wisata Bali bakal nge-random check bukti bayar pajak turis di **Pantai Kuta, Pura Uluwatu, Pura Tanah Lot** dan spot populer lainnya
 - Pajak turis Rp 150.000 per orang, **disarankan bayar online sebelum datang** (lewat website/aplikasi Love Bali), di bandara juga ada loket pembayaran
-- Kalau ketahuan belum bayar, harus bayar di tempat. Aturan terbaru & info antar pulau cek di [panduan pajak turis](/blog/2026-bali-tourism-tax-guide/)
+- Kalau ketahuan belum bayar, harus bayar di tempat. Aturan terbaru & info antar pulau cek di [panduan pajak turis](/id/blog/2026-bali-tourism-tax-guide/)
 
 Ada kabar penting nih buat kalian — pajak turis di Bali bakal di-random check! Kebijakan baru ini udah berjalan lima minggu penuh, dan sekarang saatnya memastikan semua turis paham dan patuh sama aturan barunya.
 
@@ -32,7 +32,7 @@ Kepala Dinas Pariwisata Bali ngumumin ini di konferensi pers baru-baru ini. Kata
 
 Berdasarkan data terbaru, baru 40% turis asing yang udah bayar pajak turis. Makanya random check ini dilakukan biar semua orang patuh bayar pajak tepat waktu. Tapi tenang aja, Dinas Pariwisata udah nyediain berbagai metode pembayaran — lewat aplikasi smartphone, website, atau loket pembayaran di bandara. Pasti ada cara yang cocok buat kamu!
 
-> Baca juga: [Panduan Pajak Turis Bali: Aturan Baru 2024, Cara Bayar, & Tips Antar Pulau](/blog/2026-bali-tourism-tax-guide/)
+> Baca juga: [Panduan Pajak Turis Bali: Aturan Baru 2024, Cara Bayar, & Tips Antar Pulau](/id/blog/2026-bali-tourism-tax-guide/)
 
 ![峇里島最新消息：3/26開始旅遊稅抽查！](https://images.gobaligo.id/vocus/vocus_aedb16fe1f10df555de6e03c79b7719e.png)
 

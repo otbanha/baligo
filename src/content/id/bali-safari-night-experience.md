@@ -290,6 +290,6 @@ Bali Safari emang serius banget soal ramah anak. Asal persiapan matang, keluarga
 - 🎭 **Bali Reptile Park**: Lihat koleksi reptil terlengkap di Asia Tenggara, sambil belajar berbagai fakta seru ([Diskon Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1148651&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F37955-bali-reptile-park-ticket%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7d7be6c50c))
 - 🛍️ **Mason Elephant Park**: Satu-satunya pusat penyelamatan gajah profesional di Bali. Interaksi langsung dengan gajah Sumatera, nonton pertunjukan, dan feeding bareng raksasa lembut ini ([Diskon Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1148651&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F24353-mason-elephant-park-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1c4e1cc903))
 
-➡ Rekomendasi taman bermain keluarga di Bali lainnya: [Panduan Lengkap 10 Taman Bermain Keluarga Terbaik di Bali](/blog/top-10-kids-attractions-in-bali/)
+➡ Rekomendasi taman bermain keluarga di Bali lainnya: [Panduan Lengkap 10 Taman Bermain Keluarga Terbaik di Bali](/id/blog/top-10-kids-attractions-in-bali/)
 
 {{block:親子}}

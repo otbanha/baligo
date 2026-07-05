@@ -152,7 +152,7 @@ Beberapa tipe visa bisa diganti di dalam negeri, tapi harus sesuai syarat terten
 
 ### 6️⃣ Ada pertanyaan lain soal pengajuan?
 
-Cek panduan lengkap [Visa Indonesia/Bali](/blog/indonesia-bali-visa-evoa-faq/) yang udah kita buat.
+Cek panduan lengkap [Visa Indonesia/Bali](/id/blog/indonesia-bali-visa-evoa-faq/) yang udah kita buat.
 
 ## 📩 **Gabung sekarang di 'Panduan Wisata Bali', jadi traveler Bali yang jago!**
 

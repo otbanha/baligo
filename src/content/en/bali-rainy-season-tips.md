@@ -76,7 +76,7 @@ https://youtube.com/shorts/ymx-kClfA1I
 
 - Light long-sleeved shirt (for temples or cooler evenings)
 
-**Quick reference:** [Do you need a jacket in Bali? Bali packing guide: 8 essential clothing items for your trip](/blog/bali-packing-essentials/)
+**Quick reference:** [Do you need a jacket in Bali? Bali packing guide: 8 essential clothing items for your trip](/en/blog/bali-packing-essentials/)
 
 ## Rainy season transportation tips
 
@@ -96,7 +96,7 @@ https://youtube.com/shorts/ymx-kClfA1I
 6. Waterfall chasing: The rainy season brings the fullest waterfalls — Sekumpul and Tegenungan are breathtaking!
 7. Cultural tours: Visit temples and watch traditional dance performances (many are held indoors).
 
-**Quick reference:** [60 Rainy Day Activities in Bali](/blog/2026-bali-indoor-activities/)
+**Quick reference:** [60 Rainy Day Activities in Bali](/en/blog/2026-bali-indoor-activities/)
 
 ## My honest advice
 

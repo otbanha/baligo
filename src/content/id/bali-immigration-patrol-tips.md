@@ -54,7 +54,7 @@ Biar makin gampang ngatur turis, Imigrasi Indonesia luncurin sistem **Hybrid App
 
 Kebijakan ini tujuannya bukan cuma buat kemudahan administrasi, tapi juga biar bisa menekan tindakan ilegal secara efektif.
 
-Referensi cepat: [Aturan Baru Perpanjangan Visa Indonesia Berlaku Sekarang: Perubahan Penting yang Wajib Diketahui Turis Bali, Proses Perpanjangan Visa Udah Beda](/blog/indonesia-visa-rules-2025/)
+Referensi cepat: [Aturan Baru Perpanjangan Visa Indonesia Berlaku Sekarang: Perubahan Penting yang Wajib Diketahui Turis Bali, Proses Perpanjangan Visa Udah Beda](/id/blog/indonesia-visa-rules-2025/)
 
 ---
 

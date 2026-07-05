@@ -35,7 +35,7 @@ https://youtu.be/RRurkFC7UG4
 
 This market not only boasts a dazzling array of handicrafts but also features many shops frequented by locals, allowing you to soak in the most authentic Balinese shopping atmosphere. When exploring the market, remember to bring enough cash, as many stalls don't accept credit cards.
 
-Read more: [How Much Cash Should You Bring for a Bali Trip?](/blog/bali-travel-cash-budget-guide/)
+Read more: [How Much Cash Should You Bring for a Bali Trip?](/en/blog/bali-travel-cash-budget-guide/)
 
 ## Pasar Badung: The Badung Market
 
@@ -91,6 +91,6 @@ I hope this article inspires your Bali trip and helps you experience the most au
 
 Click here to see more amazing travel stories from Bali.
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write a Stunning Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your story shine!
+Want to write a travelogue but don't know where to start? Check out "[How to Write a Stunning Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)" to make your story shine!
 
 {{block:戶外}}

@@ -87,16 +87,16 @@ _srcHash: 2b29413ca09fa8cb0e3ddc1eb264a59a
 
 **快速参考：**
 
-- [巴厘岛包车须知 - 费用、预订方式、优势分析](/blog/bali-private-car-hire-guide/)
-- [【巴厘岛包车司机推荐】看网友真实点评找到适合你的好司机](/blog/bali-private-car-drivers-guide/)
-- [抵达巴厘岛：接机的交通选择及第一天的实用建议](/blog/bali-airport-transfer-guide/)
-- [巴厘岛旅游中文司机/中文导游/中文包车行程推荐](/blog/bali-chinese-tour-guide/)
-- [巴厘岛租摩托车攻略！应该租摩托车好，还是包车好？](/blog/bali-motorbike-rental-guide/)
-- [什么时候包车？什么场合叫车？包车 vs. 叫车：如何选择最适合你的旅行方式？](/blog/bali-transportation-guide-car-rental/)
-- [在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略](/blog/gojek-bali-guide/)
-- [网约车Gojek如何使用？](/blog/gojek-bali-guide/)
-- [印尼/巴厘岛的Gojek与GoPay注册、使用、储值教学全面指南](/blog/indonesia-gojek-gopay-guide/)
-- [巴厘岛APP网约车司机的套路：如何避免Grab/Gojek陷阱？](/blog/bali-grab-gojek-scam-tips/)
+- [巴厘岛包车须知 - 费用、预订方式、优势分析](/zh-cn/blog/bali-private-car-hire-guide/)
+- [【巴厘岛包车司机推荐】看网友真实点评找到适合你的好司机](/zh-cn/blog/bali-private-car-drivers-guide/)
+- [抵达巴厘岛：接机的交通选择及第一天的实用建议](/zh-cn/blog/bali-airport-transfer-guide/)
+- [巴厘岛旅游中文司机/中文导游/中文包车行程推荐](/zh-cn/blog/bali-chinese-tour-guide/)
+- [巴厘岛租摩托车攻略！应该租摩托车好，还是包车好？](/zh-cn/blog/bali-motorbike-rental-guide/)
+- [什么时候包车？什么场合叫车？包车 vs. 叫车：如何选择最适合你的旅行方式？](/zh-cn/blog/bali-transportation-guide-car-rental/)
+- [在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略](/zh-cn/blog/gojek-bali-guide/)
+- [网约车Gojek如何使用？](/zh-cn/blog/gojek-bali-guide/)
+- [印尼/巴厘岛的Gojek与GoPay注册、使用、储值教学全面指南](/zh-cn/blog/indonesia-gojek-gopay-guide/)
+- [巴厘岛APP网约车司机的套路：如何避免Grab/Gojek陷阱？](/zh-cn/blog/bali-grab-gojek-scam-tips/)
 
 ***
 
@@ -152,8 +152,8 @@ https://youtu.be/NEnIZjZnrTk
 
 **快速参考：**
 
-- [巴厘岛十大美食](/blog/bali-travel-tips/)
-- [巴厘岛十大美食（第二版）](/blog/bali-top-10-foods/)
+- [巴厘岛十大美食](/zh-cn/blog/bali-travel-tips/)
+- [巴厘岛十大美食（第二版）](/zh-cn/blog/bali-top-10-foods/)
 
 ***
 
@@ -163,7 +163,7 @@ https://youtu.be/NEnIZjZnrTk
 
 ![零食](https://images.gobaligo.id/vocus/vocus_3ea8ffe66b2a6770faffd5da33e37e49.png)
 
-这里有介绍：[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/blog/bali-souvenirs-gift-guide/)
+这里有介绍：[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/zh-cn/blog/bali-souvenirs-gift-guide/)
 
 ***
 
@@ -203,7 +203,7 @@ https://youtu.be/NEnIZjZnrTk
 
 **快速参考：**
 
-[印尼巴厘岛旅游必备药品有哪些？防蚊液/防晒乳怎么买？](/blog/bali-travel-medicine-checklist/)
+[印尼巴厘岛旅游必备药品有哪些？防蚊液/防晒乳怎么买？](/zh-cn/blog/bali-travel-medicine-checklist/)
 
 ### 早餐供应：
 
@@ -233,6 +233,6 @@ https://youtu.be/NEnIZjZnrTk
 
 点击这里观看更多巴厘岛精彩游记
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/zh-cn/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
 
 {{block:攻略}}

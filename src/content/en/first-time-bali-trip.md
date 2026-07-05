@@ -44,7 +44,7 @@ On our first day, after arriving at the airport, Benny first took us to a money 
 
 https://youtu.be/UoGlRyAdyB8
 
-> Quick Reference: [Bali Travel Health Tips: A Guide to Drinking Water and Bali Belly](/blog/bali-travel-health-tips/)
+> Quick Reference: [Bali Travel Health Tips: A Guide to Drinking Water and Bali Belly](/en/blog/bali-travel-health-tips/)
 
 ## 🏡 Stay in a Cinnamon Paradise: Kayumanis Jimbaran Private Estate & Spa
 

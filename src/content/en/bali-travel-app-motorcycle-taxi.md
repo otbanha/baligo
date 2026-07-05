@@ -28,13 +28,13 @@ A fellow traveler named Pingping, who is planning a trip to Bali, raised a quest
 
 In response, another traveler named James shared his personal experience. He said that before going to Bali, he had considered renting a scooter, but after actually trying Gojek (a scooter taxi service), he found it incredibly convenient! The scooter he had rented was left unused, and even on the return flight, he didn’t want to ride it again.
 
-> Read more: [Essential Apps for Traveling in Indonesia/Bali: Gojek Full Guide](/blog/gojek-bali-guide/)
+> Read more: [Essential Apps for Traveling in Indonesia/Bali: Gojek Full Guide](/en/blog/gojek-bali-guide/)
 
 The advantages of using a ride-hailing app to book a scooter for short trips include on-demand service, very affordable prices, no worries about safety or police checks, and no need to find parking or pay parking fees at your destination. This convenience allows travelers to plan their itineraries more easily and enjoy the scenery without the hassle of transportation. Especially for those looking to move short distances and relax on vacation in Bali, this no-driving option adds to the joy of the trip.
 
 {{block:klook}}
 
-Another traveler, Shih-Chien, who just completed a [Solo Female Travel in Bali for 8 Days – Experience Sharing](/blog/bali-solo-female-travel/), suggested that for Pingping, who wants to avoid traffic jams, using a ride-hailing app to book two scooters might be a good choice. This way, she can easily enjoy the short-distance sights and activities in the city without wasting time stuck in traffic.
+Another traveler, Shih-Chien, who just completed a [Solo Female Travel in Bali for 8 Days – Experience Sharing](/en/blog/bali-solo-female-travel/), suggested that for Pingping, who wants to avoid traffic jams, using a ride-hailing app to book two scooters might be a good choice. This way, she can easily enjoy the short-distance sights and activities in the city without wasting time stuck in traffic.
 
 On your Bali trip, choosing the right transportation is key to a smooth and enjoyable journey. **You can refer to or apply the following formula to pick the most cost-effective and safe option:**
 
@@ -54,11 +54,11 @@ On your Bali trip, choosing the right transportation is key to a smooth and enjo
 - Want to chat or need basic explanations → Hire a private driver
 - Want to make local friends in Bali → Hire a private driver
 
-**Any recommendations for good private drivers?** [Check here](/blog/2023-07-26-64db6b83fd897800013a9994/)
+**Any recommendations for good private drivers?** [Check here](/en/blog/2023-07-26-64db6b83fd897800013a9994/)
 
-> Further reading: [The Ultimate Guide to Bali Private Car Hire – Costs, Booking, and Pros & Cons](/blog/bali-private-car-hire-guide/)
+> Further reading: [The Ultimate Guide to Bali Private Car Hire – Costs, Booking, and Pros & Cons](/en/blog/bali-private-car-hire-guide/)
 
-> Further reading: [Bali Motorbike Rental Guide! Should You Rent a Scooter or Hire a Private Driver?](/blog/bali-motorbike-rental-guide/)
+> Further reading: [Bali Motorbike Rental Guide! Should You Rent a Scooter or Hire a Private Driver?](/en/blog/bali-motorbike-rental-guide/)
 
 Every mode of transport has its pros and cons—hope you pick the best one and have an unforgettable time in Bali!
 
@@ -82,4 +82,4 @@ For safety, a private driver is recommended—especially at night or when headin
 
 👈 **Back to the Ultimate Bali Travel Guide**
 
-Want the complete beginner's guide? [Click here to read the '2026 Bali Ultimate Travel Guide'](/blog/bali-ultimate-guide-2026/) and get everything sorted before you go.
+Want the complete beginner's guide? [Click here to read the '2026 Bali Ultimate Travel Guide'](/en/blog/bali-ultimate-guide-2026/) and get everything sorted before you go.

@@ -346,4 +346,4 @@ Purchase through online platforms: [Klook Travel Insurance](https://affiliate.kl
 
 👈 **Back to the Ultimate Bali Travel Guide**
 
-Want the full beginner's guide? [Click here to read the "2026 Bali Ultimate Travel Guide"](/blog/bali-ultimate-guide-2026/) and get everything sorted before you go.
+Want the full beginner's guide? [Click here to read the "2026 Bali Ultimate Travel Guide"](/en/blog/bali-ultimate-guide-2026/) and get everything sorted before you go.

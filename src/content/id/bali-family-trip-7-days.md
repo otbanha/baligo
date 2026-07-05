@@ -35,7 +35,7 @@ Beachwalk Residence
 
 一抵達，我們迫不及待地前往Jimbaran沙灘享受美食，並在超級市場採購接下來幾天的民生用品。
 
-> 參考：[Bali Jimbaran 9家海鮮餐廳推薦](/blog/jimbaran-seafood-restaurants-list/)
+> 參考：[Bali Jimbaran 9家海鮮餐廳推薦](/id/blog/jimbaran-seafood-restaurants-list/)
 
 > 参考：[峇里島超市買什麼？](https://youtu.be/UoGlRyAdyB8)
 
@@ -47,13 +47,13 @@ Pagi-pagi, kita ke Tanjung Benoa buat main water sports seru, siangnya lanjut ke
 
 Gambar: Uluwatu, dokumentasi Serena
 
-> 参考：[南灣的水上活動](/blog/nusa-dua-guide/)
+> 参考：[南灣的水上活動](/id/blog/nusa-dua-guide/)
 
-> 参考：[Kecak Fire Dance卡恰火舞秀 峇里島必看的震撼表演](/blog/kecak-fire-dance-bali/)
+> 参考：[Kecak Fire Dance卡恰火舞秀 峇里島必看的震撼表演](/id/blog/kecak-fire-dance-bali/)
 
 Sore harinya, sebelum balik ke hotel, kita sempat muter-muter toko pinggir jalan di Kuta.
 
-> 庫塔怎麼逛？請看【[庫塔旅遊攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集](/blog/2023-12-13-657598bdfd8978000120fe20/)】
+> 庫塔怎麼逛？請看【[庫塔旅遊攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集](/id/blog/2023-12-13-657598bdfd8978000120fe20/)】
 
 ### 2/15 Nusa Dua/Bali Zoo
 
@@ -73,11 +73,11 @@ Kita lanjut eksplorasi keindahan Bali. Pagi harinya kita mampir ke Ubud Palace d
 
 Foto: Ubud, oleh Serena
 
-> Info lengkap soal Ubud Palace, pasar, ayunan, dan air terjun bisa cek: [Panduan Lengkap Ubud Bali: 100 Cara Seru Kenalan Sama Ubud | Eksplor Pesona Ubud](/blog/ubud-guide/)
+> Info lengkap soal Ubud Palace, pasar, ayunan, dan air terjun bisa cek: [Panduan Lengkap Ubud Bali: 100 Cara Seru Kenalan Sama Ubud | Eksplor Pesona Ubud](/id/blog/ubud-guide/)
 
 ### 2/17 Seminyak/Jimbaran
 
-Hari ini kita pindah ke [Amarin Seminyak](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2802663) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=11152669&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oay8LFJMEkNY2F49TvI_fYhBgNLH4LOs6aCQT_Fjl4poGAz3KHAJ6IKQeeT2NPvGlbGbHiYKBDIQMI6Cx1aGQEK_670KGLkRWsZgbj3FsrWDcyGoOAeaPDDka2A4xsJxhX5Cxg2j5lF-spFmaOBpFLLN-ZoquVslMrlaxMdJRKMktyUpWslJ4umve0Yc_zFa1KOkopqcXJQCEgKzE3vzSvBMg2NLIw0DMwAAqVJFZ4poC1JifmJJfmJJakhlQWAI0w01HKLHYuKcosCErNzSwpSQWqSkvMKU4FiQelFgNlksGCSn5AY4qgApn5eRDthihiYYk5pakQNwAtdEuF2mFYq4Pp9Gdzep92z3yxaTeRTjenttMNiHG6cW3sIxam6NhPLAy_gBGxJqmJlaGLlZnjFNMkILkiZxcrW3BYhHmI5wXWeRcZpeQNDQwMTA2NTU11DRItEy3MLJJ1TSxNjMwsdU0NzE3MNO4da732xNjIWgoS-QqMWoLxIZ6eLoYlhalmhaWWOUUFpgaMpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYnNzMjM3Momy4mD1dggQ_6D3f3m5taS_FHBLuomgv2y-5oue0vRZIzhAmF7jndc4Je-MF9pGlq58v-d572j6JtSpDNyQ847hYAWMDI1MXI7cAowdjBGMFkMe4ipFhAyPjDsb_MMD4ihFkOgCqjzo_AgMAAA&masterhotelid_tracelogid=100051355-0a9a868c-494269-50746&detailFilters=17|1~17~1*31|11152669~31~11152669*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1300&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/ioA64iQT) (Seminyak) — ini vila besar dengan 3/4 kamar tidur. Ada info lengkapnya di [sini](/blog/bali-group-villa-stay/) ya!
+Hari ini kita pindah ke [Amarin Seminyak](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2802663) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=11152669&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oay8LFJMEkNY2F49TvI_fYhBgNLH4LOs6aCQT_Fjl4poGAz3KHAJ6IKQeeT2NPvGlbGbHiYKBDIQMI6Cx1aGQEK_670KGLkRWsZgbj3FsrWDcyGoOAeaPDDka2A4xsJxhX5Cxg2j5lF-spFmaOBpFLLN-ZoquVslMrlaxMdJRKMktyUpWslJ4umve0Yc_zFa1KOkopqcXJQCEgKzE3vzSvBMg2NLIw0DMwAAqVJFZ4poC1JifmJJfmJJakhlQWAI0w01HKLHYuKcosCErNzSwpSQWqSkvMKU4FiQelFgNlksGCSn5AY4qgApn5eRDthihiYYk5pakQNwAtdEuF2mFYq4Pp9Gdzep92z3yxaTeRTjenttMNiHG6cW3sIxam6NhPLAy_gBGxJqmJlaGLlZnjFNMkILkiZxcrW3BYhHmI5wXWeRcZpeQNDQwMTA2NTU11DRItEy3MLJJ1TSxNjMwsdU0NzE3MNO4da732xNjIWgoS-QqMWoLxIZ6eLoYlhalmhaWWOUUFpgaMpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYnNzMjM3Momy4mD1dggQ_6D3f3m5taS_FHBLuomgv2y-5oue0vRZIzhAmF7jndc4Je-MF9pGlq58v-d572j6JtSpDNyQ847hYAWMDI1MXI7cAowdjBGMFkMe4ipFhAyPjDsb_MMD4ihFkOgCqjzo_AgMAAA&masterhotelid_tracelogid=100051355-0a9a868c-494269-50746&detailFilters=17|1~17~1*31|11152669~31~11152669*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1300&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/ioA64iQT) (Seminyak) — ini vila besar dengan 3/4 kamar tidur. Ada info lengkapnya di [sini](/id/blog/bali-group-villa-stay/) ya!
 
 ![Amarin Seminyak](https://images.gobaligo.id/vocus/vocus_05d5cd9100ad596b8c6b70a1813fac15.jpg)
 
@@ -91,9 +91,9 @@ Pagi harinya, kita jalan-jalan naik mobil di sepanjang Blue Highway sambil menik
 
 Foto: Garuda Wisnu Kencana / Blue Highway, oleh Serena
 
-> Referensi: [Panduan Lengkap Garuda Wisnu Kencana GWK Cultural Park Bali](/blog/gwk-cultural-park-bali/)
+> Referensi: [Panduan Lengkap Garuda Wisnu Kencana GWK Cultural Park Bali](/id/blog/gwk-cultural-park-bali/)
 
-> Baca juga: [Info Blue Highway](/blog/pandawa-beach-traffic-policy/)
+> Baca juga: [Info Blue Highway](/id/blog/pandawa-beach-traffic-policy/)
 
 ### 18/2 Canggu / Kuta / Seminyak
 
@@ -107,18 +107,18 @@ Foto: Pura Tanah Lot, oleh Serena
 
 Foto: La Brisa, oleh Serena
 
-> Referensi: [Dijuluki ‘Restoran Terindah di Bali’: Gimana La Brisa Bisa Bersaing di Antara Ribuan Tempat Makan?](/blog/canggu-la-brisa-restaurant-guide/)
+> Referensi: [Dijuluki ‘Restoran Terindah di Bali’: Gimana La Brisa Bisa Bersaing di Antara Ribuan Tempat Makan?](/id/blog/canggu-la-brisa-restaurant-guide/)
 
 Sorenya, kita habiskan waktu di Kuta dan Seminyak buat belanja dan jalan-jalan terakhir.
 
-> Cara jalan-jalan di Seminyak? Cek: [Peta Wajib Dikunjungi di Seminyak: 100 Tempat Makan, Minum, dan Seru-Seruan](/blog/seminyak-guide/)
+> Cara jalan-jalan di Seminyak? Cek: [Peta Wajib Dikunjungi di Seminyak: 100 Tempat Makan, Minum, dan Seru-Seruan](/id/blog/seminyak-guide/)
 
 ### 19/2 Belanja/Check-in Penerbangan
 
 Setelah belanja terakhir di pagi hari, kami bersiap naik pesawat kembali ke Taiwan jam 14:00, menutup liburan Bali yang indah. Keuntungan menghabiskan hari terakhir di sekitar Kuta dan Jimbaran adalah 'kamu nggak perlu khawatir ketinggalan pesawat sama sekali'!
 
-> (Baca juga: [Panduan Wisata Kuta: 50 Tempat Wajib, Kuliner, dan Rekomendasi SPA Lengkap](/blog/2023-12-13-657598bdfd8978000120fe20/))  
-> (Baca juga: [Liburan Mandiri Jimbaran: 30 Tempat Wisata Rekomendasi Lengkap](/blog/jimbaran-guide/))
+> (Baca juga: [Panduan Wisata Kuta: 50 Tempat Wajib, Kuliner, dan Rekomendasi SPA Lengkap](/id/blog/2023-12-13-657598bdfd8978000120fe20/))  
+> (Baca juga: [Liburan Mandiri Jimbaran: 30 Tempat Wisata Rekomendasi Lengkap](/id/blog/jimbaran-guide/))
 
 ## Catatan Akhir
 
@@ -135,12 +135,12 @@ Berikut beberapa rekomendasi populer di Bali yang wajib dicoba dan dihindari:
 6. **La Brisa**: Kalau mau masuk ke bar paling dalam, jangan bawa air minum turun dari mobil, karena restoran akan minta air dibuang semua.
 7. **Beachwalk Residence**: Kalau liburan keluarga, saran pertimbangkan menginap di [Beachwalk Residence](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=25918345) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=78158227&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PazsLFJMEktYGFo-3_nDdsQowGGvfZLH4LOtpyXV9ccLLNwdMYBLw7HQJ4IqYceD6NPfGmbWXEioOBDoUMIFBQ7NDIuEOu9XVgRYFDFyMrWM0MxsmbF6luZFzn_rBKhC_EYQcjywnGnbILmKYChU-xMHN8ZbrEspsxulopO7VSycpER6kksyQnVclK6emieU8b9jxf0aqko5SSWpwMFAKyEnPzS_NKgGxjc2M9AwOgSElihWcKWGdyYk5yaU5iSWpIZQHQBDMdpcxi55KizIKg1NzMkpJUoKq0xJziVJB4UGoxUCYZLKjkBzSmCCqQmZ8H0W6IIhaWmFOaCnEC0EK3VKgdhrWxj1guwp1vinD-szm9T7tnvti0mzjnm1PgfGyuN8Dl-uLSpBAsTkT2lHFt7AuW-2yfwLHzC0gu5G5iZehiZeY4xTQJSK5T2MXKFmLi5B_ueYH1hK6UvKGBgYGpobGpqa5BoqWFYYqpga6JpYmRmaWuiQWQ1Ph76N_VJ8ZG1lKQNKHAqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzc3U0sjMPMqGi9nTJUjwg97z7e3WlvZSzCHhLor2sv2SK3pO22uB5AxhcoF7XuecsDdeYB9Zuvr5ku-9p-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxgZNjAy7mD8DwOMrxhBpgMAue4luBwDAAA&masterhotelid_tracelogid=100051355-0a981d50-494269-48269&detailFilters=17|1~17~1*31|78158227~31~78158227*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1056&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Smp4FEqy). Tempat ini menawarkan apartemen tipe keluarga satu lantai, jalan kaki ke pusat perbelanjaan, dekat pantai, dan value for money banget.
 8. **Macet parah saat Imlek**, waktu tempuh lebih lama 30 menit sampai 1,5 jam dari perkiraan Google Maps supir. Apalagi ke Ubud yang jaraknya jauh, waktu sampai malah lebih molor! Juga, jalan di dekat istana sempit, jadi macetnya parah banget.
-9. **Antisipasi Musim Hujan**: Karena Imlek masih puncak musim hujan di Bali, buat yang khawatir hujan, simak artikel ini: [Musim Hujan di Bali: Apa yang Harus Dilakukan Saat Hujan? 60 Rencana Alternatif](/blog/2026-bali-indoor-activities/)
+9. **Antisipasi Musim Hujan**: Karena Imlek masih puncak musim hujan di Bali, buat yang khawatir hujan, simak artikel ini: [Musim Hujan di Bali: Apa yang Harus Dilakukan Saat Hujan? 60 Rencana Alternatif](/id/blog/2026-bali-indoor-activities/)
 
 > Catatan Redaksi: Saran untuk yang mau ke Bali saat Imlek, lihat:
 
-- [Panduan Liburan Keluarga Bali saat Imlek: Tiket Pesawat, Visa, Transportasi, Tempat Wisata Lengkap](/blog/2026-bali-lunar-new-year-guide/)
-- [【Panduan Liburan Mandiri Bali Tanpa Macet】 Cara Hindari Lalu Lintas Macet di Bali dan Nikmati Liburan Santai?](/blog/bali-traffic-free-travel-tips/)
+- [Panduan Liburan Keluarga Bali saat Imlek: Tiket Pesawat, Visa, Transportasi, Tempat Wisata Lengkap](/id/blog/2026-bali-lunar-new-year-guide/)
+- [【Panduan Liburan Mandiri Bali Tanpa Macet】 Cara Hindari Lalu Lintas Macet di Bali dan Nikmati Liburan Santai?](/id/blog/bali-traffic-free-travel-tips/)
 
 ## Driver Sewaan
 
@@ -150,7 +150,7 @@ Sangat merekomendasikan pemandu sekaligus supir kami, Xiao Zhong Pacung Bali, ya
 
 Nggak cuma itu, dulu 小鍾 kerja sebagai fotografer, jadi dia jago banget soal foto dan video. Selama perjalanan, dia bukan cuma guide profesional, tapi juga bisa bantu kamu ambil foto cantik dan rekam video berharga.
 
-Kalau kamu lagi rencanain liburan ke Bali, aku rekomendasiin banget hubungi 小鍾 Pacung Bali sebagai guide sekaligus sopir. Kontaknya ada di [sini](/blog/bali-private-car-drivers-guide/). Pelayanan profesional dan pengalamannya bakal nambahin banyak kenangan indah di perjalananmu!
+Kalau kamu lagi rencanain liburan ke Bali, aku rekomendasiin banget hubungi 小鍾 Pacung Bali sebagai guide sekaligus sopir. Kontaknya ada di [sini](/id/blog/bali-private-car-drivers-guide/). Pelayanan profesional dan pengalamannya bakal nambahin banyak kenangan indah di perjalananmu!
 
 Menurut kamu itinerary yang diatur [Serena](https://www.facebook.com/100004740466944/) keren banget? Yuk, atur liburan Bali versi kamu sendiri! Jangan lupa juga kirim itinerary kamu ke grup ya!
 

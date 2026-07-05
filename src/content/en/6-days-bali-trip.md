@@ -55,13 +55,13 @@ This early trust paid off handsomely. Ani wasn’t just a tour guide; she was a 
 
 ![The Spirit of Adventure:](https://images.gobaligo.id/vocus/vocus_ac018a86bbb625114fb5312631d10213.jpg)
 
-> **Quick Reference:** [Bali Adventure: Full Record of the Mount Batur Jeep Sunrise Tour](/blog/batur-volcano-jeep-sunrise-tour/)
+> **Quick Reference:** [Bali Adventure: Full Record of the Mount Batur Jeep Sunrise Tour](/en/blog/batur-volcano-jeep-sunrise-tour/)
 
 - **Kuber ATV Adventure:** Driving ATVs through jungles, muddy trails, and rice paddies, we experienced the pure joy of adrenaline surges.
 
 https://youtube.com/shorts/lz69CKyTYLk
 
-> **Quick Reference:** [Bali ATV Quad Bike Adventure: Experience the Thrill and Freedom of a Tropical Paradise (Tips + FAQ + Operator Recommendations)](/blog/bali-atv-adventure-guide/)
+> **Quick Reference:** [Bali ATV Quad Bike Adventure: Experience the Thrill and Freedom of a Tropical Paradise (Tips + FAQ + Operator Recommendations)](/en/blog/bali-atv-adventure-guide/)
 
 - **Mari Beach Club:** A chic beach club in Seminyak, renowned for its relaxed vibe and exceptional dining experience.
 
@@ -75,7 +75,7 @@ https://youtube.com/shorts/lz69CKyTYLk
 
 https://youtube.com/shorts/BORrtY6fafs
 
-> **Quick Reference:** [【Bali Paragliding Experience】Flying in Uluwatu! Stunning Ocean Views + Tips](/blog/uluwatu-paragliding-ocean-view/)
+> **Quick Reference:** [【Bali Paragliding Experience】Flying in Uluwatu! Stunning Ocean Views + Tips](/en/blog/uluwatu-paragliding-ocean-view/)
 
 - **Tanah Barak Road:** Pay a small entrance fee to stand on this massive wall extending into the sea and capture photos of a lonely, world's-end-like beauty.
 
@@ -83,7 +83,7 @@ https://youtube.com/shorts/BORrtY6fafs
 
 ![The Spirit of Adventure:](https://images.gobaligo.id/vocus/vocus_2e1bf7f65cd7d7bb67c5abbd8dc732ad.jpg)
 
-> **Quick Reference:** [Batu Barak/Tanah Barak: A Breathtaking Journey Along the Blue Cliff Road](/blog/batu-barak-cliff-road/)
+> **Quick Reference:** [Batu Barak/Tanah Barak: A Breathtaking Journey Along the Blue Cliff Road](/en/blog/batu-barak-cliff-road/)
 
 ### **🛕 Culture & Shopping:**
 
@@ -101,7 +101,7 @@ https://youtube.com/shorts/BORrtY6fafs
 
 - **Montana Del Cafe:** Enjoy breakfast surrounded by volcanic lake views, a truly refreshing experience.
 
-> [Top 13 Volcano Cafes & Restaurants in Bali's Kintamani Area 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
+> [Top 13 Volcano Cafes & Restaurants in Bali's Kintamani Area 🌄☕](/en/blog/kintamani-volcano-cafes-restaurants/)
 
 - **D'tukad Coffee Club:** An infinity pool and waterfall suspended above the jungle make this a perfect spot for Instagram photos and relaxation.
 
@@ -143,7 +143,7 @@ https://youtube.com/shorts/exdiGPLkVjw
 
 On the last day, we returned from Nusa Lembongan to **Sanur Port**. Heeding online advice about the inconvenient transportation around the port, we contacted Ani again to arrange a one-way transfer service to **Beachwalk Shopping Center** in Kuta. This decision proved to be absolutely correct. The driver was waiting punctually outside the pier, and we even asked him to make a detour to Bali Banana for our final shopping. The approximately 40-minute ride cost around USD$19, but what we gained was the most precious 'leisurely ease' while dragging our luggage.
 
-> [【Nusa Lembongan/Nusa Ceningan Attractions Guide】Exploring Nusa Lembongan/Nusa Ceningan Attractions, Food, and Transportation: Bali's Nearby Paradise](/blog/nusa-lembongan-ceningan-guide/)
+> [【Nusa Lembongan/Nusa Ceningan Attractions Guide】Exploring Nusa Lembongan/Nusa Ceningan Attractions, Food, and Transportation: Bali's Nearby Paradise](/en/blog/nusa-lembongan-ceningan-guide/)
 
 ## Conclusion: More Than Just One Beautiful Experience
 
@@ -161,6 +161,6 @@ Were you impressed by [Yvonne Liao's](https://www.facebook.com/share/p/1CjoK9BEF
 
 Click here to explore more [amazing Bali travel stories](/blog?cat=%E9%81%8A%E8%A8%98%E5%88%86%E4%BA%AB)
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
 
 {{block:攻略}}

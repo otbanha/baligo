@@ -79,7 +79,7 @@ At 600m elevation, it's 4–6°C cooler than Kuta or Ubud city areas. Early morn
 | Ubud | Approx. 1.5–2 hours | Mountain route east through Klungkung |
 | Amed | Approx. 45 minutes | Closest, preferred base for eastern Bali visitors |
 
-👉 [Map and overview of eastern Bali attractions](/map/ubud/) | [Day trip itinerary from Ubud to eastern Bali](/blog/bali-east-tour-guide/)
+👉 [Map and overview of eastern Bali attractions](/map/ubud/) | [Day trip itinerary from Ubud to eastern Bali](/en/blog/bali-east-tour-guide/)
 
 ![Location—Where in Bali? How Far from Where You’re Staying?](https://images.gobaligo.id/images/2026-05/1779103229342-_2026-05-18_18.20.11.png)
 
@@ -111,7 +111,7 @@ The 'Gates of Heaven' is merely the **lowest entrance** of the entire Lempuyang 
 
 ## Full cost breakdown (2026 on-site rates)
 
-👉 It's recommended to exchange cash at [authorized currency exchange offices](/blog/bali-currency-exchange-guide/) in Kuta or Ubud, as airport rates can cost you 10–15% more. All on-site payments are cash-only.
+👉 It's recommended to exchange cash at [authorized currency exchange offices](/en/blog/bali-currency-exchange-guide/) in Kuta or Ubud, as airport rates can cost you 10–15% more. All on-site payments are cash-only.
 
 | Item | Cost (IDR) | Approx. USD | Notes |
 | --- | --- | --- | --- |
@@ -125,7 +125,7 @@ The 'Gates of Heaven' is merely the **lowest entrance** of the entire Lempuyang 
 
 **Note:** Photographer fees are the most likely to be overcharged. Clarify whether it's per session (group) or per person before starting; the fair rate is 150,000–200,000 IDR/30 minutes. All on-site payments are cash-only; cards are not accepted.
 
-👉 [How much does private car hire cost? Day trip expenses](/blog/bali-private-car-hire-guide/)
+👉 [How much does private car hire cost? Day trip expenses](/en/blog/bali-private-car-hire-guide/)
 
 ![Full cost breakdown (2026 on-site rates)](https://images.gobaligo.id/images/2026-05/1779103736991-lempuyang-temple-opening-hours.jpg)
 
@@ -172,14 +172,14 @@ The 'Gates of Heaven' is merely the **lowest entrance** of the entire Lempuyang 
 
 Starting from Ubud and connecting the eastern region, you can arrange 2–3 attractions in one day:
 
-- [**Tirta Gangga Water Palace**](/blog/bali-tirta-gangga-empul/)—Indonesia's most beautiful water garden, about 30 minutes from the Gates of Heaven
+- [**Tirta Gangga Water Palace**](/en/blog/bali-tirta-gangga-empul/)—Indonesia's most beautiful water garden, about 30 minutes from the Gates of Heaven
 - [**Taman Ujung Water Palace**](../blog/bali-east-tour-guide)—Royal water palace ruins, about 40 minutes from the Gates of Heaven
-- [**Amed Snorkeling**](/blog/amed-tulamben-diving-guide/)—East coast coral reefs, about 1 hour from the Gates of Heaven
+- [**Amed Snorkeling**](/en/blog/amed-tulamben-diving-guide/)—East coast coral reefs, about 1 hour from the Gates of Heaven
 - **Besakih Mother Temple**—Bali's largest sacred temple, about 1.5 hours from the Gates of Heaven
 
 Don’t be greedy and cram in 4 attractions—just the travel time and queues will be overwhelming. A maximum of 3 spots per day is ideal.
 
-👉 [Klook Bali East Gates of Heaven Day Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DLempuyang%2520Temple) | [Private Car Costs & Driver Recommendations](/blog/bali-private-car-hire-guide/)
+👉 [Klook Bali East Gates of Heaven Day Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DLempuyang%2520Temple) | [Private Car Costs & Driver Recommendations](/en/blog/bali-private-car-hire-guide/)
 
 **Option 2: Klook Group Tour**
 
@@ -189,7 +189,7 @@ Suitable for solo travelers who don’t want to handle private car arrangements.
 
 The last few kilometers uphill from Amlapura are very steep. Those unfamiliar with Bali’s mountain roads often underestimate this; slippery roads are common in the rain. **Motorcycling is completely reasonable for travelers staying in Amed; not recommended if starting from Kuta or Seminyak.**
 
-👉 [Complete Private Car Costs & Itinerary Planning](/blog/bali-private-car-hire-guide/) | [Complete Guide to Bali’s Eastern Attractions](/blog/bali-east-tour-guide/)
+👉 [Complete Private Car Costs & Itinerary Planning](/en/blog/bali-private-car-hire-guide/) | [Complete Guide to Bali’s Eastern Attractions](/en/blog/bali-east-tour-guide/)
 
 ## Dress Code and Etiquette
 
@@ -289,7 +289,7 @@ During the rainy season or on cloudy days, there's a high chance Mount Agung wil
 
 **Who should skip this:**
 
-- If you're just following trends for Instagram but don't care about the outcome → Visiting [Tirta Gangga Water Palace](/blog/bali-tirta-gangga-empul/) is more worthwhile
+- If you're just following trends for Instagram but don't care about the outcome → Visiting [Tirta Gangga Water Palace](/en/blog/bali-tirta-gangga-empul/) is more worthwhile
 - If waiting in line for over 30 minutes irritates you → Choose the off-season or skip this attraction entirely
 - If you have zero interest in religious culture and just want to snap a photo and leave → [Klook day tours](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DLempuyang%2520Temple) offer better time management for you
 
@@ -332,7 +332,7 @@ The drive takes about 1.5–2 hours, depending on traffic and departure time. Du
 
 **Q6: How long does it take to get there from Kuta?**
 
-The drive takes about 2.5–3 hours, with a round trip totaling at least 5–6 hours of driving. If departing from Kuta, it's recommended to combine this with a [private car day tour](/blog/bali-private-car-hire-guide/), visiting Tirta Gangga, Amed, or Taman Ujung on the same day to make the long journey worthwhile.
+The drive takes about 2.5–3 hours, with a round trip totaling at least 5–6 hours of driving. If departing from Kuta, it's recommended to combine this with a [private car day tour](/en/blog/bali-private-car-hire-guide/), visiting Tirta Gangga, Amed, or Taman Ujung on the same day to make the long journey worthwhile.
 
 **Q7: Is it suitable to bring elderly family members?**
 
@@ -348,7 +348,7 @@ Yes. The main issue during the rainy season (November–March) is the higher cha
 
 **Q10: What other attractions can be visited on the same day?**
 
-The Gates of Heaven is located in the east, and you can arrange to visit 2–3 of the following on the same day (do not try to visit all): [Tirta Gangga Water Palace](/blog/bali-tirta-gangga-empul/), [Taman Ujung Water Palace](https://youtu.be/zePMt3KSwTo), [Amed Snorkeling](/blog/amed-tulamben-diving-guide/), and Besakih Mother Temple (requires an additional 1-hour drive). For a complete eastern Bali itinerary, see [Bali East Day Trip Guide](/blog/bali-east-tour-guide/).
+The Gates of Heaven is located in the east, and you can arrange to visit 2–3 of the following on the same day (do not try to visit all): [Tirta Gangga Water Palace](/en/blog/bali-tirta-gangga-empul/), [Taman Ujung Water Palace](https://youtu.be/zePMt3KSwTo), [Amed Snorkeling](/en/blog/amed-tulamben-diving-guide/), and Besakih Mother Temple (requires an additional 1-hour drive). For a complete eastern Bali itinerary, see [Bali East Day Trip Guide](/en/blog/bali-east-tour-guide/).
 
 ## Ready to go?
 
@@ -358,15 +358,15 @@ The Gates of Heaven is located in the east, and you can arrange to visit 2–3 o
 
 **Private Driver Quotes:**
 
-If you want to arrange your own itinerary and have flexible control over your time, you can inquire with [locally recommended private drivers](/blog/bali-private-car-drivers-guide/) who are familiar with eastern routes and know when the Gates of Heaven have the fewest visitors.
+If you want to arrange your own itinerary and have flexible control over your time, you can inquire with [locally recommended private drivers](/en/blog/bali-private-car-drivers-guide/) who are familiar with eastern routes and know when the Gates of Heaven have the fewest visitors.
 
 **Continue Planning Your Bali Trip:**
 
 - 📍 [Complete Bali Attractions Map](/map/) — View all attractions in the east, south, and Ubud at once
-- 🗺️ [Complete Guide to Bali East Day Tour](/blog/bali-east-tour-guide/) — Gates of Heaven + Tirta Gangga + Amed itinerary
-- 💱 [Bali Currency Exchange Guide](/blog/bali-currency-exchange-guide/) — Prepare cash before heading east
-- 🚗 [Complete Guide to Hiring a Private Car in Bali](/blog/bali-private-car-hire-guide/) — Driver fees and itinerary planning all in one
-- 🏝️ [Ultimate Bali Travel Guide](/blog/bali-ultimate-guide-2026/) — Must-read for first-time travelers
+- 🗺️ [Complete Guide to Bali East Day Tour](/en/blog/bali-east-tour-guide/) — Gates of Heaven + Tirta Gangga + Amed itinerary
+- 💱 [Bali Currency Exchange Guide](/en/blog/bali-currency-exchange-guide/) — Prepare cash before heading east
+- 🚗 [Complete Guide to Hiring a Private Car in Bali](/en/blog/bali-private-car-hire-guide/) — Driver fees and itinerary planning all in one
+- 🏝️ [Ultimate Bali Travel Guide](/en/blog/bali-ultimate-guide-2026/) — Must-read for first-time travelers
 
 <script type="application/ld+json">
 [

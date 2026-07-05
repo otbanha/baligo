@@ -106,7 +106,7 @@ The outline for Bali's tourism tax implementation is as follows:
 5. Foreigners' lack of respect for local customs has caused discontent, displeasing local authorities.
 6. The tourism tax isn't a new concept, with similar precedents elsewhere, but Bali's governor believes it will help improve the environment and enhance tourism quality.
 
-> Further reading: What else do you need to prepare besides the 'tourism tax'? Check out our [2026 Indonesia Bali Arrival Guide: From Landing to Customs to Baggage Claim in 1 Minute](/blog/bali-all-indonesia-arrival-guide/) for the latest process.
+> Further reading: What else do you need to prepare besides the 'tourism tax'? Check out our [2026 Indonesia Bali Arrival Guide: From Landing to Customs to Baggage Claim in 1 Minute](/en/blog/bali-all-indonesia-arrival-guide/) for the latest process.
 
 {{block:klook}}
 
@@ -114,4 +114,4 @@ The outline for Bali's tourism tax implementation is as follows:
 
 👈 **Return to the Ultimate Bali Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.
+Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/en/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.

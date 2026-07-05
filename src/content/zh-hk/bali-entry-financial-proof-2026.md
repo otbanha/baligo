@@ -66,12 +66,12 @@ https://youtu.be/7JIqxDIyDF0
 ### 核心證件
 
 - 護照：有效期需 6 個月以上。
-- 電子簽證 (e-VOA)：建議事先喺官網搞掂。（請睇[說明](/blog/bali-evisa-application-guide/)）
+- 電子簽證 (e-VOA)：建議事先喺官網搞掂。（請睇[說明](/zh-hk/blog/bali-evisa-application-guide/)）
 - 回程/續程機票：確保日期同簽證停留期相符。
 
 ### 電子申報
 
-- [All Indonesia 入境卡](/blog/bali-all-indonesia-arrival-guide/) (AIAC)：出發前 72 小時內網上填寫。
+- [All Indonesia 入境卡](/zh-hk/blog/bali-all-indonesia-arrival-guide/) (AIAC)：出發前 72 小時內網上填寫。
 - 峇里島旅遊稅 (Tourist Levy)：網上支付 15 萬印尼盾，並保存繳費憑證。
 
 ### 新制抽查文件

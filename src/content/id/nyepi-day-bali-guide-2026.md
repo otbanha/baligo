@@ -111,4 +111,4 @@ Diprediksi mulai 13 Maret, Bali bakal kebanjiran turis lokal dari berbagai daera
 
 ## Festival Lain di Bali
 
-Cek [Panduan Lengkap Hari Libur Nasional Indonesia & Festival Bali Sepanjang Tahun 2026: Daftar Tanggal Acara Seru!](/blog/2026-bali-festival-guide/)
+Cek [Panduan Lengkap Hari Libur Nasional Indonesia & Festival Bali Sepanjang Tahun 2026: Daftar Tanggal Acara Seru!](/id/blog/2026-bali-festival-guide/)

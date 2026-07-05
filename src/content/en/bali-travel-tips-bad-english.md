@@ -96,9 +96,9 @@ Even if you don't speak the local language or English, you can still communicate
 
 In Bali, your private driver is the key to a smooth, enjoyable, and hassle-free trip! We recommend—and many fellow travelers agree—that you don't need to worry about not speaking English well. With translation apps and body language, you can still have a fantastic time exploring Bali! However, we understand that some may still feel uneasy, which is why you can directly choose our recommended **Chinese-speaking private drivers** listed below! Prioritizing a Chinese-speaking driver will help those with English anxiety receive better service and support during their trip.
 
-> Further Reading: [Bali Chinese Driver/Guide/Private Car Tour Recommendations](/blog/bali-chinese-tour-guide/)
+> Further Reading: [Bali Chinese Driver/Guide/Private Car Tour Recommendations](/en/blog/bali-chinese-tour-guide/)
 
-> Further Reading: [Taiwanese-Owned Local Bali Travel Agency: Chinese Driver/Full Itinerary Arrangement](/blog/bali-custom-tour-planning/)
+> Further Reading: [Taiwanese-Owned Local Bali Travel Agency: Chinese Driver/Full Itinerary Arrangement](/en/blog/bali-custom-tour-planning/)
 
 ### Familiarize Yourself with Common Travel Scenarios
 

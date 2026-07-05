@@ -52,7 +52,7 @@ https://www.instagram.com/reel/C7hDmUmpeU4/?utm_source=ig_web_button_share_sheet
 
 https://www.instagram.com/reel/C6_hnL-J86g/?utm_source=ig_web_button_share_sheet
 
-> Baca juga: [11 Restoran Seafood di Jimbaran, Bali: Rekomendasi Anti Gagal](/blog/jimbaran-seafood-restaurants-list/)
+> Baca juga: [11 Restoran Seafood di Jimbaran, Bali: Rekomendasi Anti Gagal](/id/blog/jimbaran-seafood-restaurants-list/)
 
 ### GWK Garuda Wisnu Kencana Cultural Park, Jimbaran
 
@@ -68,9 +68,9 @@ GWK Garuda Wisnu Kencana Cultural Park adalah destinasi yang wajib banget dikunj
 
 https://www.instagram.com/reel/C7mNt6nJPey/?utm_source=ig_web_button_share_sheet
 
-> Baca juga: Panduan 30 tempat wisata di [Jimbaran 2026](/blog/jimbaran-guide/)
+> Baca juga: Panduan 30 tempat wisata di [Jimbaran 2026](/id/blog/jimbaran-guide/)
 
-> Panduan GWK: [Garuda Wisnu Kencana Cultural Park Bali – Panduan Lengkap](/blog/gwk-cultural-park-bali/)
+> Panduan GWK: [Garuda Wisnu Kencana Cultural Park Bali – Panduan Lengkap](/id/blog/gwk-cultural-park-bali/)
 
 > Tiket diskon Klook: [Tiket Masuk GWK Cultural Park](https://affiliate.klook.com/redirect?aid=116349&aff_adid=881953&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29f498eeaf)
 
@@ -92,8 +92,8 @@ Pertunjukan tari Kecak di Pura Uluwatu itu benar-benar pesta visual yang menggab
 
 https://www.instagram.com/reel/C7oyY74JU3L/?utm_source=ig_web_button_share_sheet
 
-> Baca juga: [Kecak Fire Dance – Pertunjukan Spektakuler yang Wajib Ditonton di Bali (Lengkap dengan Info Tiket)](/blog/kecak-fire-dance-bali/)
-> [6 Tempat Terbaik untuk Nonton Kecak Fire Dance di Bali: Perpaduan Visual dan Budaya yang Memukau](/blog/bali-kecak-fire-dance-locations/)
+> Baca juga: [Kecak Fire Dance – Pertunjukan Spektakuler yang Wajib Ditonton di Bali (Lengkap dengan Info Tiket)](/id/blog/kecak-fire-dance-bali/)
+> [6 Tempat Terbaik untuk Nonton Kecak Fire Dance di Bali: Perpaduan Visual dan Budaya yang Memukau](/id/blog/bali-kecak-fire-dance-locations/)
 
 ### Oneeighty Club – Cliff Bar di Uluwatu
 
@@ -113,11 +113,11 @@ Oneeighty Club punya lokasi yang unik di atas tebing dan makanan yang enak, coco
 
 https://www.instagram.com/reel/C7MW0hVpkiz/?utm_source=ig_web_button_share_sheet
 
-> Baca juga: [Eksplor Oneeighty Day Club: Kolam Renang Tepi Tebing Bali yang Super Epic](/blog/oneeighty-dayclub-uluwatu-pool/)
+> Baca juga: [Eksplor Oneeighty Day Club: Kolam Renang Tepi Tebing Bali yang Super Epic](/id/blog/oneeighty-dayclub-uluwatu-pool/)
 
 > Klook punya [Oneeighty Pass](https://affiliate.klook.com/redirect?aid=116349&aff_adid=782859&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F52229-oneeighty-pass-edge-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92cc562df8)
 
-> Baca Juga: [Tips Kesehatan Travel di Bali: Panduan Air Minum dan Diare](/blog/bali-travel-health-tips/)
+> Baca Juga: [Tips Kesehatan Travel di Bali: Panduan Air Minum dan Diare](/id/blog/bali-travel-health-tips/)
 
 ### Monkey Forest Ubud
 
@@ -137,7 +137,7 @@ Monkey Forest adalah tempat yang penuh budaya dan kejutan, cocok banget buat kam
 
 https://www.instagram.com/reel/C7bvX6NpmfO/?utm_source=ig_web_button_share_sheet
 
-> Baca juga: [Bingung jalan-jalan di Ubud? Cek panduan peta Ubud kami](/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
+> Baca juga: [Bingung jalan-jalan di Ubud? Cek panduan peta Ubud kami](/id/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
 
 ### Desa Penglipuran Ubud
 
@@ -157,7 +157,7 @@ Desa Penglipuran benar-benar worth it untuk dikunjungi. Selain menikmati pemanda
 
 https://www.instagram.com/reel/C7WlLcIJ5XA/?utm_source=ig_web_button_share_sheet
 
-> Baca juga: [Menembus waktu di Desa Penglipuran: Rasakan pesona kuno Bali](/blog/penglipuran-village-bali-experience/)
+> Baca juga: [Menembus waktu di Desa Penglipuran: Rasakan pesona kuno Bali](/id/blog/penglipuran-village-bali-experience/)
 
 **Promo Spesial Klook**
 
@@ -199,7 +199,7 @@ Tapi pas udah pulang ke Indonesia, setelah cari-cari info, ternyata banyak revie
 
 https://www.instagram.com/reel/C7zFZ-8pmny/?utm_source=ig_web_button_share_sheet
 
-> Baca juga: Ada apa aja sih di Ubud? Cek [100 Cara Eksplor Ubud](/blog/ubud-guide/)
+> Baca juga: Ada apa aja sih di Ubud? Cek [100 Cara Eksplor Ubud](/id/blog/ubud-guide/)
 
 ### Gym Hutan di Ubud
 
@@ -223,13 +223,13 @@ Ngomong-ngomong, selama perjalanan kami juga mengalami beberapa hal tak terduga.
 
 https://www.instagram.com/reel/C7UJZKbp4lZ/?utm_source=ig_web_button_share_sheet
 
-> Baca juga: [Trik supir ojek online di Bali: Cara menghindari jebakan Grab/Gojek?](/blog/bali-grab-gojek-scam-tips/)
+> Baca juga: [Trik supir ojek online di Bali: Cara menghindari jebakan Grab/Gojek?](/id/blog/bali-grab-gojek-scam-tips/)
 
 **2. Wajib bawa saat jalan-jalan sendiri di pegunungan Ubud, Bali:**
 
 https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
-> Baca juga: Apakah hair dryer dari Taiwan bisa dipakai di Bali? Cek [Panduan Lengkap Tegangan & Colokan Listrik untuk Liburan ke Bali!](/blog/bali-voltage-adapter-tips/)
+> Baca juga: Apakah hair dryer dari Taiwan bisa dipakai di Bali? Cek [Panduan Lengkap Tegangan & Colokan Listrik untuk Liburan ke Bali!](/id/blog/bali-voltage-adapter-tips/)
 
 ***
 
@@ -245,19 +245,19 @@ Waktu: 09:10-14:40
 
 Lokasi: money changer di dalam bandara
 
-> Baca juga: [Panduan Lengkap Tukar Uang di Indonesia/Bali](/blog/bali-currency-exchange-guide/)
+> Baca juga: [Panduan Lengkap Tukar Uang di Indonesia/Bali](/id/blog/bali-currency-exchange-guide/)
 
 **Makan Malam Sunset di Pantai Jimbaran**
 
 Nikmati sunset romantis di pantai sambil makan seafood bakar yang enak banget.
 
-> Baca juga: [9 Restoran Seafood di Jimbaran, Bali: Rekomendasi Anti Gagal](/blog/jimbaran-seafood-restaurants-list/)
+> Baca juga: [9 Restoran Seafood di Jimbaran, Bali: Rekomendasi Anti Gagal](/id/blog/jimbaran-seafood-restaurants-list/)
 
 **Rekomendasi Pijat**
 
 Lokasi: The Calma Spa. Di sini kamu bisa menikmati pijat relaksasi yang bikin badan segar lagi setelah perjalanan.
 
-> Baca juga: [Kumpulan Rekomendasi SPA Terbaik di Bali (Lengkap per Area)](/blog/spa/)
+> Baca juga: [Kumpulan Rekomendasi SPA Terbaik di Bali (Lengkap per Area)](/id/blog/spa/)
 
 **Belanja di Supermarket**
 
@@ -287,7 +287,7 @@ Kunjungi Taman Budaya Garuda Wisnu Kencana yang terkenal, nikmati patung megah d
 
 Lokasi: One Eighty Day Club — pemandangan tebingnya bikin kamu bisa nikmatin makanan sambil lihat panorama laut yang epik.
 
-> Baca juga: [Eksplor Oneeighty Day Club](/blog/oneeighty-dayclub-uluwatu-pool/)
+> Baca juga: [Eksplor Oneeighty Day Club](/id/blog/oneeighty-dayclub-uluwatu-pool/)
 
 **Pura Uluwatu**
 
@@ -297,7 +297,7 @@ Kunjungi pura tebing legendaris di Bali, rasakan vibes religi dan budaya lokal.
 
 Saksikan pertunjukan tari Kecak dan api tradisional di Pura Uluwatu.
 
-> Baca juga: [Tari Kecak Fire Dance Bali — Pertunjukan Spektakuler Wajib Nonton (info tiket)](/blog/kecak-fire-dance-bali/)
+> Baca juga: [Tari Kecak Fire Dance Bali — Pertunjukan Spektakuler Wajib Nonton (info tiket)](/id/blog/kecak-fire-dance-bali/)
 
 **Makan Malam**
 
@@ -327,7 +327,7 @@ Lokasi: Blue Point Beach — tempat kece buat pemula maupun surfer pro.
 
 Lokasi: Thomas Beach — pantai ini cocok banget buat santai dan foto-foto.
 
-> Baca juga: [6 Pantai Tersembunyi di Bali & Cara Cek Pasang Surut Air Laut](/blog/bali-hidden-beaches-guide/)
+> Baca juga: [6 Pantai Tersembunyi di Bali & Cara Cek Pasang Surut Air Laut](/id/blog/bali-hidden-beaches-guide/)
 
 **Makan Siang**
 
@@ -341,7 +341,7 @@ Lokasi: Happy Sunset Batujaran — nikmati pemandangan laut dan sunset yang spek
 
 Lokasi: Sundays Beach Club
 
-> Baca juga: [Panduan Lengkap Uluwatu](/blog/uluwatu-guide/)
+> Baca juga: [Panduan Lengkap Uluwatu](/id/blog/uluwatu-guide/)
 
 **Pantai Tersembunyi**
 
@@ -383,7 +383,7 @@ Lokasi: Bebek Joni Restaurant
 
 Di sini kamu bisa belanja berbagai kerajinan tangan dan oleh-oleh.
 
-Baca juga: [100 Cara Eksplorasi Ubud](/blog/ubud-guide/)
+Baca juga: [100 Cara Eksplorasi Ubud](/id/blog/ubud-guide/)
 
 **Hutan Monyet Ubud**
 
@@ -393,7 +393,7 @@ Jelajahi Hutan Monyet dan berinteraksi dengan monyet-monyet lokal.
 
 Lokasi: Peliatan Royal Palace
 
-> Baca juga: [【Destinasi Wajib di Ubud】Ubud Royal Palace: Permata Budaya dan Sejarah Bali | Jam Buka, Tiket, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Trip Sehari](/blog/ubud-royal-palace-tour-guide/)
+> Baca juga: [【Destinasi Wajib di Ubud】Ubud Royal Palace: Permata Budaya dan Sejarah Bali | Jam Buka, Tiket, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Trip Sehari](/id/blog/ubud-royal-palace-tour-guide/)
 
 **Makan Malam**
 
@@ -417,7 +417,7 @@ Lokasi: di dalam hotel
 
 Lokasi: Desa Penglipuran — kunjungi desa tradisional yang terawat dengan baik ini, dan lihat langsung gaya hidup lokal.
 
-> Baca juga: [Penglipuran Village: Menjelajah Pesona Bali Kuno yang Abadi](/blog/penglipuran-village-bali-experience/)
+> Baca juga: [Penglipuran Village: Menjelajah Pesona Bali Kuno yang Abadi](/id/blog/penglipuran-village-bali-experience/)
 
 **Air Terjun Hidden Gem di Gua**
 
@@ -441,7 +441,7 @@ Lokasi: Tegalalang
 
 Lokasi: Jaens Spa Santhi (Area Ubud)
 
-> Baca juga: [【Lengkap】Kumpulan Rekomendasi SPA Terbaik di Bali, Dibagi per Area Biar Lebih Gampang Cari](/blog/spa/)
+> Baca juga: [【Lengkap】Kumpulan Rekomendasi SPA Terbaik di Bali, Dibagi per Area Biar Lebih Gampang Cari](/id/blog/spa/)
 
 **Makan Malam**
 
@@ -473,7 +473,7 @@ Lokasi: Wapa di Ume Ubud
 
 参观这个大花园，欣赏各种雕像和美丽的花园景观。
 
-> Baca juga: [50 Rekomendasi Wisata Kuliner & Aktivitas di Sanur](/blog/sanur-guide/)
+> Baca juga: [50 Rekomendasi Wisata Kuliner & Aktivitas di Sanur](/id/blog/sanur-guide/)
 
 **Makan Malam**
 
@@ -485,7 +485,7 @@ Lokasi: Naughty Nuri's Warung, Sanur
 
 Kunjungi dunia terbalik yang seru ini, jangan lupa foto-foto ya.
 
-> Baca juga: [50 Tempat Wajib Dikunjungi di Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/)
+> Baca juga: [50 Tempat Wajib Dikunjungi di Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 **Check-in Hotel**
 
@@ -519,7 +519,7 @@ Nikmati sinar matahari dan aktivitas pantai di Kuta.
 
 Lokasi: Discovery Shopping Mall
 
-> Baca juga: [50 Tempat Wajib Kunjungi di Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/)
+> Baca juga: [50 Tempat Wajib Kunjungi di Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 **Bandara DPS**
 

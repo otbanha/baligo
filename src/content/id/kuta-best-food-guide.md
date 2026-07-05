@@ -67,7 +67,7 @@ Suasana makan di Wanaku juara banget.
 
 Wanaku Seafood & Chinese Restaurant adalah restoran seafood ala Tionghoa. Bedanya sama restoran lokal lain, tempat ini dikelilingi kolam, air mengalir, dan taman hijau yang bikin kamu betah dan tenang sepanjang makan! Sambil menikmati masakan Tionghoa autentik, ada pertunjukan modern dan aktivitas tradisional yang bikin pengalaman makan makin seru! Apalagi lokasinya dekat banget sama bandara!
 
-Penjelasan lengkap ada di [sini](/blog/wanaku-seafood-airport-bali/)
+Penjelasan lengkap ada di [sini](/id/blog/wanaku-seafood-airport-bali/)
 
 👉[**Diskon Makan di Wanaku Seafood & Chinese Restaurant**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988045&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F143929-wanaku-seafood-chinese-restaurant-in-kuta-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dc33c5c5189)
 
@@ -145,8 +145,8 @@ Ini bukan sekadar bar biasa — ini bar beroda empat yang kita sebut **'Beer on 
 
 ## Juga Wajib Cek
 
-- [Panduan Kuliner Seminyak｜Romantis, Elegan, dan Autentik Bali](/blog/seminyak-restaurants-food-guide/)
-- [Rekomendasi Makanan Ubud｜Panduan Kuliner Terbaik di Bali](/blog/ubod-food-guide/)
+- [Panduan Kuliner Seminyak｜Romantis, Elegan, dan Autentik Bali](/id/blog/seminyak-restaurants-food-guide/)
+- [Rekomendasi Makanan Ubud｜Panduan Kuliner Terbaik di Bali](/id/blog/ubod-food-guide/)
 
 ***
 

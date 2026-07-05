@@ -29,7 +29,7 @@ _srcHash: 75f93a40253c80a330f289497916b378
 
 During the process of applying for an Indonesian visa, a traveler shared her experience. Although she confirmed she would stay for more than 30 days, she still recommended applying for a 30-day visa, as according to online information, visas for stays within 30 days are usually approved immediately after application and payment. As for applying for a 60-day visa, she was uncertain about it. The immigration officer told her it might take 5-7 working days, or even longer, so she suggested that travelers planning to stay for more than 30 days should first apply for a **B1 visa** for stays within 30 days, and consider extending the visa before it expires if they plan to stay longer.
 
-> Further Reading: [2024 Indonesia/Bali Online Visa Extension Guide](/blog/2024-bali-visa-extension/)
+> Further Reading: [2024 Indonesia/Bali Online Visa Extension Guide](/en/blog/2024-bali-visa-extension/)
 
 Due to negligence, this traveler did not notice that applying for a visa for more than 60 days required a longer processing time and proof of financial means. She completed her application and payment on the 27th, but when she was about to enter on the 29th, she found that the review was not yet completed. Faced with this predicament, although she presented the payment receipt at Bali Airport, the immigration officer on-site could not process it immediately and she still had to wait for the review. The immigration officer told her that if she returned within 3 months, she could use the visa she had successfully applied for before.
 
@@ -43,4 +43,4 @@ Therefore, she ended up applying for a visa on-site again and paid once more. Th
 
 Before reading our **"Ultimate Bali Travel Guide"**, we sincerely invite you to subscribe to our YouTube channel **"Jason Indonesia"** for more visual experience sharing. [Click here](http://bit.ly/youtube-jason) to subscribe now.
 
-After subscribing, you can immediately continue reading our detailed guide to deeply explore every exciting corner of Bali. Click **"**[**Ultimate Bali Travel Guide**](/blog/2023-08-22-64e37f2dfd89780001b1f776/)**"** to start preparing for your Bali trip!
+After subscribing, you can immediately continue reading our detailed guide to deeply explore every exciting corner of Bali. Click **"**[**Ultimate Bali Travel Guide**](/en/blog/2023-08-22-64e37f2dfd89780001b1f776/)**"** to start preparing for your Bali trip!

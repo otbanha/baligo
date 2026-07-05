@@ -31,7 +31,7 @@ Waktu perjalanan: 19 - 23 Mei 2024
 
 Pertama, yang paling penting adalah visa. Kami mengurus e-visa sekitar tiga minggu sebelumnya, ngikutin panduan dari forum dan YouTube, step by step isi formulir. Setelah diisi, e-visa langsung terkirim. Jangan lupa di-print, karena bakal diperiksa saat imigrasi. Jangan coba-coba main-main, pajak wisatawan juga harus dibayar online sebelum berangkat. Sesampainya di sana, dari imigrasi sampai ambil bagasi, siapkan waktu sekitar satu jam biar nggak buru-buru. Setelah ambil bagasi, terakhir harus scan QR Code e-customs declaration yang udah diisi sebelumnya biar bisa keluar.
 
-> Baca juga: [Panduan Masuk Bali 2025 Pakai Kartu Kedatangan 'All Indonesia' | Paham dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](/blog/bali-all-indonesia-arrival-guide/)
+> Baca juga: [Panduan Masuk Bali 2025 Pakai Kartu Kedatangan 'All Indonesia' | Paham dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
 
 ## Tukar Uang
 
@@ -97,13 +97,13 @@ Restoran seafood Jimbaran ini, paket untuk dua orang sekitar USD$23. (Foto: Ange
 
 Suasana restoran ini keren banget, bisa makan sambil lihat pemandangan laut. Di tempat wisata, harga dan suasana makan seperti ini benar-benar oke.
 
-Catatan editor: Restoran seafood Jimbaran rekomendasi Angel sudah masuk dalam [11 Restoran Seafood Jimbaran di Bali: Rekomendasi Anti Gagal](/blog/jimbaran-seafood-restaurants-list/)
+Catatan editor: Restoran seafood Jimbaran rekomendasi Angel sudah masuk dalam [11 Restoran Seafood Jimbaran di Bali: Rekomendasi Anti Gagal](/id/blog/jimbaran-seafood-restaurants-list/)
 
 ## Tips
 
 Setelah cek internet, ada yang bilang Indonesia punya budaya tip, ada juga yang bilang enggak. Pengalaman kami, beberapa kali kasih tip malah bikin mereka kaget dan agak sungkan nerimanya. Baru setelah kami bilang terima kasih atas pelayanan mereka, mereka mau terima. Intinya, kalau naik mobil atau bantu bawa koper, kasih 10.000 IDR; pas bayar makan juga kasih tambahan 10.000 IDR tunai untuk staf. Di hotel, ada staf yang ramah banget bantu foto-fotoin kami, mereka juga bilang nggak usah dikasih tip. Jadi menurutku pribadi, tip itu nggak wajib, tapi bentuk sopan santun. Kalau mau kasih, usahakan jangan pakai koin, karena itu kurang sopan. (Catatan editor: Koin dengan nilai terbesar di Indonesia adalah 1.000 IDR, sekitar USD$0.03)
 
-Baca juga: [Tips di Bali: Perlukah? Bagaimana Caranya? Berapa Banyak Tip untuk Berbagai Situasi?](/blog/bali-tipping-guide-driver-spa/)
+Baca juga: [Tips di Bali: Perlukah? Bagaimana Caranya? Berapa Banyak Tip untuk Berbagai Situasi?](/id/blog/bali-tipping-guide-driver-spa/)
 
 Karena ini bulan madu, meskipun pertama kali ke Bali, kami ingin ke banyak tempat, tapi nggak mau capek macet-macetan tiap hari. Jadi kami pilih itinerary yang super santai. Kami nikmatin fasilitas hotel, ngemil sore yang mengenyangkan, cobain pijat tradisional, jalan-jalan di tiga pantai berbeda, dan makan malam — seru juga ternyata.
 
@@ -159,7 +159,7 @@ Berikut sekilas info tentang akomodasi yang kami coba:
 
 Indigo Seminyak adalah hotel butik dengan desain super keren, lokasinya strategis banget di jantung Seminyak. Hotel ini memadukan gaya tradisional Bali dengan sentuhan modern, baik interior maupun lanskap outdoor-nya sama-sama cantik. Kamarnya luas dan nyaman, fasilitas lengkap, bikin betah. Kami sempat coba SAVA SPA yang terkenal di sini, ambil paket hot stone massage 90 menit — bikin rileks dan puas banget.
 
-Info lengkap di sini: [[Rekomendasi Menginap di Seminyak] USD$161 per Malam di Hotel Bintang Lima Tepi Pantai Indigo Resort](/blog/hotel-indigo-seminyak-review/)
+Info lengkap di sini: [[Rekomendasi Menginap di Seminyak] USD$161 per Malam di Hotel Bintang Lima Tepi Pantai Indigo Resort](/id/blog/hotel-indigo-seminyak-review/)
 
 > ▶[Pesan Hotel Indigo Bali Seminyak Beach](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1220348) [Booking](https://booking.tpm.li/Wod9awed)
 

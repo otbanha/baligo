@@ -21,7 +21,7 @@ category:
 lang: id
 _srcHash: d2971954243750b5518049032cba7ff0
 ---
-Baru-baru ini dirilis '10 Destinasi Romantis Global Teratas', berdasarkan big data dari platform perjalanan Agoda, Bali menduduki peringkat keenam dunia ([cek di sini](/blog/valentines-day-romantic-destinations/)). Sementara itu, statistik Tripadvisor 2024 menempatkan Bali sebagai destinasi bulan madu nomor satu, [mengalahkan Maladewa jadi juara dunia!](/blog/bali-honeymoon-destination/)
+Baru-baru ini dirilis '10 Destinasi Romantis Global Teratas', berdasarkan big data dari platform perjalanan Agoda, Bali menduduki peringkat keenam dunia ([cek di sini](/id/blog/valentines-day-romantic-destinations/)). Sementara itu, statistik Tripadvisor 2024 menempatkan Bali sebagai destinasi bulan madu nomor satu, [mengalahkan Maladewa jadi juara dunia!](/id/blog/bali-honeymoon-destination/)
 
 ![Kenapa makin banyak orang pilih Bali buat honeymoon? FAQ hon](https://images.gobaligo.id/vocus/vocus_b4f537565e91e25fd6de607522f7cb4d.jpg)
 
@@ -51,7 +51,7 @@ Kamu bisa naik penerbangan langsung ke Bali. Ibu kota Bali adalah Denpasar (kode
 
 Kami adalah situs informasi wisata Bali paling profesional, dengan lebih dari 500 tempat wisata hits terbaru di Bali. Pasti kamu bakal nemu spot yang pengen banget dikunjungi dari panduan kami! Cek di sini:
 
-【[Panduan 500 Tempat Wisata Hits Bali 2025, Kumpul Lengkap!](/blog/bali-top-500-attractions/)】
+【[Panduan 500 Tempat Wisata Hits Bali 2025, Kumpul Lengkap!](/id/blog/bali-top-500-attractions/)】
 
 ## Berapa Lama Waktu yang Disarankan di Bali?
 
@@ -72,11 +72,11 @@ Sesuai minat dan budget, kamu bisa atur itinerary sendiri. Ini beberapa saran:
 - Kalau suka pemandangan alam, rekomendasi banget buat habiskan waktu lebih lama di Ubud.
 - Kalau suka petualangan, ikut aktivitas outdoor kayak trekking, snorkeling, atau surfing.
 
-> Baca juga: [Pantai-pantai Rahasia di Selatan Bali](/blog/uluwatu-guide/)
+> Baca juga: [Pantai-pantai Rahasia di Selatan Bali](/id/blog/uluwatu-guide/)
 
-> Baca juga: [Keindahan Alam Ubud dan Beragam Aktivitas Outdoor](/blog/ubud-guide/)
+> Baca juga: [Keindahan Alam Ubud dan Beragam Aktivitas Outdoor](/id/blog/ubud-guide/)
 
-Kalau kamu lagi cari aktivitas yang bisa bikin hubungan makin mesra dan romantis abis, cek aja 【[Panduan Romantis Bulan Madu di Bali: 36 Cara Seru buat Pasangan](/blog/bali-honeymoon-romantic-activities-2/)】
+Kalau kamu lagi cari aktivitas yang bisa bikin hubungan makin mesra dan romantis abis, cek aja 【[Panduan Romantis Bulan Madu di Bali: 36 Cara Seru buat Pasangan](/id/blog/bali-honeymoon-romantic-activities-2/)】
 
 Apa pun cara kamu menghabiskan bulan madu, Bali pasti kasih pengalaman yang nggak terlupakan.
 
@@ -84,9 +84,9 @@ Apa pun cara kamu menghabiskan bulan madu, Bali pasti kasih pengalaman yang ngga
 
 Saran pertama, kenali dulu karakteristik akomodasi di setiap area Bali, pilih yang cocok buat pasangan bulan madu, dan manfaatkan paket tur harian yang kami sediakan — dijamin liburanmu makin gampang dan seru.
 
-> Baca juga: [Mengenal 5 Area Populer buat Menginap di Bali](/blog/2023-12-29-65839fbafd89780001e876b5/)
+> Baca juga: [Mengenal 5 Area Populer buat Menginap di Bali](/id/blog/2023-12-29-65839fbafd89780001e876b5/)
 
-> Baca juga: [20 Rekomendasi Resort & Villa Romantis buat Bulan Madu](/blog/bali-honeymoon-resorts-guide/)
+> Baca juga: [20 Rekomendasi Resort & Villa Romantis buat Bulan Madu](/id/blog/bali-honeymoon-resorts-guide/)
 
 ![Gimana Cara Booking Trip ke Bali?](https://images.gobaligo.id/vocus/vocus_0a0f01ddd3f1dbf1a47d1c9e05e9534b.png)
 
@@ -124,7 +124,7 @@ Buat kamu yang lagi merencanakan bulan madu atau liburan romantis, Bali adalah d
 
 Agen travel lokal Bali milik bos Taiwan ini wajib banget kamu pertimbangkan! Mereka punya pengalaman lebih dari 20 tahun bawa rombongan, dan paham banget seluk-beluk budaya Bali. Kamu tinggal kasih budget perjalanan dan tempat-tempat yang pengin dijelajahi, sisanya semua urusan remeh-temeh bakal diurusin tim profesional — termasuk nyediain supir dan guide bahasa Mandarin dan Inggris yang berpengalaman. Dijamin kamu bisa traveling di Bali tanpa pusing, sambil menikmati momen romantis.
 
-Cek ini: 【[Bali Super Seru - Rencana Profesional Bikin Liburanmu Santai](/blog/bali-custom-tour-planning/)】
+Cek ini: 【[Bali Super Seru - Rencana Profesional Bikin Liburanmu Santai](/id/blog/bali-custom-tour-planning/)】
 
 ## Harus bawa uang tunai / harus kasih tip?
 
@@ -142,12 +142,12 @@ Jangan lupa bawa sunscreen dan alat anti nyamuk biar liburanmu tetap nyaman dan 
 
 Kami udah ngerangkum 21 barang wajib bawa buat liburan ke Bali. Kalau kamu kayak aku yang punya 'kecemasan bepergian', daftar ini bakal bikin kamu jauh lebih tenang!
 
-【[Bali Travel Essentials: 21 Barang Wajib Bawa](/blog/bali-travel-essentials/)】
+【[Bali Travel Essentials: 21 Barang Wajib Bawa](/id/blog/bali-travel-essentials/)】
 
 ## Baca Juga: Bali untuk Bulan Madu / Pasangan
 
-- [Kenapa Makin Banyak Orang Pilih Bali buat Bulan Madu? FAQ Bulan Madu di Bali](/blog/bali-honeymoon-faq/)
-- [Surga Romantis Terbongkar! Bali Kalahkan Maladewa Jadi Juara Dunia!](/blog/bali-honeymoon-destination/)
-- [Panduan Romantis Bulan Madu di Bali: 36 Cara Seru buat Pasangan](/blog/bali-honeymoon-romantic-activities-2/)
-- [Mau Nginep di Mana? Panduan Lengkap buat Pasutri/Pasangan! 【20 Rekomendasi Resort & Villa Romantis】](/blog/bali-honeymoon-resorts-guide/)
-- [《World Travel Awards》Bali Raih Gelar Destinasi Paling Romantis Sedunia 2024](/blog/bali-world-travel-awards-2024/)
+- [Kenapa Makin Banyak Orang Pilih Bali buat Bulan Madu? FAQ Bulan Madu di Bali](/id/blog/bali-honeymoon-faq/)
+- [Surga Romantis Terbongkar! Bali Kalahkan Maladewa Jadi Juara Dunia!](/id/blog/bali-honeymoon-destination/)
+- [Panduan Romantis Bulan Madu di Bali: 36 Cara Seru buat Pasangan](/id/blog/bali-honeymoon-romantic-activities-2/)
+- [Mau Nginep di Mana? Panduan Lengkap buat Pasutri/Pasangan! 【20 Rekomendasi Resort & Villa Romantis】](/id/blog/bali-honeymoon-resorts-guide/)
+- [《World Travel Awards》Bali Raih Gelar Destinasi Paling Romantis Sedunia 2024](/id/blog/bali-world-travel-awards-2024/)

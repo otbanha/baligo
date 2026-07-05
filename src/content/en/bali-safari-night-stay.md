@@ -173,7 +173,7 @@ For non-locals, the ticket prices for Bali Safari aren't particularly friendly. 
 
 If my travelogue has been helpful to you, feel free to continue reading my other day itineraries/travel guides:
 
-- [**Day 1: Staying in a Shopping Mall! Family-Friendly Accommodation for Two Adults and Two Kids**](/blog/bali-family-trip-aloft-kuta/)
-- [**Day 2: GWK Cultural Park, Free Beach Club at Uluwatu, Uluwatu Temple, Uluwatu Kecak Fire Dance**](/blog/bali-family-trip-gwk-beach-club/)
-- [**Day 3-7: Five Days in Ubud: Food, Attractions, Accommodation, and Volcano Exploration Recommendations**](/blog/bali-family-trip-ubud-guide/)
+- [**Day 1: Staying in a Shopping Mall! Family-Friendly Accommodation for Two Adults and Two Kids**](/en/blog/bali-family-trip-aloft-kuta/)
+- [**Day 2: GWK Cultural Park, Free Beach Club at Uluwatu, Uluwatu Temple, Uluwatu Kecak Fire Dance**](/en/blog/bali-family-trip-gwk-beach-club/)
+- [**Day 3-7: Five Days in Ubud: Food, Attractions, Accommodation, and Volcano Exploration Recommendations**](/en/blog/bali-family-trip-ubud-guide/)
 

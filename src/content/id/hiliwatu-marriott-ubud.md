@@ -133,7 +133,7 @@ Buat traveler yang pengen eksplor budaya Bali secara mendalam, cari keseimbangan
 
 Kamu udah pernah ke Ubud? Tertarik sama hotel baru yang baru buka ini?
 
-Tersimpan di 「[【Rekomendasi Penginapan Unik di Ubud, Bali】Rasakan Petualangan Ajaib di Tengah Pemandangan Alam Bali!](/blog/ubud-villas-pool-guide/)」
+Tersimpan di 「[【Rekomendasi Penginapan Unik di Ubud, Bali】Rasakan Petualangan Ajaib di Tengah Pemandangan Alam Bali!](/id/blog/ubud-villas-pool-guide/)」
 
 ***
 
@@ -141,15 +141,15 @@ Tersimpan di 「[【Rekomendasi Penginapan Unik di Ubud, Bali】Rasakan Petualan
 
 ### Wisata Keluarga di Ubud
 
-Kalau kamu traveling bareng keluarga dan cari penginapan yang disukai anak-anak, cek 【[Panduan Aktivitas Wisata Keluarga di Bali](/blog/ubud-with-kids-guide/)】, ada 55 tempat/aktivitas seru buat keluarga, plus rekomendasi 10 penginapan terbaik di Ubud versi traveler dunia.
+Kalau kamu traveling bareng keluarga dan cari penginapan yang disukai anak-anak, cek 【[Panduan Aktivitas Wisata Keluarga di Bali](/id/blog/ubud-with-kids-guide/)】, ada 55 tempat/aktivitas seru buat keluarga, plus rekomendasi 10 penginapan terbaik di Ubud versi traveler dunia.
 
 ![100種深入認識烏布的方式｜探索烏布的魅力](https://images.gobaligo.id/vocus/vocus_ea533e1649d072068698827355e60224.jpg)
 
-[100 Cara Kenal Lebih Dalam Ubud｜Eksplor Pesona Ubud](/blog/ubud-guide/)
+[100 Cara Kenal Lebih Dalam Ubud｜Eksplor Pesona Ubud](/id/blog/ubud-guide/)
 
 ### Eksplorasi Ubud Lebih Dalam
 
-Kalau nggak bawa anak kecil dan kamu pengin menikmati Ubud sepenuhnya, ada 【[Panduan Lengkap Ubud Bali 2025: 100 Cara Kenal Lebih Dalam Ubud｜Eksplor Pesona Ubud](/blog/ubud-guide/)】, biar kamu makin kenal Ubud!
+Kalau nggak bawa anak kecil dan kamu pengin menikmati Ubud sepenuhnya, ada 【[Panduan Lengkap Ubud Bali 2025: 100 Cara Kenal Lebih Dalam Ubud｜Eksplor Pesona Ubud](/id/blog/ubud-guide/)】, biar kamu makin kenal Ubud!
 
 ***
 

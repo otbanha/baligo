@@ -19,7 +19,7 @@ lang: zh-cn
 _srcHash: 37055e34ac72ef21dbbd1163a1f55043
 ---
 
-去年底，印尼政府原本计划在巴厘岛南部的几个热门旅游区，像是坎古、乌鲁瓦图、库塔、雷吉安、水明漾和努沙杜瓦等地，[禁止新建酒店、海滩俱乐部和其他旅游相关设施](/blog/bali-hotel-construction-ban/)。不过，即将连任上任的巴厘岛省长瓦扬·科斯特（Wayan Koster）最近公开表示，**他不会执行这项禁令**。
+去年底，印尼政府原本计划在巴厘岛南部的几个热门旅游区，像是坎古、乌鲁瓦图、库塔、雷吉安、水明漾和努沙杜瓦等地，[禁止新建酒店、海滩俱乐部和其他旅游相关设施](/zh-cn/blog/bali-hotel-construction-ban/)。不过，即将连任上任的巴厘岛省长瓦扬·科斯特（Wayan Koster）最近公开表示，**他不会执行这项禁令**。
 
 ![巴厘岛新政策转向：省长拒绝实施旅游开发禁令](https://images.gobaligo.id/vocus/vocus_5912b3283e6ebf4f0e8a8eefd1896b05.png)
 
@@ -47,7 +47,7 @@ _srcHash: 37055e34ac72ef21dbbd1163a1f55043
 
 **快速参考：**
 
-[巴厘岛将强制禁止「逃票」游客：观光税或成强制规定！](/blog/bali-tourism-tax-enforcement/)
+[巴厘岛将强制禁止「逃票」游客：观光税或成强制规定！](/zh-cn/blog/bali-tourism-tax-enforcement/)
 
 ### 未来会怎么样？
 

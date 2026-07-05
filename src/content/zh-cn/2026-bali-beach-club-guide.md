@@ -60,6 +60,6 @@ https://youtube.com/shorts/wai2lSW3vVU
 
 说到底，2026 年的巴厘岛，不再只是「选一家待到底」。懂得移动、懂得转换氛围，反而更能玩出层次。咖啡馆还是值得去，但如果时间有限，我会诚实说一句——把重心留给 Beach Club，真的比较不后悔。😉🌴
 
-**快速参考：**[巴厘岛20个免费入场的海滩俱乐部](/blog/bali-beach-clubs-free-entry-list/)
+**快速参考：**[巴厘岛20个免费入场的海滩俱乐部](/zh-cn/blog/bali-beach-clubs-free-entry-list/)
 
 {{block:klook}}

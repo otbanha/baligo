@@ -45,7 +45,7 @@ eVisa bisa diajukan maksimal 3 hari sebelum keberangkatan. Setelah disetujui, be
 
 Proses pengajuan eVisa biasanya cuma butuh beberapa menit. Keuntungan utama: setelah turun pesawat, kamu nggak perlu antre buat visa on arrival. Mulai 2024, kamu juga bisa pakai electronic gate yang hampir tanpa antrean sama sekali.
 
-> Baca Juga: [Cepat & Praktis! Panduan & Tips Lolos Autogate Bali 2025](/blog/2025-bali-automatic-customs/)
+> Baca Juga: [Cepat & Praktis! Panduan & Tips Lolos Autogate Bali 2025](/id/blog/2025-bali-automatic-customs/)
 
 **Visa Kunjungan B1**
 
@@ -55,8 +55,8 @@ Wisatawan biasa pilih visa ini ya! (PS. Udah nggak perlu bikin akun/daftar)
 
 ## Selain e-Visa, dokumen apa lagi yang perlu disiapkan?
 
-Cek panduan lengkap semua proses di sini: [Panduan Masuk Bali Pakai Sistem 'All Indonesia'｜Paham dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](/blog/bali-all-indonesia-arrival-guide/)
+Cek panduan lengkap semua proses di sini: [Panduan Masuk Bali Pakai Sistem 'All Indonesia'｜Paham dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
 
 ## Perpanjang e-Visa Secara Online
 
-Mulai 2024, Indonesia bakal dorong wisatawan yang mau ke Bali pakai layanan imigrasi online. Kamu bisa ajukan berbagai visa Indonesia secara online, termasuk perpanjangan visa — nggak perlu repot datang ke kantor imigrasi lagi! Cara perpanjang online? Lihat [panduan yang kita siapkan](/blog/2024-bali-visa-extension/).
+Mulai 2024, Indonesia bakal dorong wisatawan yang mau ke Bali pakai layanan imigrasi online. Kamu bisa ajukan berbagai visa Indonesia secara online, termasuk perpanjangan visa — nggak perlu repot datang ke kantor imigrasi lagi! Cara perpanjang online? Lihat [panduan yang kita siapkan](/id/blog/2024-bali-visa-extension/).

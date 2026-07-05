@@ -55,7 +55,7 @@ The pool is both clean and spacious, and the villa offers a reserved golf cart s
 
 > ▶[Check availability, room types, and rates for The Dusun Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=64314)
 
-The introduction to The Dusun Villa is included in '[20+ Stunning Bali Villas in Seminyak](/blog/2024-04-04-660e6e92fd89780001e6047e/)'
+The introduction to The Dusun Villa is included in '[20+ Stunning Bali Villas in Seminyak](/en/blog/2024-04-04-660e6e92fd89780001e6047e/)'
 
 ### **Ubud Accommodation**
 
@@ -79,7 +79,7 @@ Here you can book a Kecak Dance performance without jostling through crowds. The
 
 ▶[Check availability, room types, and rates for Tanah Gajah](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=69555) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=987913&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazcLFJMEkNYWFY_6hPRPZhBgNLH4LOra-Dtwh926ug-cbIM2atMghgCdiyoHn09gTvaqb9X2OBDoUMoAAx3yHRkZjEHg4y6GLkRWsZgZj5zKbjYweD6tE1oVXO-xgZDrAyHSCcVvoAqZXyxlPsTBzfOC_xPKdKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsQwNDMz0DA6BQSWKFZwpYa3JiTnJpTmJJakhlAdAIMx2lzGLnkqLMgqDU3MySklSgqrTEnOJUkHhQajFQJhksqOQHNKYIKpCZnwfRbogiFpaYU5oKcQPQQrdUqB2GtTqYTn82p_dp98wXm3YT6XRzajvdgBinG9fGPmJhio79xMLwCxgRTR5NrAxdrMwcp5gmAcltobtY2YJ8Ak0CHS-wNi1glJI3NDAwMDU0NjXVNUi0TDQ1TjbUNbE0MbI00TU3MjU00Zi_fXfjU2MjaylI1CswagnGh3h6uhiWFKaaFZZa5hQVmBownmKUMjQ3tjA0MjQ0MjKyNNYzsUgzK7bIK7bIzYrwYAxic3E0N3exiLLhYvZ0CRK8958lV1vZ0l6KOSTcRXHlTea1ByacttcCyRnC5AItvojxv7dcYB-Z120knTLptH0Sa1WGbkh4Rq94AWMDI1MXI7cAowdjBGMFkMe4ipFhAyPjDsb_MMD4ihFkOgCc7suXAAMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494294-72514&detailFilters=17|1~17~1*31|987913~31~987913*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=703&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/kFUdWN1A)
 
-(Included in '[20+ Stunning Bali Villas in Ubud](/blog/ubud-villa-pool-guide/)')
+(Included in '[20+ Stunning Bali Villas in Ubud](/en/blog/ubud-villa-pool-guide/)')
 
 # Itinerary Sharing
 
@@ -97,7 +97,7 @@ Jimbaran (Photo by Ya-yun Chen)
 
 Staying in a villa with a large pool is especially great for families with kids (Photo by Ya-yun Chen)
 
-> Further reading: [Bali Travel: Recommended Family Villas with 3+ Bedrooms](/blog/bali-group-villa-stay/)
+> Further reading: [Bali Travel: Recommended Family Villas with 3+ Bedrooms](/en/blog/bali-group-villa-stay/)
 
 - In the morning, we enjoyed a leisurely breakfast and a swim at the villa, then headed to iiga Warung for a delicious pork rib lunch. The ribs here were tender and juicy, absolutely mouthwatering.
 
@@ -111,7 +111,7 @@ GWK features the world's fourth tallest statue structure.
 
 GWK offers free hourly performances that you can join anytime. If you don't want to spend extra to see the Kecak fire dance at Uluwatu, don't miss the free fire dance show here at 6:00 PM!)
 
-> [Complete Guide to Bali's Garuda Wisnu Kencana GWK Cultural Park](/blog/gwk-cultural-park-bali/)
+> [Complete Guide to Bali's Garuda Wisnu Kencana GWK Cultural Park](/en/blog/gwk-cultural-park-bali/)
 
 > Book [GWK Cultural Park Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D31be720b57)
 
@@ -121,7 +121,7 @@ Sea Kayaking (Photo by Ya-yun Chen)
 
 - Next, we headed to Mertasari Beach for kayaking. It cost just USD$1 per boat for an hour. The kids splashed around in the water while the adults soaked up the sun on the shore.
 
-> Further Reading: [Xiao Jie's Sea Kayaking Experience](/blog/sanur-kayaking-experience/)
+> Further Reading: [Xiao Jie's Sea Kayaking Experience](/en/blog/sanur-kayaking-experience/)
 
 ![Bandar Nelayan Seafood（Ya-yun Chen提供）](https://images.gobaligo.id/vocus/vocus_0986163175368aef99f15a4b9fa93ce4.jpg)
 
@@ -163,7 +163,7 @@ https://youtu.be/op78Dk8CjL4
 - In the afternoon, we visited Ulun Danu Beratan Temple, located in the middle of a lake. It's a picturesque spot, perfect for photos.
 - We also stopped by Handara Gate, but when we arrived, the ticket booth said there would be a one-hour wait for photos, so we decided to skip it.
 
-> Read more: [The Real Meaning of Candi Bentar: It's Not 'Good and Evil Gate'](/blog/candi-bentar-balinese-gate-history/)
+> Read more: [The Real Meaning of Candi Bentar: It's Not 'Good and Evil Gate'](/en/blog/candi-bentar-balinese-gate-history/)
 
 ## **Day 5:**
 
@@ -171,9 +171,9 @@ https://youtu.be/op78Dk8CjL4
 
 ![Jungle Cart 請看小傑的介紹](https://images.gobaligo.id/vocus/vocus_67919aa2ca07a223f708bf11bc265a00.jpg)
 
-[Check out Jie's review of Jungle Cart](/blog/ubud-jungle-cart-adventure/)
+[Check out Jie's review of Jungle Cart](/en/blog/ubud-jungle-cart-adventure/)
 
-> Read more: [Bali Ubud Jungle Cart Adventure](/blog/ubud-jungle-cart-adventure/)
+> Read more: [Bali Ubud Jungle Cart Adventure](/en/blog/ubud-jungle-cart-adventure/)
 
 - Then we visited Ubud Palace, which is well-preserved and gave us a deeper understanding of Bali's traditional architecture and culture.
 - Next, we went to Pura Taman Saraswati (Ubud Water Palace), where the lotus pond and exquisite stone carvings were mesmerizing.
@@ -195,13 +195,13 @@ Day 6 activities (provided by Ya-yun Chen)
 
 - Today's activities included Wos Tubing Adventure rafting, a very fun water activity that the whole family thoroughly enjoyed.
 
-> [Bali Rafting Guide (FAQ about rafting)](/blog/bali-rafting-ayung-telaga-waja/)
+> [Bali Rafting Guide (FAQ about rafting)](/en/blog/bali-rafting-ayung-telaga-waja/)
 
 > Book [Wos River Tubing Discount Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F110089-tubing-experience-ubud-wos-tubing-adventure%2F%3Fcampaignid%3D21203884931%26adgroupid%3D166936151891%26targetid%3Ddsa-2304163218195%26matchtype%3D%26device%3Dc%26creative%3D697061761157%26extensionid%3D%26keyword%3D%26loc_interest_ms%3D%26loc_physical_ms%3D9119738%26network%3Dg%26utm_content%3Dcampaignid_21203884931_adgroupid_166936151891%26gad_source%3D1%26gclid%3DCjwKCAjw4_K0BhBsEiwAfVVZ_6xWskrg8op_zwbS5jmaegXQ5hh1Qn8eJlcJUhIOPQ9gyTjW5tKoWBoCUtIQAvD_BwE%26spm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dc20fca3e03)
 
 - Next, we visited Bali Bird Park, which is home to many beautiful birds. The kids were fascinated by the colorful species.
 
-> [Bali Bird Park Ultimate Guide: A Magical Journey of Rare Bird Species, Interactive Activities, and Eco-Conservation](/blog/bali-bird-park-guide/)
+> [Bali Bird Park Ultimate Guide: A Magical Journey of Rare Bird Species, Interactive Activities, and Eco-Conservation](/en/blog/bali-bird-park-guide/)
 
 > Book [Bali Bird Park Discount Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D8c994fcef3)
 

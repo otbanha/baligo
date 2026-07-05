@@ -56,10 +56,10 @@ Di pasar tradisional dan lapak pinggir jalan biasanya perlu ditawar (misalnya pa
 
 Tetap tenang dan ramah sepanjang proses. Jangan terlalu menunjukkan ketertarikan pada barang biar penjual nggak naikin harga. Jangan juga maksa terus-terusan nawarnya — kalau udah nemu harga yang cocok buat dua pihak, langsung deal aja.
 
-> Baca juga: [Panduan Belanja Aman & Nyaman untuk Traveler](/blog/travel-shopping-safety/)
+> Baca juga: [Panduan Belanja Aman & Nyaman untuk Traveler](/id/blog/travel-shopping-safety/)
 
-> Baca juga: [Pasar Grosir Seni Terbesar di Bali: Kumbasari Art Market](/blog/kumbasari-art-market-shopping/)
+> Baca juga: [Pasar Grosir Seni Terbesar di Bali: Kumbasari Art Market](/id/blog/kumbasari-art-market-shopping/)
 
-> Baca juga: [Empat Pasar Akhir Pekan di Bali yang Masih Aktif: Pengalaman Belanja Paling Otentik](/blog/bali-weekend-markets-2026/)
+> Baca juga: [Empat Pasar Akhir Pekan di Bali yang Masih Aktif: Pengalaman Belanja Paling Otentik](/id/blog/bali-weekend-markets-2026/)
 
 {{block:伴手禮}}

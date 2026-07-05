@@ -40,7 +40,7 @@ Nuanu Creative City adalah kawasan kreatif seluas 44 hektar yang terletak di Tab
 
 Inti dari Nuanu Creative City dibangun di atas filosofi tradisional Bali "**Tri Hita Karana**", yaitu filosofi hidup yang menekankan keseimbangan harmonis antara manusia dengan Tuhan, manusia dengan sesama, dan manusia dengan alam. Bangunan ikonik di kawasan ini, "Menara THK" (Tri Hita Karana Tower), adalah perwujudan nyata dari filosofi ini. Menara spiral yang dirancang oleh arsitek Arthur Mamou Mani dan dibangun dari kayu daur ulang ini bukan hanya menjadi pusat perhatian visual, tetapi juga melambangkan inti spiritual Nuanu.
 
-Penjelasan lebih lanjut tentang THK Tower bisa dilihat di [sini](/blog/thk-tower-nuanu-sustainable-architecture/) (📍 [Lokasi di Google Maps](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing))
+Penjelasan lebih lanjut tentang THK Tower bisa dilihat di [sini](/id/blog/thk-tower-nuanu-sustainable-architecture/) (📍 [Lokasi di Google Maps](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing))
 
 ![Tri Hita Karana Tower](https://images.gobaligo.id/vocus/vocus_ff4da7325988417852c280cad0d34efb.jpg)
 
@@ -92,7 +92,7 @@ Nuanu Creative City saat ini sudah menyelesaikan beberapa proyek independen, dan
 
 Di pintu masuk Nuanu Creative City di Bali, berdiri dua patung raksasa setinggi 14 meter bernama "The Earth Sentinels", karya seniman terkenal asal Afrika Selatan, Daniel Popper. Karya ini menggabungkan alam dengan bentuk manusia, melambangkan hubungan antara manusia dan bumi. Ini adalah landmark seni yang bikin merinding banget.
 
-Kami punya ulasan lebih lanjut di [sini](/blog/the-earth-sentinels-nuanu/)
+Kami punya ulasan lebih lanjut di [sini](/id/blog/the-earth-sentinels-nuanu/)
 
 ### Aurora Media Park (📍 [Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing))
 
@@ -100,7 +100,7 @@ Kami punya ulasan lebih lanjut di [sini](/blog/the-earth-sentinels-nuanu/)
 
 Aurora Media Park Bali adalah landmark baru yang menggabungkan alam dengan teknologi multimedia interaktif. Terletak di kawasan kreatif Nuanu, Tabanan, tempat ini menawarkan pengalaman hutan terbuka sepanjang sekitar 1 km, penuh dengan permainan interaktif cahaya dan suara, serta menggunakan teknologi kecerdasan buatan (AI) untuk menciptakan lingkungan multimedia yang imersif. Pengunjung bisa merasakan sensasi visual dan audio yang luar biasa di hutan alami seluas sekitar 5.000 meter persegi ini, sekaligus mendapatkan inspirasi spiritual, seolah memasuki dimensi baru.
 
-Info lengkapnya cek di [sini](/blog/aurora-media-park-canggu/)
+Info lengkapnya cek di [sini](/id/blog/aurora-media-park-canggu/)
 
 ### Luna Beach Club (📍 [Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing))
 
@@ -110,7 +110,7 @@ Info lengkapnya cek di [sini](/blog/aurora-media-park-canggu/)
 
 Luna Beach Club adalah destinasi gaya hidup di Nuanu Creative City yang memadukan keindahan alam, kreativitas seni, dan pengalaman serba bisa. Beach club yang baru buka tahun 2024 ini, dengan desain unik dan konsep hiburan inovatif, menjadi permata di pesisir barat Bali. Dari pemandangan laut yang memukau hingga arsitektur penuh imajinasi, Luna Beach Club menawarkan ruang impian untuk kabur dari hiruk-pikuk sehari-hari dan tenggelam dalam perpaduan alam dan seni.
 
-Lihat detailnya di [sini](/blog/luna-beach-club-nuanu-tabanan/)
+Lihat detailnya di [sini](/id/blog/luna-beach-club-nuanu-tabanan/)
 
 ### Magic Garden (📍 [Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing))
 
@@ -118,7 +118,7 @@ Lihat detailnya di [sini](/blog/luna-beach-club-nuanu-tabanan/)
 
 Magic Garden（魔法花園）adalah taman alam yang baru dibuka pada November 2024, cocok banget buat keluarga dan liburan bareng anak. Tempat seluas 3.600 meter persegi ini punya banyak tanaman dan berbagai pengalaman interaktif yang seru, sekaligus mendidik.
 
-Penjelasan lebih lanjut bisa lihat [di sini](/blog/nuanu-magic-garden-bali/)
+Penjelasan lebih lanjut bisa lihat [di sini](/id/blog/nuanu-magic-garden-bali/)
 
 ### Pacha Alpaca: Piknik Interaksi dengan Alpaka, Kelas Alam untuk Anak-anak (📍 [Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing))
 
@@ -126,7 +126,7 @@ Penjelasan lebih lanjut bisa lihat [di sini](/blog/nuanu-magic-garden-bali/)
 
 Kalau kamu lagi merencanakan liburan keluarga yang seru dan mendidik, **Pacha Alpaca: Pengalaman Interaksi dengan Alpaka** adalah pilihan sempurna buat jalan-jalan sekeluarga! Tempat yang ada di kawasan konservasi alam Nuanu ini, nggak cuma bikin anak-anak bisa dekat dengan alpaka yang lucu, tapi juga bikin seluruh keluarga menikmati waktu tenang dan tak terlupakan di alam terbuka.
 
-Ini adalah perjalanan penyembuhan yang cocok untuk seluruh keluarga, info lebih lengkap ada [di sini](/blog/pacha-alpaca-family-canggu/)
+Ini adalah perjalanan penyembuhan yang cocok untuk seluruh keluarga, info lebih lengkap ada [di sini](/id/blog/pacha-alpaca-family-canggu/)
 
 ### Labyrinth Collective (📍 [Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing))
 
@@ -144,9 +144,9 @@ Terutama teater kubah imersif di sini, setiap hari Jumat menampilkan pertunjukan
 - **Harga Tiket**: Mulai dari IDR 300.000 (sekitar USD$10)
 - **Lokasi**: Labyrinth Arts Centre
 - **Link Pembelian Tiket**: [Klik untuk beli tiket](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063286&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F158960-bali-mystic-dome-show-at-labyrinth%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D50288a468e) 🎫
-- **Pengalaman Tambahan**: Dengan tiket, kamu bisa gratis mengunjungi [Labyrinth Art Gallery](/blog/labyrinth-collective-nuanu-bali/) dan berfoto di patung '[Earth Sentinels](/blog/the-earth-sentinels-nuanu/)'
+- **Pengalaman Tambahan**: Dengan tiket, kamu bisa gratis mengunjungi [Labyrinth Art Gallery](/id/blog/labyrinth-collective-nuanu-bali/) dan berfoto di patung '[Earth Sentinels](/id/blog/the-earth-sentinels-nuanu/)'
 
-Kami punya ulasan lengkap di [sini](/blog/labyrinth-collective-nuanu-bali/)
+Kami punya ulasan lengkap di [sini](/id/blog/labyrinth-collective-nuanu-bali/)
 
 ### Jungle Kids Bali: Bukan Cuma Taman Bermain, Tapi Juga Tempat Belajar yang Seru (📍 [Lokasi di Google Maps](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing))
 
@@ -154,7 +154,7 @@ Kami punya ulasan lengkap di [sini](/blog/labyrinth-collective-nuanu-bali/)
 
 Ini bukan taman bermain biasa, lho. Tempat ini adalah ruang multifungsi yang menggabungkan eksplorasi, belajar, dan pengalaman kreatif. Ada banyak fasilitas seru, mulai dari taman tali di luar ruangan hingga area bermain indoor, plus workshop seni dan kerajinan tangan yang diadakan setiap hari. Anak-anak bisa belajar sambil bermain, dan mengasah kreativitas serta kemampuan bersosialisasi.
 
-Penjelasan lebih lengkap bisa kamu lihat di [sini](/blog/jungle-kids-bali-nuanu-playground/)
+Penjelasan lebih lengkap bisa kamu lihat di [sini](/id/blog/jungle-kids-bali-nuanu-playground/)
 
 ### Lumeira Wellness Bali: SPA Uap Kayu Bakar Terbesar di Dunia (📍 [Lokasi di Google Maps](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing))
 
@@ -164,7 +164,7 @@ Lumeira Spa
 
 Lumeira Wellness Bali adalah pusat kesehatan yang menggabungkan konsep sosial dan kebugaran, terletak di dalam Nuanu Creative City di Bali. Tempat ini nggak cuma menawarkan berbagai layanan penyembuhan, tapi juga berusaha menciptakan lingkungan yang bikin kamu bisa terhubung dengan alam dan orang lain secara lebih dalam. Konsep desain Lumeira adalah membantu orang memulihkan keseimbangan tubuh dan pikiran lewat fasilitas dan perawatan yang dirancang dengan matang, serta memberikan relaksasi mendalam di tengah keindahan alam Bali. Menggunakan arsitektur tradisional Bali dengan atap alang-alang dan bambu, seluruh spa beroperasi secara netral karbon.
 
-Penjelasan detail ada di [sini](/blog/lumeira-wellness-bali-spa/)
+Penjelasan detail ada di [sini](/id/blog/lumeira-wellness-bali-spa/)
 
 ***
 
@@ -190,7 +190,7 @@ Oshom Bali
 
 Hotel ini bersandar di tebing, menghadap ke pantai pasir hitam, cuma punya 11 kamar; plus tujuh treehouse yang dibangun di atas hutan bakau, satu kolam renang air asin, dan restoran yang kece. Sebentar lagi bakal ada rooftop bar warna pink-oranye, plus ruang baca dan ruang yoga, buat kamu yang pengen lebih tenang.
 
-Info hotel selengkapnya bisa dicek [di sini](/blog/oshom-bali-nuanu-creative-city/)
+Info hotel selengkapnya bisa dicek [di sini](/id/blog/oshom-bali-nuanu-creative-city/)
 
 ### Nuanu Suites & Accommodations（📍 [Lokasi di peta](https://www.google.com/maps/d/u/0/edit?mid=13M5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing)）
 

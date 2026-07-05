@@ -96,7 +96,7 @@ Sejak dibuka tahun 2021, Adiwana Suweta dengan cepat menjadi **favorit para trav
 
 > ▶[**Harga Spesial Agoda**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22016379) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=75220031&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6wMTFJMEkdZOJ4_j22d-YhRgNLH4LOsq3vg7codTk4Hn4q0ZMf1KLQwBPxJQDz6exJ960rYxYcTDQoZABBDa0OzQyghWLtDh0MbKC1cxg3N_xXnkjRPxfoMMORqYDjEwnGB-LL2A6BJQ5xcLMcY7pEstuxuhqpezUSiUrEx2lksySnFQlK6Wni-Y9bdjzfEWrko5SSmpxMlAIyErMzS_NKwGyjY1N9AwMgCIliRWeKWCdyYk5yaU5iSWpIZUFQBPMdJQyi51LijILglJzM0tKUoGq0hJzilNB4kGpxUCZZLCgkh_QmCKoQGZ-HkS7IYpYWGJOaSrECUAL3VKhdhjWxj5iYYqO_cTC8AvomV3STawMXazMHKeYJgHJx-K7WNnczQxNo5wvsD43lZI3NDAwMDU0NjXVNUi0TLQws0jWNbE0MTKz1DUxMjAy0Vjx7M3VJ8ZG1lKQ8FNg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjE5mRkYWFuEWXDxezpEiT4Qe_59nZrS3sp5pBwF0V72X7JFT2n7bVAcoYwucA9r3NO2BsvsI8sXf18yffe0_ZJrFUZuiHhGcfFChgbGJm6GLkFGD0YIxgrgDzGVYwMGxgZdzD-hwHGV4wg0wHYUpewRQIAAA&masterhotelid_tracelogid=100051355-0a9a868c-494269-42024&detailFilters=17|1~17~1*31|75220031~31~75220031*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1215&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/FPtmm4em)
 
-Lihat rekomendasi hotel Ubud lainnya: [Akomodasi Unik di Ubud, Nikmati Petualangan di Tengah Keindahan Alam Bali!](/blog/ubud-villas-pool-guide/)
+Lihat rekomendasi hotel Ubud lainnya: [Akomodasi Unik di Ubud, Nikmati Petualangan di Tengah Keindahan Alam Bali!](/id/blog/ubud-villas-pool-guide/)
 
 ## **Padma Resort Ubud——Surga Liburan Keluarga**
 
@@ -208,12 +208,12 @@ Dari Bandara Ngurah Rai Bali (DPS) ke Adiwana Suweta butuh waktu **sekitar 90 me
 
 Adiwana Suweta lebih cocok untuk bulan madu, karena menawarkan vila pribadi dan suasana romantis.
 
-> Baca juga: [Panduan Bulan Madu/Pasangan: Rekomendasi Hotel Romantis di Bali 2025](/blog/bali-honeymoon-resorts-guide/)
+> Baca juga: [Panduan Bulan Madu/Pasangan: Rekomendasi Hotel Romantis di Bali 2025](/id/blog/bali-honeymoon-resorts-guide/)
 
 ## Lebih Banyak Seru-seruan di Ubud: Makan, Main, dan Jalan-jalan
 
 ![更多烏布吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
-Ubud adalah pusat seni dan budaya Bali, dengan sawah terasering yang hijau, hutan yang tenang, dan tradisi yang kental, bikin siapa pun betah. Di sini ada pura yang keren, pasar seni yang memikat, dan banyak pengalaman yoga & meditasi yang bikin rileks. Mau eksplorasi tradisi lokal, nikmatin alam, atau coba aktivitas seru plus kuliner dengan pemandangan kece, Ubud bakal kasih kamu kesan yang beda! Mau tahu lebih banyak tips soal Ubud? [Klik di sini](/blog/ubud-guide/).
+Ubud adalah pusat seni dan budaya Bali, dengan sawah terasering yang hijau, hutan yang tenang, dan tradisi yang kental, bikin siapa pun betah. Di sini ada pura yang keren, pasar seni yang memikat, dan banyak pengalaman yoga & meditasi yang bikin rileks. Mau eksplorasi tradisi lokal, nikmatin alam, atau coba aktivitas seru plus kuliner dengan pemandangan kece, Ubud bakal kasih kamu kesan yang beda! Mau tahu lebih banyak tips soal Ubud? [Klik di sini](/id/blog/ubud-guide/).
 
 {{block:住宿}}

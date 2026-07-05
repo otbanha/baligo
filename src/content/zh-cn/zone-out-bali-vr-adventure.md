@@ -74,7 +74,7 @@ ZONE OUT Bali 真的超适合排在「雨天备选」或「亲子娱乐日」！
 
 ![快速链接](https://images.gobaligo.id/vocus/vocus_59f40e8823a3411d9458f4a11c4dce3f.png)
 
-[巴厘岛雨季：旅游巴厘岛碰到下雨天怎么办？巴厘岛下雨天的60个备选攻略](/blog/2026-bali-indoor-activities/)
+[巴厘岛雨季：旅游巴厘岛碰到下雨天怎么办？巴厘岛下雨天的60个备选攻略](/zh-cn/blog/2026-bali-indoor-activities/)
 
 ***
 

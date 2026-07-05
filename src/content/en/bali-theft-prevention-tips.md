@@ -102,9 +102,9 @@ Pererenan Beach is also **one of Bali's best surfing spots**, suitable for **bot
 
 ![More Canggu Food and Fun](https://images.gobaligo.id/vocus/vocus_3b47b6501ceec6425040cb1bda360b29.jpg)
 
-[Canggu Guide Click Here!](/blog/canggu-guide/)
+[Canggu Guide Click Here!](/en/blog/canggu-guide/)
 
-Canggu is a hotspot in Bali that combines a laid-back vibe with trendy flair. It’s not only home to stunning beaches but also boasts a variety of unique cafes, creative restaurants, and boutique shops, making it a favorite among surfers and young travelers. Whether you’re chasing natural scenery or exploring local culture, Canggu has something for everyone! Want to learn more about Canggu? [Click here](/blog/canggu-guide/).
+Canggu is a hotspot in Bali that combines a laid-back vibe with trendy flair. It’s not only home to stunning beaches but also boasts a variety of unique cafes, creative restaurants, and boutique shops, making it a favorite among surfers and young travelers. Whether you’re chasing natural scenery or exploring local culture, Canggu has something for everyone! Want to learn more about Canggu? [Click here](/en/blog/canggu-guide/).
 
 ---
 

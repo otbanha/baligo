@@ -132,6 +132,6 @@ Semoga lo semua bisa dapet kenangan indah di Bali, bukan pelajaran pahit kena ti
 
 **Referensi Cepat:**
 
-- [Panduan Lengkap Tukar Uang di Indonesia/Bali](/blog/bali-currency-exchange-guide/)
-- [Kurs Dolar AS di Bali: Uang Besar atau Kecil? Panduan Tukar Uang!](/blog/bali-usd-exchange-rate/)
-- [Tukar Uang di Indonesia/Bali: Tukar Langsung vs Tukar Dolar Dulu Baru ke Rupiah, Mana Lebih Untung?](/blog/bali-currency-exchange-tips/)
+- [Panduan Lengkap Tukar Uang di Indonesia/Bali](/id/blog/bali-currency-exchange-guide/)
+- [Kurs Dolar AS di Bali: Uang Besar atau Kecil? Panduan Tukar Uang!](/id/blog/bali-usd-exchange-rate/)
+- [Tukar Uang di Indonesia/Bali: Tukar Langsung vs Tukar Dolar Dulu Baru ke Rupiah, Mana Lebih Untung?](/id/blog/bali-currency-exchange-tips/)

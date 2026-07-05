@@ -43,7 +43,7 @@ Berikut penjelasan tiap poin perbandingannya:
 ### Harga:
 
 - **Sewa Motor:** Paling murah, biaya sewa sehari sekitar Rp 50.000–80.000. Pilihan ekonomis buat traveler dengan budget terbatas.
-- **Sewa Mobil:** Lebih mahal, rata-rata Rp 600.000–800.000 per hari. Relatif lebih mahal, tapi kasih kenyamanan dan keamanan lebih. Harga sudah termasuk sopir, mobil 5-seater, bensin, makan sopir, parkir, dll. Tol/tiket masuk belum termasuk. (Lihat [Panduan Lengkap Sewa Mobil di Bali](/blog/bali-private-car-hire-guide/))
+- **Sewa Mobil:** Lebih mahal, rata-rata Rp 600.000–800.000 per hari. Relatif lebih mahal, tapi kasih kenyamanan dan keamanan lebih. Harga sudah termasuk sopir, mobil 5-seater, bensin, makan sopir, parkir, dll. Tol/tiket masuk belum termasuk. (Lihat [Panduan Lengkap Sewa Mobil di Bali](/id/blog/bali-private-car-hire-guide/))
 
 ### Dokumen yang Perlu Disiapkan:
 
@@ -122,8 +122,8 @@ Buat turis di Bali, selain sewa mobil + sopir dan sewa motor, untuk perjalanan j
 
 Cek link berikut:
 
-- Cari sopir sewa mobil? Pertanyaan umum? [Panduan Lengkap Sewa Mobil + Sopir di Bali](/blog/bali-private-car-hire-guide/)
-- Transportasi jarak pendek? [Panduan Lengkap Gojek untuk Travel di Bali/Indonesia](/blog/gojek-bali-guide/)
+- Cari sopir sewa mobil? Pertanyaan umum? [Panduan Lengkap Sewa Mobil + Sopir di Bali](/id/blog/bali-private-car-hire-guide/)
+- Transportasi jarak pendek? [Panduan Lengkap Gojek untuk Travel di Bali/Indonesia](/id/blog/gojek-bali-guide/)
 
 ## Kendala Bahasa?
 
@@ -139,4 +139,4 @@ Intinya, sekarang kamu udah tahu cara milih antara sewa motor atau sewa mobil se
 
 👈 **Kembali ke Panduan Lengkap Liburan Mandiri ke Bali**
 
-Mau lihat panduan lengkap buat pemula? [Klik di sini buat baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam sekali baca.
+Mau lihat panduan lengkap buat pemula? [Klik di sini buat baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam sekali baca.

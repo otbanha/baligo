@@ -34,7 +34,7 @@ Ini dia itinerary solo trip 8 hari di Bali:
 
 **09:15-14:45** Naik pesawat sampai di Bali, udah booking jemput bandara lewat Klook. Sopirnya nunggu di bandara dan sabar nunggu 2 jam. Pas naik mobil, minta sopir anter ke money changer dulu. Aku langsung ke BMC Money Changer buat tukar uang. Abis itu lanjut ke penginapan malam ini, [The Eight](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=23144116) Resort.
 
-> Baca juga: [Panduan Lengkap Tukar Uang di Bali/Indonesia](/blog/bali-currency-exchange-guide/)
+> Baca juga: [Panduan Lengkap Tukar Uang di Bali/Indonesia](/id/blog/bali-currency-exchange-guide/)
 
 Mampir ke supermarket dekat penginapan buat beli obat nyamuk, adapter colokan, kacamata hitam, dan baju renang summer. Beli satu set baju renang di [niconico swimwear](https://niconicoswimwear.com/). Karyawan tokonya ramah dan nggak maksa jualan, pilihannya juga banyak.
 
@@ -50,13 +50,13 @@ https://youtu.be/UoGlRyAdyB8?si=zU9O679PYB4OFz3U
 
 ![18 Maret - Minggu](https://images.gobaligo.id/images/2026-04/1775484443433-d2afa4e9-95d6-4542-b6ba-b0fd80619d3a.jpg)
 
-> Baca juga: [Eksplor Oneeighty Day Club: Kolam Renang Tepi Tebing Bali yang Super Indah](/blog/oneeighty-dayclub-uluwatu-pool/)
+> Baca juga: [Eksplor Oneeighty Day Club: Kolam Renang Tepi Tebing Bali yang Super Indah](/id/blog/oneeighty-dayclub-uluwatu-pool/)
 
 **17:30** Sampai di The Blue Point Beach. Sebelum berangkat, cek dulu pasang surutnya. Hari itu pasang penuh jam 2 siang, jam 5 masih air tinggi, jadi kurang oke buat foto.
 
 https://youtu.be/hQbBTktqEqY
 
-> Baca juga: [Eksplor Hidden Gem Bali: 6 Pantai Tersembunyi & Cara Cek Pasang Surut](/blog/bali-hidden-beaches-guide/)
+> Baca juga: [Eksplor Hidden Gem Bali: 6 Pantai Tersembunyi & Cara Cek Pasang Surut](/id/blog/bali-hidden-beaches-guide/)
 
 **18:00-19:30** Pindah ke La Terrazza Uluwatu buat makan sambil nikmatin pemandangan. Restonya ada di spot yang juara, bisa lihat sunset dan siluet Pura Uluwatu.
 
@@ -102,7 +102,7 @@ https://youtu.be/hQbBTktqEqY
 
 https://youtu.be/JtxZHtijEkE
 
-> Baca juga: Cara jalan-jalan di pasar dan keraton Ubud? [Klik di sini](/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
+> Baca juga: Cara jalan-jalan di pasar dan keraton Ubud? [Klik di sini](/id/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
 
 **18:00** Makan malam di restoran Italia L'Osteria.
 
@@ -114,7 +114,7 @@ https://youtu.be/JtxZHtijEkE
 
 ![21 Maret, Rabu](https://images.gobaligo.id/images/2026-04/1775485795494-resize.jpeg)
 
-> Baca juga: [Gak Mau Ketinggalan Foto Keren di Air Terjun Bali? Cek Kanto Lampo Waterfall](/blog/kanto-lampo-waterfall-ig-spot/)
+> Baca juga: [Gak Mau Ketinggalan Foto Keren di Air Terjun Bali? Cek Kanto Lampo Waterfall](/id/blog/kanto-lampo-waterfall-ig-spot/)
 
 https://youtube.com/shorts/w-gzis-G6OI
 
@@ -171,11 +171,11 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 ![22 Maret, Kamis](https://images.gobaligo.id/images/2026-04/1775485916831-resize_3_.jpeg)
 
-> Baca juga: [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)
+> Baca juga: [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)
 
 Di Nusa Penida, satu-satunya cara ya sewa mobil. Aku pesan tiket kapal + sewa mobil lewat Klook, dan puas banget. Perusahaan sewa mobilnya hubungi duluan buat konfirmasi itinerary, terus bantu komunikasi sama supir. Begitu turun kapal ketemu supir, dia bantuin angkat koper, dan selama perjalanan dia jadi pemandu yang serius. Waktu aku mau turun ke Kelingking Beach, dia ikut turun juga. Bener-bener makasih banget. Setiap sampai titik, dia foto dan lapor ke kantor. Sebagai traveler solo cewek, rasanya aman banget～ Perjalanan ini bener-bener berterima kasih sama supir sewa mobil, dari awal sampai akhir bantuin angkat barang, temenin foto, sangat bertanggung jawab.
 
-> Baca juga: [Panduan Transportasi Nusa Penida: Taksi, Gojek/Grab, Sewa Mobil, Motor](/blog/nusa-penida-transport-guide/)
+> Baca juga: [Panduan Transportasi Nusa Penida: Taksi, Gojek/Grab, Sewa Mobil, Motor](/id/blog/nusa-penida-transport-guide/)
 
 **18:00** Nongkrong di Penida Colada Beach Bar, pesan minuman
 
@@ -277,7 +277,7 @@ Secara keseluruhan, menurutku lingkungan di Bali cocok banget buat solo travelin
 
 Pemandangan alam Bali juara banget! Solo trip kali ini kasih pengalaman yang nggak terlupakan, dan bikin aku lihat sendiri betapa ramahnya orang lokal. Solo traveling itu nggak serem, malah bikin aku bisa benar-benar tenggelam dalam alam dan nuansa eksotis. Kalau ada kesempatan lagi, pasti aku bakal balik lagi ke pulau impian ini! Semoga bisa bagi-bagi cerita perjalanan lainnya bareng kalian.
 
-> [Tips Solo Travel ke Bali: Surga Sendirian pun Tetap Seru](/blog/2026-04-05-001845/)
+> [Tips Solo Travel ke Bali: Surga Sendirian pun Tetap Seru](/id/blog/2026-04-05-001845/)
 
 ------------------Selesai---------------------
 
@@ -293,6 +293,6 @@ Menurut kamu itinerary Shih-chien seru banget kan? Yuk langsung rencanain libura
 
 Klik di sini buat lihat lebih banyak cerita seru dari Bali
 
-Mau nulis cerita perjalanan tapi bingung mulai dari mana? Cek dulu panduan "[Cara Nulis Cerita Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)" biar ceritamu makin kece!
+Mau nulis cerita perjalanan tapi bingung mulai dari mana? Cek dulu panduan "[Cara Nulis Cerita Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)" biar ceritamu makin kece!
 
 {{block:攻略}}

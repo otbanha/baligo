@@ -31,7 +31,7 @@ According to current regulations, Taiwanese or Hong Kong visitors can apply for 
 
 Before reading our **"Ultimate Bali Travel Guide"**, we sincerely invite you to subscribe to our YouTube channel **"Jason Indonesia"** for more visual experience sharing. [Click here](http://bit.ly/youtube-jason) to subscribe now.
 
-After subscribing, you can immediately continue reading our detailed guide to explore every exciting corner of Bali. Click **"**[**The Ultimate Bali Travel Guide**](/blog/2025-06-15-64e37f2dfd89780001b1f776/)**"** to start preparing for your Bali trip!
+After subscribing, you can immediately continue reading our detailed guide to explore every exciting corner of Bali. Click **"**[**The Ultimate Bali Travel Guide**](/en/blog/2025-06-15-64e37f2dfd89780001b1f776/)**"** to start preparing for your Bali trip!
 
 ### Our Community
 

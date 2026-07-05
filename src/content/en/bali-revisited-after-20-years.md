@@ -34,7 +34,7 @@ Traffic in Bali has always been a challenge. Chronic congestion often slows spee
 
 Twenty years ago, hailing a taxi in Bali cost a whopping $20 USD or more to start, which made me reluctant to leave the hotel after returning—the transportation costs alone were painful. Now things have improved with the Gojek ride-hailing app, making transportation much more affordable and convenient, greatly enhancing our travel experience.
 
-> [Must-Download App for Traveling in Indonesia/Bali: Complete Gojek Guide](/blog/gojek-bali-guide/)
+> [Must-Download App for Traveling in Indonesia/Bali: Complete Gojek Guide](/en/blog/gojek-bali-guide/)
 
 ## Ngurah Rai International Airport
 
@@ -50,7 +50,7 @@ Inside the airport, there's a small stall selling Oakley sunglasses and backpack
 
 Bali produces coffee and chocolate. JungleGold Bali offers many unique flavors; although the prices are a bit steep, the packaging is exquisite, making them great souvenirs to bring home as gifts. We visited Satria Coffee Plantation, where various spices are grown, and we got to see how cocoa fruit grows on trees—a rare experience for us.
 
-> [【Recommended by Travelers】A Guide to Over 20 Types of Bali Souvenirs in Six Categories: Perfect Choices to Cherish Your Memories](/blog/bali-souvenirs-gift-guide/)
+> [【Recommended by Travelers】A Guide to Over 20 Types of Bali Souvenirs in Six Categories: Perfect Choices to Cherish Your Memories](/en/blog/bali-souvenirs-gift-guide/)
 
 ## Luwak Coffee
 
@@ -98,13 +98,13 @@ Although the zoo entrance fee was a bit steep—over NT$1,000 (about USD$32) per
 
 Beachfront dining in Jimbaran is generally pricey, but our guide recommended Menega Cafe, which offered more reasonable prices. Although the sky was cloudy that day and we missed the sunset, sharing a meal abroad with three generations of our family made it a precious moment we truly treasured.
 
-> [10 Best Seafood Restaurants in Jimbaran, Bali: A No-Fail Guide](/blog/jimbaran-seafood-restaurants-list/)
+> [10 Best Seafood Restaurants in Jimbaran, Bali: A No-Fail Guide](/en/blog/jimbaran-seafood-restaurants-list/)
 
 ## Souvenir Shopping
 
 For souvenirs, we chose Krisna. Their peanuts and dried fruit were both tasty and cheap—we couldn't resist buying extra to bring home.
 
-> [【Recommended by Travelers】6 Categories, Over 20 Bali Souvenir Gift Ideas: Perfect for Cherishing Memories](/blog/bali-souvenirs-gift-guide/)
+> [【Recommended by Travelers】6 Categories, Over 20 Bali Souvenir Gift Ideas: Perfect for Cherishing Memories](/en/blog/bali-souvenirs-gift-guide/)
 
 ## Nightlife Experience
 
@@ -122,7 +122,7 @@ We also joined a rafting activity in Bali. Although the price was on the higher 
 
 To see manta rays at Nusa Penida, it's best to stay overnight on the island the day before. If you're staying elsewhere, like Kuta, you'll need to wake up as early as 5 AM. Since we didn't want to get up that early, we ended up skipping this activity.
 
-> [【Bali - Nusa Penida Complete Guide】Maps, Ferries, Accommodation, Transportation, Private Drivers, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
+> [【Bali - Nusa Penida Complete Guide】Maps, Ferries, Accommodation, Transportation, Private Drivers, Activities, Photography, Attractions](/en/blog/nusa-penida-guide/)
 
 {{block:戶外}}
 
@@ -136,7 +136,7 @@ In Bali, every household has its own temple, and the walls are adorned with many
 
 For those who love ocean views, beaches, and rice terrace scenery, Bali is a place you'll want to visit again and again. On my next trip, I plan to explore the local markets and experience the daily life of the locals. The basic monthly wage here is around USD$180 (as of 2024), and living that way would surely offer a different perspective. Through the local way of life, we might gain a deeper appreciation for the spirituality of this beautiful land. We are very grateful to our two guides, Mr. Fovix and Mr. Liega, who gave us invaluable advice. Mr. Fovix is attentive and speaks fluent English, while Mr. Liega is honest and has good English skills. They took us to many spots frequented by local tourists, helping us save a lot of money. Every time we ate, we invited them to join us, but they always politely declined or ordered something simple. We truly appreciate their thoughtful care, which left us with perfect memories.
 
-> [Bali's Largest Night Market Food Experience: Exploring Kreneng Night Market's Authentic Delicacies with a Local Chinese-Speaking Guide](/blog/kreneng-night-market-food-tour/)
+> [Bali's Largest Night Market Food Experience: Exploring Kreneng Night Market's Authentic Delicacies with a Local Chinese-Speaking Guide](/en/blog/kreneng-night-market-food-tour/)
 
 ## Guide Information:
 

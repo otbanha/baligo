@@ -85,7 +85,7 @@ https://youtu.be/FphhiUzB7gM
 
 Sebagai pasar malam terbesar di Bali, Pasar Kreneng adalah tempat yang wajib dikunjungi buat ngerasain kehidupan malam lokal. Di sini ada banyak banget lapak jajanan, mulai dari masakan tradisional Bali sampai hidangan khas dari berbagai daerah di Indonesia. Suasana pasar malam yang rame dan pilihan makanan yang melimpah bikin traveler bisa ngerasain pesona malam Bali secara maksimal.
 
->>[Pengalaman Kuliner di Pasar Malam Terbesar Bali: Ikut Pemandu Wisata Lokal Berbahasa Mandarin Menyusuri Kelezatan Otentik di Pasar Kreneng](/blog/2025-06-05-684118d7fd897800017b1abb/)
+>>[Pengalaman Kuliner di Pasar Malam Terbesar Bali: Ikut Pemandu Wisata Lokal Berbahasa Mandarin Menyusuri Kelezatan Otentik di Pasar Kreneng](/id/blog/2025-06-05-684118d7fd897800017b1abb/)
 
 ### Pura Taman Ayun: Tempat Suci yang Damai di Bali
 

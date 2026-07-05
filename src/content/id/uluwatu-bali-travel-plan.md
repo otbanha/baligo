@@ -64,9 +64,9 @@ Video ini dengan jelas nunjukin betapa kayanya destinasi wisata di area Uluwatu,
 
 ![烏魯瓦圖攻略有更全面的介紹](https://images.gobaligo.id/vocus/vocus_21777e6a472d74c62c56833f409a2864.jpg)
 
-[Panduan Lengkap Uluwatu](/blog/uluwatu-guide/)
+[Panduan Lengkap Uluwatu](/id/blog/uluwatu-guide/)
 
-Info lain yang nggak disebut di video, kayak 'Tanah Barak Cliff' jalur biru, 11 klub pantai di Uluwatu, 16 rekomendasi restoran, dua restoran ramah anak, empat tempat belanja... dan lainnya, bisa cek di panduan kami: '[【Panduan Uluwatu】50 Rekomendasi Wisata & Kuliner di Uluwatu](/blog/uluwatu-guide/)'
+Info lain yang nggak disebut di video, kayak 'Tanah Barak Cliff' jalur biru, 11 klub pantai di Uluwatu, 16 rekomendasi restoran, dua restoran ramah anak, empat tempat belanja... dan lainnya, bisa cek di panduan kami: '[【Panduan Uluwatu】50 Rekomendasi Wisata & Kuliner di Uluwatu](/id/blog/uluwatu-guide/)'
 
 ![](https://res.cloudinary.com/dksxqobud/image/upload/v1774107631/pandawa3_jbnbjf.jpg)
 

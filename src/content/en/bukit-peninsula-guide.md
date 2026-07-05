@@ -48,7 +48,7 @@ If you're planning a trip to Bukit Peninsula, here are some recommended itinerar
 1. **Relax in Jimbaran**: Upon arriving in Jimbaran, check into a beachfront resort and spend the day enjoying the sun and waves at Jimbaran Beach. In the evening, savor fresh local seafood at a candlelit dinner on the beach while watching the stunning sunset.
 2. **Explore Local Culture**: Visit Jimbaran Fish Market to experience the lives of local fishermen, then head to Garuda Wisnu Kencana Cultural Park (GWK) to admire the towering Garuda statue and explore the cultural exhibits.
 3. **Experience Uluwatu's Beauty & Surfing Vibes**: Start your morning with surfing lessons at Uluwatu Beach, visit Uluwatu Temple, and enjoy a sunset dinner at a cliffside restaurant.
-4. **Discover Hidden Beaches**: Uluwatu's secret beaches are perfect for an afternoon retreat. For more details, check out [Bali's Six Hidden Beaches](/blog/bali-hidden-beaches-guide/).
+4. **Discover Hidden Beaches**: Uluwatu's secret beaches are perfect for an afternoon retreat. For more details, check out [Bali's Six Hidden Beaches](/en/blog/bali-hidden-beaches-guide/).
 5. **Outdoor Activities & Paragliding**: Pandawa Beach is a hidden gem where you can also try paragliding for a bird's-eye view of Bukit Peninsula's magnificent landscape.
 
 Whether you're an adrenaline-seeking surfer or a traveler in search of peaceful relaxation, the Bukit Peninsula offers unforgettable experiences for every visitor. Here, stunning landscapes and rich culture blend seamlessly, from luxurious resorts to local temples, all leaving a lasting impression.
@@ -67,13 +67,13 @@ Jimbaran boasts one of Bali's most enchanting beaches, offering not only the per
 
 https://youtube.com/shorts/tHRxnJqxqbw
 
-Ayana Resort is a renowned luxury resort in Bali, featuring breathtaking cliffside views and elegant accommodations. The Rock Bar within the resort is a major highlight, perched on the edge of a cliff overlooking the Indian Ocean. Enjoying sunset views and signature cocktails here is an unmissable experience. Check out our [Complete Guide to Ayana Resort](/blog/ayana-resort-bali-guide/)
+Ayana Resort is a renowned luxury resort in Bali, featuring breathtaking cliffside views and elegant accommodations. The Rock Bar within the resort is a major highlight, perched on the edge of a cliff overlooking the Indian Ocean. Enjoying sunset views and signature cocktails here is an unmissable experience. Check out our [Complete Guide to Ayana Resort](/en/blog/ayana-resort-bali-guide/)
 
 ### **Sunset Candlelight Dinner at Jimbaran Beach**
 
 Jimbaran Beach is famous for its seafood candlelight dinners, with tables lined along the sand allowing visitors to savor fresh grilled fish, prawns, and other delicacies under a romantic sunset. Accompanied by the sound of waves and the glow of the setting sun, the atmosphere here is perfect for couples or families to enjoy an unforgettable meal together.
 
-> [Top 11 Seafood Restaurants in Jimbaran, Bali: A Must-Try Guide](/blog/jimbaran-seafood-restaurants-list/)
+> [Top 11 Seafood Restaurants in Jimbaran, Bali: A Must-Try Guide](/en/blog/jimbaran-seafood-restaurants-list/)
 
 ### **Garuda Wisnu Kencana Cultural Park (GWK)**
 
@@ -85,9 +85,9 @@ Jimbaran is the perfect blend of luxury resort experiences, romantic dining, and
 
 ### More Jimbaran attractions and accommodation recommendations:
 
-> [Jimbaran, Bali Travel Guide: 30 Must-Visit Spots for 2025](/blog/jimbaran-guide/)
+> [Jimbaran, Bali Travel Guide: 30 Must-Visit Spots for 2025](/en/blog/jimbaran-guide/)
 
-> [Bali Accommodation Guide: Stunning Ocean View Stays in Jimbaran](/blog/2023-11-09-654c6271fd8978000174ff5e/)
+> [Bali Accommodation Guide: Stunning Ocean View Stays in Jimbaran](/en/blog/2023-11-09-654c6271fd8978000174ff5e/)
 
 ***
 
@@ -111,9 +111,9 @@ Uluwatu, with its breathtaking natural scenery and rich cultural activities, att
 
 ### For more Uluwatu attractions and accommodation recommendations, see:
 
->[【Uluwatu Guide】Uluwatu Attractions & Recommendations for Food, Fun, and More】](/blog/uluwatu-guide/)
+>[【Uluwatu Guide】Uluwatu Attractions & Recommendations for Food, Fun, and More】](/en/blog/uluwatu-guide/)
 
->【[Uluwatu Accommodation Recommendations: 12 Private Villas & Resorts with Stunning Ocean Views](/blog/uluwatu-bali-villas-resorts-guide/)】
+>【[Uluwatu Accommodation Recommendations: 12 Private Villas & Resorts with Stunning Ocean Views](/en/blog/uluwatu-bali-villas-resorts-guide/)】
 
 ***
 
@@ -143,9 +143,9 @@ Nusa Dua’s upscale restaurants offer a diverse range of culinary options, incl
 
 For more attractions and accommodation recommendations in Nusa Dua, check out:
 
-[Nusa Dua/Tanjung Benoa: The Ultimate Guide to Luxury Resorts, Dining, and Activities in Bali's Premier Destination](/blog/nusa-dua-guide/)
+[Nusa Dua/Tanjung Benoa: The Ultimate Guide to Luxury Resorts, Dining, and Activities in Bali's Premier Destination](/en/blog/nusa-dua-guide/)
 
-[Bali Nusa Dua: 16 Top-Rated 5-Star Resorts You Must Stay At](/blog/nusa-dua-resorts-guide/)
+[Bali Nusa Dua: 16 Top-Rated 5-Star Resorts You Must Stay At](/en/blog/nusa-dua-resorts-guide/)
 
 {{block:住宿}}
 
@@ -169,7 +169,7 @@ Uluwatu is renowned for its world-class surfing beaches. If you're into surfing,
 
 For lunch, visit a nearby café or seaside restaurant to savor fresh local seafood. Take this time to unwind and recharge for the rest of your adventure.
 
-For a detailed guide on Suluban Beach featured in the video above, check out [here](/blog/suluban-beach-hidden-gem/)
+For a detailed guide on Suluban Beach featured in the video above, check out [here](/en/blog/suluban-beach-hidden-gem/)
 
 ### **Afternoon: Relaxing SPA and Beach Club Experience**
 
@@ -186,7 +186,7 @@ Famous beach clubs in Uluwatu:
 
 > Some offers from Klook:
 
-> [Explore Oneeighty Day Club: Ultimate Cliffside Pool Views in Bali](/blog/oneeighty-dayclub-uluwatu-pool/)
+> [Explore Oneeighty Day Club: Ultimate Cliffside Pool Views in Bali](/en/blog/oneeighty-dayclub-uluwatu-pool/)
 > [Beach Cinema at Sundays Beach Club](https://affiliate.klook.com/redirect?aid=116349&aff_adid=824250&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87420-movies-beach-sundays-beach-club-ticket-south-kuta-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Df4560cf9b5)
 > [White Rock Beach Club Day Pass](https://affiliate.klook.com/redirect?aid=116349&aff_adid=824250&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F83057-white-rock-beach-club-day-pass-ungasan-south-kuta-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Df61191150c)
 > [TT Beach Club Pass](https://affiliate.klook.com/redirect?aid=116349&aff_adid=824250&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F75203-tt-beach-club-pass-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6e40188c16)
@@ -196,7 +196,7 @@ Famous beach clubs in Uluwatu:
 
 At sunset at Uluwatu Temple, you can watch the famous **Kecak Fire Dance** performance. This traditional dance combines dance, music, and drama, narrating the ancient Indian epic, the Ramayana. Under the glow of the setting sun, the dancers' performance appears even more spectacular and mystical.
 
-For those interested in learning more about this renowned Hindu performance, you can [click here](/blog/kecak-fire-dance-bali/) for a detailed introduction we've previously provided. It's a spectacular show that almost everyone who has seen it agrees is worth every penny!
+For those interested in learning more about this renowned Hindu performance, you can [click here](/en/blog/kecak-fire-dance-bali/) for a detailed introduction we've previously provided. It's a spectacular show that almost everyone who has seen it agrees is worth every penny!
 
 For those interested in watching the fire dance performance, consider the highly-rated tours below on Klook. Booking through Klook ensures a seamless experience to enjoy this mesmerizing fire dance!
 
@@ -242,13 +242,13 @@ If you have time, head to Batu Barak, the current hotspot in Uluwatu, known as t
 
 ![Afternoon: Spa Relaxation](https://images.gobaligo.id/vocus/vocus_46d76bd229be43ff141a38c7465377ec.jpg)
 
-> [Latest Guide to Batu Barak Blue Road](/blog/pandawa-beach-traffic-policy/)
+> [Latest Guide to Batu Barak Blue Road](/en/blog/pandawa-beach-traffic-policy/)
 
 ### **Evening: Enjoy a Seafood Lunch at Jimbaran Beach**
 
 When in Jimbaran, don't miss the chance to enjoy a romantic dinner on the beach at sunset. As the sun slowly dips below the horizon, you can savor a candlelit seafood dinner at one of the beachfront restaurants, indulging in the freshest local lobster, fish, and shellfish. Accompanied by the sound of waves and the stunning sunset, this will be one of your most unforgettable dinners in Bali.
 
-To enjoy great food and scenery without any pitfalls or overcharging, check out our '[11 Jimbaran Seafood Restaurants: Reliable Recommendations](/blog/jimbaran-seafood-restaurants-list/)'
+To enjoy great food and scenery without any pitfalls or overcharging, check out our '[11 Jimbaran Seafood Restaurants: Reliable Recommendations](/en/blog/jimbaran-seafood-restaurants-list/)'
 
 {{block:klook}}
 

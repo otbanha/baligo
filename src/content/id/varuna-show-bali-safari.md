@@ -83,7 +83,7 @@ Setelah nonton Varuna Show, kami juga nyobain fasilitas yang termasuk dalam pake
 
 > ▶ Beli [Paket Day Varuna Premium](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)
 
-**Referensi Cepat:** [【Tempat Wisata Keluarga di Bali: Marine Safari Park】Marine Safari Bali – Panduan Lengkap Taman Safari Laut Bali](/blog/marine-safari-bali-guide/)
+**Referensi Cepat:** [【Tempat Wisata Keluarga di Bali: Marine Safari Park】Marine Safari Bali – Panduan Lengkap Taman Safari Laut Bali](/id/blog/marine-safari-bali-guide/)
 
 ## 💡 Tips Praktis
 

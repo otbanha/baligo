@@ -24,7 +24,7 @@ Saat merencanakan liburan budget minim ke Bali, kamu harus pertimbangkan beberap
 
 - **Tiket pesawat**: Paling hemat kalau pesan dari jauh-jauh hari dan fleksibel soal tanggal.
 - **Akomodasi**: Harga kamar paling murah di musim sepi, yaitu Januari–Mei dan September–awal Desember.
-  (Kecuali libur panjang Imlek, lihat [di sini](/blog/bali-peak-season-travel-tips/))
+  (Kecuali libur panjang Imlek, lihat [di sini](/id/blog/bali-peak-season-travel-tips/))
 - **Transportasi**: Sewa motor paling irit, atau pertimbangkan sewa mobil plus sopir, cocok buat rombongan.
 - **Makanan**: Warung lokal dan kaki lima paling worth it.
 - **Aktivitas**: Pesan online untuk aktivitas air atau SPA, biasanya ada paket diskon.
@@ -104,18 +104,18 @@ Hujan di Bali biasanya nggak sampai sejam
 
 **Referensi Cepat:**
 
-- [Panduan Sewa Mobil di Bali - Biaya, Cara Pesan, Kelebihan](/blog/bali-private-car-hire-guide/)
-- [Rekomendasi Sopir Sewa Mobil di Bali - Lihat Review Asli untuk Sopir Terbaik](/blog/bali-private-car-drivers-guide/)
-- [Sampai di Bali: Pilihan Transportasi dari Bandara & Tips Hari Pertama](/blog/bali-airport-transfer-guide/)
-- [Sopir/Pemandu Wisata Berbahasa Mandarin / Paket Sewa Mobil dengan Pemandu di Bali](/blog/bali-chinese-tour-guide/)
-- [Panduan Sewa Motor di Bali! Lebih Baik Sewa Motor atau Sewa Mobil?](/blog/bali-motorbike-rental-guide/)
-- [Panduan Sewa Motor di Bali: Harga, Keamanan, Tips Penting](/blog/bali-motorbike-rental-tips/)
-- [Kapan Sewa Mobil? Kapan Panggil Taksi? Sewa Mobil vs. Panggil Taksi: Cara Pilih yang Tepat untuk Perjalananmu](/blog/bali-transportation-guide-car-rental/)
-- [Aplikasi Wajib di Indonesia/Bali: Panduan Lengkap Gojek](/blog/gojek-bali-guide/)
-- [Cara Pakai Gojek?](/blog/gojek-bali-guide/)
-- [Panduan Lengkap Daftar, Pakai, Isi Saldo Gojek & GoPay di Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
-- [Trik Sopir Gojek/Grab di Bali: Cara Hindari Penipuan](/blog/bali-grab-gojek-scam-tips/)
-- [Panduan Transportasi di Nusa Penida: Taksi, Gojek/Grab, Sewa Mobil, Motor](/blog/nusa-penida-transport-guide/)
+- [Panduan Sewa Mobil di Bali - Biaya, Cara Pesan, Kelebihan](/id/blog/bali-private-car-hire-guide/)
+- [Rekomendasi Sopir Sewa Mobil di Bali - Lihat Review Asli untuk Sopir Terbaik](/id/blog/bali-private-car-drivers-guide/)
+- [Sampai di Bali: Pilihan Transportasi dari Bandara & Tips Hari Pertama](/id/blog/bali-airport-transfer-guide/)
+- [Sopir/Pemandu Wisata Berbahasa Mandarin / Paket Sewa Mobil dengan Pemandu di Bali](/id/blog/bali-chinese-tour-guide/)
+- [Panduan Sewa Motor di Bali! Lebih Baik Sewa Motor atau Sewa Mobil?](/id/blog/bali-motorbike-rental-guide/)
+- [Panduan Sewa Motor di Bali: Harga, Keamanan, Tips Penting](/id/blog/bali-motorbike-rental-tips/)
+- [Kapan Sewa Mobil? Kapan Panggil Taksi? Sewa Mobil vs. Panggil Taksi: Cara Pilih yang Tepat untuk Perjalananmu](/id/blog/bali-transportation-guide-car-rental/)
+- [Aplikasi Wajib di Indonesia/Bali: Panduan Lengkap Gojek](/id/blog/gojek-bali-guide/)
+- [Cara Pakai Gojek?](/id/blog/gojek-bali-guide/)
+- [Panduan Lengkap Daftar, Pakai, Isi Saldo Gojek & GoPay di Indonesia/Bali](/id/blog/indonesia-gojek-gopay-guide/)
+- [Trik Sopir Gojek/Grab di Bali: Cara Hindari Penipuan](/id/blog/bali-grab-gojek-scam-tips/)
+- [Panduan Transportasi di Nusa Penida: Taksi, Gojek/Grab, Sewa Mobil, Motor](/id/blog/nusa-penida-transport-guide/)
 
 ***
 
@@ -137,7 +137,7 @@ Saat itu pulau penuh dengan parade, musik, tarian—gratis banget, bisa rasain b
 ![Acara Budaya & Pengalaman Gratis di Bali](https://images.gobaligo.id/vocus/vocus_af2a6c5d08ffe04b97f754a61f9d1e32.jpg)
 
 **Referensi Cepat:**
-[Festival Tradisional Bali: Panduan Hari Raya Keagamaan Bali 2025/2026](/blog/bali-religious-festivals-guide/)
+[Festival Tradisional Bali: Panduan Hari Raya Keagamaan Bali 2025/2026](/id/blog/bali-religious-festivals-guide/)
 
 ***
 

@@ -27,10 +27,10 @@ Bali emang jadi destinasi favorit liburan keluarga, dan Ubud adalah salah satu a
 
 ### Empat Area Rekomendasi Liburan Keluarga
 
-- [Episode 1: Seminyak](/blog/seminyak-family-travel-2026/)
+- [Episode 1: Seminyak](/id/blog/seminyak-family-travel-2026/)
 - Episode 2: Ubud (artikel ini)
-- [Episode 3: Sanur](/blog/sanur-family-travel-guide-2/)
-- [Episode 4: Nusa Dua](/blog/2026-04-02-112654/)
+- [Episode 3: Sanur](/id/blog/sanur-family-travel-guide-2/)
+- [Episode 4: Nusa Dua](/id/blog/2026-04-02-112654/)
 
 ***
 
@@ -47,7 +47,7 @@ Ubud terletak di pedalaman Bali, udaranya lebih sejuk daripada pantai. Tapi pas 
 - Payung/jas hujan (biar nggak takut gerimis)
 - Lotion anti nyamuk (musim hujan banyak nyamuk)
 
-Kalau rencananya mau ke daerah pegunungan sekitar (misal Gunung Batur, Kintamani), suhu pagi-malam cukup dingin — siapkan jaket tipis atau baju hangat. Yang butuh referensi, cek [Panduan Trekking Sunrise Gunung Batur](/blog/batur-sunrise-hiking-guide/)
+Kalau rencananya mau ke daerah pegunungan sekitar (misal Gunung Batur, Kintamani), suhu pagi-malam cukup dingin — siapkan jaket tipis atau baju hangat. Yang butuh referensi, cek [Panduan Trekking Sunrise Gunung Batur](/id/blog/batur-sunrise-hiking-guide/)
 
 ![1. Cuaca & Pakaian](https://images.gobaligo.id/vocus/vocus_351c6775dde8c47b62b05190d216ba54.png)
 
@@ -57,7 +57,7 @@ Kalau rencananya mau ke daerah pegunungan sekitar (misal Gunung Batur, Kintamani
 
 - **Anti nyamuk**: Lingkungan alami Ubud banyak nyamuknya, saran pakai lotion anti nyamuk yang dibeli di lokal, dan pilih penginapan yang ada kelambu.
 - **Air minum**: Hindari minum air keran langsung, saran beli air kemasan atau pakai air yang sudah direbus.
-- **Persiapan medis**: Siapkan obat-obatan umum kayak obat demam, obat diare, obat mabuk perjalanan, plester luka, dll. Cek: [Daftar obat wajib & cara beli lotion anti nyamuk/sunscreen di Bali](/blog/bali-travel-medicine-checklist/) Ada klinik di pusat Ubud, tapi kalau parah saran ke rumah sakit internasional di selatan Bali.
+- **Persiapan medis**: Siapkan obat-obatan umum kayak obat demam, obat diare, obat mabuk perjalanan, plester luka, dll. Cek: [Daftar obat wajib & cara beli lotion anti nyamuk/sunscreen di Bali](/id/blog/bali-travel-medicine-checklist/) Ada klinik di pusat Ubud, tapi kalau parah saran ke rumah sakit internasional di selatan Bali.
 
 ***
 
@@ -67,8 +67,8 @@ Transportasi di Ubud mostly pakai mobil sewaan, saran booking jasa sewa mobil ya
 
 **Referensi Cepat:**
 
-- [Panduan Lengkap Sewa Mobil di Bali - Biaya, Cara Booking, Kelebihan](/blog/bali-private-car-hire-guide/)
-- [Rekomendasi 500 Tempat Wisata Bali Terbaru 2025](/blog/bali-top-500-attractions/)
+- [Panduan Lengkap Sewa Mobil di Bali - Biaya, Cara Booking, Kelebihan](/id/blog/bali-private-car-hire-guide/)
+- [Rekomendasi 500 Tempat Wisata Bali Terbaru 2025](/id/blog/bali-top-500-attractions/)
 
 ![3. Transportasi & Mobilitas](https://images.gobaligo.id/vocus/vocus_42e21a087b9c9ec368e4430460776e17.png)
 
@@ -84,7 +84,7 @@ Restoran di Ubud variatif banget, dari makanan lokal sampai internasional semua 
 
 **Referensi Cepat:**
 
-- [10 Makanan Terbaik di Bali](/blog/bali-travel-tips/)
+- [10 Makanan Terbaik di Bali](/id/blog/bali-travel-tips/)
 
 ***
 
@@ -98,8 +98,8 @@ Ubud adalah pusat budaya Bali, penduduk setempat sangat menjunjung tinggi tradis
 
 **Referensi Cepat:**
 
-- [Ternyata "Gerbang Baik-Jahat" itu terjemahan salah!? Makna dan Nama yang Benar dari Candi Bentar](/blog/candi-bentar-balinese-gate-history/)
-- [Tradisi Sembahyang di Bali: Canang Sari](/blog/bali-canang-sari-explained/)
+- [Ternyata "Gerbang Baik-Jahat" itu terjemahan salah!? Makna dan Nama yang Benar dari Candi Bentar](/id/blog/candi-bentar-balinese-gate-history/)
+- [Tradisi Sembahyang di Bali: Canang Sari](/id/blog/bali-canang-sari-explained/)
 
 ***
 
@@ -109,9 +109,9 @@ Bali adalah pilihan liburan keluarga yang super, dan kami rekomendasikan banget 
 
 ### Rekomendasi Kawasan Liburan Keluarga Liburan Sekolah/ Liburan Panas & Dingin
 
-- [Episode 1: Seminyak](/blog/seminyak-family-travel-2026/)
-- [Episode 2: Ubud](/blog/ubud-family-travel-2026/)
-- [Episode 3: Sanur](/blog/sanur-family-travel-guide-2/)
+- [Episode 1: Seminyak](/id/blog/seminyak-family-travel-2026/)
+- [Episode 2: Ubud](/id/blog/ubud-family-travel-2026/)
+- [Episode 3: Sanur](/id/blog/sanur-family-travel-guide-2/)
 
 ***
 
@@ -133,7 +133,7 @@ Ubud adalah pusat budaya dan alam Bali, punya banyak pilihan aktivitas keluarga,
 
 1. - Sawah terasering adalah destinasi sawah paling terkenal di Ubud, cocok untuk jalan-jalan sekeluarga, menikmati pemandangan sawah yang spektakuler, dan bisa juga mencoba ayunan sawah.
 
-- [Panduan Mengunjungi Dua Kawasan Sawah Terasering di Ubud](/blog/bali-rice-terraces-comparison/)
+- [Panduan Mengunjungi Dua Kawasan Sawah Terasering di Ubud](/id/blog/bali-rice-terraces-comparison/)
 
 ### **3. Bali Safari Park**
 
@@ -143,7 +143,7 @@ Ubud adalah pusat budaya dan alam Bali, punya banyak pilihan aktivitas keluarga,
 
 - [Diskon Tiket Safari Park](https://affiliate.klook.com/redirect?aid=116349&aff_adid=999461&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F170-bali-safari-and-marine-park-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D25bbba1e97)
 - [Menginap di Safari Park](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685834&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_C8XvDnkesQoxGBlu4LbZnORqDwMdeB883gTvkWpsmOQTwREw58Hwae6It1_XFBfsDHQoZwEDLoYuRFSwzg7HrneYKRsaNjP2HvmrE-Oc47GBkOsDIdIKxUXsB0539ExROsTBzzOG4xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsUyMzPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebdhPncnNqu9yAGJcb18Y-YmGKjv3EwvCLhYnDuomVoYuVmeMU0yQg2ai9i5XD38MpMCxI1_ACa5uelLyhgYGBqaGxqamuQaKlhbGpibmuiaWJkZmZrrGJsYmpRsP-vReeGBtZS0EiX4FRSzA-xNPTxbCkMNWssNQyp6jA1IDxFKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbpZujuYVjlA0Xs6dLkOAHvefb260t7aWYQ8JdFD8sP-Zt3nnaXgskZwiTC9zzOueEvfEC-0iYfBJrVYZuSHjGcbECxgZGpi5GbgFGD8YIxgogj3EVI8MGRsYdjP9hgPEVI8h0AAcWO6P7AgAA&masterhotelid_tracelogid=100051355-0a983547-494266-34345&detailFilters=17|1~17~1*31|685834~31~685834*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1440&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/PbKYpC56)
-- [Panduan Mengunjungi Bali Safari Park](/blog/bali-safari-night-stay/)
+- [Panduan Mengunjungi Bali Safari Park](/id/blog/bali-safari-night-stay/)
 
 ### **4. Bali Marine Park**
 
@@ -153,7 +153,7 @@ Ubud adalah pusat budaya dan alam Bali, punya banyak pilihan aktivitas keluarga,
 
 - [Harga Spesial](https://affiliate.klook.com/redirect?aid=116349&aff_adid=986936&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D242e58b391)
 - 「[Wildlife & Marine 3-Day Pass](https://affiliate.klook.com/redirect?aid=116349&aff_adid=986936&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D242e58b391)」, bebas keluar-masuk area satwa darat di Bali Safari & Marine Park dan area satwa laut di Bali Marine Safari selama tiga hari. Harga tiketnya worth it banget!
-- [Panduan Lengkap Marine Safari Bali](/blog/marine-safari-bali-guide/)
+- [Panduan Lengkap Marine Safari Bali](/id/blog/marine-safari-bali-guide/)
 
 ### **5. Workshop Kerajinan Tangan**
 
@@ -185,7 +185,7 @@ Ubud adalah pusat budaya dan alam Bali, punya banyak pilihan aktivitas keluarga,
 ![8. Jungle Cart Ubud (Jungle Cart)](https://images.gobaligo.id/vocus/vocus_895ae420ddaa68109e64502fe66fa68e.jpg)
 
 1. - Ini adalah aktivitas yang menggabungkan sliding car dan petualangan alam, cocok untuk seluruh keluarga. Kamu bisa melintasi hutan dan pedesaan, merasakan kecepatan dan adrenalin.
-2. - [Jungle Cart Ubud Bali](/blog/ubud-jungle-cart-adventure/) — info lengkap & link pendaftaran
+2. - [Jungle Cart Ubud Bali](/id/blog/ubud-jungle-cart-adventure/) — info lengkap & link pendaftaran
 
 https://youtube.com/shorts/v7NAvCARzKY
 
@@ -201,8 +201,8 @@ https://youtube.com/shorts/v7NAvCARzKY
 
 1. - Di sekitar Ubud banyak jalur trekking ramah anak, seperti Campuhan Ridge Walk atau eksplorasi air terjun. Cocok buat anak-anak yang suka alam dan petualangan seru.
 
-- [Campuhan Ridge Walk Ubud](/blog/ubud-campuhan-ridge-walk/)
-- [Panduan 3 Air Terjun Terkenal di Sekitar Ubud](/blog/ubud-waterfalls-guide/)
+- [Campuhan Ridge Walk Ubud](/id/blog/ubud-campuhan-ridge-walk/)
+- [Panduan 3 Air Terjun Terkenal di Sekitar Ubud](/id/blog/ubud-waterfalls-guide/)
 
 ### 11. Bali Exotic Marine Park — Destinasi Laut Wajib untuk Keluarga
 
@@ -234,7 +234,7 @@ Di Ubud, biar anak-anak tetap happy selama liburan, ini beberapa rekomendasi hot
 
 Resort ini punya Wolly Kids Club khusus untuk anak usia 4–12 tahun, dengan berbagai aktivitas dan mainan edukatif, jadi si kecil bisa bermain sepuasnya di bawah pengawasan staf profesional.
 
-> Info lengkap tentang Padma Resort Ubud bisa dilihat [di sini](/blog/bali-best-hotels-2024/)
+> Info lengkap tentang Padma Resort Ubud bisa dilihat [di sini](/id/blog/bali-best-hotels-2024/)
 
 ### **Maya Ubud Resort & Spa**
 
@@ -268,9 +268,9 @@ Resor mewah ini terletak di pinggiran Ubud, suasananya asri banget. Menyediakan 
 
 ![Lebih Banyak Rekomendasi Makan & Main di Ubud](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
-[Klik di sini untuk panduan lengkap Ubud!](/blog/ubud-guide/)
+[Klik di sini untuk panduan lengkap Ubud!](/id/blog/ubud-guide/)
 
-Ubud adalah pusat seni dan budaya Bali, dengan sawah bertingkat yang hijau, hutan yang tenang, dan tradisi yang kental, bikin siapa pun betah. Tempat ini cocok banget buat kamu yang mau rileks dan melepas penat. Mau eksplorasi tradisi lokal, nikmatin alam, atau coba aktivitas seru di luar ruangan yang unik perpaduan makanan + pemandangan, Ubud bakal kasih pengalaman yang beda! Mau tahu lebih banyak tips Ubud? [Klik di sini](/blog/ubud-guide/).
+Ubud adalah pusat seni dan budaya Bali, dengan sawah bertingkat yang hijau, hutan yang tenang, dan tradisi yang kental, bikin siapa pun betah. Tempat ini cocok banget buat kamu yang mau rileks dan melepas penat. Mau eksplorasi tradisi lokal, nikmatin alam, atau coba aktivitas seru di luar ruangan yang unik perpaduan makanan + pemandangan, Ubud bakal kasih pengalaman yang beda! Mau tahu lebih banyak tips Ubud? [Klik di sini](/id/blog/ubud-guide/).
 
 ***
 
@@ -280,10 +280,10 @@ Ubud adalah pusat seni dan budaya Bali, dengan sawah bertingkat yang hijau, huta
 
 ### Empat Area Rekomendasi Liburan Keluarga (Liburan Sekolah)
 
-- [Episode 1: Seminyak](/blog/seminyak-family-travel-2026/)
-- [Episode 2: Ubud](/blog/ubud-family-travel-2026/)
-- [Episode 3: Sanur](/blog/sanur-family-travel-guide-2/)
-- [Episode 4: Nusa Dua](/blog/2026-04-02-112654/)
+- [Episode 1: Seminyak](/id/blog/seminyak-family-travel-2026/)
+- [Episode 2: Ubud](/id/blog/ubud-family-travel-2026/)
+- [Episode 3: Sanur](/id/blog/sanur-family-travel-guide-2/)
+- [Episode 4: Nusa Dua](/id/blog/2026-04-02-112654/)
 
 ***
 
@@ -327,7 +327,7 @@ Di Ubud, banyak jalan yang nggak rata. Saran sih pakai gendongan atau stroller y
 
 **Ada rekomendasi resort keluarga di daerah lain juga?**
 
-Ada, cek aja [di sini](/blog/bali-family-resorts-kids-club/)
+Ada, cek aja [di sini](/id/blog/bali-family-resorts-kids-club/)
 
 {{block:攻略}}
 

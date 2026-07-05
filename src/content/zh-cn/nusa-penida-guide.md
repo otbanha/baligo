@@ -31,10 +31,10 @@ Nusa penida 是一个巴厘岛的离岸小岛，从巴厘岛本岛搭船约45分
 
 针对佩尼达岛我们共有五集介绍，一起来更深入认识这个海岛天堂！其他四集这里有传送门：
 
-1. [佩尼达岛美食和碧海蓝天：Nusa Penida的Top 9绝佳选择](/blog/nusa-penida-best-restaurants/)
-2. [Nusa Penida 努沙佩尼达岛的浮潜点介绍，如何参加浮潜？](/blog/nusa-penida-snorkeling-guide/)
-3. [佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/blog/nusa-penida-transport-guide/)
-4. [佩尼达岛的住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/blog/nusa-penida-hotels-guide/)
+1. [佩尼达岛美食和碧海蓝天：Nusa Penida的Top 9绝佳选择](/zh-cn/blog/nusa-penida-best-restaurants/)
+2. [Nusa Penida 努沙佩尼达岛的浮潜点介绍，如何参加浮潜？](/zh-cn/blog/nusa-penida-snorkeling-guide/)
+3. [佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/zh-cn/blog/nusa-penida-transport-guide/)
+4. [佩尼达岛的住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/zh-cn/blog/nusa-penida-hotels-guide/)
 
 ## 佩尼达岛热门景点
 
@@ -128,7 +128,7 @@ Nusa penida 是一个巴厘岛的离岸小岛，从巴厘岛本岛搭船约45分
 
 巴厘岛前往珀尼达岛的快艇船通常都有行李限制，最多携带两个行李箱，总重量为30公斤。但是，他们其实并不会称重您的行李。他们会将其放在甲板上，用大型防水布盖着以避免被溅湿。
 
-如果您想把大件行李寄存在巴厘岛本岛，可以参考：[【出发前往巴厘岛离岛】沙努尔行李寄存攻略](/blog/sanur-luggage-storage-guide/)
+如果您想把大件行李寄存在巴厘岛本岛，可以参考：[【出发前往巴厘岛离岛】沙努尔行李寄存攻略](/zh-cn/blog/sanur-luggage-storage-guide/)
 
 ## **住宿推荐**
 
@@ -164,7 +164,7 @@ Nusa penida 是一个巴厘岛的离岸小岛，从巴厘岛本岛搭船约45分
 
 3. 可携带大件行李，但最好尽量避免，在岛上携带非常不方便
 
-4. 寄存服务请[参考这里](/blog/sanur-luggage-storage-guide/)
+4. 寄存服务请[参考这里](/zh-cn/blog/sanur-luggage-storage-guide/)
 
 5. Klook购票者开船前提前至少30分钟抵达港口
 
@@ -191,10 +191,10 @@ Nusa penida 是一个巴厘岛的离岸小岛，从巴厘岛本岛搭船约45分
 
 ### 我们还介绍了九家拥有无边泳池、金黄沙滩、夕阳美景的Nusa Penida美食餐厅
 
-**▶努沙佩尼达岛攻略第二集：**[享受佩尼达岛的碧海蓝天美食，TOP 9绝佳选择](/blog/nusa-penida-best-restaurants/)
+**▶努沙佩尼达岛攻略第二集：**[享受佩尼达岛的碧海蓝天美食，TOP 9绝佳选择](/zh-cn/blog/nusa-penida-best-restaurants/)
 
 ![我们还介绍了九家拥有无边泳池、金黄沙滩、夕阳美景的Nusa Penida美食餐厅](https://images.gobaligo.id/vocus/vocus_22ae845281804118aa70b28861ed088e.jpg)
 
-**▶努沙佩尼达岛攻略第三集：**[努沙佩尼达四大潜点介绍/如何参加浮潜？](/blog/nusa-penida-snorkeling-guide/)
+**▶努沙佩尼达岛攻略第三集：**[努沙佩尼达四大潜点介绍/如何参加浮潜？](/zh-cn/blog/nusa-penida-snorkeling-guide/)
 
 ![我们还介绍了九家拥有无边泳池、金黄沙滩、夕阳美景的Nusa Penida美食餐厅](https://images.gobaligo.id/vocus/vocus_45dcf8200acb1b2e97b7e51cf764425f.jpg)

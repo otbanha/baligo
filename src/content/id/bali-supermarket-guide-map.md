@@ -69,7 +69,7 @@ Begitu masuk supermarket lantai satu, apa yang harus diborong? Berdasarkan video
 - **Sunscreen dan Aloe Vera Gel:** Aktivitas outdoor di Bali banyak banget, beli sunscreen di sini lebih murah daripada di Taiwan. Kalau sampai kebakar matahari, langsung beli **Aloe Vera Gel** buat meredakan rasa perih dengan cepat.
 - **Adaptor Eropa dan air minum kemasan:** Bali pakai colokan Eropa dua lubang bulat (220V), beli adaptor di supermarket murah banget, tinggal paduin sama kabel ekstensi yang kamu bawa sendiri udah cukup.
 
-👉 Referensi cepat: [Panduan Lengkap Tegangan/Colokan Listrik di Bali: Tips Cas Drone, Kamera DSLR, dan Laptop (Termasuk Cara Pilih Adaptor Universal)](/blog/bali-voltage-adapter-tips/)
+👉 Referensi cepat: [Panduan Lengkap Tegangan/Colokan Listrik di Bali: Tips Cas Drone, Kamera DSLR, dan Laptop (Termasuk Cara Pilih Adaptor Universal)](/id/blog/bali-voltage-adapter-tips/)
 
 - **Air keran lokal nggak bisa diminum langsung:** Beberapa hotel di pantai punya air tawar yang rasanya aneh, dan biasanya hotel cuma kasih dua botol kecil sehari. Saran, langsung borong air galon di supermarket, merek terpercaya: **Amidis, Cleo, Aqua**.
 

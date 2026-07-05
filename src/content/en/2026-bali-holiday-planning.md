@@ -51,7 +51,7 @@ _srcHash: a6c3912a0a2c581695ff284bc100d4c0
 
 - Focus on one or two Beach Clubs to relax and celebrate Labor Day with digital nomads from around the world (👙 Bali Popular Beach/Resort Passes ▶[Klook Discount](https://affiliate.klook.com/redirect?aid=116349&aff_adid=931561&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-resort-passes%2Fc8-cate161%2F)).
 - Ubud rafting, ATV (🚣 Bali Rafting Activities ▶[Klook Discount](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%25E6%25B3%259B%25E8%2588%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D8c8ac92422) / 🏎️ Bali ATV Activities ▶[Klook Discount](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%2520ATV%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D28594dcbf2))
-- A list of 50 outdoor activities suitable for you is available [here](/blog/bali-top-50-outdoor-activities/)
+- A list of 50 outdoor activities suitable for you is available [here](/en/blog/bali-top-50-outdoor-activities/)
 
 {{block:klook}}
 
@@ -76,7 +76,7 @@ Uluwatu Guide: [50 Attractions Introduction](https://s.id/uluwatu_guide)
 
 ![Recommended Itinerary](https://images.gobaligo.id/vocus/vocus_4b32bc60b0a1fe9787825097f68cb2e8.jpg)
 
-June is the perfect time for water activities! That's when our guide comes in handy: [Complete Guide to Water Activities in Bali | Bali is More Than Just Snorkeling! 15 Unexpected Water Adventures](/blog/2026-bali-water-activities/)
+June is the perfect time for water activities! That's when our guide comes in handy: [Complete Guide to Water Activities in Bali | Bali is More Than Just Snorkeling! 15 Unexpected Water Adventures](/en/blog/2026-bali-water-activities/)
 
 {{block:戶外}}
 
@@ -84,7 +84,7 @@ June is the perfect time for water activities! That's when our guide comes in ha
 
 ### 💡 Budget Travel Tips
 
-- **Visa Reminder**: Before departure, make sure to apply online for Bali's **Electronic Visa on Arrival (e-VoA)** and the IDR 150,000 tourism tax. (Quick reference: [【2026 Edition】Indonesia Bali Arrival Guide: From Landing to Customs to Baggage Claim in 1 Minute](/blog/bali-all-indonesia-arrival-guide/))
+- **Visa Reminder**: Before departure, make sure to apply online for Bali's **Electronic Visa on Arrival (e-VoA)** and the IDR 150,000 tourism tax. (Quick reference: [【2026 Edition】Indonesia Bali Arrival Guide: From Landing to Customs to Baggage Claim in 1 Minute](/en/blog/bali-all-indonesia-arrival-guide/))
 - **Don’t Just Hire Any Driver**: Check out [this list of recommended drivers](https://s.id/bali_best_drivers) to avoid mistakes!
 - **Short-Distance Transportation Tip**: During holidays, popular spots like Ubud and Seminyak can get congested. For short distances, consider using Gojek/Grab to call a motorbike and save a lot of travel time.
 

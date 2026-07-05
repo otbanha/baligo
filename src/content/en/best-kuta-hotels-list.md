@@ -40,7 +40,7 @@ If your itinerary focuses on shopping, sightseeing, or using Kuta as a transit h
 
 This guide organizes 12 hotels into two categories: 10 **city-center** hotels and 2 **airport-proximate** hotels, allowing you to choose according to your travel needs.
 
-**PS. If you're looking for beachfront Kuta hotels? Check out [this link](/blog/kuta-beach-hotels/)**
+**PS. If you're looking for beachfront Kuta hotels? Check out [this link](/en/blog/kuta-beach-hotels/)**
 
 ***
 
@@ -502,7 +502,7 @@ If you just need a **reliable place to sleep**, The Vira Bali's value and Four P
 
 **For booking, it's recommended to compare prices on Agoda**. City hotels usually have smaller price increases during peak season compared to beachfront hotels, but popular boutique hotels like Amnaya and Poppies are equally in demand, so it's advisable to confirm your reservation early.
 
-> Looking for a hotel by Kuta Beach? Check out [here](/blog/kuta-beach-hotels/)
+> Looking for a hotel by Kuta Beach? Check out [here](/en/blog/kuta-beach-hotels/)
 
 {{block:kuta}}
 

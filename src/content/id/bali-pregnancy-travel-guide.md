@@ -47,9 +47,9 @@ Liburan ke Bali kali ini benar-benar pengalaman pertama yang seru! Makasih bange
 
 Persiapan ini keliatannya ribet, tapi bikin perjalanan makin lancar, jadi aku bisa nikmatin tiap momen di Bali!
 
-> Baca juga: [【2026版】Prosedur Masuk Bali Pakai Kartu Kedatangan 'All Indonesia'｜Pahami Langkah Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](https://gobaligo.id/blog/bali-all-indonesia-arrival-guide/)
+> Baca juga: [【2026版】Prosedur Masuk Bali Pakai Kartu Kedatangan 'All Indonesia'｜Pahami Langkah Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](https://gobaligo.id/id/blog/bali-all-indonesia-arrival-guide/)
 
-> Baca Juga: [Tips Liburan ke Bali: Panduan Pemula yang Wajib Dilihat](https://gobaligo.id/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
+> Baca Juga: [Tips Liburan ke Bali: Panduan Pemula yang Wajib Dilihat](https://gobaligo.id/id/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
 
 ***
 
@@ -130,7 +130,7 @@ Paket ini juga udah include makan siang, kita nikmatin masakan lokal di restoran
 
 Pemandangan Nusa Lembongan
 
-> Kamu masih penasaran apa aja sih yang seru di Nusa Lembongan? Ada spot menarik lainnya? Cek aja panduan kami: '[Panduan Wisata Nusa Lembongan & Ceningan](/blog/nusa-lembongan-ceningan-guide/)'
+> Kamu masih penasaran apa aja sih yang seru di Nusa Lembongan? Ada spot menarik lainnya? Cek aja panduan kami: '[Panduan Wisata Nusa Lembongan & Ceningan](/id/blog/nusa-lembongan-ceningan-guide/)'
 
 **Paket driver antar-jemput kembali ke hotel**
 Seharian main puas banget, driver sewaan di Bali datang tepat waktu jemput kita balik ke hotel. Pemandangan Nusa Lembongan bikin nagih, perjalanan ini benar-benar worth it.
@@ -160,7 +160,7 @@ Perjalanan Ubud kita mulai dengan arung jeram yang seru. Melewati hutan hujan tr
 
 Setelah arung jeram, mampir ke sebuah kafe hits yang terkenal. Keunikannya ada ayunan raksasa, jadi kita bisa sambil berayun sambil menikmati pemandangan sawah yang indah. Orang lokal di sini jago banget foto, suasananya bikin setiap jepretan terlihat seperti kartu pos — tempat wajib buat foto-foto dan check-in.
 
-> [【Panduan Ayunan Ubud】8 Rekomendasi Ayunan Hutan Terindah: Tips Sewa Gaun, Sudut Foto & Cara Hindari Keramaian](https://gobaligo.id/blog/ubud-jungle-swings-photo-guide/)
+> [【Panduan Ayunan Ubud】8 Rekomendasi Ayunan Hutan Terindah: Tips Sewa Gaun, Sudut Foto & Cara Hindari Keramaian](https://gobaligo.id/id/blog/ubud-jungle-swings-photo-guide/)
 
 ![Tebasari Resto, Bar & Lounge](https://images.gobaligo.id/vocus/vocus_de5feafe85fbc690903411bfb7bf280f.jpg)
 
@@ -172,14 +172,14 @@ Waktu makan siang, kita mampir ke restoran bebek goreng terkenal di Ubud. Hidang
 **Ubud Royal Palace**
 Setelah makan siang, kami mengunjungi Ubud Royal Palace yang bersejarah. Arsitektur istana ini sangat khas Bali, dengan ukiran yang detail dan ornamen rumit yang bikin kita takjub, bener-bener bisa merasakan budaya tradisional dan nuansa sejarah di sini.
 
-> [【Wajib Kunjungi di Ubud】Ubud Royal Palace: Permata Budaya dan Sejarah Bali | Jam Buka, Tiket, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Trip Sehari](https://gobaligo.id/blog/ubud-royal-palace-tour-guide/)
+> [【Wajib Kunjungi di Ubud】Ubud Royal Palace: Permata Budaya dan Sejarah Bali | Jam Buka, Tiket, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Trip Sehari](https://gobaligo.id/id/blog/ubud-royal-palace-tour-guide/)
 
 **Ubud Market**
 Selanjutnya, kami jalan-jalan di Ubud Market. Tempat ini penuh dengan berbagai kerajinan tangan, pakaian, dan suvenir. Suasananya ramai banget, dan kami juga beli beberapa oleh-oleh khas sebagai kenang-kenangan dari perjalanan ini.
 
 https://youtube.com/shorts/Oh-RNfjhQhM
 
-> Baca juga: [Panduan Lengkap 5 Pasar Seni Terbaik di Ubud: Belanja Souvenir/Oleh-Oleh, Cari Harta Karun Budaya Bali](/blog/ubud-art-markets-guide/)
+> Baca juga: [Panduan Lengkap 5 Pasar Seni Terbaik di Ubud: Belanja Souvenir/Oleh-Oleh, Cari Harta Karun Budaya Bali](/id/blog/ubud-art-markets-guide/)
 
 https://youtu.be/JtxZHtijEkE
 
@@ -207,7 +207,7 @@ Sore harinya, kami pergi ke salah satu ikon Bali — Pura Tanah Lot. Pura yang t
 
 ![Hari Keempat (Chill Seharian di Canggu):](https://images.gobaligo.id/vocus/vocus_c8901a744d0d658d299564b9ec2515af.jpg)
 
-> [Destinasi Wajib Kunjung di Bali: Panduan Lengkap Pura Tanah Lot, Pasang Surut & Tempat Wisata Sekitar](https://gobaligo.id/blog/bali-tanah-lot-guide/)
+> [Destinasi Wajib Kunjung di Bali: Panduan Lengkap Pura Tanah Lot, Pasang Surut & Tempat Wisata Sekitar](https://gobaligo.id/id/blog/bali-tanah-lot-guide/)
 
 **The Lawn Canggu Beach Club**
 Perhentian terakhir hari ini adalah beach club terkenal di Canggu — The Lawn. Di sini ada sinar matahari, pantai, makanan enak, plus para bikini cantik dan cowok ganteng. Kami menikmati sore yang santai, berendam di kolam renang, minum koktail dingin, sambil menunggu sunset Bali yang legendaris perlahan turun. Setelah malam tiba, pantai jadi terang benderang, suasananya nyaman dan romantis, bikin kami benar-benar rileks dan menikmati setiap momen liburan.
@@ -248,7 +248,7 @@ Setelah meninggalkan villa, kami sampai di bandara tiga jam lebih awal. Ini kebi
 5. **Rekomendasi Oleh-oleh: Kue Pisang BALI BANANA**
    Pas pulang, jangan lupa beli satu kotak kue pisang BALI BANANA. Ini oleh-oleh khas Bali, teksturnya lembut, manis dan enak, ada di bandara. Bisa cicip dulu pas datang, kalau suka beli banyak buat dibawa pulang. Mereka juga kasih layanan packing gratis, bikin belanja makin praktis.
 
-Baca juga: [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Panduan Oleh-Oleh Bali: Pilihan Terbaik untuk Mengenang Momen Berharga](/blog/bali-souvenirs-gift-guide/)
+Baca juga: [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Panduan Oleh-Oleh Bali: Pilihan Terbaik untuk Mengenang Momen Berharga](/id/blog/bali-souvenirs-gift-guide/)
 
 ***
 

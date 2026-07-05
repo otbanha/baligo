@@ -46,9 +46,9 @@ _srcHash: 90e1147bea467ba7218483d02935e815
 
 **六大中式廟宇介紹（請點呢度）**
 
-**（六大中式寺廟介紹**[**請點呢度**](/blog/bali-chinese-temples-guide/)**）**
+**（六大中式寺廟介紹**[**請點呢度**](/zh-hk/blog/bali-chinese-temples-guide/)**）**
 
-- [**穆麗雅酒店 (The Mulia)**](/blog/mulia-resort-bali-luxury/)：推出漢服拍照體驗同書法展演，等遊客可以著上傳統服飾喺充滿文化底蘊嘅園區內留影。
+- [**穆麗雅酒店 (The Mulia)**](/zh-hk/blog/mulia-resort-bali-luxury/)：推出漢服拍照體驗同書法展演，等遊客可以著上傳統服飾喺充滿文化底蘊嘅園區內留影。
 
 ## 🍴 精選新春饗宴 (開運年菜)
 
@@ -61,7 +61,7 @@ _srcHash: 90e1147bea467ba7218483d02935e815
 
 **SEMINYAK**
 
-- [**Hotel Indigo Bali Seminyak Beach**](/blog/hotel-indigo-seminyak-review/) **(Makase)**：2月16日晚間6點至10點舉辦「Oriental Feast」除夕自助晚餐（每人IDR 888,000++），提供現場燒烤海鮮、蒙古烤肉、點心及應節甜點，並有舞獅表演。
+- [**Hotel Indigo Bali Seminyak Beach**](/zh-hk/blog/hotel-indigo-seminyak-review/) **(Makase)**：2月16日晚間6點至10點舉辦「Oriental Feast」除夕自助晚餐（每人IDR 888,000++），提供現場燒烤海鮮、蒙古烤肉、點心及應節甜點，並有舞獅表演。
 
 **坎古**
 
@@ -69,7 +69,7 @@ _srcHash: 90e1147bea467ba7218483d02935e815
 
 **金巴蘭**
 
-- [**AYANA Bali**](/blog/ayana-resort-bali-guide/)：節慶活動持續至3月3日。2月16日至3月3日喺Liu Li Palace提供火鍋及套餐。2月10日至20日喺Damar Terrace及UNIQUE Rooftop Bar提供下午茶（每人USD$23++）。2月16日Kampoeng Bali有傳統表演，Rock Bar有倒數及煙火。2月17日有舞獅、鞭炮及兒童活動。二月另有限定水療療程。
+- [**AYANA Bali**](/zh-hk/blog/ayana-resort-bali-guide/)：節慶活動持續至3月3日。2月16日至3月3日喺Liu Li Palace提供火鍋及套餐。2月10日至20日喺Damar Terrace及UNIQUE Rooftop Bar提供下午茶（每人USD$23++）。2月16日Kampoeng Bali有傳統表演，Rock Bar有倒數及煙火。2月17日有舞獅、鞭炮及兒童活動。二月另有限定水療療程。
 
 **烏魯瓦圖**
 
@@ -78,11 +78,11 @@ _srcHash: 90e1147bea467ba7218483d02935e815
 
 **努沙杜瓦**
 
-- [**穆麗雅酒店 (Table8)**](/blog/mulia-resort-bali-luxury/)：提供經典嘅粵式節慶菜單。
+- [**穆麗雅酒店 (Table8)**](/zh-hk/blog/mulia-resort-bali-luxury/)：提供經典嘅粵式節慶菜單。
 - [**Sofitel Bali Nusa Dua (Kwee Zeen)**](https://s.id/nusadua_resorts)：2 月 16 日晚間有豐富嘅亞洲自助餐，包含魚生（Yee Sang）與命理諮詢活動。
 - [**The Ritz-Carlton, Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=782765)：2月16日喺Senses餐廳舉辦除夕自助晚餐（每人USD$65++）。2月15日至20日另提供新春下午茶（兩人USD$71++）。
 - [**Renaissance Bali Nusa Dua**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=20375914) **(Lion X)**：2月16日至17日推出新春套餐（每對USD$109++起），9日至22日有特色單點菜單。除夕晚餐含傳統鞭炮慶祝，期間大廳設有節慶快閃店。
-- [**龍蝦先生**](/blog/mr-lobster-seafood-bali/)：2 月 16 日～2 月 21 日，用餐抽紅包，大人細路通通有獎，最大紅包USD$6，敬請提早預約。
+- [**龍蝦先生**](/zh-hk/blog/mr-lobster-seafood-bali/)：2 月 16 日～2 月 21 日，用餐抽紅包，大人細路通通有獎，最大紅包USD$6，敬請提早預約。
 
 **沙努爾**
 
@@ -90,7 +90,7 @@ _srcHash: 90e1147bea467ba7218483d02935e815
 
 **烏布**
 
-- [**Capella Ubud**](/blog/capella-ubud-luxury-resort/)：2 月 17 日有傳統嘅「撈魚生」儀式同埋結合印尼特色嘅 Peranakan（土生華人）料理。
+- [**Capella Ubud**](/zh-hk/blog/capella-ubud-luxury-resort/)：2 月 17 日有傳統嘅「撈魚生」儀式同埋結合印尼特色嘅 Peranakan（土生華人）料理。
 - [**Padma Resort Ubud**](https://s.id/UbudResorts)：2 月 17 日晚黑推出「開運饗宴」，適合鍾意山林幽靜氛圍嘅遊客。
 - [**The Westin Resort & Spa Ubud**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10776988) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=17502897&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6zczFJMEk9YWZY-_8T39ZhRiNDDgtPgk69h_6qhEzeaqDJ9f1xQW20rMcAngaGcGC_J4OMxg3Ll3DsYKRcSPjm8Adcq3yRQ47GJkOMDKdYDxns4Bp4qNbEqdYmDkOcV1i-coUXa2UnVqpZGWio1SSWZKTqmSl9GxO79PumS827VbSUUpJLU4GCgFZibn5pXklQLa5gamegQFQpCSxwjNFycpcRyk5MSe5NCexJDWksgBogpmOUmaxc0lRZkFQam5mSUkqUFVaYk5xKkg8KLUYKJMMFlTyAxpTBBXIzM-DaDdAEQtLzClNhTgBaKFbKtQO41odTJc_XTTvacOe5ytasbvczMQQxeUmA-Jyw9rYRyxM0bGfWBh-sTA0sTJ0sTJMYmXmOGezi5Un0Mvb2zNK11AXiKWUDQ0MDEwNjU1NdQ0SLRMtjBNTdU0sTYwNzHWNjYwMLYyMLAw1Tu78MP2psZG1FOuUA8-nsSswagnGh3h6uhiWFKaaFZZa5hQVmBownmKUMjQ3tjA0MjQ0MjKyNNYzsUgzK7bIK7bIzYrwYAxiM3M0tbRwjLLhYvZ0CRK8958lV1vZ0l6KOSTcRXHlTea1ByacttcCyRnC5AItvojxv7dcYB8Jk09ircrQDQnP6BUvYGxgZOpi5BZg9GCMYKwA8hhXMbJzMRsYGQowbWBk3MH4HwYYXzGCLAEATbARnOsCAAA&masterhotelid_tracelogid=100051355-0a9a83ae-494307-322182281&detailFilters=17|1~17~1*31|17502897~31~17502897*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=726&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Taynizj3) **(Tabia Restaurant)**：2月16日晚黑6點至10點30分舉辦「Ubud Lunar Harmony」除夕自助晚餐（每人IDR 588,000++），包舞獅表演。
 

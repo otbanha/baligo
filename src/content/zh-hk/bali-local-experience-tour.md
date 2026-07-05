@@ -31,7 +31,7 @@ https://youtu.be/RRurkFC7UG4
 
 呢個市場唔單止有琳瑯滿目嘅手工藝品，仲有好多本地人成日幫襯嘅舖頭，所以你可以感受到最真實嘅峇里島購物氣氛。行市場嗰陣，記得帶夠現金，因為好多檔口唔收信用卡。
 
-延伸閱讀：[峇里島旅遊要準備幾多現金？](/blog/bali-travel-cash-budget-guide/)
+延伸閱讀：[峇里島旅遊要準備幾多現金？](/zh-hk/blog/bali-travel-cash-budget-guide/)
 
 ## 巴東市場：Pasar Badung
 
@@ -87,6 +87,6 @@ https://youtu.be/FphhiUzB7gM
 
 撳呢度睇更多峇里島精彩遊記
 
-你都諗住寫遊記但係唔知點樣開始？可以參考吓「[點樣寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出色！
+你都諗住寫遊記但係唔知點樣開始？可以參考吓「[點樣寫一篇精彩嘅峇里島遊記](/zh-hk/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出色！
 
 {{block:戶外}}

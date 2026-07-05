@@ -57,8 +57,8 @@ Additionally, countries such as the United Kingdom, South Korea, France, Japan, 
 
 According to current regulations, Taiwanese citizens can apply for a Visa on Arrival (VoA) or an Electronic Visa on Arrival (eVOA) when entering Indonesia. The fee is 500,000 Indonesian Rupiah (approximately USD$32), allowing a stay of 30 days with the option to extend once.
 
-> Further reading: [2024 Updated Guide to Indonesia/Bali Entry Visa & eVOA FAQs](/blog/indonesia-bali-visa-evoa-faq/)
+> Further reading: [2024 Updated Guide to Indonesia/Bali Entry Visa & eVOA FAQs](/en/blog/indonesia-bali-visa-evoa-faq/)
 
-> Further reading: [Understand in One Minute: Indonesia/Bali Entry Process - From Landing to Customs to Baggage Claim](/blog/2025-bali-immigration-process/)
+> Further reading: [Understand in One Minute: Indonesia/Bali Entry Process - From Landing to Customs to Baggage Claim](/en/blog/2025-bali-immigration-process/)
 
 Following President Joko Widodo's directive, Indonesia's Minister of Law and Human Rights will evaluate the visa-free policy every six months. At that time, discussions will take place regarding whether to add more countries to the visa-free list. This has sparked external attention on the next wave of visa-free countries, particularly whether nations like China and Taiwan might be included. These countries hold significant economic and tourism market potential for Indonesia, making their inclusion in the visa-free policy a key topic in future inter-ministerial discussions.

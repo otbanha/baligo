@@ -171,6 +171,6 @@ If you're traveling with family members who aren't suited for motorcycle rides, 
 
 When planning your next trip to Bali, remember to add this place to your backup list. It might come in handy if the weather forecast suddenly predicts rain just a few days before your departure!
 
-➡ More recommendations for family-friendly attractions in Bali: [Complete Guide to Bali's Top 10 Family Attractions](/blog/top-10-kids-attractions-in-bali/)
+➡ More recommendations for family-friendly attractions in Bali: [Complete Guide to Bali's Top 10 Family Attractions](/en/blog/top-10-kids-attractions-in-bali/)
 
 {{block:親子}}

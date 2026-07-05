@@ -70,7 +70,7 @@ https://youtu.be/SpcgZ4iK7qs
 
 https://youtu.be/H-IocbLNpE4
 
-> [Lempuyang 天空之门深度攻略｜倒影是手机屏幕？六座庙怎么走？费用路线全摊开](https://gobaligo.id/blog/lempuyang-temple-gate-of-heaven/)
+> [Lempuyang 天空之门深度攻略｜倒影是手机屏幕？六座庙怎么走？费用路线全摊开](https://gobaligo.id/zh-cn/blog/lempuyang-temple-gate-of-heaven/)
 
 接着去了 **摇摆天堂（Swing Heaven）**，这里不只是荡秋千的地方，还有多个打卡景点可以拍出超美的网红照～🌺 拍完照后导游还会帮忙抓角度，摄影技术一流！
 
@@ -199,7 +199,7 @@ https://youtu.be/zxDZJ93EqA4
 
 ![Day 5：自由活动＋沙滩下午茶](https://images.gobaligo.id/images/2026-05/1780016971982-6532982_19022510000072495025_large.jpeg)
 
-> 👉 [**穆利亚度假村详细介绍**](/blog/mulia-resort-bali-luxury/)
+> 👉 [**穆利亚度假村详细介绍**](/zh-cn/blog/mulia-resort-bali-luxury/)
 
 {{block:dua}}
 
@@ -239,7 +239,7 @@ https://youtu.be/hQbBTktqEqY
 
 （这个行程是**免排队**直接入场，真的省了超多等待时间，超推荐这点！）
 
-> [Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演（附订票信息）](/blog/kecak-fire-dance-bali/)
+> [Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演（附订票信息）](/zh-cn/blog/kecak-fire-dance-bali/)
 
 ### 🐟 19:00 金巴兰海滩晚餐（Jimbaran Beach）
 
@@ -247,7 +247,7 @@ https://youtu.be/hQbBTktqEqY
 
 ![19:00 金巴兰海滩晚餐（Jimbaran Beach）](https://images.gobaligo.id/vocus/vocus_0b8853265196d9f74c4f5461505927dc.jpg)
 
-> [巴厘岛金巴兰11家海鲜餐厅：不踩雷推荐](/blog/jimbaran-seafood-restaurants-list/)
+> [巴厘岛金巴兰11家海鲜餐厅：不踩雷推荐](/zh-cn/blog/jimbaran-seafood-restaurants-list/)
 
 ### 🛻 20:00 满足回程
 
@@ -326,6 +326,6 @@ A：Klook上有[超过100种的巴厘岛一日游](https://affiliate.klook.com/r
 
 点击这里观看更多巴厘岛精彩游记
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/zh-cn/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
 
 {{block:攻略}}

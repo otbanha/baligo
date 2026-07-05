@@ -27,7 +27,7 @@ _srcHash: d8e229b5fd56d5e3e518cf13ad3f796d
 
 ![1⃣ BSTS — Bali Sea Turtle Society（庫塔）](https://images.gobaligo.id/vocus/vocus_10d8cb87fd3795c13748ec3da6d89767.jpg)
 
-📍 **地點**：Kuta Beach（庫塔海灘旁, 位置請參考[庫塔攻略地圖](/blog/2023-12-13-657598bdfd8978000120fe20/)）
+📍 **地點**：Kuta Beach（庫塔海灘旁, 位置請參考[庫塔攻略地圖](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)）
 
 🌐 **官方網站**：<https://baliseaturtle.org/>
 
@@ -52,7 +52,7 @@ BSTS 係峇里島最受信任嘅海龜保育組織之一，主要喺庫塔海灘
 
 ![2⃣ Sea Turtle Village（沙努爾）](https://images.gobaligo.id/vocus/vocus_653a7621066e1f56aaf7e49601283f11.jpg)
 
-📍 **地點**：Sindhu Beach, 沙努爾 位置請參考[沙努爾攻略地圖](/blog/sanur-guide/)
+📍 **地點**：Sindhu Beach, 沙努爾 位置請參考[沙努爾攻略地圖](/zh-hk/blog/sanur-guide/)
 
 🌐 **官方資訊**：[Sea Turtle Village Sanur](https://www.hyatt.com/content/dam/hotel/propertysites/assets/regency/dpsbl/documents/en_us/home/Sea-Turtle-Village-Activities.pdf)
 
@@ -75,7 +75,7 @@ BSTS 係峇里島最受信任嘅海龜保育組織之一，主要喺庫塔海灘
 
 ![3⃣ Sindu Dwarawati Turtle Conservation Center（沙努爾）](https://images.gobaligo.id/vocus/vocus_c3a5b550721e4545254d70c3406ea9f0.jpg)
 
-📍 **地點**：Sindhu Beach, Sanur 位置請參考[沙努爾攻略地圖](/blog/sanur-guide/)
+📍 **地點**：Sindhu Beach, Sanur 位置請參考[沙努爾攻略地圖](/zh-hk/blog/sanur-guide/)
 
 🌐 **官方頁面**：[Sindu Dwarawati Turtle Conservation](https://www.instagram.com/sindu_dwarawati?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
@@ -97,7 +97,7 @@ __VID0__
 
 ![4⃣ Serangan Island Turtle Conservation & Education Center（海龜](https://images.gobaligo.id/vocus/vocus_210d4b94f50f241c3bd9234150ff0593.jpg)
 
-📍 **地點**：Serangan Island（沙努爾外海 位置請參考[沙努爾攻略地圖](/blog/sanur-guide/) ）
+📍 **地點**：Serangan Island（沙努爾外海 位置請參考[沙努爾攻略地圖](/zh-hk/blog/sanur-guide/) ）
 
 🌐 **官方網站**：[TCEC Serangan](https://www.instagram.com/tcecserangan?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 

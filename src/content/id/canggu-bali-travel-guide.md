@@ -27,7 +27,7 @@ _srcHash: f0aaec82a5e903cf867754ed83a9f030
 
 Di episode sebelumnya, kita udah bahas gambaran Canggu dan kenapa tempat ini jadi kawasan paling hits di Bali. Cek juga yuk:
 
-[【Wajib Kunjungi Bali】Panduan Canggu: Kombinasi Sempurna Surfing, Kuliner, dan Tren!](/blog/canggu-surf-food-guide/)
+[【Wajib Kunjungi Bali】Panduan Canggu: Kombinasi Sempurna Surfing, Kuliner, dan Tren!](/id/blog/canggu-surf-food-guide/)
 
 ## Video Panduan Canggu
 
@@ -108,7 +108,7 @@ Akhir 2021, jalan pintas ini sempat diaspal ulang jadi jalan aspal, jalannya jug
 Jalan utama ketiga adalah Jl. Padang Lingjong, yang menghubungkan ke Echo Beach. Akhir-akhir ini di area dekat pantai banyak banget toko dan pilihan akomodasi. Di pinggir pantai ada La Brisa Beach Club, tempat yang luas banget ini harus reservasi online dulu baru bisa masuk. Dekorasi beach club ini penuh gaya, bikin kamu susah nggak suka sama suasana makannya yang santai. Semua bangunan dan lantai kayu di sini pakai kayu apung, ditanamin pohon kelapa super banyak, plus ada kolam renang yang cocok buat anak-anak. Vibes-nya beda banget!
 
 Baca juga:
-[Dijuluki 'Restoran Terindah di Bali': Bagaimana La Brisa Bisa Menonjol di Antara Ribuan Restoran?](/blog/canggu-la-brisa-restaurant-guide/)
+[Dijuluki 'Restoran Terindah di Bali': Bagaimana La Brisa Bisa Menonjol di Antara Ribuan Restoran?](/id/blog/canggu-la-brisa-restaurant-guide/)
 
 ![Jl. Padang Lingjong](https://images.gobaligo.id/vocus/vocus_ba0b7ff191ef1623871c136afd30e67a.jpg)
 
@@ -150,17 +150,17 @@ Udah siap buat petualangan seru di Canggu? Link di bawah ini berisi peta keren C
 
 ![Canggu吃喝玩樂攻略](https://images.gobaligo.id/vocus/vocus_c0262b12ea0d70b991550ffe89b65cd2.jpg)
 
-[Panduan Lengkap Canggu: Makan, Main, & Nongkrong](/blog/canggu-guide/)
+[Panduan Lengkap Canggu: Makan, Main, & Nongkrong](/id/blog/canggu-guide/)
 
 #### Baca Juga
 
-> [Peta Petualangan Canggu: 100 Tempat Wajib Dikunjungi di Canggu｜Panduan 2026](/blog/canggu-guide/)
+> [Peta Petualangan Canggu: 100 Tempat Wajib Dikunjungi di Canggu｜Panduan 2026](/id/blog/canggu-guide/)
 
-> [Rekomendasi Penginapan di Bali: Top 11 Hotel di Canggu yang Wajib Kamu Coba](/blog/canggu-top-hotels-guide/)
+> [Rekomendasi Penginapan di Bali: Top 11 Hotel di Canggu yang Wajib Kamu Coba](/id/blog/canggu-top-hotels-guide/)
 
-> [16 Rekomendasi Villa dengan Kolam Renang Pribadi di Canggu, Villa Canggu yang Wajib Kamu Coba di Bali](/blog/canggu-villas-guide/)
+> [16 Rekomendasi Villa dengan Kolam Renang Pribadi di Canggu, Villa Canggu yang Wajib Kamu Coba di Bali](/id/blog/canggu-villas-guide/)
 
-> [Panduan Pura Tanah Lot & Info Pasang Surut](/blog/bali-tanah-lot-guide/)
+> [Panduan Pura Tanah Lot & Info Pasang Surut](/id/blog/bali-tanah-lot-guide/)
 
 Mau kamu pengen berjemur di pantai, surfing, foto-foto, atau mau cobain kuliner, belanja, dan ngerasain suasana eksotis, Canggu bisa penuhi semua kebutuhanmu. Mau sendirian, bareng keluarga dan teman, atau quality time bareng pasangan, Canggu bakal kasih kamu pengalaman liburan yang nggak terlupakan.
 

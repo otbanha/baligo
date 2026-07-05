@@ -26,7 +26,7 @@ lang: zh-hk
 _srcHash: 6266ee89f8d8ff8f124fe0ce72eb286c
 ---
 
-唔耐前先出爐嘅「十大全球浪漫旅遊目的地」，根據Agoda旅行平台嘅大數據，其中峇里島排全球第六名（[請睇呢度](/blog/valentines-day-romantic-destinations/)）；而另一份Tripadvisor 2024年度統計資料，峇里島更加被列為度蜜月目的地嘅頂尖寶座，[擊敗馬爾地夫奪得全世界冠軍！](/blog/bali-honeymoon-destination/)
+唔耐前先出爐嘅「十大全球浪漫旅遊目的地」，根據Agoda旅行平台嘅大數據，其中峇里島排全球第六名（[請睇呢度](/zh-hk/blog/valentines-day-romantic-destinations/)）；而另一份Tripadvisor 2024年度統計資料，峇里島更加被列為度蜜月目的地嘅頂尖寶座，[擊敗馬爾地夫奪得全世界冠軍！](/zh-hk/blog/bali-honeymoon-destination/)
 
 ![峇里島蜜月浪漫指南：探索峇里島情侶/蜜月旅行嘅36種玩法](https://images.gobaligo.id/vocus/vocus_60d51ffa1b750d6e989a000ce2d8857b.jpg)
 
@@ -64,13 +64,13 @@ _srcHash: 6266ee89f8d8ff8f124fe0ce72eb286c
 
 > 【水明漾】[水明漾阿麗拉酒店Seasalt食飯](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94283-seasalt-alila-seminyak-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D493fe83922)
 
-> 【水明漾】[MoonLite Kitchen and Bar：水明漾嘅日落美食天堂](/blog/moonlite-kitchen-bar-seminyak-sunset/)
+> 【水明漾】[MoonLite Kitchen and Bar：水明漾嘅日落美食天堂](/zh-hk/blog/moonlite-kitchen-bar-seminyak-sunset/)
 
 ## **靚景午餐**
 
 喺山水美景包圍下食午餐，感受獨特嘅感覺，一齊創造美好回憶。
 
-【努沙杜瓦】[峇里島凱賓斯基下午茶遊記：Selasar Deli嘅夢幻午後時光](/blog/kempinski-selasar-deli-afternoon-tea/)
+【努沙杜瓦】[峇里島凱賓斯基下午茶遊記：Selasar Deli嘅夢幻午後時光](/zh-hk/blog/kempinski-selasar-deli-afternoon-tea/)
 
 【烏布】[烏布Bale Udang Mang Engking食飯](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F106498-bale-udang-mang-engking-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D628e0eac4e)
 
@@ -80,7 +80,7 @@ _srcHash: 6266ee89f8d8ff8f124fe0ce72eb286c
 
 【坎古】[海神廟De Jukung Resto And Bar 美食體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94323-de-jukung-resto-and-bar-tanah-lot-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D88b0b13a2e)
 
-【烏魯瓦圖】[【峇里島美食體驗記】Alila Villas Uluwatu Brisa Brunch：懸崖邊嘅週日味覺盛宴](/blog/alila-uluwatu-brisa-brunch/)
+【烏魯瓦圖】[【峇里島美食體驗記】Alila Villas Uluwatu Brisa Brunch：懸崖邊嘅週日味覺盛宴](/zh-hk/blog/alila-uluwatu-brisa-brunch/)
 
 ## **浪漫按摩水療**
 
@@ -110,7 +110,7 @@ _srcHash: 6266ee89f8d8ff8f124fe0ce72eb286c
 
 【烏魯瓦圖】[White Rock Beach 俱樂部通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F83057-white-rock-beach-club-day-pass-ungasan-south-kuta-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Ddb21a121cc)
 
-【水明漾】[峇里島水明漾 Ku De Ta Beach Club 完整攻略：餐飲、派對、日落嘅夢幻海灘體驗](/blog/ku-de-ta-beach-club/)
+【水明漾】[峇里島水明漾 Ku De Ta Beach Club 完整攻略：餐飲、派對、日落嘅夢幻海灘體驗](/zh-hk/blog/ku-de-ta-beach-club/)
 
 ## **參加活動**
 
@@ -126,7 +126,7 @@ _srcHash: 6266ee89f8d8ff8f124fe0ce72eb286c
 
 > 【努沙杜瓦】[海行者（海底漫步 seawalker）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F51733-bali-seawalker-watersports-tanjung-benoa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6f69f93a73)
 
-**快速參考：**[峇里島戶外活動玩咩？50種最受歡迎嘅戶外體驗](/blog/bali-top-50-outdoor-activities/)
+**快速參考：**[峇里島戶外活動玩咩？50種最受歡迎嘅戶外體驗](/zh-hk/blog/bali-top-50-outdoor-activities/)
 
 ## 留下珍貴美好回憶
 
@@ -188,7 +188,7 @@ _srcHash: 6266ee89f8d8ff8f124fe0ce72eb286c
 
 喺你嘅峇里島之旅入面，記得要去網紅景點打卡呀！一定要去連普揚寺嘅「天空之門」，呢度嘅靚景真係會令你難忘。之後可以去峇里島北部，朝聖布拉坦水神廟，喺漢達拉門影返張靚相。如果你想探索多啲，可以揀去峇里島東部，參觀蒂爾塔岡加水上宮殿。呢個行程包埋中文司機同酒店接送，完全唔使煩語言同交通問題，專心享受旅程每一刻。
 
-（延伸閱讀：[根本人間仙境！峇里島東部三大景點：天空之門、恆河聖泉花園、烏戎水宮](/blog/bali-east-tour-guide/)）
+（延伸閱讀：[根本人間仙境！峇里島東部三大景點：天空之門、恆河聖泉花園、烏戎水宮](/zh-hk/blog/bali-east-tour-guide/)）
 
 > ▶預訂[中文導覽峇里島東部/北部IG網紅景點打卡之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20722-instagram-tour-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3D69d806c9e7)
 
@@ -196,7 +196,7 @@ _srcHash: 6266ee89f8d8ff8f124fe0ce72eb286c
 
 探索烏布所有熱門景點，包括隱藏瀑布好似Kanto Lampo同Tibumana瀑布、Suwat瀑布，仲有烏布市場買紀念品嘅樂趣，同埋古老又有歷史嘅烏布皇宮。你仲可以參觀德哥拉朗梯田、Tegenungan瀑布等地方，將呢啲壯麗景色影低，同你Instagram嘅朋友分享，為你嘅旅行錦上添花。唔止咁，你仲可以自訂行程，探索聖泉寺、峇里島鞦韆、咖啡種植園等最受歡迎嘅烏布景點。可以加選中文司機服務，部分行程仲有專屬攝影師，令你唔使擔心語言障礙，仲可以捕捉每個珍貴時刻。一齊探索烏布嘅魅力，留下難忘回憶！
 
-（延伸閱讀：[50種深入認識烏布嘅方式｜探索烏布嘅魅力](/blog/ubud-guide/)）
+（延伸閱讀：[50種深入認識烏布嘅方式｜探索烏布嘅魅力](/zh-hk/blog/ubud-guide/)）
 
 > ▶預訂[中文司機烏布熱門景點私人一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21714-private-ubud-trip-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3Da38e26e694)
 
@@ -204,11 +204,11 @@ _srcHash: 6266ee89f8d8ff8f124fe0ce72eb286c
 
 中文司機帶你走訪烏魯瓦圖靚靚嘅Padang Padang海灘，你可以坐喺沙灘上，欣賞蔚藍海水同細白沙灘，沉醉喺自然美景入面。之後去參觀烏魯瓦圖神廟，呢座企喺懸崖上嘅神廟唔單止俾你睇到峇里島特有嘅震撼卡恰火舞，仲可以喺夕陽下欣賞到令人難忘嘅斷崖美景。最後，喺金巴蘭海灘結束你嘅一日，令旅程留下最美好嘅回憶。
 
-（延伸閱讀：[Kecak Fire Dance卡恰火舞秀 峇里島必睇嘅震撼表演](/blog/kecak-fire-dance-bali/)）
+（延伸閱讀：[Kecak Fire Dance卡恰火舞秀 峇里島必睇嘅震撼表演](/zh-hk/blog/kecak-fire-dance-bali/)）
 
-（延伸閱讀：[探索峇里島嘅無人秘境 6個峇里島秘境沙灘攻略/點樣查潮汐？](/blog/bali-hidden-beaches-guide/)）
+（延伸閱讀：[探索峇里島嘅無人秘境 6個峇里島秘境沙灘攻略/點樣查潮汐？](/zh-hk/blog/bali-hidden-beaches-guide/)）
 
-（延伸閱讀：[金巴蘭推薦嘅八個海鮮餐廳](/blog/jimbaran-guide/)）
+（延伸閱讀：[金巴蘭推薦嘅八個海鮮餐廳](/zh-hk/blog/jimbaran-guide/)）
 
 > ▶預訂[中文司機烏魯瓦圖/金巴蘭＆卡恰火舞之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fscroll_pkg%3D287234%26shop_id%3D119049035%26shop_type%3D0)
 
@@ -216,7 +216,7 @@ _srcHash: 6266ee89f8d8ff8f124fe0ce72eb286c
 
 由峇里島出發搭船去佩尼達島，展開一個令人難以置信嘅一日遊冒險。中文導遊會帶你去到神秘嘅精靈海灘（Kelingking Beach），企喺高處望落去，個島形狀好似一隻好威猛嘅暴龍。跟住，行入俾火山岩圍住嘅「天使浴池」，感受碧綠清澈嘅海水好似天使嘅泉水咁。如果你好想深入體驗海底奇觀，可以加購浮潛項目，漫遊水晶灣，欣賞峇里島海洋生態嘅多樣風貌，令你嘅冒險之旅更加豐富多元。
 
-（延伸閱讀：[【Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/nusa-penida-guide/)）
+（延伸閱讀：[【Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/zh-hk/blog/nusa-penida-guide/)）
 
 ▶預訂[中文導遊佩尼達島一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3D7e1e0da9d2)
 

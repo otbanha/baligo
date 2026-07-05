@@ -33,7 +33,7 @@ Yang lebih penting lagi, biar nggak salah makan, jangan lupa bawa perlengkapan d
 
 ![Alergi Kacang!? Begini Cara Aman Jalan-jalan di Bali](https://images.gobaligo.id/vocus/vocus_aa7648471037473f80418f211f4b41ad.png)
 
-Setelah subscribe, kamu bisa langsung lanjut baca panduan lengkap kami, menjelajahi setiap sudut seru Bali. Klik **「**[**Panduan Lengkap Liburan Mandiri ke Bali**](/blog/2023-08-22-64e37f2dfd89780001b1f776/)**」**, mulai persiapkan perjalananmu ke Bali!
+Setelah subscribe, kamu bisa langsung lanjut baca panduan lengkap kami, menjelajahi setiap sudut seru Bali. Klik **「**[**Panduan Lengkap Liburan Mandiri ke Bali**](/id/blog/2023-08-22-64e37f2dfd89780001b1f776/)**」**, mulai persiapkan perjalananmu ke Bali!
 
 
-訂閱完成後，您可以立即繼續閱讀我們詳盡的攻略，深入探索峇里島的每個精彩角落。點擊**「**[**峇里島自由行究極旅行攻略**](/blog/2023-08-22-64e37f2dfd89780001b1f776/)**」**，開始準備您的峇里島之旅！
+訂閱完成後，您可以立即繼續閱讀我們詳盡的攻略，深入探索峇里島的每個精彩角落。點擊**「**[**峇里島自由行究極旅行攻略**](/id/blog/2023-08-22-64e37f2dfd89780001b1f776/)**」**，開始準備您的峇里島之旅！

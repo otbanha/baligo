@@ -70,7 +70,7 @@ https://youtu.be/1COxi_x8L78
 
 (dok. Feilin Huang)
 
-> Catatan: Kamu juga mau nginep di bamboo villa yang aesthetic banget? Cek rekomendasi kami: «[11 Tree House / Bamboo Villa di Ubud yang Bikin Tercengang](/blog/ubud-treehouse-bamboo-villa-stays/)»
+> Catatan: Kamu juga mau nginep di bamboo villa yang aesthetic banget? Cek rekomendasi kami: «[11 Tree House / Bamboo Villa di Ubud yang Bikin Tercengang](/id/blog/ubud-treehouse-bamboo-villa-stays/)»
 
 ***
 
@@ -132,7 +132,7 @@ https://youtu.be/Pi1RcbRRong
 
 **Referensi Cepat:**
 
-> [Panduan lengkap Pura Tanah Lot — termasuk pasang surut & spot sekitar](/blog/bali-tanah-lot-guide/)
+> [Panduan lengkap Pura Tanah Lot — termasuk pasang surut & spot sekitar](/id/blog/bali-tanah-lot-guide/)
 
 Mungkin karena bangun kesiangan dan capek, kita cuma sempet ke dua tempat ini, terus langsung balik ke villa di Seminyak buat istirahat dan nikmatin waktu santai.
 
@@ -146,7 +146,7 @@ Mungkin karena bangun kesiangan dan capek, kita cuma sempet ke dua tempat ini, t
 
 (dokumentasi Feilin Huang)
 
-> Catatan redaksi: sekarang cara masuk Pantai Batu Barak udah diubah, [cek di sini](/blog/pandawa-beach-traffic-policy/)
+> Catatan redaksi: sekarang cara masuk Pantai Batu Barak udah diubah, [cek di sini](/id/blog/pandawa-beach-traffic-policy/)
 
 📍Siang harinya kita makan siang di **Malini**. Pemandangan tebing lautnya bikin kita speechless — sambil makan, hati jadi seneng banget. Meskipun siang gitu nggak terlalu rame, tapi kalau mau duduk di pinggir tebiing, mending reservasi dari jauh, soalnya hampir selalu penuh.
 
@@ -174,7 +174,7 @@ https://youtu.be/DSi7QvqOLTQ
 
 ![Day 5](https://images.gobaligo.id/vocus/vocus_7dad59174130e2068985c1770b74c176.jpg)
 
-Detail lengkap [Ziva a Boutique Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1744561&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawMLFJMEk1cnCMX3BxzvMQoxGBlu4LbZnOWrG9B_6uqnLwRNEa3ROcAjgiZhy4Pk09sSbtpURKw4GOhQygIGGQxcjK1hmBuPGvVkbGW25ri8uqM102MHIdIJxt9oCphN_2xROsTBzbGG_xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsE3MTPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebdhPncnNqu9yAGJcb18Y-YmGKjv3EwvCLhYnDrImVoYuVmeMU0yQguVttFyuHuYVZVECQruEF1t2aUvKGBgYGpobGpqa6BomWiabGyYa6JpYmRuYGuoYmZmYGGgc2Nl1_YmxkLQWJdgVGLcH4EE9PF8OSwlSzwlLLnKICUwPGU4xShubGFoZGhoZGRkaWxnomFmlmxRZ5xRa5WREejEFsRm5GLm7OUTZczJ4uQYIf9J5vb7e2tJdiDgl3USxd_XzJ997T9logOUOYXOCe1zkn7I0X2EfC5JNYqzJ0Q8IzjosVMDYwMnUxcgswejBGMFYAeYyrGBk2MDLuYPwPA4yvGEGmAwCMlo5l9QIAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494270-14660&detailFilters=17|1~17~1*31|1744561~31~1744561*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1080&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/wcPbv4eK) ada di artikel「[22 Villa Rahasia Bali yang Bikin Tercengang di Seminyak](/blog/seminyak-private-villas-guide/)」. Buat kamu yang mau liburan villa di Seminyak, jangan sampai kelewatan ya!
+Detail lengkap [Ziva a Boutique Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1744561&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawMLFJMEk1cnCMX3BxzvMQoxGBlu4LbZnOWrG9B_6uqnLwRNEa3ROcAjgiZhy4Pk09sSbtpURKw4GOhQygIGGQxcjK1hmBuPGvVkbGW25ri8uqM102MHIdIJxt9oCphN_2xROsTBzbGG_xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsE3MTPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebdhPncnNqu9yAGJcb18Y-YmGKjv3EwvCLhYnDrImVoYuVmeMU0yQguVttFyuHuYVZVECQruEF1t2aUvKGBgYGpobGpqa6BomWiabGyYa6JpYmRuYGuoYmZmYGGgc2Nl1_YmxkLQWJdgVGLcH4EE9PF8OSwlSzwlLLnKICUwPGU4xShubGFoZGhoZGRkaWxnomFmlmxRZ5xRa5WREejEFsRm5GLm7OUTZczJ4uQYIf9J5vb7e2tJdiDgl3USxd_XzJ997T9logOUOYXOCe1zkn7I0X2EfC5JNYqzJ0Q8IzjosVMDYwMnUxcgswejBGMFYAeYyrGBk2MDLuYPwPA4yvGEGmAwCMlo5l9QIAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494270-14660&detailFilters=17|1~17~1*31|1744561~31~1744561*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1080&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/wcPbv4eK) ada di artikel「[22 Villa Rahasia Bali yang Bikin Tercengang di Seminyak](/id/blog/seminyak-private-villas-guide/)」. Buat kamu yang mau liburan villa di Seminyak, jangan sampai kelewatan ya!
 
 ***
 
@@ -182,7 +182,7 @@ Detail lengkap [Ziva a Boutique Villa](https://www.agoda.com/partners/partnersea
 
 📍Sekitar jam 11:30, kami mampir ke supermarket dan toko buat beli oleh-oleh, lalu langsung gas ke bandara, siap-siap pulang✈️.
 
-Baca juga: [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Panduan Oleh-Oleh Bali: Pilihan Terbaik untuk Mengenang Momen Berharga](/blog/bali-souvenirs-gift-guide/)
+Baca juga: [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Panduan Oleh-Oleh Bali: Pilihan Terbaik untuk Mengenang Momen Berharga](/id/blog/bali-souvenirs-gift-guide/)
 
 Kerajinan pinggir jalan yang biasa aja, ternyata punya seniman luar biasa!
 

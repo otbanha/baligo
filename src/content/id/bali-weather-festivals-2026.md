@@ -75,7 +75,7 @@ Empat bulan ini adalah masa kritis transisi dari musim hujan ke musim kemarau:
 
 **Daftar Tempat Wisata Rekomendasi Bulan Maret**
 
-- **Denpasar:** Sore hari tanggal 18/3, pergilah ke area Puputan Square untuk menyaksikan **Pawai Ogoh-ogoh** yang paling megah dan autentik. (Lihat: [【Panduan Nyepi】Hari Raya Nyepi Bali 2026｜Yang Perlu Kamu Tahu tentang Pawai Ogoh-ogoh](/blog/nyepi-day-bali-guide-2026/))
+- **Denpasar:** Sore hari tanggal 18/3, pergilah ke area Puputan Square untuk menyaksikan **Pawai Ogoh-ogoh** yang paling megah dan autentik. (Lihat: [【Panduan Nyepi】Hari Raya Nyepi Bali 2026｜Yang Perlu Kamu Tahu tentang Pawai Ogoh-ogoh](/id/blog/nyepi-day-bali-guide-2026/))
 - **Resort Tebing Uluwatu:** Selama **Nyepi** (19-20/3), menginap di resort dengan pemandangan laut yang spektakuler. Di sini minim polusi cahaya, jadi tempat terbaik di pulau untuk melihat 'Galaksi Nyepi'. (Lihat: [Rekomendasi Akomodasi Uluwatu: 13 Vila Resort Pribadi dengan Pemandangan Laut](https://s.id/uluwatu_Stay))
 
 ![Maret: Antara Keramaian Ekstrem dan Keheningan Absolut](https://images.gobaligo.id/vocus/vocus_808475a368c14385c6ee2c414ee6f88b.png)
@@ -95,9 +95,9 @@ Empat bulan ini adalah masa kritis transisi dari musim hujan ke musim kemarau:
 
 **Daftar Tempat Wisata Rekomendasi Bulan April**
 
-- **Ubud (Ubud):** Saat ini jadi tuan rumah **Bali Spirit Festival**. Rekomendasi nginep di dekat Monkey Forest yang ada studio yoganya, atau ikut workshop di **The Yoga Barn**. (Cek juga: [10 Rekomendasi Penginapan Yoga di Ubud Bali: Pilihan Impian yang Gabungin Kelas Yoga dan Relaksasi Jiwa](/blog/ubud-yoga-retreats-bali/))
-- **Tegallalang Rice Terrace (Tegallalang):** April hujan mulai berkurang, sinar matahari yang tembus di terasering hijau bikin pemandangan paling ciamik. Cocok jalan pagi biar nggak kepanasan. (Cek juga: [Panduan Liburan ke Dua Kawasan Terasering di Bali: Tegallalang vs Jatiluwih – Tiket Masuk Berapa? Waktu Terbaik Kunjungan?](/blog/bali-rice-terraces-comparison/))
-- **Campuhan Ridge Walk (Campuhan Ridge Walk):** Cuaca mulai kering, jalurnya nggak licin lagi, pas banget buat jalan sore. (Cek juga: [Ternyata Ada Surga Seperti Ini di Jarak Jalan Kaki dari Pusat Ubud? Yuk Kenalan dengan 'Skywalk Ubud' Campuhan Ridge Walk](/blog/ubud-campuhan-ridge-walk/))
+- **Ubud (Ubud):** Saat ini jadi tuan rumah **Bali Spirit Festival**. Rekomendasi nginep di dekat Monkey Forest yang ada studio yoganya, atau ikut workshop di **The Yoga Barn**. (Cek juga: [10 Rekomendasi Penginapan Yoga di Ubud Bali: Pilihan Impian yang Gabungin Kelas Yoga dan Relaksasi Jiwa](/id/blog/ubud-yoga-retreats-bali/))
+- **Tegallalang Rice Terrace (Tegallalang):** April hujan mulai berkurang, sinar matahari yang tembus di terasering hijau bikin pemandangan paling ciamik. Cocok jalan pagi biar nggak kepanasan. (Cek juga: [Panduan Liburan ke Dua Kawasan Terasering di Bali: Tegallalang vs Jatiluwih – Tiket Masuk Berapa? Waktu Terbaik Kunjungan?](/id/blog/bali-rice-terraces-comparison/))
+- **Campuhan Ridge Walk (Campuhan Ridge Walk):** Cuaca mulai kering, jalurnya nggak licin lagi, pas banget buat jalan sore. (Cek juga: [Ternyata Ada Surga Seperti Ini di Jarak Jalan Kaki dari Pusat Ubud? Yuk Kenalan dengan 'Skywalk Ubud' Campuhan Ridge Walk](/id/blog/ubud-campuhan-ridge-walk/))
 
 ![April: Waktu Kebangkitan Jiwa dan Raga](https://images.gobaligo.id/vocus/vocus_e25ce066777027e59ef06a60eb4c681b.png)
 
@@ -119,9 +119,9 @@ Empat bulan ini adalah masa kritis transisi dari musim hujan ke musim kemarau:
 **Daftar Tempat Wisata Rekomendasi Bulan Mei**
 
 - **Pusat Ubud (Ubud Center):** Demi **Ubud Food Festival**, wajib nginep di dekat pusat biar gampang bolak-balik ke acara lunch panjang dan workshop chef. (Cek juga [Rekomendasi Penginapan di Ubud](https://s.id/UbudResorts))
-- **Olahraga Air:** Saat ini belum ramai turis tapi cuacanya lagi oke banget! (Cek juga: [Panduan Lengkap Olahraga Air di Bali – Bukan Cuma Snorkeling! 15 Aktivitas Air yang Nggak Terduga](/blog/2026-bali-water-activities/))
-- **Eksplorasi/Snorkeling Pulau Lain:** Kondisi laut di Mei mulai stabil, ini waktu terbaik buat ke **Nusa Lembongan** atau **Nusa Penida** snorkeling lihat manta ray. (Cek juga: [Panduan Nusa Lembongan](/blog/nusa-lembongan-ceningan-guide/) / [Panduan Nusa Penida](https://s.id/penida_guide))
-- **Tulamben (Tulamben):** Musim kemarau datang, visibilitas bawah laut jernih banget, cocok buat diving bangkai kapal. (Cek juga: [Rahasia Tersembunyi di Timur Laut Bali: Panduan Lengkap Amed dan Tulamben](/blog/amed-tulamben-diving-guide/))
+- **Olahraga Air:** Saat ini belum ramai turis tapi cuacanya lagi oke banget! (Cek juga: [Panduan Lengkap Olahraga Air di Bali – Bukan Cuma Snorkeling! 15 Aktivitas Air yang Nggak Terduga](/id/blog/2026-bali-water-activities/))
+- **Eksplorasi/Snorkeling Pulau Lain:** Kondisi laut di Mei mulai stabil, ini waktu terbaik buat ke **Nusa Lembongan** atau **Nusa Penida** snorkeling lihat manta ray. (Cek juga: [Panduan Nusa Lembongan](/id/blog/nusa-lembongan-ceningan-guide/) / [Panduan Nusa Penida](https://s.id/penida_guide))
+- **Tulamben (Tulamben):** Musim kemarau datang, visibilitas bawah laut jernih banget, cocok buat diving bangkai kapal. (Cek juga: [Rahasia Tersembunyi di Timur Laut Bali: Panduan Lengkap Amed dan Tulamben](/id/blog/amed-tulamben-diving-guide/))
 
 ![Mei: Bulan Emas Buat Foodie dan Pencinta Alam](https://images.gobaligo.id/vocus/vocus_e417ec268a8acaeff77d38f72eb5db82.png)
 
@@ -141,15 +141,15 @@ Empat bulan ini adalah masa kritis transisi dari musim hujan ke musim kemarau:
 
 **Daftar Tempat Wisata Rekomendasi Bulan Juni**
 
-- **Pusat Seni Werdhi Budaya (Werdhi Budaya Art Centre):** Sepanjang bulan Juni berlangsung **Festival Seni Bali (PKB)**, setiap sore hingga malam ada pertunjukan tari tradisional dan drama kelas atas. (Lihat [panduan Denpasar](/blog/denpasar-culture-guide/))
-- **Gunung Batur (Mount Batur):** Juni adalah bulan paling kering dan pagi paling sejuk sepanjang tahun, sangat cocok untuk mendaki gunung melihat matahari terbit, peluang melihat lautan awan sangat tinggi. (Lihat [panduan lengkap Danau Batur & Gunung Batur Bali | Pendakian Matahari Terbit × Kapal Pesiar Kerajaan × Kafe Pemandangan Danau × Taman Bermain Gunung × Pemandian Air Panas Vulkanik](/blog/batur-lake-volcano-guide/))
-- **Pantai Pandawa (Pandawa Beach):** Ikuti **Festival Pantai Pandawa**, nikmati parade budaya dan pertunjukan musik di tepi laut biru jernih. (Bagaimana cara menjelajahi ujung selatan Bali? Lihat [【Panduan Petualangan Semenanjung Bukit】Dari Sunset Jimbaran hingga Pura Tebing Uluwatu: Surga Tersembunyi di Ujung Selatan Bali](/blog/bukit-peninsula-guide/))
+- **Pusat Seni Werdhi Budaya (Werdhi Budaya Art Centre):** Sepanjang bulan Juni berlangsung **Festival Seni Bali (PKB)**, setiap sore hingga malam ada pertunjukan tari tradisional dan drama kelas atas. (Lihat [panduan Denpasar](/id/blog/denpasar-culture-guide/))
+- **Gunung Batur (Mount Batur):** Juni adalah bulan paling kering dan pagi paling sejuk sepanjang tahun, sangat cocok untuk mendaki gunung melihat matahari terbit, peluang melihat lautan awan sangat tinggi. (Lihat [panduan lengkap Danau Batur & Gunung Batur Bali | Pendakian Matahari Terbit × Kapal Pesiar Kerajaan × Kafe Pemandangan Danau × Taman Bermain Gunung × Pemandian Air Panas Vulkanik](/id/blog/batur-lake-volcano-guide/))
+- **Pantai Pandawa (Pandawa Beach):** Ikuti **Festival Pantai Pandawa**, nikmati parade budaya dan pertunjukan musik di tepi laut biru jernih. (Bagaimana cara menjelajahi ujung selatan Bali? Lihat [【Panduan Petualangan Semenanjung Bukit】Dari Sunset Jimbaran hingga Pura Tebing Uluwatu: Surga Tersembunyi di Ujung Selatan Bali](/id/blog/bukit-peninsula-guide/))
 
 ![Juni: Puncak Budaya dan Keindahan](https://images.gobaligo.id/vocus/vocus_6b96e31d9a9ab513eda3d295cd7a5da3.png)
 
 ## 💡 Catatan Perjalanan Pintar dari Redaksi
 
-1. **Filosofi Berpakaian:** Bulan Maret–April siapkan jas hujan dan baju anti keringat; Mei–Juni selain pakaian musim panas, bawa juga jaket tipis karena kadang angin malam bikin merinding. Cek [Apakah perlu bawa jaket ke Bali? Panduan Berpakaian Bali: 8 Barang Wajib Dibawa](/blog/bali-packing-essentials/)
+1. **Filosofi Berpakaian:** Bulan Maret–April siapkan jas hujan dan baju anti keringat; Mei–Juni selain pakaian musim panas, bawa juga jaket tipis karena kadang angin malam bikin merinding. Cek [Apakah perlu bawa jaket ke Bali? Panduan Berpakaian Bali: 8 Barang Wajib Dibawa](/id/blog/bali-packing-essentials/)
 2. **Hindari Zona Bermasalah:** Sekali lagi, pertengahan hingga akhir Maret saat Idul Fitri adalah **"musim ramai lokal"**, kalau tidak perlu, geser liburan ke setelah April.
 3. **Saran Reservasi:** Yang mau ikut Ubud Food Festival atau festival spiritual, dua acara ini bikin pusat kota Ubud sangat padat, disarankan pesan kamar tiga bulan sebelumnya.
 
@@ -159,8 +159,8 @@ Musim semi dan panas di **Bali** adalah perubahan dari hijau yang lembap menjadi
 
 **Referensi Cepat:**
 
-- [Lebih banyak rangkuman festival Bali 2026](/blog/2026-bali-festival-guide/)
-- [Panduan cuti paruh pertama 2026](/blog/2026-bali-holiday-planning/)
+- [Lebih banyak rangkuman festival Bali 2026](/id/blog/2026-bali-festival-guide/)
+- [Panduan cuti paruh pertama 2026](/id/blog/2026-bali-holiday-planning/)
 
 {{block:klook}}
 
@@ -168,4 +168,4 @@ Musim semi dan panas di **Bali** adalah perubahan dari hijau yang lembap menjadi
 
 👈 **Kembali ke Panduan Lengkap Trip ke Bali**
 
-Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.
+Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.

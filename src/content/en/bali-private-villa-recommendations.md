@@ -38,13 +38,13 @@ As a world-renowned travel destination, Bali attracts countless visitors each ye
 
 ![截圖自情侶渡假/蜜月別墅推薦](https://images.gobaligo.id/vocus/vocus_a8ef47800f71d819b9ac3dc1f3ef82b0.png)
 
-[Screenshot from Couple's Retreat/Honeymoon Villa Recommendations](/blog/bali-honeymoon-resorts-guide/)
+[Screenshot from Couple's Retreat/Honeymoon Villa Recommendations](/en/blog/bali-honeymoon-resorts-guide/)
 
 ### **Advantages of Private Villas**
 
 The privacy and personalized service offered by private villas are their biggest selling points. Whether for a family trip or a romantic honeymoon, private villas provide guests with an independent and comfortable space. Villas typically feature private pools, gardens, and kitchens, allowing travelers to enjoy a freer vacation experience.
 
-> [Newlyweds and couples, check this out! 2024 Latest Bali: 20 Honeymoon Resorts & Romantic Villa Recommendations](/blog/bali-honeymoon-resorts-guide/)
+> [Newlyweds and couples, check this out! 2024 Latest Bali: 20 Honeymoon Resorts & Romantic Villa Recommendations](/en/blog/bali-honeymoon-resorts-guide/)
 
 ### **Traditional Advantages of Hotels**
 
@@ -66,13 +66,13 @@ Hendrawan noted that this trend is primarily driven by the more intimate atmosph
 
 ![截圖自水明漾villa推薦](https://images.gobaligo.id/vocus/vocus_7d737d9009c5d7bc2acd814c87eaa697.jpg)
 
-[Screenshot from Seminyak Villa Recommendations](/blog/seminyak-private-villas-guide/)
+[Screenshot from Seminyak Villa Recommendations](/en/blog/seminyak-private-villas-guide/)
 
 ### **Privacy and Amenities**
 
 Private villas offer travelers unparalleled privacy and personalized amenities. Whether enjoying the coolness of a private pool or relaxing in a secluded garden, private villas create an isolated paradise for vacationers.
 
-> [【Bali Accommodation Recommendations】VILLA Pool Villa Private Paradise: 20+ Stunning Secret Gardens in Seminyak](/blog/seminyak-private-villas-guide/)
+> [【Bali Accommodation Recommendations】VILLA Pool Villa Private Paradise: 20+ Stunning Secret Gardens in Seminyak](/en/blog/seminyak-private-villas-guide/)
 
 ### **The Convenience of Independent Exploration**
 
@@ -82,7 +82,7 @@ Another major advantage of choosing a private villa is its flexibility. Traveler
 
 ![截圖自「沙努爾villa推薦」](https://images.gobaligo.id/vocus/vocus_2ad73f465bcd1125da0d7da914172579.jpg)
 
-[Screenshot from "Sanur Villa Recommendations"](/blog/sanur-luxury-budget-resorts/)
+[Screenshot from "Sanur Villa Recommendations"](/en/blog/sanur-luxury-budget-resorts/)
 
 ### **The Influence of Influencers and Content Creators**
 
@@ -92,13 +92,13 @@ Driven by social media, the allure of private villas has become more widely reco
 
 In particular, unique accommodations like bamboo houses and treehouses have become favorites among many travelers. For example, The Hideout's bamboo house has received widespread acclaim for its distinctive design and intimate connection with nature.
 
-> [Explore 11 Breathtaking Treehouse/Bamboo Villa Stays in Ubud](/blog/ubud-treehouse-bamboo-villa-stays/)
+> [Explore 11 Breathtaking Treehouse/Bamboo Villa Stays in Ubud](/en/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ## **Mixed Accommodation Options**
 
 ![截圖自 Bamboo Villa 推薦](https://images.gobaligo.id/vocus/vocus_46faebe339e9b8003fc6ad8fddb06fe9.jpg)
 
-[Screenshot from Bamboo Villa Recommendation](/blog/ubud-treehouse-bamboo-villa-stays/)
+[Screenshot from Bamboo Villa Recommendation](/en/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ### **Combining the Best of Villas and Hotels**
 

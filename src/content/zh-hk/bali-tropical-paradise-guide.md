@@ -55,11 +55,11 @@ _srcHash: 74eb52e639bee9fe31d3e33a2e80f9dd
 
 **快速參考:**
 
-- [烏布攻略](/blog/ubud-guide/)
-- [烏魯瓦圖攻略](/blog/uluwatu-guide/)
-- [水明漾攻略](/blog/seminyak-guide/)
-- [火山日出攻略](/blog/batur-volcano-jeep-sunrise-tour/)
-- 離島之 [佩尼達島攻略](/blog/nusa-penida-guide/) / [藍夢島與金銀島攻略](/blog/nusa-lembongan-ceningan-guide/)
+- [烏布攻略](/zh-hk/blog/ubud-guide/)
+- [烏魯瓦圖攻略](/zh-hk/blog/uluwatu-guide/)
+- [水明漾攻略](/zh-hk/blog/seminyak-guide/)
+- [火山日出攻略](/zh-hk/blog/batur-volcano-jeep-sunrise-tour/)
+- 離島之 [佩尼達島攻略](/zh-hk/blog/nusa-penida-guide/) / [藍夢島與金銀島攻略](/zh-hk/blog/nusa-lembongan-ceningan-guide/)
 
 ---
 
@@ -79,7 +79,7 @@ _srcHash: 74eb52e639bee9fe31d3e33a2e80f9dd
 
 ## 峇里島喺亞太區都稱王
 
-除咗榮登全球前3名外，峇里島上個月更喺《Travel + Leisure》亞太奢華旅遊獎中擊敗泰國蘇美島同越南富國島，成為 [**亞太區最佳島嶼**](/blog/bali-best-island-2025/)。呢項獎項專注於奢華旅遊市場，更加證明峇里島兼具親民同高端魅力，能夠滿足各類型旅客嘅需求。
+除咗榮登全球前3名外，峇里島上個月更喺《Travel + Leisure》亞太奢華旅遊獎中擊敗泰國蘇美島同越南富國島，成為 [**亞太區最佳島嶼**](/zh-hk/blog/bali-best-island-2025/)。呢項獎項專注於奢華旅遊市場，更加證明峇里島兼具親民同高端魅力，能夠滿足各類型旅客嘅需求。
 
 ---
 
@@ -98,10 +98,10 @@ _srcHash: 74eb52e639bee9fe31d3e33a2e80f9dd
 
 **快速參考:**
 
-- [峇里島蜜月浪漫指南：探索峇里島情侶/蜜月旅行嘅36種玩法](/blog/bali-honeymoon-romantic-activities-2/)
+- [峇里島蜜月浪漫指南：探索峇里島情侶/蜜月旅行嘅36種玩法](/zh-hk/blog/bali-honeymoon-romantic-activities-2/)
 - 峇里島家庭親子旅遊
-- [適合年長者嘅峇里島旅遊地點全攻略](/blog/bali-senior-friendly-travel-guide/)
-- [峇里島戶外活動玩咩？50種最受歡迎嘅戶外體驗](/blog/bali-top-50-outdoor-activities/)
+- [適合年長者嘅峇里島旅遊地點全攻略](/zh-hk/blog/bali-senior-friendly-travel-guide/)
+- [峇里島戶外活動玩咩？50種最受歡迎嘅戶外體驗](/zh-hk/blog/bali-top-50-outdoor-activities/)
 
 ---
 

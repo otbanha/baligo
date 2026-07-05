@@ -72,21 +72,21 @@ _srcHash: d5ed83e46534e95e6305550092449d3c
 
 - **賈提魯維梯田 (Jatiluwih)：** 7 月係梯田季節最佳觀賞時期，清晨光線穿過稻田嘅景象夢幻到極。唔單止可以參加梯田節，仲可以自己行、揸電單車環遊、參加稻田瑜伽課程。
 
-> [【峇里島梯田攻略】德格拉朗 vs. 賈提魯維：門票、最佳季節同影相位全解析（附行程建議）](https://gobaligo.id/blog/bali-rice-terraces-comparison/)
+> [【峇里島梯田攻略】德格拉朗 vs. 賈提魯維：門票、最佳季節同影相位全解析（附行程建議）](https://gobaligo.id/zh-hk/blog/bali-rice-terraces-comparison/)
 
 - **沙努爾海灘 (Sanur Beach)：** 7 月海況最穩定，天氣晴朗。可以睇風箏節、浮潛，或者搭船去藍夢島同佩尼達島。
 
-> [【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](https://gobaligo.id/blog/nusa-penida-guide/)
+> [【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](https://gobaligo.id/zh-hk/blog/nusa-penida-guide/)
 
-[【倫邦岸島/藍夢島景點攻略】探索藍夢島/金銀島景點、美食、交通：峇里島嘅鄰近天堂](https://gobaligo.id/blog/nusa-lembongan-ceningan-guide/)
+[【倫邦岸島/藍夢島景點攻略】探索藍夢島/金銀島景點、美食、交通：峇里島嘅鄰近天堂](https://gobaligo.id/zh-hk/blog/nusa-lembongan-ceningan-guide/)
 
 - **巴杜爾火山 (Mount Batur)：** 雲海機會極高，清晨日出同山頂日光最靚。
 
-> [峇里島金塔瑪尼巴杜爾火山湖｜日出登山 × 皇家遊船 × 湖景咖啡廳 × 山林遊樂場 × 火山溫泉全攻略](https://gobaligo.id/blog/batur-lake-volcano-guide/)）
+> [峇里島金塔瑪尼巴杜爾火山湖｜日出登山 × 皇家遊船 × 湖景咖啡廳 × 山林遊樂場 × 火山溫泉全攻略](https://gobaligo.id/zh-hk/blog/batur-lake-volcano-guide/)）
 
 - **彭麗普蘭村 (Penglipuran Village)：** 參加傳統村莊文化節，體驗峇里阿加族嘅建築、生活方式同手工藝傳承。
 
-> [穿越時空嘅 Penglipuran 村莊：體驗峇里古老嘅魅力](https://gobaligo.id/blog/penglipuran-village-bali-experience/)
+> [穿越時空嘅 Penglipuran 村莊：體驗峇里古老嘅魅力](https://gobaligo.id/zh-hk/blog/penglipuran-village-bali-experience/)
 
 ***
 
@@ -114,16 +114,16 @@ _srcHash: d5ed83e46534e95e6305550092449d3c
 
 - **烏布中心區 (Ubud Center)：** 為咗爵士音樂節，一定要提早訂房。感受一年一度嘅國際音樂盛事，欣賞世界級爵士樂手嘅精彩演奏。
 
-> [2026峇里島完整烏布攻略：100種深入認識烏布嘅方式｜探索烏布嘅魅力](https://gobaligo.id/blog/ubud-guide/)
+> [2026峇里島完整烏布攻略：100種深入認識烏布嘅方式｜探索烏布嘅魅力](https://gobaligo.id/zh-hk/blog/ubud-guide/)
 
 - **布勒倫地區 (Buleleng Regency)：** 參加北峇里島最大嘅文化節，體驗當地特色同傳統表演。同時，布勒倫嘅山區景觀別有風味，8月天氣完美適合探險。
 - **海神廟 (Tanah Lot)：** 參加節慶同時欣賞傳說中夕陽下嘅海神廟。
 
-> [峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](https://gobaligo.id/blog/bali-tanah-lot-guide/)
+> [峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](https://gobaligo.id/zh-hk/blog/bali-tanah-lot-guide/)
 
 - **沙努爾海灘 (Sanur Beach)：** 8月嘅海況穩定，天氣清朗，適合浮潛、水上運動或者搭船往返離島。
 
-> [【峇里島親子景點】沙努爾攻略 Sanur 終極地圖：50+吃喝玩樂、Icon Bali 商場、頂級 Spa 同高 CP 值住宿避雷指南](https://gobaligo.id/blog/sanur-guide/)
+> [【峇里島親子景點】沙努爾攻略 Sanur 終極地圖：50+吃喝玩樂、Icon Bali 商場、頂級 Spa 同高 CP 值住宿避雷指南](https://gobaligo.id/zh-hk/blog/sanur-guide/)
 
 ***
 
@@ -151,15 +151,15 @@ _srcHash: d5ed83e46534e95e6305550092449d3c
 
 - **塔曼阿雲皇家園林 (Taman Ayun)：** 參加巴龍舞蹈節，沉浸喺峇里舞蹈嘅優雅同戲劇性入面。園林本身都係建築傑作，適合文化愛好者。
 
-> [【2026 登巴薩攻略】走訪全球百大城市：峇里島首府文化、歷史與美食地圖](https://gobaligo.id/blog/denpasar-culture-guide/)
+> [【2026 登巴薩攻略】走訪全球百大城市：峇里島首府文化、歷史與美食地圖](https://gobaligo.id/zh-hk/blog/denpasar-culture-guide/)
 
 - **藍夢島 (Nusa Lembongan)：** 參加衝浪與音樂節，或者享受離島嘅寧靜同清澈海水。記住：9/27 海洋寧靜日要提早返去。
 
-> [【倫邦岸島/藍夢島景點攻略】探索藍夢島/金銀島景點、美食、交通：峇里島的鄰近天堂](https://gobaligo.id/blog/nusa-lembongan-ceningan-guide/)
+> [【倫邦岸島/藍夢島景點攻略】探索藍夢島/金銀島景點、美食、交通：峇里島的鄰近天堂](https://gobaligo.id/zh-hk/blog/nusa-lembongan-ceningan-guide/)
 
 - **庫塔 (Kuta)：** 暑假嘅人潮散咗，庫塔變得比較可愛。
 
-> [峇里島庫塔攻略玩樂指南：從衝浪、購物到 SPA，解鎖 50 個必訪熱點與旅遊秘訣](https://gobaligo.id/blog/kuta-guide/)
+> [峇里島庫塔攻略玩樂指南：從衝浪、購物到 SPA，解鎖 50 個必訪熱點與旅遊秘訣](https://gobaligo.id/zh-hk/blog/kuta-guide/)
 
 ***
 
@@ -186,15 +186,15 @@ _srcHash: d5ed83e46534e95e6305550092449d3c
 
 - **佩尼達島 (Nusa Penida)：** 參加島嶼節慶，欣賞天堂門、懸崖絕景同魔鬼魚。
 
-> [【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](https://gobaligo.id/blog/nusa-penida-guide/)
+> [【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](https://gobaligo.id/zh-hk/blog/nusa-penida-guide/)
 
 - **烏布中心區 (Ubud Center)：** 文學愛好者必訪。作家與讀者節期間烏布書店、咖啡廳同酒店都會舉辦相關活動。一定要早啲訂房。
 
-> [峇里島旅遊攻略：第一次到烏布要玩什麼？20個景點推薦 烏布攻略篇](https://gobaligo.id/blog/ubud-top-20-attractions-guide/)
+> [峇里島旅遊攻略：第一次到烏布要玩什麼？20個景點推薦 烏布攻略篇](https://gobaligo.id/zh-hk/blog/ubud-top-20-attractions-guide/)
 
 - **艾眉（Amed）同圖蘭奔 (Tulamben)：** 10 月底海況仲可以接受，好適合進行沉船潛水同水下攝影。
 
-[> [峇里島東北角秘境：艾眉 Amed 與土蘭奔 Tulamben 完整攻略：潛水、水宮與秘境全收集](https://gobaligo.id/blog/amed-tulamben-diving-guide/)
+[> [峇里島東北角秘境：艾眉 Amed 與土蘭奔 Tulamben 完整攻略：潛水、水宮與秘境全收集](https://gobaligo.id/zh-hk/blog/amed-tulamben-diving-guide/)
 
 ***
 
@@ -223,12 +223,12 @@ _srcHash: d5ed83e46534e95e6305550092449d3c
 
 - **烏倫達努寺 (Ulun Danu Temple) & 布拉坦湖 (Lake Bratan)：** 參加水神廟節，喺湖景寺廟嘅莊嚴儀式中靜思。11 月嘅雨令湖水更清澈，景色更迷幻。
 
-> [2026峇里島完整烏布攻略：100種深入認識烏布嘅方式｜探索烏布嘅魅力](https://gobaligo.id/blog/ubud-guide/)
+> [2026峇里島完整烏布攻略：100種深入認識烏布嘅方式｜探索烏布嘅魅力](https://gobaligo.id/zh-hk/blog/ubud-guide/)
 
 - **珍布拉娜西部地區 (Jembrana Regency)：** 參加竹筒音樂節同水牛賽。西峇里島相對遊客稀少，自然景觀原始，11 月綠景最濃。
 - **沙努爾 (Sanur)：** 全月節慶，包括食品展、瑜伽課、海洋活動同文化表演。呢個月沙努爾活力十足。
 
-[> 【峇里島親子景點】沙努爾攻略 Sanur 終極地圖：50+吃喝玩樂、Icon Bali 商場、頂級 Spa 與高 CP 值住宿避雷指南](https://gobaligo.id/blog/sanur-guide/)
+[> 【峇里島親子景點】沙努爾攻略 Sanur 終極地圖：50+吃喝玩樂、Icon Bali 商場、頂級 Spa 與高 CP 值住宿避雷指南](https://gobaligo.id/zh-hk/blog/sanur-guide/)
 
 - **德哥拉朗梯田 (Tegallalang Rice Terraces)：** 11月係梯田最翠綠嘅季節（水稻生長期），朝早或黃昏慢慢行最好。遊客少，光線柔和，好啱影相。
 
@@ -256,15 +256,15 @@ https://youtu.be/op78Dk8CjL4
 
 - **潘達瓦海灘 (Pandawa Beach)：** 參加海灘節同時享受南峇里島壯觀懸崖景觀。聖誕節期間潘達瓦海灘會佈置節慶氛圍。
 
-[> 【2026 峇里島南端全攻略】武吉半島秘境：金巴蘭夕陽、烏魯瓦圖斷崖同隱藏海灘大收集](https://gobaligo.id/blog/bukit-peninsula-guide/)
+[> 【2026 峇里島南端全攻略】武吉半島秘境：金巴蘭夕陽、烏魯瓦圖斷崖同隱藏海灘大收集](https://gobaligo.id/zh-hk/blog/bukit-peninsula-guide/)
 
 - **烏魯瓦圖 (Uluwatu)：** 12月嘅懸崖廟宇傍晚景色依然好壯觀。可以預約傳統舞蹈表演配埋夕陽，慶祝假期季開始。
 
-[> 【烏魯瓦圖攻略】Uluwatu烏魯瓦圖景點 50個吃喝玩樂推薦](https://gobaligo.id/blog/uluwatu-guide/)
+[> 【烏魯瓦圖攻略】Uluwatu烏魯瓦圖景點 50個吃喝玩樂推薦](https://gobaligo.id/zh-hk/blog/uluwatu-guide/)
 
 - **烏布 (Ubud)：** 雖然旺季嚟咗，但烏布依然保留住文化韻味。梯田翠綠，朝早行吓最正。可以參加瑜伽課程，享受身心靈療癒。
 
-[> 烏布嘅頌缽療癒/音療 Ubud Sound Healing/Singing Bowl Meditation](https://gobaligo.id/blog/ubud-sound-healing/)
+[> 烏布嘅頌缽療癒/音療 Ubud Sound Healing/Singing Bowl Meditation](https://gobaligo.id/zh-hk/blog/ubud-sound-healing/)
 
 - **登巴薩 (Denpasar)：** 參加登巴薩節，見證峇里島首府嘅年終慶祝同迎新氣氛。市集、音樂會同文化表演齊齊聚集。
 
@@ -313,10 +313,10 @@ https://youtu.be/op78Dk8CjL4
 
 ## 快速參考
 
-- [更多 2026 峇里島節慶整理](https://gobaligo.id/blog/2026-bali-festival-guide/)
-- [2026 峇里島自由行終極指南](https://gobaligo.id/blog/bali-ultimate-guide-2026/)
-- [峇里島雨季旅遊完整指南](https://gobaligo.id/blog/bali-rainy-season-travel-guide/)
-- [【2026 峇里島落雨/避太陽行程備案】落雨避太陽必睇！60 個超強室內行程](https://gobaligo.id/blog/2026-bali-indoor-activities/)
+- [更多 2026 峇里島節慶整理](https://gobaligo.id/zh-hk/blog/2026-bali-festival-guide/)
+- [2026 峇里島自由行終極指南](https://gobaligo.id/zh-hk/blog/bali-ultimate-guide-2026/)
+- [峇里島雨季旅遊完整指南](https://gobaligo.id/zh-hk/blog/bali-rainy-season-travel-guide/)
+- [【2026 峇里島落雨/避太陽行程備案】落雨避太陽必睇！60 個超強室內行程](https://gobaligo.id/zh-hk/blog/2026-bali-indoor-activities/)
 
 ***
 

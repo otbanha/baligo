@@ -44,8 +44,8 @@ Begitu sampai di Nusa Lembongan, kamu bakal langsung merasakan vibe yang beda ba
 
 **Ini bagian pertama dari panduan Nusa Lembongan / Nusa Ceningan. Mau tahu rekomendasi restoran dan penginapan terbaik di sini? Cek panduan berikut:**
 
-- [【Panduan Nusa Lembongan Bagian 2】Rekomendasi Kuliner](/blog/nusa-lembongan-restaurants/)
-- [【Panduan Nusa Lembongan Bagian 3】Rekomendasi Penginapan Terbaik](/blog/nusa-lembongan-ceningan-accommodation-guide/)
+- [【Panduan Nusa Lembongan Bagian 2】Rekomendasi Kuliner](/id/blog/nusa-lembongan-restaurants/)
+- [【Panduan Nusa Lembongan Bagian 3】Rekomendasi Penginapan Terbaik](/id/blog/nusa-lembongan-ceningan-accommodation-guide/)
 
 ![藍夢島/金銀島六大住宿區域](https://images.gobaligo.id/vocus/vocus_98e5ac2df0cf847a9ace93ee013d74e4.jpg)
 
@@ -143,7 +143,7 @@ Selain diving dan snorkeling, Nusa Lembongan juga punya banyak aktivitas air ser
 
 Kalau waktunya cukup, jangan lupa mampir ke Nusa Penida. Pulau yang lebih besar ini punya pemandangan alam yang super keren, misalnya Kelingking Beach yang terkenal dengan tebing berbentuk kepala dinosaurus. Selain itu, Broken Beach dan Angel's Billabong juga wajib kamu kunjungi. Pemandangan di sini bikin betah banget, apalagi buat kamu yang hobi foto — surga banget!
 
-Buat info lebih lengkap, cek panduan lengkap kami: «[Panduan Nusa Penida](/blog/nusa-penida-guide/)»
+Buat info lebih lengkap, cek panduan lengkap kami: «[Panduan Nusa Penida](/id/blog/nusa-penida-guide/)»
 
 ## Kuliner dan Kehidupan Malam di Pulau
 
@@ -153,7 +153,7 @@ Restoran dan beach club di Nusa Lembongan menawarkan pilihan makanan yang beraga
 
 ![島上美食與夜生活](https://images.gobaligo.id/vocus/vocus_4658ef6acc04406ea26445d61ca062df.jpg)
 
-Ada 30 rekomendasi restoran, bar, dan beach club di Nusa Lembongan/Ceningan nih: [【Panduan Nusa Lembongan Bagian 2】Artikel Kuliner](/blog/nusa-lembongan-restaurants/)
+Ada 30 rekomendasi restoran, bar, dan beach club di Nusa Lembongan/Ceningan nih: [【Panduan Nusa Lembongan Bagian 2】Artikel Kuliner](/id/blog/nusa-lembongan-restaurants/)
 
 ## Cara ke Sana
 

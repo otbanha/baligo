@@ -124,7 +124,7 @@ Uluwatu Temple is the ultimate choice for sunset lovers. Here’s why it’s the
 
 ![Uluwatu Temple’s Sunset Views](https://images.gobaligo.id/vocus/vocus_a3357e6294ca9b8324ea49d03103abbb.jpg)
 
-> Quick Reference: [【Mastering Bali Sunset Time: The Ultimate Viewing Guide】Seven Bali Sunset Spots—How Many Have You Visited?](/blog/bali-sunset-spots-guide/)
+> Quick Reference: [【Mastering Bali Sunset Time: The Ultimate Viewing Guide】Seven Bali Sunset Spots—How Many Have You Visited?](/en/blog/bali-sunset-spots-guide/)
 
 ***
 
@@ -156,9 +156,9 @@ Uluwatu Temple is the ultimate choice for sunset lovers. Here’s why it’s the
 
 ![蘇魯班海灘的介紹請點擊這裡！](https://images.gobaligo.id/vocus/vocus_1f543921995ff41fd729e05772f35ee4.jpg)
 
-[Click here for an introduction to Suluban Beach!](/blog/suluban-beach-hidden-gem/)
+[Click here for an introduction to Suluban Beach!](/en/blog/suluban-beach-hidden-gem/)
 
-If you're already in southern Bali, consider visiting these spots: **Garuda Wisnu Kencana (GWK), Suluban Beach, Pandawa Beach, Oneeighty Dayclub, and more. For details on these locations, check out our** [Bukit Peninsula Adventure Guide](/blog/bukit-peninsula-guide/)
+If you're already in southern Bali, consider visiting these spots: **Garuda Wisnu Kencana (GWK), Suluban Beach, Pandawa Beach, Oneeighty Dayclub, and more. For details on these locations, check out our** [Bukit Peninsula Adventure Guide](/en/blog/bukit-peninsula-guide/)
 
 ***
 
@@ -210,10 +210,10 @@ Many people come here specifically to watch the sunset, making the early evening
 
 **8. How to plan your trip to Uluwatu Temple in Bali?**
 
-For the hundreds of attractions in this area, **we've gathered them all in our** [Bukit Peninsula Adventure Guide](/blog/bukit-peninsula-guide/)
+For the hundreds of attractions in this area, **we've gathered them all in our** [Bukit Peninsula Adventure Guide](/en/blog/bukit-peninsula-guide/)
 
 ![武吉半島攻略指南請點我](https://images.gobaligo.id/vocus/vocus_c0550a000561d9e7a5ab19d076dfcba5.jpg)
 
-[Click here for the Bukit Peninsula Guide](/blog/bukit-peninsula-guide/)
+[Click here for the Bukit Peninsula Guide](/en/blog/bukit-peninsula-guide/)
 
 {{block:uluwatu}}

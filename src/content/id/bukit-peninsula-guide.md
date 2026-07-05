@@ -47,7 +47,7 @@ Kalau kamu lagi rencanain trip ke Bukit Peninsula, ini beberapa rekomendasi itin
 1. **Relax di Jimbaran**: Sesampainya di Jimbaran, check-in ke resor tepi pantai, lalu nikmati sinar matahari dan ombak di Pantai Jimbaran. Malamnya, santap seafood segar dengan dinner cahaya lilin di pinggir pantai sambil menikmati sunset yang memukau.
 2. **Eksplor Budaya Lokal**: Kunjungi Pasar Ikan Jimbaran untuk merasakan kehidupan nelayan setempat, lalu mampir ke Taman Budaya Garuda Wisnu Kencana (GWK) untuk melihat patung Garuda yang menjulang dan menikmati pameran budaya di area taman.
 3. **Nikmati Pemandangan & Suasana Surfing Uluwatu**: Pagi hari belajar surfing di Pantai Uluwatu, lalu lanjut mengunjungi Pura Uluwatu, dan cari restoran tebing untuk dinner sambil menikmati sunset.
-4. **Jelajahi Pantai Tersembunyi yang Indah**: Pantai rahasia di Uluwatu jadi tempat santai sore yang pas. Detailnya bisa cek di [Panduan Enam Pantai Tersembunyi Bali](/blog/bali-hidden-beaches-guide/).
+4. **Jelajahi Pantai Tersembunyi yang Indah**: Pantai rahasia di Uluwatu jadi tempat santai sore yang pas. Detailnya bisa cek di [Panduan Enam Pantai Tersembunyi Bali](/id/blog/bali-hidden-beaches-guide/).
 5. **Aktivitas Outdoor & Paralayang**: Pantai Pandawa adalah hidden gem, dan kamu juga bisa coba paralayang untuk melihat pemandangan spektakuler Bukit Peninsula dari ketinggian.
 
 Baik kamu pencari adrenalin yang suka surfing, atau traveler yang lebih suka suasana tenang dan santai, Semenanjung Bukit selalu punya pengalaman tak terlupakan buat setiap pengunjung. Keindahan alam dan budaya di sini berpadu sempurna, dari resort mewah sampai pura lokal, semuanya bikin betah berlama-lama.
@@ -66,13 +66,13 @@ Jimbaran punya salah satu pantai terindah di Bali. Selain jadi spot kece buat li
 
 https://youtube.com/shorts/tHRxnJqxqbw
 
-Ayana Resort adalah resort mewah terkenal di Bali, punya pemandangan tebing yang spektakuler dan akomodasi yang elegan. Yang jadi primadona adalah Rock Bar-nya, bar yang dibangun di tepi tebing langsung menghadap Samudra Hindia. Nikmatin sunset sambil minum cocktail khas di sini tuh pengalaman yang worth banget. Cek juga 【[Panduan Lengkap Ayana](/blog/ayana-resort-bali-guide/)】
+Ayana Resort adalah resort mewah terkenal di Bali, punya pemandangan tebing yang spektakuler dan akomodasi yang elegan. Yang jadi primadona adalah Rock Bar-nya, bar yang dibangun di tepi tebing langsung menghadap Samudra Hindia. Nikmatin sunset sambil minum cocktail khas di sini tuh pengalaman yang worth banget. Cek juga 【[Panduan Lengkap Ayana](/id/blog/ayana-resort-bali-guide/)】
 
 ### **Makan Malam Cahaya Lilin di Pantai Jimbaran**
 
 Pantai Jimbaran terkenal dengan dinner seafood cahaya lilin. Meja-meja berjejer di sepanjang pasir, bikin kamu bisa nikmatin ikan bakar segar, udang, dan hidangan lezat lainnya ditemani sunset yang romantis. Suara ombak dan cahaya senja bikin suasananya pas banget buat pasangan atau keluarga yang mau quality time.
 
-> [Rekomendasi 11 Restoran Seafood di Jimbaran Bali Anti Gagal](/blog/jimbaran-seafood-restaurants-list/)
+> [Rekomendasi 11 Restoran Seafood di Jimbaran Bali Anti Gagal](/id/blog/jimbaran-seafood-restaurants-list/)
 
 ### **Garuda Wisnu Kencana Cultural Park (GWK Plaza)**
 
@@ -84,9 +84,9 @@ Jimbaran adalah pilihan sempurna yang menggabungkan kemewahan resort, romantisme
 
 ### Mau lihat lebih banyak rekomendasi tempat dan penginapan di Jimbaran? Cek di sini:
 
-> 【[Panduan Liburan Jimbaran Bali: 30 Tempat Seru Wajib Dikunjungi｜Travel Guide 2025](/blog/jimbaran-guide/)】
+> 【[Panduan Liburan Jimbaran Bali: 30 Tempat Seru Wajib Dikunjungi｜Travel Guide 2025](/id/blog/jimbaran-guide/)】
 
-> 【[Rekomendasi Penginapan Bali: Jimbaran dengan Pemandangan Laut yang Nggak Ada Matinya](/blog/2023-11-09-654c6271fd8978000174ff5e/)】
+> 【[Rekomendasi Penginapan Bali: Jimbaran dengan Pemandangan Laut yang Nggak Ada Matinya](/id/blog/2023-11-09-654c6271fd8978000174ff5e/)】
 
 ***
 
@@ -110,9 +110,9 @@ Uluwatu itu perpaduan antara pemandangan alam yang spektakuler dan aktivitas bud
 
 ### Mau lihat rekomendasi tempat wisata dan penginapan di Uluwatu lainnya? Cek di sini:
 
-> [【Panduan Uluwatu】Rekomendasi Tempat Wisata, Makan, dan Seru-seruan di Uluwatu](/blog/uluwatu-guide/)
+> [【Panduan Uluwatu】Rekomendasi Tempat Wisata, Makan, dan Seru-seruan di Uluwatu](/id/blog/uluwatu-guide/)
 
-> [【Rekomendasi 12 Villa & Resort Pribadi dengan Pemandangan Laut di Uluwatu】](/blog/uluwatu-bali-villas-resorts-guide/)
+> [【Rekomendasi 12 Villa & Resort Pribadi dengan Pemandangan Laut di Uluwatu】](/id/blog/uluwatu-bali-villas-resorts-guide/)
 
 ***
 
@@ -142,9 +142,9 @@ Restoran premium di Nusa Dua nawarin banyak pilihan makanan, dari lokal sampai i
 
 Lebih lengkap soal tempat wisata dan rekomendasi hotel di Nusa Dua, cek di sini:
 
-【[Nusa Dua & Tanjung Benoa: Panduan Lengkap 40 Pilihan Akomodasi, Kuliner, dan Aktivitas Seru di Bali](/blog/nusa-dua-guide/)】
+【[Nusa Dua & Tanjung Benoa: Panduan Lengkap 40 Pilihan Akomodasi, Kuliner, dan Aktivitas Seru di Bali](/id/blog/nusa-dua-guide/)】
 
-【[Bali Nusa Dua 16 Rekomendasi Resort Bintang Lima Terbaik](/blog/nusa-dua-resorts-guide/)】
+【[Bali Nusa Dua 16 Rekomendasi Resort Bintang Lima Terbaik](/id/blog/nusa-dua-resorts-guide/)】
 
 {{block:住宿}}
 
@@ -168,7 +168,7 @@ Uluwatu terkenal banget sama pantai selancarnya yang kece. Kalau kamu tertarik s
 
 Waktu makan siang, mending mampir ke kafe atau restoran dengan pemandangan laut di dekat pantai buat nikmatin seafood lokal segar, rileks sejenak, dan isi energi buat lanjut perjalanan.
 
-Di video atas tentang Suluban Beach, kami punya panduan lengkap, cek [di sini](/blog/suluban-beach-hidden-gem/)
+Di video atas tentang Suluban Beach, kami punya panduan lengkap, cek [di sini](/id/blog/suluban-beach-hidden-gem/)
 
 ### **Sore: Waktu Indah di SPA & Beach Club**
 
@@ -185,7 +185,7 @@ Beach club terkenal di Uluwatu:
 
 > Beberapa promo dari Klook:
 
-> [Eksplorasi Oneeighty Day Club: Kolam Renang Tepi Tebing dengan Pemandangan Epik di Bali](/blog/oneeighty-dayclub-uluwatu-pool/)
+> [Eksplorasi Oneeighty Day Club: Kolam Renang Tepi Tebing dengan Pemandangan Epik di Bali](/id/blog/oneeighty-dayclub-uluwatu-pool/)
 > [Bioskop Pantai di Sundays Beach Club](https://affiliate.klook.com/redirect?aid=116349&aff_adid=824250&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87420-movies-beach-sundays-beach-club-ticket-south-kuta-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Df4560cf9b5)
 > [Day Pass White Rock Beach Club](https://affiliate.klook.com/redirect?aid=116349&aff_adid=824250&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F83057-white-rock-beach-club-day-pass-ungasan-south-kuta-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Df61191150c)
 > [Day Pass TT Beach Club](https://affiliate.klook.com/redirect?aid=116349&aff_adid=824250&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F75203-tt-beach-club-pass-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6e40188c16)
@@ -195,7 +195,7 @@ Beach club terkenal di Uluwatu:
 
 Saat matahari terbenam di Pura Uluwatu, kamu bisa nonton pertunjukan **Tari Kecak (Kecak Dance)** yang legendaris. Tarian tradisional ini menggabungkan gerak, musik, dan drama, yang menceritakan kisah epik India kuno, Ramayana. Dengan latar senja yang memukau, penampilan para penari jadi makin dramatis dan mistis.
 
-Buat yang penasaran sama pertunjukan Hindu yang terkenal ini, bisa [klik di sini](/blog/kecak-fire-dance-bali/), kami udah bahas detailnya. Ini tontonan yang hampir semua orang bilang worth it banget!
+Buat yang penasaran sama pertunjukan Hindu yang terkenal ini, bisa [klik di sini](/id/blog/kecak-fire-dance-bali/), kami udah bahas detailnya. Ini tontonan yang hampir semua orang bilang worth it banget!
 
 Buat kamu yang pengen nonton pertunjukan tari api, bisa cek paket wisata populer di Klook di bawah ini. Pesan tiket lewat Klook, dijamin gampang dan bisa nikmatin pertunjukan tari api yang spektakuler!
 
@@ -241,13 +241,13 @@ Kalau masih ada waktu, mampir ke spot hits yang lagi viral di kawasan Uluwatu, n
 
 ![Sore: Relaksasi SPA](https://images.gobaligo.id/vocus/vocus_46d76bd229be43ff141a38c7465377ec.jpg)
 
-[Batu Barak 藍色公路最新介紹](/blog/pandawa-beach-traffic-policy/)
+[Batu Barak 藍色公路最新介紹](/id/blog/pandawa-beach-traffic-policy/)
 
 ### **Sore: Makan Siang Seafood di Pantai Jimbaran**
 
 Sampai di Jimbaran, pas matahari mau tenggelam jangan sampai kelewatan buat dinner romantis di pantai. Sembari mentari perlahan tenggelam ke garis laut, kamu bisa nikmatin makan malam seafood dengan lilin di restoran pinggir pantai, cobain lobster, ikan, dan kerang paling segar. Ditambah suara ombak dan pemandangan sunset yang cantik, ini bakal jadi salah satu momen makan malam paling berkesan di Bali.
 
-Biar dapet makanan enak, pemandangan kece, tanpa zonk atau kena tipu harga, cek aja rekomendasi kami di 「[11 Restoran Seafood Jimbaran Bali: Rekomendasi Anti Zonk](/blog/jimbaran-seafood-restaurants-list/)」
+Biar dapet makanan enak, pemandangan kece, tanpa zonk atau kena tipu harga, cek aja rekomendasi kami di 「[11 Restoran Seafood Jimbaran Bali: Rekomendasi Anti Zonk](/id/blog/jimbaran-seafood-restaurants-list/)」
 
 {{block:klook}}
 

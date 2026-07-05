@@ -46,7 +46,7 @@ When heavy rain hit, we quickly drove away from the beach! Passing through some 
 
 Next, let's talk about **the challenges and surprises of the rainy season**. Yes, we experienced intermittent rain on five out of seven days. However, the rainy season isn't all inconvenience—it brought several benefits: cooler and more comfortable temperatures, lush greenery, and fewer tourists, avoiding crowded scenes. Of course, sudden downpours require quick adaptation (like the one in the attached photo that had us 'fleeing' from the beach, which now seems hilarious 🤣🤣). Interestingly, weather forecasts seem to be just a reference. For example, in Kuta, despite receiving a **heavy rain warning**, we mostly enjoyed sunny days during our two-day stay, with only occasional evening showers. This taught us that in Bali, rather than worrying about the weather, it's better to maintain flexibility in our itinerary. Our strategy was to always have **rainy day alternatives** ready, such as switching to indoor attractions, museums, art galleries, or markets, keeping our plans adaptable. The sound of rain became white noise accompanying our journey.
 
-> **Quick Reference:** [Bali Rainy Season: What to Do When It Rains? 60 Rainy Day Activities in Bali](/blog/2026-bali-indoor-activities/)
+> **Quick Reference:** [Bali Rainy Season: What to Do When It Rains? 60 Rainy Day Activities in Bali](/en/blog/2026-bali-indoor-activities/)
 
 Of course, there were some aspects of the trip that required adjustment: urban traffic isn't very pedestrian-friendly, crossing streets felt like playing a real-life version of 'Frogger'; and the countless zeros on Indonesian Rupiah bills nearly overheated my brain's CPU during currency conversions ♨️
 
@@ -62,7 +62,7 @@ Upon arriving at our booked **Villa** in Ubud, the fatigue of the journey was in
 
 ![Day 1: Arrival in Ubud, A Relaxing Prelude at Our Villa](https://images.gobaligo.id/vocus/vocus_fc948ca985ea8069ac9dd4b23dbc3d0e.jpg)
 
-> **Quick Reference:** [Bali Group Villa Stay: Recommended Villas with 3+ Bedrooms for Families](/blog/bali-group-villa-stay/)
+> **Quick Reference:** [Bali Group Villa Stay: Recommended Villas with 3+ Bedrooms for Families](/en/blog/bali-group-villa-stay/)
 
 ### **Day 2: A Journey of Spiritual Cleansing, Volcanic Views, and Culinary Exploration**
 
@@ -72,7 +72,7 @@ This day was packed with a rich mix of cultural and natural contrasts.
 
 ![Day 2: A Journey of Spiritual Cleansing, Volcanic Views, and](https://images.gobaligo.id/vocus/vocus_b60719f084e134a94fa7186d3e2c18f7.jpg)
 
-> **Quick Reference:** [Tirta Empul Temple Complete Guide: Bali's Most Sacred Purification Experience](/blog/tirta-empul-temple-guide/)
+> **Quick Reference:** [Tirta Empul Temple Complete Guide: Bali's Most Sacred Purification Experience](/en/blog/tirta-empul-temple-guide/)
 
 🔱💦 Tirta Empul Temple in Ubud, Bali, is renowned for its purification rituals 🙏 and sacred spring water 💧, believed to bring blessings and good fortune ✨ to devotees and visitors alike! ▶ [Klook Exclusive Deals](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)
 
@@ -80,13 +80,13 @@ This day was packed with a rich mix of cultural and natural contrasts.
 
 ![Day 2: A Journey of Spiritual Cleansing, Volcanic Views, and](https://images.gobaligo.id/vocus/vocus_8de97539719cb37d06c510346db2230d.jpg)
 
-> **Quick Reference:** [13 Best Volcano Cafes/Restaurants in Kintamani, Bali 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
+> **Quick Reference:** [13 Best Volcano Cafes/Restaurants in Kintamani, Bali 🌄☕](/en/blog/kintamani-volcano-cafes-restaurants/)
 
 - **Penglipuran Village:** After lunch, we visited Penglipuran Village. Compared to popular tourist spots, it felt much quieter, allowing us to experience the rhythm of traditional Balinese village life. Strolling through, we saw villagers focused on handicrafts or chatting leisurely, as if time itself had slowed down.
 
 ![Day 2: A Journey of Spiritual Cleansing, Volcanic Views, and](https://images.gobaligo.id/vocus/vocus_3638ed5e8a2500e413dca3df549ac608.jpg)
 
-> **Quick Reference:** [Step Back in Time at Penglipuran Village: Experience Bali's Ancient Charm](/blog/penglipuran-village-bali-experience/)
+> **Quick Reference:** [Step Back in Time at Penglipuran Village: Experience Bali's Ancient Charm](/en/blog/penglipuran-village-bali-experience/)
 
 🏘️✨ Penglipuran Village — Bali's most beautiful traditional village, preserving authentic Balinese culture 🌺, known for its clean streets 🛤️, bamboo groves 🎋, and traditional architecture 🏛️, hailed as "Indonesia's Cleanest Village" 🧹! ▶[Klook Deals](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1207087&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dpenglipuran)
 
@@ -112,7 +112,7 @@ This day’s itinerary was full of contrasts and surprises, taking us from fores
 
 ![Day 3: Between Nature’s Spirit and Urban Buzz](https://images.gobaligo.id/vocus/vocus_a804dbb47152b6d827a07473286d114f.jpg)
 
-> **Quick Reference:** [Bali Rice Terraces Comparison: Tegalalang vs Jatiluwih | Ticket Prices, Best Time to Visit](/blog/bali-rice-terraces-comparison/)
+> **Quick Reference:** [Bali Rice Terraces Comparison: Tegalalang vs Jatiluwih | Ticket Prices, Best Time to Visit](/en/blog/bali-rice-terraces-comparison/)
 
 - **Wisata Kayu Putih Sacred Tree:** Compared to other spots, the sacred tree was a delightful surprise! This massive Kayu Putih tree exudes a solemn and spiritual energy. Standing beneath it, one feels incredibly small. The surrounding forest trail is serene, and the air seems to carry a calming force, **instantly grounding your mind—it was the highlight of the day**. Highly recommended for travelers who love nature and tranquility.
 
@@ -122,7 +122,7 @@ This day’s itinerary was full of contrasts and surprises, taking us from fores
 
 ![Day 3: Between Nature’s Spirit and Urban Buzz](https://images.gobaligo.id/vocus/vocus_d83da6954901731170a3f42382dc19f8.jpg)
 
-> **Quick Reference:** [Ubud Royal Palace: A Cultural Gem of Bali | Opening Hours, Tickets, Performances, Nearby Attractions, Day Trip Recommendations](/blog/ubud-royal-palace-tour-guide/)
+> **Quick Reference:** [Ubud Royal Palace: A Cultural Gem of Bali | Opening Hours, Tickets, Performances, Nearby Attractions, Day Trip Recommendations](/en/blog/ubud-royal-palace-tour-guide/)
 
 - **Lunch: Jatiluwih Resto**
   Dining at this restaurant next to the rice terraces offers stunning views. Enjoying simple dishes made with local ingredients while gazing at the endless terraces adds a rustic charm to the meal.
@@ -136,14 +136,14 @@ This day’s itinerary was full of contrasts and surprises, taking us from fores
 
 ![Day 3: Between Nature’s Spirit and Urban Buzz](https://images.gobaligo.id/vocus/vocus_37891f30f3e1e93406a35d99756c09cd.jpg)
 
-> **Quick Reference:** [Taman Dedari: Ubud Dining with a View](/blog/taman-dedari-ubud-food-scenery/)
+> **Quick Reference:** [Taman Dedari: Ubud Dining with a View](/en/blog/taman-dedari-ubud-food-scenery/)
 
 🌸✨ Taman Dedari—a hidden gem in Bali🏞️, featuring a dreamy giant fairy statue💦, a natural pool🏊, and lush tropical rainforest views🌿, making it an ideal retreat for relaxation🧘‍♀️! ▶[Klook Dining Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1207087&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F93907-taman-dedari-ubud-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D44efaec6e5)
 
 - **Evening: Villa Spa**
   Back at the villa, we indulged in another private spa session. Relaxing in a familiar setting, listening to the sounds of nature at night, is the perfect way to unwind after a long day.
 
-> **Quick Reference:** How to [Villa/Hotel Private Spa Guide](/blog/spa/)
+> **Quick Reference:** How to [Villa/Hotel Private Spa Guide](/en/blog/spa/)
 
 ### **Day 4: Exploring the Rustic Villages and Coastal Scenery of the East Coast**
 
@@ -175,11 +175,11 @@ On the fifth day of our journey, we arranged the activity most anticipated by th
 
 ATV might not be suitable for the elderly and children under 7, as it's too thrilling and there's a risk of falling off 😄
 
-> **Quick Reference:** [Bali ATV Quad Bike Adventure: Experience the Thrill and Freedom of a Tropical Paradise (Reminders + FAQ + Operator Recommendations)](/blog/bali-atv-adventure-guide/)
+> **Quick Reference:** [Bali ATV Quad Bike Adventure: Experience the Thrill and Freedom of a Tropical Paradise (Reminders + FAQ + Operator Recommendations)](/en/blog/bali-atv-adventure-guide/)
 
 - **Final Tour of Ubud and Massage:** In the afternoon, we returned to Ubud for some last-minute shopping to complete our souvenir collection. Afterwards, we indulged in another massage session. This time, we tried **foot reflexology**, and the precise pressure applied by the masseuse provided instant relief for our tired feet. **The soothing sensation that spread from the feet throughout the body was incredibly satisfying.**
 - **Lunch/Dinner: This is Bali**
-  The name of this restaurant says it all. We enjoyed a mix of Western and Indonesian cuisine here. The relaxed atmosphere and diverse menu options catered to the different tastes of our entire family, making it an excellent energy recharge spot for the day. (Location included in the [Ubud Guide Map](/blog/ubud-guide/))
+  The name of this restaurant says it all. We enjoyed a mix of Western and Indonesian cuisine here. The relaxed atmosphere and diverse menu options catered to the different tastes of our entire family, making it an excellent energy recharge spot for the day. (Location included in the [Ubud Guide Map](/en/blog/ubud-guide/))
 
 {{block:ubud}}
 
@@ -214,7 +214,7 @@ We stayed at the Amnaya Resort Kuta, a winner of the **2025 Agoda Travelers' Cho
 - **Villa Check-out and Bintang Supermarket:** Reluctantly, we bid farewell to our cozy villa where we had stayed for several days and headed to the large chain supermarket **Bintang Supermarket** for our final shopping spree. This is a great place to buy coffee, snacks, sauces, and other souvenirs, with a wide selection and transparent pricing.
 - **Tanah Lot Temple:** On our way to Kuta, we stopped by the iconic Tanah Lot Temple. Despite the crowds, the temple perched on a sea rock was still awe-inspiring. We walked closer during low tide, feeling the power of the crashing waves, and took some classic souvenir photos.
 
-> **Quick Reference:** [Must-Visit Bali Attraction: Tanah Lot Temple Detailed Guide with Tide Information and Nearby Attractions](/blog/bali-tanah-lot-guide/)
+> **Quick Reference:** [Must-Visit Bali Attraction: Tanah Lot Temple Detailed Guide with Tide Information and Nearby Attractions](/en/blog/bali-tanah-lot-guide/)
 
 > 🛕🌊🌅 Tanah Lot Temple, Bali's must-visit sunset sanctuary, where you can admire the magnificent sea views and immerse yourself in the spiritual atmosphere ▶[Klook Discount](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
 
@@ -245,11 +245,11 @@ The journey came to an end.
 
 Based on our firsthand experience, we've summarized the following tips for friends planning to visit in the future:
 
-1. **Currency Exchange:** Locally, **the exchange rate for USD to Indonesian Rupiah is usually better than using NT$ or other currencies**. It's advisable to carry USD cash and exchange it at reputable money changers in the city. **Quick Reference:**[Indonesia/Bali Travel Currency Exchange Guide: What currency is used in Indonesia/Bali? How to get the best exchange rate? Where is the best place to exchange money?](/blog/bali-currency-exchange-guide/)
-2. **Internet:** The **DJB physical SIM card** we used was very stable, ensuring smooth internet throughout our trip for navigation, communication, and information lookup, proving to be highly reliable. **Quick Reference:**[Essential for Bali Travel: How to Get Bali Internet/SIM Card/eSIM?](/blog/bali-sim-card-esim-roaming-guide/)
+1. **Currency Exchange:** Locally, **the exchange rate for USD to Indonesian Rupiah is usually better than using NT$ or other currencies**. It's advisable to carry USD cash and exchange it at reputable money changers in the city. **Quick Reference:**[Indonesia/Bali Travel Currency Exchange Guide: What currency is used in Indonesia/Bali? How to get the best exchange rate? Where is the best place to exchange money?](/en/blog/bali-currency-exchange-guide/)
+2. **Internet:** The **DJB physical SIM card** we used was very stable, ensuring smooth internet throughout our trip for navigation, communication, and information lookup, proving to be highly reliable. **Quick Reference:**[Essential for Bali Travel: How to Get Bali Internet/SIM Card/eSIM?](/en/blog/bali-sim-card-esim-roaming-guide/)
 3. **Shopping Comparison:** **Supermarket prices aren't necessarily cheaper than those at stalls**, especially for souvenirs. Stalls usually allow bargaining, while supermarkets have fixed prices. It's recommended to compare between the two based on the type of goods before purchasing.
-4. **Transportation:** For short distances within the city or spontaneous rides, **Gojek or Grab ride-hailing apps are very convenient and affordable**, serving as a great alternative to private car rentals. **Quick Reference:**[Grab or Gojek? Comprehensive Guide to Registering, Using, and Topping Up Gojek and GoPay in Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
-5. **Mosquito & Insect Protection:** Bali has **quite a few flies and mosquitoes**, especially near fields or in the evening. **Mosquito repellent is an absolute daily necessity**, so be sure to carry it with you and reapply regularly. **Quick Reference:**[What Essential Medicines/Supplies Should You Bring for Bali Travel? How to Buy Mosquito Repellent/Sunscreen?](/blog/bali-travel-medicine-checklist/)
+4. **Transportation:** For short distances within the city or spontaneous rides, **Gojek or Grab ride-hailing apps are very convenient and affordable**, serving as a great alternative to private car rentals. **Quick Reference:**[Grab or Gojek? Comprehensive Guide to Registering, Using, and Topping Up Gojek and GoPay in Indonesia/Bali](/en/blog/indonesia-gojek-gopay-guide/)
+5. **Mosquito & Insect Protection:** Bali has **quite a few flies and mosquitoes**, especially near fields or in the evening. **Mosquito repellent is an absolute daily necessity**, so be sure to carry it with you and reapply regularly. **Quick Reference:**[What Essential Medicines/Supplies Should You Bring for Bali Travel? How to Buy Mosquito Repellent/Sunscreen?](/en/blog/bali-travel-medicine-checklist/)
 6. **Gut Health (Tested & Effective):** To avoid stomach issues, we strictly followed these practices, and no one in our group experienced discomfort:
 7. - **Take a probiotic every morning on an empty stomach**.
 
@@ -282,6 +282,6 @@ Did you find [Lin Konglong's](https://www.facebook.com/share/p/1DMYqVwzhq/) itin
 
 Click here to explore more amazing Bali travel stories
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
 
 {{block:攻略}}

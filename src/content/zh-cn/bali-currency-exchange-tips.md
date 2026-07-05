@@ -82,11 +82,11 @@ _srcHash: c3f4c28f6e3a55c890e576444d03d2cd
 
 快速参考:
 
-> [印尼/巴厘岛旅游换汇懒人包：印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？](/blog/bali-currency-exchange-guide/)
+> [印尼/巴厘岛旅游换汇懒人包：印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？](/zh-cn/blog/bali-currency-exchange-guide/)
 
 **快速参考：**
 
-- [巴厘岛美金汇率：大钞还是小钞？换汇攻略大公开！](/blog/bali-usd-exchange-rate/)
-- [巴厘岛换钱血泪史：团友亲身经历揭密，千万别贪小便宜！](/blog/bali-money-exchange-scams-2/)
+- [巴厘岛美金汇率：大钞还是小钞？换汇攻略大公开！](/zh-cn/blog/bali-usd-exchange-rate/)
+- [巴厘岛换钱血泪史：团友亲身经历揭密，千万别贪小便宜！](/zh-cn/blog/bali-money-exchange-scams-2/)
 
 ---

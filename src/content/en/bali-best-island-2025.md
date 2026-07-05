@@ -43,9 +43,9 @@ From daily offerings and the sounds of gamelan music to the Tirta Empul temple o
 
 **Quick Reference:**
 
-- [Bali's Offering Tradition: Canang Sari](/blog/bali-canang-sari-explained/)
-- [【2025】Tirta Empul Temple Complete Guide: Bali's Most Sacred Purification Water Temple Experience](/blog/tirta-empul-temple-guide/)
-- [【Bali Spiritual Healing/Journey】When *Eat Pray Love* Became My Real Life](/blog/eat-pray-love-bali-spiritual-journey/)
+- [Bali's Offering Tradition: Canang Sari](/en/blog/bali-canang-sari-explained/)
+- [【2025】Tirta Empul Temple Complete Guide: Bali's Most Sacred Purification Water Temple Experience](/en/blog/tirta-empul-temple-guide/)
+- [【Bali Spiritual Healing/Journey】When *Eat Pray Love* Became My Real Life](/en/blog/eat-pray-love-bali-spiritual-journey/)
 
 ### ✨ **Diverse Travel Experiences**
 
@@ -55,7 +55,7 @@ From yoga and meditation in Ubud to chic boutiques in Seminyak, sunset seafood d
 
 **Quick Reference:**
 
-- [What outdoor activities can you do in Bali? 50 most popular outdoor experiences](/blog/bali-top-50-outdoor-activities/)
+- [What outdoor activities can you do in Bali? 50 most popular outdoor experiences](/en/blog/bali-top-50-outdoor-activities/)
 
 ### ✨ **The Warmth of Human Connection**
 
@@ -79,7 +79,7 @@ From the ethereal views at Lempuyang Temple (the Gates of Heaven) to the sweepin
 
 **Quick Reference:**
 
-- [2025 Bali Attractions Map Guide: 500 Top Bali Spots All in One Place](/blog/bali-top-500-attractions/)
+- [2025 Bali Attractions Map Guide: 500 Top Bali Spots All in One Place](/en/blog/bali-top-500-attractions/)
 
 ***
 
@@ -99,4 +99,4 @@ It comes down to cultural depth (living traditions and temple ceremonies), diver
 
 ## Where should first-timers start planning their Bali trip?
 
-Start with the [500 top attractions map guide](/blog/bali-top-500-attractions/) to get a full picture of the island's layout, then choose your base based on your interests: Ubud (culture and wellness), Seminyak (boutique shopping), or Jimbaran (seaside dining and views).
+Start with the [500 top attractions map guide](/en/blog/bali-top-500-attractions/) to get a full picture of the island's layout, then choose your base based on your interests: Ubud (culture and wellness), Seminyak (boutique shopping), or Jimbaran (seaside dining and views).

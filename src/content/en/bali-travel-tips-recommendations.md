@@ -46,7 +46,7 @@ This time, we chose Peppers Villa, which recently joined the Accor group. Locate
 
 > Editor's note: We also recommend the [Peppers Seminyak Spa Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97308-spa-at-peppers-seminyak-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D36822d6253)
 
-> Further reading: [Detailed Chinese review of Peppers Seminyak on this site](https://gobaligo.id/blog/seminyak-private-villas-guide/#peppers-seminyak---%E4%B8%96%E7%95%8C%E7%B4%9A%E8%B1%AA%E8%8F%AF%E9%AB%94%E9%A9%97)
+> Further reading: [Detailed Chinese review of Peppers Seminyak on this site](https://gobaligo.id/en/blog/seminyak-private-villas-guide/#peppers-seminyak---%E4%B8%96%E7%95%8C%E7%B4%9A%E8%B1%AA%E8%8F%AF%E9%AB%94%E9%A9%97)
 
 > Peppers Seminyak rates & availability: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=90309) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1200024&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxMLFJMEk1c3C8Xv_hKdsQoxGBvIWXwUdW18H7pBjnuzgKQ9i2U53COCJmHLg-TT2RK_qZn2fI4EOjYxLCmy5rie7O3QxsoKlZjDOmO-5kTENBF4VOOxgZDrB-N90AdPnkyu1T7Ewc7zgvMTylSm6Wik7tVLJykRHqSSzJCdVyUrp2Zzep90zX2zaraSjlJJanAwUArISc_NL80qAbDNTCz0DA6BISWKFZ4qSlbmOUnJiTnJpTmJJakhlAdAEMx2lzGLnkqLMgqDU3MySklSgqrTEnOJUkHhQajFQJhksqOQHNKYIKpCZnwfRboAiFpaYU5oKcQLQQrdUqB3GtTqYLn-6aN7Thj3PV7Rid7mpJarLTQbE5Ya1sY9YmKJjP7Ew_GJhaGJl6GJl5jjFNAlI_jfdxcoTYurqF2mpa6gbpWt4gfWkhZS8oYGBgamhsamprkGipUWScaKBromliZGlqa6hobGJkcahxneNT42NrKUgEa_AqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzdXY3MzcMsqGi9nTJUjw3n-WXG1lS3sp5pBwF8WVN5nXHphw2l4LJGcIkwu0-CLG_95ygX1kXreRdMqk0_ZJrFUZuiHhGb3iBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUA-7eDov4CAAA&masterhotelid_tracelogid=100051355-0a98b3a0-494295-11342&detailFilters=17|1~17~1*31|1200024~31~1200024*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=264&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/aVlkTHog)
 
@@ -80,13 +80,13 @@ Oneeighty Day Club (photo by June Lin)
 
 We specifically booked the VIP area at Oneeighty Day Club and got front-row seats—it felt great. The reservation fee plus meal cost came to about USD$48 per person. While it wasn't cheap, the food was surprisingly delicious, and the service was very attentive. The infinity pool here is quite deep at 1.7 meters, so we just snapped a few photos by the poolside before focusing on enjoying the meal. Overall, I'd give this dining experience a 95 out of 100.
 
-> Booking methods, pricing, and video guide: [Explore Oneeighty Day Club: Bali's Cliffside Infinity Pool with Stunning Views](/blog/oneeighty-dayclub-uluwatu-pool/)
+> Booking methods, pricing, and video guide: [Explore Oneeighty Day Club: Bali's Cliffside Infinity Pool with Stunning Views](/en/blog/oneeighty-dayclub-uluwatu-pool/)
 
 ### Cretya Ubud
 
 Cretya Ubud is Ubud's famous swing restaurant, and it was much tastier than I expected—the flavors and textures of the dishes exceeded my imagination. As for the swing photos, this place has practically become a global hotspot for women seeking that perfect Instagram shot. Early in the morning, the swings were already crowded with people eager to take pictures. I'd suggest skipping the highest swing; the smaller ones actually look better in photos. Our group ended up with a bunch of hilarious terrified expressions, which was pretty funny. I'd rate the food 90 out of 100 and the Instagram experience 70 out of 100.
 
-> Further reading: [Luxury on a Budget: Cretya Ubud Pool Club and Alas Harum Spending Guide](/blog/cretya-ubud-alas-harum-budget-guide/)
+> Further reading: [Luxury on a Budget: Cretya Ubud Pool Club and Alas Harum Spending Guide](/en/blog/cretya-ubud-alas-harum-budget-guide/)
 
 ### Ku De Ta
 
@@ -96,7 +96,7 @@ Ku De Ta (photo by June Lin)
 
 Ku De Ta is one of Seminyak's beachfront restaurant series, where you can enjoy delicious food while watching a beautiful sunset. The service is good, and the live music perfectly complements the atmosphere, making it very relaxing. After your meal, you can take a stroll on the beach. Dinner prices are also very reasonable, around USD$16-19 per person—you probably couldn't get such good food in Taiwan for that price. I'd give this restaurant a 90 out of 100.
 
-> [Ku De Ta Guide](/blog/ku-de-ta-beach-club/)
+> [Ku De Ta Guide](/en/blog/ku-de-ta-beach-club/)
 
 > Ku De Ta [Sofa Bed Booking](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1004596&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F135291-kudeta-beach-club-in-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D67569d3aa6)
 

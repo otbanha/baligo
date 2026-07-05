@@ -36,11 +36,11 @@ _srcHash: 90a3fab2c5905e114d7afaff8dd456bf
 
 ![冇標準答案嘅旅行](https://images.gobaligo.id/vocus/vocus_104bf07d3e6737f9d056a85f8714c32b.png)
 
-**快速參考：**[【掌握峇里島日落時間最佳觀賞指南】七大峇里島日落夕陽觀賞地點，你去過幾個？](/blog/bali-sunset-spots-guide/)
+**快速參考：**[【掌握峇里島日落時間最佳觀賞指南】七大峇里島日落夕陽觀賞地點，你去過幾個？](/zh-hk/blog/bali-sunset-spots-guide/)
 
 ![冇標準答案嘅旅行](https://images.gobaligo.id/vocus/vocus_2634825130a33ed12c76424c2ef48c7e.png)
 
-**快速參考：**[峇里島20個免費入場嘅海灘俱樂部 享受比基尼、音樂、泳池、夕陽美景](/blog/bali-beach-clubs-free-entry-list/)
+**快速參考：**[峇里島20個免費入場嘅海灘俱樂部 享受比基尼、音樂、泳池、夕陽美景](/zh-hk/blog/bali-beach-clubs-free-entry-list/)
 
 當然，都有唔少人係為咗嗰啲Instagram上嘅熱門打卡點而嚟 - 海神廟嘅浪花、德格拉朗梯田嘅綠意、仲有網美鞦韆、咖啡廳嘅精緻早餐等。而冒險愛好者們則可能更愛火山健行、潛水探索海底世界，或者體驗刺激嘅泛舟活動。
 
@@ -48,8 +48,8 @@ _srcHash: 90a3fab2c5905e114d7afaff8dd456bf
 
 **快速參考：**
 
-- [峇里島戶外活動玩咩？50種最受歡迎嘅戶外體驗](/blog/bali-top-50-outdoor-activities/)
-- [峇里島水上活動完整指南｜峇里島唔只浮潛！15種意想不到嘅水上玩法](/blog/2026-bali-water-activities/)
+- [峇里島戶外活動玩咩？50種最受歡迎嘅戶外體驗](/zh-hk/blog/bali-top-50-outdoor-activities/)
+- [峇里島水上活動完整指南｜峇里島唔只浮潛！15種意想不到嘅水上玩法](/zh-hk/blog/2026-bali-water-activities/)
 
 ## 先問自己呢個問題
 
@@ -61,8 +61,8 @@ _srcHash: 90a3fab2c5905e114d7afaff8dd456bf
 - **想影靚相？** 準備好相機，由天空之門到盪鞦韆，峇里島嘅打卡聖地等緊你
 - **想挑戰自己？** 巴杜爾火山日出行山、藍夢島潛水、阿勇河泛舟都係唔錯嘅選擇
 - **想帶細路親子同樂？**幾百種玩法，請參考「[家庭親子](/blog?cat=%E5%AE%B6%E5%BA%AD%E8%A6%AA%E5%AD%90)」專欄
-- **想帶長輩散心？**[適合長者嘅峇里島旅行指南 - 安全、舒適與注意事項](/blog/bali-elderly-travel-guide/)
-- **想兩個人浪漫？**[峇里島蜜月浪漫指南：探索峇里島情侶/蜜月旅行嘅36種玩法](/blog/bali-honeymoon-romantic-activities-2/)
+- **想帶長輩散心？**[適合長者嘅峇里島旅行指南 - 安全、舒適與注意事項](/zh-hk/blog/bali-elderly-travel-guide/)
+- **想兩個人浪漫？**[峇里島蜜月浪漫指南：探索峇里島情侶/蜜月旅行嘅36種玩法](/zh-hk/blog/bali-honeymoon-romantic-activities-2/)
 
 ## 千變萬化嘅玩法
 
@@ -74,14 +74,14 @@ _srcHash: 90a3fab2c5905e114d7afaff8dd456bf
 
 快速參考：
 
-- [峇里島德格拉朗、賈提魯維兩大梯田區攻略｜入場門票幾錢？最佳拜訪時間/季節？](/blog/bali-rice-terraces-comparison/)
-- [峇里島金巴蘭9間海鮮餐廳：唔會中伏嘅推薦](/blog/jimbaran-seafood-restaurants-list/)
-- [峇里島水明漾嘅五大夜店推薦：讓你玩到癲嘅夜生活體驗！](/blog/seminyak-nightclubs-guide/)
-- [峇里島好評SPA、到府按摩推薦大集合 用區域劃分更方便查找](/blog/spa/)
-- [水明漾美食攻略｜浪漫、精緻與地道峇里島嘅完美結合](/blog/seminyak-restaurants-food-guide/)
-- [峇里島探險：巴杜爾火山吉普車日出之旅全記錄](/blog/batur-volcano-jeep-sunrise-tour/)
-- [峇里島最美浮潛地點大收集：新手友善海洋冒險指南](/blog/bali-snorkeling-spots/)
-- [【峇里島滑翔翼體驗】喺烏魯瓦圖飛翔！超靚海景+注意事項分享](/blog/uluwatu-paragliding-ocean-view/)
+- [峇里島德格拉朗、賈提魯維兩大梯田區攻略｜入場門票幾錢？最佳拜訪時間/季節？](/zh-hk/blog/bali-rice-terraces-comparison/)
+- [峇里島金巴蘭9間海鮮餐廳：唔會中伏嘅推薦](/zh-hk/blog/jimbaran-seafood-restaurants-list/)
+- [峇里島水明漾嘅五大夜店推薦：讓你玩到癲嘅夜生活體驗！](/zh-hk/blog/seminyak-nightclubs-guide/)
+- [峇里島好評SPA、到府按摩推薦大集合 用區域劃分更方便查找](/zh-hk/blog/spa/)
+- [水明漾美食攻略｜浪漫、精緻與地道峇里島嘅完美結合](/zh-hk/blog/seminyak-restaurants-food-guide/)
+- [峇里島探險：巴杜爾火山吉普車日出之旅全記錄](/zh-hk/blog/batur-volcano-jeep-sunrise-tour/)
+- [峇里島最美浮潛地點大收集：新手友善海洋冒險指南](/zh-hk/blog/bali-snorkeling-spots/)
+- [【峇里島滑翔翼體驗】喺烏魯瓦圖飛翔！超靚海景+注意事項分享](/zh-hk/blog/uluwatu-paragliding-ocean-view/)
 
 ## 峇里島十大地標景點
 
@@ -89,12 +89,12 @@ _srcHash: 90a3fab2c5905e114d7afaff8dd456bf
 
 雖然冇一定要去嘅景點，峇里島確實有「十大標誌性景點」。呢啲景點集中展現咗峇里島嘅文化、自然風光同特色魅力，讓你可以喺短時間內深入體驗峇里島嘅獨特魅力。同時呢啲地方亦係影相打卡/到此一遊嘅熱門景點。
 
-除此之外，峇里島有好多特別嘅景點，可以睇吓我哋介紹過百個景點嘅「[峇里島自由行旅遊景點懶人包](/blog/bali-top-500-attractions/)」，介紹咗500個2025年最新峇里島景點，你一定可以搵到你非常想去嘅景點㗎！
+除此之外，峇里島有好多特別嘅景點，可以睇吓我哋介紹過百個景點嘅「[峇里島自由行旅遊景點懶人包](/zh-hk/blog/bali-top-500-attractions/)」，介紹咗500個2025年最新峇里島景點，你一定可以搵到你非常想去嘅景點㗎！
 
 延伸閱讀：
 
-- [峇里島旅遊攻略：第一次到烏布要玩咩？20個景點推薦 烏布攻略篇](/blog/ubud-top-20-attractions-guide/)
-- [峇里島一日水明漾攻略：從日出到日落嘅完美行程](/blog/seminyak-day-trip-guide/)
+- [峇里島旅遊攻略：第一次到烏布要玩咩？20個景點推薦 烏布攻略篇](/zh-hk/blog/ubud-top-20-attractions-guide/)
+- [峇里島一日水明漾攻略：從日出到日落嘅完美行程](/zh-hk/blog/seminyak-day-trip-guide/)
 
 ## 峇里島點解能夠吸引全球旅客？
 
@@ -156,4 +156,4 @@ _srcHash: 90a3fab2c5905e114d7afaff8dd456bf
 
 👈 **返去峇里島自由行終極指南**
 
-想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次搞掂出發前要做咩。
+想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次搞掂出發前要做咩。

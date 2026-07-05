@@ -77,7 +77,7 @@ https://youtube.com/shorts/KBLKSQT7Pn4?si=yxJwczQBjlD0jXzY
 
 ### 4. 醫療費用好貴 💰
 
-根據喺峇里島經營餐廳嘅[龍蝦先生](/blog/mr-lobster-seafood-restaurant-bali/)老闆所講，佢經常遇到因為電單車意外受傷嘅遊客，由於行動唔方便，冇辦法參加其他行程，只能夠喺佢嘅餐廳休息同食嘢。要特別注意嘅係峇里島嘅醫療費用非常昂貴，如果唔好彩受傷，面對嘅醫療開支可能會令旅遊預算大幅增加，大大掃興。（親身經歷：上次朋友腳踝骨折，簡單嘅固定/包紮，花費12,000,000，約等於USD$800）
+根據喺峇里島經營餐廳嘅[龍蝦先生](/zh-hk/blog/mr-lobster-seafood-restaurant-bali/)老闆所講，佢經常遇到因為電單車意外受傷嘅遊客，由於行動唔方便，冇辦法參加其他行程，只能夠喺佢嘅餐廳休息同食嘢。要特別注意嘅係峇里島嘅醫療費用非常昂貴，如果唔好彩受傷，面對嘅醫療開支可能會令旅遊預算大幅增加，大大掃興。（親身經歷：上次朋友腳踝骨折，簡單嘅固定/包紮，花費12,000,000，約等於USD$800）
 
 ### 5. 道路狀況同自然因素 🌧️
 
@@ -87,9 +87,9 @@ https://youtube.com/shorts/KBLKSQT7Pn4?si=yxJwczQBjlD0jXzY
 
 其實峇里島提供咗好多經濟實惠嘅交通方式，例如包車、網約電單車、或者網約車。相比電單車，呢啲交通工具安全又方便，對於唔熟悉當地交通嘅遊客嚟講，係更加穩妥嘅選擇。
 
-> 延伸閱讀：[峇里島包車自由行全攻略 - 費用、預訂方式、優勢分析](/blog/bali-private-car-hire-guide/)
+> 延伸閱讀：[峇里島包車自由行全攻略 - 費用、預訂方式、優勢分析](/zh-hk/blog/bali-private-car-hire-guide/)
 
-> 延伸閱讀：[叫車App叫電單車，慳時間慳力嘅實際案例！](/blog/bali-travel-app-motorcycle-taxi/)
+> 延伸閱讀：[叫車App叫電單車，慳時間慳力嘅實際案例！](/zh-hk/blog/bali-travel-app-motorcycle-taxi/)
 
 ![6. 經濟實惠嘅其他選擇](https://images.gobaligo.id/vocus/vocus_49791dac6020e950bda56dde7ee4e7f5.jpg)
 
@@ -190,4 +190,4 @@ https://youtu.be/lIV-T2jYhVk?si=KOKR7HFKOtrw1EAb
 
 👈 **返去峇里島自由行終極指南**
 
-想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次搞掂出發前要做咩。
+想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次搞掂出發前要做咩。

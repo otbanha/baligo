@@ -44,9 +44,9 @@ _srcHash: 24767bf9af407a6fad3ef24e1cc30f96
 
 这些准备看似繁琐，但都能让旅程更为顺利，让我在巴厘岛的每一刻都尽情享受！
 
-> 延伸阅读：[【2026版】印尼巴厘岛入境使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](https://gobaligo.id/blog/bali-all-indonesia-arrival-guide/)
+> 延伸阅读：[【2026版】印尼巴厘岛入境使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](https://gobaligo.id/zh-cn/blog/bali-all-indonesia-arrival-guide/)
 
-> 延伸阅读：[巴厘岛旅游注意事项：第一次去巴厘岛必看的新手指南](https://gobaligo.id/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
+> 延伸阅读：[巴厘岛旅游注意事项：第一次去巴厘岛必看的新手指南](https://gobaligo.id/zh-cn/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
 
 ***
 
@@ -127,7 +127,7 @@ https://youtube.com/shorts/exdiGPLkVjw
 
 蓝梦岛风光
 
-> 你还想知道蓝梦岛有什么好玩的？有什么有趣的景点？请看我们的「[蓝梦岛景点攻略](/blog/nusa-lembongan-ceningan-guide/)」
+> 你还想知道蓝梦岛有什么好玩的？有什么有趣的景点？请看我们的「[蓝梦岛景点攻略](/zh-cn/blog/nusa-lembongan-ceningan-guide/)」
 
 **包车司机接送回酒店**
 一天下来玩得非常尽兴，巴厘岛的包车司机再度准时来接我们回酒店。蓝梦岛的美景让人意犹未尽，这段旅程真的非常值得。
@@ -157,7 +157,7 @@ https://youtu.be/laRb_l8BdLM
 
 泛舟结束后，来到一家非常有名的网红咖啡店，这里的特色是巨大的荡秋千，让我们可以一边荡秋千、一边眺望壮丽的稻田景色。当地人真的非常会拍照，整个氛围让每一张照片都美得像明信片一样，真的是拍照打卡的好地方。
 
-> [【乌布秋千攻略】8 大最美丛林秋千推荐：租礼服技巧、拍照角度与避开人潮全指南](https://gobaligo.id/blog/ubud-jungle-swings-photo-guide/)
+> [【乌布秋千攻略】8 大最美丛林秋千推荐：租礼服技巧、拍照角度与避开人潮全指南](https://gobaligo.id/zh-cn/blog/ubud-jungle-swings-photo-guide/)
 
 ![Tebasari Resto, Bar & Lounge](https://images.gobaligo.id/vocus/vocus_de5feafe85fbc690903411bfb7bf280f.jpg)
 
@@ -169,14 +169,14 @@ Tebasari Resto, Bar & Lounge
 **乌布皇宫**
 午餐后，我们参观了历史悠久的乌布皇宫。皇宫的建筑风格非常具有巴厘岛特色，精致的雕刻和繁复的装饰让人惊叹不已，感受到当地的传统文化和历史气息。
 
-> [【乌布必访景点】乌布皇宫：巴厘岛文化历史的瑰宝｜开放时间、门票、表演时间、周边景点、一日游推荐](https://gobaligo.id/blog/ubud-royal-palace-tour-guide/)
+> [【乌布必访景点】乌布皇宫：巴厘岛文化历史的瑰宝｜开放时间、门票、表演时间、周边景点、一日游推荐](https://gobaligo.id/zh-cn/blog/ubud-royal-palace-tour-guide/)
 
 **乌布市集**
 紧接着，我们在乌布市集闲逛，这里充满了各种手工艺品、服饰和纪念品。市集的气氛热闹非凡，我们也买了几件当地特色的纪念品，作为这次旅行的回忆。
 
 https://youtube.com/shorts/Oh-RNfjhQhM
 
-> 延伸阅读：[推荐乌布五大艺术市集完整指南：购买纪念品/伴手礼，寻访巴厘岛文化宝藏](/blog/ubud-art-markets-guide/)
+> 延伸阅读：[推荐乌布五大艺术市集完整指南：购买纪念品/伴手礼，寻访巴厘岛文化宝藏](/zh-cn/blog/ubud-art-markets-guide/)
 
 https://youtu.be/JtxZHtijEkE
 
@@ -204,7 +204,7 @@ https://youtu.be/JtxZHtijEkE
 
 ![第四天行程（坎古区Chill一日游）：](https://images.gobaligo.id/vocus/vocus_c8901a744d0d658d299564b9ec2515af.jpg)
 
-> [巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](https://gobaligo.id/blog/bali-tanah-lot-guide/)
+> [巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](https://gobaligo.id/zh-cn/blog/bali-tanah-lot-guide/)
 
 **The Lawn Canggu Beach Club**
 今天的最后一站是坎古的知名沙滩俱乐部——The Lawn。这里聚集了阳光、沙滩、美食，还有比基尼美女和帅哥。我们在这里享受了一个悠闲的下午，泡在泳池里，喝着冰凉的鸡尾酒，并等待着巴厘岛著名的夕阳缓缓落下。夜幕降临后，海滩上灯火通明，氛围惬意又浪漫，让我们彻底放松，享受度假的每一刻。
@@ -245,7 +245,7 @@ https://youtu.be/JtxZHtijEkE
 5. **伴手礼推荐：BALI BANANA 香蕉蛋糕**
    回国时别忘了买一盒BALI BANANA香蕉蛋糕，这是巴厘岛的特色伴手礼，口感软绵、香甜可口，机场就有卖。可以在抵达时先买来试吃，觉得好吃再多买一些带回国。他们还提供免费的装箱服务，让购物更加方便。
 
-延伸阅读：[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/blog/bali-souvenirs-gift-guide/)
+延伸阅读：[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/zh-cn/blog/bali-souvenirs-gift-guide/)
 
 ***
 

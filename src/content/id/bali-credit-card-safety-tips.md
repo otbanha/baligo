@@ -58,7 +58,7 @@ Beberapa restoran atau toko masih pakai mesin EDC jadul, bahkan ada yang catat n
 - - Kalau penjual minta "input nomor kartu manual" atau "foto kartu kredit", langsung tolak aja.
   - Lebih aman pakai uang tunai atau dompet digital (kayak Apple Pay, Google Pay, GoPay di Indonesia) buat kurangi risiko.
 
-> Baca juga: [Grab atau Gojek? Panduan Lengkap Daftar, Pakai, dan Isi Saldo Gojek & GoPay di Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
+> Baca juga: [Grab atau Gojek? Panduan Lengkap Daftar, Pakai, dan Isi Saldo Gojek & GoPay di Indonesia/Bali](/id/blog/indonesia-gojek-gopay-guide/)
 
 ---
 
@@ -143,6 +143,6 @@ Bahkan kartu kredit yang biasanya lancar jaya pun bisa tiba-tiba ngambek di Bali
 
 Lingkungan transaksi kartu di Bali emang nggak seaman di Taiwan, tapi kalau kamu paham strategi pembayaran yang benar, risikonya bisa ditekan banget. Saran aku, selama perjalanan usahakan pakai **kombinasi uang tunai dan e-wallet**, kartu kredit jadi cadangan aja. Jangan lupa cek transaksi secara berkala, biar liburanmu tetap nyaman dan aman!
 
-> Baca juga: [Berapa Banyak Uang Tunai yang Harus Disiapkan untuk Liburan ke Bali?](/blog/bali-travel-cash-budget-guide/)
+> Baca juga: [Berapa Banyak Uang Tunai yang Harus Disiapkan untuk Liburan ke Bali?](/id/blog/bali-travel-cash-budget-guide/)
 
 **Kamu pernah punya masalah kartu kredit di Bali? Yuk, share pengalaman di kolom komentar!** 💳✈️

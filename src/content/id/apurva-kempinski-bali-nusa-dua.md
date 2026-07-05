@@ -55,7 +55,7 @@ Cliff Lounge di hotel ini menyajikan berbagai koktail dan camilan kecil yang pas
 
 Pemandangan Super Keren di Selasar Deli Sore-sore
 
-[Pengalaman Ngopi Sore di Selasar Deli](/blog/apurva-kempinski-bali-nusa-dua/)
+[Pengalaman Ngopi Sore di Selasar Deli](/id/blog/apurva-kempinski-bali-nusa-dua/)
 
 > Pesan [Afternoon Tea di Selasar Deli](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1052045&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F58595-selasar-deli-apurva-kempinski-hotel-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D247caa596d)
 
@@ -85,6 +85,6 @@ Menginap di Apurva Kempinski pasti jadi pengalaman liburan mewah yang nggak terl
 
 ## Baca Juga:
 
-> [Nusa Dua & Tanjung Benoa: Destinasi Liburan Mewah di Bali — 40+ Pilihan Akomodasi, Kuliner, & Aktivitas Lengkap dengan Peta Panduan](/blog/nusa-dua-guide/)
+> [Nusa Dua & Tanjung Benoa: Destinasi Liburan Mewah di Bali — 40+ Pilihan Akomodasi, Kuliner, & Aktivitas Lengkap dengan Peta Panduan](/id/blog/nusa-dua-guide/)
 
 {{block:住宿}}

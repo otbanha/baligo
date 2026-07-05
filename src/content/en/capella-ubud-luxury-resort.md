@@ -105,6 +105,6 @@ Capella Ubud's allure lies in its unmatched natural landscapes, distinctive desi
 
 ![Summary](https://images.gobaligo.id/vocus/vocus_0aff256da208300bcfc81788611a1174.jpg)
 
-Want more Ubud travel tips? [Click here](/blog/ubud-guide/)
+Want more Ubud travel tips? [Click here](/en/blog/ubud-guide/)
 
 {{block:住宿}}

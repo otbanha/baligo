@@ -32,7 +32,7 @@ _srcHash: 848ccea18e4dd3057134797fe1e89b19
 - **Suhu & Kelembaban**: Suhu berkisar antara **26°C - 31°C**. Probabilitas hujan di siang hari mencapai **66%**.
 - Diingatkan bahwa hujan hari ini mungkin cukup deras, sehingga aktivitas di luar ruangan memiliki risiko yang lebih tinggi.
 
-> [Wajib lihat kalau hujan! 60+ aktivitas indoor super seru: dari mal baru, high tea bintang lima, sampai pengalaman kerajinan tangan premium](/blog/2026-bali-indoor-activities/)
+> [Wajib lihat kalau hujan! 60+ aktivitas indoor super seru: dari mal baru, high tea bintang lima, sampai pengalaman kerajinan tangan premium](/id/blog/2026-bali-indoor-activities/)
 
 ## 📄 Topik yang Jadi Perhatian Wisatawan: Peringatan Keselamatan & Praktik Imigrasi
 

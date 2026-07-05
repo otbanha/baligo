@@ -32,7 +32,7 @@ Pecinta Bali pasti udah pada tahu soal 'Nyepi', hari spesial tahunan di Bali. Ta
 
 'Hari Laut yang Tenang' adalah hari sakral yang diadakan warga Bali untuk menghormati dewa laut Baruna (salah satu dewa Bali), terutama dirayakan oleh penduduk **Nusa Penida**, **Nusa Ceningan**, dan **Nusa Lembongan** — tiga pulau lepas Bali. Hari itu, semua aktivitas laut bakal dihentikan total, baik kapal wisata, perikanan, maupun olahraga air seperti snorkeling, surfing, semuanya libur.
 
-Baca juga: [Panduan Nyepi 2025](/blog/2025-bali-nyepi-day-guide/)
+Baca juga: [Panduan Nyepi 2025](/id/blog/2025-bali-nyepi-day-guide/)
 
 ## **Seberapa Luas Dampaknya?**
 
@@ -56,7 +56,7 @@ Mulai pagi 19 Oktober, semua aktivitas laut bakal berangsur normal lagi, termasu
 
 ![Kapan kembali normal?](https://images.gobaligo.id/vocus/vocus_5ed269a843a5f1ff7a8651552695af98.png)
 
-Baca juga: [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)
+Baca juga: [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)
 
 ## **Pertanyaan Umum**
 
@@ -86,7 +86,7 @@ Saran gue, tanya dulu ke tempat nginep soal aturan hari itu, dan pastiin stok ma
 
 ### 7. Kapan sih 'Hari Hening Laut' tahun 2025?
 
-Kalau kamu lagi merencanakan liburan ke Bali tahun 2025, jangan sampai kelewatan panduan lengkap kami soal "[Hari Libur Nasional Indonesia & Festival Bali Sepanjang Tahun 2025](/blog/bali-indonesia-holidays-2025/)".
+Kalau kamu lagi merencanakan liburan ke Bali tahun 2025, jangan sampai kelewatan panduan lengkap kami soal "[Hari Libur Nasional Indonesia & Festival Bali Sepanjang Tahun 2025](/id/blog/bali-indonesia-holidays-2025/)".
 
 ## **Kesimpulan**
 

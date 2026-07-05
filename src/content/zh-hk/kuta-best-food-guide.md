@@ -61,7 +61,7 @@ Wanaku嘅用餐環境一流
 
 Wanaku Seafood & Chinese Restaurant 係一間中式海鮮餐廳。同其他當地餐廳唔同嘅係，呢度被池塘、流水同鬱鬱蔥蔥嘅花園包圍，令你喺成個用餐過程中都感到平和安寧！當你食緊正宗嘅中式美食嘅時候，仲有現代表演同傳統活動可以令你嘅用餐體驗更加美好！而且佢離機場好近㗎！
 
-詳細介紹喺[呢度](/blog/wanaku-seafood-airport-bali/)
+詳細介紹喺[呢度](/zh-hk/blog/wanaku-seafood-airport-bali/)
 
 👉[**Wanaku Seafood & Chinese Restaurant 用餐優惠**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988045&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F143929-wanaku-seafood-chinese-restaurant-in-kuta-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dc33c5c5189)
 
@@ -139,8 +139,8 @@ Rosso Vivo就喺庫塔海灘路上面，對住庫塔海灘
 
 ## 同場加映
 
-- [水明漾美食攻略｜浪漫、精緻與地道峇里島嘅完美結合](/blog/seminyak-restaurants-food-guide/)
-- [烏布美食推薦｜峇里島最強美食攻略](/blog/ubud-food-guide/)
+- [水明漾美食攻略｜浪漫、精緻與地道峇里島嘅完美結合](/zh-hk/blog/seminyak-restaurants-food-guide/)
+- [烏布美食推薦｜峇里島最強美食攻略](/zh-hk/blog/ubud-food-guide/)
 
 ***
 

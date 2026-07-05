@@ -56,12 +56,12 @@ Jadi, buat kamu yang mau apply eVisa, pastiin sebelum bayar kamu cek ulang semua
 
 ## Pertanyaan Lain soal Aplikasi eVisa
 
-Buat kamu yang masih bingung milih Visa on Arrival (VoA) atau eVisa, wajib baca ini: [Panduan Visa Turis Bali: VoA vs eVisa, Mana yang Cocok Buat Kamu?](/blog/bali-visa-landing-vs-electronic/)
+Buat kamu yang masih bingung milih Visa on Arrival (VoA) atau eVisa, wajib baca ini: [Panduan Visa Turis Bali: VoA vs eVisa, Mana yang Cocok Buat Kamu?](/id/blog/bali-visa-landing-vs-electronic/)
 
-Kalau kamu nemu masalah pas apply eVisa, kami udah kumpulin semua tanya-jawab soal aplikasi eVisa di sini, semoga bisa bantu kamu solve masalah: [FAQ Terbaru 2024: Visa Masuk & eVisa eVOA Indonesia/Bali](/blog/indonesia-bali-visa-evoa-faq/)
+Kalau kamu nemu masalah pas apply eVisa, kami udah kumpulin semua tanya-jawab soal aplikasi eVisa di sini, semoga bisa bantu kamu solve masalah: [FAQ Terbaru 2024: Visa Masuk & eVisa eVOA Indonesia/Bali](/id/blog/indonesia-bali-visa-evoa-faq/)
 
 ![其他申請電子簽證的問題](https://images.gobaligo.id/vocus/vocus_3b0b0ca8e3bd37264a24e891674da1e9.png)
 
 Sebelum kamu baca 'Panduan Liburan Mandiri Bali Paling Lengkap', kami ajak kamu subscribe dulu channel YouTube kami 'Xiao Jie Indonesia' yang isinya lebih banyak pengalaman visual seru. [Klik di sini](http://bit.ly/youtube-jason)[, langsung subscribe](http://bit.ly/youtube-jason)
 
-Setelah berlangganan, kamu bisa langsung lanjut baca panduan lengkap kita, menyelami setiap sudut seru di Bali. Klik 「[Panduan Ultimate Liburan Mandiri ke Bali](/blog/2023-08-22-64e37f2dfd89780001b1f776/)」, mulai persiapkan petualanganmu di Bali!
+Setelah berlangganan, kamu bisa langsung lanjut baca panduan lengkap kita, menyelami setiap sudut seru di Bali. Klik 「[Panduan Ultimate Liburan Mandiri ke Bali](/id/blog/2023-08-22-64e37f2dfd89780001b1f776/)」, mulai persiapkan petualanganmu di Bali!

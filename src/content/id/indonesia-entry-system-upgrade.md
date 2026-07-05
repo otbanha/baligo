@@ -19,7 +19,7 @@ _srcHash: 9ff7bbeabb50d7c07c6396bdda247ff1
 ---
 Update: 2026/07/03
 
-**先講結論**：「All Indonesia」是把海關申報＋健康申報整合成單一平台的新系統，**入境前 3 天內線上預填，平均只需約 2.5 分鐘**，比過去分別填多張表格快很多。系統有中文（簡體）介面，這篇記錄的是 2025 年 7 月在雅加達機場的試行階段；系統已於 **2025 年 8 月 18 日起全國全面啟用**，Bali 的伍拉·賴機場現在也適用，最新流程請見[2026版 All Indonesia 入境卡完整攻略](/blog/bali-all-indonesia-arrival-guide/)。
+**先講結論**：「All Indonesia」是把海關申報＋健康申報整合成單一平台的新系統，**入境前 3 天內線上預填，平均只需約 2.5 分鐘**，比過去分別填多張表格快很多。系統有中文（簡體）介面，這篇記錄的是 2025 年 7 月在雅加達機場的試行階段；系統已於 **2025 年 8 月 18 日起全國全面啟用**，Bali 的伍拉·賴機場現在也適用，最新流程請見[2026版 All Indonesia 入境卡完整攻略](/id/blog/bali-all-indonesia-arrival-guide/)。
 
 ## **All Indonesia 是什麼？一站式入境系統新概念**
 
@@ -61,7 +61,7 @@ Harap semua penumpang menyelesaikan deklarasi online sebelum penerbangan, dan si
 
 👉 <https://allindonesia.imigrasi.go.id/>
 
-Ke depannya, masuk ke Indonesia akan disederhanakan menjadi satu tempat untuk mengurus semua permohonan dan deklarasi; setelah [All Indonesia] diterapkan, tidak perlu lagi mengakses situs ECD/SSHP secara terpisah. Untuk masuk ke Bali, [prosedur yang sebelumnya empat langkah](/blog/2025-01-11-67821654fd89780001f932b5/) akan disederhanakan menjadi tiga langkah.
+Ke depannya, masuk ke Indonesia akan disederhanakan menjadi satu tempat untuk mengurus semua permohonan dan deklarasi; setelah [All Indonesia] diterapkan, tidak perlu lagi mengakses situs ECD/SSHP secara terpisah. Untuk masuk ke Bali, [prosedur yang sebelumnya empat langkah](/id/blog/2025-01-11-67821654fd89780001f932b5/) akan disederhanakan menjadi tiga langkah.
 
 ---
 
@@ -81,7 +81,7 @@ Bisa banget, kamu tinggal buka browser di HP dan isi data deklarasi di situs res
 
 ## **Gimana kalau ada error di sistem?**
 
-Sistem punya mekanisme cadangan dan juga ada dukungan pelanggan yang siap bantu kalau ada masalah teknis. Kalau ada pertanyaan soal pengisian deklarasi, cek aja [FAQ di sini](/blog/bali-evisa-customs-health-declaration/)
+Sistem punya mekanisme cadangan dan juga ada dukungan pelanggan yang siap bantu kalau ada masalah teknis. Kalau ada pertanyaan soal pengisian deklarasi, cek aja [FAQ di sini](/id/blog/bali-evisa-customs-health-declaration/)
 
 ## **Apakah pajak turis sudah termasuk?**
 

@@ -116,8 +116,8 @@ The Apurva Kempinski Bali has been honored with the ULTRAs 2024 "Best Sustainabl
 
 Located in **Nusa Dua** on the southeastern coast of Bali, Kempinski is just a 30-minute drive from the airport via the toll highway. Nusa Dua boasts golden sandy beaches, crystal-clear waters, and lush tropical vegetation, making it an ideal destination for sun, sand, and sea.
 
-Check out our [guide map](/blog/nusa-dua-guide/) featuring 40 accommodations, dining options, and activities.
+Check out our [guide map](/en/blog/nusa-dua-guide/) featuring 40 accommodations, dining options, and activities.
 
 ![努沙杜瓦攻略地圖](https://images.gobaligo.id/vocus/vocus_63cd2daa53e7c8cb15724fdcda0ec1f9.png)
 
-[Nusa Dua Guide Map](/blog/nusa-dua-guide/)
+[Nusa Dua Guide Map](/en/blog/nusa-dua-guide/)

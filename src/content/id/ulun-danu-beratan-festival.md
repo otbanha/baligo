@@ -69,7 +69,7 @@ Selain mengikuti parade dan pertunjukan, wisatawan juga bisa mampir ke tempat-te
 
 ![Lebih Banyak Seru-seruan di Ubud](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
-Ubud adalah pusat seni dan budaya Bali, dengan sawah terasering yang hijau, hutan yang tenang, dan tradisi yang kaya, menarik banyak pelancong. Tempat ini ideal untuk bersantai. Mau eksplorasi tradisi lokal, nikmati keindahan alam, atau coba berbagai aktivitas outdoor seru plus pengalaman unik kuliner dan pemandangan, Ubud pasti bikin kamu terkesan! Ingin tahu lebih banyak panduan Ubud? [Klik di sini](/blog/ubud-guide/)
+Ubud adalah pusat seni dan budaya Bali, dengan sawah terasering yang hijau, hutan yang tenang, dan tradisi yang kaya, menarik banyak pelancong. Tempat ini ideal untuk bersantai. Mau eksplorasi tradisi lokal, nikmati keindahan alam, atau coba berbagai aktivitas outdoor seru plus pengalaman unik kuliner dan pemandangan, Ubud pasti bikin kamu terkesan! Ingin tahu lebih banyak panduan Ubud? [Klik di sini](/id/blog/ubud-guide/)
 
 ## 📅 Info Praktis & Tips Berkunjung
 

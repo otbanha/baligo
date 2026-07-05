@@ -100,7 +100,7 @@ Known as "the pinnacle of all-you-can-eat buffets in Bali," The Mulia Resort is 
 
 ![More Nusa Dua dining and entertainment recommendations](https://images.gobaligo.id/vocus/vocus_b44c89e53b6c550aa22f958f7e8008f5.png)
 
-Nusa Dua is Bali's luxury resort hub, famous for its pristine white sand beaches, crystal-clear waters, and top-notch tourist facilities. It's the perfect destination for those seeking high-end indulgence and a tranquil getaway. The area also offers premium spas, water sports, and family-friendly activities, making it a paradise for all types of travelers. Want to learn more about Nusa Dua? [Click here](/blog/nusa-dua-guide/).
+Nusa Dua is Bali's luxury resort hub, famous for its pristine white sand beaches, crystal-clear waters, and top-notch tourist facilities. It's the perfect destination for those seeking high-end indulgence and a tranquil getaway. The area also offers premium spas, water sports, and family-friendly activities, making it a paradise for all types of travelers. Want to learn more about Nusa Dua? [Click here](/en/blog/nusa-dua-guide/).
 
 ***
 
@@ -144,7 +144,7 @@ Seminyak is Bali's fashion capital, home to numerous upscale restaurants and bar
 
 ![More About Seminyak's Dining and Entertainment](https://images.gobaligo.id/vocus/vocus_366287b60b610bfff45aea753d91ba55.jpg)
 
-Seminyak is a charming area in Bali that blends fashion and tradition, offering top-notch restaurants, boutique shops, and vibrant nightlife, making it a paradise for vacationers! Want to know more about exciting attractions, dining, spas, and beach clubs? [Click here](/blog/seminyak-guide/).
+Seminyak is a charming area in Bali that blends fashion and tradition, offering top-notch restaurants, boutique shops, and vibrant nightlife, making it a paradise for vacationers! Want to know more about exciting attractions, dining, spas, and beach clubs? [Click here](/en/blog/seminyak-guide/).
 
 ***
 
@@ -182,7 +182,7 @@ Ubud is Bali's cultural heart, offering numerous healthy dining options and uniq
 
 ![More Ubud Food, Fun, and Adventure](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
-Ubud, the cultural and artistic heart of Bali, captivates countless travelers with its lush rice terraces, serene jungles, and rich traditional heritage. It's the perfect place to unwind and rejuvenate. Whether you're exploring local traditions, soaking in natural beauty, or engaging in exciting outdoor activities, Ubud offers a unique blend of culinary delights and scenic wonders that will leave you deeply moved. Want to learn more about Ubud? [Click here](/blog/ubud-guide/).
+Ubud, the cultural and artistic heart of Bali, captivates countless travelers with its lush rice terraces, serene jungles, and rich traditional heritage. It's the perfect place to unwind and rejuvenate. Whether you're exploring local traditions, soaking in natural beauty, or engaging in exciting outdoor activities, Ubud offers a unique blend of culinary delights and scenic wonders that will leave you deeply moved. Want to learn more about Ubud? [Click here](/en/blog/ubud-guide/).
 
 ***
 
@@ -214,7 +214,7 @@ Kuta is a popular tourist area in Bali, offering many affordable restaurants and
 
 ![More Kuta Dining and Entertainment Recommendations](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
 
-Kuta is Bali's most vibrant tourist hotspot, attracting travelers worldwide with its lively nightlife, bustling streets, and beginner-friendly surf beaches. Packed with shops, restaurants, and entertainment venues, Kuta is the perfect destination for those seeking excitement and shopping. Whether you're looking to experience the energetic party scene or enjoy stunning sunsets, Kuta will make your holiday unforgettable! Want to learn more about Kuta? [Click here](/blog/2023-12-13-657598bdfd8978000120fe20/).
+Kuta is Bali's most vibrant tourist hotspot, attracting travelers worldwide with its lively nightlife, bustling streets, and beginner-friendly surf beaches. Packed with shops, restaurants, and entertainment venues, Kuta is the perfect destination for those seeking excitement and shopping. Whether you're looking to experience the energetic party scene or enjoy stunning sunsets, Kuta will make your holiday unforgettable! Want to learn more about Kuta? [Click here](/en/blog/2023-12-13-657598bdfd8978000120fe20/).
 
 ***
 
@@ -250,13 +250,13 @@ Jimbaran is famous for its seafood and sunsets, featuring many beachfront restau
 - 📌 Friday｜Fisherman Night seafood feast
 - 📌 Saturday｜Taste of Latin night
 
-[Reservation & details](/blog/platinum-hotel-jimbaran-beach/)
+[Reservation & details](/en/blog/platinum-hotel-jimbaran-beach/)
 
 ### More Jimbaran Food and Fun
 
 ![More Jimbaran Food and Fun](https://images.gobaligo.id/vocus/vocus_c81d870630ca07dead1d2e8614f923c4.jpg)
 
-Jimbaran is a coastal paradise in Bali renowned for its romantic atmosphere and culinary delights, featuring stunning golden beaches and breathtaking sunsets. The seafood restaurants here are a must-try experience, alongside luxurious resorts and the tranquil charm of fishing villages, allowing visitors to enjoy both luxury and local life. Whether for a family vacation or a romantic getaway, Jimbaran meets all expectations! Want to learn more about Jimbaran? [Click here](/blog/jimbaran-guide/).
+Jimbaran is a coastal paradise in Bali renowned for its romantic atmosphere and culinary delights, featuring stunning golden beaches and breathtaking sunsets. The seafood restaurants here are a must-try experience, alongside luxurious resorts and the tranquil charm of fishing villages, allowing visitors to enjoy both luxury and local life. Whether for a family vacation or a romantic getaway, Jimbaran meets all expectations! Want to learn more about Jimbaran? [Click here](/en/blog/jimbaran-guide/).
 
 ***
 
@@ -278,7 +278,7 @@ Although named 'Brunch,' the dining period actually extends from noon to 4 PM, g
 
 ![Brisa Brunch at CIRE Restaurant - Bali's premier dining expe](https://images.gobaligo.id/vocus/vocus_4517d5f5ef11b46ea70cfaf3d153eaf1.jpg)
 
-Uluwatu is one of Bali's most popular southern regions, famous for its breathtaking cliff views, enchanting beaches, and excellent surf spots. Filled with a romantic tropical vacation atmosphere, it's the perfect choice for enjoying sunset views and relaxing moments. If you're planning to stay in Uluwatu, check out our carefully curated guide to food, fun, and activities to make your trip even more enriching: [Uluwatu Guide: Uluwatu Attractions & Recommendations](/blog/uluwatu-guide/)
+Uluwatu is one of Bali's most popular southern regions, famous for its breathtaking cliff views, enchanting beaches, and excellent surf spots. Filled with a romantic tropical vacation atmosphere, it's the perfect choice for enjoying sunset views and relaxing moments. If you're planning to stay in Uluwatu, check out our carefully curated guide to food, fun, and activities to make your trip even more enriching: [Uluwatu Guide: Uluwatu Attractions & Recommendations](/en/blog/uluwatu-guide/)
 
 ***
 
@@ -342,7 +342,7 @@ Legian is located between Kuta and Seminyak, offering many mid-priced restaurant
 - Address: Jl. Hotel Puri Bagus Pemaron, Pemaron, Bali
 - Online info: [Warung Bambu Pemaron](http://warung-bambu.mahanara.com/)
 
-**Quick Reference:** [15 Tips for Traveling to North Bali](/blog/north-bali-travel-guide/)
+**Quick Reference:** [15 Tips for Traveling to North Bali](/en/blog/north-bali-travel-guide/)
 
 **2. Warung NG, Nusa Penida**
 
@@ -351,7 +351,7 @@ Legian is located between Kuta and Seminyak, offering many mid-priced restaurant
 - Address: Sakti, Nusa Penida, Bali
 - Online info: None
 
-**Quick Reference:** [Complete Guide to Nusa Penida: Maps, Ferries, Accommodation, Transport, Private Cars, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
+**Quick Reference:** [Complete Guide to Nusa Penida: Maps, Ferries, Accommodation, Transport, Private Cars, Activities, Photography, Attractions](/en/blog/nusa-penida-guide/)
 
 **3. Garpu Restaurant, Candidasa**
 
@@ -360,7 +360,7 @@ Legian is located between Kuta and Seminyak, offering many mid-priced restaurant
 - Address: Jl. Raya Sengkidu, Sengkidu, Bali
 - Online info: [Instagram](https://www.instagram.com/garpurestaurant/)
 
-**Quick Reference:** [Top 3 Attractions in East Bali](/blog/bali-east-tour-guide/)
+**Quick Reference:** [Top 3 Attractions in East Bali](/en/blog/bali-east-tour-guide/)
 
 **4. Clay Craft @ Renaissance Bali, Ungasan**
 
@@ -369,7 +369,7 @@ Legian is located between Kuta and Seminyak, offering many mid-priced restaurant
 - Address: Jl. Pantai Balangan I No.1, Ungasan, Bali
 - Online Info: [Marriott Bonvoy](https://)
 
-**Quick Reference:** [Uluwatu Guide](/blog/uluwatu-guide/)
+**Quick Reference:** [Uluwatu Guide](/en/blog/uluwatu-guide/)
 
 ***
 

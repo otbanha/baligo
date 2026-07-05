@@ -66,9 +66,9 @@ Kebun Bistro（施念忻提供）
 
 **延伸閱讀：**
 
-[【峇里島烏布住宿】烏布30+特色住宿，體驗峇里島山林美景中的奇幻之旅！](/blog/ubud-villas-pool-guide/)
+[【峇里島烏布住宿】烏布30+特色住宿，體驗峇里島山林美景中的奇幻之旅！](/zh-hk/blog/ubud-villas-pool-guide/)
 
-[【烏布住宿推薦】烏布泳池別墅私密天堂: 20+令人驚艷的峇里島villa推薦](/blog/ubud-villa-pool-guide/)
+[【烏布住宿推薦】烏布泳池別墅私密天堂: 20+令人驚艷的峇里島villa推薦](/zh-hk/blog/ubud-villa-pool-guide/)
 
 烏布唔單止係寧靜嘅代名詞，喺 **德哥朗梯田** 嘅森林遊樂場入面，都可以搵到屬於大自然嘅刺激同歡樂。我喺呢度過咗一個充滿冒險同笑聲嘅下午，呢個地方絕對值得花一整日嚟慢慢享受。
 
@@ -78,7 +78,7 @@ Kebun Bistro（施念忻提供）
 
 ![我們還去了Montana Del cafe。這間咖啡廳景在烏布很美很值得去。點我看「烏布攻略」](https://images.gobaligo.id/vocus/vocus_d3a11499461fd7f17140d3839b6f8672.jpg)
 
-[我哋仲去咗Montana Del cafe。呢間咖啡廳景喺烏布好靚好值得去。撳我睇「烏布攻略」](/blog/ubud-guide/)
+[我哋仲去咗Montana Del cafe。呢間咖啡廳景喺烏布好靚好值得去。撳我睇「烏布攻略」](/zh-hk/blog/ubud-guide/)
 
 {{block:ubud}}
 

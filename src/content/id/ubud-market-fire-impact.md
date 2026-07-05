@@ -40,4 +40,4 @@ Sumber api dari basement
 
 'Kami tutup sementara akses jalan menuju Pasar Ubud biar mobil pemadam bisa lewat dengan lancar. Kami sudah tempatkan personel polisi di beberapa titik menuju pasar.'
 
-> Baca juga: [Pasar Seni Ubud Tutup, Ada Alternatif Belanja Lain buat Wisatawan?](/blog/ubud-art-market-alternatives/)
+> Baca juga: [Pasar Seni Ubud Tutup, Ada Alternatif Belanja Lain buat Wisatawan?](/id/blog/ubud-art-market-alternatives/)

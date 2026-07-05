@@ -71,7 +71,7 @@ We will briefly introduce several types of residence permits:
 3. **Family Residence Permit**: Requires an Indonesian spouse to sponsor the foreigner. With this type of residence permit, foreigners can reside in Indonesia long-term but cannot work. If employment is desired, a work permit must be obtained from the company they work for.
 4. **Retirement Residence Permit**: Applicable to foreigners aged 55 and above. This permit is sponsored by a company recognized by the Directorate General of Immigration. The retirement residence permit does not allow foreigners to work in Indonesia but permits them to enjoy their retirement in the country.
 
-Further reading: [Bali Long-Term Stay/Tourist Visa Fee Adjustments](/blog/bali-visa-fee-changes-2024/)
+Further reading: [Bali Long-Term Stay/Tourist Visa Fee Adjustments](/en/blog/bali-visa-fee-changes-2024/)
 
 Choosing the right visa or residence permit can make your long-term stay in Bali smoother and more enjoyable. Based on your needs and circumstances, select the option that best suits you and enjoy your wonderful time in Bali!
 

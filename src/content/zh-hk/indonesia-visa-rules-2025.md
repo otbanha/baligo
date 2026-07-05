@@ -75,7 +75,7 @@ _srcHash: 8b857b84c270bf1beb0ecefa90f7513b
 建議帶埋旅遊計劃書、住宿證明同埋回程機票等相關資料以備查詢。
 
 **快速參考：**  
-[印尼/峇里島線上延長簽證教學](/blog/2024-bali-visa-extension/)
+[印尼/峇里島線上延長簽證教學](/zh-hk/blog/2024-bali-visa-extension/)
 
 ---
 

@@ -129,7 +129,7 @@ Gede is not just a professional driver, but more like a warm-hearted local frien
 - **Private Car Service**: 10 hours a day, including fuel and parking fees. A tip of 10%-30% of the car hire fee is recommended.
 - **Driver's Role**: Gede is a private car driver, not a professional tour guide, so he may not accompany you into some attractions. Please understand and empathize.
 
-> Further Reading: [Complete Guide to Private Car Hire in Bali](/blog/bali-private-car-hire-guide/)
+> Further Reading: [Complete Guide to Private Car Hire in Bali](/en/blog/bali-private-car-hire-guide/)
 
 ---
 
@@ -147,4 +147,4 @@ Contact him now and add more wonderful memories to your Bali trip!
 
 👈 **Return to the Ultimate Bali Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.
+Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/en/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.

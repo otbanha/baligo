@@ -76,5 +76,5 @@ _srcHash: 990dca2fe17e20dc40701b246a9333aa
 
 **另外都可以參考下我哋分享過嘅兩種街頭騙術：**
 
-1. [【旅遊陷阱警示】峇里島常見嘅換錢詐騙手法與防範指南](/blog/bali-money-exchange-scams/)
-2. [峇里島旅遊警示：街頭展示貨幣騙術，避免成為下一個受害者！](/blog/bali-street-scam-alert/)
+1. [【旅遊陷阱警示】峇里島常見嘅換錢詐騙手法與防範指南](/zh-hk/blog/bali-money-exchange-scams/)
+2. [峇里島旅遊警示：街頭展示貨幣騙術，避免成為下一個受害者！](/zh-hk/blog/bali-street-scam-alert/)

@@ -44,9 +44,9 @@ Proses ngurus visa kunjungan 30 hari Indonesia cukup gampang. Pertama, setelah m
 
 Visa elektronik saat kedatangan (e-VoA) adalah visa yang diajukan dan didapat secara online lewat internet, jadi nggak perlu antre di bandara buat ngurus visa biasa. Kamu tinggal isi formulir online sebelum berangkat, kasih data diri dan dokumen yang diperlukan, lalu bayar biaya visa. Setelah visa disetujui, kamu bakal dapet notifikasi lewat email, dan pas masuk tinggal tunjukin e-Visa buat proses imigrasi. Cara ini nggak cuma hemat waktu, tapi juga bikin masuk ke Indonesia jadi lebih lancar dan perjalanan makin nyaman.
 
-> Baca juga: [Panduan Visa Turis Bali: Visa on Arrival vs E-Visa, Mana yang Lebih Cocok Buat Kamu?](/blog/bali-visa-landing-vs-electronic/)
+> Baca juga: [Panduan Visa Turis Bali: Visa on Arrival vs E-Visa, Mana yang Lebih Cocok Buat Kamu?](/id/blog/bali-visa-landing-vs-electronic/)
 
-> Baca juga: [[Video Tutorial] Cara Apply E-Visa Indonesia/Bali Langkah Demi Langkah](/blog/bali-evisa-application-tutorial/)
+> Baca juga: [[Video Tutorial] Cara Apply E-Visa Indonesia/Bali Langkah Demi Langkah](/id/blog/bali-evisa-application-tutorial/)
 
 ## Masa Berlaku Visa on Arrival
 
@@ -76,7 +76,7 @@ Paling banyak dicari...
 
 ## Opsi Visa Jangka Pendek Lainnya
 
-Selain visa kunjungan 30 hari, Indonesia juga punya beberapa pilihan visa lain. Cek selengkapnya di sini: [FAQ Pembaruan Visa Masuk Bali 2024](/blog/2025-bali-visa-update-faq/)
+Selain visa kunjungan 30 hari, Indonesia juga punya beberapa pilihan visa lain. Cek selengkapnya di sini: [FAQ Pembaruan Visa Masuk Bali 2024](/id/blog/2025-bali-visa-update-faq/)
 
 ## Kesimpulan
 
@@ -86,4 +86,4 @@ Visa kunjungan 30 hari Indonesia memang praktis buat traveler, tapi tetap harus 
 
 Sebelum baca **「Panduan Liburan Mandiri Bali Paling Lengkap」**, kami ajak kamu subscribe dulu channel YouTube **「Xiao Jie Indonesia」** yang penuh konten visual seru. [Klik di sini](http://bit.ly/youtube-jason) buat subscribe sekarang!
 
-Setelah subscribe, langsung lanjut baca panduan lengkap kami dan eksplor setiap sudut keren Bali. Klik **「**[**Panduan Liburan Mandiri Bali Paling Lengkap**](/blog/2023-08-22-64e37f2dfd89780001b1f776/)**」** buat mulai rencanain liburanmu ke Bali!
+Setelah subscribe, langsung lanjut baca panduan lengkap kami dan eksplor setiap sudut keren Bali. Klik **「**[**Panduan Liburan Mandiri Bali Paling Lengkap**](/id/blog/2023-08-22-64e37f2dfd89780001b1f776/)**」** buat mulai rencanain liburanmu ke Bali!

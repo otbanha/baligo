@@ -25,7 +25,7 @@ _srcHash: 4ad2f5b34ea4ed66ebe41ddbbaba7fe1
 ---
 Update: 2026/07/03
 
-[🚗 想预估 Gojek 车资？请点击这里](/map/gojek-fare/)
+[🚗 想预估 Gojek 车资？请点击这里](/zh-cn/map/gojek-fare/)
 
 ![【峇里島交通全攻略】什麼時候該包車？什麼場合用 Gojek/Grab？包車 vs. 叫車優缺點與場景分析](https://images.gobaligo.id/vocus/vocus_86a39e40d1c5e42fbdbb7ba5e81f3369.png)
 
@@ -35,7 +35,7 @@ Update: 2026/07/03
 
 在巴厘岛最安全、最省心的交通方式就是「包车」和「叫车」。所谓包车就是在一个时间内（通常是十小时或五小时），你可以任意使用司机去你想去的地方；而「叫车」则是像出租车一样，运用Gojek或Grab等app进行点对点的移动。
 
-> 延伸阅读：[在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略](/blog/gojek-bali-guide/)
+> 延伸阅读：[在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略](/zh-cn/blog/gojek-bali-guide/)
 
 ## 包车优缺点
 
@@ -91,7 +91,7 @@ https://youtube.com/shorts/wnhyqUekdW0
 - 想聊天/需要基本讲解▶包车
 - 想要认识巴厘岛在地的朋友▶包车
 
-**有什么好的包车司机推荐吗？**网友推荐的「优质司机推荐名单」[请看这里](/blog/bali-private-car-drivers-guide/)
+**有什么好的包车司机推荐吗？**网友推荐的「优质司机推荐名单」[请看这里](/zh-cn/blog/bali-private-car-drivers-guide/)
 
 ## FAQ 常见问题
 
@@ -119,7 +119,7 @@ https://youtube.com/shorts/wnhyqUekdW0
 
 可以，但是不建议。因为有很大几率遇到乱喊价的司机。
 
-**其他**[**包车FAQ请看>这里**](/blog/bali-private-car-hire-guide/)
+**其他**[**包车FAQ请看>这里**](/zh-cn/blog/bali-private-car-hire-guide/)
 
 ## 结论
 
@@ -131,4 +131,4 @@ https://youtube.com/shorts/wnhyqUekdW0
 
 👈 **回到巴厘岛自由行终极指南**
 
-想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/zh-cn/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

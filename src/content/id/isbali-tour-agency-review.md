@@ -35,7 +35,7 @@ Di antara banyak pilihan perjalanan, menemukan agen perjalanan yang benar-benar 
 
 isBali terkenal dengan itinerary kustomnya, dirancang dengan cermat sesuai budget dan durasi liburan kamu. Buat yang pertama kali ke Bali, layanan ini jelas bantuan banget. Kamu tinggal kasih tahu budget dan beberapa tempat favorit, sisanya serahkan ke isBali. Mulai dari tiket pesawat, hotel, sampai sopir pribadi harian, semuanya diatur rapi. Model perjalanan semi-mandiri ini nggak cuma menghemat waktu riset dan bikin itinerary, tapi juga tetap kasih fleksibilitas dan kebebasan.
 
-> Ada apa aja sih tempat wisata di Bali? Cek: [2025 Wajib Kunjung! Panduan 500 Tempat Wisata Terpopuler di Bali](/blog/bali-top-500-attractions/)
+> Ada apa aja sih tempat wisata di Bali? Cek: [2025 Wajib Kunjung! Panduan 500 Tempat Wisata Terpopuler di Bali](/id/blog/bali-top-500-attractions/)
 
 ## Sopir Profesional, Pelayanan Penuh Perhatian
 
@@ -115,7 +115,7 @@ Biarkan tim profesional yang urus semua detail ribet, kamu tinggal fokus nikmati
 
 Manfaatin promo kece ini, yuk rencanain liburanmu ke Bali sekarang!
 
-**Kalau kamu mau pengalaman VIP dengan antar-jemput Alphard, cek** [**di sini**](/blog/bali-luxury-vip-travel-guide/).
+**Kalau kamu mau pengalaman VIP dengan antar-jemput Alphard, cek** [**di sini**](/id/blog/bali-luxury-vip-travel-guide/).
 
 Semua itinerary bisa disesuaikan sesuai kebutuhanmu, biar makin sempurna. Tambah LINE CS dan hubungi agen perjalanan isBali, biar **isBali** bawa kamu menikmati liburan Bali yang super seru!
 

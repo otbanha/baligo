@@ -126,6 +126,6 @@ Provided by Lin Xiaozhao
 
 ![More Ubud Dining and Entertainment Recommendations](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
-[Click here for the complete Ubud guide!](/blog/ubud-guide/)
+[Click here for the complete Ubud guide!](/en/blog/ubud-guide/)
 
-Ubud is Bali's cultural and artistic heart, attracting countless travelers with its lush rice terraces, serene jungles, and rich traditional culture. It's the perfect place to relax and rejuvenate. Whether you're exploring local traditions, enjoying natural beauty, or engaging in exciting outdoor activities paired with delicious food and stunning views, Ubud offers unique experiences that will leave you deeply moved! Want to learn more about Ubud? [Click here](/blog/ubud-guide/).
+Ubud is Bali's cultural and artistic heart, attracting countless travelers with its lush rice terraces, serene jungles, and rich traditional culture. It's the perfect place to relax and rejuvenate. Whether you're exploring local traditions, enjoying natural beauty, or engaging in exciting outdoor activities paired with delicious food and stunning views, Ubud offers unique experiences that will leave you deeply moved! Want to learn more about Ubud? [Click here](/en/blog/ubud-guide/).

@@ -133,7 +133,7 @@ For travelers who want to deeply explore Balinese culture, seek balance for body
 
 Have you been to Ubud? Interested in this newly opened hotel?
 
-Included in "[【Bali Ubud Accommodation】Recommended Unique Stays in Ubud: Experience a Magical Journey Amid Bali’s Mountain Scenery!](/blog/ubud-villas-pool-guide/)"
+Included in "[【Bali Ubud Accommodation】Recommended Unique Stays in Ubud: Experience a Magical Journey Amid Bali’s Mountain Scenery!](/en/blog/ubud-villas-pool-guide/)"
 
 ***
 
@@ -141,15 +141,15 @@ Included in "[【Bali Ubud Accommodation】Recommended Unique Stays in Ubud: Exp
 
 ### Ubud for Family Travel
 
-If you're traveling with family and looking for a kid-friendly stay, check out 【[Bali Family Travel Activity Guide](/blog/ubud-with-kids-guide/)】, which features 55 family-friendly attractions and activities, plus ten top Ubud family accommodations selected by travelers worldwide.
+If you're traveling with family and looking for a kid-friendly stay, check out 【[Bali Family Travel Activity Guide](/en/blog/ubud-with-kids-guide/)】, which features 55 family-friendly attractions and activities, plus ten top Ubud family accommodations selected by travelers worldwide.
 
 ![100種深入認識烏布的方式｜探索烏布的魅力](https://images.gobaligo.id/vocus/vocus_ea533e1649d072068698827355e60224.jpg)
 
-[100 Ways to Deeply Know Ubud｜Explore the Charm of Ubud](/blog/ubud-guide/)
+[100 Ways to Deeply Know Ubud｜Explore the Charm of Ubud](/en/blog/ubud-guide/)
 
 ### Dive Deeper into Ubud Travel
 
-If you're traveling without kids and want to truly experience Ubud, here's 【[2025 Bali Ubud Complete Guide: 100 Ways to Deeply Know Ubud｜Explore the Charm of Ubud](/blog/ubud-guide/)】, which will help you get to know Ubud even better!
+If you're traveling without kids and want to truly experience Ubud, here's 【[2025 Bali Ubud Complete Guide: 100 Ways to Deeply Know Ubud｜Explore the Charm of Ubud](/en/blog/ubud-guide/)】, which will help you get to know Ubud even better!
 
 ***
 

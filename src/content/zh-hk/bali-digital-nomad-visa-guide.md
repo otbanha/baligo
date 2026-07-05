@@ -31,7 +31,7 @@ _srcHash: c821f580ffc04e7c9395235acd20f861
 
 冇人想做違法簽證持有者，所以等我哋解釋吓你喺印尼遠程工作嘅幾種簽證選擇：
 
->>請參考：[最新入境印尼峇里島簽證改版 FAQ](/blog/2025-bali-visa-update-faq/)
+>>請參考：[最新入境印尼峇里島簽證改版 FAQ](/zh-hk/blog/2025-bali-visa-update-faq/)
 
 ![確認簽證和法律要求](https://images.gobaligo.id/vocus/vocus_dd41d77001052cf97d5e040eff2b57b5.jpg)
 
@@ -122,4 +122,4 @@ _srcHash: c821f580ffc04e7c9395235acd20f861
 
 👈 **返去峇里島自由行終極指南**
 
-想睇完整嘅新手懶人包？[㩒呢度睇「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。
+想睇完整嘅新手懶人包？[㩒呢度睇「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。

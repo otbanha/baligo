@@ -46,7 +46,7 @@ Before answering this frequently asked question in our two Facebook groups "[Bal
 
 "Travel Suitability Index" is a comprehensive recommendation based on factors such as monthly rainfall probability, rainy days, average temperature, and tourist crowds. A higher score indicates more stable weather, fewer tourists, and better conditions for outdoor activities. For instance, June and September score 100%, representing dry, comfortable weather with fewer tourists, making them ideal for travel. December scores only 50% due to frequent rainfall and crowded Christmas holidays, making indoor activities more recommended. This index helps travelers quickly assess whether the weather and crowd levels are ideal for their chosen month.
 
-**Quick Reference**: [Bali Actually Has Five Peak Travel Seasons! How to Travel Smartly and Avoid the Crowds?](/blog/bali-peak-season-travel-tips/)
+**Quick Reference**: [Bali Actually Has Five Peak Travel Seasons! How to Travel Smartly and Avoid the Crowds?](/en/blog/bali-peak-season-travel-tips/)
 
 ## **It Rarely Rains All Over the Island**
 
@@ -54,6 +54,6 @@ In Bali, rainfall distribution is influenced by geography, with eastern and nort
 
 ## What is a **Rainy Day Backup Plan**?
 
-"Rainy Day Backup Plan" refers to an alternative "Plan B" for outdoor activities that can be quickly switched to if it rains. Check out our collection of [60 Rainy Day Activities in Bali](/blog/2026-bali-indoor-activities/).
+"Rainy Day Backup Plan" refers to an alternative "Plan B" for outdoor activities that can be quickly switched to if it rains. Check out our collection of [60 Rainy Day Activities in Bali](/en/blog/2026-bali-indoor-activities/).
 
 {{block:戶外}}

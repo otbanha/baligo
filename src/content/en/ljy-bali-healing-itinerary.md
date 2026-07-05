@@ -77,7 +77,7 @@ I also recommend filling this out in advance. You can submit it online up to thr
 I also paid the tourist tax online in advance, about USD$10.
 Many processes in Bali are gradually going digital now, and handling things early really saves a lot of time.
 
-> [2025 Bali Entry Changes Explained in One Minute: Indonesia/Bali Entry Process - From Landing/Customs to Baggage Claim](https://gobaligo.id/blog/2025-bali-immigration-process/)
+> [2025 Bali Entry Changes Explained in One Minute: Indonesia/Bali Entry Process - From Landing/Customs to Baggage Claim](https://gobaligo.id/en/blog/2025-bali-immigration-process/)
 
 ***
 
@@ -200,7 +200,7 @@ Plus, the Kempinski's architecture is grand, blending traditional Balinese eleme
 
 Afternoon tea costs around USD$23 per person, which I think is reasonable given the hotel's level and the view.
 
-> [【Bali Luxury Afternoon Tea】The Apurva Kempinski Selasar Deli: Palace-like Architecture, Wood Carving Art, and Dreamy Afternoon Moments](https://gobaligo.id/blog/kempinski-selasar-deli-afternoon-tea/)
+> [【Bali Luxury Afternoon Tea】The Apurva Kempinski Selasar Deli: Palace-like Architecture, Wood Carving Art, and Dreamy Afternoon Moments](https://gobaligo.id/en/blog/kempinski-selasar-deli-afternoon-tea/)
 
 ***
 
@@ -359,7 +359,7 @@ This time, I returned to The Nest Boutique Spa, a place I visit almost every tri
 
 The Nest Boutique Spa (Photo by Lai Jiaying)
 
-> Included in [【Essential Guide】Top-Rated Spas in Bali & In-Room Massage Recommendations Organized by Area](https://gobaligo.id/blog/spa/)
+> Included in [【Essential Guide】Top-Rated Spas in Bali & In-Room Massage Recommendations Organized by Area](https://gobaligo.id/en/blog/spa/)
 
 Sanur is packed with massage places, but this one has always impressed me with its consistent quality. The environment is relaxing, the pressure is just right—not the kind of rushed service you find in touristy spots.
 
@@ -429,7 +429,7 @@ But I have to give you a serious heads-up:
 
 Your hair will just have to air-dry naturally after getting wet 😂 Luckily, I brought my own towel—otherwise, riding a scooter with wet hair would have been a nightmare.
 
-> [【Bali Holy Water Temple】Tirta Empul Complete Guide: Thousand-Year Purification Ritual Process, Taboos, and Must-See Highlights](https://gobaligo.id/blog/tirta-empul-temple-guide/)
+> [【Bali Holy Water Temple】Tirta Empul Complete Guide: Thousand-Year Purification Ritual Process, Taboos, and Must-See Highlights](https://gobaligo.id/en/blog/tirta-empul-temple-guide/)
 
 ***
 
@@ -449,7 +449,7 @@ I really enjoyed the pace here. There's no need to do anything special—just wa
 
 A few shops also sell local snacks, making them perfect spots to sit and rest if you're tired from riding.
 
-> [Penglipuran Village: A Journey Through Time to Experience Bali's Ancient Charm](https://gobaligo.id/blog/penglipuran-village-bali-experience/)
+> [Penglipuran Village: A Journey Through Time to Experience Bali's Ancient Charm](https://gobaligo.id/en/blog/penglipuran-village-bali-experience/)
 
 ***
 
@@ -639,7 +639,7 @@ And it's not just a casual tasting. Many flavors have a tropical vibe, like coco
 
 I just wanted to 'take a peek inside,' but ended up walking out with a bag in hand 🤣
 
-> Featured in [【Recommended by Travelers】Over 20 Bali Souvenir Ideas Across 6 Categories: The Perfect Guide to Cherish Your Memories](https://gobaligo.id/blog/bali-souvenirs-gift-guide/)
+> Featured in [【Recommended by Travelers】Over 20 Bali Souvenir Ideas Across 6 Categories: The Perfect Guide to Cherish Your Memories](https://gobaligo.id/en/blog/bali-souvenirs-gift-guide/)
 
 ***
 

@@ -74,4 +74,4 @@ Dari musik steelpan sampai makanan khas Trinidad & Tobago dan Karibia, karnaval 
 
 **Jangan sampai kelewatan event spektakuler ini, **[**langsung booking tempat kamu**](https://www.balicarnival.com/)** dan ikut merasakan serunya perpaduan Karibia dan Bali!**
 
-Mau tahu lebih awal festival apa aja yang bakal ada di 2024? Cek: [Panduan Lengkap Hari Libur Nasional Indonesia & Festival Bali 2024: Jadwal Acara Seru!](/blog/2024-bali-festival-calendar/)
+Mau tahu lebih awal festival apa aja yang bakal ada di 2024? Cek: [Panduan Lengkap Hari Libur Nasional Indonesia & Festival Bali 2024: Jadwal Acara Seru!](/id/blog/2024-bali-festival-calendar/)

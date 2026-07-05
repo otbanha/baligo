@@ -148,7 +148,7 @@ https://youtu.be/ePutHL_Ob1Q
 
 有问题直接问，不用一个人瞎摸索。🙌
 
-> 看更多：[巴厘岛不踩雷攻略：18个常见错误与建议](/blog/bali-travel-mistakes-tips/)
+> 看更多：[巴厘岛不踩雷攻略：18个常见错误与建议](/zh-cn/blog/bali-travel-mistakes-tips/)
 
 {{block:klook}}
 

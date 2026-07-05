@@ -31,7 +31,7 @@ Di video berikut, dia perkenalin 12 penginapan rekomendasi di Canggu, Ubud, Jimb
 
 Untuk penginapan mewah, Camilla ngintip Nanuku House yang keren abis—sebuah villa 4 kamar di Canggu dengan kolam renang gede, dapur outdoor, dan staf full-time.
 
-Dia juga sorot Ayana Resort yang luasnya 220 hektar dengan taman tropis hijau dan 14 kolam renang yang unforgettable. Soal Ayana Resort, kita punya ulasan khusus: [【Bali Ayana】Ayana Bali Panduan Menginap》](/blog/ayana-resort-bali-guide/)
+Dia juga sorot Ayana Resort yang luasnya 220 hektar dengan taman tropis hijau dan 14 kolam renang yang unforgettable. Soal Ayana Resort, kita punya ulasan khusus: [【Bali Ayana】Ayana Bali Panduan Menginap》](/id/blog/ayana-resort-bali-guide/)
 
 Di Ubud, Camilla nginep di Villa Yapoon, villa 6 kamar yang dikelilingi sawah, bikin suasana tenang dan damai. Dia juga cobain Bhumian Ri Retreat Center yang cantik, tempat yang pas banget buat retreat yoga dan meditasi.
 
@@ -48,7 +48,7 @@ Berdasarkan isi video, Camilla Johannesen merekomendasikan pilihan akomodasi ber
 ## Mewah-Mewahan:
 
 1. [Cek ketersediaan & harga Nanuku House](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47148081) (Canggu)
-2. [Review & booking Ayana Resort](/blog/ayana-resort-bali-guide/) (Jimbaran)
+2. [Review & booking Ayana Resort](/id/blog/ayana-resort-bali-guide/) (Jimbaran)
 
 ## Kelas Menengah Atas:
 

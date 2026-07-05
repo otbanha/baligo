@@ -35,7 +35,7 @@ _srcHash: 5c144dc45bd62d66328ebff36211f1a4
 
 ![New Offer for May 2026: Direct Flight from Taipei to Bali In](https://images.gobaligo.id/images/2026-04/1775402779415-8c1c7efa856f2ba9f2984560bfefe7f9.jpeg)
 
-Winner of the "[World's Best Vacation Destination](/blog/komodo-national-park-global-award/)" Award! This Luxurious 5-Day Tour Offers a Unique and Stress-Free Travel Experience, No Shopping Stops, No Hidden Fees, Perfect for Nature Lovers and Relaxation Seekers. Here's Your Exclusive Itinerary:
+Winner of the "[World's Best Vacation Destination](/en/blog/komodo-national-park-global-award/)" Award! This Luxurious 5-Day Tour Offers a Unique and Stress-Free Travel Experience, No Shopping Stops, No Hidden Fees, Perfect for Nature Lovers and Relaxation Seekers. Here's Your Exclusive Itinerary:
 
 ✨ **Exclusive Services**: Private Car and Guide for Two, No Sharing with Other Travelers, Enjoy Your Personal Space and Tailored Experience.
 
@@ -49,7 +49,7 @@ Winner of the "[World's Best Vacation Destination](/blog/komodo-national-park-gl
 
 🌊 **Manta Ray Snorkeling**: Snorkel in the Indian Ocean and Get Up Close with Graceful Manta Rays.
 
-🍹 **Omma Dayclub Bali**: Relax at Ubud's trendiest dayclub, where stunning views meet refreshing cocktails. Perfect for unwinding in Bali's cultural heart. [Discover more about Omma Dayclub](/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+🍹 **Omma Dayclub Bali**: Relax at Ubud's trendiest dayclub, where stunning views meet refreshing cocktails. Perfect for unwinding in Bali's cultural heart. [Discover more about Omma Dayclub](/en/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 💆 **SPA Experience**: Rejuvenate with a soothing spa treatment, releasing all travel fatigue.
 
@@ -115,7 +115,7 @@ Winner of the "[World's Best Vacation Destination](/blog/komodo-national-park-gl
 - Flight and accommodation prices vary by departure date.
 - This package is a cash discount for two travelers. Contact customer service for quotes with different group sizes.
 - This is a limited-time promotional offer; bookings are non-refundable and non-cancelable.
-- Guaranteed island access, unaffected by [visitor limits](/blog/komodo-booking-2026/).
+- Guaranteed island access, unaffected by [visitor limits](/en/blog/komodo-booking-2026/).
 
 ![Special Notes:](https://images.gobaligo.id/images/2026-04/1775403013880-573914366_1243124144524262_1616867715591804103_n.jpg)
 

@@ -84,7 +84,7 @@ To ride a motorcycle in Bali, you must hold an international driver's license; o
 
 ### 4. High Medical Costs 💰
 
-According to the owner of [Mr. Lobster Seafood Restaurant](/blog/mr-lobster-seafood-restaurant-bali/) in Bali, he often encounters tourists injured in motorcycle accidents. Due to their injuries, they are unable to participate in other activities and end up resting and dining at his restaurant. It's important to note that medical costs in Bali are extremely high. If you're unfortunate enough to get injured, the medical expenses could significantly increase your travel budget, putting a damper on your trip. (Personal experience: A friend once suffered an ankle fracture, and a simple cast/bandage cost 12,000,000 IDR, approximately USD$800.)
+According to the owner of [Mr. Lobster Seafood Restaurant](/en/blog/mr-lobster-seafood-restaurant-bali/) in Bali, he often encounters tourists injured in motorcycle accidents. Due to their injuries, they are unable to participate in other activities and end up resting and dining at his restaurant. It's important to note that medical costs in Bali are extremely high. If you're unfortunate enough to get injured, the medical expenses could significantly increase your travel budget, putting a damper on your trip. (Personal experience: A friend once suffered an ankle fracture, and a simple cast/bandage cost 12,000,000 IDR, approximately USD$800.)
 
 ### 5. Road Conditions and Natural Factors 🌧️
 
@@ -94,9 +94,9 @@ Road conditions in Bali are unpredictable, especially in Ubud and rural areas wh
 
 Bali offers many affordable transportation options, such as private cars, ride-hailing motorcycles, or ride-hailing cars. Compared to renting motorcycles, these options are safer and more convenient, making them a more reliable choice for tourists unfamiliar with local traffic.
 
-> Further reading: [Complete Guide to Private Car Hire in Bali - Costs, Booking Methods, and Advantages](/blog/bali-private-car-hire-guide/)
+> Further reading: [Complete Guide to Private Car Hire in Bali - Costs, Booking Methods, and Advantages](/en/blog/bali-private-car-hire-guide/)
 
-> Further reading: [Calling a Motorcycle Taxi via App: A Time-Saving and Effortless Experience!](/blog/bali-travel-app-motorcycle-taxi/)
+> Further reading: [Calling a Motorcycle Taxi via App: A Time-Saving and Effortless Experience!](/en/blog/bali-travel-app-motorcycle-taxi/)
 
 ![6. Affordable Alternatives](https://images.gobaligo.id/vocus/vocus_49791dac6020e950bda56dde7ee4e7f5.jpg)
 
@@ -197,4 +197,4 @@ Remember, safety comes first! This isn't meant to scare you, but rather to remin
 
 👈 **Return to the Ultimate Bali Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.
+Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/en/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.

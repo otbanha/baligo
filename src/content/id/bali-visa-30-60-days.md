@@ -28,7 +28,7 @@ _srcHash: 75f93a40253c80a330f289497916b378
 
 ![Panduan Wajib Baca untuk Visa Bali: 30 Hari vs. 60 Hari, Pah](https://images.gobaligo.id/vocus/vocus_674269d54ebfc7ede1f3a11443914ba7.png)
 
-> Baca Juga: [Panduan Perpanjangan Visa Online Indonesia/Bali 2024](/blog/2024-bali-visa-extension/)
+> Baca Juga: [Panduan Perpanjangan Visa Online Indonesia/Bali 2024](/id/blog/2024-bali-visa-extension/)
 
 Traveler ini karena kurang teliti, tidak menyadari bahwa mengajukan visa lebih dari 60 hari butuh waktu pemrosesan yang lebih lama dan perlu menyertakan bukti keuangan. Dia sudah mengajukan dan membayar pada tanggal 27, tapi saat mau masuk pada tanggal 29, ternyata proses verifikasi belum selesai. Menghadapi situasi ini, meskipun dia menunjukkan bukti pembayaran di bandara Bali, petugas imigrasi di sana tidak bisa langsung memprosesnya dan tetap harus menunggu verifikasi. Petugas imigrasi bilang, kalau dia datang lagi dalam 3 bulan, bisa pakai visa yang sudah disetujui sebelumnya.
 
@@ -42,7 +42,7 @@ Sebelum membaca **「Panduan Lengkap Liburan Mandiri ke Bali」** kami, kami den
 
 ![Panduan Wajib Baca untuk Visa Bali: 30 Hari vs. 60 Hari, Pah](https://images.gobaligo.id/vocus/vocus_efc81c47d5b097135559dfd30b494018.png)
 
-Setelah subscribe, kamu bisa langsung lanjut baca panduan lengkap kami, menjelajahi setiap sudut seru Bali. Klik **「**[**Panduan Lengkap Liburan Mandiri ke Bali**](/blog/2023-08-22-64e37f2dfd89780001b1f776/)**」**, mulai persiapkan perjalananmu ke Bali!
+Setelah subscribe, kamu bisa langsung lanjut baca panduan lengkap kami, menjelajahi setiap sudut seru Bali. Klik **「**[**Panduan Lengkap Liburan Mandiri ke Bali**](/id/blog/2023-08-22-64e37f2dfd89780001b1f776/)**」**, mulai persiapkan perjalananmu ke Bali!
 
 
-訂閱完成後，您可以立即繼續閱讀我們詳盡的攻略，深入探索峇里島的每個精彩角落。點擊**「**[**峇里島自由行究極旅行攻略**](/blog/2023-08-22-64e37f2dfd89780001b1f776/)**」**，開始準備您的峇里島之旅！
+訂閱完成後，您可以立即繼續閱讀我們詳盡的攻略，深入探索峇里島的每個精彩角落。點擊**「**[**峇里島自由行究極旅行攻略**](/id/blog/2023-08-22-64e37f2dfd89780001b1f776/)**」**，開始準備您的峇里島之旅！

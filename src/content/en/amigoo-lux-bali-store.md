@@ -40,7 +40,7 @@ Amigoo Lux Bali is conveniently located between Kuta on Bali's west coast and Sa
 
 ## Opening Hours
 
-Amigoo Lux Bali is open daily from 10 AM to 8 PM, operating year-round except during [Nyepi Day](/blog/2025-bali-nyepi-day-guide/). Whether you're out shopping in the morning or need to pick up some essentials on your way home in the evening, you're always welcome to stop by.
+Amigoo Lux Bali is open daily from 10 AM to 8 PM, operating year-round except during [Nyepi Day](/en/blog/2025-bali-nyepi-day-guide/). Whether you're out shopping in the morning or need to pick up some essentials on your way home in the evening, you're always welcome to stop by.
 
 ## A Unique Background
 

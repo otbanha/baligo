@@ -44,7 +44,7 @@ Highlight hari pertama adalah makan seafood besar di 【Jimbaran Bay】 saat sor
 
 Yi Chen Lai menyediakan
 
-> Baca juga: [9 Restoran Seafood di Jimbaran, Bali: Rekomendasi Anti Gagal](/blog/jimbaran-seafood-restaurants-list/)
+> Baca juga: [9 Restoran Seafood di Jimbaran, Bali: Rekomendasi Anti Gagal](/id/blog/jimbaran-seafood-restaurants-list/)
 
 Malamnya kami langsung menuju Ubud dan check-in di 【The Ambengan Villas Ubud by Pramana Villas】. Villa ini aku rekomendasiin bintang lima! 🌟🌟🌟🌟🌟
 
@@ -68,7 +68,7 @@ Malamnya kami langsung menuju Ubud dan check-in di 【The Ambengan Villas Ubud b
 
 ![Day 1: Pantai senja, hutan Ubud, kita datang!](https://images.gobaligo.id/images/2026-03/1774360359884-d239345d1540ed321f9c749ed1a4279b.jpeg)
 
-Termasuk dalam [20 Villa Bali yang Bikin Tercengang di Ubud](/blog/ubud-villa-pool-guide/)
+Termasuk dalam [20 Villa Bali yang Bikin Tercengang di Ubud](/id/blog/ubud-villa-pool-guide/)
 
 Kamar luas, suasananya adem, desainnya perpaduan nuansa alami Bali sama minimalis modern — apalagi area kolam renang pribadinya, beneran kayak mimpi. Pilih tempat ini jadi basecamp buat beberapa hari terakhir di Ubud, keputusan yang pas banget.
 
@@ -94,7 +94,7 @@ Seluruh aktivitas arung jeram sekitar 2 jam, lewati hutan tropis, tebing, dan ai
 
 Tapi setelah berkeringat, nyebur ke air sungai yang dingin itu rasanya puas banget, kayak dimandikan alam langsung～✨
 
-> Baca juga: [Panduan Arung Jeram Bali (FAQ Seputar Arung Jeram)](/blog/bali-rafting-ayung-telaga-waja/)
+> Baca juga: [Panduan Arung Jeram Bali (FAQ Seputar Arung Jeram)](/id/blog/bali-rafting-ayung-telaga-waja/)
 
 ### 🔹ATV Off-Road｜Sensasi Ngebut di Jalur Lumpur yang Bikin Nagih 🛻💨
 
@@ -108,13 +108,13 @@ Dokumentasi Yi Chen Lai
 
 Dokumentasi Yi Chen Lai
 
-> Baca juga: [Petualangan ATV 4 Roda di Bali: Rasakan Sensasi dan Kebebasan di Surga Tropis (Tips + FAQ + Rekomendasi Penyedia)](/blog/bali-atv-adventure-guide/)
+> Baca juga: [Petualangan ATV 4 Roda di Bali: Rasakan Sensasi dan Kebebasan di Surga Tropis (Tips + FAQ + Rekomendasi Penyedia)](/id/blog/bali-atv-adventure-guide/)
 
 ### 🔹Penutup Sempurna｜Pijat Relaksasi Satu Jam 🧖‍♀️💆‍♂️
 
 Setelah seharian penuh berkeringat, masa iya nggak pijat? Kita langsung booking SPA lokal biar badan yang capek bisa pulih total.
 
-> Baca juga: [【Kumpulan Terbaik】Rekomendasi SPA & Pijat ke Kamar di Bali — Lebih Gampang Dicari Berdasarkan Area](/blog/spa/)
+> Baca juga: [【Kumpulan Terbaik】Rekomendasi SPA & Pijat ke Kamar di Bali — Lebih Gampang Dicari Berdasarkan Area](/id/blog/spa/)
 
 Sepanjang hari kita nggak perlu khawatir soal apa pun, karena Jimni bukan cuma jemput-antar, tapi juga **bantuin jagain tas, bantu komunikasi, bahkan bantu foto-foto** — bikin kita main dengan aman dan nyaman banget~ 👏
 
@@ -143,7 +143,7 @@ Dokumentasi Yi Chen Lai, yang paling kiri itu Jimmi
 
 Sinar matahari setelah sunrise menyebar di permukaan Danau Batur, cantiknya kayak lukisan. Ini salah satu momen paling mengharukan selama perjalanan.
 
-> Baca juga: [Petualangan di Bali: Serunya Sunrise Tour Jeep Gunung Batur](/blog/batur-volcano-jeep-sunrise-tour/)
+> Baca juga: [Petualangan di Bali: Serunya Sunrise Tour Jeep Gunung Batur](/id/blog/batur-volcano-jeep-sunrise-tour/)
 
 ### 🔹 Montana Del Cafe: Kafe dengan Pemandangan Gunung Berapi ☕️⛰️
 
@@ -155,7 +155,7 @@ Foto dari/Yi Chen Lai
 
 Desain kafenya minimalis putih, spot outdoor-nya juga aesthetic banget buat foto. Tapi karena lagi hits, saran sih datang lebih awal buat rebutan tempat duduk～
 
-> Baca juga: [Rekomendasi 12 Kafe dengan Pemandangan Gunung Berapi di Kintamani Bali 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
+> Baca juga: [Rekomendasi 12 Kafe dengan Pemandangan Gunung Berapi di Kintamani Bali 🌄☕](/id/blog/kintamani-volcano-cafes-restaurants/)
 
 ### 🔹 Tegalalang Rice Terrace & Ayunan Instagramable 🌾💃
 
@@ -171,9 +171,9 @@ Kita juga nyewa dress panjang yang flowy, sewanya **370.000 IDR (sekitar USD$12)
 
 https://youtu.be/e1QnJGYvL0U
 
-> Baca juga: [Main Ayunan di Ubud: 8 Spot Foto Ayunan Terindah di Bali | Panduan Ayunan Ubud/Sewa Gaun](/blog/ubud-jungle-swings-photo-guide/)
+> Baca juga: [Main Ayunan di Ubud: 8 Spot Foto Ayunan Terindah di Bali | Panduan Ayunan Ubud/Sewa Gaun](/id/blog/ubud-jungle-swings-photo-guide/)
 
-> Baca juga: [Aktivitas Outdoor di Bali? 50 Pengalaman Alam Paling Populer](/blog/bali-top-50-outdoor-activities/)
+> Baca juga: [Aktivitas Outdoor di Bali? 50 Pengalaman Alam Paling Populer](/id/blog/bali-top-50-outdoor-activities/)
 
 ### 🔹 Bebek Tebasari Resto – Bebek Betutu 🍗✨
 
@@ -197,7 +197,7 @@ https://youtu.be/Oh-RNfjhQhM
 
 Katanya bisa **tawar setengah harga**, tapi skill nawarku cuma sekitar **diskon 30%** 🤣 Tapi meski nggak dapet harga paling murah, yang penting sih dapet barang yang kita suka～
 
-> Baca juga: [Rekomendasi Lima Pasar Seni/Art Market di Ubud: Panduan Lengkap Belanja Oleh-Oleh, Mencari Harta Karun Budaya Bali](/blog/ubud-art-markets-guide/)
+> Baca juga: [Rekomendasi Lima Pasar Seni/Art Market di Ubud: Panduan Lengkap Belanja Oleh-Oleh, Mencari Harta Karun Budaya Bali](/id/blog/ubud-art-markets-guide/)
 
 ### 🔹Pura Taman Saraswati (Water Palace): Tempat Romantis Tersembunyi di Dekat Pasar 🌺
 
@@ -223,7 +223,7 @@ https://youtu.be/nm3ufjBsiRU
 - **Di dalam cuma terima pembayaran pakai kartu kredit**, nggak terima cash, jadi jangan lupa bawa kartu
 - Kalau datang di jam sibuk (misalnya menjelang senja), mending booking dulu!
 
-> Baca juga: [Panduan Finns Beach Club](/blog/finns-beach-club-bali-guide/)
+> Baca juga: [Panduan Finns Beach Club](/id/blog/finns-beach-club-bali-guide/)
 
 Perjalanan dari Ubud ke selatan ini sekitar 2 jam, dan beneran **macet banget**. Tapi Jimmi baik banget, nggak nungguin kita di satu titik, dia milih parkir di dekat situ sambil istirahat, terus kita telepon aja kalau udah selesai, dia langsung jemput. Efisien dan bikin tenang ❤️
 
@@ -239,7 +239,7 @@ Ayana luas banget, di seluruh kawasan ada **14 kolam renang** dengan gaya masing
 
 Kami seharian nggak keluar dari hotel sama sekali, benar-benar tenggelam dalam fasilitas hotel, menikmati banget apa yang namanya 'liburan'.
 
-> Baca juga: [【Ayana Bali】Panduan Menginap di Ayana Bali](/blog/ayana-resort-bali-guide/)
+> Baca juga: [【Ayana Bali】Panduan Menginap di Ayana Bali](/id/blog/ayana-resort-bali-guide/)
 
 ### 🔹 Rock Bar: Bar Sunset Paling Ikonik di Bali 🌇🍹
 
@@ -249,7 +249,7 @@ https://youtu.be/etRRIXwFbQs
 
 Rock Bar terletak di tepi tebing, turun pakai lift khusus, rasanya kayak masuk ke markas rahasia di film. Pesan satu koktail, lihat ombak menghantam karang dan matahari perlahan tenggelam — pemandangan ini bakal nempel di ingatan lama banget, salah satu kenangan paling tak terlupakan di Bali!
 
-> Baca juga: [Cara Reservasi Rock Bar Jimbaran Bali? Panduan Lengkap!](/blog/bali-rock-bar-reservation-guide/)
+> Baca juga: [Cara Reservasi Rock Bar Jimbaran Bali? Panduan Lengkap!](/id/blog/bali-rock-bar-reservation-guide/)
 
 ## 🤍 Day 6: Terbang di Langit Uluwatu, Panduan Lengkap Paralayang + Pijat + Kuliner + Belanja 🪂💆‍♀️🍖🛍️
 
@@ -264,7 +264,7 @@ https://youtu.be/Tesno0Akf54
 - **Biayanya 1 juta IDR** (sekitar USD$65), udah termasuk ditemani instruktur, rekaman GoPro, dan file langsung dikirim
 - Kalau berat badan kamu di atas 100 kg, mungkin nggak bisa ikut, jadi pastikan dulu sebelum berangkat ya!
 
-> Baca juga: [【Pengalaman Paralayang di Bali】Terbang di Uluwatu! Pemandangan Laut Super Indah + Tips Penting](/blog/uluwatu-paragliding-ocean-view/)
+> Baca juga: [【Pengalaman Paralayang di Bali】Terbang di Uluwatu! Pemandangan Laut Super Indah + Tips Penting](/id/blog/uluwatu-paragliding-ocean-view/)
 
 Jimmi bakal bantu kamu dari awal daftar sampai komunikasi sama instruktur, semua diurusin biar kamu bisa fokus nikmatin serunya terbang. Dia juga bakal foto dan videoin kamu dari samping, ngerekam momen keren dan epic banget 📸
 
@@ -366,6 +366,6 @@ Kamu pikir itinerary dari [Yi Chen Lai](https://www.facebook.com/share/p/1AUuB62
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 
-Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
+Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
 
 {{block:攻略}}

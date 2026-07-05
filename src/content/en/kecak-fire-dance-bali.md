@@ -69,5 +69,5 @@ For those interested in watching the fire dance performance, consider the highly
 
 ## Nearby Attractions
 
-In addition to watching fire dances, this area boasts many unique natural landscapes and tourist attractions/activities! If you're planning a day trip that includes watching a fire dance performance, check out our comprehensive guide [here](/blog/bukit-peninsula-guide/) for a series of recommendations!
+In addition to watching fire dances, this area boasts many unique natural landscapes and tourist attractions/activities! If you're planning a day trip that includes watching a fire dance performance, check out our comprehensive guide [here](/en/blog/bukit-peninsula-guide/) for a series of recommendations!
 

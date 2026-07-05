@@ -45,7 +45,7 @@ The restaurant offers a spacious and minimalist environment with a simple charm.
 
 At Mr. Lobster Seafood Restaurant, in addition to enjoying fresh seafood, you can also purchase Bali's specialty—squid snacks. These tasty treats are usually only available through tour guides at specialty shops during group tours, but here, you can easily take them home as a delicious souvenir of your journey.
 
-> Further Reading: [【Netizen Recommendations】Six Categories, Over 20 Bali Souvenir Recommendations: The Perfect Choices to Preserve Precious Memories](/blog/bali-souvenirs-gift-guide/)
+> Further Reading: [【Netizen Recommendations】Six Categories, Over 20 Bali Souvenir Recommendations: The Perfect Choices to Preserve Precious Memories](/en/blog/bali-souvenirs-gift-guide/)
 
 ###
 

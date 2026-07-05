@@ -107,6 +107,6 @@ Daya tarik Capella Ubud ada di pemandangan alam yang juara, desain unik, dan pel
 
 ![Kesimpulan](https://images.gobaligo.id/vocus/vocus_0aff256da208300bcfc81788611a1174.jpg)
 
-Mau tahu lebih banyak tips Ubud? [Klik di sini](/blog/ubud-guide/)
+Mau tahu lebih banyak tips Ubud? [Klik di sini](/id/blog/ubud-guide/)
 
 {{block:住宿}}

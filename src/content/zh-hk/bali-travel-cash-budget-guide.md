@@ -20,16 +20,16 @@ _srcHash: c7df2f5b72ed8a0131bdf7bb7d17329b
 
 ## 【幾時要用現金？】相關連結
 
-* [峇里島十大美食](/blog/bali-travel-tips/)（一）
-* [峇里島十大美食](/blog/bali-top-10-foods/)（二）
-* [峇里島包車自由行全攻略 - 費用、預訂方式、優勢分析](/blog/bali-private-car-hire-guide/)
-* [短程交通用呢個：Gojek全攻略](/blog/gojek-bali-guide/)
+* [峇里島十大美食](/zh-hk/blog/bali-travel-tips/)（一）
+* [峇里島十大美食](/zh-hk/blog/bali-top-10-foods/)（二）
+* [峇里島包車自由行全攻略 - 費用、預訂方式、優勢分析](/zh-hk/blog/bali-private-car-hire-guide/)
+* [短程交通用呢個：Gojek全攻略](/zh-hk/blog/gojek-bali-guide/)
 * [喺峇里島點俾貼士？](https://youtu.be/B_oT905RkQw)
-* [峇里島戶外活動玩咩？50種最受歡迎嘅戶外體驗](/blog/bali-top-50-outdoor-activities/)
+* [峇里島戶外活動玩咩？50種最受歡迎嘅戶外體驗](/zh-hk/blog/bali-top-50-outdoor-activities/)
 
 ## 【峇里島手信】相關連結
 
-[【網友推薦】六大種類，超過20項峇里島手信推薦指南：留住珍貴回憶嘅絕佳選擇](/blog/bali-souvenirs-gift-guide/)
+[【網友推薦】六大種類，超過20項峇里島手信推薦指南：留住珍貴回憶嘅絕佳選擇](/zh-hk/blog/bali-souvenirs-gift-guide/)
 
 {{block:klook}}
 
@@ -45,6 +45,6 @@ https://youtu.be/11xViUhEnYQ
 
 ## SPA推薦
 
-[SPA都要精打細算：只推薦好評SPA](/blog/spa/)
+[SPA都要精打細算：只推薦好評SPA](/zh-hk/blog/spa/)
 
 {{block:戶外}}

@@ -57,7 +57,7 @@ Mulai dari hotel dengan kamar keluarga yang lega, restoran harga bersahabat di s
 
 ![烏布53項親子活動帶小朋友最輕鬆](https://images.gobaligo.id/vocus/vocus_fd4811a3c20b2c2754363f063e388449.png)
 
-[55 aktivitas seru di Ubud bareng anak-anak, dijamin liburan makin mudah!](/blog/ubud-with-kids-guide/)
+[55 aktivitas seru di Ubud bareng anak-anak, dijamin liburan makin mudah!](/id/blog/ubud-with-kids-guide/)
 
 ### Ada penginapan murah di Ubud?
 
@@ -383,7 +383,7 @@ Rijasa Agung Resort and Villas terletak di tengah hutan hujan Ubud, persis di at
 
 Resort ini punya kolam renang outdoor yang asri dan privat, cocok buat santai. Ada WiFi gratis, dan layanan antar-jemput bandara (dengan biaya tambahan). Kamu juga bisa pijat santai di sini. Restonya menyajikan masakan Barat dan Oriental, plus ada room service — jadi nggak perlu keluar kamar kalau lagi malas.
 
-Kamar Rijasa Agung Resort memadukan gaya modern dan klasik, dengan lantai marmer dan furnitur elegan. Setiap kamar punya balkon dengan pemandangan sungai dan hutan yang bikin speechless. Ada juga tipe Villa dengan kolam renang pribadi — privasi dan kemewahan maksimal. Suasananya luas dan nyaman, cocok banget buat istirahat dan menemukan ketenangan di tengah hijau yang jauh dari hiruk-pikuk kota. (Foto oleh [Lin Xiaozhao](/blog/bali-family-trip-highlights/))
+Kamar Rijasa Agung Resort memadukan gaya modern dan klasik, dengan lantai marmer dan furnitur elegan. Setiap kamar punya balkon dengan pemandangan sungai dan hutan yang bikin speechless. Ada juga tipe Villa dengan kolam renang pribadi — privasi dan kemewahan maksimal. Suasananya luas dan nyaman, cocok banget buat istirahat dan menemukan ketenangan di tengah hijau yang jauh dari hiruk-pikuk kota. (Foto oleh [Lin Xiaozhao](/id/blog/bali-family-trip-highlights/))
 
 > [▶ Cek harga & ketersediaan Rijasa Agung Resort and Villas](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1744536&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/c79DvepT)
 
@@ -415,7 +415,7 @@ Kamar Rijasa Agung Resort memadukan gaya modern dan klasik, dengan lantai marmer
 
 **Kamar**｜Soulshine Bali punya banyak pilihan tipe kamar, mulai dari suite double, suite keluarga, sampai studio dengan kolam renang pribadi. Semua kamar dilengkapi AC, TV layar datar, dan kamar mandi pribadi dengan shower serta perlengkapan mandi gratis. Beberapa tipe kamar juga punya balkon, jadi kamu bisa menikmati pemandangan sekitar.
 
-**Ulasan Tamu**｜Tamu pada suka banget sama desain dan pelayanan Soulshine Bali. Kolam renangnya jadi surga buat pengunjung—baik seluncuran air maupun area loncat, semuanya seru abis. Kedap suara kamarnya bagus, jadi tamu bisa bebas menikmati musik dan kumpul-kumpul sama teman. Stafnya ramah banget, siap sedia kapan pun. Suasana keseluruhan bikin rileks, cocok buat kamu yang pengin menenangkan pikiran. Makanannya enak dan mengenyangkan, apalagi sarapannya bikin puas. ([Disediakan oleh Yang Fangyu](/blog/bali-5-day-itinerary-tips/))
+**Ulasan Tamu**｜Tamu pada suka banget sama desain dan pelayanan Soulshine Bali. Kolam renangnya jadi surga buat pengunjung—baik seluncuran air maupun area loncat, semuanya seru abis. Kedap suara kamarnya bagus, jadi tamu bisa bebas menikmati musik dan kumpul-kumpul sama teman. Stafnya ramah banget, siap sedia kapan pun. Suasana keseluruhan bikin rileks, cocok buat kamu yang pengin menenangkan pikiran. Makanannya enak dan mengenyangkan, apalagi sarapannya bikin puas. ([Disediakan oleh Yang Fangyu](/id/blog/bali-5-day-itinerary-tips/))
 
 > ▶[**Cek Harga & Ketersediaan Kamar Soulshine Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2978867) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=9203399&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/djqgcgo8)
 
@@ -447,7 +447,7 @@ Kamar Rijasa Agung Resort memadukan gaya modern dan klasik, dengan lantai marmer
 
 **Kamar**｜Setiap kamar di Komaneka Rasa Sayang punya balkon pribadi dengan sofa bed, jadi kamu bisa bersantai sambil menikmati pemandangan indah. Kamar dilengkapi TV dan tempat tidur yang nyaman, bikin kamu benar-benar rileks setelah seharian berkeliling. Kamar mandi pribadi dengan shower bersih dan luas, memastikan pengalaman mandi yang maksimal.
 
-**Ulasan Tamu**｜Tamu memberikan rating tinggi untuk Komaneka at Rasa Sayang, terutama memuji lokasinya yang strategis—ke restoran, toko, atau Monkey Forest cuma perlu jalan kaki kurang dari 15 menit. Teh sore khas lokal juga jadi favorit, memberi momen tenang di sela-sela eksplorasi Ubud. Stafnya sangat ramah, bikin setiap tamu merasa seperti di rumah. Kamar di lantai atas dan kolam renangnya melebihi ekspektasi, pengalaman menginapnya bikin kesan mendalam. Banyak tamu bilang, kalau ada kesempatan, pasti bakal nginep lagi di sini. ([Disediakan oleh Oscar Lin](/blog/bali-6-day-itinerary-guide/))
+**Ulasan Tamu**｜Tamu memberikan rating tinggi untuk Komaneka at Rasa Sayang, terutama memuji lokasinya yang strategis—ke restoran, toko, atau Monkey Forest cuma perlu jalan kaki kurang dari 15 menit. Teh sore khas lokal juga jadi favorit, memberi momen tenang di sela-sela eksplorasi Ubud. Stafnya sangat ramah, bikin setiap tamu merasa seperti di rumah. Kamar di lantai atas dan kolam renangnya melebihi ekspektasi, pengalaman menginapnya bikin kesan mendalam. Banyak tamu bilang, kalau ada kesempatan, pasti bakal nginep lagi di sini. ([Disediakan oleh Oscar Lin](/id/blog/bali-6-day-itinerary-guide/))
 
 > ▶[**Cek Harga & Ketersediaan Kamar Komaneka at Rasa Sayang**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=256185) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685387&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaycLFJMEkNYmF4_nZrtOsQuyGpmYGhgZGBhtFLFqbGR09HlaJrDvc5uApss79YZVLj0MAT8SUA8-nsSdauroX_TwY6NDFyAoWmMF4-pXmCkbGjYzGIMCc5rCDkekAI9MJxvcKC5imLL5vdoqFmWMT2yWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJsYWOoZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGXywMTawMXazMHKeYJgHJ9wq7WPn9IkPM_Bx1w80iXXWjdA0vsO5UlpI3NDAwMDU0NjXVNUi0TDQ1TjbUNbE0MTI31DU2tjA107gztfPmE2MjaylIClBg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmpubm5mGWXDxRwa7CKYfvV5lraZtIMUc0i4i-LkoAtvVXtP22sxe7oEGX7Qe7693drSPnDP65wT9sYL7CPXz6zZfBYon8RalaEbEp7RK17A2MDI1MXILcDowRjBWAHkMa5iZOdiNjAyFGDawMi4g_E_DDC-YgRZAgB1UectBQMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-33856&detailFilters=17|1~17~1*31|685387~31~685387*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=285&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/j3XfJIPj)
 
@@ -473,7 +473,7 @@ Kamar Rijasa Agung Resort memadukan gaya modern dan klasik, dengan lantai marmer
 
 ![Pelayanan Kelas Dunia di Adiwana Suweta](https://images.gobaligo.id/images/2026-03/1774540287809-536098818.jpg)
 
-Masuk daftar "Hotel Terbaik 2024", dan menempati peringkat ke-3 ["25 Hotel Terbaik se-Asia"](/blog/top-bali-hotels-asia-rankings/)!
+Masuk daftar "Hotel Terbaik 2024", dan menempati peringkat ke-3 ["25 Hotel Terbaik se-Asia"](/id/blog/top-bali-hotels-asia-rankings/)!
 
 **Lokasi**｜Adiwana Suweta ada di Ubud, sekitar 1,9 km dari Puri Ubud, naik mobil sekitar 10 menit. Suasananya tenang, dekat pusat kota, jadi gampang buat jalan-jalan.
 
@@ -760,7 +760,7 @@ Resort villa bintang lima yang tersembunyi di desa Lodtunduh, selatan Ubud. Jauh
 💬 **Review**｜"Benar-benar di tengah hutan, kamar nyaman, layanan bintang lima, masakan Indonesia dan internasional di restoran bikin terkesan. Satu-satunya masalah: ogah pulang!"
 "Hidden gem Ubud sejati, dekorasi dari bahan alami, kasur empuk, staf ramah dari check-in sampai check-out." (Sumber: Tripadvisor)
 
-Info lengkap: [【Hotel Baru Ubud 2026】Review Sanggraloka Ubud: Buka Juni, Hutan Organik & Panduan Villa Pelarian](https://gobaligo.id/blog/Sanggraloka-Ubud/)
+Info lengkap: [【Hotel Baru Ubud 2026】Review Sanggraloka Ubud: Buka Juni, Hutan Organik & Panduan Villa Pelarian](https://gobaligo.id/id/blog/Sanggraloka-Ubud/)
 
 📌 **Info Pemesanan**｜Agoda 9.5⭐  Trip 9.7⭐
 
@@ -774,10 +774,10 @@ Info lengkap: [【Hotel Baru Ubud 2026】Review Sanggraloka Ubud: Buka Juni, Hut
 
 ### Ubud untuk Liburan Keluarga
 
-Kalau kamu traveling bareng keluarga dan nyari penginapan yang ramah anak, cek aja 【[Panduan Lengkap Aktivitas Liburan Keluarga di Bali](/blog/ubud-with-kids-guide/)】. Di situ ada 55 tempat dan aktivitas seru buat anak-anak, plus rekomendasi 10 penginapan terbaik di Ubud versi traveler dunia. Wajib banget dicek!
+Kalau kamu traveling bareng keluarga dan nyari penginapan yang ramah anak, cek aja 【[Panduan Lengkap Aktivitas Liburan Keluarga di Bali](/id/blog/ubud-with-kids-guide/)】. Di situ ada 55 tempat dan aktivitas seru buat anak-anak, plus rekomendasi 10 penginapan terbaik di Ubud versi traveler dunia. Wajib banget dicek!
 
 ![100種深入認識烏布的方式｜探索烏布的魅力](https://images.gobaligo.id/vocus/vocus_ea533e1649d072068698827355e60224.jpg)
 
-Kalau nggak bawa bocil dan pengin menikmati Ubud lebih dalam, ada 【[Panduan Lengkap Ubud Bali 2026: 100 Cara Seru Mengenal Ubud｜Eksplor Pesona Ubud](/blog/ubud-guide/)】 yang bakal bikin kamu makin jatuh cinta sama Ubud!
+Kalau nggak bawa bocil dan pengin menikmati Ubud lebih dalam, ada 【[Panduan Lengkap Ubud Bali 2026: 100 Cara Seru Mengenal Ubud｜Eksplor Pesona Ubud](/id/blog/ubud-guide/)】 yang bakal bikin kamu makin jatuh cinta sama Ubud!
 
 {{block:戶外}}

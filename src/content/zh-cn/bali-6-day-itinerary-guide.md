@@ -43,7 +43,7 @@ Oscar Lin提供
 
 [> Komaneka at Rasa Sayang 房价 & 空房查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=256185) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685387&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaycLFJMEkNYmF4_nZrtOsQuyGpmYGhgZGBhtFLFqbGR09HlaJrDvc5uApss79YZVLj0MAT8SUA8-nsSdauroX_TwY6NDFyAoWmMF4-pXmCkbGjYzGIMCc5rCDkekAI9MJxvcKC5imLL5vdoqFmWMT2yWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJsYWOoZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGXywMTawMXazMHKeYJgHJ9wq7WPn9IkPM_Bx1w80iXXWjdA0vsO5UlpI3NDAwMDU0NjXVNUi0TDQ1TjbUNbE0MTI31DU2tjA107gztfPmE2MjaylIClBg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmpubm5mGWXDxRwa7CKYfvV5lraZtIMUc0i4i-LkoAtvVXtP22sxe7oEGX7Qe7693drSPnDP65wT9sYL7CPXz6zZfBYon8RalaEbEp7RK17A2MDI1MXILcDowRjBWAHkMa5iZOdiNjAyFGDawMi4g_E_DDC-YgRZAgB1UectBQMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-33856&detailFilters=17|1~17~1*31|685387~31~685387*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=285&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/j3XfJIPj)
 
-已收录在[【巴厘岛乌布住宿】乌布30+特色住宿，体验巴厘岛山林美景中的奇幻之旅！](https://gobaligo.id/blog/ubud-resorts-guide/)
+已收录在[【巴厘岛乌布住宿】乌布30+特色住宿，体验巴厘岛山林美景中的奇幻之旅！](https://gobaligo.id/zh-cn/blog/ubud-resorts-guide/)
 
 
 ## 8月14日：乌布及周边景点游览
@@ -72,7 +72,7 @@ Oscar Lin提供
 
 下午，我们再次包车前往**乌鲁瓦图**（Pura Luhur Uluwatu）观看著名的火舞表演。从乌布前往这里需要约三个小时的车程，司机一路开得很稳，让我们感到很安心。到了目的地后，眼前的悬崖寺庙真的让人惊叹，壮观的景色配上火舞表演，这种独特的体验让我们觉得这趟长途跋涉非常值得。
 
-> 编按：火舞表演在演什么？请看：[Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演（附订票资讯）](/blog/kecak-fire-dance-bali/)
+> 编按：火舞表演在演什么？请看：[Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演（附订票资讯）](/zh-cn/blog/kecak-fire-dance-bali/)
 
 晚上，我们前往**Bali Collection**享用晚餐，这里是一个大型的购物中心，集合了多家餐厅和商店，非常适合一家人前来用餐和购物。
 
@@ -112,7 +112,7 @@ Oscar Lin提供
 
 https://youtu.be/Czw4ALduV14
 
-> [Oneeighty Dayclub 介绍与消费方式](/blog/oneeighty-dayclub-uluwatu-pool/)
+> [Oneeighty Dayclub 介绍与消费方式](/zh-cn/blog/oneeighty-dayclub-uluwatu-pool/)
 
 之后，我们前往位于巴厘岛西南海岸的**Rock Bar**，这里的夕阳景色真的让人难以忘怀，尤其是晚上打灯之后，整个酒吧的氛围更加迷人。我们点了几杯饮品，慢慢地享受着这里的美景，这绝对是巴厘岛之行中最浪漫的一刻。
 
@@ -122,7 +122,7 @@ Oscar Lin提供
 
 https://youtube.com/shorts/tHRxnJqxqbw
 
-> 编按：如何预约Rock Bar？请参考我们的「[巴厘岛金巴兰岩石酒吧 Rock Bar 如何预约？完整体验攻略！](/blog/bali-rock-bar-reservation-guide/)」
+> 编按：如何预约Rock Bar？请参考我们的「[巴厘岛金巴兰岩石酒吧 Rock Bar 如何预约？完整体验攻略！](/zh-cn/blog/bali-rock-bar-reservation-guide/)」
 
 最后，我们结束了这一天的行程，在司机的推荐下来到**Calma Spa**进行了一次按摩。这里的环境非常优雅，按摩师的技术也非常专业，让我们不知不觉中都放松地睡着了。
 
@@ -141,7 +141,7 @@ Oscar Lin提供
 这次行程中，我们特别推荐**Jon Devn（Agus）**这位包车司机。他是由Satrya介绍给我们的，驾驶技术非常稳定，不会随意超车或按喇叭，这让我们在巴厘岛的山路上感到非常安心。司机本人的态度也非常斯文，车内保持得非常干净整洁。如果旅程中有任何需要协助的部分，他都非常乐意帮忙，使整趟旅行变得更加轻松愉快。
 
 > 编按：这位司机也是我们名人榜的常客喔！
-> [【巴厘岛包车司机推荐名人榜】巴厘岛司机网友评鉴大全：看网友真实点评找到适合你的好司机](/blog/bali-private-car-drivers-guide/)
+> [【巴厘岛包车司机推荐名人榜】巴厘岛司机网友评鉴大全：看网友真实点评找到适合你的好司机](/zh-cn/blog/bali-private-car-drivers-guide/)
 
 您觉得 Oscar Lin 他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
 

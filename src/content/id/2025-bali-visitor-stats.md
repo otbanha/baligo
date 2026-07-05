@@ -70,7 +70,7 @@ Yang paling umum sekarang adalah B1 dan C1:
 
 ![Satu lagi yang sering ditanyakan: EVOA (Electronic Visa on A](https://images.gobaligo.id/vocus/vocus_dd1d15ae602a759d1d7e072cbd771d4d.jpg)
 
-**Referensi cepat:** [Panduan Lengkap eVisa/eVoa Indonesia/Bali: Langkah Pendaftaran & Hal yang Perlu Diperhatikan!](/blog/bali-evisa-application-guide/)
+**Referensi cepat:** [Panduan Lengkap eVisa/eVoa Indonesia/Bali: Langkah Pendaftaran & Hal yang Perlu Diperhatikan!](/id/blog/bali-evisa-application-guide/)
 
 ### Visa B1 (Tourist Visa / Visa Wisata)
 
@@ -148,7 +148,7 @@ Bisa. Sekarang EVOA (e-Visa on Arrival) bisa diajukan online sebelum berangkat,
 
 proses masuknya jadi lebih lancar dan nggak perlu antre panjang.
 
-**Referensi cepat:** [Panduan Lengkap eVisa/eVoa Indonesia/Bali: Cara Daftar, Syarat, dan Tips!](/blog/bali-evisa-application-guide/)
+**Referensi cepat:** [Panduan Lengkap eVisa/eVoa Indonesia/Bali: Cara Daftar, Syarat, dan Tips!](/id/blog/bali-evisa-application-guide/)
 
 ### Q7：EVOA bisa diperpanjang nggak?
 

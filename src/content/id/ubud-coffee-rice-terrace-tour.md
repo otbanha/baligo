@@ -31,7 +31,7 @@ _srcHash: 09dd0461d024c6cbe8485e55af43e551
 烏布市區的交通狀況簡直是「移動式停車場」！如果不怕太陽曝曬，強烈推薦用 **GoBike/GrabBike** 當代步工具～靈活穿梭在車陣中，比困在汽車裡乾瞪眼至少省下一半時間！不過記得做好防曬，安全帽下的髮型就別太在意啦～(笑)
 
 **快速參考：**  
-GoBike/GrabBike 是什麼？請看 [短途出行必備！叫車App叫機車，省時省力！](/blog/bali-travel-app-motorcycle-taxi/)
+GoBike/GrabBike 是什麼？請看 [短途出行必備！叫車App叫機車，省時省力！](/id/blog/bali-travel-app-motorcycle-taxi/)
 
 ### **我們的烏布精華路線這樣玩：**
 
@@ -131,7 +131,7 @@ Setelah puas jalan-jalan, waktunya melepas jiwa belanja! Pusat kota Ubud itu kay
 - Siapin uang tunai pecahan kecil, banyak toko nggak terima kartu kredit
 
 **Referensi cepat:**  
-[Panduan Lengkap 5 Pasar Seni/Art Market di Ubud: Belanja Souvenir/Oleh-oleh, Cari Harta Karun Budaya Bali](/blog/ubud-art-markets-guide/)
+[Panduan Lengkap 5 Pasar Seni/Art Market di Ubud: Belanja Souvenir/Oleh-oleh, Cari Harta Karun Budaya Bali](/id/blog/ubud-art-markets-guide/)
 
 ## **Pemberhentian Keempat: Tari Kecak Kecak Fire Dance**
 
@@ -177,4 +177,4 @@ Kamu suka itinerary Chen Cheng? Yuk, rencanain liburan Bali versi kamu sendiri! 
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 
-Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan "[Cara Menulis Cerita Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)" biar ceritamu makin kece!
+Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan "[Cara Menulis Cerita Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)" biar ceritamu makin kece!

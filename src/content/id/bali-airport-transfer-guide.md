@@ -85,7 +85,7 @@ Bali itu destinasi wisata terkenal di dunia yang menarik banyak turis dari berba
 - Keluarga atau rombongan: Butuh mobil besar dan pengin urusan transportasi beres sekali jalan.
 - Wisatawan yang mampir di 2 titik atau lebih (tukar uang, beli SIM card, supermarket, dll).
 
-> Baca juga: [Panduan Lengkap Sewa Mobil & Antar-Jemput](/blog/bali-private-car-hire-guide/)
+> Baca juga: [Panduan Lengkap Sewa Mobil & Antar-Jemput](/id/blog/bali-private-car-hire-guide/)
 
 ### 4. Booking Antar-Jemput Bandara via Klook/KKday
 
@@ -134,7 +134,7 @@ Begini cara nemuin titik jemput Grab/Gojek di luar bandara:
 - Melek teknologi: Udah biasa pakai aplikasi di HP.
 - Cuma mau ke satu tempat aja.
 
-> Baca juga: [Aplikasi Wajib Pas Traveling di Indonesia/Bali: Panduan Lengkap Gojek](/blog/gojek-bali-guide/)
+> Baca juga: [Aplikasi Wajib Pas Traveling di Indonesia/Bali: Panduan Lengkap Gojek](/id/blog/gojek-bali-guide/)
 
 {{block:包車}}
 
@@ -161,4 +161,4 @@ Pilih cara jemput mana yang paling pas tergantung kebutuhan, budget, dan gaya tr
 
 👈 **Kembali ke Panduan Lengkap Trip ke Bali**
 
-Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.
+Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.

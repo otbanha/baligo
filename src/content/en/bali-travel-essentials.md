@@ -37,24 +37,24 @@ https://youtu.be/0M0voLfFLrQ
 
 ### Entry and visa process:
 
-- [2024 Bali Entry Changes Explained in One Minute: Indonesia/Bali Entry Process - From Landing to Customs to Baggage Claim](/blog/2025-bali-immigration-process/)
+- [2024 Bali Entry Changes Explained in One Minute: Indonesia/Bali Entry Process - From Landing to Customs to Baggage Claim](/en/blog/2025-bali-immigration-process/)
 
 ### Attractions/Itinerary Recommendations:
 
-- [2025 Must-Visit Bali Attractions Guide: Discover 500 Latest Hotspots](/blog/bali-top-500-attractions/)
-- [Ultimate Bali Free Travel Guide: Transportation, Accommodation, Attractions, Food, Shopping, Nightlife](/blog/bali-free-travel-guide/)
+- [2025 Must-Visit Bali Attractions Guide: Discover 500 Latest Hotspots](/en/blog/bali-top-500-attractions/)
+- [Ultimate Bali Free Travel Guide: Transportation, Accommodation, Attractions, Food, Shopping, Nightlife](/en/blog/bali-free-travel-guide/)
 
 ### Bali Gastroenteritis and Drinking Water Recommendations:
 
-- [Bali Travel Health Tips: Drinking Water and Diarrhea Guide](/blog/bali-travel-health-tips/)
+- [Bali Travel Health Tips: Drinking Water and Diarrhea Guide](/en/blog/bali-travel-health-tips/)
 
 ### Currency and Exchange:
 
-- [Indonesia/Bali Travel Currency Exchange Guide: What Currency is Used? How to Get the Best Exchange Rate? Where to Exchange Money?](/blog/bali-currency-exchange-guide/)
+- [Indonesia/Bali Travel Currency Exchange Guide: What Currency is Used? How to Get the Best Exchange Rate? Where to Exchange Money?](/en/blog/bali-currency-exchange-guide/)
 
 ### About Cash:
 
-- [How Much Cash Should You Prepare for Your Bali Trip?](/blog/bali-travel-cash-budget-guide/)
+- [How Much Cash Should You Prepare for Your Bali Trip?](/en/blog/bali-travel-cash-budget-guide/)
 
 ### Where to Buy Sunscreen/Insect Repellent?
 
@@ -62,15 +62,15 @@ https://youtu.be/0M0voLfFLrQ
 
 ### New Regulations on Portable Chargers/Power Banks:
 
-- [Can You Bring Power Banks and Portable USB Fans/Neck Fans on a Plane? Latest 2025 Regulations Explained](/blog/airplane-power-bank-fan-rules-2025/)
+- [Can You Bring Power Banks and Portable USB Fans/Neck Fans on a Plane? Latest 2025 Regulations Explained](/en/blog/airplane-power-bank-fan-rules-2025/)
 
 ### Bringing Medications:
 
-- [Important Notes on Bringing Sleeping Pills/Special Prescription Medications to Indonesia/Bali](/blog/bali-medication-import-guide/)
+- [Important Notes on Bringing Sleeping Pills/Special Prescription Medications to Indonesia/Bali](/en/blog/bali-medication-import-guide/)
 
 ### Must-Read for First-Time Bali Visitors:
 
-- [32 Essential Travel Tips for First-Time Visitors to Bali](/blog/bali-ultimate-guide-2026/)
+- [32 Essential Travel Tips for First-Time Visitors to Bali](/en/blog/bali-ultimate-guide-2026/)
 
 ***
 

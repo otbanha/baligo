@@ -54,7 +54,7 @@ https://youtu.be/gECdNvG16ww
     - **Padang Padang**: A classic wave spot, perfect for experienced surfers.
     -
 - **Tips**: Beginners should take a 1-2 hour lesson to learn safety rules and basic techniques. Wear surf shoes at reef breaks to protect your feet.
- **Quick Reference**: [【Bali Surf Guide】Beaches for Different Skill Levels](/blog/bali-surf-beaches-guide/)
+ **Quick Reference**: [【Bali Surf Guide】Beaches for Different Skill Levels](/en/blog/bali-surf-beaches-guide/)
 
 ## 🌊 Thrilling Water Sports
 
@@ -121,7 +121,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ![6.1 Snorkeling](https://images.gobaligo.id/vocus/vocus_8931b9fe6f6fd60c4c95f35857142770.jpg)
 
-> Check out [The Ultimate Guide to Bali’s Best Snorkeling Spots: A Beginner-Friendly Ocean Adventure](/blog/bali-snorkeling-spots/)
+> Check out [The Ultimate Guide to Bali’s Best Snorkeling Spots: A Beginner-Friendly Ocean Adventure](/en/blog/bali-snorkeling-spots/)
 
 ### 7. Sea Walking
 
@@ -146,7 +146,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 - **Duration**: About 2–2.5 hours on the river (4–5 hours total including transport and preparation).
 - **Tips**: Wear quick-dry clothing, and bring a change of clothes and a waterproof bag.
 
-> ▶ [Bali Rafting Guide & FAQ](/blog/bali-rafting-ayung-telaga-waja/)
+> ▶ [Bali Rafting Guide & FAQ](/en/blog/bali-rafting-ayung-telaga-waja/)
 
 ### 9. Stand-Up Paddleboarding (SUP) and Sea Kayaking
 
@@ -215,7 +215,7 @@ https://youtu.be/wai2lSW3vVU?si=smSuWoB2Y5ygrC9t
 
 Beach clubs scattered across Bali are a must-visit for travelers looking to soak up the sun, feel the youthful energy, and embrace the freedom of the island!
 
-> [Why is everyone heading to Beach Clubs in Bali in 2026?](/blog/2026-bali-beach-club-guide/)
+> [Why is everyone heading to Beach Clubs in Bali in 2026?](/en/blog/2026-bali-beach-club-guide/)
 
 ### Bonus: Pool Floating
 
@@ -251,6 +251,6 @@ Under Bali's warm sun, let a stylish float add a trendy touch to your vacation! 
 
 Bali offers a wide variety of water activities, whether you're into thrilling adventures or laid-back relaxation. Plan your itinerary based on your interests, fitness level, and budget to fully enjoy the ocean charm of this tropical island!
 
-Of course, Bali isn't just about water activities—land-based adventures are equally exciting! If you want to experience both land and sea, check out this article: [What Outdoor Activities to Do in Bali? 50 Most Popular Outdoor Experiences](/blog/bali-top-50-outdoor-activities/)
+Of course, Bali isn't just about water activities—land-based adventures are equally exciting! If you want to experience both land and sea, check out this article: [What Outdoor Activities to Do in Bali? 50 Most Popular Outdoor Experiences](/en/blog/bali-top-50-outdoor-activities/)
 
 {{block:攻略}}

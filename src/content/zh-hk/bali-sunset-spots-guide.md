@@ -32,7 +32,7 @@ _srcHash: 5c03be95fb1b8dcc6eaf78774b901a33
 
 呢度係峇里島最熱鬧嘅海灘之一，唔單止有美麗嘅日落景色，仲有豐富嘅夜生活選擇。
 
-> 延伸閱讀：[峇里島庫塔旅遊攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集](/blog/2023-12-13-657598bdfd8978000120fe20/)
+> 延伸閱讀：[峇里島庫塔旅遊攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 ### **海神廟（Tanah Lot）**
 
@@ -42,7 +42,7 @@ _srcHash: 5c03be95fb1b8dcc6eaf78774b901a33
 
 呢座標誌性嘅海上廟宇係睇日落嘅熱門地點，提供壯觀嘅背景，睇住夕陽沉落地平線。
 
-> 延伸閱讀：[峇里島坎古完美探險地圖：100個坎古必遊景點](/blog/canggu-guide/)
+> 延伸閱讀：[峇里島坎古完美探險地圖：100個坎古必遊景點](/zh-hk/blog/canggu-guide/)
 
 ### **烏魯瓦圖廟（Uluwatu Temple）**
 
@@ -52,7 +52,7 @@ _srcHash: 5c03be95fb1b8dcc6eaf78774b901a33
 
 坐落喺懸崖上嘅廟宇，提供戲劇性嘅日落景觀，印度洋喺腳下延伸開去。
 
-> 延伸閱讀：[【烏魯瓦圖攻略】烏魯瓦圖景點 47個吃喝玩樂推薦](/blog/uluwatu-guide/)
+> 延伸閱讀：[【烏魯瓦圖攻略】烏魯瓦圖景點 47個吃喝玩樂推薦](/zh-hk/blog/uluwatu-guide/)
 
 ### **金巴蘭海灘（Jimbaran Beach）**
 
@@ -62,13 +62,13 @@ _srcHash: 5c03be95fb1b8dcc6eaf78774b901a33
 
 以海鮮餐廳聞名嘅金巴蘭海灘，係享受美食同時睇日落嘅好地方。
 
-> 延伸閱讀：[峇里島金巴蘭自由行：推薦30個玩樂景點全攻略](/blog/jimbaran-guide/)
+> 延伸閱讀：[峇里島金巴蘭自由行：推薦30個玩樂景點全攻略](/zh-hk/blog/jimbaran-guide/)
 
 ### **Rock Bar**
 
-位於[阿雅娜度假村](/blog/ayana-resort-bali-guide/)內，呢度係峇里島最受歡迎嘅日落酒吧之一，提供壯麗嘅懸崖海景同獨特嘅氛圍。
+位於[阿雅娜度假村](/zh-hk/blog/ayana-resort-bali-guide/)內，呢度係峇里島最受歡迎嘅日落酒吧之一，提供壯麗嘅懸崖海景同獨特嘅氛圍。
 
-> 延伸閱讀：[【峇里島阿雅娜】Ayana Bali 住宿懶人包》](/blog/ayana-resort-bali-guide/)
+> 延伸閱讀：[【峇里島阿雅娜】Ayana Bali 住宿懶人包》](/zh-hk/blog/ayana-resort-bali-guide/)
 
 ### **水明漾海灘（Seminyak Beach）**
 
@@ -76,17 +76,17 @@ _srcHash: 5c03be95fb1b8dcc6eaf78774b901a33
 
 > 延伸閱讀：
 
-> [MoonLite Kitchen and Bar：水明漾嘅日落美食天堂](/blog/moonlite-kitchen-bar-seminyak-sunset/)
+> [MoonLite Kitchen and Bar：水明漾嘅日落美食天堂](/zh-hk/blog/moonlite-kitchen-bar-seminyak-sunset/)
 
-> [峇里島水明漾 Ku De Ta Beach Club 完整攻略：餐飲、派對、日落嘅夢幻海灘體驗](/blog/ku-de-ta-beach-club/)
+> [峇里島水明漾 Ku De Ta Beach Club 完整攻略：餐飲、派對、日落嘅夢幻海灘體驗](/zh-hk/blog/ku-de-ta-beach-club/)
 
-> [水明漾景點Seminyak峇里島必去地點地圖：60個吃喝玩樂全面介紹](/blog/seminyak-guide/)
+> [水明漾景點Seminyak峇里島必去地點地圖：60個吃喝玩樂全面介紹](/zh-hk/blog/seminyak-guide/)
 
 ### **Echo Beach**
 
 位於坎古，呢度係滑浪愛好者嘅最愛，出名嘅La Brisa海灘俱樂部提供更加悠閒嘅日落觀賞環境。
 
-> 延伸閱讀：[被譽為係「峇里島最靚嘅餐廳」：La Brisa](/blog/canggu-la-brisa-restaurant-guide/)
+> 延伸閱讀：[被譽為係「峇里島最靚嘅餐廳」：La Brisa](/zh-hk/blog/canggu-la-brisa-restaurant-guide/)
 
 ## 完美日落體驗嘅建議
 

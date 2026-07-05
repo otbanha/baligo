@@ -48,7 +48,7 @@ _srcHash: 9edd33dc7e0594b5d24d2cd8b6501e00
 
 想像吓，喺幼滑潔白嘅沙灘上曬太陽，或者潛入清澈嘅海水中，同熱帶魚群一齊探索五彩繽紛嘅珊瑚礁。對於鍾意冒險嘅情侶嚟講，你哋甚至可以喺二戰沉船遺跡周圍潛水，體驗獨特嘅海底探險。
 
-> [峇里島水上活動完整指南｜峇里島唔止浮潛！15種意想不到嘅水上玩法](/blog/2026-bali-water-activities/)
+> [峇里島水上活動完整指南｜峇里島唔止浮潛！15種意想不到嘅水上玩法](/zh-hk/blog/2026-bali-water-activities/)
 
 ### 🌿 綠意盎然嘅叢林秘境
 
@@ -66,7 +66,7 @@ _srcHash: 9edd33dc7e0594b5d24d2cd8b6501e00
 - 參加蠟染 (batik) 或銀飾工藝工作坊，親手製作專屬紀念品
 - 喺梯田環繞嘅瑜伽課程中放鬆身心，讓心靈得到真正嘅平靜
 
-> [2026峇里島完整烏布攻略：100種深入認識烏布嘅方式｜探索烏布嘅魅力](/blog/ubud-guide/)
+> [2026峇里島完整烏布攻略：100種深入認識烏布嘅方式｜探索烏布嘅魅力](/zh-hk/blog/ubud-guide/)
 
 ### 💎 多元體驗，滿足所有蜜月幻想
 
@@ -80,7 +80,7 @@ _srcHash: 9edd33dc7e0594b5d24d2cd8b6501e00
 - **冒險情侶**：滑浪、潛水、火山行山
 - **療癒系**：傳統 SPA 同養生體驗
 
-> [【精華篇】峇里島好評SPA、到府按摩推薦大集合 用區域劃分更方便查找](/blog/spa/)
+> [【精華篇】峇里島好評SPA、到府按摩推薦大集合 用區域劃分更方便查找](/zh-hk/blog/spa/)
 
 ---
 
@@ -96,11 +96,11 @@ _srcHash: 9edd33dc7e0594b5d24d2cd8b6501e00
 
 **📖 峇里島蜜月/情侶延伸閱讀：**
 
-- [點解越來越多人選擇峇里島度蜜月？峇里島度蜜月常見問題解答](/blog/bali-honeymoon-faq/)
-- [浪漫蜜月勝地大公開！峇里島擊敗馬爾代夫奪得全世界冠軍！](/blog/bali-honeymoon-destination/)
-- [峇里島蜜月浪漫指南：探索峇里島情侶/蜜月旅行嘅36種玩法](/blog/bali-honeymoon-romantic-activities-2/)
-- [蜜月住邊度？蜜月新婚/情侶就睇呢一篇！【20間度蜜月度假村、浪漫villa推薦】](/blog/bali-honeymoon-resorts-guide/)
-- [《World Travel Awards》峇里島榮獲2024年度全球最浪漫旅遊目的地殊榮](/blog/bali-world-travel-awards-2024/)
-- [認證：峇里島成為全球最佳影美照蜜月勝地](/blog/bali-best-honeymoon-photo-spot/)
+- [點解越來越多人選擇峇里島度蜜月？峇里島度蜜月常見問題解答](/zh-hk/blog/bali-honeymoon-faq/)
+- [浪漫蜜月勝地大公開！峇里島擊敗馬爾代夫奪得全世界冠軍！](/zh-hk/blog/bali-honeymoon-destination/)
+- [峇里島蜜月浪漫指南：探索峇里島情侶/蜜月旅行嘅36種玩法](/zh-hk/blog/bali-honeymoon-romantic-activities-2/)
+- [蜜月住邊度？蜜月新婚/情侶就睇呢一篇！【20間度蜜月度假村、浪漫villa推薦】](/zh-hk/blog/bali-honeymoon-resorts-guide/)
+- [《World Travel Awards》峇里島榮獲2024年度全球最浪漫旅遊目的地殊榮](/zh-hk/blog/bali-world-travel-awards-2024/)
+- [認證：峇里島成為全球最佳影美照蜜月勝地](/zh-hk/blog/bali-best-honeymoon-photo-spot/)
 
 **咁，你會選擇峇里島作為你嘅蜜月目的地嗎？你又會喺邊度影你嘅愛情故事呢？**

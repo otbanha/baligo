@@ -38,7 +38,7 @@ _srcHash: a0765b66bbb8e39bd51c8263cf0850a5
 
 综合考量，最佳旅游时间是干季的五月到十月。如果您希望避开人潮，并且享受相对舒适的天气，十月和十一月也是不错的选择。无论何时前往，巴厘岛都有其独特的魅力等待您去探索和体验。
 
-延伸阅读：[巴厘岛雨季月份/降雨概率/降雨天数/平均气温/适合旅游指数...大解析](/blog/bali-rainy-season-travel-guide/)
+延伸阅读：[巴厘岛雨季月份/降雨概率/降雨天数/平均气温/适合旅游指数...大解析](/zh-cn/blog/bali-rainy-season-travel-guide/)
 
 ![较不适合旅游的月份：](https://images.gobaligo.id/vocus/vocus_bc7919a88322f5be4a88faea86280d81.png)
 
@@ -46,6 +46,6 @@ _srcHash: a0765b66bbb8e39bd51c8263cf0850a5
 
 巴厘岛是许多旅人心目中的度假胜地，结合热带风情与独特文化，吸引无数人前往体验。不过，选择适当的旅游时节对于旅游品质和预算控制来说，也是相当重要的考量。
 
-请继续参考：[巴厘岛居然有五个旅游旺季！如何避开旺季聪明旅游？](/blog/bali-peak-season-travel-tips/)
+请继续参考：[巴厘岛居然有五个旅游旺季！如何避开旺季聪明旅游？](/zh-cn/blog/bali-peak-season-travel-tips/)
 
 ##

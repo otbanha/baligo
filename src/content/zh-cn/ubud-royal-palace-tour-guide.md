@@ -58,7 +58,7 @@ https://youtube.com/shorts/Oh-RNfjhQhM
 
 乌布艺术市场位于乌布皇宫的对面，是一个充满巴厘岛传统特色的集市。这里出售的商品种类繁多，包括手工饰品、木雕、绘画、传统服饰等，每件商品都展现出当地浓厚的艺术氛围。记得在购物时可以适当议价，让你以更优惠的价格带走心仪的纪念品！
 
-延伸阅读：[推荐乌布五大艺术市集完整指南：购买纪念品/伴手礼，寻访巴厘岛文化宝藏](/blog/ubud-art-markets-guide/)
+延伸阅读：[推荐乌布五大艺术市集完整指南：购买纪念品/伴手礼，寻访巴厘岛文化宝藏](/zh-cn/blog/ubud-art-markets-guide/)
 
 ### 2. 乌布水皇宫（Pura Taman Saraswati）🗺️[地图位置](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
@@ -127,7 +127,7 @@ https://youtu.be/JtxZHtijEkE
 **2. 乌布皇宫的门票费用是多少？**
 
 - 参观乌布皇宫的日间门票是免费的。若要观赏晚上举行的传统舞蹈表演，则需要购买票券，费用大约为 IDR 100K（约 USD$6），票价可能因演出而异。建议可以[事先预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=944134&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2deaa6927)
-- 票价100K...其中的K是什么意思？请看[这里](/blog/bali-budget-tips-k-explained/)
+- 票价100K...其中的K是什么意思？请看[这里](/zh-cn/blog/bali-budget-tips-k-explained/)
 
 **3. 可以进入乌布皇宫的所有区域吗？**
 

@@ -88,4 +88,4 @@ Here's a guide to Bali's most anticipated festivals and events in the recent mon
 - **Location**: Munggu Village
 - **Description**: A traditional ritual where male villagers line up with bamboo poles to ward off evil spirits and pray for health and bountiful harvests.
 
-> For more exciting festivals, check out: [2026 Indonesia Public Holidays & Bali Festival Guide: Complete Year-Round Event Dates!](https://gobaligo.id/blog/2026-bali-festival-guide/)
+> For more exciting festivals, check out: [2026 Indonesia Public Holidays & Bali Festival Guide: Complete Year-Round Event Dates!](https://gobaligo.id/en/blog/2026-bali-festival-guide/)

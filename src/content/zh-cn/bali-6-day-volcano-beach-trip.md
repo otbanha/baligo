@@ -32,7 +32,7 @@ _srcHash: 9c96d1945df801446b17cd0761b4304a
 
 戴妤珊提供
 
-> 山竹什么季节最好？请看：[热带水果女王-印尼/巴厘岛山竹的产季](/blog/bali-mangosteen-season/)
+> 山竹什么季节最好？请看：[热带水果女王-印尼/巴厘岛山竹的产季](/zh-cn/blog/bali-mangosteen-season/)
 
 每天早上，他都准时到villa接我们，而且对我们的需求总是能迅速地给予回应。我们想要找书店时，他马上打电话给书店，用印尼话询问店员。即使在百沙基母庙，他也会在我们下车前提醒我们注意事项。能够遇到Komang Sucika这样的司机，我们感到非常幸运！他的服务已经远超出他收取的价格，我们给予了他丰厚的小费，因为我们认为他绝对值得更多。
 
@@ -62,11 +62,11 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 视频由戴妤珊提供
 
-> La Brisa详细介绍/如何预约？请看：[被誉为是「巴厘岛最漂亮的餐厅」：La Brisa在数以万计的美食餐厅之中如何脱颖而出？](/blog/canggu-la-brisa-restaurant-guide/)
+> La Brisa详细介绍/如何预约？请看：[被誉为是「巴厘岛最漂亮的餐厅」：La Brisa在数以万计的美食餐厅之中如何脱颖而出？](/zh-cn/blog/canggu-la-brisa-restaurant-guide/)
 
 ![第一天（库塔/坎古）：](https://images.gobaligo.id/vocus/vocus_a8d594309ff33fbcc5edd332d4309d42.jpg)
 
-想了解更多坎古攻略？[请点击这里](/blog/canggu-guide/)
+想了解更多坎古攻略？[请点击这里](/zh-cn/blog/canggu-guide/)
 
 ## 第二天(Ubud)：
 
@@ -77,7 +77,7 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 - 乌布市场
 - 乌布皇宫
 
-> 乌布闹区怎么逛？请看[乌布市中心逛街攻略](/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
+> 乌布闹区怎么逛？请看[乌布市中心逛街攻略](/zh-cn/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
 
 - 德哥拉朗梯田
 
@@ -95,7 +95,7 @@ https://youtu.be/op78Dk8CjL4
 
 戴妤珊提供
 
-> 这个景点的详细介绍请看：[穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/blog/penglipuran-village-bali-experience/)
+> 这个景点的详细介绍请看：[穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/zh-cn/blog/penglipuran-village-bali-experience/)
 
 - 午餐：Naughty Nuri's Ubud（猪肋排很有名）
 - 点心：Tukies cocount shop（椰子冰）
@@ -162,7 +162,7 @@ https://youtu.be/op78Dk8CjL4
 
 戴妤珊提供
 
-> [巴厘岛乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](https://gobaligo.id/blog/uluwatu-temple-travel-guide/)
+> [巴厘岛乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](https://gobaligo.id/zh-cn/blog/uluwatu-temple-travel-guide/)
 
 - Suluban Beach（美丽的沙滩！）
 
@@ -177,7 +177,7 @@ https://youtu.be/hQbBTktqEqY
 
 这次的旅程让我们收获满满，如果你正计划着巴厘岛之旅，不妨参考一下我的行程哦！
 
-> [【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](https://gobaligo.id/blog/bali-souvenirs-gift-guide/)
+> [【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](https://gobaligo.id/zh-cn/blog/bali-souvenirs-gift-guide/)
 
 ## 【巴厘岛包车司机推荐 Part 2】
 

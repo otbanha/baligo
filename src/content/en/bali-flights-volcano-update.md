@@ -61,7 +61,7 @@ This means travelers flying directly from Taiwan to Bali **can still depart as s
 
 **Cancelled Domestic Flights:**
 
-- [Labuan Bajo Komodo Airport](/blog/komodo-island-labuan-bajo-travel/) to Bali (2 flights)
+- [Labuan Bajo Komodo Airport](/en/blog/komodo-island-labuan-bajo-travel/) to Bali (2 flights)
 
 **Cancelled Departures:**
 

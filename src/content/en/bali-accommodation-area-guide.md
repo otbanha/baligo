@@ -49,7 +49,7 @@ Kuta, one of Bali's earliest commercial districts, is located near Bali's intern
 
 Kuta is a melting pot of diverse cultures in Bali
 
-With a wide variety of activities, attractions, and accommodation options in Kuta, we've prepared a guide you might want to save >>[Kuta Travel Guide: 50 Must-Visit Spots, Vibrant Nightlife, Delicious Food, Recommended Spas All in One Place](/blog/kuta-guide/)
+With a wide variety of activities, attractions, and accommodation options in Kuta, we've prepared a guide you might want to save >>[Kuta Travel Guide: 50 Must-Visit Spots, Vibrant Nightlife, Delicious Food, Recommended Spas All in One Place](/en/blog/kuta-guide/)
 
 ## Legian
 
@@ -65,7 +65,7 @@ Located just north of Legian, Seminyak is Bali's most fashionable destination. T
 
 Want to see what Seminyak looks like? >>[Check out Jay's video introduction](https://youtu.be/uFv_4Wr6YsI?si=EBJL09xoRoIQJfyD&t=181)
 
-When traveling to Seminyak, be sure to consult our >>[Seminyak Travel Guide Map](/blog/seminyak-guide/): Detailed introduction to 100 locations!
+When traveling to Seminyak, be sure to consult our >>[Seminyak Travel Guide Map](/en/blog/seminyak-guide/): Detailed introduction to 100 locations!
 
 ![水明漾有一種高級的氛圍](https://images.gobaligo.id/vocus/vocus_e236bcb399e2d79bf7b0b77f24166b71.png)
 
@@ -73,10 +73,10 @@ Seminyak exudes an upscale vibe
 
 If you're planning to stay in Seminyak, you can also check out our recommended highly-rated accommodations:
 
-- [Bali's Prime Area: 10 Budget-Friendly Accommodations in Seminyak](/blog/seminyak-budget-hotels-guide/)
-- [Guide to Themed Beach Resorts in Seminyak](/blog/seminyak-beach-resorts-guide/)
-- [18 Stunning Bali Villas in Seminyak](/blog/seminyak-private-villas-guide/)
-- [Seminyak: Affordable Bali Villas Under $100](/blog/seminyak-budget-villas-guide/)
+- [Bali's Prime Area: 10 Budget-Friendly Accommodations in Seminyak](/en/blog/seminyak-budget-hotels-guide/)
+- [Guide to Themed Beach Resorts in Seminyak](/en/blog/seminyak-beach-resorts-guide/)
+- [18 Stunning Bali Villas in Seminyak](/en/blog/seminyak-private-villas-guide/)
+- [Seminyak: Affordable Bali Villas Under $100](/en/blog/seminyak-budget-villas-guide/)
 
 ## Canggu
 
@@ -88,8 +88,8 @@ Although not a traditional tourist destination, Canggu's unique style attracts v
 
 {{block:canggu}}
 
-- [Canggu Top 12 Must-Visit Accommodation Recommendations](/blog/canggu-top-hotels-guide/)
-- [16 Private Pool Villas in Canggu: Bali Villas You Can't Miss](/blog/canggu-villas-guide/)
+- [Canggu Top 12 Must-Visit Accommodation Recommendations](/en/blog/canggu-top-hotels-guide/)
+- [16 Private Pool Villas in Canggu: Bali Villas You Can't Miss](/en/blog/canggu-villas-guide/)
 
 ## Ubud
 
@@ -103,14 +103,14 @@ Ubud is a must-visit destination on every trip to Bali.
 
 Want to see what Ubud looks like? >>[Check out Xiao Jie's video introduction](https://youtu.be/uFv_4Wr6YsI?si=JqgwwyGqWFL2BQgD&t=488)
 
-It's hard to fully describe Ubud in just a few words. To learn more about Ubud, check out our >>Complete Guide to Ubud: [100 Ways to Experience Ubud](/blog/ubud-guide/). For families traveling with kids, see: [Ubud Family Travel Guide: 55 Kid-Friendly Activities Made Easy!](/blog/ubud-with-kids-guide/)
+It's hard to fully describe Ubud in just a few words. To learn more about Ubud, check out our >>Complete Guide to Ubud: [100 Ways to Experience Ubud](/en/blog/ubud-guide/). For families traveling with kids, see: [Ubud Family Travel Guide: 55 Kid-Friendly Activities Made Easy!](/en/blog/ubud-with-kids-guide/)
 
 Ubud also offers diverse accommodation options, from mountain villas and five-star resorts to budget hotels and guesthouses, catering to different preferences. Whether you prefer staying in the town center or surrounded by countryside scenery, Ubud has the perfect lodging for a comfortable exploration of the area. Check out:
 
-- [Bali Ubud Accommodation: 28 Unique Stays to Experience the Magic of Bali's Mountain Scenery!](/blog/ubud-villas-pool-guide/)
-- [Discover 10 Breathtaking Tree House/Bamboo Villa Stays in Ubud](/blog/ubud-treehouse-bamboo-villa-stays/)
-- [Ubud Accommodation Recommendations: Private Paradise Pool Villas - 18 Stunning Bali Villa Picks](/blog/ubud-villa-pool-guide/)
-- [Ubud Yoga Retreat Recommendations: 10 Dreamy Options Combining Yoga Classes and Spiritual Relaxation](/blog/ubud-yoga-retreats-bali/)
+- [Bali Ubud Accommodation: 28 Unique Stays to Experience the Magic of Bali's Mountain Scenery!](/en/blog/ubud-villas-pool-guide/)
+- [Discover 10 Breathtaking Tree House/Bamboo Villa Stays in Ubud](/en/blog/ubud-treehouse-bamboo-villa-stays/)
+- [Ubud Accommodation Recommendations: Private Paradise Pool Villas - 18 Stunning Bali Villa Picks](/en/blog/ubud-villa-pool-guide/)
+- [Ubud Yoga Retreat Recommendations: 10 Dreamy Options Combining Yoga Classes and Spiritual Relaxation](/en/blog/ubud-yoga-retreats-bali/)
 
 ![Ubud](https://images.gobaligo.id/vocus/vocus_c0a56c56099cc0fe60cba864bdf58052.png)
 
@@ -124,4 +124,4 @@ Ubud also offers diverse accommodation options, from mountain villas and five-st
 
 👈 **Return to the Ultimate Bali Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.
+Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/en/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.

@@ -44,8 +44,8 @@ At the same time, before bargaining, consider that the seller also needs to make
 
 In summary, bargaining is a common practice when shopping in Bali, but it requires some skill and strategy. We hope these shopping tips and bargaining techniques help you secure satisfactory prices and items during your Bali shopping experience.
 
-> Further reading: [Essential Guide to Safe and Convenient Travel Shopping](/blog/travel-shopping-safety/)
+> Further reading: [Essential Guide to Safe and Convenient Travel Shopping](/en/blog/travel-shopping-safety/)
 
-> Further reading: [Kumbasari Art Market: Bali’s Largest Wholesale Art Market](/blog/kumbasari-art-market-shopping/)
+> Further reading: [Kumbasari Art Market: Bali’s Largest Wholesale Art Market](/en/blog/kumbasari-art-market-shopping/)
 
-> Further Reading: [Four Ongoing Weekend Markets in Bali: The Most Authentic Shopping Experience](/blog/bali-weekend-markets-2026/)
+> Further Reading: [Four Ongoing Weekend Markets in Bali: The Most Authentic Shopping Experience](/en/blog/bali-weekend-markets-2026/)

@@ -76,7 +76,7 @@ Although no additional documents are officially required, applicants may need to
 It is recommended to carry relevant documents such as travel itineraries, accommodation proofs, and return flight tickets for reference.
 
 **Quick Reference:**  
-[Guide to Extending Your Visa Online in Indonesia/Bali](/blog/2024-bali-visa-extension/)
+[Guide to Extending Your Visa Online in Indonesia/Bali](/en/blog/2024-bali-visa-extension/)
 
 ---
 

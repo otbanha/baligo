@@ -39,7 +39,7 @@ _srcHash: 96d6c82b21a95e39e404fcf90901d477
 
 離開猴林後，佢哋沿住一條小徑去咗烏布周邊嘅鄉間。途中景色怡人，一路上都係綠意盎然嘅田園風光，處處散發出祥和悠閒嘅氛圍。最終抵達一片寧靜嘅稻田，彷彿置身世外桃源，呢個情景亦令佢哋諗起之前去哥斯大黎加嘅經歷。
 
-呢條被稱為天空步道嘅小徑我哋有專文介紹: [烏布中心步行可到嘅距離居然有咁樣嘅天堂？「烏布天空步道」Campuhan Ridge Walk介紹](/blog/ubud-campuhan-ridge-walk/)
+呢條被稱為天空步道嘅小徑我哋有專文介紹: [烏布中心步行可到嘅距離居然有咁樣嘅天堂？「烏布天空步道」Campuhan Ridge Walk介紹](/zh-hk/blog/ubud-campuhan-ridge-walk/)
 
 ## 藝術市集
 
@@ -75,11 +75,11 @@ _srcHash: 96d6c82b21a95e39e404fcf90901d477
 
 ## 更多烏布景點介紹
 
-我哋收集咗超過100個景點/玩法嘅[[2026峇里島烏布完整攻略](/blog/ubud-guide/)]提供俾烏布旅遊者參考㗎！
+我哋收集咗超過100個景點/玩法嘅[[2026峇里島烏布完整攻略](/zh-hk/blog/ubud-guide/)]提供俾烏布旅遊者參考㗎！
 
 ![烏布完整攻略請按我](https://images.gobaligo.id/vocus/vocus_6669af373794716c6a95b23100cb5c11.png)
 
-[烏布完整攻略請按我](/blog/ubud-guide/)
+[烏布完整攻略請按我](/zh-hk/blog/ubud-guide/)
 
 ## 烏布特色住宿
 
@@ -87,7 +87,7 @@ _srcHash: 96d6c82b21a95e39e404fcf90901d477
 
 喺我哋嘅文章入面，我哋會深入介紹每一間住宿嘅特色同魅力，以及點樣預訂你嘅下一次烏布之旅。等我哋一齊探索呢啲令人驚嘆嘅山林美景，體驗峇里島嘅獨特魅力啦！
 
-- [【烏布蜜月住宿】七間烏布度蜜月推薦住宿](/blog/bali-honeymoon-resorts-guide/)
-- [【峇里島烏布住宿】烏布21間特色住宿，體驗峇里島山林美景中嘅奇幻之旅！](/blog/ubud-villas-pool-guide/)
-- [探索烏布8間令人嘆為觀止嘅樹屋/竹屋別墅 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)
-- [【烏布住宿推薦】泳池別墅私密天堂: 烏布12間令人驚艷嘅峇里島villa](/blog/ubud-villa-pool-guide/)
+- [【烏布蜜月住宿】七間烏布度蜜月推薦住宿](/zh-hk/blog/bali-honeymoon-resorts-guide/)
+- [【峇里島烏布住宿】烏布21間特色住宿，體驗峇里島山林美景中嘅奇幻之旅！](/zh-hk/blog/ubud-villas-pool-guide/)
+- [探索烏布8間令人嘆為觀止嘅樹屋/竹屋別墅 tree house/bamboo villa](/zh-hk/blog/ubud-treehouse-bamboo-villa-stays/)
+- [【烏布住宿推薦】泳池別墅私密天堂: 烏布12間令人驚艷嘅峇里島villa](/zh-hk/blog/ubud-villa-pool-guide/)

@@ -86,7 +86,7 @@ Cretya Ubud setiap hari paling ramai dari siang sampai sore
 
 ## Tempat Seru Lain di Ubud?
 
-Di Ubud, setidaknya ada 50 tempat dan aktivitas yang menunggu kamu explore. Mau suka budaya, alam, atau olahraga petualangan, Ubud punya semuanya. Dari Monkey Forest yang keren, candi kuno, pemandangan sawah yang memukau, sampai pasar seni yang penuh kreativitas, Ubud menawarkan pilihan yang super beragam. Cek panduan kami "[Panduan Lengkap Ubud Bali: 10](/blog/ubud-guide/)[Cara Kenal Lebih Dalam Ubud | Eksplor Pesona Ubud](/blog/ubud-guide/)" buat info lebih detail, bantu kamu rencanain liburan Ubud yang gak terlupakan.
+Di Ubud, setidaknya ada 50 tempat dan aktivitas yang menunggu kamu explore. Mau suka budaya, alam, atau olahraga petualangan, Ubud punya semuanya. Dari Monkey Forest yang keren, candi kuno, pemandangan sawah yang memukau, sampai pasar seni yang penuh kreativitas, Ubud menawarkan pilihan yang super beragam. Cek panduan kami "[Panduan Lengkap Ubud Bali: 10](/id/blog/ubud-guide/)[Cara Kenal Lebih Dalam Ubud | Eksplor Pesona Ubud](/id/blog/ubud-guide/)" buat info lebih detail, bantu kamu rencanain liburan Ubud yang gak terlupakan.
 
 ## Pilihan Akomodasi di Ubud
 
@@ -94,8 +94,8 @@ Pariwisata Ubud didukung akomodasi lengkap, dari hostel murah sampai resort mewa
 
 ![Pilihan Akomodasi di Ubud](https://images.gobaligo.id/vocus/vocus_02093589e6f9903498b1c3ef6c792e6f.jpg)
 
-- [【Rekomendasi Akomodasi Ubud Bali】28 Penginapan Unik di Ubud, Rasakan Keajaiban Pemandian Alam Bali!](/blog/ubud-villas-pool-guide/)
-- [Jelajahi 9 Tree House/Bamboo Villa di Ubud yang Bikin Takjub](/blog/ubud-treehouse-bamboo-villa-stays/)
-- [【Rekomendasi Akomodasi Ubud】Surga Pribadi Villa Berkolam Renang: 20 Villa Bali yang Memukau di Ubud](/blog/ubud-villa-pool-guide/)
-- [Rekomendasi Akomodasi Yoga di Ubud: 10 Pilihan Impian yang Gabungin Kelas Yoga dan Relaksasi Jiwa](/blog/ubud-yoga-retreats-bali/)
-- [“Hotel Terbaik Dunia” Nomor Satu di Bali: Kemewahan Tersembunyi di Hutan—Capella Ubud](/blog/capella-ubud-luxury-resort/)
+- [【Rekomendasi Akomodasi Ubud Bali】28 Penginapan Unik di Ubud, Rasakan Keajaiban Pemandian Alam Bali!](/id/blog/ubud-villas-pool-guide/)
+- [Jelajahi 9 Tree House/Bamboo Villa di Ubud yang Bikin Takjub](/id/blog/ubud-treehouse-bamboo-villa-stays/)
+- [【Rekomendasi Akomodasi Ubud】Surga Pribadi Villa Berkolam Renang: 20 Villa Bali yang Memukau di Ubud](/id/blog/ubud-villa-pool-guide/)
+- [Rekomendasi Akomodasi Yoga di Ubud: 10 Pilihan Impian yang Gabungin Kelas Yoga dan Relaksasi Jiwa](/id/blog/ubud-yoga-retreats-bali/)
+- [“Hotel Terbaik Dunia” Nomor Satu di Bali: Kemewahan Tersembunyi di Hutan—Capella Ubud](/id/blog/capella-ubud-luxury-resort/)

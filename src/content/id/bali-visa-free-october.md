@@ -21,7 +21,7 @@ _srcHash: 7ad145d2af048a102f848bccd172bdb3
 ---
 Update: 2026/07/03
 
-**Kesimpulan dulu**: Agustus 2024 sempat beredar kabar Bali bakal buka bebas visa pada Oktober, tapi karena masalah overtourism makin panas (tahun 2024 turis asing sudah tembus 11,7 juta orang), kebijakannya terus molor dan berubah. **Hasil akhirnya: Taiwan nggak masuk daftar bebas visa Indonesia**, sekarang masuk masih harus pakai visa on arrival atau e-VOA. Daftar terbaru bisa cek di [Daftar 13 Negara Bebas Visa Indonesia](/blog/indonesia-visa-free-countries-list/).
+**Kesimpulan dulu**: Agustus 2024 sempat beredar kabar Bali bakal buka bebas visa pada Oktober, tapi karena masalah overtourism makin panas (tahun 2024 turis asing sudah tembus 11,7 juta orang), kebijakannya terus molor dan berubah. **Hasil akhirnya: Taiwan nggak masuk daftar bebas visa Indonesia**, sekarang masuk masih harus pakai visa on arrival atau e-VOA. Daftar terbaru bisa cek di [Daftar 13 Negara Bebas Visa Indonesia](/id/blog/indonesia-visa-free-countries-list/).
 
 ## Soal Bebas Visa Bali: Sikap dan Pertimbangan Pemerintah Indonesia
 
@@ -47,7 +47,7 @@ Banyak warga Bali yang mengeluh, tingkah laku turis asing mulai mengganggu kehid
 
 Banjirnya turis juga berdampak buruk pada lingkungan alam Bali. Pembangunan yang berlebihan dan tekanan dari banyaknya orang menyebabkan pemandangan alam menurun, ekosistem rusak—semua ini mengancam keberlanjutan jangka panjang Bali.
 
-> Baca juga: [Bali Ternyata Punya Lima Musim Liburan! Gimana Cara Pinter Traveling Biar Nggak Kena Peak Season?](/blog/bali-peak-season-travel-tips/)
+> Baca juga: [Bali Ternyata Punya Lima Musim Liburan! Gimana Cara Pinter Traveling Biar Nggak Kena Peak Season?](/id/blog/bali-peak-season-travel-tips/)
 
 ## Pelajaran dari Barcelona
 

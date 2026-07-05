@@ -41,9 +41,9 @@ Update: 2026/07/03
 
 **快速參考：**
 
-- [峇里島嘅祭拜習俗：Canang Sari](/blog/bali-canang-sari-explained/)
-- [【2025】Tirta Empul 聖泉寺完整指南：峇里島最神聖嘅淨化水廟體驗](/blog/tirta-empul-temple-guide/)
-- [【峇里島靈療/靈性之旅】當《Eat Pray Love》成為我嘅真實人生](/blog/eat-pray-love-bali-spiritual-journey/)
+- [峇里島嘅祭拜習俗：Canang Sari](/zh-hk/blog/bali-canang-sari-explained/)
+- [【2025】Tirta Empul 聖泉寺完整指南：峇里島最神聖嘅淨化水廟體驗](/zh-hk/blog/tirta-empul-temple-guide/)
+- [【峇里島靈療/靈性之旅】當《Eat Pray Love》成為我嘅真實人生](/zh-hk/blog/eat-pray-love-bali-spiritual-journey/)
 
 ### ✨ **多元化嘅旅遊體驗**
 
@@ -53,7 +53,7 @@ Update: 2026/07/03
 
 **快速參考：**
 
-- [峇里島戶外活動玩啲乜？50種最受歡迎嘅戶外體驗](/blog/bali-top-50-outdoor-activities/)
+- [峇里島戶外活動玩啲乜？50種最受歡迎嘅戶外體驗](/zh-hk/blog/bali-top-50-outdoor-activities/)
 
 ### ✨ **同旅人連結嘅溫度**
 
@@ -77,7 +77,7 @@ Update: 2026/07/03
 
 **快速參考：**
 
-- [2025峇里島景點地圖推薦攻略 ｜500個最新峇里島人氣景點一次集齊](/blog/bali-top-500-attractions/)
+- [2025峇里島景點地圖推薦攻略 ｜500個最新峇里島人氣景點一次集齊](/zh-hk/blog/bali-top-500-attractions/)
 
 ***
 
@@ -97,4 +97,4 @@ Update: 2026/07/03
 
 ## 第一次去峇里島應該從邊度開始規劃？
 
-建議先睇[500個人氣景點地圖攻略](/blog/bali-top-500-attractions/)掌握全島景點分布，再按興趣選擇烏布（文化靜心）、水明漾（精品購物）或金巴蘭（海景美食）作為住宿基地。
+建議先睇[500個人氣景點地圖攻略](/zh-hk/blog/bali-top-500-attractions/)掌握全島景點分布，再按興趣選擇烏布（文化靜心）、水明漾（精品購物）或金巴蘭（海景美食）作為住宿基地。

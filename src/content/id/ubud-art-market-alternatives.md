@@ -49,9 +49,9 @@ Bali punya banyak tempat belanja yang beragam, jadi meskipun Pasar Seni Ubud tut
 
 ![50種深入認識烏布的方式｜探索烏布的魅力](https://images.gobaligo.id/vocus/vocus_80395bdba038994228a52ece28779e07.jpg)
 
-[50 Cara Mendalami Ubud | Eksplor Pesona Ubud](/blog/ubud-guide/)
+[50 Cara Mendalami Ubud | Eksplor Pesona Ubud](/id/blog/ubud-guide/)
 
-Ubud wajib dicoba begini: [50 Cara Mendalami Ubud | Eksplor Pesona Ubud](/blog/ubud-guide/)
+Ubud wajib dicoba begini: [50 Cara Mendalami Ubud | Eksplor Pesona Ubud](/id/blog/ubud-guide/)
 
 ## Daftar & Gabung Blog Kami
 

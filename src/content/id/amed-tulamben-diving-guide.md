@@ -287,6 +287,6 @@ Kalau kamu punya waktu lebih, wajib banget mampir ke tiga spot cantik di sekitar
 - **Taman Tirta Gangga** : Bekas taman air kerajaan, dengan patung batu dan ikan koi yang bikin pemandangan memukau. Tempat asyik buat jalan-jalan dan foto-foto.
 - **Istana Air Ujung (Ujung Water Palace)** : Istana kuno perpaduan gaya Eropa dan Bali, dikelilingi kolam dan pepohonan hijau. Suasananya tenang dan penuh sejarah.
 
-Cek info lengkapnya di sini: [Beneran Kayak Surga! Tiga Spot Wisata di Bali Timur: Pura Lempuyang, Tirta Gangga, Ujung Water Palace](/blog/bali-east-tour-guide/)
+Cek info lengkapnya di sini: [Beneran Kayak Surga! Tiga Spot Wisata di Bali Timur: Pura Lempuyang, Tirta Gangga, Ujung Water Palace](/id/blog/bali-east-tour-guide/)
 
 {{block:攻略}}

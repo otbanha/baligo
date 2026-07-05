@@ -69,13 +69,13 @@ Enjoy a delicious dinner at a five-star hotel restaurant, bathed in sunset or un
 
 > 【Seminyak】[Dine at Seasalt, Alila Seminyak](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94283-seasalt-alila-seminyak-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D493fe83922)
 
-> 【Seminyak】[MoonLite Kitchen and Bar: A Sunset Food Paradise in Seminyak](/blog/moonlite-kitchen-bar-seminyak-sunset/)
+> 【Seminyak】[MoonLite Kitchen and Bar: A Sunset Food Paradise in Seminyak](/en/blog/moonlite-kitchen-bar-seminyak-sunset/)
 
 ## **Scenic Lunch**
 
 Enjoy lunch surrounded by stunning landscapes, creating a unique feeling and unforgettable memories.
 
-> 【Nusa Dua】[A Dreamy Afternoon at Selasar Deli: Kempinski Bali Afternoon Tea Review](/blog/kempinski-selasar-deli-afternoon-tea/)
+> 【Nusa Dua】[A Dreamy Afternoon at Selasar Deli: Kempinski Bali Afternoon Tea Review](/en/blog/kempinski-selasar-deli-afternoon-tea/)
 
 > 【Ubud】[Dining at Bale Udang Mang Engking in Ubud](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F106498-bale-udang-mang-engking-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D628e0eac4e)
 
@@ -85,7 +85,7 @@ Enjoy lunch surrounded by stunning landscapes, creating a unique feeling and unf
 
 > 【Canggu】[De Jukung Resto And Bar at Tanah Lot: A Culinary Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94323-de-jukung-resto-and-bar-tanah-lot-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D88b0b13a2e)
 
-> 【Uluwatu】[【Bali Foodie Diary】Alila Villas Uluwatu Brisa Brunch: A Sunday Feast on the Cliff](/blog/alila-uluwatu-brisa-brunch/)
+> 【Uluwatu】[【Bali Foodie Diary】Alila Villas Uluwatu Brisa Brunch: A Sunday Feast on the Cliff](/en/blog/alila-uluwatu-brisa-brunch/)
 
 ## **Romantic Spa & Massage**
 
@@ -115,7 +115,7 @@ Enjoy a romantic getaway for two at a luxurious jungle or beach club.
 
 > 【Uluwatu】[White Rock Beach Club Day Pass](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F83057-white-rock-beach-club-day-pass-ungasan-south-kuta-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Ddb21a121cc)
 
-> 【Seminyak】[The Ultimate Guide to Ku De Ta Beach Club in Seminyak, Bali: Dining, Parties, and Dreamy Sunset Beach Experience](/blog/ku-de-ta-beach-club/)
+> 【Seminyak】[The Ultimate Guide to Ku De Ta Beach Club in Seminyak, Bali: Dining, Parties, and Dreamy Sunset Beach Experience](/en/blog/ku-de-ta-beach-club/)
 
 ## **Join an Activity**
 
@@ -131,7 +131,7 @@ Adventures shared together become memories that last a lifetime!
 
 > 【Nusa Dua】[Sea Walker (Underwater Walking Experience)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F51733-bali-seawalker-watersports-tanjung-benoa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6f69f93a73)
 
-**Quick Reference:** [What Outdoor Activities to Do in Bali? 50 Most Popular Outdoor Experiences](/blog/bali-top-50-outdoor-activities/)
+**Quick Reference:** [What Outdoor Activities to Do in Bali? 50 Most Popular Outdoor Experiences](/en/blog/bali-top-50-outdoor-activities/)
 
 ## Capture Precious Memories
 
@@ -193,7 +193,7 @@ Bali's Chinese-speaking private car charter offers you unparalleled freedom and 
 
 On your Bali trip, don't forget to check out the Instagram-famous spots! Be sure to visit the iconic 'Gates of Heaven' at Pura Lempuyang—the views there are absolutely unforgettable. Next, head to northern Bali to see Pura Ulun Danu Bratan and capture a beautiful shot at the Handara Gate. If you're up for more exploration, you can also head to eastern Bali to visit Tirta Gangga Water Palace. This tour includes a Chinese-speaking driver and round-trip hotel transfers, so you won't have to worry about language or transportation—just focus on enjoying every moment of your journey.
 
-(Read more: [A True Paradise! Three Must-See Spots in East Bali: Gates of Heaven, Tirta Gangga, and Ujung Water Palace](/blog/bali-east-tour-guide/))
+(Read more: [A True Paradise! Three Must-See Spots in East Bali: Gates of Heaven, Tirta Gangga, and Ujung Water Palace](/en/blog/bali-east-tour-guide/))
 
 > ▶Book now: [Chinese-Guided East/North Bali Instagram Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20722-instagram-tour-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3D69d806c9e7)
 
@@ -201,7 +201,7 @@ On your Bali trip, don't forget to check out the Instagram-famous spots! Be sure
 
 Explore all the top spots in Ubud, including hidden waterfalls like Kanto Lampo and Tibumana, Suwat Waterfall, the fun of souvenir shopping at Ubud Market, and the historic Ubud Palace. You'll also visit Tegallalang Rice Terraces, Tegenungan Waterfall, and more—capture these stunning views to share on your Instagram and make your trip even more memorable. Plus, you can customize your itinerary to explore popular Ubud attractions like Tirta Empul Temple, the Bali Swing, coffee plantations, and more. You can add a Chinese-speaking driver service, and some tours even include a dedicated photographer, so you won't have to worry about language barriers and can capture every precious moment. Let's explore the charm of Ubud together and create unforgettable memories!
 
-(Read more: [50 Ways to Discover Ubud's Charm](/blog/ubud-guide/))
+(Read more: [50 Ways to Discover Ubud's Charm](/en/blog/ubud-guide/))
 
 > ▶Book now: [Private Ubud Day Tour with Chinese-Speaking Driver](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21714-private-ubud-trip-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3Da38e26e694)
 
@@ -209,11 +209,11 @@ Explore all the top spots in Ubud, including hidden waterfalls like Kanto Lampo 
 
 A Chinese-speaking driver will take you to the beautiful Padang Padang Beach in Uluwatu, where you can sit on the sand, admire the turquoise waters and white sand, and soak in the natural beauty. Then, head to Uluwatu Temple, perched on a cliff, where you can not only enjoy Bali's thrilling Kecak fire dance but also take in the unforgettable cliffside views at sunset. Finally, end your day at Jimbaran Beach, leaving you with the best memories of your trip.
 
-(Read more: [Kecak Fire Dance: A Must-See Spectacular Performance in Bali](/blog/kecak-fire-dance-bali/))
+(Read more: [Kecak Fire Dance: A Must-See Spectacular Performance in Bali](/en/blog/kecak-fire-dance-bali/))
 
-(Read more: [Explore Bali's Hidden Paradises: 6 Secret Beach Spots & How to Check Tides](/blog/bali-hidden-beaches-guide/))
+(Read more: [Explore Bali's Hidden Paradises: 6 Secret Beach Spots & How to Check Tides](/en/blog/bali-hidden-beaches-guide/))
 
-(Read more: [8 Recommended Seafood Restaurants in Jimbaran](/blog/jimbaran-guide/))
+(Read more: [8 Recommended Seafood Restaurants in Jimbaran](/en/blog/jimbaran-guide/))
 
 > ▶Book [Chinese-speaking Driver: Uluwatu/Jimbaran & Kecak Fire Dance Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fscroll_pkg%3D287234%26shop_id%3D119049035%26shop_type%3D0)
 
@@ -221,7 +221,7 @@ A Chinese-speaking driver will take you to the beautiful Padang Padang Beach in 
 
 Set sail from Bali to Nusa Penida for an incredible day trip adventure. Your Chinese-speaking guide will lead you to the mysterious Kelingking Beach, where from above the island's shape resembles a majestic T-Rex. Next, step into the "Angel's Billabong," surrounded by volcanic rock, and soak in the emerald-clear waters that feel like a celestial spring. If you crave a deeper dive into underwater wonders, opt for the snorkeling add-on to explore Crystal Bay and witness the diverse marine life of Bali, enriching your adventure even further.
 
-(Read more: [Nusa Penida Complete Guide: Map, Ferry, Accommodation, Transport, Car Rental, Activities, Photography, Attractions](/blog/nusa-penida-guide/))
+(Read more: [Nusa Penida Complete Guide: Map, Ferry, Accommodation, Transport, Car Rental, Activities, Photography, Attractions](/en/blog/nusa-penida-guide/))
 
 ▶Book [Chinese-speaking Guide: Nusa Penida Day Trip](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3D7e1e0da9d2)
 

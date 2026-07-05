@@ -41,7 +41,7 @@ Dari grafik juga keliatan tren menarik: probabilitas hujan berubah signifikan an
 
 Oh iya, satu lagi yang menarik: ada perbedaan curah hujan antara utara dan selatan Bali. Makin ke utara, makin tinggi kemungkinan hujannya. Jadi kalau kamu liburan pas musim hujan, pilih daerah selatan bisa jadi pilihan yang oke.
 
-> Baca juga: [Apa yang Harus Dilakukan Saat Hujan di Bali? 60 Alternatif Aktivitas Indoor di Bali Selatan](/blog/2026-bali-indoor-activities/)
+> Baca juga: [Apa yang Harus Dilakukan Saat Hujan di Bali? 60 Alternatif Aktivitas Indoor di Bali Selatan](/id/blog/2026-bali-indoor-activities/)
 
 Intinya, meski lagi musim hujan, Bali selatan tetap destinasi wisata yang kece banget. Asal siap-siap bawa payung atau jas hujan, atau booking resort atau villa mewah buat santai-santai, kamu bisa nikmatin pesona musim yang unik ini. Siapa tahu, hujan tropis yang singkat malah bikin liburanmu makin berkesan!
 

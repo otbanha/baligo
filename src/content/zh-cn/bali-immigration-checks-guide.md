@@ -81,8 +81,8 @@ Update: 2026/07/03
 
 **延伸阅读：**
 
-- [2025/08印尼巴厘岛入境使用「All Indonesia」申报系统｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
-- [入境印尼/巴厘岛eVisa签证、eCD海关、SSHP健康声明必填 All Indonesia 常见问题 FAQ](/blog/bali-evisa-customs-health-declaration/)
+- [2025/08印尼巴厘岛入境使用「All Indonesia」申报系统｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/zh-cn/blog/bali-all-indonesia-arrival-guide/)
+- [入境印尼/巴厘岛eVisa签证、eCD海关、SSHP健康声明必填 All Indonesia 常见问题 FAQ](/zh-cn/blog/bali-evisa-customs-health-declaration/)
 
 ---
 

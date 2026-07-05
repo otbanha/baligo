@@ -37,8 +37,8 @@ Additionally, Bali in Indonesia also made the list, along with Phuket—both cit
 
 Valentine's Day is the perfect opportunity for couples to create new memories. Want to embark on an unforgettable romantic journey with your loved one? Check these out:
 
-- [Bali Honeymoon Romantic Guide: 36 Ways to Explore Bali for Couples/Honeymooners](/blog/bali-honeymoon-romantic-activities-2/)
-- [Bali Accommodation Recommendations: Honeymooners/Couples, Look No Further! 2024's Latest Guide to 20 Honeymoon Resorts & Romantic Villas in Bali](/blog/bali-honeymoon-resorts-guide/)
+- [Bali Honeymoon Romantic Guide: 36 Ways to Explore Bali for Couples/Honeymooners](/en/blog/bali-honeymoon-romantic-activities-2/)
+- [Bali Accommodation Recommendations: Honeymooners/Couples, Look No Further! 2024's Latest Guide to 20 Honeymoon Resorts & Romantic Villas in Bali](/en/blog/bali-honeymoon-resorts-guide/)
 
 ## Top 10 International Romantic Destinations Ranking
 

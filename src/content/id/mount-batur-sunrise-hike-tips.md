@@ -109,9 +109,9 @@ Video ini jadi referensi yang sangat berharga buat kamu yang berencana ke Bali d
 
 ![Lebih Banyak Rekomendasi Makan & Main di Ubud](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
-[Klik di sini untuk panduan lengkap Ubud!](/blog/ubud-guide/)
+[Klik di sini untuk panduan lengkap Ubud!](/id/blog/ubud-guide/)
 
-Ubud adalah pusat seni dan budaya Bali, terkenal dengan sawah terasering yang hijau, hutan yang tenang, dan tradisi yang dalam banget. Di sini ada kuil-kuil keren, pasar seni yang memikat, serta pengalaman yoga dan meditasi yang bikin rileks. Cocok banget buat kamu yang mau melepas penat. Mau eksplorasi tradisi lokal, nikmatin alam, atau coba aktivitas outdoor seru plus kuliner dan pemandangan kece — Ubud bakal kasih pengalaman yang beda! Mau tahu lebih banyak tips Ubud? [Klik di sini](/blog/ubud-guide/).
+Ubud adalah pusat seni dan budaya Bali, terkenal dengan sawah terasering yang hijau, hutan yang tenang, dan tradisi yang dalam banget. Di sini ada kuil-kuil keren, pasar seni yang memikat, serta pengalaman yoga dan meditasi yang bikin rileks. Cocok banget buat kamu yang mau melepas penat. Mau eksplorasi tradisi lokal, nikmatin alam, atau coba aktivitas outdoor seru plus kuliner dan pemandangan kece — Ubud bakal kasih pengalaman yang beda! Mau tahu lebih banyak tips Ubud? [Klik di sini](/id/blog/ubud-guide/).
 
 ## 
 

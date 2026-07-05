@@ -34,7 +34,7 @@ Prosedur biasanya kayak gini:
 
 > Turun pesawat ➡️ Antre bikin VoA ➡️ Antre periksa paspor & cap imigrasi ➡️ Lewat imigrasi ➡️ Ambil bagasi ➡️ Tunjukin QR Code bea cukai ➡️ Bayar pajak turis
 
-Buat yang udah baca panduan kami dan [urus eVisa](/blog/bali-evisa-application-guide/) plus [bayar pajak turis](/blog/2026-bali-tourism-tax-guide/) duluan, prosedurnya jadi:
+Buat yang udah baca panduan kami dan [urus eVisa](/id/blog/bali-evisa-application-guide/) plus [bayar pajak turis](/id/blog/2026-bali-tourism-tax-guide/) duluan, prosedurnya jadi:
 
 > Turun pesawat ➡️ Lewat autogate ➡️ Ambil bagasi ➡️ Tunjukin QR Code bea cukai ➡️ Bayar pajak turis
 
@@ -58,9 +58,9 @@ Catatan redaksi: Sekarang **anak usia 6 tahun ke atas juga bisa pakai autogate b
 
 ![Pengalaman Nyata Anggota Trip Lewat Imigrasi](https://images.gobaligo.id/vocus/vocus_a832b6cb5d76f4ac85c91c899e756129.jpg)
 
-Ellen juga ngingetin traveler, formulir deklarasi bea cukai tulisan tangan udah dihapus beberapa waktu lalu. Masih banyak orang yang baru tahu pas di pos terakhir setelah ambil bagasi, harus isi e-CD online — jadinya ketahan lama di pos terakhir buat isi formulir elektronik. 【[Panduan e-CD Wajib Isi untuk Masuk Indonesia](/blog/indonesia-e-cd-guide/)】 Langkah ini jangan sampai kelewat ya!
+Ellen juga ngingetin traveler, formulir deklarasi bea cukai tulisan tangan udah dihapus beberapa waktu lalu. Masih banyak orang yang baru tahu pas di pos terakhir setelah ambil bagasi, harus isi e-CD online — jadinya ketahan lama di pos terakhir buat isi formulir elektronik. 【[Panduan e-CD Wajib Isi untuk Masuk Indonesia](/id/blog/indonesia-e-cd-guide/)】 Langkah ini jangan sampai kelewat ya!
 
-> Baca juga: [Panduan Lengkap Cara Apply eVisa Indonesia/Bali](/blog/bali-evisa-application-guide/)
+> Baca juga: [Panduan Lengkap Cara Apply eVisa Indonesia/Bali](/id/blog/bali-evisa-application-guide/)
 
 ## Syarat Wajib Pakai Autogate
 
@@ -73,5 +73,5 @@ Gimana, layanan sepraktis ini bikin kamu makin tertarik, kan? Buat pakai sistem 
 
 Terakhir, pengingat buat semua orang (berlaku di bandara mana pun di dunia): jangan coba-coba foto di area imigrasi atau bea cukai, bisa kena masalah besar. Area ini biasanya melarang foto demi alasan keamanan dan privasi. Bandara itu zona super ketat, dan kegiatan memotret bisa disangka sebagai ancaman atau pelanggaran aturan keamanan. Apalagi kalau kamu motret fasilitas imigrasi atau bea cukai, bisa melanggar hukum setempat, terutama di area sensitif. Jaga sikap hormat dan patuhi aturan setempat biar aman — mending jangan foto aja, biar nggak repot.
 
-> Baca juga: [Perubahan Masuk Bali 2025 Pahami dalam 1 Menit: Proses Masuk Indonesia/Bali - Turun Pesawat/Melewati Imigrasi/Ambil Bagasi](/blog/2025-bali-immigration-process/)
+> Baca juga: [Perubahan Masuk Bali 2025 Pahami dalam 1 Menit: Proses Masuk Indonesia/Bali - Turun Pesawat/Melewati Imigrasi/Ambil Bagasi](/id/blog/2025-bali-immigration-process/)
 

@@ -45,7 +45,7 @@ Sebelum menjawab pertanyaan yang paling sering ditanyakan di dua grup Facebook k
 
 **"Indeks Kesesuaian Wisata"** adalah rekomendasi yang dievaluasi berdasarkan probabilitas curah hujan, jumlah hari hujan, suhu rata-rata, dan kepadatan wisatawan di pulau pada setiap bulan. Semakin tinggi skornya, semakin stabil cuacanya, semakin sedikit wisatawan, dan cocok untuk aktivitas luar ruangan. Misalnya, pada bulan Juni dan September, indeks mencapai 100%, yang berarti cuaca kering dan jarang hujan, nyaman, serta wisatawan lebih sedikit, paling cocok untuk berwisata. Sementara itu, bulan Desember hanya 50% karena sering hujan dan lonjakan wisatawan saat liburan Natal, sehingga lebih disarankan untuk aktivitas dalam ruangan. Indeks ini membantu wisatawan dengan cepat menilai apakah cuaca dan tingkat kepadatan di bulan tersebut ideal.
 
-**Referensi cepat**: [Ternyata Bali punya lima musim ramai wisatawan! Bagaimana cara cerdas menghindari musim ramai?](/blog/bali-peak-season-travel-tips/)
+**Referensi cepat**: [Ternyata Bali punya lima musim ramai wisatawan! Bagaimana cara cerdas menghindari musim ramai?](/id/blog/bali-peak-season-travel-tips/)
 
 ## **Biasanya Tidak Hujan di Seluruh Pulau**
 
@@ -53,6 +53,6 @@ Di Bali, distribusi curah hujan dipengaruhi oleh topografi. Wilayah timur dan ut
 
 ## Apa itu **Rencana Cadangan Musim Hujan**?
 
-**"Rencana Cadangan Musim Hujan"** adalah "plan B" yang bisa langsung mengubah rencana perjalanan jika aktivitas luar ruangan yang sudah direncanakan tiba-tiba diguyur hujan. Silakan lihat [60 strategi cadangan untuk hari hujan di Bali](/blog/2026-bali-indoor-activities/) yang kami kumpulkan.
+**"Rencana Cadangan Musim Hujan"** adalah "plan B" yang bisa langsung mengubah rencana perjalanan jika aktivitas luar ruangan yang sudah direncanakan tiba-tiba diguyur hujan. Silakan lihat [60 strategi cadangan untuk hari hujan di Bali](/id/blog/2026-bali-indoor-activities/) yang kami kumpulkan.
 
 {{block:戶外}}

@@ -55,12 +55,12 @@ Therefore, friends applying for an e-visa must carefully review before payment. 
 
 ## Other e-visa application questions
 
-For those still debating between visa on arrival and e-visa, be sure to refer to this article: [Bali Visa Guide: Visa on Arrival vs E-Visa, Which is Right for You?](/blog/bali-visa-landing-vs-electronic/)
+For those still debating between visa on arrival and e-visa, be sure to refer to this article: [Bali Visa Guide: Visa on Arrival vs E-Visa, Which is Right for You?](/en/blog/bali-visa-landing-vs-electronic/)
 
-If you encounter issues during your e-visa application, we've compiled all common problems and solutions here to help you smoothly resolve any application issues: [2024 Updated Indonesia/Bali Entry Visa & e-VOA Application FAQ](/blog/indonesia-bali-visa-evoa-faq/)
+If you encounter issues during your e-visa application, we've compiled all common problems and solutions here to help you smoothly resolve any application issues: [2024 Updated Indonesia/Bali Entry Visa & e-VOA Application FAQ](/en/blog/indonesia-bali-visa-evoa-faq/)
 
 ![Other e-visa application questions](https://images.gobaligo.id/vocus/vocus_3b0b0ca8e3bd37264a24e891674da1e9.png)
 
 Before reading our 'Ultimate Bali Travel Guide', we sincerely invite you to subscribe to our YouTube channel 'Jason in Indonesia' for more visual travel experiences. [Click here](http://bit.ly/youtube-jason)[ to subscribe now](http://bit.ly/youtube-jason)
 
-After subscribing, you can immediately continue reading our comprehensive guide to deeply explore every exciting corner of Bali. Click '[Ultimate Bali Travel Guide](/blog/2023-08-22-64e37f2dfd89780001b1f776/)' to start preparing for your Bali adventure!
+After subscribing, you can immediately continue reading our comprehensive guide to deeply explore every exciting corner of Bali. Click '[Ultimate Bali Travel Guide](/en/blog/2023-08-22-64e37f2dfd89780001b1f776/)' to start preparing for your Bali adventure!

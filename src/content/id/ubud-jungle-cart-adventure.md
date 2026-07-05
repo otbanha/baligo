@@ -126,6 +126,6 @@ Disediakan oleh Lin Xiaozhao
 
 ![Lebih Banyak Rekomendasi Makan & Main di Ubud](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
-[Klik di sini untuk panduan lengkap Ubud!](/blog/ubud-guide/)
+[Klik di sini untuk panduan lengkap Ubud!](/id/blog/ubud-guide/)
 
-Ubud adalah pusat seni dan budaya di Bali, yang memikat banyak traveler dengan sawah terasering yang hijau, hutan yang tenang, dan tradisi yang kental. Tempat ini ideal banget buat melepas penat. Mau eksplorasi tradisi lokal, menikmati keindahan alam, atau coba berbagai aktivitas outdoor seru plus pengalaman unik makanan + pemandangan — Ubud bakal kasih kamu kesan yang beda! Mau tahu lebih banyak tips Ubud? [Klik di sini](/blog/ubud-guide/).
+Ubud adalah pusat seni dan budaya di Bali, yang memikat banyak traveler dengan sawah terasering yang hijau, hutan yang tenang, dan tradisi yang kental. Tempat ini ideal banget buat melepas penat. Mau eksplorasi tradisi lokal, menikmati keindahan alam, atau coba berbagai aktivitas outdoor seru plus pengalaman unik makanan + pemandangan — Ubud bakal kasih kamu kesan yang beda! Mau tahu lebih banyak tips Ubud? [Klik di sini](/id/blog/ubud-guide/).

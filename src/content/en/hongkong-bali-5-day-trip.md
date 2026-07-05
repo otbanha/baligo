@@ -32,7 +32,7 @@ Hea Travel Food admired the stunning sea views at Tanah Lot and learned about lo
 
 Her first stop was Tanah Lot in Canggu, Bali. This temple is built on the coast, and it is said that the sea god resides here. She shared a folk tale about Tanah Lot: Long ago, a fisherman went out to sea and encountered a fierce storm. His boat was swallowed by the waves, and he disappeared. The villagers, worried for his safety, prayed sincerely. Suddenly, the gates of Tanah Lot opened, forming a secret passage to the seabed. Believing this to be the sea god's guidance, the villagers passed through the tunnel and eventually found the fisherman on the seabed. After returning to the village, the fisherman shared the beautiful sights he had seen underwater. Since then, Tanah Lot has been regarded as a sacred place connected to the underwater world.
 
-> [Must-Visit Spots in Bali: Detailed Guide to Tanah Lot, Tides, and Surrounding Attractions](/blog/bali-tanah-lot-guide/)
+> [Must-Visit Spots in Bali: Detailed Guide to Tanah Lot, Tides, and Surrounding Attractions](/en/blog/bali-tanah-lot-guide/)
 
 ***
 
@@ -70,7 +70,7 @@ Hea Food Travel Video Screenshot
 
 On the third day, they visited Uluwatu Temple and Tirta Empul Temple. Uluwatu Temple is perched on a cliff with spectacular views. She reminded visitors to be cautious of monkeys, as they tend to snatch belongings.
 
-> [Bali Uluwatu Temple/Lover's Cliff Travel Guide: Must-See Highlights & Practical Tips](/blog/uluwatu-temple-travel-guide/)
+> [Bali Uluwatu Temple/Lover's Cliff Travel Guide: Must-See Highlights & Practical Tips](/en/blog/uluwatu-temple-travel-guide/)
 
 ![Hea遊美食視頻截圖](https://images.gobaligo.id/vocus/vocus_840392aad64f284a6ab6c6ff79f9e264.png)
 
@@ -146,6 +146,6 @@ Did you find their itinerary exciting? Start planning your own Bali adventure no
 
 Click here to explore more amazing Bali travel stories
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travel writing shine!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)" to make your travel writing shine!
 
 {{block:攻略}}

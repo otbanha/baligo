@@ -99,4 +99,4 @@ Perjalanan ini pakai mobil pribadi (private tour), jadi ritmenya bisa disesuaika
 
 ![Lebih Banyak Rekomendasi Makan & Main di Ubud](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
-Ubud adalah pusat seni dan budaya di Bali, dengan sawah terasering yang hijau, hutan yang tenang, dan tradisi yang kental banget, bikin banyak traveler jatuh hati. Tempat ini cocok banget buat kamu yang mau rileks. Mau eksplor tradisi lokal, nikmatin pemandangan alam, atau coba aktivitas outdoor seru plus pengalaman unik makanan + pemandangan — Ubud bakal kasih kamu kesan yang nggak terlupakan! Mau tahu lebih banyak tips Ubud? [Klik di sini](/blog/ubud-guide/)
+Ubud adalah pusat seni dan budaya di Bali, dengan sawah terasering yang hijau, hutan yang tenang, dan tradisi yang kental banget, bikin banyak traveler jatuh hati. Tempat ini cocok banget buat kamu yang mau rileks. Mau eksplor tradisi lokal, nikmatin pemandangan alam, atau coba aktivitas outdoor seru plus pengalaman unik makanan + pemandangan — Ubud bakal kasih kamu kesan yang nggak terlupakan! Mau tahu lebih banyak tips Ubud? [Klik di sini](/id/blog/ubud-guide/)

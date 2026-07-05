@@ -76,7 +76,7 @@ Meskipun secara resmi nggak diminta dokumen tambahan, pas proses di lapangan kam
 Saran sih, bawa itinerary perjalanan, bukti akomodasi, dan tiket pulang buat jaga-jaga.
 
 **Referensi cepat:**  
-[Tutorial perpanjangan visa online Indonesia/Bali](/blog/2024-bali-visa-extension/)
+[Tutorial perpanjangan visa online Indonesia/Bali](/id/blog/2024-bali-visa-extension/)
 
 ---
 

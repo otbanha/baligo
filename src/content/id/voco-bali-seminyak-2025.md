@@ -78,10 +78,10 @@ Pembukaan voco Bali Seminyak bikin pariwisata Bali makin hidup, kasih pilihan ak
 
 ![Lebih Banyak Info Kuliner & Seru-seruan di Seminyak](https://images.gobaligo.id/vocus/vocus_366287b60b610bfff45aea753d91ba55.jpg)
 
-[Panduan Lengkap Seminyak](/blog/seminyak-guide/)
+[Panduan Lengkap Seminyak](/id/blog/seminyak-guide/)
 
-Seminyak adalah kawasan kece di Bali yang gabungin gaya modern dan tradisi, punya restoran top, butik kece, dan kehidupan malam yang seru banget — surganya para pelancong! Mau tahu info lebih banyak soal kuliner yang wajib dicoba? [Klik di sini](/blog/seminyak-guide/).
+Seminyak adalah kawasan kece di Bali yang gabungin gaya modern dan tradisi, punya restoran top, butik kece, dan kehidupan malam yang seru banget — surganya para pelancong! Mau tahu info lebih banyak soal kuliner yang wajib dicoba? [Klik di sini](/id/blog/seminyak-guide/).
 
-- [Rekomendasi Penginapan di Bali: Panduan Akomodasi Tema Pantai Mewah di Seminyak](/blog/seminyak-beach-resorts-guide/)
-- [【Rekomendasi Penginapan di Bali】Villa Kolam Renang Pribadi Surga Tersembunyi: 21 Villa Menakjubkan di Seminyak, Taman Rahasia Bali](/blog/2024-04-04-660e6e92fd89780001e6047e/)
-- [【Seminyak】Rekomendasi Villa Bali Murah di Bawah USD$100](/blog/seminyak-budget-villas-guide/)
+- [Rekomendasi Penginapan di Bali: Panduan Akomodasi Tema Pantai Mewah di Seminyak](/id/blog/seminyak-beach-resorts-guide/)
+- [【Rekomendasi Penginapan di Bali】Villa Kolam Renang Pribadi Surga Tersembunyi: 21 Villa Menakjubkan di Seminyak, Taman Rahasia Bali](/id/blog/2024-04-04-660e6e92fd89780001e6047e/)
+- [【Seminyak】Rekomendasi Villa Bali Murah di Bawah USD$100](/id/blog/seminyak-budget-villas-guide/)

@@ -49,7 +49,7 @@ Currently, 45 structures including guesthouses, restaurants, tourist facilities,
 
 ![If you're looking for more hidden beaches and want to know m](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
-Uluwatu is one of Bali's most popular southern regions, famous for its breathtaking cliff views, enchanting beaches, and excellent surf spots. Filled with a romantic tropical vacation atmosphere, it's the perfect choice for enjoying sunset views and relaxing moments. If you're planning to stay in Uluwatu, check out our carefully curated guide to food, fun, and activities to make your trip even more enriching: [Uluwatu Guide: Uluwatu Attractions & Recommendations](/blog/uluwatu-guide/)
+Uluwatu is one of Bali's most popular southern regions, famous for its breathtaking cliff views, enchanting beaches, and excellent surf spots. Filled with a romantic tropical vacation atmosphere, it's the perfect choice for enjoying sunset views and relaxing moments. If you're planning to stay in Uluwatu, check out our carefully curated guide to food, fun, and activities to make your trip even more enriching: [Uluwatu Guide: Uluwatu Attractions & Recommendations](/en/blog/uluwatu-guide/)
 
 ---
 

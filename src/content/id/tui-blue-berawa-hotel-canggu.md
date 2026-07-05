@@ -108,8 +108,8 @@ Canggu adalah salah satu destinasi wisata paling hits di Bali belakangan ini. Di
 
 Kalau kamu juga tertarik nginep di Canggu yang penuh pesona, cek aja rekomendasi penginapan tematik yang udah kami siapin biar kamu gampang nemuin yang paling cocok:
 
-- [Top 12 Penginapan di Canggu yang Wajib Kamu Coba](/blog/canggu-top-hotels-guide/)
-- [16 Villa dengan Kolam Renang Pribadi di Canggu — Villa Bali yang Gak Boleh Dilewatkan](/blog/canggu-villas-guide/)
+- [Top 12 Penginapan di Canggu yang Wajib Kamu Coba](/id/blog/canggu-top-hotels-guide/)
+- [16 Villa dengan Kolam Renang Pribadi di Canggu — Villa Bali yang Gak Boleh Dilewatkan](/id/blog/canggu-villas-guide/)
 
  BLOCK0 
  BLOCK1 

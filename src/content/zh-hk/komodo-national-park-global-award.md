@@ -36,7 +36,7 @@ _srcHash: f0f14396bd0da989a1fffb1bfde8a93a
 
 《Time Out Travel》編輯部特別指出，造訪科摩多唔單止係視覺享受，更係探索生態寶庫嘅難得體驗。聯合國教科文組織已將其列入世界遺產，肯定其自然景觀與獨特生態系。最佳旅遊季節為4月至10月，呢個時候天氣晴朗、海面平靜，最適合潛水活動。
 
-▶▶▶▶更進一步嘅介紹、科摩多島點去？點玩？請睇：[科摩多島攻略](/blog/komodo-island-labuan-bajo-travel/)
+▶▶▶▶更進一步嘅介紹、科摩多島點去？點玩？請睇：[科摩多島攻略](/zh-hk/blog/komodo-island-labuan-bajo-travel/)
 
 ---
 
@@ -74,6 +74,6 @@ _srcHash: f0f14396bd0da989a1fffb1bfde8a93a
 
 趁住呢片秘境未俾人過度打擾，快啲訂定你嘅科摩多之旅啦！無論你係潛水發燒友、攝影狂熱者，定係單純想逃離城市嘅人，呢度每一寸土地同海浪都喺度話：「你值得呢趟終生難忘嘅奇幻旅程！」
 
-▶▶▶▶**想知更多介紹、科摩多島點去？點玩？請睇：**[科摩多島攻略](/blog/komodo-island-labuan-bajo-travel/)
+▶▶▶▶**想知更多介紹、科摩多島點去？點玩？請睇：**[科摩多島攻略](/zh-hk/blog/komodo-island-labuan-bajo-travel/)
 
 ![你準備好展開一場史詩級探險未？](https://images.gobaligo.id/vocus/vocus_5a16ff247d244e1682e7443541ba541b.jpg)

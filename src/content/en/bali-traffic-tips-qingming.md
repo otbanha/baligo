@@ -32,7 +32,7 @@ After Bali's Nyepi Day on March 29, 2025, Eid al-Fitr begins. The Eid holiday st
 
 **Quick Reference:**
 
-[What is Nyepi Day? What should you pay special attention to?](/blog/2025-bali-nyepi-day-guide/)
+[What is Nyepi Day? What should you pay special attention to?](/en/blog/2025-bali-nyepi-day-guide/)
 
 Based on past experiences, Bali is expected to see an influx of local Indonesians starting March 24, with crowds lasting for about two weeks. This marks **the first peak season among Bali's five major peak periods**, making it a holiday you should avoid visiting Bali!
 
@@ -50,7 +50,7 @@ If you hold a Republic of China (Taiwan) passport, you can apply for a visa on a
 
 For those planning to apply for an e-visa, please do so early! During the nine-day Eid al-Fitr holiday, the Indonesian immigration office typically suspends online e-visa applications as government offices are closed for the extended holiday. This means everyone will have to apply for a visa on arrival, potentially leading to long queues! Those who have already obtained an e-visa will not be affected and can still enjoy smooth automatic clearance.
 
-(For more on e-visas, ultra-fast automatic clearance, tourist taxes, etc., see: [2024 Bali Entry Changes Explained in One Minute: Bali Entry Process - From Landing to Baggage Claim](/blog/2025-bali-immigration-process/))
+(For more on e-visas, ultra-fast automatic clearance, tourist taxes, etc., see: [2024 Bali Entry Changes Explained in One Minute: Bali Entry Process - From Landing to Baggage Claim](/en/blog/2025-bali-immigration-process/))
 
 ## Transportation
 
@@ -74,23 +74,23 @@ Here are some specific suggestions for navigating Bali's traffic during this spe
 
 **Opt for Private Car Hire**
 
-> The best mode of transportation in Bali is hiring a private car. For more details, check out "[Complete Guide to Bali Private Car Hire - Costs, Booking Methods, and Advantages](/blog/bali-private-car-hire-guide/)".
+> The best mode of transportation in Bali is hiring a private car. For more details, check out "[Complete Guide to Bali Private Car Hire - Costs, Booking Methods, and Advantages](/en/blog/bali-private-car-hire-guide/)".
 
 **Choose Smaller Area Attractions**
 
 > During the Qingming Festival-Eid al-Fitr period, traffic congestion is common at many popular attractions in Bali. We recommend **moving within small areas** to avoid wasting your holiday time stuck in traffic. Refer to these small areas:
 
-- [100 Must-Visit Spots in Seminyak, Bali](/blog/seminyak-guide/)
-- [50 Must-See Attractions in Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [80 Must-Visit Places in Canggu](/blog/canggu-guide/)
-- [100 Ways to Explore Ubud](/blog/ubud-guide/)
-- [Jimbaran Guide](/blog/jimbaran-guide/)
-- [Uluwatu Guide](/blog/uluwatu-guide/)
-- [Bukit Peninsula Adventure Guide](/blog/bukit-peninsula-guide/)
-- [45 Things to Do in Sanur](/blog/sanur-guide/)
-- [40 Accommodations, Dining, and Activities in Nusa Dua](/blog/nusa-dua-guide/)
-- [Complete Guide to Nusa Penida](/blog/nusa-penida-guide/)
-- [Complete Guide to Nusa Lembongan and Ceningan](/blog/nusa-lembongan-ceningan-guide/)
+- [100 Must-Visit Spots in Seminyak, Bali](/en/blog/seminyak-guide/)
+- [50 Must-See Attractions in Kuta](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [80 Must-Visit Places in Canggu](/en/blog/canggu-guide/)
+- [100 Ways to Explore Ubud](/en/blog/ubud-guide/)
+- [Jimbaran Guide](/en/blog/jimbaran-guide/)
+- [Uluwatu Guide](/en/blog/uluwatu-guide/)
+- [Bukit Peninsula Adventure Guide](/en/blog/bukit-peninsula-guide/)
+- [45 Things to Do in Sanur](/en/blog/sanur-guide/)
+- [40 Accommodations, Dining, and Activities in Nusa Dua](/en/blog/nusa-dua-guide/)
+- [Complete Guide to Nusa Penida](/en/blog/nusa-penida-guide/)
+- [Complete Guide to Nusa Lembongan and Ceningan](/en/blog/nusa-lembongan-ceningan-guide/)
 
 ![部分知名景點最好放棄，免得把假期浪費在塞車上](https://images.gobaligo.id/vocus/vocus_a3bb9312579d287a186d81246be96731.png)
 
@@ -98,7 +98,7 @@ It’s best to skip some famous attractions to avoid wasting your holiday time i
 
 ## **Beware of the Rainy Season**
 
-The Qingming Festival-Eid al-Fitr period falls at the end of Bali’s rainy season, which may bring unpredictable weather—either no rain or several days of rain. When visiting Bali during the rainy season, always have a backup plan for sudden downpours. Check out "[Bali Rainy Season: What to Do When It Rains? 60 Indoor Activities in Bali](/blog/2026-bali-indoor-activities/)".
+The Qingming Festival-Eid al-Fitr period falls at the end of Bali’s rainy season, which may bring unpredictable weather—either no rain or several days of rain. When visiting Bali during the rainy season, always have a backup plan for sudden downpours. Check out "[Bali Rainy Season: What to Do When It Rains? 60 Indoor Activities in Bali](/en/blog/2026-bali-indoor-activities/)".
 
 ## A Guide for Family Trips Where Everyone is Happy
 
@@ -106,30 +106,30 @@ During long holidays, many families choose to travel to Bali with their loved on
 
 For elderly family members, Bali offers many relaxing and leisurely spots, such as beautiful beaches, spas, and picturesque countryside. These places allow seniors to enjoy peaceful moments while participating in local cultural activities and learning about Bali’s unique traditions. To ensure a worry-free trip for seniors, thorough preparation is essential! Check out:
 
-- Part 1: [Bali Travel Guide for Seniors - Safety, Comfort, and Precautions](/blog/bali-elderly-travel-guide/)
-- Part 2: [Complete Guide to Senior-Friendly Travel Destinations in Bali](/blog/bali-senior-friendly-travel-guide/)
-- Part 3: [How Quirky Can Elderly Parents Be? Tips to Avoid 'Thankless Efforts' When Traveling Abroad](/blog/traveling-with-elderly-parents-tips/)
+- Part 1: [Bali Travel Guide for Seniors - Safety, Comfort, and Precautions](/en/blog/bali-elderly-travel-guide/)
+- Part 2: [Complete Guide to Senior-Friendly Travel Destinations in Bali](/en/blog/bali-senior-friendly-travel-guide/)
+- Part 3: [How Quirky Can Elderly Parents Be? Tips to Avoid 'Thankless Efforts' When Traveling Abroad](/en/blog/traveling-with-elderly-parents-tips/)
 
 For children, Bali offers a joyful vacation experience. With plenty of outdoor activities, zoo visits, and historical site explorations, kids can satisfy their curiosity for adventure and discovery. For tips and guides on family travel, see:
 
-- [Complete Guide to Family-Friendly Attractions in Bali: Over 100 Activities for Families](/blog/bali-family-travel-guide/)
-- [20 Tips for Traveling to Bali with Kids](/blog/bali-family-travel-tips/)
-- [Bali Family Travel: Tips for Vacationing with Babies, Toddlers, and School-Aged Children](/blog/bali-family-travel-guide-2/)
-- [Guide to Hiring a Nanny in Bali: How to Find the Right Nanny and Cost Overview](/blog/bali-nanny-hiring-guide/)
-- [Traveling to Bali with a Baby: Tips for Bringing Pork and Chicken Baby Food](/blog/baby-food-bali-tips/)
-- [Bali Family Resorts: Top 15 Resorts with Water Slides and Playgrounds](/blog/bali-family-resorts-water-slides/)
-- [14 Recommended Family Resorts in Bali: Best Options in Kuta, Seminyak, Canggu, Jimbaran, and Uluwatu](/blog/bali-family-resorts-kids-club/)
-- [54 Kid-Friendly Activities in Ubud](/blog/ubud-with-kids-guide/)
-- [Sanur Guide: 45 Things to Do with Kids](/blog/sanur-guide/)
-- [Bali Family Day Trip Guide: Exploring the Safari Park and Flamingo Beach Club](/blog/bali-family-day-safari-flamingo/)
-- [Bali Safari: How to Enjoy and Stay Overnight](/blog/bali-safari-night-stay/)
-- [2025 New Opening](/blog/marine-safari-bali-guide/) [Marine Safari Bali Guide](/blog/marine-safari-bali-guide/)
-- [Alpaca Picnic Interaction: A Natural Classroom for Kids](/blog/pacha-alpaca-family-canggu/)
-- [Magic Garden at Nuanu Creative City](/blog/nuanu-magic-garden-bali/)
-- [Jungle Kids Bali | Nuanu’s Kids Club: The Best Play and Learning Space for Kids](/blog/jungle-kids-bali-nuanu-playground/)
-- [Bali Family Travel Guide - Seminyak Edition](/blog/seminyak-family-travel-2026/)
-- [Bali Family Travel Guide - Ubud Edition](/blog/ubud-family-travel-2026/)
-- [Bali Family Travel Guide - Sanur Edition](/blog/sanur-family-travel-guide-2/)
+- [Complete Guide to Family-Friendly Attractions in Bali: Over 100 Activities for Families](/en/blog/bali-family-travel-guide/)
+- [20 Tips for Traveling to Bali with Kids](/en/blog/bali-family-travel-tips/)
+- [Bali Family Travel: Tips for Vacationing with Babies, Toddlers, and School-Aged Children](/en/blog/bali-family-travel-guide-2/)
+- [Guide to Hiring a Nanny in Bali: How to Find the Right Nanny and Cost Overview](/en/blog/bali-nanny-hiring-guide/)
+- [Traveling to Bali with a Baby: Tips for Bringing Pork and Chicken Baby Food](/en/blog/baby-food-bali-tips/)
+- [Bali Family Resorts: Top 15 Resorts with Water Slides and Playgrounds](/en/blog/bali-family-resorts-water-slides/)
+- [14 Recommended Family Resorts in Bali: Best Options in Kuta, Seminyak, Canggu, Jimbaran, and Uluwatu](/en/blog/bali-family-resorts-kids-club/)
+- [54 Kid-Friendly Activities in Ubud](/en/blog/ubud-with-kids-guide/)
+- [Sanur Guide: 45 Things to Do with Kids](/en/blog/sanur-guide/)
+- [Bali Family Day Trip Guide: Exploring the Safari Park and Flamingo Beach Club](/en/blog/bali-family-day-safari-flamingo/)
+- [Bali Safari: How to Enjoy and Stay Overnight](/en/blog/bali-safari-night-stay/)
+- [2025 New Opening](/en/blog/marine-safari-bali-guide/) [Marine Safari Bali Guide](/en/blog/marine-safari-bali-guide/)
+- [Alpaca Picnic Interaction: A Natural Classroom for Kids](/en/blog/pacha-alpaca-family-canggu/)
+- [Magic Garden at Nuanu Creative City](/en/blog/nuanu-magic-garden-bali/)
+- [Jungle Kids Bali | Nuanu’s Kids Club: The Best Play and Learning Space for Kids](/en/blog/jungle-kids-bali-nuanu-playground/)
+- [Bali Family Travel Guide - Seminyak Edition](/en/blog/seminyak-family-travel-2026/)
+- [Bali Family Travel Guide - Ubud Edition](/en/blog/ubud-family-travel-2026/)
+- [Bali Family Travel Guide - Sanur Edition](/en/blog/sanur-family-travel-guide-2/)
 - Bali Family Travel Column
 
 ![A Guide for Family Trips Where Everyone is Happy](https://images.gobaligo.id/vocus/vocus_02b21980932dcbfaf9c9146ef6bf887b.png)
@@ -142,7 +142,7 @@ Finally, we sincerely wish you and your family a warm, joyful, and unforgettable
 
 **Quick Reference:**
 
-- [Bali Travel Essentials: 31 Must-Know Tips for First-Time Visitors](/blog/bali-ultimate-guide-2026/)
-- [Bali Travel Guide: 18 Common Mistakes and Tips to Avoid Them](/blog/bali-travel-mistakes-tips/)
-- [Bali Must-Know: 41 Awkward Questions 99% of Travelers Secretly Search For!](/blog/bali-travel-faqs-guide/)
-- [Avoid Traffic Jams! The Ultimate Guide to Planning Your Bali Free & Easy Trip](/blog/bali-free-travel-guide/)
+- [Bali Travel Essentials: 31 Must-Know Tips for First-Time Visitors](/en/blog/bali-ultimate-guide-2026/)
+- [Bali Travel Guide: 18 Common Mistakes and Tips to Avoid Them](/en/blog/bali-travel-mistakes-tips/)
+- [Bali Must-Know: 41 Awkward Questions 99% of Travelers Secretly Search For!](/en/blog/bali-travel-faqs-guide/)
+- [Avoid Traffic Jams! The Ultimate Guide to Planning Your Bali Free & Easy Trip](/en/blog/bali-free-travel-guide/)

@@ -67,7 +67,7 @@ _srcHash: d867aa050268294f5def51dd914e2047
 
 ## eSIM推薦
 
-如果你部手機可以用eSIM，信號最穩定、最推薦嘅eSIM方案係[呢個](/blog/bali-esim-travel-guide/)！
+如果你部手機可以用eSIM，信號最穩定、最推薦嘅eSIM方案係[呢個](/zh-hk/blog/bali-esim-travel-guide/)！
 
 ![eSIM推薦](https://images.gobaligo.id/images/2026-03/1774795350035-d191a0b14c5f198b32ba296c4e0035b1.jpg)
 
@@ -79,4 +79,4 @@ _srcHash: d867aa050268294f5def51dd914e2047
 
 👈 **返去峇里島自由行終極指南**
 
-想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次搞掂出發前要做咩。
+想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次搞掂出發前要做咩。

@@ -25,7 +25,7 @@ lang: en
 _srcHash: 3c3c5eaef1257a3040e929f048c484e6
 ---
 
-[🚗 Want to estimate Gojek fares? Click here](/map/gojek-fare/)
+[🚗 Want to estimate Gojek fares? Click here](/en/map/gojek-fare/)
 
 ## **🚖 Bali Taxi Drivers Protest Leads to Government Strengthening Regulations on Ride-Hailing Services**
 

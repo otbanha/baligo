@@ -45,7 +45,7 @@ _srcHash: 513677da4b0f87836b56d2d2da9ea052
 - **票價**：IDR 300,000 起（約 USD$20）
 - **地點**：Nuanu Creative City - Labyrinth Arts Centre（Jl. Pantai Nyanyi, Tabanan）**（📍**[**地圖位置**](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing)**）**
 - **購票網址**：[點我購票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063286&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F158960-bali-mystic-dome-show-at-labyrinth%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D50288a468e) 🎫
-- **附加體驗**：憑票可免費參觀 [Labyrinth Art Gallery](/blog/labyrinth-collective-nuanu-bali/)、喺「[地球衛兵](/blog/the-earth-sentinels-nuanu/)」雕像影相
+- **附加體驗**：憑票可免費參觀 [Labyrinth Art Gallery](/zh-hk/blog/labyrinth-collective-nuanu-bali/)、喺「[地球衛兵](/zh-hk/blog/the-earth-sentinels-nuanu/)」雕像影相
 
 ---
 
@@ -95,4 +95,4 @@ Nuanu Creative City 係一個融合永續、藝術同科技嘅創意社區，距
 
 Nuanu Creative City係峇里島最新崛起嘅創意園區，仲推動零碳排，成為峇里島最新嘅永續旅遊地標。依家已經開始吸引全球嘅創意人士，成為下一個必訪嘅熱點！
 
-Nuanu Creative City嘅景點攻略請睇[呢度](/blog/nuanu-creative-city-luna-guide/)
+Nuanu Creative City嘅景點攻略請睇[呢度](/zh-hk/blog/nuanu-creative-city-luna-guide/)

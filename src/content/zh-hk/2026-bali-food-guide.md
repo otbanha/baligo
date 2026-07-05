@@ -54,7 +54,7 @@ _srcHash: e46b7b5c4cbf781b5d6c22dad068ac6e
 
 金巴蘭海灘以海鮮燒烤聞名，新鮮嘅海鮮配上日落美景簡直係人間享受！即撈即烤嘅魚、蝦、龍蝦等海鮮，淋上特製醬料，係到峇里島必須體驗嘅浪漫用餐方式。
 
-**快速參考：**[峇里島金巴蘭海鮮推薦：11間海鮮餐廳唔會中伏推薦](/blog/jimbaran-seafood-restaurants-list/)
+**快速參考：**[峇里島金巴蘭海鮮推薦：11間海鮮餐廳唔會中伏推薦](/zh-hk/blog/jimbaran-seafood-restaurants-list/)
 
 {{block:klook}}
 

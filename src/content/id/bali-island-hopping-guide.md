@@ -30,9 +30,9 @@ Bali, yang dijuluki surga dunia, punya pemandangan bikin hati meleleh dan budaya
 
 Baca Juga:
 
-> [【Panduan Lengkap Nusa Penida Bali】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)
+> [【Panduan Lengkap Nusa Penida Bali】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)
 
-> [【Panduan Gili Islands: Surga Liburan Ekstrem】: Nikmati Pengalaman Liburan di Pulau Surga!](/blog/gili-islands-travel-guide/)
+> [【Panduan Gili Islands: Surga Liburan Ekstrem】: Nikmati Pengalaman Liburan di Pulau Surga!](/id/blog/gili-islands-travel-guide/)
 
 Pas merencanakan trip island hopping dari Bali, pastiin kamu udah siapin tiket speedboat duluan, itu penting banget. Cara dan tempat beli tiket speedboat bakal ngaruh langsung ke kelancaran perjalanan kamu. Di artikel ini, kita bakal bahas gimana cara beli tiket speedboat, di mana bisa beli, dan kenapa kami rekomendasiin beli di Klook. Yuk, kita eksplor bareng!
 
@@ -79,7 +79,7 @@ Berikut pengalaman seru yang bisa kamu coba di Gili Islands:
 1. Kamu bisa langsung beli tiket di pelabuhan, tapi wajib datang ke loket minimal satu jam sebelum kapal berangkat
 2. Lebih worth it kalau booking tiket lewat Klook — selain dapet diskon, kamu juga nggak perlu antre lama
 3. Boleh bawa koper besar, tapi mending dihindari aja sih, soalnya susah banget dibawa keliling pulau
-4. Buat penitipan barang, cek [di sini](/blog/sanur-luggage-storage-guide/)
+4. Buat penitipan barang, cek [di sini](/id/blog/sanur-luggage-storage-guide/)
 5. Pakai sandal jepit dan celana pendek aja pas naik kapal, karena di beberapa pulau kamu harus turun sambil nyebur ke air
 6. Kalau beli tiket lewat Klook, datang ke pelabuhan minimal 30 menit sebelum kapal berangkat
 7. Mending booking tiket Klook minimal sehari sebelumnya, biar aman

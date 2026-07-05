@@ -87,7 +87,7 @@ Bali is a world-renowned tourist destination, attracting visitors from across th
 - Families or group travelers: Those needing larger vehicles and wanting to solve transportation needs in one go.
 - Travelers planning to make multiple stops (currency exchange, SIM card purchase, supermarket, etc.).
 
-> Further reading: [Private Car Hire Guide](/blog/bali-private-car-hire-guide/)
+> Further reading: [Private Car Hire Guide](/en/blog/bali-private-car-hire-guide/)
 
 ### 4. Klook/KKday Airport Transfer Booking
 
@@ -136,7 +136,7 @@ Find Grab/Gojek pickup points at the airport:
 - Tech-savvy travelers: Visitors comfortable using mobile apps.
 - Travelers heading to a single destination.
 
-> Further Reading: [Essential Apps for Traveling in Indonesia/Bali: A Complete Guide to Gojek](/blog/gojek-bali-guide/)
+> Further Reading: [Essential Apps for Traveling in Indonesia/Bali: A Complete Guide to Gojek](/en/blog/gojek-bali-guide/)
 
 {{block:包車}}
 
@@ -163,4 +163,4 @@ Choosing which airport transfer method depends on your needs, budget, and travel
 
 👈 **Return to the Ultimate Bali Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.
+Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/en/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.

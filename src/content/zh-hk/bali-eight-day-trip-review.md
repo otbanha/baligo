@@ -77,7 +77,7 @@ _srcHash: 554152b61da98b6bef488301a940b947
 
 朝早食完酒店豐富嘅早餐之後，我哋揸車去峇里島最出名嘅地標之一——海神廟。呢座建於16世紀嘅印度教寺廟企喺海中嘅巨岩上面，退潮嘅時候可以行埋去，漲潮嘅時候就會俾海水圍住，形成一幅好似畫咁嘅景象。企喺岸邊，睇住海浪拍打礁石，寺廟喺陽光下閃閃發光，嗰種震撼感真係好難形容。建議大家可以揀下晝時分去，夕陽西下嘅海神廟更加靚到令人屏息。
 
-**快速參考：**[峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](/blog/bali-tanah-lot-guide/)
+**快速參考：**[峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](/zh-hk/blog/bali-tanah-lot-guide/)
 
 ### 中午:水明漾廣場覓食與逛街
 
@@ -202,7 +202,7 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 夜晚我哋喺 Taman Dedari 食晚餐，為充實嘅一日畫上句號。
 
-**快速參考：**[【烏布美食+美景推薦】Taman Dedari 仙女公園](/blog/taman-dedari-ubud-food-scenery/)
+**快速參考：**[【烏布美食+美景推薦】Taman Dedari 仙女公園](/zh-hk/blog/taman-dedari-ubud-food-scenery/)
 
 ***
 
@@ -218,9 +218,9 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 我哋揀咗喺 Ritatkala Café 食飯，呢間景觀咖啡廳坐擁絕佳嘅視野。強烈建議大家揀戶外座位，面對住火山同湖泊，一邊食嘢一邊欣賞大自然嘅鬼斧神工。餐廳嘅雞翅特別推薦，外皮酥脆，肉質多汁，配埋特調醬料好惹味。喺涼爽嘅山區天氣入面，飲住熱咖啡，望住遠方嘅火山，嗰種心曠神怡嘅感覺真係難以形容。
 
-**快速參考：**[峇里島金塔瑪尼12大景觀火山咖啡廳推薦 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
+**快速參考：**[峇里島金塔瑪尼12大景觀火山咖啡廳推薦 🌄☕](/zh-hk/blog/kintamani-volcano-cafes-restaurants/)
 
-[峇里島金塔瑪尼巴杜爾火山湖｜日出登山 × 皇家遊船 × 湖景咖啡廳 × 火山溫泉全攻略](/blog/batur-lake-volcano-guide/)
+[峇里島金塔瑪尼巴杜爾火山湖｜日出登山 × 皇家遊船 × 湖景咖啡廳 × 火山溫泉全攻略](/zh-hk/blog/batur-lake-volcano-guide/)
 
 ### 下晝：Penglipuran Village 傳統村落
 
@@ -232,7 +232,7 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 村落入面嘅街道乾淨整齊，兩旁種咗竹林，行喺其中感覺特別清幽。有啲民宅會順便賣手工藝品或者當地特產，價錢係可以講價嘅，不妨試吓同主人傾吓偈。我哋喺其中一戶人度買咗冰條，主人好友善，熱情咁邀請我哋喺院子度休息。坐喺傳統峇里建築嘅院落入面，感受住微風同寧靜，嗰種放鬆感令人完全唔想走。呢度嘅居民生活節奏慢，充滿人情味，係體驗峇里島傳統文化嘅絕佳地方。
 
-**快速參考：**[穿越時空嘅 Penglipuran 村莊：體驗峇里古老魅力](/blog/penglipuran-village-bali-experience/)
+**快速參考：**[穿越時空嘅 Penglipuran 村莊：體驗峇里古老魅力](/zh-hk/blog/penglipuran-village-bali-experience/)
 
 ### 梯田鞦韆體驗
 
@@ -240,7 +240,7 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 行完村莊之後，我哋就去咗附近嘅梯田鞦韆景點。喺一層層綠色梯田前面盪鞦韆，係近年峇里島最Hit嘅體驗活動之一。盪起嗰一刻，眼前係一片翠綠嘅稻田同遠方嘅叢林，好似喺大自然入面飛翔咁，嗰種自由同美好嘅感覺，成為咗呢趟旅程最難忘嘅回憶之一。
 
-**快速參考：**[烏布玩鞦韆：峇里島最靚嘅8個鞦韆影相位｜烏布鞦韆/租禮服攻略](/blog/ubud-jungle-swings-photo-guide/)
+**快速參考：**[烏布玩鞦韆：峇里島最靚嘅8個鞦韆影相位｜烏布鞦韆/租禮服攻略](/zh-hk/blog/ubud-jungle-swings-photo-guide/)
 
 {{block:ubud}}
 
@@ -274,11 +274,11 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 **重要提醒：呢度嘅馬騮好百厭同大膽㗎！** 我哋親眼見到有遊客嘅眼鏡俾馬騮搶走。呢啲馬騮同遊客互動得多，已經學識點樣快搶眼鏡、帽、太陽眼鏡呢啲嘢，然後「要求」用食物交換。所以參觀嗰陣一定要收好隨身物品，眼鏡可以用繩綁實，盡量唔好帶閃令令嘅飾物或者食物，以免引起馬騮嘅注意。
 
-**快速參考：**[峇里島烏魯瓦圖廟/情人崖旅遊指南：必看亮點與實用建議](/blog/uluwatu-temple-travel-guide/)
+**快速參考：**[峇里島烏魯瓦圖廟/情人崖旅遊指南：必看亮點與實用建議](/zh-hk/blog/uluwatu-temple-travel-guide/)
 
 雖然要小心馬騮，但烏魯瓦圖神廟嘅景色真係好震撼。夕陽西下嗰陣，金黃色嘅陽光灑喺海面上，波光粼粼，神廟喺逆光下顯得更加神聖莊嚴。如果時間許可，可以留低睇傳統嘅 Kecak Fire Dance 表演，喺日落餘暉中欣賞呢場融合舞蹈、音樂同戲劇嘅文化饗宴。
 
-**快速參考：**[Kecak Fire Dance卡恰火舞秀 峇里島必睇嘅震撼表演（附訂票資訊）](/blog/kecak-fire-dance-bali/)
+**快速參考：**[Kecak Fire Dance卡恰火舞秀 峇里島必睇嘅震撼表演（附訂票資訊）](/zh-hk/blog/kecak-fire-dance-bali/)
 
 ### 晚餐：Ulu Cliffhouse
 

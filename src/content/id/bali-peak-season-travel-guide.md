@@ -43,7 +43,7 @@ Sesampainya di Bali pas musim ramai, nunggu taksi atau bingung milih aplikasi tr
 
 **Referensi Cepat:**
 
-Buat kamu yang cari supir handal, pengen tahu layanan mobil sewaan itu kayak gimana? Berapa biayanya? Bisa cek [di sini](/blog/bali-private-car-hire-guide/) ya!
+Buat kamu yang cari supir handal, pengen tahu layanan mobil sewaan itu kayak gimana? Berapa biayanya? Bisa cek [di sini](/id/blog/bali-private-car-hire-guide/) ya!
 
 ***
 
@@ -53,9 +53,9 @@ Pas musim ramai, daerah pesisir barat kayak **Kuta**, **Seminyak**, **Canggu** p
 
 ![Hindari Tempat Wisata yang Lagi Ramai: Cari Spot yang Lebih ](https://images.gobaligo.id/vocus/vocus_a5ecb9763da3a075dbe08fcb57b1c782.png)
 
-- **Semenanjung Bukit**: Daerah di selatan bandara ini, lengkapnya bisa cek di [sini](/blog/bukit-peninsula-guide/).
+- **Semenanjung Bukit**: Daerah di selatan bandara ini, lengkapnya bisa cek di [sini](/id/blog/bukit-peninsula-guide/).
 - **Amed**: Ada di timur Bali, terkenal sama pasir hitam yang tenang dan spot diving kece. Cek video dari Xiao Jie di bawah ini:
-- **Bali Utara** (north Bali): Daerah utara ini hits banget buat liat lumba-lumba dan suasananya santai. Cek artikel kami 「[15 tips traveling ke Bali Utara](/blog/north-bali-travel-guide/)」
+- **Bali Utara** (north Bali): Daerah utara ini hits banget buat liat lumba-lumba dan suasananya santai. Cek artikel kami 「[15 tips traveling ke Bali Utara](/id/blog/north-bali-travel-guide/)」
 - **Tabanan**: Dikenal sama sawah terasering dan pemandangan alamnya, cocok buat yang mau jauhin keramaian.
 - **Taman Nasional Bali Barat** (Bali Barat National Park): Alamnya asri dan bisa lihat satwa liar, pengalaman yang unik banget.
 
@@ -79,14 +79,14 @@ Daerah-daerah ini cocok banget buat kamu yang pengen liburan Tahun Baru tanpa ke
 
 **Referensi Cepat:**
 
-- [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)
-- [【Panduan Wisata Nusa Lembongan/Ceningan】Jelajahi Tempat Wisata, Kuliner, Transportasi di Nusa Lembongan/Ceningan: Surga di Dekat Bali](/blog/nusa-lembongan-ceningan-guide/)
-- [【Panduan Gili Islands: Destinasi Liburan Mewah】Nikmati Pengalaman Liburan di Pulau Surga!](/blog/gili-islands-travel-guide/)
-- [Paket All-Inclusive: Bali + Pulau Komodo, 4 Malam Menginap Mewah/Tanpa Belanja/Tanpa Biaya Tambahan/5 Hari](/blog/bali-komodo-luxury-tour-2026/)
+- [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)
+- [【Panduan Wisata Nusa Lembongan/Ceningan】Jelajahi Tempat Wisata, Kuliner, Transportasi di Nusa Lembongan/Ceningan: Surga di Dekat Bali](/id/blog/nusa-lembongan-ceningan-guide/)
+- [【Panduan Gili Islands: Destinasi Liburan Mewah】Nikmati Pengalaman Liburan di Pulau Surga!](/id/blog/gili-islands-travel-guide/)
+- [Paket All-Inclusive: Bali + Pulau Komodo, 4 Malam Menginap Mewah/Tanpa Belanja/Tanpa Biaya Tambahan/5 Hari](/id/blog/bali-komodo-luxury-tour-2026/)
 
 ### **Pesan Jauh-Jauh Hari Itu Kunci**
 
-Soalnya kapal dan akomodasi bakal cepat habis pas musim ramai, saranin pesen tiket kapal dan penginapan beberapa bulan sebelumnya biar nggak kecewa di akhir. Cek: [【Panduan Island Hopping】Lompat dari Bali ke Nusa Penida/Nusa Lembongan/Gili Islands/Lombok? Cara Beli Tiket Kapal Cepat? Di Mana?](/blog/bali-island-hopping-guide/)
+Soalnya kapal dan akomodasi bakal cepat habis pas musim ramai, saranin pesen tiket kapal dan penginapan beberapa bulan sebelumnya biar nggak kecewa di akhir. Cek: [【Panduan Island Hopping】Lompat dari Bali ke Nusa Penida/Nusa Lembongan/Gili Islands/Lombok? Cara Beli Tiket Kapal Cepat? Di Mana?](/id/blog/bali-island-hopping-guide/)
 
 ***
 
@@ -105,13 +105,13 @@ Tanggal-tanggal ini biasanya jadi yang paling macet, tiket kapal dan pesawat cep
 
 Saat musim ramai, tiket speedboat dari **Pelabuhan Sanur** ke pulau-pulau lepas sering banget sold out. Kalau kamu nggak kebagian tiket kapal, bisa coba dari **Pelabuhan Padang Bai** atau **Pelabuhan Serangan**. Pelabuhan-pelabuhan ini biasanya lebih sepi dan lalu lintasnya lebih lancar.
 
-Selain itu, kalau kamu mau cepat melewati daerah macet, misalnya dari **Canggu** ke **Uluwatu**, bisa pakai layanan taksi laut (GoBoat). Perjalanan darat yang biasanya tiga jam bisa dipangkas jadi 35 menit aja. Cek di sini: [Macet parah di Bali? Coba lewat laut aja! Layanan GoBoat](/blog/bali-goboat-transport/)
+Selain itu, kalau kamu mau cepat melewati daerah macet, misalnya dari **Canggu** ke **Uluwatu**, bisa pakai layanan taksi laut (GoBoat). Perjalanan darat yang biasanya tiga jam bisa dipangkas jadi 35 menit aja. Cek di sini: [Macet parah di Bali? Coba lewat laut aja! Layanan GoBoat](/id/blog/bali-goboat-transport/)
 
 ***
 
 ## **Rencanakan dari Awal, Travel Jadi Santai**
 
-Pas musim ramai di Bali, perencanaan awal dan fleksibilitas adalah kunci buat menghindari macet dan menikmati liburan yang lancar. Tapi **liburan Natal-Tahun Baru ternyata bukan puncak musim ramai nomor satu di antara lima musim ramai di Bali**! Mau tahu lima musim ramai (yang sebaiknya kamu hindari) di Bali? Cek di sini: [Bali Ternyata Punya Lima Musim Ramai! Gimana Cara Cerdas Menghindarinya?](/blog/bali-peak-season-travel-tips/)
+Pas musim ramai di Bali, perencanaan awal dan fleksibilitas adalah kunci buat menghindari macet dan menikmati liburan yang lancar. Tapi **liburan Natal-Tahun Baru ternyata bukan puncak musim ramai nomor satu di antara lima musim ramai di Bali**! Mau tahu lima musim ramai (yang sebaiknya kamu hindari) di Bali? Cek di sini: [Bali Ternyata Punya Lima Musim Ramai! Gimana Cara Cerdas Menghindarinya?](/id/blog/bali-peak-season-travel-tips/)
 
 Tips-tips praktis di atas super berguna pas musim ramai! Kalau kebetulan kamu datang ke Bali di musim ramai, coba deh terapkan tips ini ke rencana perjalananmu biar liburan makin lancar dan menyenangkan, pastiin liburanmu di Bali jadi perjalanan penuh kenangan indah!
 

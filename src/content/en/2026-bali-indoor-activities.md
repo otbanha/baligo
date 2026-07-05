@@ -54,7 +54,7 @@ https://youtube.com/shorts/POSTtRPKK5c
 
 Trans Studio Bali itself is a large shopping mall, and the massive indoor amusement park on the top floor features seven themed zones with 23 rides and attractions—enough to keep you busy all day! If you encounter rain during your Bali trip and your original plans fall through, don’t worry! Trans Studio Bali Indoor Theme Park will provide a day full of fun and excitement. Check out the short video above by Xiao Jie.
 
-Detailed guide: [Complete Guide to Trans Studio Bali: 5 Must-Try Attractions](https://gobaligo.id/blog/trans-studio-bali/)
+Detailed guide: [Complete Guide to Trans Studio Bali: 5 Must-Try Attractions](https://gobaligo.id/en/blog/trans-studio-bali/)
 
 > [Trans Studio Discount Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794706&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99048-trans-studio-bali-ticket%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3D80fb6fdbba)
 
@@ -86,7 +86,7 @@ Looking for a fun activity in Bali that’s safe from the sun and rain? ZONE OUT
 
 They offer a variety of thrilling games to choose from: racing, shooting, horror, adventure, roller coasters, and more. The equipment is state-of-the-art, and the visuals are fully immersive, making it fun for both adults and kids. Situated in the bustling heart of Kuta, it’s easily accessible and an ideal choice for rainy days or afternoon leisure.
 
-For more details, check out [here](/blog/zone-out-bali-vr-adventure/)
+For more details, check out [here](/en/blog/zone-out-bali-vr-adventure/)
 
 **Book on Klook**: [Click here](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1155611&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F182303-zoneout-ticket-in-kuta-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D609046a554)
 
@@ -100,7 +100,7 @@ Kuta has the most tourists, so it also has the most shopping spots! Here are som
 - Mal Bali Galeria
 - Trans Studio
 
-Interested friends can refer to this [Kuta Guide Map](/blog/2023-12-13-657598bdfd8978000120fe20/), which has all the locations marked out for you!
+Interested friends can refer to this [Kuta Guide Map](/en/blog/2023-12-13-657598bdfd8978000120fe20/), which has all the locations marked out for you!
 
 ### Souvenir Shops
 
@@ -313,7 +313,7 @@ Sukawati Art Market is renowned for its traditional arts and handicrafts, filled
 
 These two markets in Ubud are not only great for shopping but also provide shelter from the rain. Strolling through them on a rainy day adds an extra layer of fun to your trip!
 
-> Further reading: [Complete Guide to the Top 5 Art Markets in Ubud: Souvenirs and Gifts, Discovering Bali's Cultural Treasures](/blog/ubud-art-markets-guide/)
+> Further reading: [Complete Guide to the Top 5 Art Markets in Ubud: Souvenirs and Gifts, Discovering Bali's Cultural Treasures](/en/blog/ubud-art-markets-guide/)
 
 ### Bali Purma Art & Workshop
 
@@ -325,7 +325,7 @@ One of the most popular activities among children is the multi-generational trad
 
 Bali Purma Art & Workshop [Official Website](https://linktr.ee/balipurmaartworkshop?utm_source=ig&utm_medium=social&utm_content=link_in_bio)
 
-（🛕🌄🌴Further Reading: [Discover 100 Spots in Ubud](/blog/ubud-guide/)）
+（🛕🌄🌴Further Reading: [Discover 100 Spots in Ubud](/en/blog/ubud-guide/)）
 
 ![在峇里島雨天還是可以精彩、有意義喔！](https://images.gobaligo.id/vocus/vocus_4675ee467901a748f9f8e52da585d36c.png)
 
@@ -343,7 +343,7 @@ Rainy days in Bali can still be exciting and meaningful!
 
 ![AeroXSpace Adventure Indoor Playground](https://images.gobaligo.id/vocus/vocus_4548e46a1c68e1c1f46eb1d22ea3a4f3.jpg)
 
-Opened at the end of August 2024, the "AeroXSpace Adventure Indoor Playground" spans over 1,000 ping (about 35,000 sq ft) and offers endless fun for both adults and children! Detailed introduction and ticket links are available [here](/blog/aeroxspace-sanur-indoor-playground/).
+Opened at the end of August 2024, the "AeroXSpace Adventure Indoor Playground" spans over 1,000 ping (about 35,000 sq ft) and offers endless fun for both adults and children! Detailed introduction and ticket links are available [here](/en/blog/aeroxspace-sanur-indoor-playground/).
 
 ### Kids Soho Playground Indoor Playground
 
@@ -358,10 +358,10 @@ On a rainy day, head to Sanur and craft your own silver jewelry alongside an exp
 
 - [Book Sanur Silver Jewelry Making Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F124447-silver-jewelry-making-class-in-sanur%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df1e2fd5ed6)
 
-> ☀️⛱️Read More: [Sanur 50 Things to Do & Eat Guide](/blog/sanur-guide/)
+> ☀️⛱️Read More: [Sanur 50 Things to Do & Eat Guide](/en/blog/sanur-guide/)
 
 ### Clip 'n Climb Indoor Rock Climbing
-Clip 'n Climb Bali combines sport and entertainment, making it one of Bali's newest indoor adventure spots. Whether you're a beginner or a pro, there's fun for everyone! For detailed info and entry rules, check [here](/blog/clip-n-climb-sanur-bali/).
+Clip 'n Climb Bali combines sport and entertainment, making it one of Bali's newest indoor adventure spots. Whether you're a beginner or a pro, there's fun for everyone! For detailed info and entry rules, check [here](/en/blog/clip-n-climb-sanur-bali/).
 
 > [Buy Clip 'n Climb Discount Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1026544&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F150182-clip-n-climb-pass-in-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b7aec2eea)
 
@@ -390,7 +390,7 @@ The experience at Kevala Studio includes your finished piece, which you can take
 
 On rainy days, treat yourself to a relaxing spa session for body and mind!
 
-Check out our curated list of "[Top-Rated Spa Recommendations in Bali by Area](/blog/spa/)" to find quality spas in every major tourist region without any guesswork.
+Check out our curated list of "[Top-Rated Spa Recommendations in Bali by Area](/en/blog/spa/)" to find quality spas in every major tourist region without any guesswork.
 
 ## Enjoy Food / Afternoon Tea
 
@@ -413,13 +413,13 @@ Check out the links below:
 - [Dining/Afternoon Tea at D'Tukad Coffee Club, Ubud](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1173741&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F120659-d-tukad-coffee-club-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0c044edf49)
 - [Dining Experience at The Mulia Resort, Nusa Dua](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1173741&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94019-dining-experience-the-mulia-resort-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D70d06cb2ea)
 - [Dining/Afternoon Tea at The Ritz-Carlton, Nusa Dua](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1173741&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94002-the-ritz-carlton-dining-experience-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8d0ca29aa8)
-- [Kempinski Afternoon Tea Review: Dreamy Afternoon at Selasar Deli](/blog/kempinski-selasar-deli-afternoon-tea/)
-- [【Sunday Only】Alila Villas Uluwatu Brisa Brunch](/blog/alila-uluwatu-brisa-brunch/)
+- [Kempinski Afternoon Tea Review: Dreamy Afternoon at Selasar Deli](/en/blog/kempinski-selasar-deli-afternoon-tea/)
+- [【Sunday Only】Alila Villas Uluwatu Brisa Brunch](/en/blog/alila-uluwatu-brisa-brunch/)
 
 **Quick Reference:**
 
-> [Kuta Food Guide: The Ultimate Bali Food Guide](/blog/kuta-best-food-guide/)
-> [Seminyak Food Guide: A Perfect Blend of Romance, Refinement, and Authentic Bali](/blog/seminyak-restaurants-food-guide/)
+> [Kuta Food Guide: The Ultimate Bali Food Guide](/en/blog/kuta-best-food-guide/)
+> [Seminyak Food Guide: A Perfect Blend of Romance, Refinement, and Authentic Bali](/en/blog/seminyak-restaurants-food-guide/)
 
 ## Indoor Balinese Art Photography
 
@@ -440,7 +440,7 @@ Even without prior photography experience, you can create a set of high-quality 
 - [Highly Rated Balinese Cultural Photography Studio Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1178016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94778-bali-traditional-costume-photoshoot-at-asana-artseum%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7c8cbcdce4)
 - [Balinese Traditional Costume Experience and Photoshoot](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1178016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F112401-balinese-costume-experience-and-photoshoot-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8dbe5a4f43)
 
-> **Quick Reference:** [The Ultimate Guide to Bali Photography: Travel Shoots and Traditional Costume Portraits](/blog/bali-travel-photography-guide/)
+> **Quick Reference:** [The Ultimate Guide to Bali Photography: Travel Shoots and Traditional Costume Portraits](/en/blog/bali-travel-photography-guide/)
 
 ## Singing Bowl Sound Healing
 
@@ -453,7 +453,7 @@ Klook offers some emerging singing bowl healing services, allowing visitors to e
 - [Serendipity Sounds Meditation](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1199540&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113155-sound-healing-and-meditation-at-serendipity-sounds-meditation-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcb611fcf25) (Google Rating 5.0⭐⭐⭐⭐⭐)
 - [Ubud Sound Yoga And Energy Healing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1199540&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F171223-ubud-sound-yoga-and-energy-healing-experience%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5dc5342d17)(Google Rating 4.9⭐⭐⭐⭐⭐)
 
-> [Ubud Sound Healing / Singing Bowl Meditation](/blog/ubud-sound-healing/)
+> [Ubud Sound Healing / Singing Bowl Meditation](/en/blog/ubud-sound-healing/)
 
 {{block:klook}}
 
@@ -467,4 +467,4 @@ Whether you’re dodging a downpour or escaping the scorching sun, these 60 indo
 
 👈 **Back to Bali Ultimate Travel Guide**
 
-Want the full beginner’s guide? [Click here to read the “2026 Bali Ultimate Travel Guide”](/blog/bali-ultimate-guide-2026/) and get everything sorted before you go.
+Want the full beginner’s guide? [Click here to read the “2026 Bali Ultimate Travel Guide”](/en/blog/bali-ultimate-guide-2026/) and get everything sorted before you go.

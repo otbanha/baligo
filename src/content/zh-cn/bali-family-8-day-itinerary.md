@@ -45,7 +45,7 @@ Update: 2026/07/03
 
 我们选择了落地签证，使用刷卡支付需额外多付2%的手续费。原本考虑办理电子签证，但需填写大量资料，且出发前看到有人因填写TAIWAN而被罚款，担心填错所以决定直接办理落地签。巴厘岛的落地签证办理过程相对简便，现场有很多排队柜台，每排约有五人。我们很幸运，大概等了十来分钟就完成了签证手续。不过，取行李的时候运气就没那么好了，我们等了将近两个小时才拿到行李，结果错过了在金巴兰观赏夕阳的机会。
 
-> [1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
+> [1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/zh-cn/blog/bali-all-indonesia-arrival-guide/)
 
 ### 网卡
 
@@ -55,7 +55,7 @@ Update: 2026/07/03
 
 我们在台湾先换好美金，然后到巴厘岛当地再换印尼盾。选择在当地有提供收据和认证的换汇所换汇。实际上，每间正规换汇所的汇率都差不多，只有一些没有提供收据的店家的汇率会较优，但我们担心会被骗，所以还是选择在正规换汇所换汇。经过观察，我们发现中午到下午三点左右的汇率较为优越，有时候到了下午汇率就会变差。
 
-如何选择正规换汇所？请看：[印尼/巴厘岛旅游换汇懒人包](/blog/bali-currency-exchange-guide/)
+如何选择正规换汇所？请看：[印尼/巴厘岛旅游换汇懒人包](/zh-cn/blog/bali-currency-exchange-guide/)
 
 ### 机场至金巴兰酒店
 
@@ -83,7 +83,7 @@ Update: 2026/07/03
 
 晚餐我们选择了Lia Cafe，这里需要另收10%的服务费，也可以刷卡支付。在等餐的时候，有一团当地的歌手会根据你的国籍唱不同的歌，但他们强迫要求小费，给得太少他们会表现得不太高兴，这点让我们的用餐体验有些不愉快。（编按：不是属于餐厅的乐团。一般乐团献唱，你们一行人给个50,000印尼盾的小费就皆大欢喜了！）
 
-> 延伸阅读：[巴厘岛金巴兰11家海鲜餐厅推荐](/blog/jimbaran-seafood-restaurants-list/)
+> 延伸阅读：[巴厘岛金巴兰11家海鲜餐厅推荐](/zh-cn/blog/jimbaran-seafood-restaurants-list/)
 
 ### 未完成的行程 - Cuca Restaurant
 
@@ -138,7 +138,7 @@ Mei Chen提供，左至右：Pantai Batu Barak/Pandawa Beach/Oneeighty
 
 午餐我们选择了One Eighty Bali悬崖酒吧，这里的食物价格相对便宜，我们点了很多餐点才把低消用完。这里除了美味的食物，还有无边泳池，可以边吃边享受美景。建议提前预订，并且这里可以刷卡支付。
 
-> 延伸阅读：[Oneeighty Day Club介绍：巴厘岛悬崖边的游泳池极致美景](/blog/oneeighty-dayclub-uluwatu-pool/)
+> 延伸阅读：[Oneeighty Day Club介绍：巴厘岛悬崖边的游泳池极致美景](/zh-cn/blog/oneeighty-dayclub-uluwatu-pool/)
 
 ### 乌鲁瓦图庙/火舞表演
 
@@ -148,7 +148,7 @@ Mei Chen提供：乌鲁瓦图庙和卡洽火舞表演
 
 下午，我们前往乌鲁瓦图庙观看夕阳和火舞表演。建议先在Klook或KKday购买门票，否则现场排队不一定能看到六点的表演。这里的猴子非常活跃，要特别小心自己的帽子和眼镜，防止被猴子抢走。
 
-> 延伸阅读：[Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演（附订票信息）](/blog/kecak-fire-dance-bali/)
+> 延伸阅读：[Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演（附订票信息）](/zh-cn/blog/kecak-fire-dance-bali/)
 
 ### 编辑推荐
 
@@ -267,7 +267,7 @@ https://youtube.com/shorts/sVxycGvyT9w
 
 接着我们来到了Penglipuran村庄，这里的包包价格相对来说是最低的，很适合购物。虽然价格很平价，但还是可以砍价的哦。
 
-> 延伸阅读：[穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/blog/penglipuran-village-bali-experience/)
+> 延伸阅读：[穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/zh-cn/blog/penglipuran-village-bali-experience/)
 
 ### 百沙基母庙
 
@@ -277,7 +277,7 @@ https://youtube.com/shorts/sVxycGvyT9w
 
 晚餐我们去了金塔玛尼的 AKASA Specialty Coffee，这是一家景观餐厅，食物价格相对来说还是蛮平价的，而且可以刷卡支付。在这里，我们可以享受美食的同时，欣赏着美丽的景色。
 
-> [巴厘岛金塔玛尼13大景观火山咖啡厅/餐厅推荐 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
+> [巴厘岛金塔玛尼13大景观火山咖啡厅/餐厅推荐 🌄☕](/zh-cn/blog/kintamani-volcano-cafes-restaurants/)
 
 ### 住宿 - Batur view Homestay
 
@@ -335,7 +335,7 @@ Mei Chen提供
 
 接下来我们前往圣泉寺，这里是巴厘岛的一个知名景点。如果只是想拍照的话，可以不用下水，但如果要下水的话，可能需要排队一段时间。
 
-> [【巴厘岛圣泉寺】Tirta Empul 完整指南：千年圣水净化仪式流程、禁忌与必看重点](/blog/tirta-empul-temple-guide/)
+> [【巴厘岛圣泉寺】Tirta Empul 完整指南：千年圣水净化仪式流程、禁忌与必看重点](/zh-cn/blog/tirta-empul-temple-guide/)
 
 ### Cantik
 
@@ -347,7 +347,7 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 虽然对台湾人来说可能没有太大的惊喜，但作为文化遗产还是值得一去，我们特地前往拍了一些照片。
 
-> [【巴厘岛梯田攻略】德格拉朗 vs. 贾提鲁维：门票、最佳季节与拍照位全解析（附行程建议）](/blog/bali-rice-terraces-comparison/)
+> [【巴厘岛梯田攻略】德格拉朗 vs. 贾提鲁维：门票、最佳季节与拍照位全解析（附行程建议）](/zh-cn/blog/bali-rice-terraces-comparison/)
 
 ### Tebasari Resto, Bar & Lounge
 
@@ -396,7 +396,7 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 接着我们前往了乌布皇宫，这是一个历史悠久的古老皇宫，值得一游。
 
-> [【乌布必访景点】乌布皇宫：巴厘岛文化历史的瑰宝｜开放时间、门票、表演时间、周边景点、一日游推荐](/blog/ubud-royal-palace-tour-guide/)
+> [【乌布必访景点】乌布皇宫：巴厘岛文化历史的瑰宝｜开放时间、门票、表演时间、周边景点、一日游推荐](/zh-cn/blog/ubud-royal-palace-tour-guide/)
 
 ### Tukies Coconut Shop
 
@@ -465,7 +465,7 @@ Mei Chen提供。左：布拉坦水神庙；右：海神庙
 
 离开山区，接着我们前往了坎古的海神庙，不过由于涨潮的关系，无法走过去参观海神庙，有些可惜。
 
-> 延伸阅读：[巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/blog/bali-tanah-lot-guide/)
+> 延伸阅读：[巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/zh-cn/blog/bali-tanah-lot-guide/)
 
 ### Kurnia Seafood Bali
 

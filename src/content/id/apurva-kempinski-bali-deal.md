@@ -99,9 +99,9 @@ Kalau itinerary udah pasti, paket non-refund kayak gini biasanya jauh lebih mura
 
 The Apurva Kempinski Bali bisa dibilang salah satu resort bintang lima yang paling banyak dibicarakan di Bali dalam beberapa tahun terakhir.
 
-> [Pengalaman Liburan Bali yang Unik - Akomodasi Mewah di Bali: Hotel Kempinski Apurva Kempinski Bali](/blog/apurva-kempinski-bali-nusa-dua/)
+> [Pengalaman Liburan Bali yang Unik - Akomodasi Mewah di Bali: Hotel Kempinski Apurva Kempinski Bali](/id/blog/apurva-kempinski-bali-nusa-dua/)
 
-[The Apurva Kempinski Bali Raih Penghargaan "Hotel Berkelanjutan Terbaik" 2024](/blog/apurva-kempinski-sustainability-award/)
+[The Apurva Kempinski Bali Raih Penghargaan "Hotel Berkelanjutan Terbaik" 2024](/id/blog/apurva-kempinski-sustainability-award/)
 
 ## 1️⃣ Salah Satu Arsitektur Hotel Paling Spektakuler di Bali
 

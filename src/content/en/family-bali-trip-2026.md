@@ -42,7 +42,7 @@ Eager to immerse ourselves in this vacation paradise, we opted for a direct flig
 
 ### 2. (Very Important!) Visa, Entry, and Related Applications
 
-Includes visa (eVOA／VOA), ~~eCD electronic customs declaration, health information card (SSHP)~~ (now integrated into [AIAC](/blog/bali-evisa-customs-health-declaration/)), and tourism tax.
+Includes visa (eVOA／VOA), ~~eCD electronic customs declaration, health information card (SSHP)~~ (now integrated into [AIAC](/en/blog/bali-evisa-customs-health-declaration/)), and tourism tax.
 
 **Pro Tip (From Personal Experience):**
 
@@ -55,7 +55,7 @@ To save time upon arrival, I chose to apply for the eVOA (electronic Visa on Arr
 - Required documents: Scanned passport page (JPG/PDF), passport photo (JPG), accommodation address, flight information, credit card
 - Cost: IDR 500,000 per person (approx. USD$31)
 - Official application website: <https://evisa.imigrasi.go.id/> <--- Only official link
-- Application guide: Many tutorial articles are available in the community, such as [【2026 Edition】Using the 'All Indonesia' Arrival Card for Bali Entry｜1-Minute Guide to the Latest Process: From Landing → Customs → Baggage Claim](/blog/bali-all-indonesia-arrival-guide/)
+- Application guide: Many tutorial articles are available in the community, such as [【2026 Edition】Using the 'All Indonesia' Arrival Card for Bali Entry｜1-Minute Guide to the Latest Process: From Landing → Customs → Baggage Claim](/en/blog/bali-all-indonesia-arrival-guide/)
 
 **PS:**
 
@@ -68,7 +68,7 @@ With eVOA, you can use the automated gates. I usually print a copy as backup.
 - Required documents: Passport details, eVOA number, flight and accommodation information
 - Application website: 'All Indonesia' integrated arrival system <https://allindonesia.imigrasi.go.id/>
 - Cost: Free
-- Tutorial reference: [【2026 Edition】Using the 'All Indonesia' Arrival Card for Bali Entry｜1-Minute Guide to the Latest Process: From Landing → Customs → Baggage Claim](/blog/bali-all-indonesia-arrival-guide/)
+- Tutorial reference: [【2026 Edition】Using the 'All Indonesia' Arrival Card for Bali Entry｜1-Minute Guide to the Latest Process: From Landing → Customs → Baggage Claim](/en/blog/bali-all-indonesia-arrival-guide/)
 
 **PS:** Please save the QR code on your phone or print a copy for verification.
 
@@ -132,7 +132,7 @@ Betty took us along the **Blue Cliff Road**, where the deep blue sea contrasted 
 
 {{block:uluwatu}}
 
-- [【Highlights】Top-Rated Spas & In-House Massages in Bali, Organized by Area for Easy Reference](/blog/spa/)
+- [【Highlights】Top-Rated Spas & In-House Massages in Bali, Organized by Area for Easy Reference](/en/blog/spa/)
 
 ***
 
@@ -146,7 +146,7 @@ Betty took us along the **Blue Cliff Road**, where the deep blue sea contrasted 
 
 **Taman Safari Bali** is a favorite among children, offering close encounters with elephants, tigers, and other animals. You can also take a safari bus into the wild area, experiencing the vastness of an African savanna. Dinner is served at **Freddies Resort & Villas**, where the serene environment and exquisite dishes make for a delightful evening.
 
-**Quick Reference:** [Complete Guide to Bali Safari: Night Stay Experience, Family Fun & Itinerary Planning](/blog/bali-safari-night-experience/)
+**Quick Reference:** [Complete Guide to Bali Safari: Night Stay Experience, Family Fun & Itinerary Planning](/en/blog/bali-safari-night-experience/)
 
 ***
 
@@ -164,9 +164,9 @@ Start the morning with **Ayung River Rafting**, where the lush tropical rainfore
 
 **Quick Reference:**
 
-- [Bali Rafting Guide (FAQ)](/blog/bali-rafting-ayung-telaga-waja/)
-- [Step Back in Time at Penglipuran Village: Experience Bali's Ancient Charm](/blog/penglipuran-village-bali-experience/)
-- [Ubud Swing: Bali's 8 Most Beautiful Swing Photo Spots｜Ubud Swing/Dress Rental Guide](/blog/ubud-jungle-swings-photo-guide/)
+- [Bali Rafting Guide (FAQ)](/en/blog/bali-rafting-ayung-telaga-waja/)
+- [Step Back in Time at Penglipuran Village: Experience Bali's Ancient Charm](/en/blog/penglipuran-village-bali-experience/)
+- [Ubud Swing: Bali's 8 Most Beautiful Swing Photo Spots｜Ubud Swing/Dress Rental Guide](/en/blog/ubud-jungle-swings-photo-guide/)
 
 ***
 

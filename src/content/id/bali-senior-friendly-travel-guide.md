@@ -31,7 +31,7 @@ lang: id
 _srcHash: 8a308d6527dfc54e8ff1ead423454358
 ---
 
-Bali emang jadi destinasi favorit, dan buat kebutuhan wisata lansia, banyak tempat dan aktivitas yang ramah dan nyaman. Di episode sebelumnya kita udah bahas tips dan barang wajib bawa orang tua ke Bali — yang ketinggalan bisa klik [di sini](/blog/bali-elderly-travel-guide/).
+Bali emang jadi destinasi favorit, dan buat kebutuhan wisata lansia, banyak tempat dan aktivitas yang ramah dan nyaman. Di episode sebelumnya kita udah bahas tips dan barang wajib bawa orang tua ke Bali — yang ketinggalan bisa klik [di sini](/id/blog/bali-elderly-travel-guide/).
 
 ![Bawa Orang Tua ke Bali: Panduan Lengkap Tempat Wisata Bali y](https://images.gobaligo.id/vocus/vocus_44e5969c67eb5de211f0583803f0d6d4.jpg)
 
@@ -51,11 +51,11 @@ Yuk kita mulai topik hari ini!
 
 ![12家景觀咖啡廳介紹](https://images.gobaligo.id/vocus/vocus_29d1d2578770bd43958ed0f8665e3183.jpg)
 
-[Review 13 Kafe dengan Pemandangan Gunung](/blog/kintamani-volcano-cafes-restaurants/)
+[Review 13 Kafe dengan Pemandangan Gunung](/id/blog/kintamani-volcano-cafes-restaurants/)
 
 Gunung Batur di Kintamani adalah salah satu spot paling keren di Bali. Kamu bisa sarapan atau makan siang sambil menikmati pemandangan gunung yang megah dari kafe-kafe di sekitarnya — cocok banget buat orang tua yang pengin santai. Lagipula, kafe-kafe ini kebanyakan ada di pinggir jalan besar, jadi tinggal turun dari mobil langsung sampai.
 
-Info lengkap dan promo 13 kafe dengan pemandangan bisa kamu lihat [di sini](/blog/kintamani-volcano-cafes-restaurants/).
+Info lengkap dan promo 13 kafe dengan pemandangan bisa kamu lihat [di sini](/id/blog/kintamani-volcano-cafes-restaurants/).
 
 ### **Pengalaman Royal Songan Cruise di Danau Batur**
 
@@ -81,7 +81,7 @@ Selain berendam, tempat ini juga punya water park besar lho!
 
 ![峇里島兩大梯田區拜訪攻略｜入場門票多少錢？最佳拜訪時間/季節？](https://images.gobaligo.id/vocus/vocus_fd75517ef6925ab0d4393363275a2f88.jpg)
 
-[Panduan Kunjungan ke Dua Area Terasering Sawah di Bali | Berapa Tiket Masuknya? Waktu/Musim Terbaik untuk Berkunjung?](/blog/bali-rice-terraces-comparison/)
+[Panduan Kunjungan ke Dua Area Terasering Sawah di Bali | Berapa Tiket Masuknya? Waktu/Musim Terbaik untuk Berkunjung?](/id/blog/bali-rice-terraces-comparison/)
 
 Terasering Tegalalang adalah pemandangan sawah bertingkat yang terkenal di Bali, cocok buat kamu yang suka alam. Ada jalur setapak yang tertata rapi, meskipun jarak jalannya nggak terlalu panjang, kamu tetap bisa dapetin foto-foto keren. Saran makin pagi makin bagus, soalnya siang hari panas banget dan nggak ada tempat berteduh.
 
@@ -105,19 +105,19 @@ https://youtube.com/shorts/MmqfkXw211k
 
 ![烏布皇宮詳細介紹請點我](https://images.gobaligo.id/vocus/vocus_79c5b5f529fcc20fdb36314179b8a9d1.jpg)
 
-[Klik di sini untuk panduan lengkap Ubud Royal Palace](/blog/ubud-royal-palace-tour-guide/)
+[Klik di sini untuk panduan lengkap Ubud Royal Palace](/id/blog/ubud-royal-palace-tour-guide/)
 
 Ubud Royal Palace dan Ubud Water Palace di dekatnya menampilkan pesona arsitektur tradisional Bali. Tempat-tempat ini mudah dijangkau dengan berjalan kaki dan sering mengadakan pertunjukan budaya, sangat cocok untuk lansia yang ingin merasakan atmosfer seni dan budaya Bali.
 
 Pengenalan Ubud Water Palace:
 
-[【Destinasi Wajib di Ubud】Ubud Royal Palace: Permata Sejarah dan Budaya Bali | Jam Buka, Tiket Masuk, Jadwal Pertunjukan, Tempat Wisata Sekitar, Rekomendasi Tur Sehari](/blog/ubud-royal-palace-tour-guide/)
+[【Destinasi Wajib di Ubud】Ubud Royal Palace: Permata Sejarah dan Budaya Bali | Jam Buka, Tiket Masuk, Jadwal Pertunjukan, Tempat Wisata Sekitar, Rekomendasi Tur Sehari](/id/blog/ubud-royal-palace-tour-guide/)
 
 ### **Pura Ulun Danu Beratan**
 
 ![詳細介紹請看「烏布攻略」](https://images.gobaligo.id/vocus/vocus_1bb08eaea3e9b3408882ef2a34f127c7.jpg)
 
-[Lihat panduan lengkapnya di «Panduan Ubud»](/blog/ubud-guide/)
+[Lihat panduan lengkapnya di «Panduan Ubud»](/id/blog/ubud-guide/)
 
 Pura di tepi Danau Beratan ini juga dikenal sebagai «Pura Air», yang merupakan akar dari pertanian di seluruh Bali, sangat cocok untuk dikunjungi lansia. Jalur setapak di tepi danau cukup datar, pengunjung bisa berjalan-jalan di sepanjang danau atau menyewa perahu kecil untuk menikmati pemandangan pura dari dekat.
 
@@ -133,7 +133,7 @@ Pura berusia seribu tahun dari abad ke-11 ini terletak di antara Ubud dan Denpas
 
 ![彭里普蘭村 完整介紹](https://images.gobaligo.id/vocus/vocus_31a2dfcdbf606139d280301ff952e936.jpg)
 
-[Baca selengkapnya tentang Penglipuran Village](/blog/penglipuran-village-bali-experience/)
+[Baca selengkapnya tentang Penglipuran Village](/id/blog/penglipuran-village-bali-experience/)
 
 Desa Penglipuran terkenal dengan arsitektur tradisional Bali yang kuno dan suasananya yang tenang. Jalanan di dalam desa yang rata memudahkan lansia untuk berjalan santai sambil mengenal lebih dalam gaya hidup tradisional Bali.
 
@@ -143,7 +143,7 @@ Desa Penglipuran terkenal dengan arsitektur tradisional Bali yang kuno dan suasa
 
 ![點我看：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](https://images.gobaligo.id/vocus/vocus_73a549a4d42acdf151edf845f57eac87.jpg)
 
-[Klik di sini: Panduan lengkap Pura Tanah Lot, pasang surut, dan tempat wisata sekitar](/blog/bali-tanah-lot-guide/)
+[Klik di sini: Panduan lengkap Pura Tanah Lot, pasang surut, dan tempat wisata sekitar](/id/blog/bali-tanah-lot-guide/)
 
 Pura Tanah Lot terkenal dengan lokasinya yang unik dan pemandangan pantai yang spektakuler, terutama saat matahari terbenam, pura dikelilingi oleh sinar keemasan yang menciptakan pemandangan memukau dan sangat digemari wisatawan. Namun, karena popularitasnya yang tinggi, lalu lintas di sekitar Tanah Lot sering macet, terutama menjelang dan sesudah matahari terbenam, sehingga keluar-masuk area ini bisa memakan waktu cukup lama.
 
@@ -176,8 +176,8 @@ https://www.instagram.com/reel/DDbHzDmy62G/?utm_source=ig_web_copy_link&igsh=NTc
 - **Waktu Pertunjukan**: Setiap Jumat 19:00 - 20:00 (disarankan sampai jam 18:00)
 - **Harga Tiket**: Mulai IDR 300,000 (sekitar USD$10)
 - **Lokasi**: Nuanu Creative City - Labyrinth Arts Centre (Jl. Pantai Nyanyi, Tabanan) **📍**[**Lokasi di Maps**](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing)
-- **Link Pembelian Tiket**: [Klik di sini buat beli](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063286&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F158960-bali-mystic-dome-show-at-labyrinth%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D50288a468e) 🎫 (yang mau pergi [wajib baca](/blog/bali-mystic-show-experience/))
-- **Pengalaman Tambahan**: Dengan tiket, kamu bisa gratis masuk ke [Labyrinth Art Gallery](/blog/labyrinth-collective-nuanu-bali/) dan foto-foto di patung "[Earth Sentinels](/blog/the-earth-sentinels-nuanu/)"
+- **Link Pembelian Tiket**: [Klik di sini buat beli](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063286&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F158960-bali-mystic-dome-show-at-labyrinth%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D50288a468e) 🎫 (yang mau pergi [wajib baca](/id/blog/bali-mystic-show-experience/))
+- **Pengalaman Tambahan**: Dengan tiket, kamu bisa gratis masuk ke [Labyrinth Art Gallery](/id/blog/labyrinth-collective-nuanu-bali/) dan foto-foto di patung "[Earth Sentinels](/id/blog/the-earth-sentinels-nuanu/)"
 
 ### Devdan Show｜Sekali Nonton, Langsung Kenal Tradisi 5 Pulau Besar Indonesia
 
@@ -216,7 +216,7 @@ Harga tiketnya cuma IDR 150.000 (sekitar USD$5), murah meriah dan penuh edukasi.
 
 Ajak keluarga ke Magic Garden, biar orang tua tenggelam dalam keindahan alam dan budaya! 🌿
 
-Penjelasan lebih detail bisa lihat [di sini](/blog/nuanu-magic-garden-bali/)
+Penjelasan lebih detail bisa lihat [di sini](/id/blog/nuanu-magic-garden-bali/)
 
 ### Saksikan Keajaiban Bawah Air di Bali Marine Park lewat *Varuna Show*
 
@@ -234,13 +234,13 @@ Acara utamanya adalah **Varuna Show** — pertunjukan teater imersif yang mengga
 
 Ini tempat yang seru banget, nyaman, dan ramah untuk semua usia. Di pertunjukan Varuna Show, kamu bisa lihat permainan cahaya bawah air yang magis dengan cerita yang menyentuh. Sepanjang perjalanan, baik orang tua maupun anak-anak pasti punya kenangan yang tak terlupakan. Kalau lagi nyusun itinerary ke Bali, jangan lupa masukin tempat ini sebagai salah satu destinasi penting ya! 🙂
 
-Klik [di sini](/blog/varuna-show-bali-safari/) buat lihat info lengkap dan cara beli tiket
+Klik [di sini](/id/blog/varuna-show-bali-safari/) buat lihat info lengkap dan cara beli tiket
 
 ### **Pengalaman SPA & Pijat**
 
 SPA dan pijat di Bali terkenal banget dengan kualitas tinggi dan harga yang ramah di kantong. Pilih aja SPA dengan rating bagus, nikmati layanan pijat profesional, biar orang tua bisa rileks total, baik fisik maupun pikiran!
 
-Daftar SPA terbaik di berbagai area Bali udah dirangkum [di sini](/blog/spa/).
+Daftar SPA terbaik di berbagai area Bali udah dirangkum [di sini](/id/blog/spa/).
 
 ### **Sunset Cruise & Makan Malam di Uluwatu**
 
@@ -258,11 +258,11 @@ Kamu juga bisa ajak orang tua naik sunset cruise. Ini tuh kayak 'tur setengah ha
 
 ### Satu-satunya Aktivitas Outdoor yang Paling Cocok untuk Orang Tua: Arung Gua
 
-Meskipun kami sudah menulis artikel tentang [50 Aktivitas Outdoor di Bali](/blog/bali-top-50-outdoor-activities/), ternyata ATV terlalu berguncang, arung jeram terlalu melelahkan, menyelam terlalu menegangkan... tidak ada satu pun yang benar-benar cocok untuk orang tua! Apa para lansia cuma bisa duduk di mobil wisata sambil foto-foto? Tidak! Arung Gua adalah aktivitas outdoor yang dirancang khusus untuk orang tua—duduk santai di perahu karet sambil mengikuti arus, tanpa perlu mendayung, kamu bisa melewati gua-gua alami yang spektakuler. Sepanjang perjalanan, kamu bisa menikmati pemandangan gua yang menakjubkan. Pemandu profesional menemani sepanjang jalan, bahkan nenek berusia 70 tahun pun tertawa bahagia! Ini benar-benar pengalaman petualangan paling cocok untuk orang tua saat liburan tiga generasi.
+Meskipun kami sudah menulis artikel tentang [50 Aktivitas Outdoor di Bali](/id/blog/bali-top-50-outdoor-activities/), ternyata ATV terlalu berguncang, arung jeram terlalu melelahkan, menyelam terlalu menegangkan... tidak ada satu pun yang benar-benar cocok untuk orang tua! Apa para lansia cuma bisa duduk di mobil wisata sambil foto-foto? Tidak! Arung Gua adalah aktivitas outdoor yang dirancang khusus untuk orang tua—duduk santai di perahu karet sambil mengikuti arus, tanpa perlu mendayung, kamu bisa melewati gua-gua alami yang spektakuler. Sepanjang perjalanan, kamu bisa menikmati pemandangan gua yang menakjubkan. Pemandu profesional menemani sepanjang jalan, bahkan nenek berusia 70 tahun pun tertawa bahagia! Ini benar-benar pengalaman petualangan paling cocok untuk orang tua saat liburan tiga generasi.
 
 ![Satu-satunya Aktivitas Outdoor yang Paling Cocok untuk Orang](https://images.gobaligo.id/vocus/vocus_0559730d7ad9dfee1b899d50afc9f1a0.jpg)
 
-Ada saran khusus untuk liburan bersama orang tua? Lanjutkan baca [artikel ini](/blog/nukuwera-river-tubing-adventure/)
+Ada saran khusus untuk liburan bersama orang tua? Lanjutkan baca [artikel ini](/id/blog/nukuwera-river-tubing-adventure/)
 
 ***
 
@@ -278,9 +278,9 @@ Salah satu kelebihan terbesar Pantai Jimbaran adalah garis pantainya yang landai
 
 Kalau kamu liburan bersama orang tua atau anak-anak, dan ingin tempat yang aman, santai tapi tidak membosankan, serta bisa makan malam seafood sambil menikmati sunset bersama keluarga, ini benar-benar pilihan yang stabil dan hampir tidak pernah salah.
 
-**Referensi Cepat:** [Rekomendasi Seafood Jimbaran Bali: 10 Restoran Seafood Anti Gagal](/blog/jimbaran-seafood-restaurants-list/)
+**Referensi Cepat:** [Rekomendasi Seafood Jimbaran Bali: 10 Restoran Seafood Anti Gagal](/id/blog/jimbaran-seafood-restaurants-list/)
 
-Ada tempat wisata lain di dekat sini? Lihat [Panduan Jimbaran: 30 Rekomendasi Tempat Wisata Lengkap | Panduan Wisata 2026](/blog/jimbaran-guide/)
+Ada tempat wisata lain di dekat sini? Lihat [Panduan Jimbaran: 30 Rekomendasi Tempat Wisata Lengkap | Panduan Wisata 2026](/id/blog/jimbaran-guide/)
 
 ### **Pantai Pandawa**
 
@@ -288,7 +288,7 @@ Ada tempat wisata lain di dekat sini? Lihat [Panduan Jimbaran: 30 Rekomendasi Te
 
 Pantai Pandawa terkenal dengan ombaknya yang tenang dan fasilitas yang mudah diakses. Dari tempat parkir ke pantai nggak perlu jalan jauh, jadi cocok banget buat yang udah sepuh. Di sini ada pilihan makanan dengan harga terjangkau, plus ada juga penyewaan kano.
 
-Buat lihat tempat-tempat di sekitar, cek [【Panduan Uluwatu】Rekomendasi Tempat Wisata, Makan, dan Seru-seruan di Uluwatu](/blog/uluwatu-guide/)
+Buat lihat tempat-tempat di sekitar, cek [【Panduan Uluwatu】Rekomendasi Tempat Wisata, Makan, dan Seru-seruan di Uluwatu](/id/blog/uluwatu-guide/)
 
 ### **Nusa Dua**
 
@@ -296,7 +296,7 @@ Kenalan dengan Nusa Dua dalam 3 Menit
 
 Kawasan Nusa Dua punya trotoar yang rapi dan suasana yang tenang, jadi tempat yang pas buat nginep dan santai buat yang udah sepuh.
 
-Mau tahu tempat lain di sekitar? Cek [【Panduan Nusa Dua】](/blog/nusa-dua-guide/)
+Mau tahu tempat lain di sekitar? Cek [【Panduan Nusa Dua】](/id/blog/nusa-dua-guide/)
 
 ### **Pantai Sanur**
 
@@ -304,20 +304,20 @@ Kenalan dengan Sanur dalam 3 Menit
 
 Pantai Sanur terkenal dengan permukaan lautnya yang tenang dan jalur tepi pantai yang panjang, cocok buat jalan pagi atau santai sambil lihat matahari terbit buat yang udah sepuh. Ada juga rumah sakit internasional besar di sini, jadi lebih tenang.
 
-Tempat makan dan main di sekitar [klik di sini](/blog/sanur-guide/)
+Tempat makan dan main di sekitar [klik di sini](/id/blog/sanur-guide/)
 
 ***
 
 ## **5. Tips Praktis Liburan ke Bali**
 
 1. **Pilih akomodasi tanpa bathtub**: Kurangi risiko terpeleset, pilih kamar dengan shower aja.
-2. **Rekomendasi booking**: [Villa keluarga dengan 3/4/5+ kamar tidur](/blog/bali-group-villa-stay/)
+2. **Rekomendasi booking**: [Villa keluarga dengan 3/4/5+ kamar tidur](/id/blog/bali-group-villa-stay/)
 3. **Atur destinasi jalan kaki yang rata**: Hindari tangga dan jalanan tidak rata.
 4. **Pilih transportasi sewa mobil + sopir**: Biar orang tua nggak perlu nunggu, dan dapet pelayanan VIP.
 5. **Batasi jumlah destinasi harian**: Saran maksimal dua tempat per hari, dan sering-sering istirahat.
 6. **Saran itinerary harian**: Pertimbangkan kondisi fisik orang tua, jadi mending aktivitas dan tempat wisata dijadwalkan pagi hari, setelah siang bisa kegiatan santai atau istirahat di hotel.
 7. **Cari tahu kebutuhan makanan dari awal**: Cari restoran yang cocok untuk lansia, selain beberapa orang tua mungkin nggak suka makanan asing, juga hindari makanan yang terlalu pedas.
-8. **Barang bawaan untuk orang tua wajib lengkap**: Cek [di sini](/blog/bali-elderly-travel-guide/).
+8. **Barang bawaan untuk orang tua wajib lengkap**: Cek [di sini](/id/blog/bali-elderly-travel-guide/).
 9. **Manfaatkan jalur cepat di bandara Bali**: Penumpang usia 60+ bisa pakai jalur khusus di imigrasi.
 
 ## **Kesimpulan**
@@ -328,6 +328,6 @@ Kalau kamu lagi rencanain liburan ke Bali bareng orang tua, semoga artikel ini b
 
 ## **Liburan ke Bali Bareng Orang Tua:**
 
-- Episode 1: [Panduan Liburan ke Bali untuk Lansia - Aman, Nyaman & Tips Penting](/blog/bali-elderly-travel-guide/)
+- Episode 1: [Panduan Liburan ke Bali untuk Lansia - Aman, Nyaman & Tips Penting](/id/blog/bali-elderly-travel-guide/)
 - Episode 2: Panduan Lengkap Destinasi Wisata Bali untuk Lansia (artikel ini)
-- Episode 3: [Tingkah Orang Tua Bikin Geleng-Geleng!? Bawa Mereka Liburan ke Luar Negeri, Siap-siap 'Capek Hati'](/blog/traveling-with-elderly-parents-tips/)
+- Episode 3: [Tingkah Orang Tua Bikin Geleng-Geleng!? Bawa Mereka Liburan ke Luar Negeri, Siap-siap 'Capek Hati'](/id/blog/traveling-with-elderly-parents-tips/)

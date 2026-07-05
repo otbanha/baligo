@@ -30,7 +30,7 @@ originalUrl: 'https://vocus.cc/article/65fd4f9cfd8978000157e5ff'
 lang: id
 _srcHash: d98c46111dc0083bf1baf132d03466ac
 ---
-Kemarin kita baru aja bikin artikel '[500 Tempat Hits di Bali](/blog/bali-top-500-attractions/)', eh ada pembaca yang bilang daftarnya kebanyakan. Minta yang versi ringkas aja, yang penting landmark ikonik yang bisa dikunjungin dalam satu trip ke Bali.
+Kemarin kita baru aja bikin artikel '[500 Tempat Hits di Bali](/id/blog/bali-top-500-attractions/)', eh ada pembaca yang bilang daftarnya kebanyakan. Minta yang versi ringkas aja, yang penting landmark ikonik yang bisa dikunjungin dalam satu trip ke Bali.
 
 ![【2026 Bali Wajib Dikunjungi】10 Landmark Ikonik Paling Kece: ](https://images.gobaligo.id/vocus/vocus_0c670bcc975ce84fdace5189970104b0.jpg)
 
@@ -42,7 +42,7 @@ Setelah seleksi ketat, kita khusus bikin '10 Landmark Ikonik Bali'. Tempat-tempa
 
 GWK Culture Park adalah salah satu tempat wisata populer di Bali yang didukung penuh pemerintah. Letaknya di dekat Jimbaran, terkenal dengan patung raksasa, arsitektur megah, dan nuansa budaya Bali yang kental. Yang paling ikonik adalah patung gabungan Dewa Siwa dan Burung Garuda setinggi 121 meter — patung tertinggi keempat di dunia. Di sini juga sering diadakan acara budaya dan pertunjukan tari tradisional. Ada pusat budaya juga buat kamu yang pengen tahu lebih dalam tentang budaya Bali.
 
-**Referensi Cepat:** [Panduan Lengkap GWK Cultural Park Bali](/blog/gwk-cultural-park-bali/)
+**Referensi Cepat:** [Panduan Lengkap GWK Cultural Park Bali](/id/blog/gwk-cultural-park-bali/)
 
 > Kupon Klook:
 > [Tiket Masuk GWK Cultural Park Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771410&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D34638cfe57)
@@ -52,7 +52,7 @@ GWK Culture Park adalah salah satu tempat wisata populer di Bali yang didukung p
 
 ![Penglipuran Village (Desa Penglipuran)](https://images.gobaligo.id/vocus/vocus_e868ac9e82f28e32c66ef180987e2a24.jpg)
 
-Jalan-jalan santai di Desa Penglipuran, eksplorasi sejarah dan warisan budayanya. Tempat yang dijuluki 'Desa Terindah di Bali' ini adalah salah satu komunitas tradisional paling autentik yang masih terjaga. Keistimewaannya ada pada budaya Bali asli dan gaya hidup unik yang dipertahankan. Desa ini penuh dengan nuansa budaya Bali, bener-bener hidden gem yang wajib kamu kunjungi. [Baca selengkapnya](/blog/penglipuran-village-bali-experience/)
+Jalan-jalan santai di Desa Penglipuran, eksplorasi sejarah dan warisan budayanya. Tempat yang dijuluki 'Desa Terindah di Bali' ini adalah salah satu komunitas tradisional paling autentik yang masih terjaga. Keistimewaannya ada pada budaya Bali asli dan gaya hidup unik yang dipertahankan. Desa ini penuh dengan nuansa budaya Bali, bener-bener hidden gem yang wajib kamu kunjungi. [Baca selengkapnya](/id/blog/penglipuran-village-bali-experience/)
 
 > [Tur Sehari Desa Penglipuran (termasuk kelas memasak)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F76095-penglipuran-village-day-tour-bali-free-cooking-class-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7317846487)
 
@@ -88,11 +88,11 @@ Akhir-akhir ini, salah satu pulau lepas Bali yang lagi hits banget, punya pemand
 
 Soal Nusa Penida, kita udah bikin lima episode panduan:
 
-1. [【Bali - Panduan Lengkap Nusa Penida】Peta, Naik Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)
-2. [Kuliner & Laut Biru di Nusa Penida: 9 Pilihan Terbaik](/blog/nusa-penida-best-restaurants/)
-3. [Spot Snorkeling Nusa Penida & Cara Ikut Snorkeling](/blog/nusa-penida-snorkeling-guide/)
-4. [Panduan Taksi, Gojek/Grab, Sewa Mobil, Motor di Nusa Penida](/blog/nusa-penida-transport-guide/)
-5. [Rekomendasi Penginapan di Nusa Penida: 13 Hotel dari Mewah sampai Budget](/blog/nusa-penida-hotels-guide/)
+1. [【Bali - Panduan Lengkap Nusa Penida】Peta, Naik Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)
+2. [Kuliner & Laut Biru di Nusa Penida: 9 Pilihan Terbaik](/id/blog/nusa-penida-best-restaurants/)
+3. [Spot Snorkeling Nusa Penida & Cara Ikut Snorkeling](/id/blog/nusa-penida-snorkeling-guide/)
+4. [Panduan Taksi, Gojek/Grab, Sewa Mobil, Motor di Nusa Penida](/id/blog/nusa-penida-transport-guide/)
+5. [Rekomendasi Penginapan di Nusa Penida: 13 Hotel dari Mewah sampai Budget](/id/blog/nusa-penida-hotels-guide/)
 
 ## Taman Dedari
 
@@ -130,7 +130,7 @@ Tanah Lot di Bali adalah landmark terkenal yang dikenal dengan pura tepi lautnya
 
 Tapi karena tempat ini terlalu populer, kalau kamu milih datang sore hari, harus perhatiin soal transportasi pulang-pergi.
 
-**Referensi Cepat:** [Panduan Lengkap Pura Tanah Lot: Pasang Surut & Tempat Wisata Sekitar](/blog/bali-tanah-lot-guide/)
+**Referensi Cepat:** [Panduan Lengkap Pura Tanah Lot: Pasang Surut & Tempat Wisata Sekitar](/id/blog/bali-tanah-lot-guide/)
 
 ## Pura Ulun Danau — Pura Air di Danau Bratan
 

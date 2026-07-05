@@ -33,13 +33,13 @@ _srcHash: 140708d34f6db2bb9c703a47e67473f7
 
 ![截圖自情侶渡假/蜜月別墅推薦](https://images.gobaligo.id/vocus/vocus_a8ef47800f71d819b9ac3dc1f3ef82b0.png)
 
-[截圖自情侶渡假/蜜月別墅推薦](/blog/bali-honeymoon-resorts-guide/)
+[截圖自情侶渡假/蜜月別墅推薦](/zh-hk/blog/bali-honeymoon-resorts-guide/)
 
 ### **私人別墅嘅優勢**
 
 私人別墅提供嘅私隱度同個性化服務係佢最大嘅賣點。無論係家庭旅遊定浪漫蜜月，私人別墅都可以為旅客提供一個獨立而舒適嘅空間。別墅入面通常配備私人泳池、花園同廚房，令旅客享受更自由嘅度假體驗。
 
-> [蜜月新婚/情侶就睇呢篇！2024最新峇里島【20間度蜜月度假村、浪漫villa推薦懶人包】](/blog/bali-honeymoon-resorts-guide/)
+> [蜜月新婚/情侶就睇呢篇！2024最新峇里島【20間度蜜月度假村、浪漫villa推薦懶人包】](/zh-hk/blog/bali-honeymoon-resorts-guide/)
 
 ### **酒店嘅傳統優勢**
 
@@ -61,13 +61,13 @@ _srcHash: 140708d34f6db2bb9c703a47e67473f7
 
 ![截圖自水明漾villa推薦](https://images.gobaligo.id/vocus/vocus_7d737d9009c5d7bc2acd814c87eaa697.jpg)
 
-[截圖自水明漾villa推介](/blog/seminyak-private-villas-guide/)
+[截圖自水明漾villa推介](/zh-hk/blog/seminyak-private-villas-guide/)
 
 ### **私密性同設施**
 
 私人別墅為旅客提供咗難以匹敵嘅私密性同個性化設施。無論係享受私人泳池嘅清涼，定係喺獨立花園入面放鬆，私人別墅都可以為旅客打造一個與世隔絕嘅度假天堂。
 
-> [【峇里島住宿推介】VILLA泳池別墅私密天堂:水明漾20+令人驚艷嘅峇里島秘密花園](/blog/seminyak-private-villas-guide/)
+> [【峇里島住宿推介】VILLA泳池別墅私密天堂:水明漾20+令人驚艷嘅峇里島秘密花園](/zh-hk/blog/seminyak-private-villas-guide/)
 
 ### **自己探索嘅方便性**
 
@@ -77,7 +77,7 @@ _srcHash: 140708d34f6db2bb9c703a47e67473f7
 
 ![截圖自「沙努爾villa推薦」](https://images.gobaligo.id/vocus/vocus_2ad73f465bcd1125da0d7da914172579.jpg)
 
-[截圖自「沙努爾villa推薦」](/blog/sanur-luxury-budget-resorts/)
+[截圖自「沙努爾villa推薦」](/zh-hk/blog/sanur-luxury-budget-resorts/)
 
 ### **網紅同內容創作者嘅推動作用**
 
@@ -87,13 +87,13 @@ _srcHash: 140708d34f6db2bb9c703a47e67473f7
 
 特別係竹屋同樹屋呢類別具特色嘅住宿選擇，成為咗好多旅客嘅心頭好。例如，The Hideout嘅竹屋就因為佢獨特嘅設計同親近大自然，得到咗廣泛好評。
 
-> [探索烏布11間令人嘆為觀止嘅樹屋/竹屋別墅 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)
+> [探索烏布11間令人嘆為觀止嘅樹屋/竹屋別墅 tree house/bamboo villa](/zh-hk/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ## **混合住宿嘅選擇**
 
 ![截圖自 Bamboo Villa 推薦](https://images.gobaligo.id/vocus/vocus_46faebe339e9b8003fc6ad8fddb06fe9.jpg)
 
-[截圖自 Bamboo Villa 推薦](/blog/ubud-treehouse-bamboo-villa-stays/)
+[截圖自 Bamboo Villa 推薦](/zh-hk/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ### **結合別墅同酒店嘅優勢**
 

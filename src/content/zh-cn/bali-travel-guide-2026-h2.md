@@ -71,21 +71,21 @@ _srcHash: d5ed83e46534e95e6305550092449d3c
 
 - **贾提鲁维梯田 (Jatiluwih)：** 7 月是梯田季节最佳观赏时期，清晨光线穿透稻田的景象梦幻至极。不仅可参加梯田节，也可自行漫步、骑摩托车环游、进行稻田瑜伽课程。
 
-> [【巴厘岛梯田攻略】德格拉朗 vs. 贾提鲁维：门票、最佳季节与拍照位全解析（附行程建议）](https://gobaligo.id/blog/bali-rice-terraces-comparison/)
+> [【巴厘岛梯田攻略】德格拉朗 vs. 贾提鲁维：门票、最佳季节与拍照位全解析（附行程建议）](https://gobaligo.id/zh-cn/blog/bali-rice-terraces-comparison/)
 
 - **沙努尔海滩 (Sanur Beach)：** 7 月海况最稳定，天气晴朗。可观看风筝节、浮潜、或搭船前往蓝梦岛与佩尼达岛。
 
-> [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](https://gobaligo.id/blog/nusa-penida-guide/)
+> [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](https://gobaligo.id/zh-cn/blog/nusa-penida-guide/)
 
-[> 【伦邦岸岛/蓝梦岛景点攻略】探索蓝梦岛/金银岛景点、美食、交通：巴厘岛的邻近天堂](https://gobaligo.id/blog/nusa-lembongan-ceningan-guide/)
+[> 【伦邦岸岛/蓝梦岛景点攻略】探索蓝梦岛/金银岛景点、美食、交通：巴厘岛的邻近天堂](https://gobaligo.id/zh-cn/blog/nusa-lembongan-ceningan-guide/)
 
 - **巴杜尔火山 (Mount Batur)：** 云海概率极高，清晨日出与山顶日光最美。
 
-> [巴厘岛金塔玛尼巴杜尔火山湖｜日出登山 × 皇家游船 × 湖景咖啡厅 × 山林游乐场 × 火山温泉全攻略](https://gobaligo.id/blog/batur-lake-volcano-guide/)）
+> [巴厘岛金塔玛尼巴杜尔火山湖｜日出登山 × 皇家游船 × 湖景咖啡厅 × 山林游乐场 × 火山温泉全攻略](https://gobaligo.id/zh-cn/blog/batur-lake-volcano-guide/)）
 
 - **彭丽普兰村 (Penglipuran Village)：** 参加传统村庄文化节，体验巴厘阿加族的建筑、生活方式与手工艺传承。
 
-> [穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](https://gobaligo.id/blog/penglipuran-village-bali-experience/)
+> [穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](https://gobaligo.id/zh-cn/blog/penglipuran-village-bali-experience/)
 
 ***
 
@@ -113,16 +113,16 @@ _srcHash: d5ed83e46534e95e6305550092449d3c
 
 - **乌布中心区 (Ubud Center)：** 为了爵士音乐节，务必提早订房。感受一年一度的国际音乐盛事，欣赏世界级爵士乐手的精彩演奏。
 
-> [2026巴厘岛完整乌布攻略：100种深入认识乌布的方式｜探索乌布的魅力](https://gobaligo.id/blog/ubud-guide/)
+> [2026巴厘岛完整乌布攻略：100种深入认识乌布的方式｜探索乌布的魅力](https://gobaligo.id/zh-cn/blog/ubud-guide/)
 
 - **布勒伦地区 (Buleleng Regency)：** 参加北巴厘岛最大的文化节，体验当地特色与传统表演。同时，布勒伦的山区景观别有风味，8 月天气完美适合探险。
 - **海神庙 (Tanah Lot)：** 参加节庆同时欣赏传说中夕阳下的海神庙。
 
-> [巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](https://gobaligo.id/blog/bali-tanah-lot-guide/)
+> [巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](https://gobaligo.id/zh-cn/blog/bali-tanah-lot-guide/)
 
 - **沙努尔海滩 (Sanur Beach)：** 8 月的海况稳定，天气清朗，适合浮潜、水上运动或搭船往返离岛。
 
-> [【巴厘岛亲子景点】沙努尔攻略 Sanur 终极地图：50+吃喝玩乐、Icon Bali 商场、顶级 Spa 与高 CP 值住宿避雷指南](https://gobaligo.id/blog/sanur-guide/)
+> [【巴厘岛亲子景点】沙努尔攻略 Sanur 终极地图：50+吃喝玩乐、Icon Bali 商场、顶级 Spa 与高 CP 值住宿避雷指南](https://gobaligo.id/zh-cn/blog/sanur-guide/)
 
 ***
 
@@ -150,15 +150,15 @@ _srcHash: d5ed83e46534e95e6305550092449d3c
 
 - **塔曼阿云皇家园林 (Taman Ayun)：** 参加巴龙舞蹈节，沉浸在巴厘舞蹈的优雅与戏剧性中。园林本身也是建筑杰作，适合文化爱好者。
 
-> [【2026 登巴萨攻略】走访全球百大城市：巴厘岛首府文化、历史与美食地图](https://gobaligo.id/blog/denpasar-culture-guide/)
+> [【2026 登巴萨攻略】走访全球百大城市：巴厘岛首府文化、历史与美食地图](https://gobaligo.id/zh-cn/blog/denpasar-culture-guide/)
 
 - **蓝梦岛 (Nusa Lembongan)：** 参加冲浪与音乐节，或享受离岛的宁静与清澈海水。记住：9/27 海洋宁静日需提早返回。
 
-> [【伦邦岸岛/蓝梦岛景点攻略】探索蓝梦岛/金银岛景点、美食、交通：巴厘岛的邻近天堂](https://gobaligo.id/blog/nusa-lembongan-ceningan-guide/)
+> [【伦邦岸岛/蓝梦岛景点攻略】探索蓝梦岛/金银岛景点、美食、交通：巴厘岛的邻近天堂](https://gobaligo.id/zh-cn/blog/nusa-lembongan-ceningan-guide/)
 
 - **库塔 (Kuta)：** 暑假的人潮散去，库塔变得比较可爱。
 
-> [巴厘岛库塔攻略玩乐指南：从冲浪、购物到SPA，解锁50个必访热点与旅游秘诀](https://gobaligo.id/blog/kuta-guide/)
+> [巴厘岛库塔攻略玩乐指南：从冲浪、购物到SPA，解锁50个必访热点与旅游秘诀](https://gobaligo.id/zh-cn/blog/kuta-guide/)
 
 ***
 
@@ -185,15 +185,15 @@ _srcHash: d5ed83e46534e95e6305550092449d3c
 
 - **佩尼达岛 (Nusa Penida)：** 参加岛屿节庆，欣赏天堂门、悬崖绝景与魔鬼鱼。
 
-> [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](https://gobaligo.id/blog/nusa-penida-guide/)
+> [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](https://gobaligo.id/zh-cn/blog/nusa-penida-guide/)
 
 - **乌布中心区 (Ubud Center)：** 文学爱好者必访。作家与读者节期间乌布书店、咖啡厅与饭店都会举办相关活动。务必早订房。
 
-> [巴厘岛旅游攻略：第一次到乌布要玩什么？20个景点推荐 乌布攻略篇](https://gobaligo.id/blog/ubud-top-20-attractions-guide/)
+> [巴厘岛旅游攻略：第一次到乌布要玩什么？20个景点推荐 乌布攻略篇](https://gobaligo.id/zh-cn/blog/ubud-top-20-attractions-guide/)
 
 - **艾眉（Amed）与图兰奔 (Tulamben)：** 10 月底海况仍可接受，非常适合进行沉船潜水与水下摄影。
 
-[> [巴厘岛东北角秘境：艾眉 Amed 与土兰奔 Tulamben 完整攻略：潜水、水宫与秘境全收集](https://gobaligo.id/blog/amed-tulamben-diving-guide/)
+[> [巴厘岛东北角秘境：艾眉 Amed 与土兰奔 Tulamben 完整攻略：潜水、水宫与秘境全收集](https://gobaligo.id/zh-cn/blog/amed-tulamben-diving-guide/)
 
 ***
 
@@ -222,12 +222,12 @@ _srcHash: d5ed83e46534e95e6305550092449d3c
 
 - **乌伦达努寺 (Ulun Danu Temple) & 布拉坦湖 (Lake Bratan)：** 参加水神庙节，在湖景寺庙的庄严仪式中静思。11 月的雨让湖水更澄澈，景色更迷幻。
 
-> [2026巴厘岛完整乌布攻略：100种深入了解乌布的方式｜探索乌布的魅力](https://gobaligo.id/blog/ubud-guide/)
+> [2026巴厘岛完整乌布攻略：100种深入了解乌布的方式｜探索乌布的魅力](https://gobaligo.id/zh-cn/blog/ubud-guide/)
 
 - **珍布拉娜西部地区 (Jembrana Regency)：** 参加竹筒音乐节与水牛赛。西巴厘岛相对游客稀少，自然景观原始，11 月绿景最浓。
 - **沙努尔 (Sanur)：** 全月节庆，包含食品展、瑜伽课、海洋活动与文化表演。这个月份沙努尔活力十足。
 
-[> 【巴厘岛亲子景点】沙努尔攻略 Sanur 终极地图：50+吃喝玩乐、Icon Bali 商场、顶级 Spa 与高 CP 值住宿避雷指南](https://gobaligo.id/blog/sanur-guide/)
+[> 【巴厘岛亲子景点】沙努尔攻略 Sanur 终极地图：50+吃喝玩乐、Icon Bali 商场、顶级 Spa 与高 CP 值住宿避雷指南](https://gobaligo.id/zh-cn/blog/sanur-guide/)
 
 - **德哥拉朗梯田 (Tegallalang Rice Terraces)：** 11 月是梯田最翠绿的季节（水稻生长期），清晨或傍晚漫步最佳。游客少，光线柔和，适合摄影。
 
@@ -255,15 +255,15 @@ https://youtu.be/op78Dk8CjL4
 
 - **潘达瓦海滩 (Pandawa Beach)：** 参加海滩节同时享受南巴厘岛壮观悬崖景观。圣诞节期间潘达瓦海滩会布置节庆氛围。
 
-[> 【2026 巴厘岛南端全攻略】武吉半岛秘境：金巴兰夕阳、乌鲁瓦图断崖与隐藏海滩大收集](https://gobaligo.id/blog/bukit-peninsula-guide/)
+[> 【2026 巴厘岛南端全攻略】武吉半岛秘境：金巴兰夕阳、乌鲁瓦图断崖与隐藏海滩大收集](https://gobaligo.id/zh-cn/blog/bukit-peninsula-guide/)
 
 - **乌鲁瓦图 (Uluwatu)：** 12 月的悬崖寺庙傍晚景色依旧壮观。可预约传统舞蹈演出搭配夕阳，庆祝假期季开始。
 
-[> 【乌鲁瓦图攻略】Uluwatu乌鲁瓦图景点 50个吃喝玩乐推荐](https://gobaligo.id/blog/uluwatu-guide/)
+[> 【乌鲁瓦图攻略】Uluwatu乌鲁瓦图景点 50个吃喝玩乐推荐](https://gobaligo.id/zh-cn/blog/uluwatu-guide/)
 
 - **乌布 (Ubud)：** 虽然旺季来临，但乌布仍保有文化韵味。梯田翠绿，早晨漫步最佳。可参加瑜伽课程，享受身心灵疗愈。
 
-[> 乌布的颂钵疗愈/音疗 Ubud Sound Healing/Singing Bowl Meditation](https://gobaligo.id/blog/ubud-sound-healing/)
+[> 乌布的颂钵疗愈/音疗 Ubud Sound Healing/Singing Bowl Meditation](https://gobaligo.id/zh-cn/blog/ubud-sound-healing/)
 
 - **登巴萨 (Denpasar)：** 参加登巴萨节，见证巴厘岛首府的年终庆祝与迎新氛围。市集、音乐会与文化表演齐聚。
 
@@ -312,10 +312,10 @@ https://youtu.be/op78Dk8CjL4
 
 ## 快速参考
 
-- [更多 2026 巴厘岛节庆整理](https://gobaligo.id/blog/2026-bali-festival-guide/)
-- [2026 巴厘岛自由行终极指南](https://gobaligo.id/blog/bali-ultimate-guide-2026/)
-- [巴厘岛雨季旅游完整指南](https://gobaligo.id/blog/bali-rainy-season-travel-guide/)
-- [【2026 巴厘岛下雨/躲太阳行程备案】下雨躲太阳必看！60 个超强室内行程](https://gobaligo.id/blog/2026-bali-indoor-activities/)
+- [更多 2026 巴厘岛节庆整理](https://gobaligo.id/zh-cn/blog/2026-bali-festival-guide/)
+- [2026 巴厘岛自由行终极指南](https://gobaligo.id/zh-cn/blog/bali-ultimate-guide-2026/)
+- [巴厘岛雨季旅游完整指南](https://gobaligo.id/zh-cn/blog/bali-rainy-season-travel-guide/)
+- [【2026 巴厘岛下雨/躲太阳行程备案】下雨躲太阳必看！60 个超强室内行程](https://gobaligo.id/zh-cn/blog/2026-bali-indoor-activities/)
 
 ***
 

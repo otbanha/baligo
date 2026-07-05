@@ -41,7 +41,7 @@ Peppers Seminyak 大推！(June Lin提供)
 
 > 編按：呢度都推吓 [Peppers Seminyak 水療體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97308-spa-at-peppers-seminyak-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D36822d6253)
 
-> 延伸閱讀：[本站Peppers Seminyak嘅詳細中文介紹](https://gobaligo.id/blog/seminyak-private-villas-guide/#peppers-seminyak---%E4%B8%96%E7%95%8C%E7%B4%9A%E8%B1%AA%E8%8F%AF%E9%AB%94%E9%A9%97)
+> 延伸閱讀：[本站Peppers Seminyak嘅詳細中文介紹](https://gobaligo.id/zh-hk/blog/seminyak-private-villas-guide/#peppers-seminyak---%E4%B8%96%E7%95%8C%E7%B4%9A%E8%B1%AA%E8%8F%AF%E9%AB%94%E9%A9%97)
 
 > Peppers Seminyak 房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=90309) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1200024&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxMLFJMEk1c3C8Xv_hKdsQoxGBvIWXwUdW18H7pBjnuzgKQ9i2U53COCJmHLg-TT2RK_qZn2fI4EOjYxLCmy5rie7O3QxsoKlZjDOmO-5kTENBF4VOOxgZDrB-N90AdPnkyu1T7Ewc7zgvMTylSm6Wik7tVLJykRHqSSzJCdVyUrp2Zzep90zX2zaraSjlJJanAwUArISc_NL80qAbDNTCz0DA6BISWKFZ4qSlbmOUnJiTnJpTmJJakhlAdAEMx2lzGLnkqLMgqDU3MySklSgqrTEnOJUkHhQajFQJhksqOQHNKYIKpCZnwfRboAiFpaYU5oKcQLQQrdUqB3GtTqYLn-6aN7Thj3PV7Rid7mpJarLTQbE5Ya1sY9YmKJjP7Ew_GJhaGJl6GJl5jjFNAlI_jfdxcoTYurqF2mpa6gbpWt4gfWkhZS8oYGBgamhsamprkGipUWScaKBromliZGlqa6hobGJkcahxneNT42NrKUgEa_AqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzdXY3MzcMsqGi9nTJUjw3n-WXG1lS3sp5pBwF8WVN5nXHphw2l4LJGcIkwu0-CLG_95ygX1kXreRdMqk0_ZJrFUZuiHhGb3iBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUA-7eDov4CAAA&masterhotelid_tracelogid=100051355-0a98b3a0-494295-11342&detailFilters=17|1~17~1*31|1200024~31~1200024*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=264&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/aVlkTHog)
 
@@ -75,13 +75,13 @@ Oneeighty Day Club（June Lin提供）
 
 今次我哋特登訂咗Oneeighty Day Club嘅VIP區，攞到第一排嘅位，感覺幾好。訂位費加餐費每人大概1500蚊台幣，即係美金$48，雖然價錢唔平，但係食物出乎意料咁好食，服務亦都好周到。呢度嘅無邊際泳池好深，有1.7米，所以我哋只可以喺泳池邊影幾張靚相，然後就專心食嘢。整體嚟講，我俾呢次用餐經驗95分。
 
-> 預約方式、消費方式、視頻介紹：[探索Oneeighty Day Club：峇里島懸崖邊嘅游泳池極致美景](/blog/oneeighty-dayclub-uluwatu-pool/)
+> 預約方式、消費方式、視頻介紹：[探索Oneeighty Day Club：峇里島懸崖邊嘅游泳池極致美景](/zh-hk/blog/oneeighty-dayclub-uluwatu-pool/)
 
 ### Cretya Ubud
 
 Cretya Ubud 係烏布出名嘅鞦韆餐廳，比我預期好食好多，菜式嘅味道同質感都超出我想像。至於鞦韆影相，呢度幾乎變成全球女仔影網美相嘅聚集地。朝早一早，鞦韆附近就逼滿晒想影相嘅人。我建議大家唔使挑戰盪得最遠嗰個鞦韆，旁邊嘅細鞦韆其實影出嚟仲靚。我哋一行人最後影咗一堆驚恐相，場面有啲搞笑。餐廳食物我俾90分，網美相體驗70分。
 
-> 延伸閱讀：[預算中享受奢華：Cretya Ubud 泳池俱樂部與 Alas Harum 消費指南](/blog/cretya-ubud-alas-harum-budget-guide/)
+> 延伸閱讀：[預算中享受奢華：Cretya Ubud 泳池俱樂部與 Alas Harum 消費指南](/zh-hk/blog/cretya-ubud-alas-harum-budget-guide/)
 
 ### Ku De Ta
 
@@ -91,7 +91,7 @@ Ku De Ta（June Lin提供）
 
 Ku De Ta 係水明漾海灘餐廳系列之一，呢度你可以一邊食嘢一邊欣賞靚靚嘅夕陽。服務態度唔錯，現場音樂都好襯個氣氛，令人覺得好放鬆。食完仲可以行去沙灘散步，晚餐嘅價錢都好合理，每人大約 USD$16-19，喺台灣可能食唔到咁好嘅嘢。我俾呢間餐廳90分。
 
-> [Ku De Ta 攻略](/blog/ku-de-ta-beach-club/)
+> [Ku De Ta 攻略](/zh-hk/blog/ku-de-ta-beach-club/)
 
 > Ku De Ta [沙發床預訂](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1004596&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F135291-kudeta-beach-club-in-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D67569d3aa6)
 

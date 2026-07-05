@@ -50,13 +50,13 @@ Although Bali is not large in size, it boasts an incredibly rich selection of at
 
 ![Ubud](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
-Ubud is the cultural and artistic heart of Bali, attracting countless travelers with its lush rice terraces, serene jungles, and profound traditional culture. It is an ideal place to relax and rejuvenate. Whether you're exploring local traditions, enjoying natural beauty, or engaging in exciting outdoor activities, Ubud offers a unique experience of food and scenery that will move you! Want to learn more about Ubud? [Click here](/blog/ubud-guide/)
+Ubud is the cultural and artistic heart of Bali, attracting countless travelers with its lush rice terraces, serene jungles, and profound traditional culture. It is an ideal place to relax and rejuvenate. Whether you're exploring local traditions, enjoying natural beauty, or engaging in exciting outdoor activities, Ubud offers a unique experience of food and scenery that will move you! Want to learn more about Ubud? [Click here](/en/blog/ubud-guide/)
 
 ### Kuta
 
 ![Kuta](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
 
-Kuta is Bali's most vibrant tourist hotspot, attracting travelers worldwide with its lively nightlife, bustling streets, and beginner-friendly surfing beaches. Here, you'll find a dazzling array of shops, restaurants, and entertainment venues, making it an excellent destination for thrill-seekers and shoppers alike. Whether you're experiencing the passionate party atmosphere or enjoying the sunset views, Kuta will fill your vacation with wonderful memories! Want to learn more about Kuta? [Click here](/blog/2023-12-13-657598bdfd8978000120fe20/)
+Kuta is Bali's most vibrant tourist hotspot, attracting travelers worldwide with its lively nightlife, bustling streets, and beginner-friendly surfing beaches. Here, you'll find a dazzling array of shops, restaurants, and entertainment venues, making it an excellent destination for thrill-seekers and shoppers alike. Whether you're experiencing the passionate party atmosphere or enjoying the sunset views, Kuta will fill your vacation with wonderful memories! Want to learn more about Kuta? [Click here](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 1. **Makase at Hotel Indigo Bali Seminyak Beach**
 - Date: January 29, 2025
@@ -73,7 +73,7 @@ Kuta is Bali's most vibrant tourist hotspot, attracting travelers worldwide with
 
 Seminyak is a captivating area in Bali that seamlessly blends fashion and tradition, offering top-notch restaurants, boutique shops, and vibrant nightlife, making it a paradise for vacationers! Want to know more about the exciting attractions, delicious food, relaxing spas, and beach clubs?
 
-[Complete Seminyak Guide](/blog/seminyak-guide/)[Click here](/blog/seminyak-guide/)
+[Complete Seminyak Guide](/en/blog/seminyak-guide/)[Click here](/en/blog/seminyak-guide/)
 
 ### Canggu
 
@@ -81,13 +81,13 @@ Seminyak is a captivating area in Bali that seamlessly blends fashion and tradit
 
 Canggu is a hotspot on Bali that combines a relaxed atmosphere with trendy vibes. It not only boasts charming beaches but also gathers many unique cafes, creative restaurants, and boutique shops, making it a favorite among surfers and young travelers. Whether you're seeking natural scenery or exploring local culture, Canggu has something to meet your expectations!
 
-Want to learn more about Canggu? [Click here](/blog/canggu-guide/).
+Want to learn more about Canggu? [Click here](/en/blog/canggu-guide/).
 
 ### Uluwatu Dining and Entertainment Guide
 
 ![Uluwatu Dining and Entertainment Guide](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
-Uluwatu is one of Bali's most popular southern regions, famous for its breathtaking cliff views, enchanting beaches, and excellent surf spots. Filled with a romantic tropical vacation atmosphere, it's the perfect choice for enjoying sunset views and relaxing moments. If you're planning to stay in Uluwatu, check out our carefully curated guide to food, fun, and activities to make your trip even more enriching: [Uluwatu Guide: Uluwatu Attractions & Recommendations](/blog/uluwatu-guide/)
+Uluwatu is one of Bali's most popular southern regions, famous for its breathtaking cliff views, enchanting beaches, and excellent surf spots. Filled with a romantic tropical vacation atmosphere, it's the perfect choice for enjoying sunset views and relaxing moments. If you're planning to stay in Uluwatu, check out our carefully curated guide to food, fun, and activities to make your trip even more enriching: [Uluwatu Guide: Uluwatu Attractions & Recommendations](/en/blog/uluwatu-guide/)
 
 1. **Lion X at Renaissance Bali Nusa Dua Resort**
 - Date: January 28 & 29, 2025
@@ -107,20 +107,20 @@ Uluwatu is one of Bali's most popular southern regions, famous for its breathtak
 
 ![Uluwatu Dining and Entertainment Guide](https://images.gobaligo.id/vocus/vocus_b44c89e53b6c550aa22f958f7e8008f5.png)
 
-Nusa Dua is Bali's region famous for luxury resorts, featuring pristine white sand beaches, turquoise waters, and comprehensive tourism facilities, making it the top choice for those seeking high-end enjoyment and peaceful vacations. It also offers premium spas, water sports, and family-friendly leisure activities, making it a paradise for all types of travelers. Want to learn more about Nusa Dua? Click [here](/blog/nusa-dua-guide/)
+Nusa Dua is Bali's region famous for luxury resorts, featuring pristine white sand beaches, turquoise waters, and comprehensive tourism facilities, making it the top choice for those seeking high-end enjoyment and peaceful vacations. It also offers premium spas, water sports, and family-friendly leisure activities, making it a paradise for all types of travelers. Want to learn more about Nusa Dua? Click [here](/en/blog/nusa-dua-guide/)
 
 ### Sanur
 
 ![Sanur](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
-Sanur is a tranquil seaside town on Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. With family-friendly resorts, traditional markets, and a wealth of local cuisine, it's an ideal destination for those seeking a slower pace and cultural exploration. Whether strolling along the coastline or immersing yourself in local charm, Sanur offers an incredibly relaxing holiday experience! Want to learn more about Sanur? [Click here](/blog/sanur-guide/).
+Sanur is a tranquil seaside town on Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. With family-friendly resorts, traditional markets, and a wealth of local cuisine, it's an ideal destination for those seeking a slower pace and cultural exploration. Whether strolling along the coastline or immersing yourself in local charm, Sanur offers an incredibly relaxing holiday experience! Want to learn more about Sanur? [Click here](/en/blog/sanur-guide/).
 
 ### **Island Hopping (Nusa Penida & Nusa Lembongan)**
 
 Just a short boat ride away, these dreamy islands boast crystal-clear waters, coral reefs, and pristine beaches, making them perfect for snorkeling, island hopping, and relaxation.
 
-- [Nusa Penida Guide](/blog/nusa-penida-guide/)
-- [Nusa Lembongan & Ceningan Guide](/blog/nusa-lembongan-ceningan-guide/)
+- [Nusa Penida Guide](/en/blog/nusa-penida-guide/)
+- [Nusa Lembongan & Ceningan Guide](/en/blog/nusa-lembongan-ceningan-guide/)
 
 ---
 
@@ -141,7 +141,7 @@ All of this blends into Bali's distinctive "Tri Hita Karana" philosophy, harmoni
 In addition to ranking among the top 3 globally, Bali recently triumphed over Thailand's Koh Samui and Vietnam's Phu Quoc in the Travel + Leisure Asia-Pacific Luxury Travel Awards, earning the title of **Best Island in Asia-Pacific**. This award, focused on the luxury travel market, further proves Bali's dual appeal as both accessible and high-end, catering to travelers of all types.
 
 **Quick Reference:**
-[2025 Asia's Best Islands Ranking Announced: Bali Takes First Place](/blog/bali-best-island-2025/)
+[2025 Asia's Best Islands Ranking Announced: Bali Takes First Place](/en/blog/bali-best-island-2025/)
 
 ---
 

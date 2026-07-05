@@ -60,7 +60,7 @@ https://youtube.com/shorts/oBLpQ-MH4kY
 
 為咗俾小費嘅時候方便又冇煩惱，建議你喺峇里島嗰陣，盡量準備啲印尼盾現金。咁樣你就可以確保喺需要俾小費嘅時候，即刻有當地貨幣用，唔使擔心匯率轉換或者其他問題。
 
-> [峇里島旅遊費用？峇里島旅遊要準備幾多現金？](/blog/bali-travel-cash-budget-guide/)
+> [峇里島旅遊費用？峇里島旅遊要準備幾多現金？](/zh-hk/blog/bali-travel-cash-budget-guide/)
 
 {{block:戶外}}
 
@@ -68,4 +68,4 @@ https://youtube.com/shorts/oBLpQ-MH4kY
 
 👈 **返去峇里島自由行終極指南**
 
-想睇晒成個新手懶人包？[撳呢度睇「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。
+想睇晒成個新手懶人包？[撳呢度睇「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。

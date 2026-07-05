@@ -66,12 +66,12 @@ Policy target group: This policy mainly aims to deter low-budget long-term trave
 ### Core Documents
 
 - Passport: Must be valid for at least 6 months.
-- Electronic Visa on Arrival (e-VOA): Recommended to apply online in advance. (See [guide](/blog/bali-evisa-application-guide/))
+- Electronic Visa on Arrival (e-VOA): Recommended to apply online in advance. (See [guide](/en/blog/bali-evisa-application-guide/))
 - Return/Onward Flight Ticket: Ensure the date matches the visa stay period.
 
 ### Electronic Declarations
 
-- [All Indonesia Arrival Card](/blog/bali-all-indonesia-arrival-guide/) (AIAC): Complete online within 72 hours before departure.
+- [All Indonesia Arrival Card](/en/blog/bali-all-indonesia-arrival-guide/) (AIAC): Complete online within 72 hours before departure.
 - Bali Tourist Levy: Pay IDR 150,000 online and save the payment receipt.
 
 ### New Inspection Documents

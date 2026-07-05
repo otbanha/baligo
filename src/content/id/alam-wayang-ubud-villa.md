@@ -42,9 +42,9 @@ Berada di jantung Ubud, Alam Wayang Ubud justru tersembunyi di gang tenang yang 
 
 📍 Hanya 800 meter dari Museum Blanco 🏛
 
-📍 10 menit naik mobil ke [Puri Ubud](/blog/ubud-royal-palace-tour-guide/) dan pasar 👑
+📍 10 menit naik mobil ke [Puri Ubud](/id/blog/ubud-royal-palace-tour-guide/) dan pasar 👑
 
-📍 Jalan kaki bisa eksplor [Campuhan Ridge Walk](/blog/ubud-campuhan-ridge-walk/) & butik di sekitarnya 🧘‍♀️
+📍 Jalan kaki bisa eksplor [Campuhan Ridge Walk](/id/blog/ubud-campuhan-ridge-walk/) & butik di sekitarnya 🧘‍♀️
 
 ### **Pengalaman Menginap Mewah: Perpaduan Tradisi & Modern**
 
@@ -126,7 +126,7 @@ Lokasi hotelnya juga strategis banget, walaupun harus ke titik jemput dulu baru 
 
 ![更多烏布villa介紹](https://images.gobaligo.id/vocus/vocus_a30b2c12d987f7f2f04e8d47f429fb9d.png)
 
-Pengen liburan impian yang bikin lupa diri? 🌴 Villa kolam renang di Ubud bakal kasih kamu kemewahan dan relaksasi maksimal! Kolam renang pribadi, pemandangan cakep, fasilitas top, semuanya demi liburan terbaikmu. Klik [di sini](/blog/ubud-villa-pool-guide/) sekarang, eksplor lebih banyak villa kolam renang di Ubud yang kami rekomendasiin, dan mulai petualangan liburan eksklusifmu! ✨
+Pengen liburan impian yang bikin lupa diri? 🌴 Villa kolam renang di Ubud bakal kasih kamu kemewahan dan relaksasi maksimal! Kolam renang pribadi, pemandangan cakep, fasilitas top, semuanya demi liburan terbaikmu. Klik [di sini](/id/blog/ubud-villa-pool-guide/) sekarang, eksplor lebih banyak villa kolam renang di Ubud yang kami rekomendasiin, dan mulai petualangan liburan eksklusifmu! ✨
 
  BLOCK0 
  BLOCK1 

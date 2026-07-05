@@ -42,7 +42,7 @@ _srcHash: 9daaf49dcf9208a4078c69dc8b6fe61c
   **Referensi Cepat:**
 
 
-> [Perubahan Masuk Bali 2026 Paham dalam 1 Menit: Prosedur Masuk Indonesia/Bali - Turun Pesawat/Melewati Imigrasi/Ambil Bagasi](/blog/2025-bali-immigration-process/)
+> [Perubahan Masuk Bali 2026 Paham dalam 1 Menit: Prosedur Masuk Indonesia/Bali - Turun Pesawat/Melewati Imigrasi/Ambil Bagasi](/id/blog/2025-bali-immigration-process/)
 
 ## Rincian Perjalanan
 
@@ -144,9 +144,9 @@ Kalau bawa anak kecil, wajib masukin itinerary ini, dijamin mereka bakal senang 
 
 ![遊客可以近距離觸摸鯊魚和魟魚。除此之外還有企鵝、食人魚、水豚君...等，看看我們的介紹喔！](https://images.gobaligo.id/vocus/vocus_d1f018ab990e090d0f3afd49608a82a8.png)
 
-> Catatan Redaksi: Di sebelah Taman Safari Bali, ada taman laut baru yang buka tahun 2025. Info lengkapnya cek [di sini](/blog/marine-safari-bali-guide/)
+> Catatan Redaksi: Di sebelah Taman Safari Bali, ada taman laut baru yang buka tahun 2025. Info lengkapnya cek [di sini](/id/blog/marine-safari-bali-guide/)
 
-[Pengunjung bisa sentuh hiu dan pari dari dekat. Ada juga penguin, piranha, kapibara... lihat panduan kami ya!](/blog/marine-safari-bali-guide/)
+[Pengunjung bisa sentuh hiu dan pari dari dekat. Ada juga penguin, piranha, kapibara... lihat panduan kami ya!](/id/blog/marine-safari-bali-guide/)
   ---
 
 ## **Hari Keenam (6 Januari, Senin) — Wisata Alam & Budaya: Pura Ulun Danu, Pura Tirta Empul, dan Terasering Tegallalang**
@@ -190,7 +190,7 @@ Sore harinya kita menuju ke Tegallalang Rice Terrace Alas Harum, salah satu pema
 Setelah selesai dari sawah, kita lanjut ke Pantai Jimbaran buat makan malam. Dengan latar matahari terbenam, kita menikmati hidangan seafood segar. Makan malam romantis ini jadi penutup sempurna hari itu.
   **Referensi Cepat:**
 
-> [11 Restoran Seafood Jimbaran di Bali: Rekomendasi Anti Gagal](/blog/jimbaran-seafood-restaurants-list/)
+> [11 Restoran Seafood Jimbaran di Bali: Rekomendasi Anti Gagal](/id/blog/jimbaran-seafood-restaurants-list/)
 >   ---
 
 ## **Hari Ketujuh (7 Januari, Selasa) — Matahari Terbenam Spektakuler di Tanah Lot & Cliff Bar**
@@ -206,7 +206,7 @@ Pagi-pagi kita berangkat lebih awal biar nggak kena macet, dan tiba di Tanah Lot
 🛕🌊🌅 Pura Tanah Lot, tempat sunset wajib dikunjungi di Bali, nikmati pemandangan laut yang spektakuler dan suasana religius ▶[Diskon Klook](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
   **Referensi Cepat:**
 
-[Harga tiket Pura Tanah Lot, waktu surut, dan rekomendasi tempat di sekitarnya](/blog/bali-tanah-lot-guide/)
+[Harga tiket Pura Tanah Lot, waktu surut, dan rekomendasi tempat di sekitarnya](/id/blog/bali-tanah-lot-guide/)
 
 ### **Makan Siang: Babi Guling**
 
@@ -227,7 +227,7 @@ https://youtube.com/shorts/tHRxnJqxqbw
 
   **Referensi Cepat:**
 
-> [Cara reservasi Rock Bar Jimbaran Bali? Panduan lengkap pengalaman!](/blog/bali-rock-bar-reservation-guide/)
+> [Cara reservasi Rock Bar Jimbaran Bali? Panduan lengkap pengalaman!](/id/blog/bali-rock-bar-reservation-guide/)
 >   ---
 
 ## **Hari Kedelapan (8 Januari, Rabu) — Petualangan Water Sports di Tanjung Benoa**
@@ -240,7 +240,7 @@ Hari ini kami ke Tanjung Benoa buat main water sports, kayak snorkeling, dayung,
 
 Kalau kamu ada rencana main water sports di Tanjung Benoa, jangan kayak aku yang nggak riset dulu, akhirnya bayar berkali-kali lipat! **Wajib pesen tiket online dari jauh-jauh hari**, selain hemat banyak, juga biar nggak kena harga gila di tempat.
 
-## Baca Juga: [Info Water Sports Tanjung Benoa Bali](/blog/tanjung-benoa-water-activities/)
+## Baca Juga: [Info Water Sports Tanjung Benoa Bali](/id/blog/tanjung-benoa-water-activities/)
 
 🏖️🌊🚤 Water Sports Tanjung Benoa: Parasailing, Snorkeling, Sea Walker, Banana Boat ▶[Diskon Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E4%25B8%25B9%25E6%2588%258E%25E8%25B2%259D%25E8%25AB%25BE%25E7%2593%25A6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3D4376a16ccb)  ▶[Diskon Trip](https://tw.trip.com/travel-guide/attraction/bali/tanjung-benoa-watersports-33461755?curr=IDR&locale=zh-TW&poiType=3&ext-searchpage=1&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
   ---
@@ -291,7 +291,7 @@ Jam 11:50 pagi, kita naik mobil menuju bandara, siap mengakhiri perjalanan penuh
 
 - **Pengalaman Pijat**: Pijat batu panas dan pijat aromaterapi, rekomendasi dari supir, kualitas terjamin dan harga bersahabat. Selama perjalanan kami安排 dua kali pijat, pertama pijat batu panas, kedua pijat aromaterapi, dua-duanya luar biasa bikin badan dan pikiran rileks total.
 
-💆‍♀️🌿🕯️ Nikmati SPA super relaks di Bali, lengkap dengan aromaterapi dan pijat batu panas 😌, bikin badan dan pikiran benar-benar tenang! ▶[Rekomendasi SPA terbaik di setiap area](/blog/spa/)
+💆‍♀️🌿🕯️ Nikmati SPA super relaks di Bali, lengkap dengan aromaterapi dan pijat batu panas 😌, bikin badan dan pikiran benar-benar tenang! ▶[Rekomendasi SPA terbaik di setiap area](/id/blog/spa/)
 
 - **Layanan Sewa Mobil + Supir**: Recomended banget pakai jasa supir sewaan, bisa atur itinerary sesuai selera, supir bakal kasih saran rute terbaik. Supir kita, Ok Bali, profesional banget, bahasa Mandarin-nya lancar, dan suka cerita sejarah & budaya Bali, bikin kita makin kenal tempat ini.
 
@@ -301,7 +301,7 @@ Jam 11:50 pagi, kita naik mobil menuju bandara, siap mengakhiri perjalanan penuh
 
 Di sebelah kanan itu supir kita selama beberapa hari ini, namanya 'Ok'. Perhatian, teliti, nggak ngebut, nggak merokok, tepat waktu — pokoknya banyak banget kelebihannya.
 
-🚗👨‍✈️🌴 Jalan-jalan di Bali, supir sewaan itu teman terbaik! Mereka hafal rute lokal, ramah dan profesional, ajak kamu keliling Bali dengan nyaman ▶[Rekomendasi Supir Sewa Ternama](/blog/bali-private-car-drivers-guide/)
+🚗👨‍✈️🌴 Jalan-jalan di Bali, supir sewaan itu teman terbaik! Mereka hafal rute lokal, ramah dan profesional, ajak kamu keliling Bali dengan nyaman ▶[Rekomendasi Supir Sewa Ternama](/id/blog/bali-private-car-drivers-guide/)
 
 ## Penutup
 
@@ -313,6 +313,6 @@ Kamu pikir itinerary-nya Gao Rongfan dan tim seru? Yuk, rencanakan liburan Bali 
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 
-Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
+Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
 
 {{block:攻略}}

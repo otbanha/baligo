@@ -42,7 +42,7 @@ During this trip, my 7-year-old child’s favorite part was the **Mara River Saf
 
 Additionally, taking the safari bus was incredibly convenient, offering easy views of various animals. The kids couldn’t stop exclaiming in excitement, fully immersed in this vibrant environment. If you’re traveling with children, this is definitely a must-visit destination.
 
-**Quick Reference:** [Complete Guide to Bali Safari: Night Stay Experience, Family Fun & Itinerary Planning](/blog/bali-safari-night-experience/)
+**Quick Reference:** [Complete Guide to Bali Safari: Night Stay Experience, Family Fun & Itinerary Planning](/en/blog/bali-safari-night-experience/)
 
 🦒[Stay at Mara River Safari Lodge](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1012580&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fhotels%2Fdetail%2F253798-mara-river-safari-lodge%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De5b519631a)🐒
 
@@ -66,7 +66,7 @@ For seniors aged 70, **Ulun Danu Beratan Temple** is the most relaxing place. Th
 
 **Tanah Lot** is one of Bali’s iconic landmarks, where the sea arch and erosion platform are truly spectacular, perfectly matching our imagination of Bali. Although the sun by the sea can be intense, watching the waves crash against the rocks is still awe-inspiring. It’s recommended to bring a hat or umbrella and visit in the late afternoon to avoid the heat and enjoy the beautiful sunset.
 
-**Quick Reference:** [Must-Visit Bali Attraction: Detailed Guide to Tanah Lot Temple, Tides, and Nearby Spots](/blog/bali-tanah-lot-guide/)
+**Quick Reference:** [Must-Visit Bali Attraction: Detailed Guide to Tanah Lot Temple, Tides, and Nearby Spots](/en/blog/bali-tanah-lot-guide/)
 
 🛕🌊🌅 Tanah Lot Temple, Bali's must-visit sunset sanctuary, offering breathtaking sea views and a spiritual atmosphere ▶[Klook Discount](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
 
@@ -78,7 +78,7 @@ For seniors aged 70, **Ulun Danu Beratan Temple** is the most relaxing place. Th
 
 Bali’s rice terraces are famous, and we chose a spot with swings for both photos and family fun. The kids ran up and down the terraces, completely energized, while the elders sat nearby, admiring the lush green scenery and enjoying the gentle breeze. The atmosphere here is very relaxed, making it ideal for a family outing.
 
-**Quick Reference:** [Ubud Swing: Bali’s 8 Most Beautiful Swing Photo Spots｜Ubud Swing/Dress Rental Guide](/blog/ubud-jungle-swings-photo-guide/)
+**Quick Reference:** [Ubud Swing: Bali’s 8 Most Beautiful Swing Photo Spots｜Ubud Swing/Dress Rental Guide](/en/blog/ubud-jungle-swings-photo-guide/)
 
 🛕🐒🌿Explore Ubud in a day, discover Instagram-worthy spots, marvel at nature’s wonders, savor local cuisine and civet coffee ☕📸, a perfect blend of culture and nature ▶[Klook 50+ Tours to Choose From](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989417&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E7%2583%258F%25E5%25B8%2583%25E4%25B8%2580%25E6%2597%25A5%26sort%3Dmost_relevant%26tab_key%3D0%26start%3D1)
 
@@ -90,7 +90,7 @@ Bali’s rice terraces are famous, and we chose a spot with swings for both phot
 
 **Tirta Empul** is a place filled with religious atmosphere, where we witnessed many locals performing bathing rituals, creating a solemn and fascinating scene. However, personally, I was more intrigued by the presidential palace on the hill. This building is steeped in history, and the surrounding environment is exceptionally beautiful, making it worth spending some time to appreciate in detail.
 
-**Quick Reference:** [【2026】Complete Guide to Tirta Empul: Bali's Most Sacred Purification Temple Experience](/blog/tirta-empul-temple-guide/)
+**Quick Reference:** [【2026】Complete Guide to Tirta Empul: Bali's Most Sacred Purification Temple Experience](/en/blog/tirta-empul-temple-guide/)
 
 🔱💦 Tirta Empul Temple in Ubud, Bali, is renowned for its purification rituals 🙏 and sacred spring water 💧, believed to bring blessings and good fortune ✨ to devotees and visitors alike! ▶ [Klook Exclusive Deals](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)
 
@@ -102,7 +102,7 @@ Bali’s rice terraces are famous, and we chose a spot with swings for both phot
 
 The scenery along **Cliff Road** is breathtaking, but due to a recent landslide, although repairs are well done, it's still recommended to take a shuttle bus. Additionally, the sunlight here is very intense, so remember to bring a hat or sun protection gear to avoid sunburn.
 
-**Quick Reference:** [Batu Barak/Tanah Barak: A Stunning Journey Along the Blue Road/Cliff Road](/blog/batu-barak-cliff-road/)
+**Quick Reference:** [Batu Barak/Tanah Barak: A Stunning Journey Along the Blue Road/Cliff Road](/en/blog/batu-barak-cliff-road/)
 
 🏖️🪨🌊 Explore the beauty of the Blue Road cliffs, where every shot is Instagram-worthy! ▶[Klook Deal](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F114124-tanah-barak-cliff-garuda-wisnu-kencana-malini-sunset-tour-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8aad5d46e9)
 
@@ -116,7 +116,7 @@ The scenery along **Cliff Road** is breathtaking, but due to a recent landslide,
 
 **Garuda Wisnu Kencana Cultural Park** covers a vast area, with the most striking feature being the enormous Garuda statue, whose height and scale are truly awe-inspiring. The statue is visible from the airport, highlighting its grandeur. However, the park's facilities seem somewhat incomplete, giving it a sparse feel. It's advisable to plan a brief visit here to admire the statue before heading to other attractions.
 
-**Quick Reference:** [Complete Guide to Garuda Wisnu Kencana GWK Cultural Park in Bali](/blog/gwk-cultural-park-bali/)
+**Quick Reference:** [Complete Guide to Garuda Wisnu Kencana GWK Cultural Park in Bali](/en/blog/gwk-cultural-park-bali/)
 
 🦅☀️🌴GWK Cultural Park, the massive Vishnu statue and Garuda are breathtaking 😍, and you can also enjoy traditional performances, a perfect blend of culture and nature ▶[Klook Booking Link](https://affiliate.klook.com/redirect?aid=116349&aff_adid=848821&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D795e4377a1)
 
@@ -191,4 +191,4 @@ Do you find Chingju Wang's itinerary exciting? Start planning your own Bali free
 
 Click here to explore more amazing Bali travel stories
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to help make your travelogue stand out!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)" to help make your travelogue stand out!

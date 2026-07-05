@@ -64,7 +64,7 @@ The villas at Ayana Villas are decorated in traditional Balinese style, offering
 
 Ayana Villas is Bali's top luxury resort, ideal for leisure vacations, honeymoons, and family trips.
 
-**Quick Reference**: [Ayana Villa Luxury Experience and Jimbaran's Five-Star Indulgence](/blog/ayana-resort-villa-experience/)
+**Quick Reference**: [Ayana Villa Luxury Experience and Jimbaran's Five-Star Indulgence](/en/blog/ayana-resort-villa-experience/)
 
 > Ayana Villa Rates & Availability ▶ [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=478524) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1232235&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oax8LFJMEkNZ2F4-fUjw1sQuyGpmYGhgZGGvfZDE6xWixwdvR4WCWy7ulWB08QffzYLocAnogpB55PY0-U1r-rwnYw0KGLkRUsMIPx9SzvjYxpINAy2WEHI9MJxo8_GBcwvd632_oUCzPHGt1LLN-ZoquVslMrlaxMdJRKMktyUpWslJ7N6X3aPfPFpt1KOkopqcXJQCEgKzE3vzSvBMg2sjQw0jMwAAqVJFZ4pihZmesoJSfmJJfmJJakhlQWAI0w01HKLHYuKcosCErNzSwpSQWqSkvMKU4FiQelFgNlksGCSn5AY4qgApn5eRDtBihiYYk5pakQNwAtdEuF2mFcq4Pp9KeL5j1t2PN8RSuRTjehttMNiXG6YW3sIxam6NgXLPfZPrEw_GJhaGJl6GJl5jjFNImVhQMYS7tY-QP9jIPMfXXDzSJddaN0DS-wTv7PKCVvaGBgYGpobGqqa5BoaWFsamKua2JpYmRmqGthamJhotHd9fjEE2MjaylIIlBg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmLoZGRpEmXDxRwa7CKY5fu5L9hE2kGKOSTcRXHaJp7CNd2n7bWYPV2CDLt_NO6Vt7W0D5yc5_2kyXiBfeSLdsFDi3tP2yexVmXohoRnHBcrYGxgZOpi5BZg9GCMYKwA8hhXMbJzMRsYGQowbWBk3MH4HwYYXzGCLAEArPSKFAoDAAA&masterhotelid_tracelogid=100051355-0a983547-494261-85484&detailFilters=17|1~17~1*31|1232235~31~1232235*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1092&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/9JyxFJPS)
 
@@ -82,7 +82,7 @@ Ayana Segara offers a design that blends indoor and outdoor spaces, combining mo
 
 As it was newly constructed in 2023, the room rates are slightly higher.
 
-**Quick Reference**: [Segara Experience - A Paradise-like Retreat](/blog/ayana-resort-bali-experience/)
+**Quick Reference**: [Segara Experience - A Paradise-like Retreat](/en/blog/ayana-resort-bali-experience/)
 
 > Ayana Segara Rates & Availability ▶[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=35461774) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=100618092&checkIn=2026-09-25&checkOut=2026-09-26&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-NqZOFikmCS-sXMsXb779WsQowGFhOFHGfNBAL2GQ6exiAQONchgKeQAQQepDjMYHwz76_-RsY0EFArddjByHSCsffpcqYFTO-AEqdYWDi2rDa9xPKbKbpaKTu1UsnKREepJLMkJ1XJSunZnN6n3TNfbNqtpKOUklqcDBQCshJz80vzSoBsE2MzS1MTPQMDoGBJYoVnipKVuY5ScmJOcmlOYklqSGUB0BAzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FugCIWlphTmgpxBdBCt1SoHca1OpiOf7po3tOGPc9XtBLteBNqO96QGMcb1sY-YmGKjv3EwvALGBt9S6SaWBm6WBkmsbJygCJqFyubo3-An7vvBdbZnYeYpGQNDQwMTA2NTU11DRItLZJNDFN0TSxNDA2MdC3NDDQm3V6x7ZGxkYkCo5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNgMXSwMzgygbLmZPlyDBugcsHbUJlvZSIJ4ijKcF4hnCeIFM7y5t-_OC1z4SJpLEWpWhGxKe0SFWwNjAyNTFyC3A6MEYwVgB5DGuYmTYwMi4g_E_DDC-YgSZBwCHom903QIAAA&masterhotelid_tracelogid=100051355-0a98c41d-494102-960&detailFilters=17|1~17~1*31|100618092~31~100618092*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=325&isCT=true&isFlexible=F&isFirstEnterDetail=T&locale=zh-TW&isRightClick=T&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16945049) [Booking.com](https://booking.tpm.li/pzG2GQ1N)
 
@@ -118,7 +118,7 @@ Here are some tips for booking Rock Bar:
 - Guests can check available seating options through [Rock Bar's official website](https://www.ayana.com/bali/dining/rock-bar-bali/) or the [TableCheck app](https://www.tablecheck.com/en/ayana-resort-and-spa-rockbar/reserve/message?menu_lists[]=63b515a4bbd3110045eca51e&utm_source=ayanawebsite).
 - Non-guests have a minimum spending requirement at Rock Bar.
 
-Detailed introduction to Rock Bar here: [How to Reserve Jimbaran Rock Bar? Complete Experience Guide!](/blog/bali-rock-bar-reservation-guide/)
+Detailed introduction to Rock Bar here: [How to Reserve Jimbaran Rock Bar? Complete Experience Guide!](/en/blog/bali-rock-bar-reservation-guide/)
 
 ### Bonus Highlight 2: Kubu Beach Club
 
@@ -149,7 +149,7 @@ Ayana Bali Golf Course
 
 https://youtube.com/shorts/NAMjz-0M-bw
 
-Perched atop AYANA Segara in Bali, Luna Rooftop Bar is a hidden gem for relaxation, offering breathtaking sunset views and a dynamic atmosphere. From this elevated vantage point, the interplay of the sunset's glow and the vast ocean creates a perfect backdrop for photography enthusiasts. At Luna, it's not just about the food and drinks—it's about creating unforgettable memories. Looking for a unique vacation experience? Check out the [detailed guide](/blog/ayana-luna-rooftop-bar-sunset/).
+Perched atop AYANA Segara in Bali, Luna Rooftop Bar is a hidden gem for relaxation, offering breathtaking sunset views and a dynamic atmosphere. From this elevated vantage point, the interplay of the sunset's glow and the vast ocean creates a perfect backdrop for photography enthusiasts. At Luna, it's not just about the food and drinks—it's about creating unforgettable memories. Looking for a unique vacation experience? Check out the [detailed guide](/en/blog/ayana-luna-rooftop-bar-sunset/).
 
 ### Highlight 5: SAKA Museum
 
@@ -172,7 +172,7 @@ In addition to its beautiful natural scenery and top-notch services, Ayana Resor
 The Saka Museum is not only a new highlight of the Ayana Resort but also a shining gem of Balinese culture. If you're staying at Ayana, take some time to visit the Saka Museum—you're sure to leave enriched.
 
 **Quick Reference:**
-[Bali's Saka Museum Wins 2025 Global Award for Most Beautiful Museum](/blog/saka-museum-bali-global-award/)
+[Bali's Saka Museum Wins 2025 Global Award for Most Beautiful Museum](/en/blog/saka-museum-bali-global-award/)
 
 ### Bonus Highlight 6: Kisik Seafood and Grill
 
@@ -259,7 +259,7 @@ Currently, the entire Ayana Bali resort has transitioned to a cashless payment s
 
 Moreover, the fully digital payment system significantly improves the resort's operational efficiency and financial transparency. Through contactless card payments or QR code scanning, restaurant and shop checkouts become faster, and guests can clearly track every expense through electronic bills at checkout. In an era of heightened health awareness, reducing physical currency contact adds an extra layer of health security to the journey. This model not only aligns with modern digital tourism trends but also makes the services of this top-tier resort appear more streamlined and contemporary.
 
-> **Quick Reference:** For 30 more dining and entertainment recommendations in Jimbaran, check out the [Jimbaran Guide](/blog/jimbaran-guide/)
+> **Quick Reference:** For 30 more dining and entertainment recommendations in Jimbaran, check out the [Jimbaran Guide](/en/blog/jimbaran-guide/)
 
 ## Book Now!
 
@@ -270,7 +270,7 @@ Are you feeling tempted to come here for a vacation? It's time to start booking!
 - Ayana Segara Rates & Availability ▶ [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=35461774) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=100618092&checkIn=2026-09-25&checkOut=2026-09-26&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-NqZOFikmCS-sXMsXb779WsQowGFhOFHGfNBAL2GQ6exiAQONchgKeQAQQepDjMYHwz76_-RsY0EFArddjByHSCsffpcqYFTO-AEqdYWDi2rDa9xPKbKbpaKTu1UsnKREepJLMkJ1XJSunZnN6n3TNfbNqtpKOUklqcDBQCshJz80vzSoBsE2MzS1MTPQMDoGBJYoVnipKVuY5ScmJOcmlOYklqSGUB0BAzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FugCIWlphTmgpxBdBCt1SoHca1OpiOf7po3tOGPc9XtBLteBNqO96QGMcb1sY-YmGKjv3EwvALGBt9S6SaWBm6WBkmsbJygCJqFyubo3-An7vvBdbZnYeYpGQNDQwMTA2NTU11DRItLZJNDFN0TSxNDA2MdC3NDDQm3V6x7ZGxkYkCo5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNgMXSwMzgygbLmZPlyDBugcsHbUJlvZSIJ4ijKcF4hnCeIFM7y5t-_OC1z4SJpLEWpWhGxKe0SFWwNjAyNTFyCzA6MEYwVgB5DGuYmTYwMi4g_E_DDC-YgSZBwCHom903QIAAA&masterhotelid_tracelogid=100051355-0a98c41d-494102-960&detailFilters=17|1~17~1*31|100618092~31~100618092*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=325&isCT=true&isFlexible=F&isFirstEnterDetail=T&locale=zh-TW&isRightClick=T&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16945049) [Booking.com](https://booking.tpm.li/pzG2GQ1N)
 - RIMBA by Ayana Rates & Availability [▶Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=489045) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=987799&checkIn=2026-09-25&checkOut=2026-09-26&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-NqYeFikmCS-svMMX_Kwe-sQowGFhOFHNe5P6wSSep38Dx7BghUJjsE8BQygIBCosMMxulLbTYygpXMy3bYwch0gnHZhIOMC5h-r51seYqFhePRS6VLLL-ZoquVslMrlaxMdJRKMktyUpWslJ7N6X3aPfPFpt1KOkopqcXJQCEgKzE3vzSvBMg2sjA1sjTXMzAACpYkVnimKFmZ6yglJ-Ykl-YklqSGVBYADTHTUcosdi4pyiwISs3NLClJBapKS8wpTgWJB6UWA2WSwYJKfkBjiqACmfl5EO0GKGJhiTmlqRBXAC10S4XaYVyrg-n4p4vmPW3Y83xFK9GON6G24w2JcbxhbewjFqbo2E8sDL-AsTHttGgTK0MXK8MkVlYOUETtYuUKNLA0CAvVjdI1vMC65_Y1Rik5QwMDA1NDY1NTXYNESwtjg0RzXRNLE0MDI12gp0w1Fm5at-2RsZGJAqOWYHyIp6eLYUlhqllhqWVOUYGpAeMpRilDc2MLQyNDQyMjI0tjPROLNLNii7xii9ysCA_GIDYDZ0cDS6MoGy5mT5cgwboHLB21CZb2UiCeIoynBeIZwniBTO8ubfvzgtc-EiaSxFqVoRsSntEhVsDYwMjUxcgtwOjBGMFYAeQxrmJk52I2MDIUYNrAyLiD8T8MML5iBBkLAArx1iHoAgAA&masterhotelid_tracelogid=100051355-0a9830a7-494102-2975&detailFilters=17|1~17~1*31|987799~31~987799*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=836&isCT=true&isFlexible=F&isFirstEnterDetail=T&locale=zh-TW&isRightClick=T&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16945077) [Booking.com](https://booking.tpm.li/5Tw3lsbE)
 
-> Further Reading: [【Must-See Spots for Bali Instagrammers】Ayana Resort’s Six Stunning Pools](/blog/ayana-resort-pools-photo/)
+> Further Reading: [【Must-See Spots for Bali Instagrammers】Ayana Resort’s Six Stunning Pools](/en/blog/ayana-resort-pools-photo/)
 
 ## Map of the Four Hotel Areas
 

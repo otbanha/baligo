@@ -83,7 +83,7 @@ Update: 2026/07/03
 
 峇里島嘅銀飾工藝都幾出名，尤其喺烏布市場，真係眼花繚亂。無論係 **手鏈、戒指、頸鏈定耳環**，每件都係工匠精心打造，線條細緻、款式又多。如果你鍾意簡約風或者民族風，喺呢度實搵到啱你嗰款。
 
-**參加銀飾製作課程**：[深入峇里島文化：銀飾工藝工作坊不可錯過嘅日遊體驗](/blog/bali-silver-workshop/)
+**參加銀飾製作課程**：[深入峇里島文化：銀飾工藝工作坊不可錯過嘅日遊體驗](/zh-hk/blog/bali-silver-workshop/)
 
 ***
 
@@ -119,10 +119,10 @@ Update: 2026/07/03
 
 **延伸閱讀：**
 
-- [推薦烏布五大藝術市集/藝術市場完整指南：買紀念品/手信，探索峇里島文化寶藏](/blog/ubud-art-markets-guide/)
-- [峇里島特色藝術紀念品：將旅程回憶變成永久收藏](/blog/bali-art-souvenirs-guide/)
-- [【網友推薦】六大種類，超過20項峇里島手信推薦指南：留住珍貴回憶嘅絕佳選擇](/blog/bali-souvenirs-gift-guide/)
-- [【峇里島旅遊注意】呢啲峇里島手信唔可以帶返台灣！一次搞掂台灣海關規定](/blog/bali-souvenirs-customs-restrictions/)
+- [推薦烏布五大藝術市集/藝術市場完整指南：買紀念品/手信，探索峇里島文化寶藏](/zh-hk/blog/ubud-art-markets-guide/)
+- [峇里島特色藝術紀念品：將旅程回憶變成永久收藏](/zh-hk/blog/bali-art-souvenirs-guide/)
+- [【網友推薦】六大種類，超過20項峇里島手信推薦指南：留住珍貴回憶嘅絕佳選擇](/zh-hk/blog/bali-souvenirs-gift-guide/)
+- [【峇里島旅遊注意】呢啲峇里島手信唔可以帶返台灣！一次搞掂台灣海關規定](/zh-hk/blog/bali-souvenirs-customs-restrictions/)
 
 ***
 

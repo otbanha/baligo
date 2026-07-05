@@ -49,7 +49,7 @@ _srcHash: 9edd33dc7e0594b5d24d2cd8b6501e00
 
 想象一下，在细腻洁白的沙滩上沐浴阳光，或是潜入清澈海水中，与热带鱼群一同探索五彩缤纷的珊瑚礁。对于喜欢冒险的情侣来说，你们甚至可以在二战沉船遗迹周围潜水，体验独特的海底探险。
 
-> [巴厘岛水上活动完整指南｜巴厘岛不只浮潜！15种意想不到的水上玩法](/blog/2026-bali-water-activities/)
+> [巴厘岛水上活动完整指南｜巴厘岛不只浮潜！15种意想不到的水上玩法](/zh-cn/blog/2026-bali-water-activities/)
 
 ### 🌿 绿意盎然的丛林秘境
 
@@ -67,7 +67,7 @@ _srcHash: 9edd33dc7e0594b5d24d2cd8b6501e00
 - 参加蜡染 (batik) 或银饰工艺工作坊，亲手制作专属纪念品
 - 在梯田环绕的瑜伽课程中放松身心，让心灵得到真正的平静
 
-> [2026巴厘岛完整乌布攻略：100种深入认识乌布的方式｜探索乌布的魅力](/blog/ubud-guide/)
+> [2026巴厘岛完整乌布攻略：100种深入认识乌布的方式｜探索乌布的魅力](/zh-cn/blog/ubud-guide/)
 
 ### 💎 多元体验，满足所有蜜月幻想
 
@@ -81,7 +81,7 @@ _srcHash: 9edd33dc7e0594b5d24d2cd8b6501e00
 - **冒险情侣**：冲浪、潜水、火山健行
 - **疗愈系**：传统 SPA 与养生体验
 
-> [【精华篇】巴厘岛好评SPA、到府按摩推荐大集合 用区域划分更方便查找](/blog/spa/)
+> [【精华篇】巴厘岛好评SPA、到府按摩推荐大集合 用区域划分更方便查找](/zh-cn/blog/spa/)
 
 ---
 
@@ -97,11 +97,11 @@ _srcHash: 9edd33dc7e0594b5d24d2cd8b6501e00
 
 **📖 巴厘岛蜜月/情侣延伸阅读：**
 
-- [为何越来越多人选择巴厘岛度蜜月？巴厘岛度蜜月常见问题解答](/blog/bali-honeymoon-faq/)
-- [浪漫蜜月胜地大公开！巴厘岛击败马尔代夫夺得全世界冠军！](/blog/bali-honeymoon-destination/)
-- [巴厘岛蜜月浪漫指南：探索巴厘岛情侣/蜜月旅行的36种玩法](/blog/bali-honeymoon-romantic-activities-2/)
-- [蜜月住哪里？蜜月新婚/情侣就看这一篇！【20间度蜜月度假村、浪漫villa推荐】](/blog/bali-honeymoon-resorts-guide/)
-- [《World Travel Awards》巴厘岛荣获2024年度全球最浪漫旅游目的地殊荣](/blog/bali-world-travel-awards-2024/)
-- [认证：巴厘岛成为全球最佳拍美照蜜月胜地](/blog/bali-best-honeymoon-photo-spot/)
+- [为何越来越多人选择巴厘岛度蜜月？巴厘岛度蜜月常见问题解答](/zh-cn/blog/bali-honeymoon-faq/)
+- [浪漫蜜月胜地大公开！巴厘岛击败马尔代夫夺得全世界冠军！](/zh-cn/blog/bali-honeymoon-destination/)
+- [巴厘岛蜜月浪漫指南：探索巴厘岛情侣/蜜月旅行的36种玩法](/zh-cn/blog/bali-honeymoon-romantic-activities-2/)
+- [蜜月住哪里？蜜月新婚/情侣就看这一篇！【20间度蜜月度假村、浪漫villa推荐】](/zh-cn/blog/bali-honeymoon-resorts-guide/)
+- [《World Travel Awards》巴厘岛荣获2024年度全球最浪漫旅游目的地殊荣](/zh-cn/blog/bali-world-travel-awards-2024/)
+- [认证：巴厘岛成为全球最佳拍美照蜜月胜地](/zh-cn/blog/bali-best-honeymoon-photo-spot/)
 
 **那么，你会选择巴厘岛作为你的蜜月目的地吗？你又会在哪里拍摄你的爱情故事呢？**

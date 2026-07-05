@@ -43,29 +43,29 @@ Bali Jadi Destinasi Bulan Madu Terbaik Versi Traveler Global
 
 Kalau kamu lagi cari tempat liburan yang super romantis, Bali jelas jadi destinasi bulan madu impian banyak orang.
 
-Buat kamu yang berencana bulan madu atau liburan romantis yang nggak terlupakan di Bali, jangan lupa cek artikel spesial kami '[Bulan Madu/Pasangan Wajib Baca! 2024 Rekomendasi 20 Resort Bulan Madu & Villa Romantis di Bali](/blog/bali-honeymoon-resorts-guide/)'. Panduan ini kasih kamu pilihan resort dan villa romantis terbaik di Bali, siap bikin kenangan manis. Mau resort mewah di pinggir pantai atau villa privat yang cozy, semuanya ada buat memenuhi kebutuhan pasangan, bikin bulan madu atau liburan romantismu makin berwarna.
+Buat kamu yang berencana bulan madu atau liburan romantis yang nggak terlupakan di Bali, jangan lupa cek artikel spesial kami '[Bulan Madu/Pasangan Wajib Baca! 2024 Rekomendasi 20 Resort Bulan Madu & Villa Romantis di Bali](/id/blog/bali-honeymoon-resorts-guide/)'. Panduan ini kasih kamu pilihan resort dan villa romantis terbaik di Bali, siap bikin kenangan manis. Mau resort mewah di pinggir pantai atau villa privat yang cozy, semuanya ada buat memenuhi kebutuhan pasangan, bikin bulan madu atau liburan romantismu makin berwarna.
 
 ![【20間度蜜月度假村、浪漫villa推薦懶人包】有峇里島最棒的推薦！](https://images.gobaligo.id/vocus/vocus_f4d29dce63300c6af63b6247aee36052.png)
 
-[【20間蜜月度假村、浪漫villa推薦懶人包】有峇里島最棒的推薦！](/blog/bali-honeymoon-resorts-guide/)
+[【20間蜜月度假村、浪漫villa推薦懶人包】有峇里島最棒的推薦！](/id/blog/bali-honeymoon-resorts-guide/)
 
 Biar Bali jadi panggung petualangan cinta kalian, ciptain kenangan manis dan pengalaman yang dalem banget. Di surga di Samudra Hindia ini, setiap momen bareng pasangan bakal jadi memori berharga. Semoga perjalanan kalian penuh cinta dan romantis!
 
 ## Panduan Akomodasi/Villa di Bali:
 
-- [CP值超高, kurang dari USD$30 nginep di 11 hotel butik Bali, foto estetik terus!](/blog/bali-boutique-hotels-under-30/)
-- [Rekomendasi villa Bali: 20 villa CP值 tinggi (bagian 1)](/blog/bali-best-villas-top20-part1/)
-- [Villa Bali dengan CP值 paling oke, rekomendasi villa romantis - total 20 (bagian 2)](/blog/bali-best-villas-top20-part2/)
-- [Panduan lengkap tempat & akomodasi ramah keluarga di Bali](/blog/bali-family-travel-guide/)
-- [Buat yang baru nikah/pasangan: rekomendasi akomodasi romantis bulan madu Bali terbaru 2023](/blog/bali-honeymoon-resorts-guide/)
-- [Rekomendasi akomodasi Bali: 10 penginapan budget di kawasan Seminyak yang rated bagus!](/blog/seminyak-budget-hotels-guide/)
-- [Rekomendasi akomodasi Bali: panduan akomodasi tematik tepi pantai di Seminyak](/blog/seminyak-beach-resorts-guide/)
-- [Rekomendasi akomodasi Jimbaran: Ayana Bali >>](/blog/ayana-resort-bali-guide/)
-- [Rekomendasi akomodasi Uluwatu: 12 villa resort privat dengan pemandangan laut tanpa batas](/blog/uluwatu-bali-villas-resorts-guide/)
-- [Rekomendasi akomodasi Bali: akomodasi Jimbaran dengan pemandangan laut spektakuler](/blog/2023-11-09-654c6271fd8978000174ff5e/)
-- [Taman hiburan keluarga Bali: TOP 15 resort keluarga dengan seluncuran air](/blog/bali-family-resorts-water-slides/)
-- [Liburan keluarga mandiri di Bali: panduan peta Sanur | 45 tempat makan, main, SPA, dan rekomendasi akomodasi!](/blog/sanur-guide/)
-- [Nusa Dua, Tanjung Benoa: destinasi utama liburan mewah di Bali - 40 peta panduan akomodasi, kuliner, aktivitas](/blog/nusa-dua-guide/)
-- [Rekomendasi akomodasi di Nusa Penida: 13 akomodasi rated bagus dari mewah sampai budget](/blog/nusa-penida-hotels-guide/)
+- [CP值超高, kurang dari USD$30 nginep di 11 hotel butik Bali, foto estetik terus!](/id/blog/bali-boutique-hotels-under-30/)
+- [Rekomendasi villa Bali: 20 villa CP值 tinggi (bagian 1)](/id/blog/bali-best-villas-top20-part1/)
+- [Villa Bali dengan CP值 paling oke, rekomendasi villa romantis - total 20 (bagian 2)](/id/blog/bali-best-villas-top20-part2/)
+- [Panduan lengkap tempat & akomodasi ramah keluarga di Bali](/id/blog/bali-family-travel-guide/)
+- [Buat yang baru nikah/pasangan: rekomendasi akomodasi romantis bulan madu Bali terbaru 2023](/id/blog/bali-honeymoon-resorts-guide/)
+- [Rekomendasi akomodasi Bali: 10 penginapan budget di kawasan Seminyak yang rated bagus!](/id/blog/seminyak-budget-hotels-guide/)
+- [Rekomendasi akomodasi Bali: panduan akomodasi tematik tepi pantai di Seminyak](/id/blog/seminyak-beach-resorts-guide/)
+- [Rekomendasi akomodasi Jimbaran: Ayana Bali >>](/id/blog/ayana-resort-bali-guide/)
+- [Rekomendasi akomodasi Uluwatu: 12 villa resort privat dengan pemandangan laut tanpa batas](/id/blog/uluwatu-bali-villas-resorts-guide/)
+- [Rekomendasi akomodasi Bali: akomodasi Jimbaran dengan pemandangan laut spektakuler](/id/blog/2023-11-09-654c6271fd8978000174ff5e/)
+- [Taman hiburan keluarga Bali: TOP 15 resort keluarga dengan seluncuran air](/id/blog/bali-family-resorts-water-slides/)
+- [Liburan keluarga mandiri di Bali: panduan peta Sanur | 45 tempat makan, main, SPA, dan rekomendasi akomodasi!](/id/blog/sanur-guide/)
+- [Nusa Dua, Tanjung Benoa: destinasi utama liburan mewah di Bali - 40 peta panduan akomodasi, kuliner, aktivitas](/id/blog/nusa-dua-guide/)
+- [Rekomendasi akomodasi di Nusa Penida: 13 akomodasi rated bagus dari mewah sampai budget](/id/blog/nusa-penida-hotels-guide/)
   ]
 }

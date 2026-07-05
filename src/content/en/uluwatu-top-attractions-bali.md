@@ -117,7 +117,7 @@ Green Bowl Beach is one of Uluwatu's most secluded beaches, a haven for traveler
 
 The best time to visit is during low tide, which is also ideal for snorkeling. Since there are no vendors selling drinks or food on the beach, remember to bring plenty of water.
 
-Further Reading: [Exploring Bali's Hidden Gems: A Guide to 6 Secret Beaches / How to Check Tides?](/blog/bali-hidden-beaches-guide/)
+Further Reading: [Exploring Bali's Hidden Gems: A Guide to 6 Secret Beaches / How to Check Tides?](/en/blog/bali-hidden-beaches-guide/)
 
 ## Second Place: Tanah Barak Cliff Scenic Road / Blue Road
 
@@ -161,8 +161,8 @@ With its excellent surf spots along the Uluwatu coastline, this area is a dream 
 
 These are our top 10 must-see spots and activities in Uluwatu. Whether you're an adventurous thrill-seeker or a traveler seeking tranquility, Uluwatu has something to offer everyone. We hope you have an unforgettable time along this beautiful coastline!
 
-> Further Reading: [Uluwatu Guide: 50 Recommendations for Food, Fun, and Exploration](/blog/uluwatu-guide/)
+> Further Reading: [Uluwatu Guide: 50 Recommendations for Food, Fun, and Exploration](/en/blog/uluwatu-guide/)
 
-> Further Reading: [Uluwatu Accommodation Recommendations: 12 Private Villas and Resorts with Stunning Ocean Views](/blog/uluwatu-bali-villas-resorts-guide/)
+> Further Reading: [Uluwatu Accommodation Recommendations: 12 Private Villas and Resorts with Stunning Ocean Views](/en/blog/uluwatu-bali-villas-resorts-guide/)
 
 {{block:攻略}}

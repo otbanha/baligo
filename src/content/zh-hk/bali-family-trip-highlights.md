@@ -36,7 +36,7 @@ _srcHash: 4179eb55859d6107558c4c4ceb1fe2b1
 
 今次我哋特登安排咗參觀GWK神鷹文化公園，呢度唔單止有壯麗嘅文化遺產，仲有無數嘅美景，好啱影相。園區好大，強烈建議一定要搭接駁車，咁先可以輕鬆愉快咁享受每一個景點。
 
-> [峇里島 Garuda Wisnu Kencana GWK神鷹廣場/神鷹文化公園全攻略](/blog/gwk-cultural-park-bali/)
+> [峇里島 Garuda Wisnu Kencana GWK神鷹廣場/神鷹文化公園全攻略](/zh-hk/blog/gwk-cultural-park-bali/)
 
 🦅☀️🌴GWK神鷹廣場，好大隻嘅維什努神像同神鷹，真係令人驚嘆 😍，仲可以睇到傳統表演，文化同自然嘅完美結合 ▶[Klook 訂飛網址](https://affiliate.klook.com/redirect?aid=116349&aff_adid=848821&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D795e4377a1)
 
@@ -48,7 +48,7 @@ _srcHash: 4179eb55859d6107558c4c4ceb1fe2b1
 
 我哋喺Klook訂咗「[Red Paddle Bali Adventure](https://affiliate.klook.com/redirect?aid=116349&aff_adid=901865&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F5504-ayung-white-water-rafting-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D65ec132ff9)」泛舟行程，超乎預期咁精彩。教練唔單止專業，仲好體貼。特別係我哋大仔途中唔係幾舒服，教練成日關心佢嘅情況，令我哋好放心。其他船上嘅教練都好友善，大家互相潑水、比賽超船，令兩個鐘嘅泛舟活動充滿笑聲。我哋仲遇到嚟自沙烏地阿拉伯同韓國嘅遊客，大家傾得好開心，呢段經歷仲令我哋練咗英文同韓文，真係好有趣。
 
-> 「泛舟須知與常見問題」請睇[呢度](/blog/bali-rafting-ayung-telaga-waja/)
+> 「泛舟須知與常見問題」請睇[呢度](/zh-hk/blog/bali-rafting-ayung-telaga-waja/)
 
 ### **特家司機嘅貼心服務——滿足所有願望**
 
@@ -58,7 +58,7 @@ _srcHash: 4179eb55859d6107558c4c4ceb1fe2b1
 
 我哋嘅包車司機特家，唔單止令我哋嘅梯田同盪鞦韆願望一次過滿足，仲帶咗我哋去好多隱藏靚景。特別係喺梯田盪鞦韆嗰度，風景靚到令人屏息，仲有得租長尾禮服，令我即刻變身做仙女，真係好夢幻！
 
-> [烏布玩鞦韆：峇里島最靚嘅8個鞦韆影相勝地｜烏布鞦韆/租禮服攻略](/blog/ubud-jungle-swings-photo-guide/)
+> [烏布玩鞦韆：峇里島最靚嘅8個鞦韆影相勝地｜烏布鞦韆/租禮服攻略](/zh-hk/blog/ubud-jungle-swings-photo-guide/)
 
 🛕🐒🌿烏布一日遊，探索IG熱門景點、欣賞鬼斧神工自然美景，享受當地美食同麝香貓咖啡 ☕📸，文化同自然嘅完美結合 ▶[Klook 50+旅程任選](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989417&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E7%2583%258F%25E5%25B8%2583%25E4%25B8%2580%25E6%2597%25A5%26sort%3Dmost_relevant%26tab_key%3D0%26start%3D1)
 
@@ -70,7 +70,7 @@ _srcHash: 4179eb55859d6107558c4c4ceb1fe2b1
 
 喺Paperhills咖啡廳，我哋好彩見到壯觀嘅巴杜爾火山，呢座活火山全貌清楚睇到，真係令人驚嘆。呢間咖啡廳總共有四層，每一層都可以影到靚相，着住自己準備嘅衫，喺度隨便影都係網美相。包車嘅好處就係，我哋可以大包細包帶齊各種裝備，隨時隨地捕捉到美好嘅瞬間。
 
-> 延伸閱讀：[峇里島金塔瑪尼12大景觀咖啡廳推薦](/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
+> 延伸閱讀：[峇里島金塔瑪尼12大景觀咖啡廳推薦](/zh-hk/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
 
 ### **Rijasa Agung 烏布阿貢里加薩飯店——寧靜與舒適嘅完美結合**
 
@@ -89,7 +89,7 @@ _srcHash: 4179eb55859d6107558c4c4ceb1fe2b1
 
 > ▶Rijasa Agung Resort and Villas 房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1744536&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/c79DvepT)
 
-已收錄在[【峇里島烏布住宿】烏布28家特色住宿，體驗峇里島山林美景中的奇幻之旅！](/blog/ubud-villas-pool-guide/)
+已收錄在[【峇里島烏布住宿】烏布28家特色住宿，體驗峇里島山林美景中的奇幻之旅！](/zh-hk/blog/ubud-villas-pool-guide/)
 
 ### **Jungle Cart 叢林卡丁車——峇里島嘅新奇體驗**
 
@@ -97,7 +97,7 @@ https://youtube.com/shorts/v7NAvCARzKY
 
 卡丁車可能好多人都玩過，但可以喺烏布嘅叢林道路上面直接揸，呢個係峇里島獨有嘅新玩法！我哋喺稻田景色入面飛馳，途中仲有嗨歌前導車幫手確認路況，沿途有雞飛狗跳、牛懶洋洋咁哞叫，30分鐘嘅體驗雖然短暫，但係充滿咗無限樂趣。
 
-可以睇吓呢度有完整介紹：[峇里島烏布叢林馬力歐賽車 Jungle Cart Bali](/blog/ubud-jungle-cart-adventure/)
+可以睇吓呢度有完整介紹：[峇里島烏布叢林馬力歐賽車 Jungle Cart Bali](/zh-hk/blog/ubud-jungle-cart-adventure/)
 
 🏎️🏎️ [Jungle Cart預約體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=880814&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F121396-ubud-jungle-cart-experience-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbeaf072d1f)
 

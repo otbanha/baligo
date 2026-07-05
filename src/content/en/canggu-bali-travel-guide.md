@@ -28,7 +28,7 @@ _srcHash: f0aaec82a5e903cf867754ed83a9f030
 
 In our previous Canggu guide, we gave an overview of what Canggu is like and why it has become the trendiest spot in Bali. Check out our introduction here:
 
-[【Must-Visit in Bali】Canggu Guide: The Perfect Blend of Surfing, Food, and Trendiness!](/blog/canggu-surf-food-guide/)
+[【Must-Visit in Bali】Canggu Guide: The Perfect Blend of Surfing, Food, and Trendiness!](/en/blog/canggu-surf-food-guide/)
 
 ## Canggu Guide Video
 
@@ -109,7 +109,7 @@ By the end of 2021, this shortcut was repaved with asphalt and seemed a bit wide
 The third main thoroughfare, Jl. Padang Lingjong, connects to Echo Beach. Recently, many shops and accommodations have concentrated in the area near the beach. La Brisa Beach Club, located by the sea, requires online reservations for entry. This beach club is styled uniquely, making it hard not to fall in love with its casual dining atmosphere. The club features driftwood floors and structures, abundant coconut trees, and a swimming pool suitable for children, offering a distinct charm.
 
 Further reading:
-[La Brisa: How Did It Stand Out Among Tens of Thousands of Restaurants as 'The Most Beautiful Restaurant in Bali'?](/blog/canggu-la-brisa-restaurant-guide/)
+[La Brisa: How Did It Stand Out Among Tens of Thousands of Restaurants as 'The Most Beautiful Restaurant in Bali'?](/en/blog/canggu-la-brisa-restaurant-guide/)
 
 ![Jl. Padang Lingjong (Padang Lingjong Road)](https://images.gobaligo.id/vocus/vocus_ba0b7ff191ef1623871c136afd30e67a.jpg)
 
@@ -151,17 +151,17 @@ Ready to embark on an adventure in Canggu? Below is a link to an exciting map of
 
 ![Canggu吃喝玩樂攻略](https://images.gobaligo.id/vocus/vocus_c0262b12ea0d70b991550ffe89b65cd2.jpg)
 
-[Canggu Travel Guide](/blog/canggu-guide/)
+[Canggu Travel Guide](/en/blog/canggu-guide/)
 
 #### Further Reading
 
-> [The Ultimate Canggu Adventure Map: 100 Must-Visit Spots in Canggu｜2026 Guide](/blog/canggu-guide/)
+> [The Ultimate Canggu Adventure Map: 100 Must-Visit Spots in Canggu｜2026 Guide](/en/blog/canggu-guide/)
 
-> [Top 11 Accommodations in Canggu You Can't Miss](/blog/canggu-top-hotels-guide/)
+> [Top 11 Accommodations in Canggu You Can't Miss](/en/blog/canggu-top-hotels-guide/)
 
-> [16 Private Pool Villas in Canggu: Bali Villas You Can't Miss](/blog/canggu-villas-guide/)
+> [16 Private Pool Villas in Canggu: Bali Villas You Can't Miss](/en/blog/canggu-villas-guide/)
 
-> [Tanah Lot Temple Guide & Tide Schedule](/blog/bali-tanah-lot-guide/)
+> [Tanah Lot Temple Guide & Tide Schedule](/en/blog/bali-tanah-lot-guide/)
 
 Whether you're looking to bask in the sun on the beach, surf, take photos, savor delicious food, shop, or experience exotic cultures, Canggu has something for everyone. Whether you're traveling solo, with family and friends, or enjoying a romantic getaway with your loved one, Canggu promises to deliver an unforgettable journey.
 

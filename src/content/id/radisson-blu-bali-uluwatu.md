@@ -79,9 +79,9 @@ Selain pemandangan dan makanan yang kece, Radisson Blu Hotel di Uluwatu, Bali ju
 
 Radisson Blu Hotel di Uluwatu, Bali berjarak sekitar **60 menit berkendara** dari Bandara Bali. Hotel menyediakan layanan antar-jemput bandara, bikin perjalananmu makin praktis. Selain itu, ada juga parkir gratis buat tamu yang bawa mobil sendiri.
 
-Di sekitar hotel ada banyak landmark dan tempat wisata terkenal yang bisa kamu jelajahi. Pertama, [**Pura Uluwatu**](/blog/uluwatu-temple-travel-guide/) ada di dekat hotel. Ini pura kuno dan sakral, bagian dari budaya Bali. Kamu bisa merasakan suasana religius di sini, sambil menikmati arsitektur tradisional dan karya seni.
+Di sekitar hotel ada banyak landmark dan tempat wisata terkenal yang bisa kamu jelajahi. Pertama, [**Pura Uluwatu**](/id/blog/uluwatu-temple-travel-guide/) ada di dekat hotel. Ini pura kuno dan sakral, bagian dari budaya Bali. Kamu bisa merasakan suasana religius di sini, sambil menikmati arsitektur tradisional dan karya seni.
 
-Selain Pura Uluwatu, Radisson Blu Hotel di Uluwatu juga dekat dengan beberapa pantai cantik. [**Pantai Pandawa**](/blog/pandawa-beach-traffic-policy/) dan [**Pantai Padang Padang**](/blog/bali-hidden-beaches-guide/) adalah dua pantai yang populer banget, dengan air jernih dan pasir lembut. Kamu bisa berjemur, berselancar, atau sekadar santai di sini. Pantai-pantai ini terkenal dengan pemandangan spektakuler dan suasananya yang romantis.
+Selain Pura Uluwatu, Radisson Blu Hotel di Uluwatu juga dekat dengan beberapa pantai cantik. [**Pantai Pandawa**](/id/blog/pandawa-beach-traffic-policy/) dan [**Pantai Padang Padang**](/id/blog/bali-hidden-beaches-guide/) adalah dua pantai yang populer banget, dengan air jernih dan pasir lembut. Kamu bisa berjemur, berselancar, atau sekadar santai di sini. Pantai-pantai ini terkenal dengan pemandangan spektakuler dan suasananya yang romantis.
 
 ### **Kesimpulan**
 
@@ -123,15 +123,15 @@ Pengalaman SPA di sini adalah salah satu pijat terbaik dalam hidupku, bikin rile
 
 ![烏魯瓦圖吃喝玩樂推薦](https://images.gobaligo.id/vocus/vocus_b87d214b48bfe1cb8c5a45f688955404.jpg)
 
-[Rekomendasi Kuliner & Wisata Uluwatu](/blog/uluwatu-guide/)
+[Rekomendasi Kuliner & Wisata Uluwatu](/id/blog/uluwatu-guide/)
 
 Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal dengan tebing-tebing dramatis, pantai-pantai memesona, dan spot surfing yang kece abis. Suasananya romantis banget ala resort tropis — tempat yang pas buat nikmatin sunset dan me-time yang santai.
 
-Kalau kamu juga mau nginep di Uluwatu, cek aja rekomendasi lengkap kami soal tempat makan, main, dan seru-seruan di bawah ini biar liburanmu makin seru: [【Panduan Uluwatu】50 Rekomendasi Tempat Makan & Main di Uluwatu](/blog/uluwatu-guide/)
+Kalau kamu juga mau nginep di Uluwatu, cek aja rekomendasi lengkap kami soal tempat makan, main, dan seru-seruan di bawah ini biar liburanmu makin seru: [【Panduan Uluwatu】50 Rekomendasi Tempat Makan & Main di Uluwatu](/id/blog/uluwatu-guide/)
 
 ## Referensi Penginapan Lain di Uluwatu:
 
-- [Rekomendasi 13 Vila & Resort Tepi Laut di Uluwatu dengan Pemandangan Laut yang Wajib Kamu Coba](/blog/uluwatu-bali-villas-resorts-guide/)
-- [Pengalaman Liburan di Luar Ekspektasi: Panduan Lengkap Private Jet Villa di Bali](/blog/bali-private-jet-villa-guide/)
-- [Alila Villas Uluwatu｜Kolam Renang Tanpa Batas Terbaik Dunia ✧ Tempat Pernikahan Favorit Selebriti](/blog/alila-villas-uluwatu-bali/)
-- [Review Mendalam Renaissance Bali Uluwatu Resort & Rekomendasi untuk Keluarga](/blog/renaissance-bali-uluwatu-resort/)
+- [Rekomendasi 13 Vila & Resort Tepi Laut di Uluwatu dengan Pemandangan Laut yang Wajib Kamu Coba](/id/blog/uluwatu-bali-villas-resorts-guide/)
+- [Pengalaman Liburan di Luar Ekspektasi: Panduan Lengkap Private Jet Villa di Bali](/id/blog/bali-private-jet-villa-guide/)
+- [Alila Villas Uluwatu｜Kolam Renang Tanpa Batas Terbaik Dunia ✧ Tempat Pernikahan Favorit Selebriti](/id/blog/alila-villas-uluwatu-bali/)
+- [Review Mendalam Renaissance Bali Uluwatu Resort & Rekomendasi untuk Keluarga](/id/blog/renaissance-bali-uluwatu-resort/)

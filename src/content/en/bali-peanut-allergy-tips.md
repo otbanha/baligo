@@ -39,4 +39,4 @@ Most importantly, to avoid accidental consumption, don't forget to carry emergen
 
 Before reading our **"Ultimate Bali Travel Guide"**, we sincerely invite you to subscribe to our YouTube channel **"Jason Indonesia"** for more visual experience sharing. [Click here](http://bit.ly/youtube-jason) to subscribe now.
 
-After subscribing, you can immediately continue reading our detailed guide to deeply explore every exciting corner of Bali. Click **"**[**Ultimate Bali Travel Guide**](/blog/2023-08-22-64e37f2dfd89780001b1f776/)**"** to start preparing for your Bali trip!
+After subscribing, you can immediately continue reading our detailed guide to deeply explore every exciting corner of Bali. Click **"**[**Ultimate Bali Travel Guide**](/en/blog/2023-08-22-64e37f2dfd89780001b1f776/)**"** to start preparing for your Bali trip!

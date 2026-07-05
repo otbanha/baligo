@@ -48,7 +48,7 @@ update: 2026/06/06
 
 Canggu（發音為：坎古），呢個位於峇里島西南海岸嘅迷人小鎮，已經迅速成為全球旅行者嘅熱門目的地。以其悠閒嘅氛圍、豐富嘅文化同壯觀嘅自然景觀，Canggu 吸引咗各類遊客，包括衝浪愛好者、數碼遊牧民族同埋尋求奢華度假嘅旅客。呢度有寬闊嘅黑沙海灘、綠意盎然嘅稻田同埋數唔清嘅潮流咖啡館同餐廳，為每位訪客帶嚟獨特而難忘嘅體驗。
 
-想知道坎古嘅迷人之處嗎？唔好錯過我哋嘅攻略：[峇里島 Canggu 完美探險地圖：100 個坎古必遊景點｜2026 指南](/blog/canggu-guide/)
+想知道坎古嘅迷人之處嗎？唔好錯過我哋嘅攻略：[峇里島 Canggu 完美探險地圖：100 個坎古必遊景點｜2026 指南](/zh-hk/blog/canggu-guide/)
 
 ![長谷攻略裡有景點、餐廳、住宿、SPA推薦](https://images.gobaligo.id/vocus/vocus_55f2f31688753fb3500e30ac5c809196.jpg)
 
@@ -613,9 +613,9 @@ Domisili Villa Canggu Bali By Fays Hospitality 以寬敞嘅設施、全新傢俬
 
 # 長谷區其他住宿選擇
 
-- 渡假村型：[峇里島住宿推薦：Canggu Top 10 你不能錯過嘅住宿推薦](/blog/canggu-top-hotels-guide/)
-- 親子度假：[推薦峇里島13家庭親子度假村｜庫塔、水明漾、長谷、金巴蘭、烏魯瓦圖適合家庭度假、親子放鬆嘅最佳選擇](/blog/bali-family-resorts-kids-club/)
-- 家庭住宿：長谷嘅家庭villa請參考[三房/四房/五房以上嘅家庭別墅住宿推薦](/blog/bali-group-villa-stay/)
+- 渡假村型：[峇里島住宿推薦：Canggu Top 10 你不能錯過嘅住宿推薦](/zh-hk/blog/canggu-top-hotels-guide/)
+- 親子度假：[推薦峇里島13家庭親子度假村｜庫塔、水明漾、長谷、金巴蘭、烏魯瓦圖適合家庭度假、親子放鬆嘅最佳選擇](/zh-hk/blog/bali-family-resorts-kids-club/)
+- 家庭住宿：長谷嘅家庭villa請參考[三房/四房/五房以上嘅家庭別墅住宿推薦](/zh-hk/blog/bali-group-villa-stay/)
 
  BLOCK0 
  BLOCK1 

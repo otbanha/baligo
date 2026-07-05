@@ -40,7 +40,7 @@ Dokumentasi langsung dari 'Let's Play and Eat Ho Chi Minh City'
 
 ## Kenapa Menginap di Kuta
 
-Meskipun Kuta bukan tempat yang cocok untuk menginap lama (baca: [Tinggal di sini paling nyaman di Bali, tapi justru paling tidak direkomendasikan! Apa kelebihan dan kekurangan area Kuta, Bali?](/blog/kuta-bali-accommodation-pros-cons/)), kenapa kami memilih menginap di Kuta setelah turun pesawat? Ada empat alasan:
+Meskipun Kuta bukan tempat yang cocok untuk menginap lama (baca: [Tinggal di sini paling nyaman di Bali, tapi justru paling tidak direkomendasikan! Apa kelebihan dan kekurangan area Kuta, Bali?](/id/blog/kuta-bali-accommodation-pros-cons/)), kenapa kami memilih menginap di Kuta setelah turun pesawat? Ada empat alasan:
 
 1. Karena paling dekat dengan bandara, begitu turun pesawat bisa langsung bersantai. Mengingat kami bepergian dengan dua anak kecil, memilih menginap di Kuta yang paling dekat dengan bandara bisa meminimalkan kelelahan setelah penerbangan panjang, sehingga seluruh keluarga bisa cepat rileks dan mulai menikmati keindahan Bali.
 2. Sesuai dengan rencana perjalanan kami ke Jimbaran dan Uluwatu di hari kedua. Lokasi Kuta sangat strategis, tidak hanya dekat bandara tapi juga memudahkan akses ke tempat wisata lain di Bali, seperti Jimbaran dan Uluwatu. Kami berencana ke dua tempat itu di hari kedua, jadi menginap di Kuta bisa menghemat waktu perjalanan dan lebih menikmati momen indah selama liburan.
@@ -141,7 +141,7 @@ Kita referensi dari konten 'Jie Indonesia'. Kalau kamu tertarik mampir ke sini, 
 
 ![雜記&心得](https://images.gobaligo.id/vocus/vocus_21d540de87f478b39fd7f1dee26b368a.jpg)
 
-Mau info lebih lengkap soal Kuta? [Klik di sini](/blog/2023-12-13-657598bdfd8978000120fe20/)
+Mau info lebih lengkap soal Kuta? [Klik di sini](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 ## Rekomendasi Driver Sewa Mobil di Bali
 
@@ -197,10 +197,10 @@ Ini episode pertama dari serial cerita. Hari ini kita makan kenyang 😋, tidur 
 
 Serial sudah tamat:
 
-- [**Day 1: Nginep di dalam mall! Tips menginap keluarga 2 dewasa 2 anak**](/blog/bali-family-trip-aloft-kuta/)
-- [**Day 2: GWK Garuda Wisnu Kencana, Beach Club gratis di Uluwatu, Pura Uluwatu, Tari Kecak Uluwatu**](/blog/bali-family-trip-gwk-beach-club/)
-- [**Day 3-7: Lima hari di Ubud: rekomendasi kuliner, tempat wisata, penginapan, eksplorasi gunung berapi**](/blog/bali-family-trip-ubud-guide/)
-- [**Day 8: Cara seru main di Bali Safari + tips nginep**](/blog/bali-safari-night-stay/)
+- [**Day 1: Nginep di dalam mall! Tips menginap keluarga 2 dewasa 2 anak**](/id/blog/bali-family-trip-aloft-kuta/)
+- [**Day 2: GWK Garuda Wisnu Kencana, Beach Club gratis di Uluwatu, Pura Uluwatu, Tari Kecak Uluwatu**](/id/blog/bali-family-trip-gwk-beach-club/)
+- [**Day 3-7: Lima hari di Ubud: rekomendasi kuliner, tempat wisata, penginapan, eksplorasi gunung berapi**](/id/blog/bali-family-trip-ubud-guide/)
+- [**Day 8: Cara seru main di Bali Safari + tips nginep**](/id/blog/bali-safari-night-stay/)
 
 Menurut kamu itinerary yang disusun oleh kakak dari Vietnam ini seru banget? Yuk, rencanakan liburan bebasmu ke Bali sekarang! Jangan lupa juga kirim itinerary kamu ke grup ya!
 

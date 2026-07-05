@@ -29,7 +29,7 @@ Tarian Api Kecak (Kecak Fire Dance) yang eksklusif di Bali
 
 **Referensi Cepat:**
 
-[6 Lokasi Wajib Coba Tarian Api Kecak (Kecak Fire Dance) di Bali: Pesta Visual dan Budaya](/blog/bali-kecak-fire-dance-locations/)
+[6 Lokasi Wajib Coba Tarian Api Kecak (Kecak Fire Dance) di Bali: Pesta Visual dan Budaya](/id/blog/bali-kecak-fire-dance-locations/)
 
 Jumlah wisatawan asing pada November 2024 mencapai 1,09 juta orang, turun 8,58% dibanding Oktober, sejalan dengan tren musim sepi. Namun, data final tahun 2024 masih perlu menunggu satu bulan untuk dihitung sepenuhnya. Yang pasti, saat data final dirilis awal Februari 2025, total wisatawan di seluruh Indonesia akan melampaui 13 juta orang.
 
@@ -47,7 +47,7 @@ Biasanya sepi dan santai, Pantai Sanur ternyata penuh banget pas liburan Natal-T
 
 **Referensi Cepat:**
 
-[Rekomendasi Liburan Keluarga: Peta Panduan Sanur｜45+ Tempat Makan, Main, SPA, dan Penginapan](/blog/sanur-guide/)
+[Rekomendasi Liburan Keluarga: Peta Panduan Sanur｜45+ Tempat Makan, Main, SPA, dan Penginapan](/id/blog/sanur-guide/)
 
 ---
 
@@ -63,7 +63,7 @@ Suasana ramai di Desa Penglipuran yang super khas pas liburan
 
 **Referensi Cepat:**
 
-Apa sih keunikan Desa Penglipuran? Cek [Panduan Lengkap Ubud Bali 2025](/blog/ubud-guide/)
+Apa sih keunikan Desa Penglipuran? Cek [Panduan Lengkap Ubud Bali 2025](/id/blog/ubud-guide/)
 
 ---
 

@@ -114,7 +114,7 @@ _srcHash: 7171381a39929c7404569f4914fc32b0
 - 不要搭廉航，行李重量与尺寸限制会让你哭
 - 藤编篮、吊灯这类立体物品，务必确认**包装后能否托运**
 
-> [如何从巴厘岛运送大型家具回国? 空运/海运/装柜运送攻略](/blog/bali-furniture-shipping-guide/)
+> [如何从巴厘岛运送大型家具回国? 空运/海运/装柜运送攻略](/zh-cn/blog/bali-furniture-shipping-guide/)
 
 {{block:伴手禮}}
 

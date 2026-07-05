@@ -33,7 +33,7 @@ _srcHash: 36fdef914dfa74261cbabe78e783f092
 
 Bali, surga yang indah ini, selalu menarik wisatawan dari seluruh dunia. Kalau kamu lagi rencana ke sini, entah pertama kali atau balik lagi, milih tempat nginep yang pas bakal jadi bagian penting dari perjalananmu. Nah, hari ini kita bakal jelajah kawasan premium Bali, yaitu Seminyak, dan kasih bocoran 10 pilihan penginapan yang ramah di kantong tapi tetap berkualitas.
 
-Kawasan Seminyak di Bali terkenal dengan air lautnya yang biru jernih, pasir pantai keemasan, dan sunset yang memukau. Di sini nggak cuma ada pemandangan pantai yang kece, tapi juga jalanan yang rame dan banyak aktivitas seru. Jangan lupa cek [panduan Seminyak](/blog/seminyak-guide/) kami yang berisi info lebih dari 100 spot, ya!
+Kawasan Seminyak di Bali terkenal dengan air lautnya yang biru jernih, pasir pantai keemasan, dan sunset yang memukau. Di sini nggak cuma ada pemandangan pantai yang kece, tapi juga jalanan yang rame dan banyak aktivitas seru. Jangan lupa cek [panduan Seminyak](/id/blog/seminyak-guide/) kami yang berisi info lebih dari 100 spot, ya!
 
 Artikel **'Kawasan Premium Bali: 10 Rekomendasi Penginapan Murah di Seminyak'** ini bakal ngenalin pilihan-pilihan yang udah diseleksi dengan teliti. Penginapan ini nggak cuma murah, tapi juga punya kamar nyaman, fasilitas oke, dan pelayanan ramah, biar kamu bisa eksplor Bali sambil tetap istirahat dengan maksimal.
 

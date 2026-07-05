@@ -59,7 +59,7 @@ https://youtube.com/shorts/6CLaiuAloo8
 - [Kudeta梳化床預約](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1004610&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F135291-kudeta-beach-club-in-seminyak-bali%2F)
 - [SugarSand泳池餐廳](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1004610&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F61915-sugarsand-bali%2F)
 
-> 延伸閱讀：[峇里島20個免費入場嘅沙灘俱樂部 享受比基尼、音樂、泳池、夕陽美景](/blog/bali-beach-clubs-free-entry-list/)
+> 延伸閱讀：[峇里島20個免費入場嘅沙灘俱樂部 享受比基尼、音樂、泳池、夕陽美景](/zh-hk/blog/bali-beach-clubs-free-entry-list/)
 
 ## Shooter Bali享受全家嘅歡樂時光（[地圖指南](https://www.google.com/maps/d/u/0/edit?mid=1il-sYTIMNMSVrVWqSnUPgdlsbCfMPP0&usp=sharing)🗺️）
 
@@ -71,7 +71,7 @@ Shooter Bali係一間位於Seminyak嘅運動吧，提供多種遊戲同活動，
 
 ![](https://images.gobaligo.id/images/2026-03/1774232727581-2e78956f-0ba9-481f-9368-5c79e3c94beb.jpg)
 
-Mookiland Park 係一個專為家庭設計嘅遊樂場，佔地 5,000 平方米。Mookiland Park 提供好多種遊樂設施，包括攀石牆、障礙賽道同充氣城堡，每個細路都搵到適合自己嘅遊戲項目。呢啲設施唔單止幫細路放電，仲可以令佢哋玩到唔捨得走。詳細介紹同優惠飛[請睇呢度](/blog/mookiland-park-bali-family/)。
+Mookiland Park 係一個專為家庭設計嘅遊樂場，佔地 5,000 平方米。Mookiland Park 提供好多種遊樂設施，包括攀石牆、障礙賽道同充氣城堡，每個細路都搵到適合自己嘅遊戲項目。呢啲設施唔單止幫細路放電，仲可以令佢哋玩到唔捨得走。詳細介紹同優惠飛[請睇呢度](/zh-hk/blog/mookiland-park-bali-family/)。
 
 ## 購物樂趣（[地圖指南](https://www.google.com/maps/d/u/0/edit?mid=1il-sYTIMNMSVrVWqSnUPgdlsbCfMPP0&usp=sharing)🗺️）
 
@@ -261,16 +261,16 @@ https://youtu.be/uFv_4Wr6YsI
 **> ▶最完整嘅**[**水明漾親子友善住宿推薦**](https://bit.ly/bali_with_kids)
 水明漾親子友善住宿，共創難忘親子回憶！
 
-**> ▶10間**[**水明漾平價住宿推薦**](/blog/seminyak-budget-hotels-guide/)
+**> ▶10間**[**水明漾平價住宿推薦**](/zh-hk/blog/seminyak-budget-hotels-guide/)
 水明漾旅遊精省達人睇呢篇
 
- \*\*> ▶峇里島住宿推薦：\*\*[**水明漾嘅濱海精緻主題住宿指南**](/blog/seminyak-beach-resorts-guide/)
+ \*\*> ▶峇里島住宿推薦：\*\*[**水明漾嘅濱海精緻主題住宿指南**](/zh-hk/blog/seminyak-beach-resorts-guide/)
 想住好啲嘅濱海渡假村就睇呢篇
 
-**> ▶水明漾villa推薦：**[**水明漾21間令人驚艷嘅峇里島祕密花園**](/blog/2024-04-04-660e6e92fd89780001e6047e/)
+**> ▶水明漾villa推薦：**[**水明漾21間令人驚艷嘅峇里島祕密花園**](/zh-hk/blog/2024-04-04-660e6e92fd89780001e6047e/)
 水明漾超靚嘅私人泳池別墅
 
-**> ▶水明漾輕奢平價villa推薦：**[**唔超過100美元嘅平價峇里島villa推薦**](/blog/seminyak-budget-villas-guide/)
+**> ▶水明漾輕奢平價villa推薦：**[**唔超過100美元嘅平價峇里島villa推薦**](/zh-hk/blog/seminyak-budget-villas-guide/)
 平價享受私人泳池輕奢別墅
 
 {{block:住宿}}
@@ -281,7 +281,7 @@ https://youtu.be/uFv_4Wr6YsI
 
 水明漾嘅夜生活充滿活力，係峇里島上最受歡迎嘅夜間聚集地之一。呢度嘅夜店氛圍多樣，無論你鍾意熱鬧嘅派對定係擠滿人嘅舞池，都可以喺水明漾搵到理想嘅去處。隨住夜幕降臨，街道燈火通明，音樂聲四起，吸引住來自世界各地嘅遊客嚟狂歡。從國際DJ到現場音樂表演，水明漾嘅夜生活充滿節奏同激情，適合各類型嘅夜貓子，帶嚟難忘嘅派對體驗。呢度有五間必訪嘅夜店，令你嘅峇里島之夜更加精彩！
 
-▶[峇里島水明漾五大夜店推介：等你玩到盡嘅夜生活體驗！](/blog/seminyak-nightclubs-guide/)
+▶[峇里島水明漾五大夜店推介：等你玩到盡嘅夜生活體驗！](/zh-hk/blog/seminyak-nightclubs-guide/)
 
 ## 租大型浮床影靚相
 

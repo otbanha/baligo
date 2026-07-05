@@ -202,7 +202,7 @@ Selain nginepnya, Ubud juga basecamp paling oke buat ngerasain santainya vibe Ba
 
 ### Baca Juga:
 
-1. [Panduan Lengkap Ubud Bali 2026: 100 Cara Kenal Lebih Dalam Pesona Ubud](/blog/ubud-guide/)
-2. [Rekomendasi Aktivitas Keluarga di Bali: 55 Kegiatan Seru di Ubud Buat Anak-anak Paling Santai!](/blog/ubud-with-kids-guide/)
-3. [【Akomodasi Ubud Bali】28 Penginapan Unik di Ubud, Nikmati Keindahan Alam Pegunungan Bali!](/blog/ubud-villas-pool-guide/)
-4. [【Rekomendasi Penginapan Ubud】Surga Private Pool Villa: 20 Villa Bali yang Bikin Tercengang di Ubud](/blog/ubud-villa-pool-guide/)
+1. [Panduan Lengkap Ubud Bali 2026: 100 Cara Kenal Lebih Dalam Pesona Ubud](/id/blog/ubud-guide/)
+2. [Rekomendasi Aktivitas Keluarga di Bali: 55 Kegiatan Seru di Ubud Buat Anak-anak Paling Santai!](/id/blog/ubud-with-kids-guide/)
+3. [【Akomodasi Ubud Bali】28 Penginapan Unik di Ubud, Nikmati Keindahan Alam Pegunungan Bali!](/id/blog/ubud-villas-pool-guide/)
+4. [【Rekomendasi Penginapan Ubud】Surga Private Pool Villa: 20 Villa Bali yang Bikin Tercengang di Ubud](/id/blog/ubud-villa-pool-guide/)

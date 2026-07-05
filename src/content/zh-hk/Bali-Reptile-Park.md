@@ -38,7 +38,7 @@ _srcHash: c1e01c21b9aee71fa6e15fdbfda57ffc
 
 呢個唔單止係一個動物園，佢更加似一座濃縮咗印尼群島爬蟲生態嘅活體博物館。仲正嘅係，佢**就喺峇里島鳥園（Bali Bird Park）隔籬**，兩個園區共用同一個停車場，行幾步就可以轉換場景，由「爬蟲嘅沉默世界」瞬間踏入「羽族嘅繽紛天堂」。時間安排得宜，你絕對可以一次玩晒兩個風格迥異、但同樣精彩萬分嘅動物王國。
 
-➡ 更多峇里島親子樂園推薦：[峇里島十大親子樂園完全攻略](/blog/top-10-kids-attractions-in-bali/)
+➡ 更多峇里島親子樂園推薦：[峇里島十大親子樂園完全攻略](/zh-hk/blog/top-10-kids-attractions-in-bali/)
 
 ## 點解呢度值得專程去？
 
@@ -136,7 +136,7 @@ _srcHash: c1e01c21b9aee71fa6e15fdbfda57ffc
 【晏晝】峇里島鳥園（Bali Bird Park）－ 建議留 3-4 個鐘
 食完午餐，直接行過去隔籬嘅鳥園！呢度地方好大，有超過 **250 種、成千隻**嚟自印尼群島同世界各地嘅雀仔。你可以行入巨型鳥舍，等可愛嘅犀鳥、鸚鵡喺你頭頂飛過；仲唔可以錯過每日固定時段嘅**鸚鵡表演**同**猛禽表演**，真係好精彩！鳥園嘅景觀都好有熱帶風情，瀑布、蓮花池、傳統峇里島建築，隨便影都似明信片。
 
-詳細介紹：[Bali Bird Park 峇里島鳥園終極攻略：珍稀鳥種、互動活動與生態保育嘅奇幻旅程](https://gobaligo.id/blog/bali-bird-park-guide/)
+詳細介紹：[Bali Bird Park 峇里島鳥園終極攻略：珍稀鳥種、互動活動與生態保育嘅奇幻旅程](https://gobaligo.id/zh-hk/blog/bali-bird-park-guide/)
 
 > 網上買飛：[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D9f20741f36) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-bird-park-80525/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -234,6 +234,6 @@ _srcHash: c1e01c21b9aee71fa6e15fdbfda57ffc
 
 > 網上買飛：[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F37955-bali-reptile-park-ticket%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7db7e3e24e) [Kkday](https://www.kkday.com/zh-tw/product/593869?qs=Bali+Reptile+Park&cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-reptile-park-128527409/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
-➡ 更多峇里親子樂園推介：[峇里十大親子樂園完全攻略](/blog/top-10-kids-attractions-in-bali/)
+➡ 更多峇里親子樂園推介：[峇里十大親子樂園完全攻略](/zh-hk/blog/top-10-kids-attractions-in-bali/)
 
 {{block:戶外}}

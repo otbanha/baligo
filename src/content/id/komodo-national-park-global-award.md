@@ -41,7 +41,7 @@ Taman nasional ini menawarkan banyak pilihan bagi pecinta olahraga air. Keanekar
 
 Redaksi *Time Out Travel* secara khusus menyebutkan bahwa mengunjungi Komodo bukan hanya soal kenikmatan visual, tetapi juga pengalaman langka menjelajahi harta karun ekologi. UNESCO telah menetapkannya sebagai Warisan Dunia, mengakui pemandangan alam dan ekosistem uniknya. Musim terbaik untuk berkunjung adalah April hingga Oktober, saat cuaca cerah dan laut tenang, paling cocok untuk aktivitas menyelam.
 
-▶▶▶▶ Pengenalan lebih lanjut, cara ke Pulau Komodo, dan apa yang bisa dilakukan? Lihat: [Panduan Pulau Komodo](/blog/komodo-island-labuan-bajo-travel/)
+▶▶▶▶ Pengenalan lebih lanjut, cara ke Pulau Komodo, dan apa yang bisa dilakukan? Lihat: [Panduan Pulau Komodo](/id/blog/komodo-island-labuan-bajo-travel/)
 
 ---
 
@@ -79,6 +79,6 @@ Pulau Komodo menyapa dengan pesona pantai pasir pinknya yang romantis, keganasan
 
 Sebelum tempat tersembunyi ini keburu ramai, pesan tiket perjalananmu ke Komodo! Baik kamu penyelam hardcore, fotografer sejati, atau cuma pengin kabur dari hiruk-pikuk kota, setiap jengkal tanah dan ombak di sini berbisik: 「Kamu layak dapat petualangan ajaib yang nggak bakal terlupakan ini!」
 
-▶▶▶▶**Mau tahu lebih lanjut, cara ke Pulau Komodo, dan apa yang bisa dilakukan? Cek di sini:** [Panduan Pulau Komodo](/blog/komodo-island-labuan-bajo-travel/)
+▶▶▶▶**Mau tahu lebih lanjut, cara ke Pulau Komodo, dan apa yang bisa dilakukan? Cek di sini:** [Panduan Pulau Komodo](/id/blog/komodo-island-labuan-bajo-travel/)
 
 ![Kamu siap buat petualangan epik?](https://images.gobaligo.id/vocus/vocus_5a16ff247d244e1682e7443541ba541b.jpg)

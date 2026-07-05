@@ -39,9 +39,9 @@ Gubernur Bali, **Wayan Koster**, menegaskan bahwa aturan baru ini bertujuan mema
 2. - Saat masuk ke pura atau melihat benda suci agama, harus bersikap sopan dan tidak boleh menodai.
    - Kalau ada upacara adat setempat, patuhi tata krama dan jangan mengganggu.
 3. **Gunakan Pemandu Wisata Resmi**
-4. - Saat jalan-jalan di Bali, harus ditemani pemandu bersertifikat (atau [sopir sewaan profesional](/blog/bali-private-car-drivers-guide/)) supaya kamu paham adat istiadat dan aturan lingkungan setempat.
+4. - Saat jalan-jalan di Bali, harus ditemani pemandu bersertifikat (atau [sopir sewaan profesional](/id/blog/bali-private-car-drivers-guide/)) supaya kamu paham adat istiadat dan aturan lingkungan setempat.
 5. **Aturan Transaksi dan Pembayaran**
-6. - Tukar valuta asing hanya di tempat resmi yang terdaftar (cek penjelasannya [di sini](/blog/bali-currency-exchange-guide/)).
+6. - Tukar valuta asing hanya di tempat resmi yang terdaftar (cek penjelasannya [di sini](/id/blog/bali-currency-exchange-guide/)).
    - Saat belanja, gunakan Rupiah Indonesia.
 
 ## **Aturan Lalu Lintas dan Perilaku**

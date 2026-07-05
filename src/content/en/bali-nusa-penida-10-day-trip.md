@@ -38,13 +38,13 @@ https://youtu.be/op78Dk8CjL4
 
 Our trip coincided with Bali's dry season, offering comfortable, pleasant weather without the humidity and stickiness of Taiwan. It was the peak of the tourist season, climbing toward its high point. Visiting during this time, while not the busiest, meant a relatively good travel experience without feeling overcrowded. However, we did encounter a few days of rain, missing out on some chances to watch sunsets and sunrises. These small regrets have become reasons for us to return in the future.
 
-> Read more: [What to do in Bali when it rains? 60 backup plans for rainy days in Bali](/blog/2026-bali-indoor-activities/)
+> Read more: [What to do in Bali when it rains? 60 backup plans for rainy days in Bali](/en/blog/2026-bali-indoor-activities/)
 
 Courtesy of the original author:
 
 https://youtu.be/C6zqIkgAAug
 
-> Read more: [Guide to three famous waterfalls near Ubud, Bali: Tegenungan, Kanto Lampo, and Tukad Cepung](/blog/ubud-waterfalls-guide/)
+> Read more: [Guide to three famous waterfalls near Ubud, Bali: Tegenungan, Kanto Lampo, and Tukad Cepung](/en/blog/ubud-waterfalls-guide/)
 
 ## Despite a Cold, He Still Planned with Care
 
@@ -56,17 +56,17 @@ Although Ketut fell ill on our second day in Bali, he still arranged for another
 
 Left: AMARTA Penida | Center: Angel's Billabong | Right: Broken Beach with sea view
 
-> Introduction to AMARTA Penida: [Food and Blue Skies: Top 10 Best Choices on Nusa Penida](/blog/nusa-penida-best-restaurants/)
+> Introduction to AMARTA Penida: [Food and Blue Skies: Top 10 Best Choices on Nusa Penida](/en/blog/nusa-penida-best-restaurants/)
 
 Our itinerary also included an island-hopping trip to Nusa Penida. Although Ketut couldn't personally accompany us, his team worked closely with local drivers. Throughout the three-day island-hopping trip, they repeatedly confirmed the route and schedule for each attraction—truly thoughtful!
 
-> Read more: [Accommodation Recommendations on Nusa Penida: 13 Top-Rated Hotels from Luxury to Budget](/blog/nusa-penida-hotels-guide/)
+> Read more: [Accommodation Recommendations on Nusa Penida: 13 Top-Rated Hotels from Luxury to Budget](/en/blog/nusa-penida-hotels-guide/)
 
 ![左：Kelingking Beach→ the origin of iPhone's wallpaper! 中：Tree House Bungalow 右：Diamond beach](https://images.gobaligo.id/vocus/vocus_54c623fcb2a8e1d4cc86bf0e3d31ded8.jpg)
 
 Left: Kelingking Beach—the origin of iPhone's wallpaper! Center: Tree House Bungalow Right: Diamond Beach
 
-> Read more: [【Bali - Nusa Penida Complete Guide】Map, Ferry, Accommodation, Transportation, Private Driver, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
+> Read more: [【Bali - Nusa Penida Complete Guide】Map, Ferry, Accommodation, Transportation, Private Driver, Activities, Photography, Attractions](/en/blog/nusa-penida-guide/)
 
 ## An Unexpected Encounter at Tanah Lot
 
@@ -74,7 +74,7 @@ During our visit to Tanah Lot (Pura Tanah Lot), we encountered many wild macaque
 
 https://youtu.be/oc0133x2FOU
 
-**Quick Reference:** [Must-Visit Attractions in Bali: Detailed Guide to Tanah Lot, Including Tides and Nearby Spots](/blog/bali-tanah-lot-guide/)
+**Quick Reference:** [Must-Visit Attractions in Bali: Detailed Guide to Tanah Lot, Including Tides and Nearby Spots](/en/blog/bali-tanah-lot-guide/)
 
 ##
 

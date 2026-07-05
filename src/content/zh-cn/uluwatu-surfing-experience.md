@@ -40,7 +40,7 @@ Suluban Beach的秘境沙滩
 
 ![带着两名辣妹乌鲁瓦图冲浪趣！](https://images.gobaligo.id/vocus/vocus_9468e44e84f0c2df36e48c0335495cf1.jpg)
 
-其他在视频中没有介绍到的「Tanah Barak Cliff」蓝色公路、11个乌鲁瓦图海滩俱乐部、16家美食餐厅推荐、两家亲子餐厅、四个购物点、各种精彩活动... 等介绍，请参考我们的「[【乌鲁瓦图攻略】乌鲁瓦图景点 50个吃喝玩乐推荐](/blog/uluwatu-guide/)」
+其他在视频中没有介绍到的「Tanah Barak Cliff」蓝色公路、11个乌鲁瓦图海滩俱乐部、16家美食餐厅推荐、两家亲子餐厅、四个购物点、各种精彩活动... 等介绍，请参考我们的「[【乌鲁瓦图攻略】乌鲁瓦图景点 50个吃喝玩乐推荐](/zh-cn/blog/uluwatu-guide/)」
 
 ![烏魯瓦圖的活動也很精彩！](https://images.gobaligo.id/vocus/vocus_9e0e86a47efb0c721d702157c2706225.jpg)
 
@@ -52,6 +52,6 @@ Suluban Beach的秘境沙滩
 
 点击这里观看更多巴厘岛精彩游记
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/zh-cn/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
 
 {{block:攻略}}

@@ -17,7 +17,7 @@ Update: 2026/07/03
 **Intinya**：
 
 - Desember 2024 lalu, pemerintah Indonesia sempat bahas rencana bebas visa buat 20 negara, Taiwan dan Hong Kong masuk daftar evaluasi.
-- Tapi di daftar bebas visa yang akhirnya dirilis, **Taiwan nggak masuk**. Cek daftar terbaru di [Indonesia Rilis 13 Negara Bebas Visa Terbaru](/blog/indonesia-visa-free-countries-list/)
+- Tapi di daftar bebas visa yang akhirnya dirilis, **Taiwan nggak masuk**. Cek daftar terbaru di [Indonesia Rilis 13 Negara Bebas Visa Terbaru](/id/blog/indonesia-visa-free-countries-list/)
 - Buat sekarang, turis Taiwan yang mau masuk Indonesia/Bali masih harus urus **Visa on Arrival (VoA) atau e-VOA**, biayanya Rp 500.000 (sekitar USD$16), berlaku 30 hari, bisa diperpanjang sekali.
 
 Menurut laporan Central News Agency, kabar 8 Desember lalu, Indonesia lagi pertimbangkan buat kasih bebas visa ke 20 negara, termasuk Taiwan.
@@ -36,7 +36,7 @@ Sesuai aturan yang berlaku sekarang, turis Taiwan atau Hong Kong bisa ngurus Vis
 
 Sebelum baca **panduan liburan Bali paling lengkap** kami, kami ajak kamu dulu subscribe YouTube channel **'Xiao Jie Indonesia'** yang isinya lebih banyak konten visual seru. [Klik di sini](http://bit.ly/youtube-jason) buat subscribe sekarang!
 
-Setelah subscribe, kamu bisa lanjut baca panduan detail kami, eksplor setiap sudut seru Bali. Klik **'**[**Panduan Liburan Bali Paling Lengkap**](/blog/2025-06-15-64e37f2dfd89780001b1f776/)**'** dan mulai rencanakan trip Bali kamu!
+Setelah subscribe, kamu bisa lanjut baca panduan detail kami, eksplor setiap sudut seru Bali. Klik **'**[**Panduan Liburan Bali Paling Lengkap**](/id/blog/2025-06-15-64e37f2dfd89780001b1f776/)**'** dan mulai rencanakan trip Bali kamu!
 
 ### Komunitas Kita
 

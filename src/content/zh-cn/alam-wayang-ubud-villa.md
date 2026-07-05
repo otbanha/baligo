@@ -42,9 +42,9 @@ Update: 2026/07/03
 
 📍 距离布兰科博物馆仅800米 🏛
 
-📍 10分钟车程即可抵达[乌布皇宫](/blog/ubud-royal-palace-tour-guide/)与市集 👑
+📍 10分钟车程即可抵达[乌布皇宫](/zh-cn/blog/ubud-royal-palace-tour-guide/)与市集 👑
 
-📍 步行可探索[天空步道](/blog/ubud-campuhan-ridge-walk/)与周边精品店 🧘‍♀️
+📍 步行可探索[天空步道](/zh-cn/blog/ubud-campuhan-ridge-walk/)与周边精品店 🧘‍♀️
 
 ### **奢华住宿体验：传统与现代的交融**
 
@@ -126,7 +126,7 @@ Alam Wayang Ubud 为旅人提供了全面而精致的设施，让每位访客都
 
 ![更多烏布villa介紹](https://images.gobaligo.id/vocus/vocus_a30b2c12d987f7f2f04e8d47f429fb9d.png)
 
-想要体验梦幻般的度假时光吗？🌴 乌布泳池别墅将带给你极致的奢华与放松！私人泳池、绝美风景、顶级设施，一切只为让你享受最完美的假期。立即点击[这里](/blog/ubud-villa-pool-guide/)，探索更多间我们推荐的乌布泳池别墅独特魅力，开启你的专属度假之旅！✨
+想要体验梦幻般的度假时光吗？🌴 乌布泳池别墅将带给你极致的奢华与放松！私人泳池、绝美风景、顶级设施，一切只为让你享受最完美的假期。立即点击[这里](/zh-cn/blog/ubud-villa-pool-guide/)，探索更多间我们推荐的乌布泳池别墅独特魅力，开启你的专属度假之旅！✨
 
  BLOCK0 
  BLOCK1 

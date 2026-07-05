@@ -70,9 +70,9 @@ Alila Uluwatu嘅夕陽靚得太唔真實！
 ***
 
 **快速參考：**
-[【峇里島奢華新定義】Alila Villas Uluwatu｜世界十大無邊際泳池✧明星御用婚禮勝地](/blog/alila-villas-uluwatu-bali/)
+[【峇里島奢華新定義】Alila Villas Uluwatu｜世界十大無邊際泳池✧明星御用婚禮勝地](/zh-hk/blog/alila-villas-uluwatu-bali/)
 
-[峇里島奢華療癒體驗：Alila Villas Uluwatu Spa 深度探索](/blog/alila-uluwatu-spa-experience/)
+[峇里島奢華療癒體驗：Alila Villas Uluwatu Spa 深度探索](/zh-hk/blog/alila-uluwatu-spa-experience/)
 
 ***
 

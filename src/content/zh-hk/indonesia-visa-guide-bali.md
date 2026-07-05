@@ -150,7 +150,7 @@ Update: 2026/07/03
 
 ### 6️⃣ 仲有其他申請問題？
 
-可以參考我哋整嘅[印尼/峇里島簽證指南](/blog/indonesia-bali-visa-evoa-faq/)
+可以參考我哋整嘅[印尼/峇里島簽證指南](/zh-hk/blog/indonesia-bali-visa-evoa-faq/)
 
 ## 📩 **即刻加入「峇里島旅遊攻略」，成為峇里島旅遊達人！**
 

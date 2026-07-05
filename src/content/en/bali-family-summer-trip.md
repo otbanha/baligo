@@ -54,7 +54,7 @@ Editor's note: You can also consider [Bali pool float rentals](https://affiliate
 
 A chance encounter with a baby turtle release at The Westin Resort Nusa Dua (Photo by Fish Lee)
 
-**Quick Reference:** [🐢 Complete Guide to Turtle Watching in Bali: From Kuta to Sanur, Must-Visit Turtle Conservation Spots for Families 🌴](/blog/bali-turtle-watching-guide/)
+**Quick Reference:** [🐢 Complete Guide to Turtle Watching in Bali: From Kuta to Sanur, Must-Visit Turtle Conservation Spots for Families 🌴](/en/blog/bali-turtle-watching-guide/)
 
 During our trip, we stayed one night at The Westin Resort Nusa Dua. Waking up in the morning, we happened upon a baby turtle release event—it felt incredibly meaningful. We had originally planned to visit the turtle center in Kuta, but this experience fulfilled that wish ahead of time, leaving us deeply satisfied.
 
@@ -74,7 +74,7 @@ It's worth noting that the Hard Rock Kids Club has different activities each day
 
 **More resort recommendations with Kids Club:**
 
-> [Top 18 Family-Friendly Resorts in Bali: Best Choices for Family Vacations and Relaxation in Kuta, Seminyak, Canggu, Jimbaran, and Uluwatu](/blog/bali-family-resorts-kids-club/)
+> [Top 18 Family-Friendly Resorts in Bali: Best Choices for Family Vacations and Relaxation in Kuta, Seminyak, Canggu, Jimbaran, and Uluwatu](/en/blog/bali-family-resorts-kids-club/)
 
 ## Delicious Food
 
@@ -90,7 +90,7 @@ Rafting, OMMA Day Club (Photo by Fish Lee)
 
 https://youtube.com/shorts/MmqfkXw211k
 
-**Quick Reference:** [Bali Rafting Guide (FAQ)](/blog/bali-rafting-ayung-telaga-waja/)
+**Quick Reference:** [Bali Rafting Guide (FAQ)](/en/blog/bali-rafting-ayung-telaga-waja/)
 
 This time, we also tried white-water rafting in Ubud, and it was a blast. With so many options, we simply asked our driver to book for us, and he found a well-reviewed operator. I recommend choosing the full 2-hour trip instead of the 1-hour one for a more complete experience. We had two younger kids with us—one just over 5 and the other 7—and they both had a great time. The rafting itself took about 2 hours. We left our villa in Ubud at 9 AM, and after a simple lunch included in the trip, we wrapped up around 1 PM. To reach the rafting starting point, you need to walk down a long flight of stairs, but our kids managed it at their own pace without any trouble.
 
@@ -100,15 +100,15 @@ This time, we also tried white-water rafting in Ubud, and it was a blast. With s
 
 > [Ayung River Rafting (with Transfers)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
 
-> Further Reading: [Omma Dayclub Guide & Official Site](/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+> Further Reading: [Omma Dayclub Guide & Official Site](/en/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 ## Diverse Travel Destinations
 
 This time, we explored three areas. Nusa Dua is probably the most laid-back spot, perfect for relaxation. Ubud, on the other hand, is known for its waterfalls, volcanoes, jungles, palaces, and temples—ideal for photography and immersing yourself in Balinese culture.
 
 > Further Reading:
-> [Nusa Dua & Tanjung Benoa: The Ultimate Guide to Bali’s Luxury Resort Area with 40 Accommodations, Dining, and Activities Map](/blog/nusa-dua-guide/)
-> [Complete Ubud Guide: 100 Ways to Dive Deep into Ubud’s Charm](/blog/ubud-guide/)
+> [Nusa Dua & Tanjung Benoa: The Ultimate Guide to Bali’s Luxury Resort Area with 40 Accommodations, Dining, and Activities Map](/en/blog/nusa-dua-guide/)
+> [Complete Ubud Guide: 100 Ways to Dive Deep into Ubud’s Charm](/en/blog/ubud-guide/)
 
 ![我們去了不少地方（Fish Lee提供）](https://images.gobaligo.id/vocus/vocus_f7f0019c1de282e44c12abadee71c3a0.jpg)
 
@@ -116,7 +116,7 @@ We visited quite a few places (Photo by Fish Lee)
 
 Although Kuta Beach was crowded, it wasn’t as bad as I imagined. The layers of waves were actually quite soothing.
 
-> Further Reading: [Kuta Travel Guide: 50 Must-Visit Attractions, Vibrant Nightlife, Dining, and Recommended Spas](/blog/2023-12-13-657598bdfd8978000120fe20/)
+> Further Reading: [Kuta Travel Guide: 50 Must-Visit Attractions, Vibrant Nightlife, Dining, and Recommended Spas](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 ## Fun Hair Braiding Experience
 
@@ -146,7 +146,7 @@ Driver Edy and the minibus we used during these days (provided by Fish Lee)
 
 Our private driver Edy and his team, along with our Chinese-speaking guide Ani, are highly recommended. The driver's driving was steady, and the guide spoke fluent Chinese, answering many of our questions while also being great with kids and photography. If you're unsure what to eat, they can offer excellent recommendations.
 
-Reviews of driver Edy and Chinese-speaking guide Ani [see here](/blog/bali-private-car-drivers-guide/)
+Reviews of driver Edy and Chinese-speaking guide Ani [see here](/en/blog/bali-private-car-drivers-guide/)
 
 This trip to Bali was truly delightful—the scenery, food, and service all left a deep impression on us. I hope these tips help with your travel plans.
 

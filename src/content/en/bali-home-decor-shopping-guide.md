@@ -120,7 +120,7 @@ Street Name: Jl. Raya Canggu
 - Avoid budget airlines - their strict baggage weight and size limits will make you cry
 - For 3D items like rattan baskets and pendant lights, make sure **they can be packed for checked luggage**
 
-> [How to Ship Large Furniture from Bali? Air/Sea/Container Shipping Guide](/blog/bali-furniture-shipping-guide/)
+> [How to Ship Large Furniture from Bali? Air/Sea/Container Shipping Guide](/en/blog/bali-furniture-shipping-guide/)
 
 {{block:伴手禮}}
 

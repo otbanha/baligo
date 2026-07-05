@@ -66,7 +66,7 @@ However, if you only have other currencies like US dollars or euros, you can sti
 
 To make tipping easy and hassle-free, it's recommended to have some Indonesian Rupiah cash on hand while in Bali. This way, you can offer local currency immediately when needed, without worrying about exchange rates or other issues.
 
-> [How much does a Bali trip cost? How much cash should you bring to Bali?](/blog/bali-travel-cash-budget-guide/)
+> [How much does a Bali trip cost? How much cash should you bring to Bali?](/en/blog/bali-travel-cash-budget-guide/)
 
 {{block:戶外}}
 
@@ -74,4 +74,4 @@ To make tipping easy and hassle-free, it's recommended to have some Indonesian R
 
 👈 **Back to the Ultimate Bali Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read the "2026 Bali Ultimate Travel Guide"](/blog/bali-ultimate-guide-2026/) and get everything sorted before you go.
+Want to see the complete beginner's guide? [Click here to read the "2026 Bali Ultimate Travel Guide"](/en/blog/bali-ultimate-guide-2026/) and get everything sorted before you go.

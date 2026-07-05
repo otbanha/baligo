@@ -35,7 +35,7 @@ _srcHash: 3dbefdccdb5e5c686043147367d198a1
 
 盡量減少頻繁更換住宿地點，避免因為一直喺度打包、移動而浪費時間，讓自己疲於奔命。
 
-反之，如果你唔怕打包行李、換住宿，又想要快速導覽峇里島精華，可以睇睇我哋嘅「[爽玩峇里島：交通、住宿、景點、美食、購物、SPA、夜生活，全方位規劃](/blog/bali-free-travel-guide/)」
+反之，如果你唔怕打包行李、換住宿，又想要快速導覽峇里島精華，可以睇睇我哋嘅「[爽玩峇里島：交通、住宿、景點、美食、購物、SPA、夜生活，全方位規劃](/zh-hk/blog/bali-free-travel-guide/)」
 
 ### 2. 只去「Instagram熱門景點」
 
@@ -47,7 +47,7 @@ _srcHash: 3dbefdccdb5e5c686043147367d198a1
 
 除咗去呢啲熱門景點，建議你探索一啲隱世嘅私房景點。例如可以參考：
 
-「[2026峇里島必去景點攻略，500個最新人氣景點一次蒐全](/blog/bali-top-500-attractions/)」
+「[2026峇里島必去景點攻略，500個最新人氣景點一次蒐全](/zh-hk/blog/bali-top-500-attractions/)」
 
 平衡你嘅行程，既可以影到網紅靚相，又可以享受真正寧靜嘅旅行體驗。
 
@@ -59,9 +59,9 @@ _srcHash: 3dbefdccdb5e5c686043147367d198a1
 
 延伸閱讀：
 
-> [【佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/nusa-penida-guide/)]
+> [【佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/zh-hk/blog/nusa-penida-guide/)]
 
-> [峇里島跳島去佩尼達島/藍夢島/吉利群島/龍目島? 快艇船票點買?邊度買?](/blog/bali-island-hopping-guide/)
+> [峇里島跳島去佩尼達島/藍夢島/吉利群島/龍目島? 快艇船票點買?邊度買?](/zh-hk/blog/bali-island-hopping-guide/)
 
 ### 4. 只留喺南部地區
 
@@ -71,7 +71,7 @@ _srcHash: 3dbefdccdb5e5c686043147367d198a1
 
 - 烏布 (Ubud)：峇里島嘅文化與藝術中心，適合靜心體驗當地文化。
 - 艾湄 (Amed)：潛水與浮潛嘅天堂，水底世界美不勝收。
-- **峇里島北部**：遠離遊客嘅北部地區，呢度有迷人嘅海灘與珊瑚礁。請睇[峇里島北部旅遊攻略](/blog/north-bali-travel-guide/)
+- **峇里島北部**：遠離遊客嘅北部地區，呢度有迷人嘅海灘與珊瑚礁。請睇[峇里島北部旅遊攻略](/zh-hk/blog/north-bali-travel-guide/)
 
 {{block:攻略}}
 
@@ -83,12 +83,12 @@ _srcHash: 3dbefdccdb5e5c686043147367d198a1
 
 根據你嘅需求，選擇以下替代住宿區域：
 
-- [**水明漾 (Seminyak)**](/blog/seminyak-guide/)：有好多時尚嘅精品酒店與高級餐廳，適合追求精緻度假嘅遊客。
-- [**坎古 (Canggu)**](/blog/canggu-guide/)：以衝浪天堂聞名，有悠閒嘅氛圍與迷人嘅咖啡館，非常適合年輕族群。
-- [**沙努爾 (Sanur)**](/blog/sanur-guide/)：相比庫塔更加寧靜，適合家庭親子與想遠離喧囂嘅旅客。
-- [**努沙杜瓦 (Nusa Dua)**](/blog/nusa-dua-guide/)：如果你鍾意五星級度假村與私人海灘，呢度係完美選擇。
+- [**水明漾 (Seminyak)**](/zh-hk/blog/seminyak-guide/)：有好多時尚嘅精品酒店與高級餐廳，適合追求精緻度假嘅遊客。
+- [**坎古 (Canggu)**](/zh-hk/blog/canggu-guide/)：以衝浪天堂聞名，有悠閒嘅氛圍與迷人嘅咖啡館，非常適合年輕族群。
+- [**沙努爾 (Sanur)**](/zh-hk/blog/sanur-guide/)：相比庫塔更加寧靜，適合家庭親子與想遠離喧囂嘅旅客。
+- [**努沙杜瓦 (Nusa Dua)**](/zh-hk/blog/nusa-dua-guide/)：如果你鍾意五星級度假村與私人海灘，呢度係完美選擇。
 
-延伸閱讀：[去峇里島住邊度最方便，但最唔推薦！峇里島庫塔區有咩優缺點？](/blog/kuta-bali-accommodation-pros-cons/)
+延伸閱讀：[去峇里島住邊度最方便，但最唔推薦！峇里島庫塔區有咩優缺點？](/zh-hk/blog/kuta-bali-accommodation-pros-cons/)
 
 啱喇！我哋介紹咗300間唔會中伏嘅「[**峇里島住宿推薦**](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)」一定要睇㗎！
 
@@ -122,7 +122,7 @@ https://youtube.com/shorts/9uSjE2FVGQs
 - **用電子支付**：喺可能嘅情況下，用Gojek等電子錢包支付，減少用實體卡嘅次數。
   **快速參考：**
 
-> [印尼/峇里島嘅Gojek與GoPay註冊、使用、儲值教學全面指南](/blog/indonesia-gojek-gopay-guide/)
+> [印尼/峇里島嘅Gojek與GoPay註冊、使用、儲值教學全面指南](/zh-hk/blog/indonesia-gojek-gopay-guide/)
 
 ### 8. 防蚊措施
 
@@ -150,7 +150,7 @@ https://youtube.com/shorts/bqtCP1YoKCM
 - **隨身攜帶雨衣**：攜帶輕便嘅雨衣比雨傘更實用，因為暴雨嚟得好急而且伴隨大風。
 - **安排上午活動**：朝早嘅天氣通常比較穩定，建議將戶外活動安排喺上午進行，以避開下晝突如其來嘅陣雨。
 
-快速參考：[落雨避太陽必睇！60 個超強室內行程：從新開幕購物中心、五星級下午茶到頂級手作體驗](/blog/2026-bali-indoor-activities/)
+快速參考：[落雨避太陽必睇！60 個超強室內行程：從新開幕購物中心、五星級下午茶到頂級手作體驗](/zh-hk/blog/2026-bali-indoor-activities/)
 
 ### 10. 猴子安全守則
 
@@ -178,7 +178,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 - **寺廟穿著規範**：進入寺廟時，務必要著得體，同埋要佩戴沙龍（寺廟通常會免費提供租借服務）。
 - **避免踩踏供品**：喺峇里島嘅街道上，成日都會見到細籃仔狀嘅供品，呢啲係當地人每日供奉嘅祭品，務必要避免踩到。
 
-延伸閱讀：[認識峇里島嘅祭拜習俗：Canang Sari](/blog/bali-canang-sari-explained/)
+延伸閱讀：[認識峇里島嘅祭拜習俗：Canang Sari](/zh-hk/blog/bali-canang-sari-explained/)
 
 - **禁忌行為**：唔好掂人哋個頭，呢樣喺當地文化中被視為唔尊重。另外，用左手遞嘢亦被認為係冇禮貌嘅行為。
 - **入屋除鞋**：進入當地人嘅屋企或者某啲商店時，應該先除鞋，以表示尊重。
@@ -211,7 +211,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 https://youtu.be/KPGb6MmwfZw
 
-- **抵達後再兌換**：請參考「[峇里島換匯懶人包](/blog/bali-currency-exchange-guide/)」，話你知點樣換？去邊度換？
+- **抵達後再兌換**：請參考「[峇里島換匯懶人包](/zh-hk/blog/bali-currency-exchange-guide/)」，話你知點樣換？去邊度換？
 - **避免攜帶大量現金**：攜帶過多現金容易增加風險，使用debit金融卡或者電子支付更加安全。
 
 ### 14. 議價技巧
@@ -257,7 +257,7 @@ https://youtu.be/lIV-T2jYhVk
 - **叫車時主動要求備用安全帽**：用Gojek或者Grab等叫車服務時，如果係搭電單車，務必要司機俾安全帽你。
 - **遵守交通規則**：峇里島嘅道路狀況同交通規則可能同你嘅家鄉唔同，保持謹慎駕駛，並注意遵守當地嘅交通法規。
 
-> 延伸閱讀：[短途出行必備！叫車App叫電單車，慳時慳力！](/blog/bali-travel-app-motorcycle-taxi/)
+> 延伸閱讀：[短途出行必備！叫車App叫電單車，慳時慳力！](/zh-hk/blog/bali-travel-app-motorcycle-taxi/)
 
 ### 18. 忽略當地食品安全
 
@@ -283,4 +283,4 @@ https://youtu.be/GivvqCXp11A
 
 👈 **返去峇里島自由行終極指南**
 
-想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次搞掂出發前要做咩。
+想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次搞掂出發前要做咩。

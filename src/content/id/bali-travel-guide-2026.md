@@ -44,75 +44,75 @@ Berikut link-link berguna yang disebut di video:
 
 ## Terkait Festival:
 
-- [2026 Bali Nyepi Day｜Pawai Raksasa Ogoh-Ogoh yang Wajib Kamu Tahu](/blog/nyepi-day-bali-guide-2026/)
-- [Panduan Lengkap Libur Nasional Indonesia & Festival Bali 2026: Jadwal Acara Seru!](/blog/2026-bali-festival-guide/)
-- [Ternyata Bali Punya 5 Musim Liburan! Gimana Cara Pinter Traveling Biar Nggak Kena Peak Season?](/blog/bali-peak-season-travel-tips/)
-- [Bulan Hujan di Bali: Peluang Hujan, Jumlah Hari Hujan, Suhu Rata-rata, & Skor Cocok Liburan... Dibahas Tuntas](/blog/bali-rainy-season-travel-guide/)
+- [2026 Bali Nyepi Day｜Pawai Raksasa Ogoh-Ogoh yang Wajib Kamu Tahu](/id/blog/nyepi-day-bali-guide-2026/)
+- [Panduan Lengkap Libur Nasional Indonesia & Festival Bali 2026: Jadwal Acara Seru!](/id/blog/2026-bali-festival-guide/)
+- [Ternyata Bali Punya 5 Musim Liburan! Gimana Cara Pinter Traveling Biar Nggak Kena Peak Season?](/id/blog/bali-peak-season-travel-tips/)
+- [Bulan Hujan di Bali: Peluang Hujan, Jumlah Hari Hujan, Suhu Rata-rata, & Skor Cocok Liburan... Dibahas Tuntas](/id/blog/bali-rainy-season-travel-guide/)
 
 ## Urusan Imigrasi:
 
-- [Pakai Kartu Kedatangan "All Indonesia"｜Pahami Proses Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi, Panduan Lengkap](/blog/bali-all-indonesia-arrival-guide/)
-- [eVisa, eCD Bea Cukai, & Deklarasi Kesehatan SSHP untuk Masuk Indonesia/Bali — FAQ Umum All Indonesia](/blog/bali-evisa-customs-health-declaration/)
+- [Pakai Kartu Kedatangan "All Indonesia"｜Pahami Proses Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi, Panduan Lengkap](/id/blog/bali-all-indonesia-arrival-guide/)
+- [eVisa, eCD Bea Cukai, & Deklarasi Kesehatan SSHP untuk Masuk Indonesia/Bali — FAQ Umum All Indonesia](/id/blog/bali-evisa-customs-health-declaration/)
 
 ## Pilihan Area Menginap & Penjelasan Detail:
 
 ### Kuta/Legian/Seminyak/Canggu/Ubud
 
-- [50 Tempat Wajib Dikunjungi di Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [100 Tempat Hits di Seminyak](/blog/seminyak-guide/)
-- [100 Destinasi Wajib di Canggu](/blog/canggu-guide/)
-- [100 Cara Eksplorasi Ubud](/blog/ubud-guide/)
+- [50 Tempat Wajib Dikunjungi di Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [100 Tempat Hits di Seminyak](/id/blog/seminyak-guide/)
+- [100 Destinasi Wajib di Canggu](/id/blog/canggu-guide/)
+- [100 Cara Eksplorasi Ubud](/id/blog/ubud-guide/)
 
 ### Nusa Dua
 
-- [40 Panduan Akomodasi, Kuliner, & Aktivitas di Nusa Dua](/blog/nusa-dua-guide/)
+- [40 Panduan Akomodasi, Kuliner, & Aktivitas di Nusa Dua](/id/blog/nusa-dua-guide/)
 
 ### Jimbaran
 
-- [Panduan Jimbaran](/blog/jimbaran-guide/)
+- [Panduan Jimbaran](/id/blog/jimbaran-guide/)
 
 ### Uluwatu
 
-- [Panduan Uluwatu](/blog/uluwatu-guide/)
+- [Panduan Uluwatu](/id/blog/uluwatu-guide/)
 
 ### Sanur
 
-- [50 Rekomendasi Makan & Main di Sanur](/blog/sanur-guide/)
+- [50 Rekomendasi Makan & Main di Sanur](/id/blog/sanur-guide/)
 
 ### Daerah Lain
 
-- [Panduan Lengkap Makan & Main di Nusa Penida](/blog/nusa-penida-guide/)
-- [Panduan Lengkap Wisata Nusa Lembongan & Ceningan](/blog/nusa-lembongan-ceningan-guide/)
-- [Panduan Nuanu Creative City](/blog/nuanu-creative-city-luna-guide/)
-- [Panduan Pulau Komodo](/blog/komodo-island-labuan-bajo-travel/)
-- [Panduan Amed/Tulamben](/blog/amed-tulamben-diving-guide/)
+- [Panduan Lengkap Makan & Main di Nusa Penida](/id/blog/nusa-penida-guide/)
+- [Panduan Lengkap Wisata Nusa Lembongan & Ceningan](/id/blog/nusa-lembongan-ceningan-guide/)
+- [Panduan Nuanu Creative City](/id/blog/nuanu-creative-city-luna-guide/)
+- [Panduan Pulau Komodo](/id/blog/komodo-island-labuan-bajo-travel/)
+- [Panduan Amed/Tulamben](/id/blog/amed-tulamben-diving-guide/)
 
 ### Rekomendasi Penginapan
 
 ![住宿推薦](https://images.gobaligo.id/vocus/vocus_cb23993cde9c417ee4093fb3bd3de849.jpg)
 
-Penginapan di Bali yang kami rekomendasiin semuanya akomodasi berkualitas tanpa komplain, udah diurutin rapi per zona/kategori. Buat kamu yang cari tempat nginep di Bali, wajib banget dicek! Klik [di sini](/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
+Penginapan di Bali yang kami rekomendasiin semuanya akomodasi berkualitas tanpa komplain, udah diurutin rapi per zona/kategori. Buat kamu yang cari tempat nginep di Bali, wajib banget dicek! Klik [di sini](/id/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 
 {{block:住宿}}
 
 ### Hindari Macet yang Bikin Stres
 
-- [【Main Gini Ternyata Gak Macet!】Panduan Liburan Seru di Bali: Transportasi, Penginapan, Tempat Wisata, Kuliner, Belanja, SPA, Nightlife, Rencana Lengkap](/blog/bali-free-travel-guide/)
+- [【Main Gini Ternyata Gak Macet!】Panduan Liburan Seru di Bali: Transportasi, Penginapan, Tempat Wisata, Kuliner, Belanja, SPA, Nightlife, Rencana Lengkap](/id/blog/bali-free-travel-guide/)
 
 ## Transportasi / Sewa Mobil
 
-- [Panduan Sewa Mobil di Bali - Biaya, Cara Pesan, Kelebihan & Kekurangan](/blog/bali-private-car-hire-guide/)
-- [【Rekomendasi Driver Sewa Mobil di Bali】Cari Driver Terbaik dari Review Nyata](/blog/bali-private-car-drivers-guide/)
-- [Sampai di Bali: Pilihan Transportasi dari Bandara & Tips Hari Pertama](/blog/bali-airport-transfer-guide/)
-- [Rekomendasi Driver / Pemandu Wisata Berbahasa Mandarin & Sewa Mobil di Bali](/blog/bali-chinese-tour-guide/)
-- [Panduan Sewa Motor di Bali! Lebih Baik Sewa Motor atau Sewa Mobil?](/blog/bali-motorbike-rental-guide/)
-- [Panduan Sewa Motor di Bali: Harga, Keamanan, & Hal yang Perlu Diperhatikan](/blog/bali-motorbike-rental-tips/)
-- [Kapan Sewa Mobil? Kapan Panggil Ojek? Sewa Mobil vs. Panggil Ojek: Pilih yang Mana?](/blog/bali-transportation-guide-car-rental/)
-- [Aplikasi Wajib di Indonesia/Bali: Panduan Lengkap Gojek](/blog/gojek-bali-guide/)
-- [Cara Pakai Gojek?](/blog/gojek-bali-guide/)
-- [Panduan Lengkap Registrasi, Penggunaan, & Top Up Gojek & GoPay di Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
-- [Trik Driver Ojek Online di Bali: Cara Hindari Jebakan Grab/Gojek](/blog/bali-grab-gojek-scam-tips/)
-- [Panduan Transportasi di Nusa Penida: Taksi, Gojek/Grab, Sewa Mobil, Motor](/blog/nusa-penida-transport-guide/)
+- [Panduan Sewa Mobil di Bali - Biaya, Cara Pesan, Kelebihan & Kekurangan](/id/blog/bali-private-car-hire-guide/)
+- [【Rekomendasi Driver Sewa Mobil di Bali】Cari Driver Terbaik dari Review Nyata](/id/blog/bali-private-car-drivers-guide/)
+- [Sampai di Bali: Pilihan Transportasi dari Bandara & Tips Hari Pertama](/id/blog/bali-airport-transfer-guide/)
+- [Rekomendasi Driver / Pemandu Wisata Berbahasa Mandarin & Sewa Mobil di Bali](/id/blog/bali-chinese-tour-guide/)
+- [Panduan Sewa Motor di Bali! Lebih Baik Sewa Motor atau Sewa Mobil?](/id/blog/bali-motorbike-rental-guide/)
+- [Panduan Sewa Motor di Bali: Harga, Keamanan, & Hal yang Perlu Diperhatikan](/id/blog/bali-motorbike-rental-tips/)
+- [Kapan Sewa Mobil? Kapan Panggil Ojek? Sewa Mobil vs. Panggil Ojek: Pilih yang Mana?](/id/blog/bali-transportation-guide-car-rental/)
+- [Aplikasi Wajib di Indonesia/Bali: Panduan Lengkap Gojek](/id/blog/gojek-bali-guide/)
+- [Cara Pakai Gojek?](/id/blog/gojek-bali-guide/)
+- [Panduan Lengkap Registrasi, Penggunaan, & Top Up Gojek & GoPay di Indonesia/Bali](/id/blog/indonesia-gojek-gopay-guide/)
+- [Trik Driver Ojek Online di Bali: Cara Hindari Jebakan Grab/Gojek](/id/blog/bali-grab-gojek-scam-tips/)
+- [Panduan Transportasi di Nusa Penida: Taksi, Gojek/Grab, Sewa Mobil, Motor](/id/blog/nusa-penida-transport-guide/)
 
 ## Rekomendasi Pengalaman Mendalam
 
@@ -142,7 +142,7 @@ Penginapan di Bali yang kami rekomendasiin semuanya akomodasi berkualitas tanpa 
 - [Pengalaman Kelas Masak Ketut's Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23861-cooking-class-ketut-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D49762d8ba4)
 - [Kelas Masak di Ubud](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17260-cooking-class-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc9fd495c23)
 - [Kelas Membuat Keramik](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F81778-pottery-class-serayu-pottery-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3d74ec6f17)
-- [Terapi Suara / Sound Healing](/blog/ubud-sound-healing/)
+- [Terapi Suara / Sound Healing](/id/blog/ubud-sound-healing/)
 
 ### Kelas Yoga
 
@@ -160,21 +160,21 @@ Penginapan di Bali yang kami rekomendasiin semuanya akomodasi berkualitas tanpa 
 
 ![戶外活動](https://images.gobaligo.id/vocus/vocus_b9d08056ca87707c17ba42c41712d2da.png)
 
-Bali nggak cuma soal pantai kece dan resort mewah, lho. Ternyata banyak banget aktivitas outdoor seru yang tersembunyi, cocok buat kamu yang suka petualangan. Mau lo pencari sensasi atau traveler yang pengen santai di alam, Bali pasti ada aja yang pas. Ini dia 50 aktivitas outdoor paling populer yang udah dikelompokin dalam 6 kategori. Klik [di sini](/blog/bali-top-50-outdoor-activities/) buat liat selengkapnya.
+Bali nggak cuma soal pantai kece dan resort mewah, lho. Ternyata banyak banget aktivitas outdoor seru yang tersembunyi, cocok buat kamu yang suka petualangan. Mau lo pencari sensasi atau traveler yang pengen santai di alam, Bali pasti ada aja yang pas. Ini dia 50 aktivitas outdoor paling populer yang udah dikelompokin dalam 6 kategori. Klik [di sini](/id/blog/bali-top-50-outdoor-activities/) buat liat selengkapnya.
 
 ## Tips Uang, Internet, & Kehidupan Sehari-hari
 
-- [Panduan Lengkap Tukar Uang di Bali: Pakai Mata Uang Apa? Cara Tukar Paling Untung? Di Mana Tempat Terbaik?](/blog/bali-currency-exchange-guide/)
-- [【Wajib Bawa ke Bali】Cara Urus Internet/SIM Card/eSIM di Bali?](/blog/bali-sim-card-esim-roaming-guide/)
-- [Panduan Lengkap Tegangan & Colokan Listrik di Indonesia/Bali!](/blog/bali-voltage-adapter-tips/)
+- [Panduan Lengkap Tukar Uang di Bali: Pakai Mata Uang Apa? Cara Tukar Paling Untung? Di Mana Tempat Terbaik?](/id/blog/bali-currency-exchange-guide/)
+- [【Wajib Bawa ke Bali】Cara Urus Internet/SIM Card/eSIM di Bali?](/id/blog/bali-sim-card-esim-roaming-guide/)
+- [Panduan Lengkap Tegangan & Colokan Listrik di Indonesia/Bali!](/id/blog/bali-voltage-adapter-tips/)
 
 ## 8 Aplikasi Rekomendasi buat Liburan ke Bali
 
-Cek di sini: [8 Aplikasi Wajib Pas Traveling ke Indonesia/Bali](/blog/bali-travel-apps-guide/)
+Cek di sini: [8 Aplikasi Wajib Pas Traveling ke Indonesia/Bali](/id/blog/bali-travel-apps-guide/)
 
 ## Referensi Packing Barang
 
-- [Perlu Bawa Jaket ke Bali? Panduan Outfit: 8 Pakaian Wajib Dibawa](/blog/bali-packing-essentials/)
+- [Perlu Bawa Jaket ke Bali? Panduan Outfit: 8 Pakaian Wajib Dibawa](/id/blog/bali-packing-essentials/)
 
 ## Peta Offline
 
@@ -205,4 +205,4 @@ Kami udah ngumpulin dan update terus selama bertahun-tahun. Kamu bisa simpen di 
 
 👈 **Kembali ke Panduan Lengkap Liburan Mandiri ke Bali**
 
-Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.
+Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.

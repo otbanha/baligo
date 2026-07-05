@@ -35,10 +35,10 @@ _srcHash: 98496e472e57dfdffd2e781d5303d94f
 
 - **Rencana Water Taxi**: Kementerian Perhubungan hari ini mengumumkan skema baru, di mana perusahaan feri milik negara (ASDP) akan mengembangkan rute water taxi yang menghubungkan bandara ke Canggu. Proyek ini dijadwalkan mulai konstruksi pada Agustus 2026, bertujuan mengatasi kemacetan darat yang memakan waktu 1-2 jam dengan alternatif jalur laut.
 
-> Apa itu water taxi? Lihat [di sini](/blog/2026-04-12-043821/)
+> Apa itu water taxi? Lihat [di sini](/id/blog/2026-04-12-043821/)
 
 - **'Pintu Kedua' Pemeriksaan Pajak Wisatawan**: Mulai hari ini, bandara (DPS) secara resmi mendirikan jalur pemeriksaan kedua '**Levy Vouchers**' di antara area kedatangan dan zona penjemputan. Wisatawan yang belum membayar pajak wisata sebesar **150.000 IDR** akan diminta membayar langsung melalui scan QRIS di tempat, tidak bisa dihindari. Disarankan wisatawan mempersiapkannya terlebih dahulu.
 
-> [Pajak Wisata Tak Bisa Dihindari! 'Pintu Kedua' Pemeriksaan Resmi Berlaku: Prosedur Pembayaran Terbaru, Denda Penghindaran Pajak & Strategi Adaptasi](/blog/bali-levy-check-warning/)
+> [Pajak Wisata Tak Bisa Dihindari! 'Pintu Kedua' Pemeriksaan Resmi Berlaku: Prosedur Pembayaran Terbaru, Denda Penghindaran Pajak & Strategi Adaptasi](/id/blog/bali-levy-check-warning/)
 
 - **Update Pengeboran Bawah Tanah**: Mesin bor terowongan (TBM) untuk MRT Bali (Subway Phase 1) saat ini sedang bekerja aktif di kedalaman 30 meter. Pemerintah setempat menegaskan bahwa proses konstruksi sepenuhnya mematuhi aturan perlindungan budaya, dan pemandangan permukaan tanah tidak terpengaruh. Namun, di beberapa titik pengeboran akan ada kendaraan besar keluar-masuk, jadi hati-hati ya kalau lewat.

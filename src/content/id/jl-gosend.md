@@ -70,7 +70,7 @@ Tapi pas lihat pacarnya lagi badmood, si cowok tiba-tiba kepikiran satu kemungki
 Dia langsung ambil dua langkah:
 
 - Hubungi hotel di Seminyak, minta staf bantu cari
-- Sekalian download dan daftar Gojek (cara download & daftar bisa lihat [di sini](/blog/indonesia-gojek-gopay-guide/))
+- Sekalian download dan daftar Gojek (cara download & daftar bisa lihat [di sini](/id/blog/indonesia-gojek-gopay-guide/))
 
 Nggak lama, kabar baik datang — bantal lehernya ketemu.
 
@@ -131,7 +131,7 @@ Sesampainya di kamar, mereka berdua masih nggak percaya sama seluruh proses tadi
 
 Akhirnya, mereka memutuskan untuk kasih tambahan tip 30.000 IDR lewat platform sebagai bentuk terima kasih.
 
-> [8 Aplikasi Wajib untuk Traveling ke Indonesia/Bali](/blog/bali-travel-apps-guide/)
+> [8 Aplikasi Wajib untuk Traveling ke Indonesia/Bali](/id/blog/bali-travel-apps-guide/)
 
 ***
 

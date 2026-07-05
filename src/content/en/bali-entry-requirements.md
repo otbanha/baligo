@@ -43,7 +43,7 @@ It’s recommended to apply within one week before departure to ensure processin
 
 ---
 
-**Quick Reference:** [2025 Updated FAQ on Indonesia/Bali Entry Visa & eVoA Application](/blog/indonesia-bali-visa-evoa-faq/)
+**Quick Reference:** [2025 Updated FAQ on Indonesia/Bali Entry Visa & eVoA Application](/en/blog/indonesia-bali-visa-evoa-faq/)
 
 The eCD (Electronic Customs Declaration) is the [official online customs declaration form for Indonesia](https://ecd.beacukai.go.id/). All travelers, regardless of whether they have items to declare, are required to complete it. This declaration form includes questions about whether you are carrying foreign currency, plants, animals, alcohol, cigarettes, or other items that need to be declared.
 
@@ -51,7 +51,7 @@ The time restriction for filling out the form is very clear: it can only be comp
 
 It is recommended to fill out the form 2 to 3 days before your flight to avoid any issues that might delay your entry process.
 
-**Quick Reference:** [How to Fill Out Bali's Electronic Customs Declaration Form (eCD) in 2025? Complete Guide to Easy Entry](/blog/bali-e-customs-declaration/)
+**Quick Reference:** [How to Fill Out Bali's Electronic Customs Declaration Form (eCD) in 2025? Complete Guide to Easy Entry](/en/blog/bali-e-customs-declaration/)
 
 ---
 
@@ -63,7 +63,7 @@ This declaration must be completed **within 3 days before arrival**, and informa
 
 It is recommended to save the completed SSHP as a PDF or take a screenshot for future reference.
 
-**Quick Reference:** [New Entry Rules for Indonesia/Bali: Mandatory Health Declaration Form (SSHP) Before Flight](/blog/2024-08-30-66d109f9fd89780001f47806/)
+**Quick Reference:** [New Entry Rules for Indonesia/Bali: Mandatory Health Declaration Form (SSHP) Before Flight](/en/blog/2024-08-30-66d109f9fd89780001f47806/)
 
 ---
 
@@ -75,7 +75,7 @@ The fee is **150,000 Indonesian Rupiah (approximately USD$10)**, and upon paymen
 
 It is recommended to complete this process one week before departure to avoid last-minute hassles at the airport that could disrupt your travel plans.
 
-**Quick Reference:** [Bali Tourist Levy/Tourism Tax Guide: New 2024 Regulations, Payment Methods, and Island-Hopping Considerations](/blog/2026-bali-tourism-tax-guide/)
+**Quick Reference:** [Bali Tourist Levy/Tourism Tax Guide: New 2024 Regulations, Payment Methods, and Island-Hopping Considerations](/en/blog/2026-bali-tourism-tax-guide/)
 
 ---
 

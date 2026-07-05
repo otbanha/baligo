@@ -101,7 +101,7 @@ _srcHash: 735dc5c9ff6266e917093348c69b6663
 
 如果你嚟峇里島，不妨安排一個下晝喺呢度，享受美食、靚景，仲有嗰份獨特嘅度假感——或者，你都會好似我咁，開始認真考慮：「下次，要唔要直接住喺呢度？」
 
-> [峇里島凱賓斯基酒店介紹](/blog/apurva-kempinski-bali-nusa-dua/)
+> [峇里島凱賓斯基酒店介紹](/zh-hk/blog/apurva-kempinski-bali-nusa-dua/)
 
 > 凱賓斯基訂房連結： [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5941544)  [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=25195229&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-N6ysTFJMEkdY-Jo-_ft1YmIWZDAyONvXwGDxgttso7ejysEllnP9fBc537w6opjxY6BPBETDnwfBp74grTs9Z-kY4OXYysYIEZjHefNvJsZAzaIdf6WrTKYQcj0wnG_89fMS1gWnXwDM8pFhaOLROdLrHsY4yuVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DAwtjU3EjPwAAoWpJY4ZkC1p2cmJNcmpNYkhpSWQA0xUhHKbPYuaQosyAoNTezpCQVqCotMac4FSQelFoMlEkGC4LMLoLyM_PzILoNUMTCEnNKUyEqgfa5pUKtMKyNfcTCFB37gmUv3ycWhl8sDE2sDF2sLBwT9rNOYmXlAPl3Fyuvr7OThaWnrmGIbpSu4QXWsyc_MEnJGxoYGJgaGpua6hokWloYGyUa6ZpYmhiZmumaG5qaGWn83tRx4ImxkbUUJDwVGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsRm5mDgbm0fZcDGHBrsI5j7_vfKjkbSDFLOnS5BitNPtvXIulvZaIJ4hjBe4izls79NNvPaRMJEk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkLEAIndwQlECAAA&masterhotelid_tracelogid=100051355-0a9832a2-494256-71562&detailFilters=17|1~17~1*31|25195229~31~25195229*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=270&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660)  [Booking.com](https://booking.tpm.li/QGYx9LPu)
 

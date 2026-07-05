@@ -45,7 +45,7 @@ Suasana restorannya luas dan minimalis, dengan nuansa sederhana yang khas. Sebel
 
 Di restoran seafood Mr. Lobster, selain menikmati seafood segar, kamu juga bisa beli oleh-oleh khas Bali—keripik cumi. Camilan enak ini biasanya cuma bisa dibeli di toko oleh-oleh kalau ikut tur guide, tapi di sini kamu bisa langsung bawa pulang dengan mudah, jadi kenang-kenangan manis selama perjalanan.
 
-> Baca Juga: [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Rekomendasi Oleh-Oleh Bali: Pilihan Terbaik untuk Mengabadikan Kenangan Berharga](/blog/bali-souvenirs-gift-guide/)
+> Baca Juga: [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Rekomendasi Oleh-Oleh Bali: Pilihan Terbaik untuk Mengabadikan Kenangan Berharga](/id/blog/bali-souvenirs-gift-guide/)
 
 ###
 

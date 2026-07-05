@@ -59,7 +59,7 @@ update: 2026/05/26
 
 ![行程规划与沟通](https://images.gobaligo.id/vocus/vocus_bc0d1457f9ad845aaff9a109114ba614.png)
 
-> [巴厘岛旅游注意事项：第一次去巴厘岛必看的32项旅游攻略](/blog/bali-ultimate-guide-2026/)
+> [巴厘岛旅游注意事项：第一次去巴厘岛必看的32项旅游攻略](/zh-cn/blog/bali-ultimate-guide-2026/)
 
 ## 行程心得与建议
 
@@ -67,7 +67,7 @@ update: 2026/05/26
 
 在巴厘岛，非便利店、大餐厅、连锁店的饮料最好不要随便尝试。这次旅行中，我们有朋友在一般小吃店喝了饮料，结果拉肚子拉了两天。虽然当地的饮料看起来很诱人，但为了避免旅行途中生病，还是选择安全可靠的饮料比较好。另外，可以随身携带一些治疗肠胃不适的药物，以备不时之需。
 
-> [巴厘岛旅行健康小贴士：巴厘岛的饮用水和腹泻指南](/blog/bali-travel-health-tips/)
+> [巴厘岛旅行健康小贴士：巴厘岛的饮用水和腹泻指南](/zh-cn/blog/bali-travel-health-tips/)
 
 ### **多带换洗内衣裤**
 
@@ -115,13 +115,13 @@ https://youtu.be/IReL1ztxL7c
 
 巴厘岛有很多换钱的地方，可以请导游或司机带你们去，这样更安全可靠。由于换钱非常方便，所以不需要一次换太多钱。我这次旅行因为有先收公基金，所以自己五天的零花钱只换了200美金，结果还有剩。建议随身携带一些美金，以备不时之需，也可以减少在当地换钱的次数。
 
-> [印尼/巴厘岛旅游换汇懒人包：印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？](/blog/bali-currency-exchange-guide/)
+> [印尼/巴厘岛旅游换汇懒人包：印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？](/zh-cn/blog/bali-currency-exchange-guide/)
 
 ### **漂流体验**
 
 在巴厘岛进行漂流活动之前，需要先走一段很长的山路（下楼梯）才能到达河边。回程时则需要爬一段上坡阶梯，虽然回程的阶梯较短，但对于体力不佳的人来说，还是有些挑战。如果有带老人家或小孩，一定要评估他们的体力状况。不过，漂流过程真的非常刺激有趣，是一次难忘的体验，所以还是非常推荐尝试的。
 
-> [巴厘岛漂流攻略（漂流常见问题FAQ）](/blog/bali-rafting-ayung-telaga-waja/)
+> [巴厘岛漂流攻略（漂流常见问题FAQ）](/zh-cn/blog/bali-rafting-ayung-telaga-waja/)
 
 ### 其他玩乐
 
@@ -131,15 +131,15 @@ https://youtu.be/IReL1ztxL7c
 
 （图左）GWK神鹰广场可以来走走拍照，不会走很久！（懒人认证👍🏻
 
-> [GWK神鹰广场](/blog/bali-family-trip-gwk-beach-club/) 游记
+> [GWK神鹰广场](/zh-cn/blog/bali-family-trip-gwk-beach-club/) 游记
 
 （图中）我们还骑坏了一台ATV越野车（打空档踩油门…
 
-> [巴厘岛 ATV 四轮越野车探险：感受热带天堂的刺激与自由（注意事项+业者推荐）](/blog/bali-atv-adventure-guide/)
+> [巴厘岛 ATV 四轮越野车探险：感受热带天堂的刺激与自由（注意事项+业者推荐）](/zh-cn/blog/bali-atv-adventure-guide/)
 
 （图右）也不知道为何我们胆子这么大可以放双手...下次还要再玩拖曳伞
 
-> [乌鲁瓦图攻略](/blog/uluwatu-guide/) ｜[在乌鲁瓦图飞翔！超美海景+注意事项分享](/blog/uluwatu-paragliding-ocean-view/)
+> [乌鲁瓦图攻略](/zh-cn/blog/uluwatu-guide/) ｜[在乌鲁瓦图飞翔！超美海景+注意事项分享](/zh-cn/blog/uluwatu-paragliding-ocean-view/)
 
 ![余孟苓提供](https://images.gobaligo.id/vocus/vocus_86510d86b1e385faaad873854fe73fae.jpg)
 
@@ -147,15 +147,15 @@ https://youtu.be/IReL1ztxL7c
 
 （图左）悬崖泳池超赞！这是Oneeighty Dayclub，可以先网络上订位哦！
 
-> [探索Oneeighty Day Club：巴厘岛悬崖边的游泳池极致美景](/blog/oneeighty-dayclub-uluwatu-pool/)
+> [探索Oneeighty Day Club：巴厘岛悬崖边的游泳池极致美景](/zh-cn/blog/oneeighty-dayclub-uluwatu-pool/)
 
 （图中）Tanah Barak Cliff一线天很美
 
-> [巴厘岛 Batu Barak/Tanah Barak：蓝色公路/断崖公路的绝美之旅](/blog/batu-barak-cliff-road/)
+> [巴厘岛 Batu Barak/Tanah Barak：蓝色公路/断崖公路的绝美之旅](/zh-cn/blog/batu-barak-cliff-road/)
 
 （图右）海底漫步也很赞！只是会一直耳压不平衡
 
-> [南湾海底漫步](/blog/nusa-dua-guide/)
+> [南湾海底漫步](/zh-cn/blog/nusa-dua-guide/)
 
 {{block:戶外}}
 
@@ -167,6 +167,6 @@ https://youtu.be/IReL1ztxL7c
 
 点击这里观看更多巴厘岛精彩游记
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/zh-cn/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
 
 {{block:攻略}}

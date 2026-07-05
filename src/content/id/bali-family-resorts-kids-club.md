@@ -183,7 +183,7 @@ Di area kolam renang resort, anak-anak bisa puas bermain air sementara orang tua
 
 ![Lebih Banyak Serunya Kuta: Makan, Main, dan Nongkrong](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
 
-Kuta adalah salah satu titik paling hidup di Bali, terkenal dengan nightlife yang rame, jalanan yang sibuk, dan pantai cocok buat pemula surfing yang menarik backpacker dari seluruh dunia. Di sini ada banyak banget toko, restoran, dan tempat hiburan—tempat yang pas banget kalau kamu cari sensasi dan belanja. Mau ngerasain pesta seru atau nikmatin sunset cantik, Kuta bakal bikin liburanmu penuh kenangan! Mau tahu lebih banyak tips Kuta? [Klik di sini](/blog/2023-12-13-657598bdfd8978000120fe20/)
+Kuta adalah salah satu titik paling hidup di Bali, terkenal dengan nightlife yang rame, jalanan yang sibuk, dan pantai cocok buat pemula surfing yang menarik backpacker dari seluruh dunia. Di sini ada banyak banget toko, restoran, dan tempat hiburan—tempat yang pas banget kalau kamu cari sensasi dan belanja. Mau ngerasain pesta seru atau nikmatin sunset cantik, Kuta bakal bikin liburanmu penuh kenangan! Mau tahu lebih banyak tips Kuta? [Klik di sini](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 ## Resor Keluarga di Seminyak
 
@@ -292,7 +292,7 @@ Keunggulan Kids Club:
 
 ![Lebih Banyak Rekomendasi Kuliner & Seru-seruan di Seminyak](https://images.gobaligo.id/vocus/vocus_366287b60b610bfff45aea753d91ba55.jpg)
 
-Seminyak adalah kawasan di Bali yang memadukan gaya modern dan tradisi, punya restoran kelas atas, butik kece, dan kehidupan malam yang enerjik — surganya para pelancong! Mau tahu info lebih lengkap soal tempat wisata seru, kuliner, SPA, beach club? [Klik di sini](/blog/seminyak-guide/).
+Seminyak adalah kawasan di Bali yang memadukan gaya modern dan tradisi, punya restoran kelas atas, butik kece, dan kehidupan malam yang enerjik — surganya para pelancong! Mau tahu info lebih lengkap soal tempat wisata seru, kuliner, SPA, beach club? [Klik di sini](/id/blog/seminyak-guide/).
 
 ## Resor Keluarga di Canggu
 
@@ -376,11 +376,11 @@ Untuk anak yang lebih besar dan remaja, resort menawarkan berbagai pilihan hibur
 
 Ayana Bali adalah pilihan ideal untuk liburan keluarga. Resort ini terletak di tebing Jimbaran, dengan lingkungan yang indah dan fasilitas lengkap. Untuk balita, resort punya banyak aktivitas seru seperti kolam renang bayi dan area bermain anak yang didesain khusus, biar mereka bisa bermain dengan aman. Sementara untuk anak yang lebih besar, resort juga punya program dan aktivitas yang beragam, seperti kids club, olahraga pantai, dan jadwal kegiatan anak yang padat.
 
-Ayana Bali punya total 14 kolam renang, dengan empat kategori harga akomodasi. Untuk info lebih lanjut tentang kamar, fasilitas resort, beach club, cara reservasi Rock Bar, dan lainnya, cek di sini: [【Bali Ayana】Ayana Bali Panduan Menginap Lengkap»](/blog/ayana-resort-bali-guide/)
+Ayana Bali punya total 14 kolam renang, dengan empat kategori harga akomodasi. Untuk info lebih lanjut tentang kamar, fasilitas resort, beach club, cara reservasi Rock Bar, dan lainnya, cek di sini: [【Bali Ayana】Ayana Bali Panduan Menginap Lengkap»](/id/blog/ayana-resort-bali-guide/)
 
 ![Ayana住宿有分為四個等級，點我了解](https://images.gobaligo.id/vocus/vocus_c2f18961b7d5670096f1ac1b2a8871e1.jpg)
 
-[Akomodasi Ayana terbagi dalam empat level, klik di sini untuk tahu lebih lanjut](/blog/ayana-resort-bali-guide/)
+[Akomodasi Ayana terbagi dalam empat level, klik di sini untuk tahu lebih lanjut](/id/blog/ayana-resort-bali-guide/)
 
 Ayana Resort dan Rimby sama-sama punya kids club dan aktivitas seru, anak-anak bisa bermain seharian penuh di sini!
 
@@ -414,7 +414,7 @@ Umah Rare Kids Club adalah pusat kegiatan inovatif dan ramah lingkungan untuk ta
 
 ![Lebih Banyak Rekomendasi Kuliner & Aktivitas di Jimbaran](https://images.gobaligo.id/vocus/vocus_c81d870630ca07dead1d2e8614f923c4.jpg)
 
-Jimbaran adalah surga tepi pantai di Bali yang terkenal dengan suasana romantis dan kulinernya. Pantai pasir keemasannya yang memesona dan pemandangan matahari terbenam yang spektakuler siap memanjakan mata. Restoran seafood di sini wajib banget kamu coba, apalagi ditambah dengan resor mewah dan nuansa desa nelayan yang tenang, bikin liburanmu terasa mewah tapi tetap dekat dengan kehidupan lokal. Mau liburan keluarga atau kencan romantis, Jimbaran pasti bisa memenuhi ekspektasimu! Mau tahu lebih banyak tentang Jimbaran? [Klik di sini](/blog/jimbaran-guide/).
+Jimbaran adalah surga tepi pantai di Bali yang terkenal dengan suasana romantis dan kulinernya. Pantai pasir keemasannya yang memesona dan pemandangan matahari terbenam yang spektakuler siap memanjakan mata. Restoran seafood di sini wajib banget kamu coba, apalagi ditambah dengan resor mewah dan nuansa desa nelayan yang tenang, bikin liburanmu terasa mewah tapi tetap dekat dengan kehidupan lokal. Mau liburan keluarga atau kencan romantis, Jimbaran pasti bisa memenuhi ekspektasimu! Mau tahu lebih banyak tentang Jimbaran? [Klik di sini](/id/blog/jimbaran-guide/).
 
 ## Resor Keluarga di Uluwatu
 
@@ -450,7 +450,7 @@ Keluarga juga bisa bareng-bareng ke Roosterfish Beach Club buat menikmati waktu 
 
 ![Info Lengkap Kuliner & Wisata Uluwatu](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
-Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal dengan tebing-tebing dramatis, pantai yang memesona, dan spot surfing kelas dunia. Suasana tropisnya bikin liburan makin romantis — cocok banget buat menikmati sunset dan melepas penat. Kalau kamu juga mau nginep di Uluwatu, cek aja rekomendasi lengkap kami soal tempat makan, wisata, dan seru-seruan biar liburanmu makin berkesan: [【Panduan Uluwatu】Rekomendasi Tempat Wisata & Kuliner di Uluwatu](/blog/uluwatu-guide/)
+Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal dengan tebing-tebing dramatis, pantai yang memesona, dan spot surfing kelas dunia. Suasana tropisnya bikin liburan makin romantis — cocok banget buat menikmati sunset dan melepas penat. Kalau kamu juga mau nginep di Uluwatu, cek aja rekomendasi lengkap kami soal tempat makan, wisata, dan seru-seruan biar liburanmu makin berkesan: [【Panduan Uluwatu】Rekomendasi Tempat Wisata & Kuliner di Uluwatu](/id/blog/uluwatu-guide/)
 
 ## Ubud: Resor Keluarga Ramah Anak
 
@@ -462,7 +462,7 @@ Di Ubud, biar si kecil juga betah jalan-jalan, ini dia beberapa rekomendasi hote
 
 Resor ini punya Wolly Kids Club khusus anak usia 4–12 tahun, lengkap dengan berbagai aktivitas seru dan mainan edukatif. Anak-anak bisa bermain sepuasnya di bawah pengawasan staf profesional.
 
-> ▶Baca review lengkap Padma Resort Ubud di [sini](/blog/bali-best-hotels-2024/)
+> ▶Baca review lengkap Padma Resort Ubud di [sini](/id/blog/bali-best-hotels-2024/)
 
 ### **Maya Ubud Resort & Spa**
 
@@ -492,6 +492,6 @@ Resor mewah ini terletak di pinggiran Ubud, suasananya asri banget. Kamarnya lua
 
 ![Lebih Banyak Rekomendasi Wisata & Kuliner di Ubud](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
-Ubud adalah pusat seni dan budaya di Bali. Sawah terasering yang hijau, hutan yang tenang, dan tradisi yang kental bikin siapa pun betah. Tempat ini cocok banget buat kamu yang mau rileks. Mau eksplor budaya lokal, nikmatin alam, atau coba aktivitas seru di luar ruangan plus kuliner enak — Ubud punya semuanya! Pengin tahu lebih banyak tips seru di Ubud? [Klik di sini](/blog/ubud-guide/).
+Ubud adalah pusat seni dan budaya di Bali. Sawah terasering yang hijau, hutan yang tenang, dan tradisi yang kental bikin siapa pun betah. Tempat ini cocok banget buat kamu yang mau rileks. Mau eksplor budaya lokal, nikmatin alam, atau coba aktivitas seru di luar ruangan plus kuliner enak — Ubud punya semuanya! Pengin tahu lebih banyak tips seru di Ubud? [Klik di sini](/id/blog/ubud-guide/).
 
 {{block:親子}}

@@ -46,7 +46,7 @@ https://youtu.be/op78Dk8CjL4
 
 - _💬 Google真實評論：_「風景好靚，層層疊疊嘅梯田好壯觀。裏面有好多高空鞦韆可以體驗，影相好出片，但係階梯比較斜，行落去再爬返上嚟需要啲體力。」
 
-[> [8 大最美叢林鞦韆推薦：租禮服技巧、拍照角度與避開人潮全指南](https://gobaligo.id/blog/ubud-jungle-swings-photo-guide/)
+[> [8 大最美叢林鞦韆推薦：租禮服技巧、拍照角度與避開人潮全指南](https://gobaligo.id/zh-hk/blog/ubud-jungle-swings-photo-guide/)
 
 ### 2. 聖泉廟 Pura Tirta Empul
 
@@ -56,7 +56,7 @@ https://youtube.com/shorts/fiYs5GKdINU
 
 - _💬 Google真實評論：_「好神聖同充滿能量嘅地方！排隊體驗淨化儀式大約要一個鐘，泉水好冰涼好清澈，洗完之後浮躁嘅心真係靜落嚟。記得入去要跟規矩着返沙龍（Sarong）。」
 
-[> [峇里島聖泉寺] Tirta Empul 完整指南：千年聖水淨化儀式流程、禁忌同必看重點](https://gobaligo.id/blog/tirta-empul-temple-guide/)
+[> [峇里島聖泉寺] Tirta Empul 完整指南：千年聖水淨化儀式流程、禁忌同必看重點](https://gobaligo.id/zh-hk/blog/tirta-empul-temple-guide/)
 
 ### 3. 烏布皇宮同傳統市場 Ubud Palace & Market
 
@@ -68,7 +68,7 @@ https://youtube.com/shorts/Oh-RNfjhQhM
 
 - _💬 Google真實評論：_「皇宮精緻小巧，免費參觀。對面嘅市集超好行，藤編袋、木雕飾物琳瑯滿目，不過買嘢一定要由三折開始講價，講價過程都係一種樂趣！」
 
-> [烏布皇宮：峇里島文化歷史嘅瑰寶｜開放時間、門票、表演時間、周邊景點、一日遊推薦](https://gobaligo.id/blog/ubud-royal-palace-tour-guide/)
+> [烏布皇宮：峇里島文化歷史嘅瑰寶｜開放時間、門票、表演時間、周邊景點、一日遊推薦](https://gobaligo.id/zh-hk/blog/ubud-royal-palace-tour-guide/)
 
 ### 4. 彭麗普蘭傳統村落 Penglipuran Village
 
@@ -78,7 +78,7 @@ https://youtube.com/shorts/Oh-RNfjhQhM
 
 - _💬 Google真實評論：_「成個村莊非常乾淨整潔，傳統竹編房屋好有特色。村民都好友善，仲會邀請你入去佢哋嘅庭院參觀。好推薦嚟體驗地道嘅峇里島傳統文化。」
 
-> [【峇里島文化景點】Penglipuran 彭麗普蘭村攻略：走入全島最乾淨古老村莊同竹林秘境](https://gobaligo.id/blog/penglipuran-village-bali-experience/)
+> [【峇里島文化景點】Penglipuran 彭麗普蘭村攻略：走入全島最乾淨古老村莊同竹林秘境](https://gobaligo.id/zh-hk/blog/penglipuran-village-bali-experience/)
 
 ### 5. 阿勇河 Ayung River
 
@@ -88,7 +88,7 @@ https://youtube.com/shorts/Oh-RNfjhQhM
 
 - _💬 Google真實評論：_「激流泛舟超好玩！沿途嘅熱帶雨林風景靚到好似侏羅紀公園，仲見到懸崖上嘅石雕。教練幽默風趣，雖然划完手有啲酸，但係好值得！」
 
-> [【峇里島泛舟 FAQ】唔識游水都玩得？年齡限制、安全須知同阿勇河 vs 泰拉嘉河全解析](https://gobaligo.id/blog/bali-rafting-ayung-telaga-waja/)
+> [【峇里島泛舟 FAQ】唔識游水都玩得？年齡限制、安全須知同阿勇河 vs 泰拉嘉河全解析](https://gobaligo.id/zh-hk/blog/bali-rafting-ayung-telaga-waja/)
 
 ### 6. 特哥努恩安瀑布 Tegenungan Waterfall
 
@@ -98,7 +98,7 @@ https://youtube.com/shorts/BBIXmPYUPZo
 
 - _💬 Google真實評論：_「距離烏布市區唔算遠，瀑布水量好充足，好震撼！沿途規劃得幾好，有好多適合打卡嘅裝置藝術，行落去大約只要10分鐘，好適合唔想行太耐山路嘅人。」
 
-> [峇里島烏布嘅瀑布酒吧 OMMA Dayclub：感受chill氛圍，陽光下嘅寫意時光](https://gobaligo.id/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+> [峇里島烏布嘅瀑布酒吧 OMMA Dayclub：感受chill氛圍，陽光下嘅寫意時光](https://gobaligo.id/zh-hk/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 {{block:ubud}}
 
@@ -114,7 +114,7 @@ https://youtube.com/shorts/BBIXmPYUPZo
 
 - _💬 Google真實評論：_「建議下晝5點左右到，可以同時睇到落日前同日落後嘅魔幻時刻。退潮時可以行到神廟下面摸聖水，呢度嘅夕陽絕對係一生必睇一次嘅奇景！」
 
-[海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](https://gobaligo.id/blog/bali-tanah-lot-guide/)
+[海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](https://gobaligo.id/zh-hk/blog/bali-tanah-lot-guide/)
 
 ### 8. 烏魯瓦圖斷崖廟 Uluwatu Temple
 
@@ -124,7 +124,7 @@ https://youtube.com/shorts/BBIXmPYUPZo
 
 - _💬 Google真實評論：_「建喺懸崖邊嘅神廟極具氣勢，落日海景無敵。傍晚嘅Kecak舞非常震撼，表演者全靠人聲和聲。要留意呢度嘅猴子幾惡，會搶眼鏡同帽，一定要收好。」
 
-> [峇里島烏魯瓦圖廟/情人崖旅遊指南：必看亮點與實用建議](https://gobaligo.id/blog/uluwatu-temple-travel-guide/)
+> [峇里島烏魯瓦圖廟/情人崖旅遊指南：必看亮點與實用建議](https://gobaligo.id/zh-hk/blog/uluwatu-temple-travel-guide/)
 
 ### 9. 水明漾 Seminyak
 
@@ -178,7 +178,7 @@ https://youtu.be/ysUVgnICbg0
 
 - _💬 Google真實評論：_「水上宮殿好靚，充滿皇家氣息。最有趣嘅係買一包魚糧，行喺水中嘅石雕步道上面餵魚，周圍會聚集超級多巨大又肥美嘅錦鯉，影相好搶眼！」
 
-> [【峇里島東部攻略】天空之門、恆河聖泉花園、烏戎水宮：仙境景點影相同交通全指南](https://gobaligo.id/blog/bali-east-tour-guide/)
+> [【峇里島東部攻略】天空之門、恆河聖泉花園、烏戎水宮：仙境景點影相同交通全指南](https://gobaligo.id/zh-hk/blog/bali-east-tour-guide/)
 
 ## 四、 迷霧湖泊同火山絕景：北部山區秘境（North Bali & Kintamani）
 
@@ -192,7 +192,7 @@ https://youtu.be/ysUVgnICbg0
 
 - _💬 Google真實評論：_「呢度喺山區，天氣涼爽甚至有點凍。湖上面嘅廟喺迷霧中若隱若現，真係好似人間仙境。同南部海灘嘅熱鬧完全唔同，係一個可以令人平靜嘅地方。」
 
-> [峇里島金塔瑪尼巴杜爾火山湖｜日出登山 × 皇家遊船 × 湖景咖啡廳 × 山林遊樂場 × 火山溫泉全攻略](https://gobaligo.id/blog/batur-lake-volcano-guide/)
+> [峇里島金塔瑪尼巴杜爾火山湖｜日出登山 × 皇家遊船 × 湖景咖啡廳 × 山林遊樂場 × 火山溫泉全攻略](https://gobaligo.id/zh-hk/blog/batur-lake-volcano-guide/)
 
 ### 16. 金塔馬尼火山 Kintamani / Mount Batur
 
@@ -202,7 +202,7 @@ https://youtu.be/mx2zwlUovew
 
 - _💬 Google真實評論：_「呢度嘅氣候非常涼爽，同南部嘅炎熱完全唔同！坐喺景觀咖啡廳裡面望住黑色嘅火山熔岩遺跡同湖景，視野非常遼闊，極度推薦一遊。」
 
-> [峇里島金塔瑪尼13大景觀火山咖啡廳/餐廳推薦 🌄☕](https://gobaligo.id/blog/kintamani-volcano-cafes-restaurants/)
+> [峇里島金塔瑪尼13大景觀火山咖啡廳/餐廳推薦 🌄☕](https://gobaligo.id/zh-hk/blog/kintamani-volcano-cafes-restaurants/)
 
 ## 五、 上帝遺落嘅明珠：佩尼達島同離島區域（Nusa Islands）
 
@@ -232,7 +232,7 @@ https://youtu.be/mx2zwlUovew
 
 - _💬 Google真實評論：_「大自然嘅鬼斧神工！天然嘅海蝕拱門好壯觀。隔籬嘅天神裂縫喺退潮時，水面平靜到好似透明嘅無邊際泳池，可以見到下面嘅岩石紋理，靚到爆。」
 
-[> 【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](https://gobaligo.id/blog/nusa-penida-guide/)
+[> 【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](https://gobaligo.id/zh-hk/blog/nusa-penida-guide/)
 
 ### 20. 惡魔的眼淚 Devil's Tears（藍夢島）
 
@@ -242,7 +242,7 @@ https://youtube.com/shorts/exdiGPLkVjw
 
 - _💬 Google真實評論：_「當大浪拍擊岩石裂縫嘅時候，會激起好大嘅浪花同水霧，現場聽啲聲真係好震撼！運氣好嘅話仲可以見到浪花入面折射出嚟嘅彩虹。不過千祈唔好企得太近邊緣，安全最緊要。」
 
-> [【倫邦岸島/藍夢島景點攻略】探索藍夢島/金銀島景點、美食、交通：峇里島嘅鄰近天堂](https://gobaligo.id/blog/nusa-lembongan-ceningan-guide/)
+> [【倫邦岸島/藍夢島景點攻略】探索藍夢島/金銀島景點、美食、交通：峇里島嘅鄰近天堂](https://gobaligo.id/zh-hk/blog/nusa-lembongan-ceningan-guide/)
 
 https://youtube.com/shorts/D6ZFGWE74cE
 
@@ -252,11 +252,11 @@ https://youtube.com/shorts/D6ZFGWE74cE
 
 為咗令你嘅旅程更流暢、玩得更優雅，我哋特別為大家整理咗超詳細嘅【本站專屬：峇里島分區順遊全攻略】！入面唔單止幫你將附近景點串成一日遊路線，仲加碼咗內行先至知嘅秘境交通指南同避開人潮嘅小貼士。
 
-#### 👉 㩒呢度即刻睇：[峇里島分區順遊全攻略，帶你一文玩晒諸神之島！](https://gobaligo.id/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)
+#### 👉 㩒呢度即刻睇：[峇里島分區順遊全攻略，帶你一文玩晒諸神之島！](https://gobaligo.id/zh-hk/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)
 
-> [峇里島新手懶人包](https://gobaligo.id/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
+> [峇里島新手懶人包](https://gobaligo.id/zh-hk/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
 
-> [峇里島唔中伏攻略：18個常見錯誤同建議](https://gobaligo.id/blog/bali-travel-mistakes-tips/)
+> [峇里島唔中伏攻略：18個常見錯誤同建議](https://gobaligo.id/zh-hk/blog/bali-travel-mistakes-tips/)
 
 等最地道嘅行程指引，陪你一齊執好行李，展開呢趟洗滌身心嘅極致奢華之旅啦！
 

@@ -148,7 +148,7 @@ https://youtu.be/hQbBTktqEqY
 
 ![七、最後嘅提醒：放慢腳步](https://images.gobaligo.id/images/2026-04/1775353631404-10819a3acdc4d57f5f5a684e1dfea4ed.jpg)
 
-> 獨遊遊記參考：[🌺 獨自闖蕩峇里島8天 - 女子獨旅體驗分享 🌺](/blog/bali-solo-female-travel/)
+> 獨遊遊記參考：[🌺 獨自闖蕩峇里島8天 - 女子獨旅體驗分享 🌺](/zh-hk/blog/bali-solo-female-travel/)
 
 ***
 

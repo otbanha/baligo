@@ -120,6 +120,6 @@ Villa ini adalah penemuan baru yang paling bikin saya kagum akhir-akhir ini. Har
 
 ![Jujur dari Redaksi](https://images.gobaligo.id/vocus/vocus_8d5ad2e2d7609bc307d6ab558884e63e.jpg)
 
-Jimbaran di Bali punya pantai yang spektakuler dan pemandangan yang bikin takjub. Daerah ini terkenal dengan resort-resort memukau, lengkap dengan pasir pantai keemasan, sunset cantik, dan hotel-hotel mewah. Di sini semuanya ada—mulai dari santai, kuliner, belanja, sampai hiburan—jadi favorit wisatawan. Klik [di sini](/blog/jimbaran-beachfront-hotels-guide/) buat lihat beberapa penginapan tepi pantai terkenal di Jimbaran.
+Jimbaran di Bali punya pantai yang spektakuler dan pemandangan yang bikin takjub. Daerah ini terkenal dengan resort-resort memukau, lengkap dengan pasir pantai keemasan, sunset cantik, dan hotel-hotel mewah. Di sini semuanya ada—mulai dari santai, kuliner, belanja, sampai hiburan—jadi favorit wisatawan. Klik [di sini](/id/blog/jimbaran-beachfront-hotels-guide/) buat lihat beberapa penginapan tepi pantai terkenal di Jimbaran.
 
 {{block:住宿}}

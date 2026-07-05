@@ -45,4 +45,4 @@ Click the video below to delve into Bali independent travel, Kuta Area tourism, 
 
 👈 **Back to the Ultimate Guide to Bali Independent Travel**
 
-Want to read the complete beginner's guide? [Click here to read the "2026 Ultimate Guide to Bali Independent Travel"](/blog/bali-ultimate-guide-2026/), and understand everything you need to do before departure.
+Want to read the complete beginner's guide? [Click here to read the "2026 Ultimate Guide to Bali Independent Travel"](/en/blog/bali-ultimate-guide-2026/), and understand everything you need to do before departure.

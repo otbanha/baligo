@@ -54,7 +54,7 @@ _srcHash: e46b7b5c4cbf781b5d6c22dad068ac6e
 
 金巴兰海滩以海鲜烧烤闻名，新鲜的海鲜配上日落美景简直是人间享受！现捞现烤的鱼、虾、龙虾等海鲜，淋上特制酱料，是到巴厘岛必须体验的浪漫用餐方式。
 
-**快速参考：**[巴厘岛金巴兰海鲜推荐：11家海鲜餐厅不踩雷推荐](/blog/jimbaran-seafood-restaurants-list/)
+**快速参考：**[巴厘岛金巴兰海鲜推荐：11家海鲜餐厅不踩雷推荐](/zh-cn/blog/jimbaran-seafood-restaurants-list/)
 
 {{block:klook}}
 

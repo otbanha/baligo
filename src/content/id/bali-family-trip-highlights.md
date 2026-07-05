@@ -40,7 +40,7 @@ Disediakan oleh Lin Xiaozhao
 
 Kali ini kami sengaja mampir ke GWK Cultural Park. Selain warisan budayanya yang megah, di sini juga banyak banget pemandangan cantik yang wajib banget diabadikan. Areanya luas banget, saran banget naik shuttle biar bisa santai nikmatin tiap sudutnya.
 
-> [Panduan Lengkap Garuda Wisnu Kencana GWK Cultural Park Bali](/blog/gwk-cultural-park-bali/)
+> [Panduan Lengkap Garuda Wisnu Kencana GWK Cultural Park Bali](/id/blog/gwk-cultural-park-bali/)
 
 🦅☀️🌴GWK Garuda Wisnu Kencana Plaza, patung Dewa Wisnu dan Garuda yang raksasa bikin takjub 😍, plus bisa nonton pertunjukan tradisional, perpaduan budaya dan alam yang pas banget ▶ [Link tiket Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=848821&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D795e4377a1)
 
@@ -52,7 +52,7 @@ Disediakan oleh Lin Xiaozhao
 
 Kami pesan rafting [Red Paddle Bali Adventure](https://affiliate.klook.com/redirect?aid=116349&aff_adid=901865&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F5504-ayung-white-water-rafting-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D65ec132ff9) lewat Klook, dan ternyata jauh lebih seru dari yang dibayangkan. Instrukturnya profesional banget, tapi juga perhatian. Apalagi anak pertama kami sempat nggak enak badan di tengah jalan, instrukturnya terus ngecek kondisinya — bikin kami tenang banget. Instruktur di perahu lain juga ramah-ramah, saling siram air dan balapan, jadilah 2 jam rafting penuh tawa. Kami juga ketemu turis dari Arab Saudi dan Korea, ngobrol seru, sambil latihan bahasa Inggris dan Korea — seru banget sih!
 
-> "Panduan Rafting & Pertanyaan Umum" bisa cek [di sini](/blog/bali-rafting-ayung-telaga-waja/)
+> "Panduan Rafting & Pertanyaan Umum" bisa cek [di sini](/id/blog/bali-rafting-ayung-telaga-waja/)
 
 ### **Driver Tega — Pelayanan Super Perhatian, Semua Keinginan Terpenuhi**
 
@@ -62,7 +62,7 @@ Disediakan oleh Lin Xiaozhao
 
 Driver sewaan kami, Tega, nggak cuma bikin keinginan ke sawah terasering dan ayunan terpenuhi dalam satu trip, tapi juga bawa kami ke banyak hidden gem. Apalagi di tempat ayunan sawah terasering, pemandangannya bikin napas tertahan, dan ada juga sewa gaun ekor panjang — langsung bikin aku jadi peri, super dreamy banget!
 
-> [Ayunan Ubud: 8 Spot Foto Ayunan Terindah di Bali｜Panduan Ayunan Ubud/Sewa Gaun](/blog/ubud-jungle-swings-photo-guide/)
+> [Ayunan Ubud: 8 Spot Foto Ayunan Terindah di Bali｜Panduan Ayunan Ubud/Sewa Gaun](/id/blog/ubud-jungle-swings-photo-guide/)
 
 🛕🐒🌿 Tur sehari di Ubud, eksplor spot IG hits, nikmati keindahan alam yang luar biasa, cicipi kuliner lokal dan kopi luwak ☕📸, perpaduan sempurna budaya dan alam ▶ [Klook 50+ Pilihan Trip](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989417&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E7%2583%258F%25E5%25B8%2583%25E4%25B8%2580%25E6%2597%25A5%26sort%3Dmost_relevant%26tab_key%3D0%26start%3D1)
 
@@ -74,7 +74,7 @@ Disediakan oleh Lin Xiaozhao
 
 Di Kafe Paperhills, kami beruntung bisa lihat Gunung Batur yang megah — gunung api aktif ini terlihat jelas dari puncak sampai kaki, bikin kagum. Kafe ini punya empat lantai, setiap sudutnya bisa jadi spot foto cakep. Pakai baju sendiri, di sini foto apa aja jadi kayak influencer. Keuntungan sewa mobil pribadi, kita bisa bawa banyak perlengkapan, kapan aja siap mengabadikan momen indah.
 
-> Baca Juga: [12 Rekomendasi Kafe dengan Pemandangan Gunung Batur di Kintamani, Bali](/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
+> Baca Juga: [12 Rekomendasi Kafe dengan Pemandangan Gunung Batur di Kintamani, Bali](/id/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
 
 ### **Rijasa Agung Ubud — Perpaduan Sempurna Antara Ketenangan dan Kenyamanan**
 
@@ -93,7 +93,7 @@ Kami nginep di Rijasa Agung Hotel di Ubud, lokasinya persis di tepi Sungai Ayung
 
 > ▶Rijasa Agung Resort and Villas — Cek harga & ketersediaan kamar [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1744536&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/c79DvepT)
 
-Sudah masuk di [【Rekomendasi Penginapan Ubud Bali】28 Akomodasi Unik di Ubud, Nikmati Petualangan di Tengah Hutan Bali!](/blog/ubud-villas-pool-guide/)
+Sudah masuk di [【Rekomendasi Penginapan Ubud Bali】28 Akomodasi Unik di Ubud, Nikmati Petualangan di Tengah Hutan Bali!](/id/blog/ubud-villas-pool-guide/)
 
 ### **Jungle Cart — Pengalaman Seru ala Bali**
 
@@ -101,7 +101,7 @@ https://youtube.com/shorts/v7NAvCARzKY
 
 Karting sih udah biasa, tapi bisa ngebut di jalanan hutan Ubud? Ini baru pengalaman unik khas Bali! Kami melaju di tengah sawah, ada mobil pemandu yang nyetel lagu seru buat ngecek jalan. Sepanjang jalan ada ayam lari, sapi malas melenguh. 30 menit aja udah penuh keseruan!
 
-Baca selengkapnya di sini: [Jungle Cart Bali — Mario Kart di Hutan Ubud](/blog/ubud-jungle-cart-adventure/)
+Baca selengkapnya di sini: [Jungle Cart Bali — Mario Kart di Hutan Ubud](/id/blog/ubud-jungle-cart-adventure/)
 
 🏎️🏎️ [Pesan Jungle Cart sekarang](https://affiliate.klook.com/redirect?aid=116349&aff_adid=880814&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F121396-ubud-jungle-cart-experience-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbeaf072d1f)
 

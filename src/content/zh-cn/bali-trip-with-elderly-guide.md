@@ -42,7 +42,7 @@ Update: 2026/07/03
 
 - 这步骤可在出境前完成：[海关申报入口](https://ecd.beacukai.go.id/)
 
-有了这些提前准备，巴厘岛的入境流程会变得更为顺畅，省去当场填表排队的时间。如果还不太清楚流程的，可以参考这里详细的说明。现在第一关和第三关已合并：「[【2026版】印尼巴厘岛入境使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/bali-all-indonesia-arrival-guide/)」
+有了这些提前准备，巴厘岛的入境流程会变得更为顺畅，省去当场填表排队的时间。如果还不太清楚流程的，可以参考这里详细的说明。现在第一关和第三关已合并：「[【2026版】印尼巴厘岛入境使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/zh-cn/blog/bali-all-indonesia-arrival-guide/)」
 
 ## 【包车与行程安排的沟通建议】
 
@@ -70,7 +70,7 @@ Update: 2026/07/03
 
 透过这样的准备和沟通方式，包车旅行将更顺畅，且能够更好地配合旅程需求，带来满足的巴厘岛体验。
 
-> 编按：关于旅行前的计划，可以参考这篇「[巴厘岛自由行旅程规划攻略：5 个步骤轻松搞定](/blog/2026-bali-trip-planning-guide/)」
+> 编按：关于旅行前的计划，可以参考这篇「[巴厘岛自由行旅程规划攻略：5 个步骤轻松搞定](/zh-cn/blog/2026-bali-trip-planning-guide/)」
 
 ## 【行程安排】
 
@@ -115,7 +115,7 @@ https://youtu.be/JtxZHtijEkE
 
 - **彭利普兰村**：极具传统风貌的巴厘村落，井然有序的房屋和石板路充满人文气息。
 
-> 编按：以上乌布景点都收录在「[巴厘岛乌布完整攻略：100种深入了解乌布的方式](/blog/ubud-guide/)」
+> 编按：以上乌布景点都收录在「[巴厘岛乌布完整攻略：100种深入了解乌布的方式](/zh-cn/blog/ubud-guide/)」
 
 1. - **乌鲁瓦图神庙**（Pura Luhur Uluwatu）：坐落于悬崖顶的神庙，是欣赏壮丽海景与日落的完美地点。
 
@@ -129,7 +129,7 @@ https://youtu.be/JtxZHtijEkE
 
 1. - **Melasti海滩**（Melasti Beach）：白沙细致、海水清澈，是享受阳光和放松的理想去处。
 
-> 编按：以上乌鲁瓦图景点都收录在「[乌鲁瓦图景点 50个吃喝玩乐推荐](/blog/uluwatu-guide/)」
+> 编按：以上乌鲁瓦图景点都收录在「[乌鲁瓦图景点 50个吃喝玩乐推荐](/zh-cn/blog/uluwatu-guide/)」
 
 1. - **Krisna纪念品中心**（Krisna Oleh Oleh Bali Bypass）：巴厘岛知名的伴手礼店，选购礼物的好去处。
 
@@ -145,7 +145,7 @@ https://youtu.be/JtxZHtijEkE
 
 （Claire Chen提供）
 
-> 快速参考：[巴厘岛探险：巴杜尔火山吉普车日出之旅全记录](/blog/batur-volcano-jeep-sunrise-tour/)
+> 快速参考：[巴厘岛探险：巴杜尔火山吉普车日出之旅全记录](/zh-cn/blog/batur-volcano-jeep-sunrise-tour/)
 
 1. - **努沙佩尼达岛跳岛一日游**（Nusa Penida Day Tour）：安排岛上专业司机带领，让我们尽情探索这个迷人的小岛。司机虽以英文为主，但基本沟通没问题，如有疑问可随时联系巴厘岛的中文导游Ani协助。佩尼达岛的司机们也都擅长摄影，能帮助拍出理想的旅游照片。
 
@@ -173,7 +173,7 @@ https://youtu.be/JtxZHtijEkE
 
 （Claire Chen提供）
 
-> 编按：以上佩尼达岛景点都收录在「[佩尼达岛全攻略:地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)」
+> 编按：以上佩尼达岛景点都收录在「[佩尼达岛全攻略:地图、搭船、住宿、交通、包车、活动、摄影、景点](/zh-cn/blog/nusa-penida-guide/)」
 
 这次旅程集结了自然、美景与文化的精髓，无论是放松、拍照或体验当地生活，都能满足不同的需求。
 
@@ -200,7 +200,7 @@ https://youtu.be/JtxZHtijEkE
 
 ## 【旅程结语】
 
-最后特别要推荐的是我们透过脸书社团【[Go Bali Go 巴厘岛旅游](https://www.facebook.com/groups/baligo/)】在「[巴厘岛包车司机推荐名人榜](/blog/bali-private-car-drivers-guide/)」找到的专业包车团队和导游，让这趟首次前往巴厘岛的旅程无比安心舒适。
+最后特别要推荐的是我们透过脸书社团【[Go Bali Go 巴厘岛旅游](https://www.facebook.com/groups/baligo/)】在「[巴厘岛包车司机推荐名人榜](/zh-cn/blog/bali-private-car-drivers-guide/)」找到的专业包车团队和导游，让这趟首次前往巴厘岛的旅程无比安心舒适。
 
 ![【旅程結語】](https://images.gobaligo.id/vocus/vocus_da313eec958216453bae20d6d64fe17c.jpg)
 
@@ -210,9 +210,9 @@ https://youtu.be/JtxZHtijEkE
 
 ## **带长辈同游巴厘岛指南：**
 
-- 第一集：[适合长者的巴厘岛旅行指南 - 安全、舒适与注意事项](/blog/bali-elderly-travel-guide/)
-- 第二集：[适合年长者的巴厘岛旅游地点全攻略](/blog/bali-senior-friendly-travel-guide/)
-- 第三集：[长辈的行为有多奇葩！？带出国旅游当心「吃力不讨好」](/blog/traveling-with-elderly-parents-tips/)
+- 第一集：[适合长者的巴厘岛旅行指南 - 安全、舒适与注意事项](/zh-cn/blog/bali-elderly-travel-guide/)
+- 第二集：[适合年长者的巴厘岛旅游地点全攻略](/zh-cn/blog/bali-senior-friendly-travel-guide/)
+- 第三集：[长辈的行为有多奇葩！？带出国旅游当心「吃力不讨好」](/zh-cn/blog/traveling-with-elderly-parents-tips/)
 
 您觉得Claire Chen他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
@@ -220,6 +220,6 @@ https://youtu.be/JtxZHtijEkE
 
 点击这里观看更多巴厘岛精彩游记
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/zh-cn/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
 
 {{block:攻略}}

@@ -68,5 +68,5 @@ Buat kamu yang pengen nonton pertunjukan tari api, bisa cek paket wisata populer
 
 ## Tempat Wisata Sekitar
 
-Di kawasan ini, selain nonton fire dance, masih banyak banget pemandangan alam unik dan tempat/aktivitas wisata seru lainnya! Kalau kamu mau bikin one day trip yang termasuk nonton fire dance, bisa cek [di sini](/blog/bukit-peninsula-guide/) ya, ada serangkaian info lengkap dari kita!
+Di kawasan ini, selain nonton fire dance, masih banyak banget pemandangan alam unik dan tempat/aktivitas wisata seru lainnya! Kalau kamu mau bikin one day trip yang termasuk nonton fire dance, bisa cek [di sini](/id/blog/bukit-peninsula-guide/) ya, ada serangkaian info lengkap dari kita!
 

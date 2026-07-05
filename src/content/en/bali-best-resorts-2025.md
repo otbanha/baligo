@@ -92,24 +92,24 @@ Bali is not only renowned in Asia but also shines brightly in the global tourism
 
 ##### Further Reading:
 
-- [The World's Favorite Destination! Bali Takes the Crown](/blog/bali-tripadvisor-award-2025-2/)
-- [Bali Shines in TripAdvisor's 2025 Traveler's Choice Awards as Asia's Top Destination](/blog/bali-tripadvisor-award-2025/)
+- [The World's Favorite Destination! Bali Takes the Crown](/en/blog/bali-tripadvisor-award-2025-2/)
+- [Bali Shines in TripAdvisor's 2025 Traveler's Choice Awards as Asia's Top Destination](/en/blog/bali-tripadvisor-award-2025/)
 
 With increasing media exposure, Bali's tourism demand continues to rise. In 2025, the island is expected to welcome over **6.5 million international visitors**, along with millions of domestic tourists, setting new tourism records.
 
 ## **Exploring Bali's Hidden Gems: Emerging Hotspots**
 
-While Bali's mainstream tourist areas like **Kuta** ([Kuta Guide](/blog/2023-12-13-657598bdfd8978000120fe20/)), **Seminyak** ([Seminyak Guide](/blog/seminyak-guide/)), **Nusa Dua** ([Nusa Dua Guide](/blog/nusa-dua-guide/)), and **Ubud** ([Ubud Guide](/blog/ubud-guide/)) remain beloved by travelers, more returning visitors are choosing to explore lesser-known hidden spots to gain a deeper understanding of Balinese culture and avoid the crowds.
+While Bali's mainstream tourist areas like **Kuta** ([Kuta Guide](/en/blog/2023-12-13-657598bdfd8978000120fe20/)), **Seminyak** ([Seminyak Guide](/en/blog/seminyak-guide/)), **Nusa Dua** ([Nusa Dua Guide](/en/blog/nusa-dua-guide/)), and **Ubud** ([Ubud Guide](/en/blog/ubud-guide/)) remain beloved by travelers, more returning visitors are choosing to explore lesser-known hidden spots to gain a deeper understanding of Balinese culture and avoid the crowds.
 
 In 2026, the following areas are expected to become emerging popular destinations:
 
 - **_East Bali_: Karangasem, the tranquil Candidasa, and the diving paradise Amed**
 
-> Further Reading: [Amed/Tulamben Guide](/blog/amed-tulamben-diving-guide/)
+> Further Reading: [Amed/Tulamben Guide](/en/blog/amed-tulamben-diving-guide/)
 
 - **_North Bali_: Lovina, the dolphin haven, and the natural retreat Pemuteran**
 
-> Read More: [Essential Tips for Your North Bali Adventure: 15 Things to Know Before You Go](/blog/north-bali-travel-guide/)
+> Read More: [Essential Tips for Your North Bali Adventure: 15 Things to Know Before You Go](/en/blog/north-bali-travel-guide/)
 
 - **_West Bali_: Surfing Haven _Medewi_, Majestic _West Bali National Park_**
 

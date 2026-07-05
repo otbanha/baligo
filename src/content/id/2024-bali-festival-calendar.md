@@ -26,9 +26,9 @@ _srcHash: 32a9159a78ff5f8bcd4f43dc83af51fe
 ---
 Bali, pulau Indonesia yang indah bak lukisan, di tahun 2024 akan membawamu ke dalam pesta budaya yang penuh warna dan semarak. Entah kamu ingin menghindari periode tertentu atau ingin ikut meramaikan festival seru di Bali, panduan lengkap ini bisa jadi referensi terbaikmu! Yuk, kita eksplorasi berbagai acara meriah dan penuh energi di pulau unik ini!
 
-### Buat yang mau hindari lima musim ramai di Bali, cek: [Bali Ternyata Punya Lima Musim Ramai! Gimana Cara Pinter Traveling Biar Nggak Kena Crowd?](/blog/bali-peak-season-travel-tips/)
+### Buat yang mau hindari lima musim ramai di Bali, cek: [Bali Ternyata Punya Lima Musim Ramai! Gimana Cara Pinter Traveling Biar Nggak Kena Crowd?](/id/blog/bali-peak-season-travel-tips/)
 
-### Kapan sih musim hujan dan kemarau di Indonesia/Bali? Lihat: [Waktu Terbaik ke Bali? Pahamin Musim Kemarau & Hujan/Plus Minusnya](/blog/bali-best-time-to-visit/)
+### Kapan sih musim hujan dan kemarau di Indonesia/Bali? Lihat: [Waktu Terbaik ke Bali? Pahamin Musim Kemarau & Hujan/Plus Minusnya](/id/blog/bali-best-time-to-visit/)
 
 ![搞清楚印尼/峇里島節假日，安排旅遊更輕鬆！](https://images.gobaligo.id/vocus/vocus_a595ce6f3dc7c049d85259e8931f2612.png)
 
@@ -102,7 +102,7 @@ Libur Tahun Baru Imlek, orang dewasa dapat cuti panjang, anak-anak libur sekolah
 - Jumat, 8 Maret, diperingati sebagai Maha Shivaratri, sebuah festival Hindu yang menghormati Dewa Siwa (Shiva). Pada hari ini, umat Hindu berkumpul di pura-pura untuk berdoa dan bersembahyang.
 - 10 Maret: Pawai Ogoh-Ogoh di Bali, pengalaman yang super unik! Cek video dari Jie untuk info lebih lanjut, kalau ada kesempatan wajib datang dan rasain sendiri ya:
 
-- 11 Maret: Hari Raya Nyepi / Tahun Baru Saka di Bali. Ini adalah hari paling penting sepanjang tahun di Bali. Apa sih Nyepi itu? Apakah cocok liburan ke Bali saat Nyepi? Apa saja yang perlu diperhatikan? Di mana bisa lihat pawai Ogoh-Ogoh? [Baca selengkapnya di sini](/blog/2025-bali-nyepi-day-guide/).
+- 11 Maret: Hari Raya Nyepi / Tahun Baru Saka di Bali. Ini adalah hari paling penting sepanjang tahun di Bali. Apa sih Nyepi itu? Apakah cocok liburan ke Bali saat Nyepi? Apa saja yang perlu diperhatikan? Di mana bisa lihat pawai Ogoh-Ogoh? [Baca selengkapnya di sini](/id/blog/2025-bali-nyepi-day-guide/).
 - 12 Maret: Hampir 90% penduduk Indonesia yang beragama Islam mulai menjalankan ibadah puasa selama sebulan penuh! Apa itu puasa? Kenapa harus puasa? Tanya jawab seputar bulan Ramadan bisa kamu simak di penjelasan Mama Jie:
 
 - 12 Maret: Festival Omed-Omedan. Saat daerah lain di Indonesia mulai berpuasa, di Bali pada hari yang sama tahun 2024 jatuhlah acara 'Omed-Omedan'. Ini adalah salah satu festival paling seru di Bali. Pada hari ini, banyak pemuda-pemudi lajang berkumpul untuk mengikuti acara ciuman massal. Dalam acara ini, kelompok pria dan wanita berdiri berhadapan, lalu mulai berpelukan dan berciuman. Para penonton menyemangati mereka sambil menyiramkan air. Acara ini terbuka untuk turis asing yang ingin menonton, tapi sebaiknya jangan ikut serta.
@@ -199,7 +199,7 @@ Bali Arts Festival seru banget sebulan penuh!
 - 13 Juli: Saraswati adalah hari raya untuk merayakan Dewi Ilmu Pengetahuan. Dirayakan terutama oleh anak-anak yang berdoa dan membawa sesajen ke pura di sekolah. Orang Bali juga menghormati dewi dan buku dengan memercikkan air suci. Pura Saraswati yang paling terkenal di Bali terletak lima menit jalan kaki dari Puri Ubud, dan dikenal juga sebagai "Istana Air Ubud". Cek info dari Jie:
 
 - 17 Juli: Pagerwesi adalah hari raya keagamaan Hindu Bali yang bertujuan memperkuat dan mengembangkan kekuatan spiritual individu melawan kejahatan. Pada momen ini, doa dan sesajen ditujukan untuk menyelamatkan manusia, menjauhkan kejahatan dari manusia dan leluhur.
-- Bali Kite Festival (Festival Layang-Layang Bali) adalah perayaan budaya Bali yang biasanya diadakan setiap Juli dan Agustus. Tahun 2024 [diadakan pada 20–21 Juli](/blog/bali-kite-festival-sanur/). Dalam festival ini, peserta dari berbagai negara membawa layang-layang unik dan penuh warna untuk berlomba di pantai Sanur.
+- Bali Kite Festival (Festival Layang-Layang Bali) adalah perayaan budaya Bali yang biasanya diadakan setiap Juli dan Agustus. Tahun 2024 [diadakan pada 20–21 Juli](/id/blog/bali-kite-festival-sanur/). Dalam festival ini, peserta dari berbagai negara membawa layang-layang unik dan penuh warna untuk berlomba di pantai Sanur.
 
 ![峇里島風箏節是一個在國際知名的風箏比賽](https://images.gobaligo.id/vocus/vocus_0c7908b1a570ffe0ca5c733dd4a73de2.jpg)
 
@@ -245,7 +245,7 @@ Dewa Ganesha dalam agama Hindu
 
 - Maulid Nabi Muhammad adalah hari raya Islam yang memperingati kelahiran Nabi Muhammad. Perayaan ini biasanya jatuh pada tanggal 12 bulan Rabi'ul Awal dalam penanggalan Islam.
 - Mulai 25 September: Galungan & Kuningan — ini adalah salah satu hari raya terpenting di Bali, biasanya berlangsung sekitar 10 hari, merayakan penciptaan alam semesta dan kemenangan kebaikan atas kejahatan. Selama perayaan ini, orang-orang bersembahyang di rumah untuk menghormati leluhur dan memohon berkah, serta mengadakan upacara di pura sebagai bentuk penghormatan kepada para dewa. Galungan & Kuningan juga menandai awal tahun baru Bali menurut kalender Pawukon, dan dianggap sebagai hari penciptaan alam semesta. Selama periode ini, sekolah-sekolah di Bali libur selama dua minggu — bayangkan betapa pentingnya hari raya ini! Perlu diingat, transportasi seperti kapal, mobil sewaan, dan taksi bisa terpengaruh.
-- Acara paling seru di bulan September adalah Bali Carnival! Ini adalah festival budaya tahunan baru di Bali yang digelar pada 26 September–2 Oktober di Sanur, Bali. Festival ini akan dimeriahkan dengan samba yang penuh warna, parade karnaval, pertunjukan musik dan seni, serta menarik wisatawan dari seluruh dunia. Untuk detail acara, bisa [cek liputan kami di sini](/blog/bali-carnival-september-2024/).
+- Acara paling seru di bulan September adalah Bali Carnival! Ini adalah festival budaya tahunan baru di Bali yang digelar pada 26 September–2 Oktober di Sanur, Bali. Festival ini akan dimeriahkan dengan samba yang penuh warna, parade karnaval, pertunjukan musik dan seni, serta menarik wisatawan dari seluruh dunia. Untuk detail acara, bisa [cek liputan kami di sini](/id/blog/bali-carnival-september-2024/).
 
 **➡️**[**Klik di sini untuk lebih banyak penawaran menarik di Bali**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)**⬅️**
 
@@ -283,7 +283,7 @@ Itu dia daftar lengkap hari raya dan liburan di Indonesia/Bali tahun 2024. Bali 
 
 Kalau kamu udah mulai merencanakan liburan ke Bali tahun 2025, kami udah siapin **《Panduan Lengkap Libur Nasional Indonesia & Festival Bali 2025: Daftar Tanggal Acara Seru!》**. Panduan ini mencakup hari libur nasional Indonesia dan festival unik di Bali, biar kamu bisa atur waktu liburan dengan lebih baik dan ikut merasakan acara budaya lokal.
 
-Cepetan simpan [panduan festival & liburan 2025 ini](/blog/bali-indonesia-holidays-2025/) buat rencana terbaik liburanmu ke Bali!
+Cepetan simpan [panduan festival & liburan 2025 ini](/id/blog/bali-indonesia-holidays-2025/) buat rencana terbaik liburanmu ke Bali!
 
 ![避開旺季+參與節慶，你的假期特精彩！](https://images.gobaligo.id/vocus/vocus_1c20a805817a5c93c551193cfe80f25a.png)
 

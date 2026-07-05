@@ -94,16 +94,16 @@ This private car experience left me very satisfied. The driver's professionalism
 
 **Quick Reference:**
 
-- [Bali Private Car Hire Guide - Costs, Booking Methods, Advantages](/blog/bali-private-car-hire-guide/)
-- [Recommended Bali Private Car Drivers - Read Real Reviews to Find Your Perfect Driver](/blog/bali-private-car-drivers-guide/)
-- [Arriving in Bali: Airport Transfer Options and First-Day Tips](/blog/bali-airport-transfer-guide/)
-- [Recommended Chinese-Speaking Drivers/Guides/Private Car Tours in Bali](/blog/bali-chinese-tour-guide/)
-- [Bali Motorbike Rental Guide! Should You Rent a Motorbike or Hire a Private Car?](/blog/bali-motorbike-rental-guide/)
-- [When to Hire a Private Car? When to Call a Ride? Private Car vs. Ride-Hailing: Choosing the Best Travel Option](/blog/bali-transportation-guide-car-rental/)
-- [Must-Have Apps for Traveling in Indonesia/Bali: Gojek Guide](/blog/gojek-bali-guide/)
-- [How to Use Gojek Ride-Hailing App?](/blog/gojek-bali-guide/)
-- [Comprehensive Guide to Registering, Using, and Topping Up Gojek & GoPay in Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
-- [Bali Ride-Hailing App Driver Scams: How to Avoid Grab/Gojek Traps?](/blog/bali-grab-gojek-scam-tips/)
+- [Bali Private Car Hire Guide - Costs, Booking Methods, Advantages](/en/blog/bali-private-car-hire-guide/)
+- [Recommended Bali Private Car Drivers - Read Real Reviews to Find Your Perfect Driver](/en/blog/bali-private-car-drivers-guide/)
+- [Arriving in Bali: Airport Transfer Options and First-Day Tips](/en/blog/bali-airport-transfer-guide/)
+- [Recommended Chinese-Speaking Drivers/Guides/Private Car Tours in Bali](/en/blog/bali-chinese-tour-guide/)
+- [Bali Motorbike Rental Guide! Should You Rent a Motorbike or Hire a Private Car?](/en/blog/bali-motorbike-rental-guide/)
+- [When to Hire a Private Car? When to Call a Ride? Private Car vs. Ride-Hailing: Choosing the Best Travel Option](/en/blog/bali-transportation-guide-car-rental/)
+- [Must-Have Apps for Traveling in Indonesia/Bali: Gojek Guide](/en/blog/gojek-bali-guide/)
+- [How to Use Gojek Ride-Hailing App?](/en/blog/gojek-bali-guide/)
+- [Comprehensive Guide to Registering, Using, and Topping Up Gojek & GoPay in Indonesia/Bali](/en/blog/indonesia-gojek-gopay-guide/)
+- [Bali Ride-Hailing App Driver Scams: How to Avoid Grab/Gojek Traps?](/en/blog/bali-grab-gojek-scam-tips/)
 
 ***
 
@@ -159,8 +159,8 @@ While Bebek Bengil and pork ribs amazed us, traditional Indonesian cuisine didn'
 
 **Quick Reference:**
 
-- [Top 10 Foods in Bali](/blog/bali-travel-tips/)
-- [Top 10 Foods in Bali (Second Edition)](/blog/bali-top-10-foods/)
+- [Top 10 Foods in Bali](/en/blog/bali-travel-tips/)
+- [Top 10 Foods in Bali (Second Edition)](/en/blog/bali-top-10-foods/)
 
 ***
 
@@ -170,7 +170,7 @@ Beyond the main meals, Bali's snacks were a delightful surprise! Especially the 
 
 ![Snacks](https://images.gobaligo.id/vocus/vocus_3ea8ffe66b2a6770faffd5da33e37e49.png)
 
-Check out this guide for more recommendations: [Netizen Recommended] Six Categories, Over 20 Bali Souvenir Recommendations: The Perfect Choices to Preserve Precious Memories](/blog/bali-souvenirs-gift-guide/)
+Check out this guide for more recommendations: [Netizen Recommended] Six Categories, Over 20 Bali Souvenir Recommendations: The Perfect Choices to Preserve Precious Memories](/en/blog/bali-souvenirs-gift-guide/)
 
 ***
 
@@ -210,7 +210,7 @@ First, I must remind everyone that Bali has a lot of mosquitoes, and they are pa
 
 **Quick Reference:**
 
-[What essential medicines should you bring for a trip to Bali? How to buy mosquito repellent and sunscreen?](/blog/bali-travel-medicine-checklist/)
+[What essential medicines should you bring for a trip to Bali? How to buy mosquito repellent and sunscreen?](/en/blog/bali-travel-medicine-checklist/)
 
 ### Breakfast Service:
 
@@ -240,6 +240,6 @@ Do you find I-Hsuan Chang’s itinerary inspiring? Start planning your own Bali 
 
 Click here to explore more amazing Bali travel stories
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
 
 {{block:攻略}}

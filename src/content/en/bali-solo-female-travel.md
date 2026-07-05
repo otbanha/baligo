@@ -34,7 +34,7 @@ Here’s my 8-day solo Bali itinerary:
 
 **09:15-14:45** Arrive in Bali by flight. I pre-booked an airport transfer on Klook; the driver waited at the airport patiently for 2 hours. Once in the car, I asked the driver to stop at a money changer first—I went straight to BMC Money Changer. Then headed to tonight’s stay at [The Eight](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=23144116) resort.
 
-> Read more: [Indonesia/Bali Travel Money Exchange Guide](/blog/bali-currency-exchange-guide/)
+> Read more: [Indonesia/Bali Travel Money Exchange Guide](/en/blog/bali-currency-exchange-guide/)
 
 Stopped by the nearby supermarket to pick up mosquito repellent, a travel adapter, sunglasses, and summer swimwear. I bought a summer swimsuit at [niconico swimwear](https://niconicoswimwear.com/). The staff there are friendly and not pushy, with a great selection.
 
@@ -50,13 +50,13 @@ https://youtu.be/UoGlRyAdyB8?si=zU9O679PYB4OFz3U
 
 ![Sunday, March 18](https://images.gobaligo.id/images/2026-04/1775484443433-d2afa4e9-95d6-4542-b6ba-b0fd80619d3a.jpg)
 
-> Read more: [Exploring Oneeighty Day Club: Bali's Cliffside Pool with Breathtaking Views](/blog/oneeighty-dayclub-uluwatu-pool/)
+> Read more: [Exploring Oneeighty Day Club: Bali's Cliffside Pool with Breathtaking Views](/en/blog/oneeighty-dayclub-uluwatu-pool/)
 
 **5:30 PM** Arrive at The Blue Point Beach. Check the tides before heading out—high tide was at 2 PM that day, so at 5 PM the water was still high, making it hard to take good photos.
 
 https://youtu.be/hQbBTktqEqY
 
-> Read more: [Discover Bali's Hidden Gems: 6 Secluded Beaches & How to Check Tides](/blog/bali-hidden-beaches-guide/)
+> Read more: [Discover Bali's Hidden Gems: 6 Secluded Beaches & How to Check Tides](/en/blog/bali-hidden-beaches-guide/)
 
 **6:00-7:30 PM** Head to La Terrazza Uluwatu for dinner and the view. The restaurant is perched in a prime spot, offering sweeping sunset views and the silhouette of Uluwatu Temple.
 
@@ -102,7 +102,7 @@ https://youtu.be/hQbBTktqEqY
 
 https://youtu.be/JtxZHtijEkE
 
-> Read more: How to explore Ubud Market and the Royal Palace? [Click here](/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
+> Read more: How to explore Ubud Market and the Royal Palace? [Click here](/en/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
 
 **18:00** Dinner at L'Osteria, an Italian restaurant.
 
@@ -114,7 +114,7 @@ https://youtu.be/JtxZHtijEkE
 
 ![Wednesday, March 21](https://images.gobaligo.id/images/2026-04/1775485795494-resize.jpeg)
 
-> Further reading: [Can’t Miss This Bali Waterfall for Stunning Photos? Kanto Lampo Waterfall](/blog/kanto-lampo-waterfall-ig-spot/)
+> Further reading: [Can’t Miss This Bali Waterfall for Stunning Photos? Kanto Lampo Waterfall](/en/blog/kanto-lampo-waterfall-ig-spot/)
 
 https://youtube.com/shorts/w-gzis-G6OI
 
@@ -171,11 +171,11 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 ![March 22, Thursday](https://images.gobaligo.id/images/2026-04/1775485916831-resize_3_.jpeg)
 
-> Read more: [【Bali - Nusa Penida Complete Guide】Map, Ferry, Accommodation, Transport, Private Car, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
+> Read more: [【Bali - Nusa Penida Complete Guide】Map, Ferry, Accommodation, Transport, Private Car, Activities, Photography, Attractions](/en/blog/nusa-penida-guide/)
 
 On Nusa Penida, the only way to get around is by private car. I booked a ferry ticket + private car on Klook and was very satisfied overall. The car company contacted me in advance to confirm the itinerary and helped communicate with the driver. As soon as I got off the boat, the driver met me and even helped carry my luggage. Throughout the trip, he was a dedicated guide—when I climbed down to Kelingking Beach, he followed me all the way. I was truly grateful. At every stop, he took photos and reported back to the company, which made me, a solo female traveler, feel much safer. This tour really made me appreciate the driver, who helped with luggage from start to finish and accompanied me for photos—so responsible.
 
-> Read more: [Nusa Penida Taxi, Gojek/Grab, Private Car, and Scooter Transport Guide](/blog/nusa-penida-transport-guide/)
+> Read more: [Nusa Penida Taxi, Gojek/Grab, Private Car, and Scooter Transport Guide](/en/blog/nusa-penida-transport-guide/)
 
 **18:00** Grab a drink at Penida Colada Beach Bar
 
@@ -277,7 +277,7 @@ Overall, I found Bali's environment perfect for solo travel and photography. The
 
 Bali's natural scenery is absolutely stunning! This solo trip gave me an unforgettable experience and showed me the warmth and hospitality of the locals. Solo travel isn't scary at all; instead, it allowed me to fully immerse myself in nature and exotic vibes. If I get another chance, I'd love to visit this dreamy island again! I look forward to sharing more travel stories with everyone.
 
-> [Solo Travel Tips for Bali: A Paradise for One, Still Wonderful](/blog/2026-04-05-001845/)
+> [Solo Travel Tips for Bali: A Paradise for One, Still Wonderful](/en/blog/2026-04-05-001845/)
 
 ------------------The End---------------------
 
@@ -293,6 +293,6 @@ Do you find Shih-Chien's itinerary exciting? Plan your own Bali free trip now! Y
 
 Click here to see more amazing Bali travel stories.
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write a Stunning Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your story shine!
+Want to write a travelogue but don't know where to start? Check out "[How to Write a Stunning Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)" to make your story shine!
 
 {{block:攻略}}

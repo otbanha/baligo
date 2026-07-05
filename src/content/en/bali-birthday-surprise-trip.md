@@ -77,7 +77,7 @@ For dinner, we chose **Wahaha Pork Ribs**, where the grilled pork ribs and corn 
 
 [**▶Fairfield Legian Availability Check & Rates**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2179176) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=8669641&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjM0MDAwNTQ2NdU1SLRMtDBOTNU1sTQxNrDUNTIwMdL4v-zazKfGRgZagvEhnp4uhiWFqWaFpZY5RQWmpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYnNwMnUzNo_ikmEPCXRRX3mRee2DCafsk1qoM3ZDwjF5xAAJsCP2BAAAA&masterhotelid_tracelogid=100051355-0a9a83ae-494309-2042&detailFilters=17|1~17~1*31|8669641~31~8669641*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1425&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/AaX6Ygwm)
 
->** **[【Kuta Hotel Recommendations】12 Selected Hotels: City Shopping, Airport Transit, High CP Value Accommodations Guide](/blog/best-kuta-hotels-list/)
+>** **[【Kuta Hotel Recommendations】12 Selected Hotels: City Shopping, Airport Transit, High CP Value Accommodations Guide](/en/blog/best-kuta-hotels-list/)
 
 ## **September 5: Spectacular Nusa Penida Day Trip and Snorkeling Experience**
 
@@ -201,7 +201,7 @@ We stayed overnight at **VIVARA Private Pool Villas & Spa Retreats**. Upon arriv
 
 As our trip neared its end, the surprises continued. We started the day by visiting **GWK Cultural Park** (Garuda Wisnu Kencana), known for its giant Garuda statue and rich traditional Balinese dance performances. The park hosts different dance shows almost every hour, showcasing the beauty of Balinese culture. We watched two or three performances in a row, and before each show, we used ChatGPT to translate the descriptions of the performances through photos, which helped us better understand the mythological stories behind them, adding to the enjoyment of the experience.
 
-Quick reference: [【Bali Landmark】Complete Guide to GWK Cultural Park: World’s Tallest Statue, Traditional Dance Performances & Photo Spots](/blog/gwk-cultural-park-bali/)
+Quick reference: [【Bali Landmark】Complete Guide to GWK Cultural Park: World’s Tallest Statue, Traditional Dance Performances & Photo Spots](/en/blog/gwk-cultural-park-bali/)
 
 > [Discounted Tickets to GWK Cultural Park](https://affiliate.klook.com/redirect?aid=116349&aff_adid=939346&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Debd8965f1e)
 
@@ -215,7 +215,7 @@ In the afternoon, we drove to **Uluwatu Temple**. Be careful of the monkeys alon
 
 As evening fell, we found seats to watch the famous **Kecak Fire Dance**. This performance combines Balinese mythology with traditional dance, presented on a semicircular tiered stage. The visual effect of being surrounded by fire dancers is truly mesmerizing. The entire performance has no musical accompaniment, only dozens of dancers chanting the powerful 'Kecak' rhythm, creating a captivating background sound. This unique performance completely immerses the audience. At the end of the show, a spectator proposed to his lover amidst the flames, blending this surprise proposal with the classic performance, creating a memorable moment in our journey.
 
-> What is the Kecak Fire Dance? What makes it special? Check out [this introduction](/blog/kecak-fire-dance-bali/)
+> What is the Kecak Fire Dance? What makes it special? Check out [this introduction](/en/blog/kecak-fire-dance-bali/)
 
 This day was filled with tradition, surprises, and rich Balinese culture.
 
@@ -275,6 +275,6 @@ Did you find Zhang Jiawei’s itinerary inspiring? Start planning your own Bali 
 
 Click here to explore more amazing Bali travel stories
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
 
 {{block:攻略}}

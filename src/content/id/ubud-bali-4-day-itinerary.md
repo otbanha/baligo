@@ -43,7 +43,7 @@ Keesokan paginya, mereka langsung hunting ke tempat paling ikonik di Ubud — Hu
 
 Setelah keluar dari Hutan Monyet, mereka lewat jalan setapak menuju pedesaan di sekitar Ubud. Pemandangannya cantik banget, sawah hijau di mana-mana, suasananya damai dan santai. Akhirnya mereka sampai di sawah yang tenang, kayak lagi di surga tersembunyi. Ini juga bikin mereka inget liburan ke Kosta Rika dulu.
 
-Jalan setapak yang disebut Skywalk ini udah kita bahas khusus di artikel: [Jarak jalan kaki dari pusat Ubud ternyata ada surga kayak gini? Review Campuhan Ridge Walk Ubud](/blog/ubud-campuhan-ridge-walk/)
+Jalan setapak yang disebut Skywalk ini udah kita bahas khusus di artikel: [Jarak jalan kaki dari pusat Ubud ternyata ada surga kayak gini? Review Campuhan Ridge Walk Ubud](/id/blog/ubud-campuhan-ridge-walk/)
 
 ## Pasar Seni
 
@@ -79,11 +79,11 @@ Cara paling gampang dan seru buat menikmati Ubud tanpa repot mikir itinerary ada
 
 ## 更多 Ubud 景點介紹
 
-Kami udah ngumpulin lebih dari 100 spot & aktivitas seru di [[Panduan Lengkap Ubud Bali 2026](/blog/ubud-guide/)] buat kamu yang lagi traveling ke Ubud, wajib cek!
+Kami udah ngumpulin lebih dari 100 spot & aktivitas seru di [[Panduan Lengkap Ubud Bali 2026](/id/blog/ubud-guide/)] buat kamu yang lagi traveling ke Ubud, wajib cek!
 
 ![烏布完整攻略請按我](https://images.gobaligo.id/vocus/vocus_6669af373794716c6a95b23100cb5c11.png)
 
-[Klik di sini buat panduan lengkap Ubud](/blog/ubud-guide/)
+[Klik di sini buat panduan lengkap Ubud](/id/blog/ubud-guide/)
 
 ## Akomodasi Unik di Ubud
 
@@ -91,7 +91,7 @@ Ada 28 tempat menginap paling unik di Ubud, masing-masing punya pesona khas Bali
 
 Di artikel ini, kita bakal bahas tuntas keunikan dan daya tarik setiap akomodasi, plus cara booking untuk liburan Ubud-mu selanjutnya. Yuk, jelajahi pemandangan pegunungan yang memukau dan rasakan pesona khas Bali!
 
-- [【Akomodasi Bulan Madu Ubud】7 Rekomendasi Villa Bulan Madu di Ubud](/blog/bali-honeymoon-resorts-guide/)
-- [【Akomodasi Ubud Bali】21 Penginapan Unik di Ubud, Nikmati Petualangan di Tengah Hutan Pegunungan Bali!](/blog/ubud-villas-pool-guide/)
-- [Jelajahi 8 Villa Pohon/Bambu yang Bikin Takjub di Ubud (tree house/bamboo villa)](/blog/ubud-treehouse-bamboo-villa-stays/)
-- [【Rekomendasi Akomodasi Ubud】Surga Pribadi Villa dengan Kolam Renang: 12 Villa Bali yang Bikin Kamu Tercengang](/blog/ubud-villa-pool-guide/)
+- [【Akomodasi Bulan Madu Ubud】7 Rekomendasi Villa Bulan Madu di Ubud](/id/blog/bali-honeymoon-resorts-guide/)
+- [【Akomodasi Ubud Bali】21 Penginapan Unik di Ubud, Nikmati Petualangan di Tengah Hutan Pegunungan Bali!](/id/blog/ubud-villas-pool-guide/)
+- [Jelajahi 8 Villa Pohon/Bambu yang Bikin Takjub di Ubud (tree house/bamboo villa)](/id/blog/ubud-treehouse-bamboo-villa-stays/)
+- [【Rekomendasi Akomodasi Ubud】Surga Pribadi Villa dengan Kolam Renang: 12 Villa Bali yang Bikin Kamu Tercengang](/id/blog/ubud-villa-pool-guide/)

@@ -38,4 +38,4 @@ _srcHash: 60b0f736df4a7985140103b0014ea5e6
 - **入境数字化必备**：官方重申 2026 年入境印尼前，必须在「All Indonesia」官网完成 **e-VOA (电子落地签)** 与 **Arrival Card**，现场已没有提供纸本作业。
 - **交通预警**：受昨日路跑余波及今日雷雨影响，吉安雅至登巴萨路段车流较慢；此外，南部的地铁施工围栏持续增加，前往机场建议比平时多预留 30 分钟。
 
-> [「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
+> [「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/zh-cn/blog/bali-all-indonesia-arrival-guide/)

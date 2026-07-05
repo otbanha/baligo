@@ -26,7 +26,7 @@ _srcHash: 35eaa847def0e31925237cd7ebc8f1e5
 - **"Financial Screening" Entry Mechanism Officially Under Discussion**: The Bali Provincial Government has clearly stated that it will push for a "conditional entry" policy in 2026. In the future, international visitors may be required to verify their financial resources to ensure they can support their expenses during their stay on the island. This move aims to shift the tourism focus from "mass tourism" to "high-quality tourism," ensuring visitors contribute positively to the local economy.
 - **Indian Tourists Surpass Others for the First Time**: Latest statistics show that Malaysia has officially overtaken Australia as Bali's largest source of foreign tourists. In March, nearly 80% of Indian tourists entering Indonesia chose to arrive via Ngurah Rai Airport, primarily due to the increase in daily direct flights between the two countries and ASEAN visa-free travel.
 
-> [2026 Bali Tourism Data] Shifting Tourism Landscape: Malaysia Tops the List, Chinese Tourists Return, Australia Falls Behind?](/blog/bali-visitor-trends-2026/)
+> [2026 Bali Tourism Data] Shifting Tourism Landscape: Malaysia Tops the List, Chinese Tourists Return, Australia Falls Behind?](/en/blog/bali-visitor-trends-2026/)
 
 - **Digital Nomads and Long-Term Villa Rentals**: The tourism landscape in 2026 is shifting toward longer stays (averaging 10.84 nights). Digital nomads are spreading from the crowded southern areas to regions like **Sidemen**, **Amed**, and **North Badung**, seeking more authentic local living environments and stable rental models.
 
@@ -39,4 +39,4 @@ _srcHash: 35eaa847def0e31925237cd7ebc8f1e5
 - **Immigration Expands Enforcement Scope**: In addition to the previously apprehended 62 foreign violators, immigration authorities are currently conducting special operations targeting "illegal sex work" and "fraudulent investor visas." Holders of tourist visas are strictly prohibited from participating in any form of "volunteer service" or "teaching work," as these fall under different legal categories requiring separate visas.
 - **Backlash Against "Waste Crisis" Amid Sustainable Tourism**: Despite the official ban on organic waste, some areas have seen an increase in "garbage burning," with approximately 7 tons of waste flowing into rivers daily. Environmentally conscious tourists are advised to choose hotels with comprehensive waste management systems, such as those in the Nusa Dua area.
 
-> [2026 Bali Travel Alert] Waste Crisis Escalates: After Closure of Major Landfills, Street Conditions, Impact on Tourists, and Eco-Tourism Recommendations](/blog/bali-waste-crisis-2026/)
+> [2026 Bali Travel Alert] Waste Crisis Escalates: After Closure of Major Landfills, Street Conditions, Impact on Tourists, and Eco-Tourism Recommendations](/en/blog/bali-waste-crisis-2026/)

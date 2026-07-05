@@ -55,7 +55,7 @@ Balerung Stage專業演出片段：__VID0__
 
 如果你計劃去峇里島，不妨親自嚟體驗 Balerung Stage，呢度每場演出都蘊含住豐富嘅歷史同傳統，讓你能夠真正感受到峇里嘅文化精髓！
 
-> 延伸閱讀：[「票價為150K」... 150K係咩意思？](/blog/bali-budget-tips-k-explained/)
+> 延伸閱讀：[「票價為150K」... 150K係咩意思？](/zh-hk/blog/bali-budget-tips-k-explained/)
 
 ## 註冊加入我哋嘅網誌
 

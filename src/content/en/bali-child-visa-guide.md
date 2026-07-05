@@ -91,13 +91,13 @@ A parent visiting Bali shared: 'When customs officers saw our family had only on
 
 ![Steps to Apply for an E-Visa](https://images.gobaligo.id/vocus/vocus_a0603b99fe6343a76c317f76555a027a.png)
 
-**Further Reading:** [Bali, Indonesia Entry Using 'All Indonesia' Arrival Card｜1-Minute Guide to the Latest Process: From Disembarking to Customs Clearance and Baggage Claim](/blog/bali-all-indonesia-arrival-guide/)
+**Further Reading:** [Bali, Indonesia Entry Using 'All Indonesia' Arrival Card｜1-Minute Guide to the Latest Process: From Disembarking to Customs Clearance and Baggage Claim](/en/blog/bali-all-indonesia-arrival-guide/)
 
 ### **Must-Do Before Departure**:
 
-1. Ensure you've completed your eVisa application first. Refer to [here](/blog/bali-evisa-application-guide/) for further instructions to avoid scam websites.
-2. Complete the All Indonesia arrival card three days before departure and **screenshot the QR Code** for reference. See our compiled [FAQ](/blog/bali-evisa-customs-health-declaration/).
-3. **Pay the Bali Tourism Tax**: IDR 150,000 per person (approximately USD$5). How to pay? See our [Tourism Tax Guide](/blog/2026-bali-tourism-tax-guide/).
+1. Ensure you've completed your eVisa application first. Refer to [here](/en/blog/bali-evisa-application-guide/) for further instructions to avoid scam websites.
+2. Complete the All Indonesia arrival card three days before departure and **screenshot the QR Code** for reference. See our compiled [FAQ](/en/blog/bali-evisa-customs-health-declaration/).
+3. **Pay the Bali Tourism Tax**: IDR 150,000 per person (approximately USD$5). How to pay? See our [Tourism Tax Guide](/en/blog/2026-bali-tourism-tax-guide/).
 
 ### Reminder
 

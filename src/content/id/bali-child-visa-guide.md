@@ -91,17 +91,17 @@ Seorang orang tua yang pernah ke Bali cerita: "Petugas imigrasi lihat kami sekel
 4. **Bayar online**: **IDR 500.000** per orang, bisa pakai kartu kredit\*\*(ada biaya transaksi)\*\*
 5. **Terima visa**: Biasanya dalam 12 jam eVisa masuk, jangan lupa print atau simpan di HP
 
-**Baca juga:** [Panduan Masuk Bali Pakai Kartu 'All Indonesia'｜1 Menit Paham Proses Terbaru: Turun Pesawat → Imigrasi → Ambil Bagasi](/blog/bali-all-indonesia-arrival-guide/)
+**Baca juga:** [Panduan Masuk Bali Pakai Kartu 'All Indonesia'｜1 Menit Paham Proses Terbaru: Turun Pesawat → Imigrasi → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
 
 ![申請電子簽證的步驟](https://images.gobaligo.id/vocus/vocus_a0603b99fe6343a76c317f76555a027a.png)
 
-**延伸閱讀:** [印尼峇里島入境使用「All Indonesia」入境卡｜1分鐘搞懂最新流程：下飛機→過海關→領行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
+**延伸閱讀:** [印尼峇里島入境使用「All Indonesia」入境卡｜1分鐘搞懂最新流程：下飛機→過海關→領行李全攻略](/id/blog/bali-all-indonesia-arrival-guide/)
 
 ### **Wajib Dilakukan Sebelum Berangkat**:
 
-1. Pastikan sudah mengurus eVisa (visa elektronik) dulu. Cek [di sini](/blog/bali-evisa-application-guide/) untuk panduan lebih lanjut, biar nggak salah masuk situs penipuan.
-2. Tiga hari sebelum berangkat, isi All Indonesia入境卡 (kartu kedatangan), dan **screenshot QR Code**-nya buat jaga-jaga. Lihat [FAQ](/blog/bali-evisa-customs-health-declaration/) yang udah kami siapin.
-3. **Bayar Pajak Wisatawan Bali**: 150.000 IDR/orang (sekitar USD$10). Cara bayarnya? Cek [panduan pajak wisata](/blog/2026-bali-tourism-tax-guide/)
+1. Pastikan sudah mengurus eVisa (visa elektronik) dulu. Cek [di sini](/id/blog/bali-evisa-application-guide/) untuk panduan lebih lanjut, biar nggak salah masuk situs penipuan.
+2. Tiga hari sebelum berangkat, isi All Indonesia入境卡 (kartu kedatangan), dan **screenshot QR Code**-nya buat jaga-jaga. Lihat [FAQ](/id/blog/bali-evisa-customs-health-declaration/) yang udah kami siapin.
+3. **Bayar Pajak Wisatawan Bali**: 150.000 IDR/orang (sekitar USD$10). Cara bayarnya? Cek [panduan pajak wisata](/id/blog/2026-bali-tourism-tax-guide/)
 
 ### Tips Penting
 

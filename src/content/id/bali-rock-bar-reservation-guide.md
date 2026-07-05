@@ -81,7 +81,7 @@ Biar pengalaman kamu di Rock Bar makin lancar, nih aku kasih info kebijakan rese
 
 Reservasi di jam ini cuma buat **tamu yang nginep** di Ayana Resort, termasuk Ayana Resort Bali, Ayana Villas Bali, Ayana Segara Bali, atau RIMBA by Ayana Bali. Kalau kamu udah check-in di hotel-hotel ini, bisa langsung booking lewat App resmi resort ([Android](https://play.google.com/store/apps/details?id=com.ayanahospitality.app&pcampaignid=web_share) | [iOS](https://apps.apple.com/id/app/ayana-hotels-resorts/id6478279462?platform=iphone)).
 
-> Bingung milih penginapan di Ayana? Cek [Panduan Lengkap Ayana Resort](/blog/ayana-resort-bali-guide/)
+> Bingung milih penginapan di Ayana? Cek [Panduan Lengkap Ayana Resort](/id/blog/ayana-resort-bali-guide/)
 
 **Masuk Langsung (Walk-in):**
 
@@ -129,7 +129,7 @@ Kalau ada pertanyaan atau mau info lebih lanjut, langsung cek [halaman reservasi
 
 ## Menginap di Ayana Bali
 
-Menginap di **Ayana Bali** adalah pilihan ideal buat kamu yang pengin merasakan kemewahan kelas atas di Bali. Ayana punya empat area akomodasi berbeda, masing-masing punya ciri khas sendiri, cocok buat berbagai kebutuhan traveler. Kalau bingung milih, bisa cek [**Panduan Lengkap Ayana**](/blog/ayana-resort-bali-guide/) kami
+Menginap di **Ayana Bali** adalah pilihan ideal buat kamu yang pengin merasakan kemewahan kelas atas di Bali. Ayana punya empat area akomodasi berbeda, masing-masing punya ciri khas sendiri, cocok buat berbagai kebutuhan traveler. Kalau bingung milih, bisa cek [**Panduan Lengkap Ayana**](/id/blog/ayana-resort-bali-guide/) kami
 
 ## Penutup 🌴
 
@@ -139,4 +139,4 @@ Rock Bar di Jimbaran adalah tempat romantis yang wajib kamu kunjungi di Bali. Ma
 
 ## Juga Nonton Ini:
 
-[Lebih chill dari Rock Bar! Nikmati sunset 360 derajat di Luna Rooftop Bar Ayana Bali](/blog/ayana-luna-rooftop-bar-sunset/)
+[Lebih chill dari Rock Bar! Nikmati sunset 360 derajat di Luna Rooftop Bar Ayana Bali](/id/blog/ayana-luna-rooftop-bar-sunset/)

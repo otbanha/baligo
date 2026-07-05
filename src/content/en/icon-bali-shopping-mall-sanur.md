@@ -38,7 +38,7 @@ https://youtu.be/SpcgZ4iK7qs
 
 Spanning 32,000 square meters, Icon Bali Mall claims to be Bali's largest shopping center, offering shopping, dining, and direct beach access for a unique destination for both locals and tourists. The arrival of Icon Bali is expected to bring unparalleled and unforgettable shopping and entertainment experiences to visitors in Sanur.
 
-> Further Reading: [Bali Family-Friendly Free Travel: Sanur Guide Map｜45 Things to Eat, Drink, and Do, Plus SPA and Accommodation Recommendations!](/blog/sanur-guide/)
+> Further Reading: [Bali Family-Friendly Free Travel: Sanur Guide Map｜45 Things to Eat, Drink, and Do, Plus SPA and Accommodation Recommendations!](/en/blog/sanur-guide/)
 
 At the heart of Icon Bali Mall is Jaje Bali Floating Market, Southeast Asia's largest indoor water market. This market offers Balinese cuisine, desserts, and trinkets, allowing visitors to interact with vendors. Icon Bali Mall also provides a variety of other entertainment and shopping options, including an art and culture stage, cinema, gaming zone, and more.
 

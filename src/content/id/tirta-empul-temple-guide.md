@@ -54,11 +54,11 @@ Non-Hindu juga boleh ikut, asal menghormati budaya dan tata caranya.
 **Ketentuan Ikut Serta:**
 
 - Pakai Sarong dan sabuk (disediakan gratis oleh pura)
-- Bisa siapin [Canang Sari](/blog/bali-canang-sari-explained/) (sesajen) beli di luar pura
+- Bisa siapin [Canang Sari](/id/blog/bali-canang-sari-explained/) (sesajen) beli di luar pura
 - Jaga ketenangan, rendah hati, dan hormat
 - Ikuti urutan air suci untuk pemurnian (bisa minta bantuan pemandu)
 
-> Baca juga: [Tradisi Sembahyang di Bali: Canang Sari](/blog/bali-canang-sari-explained/)
+> Baca juga: [Tradisi Sembahyang di Bali: Canang Sari](/id/blog/bali-canang-sari-explained/)
 
 ### Prosedur & Urutan yang Benar dalam Ritual Pemurnian Air Suci
 

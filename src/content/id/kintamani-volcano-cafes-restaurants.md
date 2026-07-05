@@ -231,8 +231,8 @@ Kafe-kafe di Kintamani ini terletak di tepi Danau Batur (Danau Batur), di utara 
 
 ![烏布完整攻略](https://images.gobaligo.id/vocus/vocus_2f3da2d64fc90baf0c820118847c5f28.jpg)
 
-[Panduan Lengkap Ubud](/blog/ubud-guide/)
+[Panduan Lengkap Ubud](/id/blog/ubud-guide/)
 
-Selain itu, kalau berangkat dari Ubud, kamu juga bisa lihat panduan **「**[**100 Tempat Wisata di Ubud**](/blog/ubud-guide/)**」** buat merencanakan rute perjalanan yang lengkap, biar liburan ke Kintamani makin seru dan berkesan!
+Selain itu, kalau berangkat dari Ubud, kamu juga bisa lihat panduan **「**[**100 Tempat Wisata di Ubud**](/id/blog/ubud-guide/)**」** buat merencanakan rute perjalanan yang lengkap, biar liburan ke Kintamani makin seru dan berkesan!
 
 ✨ **Tips**: Karena Kintamani termasuk daerah pegunungan, suhu pagi dan malam cenderung dingin. Jangan lupa bawa jaket, dan sisihkan waktu yang cukup buat menikmati pemandangan danau dan gunung di sini!

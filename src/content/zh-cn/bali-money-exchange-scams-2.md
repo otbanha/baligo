@@ -124,6 +124,6 @@ _srcHash: 7c102224a94be118010778d3f71bccfd
 
 **快速参考：**
 
-- [印尼/巴厘岛旅游换汇懒人包](/blog/bali-currency-exchange-guide/)
-- [巴厘岛美金汇率：大钞还是小钞？换汇攻略大公开！](/blog/bali-usd-exchange-rate/)
-- [印尼/巴厘岛换汇：直接换 vs 先换美金再换印尼盾，哪个划算？](/blog/bali-currency-exchange-tips/)
+- [印尼/巴厘岛旅游换汇懒人包](/zh-cn/blog/bali-currency-exchange-guide/)
+- [巴厘岛美金汇率：大钞还是小钞？换汇攻略大公开！](/zh-cn/blog/bali-usd-exchange-rate/)
+- [印尼/巴厘岛换汇：直接换 vs 先换美金再换印尼盾，哪个划算？](/zh-cn/blog/bali-currency-exchange-tips/)

@@ -49,7 +49,7 @@ Kami pilih penerbangan langsung China Airlines, harga tiket PP sekitar USD$419 p
 
 Kami pilih visa on arrival (VOA). Kalau bayar pakai kartu, kena biaya tambahan 2%. Awalnya sempat kepikiran bikin e-visa, tapi harus isi banyak data. Apalagi lihat ada yang kena denda gara-gara nulis TAIWAN, takut salah, jadinya ambil VOA aja. Proses VOA di Bali lumayan gampang, banyak antrean di loket, tiap antrean sekitar lima orang. Beruntung banget, kami cuma nunggu sekitar sepuluh menit selesai. Tapi pas ambil bagasi, hoki-nya ilang — nunggu hampir dua jam, jadinya kelewatan lihat sunset di Jimbaran.
 
-> [1 Menit Paham Proses Terbaru: Turun Pesawat → Imigrasi → Ambil Bagasi Lengkap](/blog/bali-all-indonesia-arrival-guide/)
+> [1 Menit Paham Proses Terbaru: Turun Pesawat → Imigrasi → Ambil Bagasi Lengkap](/id/blog/bali-all-indonesia-arrival-guide/)
 
 ### Kartu Internet
 
@@ -59,7 +59,7 @@ Kami beli dua kartu XL dari seller rating tertinggi di Shopee. Tapi katanya siny
 
 Kami tukar dulu ke USD di Taiwan, baru ganti ke Rupiah pas di Bali. Pilih money changer resmi yang kasih kuitansi dan bersertifikat. Kurs di tempat resmi hampir sama semua, cuma yang gak kasih kuitansi biasanya lebih murah. Tapi takut ketipu, jadi tetap pilih yang resmi. Dari pengamatan, kurs paling oke antara siang sampai jam 3 sore, kadang sore udah jelek lagi.
 
-Gimana milih money changer resmi? Cek: [Panduan Lengkap Tukar Uang di Bali/Indonesia](/blog/bali-currency-exchange-guide/)
+Gimana milih money changer resmi? Cek: [Panduan Lengkap Tukar Uang di Bali/Indonesia](/id/blog/bali-currency-exchange-guide/)
 
 ### Bandara ke Hotel Jimbaran
 
@@ -87,7 +87,7 @@ Awalnya mau lihat sunset di Pantai Jimbaran, tapi karena terlalu lama nunggu bag
 
 Malam itu kami makan di Lia Cafe. Ada biaya service 10% tambahan, bisa bayar pakai kartu juga. Pas nunggu makanan, ada grup musisi lokal yang nyanyi sesuai negara asal kamu, tapi mereka maksa minta tip. Kalau dikasih dikit, mereka mukanya langsung cemberut — ini bikin pengalaman makan jadi agak kurang nyaman. (Catatan redaksi: Mereka bukan bagian dari restoran. Kalau grup musik biasa kasih lagu, kasih tip 50,000 IDR aja udah cukup bikin semua senang!)
 
-> Baca juga: [11 Rekomendasi Restoran Seafood di Jimbaran, Bali](/blog/jimbaran-seafood-restaurants-list/)
+> Baca juga: [11 Rekomendasi Restoran Seafood di Jimbaran, Bali](/id/blog/jimbaran-seafood-restaurants-list/)
 
 ### Rencana yang Gagal - Cuca Restaurant
 
@@ -142,7 +142,7 @@ Lanjut, kita menuju Pandawa Beach. Meskipun pantainya biasa aja, tapi di sini bi
 
 Siang itu kita mampir ke One Eighty Bali, cliff bar yang hits banget. Makanan di sini harganya lumayan terjangkau, kita pesan banyak biar sampai minimum spend. Selain enak, ada infinity pool juga — bisa sambil makan sambil nikmatin pemandangan. Saran: booking dulu ya, dan di sini bisa bayar pakai kartu.
 
-> Baca juga: [Oneeighty Day Club: Kolam Renang Tepi Tebing dengan Pemandangan Super di Bali](/blog/oneeighty-dayclub-uluwatu-pool/)
+> Baca juga: [Oneeighty Day Club: Kolam Renang Tepi Tebing dengan Pemandangan Super di Bali](/id/blog/oneeighty-dayclub-uluwatu-pool/)
 
 ### Pura Uluwatu / Tari Kecak
 
@@ -152,7 +152,7 @@ Mei Chen kasih info: Pura Uluwatu dan Tari Kecak api
 
 Sorenya kita ke Pura Uluwatu buat lihat sunset dan tari Kecak. Saran: beli tiket dulu via Klook atau KKday, soalnya kalau antre di tempat belum tentu dapet tiket untuk pertunjukan jam 6. Monyet-monyet di sini super aktif, hati-hati sama topi dan kacamata — jangan sampai digasak!
 
-> Baca juga: [Tari Kecak Api — Pertunjukan Spektakuler Wajib Ditonton di Bali (Lengkap Info Tiket)](/blog/kecak-fire-dance-bali/)
+> Baca juga: [Tari Kecak Api — Pertunjukan Spektakuler Wajib Ditonton di Bali (Lengkap Info Tiket)](/id/blog/kecak-fire-dance-bali/)
 
 ### Rekomendasi Editor
 
@@ -273,7 +273,7 @@ Untuk makan siang kita pilih Babi Guling Pande Bangli, ini tempat jual nasi babi
 
 Terus kita lanjut ke Desa Penglipuran. Harga tas di sini paling murah dibanding tempat lain, cocok banget buat belanja. Meskipun harganya sudah murah, kamu tetap bisa tawar-menawar, lho.
 
-> Baca juga: [Desa Penglipuran yang Abadi: Rasakan Pesona Kuno Bali](/blog/penglipuran-village-bali-experience/)
+> Baca juga: [Desa Penglipuran yang Abadi: Rasakan Pesona Kuno Bali](/id/blog/penglipuran-village-bali-experience/)
 
 ### Pura Besakih
 
@@ -283,7 +283,7 @@ Kita mengunjungi Pura Besakih, harga tiketnya lumayan mahal, sekitar USD$10 (kar
 
 Makan malam kita di AKASA Specialty Coffee di Kintamani. Ini kafe dengan pemandangan, harga makanannya masih cukup terjangkau, dan bisa bayar pakai kartu. Sambil menikmati makanan enak, kita juga bisa lihat pemandangan yang indah.
 
-> [13 Kafe/Restoran dengan Pemandangan Gunung Berapi Terbaik di Kintamani, Bali 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
+> [13 Kafe/Restoran dengan Pemandangan Gunung Berapi Terbaik di Kintamani, Bali 🌄☕](/id/blog/kintamani-volcano-cafes-restaurants/)
 
 ### Akomodasi - Batur view Homestay
 
@@ -341,7 +341,7 @@ Dokumentasi Mei Chen
 
 Selanjutnya kami menuju Pura Tirta Empul, salah satu tempat ikonik di Bali. Kalau cuma mau foto-foto, nggak perlu turun ke air. Tapi kalau mau ikut ritual mandi, siap-siap antre lumayan lama.
 
-> [【Pura Tirta Empul Bali】Panduan Lengkap: Ritual Penyucian Air Suci Berusia Ribuan Tahun, Pantangan & Hal Wajib Dilihat](/blog/tirta-empul-temple-guide/)
+> [【Pura Tirta Empul Bali】Panduan Lengkap: Ritual Penyucian Air Suci Berusia Ribuan Tahun, Pantangan & Hal Wajib Dilihat](/id/blog/tirta-empul-temple-guide/)
 
 ### Cantik
 
@@ -353,7 +353,7 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 Meskipun buat orang Taiwan mungkin nggak terlalu wow, tapi sebagai warisan budaya sih worth it buat dikunjungi. Kami sengaja mampir buat foto-foto.
 
-> [【Panduan Sawah Terasering Bali】Tegallalang vs. Jatiluwih: Tiket, Musim Terbaik & Tips Foto Lengkap (Plus Rekomendasi Itinerary)](/blog/bali-rice-terraces-comparison/)
+> [【Panduan Sawah Terasering Bali】Tegallalang vs. Jatiluwih: Tiket, Musim Terbaik & Tips Foto Lengkap (Plus Rekomendasi Itinerary)](/id/blog/bali-rice-terraces-comparison/)
 
 ### Tebasari Resto, Bar & Lounge
 
@@ -395,7 +395,7 @@ Kita sarapan di Dwaraka The Royal Villas — menu à la carte yang super lengkap
 
 Lanjut kita ke Ubud Royal Palace, istana kuno yang penuh sejarah dan worth it banget buat dikunjungi.
 
-> [【Wajib Kunjungi di Ubud】Ubud Royal Palace: Permata Sejarah dan Budaya Bali｜Jam Buka, Tiket Masuk, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Trip Sehari](/blog/ubud-royal-palace-tour-guide/)
+> [【Wajib Kunjungi di Ubud】Ubud Royal Palace: Permata Sejarah dan Budaya Bali｜Jam Buka, Tiket Masuk, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Trip Sehari](/id/blog/ubud-royal-palace-tour-guide/)
 
 ### Tukies Coconut Shop
 
@@ -458,13 +458,13 @@ Kami pergi ke Pura Ulun Danu Bratan, salah satu pura penting di Bali yang wajib 
 
 Di perjalanan, kami nyobain durian lokal di pinggir jalan. Rasanya tuh jenis yang nggak terlalu menyengat, cukup enak di mulut. Meskipun harganya nggak murah (satu buah tiga kilogram sekitar USD$15), tapi cobain kuliner lokal jadi pengalaman seru banget.
 
-> [🥥Panduan Lengkap Musim Durian Bali｜Kapan Paling Wangi dan Murah?](/blog/2026-04-07-065104/)
+> [🥥Panduan Lengkap Musim Durian Bali｜Kapan Paling Wangi dan Murah?](/id/blog/2026-04-07-065104/)
 
 ### Pura Tanah Lot
 
 Setelah meninggalkan daerah pegunungan, kami lanjut ke Pura Tanah Lot di Canggu. Sayangnya karena air laut sedang pasang, kami nggak bisa nyebrang buat lihat pura dari dekat — agak nyesel sih.
 
-> Baca juga: [Wisata Wajib di Bali: Panduan Lengkap Pura Tanah Lot, Pasang Surut & Tempat Sekitar](/blog/bali-tanah-lot-guide/)
+> Baca juga: [Wisata Wajib di Bali: Panduan Lengkap Pura Tanah Lot, Pasang Surut & Tempat Sekitar](/id/blog/bali-tanah-lot-guide/)
 
 ### Kurnia Seafood Bali
 

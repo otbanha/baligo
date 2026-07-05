@@ -20,7 +20,7 @@ _srcHash: 977adc8bfe7940d2372106117cdfb290
 ---
 Update: 2026/07/03
 
-[🚗 Mau estimasi tarif Gojek? Klik di sini](/map/gojek-fare/)
+[🚗 Mau estimasi tarif Gojek? Klik di sini](/id/map/gojek-fare/)
 
 ![【印尼/峇里島必備APP】Gojek / Grab 叫車圖文教學指南](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
 
@@ -105,7 +105,7 @@ Larangannya memang ada, tapi dampaknya ke wisatawan terbatas kok. Kamu tetap bis
 3. Tips mengatasinya: Kalau nemu situasi kayak gitu, jalan kaki sekitar 5-10 menit dari area itu ke jalan utama atau gang terdekat, baru pesan lewat aplikasi. Biasanya berhasil dan harganya lebih masuk akal.
 4. Alternatif: Buat wisata lintas area dalam sehari (misalnya dari selatan ke Ubud atau gunung berapi), sewa mobil pribadi (private car hire) adalah pilihan yang lebih umum, nyaman, dan bebas masalah. Sopirnya biasanya juga bisa jadi pemandu.
 
-Referensi cepat: [【Panduan Lengkap Sewa Mobil di Bali】](/blog/bali-private-car-hire-guide/)
+Referensi cepat: [【Panduan Lengkap Sewa Mobil di Bali】](/id/blog/bali-private-car-hire-guide/)
 
 ## ⚠️ Pengingat Penting
 
@@ -122,4 +122,4 @@ Intinya, ojek online di Bali masih berguna banget di sebagian besar tempat, asal
 
 👈 **Kembali ke Panduan Lengkap Liburan Mandiri ke Bali**
 
-Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.
+Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.

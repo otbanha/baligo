@@ -40,7 +40,7 @@ Bali is an enchanting vacation paradise, boasting beautiful beaches, stunning na
 
 ➡️[Click here for more Bali great deals](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
-This should give you a good idea of how private car hire beats renting a scooter. As of 2024, Bali private car hire prices start at around Rp. 600,000 for 10 hours (about USD$40 / roughly NT$1,200). For details on pricing, extra costs, and more, check out our 'Bali Private Car Hire Essential Guide' [here](/blog/bali-private-car-hire-guide/).
+This should give you a good idea of how private car hire beats renting a scooter. As of 2024, Bali private car hire prices start at around Rp. 600,000 for 10 hours (about USD$40 / roughly NT$1,200). For details on pricing, extra costs, and more, check out our 'Bali Private Car Hire Essential Guide' [here](/en/blog/bali-private-car-hire-guide/).
 
 Next, we recommend some of the most-reviewed drivers in community groups. We won't add our own opinions — you can see the real feedback from members of our two Facebook groups. Also, don't judge a driver solely by the number of reviews; everyone on this list is excellent! The key is to read what travelers recommend and why, so you can find a driver whose strengths match your priorities. After all, your driver will guide you through Bali for several days and is the heart of your Bali experience — finding a compatible driver is more important than anything!
 
@@ -56,7 +56,7 @@ Next, we recommend some of the most-reviewed drivers in community groups. We won
 
 ![Gede Arimbawa](https://images.gobaligo.id/vocus/vocus_e96d46f4fff8532b766b84b03cae9eb8.png)
 
-👉 [Read more about Gede Arimbawa](/blog/bali-private-driver-recommendation/)
+👉 [Read more about Gede Arimbawa](/en/blog/bali-private-driver-recommendation/)
 
 👍🏼[Recommendation 1](https://www.facebook.com/groups/baligo/permalink/1173796323167611/) 👍🏼[Recommendation 2](https://www.facebook.com/groups/baligo/permalink/1270152276865348/) 👍🏼[Recommendation 3](https://www.facebook.com/groups/baligo/permalink/1348959758984599/) 👍🏼[Recommendation 4](https://www.facebook.com/groups/baligo/permalink/1348360015711240/) 👍🏼[Recommendation 5](https://www.facebook.com/groups/baligo/permalink/1260026594544583/) 👍🏼[Recommendation 6](https://www.facebook.com/groups/baligo/permalink/1306258926588016/) 👍🏼[Recommendation 7](https://www.facebook.com/groups/baligo/permalink/1241526689727907/) 👍🏼[Recommendation 8](https://www.facebook.com/groups/baligo/permalink/1289682914912284/) 👍🏼[Recommendation 9](https://www.facebook.com/groups/baligo/permalink/143661292847791/) 👍🏼[Recommendation 10](https://www.facebook.com/groups/baligo/permalink/1343577336189508/) 👍🏼[Recommendation 11](https://www.facebook.com/groups/indonesia.travelguide/permalink/3489776264624831/) 👍🏼[Recommendation 12](https://www.facebook.com/groups/baligo/permalink/1409975659549675/) 👍🏼[Recommendation 13](https://www.facebook.com/groups/baligo/permalink/1431157174098190/?mibextid=oMANbw) 👍🏼[Recommendation 14](https://www.facebook.com/groups/baligo/permalink/1492057241341516/) 👍🏼[Recommendation 15](https://www.facebook.com/groups/baligo/permalink/1511651786048728/) 👍🏼[Recommendation 16](https://www.facebook.com/groups/baligo/permalink/1542004513013455/) 👍🏼[Recommendation 17](https://www.facebook.com/groups/baligo/permalink/1555630811650825/) 👍🏼[Recommendation 18](https://www.facebook.com/share/15Gi8idWzs/) 👍🏼[Recommendation 19](https://www.facebook.com/share/p/1AAS7saeGk/) 👍🏼[Recommendation 20](https://www.facebook.com/share/p/15wXLx3hKx/) 👍🏼[Recommendation 21](https://www.facebook.com/share/p/1Gn4x5Mvke/) 👍🏼[Recommendation 22](https://www.facebook.com/share/p/19mrC6ZkZd/) 👍🏼[Recommendation 23](https://www.facebook.com/share/p/1AVV529xd1/) 👍🏼[Recommendation 24](https://www.facebook.com/share/p/1FrBiTvy2p/) 👍🏼[Recommendation 25](https://www.facebook.com/share/p/14UD2y6rqe7/) 👍🏼[Recommendation 26](https://www.facebook.com/share/p/1BPbNtxKh2/) 👍🏼[Recommendation 27](https://www.facebook.com/share/p/1LTgLSNRzh/)
 
@@ -248,7 +248,7 @@ Next, we recommend some of the most-reviewed drivers in community groups. We won
 
 <!-- no-shuffle -->
 
-▼ More driver recommendations on the [next page](/blog/2026-03-21-bali-driver-recommend-p2/) ▼
-Other recommended drivers on [next page](/blog/2026-03-21-bali-driver-recommend-p2/)
+▼ More driver recommendations on the [next page](/en/blog/2026-03-21-bali-driver-recommend-p2/) ▼
+Other recommended drivers on [next page](/en/blog/2026-03-21-bali-driver-recommend-p2/)
 
 {{block:klook}}

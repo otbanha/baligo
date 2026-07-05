@@ -77,7 +77,7 @@ We departed promptly at 7:30 AM from our hotel, with private transfers making th
 
 https://youtu.be/H-IocbLNpE4
 
-> [Lempuyang Temple Gates of Heaven In-Depth Guide | Reflections on Your Phone Screen? How to Navigate the Six Temples? Full Cost and Route Breakdown](https://gobaligo.id/blog/lempuyang-temple-gate-of-heaven/)
+> [Lempuyang Temple Gates of Heaven In-Depth Guide | Reflections on Your Phone Screen? How to Navigate the Six Temples? Full Cost and Route Breakdown](https://gobaligo.id/en/blog/lempuyang-temple-gate-of-heaven/)
 
 Next, we visited **Swing Heaven**, which offered more than just swings—there were multiple Instagram-worthy spots for stunning photos. 🌺 Our guide even helped with angles, showcasing top-notch photography skills!
 
@@ -206,7 +206,7 @@ We enjoyed afternoon tea at Mulia Resort, lounging by the pool while sipping cof
 
 ![Day 5: Free Time + Beach Afternoon Tea](https://images.gobaligo.id/images/2026-05/1780016971982-6532982_19022510000072495025_large.jpeg)
 
-> 👉 [**Detailed Introduction to Mulia Resort**](/blog/mulia-resort-bali-luxury/)
+> 👉 [**Detailed Introduction to Mulia Resort**](/en/blog/mulia-resort-bali-luxury/)
 
 {{block:dua}}
 
@@ -246,7 +246,7 @@ This performance was truly one of the highlights of our trip! The Kecak Dance do
 
 (This tour offers **skip-the-line** access, saving you tons of waiting time — highly recommend this feature!)
 
-> [Kecak Fire Dance: A Must-See Spectacular Performance in Bali (Includes Ticket Booking Info)](/blog/kecak-fire-dance-bali/)
+> [Kecak Fire Dance: A Must-See Spectacular Performance in Bali (Includes Ticket Booking Info)](/en/blog/kecak-fire-dance-bali/)
 
 ### 🐟 19:00 Dinner at Jimbaran Beach
 
@@ -254,7 +254,7 @@ After the visual feast, head to the beach for a seafood barbecue dinner. Enjoy g
 
 ![19:00 Dinner at Jimbaran Beach](https://images.gobaligo.id/vocus/vocus_0b8853265196d9f74c4f5461505927dc.jpg)
 
-> [11 Jimbaran Seafood Restaurants in Bali: No-Fail Recommendations](/blog/jimbaran-seafood-restaurants-list/)
+> [11 Jimbaran Seafood Restaurants in Bali: No-Fail Recommendations](/en/blog/jimbaran-seafood-restaurants-list/)
 
 ### 🛻 20:00 Satisfied Return
 
@@ -333,6 +333,6 @@ Do you find their itinerary exciting? Quickly plan your own Bali free and easy t
 
 Click here to read more exciting Bali travelogues.
 
-Are you eager to write a travelogue but unsure where to start? Check out '[How to Write an Engaging Bali Travelogue](/blog/how-to-write-bali-travelogue/)' to make your travel writing shine!
+Are you eager to write a travelogue but unsure where to start? Check out '[How to Write an Engaging Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)' to make your travel writing shine!
 
 {{block:攻略}}

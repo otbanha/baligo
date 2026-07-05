@@ -46,7 +46,7 @@ _srcHash: a6c3912a0a2c581695ff284bc100d4c0
 
 - 锁定**​**一两家 Beach Club 坐下来，跟来自世界各地的数字游牧民族一起庆祝劳动节（👙巴厘岛热门海滩/度假村通票 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=931561&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-resort-passes%2Fc8-cate161%2F)）。
 - 乌布泛舟、ATV（🚣巴厘岛泛舟活动 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%25E6%25B3%259B%25E8%2588%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D8c8ac92422) / 🏎️巴厘岛ATV活动 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%2520ATV%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D28594dcbf2)）
-- 50种适合你的户外活动清单在[这里](/blog/bali-top-50-outdoor-activities/)
+- 50种适合你的户外活动清单在[这里](/zh-cn/blog/bali-top-50-outdoor-activities/)
 
 {{block:klook}}
 
@@ -71,7 +71,7 @@ _srcHash: a6c3912a0a2c581695ff284bc100d4c0
 
 ![推荐行程](https://images.gobaligo.id/vocus/vocus_4b32bc60b0a1fe9787825097f68cb2e8.jpg)
 
-- 六月是超适合水上活动的时候！这时候我们的攻略就派上用场了：[巴厘岛水上活动完整指南｜巴厘岛不只浮潜！15种意想不到的水上玩法](/blog/2026-bali-water-activities/)
+- 六月是超适合水上活动的时候！这时候我们的攻略就派上用场了：[巴厘岛水上活动完整指南｜巴厘岛不只浮潜！15种意想不到的水上玩法](/zh-cn/blog/2026-bali-water-activities/)
 
 {{block:戶外}}
 
@@ -79,7 +79,7 @@ _srcHash: a6c3912a0a2c581695ff284bc100d4c0
 
 ### 💡 小资旅行碎碎念
 
-- **签证提醒**：出发前记得先线上办好 **巴厘岛** 电子落地签 (e-VoA) 与 10 美元（约 15 万印尼盾）的观光税。（快速参考：[【2026版】印尼巴厘岛入境1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/bali-all-indonesia-arrival-guide/)）
+- **签证提醒**：出发前记得先线上办好 **巴厘岛** 电子落地签 (e-VoA) 与 10 美元（约 15 万印尼盾）的观光税。（快速参考：[【2026版】印尼巴厘岛入境1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/zh-cn/blog/bali-all-indonesia-arrival-guide/)）
 - **包车司机别乱找：**看[网友推荐的名单](https://s.id/bali_best_drivers)不会错！
 - **短程交通建议**：连假期间热门景点（如乌布、水明漾）易塞车，小距离移动建议多利用 Gojek/Grab 叫摩托车能省下不少交通时间。
 

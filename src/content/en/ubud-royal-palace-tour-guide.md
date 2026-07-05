@@ -64,7 +64,7 @@ https://youtube.com/shorts/Oh-RNfjhQhM
 
 Located opposite Ubud Palace, the Ubud Art Market is a vibrant bazaar brimming with traditional Balinese character. It offers a wide variety of goods, including handmade jewelry, wood carvings, paintings, and traditional clothing, each piece showcasing the area's rich artistic atmosphere. Remember to bargain a bit while shopping to snag your favorite souvenirs at a better price!
 
-Further Reading: [Complete Guide to the Top 5 Ubud Art Markets: Shopping for Souvenirs/Gifts, Discovering Bali's Cultural Treasures](/blog/ubud-art-markets-guide/)
+Further Reading: [Complete Guide to the Top 5 Ubud Art Markets: Shopping for Souvenirs/Gifts, Discovering Bali's Cultural Treasures](/en/blog/ubud-art-markets-guide/)
 
 ### 2. Pura Taman Saraswati (Ubud Water Palace) 🗺️[Map Location](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
@@ -133,7 +133,7 @@ Ubud Palace is not only a landmark in Ubud but also a precious treasure of Bali'
 **2. How much is the entrance fee for Ubud Palace?**
 
 - Daytime admission to Ubud Palace is free. For the evening traditional dance performances, you need to purchase a ticket, which costs around IDR 100K (approximately USD$6). Prices may vary depending on the show. It's recommended to [book in advance](https://affiliate.klook.com/redirect?aid=116349&aff_adid=944134&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2deaa6927).
-- The price is 100K... What does the K mean? Check [here](/blog/bali-budget-tips-k-explained/).
+- The price is 100K... What does the K mean? Check [here](/en/blog/bali-budget-tips-k-explained/).
 
 **3. Can you enter all areas of Ubud Palace?**
 

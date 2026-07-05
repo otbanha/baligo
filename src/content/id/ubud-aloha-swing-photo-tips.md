@@ -37,6 +37,6 @@ https://youtu.be/_Lvp9cIVYz8
 
 ## Info Lengkap Ayunan Ubud
 
-[【Ubud Ayunan Guide】8 Rekomendasi Ayunan Hutan Terindah: Tips Sewa Gaun, Angle Foto & Panduan Hindari Keramaian](/blog/ubud-jungle-swings-photo-guide/)
+[【Ubud Ayunan Guide】8 Rekomendasi Ayunan Hutan Terindah: Tips Sewa Gaun, Angle Foto & Panduan Hindari Keramaian](/id/blog/ubud-jungle-swings-photo-guide/)
 
 {{block:ubud}}

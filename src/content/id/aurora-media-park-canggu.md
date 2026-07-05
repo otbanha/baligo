@@ -89,4 +89,4 @@ Aurora Media Park buka setiap hari mulai jam 7 malam, ngajak pengunjung buat men
 
 Nuanu Creative City adalah kawasan kreatif terbaru yang muncul di Bali, dan mendorong zero karbon, menjadi destinasi wisata berkelanjutan terbaru di Bali. Sekarang sudah mulai menarik para kreator global, jadi wajib banget dikunjungi!
 
-Panduan wisata Nuanu Creative City bisa dilihat [di sini](/blog/nuanu-creative-city-luna-guide/)
+Panduan wisata Nuanu Creative City bisa dilihat [di sini](/id/blog/nuanu-creative-city-luna-guide/)

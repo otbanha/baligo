@@ -46,7 +46,7 @@ Jadi, kamu nggak perlu lagi nanya "**Bali hujan nggak sih?**" atau "**Bali bakal
 
 Kapan pun kamu memutuskan untuk main ke Bali, jangan lupa bawa payung atau jas hujan dan selalu pantau perubahan cuaca. Perjalananmu mungkin bakal diwarnai kejutan cuaca, tapi justru itu yang bikin Bali makin seru dan berkesan. Semoga kamu bisa menikmati pesona unik dan momen-momen indah di pulau cantik ini, kapan pun waktunya!
 
-**Baca juga:** [Bali Musim Hujan: Gimana Kalau Kehujanan? 60 Ide Aktivitas Indoor di Bali](/blog/2026-bali-indoor-activities/)
+**Baca juga:** [Bali Musim Hujan: Gimana Kalau Kehujanan? 60 Ide Aktivitas Indoor di Bali](/id/blog/2026-bali-indoor-activities/)
 
 ## Hal yang Perlu Diperhatikan Saat Musim Hujan
 
@@ -65,6 +65,6 @@ Musim hujan di Bali perlu perhatian ekstra buat traveler. Ini dia 8 hal yang waj
 
 Kalau beneran hujan dan rencana awalmu gagal, tenang aja. Link di bawah ini punya 30 ide aktivitas indoor yang anti-hujan buat kamu:
 
-> [Gimana Kalau Kehujanan? 60 Ide Aktivitas Indoor di Bali](/blog/2026-bali-indoor-activities/)
+> [Gimana Kalau Kehujanan? 60 Ide Aktivitas Indoor di Bali](/id/blog/2026-bali-indoor-activities/)
 
 {{block:klook}}

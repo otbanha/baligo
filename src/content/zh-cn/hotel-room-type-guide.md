@@ -27,7 +27,7 @@ _srcHash: 6996ed04aebd2e279e745feee30fe7e2
 
 ![2024剛開幕 Holiday Inn Resort Bali Canggu 的 double room, 收錄於「Canggu Top 11 你不能錯過的住宿推薦」](https://images.gobaligo.id/vocus/vocus_c202fe1efa750793438b4dc51b3ef8cd.jpg)
 
-[2024刚开幕 Holiday Inn Resort Bali Canggu 的 double room, 收录于「Canggu Top 11 你不能错过的住宿推荐」](/blog/canggu-top-hotels-guide/)
+[2024刚开幕 Holiday Inn Resort Bali Canggu 的 double room, 收录于「Canggu Top 11 你不能错过的住宿推荐」](/zh-cn/blog/canggu-top-hotels-guide/)
 
 首先，“Double Bed Room”并非“双床房”。这类房型通常配置一张双人床（Double Bed），适合两人共享一张床的房间。而如果你希望有两张分开的床，那么应该选择“Twin Bed Room”。
 
@@ -35,7 +35,7 @@ _srcHash: 6996ed04aebd2e279e745feee30fe7e2
 
 ![Mövenpick Resort & Spa Jimbaran 的 Twin Bed Room 收錄於「推薦峇里島13家庭親子度假村」](https://images.gobaligo.id/vocus/vocus_309bc96bfe45ee523bbce147e1724e8b.jpg)
 
-[Mövenpick Resort & Spa Jimbaran 的 Twin Bed Room 收录于「推荐巴厘岛13家庭亲子度假村」](/blog/bali-family-resorts-kids-club/)
+[Mövenpick Resort & Spa Jimbaran 的 Twin Bed Room 收录于「推荐巴厘岛13家庭亲子度假村」](/zh-cn/blog/bali-family-resorts-kids-club/)
 
 “Twin Bed Room”是指两张单人床的房型，通常适合朋友、同事或家庭成员入住，每人拥有一张床的私人空间。这和双人床（Double Bed）不同，因为每张床都可以独立使用，避免了睡眠空间的拥挤问题。
 
@@ -43,7 +43,7 @@ _srcHash: 6996ed04aebd2e279e745feee30fe7e2
 
 ![Ayana Villas 裡的 king size 床，收錄於「金巴蘭住宿推薦」](https://images.gobaligo.id/vocus/vocus_b05e8ba8add16887fd7b682631c5ca21.jpg)
 
-[Ayana Villas 里的 king size 床，收录于「金巴兰住宿推荐」](/blog/2023-11-09-654c6271fd8978000174ff5e/)
+[Ayana Villas 里的 king size 床，收录于「金巴兰住宿推荐」](/zh-cn/blog/2023-11-09-654c6271fd8978000174ff5e/)
 
 「Queen Room」和「King Room」则是根据床的尺寸来命名的房型。「Queen Room」配置一张女王尺寸的床（Queen Bed），略大于标准双人床，适合两人舒适入住。而「King Room」则拥有国王尺寸的床（King Bed），床铺宽敞，是情侣或夫妻的理想选择。这些房型对于追求高舒适度的旅客来说无疑是一大亮点。
 
@@ -63,7 +63,7 @@ _srcHash: 6996ed04aebd2e279e745feee30fe7e2
 
 ![FuramaXclusive Ocean Beach Seminyak 的雙人suite。收錄於「水明漾的濱海精緻主題住宿指南」](https://images.gobaligo.id/vocus/vocus_461c02f27551ed0d744434a10c1b9b21.jpg)
 
-[FuramaXclusive Ocean Beach Seminyak 的双人suite。收录于「水明漾的滨海精致主题住宿指南」](/blog/seminyak-beach-resorts-guide/)
+[FuramaXclusive Ocean Beach Seminyak 的双人suite。收录于「水明漾的滨海精致主题住宿指南」](/zh-cn/blog/seminyak-beach-resorts-guide/)
 
 「Suite」指的是套房，通常包括卧室和独立的客厅区域，提供更为宽敞的空间。套房多用于高级酒店，适合长期入住的旅客或家庭。这类房型不仅提供居住空间，还可能附带小型厨房、会客区，甚至拥有观景阳台，让入住体验更为丰富。
 
@@ -71,7 +71,7 @@ _srcHash: 6996ed04aebd2e279e745feee30fe7e2
 
 ![The River Studio ，收錄於「Canggu 16間私人泳池別墅推薦」](https://images.gobaligo.id/vocus/vocus_a71d09b55969fb57a332768ae1fbce57.jpg)
 
-[The River Studio ，收录于「坎古 16间私人泳池别墅推荐」](/blog/canggu-villas-guide/)
+[The River Studio ，收录于「坎古 16间私人泳池别墅推荐」](/zh-cn/blog/canggu-villas-guide/)
 
 「Studio」房型类似于开放式公寓，通常将卧室、客厅、厨房等功能区域整合在一个空间内。这类房型适合短期或长期单人或夫妻入住，拥有私人但紧凑的空间安排。
 
@@ -79,7 +79,7 @@ _srcHash: 6996ed04aebd2e279e745feee30fe7e2
 
 ![Hard Rock Bali 家庭房，收錄在「峇里島親子樂園：十五家擁有滑水道溜滑梯的親子渡假村」](https://images.gobaligo.id/vocus/vocus_59bf19edf13be74385d34d2e11c0abd4.png)
 
-[Hard Rock Bali 家庭房，收录在「巴厘岛亲子乐园：十五家拥有滑水道滑梯的亲子度假村」](/blog/bali-family-resorts-water-slides/)
+[Hard Rock Bali 家庭房，收录在「巴厘岛亲子乐园：十五家拥有滑水道滑梯的亲子度假村」](/zh-cn/blog/bali-family-resorts-water-slides/)
 
 「Family Room」是为家庭设计的房型，一般设置多张床或沙发床，甚至可以容纳三至四人同时入住。这类房型适合带小孩的家庭旅行者，提供充足的空间和设施，让全家出游更加轻松舒适。
 
@@ -87,7 +87,7 @@ _srcHash: 6996ed04aebd2e279e745feee30fe7e2
 
 ![Maison Aurelia 連通房。 收錄在「Sanur沙努爾21家住宿推薦」](https://images.gobaligo.id/vocus/vocus_de51fe89c909a2df0afc19bb8dfcf376.jpg)
 
-[Maison Aurelia 连通房。 收录在「沙努尔21家住宿推荐」](/blog/sanur-luxury-budget-resorts/)
+[Maison Aurelia 连通房。 收录在「沙努尔21家住宿推荐」](/zh-cn/blog/sanur-luxury-budget-resorts/)
 
 「Connecting Room或Adjoining Rooms」指两间相邻房间之间有内部连通门的房型，适合希望保持联系但又需要隐私空间的旅行者。这类房型最适合家庭或团体旅行，特别是带着青少年或老人时，提供便利又安全的住宿体验。
 
@@ -95,7 +95,7 @@ _srcHash: 6996ed04aebd2e279e745feee30fe7e2
 
 ![The Udaya Resort and Spa 豪華房，收錄在「烏布26家特色住宿」](https://images.gobaligo.id/vocus/vocus_69d11bbbfbcce39e4b628e19da372766.jpg)
 
-[The Udaya Resort and Spa 豪华房，收录在「乌布26家特色住宿」](/blog/ubud-villas-pool-guide/)
+[The Udaya Resort and Spa 豪华房，收录在「乌布26家特色住宿」](/zh-cn/blog/ubud-villas-pool-guide/)
 
 「Deluxe Room」和「Superior Room」通常在装修和视野上更为高档。豪华房通常面积较大，并提供一些附加设施，如更佳的床上用品、景观窗户或阳台。而高级房一般位于较高楼层，视野更好，或设计更具特色，满足更讲究入住体验的客人需求。
 
@@ -103,7 +103,7 @@ _srcHash: 6996ed04aebd2e279e745feee30fe7e2
 
 ![2023開幕Anantara Uluwatu Bali Resort海景套房，收錄在「烏魯瓦圖 Uluwatu 12間無敵海景的住宿推薦」](https://images.gobaligo.id/vocus/vocus_d419164ddf0dff8c8df0280c8be0eda2.jpg)
 
-[2023开幕Anantara Uluwatu Bali Resort海景套房，收录在「乌鲁瓦图 Uluwatu 12间无敌海景的住宿推荐」](/blog/uluwatu-bali-villas-resorts-guide/)
+[2023开幕Anantara Uluwatu Bali Resort海景套房，收录在「乌鲁瓦图 Uluwatu 12间无敌海景的住宿推荐」](/zh-cn/blog/uluwatu-bali-villas-resorts-guide/)
 
 此类房型根据房间窗外的景色而命名。「Ocean View Room」有一片直面大海的窗户或阳台，特别适合海岛度假时入住；而「Garden View Room」则提供绿意盎然的花园景色，营造一种放松的氛围。
 
@@ -111,7 +111,7 @@ _srcHash: 6996ed04aebd2e279e745feee30fe7e2
 
 ![烏布 The Purist Villas & Spa，收錄在「峇里島推薦villa大全」](https://images.gobaligo.id/vocus/vocus_c101363a13237407d6e2bda528bfc4b8.jpg)
 
-[乌布 The Purist Villas & Spa，收录在「巴厘岛推荐villa大全」](/blog/bali-private-villa-recommendations/)
+[乌布 The Purist Villas & Spa，收录在「巴厘岛推荐villa大全」](/zh-cn/blog/bali-private-villa-recommendations/)
 
 「Villa」通常是独栋建筑，有独立入口和私人空间，并配备私人泳池和庭院等设施。这类房型多用于度假村，是想要享受独立、私密空间的顶级之选，适合蜜月旅行或家庭聚会，提供犹如家一般的奢华享受。
 
@@ -121,7 +121,7 @@ _srcHash: 6996ed04aebd2e279e745feee30fe7e2
 
 ![峇里島很多有特色的bamboo villas，請看「9家令人嘆為觀止竹屋別墅」](https://images.gobaligo.id/vocus/vocus_9e29ac8b042c3e76181cc5143fbc4bcc.jpg)
 
-[巴厘岛有很多有特色的bamboo villas，请看「9家令人叹为观止竹屋别墅」](/blog/ubud-treehouse-bamboo-villa-stays/)
+[巴厘岛有很多有特色的bamboo villas，请看「9家令人叹为观止竹屋别墅」](/zh-cn/blog/ubud-treehouse-bamboo-villa-stays/)
 
 「Bamboo Villa」是一种以竹子作为主要建筑材料的别墅，体现了环保与自然和谐的概念。巴厘岛等地区的竹屋别墅以简洁自然的设计风格著称，让人远离喧嚣、享受清新空气和自然之美。竹屋通常采用开放式设计，通风良好，能让旅客感受凉爽的微风，非常适合喜爱独特设计与环保理念的旅客，也能增添整趟旅行的原始感与特别回忆。
 
@@ -129,7 +129,7 @@ _srcHash: 6996ed04aebd2e279e745feee30fe7e2
 
 ![Amarin Seminyak 最多有四間房，收錄在「三房/四房以上的家庭別墅住宿推薦」](https://images.gobaligo.id/vocus/vocus_11c2a1c4adfc9e2a7779e39b3930a500.jpg)
 
-[Amarin Seminyak 最多有四间房，收录在「三房/四房以上的家庭别墅住宿推荐」](/blog/bali-group-villa-stay/)
+[Amarin Seminyak 最多有四间房，收录在「三房/四房以上的家庭别墅住宿推荐」](/zh-cn/blog/bali-group-villa-stay/)
 
 「Family Villa」是为家庭而设计的别墅，通常拥有多间卧室、大型客厅及户外休闲区，能够容纳整个家庭一起入住。家庭别墅多配有私人泳池、庭院和厨房设施，方便携带孩童或长者的家庭。这类别墅在巴厘岛等度假地区尤其受欢迎，让家庭旅客既能享受一起旅行的乐趣，又能拥有足够的私人空间，适合计划长期居留或想要更放松的家庭度假需求。
 

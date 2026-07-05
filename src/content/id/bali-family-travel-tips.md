@@ -35,9 +35,9 @@ Sekarang masuk Indonesia wajib pakai visa, ya! Wisatawan Taiwan bisa mengurus **
 
 Setiap orang juga wajib mengisi/membayar e-Deklarasi dan pajak wisatawan. Cek link di bawah ini:
 
-> Baca juga: [Prosedur Masuk Indonesia/Bali - Turun Pesawat/Lewat Imigrasi/Ambil Bagasi](https://gobaligo.id/blog/bali-all-indonesia-arrival-guide/)
+> Baca juga: [Prosedur Masuk Indonesia/Bali - Turun Pesawat/Lewat Imigrasi/Ambil Bagasi](https://gobaligo.id/id/blog/bali-all-indonesia-arrival-guide/)
 
-Keuntungan urus e-Visa dari rumah: begitu turun pesawat, kamu nggak perlu antre sama sekali, bahkan bisa pakai jalur otomatis (autogate) — nggak perlu diperiksa manual oleh petugas imigrasi. Cuma satu catatan: anak di bawah 6 tahun nggak bisa pakai autogate, tapi ada konter khusus yang bantu proses imigrasi (cek: [Panduan Visa Anak untuk Masuk Indonesia/Bali](https://gobaligo.id/blog/bali-child-visa-guide/))
+Keuntungan urus e-Visa dari rumah: begitu turun pesawat, kamu nggak perlu antre sama sekali, bahkan bisa pakai jalur otomatis (autogate) — nggak perlu diperiksa manual oleh petugas imigrasi. Cuma satu catatan: anak di bawah 6 tahun nggak bisa pakai autogate, tapi ada konter khusus yang bantu proses imigrasi (cek: [Panduan Visa Anak untuk Masuk Indonesia/Bali](https://gobaligo.id/id/blog/bali-child-visa-guide/))
 
 ###
 
@@ -53,7 +53,7 @@ Disarankan untuk membeli asuransi perjalanan luar negeri demi melindungi hak kam
 
 Tabel ini hanya sebagai referensi, isi perlindungan sebenarnya tergantung pada produk masing-masing perusahaan asuransi.
 
-> [【Asuransi Perjalanan Bali】Wajib Dibaca untuk Traveler dari Taiwan, Hong Kong, Malaysia, Singapura! Panduan Asuransi, Klaim Medis Luar Negeri & Keterlambatan Penerbangan](https://gobaligo.id/blog/bali-travel-insurance-guide/)
+> [【Asuransi Perjalanan Bali】Wajib Dibaca untuk Traveler dari Taiwan, Hong Kong, Malaysia, Singapura! Panduan Asuransi, Klaim Medis Luar Negeri & Keterlambatan Penerbangan](https://gobaligo.id/id/blog/bali-travel-insurance-guide/)
 
 ###
 
@@ -63,13 +63,13 @@ Saat traveling di Bali, ponsel dan koneksi internet itu wajib banget. Ada bebera
 
 Di Bali, pastiin HP kamu bisa connect internet itu penting banget, biar gampang cari info, chat keluarga dan teman, pakai aplikasi navigasi, dan bikin liburan makin nyaman dan seru.
 
-> Baca juga: [【Wajib Tahu Liburan ke Bali】Cara Urus Internet/SIM Card di Bali?](/blog/bali-sim-card-esim-roaming-guide/)
+> Baca juga: [【Wajib Tahu Liburan ke Bali】Cara Urus Internet/SIM Card di Bali?](/id/blog/bali-sim-card-esim-roaming-guide/)
 
 ### Tegangan & Colokan Listrik:
 
 Standar tegangan listrik di Indonesia dan Bali adalah **220 volt (220V)**, info penting banget buat kamu yang bawa barang elektronik. Sebelum packing, pastiin perangkat elektronik kamu support tegangan 220V internasional, plus bentuk colokan khusus, biar bisa dipake normal di Indonesia dan Bali ya!
 
-> Baca juga: [Tegangan/Bentuk Colokan Listrik di Bali? Gimana Cara Siapinnya?](/blog/bali-voltage-adapter-tips/)
+> Baca juga: [Tegangan/Bentuk Colokan Listrik di Bali? Gimana Cara Siapinnya?](/id/blog/bali-voltage-adapter-tips/)
 
 ### Tukar Uang:
 
@@ -81,13 +81,13 @@ Mata uang Indonesia adalah Rupiah (Rupiah, kode IDR), satu-satunya yang berlaku 
 
 Cuaca di Bali panas, saran bawa baju yang tipis dan adem, sunscreen, baju renang, topi, kacamata hitam, dll. Daftar lengkap barang yang wajib dibawa, cek di sini:
 
-> [Apa yang Harus Dibawa ke Bali? 21 Barang Wajib](/blog/bali-travel-essentials/)
+> [Apa yang Harus Dibawa ke Bali? 21 Barang Wajib](/id/blog/bali-travel-essentials/)
 
 ### Obat-obatan:
 
 Disarankan bawa obat pribadi yang biasa kamu pakai, tapi Indonesia/Bali punya aturan ketat soal obat/obat resep. Obat yang legal di negara lain bisa aja ilegal di Indonesia! Kalau kamu perlu bawa obat, cek link di bawah ini ya:
 
-> [Penting: Bawa Obat Tidur/Obat Resep Khusus ke Indonesia/Bali](/blog/bali-medication-import-guide/)
+> [Penting: Bawa Obat Tidur/Obat Resep Khusus ke Indonesia/Bali](/id/blog/bali-medication-import-guide/)
 
 ### **Obat Anti Nyamuk:**
 
@@ -120,13 +120,13 @@ Cara transportasi utama di Bali adalah sewa mobil dan ojek online.**
 
 Kelebihan sewa mobil selain ruang mobil yang nyaman, cocok buat liburan keluarga, juga lebih aman, jadwal fleksibel, dan driver-nya paham jalan. Semua detail yang perlu kamu tahu tentang sewa mobil udah kami kumpulin di link bawah ini:
 
-> [Panduan Lengkap Sewa Mobil di Bali - Biaya, Cara Booking, Kelebihan](/blog/bali-private-car-hire-guide/)
+> [Panduan Lengkap Sewa Mobil di Bali - Biaya, Cara Booking, Kelebihan](/id/blog/bali-private-car-hire-guide/)
 
-> [Rekomendasi Driver/Destinasi Sewa Mobil Berbahasa Mandarin di Bali](/blog/bali-chinese-tour-guide/)
+> [Rekomendasi Driver/Destinasi Sewa Mobil Berbahasa Mandarin di Bali](/id/blog/bali-chinese-tour-guide/)
 
 Kelebihan ojek online adalah biayanya lebih murah / harga jelas, bisa dipanggil lewat App. Cara pakai ojek online di Indonesia/Bali? Pakai aplikasi apa? Cek di sini:
 
-> [Wajib Download Saat Liburan di Indonesia/Bali: Panduan Lengkap Gojek](/blog/gojek-bali-guide/)
+> [Wajib Download Saat Liburan di Indonesia/Bali: Panduan Lengkap Gojek](/id/blog/gojek-bali-guide/)
 
 ### Akomodasi/Tempat Wisata/Aktivitas:
 
@@ -134,7 +134,7 @@ Pilihan akomodasi di Bali itu beragam banget, ada hotel, resort, villa, dan lain
 
 ![峇里島親子住宿推薦](https://images.gobaligo.id/vocus/vocus_62021a66b4fb2080c4351c4391ea4e2b.jpg)
 
-[Rekomendasi Akomodasi Keluarga di Bali](/blog/bali-family-travel-guide/)
+[Rekomendasi Akomodasi Keluarga di Bali](/id/blog/bali-family-travel-guide/)
 
 Buat kamu yang bawa anak kecil, bisa pertimbangkan resort ramah anak. Biasanya resort ini punya kolam renang dengan seluncuran buat si kecil main air, plus kids club biar orang tua bisa santai sejenak.
 
@@ -150,7 +150,7 @@ Untuk rekomendasi resort ramah anak, aktivitas yang cocok buat anak-anak, tempat
 
 Pas liburan di Bali, kamu harus jaga kebersihan makanan, biar terhindar dari diare Bali. Ada panduan aman yang bisa kamu ikuti:
 
-> [Tips Kesehatan Perjalanan ke Bali: Panduan Air Minum dan Diare](/blog/bali-travel-health-tips/)
+> [Tips Kesehatan Perjalanan ke Bali: Panduan Air Minum dan Diare](/id/blog/bali-travel-health-tips/)
 
 {{block:美食}}
 
@@ -158,7 +158,7 @@ Pas liburan di Bali, kamu harus jaga kebersihan makanan, biar terhindar dari dia
 
 Di Bali banyak pedagang kaki lima atau calo yang suka nipu turis, jadi kamu harus waspada.
 
-[Bali aman nggak sih? Bocoran 6 Penipuan Turis Terbaru! Tukar uang, visa palsu, jebakan tempat wisata... Kalau lihat orang kayak gini, langsung minggir!](https://gobaligo.id/blog/bali-tourist-scams-2026/)
+[Bali aman nggak sih? Bocoran 6 Penipuan Turis Terbaru! Tukar uang, visa palsu, jebakan tempat wisata... Kalau lihat orang kayak gini, langsung minggir!](https://gobaligo.id/id/blog/bali-tourist-scams-2026/)
 
 ### Jaga Keamanan:
 

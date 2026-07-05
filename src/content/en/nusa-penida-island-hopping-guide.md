@@ -46,7 +46,7 @@ He will:
 - **15:20**: Arrive at Bali Airport, ready to start the Bali adventure. The driver mentioned it's the rainy season but hasn't rained in a while.
 - **16:00**: Exit the airport and exchange some local currency. It's best to find a reliable money changer.
 
-(Read more: [The Ultimate Guide to Currency Exchange in Bali](/blog/bali-currency-exchange-guide/))
+(Read more: [The Ultimate Guide to Currency Exchange in Bali](/en/blog/bali-currency-exchange-guide/))
 
 - **18:00**: A top choice for savoring crispy duck at a floating pavilion - [Bebek Tebasari Resto](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89252-bebek-tepi-sawah-dining-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6380339e0f). This restaurant comes highly recommended.
 
@@ -64,7 +64,7 @@ Intermittent downpours from 5:00 AM to 2:00 PM, but that didn't dampen our adven
 
 > [Ayung River Rafting](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)[Ayung River Rafting (with pickup)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
 
-Quick reference: [Bali Rafting Guide (FAQ)](/blog/bali-rafting-ayung-telaga-waja/)
+Quick reference: [Bali Rafting Guide (FAQ)](/en/blog/bali-rafting-ayung-telaga-waja/)
 
 - **13:00**: Enjoy a delicious lunch with scenic rice terrace views at Tis Cafe.
 
@@ -86,7 +86,7 @@ Ubud City Guide: Where is Tukies Coconut Shop? What to explore in town?
 
 Spend a drizzly morning in Ubud, then head to Penida Island
 
-- **9:00 AM**: [Omma Dayclub](/blog/ubud-omma-dayclub-tegenungan-waterfall/) Bali Waterfall + Lunch
+- **9:00 AM**: [Omma Dayclub](/en/blog/ubud-omma-dayclub-tegenungan-waterfall/) Bali Waterfall + Lunch
 
 ![Omma Dayclub  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_699d0a9f7a85019dac97b82980480d3f.jpg)
 
@@ -102,7 +102,7 @@ Atuh Beach Photo: Courtesy of Sophie
 
 - **15:00**: Enjoy a sunny afternoon and evening on Penida Island.
 
-> (Read more: [Bali - Nusa Penida Complete Guide: Map, Ferry, Accommodation, Transport, Car Rental, Activities, Photography, Attractions](/blog/nusa-penida-guide/))
+> (Read more: [Bali - Nusa Penida Complete Guide: Map, Ferry, Accommodation, Transport, Car Rental, Activities, Photography, Attractions](/en/blog/nusa-penida-guide/))
 
 ## Day 4 (1/21): Exploring Nusa Penida Island
 
@@ -110,7 +110,7 @@ Spending the day on Nusa Penida Island
 
 - **07:00**: Snorkeling near the hotel.
 
-> (Read more: [Nusa Penida Snorkeling Guide: Best Spots and How to Join](/blog/nusa-penida-snorkeling-guide/))
+> (Read more: [Nusa Penida Snorkeling Guide: Best Spots and How to Join](/en/blog/nusa-penida-snorkeling-guide/))
 
 - **09:00**: Visit Kelingking Beach and explore the T-Rex coastline.
 - **13:00**: Discover Broken Beach and Angel's Billabong, marveling at the stunning natural landscapes.
@@ -120,7 +120,7 @@ Spending the day on Nusa Penida Island
 
 Sky Gate with no queue Photo: Courtesy of Sophie
 
-(Further reading: [Amarta Penida Introduction](/blog/nusa-penida-best-restaurants/))
+(Further reading: [Amarta Penida Introduction](/en/blog/nusa-penida-best-restaurants/))
 
 ## Day 5 (1/22): Nusa Penida Island and Jimbaran
 
@@ -133,7 +133,7 @@ Diamond Beach Photo: Courtesy of Sophie
 
 - **17:00**: Return to Bali and savor a delicious dinner with grilled corn on Jimbaran Beach, accompanied by a breathtaking sunset, wrapping up the day's adventure.
 
-(Further reading: [Top 9 Seafood Restaurants in Jimbaran](/blog/jimbaran-guide/))
+(Further reading: [Top 9 Seafood Restaurants in Jimbaran](/en/blog/jimbaran-guide/))
 
 ![金巴蘭夕陽晚餐  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_0b40e77d3c97f550983e107d821f854b.jpg)
 
@@ -150,12 +150,12 @@ Wahaha: Everyone who's tried it raves about it!
 
 Insiders know that Prema Rasa is the place to buy souvenirs.
 
-**Quick Reference:** [【Recommended by Travelers】Over 20 Bali Souvenir Ideas Across 6 Categories: Perfect for Keeping Precious Memories](/blog/bali-souvenirs-gift-guide/)
+**Quick Reference:** [【Recommended by Travelers】Over 20 Bali Souvenir Ideas Across 6 Categories: Perfect for Keeping Precious Memories](/en/blog/bali-souvenirs-gift-guide/)
 
 - **14:30**: Depart for the airport. The beauty of spending your last day around Kuta and Jimbaran is that you won't have to worry about missing your flight!
 
-> (Further Reading: [Kuta Travel Guide: 50 Must-Visit Attractions, Food, and Recommended SPA Spots](/blog/2023-12-13-657598bdfd8978000120fe20/))  
-> (Further Reading: [Jimbaran Travel Guide: 31 Must-Visit Attractions and Activities](/blog/jimbaran-guide/))
+> (Further Reading: [Kuta Travel Guide: 50 Must-Visit Attractions, Food, and Recommended SPA Spots](/en/blog/2023-12-13-657598bdfd8978000120fe20/))  
+> (Further Reading: [Jimbaran Travel Guide: 31 Must-Visit Attractions and Activities](/en/blog/jimbaran-guide/))
 
 - **16:30**: Say goodbye to Bali and take off on time.
 

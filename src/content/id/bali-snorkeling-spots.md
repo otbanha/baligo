@@ -53,7 +53,7 @@ Gamat Bay adalah salah satu spot snorkeling paling ideal di pulau ini. Lerengnya
 
 https://youtu.be/jjuHfCukQrM?si=WpLBp0aP5qcX3_58
 
-Nusa Penida 佩妮達島是Bali外海的一顆珍珠！想知道佩尼達島要怎麼玩嗎？請看我們的[佩妮達島攻略](/blog/nusa-penida-guide/)
+Nusa Penida 佩妮達島是Bali外海的一顆珍珠！想知道佩尼達島要怎麼玩嗎？請看我們的[佩妮達島攻略](/id/blog/nusa-penida-guide/)
 
 ***
 
@@ -63,7 +63,7 @@ https://youtube.com/shorts/a4mL69nASLY?si=kBlh3NkmaQFRIeAw
 
 位於**Bali**藍夢島北岸的 Mangrove Point，以它獨特的「隨波逐流」漂流浮潛聞名。這片海域緊鄰茂密的紅樹林生態系，得天獨厚的地理環境孕育了超豐富的生物多樣性，浮潛者只要放鬆身體漂浮在水面，就能隨著溫和穩定的洋流，像看電影一樣慢慢經過一望無際又色彩繽紛的珊瑚花園。這裡的水質清澈透明，成群結隊的熱帶魚在壯麗的硬珊瑚間穿梭，不只視覺震撼，而且因為不用費力划水，過程超輕鬆愜意，是來Bali跳島旅遊時絕對不能錯過的水下秘境。
 
-Rekomendasi tempat wisata/akomodasi/kuliner di Nusa Lembongan, cek [【Panduan Nusa Lembongan】](/blog/nusa-lembongan-ceningan-guide/)
+Rekomendasi tempat wisata/akomodasi/kuliner di Nusa Lembongan, cek [【Panduan Nusa Lembongan】](/id/blog/nusa-lembongan-ceningan-guide/)
 
 ***
 
@@ -95,7 +95,7 @@ Kapal terkenal USS Liberty ini ada di perairan yang cukup dangkal, jadi snorkele
 
 > [Pengalaman Menyelam/Snorkeling di Amed/Tulamben](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1106567&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%259C%259F%25E8%2598%25AD%25E5%25A5%2594%25E6%25B5%25AE%25E6%25BD%259B)
 
-Amed/Tulamben adalah surga diving yang lowkey tapi mempesona di sudut timur laut Bali! Mau tahu selain diving apa lagi yang bisa dilakukan di sini? Cek [panduan wisata Amed/Tulamben lengkap](/blog/amed-tulamben-diving-guide/) kami.
+Amed/Tulamben adalah surga diving yang lowkey tapi mempesona di sudut timur laut Bali! Mau tahu selain diving apa lagi yang bisa dilakukan di sini? Cek [panduan wisata Amed/Tulamben lengkap](/id/blog/amed-tulamben-diving-guide/) kami.
 
 ***
 
@@ -115,11 +115,11 @@ Di area ini ada perairan dangkal yang dilindungi terumbu karang luar, cocok bang
 
 > Pesan [Snorkeling Lepas Pantai Sanur](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1068751&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F134495-snorkeling-experience-in-sanur-coastal%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dd9d7485ad9)
 
-Sanur adalah kota pantai paling cocok buat keluarga yang ingin santai di Bali! Mau tahu hotel ramah anak, kuliner, dan aktivitas pantai apa saja di Sanur? Cek [panduan wisata Sanur](/blog/sanur-guide/) kami.
+Sanur adalah kota pantai paling cocok buat keluarga yang ingin santai di Bali! Mau tahu hotel ramah anak, kuliner, dan aktivitas pantai apa saja di Sanur? Cek [panduan wisata Sanur](/id/blog/sanur-guide/) kami.
 
 > [Pesan Snorkeling Nusa Dua](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1083509&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F53090-snorkeling-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8c694d5dca)
 
-Nusa Dua adalah surga tenang di tenggara Bali! Penasaran apa saja tempat wajib main, nginep, dan foto di Nusa Dua? Cek [panduan wisata Nusa Dua](/blog/nusa-dua-guide/) kami.
+Nusa Dua adalah surga tenang di tenggara Bali! Penasaran apa saja tempat wajib main, nginep, dan foto di Nusa Dua? Cek [panduan wisata Nusa Dua](/id/blog/nusa-dua-guide/) kami.
 
 ***
 
@@ -163,7 +163,7 @@ Musim kemarau (April–Oktober) lautnya tenang dan visibility-nya jernih banget 
 
 Buat pemula, mending ikut guide aja, apalagi di spot yang arusnya kuat kayak Manta Point sama Tulamben.
 
-**Cek cepat:** [Panduan Wajib Snorkeling & Diving di Bali: Cara Aman Jaga Paspor & Barang Berharga?](/blog/bali-diving-safety-tips/)
+**Cek cepat:** [Panduan Wajib Snorkeling & Diving di Bali: Cara Aman Jaga Paspor & Barang Berharga?](/id/blog/bali-diving-safety-tips/)
 
 {{block:klook}}
 
@@ -171,4 +171,4 @@ Buat pemula, mending ikut guide aja, apalagi di spot yang arusnya kuat kayak Man
 
 👈 **Kembali ke Panduan Lengkap Trip ke Bali**
 
-Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.
+Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.

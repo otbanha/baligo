@@ -44,7 +44,7 @@ https://youtube.com/shorts/BBIXmPYUPZo
 
 Sekarang di kedua sisi air terjun ada dua klub kolam renang, kamu bisa menikmati keindahan alam sepuasnya.
 
-▶[OMMA Dayclub Bali: Rasain vibes chill, waktu santai di bawah sinar matahari](/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+▶[OMMA Dayclub Bali: Rasain vibes chill, waktu santai di bawah sinar matahari](/id/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 ▶[D'tukad River Club](https://youtube.com/shorts/WdPWlqgn_jY)
 

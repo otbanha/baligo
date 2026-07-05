@@ -114,6 +114,6 @@ Kembang Hartawan 強調：「我哋希望呢個計劃唔單止係建設，更加
 
 **5. 峇里島仲有咩必去樂園？**
 
-除咗呢個項目，[Waterbom Bali](/blog/waterbom-bali-water-park-guide/)、[Bali Safari Park](/blog/bali-safari-night-stay/) 同 [Bali Bird Park](/blog/bali-bird-park-guide/) 都係唔可以錯過嘅熱門景點。
+除咗呢個項目，[Waterbom Bali](/zh-hk/blog/waterbom-bali-water-park-guide/)、[Bali Safari Park](/zh-hk/blog/bali-safari-night-stay/) 同 [Bali Bird Park](/zh-hk/blog/bali-bird-park-guide/) 都係唔可以錯過嘅熱門景點。
 
 {{block:親子}}

@@ -36,9 +36,9 @@ Kalau kamu milih nginep di Kuta, kamu bakal gampang banget menikmati suasana ram
 
 ![庫塔攻略](https://images.gobaligo.id/vocus/vocus_a57859324b7669581d6e1c16a2d33cc1.jpg)
 
-[Panduan Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/)
+[Panduan Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
 
-> Baca juga: [Panduan Wisata Kuta Bali: 50 Tempat Wajib Kunjung, Kehidupan Malam Seru, Kuliner, & Rekomendasi SPA Lengkap](/blog/2023-12-13-657598bdfd8978000120fe20/)
+> Baca juga: [Panduan Wisata Kuta Bali: 50 Tempat Wajib Kunjung, Kehidupan Malam Seru, Kuliner, & Rekomendasi SPA Lengkap](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 Tapi, keramaian Kuta juga bawa masalah macet dan penuh sesak. Kalau tujuan liburanmu di sekitar sini, nginep di Kuta jelas pilihan oke, kamu bisa nikmatin semuanya dengan gampang. Tapi kalau kamu rencananya tiap hari jalan ke tempat wisata beda, Kuta mungkin bukan lokasi nginep paling ideal. Di jam sibuk, jalan kaki 10 menit aja bisa makan waktu lama, bikin pengalaman liburanmu kurang maksimal.
 
@@ -46,7 +46,7 @@ Jalan di Bali gak lebar-lebar, pas kendaraan banyak, gampang macet. Jadi kalau k
 
 ![峇里島住宿選擇指南](https://images.gobaligo.id/vocus/vocus_8a00355804c47ddbf399e742466c9bd1.png)
 
-> Baca juga: [Panduan Bali: Kenali Area Bali - Rekomendasi Tempat Nginep di Bali: Kenali Kuta, Seminyak, Canggu, Ubud](/blog/2023-12-29-65839fbafd89780001e876b5/)
+> Baca juga: [Panduan Bali: Kenali Area Bali - Rekomendasi Tempat Nginep di Bali: Kenali Kuta, Seminyak, Canggu, Ubud](/id/blog/2023-12-29-65839fbafd89780001e876b5/)
 
 Nih, rekomendasi akomodasi di Bali yang udah kami siapin khusus buat kamu — biar liburanmu bebas dari macet dan bisa menikmati pemandangan serta budaya Bali dengan santai banget.
 

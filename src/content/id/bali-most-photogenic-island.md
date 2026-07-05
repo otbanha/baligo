@@ -32,7 +32,7 @@ Menurut survei terbaru dari platform layanan perjalanan terkenal asal Inggris, T
 ![Bali Naik Tahta sebagai Pulau Paling Memesona di Dunia: Hasi](https://images.gobaligo.id/vocus/vocus_634888bfed094ae7a5caac40b1511211.jpg)
 
 **Referensi Cepat:**  
-[10 Landmark Penting di Bali & Cara Mengatur Perjalanan](/blog/bali-top-landmarks-guide/)
+[10 Landmark Penting di Bali & Cara Mengatur Perjalanan](/id/blog/bali-top-landmarks-guide/)
 
 ## **Bali: Surga Liburan yang Gak Ada Lawan**
 
@@ -75,7 +75,7 @@ Mulai dari surfing, diving, naik gunung berapi, sampai meditasi dan spa — semu
 ![4. Pilihan Aktivitas yang Super Variatif](https://images.gobaligo.id/vocus/vocus_7030ca3e24fe75b65f4b81031df4960a.jpg)
 
 **Referensi Cepat:**  
-[Aktivitas Outdoor di Bali? 50 Pengalaman Paling Populer](/blog/bali-top-50-outdoor-activities/)
+[Aktivitas Outdoor di Bali? 50 Pengalaman Paling Populer](/id/blog/bali-top-50-outdoor-activities/)
 
 ---
 
@@ -101,26 +101,26 @@ Bali punya pemandangan alam yang memukau, budaya lokal yang hangat, beragam akti
 Musim terbaik adalah April hingga Oktober, masuk musim kemarau. Cuacanya cerah dan kelembapan rendah, cocok banget buat aktivitas pantai dan petualangan outdoor.
 
 **Referensi Cepat:**  
-[Bulan Wisata Bali / Peluang Hujan / Hari Hujan / Suhu Rata-rata / Indeks Kesesuaian Wisata... Analisis Lengkap](/blog/bali-rainy-season-travel-guide/)
+[Bulan Wisata Bali / Peluang Hujan / Hari Hujan / Suhu Rata-rata / Indeks Kesesuaian Wisata... Analisis Lengkap](/id/blog/bali-rainy-season-travel-guide/)
 
 ### **Sebelum ke Bali, dokumen perjalanan apa aja yang perlu disiapin?**
 
-Beberapa negara bisa bebas visa, ada juga yang perlu visa. Saran sih, cek dulu [di sini](/blog/bali-all-indonesia-arrival-guide/) sebelum berangkat biar masuknya lancar jaya.
+Beberapa negara bisa bebas visa, ada juga yang perlu visa. Saran sih, cek dulu [di sini](/id/blog/bali-all-indonesia-arrival-guide/) sebelum berangkat biar masuknya lancar jaya.
 
 ### **Bali lebih cocok jalan sendiri atau ikut tur?**
 
 Dua-duanya oke banget. Kalau kamu suka eksplorasi dan fleksibel atur jadwal, jalan sendiri itu pilihan mantap. Tapi kalau mau santai tanpa ribet, ikut tur lokal bisa bikin kamu cepet nikmatin spot-spot utama.
 
 **Referensi cepat:**  
-[Rekomendasi tur wisata Bali](/blog/isbali-tour-agency-review/)
+[Rekomendasi tur wisata Bali](/id/blog/isbali-tour-agency-review/)
 
 ### **Mahal nggak sih hidup di Bali?**
 
 Bali punya banyak pilihan buat semua kantong, dari hostel backpacker sampai resort mewah. Biaya harian kayak makan, transportasi, dan aktivitas, kira-kira USD $50–100 per orang per hari. Cocok buat traveler dengan budget apa pun.
 
 **Referensi cepat:**  
-[Berapa uang tunai yang perlu disiapin buat liburan ke Bali?](/blog/bali-travel-cash-budget-guide/)
+[Berapa uang tunai yang perlu disiapin buat liburan ke Bali?](/id/blog/bali-travel-cash-budget-guide/)
 
 ### Mau ke Bali, gimana cara persiapan pertama kali?
 
-Pas pertama kali kamu ke Bali, pastiin persiapanmu matang banget. Nih, beberapa hal yang wajib kamu pikirin: [31 tips liburan ke Bali wajib baca buat pemula](/blog/bali-ultimate-guide-2026/)
+Pas pertama kali kamu ke Bali, pastiin persiapanmu matang banget. Nih, beberapa hal yang wajib kamu pikirin: [31 tips liburan ke Bali wajib baca buat pemula](/id/blog/bali-ultimate-guide-2026/)

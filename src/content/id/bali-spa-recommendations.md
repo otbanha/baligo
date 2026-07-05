@@ -30,7 +30,7 @@ Berkat banyak info dari grup, aku mau bagi-bagi pengalaman liburan mandiri ke Ba
 
 Urusan masuk semua udah diurus online dan dibayar, lewat pintu otomatis paling kiri langsung keluar (tapi sialnya, koperku nunggu 40 menit 😅😅😅)
 
-**Referensi cepat:** [Prosedur Masuk Terbaru 2026 - Turun Pesawat Sampai Keluar Bandara](/blog/bali-all-indonesia-arrival-guide/)
+**Referensi cepat:** [Prosedur Masuk Terbaru 2026 - Turun Pesawat Sampai Keluar Bandara](/id/blog/bali-all-indonesia-arrival-guide/)
 
 ## Rekomendasi & Pengalaman Activity
 
@@ -119,7 +119,7 @@ https://youtu.be/RodQvCZKwD0
 - **Merah Putih**: Masakan Indonesia, enak dan dekorasinya cantik, di dalam ada AC yang nyaman, harganya agak mahal.
 - **La Brisa Bali**: Beach club yang cantik banget, hasil fotonya maksimal, makanan dan minumannya oke, bisa langsung jalan kaki ke pantai di samping.
 
-> Baca juga: [Dijuluki 'Restoran Terindah di Bali': Gimana La Brisa Bisa Menonjol di Antara Ribuan Tempat Makan?](/blog/canggu-la-brisa-restaurant-guide/)
+> Baca juga: [Dijuluki 'Restoran Terindah di Bali': Gimana La Brisa Bisa Menonjol di Antara Ribuan Tempat Makan?](/id/blog/canggu-la-brisa-restaurant-guide/)
 
 {{block:canggu}}
 
@@ -144,7 +144,7 @@ Berenang di hutan di [Inara Alas Harum](https://www.agoda.com/partners/partnerse
 
 ▶[Inara Alas Harum](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41581751) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=109668691&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6z8TFJMEkdYOJY_q8fytZhZgNDYw0NvIZPGC02CrvyHV9cYHtuyoHT1sQ62iDQwBPxJQDz6exJ8bt8uRheu7r0MXIChaYwXj50lKTFYyMGxkPf9WI6S-KctjByHSAkekE4wHhBUxT_542OcXCzPGG-RLLLsboaqXs1EolKxMdpZLMkpxUJSulp4vmPW3Y83xFq5KOUkpqcTJQCMhKzM0vzSsBsk0sjfQMDIAiJYkVnilgncmJOcmlOYklqSGVBUATjHSUMoudS4oyC4JSczNLSlKBqtISc4pTQeJBqcVAmWSwIMjcIig_Mz8PotsARSwsMac0FaISaJ9bKtQKw9rYRyxM0bEvWDbyfWJh-MXC0MTK0MXKzDGNaRKQPCC8i5XX0dEzyMtR1zBEN0rX8ALrUTEpRUMDAwMjU1Mjc12DRMvENKMUM10TSxMjMzNdY2NzYzMDA41Zkz9ceGJsZC0FCUsFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbBaGJibmzlE2XMyhwS6CyyuPa1oZSTtIMYeEuyh-WH7M27zztL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD4SJp_EWpWhGxKecVysgLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQAhVUrf00CAAA&masterhotelid_tracelogid=100025527-0a9af2d6-494266-3373600&detailFilters=17|1~17~1*31|109668691~31~109668691*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1056&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/AUV4lN4h) Link Booking
 
-Sudah masuk di [【Rekomendasi Penginapan Ubud】Surga Pribadi Villa Kolam Renang Ubud: Rekomendasi Villa Bali yang Bikin Tercengang](/blog/ubud-villa-pool-guide/)
+Sudah masuk di [【Rekomendasi Penginapan Ubud】Surga Pribadi Villa Kolam Renang Ubud: Rekomendasi Villa Bali yang Bikin Tercengang](/id/blog/ubud-villa-pool-guide/)
 
 {{block:住宿}}
 

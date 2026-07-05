@@ -82,7 +82,7 @@ Beneran tempat yang bikin kamu males pergi, pengin stay di sini terus.
 
 > Pesan The Tukad Villa: [Agoda harga spesial](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=240473) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=688405&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_CcXvpwVOsQowGFr8FHVtfB-6Qyyxz8Dx7Bgg4ahwCeCKmHHg-jT2xcZNmeMV3D4dCBhB40eDQyLjO_WGVSFydQxcjK1jNDMapTVobGeVBhtSFOexgZDrBuERgAdPsxaeYTrEwcyxivsTylSm6Wik7tVLJykRHqSSzJCdVyUrp2Zzep90zX2zaraSjlJJanAwUArISc_NL80qAbCMDSz0DA6BISWKFZ4qSlbmOUnJiTnJpTmJJakhlAdAEMx2lzGLnkqLMgqDU3MySklSgqrTEnOJUkHhQajFQJhksqOQHNKYIKpCZnwfRboAiFpaYU5oKcQLQQrdUqB3GtTqYLn-6aN7Thj3PV7QS53ITarvckBiXG9bGPmJhio79xMLwCxgNl4SbWBm6WJk5XjBOApJLBHaxsvlFuviFBFxgvacqJWdoYGBgamhsaqprkGiZaGqcbKhrYmliZG6ga2phYqHR-ejFtSfGRtZSkEhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxGbuYm7obBRlw8Xs6RIk-EHv-fZ2a0t7KeaQcBdFe9l-yRU9p-21mEODXQy9T7DbzjaVdgjc8zrnhL3xAvvI4w1vvr7rP22fxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIsIGRcQfjfxhgfMUIMh0AcV6NbvoCAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494270-5848&detailFilters=17|1~17~1*31|688405~31~688405*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=350&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/OhA4ytCi)
 
-Sudah masuk dalam daftar 「[rekomendasi villa Seminyak](/blog/2024-04-04-660e6e92fd89780001e6047e/)」
+Sudah masuk dalam daftar 「[rekomendasi villa Seminyak](/id/blog/2024-04-04-660e6e92fd89780001e6047e/)」
 
 ## Odysseys Surf School
 
@@ -118,7 +118,7 @@ Di sini ada area indoor, outdoor, dan pinggir pantai, menyediakan makan malam, c
 
 Meskipun harganya sedikit lebih mahal dibanding tempat lain, tapi pasti worth it. Turis yang datang ke Bali wajib mampir ke sini buat merasakan pesona uniknya.
 
-- [Panduan Ku De Ta](/blog/ku-de-ta-beach-club/)
+- [Panduan Ku De Ta](/id/blog/ku-de-ta-beach-club/)
 - Ku De Ta [Pesan Daybed](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1004596&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F135291-kudeta-beach-club-in-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D67569d3aa6)
 
 {{block:smk}}
@@ -137,7 +137,7 @@ Pura ini berdiri di atas tebing yang menghadap langsung ke Samudra Hindia yang l
 
 Kecuali ada monyet nakal yang hampir nyolong kacamata hitamku, sisanya semua indah banget. Trip ke Pura Uluwatu kali ini bikin aku makin ngerasain pesona tempat kuno dan sakral ini.
 
-**Referensi cepat:** [Panduan Wisata Pura Uluwatu / Tebing Cinta di Bali: Highlights & Tips Praktis](/blog/uluwatu-temple-travel-guide/)
+**Referensi cepat:** [Panduan Wisata Pura Uluwatu / Tebing Cinta di Bali: Highlights & Tips Praktis](/id/blog/uluwatu-temple-travel-guide/)
 
 ## Karma Jimbaran
 
@@ -237,6 +237,6 @@ Menurut kamu itinerary Lin Yanwei seru nggak? Yuk, langsung rencanain liburan se
 
 Klik di sini buat lihat lebih banyak cerita perjalanan seru di Bali
 
-Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Cerita Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)」, biar cerita kamu makin kece!
+Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Cerita Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, biar cerita kamu makin kece!
 
 {{block:攻略}}

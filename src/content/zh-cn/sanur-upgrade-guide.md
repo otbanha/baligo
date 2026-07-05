@@ -63,7 +63,7 @@ https://youtu.be/J6mjw5k2lzY?si=qoVEwlncFrnqNvkm
 
 现在在这一带**咖啡店跳店散步**真的舒服许多，不再需要担心脚扭到。
 
-**快速参考：**[沙努尔海滩上的6大热门海景咖啡厅推荐](/blog/sanur-beach-cafes-guide/)
+**快速参考：**[沙努尔海滩上的6大热门海景咖啡厅推荐](/zh-cn/blog/sanur-beach-cafes-guide/)
 
 ### ✅ 新的多层液压电梯停车场
 
@@ -77,7 +77,7 @@ https://www.instagram.com/reel/DM-DKa6TUir/?utm_source=ig_web_copy_link&igsh=NTc
 
 提供更环保的公共交通选项，对旅客来说也更方便。
 
-**快速参考：**[巴厘岛沙努尔推出全新旅游接驳巴士](/blog/sanur-tourist-shuttle-launch/)
+**快速参考：**[巴厘岛沙努尔推出全新旅游接驳巴士](/zh-cn/blog/sanur-tourist-shuttle-launch/)
 
 ### ✅ Mertasari码头重新启用（试行）
 
@@ -146,7 +146,7 @@ https://youtu.be/laRb_l8BdLM
 ✔ 想慢节奏放空的人
 ✔ 想结合健康疗养或长住的旅客
 
-**快速参考：**[巴厘岛家庭亲子旅游首选: 最安全的戏水海滩 - 沙努尔](/blog/sanur-family-beach-guide/)
+**快速参考：**[巴厘岛家庭亲子旅游首选: 最安全的戏水海滩 - 沙努尔](/zh-cn/blog/sanur-family-beach-guide/)
 
 ***
 

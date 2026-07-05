@@ -138,8 +138,8 @@ Proyek lift tebing di Nusa Penida jelas bakal berdampak besar pada pariwisata da
 
 Soal Nusa Penida, kita punya lima episode yang bakal bikin kamu makin kenal surga pulau ini!
 
-1. [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)
-2. [Kuliner Nusa Penida dan Laut Biru: 9 Pilihan Terbaik di Nusa Penida](/blog/nusa-penida-best-restaurants/)
-3. [Spot Snorkeling Nusa Penida, Gimana Cara Ikut Snorkeling?](/blog/nusa-penida-snorkeling-guide/)
-4. [Panduan Transportasi Nusa Penida: Taksi, Gojek/Grab, Sewa Mobil, Motor](/blog/nusa-penida-transport-guide/)
-5. [Rekomendasi Penginapan Nusa Penida: 13 Akomodasi dari Mewah sampai Budget di Nusa Penida](/blog/nusa-penida-hotels-guide/)
+1. [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)
+2. [Kuliner Nusa Penida dan Laut Biru: 9 Pilihan Terbaik di Nusa Penida](/id/blog/nusa-penida-best-restaurants/)
+3. [Spot Snorkeling Nusa Penida, Gimana Cara Ikut Snorkeling?](/id/blog/nusa-penida-snorkeling-guide/)
+4. [Panduan Transportasi Nusa Penida: Taksi, Gojek/Grab, Sewa Mobil, Motor](/id/blog/nusa-penida-transport-guide/)
+5. [Rekomendasi Penginapan Nusa Penida: 13 Akomodasi dari Mewah sampai Budget di Nusa Penida](/id/blog/nusa-penida-hotels-guide/)

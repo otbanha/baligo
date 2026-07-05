@@ -135,13 +135,13 @@ Makan malam kami pilih **Sun Sun Warung**, restoran lokal yang populer dan ramah
 
 **Hari kelima**: pagi-pagi kami langsung menuju **Ubud Palace**. Di jam segitu, pengunjung masih sepi, istananya terasa sangat tenang — waktu paling pas buat foto, bisa menangkap detail arsitektur dan ukiran khas Bali yang murni.
 
-> Referensi cepat: [【Tempat Wajib Kunjungi di Ubud】Ubud Palace: Permata Budaya dan Sejarah Bali | Jam Buka, Tiket Masuk, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Tur Harian](/blog/ubud-royal-palace-tour-guide/)
+> Referensi cepat: [【Tempat Wajib Kunjungi di Ubud】Ubud Palace: Permata Budaya dan Sejarah Bali | Jam Buka, Tiket Masuk, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Tur Harian](/id/blog/ubud-royal-palace-tour-guide/)
 
 Selanjutnya kami ke **Tirta Empul**, tempat yang sangat sakral bagi warga lokal. Banyak umat yang melakukan ritual pemurnian diri di kolam suci. Begitu masuk ke area pura, suasananya khidmat dan damai — kamu bisa merasakan energi yang terhubung dengan alam dan keyakinan.
 
 ![Akomodasi di Jimbaran](https://images.gobaligo.id/vocus/vocus_2e29af9eca891ff9b6e50c096a6ddc9b.jpg)
 
-> Referensi cepat: [【2025】Panduan Lengkap Tirta Empul: Pengalaman Pura Air Pemurnian Paling Sakral di Bali](/blog/tirta-empul-temple-guide/)
+> Referensi cepat: [【2025】Panduan Lengkap Tirta Empul: Pengalaman Pura Air Pemurnian Paling Sakral di Bali](/id/blog/tirta-empul-temple-guide/)
 
 Setelah selesai, kami naik motor lagi sekitar 3,5 km ke spot foto hits yang lagi naik daun: **Sari Timbul by Kubu Bali**. Tempat ini terkenal dengan instalasi seni patung kayu raksasa — setiap sudutnya penuh karakter, hasil fotonya keren banget. Paling disukai cewek-cewek, cocok banget buat foto-foto aesthetic.
 
@@ -185,7 +185,7 @@ Setelah istirahat sebentar, sore harinya kami pergi ke **Pura Uluwatu (Uluwatu T
 
 Matahari terbenam di Pura Uluwatu adalah salah satu pemandangan paling berkesan di Bali bagi banyak traveler. Pura ini dibangun di atas tebing yang menjorok ke Samudra Hindia. Saat senja perlahan tenggelam ke permukaan laut, seluruh langit berubah warna jadi keemasan dan jingga, memantul di garis pantai yang dramatis. Suasananya romantis sekaligus sakral. Kalau ditambah dengan pertunjukan Tari Kecak yang terkenal, makin terasa perpaduan unik antara budaya dan alam Bali yang memukau.
 
-> Referensi cepat: [Enam Lokasi Tari Kecak Api Terbaik di Bali: Pesta Visual dan Budaya](/blog/bali-kecak-fire-dance-locations/)
+> Referensi cepat: [Enam Lokasi Tari Kecak Api Terbaik di Bali: Pesta Visual dan Budaya](/id/blog/bali-kecak-fire-dance-locations/)
 
 **Hari Keenam**: Hari ini agendanya santai. Kami pergi ke **Kawasan Pantai Pandawa**. Dulu ini pantai tersembunyi, sekarang sudah jadi area wisata yang tertata rapi. Begitu masuk, ada satu pengalaman yang wajib dicoba: kamu harus beli tiket naik shuttle mobil (30K IDR per orang) menuju **Tanah Barak** yang disebut-sebut sebagai "jalan biru". Yang paling menarik di sini adalah tebing-tebing tinggi di kedua sisi jalan. Ada yang bilang ini mirip "Tembok Salju Tateyama Kurobe ala Jepang versi Bali", tapi diganti dengan batu kapur yang megah. Tempat ini lagi hits banget di kalangan anak muda, keren buat foto atau posting di medsos.
 
@@ -193,7 +193,7 @@ Matahari terbenam di Pura Uluwatu adalah salah satu pemandangan paling berkesan 
 
 Tebing spektakuler ini belakangan jadi tempat foto favorit para influencer. Soalnya, dengan perubahan sudut dan cahaya, hasil fotonya selalu cakep. Untuk ke sini, kamu harus masuk lewat pintu Pantai Pandawa, lalu naik shuttle di dalam area. Pemandangan sepanjang jalan juga indah. Sesampainya di lokasi, kamu bakal merasakan betapa dahsyatnya perpaduan tebing, langit biru, dan laut. Ini wajib dikunjungi buat pecinta fotografi.
 
-Referensi cepat: [Batu Barak/Tanah Barak Bali: Jalan Biru/Tebing Jurang yang Super Indah](/blog/batu-barak-cliff-road/)
+Referensi cepat: [Batu Barak/Tanah Barak Bali: Jalan Biru/Tebing Jurang yang Super Indah](/id/blog/batu-barak-cliff-road/)
 
 {{block:uluwatu}}
 
@@ -203,7 +203,7 @@ Sore harinya kami kembali ke villa di Jimbaran, memilih untuk tidak melakukan ap
 
 Matahari terbenam di Jimbaran Beach dianggap banyak orang sebagai salah satu momen paling romantis di Bali. Saat matahari perlahan tenggelam, permukaan laut berubah warna jadi jingga keemasan, ditemani suara ombak dan angin sepoi-sepoi, suasananya benar-benar memesona. Banyak wisatawan suka memesan seafood dinner dengan lilin di atas pasir, sambil menikmati makanan dan melihat matahari terbenam di Samudra Hindia—pemandangannya puitis banget. Makanya Jimbaran jadi pengalaman romantis yang nggak boleh dilewatkan buat pasangan dan keluarga yang liburan ke sini.
 
-> Referensi cepat: [Rekomendasi Seafood Jimbaran Bali: 13 Restoran Seafood Anti Zonk](/blog/jimbaran-seafood-restaurants-list/)
+> Referensi cepat: [Rekomendasi Seafood Jimbaran Bali: 13 Restoran Seafood Anti Zonk](/id/blog/jimbaran-seafood-restaurants-list/)
 
 Malam ini kami masih menginap di [**The Jimbaran Villa by Ini Vie Hospitality**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5730375) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=23782664&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_CsfD98-esQuyGpmYGhgZGBguFLW5XOFaLrHN_OKvewXOHXOvrwCPNDgE8EVMOPJ_GntjytZ7v86xAhy5GVrDADMaOU6u5NzJeX1xgy7U93mEHI9MBRqYTjL_FFjBt7nxoeYqFmeMMyyWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZBtZmugZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGXywMTawMXazMHMeZJgHJ32K7WPn9I_2DLEx1w80iXXWjdA0vsB6SlJI3NDAwMDU0NjXVNUi0tDA3M7HUNbE0MTYAUsYmJiYaLcf2zXpqbGQtBYl_BUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWzmhi6Gli5RNlzMocEugoW2XNcXG0g7SDGHhLsorrzJvPbAhNP2WsyeLkGG9_6z5GorW9oHWnwR439vucA-EiafxFqVoRsSntErXsDYwMjUxcgtwOjBGMFYAeQxrmJk52I2MDIUYNrAyLiD8T8MML5iBFkCADI-06gCAwAA&masterhotelid_tracelogid=100051355-0a987649-494309-43444&detailFilters=17|1~17~1*31|23782664~31~23782664*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=224&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/LerWcw1j), lanjut menikmati malam yang tenang khas Jimbaran.
 
@@ -215,7 +215,7 @@ Sore harinya kami sengaja menghitung waktu surut **Tanah Lot**, karena cuma pas 
 
 ![Akomodasi di Jimbaran](https://images.gobaligo.id/vocus/vocus_e865be61feb283663c6b4e451024b0a6.jpg)
 
-> Referensi cepat: [Destinasi Wajib Kunjungi di Bali: Panduan Lengkap Tanah Lot, Pasang Surut, dan Tempat Sekitar](/blog/bali-tanah-lot-guide/)
+> Referensi cepat: [Destinasi Wajib Kunjungi di Bali: Panduan Lengkap Tanah Lot, Pasang Surut, dan Tempat Sekitar](/id/blog/bali-tanah-lot-guide/)
 
 Menjelang malam kami balik ke pusat kota dan makan di **Naughty Nuri's Warung Seminyak**, yang ratingnya bagus banget di internet. Restoran ini terkenal dengan iga babi panggangnya—dagingnya empuk, sausnya kental, begitu dihidangkan aromanya langsung menggoda, cocok banget buat dimakan puas-puas. Malam itu kami menginap di Kuta, siap-siap menyambut hari terakhir perjalanan.
 
@@ -229,9 +229,9 @@ Menjelang malam kami balik ke pusat kota dan makan di **Naughty Nuri's Warung Se
 
 Perjalanan **Bali 8 hari 7 malam** bareng suami ini, kita pakai motor buat keliling—nyusuri kota, sawah, sampai pinggir pantai. Banyak banget kenangan unik yang kita ciptain. Meskipun nggak ada paket mobil mewah, tapi kita jadi lebih deket sama keseharian warga lokal, bisa berhenti kapan aja, dan eksplorasi sesuka hati. Sepanjang jalan, kita nikmatin momen romantis, sekaligus ngadepin tantangan kecil bareng-bareng, jadi perjalanan ini terasa lebih hangat. Buat kita, cara traveling 'irit' kayak gini justru esensi liburan yang sesungguhnya: bebas, autentik, dan penuh petualangan kecil berdua.
 
-- [Panduan Sewa Motor di Bali! Lebih Baik Sewa Motor atau Sewa Mobil?](/blog/bali-motorbike-rental-guide/)
-- [Tips Sewa Motor di Bali: Harga, Keamanan, dan Hal yang Perlu Diperhatikan](/blog/bali-motorbike-rental-tips/)
-- [Kapan Sewa Mobil? Kapan Panggil Taksi? Sewa Mobil vs. Panggil Taksi: Cara Pilih yang Paling Cocok Buat Perjalananmu?](/blog/bali-transportation-guide-car-rental/)
+- [Panduan Sewa Motor di Bali! Lebih Baik Sewa Motor atau Sewa Mobil?](/id/blog/bali-motorbike-rental-guide/)
+- [Tips Sewa Motor di Bali: Harga, Keamanan, dan Hal yang Perlu Diperhatikan](/id/blog/bali-motorbike-rental-tips/)
+- [Kapan Sewa Mobil? Kapan Panggil Taksi? Sewa Mobil vs. Panggil Taksi: Cara Pilih yang Paling Cocok Buat Perjalananmu?](/id/blog/bali-transportation-guide-car-rental/)
 
 Sebenernya aku udah pernah naik motor di **Thailand, Malaysia, Indonesia, Laos, sama Sri Lanka**. Cara ini hemat, praktis, bebas, dan nggak perlu khawatir kena biaya transportasi yang nggak wajar. Bertahun-tahun, pengalamanku udah lumayan banyak. Buatku, kekurangan paling besar cuma harus naik motor di bawah terik matahari—pasti jadi hitam atau terbakar. Tapi dibandingin sama keuntungannya yang bisa ngatur ritme perjalanan dan eksplorasi sesuka hati, sih, lebih worth it.
 
@@ -245,6 +245,6 @@ Kamu pikir itinerary mereka seru banget? Yuk, buruan atur liburan seru kamu ke B
 
 Klik di sini buat lihat lebih banyak cerita seru perjalanan ke Bali
 
-Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
+Kamu juga pengen nulis catatan perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Catatan Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, dijamin bikin catatan perjalananmu makin kece!
 
 {{block:攻略}}

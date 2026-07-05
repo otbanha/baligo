@@ -68,4 +68,4 @@ https://youtu.be/6dVUu_xXM0s?si=4FBvRasS_wQ1OInu
 
 ## Kamu juga mau nginep di bamboo villa?
 
-Cek di sini ada [10 rekomendasi tree house / bamboo villa yang bikin speechless](/blog/ubud-treehouse-bamboo-villa-stays/)
+Cek di sini ada [10 rekomendasi tree house / bamboo villa yang bikin speechless](/id/blog/ubud-treehouse-bamboo-villa-stays/)

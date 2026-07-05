@@ -89,4 +89,4 @@ Jujur, aku pribadi suka banget sama Bali di musim hujan. Setelah hujan reda, sel
 
 Musim hujan bukan penghalang perjalanan, cuma pengingat buat kamu menyesuaikan ritme.
 
-Penasaran apa yang bisa dilakukan saat hujan? Atau butuh rencana darurat kalau tiba-tiba hujan deras mengacaukan jadwal? Cek [60 alternatif aktivitas indoor di Bali saat hujan](/blog/2026-bali-indoor-activities/) yuk!
+Penasaran apa yang bisa dilakukan saat hujan? Atau butuh rencana darurat kalau tiba-tiba hujan deras mengacaukan jadwal? Cek [60 alternatif aktivitas indoor di Bali saat hujan](/id/blog/2026-bali-indoor-activities/) yuk!

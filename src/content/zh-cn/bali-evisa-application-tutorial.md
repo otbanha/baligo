@@ -40,6 +40,6 @@ Update: 2026/07/03
 
 由于攻城君的视频只能在YouTube播放，需要详细一步一步教学的朋友[请按这里观看](https://www.youtube.com/watch?v=j1VOvlR9vbo).
 
-若您还有任何申请上的疑难杂症，可以参考这里: [2024最新版印尼/巴厘岛入境签证&电子签证eVoA 填写相关 FAQ](/blog/indonesia-bali-visa-evoa-faq/)
+若您还有任何申请上的疑难杂症，可以参考这里: [2024最新版印尼/巴厘岛入境签证&电子签证eVoA 填写相关 FAQ](/zh-cn/blog/indonesia-bali-visa-evoa-faq/)
 
-关于从下飞机到步出机场的全部过程，有哪些步骤，[请参考这里](/blog/2025-bali-immigration-process/)
+关于从下飞机到步出机场的全部过程，有哪些步骤，[请参考这里](/zh-cn/blog/2025-bali-immigration-process/)

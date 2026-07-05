@@ -42,7 +42,7 @@ For this Bali trip, we specifically planned a sea excursion, so we chose to stay
 
 > Book Holiday Inn Bali Sanur: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=27931110) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=78191507&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6yczFJMEk9YmZ407rk6lsQoxGBhIWk4Ucv2nE9B_63-7gyQACXL0OATyNjIW2XNcXG1g4zGCcvH2J6gpGxo2MmkBlXzVSHHYwMp1gvKW4gGnRviWqp1iYOd6yXmL5xhRdrZSdWqlkZaKjVJJZkpOqZKX0dNG8pw17nq9oVdJRSkktTgYKAVmJufmleSVAtrGpuZ6BAVCkJLHCMwWsMzkxJ7k0J7EkNaSyAGiCmY5SZrFzSVFmQVBqbmZJSSpQVVpiTnEqSDwotRgokwwWVPIDGlMEFcjMz4NoN0ARC0vMKU2FOAFooVsq1A7DWh1Mlz_Z2_90XStul1saobjc2GKAnB77iIUpOvYTC8MvFoYmVoYuVoZJrMwctxR3sfIEmbg4u0TqGupG6RpKyRsaGBiYGhqbmuoaJFoaJxuapuqaWJoYWZrqGhmZmFtqLPnc0_TU2MhainXKgefT2BUYtQTjQzw9XQxLClPNCkstc4oKTA0YTzFKGZobWxgaGRoaGRlZGuuZWKSZFVvkFVvkZkV4MAaxmRqaurmYRdlwMYcGuwiC0kuMvrSDFHNIuItikEtb6J6Jp-21mD1dggzv_WfJ1Va2tA-0-CLG_95ygX0kTD6JtSpDNyQ8o1e8gLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQA-q1Rs-UCAAA&masterhotelid_tracelogid=100051355-0a93c15e-494295-22479&detailFilters=17|1~17~1*31|78191507~31~78191507*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=988&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/LxrD8ift)
 
-Featured in: [20+ Sanur Resorts/Villas from Luxury to Budget](/blog/sanur-luxury-budget-resorts/)
+Featured in: [20+ Sanur Resorts/Villas from Luxury to Budget](/en/blog/sanur-luxury-budget-resorts/)
 
 
 ## Area Highlights
@@ -91,7 +91,7 @@ https://youtube.com/shorts/EF8o5BgXtjg
 
 https://youtu.be/SpcgZ4iK7qs
 
-[Bali Accommodation Recommendations: 20+ Luxury to Budget Resorts/Villas in Sanur](/blog/sanur-luxury-budget-resorts/)
+[Bali Accommodation Recommendations: 20+ Luxury to Budget Resorts/Villas in Sanur](/en/blog/sanur-luxury-budget-resorts/)
 
 In summary, the Sanur area is perfect for families and leisure travelers, whether it's accommodation, dining, or entertainment — it has everything you need.
 

@@ -70,7 +70,7 @@ When you enter the supermarket, what should you grab? According to [J Indonesia]
 - **Sunscreen & Aloe Vera Gel:** With Bali's outdoor activities, sunscreen is cheaper locally. If you get sunburned, grab a bottle of **Aloe Vera Gel** to quickly soothe the pain.
 - **European Adapter & Bottled Water:** Bali uses the European two-round-pin plug (220V). Buying an adapter at the supermarket is cheap, and pairing it with your multi-socket extension cord will suffice.
 
-👉 Quick Reference: [Bali Travel Voltage/Plug Guide: Drone, DSLR, and Laptop Charging Tips (Including Universal Adapter Selection)](/blog/bali-voltage-adapter-tips/)
+👉 Quick Reference: [Bali Travel Voltage/Plug Guide: Drone, DSLR, and Laptop Charging Tips (Including Universal Adapter Selection)](/en/blog/bali-voltage-adapter-tips/)
 
 - **Tap Water is Not Drinkable:** Some beach hotels have desalinated water with an unbearable taste, and hotels usually only provide two small bottles per day. It's best to buy large bottles of water at the supermarket. Recommended trusted brands: **Amidis, Cleo, Aqua.**
 

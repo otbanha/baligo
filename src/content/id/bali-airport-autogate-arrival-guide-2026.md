@@ -106,6 +106,6 @@ Serius, perkembangan infrastruktur pariwisata Bali dalam beberapa tahun terakhir
 
 Semoga pas mendarat di Ngurah Rai nanti, kita bisa ngerasain sensasi 'turun pesawat sampai naik mobil nggak sampai 30 menit'. Karena setiap menit liburan harusnya dihabiskan di pantai dan kulineran, bukan di antrean.
 
-👉 Referensi cepat: [Panduan Lengkap Liburan ke Bali 2026｜Wajib Baca buat Pemula](/blog/bali-ultimate-guide-2026/)
+👉 Referensi cepat: [Panduan Lengkap Liburan ke Bali 2026｜Wajib Baca buat Pemula](/id/blog/bali-ultimate-guide-2026/)
 
 {{block:klook}}

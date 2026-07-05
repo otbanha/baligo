@@ -54,7 +54,7 @@ update: 2026/06/06
 
 Canggu (pronounced: Chang-gu), a charming town on Bali's southwest coast, has quickly become a top destination for global travelers. With its laid-back vibe, rich culture, and stunning natural landscapes, Canggu attracts everyone from surfers and digital nomads to those seeking a luxurious escape. Here, you'll find wide black-sand beaches, lush rice paddies, and countless trendy cafes and restaurants, offering each visitor a unique and unforgettable experience.
 
-Curious about Canggu's charm? Don't miss our guide: [Bali Canggu Perfect Adventure Map: 100 Must-Visit Spots in Canggu | 2026 Guide](/blog/canggu-guide/)
+Curious about Canggu's charm? Don't miss our guide: [Bali Canggu Perfect Adventure Map: 100 Must-Visit Spots in Canggu | 2026 Guide](/en/blog/canggu-guide/)
 
 ![長谷攻略裡有景點、餐廳、住宿、SPA推薦](https://images.gobaligo.id/vocus/vocus_55f2f31688753fb3500e30ac5c809196.jpg)
 
@@ -619,9 +619,9 @@ Domisili Villa Canggu Bali By Fays Hospitality is known for its spacious facilit
 
 # Other Accommodation Options in Canggu
 
-- Resort-style: [Bali Accommodation Guide: Top 10 Canggu Hotels You Can't Miss](/blog/canggu-top-hotels-guide/)
-- Family Getaway: [Top 13 Family-Friendly Resorts in Bali – Best Choices for Family Vacations and Relaxation in Kuta, Seminyak, Canggu, Jimbaran, and Uluwatu](/blog/bali-family-resorts-kids-club/)
-- Group Stays: For family villas in Canggu, check out [Recommended 3-Bedroom / 4-Bedroom / 5+ Bedroom Family Villa Stays](/blog/bali-group-villa-stay/)
+- Resort-style: [Bali Accommodation Guide: Top 10 Canggu Hotels You Can't Miss](/en/blog/canggu-top-hotels-guide/)
+- Family Getaway: [Top 13 Family-Friendly Resorts in Bali – Best Choices for Family Vacations and Relaxation in Kuta, Seminyak, Canggu, Jimbaran, and Uluwatu](/en/blog/bali-family-resorts-kids-club/)
+- Group Stays: For family villas in Canggu, check out [Recommended 3-Bedroom / 4-Bedroom / 5+ Bedroom Family Villa Stays](/en/blog/bali-group-villa-stay/)
 
  BLOCK0 
  BLOCK1 

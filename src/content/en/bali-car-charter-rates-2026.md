@@ -74,8 +74,8 @@ Because:
 
 ## 📌 Charter Guidelines & Recommended Drivers
 
-- For charter details (what's included, tipping, overtime calculation, etc.), please refer 👉[**here**](https://gobaligo.id/blog/bali-private-car-hire-guide/)
-- For the most recommended driver list and contact info from fellow travelers, please refer 👉[**here**](https://gobaligo.id/blog/bali-private-car-drivers-guide/)
+- For charter details (what's included, tipping, overtime calculation, etc.), please refer 👉[**here**](https://gobaligo.id/en/blog/bali-private-car-hire-guide/)
+- For the most recommended driver list and contact info from fellow travelers, please refer 👉[**here**](https://gobaligo.id/en/blog/bali-private-car-drivers-guide/)
 
 ***
 

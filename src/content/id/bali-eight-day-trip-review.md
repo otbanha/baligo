@@ -83,7 +83,7 @@ Malam ini kami menginap di Aloft Bali Kuta yang terletak di kawasan Kuta. Kami p
 
 Setelah sarapan enak di hotel, kami langsung meluncur ke salah satu ikon paling terkenal di Bali — Pura Tanah Lot. Pura Hindu abad ke-16 ini berdiri di atas batu karang di tengah laut. Pas surut, kamu bisa jalan kaki mendekat, pas pasang, air laut mengelilinginya, bikin pemandangan kayak lukisan. Berdiri di tepi pantai, lihat ombak pecah di karang, dan pura bersinar di bawah sinar matahari — rasanya bener-bener nggak bisa dijelasin. Saran gue, mending datang sore hari, pas matahari terbenam, Tanah Lot-nya cantik banget sampai bikin speechless.
 
-**Referensi Cepat:** [Panduan Lengkap Pura Tanah Lot: Info Pasang Surut & Tempat Wisata Sekitar](/blog/bali-tanah-lot-guide/)
+**Referensi Cepat:** [Panduan Lengkap Pura Tanah Lot: Info Pasang Surut & Tempat Wisata Sekitar](/id/blog/bali-tanah-lot-guide/)
 
 ### Siang: Makan & Belanja di Seminyak Square
 
@@ -208,7 +208,7 @@ Setelah dari Reptile Park, kita mampir ke Pasar Ubud. Ini adalah area paling ram
 
 Malam harinya kita makan malam di Taman Dedari, menutup hari yang penuh dengan sempurna.
 
-**Referensi Cepat:** [【Rekomendasi Makanan + Pemandangan Ubud】Taman Dedari Fairy Park](/blog/taman-dedari-ubud-food-scenery/)
+**Referensi Cepat:** [【Rekomendasi Makanan + Pemandangan Ubud】Taman Dedari Fairy Park](/id/blog/taman-dedari-ubud-food-scenery/)
 
 ***
 
@@ -224,9 +224,9 @@ Hari ini kita jalan-jalan ke kawasan pemandangan gunung berapi terkenal di Bali 
 
 Kita milih makan di Ritatkala Café, kafe dengan pemandangan yang juara. Gue saranin banget ambil tempat duduk outdoor, langsung menghadap gunung dan danau, sambil makan enak sambil menikmati keindahan alam yang luar biasa. Sayap ayam di sini recommended banget, kulitnya garing, dagingnya juicy, apalagi dicocol saus spesial — mantul! Di udara pegunungan yang sejuk, sambil ngopi panas dan memandang gunung berapi di kejauhan, rasanya bikin hati adem dan tenang, susah dijelasin pake kata-kata.
 
-**Referensi Cepat:** [12 Rekomendasi Kafe Pemandangan Gunung Berapi Terbaik di Kintamani Bali 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
+**Referensi Cepat:** [12 Rekomendasi Kafe Pemandangan Gunung Berapi Terbaik di Kintamani Bali 🌄☕](/id/blog/kintamani-volcano-cafes-restaurants/)
 
-[Panduan Lengkap Danau Batur & Gunung Batur Kintamani Bali: Sunrise Trekking × Royal Boat × Kafe Danau × Pemandian Air Panas Vulkanik](/blog/batur-lake-volcano-guide/)
+[Panduan Lengkap Danau Batur & Gunung Batur Kintamani Bali: Sunrise Trekking × Royal Boat × Kafe Danau × Pemandian Air Panas Vulkanik](/id/blog/batur-lake-volcano-guide/)
 
 ### Sore: Desa Adat Penglipuran
 
@@ -238,7 +238,7 @@ Setelah dari Kintamani, kita lanjut ke Desa Adat Penglipuran, sebuah desa tradis
 
 Jalanan di desa bersih dan rapi, dipenuhi rumpun bambu di kiri kanan, bikin jalan-jalan terasa adem dan tenang. Beberapa rumah warga juga jual kerajinan tangan atau oleh-oleh khas, dan harganya bisa ditawar — coba aja ngobrol sama pemiliknya. Di salah satu rumah, kita beli es loli, dan pemiliknya ramah banget, malah ngajak kita istirahat di halaman. Duduk di pelataran rumah tradisional Bali, merasakan angin sepoi-sepoi dan ketenangan, bikin betah dan ogah pulang. Warga di sini hidup santai dan penuh keramahan, tempat ini benar-benar surga buat merasakan budaya tradisional Bali.
 
-**Referensi Cepat:** [Kampung Penglipuran: Menembus Waktu, Rasakan Pesona Bali Kuno](/blog/penglipuran-village-bali-experience/)
+**Referensi Cepat:** [Kampung Penglipuran: Menembus Waktu, Rasakan Pesona Bali Kuno](/id/blog/penglipuran-village-bali-experience/)
 
 ### Pengalaman Ayunan di Sawah Terasering
 
@@ -246,7 +246,7 @@ Jalanan di desa bersih dan rapi, dipenuhi rumpun bambu di kiri kanan, bikin jala
 
 Setelah selesai keliling desa, kami lanjut ke spot ayunan di sawah terasering. Berayun di depan hamparan sawah hijau bertingkat memang jadi salah satu aktivitas paling hits di Bali belakangan ini. Saat ayunan melambung, pemandangan sawah hijau dan hutan di kejauhan langsung terhampar — rasanya seperti terbang di alam bebas. Kebebasan dan keindahan itu jadi salah satu kenangan paling tak terlupakan sepanjang perjalanan ini.
 
-**Referensi Cepat:** [Main Ayunan di Ubud: 8 Spot Foto Ayunan Terindah di Bali | Panduan Ayunan Ubud & Sewa Gaun](/blog/ubud-jungle-swings-photo-guide/)
+**Referensi Cepat:** [Main Ayunan di Ubud: 8 Spot Foto Ayunan Terindah di Bali | Panduan Ayunan Ubud & Sewa Gaun](/id/blog/ubud-jungle-swings-photo-guide/)
 
 {{block:ubud}}
 
@@ -280,11 +280,11 @@ Menjelang sore, kami mampir ke Pura Uluwatu (Uluwatu Temple). Pura yang berdiri 
 
 **Peringatan penting: Monyet di sini nakal banget dan super berani!** Kami lihat sendiri kacamata turis dirampas monyet. Monyet-monyet ini udah terbiasa sama turis, jago banget nyopet kacamata, topi, sunglasses, lalu 'minta tebusan' makanan. Jadi pas berkunjung, simpan baik-baik barang bawaan kamu. Kacamata mending diiket pakai tali, jangan bawa perhiasan mengkilap atau makanan biar gak menarik perhatian mereka.
 
-**Referensi cepat:** [Panduan Wisata Pura Uluwatu / Tebing Cinta Bali: Highlights & Tips Praktis](/blog/uluwatu-temple-travel-guide/)
+**Referensi cepat:** [Panduan Wisata Pura Uluwatu / Tebing Cinta Bali: Highlights & Tips Praktis](/id/blog/uluwatu-temple-travel-guide/)
 
 Meski harus waspada sama monyet, pemandangan di Pura Uluwatu bikin speechless. Pas matahari terbenam, sinar keemasan menyebar di permukaan laut, berkilauan, dan pura tampak lebih sakral dan megah dalam siluet. Kalau sempat, tonton pertunjukan Kecak Fire Dance — pesta budaya yang menggabungkan tari, musik, dan drama di bawah senja yang memukau.
 
-**Referensi cepat:** [Kecak Fire Dance: Pertunjukan Spektakuler Wajib Nonton di Bali (Info Tiket)](/blog/kecak-fire-dance-bali/)
+**Referensi cepat:** [Kecak Fire Dance: Pertunjukan Spektakuler Wajib Nonton di Bali (Info Tiket)](/id/blog/kecak-fire-dance-bali/)
 
 ### Makan Malam: Ulu Cliffhouse
 

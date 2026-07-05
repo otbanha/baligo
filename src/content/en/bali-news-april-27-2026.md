@@ -35,10 +35,10 @@ _srcHash: 98496e472e57dfdffd2e781d5303d94f
 
 - **Water Taxi Project**: The Ministry of Transportation announced a new plan today, with state-owned ferry company ASDP developing a water taxi route connecting the airport to Canggu. The project is set to begin in August 2026, aiming to address current ground transportation delays of 1-2 hours by offering a sea route as an alternative.
 
-> What is a water taxi? Learn more [here](/blog/2026-04-12-043821/)
+> What is a water taxi? Learn more [here](/en/blog/2026-04-12-043821/)
 
 - **Tourism Levy 'Secondary Checkpoint'**: Starting today, the airport (DPS) has officially established a '**Levy Vouchers**' secondary checkpoint lane between the arrival hall and the pick-up area. Travelers who have not paid the **IDR 150,000** tourism levy will be required to pay on-site via QRIS scanning, with no exceptions. Visitors are advised to prepare in advance.
 
-> [Can't Escape the Tourism Levy! 'Secondary Checkpoint' Officially Launched: Latest Payment Process, Penalties, and Strategies](/blog/bali-levy-check-warning/)
+> [Can't Escape the Tourism Levy! 'Secondary Checkpoint' Officially Launched: Latest Payment Process, Penalties, and Strategies](/en/blog/bali-levy-check-warning/)
 
 - **Subway Construction Update**: The tunnel boring machine for Bali's Subway Phase 1 is currently operating 30 meters underground. Officials have reiterated that the construction process fully complies with cultural preservation regulations, ensuring no impact on the surface landscape. However, there will be increased large vehicle traffic around some drilling sites, so please be cautious of traffic safety.

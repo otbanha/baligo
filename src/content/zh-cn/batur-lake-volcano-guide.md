@@ -70,7 +70,7 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 
 想要体验真正的征服感？参加巴杜尔火山日出登山是经典行程！ 通常是凌晨就要出发，约需2～3小时登顶。当第一道曙光划破天际，整片湖泊与山峦在金光中闪烁，那份壮丽足以让人屏息。
 
-**快速参考：**[巴杜尔徒步登山日出攻略](/blog/batur-sunrise-hiking-guide/)
+**快速参考：**[巴杜尔徒步登山日出攻略](/zh-cn/blog/batur-sunrise-hiking-guide/)
 
 ## 🚙 **日出吉普车越野体验**
 
@@ -78,7 +78,7 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 
 若你想轻松一点，又不想错过日出美景，可以选择「巴杜尔火山日出吉普车行程」。 四轮驱动吉普车将带你穿越黑色火山沙地与熔岩谷地，直达最佳观景点。
 
-**快速参考：**[巴厘岛探险：巴杜尔火山吉普车日出之旅全记录](/blog/batur-volcano-jeep-sunrise-tour/)
+**快速参考：**[巴厘岛探险：巴杜尔火山吉普车日出之旅全记录](/zh-cn/blog/batur-volcano-jeep-sunrise-tour/)
 
 ## 🌅 **日落吉普车越野体验**
 
@@ -92,7 +92,7 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 
 整个行程约 8 小时，费用包含酒店接送、景点门票、英语司机导游、专业摄影服务与零食矿泉水。
 
-**快速参考：**[不用早起也能征服巴厘岛火山！日落吉普车之旅让你轻松拍大片](https://gobaligo.id/blog/batur-volcano-sunset-jeep-tour/)
+**快速参考：**[不用早起也能征服巴厘岛火山！日落吉普车之旅让你轻松拍大片](https://gobaligo.id/zh-cn/blog/batur-volcano-sunset-jeep-tour/)
 
 ***
 
@@ -122,7 +122,7 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 
 以下是我们精选的**数十家巴杜尔湖景咖啡厅**，无论想享受宁静时光还是拍出完美照片，都能找到你的角落。
 
-**快速参考：**[巴厘岛金塔玛尼13大景观火山咖啡厅/餐厅推荐 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
+**快速参考：**[巴厘岛金塔玛尼13大景观火山咖啡厅/餐厅推荐 🌄☕](/zh-cn/blog/kintamani-volcano-cafes-restaurants/)
 
 ***
 

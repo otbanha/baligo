@@ -34,7 +34,7 @@ _srcHash: 8febd28eea3c045d27ed05a74560ad43
 
 Terletak di Jimbaran Bay, Bali, **Raffles Bali** dinobatkan sebagai salah satu hotel mewah terbaik dunia di tahun 2024. Bukan cuma soal suasana resort yang tenang dan privat, tapi juga pengalaman makan di atas bintang lima yang bikin siapa pun terpukau. Dikelilingi hutan tropis yang asri, dengan pemandangan Samudra Hindia yang megah dan pantai pribadi yang tersembunyi, konsep dining di sini bukan cuma soal makanan — ini perjalanan yang nggak bakal terlupakan.
 
-Baca selengkapnya: [Raffles Bali, Hotel Mewah di Jimbaran Raih Gelar Resort Mewah Terbaik Dunia](/blog/raffles-bali-luxury-resort/)
+Baca selengkapnya: [Raffles Bali, Hotel Mewah di Jimbaran Raih Gelar Resort Mewah Terbaik Dunia](/id/blog/raffles-bali-luxury-resort/)
 
 ## Makan Malam: Seni Rasa di Rumari
 
@@ -115,7 +115,7 @@ Oke, bukan tamu hotel juga bisa booking pengalaman makan di sini, tapi tergantun
 
 ## Juga Nonton Ini:
 
-- [【Pengalaman Kuliner di Bali】Alila Villas Uluwatu Brisa Brunch：Pesta Rasa Minggu di Tepi Tebing](/blog/alila-uluwatu-brisa-brunch/)
-- [Review Afternoon Tea Kempinski Bali：Sore Impian di Selasar Deli](/blog/kempinski-selasar-deli-afternoon-tea/)
+- [【Pengalaman Kuliner di Bali】Alila Villas Uluwatu Brisa Brunch：Pesta Rasa Minggu di Tepi Tebing](/id/blog/alila-uluwatu-brisa-brunch/)
+- [Review Afternoon Tea Kempinski Bali：Sore Impian di Selasar Deli](/id/blog/kempinski-selasar-deli-afternoon-tea/)
 
 {{block:蜜月}}

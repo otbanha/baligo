@@ -41,7 +41,7 @@ Cuaca Bali sejuk banget, cocok buat liburan sepanjang tahun. Tapi kalau kamu car
 
 Kesimpulannya, waktu terbaik buat liburan adalah musim kemarau dari Mei sampai Oktober. Kalau kamu mau hindari keramaian dan tetap dapat cuaca yang nyaman, Oktober dan November juga pilihan yang oke. Kapan pun kamu ke Bali, pasti ada pesona unik yang siap kamu eksplor dan nikmati.
 
-Baca juga: [Bulan Musim Hujan Bali / Peluang Hujan / Hari Hujan / Suhu Rata-rata / Indeks Kesesuaian Liburan... Analisis Lengkap](/blog/bali-rainy-season-travel-guide/)
+Baca juga: [Bulan Musim Hujan Bali / Peluang Hujan / Hari Hujan / Suhu Rata-rata / Indeks Kesesuaian Liburan... Analisis Lengkap](/id/blog/bali-rainy-season-travel-guide/)
 
 ![Bulan yang Kurang Cocok untuk Liburan:](https://images.gobaligo.id/vocus/vocus_bc7919a88322f5be4a88faea86280d81.png)
 
@@ -49,6 +49,6 @@ Baca juga: [Bulan Musim Hujan Bali / Peluang Hujan / Hari Hujan / Suhu Rata-rata
 
 Bali adalah destinasi liburan favorit banyak traveler, perpaduan antara nuansa tropis dan budaya unik yang bikin siapa pun pengen ke sini. Tapi, milih waktu yang pas buat liburan itu penting banget buat kenyamanan dan ngatur budget, lho.
 
-Lanjut baca: [Bali ternyata punya lima musim liburan! Gimana cara hindari musim ramai biar liburan makin cerdas?](/blog/bali-peak-season-travel-tips/)
+Lanjut baca: [Bali ternyata punya lima musim liburan! Gimana cara hindari musim ramai biar liburan makin cerdas?](/id/blog/bali-peak-season-travel-tips/)
 
 ##

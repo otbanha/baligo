@@ -61,7 +61,7 @@ All passengers are requested to complete their online declaration before boardin
 
 👉 <https://allindonesia.imigrasi.go.id/>
 
-In the future, entering Indonesia will be simplified to a single platform handling all applications and declarations; after implementing [All Indonesia], there will be no need to separately declare on ECD/SSHP websites. Entry to Bali will be streamlined from [the original four steps](/blog/2025-01-11-67821654fd89780001f932b5/) to three.
+In the future, entering Indonesia will be simplified to a single platform handling all applications and declarations; after implementing [All Indonesia], there will be no need to separately declare on ECD/SSHP websites. Entry to Bali will be streamlined from [the original four steps](/en/blog/2025-01-11-67821654fd89780001f932b5/) to three.
 
 ---
 
@@ -81,7 +81,7 @@ Yes, travelers can fill out the declaration form on the official website using t
 
 ### **What If I Encounter a System Error?**
 
-The system has built-in redundancy and provides customer support to promptly assist travelers with technical issues. For questions related to filling out the declaration form, please refer to [our FAQ](/blog/bali-evisa-customs-health-declaration/).
+The system has built-in redundancy and provides customer support to promptly assist travelers with technical issues. For questions related to filling out the declaration form, please refer to [our FAQ](/en/blog/bali-evisa-customs-health-declaration/).
 
 ### **Is the Tourism Tax Integrated?**
 

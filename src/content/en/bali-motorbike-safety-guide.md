@@ -49,9 +49,9 @@ Bali attracts countless tourists with its stunning scenery and diverse culture, 
 
 Poon’s experience reminds us that while scooters are handy, in an unfamiliar place—especially with complex road conditions and traffic rules different from your home country—the risk of accidents increases significantly.
 
-> Read more: [Bali Motorbike Rental Guide! Should You Rent a Motorbike or Hire a Car?](/blog/bali-motorbike-rental-guide/)
+> Read more: [Bali Motorbike Rental Guide! Should You Rent a Motorbike or Hire a Car?](/en/blog/bali-motorbike-rental-guide/)
 
-> Read more: [Bali Travel Guide: Essential for Short Trips! Use Ride-Hailing Apps for Motorcycle Taxis to Save Time and Effort!](/blog/bali-travel-app-motorcycle-taxi/)
+> Read more: [Bali Travel Guide: Essential for Short Trips! Use Ride-Hailing Apps for Motorcycle Taxis to Save Time and Effort!](/en/blog/bali-travel-app-motorcycle-taxi/)
 
 https://youtube.com/shorts/fXVYdj4SZT0?si=YfMVHvDIsYBgs6D9
 
@@ -73,4 +73,4 @@ We hope all travelers heading to Bali have a safe and enjoyable vacation.
 
 👈 **Back to the Ultimate Bali Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read the '2026 Bali Ultimate Travel Guide'](/blog/bali-ultimate-guide-2026/) and get everything you need to know before you go.
+Want to see the complete beginner's guide? [Click here to read the '2026 Bali Ultimate Travel Guide'](/en/blog/bali-ultimate-guide-2026/) and get everything you need to know before you go.

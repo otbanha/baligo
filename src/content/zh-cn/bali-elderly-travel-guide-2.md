@@ -47,7 +47,7 @@ _srcHash: 4603c4039e37bf8fbec5cb156490e889
 
 最左 Ani，最右她老公。图：Chuang Ling Chun提供
 
-> 延伸阅读：[巴厘岛包车自由行全攻略 - 费用、预订方式、优势分析](/blog/bali-private-car-hire-guide/)
+> 延伸阅读：[巴厘岛包车自由行全攻略 - 费用、预订方式、优势分析](/zh-cn/blog/bali-private-car-hire-guide/)
 
 妈妈说 Ani 的笑容常在脸上，非常随和，而且对于他们的自由行程非常配合。Ani和她的老公都曾经在台湾工作多年，因此与她的沟通也非常流畅。他们的价格非常实惠，即使是导游加司机的形式，包车价格也在平均水平之内。如果您想要联系 Ani，她的 Line 账号是 agussolihin72。
 
@@ -59,7 +59,7 @@ _srcHash: 4603c4039e37bf8fbec5cb156490e889
 
 乌鲁瓦图火舞秀示意图
 
-> 延伸阅读：[Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演（附订票信息）](/blog/kecak-fire-dance-bali/)
+> 延伸阅读：[Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演（附订票信息）](/zh-cn/blog/kecak-fire-dance-bali/)
 
 第一天，我安排他们入住了PinkCoco Uluwatu酒店，这家酒店虽然外观略显俗气，但随手都能拍出粉红色的美照。
 
@@ -79,7 +79,7 @@ Ani知道我妈妈爱拍照，于是推荐了一个荡秋千的行程，每人40
 
 乌布荡秋千优惠在这里：
 
-> [Ubud Swing 乌布玩秋千：巴厘岛最美的8个秋千拍照胜地｜乌布秋千/租礼服攻略](/blog/ubud-jungle-swings-photo-guide/)
+> [Ubud Swing 乌布玩秋千：巴厘岛最美的8个秋千拍照胜地｜乌布秋千/租礼服攻略](/zh-cn/blog/ubud-jungle-swings-photo-guide/)
 
 ![圖：Chuang Ling Chun提供 + 網路截圖](https://images.gobaligo.id/vocus/vocus_a3fd5654938f7fafc790509041021cf0.jpg)
 
@@ -127,7 +127,7 @@ Oculus Bali
 
 延伸阅读：
 
-> [2026巴厘岛乌布完整攻略：100种深入了解乌布的方式｜探索乌布的魅力](/blog/ubud-guide/)
+> [2026巴厘岛乌布完整攻略：100种深入了解乌布的方式｜探索乌布的魅力](/zh-cn/blog/ubud-guide/)
 
 晚上我安排他们入住了Grün Canggu Garden。当初我在订房时看到这里独特的设计时，立刻被吸引住了。它给人一种树屋的感觉，一楼是楼梯，走到一半是厕所及浴室，二楼是小平台，三楼是房间。房间的设计非常开放，除了厕所及浴室是密闭的，其他区域都是开放空间。周围环绕着树木，虫鸣鸟叫，让人感觉仿佛置身于大自然中，能够尽情享受假期的悠闲。
 
@@ -167,11 +167,11 @@ New Pondok Sara Villas
 
 ## 后记
 
-1. 如果你喜欢山竹的话，一定要买来品尝。在超市里，12颗山竹只要USD$3，又便宜又好吃。妈妈还请导游带他们去路边摊买榴莲，一颗榴莲只要USD$10。（延伸阅读：[印尼/巴厘岛山竹的产季](/blog/bali-mangosteen-season/)）
-2. 在巴厘岛旅行时，容易遇到交通拥挤的情况，而且路况不太好，所以使用Google地图上的预估时间仅供参考。（延伸阅读：[在巴厘岛别相信Google地图！](/blog/bali-google-maps-warning/)）
+1. 如果你喜欢山竹的话，一定要买来品尝。在超市里，12颗山竹只要USD$3，又便宜又好吃。妈妈还请导游带他们去路边摊买榴莲，一颗榴莲只要USD$10。（延伸阅读：[印尼/巴厘岛山竹的产季](/zh-cn/blog/bali-mangosteen-season/)）
+2. 在巴厘岛旅行时，容易遇到交通拥挤的情况，而且路况不太好，所以使用Google地图上的预估时间仅供参考。（延伸阅读：[在巴厘岛别相信Google地图！](/zh-cn/blog/bali-google-maps-warning/)）
 3. 妈妈他们非常满意Ani的服务，因此在最后一天给了她和她的丈夫一点额外的小费。我们也给了搬运行李和按摩服务员小费以示感谢。（延伸阅读：[巴厘岛旅游要给小费吗？小费怎么给？巴厘岛各种场合的小费要给多少？](https://youtu.be/B_oT905RkQw)）
-4. 在上车时就请司机导游带妈妈他们去换钱，他会带去可信赖的店家。（延伸阅读：[自由行换汇懒人包](/blog/bali-currency-exchange-guide/)）
-5. 在当地，SIM卡的价格为USD$19，提供18GB流量，而漫游5GB的价格为USD$16。我建议使用漫游服务，因为这次妈妈的旅途中不需要查资料，而且大多数酒店都提供免费Wi-Fi，5GB流量已经足够使用了。（延伸阅读：[【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡?](/blog/bali-sim-card-esim-roaming-guide/)）
+4. 在上车时就请司机导游带妈妈他们去换钱，他会带去可信赖的店家。（延伸阅读：[自由行换汇懒人包](/zh-cn/blog/bali-currency-exchange-guide/)）
+5. 在当地，SIM卡的价格为USD$19，提供18GB流量，而漫游5GB的价格为USD$16。我建议使用漫游服务，因为这次妈妈的旅途中不需要查资料，而且大多数酒店都提供免费Wi-Fi，5GB流量已经足够使用了。（延伸阅读：[【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡?](/zh-cn/blog/bali-sim-card-esim-roaming-guide/)）
 
 妈妈对这次旅行的评价是非常尽兴，她非常喜欢拍照的乐趣。她特别称赞我挑选的酒店都很棒，每间都有独特之处，让她可以拍摄许多美丽的照片。对她来说，只要能多拍一些照片，就是一场美好的旅程。
 
@@ -183,9 +183,9 @@ New Pondok Sara Villas
 
 ## **带长辈同游巴厘岛指南：**
 
-- 第一集：[适合长者的巴厘岛旅行指南 - 安全、舒适与注意事项](/blog/bali-elderly-travel-guide/)
-- 第二集：[适合年长者的巴厘岛旅游地点全攻略](/blog/bali-senior-friendly-travel-guide/)
-- 第三集：[长辈的行为有多奇葩！？带出国旅游当心「吃力不讨好」](/blog/traveling-with-elderly-parents-tips/)
+- 第一集：[适合长者的巴厘岛旅行指南 - 安全、舒适与注意事项](/zh-cn/blog/bali-elderly-travel-guide/)
+- 第二集：[适合年长者的巴厘岛旅游地点全攻略](/zh-cn/blog/bali-senior-friendly-travel-guide/)
+- 第三集：[长辈的行为有多奇葩！？带出国旅游当心「吃力不讨好」](/zh-cn/blog/traveling-with-elderly-parents-tips/)
 
 您觉得Ling Chun帮妈妈安排的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
@@ -193,4 +193,4 @@ New Pondok Sara Villas
 
 点击这里观看更多巴厘岛精彩游记
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/zh-cn/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！

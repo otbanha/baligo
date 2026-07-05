@@ -35,7 +35,7 @@ Beachwalk Residence
 
 一抵达，我们迫不及待地前往金巴兰沙滩享受美食，并在超级市场采购接下来几天的民生用品。
 
-> 参考：[巴厘岛金巴兰9家海鲜餐厅推荐](/blog/jimbaran-seafood-restaurants-list/)
+> 参考：[巴厘岛金巴兰9家海鲜餐厅推荐](/zh-cn/blog/jimbaran-seafood-restaurants-list/)
 
 > 参考：[巴厘岛超市买什么？](https://youtu.be/UoGlRyAdyB8)
 
@@ -47,13 +47,13 @@ Beachwalk Residence
 
 图：乌鲁瓦图，Serena提供
 
-> 参考：[南湾的水上活动](/blog/nusa-dua-guide/)
+> 参考：[南湾的水上活动](/zh-cn/blog/nusa-dua-guide/)
 
-> 参考：[Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演](/blog/kecak-fire-dance-bali/)
+> 参考：[Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演](/zh-cn/blog/kecak-fire-dance-bali/)
 
 傍晚，我们在回到酒店之前逛了库塔的街头小店。
 
-> 库塔怎么逛？请看【[库塔旅游攻略：50个必访景点、热闹夜生活、美食、推荐SPA全收集](/blog/2023-12-13-657598bdfd8978000120fe20/)】
+> 库塔怎么逛？请看【[库塔旅游攻略：50个必访景点、热闹夜生活、美食、推荐SPA全收集](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)】
 
 ### 2/15 Nusa Dua/Bali Zoo
 
@@ -73,11 +73,11 @@ Hilton bali resort
 
 图：乌布，Serena提供
 
-> 乌布皇宫、市集、秋千、瀑布的介绍，请参考：[巴厘岛乌布完整攻略：100种深入认识乌布的方式｜探索乌布的魅力](/blog/ubud-guide/)
+> 乌布皇宫、市集、秋千、瀑布的介绍，请参考：[巴厘岛乌布完整攻略：100种深入认识乌布的方式｜探索乌布的魅力](/zh-cn/blog/ubud-guide/)
 
 ### 2/17 水明漾/金巴兰
 
-今天，我们移至[Amarin Seminyak](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2802663) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=11152669&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oay8LFJMEkNY2F49TvI_fYhBgNLH4LOs6aCQT_Fjl4poGAz3KHAJ6IKQeeT2NPvGlbGbHiYKBDIQMI6Cx1aGQEK_670KGLkRWsZgbj3FsrWDcyGoOAeaPDDka2A4xsJxhX5Cxg2j5lF-spFmaOBpFLLN-ZoquVslMrlaxMdJRKMktyUpWslJ4umve0Yc_zFa1KOkopqcXJQCEgKzE3vzSvBMg2NLIw0DMwAAqVJFZ4poC1JifmJJfmJJakhlQWAI0w01HKLHYuKcosCErNzSwpSQWqSkvMKU4FiQelFgNlksGCSn5AY4qgApn5eRDthihiYYk5pakQNwAtdEuF2mFYq4Pp9Gdzep92z3yxaTeRTjenttMNiHG6cW3sIxam6NhPLAy_gBGxJqmJlaGLlZnjFNMkILkiZxcrW3BYhHmI5wXWeRcZpeQNDQwMTA2NTU11DRItEy3MLJJ1TSxNjMwsdU0NzE3MNO4da732xNjIWgoS-QqMWoLxIZ6eLoYlhalmhaWWOUUFpgaMpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYnNzMjM3Momy4mD1dggQ_6D3f3m5taS_FHBLuomgv2y-5oue0vRZIzhAmF7jndc4Je-MF9pGlq58v-d572j6JtSpDNyQ847hYAWMDI1MXI7cAowdjBGMFkMe4ipFhAyPjDsb_MMD4ihFkOgCqjzo_AgMAAA&masterhotelid_tracelogid=100051355-0a9a868c-494269-50746&detailFilters=17|1~17~1*31|11152669~31~11152669*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1300&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/ioA64iQT)（水明漾）入住，这是一间拥有3/4间卧室的大别墅。我们[这里](/blog/bali-group-villa-stay/)有介绍哦！
+今天，我们移至[Amarin Seminyak](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2802663) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=11152669&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oay8LFJMEkNY2F49TvI_fYhBgNLH4LOs6aCQT_Fjl4poGAz3KHAJ6IKQeeT2NPvGlbGbHiYKBDIQMI6Cx1aGQEK_670KGLkRWsZgbj3FsrWDcyGoOAeaPDDka2A4xsJxhX5Cxg2j5lF-spFmaOBpFLLN-ZoquVslMrlaxMdJRKMktyUpWslJ4umve0Yc_zFa1KOkopqcXJQCEgKzE3vzSvBMg2NLIw0DMwAAqVJFZ4poC1JifmJJfmJJakhlQWAI0w01HKLHYuKcosCErNzSwpSQWqSkvMKU4FiQelFgNlksGCSn5AY4qgApn5eRDthihiYYk5pakQNwAtdEuF2mFYq4Pp9Gdzep92z3yxaTeRTjenttMNiHG6cW3sIxam6NhPLAy_gBGxJqmJlaGLlZnjFNMkILkiZxcrW3BYhHmI5wXWeRcZpeQNDQwMTA2NTU11DRItEy3MLJJ1TSxNjMwsdU0NzE3MNO4da732xNjIWgoS-QqMWoLxIZ6eLoYlhalmhaWWOUUFpgaMpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYnNzMjM3Momy4mD1dggQ_6D3f3m5taS_FHBLuomgv2y-5oue0vRZIzhAmF7jndc4Je-MF9pGlq58v-d572j6JtSpDNyQ847hYAWMDI1MXI7cAowdjBGMFkMe4ipFhAyPjDsb_MMD4ihFkOgCqjzo_AgMAAA&masterhotelid_tracelogid=100051355-0a9a868c-494269-50746&detailFilters=17|1~17~1*31|11152669~31~11152669*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1300&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/ioA64iQT)（水明漾）入住，这是一间拥有3/4间卧室的大别墅。我们[这里](/zh-cn/blog/bali-group-villa-stay/)有介绍哦！
 
 ![Amarin Seminyak](https://images.gobaligo.id/vocus/vocus_05d5cd9100ad596b8c6b70a1813fac15.jpg)
 
@@ -91,9 +91,9 @@ Amarin Seminyak
 
 图：神鹰广场/蓝色公路，Serena提供
 
-> 参考：[巴厘岛 Garuda Wisnu Kencana GWK神鹰广场/神鹰文化公园全攻略](/blog/gwk-cultural-park-bali/)
+> 参考：[巴厘岛 Garuda Wisnu Kencana GWK神鹰广场/神鹰文化公园全攻略](/zh-cn/blog/gwk-cultural-park-bali/)
 
-> 延伸阅读：[蓝色公路的介绍](/blog/pandawa-beach-traffic-policy/)
+> 延伸阅读：[蓝色公路的介绍](/zh-cn/blog/pandawa-beach-traffic-policy/)
 
 ### 2/18 坎古/库塔/水明漾
 
@@ -107,18 +107,18 @@ Amarin Seminyak
 
 图：La Brisa，Serena提供
 
-> 参考：[被誉为是「巴厘岛最漂亮的餐厅」：La Brisa在数以万计的美食餐厅之中如何脱瘾而出？](/blog/canggu-la-brisa-restaurant-guide/)
+> 参考：[被誉为是「巴厘岛最漂亮的餐厅」：La Brisa在数以万计的美食餐厅之中如何脱瘾而出？](/zh-cn/blog/canggu-la-brisa-restaurant-guide/)
 
 下午则在库塔和水明漾进行最后的购物和逛街。
 
-> 水明漾怎么逛？请参考：[水明漾必去地点地图：100个吃喝玩乐全面介绍](/blog/seminyak-guide/)
+> 水明漾怎么逛？请参考：[水明漾必去地点地图：100个吃喝玩乐全面介绍](/zh-cn/blog/seminyak-guide/)
 
 ### 2/19 购物/登机
 
 在早上进行最后一次购物后，我们于下午14:00准备搭机返回台湾，结束了美好的巴厘岛之旅。旅程最后一天安排在库塔、金巴兰这一带的优点是「完全不用提心吊胆会赶不上飞机」喔！
 
-> （延伸阅读：[库塔旅游攻略：50个必访景点、美食、推荐SPA全收集](/blog/2023-12-13-657598bdfd8978000120fe20/)）  
-> （延伸阅读：[金巴兰自由行：推荐30个玩乐景点全攻略](/blog/jimbaran-guide/)）
+> （延伸阅读：[库塔旅游攻略：50个必访景点、美食、推荐SPA全收集](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)）  
+> （延伸阅读：[金巴兰自由行：推荐30个玩乐景点全攻略](/zh-cn/blog/jimbaran-guide/)）
 
 ## 后记
 
@@ -135,12 +135,12 @@ Amarin Seminyak
 6. **La Brisa**：如果要进到最里面的酒吧消费，记得不要带水下車，餐厅会要求水要全部倒掉。
 7. **Beachwalk Residence**：如果家庭出游，建议考虑住宿在[Beachwalk Residence](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=25918345) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=78158227&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PazsLFJMEktYGFo-3_nDdsQowGGvfZLH4LOtpyXV9ccLLNwdMYBLw7HQJ4IqYceD6NPfGmbWXEioOBDoUMIFBQ7NDIuEOu9XVgRYFDFyMrWM0MxsmbF6luZFzn_rBKhC_EYQcjywnGnbILmKYChU-xMHN8ZbrEspsxulopO7VSycpER6kksyQnVclK6emieU8b9jxf0aqko5SSWpwMFAKyEnPzS_NKgGxjc2M9AwOgSElihWcKWGdyYk5yaU5iSWpIZQHQBDMdpcxi55KizIKg1NzMkpJUoKq0xJziVJB4UGoxUCYZLKjkBzSmCCqQmZ8H0W6IIhaWmFOaCnEC0EK3VKgdhrWxj1guwp1vinD-szm9T7tnvti0mzjnm1PgfGyuN8Dl-uLSpBAsTkT2lHFt7AuW-2yfwLHzC0gu5G5iZehiZeY4xTQJSK5T2MXKFmLi5B_ueYH1hK6UvKGBgYGpobGpqa5BoqWFYYqpga6JpYmRmaWuiQWQ1Ph76N_VJ8ZG1lKQNKHAqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzc3U0sjMPMqGi9nTJUjwg97z7e3WlvZSzCHhLor2sv2SK3pO22uB5AxhcoF7XuecsDdeYB9Zuvr5ku-9p-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxgZNjAy7mD8DwOMrxhBpgMAue4luBwDAAA&masterhotelid_tracelogid=100051355-0a981d50-494269-48269&detailFilters=17|1~17~1*31|78158227~31~78158227*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1056&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Smp4FEqy)。这里提供家庭式整层公寓房型，步行即可抵达购物商场，距离海滩也相当近，整体性价比非常高。
 8. **春节期间比较堵车**，车程都比司机原先用Google地图计算的预计时间多30分钟至1个半小时。尤其是到乌布距离比较远，抵达的时间更是跟预计的时间差更多！另外皇宫附近路比较小条，因此堵车情况非常严重。
-9. **雨季的应变**：因为每年农历春节期间都还算巴厘岛雨季的高峰，怕会碰到下雨的朋友这一篇收藏起来：[巴厘岛雨季：旅游巴厘岛碰到下雨天怎么办？巴厘岛下雨天的60个备案攻略](/blog/2026-bali-indoor-activities/)
+9. **雨季的应变**：因为每年农历春节期间都还算巴厘岛雨季的高峰，怕会碰到下雨的朋友这一篇收藏起来：[巴厘岛雨季：旅游巴厘岛碰到下雨天怎么办？巴厘岛下雨天的60个备案攻略](/zh-cn/blog/2026-bali-indoor-activities/)
 
 > 编按：建议农历新年要去巴厘岛的朋友参阅：
 
-- [农历新年巴厘岛家庭旅游攻略：机票、签证、交通、景点全攻略](/blog/2026-bali-lunar-new-year-guide/)
-- [【不堵车的巴厘岛自由行攻略】如何避开巴厘岛的混乱交通，享有悠闲的假期？](/blog/bali-traffic-free-travel-tips/)
+- [农历新年巴厘岛家庭旅游攻略：机票、签证、交通、景点全攻略](/zh-cn/blog/2026-bali-lunar-new-year-guide/)
+- [【不堵车的巴厘岛自由行攻略】如何避开巴厘岛的混乱交通，享有悠闲的假期？](/zh-cn/blog/bali-traffic-free-travel-tips/)
 
 ## 包车司机
 
@@ -150,7 +150,7 @@ Amarin Seminyak
 
 除此之外，小钟之前是摄影师，对于拍照和录像有着丰富的经验和技巧。在旅途中，他不仅是一位专业的导游，还能够帮助客人拍摄美丽的照片和录制珍贵的影片。
 
-如果您正在计划前往巴厘岛旅行，我强烈推荐您联系小钟Pacung Bali作为您的导游兼司机。他的联系方式在[这里](/blog/bali-private-car-drivers-guide/)。他的专业服务和丰富经验将为您的旅程增添许多美好的回忆！
+如果您正在计划前往巴厘岛旅行，我强烈推荐您联系小钟Pacung Bali作为您的导游兼司机。他的联系方式在[这里](/zh-cn/blog/bali-private-car-drivers-guide/)。他的专业服务和丰富经验将为您的旅程增添许多美好的回忆！
 
 您觉得[Serena](https://www.facebook.com/100004740466944/)安排的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
 

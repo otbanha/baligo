@@ -26,7 +26,7 @@ _srcHash: 473ea6ff2827f7e941ef6642a5bf7c99
 ![Bali 荣登全球最迷人岛屿宝座：英国旅游专家 Travelbag 最新评比出炉](https://images.gobaligo.id/vocus/vocus_634888bfed094ae7a5caac40b1511211.jpg)
 
 **快速参考：**  
-[巴厘岛十大重要地标景点 & 如何安排旅程](/blog/bali-top-landmarks-guide/)？
+[巴厘岛十大重要地标景点 & 如何安排旅程](/zh-cn/blog/bali-top-landmarks-guide/)？
 
 ## **巴厘岛：魅力无法挡的度假天堂**
 
@@ -69,7 +69,7 @@ _srcHash: 473ea6ff2827f7e941ef6642a5bf7c99
 ![4. 多样化的活动选择](https://images.gobaligo.id/vocus/vocus_7030ca3e24fe75b65f4b81031df4960a.jpg)
 
 **快速参考：**  
-[巴厘岛户外活动玩什么？50种最受欢迎的户外体验](/blog/bali-top-50-outdoor-activities/)
+[巴厘岛户外活动玩什么？50种最受欢迎的户外体验](/zh-cn/blog/bali-top-50-outdoor-activities/)
 
 ---
 
@@ -95,26 +95,26 @@ _srcHash: 473ea6ff2827f7e941ef6642a5bf7c99
 最佳旅游季节是每年 4 月至 10 月，属于干季，天气晴朗且湿度较低，非常适合海滩活动与户外探险。
 
 **快速参考：**  
-[巴厘岛旅游月份/降雨概率/降雨天数/平均气温/适合旅游指数...大解析](/blog/bali-rainy-season-travel-guide/)
+[巴厘岛旅游月份/降雨概率/降雨天数/平均气温/适合旅游指数...大解析](/zh-cn/blog/bali-rainy-season-travel-guide/)
 
 ### **前往巴厘岛需要准备哪些旅游证件？**
 
-一些国家/地区的旅客可享有免签，一些国家需要签证，建议出发前查询[这里](/blog/bali-all-indonesia-arrival-guide/)，以确保顺利入境。
+一些国家/地区的旅客可享有免签，一些国家需要签证，建议出发前查询[这里](/zh-cn/blog/bali-all-indonesia-arrival-guide/)，以确保顺利入境。
 
 ### **巴厘岛适合自由行还是参加跟团？**
 
 两者皆适合。若喜欢探索与弹性安排行程，自由行是不错选择；若想轻松无负担，参加当地旅游团可快速体验主要景点。
 
 **快速参考：**  
-[巴厘岛旅行团推荐](/blog/isbali-tour-agency-review/)
+[巴厘岛旅行团推荐](/zh-cn/blog/isbali-tour-agency-review/)
 
 ### **在巴厘岛消费贵不贵？**
 
 巴厘岛提供各种价位的旅游选项，从背包客旅馆到奢华度假村都有。日常消费如餐饮、交通、活动等，约一个人USD $50~100/天，适合各种预算旅客。
 
 **快速参考：**  
-[巴厘岛旅游要准备多少现金？](/blog/bali-travel-cash-budget-guide/)
+[巴厘岛旅游要准备多少现金？](/zh-cn/blog/bali-travel-cash-budget-guide/)
 
 ### 想去巴厘岛，第一次要如何准备？
 
-当你第一次前往巴厘岛时，确保做好充分的准备是非常重要的。以下是一些你应该考虑准备的事项：[新手必看的31项巴厘岛旅游攻略](/blog/bali-ultimate-guide-2026/)
+当你第一次前往巴厘岛时，确保做好充分的准备是非常重要的。以下是一些你应该考虑准备的事项：[新手必看的31项巴厘岛旅游攻略](/zh-cn/blog/bali-ultimate-guide-2026/)

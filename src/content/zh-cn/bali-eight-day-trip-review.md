@@ -77,7 +77,7 @@ _srcHash: 554152b61da98b6bef488301a940b947
 
 早晨享用完饭店丰盛的早餐后，我们驱车前往巴厘岛最著名的地标之一——海神庙。这座建于16世纪的印度教寺庙矗立在海中的巨岩上，退潮时可以步行靠近，涨潮时则被海水环绕，形成一幅如诗如画的景象。站在岸边，看着海浪拍打着礁岩，寺庙在阳光下熠熠生辉，那种震撼感难以言喻。建议大家可以选择下午时分前往，夕阳西下时的海神庙更是美得令人屏息。
 
-**快速参考：**[巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/blog/bali-tanah-lot-guide/)
+**快速参考：**[巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/zh-cn/blog/bali-tanah-lot-guide/)
 
 ### 中午:水明漾广场觅食与逛街
 
@@ -202,7 +202,7 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 晚上我们在 Taman Dedari 享用晚餐，为充实的一天画下句点。
 
-**快速参考：**【[乌布美食+美景推荐】Taman Dedari 仙女公园](/blog/taman-dedari-ubud-food-scenery/)
+**快速参考：**【[乌布美食+美景推荐】Taman Dedari 仙女公园](/zh-cn/blog/taman-dedari-ubud-food-scenery/)
 
 ***
 
@@ -220,7 +220,7 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 **快速参考：**【巴厘岛金塔马尼12大景观火山咖啡厅推荐 🌄☕】(/blog/kintamani-volcano-cafes-restaurants/)
 
-[巴厘岛金塔马尼巴杜尔火山湖｜日出登山 × 皇家游船 × 湖景咖啡厅 × 火山温泉全攻略](/blog/batur-lake-volcano-guide/)
+[巴厘岛金塔马尼巴杜尔火山湖｜日出登山 × 皇家游船 × 湖景咖啡厅 × 火山温泉全攻略](/zh-cn/blog/batur-lake-volcano-guide/)
 
 ### 下午:Penglipuran Village 传统村落
 
@@ -232,7 +232,7 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 村落内的街道干净整洁，两旁种植着竹林，走在其中感觉格外清幽。有些民宅会顺道售卖手工艺品或当地特产，价格是可以议价的，不妨试着与主人交流看看。我们在其中一户人家买了冰棒，主人非常友善，热情地邀请我们在院子里休息。坐在传统巴厘建筑的院落中，感受着微风与宁静，那种放松感让人完全不想离开。这里的居民生活步调缓慢，充满了人情味，是体验巴厘岛传统文化的绝佳地点。
 
-**快速参考：**[穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/blog/penglipuran-village-bali-experience/)
+**快速参考：**[穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/zh-cn/blog/penglipuran-village-bali-experience/)
 
 ### 梯田秋千体验
 
@@ -240,7 +240,7 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 结束村落参观后，我们前往附近的梯田秋千景点。在层层叠叠的绿色梯田前荡秋千，是近年来巴厘岛最热门的体验活动之一。荡起秋千的那一刻，眼前是一片翠绿的稻田与远方的丛林，仿佛飞翔在大自然之中，那种自由与美好的感觉，成为这趟旅程中最难忘的回忆之一。
 
-**快速参考：**[乌布玩秋千：巴厘岛最美的8个秋千拍照胜地｜乌布秋千/租礼服攻略](/blog/ubud-jungle-swings-photo-guide/)
+**快速参考：**[乌布玩秋千：巴厘岛最美的8个秋千拍照胜地｜乌布秋千/租礼服攻略](/zh-cn/blog/ubud-jungle-swings-photo-guide/)
 
 {{block:ubud}}
 
@@ -274,11 +274,11 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 **重要提醒：这里的猴子非常顽皮且大胆！** 我们亲眼目睹游客的眼镜被猴子抢走的情况。这些猴子经过长期与游客互动，已经学会如何快速抢夺眼镜、帽子、太阳眼镜等物品，然后「要求」用食物交换。因此，参观时请务必将随身物品收好，眼镜可以用绳子固定，尽量不要携带闪亮的饰品或食物，以免引起猴子的注意。
 
-**快速参考：**[巴厘岛乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](/blog/uluwatu-temple-travel-guide/)
+**快速参考：**[巴厘岛乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](/zh-cn/blog/uluwatu-temple-travel-guide/)
 
 尽管要小心猴子，但乌鲁瓦图神庙的景色确实令人震撼。夕阳西下时，金黄色的阳光洒在海面上，波光粼粼，神庙在逆光中显得更加神圣庄严。如果时间允许，可以留下来观赏传统的 Kecak Fire Dance 表演，在日落余晖中欣赏这场融合舞蹈、音乐与戏剧的文化盛宴。
 
-**快速参考：**[Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演（附订票信息）](/blog/kecak-fire-dance-bali/)
+**快速参考：**[Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演（附订票信息）](/zh-cn/blog/kecak-fire-dance-bali/)
 
 ### 晚餐：Ulu Cliffhouse
 

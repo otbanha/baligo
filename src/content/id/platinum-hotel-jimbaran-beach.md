@@ -184,8 +184,8 @@ Lokasi hotelnya nggak ada lawan, pemandangan dari rooftop nggak ada cacatnya, bi
 
 ![Info Lengkap Wisata Kuliner & Seru-seruan di Jimbaran](https://images.gobaligo.id/vocus/vocus_c81d870630ca07dead1d2e8614f923c4.jpg)
 
-[Panduan Lengkap Jimbaran Klik Di Sini](/blog/jimbaran-guide/)
+[Panduan Lengkap Jimbaran Klik Di Sini](/id/blog/jimbaran-guide/)
 
-Jimbaran adalah surga tepi pantai di Bali yang terkenal dengan suasana romantis dan kulinernya yang juara. Punya pasir keemasan yang cantik banget plus pemandangan sunset yang spektakuler. Di sini ada deretan restoran seafood bakar yang wajib banget kamu coba — itu sih pengalaman kuliner yang nggak boleh dilewatkan. Selain itu, ada juga resor mewah dan suasana desa nelayan yang tenang, jadi kamu bisa merasakan kemewahan sekaligus kehidupan lokal yang autentik. Cocok banget buat liburan keluarga atau kencan romantis, Jimbaran pasti memenuhi ekspektasi kamu! Mau tahu lebih banyak tentang Jimbaran? [Klik di sini](/blog/jimbaran-guide/).
+Jimbaran adalah surga tepi pantai di Bali yang terkenal dengan suasana romantis dan kulinernya yang juara. Punya pasir keemasan yang cantik banget plus pemandangan sunset yang spektakuler. Di sini ada deretan restoran seafood bakar yang wajib banget kamu coba — itu sih pengalaman kuliner yang nggak boleh dilewatkan. Selain itu, ada juga resor mewah dan suasana desa nelayan yang tenang, jadi kamu bisa merasakan kemewahan sekaligus kehidupan lokal yang autentik. Cocok banget buat liburan keluarga atau kencan romantis, Jimbaran pasti memenuhi ekspektasi kamu! Mau tahu lebih banyak tentang Jimbaran? [Klik di sini](/id/blog/jimbaran-guide/).
 
 {{block:住宿}}

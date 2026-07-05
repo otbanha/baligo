@@ -53,7 +53,7 @@ _srcHash: 9c0ac488047dd3490482131e9b4740bc
 
 Selasar Deli 下午茶嘅無敵靚景
 
-[Selasar Deli 下午茶體驗記](/blog/apurva-kempinski-bali-nusa-dua/)
+[Selasar Deli 下午茶體驗記](/zh-hk/blog/apurva-kempinski-bali-nusa-dua/)
 
 > 預訂 [Selasar Deli 餐廳下午茶](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1052045&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F58595-selasar-deli-apurva-kempinski-hotel-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D247caa596d)
 
@@ -83,6 +83,6 @@ Selasar Deli 下午茶嘅無敵靚景
 
 ## 延伸閱讀：
 
-> [努沙杜瓦、南灣：峇里島豪華度假嘅首選之地40個住宿、美食、活動攻略地圖 Nusa Dua/Tanjung Benoa](/blog/nusa-dua-guide/)
+> [努沙杜瓦、南灣：峇里島豪華度假嘅首選之地40個住宿、美食、活動攻略地圖 Nusa Dua/Tanjung Benoa](/zh-hk/blog/nusa-dua-guide/)
 
 {{block:住宿}}

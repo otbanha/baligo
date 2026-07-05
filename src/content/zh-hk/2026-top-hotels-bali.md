@@ -40,7 +40,7 @@ lang: zh-hk
 _srcHash: 18d90ccc69d3edf507bcb178e23779ec
 ---
 
-峇里島嘅五星酒店多到令人選擇困難。 烏布有 [Capella](/blog/capella-ubud-luxury-resort/)、烏魯瓦圖有 [Alila](/blog/alila-villas-uluwatu-bali/)、努沙杜瓦有 [Apurva Kempinski](/blog/apurva-kempinski-bali-nusa-dua/)…… 但 2026 年最令人驚喜嘅，係一間起喺沙努爾嘅全新度假村——**The Meru Sanur**。
+峇里島嘅五星酒店多到令人選擇困難。 烏布有 [Capella](/zh-hk/blog/capella-ubud-luxury-resort/)、烏魯瓦圖有 [Alila](/zh-hk/blog/alila-villas-uluwatu-bali/)、努沙杜瓦有 [Apurva Kempinski](/zh-hk/blog/apurva-kempinski-bali-nusa-dua/)…… 但 2026 年最令人驚喜嘅，係一間起喺沙努爾嘅全新度假村——**The Meru Sanur**。
 
 就喺今個月，佢攞咗亞洲最具份量嘅旅遊媒體之一 **Tatler Asia**，喺「2026 印尼最佳新酒店」評選中嘅最高榮譽，同時亦入選「印尼最佳酒店二十強」名單。呢對一間啱啱開幕冇耐嘅新酒店嚟講，簡直係踢館直接殺入頂級俱樂部。
 
@@ -92,23 +92,23 @@ _srcHash: 18d90ccc69d3edf507bcb178e23779ec
 
 今次頒獎典禮就喺 The Meru Sanur 旁邊嘅峇里海灘會議中心舉辦，涵蓋成個亞洲嘅酒店、餐廳同酒吧評選。
 
-喺印尼酒店二十強名單入面，峇里島攞咗 11 個席位，包括 [Mandapa（麗思卡爾頓Reserve系列）](/blog/ubud-villas-pool-guide/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%9A%84%E5%AF%A7%E9%9D%9C%E8%81%96%E6%AE%BFmandapa-a-ritz-carlton-reserve)、[Capella Ubud](/blog/capella-ubud-luxury-resort/)、[Apurva Kempinski ](/blog/apurva-kempinski-bali-nusa-dua/)等常年霸榜嘅名字。The Meru Sanur 能夠喺呢啲老牌強敵中以「新酒店」身份脫穎而出，唔只係靠硬件，更加係因為佢將印尼待客文化做得好好。
+喺印尼酒店二十強名單入面，峇里島攞咗 11 個席位，包括 [Mandapa（麗思卡爾頓Reserve系列）](/zh-hk/blog/ubud-villas-pool-guide/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%9A%84%E5%AF%A7%E9%9D%9C%E8%81%96%E6%AE%BFmandapa-a-ritz-carlton-reserve)、[Capella Ubud](/zh-hk/blog/capella-ubud-luxury-resort/)、[Apurva Kempinski ](/zh-hk/blog/apurva-kempinski-bali-nusa-dua/)等常年霸榜嘅名字。The Meru Sanur 能夠喺呢啲老牌強敵中以「新酒店」身份脫穎而出，唔只係靠硬件，更加係因為佢將印尼待客文化做得好好。
 
 ### 詳細名單
 
 喺印尼酒店二十強名單入面，峇里島攞咗 11 個席位。以下係今次上榜嘅峇里島酒店完整清單：
 
-1. **Mandapa, a Ritz-Carlton Reserve**（烏布） 懸崖上嘅叢林秘境，俯瞰 Ayung 河谷，麗思卡爾頓儲備系列中最受推崇嘅亞洲物件之一。→ [查看詳細介紹](/blog/ubud-villas-pool-guide/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%9A%84%E5%AF%A7%E9%9D%9C%E8%81%96%E6%AE%BFmandapa-a-ritz-carlton-reserve)
-2. **Alila Villas Uluwatu**（烏魯瓦圖） 峭壁邊緣嘅極簡風格莊園，無邊際泳池直望印度洋，係烏魯瓦圖最具代表性嘅頂級住宿。→ [查看詳細介紹](/blog/alila-villas-uluwatu-bali/)
-3. **Padma Resort Ubud**（烏布） 隱身喺烏布山谷嘅大型渡假村，以超長無邊際泳池同壯闊嘅梯田景觀聞名。→ [查看詳細介紹](/blog/ubud-villas-pool-guide/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%A7%98%E5%A2%83-padma-resort-ubud-%E6%93%81%E6%8A%B1%E5%AF%A7%E9%9D%9C%E8%88%87%E5%A5%A2%E8%8F%AF)
-4. **Bvlgari Resort Bali**（烏魯瓦圖） 精品奢華天花板，全棟僅數十間獨立別墅，今年更榮獲「年度最佳酒店」大獎。→ [查看詳細介紹](/blog/bvlgari-resort-bali-uluwatu/)
-5. **Capella Ubud**（烏布） 峇里島唯一頂級「豪華露營」體驗，帳篷式別墅高懸叢林，附私人鹽水泳池同營火。→ [查看詳細介紹](/blog/capella-ubud-luxury-resort/)
-6. **The Apurva Kempinski Bali**（努沙杜瓦） 外型似一座巨型印尼神廟從海崖傾瀉而下，建築本身就係看點，海景無敵。→ [查看詳細介紹](/blog/apurva-kempinski-bali-nusa-dua/)
-7. **Desa Potato Head**（水明漾） 唔只係酒店，更加係藝術同永續概念嘅複合空間，獲頒「最佳創新獎」實至名歸。→ [查看詳細介紹](/blog/potato-head-suites-seminyak-review/)
-8. **The Meru Sanur** ⭐ 最佳新酒店（沙努爾） 本文主角！坐擁 1 公里私人海灘線，全套房設計，今年一舉攞到最佳新酒店殊榮。→ [查看詳細介紹](/blog/the-meru-sanur/)
-9. **Four Seasons Resort Bali at Jimbaran Bay**（金巴蘭） 金巴蘭灣畔嘅四季，以私人別墅村落形式呈現，今年獲頒「最佳家庭酒店」。→ [查看詳細介紹](/blog/four-seasons-bali-jimbaran-bay/)
+1. **Mandapa, a Ritz-Carlton Reserve**（烏布） 懸崖上嘅叢林秘境，俯瞰 Ayung 河谷，麗思卡爾頓儲備系列中最受推崇嘅亞洲物件之一。→ [查看詳細介紹](/zh-hk/blog/ubud-villas-pool-guide/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%9A%84%E5%AF%A7%E9%9D%9C%E8%81%96%E6%AE%BFmandapa-a-ritz-carlton-reserve)
+2. **Alila Villas Uluwatu**（烏魯瓦圖） 峭壁邊緣嘅極簡風格莊園，無邊際泳池直望印度洋，係烏魯瓦圖最具代表性嘅頂級住宿。→ [查看詳細介紹](/zh-hk/blog/alila-villas-uluwatu-bali/)
+3. **Padma Resort Ubud**（烏布） 隱身喺烏布山谷嘅大型渡假村，以超長無邊際泳池同壯闊嘅梯田景觀聞名。→ [查看詳細介紹](/zh-hk/blog/ubud-villas-pool-guide/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%A7%98%E5%A2%83-padma-resort-ubud-%E6%93%81%E6%8A%B1%E5%AF%A7%E9%9D%9C%E8%88%87%E5%A5%A2%E8%8F%AF)
+4. **Bvlgari Resort Bali**（烏魯瓦圖） 精品奢華天花板，全棟僅數十間獨立別墅，今年更榮獲「年度最佳酒店」大獎。→ [查看詳細介紹](/zh-hk/blog/bvlgari-resort-bali-uluwatu/)
+5. **Capella Ubud**（烏布） 峇里島唯一頂級「豪華露營」體驗，帳篷式別墅高懸叢林，附私人鹽水泳池同營火。→ [查看詳細介紹](/zh-hk/blog/capella-ubud-luxury-resort/)
+6. **The Apurva Kempinski Bali**（努沙杜瓦） 外型似一座巨型印尼神廟從海崖傾瀉而下，建築本身就係看點，海景無敵。→ [查看詳細介紹](/zh-hk/blog/apurva-kempinski-bali-nusa-dua/)
+7. **Desa Potato Head**（水明漾） 唔只係酒店，更加係藝術同永續概念嘅複合空間，獲頒「最佳創新獎」實至名歸。→ [查看詳細介紹](/zh-hk/blog/potato-head-suites-seminyak-review/)
+8. **The Meru Sanur** ⭐ 最佳新酒店（沙努爾） 本文主角！坐擁 1 公里私人海灘線，全套房設計，今年一舉攞到最佳新酒店殊榮。→ [查看詳細介紹](/zh-hk/blog/the-meru-sanur/)
+9. **Four Seasons Resort Bali at Jimbaran Bay**（金巴蘭） 金巴蘭灣畔嘅四季，以私人別墅村落形式呈現，今年獲頒「最佳家庭酒店」。→ [查看詳細介紹](/zh-hk/blog/four-seasons-bali-jimbaran-bay/)
 10. **Four Seasons Resort Bali at Sayan**（烏布） 峇里島最早嘅頂級叢林渡假村之一，蓮花池大廳同 Ayung 河景至今仍無可取代。→ [查看詳細介紹](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=48716) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1460857&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NawsLFJMEkNZeFY8bkU_PZhDiNzYyNDIDISGMjn8EKRoulQo79h75qzDHb4eDp8bBK5N3MvQ4BPBFTDjyfxp5oy3V9ccH-QIcuRlawwAzGn1MiNzICla1z753qsIOR6QAj0wnGWZOZFjA1T8w_xcLM0WN0ieU7U3S1UnZqpZKViY5SSWZJTqqSldLTRfOeNux5vqJVSUcpJbU4GSgEZCXm5pfmlQDZQCeZ6RkYAIVKEis8U8BakxNzkktzEktSQyoLgEaY6ShlFjuXFGUWBKXmZpaUpAJVpSXmFKeCxINSi4EyyWBBJT-gMUVQgcz8PIh2QxSxsMSc0lSIG4AWuqVC7TCs1cF0-rM5vU-7Z77YtJtIp5tT2-kGxDjduDb2EQtTdOwLlo18n1gYfrEwNLEydLEyc5ximsTKwgGMpF2sgkGBBu6exrquxj7-RiG6UbqGF1ifz2WSkjM0MDAwNTQ2NdU1SLRMNDZKS9Y1sTQxMjPXNbY0tdRY8PzcxSfGRtZSkHSgwKglGB_i6eliWFKYalZYalpTVGBqwHiKUcrQ3NjC0MjQ0MjIyNJYz8QizazYIq_YIjcrwoMxiM3EwsDU0iLKhos5NNhFcHnlcU0rI2kHKeaQcBfFD8uPeZt3nrbXYvZ0CTL8oPd8e7u1pX3gntc5J-yNF9hHVnCraNT1nLZPYq3K0A0JzzguVsDYwMjUxcgtwOjBGMFYAeQxrmJk52I2MDIUYNrAyLiD8T8MML5iBFkCAINMRV8PAwAA&masterhotelid_tracelogid=100051355-0a9a32fc-494267-3959&detailFilters=17|1~17~1*31|1460857~31~1460857*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=792&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/3m0EuHZG)
-11. **The St Regis Bali Resort**（努沙杜瓦） 老牌奢華嘅穩定代表，管家服務同私人泳池別墅令佢年年穩守榜單。→ [查看詳細介紹](/blog/nusa-dua-resorts-guide/#the-st-regis-bali-resort%EF%B8%8F%E5%9C%B0%E5%9C%96%E4%BD%8D%E7%BD%AE)
+11. **The St Regis Bali Resort**（努沙杜瓦） 老牌奢華嘅穩定代表，管家服務同私人泳池別墅令佢年年穩守榜單。→ [查看詳細介紹](/zh-hk/blog/nusa-dua-resorts-guide/#the-st-regis-bali-resort%EF%B8%8F%E5%9C%B0%E5%9C%96%E4%BD%8D%E7%BD%AE)
 
 ***
 
@@ -119,13 +119,13 @@ _srcHash: 18d90ccc69d3edf507bcb178e23779ec
 - **距機場**：約 13 公里（車程約 30–40 分鐘）
 - **特別加分**：離沙努爾快艇碼頭好近，去 Nusa Penida 超方便
 - **適合族群**：想要安靜海灘、空間大、服務質素高嘅旅客；帶細路仔都有兒童俱樂部
-- **詳細介紹** ：睇[呢度](/blog/the-meru-sanur/)
+- **詳細介紹** ：睇[呢度](/zh-hk/blog/the-meru-sanur/)
 
 沙努爾北端呢一帶近幾年真係愈來愈熱門，唔再係以前嗰個「老人家先住」嘅印象喇。The Meru Sanur 嘅出現，加速咗呢個轉變。
 
 如果你仲未將沙努爾排進行程，2026 年可能係個好機會重新認識佢。
 
-▶關於 The Meru Sanur [呢度有詳細介紹](/blog/the-meru-sanur/)
+▶關於 The Meru Sanur [呢度有詳細介紹](/zh-hk/blog/the-meru-sanur/)
 
 #### 📌 訂房資訊
 

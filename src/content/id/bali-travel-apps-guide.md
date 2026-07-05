@@ -46,7 +46,7 @@ Di Indonesia/Bali, **Gojek** dan **Grab** adalah aplikasi ojek dan pesan-antar p
 - Fitur GrabFood buat pesan makanan dari mana aja di Bali.
 - Ada juga jasa kirim dan layanan kebutuhan harian, bikin perjalanan makin praktis.
 
-Baca juga: [Panduan Lengkap Registrasi, Penggunaan, dan Isi Ulang Gojek & GoPay di Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
+Baca juga: [Panduan Lengkap Registrasi, Penggunaan, dan Isi Ulang Gojek & GoPay di Indonesia/Bali](/id/blog/indonesia-gojek-gopay-guide/)
 
 ## **2. Google Maps: Navigasi Mulus & Eksplor Bali Paling Oke**
 
@@ -96,7 +96,7 @@ Cuaca di Bali itu suka berubah-ubah, apalagi pas musim hujan tiba — bisa tiba-
 
 Catatan redaksi: Aplikasi prakiraan cuaca mana pun belum bisa 100% memprediksi cuaca di Bali. Kalau kamu traveling di musim hujan, mending siap-siap aja dari awal!
 
-Baca juga: [Musim Hujan di Bali: Gimana Kalau Kehujanan? 60 Alternatif Aktivitas Indoor di Bali](/blog/2026-bali-indoor-activities/)
+Baca juga: [Musim Hujan di Bali: Gimana Kalau Kehujanan? 60 Alternatif Aktivitas Indoor di Bali](/id/blog/2026-bali-indoor-activities/)
 
 ## **6. WhatsApp: Tetap Terhubung dengan Lokal dan Penyedia Layanan**
 

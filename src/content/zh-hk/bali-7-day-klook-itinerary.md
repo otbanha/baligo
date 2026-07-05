@@ -70,7 +70,7 @@ __VID0__
 
 https://youtu.be/H-IocbLNpE4
 
-> [Lempuyang 天空之門深度攻略｜倒影係手機螢幕？六座廟點行？費用路線全公開](https://gobaligo.id/blog/lempuyang-temple-gate-of-heaven/)
+> [Lempuyang 天空之門深度攻略｜倒影係手機螢幕？六座廟點行？費用路線全公開](https://gobaligo.id/zh-hk/blog/lempuyang-temple-gate-of-heaven/)
 
 跟住去咗 **搖擺天堂（Swing Heaven）**，呢度唔只係盪韆鞦嘅地方，仲有多個打卡景點可以影到超靚嘅網美相～🌺 影完相之後導遊仲會幫手揾角度，攝影技術一流！
 
@@ -199,7 +199,7 @@ https://youtu.be/zxDZJ93EqA4
 
 ![Day 5：自由活動＋沙灘下午茶](https://images.gobaligo.id/images/2026-05/1780016971982-6532982_19022510000072495025_large.jpeg)
 
-> 👉 [**Mulia Resort 詳細介紹**](/blog/mulia-resort-bali-luxury/)
+> 👉 [**Mulia Resort 詳細介紹**](/zh-hk/blog/mulia-resort-bali-luxury/)
 
 {{block:dua}}
 
@@ -239,7 +239,7 @@ https://youtu.be/hQbBTktqEqY
 
 （呢個行程係**免排隊**直接入場，真係慳咗好多等嘅時間，超推薦呢點！）
 
-> [Kecak Fire Dance卡恰火舞秀 峇里島必睇嘅震撼表演（附訂票資訊）](/blog/kecak-fire-dance-bali/)
+> [Kecak Fire Dance卡恰火舞秀 峇里島必睇嘅震撼表演（附訂票資訊）](/zh-hk/blog/kecak-fire-dance-bali/)
 
 ### 🐟 19:00 金巴蘭海灘晚餐（Jimbaran Beach）
 
@@ -247,7 +247,7 @@ https://youtu.be/hQbBTktqEqY
 
 ![19:00 金巴蘭海灘晚餐（Jimbaran Beach）](https://images.gobaligo.id/vocus/vocus_0b8853265196d9f74c4f5461505927dc.jpg)
 
-> [峇里島金巴蘭11家海鮮餐廳：唔會中伏推薦](/blog/jimbaran-seafood-restaurants-list/)
+> [峇里島金巴蘭11家海鮮餐廳：唔會中伏推薦](/zh-hk/blog/jimbaran-seafood-restaurants-list/)
 
 ### 🛻 20:00 滿足回程
 
@@ -326,6 +326,6 @@ A：Klook 上面有[超過 100 種嘅峇里島一日遊](https://affiliate.klook
 
 點擊呢度睇更多峇里島精彩遊記
 
-你都想寫遊記但唔知點入手？可以參考下「[點樣寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出色！
+你都想寫遊記但唔知點入手？可以參考下「[點樣寫一篇精彩嘅峇里島遊記](/zh-hk/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出色！
 
 {{block:攻略}}

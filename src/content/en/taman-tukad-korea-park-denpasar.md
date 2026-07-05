@@ -78,7 +78,7 @@ Tukad Badung Riverside is not just a beautiful night scene spot but also a succe
 5. **Is it suitable for family trips?**
    Very suitable, with a dedicated children's water play area, but parental supervision is recommended.
 6. **How to plan a day trip nearby?**
-   Please refer to: [【Denpasar Guide Map】Bali's Cultural Capital: Denpasar, One of the World's Top 100 Cities by 2025](/blog/denpasar-culture-guide/)
+   Please refer to: [【Denpasar Guide Map】Bali's Cultural Capital: Denpasar, One of the World's Top 100 Cities by 2025](/en/blog/denpasar-culture-guide/)
 
 > [Denpasar Heritage & Street Food Evening Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1256541&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F197385-denpasar-heritage-street-food-evening-tour%2F)
 

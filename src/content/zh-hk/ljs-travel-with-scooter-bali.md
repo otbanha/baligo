@@ -128,13 +128,13 @@ https://youtu.be/FphhiUzB7gM
 
 **第五日**：一早我哋就去咗 **烏布皇宮（Ubud Palace）**。清晨時分遊客唔多，成個皇宮顯得特別寧靜，呢個時候影相最啱，可以捕捉到純粹嘅峇里風格建築同雕刻細節。
 
-> 快速參考：[【烏布必訪景點】烏布皇宮：峇里島文化歷史嘅瑰寶｜開放時間、門票、表演時間、周邊景點、一日遊推薦](/blog/ubud-royal-palace-tour-guide/)
+> 快速參考：[【烏布必訪景點】烏布皇宮：峇里島文化歷史嘅瑰寶｜開放時間、門票、表演時間、周邊景點、一日遊推薦](/zh-hk/blog/ubud-royal-palace-tour-guide/)
 
 跟住我哋去咗著名嘅 **聖泉寺（Tirta Empul）**，呢度係當地人心目中非常神聖嘅地方，好多信徒會去聖泉池度進行淨身儀式。行入寺廟時，氣氛莊嚴而祥和，可以感受到一股同自然同信仰相連嘅力量。
 
 ![金巴蘭住宿](https://images.gobaligo.id/vocus/vocus_2e29af9eca891ff9b6e50c096a6ddc9b.jpg)
 
-> 快速參考：[【2025】Tirta Empul 聖泉寺完整指南：峇里島最神聖嘅淨化水廟體驗](/blog/tirta-empul-temple-guide/)
+> 快速參考：[【2025】Tirta Empul 聖泉寺完整指南：峇里島最神聖嘅淨化水廟體驗](/zh-hk/blog/tirta-empul-temple-guide/)
 
 參觀完之後，我哋又騎咗 3.5 公里，去到新興嘅網紅美拍景點 **Sari Timbul by Kubu Bali**。呢度以各式大型木雕藝術裝置聞名，每一處都好有張力，影相效果十足，尤其深受女仔鍾意，係一個好啱打卡嘅地方。
 
@@ -178,7 +178,7 @@ https://youtu.be/FphhiUzB7gM
 
 烏魯瓦圖神廟嘅夕陽，係好多旅人心中最難忘嘅峇里島景致之一。神廟依山而建，懸崖直落印度洋，當夕陽緩緩沉入海平面時，成片天空染上金黃同橘紅色，映照住壯麗嘅海岸線，氣氛既浪漫又神聖。此時若果再搭配住著名嘅卡洽舞表演，更能感受到峇里島獨有嘅文化同自然交織嘅震撼。
 
-> 快速參考：[峇里島六大必看卡恰火舞（Kecak Fire Dance）地點：一場視覺與文化的饗宴](/blog/bali-kecak-fire-dance-locations/)
+> 快速參考：[峇里島六大必看卡恰火舞（Kecak Fire Dance）地點：一場視覺與文化的饗宴](/zh-hk/blog/bali-kecak-fire-dance-locations/)
 
 **第六日**：今日嘅行程比較悠閒，我哋嚟到 **Pandawa Beach 園區**。呢度原本係隱藏嘅秘境海灘，而家已經規劃成完整嘅遊客區域。進入園區之後，有一個特別嘅體驗唔可以錯過：必須買飛搭穿梭小車（每人 USD$2 印尼盾）前往號稱“藍色公路”嘅 **Tanah Barak**。呢度最吸引人嘅景觀就係兩側高聳嘅岩壁，有人形容佢似係「峇里島版嘅日本立山黑部雪壁」，只不過換咗壯麗嘅石灰岩。呢個場景喺年輕人中相當受歡迎，無論影相或者打卡都十分有氣勢。
 
@@ -186,7 +186,7 @@ https://youtu.be/FphhiUzB7gM
 
 呢處壯觀嘅岩壁近年成為好多網紅口耳相傳嘅打卡景點，因為角度同光影嘅變化，無論點影都顯得特別好睇。要前往呢度，必須先從 Pandawa Beach 入口進入，再搭園區內嘅接駁車先可以抵達。沿途景色都相當迷人，抵達後更能感受到岩壁同藍天大海交織出嘅震撼畫面，係影相愛好者唔可以錯過嘅美拍地點。
 
-快速參考：[峇里島 Batu Barak/Tanah Barak：藍色公路/斷崖公路的絕美之旅](/blog/batu-barak-cliff-road/)
+快速參考：[峇里島 Batu Barak/Tanah Barak：藍色公路/斷崖公路的絕美之旅](/zh-hk/blog/batu-barak-cliff-road/)
 
 {{block:uluwatu}}
 
@@ -196,7 +196,7 @@ https://youtu.be/FphhiUzB7gM
 
 金巴蘭海灘嘅夕陽，被好多人視為峇里島最浪漫嘅時刻之一。當太陽慢慢落山，海面被染成一片金橘色，伴隨住海浪聲同微風，氣氛特別迷人。好多遊客鍾意喺沙灘上點一枱海鮮燭光晚餐，一邊享受美食，一邊睇夕陽沉入印度洋，畫面如詩如畫，亦令金巴蘭成為情侶同家人旅行時唔可以錯過嘅浪漫體驗。
 
-> 快速參考：[峇里島金巴蘭海鮮推薦：13家海鮮餐廳不踩雷推薦](/blog/jimbaran-seafood-restaurants-list/)
+> 快速參考：[峇里島金巴蘭海鮮推薦：13家海鮮餐廳不踩雷推薦](/zh-hk/blog/jimbaran-seafood-restaurants-list/)
 
 今晚依然入住 [**The Jimbaran Villa by Ini Vie Hospitality**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5730375) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=23782664&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_CsfD98-esQuyGpmYGhgZGBguFLW5XOFaLrHN_OKvewXOHXOvrwCPNDgE8EVMOPJ_GntjytZ7v86xAhy5GVrDADMaOU6u5NzJeX1xgy7U93mEHI9MBRqYTjL_FFjBt7nxoeYqFmeMMyyWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZBtZmugZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGXywMTawMXazMHMeZJgHJ32K7WPn9I_2DLEx1w80iXXWjdA0vsB6SlJI3NDAwMDU0NjXVNUi0tDA3M7HUNbE0MTYAUsYmJiYaLcf2zXpqbGQtBYl_BUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWzmhi6Gli5RNlzMocEugoW2XNcXG0g7SDGHhLsorrzJvPbAhNP2WsyeLkGG9_6z5GorW9oHWnwR439vucA-EiafxFqVoRsSntErXsDYwMjUxcgtwOjBGMFYAeQxrmJk52I2MDIUYNrAyLiD8T8MML5iBFkCADI-06gCAwAA&masterhotelid_tracelogid=100051355-0a987649-494309-43444&detailFilters=17|1~17~1*31|23782664~31~23782664*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=224&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/LerWcw1j)，繼續享受屬於金巴蘭嘅寧靜夜色。
 
@@ -208,7 +208,7 @@ https://youtu.be/IReL1ztxL7c
 
 ![金巴蘭住宿](https://images.gobaligo.id/vocus/vocus_e865be61feb283663c6b4e451024b0a6.jpg)
 
-> 快速參考：[峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](/blog/bali-tanah-lot-guide/)
+> 快速參考：[峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](/zh-hk/blog/bali-tanah-lot-guide/)
 
 傍晚返到市區，我哋去咗網上評價好高嘅 **Naughty Nuri's Warung Seminyak** 食飯。呢間餐廳以烤豬肋排聞名，肉質鮮嫩、醬汁濃郁，一上枱香氣四溢，非常適合大啖享受。當晚我哋入住喺庫塔，準備迎接旅程嘅最後一日。
 
@@ -222,9 +222,9 @@ https://youtu.be/IReL1ztxL7c
 
 呢次 **峇里島 8日7夜夫妻自由行**，我哋用電單車代步，穿梭喺城市、稻田同海岸之間，留低咗好多獨一無二嘅回憶。雖然冇奢華嘅包車行程，但反而更貼近當地人嘅生活節奏，可以自由停留、隨心探索。一路上，我哋一齊分享咗浪漫時刻，亦一齊克服咗啲小挑戰，令旅程變得更加有溫度。咁樣嘅「窮玩法」對我哋嚟講，其實先係旅行嘅真諦：自由、真實，同埋屬於我哋兩個人嘅小冒險。
 
-- [峇里島租電單車攻略！應該租電單車好，定係包車好？](/blog/bali-motorbike-rental-guide/)
-- [峇里島租電單車攻略：價錢、安全、注意事項一次睇](/blog/bali-motorbike-rental-tips/)
-- [幾時包車？咩場合叫車？包車 vs. 叫車：點樣揀最適合你嘅旅行方式？](/blog/bali-transportation-guide-car-rental/)
+- [峇里島租電單車攻略！應該租電單車好，定係包車好？](/zh-hk/blog/bali-motorbike-rental-guide/)
+- [峇里島租電單車攻略：價錢、安全、注意事項一次睇](/zh-hk/blog/bali-motorbike-rental-tips/)
+- [幾時包車？咩場合叫車？包車 vs. 叫車：點樣揀最適合你嘅旅行方式？](/zh-hk/blog/bali-transportation-guide-car-rental/)
 
 其實我喺 **泰國、馬來西亞、印尼、寮國、斯里蘭卡** 都曾經選擇過騎電單車旅行。呢種方式慳錢、方便、自由，仲可以避免俾人亂收交通費嘅困擾。多年嚟，累積嘅經驗都算豐富，對我嚟講，最大嘅缺點就係要頂住烈日騎車，難免會曬黑或者曬傷，但相比之下，能夠掌握旅途節奏、隨心探索嘅好處實在多好多。
 
@@ -238,6 +238,6 @@ https://youtu.be/lIV-T2jYhVk
 
 撳呢度睇更多峇里島精彩遊記
 
-你都想寫遊記但唔知點落手？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！
+你都想寫遊記但唔知點落手？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/zh-hk/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！
 
 {{block:攻略}}

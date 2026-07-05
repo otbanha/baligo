@@ -30,11 +30,11 @@ _srcHash: 4d80342d855d2744532d27f3b3cdd29c
 
 ✔️ **电子签证：** 当天抵达时，我们观察到落地签的排队时间大约需要20分钟，幸好有社团提供的电子签新版网站，让我们顺利节省了不少时间！使用电子签证真的方便许多，让我们可以更快开始我们的旅程。
 
-延伸阅读：[你最想知道的飞机降落、过海关、出机场流程](/blog/bali-all-indonesia-arrival-guide/)（2025最新版）
+延伸阅读：[你最想知道的飞机降落、过海关、出机场流程](/zh-cn/blog/bali-all-indonesia-arrival-guide/)（2025最新版）
 
 ✔️ **美金换汇：** 一开始我们先换了200美金，因为能刷卡的地方几乎都用刷卡，结果到了最后才发现现金不足以支付司机的包车费用，因此又在酒店换了150美金。这次的经验让我们体会到，虽然刷卡方便，但还是要留意现金的需求，特别是在使用包车服务时，确保不会因为现金不足而影响行程！
 
-> 延伸阅读：[巴厘岛旅游要准备多少现金？](/blog/bali-travel-cash-budget-guide/)
+> 延伸阅读：[巴厘岛旅游要准备多少现金？](/zh-cn/blog/bali-travel-cash-budget-guide/)
 
 接下来是我们的详细行程，我们的行程安排如下：
 
@@ -42,7 +42,7 @@ _srcHash: 4d80342d855d2744532d27f3b3cdd29c
 
 抵达巴厘岛后，我们直接前往入住的 **Bidadari Villa**。途中，司机 Agus 很贴心地先带我们去购买网络卡和换汇。我们选择了最便宜的12GB网络卡，大约花了USD$16。巴厘岛的网络速度算蛮稳定的，流量也足够我们整个行程使用，无论是导航还是上网分享旅游点滴都很顺畅。
 
-> [【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡/eSIM?](/blog/bali-sim-card-esim-roaming-guide/)
+> [【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡/eSIM?](/zh-cn/blog/bali-sim-card-esim-roaming-guide/)
 
 ![第一天](https://images.gobaligo.id/images/2026-06/1780408021527-130243921.jpg)
 
@@ -66,7 +66,7 @@ _srcHash: 4d80342d855d2744532d27f3b3cdd29c
 
 > [Bidadari Private Villas & Retreatfangjia&空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=237890) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=981731&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawcLFJMEkNZGFY9cDASFGA4vfgo7yra8Dd3yf5eC5pMCWK3zyAocAnogpB55PY0-0dHUv-nkw0KGQAQQeTHNoZDx7Bgg8Jzl0MbKC1cxgfPzVegUj40ZGkO7ruyscdjCyHGBkOcHY5buA6dVm1lMszBzr-C6xfGWKrlbKTq1UsjLRUSrJLMlJVbJSerpo3tOGPc9XtCrpKKWkFicDhYCsxNz80rwSINvS0FLPwAAoUpJY4ZkC1pmcmJNcmpNYkhpSWQA0wUxHKbPYuaQosyAoNTezpCQVqCotMac4FSQelFoMlEkGCyr5AY0pggpk5udBtBuiiIUl5pSmQpwAtNAtFWqHYa0Opsufzel92j3zxabdxLncnNouNyDG5ca1sY9YmKJjP7Ew_AJGQ79pEytDFyszxymmSUCyy3cXK4tpaGTgBdbHLYxS8oYGBgamhsamproGiZaJxkZpybomliZGZua6xkaWFhYaU7ZNvfTE2MhaChLzCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9gsXE0MHC2ibLiYPV2CBD_oPd_ebm1pL8UcEu6iODnowlvV3tP2WsyhwS6Gev8V_34zlXYI3PM654S98QL7SHvZfskVPaftk1irMnRDwjOOixUwNjAydTFyCzB6MEYwVgB5jKsYGTYwMu5g_A8DjK8YQaYDAOoJq3n9AgAA&masterhotelid_tracelogid=100051355-0a9a32fc-494267-32988&detailFilters=17|1~17~1*31|981731~31~981731*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=846&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/8cgKqDaH)
 
-收录在「[乌布20间令人惊艳的巴厘岛villa推荐](/blog/ubud-villa-pool-guide/)」
+收录在「[乌布20间令人惊艳的巴厘岛villa推荐](/zh-cn/blog/ubud-villa-pool-guide/)」
 
 晚上，我们步行大约8分钟来到了 **Natys Restaurant Ubud** 用餐。这间餐厅的价格虽然不算便宜，但食物的品质相当不错，味道和摆盘都有水准。服务也十分周到，餐厅的氛围很适合一家人放松享受一顿愉快的晚餐。
 
@@ -86,7 +86,7 @@ Natys Restaurant Ubud 用餐
 
 https://youtube.com/shorts/Z_vDb7AbMKg
 
-Nukuwera漂漂河的介绍：[巴厘岛洞穴漂流河探险记：Nukuwera River Tubing的亲子冒险之旅](/blog/nukuwera-river-tubing-adventure/)
+Nukuwera漂漂河的介绍：[巴厘岛洞穴漂流河探险记：Nukuwera River Tubing的亲子冒险之旅](/zh-cn/blog/nukuwera-river-tubing-adventure/)
 
 之后，我们前往著名的 **圣猴森林**
 
@@ -128,9 +128,9 @@ Ayoo Ayoo
 
 Bali Safari Zoo
 
-> 延伸阅读：[【2026 巴厘岛野生动物园】Bali Safari 全攻略：夜宿狮子酒店、铁笼喂老虎、门票套票比较与亲子避雷行程规划](/blog/bali-safari-night-experience/)
+> 延伸阅读：[【2026 巴厘岛野生动物园】Bali Safari 全攻略：夜宿狮子酒店、铁笼喂老虎、门票套票比较与亲子避雷行程规划](/zh-cn/blog/bali-safari-night-experience/)
 
-> 延伸阅读：[巴厘岛亲子一日游攻略：探索野生动物园与红鹤海滩俱乐部](/blog/bali-family-day-safari-flamingo/)
+> 延伸阅读：[巴厘岛亲子一日游攻略：探索野生动物园与红鹤海滩俱乐部](/zh-cn/blog/bali-family-day-safari-flamingo/)
 
 用餐结束后，餐厅外还提供了与动物合照的服务。我们选择了这项服务，摄影师帮我们拍了许多照片，有妈妈和哥哥的合照，爸爸和妹妹的，以及全家四口的合影。最棒的是，这整组照片包含所有数字文件，还有一张冲洗成 A4 大小的照片配上精美相册，价格只要 USD$23 左右。相片质量很好，全家人都拍得非常漂亮，我们觉得这真的是超值的回忆纪录！
 
@@ -144,15 +144,15 @@ Bali Safari Zoo
 
 今天从 **Bali Safari** 移动到 **Westin Nusa Dua**，在路途中，我们请司机 Agus 帮忙寻找当地的小吃，包括 **Siobak 烧猪** 和 **Martabak 蛋饼**。Agus 不仅帮我们找到了合适的小店，还很细心地跟店老板沟通，避免我们因为是观光客而被宰价。这种细心的服务让我们感到非常窝心。
 
-> 延伸阅读：[巴厘岛十大美食推荐](/blog/bali-top-10-foods/)
+> 延伸阅读：[巴厘岛十大美食推荐](/zh-cn/blog/bali-top-10-foods/)
 
 接着，我们询问司机想买伴手礼，我们去了 **Krisna** 和 **The Balinese** 购买伴手礼。Agus 在介绍我们去 Krisna 时，还特别提醒我们如果需要其他的地方，可以随时告诉他，让我们可以自主决定行程。这让我想起十几年前的旅行经验，那时我明明表明不需要购物，却还是被包车司机强行带去几个购物工厂，当时的心情真的非常气愤。这次的体验让我感到非常满意和放松，因为 Agus 完全尊重我们的意愿。
 
 ![特別推薦這家峇里島鳳梨酥, 買回去大家都說讚! 詳細介紹請點我](https://images.gobaligo.id/vocus/vocus_a262dcfae127272b45f387f27aa1463b.jpg)
 
-[特别推荐这家巴厘岛凤梨酥, 买回去大家都说赞! 详细介绍请点我](/blog/bali-souvenirs-gift-guide/)
+[特别推荐这家巴厘岛凤梨酥, 买回去大家都说赞! 详细介绍请点我](/zh-cn/blog/bali-souvenirs-gift-guide/)
 
-> [延伸阅读：【网友推荐】超过20项巴厘岛伴手礼推荐指南](/blog/bali-souvenirs-gift-guide/)
+> [延伸阅读：【网友推荐】超过20项巴厘岛伴手礼推荐指南](/zh-cn/blog/bali-souvenirs-gift-guide/)
 
 晚餐则在度假村内的 **Velada 餐厅**，我们享用了汉堡和印度料理。这里的餐厅环境非常舒适，食物也相当美味，汉堡的味道鲜美，印度料理更是令人惊喜，香料的运用恰到好处，让我们在这个旅程的第四天完美收官。
 
@@ -190,11 +190,11 @@ Bali Safari Zoo
 
 晚餐我们选择了度假村内的 **渡边日本料理**，这家餐厅的料理品质相当不错，味道鲜美，让我们的胃口大开，为我们的放松日画下完美的句点。
 
-> [巴厘岛18家 kids club 亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图、乌布适合家庭度假的最佳选择](/blog/bali-family-resorts-kids-club/)
+> [巴厘岛18家 kids club 亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图、乌布适合家庭度假的最佳选择](/zh-cn/blog/bali-family-resorts-kids-club/)
 
 {{block:dua}}
 
-努沙杜瓦（Nusa Dua）是巴厘岛以豪华度假村闻名的地区，拥有洁白的沙滩、碧蓝的海水以及完善的旅游设施，是追求高端享受与宁静假期的首选。这里还提供顶级水疗、水上活动、以及适合全家大小的休闲活动，是各类旅客的天堂。想了解更多努沙杜瓦攻略？[请点击这里](/blog/nusa-dua-guide/)
+努沙杜瓦（Nusa Dua）是巴厘岛以豪华度假村闻名的地区，拥有洁白的沙滩、碧蓝的海水以及完善的旅游设施，是追求高端享受与宁静假期的首选。这里还提供顶级水疗、水上活动、以及适合全家大小的休闲活动，是各类旅客的天堂。想了解更多努沙杜瓦攻略？[请点击这里](/zh-cn/blog/nusa-dua-guide/)
 
 ## **第六天**
 
@@ -234,6 +234,6 @@ LINE: gosaray 1105
 
 点击这里观看更多巴厘岛精彩游记
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/zh-cn/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
 
 {{block:攻略}}

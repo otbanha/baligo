@@ -56,7 +56,7 @@ According to the latest weather forecasts, Indonesia's dry season this year is e
 
 ![2026 Seasonal Transition Travel Tips](https://images.gobaligo.id/images/2026-04/1775175669285-reddit.jpeg)
 
-> There are also several '[Take 4 days off for a 9-day holiday](/blog/2026-bali-holiday-planning/)' opportunities in the first half of 2026—plan ahead!
+> There are also several '[Take 4 days off for a 9-day holiday](/en/blog/2026-bali-holiday-planning/)' opportunities in the first half of 2026—plan ahead!
 
 ## The Exact End Date of the Rainy Season?
 
@@ -130,4 +130,4 @@ A: 1. Sun protection and hydration: As the dry season approaches, UV radiation w
 
 ![Q6: What should I pay attention to during this period?](https://images.gobaligo.id/vocus/vocus_97dd578dfb813e3b6110fcd782d9053f.jpg)
 
-[⭐⭐ 【World-Class Wonders】Bali × Yogyakarta Borobudur × Heavenly Light × Blue Flame 7-Day In-Depth Tour](/blog/bali-java-seven-day-tour/)
+[⭐⭐ 【World-Class Wonders】Bali × Yogyakarta Borobudur × Heavenly Light × Blue Flame 7-Day In-Depth Tour](/en/blog/bali-java-seven-day-tour/)

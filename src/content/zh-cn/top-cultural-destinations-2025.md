@@ -30,20 +30,20 @@ _srcHash: 3fa012366529c1a6d6dcf6623ed73ce7
 
 **快速参考：**
 
-- [巴厘岛旅游注意事项：第一次去巴厘岛必看的31项旅游攻略](/blog/bali-ultimate-guide-2026/)
-- [【巴厘岛必知】99%游客都在偷偷搜寻的超尴尬41个问题！巴厘岛旅游自由行攻略](/blog/bali-travel-faqs-guide/)
-- [巴厘岛攻略之认识巴厘岛区域: 巴厘岛住宿推荐指南 - 认识库塔 水明漾 坎古 乌布](/blog/2023-12-29-65839fbafd89780001e876b5/)
-- [巴厘岛水明漾100个景点攻略](/blog/seminyak-guide/)
-- [库塔必访50个景点攻略](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [坎古80个必游景点](/blog/canggu-guide/)
-- [乌布探索的100个方式](/blog/ubud-guide/)
-- [金巴兰攻略](/blog/jimbaran-guide/)
-- [乌鲁瓦图攻略](/blog/uluwatu-guide/)
-- [武吉半岛冒险指南](/blog/bukit-peninsula-guide/)
-- [沙努尔45项吃喝玩乐攻略](/blog/sanur-guide/)
-- [努沙杜瓦40个住宿美食活动攻略](/blog/nusa-dua-guide/)
-- [佩尼达岛吃喝玩乐全攻略](/blog/nusa-penida-guide/)
-- [蓝梦岛/金银岛景点全攻略](/blog/nusa-lembongan-ceningan-guide/)
+- [巴厘岛旅游注意事项：第一次去巴厘岛必看的31项旅游攻略](/zh-cn/blog/bali-ultimate-guide-2026/)
+- [【巴厘岛必知】99%游客都在偷偷搜寻的超尴尬41个问题！巴厘岛旅游自由行攻略](/zh-cn/blog/bali-travel-faqs-guide/)
+- [巴厘岛攻略之认识巴厘岛区域: 巴厘岛住宿推荐指南 - 认识库塔 水明漾 坎古 乌布](/zh-cn/blog/2023-12-29-65839fbafd89780001e876b5/)
+- [巴厘岛水明漾100个景点攻略](/zh-cn/blog/seminyak-guide/)
+- [库塔必访50个景点攻略](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [坎古80个必游景点](/zh-cn/blog/canggu-guide/)
+- [乌布探索的100个方式](/zh-cn/blog/ubud-guide/)
+- [金巴兰攻略](/zh-cn/blog/jimbaran-guide/)
+- [乌鲁瓦图攻略](/zh-cn/blog/uluwatu-guide/)
+- [武吉半岛冒险指南](/zh-cn/blog/bukit-peninsula-guide/)
+- [沙努尔45项吃喝玩乐攻略](/zh-cn/blog/sanur-guide/)
+- [努沙杜瓦40个住宿美食活动攻略](/zh-cn/blog/nusa-dua-guide/)
+- [佩尼达岛吃喝玩乐全攻略](/zh-cn/blog/nusa-penida-guide/)
+- [蓝梦岛/金银岛景点全攻略](/zh-cn/blog/nusa-lembongan-ceningan-guide/)
 
 ## 2.🇻🇳 **河内，越南**
 

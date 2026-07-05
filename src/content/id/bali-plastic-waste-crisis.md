@@ -63,9 +63,9 @@ Kalau kamu sedang merencanakan perjalanan ke Bali, pantai-pantai di area ini waj
 
 **Referensi Cepat:**
 
-- [Peta Panduan Sanur](/blog/sanur-travel-map/)
-- [Panduan Lengkap Nusa Penida](/blog/nusa-penida-guide/)
-- [Panduan Wisata Nusa Lembongan & Ceningan](/blog/nusa-lembongan-ceningan-guide/)
+- [Peta Panduan Sanur](/id/blog/sanur-travel-map/)
+- [Panduan Lengkap Nusa Penida](/id/blog/nusa-penida-guide/)
+- [Panduan Wisata Nusa Lembongan & Ceningan](/id/blog/nusa-lembongan-ceningan-guide/)
 
 ---
 

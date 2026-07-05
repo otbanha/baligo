@@ -96,7 +96,7 @@ Ini dia video pengalaman asli Jie di Luna Rooftop Bar:
 
 ## Panduan Lengkap Menginap di Ayana
 
-Artikel ini juga ada di [Panduan Lengkap Ayana](/blog/ayana-resort-bali-guide/) kami! Kalau kamu penasaran fasilitas seru di Ayana, kolam renang unik, dan spot foto yang wajib diabadikan, jangan sampai kelewatan panduan ini!
+Artikel ini juga ada di [Panduan Lengkap Ayana](/id/blog/ayana-resort-bali-guide/) kami! Kalau kamu penasaran fasilitas seru di Ayana, kolam renang unik, dan spot foto yang wajib diabadikan, jangan sampai kelewatan panduan ini!
 
 ## Pertanyaan yang Sering Diajukan
 

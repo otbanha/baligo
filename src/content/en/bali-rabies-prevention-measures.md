@@ -22,7 +22,7 @@ lang: en
 _srcHash: ee187b5d9675eb65f018d8db451830f2
 ---
 
-The veterinary unit in Badung Regency, Bali recently reported several bite incidents caused by rabies-infected dogs. Earlier this month, one of our group members was bitten by a stray dog in the Kuta area, spending USD$5,806 on rabies vaccines. The incident was even featured on TV news. Please see [the report here](/blog/bali-rabies-vaccine-cost/).
+The veterinary unit in Badung Regency, Bali recently reported several bite incidents caused by rabies-infected dogs. Earlier this month, one of our group members was bitten by a stray dog in the Kuta area, spending USD$5,806 on rabies vaccines. The incident was even featured on TV news. Please see [the report here](/en/blog/bali-rabies-vaccine-cost/).
 
 ## **South Kuta Area Designated as Enhanced Monitoring Zone**
 

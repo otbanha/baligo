@@ -38,7 +38,7 @@ This article introduces the top 15 resorts in Bali that are ideal for family tra
 
 ## Kuta/Legian
 
-(Further reading: [Kuta Travel Guide: 50 Must-Visit Spots, Vibrant Nightlife, Cuisine, Recommended SPAs](/blog/2023-12-13-657598bdfd8978000120fe20/))
+(Further reading: [Kuta Travel Guide: 50 Must-Visit Spots, Vibrant Nightlife, Cuisine, Recommended SPAs](/en/blog/2023-12-13-657598bdfd8978000120fe20/))
 
 ### **Hard Rock Hotel Bali**
 
@@ -66,7 +66,7 @@ This resort in Legian boasts a prime beachfront location, offering a charming wa
 
 ## Seminyak
 
-(Further reading: [Comprehensive Guide to 60 Things to Do in Seminyak](/blog/seminyak-guide/))
+(Further reading: [Comprehensive Guide to 60 Things to Do in Seminyak](/en/blog/seminyak-guide/))
 
 ### **FuramaXclusive Ocean Beach Seminyak**
 
@@ -128,13 +128,13 @@ This family-friendly resort in South Bay features five pools, including a colorf
 
 ## Jimbaran
 
-(Read more: [28 Recommended Attractions in Jimbaran](/blog/jimbaran-guide/))
+(Read more: [28 Recommended Attractions in Jimbaran](/en/blog/jimbaran-guide/))
 
 ### **AYANA Resort, Bali**
 
 ![AYANA Resort, Bali](https://images.gobaligo.id/vocus/vocus_5adf4aacc4cca8b902ecb041966b40c7.jpg)
 
-Perched on the cliffs of Jimbaran, AYANA Resort is a luxurious retreat within the AYANA estate, offering breathtaking views of the Indian Ocean. The resort features 14 different pools spread across four separate but interconnected resorts. This is one of Bali's most popular resorts—check out our [AYANA Accommodation Guide](/blog/ayana-resort-bali-guide/) for more details. The kids' pool comes with two water slides, giving children the thrill of exploring a tropical jungle.
+Perched on the cliffs of Jimbaran, AYANA Resort is a luxurious retreat within the AYANA estate, offering breathtaking views of the Indian Ocean. The resort features 14 different pools spread across four separate but interconnected resorts. This is one of Bali's most popular resorts—check out our [AYANA Accommodation Guide](/en/blog/ayana-resort-bali-guide/) for more details. The kids' pool comes with two water slides, giving children the thrill of exploring a tropical jungle.
 
 [Book AYANA Resort here](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6504)
 
@@ -156,7 +156,7 @@ This five-star resort in Jimbaran boasts a charming water park for kids, where t
 
 ## Sanur
 
-(Read more: [Sanur Travel Map](/blog/sanur-travel-map/))
+(Read more: [Sanur Travel Map](/en/blog/sanur-travel-map/))
 
 ### Prama Sanur Beach Bali
 
@@ -178,7 +178,7 @@ Prime Plaza Suites Sanur is one of Bali's popular family resorts. The children's
 
 ![Ubud](https://images.gobaligo.id/vocus/vocus_3b5571bf2988db848cdf0c08b20164cb.png)
 
-(Read more: [Ubud Family Travel Guide: 55 Kid-Friendly Activities!](/blog/ubud-with-kids-guide/))
+(Read more: [Ubud Family Travel Guide: 55 Kid-Friendly Activities!](/en/blog/ubud-with-kids-guide/))
 
 While hotels and resorts in Ubud, Bali may not have water slides, there are still plenty of ideal spots for family vacations. Here are ten family-friendly hotels and resorts that stand out in Tripadvisor customer reviews. Feel free to click the links for more details:
 

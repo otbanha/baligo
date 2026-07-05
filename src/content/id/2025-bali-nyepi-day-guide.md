@@ -95,7 +95,7 @@ Diprediksi Bali mulai 26 Maret bakal kebanjiran wisatawan lokal dari berbagai da
 
 ## Festival Spesial Lainnya di Bali per Bulan
 
-Coba deh cek [panduan hari libur Indonesia/Bali 2025](/blog/bali-indonesia-holidays-2025/) yang udah kami siapin. Di situ lengkap banget info dan aturan soal semua festival spesial di Bali, biar liburanmu makin bermakna dan seru.
+Coba deh cek [panduan hari libur Indonesia/Bali 2025](/id/blog/bali-indonesia-holidays-2025/) yang udah kami siapin. Di situ lengkap banget info dan aturan soal semua festival spesial di Bali, biar liburanmu makin bermakna dan seru.
 
 ## **FAQ: Pertanyaan Umum Seputar Nyepi di Bali**
 

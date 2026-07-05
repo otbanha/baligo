@@ -29,7 +29,7 @@ Bali's unique Kecak Fire Dance, found nowhere else in the world
 
 **Quick Reference:**
 
-[Six Must-See Kecak Fire Dance Locations in Bali: A Visual and Cultural Feast](/blog/bali-kecak-fire-dance-locations/)
+[Six Must-See Kecak Fire Dance Locations in Bali: A Visual and Cultural Feast](/en/blog/bali-kecak-fire-dance-locations/)
 
 Foreign tourist arrivals in November 2024 reached 1.09 million, an 8.58% decrease compared to October, consistent with the low season trend. However, the final 2024 data will take another month to fully compile, but it's certain that by early February 2025 when the final figures are released, total tourist arrivals across Indonesia will exceed 13 million.
 
@@ -47,7 +47,7 @@ Usually quiet and laid-back Sanur Beach gets packed during the Christmas-New Yea
 
 **Quick Reference:**
 
-[Top Choice for Family Vacations: Sanur Guide Map｜45 Things to Eat, Drink, Play, Plus SPA and Accommodation Recommendations](/blog/sanur-guide/)
+[Top Choice for Family Vacations: Sanur Guide Map｜45 Things to Eat, Drink, Play, Plus SPA and Accommodation Recommendations](/en/blog/sanur-guide/)
 
 ---
 
@@ -63,7 +63,7 @@ The distinctive Penglipuran Village sees holiday crowds
 
 **Quick Reference:**
 
-What makes Penglipuran Village special? Check out the [Complete 2025 Ubud Bali Guide](/blog/ubud-guide/)
+What makes Penglipuran Village special? Check out the [Complete 2025 Ubud Bali Guide](/en/blog/ubud-guide/)
 
 ---
 

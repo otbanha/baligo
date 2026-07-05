@@ -41,7 +41,7 @@ Sepuluh hari ini adalah masa sakral bagi umat Hindu Bali untuk merayakan kemenan
 
 **Tips perjalanan:** Selama periode ini, sekolah libur dua minggu, transportasi umum dan sopir sewaan juga banyak yang cuti. Kalau kamu berencana ke sana, **wajib rencanakan transportasi dan pesan sopir dari jauh-jauh hari** biar nggak kehabisan kendaraan.
 
-Mau tahu jadwal lengkap festival Bali 2026? Cek: [Panduan Lengkap Festival Bali 2026](/blog/2026-bali-festival-guide/)
+Mau tahu jadwal lengkap festival Bali 2026? Cek: [Panduan Lengkap Festival Bali 2026](/id/blog/2026-bali-festival-guide/)
 
 ## Festival Kesenian Tertua (13 Juni–11 Juli): Warisan Budaya Ratusan Tahun yang Spektakuler
 
@@ -77,4 +77,4 @@ Memasuki musim ramai Juli–Agustus, Bali juga akan menyambut dua acara bergengs
 
 Bali bulan Juni sampai Agustus itu momen seru banget, perpaduan antara festival dan musim ramai. Kalau kamu ada rencana ke sana, saran sih booking perjalanan dan akomodasi 3-6 bulan sebelumnya biar bisa maksimal nikmatin pesona budaya Bali yang paling autentik.
 
-Mau tahu lebih detail soal festival Bali 2026? Cek langsung di sini: [Panduan Lengkap Festival Bali 2026](/blog/2026-bali-festival-guide/)
+Mau tahu lebih detail soal festival Bali 2026? Cek langsung di sini: [Panduan Lengkap Festival Bali 2026](/id/blog/2026-bali-festival-guide/)

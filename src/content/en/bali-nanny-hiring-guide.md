@@ -68,15 +68,15 @@ We hope this guide makes your Bali vacation more relaxing and helps you find the
 
 ## Extended Reading for Family Travel:
 
-- [Complete Guide to Family-Friendly Attractions in Bali: Over 100 Activities for Families](/blog/bali-family-travel-guide/)
-- [20 Tips for Family Travel with Kids in Bali](/blog/bali-family-travel-tips/)
-- [Bali Family Travel: Tips for Vacationing with Babies, Toddlers, and School-Age Children](/blog/bali-family-travel-guide-2/)
-- [Bali Family Resorts: Top 15 Resorts with Water Slides and Playgrounds](/blog/bali-family-resorts-water-slides/)
-- [Recommended 13 Family-Friendly Resorts in Bali: Best Options in Kuta, Seminyak, Canggu, Jimbaran, and Uluwatu](/blog/bali-family-resorts-kids-club/)
-- [53 Family-Friendly Activities in Ubud: Easy Fun with Kids](/blog/ubud-with-kids-guide/)
-- [Sanur Guide: The Best Coastal Destination for Families in Bali | 45 Things to Do](/blog/sanur-guide/)
-- [Bali Family Day Trip Guide: Explore Safari Park and Flamingo Beach Club](/blog/bali-family-day-safari-flamingo/)
-- [Must-Visit Bali Safari: How to Enjoy and Stay Overnight](/blog/bali-safari-night-stay/)
-- [2025 New Opening](/blog/marine-safari-bali-guide/) [Marine Safari Bali Guide](/blog/marine-safari-bali-guide/)
-- [Alpaca Picnic Interaction: A Natural Classroom for Kids](/blog/pacha-alpaca-family-canggu/)
+- [Complete Guide to Family-Friendly Attractions in Bali: Over 100 Activities for Families](/en/blog/bali-family-travel-guide/)
+- [20 Tips for Family Travel with Kids in Bali](/en/blog/bali-family-travel-tips/)
+- [Bali Family Travel: Tips for Vacationing with Babies, Toddlers, and School-Age Children](/en/blog/bali-family-travel-guide-2/)
+- [Bali Family Resorts: Top 15 Resorts with Water Slides and Playgrounds](/en/blog/bali-family-resorts-water-slides/)
+- [Recommended 13 Family-Friendly Resorts in Bali: Best Options in Kuta, Seminyak, Canggu, Jimbaran, and Uluwatu](/en/blog/bali-family-resorts-kids-club/)
+- [53 Family-Friendly Activities in Ubud: Easy Fun with Kids](/en/blog/ubud-with-kids-guide/)
+- [Sanur Guide: The Best Coastal Destination for Families in Bali | 45 Things to Do](/en/blog/sanur-guide/)
+- [Bali Family Day Trip Guide: Explore Safari Park and Flamingo Beach Club](/en/blog/bali-family-day-safari-flamingo/)
+- [Must-Visit Bali Safari: How to Enjoy and Stay Overnight](/en/blog/bali-safari-night-stay/)
+- [2025 New Opening](/en/blog/marine-safari-bali-guide/) [Marine Safari Bali Guide](/en/blog/marine-safari-bali-guide/)
+- [Alpaca Picnic Interaction: A Natural Classroom for Kids](/en/blog/pacha-alpaca-family-canggu/)
 - Bali Family Travel Column

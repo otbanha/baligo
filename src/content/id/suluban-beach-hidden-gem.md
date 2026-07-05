@@ -23,7 +23,7 @@ Suluban Beach, atau dikenal juga sebagai "Blue Point Beach", tersembunyi di Buki
 
 **Referensi Cepat:**
 
-> [Panduan Petualangan Bukit Peninsula](/blog/bukit-peninsula-guide/)
+> [Panduan Petualangan Bukit Peninsula](/id/blog/bukit-peninsula-guide/)
 
 ***
 
@@ -68,7 +68,7 @@ Single Fin Cliff Bar
 ***
 
 ## 5. Rekomendasi Tempat Wisata Sekitar
-Semenanjung Bukit tempat Suluban Beach berada, apa aja sih yang seru di sekitarnya? Ada makanan enak? Cek [panduan kami](/blog/bukit-peninsula-guide/)
+Semenanjung Bukit tempat Suluban Beach berada, apa aja sih yang seru di sekitarnya? Ada makanan enak? Cek [panduan kami](/id/blog/bukit-peninsula-guide/)
 
 ## 6. Kesimpulan
 Keunikan Suluban Beach ada di bentuk medannya yang beda dan nuansa tersembunyinya. Pas kamu turun lewat tangga batu yang berkelok dan sempit, lalu masuk ke jalur di antara celah batu karang, rasanya kayak masuk ke tempat rahasia. Pantainya nggak datar dan luas kayak pantai biasa, tapi dikelilingi tebing kapur yang megah, membentuk terowongan dan gua alami. Ombak pecah di antara dinding batu, mencipratkan buih putih — suasananya megah dan misterius banget.
@@ -77,7 +77,7 @@ Keunikan Suluban Beach ada di bentuk medannya yang beda dan nuansa tersembunyiny
 
 ![五、周邊景點推薦](https://images.gobaligo.id/vocus/vocus_22c54e6ac54cee9b7bf8f153026a7785.png)
 
-Suluban Beach 所在的武吉半島，周邊有什麼好玩的？有什麼好吃的？請看[我們的攻略](/blog/bukit-peninsula-guide/)
+Suluban Beach 所在的武吉半島，周邊有什麼好玩的？有什麼好吃的？請看[我們的攻略](/id/blog/bukit-peninsula-guide/)
 
 ***
 

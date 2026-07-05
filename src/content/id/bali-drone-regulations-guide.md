@@ -20,7 +20,7 @@ _srcHash: 32a2d5b0b4d89116f1b4b5a08af173fb
 ---
 Update: 03/07/2026
 
-Di [artikel sebelumnya](/blog/bali-drone-travel-guide/), kita udah bahas gimana cara aman bawa drone ke Bali, Indonesia. Hari ini kita bakal bahas lebih dalam soal aturan dan regulasi yang harus dipatuhi saat menerbangkan drone di Bali.
+Di [artikel sebelumnya](/id/blog/bali-drone-travel-guide/), kita udah bahas gimana cara aman bawa drone ke Bali, Indonesia. Hari ini kita bakal bahas lebih dalam soal aturan dan regulasi yang harus dipatuhi saat menerbangkan drone di Bali.
 
 Yang paling penting tentu saja **keamanan**. Keamanan terbang drone bukan cuma soal diri kamu sendiri, tapi juga orang lain. Makanya, ada beberapa aturan lokal yang wajib kamu patuhi:
 

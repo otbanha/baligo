@@ -24,7 +24,7 @@ lang: en
 _srcHash: 5e541c8d3985565ea7a7772c4e941d44
 ---
 
-[🚗 Want to estimate Gojek fares? Click here](/map/gojek-fare/)
+[🚗 Want to estimate Gojek fares? Click here](/en/map/gojek-fare/)
 
 When traveling in Bali, many tourists opt for short-distance transportation using ride-hailing apps like Grab or Gojek. These apps offer the advantage of transparent pricing. However, tourists sometimes encounter unscrupulous drivers that can turn their journey unpleasant. Here are two real stories sharing common ride-hailing tricks, hoping everyone can be more cautious during their travels and avoid similar troubles.
 
@@ -50,12 +50,12 @@ After sensing their skepticism, the driver began to negotiate his own price, eve
 
 These firsthand experiences shared by travelers aim to provide useful insights. While ride-hailing platforms are generally convenient and the likelihood of encountering problematic drivers is low, maintaining caution during your travels is always advisable.
 
-> Further Reading: [Essential Apps for Traveling in Indonesia/Bali: A Complete Guide to Gojek](/blog/2023-08-20-64e187dffd897800017304fe/)
+> Further Reading: [Essential Apps for Traveling in Indonesia/Bali: A Complete Guide to Gojek](/en/blog/2023-08-20-64e187dffd897800017304fe/)
 
-> Further Reading: [Bali Travel Guide: Must-Have Ride-Hailing Apps for Short Trips](/blog/2024-05-03-6634d110fd897800012a9d6b/)
+> Further Reading: [Bali Travel Guide: Must-Have Ride-Hailing Apps for Short Trips](/en/blog/2024-05-03-6634d110fd897800012a9d6b/)
 
-> Further Reading: [When to Hire a Private Car vs. Ride-Hailing in Bali: Choosing the Best Option for Your Trip](/blog/2024-05-05-6636f348fd897800013df126/)
+> Further Reading: [When to Hire a Private Car vs. Ride-Hailing in Bali: Choosing the Best Option for Your Trip](/en/blog/2024-05-05-6636f348fd897800013df126/)
 
-[🚗 Want to Estimate Gojek Fares? Click Here](/map/gojek-fare/)
+[🚗 Want to Estimate Gojek Fares? Click Here](/en/map/gojek-fare/)
 
 {{block:包車}}

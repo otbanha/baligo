@@ -22,7 +22,7 @@ Update: 03/07/2026
 
 Panduan Liburan Bali Bagian 6: Panduan Jimbaran
 
-**Kesimpulan Awal**: Jimbaran terletak di selatan bandara Bali, sekitar 15-20 menit naik mobil. Paling cocok buat kamu yang 'pengin lihat sunset, makan seafood, dan nginep di resort bintang 4-5'. Tiga hal wajib dilakukan: **Lihat sunset di Pantai Jimbaran**, **Makan ikan bakar & lobster di restoran tepi pantai** (daftar hindari yang menyesatkan ada di [10 Rekomendasi Restoran Seafood Anti Gagal](/blog/jimbaran-seafood-restaurants-list/)), dan jalan-jalan di **Samasta Lifestyle Village** buat belanja dan makan. Artikel ini merangkum 30 tempat wisata dan aktivitas, lengkap dengan peta Google Maps yang bisa disimpan.
+**Kesimpulan Awal**: Jimbaran terletak di selatan bandara Bali, sekitar 15-20 menit naik mobil. Paling cocok buat kamu yang 'pengin lihat sunset, makan seafood, dan nginep di resort bintang 4-5'. Tiga hal wajib dilakukan: **Lihat sunset di Pantai Jimbaran**, **Makan ikan bakar & lobster di restoran tepi pantai** (daftar hindari yang menyesatkan ada di [10 Rekomendasi Restoran Seafood Anti Gagal](/id/blog/jimbaran-seafood-restaurants-list/)), dan jalan-jalan di **Samasta Lifestyle Village** buat belanja dan makan. Artikel ini merangkum 30 tempat wisata dan aktivitas, lengkap dengan peta Google Maps yang bisa disimpan.
 
 Jimbaran, surganya Bali, selain terkenal dengan sunset pantai dan seafood-nya yang mendunia, apa lagi sih yang layak dijelajahi? Ikuti langkah '[Xiao Jie Indonesia](http://bit.ly/youtube-jason)' di blog ini, kita bakal ajak kamu menjelajahi Jimbaran, kenalan dengan aktivitas seru yang bisa dilakukan di sini, dan temukan petualangan surga Bali.
 
@@ -42,7 +42,7 @@ Yang paling bikin jatuh cinta dari Jimbaran adalah pantainya yang cantik banget.
 
 ![品味美味的海鮮（地圖：海鮮料理夕陽餐廳）](https://images.gobaligo.id/vocus/vocus_f95206ce600cf65cd22d6a6a27db0448.jpg)
 
-Jimbaran terkenal banget sama seafood-nya yang lezat, kamu wajib banget cobain hidangan khas di sini. Di pantai ada banyak restoran seafood yang terkenal dengan bahan segar dan teknik masak yang juara. Mau kamu suka ikan bakar, lobster, atau bumbu-bumbu kece, restoran seafood di Jimbaran pasti bikin lidah kamu bergoyang. Plus, sebagian besar restorannya punya pemandangan laut yang cakep, jadi sambil makan enak, kamu juga bisa nikmatin pemandangan laut yang spektakuler. Biar pengalaman makanmu makin maksimal, anti zonk, dan nggak kena tipu harga, cek aja rekomendasi kami di 「[10 Rekomendasi Restoran Seafood Jimbaran Bali: Anti Zonk!](/blog/jimbaran-seafood-restaurants-list/)」
+Jimbaran terkenal banget sama seafood-nya yang lezat, kamu wajib banget cobain hidangan khas di sini. Di pantai ada banyak restoran seafood yang terkenal dengan bahan segar dan teknik masak yang juara. Mau kamu suka ikan bakar, lobster, atau bumbu-bumbu kece, restoran seafood di Jimbaran pasti bikin lidah kamu bergoyang. Plus, sebagian besar restorannya punya pemandangan laut yang cakep, jadi sambil makan enak, kamu juga bisa nikmatin pemandangan laut yang spektakuler. Biar pengalaman makanmu makin maksimal, anti zonk, dan nggak kena tipu harga, cek aja rekomendasi kami di 「[10 Rekomendasi Restoran Seafood Jimbaran Bali: Anti Zonk!](/id/blog/jimbaran-seafood-restaurants-list/)」
 
 > Kupon Klook:
 
@@ -73,7 +73,7 @@ Mau main wajib reservasi dulu ya:
 
 GWK Culture Park (Garuda Wisnu Kencana / Taman Budaya Garuda) adalah salah satu tempat wisata yang menonjol di Bali, terletak dekat Jimbaran. Taman budaya ini terkenal dengan patung-patung megah, arsitektur spektakuler, dan perpaduan budaya Bali. Begitu masuk, kamu akan dikelilingi oleh patung dan bangunan keren yang menunjukkan kekayaan budaya Bali. Patung paling terkenal di sini adalah patung raksasa setinggi 121 meter yang menggabungkan Dewa Siwa Hindu dan burung Garuda Indonesia—patung ini masuk jajaran patung tertinggi keempat di dunia. Nah, bangunan tinggi mirip menara yang sering kamu lihat dari pantai Seminyak atau Canggu itu ternyata patung ini, lho!
 
-GWK Culture Park bukan cuma tempat seni dan budaya, tapi juga jadi venue buat berbagai acara dan pertunjukan budaya. Kamu bisa nonton tarian tradisional, pertunjukan musik, dan drama yang bakal bikin kamu makin paham keindahan budaya Bali. Selain itu, di dalam taman ada pusat budaya yang kasih info lengkap soal budaya Bali, biar wisatawan makin ngerti pesona Pulau Dewata ini. Panduan lengkapnya bisa cek [di sini](/blog/gwk-cultural-park-bali/)
+GWK Culture Park bukan cuma tempat seni dan budaya, tapi juga jadi venue buat berbagai acara dan pertunjukan budaya. Kamu bisa nonton tarian tradisional, pertunjukan musik, dan drama yang bakal bikin kamu makin paham keindahan budaya Bali. Selain itu, di dalam taman ada pusat budaya yang kasih info lengkap soal budaya Bali, biar wisatawan makin ngerti pesona Pulau Dewata ini. Panduan lengkapnya bisa cek [di sini](/id/blog/gwk-cultural-park-bali/)
 
 > Kupon Klook:
 > [Tiket Masuk Taman Budaya Garuda Wisnu Kencana Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771410&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D34638cfe57)[Tur Pantai Bali & Garuda Wisnu Kencana & Pura Uluwatu Sunset](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd68d4723fd)
@@ -110,7 +110,7 @@ Kalau kamu lagi cari tempat buat lihat laut, nikmatin sunset, makan enak, dan be
 
 Rock Bar adalah restoran dan bar terkenal di Jimbaran yang punya pemandangan laut super keren. Tempat ini terkenal karena posisinya yang unik di atas tebing, langsung menghadap ke laut. Di sini, kamu bisa menikmati makanan internasional dan Indonesia yang lezat sambil lihat perubahan warna laut saat matahari terbenam. Rock Bar juga jadi tempat nongkrong malam yang hits, dengan berbagai koktail enak dan pertunjukan musik yang bikin makin seru.
 
-Harus reservasi dulu ya, cara reservasinya [bisa lihat di sini](/blog/ayana-resort-bali-guide/)
+Harus reservasi dulu ya, cara reservasinya [bisa lihat di sini](/id/blog/ayana-resort-bali-guide/)
 
 ## Naik Unta Sambil Lihat Laut, Nikmatin Waktu Santai (👉🏼 Peta: [Spot Wajib Kunjung di Jimbaran](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing))
 
@@ -128,7 +128,7 @@ Warisan religi dan budaya Bali mencapai puncaknya di perjalanan ke Pura Uluwatu 
 
 Setelah dari Pura Uluwatu, kamu bisa lanjut nonton pertunjukan Tari Kecak, sebuah pertunjukan budaya tradisional Bali. Tari Kecak menggabungkan tarian, musik, dan drama, yang menceritakan kisah-kisah kuno Bali. Pertunjukannya biasanya diadakan di teater terbuka, penonton duduk di tribun setengah lingkaran, menikmati pertunjukan sambil ditemani bintang malam. Yang bikin spesial, para penari nggak pakai alat musik, tapi pakai suara mereka untuk menyanyikan musik khas Kecak, menciptakan atmosfer yang bikin merinding.
 
-Apa sih isi pertunjukan Tari Kecak? Gimana cara pesan tiketnya? [Cek di sini](/blog/kecak-fire-dance-bali/)
+Apa sih isi pertunjukan Tari Kecak? Gimana cara pesan tiketnya? [Cek di sini](/id/blog/kecak-fire-dance-bali/)
 
 ## **Nikmatin SPA: Liburan Relaksasi & Penyembuhan di Bali** (👉🏼 Peta: [Rekomendasi SPA](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing))
 
@@ -164,7 +164,7 @@ Area Jimbaran punya beberapa resor top yang kasih pengalaman mewah nggak ada dua
 
 Selain itu, Jimbaran juga dekat bandara, jadi pas banget buat hari-hari terakhir liburan. Kamu bisa lebih gampang ke bandara, hemat waktu perjalanan, dan tetap nikmatin waktu liburan.
 
-Cari penginapan dengan pemandangan laut yang kece? Jangan lewatkan pilihan rekomendasi kami: «[Rekomendasi Penginapan Jimbaran](/blog/2023-11-09-654c6271fd8978000174ff5e/)»
+Cari penginapan dengan pemandangan laut yang kece? Jangan lewatkan pilihan rekomendasi kami: «[Rekomendasi Penginapan Jimbaran](/id/blog/2023-11-09-654c6271fd8978000174ff5e/)»
 
 ![享受豪華的度假村 （地圖：金巴蘭住宿推薦）](https://images.gobaligo.id/vocus/vocus_8b544b02ff49fd0c221cb43b0dba1357.png)
 

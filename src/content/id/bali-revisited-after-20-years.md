@@ -36,7 +36,7 @@ Kondisi lalu lintas di Bali emang selalu jadi tantangan. Macetnya udah jadi pema
 
 Dua puluh tahun lalu, naik taksi di Bali bisa sampai USD$20 sekali jalan. Waktu itu, pas balik ke hotel, aku males banget keluar lagi karena ongkos transportasinya bikin sakit hati. Sekarang udah lebih baik, ada aplikasi Gojek yang bikin biaya transportasi lebih terjangkau dan praktis. Ini bikin pengalaman traveling kita jadi jauh lebih nyaman.
 
-> [Aplikasi Wajib Download Saat Liburan di Indonesia/Bali: Panduan Lengkap Gojek](/blog/gojek-bali-guide/)
+> [Aplikasi Wajib Download Saat Liburan di Indonesia/Bali: Panduan Lengkap Gojek](/id/blog/gojek-bali-guide/)
 
 ## Bandara Internasional Bali
 
@@ -52,7 +52,7 @@ Di dalam bandara, ada stan kecil Oakley yang jual kacamata hitam dan tas. Meskip
 
 Bali menghasilkan kopi dan cokelat. JungleGold Bali punya banyak rasa unik, meskipun harganya agak mahal, tapi kemasannya cantik banget, cocok banget jadi oleh-oleh buat dibawa pulang. Kami sempat mampir ke Satria Coffee Plantation, di sana ditanam berbagai rempah, dan kami juga lihat langsung bagaimana buah kakao tumbuh di pohon. Ini pengalaman yang langka banget buat kami.
 
-> [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Rekomendasi Oleh-Oleh Bali: Pilihan Terbaik untuk Menyimpan Kenangan Berharga](/blog/bali-souvenirs-gift-guide/)
+> [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Rekomendasi Oleh-Oleh Bali: Pilihan Terbaik untuk Menyimpan Kenangan Berharga](/id/blog/bali-souvenirs-gift-guide/)
 
 ## Kopi Luwak
 
@@ -100,13 +100,13 @@ Walaupun tiket masuk kebun binatang ini lumayan mahal, sekitar USD$32 per orang,
 
 Restoran di pinggir pantai Jimbaran biasanya mahal-mahal, tapi pemandu kita rekomendasiin Menega Cafe yang harganya lebih ramah di kantong. Sayangnya hari itu mendung, jadi kita nggak bisa lihat sunset. Tapi bisa makan bareng tiga generasi di luar negeri — momen berharga kayak gitu bikin kita bersyukur banget.
 
-> [10 Restoran Seafood Jimbaran Bali: Rekomendasi Anti Gagal](/blog/jimbaran-seafood-restaurants-list/)
+> [10 Restoran Seafood Jimbaran Bali: Rekomendasi Anti Gagal](/id/blog/jimbaran-seafood-restaurants-list/)
 
 ## Belanja Oleh-Oleh
 
 Waktu beli souvenir, kita milih Krisna. Kacang dan buah kering di sana enak-enak dan murah, bikin kita nggak tahan buat beli banyak buat dibawa pulang.
 
-> [【Rekomendasi Netizen】6 Kategori, Lebih dari 20 Pilihan Oleh-Oleh Bali: Panduan Terbaik buat Kenangan Tak Terlupakan](/blog/bali-souvenirs-gift-guide/)
+> [【Rekomendasi Netizen】6 Kategori, Lebih dari 20 Pilihan Oleh-Oleh Bali: Panduan Terbaik buat Kenangan Tak Terlupakan](/id/blog/bali-souvenirs-gift-guide/)
 
 ## Nightlife Experience
 
@@ -124,7 +124,7 @@ Kita juga nyobain rafting di Bali. Meskipun harganya lumayan mahal, sekitar USD$
 
 Kalau mau lihat manta ray di Nusa Penida, mending nginep di pulau sehari sebelumnya. Kalau nginep di tempat lain kayak Kuta, harus bangun jam 5 pagi. Karena kita males bangun pagi, akhirnya skip aja trip ini.
 
-> [【Bali - Nusa Penida Guide Lengkap】Map, Ferry, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)
+> [【Bali - Nusa Penida Guide Lengkap】Map, Ferry, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)
 
 {{block:戶外}}
 
@@ -138,7 +138,7 @@ Di Bali, setiap rumah punya pura sendiri, dan di temboknya ada banyak ukiran bat
 
 Buat kamu yang suka pemandangan laut, pantai, dan sawah, Bali itu tempat yang bikin kamu pengen balik lagi. Pas kunjungan berikutnya, aku berencana ke pasar lokal buat ngerasain kehidupan sehari-hari warga setempat. Gaji pokok mereka sekitar USD$180 (tahun 2024), pasti cara hidup kayak gitu bakal kasih pengalaman yang beda. Lewat gaya hidup lokal, kita mungkin bisa lebih ngerasain spiritualitas dari tanah indah ini. Kami sangat berterima kasih sama dua pemandu, Mr. Fovix dan Mr. Liega, yang kasih banyak saran berharga. Mr. Fovix itu pemandu yang teliti dan lancar bahasa Inggris, sementara Mr. Liega jujur dan juga cukup piawai bahasa Inggris. Mereka bawa kami ke tempat-tempat yang sering dikunjungi wisatawan lokal, bantu kami hemat banyak biaya. Setiap kali makan, kami selalu ajak mereka gabung, tapi mereka sopan menolak atau cuma pesan makanan simpel. Kami sangat berterima kasih atas perhatian mereka, yang bikin kenangan kami sempurna.
 
-> [Pengalaman Kuliner di Pasar Malam Terbesar Bali: Ikut Pemandu Lokal Berbahasa Mandarin Cicipi Kelezatan Otentik Pasar Malam Kreneng](/blog/kreneng-night-market-food-tour/)
+> [Pengalaman Kuliner di Pasar Malam Terbesar Bali: Ikut Pemandu Lokal Berbahasa Mandarin Cicipi Kelezatan Otentik Pasar Malam Kreneng](/id/blog/kreneng-night-market-food-tour/)
 
 ## Info Pemandu Wisata:
 

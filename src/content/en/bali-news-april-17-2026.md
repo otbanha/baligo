@@ -38,4 +38,4 @@ _srcHash: 09f2aa91e8d75323eff45a9ff2cfab69
 - **Flights & Volcano Tracking**: Although Mount Lewotobi remains at a Level 2 alert, volcanic ash is primarily spreading southwest and west. Flights to and from Ngurah Rai Airport (DPS) to Australia and other international routes are **operating smoothly** today, with no significant disruptions.
 - **Safety Tips**: Recent incidents of motorcycle snatch thefts targeting foreign tourists have been reported. Diplomatic advisories recommend that tourists in popular areas (e.g., Jimbaran, Seminyak) remain vigilant with personal belongings, avoid using phones alone in dimly lit areas, and refrain from carrying bags on one side.
 
-> [【Bali Travel Guide】8 Essential Tips for Beginners: Water Safety, Voltage & Plugs, Cultural Taboos, and Scam Prevention](/blog/bali-travel-tips/)
+> [【Bali Travel Guide】8 Essential Tips for Beginners: Water Safety, Voltage & Plugs, Cultural Taboos, and Scam Prevention](/en/blog/bali-travel-tips/)

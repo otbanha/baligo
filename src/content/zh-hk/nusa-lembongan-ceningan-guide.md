@@ -39,8 +39,8 @@ Update: 2026/07/03
 
 **呢篇係藍夢島/金銀島攻略嘅第一集。想知道藍夢島、金銀島有邊啲推薦美食餐廳、推薦住宿？請睇我哋嘅攻略指南：**
 
-- [【藍夢島攻略二】美食推薦篇](/blog/nusa-lembongan-restaurants/)
-- [【藍夢島攻略三】最佳住宿篇](/blog/nusa-lembongan-ceningan-accommodation-guide/)
+- [【藍夢島攻略二】美食推薦篇](/zh-hk/blog/nusa-lembongan-restaurants/)
+- [【藍夢島攻略三】最佳住宿篇](/zh-hk/blog/nusa-lembongan-ceningan-accommodation-guide/)
 
 ![藍夢島/金銀島六大住宿區域](https://images.gobaligo.id/vocus/vocus_98e5ac2df0cf847a9ace93ee013d74e4.jpg)
 
@@ -138,7 +138,7 @@ https://youtube.com/shorts/a4mL69nASLY?si=UciZXsalBlU3fOjo
 
 如果時間許可，不妨安排一次佩尼達島嘅旅行。呢個比較大嘅島有好多壯觀嘅自然景觀，例如出名嘅Kelingking Beach，以佢壯麗嘅恐龍頭形海崖聞名。另外，Broken Beach同Angel's Billabong都係值得去嘅景點。呢啲地方嘅美景令人流連忘返，絕對係攝影愛好者嘅天堂。
 
-詳細嘅介紹請參考我哋最完整嘅「[佩尼達島攻略](/blog/nusa-penida-guide/)」
+詳細嘅介紹請參考我哋最完整嘅「[佩尼達島攻略](/zh-hk/blog/nusa-penida-guide/)」
 
 ## 島上美食同夜生活
 
@@ -148,7 +148,7 @@ https://youtube.com/shorts/a4mL69nASLY?si=UciZXsalBlU3fOjo
 
 ![島上美食與夜生活](https://images.gobaligo.id/vocus/vocus_4658ef6acc04406ea26445d61ca062df.jpg)
 
-呢度有30間藍夢島/金銀島嘅美食餐廳、酒吧、海灘俱樂部推介：[【藍夢島攻略二】餐廳美食篇](/blog/nusa-lembongan-restaurants/)
+呢度有30間藍夢島/金銀島嘅美食餐廳、酒吧、海灘俱樂部推介：[【藍夢島攻略二】餐廳美食篇](/zh-hk/blog/nusa-lembongan-restaurants/)
 
 ## 交通方式
 

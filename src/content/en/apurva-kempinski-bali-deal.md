@@ -95,9 +95,9 @@ If your travel plans are already confirmed, these non-refundable packages are us
 
 The Apurva Kempinski Bali has been one of the most talked-about 5-star resorts in Bali in recent years.
 
-> [A Unique Bali Vacation Experience - Luxury Stay in Bali: Apurva Kempinski Bali Hotel](/blog/apurva-kempinski-bali-nusa-dua/)
+> [A Unique Bali Vacation Experience - Luxury Stay in Bali: Apurva Kempinski Bali Hotel](/en/blog/apurva-kempinski-bali-nusa-dua/)
 
-> [The Apurva Kempinski Bali Wins 2024 'Best Sustainable Hotel' Award](/blog/apurva-kempinski-sustainability-award/)
+> [The Apurva Kempinski Bali Wins 2024 'Best Sustainable Hotel' Award](/en/blog/apurva-kempinski-sustainability-award/)
 
 ## 1️⃣ One of Bali's Most Spectacular Hotel Architectures
 

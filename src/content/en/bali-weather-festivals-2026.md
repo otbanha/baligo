@@ -72,7 +72,7 @@ These four months mark the critical transition from rainy to dry season:
 
 **March Recommended Destinations:**
 
-- **Denpasar:** Head to Puputan Square in the evening of March 18th to witness the grandest and most authentic Ogoh-Ogoh Parade. (Reference: [Nyepi Day Guide 2026](/blog/nyepi-day-bali-guide-2026/))
+- **Denpasar:** Head to Puputan Square in the evening of March 18th to witness the grandest and most authentic Ogoh-Ogoh Parade. (Reference: [Nyepi Day Guide 2026](/en/blog/nyepi-day-bali-guide-2026/))
 - **Uluwatu Cliff Resorts:** Stay at a resort with stunning ocean views during Nyepi (March 19th-20th). With minimal light pollution, it's the best spot on the island to observe the 'Nyepi Milky Way.' (Reference: [Uluwatu Accommodation Recommendations](https://s.id/uluwatu_Stay))
 
 ![3 月：在極致熱鬧與絕對靜止之間](https://images.gobaligo.id/vocus/vocus_808475a368c14385c6ee2c414ee6f88b.png)
@@ -92,9 +92,9 @@ These four months mark the critical transition from rainy to dry season:
 
 **April Recommended Destinations:**
 
-- **Ubud:** This is the main venue for the **Bali Spirit Festival**. We recommend staying near the Sacred Monkey Forest Sanctuary for yoga classes or attending workshops at **The Yoga Barn**. (Reference: [Top 10 Ubud Yoga Retreats in Bali: Perfect Choices for Yoga and Relaxation](/blog/ubud-yoga-retreats-bali/))
-- **Tegallalang Rice Terraces:** With reduced rainfall in April, the sunlight filtering through the lush green terraces creates the most enchanting scenery. It's perfect for a morning stroll to avoid the heat. (Reference: [Complete Guide to Bali's Tegallalang and Jatiluwih Rice Terraces｜Admission Fees, Best Times to Visit](/blog/bali-rice-terraces-comparison/))
-- **Campuhan Ridge Walk:** The dry weather makes the trail less slippery, ideal for an evening walk. (Reference: [Discover the Hidden Paradise Near Ubud: Campuhan Ridge Walk](/blog/ubud-campuhan-ridge-walk/))
+- **Ubud:** This is the main venue for the **Bali Spirit Festival**. We recommend staying near the Sacred Monkey Forest Sanctuary for yoga classes or attending workshops at **The Yoga Barn**. (Reference: [Top 10 Ubud Yoga Retreats in Bali: Perfect Choices for Yoga and Relaxation](/en/blog/ubud-yoga-retreats-bali/))
+- **Tegallalang Rice Terraces:** With reduced rainfall in April, the sunlight filtering through the lush green terraces creates the most enchanting scenery. It's perfect for a morning stroll to avoid the heat. (Reference: [Complete Guide to Bali's Tegallalang and Jatiluwih Rice Terraces｜Admission Fees, Best Times to Visit](/en/blog/bali-rice-terraces-comparison/))
+- **Campuhan Ridge Walk:** The dry weather makes the trail less slippery, ideal for an evening walk. (Reference: [Discover the Hidden Paradise Near Ubud: Campuhan Ridge Walk](/en/blog/ubud-campuhan-ridge-walk/))
 
 ![April: A Time for Awakening](https://images.gobaligo.id/vocus/vocus_e25ce066777027e59ef06a60eb4c681b.png)
 
@@ -116,9 +116,9 @@ These four months mark the critical transition from rainy to dry season:
 **Recommended Places to Visit in May**
 
 - **Ubud Center:** Stay near the center to easily access the various lunch events and chef talks during the **Ubud Food Festival**. (Reference: [Ubud Accommodation Recommendations](https://s.id/UbudResorts))
-- **Water Activities:** Enjoy the best weather without the peak season crowds! (Reference: [Complete Guide to Bali Water Activities｜Beyond Snorkeling: 15 Unexpected Water Adventures](/blog/2026-bali-water-activities/))
-- **Island Adventures/Snorkeling:** With stable sea conditions in May, it's the best time to visit **Nusa Lembongan** or snorkel with manta rays at **Nusa Penida**. (Reference: [Nusa Lembongan Guide](/blog/nusa-lembongan-ceningan-guide/) / [Nusa Penida Guide](https://s.id/penida_guide))
-- **Tulamben:** The dry season brings excellent underwater visibility, perfect for exploring shipwrecks. (Reference: [Complete Guide to Amed and Tulamben Diving in Bali](/blog/amed-tulamben-diving-guide/))
+- **Water Activities:** Enjoy the best weather without the peak season crowds! (Reference: [Complete Guide to Bali Water Activities｜Beyond Snorkeling: 15 Unexpected Water Adventures](/en/blog/2026-bali-water-activities/))
+- **Island Adventures/Snorkeling:** With stable sea conditions in May, it's the best time to visit **Nusa Lembongan** or snorkel with manta rays at **Nusa Penida**. (Reference: [Nusa Lembongan Guide](/en/blog/nusa-lembongan-ceningan-guide/) / [Nusa Penida Guide](https://s.id/penida_guide))
+- **Tulamben:** The dry season brings excellent underwater visibility, perfect for exploring shipwrecks. (Reference: [Complete Guide to Amed and Tulamben Diving in Bali](/en/blog/amed-tulamben-diving-guide/))
 
 ![May: A Golden Month for Foodies and Outdoor Enthusiasts](https://images.gobaligo.id/vocus/vocus_e417ec268a8acaeff77d38f72eb5db82.png)
 
@@ -138,15 +138,15 @@ These four months mark the critical transition from rainy to dry season:
 
 **Recommended Travel Destinations for June**
 
-- **Werdhi Budaya Art Centre in Denpasar:** The entire month of June hosts the **Bali Arts Festival (PKB)**, with top-notch traditional dance and theater performances every afternoon and evening. (Refer to [Denpasar Culture Guide](/blog/denpasar-culture-guide/))
-- **Mount Batur:** June is the driest and coolest month of the year, making it perfect for hiking the volcano to catch the sunrise, with a high chance of seeing a sea of clouds. (Refer to [Mount Batur & Lake Batur Guide](/blog/batur-lake-volcano-guide/))
-- **Pandawa Beach:** Join the **Pandawa Beach Festival** and enjoy cultural parades and music performances by the turquoise sea. (Wondering how to explore the southern tip of Bali? Check out [Bukit Peninsula Adventure Guide](/blog/bukit-peninsula-guide/))
+- **Werdhi Budaya Art Centre in Denpasar:** The entire month of June hosts the **Bali Arts Festival (PKB)**, with top-notch traditional dance and theater performances every afternoon and evening. (Refer to [Denpasar Culture Guide](/en/blog/denpasar-culture-guide/))
+- **Mount Batur:** June is the driest and coolest month of the year, making it perfect for hiking the volcano to catch the sunrise, with a high chance of seeing a sea of clouds. (Refer to [Mount Batur & Lake Batur Guide](/en/blog/batur-lake-volcano-guide/))
+- **Pandawa Beach:** Join the **Pandawa Beach Festival** and enjoy cultural parades and music performances by the turquoise sea. (Wondering how to explore the southern tip of Bali? Check out [Bukit Peninsula Adventure Guide](/en/blog/bukit-peninsula-guide/))
 
 ![June: The Peak of Culture and Beauty](https://images.gobaligo.id/vocus/vocus_6b96e31d9a9ab513eda3d295cd7a5da3.png)
 
 ## 💡 Smart Travel Tips from the Editor
 
-1. **Dressing Philosophy:** In March and April, pack rain gear and moisture-wicking clothes; in May and June, besides summer outfits, bring a light jacket as the cool night breeze might give you goosebumps. Check out [Do You Need a Jacket in Bali? Bali Packing Guide: 8 Essential Items](/blog/bali-packing-essentials/)
+1. **Dressing Philosophy:** In March and April, pack rain gear and moisture-wicking clothes; in May and June, besides summer outfits, bring a light jacket as the cool night breeze might give you goosebumps. Check out [Do You Need a Jacket in Bali? Bali Packing Guide: 8 Essential Items](/en/blog/bali-packing-essentials/)
 2. **Avoid Crowds:** Again, the Eid al-Fitr holiday in mid-to-late March is the **peak season for locals**, so unless necessary, plan your trip after April.
 3. **Booking Advice:** For those wanting to attend the Ubud Food Festival or Spirit Festival, Ubud city center gets extremely crowded during these events, so it's recommended to book accommodations three months in advance.
 
@@ -156,8 +156,8 @@ __VID3__
 
 **Quick Reference:**
 
-- [More 2026 Bali Festival Guide](/blog/2026-bali-festival-guide/)
-- [2026 First Half-Year Vacation Planning Guide](/blog/2026-bali-holiday-planning/)
+- [More 2026 Bali Festival Guide](/en/blog/2026-bali-festival-guide/)
+- [2026 First Half-Year Vacation Planning Guide](/en/blog/2026-bali-holiday-planning/)
 
 {{block:klook}}
 
@@ -165,4 +165,4 @@ __VID3__
 
 👈 **Return to the Ultimate Bali Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.
+Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/en/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.

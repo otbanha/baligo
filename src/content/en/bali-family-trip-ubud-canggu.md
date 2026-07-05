@@ -36,7 +36,7 @@ We planned a 6-day, 5-night family trip to Bali, opting for Scoot's red-eye flig
 
 Since we had purchased a SIM card in Taiwan beforehand, we quickly contacted our private driver, Mr. Awan from Bali Holiday, upon arrival.
 
-> Further reading: [Bali Travel Essentials: How to Get Bali Internet/SIM Card?](/blog/bali-sim-card-esim-roaming-guide/)
+> Further reading: [Bali Travel Essentials: How to Get Bali Internet/SIM Card?](/en/blog/bali-sim-card-esim-roaming-guide/)
 
 He was very friendly, communicated fluently in English, and drove a highly recognizable pink car that was easy to spot anywhere. After getting in the car, we first asked him to take us to exchange currency, then headed to Ubud. Along the way, we visited the beautiful Tegenungan Waterfall and stopped by a supermarket to buy snacks and drinking water.
 
@@ -44,7 +44,7 @@ He was very friendly, communicated fluently in English, and drove a highly recog
 
 Tegenungan Waterfall. (Provided by Zhao Kangkang)
 
-> Further Reading: [Guide to Three Famous Waterfalls Near Ubud, Bali: Tegenungan Waterfall, Kanto Lampo Waterfall, and Tukad Cepung Waterfall](/blog/ubud-waterfalls-guide/)
+> Further Reading: [Guide to Three Famous Waterfalls Near Ubud, Bali: Tegenungan Waterfall, Kanto Lampo Waterfall, and Tukad Cepung Waterfall](/en/blog/ubud-waterfalls-guide/)
 
 > Further Reading: [What to Buy at Supermarkets/Convenience Stores in Bali? | What are the must-buy items when you visit a supermarket?](https://youtu.be/UoGlRyAdyB8)
 
@@ -52,7 +52,7 @@ This time, we stayed at 'Ubud Paradise', which we booked through a hotel reserva
 
 [**▶Check Availability & Rates for Ubud Paradise**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920688) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=2511061&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLQ0NjUzMdQ1sTQxsjTRNTc1MDTTaJpyuPGpsZGBlmB8iKeni2FJYapZYallTlGB6SlGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNiMzQyMntyg-KeaQcBfFlTeZ1x6YcNo-ibUqQzckPKNXHAARxK4vggAAAA&masterhotelid_tracelogid=100051355-0a935641-494294-75016&detailFilters=17|1~17~1*31|2511061~31~2511061*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1440&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/yI4C37fv)
 
-**(Highly rated quality villa! Already included in [16 Amazing Bali Villas Recommendation](/blog/ubud-villa-pool-guide/))**
+**(Highly rated quality villa! Already included in [16 Amazing Bali Villas Recommendation](/en/blog/ubud-villa-pool-guide/))**
 
 ## **Day 2: River Tubing Adventure & Exploring Ubud**
 
@@ -60,7 +60,7 @@ On the second day, we went on a river tubing adventure, which was arranged by Aw
 
 https://youtu.be/ZEkv46_-_mM
 
-**Quick Reference:** [Bali Cave River Tubing Adventure: A Family Adventure at Nukuwera River Tubing](/blog/nukuwera-river-tubing-adventure/)
+**Quick Reference:** [Bali Cave River Tubing Adventure: A Family Adventure at Nukuwera River Tubing](/en/blog/nukuwera-river-tubing-adventure/)
 
 ![叢林鞦韆。（趙康康提供）](https://images.gobaligo.id/vocus/vocus_86291fefaa0646e19596de72aa7330bd.jpg)
 
@@ -84,7 +84,7 @@ On the third day, we visited Safari Zoo. Although it was a bit far from Ubud, it
 
 At noon, we happened to catch a tiger show, which left me amazed. It was my first time observing tigers so closely, and they weren't in glass cages—they even interacted with the staff. It was truly a sight worth seeing!
 
-> Editor's Note: Bali Safari Zoo offers an adventurous safari ride that takes you through the animals' habitats, giving you the thrill and awe of being in the wild. Besides animal viewing, the park also hosts a variety of animal performances, blending joy and nature into one experience. Check out [our detailed introduction here](/blog/bali-safari-night-stay/). If you're looking for better value, consider [staying at the zoo](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155).
+> Editor's Note: Bali Safari Zoo offers an adventurous safari ride that takes you through the animals' habitats, giving you the thrill and awe of being in the wild. Besides animal viewing, the park also hosts a variety of animal performances, blending joy and nature into one experience. Check out [our detailed introduction here](/en/blog/bali-safari-night-stay/). If you're looking for better value, consider [staying at the zoo](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155).
 
 In the evening, we asked Awan to take us to a local night market. We walked around the market first, asking him to introduce various foods, and then he helped us order from the vendors (since some vendors didn't speak English). We enjoyed dishes like roasted pork rice, chicken meatball noodles, chicken satay, and pork satay, and bought a bunch of local desserts to enjoy back at our accommodation. All of this cost less than USD$10, making it a very affordable and fun experience!
 
@@ -148,7 +148,7 @@ Our very satisfied private car driver (provided by Zhao Kangkang)
 
 Additionally, on two occasions, I asked him to arrange for a masseuse to come to our Villa, and he worked hard to coordinate the timing for us. Overall, Awan is an excellent private car driver. Though he’s not part of a big company, his personal touch made us feel truly cared for, and my family got along with him very well! If I ever have the chance to visit Bali again, I’ll definitely choose him as our driver, and I highly recommend him to anyone looking for a private car driver!
 
-Awan’s contact details are included in the [Bali Private Car Drivers Hall of Fame](/blog/bali-private-car-drivers-guide/).
+Awan’s contact details are included in the [Bali Private Car Drivers Hall of Fame](/en/blog/bali-private-car-drivers-guide/).
 
 Did you find Zhao Kangkang's itinerary fascinating? It's time to plan your own Bali adventure! We also welcome everyone to share your travel experiences in our community!
 
@@ -156,6 +156,6 @@ Did you find Zhao Kangkang's itinerary fascinating? It's time to plan your own B
 
 Click here to explore more amazing Bali travel stories
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
 
 {{block:攻略}}

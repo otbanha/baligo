@@ -371,7 +371,7 @@ Unlike typical leisure island destinations, Labuan Bajo offers diverse and chall
 
 **6. New Regulation: Visitor Limits**
 
-If your dream travel list includes the prehistoric Komodo dragon or the enchanting Pink Beach, this 2026 update might disrupt your plans. To protect this fragile paradise, the Indonesian government has officially implemented strict visitor limits for Komodo National Park. The spontaneous "go-as-you-please" approach of arriving at the dock and setting off immediately will become history by 2026. Now, every encounter with the dragons requires precise reservations and advance planning. (Details available [here](/blog/komodo-booking-2026/))
+If your dream travel list includes the prehistoric Komodo dragon or the enchanting Pink Beach, this 2026 update might disrupt your plans. To protect this fragile paradise, the Indonesian government has officially implemented strict visitor limits for Komodo National Park. The spontaneous "go-as-you-please" approach of arriving at the dock and setting off immediately will become history by 2026. Now, every encounter with the dragons requires precise reservations and advance planning. (Details available [here](/en/blog/komodo-booking-2026/))
 
 ### **Why Choose a Professional Itinerary?**
 
@@ -392,7 +392,7 @@ Our designed itineraries take care of all the tedious details:
 
 ![兩人成行輕奢團](https://images.gobaligo.id/vocus/vocus_42ebac9652d3fd78261e9efec83fb421.jpg)
 
-[Couples' Luxury Tour](/blog/bali-komodo-luxury-tour-2026/)
+[Couples' Luxury Tour](/en/blog/bali-komodo-luxury-tour-2026/)
 
 ***
 
@@ -420,7 +420,7 @@ Very suitable, with tours tailored for seniors/children and safe snorkeling spot
 
 ## Other Island Guides
 
-- [Complete Guide to Nusa Penida, Bali: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
-- [Lembongan/Ceningan Island Travel Guide: Exploring Lembongan/Ceningan Island Attractions, Food, Transportation: Bali's Nearby Paradise](/blog/nusa-lembongan-ceningan-guide/)
+- [Complete Guide to Nusa Penida, Bali: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/en/blog/nusa-penida-guide/)
+- [Lembongan/Ceningan Island Travel Guide: Exploring Lembongan/Ceningan Island Attractions, Food, Transportation: Bali's Nearby Paradise](/en/blog/nusa-lembongan-ceningan-guide/)
 
 ***

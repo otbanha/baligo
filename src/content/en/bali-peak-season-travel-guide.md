@@ -43,7 +43,7 @@ Arriving in Bali during peak season and spending time waiting for taxis or figur
 
 **Quick Reference:**
 
-Looking for excellent driver services? Want to know what private car services include and how much they cost? Check out [here](/blog/bali-private-car-hire-guide/)!
+Looking for excellent driver services? Want to know what private car services include and how much they cost? Check out [here](/en/blog/bali-private-car-hire-guide/)!
 
 ***
 
@@ -53,9 +53,9 @@ During peak season, the west coast areas of Bali such as **Kuta**, **Seminyak**,
 
 ![Avoid Crowded Hotspots: Explore Peaceful Destinations](https://images.gobaligo.id/vocus/vocus_a5ecb9763da3a075dbe08fcb57b1c782.png)
 
-- **Bukit Peninsula**: Located south of the airport, this area is detailed in our guide [here](/blog/bukit-peninsula-guide/).
+- **Bukit Peninsula**: Located south of the airport, this area is detailed in our guide [here](/en/blog/bukit-peninsula-guide/).
 - **Amed**: Situated in eastern Bali, known for its tranquil black sand beaches and diving spots. Check out Xiao Jie's video introduction below:
-- **North Bali**: This region attracts visitors with its dolphin-watching tours and laid-back atmosphere. See our "[15 Tips for Traveling to North Bali](/blog/north-bali-travel-guide/)".
+- **North Bali**: This region attracts visitors with its dolphin-watching tours and laid-back atmosphere. See our "[15 Tips for Traveling to North Bali](/en/blog/north-bali-travel-guide/)".
 - **Tabanan**: Famous for its rice terraces and natural landscapes, perfect for escaping the crowds.
 - **Bali Barat National Park**: Offers unique experiences with its natural environment and wildlife observation.
 
@@ -79,14 +79,14 @@ These destinations are ideal for travelers looking to avoid the crowds during th
 
 **Quick Reference:**
 
-- [【Bali - Complete Guide to Nusa Penida】Map, Boat, Accommodation, Transport, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
-- [【Nusa Lembongan & Ceningan Guide】Exploring Attractions, Food, Transport: Bali's Nearby Paradise](/blog/nusa-lembongan-ceningan-guide/)
-- [【Gili Islands Guide: Ultimate Holiday Destination】: Indulge in a Paradise Island Experience!](/blog/gili-islands-travel-guide/)
-- [All-Inclusive: Bali + Komodo Dragon Island, Four Nights of Light Luxury Stay/No Shopping/No Extra Fees/Five-Day Tour](/blog/bali-komodo-luxury-tour-2026/)
+- [【Bali - Complete Guide to Nusa Penida】Map, Boat, Accommodation, Transport, Activities, Photography, Attractions](/en/blog/nusa-penida-guide/)
+- [【Nusa Lembongan & Ceningan Guide】Exploring Attractions, Food, Transport: Bali's Nearby Paradise](/en/blog/nusa-lembongan-ceningan-guide/)
+- [【Gili Islands Guide: Ultimate Holiday Destination】: Indulge in a Paradise Island Experience!](/en/blog/gili-islands-travel-guide/)
+- [All-Inclusive: Bali + Komodo Dragon Island, Four Nights of Light Luxury Stay/No Shopping/No Extra Fees/Five-Day Tour](/en/blog/bali-komodo-luxury-tour-2026/)
 
 ### **Early Booking is Key**
 
-Due to the rapid increase in demand for boats and accommodations during peak season, it's advisable to book your tickets and stays several months in advance to avoid last-minute disappointments. Check out: [【Island Hopping Guide】How to Buy Speedboat Tickets from Bali to Nusa Penida/Nusa Lembongan/Gili Islands/Lombok? Where to Buy?](/blog/bali-island-hopping-guide/)
+Due to the rapid increase in demand for boats and accommodations during peak season, it's advisable to book your tickets and stays several months in advance to avoid last-minute disappointments. Check out: [【Island Hopping Guide】How to Buy Speedboat Tickets from Bali to Nusa Penida/Nusa Lembongan/Gili Islands/Lombok? Where to Buy?](/en/blog/bali-island-hopping-guide/)
 
 ***
 
@@ -105,13 +105,13 @@ These dates are usually when roads are most congested and ferry and flight ticke
 
 During peak season, fast boat tickets from **Sanur Port** to the outer islands often sell out. If you can't secure a ticket, consider departing from **Padang Bai Port** or **Serangan Port**. These ports are generally less crowded and offer smoother transportation.
 
-Additionally, if you wish to quickly navigate through congested areas, such as from **Canggu** to **Uluwatu**, you can opt for the GoBoat service, reducing a three-hour road trip to just 35 minutes. Check it out here: [Bali's Roads Are Jammed? Take to the Sea with GoBoat Transport!](/blog/bali-goboat-transport/)
+Additionally, if you wish to quickly navigate through congested areas, such as from **Canggu** to **Uluwatu**, you can opt for the GoBoat service, reducing a three-hour road trip to just 35 minutes. Check it out here: [Bali's Roads Are Jammed? Take to the Sea with GoBoat Transport!](/en/blog/bali-goboat-transport/)
 
 ***
 
 ## **Plan Ahead for a Smooth Trip**
 
-In Bali's peak tourist season, advance planning and flexibility are key to avoiding traffic congestion and enjoying a seamless holiday. However, the **Christmas-New Year holiday isn't even the busiest of Bali's five peak tourist seasons**! Curious about Bali's top five (best-to-avoid) peak travel seasons? Find out here: [Bali Actually Has Five Peak Tourist Seasons! How to Travel Smart and Avoid the Crowds](/blog/bali-peak-season-travel-tips/)
+In Bali's peak tourist season, advance planning and flexibility are key to avoiding traffic congestion and enjoying a seamless holiday. However, the **Christmas-New Year holiday isn't even the busiest of Bali's five peak tourist seasons**! Curious about Bali's top five (best-to-avoid) peak travel seasons? Find out here: [Bali Actually Has Five Peak Tourist Seasons! How to Travel Smart and Avoid the Crowds](/en/blog/bali-peak-season-travel-tips/)
 
 These practical tips are highly applicable during peak season! If you happen to visit Bali during this busy period, consider incorporating these suggestions into your travel plans to make your journey smoother and more enjoyable, ensuring your Bali holiday becomes a trip filled with wonderful memories!
 

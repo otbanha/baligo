@@ -30,7 +30,7 @@ Ini dia rekomendasi tempat wajib dikunjungi pas liburan di Uluwatu:
 
 ### Hidden Beach (📌[Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
-Di area ini banyak hidden beach yang susah ditemukan dari daratan — biasanya harus turun tebing dulu baru ketemu. Selain pantai-pantai populer yang udah terkenal, Bali masih menyimpan banyak hidden beach kecil yang menunggu dijelajahi. Ada enam rekomendasi hidden beach: '[Jelajahi Hidden Gem Bali: 6 Panduan Hidden Beach & Cara Cek Pasang Surut](/blog/bali-hidden-beaches-guide/)'
+Di area ini banyak hidden beach yang susah ditemukan dari daratan — biasanya harus turun tebing dulu baru ketemu. Selain pantai-pantai populer yang udah terkenal, Bali masih menyimpan banyak hidden beach kecil yang menunggu dijelajahi. Ada enam rekomendasi hidden beach: '[Jelajahi Hidden Gem Bali: 6 Panduan Hidden Beach & Cara Cek Pasang Surut](/id/blog/bali-hidden-beaches-guide/)'
 
 Ini tiga hidden beach yang udah dikunjungi Xiaojie:
 
@@ -64,13 +64,13 @@ Pura Uluwatu (Uluwatu Temple) adalah salah satu pura tepi laut paling terkenal d
 
 Satu hal yang perlu diingat: monyet-monyet di sini nakal banget! Barang yang kamu pegang, tas di punggung, kacamata atau sunglasses — hati-hati, bisa dicuri!
 
-Penjelasan lengkapnya bisa cek [Panduan Wisata Pura Uluwatu / Tebing Cinta: Highlights & Tips Penting](/blog/uluwatu-temple-travel-guide/)
+Penjelasan lengkapnya bisa cek [Panduan Wisata Pura Uluwatu / Tebing Cinta: Highlights & Tips Penting](/id/blog/uluwatu-temple-travel-guide/)
 
 ### Tari Kecak Api Kecak Fire Dance (📌[Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
 ![Tari Kecak Api Kecak Fire Dance (Peta Lokasi)](https://images.gobaligo.id/vocus/vocus_9bb712068745724f248cc567be7b531d.jpg)
 
-「Tari Kecak Api」 ini intinya menceritakan salah satu bagian dari epos Ramayana, yaitu pertarungan antara Raja Kera dan raksasa. Dengan api yang menyala-nyala dan kostum warna-warni, bikin mata terpana banget! Buat yang penasaran sama pertunjukan Hindu yang terkenal ini, bisa [klik di sini](/blog/kecak-fire-dance-bali/), kami udah pernah bahas detail. Pertunjukan ini hampir semua yang nonton bilang worth it banget!
+「Tari Kecak Api」 ini intinya menceritakan salah satu bagian dari epos Ramayana, yaitu pertarungan antara Raja Kera dan raksasa. Dengan api yang menyala-nyala dan kostum warna-warni, bikin mata terpana banget! Buat yang penasaran sama pertunjukan Hindu yang terkenal ini, bisa [klik di sini](/id/blog/kecak-fire-dance-bali/), kami udah pernah bahas detail. Pertunjukan ini hampir semua yang nonton bilang worth it banget!
 
 Buat kamu yang pengen nonton pertunjukan tari api, bisa cek paket wisata populer di Klook di bawah ini. Pesan tiket lewat Klook, dijamin gampang dan bisa nikmatin pertunjukan tari api yang spektakuler!
 
@@ -94,7 +94,7 @@ Tempat ini juga jadi lokasi favorit untuk foto prewedding, banyak pasangan yang 
 
 Gimana rasanya berdiri di atas tebing setinggi 162 meter?
 
-Oneeighty adalah bar dan klub kolam renang udara yang terletak 162 meter di atas permukaan Samudra Hindia. Tempat ini punya kolam renang di puncak tebing dengan dinding kaca yang unik. Kamu bisa menikmati pemandangan Samudra Hindia 180 derajat dari bagian kolam yang menjorok ke tebing. Cek info lengkap, rekomendasi spot foto, dan cara bayar di sini: [Eksplorasi Oneeighty Day Club: Keindahan Kolam Renang di Tebing Bali](/blog/oneeighty-dayclub-uluwatu-pool/)
+Oneeighty adalah bar dan klub kolam renang udara yang terletak 162 meter di atas permukaan Samudra Hindia. Tempat ini punya kolam renang di puncak tebing dengan dinding kaca yang unik. Kamu bisa menikmati pemandangan Samudra Hindia 180 derajat dari bagian kolam yang menjorok ke tebing. Cek info lengkap, rekomendasi spot foto, dan cara bayar di sini: [Eksplorasi Oneeighty Day Club: Keindahan Kolam Renang di Tebing Bali](/id/blog/oneeighty-dayclub-uluwatu-pool/)
 
 Video perkenalan Jie
 
@@ -239,7 +239,7 @@ Untuk lokasi toko-toko ini, cek "[Peta Panduan Uluwatu](https://www.google.com/m
 
 SUNDAZE ULUWATU MARKET ada di ujung selatan Bali, tepatnya di Hatch Bali Uluwatu. Setiap hari Minggu dari jam 11 pagi sampai 6 sore, tempat ini berubah jadi pasar yang super hidup. Kamu bisa dengerin musisi akustik keren yang main live, cobain BBQ enak dari vendor lokal — mau cari barang unik atau sekadar ngemil, pasar ini tempat pas buat santai dan ngumpul sama teman-teman. Bener-bener bikin vibe akhir pekan di Uluwatu makin asik dan santai!
 
-Baca juga: [【Edisi 2026】Empat Pasar Akhir Pekan di Bali yang Masih Jalan: Belanja Paling Lokal](/blog/bali-weekend-markets-2026/)
+Baca juga: [【Edisi 2026】Empat Pasar Akhir Pekan di Bali yang Masih Jalan: Belanja Paling Lokal](/id/blog/bali-weekend-markets-2026/)
 
 ***
 
@@ -332,7 +332,7 @@ Uluwatu adalah salah satu kawasan wisata paling populer di ujung selatan Bali. D
 
 Kalau kamu lagi cari penginapan yang nyaman, mewah, dan punya pemandangan laut tanpa batas, berikut 12 pilihan rekomendasi kami:
 
-> [Rekomendasi Penginapan Uluwatu: 14 Vila & Resort Pribadi dengan Pemandangan Laut](/blog/uluwatu-bali-villas-resorts-guide/)
+> [Rekomendasi Penginapan Uluwatu: 14 Vila & Resort Pribadi dengan Pemandangan Laut](/id/blog/uluwatu-bali-villas-resorts-guide/)
 
 ## Nikmati Resor Mewah (👉🏼 Peta: [Rekomendasi Penginapan Jimbaran](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing))
 
@@ -352,6 +352,6 @@ Layanan ini diantar langsung ke pintu hotel atau vila tempat kamu menginap, ada 
 
 Biar kamu makin paham lokasi tempat-tempat yang udah disebutin di atas, kami siapkan "[Peta Panduan Uluwatu](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing)" yang nandain semua posisi spot-spotnya. Kalau kamu mau jalan-jalan atau eksplor ke Uluwatu, jangan lupa simpan ya!
 
-Baca juga: [Panduan Bali: Kenali Wilayah Bali - Rekomendasi Penginapan di Bali: Mengenal Kuta, Seminyak, Canggu, Ubud](/blog/2023-12-29-65839fbafd89780001e876b5/)
+Baca juga: [Panduan Bali: Kenali Wilayah Bali - Rekomendasi Penginapan di Bali: Mengenal Kuta, Seminyak, Canggu, Ubud](/id/blog/2023-12-29-65839fbafd89780001e876b5/)
 
 {{block:攻略}}

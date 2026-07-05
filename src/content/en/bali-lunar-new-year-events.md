@@ -112,7 +112,7 @@ Many luxury resorts and restaurants in Bali are hosting vibrant celebrations, al
 - Date: From now until February 24, 2025
 - Event: Lunar New Year special menu
 - Price: IDR 400,000/person (excl. tax)
-- Contact: Please refer [here](/blog/mr-lobster-seafood-bali/)
+- Contact: Please refer [here](/en/blog/mr-lobster-seafood-bali/)
 
 ![Kuta / Legian](https://images.gobaligo.id/vocus/vocus_f0cbbe41bdf5a551a04e2873a8a52853.png)
 
@@ -233,7 +233,7 @@ The 2025 Lunar New Year celebrations in Bali beautifully blend Chinese tradition
 
 **Quick Reference:**
 
-[Bali Family Travel Guide for Lunar New Year: Comprehensive Guide to Spring Festival Flights, Visas, Transportation, Attractions, and Tips](/blog/2026-bali-lunar-new-year-guide/)]
+[Bali Family Travel Guide for Lunar New Year: Comprehensive Guide to Spring Festival Flights, Visas, Transportation, Attractions, and Tips](/en/blog/2026-bali-lunar-new-year-guide/)]
 
 ## 📩 **Join the "Bali Travel Guide" Now and Become a Bali Travel Expert!**
 

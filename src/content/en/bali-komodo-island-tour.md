@@ -82,13 +82,13 @@ Lastly, if you're looking for a carefree, culturally rich, and scenic trip to Ba
 - - WeChat: BettyPinkyWu
   - Line: @bettypinkywu
 
-### **Offering an all-inclusive five-day-four-night package, including direct flights from Taiwan to Bali, Bali to Komodo Island flights, four nights' accommodation, private car service for two throughout... and more: ⭐⭐**[**Bali + Komodo Dinosaur Island, Four Nights Luxury Stay/No Shopping/No Extra Fees/Five-Day Tour**](/blog/bali-komodo-luxury-tour-2026/)**⭐⭐**
+### **Offering an all-inclusive five-day-four-night package, including direct flights from Taiwan to Bali, Bali to Komodo Island flights, four nights' accommodation, private car service for two throughout... and more: ⭐⭐**[**Bali + Komodo Dinosaur Island, Four Nights Luxury Stay/No Shopping/No Extra Fees/Five-Day Tour**](/en/blog/bali-komodo-luxury-tour-2026/)**⭐⭐**
 
 ### "Bali + Komodo Island" Package Tour
 
 ![「峇里島+科摩多島」套裝行程](https://images.gobaligo.id/vocus/vocus_b44d6f245184aea60972fa03ca2e2331.png)
 
-["Bali + Komodo Island" Package Tour](/blog/bali-komodo-luxury-tour-2026/)
+["Bali + Komodo Island" Package Tour](/en/blog/bali-komodo-luxury-tour-2026/)
 
 Did you find Tyty Chow's itinerary exciting? Start planning your own Bali adventure now! We also welcome everyone to share your travel plans in our community!
 
@@ -96,4 +96,4 @@ Did you find Tyty Chow's itinerary exciting? Start planning your own Bali advent
 
 Click here to explore more amazing Bali travel stories
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to help make your travelogue stand out!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/en/blog/how-to-write-bali-travelogue/)" to help make your travelogue stand out!

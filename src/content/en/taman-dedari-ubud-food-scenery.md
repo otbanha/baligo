@@ -85,6 +85,6 @@ Taman Dedari is a unique destination that combines history, culture, art, and na
 
 ![More Ubud Dining and Entertainment Recommendations](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
-[Click here for the complete Ubud guide!](/blog/ubud-guide/)
+[Click here for the complete Ubud guide!](/en/blog/ubud-guide/)
 
-Ubud is the cultural and artistic heart of Bali, attracting countless travelers with its lush rice terraces, serene jungles, and rich traditional culture. Here, you'll find stunning temples, charming art markets, and a wealth of yoga and meditation experiences, making it an ideal place to unwind. Whether you're exploring local traditions, enjoying natural scenery, or engaging in exciting outdoor activities and unique dining experiences with breathtaking views, Ubud promises to leave you with unforgettable memories! Want to learn more about Ubud? [Click here](/blog/ubud-guide/).
+Ubud is the cultural and artistic heart of Bali, attracting countless travelers with its lush rice terraces, serene jungles, and rich traditional culture. Here, you'll find stunning temples, charming art markets, and a wealth of yoga and meditation experiences, making it an ideal place to unwind. Whether you're exploring local traditions, enjoying natural scenery, or engaging in exciting outdoor activities and unique dining experiences with breathtaking views, Ubud promises to leave you with unforgettable memories! Want to learn more about Ubud? [Click here](/en/blog/ubud-guide/).

@@ -25,7 +25,7 @@ lang: id
 _srcHash: 5a743ce5b393155c0d2afddcf56bb479
 ---
 
-**Setelah sukses besar dengan** [**Cretya Ubud**](/blog/cretya-ubud-alas-harum-budget-guide/) **yang menyajikan pemandangan sawah terasering Tegalalang, grup Alas Harum kembali meluncurkan karya terbaru—Cretya Sunset by Alas Harum, Ubud.** Klub siang dan restoran matahari terbenam baru di Ubud ini bakal kasih kamu pengalaman relaksasi dan pemandangan yang nggak ada duanya, jadi destinasi impian yang wajib kamu kunjungi saat eksplor Bali.
+**Setelah sukses besar dengan** [**Cretya Ubud**](/id/blog/cretya-ubud-alas-harum-budget-guide/) **yang menyajikan pemandangan sawah terasering Tegalalang, grup Alas Harum kembali meluncurkan karya terbaru—Cretya Sunset by Alas Harum, Ubud.** Klub siang dan restoran matahari terbenam baru di Ubud ini bakal kasih kamu pengalaman relaksasi dan pemandangan yang nggak ada duanya, jadi destinasi impian yang wajib kamu kunjungi saat eksplor Bali.
 
 ![【Ubud Kuliner + Pemandangan】Cretya Sunset, Hidden Gem Bali d](https://images.gobaligo.id/vocus/vocus_2c6d7325ae36ad648aca156f8c68e65b.jpg)
 
@@ -129,6 +129,6 @@ Cretya Sunset by Alas Harum, Ubud adalah destinasi sempurna yang menggabungkan k
 
 ![Lebih Banyak Rekomendasi Makan & Main di Ubud](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
-[Klik di sini untuk panduan lengkap Ubud!](/blog/ubud-guide/)
+[Klik di sini untuk panduan lengkap Ubud!](/id/blog/ubud-guide/)
 
-Ubud adalah pusat seni dan budaya Bali, dengan sawah terasering yang hijau, hutan yang tenang, dan tradisi yang kaya — bikin siapa pun betah. Ada pura yang keren, pasar seni yang menarik, dan banyak tempat yoga & meditasi buat relaksasi. Mau eksplor tradisi lokal, nikmatin alam, atau coba aktivitas seru outdoor plus makanan enak dengan pemandangan kece, Ubud punya semuanya. Mau tahu lebih banyak tips liburan ke Ubud? [Klik di sini](/blog/ubud-guide/).
+Ubud adalah pusat seni dan budaya Bali, dengan sawah terasering yang hijau, hutan yang tenang, dan tradisi yang kaya — bikin siapa pun betah. Ada pura yang keren, pasar seni yang menarik, dan banyak tempat yoga & meditasi buat relaksasi. Mau eksplor tradisi lokal, nikmatin alam, atau coba aktivitas seru outdoor plus makanan enak dengan pemandangan kece, Ubud punya semuanya. Mau tahu lebih banyak tips liburan ke Ubud? [Klik di sini](/id/blog/ubud-guide/).

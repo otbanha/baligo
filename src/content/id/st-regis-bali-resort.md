@@ -132,6 +132,6 @@ Service di sini nggak ada cacatnya, setiap staf ramah dan profesional. Kami sang
 
 **Nusa Dua adalah kawasan resor mewah terkenal di selatan Bali, dengan suasana tenang, pasir putih, dan pengalaman mewah kelas dunia.** Kalau kamu lagi cari resor bintang lima yang mewah, Nusa Dua punya banyak pilihan top, mulai dari pantai pribadi eksklusif sampai restoran dan spa yang oke punya.
 
-👉 **Mau eksplor lebih banyak akomodasi top di Nusa Dua?** [**Klik di sini**](/blog/nusa-dua-resorts-guide/)**!**
+👉 **Mau eksplor lebih banyak akomodasi top di Nusa Dua?** [**Klik di sini**](/id/blog/nusa-dua-resorts-guide/)**!**
 
 ** BLOCK0 **

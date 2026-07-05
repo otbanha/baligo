@@ -47,16 +47,16 @@ The shuttle service can transport up to 800 visitors daily between the parking l
 
 The management team of Pandawa Beach is also rapidly adjusting their management approach to cope with the increasing number of visitors. For instance, during this year's Eid al-Fitr, Pandawa Beach saw daily visitor numbers ranging from 2,500 to 3,000, posing a significant challenge for the management.
 
-> Further reading: [Bali Actually Has Five Peak Tourist Seasons! How to Travel Smartly and Avoid the Crowds?](/blog/bali-peak-season-travel-tips/)
+> Further reading: [Bali Actually Has Five Peak Tourist Seasons! How to Travel Smartly and Avoid the Crowds?](/en/blog/bali-peak-season-travel-tips/)
 
 Local leaders are also considering new zoning plans, aiming to divide the beach into several specialized areas. These include a public beach zone, a water sports zone, a beach club zone, a dining zone, and a private beach area reserved for private events such as weddings and proposals.
 
-Pandawa Beach is located between Green Bowl Beach (check out [Xiao Jie's Indonesia introduction](https://youtu.be/8mzJm_UrjSg)) and Pantai Gunung Payung. If you're looking for a couple more nearby attractions, take a look at our [Uluwatu Guide: 47 Recommendations for Food, Fun, and Activities](/blog/uluwatu-guide/).
+Pandawa Beach is located between Green Bowl Beach (check out [Xiao Jie's Indonesia introduction](https://youtu.be/8mzJm_UrjSg)) and Pantai Gunung Payung. If you're looking for a couple more nearby attractions, take a look at our [Uluwatu Guide: 47 Recommendations for Food, Fun, and Activities](/en/blog/uluwatu-guide/).
 
 Tanah Barak and Pandawa Beach are actually closer to the two resort areas of Nusa Dua or Sanur on the southeastern coast of Bali. You can refer to our guides below for food, fun, and accommodation:
 
-- [Nusa Dua Guide](/blog/nusa-dua-guide/)
-- [Sanur Guide](/blog/sanur-guide/)
+- [Nusa Dua Guide](/en/blog/nusa-dua-guide/)
+- [Sanur Guide](/en/blog/sanur-guide/)
 
 ## Klook Day Tour:
 
@@ -68,7 +68,7 @@ Explore South Bali in a VW convertible! Stops include Padang Padang and Pandawa 
 
 ## Travel Experience:
 
-2024/06 We had lunch at [Icon Bali](/blog/icon-bali-shopping-mall-sanur/) and then took a private car from Sanur to Tanah Barak in the afternoon. In the evening, we visited the nearby White Sand Beach Club. We found this leisurely half-day itinerary to be excellent and recommend it to everyone.
+2024/06 We had lunch at [Icon Bali](/en/blog/icon-bali-shopping-mall-sanur/) and then took a private car from Sanur to Tanah Barak in the afternoon. In the evening, we visited the nearby White Sand Beach Club. We found this leisurely half-day itinerary to be excellent and recommend it to everyone.
 
 ![2023/06 Tanah Barak](https://images.gobaligo.id/vocus/vocus_9ceecc2ebeccbe53dbbd9d37872c50c3.jpg)
 

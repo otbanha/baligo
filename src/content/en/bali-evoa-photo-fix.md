@@ -22,7 +22,7 @@ Update: 2026/07/03
 
 **Bottom line**: If your eVisa passport photo fails to upload, 90% of the time it's because the file is over 2MB—most phone photos these days exceed that. The quickest fix: send the photo via **LINE to a friend and have them send it back**. The messaging app will automatically compress it to a few hundred KB without losing quality, making it upload-ready. Official photo requirements: JPEG/JPG/PNG color photo, minimum 400×600 pixels, file under 2MB, and a clean composition (a selfie against a plain wall works fine).
 
-Traveling to Indonesia or Bali requires a visa. There are two ways to apply, and you can compare them here: [Bali Travel Visa Guide: Visa on Arrival vs. eVisa – Which One Suits You?](/blog/bali-visa-landing-vs-electronic/)
+Traveling to Indonesia or Bali requires a visa. There are two ways to apply, and you can compare them here: [Bali Travel Visa Guide: Visa on Arrival vs. eVisa – Which One Suits You?](/en/blog/bali-visa-landing-vs-electronic/)
 
 ## Applying for the eVisa (eVoA) to enter Indonesia/Bali comes with plenty of perks!
 
@@ -71,6 +71,6 @@ If you've followed our instructions but still can't proceed to the next step, pl
 
 ## Further Reading
 
-> [Indonesia/Bali eVisa (eVoa) Complete Guide: Application Steps, Tips & Everything You Need to Know](/blog/bali-evisa-application-guide/)
+> [Indonesia/Bali eVisa (eVoa) Complete Guide: Application Steps, Tips & Everything You Need to Know](/en/blog/bali-evisa-application-guide/)
 
-> [Fast & Convenient! 2024 Bali Auto-Gate Process & Customs Clearance Guide](/blog/2025-bali-automatic-customs/)
+> [Fast & Convenient! 2024 Bali Auto-Gate Process & Customs Clearance Guide](/en/blog/2025-bali-automatic-customs/)

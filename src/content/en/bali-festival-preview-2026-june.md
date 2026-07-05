@@ -41,7 +41,7 @@ These ten days mark a sacred time when Balinese Hindus celebrate the victory of 
 
 **Travel Tips:** Schools will be closed for two weeks, and many public transport services and private drivers will be on holiday. Travelers planning a visit should **arrange transportation and book drivers well in advance** to avoid last-minute difficulties.
 
-For a complete guide to Bali's 2026 festival dates, check out: [2026 Bali Festival Guide](/blog/2026-bali-festival-guide/)
+For a complete guide to Bali's 2026 festival dates, check out: [2026 Bali Festival Guide](/en/blog/2026-bali-festival-guide/)
 
 ## The Oldest Arts Festival (June 13–July 11): A Grand Showcase of Century-Old Cultural Heritage
 
@@ -77,4 +77,4 @@ Entering the peak season of July and August, Bali welcomes two internationally a
 
 June through August in Bali is a vibrant period where festivals and peak season intertwine. If you're planning a trip, it's recommended to arrange your itinerary and accommodation three to six months in advance to make the most of this prime time to experience Bali's purest cultural charm.
 
-For more details on Bali's 2026 festivals, please refer to: [2026 Bali Festival Complete Guide](/blog/2026-bali-festival-guide/)
+For more details on Bali's 2026 festivals, please refer to: [2026 Bali Festival Complete Guide](/en/blog/2026-bali-festival-guide/)

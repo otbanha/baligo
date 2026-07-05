@@ -83,7 +83,7 @@ After watching the Varuna Show, we also enjoyed the activities included in the P
 
 > ▶ Purchase [Day Varuna Premium Package](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)
 
-**Quick Reference:** [【Bali Family Travel Destination Marine Park】Marine Safari Bali Guide](/blog/marine-safari-bali-guide/)
+**Quick Reference:** [【Bali Family Travel Destination Marine Park】Marine Safari Bali Guide](/en/blog/marine-safari-bali-guide/)
 
 ## 💡 Practical Tips
 
@@ -103,7 +103,7 @@ The Varuna Show perfectly blends theatrical art with marine themes, creating a u
 > ▶Purchase [Day Varuna Premium Package](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)
 
 **Quick Reference:**
-[Bali Safari Night Stay: A Must-Do for Family Trips to Bali](/blog/bali-safari-night-stay/)
+[Bali Safari Night Stay: A Must-Do for Family Trips to Bali](/en/blog/bali-safari-night-stay/)
 
 {{block:ubud}}
 

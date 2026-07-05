@@ -34,7 +34,7 @@ Additionally, it's worth mentioning that rainfall probability varies between nor
 
 ![Bali Rainy Season Analysis - Experiencing the Wet Season in ](https://images.gobaligo.id/vocus/vocus_482eb8e3cecbce3092b2dd1454b68823.png)
 
-> Further Reading: [What to Do on Rainy Days in Bali? 60 Alternative Activities for Southern Bali](/blog/2026-bali-indoor-activities/)
+> Further Reading: [What to Do on Rainy Days in Bali? 60 Alternative Activities for Southern Bali](/en/blog/2026-bali-indoor-activities/)
 
 Overall, even during the rainy season, southern Bali remains a charming travel destination. With proper preparation - bringing rain gear or relaxing in a luxury resort or villa - you can fully enjoy the unique seasonal charm. Perhaps a brief tropical shower might even add some unforgettable memories to your trip!
 

@@ -32,20 +32,20 @@ Update: 2026/07/03
 參考我哋嘅玩樂攻略，將交通/塞車時間降到最低，你嘅峇里島之旅，硬係玩得比人多，比人充實㗎！！
 
 1. 先根據我哋嘅建議，揀住宿/活動嘅區域
-2. 若果你對各個區域唔係好熟，可以參考[呢度嘅解說](/blog/2023-12-29-65839fbafd89780001e876b5/)
+2. 若果你對各個區域唔係好熟，可以參考[呢度嘅解說](/zh-hk/blog/2023-12-29-65839fbafd89780001e876b5/)
 3. 遇到有【方案一】、【方案二】嘅選擇，可以揀一個方案；或者「細路仔先做選擇，我全都要」！
 4. 喺揀好嘅區域參考我哋提供嘅攻略，攻略入面都有詳細地圖，幫你搵到有興趣嘅景點
 5. 預訂攻略入面嘅景點行程票券
-6. [善用App叫車](/blog/gojek-bali-guide/)，輕鬆喺區域內玩
+6. [善用App叫車](/zh-hk/blog/gojek-bali-guide/)，輕鬆喺區域內玩
 7. 山區或跨區嘅日子聯絡包車司機載你沿路四圍玩
 
-> 延伸閱讀：[峇里島包車自由行全攻略 - 費用、預訂方式、優勢分析](/blog/bali-private-car-hire-guide/)
+> 延伸閱讀：[峇里島包車自由行全攻略 - 費用、預訂方式、優勢分析](/zh-hk/blog/bali-private-car-hire-guide/)
 
-> 延伸閱讀：[峇里島旅遊中文司機/中文導遊/中文包車行程推薦](/blog/bali-chinese-tour-guide/)
+> 延伸閱讀：[峇里島旅遊中文司機/中文導遊/中文包車行程推薦](/zh-hk/blog/bali-chinese-tour-guide/)
 
-> 延伸閱讀：[峇里島幾時包車？咩場合叫車？包車 vs. 叫車：點樣揀最啱你嘅旅行方式？](/blog/bali-transportation-guide-car-rental/)
+> 延伸閱讀：[峇里島幾時包車？咩場合叫車？包車 vs. 叫車：點樣揀最啱你嘅旅行方式？](/zh-hk/blog/bali-transportation-guide-car-rental/)
 
-如果你係第一次嚟峇里島，你可以先睇吓「[峇里島旅遊注意事項：第一次去峇里島必睇嘅31項旅遊攻略](/blog/bali-ultimate-guide-2026/)」。呢份攻略可以幫你規劃一次完美嘅峇里島之旅！
+如果你係第一次嚟峇里島，你可以先睇吓「[峇里島旅遊注意事項：第一次去峇里島必睇嘅31項旅遊攻略](/zh-hk/blog/bali-ultimate-guide-2026/)」。呢份攻略可以幫你規劃一次完美嘅峇里島之旅！
 
 ![峇里島熱門旅遊區域地圖，歡迎取用，【點此下載】](https://images.gobaligo.id/vocus/vocus_1d33298e43fb9fae8a74cdcbf67c0cb1.png)
 
@@ -59,45 +59,45 @@ Update: 2026/07/03
 
 - 離機場大約40至60分鐘嘅水明漾地區。呢度係峇里島嘅時尚同高級區域。
 - 入住Seminyak嘅時尚酒店或私人別墅，享受奢華嘅住宿體驗。
-- 探索Seminyak嘅時尚精品店同高級餐廳，品嚐[本地唔可以錯過嘅傳統美食](/blog/bali-top-10-foods/)同世界各地嘅美食。
+- 探索Seminyak嘅時尚精品店同高級餐廳，品嚐[本地唔可以錯過嘅傳統美食](/zh-hk/blog/bali-top-10-foods/)同世界各地嘅美食。
 - 去Seminyak海灘，欣賞日落美景，呢度係峇里島最出名嘅觀日落地點之一。
 - 想睇吓水明漾嘅樣 >>[請參考小傑視頻嘅介紹](https://youtu.be/uFv_4Wr6YsI?si=EBJL09xoRoIQJfyD&t=181)
 
 ![水明漾景點、餐廳、住宿推薦](https://images.gobaligo.id/vocus/vocus_8f508d63f2f8c7b20d561c92e7cdb801.jpg)
 
-[水明漾景點、餐廳、住宿推薦](/blog/seminyak-guide/)
+[水明漾景點、餐廳、住宿推薦](/zh-hk/blog/seminyak-guide/)
 
-水明漾有咩有趣嘅景點？點樣行？去邊度食飯？住喺邊？請睇：[水明漾Seminyak峇里島必去地點地圖：100個吃喝玩樂全面介紹｜2025最佳旅遊指南](/blog/seminyak-guide/)
+水明漾有咩有趣嘅景點？點樣行？去邊度食飯？住喺邊？請睇：[水明漾Seminyak峇里島必去地點地圖：100個吃喝玩樂全面介紹｜2025最佳旅遊指南](/zh-hk/blog/seminyak-guide/)
 
 搵住宿：
 
-[> [10間水明漾精華區平價住宿好評推薦！](/blog/seminyak-budget-hotels-guide/)
+[> [10間水明漾精華區平價住宿好評推薦！](/zh-hk/blog/seminyak-budget-hotels-guide/)
 
-> [水明漾嘅濱海精緻主題住宿指南](/blog/seminyak-beach-resorts-guide/)
+> [水明漾嘅濱海精緻主題住宿指南](/zh-hk/blog/seminyak-beach-resorts-guide/)
 
-> [【水明漾】唔超過100蚊美金嘅平價峇里島villa推薦](/blog/seminyak-budget-villas-guide/)
+> [【水明漾】唔超過100蚊美金嘅平價峇里島villa推薦](/zh-hk/blog/seminyak-budget-villas-guide/)
 
-> [水明漾villa 21間令人驚艷嘅峇里島祕密花園](/blog/2024-04-04-660e6e92fd89780001e6047e/)
+> [水明漾villa 21間令人驚艷嘅峇里島祕密花園](/zh-hk/blog/2024-04-04-660e6e92fd89780001e6047e/)
 
 ### 方案二：坎古
 
 - 從機場到坎古需要50～70分鐘。而家Jl. Pantai Berawa兩個T字路口嘅交通死結已經解開，新加入咗【New Canggu Shortcut】，塞車情況已經有啲改善。
 - 穿梭喺呢個峇里島上最多外國人嘅地方。坎古地區融合咗異國風情同峇里島嘅傳統，帶畀你獨特嘅旅行體驗。
 - 你可以探索多個各有特色嘅海灘俱樂部，感受陽光沙灘同海浪嘅美妙結合。無論係悠閒咁享受日光浴定係挑戰刺激嘅衝浪，坎古嘅海灘都能滿足你嘅需求。
-- 坎古地區仲有好多波西米亞風情嘅餐廳，提供各種口味嘅美食，從地道嘅[峇里島料理](/blog/bali-top-10-foods/)到國際美食應有盡有。盡情享受美食之旅。
+- 坎古地區仲有好多波西米亞風情嘅餐廳，提供各種口味嘅美食，從地道嘅[峇里島料理](/zh-hk/blog/bali-top-10-foods/)到國際美食應有盡有。盡情享受美食之旅。
 - 坎古獨特風格吸引世界遊客。想睇下坎古景點嘅樣 >>[請參考小傑視頻嘅介紹](https://youtu.be/uFv_4Wr6YsI?si=JqgwwyGqWFL2BQgD&t=318)
 
 ![很多人很喜歡長谷的氛圍，不要錯過峇里島上的這一個特殊地方](https://images.gobaligo.id/vocus/vocus_ec95b2ef12d730465f3dfa13b07341f6.jpg)
 
-[好多人好鍾意坎古嘅氛圍，唔好錯過峇里島上呢個特別地方](/blog/canggu-guide/)
+[好多人好鍾意坎古嘅氛圍，唔好錯過峇里島上呢個特別地方](/zh-hk/blog/canggu-guide/)
 
-坎古有咩必訪景點？美食/咖啡廳嘅介紹？購物嘅好地點推薦？去邊度做SPA？點樣喺坎古玩兩日？請睇：[峇里島Canggu完美探險地圖：50個坎古必遊景點｜2024指南](/blog/canggu-guide/)
+坎古有咩必訪景點？美食/咖啡廳嘅介紹？購物嘅好地點推薦？去邊度做SPA？點樣喺坎古玩兩日？請睇：[峇里島Canggu完美探險地圖：50個坎古必遊景點｜2024指南](/zh-hk/blog/canggu-guide/)
 
 搵住宿：
 
-> [Canggu Top 14 你不能錯過嘅住宿推薦](/blog/canggu-top-hotels-guide/)
+> [Canggu Top 14 你不能錯過嘅住宿推薦](/zh-hk/blog/canggu-top-hotels-guide/)
 
-[> 【長谷區16間私人泳池別墅推薦 Canggu Villa 你唔可以錯過嘅峇里島別墅】](/blog/canggu-villas-guide/)
+[> 【長谷區16間私人泳池別墅推薦 Canggu Villa 你唔可以錯過嘅峇里島別墅】](/zh-hk/blog/canggu-villas-guide/)
 
 ## 第三日至第四日：沙努爾（Sanur）或佩尼達島（Nusa Penida）
 
@@ -115,11 +115,11 @@ Update: 2026/07/03
 
 ![適合家庭度假的沙努爾攻略](https://images.gobaligo.id/vocus/vocus_f70927bb4b24c69685305c623a8b4f7e.jpg)
 
-[適合家庭度假嘅沙努爾攻略](/blog/sanur-guide/)
+[適合家庭度假嘅沙努爾攻略](/zh-hk/blog/sanur-guide/)
 
 沙努爾係一個超適合家庭親子度假嘅勝地，最啱爸爸媽媽悠閒帶住細路，小朋友有得玩、爸媽又輕鬆到嘅峇里島瑰寶。
 
-想了解沙努爾嘅吃喝玩樂、湊仔攻略，請參考【[峇里島沙努爾攻略地圖｜45項吃喝玩樂，仲有SPA同住宿推薦㗎！](/blog/sanur-guide/)】等大家認識沙努爾嘅全貌啦！
+想了解沙努爾嘅吃喝玩樂、湊仔攻略，請參考【[峇里島沙努爾攻略地圖｜45項吃喝玩樂，仲有SPA同住宿推薦㗎！](/zh-hk/blog/sanur-guide/)】等大家認識沙努爾嘅全貌啦！
 
 ### 方案二：佩尼達島
 
@@ -130,25 +130,25 @@ Update: 2026/07/03
 
 ![【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](https://images.gobaligo.id/vocus/vocus_7be3a947a82ef5a92081381623d0f4d8.jpg)
 
-[【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/nusa-penida-guide/)
+[【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/zh-hk/blog/nusa-penida-guide/)
 
 我哋已經拍咗五集佩尼達島攻略㗎！睇下面條link深入了解：
 
-> [【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/nusa-penida-guide/)
+> [【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/zh-hk/blog/nusa-penida-guide/)
 
-> [佩尼達島美食同碧海藍天：Nusa Penida嘅Top 9絕佳選擇](/blog/nusa-penida-best-restaurants/)
+> [佩尼達島美食同碧海藍天：Nusa Penida嘅Top 9絕佳選擇](/zh-hk/blog/nusa-penida-best-restaurants/)
 
-> [Nusa Penida 努沙佩尼達島嘅浮潛點介紹，點樣參加浮潛？](/blog/nusa-penida-snorkeling-guide/)
+> [Nusa Penida 努沙佩尼達島嘅浮潛點介紹，點樣參加浮潛？](/zh-hk/blog/nusa-penida-snorkeling-guide/)
 
-> [Nusa Penida佩尼達島的士、Gojek/Grab、包車、電單車交通攻略](/blog/nusa-penida-transport-guide/)
+> [Nusa Penida佩尼達島的士、Gojek/Grab、包車、電單車交通攻略](/zh-hk/blog/nusa-penida-transport-guide/)
 
-> [佩尼達島嘅住宿推薦：13間由奢華到平價嘅Nusa Penida好評住宿](/blog/nusa-penida-hotels-guide/)
+> [佩尼達島嘅住宿推薦：13間由奢華到平價嘅Nusa Penida好評住宿](/zh-hk/blog/nusa-penida-hotels-guide/)
 
 ## **第五日至第六日：烏布 (Ubud)**
 
 距離沙努爾大約一個鐘車程，嚟到峇里島最有名嘅山城烏布。
 
-- 去烏布之前可以兜一兜，去「[峇里島最大嘅藝術批發市場](/blog/kumbasari-art-market-shopping/)」行吓。
+- 去烏布之前可以兜一兜，去「[峇里島最大嘅藝術批發市場](/zh-hk/blog/kumbasari-art-market-shopping/)」行吓。
 - 烏布係峇里島以前王國嘅首都，呢度係峇里島文化同藝術嘅中心。
 - 烏布係峇里島最有特色人文藝術氣息嘅地方。
 - 入住烏布嘅度假別墅或精品酒店，感受烏布獨特嘅氛圍同風情。
@@ -160,17 +160,17 @@ Update: 2026/07/03
 
 【冇【方案二】！烏布係你一定要嚟嘅地方！】(/blog/ubud-guide/)
 
-烏布有咩特別？有咩特色景點？參加烏布嘅泛舟/漂流河/ATV等活動？參加當地一日遊？請睇：[2026峇里島烏布完整攻略：100種深入認識烏布嘅方式｜探索烏布嘅魅力](/blog/ubud-guide/)
+烏布有咩特別？有咩特色景點？參加烏布嘅泛舟/漂流河/ATV等活動？參加當地一日遊？請睇：[2026峇里島烏布完整攻略：100種深入認識烏布嘅方式｜探索烏布嘅魅力](/zh-hk/blog/ubud-guide/)
 
-另外，帶小朋友親子遊嘅人唔好錯過：[烏布53項親子活動帶小朋友最輕鬆！](/blog/ubud-with-kids-guide/)
+另外，帶小朋友親子遊嘅人唔好錯過：[烏布53項親子活動帶小朋友最輕鬆！](/zh-hk/blog/ubud-with-kids-guide/)
 
 **搵住宿：**
 
 > 烏布嘅住宿推薦請睇：
 
-- [【峇里島烏布住宿】烏布30+家特色住宿，體驗峇里島山林美景中嘅奇幻之旅！](/blog/ubud-villas-pool-guide/)
-- [探索烏布10+家令人嘆為觀止嘅樹屋/竹屋別墅 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)
-- [烏布20+令人驚艷嘅峇里島villa](/blog/ubud-villa-pool-guide/)
+- [【峇里島烏布住宿】烏布30+家特色住宿，體驗峇里島山林美景中嘅奇幻之旅！](/zh-hk/blog/ubud-villas-pool-guide/)
+- [探索烏布10+家令人嘆為觀止嘅樹屋/竹屋別墅 tree house/bamboo villa](/zh-hk/blog/ubud-treehouse-bamboo-villa-stays/)
+- [烏布20+令人驚艷嘅峇里島villa](/zh-hk/blog/ubud-villa-pool-guide/)
 
 ## **第七日至第八日：庫塔（Kuta）或金巴蘭（Jimbaran）**
 
@@ -180,42 +180,42 @@ Update: 2026/07/03
 
 - 庫塔區係峇里島最繁華嘅商業區之一，有各式各樣嘅商店、市集同購物中心。你喺度可以買到峇里島嘅精美藝品、衫、珠寶首飾等各類商品。
 - Kuta海灘係峇里島最出名嘅海灘之一，以金黃色嘅細沙同壯觀嘅海浪聞名。呢度係衝浪者嘅天堂，亦係遊客享受日光浴同睇日落嘅絕佳地點。
-- 庫塔區提供各式各樣嘅美食選擇，由[當地傳統菜餚](/blog/bali-top-10-foods/)到國際美食應有盡有。你可以品嚐到來自世界各地嘅美味佳餚，滿足你嘅味蕾。
+- 庫塔區提供各式各樣嘅美食選擇，由[當地傳統菜餚](/zh-hk/blog/bali-top-10-foods/)到國際美食應有盡有。你可以品嚐到來自世界各地嘅美味佳餚，滿足你嘅味蕾。
 - 庫塔區嘅夜生活非常活躍，有好多酒吧、夜店同娛樂場所。夜幕降臨後，你可以喺度盡情享受峇里島嘅熱情派對文化。
 - 喺Kuta海灘，你可以參加衝浪水上活動，呢度係全世界出名適合衝浪初學者嘅海灘。[小傑第一次衝浪嘅視頻](https://youtu.be/gECdNvG16ww)。
 - 想睇下庫塔嘅樣 >>[請參考小傑視頻嘅介紹](https://youtu.be/uFv_4Wr6YsI?si=gJSxh9PhSjIcRzGG&t=53)
 
 ![庫塔全部有趣的景點我們都收集在這兒！](https://images.gobaligo.id/vocus/vocus_b2ca70ea8dcf02a0f9bbf8b334cca856.jpg)
 
-[庫塔全部好玩嘅景點我哋都收集晒喺呢度！](/blog/2023-12-13-657598bdfd8978000120fe20/)
+[庫塔全部好玩嘅景點我哋都收集晒喺呢度！](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)
 
-喺庫塔吃喝玩樂嘅極樂攻略就喺：[峇里島庫塔旅遊攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集](/blog/2023-12-13-657598bdfd8978000120fe20/)
+喺庫塔吃喝玩樂嘅極樂攻略就喺：[峇里島庫塔旅遊攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 ### 方案二：金巴蘭
 
 - 金巴蘭以佢出名嘅海灘燒烤聞名，你可以喺沙灘上歎住新鮮海鮮同其他美食，同時睇住日落嘅靚景，真係一個浪漫又寫意嘅用餐體驗。
 - 金巴蘭以佢壯麗嘅日落景色聞名，你可以喺沙灘或者餐廳度欣賞日落時分嘅靚景，呢度係一個超正嘅影相同睇日落嘅地方。
 - 金巴蘭有好多豪華度假村同酒店，提供一流嘅住宿設施同服務。你可以喺呢度享受無憂無慮嘅度假時光，沉浸喺豪華舒適嘅環境入面。
-- 如果仲有時間，可以穿插更南邊烏魯瓦圖嘅 [6個峇里島秘境沙灘](/blog/bali-hidden-beaches-guide/)，或者去[Oneeighty Day Club：峇里島懸崖邊嘅游泳池極致美景](/blog/oneeighty-dayclub-uluwatu-pool/)
+- 如果仲有時間，可以穿插更南邊烏魯瓦圖嘅 [6個峇里島秘境沙灘](/zh-hk/blog/bali-hidden-beaches-guide/)，或者去[Oneeighty Day Club：峇里島懸崖邊嘅游泳池極致美景](/zh-hk/blog/oneeighty-dayclub-uluwatu-pool/)
 - 睇吓金巴蘭嘅樣>>[請參考小傑視頻嘅介紹](https://www.youtube.com/watch?v=2rvFv04KpAA)
 
 ![金巴蘭的景點足夠你玩樂好幾天！](https://images.gobaligo.id/vocus/vocus_8bcfeaa4ee28576b942edcad435880ab.jpg)
 
-[金巴蘭嘅景點夠你玩足幾日！](/blog/jimbaran-guide/)
+[金巴蘭嘅景點夠你玩足幾日！](/zh-hk/blog/jimbaran-guide/)
 
-金巴蘭有咩景點？有咩推薦/唔呃錢嘅海鮮餐廳？有咩度假酒店推薦？請睇：[峇里島金巴蘭自由行：推薦30個玩樂景點全攻略｜2026旅遊指南](/blog/jimbaran-guide/)
+金巴蘭有咩景點？有咩推薦/唔呃錢嘅海鮮餐廳？有咩度假酒店推薦？請睇：[峇里島金巴蘭自由行：推薦30個玩樂景點全攻略｜2026旅遊指南](/zh-hk/blog/jimbaran-guide/)
 
 搵住宿：
 
-> [【峇里島阿雅娜】Ayana Bali 住宿懶人包》](/blog/ayana-resort-bali-guide/)
+> [【峇里島阿雅娜】Ayana Bali 住宿懶人包》](/zh-hk/blog/ayana-resort-bali-guide/)
 
-> [峇里島住宿推薦：無敵海景金巴蘭住宿篇](/blog/2023-11-09-654c6271fd8978000174ff5e/)
+> [峇里島住宿推薦：無敵海景金巴蘭住宿篇](/zh-hk/blog/2023-11-09-654c6271fd8978000174ff5e/)
 
 ## 唔好唔記得手信！
 
 揀喺庫塔或者金巴蘭度過旅程嘅最後時光，唔單止因為交通方便、近機場，仲因為呢兩個地方有峇里島最多嘅手信專門店。呢個係一個好大嘅優勢，令你可以輕鬆揀到各種精美嘅峇里島手信同紀念品，為親朋戚友帶返獨特又珍貴嘅禮物。撳以下連結，了解更多關於呢啲特色商品嘅詳細資訊：
 
-> [【網友推薦】六大種類，超過20項峇里島手信推薦指南：留住珍貴回憶嘅絕佳選擇](/blog/bali-souvenirs-gift-guide/)
+> [【網友推薦】六大種類，超過20項峇里島手信推薦指南：留住珍貴回憶嘅絕佳選擇](/zh-hk/blog/bali-souvenirs-gift-guide/)
 
 ## 千祈唔好 vs 就要
 
@@ -230,7 +230,7 @@ Update: 2026/07/03
 
 咁樣安排會將跨區嘅車程控制喺一個鐘頭內，避免浪費寶貴嘅美好旅遊時光！
 
-如果你係第一次去峇里島，建議參考吓「[峇里島旅遊注意事項：第一次去峇里島必睇嘅31項旅遊攻略](/blog/bali-ultimate-guide-2026/)」。
+如果你係第一次去峇里島，建議參考吓「[峇里島旅遊注意事項：第一次去峇里島必睇嘅31項旅遊攻略](/zh-hk/blog/bali-ultimate-guide-2026/)」。
 
 最後，呢份攻略俾你做個參考，你可以根據自己嘅喜好同需要調整，或者喺我哋嘅區域攻略入面，搵到你想去嘅景點盡情玩，唔使舟車勞頓。
 

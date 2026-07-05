@@ -87,11 +87,11 @@ Tapi kalau kamu punya akses lain (misalnya toko Indonesia di Taiwan), boleh juga
 
 Referensi cepat:
 
-> [Panduan Lengkap Tukar Uang di Bali: Pakai uang apa? Cara tukar paling untung? Di mana tempat terbaik?](/blog/bali-currency-exchange-guide/)
+> [Panduan Lengkap Tukar Uang di Bali: Pakai uang apa? Cara tukar paling untung? Di mana tempat terbaik?](/id/blog/bali-currency-exchange-guide/)
 
 **Referensi Cepat:**
 
-- [Kurs Dolar di Bali: Lebih Untung Bawa Pecahan Besar atau Kecil? Panduan Lengkap!](/blog/bali-usd-exchange-rate/)
-- [Kisah Nyata Kena Tipu Tukar Uang di Bali: Pengalaman Langsung Teman, Jangan Serakah!](/blog/bali-money-exchange-scams-2/)
+- [Kurs Dolar di Bali: Lebih Untung Bawa Pecahan Besar atau Kecil? Panduan Lengkap!](/id/blog/bali-usd-exchange-rate/)
+- [Kisah Nyata Kena Tipu Tukar Uang di Bali: Pengalaman Langsung Teman, Jangan Serakah!](/id/blog/bali-money-exchange-scams-2/)
 
 ---

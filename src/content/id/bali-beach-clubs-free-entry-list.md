@@ -45,9 +45,9 @@ Tapi dengan banyaknya pilihan, pasti bingung milihnya. Makanya, aku udah siapin 
 
 ![水明漾攻略](https://images.gobaligo.id/vocus/vocus_69da4a058e0bb55e0fb1761369904f12.png)
 
-[Panduan Seminyak](/blog/seminyak-guide/)
+[Panduan Seminyak](/id/blog/seminyak-guide/)
 
-Seminyak nggak cuma terkenal sama beach club-nya yang kece, tapi juga nightlife yang seru dan pengalaman belanja yang stylish — banyak restoran, kafe, dan dekorasi rumah berkualitas. Kalau kamu mau eksplorasi lebih dalam soal tempat makan dan main di Seminyak, jangan sampai kelewatan panduan lengkap kami: "[60 Cara Seru Makan & Main di Seminyak](/blog/seminyak-guide/)". Panduan ini bakal bawa kamu keliling setiap sudut Seminyak, dari hidden gem kuliner sampai aktivitas seru yang nggak boleh kamu lewatkan, biar kamu bisa menikmati surga tropis yang penuh energi ini.
+Seminyak nggak cuma terkenal sama beach club-nya yang kece, tapi juga nightlife yang seru dan pengalaman belanja yang stylish — banyak restoran, kafe, dan dekorasi rumah berkualitas. Kalau kamu mau eksplorasi lebih dalam soal tempat makan dan main di Seminyak, jangan sampai kelewatan panduan lengkap kami: "[60 Cara Seru Makan & Main di Seminyak](/id/blog/seminyak-guide/)". Panduan ini bakal bawa kamu keliling setiap sudut Seminyak, dari hidden gem kuliner sampai aktivitas seru yang nggak boleh kamu lewatkan, biar kamu bisa menikmati surga tropis yang penuh energi ini.
 
 Yuk, kita mulai bahas tujuh beach club di Seminyak yang wajib banget kamu coba:
 
@@ -77,7 +77,7 @@ Menu di Ku De Ta menyajikan berbagai hidangan modern Eropa dan Asia, semua bahan
 - **Range harga menu**: main course mulai Rp150.000 (sekitar USD$5); minuman mulai Rp85.000 (sekitar USD$3)
 - **Alamat**: Jl. Kayu Aya No.9, Seminyak, Kuta Utara, Kabupaten Badung, Bali 80361
 - **Jam buka**: Senin-Minggu 8am-12am
-- **Info lengkap & reservasi online**: [Klik di sini](/blog/ku-de-ta-beach-club/)
+- **Info lengkap & reservasi online**: [Klik di sini](/id/blog/ku-de-ta-beach-club/)
 
 ### **Mano Beach House**
 
@@ -156,9 +156,9 @@ SugarSand Beach Club adalah beach club lain yang gratis masuk. Salah satu spot f
 
 ![50個長谷必遊景點](https://images.gobaligo.id/vocus/vocus_3905282615174c989730b6dedf9b0462.png)
 
-[50 Tempat Wajib Dikunjungi di Canggu](/blog/canggu-guide/)
+[50 Tempat Wajib Dikunjungi di Canggu](/id/blog/canggu-guide/)
 
-Canggu dengan cepat menjadi salah satu kawasan paling populer di Bali, menarik wisatawan dari seluruh dunia dan penduduk lokal. Tempat ini memadukan suasana pantai yang santai, pengalaman budaya yang kaya, dan kuliner yang menggugah selera. Kalau kamu lagi merencanakan perjalanan ke Canggu dan ingin tahu tempat-tempat terbaiknya, panduan "[Canggu吃喝玩樂攻略](/blog/canggu-guide/)" adalah teman terbaikmu. Panduan ini akan mengajak kamu menemukan tempat makan terbaik di Canggu, kafe-kafe kekinian, serta tempat nongkrong tersembunyi, dijamin kamu nggak bakal ketinggalan momen seru di surga tropis ini.
+Canggu dengan cepat menjadi salah satu kawasan paling populer di Bali, menarik wisatawan dari seluruh dunia dan penduduk lokal. Tempat ini memadukan suasana pantai yang santai, pengalaman budaya yang kaya, dan kuliner yang menggugah selera. Kalau kamu lagi merencanakan perjalanan ke Canggu dan ingin tahu tempat-tempat terbaiknya, panduan "[Canggu吃喝玩樂攻略](/id/blog/canggu-guide/)" adalah teman terbaikmu. Panduan ini akan mengajak kamu menemukan tempat makan terbaik di Canggu, kafe-kafe kekinian, serta tempat nongkrong tersembunyi, dijamin kamu nggak bakal ketinggalan momen seru di surga tropis ini.
 
 Selanjutnya, kita bahas empat beach club gratis masuk di Canggu:
 
@@ -225,13 +225,13 @@ Setiap sudut beach club yang memesona ini memancarkan kemewahan, tapi tetap rama
 
 ![金巴蘭攻略](https://images.gobaligo.id/vocus/vocus_7b012a6bf68feb9c64a9b45faa636c93.png)
 
-[Panduan Jimbaran](/blog/jimbaran-guide/)
+[Panduan Jimbaran](/id/blog/jimbaran-guide/)
 
-Jimbaran dan Uluwatu adalah dua kawasan super menarik di Bali, masing-masing punya pesona dan vibe budaya yang beda banget. Di Jimbaran, kamu bisa menikmati seafood bakar yang terkenal se-dunia sambil lihat sunset spektakuler. Sementara Uluwatu terkenal dengan tebing-tebing dramatis dan pura suci. Kalau kamu lagi rencana eksplor dua tempat ini, jangan lupa baca dulu panduan [Jimbaran](/blog/jimbaran-guide/) dan [Uluwatu](/blog/uluwatu-guide/)ku. Panduan ini bakal bawa kamu ke setiap spot terbaik, biar pengalamanmu makin maksimal.
+Jimbaran dan Uluwatu adalah dua kawasan super menarik di Bali, masing-masing punya pesona dan vibe budaya yang beda banget. Di Jimbaran, kamu bisa menikmati seafood bakar yang terkenal se-dunia sambil lihat sunset spektakuler. Sementara Uluwatu terkenal dengan tebing-tebing dramatis dan pura suci. Kalau kamu lagi rencana eksplor dua tempat ini, jangan lupa baca dulu panduan [Jimbaran](/id/blog/jimbaran-guide/) dan [Uluwatu](/id/blog/uluwatu-guide/)ku. Panduan ini bakal bawa kamu ke setiap spot terbaik, biar pengalamanmu makin maksimal.
 
 ![烏魯瓦圖攻略](https://images.gobaligo.id/vocus/vocus_9b74c552d436546c4da5ea78ebaa7c29.png)
 
-[Panduan Uluwatu](/blog/uluwatu-guide/)
+[Panduan Uluwatu](/id/blog/uluwatu-guide/)
 
 Nah, selanjutnya kita bakal bahas beach club terbaik di dua kawasan ini, biar kamu bisa bersantai mewah di tepi pantai yang kayak surga:
 
@@ -344,9 +344,9 @@ White Rock Beach Club ada di Melasti Beach, Bali. Desainnya yang nyempil di tebi
 
 ![努沙杜瓦攻略](https://images.gobaligo.id/vocus/vocus_d537f2ae8e07b44853881442ee5713c8.png)
 
-[Panduan Nusa Dua](/blog/nusa-dua-guide/)
+[Panduan Nusa Dua](/id/blog/nusa-dua-guide/)
 
-Nusa Dua terkenal sama pantai pasir putihnya yang tenang dan resort mewah — salah satu tempat paling santai di Bali. Kalau kamu kebetulan nginep di sini, jangan lewatin "[Panduan Nusa Dua](/blog/nusa-dua-guide/)". Dari resort kelas atas sampai tempat wisata budaya, panduan ini bakal bawa kamu ke semua spot keren di Nusa Dua, bantu rencanain liburan yang sempurna.
+Nusa Dua terkenal sama pantai pasir putihnya yang tenang dan resort mewah — salah satu tempat paling santai di Bali. Kalau kamu kebetulan nginep di sini, jangan lewatin "[Panduan Nusa Dua](/id/blog/nusa-dua-guide/)". Dari resort kelas atas sampai tempat wisata budaya, panduan ini bakal bawa kamu ke semua spot keren di Nusa Dua, bantu rencanain liburan yang sempurna.
 
 Kalau kamu penasaran sama beach club di sini, lanjut baca aja. Gue bakal kasih tau beach club paling worth it di Nusa Dua, biar kamu bisa chill di pesisir yang tenang ini dengan pengalaman liburan yang gak terlupakan!
 

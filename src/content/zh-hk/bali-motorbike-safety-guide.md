@@ -43,9 +43,9 @@ Poon 喺返程嘅時候遇到咗兩個受傷嘅旅客，佢哋都係亞洲面孔
 
 Poon 嘅經歷提醒我哋，雖然電單車嘅使用好方便，但喺一個唔熟悉嘅地方，尤其係道路狀況複雜同交通規則同自己國家唔同嘅情況下，意外事故嘅風險會大大增加。
 
-> 延伸閱讀：[峇里島租電單車攻略！應該租電單車好，定係包車好？](/blog/bali-motorbike-rental-guide/)
+> 延伸閱讀：[峇里島租電單車攻略！應該租電單車好，定係包車好？](/zh-hk/blog/bali-motorbike-rental-guide/)
 
-> 延伸閱讀：[【峇里島旅遊攻略】短途出行必備！叫車App叫電單車，慳時間慳力氣！](/blog/bali-travel-app-motorcycle-taxi/)
+> 延伸閱讀：[【峇里島旅遊攻略】短途出行必備！叫車App叫電單車，慳時間慳力氣！](/zh-hk/blog/bali-travel-app-motorcycle-taxi/)
 
 https://youtube.com/shorts/fXVYdj4SZT0?si=YfMVHvDIsYBgs6D9
 
@@ -67,4 +67,4 @@ https://youtube.com/shorts/fXVYdj4SZT0?si=YfMVHvDIsYBgs6D9
 
 👈 **返到峇里島自由行終極指南**
 
-想睇完整嘅新手懶人包？[撳呢度睇「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做啲乜。
+想睇完整嘅新手懶人包？[撳呢度睇「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做啲乜。

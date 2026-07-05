@@ -30,9 +30,9 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 而每个人都必须填写/缴交的电子申报单/观光税，请参阅底下链接：
 
-> 延伸阅读：[印尼/巴厘岛入境流程 - 下飞机/过海关/到领行李的流程](https://gobaligo.id/blog/bali-all-indonesia-arrival-guide/)
+> 延伸阅读：[印尼/巴厘岛入境流程 - 下飞机/过海关/到领行李的流程](https://gobaligo.id/zh-cn/blog/bali-all-indonesia-arrival-guide/)
 
-事先办理电子签证的好处是下飞机后完全免排队，还可以使用自动通关，省略移民局查核护照。唯有一点就是未满6岁的小朋友不能使用自动通关，但是有专属柜台协助通关（请看：[入境印尼/巴厘岛的小朋友签证/儿童签证攻略](https://gobaligo.id/blog/bali-child-visa-guide/)）
+事先办理电子签证的好处是下飞机后完全免排队，还可以使用自动通关，省略移民局查核护照。唯有一点就是未满6岁的小朋友不能使用自动通关，但是有专属柜台协助通关（请看：[入境印尼/巴厘岛的小朋友签证/儿童签证攻略](https://gobaligo.id/zh-cn/blog/bali-child-visa-guide/)）
 
 ###
 
@@ -48,7 +48,7 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 本表仅供参考，实际保障内容以各保险公司商品为主
 
-> [【巴厘岛旅游保险】台港马新旅客必看！投保指南、海外医疗与不便险理赔避雷重点整理](https://gobaligo.id/blog/bali-travel-insurance-guide/)
+> [【巴厘岛旅游保险】台港马新旅客必看！投保指南、海外医疗与不便险理赔避雷重点整理](https://gobaligo.id/zh-cn/blog/bali-travel-insurance-guide/)
 
 ###
 
@@ -58,13 +58,13 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 在巴厘岛，确保手机能够与网络连接是非常重要的，它可以帮助你轻松地查找信息、与家人和朋友联系、使用导航应用程序等，使你的旅行更加便捷和愉快。
 
-> 延伸阅读：[【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡？](/blog/bali-sim-card-esim-roaming-guide/)
+> 延伸阅读：[【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡？](/zh-cn/blog/bali-sim-card-esim-roaming-guide/)
 
 ### 电压与插头：
 
 印尼和巴厘岛的电压标准为**220伏特（220V）**，这是一个重要的信息，特别对于计划携带电器前往该地的旅客而言。在选择携带哪些电器前，一定要确保你携带的电器设备支持国际标准的220伏特电压，还有特殊的插头型式这样才能在印尼和巴厘岛正常使用这些电器哦！
 
-> 延伸阅读：巴厘岛[电压/插头型式为何？怎么准备？](/blog/bali-voltage-adapter-tips/)
+> 延伸阅读：巴厘岛[电压/插头型式为何？怎么准备？](/zh-cn/blog/bali-voltage-adapter-tips/)
 
 ### 换钱：
 
@@ -76,13 +76,13 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 巴厘岛气候炎热，建议携带轻便透气的衣物、防晒用品、泳衣、帽子、墨镜等。详细的应带清单，可参考这里：
 
-> [巴厘岛旅行要带什么？必备的21项物品](/blog/bali-travel-essentials/)
+> [巴厘岛旅行要带什么？必备的21项物品](/zh-cn/blog/bali-travel-essentials/)
 
 ### 药品：
 
 建议携带个人惯用的药品，但印度尼西亚/巴厘岛对药品/处方药有严格的规定，在其他国家合法的药品在印尼可能是禁药！有需要携带药品的朋友请详阅下面链接：
 
-> [携带安眠药/特殊处方药物前往印尼/巴厘岛的重要注意事项](/blog/bali-medication-import-guide/)
+> [携带安眠药/特殊处方药物前往印尼/巴厘岛的重要注意事项](/zh-cn/blog/bali-medication-import-guide/)
 
 ### **防蚊液**：
 
@@ -115,13 +115,13 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 包车的优点除了车辆空间舒适，适合家庭旅游之外，还有较为安全、行程灵活、司机熟悉路况等优点。关于包车您需要知道的一切细节，我们都收集在下面的链接里：
 
-> [巴厘岛包车自由行全攻略 - 费用、预订方式、优势分析](/blog/bali-private-car-hire-guide/)
+> [巴厘岛包车自由行全攻略 - 费用、预订方式、优势分析](/zh-cn/blog/bali-private-car-hire-guide/)
 
-> [巴厘岛旅游中文司机/中文导游/中文包车行程推荐](/blog/bali-chinese-tour-guide/)
+> [巴厘岛旅游中文司机/中文导游/中文包车行程推荐](/zh-cn/blog/bali-chinese-tour-guide/)
 
 网约车的优点是费用较便宜/明码实价，可通过 App 呼叫。在印尼/巴厘岛如何利用网约车？用什么APP？请参考这里：
 
-> [在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略](/blog/gojek-bali-guide/)
+> [在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略](/zh-cn/blog/gojek-bali-guide/)
 
 ### 住宿/景点/活动：
 
@@ -129,7 +129,7 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 ![峇里島親子住宿推薦](https://images.gobaligo.id/vocus/vocus_62021a66b4fb2080c4351c4391ea4e2b.jpg)
 
-[巴厘岛亲子住宿推荐](/blog/bali-family-travel-guide/)
+[巴厘岛亲子住宿推荐](/zh-cn/blog/bali-family-travel-guide/)
 
 带小朋友的家长，可以考虑适合小朋友的亲子度假旅馆，这些旅馆多有泳池滑梯可以让小孩尽情戏水、儿童俱乐部让爸妈轻松喘口气。
 
@@ -145,7 +145,7 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 巴厘岛旅游需要注意饮食卫生，提防巴厘岛腹泻的发生。这里有一套安全准则供参考：
 
-> [巴厘岛旅行健康小贴士：巴厘岛的饮用水和腹泻指南](/blog/bali-travel-health-tips/)
+> [巴厘岛旅行健康小贴士：巴厘岛的饮用水和腹泻指南](/zh-cn/blog/bali-travel-health-tips/)
 
 {{block:美食}}
 
@@ -153,7 +153,7 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 巴厘岛有许多小贩/掮客专宰观光客，要小心提防。
 
-[> 巴厘岛安全吗？揭露最新 6 大观光诈骗！换钱、假签证、热点陷阱...看到这种人请立刻转身！](https://gobaligo.id/blog/bali-tourist-scams-2026/)
+[> 巴厘岛安全吗？揭露最新 6 大观光诈骗！换钱、假签证、热点陷阱...看到这种人请立刻转身！](https://gobaligo.id/zh-cn/blog/bali-tourist-scams-2026/)
 
 ### 注意治安：
 

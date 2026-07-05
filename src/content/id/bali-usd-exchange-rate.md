@@ -64,9 +64,9 @@ Rugi tukar uang yang nggak seberapa ini, jangan sampai ganggu liburan kamu!
 
 Bali itu destinasi liburan yang bikin hati adem, nggak worth it kalau sampai stres gara-gara urusan duit. Santai aja, nikmatin Bali, serap budaya unik dan pemandangan alamnya yang cakep!
 
-> Baca juga: [Panduan Lengkap Tukar Uang & Rekomendasi Tempat Terpercaya](/blog/bali-currency-exchange-guide/)
+> Baca juga: [Panduan Lengkap Tukar Uang & Rekomendasi Tempat Terpercaya](/id/blog/bali-currency-exchange-guide/)
 
 **Referensi Cepat:**
 
-- [Tukar Uang di Indonesia/Bali: Tukar Langsung vs Tukar ke USD Dulu, Mana Lebih Untung?](/blog/bali-currency-exchange-tips/)
-- [Kisah Nyata Kena Tipu Tukar Uang di Bali: Pengalaman Teman, Jangan Serakah!](/blog/bali-money-exchange-scams-2/)
+- [Tukar Uang di Indonesia/Bali: Tukar Langsung vs Tukar ke USD Dulu, Mana Lebih Untung?](/id/blog/bali-currency-exchange-tips/)
+- [Kisah Nyata Kena Tipu Tukar Uang di Bali: Pengalaman Teman, Jangan Serakah!](/id/blog/bali-money-exchange-scams-2/)

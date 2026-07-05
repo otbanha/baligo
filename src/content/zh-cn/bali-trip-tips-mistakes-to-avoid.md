@@ -28,7 +28,7 @@ _srcHash: efc61a95dce192fc35bb6d7b3f1d6a22
 
 ![签证：](https://images.gobaligo.id/vocus/vocus_a26a7527e1e934bfe40d5158bf8470d7.png)
 
-> 延伸阅读：[2025/08印尼巴厘岛入境使用「All Indonesia」申报系统｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
+> 延伸阅读：[2025/08印尼巴厘岛入境使用「All Indonesia」申报系统｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/zh-cn/blog/bali-all-indonesia-arrival-guide/)
 
 ## 包车司机：
 
@@ -38,7 +38,7 @@ _srcHash: efc61a95dce192fc35bb6d7b3f1d6a22
 
 更有有一次，我们在结账当天，司机告诉我们因为是假日，需要额外加收Rp5万。这让我们非常困惑，因为出发前我特地确认了两次价格，司机都说不会有变动。这种临时加价的行为让我们感到不满。因此，大家在预订包车服务时，一定要仔细核对价格和条款，避免遇到类似的情况。
 
-> 延伸阅读：[【巴厘岛包车司机推荐名人榜】巴厘岛司机网友评鉴大全：看网友真实点评找到适合你的好司机](/blog/bali-private-car-drivers-guide/)
+> 延伸阅读：[【巴厘岛包车司机推荐名人榜】巴厘岛司机网友评鉴大全：看网友真实点评找到适合你的好司机](/zh-cn/blog/bali-private-car-drivers-guide/)
 
 ## 景点和餐厅：
 
@@ -48,7 +48,7 @@ _srcHash: efc61a95dce192fc35bb6d7b3f1d6a22
 
 Li Wallis 提供
 
-海神庙（Tanah Lot）是一个非常美丽且值得一访的景点。寺庙建在海边的岩石上，涨潮时会被海水环绕，形成独特的景观。这里的日落尤其壮观，建议傍晚前来，可以看到壮丽的海上日落景色。快速参考：[巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/blog/bali-tanah-lot-guide/)
+海神庙（Tanah Lot）是一个非常美丽且值得一访的景点。寺庙建在海边的岩石上，涨潮时会被海水环绕，形成独特的景观。这里的日落尤其壮观，建议傍晚前来，可以看到壮丽的海上日落景色。快速参考：[巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/zh-cn/blog/bali-tanah-lot-guide/)
 
 🛕🌊🌅海神庙，巴厘岛必访的日落圣地，欣赏壮丽的海景与宗教氛围 ▶[Klook优惠](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
 
@@ -60,7 +60,7 @@ Li Wallis 提供
 
 Li Wallis 提供
 
-乌鲁瓦图庙（Uluwatu Temple）同样美丽，建在峭壁上，俯瞰印度洋，风景非常壮观。不过，这里的猴子非常狡猾，会抢走你的眼镜、帽子和手机，所以要格外小心保管自己的物品。快速参考：[巴厘岛乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](/blog/uluwatu-temple-travel-guide/)
+乌鲁瓦图庙（Uluwatu Temple）同样美丽，建在峭壁上，俯瞰印度洋，风景非常壮观。不过，这里的猴子非常狡猾，会抢走你的眼镜、帽子和手机，所以要格外小心保管自己的物品。快速参考：[巴厘岛乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](/zh-cn/blog/uluwatu-temple-travel-guide/)
 
 🛕🌊🌅 乌鲁瓦图庙 ，悬崖之上的壮丽景点，还能欣赏传统的火舞表演 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fp50231639-uluwatu%2F1-things-to-do%2F)
 
@@ -70,7 +70,7 @@ Li Wallis 提供
 
 Li Wallis 提供
 
-断崖公路（Broken Beach）也是一个不可错过的景点。建议早点出发，我们在11点前到达时，人还不多，可以拍到很多美丽的照片。之后，随着人流增加，拍照就变得困难了。拍完断崖公路后，别急着离开，继续往前走会到达一个美丽的沙滩。快速参考：[巴厘岛 Batu Barak/Tanah Barak：蓝色公路/断崖公路的绝美之旅](/blog/batu-barak-cliff-road/)
+断崖公路（Broken Beach）也是一个不可错过的景点。建议早点出发，我们在11点前到达时，人还不多，可以拍到很多美丽的照片。之后，随着人流增加，拍照就变得困难了。拍完断崖公路后，别急着离开，继续往前走会到达一个美丽的沙滩。快速参考：[巴厘岛 Batu Barak/Tanah Barak：蓝色公路/断崖公路的绝美之旅](/zh-cn/blog/batu-barak-cliff-road/)
 
 🏖️🪨🌊探索蓝色公路悬崖之美，劈开的壮丽景观，随手一拍就是 Instagram 打卡胜地！▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F114124-tanah-barak-cliff-garuda-wisnu-kencana-malini-sunset-tour-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8aad5d46e9)
 
@@ -84,7 +84,7 @@ Li Wallis 提供
 
 Li Wallis 提供
 
-圣泉寺（Tirta Empul）是一个值得一去的地方。如果你打算下水净身，记得带上替换的衣服。此外，这里附近有美丽的梯田，我们在梯田旁边的咖啡馆点了两杯饮品，坐着欣赏风景，感觉非常写意。延伸阅读：[【2025】Tirta Empul 圣泉寺完整指南：巴厘岛最神圣的净化水庙体验](/blog/tirta-empul-temple-guide/)
+圣泉寺（Tirta Empul）是一个值得一去的地方。如果你打算下水净身，记得带上替换的衣服。此外，这里附近有美丽的梯田，我们在梯田旁边的咖啡馆点了两杯饮品，坐着欣赏风景，感觉非常写意。延伸阅读：[【2025】Tirta Empul 圣泉寺完整指南：巴厘岛最神圣的净化水庙体验](/zh-cn/blog/tirta-empul-temple-guide/)
 
 🔱💦 乌布圣泉寺（Tirta Empul）巴厘岛著名圣水寺庙，以净化仪式🙏 和神圣泉水💧闻名，能为信徒与游客带来祝福与好运✨！▶[Klook优惠行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)
 
@@ -110,7 +110,7 @@ Li Wallis 提供
 
 乌布市集的纪念品几乎都是一模一样，没有什么特别吸引我们购买的东西，相反，我们在逛超市时更开心，虽然价格稍微贵一些。意外发现了Bali Galeria Mall，非常好逛！这里有超市、纪念品店和餐厅，应有尽有。本来我们想找邮局寄明信片，但邮局已经关门了🥲。所以，想去邮局的朋友记得要早点去。最后，我们在机场买了邮票并找到了邮筒。
 
-> 延伸阅读：[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/blog/bali-souvenirs-gift-guide/)
+> 延伸阅读：[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/zh-cn/blog/bali-souvenirs-gift-guide/)
 
 ## 其他心得
 
@@ -124,7 +124,7 @@ https://youtu.be/0M0voLfFLrQ
 
 ## 这里还有：
 
-[巴厘岛不踩雷攻略：18个常见错误与建议](/blog/bali-travel-mistakes-tips/)
+[巴厘岛不踩雷攻略：18个常见错误与建议](/zh-cn/blog/bali-travel-mistakes-tips/)
 
 您觉得Li Wallis他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
@@ -132,6 +132,6 @@ https://youtu.be/0M0voLfFLrQ
 
 点击这里观看更多巴厘岛精彩游记
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/zh-cn/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
 
 {{block:攻略}}

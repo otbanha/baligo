@@ -30,7 +30,7 @@ Trip kali ini aku rangkum dari saran-saran anggota grup dan pengalamanku sendiri
 
 Sopir yang kami pilih adalah Fovix Ketut, yang lagi hits di grup. Aku juga mau rekomendasiin dia banget buat kalian yang butuh. Meskipun bahasa Inggrisku pas-pasan banget, selama beberapa hari ini semuanya lancar berkat bantuan Ketut. Di sini aku mau bilang, jangan takut sama kendala bahasa — manfaatin aplikasi penerjemah dan beberapa kata yang kamu hapal udah cukup kok.
 
-> Baca juga: [【Panduan Bali】Mau ke Tapi Bahasa Inggris Jelek?](/blog/bali-travel-tips-bad-english/)
+> Baca juga: [【Panduan Bali】Mau ke Tapi Bahasa Inggris Jelek?](/id/blog/bali-travel-tips-bad-english/)
 
 Satu hal yang perlu diingat soal booking sopir: kalau udah janji, harus tepati, jangan seenaknya membatalkan. Ini dasar saling percaya. Kami komunikasi dulu dengan jelas, dan itinerary sewa mobilku sebagian besar diatur sama Ketut, bahkan spa pun dia yang rekomendasiin.
 
@@ -40,7 +40,7 @@ Kami udah selesaiin semua urusan bea cukai, visa, dan pajak turis secara elektro
 
 Setelah ambil bagasi, cari jalur bea cukai yang paling sepi, tunjukin QR code, dan kurang dari 3 menit udah bisa keluar bandara.
 
-> Baca juga: [【2026版】Panduan Masuk Bali Pakai Kartu Kedatangan “All Indonesia”｜Pahami Proses Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](/blog/bali-all-indonesia-arrival-guide/)
+> Baca juga: [【2026版】Panduan Masuk Bali Pakai Kartu Kedatangan “All Indonesia”｜Pahami Proses Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
 
 ## Rencana Perjalanan & Transportasi
 
@@ -50,7 +50,7 @@ Awalnya kupikir jadwal kali ini nggak terlalu padat, pasti santai dan menyenangk
 
 Aku dan mamaku pakai eSIM dan kartu fisik, providernya sama-sama XL. Ternyata eSIM-ku sering putus sinyal, apalagi pas lagi butuh banget buat translate, bikin geregetan sendiri — jadinya cuma bisa maksa otak ngeluarin kosa kata seadanya. Sementara kartu fisik mamaku lancar jaya. Selama 7 hari ini, aku mostly ngandelin WiFi hotel, dan akhirnya cuma habis kurang dari 3GB data.
 
-> Baca juga: [【Wajib Punya buat Liburan ke Bali】Cara Urus Internet/SIM Card di Bali?](/blog/bali-sim-card-esim-roaming-guide/)
+> Baca juga: [【Wajib Punya buat Liburan ke Bali】Cara Urus Internet/SIM Card di Bali?](/id/blog/bali-sim-card-esim-roaming-guide/)
 
 ---
 
@@ -102,7 +102,7 @@ Destinasi pertama hari ini adalah ayunan hutan di Ubud. Tempat ini rekomendasi d
 
 Dari Zhang Pingping: Gaun panjangnya sewa 150k, bisa pilih mau sewa atau nggak
 
-**Referensi Cepat:** [Main Ayunan di Ubud: 8 Spot Foto Ayunan Terindah di Bali｜Panduan Ayunan Ubud/Sewa Gaun](/blog/ubud-jungle-swings-photo-guide/)
+**Referensi Cepat:** [Main Ayunan di Ubud: 8 Spot Foto Ayunan Terindah di Bali｜Panduan Ayunan Ubud/Sewa Gaun](/id/blog/ubud-jungle-swings-photo-guide/)
 
 ### Makan di Restoran
 
@@ -126,11 +126,11 @@ Abis itu, kita mampir ke Air Terjun Tegenungan, di sini ada juga klub kolam rena
 
 Dokumentasi: Zhang Pingping
 
-**Referensi Cepat:** [Panduan 3 Air Terjun Terkenal di Dekat Ubud, Bali: Tegenungan, Kanto Lampo, dan Tukad Cepung](/blog/ubud-waterfalls-guide/)
+**Referensi Cepat:** [Panduan 3 Air Terjun Terkenal di Dekat Ubud, Bali: Tegenungan, Kanto Lampo, dan Tukad Cepung](/id/blog/ubud-waterfalls-guide/)
 
 ![Tegenungan Waterfall](https://images.gobaligo.id/vocus/vocus_237f10c60c257d436c2cec2c97feb2c8.jpg)
 
-Mau tahu lebih banyak tips Ubud? [Klik di sini](/blog/ubud-guide/)
+Mau tahu lebih banyak tips Ubud? [Klik di sini](/id/blog/ubud-guide/)
 
 ### Spa di Jimbaran
 
@@ -142,7 +142,7 @@ Dokumentasi: Zhang Pingping
 
 ### Hotel Kempinski
 
-Karena macet, kami sampai di Hotel Kempinski jam sepuluh malam. (Catatan redaksi: info lengkap tentang Kempinski [bisa lihat di sini](/blog/apurva-kempinski-bali-nusa-dua/))
+Karena macet, kami sampai di Hotel Kempinski jam sepuluh malam. (Catatan redaksi: info lengkap tentang Kempinski [bisa lihat di sini](/id/blog/apurva-kempinski-bali-nusa-dua/))
 
 > ▶[Pengalaman Makan di Restoran Bawah Laut mulai USD$100](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90340-koral-restaurant-dining-the-apurva-kempinski-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd2225956a4)
 
@@ -171,7 +171,7 @@ Malamnya, kami berenang di kamar hotel mewah ini dan juga menikmati fasilitas sa
 
 ![更多努沙杜瓦吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
 
-Nusa Dua adalah kawasan di Bali yang terkenal dengan resor mewahnya, punya pantai pasir putih, air laut biru jernih, dan fasilitas wisata yang lengkap. Ini pilihan utama buat kamu yang cari pengalaman kelas atas dan liburan tenang. Di sini juga ada spa top, olahraga air, dan aktivitas santai yang cocok buat seluruh keluarga — surga banget buat semua tipe traveler. Mau tahu lebih banyak tips Nusa Dua? [Klik di sini](/blog/nusa-dua-guide/)
+Nusa Dua adalah kawasan di Bali yang terkenal dengan resor mewahnya, punya pantai pasir putih, air laut biru jernih, dan fasilitas wisata yang lengkap. Ini pilihan utama buat kamu yang cari pengalaman kelas atas dan liburan tenang. Di sini juga ada spa top, olahraga air, dan aktivitas santai yang cocok buat seluruh keluarga — surga banget buat semua tipe traveler. Mau tahu lebih banyak tips Nusa Dua? [Klik di sini](/id/blog/nusa-dua-guide/)
 
 ---
 
@@ -185,19 +185,19 @@ Hari ini stasiun pertama adalah Tanah Barak. Aku bukan tipe yang suka foto gaya 
 
 張萍萍提供
 
-**Referensi Cepat:** [Batu Barak/Tanah Barak Bali: Petualangan Seru di Blue Highway / Cliff Road](/blog/batu-barak-cliff-road/)
+**Referensi Cepat:** [Batu Barak/Tanah Barak Bali: Petualangan Seru di Blue Highway / Cliff Road](/id/blog/batu-barak-cliff-road/)
 
 ### Pura Uluwatu
 
 Selanjutnya, kita sampai di Pura Uluwatu. Monyet-monyet di sini galak banget, jadi Ketut setia menemani kita kayak bodyguard, keringetan, ngusir monyet, sekaligus jadi fotografer kita. Makasih banget dia udah bantuin ibu bawa tas yang seberat batu. Baru aja kita lihat langsung HP turis dirampas monyet, dilempar ke tebing dan tenggelam. Makin syukur kita sama Ketut yang nemenin dan jagain kita.
 
-**Referensi Cepat:** [Panduan Wisata Pura Uluwatu / Tebing Cinta Bali: Spot Wajib & Tips Praktis](/blog/uluwatu-temple-travel-guide/)
+**Referensi Cepat:** [Panduan Wisata Pura Uluwatu / Tebing Cinta Bali: Spot Wajib & Tips Praktis](/id/blog/uluwatu-temple-travel-guide/)
 
 ### Lebih Banyak Rekomendasi Makan, Minum, dan Main di Uluwatu
 
 ![Lebih Banyak Rekomendasi Makan, Minum, dan Main di Uluwatu](https://images.gobaligo.id/vocus/vocus_88e1fc85f675618e40236e0e76037d1e.jpg)
 
-Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal dengan tebing-tebing spektakuler, pantai yang memesona, dan spot surfing kelas dunia. Suasananya penuh romantisme tropis—cocok banget buat nikmatin sunset dan waktu santai. Kalau kamu juga mau nginep di Uluwatu, cek aja rekomendasi makan, minum, dan main yang udah kami susun rapi biar liburanmu makin seru: [【Panduan Uluwatu】Rekomendasi Tempat Wisata, Makan, Minum, dan Main di Uluwatu](/blog/uluwatu-guide/)
+Uluwatu adalah salah satu kawasan paling populer di selatan Bali, terkenal dengan tebing-tebing spektakuler, pantai yang memesona, dan spot surfing kelas dunia. Suasananya penuh romantisme tropis—cocok banget buat nikmatin sunset dan waktu santai. Kalau kamu juga mau nginep di Uluwatu, cek aja rekomendasi makan, minum, dan main yang udah kami susun rapi biar liburanmu makin seru: [【Panduan Uluwatu】Rekomendasi Tempat Wisata, Makan, Minum, dan Main di Uluwatu](/id/blog/uluwatu-guide/)
 
 ### Beli Buah
 
@@ -223,7 +223,7 @@ Tanggal 2 Juni, kami menginap di [The Oberoi Beach Resort](https://www.agoda.com
 
 Kami jalan-jalan santai di sekitar, lihat sunset, nikmatin semua fasilitas hotel, dan habiskan malam yang menyenangkan.
 
-Tergabung di: [Rekomendasi Akomodasi Bali: Panduan Tema Penginapan Mewah di Tepi Pantai Seminyak](/blog/seminyak-beach-resorts-guide/)
+Tergabung di: [Rekomendasi Akomodasi Bali: Panduan Tema Penginapan Mewah di Tepi Pantai Seminyak](/id/blog/seminyak-beach-resorts-guide/)
 
 
 ![Akomodasi & Sekitar](https://images.gobaligo.id/vocus/vocus_47fc0bf37f298d6acbf3db505b14ae96.jpg)
@@ -271,4 +271,4 @@ Menurut kamu, itinerary-nya Zhang Pingping dan tim seru banget nggak? Yuk, burua
 
 Klik di sini buat lihat lebih banyak cerita perjalanan seru di Bali
 
-Kamu juga pengen nulis cerita traveling tapi bingung mulai dari mana? Coba deh lihat panduan '[Cara Menulis Cerita Traveling Bali yang Keren](/blog/how-to-write-bali-travelogue/)', biar ceritamu makin kece!
+Kamu juga pengen nulis cerita traveling tapi bingung mulai dari mana? Coba deh lihat panduan '[Cara Menulis Cerita Traveling Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)', biar ceritamu makin kece!

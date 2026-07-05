@@ -37,11 +37,11 @@ Ini episode ketiga kita bahas Nusa Penida—pulau ajaib ini. Kali ini kita kenal
 
 Kita punya lima episode soal Nusa Penida. Yuk, kenalan lebih dalam sama surga pulau ini! Empat episode lainnya ada di sini:
 
-1. [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/blog/nusa-penida-guide/)
-2. [Kuliner & Laut Biru di Nusa Penida: 9 Pilihan Terbaik](/blog/nusa-penida-best-restaurants/)
-3. [Spot Snorkeling Nusa Penida & Cara Ikut Snorkeling](/blog/nusa-penida-snorkeling-guide/)
-4. [Panduan Transportasi Nusa Penida: Taksi, Gojek/Grab, Sewa Mobil, Motor](/blog/nusa-penida-transport-guide/)
-5. [Rekomendasi Penginapan Nusa Penida: 13 Hotel dari Mewah sampai Budget](/blog/nusa-penida-hotels-guide/)
+1. [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)
+2. [Kuliner & Laut Biru di Nusa Penida: 9 Pilihan Terbaik](/id/blog/nusa-penida-best-restaurants/)
+3. [Spot Snorkeling Nusa Penida & Cara Ikut Snorkeling](/id/blog/nusa-penida-snorkeling-guide/)
+4. [Panduan Transportasi Nusa Penida: Taksi, Gojek/Grab, Sewa Mobil, Motor](/id/blog/nusa-penida-transport-guide/)
+5. [Rekomendasi Penginapan Nusa Penida: 13 Hotel dari Mewah sampai Budget](/id/blog/nusa-penida-hotels-guide/)
 
 ![Nusa Penida: Cara Ikut Snorkeling? Panduan Tiket Kapal Sehar](https://images.gobaligo.id/vocus/vocus_0efc881cd070bd9b15b0d572fe80b427.jpg)
 
@@ -55,7 +55,7 @@ Kalau mau lebih cepet nyampe ke spot snorkeling atau diving, saran gue: dari ban
 
 Penasaran apa aja yang seru dan asyik di Sanur? Cek aja video panduan Sanur-nya Jie di sini → [Sanur攻略](https://www.youtube.com/watch?v=laRb_l8BdLM)
 
-Nah, kalau mau ke Nusa Penida, apa aja sih spot daratannya? Gimana cara naik kapal dan titip barang? Bisa [intip di sini](/blog/nusa-penida-guide/). Di artikel ini kita bakal bahas empat spot diving utama di Nusa Penida. Ada juga video asli yang kita rekam biar kamu makin kebayang betapa kerennya dunia bawah laut yang bikin speechless ini!
+Nah, kalau mau ke Nusa Penida, apa aja sih spot daratannya? Gimana cara naik kapal dan titip barang? Bisa [intip di sini](/id/blog/nusa-penida-guide/). Di artikel ini kita bakal bahas empat spot diving utama di Nusa Penida. Ada juga video asli yang kita rekam biar kamu makin kebayang betapa kerennya dunia bawah laut yang bikin speechless ini!
 
 ## Crystal Bay
 

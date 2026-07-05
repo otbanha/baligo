@@ -23,7 +23,7 @@ Suluban Beach, also known as "Blue Point Beach," is tucked away in Bali's Bukit 
 
 **Quick Reference:**
 
-> [Bukit Peninsula Adventure Guide](/blog/bukit-peninsula-guide/)
+> [Bukit Peninsula Adventure Guide](/en/blog/bukit-peninsula-guide/)
 
 ***
 
@@ -73,7 +73,7 @@ Single Fin Cliff Bar
 
 ![Nearby Attractions](https://images.gobaligo.id/vocus/vocus_22c54e6ac54cee9b7bf8f153026a7785.png)
 
-What are the fun activities and good eats around the Bukit Peninsula where Suluban Beach is located? Check out [our guide](/blog/bukit-peninsula-guide/)
+What are the fun activities and good eats around the Bukit Peninsula where Suluban Beach is located? Check out [our guide](/en/blog/bukit-peninsula-guide/)
 
 ***
 

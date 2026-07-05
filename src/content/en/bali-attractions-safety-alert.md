@@ -28,11 +28,11 @@ The Beauty of Nusa Penida's Beaches Conceals Hidden Dangers!
 
 On August 14, at Diamond Beach on Nusa Penida, a tourist was swept into the sea by strong waves, putting them in critical condition. Fortunately, a French tourist on the scene reacted quickly, collaborating with others to successfully rescue the individual using a long rope, averting a tragedy. Diamond Beach is renowned for its crystal-clear waters, but the area is highly dangerous due to powerful and unpredictable currents, as well as deceptively calm surface waters with strong underlying flows. Local officials have repeatedly emphasized that swimming or even wading in shallow waters is strictly prohibited to avoid such risks.
 
-Further Reading: [Bali - Nusa Penida Complete Guide: Maps, Ferries, Accommodation, Transportation, Private Tours, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
+Further Reading: [Bali - Nusa Penida Complete Guide: Maps, Ferries, Accommodation, Transportation, Private Tours, Activities, Photography, Attractions](/en/blog/nusa-penida-guide/)
 
 On the same day, another tragedy occurred at Bingin Beach in Uluwatu. A tourist fell from the famous cliff top and tragically lost their life. The body was first discovered by a French tourist, and rescue teams were immediately dispatched upon receiving the report. However, due to the steep cliff base, the team was unable to safely retrieve the body until the next morning, when specialized equipment was used. The deceased was confirmed to be a 51-year-old American tourist. It is believed that before the accident, they had parked their rented motorbike at the top of the cliff at Batu Jaran section of Bingin Beach.
 
-Further Reading: Uluwatu's Hidden Beach [Uluwatu Attractions: 47 Recommendations for Food, Drinks, and Fun](/blog/uluwatu-guide/)
+Further Reading: Uluwatu's Hidden Beach [Uluwatu Attractions: 47 Recommendations for Food, Drinks, and Fun](/en/blog/uluwatu-guide/)
 
 ![Safety Alert for Bali's Two Popular Tourist Spots!](https://images.gobaligo.id/vocus/vocus_3e535492ebd1e221d48aa49d449d3fde.png)
 

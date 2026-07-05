@@ -82,7 +82,7 @@ Cretya Ubud每天都是中午到傍晚最多人
 
 ## 乌布其他好玩的地方有哪些？
 
-在乌布，至少还有五十个景点和活动等着你去探索。无论你是喜欢文化体验、自然风光还是冒险运动，乌布都能满足你的需求。从令人惊叹的猴子森林、古老的寺庙，到壮观的稻田景观和充满艺术气息的市集，乌布提供了丰富多样的选择。请查看我们的攻略「[巴厘岛乌布完整攻略：10](/blog/ubud-guide/)[0种深入认识乌布的方式｜探索乌布的魅力](/blog/ubud-guide/)」了解更多详细信息，帮助你计划一次难忘的乌布之旅。
+在乌布，至少还有五十个景点和活动等着你去探索。无论你是喜欢文化体验、自然风光还是冒险运动，乌布都能满足你的需求。从令人惊叹的猴子森林、古老的寺庙，到壮观的稻田景观和充满艺术气息的市集，乌布提供了丰富多样的选择。请查看我们的攻略「[巴厘岛乌布完整攻略：10](/zh-cn/blog/ubud-guide/)[0种深入认识乌布的方式｜探索乌布的魅力](/zh-cn/blog/ubud-guide/)」了解更多详细信息，帮助你计划一次难忘的乌布之旅。
 
 ## 乌布的住宿选择
 
@@ -90,8 +90,8 @@ Cretya Ubud每天都是中午到傍晚最多人
 
 ![乌布的住宿选择](https://images.gobaligo.id/vocus/vocus_02093589e6f9903498b1c3ef6c792e6f.jpg)
 
-- [【巴厘岛乌布住宿】乌布28家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/blog/ubud-villas-pool-guide/)
-- [探索乌布9家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)
-- [【乌布住宿推荐】泳池别墅私密天堂: 乌布20间令人惊艳的巴厘岛villa](/blog/ubud-villa-pool-guide/)
-- [乌布瑜伽住宿推荐：10间结合瑜伽课程与心灵放松的梦幻选择](/blog/ubud-yoga-retreats-bali/)
-- [「全球最佳酒店」榜首在巴厘岛：丛林中的隐藏奢华—Capella Ubud](/blog/capella-ubud-luxury-resort/)
+- [【巴厘岛乌布住宿】乌布28家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/zh-cn/blog/ubud-villas-pool-guide/)
+- [探索乌布9家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/zh-cn/blog/ubud-treehouse-bamboo-villa-stays/)
+- [【乌布住宿推荐】泳池别墅私密天堂: 乌布20间令人惊艳的巴厘岛villa](/zh-cn/blog/ubud-villa-pool-guide/)
+- [乌布瑜伽住宿推荐：10间结合瑜伽课程与心灵放松的梦幻选择](/zh-cn/blog/ubud-yoga-retreats-bali/)
+- [「全球最佳酒店」榜首在巴厘岛：丛林中的隐藏奢华—Capella Ubud](/zh-cn/blog/capella-ubud-luxury-resort/)
