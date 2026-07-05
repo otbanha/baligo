@@ -3286,31 +3286,51 @@ document.getElementById('mobile-cta-next')?.addEventListener('click', () => {
   document.getElementById('btn-1-next')?.click();
 });
 
+// 部分手機 App 內嵌瀏覽器（LINE / FB / IG / WeChat / TikTok 等）的 window.print()
+// 是空函式：呼叫不會拋錯，但也完全沒有任何反應，使用者會以為按了沒用。
+function isInAppBrowser() {
+  const ua = navigator.userAgent || '';
+  return /FBAN|FBAV|Instagram|\bLine\/|MicroMessenger|TikTok|Snapchat|WeChat/i.test(ua);
+}
+const PDF_UNSUPPORTED_MSG = '您目前使用的瀏覽器不支援直接存成 PDF。\n\n請點擊畫面右上角的「⋯」或分享選單，選擇「在瀏覽器中開啟」（Safari 或 Chrome），再使用瀏覽器的列印功能存成 PDF。';
+
 document.getElementById('btn-share').addEventListener('click', () => {
-  // 部分手機 App 內嵌瀏覽器（LINE / FB / IG 等）不支援或會忽略 window.print()，
-  // 此時改提示使用者切換到外部瀏覽器再使用列印功能存成 PDF
+  // 已知會忽略 window.print() 的內嵌瀏覽器，直接提示改用外部瀏覽器，不要浪費時間嘗試
+  if (isInAppBrowser()) {
+    alert(PDF_UNSUPPORTED_MSG);
+    return;
+  }
   if (typeof window.print === 'function') {
     // 存 PDF 時瀏覽器預設檔名取自 document.title，暫時換成中文檔名再還原
     const originalTitle = document.title;
     const pdfTitle = '峇里島旅遊規劃';
     let restored = false;
+    let printStarted = false;
     const restoreTitle = () => {
       if (restored) return;
       restored = true;
       document.title = originalTitle;
     };
+    const onBeforePrint = () => { printStarted = true; };
     try {
       document.title = pdfTitle;
+      window.addEventListener('beforeprint', onBeforePrint, { once: true });
       window.addEventListener('afterprint', restoreTitle, { once: true });
       window.print();
-      setTimeout(restoreTitle, 1000); // 保底：部分瀏覽器不會觸發 afterprint
+      // 保底：部分瀏覽器/未知的內嵌瀏覽器呼叫 print() 完全沒反應，
+      // 也不會觸發 beforeprint，這時改提示使用者換瀏覽器
+      setTimeout(() => {
+        window.removeEventListener('beforeprint', onBeforePrint);
+        restoreTitle();
+        if (!printStarted) alert(PDF_UNSUPPORTED_MSG);
+      }, 1200);
       return;
     } catch (err) {
       restoreTitle();
       console.error('[Trip Planner] print failed:', err);
     }
   }
-  alert('您目前使用的瀏覽器不支援直接存成 PDF。\n\n請點擊畫面右上角的「⋯」或分享選單，選擇「在瀏覽器中開啟」（Safari 或 Chrome），再使用瀏覽器的列印功能存成 PDF。');
+  alert(PDF_UNSUPPORTED_MSG);
 });
 
 document.getElementById('btn-edit').addEventListener('click', () => {
