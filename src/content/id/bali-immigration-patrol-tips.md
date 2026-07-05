@@ -19,7 +19,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: id
-_srcHash: 978fa9d6c43e49e2ba03d48affc0db8c
+_srcHash: 0c40b8088f05c4172f7f08ab1e4b824e
 ---
 
 ## 🏝️ Tim Imigrasi Bali Turun Tangan! 🚨

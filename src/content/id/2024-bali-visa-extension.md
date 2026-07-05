@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/65c039affd89780001e5a3db'
 category:
   - 簽證通關
 lang: id
-_srcHash: dae99eb3988cdd6b6c1f0ee016e24c6b
+_srcHash: 17707370d5381abbedc5f38f5923f428
 ---
 
 Mulai tahun 2024, Indonesia bakal mendorong wisatawan yang mau ke Bali buat pakai layanan imigrasi online. Kamu bisa ngurus berbagai visa Indonesia secara online, termasuk perpanjangan visa — nggak perlu repot-repot ke kantor imigrasi lagi! (Update terbaru 29/05/2025: Sekarang balik lagi harus ke kantor imigrasi buat cap jempol, ya! Cek di [sini](/blog/indonesia-visa-rules-2025/))

@@ -24,7 +24,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3baed1ac21237aa6fdf68ef0eb9fa9c0.jpg'
 originalUrl: 'https://vocus.cc/article/6788bce6fd89780001e58366'
 lang: id
-_srcHash: c9ab5b850b3868a5e710be8dd30c958c
+_srcHash: a3b9ef841b21eab013ee8ac459901ecf
 ---
 Katanya sih, traveling sama anak kecil itu salah satu momen paling seru buat keluarga — tapi bisa juga jadi tantangan paling bikin stres. Cari aktivitas ramah anak di luar negeri emang nggak gampang, tapi untungnya Bali termasuk destinasi paling family-friendly di dunia. Lewat berbagai kegiatan, anak-anak bisa terus belajar, terinspirasi, dan tetap terhubung sama budaya lokal. Orang tua pun bisa tenang, liburan ini bakal jadi kenangan positif seumur hidup buat semuanya.
 

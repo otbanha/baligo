@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/67c106e5fd897800015588ec'
 category:
   - 旅行技巧
 lang: id
-_srcHash: b7d298afc91cd20f529e0a54eeb67892
+_srcHash: bf9ccb17a122c0f7e020457dbfa20d94
 ---
 
 ![Beli tiket pesawat paling murah! 5 tips jitu ini bisa bikin ](https://images.gobaligo.id/vocus/vocus_5087195a099cef79d6a435a90cc7dab6.png)

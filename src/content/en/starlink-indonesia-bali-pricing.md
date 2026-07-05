@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/664a105ffd897800010f7f4f'
 category:
   - 旅行技巧
 lang: en
-_srcHash: d6a740a675710987818b3e52c7aeade4
+_srcHash: 1516cfe5b042bcb20a5ce1402277813f
 ---
 
 Starlink, Elon Musk's satellite internet service, has officially launched in Indonesia, marking a significant transformation in the country's internet market. As a satellite-based internet service, Starlink aims to provide high-speed, low-latency, and extensive coverage, especially in areas where traditional internet services are hard to reach.

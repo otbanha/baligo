@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3baed1ac21237aa6fdf68ef0eb9fa9c0.jpg'
 originalUrl: 'https://vocus.cc/article/6788bce6fd89780001e58366'
 lang: zh-cn
-_srcHash: c9ab5b850b3868a5e710be8dd30c958c
+_srcHash: a3b9ef841b21eab013ee8ac459901ecf
 ---
 
 人们常说，带小孩旅行是家庭最令人兴奋的事情之一，但也可能是压力最大的挑战之一。在国外度假时，找到适合儿童的活动并不容易，但幸运的是，巴厘岛是世界上最适合家庭的目的地之一。通过各种活动，孩子们可以不断学习、受到启发并与当地文化保持联系，大人们也能放心，这个假期将为每个人创造积极的终身回忆。

@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/65c039affd89780001e5a3db'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: dae99eb3988cdd6b6c1f0ee016e24c6b
+_srcHash: 17707370d5381abbedc5f38f5923f428
 ---
 
 自2024年起，印尼将鼓励计划前往巴厘岛的游客使用线上移民服务。游客可以线上申请各种印尼签证，也可以线上办理签证延期手续，不用再跑到移民局办公室亲自办理啦！（2025/05/29最新更新：现在又改成要去移民局办公室按指纹咯！请看[这里](/blog/indonesia-visa-rules-2025/)）

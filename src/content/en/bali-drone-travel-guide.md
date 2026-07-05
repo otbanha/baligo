@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2f0104efdccf74a386739089ab23c795.jpg'
 originalUrl: 'https://vocus.cc/article/65504084fd897800011c51f2'
 lang: en
-_srcHash: 854a49b9cc457178b5f1920d70eba373
+_srcHash: e40edb0c837b76f9974a158212ebc6ec
 ---
 
 Are you planning a trip to Indonesia or Bali and worried about whether you can bring your drone? Don't worry, the answer is yes! You can bring your drone to Bali! But before you pack it in your suitcase, there are a few regulations you need to follow.

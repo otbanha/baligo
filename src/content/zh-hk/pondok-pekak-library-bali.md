@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3baed1ac21237aa6fdf68ef0eb9fa9c0.jpg'
 originalUrl: 'https://vocus.cc/article/6788bce6fd89780001e58366'
 lang: zh-hk
-_srcHash: c9ab5b850b3868a5e710be8dd30c958c
+_srcHash: a3b9ef841b21eab013ee8ac459901ecf
 ---
 
 成日聽人講，帶小朋友去旅行係家庭最令人興奮嘅事之一，但同時亦可能係最大壓力嘅挑戰之一。喺外國度假嗰陣，要搵到啱小朋友嘅活動並唔容易，但好彩嘅係，峇里島係世界上最適合家庭嘅目的地之一。透過各種活動，小朋友可以不斷學習、受到啟發，同埋同當地文化保持聯繫，大人們亦可以放心，呢個假期將會為每個人創造積極嘅終身回憶。

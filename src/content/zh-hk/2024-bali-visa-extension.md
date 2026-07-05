@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/65c039affd89780001e5a3db'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: dae99eb3988cdd6b6c1f0ee016e24c6b
+_srcHash: 17707370d5381abbedc5f38f5923f428
 ---
 
 自2024年起，印尼將鼓勵計劃前往峇里島嘅遊客使用線上移民服務。遊客可以線上申請各種印尼簽證，亦可以線上辦理簽證延期手續，唔使再跑到移民局辦公室親自辦理啦！（2025/05/29最新更新：而家又改咗要去移民局辦公室按手指模囉！請睇[呢度](/blog/indonesia-visa-rules-2025/)）

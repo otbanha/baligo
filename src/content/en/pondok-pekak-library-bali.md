@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3baed1ac21237aa6fdf68ef0eb9fa9c0.jpg'
 originalUrl: 'https://vocus.cc/article/6788bce6fd89780001e58366'
 lang: en
-_srcHash: c9ab5b850b3868a5e710be8dd30c958c
+_srcHash: a3b9ef841b21eab013ee8ac459901ecf
 ---
 
 It’s often said that traveling with kids is one of the most exciting things a family can do, but it can also be one of the most stressful challenges. Finding child-friendly activities while on vacation abroad isn’t always easy, but fortunately, Bali is one of the most family-friendly destinations in the world. Through a variety of activities, children can continuously learn, be inspired, and stay connected to local culture, while adults can rest assured that this vacation will create positive lifelong memories for everyone.

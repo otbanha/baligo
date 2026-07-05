@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/664a105ffd897800010f7f4f'
 category:
   - 旅行技巧
 lang: id
-_srcHash: d6a740a675710987818b3e52c7aeade4
+_srcHash: 1516cfe5b042bcb20a5ce1402277813f
 ---
 
 Starlink, layanan internet satelit milik Elon Musk, akhirnya resmi beroperasi di Indonesia. Ini adalah perubahan besar bagi pasar internet di Indonesia. Sebagai layanan internet berbasis satelit, Starlink bertujuan memberikan kecepatan tinggi, latensi rendah, dan jangkauan luas, terutama di daerah yang sulit dijangkau oleh layanan internet tradisional.
