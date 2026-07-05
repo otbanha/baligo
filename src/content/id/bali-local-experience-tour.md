@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_583eef972b6e05fc177f7b2fec2b6c51.jpg'
 originalUrl: 'https://vocus.cc/article/666141f9fd89780001c8324c'
 lang: id
-_srcHash: 75d3c4ce97df5638eb973b8c206be27a
+_srcHash: ccbf13a797c6b9ebeac2af590a27a28e
 ---
 
 Kebanyakan traveler yang pernah ke Bali dan jatuh cinta pasti pengen ngerasain kehidupan lokal yang lebih dalam, atau jalan-jalan yang bukan turis banget, tapi bingung mulai dari mana? Tempat terbaik buat ngerasain ritme kehidupan lokal dalam sehari adalah Denpasar, ibu kota Bali yang ada di pedalaman. Artikel ini bakal ngajak kamu eksplorasi kehidupan lokal Bali, mulai dari belanja di pasar tradisional, taman tepi sungai yang cantik, sampai pasar malam yang rame. Yuk, kita masuk ke tanah yang penuh pesona ini dan rasain vibe Bali yang paling asli!

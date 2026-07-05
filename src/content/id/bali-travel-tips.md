@@ -17,7 +17,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9fef7339fe14f7635e55eb9eb13f7627.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b7dfd897800013a97bc'
 lang: id
-_srcHash: 519bc9e00b1a270e07edcdb43c1d2a32
+_srcHash: 7a3b8f34057a7b58361d05ed5d175e93
 ---
 Liburan ke Bali juga petualangan kuliner, lho! Kamu tahu nggak apa aja 10 makanan khas Bali yang wajib dicoba? Mau belajar satu kata bahasa Indonesia yang paling santai? Rekomendasi hotel/villa di Bali, dan tinggal di area mana yang oke? Cek aja tontonan dari Xiao Jie Indonesia
 

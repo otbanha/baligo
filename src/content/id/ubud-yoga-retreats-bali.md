@@ -38,7 +38,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e3d6b1a238b2a132511ebd9395fda710.jpg'
 originalUrl: 'https://vocus.cc/article/67451f5afd89780001f002f2'
 lang: id
-_srcHash: 99efeca30db0391d6dce6443cd6f06b4
+_srcHash: c931b040e1855e99f7e88098de6bab60
 ---
 
 ![Rekomendasi Penginapan Yoga di Ubud, Bali: 10 Pilihan Impian](https://images.gobaligo.id/vocus/vocus_7c732b073f5ce52b19b42925c798cc9d.jpg)

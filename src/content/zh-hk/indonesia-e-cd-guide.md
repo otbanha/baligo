@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/64e1946ffd89780001740b90'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: a2e14dd01f820f2edc18f9ebe9bd2bc0
+_srcHash: 5d3f4eba60a329af0d7436ef9c22acd4
 ---
 ## 咩係e-CD？
 

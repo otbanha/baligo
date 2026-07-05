@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a05b96220031b2f342c15e8724929028.jpg'
 originalUrl: 'https://vocus.cc/article/6631b966fd89780001eb74d2'
 lang: id
-_srcHash: cc705aa79bce045a310984fdaab60309
+_srcHash: 23fbb0089a57043b576401b900095395
 ---
 
 YouTuber "天堂鳥" (Burung Surga) nginep di Ayana Resort, resort paling hits di Bali. Di video YouTube-nya, dia kasih bocoran soal enam kolam renang kece dari total 14 kolam yang ada di Ayana. Videonya nunjukin gaya unik dan pemandangan cantik dari kolam-kolam ini, bikin banyak penonton terpesona. Kolam-kolam ini bukan cuma tempat buat berenang dan santai, tapi juga spot kece buat foto-foto dan bikin kenangan yang nggak terlupakan.

@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/64e1946ffd89780001740b90'
 category:
   - 簽證通關
 lang: en
-_srcHash: a2e14dd01f820f2edc18f9ebe9bd2bc0
+_srcHash: 5d3f4eba60a329af0d7436ef9c22acd4
 ---
 The Indonesia Electronic Customs Declaration (e-CD) is an online customs declaration form that all travelers to Indonesia must complete. You can access the electronic form online and input the required information. Once you complete the e-CD, you will receive an email containing the completed form and a QR code. You must proactively display the QR code on your phone or a printed copy for scanning at the final checkpoint, "Customs Declaration," before exiting the airport.
 

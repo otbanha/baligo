@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_583eef972b6e05fc177f7b2fec2b6c51.jpg'
 originalUrl: 'https://vocus.cc/article/666141f9fd89780001c8324c'
 lang: zh-hk
-_srcHash: 75d3c4ce97df5638eb973b8c206be27a
+_srcHash: ccbf13a797c6b9ebeac2af590a27a28e
 ---
 大部分去過峇里島，同埋愛上咗峇里島嘅旅客，都希望可以深入體驗峇里島嘅地道生活，或者嚟趟非遊客嘅行程，但係唔知點入手? 用一日時間體驗地道生活節奏最好嘅地方，就係位於峇里島內陸嘅首府登巴薩（Denpasar）。呢篇文章會帶你深入探索峇里島嘅地道生活，由當地市場嘅購物體驗，到靚嘅河濱公園，再到熱鬧嘅夜市。等我哋一齊走入呢片充滿魅力嘅土地，感受最真實嘅峇里島風情啦！
 

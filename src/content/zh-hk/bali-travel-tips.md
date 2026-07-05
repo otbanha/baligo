@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9fef7339fe14f7635e55eb9eb13f7627.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b7dfd897800013a97bc'
 lang: zh-hk
-_srcHash: 519bc9e00b1a270e07edcdb43c1d2a32
+_srcHash: 7a3b8f34057a7b58361d05ed5d175e93
 ---
 
 峇里島旅遊都係一趟美食之旅㗎！您知唔知有邊十大峇里島美食呢？想學一句最地道嘅印尼語嗎？峇里島旅館/villa推薦、峇里島住邊一區好呢？請睇小傑印尼嘅介紹
