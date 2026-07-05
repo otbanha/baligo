@@ -17,7 +17,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_379163a23650c3f251e94357f93c0736.jpg'
 originalUrl: 'https://vocus.cc/article/683ea99cfd897800010202aa'
 lang: id
-_srcHash: f283767acfae61d86add107dbc01f2dd
+_srcHash: 24521447a8fde828141711e9c07312dd
 ---
 Kuta sebagai kawasan paling ramai di Bali, punya banyak turis, dan pastinya nggak ketinggalan dengan ragam kulinernya. Jenis restoran di Kuta itu beragam, dari masakan tradisional Indonesia sampai makanan internasional semua ada, bikin kamu bisa menikmati petualangan kuliner sepuasnya. Di bawah ini kami rekomendasiin beberapa restoran, dan lokasi tempat makan enak ini juga udah kami tandai di 'Peta Panduan Kuta' paling bawah, biar gampang buat rencana liburan kamu. Tentu aja masih banyak restoran kece lainnya di Kuta yang siap kamu eksplor!
 

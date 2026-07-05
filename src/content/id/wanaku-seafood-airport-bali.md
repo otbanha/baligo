@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/6794fb39fd897800011b4132'
 category:
   - 美食景點活動
 lang: id
-_srcHash: de04b62815df67ab19369f5cbdf92dbf
+_srcHash: 16bd160b86b84e9006b548c265a24d43
 ---
 
 Kalau kamu lagi di Bali dan nyari tempat yang bisa memuaskan lidah sekaligus kasih pengalaman makan yang beda, **Wanaku Seafood & Chinese Restaurant** adalah pilihan yang nggak salah. Restoran yang terletak di pusat Bali ini terkenal dengan seafood segar dan masakan Tiongkok asli, jadi salah satu restoran seafood Tiongkok paling terkenal di Bali. Mereka menggabungkan makanan dengan suasana yang pas, bikin pengalaman makan yang nggak terlupakan.

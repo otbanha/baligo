@@ -17,7 +17,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2a41d804df97245672019ea01f2b611f.jpg'
 originalUrl: 'https://vocus.cc/article/671a506ffd8978000182fb4f'
 lang: id
-_srcHash: 22cc18e3d93f89eb14d6b3ccabc5e9e3
+_srcHash: bdf82dccdfd954e6f69059ef1f3822de
 ---
 Nusa Lembongan dan Nusa Ceningan adalah dua pulau hidden gem di dekat Bali, punya pemandangan laut yang ciamik dan vibe santai. Bukan cuma tempat diving favorit, restoran dan barnya juga kasih banyak pilihan kuliner. Berikut beberapa rekomendasi tempat makan, bar, dan beach club yang pas banget buat kamu yang pengin relaks sambil menikmati kuliner dan panorama kece.
 

@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8f4c523d5f5a290a5bf5c83a79493923.jpg'
 originalUrl: 'https://vocus.cc/article/6986c5c0fd897800017582f6'
 lang: zh-hk
-_srcHash: fe53cedde55a5fea14acec548ac86ddc
+_srcHash: 5afd0d5e0fab23fe5e874b4702fe2aa6
 ---
 
 ![烏布嘅頌缽療癒/音療 Ubud Sound Healing/Singing Bowl Meditation](https://images.gobaligo.id/vocus/vocus_f0c03f764badb198fc2e90c575d202a6.jpg)

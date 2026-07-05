@@ -26,7 +26,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3300dc8a58bc532d7df11537b9bac64b.jpg'
 originalUrl: 'https://vocus.cc/article/689c185efd8978000170dbdc'
 lang: id
-_srcHash: d33d034e7e2b699e84dc486e3ea7a9de
+_srcHash: 62f5b7c1ca21ab2e4b6b8ec6e2949f05
 ---
 
 ## Kenapa Tanjung Benoa Jadi Pusat Olahraga Air di Bali

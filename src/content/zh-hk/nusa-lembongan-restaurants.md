@@ -10,7 +10,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2a41d804df97245672019ea01f2b611f.jpg'
 originalUrl: 'https://vocus.cc/article/671a506ffd8978000182fb4f'
 lang: zh-hk
-_srcHash: 22cc18e3d93f89eb14d6b3ccabc5e9e3
+_srcHash: bdf82dccdfd954e6f69059ef1f3822de
 ---
 
 藍夢島同金銀島係峇里島附近嘅兩個隱世小島，擁有迷人嘅海景同放鬆嘅氛圍，唔單止係熱門嘅潛水勝地，呢度嘅餐廳同酒吧亦為遊客提供咗豐富嘅用餐選擇。以下係幾個值得推薦嘅餐飲同酒吧地點，仲有適合徹底放鬆嘅海灘俱樂部，特別適合前來解放壓力、享受美食同美景嘅你。

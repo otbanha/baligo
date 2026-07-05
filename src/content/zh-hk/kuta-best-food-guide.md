@@ -10,7 +10,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_379163a23650c3f251e94357f93c0736.jpg'
 originalUrl: 'https://vocus.cc/article/683ea99cfd897800010202aa'
 lang: zh-hk
-_srcHash: f283767acfae61d86add107dbc01f2dd
+_srcHash: 24521447a8fde828141711e9c07312dd
 ---
 
 庫塔作為峇里島最旺嘅地段，遊客最多，自然唔少得豐富嘅美食。庫塔嘅餐廳種類好多，由傳統印尼菜到國際美食乜都有，你可以盡情享受美食之旅。下面我哋推薦一啲餐廳，呢啲餐廳嘅位置都標咗喺最下面嘅「庫塔攻略地圖」入面，方便大家計劃行程。當然，庫塔仲有好多美食餐廳等緊你去發掘！
