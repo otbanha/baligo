@@ -23,6 +23,7 @@ pnpm-debug.log*
 # jetbrains setting folder
 .idea/
 .translation-cache.json
+.chatbot-index-cache.json
 
 # Claude Code worktrees (local only, should never be committed)
 .claude/worktrees/

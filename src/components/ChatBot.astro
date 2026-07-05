@@ -85,6 +85,14 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
   const bubbleBtn = document.getElementById('chat-bubble-btn');
   const closeBtn = document.getElementById('chatbot-close');
 
+  // 對話歷史：只在本次頁面停留期間保留，最多 3 輪（6 則），送給後端組 context
+  const MAX_HISTORY_TURNS = 3;
+  let conversationHistory = [];
+  function pushHistory(role, content) {
+    conversationHistory.push({ role, content });
+    conversationHistory = conversationHistory.slice(-MAX_HISTORY_TURNS * 2);
+  }
+
   function openPanel() {
     if (window.innerWidth <= 768) {
       // 手機：立即隱藏 bubble，直接展開 panel
@@ -196,7 +204,7 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
       const res = await fetch(API_URL, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ message: text, lang: htmlLang }),
+        body: JSON.stringify({ message: text, lang: htmlLang, history: conversationHistory }),
       });
 
       if (!res.ok) {
@@ -236,12 +244,23 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
           }
         }
         avatar.classList.remove('spinning');
-        if (!fullText) bubble.innerHTML = `<span class="error">${errFallback}</span>`;
+        if (!fullText) {
+          bubble.innerHTML = `<span class="error">${errFallback}</span>`;
+        } else {
+          pushHistory('user', text);
+          pushHistory('assistant', fullText);
+        }
       } else {
         // Fallback: cached JSON response
         const data = await res.json();
         avatar.classList.remove('spinning');
-        bubble.innerHTML = data.reply ? renderReply(data.reply) : `<span class="error">${data.error || errFallback}</span>`;
+        if (data.reply) {
+          bubble.innerHTML = renderReply(data.reply);
+          pushHistory('user', text);
+          pushHistory('assistant', data.reply);
+        } else {
+          bubble.innerHTML = `<span class="error">${data.error || errFallback}</span>`;
+        }
         messages.scrollTop = messages.scrollHeight;
       }
     } catch {

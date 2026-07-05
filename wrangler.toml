@@ -4,6 +4,10 @@ compatibility_flags = ["nodejs_compat_v2"]
 [ai]
 binding = "AI"
 
+[[vectorize]]
+binding = "VECTORIZE"
+index_name = "gobaligo-chatbot"
+
 [[r2_buckets]]
 binding = "R2_BUCKET"
 bucket_name = "baligo-image"
