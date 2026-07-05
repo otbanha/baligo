@@ -143,7 +143,14 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
       if (match) {
         return `<a href="${escapeHtml(match[2])}" class="chat-link" target="_blank" rel="noopener">${escapeHtml(match[1])}</a>`;
       }
-      return escapeHtml(part).replace(/\n/g, '<br>');
+      // 「延伸閱讀」引用格式是「→ 網址/路徑」的純文字，不一定會照 markdown 語法輸出，
+      // 這裡把箭頭後面的裸網址也轉成可點擊連結
+      const escaped = escapeHtml(part);
+      const linked = escaped.replace(
+        /(→\s*)(https?:\/\/[^\s<]+|\/[\w-][\w\-/]*\/?)/g,
+        (_m, arrow, url) => `${arrow}<a href="${url}" class="chat-link" target="_blank" rel="noopener">${url}</a>`
+      );
+      return linked.replace(/\n/g, '<br>');
     }).join('');
   }
 
