@@ -16,14 +16,17 @@ originalUrl: 'https://vocus.cc/article/64db6b7dfd897800013a978a'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 932b5cafa872083702e601e1d743063a
+_srcHash: e9a2c096696daea72762366411b3d5d6
 ---
+Update: 2026/07/05
 
-![2025最新版印尼/巴厘岛入境签证&电子签证eVoA 填写相关 FAQ](https://images.gobaligo.id/vocus/vocus_d3fe29fb0bf4ee0c337c1560d8efee0f.jpg)
+![2025最新版印尼/峇里島入境簽證&電子簽證eVoA 填寫相關 FAQ](https://images.gobaligo.id/vocus/vocus_d3fe29fb0bf4ee0c337c1560d8efee0f.jpg)
 
 
 
 2025年要入境、旅行和进入印尼的国际旅客，有一些细节需要特别注意。以下我们整理统合了在脸书社团「[巴厘岛/印尼吃喝玩乐](https://www.facebook.com/groups/indonesia.travelguide/)」实际申请过的网友回报的申请常见问题，能帮助你了解旅行和签证的要求。
+
+想看完整的签证申请步骤与注意事项？请参考：[印尼/巴厘岛电子签证eVisa/eVoa全攻略：申请步骤、注意事项一次掌握！](/zh-cn/blog/bali-evisa-application-guide/)
 
 ---
 
