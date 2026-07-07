@@ -12,29 +12,44 @@
    ============================================================ */
 
 body {
-  font-size: 14px;
+  font-size: 13px;
 }
 
 .postbody, .content {
-  font-size: 17px;
+  font-size: 13px;
   line-height: 1.85;
 }
 
 .forumtitle, .topictitle {
-  font-size: 16px;
+  font-size: 14px;
 }
 
 @media (max-width: 640px) {
   body {
-    font-size: 14px;
+    font-size: 13px;
   }
   .postbody, .content {
-    font-size: 16px;
+    font-size: 13px;
     line-height: 1.75;
   }
   .forumtitle, .topictitle {
-    font-size: 15px;
+    font-size: 14px;
   }
+}
+
+/* 清單換行縮排修正 — 符號放在文字框外側，保留縮排空間，
+   避免長文字換行後貼回最左邊跟符號疊在一起 */
+.postbody ul,
+.postbody ol,
+.content ul,
+.content ol {
+  padding-left: 1.6em;
+  margin-left: 0;
+}
+
+.postbody li,
+.content li {
+  list-style-position: outside;
 }
 
 /* ============================================================
