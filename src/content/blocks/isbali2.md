@@ -1,7 +1,7 @@
 ---
 title: isbali2
 type: random-list
-randomCount: 4
+randomCount: 5
 ---
 
 ## ▼更多正在進行的優惠
@@ -13,5 +13,6 @@ randomCount: 4
 - [🌋【伊真火山+峇里島】藍火+賽武瀑布+布羅莫日出｜五日遊全包](/blog/ijen-bromo-bali-luxury-tour/)
 - [📸【頂級峇里島豪華VIP旅遊】Alphard專車+五星住宿](/blog/bali-luxury-vip-travel-guide/)
 - [👨‍👨‍👦‍👦【團體旅遊如何安排】團體旅遊易踩雷？5大難題你想過了嗎？](/blog/bali-group-travel-tips/)
-- [🕍【峇里島凱賓斯基】限時促銷 NTD 9,833 含稅+早餐+下午茶](/blog/apurva-kempinski-bali-deal/)
+- [🕍【峇里島凱賓斯基】限時促銷 NTD 10,833 含稅+早餐+下午茶](/blog/apurva-kempinski-bali-deal/)
 - [🦒【峇里島豪華親子團】與動物共眠：入住野生動物園飯店，6D5N NT23,833](/blog/2026-03-29-023447/)
+- 👩‍❤️‍👨[【專屬兩人的海島私奔】峇里島 × 佩妮達島浪漫輕奢6日遊｜AYANA渡假村、私人泳池Villa](https://gobaligo.id/blog/bali-romance-tour/)
