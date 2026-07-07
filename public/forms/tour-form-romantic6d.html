@@ -314,6 +314,20 @@ const T = {
 };
 
 function detectLang() {
+  // 1. 優先讀外層頁面的語系（iframe 同網域）
+  try {
+    const parentLang = window.parent.document.documentElement.lang.toLowerCase();
+    if (parentLang.startsWith('zh-hk')) return 'hk';
+    if (parentLang.startsWith('zh-tw') || parentLang.startsWith('zh-hant')) return 'tw';
+    if (parentLang.startsWith('zh-cn') || parentLang.startsWith('zh-hans')) return 'cn';
+    if (parentLang.startsWith('en')) return 'en';
+  } catch(e) {}
+
+  // 2. 讀 URL 參數 ?lang=tw
+  const urlLang = new URLSearchParams(window.location.search).get('lang');
+  if (urlLang && ['tw','cn','hk','en'].includes(urlLang)) return urlLang;
+
+  // 3. fallback 讀瀏覽器語言
   const langs = navigator.languages || [navigator.language || 'zh-TW'];
   for (const l of langs) {
     const c = l.toLowerCase();
