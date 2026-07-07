@@ -1,7 +1,10 @@
 ---
 slug: bali-evisa-application-guide
-title: "Bali Visa 2026: eVOA, Visa on Arrival & Extension Guide"
-description: "Complete 2026 guide to Bali's eVOA and Visa on Arrival: application steps, fees, extension timing, and the photo and scam mistakes to avoid before you fly."
+title: 'Bali Visa 2026: eVOA, Visa on Arrival & Extension Guide'
+description: >-
+  Complete 2026 guide to Bali's eVOA and Visa on Arrival: application steps,
+  fees, extension timing, and the photo and scam mistakes to avoid before you
+  fly.
 pubDate: '2024-02-06'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3555f058ff83ba279333d5807215c754.png'
 tags:
@@ -14,56 +17,56 @@ originalUrl: 'https://vocus.cc/article/65c217c5fd897800010113af'
 category:
   - 簽證通關
 lang: en
-_srcHash: 7b52249497f187a149466324faf0b22e
+_srcHash: 0be7ab55ab4d667e52942b48da874e61
 ---
-Update: 2026/07/05
+Updated: July 5, 2026
 
-**Bottom line**: Most tourists should apply for the **eVOA online** before departure (Rp 500,000 / ~USD$32, valid 30 days, extendable once for another 30). It's the same visa as the airport Visa on Arrival, just faster and queue-free. Apply only at **evisa.imigrasi.go.id** — fake lookalike sites and post-approval "extra fee" emails are common scams (see [Common Mistakes](#common-mistakes-to-avoid) below).
+## **What is an Electronic Visa (e-Visa)?**
 
-## **What is an Electronic Visa?**
+**Bottom Line**: Indonesia's e-Visa on Arrival (eVoA) must be applied for on the **official Directorate General of Immigration website** (the only legitimate site — many fake scam sites exist online). The fee is approximately **500,000 Indonesian Rupiah (USD$32)**, valid for 30 days and extendable once up to 60 days. Regular tourists must select the **【B1 - Tourism】** category, apply within 3 days before departure, and use Visa, Mastercard, or JCB for payment (Amex is not accepted).
 
-An electronic visa (electronic visa on arrival, abbreviated as eVoA/eVisa) refers to a visa that travelers apply for online through the official website of the Indonesian Immigration Directorate before departure. The application fee for the e-Visa is the same as that for the manual visa on arrival at the airport, which is 500,000 Indonesian Rupiah (approximately USD$32). The visa is valid for 30 days, can be extended once, and allows a maximum stay of 60 days. However, additional fees are charged for credit card payments.
+An electronic visa (electronic visa on arrival, abbreviated as eVoA/eVisa) refers to a visa that travelers apply for online through the official website of the Indonesian Immigration Directorate before departure. The application fee for the eVoA is the same as that for the manual visa on arrival at the airport, which is 500,000 Indonesian Rupiah (approximately USD$32). The visa is valid for 30 days and can be extended once, allowing a maximum stay of 60 days. However, additional fees may apply for credit card payments.
 
-![What is an Electronic Visa?](https://images.gobaligo.id/vocus/vocus_b494c08f27d320e4d119e85eb298d600.png)
+![什麼是電子簽證？](https://images.gobaligo.id/vocus/vocus_b494c08f27d320e4d119e85eb298d600.png)
 
-## Steps to Apply for an Electronic Visa
+## Electronic Visa Application Steps
 
-1. [Fill out the form on the website](https://evisa.imigrasi.go.id/) (<-- This is the only official website link; there are many fake ones online that scam money)
+1. [Fill out the form on the website](https://evisa.imigrasi.go.id/) (<-- This is the only official link, beware of fake websites)
 2. Prepare a passport valid for more than six months
-3. For general tourists visiting Indonesia or Bali, please select this option: 【B1 - Tourism (Visa On Arrival 30 Days)】. Do not choose the wrong one!
-4. Fill in travel information and upload your passport (photo page) and a photo (can be taken with a phone, clearly identifiable, preferably against a single-color background)
-5. Have a payment credit card ready (online payments require Visa, Mastercard, or JCB credit cards. Up to five people can apply/use one credit card. Amex cards are not accepted! The total amount after fees is Rp.519,500)
+3. For general tourists visiting Indonesia or Bali, please select 【B1 - Tourism (Visa On Arrival 30 Days)】, make sure not to choose the wrong option!
+4. Fill in travel information and upload your passport (photo page) and a photo (can be taken with a phone, clearly identifiable, preferably against a plain background)
+5. Prepare a credit card for payment (online payment requires Visa, Mastercard, or JCB credit cards. Up to five people can apply simultaneously using one credit card. Amex cards are not accepted. The total amount after fees is Rp.519,500)
 
-The e-Visa application should be completed within 3 days before departure. It is valid for 90 days after a single application. If you have questions about the visa application, here is the 【[FAQ for Entering Indonesia/Bali e-Visa/All Indonesia](https://s.id/AllInsonesia)】
+The eVoA can be applied for up to 3 days before departure. It is valid for 90 days after a single application. If you have questions about the visa application, here is the 【[FAQ for Entering Indonesia/Bali eVisa/All Indonesia](https://s.id/AllInsonesia)】
 
 ## What are the Advantages of an Electronic Visa?
 
-The e-Visa application usually takes only a few minutes to complete. The advantage of applying for the e-Visa in advance is that you don't have to queue for a visa on arrival after landing, and starting from 2024, you can use almost queue-free electronic immigration gates.
+The application for an eVoA usually takes only a few minutes to complete. The advantage of applying for an eVoA in advance is that you don't need to queue for a visa on arrival after landing, and starting from 2024, you can use almost queue-free electronic immigration gates.
 
-> Further Reading: [Quick and Convenient! 2025 Bali Automatic Customs Process & Guide](/en/blog/2025-bali-automatic-customs/)
+> Read More: [Fast and Convenient! 2025 Bali Automated Customs Process & Clearance Guide](/en/blog/2025-bali-automatic-customs/)
 
 **B1 Tourist Visa**
 
 ![一般遊客要選擇這個簽證喔！(PS. 已不需要創建帳戶/註冊)](https://images.gobaligo.id/vocus/vocus_3e1c8fa4a7c9afa28ae3cec64c64155c.png)
 
-This is the visa most tourists should choose! (PS. No longer need to create an account/register)
+This is the visa most tourists should choose! (PS: No account creation/registration required)
 
-## What other documents are needed besides the e-visa?
+## What documents are needed besides the electronic visa?
 
-Please refer to the detailed instructions for all procedures here: [Bali, Indonesia Entry Using the 'All Indonesia' Declaration System｜1-Minute Guide to the Latest Process: From Landing → Customs → Baggage Claim](/en/blog/bali-all-indonesia-arrival-guide/)
+For a detailed walkthrough of the entire process, check out this guide: [Indonesia Bali Arrival: Using the 'All Indonesia' Declaration System｜Master the Latest Process in 1 Minute: From Landing → Customs → Baggage Claim Full Guide](/en/blog/bali-all-indonesia-arrival-guide/)
 
-## eVOA vs. Airport Visa on Arrival — Which One Should You Get?
+## E-Visa vs. Visa on Arrival: Which One Should You Choose?
 
-Both options cost the same and grant the same 30-day stay, but they're not identical in practice. If you'd rather queue at the airport counter than fill out a form in advance, or you're unsure which fits your trip, see our full breakdown: [Bali Travel Visa Guide: On-Arrival Visa vs. E-Visa — Which is Better for You?](/en/blog/bali-visa-landing-vs-electronic/)
+Both options have the same cost and validity period; the only difference is whether you need to fill out an online form in advance. If you prefer to apply for a visa on arrival directly at the airport or are still unsure which one suits your itinerary best, check out the full comparison: [Bali Visa on Arrival vs. E-Visa: Which One Is Right for You?](/en/blog/bali-visa-landing-vs-electronic/)
 
 ## Online Visa Extension
 
-Starting from 2024, Indonesia will encourage tourists planning to visit Bali to use online immigration services. Tourists can apply for various Indonesian visas online and also extend their visas online, without having to visit the immigration office in person! How to extend online? Check out [our prepared guide](/en/blog/2024-bali-visa-extension/).
+Starting in 2024, Indonesia will encourage travelers planning to visit Bali to use online immigration services. Tourists can apply for various Indonesian visas online, and also handle visa extensions online without having to visit an immigration office in person. How do you extend your visa online? Check out [our tutorial](/en/blog/2024-bali-visa-extension/).
 
 ## Common Mistakes to Avoid
 
-Most eVOA problems come down to two things: a rejected photo upload, or a scam email after you've already paid.
+The two most common hurdles in applying for an electronic visa: photo upload failures and receiving scam emails after approval.
 
-- **Photo won't upload?** It's almost always a file size issue. See our fix: [Having Trouble Uploading Your Photo for the Indonesia/Bali eVisa? Here's How to Fix It](/en/blog/bali-evoa-photo-fix/)
-- **Got an email asking for more money after approval?** It's a scam — the government never charges extra post-approval. Full details: [Beware of the Latest Email Scam After Applying for an Indonesian Visa!](/en/blog/indonesia-evoa-scam-alert/)
-- **Still have questions?** Check our [Indonesia/Bali Entry Visa & eVOA FAQ](/en/blog/indonesia-bali-visa-evoa-faq/) for answers to the most common questions travelers ask.
+- **Can't upload your photo?** It's almost always because the file is too large. Here's the fix: [Indonesia/Bali e-Visa Photo Upload Failed? Here's a Simple Trick](/en/blog/bali-evoa-photo-fix/)
+- **Got an email asking for extra payment after approval?** That's a scam—official approval never requires additional fees. Details here: [Beware! Latest Scam Email After Applying for Indonesia Visa Exposed!](/en/blog/indonesia-evoa-scam-alert/)
+- **Have other questions?** Check out our [Indonesia/Bali Entry Visa and eVoA FAQ](/en/blog/indonesia-bali-visa-evoa-faq/)
