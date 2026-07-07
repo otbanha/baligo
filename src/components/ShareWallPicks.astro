@@ -24,10 +24,11 @@ const t = i18n[lang] ?? i18n['zh-tw'];
 </div>
 
 <script>
-(async () => {
+(() => {
   const list = document.getElementById('swp-list');
   const shuffleBtn = document.getElementById('swp-shuffle');
-  if (!list) return;
+  const widget = list?.closest('.swp-widget');
+  if (!list || !widget) return;
 
   const PLAT_ICON = { youtube: '▶', threads: '◉', instagram: '◈', tiktok: '♪', facebook: 'f' };
   const PLAT_LABEL = {
@@ -193,21 +194,31 @@ const t = i18n[lang] ?? i18n['zh-tw'];
     activateEmbedMedia(list);
   }
 
-  try {
-    const res = await fetch('/api/recent-unfurls?limit=30');
-    const data = await res.json();
-    pool = (data.items || []).filter((it) => it.sourceUrl);
-    if (pool.length === 0) {
+  async function load() {
+    try {
+      const res = await fetch('/api/recent-unfurls?limit=30');
+      const data = await res.json();
+      pool = (data.items || []).filter((it) => it.sourceUrl);
+      if (pool.length === 0) {
+        list.innerHTML = '';
+        shuffleBtn?.style.setProperty('display', 'none');
+        return;
+      }
+      render();
+      shuffleBtn?.addEventListener('click', render);
+    } catch {
       list.innerHTML = '';
       shuffleBtn?.style.setProperty('display', 'none');
-      return;
     }
-    render();
-    shuffleBtn?.addEventListener('click', render);
-  } catch {
-    list.innerHTML = '';
-    shuffleBtn?.style.setProperty('display', 'none');
   }
+
+  const io = new IntersectionObserver((entries) => {
+    if (entries.some((e) => e.isIntersecting)) {
+      io.disconnect();
+      load();
+    }
+  }, { rootMargin: '200px' });
+  io.observe(widget);
 })();
 </script>
 

@@ -89,7 +89,7 @@ const allPostsData = allPosts
     id: p.id,
     slug: p.data.slug || p.id,
     title: p.data.title,
-    description: p.data.description || '',
+    description: (p.data.description || '').slice(0, 100),
     heroImage: p.data.heroImage || '',
     category: getCategories(p.data.category),
   }));

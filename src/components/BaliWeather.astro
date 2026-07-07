@@ -740,15 +740,24 @@ const codeMapId: Record<string, [string, string]> = {
     });
   }
 
-  render(currentRegion);
-
-  // Compact: make card clickable (skip buttons and anchors)
   if (root.dataset.href) {
+    // Compact widget（blog 首頁側欄，below-fold）：捲動進可視範圍才 fetch
+    const io = new IntersectionObserver((entries) => {
+      if (entries.some((e) => e.isIntersecting)) {
+        io.disconnect();
+        render(currentRegion);
+      }
+    }, { rootMargin: '200px' });
+    io.observe(root);
+
+    // 讓整張卡可點擊（略過按鈕與連結）
     root.addEventListener('click', (e) => {
       const t = e.target as HTMLElement;
       if (t.closest('button, a')) return;
       window.location.href = root.dataset.href!;
     });
+  } else {
+    render(currentRegion);
   }
 })();
 </script>

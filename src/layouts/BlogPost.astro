@@ -987,10 +987,19 @@ window.addEventListener('load', () => {
     }
 
     // ── 主流程 ────────────────────────────────────────────
+    // 先掃描全文分組（純讀取，成本低），實際包裝/建輪播的 DOM 重組
+    // 則延後到該段落捲動進可視範圍（含預留 300px）才執行，避免長文章
+    // 一次性同步處理所有圖片造成主執行緒阻塞。
     const prose = document.querySelector('.prose');
     if (!prose) return;
 
     const visited = new WeakSet<Element>();
+    const claimedImgs = new WeakSet<HTMLImageElement>();
+    const taskMap = new Map<Element, () => void>();
+
+    function claim(imgs: HTMLImageElement[]) {
+      imgs.forEach(img => claimedImgs.add(img));
+    }
 
     Array.from(prose.querySelectorAll('p')).forEach(para => {
       if (visited.has(para)) return;
@@ -1002,7 +1011,8 @@ window.addEventListener('load', () => {
 
       if (imgs.length >= 2) {
         // 情況 A：單一 <p> 內含多張圖（無空行，最常見）
-        buildCarousel(imgs, [para]);
+        claim(imgs);
+        taskMap.set(para, () => buildCarousel(imgs, [para]));
       } else {
         // 情況 B：<p> 只有一張圖 → 往下收集連續的同類 <p>
         const group: Element[] = [para];
@@ -1018,15 +1028,33 @@ window.addEventListener('load', () => {
         if (group.length >= 2) {
           // 多個單圖 <p> 連續排列（有空行）
           const allImgs = group.map(p => p.querySelector('img') as HTMLImageElement);
-          buildCarousel(allImgs, group);
+          claim(allImgs);
+          taskMap.set(para, () => buildCarousel(allImgs, group));
         } else {
-          wrapImg(imgs[0]);
+          claim(imgs);
+          taskMap.set(imgs[0], () => wrapImg(imgs[0]));
         }
       }
     });
 
     // 剩餘未包裝的圖片（inline、表格內等）
-    prose.querySelectorAll<HTMLImageElement>('img').forEach(wrapImg);
+    prose.querySelectorAll<HTMLImageElement>('img').forEach(img => {
+      if (claimedImgs.has(img)) return;
+      taskMap.set(img, () => wrapImg(img));
+    });
+
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (!entry.isIntersecting) return;
+        const run = taskMap.get(entry.target);
+        if (!run) return;
+        run();
+        io.unobserve(entry.target);
+        taskMap.delete(entry.target);
+      });
+    }, { rootMargin: '300px' });
+
+    taskMap.forEach((_run, anchor) => io.observe(anchor));
   })();
 </script>
 

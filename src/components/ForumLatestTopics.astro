@@ -22,34 +22,45 @@ const t = i18n[lang] ?? i18n['zh-tw'];
 </div>
 
 <script>
-(async () => {
+(() => {
   const list = document.getElementById('flt-list');
-  if (!list) return;
+  const widget = list?.closest('.flt-widget');
+  if (!list || !widget) return;
 
-  try {
-    const res = await fetch('/api/forum-latest');
-    const data = await res.json();
-    const topics = data.topics || [];
+  async function load() {
+    try {
+      const res = await fetch('/api/forum-latest');
+      const data = await res.json();
+      const topics = data.topics || [];
 
-    if (topics.length === 0) { list.innerHTML = ''; return; }
+      if (topics.length === 0) { list.innerHTML = ''; return; }
 
-    function sanitize(str) {
-      const d = document.createElement('div');
-      d.textContent = str ?? '';
-      return d.innerHTML;
+      function sanitize(str) {
+        const d = document.createElement('div');
+        d.textContent = str ?? '';
+        return d.innerHTML;
+      }
+
+      list.innerHTML = topics.map((topic) => `
+        <li class="flt-item">
+          <a href="${sanitize(topic.url)}" class="flt-link" target="_blank" rel="noopener">
+            <img src="/favicon-16x16.png" class="flt-icon" alt="" aria-hidden="true" />
+            <span class="flt-post-title">${sanitize(topic.title)}</span>
+          </a>
+        </li>`).join('');
+
+    } catch {
+      list.innerHTML = '';
     }
-
-    list.innerHTML = topics.map((topic) => `
-      <li class="flt-item">
-        <a href="${sanitize(topic.url)}" class="flt-link" target="_blank" rel="noopener">
-          <img src="/favicon-16x16.png" class="flt-icon" alt="" aria-hidden="true" />
-          <span class="flt-post-title">${sanitize(topic.title)}</span>
-        </a>
-      </li>`).join('');
-
-  } catch {
-    list.innerHTML = '';
   }
+
+  const io = new IntersectionObserver((entries) => {
+    if (entries.some((e) => e.isIntersecting)) {
+      io.disconnect();
+      load();
+    }
+  }, { rootMargin: '200px' });
+  io.observe(widget);
 })();
 </script>
 
