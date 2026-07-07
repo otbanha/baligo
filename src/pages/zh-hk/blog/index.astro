@@ -31,7 +31,7 @@ function extractFirstImage(body: string): string {
 }
 
 const langPosts = await getCollection('zh-hk');
-const langMap = new Map(langPosts.map(p => [p.id, p]));
+const langMap = new Map(langPosts.map(p => [p.data.slug || p.id, p]));
 
 function getPublishTime(p: any): Date {
   const d = new Date(p.data.pubDate);
@@ -45,7 +45,7 @@ const isPublished = (p: any) => p.data.pubDate && !p.data.private && getPublishT
 const allPosts = (await getCollection('blog'))
   .filter(isPublished)
   .map(p => {
-    const t = langMap.get(p.id);
+    const t = langMap.get(p.data.slug || p.id);
     return {
       ...p,
       data: {
@@ -105,7 +105,7 @@ const baliNewsRaw = allBlogRaw
   .sort((a, b) => getPublishTime(b).valueOf() - getPublishTime(a).valueOf())
   .at(0);
 
-const baliNewsToRender = (baliNewsRaw && langMap.get(baliNewsRaw.id)) ?? baliNewsRaw;
+const baliNewsToRender = (baliNewsRaw && langMap.get(baliNewsRaw.data.slug || baliNewsRaw.id)) ?? baliNewsRaw;
 const { Content: BaliNewsContent } = baliNewsToRender
   ? await render(baliNewsToRender)
   : { Content: null };
