@@ -11,11 +11,12 @@ originalUrl: ''
 shuffle_h2: true
 embeds: []
 lang: zh-cn
-_srcHash: 80980db41bba5580b98621470899167c
+_srcHash: ba4be31ae4a653dd8723b03bad6e132a
 ---
+
 Update: 2026/07/03
 
-**本页是什么**：巴厘岛包车司机「网友评鉴名人榜」第二页，收录脸书社团网友真实推荐的中文沟通司机。每位司机名下的「网友推荐」链接都是可点击查证的原始社团贴文，推荐数越多代表口碑累积越久。包车行情约 **Rp 600,000–800,000／天（含油费，约 10 小时）**，联系时请说明日期、人数与想去的区域。
+**本页内容**：巴厘岛包车司机「网友评鉴名人榜」第二页，收录脸书社团网友真实推荐的中文沟通司机。每位司机名下的「网友推荐」链接都是可点击查证的原始社团贴文，推荐数越多代表口碑积累越久。包车行情约 **Rp 600,000–800,000／天（含油费，约 10 小时）**，联系时请说明日期、人数与想去的区域。
 
 第一页，获得我们优先推荐的司机在[这里](https://gobaligo.id/zh-cn/blog/bali-private-car-drivers-guide/)
 
@@ -117,23 +118,31 @@ Update: 2026/07/03
 
 👍🏼[网友推荐1](https://www.facebook.com/share/p/1AMUy8XQJC/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/186Vs8hbsD/) 👍🏼[网友推荐3](https://www.facebook.com/share/1ED9boaUC7/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/1AK9XoQjiH/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/15tr79GCtL/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1GHbhFPc3F/)
 
-## Putu Dimas
-
-![Putu Dimas](https://images.gobaligo.id/images/2026-03/1774788166261-new.jpg)
-
-👍🏼[网友推荐1](https://www.facebook.com/share/p/1ESoigNQ2h/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/1ApnuYW744/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1AtAt69yE2/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/1KhoUWKk8J/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1DXtpVrXjz/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/18nHVoCWo8/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/1Cdc1dWKHk/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/1D1goxHNqs/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/1CqNJXhzX8/)
+##
 
 ## Gung Bali Wangzi 王子
 
 ![Gung Bali Wangzi 王子](https://images.gobaligo.id/images/2026-05/1778420410346-new.jpg)
 
-👍🏼[网友推荐1 ](https://www.facebook.com/share/p/1Cd1X626mG/)👍🏼[网友推荐2](https://www.facebook.com/share/p/1JciR5VxMg/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1E7DvWs6xZ/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/17fp8NSmsP/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1NudQpposu/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1DrCn85wh6/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/18kDiE3w2r/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/1BP7AELXeB/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/1DvCnKCrA7/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/17i5s3LAJF/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/1D6AWxdR57/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/1BYaLyET5w/) 👍🏼[网友推荐 13](https://www.facebook.com/share/p/18d6a34JTF/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/1D8QNjhKF6/)
+👍🏼[网友推荐1 ](https://www.facebook.com/share/p/1Cd1X626mG/)👍🏼[网友推荐2](https://www.facebook.com/share/p/1JciR5VxMg/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1E7DvWs6xZ/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/17fp8NSmsP/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1NudQpposu/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1DrCn85wh6/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/18kDiE3w2r/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/1BP7AELXeB/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/1DvCnKCrA7/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/17i5s3LAJF/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/1D6AWxdR57/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/1BYaLyET5w/) 👍🏼[网友推荐 13](https://www.facebook.com/share/p/18d6a34JTF/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/1D8QNjhKF6/) 👍🏼[网友推荐15](https://www.facebook.com/share/p/18hwbDNCPh/)
 
 ## Gede Mahendra
 
 ![Gede Mahendra](https://images.gobaligo.id/images/2026-06/1781330328310-_2026-06-13_12.57.02.png)
 
 👍🏼[网友推荐1](https://www.facebook.com/share/p/1ENRDfkjEw/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/17qogSzHU1/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1FVRdBgbNL/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/1Kw5mTbHAa/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1JYmnQC1w9/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1CwwL8mTrC/)
+
+## （中文司机）Pacung 小钟
+
+![](https://images.gobaligo.id/vocus/vocus_32cb0be85eaac6e77b9076347e048cf9.png)
+
+👍🏼[网友推荐1](https://www.facebook.com/share/p/174Txpiw9j/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/14DwPUqjsfZ/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/19trzp9WYs/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/177gUKRAAH/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/19xaMLAs1m/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1HkUsoqoZ6/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/1DHmDnjYio/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/16tDBFbVsA/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/1Ah7X3Lyv4/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/1DqVkKX881/)
+
+## **Manx Liega**
+
+![](https://images.gobaligo.id/images/2026-06/1781187526230-_2026-06-11_20.39.43.png)
+
+👍🏼[网友推荐1](https://www.facebook.com/groups/baligo/permalink/1499638277250079/) 👍🏼[网友推荐2](https://www.facebook.com/groups/baligo/permalink/1512064316007475/) 👍🏼[网友推荐3](https://www.facebook.com/groups/baligo/permalink/1556980068182566/) 👍🏼[网友推荐4](https://www.facebook.com/groups/baligo/permalink/1568532927027280/) 👍🏼[网友推荐5](https://www.facebook.com/groups/baligo/permalink/1574447266435846/) 👍🏼[网友推荐6](https://www.facebook.com/groups/baligo/permalink/1588447205035852/) 👍🏼[网友推荐7](https://www.facebook.com/groups/baligo/permalink/1577429806137592/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/q2YvJPRpehHGSVwX/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/1Juf4rGtwAphDuv1/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/NJSBRHSQFbRyiSw1/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/1WtJZjUnVs/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/15kvdyEiQN/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/18ztpws3cC/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/1CGq8uAZaX/) 👍🏼[网友推荐15](https://www.facebook.com/share/p/1LawWCzFjz/) 👍🏼[网友推荐16](https://www.facebook.com/share/p/17HEkRf24L/) 👍🏼[网友推荐17](https://www.facebook.com/share/p/1CWDjmBc14/)
 
 {{block:klook}}
 
