@@ -1,17 +1,19 @@
 ---
 title: >-
-  2026 Panduan Barang Terlarang Bea Cukai Bali | Wajib Baca buat Turis Taiwan,
-  Hong Kong, Singapura, Malaysia ⚠️ Denda Maksimal Rp 100 Juta
+  2026 Bali Aturan Barang Terlarang Bea Cukai｜Wajib Baca buat Turis Taiwan, Hong
+  Kong, Singapura, Malaysia ⚠️ Denda Maksimal Rp 100 Juta
 slug: bali-customs-restrictions
 description: >-
   Langkah pertama liburan, jangan sampai kena denda ratusan juta di bea cukai!
   Aturan terbaru 2026 di bandara dan barang bawaan masuk/keluar Bandara Ngurah
-  Rai (DPS) kembali diperbarui. Satu artikel lengkap: aturan baru bagasi untuk
-  earphone Bluetooth dan power bank, larangan bawa hand warmer dan curling iron
-  wireless di kabin, aturan mudah kena pelanggaran saat masuk/keluar berbagai
-  negara, serta oleh-oleh emas khas Indonesia yang pasti disita
-  (daging/biji-bijian/bahan segar) — panduan jitu biar nggak kena jebakan.
+  Rai (DPS) kembali diperbarui. Semua dirangkum dalam satu artikel: aturan baru
+  bagasi untuk earphone Bluetooth dan power bank, larangan bawa hand warmer dan
+  curling iron wireless di kabin, aturan-aturan yang sering bikin pelancong
+  salah langkah saat masuk/keluar negara, serta oleh-oleh emas khas Indonesia
+  (daging/biji-bijian/bahan segar) yang pasti disita saat pulang — panduan jitu
+  biar nggak kena jebakan.
 pubDate: 2026-06-18T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: 15
 category:
   - 旅行技巧
@@ -33,108 +35,106 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: aae321ed9bce7ccd9690c1d870d710b9
+_srcHash: 98d9f058bef3898dce6dcf0514066c6a
 ---
-Update: 2026/07/03
+**Kesimpulan dulu**: Tiga hal paling sering bikin kena masalah di bea cukai Bali — ① **Saat masuk**, semua jenis daging dan produk hewani (ham, dendeng, mi instan berisi daging) dilarang total, pelanggar bisa kena denda hingga Rp 100 juta; ② Earphone Bluetooth, power bank, hand warmer, dan barang berisi baterai lithium lainnya **hanya boleh di bagasi terdaftar atau dibawa terbatas di kabin**, cek dulu aturan maskapai sebelum terbang; ③ **Saat pulang** bawa oleh-oleh ke Taiwan, produk daging, bahan segar, dan beberapa jenis biji-bijian pasti disita. Berikut rangkuman lengkap berdasarkan negara asal dan jenis barang.
 
-**Kesimpulan dulu**: Tiga hal paling gampang kena masalah di bea cukai Bali — ① **Saat masuk**, semua jenis daging dan produk hewani (ham, dendeng, mi instan berisi daging) dilarang total, pelanggar bisa didenda sampai ratusan juta; ② Earphone Bluetooth, power bank, hand warmer, dan barang berisi baterai lithium **hanya boleh di bagasi terdaftar atau kabin dengan batasan tertentu**, cek dulu aturan maskapai sebelum naik; ③ **Saat pulang** bawa oleh-oleh ke Taiwan, produk daging, bahan segar, dan beberapa biji-bijian pasti disita. Berikut rincian lengkap berdasarkan kewarganegaraan dan jenis barang.
-
-Rencana terbang ke Bali buat liburan? Mau dari Taiwan, Hong Kong, Singapura, atau Malaysia, bawa koper ke Indonesia atau bawa oleh-oleh dari Bali pulang, wajib perhatikan aturan bea cukai. Tahun ini aturan berubah lagi, sedikit lengah bisa kena sita atau denda. Biar kami bantu rangkum lengkap **aturan masuk/keluar Bali** dan hal yang perlu diperhatikan saat pulang ke negara masing-masing.
+Rencana terbang liburan ke Bali? Dari mana pun kamu berasal — Taiwan, Hong Kong, Singapura, atau Malaysia — bawa koper ke Indonesia atau bawa oleh-oleh dari Bali pulang, wajib perhatikan aturan bea cukai. Tahun ini aturannya berubah lagi, sedikit saja lengah bisa kena sita atau bahkan denda. Biar kami bantu rangkum lengkap **aturan masuk/keluar Bali** dan hal-hal yang perlu diperhatikan saat pulang ke negara masing-masing.
 
 ***
 
-## 🇮🇩 Aturan Bea Cukai Bali / Indonesia (berlaku untuk semua turis)
+## 🇮🇩 Aturan Bea Cukai Bali / Indonesia (Berlaku untuk Semua Turis)
 
 ### Barang Dilarang Saat Masuk Indonesia
 
-#### ❌ Produk Daging dan Olahan Hewan (pengawasan ketat)
+#### ❌ Produk Daging dan Olahan Hewani (Pengawasan Ketat)
 
-Produk daging dari Taiwan, Hong Kong, Singapura, Malaysia semuanya dilarang masuk Indonesia. Ini kebijakan pencegahan wabah bersama di Asia Tenggara.
+Produk daging dari Taiwan, Hong Kong, Singapura, dan Malaysia dilarang masuk ke Indonesia. Ini adalah kebijakan pencegahan wabah bersama di kawasan Asia Tenggara.
 
 **Dilarang membawa:**
 
 - Daging segar atau beku
-- Olahan daging (ham, sosis, daging asap, dendeng, dll)
-- Makanan mengandung turunan hewan (produk mengandung lemak babi, kulit telur berisi daging, biskuit renyah berisi daging, dll)
+- Olahan daging (ham, sosis, daging asap, dendeng, dll.)
+- Makanan mengandung turunan hewani (produk mengandung lemak babi, kulit telur berisi daging, biskuit berlapis daging, dll.)
 
-**Kenapa sih?** Indonesia tuh serius banget soal keamanan pangan, makanya daging dari luar negeri dilarang keras masuk buat mencegah penyebaran penyakit.
+**Kenapa?** Indonesia serius banget soal karantina pertanian, makanya daging dari luar negeri dilarang keras masuk buat cegah penyebaran penyakit.
 
-#### ❌ Rokok Elektrik (Vape)
+#### ❌ Vape / Rokok Elektrik
 
 Gak peduli negara asal kamu ngizinin vape atau enggak, bawa masuk ke Indonesia tetap ilegal:
 
 - Taiwan: vape dilarang total
 - Hong Kong: aturannya super ketat
-- Singapura: impor dan jualan dilarang
-- Malaysia: jualan dilarang
+- Singapura: dilarang impor dan jual
+- Malaysia: dilarang jual
 
 Jadi dari mana pun asalnya, **jangan bawa vape masuk Indonesia**, apalagi mau dibawa pulang.
 
 #### ❌ Tanaman dan Produk Pertanian
 
-- Buah dan sayur segar biasanya gak boleh masuk Bali
-- Beberapa produk kering juga ada batasannya
+- Buah dan sayur segar biasanya dilarang masuk Bali
+- Beberapa produk kering juga ada batasan impor
 - Pakan hewan, biji-bijian dilarang
 
 **Oleh-oleh khas Bali yang aman dibawa pulang:**
 
-- ✓ Kopi (pastikan bungkusnya rapat)
-- ✓ Vanili & rempah kering (kayak vanili, kayu manis, dll)
+- ✓ Kopi (pastikan kemasan tersegel rapat)
+- ✓ Rempah & bumbu kering (kayak vanili, kayu manis, dll)
 - ✓ Bubuk kakao (cek komposisi dan jumlahnya wajar)
-- ✓ Kacang-kacangan (secukupnya, bungkus utuh)
+- ✓ Kacang-kacangan (jumlah wajar, kemasan utuh)
 
-**Tips:** Tanya dulu ke penjual apakah barang ini boleh dibawa ke negara asal, atau cek label komposisinya.
+**Tips:** Sebelum beli, tanya dulu ke penjual apakah barang ini boleh dibawa ke negara asal kamu, atau cek label komposisinya.
 
 #### ⚠️ Aturan Pelaporan Uang Tunai
 
 Saat masuk/keluar Indonesia, perhatikan:
 
-- Bawa uang tunai lebih dari **USD 10,000** wajib lapor
-- Nilai mata uang lokal juga dihitung (NT$, HKD, SGD, MYR semua dihitung)
-- Bea Cukai Indonesia kadang random check
-- Kalau nggak lapor ketahuan, bisa disita atau kena denda
+- Bawa uang tunai **lebih dari USD 10,000** wajib dilaporkan
+- Nilai mata uang lokal juga dihitung (NTD, HKD, SGD, MYR semuanya termasuk)
+- Bea Cukai Indonesia kadang melakukan pemeriksaan acak
+- Kalau ketahuan nggak lapor, bisa disita atau kena denda
 
 ***
 
 ### Barang yang Dilarang Dibawa Saat Pulang dari Bali
 
-#### ❌ Ampul Kaca Kosmetik (Semua Bea Cukai Negara Bakal Cegat)
+#### ❌ Ampul Kaca Kosmetik (Semua Bea Cukai Negara Akan Menahan)
 
-**Barang yang sering bikin orang kena masalah!**
+**Barang yang sering bikin banyak orang kena masalah!**
 
-Ampul kaca adalah wadah yang harus dipatahkan lehernya untuk dibuka, biasa dipakai buat kemasan obat suntik di medis.
+Ampul kaca adalah wadah yang harus dipatahkan lehernya untuk dibuka, biasa dipakai sebagai kemasan obat suntik di dunia medis.
 
-**Masalahnya:** Bea Cukai di berbagai negara bisa nganggap ini sebagai obat suntik medis karena bentuknya, lalu menyitanya.
+**Masalahnya:** Bea Cukai di berbagai negara bisa menganggapnya sebagai obat suntik medis karena bentuknya, lalu menahannya.
 
-**Khusus wisatawan Taiwan:** Kalau mau bawa sedikit buat sendiri, harus:
+**Perhatian khusus untuk wisatawan Taiwan:** Kalau mau bawa sedikit untuk dipakai sendiri, harus:
 
 1. **Sebelum masuk** ajukan izin impor ke TFDA (Badan Pengawas Obat dan Makanan Taiwan)
-2. **Saat masuk** lapor di konter deklarasi jalur merah
-3. Siapkan dokumen izin buat diperiksa Bea Cukai
+2. **Saat masuk** lapor di konter jalur merah
+3. Siapkan dokumen izin untuk diperiksa petugas bea cukai
 
 **Peringatan Penting:** Kalau ketahuan nggak lapor di Taiwan, **denda maksimal bisa sampai 1 juta NT$ (sekitar USD$32.000)!**
 
-_Catatan tambahan:_ Kalau kamu telat ngurus izin dan pas masuk masih belum terbit, ampul bakal ditahan. Asal dokumen dilengkapi dalam 1 bulan, bisa diambil lagi.
+_Catatan tambahan:_ Kalau kamu telat ngurus izin dan pas masuk masih belum dapat izin, ampul bakal ditahan. Asal dokumen dilengkapi dalam 1 bulan, bisa diambil lagi.
 
-**Turis Hong Kong:** Hong Kong ngizinin bawa kosmetik dalam jumlah tertentu, tapi saran sih cek dulu aturan bea cukai Hong Kong.
+**Wisatawan Hong Kong:** Hong Kong ngizinin bawa kosmetik dalam jumlah tertentu, tapi saran sih cek dulu aturan bea cukai Hong Kong.
 
-**Turis Singapura & Malaysia:** Sama, harus perhatiin soal deklarasi ampul kaca. Mending cek aturan bea cukai masing-masing dulu.
+**Wisatawan Singapura & Malaysia:** Juga wajib perhatiin soal deklarasi ampul kaca. Mending cek aturan bea cukai masing-masing negara duluan.
 
 #### ❌ Obat-obatan Terlarang
 
-Tergantung aturan setempat, beberapa obat masuk kategori terlarang:
+Tergantung aturan setempat, beberapa obat masuk daftar terlarang:
 
-**Taiwan:** Obat pelangsing kayak 'Meng Jian Le' termasuk obat resep terlarang, perlu izin impor dari FDA Taiwan dan wajib dideklarasi.
+**Taiwan:** Obat pelangsing kayak 'Meng Jian Le' termasuk obat resep terlarang, butuh izin impor dari FDA Taiwan dan wajib dideklarasi.
 
 **Hong Kong, Singapura, Malaysia:** Masing-masing punya daftar obat terlarang yang beda. Saran: sebelum bawa obat apa pun, cek dulu aturan bea cukai setempat.
 
-**Saran umum:** Punya resep dokter + deklarasi aktif = risiko kena tilang jauh lebih kecil.
+**Saran umum:** Punya resep dokter + deklarasi sukarela = risiko kena tilang jauh lebih kecil.
 
 ***
 
-## ✈️ Aturan Larangan Bawa di Pesawat (Berlaku untuk Turis Taiwan, Hong Kong, Singapura, Malaysia)
+## ✈️ Aturan Larangan Maskapai Internasional (berlaku untuk wisatawan Taiwan, Hong Kong, Singapura, Malaysia)
 
-Dari mana pun kamu terbang ke Bali, ini aturan umum yang berlaku untuk semua penerbangan.
+Dari mana pun kamu terbang ke Bali, ini adalah aturan umum yang berlaku untuk semua penerbangan.
 
 ### ❌ Barang Elektronik yang Dilarang Keras di Bagasi
 
@@ -145,98 +145,98 @@ Banyak yang mikir, 'earphone kecil, taruh di koper aja, nggak apa-apa,' tapi **s
 **Kenapa nggak boleh?**
 
 - Earphone Bluetooth punya baterai lithium
-- Meski case-nya ditutup, itu cuma standby, bukan beneran mati
-- Nggak sesuai aturan barang elektronik pribadi di bagasi
+- Meski case-nya ditutup, tetap dalam mode standby, bukan benar-benar mati
+- Nggak sesuai aturan barang elektronik pribadi yang boleh di bagasi
 - Kalau baterai lithium bermasalah di koper, nggak ada yang tahu → **sangat berbahaya**
 
-**Kesimpulan: earphone Bluetooth cuma boleh dibawa di kabin, jangan pernah masuk bagasi!**
+**Kesimpulan: earphone Bluetooth cuma boleh dibawa kabin, jangan pernah masuk bagasi!**
 
 #### Power Bank
 
 Aturan power bank juga sama ketatnya:
 
-- **Wajib dibawa di kabin** (dilarang keras di bagasi)
+- **Wajib dibawa kabin** (dilarang keras di bagasi)
 - **Nggak boleh dipakai selama penerbangan**
-- **Nggak boleh diisi ulang di pesawat**
-- **Cuma boleh ditaruh di depan kursi** (nggak boleh di bagasi atas)
-- Perhatikan kapasitas daya dan batas jumlahnya
+- **Nggak boleh di-charge selama penerbangan**
+- **Cuma boleh ditaruh di depan kursi** (nggak boleh di bagasi kabin atas)
+- Perhatikan kapasitas daya dan batas jumlah maksimal
 
-_Alasan:_ Belakangan ini sering terjadi kasus power bank meledak dan terbakar di dalam kabin pesawat, sehingga maskapai di berbagai negara menerapkan aturan yang ketat.
+_Alasan:_ Akhir-akhir ini sering terjadi kasus power bank meledak dan terbakar di dalam kabin pesawat, sehingga maskapai di berbagai negara menerapkan aturan yang ketat.
 
-> [Power Bank / Power Bank dan Kipas USB / Kipas Leher Bisa Dibawa ke Pesawat? Rangkuman Aturan Terbaru 2025](https://gobaligo.id/id/blog/airplane-power-bank-fan-rules-2025/)
+> [Aturan Terbaru 2025: Bawa Power Bank & Kipas USB ke Pesawat](https://gobaligo.id/id/blog/airplane-power-bank-fan-rules-2025/)
 
-#### ❌ Semprotan Anti-Pelecehan
+#### ❌ Semprotan Anti-Pepper
 
-Meskipun legal di beberapa daerah, **sangat dilarang dibawa ke pesawat!**
+Meskipun legal di beberapa daerah, **sama sekali dilarang dibawa ke pesawat!**
 
 - Kaleng semprot bertekanan tinggi
 - Mengandung zat iritasi atau mudah terbakar
-- Tidak boleh di bagasi kabin maupun bagasi terdaftar
+- Tidak boleh di bagasi kabin maupun kargo
 
 ***
 
 ## 🛂 Ngomong-ngomong: Transit atau Mampir di Jepang, Korea, Thailand
 
-Kalau kamu transit dari Taiwan, Hong Kong, Singapura, Malaysia ke Bali dan singgah sebentar di negara-negara ini, perhatikan juga aturan berikut.
+Kalau kamu transit dari Taiwan, Hong Kong, Singapura, atau Malaysia ke Bali dan singgah sebentar di negara-negara ini, aturan berikut juga perlu diperhatikan.
 
 ### Jepang (sering jadi tempat transit)
 
-#### ⚠️ Catok Rambut / Sisir Poni Isi Ulang (barang paling sering disita di bandara!)
+#### ⚠️ Catokan Rambut / Sisir Poni Isi Ulang (Barang Paling Sering Disita di Bandara!)
 
-Banyak turis Asia suka banget beli produk ini pas belanja di Jepang, tapi justru paling sering disita di bandara.
+Banyak turis Asia yang suka beli produk ini pas belanja di Jepang, tapi justru paling sering disita di bandara.
 
-**Aturan yang DILARANG:**
+**Aturan yang Dilarang:**
 
 - Alat styling rambut dengan baterai lithium internal
 - Baterai tidak bisa dilepas
 - Tidak boleh dibawa di kabin maupun bagasi terdaftar
 
-**Pengecualian:** Kalau baterainya bisa dilepas, atau produknya model colokan listrik, itu aman.
+**Pengecualian:** Kalau baterainya bisa dilepas, atau produk yang pakai colokan listrik, itu nggak masalah.
 
-**Solusi alternatif:** Beli catokan listrik model colokan, atau beli nanti pas pulang.
+**Solusi Alternatif:** Beli catokan listrik yang pakai colokan, atau tunggu pulang baru beli.
 
-#### ⚠️ Obat nyamuk King Bird (sering dibeli pas musim panas)
+#### ⚠️ Obat Nyamuk Sembur Emas (sering dibeli pas musim panas)
 
 Obat nyamuk yang umum di Jepang, banyak orang beli beberapa kaleng. Tapi:
 
-**Alasan dilarang:**
+**Alasan Dilarang:**
 
-- Kaleng aerosol + bahan mudah terbakar (insektisida)
+- Kaleng bertekanan + bahan mudah terbakar (insektisida)
 - Dilarang keras dibawa ke pesawat
-- Baik di kabin maupun bagasi, pasti disita
+- Baik di kabin maupun bagasi terdaftar bakal disita
 
 ***
 
 ### Korea (kalau transit)
 
-#### ⚠️ Hangat-pak (peraturan baru 2026)
+#### ⚠️ Hangat Pouch (peraturan baru 2026)
 
 Korea baru-baru ini menerapkan aturan baru, banyak turis Asia yang kena jebakan:
 
 **Aturan Baru:**
 
-- Dilarang sama sekali masuk bagasi
-- Cuma boleh bawa sedikit di kabin
-- 3 bandara utama Korea (Incheon, Busan, Jeju) udah mulai berlaku
+- Dilarang total masuk bagasi
+- Hanya boleh bawa sedikit di kabin
+- 3 bandara utama Korea (Incheon, Busan, Jeju) sudah mulai diterapkan
 
-**Kesalahan umum:** Banyak yang kira 'kalau muat di koper sih aman', pas scan bagasi malah disuruh buka dan diperiksa, bikin telat keluar, ujung-ujungnya tetap disuruh buang.
+**Kesalahan Umum:** Banyak yang kira 'kalau muat di koper sih aman', pas scan bagasi malah disuruh buka, ditahan, akhirnya tetap disuruh buang.
 
-**Saran:** Mau bawa penghangat tangan, taruh di tas kabin, jangan kebanyakan.
+**Saran:** Kalau mau bawa penghangat tangan, taruh di tas kabin, jangan kebanyakan.
 
 #### ⚠️ Obat Pereda Nyeri EVE (Laris di Jepang tapi Dilarang di Korea)
 
-Obat pereda nyeri 'EVE' dari Jepang populer banget di Asia, tapi **sama sekali nggak boleh dibawa ke Korea!**
+Obat pereda nyeri 'EVE' dari Jepang memang populer di Asia, tapi **sama sekali nggak boleh dibawa masuk Korea!**
 
-**Alasannya:** Kandungan EVE termasuk zat antipsikotik versi Korea, punya risiko kecanduan dan ketergantungan.
+**Alasan:** Kandungan EVE termasuk obat antipsikotik versi Korea, punya risiko kecanduan dan ketergantungan.
 
-**Kesimpulannya:** Baik bagasi maupun kabin nggak boleh, meski dilaporin juga nggak lolos.
+**Kesimpulan:** Baik bagasi maupun kabin nggak boleh, meski dilaporin tetap nggak lolos.
 
-#### ⚠️ Catokan Rambut Isi Ulang (Sama Kayak Aturan Jepang)
+#### ⚠️ Catokan Rambut Isi Ulang (Sama kayak Aturan Jepang)
 
 Korea dan Jepang sama-sama melarang:
 
 - Baterai yang tidak bisa dilepas = tidak boleh dibawa
-- Dilarang di bagasi kabin maupun bagasi tercatat
+- Baik bagasi kabin maupun bagasi terdaftar dilarang
 
 #### ⚠️ Daging dan Produk Hewani
 
@@ -244,7 +244,7 @@ Bea Cukai Korea sangat ketat soal daging:
 
 - Daging murni dilarang
 - Kalau ada bahan hewani di dalamnya, dan kemasannya kelihatan belum disterilkan, kemungkinan besar bakal ditolak
-- Beberapa waktu lalu ada turis yang bawa kulit lumpia beku berisi lemak babi, langsung disita dan kena denda
+- Beberapa waktu lalu ada turis yang bawa kulit pangsit beku berisi lemak babi, langsung disita dan kena denda
 
 **Ceklist:** Waktu beli makanan, bener-bener cek komposisinya ya.
 
@@ -252,11 +252,11 @@ Bea Cukai Korea sangat ketat soal daging:
 
 ### Thailand (kalau transit atau belanja di sana)
 
-#### ⚠️ Kerupuk Kulit Babi (jebakan camilan umum)
+#### ⚠️ Kripik Kulit Babi (jebakan camilan umum)
 
-Camilan umum di Thailand, tapi **jangan coba-coba dibawa pulang**!
+Camilan umum Thailand, tapi **jangan dibawa pulang!**
 
-**Kenapa?** Meskipun namanya 'kerupuk', ini sebenarnya kulit babi asli, termasuk produk daging. Dilarang masuk ke negara mana pun.
+**Kenapa?** Meskipun namanya 'kripik', ini sebenarnya kulit babi asli, termasuk produk daging. Dilarang masuk ke negara mana pun.
 
 **Barang terlarang tambahan:** Daging apa pun atau sosis ham olahan dilarang.
 
@@ -270,7 +270,7 @@ Bea Cukai Thailand bisa random ngecek uang tunai kamu, buat mastiin kamu bukan k
 - Keluarga: 40.000 Baht
 - Bisa juga dalam USD yang setara
 
-_Meskipun ini kontroversial dan nggak selalu kena, tapi saran sih siapin aja biar aman._
+_Meskipun ini kontroversial dan nggak selalu dicek, mending siap-siap aja biar aman._
 
 ***
 
@@ -278,42 +278,42 @@ _Meskipun ini kontroversial dan nggak selalu kena, tapi saran sih siapin aja bia
 
 Bubuk matcha, bubuk cokelat, bubuk kopi, dan produk bubuk lainnya yang ditaruh di koper bisa meledak karena tekanan udara tinggi, benturan, dan tekanan. Pas dibuka di tujuan, bakal bener-bener tragis.
 
-**Cara melindungi:**
+**Cara proteksi:**
 
 - Bungkus pake plastik atau kantong ziplock beberapa lapis
 - Biar bubuknya nggak bocor
-- Kopi Bali dan bubuk cokelat harus ekstra hati-hati
+- Kopi Bali dan bubuk cokelat wajib ekstra hati-hati
 
 ***
 
-## 💡 Checklist Sebelum Berangkat buat Traveler dari Taiwan, Hong Kong, Singapura & Malaysia
+## 💡 Checklist Sebelum Berangkat buat Traveler Taiwan, Hong Kong, Singapura & Malaysia
 
 ### Sebelum Packing
 
 - [ ] Cek semua label bahan makanan (terutama daging dan produk hewani)
 - [ ] Barang elektronik: pastikan baterai bisa dilepas atau built-in
 - [ ] Kosmetik: ampul kaca perlu cek aturan deklarasi setempat
-- [ ] Headset Bluetooth dan power bank siapkan di tas kabin
+- [ ] Headset Bluetooth dan power bank siapkan di tas tangan
 - [ ] Obat-obatan bawaan: cek dulu aturan bea cukai setempat soal obat ini
 
 ### Sebelum ke Bandara
 
 - [ ] Sobek stiker bagasi lama dari koper (biar nggak nyasar ke penerbangan lain)
-- [ ] Cek aturan terbaru bea cukai setempat (misal Bea Cukai Hong Kong, Singapura, Malaysia, dll)
-- [ ] Pastikan aturan bea cukai terbaru di kota transit (Jepang, Korea, Thailand)
+- [ ] Cek aturan bea cukai terbaru di negara tujuan (misal: Hong Kong, Singapura, Malaysia)
+- [ ] Pastikan aturan bea cukai di negara transit (Jepang, Korea, Thailand) juga terbaru
 - [ ] Siapkan dokumen deklarasi (kalau ada barang khusus)
 
-### Khusus Traveler dari Taiwan
+### Catatan Khusus Traveler Taiwan
 
-- ✓ Ampul dan obat terbatas wajib dilaporkan ke Badan Pengawas Obat dan Makanan (TFDA)
-- ✓ Kena denda USD$32.000 (NT$1.000.000) jauh lebih rugi daripada buang barangnya
+- ✓ Ampul dan obat terbatas wajib lapor ke TFDA (Badan Pengawas Obat dan Makanan Taiwan)
+- ✓ Kena denda 100 juta rupiah? Jauh lebih rugi daripada barangnya disita
 
 ### Berlaku untuk Semua Traveler
 
-- ✓ Kalau ragu, lebih baik deklarasi daripada ketahuan
+- ✓ Kalau ragu, lebih baik lapor daripada ketahuan
 - ✓ Aturan bea cukai berubah tiap tahun, cek lagi sebelum berangkat
-- ✓ Situs resmi maskapai juga punya aturan, pastikan sudah dicek
-- ✓ Aturan bea cukai tiap negara beda, wajib cek aturan setempat
+- ✓ Maskapai juga punya aturan sendiri, pastikan sudah dicek
+- ✓ Aturan bea cukai beda di tiap negara, wajib cek aturan setempat
 
 ***
 
@@ -338,16 +338,16 @@ Bubuk matcha, bubuk cokelat, bubuk kopi, dan produk bubuk lainnya yang ditaruh d
 
 ### Terkait Indonesia (Bali)
 
-- Aturan Bea Cukai Indonesia: saran terbaik sih konfirmasi langsung ke travel agent lokal atau maskapai sebelum berangkat
+- Aturan Bea Cukai Indonesia: sebaiknya konfirmasi langsung ke agen travel lokal atau maskapai sebelum berangkat
 
 ***
 
-## Kesimpulan
+## **Kesimpulan**
 
-Entah kamu dari Taiwan, Hong Kong, Singapura, atau Malaysia, Bali tetap jadi surga liburan yang dekat banget. Tapi aturan bea cukai itu rumit dan terus berubah, dan setiap daerah punya aturan yang beda. Patuh sama aturan, nggak cuma melindungi kamu dari denda, tapi juga bentuk respect terhadap keselamatan penerbangan.
+Mau kamu dari Taiwan, Hong Kong, Singapura, atau Malaysia, Bali tetap jadi surga liburan yang dekat banget. Tapi aturan bea cukai di sini rumit dan sering berubah, dan setiap negara juga punya aturan yang beda. Patuh sama aturan itu nggak cuma melindungi kamu dari denda, tapi juga bentuk respect terhadap keselamatan penerbangan.
 
-**Semoga perjalananmu menyenangkan dan lancar melewati bea cukai! ✈️ 🇮🇩**
+**Semoga perjalananmu lancar dan lolos imigrasi dengan mulus! ✈️ 🇮🇩**
 
-Mau info lebih lengkap soal panduan liburan ke Bali? Pantengin terus website dan sosial media kita ya!
+Mau cari info liburan Bali lainnya? Pantengin terus website dan sosial media kita ya!
 
 {{block:klook}}

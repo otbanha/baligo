@@ -5,6 +5,7 @@ description: >-
   巴厘岛是个旅游天堂，而在离开之前，许多游客都会选择买些伴手礼带回家。Bali Banana，这款美味的香蕉蛋糕，是非常受欢迎的选择。但是要在机场买Bali
   Banana的香蕉蛋糕，你必须步行到国内线的抵达处才买得到喔！小杰印尼拍视频教大家如何前往
 pubDate: '2024-08-07'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3abd7335821e4139d5380f054bf0bda3.jpg'
 tags:
   - 小傑印尼
@@ -16,13 +17,11 @@ originalUrl: 'https://vocus.cc/article/66b379cefd89780001ef4899'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 6f118ee926837be1f0aa7b87c4fb5cfc
+_srcHash: 4da51a382694648d9fc1c8c2740b0aa4
 ---
-Update: 2026/07/03
-
 ![峇里島國際機場買Bali Banana當伴手禮怎麼去？如何從國際線步行到國內線？](https://images.gobaligo.id/vocus/vocus_6fb17aeb28479bd7b7d5a57f318dea63.jpg)
 
-**先讲结论**：巴厘岛机场**国际线抵达区现在已经买得到 Bali Banana 香蕉蛋糕**（经团友实地确认）。如果你在国际线没找到店面，备案是走去国内线：从国际线抵达出口出来后，跟着「Domestic Terminal」指标直走约 **6 分钟**，到国内线抵达（Domestic Arrival）出口的商店街就能买到。
+**先说结论**：巴厘岛机场**国际线抵达区现在已经买得到 Bali Banana 香蕉蛋糕**（经团友实地确认）。如果你在国际线没找到店面，备案是走去国内线：从国际线抵达出口出来后，跟着「Domestic Terminal」指标直走约 **6 分钟**，到国内线抵达（Domestic Arrival）出口的商店街就能买到。
 
 巴厘岛是个旅游天堂，而在离开之前，许多游客都会选择买些伴手礼带回家。Bali Banana，这款美味的香蕉蛋糕，是非常受欢迎的选择。
 
@@ -42,7 +41,7 @@ Update: 2026/07/03
 
 ### 1. 走出国际线抵达的出口
 
-当你走出国际线抵达的出口时，右手边会看到一堆接机的司机。从这里一直向前走，沿途会有清晰的指示牌。
+当你走出国际线抵达的出口时，右手边会看到一堆接机的司机。从这里一直向前走，沿途会有清晰的指示。
 
 ### 2. 跟着标志走
 

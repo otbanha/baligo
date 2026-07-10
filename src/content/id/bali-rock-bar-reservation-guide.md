@@ -1,16 +1,12 @@
 ---
-title: >-
-  【2026 Jimbaran Rock Bar】Panduan Reservasi Rock Bar: Tips Dapat Tempat untuk
-  Non-Tamu, Aturan Berpakaian & Panduan Ultimate untuk Dapat Spot Sunset
+title: 【2026 金巴蘭岩石酒吧】Rock Bar 預約攻略：非住客搶位秘訣、服裝規定與日落卡位終極指南
 slug: bali-rock-bar-reservation-guide
 description: >-
-  Mau ke bar sunset kelas dunia? Panduan lengkap ini bakal ngebahas tuntas
-  sistem reservasi Rock Bar di AYANA Resort: dari prioritas tamu hotel, tips
-  antre buat non-tamu, sampai standar minimum spend terbaru. Lengkap dengan
-  panduan naik cable car ke cliff bar, dress code yang wajib dipatuhi, dan waktu
-  terbaik datang biar nggak kena crowd. Dijamin sunset trip kamu di Jimbaran
-  jadi makin elegan dan lancar jaya.
+  規劃去世界級日落酒吧？這篇完整解析 AYANA Resort 旗下的 Rock Bar 預約制度：從住客優先權、非住客排隊技巧到最新的最低消費
+  (Minimum Spend) 標準。整理前往懸崖酒吧的纜車搭乘指南、服裝限制 (Dress Code)
+  以及避開人潮的最佳抵達時間，讓你的金巴蘭夕陽之旅既優雅又順暢。
 pubDate: 2025-11-03T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: null
 category:
   - 美食景點活動
@@ -31,30 +27,28 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bc5effe6be71d08b10556ee097f70753.jpg'
 originalUrl: 'https://vocus.cc/article/67270573fd89780001adf758'
 lang: id
-_srcHash: dca585c71fd7a37cc371736ffc61915e
+_srcHash: 4a270e04e7f7716a4a46e3bfe5afdd07
 ---
 
-Update: 2026/07/06
+**先講結論**：Rock Bar **日落時段（16:00-17:00）只開放 Ayana 度假村住客預約**，非住客只能現場排隊碰運氣；**夜間時段（19:30 起）則所有人都可預約**，最保險的玩法是訂夜間時段。非住客現場消費有最低門檻（Tapas Table 每人 Rp 300,000++、Dinner Table 每人 Rp 500,000++），穿著避免背心、沙灘褲，夜間建議穿正式一點。
 
-**Kesimpulan dulu ya**: Rock Bar **waktu sunset (16:00-17:00) cuma buat tamu yang nginep di Ayana Resort** — kalau bukan tamu, cuma bisa antre langsung dan berharap hoki. **Sesi malam (mulai 19:30) bisa di-reserve siapa aja**, jadi cara paling aman ya booking sesi malam. Buat non-tamu, ada minimum spend (Tapas Table Rp 300.000++/orang, Dinner Table Rp 500.000++/orang). Hindari pakai tank top atau celana pantai, malam lebih baik pakai yang agak formal.
+位於 Bali Ayana 度假村的 Rock Bar，是 Bali 必訪的海邊酒吧，結合懸崖和海景的壯麗風景，不論是日落時的燦爛美景，或夜晚的星空派對，皆讓人流連忘返！
 
-Rock Bar yang ada di Ayana Resort Bali ini adalah bar tepi pantai yang wajib banget kamu kunjungi. Kombinasi tebing dan pemandangan lautnya epic banget — baik pas sunset yang cantik abis, atau party bintang di malam hari, semuanya bikin betah berlama-lama!
+## 為什麼你應該造訪 Rock Bar？
 
-## Kenapa Kamu Wajib Mampir ke Rock Bar?
-
-Rock Bar pernah dinobatkan oleh **CNN** sebagai salah satu dari "Sepuluh Tempat Terbaik di Dunia untuk Menikmati Matahari Terbenam". Bar yang terletak di tebing Jimbaran, Bali ini, dengan lokasinya yang unik dan pemandangan sunset yang spektakuler, berhasil menarik banyak wisatawan untuk menikmati senja tepi pantai yang super dreamy.
+Rock Bar 曾被 **CNN** 評選為“世界十大最美日落觀賞地”之一。這個位於 Bali 金巴蘭懸崖上的酒吧，因其獨特的地理位置和壯麗的日落景觀，吸引了無數遊客前來享受夢幻般的海邊黃昏時光。
 
 ![為什麼你應該造訪Rock Bar？](https://images.gobaligo.id/vocus/vocus_f6a2aac5f35e04e5132f61773a4c19e3.jpg)
 
-Rock Bar punya pemandangan dan desain yang memukau banget. Selain sunset laut yang juara, tempat ini juga memadukan elemen bebatuan alami, bikin liburanmu di Bali makin berkesan. Desain open space-nya bikin kamu bisa lihat laut dari dekat, matahari terbenam perlahan di cakrawala — kayak lukisan indah. Suasananya juga kece abis, cocok buat ngopi santai atau ngobrol seru sambil minum cocktail.
+Rock Bar 擁有迷人的視野與設計，不僅有無敵的海景日落，還融合了自然的岩石元素，讓你在 Bali 的度假生活中留下深刻印象。這裡的開放式空間設計讓人可以近距離欣賞海景，夕陽從海面緩緩降落，那畫面彷彿是一幅絕美的藝術品。此外，這裡的氣氛非常時尚，無論是喝一杯精緻的雞尾酒還是和朋友小酌暢談，都是理想的選擇。
 
 https://youtube.com/shorts/tHRxnJqxqbw
 
 ***
 
-## Pesona Desain Rock Bar ✨
+## Rock Bar 的設計魅力✨
 
-Rock Bar yang dirancang langsung oleh seniman Jepang ini membentang sepanjang 270 meter di sepanjang garis pantai. Konsepnya minimalis banget, memadukan bebatuan alami dengan platform kayu yang melingkari area bar utama. Desainnya bersih dan rapi, bikin kamu bisa menikmati suasana elegan Ayana Resort dengan maksimal. Apalagi pas sunset, pemandangan di area bar ini makin magical, bikin kamu serasa lagi di surga.
+由日本藝術家操刀設計的 Rock Bar，佔據海岸線長達 270 米，以極簡風為主，結合了天然岩石和木製平台，環繞著中央酒吧區。整體設計乾淨俐落，讓人能在此盡情享受 Ayana 度假村的高雅氛圍。特別是在日落時分，整個酒吧區的景色更顯夢幻，讓你彷彿置身於天堂之中。
 
 ![Rock Bar 的設計魅力](https://images.gobaligo.id/vocus/vocus_178e5d235463083325b94206376fce44.jpg)
 
@@ -64,89 +58,88 @@ Rock Bar yang dirancang langsung oleh seniman Jepang ini membentang sepanjang 27
 
 ![必備攻略：如何優雅地享受Rock Bar](https://images.gobaligo.id/vocus/vocus_f840ddbf6798af98977bcb17e4977cdc.jpg)
 
-1. **Datang lebih awal, hindari antrean**: Rock Bar itu hits banget, saran sih datang lebih awal. Buka jam 4 sore, mending udah sampai jam 3:45. Kalau nggak mau berdesakan sama kerumunan sunset, bisa juga datang setelah matahari terbenam buat nikmatin party malam.
-2. **Menginap di Ayana atau RIMBA dapat prioritas masuk**: Kalau kamu nginep di Ayana Resort atau hotel mana pun di kawasan Ayana, kamu bakal dapet akses prioritas masuk.
-3. **Aturan berpakaian**: Perhatikan dress code Rock Bar, AYANA Rock Bar pakai aturan Smart Attire (kasual stylish). Saran pakai baju rapi dan berkelas, misalnya dress, kemeja, kaos, celana panjang, atau celana pendek santai. Hindari pakai tank top, celana surfing, atau baju dengan logo merek alkohol. Kalau datang sore buat lihat sunset, mending dandan sedikit biar cocok sama vibe Rock Bar, dan lebih gampang dapet foto cakep.
-4. **Siapkan perlindungan dari sinar matahari**: Karena sinar matahari saat sunset bisa terik banget, meskipun Rock Bar sediain payung, bawa kacamata hitam atau sunscreen sendiri juga pilihan yang oke.
+1. **Datang Lebih Awal, Hindari Antrean**: Rock Bar itu hits banget, jadi saran sih datang lebih awal. Buka jam 4 sore, usahakan udah sampai sekitar jam 3:45. Kalau nggak mau berdesakan sama kerumunan sunset, bisa juga datang setelah matahari terbenam buat nikmatin pesta malamnya.
+2. **Menginap di Ayana atau RIMBA Dapat Akses Prioritas**: Kalau kamu nginep di Ayana Resort atau hotel mana pun di kawasan Ayana, kamu bakal dapet privilege akses prioritas.
+3. **Aturan Berpakaian**: Perhatikan dress code Rock Bar, ya. AYANA Rock Bar pakai aturan Smart Attire (kasual stylish). Disarankan pakai baju yang rapi dan berkelas, misalnya dress, kemeja, kaos, celana panjang, atau celana pendek santai. Hindari pakai tank top, celana surfing, atau baju dengan logo merek alkohol. Kalau datang sore buat lihat sunset, mending dandan sedikit biar lebih cocok sama vibe Rock Bar dan gampang dapet foto cakep.
+3. **Siapkan Perlengkapan Pelindung Matahari**: Meskipun Rock Bar nyediain payung, sinar matahari pas sunset bisa terik. Jadi bawa kacamata hitam atau sunscreen juga pilihan oke.
 
 https://youtube.com/shorts/lbDfKut2J7M
 
 ***
 
-## Minuman Klasik & Hiburan di Rock Bar 🎶
+## Minuman Ikonik & Hiburan di Rock Bar 🎶
 
-Menu minuman di Rock Bar super lengkap, mixologist terkenal Bonnefoi mendesain banyak koktail spesial yang memadukan tanaman herbal dan buah lokal, bikin kamu merasakan cita rasa khas Bali. Begitu malam tiba, suasananya makin rame — ada live band dan DJ terkenal yang manggung, kadang-kadang ada juga guest DJ dari klub Ibiza yang ikut nge-DJ, bikin malammu penuh kejutan.
+Menu minuman Rock Bar super lengkap. Bartender terkenal Bonnefoi udah bikin banyak koktail spesial yang campurannya pakai tanaman herbal dan buah lokal, bikin kamu ngerasain cita rasa khas Bali. Begitu malam tiba, suasananya makin rame dengan pertunjukan band live dan DJ kondang. Kadang-kadang ada juga guest DJ dari klub Ibiza yang bikin malam kamu makin seru.
 
 ![Rock Bar 的經典飲品與娛樂](https://images.gobaligo.id/vocus/vocus_22dd7744b4378f4b30816cde3a9fd1f0.jpg)
 
 ***
 
-## Cara Reservasi Waktu Golden Hour di Rock Bar Bali yang Sempurna? ☀️
+## Cara Reservasi Sesi Sunset Sempurna di Rock Bar Bali? ☀️
 
-Biar pengalaman kamu di Rock Bar makin lancar, nih aku kasih info terbaru soal kebijakan reservasi dan hal-hal yang perlu diperhatikan — biar kamu bisa santai menikmati sunset dan malam yang indah di sini.
+Biar pengalaman Rock Bar kamu makin lancar, ini dia info kebijakan reservasi terbaru dan tips penting biar kamu bisa menikmati momen sunset dan malam yang indah.
 
-### Kebijakan Reservasi Rock Bar Jam Matahari Terbenam 🌄
+### Kebijakan Reservasi Sesi Sunset di Rock Bar 🌄
 
-**Jam Emas (16:00 - 17:00) Reservasi:**
+**Reservasi Sesi Sunset (16:00 - 17:00):**
 
-Reservasi di jam ini hanya untuk **tamu** yang menginap di kawasan Ayana Resort, termasuk tamu Ayana Resort Bali, Ayana Villas Bali, Ayana Segara Bali, atau RIMBA by Ayana Bali. Kalau kamu sudah check-in di hotel-hotel ini, bisa langsung booking lewat aplikasi resortnya ([Android](https://play.google.com/store/apps/details?id=com.ayanahospitality.app&pcampaignid=web_share) | [iOS](https://apps.apple.com/id/app/ayana-hotels-resorts/id6478279462?platform=iphone)).
+Reservasi di jam ini cuma buat **tamu yang menginap** di kawasan Ayana Resort, termasuk tamu Ayana Resort Bali, Ayana Villas Bali, Ayana Segara Bali, atau RIMBA by Ayana Bali. Kalau kamu udah check-in di hotel-hotel ini, bisa pakai aplikasi resmi Ayana buat reservasi ([Android](https://play.google.com/store/apps/details?id=com.ayanahospitality.app&pcampaignid=web_share) | [iOS](https://apps.apple.com/id/app/ayana-hotels-resorts/id6478279462?platform=iphone)).
 
-> Cara milih akomodasi di Ayana? Cek [Panduan Lengkap Akomodasi Ayana](/id/blog/ayana-resort-bali-guide/)
+Gimana cara milih akomodasi di Ayana? Cek [panduan lengkap Ayana](/id/blog/ayana-resort-bali-guide/)
 
-**Masuk Langsung (On the Spot):**
+**Masuk langsung (walk-in):**
 
-**Bukan tamu hotel nggak bisa reservasi**, cuma bisa antre langsung di tempat buat nikmatin sunset. Tapi karena kursinya terbatas, saran sih datang lebih awal biar peluang dapet tempat duduk makin gede.
+**Non-tamu tidak bisa reservasi**, cuma bisa antre langsung pas sunset. Tapi karena tempat duduk terbatas, mending datang lebih awal biar dapet kursi.
 
-**Sesi Malam (19:30 - Tutup) Reservasi:**
+**Sesi malam (19:30 - tutup) reservasi:**
 
-Sesi ini terbuka untuk semua tamu, baik yang menginap di Ayana maupun tidak, bisa reservasi lebih awal. Kamu bisa menikmati suasana malam Rock Bar di bawah bintang-bintang — worth it banget!
-
-***
-
-### Aturan Minimum Pembelian 💸
-
-Biar pengalaman setiap tamu tetap oke, Rock Bar punya **minimum spend** buat **non-tamu hotel**, detailnya gini:
-
-- **Tapas Table**：最低消费每人300,000印尼盾++。
-- **Dinner Table**：最低消费每人500,000印尼盾++。
-
-> Catatan: biaya di atas belum termasuk pajak pemerintah 11% dan biaya layanan 10%.
+Sesi ini terbuka untuk semua tamu, baik yang nginep di Ayana maupun enggak, bisa reservasi duluan. Nikmatin suasana malam Rock Bar di bawah bintang-bintang.
 
 ***
 
-## Prosedur Reservasi & Hal yang Perlu Diperhatikan 📋
+### Minimum pembelian 💸
+
+Biar pengalaman semua tamu tetap oke, Rock Bar punya minimum pembelian buat **non-tamu**, detailnya:
+
+- **Tapas Table**: minimum 300,000 IDR++ per orang.
+- **Dinner Table**: minimum 500,000 IDR++ per orang.
+
+> Catatan: harga di atas belum termasuk pajak pemerintah 11% dan biaya layanan 10%.
+
+***
+
+## Cara reservasi & hal yang perlu diperhatikan 📋
 
 ![預約流程與注意事項](https://images.gobaligo.id/vocus/vocus_ca4a8c21021d64ec6450d217865e1c72.jpg)
 
 ![預約流程與注意事項](https://images.gobaligo.id/vocus/vocus_079073365a460e891ca233854ec1d384.jpg)
 
 1. **Konfirmasi Pemesanan**: Setelah berhasil booking, kamu bakal dapet email konfirmasi. Jangan lupa cek bagian 'Penting untuk Diketahui' di email itu, biar tahu kebijakan terbaru Rock Bar dan aturan masuknya.
-2. **Cuaca & Keterbatasan Tempat Duduk**: Karena cuaca atau tempat duduk penuh, Rock Bar bisa tiba-tiba tutup atau berhenti nerima tamu tanpa pemberitahuan sebelumnya. Mohon maklum, dan saran sih cek dulu status operasionalnya sebelum berangkat.
 
 ***
 
-### Tips 🌅
+2. **Cuaca & Keterbatasan Tempat**: Karena cuaca atau tempat yang penuh, Rock Bar bisa tiba-tiba tutup atau berhenti nerima tamu tanpa pemberitahuan sebelumnya. Mohon maklum, dan saran sih cek dulu status operasionalnya sebelum berangkat.
 
-Sunset di Rock Bar itu hits banget, kalau kamu nginep di sini saranin datang sejam lebih awal biar nggak ketinggalan pemandangan sunset paling cakep. Meskipun malam hari, suasananya tetap romantis dan bikin kamu betah, dijamin malam di Bali jadi unforgettable!
+### Tips Penting 🌅
 
-### Tautan Reservasi
+Sesi sunset di Rock Bar tuh super rame, jadi saran buat tamu hotel dateng sejam lebih awal biar nggak ketinggalan pemandangan sunset terbaik. Meskipun malam hari, suasananya tetap romantis dan bikin betah, bikin liburanmu di Bali makin berkesan!
 
-Kalau ada pertanyaan atau mau info lebih lanjut, langsung cek [situs resmi reservasi Rock Bar](https://www.tablecheck.com/en/ayana-resort-and-spa-rockbar/reserve/message) aja ya.
+### Link Reservasi
 
-[Situs resmi Rock Bar](https://www.ayana.com/bali/dining/rock-bar-bali/)
+Kalau ada pertanyaan atau mau info lebih lanjut, langsung cek [situs reservasi Rock Bar](https://www.tablecheck.com/en/ayana-resort-and-spa-rockbar/reserve/message)
 
 ***
+
+[Website resmi Rock Bar](https://www.ayana.com/bali/dining/rock-bar-bali/)
 
 ## Menginap di Ayana Bali
 
-Menginap di **Ayana Bali** adalah pilihan ideal buat kamu yang pengin menikmati kemewahan kelas atas di Bali. Ayana punya empat area akomodasi yang berbeda, masing-masing punya ciri khas sendiri dan cocok buat kebutuhan traveler yang beda-beda. Kalau bingung milih, bisa cek [**Panduan Lengkap Ayana**](/id/blog/ayana-resort-bali-guide/) kami.
+Menginap di **Ayana Bali** adalah pilihan tepat buat kamu yang pengin merasakan kemewahan kelas atas di Bali. Ayana punya empat area akomodasi berbeda, masing-masing dengan keunikan sendiri yang cocok buat berbagai tipe traveler. Kalau bingung milih, bisa cek [**panduan lengkap Ayana**](/id/blog/ayana-resort-bali-guide/) kami.
 
-## Penutup🌴
-
-Rock Bar di Jimbaran adalah tempat romantis yang wajib banget kamu kunjungi di Bali. Baik buat lihat sunset atau nikmatin party malam, semuanya jadi pesta visual dan rasa yang super worth it. Dengan reservasi, kamu bisa masuk dengan gaya dan anti ribet ngantri, bikin liburan Bali-mu makin sempurna!
+## Penutup 🌴
 
 {{block:jim}}
 
-## Rekomendasi Tambahan:
+## Juga Wajib Coba:
 
-[Lebih Chill dari Rock Bar! Pengalaman Sunset 360 Derajat di Luna Rooftop Bar, Ayana Bali](/id/blog/ayana-luna-rooftop-bar-sunset/)
+[Lebih Chill dari Rock Bar! Nikmati Sunset 360 Derajat di Luna Rooftop Bar, Ayana Bali](/id/blog/ayana-luna-rooftop-bar-sunset/)

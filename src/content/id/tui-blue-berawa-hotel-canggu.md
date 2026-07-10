@@ -1,8 +1,9 @@
 ---
 slug: tui-blue-berawa-hotel-canggu
 title: 【Rekomendasi Hotel Canggu】TUI BLUE Berawa Hotel and Villas Baru Dibuka
-description: "Raksasa turis Jerman TUI mendarat di Canggu, Bali! \U0001F3E8\U0001F30A  TUI Blue Berawa Hotel yang baru buka Desember 2024 ini bakal bikin liburanmu beda banget!"
+description: "Raksasa turis Jerman TUI mendarat di Canggu, Bali! \U0001F3E8\U0001F30A Hotel TUI Blue Berawa yang baru buka Desember 2024 ini bakal bikin liburanmu beda banget!"
 pubDate: 2025-01-20T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 住宿推薦
 tags:
@@ -20,96 +21,97 @@ agoda_star_rating: 5
 latitude: -8.660595
 longitude: 115.13974
 lang: id
-_srcHash: d512154a4f64f54ceeba52bd69e315f2
+_srcHash: e01f1717ebdbf2f2ef790e81b1a43982
 ---
+### TUI BLUE Berawa Hotel and Villas: Pengalaman Menginap Mewah di Canggu, Bali
 
-### TUI BLUE Berawa Hotel and Villas: Pengalaman Mewah di Canggu, Bali
+![TUI BLUE Berawa Hotel and Villas：峇里島倉古/長谷的奢華度假體驗](https://images.gobaligo.id/vocus/vocus_976ff3cb5c3a95b10db25df778f18265.jpg)
 
-![TUI BLUE Berawa Hotel and Villas: Pengalaman Mewah di Canggu](https://images.gobaligo.id/vocus/vocus_976ff3cb5c3a95b10db25df778f18265.jpg)
+**Kesimpulan Awal**: TUI BLUE Berawa Hotel and Villas adalah hotel bintang lima milik raksasa turis Jerman TUI yang dibuka pada **Desember 2024** di Canggu. Cocok buat kamu yang pengin merasakan kualitas layanan hotel jaringan internasional sambil stay di kawasan hits Canggu.
 
 ## Kenapa Harus Pilih TUI BLUE Berawa Hotel and Villas?
 
 Raksasa turis Jerman TUI mendarat di Canggu! 🏨🌊
 
-TUI Blue Berawa yang baru buka Desember 2024 ini bakal bikin liburanmu beda banget!
+Hotel TUI Blue Berawa yang baru buka Desember 2024 ini bakal bikin liburanmu beda banget!
 
-Pas liburan ke Bali kali ini, aku milih TUI BLUE Berawa Hotel and Villas yang ada di Canggu. Alasannya sih karena lokasi dan fasilitasnya yang oke banget. Canggu sekarang jadi salah satu area paling hits di Bali—ada pantai yang santai, juga kehidupan malam dan kuliner yang seru. Dan TUI BLUE Berawa Hotel and Villas yang baru buka akhir 2024 ini, dari desain sampai pelayanannya bikin penasaran.
+Pas liburan ke Bali, aku milih nginep di TUI BLUE Berawa Hotel and Villas yang ada di Canggu. Alasannya sih karena lokasi dan fasilitasnya bikin penasaran. Canggu sekarang jadi salah satu kawasan paling hits di Bali — ada pantai yang santai, nightlife seru, dan kuliner kece. Apalagi TUI BLUE Berawa Hotel and Villas ini baru buka akhir 2024, jadi desain dan pelayanannya pasti fresh banget.
 
 ### Lokasi Hotel & Lingkungan Sekitar
 
-TUI BLUE Berawa Hotel and Villas ada di kawasan Berawa, Canggu. Dari sini, jalan kaki 15 menit aja udah sampai ke Pantai Berawa (Berawa Beach). Di sekitar juga ada Atlas Beach Fest dan Finns Recreation Club—cocok banget buat kamu yang suka aktivitas pantai dan nightlife.
+TUI BLUE Berawa Hotel and Villas ada di kawasan Berawa, Canggu. Dari sini, kamu cuma perlu jalan kaki 15 menit ke Pantai Berawa (Berawa Beach). Di dekatnya juga ada Atlas Beach Fest dan Finns Recreation Club — cocok banget buat kamu yang suka aktivitas pantai dan kehidupan malam.
 
-Dari hotel, ke Pantai Seminyak (Seminyak Beach) cuma butuh waktu sekitar 10 menit naik mobil—aksesnya gampang banget. Selain itu, hotel juga sediain shuttle gratis ke pantai, jadi kamu bisa dengan mudah ke pantai-pantai sekitar buat surfing atau sekadar berjemur.
+Dari hotel, ke Seminyak Beach cuma butuh waktu sekitar 10 menit naik mobil — aksesnya gampang banget. Plus, hotel juga menyediakan shuttle gratis ke pantai, jadi kamu bisa dengan santai main surfing atau berjemur di pantai-pantai sekitar.
 
-## Kamar & Fasilitas: Perpaduan Sempurna antara Kenyamanan dan Kemewahan
+## Kamar & Fasilitas: Perpaduan Sempurna Antara Kenyamanan dan Kemewahan
 
-Aku nginep di tipe kamar deluxe, luas banget dan terang. Desainnya perpaduan modern sama sentuhan tradisional Bali. Di dalam kamar ada smart TV, minibar, alat bikin teh/kopi, plus shower yang super gede—tekanan airnya juga nyaman banget.
+Aku nginep di tipe kamar deluxe, ruangannya luas dan terang, desainnya perpaduan modern dengan sentuhan tradisional Bali. Di dalam kamar ada smart TV, minibar, alat bikin teh/kopi, dan shower yang super besar — tekanan airnya juga nyaman banget.
 
-![Kamar & Fasilitas: Perpaduan Sempurna antara Kenyamanan dan ](https://images.gobaligo.id/vocus/vocus_226c19db8a458fdb256c0c392f8c538f.jpg)
-![Kamar & Fasilitas: Perpaduan Sempurna antara Kenyamanan dan ](https://images.gobaligo.id/vocus/vocus_01db5f71007e26d0bb0fe82f83e34307.jpg)
-![Kamar & Fasilitas: Perpaduan Sempurna antara Kenyamanan dan ](https://images.gobaligo.id/vocus/vocus_66038585bf711ed3c1ea85afc7d6c526.jpg)
-![Kamar & Fasilitas: Perpaduan Sempurna antara Kenyamanan dan ](https://images.gobaligo.id/vocus/vocus_8aa995c8994466ecc756a2889be400c1.jpg)
-![Kamar & Fasilitas: Perpaduan Sempurna antara Kenyamanan dan ](https://images.gobaligo.id/vocus/vocus_c32e2b65941d9606d2d323a9a0c8694a.jpg)
-![Kamar & Fasilitas: Perpaduan Sempurna antara Kenyamanan dan ](https://images.gobaligo.id/vocus/vocus_0f6960cf90dad9b83674c9632c34830b.jpg)
+![Kamar & Fasilitas: Perpaduan Sempurna Antara Kenyamanan dan Kemewahan](https://images.gobaligo.id/vocus/vocus_226c19db8a458fdb256c0c392f8c538f.jpg)
+![Kamar & Fasilitas: Perpaduan Sempurna Antara Kenyamanan dan Kemewahan](https://images.gobaligo.id/vocus/vocus_01db5f71007e26d0bb0fe82f83e34307.jpg)
+![Kamar & Fasilitas: Perpaduan Sempurna Antara Kenyamanan dan Kemewahan](https://images.gobaligo.id/vocus/vocus_66038585bf711ed3c1ea85afc7d6c526.jpg)
+![Kamar & Fasilitas: Perpaduan Sempurna Antara Kenyamanan dan Kemewahan](https://images.gobaligo.id/vocus/vocus_8aa995c8994466ecc756a2889be400c1.jpg)
+![Kamar & Fasilitas: Perpaduan Sempurna Antara Kenyamanan dan Kemewahan](https://images.gobaligo.id/vocus/vocus_c32e2b65941d9606d2d323a9a0c8694a.jpg)
+![Kamar & Fasilitas: Perpaduan Sempurna Antara Kenyamanan dan Kemewahan](https://images.gobaligo.id/vocus/vocus_0f6960cf90dad9b83674c9632c34830b.jpg)
 
-Fasilitas umum hotelnya juga lengkap banget, ada kolam renang outdoor, pusat kebugaran, dan SPA lengkap. Aku paling suka layanan SPA-nya, pijatnya profesional banget, bikin rileks total.
+Fasilitas umum hotel juga lengkap banget, ada kolam renang outdoor, pusat kebugaran, dan SPA dengan layanan lengkap. Aku pribadi suka banget sama SPA-nya — teknik pijatnya profesional, bikin tubuh benar-benar rileks.
 
-![Kamar & Fasilitas: Perpaduan Sempurna antara Kenyamanan dan ](https://images.gobaligo.id/vocus/vocus_d92a4e09bdc9516a29e21d34d31aa0f7.jpg)
-![Kamar & Fasilitas: Perpaduan Sempurna antara Kenyamanan dan ](https://images.gobaligo.id/vocus/vocus_30287cfce59296f57ce17252f547dd13.jpg)
+![Kamar & Fasilitas: Perpaduan Sempurna Antara Kenyamanan dan Kemewahan](https://images.gobaligo.id/vocus/vocus_d92a4e09bdc9516a29e21d34d31aa0f7.jpg)
+![Kamar & Fasilitas: Perpaduan Sempurna Antara Kenyamanan dan Kemewahan](https://images.gobaligo.id/vocus/vocus_30287cfce59296f57ce17252f547dd13.jpg)
 
-## Pengalaman Makan: Nikmatnya Makanan dan Pemandangan
+## Pengalaman Kuliner: Kenikmatan Ganda dari Makanan dan Pemandangan
 
-Pilihan makanan di hotel ini super variatif, total ada 3 restoran dan 3 beach bar. Aku rekomendasi banget GAB'S GASTROBAR, masakan Asianya otentik banget, apalagi hidangan khas Indonesia—bikin kangen.
+Pilihan makanan di hotel ini super variatif — total ada 3 restoran dan 3 bar pantai. Aku rekomendasi banget GAB'S GASTROBAR, masakan Asianya otentik, apalagi hidangan khas Indonesia, bikin kangen terus.
 
-Sarapan pakai sistem prasmanan, macamnya banyak, dari buah segar sampai makanan panas semua ada, buka setiap hari jam 6:30 sampai 10:00. Selain itu, hotel juga punya layanan kamar 24 jam, cocok banget buat yang suka makan di kamar kayak aku.
+Sarapan pakai sistem prasmanan, macamnya banyak — dari buah segar sampai makanan panas semua ada, buka setiap hari jam 6:30 sampai 10:00. Selain itu, hotel juga punya layanan kamar 24 jam, cocok banget buat yang suka makan di kamar kayak aku.
 
-![Pengalaman Makan: Nikmatnya Makanan dan Pemandangan](https://images.gobaligo.id/vocus/vocus_ab82630cb98d54352d56b2e7913ee901.jpg)
-![Pengalaman Makan: Nikmatnya Makanan dan Pemandangan](https://images.gobaligo.id/vocus/vocus_9154b453ea4ba86c352f9fb01c4c28c1.jpg)
+![Pengalaman Kuliner: Kenikmatan Ganda dari Makanan dan Pemandangan](https://images.gobaligo.id/vocus/vocus_ab82630cb98d54352d56b2e7913ee901.jpg)
+![Pengalaman Kuliner: Kenikmatan Ganda dari Makanan dan Pemandangan](https://images.gobaligo.id/vocus/vocus_9154b453ea4ba86c352f9fb01c4c28c1.jpg)
 
 ![早餐真不錯😌 (盧彥廷提供)](https://images.gobaligo.id/vocus/vocus_9bd5864bdc1fa72ec63b71a39450bff5.jpg)
 
-[Sarapannya enak banget 😌 (dari Lu Yan Ting)](https://www.facebook.com/share/p/1Fxa8Dm33o/)
+[Sarapan enak banget 😌 (dari Lu Yanting)](https://www.facebook.com/share/p/1Fxa8Dm33o/)
 
 ## Pelayanan & Detail: Pengalaman Bintang Lima yang Super Perhatian
 
-Pelayanan hotel ini benar-benar bikin aku terkesan. Dari check-in sampai check-out, semua stafnya ramah banget dan perhatian. Layanan resepsionis 24 jam dan pusat bisnis juga bikin tamu bisnis bisa dengan mudah mengurus pekerjaan.
+Pelayanan hotel ini bikin aku terkesan banget, dari check-in sampai check-out, semua stafnya ramah dan perhatian. Layanan resepsionis 24 jam dan pusat bisnis juga bikin tamu bisnis tetap bisa handle kerjaan dengan mudah.
 
-Selain itu, hotel juga menyediakan WiFi gratis, parkir mandiri, dan shuttle bandara berbayar. Detail-detail kecil ini beneran nunjukin kepedulian mereka terhadap tamu.
+Selain itu, hotel juga kasih WiFi gratis, parkir mandiri, dan shuttle bandara berbayar — detail kecil yang nunjukin kepedulian mereka ke tamu.
 
 ## Kesimpulan: Alasan Worth It buat Nginep Lagi
 
-Secara keseluruhan, TUI BLUE Berawa Hotel and Villas benar-benar worth it banget, baik dari segi lokasi, fasilitas, maupun pelayanannya.
+Secara keseluruhan, TUI BLUE Berawa Hotel and Villas beneran worth it — dari lokasi, fasilitas, sampai pelayanannya.
 
-Hotel punya **119 kamar dan suite** plus **14 vila dengan kolam renang pribadi**. Fasilitasnya oke banget: pusat kebugaran, studio yoga, co-working space, dan restoran premium. Ada juga kolaborasi spesial dengan RR Chocolate, merek cokelat top Indonesia, buat pengalaman unik. Cocok buat keluarga, pasangan bulan madu, atau siapa pun yang cari liburan mewah dan nyaman.
+Hotel ini punya **119 kamar dan suite** plus **14 vila dengan kolam renang pribadi**. Fasilitasnya meliputi pusat kebugaran, ruang yoga, co-working space, dan restoran kelas atas. Mereka juga kerja sama dengan RR Chocolate, brand cokelat top Indonesia, buat kasih pengalaman unik buat tamu. Cocok buat keluarga, pasangan bulan madu, atau traveler yang cari kemewahan dan kenyamanan — semua bisa nemu tempat yang pas di sini.
 
-> ▶ TUI BLUE Berawa Hotel and Villas [Harga Spesial Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=61670353) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=123784342&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6w8TFJMEkdZWJ49jB3n42IWZDAyONjXwGDxgttso7Bu2Qa30dW-PgefirRkz_pkaHAJ6IKQeeT2NPbM7Tz-zp8HfoYmQFC8xgnDaz2Xoj49kzQCAT47CDkekAI9MJxuMiC5iWnmqxPsXCzNHFcollF2N0tVJ2aqWSlYmOUklmSU6qkpXS00Xznjbseb6iVUlHKSW1OBkoBGQl5uaX5pUA2aZGRnoGBkCRksQKzxSwzuTEnOTSnMSS1JDKAqAJRjpKmcXOJUWZBUGpuZklJalAVWmJOcWpIPGg1GKgTDJYEGRuEZSfmZ8H0W2AIhaWmFOaClEJtM8tFWqFYW3sIxam6NgXLBv5PrEw_GJhaGJl6GJl5ljKNAlIHhfZxcobZBppbOqpaxiiG6VreIH1gbiUnKGBgYGpobGpqa5BomWisVFasq6JpYmRmYWuqYWZocbB_g2XnxgbWUtBQlGBUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm4mxq5mpRZQNF3NosIug3n_Fv99MpR2kmEPCXRQnB114q9p72l6L2dMlyPCD3vPt7daW9oF7XuecsDdeYB-pcu1RMEPPafsk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUAgcp27EcCAAA&masterhotelid_tracelogid=100051355-0a9a32fc-494268-5861&detailFilters=17|1~17~1*31|123784342~31~123784342*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=220&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/4eoziH0p)
+> ▶TUI BLUE Berawa Hotel and Villas [Harga Spesial Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=61670353) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=123784342&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6w8TFJMEkdZWJ49jB3n42IWZDAyONjXwGDxgttso7Bu2Qa30dW-PgefirRkz_pkaHAJ6IKQeeT2NPbM7Tz-zp8HfoYmQFC8xgnDaz2Xoj49kzQCAT47CDkekAI9MJxuMiC5iWnmqxPsXCzNHFcollF2N0tVJ2aqWSlYmOUklmSU6qkpXS00Xznjbseb6iVUlHKSW1OBkoBGQl5uaX5pUA2aZGRnoGBkCRksQKzxSwzuTEnOTSnMSS1JDKAqAJRjpKmcXOJUWZBUGpuZklJalAVWmJOcWpIPGg1GKgTDJYEGRuEZSfmZ8H0W2AIhaWmFOaClEJtM8tFWqFYW3sIxam6NgXLBv5PrEw_GJhaGJl6GJl5ljKNAlIHhfZxcobZBppbOqpaxiiG6VreIH1gbiUnKGBgYGpobGpqa5BomWisVFasq6JpYmRmYWuqYWZocbB_g2XnxgbWUtBQlGBUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm4mxq5mpRZQNF3NosIug3n_Fv99MpR2kmEPCXRQnB114q9p72l6L2dMlyPCD3vPt7daW9oF7XuecsDdeYB-pcu1RMEPPafsk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUAgcp27EcCAAA&masterhotelid_tracelogid=100051355-0a9a32fc-494268-5861&detailFilters=17|1~17~1*31|123784342~31~123784342*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=220&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/4eoziH0p)
 
-## Review Asli Tamu
+## Review Nyata dari Tamu
 
-![Review Asli Tamu](https://images.gobaligo.id/vocus/vocus_49dfaa5dd4d7e3308a661051f492e5c7.jpg)
+![住客真實評論](https://images.gobaligo.id/vocus/vocus_49dfaa5dd4d7e3308a661051f492e5c7.jpg)
 
-TUI BLUE Berawa Hotel and Villas keren banget! Lokasi hotelnya strategis, hampir semua tempat bisa dijangkau dengan jalan kaki, termasuk pantai, restoran, dan kafe. Kamar kami super nyaman, semua yang dibutuhkan ada lengkap. Makasih banget sama hotel yang bikin liburan kami jadi menyenangkan dan rileks. Recommended banget! 💙
+TUI BLUE Berawa Hotel and Villas keren banget! Lokasi hotel strategis, hampir semua tempat bisa dijangkau jalan kaki — termasuk pantai, restoran, dan kafe. Kamar kami super nyaman, semua kebutuhan ada lengkap. Makasih hotel udah bikin liburan kami seru dan rileks, recommended banget! 💙
 
-![Review Asli Tamu](https://images.gobaligo.id/vocus/vocus_2a03db169e5d2fdaff550fdc94aab6b3.jpg)
+![住客真實評論](https://images.gobaligo.id/vocus/vocus_2a03db169e5d2fdaff550fdc94aab6b3.jpg)
 
-Kami check-in tanggal 31 Desember di hotel ini biar gampang ikut acara tahun baru di FINN's, dan ternyata pengalamannya di luar ekspektasi! Hotelnya baru banget, bahkan sopir taksi aja masih belum terlalu kenal. Hotelnya cantik banget, apalagi rooftop bar-nya, suasananya super santai. Deket juga sama restoran dan fasilitas di sekitarnya. Bisa jalan kaki, jadi ngurangin banget waktu macet! Recommended buat kamu yang mau nikmatin kenyamanan dan kemudahan di Canggu! 🚶‍♂️🌴
+Kami nginep di sini tanggal 31 Desember biar gampang ikut acara tahun baru di FINN's, dan ternyata pengalamannya di luar ekspektasi! Hotelnya baru banget, awalnya sopir taksi aja belum hafal. Hotelnya cantik banget, apalagi rooftop bar-nya, suasananya super santai. Dekat juga sama restoran dan fasilitas lain. Jalan kaki bisa ke mana-mana, jadi irit waktu macet! Recommended buat kamu yang mau nikmatin kenyamanan dan lokasi strategis di Canggu! 🚶‍♂️🌴
 
-![Review Asli Tamu](https://images.gobaligo.id/vocus/vocus_aae7e739eae711fc68d8d02d0339864c.jpg)
+![住客真實評論](https://images.gobaligo.id/vocus/vocus_aae7e739eae711fc68d8d02d0339864c.jpg)
 
-Kami nginep di TUI BLUE Berawa dengan pengalaman yang sangat menyenangkan! Staf hotelnya ramah dan suka bantu, bikin pengalaman kami jadi spesial banget. Meskipun hotel masih dalam tahap uji coba, ada beberapa detail kecil yang perlu diperbaiki, tapi secara keseluruhan kami puas banget dan merasa diperhatikan. Makasih banyak atas pelayanannya yang tulus, pasti bakal balik lagi! 😊
+Kami sangat puas menginap di TUI BLUE Berawa! Staf hotelnya ramah banget dan suka bantu, bikin pengalaman kami makin spesial. Meskipun hotel masih dalam tahap uji coba dan ada beberapa detail kecil yang perlu diperbaiki, secara keseluruhan kami merasa sangat puas dan diperhatikan banget. Makasih banyak atas pelayanannya yang tulus, pasti bakal balik lagi! 😊
 
-> ▶TUI BLUE Berawa Hotel and Villas [Harga Promo Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=61670353) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=123784342&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6w8TFJMEkdZWJ49jB3n42IWZDAyONjXwGDxgttso7Bu2Qa30dW-PgefirRkz_pkaHAJ6IKQeeT2NPbM7Tz-zp8HfoYmQFC8xgnDaz2Xoj49kzQCAT47CDkekAI9MJxuMiC5iWnmqxPsXCzNHFcollF2N0tVJ2aqWSlYmOUklmSU6qkpXS00Xznjbseb6iVUlHKSW1OBkoBGQl5uaX5pUA2aZGRnoGBkCRksQKzxSwzuTEnOTSnMSS1JDKAqAJRjpKmcXOJUWZBUGpuZklJalAVWmJOcWpIPGg1GKgTDJYEGRuEZSfmZ8H0W2AIhaWmFOaClEJtM8tFWqFYW3sIxam6NgXLBv5PrEw_GJhaGJl6GJl5ljKNAlIHhfZxcobZBppbOqpaxiiG6VreIH1gbiUnKGBgYGpobGpqa5BomWisVFasq6JpYmRmYWuqYWZocbB_g2XnxgbWUtBQlGBUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm4mxq5mpRZQNF3NosIug3n_Fv99MpR2kmEPCXRQnB114q9p72l6L2dMlyPCD3vPt7daW9oF7XuecsDdeYB-pcu1RMEPPafsk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUAgcp27EcCAAA&masterhotelid_tracelogid=100051355-0a9a32fc-494268-5861&detailFilters=17|1~17~1*31|123784342~31~123784342*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=220&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/4eoziH0p)
+> ▶TUI BLUE Berawa Hotel and Villas [Harga diskon Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=61670353) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=123784342&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6w8TFJMEkdZWJ49jB3n42IWZDAyONjXwGDxgttso7Bu2Qa30dW-PgefirRkz_pkaHAJ6IKQeeT2NPbM7Tz-zp8HfoYmQFC8xgnDaz2Xoj49kzQCAT47CDkekAI9MJxuMiC5iWnmqxPsXCzNHFcollF2N0tVJ2aqWSlYmOUklmSU6qkpXS00Xznjbseb6iVUlHKSW1OBkoBGQl5uaX5pUA2aZGRnoGBkCRksQKzxSwzuTEnOTSnMSS1JDKAqAJRjpKmcXOJUWZBUGpuZklJalAVWmJOcWpIPGg1GKgTDJYEGRuEZSfmZ8H0W2AIhaWmFOaClEJtM8tFWqFYW3sIxam6NgXLBv5PrEw_GJhaGJl6GJl5ljKNAlIHhfZxcobZBppbOqpaxiiG6VreIH1gbiUnKGBgYGpobGpqa5BomWisVFasq6JpYmRmYWuqYWZocbB_g2XnxgbWUtBQlGBUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm4mxq5mpRZQNF3NosIug3n_Fv99MpR2kmEPCXRQnB114q9p72l6L2dMlyPCD3vPt7daW9oF7XuecsDdeYB-pcu1RMEPPafsk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUAgcp27EcCAAA&masterhotelid_tracelogid=100051355-0a9a32fc-494268-5861&detailFilters=17|1~17~1*31|123784342~31~123784342*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=220&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/4eoziH0p)
 
 ## Rekomendasi Penginapan Lain di Canggu
 
-![Rekomendasi Penginapan Lain di Canggu](https://images.gobaligo.id/vocus/vocus_03fcc0f55bfdea2b573bb264af918028.png)
+![更多長谷住宿推薦](https://images.gobaligo.id/vocus/vocus_03fcc0f55bfdea2b573bb264af918028.png)
 
-Canggu adalah salah satu destinasi wisata paling hits di Bali belakangan ini. Dikenal dengan pantainya yang kece, budaya surfing yang kental, kafe-kafe kekinian, dan vibe bohemian yang unik. Mau kamu pecinta olahraga surfing, foodie, atau traveler yang cari suasana santai, Canggu punya semuanya.
+Canggu adalah salah satu destinasi wisata paling populer di Bali belakangan ini, terkenal dengan pantainya yang indah, budaya selancar yang kaya, kafe-kafe kekinian, dan atmosfer bohemian yang unik. Baik kamu peselancar yang doyan olahraga, pecinta kuliner, atau traveler yang cari suasana santai, Canggu bisa memenuhi semua kebutuhan.
 
-Kalau kamu juga tertarik nginep di Canggu yang penuh pesona, cek aja rekomendasi penginapan tematik yang udah kami siapin biar kamu gampang nemuin yang paling cocok:
+Kalau kamu juga tertarik nginep di Canggu yang penuh pesona, cek aja rekomendasi penginapan tematik yang udah kami siapin di bawah ini, biar kamu nemu pilihan yang paling pas:
 
-- [Top 12 Penginapan di Canggu yang Wajib Kamu Coba](/id/blog/canggu-top-hotels-guide/)
-- [16 Villa dengan Kolam Renang Pribadi di Canggu — Villa Bali yang Gak Boleh Dilewatkan](/id/blog/canggu-villas-guide/)
+- [Canggu Top 12 Rekomendasi Penginapan yang Wajib Kamu Coba](/id/blog/canggu-top-hotels-guide/)
+- [16 Rekomendasi Villa dengan Kolam Renang Pribadi di Canggu — Villa Canggu yang Wajib Kamu Coba di Bali](/id/blog/canggu-villas-guide/)
 
  BLOCK0 
  BLOCK1 

@@ -5,6 +5,7 @@ description: >-
   诸神之岛的舌尖盛宴！2026 巴厘岛最新 Top 10 必吃特色美食终极推荐指南。本文诚实打包：传承百年的脆皮烤猪饭（Babi
   Guling）、酥脆多汁的传统脏鸭饭（Bebek Betutu）、金巴兰炭烤海鲜，以及精选传统市场小吃与沙努尔、坎古人气文艺餐厅。
 pubDate: 2023-05-02T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: null
 category:
   - 美食景點活動
@@ -23,14 +24,14 @@ heroImage: >-
   https://images.gobaligo.id/images/2026-06/1782197108428-mixcollage-23-jun-2026-01-44-pm-455.jpg
 originalUrl: 'https://vocus.cc/article/64db6b81fd897800013a98e3'
 lang: zh-cn
-_srcHash: 8e93a13f0e541c41fe975295d35f89f7
+_srcHash: 2dd883004abde5c4193c0be940928d7f
 ---
 
-Update: 2026/06/23
+**先讲结论**：巴厘岛公认十大美食以**烤猪饭（Babi Guling）、脏鸭饭（Bebek Betutu）、印尼炒饭（Nasi Goreng）**为代表，加上羊肉/猪肉沙爹、烤玉米、Martabak 甜蛋饼等在地小吃，本文另补充当地人私推的名店（如 Wahaha、Massimo Gelato），合计已介绍超过 20 种巴厘岛必吃美食。
 
 巴厘岛是印尼的旅游胜地之一，不仅有美丽的沙滩和热带气候，还有丰富的美食文化，就算是冲着美食而来，巴厘岛多样的美食、平易的价格也能让饕客们大快朵颐而不用担心口袋不够深！
 
-上次我们为大家介绍了“公认的”巴厘岛十大美食，这些十大美食有：
+上次我们为大家介绍了「公认的」巴厘岛十大美食，这些十大美食有：
 
 ## 公认的巴厘岛十大美食
 
@@ -45,7 +46,7 @@ https://youtu.be/RodQvCZKwD0
 - 烤玉米（jagung bakar）▶[介绍](https://youtu.be/HKMalFa6zMw)
 - 炸香蕉（pisang goreng）
 - Martabak甜蛋饼（martabak manis）▶[介绍](https://youtu.be/EKJ4-jvhTiU)
-- 酪梨果汁（jus alpukat）
+- 牛油果果汁（jus alpukat）
 
 https://youtu.be/FphhiUzB7gM
 

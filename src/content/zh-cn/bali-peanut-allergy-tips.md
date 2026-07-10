@@ -1,8 +1,9 @@
 ---
 slug: bali-peanut-allergy-tips
 title: 花生过敏！？去巴厘岛可以这样做
-description: 在巴厘岛旅行时，若是对花生过敏的人，避免食用含有花生的食物是非常重要的。以下是一些在巴厘岛旅行时需要避免的食物和应对方法
+description: 在巴厘岛旅行时，如果对花生过敏，避免食用含有花生的食物非常重要。以下是一些在巴厘岛旅行时需要避免的食物和应对方法
 pubDate: '2024-05-06'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_372769d54f46d8a097bf36ebbf836955.png'
 tags:
   - 花生
@@ -14,12 +15,13 @@ originalUrl: 'https://vocus.cc/article/66385c23fd897800014ead64'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: b6e2243def8fdb225636ba8e83293751
+_srcHash: a0e81341a71de901625ed75607ff7d53
 ---
+**先讲结论**：花生过敏者在巴厘岛点餐前务必确认——最容易中招的是 **Gado-gado 印尼沙拉**（花生酱淋酱）与各式**花生酱调味料**，其次是传统印尼甜点与部分巧克力糖果。点餐时可用英文告知「I am allergic to peanuts」，或直接出示印尼文「Saya alergi kacang tanah」，并随身携带过敏紧急救助用品备用。
 
-在巴厘岛旅行时，若是对花生过敏的人，避免食用含有花生的食物是非常重要的。巴厘岛的饮食多样，但是花生在一些菜式和调味料中可能会被使用，因此需要格外小心。
+在巴厘岛旅行时，如果对花生过敏，避免食用含有花生的食物非常重要。巴厘岛的饮食多样，但花生在一些菜式和调味料中可能会被使用，因此需要格外小心。
 
-![花生过敏！？去巴厘岛可以这样做](https://images.gobaligo.id/vocus/vocus_560250c5a2572c49e425faaa459bceb2.png)
+![花生過敏！？去峇里島可以這樣做](https://images.gobaligo.id/vocus/vocus_560250c5a2572c49e425faaa459bceb2.png)
 
 以下是一些在巴厘岛旅行时需要避免或小心食用的可能含有花生的食物和食品：
 
@@ -28,11 +30,11 @@ _srcHash: b6e2243def8fdb225636ba8e83293751
 3. **传统印尼甜点**: 一些传统的印尼点心可能会含有花生，所以在品尝时要小心。
 4. **巧克力或糖果**: 一些巧克力和糖果可能含有花生，因此在购买时要查看标签。
 
-在巴厘岛旅行时，了解食物的成分和制作过程是非常重要的。除了避免食用含有花生的食物外，您也可以向点餐的服务员表示「**I am allergic to peanuts.**」。若店员不会英文，您可以把这句印尼文抄下来出示给他看：**Saya alergi kacang tanah**（印尼文）。
+在巴厘岛旅行时，了解食物的成分和制作过程非常重要。除了避免食用含有花生的食物外，您也可以向点餐的服务员表示「**I am allergic to peanuts.**」。如果店员不会英文，您可以把这句印尼文抄下来出示给他看：**Saya alergi kacang tanah**（印尼文）。
 
 更重要的是，为避免误食，花生过敏者别忘了随身携带一些过敏紧急救助用品，以应对意外情况。
 
-![花生过敏！？去巴厘岛可以这样做](https://images.gobaligo.id/vocus/vocus_aa7648471037473f80418f211f4b41ad.png)
+![花生過敏！？去峇里島可以這樣做](https://images.gobaligo.id/vocus/vocus_aa7648471037473f80418f211f4b41ad.png)
 
 在阅读我们的**「巴厘岛自由行究极旅行攻略」**之前，我们诚挚地邀请您先订阅我们更多视觉体验分享的YouTube频道**「小杰 印尼」**。[点击这里](http://bit.ly/youtube-jason)，立即订阅
 

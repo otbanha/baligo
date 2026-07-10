@@ -2,15 +2,17 @@
 slug: 2026-bali-tourism-tax-guide
 title: >-
   【2026 Bali Tourism Tax Guide】Latest Payment Tutorial, Love Bali Official
-  Website Operation, and Island Hopping Return Tax Rules Explained
+  Website Instructions & Complete Analysis on Whether You Need to Repay for
+  Island Hopping Returns
 description: >-
-  Planning a Bali vacation? Here's your complete guide to the 2026 mandatory
-  Tourism Tax (IDR 150,000) for entry: detailed explanation of payment process,
-  electronic proof QR code collection, and airport inspection points. This
-  article specially includes regulations for "island hopping trips (e.g., to
-  Lombok, Gili Islands)" return tax payments, teaching you how to handle all
-  procedures at once and elegantly start your island getaway.
+  Planning a Bali getaway? Here's your complete guide to the mandatory 2026
+  Tourism Tax: an in-depth breakdown of the IDR 150,000 payment process, how to
+  get your electronic QR code proof, and key airport inspection tips. This guide
+  also covers the rules for returning from island hopping trips (e.g., to Lombok
+  or the Gili Islands), showing you how to handle the process smoothly and start
+  your island vacation with ease.
 pubDate: 2024-01-03T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 簽證通關
 tags:
@@ -31,87 +33,88 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-04/1777252730266-782544334399662200.png'
 originalUrl: 'https://vocus.cc/article/65955989fd89780001a95927'
 lang: en
-_srcHash: c16bb8fa71cd5d7f14fca1733a9668d7
+_srcHash: 0339ce7459e48d13048f78c0432ed7e9
 ---
+**Bottom line**: Since February 14, 2024, all international travelers (including children) entering Bali must pay a **Tourism Tax of IDR 150,000 (about USD$5)**. You can pay online via the Love Bali website and receive an electronic QR code voucher for airport inspection. **If you island-hop to Lombok or the Gili Islands and return to Bali, you generally don't need to pay again**—just keep your original payment proof.
 
-Since February 14, 2024, **Bali** has implemented a new tourism policy called the "International Tourist Levy," applicable to all international visitors to **Bali**, regardless of age. Each person must pay IDR 150,000, equivalent to approximately USD$10. This policy aims to address traffic congestion and waste issues in **Bali**.
+Since February 14, 2024, **Bali** has implemented a new tourism policy called the 
 
-### Starting February 14, 2024, traveling to Bali requires an additional USD$10
+International Tourist Levy,
 
-1. **Effective Date**: Starting February 14, 2024.
-2. **Applicability**: Foreign tourists; including those arriving via direct flights to **Bali** or entering **Bali** through other Indonesian cities.
-3. **Payment**: It is recommended that travelers pay online through the [Love Bali official website](https://lovebali.baliprov.go.id/home) or by downloading the "Love Bali" app before arriving in **Bali**. The Levy voucher will be scanned and verified at checkpoints.
-4. **On-site Payment**: The tax can also be paid at **Bali** International Airport arrival terminals and Benoa Port.
+ which applies to all international visitors to **Bali**, both adults and children. Each person must pay a tax of 150,000 Indonesian Rupiah, equivalent to about USD$5. This policy aims to address the traffic congestion and waste issues facing **Bali**.
 
-The local tourism bureau states that the tax payment process takes no more than 23 seconds and strongly advises tourists to pay in advance.
+### Starting February 14, 2024, traveling to Bali requires an additional expense of about USD$5
 
-![Starting February 14, 2024, traveling to Bali requires an ad](https://images.gobaligo.id/images/2026-04/1776095669943-mixcollage-13-apr-2026-10-53-pm-603.jpg)
+![2024/2/14 起，前往峇里島旅遊必須多支出折合台幣 $300 元](https://images.gobaligo.id/images/2026-04/1776095669943-mixcollage-13-apr-2026-10-53-pm-603.jpg)
 
-## Do I Need to Pay Again for Island Hopping?
+1. **Timing**: Effective from February 14, 2024.
+2. **Who it applies to**: Foreign tourists, including those arriving on direct flights to **Bali** or entering **Bali** via other Indonesian cities.
+3. **Payment**: Travelers are advised to pay online before arriving in **Bali** via the [Love Bali website](https://lovebali.baliprov.go.id/home) or by downloading the 
 
-Some news websites suggest that if you island hop (Bali ---> other islands not under Bali Province jurisdiction ---> return to Bali), you need to pay the tourism tax again upon returning to Bali. However, rest assured, even if your island hopping destination is outside Bali Province jurisdiction, such as the Gili Islands, Lombok, or Java, you "**do not need**" to pay the tourism tax again when returning to Bali! This is based on our verification of the official website FAQ (<https://lovebali.baliprov.go.id/faq>):
+Love Bali
 
 {{block:戶外}}
 
 ![觀光税/旅遊稅僅需繳交一次！](https://images.gobaligo.id/vocus/vocus_cd11301d42f66a0fb33d5f4affd1beab.png)
 
-The tourism tax only needs to be paid once!
+ app. The levy voucher will be scanned and checked at inspection points.
+4. **On-site payment**: The tax can also be paid at the arrival terminal of **Bali**'s international airport and at Benoa Port.
 
-## Can I Pay On-site?
+## Can I pay on-site?
 
 ![沒有線上繳交觀光税，下飛機後去這個櫃檯補繳](https://images.gobaligo.id/vocus/vocus_afc7d27a7b348f233f38f42bcaf925a0.jpg)
 
-If you haven't paid the tourism tax online, visit this counter to pay upon arrival.
+If you haven't paid the tourism levy online, head to this counter after landing to pay.
 
-Regardless of the reason for not paying the tourism tax, stricter checks are now being enforced.
+Regardless of why you haven't paid the tourism levy, checks are now being strictly enforced.
 
-The payment counter is shown in the image above. Please present your passport and have cash ready to complete the process.
+The on-site payment counter is shown above. Please present your passport and have cash ready.
 
 ## Inspection Checkpoint
 
-Ngurah Rai International Airport (DPS) has officially set up a '**Levy Vouchers Secondary Inspection Lane**' **between the arrival hall exit and the pick-up area**. This means that even after clearing customs and collecting your luggage, before meeting your driver outside the airport, inspectors will stop all travelers and require QR Code scanning.
+Ngurah Rai International Airport (DPS) has officially set up a **"Levy Vouchers Secondary Inspection Lane"** between the **arrival hall exit and the pick-up area**. This means even after clearing customs and collecting your luggage, before you step out of the airport to meet your driver, inspectors will stop all travelers and ask them to scan a QR Code.
 
-- **On-the-spot payment**: If you cannot present proof of payment, you must pay immediately via QRIS scan, credit card, or debit card.
-- **Recommendation**: Be sure to save a screenshot of the voucher on your phone to avoid issues with unstable airport Wi-Fi.
+- **On-site payment**: If you cannot show proof, you must pay on the spot via QRIS scan, credit card, or debit card.
+- **Tip**: Be sure to save a screenshot of your voucher on your phone to avoid issues with unstable airport Wi-Fi.
 
-## Visa Exemptions from Tourism Tax
+## Visas Exempt from the Tourism Levy
 
-Seven visa categories are exempt from this tax, including diplomatic, official, transportation crew, student visas, and holders of temporary or permanent residence permits (KITAS and KITAP). Applications for tax exemption must be submitted **at least one month in advance**, and local tourism authorities will approve within a maximum of five working days.
+Seven visa categories are exempt from this fee, including diplomatic, official, crew members of transport vehicles, student visas, and holders of temporary or permanent residence permits (KITAS and KITAP). Applications for exemption must be submitted **at least one month in advance**, and the local tourism authority will grant approval within a maximum of five working days.
 
-Exempt visa holders must **submit** their application in advance and meet the requirements of the Love Bali system. If approved, the Love Bali system will send a notification and proof of tax exemption approval (in the form of a QR code) to the foreign visitor.
+Exempt visa holders must **submit an application in advance** and meet the requirements of the Love Bali system. If approved, the Love Bali system will send a notification and an exemption approval certificate (in the form of a QR code) to the foreign traveler.
 
-## Tourism Tax Payment Methods and Inspection Information:
+## Tourist Tax Payment & Inspection Info:
 
-- The tourism tax can be paid upon arrival at Ngurah Rai International Airport or online through the LoveBali official website.
+- The tax can be paid upon arrival at Ngurah Rai International Airport or online via the LoveBali website.
 - Some hotels and resorts can also assist guests with the payment process.
-- After payment is completed, the system will send a QR code voucher, which tourists need to keep for inspection.
+- After payment, a QR code voucher will be sent to you—keep it handy for inspections.
 
-Bali tourism officials have begun on-site checks at popular tourist spots, primarily focusing on entry and exit points. Tourists who haven't paid the tax will need to pay on-site using a credit card — **cash payments are not accepted**.
+Bali tourism officials have been conducting spot checks at popular attractions, mainly at entry and exit points. Tourists who haven't paid the tax will need to pay on the spot by credit card—**cash is not accepted**.
 
-## **Tips for Paying the Tourism Tax:**
+## **Quick Tips for Paying the Tourist Tax:**
 
-1. It's recommended to use a desktop computer for payment to avoid system issues on mobile devices.
-2. Ensure your browser doesn't have ad blockers or VPNs enabled, as they may prevent the website from functioning properly.
-3. You can process payments for up to 10 people at once. Required information includes passport name, passport number, email address, and arrival date.
-4. Island hopping doesn't require additional payments!
+1. Use a desktop computer for payment to avoid system glitches on mobile devices.
+2. Make sure your browser doesn't have ad blockers or VPN enabled, or the website may not work properly.
+3. You can pay for up to 10 people at once. Required info includes passport name, passport number, email address, and date of arrival.
+4. No need to pay again if you're island-hopping!
 
-## Why Implement a Tourism Tax?
+## Why Was the Tourist Tax Introduced?
 
-The outline for Bali's tourism tax implementation is as follows:
+Here's the gist of why Bali implemented the tourist tax:
 
-1. Bali is tired of tourists' inappropriate behavior and aims to protect its reputation.
-2. Governor Wayan Koster has ordered behavioral guidelines to be attached to tourists' passports and has expelled at least 136 foreigners for misconduct.
-3. Bali will impose a tourism tax of approximately USD$10 per international visitor, to be used for cultural and environmental preservation.
-4. While tourism has rebounded post-pandemic, tourists' misconduct has become an issue, including violating social taboos, disputes with local authorities, and traffic violations.
-5. Foreigners' lack of respect for local customs has caused discontent, displeasing local authorities.
-6. The tourism tax isn't a new concept, with similar precedents elsewhere, but Bali's governor believes it will help improve the environment and enhance tourism quality.
+1. Bali is fed up with unruly tourist behavior and wants to protect its reputation.
+2. Governor Wayan Koster ordered a code of conduct to be attached to tourists' passports and has deported at least 136 foreigners for misconduct.
+3. Bali will levy a tourist tax of about USD$10 per person on all international visitors, earmarked for cultural and environmental preservation.
+4. Tourism has rebounded post-pandemic, but bad behavior—like social taboos, disputes with local authorities, and traffic violations—has become a problem.
+5. Foreigners' lack of respect for local customs has sparked resentment, and the local government is not happy about it.
+6. The tourist tax isn't a new idea—similar measures exist elsewhere—but Bali's governor believes it will help improve the environment and enhance tourism quality.
 
-> Further reading: What else do you need to prepare besides the 'tourism tax'? Check out our [2026 Indonesia Bali Arrival Guide: From Landing to Customs to Baggage Claim in 1 Minute](/en/blog/bali-all-indonesia-arrival-guide/) for the latest process.
+> For more on what else you need besides the tourist tax, check out: [【2026 Indonesia Bali Entry in 1 Minute: From Landing to Customs to Baggage Claim Full Guide】](/en/blog/bali-all-indonesia-arrival-guide/)
 
 {{block:klook}}
 
 ---
 
-👈 **Return to the Ultimate Bali Travel Guide**
+👈 **Back to the Ultimate Bali Travel Guide**
 
-Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/en/blog/bali-ultimate-guide-2026/) and understand everything you need to do before departure.
+Want to see the complete beginner's guide? [Click here to read the '2026 Bali Ultimate Travel Guide'](/en/blog/bali-ultimate-guide-2026/) to get everything sorted before you go.

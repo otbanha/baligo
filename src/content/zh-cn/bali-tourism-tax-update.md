@@ -3,6 +3,7 @@ slug: bali-tourism-tax-update
 title: 巴厘岛最新消息：3/26开始旅游税抽查！
 description: 巴厘岛的旅游税要开始进行抽查了！
 pubDate: '2024-03-25'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f1ceb748c83dc29d327aa9b5f74d6131.jpg'
 tags:
   - 峇里島旅遊稅
@@ -14,10 +15,8 @@ originalUrl: 'https://vocus.cc/article/66012881fd897800017dfabe'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 640b78605a7d3b3b1e6a05e149293189
+_srcHash: db9b7ace50bb12c0d0acd694e9c7a8b5
 ---
-Update: 2026/07/03
-
 **重点整理**：
 
 - 2024 年 3 月 26 日起，巴厘岛旅游警察在**库塔海滩、乌鲁瓦图庙、海神庙**等热门景点抽查旅游税缴纳证明

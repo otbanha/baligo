@@ -3,6 +3,7 @@ title: 怀孕三个月的巴厘岛之旅：轻松Chill的度假攻略
 slug: bali-pregnancy-travel-guide
 description: 这次的巴厘岛5天4夜自由行对我来说是充满期待的初体验！我们去了沙努尔、蓝梦岛、乌布、坎古等地，大家可以参考包车司机提供的最佳行程安排喔！
 pubDate: 2024-11-14T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: null
 category:
   - 遊記分享
@@ -16,10 +17,11 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_d151d1fea806eec12fad19726e274
 originalUrl: 'https://vocus.cc/article/670e6cb5fd89780001b3de2d'
 update: 2026/05/22
 lang: zh-cn
-_srcHash: 24767bf9af407a6fad3ef24e1cc30f96
+_srcHash: c8b240b3b5f610ec85f52da0f309b0f1
 ---
-
 > 以下内容改编自团友 [刘惠慈](https://www.facebook.com/share/p/UxWzce2FRdK2gmsT/) 分享游记：
+
+**重点摘要**：孕期出游的关键是**行前准备做足、行程保持弹性**——找中文包车司机、电子签证、观光税、海关申报单都提前线上办好，出发当天备妥健康证明与常备药品（肠胃药、感冒药）。这趟 5 天 4 夜路线是**沙努尔 → 蓝梦岛 → 乌布 → 坎古**，步调 Chill 不硬跑行程，孕期旅游一样能玩得尽兴。
 
 这次的巴厘岛自由行对我来说是充满期待的初体验！非常感谢在[脸书社团](https://www.facebook.com/groups/indonesia.travelguide)中热心分享的朋友们，让我能顺利找到一位超棒的中文包车司机，在文末的地方我有专门的介绍。
 
@@ -74,7 +76,7 @@ _srcHash: 24767bf9af407a6fad3ef24e1cc30f96
 
 ![第一天行程：](https://images.gobaligo.id/vocus/vocus_44e005ebfa77730c958280ed8a16e897.jpg)
 
-抵达巴厘岛的第一餐，我们选择了位于Sanur的Naughty Nuri's Warung，这里以招牌猪肋排闻名。果然名不虚传，肉质鲜嫩，配上秘制的酱汁，整个味蕾都被唤醒，实在太好吃了！来巴厘岛，这家店绝对是必吃清单之一。
+抵达巴厘岛的第一餐，我们选择了位于沙努尔的Naughty Nuri's Warung，这里以招牌猪肋排闻名。果然名不虚传，肉质鲜嫩，配上秘制的酱汁，整个味蕾都被唤醒，实在太好吃了！来巴厘岛，这家店绝对是必吃清单之一。
 
 > ▶[沙努尔Naughty Nuri's Warung美食体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89220-naughty-nuris-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D781924f20c)
 
@@ -120,8 +122,8 @@ https://youtube.com/shorts/D6ZFGWE74cE
 
 https://youtube.com/shorts/exdiGPLkVjw
 
-**包含午餐，悠闲享受海滩时光，喝Beer Bintang**
-行程中也贴心地安排了午餐，我们在蓝梦岛的海滩餐厅享用了当地风味餐。餐后，我们在沙滩上悠闲地散步、拍照，还开了一瓶冰凉的Bintang啤酒，彻底享受这难得的悠闲时光。
+**包含中餐，悠闲享受海滩时光，喝Beer Bintang**
+行程中也贴心地安排了中餐，我们在蓝梦岛的海滩餐厅享用了当地风味餐。餐后，我们在沙滩上悠闲地散步、拍照，还开了一瓶冰凉的Bintang啤酒，彻底享受这难得的悠闲时光。
 
 ![藍夢島風光](https://images.gobaligo.id/vocus/vocus_03279e6ea3f8dae6eafa0db94094c97a.jpg)
 
@@ -140,7 +142,7 @@ https://youtu.be/laRb_l8BdLM
 **晚餐：意式餐厅 Forketta Bali**
 晚餐选择了Sanur的意大利餐厅——Forketta Bali。这家餐厅以精致的意大利料理闻名，我们点了招牌的手工意大利面和烤披萨，口感和味道都非常正宗，让我们大饱口福。这样美味的意式料理是为这充实的一天划上完美句号的好选择！
 
-![第二天行程（蓝梦岛探险）：](https://images.gobaligo.id/vocus/vocus_142fdb8c22f4c172038e3ade269ef6ef.jpg)
+![第二天行程（藍夢島探險）：](https://images.gobaligo.id/vocus/vocus_142fdb8c22f4c172038e3ade269ef6ef.jpg)
 
 {{block:sanur}}
 
@@ -153,7 +155,7 @@ https://youtu.be/laRb_l8BdLM
 
 **网红咖啡店：荡秋千拍照**
 
-![第三天行程（乌布一日游）：](https://images.gobaligo.id/vocus/vocus_57b0b41ac469b22436f739a53fe74f4f.jpg)
+![第三天行程（烏布一日遊）：](https://images.gobaligo.id/vocus/vocus_57b0b41ac469b22436f739a53fe74f4f.jpg)
 
 泛舟结束后，来到一家非常有名的网红咖啡店，这里的特色是巨大的荡秋千，让我们可以一边荡秋千、一边眺望壮丽的稻田景色。当地人真的非常会拍照，整个氛围让每一张照片都美得像明信片一样，真的是拍照打卡的好地方。
 
@@ -195,37 +197,37 @@ https://youtu.be/JtxZHtijEkE
 **Gigi Susu：网红咖啡面包店**
 接着我们来到网红咖啡店Gigi Susu，这里以特色的面包和咖啡闻名。店内装潢时尚，拍照打卡非常有氛围，咖啡香浓顺滑，搭配当地新鲜烘焙的面包，真是一大享受。
 
-> 延伸阅读：超过50家网友推荐的Canggu美食餐厅，请看「[Canggu攻略地图](https://gobaligo.id/map/canggu/)」
+> 延伸阅读：超过50家网友推荐的坎古美食餐厅，请看「[坎古攻略地图](https://gobaligo.id/map/canggu/)」
 
-![第四天行程（坎古区Chill一日游）：](https://images.gobaligo.id/vocus/vocus_e7a6051d70eb94791ccd07270bdcf2e8.png)
+![第四天行程（長谷區Chill一日遊）：](https://images.gobaligo.id/vocus/vocus_e7a6051d70eb94791ccd07270bdcf2e8.png)
 
 **海神庙探访**
 午后，我们前往巴厘岛的地标之一——海神庙。这座位于海岸边的寺庙宛如漂浮在海上的奇景，无论是壮丽的景色还是神圣的氛围，都让人心生敬畏。这里也是观看夕阳的绝佳地点，来到巴厘岛绝对不能错过。
 
-![第四天行程（坎古区Chill一日游）：](https://images.gobaligo.id/vocus/vocus_c8901a744d0d658d299564b9ec2515af.jpg)
+![第四天行程（長谷區Chill一日遊）：](https://images.gobaligo.id/vocus/vocus_c8901a744d0d658d299564b9ec2515af.jpg)
 
 > [巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](https://gobaligo.id/zh-cn/blog/bali-tanah-lot-guide/)
 
-**The Lawn Canggu Beach Club**
+**The Lawn 坎古海滩俱乐部**
 今天的最后一站是坎古的知名沙滩俱乐部——The Lawn。这里聚集了阳光、沙滩、美食，还有比基尼美女和帅哥。我们在这里享受了一个悠闲的下午，泡在泳池里，喝着冰凉的鸡尾酒，并等待着巴厘岛著名的夕阳缓缓落下。夜幕降临后，海滩上灯火通明，氛围惬意又浪漫，让我们彻底放松，享受度假的每一刻。
 
-![第四天行程（坎古区Chill一日游）：](https://images.gobaligo.id/vocus/vocus_324fe7d0c94f96b7efa72d056ac411f2.jpg)
+![第四天行程（長谷區Chill一日遊）：](https://images.gobaligo.id/vocus/vocus_324fe7d0c94f96b7efa72d056ac411f2.jpg)
 
 {{block:canggu}}
 
 ***
 
-## 第五天行程（准备回家啰！）：
+## 第五天行程（准备回家咯！）：
 
-**Canggu Love Anchor 逛街**
+**坎古 Love Anchor 逛街**
 今天的第一站，我们来到坎古非常受欢迎的Love Anchor市集。这里有各式各样的饰品和纪念品可供选购，无论是手工艺品、服饰还是小饰品，都充满了巴厘岛的风情。记得一定要砍价，这里的商品价格有很大的浮动空间，我们成功将不少商品价格砍下了一半，真的超划算！
 
-![第五天行程（准备回家啰！）：](https://images.gobaligo.id/vocus/vocus_adaedf1ccf645b4c1f61c85aa8b81cb6.jpg)
+![第五天行程（準備回家囉！）：](https://images.gobaligo.id/vocus/vocus_adaedf1ccf645b4c1f61c85aa8b81cb6.jpg)
 
 **回Villa享受最后的度假时光**
 购物结束后，我们回到Villa，享受最后几个小时的悠闲时光。Villa的氛围宁静舒适，泡在泳池里晒着暖阳，让我们彻底放松，为这趟美好的巴厘岛之旅画下完美句点。
 
-![第五天行程（准备回家啰！）：](https://images.gobaligo.id/vocus/vocus_1d42efde3fdde2dbb838bb53c0a00f79.jpg)
+![第五天行程（準備回家囉！）：](https://images.gobaligo.id/vocus/vocus_1d42efde3fdde2dbb838bb53c0a00f79.jpg)
 
 **前往机场，准备搭16:30的飞机**
 离开Villa后，我们提前三小时到达机场，这是出行的好习惯，特别是在国际机场，提前到达可以避免因各种手续或突发情况而感到匆忙。准备好了所有证件，安心等待登机。
@@ -253,7 +255,7 @@ https://youtu.be/JtxZHtijEkE
 
 至于我提到的超棒中文包车司机，就是「Wayan Suantara」，也就是大家熟悉的「康哥」。加了他的Line之后，我立刻表明了自己想安排的行程，康哥不但迅速给出安排，还提供了不少专业建议，让整趟行程更加完美。真心大推他！❤️ 完全值得信赖👍
 
-![司机推荐](https://images.gobaligo.id/vocus/vocus_0942104964f65a1688cea7612940f267.jpg)
+![司機推薦](https://images.gobaligo.id/vocus/vocus_0942104964f65a1688cea7612940f267.jpg)
 
 这趟巴厘岛之旅充满了惊喜与回忆，从美景到美食，从冒险到放松，无论是体验巴厘岛的自然风光，还是享受它的悠闲氛围，这里都是度假的天堂。期待下次再来！
 

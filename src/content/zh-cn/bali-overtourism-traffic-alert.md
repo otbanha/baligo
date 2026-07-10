@@ -3,6 +3,7 @@ slug: bali-overtourism-traffic-alert
 title: 巴厘岛过度旅游？九月开始的交通警示
 description: 巴厘岛因过度旅游问题持续受到关注，特别是在南巴厘岛地区，由于游客过多而过度拥挤
 pubDate: '2024-08-17'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_67f7fa0257e90b1dd3b6ec872890a374.png'
 tags:
   - 峇里島旅遊
@@ -14,14 +15,12 @@ originalUrl: 'https://vocus.cc/article/66c0857afd897800014dceb0'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 4a04236b246e06fdce2dcfb7e29eb6e7
+_srcHash: e0ca6dd09fdbdbe196a4d602942da456
 ---
-Update: 2026/07/03
-
 **重点整理**：
 
 - 南巴厘岛（库塔、水明漾、坎古、金巴兰、乌鲁瓦图、努沙杜瓦、沙努尔）已被列为过度旅游热区，旺季堵车严重
-- 2024 年 9 月起巴厘岛机场轻轨动工，**库塔、水明漾一带交通拥堵将加剧**
+- 2024 年 9 月起巴厘岛机场捷运动工，**库塔、水明漾一带交通拥堵将加剧**
 - 官方计划把游客分流到北部、西部、东部地区
 - 实用建议：避开圣诞新年等高峰、往返机场预留至少 1 倍以上车程时间、参考[五个旅游旺季避峰攻略](/zh-cn/blog/bali-peak-season-travel-tips/)
 
@@ -39,4 +38,4 @@ Update: 2026/07/03
 
 巴厘岛南部包含西岸的坎古、水明漾、库塔、金巴兰、乌鲁瓦图；和东岸的努沙杜瓦、沙努尔。
 
-此外，巴厘岛机场轻轨工程将于今年9月开始动工（请参考[【巴厘岛交通改善计划之一】巴厘岛轻轨即将于九月开始动工](/zh-cn/blog/bali-lrt-construction-update/)），当局已发出预警，库塔、水明漾一带将可能出现严重交通堵塞。
+此外，巴厘岛机场捷运工程将于今年9月开始动工（请参考[【巴厘岛交通改善计划之一】巴厘岛轻轨即将于九月开始动工](/zh-cn/blog/bali-lrt-construction-update/)），当局已发出预警，库塔、水明漾一带将可能出现严重交通堵塞。

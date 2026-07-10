@@ -5,18 +5,20 @@ description: >-
   OMMA Dayclub 是位于巴厘岛乌布的一个瀑布酒吧，也是一个日间俱乐部。它的特色是能近距离欣赏「特哥努恩安瀑布（Tegenungan
   waterfall）」的壮丽景色
 pubDate: 2023-11-27T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 美食景點活動
 tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fdd8586ccd57a9e42f423ed3045d56c2.jpg'
 originalUrl: 'https://vocus.cc/article/65647143fd897800014b96f1'
 lang: zh-cn
-_srcHash: af6a9a5ab55681b3de2610a6e4ad70bd
+_srcHash: 1f9edb6cb9b16833e7d2a69efd108533
 ---
-
-![巴厘岛乌布的瀑布酒吧 OMMA Dayclub：感受chill氛围，阳光下的惬意时光](https://images.gobaligo.id/vocus/vocus_c17bf195fd6ecbe15f62352549f17db8.jpg)
+![峇里島烏布的瀑布酒吧 OMMA Dayclub：感受chill氛圍，陽光下的愜意時光](https://images.gobaligo.id/vocus/vocus_c17bf195fd6ecbe15f62352549f17db8.jpg)
 
 ➡️[更多巴厘岛超值优惠请点我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
+
+**先讲结论**：OMMA Dayclub 是全球罕见的**瀑布酒吧**——位于乌布市中心约 10 公里处的特哥努恩安瀑布（Tegenungan waterfall）旁，2021 年 12 月开业，建议自驾或包车前往。适合想边看瀑布边享用美食、参加泳池派对的旅人，消费依座位区有不同低消标准，建议先通过 Klook 购买优惠票。
 
 OMMA Dayclub 是位于乌布的日间俱乐部。它的特色是能近距离欣赏「特哥努恩安瀑布（Tegenungan waterfall）」的壮丽景色，更是在世界上非常罕见的瀑布酒吧。
 
@@ -34,7 +36,7 @@ Omma Dayclub 巴厘岛的餐饮Omma Dayclub 巴厘岛的餐厅提供多种餐饮
 
 ## Omma Dayclub消费
 
-OMMA Dayclub 巴厘岛的消费方式因不同的座位区有不同的最低消费标准。
+OMMA Dayclub 巴厘岛的消费方式OMMA Dayclub 巴厘岛的消费方式因不同的座位区有不同的低消标准。
 
 > [Omma Day Club优惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1209001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F100356-omma-dayclub-day-pass-ubud-sukawati-gianyar-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D022b469388)
 

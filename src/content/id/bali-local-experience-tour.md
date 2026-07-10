@@ -1,14 +1,15 @@
 ---
 title: >-
-  Coba itinerary non-turis di Bali: Eksplorasi pengalaman lokal paling autentik
+  Coba itinerary non-turis di Bali: Eksplorasi pengalaman traveling paling lokal
   di Bali
 slug: bali-local-experience-tour
 description: >-
-  Kebanyakan traveler yang pernah ke Bali dan jatuh cinta pasti pengen ngerasain
-  kehidupan lokal yang lebih dalam, atau jalan-jalan yang bukan turis banget,
-  tapi bingung mulai dari mana? Ini dia tempat terbaik buat ngerasain ritme
-  kehidupan lokal dalam sehari
+  Kebanyakan traveler yang udah pernah ke Bali dan jatuh cinta sama pulau ini
+  pasti pengin ngerasain kehidupan lokal yang lebih dalam, atau jalan-jalan yang
+  bukan turis banget. Tapi bingung mulai dari mana? Ini dia tempat terbaik buat
+  ngerasain ritme kehidupan lokal cuma dalam sehari.
 pubDate: 2024-06-06T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: null
 category:
   - 遊記分享
@@ -21,77 +22,78 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_583eef972b6e05fc177f7b2fec2b6c51.jpg'
 originalUrl: 'https://vocus.cc/article/666141f9fd89780001c8324c'
 lang: id
-_srcHash: ccbf13a797c6b9ebeac2af590a27a28e
+_srcHash: d2a26d1a9b24acde826bc0cb25f1299e
 ---
+**Kesimpulan dulu**: Kalau mau coba itinerary non-turis, saran sih luangin sehari buat ke ibu kota Bali, **Denpasar** — rekomendasi utama **Pasar Seni Kumbasari** (pasar grosir yang mostly buat warga lokal, harga jauh lebih miring dibanding pasar turis). Cocok banget buat kamu yang mau borong kerajinan tangan atau sekadar ngerasain keseharian lokal.
 
-Kebanyakan traveler yang pernah ke Bali dan jatuh cinta pasti pengen ngerasain kehidupan lokal yang lebih dalam, atau jalan-jalan yang bukan turis banget, tapi bingung mulai dari mana? Tempat terbaik buat ngerasain ritme kehidupan lokal dalam sehari adalah Denpasar, ibu kota Bali yang ada di pedalaman. Artikel ini bakal ngajak kamu eksplorasi kehidupan lokal Bali, mulai dari belanja di pasar tradisional, taman tepi sungai yang cantik, sampai pasar malam yang rame. Yuk, kita masuk ke tanah yang penuh pesona ini dan rasain vibe Bali yang paling asli!
+Kebanyakan traveler yang udah pernah ke Bali dan jatuh cinta sama pulau ini pasti pengin ngerasain kehidupan lokal yang lebih dalam, atau jalan-jalan yang bukan turis banget. Tapi bingung mulai dari mana? Tempat paling oke buat ngerasain ritme kehidupan lokal dalam sehari adalah ibu kota Bali yang ada di pedalaman, Denpasar. Artikel ini bakal ngajak kamu menyelami kehidupan lokal Bali, dari pengalaman belanja di pasar tradisional, taman tepi sungai yang cantik, sampai pasar malam yang rame. Yuk, kita masuk ke tanah yang penuh pesona ini dan rasain vibe Bali yang paling autentik!
 
 ## Pasar Grosir Seni: Kumbasari Art Market
 
-Pertama, kita mampir ke Kumbasari Art Market (cari di Google Maps: Pasar Seni Kumbasari) di Denpasar, ibu kota Bali. Ini adalah pasar grosir kerajinan tangan terbesar di Bali, lengkap dengan berbagai macam kerajinan. Bedanya sama pasar turis biasa, pasar ini lebih sering dikunjungi warga lokal, jadi harganya jauh lebih miring. Kalau kamu mau beli kerajinan tangan dalam jumlah banyak, ini tempat paling worth it.
+Pertama, kita mampir ke 'Kumbasari Art Market' (cari di Google Maps: Pasar Seni Kumbasari) di Denpasar, ibu kota Bali. Ini adalah pasar grosir kerajinan tangan terbesar di Bali, lengkap dengan berbagai macam kerajinan. Bedanya sama pasar turis biasa, di sini mostly melayani warga lokal, jadi harganya jauh lebih bersahabat. Kalau kamu mau borong kerajinan tangan, ini tempat paling worth it.
 
 https://youtu.be/RRurkFC7UG4
 
 {{block:一日團}}
 
-Pasar ini nggak cuma punya kerajinan tangan yang beraneka ragam, tapi juga banyak toko yang sering didatangi warga lokal, jadi kamu bisa ngerasain suasana belanja Bali yang paling autentik. Waktu jalan-jalan, jangan lupa bawa uang tunai yang cukup, soalnya banyak pedagang yang nggak terima kartu kredit.
+Pasar ini nggak cuma penuh dengan kerajinan tangan yang beraneka ragam, tapi juga banyak toko yang sering dikunjungi warga lokal, jadi kamu bisa ngerasain atmosfer belanja paling autentik di Bali. Waktu jalan-jalan di pasar, jangan lupa bawa uang tunai yang cukup, soalnya banyak pedagang yang nggak terima kartu kredit.
 
-Baca juga: [Panduan Budget Tunai untuk Liburan ke Bali](/id/blog/bali-travel-cash-budget-guide/)
+Baca juga: [Berapa banyak uang tunai yang perlu disiapkan untuk liburan ke Bali?](/id/blog/bali-travel-cash-budget-guide/)
 
 ## Pasar Badung
 
-(Dari teman Fran Cisco. [Link asli di sini](https://www.facebook.com/share/p/d9Bh4epnNiYGMsy8/)) Buat kamu yang suka nyobain buah lokal, Pasar Badung wajib banget dikunjungi. Di sini penuh dengan pedagang yang jual buah segar dan makanan lokal lainnya. Meskipun di dalam pasar mungkin agak padat dan berantakan, di area outdoor kamu bisa dengan mudah nemuin berbagai buah yang enak.
+(Dari teman grup Fran Cisco. [Sumber asli di sini](https://www.facebook.com/share/p/d9Bh4epnNiYGMsy8/)) Buat kamu yang suka nyicipin buah lokal, Pasar Badung wajib banget masuk list. Di sini penuh dengan berbagai lapak yang jual buah segar dan makanan lokal lainnya. Walaupun di dalam pasar mungkin agak padat dan berantakan, di area outdoor kamu bisa dengan mudah nemuin berbagai buah yang enak-enak.
 
 ![Fran Cisco提供:（價格可能隨季節而有不同） 山竹 IDR 10000 /1公斤 白榴蓮 IDR 15000/20000/30000顆 （圖片是20000的，果肉爆炸多！）](https://images.gobaligo.id/vocus/vocus_99114756823a709b41f05ead1f12f4ba.jpg)
 
-Fran Cisco kasih info: (harga bisa berubah tergantung musim) Manggis IDR 10.000 /1 kg, Durian Putih IDR 15.000/20.000/30.000 per biji (yang di foto harganya 20.000, isinya super banyak banget!)
+Fran Cisco kasih info: (harga bisa beda tergantung musim) Manggis IDR 10.000/kg, Duren putih IDR 15.000/20.000/30.000 per biji (yang di foto harganya 20.000, isinya melimpah banget!)
 
-Teman-teman Fran Cisco di sini berhasil beli manggis manis dan durian putih yang lumer, plus salak, duku, dan lainnya — harganya ramah banget di kantong.
+Teman grup Fran Cisco di sini beli manggis manis dan duren putih yang lumer, plus salak, duku, dan lainnya — harga super worth it.
 
-Selain itu, Fran Cisco khusus rekomendasiin abang penjual durian ganteng di jalan kecil sebelah kiri pasar. Abangnya dengan ramah bakal bantu pilihkan buah terbaik buat kamu, bikin kamu ngerasain keramahan dan kehangatan yang tulus. Dia nggak bakal naikin harga cuma karena kamu turis asing, sikapnya ramah, dan kualitas buahnya oke punya. Sampai dua minggu setelah Fran Cisco pulang ke Taiwan, mereka masih kangen banget sama momen seru makan durian bareng abang ini!
+Selain itu, Fran Cisco khusus rekomendasiin abang penjual duren ganteng di jalan kecil sebelah kiri pasar. Abangnya dengan semangat bakal bantu pilihkan buah terbaik, bikin kamu ngerasain keramahan dan hospitality yang tulus. Dia nggak bakal naikin harga cuma karena kamu turis asing, sikapnya ramah, kualitas buahnya juga oke. Pas Fran Cisco dan teman-teman udah pulang ke Taiwan dua minggu, mereka masih kangen banget sama momen duren bareng abang ini!
 
-Yang perlu diingat, di Pasar Kumbasari dan Pasar Badung banyak ibu-ibu calo yang suka nempel kalau lihat kamu bukan orang lokal. Mereka bakal ajak kamu jalan-jalan, lalu jual barang dengan harga lebih mahal dan ambil komisi dari situ. Biar nggak diikuti terus, sebaiknya bawa sopir mobil sewaan kamu — mereka bisa bantu jagain dan nawar harga.
+Yang perlu diingat, Pasar Kumbasari dan Pasar Badung ini banyak bibi calo yang suka nempel. Begitu liat kamu bukan orang lokal, mereka bakal nimbrung dan ngajak jalan, biar kamu beli barang dengan harga lebih mahal, lalu mereka ambil komisi. Biar nggak diikutin terus, sebaiknya bawa sopir mobil sewaan kamu — mereka bisa bantu jagain dan nawar.
 
-## Taman Tukad Korea
+## Taman Sungai Korea: Taman Tukad Korea
 
-Nah, sungai yang memisahkan Pasar Kumbasari dan Pasar Badung ini sekarang jadi taman tepi sungai bernama "Taman Tukad Korea". Taman ini dijuluki "Taman Sungai Korea" sama warga lokal karena desainnya mirip dengan Cheonggyecheon di Seoul. Dulu tempat ini selokan bau, tapi setelah direnovasi pemerintah, sekarang jadi taman tepi sungai yang cantik.
+Nah, sungai yang misahin Pasar Kumbasari dan Pasar Badung ini sekarang jadi taman tepi sungai bernama "Taman Tukad Korea". Taman ini dijuluki "Taman Sungai Korea" sama warga lokal karena desainnya mirip sama Cheonggyecheon di Seoul. Dulu tempat ini selokan bau, tapi setelah direnovasi pemerintah, sekarang jadi taman tepi sungai yang cantik.
 
 https://youtu.be/gEcE2e4TFaM
 
-Siang hari Taman Tukad Korea pemandangannya asri, dua sisi sungai rindang dengan pepohonan, dihiasi ukiran batu yang indah. Begitu malam tiba, lampu warna-warni menerangi seluruh taman, bikin suasana romantis. Di taman ini juga ada jembatan apung dan air mancur yang bikin pemandangan makin memukau.
+Siang hari Taman Tukad Korea pemandangannya asri, dua sisi sungai rindang pepohonan, dihiasi ornamen batu yang indah. Begitu malam tiba, lampu warna-warni menerangi seluruh taman, bikin suasananya romantis. Di dalam taman juga ada jembatan apung dan air mancur, makin bikin pemandangan memukau.
 
-Selain pemandangan keren, ada juga Wi-Fi gratis buat pengunjung, jadi kamu bisa langsung share foto-foto cantik. Setelah puas jalan-jalan di taman, kamu bisa lanjut ke pasar malam di sampingnya, cobain aneka jajanan enak, dan nikmati kehidupan malam Bali.
+Selain pemandangan kece, di sini juga ada Wi-Fi gratis buat pengunjung, jadi kamu bisa langsung share foto-foto cantik. Setelah puas jalan-jalan di taman, bisa lanjut ke pasar malam di sampingnya buat nyobain aneka jajanan enak dan nikmatin kehidupan malam Bali.
 
-## Pasar Malam Terbesar di Bali: Pasar Kreneng
+## Pasar Kreneng: Pasar Malam Terbesar di Bali
 
-Terakhir, kita sampai di Pasar Kreneng, yang jaraknya sekitar beberapa menit naik mobil dari Taman Pinggir Sungai. Ini adalah pasar malam terbesar di Bali. Lapak-lapak di sini berjejer penuh, jualan berbagai macam makanan dan barang kebutuhan sehari-hari. Suasana pasarnya ramai banget, kamu bisa cobain aneka jajanan khas lokal dan puas-puasin nikmatin makanan. Buat yang penasaran dengan eksplorasi kuliner dan cerita seru di pasar malam, cek aja video si Kecil:
+Terakhir, kita sampai di Pasar Kreneng yang jaraknya cuma beberapa menit naik mobil dari Taman Tukad Korea. Ini dia pasar malam terbesar di Bali! Lapak-lapaknya berjejer penuh, jualan aneka makanan dan barang sehari-hari. Suasananya rame banget, kamu bisa cobain berbagai jajanan lokal khas Bali di sini — puas banget deh pokoknya. Buat yang penasaran eksplorasi kuliner dan serunya jalan-jalan di pasar malam ini, langsung cek video dari Xiao Jie ya:
 
 https://youtu.be/FphhiUzB7gM
 
-Kamu bisa atur satu hari buat jalan-jalan seru kayak gini di Bali, dijamin bakal makin ngerasain pesona tanah ini. Mulai dari kerajinan tangan di Pasar Seni Kumbasari, buah lokal di Pasar Badung, pemandangan cantik di Taman Tukad Korea, sampai jajanan malam di Pasar Kreneng — semuanya penuh kejutan.
+Kamu bisa atur satu hari penuh buat nyobain pengalaman wisata lokal di Bali kayak gini, dijamin bakal lebih ngerasain pesona pulau ini. Mulai dari kerajinan tangan di Pasar Seni Kumbasari, buah lokal segar di Pasar Badung, pemandangan cantik di Taman Tukad Korea, sampai jajanan malam di Pasar Kreneng — semuanya penuh kejutan seru.
 
-## Klook Denpasar World Heritage Day Trip
+## Klook: Tur Warisan Dunia Denpasar Sehari Penuh
 
-![Klook Denpasar World Heritage Day Trip](https://images.gobaligo.id/vocus/vocus_630b7e2478042e5eb703cc858917c81b.png)
+![Klook登巴薩世界遺產一日遊](https://images.gobaligo.id/vocus/vocus_630b7e2478042e5eb703cc858917c81b.png)
 
-Kamu juga bisa ikut tur sehari penuh dari Klook ke Denpasar. Tur ini bikin kamu bisa ngerasain langsung budaya dan warisan Indonesia yang kaya. Termasuk jemputan dari hotel, kunjungan ke Pura Taman Ayun (salah satu Situs Warisan Dunia UNESCO), Museum Bali, dan tempat bersejarah lainnya. Kamu juga bakal mampir ke Pasar Badung dan Pasar Kumbasari yang legendaris, lihat-lihat produk lokal yang unik, dan seru-seruan belanja ala lokal.
+Kamu juga bisa ikut tur sehari penuh dari Klook yang fokus ke Denpasar. Tur ini bikin kamu bisa ngerasain langsung kekayaan budaya dan warisan Indonesia. Termasuk jemputan dari hotel, kunjungan ke Pura Taman Ayun yang merupakan Situs Warisan Dunia UNESCO, Museum Bali, dan tempat bersejarah lainnya. Kamu juga bakal diajak ke pasar tradisional terbesar di Denpasar, Pasar Badung dan Pasar Kumbasari, buat lihat-lihat produk lokal yang unik dan seru-seruan belanja ala lokal.
 
-Di tengah perjalanan, kamu bakal nyobain makanan khas yang terkenal, kayak Babi Guling atau Ayam Betutu. Terakhir, tur ini bakal bawa kamu ke Jimbaran buat nikmatin matahari terbenam sambil makan malam seafood di pinggir pantai. Dijamin perjalanan ini bikin kamu dapet pengalaman budaya dan kuliner Bali yang lengkap.
+Di tengah perjalanan, kamu bakal nyobain makanan legendaris kayak Babi Guling atau Ayam Betutu khas Bali. Terakhir, tur ini bakal bawa kamu ke Jimbaran buat lihat sunset sambil makan malam seafood di pinggir pantai. Dijamin, perjalanan ini bakal bikin kamu merasakan budaya dan kuliner Bali secara total.
 
-▶[Pesan Klook Denpasar Day Trip](https://affiliate.klook.com/redirect?aid=116349&aff_adid=866750&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26729-bali-food-denpasar-city-heritage-private-trip%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D66e264fb62)
+▶[Pesan Tur Sehari Klook Denpasar](https://affiliate.klook.com/redirect?aid=116349&aff_adid=866750&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26729-bali-food-denpasar-city-heritage-private-trip%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D66e264fb62)
 
-▶[Pesan KKday Denpasar Day Trip](https://www.kkday.com/zh-tw/product/162642?qs=denpasar&cid=25072)
+▶[Pesan Tur Sehari KKday Denpasar](https://www.kkday.com/zh-tw/product/162642?qs=denpasar&cid=25072)
 
 ![詳細地圖指引，請點我](https://images.gobaligo.id/vocus/vocus_a852039757cecba9641ddebfeca49539.png)
 
-[Klik di sini untuk peta lengkap](/map/denpasar/)
+[Petunjuk peta lengkap, klik di sini](/map/denpasar/)
 
-Semoga artikel ini bisa kasih inspirasi buat liburanmu ke Bali, biar kamu juga bisa ngerasain suasana Bali yang paling lokal.
+Semoga artikel ini bisa kasih inspirasi buat liburanmu ke Bali, dan bikin kamu juga bisa merasakan suasana lokal Bali yang autentik.
 
 ![點擊這裡觀看更多峇里島精彩遊記](https://images.gobaligo.id/vocus/vocus_3ecdfc74b117e6c23fbdc9b409ffd580.jpg)
 
-Klik di sini untuk lihat lebih banyak cerita seru dari Bali
+Klik di sini buat lihat lebih banyak cerita seru dari Bali
 
-Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara nulis cerita perjalanan Bali yang kece](/id/blog/how-to-write-bali-travelogue/)」, biar ceritamu makin keren!
+Mau nulis cerita perjalanan tapi bingung mulai dari mana? Cek dulu panduan 「[Cara Nulis Cerita Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, biar cerita kamu makin kece!
 
 {{block:戶外}}

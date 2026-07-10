@@ -2,9 +2,10 @@
 slug: the-earth-sentinels-nuanu
 title: "【坎古/Nuanu新景點】\U0001F33F 峇里島最震撼嘅藝術地標：The Earth Sentinels 地球衛兵"
 description: >-
-  喺峇里島塔巴南（Tabanan）嘅 Nuanu Creative City 入口處，屹立住兩座令人屏息嘅巨型雕塑——《The Earth
-  Sentinels》（地球衛兵）。呢個係南非藝術家 Daniel Popper 嘅代表作之一，融合咗自然、神話同科技，成為峇里島最具象徵性嘅藝術地標之一。
+  喺峇里島塔巴南（Tabanan）嘅 Nuanu Creative City 入口，有兩座令人屏息嘅巨型雕塑——《The Earth
+  Sentinels》（地球衛兵）。呢個係南非藝術家 Daniel Popper 嘅代表作之一，融合自然、神話同科技，成為峇里島最具象徵性嘅藝術地標之一。
 pubDate: '2025-06-07'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a5b3383975553357c40b61709bc50bc7.jpg'
 tags:
   - EarthSentinels
@@ -16,52 +17,53 @@ originalUrl: 'https://vocus.cc/article/68440df9fd89780001afd27b'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: 4e8c07afaf2ffd39b471783868db8261
+_srcHash: f757e8fd2737f7f56c9faf823f1b6dc9
 ---
+![【長谷/Nuanu新景點】 峇里島最震撼的藝術地標：The Earth Sentinels 地球衛兵](https://images.gobaligo.id/vocus/vocus_f99e6c8463ebffb2d3f909bbd209ef22.jpg)
 
-![【坎古/Nuanu新景點】 峇里島最震撼嘅藝術地標：The Earth Sentinels 地球衛兵](https://images.gobaligo.id/vocus/vocus_f99e6c8463ebffb2d3f909bbd209ef22.jpg)
+**先講結論**：The Earth Sentinels（地球衛兵）位於 Nuanu Creative City 入口，係南非藝術家 Daniel Popper 打造嘅兩座 **高 14 米**巨型雕塑，日頭可以欣賞人形同自然交織嘅設計、夜晚有投影光雕表演。**園區唔畀外車入**，要泊喺外圍 Parking 1 停車場再搭接駁車入園。
 
-喺峇里島塔巴南（Tabanan）嘅 Nuanu Creative City 入口處，屹立住兩座令人屏息嘅巨型雕塑——**《The Earth Sentinels》**（地球衛兵）。呢個係南非藝術家 Daniel Popper 嘅代表作之一，融合咗自然、神話同科技光雕，成為峇里島最具象徵性嘅藝術地標之一。
+喺峇里島塔巴南（Tabanan）嘅 Nuanu Creative City 入口，有兩座令人屏息嘅巨型雕塑——**《The Earth Sentinels》**（地球衛兵）。呢個係南非藝術家 Daniel Popper 嘅代表作之一，融合自然、神話同科技光雕，成為峇里島最具象徵性嘅藝術地標之一。
 
----
+### **結語**
 
-## 🗿 藝術與自然嘅融合：雕塑設計與象徵意涵
+## 🗿 藝術與自然嘅融合：雕塑設計同象徵意義
 
-呢兩座高達 14 公尺（約 45 英尺）嘅雕塑，採用咗鋼骨結構、玻璃纖維強化混凝土同植物元素製成，呈現出人形同自然交織嘅形象。雕塑嘅肩膀同頸部生長出樹木同藤蔓，象徵人類同自然嘅共生關係，提醒我哋守護地球嘅責任。
+呢兩座高達 14 米（約 45 英尺）嘅雕塑，用鋼骨結構、玻璃纖維強化混凝土同植物元素整成，呈現出人形同自然交織嘅形象。雕塑嘅膊頭同頸部生咗樹木同藤蔓，象徵人類同自然嘅共生關係，提醒我哋要守護地球嘅責任。
 
----
+### **結語**
 
 ## 🌌 夜間光雕：投影映射帶嚟嘅沉浸式體驗
 
-夜幕降臨時，《The Earth Sentinels》透過 DELIVERED Creative Studio 嘅投影光雕技術，展現出生命嘅循環同轉化。呢場視覺表演結合咗電腦圖形同人工智慧技術，令雕塑喺夜晚呈現出夢幻般嘅光影變化，帶嚟沉浸式嘅藝術體驗。
+夜晚降臨時，《The Earth Sentinels》透過 DELIVERED Creative Studio 嘅投影光雕技術，展現出生命嘅循環同轉化。呢場視覺表演結合咗電腦圖形同人工智能技術，令雕塑喺夜晚呈現出夢幻般嘅光影變化，帶嚟沉浸式嘅藝術體驗。
 
----
+### **結語**
 
-## 📍 地點與交通資訊**（📍**[**地圖位置**](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing)**）**
+## 📍 地點同交通資訊**（📍**[**地圖位置**](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing)**）**
 
 - **地點**：Nuanu Creative City，峇里島塔巴南（Tabanan）地區
-- **交通建議**：園區禁止外車進入，請將車輛停放於外圍嘅 Parking 1 停車場，並搭乘接駁車進入園區。
+- **交通建議**：園區唔畀外車入，請將車泊喺外圍嘅 Parking 1 停車場，再搭接駁車入園。
 
----
+### **結語**
 
-## ✍️ 部落客觀點：必訪嘅藝術地標
+## ✍️ 部落客觀點：必去嘅藝術地標
 
-作為一位熱愛峇里島文化嘅旅遊部落客，《The Earth Sentinels》唔單止係一件藝術作品，更加係一座同大自然對話嘅橋樑。企喺呢兩座巨型雕塑前面，感受到嘅唔單止係視覺上嘅震撼，更加係對大自然同生命嘅敬畏。無論係日頭嘅壯麗景象，定係夜晚嘅光影變化，《The Earth Sentinels》都值得你親自嚟感受。
+作為一個鍾意峇里島文化嘅旅遊部落客，《The Earth Sentinels》唔單止係一件藝術作品，仲係一座同自然對話嘅橋樑。企喺呢兩座巨型雕塑前面，感受到嘅唔止係視覺上嘅震撼，更加係對自然同生命嘅敬畏。無論係日頭嘅壯麗景象，定係夜晚嘅光影變化，《The Earth Sentinels》都值得你親自嚟感受。
 
-![部落客觀點：必訪嘅藝術地標](https://images.gobaligo.id/vocus/vocus_936139a7a7beb6eea4320eb4498aa1d2.jpg)
+![部落客觀點：必訪的藝術地標](https://images.gobaligo.id/vocus/vocus_936139a7a7beb6eea4320eb4498aa1d2.jpg)
 
----
+### **結語**
 
-📸 **小貼士**：建議傍晚時分過嚟，既可以欣賞日落美景，又可以體驗夜晚嘅投影光雕表演。
+📸 **小貼士**：建議黃昏時分去，既可以睇日落美景，又可以體驗夜晚嘅投影光雕表演。
 
----
+### **結語**
 
-喺峇里島嘅旅程入面，除咗陽光同海灘，不妨安排一趟去 Nuanu Creative City，親身感受《The Earth Sentinels》帶嚟嘅藝術同大自然交融嘅震撼體驗。
+喺峇里島嘅旅程入面，除咗陽光同沙灘，不妨安排一趟去 Nuanu Creative City，親身感受《The Earth Sentinels》帶嚟嘅藝術同自然交融嘅震撼體驗。
 
 ## 更多Nuanu Creative City景點
 
 ![更多Nuanu Creative City景點](https://images.gobaligo.id/vocus/vocus_d1b9756c666257aa52804cadea6bbadb.jpg)
 
-Nuanu Creative City係峇里島最新崛起嘅創意園區，仲推動零碳排，成為峇里島最新嘅永續旅遊地標。依家已經開始吸引全球嘅創意人士，成為下一個必訪嘅熱點！
+Nuanu Creative City係峇里島最新崛起嘅創意園區，推動零碳排，成為峇里島最新永續旅遊地標。而家已經開始吸引全球創意人士，成為下一個必訪熱點！
 
 Nuanu Creative City嘅景點攻略請睇[呢度](/zh-hk/blog/nuanu-creative-city-luna-guide/)

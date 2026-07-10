@@ -2,47 +2,49 @@
 slug: oneeighty-dayclub-uluwatu-pool
 title: >-
   Jelajahi Oneeighty Day Club: Kolam Renang di Tepi Tebing Bali dengan
-  Pemandangan Super Indah
+  Pemandangan Super Spektakuler
 description: 'Cara Bayar, Makanan, dan Cara Reservasi Oneeighty'
 pubDate: 2023-12-07T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 美食景點活動
 tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_796a7726285dc90f4c9e926629c7be3b.jpg'
 originalUrl: 'https://vocus.cc/article/6571846ffd89780001fe97ee'
 lang: id
-_srcHash: 36050ec31f23e10173b8646daf7c2214
+_srcHash: 6f9add44765b54bf8ad9d8d3cf5d3db0
 ---
+![探索Oneeighty Day Club：峇里島懸崖邊的游泳池極致美景](https://images.gobaligo.id/vocus/vocus_8d9d260a2afbba6685fa2a3973cdfc81.jpg)
 
-![Jelajahi Oneeighty Day Club: Kolam Renang di Tepi Tebing Bal](https://images.gobaligo.id/vocus/vocus_8d9d260a2afbba6685fa2a3973cdfc81.jpg)
+**Kesimpulan Awal**: Oneeighty Dayclub ada di dalam The Edge Bali Resort, Uluwatu. Ada kolam renang di atas tebing setinggi **162 meter**, dengan pemandangan Samudra Hindia 180 derajat yang kece abis. Tiket VIP (maksimal 3 orang pakai satu daybed) sekitar **Rp 3.127.628 (sekitar USD$100)**, dan Rp 1.000.000-nya bisa dipakai buat bayar makanan dan minuman. **Anak di bawah 12 tahun nggak boleh masuk**. Cocok banget buat kamu yang mau foto estetik di tebing dan cobain sensasi berenang di ketinggian.
 
-Gimana rasanya berdiri di atas tebing setinggi 162 meter?
+Gimana rasanya punya tebing setinggi 162 meter di bawah kaki?
 
-▼▼▼ Tonton video di bawah ini ▼▼▼
+▼▼▼ Cek video di bawah ini ▼▼▼
 
-Oneeighty adalah day club yang ada di dalam The Edge Bali, bagian selatan Bali. Klub kolam renang ini berada di ketinggian 162 meter di atas Samudra Hindia. Punya kolam renang unik di puncak tebing dengan dinding kaca, bikin kamu bisa menikmati pemandangan Samudra Hindia 180 derajat dari tepi tebing.
+Oneeighty adalah day club yang ada di The Edge Bali, bagian selatan Bali. Ini klub renang siang hari yang berada di ketinggian 162 meter di atas Samudra Hindia. Punya kolam renang unik di puncak tebing dengan dinding kaca, bikin kamu bisa menikmati pemandangan Samudra Hindia 180 derajat dari pinggir tebing.
 
-Resor The Edge Bali udah dapet banyak penghargaan, mulai dari Haute Grandeur Global Hotel Awards 2016, Conde Nast Johansens Awards 2016 dan 2017, The Yak Awards 2017 untuk kategori Villa Terbaik, sampai Tripadvisor Travellers' Choice 2018. Masih ragu buat mampir ke tempat favorit para traveler ini?
+The Edge Bali Resort udah dapet banyak penghargaan, dari Haute Grandeur Global Hotel Awards 2016, Conde Nast Johansens Awards 2016 dan 2017, The Yak Awards 2017 buat kategori Villa Terbaik, sampai Tripadvisor Travelers' Choice 2018. Masih ragu buat mampir ke tempat favorit para traveler ini?
 
-![Jelajahi Oneeighty Day Club: Kolam Renang di Tepi Tebing Bal](https://images.gobaligo.id/vocus/vocus_3652046e3d81cfaf3d93f68912d283d6.jpg)
+![探索Oneeighty Day Club：峇里島懸崖邊的游泳池極致美景](https://images.gobaligo.id/vocus/vocus_3652046e3d81cfaf3d93f68912d283d6.jpg)
 
-➡️[Klik di sini untuk lebih banyak promo Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
+➡️[Klik buat lihat promo Bali lainnya](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
 ## Oneeighty Dayclub
 
-Tamu yang datang ke Oneeighty bisa bersantai di area VIP tepi tebing, atau rebahan di sunbed area lounge. Kamu juga bisa duduk santai di dalam ruangan sambil menikmati udara sejuk alami.
+Pengunjung Oneeighty bisa santai di area VIP di tepi tebing, atau rebahan di kursi berjemur di area lounge. Kamu juga bisa duduk santai di dalam ruangan sambil menikmati sepoi-sepoi angin alami.
 
-Selain kolam renang yang unik banget, kamu juga bisa foto-foto di sungai buatan/lagoon di bawah jembatan kaca Oneeighty. Meskipun buatan, pemandangannya nggak kalah cantik sama danau alami. Banyak foto kece ala influencer Bali diambil di sini!
+Selain kolam renang yang unik banget, kamu juga bisa foto-foto di jembatan kaca Oneeighty yang menghadap ke sungai buatan/laguna. Meskipun buatan, pemandangannya nggak kalah cantik dari danau alami. Banyak foto estetik Bali diambil di sini!
 
 ![Oneeighty Dayclub](https://images.gobaligo.id/vocus/vocus_32615e318e839d897e9701fd01a67e9f.jpg)
 
-Oneeighty bukan cuma tempat wisata yang kece, tapi juga punya pengalaman kuliner yang nggak bakal kamu lupakan. Baja Taco, Soft Shell Crab, Indonesian Tuna Ceviche jadi camilan favorit. Menu utamanya ada ikan kakap kecil, lobster lokal, dan fish trio mango.
+Oneeighty bukan cuma tempat wisata yang kece, tapi juga punya pengalaman kuliner yang bikin nagih. Baja Taco, Soft Shell Crab, Indonesian Tuna Ceviche jadi menu andalan yang wajib dicoba. Untuk hidangan utama, ada Small Snapper, Lobster Lokal, Fish Trio Mango, dan lainnya.
 
-Kalau kamu mau menghabiskan hari yang santai di Oneeighty sambil foto-foto aesthetic, ada dua pilihan:
+Kalau kamu mau santai seharian di Oneeighty sambil hunting foto estetik, ada dua pilihan:
 
-Pesan VIP ticket (maksimal 3 orang), posisinya di baris depan dengan view tebing dan laut. Harganya Rp3.127.628 (satu daybed besar), kira-kira USD$100. Dari situ, Rp1.000.000 bisa dipakai untuk pesan makanan dan minuman. **Catatan:** Anak di bawah 12 tahun nggak boleh masuk area ini.
+Pesan tiket VIP (maksimal 3 orang), posisinya di barisan depan tebing dengan pemandangan laut. Harganya sekarang Rp3.127.628 (pakai satu daybed besar), kira-kira USD$100. Dari situ, Rp1.000.000 bisa dipakai buat bayar makanan dan minuman. **Catatan:** Anak di bawah 12 tahun nggak boleh masuk area ini.
 
-Pilihan lainnya adalah tiket reguler per orang seharga Rp615.000, sekitar USD$20. Dari jumlah itu, sekitar USD$16 (Rp500.000) bisa dipakai untuk kredit makanan dan minuman per orang.
+Pilihan lainnya adalah tiket reguler per orang, harga Rp615.000, kira-kira USD$20. Dari jumlah itu, sekitar USD$16 (Rp500.000) bisa dipakai buat kredit makanan dan minuman per orang.
 
 > Klook punya [Oneeighty Pass](https://affiliate.klook.com/redirect?aid=116349&aff_adid=782859&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F52229-oneeighty-pass-edge-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92cc562df8)
 
@@ -50,41 +52,41 @@ Pilihan lainnya adalah tiket reguler per orang seharga Rp615.000, sekitar USD$20
 
 [Sumber gambar: Tensor Arts AI](https://tensor.art/images/668588578470711504?post_id=668588578466517201&source_id=nzi1pVnglEW1o_Isbnfy9xQj)
 
-## Paket SPA dan Makan Malam Romantis
+## Paket SPA & Romantis Dinner
 
-![Paket SPA dan Makan Malam Romantis](https://images.gobaligo.id/vocus/vocus_7957b9fce964ee2a3f8b7de71bb12c06.jpg)
+![SPA和浪漫晚餐套餐](https://images.gobaligo.id/vocus/vocus_7957b9fce964ee2a3f8b7de71bb12c06.jpg)
 
-### Spa Tebing
+### Cliff Spa
 
-Terletak di tebing yang menghadap Samudra Hindia, spa ini didesain dengan garis-garis elegan dan kaca besar, menciptakan ruang penyembuhan yang bikin rileks banget.
+Terletak di tebing yang menghadap langsung Samudra Hindia, spa ini didesain dengan garis-garis elegan dan kaca besar, menciptakan ruang penyembuhan yang bikin rileks banget.
 
 **Fasilitas Unggulan:**
 
-- Vila spa pribadi dengan pemandangan laut
-- Area basah dan kering terpisah plus steam room eksklusif
-- Desain lengkung yang cantik dipadu view laut yang spektakuler
+- Private spa villa dengan pemandangan laut langsung
+- Area basah & kering terpisah plus steam room pribadi
+- Desain lengkung elegan dipadukan dengan panorama laut yang bikin speechless
 
-Di tangan terapis profesional, ditemani angin laut dan suara ombak, kamu bisa menikmati pengalaman mewah yang benar-benar rileks.
+Di tangan terapis profesional, ditemani angin laut dan deburan ombak, kamu bakal menikmati pengalaman mewah yang benar-benar bikin rileks total.
 
-### Makan Malam Romantis di Cliff Bar
+### Cliff Bar Romantic Dinner
 
-Makan malam tiga hidangan di tepi tebing, ditemani senja dan gemerlap lilin, berbagi makanan lezat dan pemandangan laut yang spektakuler bersama pasangan.
+Makan malam tiga hidangan di tepi tebing, ditemani senja dan lilin gemerlap — nikmatin hidangan lezat bareng pasangan sambil lihat pemandangan laut yang epic.
 
-**Menu termasuk:**
+**Menu includes:**
 
-- Hidangan pembuka dengan cita rasa inovatif
-- Hidangan utama pilihan khas koki
-- Penutup manis yang sempurna
+- Appetizer dengan cita rasa inovatif
+- Main course pilihan khas chef
+- Dessert manis sebagai penutup sempurna
 
-Simfoni alami deburan ombak di tebing jadi latar yang bikin malam romantis ini makin berkesan.
+Suara ombak yang menghantam tebing jadi musik alami yang bikin malam romantis ini makin unforgettable.
 
-> Pesan [Paket SPA dan Makan Malam Romantis](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1067578&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F157937-spa-and-romantic-dinner-package-at-cliff-bar-by-the-edge-bali%2F)
+> Pesan [paket SPA & Romantic Dinner](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1067578&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F157937-spa-and-romantic-dinner-package-at-cliff-bar-by-the-edge-bali%2F)
 
 ## Hal yang Perlu Diperhatikan
 
-Saat mengunjungi Oneeighty, ada beberapa aturan yang harus dipatuhi: dilarang membawa makanan dan minuman dari luar, dilarang menggunakan stroller/kursi roda, dilarang menggunakan drone, dan tidak diperbolehkan untuk sesi foto prewedding.
+Pas main ke Oneeighty, ada beberapa aturan yang harus dipatuhi: dilarang bawa makanan & minuman dari luar, nggak boleh pakai stroller/kursi roda, nggak boleh pakai drone, dan nggak diizinin buat foto prewedding.
 
-## Video Pengenalan Oneeighty Pool Club:
+## Video pengenalan Oneeighty Pool Club:
 
 https://youtu.be/Czw4ALduV14
 

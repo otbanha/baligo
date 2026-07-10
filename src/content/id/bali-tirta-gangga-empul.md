@@ -1,10 +1,11 @@
 ---
 slug: bali-tirta-gangga-empul
-title: 'Menjelajahi Air Suci Bali: Dari Tirta Gangga ke Tirta Empul'
+title: 'Menjelajahi Mata Air Suci Bali: Dari Tirta Gangga ke Tirta Empul'
 description: >-
-  Mengenal dua sumber air suci di Bali: Taman Air Suci Gangga Tirta Gangga dan
-  Pura Tirta Empul
+  Mengenal dua mata air suci Bali: Tirta Gangga (Taman Air Suci Gangga) dan
+  Tirta Empul (Pura Tirta Empul)
 pubDate: 2024-10-10T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 美食景點活動
 tags:
@@ -16,35 +17,37 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5276a5cd990c91278a453346f478d041.jpg'
 originalUrl: 'https://vocus.cc/article/6707c8e2fd897800014d3db5'
 lang: id
-_srcHash: 7e8f6fb3e1c296039aa66b42d929a368
+_srcHash: d39aa660bd7ef0b74a0b12b47ffcfef5
 ---
-Di Bali, air bukan cuma sumber kehidupan, tapi juga elemen sakral. Buat orang Bali, mata air disebut "Tirta", yang dipercaya sebagai kekuatan pemberi kehidupan dan pemurni yang menjaga segala sesuatu tetap ada. Tirta memainkan peran penting di hampir semua upacara keagamaan — dipercaya bisa membersihkan pikiran, tubuh, dan jiwa, mengusir energi negatif, serta membawa berkah.
+**Kesimpulan dulu ya**: Dua tempat wisata mata air suci di Bali punya ciri khas masing-masing — **Tirta Gangga (Taman Air Suci Gangga)** adalah istana air tiga tingkat yang dibangun tahun 1946 dengan perpaduan arsitektur Bali dan China, cocok buat foto-foto dan menikmati pemandangan; **Tirta Empul (Pura Tirta Empul)** adalah tempat suci yang bisa kamu ikuti ritual pemurnian Melukat secara langsung. Mau foto estetik? Pilih Tirta Gangga. Mau pengalaman budaya dan spiritual? Pilih Tirta Empul. Dua-duanya worth it banget buat masuk itinerary wisata timur Bali.
 
-Kalau kamu mau lebih mendalami budaya dan warisan spiritual Bali, luangkan waktu buat menjelajahi dua istana air dan pura terkenal — **Tirta Gangga** dan **Pura Tirta Empul**. Yuk, kita lihat pesona unik dari dua tempat sakral ini.
+Di Bali, air bukan cuma sumber kehidupan, tapi juga elemen sakral. Buat masyarakat Bali, mata air disebut "Tirta", yang dipercaya sebagai kekuatan pemberi hidup dan pemurnian yang menjaga segala sesuatu tetap ada. Tirta punya peran penting di hampir semua upacara keagamaan — dipercaya bisa membersihkan pikiran, tubuh, dan jiwa, mengusir energi negatif, serta membawa berkah.
 
-![Menjelajahi Air Suci Bali: Dari Tirta Gangga ke Tirta Empul](https://images.gobaligo.id/vocus/vocus_daa2c7b876bb63a589fcdb9e5d85154d.jpg)
+Kalau kamu ingin lebih mendalami warisan budaya dan spiritual Bali, sempatkan waktu buat menjelajahi dua istana air dan pura terkenal — **Tirta Gangga** dan **Pura Tirta Empul**. Yuk, kita lihat pesona unik dua tempat sakral ini.
 
-## Tirta Gangga: Istana Air yang Tenang
+![探索峇里島的聖泉:從Tirta Gangga到Tirta Empul](https://images.gobaligo.id/vocus/vocus_daa2c7b876bb63a589fcdb9e5d85154d.jpg)
 
-Tirta Gangga (diterjemahkan sebagai **Istana Air Tirta Gangga** atau **Taman Air Suci Gangga**) terletak di perbukitan hijau subur di Bali timur, sebuah istana air yang memukau. Situs seluas 1,2 hektar ini dibangun pada tahun 1946 oleh raja terakhir Karangasem, memadukan arsitektur Bali dan Tiongkok.
+## Tirta Gangga: Istana Air yang Damai
 
-![Tirta Gangga: Istana Air yang Tenang](https://images.gobaligo.id/vocus/vocus_366be6165bbc016df666dfe1b6176fbe.jpg)
+Tirta Gangga (artinya: **Istana Air Tirta Gangga** atau **Taman Air Suci Gangga**) terletak di perbukitan hijau di timur Bali, sebuah istana air yang memesona. Situs seluas 1,2 hektar ini dibangun pada tahun 1946 oleh raja terakhir Karangasem, memadukan gaya arsitektur Bali dan China.
 
-![Tirta Gangga: Istana Air yang Tenang](https://images.gobaligo.id/vocus/vocus_8634a1b05ac12f9b0f0f63ba42b0e2f7.jpg)
+![Tirta Gangga:寧靜的水上宮殿](https://images.gobaligo.id/vocus/vocus_366be6165bbc016df666dfe1b6176fbe.jpg)
+
+![Tirta Gangga:寧靜的水上宮殿](https://images.gobaligo.id/vocus/vocus_8634a1b05ac12f9b0f0f63ba42b0e2f7.jpg)
 
 Istana ini terbagi menjadi tiga tingkat, masing-masing menawarkan pengalaman unik:
 
-- Tingkat paling bawah memiliki kolam besar berisi ikan koi, dihiasi patung dewa-dewi Hindu.
+- Tingkat paling bawah punya kolam besar berisi ikan koi, dihiasi patung dewa-dewi Hindu.
 - Tingkat tengah berdiri air mancur Nawa Sanga sebelas tingkat yang ikonik, melambangkan sembilan arah dalam kosmologi Bali.
-- Tingkat tertinggi adalah kolam suci, tempat air suci mengalir dan berkumpul.
+- Tingkat paling atas adalah kolam suci tempat air suci mengalir dan berkumpul.
 
-Tirta Gangga bukan cuma keajaiban visual, tapi juga tempat dengan makna spiritual mendalam. Pengunjung bisa:
+Tirta Gangga bukan cuma keajaiban visual, tapi juga tempat dengan makna spiritual yang dalam. Pengunjung bisa:
 
-- Berjalan-jalan di taman, melangkah di atas batu air di antara kolam-kolam
+- Jalan-jalan di taman, menginjak batu di air sambil menyusuri kolam
 - Berenang di kolam air suci yang dipercaya memiliki kekuatan sakral
-- Menikmati patung dan arsitektur indah, merasakan harmoni dan keseimbangan estetika Bali
+- Nikmati patung dan arsitektur yang indah, rasakan harmoni dan keseimbangan estetika Bali
 
-Waktu terbaik buat berkunjung adalah musim kemarau, dari April sampai Oktober. Ingat, pakaian yang sopan dan hormati adat setempat ya.
+Waktu terbaik untuk berkunjung adalah musim kemarau dari April hingga Oktober. Ingat, berpakaian sopan dan hormati adat setempat.
 
 > Baca juga: [Surga Banget! Tiga Spot Wajib di Bali Timur: Pura Lempuyang, Taman Tirta Gangga, dan Taman Ujung](/id/blog/bali-east-tour-guide/)
 
@@ -54,27 +57,27 @@ Waktu terbaik buat berkunjung adalah musim kemarau, dari April sampai Oktober. I
 
 https://youtube.com/shorts/fiYs5GKdINU
 
-Pura Tirta Empul (dikenal juga sebagai **Pura Tirta Empul**) ada di Ubud, Bali tengah, dan termasuk salah satu situs paling spiritual di pulau ini. Dibangun tahun 960 M, konon air sucinya diciptakan oleh Dewa Indra dan punya khasiat penyembuhan. Pura ini terkenal banget karena peran penting air sucinya dalam ritual pemurnian Hindu Bali.
+Pura Tirta Empul (diterjemahkan sebagai: **Pura Tirta Empul**) terletak di Ubud, Bali tengah, dan merupakan salah satu situs paling spiritual di pulau ini. Candi yang dibangun pada tahun 960 Masehi ini dipercaya memiliki mata air suci yang diciptakan oleh Dewa Indra dan memiliki khasiat penyembuhan. Terkenal karena peran penting air sucinya dalam upacara pemurnian Hindu Bali.
 
-Pura ini terbagi jadi tiga halaman utama:
+Pura ini terbagi menjadi tiga halaman utama:
 
-- Halaman luar Jaba Pura menyambut pengunjung dengan ukiran batu tradisional dan gerbang megah
-- Halaman tengah Jaba Tengah adalah tempat kolam pemurnian yang ikonik
-- Halaman dalam Jeroan berisi kuil-kuil utama
+- Halaman luar Jaba Pura menyambut pengunjung dengan ukiran batu tradisional dan gerbang
+- Halaman tengah Jaba Tengah adalah lokasi kolam pemurnian yang terkenal
+- Halaman dalam Jeroan berisi kuil utama
 
-Pengalaman paling seru di Tirta Empul adalah ikut ritual pemurnian 'Melukat'. Kolam pemurnian punya 13 pancuran, masing-masing melambangkan tujuan spiritual yang berbeda. Para pemuja akan bergiliran merendam diri dan berdoa di setiap pancuran buat membersihkan jiwa dan raga.
+Pengalaman paling menarik di Tirta Empul adalah mengikuti "upacara pemurnian Melukat". Kolam pemurnian memiliki 13 pancuran, masing-masing mewakili tujuan spiritual yang berbeda. Para pemuja akan bergantian merendam diri di setiap pancuran sambil berdoa untuk menyucikan tubuh dan pikiran.
 
-Yang perlu kamu tahu:
+Yang perlu diperhatikan:
 
-- Pura ini terbuka untuk umum, kamu bisa ikut ritual pemurnian
-- Wajib pakai sarung dan selendang (disediakan gratis di pura)
-- Waktu terbaik datang adalah pagi atau sore hari biar nggak terlalu ramai
-- Ada dua pancuran yang cuma dipakai buat membersihkan jenazah, nggak boleh dipakai buat ritual Melukat
+- Pura terbuka untuk umum, pengunjung dipersilakan mengikuti upacara pemurnian
+- Wajib mengenakan sarung dan sabuk (disediakan gratis oleh pura)
+- Waktu terbaik berkunjung adalah pagi atau sore hari untuk menghindari keramaian
+- Dua pancuran hanya digunakan untuk membersihkan jenazah dan dilarang digunakan dalam upacara Melukat
 
-**Panduan lengkapnya cek di sini:** [**Panduan Lengkap Tirta Empul**](/id/blog/tirta-empul-temple-guide/)
+**Buat panduan lebih lengkap, cek:** [**Panduan Lengkap Tirta Empul**](/id/blog/tirta-empul-temple-guide/)
 
 ![2016年小傑在聖泉寺](https://images.gobaligo.id/vocus/vocus_4f009e23b2961e9bbeaefb0a4ee8b71e.jpg)
 
-Tahun 2016, Xiao Jie di Pura Tirta Empul
+Tahun 2016, Jie kecil di Pura Tirta Empul
 
 {{block:ubud}}

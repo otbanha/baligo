@@ -2,8 +2,9 @@
 title: 动手玩艺术！Pondok Pekak图书馆的巴厘岛亲子体验
 slug: pondok-pekak-library-bali
 description: >-
-  人们常说，带小孩旅行是家庭最令人兴奋的事情之一，但也可能是压力最大的挑战之一。在国外度假时，找到适合儿童的活动并不容易，但幸运的是，巴厘岛是世界上最适合家庭的目的地之一。通过各种活动，孩子们可以不断学习、受到启发并与当地文化保持联系，大人们也能放心，这个假期将为每个人创造积极的终身回忆。
+  人们常说，带孩子旅行是家庭最令人兴奋的事情之一，但也可能是压力最大的挑战之一。在国外度假时，找到适合儿童的活动并不容易，但幸运的是，巴厘岛是世界上最适合家庭的目的地之一。通过各种活动，孩子们可以不断学习、受到启发并与当地文化保持联系，大人们也能放心，这个假期将为每个人创造积极的终身回忆。
 pubDate: 2025-01-16T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: null
 category:
   - 美食景點活動
@@ -16,10 +17,11 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3baed1ac21237aa6fdf68ef0eb9fa9c0.jpg'
 originalUrl: 'https://vocus.cc/article/6788bce6fd89780001e58366'
 lang: zh-cn
-_srcHash: a3b9ef841b21eab013ee8ac459901ecf
+_srcHash: 8626baee3052d133939a07bd7e558170
 ---
+**先说结论**：Pondok Pekak 文化图书馆位于乌布市中心，是隐藏版的亲子艺术活动场所，适合带幼儿的家庭安排半天寓教于乐的行程，让孩子在游玩中接触巴厘岛当地文化与手作艺术。
 
-人们常说，带小孩旅行是家庭最令人兴奋的事情之一，但也可能是压力最大的挑战之一。在国外度假时，找到适合儿童的活动并不容易，但幸运的是，巴厘岛是世界上最适合家庭的目的地之一。通过各种活动，孩子们可以不断学习、受到启发并与当地文化保持联系，大人们也能放心，这个假期将为每个人创造积极的终身回忆。
+人们常说，带孩子旅行是家庭最令人兴奋的事情之一，但也可能是压力最大的挑战之一。在国外度假时，找到适合儿童的活动并不容易，但幸运的是，巴厘岛是世界上最适合家庭的目的地之一。通过各种活动，孩子们可以不断学习、受到启发并与当地文化保持联系，大人们也能放心，这个假期将为每个人创造积极的终身回忆。
 
 巴厘岛为幼儿提供了许多适合家庭的教育活动。其中，位于乌布市中心的Pondok Pekak文化图书馆是一个隐藏的宝藏，绝对是家庭假期中不可错过的地方。
 
@@ -31,7 +33,7 @@ Pondok Pekak由Laurie Billington和Made Sumendra于1992年创立。Laurie Billin
 
 ***
 
-### 1. **图书馆的多元功能
+### 1. **图书馆的多元功能**
 
 - **书籍与阅读空间**：Pondok Pekak Library拥有丰富的藏书，包括英文和印尼文书籍，涵盖文学、艺术、历史等多个领域。这里不仅是学习的地方，也是一个安静的阅读空间，适合家庭成员一起享受阅读时光。
 - **社区中心**：除了提供课程，Pondok Pekak还是一个社区聚集地，当地居民和游客可以在这里交流，分享文化与知识。
@@ -48,9 +50,9 @@ Pondok Pekak由Laurie Billington和Made Sumendra于1992年创立。Laurie Billin
 ### 3. **适合家庭的环境**
 
 - **儿童友好**：Pondok Pekak非常欢迎家庭参与，许多课程特别设计为适合儿童的版本，让孩子们在轻松的氛围中学习。
-- **家长参与**：家长可以与孩子一起参加课程，共同体验巴厘岛文化，这不仅增进亲子关系，还能让全家一起创造独特的回忆。
+- **家长参与**：家长可以和孩子一起参加课程，共同体验巴厘岛文化，这不仅增进亲子关系，还能让全家一起创造独特的回忆。
 
-![3. 适合家庭的环境](https://images.gobaligo.id/vocus/vocus_5e70603124eb382fb685c77a92b992b6.jpg)
+![3. 適合家庭的環境](https://images.gobaligo.id/vocus/vocus_5e70603124eb382fb685c77a92b992b6.jpg)
 
 ***
 
@@ -70,25 +72,25 @@ Pondok Pekak由Laurie Billington和Made Sumendra于1992年创立。Laurie Billin
 
 Pondok Pekak提供的艺术课程不仅价格实惠，而且极具吸引力，适合儿童和成人参与。课程内容包括：
 
-- **巴厘岛甘美兰（Gamelan）**：在一小时的课程中，学员可以学习演奏巴厘岛古典管弦乐器，如Gangsa和Bamboo Rindik。团体研讨会每人USD$7，私人课程则为USD$14。
+- **巴厘岛甘美兰（Gamelan）**：在一小时的课程中，学员可以学习演奏巴厘岛古典管弦乐器，如Gangsa和Bamboo Rindik。团体研讨会每人100,000印尼盾，私人课程则为200,000印尼盾。
 
-![丰富多彩的艺术课程](https://images.gobaligo.id/vocus/vocus_0ec956a9b6f516ecd6d5aff7d188d94b.png)
+![豐富多彩的藝術課程](https://images.gobaligo.id/vocus/vocus_0ec956a9b6f516ecd6d5aff7d188d94b.png)
 
-- **巴厘岛舞蹈**：由Ibu Ketut指导，她从9岁起就开始跳舞，对巴厘岛舞蹈有着深厚的了解。工作坊价格为USD$7，私人课程为USD$14。
+- **巴厘岛舞蹈**：由Ibu Ketut指导，她从9岁起就开始跳舞，对巴厘岛舞蹈有着深厚的了解。工作坊价格为100,000印尼盾，私人课程为200,000印尼盾。
 
-![丰富多彩的艺术课程](https://images.gobaligo.id/vocus/vocus_9a187d5fc0b52357d4f53a9b39c61bae.png)
+![豐富多彩的藝術課程](https://images.gobaligo.id/vocus/vocus_9a187d5fc0b52357d4f53a9b39c61bae.png)
 
-- **木雕**：为期3小时的课程，学员可以在大师级工匠Pak Nyoman Setiawan的指导下自由创作。工作坊费用为USD$12，私人课程为USD$25。
+- **木雕**：为期3小时的课程，学员可以在大师级工匠Pak Nyoman Setiawan的指导下自由创作。工作坊费用为175,000印尼盾，私人课程为350,000印尼盾。
 
-![丰富多彩的艺术课程](https://images.gobaligo.id/vocus/vocus_9c074a521c04fe9831f691634396e211.png)
+![豐富多彩的藝術課程](https://images.gobaligo.id/vocus/vocus_9c074a521c04fe9831f691634396e211.png)
 
 - **银饰制作**：在3小时的课程中，客人可以与当地银匠一起制作自己设计的项链吊坠或戒指，这是一个制作有意义纪念品的绝佳方式。
 
-![丰富多彩的艺术课程](https://images.gobaligo.id/vocus/vocus_b89e67619cdd7ae69ce05af2a214b220.png)
+![豐富多彩的藝術課程](https://images.gobaligo.id/vocus/vocus_b89e67619cdd7ae69ce05af2a214b220.png)
 
 - **水果雕刻**：将西瓜变成美丽的花朵！这就是我们的水果雕刻课程。完成后，您不仅可以展示自己的作品，还可以与朋友分享多汁的西瓜。
 
-![丰富多彩的艺术课程](https://images.gobaligo.id/vocus/vocus_3d5b24e37128cae428d7f4c23da9cd73.png)
+![豐富多彩的藝術課程](https://images.gobaligo.id/vocus/vocus_3d5b24e37128cae428d7f4c23da9cd73.png)
 
 {{block:親子}}
 

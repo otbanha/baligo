@@ -3,8 +3,9 @@ slug: aloha-ubud-swing-guide
 title: 乌布的荡秋千 Aloha Ubud Swing
 description: >-
   Aloha Ubud Swing 是巴厘岛上一个独特而受欢迎的旅游景点，位于 Gianyar
-  县的德哥拉朗地区。这里不仅拥有令人惊叹的自然风光，还提供多种不同高度和类型的秋千供游客选择，成为拍摄美丽照片的理想地点。
+  县的德格拉朗地区。这里不仅拥有令人惊叹的自然风光，还提供多种不同高度和类型的秋千供游客选择，成为拍摄美丽照片的理想地点。
 pubDate: '2024-07-19'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_305e27670dc6ffb001d6b26dbbc9a351.jpg'
 tags:
   - 烏布
@@ -16,12 +17,13 @@ originalUrl: 'https://vocus.cc/article/669a60fffd89780001d61fb5'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 4ee0af1abe97cb673d51de5ddd3cdae4
+_srcHash: 6cd0b849438b001117a919ce7d0f6100
 ---
+**先说结论**：Aloha Ubud Swing 位于 Gianyar 德格拉朗地区，秋千高度选择从 **10 米到 60 米**不等，提供单人与双人款式，适合想挑战高空刺激或想拍情侣浪漫美照的旅客依需求选择合适高度。
 
-Aloha Ubud Swing 是巴厘岛上一个独特而受欢迎的旅游景点，位于 Gianyar 县的德哥拉朗地区。这里不仅拥有令人惊叹的自然风光，还提供多种不同高度和类型的秋千供游客选择，成为拍摄美丽照片的理想地点。
+Aloha Ubud Swing 是巴厘岛上一个独特而受欢迎的旅游景点，位于 Gianyar 县的德格拉朗地区。这里不仅拥有令人惊叹的自然风光，还提供多种不同高度和类型的秋千供游客选择，成为拍摄美丽照片的理想地点。
 
-![乌布的荡秋千 Aloha Ubud Swing](https://images.gobaligo.id/vocus/vocus_b0009d10d4a49c1dd25cfb6722a31391.jpg)
+![烏布的盪鞦韆 Aloha Ubud Swing](https://images.gobaligo.id/vocus/vocus_b0009d10d4a49c1dd25cfb6722a31391.jpg)
 
 ## **Aloha Ubud Swing 的吸引力**
 
@@ -80,10 +82,10 @@ Aloha Ubud Swing 每天开放，营业时间为上午 8 点至下午 5 点。建
 
 进入 Aloha Ubud Swing 的游客可以选择不同的优惠套餐，包括：
 
-- USD$33 的套餐，包含从乌布地区住宿地点的往返交通（至少 2 人）
-- USD$39 的套餐，包含从 Payangan、Pejeng、Sayan、沙努尔、坎古、水明漾、库塔和 Legian 地区住宿地点的往返交通（至少 2 人）
-- USD$42 的套餐，包含从努沙杜瓦、金巴兰、Benoa 地区住宿地点的往返交通（至少 2 人）
-- USD$26 的套餐，不含交通服务
+- 500,000 印尼盾的套餐，包含从乌布地区住宿地点的往返交通（至少 2 人）
+- 600,000 印尼盾的套餐，包含从 Payangan、Pejeng、Sayan、Sanur、坎古、水明漾、库塔和 Legian 地区住宿地点的往返交通（至少 2 人）
+- 650,000 印尼盾的套餐，包含从努沙杜瓦、金巴兰、Benoa 地区住宿地点的往返交通（至少 2 人）
+- 400,000 印尼盾的套餐，不含交通服务
 - 也可以在Klook取得更优惠的价格▶[Klook优惠价](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888111&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20061-aloha-ubud-swing-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D106f12812b)
 
 Aloha Ubud Swing 是巴厘岛上一个令人难忘的旅游景点，适合所有年龄层的游客。在这里，你可以挑战各种高度的秋千，享受惊险刺激的同时，也能捕捉到无数美丽的瞬间。丰富的设施和便利的交通服务使得这个地方成为你旅行清单中的必访之地。

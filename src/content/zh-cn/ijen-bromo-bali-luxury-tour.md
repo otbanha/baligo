@@ -1,21 +1,25 @@
 ---
-slug: ijen-bromo-bali-luxury-tour
 title: "\U0001F30B【伊真火山+巴厘岛】梦幻蓝火+赛武瀑布+布罗莫日出｜轻奢五日游全包"
+slug: ijen-bromo-bali-luxury-tour
 description: >-
   想看火山又不想太辛苦？深度开箱「全包式」轻奢五日行程。解析如何通过 VIP 包车无缝衔接爪哇与巴厘岛、入住顶级私人 Villa 消除疲劳，并在罗威纳
   (Lovina) 与野生海豚共游。提供无购物、纯玩保证的行程规划建议，让您的印尼之行既有冒险的震撼，也有度假的质感。
 pubDate: 2025-04-01T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
+pubHour: null
 category:
   - 美食景點活動
 tags: []
-heroImage: 'https://images.gobaligo.id/vocus/vocus_abbcdb77075f99d883ef6f54309163fa.jpg'
+heroImage: 'https://images.gobaligo.id/images/2026-06/1781696806087-ijen.jpg'
 originalUrl: 'https://vocus.cc/article/67eb9e4afd89780001eb48fb'
 lang: zh-cn
-_srcHash: 1ee4f74f10322c64e6cdbb2678837b32
+_srcHash: 234c146aaec54328e57ad4a6bad931cd
 ---
+![【伊真火山+峇里島】夢幻藍火+賽武瀑布+布羅莫日出｜輕奢五日遊全包](https://images.gobaligo.id/vocus/vocus_95d91a1539287683737d3e0a04d1e1c8.jpg)
 
-![【伊真火山+巴厘岛】梦幻蓝火+赛武瀑布+布罗莫日出｜轻奢五日游全包](https://images.gobaligo.id/vocus/vocus_95d91a1539287683737d3e0a04d1e1c8.jpg)
-![【伊真火山+巴厘岛】梦幻蓝火+赛武瀑布+布罗莫日出｜轻奢五日游全包](https://images.gobaligo.id/vocus/vocus_b4fa1582dee57d138f6c28b896f04869.jpg)
+![【伊真火山+峇里島】夢幻藍火+賽武瀑布+布羅莫日出｜輕奢五日遊全包](https://images.gobaligo.id/vocus/vocus_b4fa1582dee57d138f6c28b896f04869.jpg)
+
+**先说结论**：这是结合巴厘岛与爪哇岛的轻奢五日全包行程，主打**伊真火山蓝火 + 布罗莫火山日出云海 + 赛武瀑布**三大奇观，全程 VIP 包车、入住私人泳池 Villa、无自费无购物站，并安排罗威纳海岸与野生海豚共游，适合想同时体验探险与度假质感的旅客。
 
 ## ✨ 行程亮点
 
@@ -25,36 +29,41 @@ _srcHash: 1ee4f74f10322c64e6cdbb2678837b32
 - **魔幻体验**：罗威纳海岸与野生海豚共游
 - **纯玩保证**：无自费、无购物站，全程VIP包车服务
 
-![行程亮点](https://images.gobaligo.id/images/2026-04/1775404200123-5-5.jpg)
-![行程亮点](https://images.gobaligo.id/images/2026-04/1775404200628-006376400_1707282570-ijen.jpeg)
-![行程亮点](https://images.gobaligo.id/images/2026-04/1775404201229-bromo-sunrise_800x533-jpg.jpeg)
-![行程亮点](https://images.gobaligo.id/images/2026-04/1775404201631-486356507_2592775824255286_8287552600759979543_n.jpg)
-![行程亮点](https://images.gobaligo.id/images/2026-04/1775404202357-67.jpg)
-![行程亮点](https://images.gobaligo.id/images/2026-04/1775404202716-tumpak-sewu-best-waterfall-indonesia-java-foot-1920x1281.jpg)
+![行程亮點](https://images.gobaligo.id/images/2026-04/1775404200123-5-5.jpg)
+
+![行程亮點](https://images.gobaligo.id/images/2026-04/1775404200628-006376400_1707282570-ijen.jpeg)
+
+![行程亮點](https://images.gobaligo.id/images/2026-04/1775404201229-bromo-sunrise_800x533-jpg.jpeg)
+
+![行程亮點](https://images.gobaligo.id/images/2026-04/1775404201631-486356507_2592775824255286_8287552600759979543_n.jpg)
+
+![行程亮點](https://images.gobaligo.id/images/2026-04/1775404202357-67.jpg)
+
+![行程亮點](https://images.gobaligo.id/images/2026-04/1775404202716-tumpak-sewu-best-waterfall-indonesia-java-foot-1920x1281.jpg)
 
 ***
 
 ## 💎 项目包含
 
-✅ **全程机票**（经济舱含税）
+✅ **全程机票**（经济舱含税）
 
-✅ **4晚精选住宿**（含私人泳池VILLA）
+✅ **4晚精选住宿**（含私人泳池VILLA）
 
-✅ **所有景点门票**（伊真火山/布罗莫火山/赛武瀑布/追海豚船票）
+✅ **所有景点门票**（伊真火山/布罗莫火山/赛武瀑布/追海豚船票）
 
-✅ **每日早餐**+全程包车服务
+✅ **每日早餐**+全程包车服务
 
-✅ **专业导游**+火山探险装备租借
+✅ **专业导游**+火山探险装备租借
 
 ***
 
 ## 📌 重要信息
 
-**优惠价** USD$1,188/人（二人成行现金价，不同人数欢迎咨询）
+**优惠价** 美元1,188元/人（二人成行现金价，不同人数欢迎咨询）
 
 **适用日期** 即日起至2026年12月
 
-**注意事项** 特价专案不可取消退款
+**注意事项** 特价项目不可取消退款
 
 ***
 
@@ -66,15 +75,15 @@ _srcHash: 1ee4f74f10322c64e6cdbb2678837b32
 
 1. **精选景点组合**：一次体验火山奇观与巴厘岛度假
 2. **安全有保障**：伊真火山配备专业防护装备
-3. **高性价比享受**：私人泳池别墅与全程无购物压力
+3. **高性价比享受**：私人泳池VILLA与全程无购物压力
 
-> 💡 **贴心提醒**：蓝色火焰观赏需凌晨徒步，建议准备防滑鞋与保暖衣物
+> 💡 **贴心提醒**：蓝色火焰观赏需凌晨徒步，建议准备防滑鞋与保暖衣物
 
 ***
 
-### ❗ **注意事项** ❗
+### ❗ **注意事项** ❗
 
-1. 💰 **超值价 USD$1,188/人** 💰线上报名享有每人价值 **Rp. 150,000 的巴厘岛观光税全额补助**
+1. 💰 **超值价 USD$1,188/人** 💰 线上报名享有每人价值 **Rp. 150,000 的巴厘岛观光税全额补助**
 2. **适用出发日期**：即日起至2026年12月（假期报价另计）。
 3. **二人成行优惠价**：人数不同请洽客服询价。
 4. **价格浮动因素**：机票及住宿价格皆因出发日期而有所不同，欢迎洽询
@@ -84,7 +93,7 @@ _srcHash: 1ee4f74f10322c64e6cdbb2678837b32
 
 📸 准备好你的相机，来一场说走就走的火山探险之旅吧！
 
-👉 名额有限，快来抢订！让印尼的绝世美景成为你的专属回忆！
+👉 名额有限，快来抢订！让印尼的绝美景色成为你的专属回忆！
 
 {{block:tour-form-volcanoes}}
 

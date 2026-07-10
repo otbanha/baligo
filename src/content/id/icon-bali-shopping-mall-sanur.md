@@ -1,17 +1,18 @@
 ---
 slug: icon-bali-shopping-mall-sanur
 title: >-
-  【Destinasi Baru di Bali】Panduan Lengkap Mal Icon Bali: Butterfly Garden Wajib
-  Dikunjungi di Sanur, Pasar Indoor, dan Satu-satunya Bioskop Tepi Pantai di
-  Indonesia
+  【Bali Landmark Baru】Panduan Lengkap Mal Icon Bali: Butterfly Garden Wajib
+  Kunjung di Sanur, Pasar Indoor & Satu-satunya Bioskop Tepi Pantai di Indonesia
 description: >-
-  Jangan sampai kelewatan kalau ke Bali! Yuk, kita bedah tuntas Mal Icon Bali
+  Jangan sampai kelewatan kalau ke Bali! Yuk, kita bedah tuntas mal Icon Bali
   yang baru aja buka di Sanur. Ada pasar terapung indoor pertama di dunia (Jaje
   Bali), taman kupu-kupu yang cantik banget, dan pengalaman belanja bebas bea
-  yang langsung menghadap pantai. Artikel ini udah dirangkumin brand wajib beli,
-  rekomendasi restoran, dan tips transportasi biar kamu bisa menikmati perpaduan
-  budaya dan seni modern sambil dingin-dingin di AC.
+  yang langsung nyempil ke pantai. Artikel ini udah aku rangkumin brand wajib
+  beli, rekomendasi restoran, dan tips transportasi biar kamu bisa shopping
+  dingin-dingin sambil menikmati perpaduan budaya dan seni modern yang kece
+  abis.
 pubDate: 2024-06-08T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 美食景點活動
 tags:
@@ -28,44 +29,46 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_518bf6250894fe40dd8bb2a87de767b5.jpg'
 originalUrl: 'https://vocus.cc/article/666425e6fd8978000121dadc'
 lang: id
-_srcHash: ef88176819817df1db02b8582f812a5e
+_srcHash: a542c7c3db29e1f205d012225aa7b35b
 ---
-Sebagai destinasi belanja premium di Bali, Mal Icon Bali resmi hadir di Sanur, tepatnya di Jalan Danau Tamblingan No. 27. Akhirnya, Icon Bali resmi beroperasi pada Jumat, 7 Juni 2024!
+**Kesimpulan di depan**: Icon Bali Mall resmi buka di Sanur pada 7 Juni 2024, luasnya **32.000 meter persegi**, katanya sih mal terbesar di Bali. Di dalamnya ada **pasar apung indoor terbesar se-Asia Tenggara, Jaje Bali Floating Market**, plus **lebih dari 200 toko/restoran**. Cocok banget buat tempat ngadem, rencana cadangan pas hujan, atau jalan-jalan keluarga sambil belanja.
 
-**Kenalan Sama Sanur dalam 3 Menit:**
+Icon Bali Mall, sebagai destinasi belanja premium di Bali, akhirnya hadir secara resmi. Berlokasi di Jalan Danau Tamblingan No. 27, Sanur, Icon Bali resmi beroperasi pada hari Jumat, 7 Juni 2024!
+
+**Kenalan sama Sanur dalam 3 menit:**
 
 https://youtu.be/SpcgZ4iK7qs
 
-Dengan luas 32.000 meter persegi, Icon Bali Mall disebut-sebut sebagai mal terbesar di Bali. Tempat ini menawarkan pengalaman belanja, makan, dan rekreasi pantai yang langsung bisa diakses, bikin destinasi unik buat warga lokal maupun turis. Kehadiran Icon Bali diprediksi bakal kasih pengalaman belanja dan hiburan yang nggak ada duanya buat para pengunjung Sanur.
+Dengan luas 32.000 meter persegi, Icon Bali Mall disebut-sebut sebagai mal terbesar di Bali. Tempat ini menawarkan pengalaman belanja, makan, dan rekreasi pantai yang langsung bisa diakses, jadi destinasi unik buat warga lokal maupun turis. Kehadiran Icon Bali diharapkan bisa kasih pengalaman belanja dan hiburan yang nggak ada duanya buat pengunjung Sanur.
 
-> Baca juga: [Panduan Liburan Keluarga ke Bali: Peta Wisata Sanur Lengkap 45 Aktivitas Seru, Termasuk SPA dan Rekomendasi Penginapan!](/id/blog/sanur-guide/)
+> Baca juga: [Panduan Liburan Keluarga ke Bali: Peta Wisata Sanur｜45 Rekomendasi Makan, Main, SPA, dan Penginapan!](/id/blog/sanur-guide/)
 
-Jantung dari Icon Bali Mall adalah Jaje Bali Floating Market, pasar terapung indoor terbesar di Asia Tenggara. Pasar ini menyajikan aneka kuliner khas Bali, camilan manis, dan barang-barang unik yang bikin kamu bisa interaksi langsung sama penjualnya. Selain itu, Icon Bali Mall juga punya banyak pilihan hiburan dan belanja lain, seperti panggung seni budaya, bioskop, area bermain, dan masih banyak lagi.
+Jantungnya Icon Bali Mall adalah Jaje Bali Floating Market, pasar apung indoor terbesar di Asia Tenggara. Pasar ini menyajikan aneka kuliner khas Bali, camilan manis, dan barang-barang unik, di mana pengunjung bisa langsung interaksi sama penjualnya. Icon Bali Mall juga punya banyak pilihan hiburan dan belanja lain, termasuk panggung seni budaya, bioskop, area bermain, dan masih banyak lagi.
 
-Mal ini punya lebih dari 200 toko, restoran, dan pedagang kaki lima yang memadukan budaya lokal kontemporer dengan konsep butik modern. Desain malnya terinspirasi dari keindahan alam Bali, lengkap dengan sawah terasering, tanaman tropis, dan bunga kamboja.
+Mal ini punya lebih dari 200 toko, restoran, dan pedagang, yang memadukan budaya lokal kontemporer dengan konsep butik fashion. Desain malnya terinspirasi dari keindahan alam Bali, menggabungkan elemen sawah terasering, tanaman tropis, bunga kamboja, dan lainnya.
 
-Tri Christy Novia Tambunan, Kepala Hubungan Masyarakat Icon Bali Mall, bilang kalau sebagai destinasi terbaru di Sanur, Icon Bali menghadirkan beberapa merek internasional pertama di Indonesia, seperti Emporio Armani 7, Ted Baker, Fred Perry, Flying Tiger, Amarisa, dan bioskop IMAX yang udah ditunggu-tunggu.
+Tri Christy Novia Tambunan, Chief Public Relations Officer Icon Bali Mall, bilang kalau sebagai destinasi premium terbaru di Sanur, Icon Bali menghadirkan beberapa brand internasional ternama yang buka toko pertama mereka di sini, kayak Emporio Armani 7, Ted Baker, Fred Perry, Flying Tiger, Amarisa, dan bioskop IMAX yang udah ditunggu-tunggu.
 
-Beberapa toko terkenal lainnya seperti supermarket Market City, toko oleh-oleh Krisna Premium, tempat bermain Timezone, pakaian Marks & Spencer dan Uniqlo, dan lain-lain.
+Beberapa toko terkenal lainnya termasuk supermarket Market City, toko oleh-oleh Krisna Premium, tempat bermain Timezone, serta pakaian Marks & Spencer dan Uniqlo.
 
-Icon Bali juga menyediakan banyak pilihan ritel, termasuk Mango, Sephora, Tumi, Michael Kors, Victoria’s Secret, Bath & Body Works, MLB, Lacoste, Tommy Hilfiger, Under Armour, Swarovski, Pandora, Pedro, Charles & Keith, Foot Locker, Joe Malone, dan banyak merek menarik lainnya.
+Icon Bali juga punya banyak pilihan ritel, mulai dari Mango, Sephora, Tumi, Michael Kors, Victoria’s Secret, Bath & Body Works, MLB, Lacoste, Tommy Hilfiger, Under Armour, Swarovski, Pandora, Pedro, Charles & Keith, Foot Locker, Joe Malone, dan masih banyak brand keren lainnya.
 
-Selain itu, Icon Bali juga punya berbagai tempat nyaman untuk pertunjukan langsung, pameran, dan acara indoor-outdoor, seperti Icon Bali Beach, Icon Community Lawn, area Atrium, dan Cultural Stage & Amphitheatre. Untuk meningkatkan pengalaman belanja dan hiburan, Cinema XXI di Icon Bali menghadirkan bioskop IMAX® Laser pertama di Bali. Katanya, "Penonton pasti bakal excited sama bioskop IMAX® yang pakai teknologi laser ini — ini pertama kalinya di Bali. Bioskop laser ini dilengkapi teknologi paling canggih, kasih resolusi lebih tinggi, visual lebih tajam, dan gamut warna yang lebih luas."
+Selain itu, Icon Bali punya beberapa tempat nyaman buat pertunjukan langsung, pameran, dan acara indoor-outdoor, kayak Icon Bali Beach, Icon Community Lawn, area Atrium, dan Cultural Stage & Amphitheatre. Buat ningkatin pengalaman belanja dan hiburan, Cinema XXI di Icon Bali menghadirkan bioskop IMAX® Laser pertama di Bali. Katanya: “Penonton bakal heboh sama bioskop IMAX® yang pakai teknologi laser ini — pertama kalinya di Bali. Bioskop laser ini dilengkapi teknologi paling canggih, kasih resolusi lebih tinggi, visual lebih tajam, dan warna lebih luas.”
 
 ## Tonton video review dari 「小傑印尼」:
 
 https://youtu.be/hdIKOX5wghU
 
-### Icon Bali Mall di Sanur, Bali, punya tenant-tenant spesial berikut:
+### Icon Bali Mall di Sanur, Bali, punya toko-toko spesial berikut:
 
-**Jaje Bali Floating Market:** Pasar terapung indoor terbesar di Asia Tenggara, menyajikan kuliner khas Bali, dessert, dan barang-barang unik — bikin pengunjung bisa interaksi langsung sama penjual.
-**Vertical Forest:** Hutan vertikal imersif setinggi empat lantai yang memamerkan tanaman tropis dan bunga khas Bali.
-**Cultural Amphitheater:** Terletak di ujung barat Jaje Bali, punya 28 area tempat duduk — cocok buat santai sambil ngemil dan nonton pertunjukan tari Bali setiap hari.
-**Community Bazaar:** Menyediakan berbagai barang unik dan produk lokal, bikin pengunjung bisa ngobrol langsung sama pedagang setempat.
-Tenant-tenant spesial ini menciptakan pengalaman belanja dan hiburan yang unik, bikin pengunjung makin dekat sama budaya lokal dan alam sekitar.
+**Jaje Bali Floating Market:** Pasar terapung indoor terbesar di Asia Tenggara, jualan makanan khas Bali, dessert, dan barang unik — bikin pengunjung bisa interaksi langsung sama penjual.
+**Vertical Forest:** Hutan vertikal imersif setinggi empat lantai yang memamerkan tanaman dan bunga tropis khas Bali.
+**Cultural Amphitheater:** Di ujung barat Jaje Bali, ada 28 area tempat duduk — pengunjung bisa santai sambil makan, minum, dan nonton pertunjukan tari Bali setiap hari.
+**Community Bazaar:** Banyak barang unik dan produk lokal, cocok buat yang suka ngobrol sama pedagang setempat.
+Toko-toko spesial ini bikin pengalaman belanja dan hiburan yang unik, bikin pengunjung makin dekat sama budaya dan alam Bali.
 
 
-## **Catatan Perjalanan Xiao Jie di Sanur:**
+## **Catatan Perjalanan Xiaojie di Sanur:**
 
 https://youtu.be/laRb_l8BdLM
 

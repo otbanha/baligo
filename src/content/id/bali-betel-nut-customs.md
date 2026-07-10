@@ -1,11 +1,12 @@
 ---
 slug: bali-betel-nut-customs
-title: Boleh bawa sirih pinang masuk Bali/Indonesia?
+title: Boleh bawa sirih ke Bali/Indonesia nggak sih?
 description: >-
-  Sirih pinang adalah camilan umum di Taiwan, banyak orang punya kebiasaan
-  mengunyahnya. Tapi, di banyak negara sirih pinang dianggap narkoba atau barang
-  terlarang, jadi kalau mau bawa ke luar negeri harus hati-hati...
+  Sirih itu camilan yang umum banget di Taiwan, banyak orang punya kebiasaan
+  ngunyah sirih. Tapi, sirih dianggap narkoba atau barang terlarang di banyak
+  negara, jadi kalau mau bawa sirih ke luar negeri harus hati-hati banget...
 pubDate: 2024-04-16T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 旅行技巧
 tags:
@@ -17,26 +18,24 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_dd76f1e8177a1813dc222d3266ae811b.jpg'
 originalUrl: 'https://vocus.cc/article/661e7b1ffd89780001f1da05'
 lang: id
-_srcHash: 21fc3da86a0bcbb6d452936f117bb2dd
+_srcHash: e9ab55ec331caecefa7e8a3ed08afc60
 ---
-Update: 2026/07/03
+**Kesimpulan dulu**: **Boleh**, sirih nggak ada di daftar barang terlarang bea cukai Indonesia (sesajen Hindu di Bali aja pakai buah dan daun sirih). Buat konsumsi pribadi, jumlah sedikit, dan tetap dalam kemasan asli aman dibawa masuk. Tapi catat: **bahan tambahan merah dan putih** yang sering ada di sirih Taiwan kadang bisa bikin petugas bea cukai bertanya. Kalau ditanya, tetap tenang dan ikuti pemeriksaan aja.
 
-**Kesimpulan dulu**: **Boleh**, sirih pinang nggak ada di daftar barang terlarang bea cukai Indonesia (di Bali, sesajen Hindu udah pakai buah dan daun sirih pinang). Bawa secukupnya buat sendiri, tetap dalam kemasan asli, aman masuk. Tapi catat: **bubuk kapur merah/putih** yang biasa ada di sirih pinang Taiwan kadang bisa bikin petugas bea cukai bertanya. Kalau ditanya, tetap tenang dan ikuti pemeriksaan aja.
+Sirih itu camilan yang umum banget di Taiwan, banyak orang punya kebiasaan ngunyah sirih. Tapi, sirih dianggap narkoba atau barang terlarang di banyak negara, jadi kalau mau bawa sirih ke luar negeri harus hati-hati banget...
 
-Sirih pinang adalah camilan umum di Taiwan, banyak orang punya kebiasaan mengunyahnya. Tapi, di banyak negara sirih pinang dianggap narkoba atau barang terlarang, jadi kalau mau bawa ke luar negeri harus hati-hati.
+## Apakah Indonesia melarang bawa sirih?
 
-## Apakah Indonesia melarang bawa sirih pinang?
+Menurut aturan bea cukai Indonesia, sirih bukan barang yang dilarang dibawa masuk. Sesajen Hindu di Bali setiap hari aja pakai buah dan daun sirih. Jadi, kamu bisa bawa sirih dari Taiwan ke Indonesia.
 
-Menurut aturan bea cukai Indonesia, sirih pinang bukan barang yang dilarang masuk. Di Bali, sesajen Hindu setiap hari pakai buah dan daun sirih pinang. Jadi, kamu bisa bawa sirih pinang dari Taiwan ke Indonesia.
+## Hal yang perlu diperhatikan saat bawa sirih ke Indonesia:
 
-## Hal yang perlu diperhatikan saat bawa sirih pinang ke Indonesia:
-
-Jumlah sirih pinang yang dibawa sebaiknya secukupnya buat pribadi, jangan kebanyakan. Simpan dalam kemasan asli dan jaga baik-baik.
+Jumlah sirih yang dibawa sebaiknya untuk konsumsi pribadi, jangan kebanyakan. Simpan sirih dalam kemasan asli dan jaga baik-baik.
 
 ![社團朋友親身經驗](https://images.gobaligo.id/vocus/vocus_cdf45025f04407548fc3024d792824f6.jpg)
 
-Pengalaman langsung teman-teman komunitas
+Pengalaman langsung dari teman-teman komunitas
 
-Meski begitu, kalau sirih pinang Taiwan mengandung bubuk kapur merah/putih dan bikin petugas bea cukai ribut, kamu harus **tetap tenang** dan **ikuti permintaan petugas**. Situasi ini bisa terjadi karena bubuk kapur merah/putih adalah bahan tambahan sirih pinang, di beberapa negara bisa dianggap barang terlarang.
+Meskipun begitu, kalau sirih Taiwan mengandung bahan tambahan merah atau putih dan bikin petugas bea cukai ribut, kamu harus **tetap tenang** dan **ikuti permintaan petugas**. Situasi ini bisa terjadi karena bahan tambahan merah atau putih itu aditif sirih, di beberapa negara bisa dianggap barang terlarang.
 
 {{block:戶外}}

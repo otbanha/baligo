@@ -3,9 +3,10 @@ slug: maja-canggu-mediterranean-stay
 title: 巴厘岛坎古 MAJA Canggu 住宿体验：仿佛置身地中海的纯白梦境
 description: >-
   如果你热爱地中海风格，向往在纯白拱门与蓝色泳池间拍出如杂志封面的美照，那么 MAJA Canggu
-  绝对是你在巴厘岛坎古（Canggu）不可错过的住宿选择。这间成人专属的精品民宿，仅有五间套房，提供私密且宁静的度假体验。  地中海风格的建筑设计  MAJA
+  绝对是你在巴厘岛坎古（Canggu）不可错过的住宿选择。这间成人专属的精品民宿，仅有五间套房，提供私密且宁静的度假体验。地中海风格的建筑设计 MAJA
   Canggu 的建筑设计灵感来自希腊圣托里
 pubDate: 2025-06-03T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 住宿推薦
 tags:
@@ -39,10 +40,8 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_89856d64068912cc57d2c11c809601ef.jpg'
 originalUrl: 'https://vocus.cc/article/683ea036fd89780001ff6ce2'
 lang: zh-cn
-_srcHash: e5ccc283c6bacec66bc51a93053ea685
+_srcHash: 4b31a75e3e18d112e008b1b72966fec7
 ---
-Update: 2026/07/03
-
 **先说结论**：MAJA Canggu 适合**想拍圣托里尼风美照的成人旅客**——位于坎古 Batu Bolong 一带、全馆仅 5 间套房的 adults-only 精品民宿，纯白拱门配蓝色泳池，一楼 3 间可直通泳池、二楼 2 间视野更好。**不适合**带小孩的家庭与需要酒店级设施的旅客；适合蜜月、情侣与安静度假的两人行。
 
 如果你热爱地中海风格，向往在纯白拱门与蓝色泳池间拍出如杂志封面的美照，那么 MAJA Canggu 绝对是你在巴厘岛坎古（Canggu）不可错过的住宿选择。这间成人专属的精品民宿，**仅有五间套房**，提供私密且宁静的度假体验。

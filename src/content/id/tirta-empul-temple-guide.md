@@ -4,12 +4,13 @@ title: >-
   Ribuan Tahun, Pantangan & Hal Wajib Dilihat
 slug: tirta-empul-temple-guide
 description: >-
-  Masuk ke pura air paling sakral di Bali! Panduan ini mengupas tuntas sejarah
-  Pura Tirta Empul dan langkah-langkah ritual penyucian Melukat. Termasuk cara
-  mengambil sarung (sarong), urutan sembahyang, legenda khasiat air suci, serta
-  pantangan religi saat berkunjung. Rasakan kekuatan penyembuhan air suci di
-  pura kuno ini.
+  Masuk ke pura air paling sakral di Bali! Panduan ini bakal ngebahas tuntas
+  sejarah Pura Tirta Empul dan langkah-langkah ritual penyucian Melukat. Mulai
+  dari cara ambil sarung (Sarong), urutan sembahyang, legenda khasiat air
+  pancuran, sampai pantangan agama saat masuk. Biar kamu bisa ngerasain kekuatan
+  penyembuhan air suci di pura kuno ini.
 pubDate: 2026-01-18T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: null
 category:
   - 美食景點活動
@@ -27,104 +28,105 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-06/1781582245855-tirta_empul.jpg'
 originalUrl: 'https://vocus.cc/article/6852cdc2fd89780001e0b7ad'
 lang: id
-_srcHash: 3364565a1631a8622c4c6519a6f00dd2
+_srcHash: 190adada1362575756a4e0583411c27f
 ---
+**Kesimpulan Awal**: Tirta Empul (Pura Tirta Empul) ada di Desa Tampaksiring, Gianyar. Yang paling keren adalah **ritual penyucian Melukat dengan melewati 26 pancuran secara berurutan** — **non-Hindu juga boleh ikut**, asal hormati aturan setempat (pakai sarung, ikuti urutan sembahyang). Cocok buat kamu yang pengin ngerasain budaya religi Bali yang autentik, sambil mampir di sekitar Ubud.
 
-Tirta Empul (artinya 'Air Suci') adalah salah satu pura air tertua dan paling spiritual di Bali, terletak di Desa Tampaksiring, Gianyar. Pura ini terkenal dengan ritual penyucian 'Melukat', di mana umat percaya airnya bisa membersihkan energi negatif.
+Tirta Empul (artinya 'Air Suci') adalah salah satu pura air tertua dan paling spiritual di Bali, terletak di Desa Tampaksiring, Gianyar. Pura ini terkenal dengan ritual penyucian 'Melukat', di mana air pancurannya dipercaya bisa membersihkan energi negatif.
 
 https://youtube.com/shorts/fiYs5GKdINU
 
-**Sorotan Kunjungan:**
+**Hal Menarik yang Bisa Kamu Lakukan:**
 
-- Mengikuti ritual penyucian Melukat tradisional
-- Menikmati arsitektur Bali kuno dan mata air misterius
-- Mengamati upacara keagamaan seperti Piodalan
-- Menenangkan jiwa di lingkungan hijau yang asri
+- Ikut ritual penyucian Melukat tradisional
+- Nikmati arsitektur Bali kuno dan mata air misterius
+- Saksikan upacara keagamaan lokal seperti Piodalan
+- Tenangkan pikiran di lingkungan yang asri dan hijau
 
 ***
 
-## Apa Itu Ritual Penyucian Melukat? Bisa Diikuti Non-Hindu?
+## Apa Itu Ritual Penyucian Melukat? Boleh Diikuti Non-Hindu?
 
-![Apa Itu Ritual Penyucian Melukat? Bisa Diikuti Non-Hindu?](https://images.gobaligo.id/vocus/vocus_5ba2abc7963542e2253bb38ebb3360ef.jpg)
+![Melukat 淨化儀式是什麼？非印度教徒可以參加嗎？](https://images.gobaligo.id/vocus/vocus_5ba2abc7963542e2253bb38ebb3360ef.jpg)
 
-Melukat adalah ritual penyucian dalam agama Hindu Bali, di mana peserta berjalan melewati 26 pancuran air suci sambil berdoa dan menyiram diri untuk membersihkan jiwa.
+Melukat adalah ritual penyucian dalam agama Hindu Bali, di mana peserta berjalan melewati 26 pancuran secara berurutan sambil berdoa dan menyiram diri untuk membersihkan jiwa.
 
-Non-Hindu juga boleh ikut, asal menghormati budaya dan tata caranya.
+Non-Hindu juga boleh ikut, asal hormati budaya dan aturannya.
 
-**Ketentuan Ikut Serta:**
+**Hal yang Perlu Kamu Tahu:**
 
 - Pakai Sarong dan sabuk (disediakan gratis oleh pura)
-- Bisa siapin [Canang Sari](/id/blog/bali-canang-sari-explained/) (sesajen) beli di luar pura
+- Siapkan [Canang Sari](/id/blog/bali-canang-sari-explained/) (sesajen) — bisa beli di luar pura
 - Jaga ketenangan, rendah hati, dan hormat
-- Ikuti urutan air suci untuk pemurnian (bisa minta bantuan pemandu)
+- Ikuti urutan air suci untuk pembersihan (bisa minta bantuan pemandu)
 
 > Baca juga: [Tradisi Sembahyang di Bali: Canang Sari](/id/blog/bali-canang-sari-explained/)
 
-### Prosedur & Urutan yang Benar dalam Ritual Pemurnian Air Suci
+### Prosedur & Urutan Ritual Pembersihan Air Suci yang Benar
 
-Ritual pemurnian air suci ini keliatannya simpel, tapi sebenarnya ada urutan dan aturan tertentu yang wajib diikuti:
+Ritual pembersihan air suci kelihatannya simpel, tapi sebenarnya ada urutan dan aturan tertentu — wajib diikuti ya:
 
-1. **Pakaian & Persiapan**: Ganti sarong hijau tradisional dan sabuk, taruh barang bawaan di loker, lalu menuju ke area kolam air suci.
-2. **Mulai Proses Pemurnian**: Saat menghadap kolam air suci, **mulailah dari kolam sebelah kiri**, ikuti urutan pancuran satu per satu untuk berdoa dan pemurnian.
-3. **Lewati Dua Pancuran Khusus (Tirta Pengentas)**: **Lewati pancuran kedua dan ketiga dari ujung di kolam kiri**, karena ini khusus untuk ritual pemurnian arwah orang meninggal — jangan dipakai kalau bukan urusan duka.
-4. **Setelah Kolam Kiri Selesai, Lanjut ke Kolam Kanan**: Di kolam air suci kanan, cukup lakukan pemurnian di pancuran pertama saja, nggak perlu satu per satu.
-5. **Langkah Pemurnian di Setiap Pancuran:**
-6. - Tangan bersedekap, hadap pancuran, ucapkan doa atau harapan dalam hati.
+1. **Pakaian & Persiapan**: Ganti Sarong (kain tradisional) hijau dan sabuk, simpan barang di loker, lalu menuju ke kolam air suci.
+2. **Mulai Proses Pembersihan**: Saat menghadap kolam, **mulailah dari kolam sebelah kiri**, ikuti urutan pancuran satu per satu untuk berdoa dan membersihkan diri.
+3. **Lewati Dua Pancuran Khusus (Tirta Pengentas)**: **Jangan gunakan pancuran kedua dan ketiga dari ujung di kolam kiri** — ini khusus untuk ritual pembersihan arwah orang meninggal, bukan untuk yang tidak sedang berduka.
+4. **Setelah selesai kolam kiri, lanjut ke kolam kanan**: Di kolam kanan, cukup lakukan pembersihan di pancuran pertama saja, nggak perlu satu per satu.
+5. **Langkah pembersihan di setiap pancuran:**
+6. - Tangan bersedekap, hadap pancuran, baca doa atau harapan dalam hati.
 
-- Basahi rambut dengan air pancuran, melambangkan membersihkan pikiran kotor dan kelelahan.
-- Percikkan air suci ke seluruh tubuh, untuk pemurnian batin dan lahir serta kelahiran kembali spiritual.
+- Basahi rambut dengan air pancuran, melambangkan membersihkan pikiran kacau dan lelah.
+- Percikkan air suci ke seluruh tubuh, untuk pembersihan lahir batin dan kelahiran kembali spiritual.
 
-Air pancuran yang sejuk bening mengalir ke seluruh tubuh, rasanya seperti menghapus penat perjalanan dan beban pikiran. Ritual jiwa raga kayak gini bukan cuma bikin hati tenang, tapi juga pengalaman budaya yang dalam dan nggak terlupakan — wajib coba banget!
+Air pancuran yang sejuk bening mengalir ke seluruh tubuh, rasanya seperti menghapus penat perjalanan dan beban pikiran. Ritual jiwa raga ini bukan cuma bikin hati tenang, tapi juga pengalaman budaya yang dalam dan nggak terlupakan — worth it banget buat dicoba!
 
-> [Ikutan puluhan tur kombinasi Pura Tirta Empul rating bagus di Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1070477&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA)
+> [Ikut tur harian rating tinggi dari Klook yang kombinasikan Tirta Empul dengan banyak tempat seru](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1070477&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA)
 
 ***
 
-## Mengenal Tiga Area Utama Tirta Empul
+## Tiga Area Utama Tirta Empul
 
 **Halaman Luar (Jaba Pura)**
 
-![Mengenal Tiga Area Utama Tirta Empul](https://images.gobaligo.id/vocus/vocus_3f2cc19c62eca50170a62be966baf1f4.jpg)
+![Tirta Empul 的三大區域介紹](https://images.gobaligo.id/vocus/vocus_3f2cc19c62eca50170a62be966baf1f4.jpg)
 
-Setelah masuk gerbang pura, kamu langsung sampai di halaman luar. Ada kolam ikan koi yang tenang dan dikelilingi tanaman hijau — cocok banget buat meditasi atau sekadar menenangkan pikiran.
+Setelah masuk gerbang pura, kamu akan sampai di halaman luar. Ada kolam ikan koi yang tenang dan tanaman hijau di sekelilingnya — cocok banget buat meditasi atau sekadar menenangkan pikiran.
 
 **Halaman Tengah (Jaba Tengah)**
 
-![Mengenal Tiga Area Utama Tirta Empul](https://images.gobaligo.id/vocus/vocus_4700e8862974289fdc9dfce583117aec.jpg)
+![Tirta Empul 的三大區域介紹](https://images.gobaligo.id/vocus/vocus_4700e8862974289fdc9dfce583117aec.jpg)
 
-Ini area utama untuk ritual penyucian. Ada dua kolam besar dengan 26 sumber mata air, dan setiap sumber punya makna doa yang berbeda-beda.
+Ini area utama untuk upacara pemurnian. Ada dua kolam besar dan 26 pancuran air, di mana setiap sumber air melambangkan doa spiritual yang berbeda.
 
-**Makna Penting dari Beberapa Sumber Air:**
+**Makna Pancuran Air Penting:**
 
 - Tirta Sudamala: pemurnian jiwa
 - Tirta Penglukatan: menghilangkan energi negatif
-- Tirta Panegtegan: memperkuat keberanian dan keyakinan
+- Tirta Panegtegan: meningkatkan keberanian dan kepercayaan diri
 
-Catatan: beberapa sumber air (misalnya Tirta Pengentas) hanya digunakan untuk upacara kematian — jangan sampai salah pakai ya.
+Catatan: beberapa pancuran (seperti Tirta Pengentas) hanya digunakan untuk upacara kematian, jadi jangan sampai salah pakai ya.
 
 **Halaman Dalam (Jeroan)**
 
-![Mengenal Tiga Area Utama Tirta Empul](https://images.gobaligo.id/vocus/vocus_623a206ab810a4a260d720844b62f5f3.jpg)
+![Tirta Empul 的三大區域介紹](https://images.gobaligo.id/vocus/vocus_623a206ab810a4a260d720844b62f5f3.jpg)
 
-Area paling sakral, ada pura utama dan sumber mata air. Tempat ini dipakai untuk duduk hening dan berdoa setelah selesai menjalani ritual Melukat. Biasanya non-Hindu tidak disarankan masuk sembarangan.
+Area paling sakral, ada pura utama dan sumber mata air. Tempat ini dipakai untuk duduk tenang dan berdoa setelah selesai upacara Melukat. Biasanya non-Hindu tidak disarankan masuk sembarangan.
 
 ***
 
-## Waktu Kunjungan & Rekomendasi Itinerary
+## Waktu Kunjungan & Tips Itinerary
 
-**Waktu terbaik:**
+**Waktu Terbaik:**
 
-- Sebelum jam 8 pagi paling sepi, cocok buat meditasi dan bersih-bersih diri
-- Bulan purnama & bulan baru (Purnama, Tilem) pas banget buat ritual spiritual
-- Hari raya kayak Galungan, Kuningan suasananya rame banget
+- Sebelum jam 8 pagi paling sepi, cocok buat meditasi dan bersihin diri
+- Bulan purnama & bulan baru (Purnama, Tilem) cocok buat ritual spiritual
+- Hari raya kayak Galungan, Kuningan suasananya ramai banget
 
-**Durasi yang disarankan:**
+**Estimasi waktu yang dibutuhkan:**
 
 - Kunjungan singkat: 30–60 menit
 - Ikut Melukat: 1,5–2 jam
 - Kalau mau foto-foto dan duduk santai, bisa atur setengah hari
 
-> [Ikut tur one day trip rating tinggi dari Klook yang gabungin beberapa tempat termasuk Pura Tirta Empul](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1070477&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA)
+> [Ikutan tur sehari penuh yang seru dari Klook, banyak pilihan kombinasi dengan Tirta Empul](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1070477&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA)
 
 ***
 
@@ -132,11 +134,11 @@ Area paling sakral, ada pura utama dan sumber mata air. Tempat ini dipakai untuk
 
 Alamat: Kecamatan Tampaksiring, Gianyar, Bali
 
-**Saran Transportasi:**
+**Saran transportasi:**
 
-- Sewa mobil pribadi paling enak
+- Sewa mobil pribadi paling gampang
 
-**Referensi Jarak:**
+**Perkiraan jarak:**
 
 - Dari Ubud: sekitar 40 menit
 - Dari Kuta/Bandara: sekitar 2 jam
@@ -145,80 +147,80 @@ Alamat: Kecamatan Tampaksiring, Gianyar, Bali
 
 - Dewasa: Rp 75.000
 - Anak-anak (5–12 tahun): Rp 50.000
-- Balita: gratis
+- Balita: Gratis
 
 **Jam Buka:**
 
 - Setiap hari 08:00 – 18:00
-- Pura buka 24 jam untuk umat Hindu sepanjang tahun
+- Pura buka 24 jam untuk umat setiap hari
 
 ***
 
 ## Aturan Berpakaian & Tata Cara Sembahyang
 
-![Aturan Berpakaian & Tata Cara Sembahyang](https://images.gobaligo.id/vocus/vocus_de538df8b6d201321be97e49b49d502a.jpg)
+![衣著規範與參拜禮儀](https://images.gobaligo.id/vocus/vocus_de538df8b6d201321be97e49b49d502a.jpg)
 
-**Wajib pakai:**
+**Pakaian Wajib:**
 
-- Sarong dan Sash (ikat pinggang) disediakan gratis
+- Sarong dan Sash disediakan gratis
 - Bahu harus tertutup, hindari pakai tank top atau celana pendek
-- Cowok boleh pakai Udeng (opsional)
+- Pria boleh pakai Udeng (tidak wajib)
 
-**Yang dilarang:**
+**Hal yang Dilarang:**
 
-- Perempuan lagi haid dilarang masuk ke area utama pura
+- Wanita yang sedang menstruasi dilarang masuk ke area utama pura
 - Dilarang menginjak altar atau meja sesajen
 - Jaga ketenangan, hormati yang sedang beribadah
 - Dilarang buang sampah sembarangan atau bikin ribut
 
-> [Ikutan day trip seru dari Klook yang gabungin Pura Tirta Empul dengan puluhan destinasi lainnya](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1070477&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA)
+> [Ikuti tur harian terbaik ke Pura Tirta Empul dari Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1070477&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA)
 
-## Pura Tirta Empul Lain yang Tersembunyi
+## Pura Suci Lainnya yang Tersembunyi
 
 ![Dalem Pingit聖泉有著圖左的瀑布灌頂/Pura Gunung Kawi聖泉有壯觀的石壁雕刻](https://images.gobaligo.id/vocus/vocus_a0e641fa72cd5443fbfe00f02e4c1894.jpg)
 
-Dalem Pingit punya air suci dengan pancuran air terjun di sebelah kiri / Pura Gunung Kawi punya air suci dengan ukiran batu yang megah
+Dalem Pingit punya air suci dengan air terjun di kiri foto / Pura Gunung Kawi punya ukiran batu yang megah
 
-Kebanyakan blog travel cuma bahas satu pura air suci paling terkenal di Ubud, yaitu Pura Tirta Empul. Padahal, setahuku, di Ubud minimal ada tiga pura air suci, lho!
+Blog travel biasanya cuma ngenalin satu Pura Tirta Empul yang terkenal di Ubud, padahal setahuku, minimal ada tiga pura suci di sini!
 
-Selain Pura Tirta Empul yang udah terkenal banget, di Ubud masih ada dua pura lain yang tersembunyi di sudut yang tenang. Jaraknya nggak terlalu jauh satu sama lain, cocok banget buat kamu yang suka eksplorasi. Dua pura air suci ini nggak cuma bikin kamu merasakan budaya religius khas Bali, tapi juga bisa menikmati pengalaman mandi suci yang tulus dan damai di suasana yang lebih sepi.
+Selain Pura Tirta Empul yang udah populer, ada dua pura suci lain yang tersembunyi di sudut-sudut tenang, jaraknya nggak terlalu jauh satu sama lain, siap dieksplor. Dua pura suci ini nggak cuma bikin kamu merasakan budaya religius khas Bali, tapi juga bisa menikmati pengalaman mandi suci yang tulus dan damai di suasana yang lebih sepi.
 
-Ini dia dua pura air suci lain yang kami rekomendasikan buat kamu:
+Nah, ini dua pura suci lainnya yang wajib kamu kunjungi:
 
-**Dalem Pingit** adalah sebuah pura yang cukup tersembunyi. Pura ini nggak cuma punya arsitektur yang unik, tapi mata air sucinya juga sangat dihormati sama umat lokal. Di lingkungan yang tenang ini, kamu bisa merasakan ketulusan dan kedamaian agama asli Bali. Dalem Pingit terkenal banget sama mata air suci air terjunnya yang cantik.
+**Dalem Pingit** — pura yang cukup tersembunyi dan jarang diketahui banyak orang. Selain arsitekturnya yang unik, air suci di sini juga sangat dihormati oleh penduduk setempat. Suasana tenang di sini bikin kamu bisa merasakan keaslian spiritual Bali yang damai banget. Dalem Pingit terkenal dengan air terjun sucinya yang cantik.
 
-**Pura Gunung Kawi** adalah pura yang terkenal dengan ukiran batunya. Selain patung-patung kuno, di sini juga ada mata air suci tersembunyi yang bisa dipakai buat mandi dan minta berkah. Area pura yang damai ini penuh misteri, bikin kamu serasa kembali ke masa lalu dan merasakan kesakralan kuno Bali.
+**Pura Gunung Kawi** — pura yang terkenal dengan ukiran batu kuno. Selain patung-patung bersejarah, ada juga sumber air suci tersembunyi yang bisa dipakai buat mandi dan minta berkah. Suasana mistis di sini bikin kamu serasa kembali ke masa lalu, merasakan sakralnya Bali tempo dulu.
 
-Dua pura suci yang beda ini masing-masing punya pesona dan budaya yang unik. Selain itu, mereka juga punya tempat mandi yang cukup sepi, jadi kamu bisa nemuin ketenangan dan penyucian diri di suasana sakral Bali.
+Dua pura suci ini punya pesona dan budaya masing-masing, plus suasananya lebih sepi dan tenang. Cocok banget buat kamu yang pengen merasakan ketenangan dan penyucian diri di tengah aura sakral Bali.
 
 > [Tirta Empul Temple身心洗禮 & 烏布探索之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74830-purification-ritual-tirta-empul-holy-water-temple-ubud-tour-private-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5a56695d49)
 
-> 人少很多的聖泉[烏布心靈之旅 & 淨化體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97096-spiritual-journey-purification-healing-ritual-ubud-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D04bd5eb44f)
+> 聖泉 yang lebih sepi pengunjung [烏布心靈之旅 & 淨化體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97096-spiritual-journey-purification-healing-ritual-ubud-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D04bd5eb44f)
 
 {{block:ubud}}
 
 ***
 
-## Pertanyaan Umum FAQ
+## FAQ (Pertanyaan yang Sering Ditanyakan)
 
-### 1. Apakah non-Hindu bisa ikut ritual Melukat di Tirta Empul?
+### 1. Apakah non-Hindu boleh ikut upacara Melukat di Tirta Empul?
 
-Bisa banget. Kamu cuma perlu hormati budaya lokal dan aturan ritualnya, serta jaga sopan santun, pasti aman kok.
+Boleh banget. Asal hormati budaya lokal dan aturan upacaranya, serta jaga sikap sopan, kamu bisa ikut dengan tenang.
 
 ### 2. Apakah disediakan sarung saat masuk?
 
-Iya, pas masuk pura bakal dikasih Sarong dan sabuk gratis, nggak perlu bawa sendiri.
+Iya. Saat masuk pura, kamu bakal dikasih sarung dan sabuk gratis, nggak perlu bawa sendiri.
 
-### 3. Air pancuran suci bisa diminum nggak?
+### 3. Airnya bisa diminum nggak?
 
-Nggak disarankan langsung diminum. Air pancuran suci ini utamanya buat keperluan ritual, belum diolah atau disaring.
+Nggak disarankan langsung diminum. Airnya terutama buat keperluan upacara, belum diolah buat konsumsi.
 
 ### 4. Bisa jalan-jalan sendiri tanpa pemandu?
 
-Bisa aja. Tapi kalau kamu mau lebih ngerti makna air suci dan prosesi ritualnya, mending pake pemandu lokal.
+Bisa. Tapi kalau mau lebih paham makna air dan prosesi upacaranya, mending pakai pemandu lokal.
 
-### 5. Boleh foto-foto di dalam pura?
+### 5. Boleh foto di dalam pura?
 
-Boleh kok, tapi jangan ganggu orang yang lagi ibadah atau prosesi, dan hindari memotret mereka yang lagi berdoa.
+Boleh foto-foto, tapi jangan ganggu orang yang lagi upacara, dan hindari mengganggu umat yang sedang berdoa.
 
 {{block:klook}}

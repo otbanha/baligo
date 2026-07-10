@@ -1,11 +1,13 @@
 ---
 slug: nusa-penida-cliff-elevator
-title: Construction begins on Nusa Penida's cliff elevator!
+title: Construction of the cliff elevator on Nusa Penida has begun!
 description: >-
-  The new 182-meter glass elevator project on Nusa Penida's cliffs has garnered
-  widespread attention. This project not only alters the local landscape but has
-  also sparked heated discussions among the local community and tourists.
+  The new 182-meter glass elevator project on the cliffs of Nusa Penida has
+  drawn widespread attention. This project not only transforms the local
+  landscape but has also sparked heated discussions among the local community
+  and tourists.
 pubDate: '2024-06-12'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_40702f02f5bc1898f442a7bea09c3e36.jpg'
 tags:
   - 佩尼達島
@@ -17,129 +19,130 @@ originalUrl: 'https://vocus.cc/article/6668f9f5fd89780001e844ca'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 189582c3f02689f837baab2951b5a80f
+_srcHash: 5db663de950d3b6986cdd0e272b0d553
 ---
+**Bottom line**: The Kelingking Beach cliff elevator project on Nusa Penida was proposed in 2023, planning to build a **182-meter glass elevator** directly connecting the cliff-top viewpoint to the beach, with multiple observation platforms along the way. It is a controversial tourism development project (involving environmental and local community concerns). It is recommended to check the latest construction progress before visiting.
 
-Recently, the new 182-meter glass elevator project on Nusa Penida's cliffs has attracted significant attention. This initiative not only transforms the local scenery but has also ignited lively debates among residents and visitors alike. This article provides a comprehensive overview of the controversial project's background, design, economic impact, and environmental concerns.
+Recently, the new 182-meter glass elevator project on the cliffs of Nusa Penida has attracted widespread attention. This project not only changes the local scenery but has also sparked lively debates among the local community and tourists. This article provides a comprehensive overview of the background, design, economic impact, and environmental concerns of this controversial project.
 
-![Construction begins on Nusa Penida's cliff elevator!](https://images.gobaligo.id/vocus/vocus_505b89f8f349d60e5f1110515d942a6d.jpg)
+![佩尼達島懸崖電梯開始動工了！](https://images.gobaligo.id/vocus/vocus_505b89f8f349d60e5f1110515d942a6d.jpg)
 
 ## Background of the Nusa Penida Cliff Elevator Project
 
 ### Overview
 
-The cliff elevator project at Kelingking Beach on Nusa Penida was first proposed in 2023, aiming to enhance the tourist experience by providing direct access from the cliff top to the famous Kelingking Beach.
+The cliff elevator project at Kelingking Beach on Nusa Penida was first proposed in 2023, aiming to enhance the tourism experience by allowing visitors to easily reach the famous Kelingking Beach directly from the cliff top.
 
-### Project Announcement
+### Project Proposal Timeline
 
-The project was publicly announced in 2023, immediately capturing widespread attention and generating mixed reactions of support and opposition.
+This project was first publicly announced in 2023, immediately drawing significant attention, with both supportive and opposing voices echoing loudly.
 
 ## Design and Features of the Cliff Elevator
 
 ### 182-Meter Glass Elevator
 
-The project plans to construct a 182-meter-high glass elevator shaft directly connecting the cliff-top viewpoint with Kelingking Beach.
+The project plans to build a 182-meter glass elevator shaft, directly connecting the cliff-top viewpoint with Kelingking Beach.
 
-### Viewing Platform Design
+### Observation Deck Design
 
-The design proposal includes multiple viewing platforms and walkways along the elevator shaft, allowing visitors to enjoy the stunning ocean views from various heights.
+The design includes multiple observation decks and walkways along the elevator shaft, allowing visitors to enjoy the stunning sea views at different heights.
 
-## Reasons Supporting Economic and Tourism Development
+## Arguments in Favor of Economic and Tourism Development
 
 ### Support from Local Leaders
 
-Many local leaders support this project, believing it will boost economic growth, create job opportunities, and enhance tourism.
+Many local leaders support this project, believing it will boost economic development, create job opportunities, and enhance tourism.
 
 ### Economic and Employment Opportunities
 
-This project is expected to generate numerous job opportunities for local residents and attract more tourists, further stimulating the local economy.
+The project is expected to generate a significant number of jobs for local residents and attract more tourists, further stimulating the local economy.
 
-## Environmental Impact and Local Community Concerns
+## Environmental Impact and Concerns of the Local Community
 
-### Opposition from Environmental Groups
+### Environmental Groups' Opposition
 
-Environmental groups and many local residents are concerned that this project may cause irreversible damage to the environment, including impacts on cliff ecosystems and local wildlife.
+Environmental groups and many local residents are concerned that this project could cause irreversible damage to the environment, including impacts on the cliff ecosystem and local wildlife.
 
-### Recent Environmental Disaster Cases
+### Recent Environmental Disasters
 
-The recent construction landslide incident at Pemutih Peactu Beach in Uluwatu has raised concerns about the potential for similar issues with the Nusa Penida Cliff Elevator project.
+A recent construction landslide at Pemutih Peactu Beach in Uluwatu has raised concerns that the Nusa Penida cliff elevator project could trigger similar problems.
 
-![Recent Environmental Disaster Cases](https://images.gobaligo.id/vocus/vocus_4d35f44916ca506e943964111b19c803.png)
+![近年來的環境災害案例](https://images.gobaligo.id/vocus/vocus_4d35f44916ca506e943964111b19c803.png)
 
-## Project Commencement and Future Development
+## Project Launch and Future Development
 
 ### Groundbreaking Ceremony
 
-The project officially broke ground at the end of 2023, with regional leaders, local communities, and private investors attending the ceremony.
+The project officially broke ground in late 2023, with a ceremony attended by regional leaders, the local community, and private investors.
 
 ### Project Construction Timeline
 
-Construction has now officially begun and is expected to be completed and open to the public within the next few years.
+Construction is now underway and is expected to be completed and open to the public within the next few years.
 
-## The Role of Chinese Investment Companies
+## The Role of the Chinese Investment Company
 
 ### Investment and Construction Team
 
-This project is jointly developed by Chinese investment company PT Bina Nusa Properti (PT BNP) in collaboration with the local Karang Dawa Traditional Banjar, with at least 50% of the construction workforce sourced from local labor.
+This project is a collaboration between Chinese investment company PT Bina Nusa Properti (PT BNP) and the local Karang Dawa Traditional Banjar, with at least 50% of the construction workforce sourced from local laborers.
 
 ### Local Collaboration
 
-PT BNP emphasizes cooperation with local communities and commits to adhering to strict environmental standards during construction.
+PT BNP emphasizes cooperation with the local community and has committed to adhering to strict environmental standards throughout the construction process.
 
 ## Government Oversight and Regulatory Compliance
 
-### Statement from the Bali Tourism Board
+### Statement from the Bali Provincial Tourism Office
 
-In 2023, Tjok Bagus Pemayun, head of the Bali Tourism Board, expressed hope that the Klungkung Regency government would strictly oversee the construction process to ensure compliance with all regulations.
+In 2023, Tjok Bagus Pemayun, head of the Bali Provincial Tourism Office, stated that he hopes the Klungkung Regency government will strictly oversee the project's construction to ensure full compliance with all regulations.
 
-### Supervision Measures
+### Oversight Measures
 
-The government emphasizes the implementation of strict supervision measures to ensure the project does not negatively impact Bali's image.
+The government has emphasized that strict oversight measures will be implemented to ensure the project does not negatively impact Bali's image.
 
 ## Current Controversies in Tourism Development
 
-### Spatial Planning Issues
+### Space Planning Issues
 
-In recent weeks, an increasing number of leaders and tourism stakeholders have raised concerns about over-tourism development and spatial planning issues.
+In recent weeks, a growing number of leaders and tourism stakeholders have raised concerns about overtourism development and space planning issues.
 
-### Voices from the Local Community
+### Voices of Local Residents
 
-Many local residents believe that excessive development could damage the area's natural beauty and traditional way of life.
+Many local residents believe that overdevelopment could damage the area's natural beauty and traditional way of life.
 
 ## Other New Projects
 
-### Construction of New Residential Areas
+### Construction of a New Residential Area
 
-Recently, a new residential development project near Kelingking Beach has also begun, sparking public attention and controversy.
+Recently, a new residential development project has also begun near Kelingking Beach, drawing public attention and controversy.
 
 ### Development Permits and Land Use
 
-The construction permit for this residential area was first submitted in 2019. Land clearing and preliminary landscaping have already been completed, with foundation work set to begin in the coming weeks.
+The construction permit for this residential area was first submitted in 2019, and land clearing and preliminary landscaping have already been completed, with foundation work expected to begin in the coming weeks.
 
-![Development Permits and Land Use](https://images.gobaligo.id/vocus/vocus_38f5ba2458d5fa1a83c47e5e7b6acca0.jpg)
+![發展許可與土地利用](https://images.gobaligo.id/vocus/vocus_38f5ba2458d5fa1a83c47e5e7b6acca0.jpg)
 
-## Summary
+## **Summary**
 
-The cliff elevator project in Nusa Penida will undoubtedly have a significant impact on local tourism and the economy. However, it also brings numerous environmental and social issues that require careful consideration and regulation. As construction progresses, we will continue to monitor the development of this project, hoping that all parties can find a balance between economic growth and environmental protection.
+The cliff elevator project in Nusa Penida will undoubtedly have a significant impact on local tourism and the economy. However, it also brings numerous environmental and social issues that require careful handling and regulation. As construction progresses, we will continue to monitor the development of this project, hoping that all parties can find a balance between economic growth and environmental protection.
 
 ## Frequently Asked Questions
 
-**1. When will the cliff elevator project be completed?** It is currently expected to be completed in the coming years, though a specific timeline has not yet been finalized.
+**1. When will the cliff elevator project be completed?** It is currently expected to be completed within the next few years, though a specific timeline has not yet been set.
 
-**2. How Will the Project Impact Local Residents?** The project will create job opportunities and boost economic development, but it has also raised concerns about environmental and social issues.
+**2. What impact will the project have on local residents?** The project will create job opportunities and boost economic development, but it has also raised concerns about environmental and social issues.
 
-**3. How Will the Government Oversee the Project?** The government emphasizes that strict oversight measures will be implemented to ensure the project complies with all regulations and minimizes environmental impact.
+**3. How will the government oversee the project?** The government emphasizes that strict oversight measures will be implemented to ensure the project complies with all regulations and minimizes environmental impact.
 
-**4. What Are the Potential Environmental Impacts of the Project?** It may harm the cliff ecosystem and local wildlife, necessitating strict monitoring and protective measures.
+**4. What are the potential environmental impacts of the project?** It may cause damage to the cliff ecosystem and local wildlife, requiring rigorous regulation and protective measures.
 
-**5. What Is the Progress of the Residential Area Construction Project?** The construction permit for the residential area was submitted in 2019, and land clearing and landscaping work are currently underway in preparation for groundbreaking.
+**5. How is the residential construction project progressing?** The residential construction permit was submitted in 2019, and land clearing and landscaping work are currently underway in preparation for the foundation laying.
 
 ## Introduction to Nusa Penida
 
-We have a five-part series introducing Nusa Penida—let’s dive deeper into this island paradise!
+We have five episodes introducing Nusa Penida—let's dive deeper into this island paradise!
 
-1. [Bali - Nusa Penida Complete Guide: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/en/blog/nusa-penida-guide/)
-2. [Nusa Penida Cuisine and Azure Skies: Top 9 Must-Try Experiences](/en/blog/nusa-penida-best-restaurants/)
-3. [Nusa Penida Snorkeling Spots: How to Join a Snorkeling Tour?](/en/blog/nusa-penida-snorkeling-guide/)
-4. [Nusa Penida Transportation Guide: Taxis, Gojek/Grab, Private Cars, and Motorbikes](/en/blog/nusa-penida-transport-guide/)
-5. [Nusa Penida Accommodation Recommendations: 13 Highly Rated Options from Luxury to Budget](/en/blog/nusa-penida-hotels-guide/)
+1. [【Bali - Nusa Penida Complete Guide】Map, Ferry, Accommodation, Transportation, Private Tours, Activities, Photography, Attractions](/en/blog/nusa-penida-guide/)
+2. [Nusa Penida Food and Blue Skies: Top 9 Best Choices on Nusa Penida](/en/blog/nusa-penida-best-restaurants/)
+3. [Nusa Penida Snorkeling Spots Guide: How to Join a Snorkeling Trip?](/en/blog/nusa-penida-snorkeling-guide/)
+4. [Nusa Penida Taxi, Gojek/Grab, Private Car, and Scooter Transportation Guide](/en/blog/nusa-penida-transport-guide/)
+5. [Nusa Penida Accommodation Recommendations: 13 Highly-Rated Stays from Luxury to Budget](/en/blog/nusa-penida-hotels-guide/)

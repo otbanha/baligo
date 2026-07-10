@@ -1,13 +1,14 @@
 ---
 slug: ubud-waterfalls-guide
 title: >-
-  Exploring Bali's Top 3 Waterfalls Near Ubud: Tegenungan, Kanto Lampo, and
-  Tukad Cepung
+  Three Famous Waterfalls Near Ubud, Bali: Tegenungan, Kanto Lampo, and Tukad
+  Cepung
 description: >-
-  Ubud, Bali, is home to many stunning waterfalls that attract nature lovers
-  from around the world. In this article, we’ll explore three of the most famous
-  waterfalls near Ubud: Tegenungan, Kanto Lampo, and Tukad Cepung.
+  Ubud is home to many stunning waterfalls that draw nature lovers from around
+  the world. In this article, we'll explore three famous waterfalls near Ubud:
+  Tegenungan, Kanto Lampo, and Tukad Cepung.
 pubDate: 2023-07-19T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 美食景點活動
 tags:
@@ -19,85 +20,86 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e74bbb16a16cd1b0f28c1d1b99c23329.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b82fd897800013a995f'
 lang: en
-_srcHash: 00f0cb5937379e309614c1232d87cf03
+_srcHash: 93df6223cf88fff835fdbd6a25c15464
 ---
+**Bottom line**: Each of Ubud's three major waterfalls has its own charm—**Tegenungan** (about 10 km from Ubud, ideal for a day trip, with activities like swimming, river rafting, and cliff jumping), **Kanto Lampo** (a popular Instagram hotspot), and **Tukad Cepung** (about a 2-hour drive, requires climbing 160 steps, famous for its ethereal photos with light streaming into the canyon). If you only have time for one, Tegenungan is the most convenient and time-efficient choice.
 
-Ubud, a serene town located in the heart of Bali, Indonesia, is renowned for its breathtaking natural beauty and cultural heritage. Here, you’ll also find numerous stunning waterfalls that draw nature enthusiasts from across the globe. In this article, we’ll delve into three of the most famous waterfalls near Ubud: Tegenungan, Kanto Lampo, and Tukad Cepung. Each waterfall boasts its own unique charm and allure, offering visitors unforgettable experiences in the wonders of nature.
+Ubud is a tranquil town in the heart of Bali, Indonesia, renowned for its breathtaking natural beauty and cultural heritage. It also boasts many stunning waterfalls that attract nature enthusiasts from all over the world. In this article, we'll explore three famous waterfalls near Ubud: Tegenungan, Kanto Lampo, and Tukad Cepung. Each waterfall has its own unique charm and appeal, offering visitors an unforgettable experience of nature's wonders.
 
-## **Tegenungan Waterfall: Majestic and Serene**
+## **Tegenungan Waterfall: Grand and Serene**
 
-![Tegenungan Waterfall: Majestic and Serene](https://images.gobaligo.id/vocus/vocus_6a9db9041f0434772c136e35c8293b08.jpg)
+![Tegenungan瀑布：宏偉而寧靜的瀑布](https://images.gobaligo.id/vocus/vocus_6a9db9041f0434772c136e35c8293b08.jpg)
 
-**▶ Location and Access**
+**▶Location and Access**
 
-Tegenungan Waterfall is located about 10 kilometers from Ubud, making it easily accessible and perfect for a day trip. Its convenient location allows visitors to enjoy the waterfall’s beauty without a strenuous journey.
+Tegenungan Waterfall is about 10 kilometers from Ubud, easily accessible and perfect for a day trip. Its convenient location allows visitors to enjoy the waterfall's beauty without a strenuous journey.
 
-**▶ Natural Beauty**
+**▶Natural Beauty**
 
-Upon arriving at Tegenungan Waterfall, visitors are greeted by a majestic cascade of water plunging from a height into a crystal-clear pool below. The lush surroundings create a tranquil atmosphere, offering a green oasis amidst the tropical jungle.
+Upon arriving at Tegenungan Waterfall, visitors are greeted by a majestic cascade of water plunging from a height into a clear pool below. The lush surroundings create a serene atmosphere, offering an oasis within the tropical jungle.
 
-**▶ Diverse Activities**
+**▶Diverse Activities**
 
-Tegenungan Waterfall offers a variety of activities to suit different preferences. Adventure seekers can cool off in the natural pool or partake in thrilling water activities like river tubing or cliff jumping. For those seeking a more relaxed experience, the area around the waterfall provides ideal spots for picnics or simply enjoying peaceful moments surrounded by nature’s beauty.
+Tegenungan Waterfall offers a variety of activities to suit different preferences. Adventurers can cool off in the natural pool or take part in thrilling water activities like river tubing or cliff jumping. For those seeking a more relaxed experience, the area around the waterfall provides ideal picnic spots or simply a peaceful time surrounded by nature's beauty.
 
-Now there are pool clubs on both sides of the waterfall where you can fully immerse yourself in the beauty of nature.
+https://youtube.com/shorts/BBIXmPYUPZo
 
-▶[OMMA Dayclub Bali: Experience the chill vibe and relaxing moments under the sun](/en/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+Now, there are also two pool clubs on either side of the waterfall, where you can fully immerse yourself in the beauty of nature.
+
+▶[OMMA Dayclub Bali: Soak Up the Chill Vibes and Leisurely Moments in the Sun](/en/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 ▶[D'tukad River Club](https://youtube.com/shorts/WdPWlqgn_jY)
 
-▶**Here's Jay's travelogue for your reference:**
+▶**Here’s a travelogue from Jay for your reference:**
 
-__VID0__
+https://youtu.be/d5sQbfgrO14
 
-## **Kanto Lampo Waterfall: A Masterpiece Painted by Nature**
+## **Kanto Lampo Waterfall: A Painting Painted by Nature**
 
 https://youtube.com/shorts/w-gzis-G6OI
 
-▶**Hidden Gem**
+▶**A Hidden Gem**
 
-Kanto Lampo Waterfall, located in the Gianyar region, is a hidden gem waiting to be discovered. Although reaching here might require more effort compared to Tegenungan Waterfall, the journey is definitely worth it, especially for those seeking a unique and less crowded experience.
-
-Kanto Lampo瀑布位於吉安雅（Gianyar）地區，是一個隱藏的寶石，等待被發現。雖然相比Tegenungan瀑布，到達這裡可能需要更多努力，但這段旅程絕對是值得的，尤其是尋求獨特和不那麼擁擠體驗的人。
+Located in the Gianyar region, Kanto Lampo Waterfall is a hidden gem waiting to be discovered. While reaching it may require a bit more effort compared to Tegenungan Waterfall, the journey is absolutely worth it—especially for those seeking a unique and less crowded experience.
 
 ▶**A Photographer's Paradise**
 
-Kanto Lampo Waterfall is a true visual marvel, where nature paints a picturesque canvas. The cascading waters sprinkle over moss-covered rocks, creating an aura of mystery. This enchanting scenery makes it a favorite among photographers seeking to capture the raw beauty of Bali's natural landscapes.
+Kanto Lampo Waterfall is a true visual marvel, where nature paints a picturesque scene. The cascading water splashes over moss-covered rocks, creating a mystical atmosphere. This enchanting view makes it a favorite among photographers hoping to capture the raw beauty of Bali's natural landscape.
 
 **▶A Refreshing Natural Pool**
 
-Beyond its visual appeal, Kanto Lampo Waterfall offers a refreshing natural pool where visitors can swim, escaping the tropical heat. The invigorating water and the sounds of nature create a rejuvenating atmosphere, restoring both body and mind.
+Beyond its visual appeal, Kanto Lampo Waterfall offers a refreshing natural pool where visitors can take a dip and escape the tropical heat. The invigorating water and the sounds of nature create a delightful ambiance that rejuvenates both body and mind.
 
-▶**Xiao Jie's Travel Guide:**
+▶**Xiao Jie's Travel Tips:**
 
 https://youtu.be/-0KOzA9nPGY
 
-## **Tukad Cepung Waterfall: A Charming Hidden Gem**
+## **Tukad Cepung Waterfall: A Captivating Hidden Treasure**
 
-![Tukad Cepung Waterfall: A Charming Hidden Gem](https://images.gobaligo.id/vocus/vocus_83d5c4a6079fa0ee5aa98ce68a90fe06.jpg)
+![Tukad Cepung瀑布：迷人的隱藏寶藏](https://images.gobaligo.id/vocus/vocus_83d5c4a6079fa0ee5aa98ce68a90fe06.jpg)
 
 **▶A Hidden Wonderland**
 
-Tukad Cepung Waterfall is a true hidden gem, nestled within a captivating cave. This enchanting waterfall is a testament to nature's artistry, as sunlight filters through the cave's opening, illuminating the falling waters and creating mesmerizing light and shadow effects.
+Tukad Cepung Waterfall is a true hidden treasure, tucked away inside a mesmerizing cave. This enchanting waterfall is a testament to nature's artistry, as sunlight streams through the cave's opening, illuminating the cascading water and creating a captivating play of light and shadow.
 
-**▶An Adventurous Exploration**
+**▶ An Adventurous Exploration**
 
-To reach Tukad Cepung Waterfall, visitors must navigate rugged trails and wade through knee-deep streams. This journey itself adds to the allure of this hidden treasure, immersing travelers fully in Bali's natural wonders.
+To reach Tukad Cepung Waterfall, visitors must navigate rugged trails and wade through knee-deep streams. The journey itself adds to the allure of this hidden gem, allowing travelers to fully immerse themselves in Bali's natural wonders.
 
-**▶Breathtaking Scenery**
+**▶ Breathtaking Beauty**
 
-As visitors emerge from the narrow cave entrance, they are awestruck by the breathtaking sight of Tukad Cepung Waterfall. The cascading water, lush green trees, and unique cave environment combine to create a surreal experience that leaves a lasting impression on all who visit.
+As visitors emerge from the narrow cave entrance, they are greeted by the stunning sight of Tukad Cepung Waterfall. The cascading water, lush greenery, and unique cave setting combine to create a surreal experience that leaves a lasting impression on all who visit.
 
-▶**Xiao Jie's Travel Guide:**
+▶ **Xiao Jie's Travel Tips:**
 
 https://youtu.be/Z7yPLNwrOrQ
 
 {{block:戶外}}
 
-### **Location Map of These Three Waterfalls: See "Ubud Guide Map":**
+### **For the locations of these three waterfalls, check out the 'Ubud Guide Map':**
 
 ![烏布攻略地圖按我](https://images.gobaligo.id/vocus/vocus_22b5db6bbf1dec3f61bce1cd11d7a188.png)
 
-[Click Here for Ubud Guide Map](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
+[Click here for the Ubud Guide Map](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
 {{block:ubud}}

@@ -5,6 +5,7 @@ description: >-
   计划 2026 年前往巴厘岛？最新电子入境海关申报（ECD）与「All Indonesia」系统全解析。本篇图解伍拉·赖国际机场 (DPS)
   最新通关流程：从下飞机、扫描 QR Code、过海关到领行李。同步更新观光税支付与落地签 (VoA) 办理秘诀，助您快速入境，开启完美海岛假期。
 pubDate: 2025-08-14T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 簽證通關
   - 新手指南
@@ -25,12 +26,13 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_79df9229a3131a48507912ff8ed38f07.png'
 originalUrl: 'https://vocus.cc/article/689dcce7fd8978000125fc52'
 lang: zh-cn
-_srcHash: 495672c5879fb73044571e09e27fb0e0
+_srcHash: deac42b8f7f292545aee315be52726de
 ---
+**先讲结论**：2025 年 8 月 18 日起，巴厘岛入境流程正式简化为 **3 步骤**——① 出发前先办好电子签证 eVisa ② 出发前 3 天内在 [All Indonesia 平台](https://allindonesia.imigrasi.go.id/)（AIAC）一次填完海关申报＋健康声明并截图 QR Code ③ 抵达后跟着 Arrival 标志走完通关领行李。比旧制的四步骤省了一道手续，以下图解完整流程。
 
 ### **📢 重要更新！2025年8月18日起，印尼全面启用「All Indonesia」入境卡申报系统**
 
-从此**不用再分开填写**海关申报（e-CD）、健康声明（SSHP），两个流程整合至 [**All Indonesia平台**](https://allindonesia.imigrasi.go.id/)（简称「AIAC」，All Indonesia Arrival Card），大幅简化入境手续！
+从此**不用再分开填写**海关申报（e-CD）、健康声明（SSHP），两个流程整合至 [**All Indonesia平台**](https://allindonesia.imigrasi.go.id/)（简称「AIAC」，All Indonesia Arrival Card），大幅简化入境手续！
 
 ***
 
@@ -39,7 +41,7 @@ _srcHash: 495672c5879fb73044571e09e27fb0e0
 ### **行前必做**：
 
 1. 务必先完成申请电子签证eVisa。请参考[这里](/zh-cn/blog/bali-evisa-application-guide/)有进一步的说明，避免进入诈骗网站。
-2. 出发前三天完成AIAC入境卡，并**截图QR Code**备查。请看我站整理[常见问题FAQ](/zh-cn/blog/bali-evisa-customs-health-declaration/)。
+2. 出发前三天完成AIAC入境卡，并**截图QR Code**备查。请看本站整理[常见问题FAQ](/zh-cn/blog/bali-evisa-customs-health-declaration/)。
 
 ![行前必做：](https://images.gobaligo.id/vocus/vocus_47def0beb4f9737f8e70065afa8db58b.png)
 
@@ -49,7 +51,7 @@ _srcHash: 495672c5879fb73044571e09e27fb0e0
 
 ### **2️⃣ 办理落地签（Visa on Arrival, VoA）**
 
-- **若未先申请电子签证**，需先至「落地签」柜台排队缴费（2025费用：50万印尼盾，约USD$32）。
+- **若未先申请电子签证**，需先至「Visa on Arrival」柜台排队缴费（2025费用：50万印尼盾，约USD$32）。
 - 持有电子签证eVisa/eVoA者略过此步骤。
 
 ### **3️⃣ 移民局查验（护照盖章）**
@@ -75,11 +77,11 @@ _srcHash: 495672c5879fb73044571e09e27fb0e0
 - 直接出示AIAC的QR Code。
 - **禁止携带**：肉类、水果、超额外币（＞1亿印尼盾）等，违者重罚。
 
-### **7️⃣ 缴纳巴厘岛观光税**
+### **7️⃣ 缴交巴厘岛观光税**
 
 - 费用：15万印尼盾/人（约USD$10）。
 
-▶️ 如何缴纳？请查看[观光税](/zh-cn/blog/2026-bali-tourism-tax-guide/)说明
+▶️ 如何缴交？请看[观光税](/zh-cn/blog/2026-bali-tourism-tax-guide/)说明
 
 👉**额外说明:** [入境印尼/巴厘岛的小朋友签证/儿童签证攻略](/zh-cn/blog/bali-child-visa-guide/)
 
@@ -87,7 +89,7 @@ _srcHash: 495672c5879fb73044571e09e27fb0e0
 
 看图一目了然
 
-![⏰ 多久前要办理？](https://images.gobaligo.id/images/2026-04/1776906855235-chatgpt_image_2026_4_23_08_13_09.png)
+![⏰ 多久前要辦理？](https://images.gobaligo.id/images/2026-04/1776906855235-chatgpt_image_2026_4_23_08_13_09.png)
 
 ***
 
@@ -96,7 +98,7 @@ _srcHash: 495672c5879fb73044571e09e27fb0e0
 1. **护照**（有效期＞6个月）
 2. **_电子签证_或_现金/刷卡办落地签_**
 3. **All Indonesia QR Code**（取代海关申报、健康声明）
-4. **观光税缴费证明**（电子版或纸本）
+4. **观光税缴费证明**（电子版或纸质）
 5. **回程机票、住宿订单**（移民官可能抽查）
 
 ***
@@ -113,7 +115,7 @@ _srcHash: 495672c5879fb73044571e09e27fb0e0
 
 通过海关后，恭喜您完成入境流程！现在可以前往接机大厅，与预订的司机或家人朋友会合，开启美好旅程！
 
-![通过海关后，恭喜你正式入境！](https://images.gobaligo.id/vocus/vocus_4e41a1f6d506de9fed49c3228e4407a8.png)
+![通過海關後，恭喜你正式入境！](https://images.gobaligo.id/vocus/vocus_4e41a1f6d506de9fed49c3228e4407a8.png)
 
 **📌 分享给即将旅行的朋友，避免卡关！**
 

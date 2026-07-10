@@ -1,15 +1,14 @@
 ---
 slug: bali-30-day-visa-misconceptions
-title: >-
-  Panduan Wajib Liburan ke Indonesia/Bali: 30 Mitos & Fakta Visa Kunjungan Saat
-  Kedatangan
+title: 'Panduan Wajib Liburan ke Bali: Mitos & Fakta Visa Kunjungan 30 Hari'
 description: >-
   Pernah kepikiran nggak sih, visa kunjungan 30 hari Indonesia bisa dipakai
-  sampai hari ke-30 baru pulang? Ini pertanyaan yang sering banget ditanyain
-  sama orang yang mau liburan ke Indonesia/Bali. Di artikel ini, kita bakal
-  bahas tuntas soal visa kunjungan 30 hari Indonesia, jawab semua rasa penasaran
-  kamu, dan kasih tips traveling yang berguna.
+  sampai hari ke-30? Ini pertanyaan yang sering banget ditanyain sama orang yang
+  mau liburan ke Indonesia / Bali. Di artikel ini, kita bakal bahas tuntas soal
+  visa kunjungan 30 hari Indonesia, jawab semua rasa penasaran kamu, dan kasih
+  tips traveling yang berguna.
 pubDate: '2024-05-21'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4251754894d6eb6eb163cc66b63915c5.png'
 tags:
   - 印尼落地簽
@@ -21,69 +20,70 @@ originalUrl: 'https://vocus.cc/article/664c8e46fd89780001240c04'
 category:
   - 簽證通關
 lang: id
-_srcHash: 30ebf9ac5569a5a2f56d877afcfbeb03
+_srcHash: 2343306394747775e07118098019614d
 ---
+**Kesimpulan Awal**: Visa on Arrival (VOA) 30 hari Indonesia biaya di lokasi sekitar **35 USD**, kamu bisa tinggal sampai hari ke-30 baru pulang. Syaratnya: paspor masih berlaku minimal 6 bulan, dan tiket pulang. Biar nggak antre lama di bandara, mending urus **e-VoA (Electronic Visa on Arrival)** dari rumah sebelum berangkat.
 
-Pernah kepikiran nggak sih, visa kunjungan 30 hari Indonesia bisa dipakai sampai hari ke-30 baru pulang? Ini pertanyaan yang sering banget ditanyain sama orang yang mau liburan ke Indonesia/Bali. Di artikel ini, kita bakal bahas tuntas soal visa kunjungan 30 hari Indonesia, jawab semua rasa penasaran kamu, dan kasih tips traveling yang berguna.
+Pernah kepikiran nggak sih, visa kunjungan 30 hari Indonesia bisa dipakai sampai hari ke-30? Ini pertanyaan yang sering banget ditanyain sama orang yang mau liburan ke Indonesia / Bali. Di artikel ini, kita bakal bahas tuntas soal visa kunjungan 30 hari Indonesia, jawab semua rasa penasaran kamu, dan kasih tips traveling yang berguna.
 
-![Panduan Wajib Liburan ke Indonesia/Bali: 30 Mitos & Fakta Vi](https://images.gobaligo.id/vocus/vocus_70896cbf940eae1c0bc1643d987e809d.png)
+![印尼/峇里島旅行必讀：30天落地簽證的常見誤區與解答](https://images.gobaligo.id/vocus/vocus_70896cbf940eae1c0bc1643d987e809d.png)
 
 ## Apa Itu Visa Kunjungan 30 Hari Indonesia?
 
-Visa kunjungan 30 hari Indonesia adalah visa jangka pendek yang diberikan untuk wisatawan dari berbagai negara, yang mengizinkan mereka tinggal maksimal 30 hari setelah masuk. Visa ini biasanya diurus di bandara atau pelabuhan saat tiba di Indonesia, dan cocok untuk liburan, menjenguk keluarga, atau keperluan singkat lainnya.
+Visa kunjungan 30 hari Indonesia adalah visa jangka pendek yang diberikan untuk wisatawan dari berbagai negara, yang mengizinkan mereka tinggal maksimal 30 hari setelah masuk. Visa ini biasanya diurus di bandara atau pelabuhan Indonesia saat kedatangan, dan cocok untuk liburan, menjenguk keluarga, atau keperluan singkat lainnya.
 
-## Cara Mengurus Visa Kunjungan Saat Kedatangan
+## Cara Mengurus Visa on Arrival
 
-Proses ngurus visa kunjungan 30 hari Indonesia cukup gampang. Pertama, setelah mendarat di bandara Indonesia, langsung aja ke konter pengajuan visa. Kamu perlu siapin dokumen dan biaya berikut:
+Proses ngurus visa kunjungan 30 hari Indonesia cukup gampang. Pertama, setelah mendarat di bandara Indonesia, langsung aja ke konter visa. Kamu perlu siapin dokumen dan biaya berikut:
 
-- Paspor yang masih berlaku (minimal masa berlaku 6 bulan)
+- Paspor yang masih berlaku (minimal masih 6 bulan)
 - Tiket pulang atau tiket lanjutan perjalanan
-- Biaya pengajuan visa (biasanya bayar pakai uang tunai atau kartu kredit, sekitar USD$35)
+- Biaya aplikasi visa (biasanya bayar pakai uang tunai atau kartu kredit, sekitar 35 USD)
 
-## Biar Cepet Masuk, Urus Visa Elektronik Saat Kedatangan
+## Biar Cepet Masuk, Mending Urus e-VoA
 
-Visa elektronik saat kedatangan (e-VoA) adalah visa yang diajukan dan didapat secara online lewat internet, jadi nggak perlu antre di bandara buat ngurus visa biasa. Kamu tinggal isi formulir online sebelum berangkat, kasih data diri dan dokumen yang diperlukan, lalu bayar biaya visa. Setelah visa disetujui, kamu bakal dapet notifikasi lewat email, dan pas masuk tinggal tunjukin e-Visa buat proses imigrasi. Cara ini nggak cuma hemat waktu, tapi juga bikin masuk ke Indonesia jadi lebih lancar dan perjalanan makin nyaman.
+e-VoA (Electronic Visa on Arrival) adalah visa yang diajukan dan didapatkan secara online, jadi kamu nggak perlu antre lagi pas mendarat di bandara. Cukup isi formulir online sebelum berangkat, kasih data diri dan dokumen yang diperlukan, lalu bayar biaya visanya. Setelah disetujui, kamu bakal dapet notifikasi lewat email, dan tinggal tunjukin e-visa itu pas imigrasi. Cara ini jelas lebih hemat waktu dan bikin perjalanan makin lancar.
 
-> Baca juga: [Panduan Visa Turis Bali: Visa on Arrival vs E-Visa, Mana yang Lebih Cocok Buat Kamu?](/id/blog/bali-visa-landing-vs-electronic/)
+> Baca juga: [Panduan Visa Liburan ke Bali: Visa on Arrival vs e-Visa, Mana yang Lebih Cocok Buat Kamu?](/id/blog/bali-visa-landing-vs-electronic/)
 
-> Baca juga: [[Video Tutorial] Cara Apply E-Visa Indonesia/Bali Langkah Demi Langkah](/id/blog/bali-evisa-application-tutorial/)
+> Baca juga: [[Video Tutorial] Cara Lengkap Urus e-Visa Indonesia/Bali Langkah Demi Langkah](/id/blog/bali-evisa-application-tutorial/)
 
 ## Masa Berlaku Visa on Arrival
 
-Visa on Arrival 30 hari di Indonesia berlaku selama 30 hari sejak tanggal masuk. Yang perlu kamu catat, 30 hari ini **termasuk hari masuk dan hari keluar**, jadi waktu tinggal efektifmu adalah 30 hari penuh.
+Visa on Arrival 30 hari Indonesia berlaku selama 30 hari sejak tanggal masuk. Yang perlu diingat, 30 hari ini **termasuk hari masuk dan hari keluar**, jadi masa tinggal efektifmu adalah 30 hari penuh.
 
-## Boleh Keluar di Hari ke-30?
+## Bolehkah Keluar di Hari ke-30?
 
-Menurut aturan visa Indonesia, kamu harus keluar sebelum visa habis masa berlaku. Jadi, hari ke-30 adalah hari terakhir yang diperbolehkan buat keluar. Kalau kamu berencana keluar di hari ke-30, pastikan jadwal penerbanganmu sebelum visa habis, biar nggak ada masalah.
+Menurut aturan visa Indonesia, kamu wajib keluar sebelum visa habis masa berlaku. Jadi, hari ke-30 adalah batas terakhir kamu bisa keluar. Kalau kamu berencana keluar di hari ke-30, pastikan jadwal penerbanganmu sebelum visa habis, biar nggak ada masalah yang nggak diinginkan.
 
 ## Konsekuensi Overstay
 
-Kalau kamu overstay, kamu bakal kena denda **Rp100.000 per hari** (sekitar USD$70). Selain itu, bisa juga kena konsekuensi hukum yang lebih serius, kayak dilarang masuk lagi ke Indonesia. Makanya, mending keluar sebelum visa habis biar nggak kena masalah hukum.
+Kalau kamu overstay, siap-siap kena denda **Rp1.000.000 per hari** (sekitar USD$70). Selain itu, bisa juga kena sanksi hukum yang lebih berat, misalnya dilarang masuk lagi ke Indonesia. Makanya, mending keluar sebelum visa habis biar nggak kena masalah hukum.
 
-## Opsi Perpanjang Masa Tinggal
+## Opsi Perpanjangan Masa Tinggal
 
-Kalau kamu mau perpanjang waktu tinggal di Indonesia, kamu bisa ajukan perpanjangan visa. Biasanya bisa diperpanjang 30 hari lagi, tapi harus dilakukan sebelum visa habis, baik ke kantor imigrasi setempat atau online, dengan ngisi formulir dan bayar biaya yang diperlukan.
+Kalau kamu mau perpanjang masa tinggal di Indonesia, bisa pilih opsi perpanjangan visa. Biasanya bisa diperpanjang 30 hari lagi, tapi harus ngurus sebelum visa habis — bisa langsung ke kantor imigrasi setempat atau online, dan siapkan formulir serta biayanya.
 
-Traveler ini karena kurang teliti, tidak menyadari bahwa mengajukan visa lebih dari 60 hari butuh waktu pemrosesan yang lebih lama dan perlu menyertakan bukti keuangan. Dia sudah mengajukan dan membayar pada tanggal 27, tapi saat mau masuk pada tanggal 29, ternyata proses verifikasi belum selesai. Menghadapi situasi ini, meskipun dia menunjukkan bukti pembayaran di bandara Bali, petugas imigrasi di sana tidak bisa langsung memprosesnya dan tetap harus menunggu verifikasi. Petugas imigrasi bilang, kalau dia datang lagi dalam 3 bulan, bisa pakai visa yang sudah disetujui sebelumnya.
+> Baca Juga: [Panduan Perpanjangan Visa Online Bali/Indonesia 2024](/id/blog/2024-bali-visa-extension/)
 
-![Opsi Perpanjang Masa Tinggal](https://images.gobaligo.id/vocus/vocus_463dbab8ca6996865a358ae3450237dd.png)
+![延長停留時間的選擇](https://images.gobaligo.id/vocus/vocus_463dbab8ca6996865a358ae3450237dd.png)
 
 Paling banyak dicari...
 
-➡️[Cari penginapan di Bali klik di sini](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️
+➡️[Cari Penginapan di Bali Klik Sini](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️
 
-➡️[Lebih banyak promo menarik Bali klik saya](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
+➡️[Klik buat lihat promo Bali lainnya yang super worth it](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
 
 ## Opsi Visa Jangka Pendek Lainnya
 
-Selain visa kunjungan 30 hari, Indonesia juga punya beberapa pilihan visa lain. Cek selengkapnya di sini: [FAQ Pembaruan Visa Masuk Bali 2024](/id/blog/2025-bali-visa-update-faq/)
+Selain visa kunjungan 30 hari, Indonesia juga punya beberapa jenis visa lain. Cek di sini: [FAQ Pembaruan Visa Masuk Bali 2024](/id/blog/2025-bali-visa-update-faq/)
 
-## Kesimpulan
+## **Kesimpulan**
 
-Visa kunjungan 30 hari Indonesia memang praktis buat traveler, tapi tetap harus hati-hati soal aturannya. Semoga artikel ini bisa jawab pertanyaan kamu dan bantu rencanain perjalanan ke Indonesia dengan lancar. Mau eksplor pantai cantik di Bali atau nikmatin budaya sejarah di Yogyakarta, asal patuh sama aturan visa dan siapin semuanya dari awal, kamu pasti bisa menikmati liburan yang bebas khawatir. Selamat jalan-jalan dan semoga seru di Indonesia!
+Visa kunjungan 30 hari di Indonesia memang praktis buat traveler, tapi tetap harus hati-hati sama aturannya. Semoga artikel ini bisa jawab pertanyaan kamu dan bantu rencanakan perjalanan ke Indonesia dengan lancar. Mau eksplor pantai cantik di Bali atau nikmati sejarah budaya di Yogyakarta, asal patuh aturan visa dan siap-siap dari awal, kamu pasti bisa menikmati liburan tanpa drama. Selamat bersenang-senang di Indonesia!
 
-![Kesimpulan](https://images.gobaligo.id/vocus/vocus_4a7b05fc53b5458c828b2e0087fcc74b.png)
+![總結](https://images.gobaligo.id/vocus/vocus_4a7b05fc53b5458c828b2e0087fcc74b.png)
 
-Sebelum baca **「Panduan Liburan Mandiri Bali Paling Lengkap」**, kami ajak kamu subscribe dulu channel YouTube **「Xiao Jie Indonesia」** yang penuh konten visual seru. [Klik di sini](http://bit.ly/youtube-jason) buat subscribe sekarang!
+Sebelum baca **"Panduan Liburan Mandiri ke Bali"** kami, kami ajak kamu subscribe dulu channel YouTube **"Xiao Jie Indonesia"** yang penuh konten visual seru. [Klik di sini](http://bit.ly/youtube-jason) buat subscribe sekarang.
 
-Setelah subscribe, langsung lanjut baca panduan lengkap kami dan eksplor setiap sudut keren Bali. Klik **「**[**Panduan Liburan Mandiri Bali Paling Lengkap**](/id/blog/2023-08-22-64e37f2dfd89780001b1f776/)**」** buat mulai rencanain liburanmu ke Bali!
+Setelah subscribe, kamu bisa lanjut baca panduan lengkap kami dan eksplor setiap sudut seru Bali. Klik **"**[**Panduan Liburan Mandiri ke Bali**](/id/blog/2023-08-22-64e37f2dfd89780001b1f776/)**"** buat mulai persiapan liburanmu ke Bali!

@@ -1,10 +1,11 @@
 ---
 slug: wanna-jungle-pool-club-ubud
-title: 巴厘岛 Wanna Jungle 旅游指南：入园门票、低消限制、交通接送与乌布一日行程排法
+title: 巴厘岛 Wanna Jungle 旅游指南：入园门票、低消限制、交通接送与乌布一日行程安排
 description: >-
-  计划去 Wanna Jungle 待上一整天？这份完整指南为您整理 Kayon Jungle Resort 旗下的热门泳池俱乐部信息。包含不同区域的低消
-  (Minimum Spend) 说明、池畔酒吧消费窍门与避开人潮的入园时间。提供从乌布市区前往的交通建议，让您的丛林放松之旅既顺畅又奢华。
+  计划去 Wanna Jungle 待上一整天？这份完整指南为您整理了 Kayon Jungle Resort 旗下的热门泳池俱乐部信息。包含不同区域的低消
+  (Minimum Spend) 说明、池畔酒吧消费技巧与避开人潮的入园时间。提供从乌布市区前往的交通建议，让您的丛林放松之旅既顺畅又奢华。
 pubDate: 2025-05-01T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 美食景點活動
 tags:
@@ -21,11 +22,9 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_cbcb3dcfef832d05b8df6806e839d3e2.jpg'
 originalUrl: 'https://vocus.cc/article/68134e91fd89780001ab5b55'
 lang: zh-cn
-_srcHash: 8e51fc5d787f9ff5e032063627b7b5f2
+_srcHash: 856ed8d6e89a38caa8ee899224125bb5
 ---
-Update: 2026/07/03
-
-**先说结论**：Wanna Jungle Pool & Bar 是乌布 Kayon Jungle Resort 旗下的三层梯田式无边泳池俱乐部，**非住客也能玩**——通过 Klook 买一日通票入场，门票内含餐饮抵用金（food credit）可直接抵扣池畔餐点。想拍到没有人的泳池请**上午入园**，午餐首推招牌巴厘岛脆皮烤鸭 Bebek Kayon（两人分食刚好）。
+**先说结论**：Wanna Jungle Pool & Bar 是乌布 Kayon Jungle Resort 旗下的三层梯田式无边泳池俱乐部，**非住客也能玩**——通过 Klook 购买一日通票入场，门票内含餐饮抵用金（food credit）可直接抵扣池畔餐点。想拍到没有人的泳池请**上午入园**，午餐首推招牌巴厘岛脆皮烤鸭 Bebek Kayon（两人分食刚好）。
 
 来到巴厘岛文化心脏乌布，绝对不能错过这家近期在IG上疯狂刷屏的一日泳池俱乐部——Wanna Jungle Pool & Bar！这个拥有绝美景观的三层式无边泳池，早已成为网红们的打卡圣地。
 
@@ -47,7 +46,7 @@ https://youtu.be/eJ0oL0O5OY8
 
 ▲看看小杰游记
 
-躺在泳池畔的躺椅上，点杯色彩缤纷的调酒，听着流水声与丛林鸟鸣，不知不觉就度过整个下午。无论是想拍美照、品美食，或单纯享受度假氛围，Wanna Jungle Pool & Bar都能满足你对巴厘岛假期的所有想象！
+躺在泳池畔的躺椅上，点杯色彩缤纷的调酒，听着流水声与丛林鸟鸣，不知不觉就度过整个下午。无论想拍美照、品美食，或单纯享受度假氛围，Wanna Jungle Pool & Bar都能满足你对巴厘岛假期的所有想象！
 
 ## **旅行小贴士**
 

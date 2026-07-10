@@ -1,16 +1,11 @@
 ---
 slug: bali-java-seven-day-tour
 title: >-
-  ⭐⭐ 【World-Class Wonders】Bali × Borobudur × Heaven's Light × Blue Flame 7-Day
-  In-Depth Tour
-description: >-
-  If you're looking for a truly relaxing yet world-class wonder-filled journey,
-  this 7-day light luxury itinerary combining the best of Bali and Java will be
-  an unforgettable experience. From leisurely moments in private pool villas to
-  volcanoes, waterfalls, ancient civilizations, and natural wonders, each day is
-  exciting yet unhurried, offering a pure enjoyment with no additional fees or
-  shopping.
+  ⭐⭐ 【World-Class Wonders】Bali × Borobudur in Yogyakarta × Heaven’s Light × Blue
+  Flame 7-Day In-Depth Tour
+description: "If you're looking for a truly relaxing journey filled with world-class wonders, this 7-day light-luxury itinerary combining the best of Bali and Java will be an unforgettable experience. From leisurely moments in a private pool villa to volcanoes, waterfalls, ancient civilizations, and natural marvels, each day is exciting yet unhurried—truly a no add-ons, no shopping, pure enjoyment trip. \U0001F4B0 Special Offer"
 pubDate: 2025-12-14T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 美食景點活動
 tags:
@@ -22,26 +17,27 @@ tags:
 originalUrl: 'https://vocus.cc/article/693d795efd8978000108c657'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_97dd578dfb813e3b6110fcd782d9053f.jpg'
 lang: en
-_srcHash: 196b3fa5d690be5394976d8c3203c1b4
+_srcHash: ecb5855f1ea9716a98c39043a6d5e58c
 ---
+## Light-Luxury No-Shopping 7-Day In-Depth Tour ⭐⭐
 
-## Light Luxury No-Shopping 7-Day In-Depth Tour ⭐⭐
+![輕奢無購物七日深度之旅](https://images.gobaligo.id/vocus/vocus_cfb6a91de0086e699c1e44388be48b2b.jpg)
 
-![Light Luxury No-Shopping 7-Day In-Depth Tour](https://images.gobaligo.id/vocus/vocus_cfb6a91de0086e699c1e44388be48b2b.jpg)
+**Bottom line upfront**: This 7-day in-depth Bali × Yogyakarta tour connects world-class attractions like **Borobudur, Sewu Waterfall, Ijen Crater’s Blue Fire, and Lovina Dolphins**, featuring a no add-ons, no shopping, pure-play itinerary with private pool villa accommodation. Sign up now to enjoy a tourism tax subsidy—perfect for deep travel enthusiasts looking to collect Indonesia’s iconic landmarks in one go.
 
-If you're seeking a **truly relaxing journey filled with world-class wonders**, this 7-day light luxury itinerary combining the best of Bali and Java, visiting **Indonesia's three major UNESCO World Heritage Sites**, will be an unforgettable experience.
+If you're seeking a **truly relaxing journey filled with world-class wonders**, this 7-day light-luxury itinerary combining the highlights of Bali and Java, visiting **three Indonesian UNESCO World Heritage sites**, will be an unforgettable experience.
 
-From leisurely moments in private pool villas to volcanoes, waterfalls, ancient civilizations, and natural wonders, each day is exciting yet unhurried, offering **no additional fees, no shopping, pure enjoyment**.
+From leisurely moments in a private pool villa to volcanoes, waterfalls, ancient civilizations, and natural wonders, every day is exciting yet unhurried—truly **no add-ons, no shopping, pure enjoyment**.
 
-💰 **Special Offer: Only USD$1,253 per person**
+💰 **Special Price: Just USD$1,253 per person**
 
-🎁 Book through our site and enjoy a full subsidy of Rp. 150,000 for Bali's tourism tax per person, making your journey even more affordable!
+🎁 Sign up through this site and receive a full subsidy of Rp. 150,000 for the Bali tourism tax, making your trip even more affordable!
 
-## **One Journey, Collect Indonesia's Most Iconic World-Class Attractions**
+## **One Journey, Collect Indonesia’s Most Iconic World-Class Attractions**
 
-This is not just a trip to Bali, but a deep exploration spanning nature, culture, and adventure.
+This isn’t just a Bali trip—it’s an in-depth exploration spanning nature, culture, and adventure.
 
-The itinerary uniquely connects two of Indonesia's most popular tourist islands, from the paradise of Bali deep into Java, fully capturing several dream destinations every traveler must visit in their lifetime.
+This itinerary uniquely connects two of Indonesia's most popular travel islands, taking you from the paradise of Bali deep into Java, featuring multiple dream destinations that every traveler should visit at least once in their lifetime.
 
 ***
 
@@ -51,147 +47,147 @@ The itinerary uniquely connects two of Indonesia's most popular tourist islands,
 
 ![Omma Dayclub](https://images.gobaligo.id/images/2026-04/1775403717337-omma-day-club-instagram-omma-day-club_169.jpeg)
 
-**Omma Dayclub** is located in front of Bali's famous Tegenungan Waterfall, making it one of the few places in the world where you can enjoy a resort atmosphere while being up close to a waterfall. Combining a pool, dining, and natural scenery, it offers a relaxing experience surrounded by the sound of water and lush greenery.
+**Omma Dayclub** is located in front of Bali's famous Tegenungan Waterfall, one of the few places in the world where you can enjoy a resort atmosphere while getting up close to a stunning waterfall. Combining a pool, dining, and natural scenery, it offers a relaxing escape surrounded by the sound of water and lush greenery.
 
-Its biggest feature is its unparalleled location, with the waterfall cascading right before your eyes, creating a breathtaking and soothing view. This perfect blend of natural wonder and a stylish Dayclub makes Omma Dayclub one of Bali's most iconic attractions.
+Its biggest draw is the unparalleled location—the waterfall cascades right before your eyes, creating a breathtaking and therapeutic view. This seamless blend of natural wonder and a trendy dayclub makes Omma Dayclub one of Bali's most iconic and unique attractions.
 
 ### Jatiluwih Rice Terraces
 
-**Jatiluwih Rice Terraces** are located in the mountainous region of central Bali and are one of the largest and most spectacular rice terrace landscapes on the island. The layered rice fields stretch along the mountainside, offering a vast and serene view that showcases the purest essence of Bali's countryside.
+**Jatiluwih Rice Terraces**, located in the central highlands of Bali, is one of the island's largest and most spectacular rice terrace landscapes. The layered paddies stretch across the hillsides, offering a vast and serene view that showcases the purest essence of Bali's rural scenery.
 
-![Jatiluwih Rice Terraces](https://images.gobaligo.id/vocus/vocus_62472c1caf4010fa626e962ecce877ef.jpg)
+![Jatiluwih賈提魯維梯田區](https://images.gobaligo.id/vocus/vocus_62472c1caf4010fa626e962ecce877ef.jpg)
 
-This area is listed as a **UNESCO World Heritage Site**, representing the wisdom of Bali's traditional 'Subak' irrigation system. The perfect fusion of natural scenery and millennia-old agricultural culture makes Jatiluwih one of Bali's most representative and unique landmarks.
+Designated as a **UNESCO World Heritage Site**, it represents the brilliance of Bali's traditional 'Subak' irrigation system. The seamless blend of natural beauty and millennia-old farming culture makes Jatiluwih one of Bali's most iconic and unique rice terrace landmarks.
 
-### **Chasing Sunrise and Dolphins, Embracing Bali's Gentle Morning Light**
+### **Chase the Sunrise and Dolphins, Embracing Bali's Gentle Morning Light**
 
-Set sail early in the morning to chase wild dolphins leaping out of the sea.
+Set out to sea at dawn to chase wild dolphins leaping above the waves.
 
-![Chasing Sunrise and Dolphins, Embracing Bali's Gentle Mornin](https://images.gobaligo.id/vocus/vocus_140b7005ea4564d8e14f8d3a2793e738.jpg)
+![追逐日出與海豚，感受峇里島的溫柔晨光](https://images.gobaligo.id/vocus/vocus_140b7005ea4564d8e14f8d3a2793e738.jpg)
 
-Lovina has become one of Bali's most famous dolphin-watching spots because the waters here are relatively calm, the chances of spotting dolphins are high, and their activities are natural and undisturbed by human interference. Unlike the chase-style tours at large tourist ports, this experience feels more like **a quiet morning encounter with nature**.
+Lovina has become one of Bali's most famous dolphin-watching spots precisely because the waters here are relatively calm, with a high chance of dolphin sightings in a natural, undisturbed setting. Unlike the chase-style tours at major tourist ports, this feels more like a **quiet morning encounter with nature**.
 
-As the sun fully rises, the sea sparkles with golden light, dolphins gradually return to the deep ocean, and boats slowly make their way back. In just one short morning, an irreplaceable sense of emotion is left behind. It’s not excitement or noise, but a moment of happiness that slows the heart.
+As the sun fully rises, the sea shimmers with golden light, dolphins gradually retreat to deeper waters, and boats slowly head back. A single early morning leaves an irreplaceable sense of wonder—not excitement or noise, but a blissful moment that slows the heart.
 
-For many travelers, the sunrise and dolphins in Lovina are among the gentlest and most healing memories of their entire Bali journey.
+For many travelers, the sunrise and dolphins at Lovina are among the gentlest and most healing memories of their entire Bali journey.
 
-### Ulun Danu Beratan Temple, Bali
+### Ulun Danu Beratan Temple
 
-Ulun Danu Beratan Temple is located on the shores of Lake Bratan and is one of Bali’s most iconic lake temples. The temple appears to float on the water, surrounded by mountains and mist, creating a serene and dreamlike scene that has become a classic and recognizable landmark of Bali.
+Perched on the shores of Lake Bratan, Ulun Danu Beratan Temple is one of Bali's most iconic lakeside temples. It appears to float on the water's surface, surrounded by misty mountains, creating a serene and dreamlike scene that is instantly recognizable.
 
-![Ulun Danu Beratan Temple, Bali](https://images.gobaligo.id/vocus/vocus_326dbb72d243961e8dca8f15de8c3044.jpg)
+![峇里島水神廟（Ulun Danu Beratan）](https://images.gobaligo.id/vocus/vocus_326dbb72d243961e8dca8f15de8c3044.jpg)
 
-Not only is Ulun Danu Beratan an important religious site, but it is also featured on Indonesian currency, symbolizing its national significance and cultural value. The unique combination of lake, faith, and natural landscape makes Ulun Danu Beratan one of Indonesia’s most representative landmarks.
-
-***
-
-## Java Island Attractions
-
-### **Explore Yogyakarta and Visit the World Heritage Site: Borobudur**
-
-Borobudur is not only Indonesia’s most symbolic landmark but also a UNESCO World Heritage Site and one of the largest and best-preserved Buddhist temple ruins in the world.
-
-![Explore Yogyakarta and Visit the World Heritage Site: Borobu](https://images.gobaligo.id/vocus/vocus_bacb4fd337c601bc015b2897a79573b2.jpg)
-
-![Explore Yogyakarta and Visit the World Heritage Site: Borobu](https://images.gobaligo.id/vocus/vocus_67953b67edf91cd45797585e2efa87e5.jpg)
-
-The layered reliefs and stupas record the faith and wisdom of a thousand years ago. Only by being there in person can one truly feel its solemnity and awe.
-
-### **Prambanan Temple｜A Unique World of Stone-Carved Mythology**
-
-**Prambanan Temple**, the largest and most representative Hindu temple complex in Indonesia, is also listed as a **UNESCO World Cultural Heritage Site**. The towering spires of the temple complex stand majestically on the plains, with clean and solemn lines showcasing the extraordinary architectural aesthetics of ancient Javanese civilization.
-
-![Prambanan Temple｜A Unique World of Stone-Carved Mythology](https://images.gobaligo.id/vocus/vocus_4e03ec488508284f45fb35891bb21089.jpg)
-
-The temple walls are adorned with intricate bas-reliefs, delicately depicting Hindu epics and mythological stories, resembling a historical scroll written in stone. The perfect fusion of religious beliefs, artistic carvings, and architectural craftsmanship makes Prambanan one of Yogyakarta's most unique and world-class cultural landmarks.
+Beyond its significance as a sacred religious site, the temple is featured on Indonesian banknotes, symbolizing its national importance and cultural value. The unique blend of lake, faith, and natural landscape makes Ulun Danu Beratan one of Indonesia's most iconic landmarks.
 
 ***
 
-### **Jomblang Cave: The Light of Heaven, a Wonder to See at Least Once in a Lifetime**
+## Java Attractions
 
-Descend deep into the Jomblang Cave, vertically entering the heart of the earth.
+### **Step into Yogyakarta and Explore the World Heritage Site—Borobudur**
 
-![Jomblang Cave: The Light of Heaven, a Wonder to See at Least](https://images.gobaligo.id/vocus/vocus_c1964d7aff23b6770f5d56f2f8dcd391.jpg)
+Borobudur is not only Indonesia's most symbolic landmark and a UNESCO World Heritage Buddhist architectural marvel, but also one of the largest and best-preserved Buddhist temple complexes in the world.
 
-When sunlight pours down from the cave ceiling, creating the legendary 'Light of Heaven,' it feels like stepping into a movie scene, making it a dream sight for photography enthusiasts and adventurous travelers.
+![走進日惹，探訪世界文化遺產──婆羅浮屠](https://images.gobaligo.id/vocus/vocus_bacb4fd337c601bc015b2897a79573b2.jpg)
 
-### **Pindul Cave Tubing: A Relaxing and Healing Water Cave Experience**
+![走進日惹，探訪世界文化遺產──婆羅浮屠](https://images.gobaligo.id/vocus/vocus_67953b67edf91cd45797585e2efa87e5.jpg)
 
-Pindul Cave is a natural cave filled with clear, gently flowing water. Floating on a tube, moving along with the current, offers a non-thrilling, non-bumpy, and very relaxing cave exploration experience. The soft light and tranquil atmosphere inside the cave allow visitors to peacefully enjoy the beauty of nature.
+Its layered reliefs and stupas record the faith and wisdom of a millennium ago. Only by standing there in person can you truly feel its grandeur and awe-inspiring presence.
 
-![Pindul Cave Tubing: A Relaxing and Healing Water Cave Experi](https://images.gobaligo.id/vocus/vocus_61722699493234c35cc910cf47e68888.jpg)
+### **Prambanan Hindu Temple｜A One-of-a-Kind Mythical World Carved in Stone**
 
-***
+**Prambanan Hindu Temple** is Indonesia's largest and most iconic Hindu temple complex, and a **UNESCO World Heritage Site**. Its towering, pointed spires rise from the plains with clean, solemn lines, showcasing the extraordinary architectural aesthetics of ancient Javanese civilization.
 
-### **Ijen Volcano Blue Flames: A Miracle Burning in the Night**
+![普蘭巴南印度教神廟｜獨一無二的石雕神話世界](https://images.gobaligo.id/vocus/vocus_4e03ec488508284f45fb35891bb21089.jpg)
 
-What is most awe-inspiring about **Ijen Volcano** is not the fiery lava during an eruption, but the **blue flames** that quietly burn in the depths of the night. This phenomenon is extremely rare worldwide, and Ijen Volcano is one of the few places where you can witness this natural wonder firsthand.
-
-![Ijen Volcano Blue Flames: A Miracle Burning in the Night](https://images.gobaligo.id/vocus/vocus_925eed199d66b8736fed1a6d9634da1e.jpg)
-
-Hiking through the night, seeing the blue flames flowing and flickering among the rocky walls, resembling a river of blue lava, creates a mysterious and breathtaking scene. The awe and emotion it evokes are absolutely worth experiencing in person.
-
-### **Sewu Waterfall, One of Indonesia's Most Spectacular Waterfalls**
-
-Sewu Waterfall is renowned for its majestic presence, with multiple streams cascading down simultaneously, creating a thunderous spectacle.
-
-![Sewu Waterfall, One of Indonesia's Most Spectacular Waterfal](https://images.gobaligo.id/vocus/vocus_59771de885d64f278da9c76684ab069d.jpg)
-
-Standing before the waterfall, you can feel the raw power of nature, completely immersing yourself in the moment.
-
-### **Mount Bromo Sunrise, an Epic Scene Among the Volcanoes**
-
-Climb to the viewpoint in the early morning and await the sunrise.
-
-![Mount Bromo Sunrise, an Epic Scene Among the Volcanoes](https://images.gobaligo.id/vocus/vocus_a1b5cfc15bfd61681b9fbd1e1adb5655.jpg)
-
-As the sun slowly rises, illuminating the Mount Bromo range and the sea of clouds, the scene feels like stepping into a National Geographic moment—a truly unforgettable experience.
+The temple walls are adorned with intricate reliefs that vividly depict Hindu epic tales and mythology, reading like a historical scroll carved in stone. The seamless fusion of religious devotion, artistic carving, and architectural mastery makes Prambanan one of Yogyakarta's most unique and globally significant cultural landmarks.
 
 ***
 
-## **What's Included in the Package, Truly All-Inclusive**
+### **Jomblang Cave: Heaven's Light, a Once-in-a-Lifetime Spectacle**
 
-This is a travel package where **you won’t need to spend any extra money**:
+Descend vertically into the heart of the earth at Jomblang Cave.
+
+![Jomblang 天堂之光，一生至少看一次的奇景](https://images.gobaligo.id/vocus/vocus_c1964d7aff23b6770f5d56f2f8dcd391.jpg)
+
+When sunlight pours through the cave's opening, it creates the legendary 'Heaven's Light,' a scene straight out of a movie—an ultimate dream for photographers and adventure seekers alike.
+
+### **Pindul Cave Tubing: A Relaxing and Soothing Water Cave Experience**
+
+Pindul Cave is a natural cave filled with crystal-clear, calm waters that flow at a gentle pace. Lying on a tube and drifting with the current, it's a soothing, non-thrilling cave adventure. The soft light and tranquil atmosphere inside let you fully embrace the beauty of nature.
+
+![Pindul 洞穴漂流｜輕鬆又療癒的水洞體驗](https://images.gobaligo.id/vocus/vocus_61722699493234c35cc910cf47e68888.jpg)
+
+***
+
+### **Ijen Volcano's Blue Fire: A Miracle Burning in the Night**
+
+The most awe-inspiring sight at Ijen Volcano isn't the fiery lava of an eruption, but the **blue flames** that quietly burn in the dead of night. This phenomenon is extremely rare worldwide, and Ijen is one of the few places where you can witness this natural wonder firsthand.
+
+![伊真火山藍色火焰，夜色中燃燒的奇蹟](https://images.gobaligo.id/vocus/vocus_925eed199d66b8736fed1a6d9634da1e.jpg)
+
+Walking through the night, I saw blue flames flowing and flickering across the rock walls, like rivers of molten lava—a mysterious and breathtaking sight. The awe and emotion are absolutely worth witnessing in person.
+
+### **Tumpak Sewu Waterfall, One of Indonesia's Most Spectacular Waterfalls**
+
+Tumpak Sewu is renowned for its sheer power, with multiple streams of water cascading down at once in a thunderous display.
+
+![賽武瀑布，印尼最壯觀的瀑布群之一](https://images.gobaligo.id/vocus/vocus_59771de885d64f278da9c76684ab069d.jpg)
+
+Standing before the waterfall, you feel the raw force of nature, completely immersing yourself in the moment.
+
+### **Mount Bromo Sunrise, An Epic Scene Among the Volcanic Peaks**
+
+Rise early to reach the viewpoint and wait for the sunrise.
+
+![布羅莫火山日出，火山群中的史詩畫面](https://images.gobaligo.id/vocus/vocus_a1b5cfc15bfd61681b9fbd1e1adb5655.jpg)
+
+As the sun slowly rises, illuminating the Bromo volcanic range and the sea of clouds, it feels like stepping into a National Geographic documentary—a moment you'll never forget.
+
+***
+
+## **What the Tour Includes: Truly All-Inclusive**
+
+This is a travel package where you **won't need to spend a single extra cent**:
 
 - Round-trip airfare
-- Carefully selected accommodations throughout the trip (including daily breakfast)
-- All itinerary and attraction tickets
-- Private car and transfer services for the entire trip
-- No forced shopping, no hidden fees
+- Carefully selected accommodations (including daily breakfast)
+- All itinerary activities and attraction tickets
+- Private transportation and transfer services throughout
+- No forced shopping, no hidden costs
 
-Truly designed for **stress-free departure and worry-free travel**.
-
-***
-
-## **Travel Information and Notes**
-
-- Valid departure dates: From now until **December 2026** (Prices for holidays and special periods will be quoted separately)
-- This offer is a **cash discount for two travelers**, please contact customer service for other group sizes
-- Airfare and accommodation prices will be adjusted based on the actual departure date, customer service will provide a quote for confirmation in advance
-- This is a **special promotional package**, once confirmed, cancellations and refunds are not permitted
+Truly making it easy to set off and travel with peace of mind.
 
 ***
 
-**Why Choose This 7-Day Luxury Journey?**
+## **Departure Info & Important Notes**
 
-✔ Explore the highlights of Bali + Java Island in one trip
-✔ Discover world-class natural wonders and cultural heritage
-✔ No shopping, no additional fees, pure travel experience
-✔ Private pool Villa + private car service, comfortable and worry-free
-✔ Transparent pricing, excellent value for money
-✔ Flexible options: Extend your trip based on your needs
+- Valid for departures from now through **December 2026** (holiday and special period pricing available upon request)
+- This package is a **cash discount price for two travelers**; please contact customer service for other group sizes
+- Flight and accommodation prices are subject to adjustment based on actual departure dates; our team will provide a confirmed quote in advance
+- This is a **special promotional offer**; once confirmed, no cancellations or refunds are allowed
 
 ***
 
-## **Book Now for a Journey Worth Remembering for a Lifetime**
+**Why Choose This 7-Day Light Luxury Journey?**
 
-When blue flames burn in the night, heavenly light fills the caves, and volcanic sunrises illuminate the sea of clouds,
+✔ Explore the best of Bali and Java in one trip
+✔ World-class natural wonders and cultural heritage all included
+✔ No shopping stops, no optional add-ons—pure travel experience
+✔ Private pool villa + private car service for comfort and peace of mind
+✔ Transparent pricing with excellent value for money
+✔ Flexible options: extend your trip as needed
 
-You'll realize this isn't just a trip, but a beautiful memory you'll revisit time and time again.
+***
 
-📩 Contact customer service now to confirm your departure date
+## **Book Yourself a Journey Truly Worth Remembering for a Lifetime**
 
-![Book Now for a Journey Worth Remembering for a Lifetime](https://images.gobaligo.id/images/2026-04/1775403717337-omma-day-club-instagram-omma-day-club_169.jpeg)
+When the blue flames burn at night, heaven's light pours into the cave, and the volcanic sunrise reflects on the sea of clouds,
+
+you'll realize this isn't just a trip—it's a beautiful memory you'll revisit again and again.
+
+📩 Contact us now to confirm your departure date
+
+![現在就為自己預約一趟，真正值得回味一輩子的旅程](https://images.gobaligo.id/images/2026-04/1775403717337-omma-day-club-instagram-omma-day-club_169.jpeg)
 
 {{block:tour-form-wonders}}
 

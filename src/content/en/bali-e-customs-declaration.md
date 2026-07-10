@@ -1,8 +1,11 @@
 ---
 slug: bali-e-customs-declaration
-title: "Bali E-Customs Declaration 2026: How to Fill It Out"
-description: "Every visitor now files an Electronic Customs Declaration before landing in Bali. This visual guide shows exactly what to enter and common mistakes."
+title: 'Bali E-Customs Declaration 2026: How to Fill It Out'
+description: >-
+  Every visitor now files an Electronic Customs Declaration before landing in
+  Bali. This visual guide shows exactly what to enter and common mistakes.
 pubDate: '2025-06-23'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_24672d877372de2d4b1c95157ad5b40a.png'
 tags:
   - 印尼電子海關申報
@@ -14,134 +17,135 @@ originalUrl: 'https://vocus.cc/article/68594073fd897800012fa799'
 category:
   - 簽證通關
 lang: en
-_srcHash: 88f3732eeba740b039d8711a0e2f70fb
+_srcHash: a31853e7fbf79695326146585605d385
 ---
+**Bottom line first**: The eCD electronic customs declaration form must be filled out online on the **Indonesian Customs website (ecd.beacukai.go.id) before departure**. It can only be completed **within 3 days before your flight** (if you fill it out too early, the system won't let you select the date). Once completed, you'll receive a QR Code for scanning upon arrival. All arriving passengers (including Indonesian citizens) must fill it out, regardless of whether they have items to declare.
 
-## **What is Bali's Electronic Customs Declaration Form?**
+## **What is the Bali Electronic Customs Declaration Form?**
 
-Bali's Electronic Customs Declaration Form (eCD) is a digital customs form mandated by the Indonesian government for all incoming travelers. This system replaces the traditional paper version, requiring passengers to complete and submit the form online before arriving in Bali to facilitate swift customs clearance.
+The Bali Electronic Customs Declaration Form (eCD) is a digital customs form that the Indonesian government requires all arriving passengers to complete. This system replaces the traditional paper version, allowing travelers to fill out and submit their information online before arriving in Bali for faster clearance.
 
-![What is Bali's Electronic Customs Declaration Form?](https://images.gobaligo.id/vocus/vocus_a91d6ead0d074002298ce1381182700c.png)
+![什麼是峇里島電子海關申報表？](https://images.gobaligo.id/vocus/vocus_a91d6ead0d074002298ce1381182700c.png)
 
-The form primarily collects travelers' personal information, itinerary details, and whether they are carrying any items that need to be declared. Both foreign tourists and returning Indonesian citizens must complete this declaration.
-
----
-
-## **Where Can You Fill Out the Electronic Customs Form?**
-
-You can fill it out on the **Indonesian Customs Directorate General's official website** before departure. Airlines often provide the link as well. It’s recommended to complete it before your flight to avoid delays during customs clearance upon arrival.
-
-👉 [Click Here to Access the Official Declaration Form Website](https://ecd.beacukai.go.id/)
+The form is primarily used to collect personal information, travel details, and whether you are carrying any items that need to be declared. Both foreign tourists and returning Indonesian citizens must complete this declaration.
 
 ---
 
-## **How to Fill Out Bali's Customs Declaration Form?**
+## **Where to Fill Out the Electronic Customs Form?**
+
+You can fill it out on the **Indonesian Customs website** before departure. Airlines often provide a link as well. It's recommended to complete it before your flight to avoid delays upon arrival.
+
+👉 [Click here to access the official customs declaration website](https://ecd.beacukai.go.id/)
+
+---
+
+## **How to Fill Out the Bali Customs Declaration Form?**
 
 ### **Page 1:**
 
-First, switch the language to English in the top right corner and read the instructions.
+First, switch the language to English in the top right corner, then read the instructions.
 
 ### **Page 2: Personal Information Fields**
 
-In the form, you’ll need to fill in the following information:
+In the form, you need to fill in the following information:
 
-![Page 2: Personal Information Fields](https://images.gobaligo.id/vocus/vocus_21d862589075e1a383688c90186a2d82.png)
+![第二頁：個人資料欄位](https://images.gobaligo.id/vocus/vocus_21d862589075e1a383688c90186a2d82.png)
 
-- Passport Number (must match your passport)
+- Passport Number (must match your passport exactly)
 - Date of Arrival
-- Place of Arrival (for Bali, enter DPS / Ngurah Rai)
-- Name on Passport (as per passport)
+- Place of Arrival (airport code; for Bali, it's DPS / Ngurah Rai)
+- Name on Passport (as it appears on your passport)
 - Date of Birth
 - Flight/Ship/Vehicle Number
 - Passport Country (enter TW to quickly find Taiwan)
-- Number of Baggage Arriving with You (includes checked and carry-on luggage; personal backpacks can be excluded)
-- Family Arriving with You (number of accompanying family members, excluding yourself; maximum of 10. If traveling with family, additional passport and personal details are required)
+- Number of Baggage Arriving with You (total pieces including checked and carry-on luggage; a small backpack can be excluded)
+- Family Arriving with You (number of accompanying family members, not including yourself; maximum of 10. If traveling with relatives, you must also fill in their passport and personal details)
 
-![Page 2: Personal Information Fields](https://images.gobaligo.id/vocus/vocus_f680fec20d1b6bf1f1cf3c81af7329d5.jpg)
+![第二頁：個人資料欄位](https://images.gobaligo.id/vocus/vocus_f680fec20d1b6bf1f1cf3c81af7329d5.jpg)
 
-The [+Add] button in the bottom right corner allows you to add up to 10 additional travel companions.
+The [+Add] button at the bottom right of the form allows you to add travel companions, up to 10 additional people.
 
-### **Page 3: Declaration of Items**
+### **Page 3: Declaring Prohibited or Restricted Items**
 
-Each item category has a 'Yes / No' option. If you select 'Yes,' you’ll need to provide additional details such as quantity, value, and description. Common items requiring declaration include animal/plant products, alcohol, tobacco, etc. (see the list below for details).
+Each item category has a 'Yes / No' option. If you select 'Yes,' you must provide additional details on quantity, value, and description. Common items that require declaration include animal and plant products, alcohol, tobacco, and more (see the list below for details).
 
 ### **IMEI Registration**
 
-![IMEI Registration](https://images.gobaligo.id/vocus/vocus_c76056591f440cfde9bebd9abb547364.png)
+![IMEI登記](https://images.gobaligo.id/vocus/vocus_c76056591f440cfde9bebd9abb547364.png)
 
-The updated eCD includes a new question: 'Do you intend to use a mobile phone, handheld device, or tablet purchased abroad to connect to the local mobile network in Indonesia?'
+The new eCD includes a question: 'Do you intend to use a mobile phone, handheld computer, or tablet purchased abroad to connect to a local mobile network upon arrival in Indonesia?'
 
-If your phone is from outside Indonesia and you plan to use an Indonesian SIM card for more than 90 days, select '**Yes**' to register the IMEI. Short-term travelers (under 90 days) should select '**No**'.
+If your phone was purchased outside Indonesia and you plan to use an Indonesian SIM card for more than 90 days, you must select '**Yes**' to register the IMEI. Short-term travelers (within 90 days) should select '**No**'.
 
-✅ **When to Choose "Yes"**
+✅ **When to select 'Yes'**
 
-- If you **plan to stay in Indonesia for more than 90 days** and want to use a local SIM card, you must declare it. You'll need to register your IMEI and potentially pay import taxes with the help of customs officers at the airport.
+- If you **plan to stay in Indonesia for more than 90 days** and want to use a local Indonesian SIM card, you must declare it. You’ll need to have customs officials at the airport assist you with IMEI registration and possible import tax payment.
 
-❌ **When to Choose "No"**
+❌ **Select 'No' if:**
 
-- If you **are staying for less than 90 days** and only using roaming or a temporary local SIM card (for short-term tourist use), you don't need to declare it, nor will you be required to register your IMEI.
-- Most short-term travelers choose "No" even if they bring their phones, and it doesn't affect usage.
-- Taiwanese business friends in Indonesia who purchased phones locally also choose "No".
-
----
-
-## **Final Step of Electronic Customs Declaration: Declaration and Submission**
-
-By checking the final declaration box, you confirm that the information provided is accurate. After submission, the system will generate a QR Code. It's recommended to take a screenshot or download it and present it upon arrival at customs.
+- If you **stay for less than 90 days** and only use roaming or a short-term local SIM (for tourism), you don’t need to declare it, and IMEI registration won’t be enforced.
+- Most short-term travelers, even those bringing phones, select 'No' without any issues.
+- Indonesian-based Taiwanese friends who bought their phones locally also select 'No'.
 
 ---
 
-## **What Items Need to Be Declared?**
+## **Final Step of Electronic Customs Declaration: Statement and Submission**
 
-According to Indonesian law, the following items must be declared:
-
-- **Animals, plants, and their products**: Such as wood carvings, herbs, dried flowers
-- **Prohibited items and weapons**: Drugs, firearms, explosives, adult content
-- **Cash and financial instruments**: Exceeding 100 million IDR (approximately USD$6,450)
-- **Foreign currency**: Exceeding 1 billion IDR equivalent
-- **Tobacco and alcohol limits**: 200 cigarettes, 25 cigars, 100g of tobacco, 1 liter of alcohol
-- **High-value purchases**: Items exceeding USD$500 are subject to taxes
-- **Commercial-use items**: Such as wholesale goods or equipment not for personal use
-- **Items exported and re-imported to Indonesia**: Such as repaired goods returning to the country
+Check the final declaration box to confirm that all information is accurate. After submission, the system will generate a QR Code—be sure to screenshot or download it, and present it upon arrival at customs.
 
 ---
 
-## **What Steps Are Required After Submitting the Form?**
+## **What Items Are Commonly Required to Declare?**
 
-### **Check Your QR Code**
+Under Indonesian law, the following items must be honestly declared:
 
-Double-check your downloaded or screenshot QR code to ensure you don't accidentally delete it.
-
-### **Pay Bali Tourism Tax**
-
-Starting in 2024, each foreign tourist is required to pay a one-time tourism tax of IDR 150,000 (approximately USD$10). You can pay it [online](https://lovebali.baliprov.go.id/home) before your trip.
-
-### **Fill Out Indonesia's SSHP Health Declaration**
-
-This is a quick and free health survey form. It includes recent travel history and basic health information for pandemic tracking purposes. Fill it out [here](https://sshp.kemkes.go.id/).
-
-> Quick reference: [Understand Bali's 2025 Immigration Changes in One Minute: Indonesia/Bali Entry Process - From Landing to Baggage Claim](/en/blog/2025-bali-immigration-process/)
+- **Animals, plants, and their products**: such as wood carvings, herbal medicines, dried flowers
+- **Prohibited items and weapons**: drugs, firearms, explosives, adult content
+- **Cash and financial instruments**: exceeding 100 million Indonesian Rupiah (approx. USD$6,452)
+- **Foreign currency cash**: equivalent to over 1 billion Indonesian Rupiah
+- **Alcohol and tobacco limits**: 200 cigarettes, 25 cigars, 100 grams of tobacco, 1 liter of alcohol
+- **High-value purchased items**: those exceeding USD$500 are subject to tax
+- **Commercial-use items**: such as wholesale goods or non-personal equipment
+- **Items exported from Indonesia and re-imported**: such as goods returning after repairs
 
 ---
 
-## **Frequently Asked Questions FAQ**
+## **What Steps Are Needed After Submitting the Form?**
 
-### **1. Do All Travelers Need to Fill Out the Electronic Customs Declaration Form?**
+### **Check the QR Code**
+
+Check the downloaded or screenshot QR code carefully to avoid accidentally deleting it.
+
+### **Pay the Bali Tourism Levy**
+
+Starting in 2024, every foreign traveler must pay a one-time tourism levy of 150,000 Indonesian Rupiah (approximately USD$10). You can [pay online](https://lovebali.baliprov.go.id/home) before departure.
+
+### **Fill Out the Indonesian Health Pass (SSHP)**
+
+This is a quick and free health questionnaire. It includes recent travel history and basic health information for disease tracking purposes. Fill it out [here](https://sshp.kemkes.go.id/).
+
+> Quick Reference: [2025 Bali Entry Changes in One Minute: Indonesia/Bali Entry Process - From Landing, Customs, to Baggage Claim](/en/blog/2025-bali-immigration-process/)
+
+---
+
+## **Frequently Asked Questions (FAQ)**
+
+### **1. Do all travelers need to fill out the electronic customs declaration?**
 
 Yes, both foreign tourists and returning Indonesian residents must submit this form.
 
-### **2. What Happens If You Don't Fill Out the Form?**
+### **2. What happens if I don't fill out the form?**
 
-You may be stopped and asked to fill it out on the spot.
+You may be stopped and asked to complete it on the spot.
 
-### **3. What if I brought more than 200 cigarettes/more than 1 liter of alcohol?**
+### **3. What if I bring more than 200 cigarettes or over 1 liter of alcohol?**
 
-You need to declare it honestly on the form and pay the corresponding taxes at the airport before you can legally bring it in.
+You need to honestly declare it on the form and pay the corresponding tax at the airport before you can legally bring it in.
 
-### **4. Do I need to print the QR Code?**
+### **4. Do I need to print out the QR Code?**
 
-No, saving it on your phone is sufficient. However, it's recommended to take a screenshot in advance to avoid unstable internet connections.
+No, saving the image on your phone is sufficient. However, it's recommended to take a screenshot in advance to avoid unstable network issues.
 
-### **5. How many days in advance can I fill out the declaration form?**
+### **5. How many days before departure can I fill out the declaration form?**
 
-You can only fill it out within 3 days before departure to ensure the information is accurate and the QR Code is valid.
+You can only fill it out within 3 days before departure to ensure the information is accurate and the QR Code remains valid.

@@ -1,10 +1,11 @@
 ---
 slug: bali-evoa-photo-fix
 title: >-
-  Having trouble uploading your photo for the Indonesia/Bali eVisa? Here's how
-  to fix it.
-description: Step-by-step guide for photo upload failures
+  Having trouble uploading a photo for your Indonesia/Bali eVoa? Here's how to
+  fix it
+description: Step-by-step guide to fixing photo upload failures
 pubDate: '2024-04-17'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_67455bbb03e0ad0bb5b47f4c196b0faa.jpg'
 tags:
   - evoa照片
@@ -16,33 +17,31 @@ originalUrl: 'https://vocus.cc/article/661fd461fd89780001c43520'
 category:
   - 簽證通關
 lang: en
-_srcHash: c08193bd9fd58e98c58266e77bf158ab
+_srcHash: 71a97cc0b8c2312d10ec71adacc78afb
 ---
-Update: 2026/07/03
+**Bottom line**: If your eVoa passport photo upload fails, 90% of the time it's because the **file is over 2MB**—these days, even a quick snap on your phone can exceed that. The quickest fix: send the photo via **LINE to a friend and have them send it back**; the messaging app will automatically compress it to a few hundred KB without losing quality, and it'll pass the upload. Official photo requirements: JPEG/JPG/PNG color photo, minimum 400×600 pixels, file size under 2MB, and a straight-on composition (a selfie against a plain wall works fine).
 
-**Bottom line**: If your eVisa passport photo fails to upload, 90% of the time it's because the file is over 2MB—most phone photos these days exceed that. The quickest fix: send the photo via **LINE to a friend and have them send it back**. The messaging app will automatically compress it to a few hundred KB without losing quality, making it upload-ready. Official photo requirements: JPEG/JPG/PNG color photo, minimum 400×600 pixels, file under 2MB, and a clean composition (a selfie against a plain wall works fine).
+Traveling to Indonesia or Bali requires a visa. There are two ways to apply, and you can compare them here: [Bali Travel Visa Guide: Visa on Arrival vs. eVisa – Which One Suits You Best?](/en/blog/bali-visa-landing-vs-electronic/)
 
-Traveling to Indonesia or Bali requires a visa. There are two ways to apply, and you can compare them here: [Bali Travel Visa Guide: Visa on Arrival vs. eVisa – Which One Suits You?](/en/blog/bali-visa-landing-vs-electronic/)
-
-## Applying for the eVisa (eVoA) to enter Indonesia/Bali comes with plenty of perks!
+## Applying for an eVisa (eVoA) to enter Indonesia/Bali comes with plenty of perks!
 
 Steps to prepare your documents for the eVisa application:
 
-1. **Scan or photograph your passport info page**: Make sure it's clear and free of glare. Save it as a JPG or PDF file.
-2. **Passport photo**: If you don't have one, take a selfie against a plain wall. Ensure it's high-resolution and save it as a JPG.
-3. **Credit card**: Have your credit card ready for the payment.
-4. **Accommodation address**: Prepare the address of your hotel or villa in Bali for the application form.
-5. **Flight itinerary PDF**: Have your flight PDF ready to confirm your arrival and departure dates.
+1. **Scan or take a photo of your passport info page**: Make sure it's clear and free of glare. Save it as a JPG or PDF file.
+2. **Passport photo**: If you don't have one, just take a selfie against a plain wall. Ensure it's high-resolution and save it as a JPG.
+3. **Credit card**: Have your credit card ready to pay the application fee.
+4. **Hotel/villa address in Bali**: Prepare the address of your accommodation in Bali to fill in the application form.
+5. **Flight ticket PDF**: Have your flight ticket PDF ready to confirm your arrival and departure dates.
 
 Go to the official Indonesian Immigration Directorate website: <https://evisa.imigrasi.go.id/>
 
-You no longer need to create an account to apply for the eVisa, and you can apply for up to five people at once. Once your documents are ready, you can start your eVisa application.
+Now, applying for an eVisa no longer requires creating an account first, and you can apply for up to 5 people at once. Just have your documents ready and start your eVisa application.
 
-## Troubles with uploading your passport photo
+## Troubleshooting passport photo uploads
 
-Many netizens have reported encountering difficulties when actually uploading their ID photo. First, we need to ensure our photo meets the official website's requirements:
+Many netizens have reported encountering difficulties when uploading their ID photos. First, make sure your photo meets the official website's requirements:
 
-### Key Points in Example 1:
+### Key points are all in Example 1:
 
 1. Color photo in JPEG/JPG/PNG format
 2. Minimum size of 400x600 pixels
@@ -51,13 +50,13 @@ Many netizens have reported encountering difficulties when actually uploading th
 
 ![重點都在範例一:](https://images.gobaligo.id/vocus/vocus_8d4f513b24a0c87fae92aee293c19920.jpg)
 
-**Pay special attention to the third point above**! Modern phone cameras have increasingly high pixel counts, resulting in larger photo file sizes. Without caution, a casual snap can easily exceed 2MB. Whether you're scanning an existing photo or taking a new one, most will surpass the website's upload limit, and naturally, they won't pass!
+**Pay special attention to the third point above!** Modern phone cameras have increasingly high resolution, so the file size of photos taken can be quite large. Without careful attention, a casually snapped photo can easily exceed 2MB. Whether you're scanning an existing photo or taking a new one, most will surpass the website's upload limit, and naturally, they won't pass the check.
 
-If you're not familiar with adjusting your phone's settings or don't know how to reduce file size, here's a handy trick. You can use a messaging app like Line, which almost everyone has, to send the photo to a family member or friend, then ask them to send it back. These apps typically compress photos, reducing the original file to a few hundred KB without losing quality.
+If you're not familiar with adjusting your phone's settings or don't know how to reduce file size, here's a handy trick. You can use a messaging app like Line, which almost everyone has, to send the photo to a family member or friend, and then ask them to send it back. These apps typically compress photos, reducing the original file to a few hundred KB without losing quality.
 
 ### Example 2
 
-Refer to this image for the correct photo aspect ratio when uploading.
+Refer to this image for the correct photo aspect ratio.
 
 ### Example 3
 
@@ -65,12 +64,12 @@ The face should not be too small or too large.
 
 ### Example 4
 
-Not recommended: blurry photos, photos that aren't of a face, or photos with excessive expressions
+Not recommended: blurry photos, photos without a face, or photos with excessive facial expressions
 
 If you've followed our instructions but still can't proceed to the next step, please wait six hours and try again.
 
 ## Further Reading
 
-> [Indonesia/Bali eVisa (eVoa) Complete Guide: Application Steps, Tips & Everything You Need to Know](/en/blog/bali-evisa-application-guide/)
+> [Indonesia/Bali eVisa (eVoa) Complete Guide: Application Steps, Tips & Everything You Need to Know!](/en/blog/bali-evisa-application-guide/)
 
 > [Fast & Convenient! 2024 Bali Auto-Gate Process & Customs Clearance Guide](/en/blog/2025-bali-automatic-customs/)

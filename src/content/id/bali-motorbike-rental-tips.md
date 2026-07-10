@@ -1,16 +1,17 @@
 ---
 slug: bali-motorbike-rental-tips
 title: >-
-  【Panduan Sewa Motor di Bali】Checklist Keamanan: Harga Sewa, Aturan SIM
-  Internasional & Jebakan Tilang Polisi
+  【Panduan Sewa Motor di Bali】Ceklis Keamanan: Harga Sewa, Aturan SIM
+  Internasional, dan Jebakan Tilang Polisi
 description: >-
-  Mau keliling Bali pakai motor sendiri? Checklist risiko ini bakal jadi
-  penyelamat kamu. Bahas tuntas harga sewa terbaru 2026, spesifikasi SIM
-  internasional yang wajib dibawa, dan aturan lalu lintas Indonesia. Plus: cara
-  cek kondisi motor biar gak kena masalah, prosedur kalau kecelakaan, dan tips
-  hadapi razia di jalan. Langsung dari ahlinya, biar kamu tetap aman dan dompet
-  selamat sambil menikmati vibes pulau. 
+  Mau keliling Bali pakai motor? Ceklis risiko ini bakal jadi penyelamatmu.
+  Bahas tuntas harga sewa terbaru 2026, syarat SIM internasional, dan aturan
+  lalu lintas Indonesia. Plus: cara cek kondisi motor biar nggak kena masalah,
+  prosedur kalau kecelakaan, dan tips hadapi razia di jalan. Langsung dari
+  ahlinya, biar kamu tetap aman dan dompet nggak jebol sambil menikmati vibes
+  pulau. 
 pubDate: 2025-11-06T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 旅行技巧
   - 叫車包車
@@ -28,172 +29,173 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6c80545c8d3d8426807cc8ab93225891.jpg'
 originalUrl: 'https://vocus.cc/article/672a0629fd897800010aa2bc'
 lang: id
-_srcHash: f415bef3dae532074bdff653e90e2772
+_srcHash: a816b5d7976406fac0e4bfd51693d4e6
 ---
+**Kesimpulan di depan**: **Buat yang belum pernah naik motor atau cuma liburan singkat, mending jangan sewa motor**; buat yang udah jago dan pede, silakan coba. Sewa mulai Rp 70.000–200.000 per hari tergantung motor. Sebelum berangkat, wajib siapkan SIM Internasional (IDP), dan waspada sama razia polisi serta jebakan klaim kecelakaan. Ceklis lengkapnya di bawah.
 
-Di Bali, motor adalah kendaraan sehari-hari warga lokal, apalagi di Ubud — mereka sering ngebut di antara sawah. Banyak turis lihat jadi kepengen juga, karena motor dianggap murah, praktis, dan bebas jelajahi Bali. 
+Di Bali, motor adalah kendaraan sehari-hari warga lokal, apalagi di Ubud, mereka sering ngebut di antara sawah. Banyak turis lihat jadi kepengen juga, karena motor dianggap murah, praktis, dan bebas jelajahi Bali.
 
-![【Panduan Sewa Motor di Bali】Checklist Keamanan: Harga Sewa, ](https://images.gobaligo.id/vocus/vocus_ff2d79a6384a7682bb6d83c4de623131.jpg)
+![【峇里島租機車攻略】安全風險檢查清單：租車價格、國際駕照規定與警察罰款陷阱全解析](https://images.gobaligo.id/vocus/vocus_ff2d79a6384a7682bb6d83c4de623131.jpg)
 
-## Apakah Aman Naik Motor di Bali? 
+## Apakah Naik Motor di Bali Aman?
 
-Jawaban singkat: tergantung situasi. Kalau kamu belum pernah naik motor dan cuma liburan singkat, mending skip aja. Tapi kalau udah jago dan pede, silakan coba! 
+Jawaban singkat: tergantung situasi. Kalau kamu belum pernah naik motor dan cuma liburan singkat, kami nggak saranin coba-coba; tapi kalau kamu udah jago dan pede, silakan aja!
 
-Naik motor di Bali tuh sensasinya beda — melintasi sawah, angin sepoi, pemandangan keren, gak ada duanya. Tapi inget, lalu lintas Bali beda banget sama daerah lain, apalagi di pusat kota yang macet. Warga lokal atau bule yang lagi liburan biasanya nyetir pakai feeling, jadi situasinya bisa chaotic. Kamu juga bakal nemu macet, bahkan tiba-tiba hujan deras. Siapin mental ya! 
+Naik motor di Bali punya sensasi tersendiri, nyusuri sawah, nikmatin angin dan pemandangan, nggak ada duanya. Tapi ingat, kondisi lalu lintas Bali beda banget sama daerah lain, apalagi di pusat kota yang macet. Baik warga lokal maupun turis asing, biasanya nyetir pakai insting, penuh risiko. Kamu juga bisa kena macet, atau tiba-tiba hujan deras. Siapin mental ya!
 
 ***
 
-## Berapa Biaya Sewa Motor? 
+## Berapa Biaya Sewa Motor?
 
-Harga sewa motor di Bali beda-beda tergantung tipe, umur motor, dan lokasi. 
+Harga sewa motor di Bali beda-beda tergantung tipe, umur motor, dan lokasi.
 
 **Biaya Sewa Jangka Pendek**
 
-- Scoopy atau Vario 110cc: 70.000–110.000 IDR (sekitar USD$6) / hari
-- Vario 125cc: 100.000–150.000 IDR (sekitar USD$7) / hari
-- NMax: 100.000–200.000 IDR (sekitar USD$8) / hari
+- Scoopy atau Vario 110cc: 70.000–110.000 IDR (sekitar USD$6)/hari
+- Vario 125cc: 100.000–150.000 IDR (sekitar USD$7)/hari
+- NMax: 100.000–200.000 IDR (sekitar USD$8)/hari
 
-**Biaya Sewa Jangka Panjang** Kalau kamu berencana tinggal lama di Bali, sewa jangka panjang biasanya lebih murah.
+**Biaya Sewa Jangka Panjang** Kalau kamu berencana tinggal lama di Bali, sewa jangka panjang biasanya lebih worth it.
 
-- Scoopy atau Vario 110cc: 1.100.000 IDR (sekitar USD$35) / bulan
-- Vario 125cc: 1.500.000 IDR (sekitar USD$48) / bulan
-- NMax: 2.000.000 IDR (sekitar USD$65) / bulan
+- Scoopy atau Vario 110cc: 1.100.000 IDR (sekitar USD$70)/bulan
+- Vario 125cc: 1.500.000 IDR (sekitar USD$95)/bulan
+- NMax: 2.000.000 IDR (sekitar USD$125)/bulan
 
-**Isi Bensin** Di pinggir jalan Bali, banyak pedagang kaki lima yang jual bensin pakai botol bekas vodka, harganya sekitar 10.000 IDR (sekitar USD$0.3) per liter.
+**Isi Bensin** Di pinggir jalan Bali, banyak penjual yang pakai botol bekas vodka buat jual bensin eceran, harganya sekitar 10.000 IDR (sekitar USD$0,6) per liter.
 
-![Berapa Biaya Sewa Motor?](https://images.gobaligo.id/vocus/vocus_9c66c50875ad9077897e9537cffffec5.jpg)
+![租借機車的費用是多少？](https://images.gobaligo.id/vocus/vocus_9c66c50875ad9077897e9537cffffec5.jpg)
 
-## Beberapa Alasan Kenapa Naik Motor di Bali Kurang Disarankan 🚫🏍️
+## Beberapa Alasan Kenapa Kamu Sebaiknya Gak Naik Motor di Bali 🚫🏍️
 
-Tapi buat turis luar, naik motor di Bali punya risiko lumayan gede. Berikut beberapa alasan kenapa kami kurang menyarankan naik motor sebagai transportasi utama:
+Tapi buat turis asing, naik motor di Bali itu risikonya lumayan gede. Berikut beberapa alasan kenapa kami gak menyarankan kamu pakai motor sebagai transportasi utama:
 
-### 1. Lalu Lintas Padat & Aturannya Rumit 🚦
+### 1. Lalu Lintas Padat & Aturannya Ribet 🚦
 
-Kondisi lalu lintas di Bali nggak main-main, apalagi di daerah populer kayak Kuta, Jimbaran, Seminyak — sering banget macet parah. Selain itu, Bali pakai sistem setir kanan, beda sama Taiwan atau China. Buat kamu yang biasa setir kiri, adaptasi dengan arus lalu lintas di sini bisa cukup susah. Ditambah lagi kendaraan lalu lalang, lampu merah yang jarang banget, kalau macet mereka suka nyebrang ke jalur lawan... dan faktor lainnya, bikin naik motor makin berisiko.
+Kondisi lalu lintas di Bali gak main-main, apalagi di daerah populer kayak Kuta, Jimbaran, Seminyak—sering banget macet parah. Selain itu, Bali pakai sistem setir kanan, beda sama Taiwan atau China. Buat kamu yang biasa setir kiri, adaptasi sama arus lalu lintas di sini bisa susah banget. Ditambah lagi kendaraan yang lalu lalang, lampu merah yang jarang banget ada, kalau macet mereka suka nyelip ke jalur lawan... pokoknya naik motor jadi makin berisiko.
 
-### 2. Pengendara Turis Asing Sering Nggak Stabil 🌍
+### 2. Pengendara Turis Asing yang Gak Stabil 🌍
 
-Di jalanan Bali, selain warga lokal, banyak juga turis asing. Banyak dari mereka yang di negaranya asli belum pernah naik motor, jadi pengalamannya minim, nyetirnya nggak stabil, suka ugal-ugalan di jalan — ini bikin bahaya banget buat keselamatan. Ketemu turis-turis kayak gini, walaupun skill kamu jago, tetap aja bisa kena risiko gara-gara mereka yang nggak stabil.
+Di jalanan Bali, selain warga lokal, banyak juga turis asing. Banyak dari mereka yang di negara asalnya gak pernah naik motor, jadi pengalamannya minim dan cara nyetirnya gak stabil—sering ugal-ugalan di jalan. Ini bikin bahaya banget buat keselamatan. Meskipun kamu jago banget nyetir, tetap aja bisa kena risiko gara-gara mereka yang nyetirnya gak karuan.
 
 https://youtube.com/shorts/KBLKSQT7Pn4?si=yxJwczQBjlD0jXzY
 
-### 3. 國際駕照 dan perlengkapan keselamatan wajib 📄
+### 3. SIM Internasional dan Perlengkapan Keselamatan Wajib 📄
 
-Di Bali, naik motor wajib punya SIM internasional, kalau nggak bisa kena tilang polisi lokal. Selain itu, aturan di Bali mewajibkan pakai helm saat naik motor, tapi banyak turis yang nggak biasa dan sering abaikan ini. Selain nggak aman, bisa kena denda juga.
+Di Bali, naik motor wajib punya SIM internasional, kalau nggak bisa kena tilang polisi setempat. Selain itu, aturan di Bali mewajibkan pengendara motor pakai helm, tapi banyak turis yang sering abaikan karena nggak biasa. Selain nggak aman, bisa kena denda juga.
 
-### 4. Biaya medis mahal banget 💰
+### 4. Biaya Medis Mahal Banget 💰
 
-Menurut cerita pemilik [Mr. Lobster](/id/blog/mr-lobster-seafood-restaurant-bali/), restoran seafood di Bali, dia sering ketemu turis yang cedera karena kecelakaan motor. Karena susah gerak, mereka nggak bisa ikut aktivitas lain, cuma bisa istirahat dan makan di restorannya. Yang perlu diwaspadai juga, biaya medis di Bali super mahal. Kalau sampai cedera, pengeluaran medis bisa bikin budget liburan membengkak dan bikin liburan jadi nggak seru. (Pengalaman pribadi: waktu itu teman saya patah pergelangan kaki, cuma dibalut dan diperban, biayanya 12.000.000, kira-kira setara NT$24.000 / USD$800)
+Menurut pemilik [Mr. Lobster](/id/blog/mr-lobster-seafood-restaurant-bali/), restoran seafood di Bali, dia sering ketemu turis yang celaka karena kecelakaan motor. Karena luka, mereka nggak bisa ikut aktivitas lain dan cuma bisa istirahat sambil makan di restorannya. Yang perlu diwaspadai, biaya medis di Bali itu mahal banget. Kalau sampai celaka, pengeluaran medis bisa bikin budget liburan membengkak dan bikin liburan jadi nggak seru. (Pengalaman pribadi: waktu itu teman saya patah pergelangan kaki, cuma dibalut dan diperban aja, habis 12.000.000, kira-kira USD$387)
 
-### 5. Kondisi jalan dan faktor alam 🌧️
+### 5. Kondisi Jalan dan Faktor Alam 🌧️
 
-Kondisi jalan di Bali nggak stabil, apalagi di Ubud atau daerah pedesaan. Jalamnya sempit, becek, dan bisa berubah drastis tergantung cuaca. Terutama di musim hujan, cuaca berubah cepat banget. Hujan deras yang tiba-tiba bisa bikin jalan licin, ditambah medan pegunungan di Bali yang cukup banyak. Buat turis yang nggak familiar dengan medan lokal, bisa gampang tergelincir atau kehilangan keseimbangan. Cuaca Bali juga nggak bisa diprediksi, jadi meskipun hari kelihatan cerah, tetap waspada sama hujan atau angin kencang yang datang tiba-tiba.
+Kondisi jalan di Bali nggak stabil, apalagi di Ubud atau daerah pedesaan. Jalannya sempit, becek, dan bisa berubah drastis tergantung cuaca. Apalagi pas musim hujan, cuaca berubah cepat banget. Hujan deras yang tiba-tiba bisa bikin jalan licin, ditambah medan perbukitan di Bali yang cukup banyak. Buat turis yang nggak familiar sama medan lokal, bisa gampang tergelincir atau kehilangan keseimbangan. Cuaca Bali juga susah ditebak, jadi meskipun hari cerah, tetap waspada sama hujan atau angin kencang yang datang tiba-tiba.
 
-### 6. Alternatif lain yang lebih hemat 🚖
+### 6. Alternatif Transportasi yang Lebih Hemat 🚖
 
-Sebenernya Bali punya banyak pilihan transportasi yang terjangkau, kayak sewa mobil dengan sopir, ojek online, atau taksi online. Dibandingkan motor, transportasi ini lebih aman dan praktis. Buat turis yang nggak familiar dengan lalu lintas lokal, ini pilihan yang lebih bijak.
+Sebenarnya Bali punya banyak pilihan transportasi yang lebih murah, kayak sewa mobil, ojek online, atau taksi online. Dibandingkan motor, transportasi ini lebih aman dan nyaman. Buat turis yang nggak familiar sama lalu lintas lokal, ini pilihan yang lebih bijak.
 
 > Baca juga: [Panduan Lengkap Sewa Mobil Pribadi di Bali - Biaya, Cara Pesan, Kelebihan](/id/blog/bali-private-car-hire-guide/)
 
-> Baca juga: [Panggil ojek lewat aplikasi, cara hemat waktu dan tenaga!](/id/blog/bali-travel-app-motorcycle-taxi/)
+> Baca juga: [Panggil Ojek lewat Aplikasi, Praktis dan Hemat Waktu!](/id/blog/bali-travel-app-motorcycle-taxi/)
 
-![6. Alternatif lain yang lebih hemat](https://images.gobaligo.id/vocus/vocus_49791dac6020e950bda56dde7ee4e7f5.jpg)
+![6. 經濟實惠的其他選擇](https://images.gobaligo.id/vocus/vocus_49791dac6020e950bda56dde7ee4e7f5.jpg)
 
 {{block:klook}}
 
-## Tips penting sebelum menyewa motor
+## Tips Keamanan Penting Saat Sewa Motor
 
-Kalau kamu masih nekat pakai motor sebagai alat transportasi, perhatikan beberapa hal penting ini:
+Kalau kamu tetap nekat pakai motor sebagai transportasi, perhatikan beberapa hal ini:
 
-- **Wajib pakai helm!** Mau jelek atau gerah sekalipun, helm harus tetap dipakai! Banyak kecelakaan terjadi karena terlalu percaya diri atau pengaruh alkohol.
-- **Jalan di kiri:** Ingat, Bali pakai setir kanan/jalan di kiri!
-- **Jangan gantung tas di badan:** Sering terjadi kasus perampasan tas di sini.
-- **Bawa SIM internasional:** Meski banyak penyewa yang nggak ngecek SIM, kalau ketemu polisi kamu bisa kena denda.
-- **Beli asuransi kesehatan:** Biaya medis di sini mahal banget, kalau ada kecelakaan bisa jadi perlindungan.
-- **Kasih fotokopi paspor aja:** Jangan pernah kasih paspor asli ke rental motor.
+- **Wajib pakai helm!** Mau jelek atau gerah, helm harus dipakai! Banyak kecelakaan terjadi karena terlalu percaya diri atau mabuk.
+- **Tetap di kiri:** Ingat, Bali pakai setir kanan / jalur kiri!
+- **Jangan gantung tas di badan:** Sering terjadi penjambretan di sini.
+- **Bawa SIM Internasional:** Meski banyak bengkel nggak ngecek SIM, kalau ketemu polisi bisa kena denda.
+- **Beli asuransi kesehatan:** Biaya medis di sini mahal, asuransi bisa jadi jaring pengaman kalau terjadi kecelakaan.
+- **Paspor cukup fotokopi:** Jangan kasih paspor asli ke rental motor.
 
 ## **Cek Kondisi Motor**
 
 ### Detail Kecil Sebelum Ambil Motor (Cek Kondisi)
 
-Jangan langsung bawa kabur motornya pas dikasih kunci sama bos! Pastiin kamu **belum nyalain mesin** dan **belum ninggalin tempat rental**, terus keluarin HP, buka mode video, dan rekam dari beberapa titik penting ini buat bukti.
+Jangan langsung bawa kabur motor begitu dikasih kunci! Pastikan sebelum mesin dinyalakan dan motor belum dibawa pergi, kamu buka HP dan rekam video dari beberapa poin penting ini sebagai bukti.
 
-![Detail Kecil Sebelum Ambil Motor (Cek Kondisi)](https://images.gobaligo.id/vocus/vocus_de43e176127f414dfd12cd2155b28955.png)
+![取車前的魔鬼細節（車況檢查）](https://images.gobaligo.id/vocus/vocus_de43e176127f414dfd12cd2155b28955.png)
 
-**1. Body Motor (Punya banyak lecet nggak?)**
+**1. Body Motor (Punya Banyak Lecet?)**
 
-- **Putar keliling:** Dari depan, samping, belakang sampai spion, cek bener-bener ada goresan, cat terkelupas, penyok, atau retak nggak.
-- **Perhatiin khusus:** Area baut bodi, ada bekas dibongkar atau kendor nggak? Itu bisa jadi tanda motor pernah jatuh.
-- **Tips rekam:** Sambil merekam, tunjukin setiap goresan pakai jari. Mending ajak bos atau pegawai ikut masuk frame sambil acungin jempol, biar dia setuju kalau itu luka lama.
+- **Putar keliling:** Dari depan, samping, belakang sampai spion, cek ada nggak goresan, cat terkelupas, penyok, atau retak.
+- **Perhatian khusus:** Cek area baut bodi apakah ada bekas dibongkar atau kendor, itu bisa tanda motor pernah jatuh.
+- **Tips rekam:** Sambil merekam, tunjuk setiap goresan dengan jari, mending minta bos atau karyawan ikut masuk frame sambil acung jempol, biar dia setuju itu luka lama.
 
 **2. Tes Fungsi Dasar**
 
-- **Spion:** Kenceng nggak? Pandangan jelas nggak? Banyak motor lokal spionnya kendor, di Indonesia pasti lolos uji, tapi di sini biasa aja. Saran: kencengin atau ganti motor.
-- **Sistem Lampu:** Minta temen berdiri di depan dan belakang, tes **lampu utama (dekat-jauh), sein, lampu rem**. Di Bali, malam hari tanpa lampu bahaya banget, dan sein mati gampang ditabrak dari belakang.
-- **Klason:** Pencet sekali. Di Bali, klakson biasanya buat "ngingetin" bukan "ngegas", jadi harus bunyi.
+- **Spion:** Kencang nggak? Pandangan jelas? Banyak motor lokal spionnya kendor, di Taiwan pasti nggak lolos uji, tapi di sini biasa. Mending kencangkan atau ganti motor.
+- **Sistem lampu:** Minta teman di depan dan belakang, tes **lampu utama (jauh-dekat), sein, lampu rem**. Di Bali, malam hari tanpa lampu bahaya banget, dan sein mati bisa bikin ditabrak dari belakang.
+- **Klason:** Tekan sekali, di Bali klakson biasanya buat 'ngingetin' bukan 'ngerjain', jadi klakson harus bunyi.
 
-**3. Mesin dan Ban (Kunci Keamanan)**
+**3. Mesin & Ban (Kunci Keselamatan)**
 
-- **Rem:** Coba tekan rem depan dan belakang, apakah terasa terlalu longgar atau terlalu kencang? Ada suara aneh nggak?
-- **Ban:** Cek kedalaman alur ban. Kalau udah gundul, pas hujan dan kelepak marka jalan pasti selip! Minta ganti motor aja.
-- **Panel instrumen:** Setelah dinyalakan, lihat apakah indikator kecepatan dan bensin berfungsi normal.
+- **Rem:** Coba tekan rem depan dan belakang, rasanya terlalu longgar atau terlalu kencang? Ada suara aneh nggak?
+- **Ban:** Cek kedalaman tapak ban. Kalau udah gundul, pas hujan dan injak marka jalan pasti selip! Mending minta ganti motor aja. 
+- **Panel instrumen:** Setelah dinyalakan, lihat indikator kecepatan dan bensin normal nggak.
 
-**4. Bagasi dan Aksesori**
+**4. Bagasi & Aksesori**
 
-- **Helm:** Biasanya yang dikasih helm ceper. Cek tali helm masih bagus nggak, lapisan dalam bersih nggak. Saran: kalau kamu peduli kebersihan, bawa aja inner cap dari Taiwan atau beli shower cap murah di minimarket lokal buat alas.
-- **Lubang kunci:** Apakah starter lancar? Kunci setang bisa dikunci nggak?
+- **Helm:** Biasanya helm ceper. Cek tali helm ada yang rusak nggak, lapisan dalamnya bersih nggak. Kalau kamu peduli kebersihan, bawa aja inner cap tipis dari Taiwan, atau beli shower cap murah di minimarket lokal buat alas. 
+- **Lubang kunci:** Starter lancar? Kunci setang bisa dikunci nggak?
 
-## Dokumen Wajib (Salah bawa, siap-siap kena tipu)
+## Dokumen Wajib (Bawa Salah Siap-siap Kena Pungli)
 
-Naik motor di Bali, razia polisi itu hal biasa. Kalau kamu nggak bisa tunjukin dokumen yang bener, mereka biasanya langsung minta 'denda' (alias uang kopi), nominalnya mulai dari 50.000 IDR sampai 500.000 IDR.
+Naik motor di Bali, razia polisi itu hal biasa. Kalau kamu nggak bisa tunjukin dokumen yang benar, mereka biasanya langsung minta 'denda' (alias uang kopi), nominalnya mulai dari 50.000 IDR sampai 500.000 IDR.
 
 **1. SIM Internasional (IDP) — Paling Penting!**
 
-- **SIM Taiwan:** Wajib urus **SIM Internasional** dulu (di kantor监理站, dalam 100 km bisa selesai sehari). Ingat, buku pink kecil dari监理站 itu harus dipake bareng SIM asli Taiwan (mobil atau motor).
-- **Catatan:** Terjemahan SIM Taiwan aja **nggak berlaku** di sini! Pastikan bawa 'SIM Internasional'.
-- **Kategori A:** Pastikan SIM Internasional kamu ada centang di kategori A (motor).
+- **SIM Taiwan:** Wajib urus **SIM Internasional** dulu (di kantor監理站, dalam 100 km bisa selesai sehari). Ingat, buku pink kecil dari監理站 itu harus dipake bareng SIM asli Taiwan (mobil atau motor).
+- **Catatan:** Terjemahan SIM Taiwan aja **nggak berlaku** di sini! Siapkan 'SIM Internasional' ya.
+- **Kategori A:** Pastikan di SIM Internasional kamu, kategori A (motor) sudah dicentang.
 
-**2. Paspor dan Visa**
+**2. Paspor & Visa**
 
-- Bawa fotokopi paspor (saran: simpan asli di brankas hotel, bawa fotokopi aja). Kalau polisi maksa lihat asli, baru ambil.
+- Bawa fotokopi paspor (saran: simpan asli di brankas hotel, bawa fotokopi aja). Kalau polisi maksa minta asli, baru ambil.
 
-**3. Kontrak Sewa Motor**
+**3. Kontrak Sewa**
 
-- Simpan struk kecil dari penyewa yang ada nomor plat motor dan masa sewanya — taruh di balik casing HP atau dompet biar gampang dicek kalau-kalau diperlukan.
+- Kertas kecil dari penyewa yang ada nomor plat dan masa sewa, simpan di balik casing HP atau dompet buat jaga-jaga.
 
-## Langkah Cek Asuransi (Biar Nggak Nangis Kalau Ada Apa-Apa)
+## Langkah Konfirmasi Asuransi (biar nggak nangis kalau kecelakaan)
 
-Banyak yang ngira asuransi bawaan sewa motor itu jaminan segalanya. Padahal nggak gitu, guys! Di Bali, asuransi sewa motor biasanya terbagi jadi tiga jenis:
+Banyak yang ngira asuransi sewa motor itu jaminan segalanya, padahal nggak! Sewa motor di Bali biasanya terbagi dalam tiga kondisi:
 
 **1. Pahami Bahasa Inggris di Kontrak**
 
-- **Loss Damage Waiver (LDW) / Asuransi Pencurian:** Kalau motor ilang, kamu harus bayar berapa?
-- **Collision Damage Waiver (CDW) / Asuransi Tabrakan:** Kalau motor penyok, ada tanggungan sendiri nggak?
-- **TPL (Third Party Liability) / Asuransi Pihak Ketiga:** Ini yang paling penting! Kalau kamu nabrak orang atau rusakin barang orang lain, asuransi bakal ganti rugi. Pastiin kontrak ada klausul ini.
+- **Loss Damage Waiver (LDW) / Asuransi Pencurian:** Kalau motor dicuri, berapa yang harus kamu bayar?
+- **Collision Damage Waiver (CDW) / Asuransi Tabrakan:** Kalau nabrak, kamu harus bayar deductible?
+- **TPL (Third Party Liability) / Asuransi Pihak Ketiga:** Ini yang paling penting! Kalau kamu nabrak orang atau rusakin barang orang lain, asuransi bakal bayar korban. Pastiin kontrak ada klausul ini.
 
 **2. Apa Itu 'Deductible'?**
 
-- Biasanya asuransi sewa motor punya yang namanya tanggungan sendiri (Excess/Deposit). Misalnya polis bilang tanggungan sendiri Rp2.000.000, artinya kalau biaya servis motor Rp3.000.000, kamu cuma bayar Rp2.000.000, sisanya Rp1.000.000 ditanggung asuransi.
-- **Tanya ke penyewa:** Wajib tanya: "If I crash, how much do I pay?" (Kalau kecelakaan, saya bayar berapa?). Kalau nominalnya gila-gilaan, pertimbangkan buat ambil asuransi all-risk dengan 'zero deductible'.
+- Biasanya asuransi sewa motor punya yang namanya deductible (Excess/Deposit). Misalnya polis bilang deductible 2 juta IDR, artinya kalau biaya servis motor 3 juta IDR, kamu cuma bayar 2 juta IDR, asuransi bayar 1 juta IDR.
+- **Tanya ke penyewa:** Wajib tanya: "If I crash, how much do I pay?" (Kalau kecelakaan, saya bayar berapa?). Kalau nominalnya gila-gilaan, pertimbangkan buat ambil asuransi all-risk dengan deductible nol.
 
 **3. Foto Stiker Asuransi**
 
-- Di Bali, motor sewaan legal biasanya punya stiker asuransi wajib dari pemerintah di bagian dashboard. **Foto, ya!** Di situ ada nomor polis dan masa berlaku. Kalau beneran ada masalah, nomor ini bisa dipakai buat ngecek perlindungan dasar di rumah sakit atau kantor polisi.
+- Di Bali, motor sewa legal biasanya punya stiker asuransi wajib pemerintah di dashboard. **Foto!** Di situ ada nomor polis dan masa berlaku. Kalau beneran kecelakaan, nomor ini bisa dipakai buat ngecek jaminan dasar di rumah sakit atau kantor polisi.
 
 https://youtu.be/lIV-T2jYhVk?si=KOKR7HFKOtrw1EAb
 
 ## Penutup
 
-Meskipun nyewa motor emang cara paling murah dan praktis buat keliling Bali, tapi di luar sana keselamatan tetap prioritas utama. Apalagi di tempat asing kalau sampai terjadi kecelakaan, selain nggak kenal daerah, kamu juga harus bayar biaya medis yang selangit, rugi banget. Saran gue, pas menjelajahi pulau cantik ini, mending pilih cara transportasi yang lebih aman biar bisa bener-bener santai nikmatin pemandangan dan budaya Bali.
+Meskipun nyewa motor emang cara paling irit dan praktis buat keliling Bali, tapi di perantauan, safety tetap nomor satu. Apalagi kalau sampai terjadi kecelakaan di tempat asing, bukan cuma bingung karena nggak kenal daerah, tapi juga harus bayar biaya medis yang selangit — rugi banget. Saran gue, pas kamu eksplor pulau cantik ini, mending pilih cara yang lebih aman biar bener-bener bisa menikmati pemandangan dan budaya Bali tanpa beban.
 
-![Penutup](https://images.gobaligo.id/vocus/vocus_65aeba9cc2da686003182b4431afa2a8.jpg)
+![結語](https://images.gobaligo.id/vocus/vocus_65aeba9cc2da686003182b4431afa2a8.jpg)
 
-Inget, **keselamatan nomor satu**! Ini bukan buat nakutin kamu, tapi buat ngingetin betapa berharganya nyawa, nggak sebanding buat ambil risiko cuma demi hemat sedikit uang, ya!
+Ingat, **keselamatan itu yang utama**! Bukan buat nakut-nakutin, tapi buat ngingetin kamu betapa berharganya nyawa — nggak worth it ambil risiko cuma demi hemat sedikit duit, ya!
 
 {{block:包車}}
 
 ---
 
-👈 **Kembali ke Panduan Lengkap Trip ke Bali**
+👈 **Kembali ke Panduan Utama Liburan Mandiri ke Bali**
 
-Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.
+Mau lihat paket lengkap untuk pemula? [Klik di sini baca 「Panduan Utama Liburan Mandiri ke Bali 2026」](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.

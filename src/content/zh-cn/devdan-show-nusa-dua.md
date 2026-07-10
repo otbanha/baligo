@@ -5,6 +5,7 @@ description: >-
   探索巴厘岛最震撼的舞台剧！Devdan Show
   天谭秀结合传统舞蹈、现代杂技与水火特效。本篇详解如何预订最划算门票、挑选黄金视角座位，并带您预览从巴厘岛到苏门答腊的文化奇幻旅程。是您在努沙杜瓦绝对不能错过的晚间艺术盛宴。
 pubDate: 2025-06-21T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 家庭親子
   - 美食景點活動
@@ -22,14 +23,15 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_127a8e6469f56bdbefac0f605a55d6a8.jpg'
 originalUrl: 'https://vocus.cc/article/68557a29fd897800017f4272'
 lang: zh-cn
-_srcHash: d262ee0d911fdf1ad9de1b5aa4b52af8
+_srcHash: 1c3aac6105a7efd0be6ddd0d45fed936
 ---
+## **什么是 Devdan 天坛秀？一场穿越印尼文化的旅程**
 
-## **什么是Devdan 天坛秀？一场穿越印尼文化的旅程**
+**先说结论**：Devdan Show 是努沙杜瓦必看的**90 分钟**大型文化秀，规模仅次于阿贡秀，融合印尼传统舞蹈、高空杂技与声光特效，带你穿越**爪哇、苏门答腊、加里曼丹、巴布亚**四岛文化。适合亲子共赏，建议提前线上购票挑选黄金视角座位。
 
 **Devdan Show** 是巴厘岛最富盛名的文化演出，是巴厘岛目前除了阿贡秀（Agung Show）以外，规模最大的文化舞台演出。这场长达 **90 分钟** 的精彩秀融合了印尼传统舞蹈与现代编排，搭配高空杂技、高科技声光效果与梦幻舞台场景。
 
-![什么是Devdan 天坛秀？一场穿越印尼文化的旅程](https://images.gobaligo.id/vocus/vocus_8268bd56daf9cc60d4f546d2f8b1704a.jpg)
+![什麼是 Devdan 天壇秀？一場穿越印尼文化的旅程](https://images.gobaligo.id/vocus/vocus_8268bd56daf9cc60d4f546d2f8b1704a.jpg)
 
 从 **巴厘岛出发**，观众将跟随表演者一同穿越 **爪哇、苏门答腊、加里曼丹（婆罗洲）与巴布亚岛**，深入体验各地的文化魅力与艺术特色。
 
@@ -59,7 +61,7 @@ _srcHash: d262ee0d911fdf1ad9de1b5aa4b52af8
 
 ## **天谭秀的舞台特色：视觉与感官的极致盛宴**
 
-![天谭秀的舞台特色：视觉与感官的极致盛宴](https://images.gobaligo.id/vocus/vocus_381834950c1735172093008b9877240c.jpg)
+![天譚秀的舞台特色：視覺與感官的極致饗宴](https://images.gobaligo.id/vocus/vocus_381834950c1735172093008b9877240c.jpg)
 
 - 高空杂技、飞人演出令人惊叹
 - 传统服饰与舞蹈融合现代编排
@@ -72,18 +74,18 @@ _srcHash: d262ee0d911fdf1ad9de1b5aa4b52af8
 
 整场演出在设备完善的 **Bali Nusa Dua 剧院** 进行，最多可容纳 **700 位观众**，空调环境舒适，非常适合家庭与团体观赏。
 
-![座位选择与票价解析｜找到最适合的观赏位置](https://images.gobaligo.id/vocus/vocus_27f2fce36dd9ae0a7928b63fdbe2f621.jpg)
+![座位選擇與票價解析｜找到最適合的觀賞位置](https://images.gobaligo.id/vocus/vocus_27f2fce36dd9ae0a7928b63fdbe2f621.jpg)
 
-![座位选择与票价解析｜找到最适合的观赏位置](https://images.gobaligo.id/vocus/vocus_083c0ec0712612470e5fe656fa6d43f7.jpg)
+![座位選擇與票價解析｜找到最適合的觀賞位置](https://images.gobaligo.id/vocus/vocus_083c0ec0712612470e5fe656fa6d43f7.jpg)
 
-![座位选择与票价解析｜找到最适合的观赏位置](https://images.gobaligo.id/vocus/vocus_c9c30706d2a02184e02e878a68e6802f.jpg)
+![座位選擇與票價解析｜找到最適合的觀賞位置](https://images.gobaligo.id/vocus/vocus_c9c30706d2a02184e02e878a68e6802f.jpg)
 
 **剧院座位类别如下**：
 
-![座位选择与票价解析｜找到最适合的观赏位置](https://images.gobaligo.id/vocus/vocus_fb4c9945a879000f0724b9bb1faa1fff.png)
+![座位選擇與票價解析｜找到最適合的觀賞位置](https://images.gobaligo.id/vocus/vocus_fb4c9945a879000f0724b9bb1faa1fff.png)
 
-[> [Klook购票链接](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
-> [kkday购票链接](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
+> [Klook购票链接](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
+> [kkday购票链接](https://www.kkday.com/zh-cn/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
 
 **Devdan Show 时间表与建议安排**
 
@@ -101,15 +103,15 @@ _srcHash: d262ee0d911fdf1ad9de1b5aa4b52af8
 
 ## **Devdan 秀票价是否值得？绝对超值的文化体验！**
 
-![Devdan 秀票价是否值得？绝对超值的文化体验！](https://images.gobaligo.id/vocus/vocus_018d8e97531a776ff4ad6d0d3449b5f3.jpg)
+![Devdan 秀票價是否值得？絕對超值的文化體驗！](https://images.gobaligo.id/vocus/vocus_018d8e97531a776ff4ad6d0d3449b5f3.jpg)
 
 若你正在犹豫是否值得花时间与金钱欣赏【天谭秀（Devdan Show）】，那答案绝对是——**值回票价！**
 
-![Devdan 秀票价是否值得？绝对超值的文化体验！](https://images.gobaligo.id/vocus/vocus_a45cf5d59c2eb25fa78951a3f7f6ae28.jpg)
+![Devdan 秀票價是否值得？絕對超值的文化體驗！](https://images.gobaligo.id/vocus/vocus_a45cf5d59c2eb25fa78951a3f7f6ae28.jpg)
 
 这场表演可说是汇集印尼五大岛屿文化之大成，不仅融合传统与现代舞蹈、空中杂技、华丽服饰与声光效果，更以高度戏剧性与视觉张力征服观众的目光。
 
-![Devdan 秀票价是否值得？绝对超值的文化体验！](https://images.gobaligo.id/vocus/vocus_723fad9dd24bf7b6dbddabafe8f1b521.jpg)
+![Devdan 秀票價是否值得？絕對超值的文化體驗！](https://images.gobaligo.id/vocus/vocus_723fad9dd24bf7b6dbddabafe8f1b521.jpg)
 
 👉 【天谭秀（Devdan Show）】可以说是**看过所有国家表演中最具特色的一场**，其精彩程度完全不输给《澳门–水舞间》或《泰国–天使秀》！
 
@@ -117,16 +119,16 @@ _srcHash: d262ee0d911fdf1ad9de1b5aa4b52af8
 
 在短短 90 分钟内，你将穿越印尼五大岛屿，享受一场结合音乐、舞蹈、杂技与艺术的文化冒险。
 
-> [Klook购票链接](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
-> [kkday购票链接](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
+> [Klook购票链接](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
+> [kkday购票链接](https://www.kkday.com/zh-cn/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
 
 ***
 
 ## **如何前往 Devdan Show 剧院？地点交通指南**
 
-![如何前往 Devdan Show 剧院？地点交通指南](https://images.gobaligo.id/vocus/vocus_5e8c2295a644d7b8e5139ae58c2f5820.jpg)
+![如何前往 Devdan Show 劇院？地點交通指南](https://images.gobaligo.id/vocus/vocus_5e8c2295a644d7b8e5139ae58c2f5820.jpg)
 
-**地点**：巴厘岛努沙杜瓦 ITDC 旅游园区内
+**地点**：巴厘岛 Nusa Dua ITDC 旅游园区内
 
 **交通方式**：建议搭乘出租车或包车，距离机场约 30 分钟车程
 
@@ -156,6 +158,6 @@ _srcHash: d262ee0d911fdf1ad9de1b5aa4b52af8
 
 ### **5. 要提前多久购票？**
 
-旺季期间建议至少提前2至3天预订，特别是VIP座位。
+旺季期间建议至少提前 2 至 3 天预订，特别是 VIP 座位。
 
 {{block:klook}}

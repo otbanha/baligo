@@ -1,8 +1,9 @@
 ---
 slug: bali-belly-medicine-guide
 title: Bali Belly 巴厘岛腹泻/肠胃炎/脏水病如何自救？Bali Belly 缓解成药攻略
-description: "\U0001F48A 巴厘岛当地药店可购药品清单（针对Bali Belly）"
+description: "\U0001F48A 巴厘岛当地药店可购药品清单 (针对Bali Belly)"
 pubDate: 2026-01-02T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 旅行技巧
 tags:
@@ -14,10 +15,8 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_eef45058d1c6971ff4946e72428f3b65.png'
 originalUrl: 'https://vocus.cc/article/69523427fd89780001caa652'
 lang: zh-cn
-_srcHash: aeefbbe35d79486ce3f1f78c897777b1
+_srcHash: df4f34483a681932b9f31a772f2b1e58
 ---
-Update: 2026/07/03
-
 ![Bali Belly 峇里島腹瀉/腸胃炎/髒水病如何自救?Bali Belly 紓解成藥攻略](https://images.gobaligo.id/vocus/vocus_4d4eba54aefdb7fa2355dfd2cba7bd0b.png)
 
 **先说结论**：Bali Belly（巴厘岛腹泻）发作时**优先补水而非止泻**——当地药店可买 **口服补液盐 ORS**（品牌 Oralit、Hydralyte，治疗核心，比单纯止泻更重要），轻度症状再搭配吸附型止泻药（Norit、Entrostop）。运动饮料无法完全取代 ORS。以下整理完整自救药品清单与何时该就医的判断。
@@ -28,7 +27,7 @@ Update: 2026/07/03
 
 https://youtu.be/GivvqCXp11A
 
-## 💊 巴厘岛当地药店可购药品清单（针对Bali Belly）
+## 💊 巴厘岛当地药店可购药品清单 (针对Bali Belly)
 
 ### 1. 口服补液盐 (ORS) – 治疗核心
 
@@ -86,7 +85,7 @@ https://youtu.be/GivvqCXp11A
 
 ## ⚠️ 重要安全须知与就医警讯
 
-**1. 不要自行服用抗生素**：巴厘肚可能由病毒或细菌引起，滥用抗生素无效且有害。抗生素需由医生诊断后开具。
+**1. 不要自行服用抗生素**：Bali Belly可能由病毒或细菌引起，滥用抗生素无效且有害。抗生素需由医生诊断后开具。
 
 **2.** **首要任务是补水**：无论是否用药，都必须持续、少量多次地补充口服补液盐溶液或干净的瓶装水。
 
@@ -106,11 +105,11 @@ https://youtu.be/GivvqCXp11A
 
 ## 🏥 如何寻求医疗协助
 
-如果症状需要看医生，可以前往巴厘岛的国际标准诊所，如BIMC、Siloam、Prime Plus Medical等，这些地方通常有会说英语的医护人员。若情况比较严重不便出门，巴厘岛的 [Unicare Clinic Bali 24/7全天候医生随叫随到](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1191913&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170717-24-7-doctor-on-call-bali-at-unicare-clinic-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92260e07ac) 服务也可以善用。
+如果症状需要看医生，可以前往巴厘岛的国际标准诊所，如BIMC、Siloam、Prime Plus Medical等，这些地方通常有会说英语的医护人员。若情况比较严重不克出门，巴厘岛的 [Unicare Clinic Bali 24/7全天候医生随叫随到](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1191913&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170717-24-7-doctor-on-call-bali-at-unicare-clinic-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92260e07ac) 服务也可以善用。
 
 ## 💡 购买与沟通建议
 
-· 寻找可靠药局：可以优先寻找连锁药局，如Guardian、Kimia Farma、Watsons，这些地方药品来源正规。
+· 寻找可靠药店：可以优先寻找连锁药店，如Guardian、Kimia Farma、Watsons，这些地方药品来源正规。
 
 · **沟通备用词句：如果语言不通，可以尝试向药剂师出示以下短句：**
 

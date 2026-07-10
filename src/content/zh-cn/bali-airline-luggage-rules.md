@@ -3,6 +3,7 @@ slug: bali-airline-luggage-rules
 title: 飞巴厘岛常用航空公司行李规定懒人包
 description: 探索飞往巴厘岛的航空公司行李限制，包括手提和托运行李的尺寸、重量限制，顺利安排行李并避免额外费用。
 pubDate: '2024-01-28'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_464640962d386de325b9da6116644f7e.png'
 tags:
   - 峇里島
@@ -14,28 +15,29 @@ originalUrl: 'https://vocus.cc/article/65b62204fd89780001edda35'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: ec8edd47b4722fe12f10b7d141a504c9
+_srcHash: 64e80750267dfdc30c672ec28783043f
 ---
+**先讲结论**：飞巴厘岛常见航司（长荣、中华、国泰）行李规定大致相同——**手提行李约 23×36×56 厘米、7 公斤以下**；**托运行李 23-32 公斤**不等（依航班与舱等而异）。超重超尺寸会被收取额外费用，且各航司标准有差异，出发前务必确认自己搭乘航班的实际规定。
 
 飞往巴厘岛的旅程，是一段充满梦幻与奇迹的体验，而对于许多旅客而言，机上行李的限制常常是旅程中的一大考验。为了确保航空安全、提供更好的服务，飞巴厘岛的航空公司均设定了一系列的行李限制，让旅客在出行前能有所准备。
 
-![飞巴厘岛常用航空公司行李规定懒人包](https://images.gobaligo.id/vocus/vocus_75cdac7984a270510cfc57093aa036cd.png)
+![飛峇里島常用航空公司行李規定懶人包](https://images.gobaligo.id/vocus/vocus_75cdac7984a270510cfc57093aa036cd.png)
 
 以下我们列出了台湾、香港朋友最常使用的三家航空公司的行李限制给大家参考：
 
 ## 长荣航空
 
-![长荣航空](https://images.gobaligo.id/vocus/vocus_091759da1e2ff505b6ee56f141cc5264.png)
+![長榮航空](https://images.gobaligo.id/vocus/vocus_091759da1e2ff505b6ee56f141cc5264.png)
 
 ## 中华航空
 
-![中华航空](https://images.gobaligo.id/vocus/vocus_df96d9694d34f46eb9dbdd904ce0b8e5.png)
+![中華航空](https://images.gobaligo.id/vocus/vocus_df96d9694d34f46eb9dbdd904ce0b8e5.png)
 
 ## 国泰航空
 
-![国泰航空](https://images.gobaligo.id/vocus/vocus_fce8ee99876ef1edc7a88c2dc3372aeb.png)
+![國泰航空](https://images.gobaligo.id/vocus/vocus_fce8ee99876ef1edc7a88c2dc3372aeb.png)
 
-大多数航空公司都有关于手提行李的规定。通常情况下，每位乘客可以携带一件手提行李，尺寸和重量限制因航空公司而异。在飞巴厘岛的航班上，常见的手提行李限制大约是23公分x36公分x56公分，重量则多为7公斤以下。然而，请注意这些规定可能因航空公司政策调整而有所变化，最好在出发前仔细确认。
+大多数航空公司都有关于手提行李的规定。通常情况下，每位乘客可以携带一件手提行李，尺寸和重量限制因航空公司而异。在飞巴厘岛的航班上，常见的手提行李限制大约是23厘米x36厘米x56厘米，重量则多为7公斤以下。然而，请注意这些规定可能因航空公司政策调整而有所变化，最好在出发前仔细确认。
 
 其次，托运行李的限制也是需要考虑的重要因素。每位乘客通常可以免费托运一定重量的行李，具体限制则因航空公司、航班类型和订票等级而有所不同。在飞巴厘岛的航班上，一般的托运行李限制为23公斤至32公斤不等，同样建议在出行前查阅并确认相关规定，以避免不必要的麻烦。
 

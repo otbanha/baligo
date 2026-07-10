@@ -2,21 +2,24 @@
 slug: bali-spa-recommendations
 title: 【疯狂做SPA】巴厘岛自由行 & 心得分享：SPA推荐清单
 description: >-
-  团友Li Ly和她的朋友刚结束雨季之中的巴厘岛之旅，就来跟我们分享她们的旅游心得囉！
+  团友Li Ly和她的朋友刚结束雨季之中的巴厘岛之旅，就来跟我们分享她们的旅游心得啰！
   受惠于社团许多信息，把这次二月底去巴厘岛自由行的心得分享给大家，仅供参考噢！我们本次的行程主要是：参加一些Activity、SPA、美食，剩下的都叫做「享受」
 pubDate: 2024-03-14T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 遊記分享
 tags: []
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4603b531b61b14e13a527e7b2492d400.jpg'
 originalUrl: 'https://vocus.cc/article/65ed5114fd89780001dcc688'
 lang: zh-cn
-_srcHash: 9a140c7117e89867e608306b5c6d971a
+_srcHash: 2f12cce56c5108a77487c3a27b49eb52
 ---
+**团友**[**Li Ly**](https://www.facebook.com/lily850711/)**和她的朋友刚结束雨季之中的巴厘岛之旅，就来跟我们分享她们的旅游心得啰！**
 
-**团友**[**Li Ly**](https://www.facebook.com/lily850711/)**和她的朋友刚结束雨季之中的巴厘岛之旅，就来跟我们分享她们的旅游心得囉！**
+![【瘋狂做SPA】峇里島自由行 & 心得分享：SPA推薦清單](https://images.gobaligo.id/vocus/vocus_7566854d107df6ce88ddc76fca498f38.jpg)
 
-![【疯狂做SPA】巴厘岛自由行 & 心得分享：SPA推荐清单](https://images.gobaligo.id/vocus/vocus_7566854d107df6ce88ddc76fca498f38.jpg)
+**重点摘要**：这趟雨季巴厘岛自由行心得——库塔海滩冲浪选**早上 9 点时段**人少不晒伤，随身物品交给包车司机保管；入境电子申报全部线上先办好，走自动通关很快（但领行李可能等 40 分钟）。以下依 Activity、SPA、美食分类详细分享推荐清单。
 
 受惠于社团许多信息，把这次二月底去巴厘岛自由行的心得分享给大家，仅供参考噢！我们本次的行程主要是：参加一些Activity、SPA、美食，剩下的都叫做「享受」
 
@@ -30,9 +33,9 @@ _srcHash: 9a140c7117e89867e608306b5c6d971a
 
 ### 库塔海滩冲浪
 
-1. 一对一教练，包含一小时的教学和一小时的自由练习。虽然比台湾的教学稍嫌粗糙，但作为体验来说仍然不错。然而，库塔海滩的垃圾真的相当多。
-2. 我们为了避免晒伤，约在早上9点开始冲浪。在这个时间段，只有我们一组人，体验相当不错。
-3. 在冲浪过程中，无需担心随身重要物品，只需交给包车司机即可。
+1. 一对一教练，包含一小时的教学和一小时自由练习。虽然比台湾的教学稍显粗糙，但作为体验来说还不错。然而，库塔海滩的垃圾确实很多。
+2. 我们为了避免晒伤，大约在早上9点开始冲浪。这个时间段只有我们一组人，体验相当不错。
+3. 冲浪过程中，无需担心随身重要物品，交给包车司机即可。
 4. 有专人协助拍摄我们的照片和视频，让我们能留下珍贵的回忆。
 5. 想换衣服、冲洗也都有提供（需另行付费）
 
@@ -48,23 +51,23 @@ https://youtu.be/gECdNvG16ww
 
 ### 夕阳海滩骑马
 
-![夕阳海滩骑马](https://images.gobaligo.id/vocus/vocus_6ff1e2744d79be91e88a8775750847dc.png)
+![夕陽海灘騎馬](https://images.gobaligo.id/vocus/vocus_6ff1e2744d79be91e88a8775750847dc.png)
 
-1. 通过在线订票订购，每人接近55美元，提供一对一教练，教练会牵着马。
+1. 通过线上订票订购，每人接近55美元，提供一对一教练，教练会牵着马。
 2. 体验相当不错，每位教练都会拿着我们各自的手机协助拍摄照片和视频。
-3. 然而，所有活动都存在一定的风险。在体验的尾端，我突然被马甩下来了，幸运的是，我全程都有掌握住马+具备一定的运动能力，当我在马上翻倒时，我半被甩半自己跳开，因此并没有受到太多伤害。我的教练也一直道歉，最后他们的员工用小型摩托车将我载回去。与商家沟通后，他们表示这是第一次发生这样的情况，因此想了解具体发生了什么事情，但我只记得马突然开始甩动，我感到无奈，教练也是一样。
-4. 这里的景色真的非常美丽，相较于台湾，价格也相当实惠。唯一需要注意的是安全，实际上所有活动都存在一定的风险，因此旅行保险也是必要的。
+3. 然而，所有活动都存在一定风险。在体验的尾端，我突然被马甩下来了，幸运的是，我全程都抓住了马缰绳，并且具备一定的运动能力，当我在马上翻倒时，我半被甩半自己跳开，因此并没有受到太多伤害。我的教练也一直道歉，最后他们的员工用小型摩托车将我载回去。与商家沟通后，他们表示这是第一次发生这样的情况，因此想了解具体发生了什么，但我只记得马突然开始甩动，我感到无奈，教练也是一样。
+4. 这里的景色真的非常美丽，相比台湾，价格也相当实惠。唯一需要注意的是安全，实际上所有活动都存在一定风险，因此旅行保险也是必要的。
 
 > [沙滩骑马体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772665&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77068-horse-riding-combo-experience-bali-trip-premium%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D509d71363f)
 
 ### 日出吉普车
 
-![日出吉普车](https://images.gobaligo.id/vocus/vocus_d007f0cd9a6adf529354c1ea176d2bd4.jpg)
+![日出吉普車](https://images.gobaligo.id/vocus/vocus_d007f0cd9a6adf529354c1ea176d2bd4.jpg)
 
 团友 Li Ly 提供
 
-1. 通过KLOOK订购，每人约50美元左右，包含接送。
-2. 凌晨02:50，司机Dita准时到达酒店大厅接送。虽然开车速度快，但仍保持了安全。我在回程时忘了水在车上，他还特地帮我送回酒店。
+1. 通过KLOOK预订，每人约USD$48左右，包含接送。
+2. 凌晨02:50，司机Dita准时到达饭店大厅接送。虽然开车速度快，但仍保持了安全。我回程时忘了水在车上，他还特地帮我送回饭店。
 3. 吉普车司机Suda非常亲切，转弯和陡峭路段都会提前通知并确认我们都抓牢后才前进，并且认真地帮忙拍照。
 4. 因为天气不佳，未能看到日出。司机表示如果天气好的话，凌晨还可以观赏满天星空。这次未能如愿，有点可惜，但我之后还会想再去一次！
 5. 记得多穿一些，最好带上帽子，因为凌晨在高山上会很冷。
@@ -81,16 +84,16 @@ https://youtu.be/gECdNvG16ww
 
 不负责建议，按摩要白天按：
 
-1. **Putri Ubud Spa Seminyak**：位于水明漾, 登巴萨的No.5, Jl. Kayu Jati, Kerobokan Kelod, 库塔北部, 巴东县, 巴厘岛 80361。Arie帮助预订，是当地感觉最本地化的小店，整体干净，无纸内裤更换无冲洗，价格实惠。推荐体验：13:00巴厘岛Spa 60分钟，价格5美元。
-2. **Jaens Spa Shanti Ubud**：位于Banjar Kumbuh, MAS, 乌布区, 吉安雅县, 巴厘岛 80571。Arie推荐并协助预订，装潢漂亮干净，服务态度极佳，有纸内裤更换，体验很好，价格中等。推荐体验：13:00热石按摩120分钟，价格19美元。
-3. **Putri Bali Spa**：位于Jl. Raya Sanggingan, Kedewatan, 乌布区, 吉安雅县, 巴厘岛。通过What’s app预定，规模较大，装潢漂亮，但体验不佳。体验：18:00阿育吠陀瑜伽治疗按摩90分钟，价格13美元。（[这里可以预约](https://affiliate.klook.com/redirect?aid=116349&aff_adid=826549&k_site=https%3A%2F%2Fwww.klook.com%2Fid%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Dc4b3ede014)）
-4. **The Calma Spa Bali - Jimbaran Beach**：位于Jl. Uluwatu II No.108X, 金巴兰, 库塔南部区, 巴东县, 巴厘岛 80361。Arie推荐并协助预订，装潢漂亮干净，有纸内裤更换，但部分按摩师表现一般。体验：19:00热石按摩120分钟，特价21美元。
-5. **LuxMe Bali Spa**：位于Jalan Nuansa Utama VIII, Jl. Nuansa Utama Jl. Taman Griya No.6, 金巴兰, 库塔南部区, 巴东县, 巴厘岛 80361。通过What’s app预定，店家藏身巷弄，干净，有纸内裤更换，服务很好，按摩舒适。推荐体验：15:30四手按摩60分钟，价格14美元。
-6. **ASAI Spa**：位于Jl. Pura Sekaang, ASAI Village, 金巴兰, 巴厘岛 80361。通过What’s app预定，整体干净，隐私性稍差，有纸内裤更换，价格中等。体验：11:00深层组织按摩90分钟，价格19美元。（[这里可以预约](https://affiliate.klook.com/redirect?aid=116349&aff_adid=826549&k_site=https%3A%2F%2Fwww.klook.com%2Fid%2Factivity%2F104313-spa-in-jimbaran-bali-by-asai-village%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D8e80c5d26b)）
+1. **Putri Ubud Spa Seminyak**：位于Seminyak, Denpasar的No.5, Jl. Kayu Jati, Kerobokan Kelod, Kuta Utara, Badung Regency, Bali 80361。Arie帮助预订，是当地感觉最本地化的小店，整体干净，无纸内裤更换无冲洗，价格实惠。推荐体验：13:00巴厘岛Spa 60分钟，价格165K。
+2. **Jaens Spa Shanti Ubud**：位于Banjar Kumbuh, MAS, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571。Arie推荐并协助预订，装潢漂亮干净，服务态度极佳，有纸内裤更换，体验很好，价格中等。推荐体验：13:00热石按摩120分钟，价格595K。
+3. **Putri Bali Spa**：位于Jl. Raya Sanggingan, Kedewatan, Kecamatan Ubud, Kabupaten Gianyar, Bali。通过What’s app预定，规模较大，装潢漂亮，但体验不佳。体验：18:00阿育吠陀瑜伽治疗按摩90分钟，价格400K。（[这里可以预约](https://affiliate.klook.com/redirect?aid=116349&aff_adid=826549&k_site=https%3A%2F%2Fwww.klook.com%2Fid%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Dc4b3ede014)）
+4. **The Calma Spa Bali - Jimbaran Beach**：位于Jl. Uluwatu II No.108X, Jimbaran, Kec. Kuta Sel., Kabupaten Badung, Bali 80361。Arie推荐并协助预订，装潢漂亮干净，有纸内裤更换，但部分按摩师表现一般。体验：19:00热石按摩120分钟，特价650K。
+5. **LuxMe Bali Spa**：位于Jalan Nuansa Utama VIII, Jl. Nuansa Utama Jl. Taman Griya No.6, Jimbaran, Kec. Kuta Sel., Kabupaten Badung, Bali 80361。通过What’s app预定，店家藏身巷弄，干净，有纸内裤更换，服务很好，按摩舒适。推荐体验：15:30四手按摩60分钟，价格420K。
+6. **ASAI Spa**：位于Jl. Pura Sekaang, ASAI Village, Jimbaran, Bali 80361。通过What’s app预定，整体干净，隐私性稍差，有纸内裤更换，价格中等。体验：11:00深层组织按摩90分钟，价格575K。（[这里可以预约](https://affiliate.klook.com/redirect?aid=116349&aff_adid=826549&k_site=https%3A%2F%2Fwww.klook.com%2Fid%2Factivity%2F104313-spa-in-jimbaran-bali-by-asai-village%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D8e80c5d26b)）
 
 ### 想去但订不到的SPA：
 
-Body works：照片看起来很漂亮，但非常热门，有兴趣想体验的人，要提前很多预约噢！（[这里可以预约](https://affiliate.klook.com/redirect?aid=116349&aff_adid=826549&k_site=https%3A%2F%2Fwww.klook.com%2Fid%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Dc4b3ede014)）我们第一天去，整整七天都约不到空位... orz
+Body works：照片看起来很漂亮，但非常热门，有兴趣想体验的人，要提前很多预约哦！（[这里可以预约](https://affiliate.klook.com/redirect?aid=116349&aff_adid=826549&k_site=https%3A%2F%2Fwww.klook.com%2Fid%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Dc4b3ede014)）我们第一天去，整整七天都约不到空位... orz
 
 ## 餐厅推荐 & 心得
 
@@ -102,15 +105,15 @@ https://youtu.be/RodQvCZKwD0
 
 > [WAHAHA用餐优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=826549&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89650-wahaha-pork-ribs-bali-seminyak-jimbaran%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D244d4cf770)
 
-- **Bakso LA**：路边小吃店，因为我们想尝尝当地风味，Arie带我们去了他常去的店。美味，虽然口感有些像台湾的肉丸，但这么大颗的肉丸在台湾不太常见。一碗17K。
+- **Bakso LA**：路边小吃店，因为我们想尝尝当地风味，Arie带我们去他常去的店。美味，虽然口感有些像台湾的肉丸，但这么大颗的肉丸在台湾不太常见。一碗17K（约USD$548）。
 - **Terang Bulan和Martabak**：路边小吃，也是我们想尝试的美食之一。Arie带我们去购买，这些食物有点像台湾的葱抓饼，回到Villa后大家一起享用，搭配啤酒很美味。在等待时，正好下起小雨，Arie很贴心地让我们在车上吹空调，自己在外面等待。
 - **HATIKU Jimbaran**：品尝烤鱼，和下一家的Lia Cafe进行了比较。这家的酱料口味比较重，价格略高。
 - **Lia Cafe**：Arie推荐的烤鱼餐厅，我们一致认为比较符合我们的口味。天气不好时建议改天再前往。
 
 {{block:jim}}
 
-- **Double-Six Rooftop**：适合观赏夕阳的地点，若有预约则可获得前排位置（低消一桌1,000K），晚上七点前有cocktail买一送一。
-- **Merah Putih**：印尼料理，美味且装潢漂亮，室内有舒适的空调，价格略高。
+- **Double-Six Rooftop**：适合观赏夕阳的地点，若有预约则可获得前排位置（低消一桌1,000K，约USD$32,258），晚上七点前有cocktail买一送一。
+- **Merah Putih**：印尼料理，美味且装修漂亮，室内有舒适的空调，价格略高。
 - **La Brisa Bali**：漂亮的Beach club，拍照效果极佳，餐点和酒水都不错，可直接步行至旁边的沙滩。
 
 > 延伸阅读：[被誉为是「巴厘岛最漂亮的餐厅」：La Brisa在数以万计的美食餐厅之中如何脱颖而出？](/zh-cn/blog/canggu-la-brisa-restaurant-guide/)
@@ -130,13 +133,13 @@ https://youtu.be/RodQvCZKwD0
 
 Inara Alas Harum
 
-这次我们住了三家，其中一家[Inara Alas Harum](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41581751)让我们印象深刻。尽管它位于丛林中，不在热闹的地区（但交给Arie他会确保平安送达），但服务人员非常友好，任何需求都可以通过What's app提出，而且即使我们英文不好，也没有问题，因为他们可以慢慢翻译。虽然身处丛林，但环境非常干净整洁，我们住过的三家中，这是最干净的一家，也没有虫子。
+这次我们住了三家，其中一家[Inara Alas Harum](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41581751) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=109668691&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6z8TFJMEkdYOJY_q8fytZhZgNDYw0NvIZPGC02CrvyHV9cYHtuyoHT1sQ62iDQwBPxJQDz6exJ8bt8uRheu7r0MXIChaYwXj50lKTFYyMGxkPf9WI6S-KctjByHSAkekE4wHhBUxT_542OcXCzPGG-RLLLsboaqXs1EolKxMdpZLMkpxUJSulp4vmPW3Y83xFq5KOUkpqcTJQCMhKzM0vzSsBsk0sjfQMDIAiJYkVnilgncmJOcmlOYklqSGVBUATjHSUMoudS4oyC4JSczNLSlKBqtISc4pTQeJBqcVAmWSwIMjcIig_Mz8PotsARSwsMac0FaISaJ9bKtQKw9rYRyxM0bEvWDbyfWJh-MXC0MTK0MXKzDGNaRKQPCC8i5XX0dEzyMtR1zBEN0rX8ALrUTEpRUMDAwMjU1Mjc12DRMvENKMUM10TSxMjMzNdY2NzYzMDA41Zkz9ceGJsZC0FCUsFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbBaGJibmzlE2XMyhwS6CyyuPa1oZSTtIMYeEuyh-WH7M27zztL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD4SJp_EWpWhGxKecVysgLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQAhVUrf00CAAA&masterhotelid_tracelogid=100025527-0a9af2d6-494266-3373600&detailFilters=17|1~17~1*31|109668691~31~109668691*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1056&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/AUV4lN4h)让我们印象深刻。尽管它位于丛林中，不在热闹的地区（但交给Arie他会确保平安送达），但服务人员非常友好，任何需求都可以通过What's app提出，而且即使我们英文不好，也没有问题，因为他们可以慢慢翻译。虽然身处丛林，但环境非常干净整洁，我们住过的三家中，这是最干净的一家，也没有虫虫。
 
-第三天我们住在金巴兰的一家老牌Villa，但简直是个噩梦。空调噪音大又不冷，水压很小，而且外面和房间地面都有很多马陆。好在他们提供了07:00-12:00的免费早餐，选择多样，我们试了好几种都很好吃。另外，他们也提供了16:00-17:00的免费下午茶，可以叫到房间享用，同样很美味（那个春卷意犹未尽）。晚餐的餐点（自费）也很好吃，不过我们没有喝酒。
+第三天我们住在Jimbaran的一家老牌Villa，但简直是个噩梦。空调噪音大又不冷，水压很小，而且外面和房间地面都有很多马陆。好在他们提供了07:00-12:00的免费早餐，选择多样，我们试了好几种都很好吃。另外，他们也提供了16:00-17:00的免费下午茶，可以叫到房间享用，同样很美味（那个春卷意犹未尽）。晚餐的餐点（自费）也很好吃，不过我们没有喝酒。
 
-在[Inara Alas Harum](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41581751)的丛林游泳非常爽快，还有一池热水池，只可惜没有提供SPA服务。整体来说，下次来巴厘岛我们还会想再次入住[Inara Alas Harum](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41581751)，每晚不到USD$50的价格让我们感受到了满满的度假感。
+在[Inara Alas Harum](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41581751) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=109668691&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6z8TFJMEkdYOJY_q8fytZhZgNDYw0NvIZPGC02CrvyHV9cYHtuyoHT1sQ62iDQwBPxJQDz6exJ8bt8uRheu7r0MXIChaYwXj50lKTFYyMGxkPf9WI6S-KctjByHSAkekE4wHhBUxT_542OcXCzPGG-RLLLsboaqXs1EolKxMdpZLMkpxUJSulp4vmPW3Y83xFq5KOUkpqcTJQCMhKzM0vzSsBsk0sjfQMDIAiJYkVnilgncmJOcmlOYklqSGVBUATjHSUMoudS4oyC4JSczNLSlKBqtISc4pTQeJBqcVAmWSwIMjcIig_Mz8PotsARSwsMac0FaISaJ9bKtQKw9rYRyxM0bEvWDbyfWJh-MXC0MTK0MXKzDGNaRKQPCC8i5XX0dEzyMtR1zBEN0rX8ALrUTEpRUMDAwMjU1Mjc12DRMvENKMUM10TSxMjMzNdY2NzYzMDA41Zkz9ceGJsZC0FCUsFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbBaGJibmzlE2XMyhwS6CyyuPa1oZSTtIMYeEuyh-WH7M27zztL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD4SJp_EWpWhGxKecVysgLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQAhVUrf00CAAA&masterhotelid_tracelogid=100025527-0a9af2d6-494266-3373600&detailFilters=17|1~17~1*31|109668691~31~109668691*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1056&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/AUV4lN4h)的丛林游泳非常爽快，还有一池热水池，只可惜没有提供SPA服务。整体来说，下次来巴厘岛我们还会想再次入住[Inara Alas Harum](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41581751) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=109668691&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6z8TFJMEkdYOJY_q8fytZhZgNDYw0NvIZPGC02CrvyHV9cYHtuyoHT1sQ62iDQwBPxJQDz6exJ8bt8uRheu7r0MXIChaYwXj50lKTFYyMGxkPf9WI6S-KctjByHSAkekE4wHhBUxT_542OcXCzPGG-RLLLsboaqXs1EolKxMdpZLMkpxUJSulp4vmPW3Y83xFq5KOUkpqcTJQCMhKzM0vzSsBsk0sjfQMDIAiJYkVnilgncmJOcmlOYklqSGVBUATjHSUMoudS4oyC4JSczNLSlKBqtISc4pTQeJBqcVAmWSwIMjcIig_Mz8PotsARSwsMac0FaISaJ9bKtQKw9rYRyxM0bEvWDbyfWJh-MXC0MTK0MXKzDGNaRKQPCC8i5XX0dEzyMtR1zBEN0rX8ALrUTEpRUMDAwMjU1Mjc12DRMvENKMUM10TSxMjMzNdY2NzYzMDA41Zkz9ceGJsZC0FCUsFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbBaGJibmzlE2XMyhwS6CyyuPa1oZSTtIMYeEuyh-WH7M27zztL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD4SJp_EWpWhGxKecVysgLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQAhVUrf00CAAA&masterhotelid_tracelogid=100025527-0a9af2d6-494266-3373600&detailFilters=17|1~17~1*31|109668691~31~109668691*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1056&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/AUV4lN4h)，每晚不到USD$48的价格让我们感受到了满满的度假感。
 
-▶[Inara Alas Harum](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41581751) 订房链接
+▶[Inara Alas Harum](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41581751) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=109668691&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6z8TFJMEkdYOJY_q8fytZhZgNDYw0NvIZPGC02CrvyHV9cYHtuyoHT1sQ62iDQwBPxJQDz6exJ8bt8uRheu7r0MXIChaYwXj50lKTFYyMGxkPf9WI6S-KctjByHSAkekE4wHhBUxT_542OcXCzPGG-RLLLsboaqXs1EolKxMdpZLMkpxUJSulp4vmPW3Y83xFq5KOUkpqcTJQCMhKzM0vzSsBsk0sjfQMDIAiJYkVnilgncmJOcmlOYklqSGVBUATjHSUMoudS4oyC4JSczNLSlKBqtISc4pTQeJBqcVAmWSwIMjcIig_Mz8PotsARSwsMac0FaISaJ9bKtQKw9rYRyxM0bEvWDbyfWJh-MXC0MTK0MXKzDGNaRKQPCC8i5XX0dEzyMtR1zBEN0rX8ALrUTEpRUMDAwMjU1Mjc12DRMvENKMUM10TSxMjMzNdY2NzYzMDA41Zkz9ceGJsZC0FCUsFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbBaGJibmzlE2XMyhwS6CyyuPa1oZSTtIMYeEuyh-WH7M27zztL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD4SJp_EWpWhGxKecVysgLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQAhVUrf00CAAA&masterhotelid_tracelogid=100025527-0a9af2d6-494266-3373600&detailFilters=17|1~17~1*31|109668691~31~109668691*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1056&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/AUV4lN4h) 订房链接
 
 已收录在[【乌布住宿推荐】乌布泳池别墅私密天堂: 令人惊艳的巴厘岛villa推荐](/zh-cn/blog/ubud-villa-pool-guide/)
 
@@ -144,7 +147,7 @@ Inara Alas Harum
 
 ## 关于小费
 
-关于小费，我们通常会根据心情给予。基本上，我们会给予协助拿行李和房间服务的小费，对于没有服务费的餐厅，如果服务好的话我们也会给予小费，而对于已经收取服务费的餐厅，如果服务好的话我们也会给予小费。在SPA方面，无论是否有收取服务费，只要体验很好舒适，我们都会给予小费。
+关于小费，我们通常会根据心情给予。基本上，我们会给予协助拿行李和房间服务的小费，对于没有服务费的餐厅，如果服务好的话我们也会给予小费，而对于已经收取服务费的餐厅，如果服务好的话我们也会给予小费。在SPA方面，无论是否收取服务费，只要体验很好舒适，我们都会给予小费。
 
 此外，对于冲浪教练、吉普车司机、接送司机等，我们也都会给予小费。不过对于骑马体验，因为我摔了马而没有给小费。
 
@@ -168,9 +171,9 @@ Inara Alas Harum
 10. 他会热情回复聊天，不会在不需要聊天时打扰（当他看到其他朋友在睡觉时，会主动关掉车上的音乐）。
 11. 基本上，只要有需求或好奇，问他就行，几乎是使命必达！
 
-在六年前我们曾经去巴厘岛旅行（是由旅行社组织的八人小团），但是当时的体验并不好，其中最差的部分就是司机兼导游。他虽然说中文，但沟通几乎无法进行，因此我们深切感受到了好的司机对于旅行的重要性，他们可以让旅行更加完整且令人放松。因为Arie太贴心了，所以每天我们都给他20-30%的小费。
+在六年前我们曾经去巴厘岛旅行（是由旅行社组织的八人小团），但是当时的体验并不好，其中最差的部分就是司机兼导游。他虽然会说中文，但沟通几乎无法进行，因此我们深切感受到了好的司机对于旅行的重要性，他们可以让旅行更加完整且令人放松。因为Arie太贴心了，所以每天我们都给他20-30%的小费。
 
-![司机推荐](https://images.gobaligo.id/vocus/vocus_45ef0955c4149232b8c65e55bce4f72d.jpg)
+![司機推薦](https://images.gobaligo.id/vocus/vocus_45ef0955c4149232b8c65e55bce4f72d.jpg)
 
 司机推荐：ARIE
 
@@ -184,7 +187,7 @@ Mail: abaykaari@gmail.com
 
 {{block:包車}}
 
-您觉得[**Li Ly**](https://www.facebook.com/lily850711/)安排的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
+您觉得[**Li Ly**](https://www.facebook.com/lily850711/)安排的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
 {{block:遊記}}
 

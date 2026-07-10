@@ -7,6 +7,7 @@ description: >-
   巴厘岛乌布景点 Tegenungan Waterfall
   是距离乌布市区最近的天然瀑布，虽然只要25分钟车程，但是陡峭的160级阶梯让很多人都大喊吃不消，旅途连续铁腿好几天。我们带你到观赏Tegenungan瀑布最佳的点，保证最轻松欣赏到最美的瀑布景观！
 pubDate: '2020-10-21'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_56a7a4560e19b8b4b213571f288cfdff.jpg'
 tags:
   - 巴里島
@@ -18,21 +19,22 @@ originalUrl: 'https://vocus.cc/article/64db6b71fd897800013a942c'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: b59e303db06e5a953fdf46502c95e6c2
+_srcHash: bebbeb50c95079756ad945925051a166
 ---
-
-![巴厘岛游记｜你所不知道的印尼巴厘岛瀑布秘密！｜乌布景点老司机带路 赏瀑布免铁腿｜离乌布最近的瀑布 Tegenungan ](https://images.gobaligo.id/vocus/vocus_58deb853e5219dd7c4a2a06f4c88a79f.jpg)
+![巴里島遊記｜你所不知道的印尼峇里島瀑布秘密！｜烏布景點老司機帶路 賞瀑布免鐵腿｜離烏布最近的瀑布 Tegenungan ](https://images.gobaligo.id/vocus/vocus_58deb853e5219dd7c4a2a06f4c88a79f.jpg)
 
 巴厘岛乌布景点 Tegenungan Waterfall 是距离乌布市区最近的天然瀑布，虽然只要25分钟车程，但是陡峭的160级阶梯让很多人都大喊吃不消，旅途连续铁腿好几天。我们带你到观赏Tegenungan瀑布最佳的点，保证最轻松欣赏到最美的瀑布景观！
 
-![巴厘岛游记｜你所不知道的印尼巴厘岛瀑布秘密！｜乌布景点老司机带路 赏瀑布免铁腿｜离乌布最近的瀑布 Tegenungan ](https://images.gobaligo.id/vocus/vocus_853581166b88f30517fe98257f29d396.jpg)
+![巴里島遊記｜你所不知道的印尼峇里島瀑布秘密！｜烏布景點老司機帶路 賞瀑布免鐵腿｜離烏布最近的瀑布 Tegenungan ](https://images.gobaligo.id/vocus/vocus_853581166b88f30517fe98257f29d396.jpg)
 
-![巴厘岛游记｜你所不知道的印尼巴厘岛瀑布秘密！｜乌布景点老司机带路 赏瀑布免铁腿｜离乌布最近的瀑布 Tegenungan ](https://images.gobaligo.id/vocus/vocus_1a2df74d4a69179ac863494fea4f869d.jpg)
+![巴里島遊記｜你所不知道的印尼峇里島瀑布秘密！｜烏布景點老司機帶路 賞瀑布免鐵腿｜離烏布最近的瀑布 Tegenungan ](https://images.gobaligo.id/vocus/vocus_1a2df74d4a69179ac863494fea4f869d.jpg)
+
+**先讲结论**：Tegenungan Waterfall 距乌布市区车程仅 **25 分钟**，是离乌布最近的天然瀑布，但要爬 **160 级陡峭阶梯**才能近距离欣赏，容易铁腿。若不想爬阶梯，可选择瀑布旁的观景餐厅，就能一览无余地欣赏瀑布全景，轻松版玩法同样值得。
 
 在乌布的青山绿水中，有一个令人叹为观止的瑰宝，那就是Tegenungan Waterfall。这个位于乌布附近的瀑布，成了探索乌布自然美景的最佳起点。
 
 远眺着瀑布，一股清新的气息扑面而来，耳边传来水流的声音，仿佛置身于大自然的怀抱。Tegenungan Waterfall宛如天际中的银线，水流从高处涌落而下，在阳光的映照下泛起闪烁的水花。
 
-在这个观景餐厅。可以一览无遗地欣赏到整个瀑布风景，感受到大自然的伟大和宏伟。
+在这个观景餐厅。可以一览无余地欣赏到整个瀑布风景，感受到大自然的伟大和宏伟。
 
-现在，我邀请您观看下方的影片，一同沉浸我在Tegenungan Waterfall的探索之旅。这个影片将带您进入这片仙境，让您感受我在瀑布前的惊艳时刻。
+现在，我邀请您观看下方的影片，一同沉浸在我于Tegenungan Waterfall的探索之旅。这个影片将带您进入这片仙境，让您感受我在瀑布前的惊艳时刻。

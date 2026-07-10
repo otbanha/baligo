@@ -1,11 +1,12 @@
 ---
 slug: bali-peanut-allergy-tips
-title: Alergi Kacang!? Begini Cara Aman Jalan-jalan di Bali
+title: Alergi Kacang!? Ini yang Bisa Kamu Lakukan di Bali
 description: >-
-  Buat kamu yang alergi kacang tanah, pas liburan di Bali penting banget buat
-  hindari makanan yang mengandung kacang. Nih, beberapa makanan yang wajib
-  diwaspadai dan tips menghadapinya.
+  Kalau kamu alergi kacang pas liburan di Bali, penting banget buat menghindari
+  makanan yang mengandung kacang. Nih, beberapa makanan yang perlu diwaspadai
+  dan cara ngatasinnya.
 pubDate: '2024-05-06'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_372769d54f46d8a097bf36ebbf836955.png'
 tags:
   - 花生
@@ -17,23 +18,24 @@ originalUrl: 'https://vocus.cc/article/66385c23fd897800014ead64'
 category:
   - 旅行技巧
 lang: id
-_srcHash: b6e2243def8fdb225636ba8e83293751
+_srcHash: a0e81341a71de901625ed75607ff7d53
 ---
-Pas liburan di Bali, kalau kamu alergi kacang tanah, menghindari makanan yang mengandung kacang itu wajib hukumnya. Makanan di Bali memang beragam, tapi kacang sering banget dipakai di beberapa masakan dan bumbu, jadi harus ekstra hati-hati.
+**Kesimpulan Awal**: Buat yang alergi kacang, pastikan tanya dulu sebelum pesan di Bali—yang paling sering kena adalah **Gado-gado** (siraman saus kacang) dan berbagai **bumbu kacang**, disusul kue tradisional Indonesia dan beberapa cokelat atau permen. Pas pesan, bilang aja "I am allergic to peanuts" atau tunjukin tulisan bahasa Indonesianya "Saya alergi kacang tanah", dan jangan lupa bawa perlengkapan darurat alergi.
 
-![Alergi Kacang!? Begini Cara Aman Jalan-jalan di Bali](https://images.gobaligo.id/vocus/vocus_560250c5a2572c49e425faaa459bceb2.png)
+Kalau kamu alergi kacang pas liburan di Bali, hindari makanan yang mengandung kacang itu wajib hukumnya. Makanan di Bali beragam, tapi kacang sering dipakai di beberapa masakan dan bumbu, jadi harus ekstra hati-hati.
 
-Ini dia beberapa makanan yang perlu kamu hindari atau waspadai karena mungkin mengandung kacang tanah:
+![花生過敏！？去峇里島可以這樣做](https://images.gobaligo.id/vocus/vocus_560250c5a2572c49e425faaa459bceb2.png)
 
-1. **Gado-gado**: Salad khas Indonesia ini sausnya pakai bumbu kacang, lho. 2. **Saus kacang di makanan**: Saus kacang adalah bumbu yang sering banget dipakai di masakan Indonesia. Jadi, sebelum makan apa pun, pastikan dulu apakah ada saus kacangnya. Tanya aja sama pelayan pas pesan. 3. **Kue tradisional Indonesia**: Beberapa jajanan tradisional mungkin mengandung kacang, jadi hati-hati kalau mau nyobain. 4. **Cokelat atau permen**: Beberapa cokelat dan permen bisa aja mengandung kacang, jadi cek labelnya dulu sebelum beli.
+Ini dia beberapa makanan yang perlu dihindari atau diperhatikan karena mungkin mengandung kacang pas di Bali:
 
-Pas liburan di Bali, penting banget buat tahu bahan dan cara pembuatan makanan. Selain hindari makanan yang mengandung kacang, kamu juga bisa bilang ke pelayan '**I am allergic to peanuts.**' Kalau pelayan nggak bisa bahasa Inggris, kamu bisa tunjukin kalimat bahasa Indonesia ini: **Saya alergi kacang tanah**.
+1. **Gado-gado**: Salad khas Indonesia yang sausnya pakai kacang tanah.\n2. **Saus Kacang di Makanan**: Saus kacang adalah bumbu umum di masakan Indonesia, jadi sebelum makan apa pun, pastikan tanya apakah ada saus kacangnya. Pas order, konfirmasi ke pelayan.\n3. **Kue Tradisional Indonesia**: Beberapa jajanan tradisional mungkin mengandung kacang, jadi hati-hati pas nyobain.\n4. **Cokelat atau Permen**: Beberapa cokelat dan permen bisa mengandung kacang, jadi cek labelnya pas beli.
 
-Yang lebih penting lagi, biar nggak salah makan, jangan lupa bawa perlengkapan darurat alergi kemanapun kamu pergi, buat jaga-jaga kalau ada hal yang nggak diinginkan.
+Pas liburan di Bali, penting banget buat tahu bahan dan cara pembuatan makanan. Selain hindari makanan yang mengandung kacang, kamu juga bisa bilang ke pelayan "**I am allergic to peanuts.**" Kalau pelayan nggak bisa bahasa Inggris, tunjukin aja tulisan bahasa Indonesia ini: **Saya alergi kacang tanah**.
 
-![Alergi Kacang!? Begini Cara Aman Jalan-jalan di Bali](https://images.gobaligo.id/vocus/vocus_aa7648471037473f80418f211f4b41ad.png)
+Yang lebih penting lagi, biar nggak salah makan, jangan lupa bawa perlengkapan darurat alergi buat jaga-jaga kalau ada kejadian nggak terduga.
 
-Setelah subscribe, kamu bisa langsung lanjut baca panduan lengkap kami, menjelajahi setiap sudut seru Bali. Klik **「**[**Panduan Lengkap Liburan Mandiri ke Bali**](/id/blog/2023-08-22-64e37f2dfd89780001b1f776/)**」**, mulai persiapkan perjalananmu ke Bali!
+![花生過敏！？去峇里島可以這樣做](https://images.gobaligo.id/vocus/vocus_aa7648471037473f80418f211f4b41ad.png)
 
+Sebelum baca **"Panduan Liburan Mandiri ke Bali"** kami, kami ajak kamu subscribe dulu channel YouTube **"Xiao Jie Indonesia"** yang penuh konten visual seru. [Klik di sini](http://bit.ly/youtube-jason) buat subscribe sekarang.
 
-訂閱完成後，您可以立即繼續閱讀我們詳盡的攻略，深入探索峇里島的每個精彩角落。點擊**「**[**峇里島自由行究極旅行攻略**](/id/blog/2023-08-22-64e37f2dfd89780001b1f776/)**」**，開始準備您的峇里島之旅！
+Setelah subscribe, kamu bisa lanjut baca panduan lengkap kami dan eksplor setiap sudut seru Bali. Klik **"**[**Panduan Liburan Mandiri ke Bali**](/id/blog/2023-08-22-64e37f2dfd89780001b1f776/)**"** buat mulai persiapan liburanmu ke Bali!

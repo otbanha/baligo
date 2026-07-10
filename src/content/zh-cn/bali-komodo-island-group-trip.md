@@ -3,6 +3,7 @@ title: 六人行 巴厘岛与科莫多岛6天5夜行程必知事项
 slug: bali-komodo-island-group-trip
 description: 六个女生的巴厘岛与科莫多岛自由行旅游心得
 pubDate: 2024-09-23T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: null
 category:
   - 遊記分享
@@ -15,18 +16,19 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2a24c85b34f64e559336545041ad6337.jpg'
 originalUrl: 'https://vocus.cc/article/66efc051fd89780001433018'
 lang: zh-cn
-_srcHash: 5595f154e76315364dc079ce1e276df4
+_srcHash: 3ac83fe6db5512415eabe05a1f3794b2
 ---
+**重点摘要**：六人行巴厘岛＋科莫多岛 6 天 5 夜实测心得——① **闹区塞车严重**（下午 1 点到晚上 7 点半，乌鲁瓦图/乌布/金巴兰尤其夸张，Google Maps 预估时间要乘以 2.5-3 倍）；② **机场 Wi-Fi 弱**，建议备漫游或当地 SIM 卡（Telkomsel 约 USD$10-16 含 14G）；③ 领行李可能耗时将近 1 小时，比通关本身还久；④ 全员一度肠胃炎，备妥肠胃药很重要。
 
 > 以下内容改编自团友 [Sandra Yun](https://www.facebook.com/share/p/R9sqkkpWfnrB6Bzr/) 分享游记：
 
-这次是我们六个女生的旅游，选在2023年9月来到巴厘岛与科莫多岛，原本满心期待着一趟充实的假期，却没想到旅途中充满了惊喜与挑战。虽然只有短短的6天5夜，行程也没有全部跑完，但每个人都玩得非常开心。可惜在第4天，全员集体中招肠胃炎，让我们的战斗力瞬间下降，接近20:00我们已经只能在床上休息。即便如此，这趟旅程还是让大家收获满满。以下就来分享一些我们的实际经验，希望对即将前往的旅客有帮助！
+这次是我们六个女生的旅游，选在2023年9月来到巴厘岛与科莫多岛，原本满心期待着一趟充实的假期，却没想到旅途中充满了惊喜与挑战。虽然只有短短的6天5夜，行程也没有全部跑完，但每个人都玩得非常开心。可惜在第4天，全员集体中招肠胃炎，让我们的战斗力瞬间下降，接近20：00我们只能在床上休息。即便如此，这趟旅程还是让大家收获满满。以下就来分享一些我们的实际经验，希望对即将前往的旅客有帮助！
 
 ## 1. 包车司机推荐：Gede Arimbawa
 
 这次行程最让我们感动的，除了美景，还有我们的包车司机 Gede Arimbawa！他不仅贴心，还非常善良且热心。尊重我们的行程安排，并在适当的时候给出一些实用建议，让我们在巴厘岛的几天都非常顺利。无论是提醒我们交通时间，还是帮忙预订餐厅、活动，他的服务都让人无比安心。这么好的司机推荐给大家！🥰
 
-![1. 包车司机推荐：Gede Arimbawa](https://images.gobaligo.id/vocus/vocus_9c6297afa65717ca1de714d7b83a7289.jpg)
+![1. 包車司機推薦：Gede Arimbawa](https://images.gobaligo.id/vocus/vocus_9c6297afa65717ca1de714d7b83a7289.jpg)
 
 Gede 在社团拥有超多好评！[请参考这里](/zh-cn/blog/bali-private-car-drivers-guide/)
 
@@ -40,7 +42,7 @@ Gede 在社团拥有超多好评！[请参考这里](/zh-cn/blog/bali-private-ca
 
 我们一到巴厘岛机场就发现那里的Wi-Fi实在太弱了，感觉是因为当时连接的人太多。幸好同行的朋友有中华电信的漫游服务，否则真不知道该如何联系我们的司机。如果你打算购买当地的Telkomsel SIM卡，价格大约在10到16美元之间，包含14G流量，但在某些偏远地区（例如Labuan Bajo跳岛区）信号依然不强就是。
 
-延伸阅读：[【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡？](/zh-cn/blog/bali-sim-card-esim-roaming-guide/)
+延伸阅读：[【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡?](/zh-cn/blog/bali-sim-card-esim-roaming-guide/)
 
 ## 4. 巴厘岛的交通状况
 
@@ -58,7 +60,7 @@ Gede 在社团拥有超多好评！[请参考这里](/zh-cn/blog/bali-private-ca
 
 由于我们这次行程还包括跳岛，因此在巴厘岛的时间只有三天。但我们却选择了三个不同的区域去游览，结果每天都在堵车中度过。如果你想要多逛一些地方，建议选择在同一区域待1-2天，这样才不会把宝贵的时间浪费在路上。
 
-> 编按：尽量小区域的移动才是巴厘岛旅游的王道啊！请看「[巴厘岛分区攻略](https://gobaligo.id/zh-cn/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8C%BA%E6%94%BB%E7%95%A5)」
+> 编按：尽量小区域的移动才是巴厘岛旅游的王道啊！请看「[巴厘岛分区攻略](https://gobaligo.id/zh-cn/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)」
 
 ![烏魯瓦圖火舞的門票可以在網上先買好（Sandra Yun提供）](https://images.gobaligo.id/vocus/vocus_d3a5a16996aa1d2906eea06f2716a19c.jpg)
 
@@ -66,7 +68,7 @@ Gede 在社团拥有超多好评！[请参考这里](/zh-cn/blog/bali-private-ca
 
 ## 7. 水上活动价差大
 
-这次我们体验了海底漫步，发现现场购票的价格竟然比司机介绍的高出两倍！现场的menu价格大约要USD$58，而我们通过司机介绍，只花了USD$26。虽然不知道是不是所有水上活动都这样，但看来提前预订或者通过司机安排会便宜许多。
+这次我们体验了海底漫步，发现现场购票的价格竟然比司机介绍的高出两倍！现场的menu价格大约要58美元，而我们通过司机介绍，只花了26美元。虽然不知道是不是所有水上活动都这样，但看来提前预订或者通过司机安排会便宜许多。
 
 https://youtube.com/shorts/y5HMPegD5Rk
 
@@ -98,17 +100,17 @@ https://youtube.com/shorts/tHRxnJqxqbw
 
 > 延伸阅读：[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/zh-cn/blog/bali-souvenirs-gift-guide/)
 
-## 11. 科莫多岛跳岛行程
+## 11. 科摩多岛跳岛行程
 
-我们的科莫多岛跳岛行程是在Klook上预订的，价格相当实惠，安排也很不错。建议出发前先询问住宿酒店是否提供接送服务，因为有些偏远地区可能无法接送。
+我们的科摩多岛跳岛行程是在Klook上预订的，价格相当实惠，安排也很不错。建议出发前先询问住宿饭店是否提供接送服务，因为有些偏远地区可能无法接送。
 
 ![科摩多島 （Sandra Yun提供）](https://images.gobaligo.id/vocus/vocus_50a0af9b9c6ed8695c89bfbc61a9c6c3.jpg)
 
-科莫多岛 （Sandra Yun提供）
+科莫多岛（Sandra Yun提供）
 
 Klook有数十种科莫多行程可以选择，[请看这里](https://affiliate.klook.com/redirect?aid=116349&aff_adid=920722&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dkomodo%26spm%3DHome.TopNavigation.SearchInput%26clickId%3D4685c48829)。
 
-> 编按：我们也有提供专业的旅行社打包好的行程，供参考
+> 编按：我们也有提供专业的旅行社套装好的行程，提供参考
 
 - [巴厘岛+科莫多岛全包轻奢行程](/zh-cn/blog/bali-komodo-luxury-tour-2026/)
 
@@ -126,9 +128,9 @@ https://youtu.be/GivvqCXp11A
 
 > 编按，用手机叫车就可以避免这种情况发生喔：[在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略](/zh-cn/blog/gojek-bali-guide/)
 
-![13. 骑士骗局要小心！](https://images.gobaligo.id/vocus/vocus_132b0fdbdbd2b8f1e37a9dc51b38bd58.png)
+![13. 騎士騙局要小心！](https://images.gobaligo.id/vocus/vocus_132b0fdbdbd2b8f1e37a9dc51b38bd58.png)
 
-以上是我们这次旅程的一些经验，还有很多细节没有来得及分享，有想到的我会再补充！再次感谢我们的司机Gede，虽然后三天我们去了别的岛，但他依然保持联系，随时帮我们解决问题。这次旅程虽然有些波折，但总体来说非常愉快！如果你也有计划去巴厘岛，以上这些建议希望对你有帮助，祝旅途愉快！💼🌞
+以上是我们这次旅程的一些经验，还有很多细节没来得及分享，有想到的我会再补充！再次感谢我们的司机Gede，虽然后三天我们去了别的岛，但他依然保持联系，随时帮我们解决问题。这次旅程虽然有些波折，但总体来说非常愉快！如果你也有计划去巴厘岛，以上这些建议希望对你有帮助，祝旅途愉快！💼🌞
 
 您觉得 Sandra Yun 他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
 

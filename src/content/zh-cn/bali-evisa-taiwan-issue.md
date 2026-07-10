@@ -1,9 +1,10 @@
 ---
 slug: bali-evisa-taiwan-issue
-title: 申请eVisa，台湾不见了！
+title: 申请eVisa，Taiwan不见了！
 description: >-
   最近想去巴厘岛旅行，准备申请eVisa时却遇到了一个让人哭笑不得的状况。这几天有朋友要申请巴厘岛eVisa吗？我在（2025/06/07）填写申请表格时，发现了一个奇怪的现象。在Nationality（
 pubDate: '2025-06-07'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d8323e690ca9cbbb95571dc78a872391.jpg'
 tags:
   - 電子簽證
@@ -15,16 +16,17 @@ originalUrl: 'https://vocus.cc/article/684447cdfd89780001bb6bf8'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 5fb1ad1ef7cd288bf9fb43cfe3dc0298
+_srcHash: cbbf9af5a47af0dfa5a10a9935adfd5b
 ---
-
-## 台湾又被和谐掉了
+## Taiwan又被和谐掉了
 
 > 取自脸友 [Shirley Lu 贴文](https://www.facebook.com/share/p/1FcTWfbFHk/)
 
+**先讲结论**：申请巴厘岛 eVisa 时，国籍栏找不到「Taiwan」是正常现象——系统已将其改列为 **「Chinese Taipei」**，在 C 开头选项中即可找到，不影响申请流程，最终仍能顺利完成签证申请。
+
 最近想去巴厘岛旅行，准备申请eVisa时却遇到了一个让人哭笑不得的状况。
 
-## 消失的台湾选项
+## 消失的Taiwan选项
 
 这几天有朋友要申请巴厘岛eVisa吗？我在（2025/06/07）填写申请表格时，发现了一个奇怪的现象。在Nationality（国籍）这一栏，我反复找了好几次，竟然找不到「Taiwan」这个选项。
 
@@ -32,19 +34,19 @@ _srcHash: 5fb1ad1ef7cd288bf9fb43cfe3dc0298
 
 ## 寻找的过程
 
-一开始我以为可能被列成「Republic of China」，毕竟这是我们的正式国名。于是我翻到R开头的选项去找，结果没有找着。
+一开始我以为可能会被列为「Republic of China」，毕竟这是我们的正式国名。于是我翻到R开头的选项去找，结果没有找到。
 
-脑子一转，该不会被归类到「China」去了吧？抱着忐忑不安的心情，我又翻到C开头的选项去寻找。
+脑子一转，该不会是被归类到「China」去了吧？抱着忐忑不安的心情，我又翻到C开头的选项去寻找。
 
 结果就看到了这一幕...
 
-![寻找的过程](https://images.gobaligo.id/vocus/vocus_7a0749e55a6adfe7ad66dfd5d10f8945.jpg)
+![尋找的過程](https://images.gobaligo.id/vocus/vocus_7a0749e55a6adfe7ad66dfd5d10f8945.jpg)
 
 ## 被「和谐」的结果
 
 原来的「Taiwan」现在变成了「Chinese Taipei」。
 
-看到这个变化，心情真的很复杂。这不是第一次遇到这种状况了，但每次看到还是会感到无奈。在国际场合，我们的名称总是会面临各种政治考量和压力。
+看到这个变化，心情真的很复杂。这不是第一次遇到这种情况了，但每次看到还是会感到无奈。在国际场合，我们的名称总是会面临各种政治考量和压力。
 
 ## 旅行者的无奈
 

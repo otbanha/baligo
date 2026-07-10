@@ -3,6 +3,7 @@ slug: taman-dedari-ubud-food-scenery
 title: 【乌布美食+美景推荐】Taman Dedari 仙女公园
 description: 探索巴厘岛乌布的Taman Dedari（仙女园）：美食 + 美景，历史与自然之美
 pubDate: '2025-01-26'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_af793a02c768b26700df81f73fe8356f.jpg'
 tags:
   - 仙女公園
@@ -14,15 +15,13 @@ originalUrl: 'https://vocus.cc/article/6795adf1fd8978000133fe10'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 425e2f553b2784edf52e3f0cff10ab09
+_srcHash: 42234b7fddb2276dc3eb52b3a83b62f2
 ---
-Update: 2026/07/03
-
 ### 探索巴厘岛乌布的Taman Dedari（仙女园）：历史与自然之美
 
 ![探索峇里島烏布的Taman Dedari（仙女園）：歷史與自然之美](https://images.gobaligo.id/vocus/vocus_921321dbf778f7e34410e97542da931c.jpg)
 
-**先说结论**：Taman Dedari 是乌布 Ayung 河畔的仙女主題雕像公园，占地 1.5 公顷、有高达 10 米的巨型 Dedari 雕像共约 50 座，同时附设 The Royal Pita Maha 餐厅可边赏景边用餐（英语服务、价格合理）。适合想拍照打卡＋顺便吃顿有氛围午餐/下午茶的旅客，一次满足美食与美景。
+**先讲结论**：Taman Dedari 是乌布 Ayung 河畔的仙女主題雕像公园，占地 1.5 公顷、有高达 10 米的巨型 Dedari 雕像共约 50 座，同时附设 The Royal Pita Maha 餐厅可边赏景边用餐（英语服务、价格合理）。适合想拍照打卡＋顺便吃顿有氛围午餐/下午茶的旅客，一次满足美食与美景。
 
 位于巴厘岛乌布的Taman Dedari（仙女园）是一个于2021年初新开放的旅游景点，坐落在Gianyar Regency乌布区的Kedewatan村，具体位置在Jalan Raya Kedewatan。这个名字源自于「dedari」，意为「仙女」，灵感来自于Rsi Markandeya的传说。据说，这位圣人在Ayung河附近冥想时，目睹了仙女从天而降的神奇景象，这条河也因此被称为Ayung River，象征着美丽与神圣。
 

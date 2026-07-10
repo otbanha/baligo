@@ -1,10 +1,11 @@
 ---
 slug: icon-bali-shopping-mall-sanur
-title: 【巴厘岛新地标】Icon Bali 购物中心全攻略：沙努尔必访蝴蝶园、室内市场与全台唯一海滨影城
+title: 【巴厘岛新地标】Icon Bali 购物中心全攻略：沙努尔必访蝴蝶园、室内市场与全岛唯一海滨影城
 description: >-
-  去巴厘岛绝不能错过！深度解析沙努尔 (Sanur) 全新开业的 Icon Bali 购物中心。包含全球首创的室内浮动市场 (Jaje
+  去巴厘岛绝不能错过！深度解析沙努尔 (Sanur) 全新开幕的 Icon Bali 购物中心。包含全球首创的室内浮动市场 (Jaje
   Bali)、绝美蝴蝶园景观与紧邻海滩的免税购物体验。本篇整理必买品牌、美食餐厅推荐与交通预约建议，带您在空调房里享受结合文化与现代艺术的极致购物盛宴。
 pubDate: 2024-06-08T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 美食景點活動
 tags:
@@ -21,26 +22,27 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_518bf6250894fe40dd8bb2a87de767b5.jpg'
 originalUrl: 'https://vocus.cc/article/666425e6fd8978000121dadc'
 lang: zh-cn
-_srcHash: ef88176819817df1db02b8582f812a5e
+_srcHash: a542c7c3db29e1f205d012225aa7b35b
 ---
+**先说结论**：Icon Bali Mall 于 2024 年 6 月 7 日在沙努尔开幕，占地 **32,000 平方米**，号称巴厘岛最大购物中心，内含**东南亚最大室内水上市场 Jaje Bali Floating Market**、超过 **200 家商店/餐厅**，适合安排避暑、雨天备案或亲子购物行程。
 
-Icon Bali Mall 作为巴厘岛的顶级购物目的地，正式在巴厘岛亮相。位于 Sanur 的 Jalan Danau Tamblingan No. 27，Icon Bali 终于在 2024 年 6 月 7 日星期五正式运营了！
+Icon Bali Mall作为巴厘岛的顶级购物目的地，正式在巴厘岛亮相。位于Sanur的Jalan Danau Tamblingan No. 27，Icon Bali终于在2024年6月7日星期五正式营运了！
 
 **三分钟认识沙努尔：**
 
 https://youtu.be/SpcgZ4iK7qs
 
-Icon Bali Mall 拥有 32,000 平方米的面积，号称是巴厘岛最大的购物中心，提供了购物、餐饮和直接可达的海滩休闲体验，为当地居民和游客创造了独特的目的地。Icon Bali 的到来，预期将为来到沙努尔的游客带来无与伦比且难以忘怀的购物和娱乐体验。
+Icon Bali Mall拥有32,000平方米的面积，号称是巴厘岛最大的购物中心，提供了购物、餐饮和直接可达的海滩休闲体验，为当地居民和游客创造了独特的目的地。Icon Bali的到来，预期将为来到沙努尔的游客带来无与伦比且难以忘怀的购物和娱乐体验。
 
-> 延伸阅读：[巴厘岛家庭亲子自由行：沙努尔攻略地图｜45 项吃喝玩乐，还有 SPA 和住宿推荐喔！](/zh-cn/blog/sanur-guide/)
+> 延伸阅读：[巴厘岛家庭亲子自由行：沙努尔攻略地图｜45项吃喝玩乐，还有SPA和住宿推荐喔！](/zh-cn/blog/sanur-guide/)
 
-Icon Bali Mall 的中心是 Jaje Bali Floating Market，东南亚最大的室内水上市场。这个市场提供了巴厘岛美食、甜点和小玩意，让游客可以与卖家互动。Icon Bali Mall 还提供了许多其他的娱乐和购物选择，包括艺术文化舞台、影院、游戏区和更多。
+Icon Bali Mall的中心是Jaje Bali Floating Market，东南亚最大的室内水上市场。这个市场提供了巴厘岛美食、甜点和小玩意，让游客可以与卖家互动。 Icon Bali Mall还提供了许多其他的娱乐和购物选择，包括艺术文化舞台、影院、游戏区和更多。
 
-该购物中心拥有超过 200 家商店、餐厅和商贩，融合了当代本土文化和时尚概念店。商场设计灵感来自巴厘岛的自然美景，结合了梯田、热带植物、鸡蛋花等元素。
+该购物中心拥有超过200家商店、餐厅和商贩，融合了当代本土文化和时尚概念店。商场设计灵感来自巴厘岛的自然美景，结合了梯田、热带植物、鸡蛋花等元素。
 
-Icon Bali Mall 的首席公共关系官 Tri Christy Novia Tambunan 表示，作为 Sanur 最新的顶级目的地，Icon Bali 引进了一些国际知名品牌的首家店铺，如 Emporio Armani 7、Ted Baker、Fred Perry、Flying Tiger、Amarisa，以及备受期待的 IMAX 影院。
+Icon Bali Mall的首席公共关系官Tri Christy Novia Tambunan表示，作为沙努尔最新的顶级目的地，Icon Bali引进了一些国际知名品牌的首家店铺，如Emporio Armani 7、Ted Baker、Fred Perry、Flying Tiger、Amarisa，以及备受期待的IMAX影院。
 
-其他一些有名的店铺像是超市Market City、纪念品店Krisna Premium、游乐场Timezone、服饰的Marks & Spencer和Uniqlo等。
+其他一些有名的店家像是超市Market City、纪念品店Krisna Premium、游乐场Timezone、服饰的Marks & Spencer和Uniqlo等。
 
 Icon Bali还提供了广泛的零售选择，包括Mango、Sephora、Tumi、Michael Kors、Victoria’s Secret、Bath & Body Works、MLB、Lacoste、Tommy Hilfiger、Under Armour、Swarovski、Pandora、Pedro、Charles & Keith、Foot Locker、Joe Malone和其他许多有吸引力的品牌。
 

@@ -3,8 +3,9 @@ slug: bali-java-seven-day-tour
 title: >-
   ⭐⭐ 【World-Class Wonder】Bali × Borobudur Yogyakarta × Heaven's Light × Blue
   Flame 7-Day Deep Tour
-description: "Kalau kamu lagi cari perjalanan yang beneran rileks, tapi sekaligus penuh dengan keajaiban kelas dunia, maka paket 7 hari semi-mewah yang menggabungkan keindahan Bali dan Pulau Jawa ini bakal jadi pengalaman yang nggak terlupakan. Dari waktu santai di Villa dengan kolam renang pribadi, sampai gunung berapi, air terjun, peradaban kuno, dan keajaiban alam — setiap hari seru tapi nggak buru-buru, benar-benar tanpa biaya tambahan, tanpa belanja paksa, murni menikmati liburan. \U0001F4B0 Promo"
+description: "Kalau kamu lagi cari perjalanan yang beneran rileks tapi sekaligus penuh dengan keajaiban dunia, trip 7 hari semi-mewah yang menggabungkan Bali dan Jawa ini bakal jadi pengalaman yang nggak terlupakan. Dari waktu santai di Villa kolam renang pribadi, sampai gunung berapi, air terjun, peradaban kuno, dan keajaiban alam — setiap hari seru tapi nggak buru-buru, benar-benar tanpa biaya tambahan, tanpa belanja paksa, murni menikmati perjalanan. \U0001F4B0 Promo"
 pubDate: 2025-12-14T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 美食景點活動
 tags:
@@ -16,26 +17,27 @@ tags:
 originalUrl: 'https://vocus.cc/article/693d795efd8978000108c657'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_97dd578dfb813e3b6110fcd782d9053f.jpg'
 lang: id
-_srcHash: 196b3fa5d690be5394976d8c3203c1b4
+_srcHash: ecb5855f1ea9716a98c39043a6d5e58c
 ---
+## Perjalanan 7 Hari Semi-Mewah Tanpa Belanja ⭐⭐
 
-## Perjalanan Mendalam 7 Hari Semi-Mewah Tanpa Belanja ⭐⭐
+![輕奢無購物七日深度之旅](https://images.gobaligo.id/vocus/vocus_cfb6a91de0086e699c1e44388be48b2b.jpg)
 
-![Perjalanan Mendalam 7 Hari Semi-Mewah Tanpa Belanja](https://images.gobaligo.id/vocus/vocus_cfb6a91de0086e699c1e44388be48b2b.jpg)
+**Kesimpulan dulu**: Trip 7 hari Bali × Yogyakarta ini menghubungkan **Borobudur, Air Terjun Sewu, Api Biru Kawah Ijen, Lumba-lumba Lovina** dan destinasi kelas dunia lainnya. Fokus pada perjalanan tanpa biaya tambahan dan tanpa belanja paksa, termasuk menginap di Villa kolam renang pribadi. Ada diskon pendaftaran berupa subsidi pajak turis, cocok buat traveler yang ingin mengoleksi ikon-ikon klasik Indonesia dalam satu perjalanan.
 
-Kalau kamu lagi cari perjalanan yang **beneran rileks, tapi sekaligus penuh dengan keajaiban kelas dunia**, maka paket semi-mewah 7 hari yang menggabungkan keindahan Bali dan Pulau Jawa ini, mengunjungi **tiga Warisan Budaya Manusia Indonesia**, bakal jadi pengalaman yang nggak terlupakan.
+Kalau kamu lagi cari perjalanan yang **beneran rileks tapi sekaligus penuh keajaiban dunia**, trip semi-mewah 7 hari yang menggabungkan keindahan Bali dan Jawa ini, mengunjungi **tiga warisan budaya dunia Indonesia**, bakal jadi pengalaman yang nggak terlupakan.
 
-Dari waktu santai di Villa dengan kolam renang pribadi, sampai gunung berapi, air terjun, peradaban kuno, dan keajaiban alam — setiap hari seru tapi nggak buru-buru, benar-benar **tanpa biaya tambahan, tanpa belanja paksa, murni menikmati liburan**.
+Dari waktu santai di Villa kolam renang pribadi, sampai gunung berapi, air terjun, peradaban kuno, dan keajaiban alam — setiap hari seru tapi nggak buru-buru, benar-benar **tanpa biaya tambahan, tanpa belanja paksa, murni menikmati perjalanan**.
 
-💰 **Harga Promo: Cuma USD$1,253 per orang**
+💰 **Harga Promo: Cuma USD$1.253 per orang**
 
-🎁 Daftar lewat situs ini, kamu bakal dapet subsidi penuh pajak turis Bali senilai Rp. 150.000 per orang, bikin perjalananmu makin hemat dan nyaman!
+🎁 Dengan mendaftar lewat situs kami, kamu dapat subsidi penuh pajak turis Bali senilai Rp. 150.000 per orang, bikin perjalananmu makin hemat!
 
-## **Sekali Perjalanan, Koleksi Spot Kelas Dunia Paling Ikonik di Indonesia**
+## **Satu Perjalanan, Koleksi Destinasi Kelas Dunia Paling Ikonik di Indonesia**
 
 Ini bukan sekadar liburan ke Bali, tapi eksplorasi mendalam yang melintasi alam, budaya, dan petualangan.
 
-Rute perjalanan ini khusus menghubungkan dua pulau wisata populer di Indonesia, dari surga liburan Bali, terus masuk ke Pulau Jawa, mengumpulkan lengkap beberapa spot impian yang wajib dikunjungi setiap traveler seumur hidup.
+Ada paket seru yang menggabungkan dua pulau wisata favorit di Indonesia, dari surga liburan Bali sampai ke Pulau Jawa. Semua spot impian yang wajib dikunjungi traveler ada di sini.
 
 ***
 
@@ -45,59 +47,59 @@ Rute perjalanan ini khusus menghubungkan dua pulau wisata populer di Indonesia, 
 
 ![Omma Dayclub](https://images.gobaligo.id/images/2026-04/1775403717337-omma-day-club-instagram-omma-day-club_169.jpeg)
 
-**Omma Dayclub** terletak di depan Air Terjun Tegenungan yang terkenal di Bali. Ini adalah salah satu dari sedikit tempat di dunia di mana kamu bisa menikmati suasana liburan sambil melihat air terjun dari dekat. Menggabungkan kolam renang, makanan & minuman, dan pemandangan alam, tempat ini bikin kamu rileks ditemani suara air dan hijau-hijauan.
+**Omma Dayclub** terletak di depan Air Terjun Tegenungan yang terkenal di Bali. Ini salah satu tempat langka di dunia yang bikin kamu bisa menikmati suasana liburan sambil melihat air terjun dari dekat. Ada kolam renang, makanan enak, dan pemandangan alam yang bikin rileks banget.
 
-Yang paling keren adalah lokasinya yang unik banget—air terjun langsung jatuh di depan mata, pemandangannya spektakuler dan menenangkan. Perpaduan sempurna antara keajaiban alam dan dayclub kekinian ini bikin Omma Dayclub jadi salah satu tempat wisata ikonik di Bali yang wajib kamu coba.
+Keunikan utamanya ada di lokasinya yang super spesial—air terjun jatuh tepat di depan mata, pemandangannya dramatis sekaligus menenangkan. Perpaduan antara keajaiban alam dan dayclub kekinian ini bikin Omma Dayclub jadi salah satu tempat ikonik di Bali yang wajib kamu coba.
 
 ### Jatiluwih Rice Terrace
 
-**Jatiluwih Rice Terrace** terletak di pegunungan tengah Bali. Ini adalah salah satu terasering sawah terbesar dan terindah di pulau ini. Sawah bertingkat-tingkat mengikuti kontur bukit, pemandangannya luas dan tenang banget, menampilkan pesona pedesaan Bali yang paling murni.
+**Jatiluwih Rice Terrace** ada di pegunungan tengah Bali, salah satu terasering sawah terbesar dan paling spektakuler di pulau ini. Sawah bertingkat mengikuti kontur bukit, pemandangannya luas dan tenang banget—bikin kamu merasakan suasana pedesaan Bali yang paling autentik.
 
-![Jatiluwih Rice Terrace](https://images.gobaligo.id/vocus/vocus_62472c1caf4010fa626e962ecce877ef.jpg)
+![Jatiluwih賈提魯維梯田區](https://images.gobaligo.id/vocus/vocus_62472c1caf4010fa626e962ecce877ef.jpg)
 
-Tempat ini masuk dalam **Warisan Dunia UNESCO**, mewakili kearifan sistem irigasi tradisional Bali yang disebut 'Subak'. Perpaduan antara pemandangan alam dan budaya pertanian yang sudah berusia ribuan tahun bikin Jatiluwih jadi salah satu landmark terasering paling ikonik dan unik di Bali.
+Tempat ini masuk **Warisan Dunia UNESCO**, lho. Ini bukti kecerdasan sistem irigasi tradisional Bali yang disebut 'Subak'. Perpaduan antara pemandangan alam dan budaya pertanian yang udah ada ribuan tahun bikin Jatiluwih jadi salah satu ikon terasering paling unik dan representatif di Bali.
 
-### **Kejar Matahari Terbit & Lumba-lumba, Rasakan Hangatnya Pagi di Bali**
+### **Kejar Matahari Terbit & Lumba-lumba, Rasakan Pagi yang Lembut di Bali**
 
-Berlayar di pagi hari, kejar lumba-lumba liar yang melompat di permukaan laut.
+Pagi-pagi berlayar ke laut, kejar lumba-lumba liar yang melompat-lompat di permukaan air.
 
-![Kejar Matahari Terbit & Lumba-lumba, Rasakan Hangatnya Pagi ](https://images.gobaligo.id/vocus/vocus_140b7005ea4564d8e14f8d3a2793e738.jpg)
+![追逐日出與海豚，感受峇里島的溫柔晨光](https://images.gobaligo.id/vocus/vocus_140b7005ea4564d8e14f8d3a2793e738.jpg)
 
-Lovina disebut sebagai salah satu spot terbaik untuk melihat lumba-lumba di Bali karena perairannya yang relatif tenang, kemungkinan besar lumba-lumba muncul, dan aktivitasnya alami tanpa gangguan manusia. Berbeda dengan tur kejar-kejaran di pelabuhan wisata besar, ini lebih seperti **pertemuan pagi yang tenang menemani alam**.
+Lovina jadi salah satu spot paling terkenal di Bali buat liat lumba-lumba, karena perairannya tenang, kemunculan lumba-lumbanya tinggi, dan aktivitasnya alami tanpa gangguan manusia. Beda sama tur kejar-kejaran di pelabuhan besar, di sini lebih kayak **pertemuan pagi yang santai sama alam**.
 
-Saat matahari terbit sempurna, permukaan laut berkilau keemasan, lumba-lumba perlahan kembali ke laut dalam, dan perahu-perahu mulai pulang. Pagi yang singkat ini meninggalkan kesan yang tak tergantikan. Bukan sensasi atau keramaian, melainkan momen bahagia yang bikin hati jadi pelan.
+Pas matahari terbit penuh, laut bersinar keemasan, lumba-lumba perlahan balik ke laut dalam, kapal-kapal mulai pulang. Pagi yang singkat ini ninggalin kesan yang nggak tergantikan. Bukan soal seru atau ramai, tapi momen bahagia yang bikin hati tenang.
 
-Buat banyak traveler, sunrise dan lumba-lumba di Lovina adalah salah satu kenangan paling lembut dan menyembuhkan selama perjalanan di Bali.
+Buat banyak traveler, matahari terbit dan lumba-lumba di Lovina jadi salah satu kenangan paling lembut dan healing sepanjang perjalanan di Bali.
 
-### Pura Ulun Danu Beratan (Pura Air di Bali)
+### Pura Ulun Danu Beratan (Pura Air Bali)
 
-Pura Ulun Danu Beratan terletak di tepi Danau Bratan, salah satu pura di atas danau paling ikonik di Bali. Pura ini seolah mengapung di permukaan danau, dikelilingi pegunungan dan kabut tipis, suasananya tenang dan magis — benar-benar spot klasik yang khas banget di Bali.
+Pura Ulun Danu Beratan terletak di tepi Danau Bratan, salah satu pura di atas air paling ikonik di Bali. Pura ini kayak mengapung di permukaan danau, dikelilingi pegunungan dan kabut tipis, suasananya tenang dan magis—benar-benar spot klasik yang khas Bali.
 
-![Pura Ulun Danu Beratan (Pura Air di Bali)](https://images.gobaligo.id/vocus/vocus_326dbb72d243961e8dca8f15de8c3044.jpg)
+![峇里島水神廟（Ulun Danu Beratan）](https://images.gobaligo.id/vocus/vocus_326dbb72d243961e8dca8f15de8c3044.jpg)
 
-Pura ini bukan cuma tempat suci penting, tapi juga tercetak di uang kertas Indonesia, menunjukkan status nasional dan nilai budayanya. Perpaduan unik antara danau, kepercayaan, dan pemandangan alam bikin Ulun Danu Beratan jadi salah satu landmark paling ikonik di Indonesia.
+Pura ini bukan cuma tempat suci penting, tapi juga ada di uang kertas Indonesia, simbol status nasional dan nilai budayanya. Perpaduan danau, spiritualitas, dan pemandangan alam yang unik bikin Ulun Danu Beratan jadi salah satu landmark paling ikonik di Indonesia.
 
 ***
 
-## Destinasi di Pulau Jawa
+## Tempat Wisata di Jawa
 
-### **Masuk ke Yogyakarta, Jelajah Warisan Dunia — Candi Borobudur**
+### **Masuk ke Yogyakarta, Jelajahi Warisan Dunia—Candi Borobudur**
 
-Borobudur bukan cuma landmark paling simbolis di Indonesia, tapi juga keajaiban arsitektur Buddha yang masuk UNESCO World Heritage, sekaligus salah satu situs candi Buddha terbesar dan terawat di dunia.
+Borobudur bukan cuma landmark paling ikonik di Indonesia, tapi juga keajaiban arsitektur Buddha yang masuk UNESCO World Heritage, dan salah satu situs candi Buddha terbesar serta terawat di dunia.
 
-![Masuk ke Yogyakarta, Jelajah Warisan Dunia — Candi Borobudur](https://images.gobaligo.id/vocus/vocus_bacb4fd337c601bc015b2897a79573b2.jpg)
+![走進日惹，探訪世界文化遺產──婆羅浮屠](https://images.gobaligo.id/vocus/vocus_bacb4fd337c601bc015b2897a79573b2.jpg)
 
-![Masuk ke Yogyakarta, Jelajah Warisan Dunia — Candi Borobudur](https://images.gobaligo.id/vocus/vocus_67953b67edf91cd45797585e2efa87e5.jpg)
+![走進日惹，探訪世界文化遺產──婆羅浮屠](https://images.gobaligo.id/vocus/vocus_67953b67edf91cd45797585e2efa87e5.jpg)
 
-Relief dan stupa yang bertumpuk-tumpuk menyimpan kepercayaan dan kebijaksanaan ribuan tahun lalu. Datang langsung ke sini, baru bisa benar-benar merasakan keagungan dan getaran spiritualnya.
+Relief dan stupa yang bertumpuk mencatat kepercayaan dan kebijaksanaan ribuan tahun lalu. Datang langsung ke sini baru bisa ngerasain betapa megah dan menggetarkannya.
 
-### **Candi Prambanan｜Dunia Mitologi Hindu yang Unik dari Ukiran Batu**
+### **Candi Prambanan｜Dunia Mitologi yang Terukir di Batu**
 
-**_Prambanan Candi Hindu Prambanan_** adalah kompleks candi Hindu terbesar dan paling ikonik di Indonesia, sekaligus ditetapkan sebagai **_Warisan Dunia UNESCO_**. Deretan bangunan berbentuk menara menjulang tinggi berdiri megah di dataran, dengan garis-garis arsitektur yang tegas dan anggun, memamerkan estetika arsitektur luar biasa dari peradaban Jawa kuno.
+**_Candi Prambanan_** adalah kompleks candi Hindu terbesar dan paling ikonik di Indonesia, sekaligus diakui sebagai **_Warisan Dunia UNESCO_**. Deretan bangunan menjulang dengan arsitektur runcing berdiri megah di dataran, memancarkan estetika arsitektur luar biasa dari peradaban kuno Jawa.
 
-![Candi Prambanan｜Dunia Mitologi Hindu yang Unik dari Ukiran B](https://images.gobaligo.id/vocus/vocus_4e03ec488508284f45fb35891bb21089.jpg)
+![普蘭巴南印度教神廟｜獨一無二的石雕神話世界](https://images.gobaligo.id/vocus/vocus_4e03ec488508284f45fb35891bb21089.jpg)
 
-Dinding candi dipenuhi relief halus yang menggambarkan secara detail epos dan mitologi Hindu, bagaikan gulungan sejarah yang ditulis di atas batu. Perpaduan sempurna antara kepercayaan agama, seni pahat, dan teknik arsitektur menjadikan Prambanan sebagai salah satu landmark budaya paling unik dan bernilai kelas dunia di Yogyakarta.
+Dinding candi dipenuhi relief halus yang menggambarkan kisah epik dan mitologi Hindu, bagaikan lembaran sejarah yang terukir di batu. Perpaduan sempurna antara kepercayaan, seni pahat, dan arsitektur menjadikan Prambanan salah satu landmark budaya paling unik dan bernilai dunia di Yogyakarta.
 
 ***
 
@@ -105,87 +107,87 @@ Dinding candi dipenuhi relief halus yang menggambarkan secara detail epos dan mi
 
 Masuk ke gua Jomblang, turun vertikal ke dalam dunia bawah tanah.
 
-![Cahaya Surga Jomblang, Pemandangan yang Wajib Kamu Lihat Set](https://images.gobaligo.id/vocus/vocus_c1964d7aff23b6770f5d56f2f8dcd391.jpg)
+![Jomblang 天堂之光，一生至少看一次的奇景](https://images.gobaligo.id/vocus/vocus_c1964d7aff23b6770f5d56f2f8dcd391.jpg)
 
-Saat sinar matahari menyelinap dari atas gua, membentuk 'Cahaya Surga' yang legendaris, rasanya seperti berada di dalam film. Ini adalah momen yang paling diidamkan oleh para pecinta fotografi dan petualang.
+Saat sinar matahari menyelinap dari atas gua, terciptalah 'Cahaya Surga' yang legendaris — rasanya kayak lagi di set film. Ini tempat incaran para pecinta fotografi dan traveler petualang.
 
-### **Arung Jeram Gua Pindul｜Pengalaman Gua Air yang Santai dan Menenangkan**
+### **Arung Jeram Gua Pindul｜Seru tapi Santai di Gua Air**
 
-Gua Pindul adalah gua alami yang dipenuhi aliran air jernih, dengan permukaan air yang tenang dan ritme yang lambat. Berbaring di atas ban pelampung, ikuti arus air—tidak menegangkan, tidak berguncang—ini adalah pengalaman eksplorasi gua yang sangat santai. Cahaya di dalam gua lembut, suasananya damai, bikin kamu bisa menikmati keindahan alam dengan tenang.
+Gua Pindul adalah gua alami dengan air jernih yang tenang dan alirannya pelan. Kamu cukup berbaring di ban pelampung, ikut arus masuk — nggak ekstrem, nggak berguncang, benar-benar pengalaman eksplorasi gua yang super rileks. Cahaya di dalam gua lembut, suasananya damai, bikin kamu bisa menikmati keindahan alam dengan tenang.
 
-![Arung Jeram Gua Pindul｜Pengalaman Gua Air yang Santai dan Me](https://images.gobaligo.id/vocus/vocus_61722699493234c35cc910cf47e68888.jpg)
-
-***
-
-### **Api Biru Kawah Ijen, Keajaiban yang Membakar di Malam Hari**
-
-Hal yang paling menakjubkan dari Gunung Ijen (Ijen Volcano) bukanlah lava pijar saat letusan, melainkan **api biru** yang menyala diam-diam di tengah malam. Pemandangan ini sangat langka di seluruh dunia, dan Kawah Ijen adalah salah satu dari sedikit tempat di mana kamu bisa menyaksikan keajaiban alam ini secara langsung.
-
-![Api Biru Kawah Ijen, Keajaiban yang Membakar di Malam Hari](https://images.gobaligo.id/vocus/vocus_925eed199d66b8736fed1a6d9634da1e.jpg)
-
-Berjalan kaki di malam hari, melihat api biru mengalir dan berkelip di antara dinding kawah, bagaikan sungai lava biru. Pemandangannya misterius dan memukau—getaran dan kekaguman itu benar-benar layak untuk dilihat dengan mata kepala sendiri.
-
-### **Air Terjun Sewu, Salah Satu Air Terjun Paling Spektakuler di Indonesia**
-
-Air Terjun Sewu terkenal dengan kemegahannya — banyak aliran air yang mengalir deras bersamaan, suaranya luar biasa dahsyat.
-
-![Air Terjun Sewu, Salah Satu Air Terjun Paling Spektakuler di](https://images.gobaligo.id/vocus/vocus_59771de885d64f278da9c76684ab069d.jpg)
-
-Berdiri di depan air terjun ini, kamu bisa merasakan kekuatan alam yang paling murni, bikin kamu benar-benar tenggelam dalam suasana.
-
-### **Matahari Terbit di Gunung Bromo, Pemandangan Epik di Tengah Gugusan Gunung Berapi**
-
-Naik ke titik pandang saat subuh, tunggu matahari terbit.
-
-![Matahari Terbit di Gunung Bromo, Pemandangan Epik di Tengah ](https://images.gobaligo.id/vocus/vocus_a1b5cfc15bfd61681b9fbd1e1adb5655.jpg)
-
-Saat matahari perlahan muncul, menyinari gugusan Gunung Bromo dan lautan awan, pemandangannya seperti masuk ke National Geographic — momen yang nggak akan terlupakan seumur hidup.
+![Pindul 洞穴漂流｜輕鬆又療癒的水洞體驗](https://images.gobaligo.id/vocus/vocus_61722699493234c35cc910cf47e68888.jpg)
 
 ***
 
-## **Biaya Paket Perjalanan Sudah Termasuk Semua, Benar-benar All-in**
+### **Api Biru Kawah Ijen, Keajaiban yang Membara di Malam Hari**
 
-Ini paket wisata yang bikin kamu **nggak perlu keluar uang tambahan sama sekali**:
+Yang paling bikin speechless dari Gunung Ijen bukanlah lava panas saat erupsi, melainkan **api biru** yang menyala diam-diam di tengah malam. Pemandangan ini sangat langka di dunia, dan Kawah Ijen adalah salah satu dari sedikit tempat di mana kamu bisa menyaksikan keajaiban alam ini secara langsung.
 
-- Tiket pesawat pulang-pergi全程
-- Akomodasi pilihan全程 (termasuk sarapan setiap hari)
-- Semua tiket masuk tempat wisata dan atraksi
-- Sewa mobil pribadi dan layanan antar-jemput全程
-- Nggak ada belanja paksa, nggak ada biaya tambahan tersembunyi
+![伊真火山藍色火焰，夜色中燃燒的奇蹟](https://images.gobaligo.id/vocus/vocus_925eed199d66b8736fed1a6d9634da1e.jpg)
 
-Beneran **berangkat santai, traveling tanpa khawatir**.
+Berjalan di malam hari, melihat api biru mengalir dan berkelip di antara dinding tebing, bagaikan sungai lava biru — pemandangannya mistis dan bikin merinding. Momen yang begitu menggetarkan dan mengharukan, wajib banget kamu lihat langsung.
+
+### **Air Terjun Sewu, salah satu air terjun paling spektakuler di Indonesia**
+
+Air Terjun Sewu terkenal dengan kemegahannya — banyak aliran air yang turun bersamaan dengan suara gemuruh yang dahsyat.
+
+![賽武瀑布，印尼最壯觀的瀑布群之一](https://images.gobaligo.id/vocus/vocus_59771de885d64f278da9c76684ab069d.jpg)
+
+Berdiri di depan air terjun, kamu bisa merasakan kekuatan alam yang paling murni, bikin kamu benar-benar tenggelam dalam suasana.
+
+### **Matahari Terbit di Gunung Bromo, pemandangan epik di tengah gugusan gunung berapi**
+
+Naik ke titik pandang di pagi hari, menunggu matahari terbit.
+
+![布羅莫火山日出，火山群中的史詩畫面](https://images.gobaligo.id/vocus/vocus_a1b5cfc15bfd61681b9fbd1e1adb5655.jpg)
+
+Saat matahari perlahan naik, menyinari gugusan Gunung Bromo dan lautan awan — pemandangan itu seperti masuk ke dalam National Geographic, momen yang nggak akan terlupakan seumur hidup.
 
 ***
 
-## **Info & Hal Penting Sebelum Berangkat**
+## **Biaya perjalanan sudah termasuk semuanya, benar-benar all-in**
 
-- Periode keberangkatan: Mulai sekarang hingga **Desember 2026** (harga libur panjang dan hari libur khusus dihitung terpisah)
-- Paket ini adalah **harga cash promo untuk 2 orang**, untuk jumlah lain silakan hubungi customer service
-- Harga tiket pesawat dan akomodasi akan disesuaikan dengan tanggal keberangkatan aktual, customer service akan memberikan konfirmasi harga terlebih dahulu
-- Ini adalah **paket promo spesial**, setelah dikonfirmasi tidak bisa dibatalkan atau refund
+Ini adalah paket wisata yang **bikin kamu nggak perlu keluar uang tambahan sama sekali**:
+
+- Tiket pesawat pulang-pergi
+- Akomodasi pilihan sepanjang perjalanan (termasuk sarapan setiap hari)
+- Semua tiket masuk tempat wisata dan objek wisata
+- Layanan mobil pribadi dan antar-jemput sepanjang perjalanan
+- Tanpa paksaan belanja, tanpa biaya tersembunyi
+
+Beneran **berangkat santai, liburan tenang**. 
 
 ***
 
-**Kenapa Pilih Paket 7 Hari Mewah Santai Ini?**
+## **Info Keberangkatan & Hal Penting**
 
-✔ Sekali jalan, nikmati semua yang terbaik dari Bali + Pulau Jawa
-✔ Keajaiban alam kelas dunia dan warisan budaya terangkum semua
-✔ Tanpa belanja paksa, tanpa biaya tambahan, perjalanan paling murni
-✔ Villa dengan kolam renang pribadi + layanan mobil sewa, nyaman dan aman
+- Periode keberangkatan: mulai sekarang sampai **Desember 2026** (harga libur panjang & hari spesial dihitung terpisah)
+- Paket ini **harga cash promo untuk 2 orang**, kalau beda jumlah peserta silakan hubungi CS
+- Harga tiket pesawat & akomodasi bisa berubah sesuai tanggal keberangkatan, CS akan konfirmasi harga duluan
+- Ini **paket promo spesial**, begitu dikonfirmasi nggak bisa dibatalkan atau refund
+
+***
+
+**Kenapa milih trip 7 hari semi-luxury ini?**
+
+✔ Sekali jalan nikmatin spot terbaik Bali + Jawa
+✔ Dapat pemandangan alam kelas dunia & warisan budaya
+✔ Nggak ada belanja paksa, nggak ada biaya tambahan, murni liburan
+✔ Villa kolam renang pribadi + layanan mobil sewa, nyaman dan aman
 ✔ Harga transparan, value for money banget
-✔ Fleksibel: bisa tambah durasi perjalanan sesuai kebutuhan
+✔ Fleksibel: bisa tambah durasi sesuai kebutuhan
 
 ***
 
-## **Sekarang, pesan perjalanan yang benar-benar layak dikenang seumur hidup**
+## **Sekarang waktunya booking perjalanan yang beneran worth it dan dikenang seumur hidup**
 
-Saat api biru menyala di malam hari, cahaya surga menyinari gua, dan matahari terbit di gunung berapi memantul di lautan awan,
+Saat api biru menyala di malam hari, cahaya surga menyinari gua, dan matahari terbit di atas lautan awan dari puncak gunung berapi,
 
-kamu akan sadar, ini bukan sekadar perjalanan biasa, tapi kenangan indah yang bakal terus terbayang.
+kamu bakal sadar, ini bukan sekadar liburan — ini kenangan indah yang bakal terus terbayang.
 
-📩 Hubungi customer service sekarang juga, konfirmasi tanggal keberangkatan
+📩 Langsung hubungi CS, konfirmasi tanggal keberangkatan
 
-![Sekarang, pesan perjalanan yang benar-benar layak dikenang s](https://images.gobaligo.id/images/2026-04/1775403717337-omma-day-club-instagram-omma-day-club_169.jpeg)
+![現在就為自己預約一趟，真正值得回味一輩子的旅程](https://images.gobaligo.id/images/2026-04/1775403717337-omma-day-club-instagram-omma-day-club_169.jpeg)
 
 {{block:tour-form-wonders}}
 

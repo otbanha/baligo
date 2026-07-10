@@ -1,11 +1,12 @@
 ---
 slug: bali-drone-travel-guide
-title: Boleh bawa drone / kamera udara ke Indonesia / Bali?
+title: Boleh bawa drone ke Indonesia/Bali nggak sih?
 description: >-
   Kamu lagi rencana liburan ke Indonesia atau Bali, tapi khawatir soal bawa
-  drone? Tenang, simak dulu panduan lengkap kami soal bawa drone ke Indonesia /
-  Bali.
+  drone? Tenang, simak dulu panduan lengkap kami soal bawa drone ke
+  Indonesia/Bali.
 pubDate: 2023-11-13T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 旅行技巧
 tags:
@@ -17,36 +18,36 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2f0104efdccf74a386739089ab23c795.jpg'
 originalUrl: 'https://vocus.cc/article/65504084fd897800011c51f2'
 lang: id
-_srcHash: e40edb0c837b76f9974a158212ebc6ec
+_srcHash: 0da45b0d07a96ed929acf5855a147a0b
 ---
-Update: 03/07/2026
+**Kesimpulan dulu ya**: drone boleh dibawa ke Bali, tapi **baterai nggak boleh masuk bagasi, harus di kabin**, dan harus dilepas dari drone lalu dimasukkan ke kotak pelindung tahan api; badan drone yang sudah dilepas baterainya bisa masuk bagasi atau kabin. Sebelum berangkat, pastikan kamu paham aturan bawa baterai lithium biar nggak ditolak di bandara.
 
-Kamu lagi rencana liburan ke Indonesia atau Bali, tapi khawatir soal bawa drone? Tenang, jawabannya: **boleh banget**! Kamu bisa bawa drone ke Bali! Tapi sebelum masukin ke koper, ada beberapa aturan yang wajib kamu patuhi.
+Kamu lagi rencana liburan ke Indonesia atau Bali, tapi khawatir soal bawa drone? Tenang, jawabannya bisa kok! Kamu boleh bawa drone ke Bali! Tapi sebelum masukin drone ke koper, ada beberapa aturan yang wajib kamu ikuti.
 
-Pertama, **baterai nggak boleh masuk bagasi**! Kamu harus simpan baterai di tas kabin, jangan di koper yang akan di-check in. Ini biar maskapai nggak nolak karena alasan keamanan soal baterai lithium.
+Pertama, **baterai nggak boleh di bagasi**! Kamu harus taruh baterai di tas kabin, jangan di koper bagasi. Biar maskapai nggak nolak karena alasan keamanan soal baterai lithium.
 
-Kedua, baterai harus dilepas dari drone, lalu dimasukin ke wadah pelindung anti-api. Ini biar nggak terjadi korsleting yang bisa bikin kebakaran selama penerbangan. Wadah pelindung juga bantu kurangi risiko benturan pada baterai.
+Kedua, baterai harus dilepas dari drone, dan dimasukin ke kotak pelindung tahan api, biar nggak korslet dan kebakaran selama penerbangan. Kotak pelindung juga bantu kurangi risiko benturan.
 
-Terakhir, badan drone yang udah dilepas baterainya bisa kamu taruh di koper bagasi atau dibawa kabin bareng kamu. Kalau dimasukin bagasi, hati-hati biar nggak penyok atau rusak karena benturan.
+Terakhir, badan drone yang udah dilepas baterainya bisa masuk bagasi atau kabin bareng kamu. Kalau masuk bagasi, hati-hati biar nggak penyok atau rusak karena benturan.
 
-Selain itu, kalau drone kamu **lebih dari 2 kg**, sesuai aturan Indonesia, kamu wajib [daftar ke Kementerian Komunikasi dan Informatika](https://hubud.dephub.go.id/hubud/website/) dan dapat izin biar bisa terbang legal di Indonesia.
+Terus, kalau drone kamu **lebih dari 2 kg**, sesuai aturan Indonesia, kamu wajib daftar ke [Kementerian Komunikasi dan Informatika](https://hubud.dephub.go.id/hubud/website/) dan dapat izin biar bisa terbang legal di Indonesia.
 
 https://youtube.com/shorts/lgQsG01vDeo
 
-Di episode selanjutnya, kita bakal bahas tuntas aturan khusus dan batasan hukum buat terbangin drone di Indonesia / Bali. Sambil nikmatin hasil jepretan drone, jangan lupa juga jaga legalitas dan keselamatan penerbangan.
+Di episode selanjutnya kita bakal bahas tuntas aturan khusus dan batasan hukum buat terbangin drone di Indonesia/Bali. Sambil nikmatin hasil jepretan drone, jangan lupa pastikan semuanya legal dan aman ya.
 
 ### Pertanyaan Umum
 
-## Apakah baterai drone boleh masuk bagasi?
+## Baterai drone bisa dimasukkan ke bagasi terdaftar?
 
-Nggak boleh. Baterai harus dilepas dari badan drone dan dimasukkan ke dalam wadah pelindung anti-api, lalu dibawa di kabin sebagai bagasi jinjing — jangan masukin ke koper bagasi terdaftar. Ini aturan keamanan baterai lithium dari maskapai.
+Enggak bisa. Baterai harus dilepas dari badan drone dan dimasukkan ke dalam kotak pelindung tahan api, lalu dibawa di kabin sebagai bagasi tangan — jangan sekali-kali dimasukkan ke koper bagasi. Ini aturan keamanan baterai lithium dari maskapai.
 
-## Badan drone masuk bagasi terdaftar atau kabin?
+## Badan drone dimasukkan ke bagasi terdaftar atau kabin?
 
-Setelah baterai dilepas, badan drone bisa masuk bagasi terdaftar atau kabin. Kalau kamu pilih bagasi terdaftar, pastikan bungkusnya rapi biar nggak rusak karena benturan atau tekanan.
+Badan drone setelah baterainya dilepas bisa dimasukkan ke bagasi terdaftar atau dibawa di kabin. Kalau kamu pilih bagasi terdaftar, pastikan bungkusnya rapi biar nggak rusak karena benturan atau tekanan.
 
-## Drone di atas berapa kg wajib registrasi di Indonesia?
+## Berapa berat drone yang harus didaftarkan di Indonesia?
 
-Drone di atas 2 kg, sesuai aturan Indonesia, wajib didaftarkan ke Kementerian Komunikasi dan Informatika (Kominfo) dan dapat izin dulu biar legal dipakai di Indonesia.
+Drone dengan berat di atas 2 kg, sesuai aturan Indonesia, wajib didaftarkan ke Kementerian Komunikasi dan Informatika dan dapat izin dulu biar legal dioperasikan di Indonesia.
 
 {{block:戶外}}

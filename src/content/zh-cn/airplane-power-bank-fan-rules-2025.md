@@ -6,6 +6,7 @@ description: >-
   充电宝（移动电源）携带规定  根据国际航空运输协会（IATA）及多数航空公司的规定：  100Wh 以下：可随身携带，无需航空公司批准。  100Wh 至
   160W
 pubDate: '2025-05-22'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bf5e236466b655dcf22585c61b19a2cc.png'
 tags:
   - 搭飛機
@@ -17,12 +18,13 @@ originalUrl: 'https://vocus.cc/article/682ebdb1fd89780001b2f097'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 3b5620c2555d91f0b6cd0cff212e2c20
+_srcHash: b1ce67b687652bc6a0e3855103f104df
 ---
+**先说结论**：移动电源 **100Wh 以下可随身携带**（20000mAh 以下通常符合），**100-160Wh 需航空公司批准且最多带 2 个**，**超过 160Wh 禁止携带**，且一律只能放随身行李、不可托运。含电池的随身/挂脖风扇规定则视电池类型而定。
 
 在搭乘飞机时，携带充电宝（移动电源）和含有电池的挂脖风扇确实需要遵守特定的航空安全规定。以下是针对这两类物品的携带指南：
 
-![移动电源/充电宝与随身USB风扇/挂脖风扇能否带上飞机？2025年最新规定总整理](https://images.gobaligo.id/vocus/vocus_0f872f41d331409831d5203d1221cea7.png)
+![行動電源/充電寶與隨身USB風扇/掛脖風扇能否帶上飛機？2025年最新規定總整理](https://images.gobaligo.id/vocus/vocus_0f872f41d331409831d5203d1221cea7.png)
 
 ---
 

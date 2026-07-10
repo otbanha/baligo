@@ -1,71 +1,64 @@
 ---
 slug: kamandalu-ubud-koi-river-dining
-title: 'Romantic Dining on a Boat: The Koi River Floating Feast at Kamandalu Ubud'
+title: 'Romantic Floating Dinner for Two: Koi River Dining at Kamandalu Ubud'
 description: >-
-  In the heart of Ubud, Bali, Kamandalu Ubud Resort offers couples a dreamlike
-  dining experience—the Koi River Floating Dining on a traditional wooden boat.
-  This is not just a meal, but a sensory feast that combines natural beauty,
-  exquisite cuisine, and a romantic atmosphere.
+  Nestled in the heart of Ubud, Bali, Kamandalu Ubud offers couples a dreamlike
+  dining experience—a floating dinner for two on the Koi River. This is more
+  than just a meal; it's a sensory feast blending natural beauty, exquisite
+  cuisine, and romantic ambiance. Floating Amidst the Koi Imagine sitting with
+  your loved one on a traditional wooden boat, surrounded by crystal-clear ponds
+  where hundreds of
 pubDate: 2025-06-04T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 美食景點活動
 tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0000ef7e983fe143673d4acad378284d.jpg'
 originalUrl: 'https://vocus.cc/article/68404e54fd89780001530054'
 lang: en
-_srcHash: d222516f5f835c548e3a9d5dbe4ba09d
+_srcHash: 9b6983f81fba9ba4a27daa64402e1151
 ---
+![浪漫雙人船上用餐體驗：烏布卡曼達魯的錦鯉漂流河饗宴](https://images.gobaligo.id/vocus/vocus_94270edad192312ca18cd296ef31f4ae.jpg)
 
-![Romantic Dining on a Boat: The Koi River Floating Feast at K](https://images.gobaligo.id/vocus/vocus_94270edad192312ca18cd296ef31f4ae.jpg)
+**Bottom line**: The Koi River floating dinner for two at Kamandalu Ubud lasts about **1 hour**, with you seated on a traditional wooden boat surrounded by koi fish. Flexible time slots are available (afternoon or sunset), making it perfect for couples celebrating anniversaries or proposing—a rare, high-romance experience in Ubud.
 
-## Romance Amidst the Koi
+Nestled in the heart of Ubud, Bali, Kamandalu Ubud offers couples a dreamlike dining experience—a floating dinner for two on the Koi River. This is more than just a meal; it's a sensory journey blending natural beauty, exquisite cuisine, and romantic ambiance.
 
-Imagine: You and your loved one sit on a traditional wooden boat, surrounded by a crystal-clear pond, with dozens of colorful koi fish gracefully swimming by. The lush tropical foliage of Ubud encircles you, and sunlight filters through the leaves, creating a completely private romantic space.
+## Floating Romance Among the Koi
 
-This one-hour experience is perfect for couples celebrating special moments or simply wanting to escape the daily hustle and enjoy some sweet time together. The resort offers flexible time slots, whether it's a sunny afternoon or a sunset evening, allowing you to find the perfect romantic moment.
+Imagine sitting with your loved one on a traditional wooden boat, surrounded by crystal-clear ponds where dozens of colorful koi fish glide gracefully by. Lush tropical vegetation envelops you, and sunlight filters through the leaves, casting golden specks of light—creating an entirely private, romantic space.
 
-## Exquisite Culinary Feast
+This one-hour experience is perfect for couples celebrating a special occasion or simply seeking to escape the daily hustle and enjoy sweet moments together. The resort offers flexible time slots, whether you prefer a sunlit afternoon or a golden sunset, ensuring you find the perfect romantic moment.
 
-![Exquisite Culinary Feast](https://images.gobaligo.id/vocus/vocus_3648fd618b175b7daa976538684257e2.jpg)
+![漂浮在錦鯉之間的浪漫](https://images.gobaligo.id/vocus/vocus_3648fd618b175b7daa976538684257e2.jpg)
 
-In such a special setting, Kamandalu has prepared a thoughtfully designed menu to satisfy every palate:
+## Exquisite Culinary Delight
 
-**Regular Menu** offers a variety of choices:
+In such a unique setting, Kamandalu presents a thoughtfully curated menu to satisfy every palate:
 
-![Exquisite Culinary Feast](https://images.gobaligo.id/vocus/vocus_eae8f33d1d9a12f0c82a4651c147dd3e.png)
+![精緻美食饗宴](https://images.gobaligo.id/vocus/vocus_eae8f33d1d9a12f0c82a4651c147dd3e.png)
 
-- Appetizers like mini spiced lamb burgers with tomato ginger sauce
+**Regular menu** offers a variety of choices:
+
+- Savory appetizers like mini spiced lamb burgers with tomato-ginger sauce
+
 - Balinese-style grilled fish satay and chicken satay with roasted peanut sauce
-- Delicate mini open sandwiches with brie cheese and honey ham
-- Innovative bamboo shoot shrimp spring rolls with sweet and sour sauce
 
-- 開胃的鹹點如迷你香料羊肉漢堡配番茄薑味醬
-- 巴厘島風味的烤魚沙爹和雞肉沙爹配烤花生醬
-- 精緻的迷你開放三明治配布里奶酪和蜂蜜火腿
-- 創新的竹筍蝦春捲配甜酸醬
+- Elegant mini open-faced sandwiches with Brie cheese and honey ham
 
-**Desserts** showcase traditional Indonesian flavors:
+- Innovative bamboo shoot and shrimp spring rolls with sweet and sour sauce
+
+**The dessert course** showcases traditional Indonesian flavors:
 
 - Slow-roasted coconut rice cake with sweet jackfruit and palm sugar syrup
+
 - Steamed banana cake
+
 - Raisin pandan scones with strawberry jam and vanilla cream
+
 - Adorable mini fruit satay
 
-**Vegetarian menu** is equally abundant:
-
-- Spiced soy burger on focaccia bread
-- Fried stuffed tofu with rice noodles and roasted peanut sauce
-- Mini ciabatta open sandwiches with avocado and roasted vegetables
-
-The meal is paired with the resort's signature strawberry-flavored drink and a glass of sparkling wine, offering a complete culinary journey for your taste buds.
-
-## Creating Timeless Memories
-
-Beyond the food, the most precious aspect of this experience is the memories it creates. Professional staff will discreetly capture beautiful photos of this special moment. While you focus on the stunning scenery and your loved one beside you, those natural smiles and eye contacts will be forever frozen in time.
-
-The romantic dining experience on a floating boat at Kamandalu Ubud not only satisfies your palate but also nourishes your soul. Here, time seems to slow down, allowing you to truly relax and feel the magical charm of Bali, sharing this unforgettable moment with your beloved.
-
-Whether it's for a honeymoon, anniversary celebration, or simply to surprise your loved one, this romantic feast floating on the Koi River will become the most shining pearl of memories from your Bali trip.
+**The vegetarian menu** is equally rich:
 
 ▶[Book on Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1061065&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F136296-dining-experience-at-kamandalu-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Debd9e9bd14)
 

@@ -5,22 +5,24 @@ description: >-
   探索巴厘岛最美黑沙滩与潜水天堂！本篇详尽整理 Amed 与 Tulamben
   旅游攻略，包含自由沉船潜水、绝美蒂尔塔冈加水宫、大门入口拍照点。无论是寻求宁静海景还是深度潜水体验，这里有你需要的完整指南。
 pubDate: 2025-06-23T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 峇里島分區攻略
 tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6727b9f6f57b7ae2c320641b63c0569c.jpg'
 originalUrl: 'https://vocus.cc/article/68578b01fd89780001dd5208'
 lang: zh-cn
-_srcHash: b63a0e6305f2aee2caf06fcc376d8066
+_srcHash: 077507bf9998f83dfc46fa49e8cdd429
 ---
-
 ## 巴厘岛火山壮景与宁静海岸的完美结合
+
+**先讲结论**：艾眉（Amed）与土兰奔（Tulamben）位于巴厘岛东北角，从机场车程约 **2.5-3.5 小时**，是远离闹区、以自由沉船潜水与黑沙滩闻名的秘境，天气好时可同时眺望阿贡、阿邦、巴杜尔三座火山，适合安排 1-2 天的深度潜水或宁静海景行程。
 
 位于巴厘岛东北角的艾眉（Amed）与土兰奔（Tulamben），是一处与闹区截然不同的世外桃源。这里既没有库塔的热闹喧嚣，也没有乌布的文艺气息，取而代之的是静谧渔村氛围与壮观的自然景观。
 
 ![阿貢火山（Gunung Agung）  峇里島最高、最具宗教與文化意義的活火山，海拔約 3,031 公尺；上古火山殘留的 Gunung Abang，海拔約 2,151 公尺；巴杜爾火山（Gunung Batur）  是一座活火山錐，海拔約 1,717 公尺](https://images.gobaligo.id/vocus/vocus_38b4f9c2c400c72b9f94875f5af8aeaa.jpg)
 
-阿贡火山（Gunung Agung） 巴厘岛最高、最具宗教与文化意义的活火山，海拔约 3,031 米；上古火山残留的 Gunung Abang，海拔约 2,151 米；巴杜尔火山（Gunung Batur） 是一座活火山锥，海拔约 1,717 米
+阿贡火山（Gunung Agung） 巴厘岛最高、最具宗教与文化意义的活火山，海拔约 3,031 公尺；上古火山残留的 Gunung Abang，海拔约 2,151 公尺；巴杜尔火山（Gunung Batur） 是一座活火山锥，海拔约 1,717 公尺
 
 https://youtube.com/shorts/Hce-BK5I-NU
 
@@ -34,21 +36,21 @@ https://youtube.com/shorts/7lFkNVJzyso
 
 ## 潜入海底世界，与日出日落共舞
 
-艾眉与图兰奔最吸引人的地方，莫过于清澈无比的海水与多样化的水下生态。这里是潜水爱好者的天堂，无论你是专业潜水员，还是刚入门的新手，都能找到适合自己的水域。
+艾眉与土兰奔最吸引人的地方，莫过于清澈无比的海水与多样化的水下生态。这里是潜水爱好者的天堂，无论你是专业潜水员，还是刚入门的新手，都能找到适合自己的水域。
 
-### 图兰奔水肺潜水
+### 土兰奔水肺潜水
 
-图兰奔的「自由号沉船」（USAT Liberty Wreck）是世界知名的潜水点之一，水深适中、能见度高，让你在与色彩斑斓的热带鱼共舞的同时，也能近距离欣赏这艘被海洋接纳的历史残骸。
+土兰奔的「自由号沉船」（USAT Liberty Wreck）是世界知名的潜水点之一，水深适中、能见度高，让你在与色彩斑斓的热带鱼共舞的同时，也能近距离欣赏这艘被海洋接纳的历史残骸。
 
 ![土蘭奔的自由號沈船](https://images.gobaligo.id/vocus/vocus_48a7dc85553f97e116fe4b29e5b7d33b.jpg)
 
-图兰奔的自由号沉船
+土兰奔的自由号沉船
 
 ![也有豐富的海底景觀](https://images.gobaligo.id/vocus/vocus_67c9e1e828ea9dd333b99e12f09a5613.jpg)
 
 也有丰富的海底景观
 
-> [图兰奔新手/老手的浮潜体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1072228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DTulamben)
+> [土兰奔新手/老手的浮潜体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1072228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DTulamben)
 
 ### 艾眉浮潜
 
@@ -56,13 +58,13 @@ https://youtube.com/shorts/qdS8Td7QPYY
 
 若你偏好轻松活动，也可以选择浮潜，艾眉的Jemeluk Bay就是热门首选，不需搭船，从岸边直接下水即可看到珊瑚礁与热带鱼群，方便又安全。
 
-> [艾眉浮潜/免证照水肺潜水](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1072283&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DAmed%26frontend_id%3D121%2C123%2C172%26location%3Dcity_8%26sort%3Dmost_relevant%26tab_key%3D1%26start%3D1%26spm%3DSearchResult.FilterOption_LIST%26clickId%3D1140-71cb-9080-4aa8-928f-71936a74432d)
+[> 艾眉浮潜/免证照水肺潜水](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1072283&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DAmed%26frontend_id%3D121%2C123%2C172%26location%3Dcity_8%26sort%3Dmost_relevant%26tab_key%3D1%26start%3D1%26spm%3DSearchResult.FilterOption_LIST%26clickId%3D1140-71cb-9080-4aa8-928f-71936a74432d)
 
 ### Jukung追逐日出/日落/海上垂钓
 
 https://youtube.com/shorts/0f-eAQ78no4
 
-除了潜水和浮潜，还有一项绝不能错过的特色体验 —— 搭乘当地的传统渔船 **Jukung** 出海。这种拥有双侧平衡支架的小型木船，是当地渔夫世代使用的工具，也是探索艾眉海岸最地道的方式。
+除了潜水与浮潜，还有一项绝不能错过的特色体验——搭乘当地的传统渔船 **Jukung** 出海。这种拥有双侧平衡支架的小型木船，是当地渔夫世代使用的工具，也是探索艾眉海岸最地道的方式。
 
 清晨时分，许多游客会选择搭上Jukung出海，**追逐日出**。随着船身缓缓划出岸边，你会看到太阳从海平面缓缓升起，金光洒落海面，整个世界都被染上柔和的暖橘色，那一刻的宁静与壮观，令人难忘。
 
@@ -80,7 +82,7 @@ https://youtube.com/shorts/0f-eAQ78no4
 
 当太阳慢慢往火山背后沉落，整片天空从湛蓝转为橘红、紫粉，与海面相互映照，画面如梦如幻。加上周围环境宁静，少有商业气息，是一个能让人真正静下心来、与自然对话的地方。
 
-观景台附近有几间小咖啡厅与酒吧，可以一边喝着冷饮、一边静静欣赏夕阳，在此享受一段平静悠闲的时光。小杰上次去的是[这里](https://www.sunsetpointamedbali.com/)，餐点普普，但是美景无价！
+观景台附近有几间小咖啡厅与酒吧，可以一边喝着冷饮、一边静静欣赏夕阳，在此享受一段平静悠闲的时光。小杰上次去的是[这里](https://www.sunsetpointamedbali.com/)，餐点一般，但是美景无价！
 
 若你来到艾眉，别忘了留一个傍晚给 Sunset Point，这里的夕阳绝对值得等待。
 
@@ -116,11 +118,11 @@ https://youtube.com/shorts/0f-eAQ78no4
 
 **6. Gusto Resto Amed**
 
-气氛舒服的家常餐馆，主打地中海与印尼融合餐点。推荐新鲜沙拉、仁当鸡与香煎金枪鱼排，是多人聚餐的好选择。
+气氛舒服的家常餐馆，主打地中海与印尼融合餐点。推荐新鲜沙拉、仁当鸡与香煎鲔鱼排，是多人聚餐的好选择。
 
 **7. Green Melon Warung**
 
-以健康烹调见长，食材新鲜、价格实惠。推荐BBQ金枪鱼与鱿鱼料理，搭配巴厘沙拉，还有香蕉叶锥形饭超可爱。仅收现金。
+以健康烹调见长，食材新鲜、价格实惠。推荐BBQ鲔鱼与鱿鱼料理，搭配巴厘沙拉，还有香蕉叶锥形饭超可爱。仅收现金。
 
 **8. Trattoria Amed**
 
@@ -142,17 +144,17 @@ https://www.instagram.com/reel/DBtlVJaygKA/?utm_source=ig_web_copy_link&igsh=NTc
 
 Rimba Café 是艾眉少见结合自然风格与轻食创意的咖啡馆，环境被绿意包围，氛围清新惬意。主打手工甜点、果昔碗、咖啡与健康轻食，深受旅人与瑜伽爱好者喜爱。
 
-这里的咖啡品质不输城市等级，搭配自制烘焙品如香蕉蛋糕或椰奶布丁，让人一试成主顾。也有提供素食与纯植物餐点选项，是早午餐或下午放松的理想地点。
+这里的咖啡品质不输城市级别，搭配自制烘焙品如香蕉蛋糕或椰奶布丁，让人一试成主顾。也提供素食与纯植物餐点选项，是早午餐或下午放松的理想地点。
 
-如果你在艾眉找一个可以慢下来、享受一杯好咖啡的地方，**Rimba Café** 绝对是不错的选择。
+如果你在艾眉想找一个能慢下来、享受一杯好咖啡的地方，**Rimba Café** 绝对是不错的选择。
 
 ### **高档美食推荐：Asmat餐厅用餐体验**
 
-![高档美食推荐：Asmat餐厅用餐体验](https://images.gobaligo.id/images/2026-03/1774608192068-asmat_restaurant.jpg)
+![高檔美食推薦：Asmat餐廳用餐體驗](https://images.gobaligo.id/images/2026-03/1774608192068-asmat_restaurant.jpg)
 
 在艾眉山坡上的 **Asmat 餐厅（Asmat Restaurant at Mathis Lodge Amed）**，用餐绝对不只是吃一顿饭，而是一场视觉与味蕾的双重盛宴。餐厅位于群山与海岸之间，视野辽阔，是约会与纪念日的梦幻地点。专属的浪漫晚餐套餐让人沉醉于夕阳染红天际的时刻，一边享用精致的西式料理与现调鸡尾酒，一边沉浸在山海交织的景色中，每一口都是爱情的延伸。
 
-而早晨，则可以选择在无边泳池享用无与伦比的 **漂浮托盘早餐**，在热带阳光中开启悠闲的一天。喜欢私密用餐体验的旅人，还可以预订双人专属 **烧烤套餐**，由主厨现场烹调新鲜食材，搭配凉爽晚风与星空陪伴，在这片热带天堂中共度难忘夜晚。这里，不只是吃得好，更是一场与自然与彼此的深度连结。
+而早晨，则可以选择在无边泳池享用无与伦比的 **漂浮托盘早餐**，在热带阳光中开启悠闲的一天。喜欢私密用餐体验的旅人，还可以预订双人专属 **烧烤套餐**，由主厨现场烹饪新鲜食材，搭配凉爽晚风与星空陪伴，在这片热带天堂中共度难忘夜晚。这里，不只是吃得好，更是一场与自然与彼此的深度连接。
 
 https://youtu.be/PgGyeZIXHwc?si=HdhPdTL9fs_kHUv7
 
@@ -192,7 +194,7 @@ Villa Butik Segara
 
 [**Dhauteya Villa**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=50202420) **👈**点看详情
 
-新颖且富设计感的小型别墅，设有景观泳池与舒适客房，性价比极高，适合长住或潜水旅人。
+新颖且富有设计感的小型Villa，设有景观泳池与舒适客房，性价比极高，适合长住或潜水旅人。
 
 [**Blue Moon Villas Resort**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=16341879) **👈**点看详情
 
@@ -214,19 +216,19 @@ Villa Butik Segara
 
 特别提醒，**多数在南部营业的司机不太愿意单程载客到 Amed 后又空车回程**，尤其在旅游旺季更不易叫车。因此，最理想的方式是找 **Amed 当地的包车司机**，不仅服务意愿高，也熟悉区域动线。
 
-我们诚挚推荐在地司机 **Ketut Juna**，他是土生土长的 Amed 居民，专门提供往返交通与区域接送服务。他的服务范围包括：
+我们诚挚推荐当地司机 **Ketut Juna**，他是土生土长的 Amed 居民，专门提供往返交通与区域接送服务。他的服务范围包括：
 
-- **机场往返艾眉/图兰奔接送**
-- **从艾眉出发前往其他地点的包车**
-- **当地潜水/浮潜活动预约/接送**
-- **日落点、Lempuyang天空之门、Tirta Gangga等景点行程安排**
-- **搭乘Jukung出海赏日出、钓鱼等预约/接驳服务**
+- **机场往返 Amed／Tulamben 接送**
+- **从 Amed 出发前往其他地点的包车**
+- **当地潜水／浮潜活动预约／接送**
+- **Sunset Point、Lempuyang 天空之门、Tirta Gangga 等景点行程安排**
+- **搭乘 Jukung 出海赏日出、钓鱼等预约／接驳服务**
 
 ![交通](https://images.gobaligo.id/vocus/vocus_1c77b7d525e0ff7d6cce396d75da372e.jpg)
 
-无论是交通、行程建议，还是临时调整安排，他都能协助处理，是信赖度极高的在地伙伴。如果你打算深度探索艾眉，Ketut绝对是让旅程顺畅的关键角色。
+无论是交通、行程建议，还是临时调整安排，他都能协助处理，是信赖度极高的在地伙伴。如果你打算深度探索 Amed，Ketut 绝对是让旅程顺畅的关键角色。
 
-请用FB或Whatsapp联系，Line已暂停使用
+请用 FB 或 Whatsapp 联系，Line已暂停使用
 
 ***
 
@@ -234,9 +236,9 @@ Villa Butik Segara
 
 https://youtube.com/shorts/XS1j72uEtTY
 
-由于艾眉与图兰奔相对偏远，基础设施不如南部观光区完备，因此旅人出发前务必做好准备：
+由于艾眉与土兰奔相对偏远，基础设施不若南部观光区完备，因此旅人出发前务必做好准备：
 
-- **现金为主**：区域内ATM数量少，且不一定支持外国卡，建议在登山或潜水活动前先取好足够现金。
+- **现金为主**：区域内ATM数量少，且不一定支持外国卡，建议在登山或潜水活动前先领好足够现金。
 - **基本药品自备**：当地医疗设施有限，简单的胃药、止痛药、防蚊液等可随身携带。
 - **交通安排提早预约**：若要包车或安排司机，建议提前预订。
 - **网络有限**：部分区域信号不稳，建议准备SIM卡或便携WiFi。
@@ -248,15 +250,15 @@ https://youtube.com/shorts/XS1j72uEtTY
 
 ## 攻略地图
 
-我们将以上提到的地点都整理在「艾眉/图兰奔攻略地图」，[点我](https://www.google.com/maps/d/u/0/edit?mid=1IrHQ5679D68HUAXlXWyqhgnvITAONfE&usp=sharing)放大/收藏
+我们将以上提到的地点都整理在「Amed/Tulamben攻略地图」，[点我](https://www.google.com/maps/d/u/0/edit?mid=1IrHQ5679D68HUAXlXWyqhgnvITAONfE&usp=sharing)放大/收藏
 
-![攻略地图](https://images.gobaligo.id/vocus/vocus_9422f8946b1dbb2f0592bc5416a32b91.png)
+![攻略地圖](https://images.gobaligo.id/vocus/vocus_9422f8946b1dbb2f0592bc5416a32b91.png)
 
 ***
 
 ## FAQ 常见问题解答
 
-**艾眉和图兰奔适合初学者潜水吗？**
+**艾眉和土兰奔适合初学者潜水吗？**
 
 是的，这里海况稳定、水流较缓，特别适合潜水新手，当地潜水学校也会安排体验课程。
 
@@ -276,7 +278,7 @@ https://youtube.com/shorts/XS1j72uEtTY
 
 若你有多一点时间，推荐造访周边的三个绝美景点：
 
-![FAQ 常见问题解答](https://images.gobaligo.id/vocus/vocus_ed589a98d59d6d3d1de01faf3eb0b822.jpg)
+![FAQ 常見問題解答](https://images.gobaligo.id/vocus/vocus_ed589a98d59d6d3d1de01faf3eb0b822.jpg)
 
 - **天空之门（Lempuyang Temple）**：位于山腰之上，以壮丽火山背景与神圣石门著称，是摄影爱好者的天堂。
 - **恒河圣泉花园（Tirta Gangga）**：前皇室水上花园，池中石雕与锦鲤交织出的景致令人心醉，是散步与拍照的绝佳场所。

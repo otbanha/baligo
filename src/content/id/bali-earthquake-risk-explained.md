@@ -1,14 +1,12 @@
 ---
 slug: bali-earthquake-risk-explained
-title: Bali bakal kena gempa super gede? Ini penjelasannya
+title: Bali bakal kena gempa super besar? Ini penjelasannya
 description: >-
-  Ahli baru-baru ini bilang, Bali punya potensi risiko gempa 'megathrust' —
-  gempa yang sumbernya ada di laut selatan Bali. Profesor seismologi dari
-  Institut Teknologi Bandung (ITB), Irwan Meilano, jelasin kalau gempa
-  megathrust biasanya terjadi di pertemuan lempeng tektonik dan skalanya sering
-  di atas 8 SR. Gempa kayak gini bikin kerak bumi bergerak drastis, yang bisa
-  picu tsunami dan bencana parah lainnya.
+  Baru-baru ini para ahli menyebut Bali berpotensi mengalami gempa 'megathrust'
+  — gempa raksasa yang bisa bikin kita semua waspada. Wilayah selatan Bali
+  persis berada di pertemuan lempeng rawan seperti ini.
 pubDate: '2024-08-18'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9677a34e34de3c0d4ddee09e18e3ce92.jpg'
 tags:
   - 峇里島地震
@@ -20,46 +18,48 @@ originalUrl: 'https://vocus.cc/article/66c16fdefd897800015d7148'
 category:
   - 旅行技巧
 lang: id
-_srcHash: d4179e8c6c1d50b172be1e8f8ed3c835
+_srcHash: 121555972c12bd3f8a856696cb72f773
 ---
-Beberapa titik di Indonesia yang berpotensi kena gempa super besar
+**Kesimpulan dulu ya**: Laut selatan Bali ada di zona rawan pertemuan lempeng. Para ahli bilang ke depannya bisa terjadi gempa 'megathrust' berkekuatan di atas 8 SR yang disertai tsunami, tapi kapan pastinya nggak bisa diprediksi. Tips buat traveler: **pas check-in hotel, tanya rute evakuasi tsunami**. Kalau lagi di Kuta, Seminyak, atau pantai lain terus ngerasa gempa kuat, langsung jauhi bangunan dan pantai, cari tempat tinggi.
+
+Baru-baru ini para ahli menyebut Bali berpotensi mengalami gempa 'megathrust' — gempa raksasa yang sumbernya ada di laut selatan Bali. Profesor seismologi dari Institut Teknologi Bandung (ITB) Indonesia, Irwan Meilano, menjelaskan gempa megathrust biasanya terjadi di pertemuan lempeng dan skalanya sering di atas 8 SR. Gempa ini bikin kerak bumi bergerak drastis, yang bisa memicu tsunami dan bencana parah lainnya.
 
 ![印尼的幾個可能發生超大地震的震點](https://images.gobaligo.id/vocus/vocus_07166b249c6efdf7ffb9ba46d68be6b1.jpg)
 
-Bali bagian selatan tepat berada di zona rawan pertemuan lempeng ini. Zona ini membentang dari Aceh, Sumatera Utara, Sumatera Barat, terus ke Selat Sunda, Jawa selatan, sampai ke laut selatan Bali dan Lombok. Karena semua daerah ini ada di batas lempeng, semuanya punya potensi gempa megathrust.
+Beberapa titik di Indonesia yang berpotensi kena gempa super besar
 
-Irwan ngegas, gempa jenis ini cirinya skala gede dan sering dibarengi tsunami. Dia jelasin, megathrust itu pergerakan vertikal lempeng di dasar laut yang bikin air laut naik, jadilah tsunami. Meski risikonya gak bisa dianggap remeh, dia minta publik jangan panik, tapi siap-siaga menghadapi kemungkinan gempa.
+Selatan Bali adalah salah satu zona rawan di pertemuan lempeng ini. Zona ini membentang dari Aceh, Sumatera Utara, Sumatera Barat, terus ke Selat Sunda, selatan Jawa, sampai ke laut selatan Bali dan Lombok. Karena semua daerah ini ada di batas lempeng, semuanya berpotensi kena gempa megathrust.
 
-Soal kapan gempa bakal terjadi, Irwan bilang ilmuwan belum bisa prediksi secara tepat. Dia ingetin, ini cuma estimasi risiko, bukan ramalan pasti. Lagi-lagi dia tekankan, yang penting tetap waspada dan siapkan langkah mitigasi, bukan bikin panik yang gak perlu. Semoga meski ada potensi risiko, kita bisa kurangi dampaknya dengan persiapan.
+Irwan menekankan gempa jenis ini punya skala besar dan biasanya disertai tsunami. Dia jelasin, megathrust itu pergerakan vertikal lempeng di dasar laut yang bikin air laut naik, jadilah tsunami. Meski risikonya nggak bisa dianggap remeh, dia minta publik jangan panik, tapi siap-siaga menghadapi kemungkinan gempa.
 
-Wilayah ini udah lebih dari 100 tahun gak kena gempa super besar. Kata ahli, datangnya gempa 'tinggal masalah waktu'!
+Soal kapan gempa ini bakal terjadi, Irwan bilang ilmuwan saat ini belum bisa memprediksi secara tepat. Dia ingetin, ini cuma perkiraan risiko, bukan ramalan pasti. Lagi-lagi dia tekankan, yang paling penting tetap waspada dan siap sedia, bukan bikin panik yang nggak perlu. Semoga meski ada potensi risiko, kita tetap bisa mengurangi dampak bencana dengan persiapan.
 
-## **Jumlah gempa di Bali 2024 naik drastis**
+Wilayah ini udah lebih dari 100 tahun nggak kena gempa besar. Kata ahli, datangnya gempa 'tinggal masalah waktu'!
 
-Karena Bali ada di Cincin Api Pasifik, tahun 2024 tercatat 582 kali gempa — jauh di atas 324 kali di 2023. Sebagian besar magnitudonya di bawah 3.0, 117 kali di antara 3.1 sampai 5.0, dan gak ada yang di atas 5.0. Bulan September, dua gempa 4.8 dan 4.9 di daerah Ubud cukup terasa dampaknya.
+## **Jumlah gempa di Bali tahun 2024 naik drastis**
 
-峇里島因位於太平洋火環帶，2024年記錄了582次地震，遠超2023年的324次。絕大多數震級低於3.0，117次介於3.1至5.0，未超過5.0級。9月，烏布地區兩次4.8和4.9級地震影響顯著。
+Bali berada di Cincin Api Pasifik, jadi pada 2024 tercatat 582 kali gempa — jauh lebih banyak dari 324 kali di 2023. Sebagian besar magnitudonya di bawah 3,0, 117 kali di antara 3,1 sampai 5,0, dan nggak ada yang di atas 5,0. Bulan September, dua gempa di Ubud dengan magnitudo 4,8 dan 4,9 cukup terasa dampaknya.
 
-**Kesadaran Bencana & Persiapan**
+**Kesiapsiagaan dan Langkah Antisipasi**
 
-Kawasan wisata utama kayak Kuta dan Seminyang rawan gempa dan tsunami. Di sana udah ada rambu evakuasi tsunami, saran pas check-in tanya aja rute evakuasi sama titik amannya. Kalau ngerasa gempa besar, langsung jauhi bangunan dan pantai, cari tempat tinggi buat ngungsi.
+Kawasan wisata utama kayak Kuta dan Seminyang punya risiko gempa dan tsunami. Di sana udah ada papan petunjuk evakuasi tsunami. Saran gue, pas check-in tanya aja rute evakuasi dan titik aman ke hotel. Kalau kamu ngerasain gempa kuat, langsung jauhi bangunan dan pantai, terus cari tempat tinggi buat berlindung.
 
 ## 
 
 ## 📩 **Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Bali!**
 
-![Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Ba](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
-**Dengan berlangganan gratis, kamu bakal dapet:**
+**Dengan berlangganan gratis, kamu akan dapat:**
 
-✅ Berita terbaru soal Bali, biar kamu selalu update info liburan  
+✅ Berita terbaru seputar Bali, biar kamu selalu update info traveling
 
-✅ Panduan mendalam, bikin itinerary kamu hemat dan bebas khawatir  
+✅ Panduan lengkap biar itinerary kamu hemat dan bebas drama
 
-✅ Rekomendasi tempat rahasia dan peta kuliner lokal eksklusif  
+✅ Rekomendasi hidden gem dan peta kuliner lokal eksklusif
 
-✅ Konten yang nggak ada di grup Facebook  
+✅ Konten yang nggak bakal kamu temuin di grup Facebook
 
-✅ Kumpulan saran itinerary paling lengkap dari sesama traveler, bikin setiap trip jadi mulus tanpa hambatan
+✅ Kumpulin saran itinerary paling banyak dari teman-teman, biar tiap trip mulus tanpa hambatan
 
-Cukup pakai akun Google atau Facebook, registrasinya gampang banget!
+Cukup pakai akun Google atau Facebook, registrasi jadi gampang banget!

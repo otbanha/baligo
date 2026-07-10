@@ -6,6 +6,7 @@ description: >-
   Club：结合半奥运泳池、室内滑板场、健身房与儿童游戏室的全方位生活空间。本篇分享如何安排一日行程，让家长享受 SPA
   与桑拿的同时，孩子也能在安全环境下尽情玩乐，是乌布最完美的亲子避暑方案
 pubDate: 2025-09-05T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 家庭親子
   - 美食景點活動
@@ -23,10 +24,8 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e0fee6b09834203d2ea933ea0d4c7de1.jpg'
 originalUrl: 'https://vocus.cc/article/68bacc2ffd897800011175a7'
 lang: zh-cn
-_srcHash: 5232f351cdd9486c9186a624a507e6e8
+_srcHash: 8a2102effcad4627df3b5c3729641b08
 ---
-Update: 2026/07/03
-
 **先讲结论**：乌布最适合亲子的一日会馆是 **Titi Batu Ubud Club**——大人可以健身、按摩、泡三温暖，小孩则有半奥运泳池、儿童游戏室与滑板场可以玩，一个场地同时满足全家不同需求，解决一般海滩/丛林俱乐部没有儿童友善设施的痛点。
 
 在巴厘岛，大部分的海滩俱乐部或丛林俱乐部虽然气氛热闹，但往往缺乏 **儿童友善的设施**，因此对于有小朋友的家庭来说并不那么方便。

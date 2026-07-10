@@ -4,6 +4,7 @@ slug: bali-grab-gojek-scam-tips
 description: >-
   在巴厘岛旅行时，使用Grab或Gojek等网约车是许多游客会选择的一种短程交通工具。这种网约车通过app叫车，有着明码实价的优点。然而，游客有时也会遇到一些不良司机，使旅程变得不愉快。以下是两个真实的故事，分享一些常见的网约车套路，希望大家能在旅行中多加注意，避免类似的麻烦...
 pubDate: 2024-05-27T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: null
 category:
   - 叫車包車
@@ -16,10 +17,8 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5cd7003890a5ac7de17a99eb2f269662.png'
 originalUrl: 'https://vocus.cc/article/66546581fd8978000119d572'
 lang: zh-cn
-_srcHash: 5e541c8d3985565ea7a7772c4e941d44
+_srcHash: 40d97853a95e0df579eb70d4af104368
 ---
-Update: 2026/07/03
-
 [🚗 想预估 Gojek 车资？请点击这里](/zh-cn/map/gojek-fare/)
 
 **先说结论**：巴厘岛 Grab/Gojek 最常见的两种套路是——① **机场加价**：司机接单后私下打电话要求 3-4 倍现金价（系统报价 Rp 100,000 却开口 Rp 400,000），遇到就直接取消重叫；② **脱离平台推销**：车上热情推荐包车、借口没零钱找要你「回程再搭」，回程却漫天要价。防范原则：**一切以 APP 系统价为准、全程在平台内交易、赶飞机提早叫车并预留重叫时间**。

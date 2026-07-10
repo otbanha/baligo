@@ -4,6 +4,7 @@ slug: sanur-4-day-food-leisure-trip
 description: >-
   Sanur沙努尔是一个适合家庭和休闲旅客的理想旅游地点。这里距离码头很近，区域内多为欧美游客，环境友善且安全。Sanur沙努尔拥有完善的自行车步道和知名的Icon百货，提供悠闲的购物和用餐体验...
 pubDate: 2024-08-07T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: null
 category:
   - 遊記分享
@@ -17,14 +18,15 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_c6eb2dfe1498f030d922e970c30be
 originalUrl: 'https://vocus.cc/article/669262c9fd89780001902a76'
 update: 2026/05/22
 lang: zh-cn
-_srcHash: 2ae7ff447ad56b9f4b3b4f79a5343342
+_srcHash: 881d16b81d07c8ced31aeeafe9743afc
 ---
-
 > 以下内容由团友 [Alice Li](https://www.facebook.com/share/p/uSHXdUNFCKBocSnU/) 提供给我们重新编排：
 
-![【巴厘岛自由行】在Sanur沙努尔的四天三夜：悠闲与美食的完美结合](https://images.gobaligo.id/vocus/vocus_cc64e1db7f67fa3d6f4952004739d88c.jpg)
+![【峇里島自由行】在Sanur沙努爾的四天三夜：悠閒與美食的完美結合](https://images.gobaligo.id/vocus/vocus_cc64e1db7f67fa3d6f4952004739d88c.jpg)
 
-这次巴厘岛行程我们特别规划了出海活动，因此选择住在Sanur沙努尔区，这里离码头非常近，让我们早上可以不用太早起床赶路。游玩回来后，疲惫的我们也可以迅速回到住宿地点休息，真的非常方便。我们在这里住了三个晚上，选择了Holiday Inn酒店，每晚的房价大约是USD$87，适合两大一小入住，房间里有两张床，舒适又宽敞。
+**先说结论**：沙努尔四天三夜适合安排出海跳岛行程，因**距码头近**可省去早起赶路时间；推荐入住 **Holiday Inn**（每晚约台币 2,700 元，两床房型适合两大一小），玩水回来也能快速返回休息，兼顾行程效率与住宿舒适度。
+
+这次巴厘岛行程我们特别规划了出海活动，因此选择住在Sanur沙努尔区，这里离码头非常近，让我们早上可以不用太早起床赶路。游玩回来后，疲惫的我们也可以迅速回到住宿地点休息，真的非常方便。我们在这里住了三个晚上，选择了Holiday Inn酒店，每晚的房价大约是87美元，适合两大一小入住，房间里有两张床，舒适又宽敞。
 
 ![【巴厘岛自由行】在Sanur沙努尔的四天三夜：悠闲与美食的完美结合](https://images.gobaligo.id/images/2026-06/1780819398520-320740606.jpg)
 ![【巴厘岛自由行】在Sanur沙努尔的四天三夜：悠闲与美食的完美结合](https://images.gobaligo.id/images/2026-06/1780819398912-320740862.jpg)
@@ -45,7 +47,7 @@ _srcHash: 2ae7ff447ad56b9f4b3b4f79a5343342
 
 Alice Li 提供
 
-Sanur沙努尔这一区，亚洲人相对较少，几乎都是欧美游客。这里非常适合家庭和带着小孩的旅行者，因为环境友善且安全。这里有设置自行车步道，我们也租了自行车，骑到了现在非常知名的Icon Bali，享受了一段悠闲的时光。Icon Bali内有许多精品店、餐厅和咖啡馆，是一个可以让你放松并享受购物乐趣的好地方。
+沙努尔这一区，亚洲人相对较少，几乎都是欧美游客。这里非常适合家庭和带小孩的旅行者，因为环境友善且安全。这里有设置自行车步道，我们也租了自行车，骑到了现在非常知名的Icon Bali，享受了一段悠闲的时光。Icon Bali内有许多精品店、餐厅和咖啡馆，是一个可以让你放松并享受购物乐趣的好地方。
 
 Icon Bali 小杰的介绍
 

@@ -3,6 +3,7 @@ slug: indonesia-esim-policy
 title: 印尼移动通信新政策：eSIM与SIM卡限额即将实施！
 description: 印尼即将推行eSIM并限制SIM卡数量，外籍人士须注意IMEI注册新规，避免手机被封锁。
 pubDate: '2025-02-26'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ef55af270954401f4d46a30c4310ef5c.jpg'
 tags:
   - ESIM
@@ -14,16 +15,14 @@ originalUrl: 'https://vocus.cc/article/67bea49ffd897800012dbdce'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 35e7d938058a239fc5e5a3b6467bff24
+_srcHash: 37321ba9912fd9c2aeb885e1c25b1208
 ---
-Update: 2026/07/03
-
 **重点整理**：
 
-- 印尼将推eSIM标准化并**限制每人可注册的SIM卡数量**，同时封锁「换SIM卡重置IMEI」的漏洞
-- **短期游客不受影响**：手机在印尼网络使用90天内免IMEI注册，一般度假完全无感
-- 最省事做法：出发前先在Klook等平台买好**旅游eSIM**，落地即可上网
-- **长住者注意**：手机用超过90天必须在入境时申报或补办IMEI注册，否则会被封锁
+- 印尼将推 eSIM 标准化并**限制每人可注册的 SIM 卡数量**，同时封锁「换 SIM 卡重置 IMEI」的漏洞
+- **短期游客不受影响**：手机在印尼网络使用 90 天内免 IMEI 注册，一般度假完全无感
+- 最省事做法：出发前先在 Klook 等平台买好**旅游 eSIM**，落地即可上网
+- **长住者注意**：手机用超过 90 天必须在入境时申报或补办 IMEI 注册，否则会被封锁
 
 随着移动科技的快速发展，印尼政府正准备推出一系列新的移动通信法规，这将对在巴厘岛的外籍人士产生重大影响。
 
@@ -35,7 +34,7 @@ Update: 2026/07/03
 
 印尼通信与数字技术部正推动电信业者加速由实体SIM卡向eSIM转换，这项新法案预计将于近期通过。
 
-目前，Telkomsel和Indosat等主要电信商已提供eSIM服务，但由于缺乏统一的规范，消费者在使用上仍面临诸多困难。
+目前，Telkomsel 和 Indosat 等主要电信商已提供eSIM服务，但由于缺乏统一的规范，消费者在使用上仍面临诸多困难。
 
 新法案将引入一套标准化的eSIM启用与使用流程，并强化个人资料保护，降低诈骗风险。
 

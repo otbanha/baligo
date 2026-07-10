@@ -1,15 +1,18 @@
 ---
 slug: bali-entry-requirements
 title: >-
-  Essential Documents for Entering Indonesia/Bali: Visa, Customs Declaration,
-  Tourism Tax, and Health Declaration Explained
+  Indonesia/Bali Travel Entry Essentials: Visa, Customs Declaration, Tourist
+  Tax, and Health Statement at a Glance
 description: >-
-  Planning a vacation to Bali or about to embark on a journey to Indonesia?
-  Don't forget that besides booking your flights and accommodations, there are
-  several important entry documents you need to prepare in advance. Failing to
-  complete these documents beforehand could not only delay your boarding but
-  also cause difficulties upon arrival.
+  Planning a vacation to Bali or about to embark on a trip to Indonesia? Don't
+  forget that besides booking flights and accommodation, there are several
+  important entry documents you need to prepare in advance. Failing to complete
+  these documents beforehand could not only delay your boarding but also cause
+  difficulties upon arrival. To help you clear customs smoothly, here's a
+  rundown of the four latest entry documents, including application timing,
+  validity periods, and key notes—all in one place for easy preparation!
 pubDate: '2025-07-05'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a370aa7d9c736557df44eb2543b566db.png'
 tags:
   - 入境印尼
@@ -21,107 +24,109 @@ originalUrl: 'https://vocus.cc/article/686902bafd89780001e3f490'
 category:
   - 簽證通關
 lang: en
-_srcHash: bfc3f6616d649a5ab3863ae2a9939c43
+_srcHash: dc4ae014c2efb1dcb2498f2cf4d2091e
 ---
-To ensure a smooth entry process, here’s a breakdown of the latest four essential entry documents, including application timelines, validity periods, and key considerations. Understand them all at once and prepare with ease!
+**Bottom line**: To enter Bali, Indonesia, you need to prepare **4 documents**, each with different application timelines: ① **e-Visa on Arrival (eVoA)** (apply before departure, must complete entry and exit within 90 days of issuance) ② **Electronic Customs Declaration (eCD)** (can only be filled out within 3 days before departure) ③ **Health Statement (SSHP)** (fill out within 3 days before entry) ④ **Tourist Tax payment receipt**. Mixing up the timing is the easiest way to mess up—especially the eCD, which the system will block if filled too early, and if left too late, you'll be scrambling at the last minute. It's best to handle everything 2-3 days before departure.
 
-![Essential Documents for Entering Indonesia/Bali: Visa, Custo](https://images.gobaligo.id/vocus/vocus_2775fee2fe386d7041bb19dfab0cd31a.png)
+Planning a vacation to Bali, or about to embark on a trip to Indonesia? Don't forget that besides booking flights and accommodation, there are several **important entry documents** you need to prepare in advance. Failing to complete these documents beforehand could not only delay your boarding but also cause difficulties upon arrival.
 
-Planning a vacation to Bali or about to embark on a journey to Indonesia? Don't forget that besides booking your flights and accommodations, there are several **important entry documents** you need to prepare in advance. Failing to complete these documents beforehand could not only delay your boarding but also cause difficulties upon arrival.
+![印尼/峇里島旅遊入境必備！簽證、報關、觀光稅與健康聲明一次看懂](https://images.gobaligo.id/vocus/vocus_2775fee2fe386d7041bb19dfab0cd31a.png)
 
----
-
-To ensure a smooth entry process, here’s a breakdown of the latest four essential entry documents, including application timelines, validity periods, and key considerations. Understand them all at once and prepare with ease!
-
-## Electronic Visa on Arrival (eVoA): Apply Before Departure, Valid for 90 Days
-
-The Indonesian Electronic Visa on Arrival (eVoA) is one of the essential documents for most travelers visiting Indonesia, especially for foreigners entering for tourism purposes.
-
-The eVoA must be applied for in advance on the [official Indonesian website](https://evisa.imigrasi.go.id/), and it is usually issued immediately. The visa is **valid for 90 days** from the issue date, but it’s crucial to note: **you must complete both entry and exit procedures within these 90 days**, as overstaying is not permitted.
-
-It’s recommended to apply within one week before departure to ensure processing time and avoid applying too early, which might result in missing the usage period.
+To help you clear customs smoothly, here's a rundown of the four latest entry documents, including application timing, validity periods, and key notes—all in one place for easy preparation!
 
 ---
 
-**Quick Reference:** [2025 Updated FAQ on Indonesia/Bali Entry Visa & eVoA Application](/en/blog/indonesia-bali-visa-evoa-faq/)
+## Electronic Visa on Arrival (eVoA): Apply Before Departure, Valid for 90 Days from Issuance
 
-The eCD (Electronic Customs Declaration) is the [official online customs declaration form for Indonesia](https://ecd.beacukai.go.id/). All travelers, regardless of whether they have items to declare, are required to complete it. This declaration form includes questions about whether you are carrying foreign currency, plants, animals, alcohol, cigarettes, or other items that need to be declared.
+The Indonesian Electronic Visa on Arrival (eVoA) is one of the essential documents for most travelers heading to Indonesia, especially for foreign nationals entering for tourism purposes.
 
-The time restriction for filling out the form is very clear: it can only be completed **within three days before departure**. If filled out earlier, the system will not allow you to select the date. After completion, you will receive a QR Code, which must be presented to customs officers for scanning upon arrival.
+The eVoA must be applied for in advance on the [official Indonesian website](https://evisa.imigrasi.go.id/) and is typically issued immediately. The visa is valid for **90 days from the date of issuance**, but note: **you must complete both entry and exit procedures within those 90 days**—overstaying is not allowed.
 
-It is recommended to fill out the form 2 to 3 days before your flight to avoid any issues that might delay your entry process.
+It's recommended to apply within a week before departure to ensure processing time while avoiding applying too early and missing the validity window.
 
-**Quick Reference:** [How to Fill Out Bali's Electronic Customs Declaration Form (eCD) in 2025? Complete Guide to Easy Entry](/en/blog/bali-e-customs-declaration/)
+**Quick reference**: [2025 Latest Indonesia/Bali Entry Visa & eVoA FAQ](/en/blog/indonesia-bali-visa-evoa-faq/)
 
 ---
 
-## Health Declaration (SSHP): Fill Out Truthfully Within 3 Days Before Arrival
+## e-Customs Declaration (eCD): Complete Within 3 Days Before Departure
 
-The [SSHP (Surat Sektor Health Protocol)](https://sshp.kemkes.go.id/) is a health declaration established by Indonesia for public health purposes. It includes questions about whether you have experienced symptoms (such as cough or fever) in the past 21 days, whether you have been in contact with confirmed cases, and your general health status.
+The eCD (Electronic Customs Declaration) is [Indonesia's official online customs form](https://ecd.beacukai.go.id/), required for all travelers regardless of whether they have items to declare. The form covers foreign currency, plants and animals, alcohol, cigarettes, and other dutiable goods.
 
-This declaration must be completed **within 3 days before arrival**, and information must be provided truthfully. While most airports no longer enforce temperature checks or health certificates, this form may be rechecked in case of pandemic changes or special circumstances.
+There's a strict rule: you can only fill it out **within 3 days before your departure**. If you try earlier, the system won't let you select the date. Once completed, you'll receive a QR code to show customs officers upon arrival.
 
-It is recommended to save the completed SSHP as a PDF or take a screenshot for future reference.
+It's best to fill it out 2 to 3 days before your flight to avoid forgetting or running into issues that could delay your entry.
 
-**Quick Reference:** [New Entry Rules for Indonesia/Bali: Mandatory Health Declaration Form (SSHP) Before Flight](/en/blog/2024-08-30-66d109f9fd89780001f47806/)
+**Quick reference:** [【2025 Update】How to Fill Out the Bali e-Customs Declaration Form? Complete eCD Guide for Easy Entry](/en/blog/bali-e-customs-declaration/)
+
+---
+
+## Health Declaration (SSHP): Fill Out Honestly Within 3 Days Before Arrival
+
+The [SSHP (Surat Sektor Health Protocol)](https://sshp.kemkes.go.id/) is Indonesia's health declaration form for public health purposes. It asks about symptoms (like cough or fever) in the past 21 days, contact with confirmed cases, and your current health status.
+
+This form must be completed **within 3 days before arrival**, with truthful information. While most airports no longer strictly check temperature or health certificates, the form may be reviewed again during outbreaks or special situations.
+
+Save your completed SSHP as a PDF or screenshot for safekeeping, just in case.
+
+**Quick reference:** [New Indonesia/Bali Entry Rules: Mandatory SSHP Health Declaration Before Flying / Filling Guide](/en/blog/2024-08-30-66d109f9fd89780001f47806/)
 
 ---
 
 ## Tourist Levy: Pay Before Arrival, Valid for Single Entry
 
-Starting from 2024, all international travelers visiting Bali (limited to Bali only) will be required to pay a Tourist Levy. This fee is [a management charge imposed by the Indonesian government to enhance the local tourism environment](https://lovebali.baliprov.go.id/).
+Starting in 2024, all international travelers heading to Bali (Bali only) must pay the Tourist Levy. This fee is [a management charge imposed by the Indonesian government to improve the local tourism environment](https://lovebali.baliprov.go.id/).
 
-The fee is **150,000 Indonesian Rupiah (approximately USD$10)**, and upon payment, you will receive a QR Code that must be scanned upon entry. **This fee must be paid anew for each entry and is valid for single use only.**
+The fee is **150,000 IDR (approximately USD$10)**, and after payment, you'll receive a QR code that must be scanned upon arrival. **This levy is valid for a single entry only, and must be paid again for each visit.**
 
-It is recommended to complete this process one week before departure to avoid last-minute hassles at the airport that could disrupt your travel plans.
+It's recommended to complete this process a week before departure to avoid last-minute hassles at the airport.
 
-**Quick Reference:** [Bali Tourist Levy/Tourism Tax Guide: New 2024 Regulations, Payment Methods, and Island-Hopping Considerations](/en/blog/2026-bali-tourism-tax-guide/)
+**Quick Reference:** [Bali Tourist Levy / Tourism Tax Guide: 2024 New Rules, Payment Methods, and Island-Hopping Tips at a Glance](/en/blog/2026-bali-tourism-tax-guide/)
 
 ---
 
-## Timeline Overview for the Four Major Documents
+## Overview of Four Document Processing Timelines
 
 ![健康聲明SSHP已改為只能在抵達前3天申請/填寫](https://images.gobaligo.id/vocus/vocus_b7b209cc4f0886632f1d785544aa1bc4.png)
 
-The Health Declaration SSHP can now only be applied for/filled out within 3 days before arrival.
+The SSHP health declaration can now only be applied for or filled out within 3 days before arrival.
 
 ---
 
-## Frequently Asked Questions FAQ
+## Frequently Asked Questions (FAQ)
 
-**Q1: Can I apply for eVoA upon arrival if I haven’t done so in advance?**
+**Q1: Can I apply for eVoA upon arrival if I haven't done it online?**
 
-A: It is advisable to apply for the online visa in advance. While it is possible to obtain a visa on arrival at the airport, the process is slower, involves longer queues, and there is no guarantee of successful issuance.
+A: It's recommended to apply for the visa online in advance. You can get a visa on arrival at the airport, but the process is slower, queues are long, and approval is not guaranteed.
 
-**Q2: Does the eCD Customs Declaration Form need to be printed?**
+**Q2: Do I need to print the eCD customs declaration form?**
 
-A: No need to print. After completing the form, you'll receive a QR code - simply show it on your phone for scanning.
+A: No, you don't need to print it. After completing the form, you'll receive a QR code—just show it on your phone for scanning.
 
-**Q3: Does the SSHP health declaration check body temperature or vaccine proof?**
+**Q3: Does the SSHP health declaration check body temperature or vaccination proof?**
 
-A: Currently, temperature checks and vaccine proofs are not mandatory in most cases. However, you need to fill in health information on the form, so it's recommended to provide truthful information and keep the receipt.
+A: Currently, in most cases, temperature checks and vaccination proof are not mandatory. However, you still need to fill in health information on the form. It's recommended to answer truthfully and keep the confirmation.
 
-**Q4: Can I pay the tourism tax on-site?**
+**Q4: Can I pay the tourist tax on-site?**
 
-A: Bali International Airport has payment counters, but online payment is faster and more convenient, helping you avoid queues and waiting times.
+A: Yes, there are payment counters at Bali's international airport, but paying online is faster and more convenient, helping you avoid queues and waiting times.
 
-**Q5: Do I need to pay the tourism tax every time I enter Bali?**
+**Q5: Do I have to pay the tourist tax every time I enter Bali?**
 
-A: Yes. The tourism tax is a fee required for each entry and cannot be used multiple times.
+A: Yes. The tourist tax is charged per entry and is not valid for multiple uses.
 
 ---
 
-## Reminders
+## Tips
 
-Before traveling to Indonesia or Bali, it's recommended to prepare the following documents and confirm their completion:
+Before departing for Indonesia or Bali, it's recommended to prepare the following documents and confirm they are ready:
 
-- Approved eVoA electronic visa document
-- QR Code for the eCD electronic customs declaration
-- Screenshot or PDF of completed SSHP health declaration
-- Proof of tourism tax payment and QR Code (only required when entering Bali)
+- eVoA (electronic visa on arrival) approval document
+- eCD customs declaration QR code
+- SSHP health declaration screenshot or PDF
+- Tourist tax payment proof and QR code (required only when entering Bali)
 - Return flight ticket
 - Travel insurance (depending on airline or entry requirements)
 
-With all documents ready, you'll breeze through immigration and can fully enjoy your tropical island getaway!
+As long as your documents are in order, entry is quick and easy, letting you relax and enjoy your tropical island getaway!
 
 ---

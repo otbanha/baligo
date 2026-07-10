@@ -3,20 +3,22 @@ slug: kerthi-bali-semesta-park
 title: 印尼版迪士尼在巴厘岛诞生！主题乐园与高速公路将彻底改变西巴厘旅游格局
 description: >-
   巴厘岛西部即将诞生全新主题乐园——Kerthi Bali Semesta Park。由派拉蒙影业打造，融合好莱坞与巴厘文化，并结合
-  Gilimanuk-Mengwi 高速公路建设，预计 2026 年开幕，成为印尼永续观光新地标。
+  Gilimanuk-Mengwi 高速公路建设，预计 2026 年开幕，成为印尼可持续观光新地标。
 pubDate: 2025-11-02T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 美食景點活動
 tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_213915c8980abeaf3106c8b0c9114d11.jpg'
 originalUrl: 'https://vocus.cc/article/68f9ad45fd897800017798ec'
 lang: zh-cn
-_srcHash: 672f2a7cd428919ff4644160aa858ad3
+_srcHash: d337fe22811791c92cad4ae0773e5813
 ---
-
 ## **派拉蒙影业进军巴厘岛｜Kerthi Bali Semesta Park 预计 2026 年开幕**
 
-![派拉蒙影业进军巴厘岛｜Kerthi Bali Semesta Park 预计 2026 年开幕](https://images.gobaligo.id/vocus/vocus_6e1514a7e3f77a9ddd98d7ba1560bd96.jpg)
+![派拉蒙影業進軍峇里島｜Kerthi Bali Semesta Park 預計 2026 年開幕](https://images.gobaligo.id/vocus/vocus_6e1514a7e3f77a9ddd98d7ba1560bd96.jpg)
+
+**先说结论**：Kerthi Bali Semesta Park 位于西巴厘 Jembrana 区，由派拉蒙影业与印尼 PT Kios Ria Kreas 合作打造，预计 **2026 年开幕**，分为**国际影视娱乐区**（海绵宝宝、朵拉、忍者龟等）与**巴厘神话文化区**（巴龙与兰达传说），搭配 Gilimanuk-Mengwi 高速公路建设，是西巴厘旅游发展的重大新地标，建议计划前往前先查询最新开幕进度。
 
 巴厘岛正迈入全新旅游时代。位于西巴厘 **Jembrana 政府区** 的 **Kerthi Bali Semesta Park（KBS Park）** 项目已进入主体建设阶段，预计将于 **2026 年正式开幕**。这座主题乐园由 **Paramount Pictures（派拉蒙影业）** 与 **印尼公司 PT Kios Ria Kreas（KIOS）** 携手打造，旨在结合国际娱乐品牌与巴厘岛本土文化，成为印尼首座结合影视与文化的综合乐园。
 
@@ -24,7 +26,7 @@ _srcHash: 672f2a7cd428919ff4644160aa858ad3
 
 ## **乐园主题：好莱坞娱乐 × 巴厘岛传说的完美融合**
 
-![乐园主题：好莱坞娱乐 × 巴厘岛传说的完美融合](https://images.gobaligo.id/vocus/vocus_2bdc5bdefc0003786f5f2c91e844831b.jpg)
+![樂園主題：好萊塢娛樂 × 峇里島傳說的完美融合](https://images.gobaligo.id/vocus/vocus_2bdc5bdefc0003786f5f2c91e844831b.jpg)
 
 Kerthi Bali Semesta Park 的设计分为两大主题区：
 
@@ -35,14 +37,14 @@ Kerthi Bali Semesta Park 的设计分为两大主题区：
 
 ***
 
-## **永续与生态设计：打造绿色旅游地标**
+## **可持续与生态设计：打造绿色旅游地标**
 
-Kerthi Bali Semesta Park 将成为巴厘岛首座以「**永续发展**」为核心理念打造的主题乐园。整体园区采用：
+Kerthi Bali Semesta Park 将成为巴厘岛首座以「**可持续发展**」为核心理念打造的主题乐园。整体园区采用：
 
 - **太阳能发电系统**
 - **雨水回收与再利用技术**
 - **电动交通车辆**
-- **生态绿地保护区**
+- **生态绿地地区保育区**
 
 园区内部分区域将划为「**绿色保护区（Green Zones）**」，保留稀有动植物生态，打造娱乐与自然共存的环境。
 
@@ -52,9 +54,9 @@ Jembrana 县长 **Kembang Hartawan** 表示：「Kerthi Bali Semesta Park 是结
 
 ## **Gilimanuk-Mengwi 高速公路：连接未来的旅游命脉**
 
-![Gilimanuk-Mengwi 高速公路：连接未来的旅游命脉](https://images.gobaligo.id/vocus/vocus_d34afd400c1c24665aedfd62011a78c5.jpg)
+![Gilimanuk-Mengwi 高速公路：連接未來的旅遊命脈](https://images.gobaligo.id/vocus/vocus_d34afd400c1c24665aedfd62011a78c5.jpg)
 
-为了支撑庞大的观光需求与基础设施建设，印尼政府同步推进 **Gilimanuk-Mengwi 高速公路（Jagat Kerthi Bali 计划的一部分）**，目前已完成 **超过 20% 的前期工程**。
+为了支撑庞大的观光需求与基础建设，印尼政府同步推进 **Gilimanuk-Mengwi 高速公路（Jagat Kerthi Bali 计划的一部分）**，目前已完成 **超过 20% 的前期工程**。
 
 这条 **96.8 公里长** 的高速公路将连接 **Gilimanuk 港口** 与 **Mengwi 地区**，有效衔接西巴厘与南巴厘主要旅游带。完工后，登巴萨至 Jembrana 的车程将从 4-5 小时缩短至 **约 2 小时**，让游客更方便地前往乐园与周边地区。
 
@@ -70,23 +72,23 @@ Jembrana 县长 **Kembang Hartawan** 表示：「Kerthi Bali Semesta Park 是结
 
 ## **经济与社会效益：改变 Jembrana 的未来**
 
-印尼旅游部预计，Kerthi Bali Semesta Park 开幕后，**Jembrana 每年可吸引多达 500 万名游客**，创造 **超过 25,000 个就业机会**，涵盖旅游、服务、交通、环境管理与文化教育等多个领域。
+印尼观光部预估，Kerthi Bali Semesta Park 开幕后，**Jembrana 每年可吸引多达 500 万名游客**，创造 **超过 25,000 个工作机会**，涵盖旅游、服务、交通、环境管理与文化教育等多个领域。
 
 同时，配合乐园的开发，Jembrana 还将新增：
 
-- **两座五星级酒店与度假村**
+- **两座五星级饭店与度假村**
 - **高尔夫球场与运动学院**
 - **Gilimanuk 海滨长廊与新码头**
 
-这不仅将带动当地旅游经济，也将推动居民生活质量与基础设施全面升级。
+这不仅将带动当地观光经济，也将推动居民生活品质与基础设施全面升级。
 
 ***
 
-## **Jembrana 的新角色：巴厘岛可持续旅游的示范区**
+## **Jembrana 的新角色：巴厘岛永续观光的示范区**
 
 Jembrana 长期以来被视为巴厘岛发展最慢的地区之一，但随着 **Kerthi Bali Semesta Park** 和 **Gilimanuk-Mengwi 高速公路** 的双轨推进，该地区将转型为 **文化、科技与生态共荣的旅游枢纽**。
 
-Kembang Hartawan 强调：“我们希望这项计划不只是建设，更是一场精神革新。让 Jembrana 成为传统与现代共存、文化与自然并进的典范。”
+Kembang Hartawan 强调：「我们希望这项计划不只是建设，更是一场精神革新。让 Jembrana 成为传统与现代共存、文化与自然并进的典范。」
 
 ***
 

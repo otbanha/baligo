@@ -5,6 +5,7 @@ description: >-
   以下内容改编自团友廖苡妏分享游记： 
   飞机轮胎在努拉莱伊机场跑道轻触地面的那一刻，为期六日的巴厘岛冒险正式揭开序幕。这不仅是一趟逃离日常的旅行，更是一场精心编排、充满人情温度的感官盛宴。从雨林中心的灵性乌布，到壮丽断崖的乌鲁瓦图，最后徜徉于蓝梦岛的透明海水，我们用六天时间，采集了巴厘岛的多重面貌。本
 pubDate: 2026-01-15T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 遊記分享
 tags: []
@@ -12,16 +13,17 @@ update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_08443e3681ae1c13cb3f955183588745.jpg'
 originalUrl: 'https://vocus.cc/article/6948d8cafd89780001031e78'
 lang: zh-cn
-_srcHash: 273ae3d88edbc2f8366f05678bd89001
+_srcHash: cdc2ae6497f378dde7e7caa90b45f337
 ---
-
 > 以下内容改编自团友[廖苡妏](https://www.facebook.com/share/p/1CjoK9BEFX/)分享游记：
+
+**先讲结论**：六日巴厘岛行程建议走「乌布（3天）→ 乌鲁瓦图 → 蓝梦岛」路线，机场到乌布车程约 **90 分钟**（社团推荐包车约台币 800 元，约 USD$26），乌布可入住 **Kubu Tropis**（步行 15-20 分钟到乌布皇宫）；换汇务必避开**汇率标示异常漂亮的路边换汇所**，改找当地人也常光顾的朴实小店，关键是提前预订口碑好的在地导游（例如热门导游需提前确认档期），能大幅提升行程弹性与安心感。
 
 飞机轮胎在努拉莱伊机场跑道轻触地面的那一刻，为期六日的巴厘岛冒险正式揭开序幕。这不仅是一趟逃离日常的旅行，更是一场精心编排、充满人情温度的感官盛宴。从雨林中心的灵性乌布，到壮丽断崖的乌鲁瓦图，最后徜徉于蓝梦岛的透明海水，我们用六天时间，采集了巴厘岛的多重面貌。本篇游记将详细记录行程点滴，并分享让旅程流畅顺心的关键——一位值得托付的在地向导。
 
 ## 初抵乌布：一场从机场开始的信任课
 
-十二月十二日下午一点半，热带的阳光热情地拥抱了刚下机的我们。走出海关，一眼便看见旅馆派来的接机司机，高举着写有我们姓名的牌子。行前已请旅馆转达需要换汇，司机了然于心。车子驶离机场，他一开口不是寒暄，而是一句宝贵的在地忠告：「等等路上会看到很多换汇所，记住，汇率标得特别好的，千万别进去。」他眼神诚恳，用简单的英文解释其中风险。这份初次见面的善意，瞬间消弭了陌生国度的不安。我们在他的推荐下，于一间当地人也会光顾的朴实小店顺利换汇。前往乌布的九十分钟车程，在闲谈与初次欣赏沿途风光中飞快度过，预先谈妥的二十六美元车资，没有任何争议，为旅程奠定了安心的基调。
+十二月十二日下午一点半，热带的阳光热情地拥抱了刚下机的我们。走出海关，一眼便看见旅馆派来的接机司机，高举着写有我们姓名的牌子。行前已请旅馆转达需要换汇，司机了然于心。车子驶离机场，他一开口不是寒暄，而是一句宝贵的在地忠告：「等等路上会看到很多换汇所，记住，汇率标得特别好的，千万别进去。」他眼神诚恳，用简单的英文解释其中风险。这份初次见面的善意，瞬间消弭了陌生国度的不安。我们在他的推荐下，于一间当地人也常光顾的朴实小店顺利换汇。前往乌布的九十分钟车程，在闲谈与初次欣赏沿途风光中飞快度过，预先谈妥的八百元台币车资（约 USD$26），没有任何争议，为旅程奠定了安心的基调。
 
 我们下榻于**Kubu Tropis 旅馆**。一踏入，服务人员那抹发自内心的微笑与冰凉毛巾，立刻洗净了飞行的疲惫。旅馆规模不大，却处处体现用心：我们曾碰巧目睹员工仔细刷洗泳池，难怪池水总是剔透见底。房间弥漫着令人放松的精油香氛，开放式衣柜与阳台专设的晒衣架，对旅人来说实用至极。唯一美中不足的是固定式花洒，让自备的过滤莲蓬头无用武之地。旅馆地理位置优越，步行十五至二十分钟即可抵达乌布皇宫，周边餐厅、小店林立，夜晚散步觅食格外方便。这间旅馆，成了我们前三日探索乌布区的舒适基地。
 
@@ -29,25 +31,25 @@ https://youtube.com/shorts/4qrez0ZwYb4
 
 > ▶[**Kubu Tropis 订房链接**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11879817) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=8059373&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6zsTFJMEkdYGJY_vhMwdZhZgNDYwMHjBabJV33CHX-jrwRaqD58MqkXXuktkOATwRUw48n8aeqJ62V-JUqIVDFyMrWGAG49vPr5lXMDJuZFxSYMt1_bCLww5GpgOMTCcYP7IvYOp9e0L6FAszx0HGSyy7GKOrlbJTK5WsTHSUSjJLclKVrJSeLpr3tGHP8xWtSjpKKanFyUAhICsxN780rwTINrQ01jMwAIqUJFZ4poB1JifmJJfmJJakhlQWAE0w0lHKLHYuKcosCErNzSwpSQWqSkvMKU4FiQelFgNlksGCIHOLoPzM_DyIbgMUsbDEnNJUiEqgfW6pUCsMa2MfsTBFx35iYfjFwtDEytDFysRROImVmeMj-y5WXj93Y2fvUF3DEN0oXcMLrI84pBQMDQwMjExNjcx1DRItLVKNDSx1TSxNjA0sdA1NzSwMjDUaP_2Z_tTYyFoKEooKjFqC8SGeni6GJYWpZoWlljlFBaYGjKcYpQzNjS0MjQwNjYyMgEFhYpFmVmyRV2yRmxXhwRjE5uhs7mroEmXDxRwa7CJYCAz_xQbSDlLMIeEuiitvMq89MOG0vRazp0uQ4b3_LLnaypb2gRZfxPjfWy6wj4TJJ7FWZeiGhGf0ihcwNjAydTFyCzB6MEYwVgB5jKsY2bmYDYwMBZg2MDLuYPwPA4yvGEGWAACEZZsqRAIAAA&masterhotelid_tracelogid=100025527-0a98e309-494308-156803&detailFilters=17|1~17~1*31|8059373~31~8059373*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=312&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/rQq3Rq5N)
 
-## 核心三日：交给专业的深度奔驰
+## 核心三天：交给专业的深度驰骋
 
-![核心三日：交给专业的深度奔驰](https://images.gobaligo.id/vocus/vocus_00f2cd7be9f879ad828534427edb9114.jpg)
+![核心三日：交給專業的深度奔馳](https://images.gobaligo.id/vocus/vocus_00f2cd7be9f879ad828534427edb9114.jpg)
 
-接下来的三天，是此次旅行的重头戏。我将行程完全交给了在网络旅游社团中口碑载道的导游——**Ani (Si Febri)** 和包车司机（她老公）。她的热门程度，让我不得不“反其道而行”：在台湾尚未购买机票前，就先联系确认她的可服务日期，如同预订一位明星导演的档期。
+接下来的三天，是此行的重头戏。我将行程完全托付给在网络旅游社团中口碑载道的导游——**Ani (Si Febri)** 和包车司机（她老公）。她的热门程度，让我不得不「反其道而行」：在台湾尚未购买机票前，就先联系确认她的可服务日期，如同预订一位明星导演的档期。
 
-这份提前的信任，获得了超值的回报。Ani 不只是位导游，更是位专业的行程顾问。当我将理想行程表传给她，她会仔细评估，提出务实建议：“乌布市区傍晚很堵，去看夕阳的行程要再提前。”“火山日出和滑翔伞很看天气，先别急着订票，当天早上我们看情况再决定，我能帮你们现场买。”她总能预见旅客看不见的盲点，并耐心解释原因。此外，她更会化身行程魔法师，主动提议：“你们要去的那条路，会刚好经过圣泉寺，很顺路，要不要去看看？”这种灵活与贴心，让我们的行程骨架长出了惊喜的枝桠。
+这份提前的信任，获得了超值的回报。Ani 不只是位导游，更是位专业的行程顾问。当我把理想行程表传给她，她会仔细评估，提出务实建议：「乌布市区傍晚很堵，去看夕阳的行程要再提前。」「火山日出和滑翔伞很看天气，先别急着订票，当天早上我们看情况再决定，我能帮你们现场买。」她总能预见旅客看不见的盲点，并耐心解释原因。此外，她更会化身行程魔法师，主动提议：「你们要去的那条路，会刚好经过圣泉寺，很顺路，要不要去看看？」这种灵活与贴心，让我们的行程骨架长出了惊喜的枝桠。
 
 ## 精华三日行程一览：
 
-![精华三日行程一览：](https://images.gobaligo.id/vocus/vocus_a01ce62ae4692f23cef04eac4b5d0ba2.png)
+![精華三日行程一覽：](https://images.gobaligo.id/vocus/vocus_a01ce62ae4692f23cef04eac4b5d0ba2.png)
 
 ### **🏔️ 探险之魂：**
 
 - **巴杜尔火山吉普车日出：** 凌晨出发，在冷冽空气中搭乘吉普车攀上火山西侧。当金红色的朝阳跃出云海，点亮火山与湖泊的轮廓，那份震撼难以言喻。更惊喜的是，开车的司机小哥个个身怀绝技，熟稔每个最佳摄影点，主动为我们拍下无数张构图专业、气势磅礴的纪念照。
 
-![探险之魂：](https://images.gobaligo.id/vocus/vocus_16a54196130f9e528469195d8ff9aa8c.jpg)
+![探險之魂：](https://images.gobaligo.id/vocus/vocus_16a54196130f9e528469195d8ff9aa8c.jpg)
 
-![探险之魂：](https://images.gobaligo.id/vocus/vocus_ac018a86bbb625114fb5312631d10213.jpg)
+![探險之魂：](https://images.gobaligo.id/vocus/vocus_ac018a86bbb625114fb5312631d10213.jpg)
 
 > **快速参考：**[巴厘岛探险：巴杜尔火山吉普车日出之旅全记录](/zh-cn/blog/batur-volcano-jeep-sunrise-tour/)
 
@@ -59,9 +61,9 @@ https://youtube.com/shorts/lz69CKyTYLk
 
 - **Mari Beach Club：**位于水明漾的时尚海滩俱乐部，以其放松的氛围和优质的餐饮体验而闻名。
 
-![探险之魂：](https://images.gobaligo.id/vocus/vocus_91b70ce735921f4691d46f186989d56d.jpg)
+![探險之魂：](https://images.gobaligo.id/vocus/vocus_91b70ce735921f4691d46f186989d56d.jpg)
 
-![探险之魂：](https://images.gobaligo.id/vocus/vocus_89ecc49e4d384b96740899a479368307.jpg)
+![探險之魂：](https://images.gobaligo.id/vocus/vocus_89ecc49e4d384b96740899a479368307.jpg)
 
 > ▶[更多巴厘岛海滩俱乐部优惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1190861&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%25E6%25B5%25B7%25E7%2581%2598%25E4%25BF%25B1%25E6%25A8%2582%25E9%2583%25A8)
 
@@ -73,45 +75,45 @@ https://youtube.com/shorts/BORrtY6fafs
 
 - **Tanah Barak公路：** 支付少许门票，便能站上这道延伸至海中的巨墙，拍下宛如世界尽头的孤寂美景。
 
-![探险之魂：](https://images.gobaligo.id/vocus/vocus_07e90969bcfe06823a447f5f8dc9adc1.jpg)
+![探險之魂：](https://images.gobaligo.id/vocus/vocus_07e90969bcfe06823a447f5f8dc9adc1.jpg)
 
-![探险之魂：](https://images.gobaligo.id/vocus/vocus_2e1bf7f65cd7d7bb67c5abbd8dc732ad.jpg)
+![探險之魂：](https://images.gobaligo.id/vocus/vocus_2e1bf7f65cd7d7bb67c5abbd8dc732ad.jpg)
 
 > **快速参考：**[Batu Barak/Tanah Barak：蓝色公路/断崖公路的绝美之旅](/zh-cn/blog/batu-barak-cliff-road/)
 
 ### **🛕 文化与采购：**
 
 - **圣泉寺：** 感谢 Ani 的追加，我们体验了当地人在圣水中洗涤身心的虔诚氛围，寺庙建筑本身也美不胜收。
-- **Golden Rabbit 麝香猫咖啡工厂：** 了解著名的「猫屎咖啡」制作过程，并品尝、选购各种咖啡豆。
+- **Golden Rabbit 麝香猫咖啡工厂：** 了解著名的“猫屎咖啡”制作过程，并品尝、选购各种咖啡豆。
 
-![文化与采购：](https://images.gobaligo.id/vocus/vocus_1f86a9eb7d00cbc4710b2d014a9719fc.jpg)
+![文化與採購：](https://images.gobaligo.id/vocus/vocus_1f86a9eb7d00cbc4710b2d014a9719fc.jpg)
 
-![文化与采购：](https://images.gobaligo.id/vocus/vocus_4f4da0ea959d76c02a3fd75fbbfc63aa.jpg)
+![文化與採購：](https://images.gobaligo.id/vocus/vocus_4f4da0ea959d76c02a3fd75fbbfc63aa.jpg)
 
 - **Bali Banana：** 采购香脆可口的香蕉片，是送礼自用两相宜的热门伴手礼。
-- **Love Anchor 坎古**：坎古地区的室内购物商场。
+- **Love Anchor Canggu**：坎古地区的室内购物商场。
 
 ### **🍽️ 味蕾与放松：**
 
 - **Montana Del Cafe：** 在火山湖景的环抱下享用早餐，心旷神怡。
 
-> [巴厘岛金塔玛尼13大景观火山咖啡厅推荐 🌄☕](/zh-cn/blog/kintamani-volcano-cafes-restaurants/)
+> [巴厘岛金塔马尼13大景观火山咖啡厅推荐 🌄☕](/zh-cn/blog/kintamani-volcano-cafes-restaurants/)
 
 - **D'tukad Coffee Club：** 悬挂于丛林之上的无边泳池与瀑布，是网红打卡与放空的好去处。
 
 https://youtu.be/kcKfLqZUSjE
 
-![味蕾与放松：](https://images.gobaligo.id/vocus/vocus_05efa07bc26a0a68c1ddffcbc212a11a.jpg)
+![味蕾與放鬆：](https://images.gobaligo.id/vocus/vocus_05efa07bc26a0a68c1ddffcbc212a11a.jpg)
 
-![味蕾与放松：](https://images.gobaligo.id/vocus/vocus_f806383734c781299eece3a235b4e030.jpg)
+![味蕾與放鬆：](https://images.gobaligo.id/vocus/vocus_f806383734c781299eece3a235b4e030.jpg)
 
 > ▶[D'Tukad Coffee Club 优惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1190857&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F120659-d-tukad-coffee-club-in-ubud-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D92d0787eb8)
 
-- **Malini Uluwatu：** 悬崖上的餐厅，拥有欣赏乌鲁瓦图寺庙与绝美日落的一流视野。
+- **Malini Uluwatu：** 悬崖上的餐厅，拥有欣赏乌鲁瓦图寺与绝美日落的一流视野。
 
-![味蕾与放松：](https://images.gobaligo.id/vocus/vocus_1d0abcf7def6a7c790ea900abb1d022b.jpg)
+![味蕾與放鬆：](https://images.gobaligo.id/vocus/vocus_1d0abcf7def6a7c790ea900abb1d022b.jpg)
 
-![味蕾与放松：](https://images.gobaligo.id/vocus/vocus_44fae2b97686bf8a40d76d8e9d41d128.jpg)
+![味蕾與放鬆：](https://images.gobaligo.id/vocus/vocus_44fae2b97686bf8a40d76d8e9d41d128.jpg)
 
 - **Wahaha Pork Ribs：** 知名的猪肋排名店，肉质软嫩酱汁浓郁，值得现场排队等候。
 
@@ -121,7 +123,7 @@ https://youtube.com/shorts/PmW1oHHS7gA
 
 - **SVaha Spa：** 在精致的环境中享受传统按摩，舒缓每日奔波的疲劳。
 
-![味蕾与放松：](https://images.gobaligo.id/vocus/vocus_65c3535029fbc4031bee1f4e347e235f.jpg)
+![味蕾與放鬆：](https://images.gobaligo.id/vocus/vocus_65c3535029fbc4031bee1f4e347e235f.jpg)
 
 > ▶[水明漾 SVaha Spa 预约&优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1190861&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F155572-svaha-spa-in-seminyak-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3De4814e9f8b)
 
@@ -131,19 +133,19 @@ https://youtube.com/shorts/PmW1oHHS7gA
 
 ## 尾声：蓝梦岛的蓝与归途的从容
 
-旅程尾声，我们用一天时间跳访**蓝梦岛**。事先于 Klook 购买往返船票（人均约 USD$13 内），并刻意选择了不同船公司，增添些许体验变化。岛上的碧海蓝天与“恶魔眼泪”的澎湃浪花，为我们的巴厘岛画册添上最后一抹鲜艳色彩。
+旅程尾声，我们用一天时间跳访**蓝梦岛**。事先于 Klook 购买往返船票（人均约13美元内），并刻意选择了不同船公司，增添些许体验变化。岛上的碧海蓝天与“恶魔眼泪”的澎湃浪花，为我们的巴厘岛画册添上最后一抹鲜艳色彩。
 
 https://youtube.com/shorts/exdiGPLkVjw
 
-最后一日，从蓝梦岛返回**沙努尔港口**。我们记取网络上的经验分享——港口周边交通不便——再次联系 Ani，预约了前往库塔 **Beachwalk Shopping Center** 的单趟送机服务。这个决定无比正确。司机准时在码头外等候，我们还请他顺道绕去 Bali Banana 完成最后采买。约四十多分钟的车程，花费约 USD$19，换来的却是拖着行李时最珍贵的“从从容容”。
+最后一日，从蓝梦岛返回**沙努尔港口**。我们记取网络上的经验分享——港口周边交通不便——再次联系 Ani，预约了前往库塔 **Beachwalk Shopping Center** 的单趟送机服务。这个决定无比正确。司机准时在码头外等候，我们还请他顺道绕去 Bali Banana 完成最后采购。约四十多分钟的车程，花费约19美元，换来的却是拖着行李时最珍贵的“从从容容”。
 
 > [【伦邦岸岛/蓝梦岛景点攻略】探索蓝梦岛/金银岛景点、美食、交通：巴厘岛的邻近天堂](/zh-cn/blog/nusa-lembongan-ceningan-guide/)
 
 ## 结语：不只一次的美好
 
-六天光阴，倏忽而逝。回望这段旅程，巴厘岛之美，不仅在于火山、海洋、寺庙与梯田的景观盛宴，更在于过程中所遇见的“人”。旅馆员工的真诚、司机的善意、Ani 团队的专业与体贴，共同编织了一张温暖的安全网，让我们能毫无后顾之忧地探索与感受。
+六天光阴，倏忽而逝。回望这段旅程，巴厘岛之美，不仅在于火山、海洋、神庙与梯田的景观盛宴，更在于过程中所遇见的“人”。旅馆员工的真诚、司机的善意、Ani 团队的专业与体贴，共同编织了一张温暖的安全网，让我们能毫无后顾之忧地探索与感受。
 
-如果问我最大的收获是什么？我想是学会了“托付”的艺术。将行程交予值得信任的在地专家，她便能以她的知识与网络，将一趟普通旅行点化为充满惊喜的深度体验。我们已经开始怀念，并确信这不会是最后一次。巴厘岛，我们后会有期；Ani，下次行程依旧麻烦妳了！
+如果问我最大的收获是什么？我想是学会了“托付”的艺术。将行程交予值得信任的在地专家，她便能以她的知识与网络，将一趟普通旅行点化为充满惊喜的深度体验。我们已经开始怀念，并确信这不会是最后一次。巴厘岛，我们后会有期；Ani，下次行程依旧麻烦你了！
 
 ![Ani Si Febri 聯絡資訊](https://images.gobaligo.id/vocus/vocus_8e8b5ce59c06d6acb4562e5802d1dd8f.jpg)
 
@@ -151,9 +153,9 @@ Ani Si Febri 联系方式
 
 您觉得[廖苡妏](https://www.facebook.com/share/p/1CjoK9BEFX/)他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
-![结语：不只一次的美好](https://images.gobaligo.id/vocus/vocus_1c24c907b3071f894b193a7b3d195bba.jpg)
+![結語：不只一次的美好](https://images.gobaligo.id/vocus/vocus_1c24c907b3071f894b193a7b3d195bba.jpg)
 
-点击这里观看更多[巴厘岛精彩游记](/blog?cat=游记分享)
+点击这里观看更多[巴厘岛精彩游记](/blog?cat=%E9%81%8A%E8%A8%98%E5%88%86%E4%BA%AB)
 
 你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/zh-cn/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
 

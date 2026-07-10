@@ -3,6 +3,7 @@ slug: bali-visa-on-arrival-vs-evisa
 title: 入境印尼/巴厘岛落地签 vs. 电子签证：选择的实际建议
 description: 如果没有事先办理电子签证，而是选择在机场办理落地签，下场竟是...
 pubDate: 2024-05-06T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 簽證通關
 tags:
@@ -14,10 +15,8 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9ef327186d7f893afa30a3c683286a04.png'
 originalUrl: 'https://vocus.cc/article/6638e732fd89780001565d48'
 lang: zh-cn
-_srcHash: b48cf5fa543a3c682d7cacf0e6b461ee
+_srcHash: 24a58c84f1d500e3f6596e1522969f35
 ---
-Update: 2026/07/03
-
 **先讲结论**：事先办好**电子签证（e-VOA）走自动通关只要 5 分钟**；没办电子签、机场现场办落地签则要排队 30-45 分钟办签证、再排 1.5 小时等移民局盖章，运气不好合计可能耗掉 2 小时以上。**唯一例外**：带小孩、65 岁以上长者或行动不便者可走落地签专用通道，不必久候。一般成年旅客一律建议出发前先办电子签。
 
 团友James Lin一家最近去了一趟巴厘岛。他们事先在网上办理了电子签证。抵达巴厘岛机场后，他们在自动通关区快速通关，只花了5分钟就办理好入境手续。
@@ -60,7 +59,7 @@ James Lin的经验说明，如果是带小孩、65岁以上长者或行动不便
 
 强烈建议大家出发前先申请好**电子落地签（e-VOA）**。为什么呢？因为出门在外，很多事情是无法预期的，尤其是抵达机场后的情况。如果你已经事先办好电子签证，抵达巴厘岛后就可以直接通关，省去排队缴费、填写表格的时间，也能避免因为语言不通或被找麻烦/要小费而产生的麻烦。
 
-另外，接机的司机也提到：「**Better do e-Visa... Sometimes taking long time to wait for visa on arrival in airport.**」这句话非常有参考价值，因为当地司机经常接触到旅客，对机场的情况非常了解。他们的建议通常是基于实际经验，值得参考。
+另外，接机的司机也提到：「\*\*Better do e-Visa... Sometimes taking long time to wait for visa on arrival in airport.\*\*」这句话非常有参考价值，因为当地司机经常接触到旅客，对机场的情况非常了解。他们的建议通常是基于实际经验，值得参考。
 
 ***
 

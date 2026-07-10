@@ -1,13 +1,14 @@
 ---
 slug: bali-visa-updates-2024
 title: >-
-  Indonesian Immigration Clarifies New Bali Visa Regulations: Essential Updates
-  for Tourists
+  Indonesian Immigration Clarifies New Bali Visa Regulations: Essential Update
+  for Travelers
 description: >-
-  Indonesian Immigration clarifies new visa consolidation regulations,
-  streamlining processes for tourism, investment, and work visas. Foreign
-  tourists and digital nomads should take note.
+  Indonesian Immigration Clarifies New Visa Consolidation Rules, Streamlining
+  Processes for Tourism, Investment, and Work Visas—Foreign Tourists and Digital
+  Nomads Take Note.
 pubDate: '2025-06-19'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a9f4ceb73a58285cfe8cfe031830eab5.png'
 tags:
   - 印尼簽證線上申請
@@ -19,65 +20,66 @@ originalUrl: 'https://vocus.cc/article/68536a7afd89780001fcba80'
 category:
   - 簽證通關
 lang: en
-_srcHash: 3e64c7ec9114c5e6184eaccd62e4a0ae
+_srcHash: 0ff8e4b8eaee40e0a5c6cc0f77cfa358
+---
+**Bottom Line**: This visa consolidation mainly affects **investment, business, and special skill visas** (including the new C7C cultural skills exchange visa and E28F/E28G new capital investment visas). **The e-VOA used by general tourists remains unaffected**, with the same application process and fees. Unless you're an investor, digital nomad, or planning to engage in commercial performances in Indonesia, these changes don't impact your trip.
+
+Indonesia's Directorate General of Immigration recently announced major visa reforms aimed at combating illegal activities and simplifying the visa process. Previously complex visa categories will be consolidated to provide a clearer, more unified framework.
+
+![印尼移民局釐清峇里島簽證新規：遊客必看更新](https://images.gobaligo.id/vocus/vocus_64d9be4decc22cde17ee06eb3a9c4b74.png)
+
+### **Visa Category Consolidation Details**
+
+Visa indices 133 through 110 are being merged, covering purposes such as tourism, business, medical treatment, and official visits. The new system makes it easier for applicants to choose the right visa, reducing application difficulties and errors.
+
 ---
 
-The Indonesian Immigration Bureau recently announced significant visa reforms aimed at combating illegal activities and simplifying visa procedures. The previously complex visa categories will be consolidated to provide a clearer, unified framework.
+## **C7C Visa: A New Channel for Cultural and Skill Exchange**
 
-![Indonesian Immigration Clarifies New Bali Visa Regulations: ](https://images.gobaligo.id/vocus/vocus_64d9be4decc22cde17ee06eb3a9c4b74.png)
-
-### **Details of Visa Category Consolidation**
-
-Visa Index numbers 133 to 110 will be merged, covering purposes such as tourism, business, medical treatment, and official visits. The new system makes it easier for applicants to choose the appropriate visa, reducing difficulties and errors in the application process.
-
----
-
-## **C7C Visa: A New Pathway for Cultural and Skill Exchange**
-
-Director General of Immigration Yuldi Yusman highlighted that the C7C visa is a groundbreaking policy, allowing foreigners to showcase non-musical professional skills in Indonesia, including:
+Director General of Immigration Yuldi Yusman noted that the C7C visa is a groundbreaking policy, allowing foreigners to showcase non-music professional skills in Indonesia, including:
 
 - Magic performances
-- Fan meet-and-greets
+- Fan meetings
 - Cooking demonstrations by professional chefs
 
 This visa encourages legitimate skill exchange activities, creating new opportunities for cultural interaction.
 
 ---
 
-## **Investor Visas E28F and E28G: Targeting the New Capital Nusantara**
+## **Investor Visas E28F and E28G: For the New Capital Nusantara**
 
-For the new capital being established in Kalimantan, the Indonesian government has introduced:
+In response to the new capital being established in Kalimantan, the Indonesian government has introduced:
 
-- **E28F Visa**: Specifically for foreign investors in the new capital
-- **E28G Visa**: Designed for investors representing overseas patent companies establishing branches in Indonesia
+- **E28F Visa**: For foreign investors in the new capital
+- **E28G Visa**: Specifically for investors representing overseas patent companies setting up branches in Indonesia
 
 This initiative paves the way for attracting global capital and accelerating infrastructure development.
 
 ---
 
-## **Work Visas Streamlined from 31 Types to 6**
+## **Work Visas Streamlined from 31 to 6 Types**
 
-Under the old system, there were 20 types of work visas for foreign professionals sponsored by enterprises (E23B to E23W). These have now been consolidated into:
+Under the old system, there were 20 types of work visas (E23B to E23W) for foreign professionals sponsored by companies. These have now been consolidated into:
 
-- **E23 Visa**: Foreign experts sponsored by enterprises
+- **E23 Visa**: For foreign experts sponsored by companies
 
-Additionally, two new visa types have been introduced for non-enterprise sponsored organizations:
+Additionally, two new visas have been introduced for non-corporate sponsoring institutions:
 
 - **E23U**, **E23V**: For educational institutions, foundations, and other non-profit organizations
 
 ---
 
-## **eVoA Electronic Visa on Arrival: New Changes in Extended System**
+## **eVoA Electronic Visa on Arrival: New Changes to the Extension System**
 
-![eVoA Electronic Visa on Arrival: New Changes in Extended Sys](https://images.gobaligo.id/vocus/vocus_899aeed13fc6814f83802e4104d0f103.png)
+![eVoA電子落地簽證：延長制度新變化](https://images.gobaligo.id/vocus/vocus_899aeed13fc6814f83802e4104d0f103.png)
 
-As Indonesia pushes forward with digitalizing immigration processes, the **Electronic Visa on Arrival (eVoA)** has become one of the most convenient and common methods for tourist entry, especially for international travelers visiting popular destinations like **Bali**.
+As Indonesia pushes forward with digitalizing its immigration process, the **Electronic Visa on Arrival (eVoA)** has become one of the most convenient and common ways for tourists to enter the country, especially for international travelers heading to popular destinations like **Bali**.
 
 ---
 
 ### **What is eVoA?**
 
-eVoA is an **online visa-on-arrival application system** introduced by the Indonesian government, designed for travelers from specific countries. It eliminates the need to visit an embassy beforehand. Simply apply and pay online, and you can use it for entry upon arrival in Indonesia.
+eVoA is an **online visa-on-arrival application system** launched by the Indonesian government. It is available to travelers from eligible countries, allowing them to apply and pay online without visiting an embassy, and use the visa upon arrival in Indonesia.
 
 - **Fee**: IDR 500,000 (approximately USD$32)
 - **Validity**: 30 days
@@ -85,78 +87,78 @@ eVoA is an **online visa-on-arrival application system** introduced by the Indon
 
 ---
 
-### **Who is eVoA Suitable For?**
+### **Who is eVoA for?**
 
-The following travelers are best suited for using eVoA to enter Indonesia:
+The following travelers are best suited to use eVoA for entering Indonesia:
 
 - **Short-term tourists**
-- **Business visitors**
+- **Business travelers**
 - **Short-term social visits (e.g., visiting family)**
-- **Those who wish to extend their stay but do not need long-term residency**
+- **Those who want to extend their stay without long-term residency**
 
-Only travelers from **countries listed as eligible for eVoA** can apply. Currently, this includes Taiwan, Hong Kong, Japan, the United States, Australia, and most European countries (check the latest list at immigration.go.id for confirmation).
+Only travelers from **countries on the eVoA eligible list** can apply, including Taiwan, Hong Kong, Japan, the United States, Australia, and most European countries (check the latest list at immigration.go.id for confirmation).
 
 ---
 
-### **How to Apply for eVoA? Follow These Steps:**
+### **How to Apply for eVoA? Step-by-Step:**
 
-1. **Visit the official Indonesian Immigration eVoA website** (<https://evisa.imigrasi.go.id/>)
-2. Select the application type (electronic visa-on-arrival)
+1. **Visit the official Indonesian immigration eVoA website** (<https://evisa.imigrasi.go.id/>)
+2. Select the application type (Electronic Visa on Arrival)
 3. Fill in personal details and passport information
-4. Upload passport photo and personal photo
+4. Upload a passport photo and personal photo
 5. Pay IDR 500,000 using a credit card or international payment method
-6. Receive the e-visa PDF file, **present it upon arrival**
+6. Receive the e-Visa PDF file, **present it upon arrival**
 
-✅ **Friendly Reminder**: Ensure your passport has at least 6 months of validity and that you hold a return or onward flight ticket.
+✅ **Friendly Reminder**: Please ensure your passport is valid for more than 6 months and that you hold a return or onward ticket.
 
 ---
 
-### **Understanding the eVoA Extension and Hybrid Application System**
+### **Detailed Guide to eVoA Extensions and the Hybrid Application System**
 
-Starting May 29, 2025, Indonesian Immigration will implement a new **Hybrid Application System**, which is crucial for travelers wishing to extend their eVoA!
+Starting May 29, 2025, Indonesian Immigration will implement a new **Hybrid Application System**, which is crucial for travelers looking to extend their eVoA!
 
-🔁 **Extension Application Process:**
+🔁 **The extension process is as follows:**
 
-1. **Submit extension application online** (via <https://evisa.imigrasi.go.id/>)
-2. Schedule and visit the nearest Indonesian Immigration office in person
+1. **Submit your extension application online** (via <https://evisa.imigrasi.go.id/>)
+2. Schedule an appointment and visit a local Indonesian immigration office in person
 3. Complete the following procedures:
 4. - Verify original documents (e.g., passport, entry proof)
    - Photo and fingerprint scanning (biometrics)
    - Some cases may require an interview
-5. Upon approval, receive a **30-day residence permit extension**
+5. Upon approval, you will receive **an additional 30-day stay permit**
 
 ---
 
-### **Why the Hybrid Application System?**
+### **Why the Switch to a Hybrid Application System?**
 
-Indonesian Immigration states that previous online-only visa extensions led to some foreigners **abusing residence rules or working illegally**. To enhance control quality and policy transparency, the current system combines online and in-person methods to increase visa integrity and protect local order.
+Indonesian immigration authorities note that the previous fully online visa extension process led to some foreigners **abusing stay regulations or working illegally**. To improve oversight and policy transparency, the current system combines online and in-person steps, enhancing visa integrity and protecting local order.
 
 ---
 
 ### **Practical Advice: Apply for Visa Extensions Early!**
 
-Since the hybrid application requires an in-person visit, travelers needing extensions are advised to apply **7–10 days** in advance to avoid overstaying, fines, or deportation.
+Since the hybrid application requires an in-person visit, travelers needing an extension are advised to apply **7–10 days in advance** to avoid overstaying, fines, or deportation.
 
 ---
 
 ## **Frequently Asked Questions (FAQ)**
 
-### **Do I Need to Reapply After Indonesian Visa Number Consolidation?**
+### **Do I Need to Reapply After the Indonesian Visa Number Merger?**
 
-No. Valid visas already held remain effective. Future applicants will need to follow the new classification.
+No. Valid visas already held remain valid; future applicants must follow the new classification.
 
 ### **Where can I apply for a C7C visa?**
 
-You can apply through the official website of the Indonesian Immigration Office or at Indonesian overseas representative offices.
+You can apply through the official Indonesian Immigration website or at an Indonesian representative office abroad.
 
 ### **Can I extend my eVoA online?**
 
-Yes, but you need to visit the immigration office in person to complete the verification process as per the new policy.
+Yes, but under the new policy, you must visit the immigration office in person to complete the verification process.
 
-### **Has it become more difficult to apply for a work visa after the merger?**
+### **After the merger of work visas, is it harder to apply?**
 
 No. The new system simplifies the process, making it easier to apply with clearer information.
 
-### **What qualifications are needed for the Indonesian Capital Investment Plan?**
+### **What qualifications are needed to invest in Indonesia's capital city project?**
 
-You need to demonstrate investment intent and project relevance, and choose to apply for either the E28F or E28G visa accordingly.
+You need to demonstrate your investment intent and project relevance, and then apply for the corresponding E28F or E28G visa.

@@ -3,10 +3,11 @@ slug: bali-evisa-taiwan-issue
 title: 'Urus eVisa, Taiwan ilang!'
 description: >-
   Baru-baru ini pengen liburan ke Bali, pas mau urus eVisa malah nemu kejadian
-  yang bikin geleng-geleng kepala. Beberapa hari ini ada temen yang mau urus
-  eVisa Bali? Waktu aku isi formulir pendaftaran (2025/06/07), nemu fenomena
-  aneh. Di kolom Nationality (
+  yang bikin geleng-geleng kepala. Ada yang lagi mau urus eVisa Bali beberapa
+  hari ini? Waktu aku isi formulir pendaftaran (2025/06/07), nemu hal aneh. Di
+  kolom Nationality (kewarganegaraan),
 pubDate: '2025-06-07'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d8323e690ca9cbbb95571dc78a872391.jpg'
 tags:
   - 電子簽證
@@ -18,45 +19,46 @@ originalUrl: 'https://vocus.cc/article/684447cdfd89780001bb6bf8'
 category:
   - 簽證通關
 lang: id
-_srcHash: 5fb1ad1ef7cd288bf9fb43cfe3dc0298
+_srcHash: cbbf9af5a47af0dfa5a10a9935adfd5b
 ---
-
 ## Taiwan dihapus lagi
 
-> Sumber dari postingan teman FB [Shirley Lu](https://www.facebook.com/share/p/1FcTWfbFHk/)
+> Sumber: postingan [Shirley Lu di Facebook](https://www.facebook.com/share/p/1FcTWfbFHk/)
 
-Baru-baru ini pengen liburan ke Bali, pas mau urus eVisa malah nemu kejadian yang bikin geleng-geleng kepala.
+**Kesimpulan dulu**: pas urus eVisa Bali, kolom kewarganegaraan nggak nemu 'Taiwan' itu wajar — sistem udah mindahin ke **'Chinese Taipei'**, ada di opsi huruf C, nggak ganggu proses, tetep bisa selesai urus visa kok.
 
-## Opsi Taiwan yang Hilang
+Baru-baru ini pengen liburan ke Bali, pas mau urus eVisa malah nemu kejadian yang bikin bingung sekaligus lucu.
 
-Beberapa hari ini ada temen yang mau urus eVisa Bali? Waktu aku isi formulir pendaftaran (2025/06/07), nemu fenomena aneh. Di kolom Nationality (kewarganegaraan), aku udah cari bolak-balik berkali-kali, tapi nggak nemu opsi 'Taiwan'.
+## Opsi Taiwan yang ilang
 
-Padahal akhir pekan lalu waktu aku urus buat diri sendiri, masih bisa pilih Taiwan dengan normal. Kok dalam beberapa hari aja ilang?
+Ada yang lagi mau urus eVisa Bali beberapa hari ini? Waktu aku isi formulir pendaftaran (2025/06/07), nemu hal aneh. Di kolom Nationality (kewarganegaraan), udah aku cari bolak-balik, ternyata nggak ada opsi 'Taiwan'.
 
-## Proses Pencarian
+Padahal akhir pekan lalu pas aku urus buat diri sendiri, masih bisa milih Taiwan dengan normal. Kok cuma beberapa hari udah ilang?
 
-Awalnya aku kira mungkin dikategorikan sebagai 'Republic of China', soalnya itu nama resmi negara kita. Makanya aku buka opsi yang diawali huruf R, tapi nggak ketemu.
+## Proses pencarian
 
-Tiba-tiba kepikiran, jangan-jangan aku dikategorikan ke 'China'? Dengan perasaan deg-degan, aku balik lagi ke opsi yang diawali huruf C untuk nyari.
+Awalnya aku pikir mungkin bakal dikategorikan sebagai 'Republic of China', soalnya itu nama resmi negara kita. Akhirnya aku buka bagian huruf R buat cari, tapi nggak ketemu.
 
-Dan ternyata nemu ini...
+Pas mikir lagi, jangan-jangan masuk ke kategori 'China'? Dengan perasaan deg-degan, aku buka lagi bagian huruf C buat nyari.
 
-![Proses Pencarian](https://images.gobaligo.id/vocus/vocus_7a0749e55a6adfe7ad66dfd5d10f8945.jpg)
+Dan akhirnya nemu ini...
 
-## Hasil yang 'di-harmonisasi'
+![尋找的過程](https://images.gobaligo.id/vocus/vocus_7a0749e55a6adfe7ad66dfd5d10f8945.jpg)
+
+## Hasil yang 'di-harmoni'
 
 Yang tadinya 'Taiwan' sekarang berubah jadi 'Chinese Taipei'.
 
-Melihat perubahan ini, perasaanku campur aduk banget. Ini bukan pertama kalinya aku nemu situasi kayak gini, tapi setiap lihat tetep aja bikin kesel. Di forum internasional, nama kita selalu kena berbagai pertimbangan politik dan tekanan.
+Melihat perubahan ini, rasanya campur aduk banget. Ini bukan pertama kalinya nemu situasi kayak gini, tapi setiap lihat tetep aja bikin nyesek. Di forum internasional, nama kita selalu kena berbagai pertimbangan politik dan tekanan.
 
-## Kegalauan Seorang Traveler
+## Kegalauan Traveler
 
-Sebagai orang yang cuma pengen jalan-jalan ke luar negeri, kita cuma berharap bisa ngurus visa dengan lancar dan nikmatin liburan. Tapi kebutuhan dasar kayak gini aja jadi ribet gara-gara faktor politik.
+Sebagai orang yang cuma pengen traveling ke luar negeri, kita cuma berharap bisa ngurus visa dengan lancar dan nikmatin liburan. Tapi kebutuhan dasar kayak gini aja jadi ribet gara-gara faktor politik.
 
-Meskipun akhirnya proses aplikasi tetep bisa selesai, perasaan 'dihapus' dan 'diganti nama' kayak gini bener-bener nggak enak.
+Meskipun akhirnya proses aplikasi tetep bisa selesai, perasaan 'dihapus' dan 'diganti nama' kayak gini beneran bikin nggak nyaman.
 
-## Pengingat Buat Traveler Lain
+## Pengingat buat Traveler Lain
 
-Kalau ada temen-temen yang mau apply eVisa Bali akhir-akhir ini, inget ya di kolom kebangsaan cari 'Chinese Taipei', jangan kayak aku yang nyari lama-lama nggak ketemu.
+Kalau ada teman yang mau apply eVisa Bali, ingat ya di kolom kewarganegaraan cari 'Chinese Taipei', jangan kayak aku yang nyari lama nggak ketemu.
 
-Semoga suatu hari nanti, kita bisa muncul dengan bebas di berbagai penjuru dunia menggunakan nama asli kita sendiri.
+Semoga suatu hari nanti, kita bisa muncul dengan nama asli kita di berbagai penjuru dunia dengan bebas.

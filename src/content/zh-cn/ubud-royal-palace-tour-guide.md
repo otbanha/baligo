@@ -5,6 +5,7 @@ description: >-
   乌布皇宫（Ubud Royal Palace/Puri Saren
   Agung）正是体验巴厘岛传统文化的好去处。作为巴厘岛历史上皇家家族的住所，这座皇宫展现了十九世纪以来的巴厘建筑风格，也见证了巴厘皇室的历史和传统
 pubDate: 2024-11-05T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: null
 category:
   - 美食景點活動
@@ -17,16 +18,17 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5a0249c2416d34d9faa70c164c0fbf56.jpg'
 originalUrl: 'https://vocus.cc/article/6728cc00fd89780001c9bbdc'
 lang: zh-cn
-_srcHash: 70f75cfb8221fa74ceb95b48f3ef30d6
+_srcHash: eb0aa3d5b9c0ad440d9b5d9551a78011
 ---
-
 update：2026/06/16
+
+**先讲结论**：乌布皇宫（Puri Saren Agung）位于乌布大街 8 号市中心，展现**19 世纪以来的巴厘建筑风格**，从登巴萨市中心开车约 **1 小时**可达，也可搭乘 Trans Dewata 巴士 **K4B 路线**前往，适合安排在乌布市区观光的顺游行程。
 
 提到巴厘岛，大家首先会想到美丽的沙滩和壮丽的自然景观，但其实巴厘岛的文化底蕴也相当丰富！乌布皇宫（Ubud Royal Palace/Puri Saren Agung）正是体验巴厘岛传统文化的好去处。作为巴厘岛历史上皇家家族的住所，这座皇宫展现了十九世纪以来的巴厘建筑风格，也见证了巴厘皇室的历史和传统艺术。
 
 ## 乌布皇宫的位置与到达方式
 
-乌布皇宫位于巴厘岛的乌布市中心，具体地址在乌布大街（Jalan Raya Ubud）8号，位处吉安雅县（Gianyar）的心脏地带，位置非常便利。从丹帕沙市中心驱车大约一小时即可抵达，如果使用公共交通工具，可以搭乘Trans Dewata巴士，选择K4B路线，该路线会经过乌布的多个重要景点，让旅人更方便地到达皇宫。
+乌布皇宫位于巴厘岛的乌布市中心，具体地址在乌布大街（Jalan Raya Ubud）8号，位处吉安雅县（Gianyar）的心脏地带，位置非常便利。从登巴萨市中心驱车大约一小时即可抵达，如果使用公共交通工具，可以搭乘Trans Dewata巴士，选择K4B路线，该路线会经过乌布的多个重要景点，让旅人更方便地到达皇宫。
 
 ## 皇宫的开放范围与特色
 
@@ -40,7 +42,7 @@ update：2026/06/16
 
 作为文化爱好者的天堂，乌布皇宫每周四晚上都会举行传统的巴厘舞蹈表演，其中包括充满神秘感的「卡恰火舞」表演。这些表演是巴厘岛最具代表性的艺术活动之一，吸引着众多来自世界各地的游客。表演票价为100K印尼盾，活动通常在每星期四晚间7点到8点之间进行，适合在日落余晖下享受这场视觉盛宴。对于想深入了解巴厘文化的游客来说，这是一次难得的体验。
 
-![乌布皇宫的亮点：艺术表演](https://images.gobaligo.id/vocus/vocus_e2005bd1999f438cbe9fc3d2a10ac176.png)
+![烏布皇宮的亮點：藝術表演](https://images.gobaligo.id/vocus/vocus_e2005bd1999f438cbe9fc3d2a10ac176.png)
 
 > [乌布皇宫卡恰火舞购票优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=944134&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2deaa6927)
 
@@ -50,7 +52,7 @@ update：2026/06/16
 
 ## 探索乌布皇宫及周边景点：文化、购物与自然的完美结合
 
-乌布不仅有着充满历史气息的皇宫，更有许多周边景点可以一并探索，包括充满集市热闹氛围的乌布艺术市场、美丽的水皇宫、猴林路的时尚小店，以及自然景观丰富的圣猴森林。在这里，无论是体验当地文化还是享受购物乐趣，甚至亲近巴厘岛的自然生态，都能让你的乌布之旅更加难忘！
+乌布不仅有着充满历史气息的皇宫，更有许多周边景点可以一并探索，包括充满市集热闹氛围的乌布艺术市场、美丽的水皇宫、猴林路的时尚小店，以及自然景观丰富的圣猴森林。在这里，无论是体验当地文化还是享受购物乐趣，甚至亲近巴厘岛的自然生态，都能让你的乌布之旅更加难忘！
 
 ### 1. 乌布艺术市场（Ubud Art Market）🗺️[地图位置](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
@@ -83,7 +85,7 @@ https://youtu.be/hYkf6sjCtqg
 
 📌 **小提醒（个人观察）**
 
-乌布水皇宫本身不大，单纯参观停留时间不会太久，但拍照真的很吃光线和人潮。如果你是为了拍照而来，选择含拍照的方案会比较省事；如果只是顺路看看，其实单纯买入场票也足够。
+乌布水皇宫本身不大，单纯参观停留时间不会太久，但拍照真的很吃光线与人潮。如果你是为了拍照而来，选择含拍照的方案会比较省事；如果只是顺路看看，其实单纯买入场票也足够。
 
 ### 3. 猴林路逛街（Jalan Monkey Forest）🗺️[地图位置](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
@@ -116,7 +118,7 @@ https://youtu.be/JtxZHtijEkE
 
 乌布皇宫不仅是乌布当地的地标建筑，更是巴厘岛历史和艺术的珍贵宝藏。在这里，你可以感受到巴厘皇室昔日的辉煌，欣赏到纯正的传统艺术，并深入了解巴厘岛独特的文化背景。而其周边景点提供了丰富多样的体验，让游客既能欣赏巴厘岛的历史文化，又能享受购物乐趣，还能近距离接触大自然。无论你是热爱历史、喜欢购物，还是偏爱自然景观，这里都能满足你的需求，让你的巴厘岛之旅充满惊喜与收获。
 
-![小结](https://images.gobaligo.id/vocus/vocus_7ed2f29faae88b539880459d2bf83b98.jpg)
+![小結](https://images.gobaligo.id/vocus/vocus_7ed2f29faae88b539880459d2bf83b98.jpg)
 
 ## 乌布皇宫 FAQ 常见问题
 

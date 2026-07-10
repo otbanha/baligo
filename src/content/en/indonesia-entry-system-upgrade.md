@@ -1,11 +1,14 @@
 ---
 slug: indonesia-entry-system-upgrade
-title: '"All Indonesia" System Launches Trial Operation, Upgrading Entry Procedures'
+title: >-
+  The 'All Indonesia' system is now in trial operation, upgrading Indonesia's
+  entry process
 description: >-
-  The Indonesian government is trialing the "All Indonesia" system, allowing
-  incoming travelers to complete visa, customs declaration, and health
+  The Indonesian government is piloting the 'All Indonesia' system, allowing
+  arriving travelers to complete visa, customs declaration, and health
   declaration procedures in advance.
 pubDate: '2025-07-26'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5e4cb6d8f2a05c782872976f5cb63be7.png'
 tags:
   - 入境
@@ -18,73 +21,74 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: en
-_srcHash: 9ff7bbeabb50d7c07c6396bdda247ff1
+_srcHash: d13c7060642d722bc4b674218d8ff70a
 ---
+**Bottom line**: 'All Indonesia' is a new system that integrates customs declarations and health declarations into a single platform. **Pre-fill online within 3 days before arrival, taking an average of just about 2.5 minutes**—much faster than filling out multiple forms separately. The system offers a Simplified Chinese interface. This article documents the trial phase at Jakarta Airport in July 2025; the system was **fully rolled out nationwide on August 18, 2025**, and is now also applicable at Bali's Ngurah Rai Airport. For the latest process, see the [2026 All Indonesia Arrival Card Complete Guide](/en/blog/bali-all-indonesia-arrival-guide/).
 
-## **What is All Indonesia? A New Concept in One-Stop Entry Systems**
+## **What is All Indonesia? A New One-Stop Entry System Concept**
 
-On July 24, 2025, the Indonesian government officially launched a trial of the "All Indonesia" system at Jakarta's Soekarno-Hatta International Airport. This system is an integrated digital customs platform that enables incoming travelers to complete customs and health declarations in advance.
+On July 24, 2025, the Indonesian government officially launched the 'All Indonesia' system in a trial at Jakarta's Soekarno-Hatta International Airport. This system is an integrated digital customs platform that allows arriving travelers to complete customs declarations, health declarations, and other procedures in advance.
 
 ![系統有印尼文/英文/中文（簡體）](https://images.gobaligo.id/vocus/vocus_8cabc11e49da2d9a08d43081608493cc.png)
 
-The system is available in Indonesian/English/Chinese (Simplified)
+The system is available in Indonesian, English, and Simplified Chinese.
 
-Previously, these processes required filling out separate forms, often leading to repetitive tasks and time-consuming issues for travelers. All Indonesia consolidates these processes into a single platform, allowing pre-filling up to three days before arrival, with an average completion time of just 2.5 minutes.
-
----
-
-## **Streamlining Processes, Boosting Efficiency, Driving Tourism and Investment**
-
-According to Agus Harimurti Yudhoyono (AHY), Minister of Infrastructure and Regional Development Coordination, this system not only simplifies entry but also attracts more international tourists and foreign investments.
-
-> "We aim to provide an efficient and internationally standardized entry experience while maintaining Indonesia's national security," he emphasized during the press conference.
-
-Additionally, the government encourages public participation during the testing phase, using feedback to continuously optimize the system, with plans to roll out a series of educational and promotional campaigns before nationwide implementation.
+Previously, these processes required filling out separate forms, often leading to redundant work and time-consuming tasks. All Indonesia consolidates these steps into a single platform, allowing pre-filling up to three days before arrival, with an average completion time of just about 2.5 minutes.
 
 ---
 
-## **Information Security and High Traffic Handling Become Core Focus**
+## **Streamlining processes, boosting efficiency, and driving tourism and investment**
 
-Regarding security, Minister of Immigration and Corrections Agus Andrianto stated that All Indonesia has undergone penetration testing and stress testing by ITSA BSSN and external agencies.
+According to Coordinating Minister for Infrastructure and Regional Development Agus Harimurti Yudhoyono (AHY), this system not only makes entry easier but also attracts more international tourists and foreign investors.
 
-The system utilizes Sclron technology to prevent data duplication, while also preparing backup systems and expanding Indonesian data center capacity to meet future demands from large numbers of travelers.
+> 'We aim to provide a highly efficient entry experience that meets international standards while maintaining Indonesia's national security,' he emphasized during a press conference.
+
+Additionally, the government encourages public participation in the testing phase, continuously refining the system through feedback, and plans to roll out a series of educational and promotional campaigns before nationwide implementation.
 
 ---
 
-## **Current Trial Scope and Future Applications**
+## **Information Security and High-Traffic Handling at the System's Core**
 
-Currently, the system is only available to **Indonesian citizens (WNI) traveling on international flights**, with Garuda Indonesia as the pilot airline.
+Regarding security, Minister of Immigration and Corrections Agus Andrianto stated that All Indonesia has undergone penetration testing and stress tests by ITSA BSSN and external agencies.
 
-According to notification from Indonesian government departments, Indonesia will open its borders to international tourists arriving in **Jakarta** and **Bali** starting **August 18**, using the new entry declaration platform [All Indonesia].
+The system uses Sclron technology to prevent data duplication, while backup systems and expanded data center capacity in Indonesia are prepared to handle future high volumes of travelers.
 
-All passengers are requested to complete their online declaration before boarding and save/screenshot the QR CODE generated upon completion on their mobile devices to facilitate smoother entry procedures. Thank you for your cooperation:
+---
+
+## **Current Trial Participants and Future Applications**
+
+Currently, the system is only open to **Indonesian citizens (WNI) flying on international routes**, with Garuda Indonesia serving as the trial airline.
+
+As notified by Indonesian government authorities, starting **August 18**, international travelers entering **Jakarta** and **Bali** can use the new arrival declaration platform [All Indonesia].
+
+All travelers are kindly requested to complete the online declaration before boarding, and save or screenshot the QR CODE on their phones to ensure a smoother entry process. Thank you for your cooperation:
 
 👉 <https://allindonesia.imigrasi.go.id/>
 
-In the future, entering Indonesia will be simplified to a single platform handling all applications and declarations; after implementing [All Indonesia], there will be no need to separately declare on ECD/SSHP websites. Entry to Bali will be streamlined from [the original four steps](/en/blog/2025-01-11-67821654fd89780001f932b5/) to three.
+In the future, entering Indonesia will be simplified to a single platform for all applications and declarations; after [All Indonesia] is implemented, there will be no need to separately submit declarations on the ECD/SSHP websites. For entry into Bali, the process has been streamlined from [the original four steps](/en/blog/2025-01-11-67821654fd89780001f932b5/) to three.
 
 ---
 
-## **5 Frequently Asked Questions FAQ**
+### **5 Frequently Asked Questions (FAQ)**
 
-### **Is All Indonesia Mandatory?**
+## **Is All Indonesia mandatory?**
 
-Currently, it is only available for **Indonesian citizens on specific flights** during the trial period. It is expected to be universally applicable to all international flights once officially launched.
+Currently, during the trial period, it is only available to **Indonesian citizens on specific flights**. Once fully launched, it is expected to apply to all international flights.
 
-### **Do I Need to Complete the Declaration Before Arrival?**
+## **Do I need to complete the declaration before entering the country?**
 
-Yes, travelers can complete the online declaration up to three days before arriving in Indonesia to expedite the entry process.
+Yes, travelers can complete the online declaration up to three days before arriving in Indonesia to speed up the entry process.
 
-### **Is the System Mobile-Friendly?**
+## **Is the system mobile-friendly?**
 
-Yes, travelers can fill out the declaration form on the official website using their mobile browser.
+Yes, travelers can fill out the declaration form on the official website using a mobile browser.
 
-### **What If I Encounter a System Error?**
+## **What if I encounter a system error?**
 
-The system has built-in redundancy and provides customer support to promptly assist travelers with technical issues. For questions related to filling out the declaration form, please refer to [our FAQ](/en/blog/bali-evisa-customs-health-declaration/).
+The system has built-in backup mechanisms and offers customer support to promptly assist travelers with technical issues. For questions about filling out the declaration form, please refer to [this FAQ](/en/blog/bali-evisa-customs-health-declaration/).
 
-### **Is the Tourism Tax Integrated?**
+## **Is the tourism tax not integrated?**
 
-No. The tourism tax is only collected in Bali and does not apply nationwide.
+No. Because the tourism tax is only collected in Bali, it does not apply to the entire country.
 
 ---

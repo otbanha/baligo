@@ -1,15 +1,17 @@
 ---
 slug: bali-evisa-customs-health-declaration
 title: >-
-  Entry to Indonesia/Bali: eVisa, eCD Customs, SSHP Health Declaration Must Be
-  Completed - All Indonesia FAQ
+  Entering Indonesia/Bali: eVisa, eCD Customs, SSHP Health Declaration, All
+  Indonesia FAQ
 description: >-
-  Planning a Bali vacation? Must-read latest 2026 entry procedures! In-depth
-  guide to Indonesia's electronic visa (e-VoA) and All Indonesia application
-  tutorial with FAQs. This article explains when to apply, official website
-  links, and error correction methods. Led by local travel experts, learn how to
-  breeze through customs for a perfect tropical getaway.
+  Planning a Bali vacation? Check out the latest 2026 entry procedures! A
+  comprehensive guide to applying for the Indonesian e-Visa (e-VoA) and the
+  mandatory All Indonesia form, including common questions. This article
+  explains when to fill them out, the correct official website links, and how to
+  fix data errors. Led by local travel experts, learn how to breeze through
+  customs and kick off your perfect tropical getaway.
 pubDate: 2025-08-14T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 簽證通關
 tags:
@@ -26,213 +28,214 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e369e6351905ce7e76db2352f23292c8.png'
 originalUrl: 'https://vocus.cc/article/689db40ffd89780001eb2f3e'
 lang: en
-_srcHash: e98bdf2c200625416df552cb59114f55
+_srcHash: ea86a885d448c471204ec5f3b8088f35
 ---
+**Bottom Line**: Starting August 18, 2025, entering Bali requires just 3 steps: ① Get your eVisa ② Fill out the customs declaration and health statement in one go on [All Indonesia](https://allindonesia.imigrasi.go.id/) before departure, then screenshot the QR Code ③ Show the QR Code upon arrival to clear customs. Non-Indonesian passport holders should select 'Foreign Visitor' on the site; first-time users should allow 30 minutes to complete the process.
 
-### New Indonesia Entry Measures🇮🇩 Important Notice! Starting August 18, 2025, 'All Indonesia' Single Declaration System Will Be Fully Implemented
+### New Indonesian Entry Measures 🇮🇩 Important Notice! Starting 8/18/2025, Switch to the Single 'All Indonesia' Declaration System
 
-Attention dear travelers! ✨ The Indonesian government has announced that starting **Monday, August 18, 2025**, a new integrated entry declaration platform - [All Indonesia](https://allindonesia.imigrasi.go.id/) - will be launched, unifying customs declarations, health statements, and other procedures. No more separate ECD (Customs) and SSHP (Health Statement) systems!
+Attention, travelers! The Indonesian government has just announced ✨ that starting **Monday, August 18, 2025**, a new integrated entry declaration platform—[All Indonesia](https://allindonesia.imigrasi.go.id/)—will be launched to handle customs declarations, health statements, and other entry procedures in one place. No more filling out the old separate eCD (customs) and SSHP (health) systems!
 
 ![非持有印尼護照的旅客請點選「外国访客」](https://images.gobaligo.id/vocus/vocus_3dcc46a95e9378e483d3c882f96e1ad9.png)
 
-Non-Indonesian passport holders please select 'Foreign Visitors'
+Non-Indonesian passport holders should select 'Foreign Visitor'
 
 👉**Official Website Only**: <https://allindonesia.imigrasi.go.id/>
 
 ### ✈️ Must-Do Before Departure:
 
-✅ Complete online declarations for **e-visa, All Indonesia, and tourism tax** before departure. See [here](/en/blog/bali-all-indonesia-arrival-guide/) for process explanation
+✅ Complete your online declarations for **eVisa, All Indonesia, and Tourist Tax** before departure. See the process guide [here](/en/blog/bali-all-indonesia-arrival-guide/)
 
-✅ Save/screenshot the final generated QR CODE on your phone (recommend cloud backup as well)
+✅ Save/screenshot the final QR CODE on your phone (also recommend backing it up to the cloud)
 
-✅ Upon arrival in Indonesia, directly present QR Code for faster clearance
+✅ Upon arrival in Indonesia, simply show the QR Code for faster clearance
 
 ### 🔍 Friendly Reminder:
 
-1️⃣ The new system saves time by reducing repetitive form filling, but we still recommend allowing 30 minutes for the process (especially for first-time users).
+1️⃣ The new system saves you from repeated form-filling, but it's recommended to allow 30 minutes for the process (especially for first-time users).
 
-2️⃣ Language switch function: You can select English interface at the top right corner of the webpage!
+2️⃣ Language switching: You can select the English interface at the top right of the webpage!
 
 ***
 
-## **Common Visa-related Questions:**
+## **Common Questions About VISA:**
 
-### **❓ Do I need to apply for a visa (VoA, Visa on Arrival)?**
+### **❓ Do I need a visa (VoA, Visa on Arrival)?**
 
-Currently, citizens from 13 countries enjoy visa-free entry ([list here](/en/blog/indonesia-visa-free-countries-list/)). Citizens from over 80 other countries, including Taiwan and China, need to apply for a visa.
+Currently, 13 countries enjoy visa-free entry (see the list [here](/en/blog/indonesia-visa-free-countries-list/)). Other countries, including Taiwan, China, and over 80 others, require a visa.
 
-### **❓ Do children need to apply for a visa?**
+### **❓ Do children need a visa?**
 
-Visa requirements apply regardless of age - even infants need to apply.
+Visa requirements are not age-based; even infants need to apply.
 
-### **❓ Where can I apply for the eVisa?**
+### **❓ Where can I apply for an eVisa?**
 
-Please refer to [this guide](/en/blog/bali-evisa-application-guide/) for further instructions.
+Please refer to [this article](/en/blog/bali-evisa-application-guide/) for further details.
 
-### **❓ Don't want to apply for an e-visa? Where to get a visa on arrival and what documents are needed?**
+### **❓ Don’t want to apply for an e-Visa? Where to get a Visa on Arrival and what documents are needed?**
 
-If you haven't filled out the e-visa application in advance, head straight to the Visa on Arrival counter after disembarking. Make sure you have:
+If you haven’t applied for an e-Visa in advance, head straight to the Visa on Arrival counter after landing. Prepare the following:
 
-1. A passport valid for at least six months
-2. At least one blank page in your passport for the stamp
-3. Return/onward flight ticket
-4. Cash or credit card for payment (IDR 500,000 or equivalent in USD. Cash equivalents in EUR, GBP, AUD, SGD are also accepted)
+1. Passport valid for at least six months
+2. At least one full blank page in your passport for the visa stamp
+3. Return or onward flight ticket
+4. Cash or credit card for payment (IDR 500,000 or equivalent in USD. Also accepted in EUR, GBP, AUD, and SGD cash)
 
-### **❓ How long does it take for an e-visa to be issued?**
+### **❓ How long does it take to get an e-Visa approved?**
 
-After completing the application form with your photo and submitting it successfully, you'll immediately receive a QR Code in your registered email.
+Once you fill out the application form carefully, upload your photo, and submit successfully, you’ll receive a QR code in your registered email immediately.
 
-### **❓ How far in advance can I apply for an e-visa?**
+### **❓ How far in advance can I apply for an e-Visa?**
 
-The general tourist e-visa is valid for 90 days from the date of issue; you must depart within 30 days from the date of entry.
+A standard tourist e-Visa is valid for 90 days from the date of issuance; you must depart within 30 days from the date of entry.
 
-### **❓ What's the secret to successfully applying online?**
+### **❓ What’s the secret to a successful online application?**
 
-Based on community experiences, using a Gmail account and applying during business hours increases your chances of success.
+According to tips from fellow travelers in the community, using a Gmail email address and applying during business hours increases your chances of success.
 
-### **❓ What if the system auto-fills my name+surname differently from my passport?**
+### **❓ What if the first and last name auto-filled by the system don’t match my passport?**
 
-According to fellow travelers, passing through customs should go smoothly without any issues.
+According to group members, it’s been reported that you can still pass through customs without issues.
 
-If the system doesn't automatically populate the information, please manually enter it yourself.
+If the system doesn’t auto-fill, please enter the information manually.
 
-### **❓Name Format Question: Should I enter my name as first name + last name? Do I need to include a space?**
+### **❓ Name format: Should I enter my given name first, followed by my surname? Do I need a space?**
 
-Since the system doesn't accept hyphens '-' or other symbols in names, if your passport name includes a '-', you can replace it with a space or simply remove the '-'. For example, if your passport name is 'Wang, Fa-Fa', you can manually enter it as 'Wang, Fa Fa' or 'Wang, Fafa'.
+Since the system doesn’t accept hyphens (-) or other symbols in names, if your passport name includes a hyphen, you can replace it with a space or simply remove it. For example, if your passport shows “Wang, Fa-Fa,” you can manually enter it as “Wang, Fa Fa” or “Wang, Fafa.”
 
-### **❓Name Order Question: Should the first name come first, or the last name?**
+### **❓ Name order: Should the given name come first or the surname?**
 
-Simply follow the exact format shown on your passport. This way, you can't go wrong, and no one can say you're incorrect!
+Just copy the format exactly as it appears on your passport—it’s foolproof, and no one can say you’re wrong!
 
-### **❓Place of Birth and Date of Birth**
+### **❓ Place of birth and date of birth**
 
-Place of Birth and Date of Birth must match exactly what is shown on your passport.
+Place of Birth and Date of Birth must match your passport exactly.
 
-### **❓What should I fill in for Issuing Country?**
+### **❓ What should I fill in for Issuing Country?**
 
-If the system doesn't automatically fill it in, travelers with Taiwanese nationality can enter ROC, Taiwan, or China.
+If the system does not automatically fill it in, travelers with Taiwanese nationality can enter ROC, Taiwan, or China — all are acceptable.
 
-### **❓** How to Convert Image Files to PDF on Your Phone?
+### **❓ How to convert an image file to PDF on your phone?**
 
-📱【How to Convert Image Files to PDF on Your Phone】
+📱【How to Convert Images to PDF on Your Phone】
 
 ✅ **For iPhone (iOS):**
 
-1. Open your screenshot or photo in the **Photos** app.
-2. Tap the share icon at the bottom left (a square with an arrow).
-3. Scroll down → Tap **Print**.
-4. Use two fingers to zoom in on the photo (enlarge the photo with your fingers).
-5. A PDF preview will appear. Tap the share icon in the top right → Select **Save to Files** or **Save to iCloud Drive**.
+1. Open the screenshot or photo in your **Photos** app.
+2. Tap the **Share** icon (a square with an arrow) in the bottom-left corner.
+3. Scroll down and select **Print**.
+4. Use two fingers to pinch and zoom in on the photo.
+5. A PDF preview will appear. Tap **Share** in the top-right corner → choose **Save to Files** or **Save to iCloud Drive**.
 
 ***
 
 ✅ **For Android Phones:**
 
-1. Open the image file you want to convert in the **Gallery** or **Photos** app.
-2. Tap the share button in the top right → Select **Print**.
+1. Open the image you want to convert in your **Gallery** or **Photos** app.
+2. Tap the **Share** button in the top-right corner → select **Print**.
 3. In the printer options, choose **Save as PDF**.
-4. Tap the download icon to save the file.
+4. Tap the **Download** icon to save the file.
 
-### **❓ What to Do If the Final Step of Credit Card Payment Fails?**
+### **❓ What if the credit card payment fails at the final step?**
 
-If the payment fails, you’ll need to reapply. Sometimes switching to a different card works (AMEX cards are not accepted, please use JCB, VISA, or MasterCard).
+If payment fails, you'll need to reapply. Sometimes switching to a different card works (AMEX is not accepted; please use JCB, VISA, or Mastercard).
 
-### **❓ Pay Attention to the Date!**
+### **❓ Watch the dates!**
 
-Once your eVOA visa is issued, you must use it within **90 days**, meaning you must enter Indonesia within 90 days of the visa issue date. If you don’t enter within this period, the visa will automatically expire and become invalid.
+Once your eVOA is issued, you must use it within **90 days** — meaning you must enter Indonesia within 90 days from the issue date. If you do not enter within this period, the visa will automatically expire and become invalid.
 
-When filling in the arrival date, make sure not to mistakenly enter the departure date.
+When filling in the arrival date, be careful not to mistakenly enter the departure date.
 
-### **❓ Why does the Date of Issue automatically change to the application date?**
+### **❓ Why does the Date of Issue automatically show the application date?**
 
-The **Date of Issue** that appears on your electronic visa is the date you applied for the eVoA, and it is not related to the Date of Issue on your passport. Therefore, it correctly shows the date you applied for the eVoA.
+The **Date of Issue** on your e-Visa is the date you applied for the eVOA — it has nothing to do with the Date of Issue on your passport. So seeing the date you applied for the eVOA is correct.
 
-What if this field is filled incorrectly? The Date of Issue here is only for your reference regarding the application/issuance date of the electronic visa. If you have successfully applied and paid, you will pass through smoothly!
+What if I filled in this field incorrectly? The Date of Issue here is just for your reference on the e-Visa's application/issuance date. As long as you successfully applied and paid, you'll be fine!
 
-### **❓** What if the Date of Issue and Place of Birth are filled incorrectly?
+### **❓ What if I filled in the Date of Issue or Place of Birth incorrectly?**
 
-If you notice any mistakes:
+If you notice a mistake:
 
-- The Date of Issue is just for your reference regarding the entry date, so it doesn't matter if it's incorrect.
-- According to user reports, whether you fill in Taiwan or follow the birthplace on your passport, you can still pass through automatic immigration.
+- The Date of Issue is just for your own reference on the entry date — it doesn't matter if it's wrong.
+- According to reports from travelers, entering Taiwan or the place of birth as shown on your passport both work for automated immigration clearance.
 
-### **❓** Can children also use automatic immigration?
+### **❓ Can children also use automated immigration clearance?**
 
-Children aged 6 and above can also use automatic immigration at the airport. Please see [Guide to Indonesian/Bali Visa for Children](/en/blog/bali-child-visa-guide/)
+Children aged 6 and above can also use the airport's automated immigration clearance. Check out the [guide to visas for children entering Indonesia/Bali](/en/blog/bali-child-visa-guide/).
 
-### **❓ How long is the tourist visa valid? What happens if I overstay?**
+### **❓ How long is a tourist visa valid? What happens if it expires?**
 
-The validity period for a tourist visa upon entry is 30 days, which can be extended once either at the local immigration office or [online](/en/blog/2024-bali-visa-extension/), allowing a maximum stay of 60 days.
+A tourist visa is valid for 30 days upon entry. You can extend it once at the local immigration office or [online](/en/blog/2024-bali-visa-extension/), allowing a maximum stay of 60 days.
 
-Overstaying incurs a daily fine of 1,000,000 Indonesian Rupiah (approximately USD$65) and is considered illegal residence, potentially leading to detention, deportation, or a ban from entering Indonesia for a specified period.
+If you overstay, you'll be fined 1,000,000 Indonesian Rupiah per day and considered an illegal resident, which may lead to detention, deportation, and a ban from entering Indonesia for a certain period.
 
 ***
 
-## All **Indonesia Frequently Asked Questions:**
+## **Frequently Asked Questions about All Indonesia:**
 
 ### **❓ How far in advance can I apply for** [All Indonesia](https://allindonesia.imigrasi.go.id/) **?**
 
-Since it now integrates health declarations requiring the latest status updates, you can only fill it out three days before your flight.
+Since it now integrates a health declaration requiring the latest status updates, you can only fill it out three days before your flight.
 
-### **❓ Which airports can I use** [All Indonesia](https://allindonesia.imigrasi.go.id/) **for entry?**
+### **❓ Which airports allow entry using** [All Indonesia](https://allindonesia.imigrasi.go.id/) **?**
 
-Three international airports—Jakarta Soekarno-Hatta, Surabaya Juanda, and Bali Ngurah Rai—allow the use of "All Indonesia" for one-stop applications. For other airports, please separately complete the **eVisa**, **eCD Customs Declaration**, and **SSHP Health Declaration** (see [link](/en/blog/bali-entry-requirements/) for instructions).
+Three international airports—Jakarta's Soekarno-Hatta, Surabaya's Juanda, and Bali's Ngurah Rai—allow you to apply via All Indonesia in one go. For other airports, you'll need to separately fill out the **eVisa**, **eCD customs declaration**, and **SSHP health statement** (see instructions [here](/en/blog/bali-entry-requirements/)).
 
 ### **❓ How can I check my application status?**
 
-You can view the latest progress through the "Application Status" option within [All Indonesia](https://allindonesia.imigrasi.go.id/).
+You can check the latest progress via the 'Application Status' option within [All Indonesia](https://allindonesia.imigrasi.go.id/).
 
-### **❓ Can I apply on behalf of family members/travel groups?**
+### **❓ Can I apply on behalf of my family or travel group?**
 
-✅ Yes! Simply fill out one application form with the details of each family/group member. Each group is limited to a maximum of **10 people**. For groups exceeding 10 people, please fill out an additional form.
+✅ Yes! Simply fill in the details of each family or group member in a single application form. Each group is limited to a maximum of **10 people**. For groups larger than 10, please submit another form.
 
 1. **Indonesian citizens** (entering with an Indonesian passport) and **foreign travelers** (entering with a foreign passport) must submit separate declarations.
 
 ### **❓ What file formats are supported for upload?**
 
-Only **JPEG and PNG** formats are accepted. For more details, please refer to the instructions within the application.
+Only **JPEG and PNG** formats are accepted. See the in-app instructions for details.
 
 ### **❓ Which devices are supported?**
 
-Both **PC/Mac** and **Android/iOS** devices are supported.
+**PC/Mac**, **Android/iOS** devices are all supported.
 
 ### **❓ Is my personal data secure?**
 
-The platform strictly adheres to information security standards and uses data solely for immigration-related purposes.
+The platform strictly adheres to security standards, and your data is used solely for immigration-related purposes.
 
-### **❓ Is multilingual support available?**
+### **❓ Is multi-language support available?**
 
-Currently, **Indonesian, English, and Chinese** are supported. You can switch languages in the settings.
+Currently available in **Indonesian, English, and Chinese** — you can switch between them in the settings.
 
-### **❓ What to do after applying for eVoA/eVisa?**
+### **❓ What if I’ve already applied for an e-Visa (eVoA/eVisa)?**
 
-Next, proceed to fill out [All Indonesia](https://allindonesia.imigrasi.go.id/).
+Simply proceed to fill out the form on [All Indonesia](https://allindonesia.imigrasi.go.id/).
 
-### **❓ Is the tourism tax integrated?**
+### **❓ Does it include the tourism tax?**
 
-No. Since the tourism tax is only applicable in Bali and not nationwide, it must be paid through a separate system. Refer to: [Bali Tourism Tax Guide 2024: New Regulations, Payment Methods, and Island-Hopping Tips](/en/blog/2026-bali-tourism-tax-guide/)
+No. The tourism tax is only collected in Bali and does not apply nationwide. You still need to pay the tourism tax through a separate system. See: [Bali Tourism Tax Guide: 2024 New Rules, Payment Methods, and Island-Hopping Tips](/en/blog/2026-bali-tourism-tax-guide/)
 
 ***
 
 ## **Account Issues**
 
-### **🔐 Unable to log in?**
+### **🔐 Can’t log in?**
 
-1. Ensure the email address entered is correct
-2. Check if the password meets the required format (must include uppercase and lowercase letters, numbers, and special characters)
+1. Make sure the email you entered is correct
+2. Check that your password meets the format requirements (must include uppercase and lowercase letters, numbers, and special characters)
 
 ### **🔑 Forgot your password?**
 
-Click "Forgot Password" on the login page and follow the instructions to reset it via your registered email.
+Click 'Forgot Password' on the login page, then follow the instructions to reset it using the email you registered with.
 
-### **📧 Didn't receive an email from Immigration (verification, reset, etc.)?
+### **📧 Didn’t receive an email from the Immigration Office (verification, reset, etc.)?**
 
 1. Check your spam folder
-2. Verify the email address is correct
-3. Delays may occur during peak network times, please wait
+2. Confirm your email address is correct
+3. Delays may occur during peak internet traffic—please wait a moment
 
-### **Contact Customer Service**
+### **Contact Customer Support**
 
-📞 Use the 'Help' feature within the app
+📞 Use the in-app 'Help' feature
 
 {{block:換匯}}

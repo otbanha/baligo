@@ -3,13 +3,14 @@ title: >-
   Panduan Lengkap Belanja Bebas Pajak (VAT Refund for Tourists) di Bali,
   Indonesia
 description: >-
-  Belanja di Bali bisa lebih hemat! Yuk, simak seluk-beluk sistem pengembalian
-  pajak (VAT Refund for Tourists) untuk turis asing di Indonesia: mulai dari
-  batas minimal belanja, logo toko resmi, prosedur di bandara, sampai dokumen
-  yang diperlukan. Ada juga info terbaru soal batas waktu refund 2026 dan cara
-  pencairannya, biar kamu bisa dapat kembali 11% pajak dengan mulus di Bandara
-  Ngurah Rai. Dijamin makin worth it belanja di pulau dewata!
+  Belanja di Bali bisa lebih hemat! Yuk, simak panduan lengkap sistem
+  pengembalian pajak (VAT Refund for Tourists) buat turis asing di Indonesia:
+  mulai dari minimal belanja, logo toko resmi, prosedur di bandara, sampai
+  dokumen yang diperlukan. Ada juga info terbaru soal batas waktu refund 2026
+  dan cara ambil uangnya, biar kamu bisa klaim 11% pajak dengan mulus di Bandara
+  Ngurah Rai dan makin puas belanja di pulau dewata.
 pubDate: 2026-04-16T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 旅行技巧
 tags:
@@ -29,65 +30,70 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 943d8108d7e619f3f936a8ccc73cbac7
+_srcHash: 70fced645d81bb385d349ea76fe1c2a1
 ---
+**Intinya**: Turis asing yang belanja di Bali bisa dapet refund **11-12% PPN (VAT)** — asal belanja di toko yang **ada stiker Tax Refund**, **pajak per faktur minimal Rp 50.000 (total pajak kumulatif minimal Rp 500.000)**, belanja dalam 1 bulan sebelum pulang, dan pas keluar tinggal tunjukin paspor sama faktur di konter refund Bandara Ngurah Rai. **Pajak turis Rp 150.000 yang dibayar pas masuk itu beda urusan, nggak bisa dikompensasi.**
 
-Pemerintah Indonesia punya program 'Tax Refund for Tourists' yang ngasih kesempatan turis asing buat dapetin kembali Pajak Pertambahan Nilai (PPN, saat ini sekitar 11-12%) dari barang yang dibeli. Ini dia aturan resmi terbaru (dari Direktorat Jenderal Pajak pajak.go.id, berlaku 2026), khususnya buat belanja di Bali.
+Pemerintah Indonesia punya program 'Tax Refund for Tourists' yang ngasih kesempatan turis asing buat dapet refund PPN (VAT, sekitar 11-12%) dari barang yang dibeli. Ini aturan resmi terbaru (dari Direktorat Jenderal Pajak pajak.go.id, berlaku 2026), khususnya buat belanja di Bali.
 
-## 1. **Siapa yang Berhak Dapet Refund?**
+## 1. **Siapa yang berhak refund?**
 
-- Punya paspor asing (bukan warga negara Indonesia atau penduduk tetap).
-- Lama tinggal di Indonesia **tidak lebih dari 60 hari** (dihitung dari hari masuk).
-- Kru pesawat **tidak bisa** refund.
-- Barang harus **dibawa sebagai bagasi kabin** saat keluar Indonesia (nggak boleh dikirim atau masuk bagasi terdaftar).
-- Waktu beli harus **dalam 1 bulan sebelum keberangkatan**, dan barang harus dibawa keluar Indonesia dalam 1 bulan setelah pembelian.
+- Turis pemegang paspor asing (bukan WNI atau penduduk tetap).
+- Lama tinggal di Indonesia **maksimal 60 hari** (dihitung dari hari masuk).
+- Kru pesawat **nggak boleh** refund.
+- Barang harus **dibawa sebagai bagasi kabin** pas pulang (nggak boleh check-in atau dikirim).
+- Waktu belanja maksimal **1 bulan sebelum pulang**, dan barang harus dibawa keluar Indonesia dalam 1 bulan setelah dibeli.
 
-**Catatan**: Pajak turis asing di Bali (IDR 150,000) itu pajak masuk, **nggak bisa direfund**, beda banget sama refund belanja.
+**Catatan**: Pajak turis asing Bali (IDR 150.000) itu pajak masuk, **nggak bisa direfund**, beda banget sama refund belanja.
 
-## 2. **Apa yang Perlu Diperhatikan Waktu Belanja?**
+## 2. **Yang perlu diperhatikan pas belanja**
 
-![2. Apa yang Perlu Diperhatikan Waktu Belanja?](https://images.gobaligo.id/images/2026-04/1776321690797-untitled_design_24_.webp)
+![2. 購物時要注意什麼？](https://images.gobaligo.id/images/2026-04/1776321690797-untitled_design_24_.webp)
 
-- **Hanya** di toko yang ada logo **'Tax Refund for Tourists'** atau **'VAT Refund for Tourists'** (kebanyakan mal besar, toko branded, daerah Kuta, Seminyak, Ubud, dll udah punya).
-- **Wajib tunjukin paspor** waktu belanja, bilang ke kasir mau refund PPN, nanti toko bakal kasih **faktur pajak resmi** (valid tax invoice) beserta struk pembayaran.
+- **Cuma** di toko yang ada stiker **'Tax Refund for Tourists'** atau **'VAT Refund for Tourists'** (biasanya di mal besar, toko brand, daerah Kuta, Seminyak, Ubud, dll).
+- Pas belanja **wajib tunjukin paspor**, bilang ke kasir mau VAT Refund, nanti toko bakal kasih **faktur pajak resmi** (valid tax invoice) lengkap dengan bukti bayar.
 - **Minimal belanja**:
     - Pajak per faktur minimal Rp 50.000 (kira-kira total harga barang Rp 500.000).
     - Total pajak dari semua faktur minimal Rp 500.000 baru bisa refund (faktur dari toko beda atau tanggal beda **bisa digabung**).
-- Simpan semua faktur, kemasan, dan barang dalam kondisi utuh (bakal diperiksa pas keluar).
+- Simpan semua faktur, kemasan, dan barang dalam kondisi utuh (bakal diperiksa pas di bandara).
 
-**Tips**: Nggak semua toko punya logo, mending tanya dulu ke kasir atau cek daftar toko resmi di [www.pajak.go.id](http://www.pajak.go.id).
+**Tips**: Nggak semua toko punya stiker, tanya dulu ke kasir atau cek daftar toko peserta di website resmi [www.pajak.go.id](http://www.pajak.go.id).
 
-## 3. **Prosedur Refund (Cara Paling Umum di Bali)**
+## 3. **Proses Refund Pajak (Cara Paling Umum di Bali)**
 
-1. **Setelah selesai belanja**: kumpulin semua faktur pajak.
+1. **Setelah Selesai Belanja**: Kumpulkan semua faktur pajak.
+2. **Hari Keberangkatan (Bandara Internasional I Gusti Ngurah Rai Bali DPS)**:
 
-2. **Hari keberangkatan (Bandara Internasional Ngurah Rai Bali DPS)**:
+    - Minta aplikasi resmi dulu lewat HP atau komputer: Buka [**https://vatrefundapp.pajak.go.id/**](https://vatrefundapp.pajak.go.id/) login atau daftar → buat pengajuan refund baru → isi alamat, tanggal keberangkatan/kedatangan → pilih faktur yang mau direfund → pilih metode refund → foto barang → submit.
+    - Langsung ke **Konter Tax Refund**: **Lokasi**: Terminal Internasional **Lantai 3** (dekat area keberangkatan).
+    - Siapkan: paspor, boarding pass, semua faktur pajak, barang fisik (untuk diperiksa).
+    - Setelah petugas bea cukai/pajak verifikasi, refund bisa diproses.
 
-   - Mending apply dulu lewat aplikasi resmi di HP atau laptop: masuk ke [**https://vatrefundapp.pajak.go.id/**](https://vatrefundapp.pajak.go.id/) login atau daftar → buat permohonan refund baru → isi alamat, tanggal berangkat/datang → pilih faktur yang mau direfund → pilih cara refund → foto barang → submit.
-   - Langsung ke **konter Tax Refund**: **Lokasi**: Terminal Internasional **Lantai 3** (dekat area keberangkatan).
-   - Siapin: paspor, boarding pass, semua faktur pajak, barang fisik (buat diperiksa).
-   - Setelah petugas bea cukai/pajak verifikasi, refund bisa cair.
+**Saran**: Sisihkan minimal 30-60 menit untuk urus ini, sebaiknya setelah check-in dan sebelum pemeriksaan keamanan. Saat jam sibuk banyak orang, datang lebih awal ke bandara.
 
-**Saran**: sisihin waktu minimal 30-60 menit buat urus ini, mending selesaiin setelah check-in tapi sebelum security check. Pas jam sibuk banyak orang, jadi datang lebih awal ke bandara.
+## 4. **Metode Refund & Batas Jumlah**
 
-## 4. **Cara Refund & Batas Jumlah**
+- **Refund Tunai** (Rupiah IDR): Kalau total refund **≤ Rp 5.000.000**, bisa langsung ambil tunai di bandara.
+- **Lebih dari Rp 5.000.000**: Harus transfer bank (siapkan nomor rekening luar negeri, nama pemilik, SWIFT Code, dll), masuk dalam 1 bulan; atau pilih ambil tunai Rp 5.000.000 aja, sisanya dianggap hangus.
+- Jumlah refund = bagian PPN di faktur (mungkin dikurangi sedikit biaya administrasi).
 
-- **Refund tunai** (Rupiah IDR): kalau total refund **≤ Rp 5.000.000**, bisa langsung ambil tunai di bandara.
-- **Lebih dari Rp 5.000.000**: harus transfer bank (kasih nomor rekening luar negeri, nama pemilik, SWIFT Code, dll), masuk dalam 1 bulan; atau pilih ambil tunai Rp 5.000.000 aja, sisanya dianggap gugur.
-- Jumlah refund = bagian VAT di faktur (mungkin dikurangi biaya admin kecil).
+## 5. **Barang yang Biasa Dikecualikan**
 
-## 5. **Barang yang Gak Bisa Direfund**
+- Makanan, minuman, produk tembakau, senjata api, bahan peledak, barang yang dilarang dibawa ke pesawat.
+- Jasa (akomodasi, restoran, sewa mobil, tur guide, dll) tidak bisa direfund.
+- Toko tanpa logo, faktur tanpa mencantumkan paspor, atau barang fisik tidak dibawa keluar, semuanya tidak bisa direfund.
 
 {{block:klook}}
 
-- Makanan, minuman, rokok, senjata api, bahan peledak, barang yang dilarang di pesawat.
-- Jasa (akomodasi, restoran, sewa mobil, tur guide, dll) gak bisa refund.
-- Toko tanpa logo resmi, faktur tanpa paspor, barang yang gak dibawa keluar negeri, semuanya gak bisa refund.
-
-![5. Barang yang Gak Bisa Direfund](https://images.gobaligo.id/images/2026-04/1776321764381-vat_refund_11zon.jpeg)
-
 ## 6. **Tips Praktis (Wajib Tahu buat yang Belanja di Bali)**
+
+![6. 實用小Tips（峇里島購物族必看）](https://images.gobaligo.id/images/2026-04/1776321764381-vat_refund_11zon.jpeg)
 
 ▲ Konter refund di bandara
 
-Ikuti langkah-langkah di atas, ternyata ngurus refund pajak itu gampang banget! Kalau kamu belanja banyak barang branded, oleh-oleh, atau suvenir di Bali, jangan lupa simpan struk dan foto barangnya. Pas keluar dari Bali, kamu bisa dengan mudah dapetin pajak kembali. Selamat belanja dan semoga refund pajaknya lancar! 🛍️
+- Zona toko bebas pajak populer: Kuta, Seminyak, Discovery Mall, Bali Collection, dll.
+- Konter refund pajak di bandara hanya ada di **terminal internasional**, transit domestik tidak bisa diproses.
+- Disarankan kumpulkan beberapa struk kecil hingga mencapai batas minimum, kalau berdua bisa pisah refund (masing-masing dihitung sendiri).
+- Info terbaru selalu cek situs resmi **pajak.go.id**, aturan bisa berubah sewaktu-waktu.
+
+Kalau ikuti langkah di atas, refund pajak ternyata gampang banget! Kalau kamu belanja banyak barang branded, oleh-oleh, atau suvenir di Bali, jangan lupa simpan struk dan foto barangnya, pas keluar negeri tinggal klaim aja. Selamat belanja dan semoga refund lancar! 🛍️

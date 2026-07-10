@@ -1,18 +1,20 @@
 ---
 slug: bali-chinese-temples-guide
 title: "巴厘岛六大中式寺庙/佛寺介绍：感受岛屿中的禅意与华人寺庙 \U0001F338"
-description: "巴厘岛以印度教寺庙闻名，但其实岛上也有几座充满东方色彩的中式佛教寺庙。这些寺庙不仅展现了华人移民在巴厘岛的历史痕迹，也成为旅人寻找静心与文化融合的独特角落。以下为你介绍六座值得造访的巴厘岛寺庙/佛寺\U0001F447"
+description: "巴厘岛以印度教寺庙闻名，但其实岛上也散落着几座充满东方色彩的中式佛教寺庙。这些寺庙不仅展现了华人移民在巴厘岛的历史痕迹，也成为旅人寻找静心与文化融合的独特角落。以下为你介绍六座值得造访的巴厘岛寺庙/佛寺\U0001F447"
 pubDate: 2025-10-25T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 美食景點活動
 tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0b2a80bca6d13f204b5a0e41bf717e85.jpg'
 originalUrl: 'https://vocus.cc/article/68fc59fdfd89780001842abe'
 lang: zh-cn
-_srcHash: 6f5db0c14fca061958945ef9baf5b2a5
+_srcHash: ba88b026e167be1cd2e9c82b0b938ca7
 ---
+**先讲结论**：巴厘岛六大中式佛寺推荐首选**法光寺（Vihara Dharmayana）**，位于库塔市区巷弄间，创建于 1876 年、已有超过 200 年历史，是巴厘岛最古老的佛教寺庙之一，闹区中寻求片刻宁静的绝佳去处；西巴厘塔巴南的法吉禅寺则以巨大卧佛像闻名。
 
-巴厘岛以印度教寺庙闻名，但其实岛上也有几座充满东方色彩的中式佛教寺庙。这些寺庙不仅展现了华人移民在巴厘岛的历史痕迹，也成为旅人寻找静心与文化融合的独特角落。
+巴厘岛以印度教寺庙闻名，但其实岛上也散落着几座充满东方色彩的中式佛教寺庙。这些寺庙不仅展现了华人移民在巴厘岛的历史痕迹，也成为旅人寻找静心与文化融合的独特角落。
 
 以下为你介绍六座值得造访的巴厘岛寺庙/佛寺👇
 
@@ -20,15 +22,15 @@ _srcHash: 6f5db0c14fca061958945ef9baf5b2a5
 
 ### 🏮 **1. 法光寺（Vihara Dharmayana）｜库塔**
 
-![1. 法光寺（Vihara Dharmayana）｜库塔](https://images.gobaligo.id/vocus/vocus_c97c1a79a14cdb7a094a888ce573dae2.jpg)
+![1. 法光寺（Vihara Dharmayana）｜庫塔](https://images.gobaligo.id/vocus/vocus_c97c1a79a14cdb7a094a888ce573dae2.jpg)
 
-隐藏在热闹库塔市区的巷弄间，**法光寺**是巴厘岛最古老的佛教寺庙之一，创建于1876年，已有超过200年的历史。寺庙外围环绕着一圈有乌龟栖息的小水池，主殿则以鲜艳的红柱、巨龙雕塑与大红灯笼为特色，充满浓厚的中式氛围。这里静谧安详，与外头喧闹的海滩形成强烈对比，是在库塔闹区中寻得片刻清宁的绝佳去处。
+隐身在热闹库塔市区的巷弄间，**法光寺**是巴厘岛最古老的佛教寺庙之一，创建于1876年，已有超过200年的历史。寺庙外围环绕着一圈有乌龟栖息的小水池，主殿则以鲜艳的红柱、巨龙雕塑与大红灯笼为特色，充满浓厚的中式氛围。这里静谧安详，与外头喧闹的海滩形成强烈对比，是在库塔闹区中寻得片刻清宁的绝佳去处。
 
 ***
 
 ### 🌿 **2. 法吉禅寺（Vihara Dharma Giri Temple）｜塔巴南区，西巴厘岛**
 
-![2. 法吉禅寺（Vihara Dharma Giri Temple）｜塔巴南区，西巴厘岛](https://images.gobaligo.id/vocus/vocus_e2b5cbc2609a02a0e190331f413afd26.jpg)
+![2. 法吉禪寺（Vihara Dharma Giri Temple）｜塔巴南區，西峇里島](https://images.gobaligo.id/vocus/vocus_e2b5cbc2609a02a0e190331f413afd26.jpg)
 
 位于西巴厘塔巴南（Tabanan）山区的**法吉禅寺**，最著名的亮点是那尊**巨大的卧佛像**。寺庙分为三层，每层都有不同的设计与功能，并设有宁静的花园与观景平台。这里空气清新、景色优美，游客可自由漫步其中，感受佛教的祥和氛围，也是许多人前往西巴厘时特意安排的一站。
 
@@ -36,7 +38,7 @@ _srcHash: 6f5db0c14fca061958945ef9baf5b2a5
 
 ### 🕊 **3. 梵天寺（Brahma Vihara Arama Buddhist Monastery）｜班嘉区，北巴厘岛**
 
-![3. 梵天寺（Brahma Vihara Arama Buddhist Monastery）｜班嘉区，北巴厘岛](https://images.gobaligo.id/vocus/vocus_c227915a15c932da1e5530467e36dfcc.jpg)
+![3. 梵天寺（Brahma Vihara Arama Buddhist Monastery）｜班嘉區，北峇里島](https://images.gobaligo.id/vocus/vocus_c227915a15c932da1e5530467e36dfcc.jpg)
 
 位于北巴厘班嘉（Banjar）地区的**梵天寺**，建于1960年代，是**巴厘岛大型的佛寺**。这座寺庙同时也是一座仍在运作的修道院，僧侣每日诵经修行。寺内建筑融合巴厘传统与佛教风格，并可远眺罗威那（Lovina）的海岸线。这里不仅是佛教徒朝圣之地，也是旅人静心冥想、远离尘嚣的理想场所。
 
@@ -44,7 +46,7 @@ _srcHash: 6f5db0c14fca061958945ef9baf5b2a5
 
 ### 🕍 **4. 八菩萨佛法寺（Vihara Buddha Dharma）｜水明漾**
 
-![4. 八菩萨佛法寺（Vihara Buddha Dharma）｜水明漾](https://images.gobaligo.id/vocus/vocus_202f5bcbe1e52ec63840a101dcb7620e.jpg)
+![4. 八菩薩佛法寺（Vihara Buddha Dharma）｜水明漾](https://images.gobaligo.id/vocus/vocus_202f5bcbe1e52ec63840a101dcb7620e.jpg)
 
 位于水明漾（Seminyak）的**八菩萨佛法寺**，于2007年落成，是一座**新颖而现代化的佛教寺庙**。虽然历史不长，但它已成为当地与国际佛教徒共同礼佛的重要场域。寺内环境整洁明亮，香火鼎盛，对于想在水明漾体验一场心灵洗涤的旅人而言，这里交通方便又宁静舒适。
 
@@ -60,7 +62,7 @@ _srcHash: 6f5db0c14fca061958945ef9baf5b2a5
 
 ### 🏮 **6. 保安宫/萨迦法寺（Vihara Satya Dharma Temple）｜巴厘岛港口区（Benoa Harbour）**
 
-![6. 保安宫/萨迦法寺（Vihara Satya Dharma Temple）｜巴厘岛港口区（Benoa Harbour](https://images.gobaligo.id/vocus/vocus_e2f1db13b9d1b0b61ad8eeede51d4507.jpg)
+![6. 保安宮/薩迦法寺（Vihara Satya Dharma Temple）｜峇里島港口區（Benoa Harbour](https://images.gobaligo.id/vocus/vocus_e2f1db13b9d1b0b61ad8eeede51d4507.jpg)
 
 位于**伯努瓦港（Benoa Harbour）旁，萨迦法寺是巴厘岛最华丽的中式佛教寺庙之一**。寺庙建筑风格气派非凡，屋顶飞檐翘角、朱红色的墙柱与金色神像交织出壮观的视觉效果，让人一踏入就感受到浓厚的华人文化氛围。
 
@@ -75,6 +77,6 @@ _srcHash: 6f5db0c14fca061958945ef9baf5b2a5
 - 入寺前请穿着整齐。
 - 避免将脚底朝向佛像或祭坛。
 - 保持平和心念，勿大声喧哗。
-- 女性在月事期间或产后六周内，传统上不宜入寺。
+- 女性在月经期间或产后六周内，传统上不宜入寺。
 
 {{block:親子}}

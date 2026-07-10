@@ -1,10 +1,11 @@
 ---
 slug: hotel-room-type-guide
-title: “Double bed room”竟然不是“双床房”！订房千万别闹笑话！
+title: 「Double bed room」竟然不是「双床房」！订房千万别闹笑话！
 description: >-
-  在选择住宿时，不同房型的名称常常让人摸不着头脑，特别是如果我们只凭字面翻译，可能会让人误解。为了让每次订房都能选到最适合的房间，让我们仔细了解12个常见房型的差异。
+  在选择住宿时，不同房型的名称常常让人摸不着头脑，特别是如果我们只凭字面翻译，可能会让人误解。为了让每次订房都能选到最适合的房间，让我们仔细了解12个常见房型的差异。 
   1. Double Bed Room ≠ 双床房
 pubDate: 2024-11-06T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 住宿推薦
 tags:
@@ -16,10 +17,11 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_c2b98df8328054c746981a1c97e44f0f.jpg'
 originalUrl: 'https://vocus.cc/article/67239706fd89780001749b01'
 lang: zh-cn
-_srcHash: 6996ed04aebd2e279e745feee30fe7e2
+_srcHash: 3ee3ad6bf23dcc12463617a07144605c
 ---
+![「Double bed room」竟然不是「雙床房」！訂房千萬別鬧笑話！](https://images.gobaligo.id/vocus/vocus_4987be535ea54598e53f32ecf38facc4.jpg)
 
-![“Double bed room”竟然不是“双床房”！订房千万别闹笑话！](https://images.gobaligo.id/vocus/vocus_4987be535ea54598e53f32ecf38facc4.jpg)
+**先讲结论**：订房常见误区——**「Double Bed Room」是「一张双人床」的房型，不是「两张床」**；想要两张分开的床要选 **「Twin Bed Room」**。订房前务必看清楚房型英文名称的实际定义，避免抵达后才发现床型不符期待。
 
 在选择住宿时，不同房型的名称常常让人摸不着头脑，特别是如果我们只凭字面翻译，可能会让人误解。为了让每次订房都能选到最适合的房间，让我们仔细了解几个常见房型的差异。
 
@@ -27,9 +29,9 @@ _srcHash: 6996ed04aebd2e279e745feee30fe7e2
 
 ![2024剛開幕 Holiday Inn Resort Bali Canggu 的 double room, 收錄於「Canggu Top 11 你不能錯過的住宿推薦」](https://images.gobaligo.id/vocus/vocus_c202fe1efa750793438b4dc51b3ef8cd.jpg)
 
-[2024刚开幕 Holiday Inn Resort Bali Canggu 的 double room, 收录于「Canggu Top 11 你不能错过的住宿推荐」](/zh-cn/blog/canggu-top-hotels-guide/)
+[2024刚开业 Holiday Inn Resort Bali Canggu 的 double room, 收录于「Canggu Top 11 你不能错过的住宿推荐」](/zh-cn/blog/canggu-top-hotels-guide/)
 
-首先，“Double Bed Room”并非“双床房”。这类房型通常配置一张双人床（Double Bed），适合两人共享一张床的房间。而如果你希望有两张分开的床，那么应该选择“Twin Bed Room”。
+首先，「Double Bed Room」并非「双床房」。这类房型通常配置一张双人床（Double Bed），适合两人共享一张床的房间。而如果你希望有两张分开的床，那么应该选择「Twin Bed Room」。
 
 ## 2. Twin Bed Room
 
@@ -37,7 +39,7 @@ _srcHash: 6996ed04aebd2e279e745feee30fe7e2
 
 [Mövenpick Resort & Spa Jimbaran 的 Twin Bed Room 收录于「推荐巴厘岛13家庭亲子度假村」](/zh-cn/blog/bali-family-resorts-kids-club/)
 
-“Twin Bed Room”是指两张单人床的房型，通常适合朋友、同事或家庭成员入住，每人拥有一张床的私人空间。这和双人床（Double Bed）不同，因为每张床都可以独立使用，避免了睡眠空间的拥挤问题。
+「Twin Bed Room」是指两张单人床的房型，通常适合朋友、同事或家庭成员入住，每人拥有一张床的私人空间。这和双人床（Double Bed）不同，因为每张床都可以独立使用，避免了睡眠空间的拥挤问题。
 
 ## 3. Queen Room 与 King Room
 
@@ -45,17 +47,17 @@ _srcHash: 6996ed04aebd2e279e745feee30fe7e2
 
 [Ayana Villas 里的 king size 床，收录于「金巴兰住宿推荐」](/zh-cn/blog/2023-11-09-654c6271fd8978000174ff5e/)
 
-「Queen Room」和「King Room」则是根据床的尺寸来命名的房型。「Queen Room」配置一张女王尺寸的床（Queen Bed），略大于标准双人床，适合两人舒适入住。而「King Room」则拥有国王尺寸的床（King Bed），床铺宽敞，是情侣或夫妻的理想选择。这些房型对于追求高舒适度的旅客来说无疑是一大亮点。
+「Queen Room」和「King Room」是根据床的尺寸来命名的房型。「Queen Room」配置一张女王尺寸的床（Queen Bed），略大于标准双人床，适合两人舒适入住。而「King Room」则拥有国王尺寸的床（King Bed），床铺宽敞，是情侣或夫妻的理想选择。这些房型对于追求高舒适度的旅客来说无疑是一大亮点。
 
-值得注意的是国际上使用来标示床尺寸的方式，跟台湾的标示方法有很多不一样哦！**Queen Size床尺寸差异**
+值得注意的是国际上使用来标示床尺寸的方式，跟台湾的标示方法有很多不一样喔！**Queen Size床尺寸差异**
 
-- 国际订房网站的Queen Bed：152公分宽 × 203公分长，跟台湾俗称的标准5尺床：152公分宽 × 188公分长，宽度是一样的
-- 台湾queen size（6尺床）：182公分宽 × 188公分长
+- 国际订房网站的Queen Bed：152厘米宽 × 203厘米长，跟台湾俗称的标准5尺床：152厘米宽 × 188厘米长，宽度是一样的
+- 台湾queen size（6尺床）：182厘米宽 × 188厘米长
 
 **King Size床尺寸差异**
 
-- 国际惯用King Bed：76 × 80英寸（约193公分 × 203公分）
-- 台湾king size 7尺床：182公分宽 × 212公分长
+- 国际惯用King Bed：76 × 80英寸（约193厘米 × 203厘米）
+- 台湾king size 7尺床：182厘米宽 × 212厘米长
 
 这些差异意味着，在看国外订房网站或购买国际品牌床垫时，务必了解地区上的差异。
 
@@ -71,15 +73,15 @@ _srcHash: 6996ed04aebd2e279e745feee30fe7e2
 
 ![The River Studio ，收錄於「Canggu 16間私人泳池別墅推薦」](https://images.gobaligo.id/vocus/vocus_a71d09b55969fb57a332768ae1fbce57.jpg)
 
-[The River Studio ，收录于「坎古 16间私人泳池别墅推荐」](/zh-cn/blog/canggu-villas-guide/)
+[The River Studio ，收录于「坎古16间私人泳池别墅推荐」](/zh-cn/blog/canggu-villas-guide/)
 
-「Studio」房型类似于开放式公寓，通常将卧室、客厅、厨房等功能区域整合在一个空间内。这类房型适合短期或长期单人或夫妻入住，拥有私人但紧凑的空间安排。
+「Studio」房型类似于开放式公寓，通常将卧室、客厅、厨房等功能区域整合在一个空间内。这类房型适合短期或长期单人或者夫妻入住，拥有私人但紧凑的空间安排。
 
 ## 6. Family Room（家庭房）
 
 ![Hard Rock Bali 家庭房，收錄在「峇里島親子樂園：十五家擁有滑水道溜滑梯的親子渡假村」](https://images.gobaligo.id/vocus/vocus_59bf19edf13be74385d34d2e11c0abd4.png)
 
-[Hard Rock Bali 家庭房，收录在「巴厘岛亲子乐园：十五家拥有滑水道滑梯的亲子度假村」](/zh-cn/blog/bali-family-resorts-water-slides/)
+[Hard Rock Bali 家庭房，收录在「巴厘岛亲子乐园：十五家拥有滑水道溜滑梯的亲子度假村」](/zh-cn/blog/bali-family-resorts-water-slides/)
 
 「Family Room」是为家庭设计的房型，一般设置多张床或沙发床，甚至可以容纳三至四人同时入住。这类房型适合带小孩的家庭旅行者，提供充足的空间和设施，让全家出游更加轻松舒适。
 
@@ -121,7 +123,7 @@ _srcHash: 6996ed04aebd2e279e745feee30fe7e2
 
 ![峇里島很多有特色的bamboo villas，請看「9家令人嘆為觀止竹屋別墅」](https://images.gobaligo.id/vocus/vocus_9e29ac8b042c3e76181cc5143fbc4bcc.jpg)
 
-[巴厘岛有很多有特色的bamboo villas，请看「9家令人叹为观止竹屋别墅」](/zh-cn/blog/ubud-treehouse-bamboo-villa-stays/)
+[巴厘岛很多有特色的bamboo villas，请看「9家令人叹为观止竹屋别墅」](/zh-cn/blog/ubud-treehouse-bamboo-villa-stays/)
 
 「Bamboo Villa」是一种以竹子作为主要建筑材料的别墅，体现了环保与自然和谐的概念。巴厘岛等地区的竹屋别墅以简洁自然的设计风格著称，让人远离喧嚣、享受清新空气和自然之美。竹屋通常采用开放式设计，通风良好，能让旅客感受凉爽的微风，非常适合喜爱独特设计与环保理念的旅客，也能增添整趟旅行的原始感与特别回忆。
 

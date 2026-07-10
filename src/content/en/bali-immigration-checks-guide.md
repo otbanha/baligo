@@ -1,14 +1,15 @@
 ---
 slug: bali-immigration-checks-guide
 title: >-
-  Must-read for Bali travelers! Immigration police are conducting random checks
-  — do you need printed copies of entry documents?
+  Must-Know for Bali! Immigration Police Random Checks – Do You Need Printed
+  Entry Documents?
 description: >-
-  While Bali entry documents (visa, tourism tax, Arrival Card) officially allow
-  electronic versions, immigration police are now conducting random checks
-  across various locations. It's strongly recommended to carry printed copies as
-  backup to avoid unnecessary trouble.
+  Bali entry documents (visa, tourism tax, Arrival Card) are officially allowed
+  in digital form, but since immigration police are now conducting random checks
+  across the island, it's strongly recommended to carry printed backups to avoid
+  unnecessary trouble.
 pubDate: '2025-09-09'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6edc5fad9df5889dbc92a46e84e4bc6b.png'
 tags:
   - 峇里島旅遊
@@ -20,39 +21,40 @@ originalUrl: 'https://vocus.cc/article/68bf8728fd897800013427c2'
 category:
   - 簽證通關
 lang: en
-_srcHash: a996e644cc724f5fcf4626e334a28878
+_srcHash: 155e3c989f5db6893b33e2a670f54deb
 ---
+**Bottom line**: Officially, e-visas, Arrival Cards, and tourism tax receipts only need to be digital for entry. However, because immigration police have recently been conducting random checks at tourist spots, on roads, and around hotels, it's highly recommended to print all three documents on A4 paper and carry them with you—paper can save you when your phone dies or has no signal, and it's faster than fumbling through phone screenshots.
 
 ## **Many are asking: Do I need to print them?**
 
-![Many are asking: Do I need to print them?](https://images.gobaligo.id/vocus/vocus_1ff5703b8036ffd6acb543380c8cc3dc.png)
+![很多人都在問：需要列印嗎？](https://images.gobaligo.id/vocus/vocus_1ff5703b8036ffd6acb543380c8cc3dc.png)
 
-Essential documents for traveling to Bali include:
+When traveling to Bali, the required documents include:
 
 - **Electronic Visa (VOA / e-VOA)**
-- **All Indonesia Arrival Card (Customs Declaration/Health Declaration)**
-- **Bali Tourism Tax Receipt (QR Code)**
+- **All Indonesia Arrival Card (customs declaration/health declaration card)**
+- **Bali Tourism Tax Voucher (QR Code)**
 
-Official regulations state that **electronic versions of these documents are sufficient**, and travelers can show them on their phones for entry.
+Officially, these documents only need to be digital—you can show them on your phone to clear immigration.
 
-However, many travelers have recently noticed that 👉 **immigration police are conducting random checks across Bali**, especially near tourist attractions, roads, and hotels. If you can't provide the required documents on the spot, you may face delays or even fines.
+But recently, many travelers have noticed—👉 **Immigration police have started random checks across Bali**, especially near tourist attractions, roads, or hotels. If you can't provide the required documents on the spot, you may face delays or even fines.
 
 ---
 
-## **Conclusion: You don't have to print, but it's better to!**
+## **Conclusion: You don't have to print, but it's best to print!**
 
-While printed copies aren't mandatory, **having them as backup ensures peace of mind during your trip**.
+Although there's no mandatory requirement for paper copies, **printing backups will give you peace of mind during your trip**.
 
-### **Why print them?**
+### **Why Print It?**
 
-1. **Phone out of battery or no internet** → A printed copy can be presented anytime.
-2. **Immigration police random checks** → Printed copies are much faster than scrolling through phone screenshots.
-3. **Hotel or local service requirements** → Some establishments still prefer to review printed documents.
+1. **Phone dead or no signal** → A paper copy is always ready to show.
+2. **Random immigration police checks** → Paper is much faster than scrolling through phone screenshots.
+3. **Hotel or local service requests** → Some places still prefer to see a physical copy.
 
-👉 Recommendation:
+👉 **Recommendation:**
 
-- Print one A4 black-and-white copy of each: **e-Visa, tourism tax receipt, Arrival Card QR Code**.
-- Carry them with you to avoid any hassles during your trip.
+- Print one A4 black-and-white copy each of your **e-Visa, Tourism Levy receipt, and Arrival Card QR Code**.
+- Keep them on you to avoid trouble during your trip.
 
 ---
 
@@ -62,65 +64,65 @@ While printed copies aren't mandatory, **having them as backup ensures peace of 
 
 - VOA: Apply on arrival at the airport
 - e-VOA: Apply in advance at [evisa.imigrasi.go.id](https://evisa.imigrasi.go.id)
-- Fee: IDR 500,000 (approx. USD$32)
+- Fee: 500,000 IDR (approximately USD$16)
 
 ### **2. All Indonesia Arrival Card**
 
-- Replaces the previous health declaration, customs form, and quarantine form
+- Replaces the previous health declaration, customs form, and quarantine sheet
 - **Free**, fill it out within 72 hours before arrival
-- Receive a **QR Code** after submission (via Email / App)
+- After submission, you'll receive a **QR Code** (via Email / App)
 
 ### **3. Bali Tourism Levy**
 
-- IDR 150,000 per foreign tourist (approx. USD$10)
-- Platform: [lovebali.baliprov.go.id](https://lovebali.baliprov.go.id) or **Love Bali App**
-- Receive an electronic receipt upon completion
+- 150,000 Indonesian Rupiah per foreign visitor (about USD$10)
+- Platform: [lovebali.baliprov.go.id](https://lovebali.baliprov.go.id) or the **Love Bali App**
+- Receive an electronic certificate upon completion
 
-**4. Documents to Present Upon Arrival**
+**4. Must present upon arrival**
 
-- Passport, Visa (VOA / e-VOA)
+- Passport, visa (VOA / e-VOA)
 - All Indonesia QR Code
-- Tourism Tax Receipt
+- Tourism tax certificate
 
 **Further Reading:**
 
-- [August 2025 Bali, Indonesia Entry Using the 'All Indonesia' Declaration System｜1-Minute Guide to the Latest Process: From Landing → Customs → Baggage Claim](/en/blog/bali-all-indonesia-arrival-guide/)
-- [Indonesia/Bali Entry eVisa, eCD Customs, SSHP Health Declaration Must-Fill All Indonesia FAQ](/en/blog/bali-evisa-customs-health-declaration/)
+- [2025/08 Bali Entry Using the 'All Indonesia' Declaration System: A 1-Minute Guide to the Latest Process—From Landing to Customs to Baggage Claim](/en/blog/bali-all-indonesia-arrival-guide/)
+- [Indonesia/Bali Entry: eVisa, eCD Customs, SSHP Health Declaration, and All Indonesia FAQ](/en/blog/bali-evisa-customs-health-declaration/)
 
 ---
 
 ## **Frequently Asked Questions (FAQ)**
 
-### **1. Can I Show Entry Documents on My Phone?**
+### **1. Can I just show entry documents on my phone?**
 
-Theoretically yes, but having printed copies is more convenient if immigration officers decide to inspect.
+In theory, yes, but if immigration police stop you for a check, a printed copy is more convenient.
 
-### **2. Will Immigration Officers Really Inspect?**
+### **2. Do immigration police really conduct spot checks?**
 
-Yes, currently in many tourist spots, roads, or tourist areas in Bali, immigration officers randomly request document checks.
+Yes, currently in Bali, immigration police randomly request document checks at many attractions, roads, and tourist areas.
 
-### **3. Is the All Indonesia Arrival Card Free?**
+### **3. Is the All Indonesia Arrival Card free?**
 
 Completely free, but it can only be filled out within 72 hours before arrival.
 
-### **4. What If I Forget to Pay the Tourism Tax?**
+### **4. What if I forget to pay the tourist tax?**
 
-Payment may be required on-site upon entry or at some scenic areas, so it's best to complete it in advance.
+You may be asked to pay on the spot upon entry or at certain attractions, so it's best to take care of it in advance.
 
-### **5. Do I need to print in color?**
+### **5. Does the printout need to be in color?**
 
-No, black and white is fine as long as it's clear and readable.
+No, black and white is fine, as long as it's clear and legible.
 
-## 📩 **"Bali Travel Guide" Homepage Overview**
+## 📩 **'Bali Travel Guide' Homepage Overview**
 
-!["Bali Travel Guide" Homepage Overview](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
+![「峇里島旅遊攻略」首頁說明](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 
 **By subscribing for free, you'll get:**
 
-- Latest Bali news to keep you informed with up-to-date travel information
-- In-depth guides to help you plan budget-friendly and stress-free itineraries
+- Latest Bali news to keep you informed of travel updates
+- In-depth guides to make your trip both budget-friendly and worry-free
 - Exclusive recommendations for hidden gems and local food maps
 - Content you won't find in Facebook groups
-- Collecting the most travel planning advice from fellow travelers for seamless trip experiences
+- Curated itinerary advice from fellow travelers for a seamless experience every time
 
-Sign up easily using your Google or Facebook account!
+Register easily with your Google or Facebook account!

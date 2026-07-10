@@ -1,10 +1,11 @@
 ---
-title: 【巴厘岛家居挖宝】贝壳吊灯不到30美元！海运/空运攻略，把南洋度假风扛回家
+title: 【巴厘岛家居挖宝】贝壳吊灯不到一百美金！海运/空运攻略，把南洋度假风扛回家
 slug: bali-home-decor-shopping-guide
 description: >-
   想把 Villa
-  的浪漫带回家？深度开箱巴厘岛家居批发市场：从乌布手工木雕、金巴兰贝壳制品到各式编织吊灯，价格惊艳到让你直接想扛一箱！本篇整理必逛挖宝圣地、砍价技巧及寄送回中国的运费解析。由在地专家带路，教您如何用小预算打造梦幻南洋居家空间。
+  的浪漫带回家？深度开箱巴厘岛家居批发市场：从乌布手工木雕、金巴兰贝壳制品到各式编织吊灯，价格惊艳到让你直接想扛一箱！本篇整理必逛挖宝圣地、杀价技巧及寄送回中国的运费解析。由在地专家带路，教您如何用小预算打造梦幻南洋居家空间。
 pubDate: 2026-04-13T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: 13
 category:
   - 旅行技巧
@@ -25,23 +26,24 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 7171381a39929c7404569f4914fc32b0
+_srcHash: c146184552910b09d8a430b136afb81c
 ---
-
-![【巴厘岛家居挖宝】贝壳吊灯不到30美元！海运/空运攻略，把南洋度假风扛回家](https://images.gobaligo.id/images/2026-04/1776061962467-mixcollage-13-apr-2026-01-25-pm-4838.jpg)
+![【峇里島家飾挖寶】貝殼吊燈不到一千台幣！海運/空運攻略，把南洋度假風扛回家](https://images.gobaligo.id/images/2026-04/1776061962467-mixcollage-13-apr-2026-01-25-pm-4838.jpg)
 
 > 脸书社团团友黄昱宁 实地分享｜真的只有这里才买得到！
 
-来巴厘岛，除了泡Villa、跑景点，**最值得做的事**——
-就是扛一整箱家居装饰品跟工艺品回中国！🎁
+**先讲结论**：想带南洋家居回中国，别在观光区买——**乌布与德哥拉朗周边的家居批发市场**价格只有景区一半（贝壳吊灯不到百元美金），还可以杀价，运回中国可选海运（便宜但耗时）或空运（快但费用较高）。这些店家不在景区、是内行人才知道的路线，以下整理必逛清单与寄送攻略。
 
-![【巴厘岛家居挖宝】贝壳吊灯不到30美元！海运/空运攻略，把南洋度假风扛回家](https://images.gobaligo.id/images/2026-04/1776062071750-mixcollage-13-apr-2026-01-27-pm-5893.jpg)
+来巴厘岛，除了泡Villa、跑景点，**最值得做的事**——
+就是扛一整箱居家装饰品跟工艺品回中国！🎁
+
+![【峇里島家飾挖寶】貝殼吊燈不到一千台幣！海運/空運攻略，把南洋度假風扛回家](https://images.gobaligo.id/images/2026-04/1776062071750-mixcollage-13-apr-2026-01-27-pm-5893.jpg)
 
 这些店家**不在景区**，是内行人才知道的路线。
-**价格超级亲民**，只有景区的一半，而且**还可以砍价**！
-（感谢我的包车司机帮我大砍价🥰）
+**价格超级亲民**，只有景区的一半，而且**还可以杀价**！
+（感谢我的包车司机帮我大杀价🥰）
 
-![【巴厘岛家居挖宝】贝壳吊灯不到30美元！海运/空运攻略，把南洋度假风扛回家](https://images.gobaligo.id/images/2026-04/1776062185728-mixcollage-13-apr-2026-01-29-pm-2344.jpg)
+![【峇里島家飾挖寶】貝殼吊燈不到一千台幣！海運/空運攻略，把南洋度假風扛回家](https://images.gobaligo.id/images/2026-04/1776062185728-mixcollage-13-apr-2026-01-29-pm-2344.jpg)
 
 {{block:包車}}
 
@@ -49,10 +51,10 @@ _srcHash: 7171381a39929c7404569f4914fc32b0
 
 我真的把**贝壳吊灯扛回中国了**！
 包装起来**扁扁一个**，完全轻松带回。
-一个**不到30美元**⋯⋯
+一个**不到32美金**⋯⋯
 现在还在想，为什么不再买一个行李箱，装更多回来哈哈哈～
 
-![必买亮点：贝壳吊灯](https://images.gobaligo.id/images/2026-04/1776062138927-mixcollage-13-apr-2026-01-31-pm-5074.jpg)
+![必買亮點：貝殼吊燈](https://images.gobaligo.id/images/2026-04/1776062138927-mixcollage-13-apr-2026-01-31-pm-5074.jpg)
 
 现在房间布置整个充满巴厘岛风，
 每天都觉得自己好像还在住Villa🌿
@@ -71,7 +73,7 @@ _srcHash: 7171381a39929c7404569f4914fc32b0
 - 包包
 - 竹篮
 - 捕梦网
-- **贝壳灯** 等各式工艺品
+- **贝壳灯** 等各式工艺品
 
 ### 2️⃣ 第二条：靠近水明漾（距水明漾购物广场约14分钟车程）
 
@@ -87,13 +89,13 @@ _srcHash: 7171381a39929c7404569f4914fc32b0
 
 ## 🏠 推荐店家清单（点链接直接导航）
 
-- 📍 [Dalle Art Athena](https://maps.app.goo.gl/SCo9mgHa1aNZC4JQA?g_st=ic)
-- 📍 [Bali Homeware](https://maps.app.goo.gl/BGFYh6Zvn4mtGizb9?g_st=ic)
-- 📍 [212 Home Living](https://maps.app.goo.gl/DGFMnkCW2DaKxu2a7?g_st=ic)
-- 📍 [Bagus Lamp Collection](https://maps.app.goo.gl/6zcp8ccG8gm2dSww6?g_st=ic)
-- 📍 [You Like Lamp Shop](https://maps.app.goo.gl/HmUJxS223Tssb2zt8?g_st=ic)
-- 📍 [Kara Home Living Store](https://maps.app.goo.gl/RufqZcsqcfjyPLR58?g_st=ic)
-- 📍 [Luthfi Shop](https://maps.app.goo.gl/pqmdsygPwrRhWKmw9?g_st=ic)
+- 📍 [Dalle Art Athena](https://maps.app.goo.gl/SCo9mgHa1aNZC4JQA?g_st=ic)
+- 📍 [Bali Homeware](https://maps.app.goo.gl/BGFYh6Zvn4mtGizb9?g_st=ic)
+- 📍 [212 Home Living](https://maps.app.goo.gl/DGFMnkCW2DaKxu2a7?g_st=ic)
+- 📍 [Bagus Lamp Collection](https://maps.app.goo.gl/6zcp8ccG8gm2dSww6?g_st=ic)
+- 📍 [You Like Lamp Shop](https://maps.app.goo.gl/HmUJxS223Tssb2zt8?g_st=ic)
+- 📍 [Kara Home Living Store](https://maps.app.goo.gl/RufqZcsqcfjyPLR58?g_st=ic)
+- 📍 [Luthfi Shop](https://maps.app.goo.gl/pqmdsygPwrRhWKmw9?g_st=ic)
 - 📍 [Canggu & Co Homestore](https://maps.app.goo.gl/81mN4aErgVzNsRS67)
 
 ***
@@ -122,7 +124,7 @@ _srcHash: 7171381a39929c7404569f4914fc32b0
 **这篇请务必存起来**，
 下次去巴厘岛，直接导航开下去就对了！🎉
 
-(以上图文资讯感谢[黄昱宁](https://www.facebook.com/share/p/1816tKJD1F/)提供)
+(以上图文信息感谢[黄昱宁](https://www.facebook.com/share/p/1816tKJD1F/)提供)
 
 👉 你也有巴厘岛挖宝经验吗？欢迎留言分享～
 

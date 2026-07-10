@@ -1,15 +1,15 @@
 ---
 slug: bali-5-day-itinerary-tips
-title: Bali 5 Days 4 Nights Detailed Travel Guide
+title: Bali 5-Day 4-Night Independent Travel Guide
 description: >-
-  Yang Fangyu's Bali travelogue is vibrant and engaging, narrating fresh and
-  exciting experiences packed into a short 5-day, 4-night trip. The travelogue
-  includes pre-trip preparations, itinerary planning, and actual experiences,
-  faithfully recording each day of the journey. It's highly recommended to
-  roughly plan the attractions you want to visit and let the driver help arrange
-  the route. Looking forward to exploring this paradise-like island again next
-  time!
+  Yang Fangyu's Bali travelogue is wonderfully vivid, capturing a short 5-day
+  4-night journey filled with fresh and thrilling experiences. The travelogue
+  covers pre-trip preparations, itinerary planning, and real-life experiences,
+  faithfully documenting each day of the trip. It's highly recommended to
+  roughly plan the attractions you want to visit and let the driver arrange the
+  route. Looking forward to returning to explore this paradise island again!
 pubDate: 2024-07-08T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 遊記分享
 tags:
@@ -22,336 +22,337 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_02c8c3347a57c7c83b5f9bb7d913afdb.jpg'
 originalUrl: 'https://vocus.cc/article/6686bcc4fd897800018fb206'
 lang: en
-_srcHash: c0a1f573c80784d9a39391dbec9899e0
+_srcHash: 79cc1dd6d8f161635e2a1195816a60c2
 ---
+> The following content is provided by group member [Yang Fangyu](https://www.facebook.com/profile.php?id=100007984449707&__cft__[0]=AZWF8drZCykDGimUAIn01CgD0q9EmqwShYrSkAU1vTUygnMiuAHj0Dyiy7Mfvc95BQiIKbi7tqEnxZOuzPIjxVX8Uvm2nPwiAQHqYH9K1rd0K6wsEWfdU0n0O4LvHsKbRNelUSbGDTuDL0Q-NLP8DK-ewIIF0voZvzIWxluaHyQBSA&__tn__=-UC%2CP-R) and shared with our permission
 
-> The following content was provided by fellow traveler [Yang Fangyu](https://www.facebook.com/profile.php?id=100007984449707&__cft__[0]=AZWF8drZCykDGimUAIn01CgD0q9EmqwShYrSkAU1vTUygnMiuAHj0Dyiy7Mfvc95BQiIKbi7tqEnxZOuzPIjxVX8Uvm2nPwiAQHqYH9K1rd0K6wsEWfdU0n0O4LvHsKbRNelUSbGDTuDL0Q-NLP8DK-ewIIF0voZvzIWxluaHyQBSA&__tn__=-UC%2CP-R) and adapted with her permission.
+**Bottom Line First**: In a 5-day 4-night Bali trip, after accounting for travel days at the start and end, you really only have less than 3 days to explore. Try to wake up early to avoid traffic jams; key pre-trip preparations—e-Visa on arrival, tourist tax, eSIM (buy it the day before and it's ready the next day), and a 220V hairdryer (for drying your hair after taking stunning water photos). Massage parlor quality varies widely; picking one at random is a gamble but can also lead to pleasant surprises.
 
-Although this Bali trip was only 5 days and 4 nights, it felt like the actual playtime was too short after deducting the travel days at both ends! This itinerary was more tiring and not the kind of relaxing vacation. Bali's traffic is prone to congestion, so it's recommended to get up early to fit in more activities.
+This Bali trip was only 5 days and 4 nights, but honestly, after factoring in the travel time on the first and last days, the actual playtime felt way too short! The itinerary was more on the tiring side, not a relaxing vacation. Traffic in Bali can get congested easily, so I recommend waking up early to fit in more activities.
 
-![Bali 5 Days 4 Nights Detailed Travel Guide](https://images.gobaligo.id/vocus/vocus_6f99182573787e91e20458dab3da02a4.jpg)
+![峇里島5天4夜自由行詳細攻略](https://images.gobaligo.id/vocus/vocus_6f99182573787e91e20458dab3da02a4.jpg)
 
-## Pre-Trip Preparations
+## Pre-Trip Preparation
 
-1. E-Visa on Arrival: Remember to apply for an e-visa on arrival before heading to Bali.
-2. Tourism Tax: Be aware of paying the tourism tax.
-3. Fill in the Arrival Form: Complete the arrival form.
-4. Currency Exchange: It's advisable to bring USD and exchange it for Indonesian Rupiah locally.
-5. Sunscreen: Bali's sun is very strong; forgetting sunscreen can easily lead to sunburn.
-6. Internet Usage: It's recommended to use an Esim card. I purchased an Esim card from 'Global Travel Expert' on Shopee, and unless in remote mountainous areas, the internet speed was stable. Buying it the day before allows usage the next day, which is very convenient.
-7. Water Activities and Photos: If planning to take photos after water activities, remember to bring a 220V hair dryer.
-8. Massage Experience: No matter which massage shop you choose, it feels like a lottery. Fortunately, our massage experiences were always good, even at randomly chosen roadside shops.
-9. Photography Tips: To take Instagram-worthy photos, it's recommended to research poses in advance and practice shooting techniques with your travel companion. I'm the one who doesn't take bad photos.
-10. Tipping Etiquette: Bali is a country accustomed to tipping; the basic tip is usually around 10,000 Rupiah (approximately USD$0.65). Avoid giving coins or very small bills as it's more polite.
-11. Charging Adapter: Remember to bring a charging adapter or ask the hotel if they can lend one.
-12. Additional Taxes: Some restaurants and massage shops may charge additional taxes, and credit card payments might incur a 3% surcharge.
+1. E-Visa on Arrival: Remember to apply for the e-visa on arrival before heading to Bali.
+2. Tourist Tax: Be sure to pay the tourist tax.
+3. Fill in the Arrival Form: Complete the arrival card.
+4. Currency Exchange: It's best to bring US dollars and exchange them for Indonesian rupiah locally.
+5. Sunscreen: The sun in Bali is extremely strong; if you forget sunscreen, you'll easily get tanned.
+6. Internet: I recommend using an eSIM. I bought one from 'Global Travel Guru' on Shopee, and the internet speed was stable except in remote mountain areas. Buy it the day before and it's ready to use the next day—very convenient.
+7. Water Play and Photos: If you plan to take beautiful photos after playing in the water, remember to bring a 220V hairdryer.
+8. Massage Experience: No matter which massage parlor you go to, it feels like a lottery. Luckily, every massage we had was great, even at random roadside shops.
+9. Photography Tips: To get Instagram-worthy photos, I suggest researching poses in advance and having your travel buddy practice their photography skills. I'm the one who can't take good photos.
+10. Tipping Etiquette: Bali is a country where tipping is customary. The basic tip is around 10,000 IDR (about USD$0.65). Avoid giving coins or very small bills—it's more polite this way.
+11. Charging Adapter: Remember to bring a charging adapter, or check with your hotel if they can lend you one.
+12. Extra Taxes: Some restaurants and massage parlors charge additional taxes, and paying by card may incur an extra 3% fee.
 
-> [Essential Reading for Indonesia/Bali Travel: Complete Guide to Voltage and Socket Types!](/en/blog/bali-voltage-adapter-tips/)
+> [Indonesia/Bali Travel Must-Read: Complete Guide to Voltage and Plugs!](/en/blog/bali-voltage-adapter-tips/)
 
-> [Should You Tip in Bali Travel? How to Tip? How Much to Tip in Various Situations in Bali?](/en/blog/bali-tipping-guide-driver-spa/)
+> [Should You Tip in Bali? How to Tip? How Much to Tip in Various Situations?](/en/blog/bali-tipping-guide-driver-spa/)
 
-> [Essential Collection: Highly Recommended SPAs in Bali Organized by Region for Easier Searching](/en/blog/spa/)
+> [【Essentials】Curated Collection of Top-Rated Bali Spas, Organized by Area for Easy Browsing](/en/blog/spa/)
 
-## Itinerary Planning
+## Itinerary
 
-### May 30th
+### May 30
 
 **1. Currency Exchange**
 
-- Upon arriving in Bali, the first thing to do is exchange currency for Indonesian Rupiah to facilitate spending during your trip.
+- Upon arriving in Bali, the first thing to do is exchange for the local currency, Indonesian Rupiah, to make spending easier.
 
-> [Indonesia/Bali Currency Exchange Guide: What currency is used in Indonesia/Bali? How to get the best exchange rate? Where is the best place to exchange money?](/en/blog/bali-currency-exchange-guide/)
+> [Bali Currency Exchange Guide: What currency is used in Bali? How to get the best rates? Where to exchange?](/en/blog/bali-currency-exchange-guide/)
 
 **2. Check-in at Ubud Hotel**
 
 - Time: 15:00
 - Location: Soulshine Bali
-- Highlights: This hotel features a stunning pool with a waterslide and excellent service. The room rate includes breakfast, making it ideal for guests who plan to spend extended time at the hotel. Great value for money. Approximately USD$260 per night.
+- Highlight: This hotel has a stunning pool with a waterslide and excellent service. The rate includes breakfast, making it a great value for travelers who want to spend more time at the hotel. It costs around USD$260 per night.
 
-![May 30th](https://images.gobaligo.id/images/2026-04/1776173308296-409519257.jpg)
+![5月30日](https://images.gobaligo.id/images/2026-04/1776173308296-409519257.jpg)
 
-![May 30th](https://images.gobaligo.id/images/2026-04/1776173309100-416032895.jpg)
+![5月30日](https://images.gobaligo.id/images/2026-04/1776173309100-416032895.jpg)
 
-![May 30th](https://images.gobaligo.id/images/2026-04/1776173309680-480127600.jpg)
+![5月30日](https://images.gobaligo.id/images/2026-04/1776173309680-480127600.jpg)
 
-![May 30th](https://images.gobaligo.id/images/2026-04/1776173310013-148375661.jpg)
+![5月30日](https://images.gobaligo.id/images/2026-04/1776173310013-148375661.jpg)
 
-![May 30th](https://images.gobaligo.id/images/2026-04/1776173310447-201679127.jpg)
+![5月30日](https://images.gobaligo.id/images/2026-04/1776173310447-201679127.jpg)
 
-![May 30th](https://images.gobaligo.id/images/2026-04/1776173310862-201780130.jpg)
+![5月30日](https://images.gobaligo.id/images/2026-04/1776173310862-201780130.jpg)
 
-![May 30th](https://images.gobaligo.id/images/2026-04/1776173311422-394535033.jpg)
+![5月30日](https://images.gobaligo.id/images/2026-04/1776173311422-394535033.jpg)
 
-![May 30th](https://images.gobaligo.id/images/2026-04/1776173311942-409156505.jpg)
+![5月30日](https://images.gobaligo.id/images/2026-04/1776173311942-409156505.jpg)
 
-![May 30th](https://images.gobaligo.id/images/2026-04/1776173312600-409516149.jpg)
+![5月30日](https://images.gobaligo.id/images/2026-04/1776173312600-409516149.jpg)
 
-![May 30th](https://images.gobaligo.id/images/2026-04/1776173313011-409516170.jpg)
+![5月30日](https://images.gobaligo.id/images/2026-04/1776173313011-409516170.jpg)
 
-> [Soulshine Bali Availability & Price Check](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2978867) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=9203399&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/djqgcgo8)
+> [Check Soulshine Bali Availability & Rates on Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2978867) [Trip.com](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=9203399&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking.com](https://booking.tpm.li/djqgcgo8)
 
-**3. Spa Treatment**
+**3. Massage**
 
 - Time: 18:30
 - Location: Pertenin Body Care
-- Experience: After the massage, you'll feel incredibly relaxed, effectively relieving travel fatigue.
-- We opted for a late session and tried the less common four-hand massage — a cool experience!
+- Experience: The massage was incredibly relaxing, a great way to ease travel fatigue.
+- We booked a bit late, but the rare four-hand massage was a cool experience!
 
 **4. Dinner**
 
 - Time: 20:30
 - Location: Arcadia Restaurant
-- Features: The set menu dishes at this restaurant are exquisitely prepared and delicious, attracting mostly international guests. The service is attentive, and the ambiance is wonderful. The set menu costs approximately USD$50, with an additional 11% dining tax and 4.5% service charge.
+- Highlights: The set meals at this restaurant are all exquisitely prepared and delicious, mostly frequented by foreign guests. The service is very attentive, and the ambiance is excellent. The set meal price is approximately USD$48, with an additional 11% dining tax and 4.5% service charge.
 
-The day's itinerary is relatively relaxed: exchange currency, check into a high-value hotel in Ubud, enjoy a soothing massage, and end with a delightful dinner at an elegant restaurant, fully preparing for the adventures ahead.
+This day's itinerary is relatively relaxed: first exchange money, then check into a high-value hotel in Ubud, enjoy a soothing massage, and finally savor a delightful dinner at an elegant restaurant, setting the stage for the days ahead.
 
 ### May 31
 
 **1. Ubud Hotel Breakfast**
 
-- Time: Depart at 8:00
+- Time: Leave at 8:00
 - Location: Soulshine Bali
-- Highlight: The hotel offers a lavish breakfast, making it a perfect start to the day.
+- Highlight: The hotel offers a very hearty breakfast, a wonderful start to the day's itinerary.
 
 **2. ATV Riding**
 
-- Experience: Operating an ATV isn't easy. For thrill-seekers, you can pay extra to have the instructor drive, which is incredibly fun.
+- Experience: Operating the ATV is not easy. For thrill-seeking travelers, you can pay extra to have an instructor drive you—it's a lot of fun.
 
 ![ATV好玩！（楊方瑜提供）](https://images.gobaligo.id/vocus/vocus_8302ac21e9780bace144d15664d603bf.jpg)
 
-ATV is fun! (Provided by Yang Fangyu)
+ATV is so fun! (Provided by Yang Fangyu)
 
 https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
-Editor's Note: Ubud's ATV tours typically traverse tropical rainforests, rivers, tunnels, and rugged mountainous areas, immersing you in an exhilarating adventure. This high-speed journey through nature allows you to experience Ubud's diverse terrain and scenery in a short time, making it a favorite among adventurers.
+Editor's note: ATV tours in Ubud typically traverse tropical rainforests, rivers, tunnels, and rugged mountain terrain, immersing you in an exhilarating adventure. This high-speed way of exploring nature allows you to experience Ubud's diverse landscapes and scenery in a short time—a must for adventure lovers.
 
-There's also a 'Volcano ATV Tour,' where you'll trek through dense forests, climb black lava slopes, and conquer challenging off-road terrains. The guide will lead you through these varied landscapes, letting you fully experience the thrill and excitement of ATV riding.
+There’s also the “Volcano ATV Tour,” where you’ll ride through dense forests, climb over black lava slopes, and conquer challenging off-road terrain. Your guide will lead you across this ever-changing landscape, letting you fully experience the thrill and fun of ATV riding.
 
-Reference: [Bali ATV Quad Bike Adventure: Feel the Excitement and Freedom of a Tropical Paradise (Reminders + FAQ + Operator Recommendations)](/en/blog/bali-atv-adventure-guide/)
+Reference: [Bali ATV Quad Bike Adventure: Experience the Thrill and Freedom of a Tropical Paradise (Reminders + FAQ + Operator Recommendations)](/en/blog/bali-atv-adventure-guide/)
 
-> [Ubud ATV Off-Road Adventure Discount Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F6595-atv-quad-bike-adventure-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D937776272b)
+> [Ubud ATV Off-Road Adventure Discount Ticket](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F6595-atv-quad-bike-adventure-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D937776272b)
 
-> [ATV Volcano Climb](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F79494-kintamani-pine-tree-atv-quad-bike-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3a7c769872)
+> [ATV Volcano Ride](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F79494-kintamani-pine-tree-atv-quad-bike-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3a7c769872)
 
-**3. Ayung River Rafting**
+**3.** **Ayung River Rafting**
 
 ![（楊方瑜提供）](https://images.gobaligo.id/vocus/vocus_3303418739a0e1bb2910415c80d34051.jpg)
 
-(Provided by Yang Fangyu)
+(Photo by Yang Fangyu)
 
-- Preparation: Rafting involves walking, so wear comfortable shoes and bring a waterproof bag. If you want to take nice photos after rafting, consider bringing a hairdryer and shampoo.
+- Preparation: Rafting involves walking, so wear comfortable shoes and bring a waterproof bag. If you want to take great photos afterward, bring a hairdryer and toiletries.
 - Duration: ATV + rafting takes about 5 hours.
 
-Editor's Note: For adventure enthusiasts who love challenges, participating in a rafting activity is an extremely attractive option. The rivers around Ubud wind through blue valleys and jungles, offering adventurers a brand-new exploration journey. During this adventure, you'll traverse pleasant landscapes, encountering both rapids and calm waterways, allowing you to fully experience the joy of both excitement and relaxation. This is not just an adventure, but also an opportunity to intimately connect with nature, feeling the abundant vitality of the water, trees, and earth.
+Editor’s note: For adventure seekers who love a challenge, rafting is an incredibly appealing option. The rivers around Ubud wind through blue-green valleys and jungles, offering a whole new adventure for thrill-seekers. On this journey, you’ll traverse scenic landscapes, encountering both rapids and calm stretches of water, allowing you to experience a perfect blend of excitement and relaxation. It’s not just an adventure—it’s a chance to connect with nature, feeling the vibrant energy of the water, trees, and earth.
 
-Reference: [Bali Rafting FAQ: Can You Do It Without Swimming? Age Limits, Safety Tips, and Ayung River vs Telaga Waja Full Analysis](/en/blog/bali-rafting-ayung-telaga-waja/)
+Reference: [【Bali Rafting FAQ】Can you go if you can’t swim? Age limits, safety tips, and a full breakdown of Ayung River vs. Telaga Waja River](/en/blog/bali-rafting-ayung-telaga-waja/)
 
 > [Ayung River Rafting](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)
 
-> [Ayung River Rafting (Including Transfer)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
+> [Ayung River Rafting (with Transfers)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
 
-**4. Instagram-Worthy Swing Photos**
+**4. Swing Photo Spots**
 
 ![（楊方瑜提供）](https://images.gobaligo.id/vocus/vocus_85bdfa27a0e675f2c710aea34769cf23.jpg)
 
-(Provided by Yang Fangyu)
+(Photo by Yang Fangyu)
 
-- Experience: Feel the thrill of swinging while capturing beautiful Instagram-worthy photos to create lasting memories.
-- There are many different locations; you can ask your driver for recommendations, but prices vary, and you can rent outfits. Some places even offer side video recording services.
+- Experience: Feel the thrill of the swing while capturing stunning photos for social media, creating lasting memories.
+- There are many different spots; you can ask your driver for recommendations, but prices vary, and you can rent outfits. The better ones even help take side-angle videos.
 
-Editor's Note: In Ubud, even swinging can become an exotic experience. In some specialized spots in Ubud, you'll find various uniquely designed swings hanging among green trees or facing stunning valley views. Swinging isn't just a way to play; it's also an excellent method to appreciate Ubud's beauty in tranquility. Swing freely, let your heart sway with the breeze, and feel a sense of ease and comfort.
+Editor's note: In Ubud, even swinging on a swing can become an exotic experience. At specialized spots in Ubud, you'll find a variety of unique and thoughtfully designed swings, suspended among the trees or overlooking stunning valley views. Swinging here isn't just about fun—it's a wonderful way to soak in Ubud's serene beauty. Let yourself sway with the breeze and feel a sense of ease and relaxation.
 
-> [Ubud Swing Guide: Top 8 Most Beautiful Jungle Swings - Dress Rental Tips, Photography Angles & Crowd Avoidance](/en/blog/ubud-jungle-swings-photo-guide/)
+[【Ubud Swing Guide】Top 8 Most Beautiful Jungle Swings: Dress Rental Tips, Photo Angles & Crowd-Avoiding Guide](/en/blog/ubud-jungle-swings-photo-guide/)
 
 **5. Dinner**
 
-- Time: Dinner
+- Time: Dinner time
 - Location: Sun Sun Warung
-- Note: Famous for their dirty duck rice, this restaurant tends to fill up quickly during meal times. Takeout options are decent but nothing particularly surprising.
-- Dining in incurs a 15.5% tax, while takeout is 5% less.
+- Note: Famous for its dirty duck rice. This restaurant tends to be full during meal times. The takeout food is decent but nothing special.
+- Dine-in includes a 15.5% tax; takeout is 5% less.
 
 **6. Return to Hotel**
 
 - Location: Soulshine Bali
 
-This day was packed with adventure and excitement, from ATV riding to Ayung River rafting, and even some Instagram-worthy swings. Finally, we chose a popular restaurant for dinner before heading back to the hotel to rest.
+This day's itinerary is packed with adventure and excitement, from ATV riding to Ayung River rafting, and then to the Instagram-worthy swing experience—all well worth trying. Finally, head to a popular restaurant for dinner before returning to the hotel to rest.
 
-### June 1st
+### June 1
 
-**1. Ubud Hotel Breakfast**
+**1. Breakfast at Ubud Hotel**
 
-- Time: After breakfast, check out at 11:00
+- Time: After breakfast, check out by 11:00 AM
 
 **2. Check-in at Seminyak Hotel**
 
 - Time: 12:30
 - Location: Villa DeDayuh Seminyak
-- Highlight: This villa comes with kitchenware, a pool, and a bathtub, making it perfect for travelers planning to spend extended time at the hotel. The service is excellent, with detailed responses available via WhatsApp. Prices are around USD$130 per night.
+- Highlight: This villa comes with kitchenware, a pool, and a bathtub, making it perfect for travelers who want to spend a long time relaxing at the hotel. The service is excellent, with detailed responses available via WhatsApp. The price is around USD$130 per night.
 
-![June 1st](https://images.gobaligo.id/images/2026-04/1776173616565-250438251.jpg)
+![6月1日](https://images.gobaligo.id/images/2026-04/1776173616565-250438251.jpg)
 
-![June 1st](https://images.gobaligo.id/images/2026-04/1776173617029-250437832.jpg)
+![6月1日](https://images.gobaligo.id/images/2026-04/1776173617029-250437832.jpg)
 
-![June 1st](https://images.gobaligo.id/images/2026-04/1776173617376-250437834.jpg)
+![6月1日](https://images.gobaligo.id/images/2026-04/1776173617376-250437834.jpg)
 
-![June 1st](https://images.gobaligo.id/images/2026-04/1776173617786-250437952.jpg)
+![6月1日](https://images.gobaligo.id/images/2026-04/1776173617786-250437952.jpg)
 
-![June 1st](https://images.gobaligo.id/images/2026-04/1776173618342-250438170.jpg)
+![6月1日](https://images.gobaligo.id/images/2026-04/1776173618342-250438170.jpg)
 
-![June 1st](https://images.gobaligo.id/images/2026-04/1776173618739-250438175.jpg)
+![6月1日](https://images.gobaligo.id/images/2026-04/1776173618739-250438175.jpg)
 
-![June 1st](https://images.gobaligo.id/images/2026-04/1776173619217-250438213.jpg)
+![6月1日](https://images.gobaligo.id/images/2026-04/1776173619217-250438213.jpg)
 
-![June 1st](https://images.gobaligo.id/images/2026-04/1776173619626-250438229.jpg)
+![6月1日](https://images.gobaligo.id/images/2026-04/1776173619626-250438229.jpg)
 
-![June 1st](https://images.gobaligo.id/images/2026-04/1776173620242-250438241.jpg)
+![6月1日](https://images.gobaligo.id/images/2026-04/1776173620242-250438241.jpg)
 
-![June 1st](https://images.gobaligo.id/images/2026-04/1776173620753-250438245.jpg)
+![6月1日](https://images.gobaligo.id/images/2026-04/1776173620753-250438245.jpg)
 
-> [Check Availability & Rates at Villa DeDayuh Seminyak](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11088131)
+> [Check Villa DeDayuh Seminyak availability & rates](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11088131)
 
-**3. Nusa Dua Activities**
+**3. South Bay Activities**
 
 ![海底漫步不推薦！（楊方瑜提供）](https://images.gobaligo.id/vocus/vocus_005517e2f2951ef514fd7a9b46d3dc5e.jpg)
 
-Sea Walking Not Recommended! (Provided by Fangyu Yang)
+Underwater walking is not recommended! (Provided by Yang Fangyu)
 
 - Time: 13:30
 
-**Sea Walking**
+**Underwater Walking**
 
-Our first activity was sea walking. While it sounded exciting, the actual experience was somewhat disappointing. When we first put on the helmets, water seeped in without warning, pressing against our faces and causing quite a bit of fear. Walking underwater required holding onto a railing, and the scenery wasn't particularly stunning.
+Our first activity was underwater walking. Although it sounds fun, the actual experience was a bit disappointing. When we first put on the helmet, water leaked in without anyone telling us, and the water pressed directly against our faces, which was quite frightening. While walking underwater, we had to hold onto a railing, but the scenery wasn't particularly impressive.
 
 **Parasailing**
 
-Next up was parasailing. This activity was truly amazing, especially the feeling of freedom while soaring through the air. Perhaps because we had a great chat with the instructor, the whole experience became even more enjoyable. The parasail pulled us from the air into the water and back up again, making for a fun back-and-forth.
+Next up was parasailing. This activity was truly amazing, especially the feeling of freedom while flying through the air. Perhaps because we had a great chat with the instructor, the whole experience was even more enjoyable. Parasailing took us from the air down to the water and then back up again—this back-and-forth process was a lot of fun.
 
 **Donut Ride**
 
-Finally, we tried the donut ride (banana boat). It's said that the donut ride in Taiwan is more thrilling, especially when sitting in the back row. Besides this, Nusa Dua offers a variety of other water activities to cater to different preferences.
+Finally, we tried the donut (towed tube) activity. It's said that Taiwan's version is more thrilling, especially when sitting in the back row. Besides that, Nanwan offers a variety of other water activities to suit different preferences.
 
-**Snacks and Tea**
+**Light Snacks & Tea**
 
-After the activity ends, snacks and tea will be provided, allowing everyone to take a short break after enjoying the thrilling experience.
+After the activities, light snacks and tea are provided, giving everyone a chance to rest after all the excitement.
 
 **Reminders**
 
-- **Price Negotiation**: The prices for activities are often quoted high, so it's recommended to bargain or purchase discounted tickets online in advance.
-- **Photography Fees**: If there's a photography service included in the itinerary, this will require an additional fee. The vendor will provide a set of cloud photos and the recorded video.
+- **Price Negotiation**: Activity prices are often set high, so it's best to haggle or buy discounted tickets online in advance.
+- **Photography Fees**: If the package includes photo services, these come at an extra cost. The vendor will provide a set of cloud photos and recorded videos.
 
-Editor's Note: Visitors should note that water activities in Nusa Dua are quite popular, so it's advisable to book in advance to avoid price hikes on-site. Booking ensures you have ample opportunity to experience all the water activities you desire, while also avoiding paying extra expensive fees on-site. At Nusa Dua Beach, let's set sail together and enjoy this paradise of water activities, bringing you a sea adventure filled with thrills and laughter.
+Editor's Note: Visitors should be aware that water activities at Nanwan are very popular. It's recommended to book in advance to avoid last-minute price hikes. Booking ensures you have enough opportunities to enjoy all the activities you want, while also avoiding extra costs on-site. At Nanwan Beach, let's set sail together and enjoy this water sports paradise, bringing you a sea adventure full of excitement and laughter.
 
-> [Book Tanjung Benoa Water Sports (Multiple Packages)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F71411-tanjung-benoa-watersports-bali-bintang-dive-watersport-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dee5cfca3a7)
+> [Book Tanjung Benoa Water Sports (Multiple Combos)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F71411-tanjung-benoa-watersports-bali-bintang-dive-watersport-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dee5cfca3a7)
 
-> [Book Tanjung Benoa Banana Boat Package](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F9106-banana-boat-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D461f80f005)
+> [Book Tanjung Benoa Banana Boat Combo](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F9106-banana-boat-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D461f80f005)
 
-**4. Cliff Viewpoints**
+**4. Cliffside Attractions**
 
 ![（楊方瑜提供）](https://images.gobaligo.id/vocus/vocus_f3216f5e1cf453fc01e25c5f95501686.jpg)
 
 (Provided by Yang Fangyu)
 
-- Highlights: There are two cliff viewpoints that require ticket purchases, perfect for taking memorable photos. There are scenic views along the way, but we didn't stay long due to time constraints.
+- Highlights: Two cliffside attractions require an entrance fee and are perfect for photos. There are scenic spots along the way, but we were pressed for time and didn't linger.
 
-Reference: [Bali Cliff Road Batu Barak Travel Guide: Entrance Fees, Road Conditions, and Uluwatu South Day Trip Planning](/en/blog/batu-barak-cliff-road/)
+Reference: [Bali Cliffside Road Batu Barak Travel Guide: Entrance Fees, Road Conditions, and a One-Day Uluwatu South Itinerary](/en/blog/batu-barak-cliff-road/)
 
 **5. Jimbaran Sunset**
 
 ![（楊方瑜提供）](https://images.gobaligo.id/vocus/vocus_1641cd8d6c099b26327d4dda25e8be43.jpg)
 
-(Provided by Yang Fangyu)
+(Photo by Yang Fangyu)
 
-- Highlight: Choose to ride horses or camels at sunset to experience the unique beauty of Jimbaran.
-- Check online for many sunset photography tips to capture great memories.
+- Highlight: You can choose to ride a horse or camel at sunset for a unique Jimbaran experience.
+- Check online for various sunset photography techniques to capture great memories.
 
-> [Master the Best Bali Sunset Viewing Guide: Seven Bali Sunset Spots, How Many Have You Visited?](/en/blog/bali-sunset-spots-guide/)
+> [【Master the Best Sunset Viewing Guide in Bali】Seven Bali Sunset Spots, How Many Have You Visited?](/en/blog/bali-sunset-spots-guide/)
 
 > [11 Jimbaran Seafood Restaurants in Bali: No-Fail Recommendations](/en/blog/jimbaran-seafood-restaurants-list/)
 
 **6. Massage**
 
 - Location: Piramid Jimbar
-- Experience: The environment here is stunning. Before the massage, you'll be allowed to feed the fish. Payment is made before the massage. Note that shower time is included in the massage duration. The massage was very satisfying, but the flower bath may cause allergies, so consider carefully. All flowers are fresh, and there might be small insects. The flower bath requires an additional payment and deposit. A 2-hour massage costs approximately USD$77, excluding the patterned flower bath. The pattern colors can be confirmed via WhatsApp in advance.
+- Experience: The environment here is stunning. Before the massage, you'll be invited to feed the fish, and payment is made upfront. Note that shower time is included in the massage duration. The massage was very satisfying, but the flower bath may cause allergies, so proceed with caution. All flowers are fresh, so there might be small bugs. The flower bath requires an additional payment and deposit; a 2-hour massage costs around USD$77, excluding the patterned flower bath. You can discuss the pattern colors via WhatsApp in advance.
 
 **7. Dinner**
 
 https://youtube.com/shorts/MTbr3sojGAM?si=GZhCEZuNUdypLyRp
 
-- Cuisine: Highly recommend trying Indonesia's savory egg pancake, which is delicious.
+- Food: I recommend trying the Indonesian savory egg pancake—it's absolutely delicious.
 
-The day's itinerary moved from Ubud to Seminyak, staying at the resort-style Villa DeDayuh, then enjoying various thrilling water activities at Tanjung Benoa. In the afternoon, visit cliff spots for beautiful photos, and in the evening, admire the sunset in Jimbaran while experiencing horseback or camel rides. End the day with a high-quality massage at Piramid Jimbar and conclude with a tasty Indonesian egg pancake, wrapping up a fulfilling and joyful day.
+This day's itinerary shifts from Ubud to Seminyak, checking into the resort-style Villa DeDayuh, then enjoying a variety of thrilling water sports at Tanjung Benoa. In the afternoon, visit a cliffside spot for stunning photos, and in the evening, watch the sunset at Jimbaran while trying horseback or camel riding. At night, indulge in a high-quality massage at Piramid Jimbar, and end the fulfilling day with a delicious Indonesian omelet.
 
-> Book [Jimbaran Camel Ride Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=919281&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F125501-camel-ride-experience-in-bali%2F)
+> Book [Jimbaran Camel Riding Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=919281&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F125501-camel-ride-experience-in-bali%2F)
 
-### June 2nd
+### June 2
 
 **1. Lunch**
 
 - Location: Naughty Nuri's
-- Specialty: Must-try their signature pork ribs, the flavor is amazing
+- Highlight: Must-order their signature pork ribs—absolutely delicious
 
-Book [Naughty Nuri's Warung Dining Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=880709&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89220-naughty-nuris-sanur-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D3d581a84b3)
+Book [Naughty Nuri's Warung Food Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=880709&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89220-naughty-nuris-sanur-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D3d581a84b3)
 
 **2. Souvenir Shop**
 
-- Shopping: It's best to research what you want to buy beforehand, otherwise you might get overwhelmed. Visit local souvenir shops and pick up some unique items to bring home.
+- Shopping: Best to research what you want to buy beforehand, or you'll be overwhelmed. Visit local souvenir shops and pick out some unique items to bring home.
 
-> [【Reader Recommendations】Six Categories, Over 20 Bali Souvenir Recommendations: The Perfect Choices to Preserve Precious Memories](/en/blog/bali-souvenirs-gift-guide/)
+> [【Recommended by Netizens】Six Categories, Over 20 Bali Souvenir Recommendations: The Perfect Choice to Preserve Precious Memories](/en/blog/bali-souvenirs-gift-guide/)
 
 **3. Kuta Activities**
 
 https://youtu.be/cbACc0Ey-A4
 
 - Location: Kuta Beachwalk Shopping Center, Kuta Beach
-- Activities: Enjoy shopping at Kuta Beachwalk Shopping Center, right across from Kuta Beach. Relax and soak up the sun and sand. If you're interested in surfing, give it a try.
+- Activity: Enjoy shopping at Kuta Beachwalk Shopping Center, right across from Kuta Beach. Relax and soak up the sun and sand, and if you're interested in surfing, give it a try.
 
 **4. Finns Beach Club**
 
-![June 2nd](https://images.gobaligo.id/vocus/vocus_6a021c159470db2679ed81ed74fe2715.jpg)
+![6月2日](https://images.gobaligo.id/vocus/vocus_6a021c159470db2679ed81ed74fe2715.jpg)
 
-- Time: Seats available around 17:00
-- Tip: Good seats require advance booking and payment. Mostly Western clientele, features a pool and DJ, right by the beach. Security is strict, but you can enter for free if you're just visiting without ordering anything! Arrive early to enjoy snacks and watch the sunset. This beach club is open until midnight, making it a great spot to relax and soak in the evening atmosphere.
+- Time: Seats available around 5:00 PM
+- Suggestion: Good seats require advance booking and payment. Mostly Westerners; there's a pool, DJ, and the beach right below. Security is strict. If you just walk in without ordering anything, it's free to enjoy! Arrive early for meals and sunset views. This beach club is open until midnight, making it a great spot to relax and enjoy the evening vibe.
 
 **5. Return to Hotel**
 
 - Villa DeDayuh
 
-### June 3rd
+### June 3
 
-**1. Hotel Check-out**
+**1. Check Out of Hotel**
 
-- Time: 12:00
+- Time: 12:00 PM
 - Location: Villa DeDayuh
 
-**2. Stopped by to buy delicious brownies on the way**
+**2. Grab Some Delicious Brownies on the Way**
 
 ![楊方瑜提供。編按：圖左不是洋芋片喔！它是木薯片](https://images.gobaligo.id/vocus/vocus_b2e34c73e636c9ac7b9b322bd4ec6de9.jpg)
 
-Provided by Yang Fangyu. Editor's note: The item on the left in the photo isn't potato chips! It's cassava chips.
+Provided by Yang Fangyu. Editor's note: The item on the left is not potato chips! It's cassava chips.
 
 **3. Airport**
 
-- Location: Preparing to return, concluding this Bali trip.
+- Location: Preparing to return, ending this Bali trip.
 
-The past two days were relatively relaxing and enjoyable. On June 2nd, we started with delicious pork ribs, followed by shopping at a souvenir store, and then spent a pleasant afternoon at Kuta's shopping mall and beach. In the evening, we enjoyed a leisurely time at Finn Beach Club. On June 3rd, after a simple check-out and lunch, we headed to the airport to conclude this delightful trip to Bali.
+The last two days of the trip were relatively relaxed and pleasant. On June 2, we started with delicious pork ribs, then went souvenir shopping, followed by a pleasant afternoon at a shopping mall and beach in Kuta. In the evening, we enjoyed a leisurely time at Finn Beach Club. On June 3, we simply checked out, had lunch, and headed to the airport to conclude this wonderful Bali trip.
 
 {{block:伴手禮}}
 
 ## Recommended Private Driver
 
-When traveling in Bali, finding a good private driver is crucial, especially when you're tired and translating English can be exhausting. We recommend [Mang Loco](https://www.facebook.com/komang.rika.501/), a Balinese who once worked in Taiwan. He speaks fluent and amusing Chinese learned from indigenous people, and his friendly personality makes him feel like a helpful friend.
+Finding a good private driver is very important when traveling in Bali, especially when you're exhausted and struggling with English translation. We recommend [Mang Loco](https://www.facebook.com/komang.rika.501/), a Balinese who used to work in Taiwan. He learned Chinese from indigenous people and speaks it fluently and humorously. He's friendly and helpful, feeling more like a friend than a driver.
 
 ### Tips:
 
-1. Itinerary Planning: You can roughly plan the attractions you want to visit and let the driver arrange the route for you.
-2. Cost Communication: Discuss longer trips and overtime fees in advance.
-3. Meal Invitation: Drivers usually don't dine with guests, but if you like your driver, you can invite him to eat with you.
+1. Itinerary Planning: Roughly plan the attractions you want to visit and let the driver help arrange the route.
+2. Cost Communication: Discuss extra fees for longer distances or overtime in advance.
+3. Meal Invitations: Drivers usually don't eat with guests, but if you like your driver, you can invite them and treat them to a meal.
 
-## Conclusion
+## Final Thoughts
 
-Although this trip to Bali was only a few days, each day was filled with fresh and exciting experiences. From the cultural journey in Ubud to the leisurely vacation in Seminyak, from water activities in Nusa Dua to the sunset views in Jimbaran, every moment was unforgettable. Finding a reliable private driver during the trip not only reduced language barriers but also made the itinerary smoother. Bali's beautiful scenery and rich cultural heritage are worth savoring for every traveler. Looking forward to exploring this paradise-like island again!
+Although this Bali trip was only a few days long, each day was filled with fresh and exciting experiences. From the cultural journey in Ubud to the leisurely vacation in Seminyak, from water activities in Tanjung Benoa to the sunset views in Jimbaran, every moment was unforgettable. Finding a reliable private driver during the trip not only reduced language barriers but also made the itinerary smoother. Bali's beautiful scenery and rich cultural heritage are worth savoring for every traveler. Looking forward to exploring this paradise island again next time!
 
-Do you think Yang Fangyu's itinerary is exciting? Quickly plan your own Bali free trip! Also, welcome everyone to submit your itinerary to the community!
+Do you think Yang Fangyu and their group had an exciting itinerary? Hurry up and plan your own Bali free-and-easy trip! Feel free to share your itinerary in the community group as well!
 
 {{block:遊記}}
 

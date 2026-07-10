@@ -3,6 +3,7 @@ slug: 2024-bali-automated-immigration
 title: 巴厘岛2024年启用人脸识别的自动通关系统：持电子签证者可加速通关
 description: 持有电子落地签签证者，将可使用自动通关系统啦！
 pubDate: '2024-01-04'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_06650d2e8a127953bed5961b505cf2b9.jpg'
 tags:
   - 峇里島
@@ -14,11 +15,9 @@ originalUrl: 'https://vocus.cc/article/6596cae5fd89780001f43bff'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: db888547a806b4b86c9e667b4a38b13e
+_srcHash: 550a32ad2d6ca08c313c11cc7548e45b
 ---
-Update: 2026/07/03
-
-**先讲结论**：只要事先在线办好电子签证（e-VOA），抵达巴厘岛伍拉·赖机场就能直接走**人脸识别自动通关闸门**，不用排队等移民官盖章。系统自2024年1月启用，入境区配有50-60个自动闸门——想快速出关，关键就是出发前先办好e-VOA。
+**先说结论**：只要事先在线办好电子签证（e-VOA），抵达巴厘岛伍拉·赖机场就能直接走**人脸识别自动通关闸门**，不用排队等移民官盖章。系统自2024年1月启用，入境区配有50-60个自动闸门——想快速出关，关键就是出发前先办好e-VOA。
 
 **事先在线申请电子签证者，将可使用自动通关系统啦！**
 
@@ -26,7 +25,7 @@ Update: 2026/07/03
 
 巴厘岛伍拉·赖国际机场（Ngurah Rai International Airport）近日完成重大升级，将启用配备人脸识别技术的自动通关系统。
 
-此系统已在印尼首都雅加达的苏加诺哈达国际机场投入使用一年以上的时间，并取得了很大的成功，以往大排长龙的移民局盖章已不见人潮。
+此系统已在印尼首都雅加达的苏加诺-哈达国际机场投入使用一年以上，并取得了很大成功，以往大排长龙的移民局盖章已不见人潮。
 
 ![雅加達/峇里島都採用同一套系統以加速通關](https://images.gobaligo.id/vocus/vocus_eecaa7bb2c8d6874b2bf3a371cc22716.jpg)
 
@@ -54,7 +53,7 @@ Update: 2026/07/03
 
 ➡️[到Klook找巴厘岛优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
 
-所以从2024年开始，先办好电子落地签不仅不用排队办理VoA（落地签），连移民局排队等盖章都不用了！节省下来的时间让你多多感受巴厘岛喔！
+所以从2024年开始，先办好电子落地签不只不用排队办理VoA（落地签），连移民局排队等盖章都不用了！节省下来的时间让你多多感受巴厘岛喔！
 
 ---
 

@@ -1,18 +1,20 @@
 ---
 slug: ubud-bale-udang-monkey-forest
 title: 乌布热门景点介绍：巴厘岛发呆亭 Bale Udang、猴子森林、乌布皇宫、乌布市场
-description: 探索巴厘岛乌布区的极致宁静！Ubud Bale Udang 带您远离喧嚣，享受纯粹写意时光。 巴厘岛乌布地区最美的秘密，巴厘岛最有名气的发呆亭餐厅！
+description: 探索巴厘岛乌布区的极致宁静！Ubud Bale Udang 带您远离喧嚣，享受纯粹写意时光。巴厘岛乌布地区最美的秘密，巴厘岛最有名气的发呆亭餐厅！
 pubDate: 2021-01-14T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 美食景點活動
 tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e02b5d929f4c6b0aa444d358d8267022.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b72fd897800013a948b'
 lang: zh-cn
-_srcHash: 2b41c9d9e374fa2cac17e1c4bfb74850
+_srcHash: 9e2ecda776b92eaf693b72f8bd59cfd1
 ---
+**先讲结论**：乌布一日路线可以这样排——上午逛**猴子森林、乌布皇宫、乌布市场**，中午到 **Ubud Bale Udang 发呆亭餐厅**用餐（在地知名的宁静绿意用餐空间，可喂鱼放空），下午再继续行程或直接离开乌布。
 
-这一集小杰带你们去猴子森林、乌布皇宫、乌布市场看看现在的情况。我们在乌布餐厅的发呆亭（Bale Udang）吃午餐，然后就离开乌布咯！
+这一集小杰带你们去猴子森林、乌布皇宫、乌布市场看看现在的情况。我们在乌布餐厅的发呆亭（Bale Udang）吃午餐，然后就离开乌布啰！
 
 {{block:戶外}}
 

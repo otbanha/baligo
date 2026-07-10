@@ -2,12 +2,12 @@
 slug: bali-visa-tourism-tax
 title: >-
   Aturan Baru Masuk Bali: Proses Pengajuan Visa + Pembayaran Pajak Wisatawan
-  Diluncurkan Serentak
+  Sekaligus
 description: >-
-  Bali resmi menggabungkan Pajak Wisatawan (Tourist Levy) ke dalam proses
-  pengajuan visa, bikin wisatawan lebih gampang bayar sekaligus ningkatin
-  efisiensi penerimaan pajak.
+  Bali resmi menggabungkan pajak wisatawan ke dalam proses pengajuan visa, bikin
+  traveler lebih gampang bayar sambil ningkatin efisiensi penerimaan pajak.
 pubDate: '2025-10-06'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9f3714d76e8ece3e03fe1c739b44bb36.png'
 tags:
   - 巴里島觀光稅
@@ -19,50 +19,51 @@ originalUrl: 'https://vocus.cc/article/68e36431fd89780001eea4fa'
 category:
   - 簽證通關
 lang: id
-_srcHash: def3024ea01c590939297a196452c3c0
+_srcHash: 3b6988ea3662d861229e8de37da2a1ac
 ---
+**Kesimpulan Awal**: Gubernur Bali mengusulkan pajak wisatawan (Rp 150.000) digabung dengan proses pengajuan visa, dibayar sekali jalan — **direncanakan mulai akhir 2025**. Tujuannya buat ngatasin masalah tingkat pembayaran yang cuma sekitar 35%. **Sebelum aturan baru ini berlaku**, pajak wisatawan tetap harus dibayar terpisah lewat website/aplikasi LoveBali atau konter bandara. Cek dulu ya sebelum berangkat apakah sudah berlaku.
 
 ## **Sekilas Aturan Baru Pajak Wisatawan Bali**
 
-Gubernur Bali, **Wayan Koster**, ngumumin kalau **Pajak Wisatawan (Tourist Levy)** bakal resmi dimasukin ke proses pengajuan visa buat ningkatin pendapatan daerah dan memperbaiki manajemen pariwisata.
+Gubernur Bali **Wayan Koster** mengumumkan, demi meningkatkan pendapatan daerah dan memperbaiki manajemen pariwisata, **pajak wisatawan (Tourist Levy)** akan resmi dimasukkan ke dalam proses pengajuan visa.
 
-![Sekilas Aturan Baru Pajak Wisatawan Bali](https://images.gobaligo.id/vocus/vocus_2a29412d867ed5a676e351934576fdd1.png)
+![峇里島旅遊稅新規簡介](https://images.gobaligo.id/vocus/vocus_2a29412d867ed5a676e351934576fdd1.png)
 
-Saat ini, meskipun setiap turis asing diwajibkan bayar **150.000 IDR** (sekitar USD$5), tingkat pembayaran aktual cuma sekitar **35%**. Akibatnya, pemerintah daerah kehilangan potensi pendapatan ratusan miliar rupiah setiap tahun.
+Saat ini, meskipun setiap turis asing diwajibkan bayar **150.000 Rupiah** (sekitar USD$5), tingkat pembayaran aktual cuma sekitar **35%**. Akibatnya, pemerintah daerah kehilangan potensi pendapatan ratusan miliar rupiah setiap tahun.
 
 ---
 
-## **Kenapa Pajak Wisatawan Digabung ke Sistem Visa?**
+## **Kenapa Pajak Wisatawan Dimasukkan ke Sistem Visa?**
 
-Sekarang, wisatawan harus pakai tiga platform berbeda:
+Saat ini turis harus pakai tiga platform berbeda:
 
 1. Sistem e-Visa
-2. Situs pembayaran pajak wisata LoveBali
+2. Situs pembayaran pajak wisatawan LoveBali
 3. Formulir All Indonesia yang diisi sebelum masuk
 
-Proses kayak gini bikin banyak wisatawan merasa ribet, dan akhirnya ada yang lupa langkah bayar pajak.
+Proses kayak gini bikin banyak traveler repot, dan sebagian malah lupa bayar pajak.
 
-Makanya, Koster ngusul biar **Direktorat Jenderal Imigrasi (Ditjen Imigrasi)** yang ngurus penagihan, jadi pajak wisatawan bisa dibayar bareng sama biaya visa.
-
----
-
-## **Kerja Sama Pemerintah dan Industri Pariwisata**
-
-Koster sudah membahas reformasi ini dengan Menteri Hukum dan HAM Indonesia **Yusril Ihza Mahendra**, dan mendapat respons positif.
-
-Sementara itu, **354 anggota** dari Asosiasi Agen Perjalanan Indonesia (**ASITA**) sudah bergabung dalam program ini sebagai titik pembayaran resmi, masing-masing mendapat **komisi 3%** sebagai imbalan.
+Karena itu, Koster mengusulkan agar pemungutannya dilakukan oleh **Direktorat Jenderal Imigrasi (Directorate General of Immigration)**, sehingga pajak turis bisa dibayar bersamaan dengan biaya visa.
 
 ---
 
-## **Cara Pembayaran dan Perubahan Setelah Sistem Baru Berlaku**
+## **Rencana Kerja Sama Pemerintah dan Industri Pariwisata**
 
-Saat ini masih bisa bayar lewat **situs LoveBali atau aplikasi (App Store / Google Play)**.
+Koster sudah mendiskusikan reformasi ini dengan Menteri Hukum dan HAM Indonesia, **Yusril Ihza Mahendra**, dan mendapat respons positif.
 
-![Cara Pembayaran dan Perubahan Setelah Sistem Baru Berlaku](https://images.gobaligo.id/vocus/vocus_cd3ba5773e028d2fdf173741945a7708.png)
+Selain itu, **354 anggota** dari Asosiasi Agen Perjalanan Wisata Indonesia (**ASITA**) sudah bergabung dalam program ini sebagai titik pembayaran resmi, dan setiap agen akan mendapat **komisi 3%** sebagai imbalan.
 
-Tapi setelah sistem baru aktif, pajak akan langsung terikat dengan pengajuan visa, **jadi nggak bisa dihindari lagi**.
+---
 
-Diperkirakan setiap tahun akan menghasilkan hampir **1 triliun Rupiah** untuk Bali, yang dipakai buat:
+## **Cara Pembayaran dan Perubahan Setelah Aturan Baru Berlaku**
+
+Saat ini, kamu masih bisa bayar lewat **situs LoveBali atau aplikasi (App Store / Google Play)**.
+
+![繳費方式與新制生效後的變化](https://images.gobaligo.id/vocus/vocus_cd3ba5773e028d2fdf173741945a7708.png)
+
+Tapi begitu aturan baru berlaku, pembayaran pajak akan langsung terikat dengan pengajuan visa, **jadi nggak bisa diakali lagi**.
+
+Diperkirakan setiap tahunnya akan mendatangkan pendapatan hampir **1 triliun rupiah** untuk Bali, yang akan digunakan untuk:
 
 - Perlindungan lingkungan
 - Perbaikan infrastruktur
@@ -72,44 +73,44 @@ Diperkirakan setiap tahun akan menghasilkan hampir **1 triliun Rupiah** untuk Ba
 
 ## **Visi Jangka Panjang Pemerintah Bali**
 
-Pemerintah daerah bilang, pendapatan tambahan ini akan dipakai khusus untuk mendorong **Pariwisata Berkelanjutan (Sustainable Tourism)**.
+Pemerintah daerah bilang, pemasukan baru ini akan dipakai khusus buat mendorong **Pariwisata Berkelanjutan (Sustainable Tourism)**.
 
-Dengan sumber pendanaan yang stabil, transportasi, fasilitas umum, dan kualitas lingkungan di Bali akan semakin ditingkatkan, supaya Bali tetap bisa menarik wisatawan dari seluruh dunia.
+Dengan sumber dana yang stabil, bakal diperbaiki transportasi, fasilitas umum, dan kualitas lingkungan, biar Bali tetap bisa narik wisatawan dari seluruh dunia.
 
 ---
 
-## **FAQ: Pertanyaan yang Sering Ditanyakan**
+## **FAQ – Pertanyaan yang Sering Ditanyakan**
 
-### **Q1. Berapa besar pajak turis di Bali?**
+### **Q1. Berapa sih pajak turis Bali?**
 
 A1. Besar pajak turis adalah **150.000 Rupiah**, sekitar USD$10.
 
-### **Q2. Kapan sistem baru ini mulai diterapkan?**
+### **Q2. Kapan aturan baru ini mulai berlaku?**
 
-A2. Diperkirakan akan sepenuhnya terintegrasi dalam proses pengajuan visa pada **akhir tahun 2025**.
+A2. Diperkirakan **akhir 2025** bakal sepenuhnya masuk dalam proses pengajuan visa.
 
-### **Q3. Apakah saya bisa bayar pajak turis di bandara?**
+### **Q3. Bisa bayar pajak turis di bandara?**
 
-A3. Bisa, tapi ke depannya pembayaran akan dilakukan bersamaan dengan visa.
+A3. Bisa, tapi ke depannya bakal digabung sama pembayaran visa.
 
-### **Q4. Apakah struk pembayaran pajak turis harus disimpan?**
+### **Q4. Apakah struk setelah bayar pajak turis harus disimpan?**
 
-A4. Disarankan untuk menyimpan struk elektronik sebagai bukti saat pemeriksaan masuk.
+A4. Disarankan simpan struk elektronik, buat jaga-jaga kalau diperiksa pas masuk.
 
-### **Q5. Untuk apa pajak turis digunakan?**
+### **Q5. Pajak turis ini buat apa sih?**
 
-A5. Terutama digunakan untuk **konservasi lingkungan**, **infrastruktur**, dan **peningkatan fasilitas pariwisata**.
+A5. Utamanya buat **konservasi lingkungan, infrastruktur**, dan **perbaikan fasilitas wisata**.
 
-## 📩 **Penjelasan Halaman Depan 'Panduan Wisata Bali'**
+## 📩 **'Panduan Wisata Bali' Halaman Depan**
 
-![Penjelasan Halaman Depan 'Panduan Wisata Bali'](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
+![「峇里島旅遊攻略」首頁說明](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 
-**Dengan berlangganan gratis, kamu bakal dapet:**
+**Dengan berlangganan gratis, kamu akan dapat:**
 
-- Berita terbaru Bali, biar kamu dapet info wisata paling update
-- Panduan mendalam, bikin itinerary kamu hemat dan bebas repot
-- Rekomendasi tempat rahasia dan peta kuliner lokal eksklusif
+- Berita terbaru Bali, biar kamu selalu update info wisata
+- Panduan mendalam, bikin itinerary kamu hemat dan bebas drama
+- Rekomendasi spot rahasia dan peta kuliner lokal eksklusif
 - Konten yang nggak ada di grup Facebook
-- Kumpulan saran itinerary dari sesama traveler, bikin setiap perjalanan jadi mulus tanpa hambatan
+- Kumpulan saran itinerary dari sesama traveler, biar setiap trip mulus tanpa hambatan
 
-Cukup pakai akun Google atau Facebook, registrasinya gampang banget!
+Cukup pakai akun Google atau Facebook, registrasi jadi gampang banget!

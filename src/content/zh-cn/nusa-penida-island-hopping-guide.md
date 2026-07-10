@@ -4,6 +4,7 @@ title: 巴厘岛六日自由行Nusa Penida跳岛攻略
 description: >-
   这是我们社团网友「Sophie）」在巴厘岛度过的六天精彩自由行程！有许多参考了「小杰印尼」的视频和我们「巴厘岛旅游攻略」的精彩攻略的组合。让我们一起看看这段她自己安排的充满冒险和探索旅程吧！
 pubDate: '2024-01-28'
+updatedDate: 2026-07-10T00:00:00.000Z
 update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2eb0a8dae04d24a5cfc262605f45386b.jpg'
 tags:
@@ -16,8 +17,9 @@ originalUrl: 'https://vocus.cc/article/65b51f59fd89780001e498d4'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 4e082266a2f932873373b3ab372add86
+_srcHash: 65eee795835ed244f59dece8be784bd2
 ---
+**重点摘要**：六天行程路线是**乌布（前两天）→ 佩尼达岛跳岛（第三到五天）→ 金巴兰（第六天）告别巴厘岛**。实测提醒：Sanur 港口出发的渡轮**曾误点达 2 小时**，跳岛行程请预留缓冲时间；佩尼达岛东岸必看 Diamond Beach 与 Atuh Beach。详细每日行程与时间安排如下。
 
 这是我们社团网友「[Sophie](https://www.facebook.com/soficia.chen)」在巴厘岛度过的六天精彩自由行程！有许多参考了「[小杰印尼](https://www.youtube.com/@j_indonesia)」的视频和我们「巴厘岛旅游攻略」的精彩攻略的组合。让我们一起看看这段她自己安排的充满冒险和探索旅程吧！
 
@@ -39,14 +41,14 @@ Sophie的六天巴厘岛自由行游记分享
 - 👏可以配合所有行程变动
 - 👏我们有帮家人庆生，他在金巴兰推荐餐厅并帮我们安排蛋糕及乐队合唱，非常细心
 
-![包车司机](https://images.gobaligo.id/vocus/vocus_7619892b3fc1f39c15d5098c619943bf.jpg)
+![包車司機](https://images.gobaligo.id/vocus/vocus_7619892b3fc1f39c15d5098c619943bf.jpg)
 
 ## 1/18第一天：抵达巴厘岛，乌布探险
 
 - **15:20**：抵达巴厘岛机场，准备展开巴厘岛之旅。司机提到虽然是雨季，但已经很久没下雨了。
-- **16:00**：抵达机场，转换一些当地货币。建议找一家可靠的换汇处。
+- **16:00**：抵达机场，兑换一些当地货币。建议找一家可靠的换汇处。
 
-（延伸阅读：[关于换汇你必须要知道的全部懒人包](/zh-cn/blog/bali-currency-exchange-guide/)）
+> （延伸阅读：[关于换汇你必须知道的全部懒人包](/zh-cn/blog/bali-currency-exchange-guide/)）
 
 - **18:00**：品尝水上发呆亭脏鸭饭的绝佳选择 - [Bebek Tebasari Resto](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89252-bebek-tepi-sawah-dining-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6380339e0f)。这是一家非常值得推荐的餐厅。
 
@@ -60,11 +62,11 @@ Bebek Tebasari Resto 图：Sophie提供
 
 从清晨5点到下午2点的间歇性暴雨，但这不影响我们的探险精神！
 
-- **09:00**：参加漂流活动，即使天气不佳，这仍然是一次难忘的经历。
+- **09:00**：参加泛舟活动，即使天气不佳，这仍然是一次难忘的经历。
 
-> [阿勇河漂流](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)[阿勇河漂流（含接送）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
+> [阿勇河泛舟](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)[阿勇河泛舟（含接送）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
 
-快速参考：[巴厘岛漂流攻略（漂流常见问题FAQ）](/zh-cn/blog/bali-rafting-ayung-telaga-waja/)
+快速参考：[巴厘岛泛舟攻略（泛舟常见问题FAQ）](/zh-cn/blog/bali-rafting-ayung-telaga-waja/)
 
 - **13:00**：品尝美味的午餐，并欣赏Tis Cafe旁的梯田风景。
 
@@ -120,7 +122,7 @@ Atuh Beach 图：Sophie提供
 
 不用排队的天空之门 图：Sophie提供
 
-（延伸阅读：[Amarta Penida介绍](/zh-cn/blog/nusa-penida-best-restaurants/)）
+> （延伸阅读：[Amarta Penida介绍](/zh-cn/blog/nusa-penida-best-restaurants/)）
 
 ## 1/22 第五天：Nusa Penida岛和Jimbaran
 
@@ -141,18 +143,18 @@ Diamond Beach 图：Sophie提供
 
 ## 1/23第六天：Jimbaran和告别巴厘岛
 
-- **07:00**：在金巴兰酒店 [Fox Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3121957) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6371074&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6y8zFJMEk9YyZ4_KR3XfYhBiNDM6yWayOcDQGAecUB88dcq2vA3dkOATwzGBsetfCvIKRcSOjyDr3h1VXHB12MDKdYJzOvoDp5Jld_KdYmDmWMV5i-cwUXa2UnVqpZGWio1SSWZKTqmSl9HTRvKcNe56vaFXSUUpJLU4GCgFZibn5pXklQLaFsZ6BAVCgJLHCMwWsMTkxJ7k0J7EkNaSyAGiAmY5SZrFzSVFmQVBqbmZJSSpQVVpiTnEqSDwotRgokwwWVPIDGlMEFcjMz4NoN0QRC0vMKU2FuABooVsq1A7DWh1Mhz-b0_u0e-aLTbuJcrg5tR1uQIzDjWtjH7EwRcd-YmH4xcLQxMrQxcowiZWZYzr7Llae4BAjX-8gXUPdKF1DKXlDAwMDU0NjU1Ndg0TLRFPjZENdE0sTI3NDXSMTUyMzja3dH288MTaylmKdcuD5NHYFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbJbGrs7GjlE2XMyhwS6C6VefZ2mbSTtIMYeEuyhODrrwVrX3tL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD4SJp_EWpWhGxKe0StewNjAyNTFyC3A6MEYwVgB5DGuYmTnYjYwMhRg2sDIuIPxPwwwvmIEWQIAYN9JO9kCAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-24526&detailFilters=17|1~17~1*31|6371074~31~6371074*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=900&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) 顶楼泳池放松，享受美好的早晨。
+- **07:00**：在金巴兰酒店 [Fox Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3121957) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6371074&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6y8zFJMEk9YyZ4_KR3XfYhBiNDM6yWayOcDQGAecUB88dcq2vA3dkOATwzGBsetfCvIKRcSOjyDr3h1VXHB12MDKdYJzOvoDp5Jld_KdYmDmWMV5i-cwUXa2UnVqpZGWio1SSWZKTqmSl9HTRvKcNe56vaFXSUUpJLU4GCgFZibn5pXklQLaFsZ6BAVCgJLHCMwWsMTkxJ7k0J7EkNaSyAGiAmY5SZrFzSVFmQVBqbmZJSSpQVVpiTnEqSDwotRgokwwWVPIDGlMEFcjMz4NoN0QRC0vMKU2FuABooVsq1A7DWh1Mhz-b0_u0e-aLTbuJcrg5tR1uQIzDjWtjH7EwRcd-YmH4xcLQxMrQxcowiZWZYzr7Llae4BAjX-8gXUPdKF1DKXlDAwMDU0NjU1Ndg0SLRFPjZENdE0sTI3NDXSMTUyMzja3dH288MTaylmKdcuD5NHYFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbJbGrs7GjlE2XMyhwS6C6VefZ2mbSTtIMYeEuyhODrrwVrX3tL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD4SJp_EWpWhGxKe0StewNjAyNTFyC3A6MEYwVgB5DGuYmTnYjYwMhRg2sDIuIPxPwwwvmIEWQIAYN9JO9kCAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-24526&detailFilters=17|1~17~1*31|6371074~31~6371074*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=900&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) 顶楼泳池放松，享受美好的早晨。
 - **12:00**：到Wahaha享受美味的猪肋排。
 
 Wahaha吃过的都说赞！
 
-- **13:30**：在Prema Rasa购买一些伴手礼，并准备前往机场。
+- **13:30**：Prema Rasa购买一些伴手礼，并准备前往机场。
 
 内行的都知道要去Prema Rasa买伴手礼
 
 **快速参考：**[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/zh-cn/blog/bali-souvenirs-gift-guide/)
 
-- **14:30** 启程前往机场。旅程最后一天安排在库塔、金巴兰这一带的优点是「完全不用担心赶不上飞机」哦！
+- **14:30** 启程前往机场。旅程最后一天安排在库塔、金巴兰这一带的优点是「完全不用提心吊胆会赶不上飞机」喔！
 
 > （延伸阅读：[库塔旅游攻略：50个必访景点、美食、推荐SPA全收集](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)）  
 > （延伸阅读：[金巴兰自由行：推荐31个玩乐景点全攻略](/zh-cn/blog/jimbaran-guide/)）
@@ -163,4 +165,4 @@ Wahaha吃过的都说赞！
 
 （以上图文内容由Sophie提供，并同意小编改写）
 
-您觉得Sophie小姐的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
+您觉得Sophie小姐的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！

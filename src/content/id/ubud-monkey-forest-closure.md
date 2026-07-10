@@ -4,13 +4,14 @@ title: >-
   Ubud Monkey Forest Tutup Tanpa Batas Waktu: Tragedi Turis Picu Kekhawatiran
   Keamanan
 description: >-
-  Hutan Monyet Ubud (Monkey Forest) yang terkenal di Bali, kini ditutup tanpa
-  batas waktu setelah terjadi tragedi yang memilukan. Tempat wisata yang dikenal
-  dengan keindahan alam dan kera-kera nakalnya ini kini terasa sepi. Kejadian
-  ini tidak hanya memicu perhatian berbagai pihak terhadap keselamatan wisata,
-  tetapi juga memaksa pengelola untuk mempercepat evaluasi langkah-langkah
-  keamanan demi keselamatan pengunjung di masa depan.
+  Hutan Monyet Ubud yang terkenal di Bali, atau Monkey Forest, kini ditutup
+  tanpa batas waktu setelah sebuah tragedi memilukan. Tempat wisata yang dikenal
+  dengan keindahan alam dan kawanan monyet nakalnya ini kini terasa sepi luar
+  biasa. Kejadian ini tidak hanya memicu kekhawatiran soal keselamatan wisata,
+  tapi juga memaksa pengelola untuk mempercepat evaluasi prosedur keamanan demi
+  melindungi pengunjung ke depannya.
 pubDate: 2024-12-15T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 美食景點活動
   - 旅行技巧
@@ -28,74 +29,75 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e50b47be8b5a445ea5822ae221250f22.jpg'
 originalUrl: 'https://vocus.cc/article/675e8258fd89780001f86f69'
 lang: id
-_srcHash: 645b7ae6c31fc3007be63a40e0f64486
+_srcHash: 181bfa8cbf844f8f8f26a09949783088
 ---
+**Kesimpulan dulu**: Desember 2024, Ubud Monkey Forest ditutup **tanpa batas waktu** setelah pohon besar tumbang akibat badai dan menewaskan 2 turis. Pihak pengelola menegaskan pohonnya sehat, kecelakaan murni karena cuaca ekstrem, bukan kelalaian perawatan. **Status buka bisa berubah kapan saja**, jadi pastikan cek info terbaru atau pantau langsung sebelum berangkat.
 
-**Hutan Monyet Ubud (Monkey Forest)** yang terkenal di Bali, kini ditutup tanpa batas waktu setelah terjadi tragedi yang memilukan. Tempat wisata yang dikenal dengan keindahan alam dan kera-kera nakalnya ini kini terasa sepi. Kejadian ini tidak hanya memicu perhatian berbagai pihak terhadap keselamatan wisata, tetapi juga memaksa pengelola untuk mempercepat evaluasi langkah-langkah keamanan demi keselamatan pengunjung di masa depan.
+Hutan Monyet Ubud yang terkenal di Bali, atau **Monkey Forest**, kini ditutup tanpa batas waktu setelah sebuah tragedi memilukan. Tempat wisata yang dikenal dengan keindahan alam dan monyet-monyet nakalnya ini mendadak sepi. Kejadian ini tidak hanya menyoroti masalah keselamatan wisata, tapi juga memaksa pengelola untuk mempercepat evaluasi prosedur keamanan demi keselamatan pengunjung ke depannya.
 
-![Ubud Monkey Forest Tutup Tanpa Batas Waktu: Tragedi Turis Pi](https://images.gobaligo.id/vocus/vocus_fbf73a2a2f0e51c20cfab84446f04bd0.jpg)
+![烏布聖猴森林無限期關閉：遊客悲劇引發安全關注](https://images.gobaligo.id/vocus/vocus_fbf73a2a2f0e51c20cfab84446f04bd0.jpg)
 
-## Tragedi: Pohon Besar Tumbang Akibat Badai
+## Tragedi: Pohon Besar Tumbang Timpa Pengunjung
 
-Selasa lalu, badai mendadak menyebabkan sebuah pohon besar tumbang di dalam Hutan Monyet, mengakibatkan dua turis asing meninggal dunia. Korban adalah **Justine Christine** (32 tahun) asal Prancis dan **Kim Hyun** (42 tahun) asal Korea Selatan. Satu orang luka berat kini sudah lepas dari bahaya, sementara lima orang mengalami luka ringan.
+Selasa lalu, badai mendadak menyebabkan sebuah pohon besar di Monkey Forest tumbang, menewaskan dua turis asing. Korban adalah **Justine Christine** (32 tahun) asal Prancis dan **Kim Hyun** (42 tahun) asal Korea Selatan. Satu orang luka berat kini sudah lewat masa kritis, sementara lima lainnya luka ringan.
 
-Saksi mata di lokasi mengingat saat angin kencang disertai hujan deras menyerang tiba-tiba. Meskipun banyak pengunjung segera dievakuasi, pohon besar yang tumbang akibat badai itu tetap menyebabkan kerusakan yang tak terhindarkan.
+Saksi mata di lokasi bilang, saat itu angin kencang disertai hujan deras datang tiba-tiba. Banyak pengunjung sempat dievakuasi, tapi pohon besar yang tumbang akibat badai itu tetap menimbulkan korban yang tak terhindarkan.
 
-## Pernyataan Resmi: Pohon Sehat, Badai Sulit Dicegah
+## Pernyataan Resmi: Pohon Sehat, Tapi Badai Tak Terduga
 
-Pihak pengelola Hutan Monyet segera mengeluarkan pernyataan resmi, menegaskan bahwa kejadian ini bukan disebabkan oleh penyakit pohon:
+Pihak pengelola Monkey Forest langsung mengeluarkan pernyataan resmi, menegaskan bahwa kejadian ini bukan karena pohonnya sakit:
 
-> “Kami sangat menyesali tragedi yang dipicu oleh angin kencang ini. Pohon yang tumbang itu sebenarnya sehat dan tidak berbahaya. Kami secara rutin melakukan pemantauan dan pemangkasan pohon untuk memastikan keselamatan pengunjung, staf, dan hewan.”
+> “Kami sangat menyesali tragedi yang disebabkan angin kencang ini. Pohon yang tumbang itu sebenarnya sehat dan tidak berbahaya. Selama ini kami rutin memantau dan memangkas pohon demi keselamatan pengunjung, staf, dan satwa.”
 
-Menurut pihak pengelola hutan, kecelakaan ini terutama disebabkan oleh cuaca ekstrem yang tiba-tiba, bukan karena kelalaian pengelolaan.
+Menurut pihak pengelola hutan, kecelakaan ini terutama dipicu oleh cuaca ekstrem yang tiba-tiba, bukan karena kelalaian pengelolaan.
 
-![Pernyataan Resmi: Pohon Sehat, Badai Sulit Dicegah](https://images.gobaligo.id/vocus/vocus_031cecfcd75e3044c50ff48bad7d4012.jpg)
+![官方聲明：樹木健康但風暴難以預防](https://images.gobaligo.id/vocus/vocus_031cecfcd75e3044c50ff48bad7d4012.jpg)
 
-## Menenangkan Keluarga Korban: Santunan Asuransi & Penanganan Pasca-Kejadian
+## Menenangkan Keluarga Korban: Kompensasi Asuransi & Penanganan Pasca-Kejadian
 
-Manajer Umum Monkey Forest, **Anak Agung Bagus Bhaskara**, menyatakan akan membantu sepenuhnya keluarga korban dan memberikan santunan asuransi:
+Manajer Umum Monkey Forest, **Anak Agung Bagus Bhaskara**, menyatakan akan memberikan dukungan penuh kepada keluarga korban dan menyediakan kompensasi asuransi:
 
-> “Kami bekerja sama dengan perusahaan asuransi, dengan nilai santunan mulai dari 100 juta hingga 1 miliar rupiah. Saat ini, keluarga korban asal Korea Selatan diperkirakan tiba dalam dua hari, sementara kabar lebih lanjut tentang keluarga korban asal Prancis masih dalam konfirmasi.”
+> “Kami bekerja sama dengan perusahaan asuransi, dengan jumlah kompensasi mulai dari 100 juta hingga 1 miliar Rupiah. Saat ini, keluarga korban asal Korea Selatan diperkirakan tiba dalam dua hari, sementara kabar selanjutnya dari keluarga korban asal Prancis masih dalam konfirmasi.”
 
-Pernyataan ini menunjukkan sikap manajemen yang sangat bertanggung jawab terhadap keluarga korban, berusaha meringankan duka dan kesulitan mereka.
-
-***
-
-## Ritual Adat: Membersihkan Energi Bencana
-
-Menurut tradisi budaya Bali, saat terjadi bencana besar, harus diadakan ritual pembersihan untuk menetralkan energi buruk. Setelah kejadian, Kepala Desa **Padangtegal**, **I Made Parmita**, mengumumkan bahwa dua ritual penting telah dilakukan di lokasi kejadian:
-
-1. **Ritual Prayaschita**: terdiri dari empat tahap, yaitu pemurnian, penebusan dosa, pembersihan, dan persiapan tempat.
-2. **Ritual Pekaruan**: dilaksanakan di **Pura Wana**, bertujuan menghilangkan energi negatif dan memohon keselamatan di masa depan.
-
-Ritual-ritual ini merupakan bagian penting dari budaya Bali, melambangkan rasa hormat terhadap bencana alam serta keinginan untuk hidup harmonis dengan alam.
+Pernyataan ini menunjukkan sikap tanggung jawab yang tinggi dari pihak pengelola terhadap keluarga korban, berusaha meringankan kesedihan dan kesulitan mereka.
 
 ***
 
-## Memperketat Keamanan: Antisipasi Risiko ke Depan
+## Melakukan Upacara Adat: Membersihkan Energi Bencana
 
-Untuk mencegah tragedi serupa terulang, Monkey Forest telah mengumumkan peningkatan manajemen keamanan dan mengambil langkah-langkah berikut:
+Menurut tradisi budaya Bali, ketika terjadi bencana besar, harus dilakukan upacara pemurnian untuk menetralisir energi buruk. Setelah kejadian tersebut, kepala desa **Padangtegal**, **I Made Parmita**, mengumumkan bahwa dua upacara penting telah dilakukan di lokasi kejadian:
 
-1. **Pemeriksaan & Penguatan Pohon**: Memperkuat akar pohon-pohon tua untuk mencegah tumbang saat badai.
-2. **Prakiraan Cuaca Real-Time**: Memberikan peringatan cuaca, mengingatkan wisatawan untuk waspada saat cuaca buruk.
-3. **Penutupan Sementara**: Monkey Forest Ubud kini ditutup tanpa batas waktu, tanggal pembukaan kembali belum ditentukan.
+1. **Upacara Prayaschita**: Terdiri dari empat tahap, yaitu pemurnian, penebusan dosa, pembersihan, dan persiapan tempat.
+2. **Upacara Pekaruan**: Dilaksanakan di **Pura Wana**, bertujuan untuk menghilangkan energi negatif dan memohon keselamatan di masa depan.
+
+Upacara-upacara ini merupakan bagian penting dari budaya Bali, melambangkan rasa hormat terhadap bencana alam serta keinginan untuk hidup harmonis dengan alam.
 
 ***
 
-## Musim Hujan di Bali Tidak Normal: Bencana Beruntun
+## Memperketat Langkah Keamanan: Mengantisipasi Risiko di Masa Depan
 
-Pemerintah daerah Bali menyebut curah hujan belakangan ini meningkat drastis, menyebabkan bencana di berbagai tempat. Menurut data **Badan Penanggulangan Bencana Daerah Bali**, dalam tiga hari terakhir terjadi 50 kejadian, termasuk **pohon tumbang**, **tanah longsor**, dan **banjir**. Pihak berwenang juga mengingatkan wisatawan untuk tetap waspada selama musim hujan dan mencari tempat aman untuk berlindung.
+Biar kejadian serupa nggak terulang lagi, Sacred Monkey Forest udah ngumumin bakal ningkatin keamanan dan ngelakuin langkah-langkah berikut:
 
-Selain itu, warga setempat menilai musim hujan tahun ini luar biasa deras, yang terparah dalam beberapa tahun terakhir. Fenomena ini makin menyoroti pentingnya perhatian terhadap keselamatan di sektor pariwisata.
+1. **Pemeriksaan dan Penguatan Pohon**: Nambahin stabilitas akar pohon tua biar nggak roboh kena angin kencang.
+2. **Prakiraan Cuaca Real-Time**: Kasih peringatan cuaca buat ngigetin pengunjung biar hati-hati pas cuaca buruk.
+3. **Penutupan Sementara**: Sacred Monkey Forest sekarang ditutup tanpa batas waktu, belum ada info kapan dibuka lagi.
 
-## Penutup: Prospek Masa Depan Monkey Forest Ubud
+***
 
-Sebagai ikon wisata Ubud, penutupan tanpa batas waktu Monkey Forest Ubud jelas berdampak besar pada ekonomi lokal. Namun, tragedi ini juga mengingatkan semua pihak terkait pariwisata untuk mengevaluasi ulang masalah keselamatan, demi memastikan setiap wisatawan bisa menikmati keindahan alam dengan aman.
+## Musim Hujan di Bali Nggak Biasa: Banyak Bencana
 
-Bagi traveler yang berencana ke Bali, terutama saat musim hujan, wajib perhatikan peringatan cuaca setempat dan pilih waktu yang tepat untuk mengunjungi destinasi. Dengan upaya pengelola, Monkey Forest Ubud diyakini akan kembali menyambut wisatawan dengan wajah yang lebih aman dan lebih baik.
+Pemerintah daerah Bali bilang, curah hujan akhir-akhir ini meningkat drastis, bikin banyak bencana di mana-mana. Menurut **Badan Penanggulangan Bencana Bali**, dalam tiga hari terakhir aja ada 50 kejadian, kayak **pohon tumbang**, **tanah longsor**, dan **banjir**. Pihak berwenang juga ngimbau wisatawan buat tetap waspada selama musim hujan dan cari tempat aman buat berteduh.
 
-![Penutup: Prospek Masa Depan Monkey Forest Ubud](https://images.gobaligo.id/vocus/vocus_40badc67ca4389e98047c26489ef7ac6.jpg)
+Selain itu, warga setempat ngerasa musim hujan tahun ini lebih parah dari biasanya, yang terparah dalam beberapa tahun terakhir. Fenomena ini makin bikin industri pariwisata fokus ke masalah keamanan.
 
-**Catatan Penting**: Kalau kamu ada rencana ke Bali dalam waktu dekat, pantau terus update cuaca dan pengumuman terbaru dari tempat wisata. Safety first, ya!
+## Penutup: Masa Depan Sacred Monkey Forest
+
+Sebagai ikon wisata Ubud, penutupan Sacred Monkey Forest tanpa batas waktu jelas berdampak besar ke ekonomi lokal. Tapi, tragedi ini juga jadi pengingat buat semua pihak terkait pariwisata buat ngevaluasi ulang masalah keamanan, biar setiap pengunjung bisa menikmati keindahan alam dengan tenang.
+
+Buat kamu yang lagi rencanain liburan ke Bali, terutama pas musim hujan, jangan lupa pantau peringatan cuaca setempat dan pilih waktu yang pas buat ngunjungin tempat-tempat wisata. Percaya deh, dengan usaha dari pengelola, Sacred Monkey Forest bakal balik lagi dengan tampilan yang lebih aman dan lebih oke buat nyambut pengunjung.
+
+![結語：聖猴森林的未來展望](https://images.gobaligo.id/vocus/vocus_40badc67ca4389e98047c26489ef7ac6.jpg)
+
+**Tips kecil**: Kalau kamu ada rencana ke Bali dalam waktu dekat, pantau terus update cuaca dan pengumuman terbaru dari tempat wisata. Safety first, guys!
 
 {{block:ubud}}

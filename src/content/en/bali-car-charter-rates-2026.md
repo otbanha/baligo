@@ -1,14 +1,16 @@
 ---
 title: >-
-  【2026 Bali Transport Announcement】Charter Price Adjustment Effective July 1:
-  Latest Driver Team Quotes and Billing Methods
+  【2026 Bali Transport Update】Price Adjustment for Private Car Hire Effective
+  July 1: Latest Quotes and Billing from Our Driver Team
 slug: bali-car-charter-rates-2026
 description: >-
   Official announcement from Bali's local driver team. Starting July 1, 2026,
-  island-wide charter service prices will undergo a minor adjustment. This
-  article fully discloses the latest vehicle quotes (budget 5-seater, spacious
-  comfort, group minibus), overtime charges, and cross-zone surcharge details.
+  private car hire services across the island will see a minor price adjustment.
+  This article fully discloses the latest vehicle quotes (budget 5-seater,
+  spacious comfort, group minibus), overtime charges, and cross-zone surcharge
+  details.
 pubDate: 2026-06-13T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: 18
 category:
   - 叫車包車
@@ -29,61 +31,62 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 763d10ac1ea839770fff5291fddc13d0
+_srcHash: 68f2ebbc05299567fc7da80ffc04ccab
 ---
+**Bottom line first**: From July 1, 2026 (applicable to trips on or after this date), Bali private car hire **base prices remain unchanged**, with a fixed "fuel surcharge" added per trip—**IDR 50,000 for half-day, IDR 100,000 for full-day**. This ensures short trips and airport transfers aren't disproportionately affected, and allows flexibility to lower the surcharge if fuel prices drop in the future.
 
-### 📢 Announcement from Bali's Driver Team: Charter Service Price Adjustment (Effective July 1, 2026)
+### 📢 Official Announcement from Bali Driver Team: Private Car Hire Price Adjustment (Effective July 1, 2026)
 
-> Our decision: Base fare remains unchanged, with a fuel surcharge per trip – continuing to serve you.
+> Our decision: Base fares stay the same, with a fuel surcharge per trip – continuing to serve you all
 
 Dear travelers, hello!
 
-We are a team of drivers providing charter services in Bali. Over the past few years, **the Indonesian Rupiah has been depreciating**, and **global fuel prices have been rising**, making our daily expenses for fuel, vehicle maintenance, and even living costs increasingly heavy. After discussions and consultations, we have decided to adopt a **"base charter price unchanged, but with a fuel surcharge added per trip"** approach starting **July 1, 2026**.
+We are a team of drivers providing private car hire services in Bali. In recent years, **the Indonesian Rupiah has been depreciating**, and **global fuel prices have been rising**, making our daily expenses for gas, vehicle maintenance, and even living costs much heavier. After thorough discussion and agreement, we've decided to implement a **"base price unchanged, but with a fuel surcharge per trip"** approach starting **July 1, 2026**.
 
-We don't want to simply raise the base charter price, as that would be unfair for short trips and airport transfers. Plus, if fuel prices drop in the future, lowering the price again would be complicated. So, this is the best way to balance **your costs** with **our livelihoods**.
+We didn't want to simply raise the base rates, as that would be unfair to guests taking short trips or airport transfers, and it would be cumbersome to adjust back if fuel prices drop later. So, this is the best way to balance **your affordability** with **our livelihood**.
 
 ***
 
-## 🔁 New Billing Method (Jointly Decided by the Drivers)
+## 🔁 New Billing Method (Decided by the Drivers Collectively)
 
-- **Base Charter Price**: Unchanged (same as the previously announced price list)
-- **Additional "Fuel Surcharge" per Trip**: A fixed amount based on charter duration
-- **Total Cost** = Base Charter Price + Fuel Surcharge
+- **Base car hire price**: Unchanged (same as the previously announced price list)
+- **Additional "fuel surcharge" per trip**: A fixed amount based on the hire duration
+- **Total cost** = Base car hire price + Fuel surcharge
 
-By doing this, you can still clearly see the original fare, and we can fairly compensate for the increased fuel costs.
+By doing this, you can still clearly see the original fare, and we can fairly cover the increased fuel costs.
 
-![New Billing Method (Jointly Decided by the Drivers)](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
+![新的收費方式（由司機們共同決定）](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
 
-## 📅 Effective Date and Applicability
+## 📅 Effective Date & Applicable Travelers
 
 - **Effective Date**: Starting July 1, 2026
-- **Applicability**: All trips with a **departure date on or after July 1, 2026**
+- **Applicable Travelers**: All trips with a **departure date on or after July 1, 2026**
 
 ***
 
-## ❓ Why a "Fuel Surcharge" Instead of a Direct Price Increase?
+## ❓ Why a Fuel Surcharge Instead of a Direct Price Increase?
 
 Because:
 
-- A direct price increase would affect all trips (including short-distance rides and airport transfers), which would be unfair to those passengers.
-- Fuel prices may drop in the future, so a surcharge offers more flexibility—if fuel costs go down, we can reduce or remove the surcharge.
-- **This is the consensus among the majority of our driver group** – transparent, simple, and acceptable to everyone.
-- Half-day charter fuel surcharge: 50,000; Full-day charter fuel surcharge: 100,000
+- A direct price increase would affect all trips (including short rides and airport transfers), which wouldn't be fair to those passengers.
+- Fuel prices may drop in the future, so a surcharge offers more flexibility—if fuel costs go down, we can reduce or remove it.
+- **This is the consensus among most of our driver group** – transparent, simple, and acceptable to everyone.
+- Half-day charter fuel surcharge: USD$1,613; Full-day charter fuel surcharge: USD$3,226
 
 ***
 
-## 📌 Charter Guidelines & Recommended Drivers
+## 📌 Charter Info & Recommended Drivers
 
-- For charter details (what's included, tipping, overtime calculation, etc.), please refer 👉[**here**](https://gobaligo.id/en/blog/bali-private-car-hire-guide/)
+- For charter details (what's included, tipping, overtime charges, etc.), please refer 👉[**here**](https://gobaligo.id/en/blog/bali-private-car-hire-guide/)
 - For the most recommended driver list and contact info from fellow travelers, please refer 👉[**here**](https://gobaligo.id/en/blog/bali-private-car-drivers-guide/)
 
 ***
 
 ## 🙏 Thank You for Your Understanding
 
-We know that an extra fee adds to your expenses, but the Indonesian rupiah has really dropped, and fuel prices have gone up several times. We hope to continue accompanying you on your Bali trip with **clean cars, safe driving, and warm service**.
+We know this extra cost adds to your expenses, but the Indonesian Rupiah has dropped significantly and fuel prices have risen multiple times. We want to continue accompanying you on your Bali journey with **clean cars, safe driving, and warm service**.
 
-If you have any questions, feel free to message your driver directly—we’re happy to help.
+If you have any questions, feel free to message your driver directly—we're happy to help.
 
 **Thank you, and see you in Bali!** 🌴
 

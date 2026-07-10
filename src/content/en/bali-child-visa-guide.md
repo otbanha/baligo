@@ -1,121 +1,123 @@
 ---
 slug: bali-child-visa-guide
-title: "Bali Visa for Children 2026: Rules, Fees & Family Tips"
-description: "Traveling to Bali with kids? Does your child need their own visa, can the family queue together on arrival? This guide answers both, with fees to expect."
+title: 'Bali Visa for Children 2026: Rules, Fees & Family Tips'
+description: >-
+  Traveling to Bali with kids? Does your child need their own visa, can the
+  family queue together on arrival? This guide answers both, with fees to
+  expect.
 pubDate: 2025-12-24T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 簽證通關
 tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b6312892d57d19408e55b4209cea639d.png'
 originalUrl: 'https://vocus.cc/article/694bf0d9fd89780001214e1c'
 lang: en
-_srcHash: 5842885f75161abfa223f66ba8613408
+_srcHash: e1c8a539d3bf039044840f42e7b9542b
 ---
+**Bottom line: There is no special child visa** — whether it's an infant, toddler, or adult, the whole family applies for the same electronic visa (e-VOA), with the same fee of Rp 500,000, valid for 30 days and extendable once. **It's strongly recommended that the entire family apply for the e-visa in advance** rather than getting a visa on arrival at the airport: the on-site queue for a visa on arrival can take 30 minutes to over an hour, and waiting with a tired child is exhausting; if you apply for the e-visa at home before departure, you can go straight to the automated gate upon arrival and complete immigration in 3 minutes.
 
-## Complete Guide to Children's Visas for Bali Family Trips
+## Bali Family Travel: Complete Guide to Children's Visas
 
-Taking a family vacation to Bali is a dream for many families. However, visa issues often cause headaches for parents before departure, especially questions like "What visa does my two-year-old need?" and "Does the whole family need to queue for visa on arrival together?" This article will answer all your questions, ensuring your family trip starts smoothly from the moment you arrive!
+Taking your kids to Bali for a vacation is a dream trip for many families. However, before departure, visa questions always give parents a headache, especially issues like 'What visa should a two-year-old apply for?' and 'Does the whole family have to queue together for a visa on arrival?' This article will answer all your questions, ensuring your family trip goes smoothly from the moment you arrive!
 
-![Complete Guide to Children's Visas for Bali Family Trips](https://images.gobaligo.id/vocus/vocus_9b12e310451ce513776f9b8ae272b6ee.png)
+![峇里島家族旅遊：兒童簽證完整攻略](https://images.gobaligo.id/vocus/vocus_9b12e310451ce513776f9b8ae272b6ee.png)
 
-## Can a Two-Year-Old Apply for an Electronic Visa?
+## Can a Two-Year-Old Apply for an E-Visa?
 
-**Good news! Two-year-olds can apply for Indonesia's electronic visa (e-VOA).**
+**Great news! A two-year-old can apply for an Indonesian e-visa (e-VOA).**
 
-Indonesia's electronic visa system has no age restrictions. Whether it's an infant, toddler, or adult, everyone can apply for an electronic visa online before departure. This means you can prepare electronic visas for your entire family (including your two-year-old) in advance, significantly saving time at the airport.
+Indonesia's e-visa system has no age restrictions. Whether it's an infant, toddler, or adult, everyone can apply for an e-visa online before departure. This means you can pre-arrange e-visas for the whole family (including your two-year-old), saving a lot of time queuing at the airport.
 
-### Advantages of Electronic Visa
+### Advantages of the E-Visa
 
-- **Apply in advance**: Complete the application at home before departure, avoiding airport crowds
-- **Time-saving convenience**: Eligible travelers can use automated immigration gates upon arrival, completing entry within three minutes
-- **Same cost**: The electronic visa fee is the same as visa on arrival, both costing **500,000 IDR**
-- **30-day validity**: Can be extended once, allowing a maximum stay of 60 days
+- **Apply in advance**: Complete the application at home before departure, no need to crowd at the airport
+- **Time-saving convenience**: Go straight to the automated gate upon arrival (if eligible) and complete immigration in under three minutes
+- **Same fee**: The e-visa costs the same as a visa on arrival, **500,000 Indonesian rupiah**
+- **Valid for 30 days**: Extendable once, for a total stay of up to 60 days
 
-## Should the Whole Family Choose Electronic Visa or Visa on Arrival?
+## Should the Whole Family Choose an E-Visa or Visa on Arrival?
 
 ### Recommendation: Apply for E-Visas for the Whole Family
 
-While it's theoretically possible to opt for visa-on-arrival for the entire family, **we strongly recommend applying for e-visas in advance for all family members**. Here's why:
+While it is technically possible for the whole family to apply for a visa on arrival together, **it is strongly recommended that all family members apply for an e-visa in advance**. Here's why:
 
-## **Drawbacks of Visa-on-Arrival:**
+## **Disadvantages of Visa on Arrival:**
+- You need to queue at the airport to apply, with uncertain waiting times
+- During peak season or when multiple flights arrive at once, you may wait 30 minutes to over an hour
+- Standing in long lines with tired children makes for an exhausting start to the trip
+- You need to have cash or a credit card ready for payment on-site
 
-- Requires queuing at the airport upon arrival, with uncertain wait times
-- During peak seasons or multiple flight arrivals, queues can take 30 minutes to over an hour
-- Exhausting for tired children to endure long queues right at the start of the trip
-- Cash or card payment required on-site
+### **Advantages of the E-Visa:**
+- Apply in advance for peace of mind
+- Use the automated clearance system (applicable for children aged 6 and above) for a quick and convenient process
+- Even if your child is under 6 and cannot use automated clearance, there is a dedicated fast lane
+- Avoid long queues at the airport with your children
 
-### **Advantages of E-Visas:**
+## Practical Tips for Entering Bali Airport
 
-- Peace of mind with everything prepared in advance
-- Use of automated immigration gates (applicable for children aged 6 and above), fast and convenient
-- Even if children under 6 cannot use automated gates, there are dedicated fast-track lanes
-- Avoid long airport queues with children in tow
+Based on real experiences shared by community members, the entry process at Bali Airport is now highly modern and user-friendly. Here's what it's like entering with children:
 
 {{block:戶外}}
 
-## Practical Experience Sharing: Arrival at Bali Airport
+### Automated Clearance System (for ages 6 and up)
 
-![Practical Experience Sharing: Arrival at Bali Airport](https://images.gobaligo.id/vocus/vocus_bf7e7e7e9e394b75fc46a3b7bffd0242.png)
+![峇里島機場入境實戰經驗分享](https://images.gobaligo.id/vocus/vocus_bf7e7e7e9e394b75fc46a3b7bffd0242.png)
 
-Based on real experiences shared by community members, the arrival process at Bali Airport is now very modern and user-friendly. Here’s what to expect when traveling with children:
+Currently, **children aged 6 and above** can use the airport's automated clearance gates. If your child is 6 or older, congratulations—the whole family can use automated clearance, and the entire process takes less than three minutes!
 
-### Automated Immigration Gates (Applicable for Ages 6 and Above)
+Airport staff are very friendly. As soon as you get off the plane, someone will ask if you have applied for an e-visa and guide you to the automated clearance area. The process is simple: scan your passport, facial recognition, and you're through.
 
-Currently, **children aged 6 and above** can use the airport’s automated immigration gates. If your child is 6 or older, congratulations! The whole family can use automated clearance, completing the process in less than three minutes!
+目前**6歲以上的兒童**就可以使用機場的自動通關門。如果你的孩子已滿6歲，恭喜你，全家人都可以使用自動通關，整個過程不到三分鐘就能完成！
 
-Airport staff are very friendly. Upon disembarking, they will ask if you've applied for an e-visa and guide you to the automated immigration clearance area. The process is simple: scan your passport, facial recognition, and you're through.
+機場工作人員非常友善，一下飛機就會有人詢問是否已申請電子簽證，並引導你前往自動通關區域。自動通關的流程簡單：掃描護照、臉部辨識、通關完成。
 
-### What about children under 6?
+### What About Children Under 6?
 
-If your child is under 6 years old (for example, 2 years old), while they can't use the automated clearance, **there's absolutely no need to worry**!
+If your child is under 6 (for example, a two-year-old), they can't use the automated gates, but **there's absolutely no need to worry**!
 
-Practical experience shows:
+Real experience shows:
 
-- Parents can quickly pass through automated clearance first
-- Customs officers will immediately assist, taking the child to a **dedicated counter**
-- This dedicated counter is highly efficient, **with no queuing required at all**
-- Parents wait by the counter, and it's completed within minutes
-- Overall, it's still much faster than the whole family queuing for visa on arrival
+- Parents can first use the automated gates for quick entry
+- Customs officers will immediately assist and take the child to a **dedicated counter** for processing
+- This dedicated counter is highly efficient, **with no waiting in line at all**
+- Parents wait nearby at the counter, and it's done in just a few minutes
+- Overall, it's still much faster than the whole family queuing for a visa on arrival
 
-A parent visiting Bali shared: 'When customs officers saw our family had only one child who couldn't use automated clearance, they immediately took the child to a dedicated counter nearby. The efficiency was remarkable, with no queuing at all.'
+One parent visiting Bali shared: "When the customs officer saw that only one child in our family couldn't use the automated gates, they immediately led the little one to a dedicated counter nearby. It was very efficient, with absolutely no queuing."
 
-![What about children under 6?](https://images.gobaligo.id/vocus/vocus_76c9b5544365f93581cd66180920e6d7.png)
+![未滿6歲的孩童怎麼辦？](https://images.gobaligo.id/vocus/vocus_76c9b5544365f93581cd66180920e6d7.png)
 
-## Steps to Apply for an E-Visa
+## Steps to Apply for an eVisa
 
-1. **Apply Online**: Visit the [Official Indonesian Immigration E-Visa Website](https://evisa.imigrasi.go.id/)
-2. **Fill in Information**: Including passport details for all family members
-3. **Upload Photo**: A passport-style digital photo is required
-4. **Online Payment**: **IDR 500,000** per person, payable by credit card\*\*(transaction fees apply)\*\*
-5. **Receive Visa**: Usually received within 12 hours, remember to print or save it on your phone
+1. **Apply Online**: Visit the [official Indonesian immigration eVisa website](https://evisa.imigrasi.go.id/)
+2. **Fill in Details**: Include passport information for all family members
+3. **Upload Photos**: Electronic passport-style photos are required
+4. **Pay Online**: **500,000 Indonesian Rupiah** per person, payable by credit card\*\*(credit card incurs a fee)\*\*
+5. **Receive Your Visa**: The eVisa usually arrives within 12 hours. Remember to print it or save it on your phone
 
-![Steps to Apply for an E-Visa](https://images.gobaligo.id/vocus/vocus_a0603b99fe6343a76c317f76555a027a.png)
+![申請電子簽證的步驟](https://images.gobaligo.id/vocus/vocus_a0603b99fe6343a76c317f76555a027a.png)
 
-**Further Reading:** [Bali, Indonesia Entry Using 'All Indonesia' Arrival Card｜1-Minute Guide to the Latest Process: From Disembarking to Customs Clearance and Baggage Claim](/en/blog/bali-all-indonesia-arrival-guide/)
+**Further Reading:** [Indonesia Bali Entry Using the "All Indonesia" Arrival Card | A 1-Minute Guide to the Latest Process: Landing → Customs → Baggage Claim Full Guide](/en/blog/bali-all-indonesia-arrival-guide/)
 
 ### **Must-Do Before Departure**:
 
-1. Ensure you've completed your eVisa application first. Refer to [here](/en/blog/bali-evisa-application-guide/) for further instructions to avoid scam websites.
-2. Complete the All Indonesia arrival card three days before departure and **screenshot the QR Code** for reference. See our compiled [FAQ](/en/blog/bali-evisa-customs-health-declaration/).
-3. **Pay the Bali Tourism Tax**: IDR 150,000 per person (approximately USD$5). How to pay? See our [Tourism Tax Guide](/en/blog/2026-bali-tourism-tax-guide/).
+1. Be sure to complete the eVisa application first. Refer to [this guide](/en/blog/bali-evisa-application-guide/) for further instructions to avoid fraudulent websites.
+2. Complete the All Indonesia arrival card three days before departure, and **screenshot the QR Code** for reference. Check out our [FAQ](/en/blog/bali-evisa-customs-health-declaration/) for details.
+3. **Pay the Bali Tourism Tax**: 150,000 Indonesian Rupiah per person (about USD$10). How to pay? See the [tourism tax guide](/en/blog/2026-bali-tourism-tax-guide/)
 
-### Reminder
+### Quick Reminder
 
 - Apply at least 7 days before departure to allow processing time
-- Ensure every family member (including infants) has a valid passport with over 6 months validity
-- Save the e-Visa PDF file as you'll need to present it upon arrival
 
-## Summary Recommendations
+- Ensure every family member (including infants and toddlers) has a valid passport with at least 6 months of validity remaining
+
+- Save the e-visa PDF file—you'll need to present it upon arrival
+
+## Summary & Recommendations
+
+![總結建議](https://images.gobaligo.id/vocus/vocus_73f1a040162a13ae8da89393c144d3ba.png)
 
 **For family trips with children under 6:**
-
-✅ **Get e-Visas for the whole family** - Saves time and effort, no need to queue at the airport
-✅ **Prepare in advance** - Complete applications before departure for peace of mind
-✅ **Utilize automated gates** - Fast entry for members over 6, dedicated lanes for those under 6
-✅ **Don't worry** - Airport staff are friendly and professional, ready to assist families with children
-
-![Summary Recommendations](https://images.gobaligo.id/vocus/vocus_73f1a040162a13ae8da89393c144d3ba.png)
-
-Bali's entry system is now very well-developed and user-friendly. With proper preparation, entering with children can be smooth and stress-free. Families with kids, don't forget to check out our family travel column! Wishing you a wonderful family vacation!
 
 {{block:親子}}

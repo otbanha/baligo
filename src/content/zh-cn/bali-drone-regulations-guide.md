@@ -3,6 +3,7 @@ slug: bali-drone-regulations-guide
 title: 印尼/巴厘岛无人机/航拍机飞行规定与禁忌
 description: 在印尼/巴厘岛飞行无人机时需要遵守的相关规范和法规有哪些呢？
 pubDate: 2023-11-20T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 旅行技巧
 tags:
@@ -14,9 +15,9 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ad9871349a077ea9c5d06d39fbc9533f.png'
 originalUrl: 'https://vocus.cc/article/655b357ffd89780001b0febf'
 lang: zh-cn
-_srcHash: 32a2d5b0b4d89116f1b4b5a08af173fb
+_srcHash: 1534521dd2690b96a529312bff55f592
 ---
-Update: 2026/07/03
+**先说结论**：巴厘岛航拍机飞行五大限制——**飞行高度不得超过150米**、**机场周边15公里内禁飞**、禁止夜间飞行、禁止在人群密集区飞行、**禁止飞越寺庙**。违规最严重可能面临罚款甚至刑事指控，出发前务必确认飞行地点是否合规。
 
 在[上一篇文章中](/zh-cn/blog/bali-drone-travel-guide/)，我们讨论了如何安全地携带你的无人机来到印尼/巴厘岛。今天我们将深入探讨在印尼/巴厘岛飞行无人机时需要遵守的相关规范和法规。
 

@@ -3,6 +3,7 @@ slug: bali-tourism-tax-penalties
 title: 巴厘岛不缴旅游税？小心被监禁！
 description: 巴厘岛旅游税逃漏问题：可能面临罚款或监禁
 pubDate: '2024-09-12'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ad93775230031f237928f0248892365f.png'
 tags:
   - 峇里島旅遊
@@ -14,10 +15,8 @@ originalUrl: 'https://vocus.cc/article/66e27989fd89780001685c6f'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: b50cc5bcec0a1d26b84ba20366b7e2b3
+_srcHash: 09a06dd035fbac690d2dc63fdc0800fa
 ---
-Update: 2026/07/03
-
 **重点整理**：
 
 - 巴厘岛旅游税每人 **Rp 150,000（约 10 美元）**，2024 年 2 月起对所有国际游客征收，用 LoveBali 网站/APP 在线缴，缴完保留 QR 码备查

@@ -1,14 +1,11 @@
 ---
 slug: 2025-bali-visitor-stats
 title: >-
-  Is Australia No Longer Number One? A 2025 Guide to Bali's Tourist Rankings and
-  Visa/Financial Proof Requirements
-description: >-
-  Every year, people ask the same questions. 'Are there as many people coming to
-  Bali now as before?' 'Which countries are sending more tourists? Which are
-  sending fewer?' 'Which visa should I choose, and could I accidentally pick the
-  wrong one?' The truth is, the answers are all in the data.
+  Australia no longer number one? 2025 Bali visitor rankings & entry
+  visa/financial proof guide
+description: 'Every year, people ask the same questions.'
 pubDate: '2026-02-05'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_41c41725ce8cbd8bf6f31af89ecdad59.png'
 tags:
   - 峇里島旅遊
@@ -21,157 +18,159 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: en
-_srcHash: 6ddabb47db7b1ad25ca04cc1e4b1cc68
+_srcHash: 3de33a093e1183f575082f26b410cf0a
 ---
-Every year, people ask the same questions.
+'Are as many people coming to Bali now as before?'
 
-'Are there as many people coming to Bali now as before?'
+'Which countries have more visitors? Which have fewer?'
 
-'Which countries are sending more tourists? Which are sending fewer?'
+'Which visa should I choose—and could I accidentally pick the wrong one?'
 
-'Which visa should I choose, and could I accidentally pick the wrong one?'
+The answers are all in the data.
 
-The truth is, the answers are all in the data.
+Looking at the latest 2025 direct-flight visitor statistics, Bali's tourism landscape is gradually shifting, but some trends are surprisingly stable—like the steady increase in visitors from Singapore; Taiwanese travelers have remained at roughly the same level for two decades; and some markets that once dominated the scene have quietly shrunk.
 
-![Is Australia No Longer Number One? A 2025 Guide to Bali's To](https://images.gobaligo.id/vocus/vocus_fcd184a1c39fce756fde3b709e6fe710.png)
+Even more interesting: Australia, long considered Bali's largest source of visitors, has been overtaken by Europe for the first time.
 
-According to the latest 2025 direct flight passenger statistics, Bali's tourism landscape is gradually changing, but some trends remain surprisingly stable—like the increasing number of Singaporean tourists; Taiwanese tourists maintaining a consistent number year after year; and some previously dominant markets quietly shrinking.
+![澳洲不再第一？2025 峇里島旅客排名與入境簽證/財力證明懶人包](https://images.gobaligo.id/vocus/vocus_fcd184a1c39fce756fde3b709e6fe710.png)
 
-Even more interesting is that Australia, long considered Bali's largest source of tourists, has been surpassed by Europe for the first time.
+從 2025 年最新的直飛旅客統計來看，峇里島的旅遊結構正在慢慢轉變，但有些現象卻意外地穩定——像新加坡的旅客越來越多；台灣旅客二十年如一日地維持在差不多的數量；也有一些過去佔據版面的市場，悄悄縮水。
 
-In this article, I'll first walk you through the **2025 trends in Bali's foreign tourist arrivals**, then clarify the **Bali visa options and FAQs** that often confuse travelers.
+更有意思的是，一直被認為是「峇里島最大客源」的澳洲，這一次首度被歐洲超越。
 
-No anxiety-selling, no panic-inducing — just practical data and current entry experiences to ensure you're fully prepared before departure.
+In this article, I'll first give you a quick overview of the **2025 trends in foreign visitors to Bali**, and then break down the often-confusing **Bali visa options and FAQs** in one go.
 
-If you're planning a trip to Bali, this article will be highly useful.
+No anxiety, no panic—just real data and current entry experiences, so you know everything you need before you go.
 
-## 2025 Bali Visitor Statistics by Country/Number of Visitors
+If you're planning a trip to Bali, this will be very useful.
 
-![2025 Bali Visitor Statistics by Country/Number of Visitors](https://images.gobaligo.id/vocus/vocus_99a8db2673d75441daa04e66ea7fd9aa.jpg)
+## 2025 Bali Visitor Statistics by Country
+
+![2025峇里島國別/人次統計](https://images.gobaligo.id/vocus/vocus_99a8db2673d75441daa04e66ea7fd9aa.jpg)
 
 This table is actually worth a closer look.
 
-According to official data, the total number of foreign tourists flying directly to Bali in 2025 is close to **7 million**, and the source structure has quietly undergone some changes that 'don't quite align with our intuition'.
+According to official data, the total number of foreign visitors flying directly to Bali in 2025 is approaching **7 million**, and the source structure has quietly shifted in ways that don't quite match our gut feelings.
 
-First, something Taiwanese travelers will relate to. Taiwanese visitors to Bali have remained stable for nearly **20 years**, hovering around **120,000** annually — no sudden spikes, no significant drops. This is very 'Taiwanese' — not chasing trends, not being swayed by hype, just quietly returning if they like it.
+Let's start with what's most relevant for Taiwanese travelers. Taiwanese visitors to Bali have been steady for nearly **20 years**. Each year, the number hovers around 120,000—no sudden spikes, no major drops. That's very 'Taiwan'—not chasing trends, not swayed by hype, just quietly coming back if they like it.
 
-On the other hand, what many remember as the **dominant mainland Chinese tourist presence** has now dwindled to about **one-third** of its peak. This shift is noticeable in airports, hotel structures, and even the language preferences of tour guides.
+In contrast, visitors from **China**, which many still associate with Bali's boom, are now down to about **one-third** of their peak numbers. You can feel this at the airport, in hotel demographics, and even in the language skills of tour guides.
 
-Here's something I personally find quite interesting. Australia has long been synonymous with 'foreign tourists in Bali' — frequent flights, proximity, and a compatible vacation culture have kept it firmly in first place. But this time, European visitors have officially surpassed Australia to become Bali's largest source of tourists.
+Here's another trend I find fascinating. Australia has long been synonymous with 'Bali's foreign tourists'—plenty of flights, close proximity, and a vacation culture that clicks perfectly, holding the top spot for years. But this time, European travelers have officially overtaken Australia for the first time, becoming Bali's largest source market.
 
-It's not a sudden surge, but rather the result of gradual accumulation.
+It's not a sudden surge, but the result of steady accumulation over time.
 
-This also reflects the changes observed in Bali in recent years:
+This also reflects the changes we've seen in Bali in recent years:
 
-- Long-term travelers are increasing, digital nomads are growing, and the off-season is no longer so quiet.
-- Europeans' travel habit of 'staying longer once they arrive' is changing the rhythm of the entire island.
+- More long-stay travelers, a growing digital nomad community, and off-peak seasons that are no longer as quiet.
+- Europeans' habit of 'coming and staying longer' is reshaping the island's rhythm.
 
-## Here's another important point many people ask about: How to choose the EVOA electronic landing visa?
+## Another key question many people ask: How to choose the EVOA (Electronic Visa on Arrival)?
 
-What most travelers often get stuck on now is not whether to apply for a visa, but 'which type to choose'.
+These days, the biggest hurdle for most travelers isn't whether to get a visa, but which one to pick.
 
-Currently, the most common types are B1 and C1:
+The two most common options are B1 and C1:
 
-![Here's another important point many people ask about: How to](https://images.gobaligo.id/vocus/vocus_dd1d15ae602a759d1d7e072cbd771d4d.jpg)
+![再補充一個很多人會問的重點：EVOA 電子落地簽怎麼選？](https://images.gobaligo.id/vocus/vocus_dd1d15ae602a759d1d7e072cbd771d4d.jpg)
 
-**Quick Reference:** [Indonesia/Bali eVisa/eVoa Complete Guide: Application Steps, Precautions All in One Place!](/en/blog/bali-evisa-application-guide/)
+**Quick Reference:** [Indonesia/Bali eVisa/EVOA Complete Guide: Application Steps, Tips & More](/en/blog/bali-evisa-application-guide/)
 
 ### B1 Visa (Tourist Visa)
 
-- Allows a stay of 30 days
-- According to the latest news, **short-term pure tourism does not require proof of financial means**
+- Valid for 30 days
+- According to the latest updates, **short-term pure tourism does not require proof of funds**
 
-The positioning of this visa is very straightforward:
+This visa is straightforward in purpose:
 
-It's for traveling, vacationing, relaxing, taking photos, hitting the beaches, and enjoying good food.
+It's for traveling, vacationing, unwinding, taking photos, hitting the beach, and enjoying great food.
 
-But it **is not suitable for**:
+But it is **not applicable for**:
 
-Business meetings, contract signings, investment inspections, and medical-related activities.
+Business meetings, contract signing, investment inspections, or medical-related activities.
 
 ### C1 Visa (Visit Visa)
 
-- Allows a stay of 60 days
-- Requires uploading proof of funds (PDF) showing a minimum of US$2,000 from the last 3 months
+- Stay up to 60 days
+- Requires uploading proof of finances (PDF) from the last 3 months, with a minimum of US$2,000
 
-The focus of the C1 visa is not 'leisure' but 'visiting'.
+The focus of C1 is not 'play,' but 'visit.'
 
-It includes exchanges, inspections, and non-employment-related business contacts, but still does not permit working.
+This includes exchanges, inspections, and non-employment business interactions, but still no work allowed.
 
-## How should regular tourists choose?
+## So how should regular travelers choose?
 
-![How should regular tourists choose?](https://images.gobaligo.id/vocus/vocus_d26a3e513ac8df95013e940223bf7017.png)
+![那一般旅客該怎麼選？](https://images.gobaligo.id/vocus/vocus_d26a3e513ac8df95013e940223bf7017.png)
 
 The answer is actually quite simple.
 
-If your itinerary consists of
+If your itinerary is:
 
 - ✔ Tourism
 - ✔ Vacation
 - ✔ Pure relaxation
 - ✔ Travel not exceeding 30 days
 
-**Choosing the B1 – Tourist Visa is completely sufficient.**
+**Choosing B1 – Tourist Visa is more than enough.**
 
-C1 is more suitable for those with complex travel purposes, longer stays, or those requiring formal 'visit purposes'.
+C1 is more suitable for those with a more complex itinerary, longer stays, or who need a formal "visiting" purpose.
 
-Otherwise, preparing too much documentation might just add unnecessary hassle. However, it's crucial to note that **you must have your return ticket and accommodation details ready**! If you're randomly checked and deemed suspicious in your travel motives, you might be asked to show proof of financial means, or even denied entry! After all, there are quite a few people illegally overstaying in Bali.
+Otherwise, preparing extra documents just adds unnecessary hassle. However, you must pay close attention: **make sure you have your return flight ticket and accommodation details ready!** If you're randomly checked and your travel purpose seems suspicious, you could be asked to show proof of funds, or even denied entry. After all, there are quite a few people overstaying in Bali.
 
-## Bali Visa FAQ
+### Bali Visa FAQ
 
-### Q1: What type of visa do general tourists need for Bali?
+## Q1: Which visa should a regular tourist apply for Bali?
 
-If your purpose is simply tourism, vacation, relaxation, eating, and drinking, **just choose B1 (Tourist Visa)**, no need to overthink it. This is also the choice for most short-term tourists currently.
+If your purpose is simply travel, vacation, relaxation, eating, and having fun, **just go with B1 (Tourist Visa)**—no need to overthink it. This is also the most common choice for short-term tourists.
 
-### Q2: Does the B1 visa require proof of financial means?
+## Q2: Does the B1 visa require proof of funds?
 
-According to the latest information, **the B1 visa for short-term tourism purposes does not require uploading proof of financial means**. However, it's still advisable to keep basic return tickets and accommodation details on hand, just in case.
+According to the latest updates, **the B1 visa for short-term tourism does not require uploading proof of funds**. However, it's still recommended to keep your return flight ticket and accommodation details handy, just in case.
 
-### Q3: If I want to stay longer in Bali, which one should I choose?
+## Q3: If I want to stay longer in Bali, which visa should I choose?
 
-If you wish to stay for more than 30 days at a time, or if your trip includes visiting friends, exchanges, or non-employment-related inspections, then you might consider **C1 (Visit Visa)**, which allows a stay of 60 days but requires uploading proof of financial means of over US$2,000 for the last 3 months (PDF).
+If you plan to stay for more than 30 days at a time, or your trip includes visiting friends, cultural exchange, or non-employment-related research, then consider **C1 (Visit Visa)**. It allows a stay of up to 60 days, but you'll need to upload proof of funds of at least US$2,000 from the past 3 months (PDF).
 
-### Q4: What is the biggest difference between B1 and C1?
+## Q4: What’s the biggest difference between B1 and C1?
 
-In simple terms:
+In a nutshell:
 
 - B1 = Pure tourism
-- C1 = Non-employment related visits
+- C1 = Non-employment visit
 
 B1 is not suitable for business meetings, contract signings, or investment-related activities;
 
-C1 emphasizes visits, exchanges, and inspections, but similarly does not permit work.
+C1 emphasizes visits, exchanges, and inspections, but still doesn’t allow work.
 
-### Q5: Can I use a tourist visa to view properties or discuss collaborations?
+## Q5: Can I use a tourist visa to view properties or discuss collaborations?
 
-Officially, it is not recommended to use B1 for any business or investment-related activities. If your trip involves 'business-related contact,' C1 would be a safer choice.
+Officially, it’s not recommended to use B1 for any business or investment-related activities. If your trip involves any business-related purpose, C1 is the safer choice.
 
-### Q6: Can EVOA be applied for in Taiwan in advance?
+## Q6: Can I apply for EVOA in Taiwan before departure?
 
-Yes. EVOA (Electronic Visa on Arrival) can now be applied for online before departure,
+Yes. You can now apply for EVOA (Electronic Visa on Arrival) online before departure,
 
-making the entry process much smoother and reducing the need to wait in long queues.
+which makes the entry process much smoother and helps you avoid long queues.
 
-**Quick Reference:** [Complete Guide to Indonesia/Bali eVisa/eVOA: Application Steps & Precautions All in One Place!](/en/blog/bali-evisa-application-guide/)
+**Quick Reference:** [Complete Guide to Indonesia/Bali eVisa (eVoa): Step-by-Step Application & Key Tips](/en/blog/bali-evisa-application-guide/)
 
-### Q7: Can EVOA be extended?
+## Q7: Can the EVOA be extended?
 
-Yes. The B1 type visa can generally be extended once for 30 days according to regulations. However, if you know from the start that you'll be staying for a long time, opting for C1 directly might be more convenient.
+Yes. A B1-type visa can generally be extended once for 30 days as per regulations. But if you know from the start you'll be staying longer, choosing C1 directly is much simpler.
 
-### Q8: Is a return ticket mandatory for entering Bali?
+## Q8: Do I need a return ticket to enter Bali?
 
-The official guideline is 'recommended to have a departure ticket.' In practice, most travelers aren't individually checked, but it's better to be prepared for peace of mind.
+Officially, it's 'recommended to hold an onward ticket.' In practice, most travelers aren't checked one by one, but it's better to be safe and truly at ease.
 
-### Q9: What if I chose the wrong visa?
+## Q9: What if I choose the wrong visa?
 
-Changing your visa after entry is relatively complicated. The best approach is to select the correct one before departure.
+Switching visas after entry is relatively troublesome, so the best approach is to choose correctly before departure.
 
-If it's just for tourism, don't overthink it—**B1 – Tourist Visa** is the way to go.
+If you're just traveling, don't overthink it—**B1 – Tourist Visa** is all you need.
 
 ## Final Reminder
 
-Bali's visa regulations occasionally undergo minor adjustments. Checking the latest announcements 1–2 weeks before departure is the safest approach. Based on most travelers' experiences, choosing the right visa makes entering Bali quite straightforward.
+Bali's visa regulations are occasionally tweaked, so it's safest to double-check the latest announcements 1–2 weeks before departure. But based on most travelers' actual experiences, as long as you pick the right visa, entering Bali is really not difficult.
 
-![Final Reminder](https://images.gobaligo.id/vocus/vocus_62b21a3da69035eb65ae0f1b4e641bfc.png)
+![最後的小提醒](https://images.gobaligo.id/vocus/vocus_62b21a3da69035eb65ae0f1b4e641bfc.png)
 
-Now, all that's left is to enjoy the island 🌴
+All that's left is to simply enjoy this island 🌴

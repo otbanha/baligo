@@ -1,8 +1,9 @@
 ---
 slug: bali-mangosteen-season
 title: 热带水果女王-印尼/巴厘岛山竹的产季
-description: 山竹在印尼是一种被大量生产的热带水果之一。这种酸甜可口的水果每年的产季是什么时候呢?
+description: 山竹在印尼是一种被大量生产的热带水果之一。这种酸甜可口的水果每年的产季是什么时候呢？
 pubDate: 2024-04-12T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 美食景點活動
 tags:
@@ -14,8 +15,9 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_12cc11716bb437c0193aae868beb4b84.jpg'
 originalUrl: 'https://vocus.cc/article/661943c7fd897800016eaf4a'
 lang: zh-cn
-_srcHash: fe2a2d53d507053fc430e9c97479e49a
+_srcHash: b82628bf96d0452ab7183a6783d05283
 ---
+**先讲结论**：巴厘岛山竹（Manggis）最佳购买季节是**每年 1 月至 4 月**，此时价格最便宜（约每公斤 Rp 10,000），产季外价格可能飙涨 3-4 倍。巴厘岛是印尼山竹主要产地之一，贡献全国约 50% 产量，品质公认优良，来玩务必尝鲜。
 
 山竹在印尼是一种被大量生产的热带水果之一。这种酸甜可口的水果在一个地区通常每年有三个月的收成季节。
 

@@ -3,8 +3,9 @@ slug: indonesia-e-cd-guide
 title: 入境印尼必填电子报关单e-CD说明
 description: >-
   Indonesia Electronic Customs Declaration
-  (e-CD)是一种在线填写海关申报表，所有前往印尼的旅客都必须填写。请看我们的教学说明
+  (e-CD)是一种在线填写的海关申报表，所有前往印尼的旅客都必须填写。请看我们的教学说明
 pubDate: '2023-08-20'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a96194b8dfd5f1abf1f403a768645e50.jpg'
 tags:
   - ecd
@@ -16,27 +17,28 @@ originalUrl: 'https://vocus.cc/article/64e1946ffd89780001740b90'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 5d3f4eba60a329af0d7436ef9c22acd4
+_srcHash: 45f6a86da6c85f8acd60d1414464fd42
 ---
-
 ## 什么是e-CD？
 
-Indonesia Electronic Customs Declaration (e-CD)是一种在线填写海关申报表，所有前往印尼的旅客都必须填写。你可以在网上访问电子表格，并输入所需的信息。一旦你输入完成e-CD，你会收到一封电子邮件，里面有完成的表格和QR Code。你必须在走出机场之前的最后一关「海关申报」，主动出示手机上或打印出来的QR Code进行扫描。
+**先讲结论**：印尼电子报关单（e-CD）现已整合至「All Indonesia」**一站式在线申请系统**，填写完成后会收到含 QR Code 的确认信，**出机场前的海关申报关卡需主动出示 QR Code 扫描**；填表时护照有效期须在入境当日起算**至少 6 个月以上**。
+
+Indonesia Electronic Customs Declaration (e-CD)是一种在线填写的海关申报表，所有前往印尼的旅客都必须填写。你可以在网上访问电子表格，并输入所需的信息。一旦你输入完成e-CD，你会收到一封电子邮件，里面有完成的表格和QR Code。你必须在走出机场之前的最后一关「海关申报」，主动出示手机上或打印出来的QR Code进行扫描。
 
 e-CD表格的详细信息如下：你必须提供关于你自己的身份资料、你的旅行计划和你的护照数据的最新信息。你的护照必须在进入印尼之日起**至少有6个月的有效期**。你还需要声明你带入印尼的物品，有些物品在任何情况下都不能带入印尼的喔
 
 ## e-CD已改为一站式申请，请看[这里](https://s.id/AllInsonesia)
 
-![e-CD已改为一站式申请，请看这里](https://images.gobaligo.id/vocus/vocus_aec365f19ae3d56f56b52024fc0a209d.jpg)
+![e-CD已改為一站式申請，請看這裡](https://images.gobaligo.id/vocus/vocus_aec365f19ae3d56f56b52024fc0a209d.jpg)
 
 ## 以下是一些填写e-CD表格的小贴士：
 
 1. 进入 <https://allindonesia.imigrasi.go.id/>
 2. 你可以事先填写好e-CD表格，也可以在抵达印尼/巴厘岛机场时再当场上网填写
-3. 在入境前最多**3天**内填写e- CD表格
+3. 在入境前最多**3天**内填写e-CD表格
 4. 你会收到一个二维码，请保存在你的手机上（最好保存截图），或者打印出来
 5. 如果你是一个家庭旅行，你可以只填写一份包含全家人
-6. 填写e -CD表格是必须的，无论你是印尼公民还是外国人
+6. 填写e-CD表格是必须的，无论你是印尼公民还是外国人
 7. 国家找不到「Taiwan」怎么办？可选「Others」填入「台湾」
 
 ---

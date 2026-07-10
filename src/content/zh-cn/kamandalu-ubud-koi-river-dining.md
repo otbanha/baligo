@@ -3,19 +3,20 @@ slug: kamandalu-ubud-koi-river-dining
 title: 浪漫双人船上用餐体验：乌布卡曼达鲁的锦鲤漂流河盛宴
 description: >-
   在巴厘岛乌布的心脏地带，卡曼达鲁度假村（Kamandalu
-  Ubud）为情侣们打造了一个如梦似幻的用餐体验——锦鲤漂流河双人船上用餐。这不仅仅是一顿饭，更是一场融合自然美景、精致美食与浪漫氛围的感官盛宴。 
-  漂浮在锦鲤之间的浪漫  想象一下：您与爱人坐在传统的木制小船上，周围是清澈见底的池塘，数百条
+  Ubud）为情侣们打造了一个如梦似幻的用餐体验——锦鲤漂流河双人船上用餐。这不仅仅是一顿饭，更是一场融合自然美景、精致美食与浪漫氛围的感官盛宴。漂浮在锦鲤之间的浪漫想象一下：您与爱人坐在传统的木制小船上，周围是清澈见底的池塘，数百条
 pubDate: 2025-06-04T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 美食景點活動
 tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0000ef7e983fe143673d4acad378284d.jpg'
 originalUrl: 'https://vocus.cc/article/68404e54fd89780001530054'
 lang: zh-cn
-_srcHash: d222516f5f835c548e3a9d5dbe4ba09d
+_srcHash: 9b6983f81fba9ba4a27daa64402e1151
 ---
+![浪漫雙人船上用餐體驗：烏布卡曼達魯的錦鯉漂流河饗宴](https://images.gobaligo.id/vocus/vocus_94270edad192312ca18cd296ef31f4ae.jpg)
 
-![浪漫双人船上用餐体验：乌布卡曼达鲁的锦鲤漂流河盛宴](https://images.gobaligo.id/vocus/vocus_94270edad192312ca18cd296ef31f4ae.jpg)
+**先说结论**：Kamandalu Ubud 度假村的锦鲤漂流河双人船上用餐体验约为 **1 小时**，坐在传统木船上被锦鲤环绕用餐，提供弹性时段（午后或夕阳黄昏），适合情侣庆祝纪念日或求婚等特殊场合，是乌布少见的高浪漫指数体验。
 
 在巴厘岛乌布的心脏地带，卡曼达鲁度假村（Kamandalu Ubud）为情侣们打造了一个如梦似幻的用餐体验——锦鲤漂流河双人船上用餐。这不仅仅是一顿饭，更是一场融合自然美景、精致美食与浪漫氛围的感官盛宴。
 
@@ -25,13 +26,13 @@ _srcHash: d222516f5f835c548e3a9d5dbe4ba09d
 
 这个一小时的体验特别适合情侣庆祝特殊时刻，或是单纯想要逃离日常喧嚣，享受两人世界的甜蜜时光。度假村提供灵活的时间段选择，无论是阳光明媚的午后，还是夕阳西下的黄昏，都能找到最适合您的浪漫时刻。
 
-![漂浮在锦鲤之间的浪漫](https://images.gobaligo.id/vocus/vocus_3648fd618b175b7daa976538684257e2.jpg)
+![漂浮在錦鯉之間的浪漫](https://images.gobaligo.id/vocus/vocus_3648fd618b175b7daa976538684257e2.jpg)
 
 ## 精致美食盛宴
 
 在如此特别的环境中，卡曼达鲁准备了精心设计的菜单，满足各种味蕾需求：
 
-![精致美食盛宴](https://images.gobaligo.id/vocus/vocus_eae8f33d1d9a12f0c82a4651c147dd3e.png)
+![精緻美食饗宴](https://images.gobaligo.id/vocus/vocus_eae8f33d1d9a12f0c82a4651c147dd3e.png)
 
 **常规菜单**提供多样选择：
 
@@ -61,9 +62,9 @@ _srcHash: d222516f5f835c548e3a9d5dbe4ba09d
 
 乌布卡曼达鲁的双人船上用餐体验，不仅满足了味觉，更滋养了心灵。在这里，时间似乎慢了下来，让您能真正静下心来，感受巴厘岛的神奇魅力，与挚爱共享这难忘的时刻。
 
-无论是蜜月旅行、周年纪念，还是单纯想要给爱人一个惊喜，这漂浮在锦鲤漂流河上的浪漫飨宴，都将成为您巴厘岛之旅中最闪亮的记忆珍珠。
+无论是蜜月旅行、周年纪念，还是单纯想要给爱人一个惊喜，这漂浮在锦鲤漂流河上的浪漫盛宴，都将成为您巴厘岛之旅中最闪亮的记忆珍珠。
 
-▶[在Klook上预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1061065&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F136296-dining-experience-at-kamandalu-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Debd9e9bd14)
+▶[在Klook上预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1061065&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F136296-dining-experience-at-kamandalu-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Debd9e9bd14)
 
 ***
 

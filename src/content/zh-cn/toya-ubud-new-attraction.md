@@ -3,6 +3,7 @@ slug: toya-ubud-new-attraction
 title: 【乌布新景点】Toya Ubud：一个让童话与传统交织的灵感之地
 description: 巴厘岛乌布的旅游新亮点
 pubDate: 2025-02-21T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 美食景點活動
 tags:
@@ -19,12 +20,13 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fc7d230efbaf5332a244fa14eeee2994.jpg'
 originalUrl: 'https://vocus.cc/article/67b7e25bfd89780001a6b041'
 lang: zh-cn
-_srcHash: ba0415638671945990fc399f1bab2bf1
+_srcHash: 364aafe9a9b6eb65da60c48460d6e7ea
 ---
-
 ## **新生态度假村Toya Ubud于巴厘岛乌布开幕，惊艳游客**
 
-![新生态度假村Toya Ubud于巴厘岛乌布开幕，惊艳游客](https://images.gobaligo.id/vocus/vocus_f2d953ffaa337ca9f753204ede51ff78.jpg)
+![新生態度假村Toya Ubud於峇里島烏布開幕，驚艷遊客](https://images.gobaligo.id/vocus/vocus_f2d953ffaa337ca9f753204ede51ff78.jpg)
+
+**先讲结论**：Toya Ubud 是 2024 年 11 月试运营、现已正式全面开业的生态公园与度假村，位于德格拉朗 Kenderan 村，距乌布市区与德格拉朗梯田仅数分钟车程，紧邻 17 世纪的 Pura Griya Sakti Manuaba 寺庙与 Manuaba 瀑布，适合喜欢结合自然、文创与灵性体验的旅客安排半日或下午茶行程。
 
 2024年11月，巴厘岛迎来了Toya Ubud的试运营，这是一个全新的生态公园和度假村，距离著名的德格拉朗梯田仅几分钟车程。如今，度假村已正式全面开业，并在过去几周内迎接了首批来自世界各地的游客，成为巴厘岛旅游的新亮点。
 
@@ -34,7 +36,7 @@ Toya Ubud位于德格拉朗的Kenderan村，距离巴厘岛艺术与文化之都
 
 ## **文化与自然的完美融合**
 
-对于那些希望在现代化设施中体验自然与文化融合的游客来说，Toya Ubud无疑是一个理想的选择。度假村紧邻Pura Griya Sakti Manuaba寺庙，这座神圣的寺庙可追溯至17世纪，是Manuaba Brahmin后裔Manuaba Bred的灵性中心。Toya Ubud的创始人Ketut Mardjana表示：「我们的使命是保护文化与自然，Toya Ubud将成为中高端游客体验自然与灵性和谐共存的首选之地。」
+对于那些希望在现代化设施中体验自然与文化融合的游客来说，Toya Ubud无疑是一个理想的选择。度假村紧邻Pura Griya Sakti Manuaba寺庙，这座神圣的寺庙可追溯至17世纪，是Manuaba Brahmin后裔Manuaba Bred的灵性中心。Toya Ubud的创办人Ketut Mardjana表示：「我们的使命是保护文化与自然，Toya Ubud将成为中高端游客体验自然与灵性和谐共存的优选之地。」
 
 ## **名人青睐与灵感之地**
 

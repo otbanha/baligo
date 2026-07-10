@@ -1,8 +1,9 @@
 ---
 slug: taman-tukad-korea-dempasar
 title: '峇里島新景點｜Taman Tukad Korea 韓國河濱公園｜청계천｜Taman Kumbasari in Denpasar, Bali'
-description: 探索峇里島美景，「韓國清溪川河濱公園」點解會搬咗去峇里島嘅 Denpasar 嘅？！
+description: 探索峇里島靚景，「韓國清溪川河濱公園」點解會搬咗去峇里島嘅 Denpasar 㗎？！
 pubDate: '2022-03-03'
+updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2b71bc354e0d5867d667cc02907fe88b.jpg'
 tags:
   - 峇里島
@@ -14,17 +15,18 @@ originalUrl: 'https://vocus.cc/article/64db6b78fd897800013a9622'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: c22a104cd60b2bb62950b7864fe9b33c
+_srcHash: 084a597bc867f18443cd0e89527b0427
 ---
-
 ![峇里島新景點｜Taman Tukad Korea 韓國河濱公園｜청계천｜Taman Kumbasari in Denpa](https://images.gobaligo.id/vocus/vocus_498ee7f36925a8e9d53a0b9cf326a3cc.jpg)
 
-探索峇里島美景，「韓國清溪川河濱公園」點解會搬咗去峇里島嘅 Denpasar 嘅？！
+探索峇里島靚景，「韓國清溪川河濱公園」點解會搬咗去峇里島嘅 Denpasar 㗎？！
 
-距離機場只係30分鐘車程，位於 Badung Traditional Market 同 Kumbasri Art Market 之間嘅河濱公園，正式名稱係「Taman Kumbasari（昆巴莎麗公園）」。但係人哋叫佢做「Taman Tukad Korea（韓國河流公園）」，因為佢個樣好似首爾嘅清溪川（청계천）。
+**先講結論**：Taman Tukad Korea（正式名稱 Taman Kumbasari）位於登巴薩 Badung Traditional Market 同 Kumbasari Art Market 之間，**距離機場只需 30 分鐘車程**，因為個樣似首爾清溪川而咁叫，以前係臭水溝，改造之後變成有步道同涼亭嘅河濱公園。適合順路安排喺藝術市場購物行程之後，免費行吓影相放鬆。
 
-曾經係臭水溝，而家變咗一個令人心馳神往嘅公園，峇里島嘅河川改造真係令人讚嘆。喺呢度，你可以感受到自然同現代嘅融合，綿延嘅步道、涼亭同悠閒嘅環境，令你仿彿置身於韓國嘅清溪川。
+距離機場只需 30 分鐘車程，位於 Badung Traditional Market 同 Kumbasri Art Market 之間嘅河濱公園，正式名稱係「Taman Kumbasari（昆巴莎麗公園）」。但係啲人叫佢做「Taman Tukad Korea（韓國河流公園）」，因為佢個樣似首爾清溪川（청계천）。
 
-點擊下面影片，一窺呢個美麗複製品嘅神秘風采，體驗峇里島嘅自然魅力同獨特之處，令你嘅旅程充滿難忘嘅回憶！
+以前係臭水溝，而家就變咗一個令人心馳神往嘅公園，峇里島嘅河川改造真係令人讚嘆。喺呢度，你可以感受到自然同現代嘅融合，綿延嘅步道、涼亭同悠閒嘅環境，令你好似置身於韓國嘅清溪川。
 
-喺峇里島嘅呢個神秘角落，你可以漫步於河濱，欣賞清新嘅風景，感受著和諧嘅氛圍。呢個風景如畫嘅地方，成為當地居民同遊客放鬆心情嘅好去處。旁邊嘅「Kumbasri Art Market」係一個大型嘅峇里島服飾、紀念品批發市場，嚟睇下小傑嘅遊記啦！
+㩒下面條片，一窺呢個美麗複製品嘅神秘風采，體驗峇里島嘅自然魅力同獨特之處，令你嘅旅程充滿難忘嘅回憶！
+
+喺峇里島呢個神秘角落，你可以漫步河濱，欣賞清新嘅風景，感受和諧嘅氛圍。呢個風景如畫嘅地方，成為當地居民同遊客放鬆心情嘅好去處。隔籬嘅「Kumbasri Art Market」係一個大型嘅峇里島服飾、紀念品批發市場，嚟睇吓小傑嘅遊記啦！

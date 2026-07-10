@@ -1,14 +1,15 @@
 ---
 title: >-
-  Galungan, Festival Kesenian, Ubud Jazz langsung meriah! Jadwal lengkap
-  festival Bali Juni hingga Agustus
+  Galungan, Festival Seni, Ubud Jazz Festival siap digelar! Jadwal lengkap
+  festival Bali Juni–Agustus
 slug: bali-festival-preview-2026-june
 description: >-
-  Rangkaian festival seru di Bali bulan Juni sampai Agustus! Galungan (17/6),
-  Kuningan (27/6) seluruh pulau dipasangi hiasan bambu, Bali Arts Festival
-  (13/6–11/7) pesta budaya ratusan tahun, sampai Ubud Jazz Festival (7–8/8)
-  sebagai penutup, wajib banget nggak boleh dilewatkan!
+  Jadwal lengkap festival Bali Juni–Agustus! Galungan (17/6), Kuningan (27/6)
+  seluruh pulau dipasangi hiasan bambu, Bali Arts Festival (13/6–11/7) perayaan
+  budaya ratusan tahun, sampai Ubud Jazz Festival (7–8/8) sebagai penutup, wajib
+  banget nih!
 pubDate: 2026-06-06T00:00:00.000Z
+updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: 20
 category:
   - 新聞存檔
@@ -29,52 +30,50 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 338371d271b71078b66a2f8a54fb756b
+_srcHash: e89094d710c59d3270c715a53c8019e9
 ---
-Update: 08/06/2026
-
 ## Dua Hari Raya Tradisional (17–27 Juni): Suasana Religi Paling Meriah di Seluruh Pulau
 
-Perayaan religi terpenting di Bali, **Galungan** dan **Kuningan**, bakal berlangsung berurutan. Saat itu, jalan-jalan di seluruh pulau akan dipasangi hiasan bambu tinggi (**Penjor**), dan dimulailah rangkaian upacara serta kunjungan keluarga selama sepuluh hari.
+Dua peristiwa religi terpenting di Bali, **Galungan** dan **Kuningan**, akan berlangsung berurutan. Saat itu, di seluruh jalan pulau akan terlihat tiang bambu tinggi yang dihias (**Penjor**), dan selama sepuluh hari akan ada upacara sembahyang serta kegiatan silaturahmi.
 
-Sepuluh hari ini adalah masa sakral bagi umat Hindu Bali untuk merayakan kemenangan Dharma (kebaikan) atas Adharma (kejahatan), menyambut kembalinya roh leluhur ke dunia. Setiap keluarga menyiapkan sesajen dengan penuh khidmat, pergi ke pura untuk bersembahyang, dan seluruh pulau dipenuhi suasana sakral namun meriah.
+Sepuluh hari ini adalah masa sakral bagi umat Hindu Bali untuk merayakan kemenangan Dharma atas Adharma dan menyambut kembalinya roh leluhur ke dunia. Setiap keluarga akan menyiapkan sesajen dengan saksama, pergi ke pura untuk bersembahyang, dan seluruh pulau dipenuhi suasana khidmat namun meriah.
 
-**Tips perjalanan:** Selama periode ini, sekolah libur dua minggu, transportasi umum dan sopir sewaan juga banyak yang cuti. Kalau kamu berencana ke sana, **wajib rencanakan transportasi dan pesan sopir dari jauh-jauh hari** biar nggak kehabisan kendaraan.
+**Tips perjalanan:** Selama periode ini, sekolah akan libur dua minggu, transportasi umum dan sopir tur juga banyak yang cuti. Kalau kamu berencana ke sana, **rencanakan transportasi dan pesan sopir dari jauh-jauh hari** biar nggak kehabisan kendaraan.
 
 Mau tahu jadwal lengkap festival Bali 2026? Cek: [Panduan Lengkap Festival Bali 2026](/id/blog/2026-bali-festival-guide/)
 
-## Festival Kesenian Tertua (13 Juni–11 Juli): Warisan Budaya Ratusan Tahun yang Spektakuler
+## Festival Seni Tertua (13 Juni–11 Juli): Perayaan Warisan Budaya Ratusan Tahun yang Spektakuler
 
-Festival seni selama sebulan penuh, **Bali Arts Festival (Pesta Kesenian Bali)**, akan dibuka dengan parade meriah di Denpasar. Ini adalah **perayaan budaya tertua** di seluruh Indonesia, sudah berlangsung hampir lima puluh tahun, dan setiap tahun menarik seniman serta kelompok pertunjukan dari seluruh kabupaten/kota di Bali untuk berpartisipasi.
+Selama sebulan penuh, **Bali Arts Festival (Pesta Kesenian Bali)** akan dibuka dengan parade megah di Denpasar. Acara budaya **paling tua di seluruh Indonesia** ini sudah berlangsung hampir lima puluh tahun, dan setiap tahun menarik seniman serta grup pertunjukan dari seluruh kabupaten/kota di Bali.
 
-Acara ini mencakup:
-- Pertunjukan spektakuler Tari Kecak dan Tari Legong
-- Lomba alat musik Gamelan
+Aktivitas yang bisa kamu nikmati:
+- Pertunjukan tari Kecak dan Legong yang keren banget
+- Lomba musik Gamelan
 - Pasar kerajinan tradisional serta pameran ukiran kayu dan perak
-- Pawai kendaraan hias dari kontingen setiap kabupaten/kota
+- Parade kendaraan hias dari kontingen setiap kabupaten/kota
 
-Baik kamu pecinta budaya sejati maupun pengunjung yang baru pertama kali ke Bali, festival seni ini adalah jendela paling langsung untuk mengenal kekayaan budaya tradisional Bali.
+Baik kamu pecinta budaya sejati atau baru pertama kali ke sini, festival seni adalah jendela paling langsung untuk mengenal kekayaan tradisi Bali.
 
-## Festival Desa Unik & Perayaan Alam (Juni–Juli)
+## Festival Desa Khas & Perayaan Alam (Juni–Juli)
 
-Selain festival besar berskala pulau, berbagai daerah di Bali juga mengadakan acara khas lokal pada bulan Juni–Juli:
+Selain festival besar di seluruh pulau, berbagai daerah di Bali juga punya acara khas pada Juni–Juli:
 
-- **Festival Pantai Pandawa** (18–20 Juni): Digelar di Pantai Pandawa selatan, menggabungkan musik pantai dan pertunjukan budaya
-- **Festival Desa Penglipuran** (10–12 Juli): Perayaan unik yang menampilkan tata ruang desa tradisional dan gaya hidup warisan berusia ratusan tahun
-- **Festival Terasering Jatiluwih** (20–22 Juli): Diadakan di sawah terasering Warisan Dunia UNESCO, menggabungkan budaya pertanian, trekking, dan pertunjukan musik tradisional
+- **Festival Pantai Pandawa** (18–20 Juni): Diadakan di Pantai Pandawa selatan, gabungan musik pantai dan pertunjukan budaya
+- **Festival Desa Penglipuran** (10–12 Juli): Perayaan unik yang menampilkan tata ruang desa tradisional dan gaya hidup berusia ratusan tahun
+- **Festival Terasering Jatiluwih** (20–22 Juli): Digelar di sawah terasering Warisan Dunia UNESCO, memadukan budaya agraris, trekking, dan pertunjukan musik tradisional
 
-Meskipun festival lokal ini skalanya lebih kecil dari acara besar, biasanya kamu bisa merasakan semangat kehidupan lokal Bali lebih dekat.
+Festival lokal ini memang skalanya lebih kecil dari acara besar, tapi justru di sini kamu bisa merasakan denyut kehidupan asli Bali lebih dekat.
 
 ## Acara Pantai & Musik Kelas Internasional (Juli–Agustus)
 
-Memasuki musim ramai Juli–Agustus, Bali juga akan menyambut dua acara bergengsi yang menjadi sorotan internasional:
+Memasuki musim ramai Juli–Agustus, Bali juga kedatangan dua acara spektakuler yang jadi sorotan dunia:
 
-**Bali Kite Festival** — Langit Pantai Sanur akan dipenuhi layang-layang raksasa tradisional. Layang-layang raksasa dengan berbagai bentuk (panjangnya bisa mencapai 100 meter) melambangkan doa kepada dewa untuk panen berlimpah, pemandangannya sungguh spektakuler. (Tanggal pasti masih menunggu konfirmasi, disarankan cek sebelum berangkat.)
+**Bali Kite Festival** — Langit Pantai Sanur bakal dipenuhi layang-layang tradisional raksasa. Bentuknya macam-macam, ada yang panjangnya sampai 100 meter, melambangkan doa minta panen berlimpah kepada dewa. Pemandangannya bikin speechless banget! (Tanggal pastinya masih tentative, cek lagi sebelum berangkat ya.)
 
-**Ubud Village Jazz Festival (UVJF)** (7–8 Agustus) — Puncak acara! Festival musik yang meraih penghargaan **10 Besar Acara Nasional Indonesia** ini akan menghadirkan seniman jazz, fusion, dan world music kelas dunia, menciptakan pesta musik yang tak tertandingi di alam Ubud. Pecinta musik wajib banget datang, disarankan beli tiket jauh-jauh hari.
+**Ubud Village Jazz Festival (UVJF)** (7–8 Agustus) — Penutup yang kece abis! Acara musik yang **masuk 10 besar event nasional Indonesia** ini bakal ngumpulin musisi jazz, fusion, dan world music top dunia, bikin konser epik di alam Ubud yang asri. Wajib banget buat pecinta musik, saran sih beli tiket dari jauh-jauh hari.
 
 ---
 
-Bali bulan Juni sampai Agustus itu momen seru banget, perpaduan antara festival dan musim ramai. Kalau kamu ada rencana ke sana, saran sih booking perjalanan dan akomodasi 3-6 bulan sebelumnya biar bisa maksimal nikmatin pesona budaya Bali yang paling autentik.
+Juni–Agustus di Bali adalah momen seru di mana festival dan musim ramai berpadu. Kalau ada rencana ke sini, mending booking tiket dan akomodasi 3–6 bulan sebelumnya, biar bisa maksimal nikmatin pesona budaya Bali yang paling autentik.
 
-Mau tahu lebih detail soal festival Bali 2026? Cek langsung di sini: [Panduan Lengkap Festival Bali 2026](/id/blog/2026-bali-festival-guide/)
+Mau tahu lebih lengkap soal festival-festival di Bali tahun 2026? Cek aja: [Panduan Lengkap Festival Bali 2026](/id/blog/2026-bali-festival-guide/)
