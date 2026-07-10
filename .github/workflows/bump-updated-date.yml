@@ -1,0 +1,59 @@
+name: 自動更新文章「更新日期」
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/content/blog/**.md'
+      - 'src/content/blog/**.mdx'
+
+jobs:
+  bump:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 設定 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: 找出「被實質修改」的文章（排除新增檔案、排除只動 updatedDate 的 diff）
+        id: find
+        run: |
+          MODIFIED=$(git diff --name-only --diff-filter=M HEAD^ HEAD -- src/content/blog/ | grep -E '\.(md|mdx)$' || true)
+          TARGETS=""
+          for f in $MODIFIED; do
+            DIFF=$(git diff HEAD^ HEAD -- "$f" | grep -E '^[+-]' | grep -vE '^(\+\+\+|---)' | grep -vE '^[+-]updatedDate:')
+            if [ -n "$DIFF" ]; then
+              TARGETS="${TARGETS}${f}"$'\n'
+            fi
+          done
+          echo "targets<<BLOGEOF" >> "$GITHUB_OUTPUT"
+          printf '%s' "$TARGETS" >> "$GITHUB_OUTPUT"
+          echo "BLOGEOF" >> "$GITHUB_OUTPUT"
+
+      - name: 更新 updatedDate 為今天
+        if: steps.find.outputs.targets != ''
+        run: printf '%s\n' "${{ steps.find.outputs.targets }}" | node scripts/bump-updated-date.mjs
+
+      - name: Commit & push
+        if: steps.find.outputs.targets != ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/content/blog/
+          if git diff --cached --quiet; then
+            echo "沒有變動需要提交"
+          else
+            git commit -m "chore: 自動更新文章 updatedDate [skip translate]"
+            git pull --rebase origin main
+            git push
+          fi

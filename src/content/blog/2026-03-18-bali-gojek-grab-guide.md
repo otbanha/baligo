@@ -3,6 +3,7 @@ update: "2026/05/19"
 title: 【印尼/峇里島必備APP】Gojek / Grab 叫車圖文教學指南
 description: Gojek / Grab 的使用方式。在峇里島旅遊，Gojek 和 Grab 是兩款必備的「國民 App」，功能與介面極為相似，就像是 Uber 的兩個不同品牌版本。
 pubDate: 2026-03-18
+updatedDate: 2026-07-03
 category:
   - 叫車包車
 tags: []
@@ -13,8 +14,6 @@ embeds:
     platform: youtube
     url: https://youtu.be/ByGkcmys01g
 ---
-Update: 2026/07/03
-
 [🚗 想預估 Gojek 車資？請點擊這裡](/map/gojek-fare/)
 
 ![【印尼/峇里島必備APP】Gojek / Grab 叫車圖文教學指南](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
