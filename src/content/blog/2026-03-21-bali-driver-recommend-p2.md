@@ -3,7 +3,7 @@ title: 峇里島包車司機推薦（第二頁）
 slug: ''
 description: ''
 pubDate: 2026-01-01
-updatedDate: 2026-07-03
+updatedDate: 2026-07-10
 pubHour: null
 category:
   - 叫車包車
