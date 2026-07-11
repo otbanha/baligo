@@ -16,4 +16,4 @@ randomCount: 10
 - [🕍【峇里島凱賓斯基】限時促銷 NTD 10,833 含稅+早餐+下午茶](/blog/apurva-kempinski-bali-deal/)
 - [🦒【峇里島豪華親子團】與動物共眠：入住野生動物園飯店，6D5N NT23,833](/blog/2026-03-29-023447/)
 - 👩‍❤️‍👨[【入住Ayana：專屬兩人的海島私奔】峇里島 × 佩妮達島浪漫輕奢6日遊](https://gobaligo.id/blog/bali-romance-tour/)
-- [⭐](/blog/nusa-penida-luxury-tour/)[ Ayana超殺優惠 NT$5,833 起](https://gobaligo.id/blog/Ayana-promo-2026/)
+- 💥[ Ayana超殺優惠 NT$5,833 起](https://gobaligo.id/blog/Ayana-promo-2026/)
