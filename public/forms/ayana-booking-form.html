@@ -183,6 +183,12 @@
     <h2 class="success-title" id="successTitle"></h2>
     <p class="success-sub" id="successSub"></p>
   </div>
+
+  <div class="success-screen" id="fullScreen">
+    <div class="success-icon">!</div>
+    <h2 class="success-title" id="fullTitle"></h2>
+    <p class="success-sub" id="fullSub"></p>
+  </div>
 </div>
 
 <script>
@@ -219,6 +225,7 @@ const T = {
     errCheckoutOrder:'退房日期必須晚於入住日期',
     errMinNights:'最少需入住 2 晚',
     successTitle:'詢問已送出', successSub:'感謝您的詢問，我們將於 24 小時內與您聯繫。',
+    fullTitle:'今日名額已滿', fullSub:'今日名額已滿，請隔天再試一次，或直接透過 LINE 與我們聯繫。',
     emailHeader:'=== Ayana 訂房詢問 ===',
     emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',checkin:'入住日期',checkout:'退房日期',adults:'大人人數',children:'小孩人數',child_ages:'小孩年齡',bed:'需求床型',room:'指定房型',notes:'其他需求'},
   },
@@ -254,6 +261,7 @@ const T = {
     errCheckoutOrder:'退房日期须晚于入住日期',
     errMinNights:'最少需入住 2 晚',
     successTitle:'咨询已提交', successSub:'感谢您的咨询，我们将在 24 小时内与您联系。',
+    fullTitle:'今日名额已满', fullSub:'今日名额已满，请隔天再试一次，或直接通过 LINE 与我们联系。',
     emailHeader:'=== Ayana 订房咨询 ===',
     emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',checkin:'入住日期',checkout:'退房日期',adults:'成人人数',children:'儿童人数',child_ages:'儿童年龄',bed:'床型需求',room:'指定房型',notes:'其他需求'},
   },
@@ -289,6 +297,7 @@ const T = {
     errCheckoutOrder:'退房日期須晚於入住日期',
     errMinNights:'最少需入住 2 晚',
     successTitle:'查詢已送出', successSub:'多謝您嘅查詢，我們將於 24 小時內聯絡您。',
+    fullTitle:'今日名額已滿', fullSub:'今日名額已滿，請隔天再試一次，或直接透過 LINE 同我們聯絡。',
     emailHeader:'=== Ayana 訂房查詢 ===',
     emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',checkin:'入住日期',checkout:'退房日期',adults:'成人人數',children:'小朋友人數',child_ages:'小朋友年齡',bed:'床型需求',room:'指定房型',notes:'其他需求'},
   },
@@ -324,6 +333,7 @@ const T = {
     errCheckoutOrder:'Check-out must be after check-in',
     errMinNights:'Minimum stay is 2 nights',
     successTitle:'Enquiry Sent', successSub:"Thank you! We'll be in touch within 24 hours.",
+    fullTitle:"Today's Quota is Full", fullSub:"We've reached today's enquiry limit. Please try again tomorrow, or contact us directly via LINE.",
     emailHeader:'=== Ayana Booking Enquiry ===',
     emailKeys:{name:'Name',line:'LINE/WhatsApp',email:'Email',checkin:'Check-in',checkout:'Check-out',adults:'Adults',children:'Children',child_ages:'Children ages',bed:'Bed type',room:'Room type',notes:'Special requests'},
   }
@@ -394,6 +404,8 @@ function setLang(lang) {
   document.getElementById('submitNote').textContent = t.submitNote;
   document.getElementById('successTitle').textContent = t.successTitle;
   document.getElementById('successSub').textContent = t.successSub;
+  document.getElementById('fullTitle').textContent = t.fullTitle;
+  document.getElementById('fullSub').textContent = t.fullSub;
 
   // Adults select
   const adultsEl = document.getElementById('adults');
@@ -568,9 +580,14 @@ document.getElementById('bookingForm').addEventListener('submit', async function
   data.append('form_type', 'Ayana Booking Enquiry');
 
   try {
-    await fetch(SCRIPT_URL, { method: 'POST', body: data, mode: 'no-cors' });
+    const res = await fetch(SCRIPT_URL, { method: 'POST', body: data });
+    const result = await res.json();
     document.getElementById('bookingForm').style.display = 'none';
-    document.getElementById('successScreen').style.display = 'block';
+    if (result.status === 'full') {
+      document.getElementById('fullScreen').style.display = 'block';
+    } else {
+      document.getElementById('successScreen').style.display = 'block';
+    }
   } catch(err) {
     btn.textContent = t.submitBtn;
     btn.disabled = false;
