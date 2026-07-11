@@ -15,5 +15,4 @@ _srcHash: f195efdaa73fe9387a522844cf9af50f
 
 - [乌鲁瓦图 Uluwatu住宿推荐：14间无敌海景的私密别墅度假村](/zh-cn/blog/uluwatu-bali-villas-resorts-guide/)
 - [巴厘岛18家 kids club 亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图、乌布适合家庭度假的最佳选择](/zh-cn/blog/bali-family-resorts-kids-club/)
-- [巴厘岛亲子乐园：十五家拥有滑水道溜滑梯的亲子度假村](/zh-cn/blog/bali-family-resorts-water-slides/)
 - [巴厘岛团体自由行旅游：乌鲁瓦图包栋villa 三房/四房/五房/六房以上的家庭别墅住宿推荐](/zh-cn/blog/bali-group-villa-stay/)

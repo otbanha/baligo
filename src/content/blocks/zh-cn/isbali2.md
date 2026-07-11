@@ -5,7 +5,6 @@ randomCount: 5
 lang: zh-cn
 _srcHash: afb45de33125145baacc2a5830358610
 ---
-
 ## ▼更多正在进行的优惠
 
 - [⭐【省钱+省麻烦】专人帮你规划的定制旅游，满足你的所有需求！](/zh-cn/blog/isbali-tour-agency-review/)
@@ -17,4 +16,4 @@ _srcHash: afb45de33125145baacc2a5830358610
 - [👨‍👨‍👦‍👦【团体旅游如何安排】团体旅游易踩雷？5大难题你想过了吗？](/zh-cn/blog/bali-group-travel-tips/)
 - [🕍【巴厘岛凯宾斯基】限时促销 USD$349 含税+早餐+下午茶](/zh-cn/blog/apurva-kempinski-bali-deal/)
 - [🦒【巴厘岛豪华亲子团】与动物共眠：入住野生动物园酒店，6D5N USD$769](/zh-cn/blog/2026-03-29-023447/)
-- 👩‍❤️‍👨[【专属两人的海岛私奔】巴厘岛 × 佩妮达岛浪漫轻奢6日游｜AYANA度假村、私人泳池Villa](https://gobaligo.id/zh-cn/blog/bali-romance-tour/)
+- ⚠️ 👩‍❤️‍👨[【專屬兩人的海島私奔】峇里島 × 佩妮達島浪漫輕奢6日遊｜AYANA渡假村、私人泳池Villa](https://gobaligo.id/blog/bali-romance-tour/)

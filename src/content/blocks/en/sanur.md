@@ -16,6 +16,4 @@ Sanur is a tranquil seaside town on Bali, renowned for its calm beaches, relaxed
 - [Bali Accommodation Recommendations: 23 Resorts/Villas in Sanur from Luxury to Budget](/en/blog/sanur-luxury-budget-resorts/)
 - [Summer/Winter Bali Family Travel Guide: Comprehensive Tips for Easier Family Trips - Sanur Edition](/en/blog/sanur-family-travel-guide-2/)
 - ["2026 Indonesia's Best New Hotel" Top Honor: The Meru Sanur](/en/blog/the-meru-sanur/)
-- [18 Kids Club Family Resorts in Bali | Best Choices for Family Vacations in Kuta, Seminyak, Canggu, Jimbaran, Uluwatu, Ubud](/en/blog/bali-family-resorts-kids-club/)
-- [Bali Family Fun: Top 15 Resorts with Water Slides](/en/blog/bali-family-resorts-water-slides/)
 - [Bali Group Free Travel: Sanur Private Villas with 3/4/5/6+ Bedrooms Recommended for Family Stays](/en/blog/bali-group-villa-stay/)

@@ -18,4 +18,3 @@ Nusa Dua, renowned for its luxurious resorts, is a premier destination in Bali k
 - [A Unique Bali Vacation Experience - Luxurious Stay at Apurva Kempinski Bali](/en/blog/apurva-kempinski-bali-nusa-dua/)
 - [Bali’s 18 Best Family Resorts with Kids Clubs: Top Picks in Kuta, Seminyak, Canggu, Jimbaran, Uluwatu, and Ubud](/en/blog/bali-family-resorts-kids-club/)
 - [Bali Family Fun: Top 15 Resorts with Water Slides and Playgrounds](/en/blog/bali-family-resorts-water-slides/)
-- [Bali Group Travel: Nusa Dua Private Villas with 3/4/5/6+ Bedrooms for Family Stays](/en/blog/bali-group-villa-stay/)

@@ -18,4 +18,3 @@ _srcHash: 2c4b222fac9558b95467aa453b97e5c1
 - [独一无二的巴厘岛渡假体验 - 巴里岛奢华住宿：凯宾斯基 Apurva Kempinski Bali酒店](/zh-cn/blog/apurva-kempinski-bali-nusa-dua/)
 - [巴厘岛18家 kids club 亲子度假村｜库塔、水明漾、长谷、金巴兰、乌鲁瓦图、乌布适合家庭度假的最佳选择](/zh-cn/blog/bali-family-resorts-kids-club/)
 - [巴厘岛亲子乐园：十五家拥有滑水道溜滑梯的亲子度假村 TOP 15](/zh-cn/blog/bali-family-resorts-water-slides/)
-- [巴厘岛团体自由行旅游：努沙杜瓦包栋villa 三房/四房/五房/六房以上的家庭别墅住宿推荐](/zh-cn/blog/bali-group-villa-stay/)

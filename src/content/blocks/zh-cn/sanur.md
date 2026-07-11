@@ -16,6 +16,4 @@ _srcHash: b4f2a81ada4873c87feddbf9b5b83cee
 - [巴厘岛住宿推荐：Sanur沙努尔23家从奢华到平价的度假村/villa收集](/zh-cn/blog/sanur-luxury-budget-resorts/)
 - [暑假/寒假巴厘岛亲子旅游攻略：全方位指南，让家庭出游更轻松 - 沙努尔篇](/zh-cn/blog/sanur-family-travel-guide-2/)
 - [「2026 印尼最佳新酒店」评选最高荣誉 The Meru Sanur](/zh-cn/blog/the-meru-sanur/)
-- [巴厘岛18家 kids club 亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图、乌布适合家庭度假的最佳选择](/zh-cn/blog/bali-family-resorts-kids-club/)
-- [巴厘岛亲子乐园：十五家拥有滑水道滑梯的亲子度假村 TOP 15](/zh-cn/blog/bali-family-resorts-water-slides/)
 - [巴厘岛团体自由行旅游：沙努尔包栋villa 三房/四房/五房/六房以上的家庭别墅住宿推荐](/zh-cn/blog/bali-group-villa-stay/)
