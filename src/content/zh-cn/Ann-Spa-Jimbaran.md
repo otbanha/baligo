@@ -132,10 +132,10 @@ ANN SPA 的定位是这样：
 
 ## 谷歌五星评价
 
+![谷歌五星評價](https://images.gobaligo.id/images/2026-04/1775895971684-mixcollage-11-apr-2026-03-25-pm-5648.jpg)
 ## 谷歌五星評價
 
-![谷歌五星評價](https://images.gobaligo.id/images/2026-04/1775895971684-mixcollage-11-apr-2026-03-25-pm-5648.jpg)
-
+![總結一句話](https://images.gobaligo.id/images/2026-04/1776254533717-ann.jpg)
 ## 🧡总结一句话
 
 如果你问我：「来巴厘岛要不要排一间SPA？」

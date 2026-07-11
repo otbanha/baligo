@@ -133,7 +133,7 @@ ANN SPA 係 2025 年底先新開幕嘅會館，由台灣老闆娘親自打造。
 
 👉 **可以將 ANN SPA 放喺清單入面，唔會後悔嗰種。**
 
-![總結一句話](https://images.gobaligo.id/images/2026-04/1776254533717-ann.jpg)
+![預約方式](https://images.gobaligo.id/images/2026-04/1775894792566-mixcollage-11-apr-2026-03-06-pm-4438.jpg)
 
 ▲台灣老闆娘期待你嚟幫襯！
 

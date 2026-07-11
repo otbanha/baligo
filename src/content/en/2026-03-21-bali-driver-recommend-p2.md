@@ -35,16 +35,14 @@ For our top picks on Page 1, see [here](https://gobaligo.id/en/blog/bali-private
 
 ## Jimmi Liu
 
-![Any 安妮](https://images.gobaligo.id/images/2026-03/1774787562092-ani_new.jpg)
+![Jimmi Liu 吉米劉](https://images.gobaligo.id/images/2026-03/1774787449808-jimmi_new.jpg)
 
 👍🏼[Recommendation 1](https://www.facebook.com/share/p/CGPsriMfi2eDeEQX/) 👍🏼[Recommendation 2](https://www.facebook.com/share/v/kjsQ2TwqsEqUMFx9/) 👍🏼[Recommendation 3](https://www.facebook.com/share/p/15fjFWAbXM/) 👍🏼[Recommendation 4](https://www.facebook.com/share/p/15nNA4aGZz/) 👍🏼[Recommendation 5](https://www.facebook.com/share/p/15iBddik33/) 👍🏼[Recommendation 6](https://www.facebook.com/share/p/17nFfb2u9j/) 👍🏼[Recommendation 7](https://www.facebook.com/share/p/17gKzp4xNs/) 👍🏼[Recommendation 8](https://www.facebook.com/share/p/1ERGJqTW86/) 👍🏼[Recommendation 9](https://www.facebook.com/share/p/183DMoePq4/)
-
 ## Betty Pinsky & Xiao Wu
 
-![Komang WikaSutresna](https://images.gobaligo.id/images/2026-03/1774787613775-new.jpg)
+![Betty Pinsky & 小吳](https://images.gobaligo.id/images/2026-03/1774787507921-pinsky_new.jpg)
 
 👍🏼[Recommended by Netizen 1](https://www.facebook.com/share/p/6QZjPKdCgCxZpjnm/) 👍🏼[Recommended by Netizen 2](https://www.facebook.com/share/p/XGvXmo4XfR77nEe3/) 👍🏼[Recommended by Netizen 3](https://www.facebook.com/share/p/NCJtqGxCyfKoE3ui/) 👍🏼[Recommended by Netizen 4](https://www.facebook.com/share/p/nCVRmvfDAcNaKp8W/) 👍🏼[Recommended by Netizen 5](https://www.facebook.com/share/p/rr3fzN8pC2VkZ43S/) 👍🏼[Recommended by Netizen 6](https://www.facebook.com/share/p/15M7yLuYSg/) 👍🏼[Recommended by Netizen 7](https://www.facebook.com/share/15KzeArBUc/) 👍🏼[Recommended by Netizen 8](https://www.facebook.com/share/1873vCmEZA/) 👍🏼[Recommended by Netizen 9](https://www.facebook.com/share/p/uKuPgbFNhDmEUbGd/) 👍🏼[Recommended by Netizen 10](https://www.facebook.com/share/p/18ZKxDQfKs/) 👍🏼[Recommended by Netizen 11](https://www.facebook.com/share/p/14wD7kryTo/) 👍🏼[Recommended by Netizen 12](https://www.facebook.com/share/p/15yA7juHso/) 👍🏼[Recommended by Netizen 13](https://www.facebook.com/share/p/14sjTapax2/)
-
 ## Fery Kyo
 
 ![Fery Kyo](https://images.gobaligo.id/images/2026-03/1774787651434-ferry_new.jpg)
@@ -95,10 +93,9 @@ For our top picks on Page 1, see [here](https://gobaligo.id/en/blog/bali-private
 
 ## Iwayan Suantara (Kang Ge)
 
-![Iwayan Suantara 康哥](https://images.gobaligo.id/images/2026-03/1774788022936-_new.jpg)
+![Dody](https://images.gobaligo.id/images/2026-03/1774787943866-dody_new.jpg)
 
 👍🏼[User Recommendation 1](https://www.facebook.com/groups/baligo/permalink/1303317733548802/) 👍🏼[User Recommendation 2](https://www.facebook.com/groups/baligo/permalink/1328527967694445/) 👍🏼[User Recommendation 3](https://www.facebook.com/groups/baligo/permalink/1328945090986066/) 👍🏼[User Recommendation 4](https://www.facebook.com/groups/baligo/permalink/1429430927604148/) 👍🏼[User Recommendation 5](https://www.facebook.com/groups/baligo/permalink/1429435184270389/) 👍🏼[User Recommendation 6](https://www.facebook.com/groups/baligo/permalink/1447013362512571/) 👍🏼[User Recommendation 7](https://www.facebook.com/groups/baligo/permalink/1504043050142935/) 👍🏼[User Recommendation 8](https://www.facebook.com/groups/baligo/permalink/1544564106090829/) 👍🏼[User Recommendation 9](https://www.facebook.com/groups/baligo/permalink/1560878421126064/) 👍🏼[User Recommendation 10](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) 👍🏼[User Recommendation 11](https://www.facebook.com/share/p/Dht7Npq9dB6t6Acj/?mibextid=A7sQZp) 👍🏼[User Recommendation 12](https://www.facebook.com/share/p/XjCCr7h3jUcoihZL/) 👍🏼[User Recommendation 13](https://www.facebook.com/share/p/hE24S7RrBZuDKB4R/) 👍🏼[User Recommendation 14](https://www.facebook.com/share/p/19eYb9HkPn/) 👍🏼[User Recommendation 15](https://www.facebook.com/share/p/18sj6jAcV3/) 👍🏼[User Recommendation 16](https://www.facebook.com/share/p/16LwXDKR1H/) 👍🏼[User Recommendation 17](https://www.facebook.com/share/p/1EW8DqQ7ex/) 👍🏼[User Recommendation 18](https://www.facebook.com/share/p/1P1ABiSqn6/) 👍🏼[User Recommendation 19](https://www.facebook.com/share/p/1FtxCvDbr9/) 👍🏼[User Recommendation 20](https://www.facebook.com/share/p/17TuGZieHU/)
-
 ## Kadek Puri
 
 ![Kadek Puri](https://images.gobaligo.id/images/2026-03/1774788060634-kadek_puri_new.jpg)
@@ -121,10 +118,9 @@ For our top picks on Page 1, see [here](https://gobaligo.id/en/blog/bali-private
 
 ## Gung Bali Wangzi (Prince)
 
-![Gung Bali Wangzi 王子](https://images.gobaligo.id/images/2026-05/1778420410346-new.jpg)
+![Dwik](https://images.gobaligo.id/images/2026-03/1774788094653-dwik_new.jpg)
 
 👍🏼[Recommended by Traveler 1](https://www.facebook.com/share/p/1Cd1X626mG/) 👍🏼[Recommended by Traveler 2](https://www.facebook.com/share/p/1JciR5VxMg/) 👍🏼[Recommended by Traveler 3](https://www.facebook.com/share/p/1E7DvWs6xZ/) 👍🏼[Recommended by Traveler 4](https://www.facebook.com/share/p/17fp8NSmsP/) 👍🏼[Recommended by Traveler 5](https://www.facebook.com/share/p/1NudQpposu/) 👍🏼[Recommended by Traveler 6](https://www.facebook.com/share/p/1DrCn85wh6/) 👍🏼[Recommended by Traveler 7](https://www.facebook.com/share/p/18kDiE3w2r/) 👍🏼[Recommended by Traveler 8](https://www.facebook.com/share/p/1BP7AELXeB/) 👍🏼[Recommended by Traveler 9](https://www.facebook.com/share/p/1DvCnKCrA7/) 👍🏼[Recommended by Traveler 10](https://www.facebook.com/share/p/17i5s3LAJF/) 👍🏼[Recommended by Traveler 11](https://www.facebook.com/share/p/1D6AWxdR57/) 👍🏼[Recommended by Traveler 12](https://www.facebook.com/share/p/1BYaLyET5w/) 👍🏼[Recommended by Traveler 13](https://www.facebook.com/share/p/18d6a34JTF/) 👍🏼[Recommended by Traveler 14](https://www.facebook.com/share/p/1D8QNjhKF6/) 👍🏼[Recommended by Traveler 15](https://www.facebook.com/share/p/18hwbDNCPh/)
-
 ## Gede Mahendra
 
 ![Gede Mahendra](https://images.gobaligo.id/images/2026-06/1781330328310-_2026-06-13_12.57.02.png)
@@ -133,10 +129,9 @@ For our top picks on Page 1, see [here](https://gobaligo.id/en/blog/bali-private
 
 ## (Chinese-speaking Driver) Pacung Xiao Zhong
 
-![](https://images.gobaligo.id/vocus/vocus_32cb0be85eaac6e77b9076347e048cf9.png)
+![Gung Bali Wangzi 王子](https://images.gobaligo.id/images/2026-05/1778420410346-new.jpg)
 
 👍🏼[User Recommendation 1](https://www.facebook.com/share/p/174Txpiw9j/) 👍🏼[User Recommendation 2](https://www.facebook.com/share/p/14DwPUqjsfZ/) 👍🏼[User Recommendation 3](https://www.facebook.com/share/p/19trzp9WYs/) 👍🏼[User Recommendation 4](https://www.facebook.com/share/p/177gUKRAAH/) 👍🏼[User Recommendation 5](https://www.facebook.com/share/p/19xaMLAs1m/) 👍🏼[User Recommendation 6](https://www.facebook.com/share/p/1HkUsoqoZ6/) 👍🏼[User Recommendation 7](https://www.facebook.com/share/p/1DHmDnjYio/) 👍🏼[User Recommendation 8](https://www.facebook.com/share/p/16tDBFbVsA/) 👍🏼[User Recommendation 9](https://www.facebook.com/share/p/1Ah7X3Lyv4/) 👍🏼[User Recommendation 10](https://www.facebook.com/share/p/1DqVkKX881/)
-
 ## **Manx Liega**
 
 ![](https://images.gobaligo.id/images/2026-06/1781187526230-_2026-06-11_20.39.43.png)

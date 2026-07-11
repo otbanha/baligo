@@ -33,7 +33,7 @@ tags:
   - 峇里島自由行
   - 巴厘岛自由行
   - BaliTravelTips
-heroImage: >-
+heroImage: https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
 originalUrl: ''
 private: false
@@ -97,6 +97,8 @@ Customs usually won't hassle you for one personal drone, but make sure to:
 
 ## FAQ
 
+![5. 峇里島飛行實用 Tips（讓你飛得更順、更美）](https://images.gobaligo.id/images/2026-04/1776664958144-20260420_055753_0_utc_0.png)
+
 **Q: Can I fly over the hotel pool?**
 A: Most hotels prohibit it—check with the front desk first.
 
@@ -105,7 +107,6 @@ A: You must have a spotter watching the ground, or it's against the rules.
 
 **Q: Do regulations change suddenly?**
 A: As of 2026, there are no major updates, but it's best to email DGCA again before your trip to confirm.
-
 ## Final Words
 
 In 2026, Bali remains quite friendly for recreational drones—the key is to **follow the rules and respect the local culture**. Fly safely, capture stunning shots, and help protect this beautiful island!

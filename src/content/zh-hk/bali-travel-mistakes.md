@@ -31,7 +31,7 @@ tags:
   - 巴厘岛腹
   - '#BaliBelly'
   - '#避雷指南'
-heroImage: >-
+heroImage: https://images.gobaligo.id/images/2026-04/1776510921085-mixcollage-18-apr-2026-06-14-pm-9120.jpg
   https://images.gobaligo.id/images/2026-04/1776510921085-mixcollage-18-apr-2026-06-14-pm-9120.jpg
 originalUrl: ''
 private: false
@@ -119,6 +119,8 @@ https://youtu.be/ePutHL_Ob1Q
 
 ## 出國前做功課，不是在考驗你有多認真
 
+![寫在最後](https://images.gobaligo.id/images/2026-04/1776511510614-6f08d040cdd2702003ab51beb20055eb.jpg)
+
 我唔係話呢個女仔冇做功課就係佢錯。
 
 只不過，**峇里島係一個好需要「在地資訊」嘅地方**。
@@ -135,7 +137,6 @@ https://youtu.be/ePutHL_Ob1Q
 > [Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo/)
 
 ***
-
 ## 寫喺最後
 
 ![寫在最後](https://images.gobaligo.id/images/2026-04/1776511510614-6f08d040cdd2702003ab51beb20055eb.jpg)

@@ -408,10 +408,20 @@ Legian 區 Jl. Melasti 上面嘅活力型酒店，距離 Kuta Beach 行路只需
 
 ## Aryaduta Bali ⭐⭐⭐⭐
 
+![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173310375-a4a0e49f72028f9addfb0c7f73ef30c7.webp)
+![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173310792-4d606b6bfd30f9c34b4496891cb4d789.webp)
+![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173311403-702311537.jpg)
+![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173311916-702311599.jpg)
+![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173312628-751142152.jpg)
+![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173313139-751142254.jpg)
+![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173313649-751142299.jpg)
+![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173314124-751142343.jpg)
+![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173314675-d68e2dd74a1d2daf3922fa74b103f19f.webp)
+![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173315187-e5d3d13d80acf1a6018e50d3cdaf39cb.webp)
+
 對好多人嚟講，「機場隔籬住宿」只係應急嘅選擇——但其實唔止咁簡單。深夜到埗唔想趕路、清晨出發唔想天都未光就叫車、轉搭內陸機、或者行程最後一日唔想拎住大包細包喺庫塔街頭行，呢個時候機場旁邊嘅酒店先係令旅程順暢嘅關鍵。以下兩間係庫塔機場附近口碑最穩定嘅選擇。
 
 ***
-
 ## Novotel Bali Ngurah Rai Airport
 
 全球少數真正喺機場客運大樓**內部**嘅連鎖酒店，唔係機場附近，係就喺機場入面——行 5-10 分鐘直達國際出發廳同國內到達廳，趕早機嘅旅客直接慳晒所有交通麻煩。
