@@ -1238,11 +1238,14 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .news-widget-box {
   display: flex;
   flex-direction: column;
+  min-height: 0;
 }
 
 .news-widget-box .news-scroll {
   flex: 1;
   max-height: none;
+  min-height: 0;
+  overflow-y: auto;
 }
 
 .widget-box {
