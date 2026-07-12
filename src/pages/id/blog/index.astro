@@ -7,7 +7,6 @@ import Footer from '../../../components/Footer.astro';
 import ChatBot from '../../../components/ChatBot.astro';
 import ExchangeRateWidget from '../../../components/ExchangeRateWidget.astro';
 import ForumLatestTopics from '../../../components/ForumLatestTopics.astro';
-import ShareWallPicks from '../../../components/ShareWallPicks.astro';
 import BaliWeather from '../../../components/BaliWeather.astro';
 import { getCollection, render } from 'astro:content';
 import featuredData from '../../../featured.json';
@@ -278,33 +277,9 @@ const socialLinks = [
           </div>
         </div>
 
-        <!-- Bali Community Forum + Community Shares -->
-        <div class="community-grid">
-          <ForumLatestTopics lang="id" />
-          <ShareWallPicks lang="id" />
-        </div>
-
-        <!-- Daily Exchange Rate -->
-        <ExchangeRateWidget lang="id" />
-
-        <div class="top-widgets" id="top-widgets">
-          <div class="widget-box">
-            <h2 class="widget-title fade-in">🏨 Akomodasi</h2>
-            {accommodations.length > 0 ? (
-              <a href="#" id="accom-link" class="accom-card">
-                <div class="accom-image">
-                  <img id="accom-img" src={accommodations[0].heroImage} alt="" loading="lazy" />
-                </div>
-                <div class="accom-body">
-                  <p id="accom-title">{accommodations[0].title}</p>
-                </div>
-              </a>
-            ) : (
-              <div class="widget-empty">Segera hadir</div>
-            )}
-          </div>
-
-          <div class="widget-box">
+        <!-- Bali News + (Akomodasi / Bali Community Forum / YouTube) -->
+        <div class="news-side-grid" id="top-widgets">
+          <div class="widget-box news-widget-box">
             <h2 class="widget-title fade-in">📰 Berita Bali</h2>
             {baliNewsRaw ? (
               <div class="news-scroll">
@@ -319,7 +294,43 @@ const socialLinks = [
               <div class="widget-empty">Segera hadir</div>
             )}
           </div>
+
+          <div class="side-stack">
+            <div class="widget-box">
+              <h2 class="widget-title fade-in">🏨 Akomodasi</h2>
+              {accommodations.length > 0 ? (
+                <a href="#" id="accom-link" class="accom-card">
+                  <div class="accom-image">
+                    <img id="accom-img" src={accommodations[0].heroImage} alt="" loading="lazy" />
+                  </div>
+                  <div class="accom-body">
+                    <p id="accom-title">{accommodations[0].title}</p>
+                  </div>
+                </a>
+              ) : (
+                <div class="widget-empty">Segera hadir</div>
+              )}
+            </div>
+
+            <!-- Bali Community Forum -->
+            <div class="community-grid">
+              <ForumLatestTopics lang="id" />
+            </div>
+
+            <!-- YouTube -->
+            <div class="youtube-section">
+              <div class="youtube-player">
+                <iframe id="yt-iframe" width="100%" height="100%" src=""
+                  title="Bali Travel Videos" frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen></iframe>
+              </div>
+            </div>
+          </div>
         </div>
+
+        <!-- Daily Exchange Rate -->
+        <ExchangeRateWidget lang="id" />
 
         {top5Posts.length > 0 && (
           <div class="top5-section" id="top5-section">
@@ -336,27 +347,6 @@ const socialLinks = [
             </ul>
           </div>
         )}
-
-        <!-- YouTube + Ask Bali two-column -->
-        <div class="yt-qa-row">
-          <div class="youtube-section">
-            <div class="youtube-player">
-              <iframe id="yt-iframe" width="100%" height="100%" src=""
-                title="Bali Travel Videos" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
-            </div>
-          </div>
-          <div class="qa-widget" id="qa-widget">
-            <div class="qa-widget-header">
-              <h2 class="qa-widget-title">🆘 Tanya Tentang Bali</h2>
-              <a href="/ask/" class="qa-widget-more">Lihat Semua →</a>
-            </div>
-            <p class="qa-widget-desc">Pertanyaan dari traveler lain</p>
-            <ul class="qa-widget-list" id="qa-widget-list"></ul>
-            <a href="/ask/" class="qa-widget-cta">✉️ Ajukan Pertanyaan</a>
-          </div>
-        </div>
 
         <div class="social-section">
           {socialLinks.map(s => (
@@ -651,7 +641,10 @@ const socialLinks = [
 .category-item.active .cat-count { background: rgba(255,255,255,0.15); color: var(--gold-light); }
 .sidebar-toggle { display: none; }
 main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x: hidden; }
-.top-widgets { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2em; margin-bottom: 1.5em; align-items: start; }
+.news-side-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2em; margin-bottom: 1.5em; align-items: stretch; }
+.side-stack { display: flex; flex-direction: column; gap: 1.2em; }
+.news-widget-box { display: flex; flex-direction: column; }
+.news-widget-box .news-scroll { flex: 1; max-height: none; }
 .widget-box {
   background: #ffffff; border-radius: 12px; padding: 1.2em; box-shadow: 0 2px 12px rgba(93,64,55,0.10); border: 1px solid rgba(197,160,89,0.35); position: relative; }
 .widget-box::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: linear-gradient(90deg, transparent, var(--gold), transparent); }
@@ -662,7 +655,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .accom-image { height: 220px; overflow: hidden; border-radius: 8px; margin-bottom: 0.7em; background: var(--ocean-mid); }
 .accom-image img { width: 100%; height: 100%; object-fit: cover; border-radius: 8px; }
 .accom-body p { font-size: 0.88em; font-weight: 600; color: #5D4037; margin: 0; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-.news-scroll { overflow-y: auto; max-height: 280px; scrollbar-width: thin; scrollbar-color: rgba(197,160,89,0.4) transparent; }
+.news-scroll { overflow-y: auto; max-height: 520px; scrollbar-width: thin; scrollbar-color: rgba(197,160,89,0.4) transparent; }
 .news-scroll::-webkit-scrollbar { width: 4px; }
 .news-scroll::-webkit-scrollbar-thumb { background: rgba(197,160,89,0.4); border-radius: 2px; }
 .news-post-date { display: block; font-size: 0.75em; color: var(--gold); text-decoration: none; margin-bottom: 0.6em; }
@@ -681,8 +674,6 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .top5-item a:hover { background: var(--ocean); color: var(--gold-light); border-color: var(--ocean); }
 .top5-num { width: 20px; height: 20px; flex-shrink: 0; background-image: url('/favicon-32x32.png'); background-size: cover; background-repeat: no-repeat; border-radius: 4px; font-size: 0; }
 .top5-title { line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
-.yt-qa-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 1.2em; align-items: start; }
-@media (max-width: 720px) { .yt-qa-row { grid-template-columns: 1fr; } }
 .youtube-section { margin-bottom: 0; }
 .youtube-player { position: relative; width: 100%; aspect-ratio: 16/9; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(93,64,55,0.15); background: var(--ocean); }
 .youtube-player iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
@@ -734,7 +725,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .page-btn:hover:not(:disabled) { background: #2C4A73; }
 .page-btn:disabled { opacity: 0.4; cursor: not-allowed; }
 .page-info { font-size: 0.88em; color: var(--text-light); }
-@media (max-width: 1100px) { .featured-grid { grid-template-columns: repeat(2, 1fr); } .top-widgets { grid-template-columns: 1fr; } }
+@media (max-width: 1100px) { .featured-grid { grid-template-columns: repeat(2, 1fr); } .news-side-grid { grid-template-columns: 1fr; } }
 @media (max-width: 900px) {
   .layout { grid-template-columns: 1fr; }
   .sidebar { position: sticky; top: 64px; z-index: 90; height: auto; border-right: none; border-bottom: 2px solid rgba(197,160,89,0.25); padding: 0; background: var(--header-bg, #1A365D); box-shadow: 0 2px 10px rgba(0,0,0,0.3); }
@@ -752,7 +743,8 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
   .category-item.active { background: var(--accent, #E63946); color: #fff; border-color: var(--accent, #E63946); font-weight: 700; }
   .cat-count { display: none; }
   main { padding: 1.2em 1em 3em; }
-  .top-widgets { gap: 0.8em; margin-bottom: 1em; }
+  .news-side-grid { gap: 0.8em; margin-bottom: 1em; }
+  .side-stack { gap: 0.8em; }
   .accom-image { height: 160px; }
   .widget-box { padding: 1em; }
   .widget-title { font-size: 1em; margin-bottom: 0.7em; }
@@ -798,7 +790,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 @media (max-width: 768px) { .guides-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; } .guide-card { padding: 1rem 0.6rem; min-height: 90px; font-size: 0.9rem; } .guide-icon { font-size: 1.5rem; } }
 @media (max-width: 480px) { .essential-guides { padding: 1rem; } .guides-grid { grid-template-columns: repeat(2, 1fr); gap: 8px; } .guide-card { padding: 0.8rem 0.5rem; min-height: 80px; } .guide-icon { font-size: 1.4rem; } .guide-name { font-size: 0.85rem; } .guide-count { display: none; } }
 
-.community-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 1rem; align-items: start; }
+.community-grid { display: grid; grid-template-columns: 1fr; gap: 1rem; align-items: start; }
 @media (max-width: 768px) { .community-grid { grid-template-columns: 1fr; } }
 </style>
 <script define:vars={{ promosJson }}>
