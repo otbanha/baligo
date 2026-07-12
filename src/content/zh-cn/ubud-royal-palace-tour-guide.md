@@ -5,7 +5,6 @@ description: >-
   乌布皇宫（Ubud Royal Palace/Puri Saren
   Agung）正是体验巴厘岛传统文化的好去处。作为巴厘岛历史上皇家家族的住所，这座皇宫展现了十九世纪以来的巴厘建筑风格，也见证了巴厘皇室的历史和传统
 pubDate: 2024-11-05T00:00:00.000Z
-updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: null
 category:
   - 美食景點活動
@@ -17,12 +16,12 @@ tags:
   - 烏布皇宮門票
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5a0249c2416d34d9faa70c164c0fbf56.jpg'
 originalUrl: 'https://vocus.cc/article/6728cc00fd89780001c9bbdc'
+updatedDate: 2026-07-12T00:00:00.000Z
 lang: zh-cn
-_srcHash: eb0aa3d5b9c0ad440d9b5d9551a78011
+_srcHash: 9953d598be511efeeb68fab298e71948
 ---
-update：2026/06/16
 
-**先讲结论**：乌布皇宫（Puri Saren Agung）位于乌布大街 8 号市中心，展现**19 世纪以来的巴厘建筑风格**，从登巴萨市中心开车约 **1 小时**可达，也可搭乘 Trans Dewata 巴士 **K4B 路线**前往，适合安排在乌布市区观光的顺游行程。
+**先说结论**：乌布皇宫（Puri Saren Agung）位于乌布大街8号市中心，展现**19世纪以来的巴厘建筑风格**，从登巴萨市中心开车约**1小时**可达，也可搭乘Trans Dewata巴士**K4B路线**前往，适合安排在乌布市区观光的顺游行程。
 
 提到巴厘岛，大家首先会想到美丽的沙滩和壮丽的自然景观，但其实巴厘岛的文化底蕴也相当丰富！乌布皇宫（Ubud Royal Palace/Puri Saren Agung）正是体验巴厘岛传统文化的好去处。作为巴厘岛历史上皇家家族的住所，这座皇宫展现了十九世纪以来的巴厘建筑风格，也见证了巴厘皇室的历史和传统艺术。
 
@@ -44,7 +43,11 @@ update：2026/06/16
 
 ![烏布皇宮的亮點：藝術表演](https://images.gobaligo.id/vocus/vocus_e2005bd1999f438cbe9fc3d2a10ac176.png)
 
-> [乌布皇宫卡恰火舞购票优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=944134&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2deaa6927)
+> 乌布皇宫每周四盛大的火舞表演门票预订：[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1336040&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2835b3f21)
+
+> 乌布皇宫旺季每天的雷贡舞表演：[Trip](https://hk.trip.com/things-to-do/detail/108153384?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18620695)
+
+建议提早至少30分钟进场，比较有机会坐到前排或视野较好的位置。
 
 ## 乌布皇宫的参观信息
 
@@ -58,7 +61,7 @@ update：2026/06/16
 
 https://youtube.com/shorts/Oh-RNfjhQhM
 
-乌布艺术市场位于乌布皇宫的对面，是一个充满巴厘岛传统特色的集市。这里出售的商品种类繁多，包括手工饰品、木雕、绘画、传统服饰等，每件商品都展现出当地浓厚的艺术氛围。记得在购物时可以适当议价，让你以更优惠的价格带走心仪的纪念品！
+乌布艺术市场位于乌布皇宫的对面，是一个充满巴厘岛传统特色的市集。这里出售的商品种类繁多，包括手工饰品、木雕、绘画、传统服饰等，每件商品都展现出当地浓厚的艺术氛围。记得在购物时可以适当议价，让你以更优惠的价格带走心仪的纪念品！
 
 延伸阅读：[推荐乌布五大艺术市集完整指南：购买纪念品/伴手礼，寻访巴厘岛文化宝藏](/zh-cn/blog/ubud-art-markets-guide/)
 
@@ -80,7 +83,7 @@ https://youtu.be/hYkf6sjCtqg
 **入场＋拍照方案**
 
 - - 入场 + 拍照 1 次：每人 IDR 100,000
-- - 拍照套组（3 张照片）：IDR 100,000
+- - 拍照套餐（3 张照片）：IDR 100,000
 - - 加洗照片：每张 IDR 40,000
 
 📌 **小提醒（个人观察）**
@@ -128,7 +131,10 @@ https://youtu.be/JtxZHtijEkE
 
 **2. 乌布皇宫的门票费用是多少？**
 
-- 参观乌布皇宫的日间门票是免费的。若要观赏晚上举行的传统舞蹈表演，则需要购买票券，费用大约为 IDR 100K（约 USD$6），票价可能因演出而异。建议可以[事先预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=944134&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2deaa6927)
+- 参观乌布皇宫的白天门票是免费的。若要观看晚上举行的传统舞蹈表演，则需要购票，费用大约为 IDR 100K（约 USD$6），票价可能因演出而异。建议可以提前预订：每周四盛大的火舞表演门票预订[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1336040&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2835b3f21) ；乌布皇宫旺季每天的雷贡舞表演 [Trip](https://hk.trip.com/things-to-do/detail/108153384?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18620695)
+
+建议提前至少 30 分钟入场，这样更有机会坐到前排或视野较好的位置。
+
 - 票价100K...其中的K是什么意思？请看[这里](/zh-cn/blog/bali-budget-tips-k-explained/)
 
 **3. 可以进入乌布皇宫的所有区域吗？**
@@ -141,7 +147,7 @@ https://youtu.be/JtxZHtijEkE
 
 **5. 乌布皇宫可以穿短裤和背心进去吗？**
 
-- 乌布皇宫对着装并没有严格规定，但建议穿着整齐得体，尊重当地文化。参观宗教场所或寺庙时通常会要求穿着包覆性较高的衣物，有些地点也会提供沙龙布（Sarong）供游客使用。
+- 乌布皇宫对着装没有严格规定，但建议穿着整齐得体，尊重当地文化。参观宗教场所或寺庙时通常会要求穿着包裹性较高的衣物，有些地点也会提供纱笼布（Sarong）供游客使用。
 
 **6. 皇宫的传统舞蹈表演有哪些类型？**
 
