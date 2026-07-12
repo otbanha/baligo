@@ -1,0 +1,24 @@
+name: 自動更新本週熱門文章
+
+on:
+  schedule:
+    # 每天 01:00 Bali time (WITA = UTC+8) → UTC 前一天 17:00
+    - cron: '0 17 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: 設定 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: 依近 7 天瀏覽量更新熱門文章清單
+        env:
+          HOT_ARTICLES_CRON_TOKEN: ${{ secrets.HOT_ARTICLES_CRON_TOKEN }}
+        run: node scripts/update-hot-articles.mjs

@@ -16,7 +16,9 @@ export async function onRequestGet(context) {
 export async function onRequestPost(context) {
   const { request, env } = context;
   const token = request.headers.get('X-Admin-Token') || '';
-  if (!env.ADMIN_TOKEN || token !== env.ADMIN_TOKEN) {
+  const validAdmin = env.ADMIN_TOKEN && token === env.ADMIN_TOKEN;
+  const validCron = env.HOT_ARTICLES_CRON_TOKEN && token === env.HOT_ARTICLES_CRON_TOKEN;
+  if (!validAdmin && !validCron) {
     return Response.json({ error: 'Unauthorized' }, { status: 401 });
   }
   if (!env.RATE_LIMIT) return Response.json({ error: 'KV not configured' }, { status: 500 });
