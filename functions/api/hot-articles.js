@@ -5,7 +5,14 @@
 const KV_KEY = 'config:hot-articles';
 
 export async function onRequestGet(context) {
-  const { env } = context;
+  const { env, request } = context;
+  if (new URL(request.url).searchParams.get('debug') === '1') {
+    return Response.json({
+      hasAdminToken: !!env.ADMIN_TOKEN,
+      hasCronToken: !!env.HOT_ARTICLES_CRON_TOKEN,
+      envKeys: Object.keys(env).sort(),
+    });
+  }
   if (!env.RATE_LIMIT) return Response.json([]);
 
   const raw = await env.RATE_LIMIT.get(KV_KEY);
