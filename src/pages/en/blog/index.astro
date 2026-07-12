@@ -7,7 +7,6 @@ import Footer from '../../../components/Footer.astro';
 import ChatBot from '../../../components/ChatBot.astro';
 import ExchangeRateWidget from '../../../components/ExchangeRateWidget.astro';
 import ForumLatestTopics from '../../../components/ForumLatestTopics.astro';
-import ShareWallPicks from '../../../components/ShareWallPicks.astro';
 import BaliWeather from '../../../components/BaliWeather.astro';
 import { getCollection, render } from 'astro:content';
 import featuredData from '../../../featured.json';
@@ -278,10 +277,9 @@ const socialLinks = [
           </div>
         </div>
 
-        <!-- Bali Community Forum + Community Shares -->
+        <!-- Bali Community Forum -->
         <div class="community-grid">
           <ForumLatestTopics lang="en" />
-          <ShareWallPicks lang="en" />
         </div>
 
         <!-- Daily Exchange Rate -->
@@ -337,7 +335,7 @@ const socialLinks = [
           </div>
         )}
 
-        <!-- YouTube + Ask Bali two-column -->
+        <!-- YouTube -->
         <div class="yt-qa-row">
           <div class="youtube-section">
             <div class="youtube-player">
@@ -346,15 +344,6 @@ const socialLinks = [
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             </div>
-          </div>
-          <div class="qa-widget" id="qa-widget">
-            <div class="qa-widget-header">
-              <h2 class="qa-widget-title">🆘 Ask About Bali</h2>
-              <a href="/ask/" class="qa-widget-more">See All →</a>
-            </div>
-            <p class="qa-widget-desc">Others are asking these questions</p>
-            <ul class="qa-widget-list" id="qa-widget-list"></ul>
-            <a href="/ask/" class="qa-widget-cta">✉️ Ask a Question</a>
           </div>
         </div>
 
@@ -662,7 +651,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .accom-image { height: 220px; overflow: hidden; border-radius: 8px; margin-bottom: 0.7em; background: var(--ocean-mid); }
 .accom-image img { width: 100%; height: 100%; object-fit: cover; border-radius: 8px; }
 .accom-body p { font-size: 0.88em; font-weight: 600; color: #5D4037; margin: 0; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-.news-scroll { overflow-y: auto; max-height: 280px; scrollbar-width: thin; scrollbar-color: rgba(197,160,89,0.4) transparent; }
+.news-scroll { overflow-y: auto; max-height: 520px; scrollbar-width: thin; scrollbar-color: rgba(197,160,89,0.4) transparent; }
 .news-scroll::-webkit-scrollbar { width: 4px; }
 .news-scroll::-webkit-scrollbar-thumb { background: rgba(197,160,89,0.4); border-radius: 2px; }
 .news-post-date { display: block; font-size: 0.75em; color: var(--gold); text-decoration: none; margin-bottom: 0.6em; }
@@ -681,8 +670,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .top5-item a:hover { background: var(--ocean); color: var(--gold-light); border-color: var(--ocean); }
 .top5-num { width: 20px; height: 20px; flex-shrink: 0; background-image: url('/favicon-32x32.png'); background-size: cover; background-repeat: no-repeat; border-radius: 4px; font-size: 0; }
 .top5-title { line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
-.yt-qa-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 1.2em; align-items: start; }
-@media (max-width: 720px) { .yt-qa-row { grid-template-columns: 1fr; } }
+.yt-qa-row { display: grid; grid-template-columns: 1fr; gap: 16px; margin-bottom: 1.2em; align-items: start; }
 .youtube-section { margin-bottom: 0; }
 .youtube-player { position: relative; width: 100%; aspect-ratio: 16/9; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(93,64,55,0.15); background: var(--ocean); }
 .youtube-player iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
@@ -798,7 +786,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 @media (max-width: 768px) { .guides-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; } .guide-card { padding: 1rem 0.6rem; min-height: 90px; font-size: 0.9rem; } .guide-icon { font-size: 1.5rem; } }
 @media (max-width: 480px) { .essential-guides { padding: 1rem; } .guides-grid { grid-template-columns: repeat(2, 1fr); gap: 8px; } .guide-card { padding: 0.8rem 0.5rem; min-height: 80px; } .guide-icon { font-size: 1.4rem; } .guide-name { font-size: 0.85rem; } .guide-count { display: none; } }
 
-.community-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 1rem; align-items: start; }
+.community-grid { display: grid; grid-template-columns: 1fr; gap: 1rem; align-items: start; }
 @media (max-width: 768px) { .community-grid { grid-template-columns: 1fr; } }
 </style>
 <script define:vars={{ promosJson }}>

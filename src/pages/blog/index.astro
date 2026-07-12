@@ -7,7 +7,6 @@ import ChatBot from '../../components/ChatBot.astro';
 import BaliTicketTable from '../../components/BaliTicketTable.astro';
 import ExchangeRateWidget from '../../components/ExchangeRateWidget.astro';
 import ForumLatestTopics from '../../components/ForumLatestTopics.astro';
-import ShareWallPicks from '../../components/ShareWallPicks.astro';
 import BaliWeather from '../../components/BaliWeather.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
 import { getCollection, render } from 'astro:content';
@@ -415,10 +414,9 @@ const socialLinks = [
           </div>
         </div>
 
-        <!-- 峇里島討論區 + 社群分享精選 -->
+        <!-- 峇里島討論區 -->
         <div class="community-grid">
           <ForumLatestTopics lang="zh-tw" />
-          <ShareWallPicks lang="zh-tw" />
         </div>
 
         <!-- 每日參考匯率 -->
@@ -476,7 +474,7 @@ const socialLinks = [
           </div>
         )}
 
-        <!-- YouTube + 求救箱 兩欄 -->
+        <!-- YouTube -->
         <div class="yt-qa-row">
           <div class="youtube-section">
             <div class="youtube-player">
@@ -491,15 +489,6 @@ const socialLinks = [
                 allowfullscreen
               ></iframe>
             </div>
-          </div>
-          <div class="qa-widget" id="qa-widget">
-            <div class="qa-widget-header">
-              <h2 class="qa-widget-title">🆘 峇里島求救箱</h2>
-              <a href="/ask/" class="qa-widget-more">看全部 →</a>
-            </div>
-            <p class="qa-widget-desc">其他人也在問這些問題</p>
-            <ul class="qa-widget-list" id="qa-widget-list"></ul>
-            <a href="/ask/" class="qa-widget-cta">✉️ 我也有問題想問</a>
           </div>
         </div>
 
@@ -1392,8 +1381,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .top5-title { line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
 
 /* YouTube */
-.yt-qa-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 1.2em; align-items: start; }
-@media (max-width: 720px) { .yt-qa-row { grid-template-columns: 1fr; } }
+.yt-qa-row { display: grid; grid-template-columns: 1fr; gap: 16px; margin-bottom: 1.2em; align-items: start; }
 .youtube-section { margin-bottom: 0; }
 .youtube-player { position: relative; width: 100%; aspect-ratio: 16/9; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(93, 64, 55, 0.15); background: var(--ocean); }
 .youtube-player iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
@@ -1556,7 +1544,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 }
 .news-scroll {
   overflow-y: auto;
-  max-height: 280px;
+  max-height: 520px;
   scrollbar-width: thin;
   scrollbar-color: rgba(197,160,89,0.4) transparent;
 }
@@ -1885,7 +1873,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 
 .community-grid {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  grid-template-columns: 1fr;
   gap: 1rem;
   align-items: start;
 }
