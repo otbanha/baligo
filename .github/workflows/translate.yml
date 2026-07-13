@@ -183,6 +183,7 @@ jobs:
           git add src/content/en/ || true
           git add src/content/id/ || true
           git add src/content/blocks/zh-cn/ || true
+          git add src/content/blocks/zh-hk/ || true
           git add src/content/blocks/en/ || true
           git add src/content/blocks/id/ || true
 
