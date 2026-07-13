@@ -998,6 +998,37 @@ const socialLinks = [
     });
   })();
 
+  // Bali News 框高度對齊右側堆疊（Accommodations + 討論區 + YouTube），超出則捲動
+  (function() {
+    const grid = document.querySelector('.news-side-grid');
+    const newsBox = document.querySelector('.news-widget-box');
+    const newsScroll = document.querySelector('.news-widget-box .news-scroll');
+    const sideStack = document.querySelector('.side-stack');
+    if (!grid || !newsBox || !newsScroll || !sideStack) return;
+
+    function syncHeight() {
+      const cols = getComputedStyle(grid).gridTemplateColumns.trim().split(/\s+/).filter(Boolean);
+      if (cols.length < 2) {
+        newsScroll.style.height = '';
+        return;
+      }
+      newsScroll.style.height = '0px';
+      const stackHeight = sideStack.getBoundingClientRect().height;
+      const chromeHeight = newsBox.getBoundingClientRect().height;
+      const available = stackHeight - chromeHeight;
+      newsScroll.style.height = Math.max(available, 120) + 'px';
+    }
+
+    syncHeight();
+    window.addEventListener('resize', syncHeight);
+    if (window.ResizeObserver) {
+      new ResizeObserver(syncHeight).observe(sideStack);
+    } else {
+      setTimeout(syncHeight, 500);
+      setTimeout(syncHeight, 1500);
+    }
+  })();
+
 </script>
 </html>
 
@@ -1226,7 +1257,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
   grid-template-columns: 1fr 1fr;
   gap: 1.2em;
   margin-bottom: 1.5em;
-  align-items: stretch;
+  align-items: start;
 }
 
 .side-stack {
@@ -1235,16 +1266,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
   gap: 1.2em;
 }
 
-.news-widget-box {
-  display: flex;
-  flex-direction: column;
-  min-height: 0;
-}
-
 .news-widget-box .news-scroll {
-  flex: 1;
-  max-height: none;
-  min-height: 0;
   overflow-y: auto;
 }
 
@@ -1460,7 +1482,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 @media (max-width: 1100px) {
   .featured-grid { grid-template-columns: repeat(2, 1fr); }
   .news-side-grid { grid-template-columns: 1fr; }
-  .news-widget-box .news-scroll { flex: none; max-height: 420px; }
+  .news-widget-box .news-scroll { max-height: 420px; }
 }
 
 @media (max-width: 900px) {
@@ -1566,7 +1588,6 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 }
 .news-scroll {
   overflow-y: auto;
-  max-height: 520px;
   scrollbar-width: thin;
   scrollbar-color: rgba(197,160,89,0.4) transparent;
 }

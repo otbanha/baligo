@@ -617,6 +617,37 @@ const socialLinks = [
       list.appendChild(li);
     });
   })();
+
+  // Bali News 框高度對齊右側堆疊（Accommodations + 討論區 + YouTube），超出則捲動
+  (function() {
+    const grid = document.querySelector('.news-side-grid');
+    const newsBox = document.querySelector('.news-widget-box');
+    const newsScroll = document.querySelector('.news-widget-box .news-scroll');
+    const sideStack = document.querySelector('.side-stack');
+    if (!grid || !newsBox || !newsScroll || !sideStack) return;
+
+    function syncHeight() {
+      const cols = getComputedStyle(grid).gridTemplateColumns.trim().split(/\s+/).filter(Boolean);
+      if (cols.length < 2) {
+        newsScroll.style.height = '';
+        return;
+      }
+      newsScroll.style.height = '0px';
+      const stackHeight = sideStack.getBoundingClientRect().height;
+      const chromeHeight = newsBox.getBoundingClientRect().height;
+      const available = stackHeight - chromeHeight;
+      newsScroll.style.height = Math.max(available, 120) + 'px';
+    }
+
+    syncHeight();
+    window.addEventListener('resize', syncHeight);
+    if (window.ResizeObserver) {
+      new ResizeObserver(syncHeight).observe(sideStack);
+    } else {
+      setTimeout(syncHeight, 500);
+      setTimeout(syncHeight, 1500);
+    }
+  })();
 </script>
 
 <style is:global>
@@ -641,10 +672,9 @@ const socialLinks = [
 .category-item.active .cat-count { background: rgba(255,255,255,0.15); color: var(--gold-light); }
 .sidebar-toggle { display: none; }
 main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x: hidden; }
-.news-side-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2em; margin-bottom: 1.5em; align-items: stretch; }
+.news-side-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2em; margin-bottom: 1.5em; align-items: start; }
 .side-stack { display: flex; flex-direction: column; gap: 1.2em; }
-.news-widget-box { display: flex; flex-direction: column; min-height: 0; }
-.news-widget-box .news-scroll { flex: 1; max-height: none; min-height: 0; overflow-y: auto; }
+.news-widget-box .news-scroll { overflow-y: auto; }
 .widget-box {
   background: #ffffff; border-radius: 12px; padding: 1.2em; box-shadow: 0 2px 12px rgba(93,64,55,0.10); border: 1px solid rgba(197,160,89,0.35); position: relative; }
 .widget-box::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: linear-gradient(90deg, transparent, var(--gold), transparent); }
@@ -655,7 +685,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .accom-image { height: 220px; overflow: hidden; border-radius: 8px; margin-bottom: 0.7em; background: var(--ocean-mid); }
 .accom-image img { width: 100%; height: 100%; object-fit: cover; border-radius: 8px; }
 .accom-body p { font-size: 0.88em; font-weight: 600; color: #5D4037; margin: 0; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-.news-scroll { overflow-y: auto; max-height: 520px; scrollbar-width: thin; scrollbar-color: rgba(197,160,89,0.4) transparent; }
+.news-scroll { overflow-y: auto; scrollbar-width: thin; scrollbar-color: rgba(197,160,89,0.4) transparent; }
 .news-scroll::-webkit-scrollbar { width: 4px; }
 .news-scroll::-webkit-scrollbar-thumb { background: rgba(197,160,89,0.4); border-radius: 2px; }
 .news-post-date { display: block; font-size: 0.75em; color: var(--gold); text-decoration: none; margin-bottom: 0.6em; }
@@ -725,7 +755,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .page-btn:hover:not(:disabled) { background: #2C4A73; }
 .page-btn:disabled { opacity: 0.4; cursor: not-allowed; }
 .page-info { font-size: 0.88em; color: var(--text-light); }
-@media (max-width: 1100px) { .featured-grid { grid-template-columns: repeat(2, 1fr); } .news-side-grid { grid-template-columns: 1fr; } .news-widget-box .news-scroll { flex: none; max-height: 420px; } }
+@media (max-width: 1100px) { .featured-grid { grid-template-columns: repeat(2, 1fr); } .news-side-grid { grid-template-columns: 1fr; } .news-widget-box .news-scroll { max-height: 420px; } }
 @media (max-width: 900px) {
   .layout { grid-template-columns: 1fr; }
   .sidebar { position: sticky; top: 64px; z-index: 90; height: auto; border-right: none; border-bottom: 2px solid rgba(197,160,89,0.25); padding: 0; background: var(--header-bg, #1A365D); box-shadow: 0 2px 10px rgba(0,0,0,0.3); }
