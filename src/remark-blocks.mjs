@@ -12,6 +12,7 @@ export function remarkBlocks(embedMap = {}) {
     if (filePath.includes('/content/en/'))     lang = 'en';
     else if (filePath.includes('/content/zh-cn/')) lang = 'zh-cn';
     else if (filePath.includes('/content/zh-hk/')) lang = 'zh-hk';
+    else if (filePath.includes('/content/id/')) lang = 'id';
 
     // Fallback for Content Layer API (glob loader): file path may not include the collection directory.
     // Read the lang field from frontmatter instead.
@@ -21,6 +22,7 @@ export function remarkBlocks(embedMap = {}) {
       if (fmLang === 'en') lang = 'en';
       else if (fmLang === 'zh-cn') lang = 'zh-cn';
       else if (fmLang === 'zh-hk') lang = 'zh-hk';
+      else if (fmLang === 'id') lang = 'id';
     }
 
     function loadBlocksFromDir(dir) {
