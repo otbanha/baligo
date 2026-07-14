@@ -21,7 +21,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d8ab044a198844bec62c51e0a0d26d91.jpg'
 originalUrl: 'https://vocus.cc/article/65c8e2dffd89780001346aa9'
 lang: id
-_srcHash: bdfc861b889bed248a7244769ef33573
+_srcHash: STALE_TITLE_FIX
 ---
 **先講結論**：Penida Island住宿精選 **14 間**，從奢華無邊際泳池別墅到平價民宿都有收錄，適合依預算與需求挑選（浮潛/海景等不同定位），是Penida Island全攻略系列的第五篇。
 

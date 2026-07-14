@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ec95b2ef12d730465f3dfa13b07341f6.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b7efd897800013a9815'
 lang: id
-_srcHash: 4c48dbf51be39c75c782aa7404f98c94
+_srcHash: STALE_TITLE_FIX
 ---
 
 ### Bali Canggu旅遊攻略

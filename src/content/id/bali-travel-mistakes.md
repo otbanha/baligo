@@ -38,7 +38,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: b2ae55e79ab6e44fcf5eabee552ead78
+_srcHash: STALE_TITLE_FIX
 ---
 **先講結論**：四天三夜玩到「不想二訪」通常不是Bali的問題，是**踩雷點錯位**——按摩踩雷是沒找對地方（不是隨便找路邊店）、路難走是沒搞懂當地移動方式（該包車就別硬走）、物價驚人是在觀光區買而非在地市場。避開這5個致命傷，短天數行程也能玩得盡興，詳細解法如下。
 

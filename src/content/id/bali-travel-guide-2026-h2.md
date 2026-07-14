@@ -27,7 +27,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: b927526db59a80d675be856326553283
+_srcHash: STALE_TITLE_FIX
 ---
 # 【2026 Bali 旅遊展望】從乾季巔峰到雨季來臨：7～12 月節慶與氣候全攻略
 

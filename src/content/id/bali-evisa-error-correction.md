@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/66480ae5fd89780001fb7763'
 category:
   - 簽證通關
 lang: id
-_srcHash: 615cad819e88bbd345f4f2f73942f036
+_srcHash: STALE_TITLE_FIX
 ---
 ![印尼/峇里島電子簽證申請小插曲：如何修改e-VOA資料錯誤？](https://images.gobaligo.id/vocus/vocus_5560b9a7da5290e0882e25695ee01bd2.png)
 

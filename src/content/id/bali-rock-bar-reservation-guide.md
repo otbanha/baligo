@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bc5effe6be71d08b10556ee097f70753.jpg'
 originalUrl: 'https://vocus.cc/article/67270573fd89780001adf758'
 lang: id
-_srcHash: 4a270e04e7f7716a4a46e3bfe5afdd07
+_srcHash: STALE_TITLE_FIX
 ---
 
 **先講結論**：Rock Bar **日落時段（16:00-17:00）只開放 Ayana 度假村住客預約**，非住客只能現場排隊碰運氣；**夜間時段（19:30 起）則所有人都可預約**，最保險的玩法是訂夜間時段。非住客現場消費有最低門檻（Tapas Table 每人 Rp 300,000++、Dinner Table 每人 Rp 500,000++），穿著避免背心、沙灘褲，夜間建議穿正式一點。

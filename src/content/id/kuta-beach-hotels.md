@@ -37,7 +37,7 @@ private: false
 shuffle_h2: true
 embeds: []
 lang: id
-_srcHash: 760cb7d56628d99a1d88b01bc324b148
+_srcHash: STALE_TITLE_FIX
 ---
 
 在Bali，Kuta幾乎是所有旅程的起點。

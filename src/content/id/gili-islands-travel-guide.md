@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_94247af16368c1d8141a32b1e8144615.jpg'
 originalUrl: 'https://vocus.cc/article/6615f2a8fd89780001eb72fc'
 lang: id
-_srcHash: afb38241b3761e70c7bf85ef68614779
+_srcHash: STALE_TITLE_FIX
 ---
 (Gambar dan teks di bawah ini disediakan oleh member grup Facebook **蕭雅心Coco**, dan sudah disetujui untuk diedit)
 

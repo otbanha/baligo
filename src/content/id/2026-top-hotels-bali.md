@@ -42,7 +42,7 @@ shuffle_h2: false
 embeds: []
 update: 2026/05/22
 lang: id
-_srcHash: 18d90ccc69d3edf507bcb178e23779ec
+_srcHash: STALE_TITLE_FIX
 ---
 Hotel bintang lima di Bali tuh banyak banget sampai bikin pusing milih. Di Ubud ada [Capella](/id/blog/capella-ubud-luxury-resort/), di Uluwatu ada [Alila](/id/blog/alila-villas-uluwatu-bali/), di Nusa Dua ada [Apurva Kempinski](/id/blog/apurva-kempinski-bali-nusa-dua/)... Tapi yang paling bikin surprise di 2026 adalah resort baru di Sanur—**The Meru Sanur**.
 

@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/6785b417fd89780001890203'
 category:
   - 旅行技巧
 lang: id
-_srcHash: 1f608179e1e3bff84665fa7172f9f378
+_srcHash: STALE_TITLE_FIX
 ---
 
 Bali meraih peringkat kedua sebagai destinasi wisata terpopuler di dunia dalam [TripAdvisor 2025 Travelers' Choice Awards](https://www.tripadvisor.com.au/TravelersChoice-Destinations), dan dinobatkan sebagai destinasi nomor satu di Asia untuk tahun 2025.

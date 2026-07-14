@@ -13,7 +13,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/images/2026-06/1781696806087-ijen.jpg'
 originalUrl: 'https://vocus.cc/article/67eb9e4afd89780001eb48fb'
 lang: id
-_srcHash: 234c146aaec54328e57ad4a6bad931cd
+_srcHash: STALE_TITLE_FIX
 ---
 ![【伊真火山+峇里島】夢幻藍火+賽武瀑布+布羅莫日出｜輕奢五日遊全包](https://images.gobaligo.id/vocus/vocus_95d91a1539287683737d3e0a04d1e1c8.jpg)
 

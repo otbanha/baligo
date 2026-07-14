@@ -23,7 +23,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: id
-_srcHash: 661d7897ef592eb07befca4e8cda2374
+_srcHash: STALE_TITLE_FIX
 ---
 **先讲结论**：BMKG预测2026年雨季**提前结束**，4月起进入干季黄金期——爪哇岛**布罗莫火山登顶成功率大幅提升**、Bali**海水能见度提高，适合潜水冲浪**。想安排「双岛跨海行程」，这段时间是最佳窗口：爪哇岛走文化与火山路线（婆罗浮屠、布罗莫火山），Bali走度假放松路线（Ubud梯田、南部海岸度假村）。
 

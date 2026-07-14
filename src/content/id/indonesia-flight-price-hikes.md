@@ -23,7 +23,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: id
-_srcHash: c832fa1525f93cc3e670ce578ae54c81
+_srcHash: STALE_TITLE_FIX
 ---
 
 ![長榮、華航、星宇全部漲價！4/7起機票有感調漲！前進Bali與印尼，達人傳授3招省錢飛](https://images.gobaligo.id/images/2026-04/1775702831699-1000117790.jpg)

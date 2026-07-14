@@ -37,7 +37,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 1bca1033b7e8018ab1b6d06887f56797
+_srcHash: STALE_TITLE_FIX
 ---
 
 ## [Menginap di AYANA] Liburan eksklusif berdua di pulau ✨ Berangkat kapan aja, siap-siap berlayar!

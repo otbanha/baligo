@@ -25,7 +25,7 @@ heroImage: 'https://images.gobaligo.id/images/2026-06/1781587544726-uluwatu_temp
 originalUrl: 'https://vocus.cc/article/678b1d81fd89780001f7fe4d'
 update: 2026/05/22
 lang: id
-_srcHash: 5b04e5e75e7e33d66c20c811bf788431
+_srcHash: STALE_TITLE_FIX
 ---
 **先说结论**：乌鲁瓦图庙门票成人 **Rp 60,000**，卡恰火舞另外购票 **Rp 150,000**（每天18:00-19:00与19:00-20:00两场，建议提前买Klook优惠票并早点入场卡位）。园内有野生猕猴会抢太阳眼镜、手机等贵重物品，收好随身物品最重要；若被抢走，用花生或香蕉“交易”通常能换回。进入寺庙需穿纱笼（入口免费租借）。
 

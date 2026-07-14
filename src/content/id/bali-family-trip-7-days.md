@@ -17,7 +17,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: id
-_srcHash: 5e5de235c877eea9dec78f43e00f2e40
+_srcHash: STALE_TITLE_FIX
 ---
 這篇遊記是由團友[Serena](https://www.facebook.com/100004740466944/)提供，記錄了一個帶著兩個小朋友，5大2小家庭的親子遊Bali之旅。在這趟旅程中，他們與導遊兼司機小鍾Pacung Bali共度了七天的美好時光。透過詳細的行程安排和景點推薦，他們探索了Bali的各個角落，品嚐了當地的美食，體驗了豐富的水上活動，並留下了許多珍貴的回憶和美麗的照片。
 

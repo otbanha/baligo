@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/687c40eafd897800012a1410'
 category:
   - 遊記分享
 lang: id
-_srcHash: 09dd0461d024c6cbe8485e55af43e551
+_srcHash: STALE_TITLE_FIX
 ---
 
 > 以下內容改編自團友 [Chen Cheng](https://www.facebook.com/share/p/1JiRwHMMH1/) 分享遊記：  

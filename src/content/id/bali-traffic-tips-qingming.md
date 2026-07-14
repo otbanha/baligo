@@ -15,7 +15,7 @@ category:
   - 旅行技巧
   - 遊記分享
 lang: id
-_srcHash: aad6c8100db5e4dd4fefcba72ba6bcfe
+_srcHash: STALE_TITLE_FIX
 ---
 
 在四月的台灣清明節連假，如果能請假3天，就能享有長達9天的連假。很多人計劃趁這個機會出國玩，不過，今年印尼/Bali可能不是一個適合在清明連假期間去的地方！

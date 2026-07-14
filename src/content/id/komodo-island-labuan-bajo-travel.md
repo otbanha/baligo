@@ -15,7 +15,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6a38c8fbc6833eca3adeffb98870a912.jpg'
 originalUrl: 'https://vocus.cc/article/681601c6fd8978000139f8a3'
 lang: id
-_srcHash: 594c2efa8a25eee05e10d74565d860d0
+_srcHash: STALE_TITLE_FIX
 ---
 ## **Pendahuluan: Kenapa Labuan Bajo Wajib Kamu Kunjungi?**
 

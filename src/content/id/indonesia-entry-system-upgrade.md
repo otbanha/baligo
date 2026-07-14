@@ -16,7 +16,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: id
-_srcHash: d13c7060642d722bc4b674218d8ff70a
+_srcHash: STALE_TITLE_FIX
 ---
 **先講結論**：「All Indonesia」是把海關申報＋健康申報整合成單一平台的新系統，**入境前 3 天內線上預填，平均只需約 2.5 分鐘**，比過去分別填多張表格快很多。系統有中文（簡體）介面，這篇記錄的是 2025 年 7 月在雅加達機場的試行階段；系統已於 **2025 年 8 月 18 日起全國全面啟用**，Bali 的伍拉·賴機場現在也適用，最新流程請見[2026版 All Indonesia 入境卡完整攻略](/id/blog/bali-all-indonesia-arrival-guide/)。
 

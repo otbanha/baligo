@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/698f077efd89780001e7294f'
 category:
   - 美食景點活動
 lang: id
-_srcHash: 13685e2272668fe0b4c833d6d1540f75
+_srcHash: STALE_TITLE_FIX
 ---
 
 Bali靜居日（Nyepi Day），這可是Bali最獨特、最神聖的節日之一，島上瞬間從超熱鬧變成「全世界最安靜的一天」，超有儀式感！

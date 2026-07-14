@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/6543aa55fd89780001ddf30b'
 category:
   - 旅行技巧
 lang: id
-_srcHash: e4e62e9bac1b7ac95f75e30338414644
+_srcHash: STALE_TITLE_FIX
 ---
 ![2024年峇里島投資新法規：對國外投資者投資峇里島的影響](https://images.gobaligo.id/vocus/vocus_02f9e0629db3fa5a8e4dc621e9b2389f.jpg)
 
