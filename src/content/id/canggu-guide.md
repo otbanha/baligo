@@ -26,7 +26,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_ec95b2ef12d730465f3dfa13b0734
 originalUrl: 'https://vocus.cc/article/64db6b7efd897800013a9815'
 updatedDate: 2026-05-26T00:00:00.000Z
 lang: id
-_srcHash: 4c48dbf51be39c75c782aa7404f98c94
+_srcHash: STALE_TITLE_FIX_2
 ---
 
 ### Panduan Wisata Bali Canggu / Changgu / Canggu

@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/66fd2bc1fd8978000130e64c'
 category:
   - 旅行技巧
 lang: id
-_srcHash: 22653dfb5ee22bc5ab7f129687e4436a
+_srcHash: STALE_TITLE_FIX_2
 ---
 
 繼峇里島的第一階段輕軌（LRT）工程已於 2024 年 9 月 4 日正式啟動，並在庫塔中央停車場舉行了儀式之後。捷運（MRT）的建設計劃將於 2025 年 4 月開始挖掘，這是當地交通基礎設施的一大突破。接下來，我們將詳細探討峇里島捷運的各個階段、施工過程以及未來對旅遊和當地居民的影響。

@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6680c949bff873153e488598381a7ca6.png'
 originalUrl: 'https://vocus.cc/article/673c7478fd89780001db176b'
 lang: id
-_srcHash: a1f932a832ffa1f38ad9b574cc3176c3
+_srcHash: STALE_TITLE_FIX_2
 ---
 **先講結論**：這是一團兩人獨享一車一導遊的**峇里島＋科摩多國家公園 5 日輕奢團**，主打**全程無購物站、無隱藏自費**——含烏魯瓦圖懸崖景觀住宿、私人快艇直達科摩多粉紅沙灘、出海賞科摩多龍、印度洋魔鬼魚浮潛與烏布 Omma Dayclub 瀑布酒吧。2026/5 優惠含台北直飛機票每人台幣 41,833 元。適合想避開自由行訂票麻煩、又不想被購物團綁架行程的旅客。
 

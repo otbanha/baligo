@@ -348,6 +348,7 @@ async function callDeepSeek(texts, lang) {
  */
 async function translateTexts(texts, lang) {
   const results = new Array(texts.length).fill(null);
+  const hadFallback = new Set(); // origIdx 清單：翻譯失敗、暫時退回原文的項目
   const needTranslate = []; // { origIdx, text, stripped, videosSaved }
 
   for (let i = 0; i < texts.length; i++) {
@@ -364,7 +365,7 @@ async function translateTexts(texts, lang) {
     }
   }
 
-  if (needTranslate.length === 0) return results;
+  if (needTranslate.length === 0) return { results, hadFallback };
 
   if (isDryRun) {
     const chars = needTranslate.reduce((s, t) => s + t.text.length, 0);
@@ -372,7 +373,7 @@ async function translateTexts(texts, lang) {
     for (const { text } of needTranslate.slice(0, 3)) {
       console.log(`      "${text.slice(0, 60).replace(/\n/g, '↵')}..."`);
     }
-    return results.map((r, i) => r ?? texts[i]);
+    return { results: results.map((r, i) => r ?? texts[i]), hadFallback };
   }
 
   // 批次呼叫
@@ -392,12 +393,24 @@ async function translateTexts(texts, lang) {
     }
 
     for (let j = 0; j < batch.length; j++) {
-      const { origIdx, text, videosSaved } = batch[j];
-      const t = translated[j];
+      const { origIdx, text, stripped, videosSaved } = batch[j];
+      let t = translated[j];
+
+      // 殘留中文：同一輪內單獨重打一次 API，避免品質不穩的單一項目拖到下次排程才重試。
+      if (typeof t === 'string' && isUntranslatedResidue(t, lang)) {
+        try {
+          const retry = await callDeepSeek([stripped], lang);
+          if (typeof retry[0] === 'string' && !isUntranslatedResidue(retry[0], lang)) {
+            t = retry[0];
+          }
+        } catch { /* 重試失敗就沿用原本結果，交由下方 fallback 處理 */ }
+      }
+
       if (typeof t !== 'string' || isUntranslatedResidue(t, lang)) {
         // 翻譯缺失、格式異常，或明顯殘留中文（翻譯品質失敗）：暫用原文，且「不」寫入快取，讓下次可重試。
         // 避免把物件/undefined，或半殘留的中文寫進內文或 frontmatter。
         results[origIdx] = text;
+        hadFallback.add(origIdx);
         continue;
       }
       // 翻譯結果還原 video URL
@@ -408,7 +421,7 @@ async function translateTexts(texts, lang) {
     saveCache();
   }
 
-  return results;
+  return { results, hadFallback };
 }
 
 // ── 主要翻譯邏輯 ─────────────────────────────────────────────────────────────
@@ -506,10 +519,16 @@ async function translateFile(filename, lang) {
     return 'translated';
   }
 
-  const translated = await translateTexts(allTexts, lang);
+  const { results: translated, hadFallback } = await translateTexts(allTexts, lang);
+
+  // 若有任何欄位（title/description/內文段落）翻譯失敗、暫用原文，
+  // _srcHash 就不寫成功雜湊 —— 讓下次執行時這個檔案還是會被判定為「待翻譯」，
+  // 不會因為寫入了跟來源相符的 _srcHash 而被永久跳過重試。
+  const translationIncomplete = hadFallback.size > 0;
+  const finalSrcHash = translationIncomplete ? `PENDING_RETRY_${srcHash}` : srcHash;
 
   // 更新 frontmatter
-  const newFm = { ...fm, lang, _srcHash: srcHash };
+  const newFm = { ...fm, lang, _srcHash: finalSrcHash };
   fmKeys.forEach((key, i) => {
     // 最後防線：frontmatter（title/description）只接受非空字串，否則保留原文，
     // 確保絕不會把物件寫進 frontmatter（Astro schema 會直接 build 失敗）。
@@ -553,7 +572,7 @@ async function translateFile(filename, lang) {
 
   if (!isDryRun) {
     writeFileSync(destPath, newContent, 'utf-8');
-    cache.files[fileCacheKey] = srcHash;
+    cache.files[fileCacheKey] = finalSrcHash;
     saveCache();
   }
 

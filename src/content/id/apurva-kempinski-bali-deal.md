@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d9034b3eade783ad2a93a96720a8df57.jpg'
 originalUrl: 'https://vocus.cc/article/69aa4faefd897800016bbeda'
 lang: id
-_srcHash: 6f4d356ff73058914e79b4017633c5db
+_srcHash: STALE_TITLE_FIX_2
 ---
 
 Kalau kamu lagi cari **promo hotel bintang lima di Bali**, akhir-akhir ini ada penawaran yang lumayan menggoda.

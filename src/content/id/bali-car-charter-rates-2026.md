@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 68f2ebbc05299567fc7da80ffc04ccab
+_srcHash: STALE_TITLE_FIX_2
 ---
 **先講結論**：2026 年 7 月 1 日起（適用該日期以後的行程），峇里島包車**原價不變**，改為每趟加收固定「油費補貼」——**半天 IDR 50,000、整天 IDR 100,000**，用意是讓短程/接送機客人不被連帶漲價影響，未來油價下跌也可彈性調降補貼。
 

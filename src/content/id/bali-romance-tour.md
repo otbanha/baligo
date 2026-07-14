@@ -36,7 +36,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 1bca1033b7e8018ab1b6d06887f56797
+_srcHash: STALE_TITLE_FIX_2
 ---
 
 ## [入住AYANA] 專屬兩人的海島私奔 ✨ 說走就走，璀璨啟航！

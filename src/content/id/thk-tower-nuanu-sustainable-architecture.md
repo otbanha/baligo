@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/67a2b251fd897800013ccad4'
 category:
   - 美食景點活動
 lang: id
-_srcHash: f72c5b36d4f81057db2f8f3868729dff
+_srcHash: STALE_TITLE_FIX_2
 ---
 
 ## **Menjelajahi THK Tower: Lahirnya Ikon Baru Bali**
