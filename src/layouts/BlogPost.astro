@@ -142,9 +142,10 @@ const getCatLabel = (cat: string) => {
 
 // 文章分類 → 討論版（community.gobaligo.id phpBB 版面 id）。
 // 「新聞存檔」沒有對應版面，不顯示討論區元件。
-// 「新手指南」暫缺：TopStrip.astro 導覽列已把 f=5 標成「換匯SIM卡」，
-// 跟新手指南對不上，待確認正確版面 id 後再補上。
+// 「新手指南」f=5：已與站方確認，TopStrip.astro 導覽列的「換匯SIM卡」
+// 只是舊/取錯的標籤名稱，f=5 版面內容確實是新手指南討論。
 const CATEGORY_FORUM_ID: Record<string, number> = {
+  '新手指南': 5,
   '住宿推薦': 7, '住宿推荐': 7,
   '峇里島分區攻略': 8, '峇里岛分区攻略': 8,
   '簽證通關': 3, '签证通关': 3,
