@@ -52,6 +52,30 @@ const ogImage = image && image.startsWith('http') ? image : SITE_OG_IMAGE;
 <!-- Global Metadata -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,maximum-scale=5" />
+
+<!--
+  Facebook / Instagram 內建瀏覽器（in-app WebView）已知問題：
+  有時會忽略上面的 viewport width=device-width，導致整頁版面用比實際螢幕
+  寬的「排版寬度」計算，畫面右側被裁掉（不是我們 CSS 的 bug，是該 WebView 的通病）。
+  偵測到 FB/IG in-app browser 時，透過 JS 重新套用 viewport meta 強制其重算版面寬度。
+-->
+<script is:inline>
+(function () {
+  if (!/FBAN|FBAV|FB_IAB|Instagram/i.test(navigator.userAgent || '')) return;
+  var vp = document.querySelector('meta[name="viewport"]');
+  if (!vp) return;
+  var fixed = 'width=device-width,initial-scale=1,viewport-fit=cover,maximum-scale=5';
+  function reapply() {
+    vp.setAttribute('content', 'width=device-width,initial-scale=1');
+    void document.documentElement.offsetHeight;
+    vp.setAttribute('content', fixed);
+  }
+  reapply();
+  document.addEventListener('DOMContentLoaded', reapply);
+  window.addEventListener('load', reapply);
+})();
+</script>
+
 <meta name="mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
