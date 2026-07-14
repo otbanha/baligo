@@ -9,6 +9,7 @@ import TopStrip from '../components/TopStrip.astro';
 import ChatBot from '../components/ChatBot.astro';
 import TripPlannerBanner from '../components/TripPlannerBanner.astro';
 import RelatedMapCard from '../components/RelatedMapCard.astro';
+import ForumLatestTopics from '../components/ForumLatestTopics.astro';
 import { getCollection } from 'astro:content';
 import { enhancedTitle, enhancedDescription, COMPANION_CAT } from '../utils/seo-keywords';
 import { getAvailableLangs } from '../utils/lang-availability';
@@ -139,6 +140,28 @@ const getCatLabel = (cat: string) => {
   return cat;
 };
 
+// 文章分類 → 討論版（community.gobaligo.id phpBB 版面 id）。
+// 「新聞存檔」沒有對應版面，不顯示討論區元件。
+// 「新手指南」f=5：已與站方確認，TopStrip.astro 導覽列的「換匯SIM卡」
+// 只是舊/取錯的標籤名稱，f=5 版面內容確實是新手指南討論。
+const CATEGORY_FORUM_ID: Record<string, number> = {
+  '新手指南': 5,
+  '住宿推薦': 7, '住宿推荐': 7,
+  '峇里島分區攻略': 8, '峇里岛分区攻略': 8,
+  '簽證通關': 3, '签证通关': 3,
+  '叫車包車': 4, '叫车包车': 4,
+  '家庭親子': 8, '家庭亲子': 8,
+  '遊記分享': 8, '游记分享': 8,
+  '美食景點活動': 8, '美食景点活动': 8,
+};
+const SCAM_FORUM_ID = 6;
+const SCAM_KEYWORDS = /scam|詐騙|诈骗/i;
+
+const primaryCategory = cats[0];
+const forumId = SCAM_KEYWORDS.test(`${title} ${body}`)
+  ? SCAM_FORUM_ID
+  : (primaryCategory ? CATEGORY_FORUM_ID[primaryCategory] : undefined);
+
 const blogBase = lang === 'en' ? '/en/blog' : lang === 'zh-cn' ? '/zh-cn/blog' : lang === 'zh-hk' ? '/zh-hk/blog' : lang === 'id' ? '/id/blog' : '/blog';
 const isZhTw = lang !== 'en' && lang !== 'zh-cn' && lang !== 'zh-hk' && lang !== 'id';
 const blogIndexUrl = isZhTw ? `${blogBase}/?lang=tw` : `${blogBase}/`;
@@ -192,6 +215,8 @@ const i18n = {
   tocExpand: lang === 'en' ? 'Expand' : lang === 'zh-cn' ? '展开' : lang === 'id' ? 'Buka' : '展開',
   relatedTitle: lang === 'en' ? '🗺️ You May Also Like' : lang === 'zh-cn' ? '🗺️ 你可能也想看' : lang === 'id' ? '🗺️ Mungkin Kamu Suka' : '🗺️ 你可能也想看',
   quickAnswer: lang === 'en' ? '💡 Quick Answer' : lang === 'id' ? '💡 Jawaban Singkat' : '💡 快速解答',
+  discussionTitle: lang === 'en' ? '💬 Join the Discussion' : lang === 'zh-cn' ? '💬 加入讨论' : lang === 'id' ? '💬 Ikut Diskusi' : '💬 加入討論',
+  discussionCta: lang === 'en' ? 'Discuss in Forum →' : lang === 'zh-cn' ? '前往讨论区留言 →' : lang === 'id' ? 'Diskusi di Forum →' : '前往討論區留言 →',
 };
 
 const categoryOrder = [
@@ -581,21 +606,17 @@ const spaFaqSchema = isSpaGuide ? {
           </div>
         </div>
 
-        <!-- 留言區 -->
-        <div class="comments-section" id="comments-section" data-pagefind-ignore data-slug={slug}>
-          <h2 class="comments-title">留言討論</h2>
-          <div class="comments-list" id="comments-list"></div>
-          <form class="comment-form" id="comment-form" novalidate>
-            <div class="comment-form-fields">
-              <input type="text"     id="comment-name"    placeholder="你的名字 *" maxlength="50" autocomplete="name" />
-              <textarea              id="comment-content" placeholder="留下你的想法⋯ *" maxlength="1000" rows="4"></textarea>
-            </div>
-            <div class="comment-form-footer">
-              <button type="submit" id="comment-submit">送出留言</button>
-              <span class="comment-msg" id="comment-msg"></span>
-            </div>
-          </form>
-        </div>
+        <!-- 討論區（取代自建留言區） -->
+        {forumId && (
+          <div class="comments-section" data-pagefind-ignore>
+            <ForumLatestTopics
+              lang={lang ?? 'zh-tw'}
+              forumId={forumId}
+              title={i18n.discussionTitle}
+              cta={i18n.discussionCta}
+            />
+          </div>
+        )}
 
         <!-- 文章底部推薦 -->
         {randomPosts.length > 0 && (
@@ -692,99 +713,6 @@ window.addEventListener('load', () => {
 
   <ChatBot lang={lang} />
   <Footer lang={lang} />
-
-  <script>
-  (function() {
-    var section = document.getElementById('comments-section');
-    if (!section) return;
-    var slug    = section.dataset.slug;
-    var list    = document.getElementById('comments-list');
-    var form    = document.getElementById('comment-form');
-    var nameEl  = document.getElementById('comment-name');
-    var bodyEl  = document.getElementById('comment-content');
-    var submitEl= document.getElementById('comment-submit');
-    var msgEl   = document.getElementById('comment-msg');
-
-    function formatDate(ts) {
-      return new Date(ts).toLocaleDateString('zh-TW', { year: 'numeric', month: 'short', day: 'numeric' });
-    }
-
-    function renderComments(items) {
-      if (!items.length) {
-        list.innerHTML = '<p class="comments-empty">還沒有留言，來第一個留言吧！</p>';
-        return;
-      }
-      list.innerHTML = items.map(function(c) {
-        return '<div class="comment-item">' +
-          '<div class="comment-header">' +
-            '<span class="comment-name">' + c.name + '</span>' +
-            '<span class="comment-date">' + formatDate(c.created_at) + '</span>' +
-          '</div>' +
-          '<div class="comment-body">' + c.content + '</div>' +
-        '</div>';
-      }).join('');
-    }
-
-    function setMsg(text, type) {
-      msgEl.textContent = text;
-      msgEl.className = 'comment-msg ' + type;
-    }
-
-    // Load comments — 延遲到使用者實際捲動到留言區才發送請求，
-    // 跳過大量未讀到底部就離開的訪客的 Worker 呼叫
-    function loadComments() {
-      list.innerHTML = '<p class="comments-empty">載入中⋯</p>';
-      fetch('/api/comments?slug=' + encodeURIComponent(slug))
-        .then(function(r) { return r.json(); })
-        .then(renderComments)
-        .catch(function() { list.innerHTML = '<p class="comments-empty">載入失敗</p>'; });
-    }
-
-    if ('IntersectionObserver' in window) {
-      var observer = new IntersectionObserver(function(entries) {
-        if (entries[0].isIntersecting) {
-          observer.disconnect();
-          loadComments();
-        }
-      }, { rootMargin: '200px' });
-      observer.observe(section);
-    } else {
-      loadComments();
-    }
-
-    // Submit
-    form.addEventListener('submit', function(e) {
-      e.preventDefault();
-      var name    = nameEl.value.trim();
-      var content = bodyEl.value.trim();
-      if (name.length < 2 || content.length < 5) { setMsg('請填寫至少 2 字的姓名與 5 字的留言內容', 'err'); return; }
-
-      submitEl.disabled = true;
-      setMsg('', '');
-
-      fetch('/api/comments', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ slug: slug, name: name, content: content }),
-      })
-      .then(function(r) { return r.json(); })
-      .then(function(data) {
-        if (data.ok) {
-          nameEl.value = '';
-          bodyEl.value = '';
-          setMsg('留言已送出！', 'ok');
-          return fetch('/api/comments?slug=' + encodeURIComponent(slug))
-            .then(function(r) { return r.json(); })
-            .then(renderComments);
-        } else {
-          setMsg(data.error || '送出失敗', 'err');
-        }
-      })
-      .catch(function() { setMsg('網路錯誤，請稍後再試', 'err'); })
-      .finally(function() { submitEl.disabled = false; });
-    });
-  })();
-  </script>
 
 </body>
 </html>
@@ -1449,67 +1377,12 @@ hr { margin: 1.2em 0 1.8em; }
   margin: 1.5em auto;
 }
 
-/* ── 自建留言區 ────────────────────────────────────────────── */
+/* ── 文章底部討論區（ForumLatestTopics 元件） ─────────────── */
 .comments-section {
   margin-top: 3em;
   padding-top: 2em;
   border-top: 1px solid var(--border, #e5e7eb);
 }
-.comments-title {
-  font-size: 1.1rem;
-  font-weight: 700;
-  margin-bottom: 1.2em;
-  color: var(--text, #1a1a1a);
-}
-.comments-list { display: flex; flex-direction: column; gap: 1em; margin-bottom: 2em; }
-.comment-item {
-  background: #faf8f4;
-  border: 1px solid #e8e0d0;
-  border-radius: 10px;
-  padding: 0.9em 1.1em;
-}
-.comment-header {
-  display: flex; align-items: center; gap: 0.6em; margin-bottom: 0.4em;
-}
-.comment-name   { font-weight: 700; font-size: 0.88rem; color: var(--ocean, #5D4037); }
-.comment-date   { font-size: 0.75rem; color: #999; }
-.comment-body   { font-size: 0.88rem; line-height: 1.65; color: #333; white-space: pre-wrap; }
-.comments-empty { font-size: 0.88rem; color: #aaa; text-align: center; padding: 1.5em 0; }
-
-.comment-form { margin-top: 1em; }
-.comment-form-fields { display: flex; flex-direction: column; gap: 0.6em; }
-.comment-form-fields input,
-.comment-form-fields textarea {
-  width: 100%;
-  border: 1px solid #d4c9b5;
-  border-radius: 8px;
-  padding: 0.6em 0.9em;
-  font-size: 0.88rem;
-  font-family: inherit;
-  background: #fff;
-  color: var(--text, #222);
-  outline: none;
-  resize: vertical;
-  transition: border-color 0.15s;
-}
-.comment-form-fields input:focus,
-.comment-form-fields textarea:focus { border-color: var(--gold, #C5A059); }
-.comment-form-footer {
-  display: flex; align-items: center; gap: 1em; margin-top: 0.7em; flex-wrap: wrap;
-}
-#comment-submit {
-  background: var(--gold, #C5A059);
-  color: var(--ocean, #5D4037);
-  border: none; border-radius: 8px;
-  padding: 0.55em 1.4em;
-  font-size: 0.9rem; font-weight: 700; font-family: inherit;
-  cursor: pointer; transition: background 0.15s;
-}
-#comment-submit:hover   { background: #d4b06a; }
-#comment-submit:disabled { opacity: 0.5; cursor: not-allowed; }
-.comment-msg { font-size: 0.82rem; }
-.comment-msg.ok  { color: #2f855a; }
-.comment-msg.err { color: #c53030; }
 
 /* 推薦文章 */
 .related-posts {

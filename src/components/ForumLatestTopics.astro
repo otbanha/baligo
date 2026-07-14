@@ -1,5 +1,7 @@
 ---
-const { lang = 'zh-tw' } = Astro.props;
+// forumId: scope the widget to a single phpBB board (e.g. per blog-category
+// discussion board) instead of the site-wide "latest posts" feed.
+const { lang = 'zh-tw', forumId, title, cta } = Astro.props;
 
 const i18n: Record<string, { title: string; more: string; loading: string }> = {
   'zh-tw': { title: '峇里島討論區', more: '前往討論區 →', loading: '載入中⋯' },
@@ -9,25 +11,31 @@ const i18n: Record<string, { title: string; more: string; loading: string }> = {
   'id':    { title: 'Forum Komunitas', more: 'Kunjungi forum →', loading: 'Memuat⋯' },
 };
 const t = i18n[lang] ?? i18n['zh-tw'];
+const widgetTitle = title || t.title;
+const ctaLabel = cta || t.more;
+const forumUrl = forumId
+  ? `https://community.gobaligo.id/viewforum.php?f=${forumId}`
+  : 'https://community.gobaligo.id/';
+const apiUrl = forumId ? `/api/forum-latest?f=${forumId}` : '/api/forum-latest';
 ---
 
 <div class="flt-widget">
   <div class="flt-header">
-    <span class="flt-title">{t.title}</span>
-    <a href="https://community.gobaligo.id/" class="flt-more" target="_blank" rel="noopener">{t.more}</a>
+    <span class="flt-title">{widgetTitle}</span>
+    <a href={forumUrl} class="flt-more" target="_blank" rel="noopener">{ctaLabel}</a>
   </div>
   <ul id="flt-list" class="flt-list">
     <li class="flt-loading">{t.loading}</li>
   </ul>
 </div>
 
-<script>
+<script define:vars={{ apiUrl }}>
 (async () => {
   const list = document.getElementById('flt-list');
   if (!list) return;
 
   try {
-    const res = await fetch('/api/forum-latest');
+    const res = await fetch(apiUrl);
     const data = await res.json();
     const topics = data.topics || [];
 

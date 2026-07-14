@@ -21,9 +21,15 @@ function toTopicTitle(rawTitle) {
   return title.replace(/^Re:\s*/, '').trim();
 }
 
-export async function onRequestGet() {
+export async function onRequestGet({ request }) {
   try {
-    const res = await fetch(`${FORUM_BASE}app.php/feed`, {
+    // ?f=<forum_id> scopes the feed to a single board (e.g. per blog-category
+    // discussion board) instead of the site-wide "all posts" feed.
+    const forumId = new URL(request.url).searchParams.get('f');
+    const feedPath = forumId ? `app.php/feed/forum/${encodeURIComponent(forumId)}` : 'app.php/feed';
+    const limit = forumId ? 5 : 6;
+
+    const res = await fetch(`${FORUM_BASE}${feedPath}`, {
       headers: { 'User-Agent': 'Mozilla/5.0 (compatible; GobaligoForumWidget/1.0)' },
       cf: { cacheTtl: 0, cacheEverything: false },
     });
@@ -38,7 +44,7 @@ export async function onRequestGet() {
     // would leave lastIndex mid-feed after the early break and make the next
     // request parse only the tail — returning fewer than 6 topics.
     for (const match of xml.matchAll(ENTRY_RE)) {
-      if (topics.length >= 6) break;
+      if (topics.length >= limit) break;
       const url = match[1];
       const title = toTopicTitle(match[2]);
       if (seenTitles.has(title)) continue;
