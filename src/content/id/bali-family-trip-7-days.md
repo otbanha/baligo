@@ -20,7 +20,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: id
-_srcHash: PENDING_RETRY_5e5de235c877eea9dec78f43e00f2e40
+_srcHash: STALE_TITLE_FIX_3
 ---
 Cerita perjalanan ini dibagikan oleh teman grup [Serena](https://www.facebook.com/100004740466944/), yang mendokumentasikan liburan keluarga ke Bali bersama dua anak kecil — total 5 dewasa dan 2 anak. Selama perjalanan ini, mereka menghabiskan tujuh hari yang menyenangkan bersama pemandu sekaligus sopir, Xiao Zhong (Pacung Bali). Lewat itinerary yang detail dan rekomendasi tempat wisata, mereka menjelajahi berbagai sudut Bali, mencicipi kuliner lokal, menikmati beragam aktivitas air, dan mengumpulkan banyak kenangan berharga serta foto-foto cantik.
 

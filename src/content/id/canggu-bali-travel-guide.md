@@ -24,7 +24,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/aglSSIW2vZg'
 lang: id
-_srcHash: 2bd3291113c027179dd991a107f765dc
+_srcHash: STALE_TITLE_FIX_3
 ---
 **Kesimpulan dulu**: Kunci orientasi di Canggu adalah jalan utama **Jl. Raya Canggu** — jalur ini melintang di seluruh area, dan tiga jalan utama menuju pantai (Jalan Pantai Berawa, Jalan Pantai Batu Bolong, Jalan Pantai Batumejan) semuanya bercabang dari sini. Kalau udah paham struktur ini, dijamin nggak bakal nyasar di Canggu.
 

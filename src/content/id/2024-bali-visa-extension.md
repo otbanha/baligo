@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/65c039affd89780001e5a3db'
 category:
   - 簽證通關
 lang: id
-_srcHash: 058d18362882c91190e6777669b6c876
+_srcHash: STALE_TITLE_FIX_3
 ---
 **Kesimpulan dulu**: Mulai 2024 bisa ajukan perpanjangan visa online, tapi berdasarkan **aturan terbaru 29 Mei 2025, sekarang balik lagi harus ke kantor imigrasi langsung buat ambil sidik jari** biar proses perpanjangan selesai — bukan full online. Sebaiknya cek prosedur terbaru sebelum berangkat, biar nggak salah paham karena info lama yang ngira semuanya bisa dari jauh.
 

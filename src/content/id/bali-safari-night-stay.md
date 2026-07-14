@@ -24,7 +24,7 @@ category:
   - 家庭親子
   - 美食景點活動
 lang: id
-_srcHash: PENDING_RETRY_b4b1b00eca620753e5bfa5bedf0b6eb8
+_srcHash: STALE_TITLE_FIX_3
 ---
 **Kesimpulan**: Untuk pengalaman menginap di Bali Safari, paling recommended pilih **tipe kamar dekat area feeding hewan** (misalnya KIFARA Family Room, 2 kamar tidur 2 kamar mandi plus ruang tamu) — yang penting bukan balkon kamarnya bisa lihat hewan langsung atau enggak, tapi jarak ke area feeding di pinggir kolam renang cuma **60 detik**. Hotel kasih wortel gratis buat tamu yang mau kasih makan gajah, zebra, dan hewan lainnya dari dekat. Nah, ini dia inti dari pengalaman menginapnya.
 

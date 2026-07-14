@@ -57,17 +57,18 @@ const BLOCK_LANGS = ['zh-cn', 'zh-hk', 'en', 'id'];
 const NON_CJK_LANGS = new Set(['en', 'id']);
 const CJK_RE = /[一-鿿]/g;
 
-// 判斷翻譯結果是否明顯翻譯失敗（殘留過多中文字）。
-// 短文字（含少量專有名詞、品牌名）容許少量中文字，避免誤殺；
-// 用「中文字元佔比」而非「有無中文」來判斷，因為地名等專有名詞偶爾會保留原文。
+// 判斷翻譯結果是否明顯翻譯失敗（殘留中文字）。
+// title/description 等短文字（<=100 字）要求完全乾淨——曾發生像
+// 「2024印尼/Bali Online Visa...」這種只殘留 1-2 個中文字的半殘留翻譯，
+// 用「佔比」判斷會漏抓，所以短文字直接零容忍。
+// 長內文段落用「中文字元佔比」判斷，避免極長段落中偶發的單一雜訊字元被誤殺。
 function isUntranslatedResidue(text, lang) {
   if (!NON_CJK_LANGS.has(lang)) return false;
   if (typeof text !== 'string' || !text.trim()) return false;
   const cjkCount = (text.match(CJK_RE) || []).length;
   if (cjkCount === 0) return false;
-  // 短字串（如少量專有名詞）中文字元數 <=2 視為可接受
-  if (text.length <= 20 && cjkCount <= 2) return false;
-  return cjkCount / text.length > 0.15;
+  if (text.length <= 100) return true;
+  return cjkCount / text.length > 0.02;
 }
 
 const SYSTEM_PROMPTS = {

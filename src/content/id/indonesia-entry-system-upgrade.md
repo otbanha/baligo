@@ -18,7 +18,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: id
-_srcHash: PENDING_RETRY_d13c7060642d722bc4b674218d8ff70a
+_srcHash: STALE_TITLE_FIX_3
 ---
 **Kesimpulan dulu ya**：「All Indonesia」adalah sistem baru yang menggabungkan deklarasi bea cukai + deklarasi kesehatan jadi satu platform. **Diisi online maksimal 3 hari sebelum masuk Indonesia, rata-rata cuma butuh sekitar 2,5 menit** — jauh lebih cepat dibanding dulu yang harus isi banyak formulir terpisah. Sistemnya ada antarmuka bahasa Mandarin (sederhana). Catatan ini dari masa uji coba di Bandara Jakarta bulan Juli 2025; sistemnya **sudah resmi dipakai nasional mulai 18 Agustus 2025**, dan sekarang Bandara Ngurah Rai Bali juga udah pakai. Untuk prosedur terbaru, cek [panduan lengkap kartu kedatangan All Indonesia versi 2026](/id/blog/bali-all-indonesia-arrival-guide/).
 

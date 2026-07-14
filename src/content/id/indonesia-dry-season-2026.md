@@ -28,7 +28,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: id
-_srcHash: PENDING_RETRY_661d7897ef592eb07befca4e8cda2374
+_srcHash: STALE_TITLE_FIX_3
 ---
 **Kesimpulan dulu**：BMKG memprediksi musim hujan 2026 **berakhir lebih awal**, mulai April masuk musim kemarau emas — di Pulau Jawa **tingkat keberhasilan pendakian Gunung Bromo naik drastis**, di Bali **visibilitas air laut meningkat, cocok untuk diving dan surfing**. Kalau mau rencanain **trip lintas pulau**, ini waktu terbaik: Jawa buat budaya dan gunung (Candi Borobudur, Gunung Bromo), Bali buat santai (sawah terasering Ubud, resort pantai selatan).
 
