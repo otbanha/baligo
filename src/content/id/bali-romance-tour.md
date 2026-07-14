@@ -1,14 +1,13 @@
 ---
-title: ⭐⭐ 【入住AYANA - 專屬兩人的海島私奔】Bali × 佩妮達島浪漫輕奢6日遊｜AYANA渡假村、私人泳池Villa、佩妮達島雙線秘境⭐⭐
+title: ⭐⭐ 【入住AYANA - 專屬兩人的海島私奔】峇里島 × 佩妮達島浪漫輕奢6日遊｜AYANA渡假村、私人泳池Villa、佩妮達島雙線秘境⭐⭐
 slug: bali-romance-tour
 description: >-
-  Mau liburan berdua ke Bali tanpa ikut rombongan? Trip Bali × Nusa Penida 6
-  hari romantis & mewah ini cocok banget buat kamu. Berdua aja udah bisa jalan,
-  berangkat kapan aja. Menginap di AYANA Resort, Villa dengan kolam renang
-  pribadi, dan akomodasi dengan pemandangan laut di Nusa Penida. Termasuk SPA
-  dengan view laut, Rock Bar, dua jalur eksklusif Nusa Penida, olahraga air, BBQ
-  di Villa. Setelah pendaftaran, kamu juga dapat gratis Rp150.000 untuk pajak
-  wisata Bali.
+  Mau liburan berdua ke Bali tanpa ikut rombongan? Trip romantis 6 hari ke Bali
+  × Nusa Penida ini khusus untuk kamu berdua, bisa berangkat kapan aja, nginep
+  di AYANA Resort, Villa dengan kolam renang pribadi, dan akomodasi dengan view
+  laut di Nusa Penida. Termasuk SPA dengan pemandangan laut, Rock Bar,
+  eksplorasi hidden gem di Nusa Penida, aktivitas air, BBQ di Villa, plus bonus
+  Rp150.000 untuk pajak turis Bali setelah pendaftaran.
 pubDate: 2026-07-08T00:00:00.000Z
 updatedDate: 2026-07-11T00:00:00.000Z
 pubHour: 12
@@ -37,22 +36,22 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: STALE_TITLE_FIX
+_srcHash: 1bca1033b7e8018ab1b6d06887f56797
 ---
 
-## [Menginap di AYANA] Liburan eksklusif berdua di pulau ✨ Berangkat kapan aja, siap-siap berlayar!
+## [入住AYANA] 專屬兩人的海島私奔 ✨ 說走就走，璀璨啟航！
 
-Mau liburan ke Bali tanpa harus ngikutin orang asing atau buru-buru ikut rombongan?
+Pengin liburan ke Bali tanpa harus nyatuin jadwal sama orang asing atau ngejar rombongan?
 
-Trip **「Bali × Nusa Penida 6 Hari Romantis & Mewah」** ini khusus dibuat buat pasangan, suami-istri, dan yang lagi bulan madu yang suka traveling santai.
+Trip **「Bali × Nusa Penida Romantic Light Luxury 6-Day Tour」** ini khusus buat pasangan, suami-istri, atau yang lagi bulan madu yang suka traveling santai.
 
-Dengan sistem **berdua aja udah bisa jalan, berangkat setiap hari**, kamu nggak perlu nunggu grup penuh. Dapat **mobil pribadi dan guide Mandarin**, jadi perjalanan bisa sesuai ritme kalian berdua. Waktu benar-benar milik berdua, nikmatin liburan pulau yang privat, mewah, tapi tetap santai.
+Dengan konsep **berdua aja, berangkat kapan aja**, kamu nggak perlu nunggu grup. Dapat **mobil pribadi dan guide Mandarin**, jadi perjalanan bisa sesuai ritme kalian. Waktu bener-bener buat berdua, nikmatin liburan pulau yang privat, mewah tapi santai.
 
 ***
 
-# Highlight Perjalanan
+# Highlight Trip
 
-## 🏨 Tiga Pengalaman Menginap yang Impian
+## 🏨 Tiga Pengalaman Menginap yang Dreamy
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783386145630-images.jpeg)
 
@@ -64,17 +63,17 @@ Dengan sistem **berdua aja udah bisa jalan, berangkat setiap hari**, kamu nggak 
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783386147228-449406b3.avif)
 
-Perjalanan ini pilihkan tiga jenis akomodasi berbeda, dari resort tepi pantai sampai Villa di tengah hutan.
+Trip ini pilihkan tiga tipe akomodasi berbeda, dari resort tepi pantai sampai Villa di tengah hutan, semua bisa kamu coba.
 
 - Menginap di **AYANA Resort** yang terkenal di dunia, nikmati pemandangan Samudra Hindia, pantai pribadi, 14 kolam renang, dan suasana liburan yang super santai.
-- Menginap di akomodasi dengan pemandangan laut di Pulau Penida, sambut pagi dan malam dengan suara ombak.
+- Menginap di akomodasi dengan pemandangan laut di Pulau Nusa Penida, temani pagi dan malam dengan suara ombak.
 - Menginap di Villa dengan kolam renang pribadi di Ubud, nikmati ruang pribadi dan momen liburan romantis.
 
-Yang paling ditunggu-tunggu adalah **BBQ malam spesial di tepi kolam renang Villa dengan koki pribadi**, tanpa perlu pergi ke restoran, kamu bisa menikmati BBQ lezat di samping kolam renang sendiri, menciptakan malam romantis yang hanya milik berdua.
+Yang paling ditunggu-tunggu adalah **BBQ malam eksklusif di tepi kolam renang Villa dengan koki pribadi**, tanpa perlu pergi ke restoran, kamu bisa menikmati BBQ lezat di samping kolam renang sendiri, menciptakan malam romantis yang hanya milik berdua.
 
 ***
 
-## 🌊 Dua Jalur Rahasia di Pulau Penida Sekaligus
+## 🌊 Dua Jalur Rahasia di Nusa Penida Sekaligus
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783386294363-3957308288.jpeg)
 
@@ -92,17 +91,17 @@ Yang paling ditunggu-tunggu adalah **BBQ malam spesial di tepi kolam renang Vill
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783386297443-nusapenidatreehouserumahpohonwr1-36-1024x576.jpg)
 
-Perjalanan ini akan membawamu ke pulau terpopuler di Bali—Pulau Penida, dengan rangkaian lengkap spot-spot terbaik di jalur barat dan timur, termasuk:
+Perjalanan ini akan membawa kamu ke pulau terpopuler di Bali—Nusa Penida, dengan mengunjungi spot-spot terbaik di jalur barat dan timur, termasuk:
 
 - Pantai Kelingking (Kelingking Beach)
-- Angel Billabong
-- Broken Beach
-- Bukit Seribu Pulau
+- Kolam Malaikat (Angel Billabong)
+- Pantai Broken (Broken Beach)
+- Bukit Pemandangan Seribu Pulau
 - Rumah Pohon Hits
-- Diamond Beach
-- Atuh Beach
+- Pantai Diamond (Diamond Beach)
+- Pantai Atuh (Atuh Beach)
 
-Mulai dari tebing dramatis, air laut biru jernih, hingga spot foto hits, semuanya bisa kamu kumpulkan dalam satu perjalanan.
+Baik itu tebing megah, air laut biru jernih, atau spot foto kekinian, semuanya bisa kamu kumpulkan dalam satu perjalanan.
 
 ***
 
@@ -114,7 +113,7 @@ Mulai dari tebing dramatis, air laut biru jernih, hingga spot foto hits, semuany
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783386382982-b373fad4-2f7c-4dd2-b74c-0bc9747ac49d-1670986754171-191542267a44252fd39d7e5c135f80c1.webp)
 
-Berbeda dengan tur pulau biasa, perjalanan ini juga upgrade dengan pengalaman club platform laut all-inclusive.
+Berbeda dengan tur pulau biasa, perjalanan ini juga upgrade dengan pengalaman club platform laut yang seru.
 
 Termasuk:
 
@@ -122,10 +121,10 @@ Termasuk:
 - Snorkeling
 - Banana boat
 - Kayak
-- Seluncuran air
+- Seluncur air
 - Kolam renang infinity
 
-Aktivitas bisa dicoba berkali-kali tanpa batas, dan sudah termasuk makan siang. Kalau cuaca mendukung, ada juga kesempatan berenang bareng penyu dan ikan pari manta — dijamin jadi kenangan yang nggak terlupakan.
+Semua aktivitas bisa dicoba berkali-kali, dan sudah termasuk makan siang. Kalau cuaca mendukung, kamu juga bisa berenang bareng penyu dan ikan pari manta — dijamin jadi pengalaman yang nggak terlupakan.
 
 ***
 
@@ -141,12 +140,12 @@ Aktivitas bisa dicoba berkali-kali tanpa batas, dan sudah termasuk makan siang. 
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783386496754-141701330_3800107773414092_1205478592992035228_n.jpg)
 
-Selain tempat-tempat hidden gem, kami juga menyiapkan berbagai paket liburan paling ikonik di Bali, termasuk:
+Selain tempat-tempat tersembunyi yang indah, kami juga menyiapkan berbagai paket liburan paling ikonik di Bali, termasuk:
 
 - SPA dengan pemandangan laut
-- Sunset vibes di AYANA Rock Bar
+- Sunset chilling di AYANA Rock Bar
 - Makan malam seafood di Pantai Jimbaran
-- Nasi babi guling favorit lokal
+- Nasi babi guling favorit warga lokal
 
 Dari pagi sampai malam, kamu bakal merasakan pesona santai khas Bali yang unik.
 
@@ -164,30 +163,30 @@ Dari pagi sampai malam, kamu bakal merasakan pesona santai khas Bali yang unik.
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783387118227-ah1.jpg)
 
-Perjalanan juga akan masuk ke pegunungan tengah Bali, dengan agenda:
+Perjalanan ini juga akan menyusuri pegunungan di tengah Bali, dengan agenda:
 
 - Restoran dengan pemandangan Gunung Batur
-- Pura Tirta Empul (Pura Suci Air)
+- Pura Tirta Empul
 - Alas Harum Rice Terrace Club
-- Cretya Ubud Restoran dengan pemandangan kolam renang sawah terasering
+- Cretya Ubud Restoran dengan kolam renang sawah terasering
 
-Nikmati pemandangan gunung berapi yang megah, sawah terasering hijau, dan hutan yang indah, rasakan sisi Bali yang benar-benar berbeda.
+Nikmati pemandangan gunung berapi yang megah, sawah hijau, dan hutan yang asri — rasakan sisi lain Bali yang berbeda banget.
 
 ***
 
 ## 💆 Relaksasi Mendalam
 
-Perjalanan ini menyediakan beberapa waktu relaksasi, termasuk spa dengan pemandangan laut dan spa aromaterapi Villa Aroma.
+Perjalanan ini juga menyediakan waktu santai beberapa kali, termasuk spa dengan pemandangan laut dan spa aromaterapi Villa Aroma.
 
-Di bawah perawatan terapis profesional, biarkan tubuh dan pikiran benar-benar rileks, tinggalkan semua kelelahan sehari-hari di Bali.
+Di tangan terapis profesional, biarkan tubuh dan pikiran benar-benar rileks, tinggalkan semua penat di Bali.
 
 ***
 
-## 📸 Kumpulkan Spot Instagramable Sekaligus
+## 📸 Spot Instagramable Sekaligus
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783387464826-tanah_barak1.jpg)
 
-Selain tempat wisata terkenal dunia, perjalanan ini juga menyertakan banyak spot foto instagramable yang populer, termasuk jalan tebing, klub kolam renang air terjun, kafe dengan pemandangan laut, dan lainnya, sehingga setiap pemberhentian bisa menghasilkan foto liburan yang bikin iri.
+Selain tempat wisata kelas dunia, kami juga mengunjungi banyak spot foto hits, seperti tebing jalan raya, klub kolam renang air terjun, kafe dengan pemandangan laut, dan lainnya — biar setiap momen jadi foto liburan yang bikin iri.
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783387464220-omma1.jpeg)
 
@@ -195,27 +194,27 @@ Selain tempat wisata terkenal dunia, perjalanan ini juga menyertakan banyak spot
 
 # Perjalanan Ini Cocok Buat Siapa?
 
-✔ Liburan Pasangan
+✔ Liburan pasangan
 
-✔ Bulan Madu
+✔ Bulan madu
 
-✔ Anniversary Pernikahan
+✔ Anniversary pernikahan
 
-✔ Quality Time Suami-Istri
+✔ Liburan suami-istri
 
-✔ Traveler yang suka liburan berkualitas, nggak mau ikut tur rombongan
+✔ Traveler yang suka liburan berkualitas dan nggak mau ikut tur
 
-Kalau kamu pengin jalan-jalan dengan ritme lebih santai, nggak perlu buru-buru tiap hari, tapi tetap bisa nikmatin pemandangan laut, kuliner enak, SPA, pulau-pulau kecil, Villa, gunung berapi, dan sawah terasering dalam satu trip — perjalanan ini wajib banget kamu pertimbangkan.
+Kalau kamu pengin jalan-jalan dengan ritme yang lebih santai, nggak perlu tiap hari ngejar itinerary, tapi tetap bisa nikmatin pemandangan laut, kuliner enak, SPA, pulau-pulau kecil, Villa, gunung berapi, dan sawah terasering dalam satu perjalanan — trip ini layak banget kamu pertimbangkan.
 
 ***
 
-## Rencana Perjalanan Referensi
+## Referensi Itinerary
 
 - Check-in di Ayana
 
 - Antar jemput mobil pribadi sepanjang trip
 
-- Dua kali pengalaman SPA relaksasi
+- Dua sesi SPA relaksasi
 
 - AYANA Rock Bar
 
@@ -225,22 +224,22 @@ Kalau kamu pengin jalan-jalan dengan ritme lebih santai, nggak perlu buru-buru t
 
 - Eksplorasi hidden gem West Line Nusa Penida
 
-- Eksplorasi pemandangan keren East Line Nusa Penida
+- Eksplorasi pemandangan spektakuler East Line Nusa Penida
 
 - Main air di beach club sepuasnya
 
-- Villa private pool di Ubud
+- Villa kolam renang pribadi di Ubud
 
-🎉 **Setiap traveler dapat voucher Rp.150.000 untuk pajak turis Bali**, jadi kamu nggak perlu repot bayar sendiri pas sampai di Bali — langsung santai menikmati liburan.
+🎉 **Setiap wisatawan akan mendapatkan voucher pajak wisata Bali senilai Rp.150.000** — jadi begitu tiba di Bali, kamu nggak perlu repot bayar sendiri, langsung bisa santai menikmati liburan.
 
-> **Promo ini hanya berlaku untuk traveler yang sudah mendaftar dan deal. Detail cara ikutan, tanya CS aja ya.**
+> **Promo ini hanya berlaku untuk wisatawan yang sudah mendaftar dan melakukan transaksi. Untuk detail cara ikut serta, silakan hubungi customer service.**
 
-## Info Pemesanan
+## Ketentuan Pemesanan
 
-- Paket ini belum termasuk tiket pesawat internasional. Kamu bisa beli sendiri, atau minta bantuan CS buat bookingin gratis.
+- Paket ini tidak termasuk tiket pesawat internasional. Kamu bisa beli sendiri, atau minta bantuan CS kami untuk memesankannya secara gratis.
 - Harga di atas adalah harga cash promo untuk 2 orang.
-- Kalau jumlah orang atau lama menginap beda, atau pas libur nasional / hari besar, minta quote ulang ke CS ya.
-- Ini paket promo spesial — setelah booking, akomodasi nggak bisa dibatalkan atau refund. Tapi untuk sebagian aktivitas yang belum dipakai, bisa di-refund sesuai aturan.
+- Kalau jumlah orang atau lama menginap berbeda, atau pas hari libur nasional / hari besar tertentu, silakan hubungi CS untuk harga khusus.
+- Ini paket promo spesial — setelah dipesan, akomodasi nggak bisa dibatalkan atau direfund. Tapi untuk sebagian aktivitas yang nggak dipakai, bisa di-refund sesuai ketentuan.
 
 ***
 
