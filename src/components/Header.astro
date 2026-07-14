@@ -312,8 +312,9 @@ nav {
 .logo-line2 { display: none; }
 
 .search-right {
-  width: 360px;
-  flex-shrink: 0;
+  flex: 1 1 auto;
+  min-width: 0;
+  max-width: 360px;
 }
 
 /* 搜尋觸發按鈕：外觀與舊 input 完全相同 */
@@ -330,6 +331,9 @@ button.search-input {
   box-sizing: border-box;
   text-align: left;
   cursor: pointer;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
   transition: background 0.2s, border-color 0.2s;
 }
 button.search-input:hover,
@@ -491,11 +495,11 @@ button.search-input:focus {
 
 /* ── 平板直立（768px 以下）：縮短搜尋框，確保語系切換顯示 ── */
 @media (max-width: 900px) {
-  .search-right { width: 180px; }
+  .search-right { max-width: 180px; }
 }
 
 @media (max-width: 720px) {
-  .search-right { width: 150px; }
+  .search-right { max-width: 150px; }
   :global(.lang-globe) { display: none; }
 }
 
@@ -505,7 +509,7 @@ button.search-input:focus {
   .logo-desktop { display: none; }
   .logo-line1 { display: block; }
   .logo-line2 { display: block; font-size: 0.72em; opacity: 0.85; }
-  .search-right { width: 120px; flex-shrink: 0; }
+  .search-right { max-width: 120px; }
   .search-modal { padding-top: 20px; }
   :global(.lang-switcher) { flex-shrink: 0; }
   :global(.lang-current) { padding: 0.35em 0.6em; font-size: 0.82rem; min-height: 36px; display: flex; align-items: center; }
