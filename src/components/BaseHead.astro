@@ -133,16 +133,7 @@ const ogImage = image && image.startsWith('http') ? image : SITE_OG_IMAGE;
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={ogImage} />
 
-<!--
-  Travelpayout Drive — 暫時停用中，排查手機版 overflow 問題。
-  這段是從舊 WordPress 版本原封不動搬過來的（那些 nowprocket / data-noptimize /
-  data-cfasync / data-wpfc-render / seraph-accel-crit 屬性都是 WP 快取外掛
-  在認的標記，這個 Astro 站完全用不到，是搬站時留下的殘留物）。
-  這個第三方 script 載入時機、內容我們無法控制，且無法在目前的稽核環境測試，
-  是目前排查 overflow 問題時唯一「完全沒驗證過」的一段。先停用測試是否為主因。
-  確認排除後可以刪除這段註解恢復，或視測試結果決定是否移除。
--->
-<!--
+<!-- Travelpayout Drive -->
 <script nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1">
   (function () {
     var script = document.createElement("script");
@@ -151,4 +142,3 @@ const ogImage = image && image.startsWith('http') ? image : SITE_OG_IMAGE;
     document.head.appendChild(script);
   })();
 </script>
--->
