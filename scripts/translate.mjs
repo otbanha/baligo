@@ -201,7 +201,11 @@ function segmentBody(body) {
   });
 
   // 把 {{block:xxx}} 也換掉
-  processed = processed.replace(/\{\{block:[^}]+\}\}/g, (match) => {
+  // 部分 .mdx 檔案為了避免 MDX 把 {{ }} 當成 JSX expression 解析而寫成
+  // \{\{block:xxx\}\} 轉義形式，這裡也要能辨識，否則翻譯 API 會把裡面的
+  // 中文（如「戶外」）當成一般文字翻譯掉，變成 {{block:Outdoor}} 這種
+  // 不存在的區塊名稱，導致 astro build 直接壞掉。
+  processed = processed.replace(/\\?\{\\?\{block:[^}\\]+\\?\}\\?\}/g, (match) => {
     const key = `\x00BLOCK${pidx++}\x00`;
     preserved.set(key, match);
     return key;
