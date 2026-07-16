@@ -20,7 +20,7 @@ if (existsSync(MAP_LASTMOD_FILE)) {
   try { mapLastmod = JSON.parse(readFileSync(MAP_LASTMOD_FILE, 'utf-8')); } catch {}
 }
 
-// 從 blog content 取得 lastmod（優先 update，fallback pubDate）
+// 從 blog content 取得 lastmod（優先 updatedDate，其次舊版 update 字串，最後 fallback pubDate）
 function getBlogLastmod(slug) {
   const dirs = ['blog', 'en', 'zh-cn', 'zh-hk', 'id'];
   for (const dir of dirs) {
@@ -28,6 +28,7 @@ function getBlogLastmod(slug) {
     if (existsSync(p)) {
       try {
         const { data } = matter(readFileSync(p, 'utf-8'));
+        if (data.updatedDate) return new Date(data.updatedDate).toISOString().split('T')[0];
         if (data.update) return data.update.replace(/\//g, '-');
         if (data.pubDate) return new Date(data.pubDate).toISOString().split('T')[0];
       } catch {}
@@ -66,7 +67,9 @@ export default defineConfig({
           !page.includes('/admin/') &&
           !page.includes('/go/') &&
           !page.includes('/bookmarks') &&
-          !page.includes('/index-all')
+          !page.includes('/index-all') &&
+          !page.endsWith('/news-sitemap.xml') &&
+          !page.endsWith('/news/rss.xml')
         );
       },
       serialize(item) {
@@ -121,6 +124,18 @@ export default defineConfig({
             { lang: 'en',        url: 'https://gobaligo.id/en/' },
             { lang: 'id',        url: 'https://gobaligo.id/id/' },
           ];
+        }
+
+        // /news/ hub（含分頁）與 /news/category/ — 僅 zh-TW，無 hreflang
+        const newsHubMatch = path.match(/^\/news(?:\/(\d+))?\/?$/);
+        if (newsHubMatch) {
+          item.priority = newsHubMatch[1] ? 0.6 : 0.9;
+          item.changefreq = 'daily';
+        }
+        const newsCatMatch = path.match(/^\/news\/category\/([^/]+)\/?$/);
+        if (newsCatMatch) {
+          item.priority = 0.7;
+          item.changefreq = 'daily';
         }
 
         // hreflang for /tickets/ pages

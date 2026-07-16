@@ -69,3 +69,15 @@ jobs:
         env:
           GOOGLE_INDEXING_CREDENTIALS: ${{ secrets.GOOGLE_INDEXING_CREDENTIALS }}
         run: cat urls.txt | node scripts/submit-to-google.mjs
+
+      - name: 提交到 IndexNow（Bing 等）
+        if: steps.collect.outputs.count != '0'
+        run: cat urls.txt | node scripts/submit-to-indexnow.mjs
+
+      - name: 上傳待提交 URL 清單（方便手動送 GSC）
+        if: steps.collect.outputs.count != '0'
+        uses: actions/upload-artifact@v4
+        with:
+          name: submitted-urls-${{ github.run_id }}
+          path: urls.txt
+          retention-days: 14

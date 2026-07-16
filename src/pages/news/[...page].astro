@@ -1,0 +1,321 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import TopStrip from '../../components/TopStrip.astro';
+import Footer from '../../components/Footer.astro';
+import ChatBot from '../../components/ChatBot.astro';
+import { getCollection } from 'astro:content';
+import type { GetStaticPathsOptions } from 'astro';
+
+function extractFirstImage(body: string): string {
+  const m = body?.match(/!\[.*?\]\((https?:\/\/[^)\s]+)\)/);
+  return m ? m[1] : '';
+}
+
+function getPublishTime(p: any): Date {
+  const d = new Date(p.data.pubDate);
+  if (p.data.pubHour != null) {
+    d.setTime(d.getTime() + (p.data.pubHour - 8) * 3600 * 1000);
+  }
+  return d;
+}
+
+const isPublished = (p: any) => {
+  const now = new Date();
+  return p.data.pubDate && !p.data.private && getPublishTime(p) <= now;
+};
+
+const getCategories = (c: any): string[] => Array.isArray(c) ? c : (c ? [c] : []);
+
+function firstExcerpt(body: string, max = 80): string {
+  for (const raw of (body || '').split(/\r?\n/)) {
+    const t = raw.trim();
+    if (!t) continue;
+    if (/^#{1,6}\s/.test(t)) continue;
+    if (/^!\[[^\]]*\]\([^)]*\)\s*$/.test(t)) continue;
+    if (/^https?:\/\/\S+$/.test(t)) continue;
+    if (/^\{\{.*\}\}\s*$/.test(t)) continue;
+    const cleaned = t
+      .replace(/!\[[^\]]*\]\([^)]*\)/g, '')
+      .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
+      .replace(/[*_~`#>]+/g, '')
+      .trim();
+    if (!cleaned) continue;
+    return cleaned.length > max ? cleaned.slice(0, max) + '…' : cleaned;
+  }
+  return '';
+}
+
+const PAGE_SIZE = 20;
+const NEWS_CATEGORIES = ['政策', '交通', '天氣', '景點', '簽證', '治安', '活動'];
+
+// 注意：getStaticPaths 在 Astro 中是完全獨立編譯的，無法存取上方 frontmatter
+// 定義的其他函式/常數，因此所需的輔助邏輯必須整段寫在函式內部。
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+  function getPublishTime(p: any): Date {
+    const d = new Date(p.data.pubDate);
+    if (p.data.pubHour != null) {
+      d.setTime(d.getTime() + (p.data.pubHour - 8) * 3600 * 1000);
+    }
+    return d;
+  }
+  const isPublished = (p: any) => {
+    const now = new Date();
+    return p.data.pubDate && !p.data.private && getPublishTime(p) <= now;
+  };
+  const getCategories = (c: any): string[] => Array.isArray(c) ? c : (c ? [c] : []);
+
+  const allPosts = await getCollection('blog');
+  const newsPosts = allPosts
+    .filter(isPublished)
+    .filter(p => getCategories(p.data.category).includes('新聞存檔'))
+    .sort((a, b) => getPublishTime(b).valueOf() - getPublishTime(a).valueOf());
+
+  return paginate(newsPosts, { pageSize: 20 });
+}
+
+const { page } = Astro.props as { page: any };
+
+const posts = page.data.map((p: any) => ({
+  id: p.id,
+  slug: p.data.slug || p.id,
+  title: p.data.title,
+  pubDate: getPublishTime(p),
+  updatedDate: p.data.updatedDate,
+  excerpt: p.data.description || firstExcerpt(p.body),
+  heroImage: p.data.heroImage || extractFirstImage(p.body),
+  imageAlt: p.data.imageAlt || p.data.title,
+  newsCategory: p.data.newsCategory,
+}));
+
+const isFirstPage = page.currentPage === 1;
+const canonicalUrl = `https://gobaligo.id${page.url.current}`;
+
+// 分類 chip：只顯示有文章的分類
+const allNewsForCats = (await getCollection('blog'))
+  .filter(isPublished)
+  .filter(p => getCategories(p.data.category).includes('新聞存檔'));
+const categoryCounts: Record<string, number> = {};
+for (const cat of NEWS_CATEGORIES) {
+  categoryCounts[cat] = allNewsForCats.filter(p => p.data.newsCategory === cat).length;
+}
+const availableCategories = NEWS_CATEGORIES.filter(c => categoryCounts[c] > 0);
+
+const pageTitle = isFirstPage
+  ? '峇里島新聞 | 每日更新峇里島最新消息 - 小傑印尼'
+  : `峇里島新聞（第 ${page.currentPage} 頁）| 小傑印尼`;
+const pageDescription = '每日整理峇里島最新消息：入境規定、天氣火山示警、交通異動、治安提醒與活動資訊，長住峇里島的台灣人「小傑」親自彙編，非機器轉載。';
+
+const faqs = [
+  { q: '峇里島現在安全嗎？', a: '整體而言峇里島治安穩定，觀光區安全性高，但仍建議出發前留意本站最新峇里島新聞中的治安提醒與交通異動公告，避開臨時封路或示警區域，並留意隨身財物防範扒竊。' },
+  { q: '峇里島最新入境規定是什麼？', a: '印尼入境規定（簽證、落地簽費用、免簽名單）會不定期調整，建議以本站「簽證通關」分類與峇里島新聞中的最新公告為準，出發前 1-2 週再次確認，避免資訊過時。' },
+  { q: '峇里島新聞多久更新一次？', a: '本站峇里島新聞每天追蹤印尼當地新聞來源、政府公告與現地社團，通常在重大消息發生後 24 小時內整理上稿，非機器自動轉載，力求即時且對旅客真正有用。' },
+  { q: '峇里島今天天氣如何？火山有活動嗎？', a: '峇里島天氣與周邊火山（如阿貢火山）動態會直接反映在峇里島新聞的每日更新中；即時天氣也可參考本站的峇里島天氣頁面。' },
+  { q: '這些新聞從哪裡來、可信嗎？', a: '每則新聞會標註原始出處與連結，方便查證；整理彙編由長住峇里島的台灣人「小傑」親自完成，不是自動抓取或機器翻譯內容。' },
+];
+---
+
+<!doctype html>
+<html lang="zh-TW">
+<head>
+  <BaseHead title={pageTitle} description={pageDescription} noSuffix={true} />
+  <link rel="alternate" type="application/rss+xml" title="峇里島新聞 RSS" href="/news/rss.xml" />
+  {isFirstPage && (
+    <>
+      <script type="application/ld+json" set:html={JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "@id": "https://gobaligo.id/news/#collection",
+        "name": "峇里島新聞",
+        "description": pageDescription,
+        "url": "https://gobaligo.id/news/",
+        "inLanguage": "zh-TW",
+        "numberOfItems": page.total,
+        "about": { "@type": "Place", "name": "Bali", "address": { "@type": "PostalAddress", "addressCountry": "ID", "addressRegion": "Bali" } },
+        "publisher": { "@type": "Organization", "name": "Go Bali Go 峇里島旅遊攻略", "url": "https://gobaligo.id", "logo": { "@type": "ImageObject", "url": "https://gobaligo.id/favicon-32x32.png" } },
+      })} />
+      <script type="application/ld+json" set:html={JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "峇里島新聞",
+        "url": "https://gobaligo.id/news/",
+        "numberOfItems": Math.min(posts.length, 10),
+        "itemListElement": posts.slice(0, 10).map((p, i) => ({
+          "@type": "ListItem",
+          "position": i + 1,
+          "url": `https://gobaligo.id/blog/${p.slug}/`,
+          "name": p.title,
+          "datePublished": p.pubDate.toISOString(),
+        })),
+      })} />
+      <script type="application/ld+json" set:html={JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "首頁", "item": "https://gobaligo.id/blog/" },
+          { "@type": "ListItem", "position": 2, "name": "峇里島新聞", "item": "https://gobaligo.id/news/" },
+        ],
+      })} />
+      <script type="application/ld+json" set:html={JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "@id": "https://gobaligo.id/news/#faq",
+        "mainEntity": faqs.map(f => ({
+          "@type": "Question",
+          "name": f.q,
+          "acceptedAnswer": { "@type": "Answer", "text": f.a },
+        })),
+      })} />
+    </>
+  )}
+  <meta property="og:title" content={pageTitle} />
+  <meta property="og:description" content={pageDescription} />
+  <meta property="og:url" content={canonicalUrl} />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="zh_TW" />
+</head>
+<body>
+  <Header basePath="news" hideLangSwitcher={true} />
+  <TopStrip lang="zh-tw" />
+
+  <div class="news-hub-layout">
+    <main class="news-hub-main">
+
+      <nav class="breadcrumb" aria-label="breadcrumb">
+        <a href="/blog/">首頁</a>
+        <span class="bc-sep">›</span>
+        <span>峇里島新聞</span>
+      </nav>
+
+      <h1 class="news-hub-h1">峇里島新聞</h1>
+
+      {isFirstPage && (
+        <p class="news-hub-intro">
+          峇里島新聞由長住峇里島的台灣人「小傑」整理彙編，每天追蹤印尼當地新聞來源、政府公告與現地社團，篩選出對來峇里島玩、住、生活最有用的峇里島最新消息——包含峇里島入境規定、峇里島天氣與峇里島火山示警、交通異動、治安提醒與活動資訊，通常在事件發生後 24 小時內更新完成，不是機器人自動轉載。無論你想知道峇里島現況、峇里島今天發生什麼事，還是在找 Bali news 中文版、峇里島旅遊新聞與峇里島即時新聞，這裡都是查證的第一站。
+        </p>
+      )}
+
+      {availableCategories.length > 0 && (
+        <div class="news-cat-chips">
+          {availableCategories.map(cat => (
+            <a href={`/news/category/${encodeURIComponent(cat)}/`} class="news-cat-chip">
+              {cat}<span class="news-cat-chip-count">{categoryCounts[cat]}</span>
+            </a>
+          ))}
+        </div>
+      )}
+
+      <ul class="news-hub-list">
+        {posts.map((p: any) => (
+          <li class="news-hub-item">
+            <a href={`/blog/${p.slug}/`} class="news-hub-link">
+              {p.heroImage && (
+                <img class="news-hub-thumb" src={p.heroImage} alt={p.imageAlt} loading="lazy" />
+              )}
+              <div class="news-hub-text">
+                <span class="news-hub-date">{p.pubDate.toISOString().split('T')[0]}{p.newsCategory && <span class="news-hub-cat-tag">{p.newsCategory}</span>}</span>
+                <span class="news-hub-title">{p.title}</span>
+                {p.excerpt && <span class="news-hub-excerpt">{p.excerpt}</span>}
+              </div>
+            </a>
+          </li>
+        ))}
+      </ul>
+
+      {page.lastPage > 1 && (
+        <nav class="news-pagination" aria-label="分頁">
+          {page.url.prev && <a href={page.url.prev} class="news-page-link">← 上一頁</a>}
+          <span class="news-page-current">第 {page.currentPage} / {page.lastPage} 頁</span>
+          {page.url.next && <a href={page.url.next} class="news-page-link">下一頁 →</a>}
+        </nav>
+      )}
+
+      {isFirstPage && (
+        <section class="news-faq">
+          <h2 class="news-faq-title">❓ 峇里島新聞常見問題</h2>
+          <div class="news-faq-list">
+            {faqs.map(f => (
+              <details class="news-faq-item">
+                <summary class="news-faq-q">{f.q}</summary>
+                <p class="news-faq-a">{f.a}</p>
+              </details>
+            ))}
+          </div>
+        </section>
+      )}
+
+    </main>
+  </div>
+
+  <ChatBot />
+  <Footer />
+</body>
+</html>
+
+<style>
+  .news-hub-layout { max-width: 860px; margin: 0 auto; padding: 1.5em 1.2em 3em; }
+  .news-hub-main { width: 100%; }
+
+  .breadcrumb { font-size: 0.85em; color: #888; margin-bottom: 1em; }
+  .breadcrumb a { color: var(--ocean, #0a3d6b); text-decoration: none; }
+  .breadcrumb a:hover { text-decoration: underline; }
+  .bc-sep { margin: 0 0.4em; }
+
+  .news-hub-h1 {
+    font-size: 1.9em;
+    font-weight: 900;
+    color: var(--ocean, #0a3d6b);
+    margin: 0 0 0.7em;
+    line-height: 1.25;
+    border-left: 5px solid var(--gold, #c5a059);
+    padding-left: 0.5em;
+  }
+
+  .news-hub-intro {
+    margin: 0 0 1.4em;
+    font-size: 0.97em;
+    line-height: 1.78;
+    color: #3a4a5a;
+  }
+
+  .news-cat-chips { display: flex; flex-wrap: wrap; gap: 0.5em; margin-bottom: 1.6em; }
+  .news-cat-chip {
+    display: inline-flex; align-items: center; gap: 0.35em;
+    padding: 0.35em 0.85em; border-radius: 999px;
+    background: rgba(10, 61, 107, 0.06);
+    border: 1px solid rgba(10, 61, 107, 0.15);
+    color: var(--ocean, #0a3d6b);
+    font-size: 0.85em; font-weight: 600; text-decoration: none;
+    transition: background 0.15s;
+  }
+  .news-cat-chip:hover { background: rgba(10, 61, 107, 0.12); }
+  .news-cat-chip-count { color: #888; font-weight: 400; }
+
+  .news-hub-list { list-style: none; margin: 0 0 1.6em; padding: 0; }
+  .news-hub-item { border-bottom: 1px solid rgba(197,160,89,0.15); padding: 0.9em 0; }
+  .news-hub-item:last-child { border-bottom: none; }
+  .news-hub-link { display: flex; gap: 0.9em; text-decoration: none; color: inherit; }
+  .news-hub-thumb { width: 96px; height: 72px; object-fit: cover; border-radius: 8px; flex-shrink: 0; }
+  .news-hub-text { display: flex; flex-direction: column; gap: 0.25em; min-width: 0; }
+  .news-hub-date { font-size: 0.75em; color: var(--gold, #c5a059); font-weight: 700; display: flex; align-items: center; gap: 0.5em; }
+  .news-hub-cat-tag { background: rgba(197,160,89,0.15); color: #8a6d1f; border-radius: 4px; padding: 0.1em 0.5em; font-weight: 600; }
+  .news-hub-title { font-size: 1em; font-weight: 700; color: #1a2a3a; line-height: 1.4; }
+  .news-hub-link:hover .news-hub-title { color: var(--ocean, #0a3d6b); text-decoration: underline; }
+  .news-hub-excerpt { font-size: 0.85em; color: #667; line-height: 1.5; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+
+  .news-pagination { display: flex; align-items: center; justify-content: center; gap: 1.2em; margin: 1.5em 0 2.5em; font-size: 0.9em; }
+  .news-page-link { color: var(--ocean, #0a3d6b); text-decoration: none; font-weight: 700; }
+  .news-page-link:hover { text-decoration: underline; }
+  .news-page-current { color: #888; }
+
+  .news-faq { margin-top: 2em; }
+  .news-faq-title { font-size: 1.05em; font-weight: 700; color: var(--ocean, #0a3d6b); margin: 0 0 0.75em; }
+  .news-faq-list { display: flex; flex-direction: column; gap: 0.5em; }
+  .news-faq-item { border: 1px solid rgba(197,160,89,0.2); border-radius: 8px; padding: 0.7em 1em; }
+  .news-faq-q { font-weight: 700; cursor: pointer; color: #1a2a3a; font-size: 0.95em; }
+  .news-faq-a { margin: 0.6em 0 0; color: #445; font-size: 0.9em; line-height: 1.6; }
+
+  @media (max-width: 600px) {
+    .news-hub-thumb { width: 76px; height: 58px; }
+  }
+</style>

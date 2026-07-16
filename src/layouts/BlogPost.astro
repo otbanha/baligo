@@ -24,7 +24,7 @@ type Driver = {
 };
 
 type Props = CollectionEntry<'blog'>['data'] & { body?: string; headings?: { depth: number; slug: string; text: string }[]; lang?: string; slug?: string; isDriverGuide?: boolean; drivers?: Driver[]; isSpaGuide?: boolean; line_qr_guide?: boolean };
-const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '', headings = [], lang, slug, private: isPrivate, shuffle_h2: shuffleH2, isDriverGuide = false, drivers = [], isSpaGuide = false, line_qr_guide: lineQrGuide = false } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '', headings = [], lang, slug, private: isPrivate, shuffle_h2: shuffleH2, isDriverGuide = false, drivers = [], isSpaGuide = false, line_qr_guide: lineQrGuide = false, newsCategory, source, sourceUrl, tags } = Astro.props;
 
 const tocHeadings = headings.filter(h => h.depth === 1 || h.depth === 2 || h.depth === 3);
 const showToc = tocHeadings.length >= 2;
@@ -260,12 +260,31 @@ const getRandomPosts = (categoryName: string, count: number) => {
 };
 
 const primaryCat = cats[0] ?? '峇里島分區攻略';
+
+// 新聞文章：關聯同 tag 的既有深度攻略文章（排除其他新聞），而非隨機同分類
+const isNewsPost = cats.includes('新聞存檔');
+const postTags: string[] = Array.isArray(tags) ? tags : (tags ? [tags] : []);
+const tagRelatedPosts = isNewsPost && postTags.length > 0
+  ? allPosts
+      .filter(p => {
+        if (p.data.title === title) return false;
+        const pCats = Array.isArray(p.data.category) ? p.data.category : [p.data.category];
+        if (pCats.includes('新聞存檔')) return false;
+        const pTags: string[] = Array.isArray(p.data.tags) ? p.data.tags : (p.data.tags ? [p.data.tags] : []);
+        return pTags.some(t => postTags.includes(t));
+      })
+      .sort(() => Math.random() - 0.5)
+      .slice(0, 3)
+  : [];
+
 const sameCatPosts = getRandomPosts(primaryCat, 4);
 const companionCat = COMPANION_CAT[primaryCat] ?? '峇里島分區攻略';
 const companionPosts = companionCat !== primaryCat
   ? getRandomPosts(companionCat, Math.max(2, 6 - sameCatPosts.length))
   : [];
-const randomPosts = [...sameCatPosts, ...companionPosts].slice(0, 6);
+const randomPosts = isNewsPost
+  ? (tagRelatedPosts.length > 0 ? tagRelatedPosts : getRandomPosts('新聞存檔', 3))
+  : [...sameCatPosts, ...companionPosts].slice(0, 6);
 
 // 促銷活動：過濾未過期的
 const allPromos = await getCollection('promotions');
@@ -408,6 +427,7 @@ const spaFaqSchema = isSpaGuide ? {
     pubDate={pubDate}
     updatedDate={updatedDate}
     heroImage={ogImage}
+    newsCategory={newsCategory}
   />}
 
   <!-- JSON-LD: Driver Guide - Person + LocalBusiness Schema for each recommended driver -->
@@ -485,6 +505,24 @@ const spaFaqSchema = isSpaGuide ? {
               )}
               <a href={`/admin/#/collections/blog/entries/${Astro.params.slug}`} class="edit-link" target="_blank" rel="noopener">✏️ 編輯文章</a>
             </div>
+
+            {cats.includes('新聞存檔') && (
+              <div class="news-byline">
+                <span class="news-byline-author">
+                  整理：<a href="/about/">小傑</a>（長住峇里島的台灣人）·
+                  <a href="https://www.youtube.com/@j_indonesia" target="_blank" rel="noopener">YouTube 頻道</a>
+                </span>
+                {source && (
+                  <span class="news-byline-source">
+                    資料來源：
+                    {sourceUrl ? (
+                      <a href={sourceUrl} target="_blank" rel="nofollow noopener">{source}</a>
+                    ) : source}
+                  </span>
+                )}
+              </div>
+            )}
+
             <hr />
           </div>
 
@@ -1328,6 +1366,9 @@ main {
 .date { font-size: 0.85em; color: var(--text-light); margin-bottom: 1em; display: flex; align-items: center; gap: 0.8em; flex-wrap: wrap; }
 .edit-link { font-size: 0.8em; color: var(--text-light); text-decoration: none; border: 1px solid rgba(0,0,0,0.15); border-radius: 6px; padding: 0.1em 0.5em; }
 .edit-link:hover { color: var(--ocean); border-color: var(--ocean); }
+.news-byline { display: flex; flex-direction: column; gap: 0.3em; font-size: 0.82em; color: var(--text-light); background: rgba(197,160,89,0.08); border-radius: 8px; padding: 0.6em 0.9em; margin-bottom: 1em; }
+.news-byline a { color: var(--ocean); text-decoration: none; }
+.news-byline a:hover { text-decoration: underline; }
 hr { margin: 1.2em 0 1.8em; }
 
 .prose :global(h2:not(.tp-banner-title)) {

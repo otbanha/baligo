@@ -1,0 +1,196 @@
+---
+import BaseHead from '../../../components/BaseHead.astro';
+import Header from '../../../components/Header.astro';
+import TopStrip from '../../../components/TopStrip.astro';
+import Footer from '../../../components/Footer.astro';
+import ChatBot from '../../../components/ChatBot.astro';
+import { getCollection } from 'astro:content';
+
+const NEWS_CATEGORIES = ['政策', '交通', '天氣', '景點', '簽證', '治安', '活動'];
+
+function getPublishTime(p: any): Date {
+  const d = new Date(p.data.pubDate);
+  if (p.data.pubHour != null) {
+    d.setTime(d.getTime() + (p.data.pubHour - 8) * 3600 * 1000);
+  }
+  return d;
+}
+
+const isPublished = (p: any) => {
+  const now = new Date();
+  return p.data.pubDate && !p.data.private && getPublishTime(p) <= now;
+};
+
+const getCategories = (c: any): string[] => Array.isArray(c) ? c : (c ? [c] : []);
+
+function extractFirstImage(body: string): string {
+  const m = body?.match(/!\[.*?\]\((https?:\/\/[^)\s]+)\)/);
+  return m ? m[1] : '';
+}
+
+// 注意：getStaticPaths 在 Astro 中是完全獨立編譯的，無法存取上方 frontmatter
+// 定義的其他函式/常數，因此所需的輔助邏輯與常數必須整段寫在函式內部。
+export async function getStaticPaths() {
+  const categories = ['政策', '交通', '天氣', '景點', '簽證', '治安', '活動'];
+
+  function getPublishTime(p: any): Date {
+    const d = new Date(p.data.pubDate);
+    if (p.data.pubHour != null) {
+      d.setTime(d.getTime() + (p.data.pubHour - 8) * 3600 * 1000);
+    }
+    return d;
+  }
+  const isPublished = (p: any) => {
+    const now = new Date();
+    return p.data.pubDate && !p.data.private && getPublishTime(p) <= now;
+  };
+  const getCategories = (c: any): string[] => Array.isArray(c) ? c : (c ? [c] : []);
+
+  const allPosts = await getCollection('blog');
+  const newsPosts = allPosts
+    .filter(isPublished)
+    .filter(p => getCategories(p.data.category).includes('新聞存檔'));
+
+  return categories
+    .filter(cat => newsPosts.some(p => p.data.newsCategory === cat))
+    .map(category => ({ params: { category } }));
+}
+
+const { category } = Astro.params as { category: string };
+
+const allPosts = await getCollection('blog');
+const posts = allPosts
+  .filter(isPublished)
+  .filter(p => getCategories(p.data.category).includes('新聞存檔'))
+  .filter(p => p.data.newsCategory === category)
+  .map(p => ({
+    id: p.id,
+    slug: p.data.slug || p.id,
+    title: p.data.title,
+    description: p.data.description || '',
+    pubDate: getPublishTime(p),
+    heroImage: p.data.heroImage || extractFirstImage(p.body),
+    imageAlt: p.data.imageAlt || p.data.title,
+  }))
+  .sort((a, b) => b.pubDate.valueOf() - a.pubDate.valueOf());
+
+const canonicalUrl = `https://gobaligo.id/news/category/${encodeURIComponent(category)}/`;
+const pageTitle = `峇里島${category}新聞 | ${posts.length} 則整理 - 小傑印尼`;
+const pageDescription = `峇里島${category}相關新聞整理，收錄 ${posts.length} 則最新消息，由長住峇里島的台灣人「小傑」每日彙編更新。`;
+
+const collectionPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": `${canonicalUrl}#collection`,
+  "name": `峇里島${category}新聞`,
+  "description": pageDescription,
+  "url": canonicalUrl,
+  "inLanguage": "zh-TW",
+  "numberOfItems": posts.length,
+  "publisher": { "@type": "Organization", "name": "Go Bali Go 峇里島旅遊攻略", "url": "https://gobaligo.id", "logo": { "@type": "ImageObject", "url": "https://gobaligo.id/favicon-32x32.png" } },
+};
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "首頁", "item": "https://gobaligo.id/blog/" },
+    { "@type": "ListItem", "position": 2, "name": "峇里島新聞", "item": "https://gobaligo.id/news/" },
+    { "@type": "ListItem", "position": 3, "name": category, "item": canonicalUrl },
+  ],
+};
+---
+
+<!doctype html>
+<html lang="zh-TW">
+<head>
+  <BaseHead title={pageTitle} description={pageDescription} noSuffix={true} />
+  <script type="application/ld+json" set:html={JSON.stringify(collectionPageSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+</head>
+<body>
+  <Header basePath={`news/category/${encodeURIComponent(category)}`} hideLangSwitcher={true} />
+  <TopStrip lang="zh-tw" />
+
+  <div class="news-cat-layout">
+    <main class="news-cat-main">
+
+      <nav class="breadcrumb" aria-label="breadcrumb">
+        <a href="/blog/">首頁</a>
+        <span class="bc-sep">›</span>
+        <a href="/news/">峇里島新聞</a>
+        <span class="bc-sep">›</span>
+        <span>{category}</span>
+      </nav>
+
+      <h1 class="news-cat-h1">峇里島{category}新聞</h1>
+      <p class="news-cat-count">共 {posts.length} 則</p>
+
+      <ul class="news-cat-list">
+        {posts.map(p => (
+          <li class="news-cat-item">
+            <a href={`/blog/${p.slug}/`} class="news-cat-link">
+              {p.heroImage && (
+                <img class="news-cat-thumb" src={p.heroImage} alt={p.imageAlt} loading="lazy" />
+              )}
+              <div class="news-cat-text">
+                <span class="news-cat-date">{p.pubDate.toISOString().split('T')[0]}</span>
+                <span class="news-cat-title">{p.title}</span>
+                {p.description && <span class="news-cat-desc">{p.description}</span>}
+              </div>
+            </a>
+          </li>
+        ))}
+      </ul>
+
+      <div class="news-cat-back">
+        <a href="/news/">← 查看全部峇里島新聞</a>
+      </div>
+
+    </main>
+  </div>
+
+  <ChatBot />
+  <Footer />
+</body>
+</html>
+
+<style>
+  .news-cat-layout { max-width: 860px; margin: 0 auto; padding: 1.5em 1.2em 3em; }
+  .news-cat-main { width: 100%; }
+
+  .breadcrumb { font-size: 0.85em; color: #888; margin-bottom: 1em; }
+  .breadcrumb a { color: var(--ocean, #0a3d6b); text-decoration: none; }
+  .breadcrumb a:hover { text-decoration: underline; }
+  .bc-sep { margin: 0 0.4em; }
+
+  .news-cat-h1 {
+    font-size: 1.9em;
+    font-weight: 900;
+    color: var(--ocean, #0a3d6b);
+    margin: 0 0 0.2em;
+    line-height: 1.25;
+    border-left: 5px solid var(--gold, #c5a059);
+    padding-left: 0.5em;
+  }
+  .news-cat-count { color: #888; font-size: 0.85em; margin: 0 0 1.4em; padding-left: 0.6em; }
+
+  .news-cat-list { list-style: none; margin: 0 0 1.6em; padding: 0; }
+  .news-cat-item { border-bottom: 1px solid rgba(197,160,89,0.15); padding: 0.9em 0; }
+  .news-cat-item:last-child { border-bottom: none; }
+  .news-cat-link { display: flex; gap: 0.9em; text-decoration: none; color: inherit; }
+  .news-cat-thumb { width: 96px; height: 72px; object-fit: cover; border-radius: 8px; flex-shrink: 0; }
+  .news-cat-text { display: flex; flex-direction: column; gap: 0.25em; min-width: 0; }
+  .news-cat-date { font-size: 0.75em; color: var(--gold, #c5a059); font-weight: 700; }
+  .news-cat-title { font-size: 1em; font-weight: 700; color: #1a2a3a; line-height: 1.4; }
+  .news-cat-link:hover .news-cat-title { color: var(--ocean, #0a3d6b); text-decoration: underline; }
+  .news-cat-desc { font-size: 0.85em; color: #667; line-height: 1.5; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+
+  .news-cat-back { font-size: 0.9em; }
+  .news-cat-back a { color: var(--ocean, #0a3d6b); text-decoration: none; }
+  .news-cat-back a:hover { text-decoration: underline; }
+
+  @media (max-width: 600px) {
+    .news-cat-thumb { width: 76px; height: 58px; }
+  }
+</style>

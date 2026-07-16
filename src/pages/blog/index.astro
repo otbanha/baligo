@@ -9,7 +9,7 @@ import ExchangeRateWidget from '../../components/ExchangeRateWidget.astro';
 import ForumLatestTopics from '../../components/ForumLatestTopics.astro';
 import BaliWeather from '../../components/BaliWeather.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
-import { getCollection, render } from 'astro:content';
+import { getCollection } from 'astro:content';
 import featuredData from '../../featured.json';
 import top5Data from '../../top5.json';
 
@@ -125,19 +125,16 @@ const accommodations = allPosts
     heroImage: p.data.heroImage || '',
   }));
 
-// 最新1則新聞存檔（含render）
-const allBlogRaw = await getCollection('blog');
-const baliNewsRaw = allBlogRaw
-  .filter(p => {
-    const cats = getCategories(p.data.category);
-    return cats.includes('新聞存檔') && isPublished(p);
-  })
-  .sort((a, b) => getPublishTime(b) - getPublishTime(a))
-  .at(0);
-
-const { Content: BaliNewsContent } = baliNewsRaw
-  ? await render(baliNewsRaw)
-  : { Content: null };
+// 最新5則新聞存檔（首頁 widget 用列表，全文在 /news/ 與 /blog/[slug]/）
+const baliNewsPosts = allPosts
+  .filter(p => getCategories(p.data.category).includes('新聞存檔'))
+  .slice(0, 5)
+  .map(p => ({
+    id: p.id,
+    slug: p.data.slug || p.id,
+    title: p.data.title,
+    date: getPublishTime(p).toISOString().split('T')[0],
+  }));
 
 // 求救箱問題（隨機顯示用）
 const qaCollection = await getCollection('qa');
@@ -417,15 +414,20 @@ const socialLinks = [
         <!-- Bali News + (Accommodations / 峇里島討論區 / YouTube) -->
         <div class="news-side-grid" id="top-widgets">
           <div class="widget-box news-widget-box">
-            <h2 class="widget-title fade-in">📰 Bali News</h2>
-            {baliNewsRaw ? (
+            <h2 class="widget-title fade-in">📰 峇里島新聞</h2>
+            {baliNewsPosts.length > 0 ? (
               <div class="news-scroll">
-                <a href={`/blog/${baliNewsRaw.id}/`} class="news-post-date">
-                  {new Date(baliNewsRaw.data.pubDate).toISOString().split('T')[0]}
-                </a>
-                <div class="news-body">
-                  <BaliNewsContent />
-                </div>
+                <ul class="news-list">
+                  {baliNewsPosts.map(p => (
+                    <li class="news-item">
+                      <a href={`/blog/${p.slug}/`}>
+                        <span class="news-date">{p.date}</span>
+                        <span class="news-title">{p.title}</span>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+                <a href="/news/" class="news-more-link">查看全部峇里島新聞 →</a>
               </div>
             ) : (
               <div class="widget-empty">即將推出</div>
@@ -1353,6 +1355,8 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .news-item a:hover .news-title { color: var(--gold); }
 .news-date { font-size: 0.72em; color: var(--gold); }
 .news-title { font-size: 0.85em; color: #5D4037; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.news-more-link { display: block; margin-top: 0.7em; font-size: 0.8em; font-weight: 700; color: var(--ocean, #0a3d6b); text-decoration: none; }
+.news-more-link:hover { text-decoration: underline; }
 
 /* Top 5 */
 .top5-section {

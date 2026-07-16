@@ -9,7 +9,8 @@
  *   新手指南
  *   旅行技巧      → Article + FAQPage (Q from H2 headings)
  *   美食景點活動   → Article + LocalBusiness
- *   家庭親子 / 叫車包車 / 遊記分享 / 新聞存檔 → Article only
+ *   新聞存檔      → NewsArticle
+ *   家庭親子 / 叫車包車 / 遊記分享 → Article only
  *
  * Also generates BreadcrumbList for all articles.
  *
@@ -32,6 +33,7 @@ interface Props {
   pubDate?: Date | string;
   updatedDate?: Date | string;
   heroImage?: string;
+  newsCategory?: string;
 }
 
 const {
@@ -45,6 +47,7 @@ const {
   pubDate,
   updatedDate,
   heroImage,
+  newsCategory,
 } = Astro.props;
 
 // ── Helpers ──────────────────────────────────────────────────────────────────
@@ -166,9 +169,11 @@ if (cats.includes('住宿推薦')) {
 
 // ── Base schemas (every article) ─────────────────────────────────────────────
 
+const isNews = cats.includes('新聞存檔');
+
 const schemaArticle = {
   "@context": "https://schema.org",
-  "@type": "Article",
+  "@type": isNews ? "NewsArticle" : "Article",
   "headline": seoTitle,
   "description": seoDesc,
   "image": ogImage,
@@ -183,7 +188,7 @@ const schemaArticle = {
     "logo": { "@type": "ImageObject", "url": "https://gobaligo.id/favicon-32x32.png" }
   },
   "mainEntityOfPage": { "@type": "WebPage", "@id": articleUrl },
-  ...(cats.length > 0 ? { "articleSection": cats[0] } : {}),
+  ...(isNews && newsCategory ? { "articleSection": newsCategory } : cats.length > 0 ? { "articleSection": cats[0] } : {}),
   // E.2 relatedLink：blog 頁指向對應的互動地圖
   ...((() => {
     const canonicalZhTw = `https://gobaligo.id/blog/${slug}/`;
