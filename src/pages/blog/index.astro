@@ -125,10 +125,10 @@ const accommodations = allPosts
     heroImage: p.data.heroImage || '',
   }));
 
-// 最新5則新聞存檔（首頁 widget 用列表，全文在 /news/ 與 /blog/[slug]/）
+// 最新8則新聞存檔（首頁 widget 用列表，全文在 /news/ 與 /blog/[slug]/）
 const baliNewsPosts = allPosts
   .filter(p => getCategories(p.data.category).includes('新聞存檔'))
-  .slice(0, 5)
+  .slice(0, 8)
   .map(p => ({
     id: p.id,
     slug: p.data.slug || p.id,
