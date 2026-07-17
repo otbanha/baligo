@@ -80,7 +80,7 @@ const posts = page.data.map((p: any) => ({
   id: p.id,
   slug: p.data.slug || p.id,
   title: p.data.title,
-  pubDate: getPublishTime(p),
+  pubDate: new Date(p.data.pubDate),
   updatedDate: p.data.updatedDate,
   excerpt: p.data.description || firstExcerpt(p.body),
   heroImage: p.data.heroImage || extractFirstImage(p.body),

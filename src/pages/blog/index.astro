@@ -133,7 +133,7 @@ const baliNewsPosts = allPosts
     id: p.id,
     slug: p.data.slug || p.id,
     title: p.data.title,
-    date: getPublishTime(p).toISOString().split('T')[0],
+    date: new Date(p.data.pubDate).toISOString().split('T')[0],
   }));
 
 // 求救箱問題（隨機顯示用）

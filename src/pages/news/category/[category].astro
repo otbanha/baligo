@@ -68,11 +68,12 @@ const posts = allPosts
     slug: p.data.slug || p.id,
     title: p.data.title,
     description: p.data.description || '',
-    pubDate: getPublishTime(p),
+    pubDate: new Date(p.data.pubDate),
+    sortTime: getPublishTime(p),
     heroImage: p.data.heroImage || extractFirstImage(p.body),
     imageAlt: p.data.imageAlt || p.data.title,
   }))
-  .sort((a, b) => b.pubDate.valueOf() - a.pubDate.valueOf());
+  .sort((a, b) => b.sortTime.valueOf() - a.sortTime.valueOf());
 
 const canonicalUrl = `https://gobaligo.id/news/category/${encodeURIComponent(category)}/`;
 const pageTitle = `峇里島${category}新聞 | ${posts.length} 則整理 - 小傑印尼`;
