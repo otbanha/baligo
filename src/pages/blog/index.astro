@@ -1261,12 +1261,17 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
   margin-bottom: 1.5em;
   align-items: start;
 }
+/* grid/flex 項目預設 min-width:auto，內層 YouTube aspect-ratio 區塊的內容寬度
+   會把整條 1fr 軌道撐寬（手機版單欄時尤其明顯，導致整頁水平溢出被裁切）。 */
+.news-side-grid > * { min-width: 0; }
 
 .side-stack {
   display: flex;
   flex-direction: column;
   gap: 1.2em;
+  min-width: 0;
 }
+.side-stack > * { min-width: 0; }
 
 .news-widget-box .news-scroll {
   overflow-y: auto;
