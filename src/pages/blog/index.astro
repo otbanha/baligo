@@ -1596,6 +1596,9 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
   .card-body { padding: 0.5em 0.75em; }
   .card-title { font-size: 0.85em; -webkit-line-clamp: 2; margin: 0; }
   .card-desc { display: none; }
+
+  /* 手機版峇里島新聞只顯示前5則，其餘要點「查看全部」才看得到 */
+  .news-list .news-item:nth-child(n+6) { display: none; }
 }
 .news-scroll {
   overflow-y: auto;
