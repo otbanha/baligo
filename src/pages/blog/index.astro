@@ -1486,7 +1486,9 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 @media (max-width: 1100px) {
   .featured-grid { grid-template-columns: repeat(2, 1fr); }
   .news-side-grid { grid-template-columns: 1fr; }
-  .news-widget-box .news-scroll { max-height: 420px; }
+  /* 單欄版面時新聞清單不再需要跟右側欄位對齊高度，讓它自然撐開，避免內部捲軸把
+     內容卡在固定高度裡（曾經只顯示得下 ~5 則，其餘要滾動才看得到）。*/
+  .news-widget-box .news-scroll { max-height: none; overflow: visible; }
 }
 
 @media (max-width: 900px) {
