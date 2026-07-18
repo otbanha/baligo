@@ -80,10 +80,19 @@ async function getAccessToken(creds) {
   return (await res.json()).access_token;
 }
 
-/** 不跟隨轉址，僅接受真正的 200（避開 301 舊網址、404）。 */
+/**
+ * 不跟隨轉址，僅接受真正的 200（避開 301 舊網址、404）。
+ * 一定要帶 Accept-Language: zh-TW，否則 functions/_middleware.js 的語系偵測
+ * 對沒有這個標頭的請求（Node fetch 預設不送）會判成 'en' 導致 302 轉到
+ * /en/ 版本，誤判成「非 200」而被略過提交。
+ */
 async function isLive(url) {
   try {
-    const res = await fetch(url, { method: 'HEAD', redirect: 'manual' });
+    const res = await fetch(url, {
+      method: 'HEAD',
+      redirect: 'manual',
+      headers: { 'Accept-Language': 'zh-TW,zh;q=0.9' },
+    });
     return res.status === 200;
   } catch {
     return false;
