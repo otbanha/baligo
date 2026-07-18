@@ -170,6 +170,9 @@ const catPageUrl   = (cat: string) => `${blogBase}/category/${encodeURIComponent
 
 const canonicalUrl = `https://gobaligo.id${blogBase}/${slug}/`;
 
+// 瀏覽數統一歸到繁中 slug 底下加總，不分語言版本
+const pageviewSlug = `/blog/${slug}/`;
+
 // hreflang：只輸出實際存在的語言版本，避免指向 404（壞掉的 hreflang 會干擾 Google 選擇 canonical）
 const availLangs = slug ? await getAvailableLangs(slug) : new Set(['zh-tw', 'zh-hk', 'zh-cn', 'en', 'id']);
 const hreflangUrls: Record<string, string> = {
@@ -1074,18 +1077,17 @@ window.addEventListener('load', () => {
   })();
 </script>
 
-<script>
+<script define:vars={{ pageviewSlug }}>
   // Page view counter — session-deduped (same tab only counts once)
+  // 所有語言版本都歸到同一個 pageviewSlug（繁中路徑）加總計數
   (function () {
-    const slug = location.pathname.replace(/\/?$/, '/').replace(/^(?!\/)/, '/');
-    if (!slug.startsWith('/blog/')) return;
-    const key = '_pv' + slug;
+    const key = '_pv' + pageviewSlug;
     if (sessionStorage.getItem(key)) return;
     sessionStorage.setItem(key, '1');
     fetch('/api/pageview', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ slug }),
+      body: JSON.stringify({ slug: pageviewSlug }),
       keepalive: true,
     }).catch(() => {});
   })();
