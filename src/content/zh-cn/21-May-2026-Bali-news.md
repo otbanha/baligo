@@ -1,11 +1,12 @@
 ---
-title: 2026-05-21 巴厘岛新闻
+title: 2026-05-21 巴厘岛新闻：巴杜尔火山缆车定案、龟龟岛特区转型
 slug: 21-May-2026-Bali-news
 description: |-
   Bali news update
   巴厘岛新闻
   巴厘岛新闻
 pubDate: 2026-05-21T00:00:00.000Z
+updatedDate: 2026-07-18T00:00:00.000Z
 pubHour: 6
 category:
   - 新聞存檔
@@ -19,7 +20,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 3ad125289b7ba532ee2b43bfa3a64fb0
+_srcHash: 3831aee1aee468c0fe57c664c094548c
 ---
 
 ## 🗞️ 今日要闻：全新观光基建与经济特区转型

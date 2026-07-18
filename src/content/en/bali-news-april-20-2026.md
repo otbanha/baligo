@@ -1,8 +1,9 @@
 ---
 slug: bali-news-april-20-2026
-title: 2026-04-20 Bali News
+title: '2026-04-20 Bali News: Kemala Run 10K Road Race, 22 Major Projects Launched'
 description: ''
 pubDate: 2026-04-20T00:00:00.000Z
+updatedDate: 2026-07-18T00:00:00.000Z
 pubHour: 8
 category:
   - 新聞存檔
@@ -15,27 +16,27 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 60b0f736df4a7985140103b0014ea5e6
+_srcHash: 1f43c5c15dd3cea7ff96ed35c2d6a4cd
 ---
 
-【Current USD Exchange Rate: 16,650】
+[Today's USD Exchange Rate: 16,650]
 
-Today's (4/20) **Bali** news summary is as follows:
+Here's a roundup of today's (4/20) news from **Bali**:
 
-## 🗞️ Top Stories: Running Event & Strategic Shift
+## 🗞️ Top Stories: Road Race & Strategic Shift
 
-- **Massive Running Event in Gianyar**: Yesterday (4/19), the large-scale running event "Kemala Run 2026" was held at the Bali United Training Center in Gianyar, attracting around 11,000 domestic and international participants (including 5K, 10K, and half marathon categories), successfully boosting local sports tourism.
-- **22 Major Projects Launched**: The provincial government announced yesterday that it will phase in 22 strategic projects, including the construction of the **Bali Cultural Center Core Area**, as part of the "New Era Bali Century Blueprint."
-- **Tourism Market Focus Shift**: Officials stated that the goal for 2026 is to attract 6.62 million international tourists, and in response to global trends, marketing efforts will shift from long-haul routes to the **Asia-Pacific market** (e.g., Australia, Southeast Asia, India, China, Japan, South Korea) to reduce reliance on unstable transit hubs.
+- **10K Road Race Thrills Gianyar**: Yesterday (4/19), the large-scale road race event "Kemala Run 2026" was held at the Bali United Training Center in Gianyar, attracting approximately 11,000 domestic and international participants (including 5K, 10K, and half marathon), successfully boosting local sports tourism.
+- **22 Major Projects Launched**: The provincial government announced yesterday that it will roll out 22 strategic projects in phases, including the construction of the **Bali Cultural Center core area**, as part of the "New Era Bali Centennial Blueprint."
+- **Tourism Market Shift**: Officials stated that the 2026 target is to attract 6.62 million international tourists. In response to global conditions, marketing focus will shift from long-haul routes to the **Asia-Pacific market** (such as Australia, Southeast Asia, India, China, Japan, and South Korea) to reduce reliance on unstable transit hubs.
 
 ## 🌤️ Weather Forecast
 
-- **Today's Overview**: **Bali** will experience cloudy weather during the day today. **Thunderstorms** are possible.
+- **Today's Overview**: **Bali** will see mostly cloudy skies during the day. **Thunderstorms** are possible.
 
-## 📄 Topics of Interest for Tourists: Volcanoes, Transportation & Visas
+## 📄 Topics of Interest to Travelers: Volcanoes, Traffic & Visas
 
-- **Volcanic Ash Alert Continues**: Recently, **Mount Lewotobi** on Flores Island has remained active, with ash clouds temporarily affecting flights between Australia and Indonesian islands (some airlines were still closely monitoring yesterday). Although Ngurah Rai Airport is currently operating normally, **please be sure to check flight status before traveling**.
-- **Digital Entry Requirements**: Officials reiterated that starting in 2026, travelers must complete the **e-VOA (Electronic Visa on Arrival)** and **Arrival Card** on the "All Indonesia" website before entering Indonesia, as paper processing is no longer available on-site.
-- **Traffic Alert**: Due to the aftermath of yesterday's running event and today's thunderstorms, traffic between Gianyar and Denpasar is slower than usual; additionally, subway construction barriers in the south continue to increase, so it is recommended to allow an extra 30 minutes when heading to the airport.
+- **Volcanic Ash Alert Continues**: **Mount Lewotobi** on Flores Island remains active, with ash clouds recently affecting flights between Australia and Indonesia's outer islands (airlines are still closely monitoring as of yesterday). While Ngurah Rai Airport is operating normally, **please confirm your flight status before departure**.
+- **Digital Entry Requirements**: Officials reiterate that before entering Indonesia in 2026, travelers must complete the **e-VOA (Electronic Visa on Arrival)** and **Arrival Card** on the "All Indonesia" website, as paper forms are no longer available on-site.
+- **Traffic Advisory**: Due to lingering effects from yesterday's road race and today's thunderstorms, traffic on the Gianyar to Denpasar route is slow. Additionally, construction barriers for the southern subway project are increasing, so allow an extra 30 minutes when heading to the airport.
 
-> [「All Indonesia」Arrival Card｜1-Minute Guide to the Latest Process: From Landing → Customs → Baggage Claim](/en/blog/bali-all-indonesia-arrival-guide/)
+> ["All Indonesia" Arrival Card | 1-Minute Guide to the Latest Process: Deplane → Customs → Baggage Claim Full Walkthrough](/en/blog/bali-all-indonesia-arrival-guide/)

@@ -1,11 +1,11 @@
 ---
-title: 2026-05-16 Bali News
+title: >-
+  2026-05-16 Bali News: International Cyber Fraud Busted, Influencer Visa
+  Crackdown
 slug: 16-May-2026-Bali-News
-description: |-
-  Bali News Update
-  Bali News
-  Bali News
+description: Bali News Update
 pubDate: 2026-05-16T00:00:00.000Z
+updatedDate: 2026-07-18T00:00:00.000Z
 pubHour: 6
 category:
   - 新聞存檔
@@ -19,22 +19,22 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 817368763e261a014bc121daf50982c8
+_srcHash: 6e9232794312f94d6b10dff356b3014b
 ---
 
-## 🗞️ Today's Headlines: International Crime and Visa Crackdown
+## 🗞️ Today's Top Stories: International Crime and Strict Visa Enforcement
 
-- **Police Bust Major International Online Scam Ring**: Bali police recently conducted a raid, successfully dismantling an **international online scam base** that allegedly impersonated overseas law enforcement officials and used drugs and weapons to threaten victims for cross-border extortion. A total of 26 foreign suspects (including individuals from China, Taiwan, Malaysia, and the Philippines) were arrested, many of whom lacked valid documents or abused tourist visas. They have all been handed over to immigration authorities for deportation.
-- **Influencers and Remote Workers Face Visa Scrutiny**: Amid growing concerns about overtourism, authorities issued a strong signal in mid-May, officially targeting **influencers, freelancers, remote workers, and volunteers** who use tourist visas for long-term stays. Anyone involved in commercial photography, paid workshops, or earning non-local income online without proper long-term/business visas faces a high risk of deportation.
-- **China-Indonesia Collaboration Advances 'Waste-to-Energy (WtE)' Project**: The Governor of Bali formally met with the Chinese Consul General in Denpasar on May 15 to discuss accelerating the construction of a modern waste-to-energy plant in Badung Regency through cooperation between Indonesia's sovereign wealth fund (Danantara) and Chinese environmental enterprises, aiming to fundamentally solve the island's waste crisis.
+- **Police Dismantle Major International Cyber Fraud Ring**: Bali police recently launched a raid, successfully dismantling an **international cyber fraud base** suspected of impersonating overseas law enforcement officers and using threats involving drugs and weapons for cross-border extortion. The operation resulted in the arrest of 26 foreign suspects (including individuals from China, Taiwan, Malaysia, and the Philippines), many of whom lacked valid documents or abused tourist visas. All have been handed over to immigration authorities pending deportation.
+- **Influencers and Remote Workers Face Visa Crackdown**: Amid growing concerns over overtourism, authorities sent a strong signal in mid-May, officially targeting **influencers, freelancers, remote workers, and volunteers** who use tourist visas for long-term stays. Anyone involved in commercial photography, paid workshops, or earning non-local income online without a compliant long-term or business visa faces a high risk of deportation.
+- **China-Indonesia Corporate Collaboration on Waste-to-Energy (WtE) Project**: On May 15, the Governor of Bali formally met with the Chinese Consul General in Denpasar to discuss accelerating the construction of a modern waste-to-energy processing plant in Badung Regency through cooperation between Indonesia's sovereign wealth fund (Danantara) and Chinese environmental companies, fundamentally addressing the island's waste crisis.
 
-## 📄 Topics of Interest for Tourists: Code of Conduct, Attraction Upgrades, and Cross-Cultural Experiences
+## 📄 Topics of Interest to Tourists: Code of Conduct, Attraction Upgrades, and Cross-Island Culture
 
 ![](https://images.gobaligo.id/images/2026-05/1778652953324-09bd8611-257a-4998-b10e-e798ced74b21.png)
 
-- **Kuta Beach 2026 Revamp Takes Shape**: The Badung Regency government has officially launched an ambitious plan to revitalize Kuta, focusing on spatial reorganization and beach restoration. The first phase of the project has recently begun, emphasizing **widening pedestrian pathways** and **relocating underground utility cables** to restore this historic resort destination to its world-class beauty.
+- **Kuta Beach 2026 Major Revamp Takes Shape**: The Badung Regency government has officially launched an ambitious plan to revitalize Kuta, focusing on spatial reorganization and beach restoration. The first phase of work has recently begun, emphasizing **widening pedestrian walkways** and **relocating and burying all messy underground utility cables**, aiming to restore this historic resort destination to world-class aesthetics.
 
-> [【2026 Bali Transportation Overhaul】Farewell to Chaos! Kuta Area Gets Major Upgrade: Widening Sidewalks, Eliminating Street Parking, Creating a Pedestrian Paradise](/en/blog/2026-kuta-upgrade/)
+> [【2026 Bali Transportation Artery】Say Goodbye to Chaos! Kuta Area Major Upgrade: Wider Sidewalks, Complete Removal of Street Parking, Creating a Pedestrian Paradise](/en/blog/2026-kuta-upgrade/)
 
-- **'Hotline for Reporting' and Code of Conduct Enforcement**: The Immigration Bureau's newly established 24-hour public hotline has received numerous reports recently, with authorities reiterating a zero-tolerance policy toward misconduct by foreigners. Tourists are reminded to wear sarongs when entering sacred sites, avoid climbing sacred trees, and refrain from conflicts with locals or police in public spaces, or face fines and blacklisting.
-- **Immersive Tourism Promotes New Routes**: To alleviate overcrowding in the south, the Badung Tourism Board has recently invited travel agencies to explore new routes, focusing on promoting **cross-cultural alliances between Ubud and Lake Toba in Sumatra**, as well as cultural villages in North and Central Badung (such as participating in cultural dinners at the UNESCO World Heritage Site, Pura Taman Ayun), offering a new direction for tourists seeking less crowded, deeper cultural experiences.
+- **'Report Hotline' and Code of Conduct Enforcement**: The Immigration Office's new 24-hour public reporting hotline has received a high volume of reports recently, with authorities reiterating a zero-tolerance policy for foreigner misconduct. Tourists are reminded to wear a sarong when entering sacred sites, never climb sacred trees, and avoid conflicts with locals or police in public spaces, or face fines and blacklisting.
+- **Immersive Tourism Promotes New Routes**: To disperse the overcrowded southern areas, the Badung Regency Tourism Office has recently invited travel agents from various countries for familiarization trips, focusing on promoting **cross-island cultural alliances between Ubud and Lake Toba in Sumatra**, as well as cultural villages in North and Central Badung (such as attending cultural dinners at the UNESCO World Heritage site—Pura Taman Ayun), offering new directions for deep travel for tourists who dislike crowds.

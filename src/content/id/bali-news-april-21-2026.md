@@ -1,8 +1,11 @@
 ---
 slug: bali-news-april-21-2026
-title: 2026-04-21 Berita Bali
+title: >-
+  2026-04-21 Berita Bali: Hitung Mundur Larangan Pembuangan Sampah Terbuka,
+  Strategi Regionalisasi Pasar Wisata
 description: ''
 pubDate: 2026-04-21T00:00:00.000Z
+updatedDate: 2026-07-18T00:00:00.000Z
 pubHour: 6
 category:
   - 新聞存檔
@@ -15,25 +18,25 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: abd7d2bf53eb2d6f64ee00f853886026
+_srcHash: b01b9f36ad10a8ce8806b850bebc1090
 ---
 
-【Kurs Dolar Pagi Ini: 16,750】
+【Kurs Dolar AS Pagi Ini: 16,750】
 
-Ini dia rangkuman berita Bali untuk **Selasa, 21 April** yang wajib kamu tahu:
+Ini adalah berita Bali yang dirangkum untukmu pada **Selasa, 21 April**:
 
-## 🗞️ Sorotan Hari Ini: Tata Kelola Lingkungan & Perubahan Kebijakan
+## 🗞️ Berita Utama Hari Ini: Tata Kelola Lingkungan dan Transformasi Kebijakan
 
-- **Larangan 'Open Dumping' Sudah di Depan Mata**: Seiring transformasi TPA utama seperti Suwung, pemerintah pusat hari ini menegaskan akan memberlakukan larangan 'pembuangan sampah terbuka' secara ketat. Pemprov sedang mempercepat pembangunan pusat pengolahan sampah regional (TPST) dan mengajak sektor pariwisata serta warga untuk mulai memilah sampah. Artinya, dalam beberapa bulan ke depan, biaya pengangkutan sampah di beberapa daerah mungkin akan dibebankan ke konsumen akhir, atau terjadi penumpukan sampah sementara.
-- **Strategi Regionalisasi Pasar Pariwisata**: Menjawab ketidakpastian rute penerbangan jarak jauh global, Dinas Pariwisata Bali (Dinpar) hari ini menyatakan target 2026 adalah menarik 6,62 juta wisatawan mancanegara, dengan fokus pasar beralih sepenuhnya ke **kawasan Asia-Pasifik** (Australia, India, China, Jepang, Korea, dan Asia Tenggara). Ke depannya, akan ada lebih banyak rute penerbangan langsung dan promosi khusus untuk turis Asia-Pasifik.
+- **Larangan 'Pembuangan Terbuka' Masuk Hitung Mundur**: Seiring transformasi tempat pembuangan akhir utama seperti Suwung, pemerintah pusat hari ini menegaskan akan menerapkan secara ketat kebijakan 'larangan membuang sampah secara terbuka'. Pemerintah provinsi sedang mempercepat pembangunan pusat pengolahan limbah regional (TPST) dan mengimbau industri pariwisata serta warga untuk melakukan pemilahan sampah. Ini berarti dalam beberapa bulan ke depan, biaya pengangkutan di beberapa daerah mungkin akan dialihkan ke konsumen akhir, atau terjadi penumpukan sampah sementara.
+- **Strategi Regionalisasi Pasar Wisata**: Menanggapi ketidakpastian rute jarak jauh global, Dinas Pariwisata Bali (Dinpar) hari ini menyatakan target tahun 2026 adalah menarik 6,62 juta wisatawan internasional, dan akan mengalihkan fokus pasar sepenuhnya ke **kawasan Asia-Pasifik** (Australia, India, China, Jepang, Korea, dan Asia Tenggara). Ke depan, akan ada lebih banyak penerbangan langsung dan promosi yang ditargetkan untuk wisatawan Asia-Pasifik.
 
 ## 🌤️ Prakiraan Cuaca
 
-- **Gambaran Hari Ini**: Cuaca hari ini (21/4) diperkirakan **berawan dengan hujan ringan hingga lebat**, dan malam hari berubah menjadi **berawan**.
-- **Suhu & Kelembapan**: Suhu berkisar antara **25°C - 31°C**, dengan suhu terasa sekitar 25°C.
+- **Gambaran Hari Ini**: Cuaca hari ini (21 April) diperkirakan **berawan dengan hujan ringan atau lebat sesekali**, dan berubah menjadi **berawan** pada malam hari.
+- **Suhu dan Kelembapan**: Suhu berkisar antara **25°C - 31°C**, dengan suhu terasa sekitar 25°C.
 
-## 📄 Topik yang Perlu Diketahui Wisatawan: Pemeriksaan Praktis & Peringatan Lalu Lintas
+## 📄 Topik yang Jadi Perhatian Wisatawan: Pemeriksaan Praktis dan Peringatan Lalu Lintas
 
-- **Pemeriksaan Pajak Wisatawan Diperketat**: Pihak berwenang hari ini mengingatkan bahwa mulai April, pemeriksaan bukti pembayaran **Pajak Wisatawan sebesar Rp150.000** akan diperketat di tempat-tempat wisata populer (seperti Uluwatu, GWK) dan simpul transportasi utama. Harap simpan tangkapan layar QR Code dari aplikasi 'Love Bali' di ponsel kamu, agar tidak terhambat saat pemeriksaan karena sinyal buruk di daerah pegunungan.
-- **Fenomena 'Kawanan' Lebah di Jalan Tol Laut**: Kemarin, jalan tol laut Bali Mandara mengalami gangguan lalu lintas sementara akibat migrasi lebah dalam skala besar. Para ahli mengatakan ini terkait dengan cuaca panas dan arah angin selama masa peralihan musim. Pengendara motor yang melintas hari ini harap waspada; jika bertemu kawanan lebah, tetap tenang dan kurangi kecepatan, jangan panik atau mengibas-ngibaskan tangan di atas jembatan.
-- **Peringatan Lalu Lintas**: Akibat pagar proyek MRT, perjalanan dari bandara ke Canggu masih tidak stabil. Ditambah hujan sore hari yang membuat jalan licin, disarankan bagi penumpang pesawat untuk menyediakan waktu **minimal 2,5 jam** untuk sampai ke bandara.
+- **Pemeriksaan Pajak Wisata Diperketat**: Pemerintah hari ini mengingatkan bahwa mulai April akan ada pemeriksaan mendadak di tempat-tempat wisata populer (seperti Uluwatu, Garuda Wisnu Kencana) dan simpul transportasi utama untuk memeriksa bukti pembayaran **pajak wisata Rp150.000**. Wisatawan disarankan untuk menyimpan tangkapan layar kode QR dari 'Love Bali' di ponsel, untuk menghindari keterlambatan perjalanan akibat sinyal buruk di daerah pegunungan saat pemeriksaan.
+- **Fenomena 'Kawanan' Lebah di Jalan Tol Laut**: Kemarin, migrasi lebah dalam skala besar di Jalan Tol Bali Mandara menyebabkan gangguan lalu lintas sementara. Para ahli mengatakan ini terkait dengan cuaca panas dan arah angin selama pergantian musim (masa transisi) baru-baru ini. Pengendara motor yang melintas di ruas jalan tersebut hari ini harus waspada; jika bertemu kawanan lebah, tetap tenang dan kurangi kecepatan, jangan panik dan mengibas-ngibaskan tangan di atas jembatan.
+- **Peringatan Lalu Lintas**: Akibat pagar pembatas proyek kereta bawah tanah, perjalanan pulang-pergi dari bandara ke Canggu masih tidak stabil. Ditambah lagi dengan hujan sore hari, jalanan mudah licin. Disarankan bagi penumpang pesawat untuk menyisihkan setidaknya **2,5 jam** untuk tiba di bandara.

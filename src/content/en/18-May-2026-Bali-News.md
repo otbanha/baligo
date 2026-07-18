@@ -1,11 +1,9 @@
 ---
-title: 2026-05-18-Bali-News
+title: '2026-05-18 Bali News: Uluwatu Zero Congestion Project, Waste Crisis Warning'
 slug: 18-May-2026-Bali-News
-description: |-
-  Bali News update
-  Bali News
-  Bali News
+description: Bali News update
 pubDate: 2026-05-18T00:00:00.000Z
+updatedDate: 2026-07-18T00:00:00.000Z
 pubHour: 6
 category:
   - 新聞存檔
@@ -19,21 +17,21 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: c5eac72eb8d37a6ebace82011bde0076
+_srcHash: d975d7bdbffa5cdfd6ffcfd18df75336
 ---
 
 ![](https://images.gobaligo.id/vocus/vocus_f48a7964b7329cadd4c36a4ad63e845a.jpg)
 
-## 🗞️ Today's Highlights: Infrastructure Tackles 'Overtourism'
+## 🗞️ Today's Headlines: Infrastructure Tackles 'Overtourism'
 
-- **Uluwatu Launches 'Zero Congestion' Traffic Diversion Project**: The Badung Regency Transportation Department officially held a progress meeting on May 17 to implement a large-scale traffic diversion project in the chronically congested Pecatu and Uluwatu areas in the south. Officials noted that the journey from Canggu to Uluwatu during peak hours often takes over an hour. The new project will focus on widening roads and implementing one-way diversions at six major congestion points, including the Toyoning intersection, aiming to provide tourists with a seamless travel experience.
-- **Overcapacity! Waste Crisis Threatens Tourism Sustainability**: Several Indonesian environmental scholars and local organizations (IWO) issued a joint warning on May 17, stating that Bali's natural carrying capacity can only support about 1.5 million people, but the current population has reached 4.5 million, coupled with millions of tourists, pushing the waste management system to the brink of collapse. Since the Suwung landfill restricted intake, severe delays in waste collection have occurred in areas like West Denpasar. Authorities are urgently promoting the 'Village-Based Waste Sorting (TPS3R)' initiative and transitioning to Chinese-funded waste-to-energy plants to prevent the waste crisis from directly impacting the island's image.
-- **Targeting Central Asian Tourists, ASITA Seeks Direct Flights from Kazakhstan**: The Bali Tourism Association (ASITA) is collaborating with Indonesia's Ministry of Foreign Affairs and Tourism to actively pursue charter and regular flights from Kazakhstan and Uzbekistan to Bali. Official analysis indicates strong demand for tropical islands among high-net-worth individuals in Central Asia. If the routes are successfully launched, Bali can further reduce its reliance on the single European and American market, transforming into an international hub for Central Asian layover tourism.
+- **Uluwatu Launches 'Zero Congestion' Traffic Diversion Project**: On May 17, the Badung Regency Transportation Agency held a progress meeting to finalize a large-scale new traffic diversion plan for the chronically congested Pecatu and surrounding Uluwatu areas. Officials noted that peak-hour travel from Canggu to Uluwatu often takes over an hour. The new project will widen roads and implement one-way diversions at six major congestion points, including the Toyoning intersection, aiming to provide a smooth, congestion-free experience for visitors.
+- **Overloaded Capacity! Waste Crisis Threatens Tourism Sustainability**: On May 17, multiple Indonesian environmental scholars and local organizations (IWO) issued a joint warning, stating that Bali's natural carrying capacity can only support about 1.5 million people. However, the current permanent population has reached 4.5 million, plus millions of tourists, pushing the waste management system to the brink of collapse. Since the Suwung landfill restricted intake, severe collection delays have emerged in areas like West Denpasar. Authorities are urgently promoting 'village-based autonomous waste sorting (TPS3R)' and transitioning to a Chinese-invested waste-to-energy plant to prevent a waste crisis from directly impacting the island's image.
+- **Targeting Central Asian Tourists, ASITA Seeks Direct Flights from Kazakhstan**: The Bali Tourism Association (ASITA), in collaboration with Indonesia's Ministry of Foreign Affairs and Ministry of Tourism, is actively pursuing charter and scheduled direct flights from Kazakhstan and Uzbekistan to Bali. Officials analyze that high-net-worth individuals from Central Asia show strong demand for tropical island destinations. If the routes are successfully launched, Bali can further reduce its reliance on single Western markets and transform into an international layover hub for Central Asian travelers.
 
-## 📄 Visitor Concerns: Visa Scrutiny Expansion and Latest Data
+## 📄 Topics of Interest to Tourists: Expanded Visa Checks & Latest Data
 
-- **2026 Official Report**: Over 3,000 Deported and Blacklisted: The Directorate General of Immigration released its enforcement summary from January 1 to May 5, 2026, on May 17. Data shows that authorities conducted 6,779 enforcement actions against foreigners in the first five months of the year, with 2,026 people deported and their residence permits revoked due to visa violations, and another 1,323 added to the entry blacklist.
-- **'Unpaid Collaboration, Mutual Business Benefits' Also Subject to Violation Crackdowns**: The Immigration Bureau recently clarified the controversial 'mutual shooting' practice: even if there is no monetary transaction involved, such as 'unpaid promotions, mutual modeling, cosmetic collaborations, or self-media endorsements,' as long as the activity holds economic or brand investment value, it is legally considered 'work.' Foreign influencers, photographers, or freelancers on tourist visas (including e-VOA) engaging in such content creation will face fines or blacklisting.
-- **Emergence of 'Low-Density Slow Travel' Areas**: With the overdevelopment of the south, digital nomads and high-end travelers in 2026 are increasingly spreading to Seraya (known for its网红 lighthouse), Penglipuran (the world's cleanest traditional village), and Menjangan Island. These emerging hotspots, marketed as 'low-density, eco-friendly villas that integrate into local community life,' offer more stable long-term rentals and are gradually reshaping Bali's tourism map.
+- **Latest Official Report for 2026**: Over 3,000 Deported and Blacklisted: On May 17, the Directorate General of Immigration released an enforcement summary for January 1 to May 5, 2026. The data shows that in the first five months of this year, authorities conducted 6,779 enforcement actions against foreign nationals. Among them, 2,026 people were directly deported and had their residence permits revoked for visa violations, while another 1,323 were placed on the blacklist and banned from entering the country.
+- **'Unpaid Collaboration, Commercial Reciprocity' Also Subject to Crackdown**: The Immigration Office recently issued an official clarification regarding the widely discussed 'reciprocal photography': even if there is no actual monetary transaction—such as unpaid promotion, model-for-portfolio exchanges, cosmetic collaborations, or social media endorsement—any activity with economic or brand investment value is legally considered 'work.' Foreign influencers, photographers, or freelancers holding tourist visas (including e-VOA) who engage in such content creation will face fines or blacklisting.
+- **Emergence of New 'Low-Density Slow Travel' Areas**: As the south becomes overdeveloped, digital nomads and high-end travelers in 2026 are increasingly moving toward Seraya (known for its iconic lighthouse), Penglipuran (the world's cleanest traditional village), and Menjangan Island. These emerging hotspots are marketed for their 'low density, eco-friendly villas, and opportunities to integrate into local community life,' and offer more stable long-term rentals, gradually reshaping the island's tourism map.
 
-> [Time-Traveling Penglipuran Village: Experience Bali's Ancient Charm](/en/blog/penglipuran-village-bali-experience/)
+> [A Journey Through Time in Penglipuran Village: Experience Bali's Ancient Charm](/en/blog/penglipuran-village-bali-experience/)
