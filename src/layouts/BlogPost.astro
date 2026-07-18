@@ -41,6 +41,12 @@ const cats = Array.isArray(category) ? category : (category ? [category] : []);
 const metaTitle = enhancedTitle(title, cats, lang ?? 'zh-tw');
 const metaDesc  = enhancedDescription(description ?? '', cats, lang ?? 'zh-tw');
 
+// 每日新聞存檔文章時效短、內容薄，45 天後改用 /news/ hub 彙整頁承接排名，
+// 個別舊文加 noindex 避免大量薄內容稀釋全站品質信號（2026-07 流量調查發現的優化項）。
+const NEWS_STALE_DAYS = 45;
+const isStaleNewsArchive = cats.includes('新聞存檔') && pubDate &&
+  (Date.now() - new Date(pubDate).getTime()) / 86400000 > NEWS_STALE_DAYS;
+
 // ── 「答案先講」摘要 ──────────────────────────────────────────────────────────
 // 在文章開頭放一段可見、可被 Google AI 模式/AI Overviews 直接擷取的結論。
 // 來源優先：frontmatter description；缺少時退回內文第一段乾淨文字。
@@ -399,6 +405,7 @@ const spaFaqSchema = isSpaGuide ? {
   />
 
   {isPrivate && <meta name="robots" content="noindex,nofollow" />}
+  {!isPrivate && isStaleNewsArchive && <meta name="robots" content="noindex,follow" />}
 
   <!-- LCP preload: fetch hero image early to reduce Largest Contentful Paint -->
   {ogImage && ogImage !== 'https://gobaligo.id/og-default.jpg' && (

@@ -38,6 +38,26 @@ function getBlogLastmod(slug) {
   return undefined;
 }
 
+// 判斷是否為過期的每日新聞存檔文章（45 天以上），排除於 sitemap 外，
+// 改由 /news/ hub 彙整頁承接排名，避免大量薄內容稀釋全站品質信號。
+const NEWS_STALE_DAYS = 45;
+function isStaleNewsArchive(slug) {
+  const dirs = ['blog', 'en', 'zh-cn', 'zh-hk', 'id'];
+  for (const dir of dirs) {
+    const p = join(process.cwd(), 'src/content', dir, `${slug}.md`);
+    if (existsSync(p)) {
+      try {
+        const { data } = matter(readFileSync(p, 'utf-8'));
+        const cats = Array.isArray(data.category) ? data.category : (data.category ? [data.category] : []);
+        if (!cats.includes('新聞存檔') || !data.pubDate) return false;
+        return (Date.now() - new Date(data.pubDate).getTime()) / 86400000 > NEWS_STALE_DAYS;
+      } catch {}
+      break;
+    }
+  }
+  return false;
+}
+
 // 計算每個 slug 實際存在哪些語言版本（給 sitemap hreflang 用，避免指向 404）
 import { readdirSync } from 'fs';
 const LANG_DIRS = { 'zh-tw': 'blog', 'zh-hk': 'zh-hk', 'zh-cn': 'zh-cn', 'en': 'en', 'id': 'id' };
@@ -63,14 +83,20 @@ export default defineConfig({
     sitemap({
       // 排除不需要 Google 收錄的頁面
       filter(page) {
-        return (
+        if (
           !page.includes('/admin/') &&
           !page.includes('/go/') &&
           !page.includes('/bookmarks') &&
           !page.includes('/index-all') &&
           !page.endsWith('/news-sitemap.xml') &&
           !page.endsWith('/news/rss.xml')
-        );
+        ) {
+          const path = new URL(page).pathname;
+          const blogMatch = path.match(/^(?:\/(en|zh-cn|zh-hk|id))?\/blog\/([^/]+)\/?$/);
+          if (blogMatch && isStaleNewsArchive(blogMatch[2])) return false;
+          return true;
+        }
+        return false;
       },
       serialize(item) {
         const path = new URL(item.url).pathname;
