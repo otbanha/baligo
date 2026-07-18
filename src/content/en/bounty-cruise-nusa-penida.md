@@ -208,7 +208,7 @@ But if it's your first time visiting Nusa Penida, I'd strongly recommend — **a
 
 ![最後的建議：把它當成「海上度假體驗」就對了](https://images.gobaligo.id/images/2026-05/1779116461664-dji_20241120120125_0070_d.jpg.webp)
 
-[Bounty Cruise Klook Discount](https://mn-tz.com/re?campaign_id=137&marker=654252&p=4110&trs=519937&u=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F205637-bali-luxury-and-romantic-evening-dinner-cruise-with-entertainments%2F&product_type=linkswitcher&journey_id=CfEcXJoa7Qb2DkGYBqSLX&trace_id=Zzdcb8b4fbf46a43c0950b9df-654252&promo_kind=tp_other&page_url=https%3A%2F%2Fgobaligo.id%2Fblog%2Fbounty-cruise-nusa-penida%2F&install_type=partner)
+[Bounty Cruise Klook Discount](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F205637-bali-luxury-and-romantic-evening-dinner-cruise-with-entertainments%2F)
 
 ## Further Reading
 
@@ -224,4 +224,4 @@ Because at the end of the day, **'playing in the water' and 'seeing the sights' 
 
 {{block:penidaklook}}
 
-[Bounty Cruise Klook Discount Price](https://mn-tz.com/re?campaign_id=137&marker=654252&p=4110&trs=519937&u=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F205637-bali-luxury-and-romantic-evening-dinner-cruise-with-entertainments%2F&product_type=linkswitcher&journey_id=CfEcXJoa7Qb2DkGYBqSLX&trace_id=Zzdcb8b4fbf46a43c0950b9df-654252&promo_kind=tp_other&page_url=https%3A%2F%2Fgobaligo.id%2Fblog%2Fbounty-cruise-nusa-penida%2F&install_type=partner)
+[Bounty Cruise Klook Discount Price](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F205637-bali-luxury-and-romantic-evening-dinner-cruise-with-entertainments%2F)
