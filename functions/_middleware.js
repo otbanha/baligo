@@ -5,6 +5,8 @@
  * - 已在翻譯語系路徑下則不重複跳轉
  */
 
+import redirectMap from './redirect-map.json';
+
 const LANG_COOKIE = 'gobaligo_lang';
 const COOKIE_MAX_AGE = 60 * 60 * 24 * 365; // 1 年
 
@@ -68,6 +70,18 @@ function buildRedirectUrl(lang, pathname) {
 export async function onRequest({ request, next }) {
   const url = new URL(request.url);
   const pathname = url.pathname;
+
+  // 日期碼舊網址 → 語意 slug 301（改放 middleware 查表：public/_redirects 有
+  // 2,000 條靜態規則上限，超過的會被 Cloudflare Pages 靜默丟棄）。
+  // 必須放在 isBot 放行之前，搜尋引擎爬蟲也要吃到 301。
+  const redirectTarget =
+    redirectMap[pathname] ?? (pathname.endsWith('/') ? undefined : redirectMap[pathname + '/']);
+  if (redirectTarget) {
+    return new Response(null, {
+      status: 301,
+      headers: { 'Location': `${url.origin}${redirectTarget}${url.search}` },
+    });
+  }
 
   // 爬蟲/社群媒體抓取器
   const ua = request.headers.get('user-agent') ?? '';
