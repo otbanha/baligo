@@ -7,15 +7,18 @@ pubHour: null
 category:
   - 叫車包車
 tags: []
+imageAlt: ''
 originalUrl: ''
+source: ''
+sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-07-14T00:00:00.000Z
+updatedDate: 2026-07-19T00:00:00.000Z
 lang: en
-_srcHash: 6156a3641c0a103616b3ae2f5bc329e3
+_srcHash: 2bfafe58984e68de912e991e9294de21
 ---
 
-**What This Page Is**: Page 2 of the Bali private driver "Community Hall of Fame," featuring Chinese-speaking drivers genuinely recommended by Facebook group members. Each driver's "Member Recommendations" links are clickable, original group posts for verification—the more recommendations, the longer the track record. Typical charter rates are around **Rp 600,000–800,000/day (fuel included, ~10 hours)**. When contacting, specify your date, group size, and areas you'd like to visit.
+**What This Page Is**: Page 2 of the Bali private driver "Community Hall of Fame," featuring Chinese-speaking drivers genuinely recommended by Facebook group members. Each driver's "Member Recommendations" links are clickable original group posts for verification—the more recommendations, the longer their reputation has been built. Typical rates are around **Rp 600,000–800,000/day (including fuel, about 10 hours)**. When contacting, mention your date, group size, and areas you'd like to visit.
 
 For Page 1, featuring our top picks, click [here](https://gobaligo.id/en/blog/bali-private-car-drivers-guide/)
 
@@ -33,7 +36,7 @@ For Page 1, featuring our top picks, click [here](https://gobaligo.id/en/blog/ba
 
 👍🏼[Recommendation 1](https://www.facebook.com/groups/baligo/permalink/1424008058146435/) 👍🏼[Recommendation 2](https://www.facebook.com/groups/baligo/permalink/1491640674716506/) 👍🏼[Recommendation 3](https://www.facebook.com/groups/baligo/permalink/1491640674716506/) 👍🏼[Recommendation 4](https://www.facebook.com/groups/baligo/permalink/1520187905195116/) 👍🏼[Recommendation 5](https://www.facebook.com/groups/baligo/permalink/1566672470546659/) 👍🏼[Recommendation 6](https://www.facebook.com/groups/baligo/permalink/1572613913285848/) 👍🏼[Recommendation 7](https://www.facebook.com/groups/baligo/permalink/1580841709129735/) 👍🏼[Recommendation 8](https://www.facebook.com/groups/baligo/permalink/1585601355320437/) 👍🏼[Recommendation 9](https://www.facebook.com/groups/baligo/permalink/1591753798038526/) 👍🏼[Recommendation 10](https://www.facebook.com/share/p/8VRYThs4s1pGYjvh/) 👍🏼[Recommendation 11](https://www.facebook.com/share/p/153msrhAUp/) 👍🏼[Recommendation 12](https://www.facebook.com/share/p/14pukgECBh/) 👍🏼[Recommendation 13](https://www.facebook.com/share/p/15tH9LntDp/) 👍🏼[Recommendation 14](https://www.facebook.com/share/p/1AGnbS7Usi/) 👍🏼[Recommendation 15](https://www.facebook.com/share/p/1578r5eaTS/) 👍🏼[Recommendation 16](https://www.facebook.com/share/p/1ANZSYxXA5/) 👍🏼[Recommendation 17](https://www.facebook.com/share/p/1ANYFF9HPd/) 👍🏼[Recommendation 18](https://www.facebook.com/share/p/166PNTDsEF/) 👍🏼[Recommendation 19](https://www.facebook.com/share/p/1AoyTQa6Ut/) 👍🏼[Recommendation 20](https://www.facebook.com/share/p/1YvZrMzod9/) 👍🏼[Recommendation 21](https://www.facebook.com/share/p/1Hfu77tmut/) 👍🏼[Recommendation 22](https://www.facebook.com/share/p/14XwwPmVjhX/) 👍🏼[Recommendation 23](https://www.facebook.com/share/p/1CKtSKs5k1/) 👍🏼[Recommendation 24](https://www.facebook.com/share/p/1Gdf22t7Dq/)
 
-## Any
+## Any (Annie)
 
 ![Any 安妮](https://images.gobaligo.id/images/2026-03/1774787562092-ani_new.jpg)
 
@@ -123,25 +126,25 @@ For Page 1, featuring our top picks, click [here](https://gobaligo.id/en/blog/ba
 
 ![Gung Bali Wangzi 王子](https://images.gobaligo.id/images/2026-05/1778420410346-new.jpg)
 
-👍🏼[Recommendation 1](https://www.facebook.com/share/p/1Cd1X626mG/) 👍🏼[Recommendation 2](https://www.facebook.com/share/p/1JciR5VxMg/) 👍🏼[Recommendation 3](https://www.facebook.com/share/p/1E7DvWs6xZ/) 👍🏼[Recommendation 4](https://www.facebook.com/share/p/17fp8NSmsP/) 👍🏼[Recommendation 5](https://www.facebook.com/share/p/1NudQpposu/) 👍🏼[Recommendation 6](https://www.facebook.com/share/p/1DrCn85wh6/) 👍🏼[Recommendation 7](https://www.facebook.com/share/p/18kDiE3w2r/) 👍🏼[Recommendation 8](https://www.facebook.com/share/p/1BP7AELXeB/) 👍🏼[Recommendation 9](https://www.facebook.com/share/p/1DvCnKCrA7/) 👍🏼[Recommendation 10](https://www.facebook.com/share/p/17i5s3LAJF/) 👍🏼[Recommendation 11](https://www.facebook.com/share/p/1D6AWxdR57/) 👍🏼[Recommendation 12](https://www.facebook.com/share/p/1BYaLyET5w/) 👍🏼[Recommendation 13](https://www.facebook.com/share/p/18d6a34JTF/) 👍🏼[Recommendation 14](https://www.facebook.com/share/p/1D8QNjhKF6/) 👍🏼[Recommendation 15](https://www.facebook.com/share/p/18hwbDNCPh/) 👍🏼[Recommendation 16](https://www.facebook.com/share/p/1AsUcdwar2/)
+👍🏼[Recommendation 1](https://www.facebook.com/share/p/1Cd1X626mG/) 👍🏼[Recommendation 2](https://www.facebook.com/share/p/1JciR5VxMg/) 👍🏼[Recommendation 3](https://www.facebook.com/share/p/1E7DvWs6xZ/) 👍🏼[Recommendation 4](https://www.facebook.com/share/p/17fp8NSmsP/) 👍🏼[Recommendation 5](https://www.facebook.com/share/p/1NudQpposu/) 👍🏼[Recommendation 6](https://www.facebook.com/share/p/1DrCn85wh6/) 👍🏼[Recommendation 7](https://www.facebook.com/share/p/18kDiE3w2r/) 👍🏼[Recommendation 8](https://www.facebook.com/share/p/1BP7AELXeB/) 👍🏼[Recommendation 9](https://www.facebook.com/share/p/1DvCnKCrA7/) 👍🏼[Recommendation 10](https://www.facebook.com/share/p/17i5s3LAJF/) 👍🏼[Recommendation 11](https://www.facebook.com/share/p/1D6AWxdR57/) 👍🏼[Recommendation 12](https://www.facebook.com/share/p/1BYaLyET5w/) 👍🏼[Recommendation 13](https://www.facebook.com/share/p/18d6a34JTF/) 👍🏼[Recommendation 14](https://www.facebook.com/share/p/1D8QNjhKF6/) 👍🏼[Recommendation 15](https://www.facebook.com/share/p/18hwbDNCPh/) 👍🏼[Recommendation 16](https://www.facebook.com/share/p/1AsUcdwar2/) 👍🏼[Recommendation 17](https://www.facebook.com/share/p/1Q6GLc2v7v/)
 
 ## Gede Mahendra
 
 ![Gede Mahendra](https://images.gobaligo.id/images/2026-06/1781330328310-_2026-06-13_12.57.02.png)
 
-👍🏼[Netizen Recommendation 1](https://www.facebook.com/share/p/1ENRDfkjEw/) 👍🏼[Netizen Recommendation 2](https://www.facebook.com/share/p/17qogSzHU1/) 👍🏼[Netizen Recommendation 3](https://www.facebook.com/share/p/1FVRdBgbNL/) 👍🏼[Netizen Recommendation 4](https://www.facebook.com/share/p/1Kw5mTbHAa/) 👍🏼[Netizen Recommendation 5](https://www.facebook.com/share/p/1JYmnQC1w9/) 👍🏼[Netizen Recommendation 6](https://www.facebook.com/share/p/1CwwL8mTrC/)
+👍🏼[Recommendation 1](https://www.facebook.com/share/p/1ENRDfkjEw/) 👍🏼[Recommendation 2](https://www.facebook.com/share/p/17qogSzHU1/) 👍🏼[Recommendation 3](https://www.facebook.com/share/p/1FVRdBgbNL/) 👍🏼[Recommendation 4](https://www.facebook.com/share/p/1Kw5mTbHAa/) 👍🏼[Recommendation 5](https://www.facebook.com/share/p/1JYmnQC1w9/) 👍🏼[Recommendation 6](https://www.facebook.com/share/p/1CwwL8mTrC/)
 
 ## (Chinese-Speaking Driver) Pacung Xiao Zhong
 
 ![](https://images.gobaligo.id/vocus/vocus_32cb0be85eaac6e77b9076347e048cf9.png)
 
-👍🏼[Netizen Recommendation 1](https://www.facebook.com/share/p/174Txpiw9j/) 👍🏼[Netizen Recommendation 2](https://www.facebook.com/share/p/14DwPUqjsfZ/) 👍🏼[Netizen Recommendation 3](https://www.facebook.com/share/p/19trzp9WYs/) 👍🏼[Netizen Recommendation 4](https://www.facebook.com/share/p/177gUKRAAH/) 👍🏼[Netizen Recommendation 5](https://www.facebook.com/share/p/19xaMLAs1m/) 👍🏼[Netizen Recommendation 6](https://www.facebook.com/share/p/1HkUsoqoZ6/) 👍🏼[Netizen Recommendation 7](https://www.facebook.com/share/p/1DHmDnjYio/) 👍🏼[Netizen Recommendation 8](https://www.facebook.com/share/p/16tDBFbVsA/) 👍🏼[Netizen Recommendation 9](https://www.facebook.com/share/p/1Ah7X3Lyv4/) 👍🏼[Netizen Recommendation 10](https://www.facebook.com/share/p/1DqVkKX881/)
+👍🏼[Recommendation 1](https://www.facebook.com/share/p/174Txpiw9j/) 👍🏼[Recommendation 2](https://www.facebook.com/share/p/14DwPUqjsfZ/) 👍🏼[Recommendation 3](https://www.facebook.com/share/p/19trzp9WYs/) 👍🏼[Recommendation 4](https://www.facebook.com/share/p/177gUKRAAH/) 👍🏼[Recommendation 5](https://www.facebook.com/share/p/19xaMLAs1m/) 👍🏼[Recommendation 6](https://www.facebook.com/share/p/1HkUsoqoZ6/) 👍🏼[Recommendation 7](https://www.facebook.com/share/p/1DHmDnjYio/) 👍🏼[Recommendation 8](https://www.facebook.com/share/p/16tDBFbVsA/) 👍🏼[Recommendation 9](https://www.facebook.com/share/p/1Ah7X3Lyv4/) 👍🏼[Recommendation 10](https://www.facebook.com/share/p/1DqVkKX881/)
 
 ## **Manx Liega**
 
 ![](https://images.gobaligo.id/images/2026-06/1781187526230-_2026-06-11_20.39.43.png)
 
-👍🏼[Netizen Recommendation 1](https://www.facebook.com/groups/baligo/permalink/1499638277250079/) 👍🏼[Netizen Recommendation 2](https://www.facebook.com/groups/baligo/permalink/1512064316007475/) 👍🏼[Netizen Recommendation 3](https://www.facebook.com/groups/baligo/permalink/1556980068182566/) 👍🏼[Netizen Recommendation 4](https://www.facebook.com/groups/baligo/permalink/1568532927027280/) 👍🏼[Netizen Recommendation 5](https://www.facebook.com/groups/baligo/permalink/1574447266435846/) 👍🏼[Netizen Recommendation 6](https://www.facebook.com/groups/baligo/permalink/1588447205035852/) 👍🏼[Netizen Recommendation 7](https://www.facebook.com/groups/baligo/permalink/1577429806137592/) 👍🏼[Netizen Recommendation 8](https://www.facebook.com/share/p/q2YvJPRpehHGSVwX/) 👍🏼[Netizen Recommendation 9](https://www.facebook.com/share/p/1Juf4rGtwAphDuv1/) 👍🏼[Netizen Recommendation 10](https://www.facebook.com/share/p/NJSBRHSQFbRyiSw1/) 👍🏼[Netizen Recommendation 11](https://www.facebook.com/share/p/1WtJZjUnVs/) 👍🏼[Netizen Recommendation 12](https://www.facebook.com/share/p/15kvdyEiQN/) 👍🏼[Netizen Recommendation 13](https://www.facebook.com/share/p/18ztpws3cC/) 👍🏼[Netizen Recommendation 14](https://www.facebook.com/share/p/1CGq8uAZaX/) 👍🏼[Netizen Recommendation 15](https://www.facebook.com/share/p/1LawWCzFjz/) 👍🏼[Netizen Recommendation 16](https://www.facebook.com/share/p/17HEkRf24L/) 👍🏼[Netizen Recommendation 17](https://www.facebook.com/share/p/1CWDjmBc14/)
+👍🏼[Recommendation 1](https://www.facebook.com/groups/baligo/permalink/1499638277250079/) 👍🏼[Recommendation 2](https://www.facebook.com/groups/baligo/permalink/1512064316007475/) 👍🏼[Recommendation 3](https://www.facebook.com/groups/baligo/permalink/1556980068182566/) 👍🏼[Recommendation 4](https://www.facebook.com/groups/baligo/permalink/1568532927027280/) 👍🏼[Recommendation 5](https://www.facebook.com/groups/baligo/permalink/1574447266435846/) 👍🏼[Recommendation 6](https://www.facebook.com/groups/baligo/permalink/1588447205035852/) 👍🏼[Recommendation 7](https://www.facebook.com/groups/baligo/permalink/1577429806137592/) 👍🏼[Recommendation 8](https://www.facebook.com/share/p/q2YvJPRpehHGSVwX/) 👍🏼[Recommendation 9](https://www.facebook.com/share/p/1Juf4rGtwAphDuv1/) 👍🏼[Recommendation 10](https://www.facebook.com/share/p/NJSBRHSQFbRyiSw1/) 👍🏼[Recommendation 11](https://www.facebook.com/share/p/1WtJZjUnVs/) 👍🏼[Recommendation 12](https://www.facebook.com/share/p/15kvdyEiQN/) 👍🏼[Recommendation 13](https://www.facebook.com/share/p/18ztpws3cC/) 👍🏼[Recommendation 14](https://www.facebook.com/share/p/1CGq8uAZaX/) 👍🏼[Recommendation 15](https://www.facebook.com/share/p/1LawWCzFjz/) 👍🏼[Recommendation 16](https://www.facebook.com/share/p/17HEkRf24L/) 👍🏼[Recommendation 17](https://www.facebook.com/share/p/1CWDjmBc14/)
 
 {{block:klook}}
 
@@ -151,4 +154,4 @@ For Page 1, featuring our top picks, click [here](https://gobaligo.id/en/blog/ba
 
 👈 **Back to the Ultimate Bali Travel Guide**
 
-Want the full beginner's guide? [Click here to read the '2026 Bali Ultimate Travel Guide'](/en/blog/bali-ultimate-guide-2026/) and get everything sorted before you go.
+Want the full beginner's guide? [Click here to read the '2026 Ultimate Bali Travel Guide'](/en/blog/bali-ultimate-guide-2026/) and get everything sorted before you go.
