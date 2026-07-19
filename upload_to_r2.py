@@ -6,9 +6,14 @@
 import os, re, time, hashlib, urllib.request, json, subprocess
 from pathlib import Path
 
-# ===== 設定區（換成你的資料）=====
-CF_ACCOUNT_ID = "otbanha"
-CF_API_TOKEN = "RPzv_OhlpvgzYHly08Zwrj55ohizVc8CB8HUetfG"
+# ===== 設定區 =====
+# 憑證一律讀環境變數，不要寫死在檔案裡（這個 repo 是公開的，寫死等於外洩）：
+#   export CF_ACCOUNT_ID="你的 32 碼帳戶 ID"
+#   export CF_API_TOKEN="你的 R2 寫入權限 token"
+CF_ACCOUNT_ID = os.environ.get("CF_ACCOUNT_ID", "")
+CF_API_TOKEN = os.environ.get("CF_API_TOKEN", "")
+if not CF_ACCOUNT_ID or not CF_API_TOKEN:
+    raise SystemExit("❌ 請先設定環境變數 CF_ACCOUNT_ID 與 CF_API_TOKEN（勿寫死在檔案內）")
 R2_BUCKET = "baligo-image"
 R2_PUBLIC_URL = "https://pub-2ae820f1a8d646cda6ce17cdbe17e954.r2.dev"
 # =================================
