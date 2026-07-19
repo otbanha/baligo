@@ -47,6 +47,15 @@ const ogTitle = stripEmoji(title);
 
 // Use provided heroImage URL, or fall back to default OG image
 const ogImage = image && image.startsWith('http') ? image : SITE_OG_IMAGE;
+
+// Google Fonts：按語言只載入需要的字型家族（原本 @import 一次載全部 4 家族 ≈ 252KB render-blocking CSS）。
+// 300 字重全站無人使用故移除；600/800 維持現狀由瀏覽器就近合成（與原本行為一致）。
+const fontsPath = Astro.url.pathname;
+const fontsHref = fontsPath.startsWith('/zh-cn/')
+  ? 'https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap'
+  : (fontsPath.startsWith('/en/') || fontsPath.startsWith('/id/'))
+    ? 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@400;500;700&display=swap'
+    : 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Noto+Sans+TC:wght@400;500;700&display=swap';
 ---
 
 <!-- Global Metadata -->
@@ -94,6 +103,12 @@ const ogImage = image && image.startsWith('http') ? image : SITE_OG_IMAGE;
 <!-- Font preloads -->
 <link rel="preload" href="/fonts/atkinson-regular.woff" as="font" type="font/woff" crossorigin />
 <link rel="preload" href="/fonts/atkinson-bold.woff" as="font" type="font/woff" crossorigin />
+
+<!-- Google Fonts：非阻塞載入（media="print" 先不套用，載完切回 all），display=swap 期間先用系統字型 -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="stylesheet" href={fontsHref} media="print" onload="this.media='all'" />
+<noscript><link rel="stylesheet" href={fontsHref} /></noscript>
 
 <!-- Canonical URL -->
 <link rel="canonical" href={canonicalURL} />

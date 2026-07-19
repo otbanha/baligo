@@ -723,9 +723,9 @@ const socialLinks = [
       if (title) title.textContent = random.title;
     }
 
-    // 從 hero-map.json 載入 heroImage 查詢表（輕量，保證最新）
+    // 從 hero-map.json 載入 heroImage 查詢表（_headers 設 5 分鐘快取＋SWR，夠新又省流量）
     let articleHeroMap = {};
-    fetch('/hero-map.json?v=' + Date.now()).then(r => r.json()).then(map => {
+    fetch('/hero-map.json').then(r => r.json()).then(map => {
       articleHeroMap = map;
       // fetch 完後若目前已在某分類，重新渲染精選（補齊空白 heroImage）
       if (currentCat && currentCat !== 'all') updateFeatured(currentCat);
