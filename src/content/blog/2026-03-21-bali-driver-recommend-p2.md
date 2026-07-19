@@ -7,7 +7,10 @@ pubHour: null
 category:
   - 叫車包車
 tags: []
+imageAlt: ''
 originalUrl: ''
+source: ''
+sourceUrl: ''
 shuffle_h2: true
 embeds: []
 updatedDate: 2026-07-14
@@ -121,7 +124,7 @@ updatedDate: 2026-07-14
 
 ![Gung Bali Wangzi 王子](https://images.gobaligo.id/images/2026-05/1778420410346-new.jpg)
 
-👍🏼[網友推薦1 ](https://www.facebook.com/share/p/1Cd1X626mG/)👍🏼[網友推薦2](https://www.facebook.com/share/p/1JciR5VxMg/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1E7DvWs6xZ/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/17fp8NSmsP/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1NudQpposu/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1DrCn85wh6/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/18kDiE3w2r/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1BP7AELXeB/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1DvCnKCrA7/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/17i5s3LAJF/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/1D6AWxdR57/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/1BYaLyET5w/) 👍🏼[網友推薦 13](https://www.facebook.com/share/p/18d6a34JTF/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/1D8QNjhKF6/) 👍🏼[網友推薦15](https://www.facebook.com/share/p/18hwbDNCPh/) 👍🏼[網友推薦16](https://www.facebook.com/share/p/1AsUcdwar2/)
+👍🏼[網友推薦1 ](https://www.facebook.com/share/p/1Cd1X626mG/)👍🏼[網友推薦2](https://www.facebook.com/share/p/1JciR5VxMg/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1E7DvWs6xZ/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/17fp8NSmsP/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1NudQpposu/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1DrCn85wh6/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/18kDiE3w2r/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1BP7AELXeB/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1DvCnKCrA7/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/17i5s3LAJF/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/1D6AWxdR57/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/1BYaLyET5w/) 👍🏼[網友推薦 13](https://www.facebook.com/share/p/18d6a34JTF/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/1D8QNjhKF6/) 👍🏼[網友推薦15](https://www.facebook.com/share/p/18hwbDNCPh/) 👍🏼[網友推薦16](https://www.facebook.com/share/p/1AsUcdwar2/) 👍🏼[網友推薦17](https://www.facebook.com/share/p/1Q6GLc2v7v/)
 
 ## Gede Mahendra
 
