@@ -6,6 +6,7 @@ description: >-
   集团的优雅美学，提供更具私密感的静谧套房体验。本文详细介绍酒店环境、套房特色与周边景点，带您领略这座隐于田园绿意中的质感据点，是您 2026
   年巴厘岛乌布避世度假的理想之选。
 pubDate: 2026-04-29T00:00:00.000Z
+updatedDate: 2026-07-20T00:00:00.000Z
 pubHour: 21
 category:
   - 住宿推薦
@@ -32,48 +33,48 @@ agoda_star_rating: 5
 latitude: -8.522534
 longitude: 115.26313
 lang: zh-cn
-_srcHash: 14fb8d0e0cae160e1e965c146d88a176
+_srcHash: f8522349f522a815fa133618b3335853
 ---
 
-Alaya Suites Ubud 是 Alaya Hotels & Resorts 旗下**最新开业**的项目，目前是整个集团最新的成员。坐落于 Pengosekan 区，定位比集团旗下老牌的 Alaya Resort 更安静、更私密。整体设计融合现代感与巴厘岛文化元素，提供 45 间套房与 6 间一卧室 Villa，整栋走的是低调奢华路线——不是那种金碧辉煌的热带度假村，而是让人住进去就想放慢脚步的那种地方。**想抢在人潮涌入前体验全新项目，现在正是时机。**
+Alaya Suites Ubud 是 Alaya Hotels & Resorts 旗下**最新开业**的物业，目前是整个集团最新的成员。坐落于 Pengosekan 区，定位比集团旗下老牌的 Alaya Resort 更安静、更私密。整体设计融合现代感与巴厘岛文化元素，提供 45 间套房与 6 间一卧室别墅，整栋走的是低调奢华路线——不是那种金碧辉煌的热带度假村，而是让人住进去就想放慢脚步的那种地方。**想抢在人潮涌入前体验全新物业，现在正是时机。**
 
-![【2026 乌布新酒店】Alaya Suites Ubud 开箱：隐于绿意的静谧质感套房，乌布慢活度假的新据点](https://images.gobaligo.id/images/2026-04/1777472490843-852951792.jpg)
+![【2026 烏布新飯店】Alaya Suites Ubud 開箱：隱身綠意的靜謐質感套房，烏布慢活度假的新據點](https://images.gobaligo.id/images/2026-04/1777472490843-852951792.jpg)
 
-![【2026 乌布新酒店】Alaya Suites Ubud 开箱：隐于绿意的静谧质感套房，乌布慢活度假的新据点](https://images.gobaligo.id/images/2026-04/1777472491419-a611bbc941fec1a34b3b99fb3ce68605.webp)
+![【2026 烏布新飯店】Alaya Suites Ubud 開箱：隱身綠意的靜謐質感套房，烏布慢活度假的新據點](https://images.gobaligo.id/images/2026-04/1777472491419-a611bbc941fec1a34b3b99fb3ce68605.webp)
 
-![【2026 乌布新酒店】Alaya Suites Ubud 开箱：隐于绿意的静谧质感套房，乌布慢活度假的新据点](https://images.gobaligo.id/images/2026-04/1777472492025-f6c7a869824033a0177e603a1550a376.webp)
+![【2026 烏布新飯店】Alaya Suites Ubud 開箱：隱身綠意的靜謐質感套房，烏布慢活度假的新據點](https://images.gobaligo.id/images/2026-04/1777472492025-f6c7a869824033a0177e603a1550a376.webp)
 
-![【2026 乌布新酒店】Alaya Suites Ubud 开箱：隐于绿意的静谧质感套房，乌布慢活度假的新据点](https://images.gobaligo.id/images/2026-04/1777472492671-851866281.jpg)
+![【2026 烏布新飯店】Alaya Suites Ubud 開箱：隱身綠意的靜謐質感套房，烏布慢活度假的新據點](https://images.gobaligo.id/images/2026-04/1777472492671-851866281.jpg)
 
-![【2026 乌布新酒店】Alaya Suites Ubud 开箱：隐于绿意的静谧质感套房，乌布慢活度假的新据点](https://images.gobaligo.id/images/2026-04/1777472493180-7d28b428eeb72d6d2ede07a817f4d540.webp)
+![【2026 烏布新飯店】Alaya Suites Ubud 開箱：隱身綠意的靜謐質感套房，烏布慢活度假的新據點](https://images.gobaligo.id/images/2026-04/1777472493180-7d28b428eeb72d6d2ede07a817f4d540.webp)
 
-![【2026 乌布新酒店】Alaya Suites Ubud 开箱：隐于绿意的静谧质感套房，乌布慢活度假的新据点](https://images.gobaligo.id/images/2026-04/1777472494100-77cce6dcd37e66bcc07fa7107b0f19bd.webp)
+![【2026 烏布新飯店】Alaya Suites Ubud 開箱：隱身綠意的靜謐質感套房，烏布慢活度假的新據點](https://images.gobaligo.id/images/2026-04/1777472494100-77cce6dcd37e66bcc07fa7107b0f19bd.webp)
 
-![【2026 乌布新酒店】Alaya Suites Ubud 开箱：隐于绿意的静谧质感套房，乌布慢活度假的新据点](https://images.gobaligo.id/images/2026-04/1777472494715-787059718.jpg)
+![【2026 烏布新飯店】Alaya Suites Ubud 開箱：隱身綠意的靜謐質感套房，烏布慢活度假的新據點](https://images.gobaligo.id/images/2026-04/1777472494715-787059718.jpg)
 
-![【2026 乌布新酒店】Alaya Suites Ubud 开箱：隐于绿意的静谧质感套房，乌布慢活度假的新据点](https://images.gobaligo.id/images/2026-04/1777472495330-832520057.jpg)
+![【2026 烏布新飯店】Alaya Suites Ubud 開箱：隱身綠意的靜謐質感套房，烏布慢活度假的新據點](https://images.gobaligo.id/images/2026-04/1777472495330-832520057.jpg)
 
-![【2026 乌布新酒店】Alaya Suites Ubud 开箱：隐于绿意的静谧质感套房，乌布慢活度假的新据点](https://images.gobaligo.id/images/2026-04/1777472496048-832521339.jpg)
+![【2026 烏布新飯店】Alaya Suites Ubud 開箱：隱身綠意的靜謐質感套房，烏布慢活度假的新據點](https://images.gobaligo.id/images/2026-04/1777472496048-832521339.jpg)
 
-![【2026 乌布新酒店】Alaya Suites Ubud 开箱：隐于绿意的静谧质感套房，乌布慢活度假的新据点](https://images.gobaligo.id/images/2026-04/1777472496660-832526984.jpg)
+![【2026 烏布新飯店】Alaya Suites Ubud 開箱：隱身綠意的靜謐質感套房，烏布慢活度假的新據點](https://images.gobaligo.id/images/2026-04/1777472496660-832526984.jpg)
 
 ***
 
 ## 📍 位置与周边环境
 
-酒店位于 Jl. Raya Pengosekan 上，距离 ARMA Museum 约 450 米、距离 Monkey Forest 约 950 米、距离 Yoga Barn 约 1.5 公里、距离乌布传统艺术市场与乌布皇宫约 1.9 公里。这个位置妙在哪里？Pengosekan 跟乌布市中心只有一段路的距离，但少了人挤人的商业感，周边有不少本地风格的咖啡馆与画廊，更符合想感受「真正乌布」的旅客口味。
+酒店位于 Jl. Raya Pengosekan 上，距离 ARMA Museum 约 450 米、距离 Monkey Forest 约 950 米、距离 Yoga Barn 约 1.5 公里、距离乌布传统艺术市场与乌布皇宫约 1.9 公里。这个位置妙在哪里？Pengosekan 跟乌布市中心只有一段路的距离，但少了人挤人的商业感，周边有不少本地风格的咖啡厅与画廊，更符合想感受“真正乌布”的旅客口味。
 
-更方便的是，酒店距离姊妹品牌 Alaya Resort Ubud 与 Alaya Grounds（集合了 Pison Coffee、Rayjin、Cerita Manisan、Chon Tea 等餐饮品牌）都只有 500 米，在酒店附近走走就能解决早午餐和下午茶，根本不用费心找餐厅。整个 Pengosekan 区保留了更多本地生活感，适合喜欢在巷弄乱晃、逛小店的旅客。
+更方便的是，酒店距离姐妹品牌 Alaya Resort Ubud 与 Alaya Grounds（集合了 Pison Coffee、Rayjin、Cerita Manisan、Chon Tea 等餐饮品牌）都只有 500 米，在酒店附近走走就能解决早午餐和下午茶，根本不用费心找餐厅。整个 Pengosekan 区保留了更多本地生活感，适合喜欢在巷弄乱晃、逛小店的旅客。
 
 ***
 
 ## 🏨 设施介绍
 
-整栋酒店的设计概念不走传统巴厘岛茅草屋路线，灵感来自巴厘岛的五种自然元素：水（sāgara）、土（bhūmi）、生命（jīva）、气（akasha）、光（sūrya），每个楼层以不同的自然元素为主题，通过雕刻石材、再生木料与层次纹理呈现。走进酒店，不是那种让你眼睛一亮的「哇」，而是让你安静下来的「啊，这里不错」。
+整栋酒店的设计概念不走传统巴厘岛茅草屋路线，灵感来自巴厘岛的五种自然元素：水（sāgara）、土（bhūmi）、生命（jīva）、气（akasha）、光（sūrya），每个楼层以不同的自然元素为主题，通过雕刻石材、再生木料与层次纹理呈现。走进酒店，不是那种让你眼睛一亮的“哇”，而是让你安静下来的“啊，这里不错”。
 
 泳池区是酒店的放松核心，设有一座主泳池，环境安静，节奏舒缓。健身房配备 Technogym 机台与自由重量器材。
 
-餐饮方面有几个亮点：Carbón 餐厅的灵感来自墨西哥与秘鲁料理，主打明火炭烤，菜单以当季食材与拉丁美洲风格为主，在乌布能有这种选择算是少见。除此之外还有 Baker Butcher Barista（轻食咖啡选项）、Pool Bar 和 Tequila & Cigar Lounge，夜晚有地方小酌。早餐采单点制，住客评论普遍反映品质不错。
+餐饮方面有几个亮点：Carbón 餐厅的灵感来自墨西哥与秘鲁料理，主打明火炭烤，菜单以当季食材与拉丁美洲风格为主，在乌布能有这种选择算是少见。除此之外还有 Baker Butcher Barista（轻食咖啡选项）、Pool Bar 和 Tequila & Cigar Lounge，夜晚有地方小酌。早餐采用单点制，住客评论普遍反映品质不错。
 
 Spa 部分沿用 Alaya 集团的招牌品牌 DaLa Spa，设有 6 间疗愈室，以巴厘岛自然元素为核心概念，每项疗程都根植于巴厘岛传统养生智慧，使用天然原料。
 
@@ -83,39 +84,39 @@ Spa 部分沿用 Alaya 集团的招牌品牌 DaLa Spa，设有 6 间疗愈室，
 
 套房分为 King Suite（大床）与 Twin Suite（双床）两种，房型均为 65 平方米，配备私人阳台、浴缸与淋浴间，天然色调搭配层次纹理设计，氛围安静。Villa 为一卧室规格，面积 100 平方米，附私人泡池，面向乌布绿意，含户外日光浴椅与户外餐饮区。
 
-![房型介绍](https://images.gobaligo.id/images/2026-04/1777472682366-fffd3905d66e6da5545a409f0d9e58c1.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777472682366-fffd3905d66e6da5545a409f0d9e58c1.webp)
 
-![房型介绍](https://images.gobaligo.id/images/2026-04/1777472682928-19adb99d99838fe1862717c78d22d6b0.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777472682928-19adb99d99838fe1862717c78d22d6b0.webp)
 
-![房型介绍](https://images.gobaligo.id/images/2026-04/1777472683543-1841621b5a3e7b840cc3bb4e0e01e1af.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777472683543-1841621b5a3e7b840cc3bb4e0e01e1af.webp)
 
-![房型介绍](https://images.gobaligo.id/images/2026-04/1777472684048-710537273.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777472684048-710537273.jpg)
 
-![房型介绍](https://images.gobaligo.id/images/2026-04/1777472684963-710548136.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777472684963-710548136.jpg)
 
-![房型介绍](https://images.gobaligo.id/images/2026-04/1777472685689-763342072.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777472685689-763342072.jpg)
 
-![房型介绍](https://images.gobaligo.id/images/2026-04/1777472686299-763342078.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777472686299-763342078.jpg)
 
-![房型介绍](https://images.gobaligo.id/images/2026-04/1777472686805-a3c1c1f815c0b011192516c1a8cc585b.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777472686805-a3c1c1f815c0b011192516c1a8cc585b.webp)
 
 ▲全馆 51 间客房均配备空调、Smart TV、免费 Wi-Fi，浴室采用分离式浴缸与淋浴设计，部分房型含 minibar（含部分免费饮品）。
 
-![房型介绍](https://images.gobaligo.id/images/2026-04/1777472822019-8e6939614ad0f2096a4297f6e073eda4.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777472822019-8e6939614ad0f2096a4297f6e073eda4.webp)
 
-![房型介绍](https://images.gobaligo.id/images/2026-04/1777472822599-805cf84bd1a18c785dd952bc0e7ebfb7.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777472822599-805cf84bd1a18c785dd952bc0e7ebfb7.webp)
 
-![房型介绍](https://images.gobaligo.id/images/2026-04/1777472823216-853a591959aa2854b16157b06e68c983.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777472823216-853a591959aa2854b16157b06e68c983.webp)
 
-![房型介绍](https://images.gobaligo.id/images/2026-04/1777472823830-1951e371b3683b718aaa9ca74aab05f2.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777472823830-1951e371b3683b718aaa9ca74aab05f2.webp)
 
-![房型介绍](https://images.gobaligo.id/images/2026-04/1777472824337-710537210.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777472824337-710537210.jpg)
 
-![房型介绍](https://images.gobaligo.id/images/2026-04/1777472824860-710537288.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777472824860-710537288.jpg)
 
-![房型介绍](https://images.gobaligo.id/images/2026-04/1777472825360-787058557.jpg)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777472825360-787058557.jpg)
 
-![房型介绍](https://images.gobaligo.id/images/2026-04/1777472825990-a0a795ffaebb960680b68844827cf8a9.webp)
+![房型介紹](https://images.gobaligo.id/images/2026-04/1777472825990-a0a795ffaebb960680b68844827cf8a9.webp)
 
 ▲预算允许的话，推荐直接订 Villa——私人泡池加上乌布的绿景，早上泡个澡配鸟叫声，这才是来乌布的意义。
 
@@ -133,13 +134,13 @@ Spa 部分沿用 Alaya 集团的招牌品牌 DaLa Spa，设有 6 间疗愈室，
 
 另一则评论细细列出服务团队的名字——餐厅、Spa、接驳司机、管家——每一位都有具体评价，说这种个性化服务的细致程度「非常罕见」。能在新开业初期就收到这种等级的评论，服务底子显然不差。
 
-![住客真实评论](https://images.gobaligo.id/images/2026-04/1777472937188-caption.jpg)
+![住客真實評論](https://images.gobaligo.id/images/2026-04/1777472937188-caption.jpg)
 
 ***
 
 ### 📌 订房信息
 
 > ⭐ Agoda 评价9.1｜Tripadvisor 5⭐ 满分|
-> [订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=76588180) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=130201816&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6wMTFJMEkdZOJY-u0n4vZhBgNLH4LOvYf-qoRs2-qgyeY4TTDIYAnYsqB59PYE72qm_V9jgQ6FDKAQMNsh0ZGzRigqv9THboYWcFqZjDe-Nhlt5ERrEIhxWEHI9MBRqYTjGstFjBt_txld4qFmeMN6yWW3YzR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJubWOgZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrI19xMIUHfuJheEX0DNv7ZtYGbpYmTlOMU0CkmstdrGyBYVGRvpFXWB9UiWlYmhgYGBqaGxqqmuQaJmYYmRkoGtiaWJsYK5raGlsZG5sbmxoqnH61bPpT42NrKUggajAqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzdDZ2djcNcqGi9nTJUjw3n-WXG1lS3sp5pBwF8WVN5nXHphw2l4LJGcIkwu0-CLG_95ygX0kTD6JtSpDNyQ8o1e8gLGBkamLkVuA0YMxgrECyGNcxciwgZFxB-N_GGB8xQgyHQC1aCLtSgIAAA&masterhotelid_tracelogid=100051355-0a9ad220-494307-1932737315&detailFilters=17|1~17~1*31|130201816~31~130201816*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=930&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/frHafpgn)
+> [订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=76588180) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-130201816/alaya-suites-ubud/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/frHafpgn)
 
 {{block:ubud}}

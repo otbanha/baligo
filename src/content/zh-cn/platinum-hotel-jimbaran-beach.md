@@ -1,11 +1,11 @@
 ---
-title: '[金巴兰CP值最高] USD$70起入住2024新开幕 Platinum Hotel Jimbaran Beach'
+title: '[金巴兰性价比最高] USD$70起入住2024新开幕 Platinum Hotel Jimbaran Beach'
 slug: platinum-hotel-jimbaran-beach
 description: >-
-  这间全新开幕的 Platinum Hotel Jimbaran Beach Bali 位于巴厘岛金巴兰，距离著名的 Kedonganan Beach
-  和金巴兰海滩只需步行就可以到达
+  这间全新开幕的 Platinum Hotel Jimbaran Beach Bali 位于巴厘岛金巴兰，距离著名的 Kedonganan Beach 和
+  金巴兰海滩 只需步行就可以到达
 pubDate: 2025-02-07T00:00:00.000Z
-updatedDate: 2026-07-10T00:00:00.000Z
+updatedDate: 2026-07-20T00:00:00.000Z
 pubHour: null
 category:
   - 住宿推薦
@@ -38,9 +38,9 @@ agoda_hotel_name: 峇里島金巴蘭海灘白金飯店
 agoda_hotel_id: 47017338
 latitude: -8.762973
 lang: zh-cn
-_srcHash: 5ef4616c276cb91ad74c0d2ed982a592
+_srcHash: 18d44dda679c7739c65b0287088ea7b2
 ---
-**先说结论**：Platinum Hotel Jimbaran Beach 房价 **USD$70 起**，五星评等，距 Kedonganan Beach/金巴兰海滩仅**步行 30 秒**，距机场仅 **1 公里**（提供付费接送），CP 值极高，适合想要海滩近、机场近、又不想花大钱的旅客。
+**先说结论**：Platinum Hotel Jimbaran Beach 房价 **USD$70 起**，五星评级，距 Kedonganan Beach/金巴兰海滩仅**步行 30 秒**，距机场仅 **1 公里**（提供付费接送），性价比极高，适合想要海滩近、机场近、又不想花大钱的旅客。
 
 {{block:test}}
 
@@ -114,7 +114,7 @@ _srcHash: 5ef4616c276cb91ad74c0d2ed982a592
 
 ## **无限量自助餐等你来享受！**
 
-### **🌅 无限畅享！夕阳美景 x 特色主题自助餐 Buffet 🌟**
+### **🌅 无限畅享！夕阳美景 x 特色主题自助餐 🌟**
 
 想象一下，在唯美的日落时分，一边品尝来自世界各地的美食，一边沉浸在轻松愉悦的音乐氛围中——这正是 **Platinum Hotel Jimbaran Beach Bali** 的 **Infinity Sunset Bar** 为您带来的极致用餐体验！
 
@@ -142,7 +142,7 @@ _srcHash: 5ef4616c276cb91ad74c0d2ed982a592
 
 👉 **建议提前预订，确保最佳用餐体验！**
 
-自助餐预订电话: +62 811 39012 828⁣⁣
+吃到饱订位专线: +62 811 39012 828⁣⁣
 
 ***
 
@@ -152,15 +152,15 @@ _srcHash: 5ef4616c276cb91ad74c0d2ed982a592
 
 ✅ **无敌海景 & 绝佳地理位置，步行即达金巴兰海滩**
 
-✅ **丰富餐饮选择，每晚主题自助餐吃到饱**
+✅ **丰富餐饮选择，每晚主题吃到饱自助餐**
 
-✅ **亲子友好、长住适宜，提供多样房型选择**
+✅ **亲子友善、长住适宜，提供多样房型选择**
 
 ✅ **贴心服务 & 高规格设施，满足所有旅客需求**
 
-无论是 **蜜月旅行**、**家庭度假**，还是 **朋友结伴同行**，这里都是你不可错过的梦幻度假胜地！✨
+无论是 \*\*_蜜月旅行_**、**_家庭度假_\*\*，还是 **朋友结伴同行**，这里都是你不可错过的梦幻度假胜地！✨
 
-> **USD$70起，**[请看Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47017338) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=114658134&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-M6xcTFJMEkdZiJo3PW5TdsQowGFr8FHRlA4EaNg2fr68AdcqYNDgE8EVMOPJ_Gnig9L07z9A0fhy5GVrDADMZr066ZbWQM2iHX-nqij8MORqYDjEwnGF8JLWB6BJQ5xcLM0cl0iWU3Y3S1UnZqpZKViY5SSWZJTqqSldLTRfOeNux5vqJVSUcpJbU4GSgEZCXm5pfmlQDZRmamegYGQJGSxArPFLDO5MSc5NKcxJLUkMoCoAlmOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlhQyQ9oTBFUIDM_D6LdEEUsLDGnNBXiBKCFbqlQOwxrYx-xMEXHfmJh-MXC0MTK0MXKzNHDNAlIvhLaxcoWYuIV5Bt1gfWbiJS8oYGBgamhsamprkGiZaKZgWGKromliZGZsa6hoYWFucb8eZ9PPTE2spaCBJ4Co5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNhMXE0c3gygbLmZPlyDB_B1KDjlWlvZSzCHhLoo2e4OmKfadttcCyRnC5ALXb_2-UstkgX3kPz7XRruJp-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxgZNjAy7mD8DwOMrxhBpgMAO7ydwi8CAAA&masterhotelid_tracelogid=100051355-0a9a601d-494263-11887&detailFilters=17|1~17~1*31|114658134~31~114658134*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1232&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/QlGba9Tm)
+> **USD$70起，**[请看Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47017338) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-114658134/platinum-hotel-jimbaran-beach-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/QlGba9Tm)
 
 ***
 
@@ -178,13 +178,13 @@ _srcHash: 5ef4616c276cb91ad74c0d2ed982a592
 
 酒店的地理位置真的没话说，顶楼露台的景观无可挑剔，可以俯瞰整片金巴兰沙滩，白天和夜晚各有不同的美感。不过，刚入住的房间有较浓的消毒水味道，后来更换后改善不少。此外，因为临海的关系，晚上仍能听到一些环境噪音（如远处的音乐声或野狗叫声），对声音较敏感的旅客可能需要准备耳塞。不过以这个价格来说，还是非常值得入住的选择！
 
-> **USD$70起，**[请看 Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47017338) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=114658134&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-M6xcTFJMEkdZiJo3PW5TdsQowGFr8FHRlA4EaNg2fr68AdcqYNDgE8EVMOPJ_Gnig9L07z9A0fhy5GVrDADMZr066ZbWQM2iHX-nqij8MORqYDjEwnGF8JLWB6BJQ5xcLM0cl0iWU3Y3S1UnZqpZKViY5SSWZJTqqSldLTRfOeNux5vqJVSUcpJbU4GSgEZCXm5pfmlQDZRmamegYGQJGSxArPFLDO5MSc5NKcxJLUkMoCoAlmOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlhQyQ9oTBFUIDM_D6LdEEUsLDGnNBXiBKCFbqlQOwxrYx-xMEXHfmJh-MXC0MTK0MXKzNHDNAlIvhLaxcoWYuIV5Bt1gfWbiJS8oYGBgamhsamprkGiZaKZgWGKromliZGZsa6hoYWFucb8eZ9PPTE2spaCBJ4Co5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNhMXE0c3gygbLmZPlyDB_B1KDjlWlvZSzCHhLoo2e4OmKfadttcCyRnC5ALXb_2-UstkgX3kPz7XRruJp-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxgZNjAy7mD8DwOMrxhBpgMAO7ydwi8CAAA&masterhotelid_tracelogid=100051355-0a9a601d-494263-11887&detailFilters=17|1~17~1*31|114658134~31~114658134*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1232&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/QlGba9Tm)
+> **USD$70起，**[请看 Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47017338) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-114658134/platinum-hotel-jimbaran-beach-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/QlGba9Tm)
 
-## 更多金巴兰吃喝玩樂介紹
+## 更多金巴兰吃喝玩乐介绍
 
 ![更多金巴蘭吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_c81d870630ca07dead1d2e8614f923c4.jpg)
 
-[金巴兰完整攻略請點我](/zh-cn/blog/jimbaran-guide/)
+[金巴兰完整攻略请点我](/zh-cn/blog/jimbaran-guide/)
 
 金巴兰（Jimbaran）是巴厘岛上一个以浪漫气氛和美食闻名的海滨天堂，拥有迷人的金色沙滩与壮丽的日落景色。这里的海鲜烧烤餐厅一条街是不可错过的美食体验，同时还有豪华度假村和宁静的渔村风情，让旅客既能享受奢华又能贴近当地生活。无论是家庭出游还是浪漫约会，金巴兰都能满足您的期待！想了解更多金巴兰？[请点击这里](/zh-cn/blog/jimbaran-guide/)。
 

@@ -5,6 +5,7 @@ description: >-
   这趟巴厘岛自由行没有热门打卡景点，只有海景下午茶、Beach
   Club、Spa、公益参访与沙努尔慢生活。分享我的生日疗愈旅行行程、水明漾与沙努尔住宿、电子签证、观光税与实际旅游心得。
 pubDate: 2026-06-24T00:00:00.000Z
+updatedDate: 2026-07-20T00:00:00.000Z
 pubHour: 18
 category:
   - 遊記分享
@@ -25,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 9345c4353be2ba27e81bb254bc662959
+_srcHash: f0de1d33eb6e1af3adc5ba0dcb73055b
 ---
 
 > 热心的社团专家 [赖佳莹图文](https://www.facebook.com/share/p/1JXiVYHAdi/) 提供
@@ -52,7 +53,7 @@ _srcHash: 9345c4353be2ba27e81bb254bc662959
 这次从桃园机场搭乘中华航空 CI771 经济舱出发。
 原本是一般经济舱，后来临时加价约 USD$84 升等豪华经济舱。
 
-老实说，以这段航程来看，我自己觉得 CP 值蛮高的 👍
+老实说，以这段航程来看，我自己觉得性价比蛮高的 👍
 座位空间舒服不少，餐点跟整体搭乘感受也有差，对于一落地就想直接开始跑行程的人来说，精神状态真的差很多。
 
 ***
@@ -78,7 +79,7 @@ _srcHash: 9345c4353be2ba27e81bb254bc662959
 观光税我也是先线上缴好，大约 USD$10。
 现在巴厘岛很多流程都慢慢电子化，提前处理真的会省下很多时间。
 
-> [2025巴厘岛入境变革一分钟搞懂：印尼/巴厘岛入境流程 - 下飞机/过海关/到领行李的流程](https://gobaligo.id/zh-cn/blog/2025-bali-immigration-process/)
+[2025巴厘岛入境变革一分钟搞懂：印尼/巴厘岛入境流程 - 下飞机/过海关/到领行李的流程](https://gobaligo.id/zh-cn/blog/2025-bali-immigration-process/)
 
 ***
 
@@ -150,7 +151,7 @@ https://youtube.com/shorts/Rd0qfDV72bM
 
 ![Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-05/1780132315197-c46e84479089823e865fa0d893fb636c.webp)
 
-空房 & 房价查询：[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=45546) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685500&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-NqZuFikmCS-sPM0dWxZyabEKeRsYW5hYmlgZHBbE6LlYmOIuvcH1ZZlDt47pBrfR0YUuMQwDODcc9rzRWMjBsZ-w991YjJD3HYwch0gJHpBOP3Xs8FTG93rJA9xcLCcWA67yWW30zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZBsaWBgYGOgZGAAFSxIrPFPAmpMTc5JLcxJLUkMqC4CGmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiCuAFrqlQu0wrNXBdPyzOb1Pu2e-2LSbaMebU9vxBsQ43rg29hELU3TsJxaGXywMTawMXawMk1hZOIBxtIuVN8jTP8TIQ9c5wjQgKkJK0RDoZiNTUyNzXYNEy8QkQzMLXRNLExMLA11TM1MTc0Mjjf3fXh14bmxkosCoJRgf4unpYlhSmGpWWGqZU1RgasB4ilHK0NzYwtDI0NDIyMjSWM_EIs2s2CKv2CI3K8KDMYjNxcXI1dIwyoaLOTTYRfDx8Rm7pwlIO0gxe7oEKdrxTnl945yFvRaIZwjjBU78WSyWGsRrHwkTSWKtytANCc_oFS9gbGBk6mLkFmD0YIxgrADyGFcxMmxgZNzB-B8GGF8xgswDAJi5mHrjAgAA&masterhotelid_tracelogid=100025527-0a9ab168-494480-5654712&detailFilters=17|1~17~1*31|685500~31~685500*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=363&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109) [Booking](https://booking.tpm.li/KYvRaNYn)
+空房 & 房价查询：[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=45546) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685500/pelangi-bali-hotel-and-spa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/KYvRaNYn)
 
 {{block:smk}}
 
@@ -163,9 +164,9 @@ https://youtube.com/shorts/Rd0qfDV72bM
 
 ### 🌞 清晨的水明漾海滩，比白天还迷人
 
-早上大概六点左右，直接从饭店后门走出去就是沙滩。
+早上大概六点左右，直接从酒店后门走出去就是沙滩。
 
-这也是我很喜欢住海边饭店的原因。
+这也是我很喜欢住海边酒店的原因。
 不用特别排行程，光是早晨醒来能直接踩在沙滩上散步，就已经很值得。
 
 一早的水明漾海滩跟晚上完全不同。
@@ -180,7 +181,7 @@ https://youtube.com/shorts/Rd0qfDV72bM
 
 白天安排去了现在话题度很高的 Atlas Beach Club。
 
-![Atlas Beach Club｜传说中的全球最大 Beach Club](https://images.gobaligo.id/images/2026-06/1781014745875-atlas2.jpg)
+![Atlas Beach Club｜傳說中的全球最大 Beach Club](https://images.gobaligo.id/images/2026-06/1781014745875-atlas2.jpg)
 
 Atlas Beach Club 赖佳莹提供
 
@@ -199,7 +200,7 @@ Atlas Beach Club 赖佳莹提供
 
 下午跑到努沙杜瓦的凯宾斯基吃下午茶。
 
-![努沙杜瓦 凯宾斯基下午茶｜海景真的加很多分](https://images.gobaligo.id/images/2026-06/1781014825527-kemp1.jpg)
+![Nusa Dua 凱賓斯基下午茶｜海景真的加很多分](https://images.gobaligo.id/images/2026-06/1781014825527-kemp1.jpg)
 
 The Apurva Kempinski Bali 赖佳莹提供
 
@@ -238,14 +239,14 @@ Bali Life Foundation 赖佳莹提供
 但同时，他们又不是苦闷的。
 反而会一直笑、一直聊天，甚至还主动帮忙招呼大家。
 
-![Bali Life Foundation｜这趟旅程最深刻的一站](https://images.gobaligo.id/images/2026-06/1781014986137-bali_life_foundation2.jpg)
+![Bali Life Foundation｜這趟旅程最深刻的一站](https://images.gobaligo.id/images/2026-06/1781014986137-bali_life_foundation2.jpg)
 
 赖佳莹提供
 
 基金会晚上六点会一起吃晚餐，访客也可以留下来一起用餐。
 比起单纯「参观」，那更像是一种短暂进入他们生活里的感觉。
 
-另外他们也有经营一间幼稚园，提供半天到全天托育服务。
+另外他们也有经营一间幼儿园，提供半天到全天托育服务。
 很多来巴厘岛冲浪、工作的外国爸妈会把孩子送来，这部分收入也会回头补贴基金会运作。
 
 我自己很喜欢这种模式。
@@ -287,24 +288,24 @@ Bali Life Foundation 赖佳莹提供
 
 ![Respati Beach Hotel - 位置超方便](https://images.gobaligo.id/images/2026-05/1780133411307-45699611.jpg)
 
-空房 & 房价查询：[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2973771) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685474&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-PaycTFJMEktYmJY-rZ5cuZhBiNDO4zWmyVdwzaIdf62rHOwfPsGSBwaXII4JnBuOi15kZG-dbXgTvkIh12MDIdYGQ6wbh6adwCpsNXXzGeYmHh2DpL4BLLXsboaqXs1EolKxMdpZLMkpxUJSulp4vmPW3Y83xFq5KOUkpqcTJQCMhKzM0vzSsBso3MTE2NTPUMDICCJYkVnilgzcmJOcmlOYklqSGVBUBDjHSUMoudS4oyC4JSczNLSlKBqtISc4pTQeJBqcVAmWSwIMjoIig_Mz8PotsARSwsMac0FaISaJ9bKtQKw9rYRyxM0bGfWBh-sTA0sTJ0sTJMYmXhAPpyFyuPt49_uKOvrqFulK6hlKKhgYGBEdDZ5roGiZbGiaaWRromliYmFoa6xgYGlsYWZhrLVj09-NzYyESBUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm4mjsYmFcZQNF3NosIvg4-Mzdk8TkHaQYvZ0CVK0453y-sY5C3stEM8Qxguc-LNYLDWI1z4SJpLEWpWhGxKe0StewNjAyNTFyC3A6MEYwVgB5DGuYmTnYjYwMhRg2sDIuIPxPwwwvmIEGQsAELT2giACAAA&masterhotelid_tracelogid=100025527-0a93a592-494481-3009386&detailFilters=17|1~17~1*31|685474~31~685474*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1602&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109) [Booking](https://booking.tpm.li/DQtXL8Cn)
+空房 & 房价查询：[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2973771) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685474/respati-beach-hotel/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/DQtXL8Cn)
 
 ***
 
-### 🛍️ Icon Bali Mall｜最近很火的海景商场
+### 🛍️ Icon Bali Mall｜最近很红的海景商场
 
-放完行李后，我们又跑去逛了Icon Bali Mall。
+放完行李后，我们又跑去逛Icon Bali Mall。
 
-![Icon Bali Mall｜最近很火的海景商场](https://images.gobaligo.id/images/2026-06/1781015028030-icom.jpg)
+![Icon Bali Mall｜最近很紅的海景商場](https://images.gobaligo.id/images/2026-06/1781015028030-icom.jpg)
 
 ICON Bali Mall 赖佳莹提供
 
-这家算是最近沙努尔讨论度很高的新商场。
+这间算是最近沙努尔讨论度很高的新商场。
 最大的特色就是「海景」。
 
-很多位置都能直接看到海，加上整体空间蛮新、冷气也够强（笑），现在已经变成不少人到沙努尔会顺便安排的地方。
+很多位置都能直接看到海，加上整体空间蛮新、冷气也够强（笑），现在已经变成不少人來沙努尔会顺便安排的地方。
 
-![Icon Bali Mall｜最近很火的海景商场](https://images.gobaligo.id/images/2026-06/1781015168659-secret_garden.jpg)
+![Icon Bali Mall｜最近很紅的海景商場](https://images.gobaligo.id/images/2026-06/1781015168659-secret_garden.jpg)
 
 这次还顺手买了Secret Garden的香氛。赖佳莹提供
 印尼其实很多香氛品牌价格都不错，有些味道也很有热带感，很适合带回家当伴手礼。
@@ -314,7 +315,7 @@ ICON Bali Mall 赖佳莹提供
 第三天完全没有硬排行程。
 睡到自然醒后，决定把整天都留给沙努尔。
 
-![Day 3｜在沙努尔慢下来的一天，温柔到让人舍不得离开](https://images.gobaligo.id/images/2026-06/1781015212224-sanur1.jpg)
+![Day 3｜在沙努爾慢下來的一天，溫柔到讓人捨不得離開](https://images.gobaligo.id/images/2026-06/1781015212224-sanur1.jpg)
 
 赖佳莹提供
 
@@ -325,16 +326,16 @@ ICON Bali Mall 赖佳莹提供
 
 ### 🌅 沙努尔海滩散步｜清晨的海风真的很温柔
 
-早上直接到 Sanur Beach 散步。
+早上直接到Sanur Beach散步。
 
 沙努尔的海跟巴厘岛西岸很不一样。
-这里的海浪比较平静，清晨时整片海面甚至有镜面的感觉。
+这里的海浪比较平静，清晨时整片海面甚至有那种镜面的感觉。
 
-没有 Beach Club 的音乐，也没有满满的人潮。
-只有散步的人、骑脚踏车的人，还有坐在海边发呆的人。
+没有Beach Club的音乐，也没有满满的人潮。
+只有散步的人、骑自行车的人，还有坐在海边发呆的人。
 
 我很喜欢沙努尔早上的空气。
-海风不是强烈那种，而是很柔和、很舒服，会让人不自觉慢下来。
+海风不是强烈的那种，而是很柔和、很舒服，会让人不自觉慢下来。
 
 有时候旅行最疗愈的时刻，其实不是去了多少景点，而是什么都没做，只是坐在海边看着海平线发呆。
 
@@ -344,9 +345,9 @@ ICON Bali Mall 赖佳莹提供
 
 这次还特地从台湾带了一些娃娃过来捐赠。
 
-这家“微笑商店”其实是由巴厘岛微笑基金会运营的二手义卖店。
+这间「微笑商店」其实是由巴厘岛微笑基金会运营的二手义卖店。
 
-![微笑商店｜比购物更有意义的一站](https://images.gobaligo.id/images/2026-06/1781015250988-smile_shop.jpg)
+![微笑商店｜比購物更有意義的一站](https://images.gobaligo.id/images/2026-06/1781015250988-smile_shop.jpg)
 
 Yayasan Senyum Bali 赖佳莹提供
 
@@ -364,9 +365,9 @@ Yayasan Senyum Bali 赖佳莹提供
 
 这次刚好也参加到一场很特别的跨国钩针聚会。
 
-来自不同国家的人聚在一起，一针一线地钩织“义乳”。
+来自不同国家的人聚在一起，一针一线地钩织「义乳」。
 
-![一场很温暖的跨国钩针聚会](https://images.gobaligo.id/images/2026-06/1781015375794-lady_bumps.jpg)
+![一場很溫暖的跨國鉤針聚會](https://images.gobaligo.id/images/2026-06/1781015375794-lady_bumps.jpg)
 
 赖佳莹提供
 
@@ -386,7 +387,7 @@ Yayasan Senyum Bali 赖佳莹提供
 
 这次一样去了我几乎每次来都会回访的 The Nest Boutique Spa。
 
-![‍ 每次来沙努尔几乎都会按的 Spa](https://images.gobaligo.id/images/2026-06/1781015307241-spa.jpg)
+![‍ 每次來沙努爾幾乎都會按的 Spa](https://images.gobaligo.id/images/2026-06/1781015307241-spa.jpg)
 
 The Nest Boutique Spa 赖佳莹提供
 
@@ -404,7 +405,7 @@ The Nest Boutique Spa 赖佳莹提供
 
 按摩结束后，整个人通体舒畅，直接又跑去商场继续购物🤣
 
-![按完直接开启补货模式](https://images.gobaligo.id/images/2026-06/1781015463514-icon.jpg)
+![按完直接開啟補貨模式](https://images.gobaligo.id/images/2026-06/1781015463514-icon.jpg)
 
 赖佳莹提供
 
@@ -415,9 +416,9 @@ The Nest Boutique Spa 赖佳莹提供
 
 ### 💡 我越来越喜欢沙努尔的原因
 
-这次住的饭店 location 真的强到有点夸张。
+这次住的酒店位置真的强到有点夸张。
 
-按摩店、沙滩、Shopping Mall、换钱店，几乎全部都在步行 3 分钟内可以解决 👍👍
+按摩店、沙滩、购物中心、换钱店，几乎全部都在步行3分钟内可以解决 👍👍
 
 这种便利性在巴厘岛其实很重要。
 因为很多地方看起来距离不远，但实际上可能堵车堵到怀疑人生。
@@ -425,7 +426,7 @@ The Nest Boutique Spa 赖佳莹提供
 而沙努尔有个很大的优点是——
 生活机能很好，但整体氛围还是舒服的。
 
-尤其如果你不是第一次来巴厘岛，开始不想每天跑景点，只想找个舒服地方放空、散步、吃饭、按摩，我真的会很推荐把几天留给沙努尔。
+尤其如果你不是第一次来巴厘岛，开始不想每天跑景点，只想找个舒服地方放空、散步、吃饭、按摩，我真的会推荐把几天留给沙努尔。
 
 {{block:sanur}}
 
@@ -434,7 +435,7 @@ The Nest Boutique Spa 赖佳莹提供
 第四天直接开启摩托车旅行模式。
 早上七点准时从沙努尔出发，一路往巴厘岛中部骑。
 
-老实说，在巴厘岛骑车真的有种很特别的自由感。
+老实说，在巴厘岛骑车真的有股很特别的自由感。
 沿途会经过小村庄、梯田、寺庙、山路，有时候甚至只是等红灯时看到路边的供品、早餐摊、学生骑车上学，都会觉得：「啊，这才是真正的巴厘岛日常。」
 
 不过也提醒一下，如果平常不太会骑车，或不习惯东南亚交通节奏，还是建议包车会轻松很多🤣
@@ -445,7 +446,7 @@ The Nest Boutique Spa 赖佳莹提供
 
 第一站直接冲圣泉寺。
 
-![圣泉寺｜一大早来真的差很多](https://images.gobaligo.id/images/2026-06/1781015518073-tirta_empul_3.jpg)
+![聖泉寺｜一大早來真的差很多](https://images.gobaligo.id/images/2026-06/1781015518073-tirta_empul_3.jpg)
 
 Tirta Empul Temple 赖佳莹提供
 
@@ -475,15 +476,18 @@ Tirta Empul Temple 赖佳莹提供
 
 接着继续往北骑，来到彭利普兰村。
 
-![彭利普兰村｜很有生活感的传统村庄](https://images.gobaligo.id/images/2026-06/1781015614405-pengli1.jpg)
+![彭利普蘭村｜很有生活感的傳統村莊](https://images.gobaligo.id/images/2026-06/1781015614405-pengli1.jpg)
 
 Penglipuran Village 赖佳莹提供
 
-这里一直有「全球最干净村庄之一」的称号。整体环境真的整理得非常干净，而且保留了很多巴厘岛传统建筑样貌。
+这里一直有「全球最干净村庄之一」的称号。
+整体环境真的整理得非常干净，而且保留了很多巴厘岛传统建筑样貌。
 
-跟一般观光景点不太一样的是，这里其实还是真正有人生活的村庄。很多住家前面都会开小商店，卖饮料、零食、小纪念品，有种很朴实的感觉。
+跟一般观光景点不太一样的是，这里其实还是真正有人生活的村庄。
+很多住家前面都会开小商店，卖饮料、零食、小纪念品，有种很朴实的感觉。
 
-我自己蛮喜欢这里的步调。不需要特别做什么，就是慢慢走、慢慢看。
+我自己蛮喜欢这里的步调。
+不需要特别做什么，就是慢慢走、慢慢看。
 
 有几间店还会卖一些当地小点心，如果骑车骑累了，很适合进去坐一下休息。
 
@@ -495,11 +499,11 @@ Penglipuran Village 赖佳莹提供
 
 离开村庄后，沿着山路一路往德哥拉朗梯田方向骑。这次直接冲大家超爱拍照的 TIS Cafe。
 
-![德哥拉朗梯田｜TIS Cafe 看景真的很夸张](https://images.gobaligo.id/images/2026-06/1781015660578-tis_3.jpg)
+![德哥拉朗梯田｜TIS Cafe 看景真的很誇張](https://images.gobaligo.id/images/2026-06/1781015660578-tis_3.jpg)
 
 TIS Cafe 赖佳莹提供
 
-很多人会说这里是「网红咖啡厅」，但老实说，它的景色是真的有厉害。
+很多人会说这里是「网红咖啡厅」，但老实说，它的景色确实很厉害。
 坐在面向梯田的位置，看整片绿色山谷层层堆叠，真的很容易发呆。
 
 而且山上的风吹起来非常舒服。
@@ -514,7 +518,7 @@ TIS Cafe 赖佳莹提供
 
 中午直接冲去吃乌布超经典的脏鸭饭。
 
-![乌布经典午餐｜Bebek Tepi Sawah 脏鸭饭](https://images.gobaligo.id/images/2026-06/1781015721087-bebek.jpg)
+![烏布經典午餐｜Bebek Tepi Sawah 髒鴨飯](https://images.gobaligo.id/images/2026-06/1781015721087-bebek.jpg)
 
 Bebek Tepi Sawah 赖佳莹提供
 
@@ -523,14 +527,14 @@ Bebek Tepi Sawah 赖佳莹提供
 
 再搭配印尼辣酱一起吃，真的很邪恶。
 
-![乌布经典午餐｜Bebek Tepi Sawah 脏鸭饭](https://images.gobaligo.id/images/2026-06/1781015694382-bebek_4.jpg)
+![烏布經典午餐｜Bebek Tepi Sawah 髒鴨飯](https://images.gobaligo.id/images/2026-06/1781015694382-bebek_4.jpg)
 
 赖佳莹提供
 
 但我要先说——
 辣酱真的有辣🤣🤣
 
-平时吃小辣的人，建议先慢慢试，不然很容易后面整路都在找水喝。
+平常吃小辣的人，建议先慢慢试，不然很容易后面整路都在找水喝。
 
 ***
 
@@ -564,7 +568,7 @@ https://youtube.com/shorts/MmqfkXw211k
 
 这次跑去买 Massimo 冰淇淋。
 
-![Massimo 冰淇淋｜永远都在排队](https://images.gobaligo.id/images/2026-06/1781016426600-mismo.jpg)
+![Massimo 冰淇淋｜永遠都在排隊](https://images.gobaligo.id/images/2026-06/1781016426600-mismo.jpg)
 
 Massimo Italian Restaurant 赖佳莹提供
 
@@ -593,7 +597,7 @@ https://youtu.be/hdIKOX5wghU
 ICON Bali Mall
 
 这几天几乎天天报到🤣
-直接进入「连线代购模式」。
+直接进入「代购连线模式」。
 
 沙努尔现在真的越来越方便。
 很多东西不用特地跑库塔或水明漾，在这里其实就已经买得很齐了。
@@ -607,14 +611,14 @@ ICON Bali Mall
 前几天都还算偏慢旅行，
 但 Day 5 完全是「燃烧生命的一天」🤣
 
-凌晨三点就从沙努尔出发，一路往北冲罗威那。
+凌晨三点就从沙努尔出发，一路往北冲 Lovina。
 虽然真的累到怀疑人生，但后来看到海豚那一刻，会瞬间觉得：「好，值得了。」
 
 ***
 
-### 🐬 凌晨追海豚｜罗威那海滩海上日出真的太梦幻
+### 🐬 凌晨追海豚｜Lovina Beach 海上日出真的太梦幻
 
-天还没亮，我们就抵达罗威那海滩。
+天还没亮，我们就抵达 Lovina Beach。
 
 https://youtu.be/XRR7ddLAiV4
 
@@ -633,14 +637,14 @@ https://youtu.be/XRR7ddLAiV4
 现场所有人几乎同时开始尖叫惊呼🤣
 那画面真的会让人瞬间清醒。
 
-再加上地平线慢慢升起的日出，天空从深蓝转成橘红色，整个氛围非常不真实。
+再加上海平线慢慢升起的日出，天空从深蓝转成橘红色，整个氛围非常不真实。
 
 不过一定要提醒：
 
 🌊 记得带替换衣服跟裤子。
 浪真的会直接打进船里。
 
-尤其坐前排的人，湿掉几率超高🤣
+尤其坐前排的人，湿掉机率超高🤣
 
 ***
 
@@ -648,12 +652,12 @@ https://youtu.be/XRR7ddLAiV4
 
 回程途中，顺路停了一个山路边的喂猴子点。
 
-巴厘岛很多地方都有猴子，但这里的猴子明显温和很多。
+巴厘岛很多地方都有猴子，但这边的猴子明显温和很多。
 不像乌鲁瓦图那边有些猴子会直接抢眼镜、抢手机🤣
 
 现场会收一点费用（但我真的忘记多少了😆），可以买食物喂它们。
 
-有些猴子甚至还会乖乖坐着等吃东西，跟乌鲁瓦图那种「黑道猴群感」完全不同。
+有些猴子甚至还会乖乖坐着等吃东西，跟乌鲁瓦图那种“黑道猴群感”完全不同。
 
 ***
 
@@ -661,17 +665,17 @@ https://youtu.be/XRR7ddLAiV4
 
 接着回程途中，又顺路跑去一间山里的咖啡公园休息。
 
-这类咖啡园其实在巴厘岛山区不少，
+这类型咖啡园其实在巴厘岛山区不少，
 最大特色就是几乎所有茶类跟咖啡都能免费试喝。
 
 从姜茶、香草茶，到各种调味咖啡都有。
 
-![山里的咖啡公园｜回程中的休息站](https://images.gobaligo.id/images/2026-06/1781016873612-luwak3.jpg)
+![山裡的咖啡公園｜回程中的休息站](https://images.gobaligo.id/images/2026-06/1781016873612-luwak3.jpg)
 
 赖佳莹提供
 
 另外最有名的当然还是麝香猫咖啡。
-一杯大约 5 万印尼盾左右。
+一杯大约5万印尼盾左右。
 
 现场也能看到咖啡豆处理与制作流程，还有不少茶叶、咖啡可以直接购买。
 
@@ -693,7 +697,7 @@ Jungle Gold Bali
 而且不是随便试吃那种。
 很多口味都很有热带感，像椰子、海盐、香料类型都有。
 
-结果原本只是想「进去看看」，最后直接默默提了一袋出来🤣
+结果原本只是想「进去看看」，最后直接默默提一袋出来🤣
 
 > 收录在 [【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](https://gobaligo.id/zh-cn/blog/bali-souvenirs-gift-guide/)
 
@@ -716,7 +720,7 @@ https://youtube.com/shorts/sVxycGvyT9w
 
 ***
 
-### 💤 回酒店直接断电
+### 💤 回饭店直接断电
 
 回到沙努尔后，第一件事就是先洗澡。
 
@@ -725,7 +729,7 @@ https://youtube.com/shorts/sVxycGvyT9w
 真的不是夸张。
 是那种「躺下去立刻失去意识」的程度🤣
 
-下午完全没有排行程，单纯拿来修复这几天爆肝的身体。
+下午完全没有排行程，单纯用来修复这几天爆肝的身体。
 
 ***
 
@@ -735,11 +739,11 @@ https://youtube.com/shorts/sVxycGvyT9w
 
 今晚的压轴晚餐，是我几乎每次来巴厘岛都会想再回访的Cuca。
 
-![Cuca｜每次来巴厘岛都还是会惊艳](https://images.gobaligo.id/images/2026-06/1781016745897-cuca1.jpg)
+![Cuca｜每次來峇里島都還是會驚艷](https://images.gobaligo.id/images/2026-06/1781016745897-cuca1.jpg)
 
 Cuca Restaurant Bali 赖佳莹提供
 
-它不是那种浮夸型 Fine Dining，
+它不是那种浮夸型Fine Dining，
 而是会让你觉得：「每一道菜都有认真设计过。」
 
 他们家的创意料理、调酒跟甜点真的都非常有水准。
@@ -747,7 +751,7 @@ Cuca Restaurant Bali 赖佳莹提供
 而且整体气氛很舒服。
 不会太拘谨，但又保有精致感。
 
-> [Cuca 餐厅用餐优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1299850&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91308-cuca-restaurant-dining-experience-jimbaran-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D96a4421d89k.com)
+> [Cuca 餐厅用餐优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1299850&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91308-cuca-restaurant-dining-experience-jimbaran-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D96a4421d89k.com)  __VID0__
 
 经过凌晨追海豚、长途移动、山路奔波后，最后用一顿微醺晚餐收尾，真的很像替这趟生日盲盒旅行画下一个完美句点。
 
@@ -755,7 +759,7 @@ Cuca Restaurant Bali 赖佳莹提供
 
 「这天到底怎么活下来的🤣」的感觉。
 
-## Day 6｜圣水净化、梯田午餐、司机家作客，最后收获生日升等惊喜 🎂
+## Day 6｜圣水净化、梯田午餐、司机家做客，最后收获生日升等惊喜 🎂
 
 来到第六天，行程节奏又和前几天完全不同。
 
@@ -782,7 +786,7 @@ Cuca Restaurant Bali 赖佳莹提供
 
 第一站来到近年相当受欢迎的净化圣地——Taman Beji Griya Waterfall。
 
-![‍ Taman Beji Griya Waterfall｜五阶段圣水净化仪式](https://images.gobaligo.id/images/2026-06/1781016977848-beji.jpg)
+![‍ Taman Beji Griya Waterfall｜五階段聖水淨化儀式](https://images.gobaligo.id/images/2026-06/1781016977848-beji.jpg)
 
 Taman Beji Griya Waterfall 赖佳莹提供
 
@@ -808,7 +812,7 @@ Taman Beji Griya Waterfall 赖佳莹提供
 
 中午安排在贾蒂卢维梯田附近的景观餐厅 Catavaca 用餐。
 
-![Catavaca Jatiluwih｜世界文化遗产梯田中的午餐](https://images.gobaligo.id/images/2026-06/1781016946446-jatiluwih.jpg)
+![Catavaca Jatiluwih｜世界文化遺產梯田中的午餐](https://images.gobaligo.id/images/2026-06/1781016946446-jatiluwih.jpg)
 
 Catavaca Jatiluwih 赖佳莹提供
 
@@ -840,7 +844,7 @@ Jatiluwih Rice Terraces
 
 但因为这几天相处下来已经很熟悉，于是决定跟着去看看。
 
-抵达后才发现，这根本不是观光客能轻易接触到的体验。
+抵达后才发现，这根本不是游客能轻易接触到的体验。
 
 司机带我参观传统巴厘岛住宅格局，介绍家族祭坛、庭院以及家族成员居住的空间。
 
@@ -866,7 +870,7 @@ Jatiluwih Rice Terraces
 
 晚餐前，先到库塔吃一家在地老店的鱼汤。
 
-![库塔老字号鱼汤｜朴实却令人难忘](https://images.gobaligo.id/images/2026-06/1781017149714-709863826_17952267135159785_5884357276073212035_n.jpg)
+![庫塔老字號魚湯｜樸實卻令人難忘](https://images.gobaligo.id/images/2026-06/1781017149714-709863826_17952267135159785_5884357276073212035_n.jpg)
 
 赖佳莹提供
 
@@ -886,7 +890,7 @@ Jatiluwih Rice Terraces
 
 趁着回到库塔，赶快到熟悉的店家补货。
 
-![最后冲刺｜伴手礼补货时间](https://images.gobaligo.id/images/2026-06/1781017192760-709578614_17952267126159785_222582433305496374_n.jpg)
+![最後衝刺｜伴手禮補貨時間](https://images.gobaligo.id/images/2026-06/1781017192760-709578614_17952267126159785_222582433305496374_n.jpg)
 
 赖佳莹提供
 
@@ -906,7 +910,7 @@ Jimbaran Bay Beach Resort & Spa by Prabhu
 
 原本只是很平常地办理入住。
 
-![生日惊喜｜免费升等超大正海景房](https://images.gobaligo.id/images/2026-06/1781017265904-709707450_17952267105159785_2782423296135553890_n.jpg)
+![生日驚喜｜免費升等超大正海景房](https://images.gobaligo.id/images/2026-06/1781017265904-709707450_17952267105159785_2782423296135553890_n.jpg)
 
 赖佳莹提供
 
@@ -914,9 +918,9 @@ Jimbaran Bay Beach Resort & Spa by Prabhu
 
 「Happy Birthday！」
 
-接着告知饭店帮忙免费升等房型。
+接着告知酒店帮忙免费升级房型。
 
-当下其实已经很开心了。
+当时其实已经很开心了。
 
 结果真正打开房门后，惊喜才正式开始。
 
@@ -926,7 +930,7 @@ Jimbaran Bay Beach Resort & Spa by Prabhu
 
 橙色、粉色、金色交织在天空与海面之间。
 
-那一刻真的有種：
+那一刻真的有那种：
 
 「这份生日礼物也太大了吧。」
 
@@ -960,7 +964,7 @@ Jimbaran Bay Beach Resort & Spa by Prabhu
 
 ![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130134769-591152775.jpg)
 
-空房 & 房价查询：[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1195948) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=5895863&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-NqZuFikmCS-sPMsePTjj42IS5DQxNDCwsjEwMjg2dcFosyHGP6D33VWFDi4PlNA8jUrHQI4JnBuP3tc6YVjIwbGdNAQC3IYQcj0wFGphOMi786LGCaseqX9ikWFo5Nt7gvsfxkiq5Wyk6tVLIy0VEqySzJSVWyUno2p_dp98wXm3Yr6SilpBYnA4WArMTc_NK8EiDb0tTC0lzPwAAoVpJY4ZmiZGWuo5ScmJNcmpNYkhpSWQA0w0xHKbPYuaQosyAoNTezpCQVqCotMac4FSQelFoMlEkGCyr5AY0pggpk5udBtBugiIUl5pSmQhwBtNAtFWqHca0OptufLpr3tGHP8xWtxLrdhNpuNyTG7Ya1sY9YmKJjP7Ew_GJhaGJl6GJlmMTKwgGMoV2svEEuEd4mYbqeoSGezh5SioYGBgZGpqZG5roGiZaJSYZmFromliYmFga6xkbGZkaWRho95_sPPDc2MlFg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZu7oamJhHGXDxezpEiRoxzvl9Y1zFvZSIJ4ijKcF4hnCeIETfxaLpQbx2kfCRJJYqzJ0Q8IzesULGBsYmboYuQUYPRgjGCuAPMZVjAwbGBl3MP6HAcZXjCDzAG_ToiXjAgAA&masterhotelid_tracelogid=100025527-0a9ab168-494480-3236292&detailFilters=17|1~17~1*31|5895863~31~5895863*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=480&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109) [Booking](https://booking.tpm.li/HdNQ95Gy)
+空房 & 房价查询：[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1195948) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-5895863/jimbaran-bay-beach-resort-and-spa-by-prabhu/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/HdNQ95Gy)
 
 ## Day 7｜什么都不赶的金巴兰放空日 🌅
 
@@ -968,19 +972,19 @@ Jimbaran Bay Beach Resort & Spa by Prabhu
 
 这一天几乎都待在金巴兰，让自己彻底进入度假模式。
 
-![Day 7｜什么都不赶的金巴兰放空日](https://images.gobaligo.id/images/2026-06/1781017310221-709755031_17952267267159785_2854568791993111431_n.jpg)
+![Day 7｜什麼都不趕的金巴蘭放空日](https://images.gobaligo.id/images/2026-06/1781017310221-709755031_17952267267159785_2854568791993111431_n.jpg)
 
 赖佳莹提供
 
 ***
 
-### 🌅 海滩散步 ＆ 海景早餐
+### 🌅 海滩散步 & 海景早餐
 
-早上到海边散步，看着平静的海面和缓缓升起的阳光。
+早上去海边散步，看着平静的海面和缓缓升起的阳光。
 
 回酒店后一边享用早餐、一边欣赏海景，难得什么都不想，只想慢慢放空。
 
-![海滩散步 ＆ 海景早餐](https://images.gobaligo.id/images/2026-06/1781017353975-hotel.jpg)
+![海灘散步 ＆ 海景早餐](https://images.gobaligo.id/images/2026-06/1781017353975-hotel.jpg)
 
 赖佳莹提供
 
@@ -1020,7 +1024,7 @@ Jimbaran Bay Beach Resort & Spa by Prabhu
 
 一边看着金巴兰的夕阳，一边继续观察飞机起降。
 
-![顶楼看夕阳与飞机](https://images.gobaligo.id/images/2026-06/1781017390408-sunset.jpg)
+![頂樓看夕陽與飛機](https://images.gobaligo.id/images/2026-06/1781017390408-sunset.jpg)
 
 赖佳莹提供
 
@@ -1041,7 +1045,7 @@ https://youtu.be/LUMJ11GGmUg
 
 晚上当地朋友特地从家里骑车来找我吃生日餐。
 
-聊天后才知道，他来回居然要骑四个多小时。
+聊了之后才知道，他来回居然要骑四个多小时。
 
 听到真的很感动🥹
 
@@ -1049,9 +1053,9 @@ https://youtu.be/LUMJ11GGmUg
 
 赖佳莹提供
 
-晚餐吃的是 Bakmi Akiu 肉面，两个人吃下来大约十几万印尼盾（约 USD$6），简单却特别有温度。
+晚餐吃的是 Bakmi Akiu 肉面，两个人吃下来大约十多万印尼盾（约 USD$6），简单却特别有温度。
 
-吃完后又到对面的 Kopi Kenangan 坐着聊天，把这份难得的相聚延长了一点。
+吃完后又到对面的 Kopi Kenangan 坐着聊天，把这难得的相聚延长了一点。
 
 ***
 
@@ -1069,7 +1073,7 @@ https://youtu.be/tAU6seMhMUA
 
 旅程即将结束。
 
-而我知道，离开巴厘岛的日子，又开始倒数了。 🌴✨
+而我知道，离开巴厘岛的日子，又开始倒计时了。 🌴✨
 
 ## Day 8｜带着满满的温暖，准备回家 🤍
 
@@ -1077,7 +1081,7 @@ https://youtu.be/tAU6seMhMUA
 
 比起前几天的奔波与探索，今天更像是一场缓慢的告别。
 
-![Day 8｜带着满满的温暖，准备回家](https://images.gobaligo.id/images/2026-06/1781018347318-714084897_17952467418159785_6469494201020115694_n.webp)
+![Day 8｜帶著滿滿的溫暖，準備回家](https://images.gobaligo.id/images/2026-06/1781018347318-714084897_17952467418159785_6469494201020115694_n.webp)
 
 赖佳莹提供
 
@@ -1087,7 +1091,7 @@ https://youtu.be/tAU6seMhMUA
 
 早上和Vicky姐姐一起吃早餐。
 
-边吃边聊着这几天发生的奇妙际遇，以及旅程中那些意想不到的心境转变。
+边吃边聊着这几天发生的神奇际遇，以及旅程中那些意想不到的心境转变。
 
 有些事情在当下不一定有答案，但回头看时，总会发现它们出现在生命里都有原因。
 
@@ -1107,13 +1111,13 @@ https://youtu.be/tAU6seMhMUA
 
 ### ☕ 一杯咖啡，一份温暖的延续
 
-离开酒店后，前往咖啡厅和在库塔经营冲浪学校的[台湾人 Candy 姐姐](https://www.threads.com/@risingsunbali)碰面。
+离开酒店后，前往咖啡馆和在库塔经营冲浪学校的[台湾人 Candy 姐姐](https://www.threads.com/@risingsunbali)碰面。
 
 把特地从台湾带来的衣服亲手交给她。
 
 看着这些衣物未来能转化成在地的支持与帮助，心里有种说不出的踏实感。
 
-![一杯咖啡，一份温暖的延续](https://images.gobaligo.id/images/2026-06/1781018538958-713644445_17952467292159785_4041356232763675411_n.jpeg)
+![一杯咖啡，一份溫暖的延續](https://images.gobaligo.id/images/2026-06/1781018538958-713644445_17952467292159785_4041356232763675411_n.jpeg)
 
 赖佳莹提供
 
@@ -1149,8 +1153,8 @@ https://youtu.be/zYqmBggP_Lk
 而是一路上遇见的人。
 
 司机妈妈塞满我双手的零食和饮料；
-朋友愿意骑车来回4个多小时，只为陪我吃一碗生日面；
-还有那场毫无预兆出现在阳台外的生日烟火。
+朋友愿意骑车来回 4 个多小时，只为陪我吃一碗生日面；
+还有那场毫无预警出现在阳台外的生日烟火。
 
 现在回头看，也许祭司说的那句话，我终于有点懂了。
 
@@ -1165,7 +1169,7 @@ https://youtu.be/zYqmBggP_Lk
 
 还有那些被善意接住的瞬间。
 
-![8 天生日盲盒旅行后记](https://images.gobaligo.id/images/2026-06/1781018772429-713524159_17952467349159785_3829794102158038383_n.webp)
+![8 天生日盲盒旅行後記](https://images.gobaligo.id/images/2026-06/1781018772429-713524159_17952467349159785_3829794102158038383_n.webp)
 
 赖佳莹提供
 

@@ -3,7 +3,7 @@ slug: bali-family-8-day-itinerary
 title: 【巴厘岛亲子8日游攻略游记分享】八天玩遍大半个巴厘岛
 description: 巴厘岛亲子八天七夜游记，玩遍金巴兰、乌鲁瓦图、蓝梦岛、沙努尔、乌布、巴杜尔日出、海神庙、水明漾...
 pubDate: 2025-11-10T00:00:00.000Z
-updatedDate: 2026-07-10T00:00:00.000Z
+updatedDate: 2026-07-20T00:00:00.000Z
 category:
   - 家庭親子
   - 遊記分享
@@ -20,7 +20,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_92c1c3c6353fec567c863e536302c897.jpg'
 originalUrl: 'https://vocus.cc/article/66551cfefd897800011f9d5e'
 lang: zh-cn
-_srcHash: 14b3f2eb63103d262495c162d3f25356
+_srcHash: 2f4a3abfa554ba07ffef01b7e69a3ae2
 ---
 脸书社团团友 [Mei Chen](https://www.facebook.com/mei.co.nz/) 跟家人的巴厘岛八天七夜游记，特此提供给我们编辑/转载：
 
@@ -38,7 +38,7 @@ _srcHash: 14b3f2eb63103d262495c162d3f25356
 
 ### 机票
 
-我们选择了华航的直飞班机，来回票价约USD$419一人。由于提早超过三个月订票，得到了不错的优惠。
+我们选择了华航的直飞班机，来回票价约1.3万新台币一人（约USD$419）。由于提早超过三个月订票，得到了不错的优惠。
 
 ### 签证
 
@@ -48,7 +48,7 @@ _srcHash: 14b3f2eb63103d262495c162d3f25356
 
 ### 网卡
 
-我们提前在虾皮上选择了评价最高的卖家，购买了两张XL电信的网卡。但据说XL电信的信号普遍不好，所以我们决定在当地再保留部分预算购买其他网卡。结果发现XL电信的信号果然非常差，几乎无法使用网络。后来我们在当地购买了Telkomsel的网卡，24GB约12美元，这才获得稳定的网络连接。
+我们提前在虾皮上选择了评价最高的卖家，购买了两张XL电信的网卡。但据说XL电信的信号普遍不好，所以我们决定在当地再保留部分预算购买其他网卡。结果发现XL电信的信号果然非常差，几乎无法使用网络。后来我们在当地购买了Telkomsel的网卡，24GB约360新台币（约USD$12），这才获得稳定的网络连接。
 
 ### 换汇
 
@@ -58,7 +58,7 @@ _srcHash: 14b3f2eb63103d262495c162d3f25356
 
 ### 机场至金巴兰酒店
 
-我们使用Grab叫了两台车，等候时间大约20分钟。当场搜索价格发现Grab比Gojek便宜，也比事先在Klook订的机场接送便宜（海狮车型约23美元）。考虑到落地签可能会延误时间，因此选择现场叫车。Grab两台车的费用大约是13美元，但需要现场等车，自行斟酌。相比之下，机场接机如果选择包车是最贵的选择，因为司机只载一趟还要租车，并且不能接其他行程，除非当天还有其他地点需要前往，否则不推荐包车。
+我们使用Grab叫了两辆车，等候时间大约20分钟。当场搜索价格发现Grab比Gojek便宜，也比事先在Klook订的机场接送便宜（海狮车型约23美元）。考虑到落地签可能会延误时间，因此选择现场叫车。Grab两辆车的费用大约是13美元，但需要现场等车，自行斟酌。相比之下，机场接机如果选择包车是最贵的选择，因为司机只载一趟还要租车，并且不能接其他行程，除非当天还有其他地点需要前往，否则不推荐包车。
 
 ### 行程
 
@@ -80,7 +80,7 @@ _srcHash: 14b3f2eb63103d262495c162d3f25356
 
 ### 晚餐 - Lia Cafe
 
-晚餐我们选择了Lia Cafe，这里需要另收10%的服务费，也可以刷卡支付。在等餐的时候，有一团当地的歌手会根据你的国籍唱不同的歌，但他们强迫要求小费，给得太少他们会表现得不高兴，这点让我们的用餐体验有些不愉快。（编按：不是属于餐厅的乐团。一般乐团献唱，你们一行人给个50,000印尼盾的小费就皆大欢喜了！）
+晚餐我们选择了Lia Cafe，这里需要另收10%的服务费，也可以刷卡支付。等餐的时候，有一组当地歌手会根据你的国籍唱不同的歌，但他们强迫要求小费，给得太少他们会表现得不高兴，这点让我们的用餐体验有些不愉快。（编按：不是属于餐厅的乐队。一般乐队献唱，你们一行人给个50,000印尼盾的小费就皆大欢喜了！）
 
 > 延伸阅读：[巴厘岛金巴兰11家海鲜餐厅推荐](/zh-cn/blog/jimbaran-seafood-restaurants-list/)
 
@@ -92,7 +92,7 @@ _srcHash: 14b3f2eb63103d262495c162d3f25356
 
 ### Coco Supermarket Jimbaran
 
-晚餐后，我们去了附近的Coco Supermarket Jimbaran，购买了一些零食和水果。在去超市的路上，看到很多卖网卡的店家，我们找了一间最便宜的店买了网卡，还顺便在一家换汇所换了一点钱。
+晚餐后，我们去了附近的Coco Supermarket Jimbaran，购买了一些零食和水果。去超市的路上，看到很多卖网卡的店家，我们找了一间最便宜的店买了网卡，还顺便在一家换汇所换了一点钱。
 
 ### 住宿 - FOX Hotel Jimbaran Beach
 
@@ -107,7 +107,7 @@ _srcHash: 14b3f2eb63103d262495c162d3f25356
 ![住宿 - FOX Hotel Jimbaran Beach](https://images.gobaligo.id/images/2026-04/1776002660718-231354323.jpeg)
 ![住宿 - FOX Hotel Jimbaran Beach](https://images.gobaligo.id/images/2026-04/1776002661166-231354923.jpeg)
 
-▶[FOX Hotel Jimbaran Beach订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3121957) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6371074&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6y8zFJMEk9YyZ4_KR3XfYhBiNDM6yWayOcDQGAecUB88dcq2vA3dkOATwzGBsetfCvIKRcSOjyDr3h1VXHB12MDKdYJzOvoDp5Jld_KdYmDmWMV5i-cwUXa2UnVqpZGWio1SSWZKTqmSl9HTRvKcNe56vaFXSUUpJLU4GCgFZibn5pXklQLaFsZ6BAVCgJLHCMwWsMTkxJ7k0J7EkNaSyAGiAmY5SZrFzSVFmQVBqbmZJSSpQVVpiTnEqSDwotRgokwwWVPIDGlMEFcjMz4NoN0QRC0vMKU2FuABooVsq1A7DWh1Mhz-b0_u0e-aLTbuJcrg5tR1uQIzDjWtjH7EwRcd-YmH4xcLQxMrQxcowiZWZYzr7Llae4BAjX-8gXUPdKF1DKXlDAwMDU0NjU1Ndg0TLRFPjZENdE0sTI3NDXSMTUyMzja3dH288MTaylmKdcuD5NHYFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbJbGrs7GjlE2XMyhwS6C6VefZ2mbSTtIMYeEuyhODrrwVrX3tL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD4SJp_EWpWhGxKe0StewNjAyNTFyC3A6MEYwVgB5DGuYmTnYjYwMhRg2sDIuIPxPwwwvmIEWQIAYN9JO9kCAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-24526&detailFilters=17|1~17~1*31|6371074~31~6371074*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=900&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687)
+▶[FOX Hotel Jimbaran Beach订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3121957) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-6371074/fox-hotel-jimbaran-beach-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
 {{block:jim}}
 
@@ -143,7 +143,7 @@ Mei Chen提供，左至右：Pantai Batu Barak/Pandawa Beach/Oneeighty
 
 ![Mei Chen提供：烏魯瓦圖廟和卡洽火舞表演](https://images.gobaligo.id/vocus/vocus_9fa7169092dff9f357a2a5ebfed8f6d6.jpg)
 
-Mei Chen提供：乌鲁瓦图庙和卡洽火舞表演
+Mei Chen提供：乌鲁瓦图庙和卡恰火舞表演
 
 下午，我们前往乌鲁瓦图庙观看夕阳和火舞表演。建议先在Klook或KKday购买门票，否则现场排队不一定能看到六点的表演。这里的猴子非常活跃，要特别小心自己的帽子和眼镜，防止被猴子抢走。
 
@@ -179,9 +179,9 @@ Mei Chen提供：乌鲁瓦图庙和卡洽火舞表演
 
 ![住宿 - Prime Plaza Hotel Sanur](https://images.gobaligo.id/images/2026-04/1775996239850-60089430.jpeg)
 
-晚上，我们入住Prime Plaza Hotel Sanur - Bali。这家酒店非常适合第二天要跳岛的人，步行几分钟就可以抵达沙努尔的新港口。泳池设有儿童戏水区，适合带孩子的家庭。不过，我们退房时把泳圈遗留在房间，三个小时后询问时被告知没看到，这点让我们有些失望，酒店在这方面的服务有待改进。
+晚上，我们入住Prime Plaza Hotel Sanur - Bali。这家酒店非常适合隔天要跳岛的人，步行几分钟就可以抵达沙努尔的新港口。泳池设有儿童戏水区，适合带孩子的家庭。不过，我们退房时把泳圈遗留在房间，三个小时后询问时被告知没看到，这点让我们有些失望，酒店在这方面的服务有待改进。
 
-> ▶[Prime Plaza Hotel Sanur订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1251) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=840723&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaysLFJMEk1cfC0bdr2msWIXZDUzMDQwMjg4XCFrcrHJcU2HJdly508CwE0oszSh0CeCKmHHg-jT0xYq3Pj6Vazg5djKxggRmMk1cYr2Bk3MhoDAaBDjsYmU4w7uRZwLTgwQS9UyzMHAeYLrF8ZYquVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DMQM_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBTEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLKvkBjSmCCmTm50G0G6KIhSXmlKZCnAC00C0VaodhrQ6my5_N6X3aPfPFpt3Eudyc2i43IMblxrWxj1iYomM_sTD8YmFoYmXoYmXm2MQ4CUju5NnFyh_l7mwe4qEbbhbpqhula3iB9TWvlLyhgYGBqaGxqamuQaJloqlxsqGuiaWJkaWprqGpuaGpxsxTvxqfGhtZS0GiX4FRSzA-xNPTxbCkMNWssNQyp6jA1IDxFKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbiZOTs5tllA0Xc2iwi2D_oa8aMfrSDlLMIeEuikEubaF7Jp6212L2dAkyvPefJVdb2dI-0OKLGP97ywX2kTD5JNaqDN2Q8Ixe8QLGBkamLkZuAUYPxgjGCiCPcRUjOxezgZGhANMGRsYdjP9hgPEVI8gSACawbt4BAwAA&masterhotelid_tracelogid=100051355-0a9a53c1-494295-15715&detailFilters=17|1~17~1*31|840723~31~840723*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1840&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/KPN8NJqU)
+> ▶[Prime Plaza Hotel Sanur订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1251) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-840723/prime-plaza-hotel-sanur-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/KPN8NJqU)
 
 ## 5月20日 星期一 DAY 3 蓝梦岛浮潜/沙努尔
 
@@ -197,8 +197,8 @@ Mei Chen提供：乌鲁瓦图庙和卡洽火舞表演
 
 Mei Chen提供：蓝梦岛浮潜
 
-1. **蓝梦岛跳岛浮潜**第一组前往蓝梦岛跳岛浮潜，早上步行至港口，浮潜时间是08:45至15:15。我们在KKday预约了这个行程，因为价格比Klook便宜，且5月的周年庆有折价券，还有免费的拍摄照片和视频。
-2. **酒店休息**不参加浮潜的第二组人则在酒店休息，享受懒觉和玩水的乐趣。中午十二点退房后，他们寄放行李，然后前往沙努尔沙滩散步。
+1. **蓝梦岛跳岛浮潜**第一组前往蓝梦岛跳岛浮潜，早上步行至港口，浮潜时间是08:45至15:15。我们在KKday预约了这个行程，因为价格比Klook便宜，且5月的周年庆有优惠券，还有免费的拍摄照片和视频。
+2. **酒店休息**不参加浮潜的第二组人则在酒店休息，享受懒觉和玩水的乐趣。中午十二点退房后，他们寄存行李，然后前往沙努尔沙滩散步。
 
 ▶[订购KKday的蓝梦岛行程](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=%E8%97%8D%E5%A4%A2%E5%B3%B6&sort=prec&cid=25072)
 
@@ -264,19 +264,19 @@ https://youtube.com/shorts/sVxycGvyT9w
 
 ### Penglipuran 村庄
 
-接着我们来到了Penglipuran村庄，这里的包包价格相对是最低的，很适合购物。虽然价格很平价，但还是可以砍价的哦。
+接着我们来到了Penglipuran村庄，这里的包包价格相对来说是最低的，很适合购物。虽然价格很平价，但还是可以砍价的哦。
 
 > 延伸阅读：[穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/zh-cn/blog/penglipuran-village-bali-experience/)
 
 ### 百沙基母庙
 
-我们参观了百沙基母庙，门票价格蛮贵的，要10美元（因为包含必须的导游解说费用）。导游会在介绍完后要求小费，但实际上门票已经包含了导游的小费。在这里，我们还看到了各种卖山竹的摊位，价格相当便宜，外面超市卖的大约35k一公斤，这里的摊贩看我们不买，喊到10k一公斤！
+我们参观了百沙基母庙，门票价格蛮贵的，要10美元（因为包含一定要的导游解说费用）。导游会在介绍完后要求小费，但实际上门票已经含了导游的小费。在这里，我们还看到了各种贩卖山竹的摊位，价格相当便宜，外面超市卖的约35k一公斤，这里的摊商看到我们不买，喊到10k一公斤！
 
 ### 晚餐 - AKASA Specialty Coffee
 
-晚餐我们去了金塔玛尼的 AKASA Specialty Coffee，这是一家景观餐厅，食物价格相对来说还是很平价的，而且可以刷卡支付。在这里，我们可以享受美食的同时，欣赏着美丽的景色。
+晚餐我们去了金塔马尼的 AKASA Specialty Coffee，这是一家景观餐厅，食物价格相对来说还是挺平价的，而且可以刷卡支付。在这里，我们可以享受美食的同时，欣赏着美丽的景色。
 
-> [巴厘岛金塔玛尼13大景观火山咖啡厅/餐厅推荐 🌄☕](/zh-cn/blog/kintamani-volcano-cafes-restaurants/)
+> [巴厘岛金塔马尼13大景观火山咖啡厅/餐厅推荐 🌄☕](/zh-cn/blog/kintamani-volcano-cafes-restaurants/)
 
 ### 住宿 - Batur view Homestay
 
@@ -304,7 +304,7 @@ https://youtube.com/shorts/sVxycGvyT9w
 
 Oculus Bali 的 view 也不错啊！
 
-> ▶[Oculus Bali订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=34040413) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=99118073&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6wMTFJMEkdZOJY_GmK9PZhBgNLH4LOgbtkGt9fbTTwfObRkz_ods9DgE8EVMOPJ_GnnjTtjJixcFAh0IGENDod2hkXFJgy3Vdutehi5EVrGYG48_rC_U3Msq3vg7csS7CYQcj0wFGphOMpxQXMDVtX2B7ioWZ4zTzJZbdjNHVStmplUpWJjpKJZklOalKVkpPF8172rDn-YpWJR2llNTiZKAQkJWYm1-aVwJkm5ha6hkYAEVKEis8U8A6kxNzkktzEktSQyoLgCaY6ShlFjuXFGUWBKXmZpaUpAJVpSXmFKeCxINSi4EyyWBBJT-gMUVQgcz8PIh2QxSxsMSc0lSIE4AWuqVC7TCsjX3EwhQd-4mF4RfQM9NUmlgZuliZOU4xTQKRirtY2YLMzd2jQi-wrvKQkjE0MDAwNTQ2NdU1SLRMNLM0NNE1sTQxMjfQtTTVeL7kxrUnxkbWUpDAU2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xShlaG5sYWhkaGhkZGRprGdikWZWbJFXbJGbFeHBGMRmYWZhbGIcZcPF7OkSJPhB7_n2dmtLeynmkHAXRXvZfskVPafttUByhjC5wD2vc07YGy-wjzze8Obru_7T9kmsVRm6IeEZx8UKGBsYmboYuQUYPRgjGCuAPMZVjAwbGBl3MP6HAcZXjCDTAX33V9FCAgAA&masterhotelid_tracelogid=100051355-0a9a6914-494270-95&detailFilters=17|1~17~1*31|99118073~31~99118073*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=320&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/9ZzGv9ZJ)
+> ▶[Oculus Bali订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=34040413) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-99118073/desa-oculus/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/9ZzGv9ZJ)
 
 ## 5月22日 星期三 DAY 5 乌布周边
 
@@ -314,7 +314,7 @@ Oculus Bali 的 view 也不错啊！
 
 Mei Chen提供：民宿的云海
 
-我们一大早就在住宿的阳台欣赏巴杜尔火山，目睹了壮丽的日出和美丽的云海景观。这是整个行程中最推荐的景点之一，绝对值得一看。
+我们一大早在住宿的阳台欣赏巴杜尔火山，目睹了壮丽的日出和美丽的云海景观。这是整个行程中最推荐的景点之一，绝对值得一看。
 
 您也可以参加：
 
@@ -334,7 +334,7 @@ Mei Chen提供
 
 接下来我们前往圣泉寺，这里是巴厘岛的一个知名景点。如果只是想拍照的话，可以不用下水，但如果要下水的话，可能需要排队一段时间。
 
-> [【巴厘岛圣泉寺】Tirta Empul 完整指南：千年圣水净化仪式流程、禁忌与必看重點](/zh-cn/blog/tirta-empul-temple-guide/)
+> [【巴厘岛圣泉寺】Tirta Empul 完整指南：千年圣水净化仪式流程、禁忌与必看重点](/zh-cn/blog/tirta-empul-temple-guide/)
 
 ### Cantik
 
@@ -342,17 +342,17 @@ Mei Chen提供
 
 https://youtube.com/shorts/NEnIZjZnrTk
 
-### 德哥拉朗梯田
+### 德格拉朗梯田
 
-虽然对于台湾人来说可能没有太大的惊喜，但作为文化遗产还是值得一去，我们特地前往拍了一些照片。
+虽然对于中国人来说可能没有太大的惊喜，但作为文化遗产还是值得一去，我们特地前往拍了一些照片。
 
-[> 【巴厘岛梯田攻略】德格拉朗 vs. 贾提鲁维：门票、最佳季节与拍照位全解析（附行程建议）](/zh-cn/blog/bali-rice-terraces-comparison/)
+> [【巴厘岛梯田攻略】德格拉朗 vs. 贾提鲁维：门票、最佳季节与拍照位全解析（附行程建议）](/zh-cn/blog/bali-rice-terraces-comparison/)
 
 ### Tebasari Resto, Bar & Lounge
 
 午餐我们选择了Tebasari Resto, Bar & Lounge，这里的炸鸭饭和猪肋排很有名，但价格偏高，而且猪肋排的口味像台式番茄味，值得一试。
 
-可以试试看同一个集团另一家 Bebek Tebasari Resto 的脏鸭饭喔：
+可以试试看同一个集团另一家 Bebek Tebasari Resto 的脏鸭饭哦：
 
 ![Tebasari Resto, Bar & Lounge](https://images.gobaligo.id/vocus/vocus_bc3b7c4acc8c1fc58855d174cb296195.png)
 
@@ -360,9 +360,9 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 ▶[KKday 的 Tebasari Resto 套餐优惠](https://www.kkday.com/zh-tw/product/165113?qs=Tebasari%20Resto&cid=25072)
 
-### 酒店checkin玩水＋下午茶
+### 酒店checkin玩水+下午茶
 
-回到酒店后，我们进行了check-in，享受了酒店的设施，包括泳池和下午茶。我们入住了这次旅行中最超值的酒店之一，提供了许多免费的服务和设施，绝对值得推荐。
+回到酒店后，我们办理了入住，享受了酒店的设施，包括泳池和下午茶。我们入住了这次旅行中最超值的酒店之一，提供了许多免费的服务和设施，绝对值得推荐。
 
 ### 晚餐 - Warung Makan Bu Rus
 
@@ -381,7 +381,7 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 今晚我们入住Dwaraka The Royal Villas，这里的房价含早餐、下午茶、免费足部按摩、每小时一趟市区接送，房间内还有饼干、水果和免费饮料。这是一个非常超值的酒店，提供了各种设施和服务，好像就住在乌布的皇宫里！绝对是这趟旅行中最值得推荐的住宿地点。房价约两千出头，如果选择四人房两层villa含私人泳池则约USD$129。这里还有两个大众泳池，儿童戏水区和kids club，是个适合家庭的好选择。
 
-▶[Dwaraka The Royal Villas订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1030641) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=3913616&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NqZ-FikmCSamDh2H3pxEk2IUYDi9-CjmkgcK3WwfNhlcg695VNDgE8EVMOPJ_Gnqh2P6c4eUGAQxcjK1hgBuOE9-8YVzAybmQstOW6vvhDrMMORqYDjEwnGG-KLmBa_O8R0ykWZo41LJdYvjJFVytlp1YqWZnoKJVkluSkKlkpPV0072nDnucrWpV0lFJSi5OBQkBWYm5-aV4JkG1kbqFnYAAUKUms8EwB60xOzEkuzUksSQ2pLACaYKajlFnsXFKUWRCUmptZUpIKVJWWmFOcChIPSi0GyiSDBZX8gMYUQQUy8_Mg2g1RxMISc0pTIU4AWuiWCrXDsFYH0-XP5vQ-7Z75YtNu4lxuTm2XGxDjcuPa2EcsTNGxn1gYfrEwNLEydLEyc2xlmgQkb4ruYmULdg0KDnS-wNonISVvaGBgYGpobGqqa5BoaZFknGiga2JpYmRmqWtsaWluonHz4LOrT4yNrKUgMa_AqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzdzJ0tDULcqGi9nTJUjwg97z7e3WlvZSzCHhLor2sv2SK3pO22uB5AxhcoF7XuecsDdeYB9Zuvr5ku-9p-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxgZNjAy7mD8DwOMrxhBpgMAN8-FGewCAAA&masterhotelid_tracelogid=100051355-0a98b3a0-494269-39974&detailFilters=17|1~17~1*31|3913616~31~3913616*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=432&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/48vW2DzN)
+▶[Dwaraka The Royal Villas订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1030641) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-3913616/dwaraka-the-royal-villas/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/48vW2DzN)
 
 {{block:ubud}}
 
@@ -401,9 +401,9 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 在乌布我们还去了Tukies Coconut Shop，这里有美味的椰子冰淇淋，可以使用信用卡支付。
 
-### 乌布传统市场、艺术市场
+### 乌布传统市集、艺术市集
 
-我们逛了乌布的传统市场和艺术市场，这里的商品开价都超夸张，不过可以尝试砍价，有时候能打到两三折。
+我们逛了乌布的传统市集和艺术市集，这里的商品开价都超夸张，不过可以尝试杀价，有时候可以打到两三折。
 
 https://youtube.com/shorts/Oh-RNfjhQhM
 
@@ -413,7 +413,7 @@ https://youtu.be/JtxZHtijEkE
 
 ### Yeh Pulu Spa
 
-下午我们去了Yeh Pulu Spa，选择了巴厘岛式按摩，90分钟约13美元，可以使用信用卡支付。虽然这里不是豪华的SPA，但评价还不错，而且就在市区附近，我们提前一天预订了按摩。
+下午我们去了Yeh Pulu Spa，选择了巴厘岛式按摩，90分钟约13美金，可以使用信用卡支付。虽然这里不是豪华的SPA，但评价还不错，而且就在市区附近，我们提前一天预订了按摩。
 
 **预约乌布的其他中价位SPA：**
 
@@ -427,7 +427,7 @@ https://youtu.be/JtxZHtijEkE
 
 **预约乌布五星级SPA：**
 
-* [Spa Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F104817-spa-experience-tanah-gajah-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5d3c532587) at Tanah Gajah
+* [Spa Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F104817-spa-experience-tanah-gajah-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5d3c532587)at Tanah Gajah
 * [Radha Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F95733-radha-spa-at-the-sankara-suites-villa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7714086322) at The Sankara Suites & Villas
 * [Serayu Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F94005-serayu-spa-at-the-kayon-jungle-resort-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1996e8ee57) at The Kayon Jungle Resort
 * [Mekar Ubud Jungle Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F87616-mekar-ubud-jungle-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D24dcb28ae7) Experience
@@ -476,7 +476,7 @@ Mei Chen提供。左：布拉坦水神庙；右：海神庙
 
 ### Potato Head Suites & Studios
 
-晚上我们入住了Potato Head Suites & Studios，这是全世界排名第四十的酒店，我们特地选择来体验一下。房间的大小和高档酒店相比稍嫌小了一些，但是可能是因为酒店都是用环保材质打造的，这也是它得名的原因之一吧。入住时赠送了保温瓶，退房时送了手链。这个酒店更适合年轻人，喜欢去club享受热闹气氛的人，因为附近就有著名的Potato Head Beach Club。如果是家庭旅行，也许可以考虑其他选择，不过这里有无边泳池和儿童戏水区，对一些家庭来说也是不错的选择。
+晚上我们入住了Potato Head Suites & Studios，这是全世界排名第四十的酒店，我们特地选择来体验一下。房间的大小和高级酒店相比稍嫌小了一些，但是可能是因为酒店都是用环保材质打造的，这也是它得名的原因之一吧。入住时赠送了保温瓶，退房时送了手链。这个酒店更适合年轻人，喜欢去club享受热闹气氛的人，因为附近就有著名的Potato Head Beach Club。如果是家庭旅行，也许可以考虑其他选择，不过这里有无边泳池和小孩戏水区，对一些家庭来说也是不错的选择。
 
 ![Potato Head Suites & Studios](https://images.gobaligo.id/images/2026-04/1776001753497-387638706.jpeg)
 ![Potato Head Suites & Studios](https://images.gobaligo.id/images/2026-04/1776001753970-471283622.jpeg)
@@ -505,9 +505,9 @@ Mei Chen提供
 
 中午12点，我们退房离开，前往机场，结束了在巴厘岛的精彩旅程。
 
-### 水明漾饭店至机场
+### 水明漾酒店至机场
 
-离开巴厘岛的最后一天，我们选择搭乘Grab前往机场。我们叫了两台车，每台等待时间约为10分钟。下午12点半左右出发，大约1点40分左右到达机场，路上交通不算太拥挤，两台车的总费用还不到13美元。相比之下，Klook的价格与包车前往金巴兰的价格相当。
+离开巴厘岛的最后一天，我们选择搭乘Grab前往机场。我们叫了两辆车，每辆等待时间约为10分钟。下午12点半左右出发，大约1点40分左右到达机场，路上交通不算太拥挤，两辆车的总费用还不到13美元。相比之下，Klook的价格与包车前往金巴兰的价格相当。
 
 ![Mei Chen提供，水明漾沙灘的父子倆](https://images.gobaligo.id/vocus/vocus_d85b6fe42e11ab0550715b7817cd1e94.jpg)
 
@@ -521,9 +521,9 @@ Mei Chen提供，水明漾沙滩的父子俩
 
 ## 行程后记与心得
 
-此次行程主要依大人为主，但每天还是有安排给小孩和大人玩水的时间。我们没有选择入住高级的villa或度假村，因为行程安排得很紧凑，没时间好好享受，所以就不多花钱啦！我们主要选择的是评价好、性价比高的饭店入住。
+此次行程主要依大人为主，但每天还是有安排给小孩和大人玩水的时间。我们没有选择入住高级的villa或度假村，因为行程安排得很紧凑，没时间好好享受，所以就不多花钱啦！我们主要选择的是评价好、性价比高的酒店入住。
 
-如果对庙宇不是特别感兴趣，可以考虑删减一些相关行程，这样就会有更多时间去享受按摩、玩水和逛街的乐趣。不过，我们这次是抱着可能一生只来一次的心态，硬是把所有知名景点都安排得满满的，整体而言是一次非常丰富而难忘的旅程。😆
+如果对寺庙不是特别感兴趣，可以考虑删减一些相关行程，这样就会有更多的时间去享受按摩、玩水和逛街的乐趣。不过，我们这次是抱着可能一生只来一次的心态，硬是把所有知名景点都安排得满满的，整体而言是一次非常丰富而难忘的旅程。😆
 
 **同行家人感受**：巴厘岛的交通真的非常拥堵，虽然这次几乎把所有知名景点都游览了一遍，但行程不能排得太紧密。此次行程除了住到「鬼屋」以外，其他安排都还不错。未来可以考虑删减一些寺庙的行程，改为更放松的活动。至于购物的部分，感觉开价过高再让人砍价的体验并不太好。
 
@@ -537,7 +537,7 @@ Mei Chen提供，水明漾沙滩的父子俩
 
 本篇改编自「[Go Bali Go 巴厘岛旅游](https://www.facebook.com/groups/baligo/)」脸书社团分享文，原文链接在[这里](https://www.facebook.com/groups/baligo/permalink/1548615585685681/)
 
-您觉得 Mei Chen 他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
+您觉得 Mei Chen 他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
 {{block:遊記}}
 

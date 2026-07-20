@@ -4,7 +4,7 @@ title: 巴厘岛六日自由行Nusa Penida跳岛攻略
 description: >-
   这是我们社团网友「Sophie）」在巴厘岛度过的六天精彩自由行程！有许多参考了「小杰印尼」的视频和我们「巴厘岛旅游攻略」的精彩攻略的组合。让我们一起看看这段她自己安排的充满冒险和探索旅程吧！
 pubDate: '2024-01-28'
-updatedDate: 2026-07-10T00:00:00.000Z
+updatedDate: 2026-07-20T00:00:00.000Z
 update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2eb0a8dae04d24a5cfc262605f45386b.jpg'
 tags:
@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/65b51f59fd89780001e498d4'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 65eee795835ed244f59dece8be784bd2
+_srcHash: a2e87cbc5f6919c7df6c1870f9f022f1
 ---
 **重点摘要**：六天行程路线是**乌布（前两天）→ 佩尼达岛跳岛（第三到五天）→ 金巴兰（第六天）告别巴厘岛**。实测提醒：Sanur 港口出发的渡轮**曾误点达 2 小时**，跳岛行程请预留缓冲时间；佩尼达岛东岸必看 Diamond Beach 与 Atuh Beach。详细每日行程与时间安排如下。
 
@@ -143,7 +143,7 @@ Diamond Beach 图：Sophie提供
 
 ## 1/23第六天：Jimbaran和告别巴厘岛
 
-- **07:00**：在金巴兰酒店 [Fox Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3121957) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6371074&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6y8zFJMEk9YyZ4_KR3XfYhBiNDM6yWayOcDQGAecUB88dcq2vA3dkOATwzGBsetfCvIKRcSOjyDr3h1VXHB12MDKdYJzOvoDp5Jld_KdYmDmWMV5i-cwUXa2UnVqpZGWio1SSWZKTqmSl9HTRvKcNe56vaFXSUUpJLU4GCgFZibn5pXklQLaFsZ6BAVCgJLHCMwWsMTkxJ7k0J7EkNaSyAGiAmY5SZrFzSVFmQVBqbmZJSSpQVVpiTnEqSDwotRgokwwWVPIDGlMEFcjMz4NoN0QRC0vMKU2FuABooVsq1A7DWh1Mhz-b0_u0e-aLTbuJcrg5tR1uQIzDjWtjH7EwRcd-YmH4xcLQxMrQxcowiZWZYzr7Llae4BAjX-8gXUPdKF1DKXlDAwMDU0NjU1Ndg0SLRFPjZENdE0sTI3NDXSMTUyMzja3dH288MTaylmKdcuD5NHYFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbJbGrs7GjlE2XMyhwS6C6VefZ2mbSTtIMYeEuyhODrrwVrX3tL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD4SJp_EWpWhGxKe0StewNjAyNTFyC3A6MEYwVgB5DGuYmTnYjYwMhRg2sDIuIPxPwwwvmIEWQIAYN9JO9kCAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-24526&detailFilters=17|1~17~1*31|6371074~31~6371074*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=900&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) 顶楼泳池放松，享受美好的早晨。
+- **07:00**：在金巴兰酒店 [Fox Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3121957) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-6371074/fox-hotel-jimbaran-beach-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) 顶楼泳池放松，享受美好的早晨。
 - **12:00**：到Wahaha享受美味的猪肋排。
 
 Wahaha吃过的都说赞！

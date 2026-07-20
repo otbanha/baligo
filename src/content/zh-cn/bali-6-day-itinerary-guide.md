@@ -3,7 +3,7 @@ title: 巴厘岛自由行六天行程：住宿、美食、景点推荐
 slug: bali-6-day-itinerary-guide
 description: 这次的巴厘岛之旅，我们一家人带着满满的期待飞往这个充满魅力的岛屿。
 pubDate: 2024-09-18T00:00:00.000Z
-updatedDate: 2026-07-10T00:00:00.000Z
+updatedDate: 2026-07-20T00:00:00.000Z
 pubHour: null
 category:
   - 遊記分享
@@ -17,7 +17,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_fe6a030ea275cf610d3a9c87b3d2c
 originalUrl: 'https://vocus.cc/article/66c0ba76fd89780001527eed'
 update: 2026/05/24
 lang: zh-cn
-_srcHash: 50af51d48a68fc0aeb33cdd77be53eb0
+_srcHash: 3854f5c4de626b528e1dd8fd5a995a9b
 ---
 > 以下内容由团友 [​Oscar Lin](https://www.facebook.com/share/p/4Eev2drzrfF5SKtc/) 提供，并同意我们改编
 
@@ -40,7 +40,7 @@ Oscar Lin提供
 ![8月13日：抵达乌布，享受美食与住宿](https://images.gobaligo.id/images/2026-06/1780825442900-5906377.jpg)
 ![8月13日：抵达乌布，享受美食与住宿](https://images.gobaligo.id/images/2026-06/1780825443478-5906331.jpg)
 
-[> Komaneka at Rasa Sayang 房价 & 空房查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=256185) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685387&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaycLFJMEkNYmF4_nZrtOsQuyGpmYGhgZGBhtFLFqbGR09HlaJrDvc5uApss79YZVLj0MAT8SUA8-nsSdauroX_TwY6NDFyAoWmMF4-pXmCkbGjYzGIMCc5rCDkekAI9MJxvcKC5imLL5vdoqFmWMT2yWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJsYWOoZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGXywMTawMXazMHKeYJgHJ9wq7WPn9IkPM_Bx1w80iXXWjdA0vsO5UlpI3NDAwMDU0NjXVNUi0TDQ1TjbUNbE0MTI31DU2tjA107gztfPmE2MjaylIClBg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmpubm5mGWXDxRwa7CKYfvV5lraZtIMUc0i4i-LkoAtvVXtP22sxe7oEGX7Qe7693drSPnDP65wT9sYL7CPXz6zZfBYon8RalaEbEp7RK17A2MDI1MXILcDowRjBWAHkMa5iZOdiNjAyFGDawMi4g_E_DDC-YgRZAgB1UectBQMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-33856&detailFilters=17|1~17~1*31|685387~31~685387*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=285&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/j3XfJIPj)
+> Komaneka at Rasa Sayang 房价 & 空房查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=256185) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685387/komaneka-at-rasa-sayang-ubud/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/j3XfJIPj)
 
 已收录在[【巴厘岛乌布住宿】乌布30+特色住宿，体验巴厘岛山林美景中的奇幻之旅！](https://gobaligo.id/zh-cn/blog/ubud-resorts-guide/)
 
@@ -55,7 +55,7 @@ Oscar Lin提供
 
 接着，我们来到了司机推荐的**咖啡庄园**。这里的环境让人感到非常惬意，四周绿意盎然，还有机会与麝香猫合照，让孩子们非常开心。更让人感到满意的是，包车司机没有强迫推销任何产品，这点让我们感到非常轻松自在。
 
-随后，我们前往著名的**圣泉寺**。今天这里的人潮并没有我们想象中那么多，也许是因为我们选择的时间比较早。我们特地请司机带我们走完整套祈福仪式，整个过程非常庄严神圣，司机还很细心地帮我们录影和拍照，留下了珍贵的回忆。
+随后，我们前往著名的**圣泉寺**。今天这里的人潮并没有我们想象中那么多，也许是因为我们选择的时间比较早。我们特地请司机带我们走完整个祈福仪式，整个过程非常庄严神圣，司机还很细心地帮我们录影和拍照，留下了珍贵的回忆。
 
 最后一站是**Tis Cafe**。这里的餐点味道依然普通，不过胜在这里没有低消，环境非常轻松。不过，要进去欣赏梯田的景色需要爬一段路，而且只能看到一小片梯田，对于期待看到壮观梯田景观的人来说，可能会有点失望。
 
@@ -77,7 +77,7 @@ Oscar Lin提供
 
 https://youtu.be/3AqPucmnSLE
 
-结束了一天的行程后，我们入住了**Ulu Segara Luxury Suites & Villas**。这间酒店虽然有点偏旧，但泳池和海滩的景色非常美丽，房间也大到让人感到惊喜，让我们有一个舒适的夜晚。
+结束了一天的行程后，我们入住了**Ulu Segara Luxury Suites & Villas**。这间饭店虽然有点偏旧，但泳池和海滩的景色非常美丽，房间也大到让人感到惊喜，让我们有一个舒适的夜晚。
 
 ![8月15日：乌布市区漫游与乌鲁瓦图之旅](https://images.gobaligo.id/images/2026-06/1780825728102-468892650.jpg)
 ![8月15日：乌布市区漫游与乌鲁瓦图之旅](https://images.gobaligo.id/images/2026-06/1780825728492-22391557.jpg)
@@ -85,7 +85,7 @@ https://youtu.be/3AqPucmnSLE
 ![8月15日：乌布市区漫游与乌鲁瓦图之旅](https://images.gobaligo.id/images/2026-06/1780825729218-209357380.jpg)
 ![8月15日：乌布市区漫游与乌鲁瓦图之旅](https://images.gobaligo.id/images/2026-06/1780825729535-255339430.jpg)
 
-> Ulu Segara Luxury Suites & Villas 房价 & 空房查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=544215) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1386552&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NqYeFikmCS-svM8WDnku-sQowGFu9aGR2NQeBzu4OnfOvrwB3beh0CeCKmHHg-jT3Rq7pZ3-dIoEMXIytYYAbjjgshGxnXuT-sEuFLd9jByHSAkekE42GlBUw3TzdZn2Jh5rjBdonlK1N0tVJ2aqWSlYmOUklmSU6qkpXS00Xznjbseb6iVUlHKSW1OBkoBGQl5uaX5pUA2SZGFnoGBkCRksQKzxSwzuTEnOTSnMSS1JDKAqAJZjpKmcXOJUWZBUGpuZklJalAVWmJOcWpIPGg1GKgTDJYUMkPaEwRVCAzPw-i3RBFLCwxpzQV4gSghW6pUDsMa3UwXf5sTu_T7pkvNu0mzuXm1Ha5ATEuN66NfcTCFB37iYXhFwtDEytDFyszxymmSUDysNIuVrZAAydvY-MLrL2qUoqGBgYGRqamRua6BomWiUmGZha6JpYmxsZGuoYGZmaGBoYa3ZcOHHxqbGQtBYl3BUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWxmzgaujq5RNlzMni5Bgvf-s-RqK1vaSzGHhLsorrzJvPbAhNP2WiA5Q5hcoMUXMf73lgvsI2HySaxVGboh4Rm94gWMDYxMXYzcAowejBGMFUAe4ypGhg2MjDsY_8MA4ytGkOkAmup-MusCAAA&masterhotelid_tracelogid=100025527-0a9ab168-494332-1066101&detailFilters=17|1~17~1*31|1386552~31~1386552*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=708&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/qYbbhFzr)
+> Ulu Segara Luxury Suites & Villas 房价 & 空房查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=544215) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1386552/ulu-segara-luxury-suites-and-villas/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/qYbbhFzr)
 
 {{block:uluwatu}}
 
@@ -95,9 +95,9 @@ https://youtu.be/3AqPucmnSLE
 
 Oscar Lin提供
 
-第四天，我们来到了**Finns Club**，这是一个以海滩为主题的俱乐部。我们提前订了座位，晚上有火舞表演和烟花秀，整个氛围像是一个大型的户外夜店，非常热闹。不过个人觉得，如果只是想感受这里的氛围，其实不需要提前订座位，傍晚直接walk in进去就好，这样反而更加灵活，不用花太多钱。
+第四天，我们来到了**Finns Club**，这是一个以海滩为主题的俱乐部。我们提前订了座位，晚上有火舞表演和烟花秀，整个氛围像是一个大型的户外夜店，非常热闹。不过个人觉得，如果只是想要感受这里的氛围，其实不需要提前订座位，傍晚直接walk in进去就好，这样反而更加灵活，不用花太多钱。
 
-小杰在金巴兰分店的用餐体验：
+https://youtube.com/shorts/wai2lSW3vVU
 
 {{block:canggu}}
 

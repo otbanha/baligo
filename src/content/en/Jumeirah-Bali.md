@@ -1,16 +1,17 @@
 ---
 title: >-
-  【2026 Bali Luxury Hotel】Jumeirah Bali Uluwatu Unboxing: Stunning Majapahit
-  Water Palace, All-Villa Secluded Luxury Guide
+  [2026 Bali Luxury Hotel] Jumeirah Bali Uluwatu Review: A Stunning Majapahit
+  Water Palace and All-Villa Secluded Luxury Guide
 slug: Jumeirah-Bali
 description: >-
-  Step into the dreamlike water palace of Java's Golden Age! The latest
-  unveiling of Jumeirah Bali, a top-tier luxury resort in Uluwatu opening in
-  2026. This article details: private villas blending Majapahit dynasty
-  aesthetics, exclusive access to Dreamland Beach, stunning Indian Ocean sunset
-  views, and booking strategies for high-net-worth travelers seeking honeymoons,
-  secluded getaways, and ways to avoid pitfalls.
+  Step into a dreamlike water palace from Java's Golden Age! The latest review
+  of the 2026 top-tier luxury resort in Uluwatu, Jumeirah Bali. This article
+  covers everything: private villas blending Majapahit Empire aesthetics,
+  exclusive access to Dreamland Beach, breathtaking Indian Ocean sunset views,
+  and booking strategies for high-net-worth travelers on honeymoons, secluded
+  getaways, and avoiding pitfalls.
 pubDate: 2026-07-03T00:00:00.000Z
+updatedDate: 2026-07-20T00:00:00.000Z
 pubHour: 18
 category:
   - 住宿推薦
@@ -31,83 +32,84 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 33e9bbeb2995f6d321d24568b71bff36
+_srcHash: 0cdb4ad95a876e9015b833d6bb14b3de
 ---
-Bali is overflowing with top-tier resorts, but few manage to blend a sense of historical weight with modern aesthetics as gracefully as **Jumeirah Bali** — it's arguably the most stunning addition in recent years. Since opening in 2022, this resort has quickly become one of the most talked-about luxury properties on the island.
+
+Bali has no shortage of top-tier resorts, but few blend historical gravitas with modern elegance as gracefully as **Jumeirah Bali**. Since opening in 2022, it has quickly become one of the most talked-about luxury resorts on the island.
 
 ![【2026 峇里島奢華飯店】Jumeirah Bali 烏魯瓦圖朱美拉開箱：絕美滿者伯夷水上宮殿、全別墅避世奢華指南](https://images.gobaligo.id/images/2026-05/1778724341529-1.jpg)
 
-Perched on the limestone cliffs of Uluwatu, this five-star resort draws its design inspiration from the 14th-century Majapahit Empire, the most powerful kingdom in Indonesian history. The moment you step into the hotel, the grandeur of a water palace blends with modern minimalist lines, making you feel less like a hotel guest and more like you've time-traveled to an ancient Javanese royal summer retreat. For travelers seeking ultimate privacy and a sense of space, this is the kind of place that makes you never want to check out.
+Perched on the limestone cliffs of Uluwatu, this five-star resort draws inspiration from the 14th-century Majapahit Empire, Indonesia's most powerful kingdom. From the moment you step inside, the grandeur of a water palace intertwined with sleek, minimalist lines makes you feel less like you're checking into a hotel and more like you've time-traveled to an ancient Javanese royal retreat. For travelers seeking ultimate privacy and space, this is a place that makes you never want to check out.
 
 ## 🏆 International Awards & Honors (2024–2026)
 
 ![國際獎項榮譽 (2024–2026)](https://images.gobaligo.id/images/2026-05/1778724437514-6.jpg)
 
-Jumeirah Bali has recently shone in multiple international travel awards — not just a matter of reputation, but the highest recognition of its hardware and software excellence.
+Jumeirah Bali has recently shined in several international travel awards, a testament not just to its reputation but to the excellence of its facilities and service:
 
 - **World Travel Awards**
     - **2025:** Won "Bali's Leading Luxury Resort."
     - **2024:** Won "Asia's Leading Villa Resort" and "Bali's Leading Resort."
-    - **2026 (Nominated):** Received multiple nominations including "Asia's Leading Luxury Villa Resort" and "Bali's Leading Luxury Resort."
+    - **2026 (Nominated):** Nominated for multiple categories including "Asia's Leading Luxury Villa Resort" and "Bali's Leading Luxury Resort."
 - **Exquisite Awards**
     - Named "Best Luxury Hotel on the Island" and received the "Reader's Choice Award."
 - **Travel + Leisure Luxury Awards Asia Pacific**
-    - The hotel and its facilities (such as Talise Spa) have maintained high visibility across various categories in 2025 and 2026, consistently shortlisted for Indonesia's best hotel spa and beachfront resort.
+    - The resort and its facilities (such as Talise Spa) have maintained high visibility in various categories for 2025 and 2026, consistently shortlisted among Indonesia's best hotel spas and beachfront resorts.
 
-Even when rain interrupts your Bali trip, the island offers plenty of alternative activities to ensure you can still experience its wonderful culture and natural wonders. Through the 60 alternative plans shared in this article, we hope to provide solutions that allow you to fully enjoy your time and explore Bali's beauty, even on rainy days!
+***
 
 ## 📍 Location & Surroundings
 
 ![位置與周邊環境](https://images.gobaligo.id/images/2026-05/1778724480563-7.jpg)
 
-The resort is located in the Pecatu area at the southwestern tip of Bali, known for its dramatic cliffside ocean views and pristine white sand beaches. Jumeirah Bali directly faces the famous surfing spot **Dreamland Beach**, and it takes less than a 2-minute walk downstairs to step onto the sand.
+The resort sits in the Pecatu area on Bali's southwestern tip, known for its dramatic cliffside ocean views and pristine white sand beaches. Jumeirah Bali directly overlooks the famous surf spot **Dreamland Beach**, and you can step onto the sand in less than 2 minutes from the property.
 
 **Within walking distance or a short drive:**
 
-- **Uluwatu Temple:** Watch the sunset and fire dance on the cliffs (about 15-20 minutes by car).
-- **Single Fin Bali:** A must-visit for those who love surfing and sunset bar vibes.
-- **El Kabron Spanish Restaurant & Cliff Club:** A very refined ocean-view pool club.
-- **New Kuta Golf:** For golf enthusiasts, it's right next to the hotel.
+- **Uluwatu Temple:** Watch the sunset over the cliffs and the Kecak fire dance (about 15-20 minutes by car).
+- **Single Fin Bali:** A must-visit for surfers and sunset bar vibes.
+- **El Kabron Spanish Restaurant & Cliff Club:** A refined cliffside pool club with stunning views.
+- **New Kuta Golf:** Right next to the hotel for golf enthusiasts.
 
-Although this area is not as lively and bustling as Seminyak, the tranquility and sea breeze here are what make Bali truly enchanting.
+While this area isn't as lively and bustling as Seminyak, its tranquility and sea breeze are what make Bali truly enchanting.
 
-Even when rain interrupts your Bali trip, the island offers plenty of alternative activities to ensure you can still experience its wonderful culture and natural wonders. Through the 60 alternative plans shared in this article, we hope to provide solutions that allow you to fully enjoy your time and explore Bali's beauty, even on rainy days!
+***
 
 ## 🏨 Facilities Overview
 
-The public spaces here are designed with an impressive sense of grandeur, but the true highlight is the **Kolam Segaran** main pool, inspired by the legendary Majapahit reservoir. Its infinity edge seamlessly merges with the Indian Ocean horizon, creating a powerful visual impact.
+The public spaces here are designed with a grand sense of scale, with the standout being the **Kolam Segaran** main pool, inspired by the legendary Majapahit reservoir. Its infinity edge blends seamlessly with the Indian Ocean horizon, creating a powerful visual impact.
 
 ![設施介紹](https://images.gobaligo.id/images/2026-05/1778724847461-pool2.jpg)
 
-- **Talise Spa:** One of the award-winning facilities, offering professional treatments that blend tradition with modernity, and featuring Bali's only authentic Turkish Hammam.
-- **AKASA Restaurant:** A cliffside fine dining restaurant serving flame-grilled cuisine. Sip a cocktail here at sunset for an absolutely romantic experience.
-![Facility](https://images.gobaligo.id/images/2026-05/1778725000902-4.jpg)
-- **Signature Spaces:** The **Trowulan** area in the center of the lobby, with its grand stone pillars and intricate carvings, exudes the elegance of a classical palace at every turn.
-![Facility](https://images.gobaligo.id/images/2026-05/1778724393328-14.jpg)
+- **Talise Spa:** One of the award-winning facilities, offering professional treatments that blend tradition and modernity, featuring Bali's only authentic Turkish Hammam.
+- **AKASA Restaurant:** A cliffside fine dining restaurant serving flame-grilled cuisine. Enjoying a cocktail there at sunset is an absolutely romantic experience.
+![Facility Overview](https://images.gobaligo.id/images/2026-05/1778725000902-4.jpg)
+- **Signature Spaces:** The **Trowulan** area in the center of the lobby, with its massive stone pillars and intricate carvings, exudes the elegance of a classical palace at every turn.
+![Facility Overview](https://images.gobaligo.id/images/2026-05/1778724393328-14.jpg)
 
-Even when rain interrupts your Bali trip, the island offers plenty of alternative activities to ensure you can still experience its wonderful culture and natural wonders. Through the 60 alternative plans shared in this article, we hope to provide solutions that allow you to fully enjoy your time and explore Bali's beauty, even on rainy days!
+***
 
-## 🛏️ Room Type Details
+## 🛏️ Detailed Room Types
 
 ![房型詳細介紹](https://images.gobaligo.id/images/2026-05/1778725040860-13.jpg)
 
-Jumeirah Bali features an all-villa design, with each room offering at least **210 m² (approximately 2,260 sq ft)** of spacious living. Every villa comes with a private infinity pool, a smart home system, a massive 100-inch LCD TV, and memory foam mattresses with excellent support. The bathroom is exceptionally roomy, with a large standalone bathtub set beside a transparent window, allowing guests to soak while taking in the stunning views.
+Jumeirah Bali features an all-villa design, with each room type offering at least **210 m²** of spacious living. Every villa comes with a private infinity pool, smart home system, a massive 100-inch LCD TV, and a highly supportive memory foam mattress. The bathroom is exceptionally roomy, with a large standalone bathtub positioned next to a transparent window, allowing guests to soak while enjoying the stunning views.
 
-### **1. Best for Beginners**
+### **1. Best Entry-Level Choice**
 
 - **Garden Villa with Private Pool**
 
-![1. Best for Beginners](https://images.gobaligo.id/images/2026-05/1778725099864-1.jpg)
-![1. Best for Beginners](https://images.gobaligo.id/images/2026-05/1778725100272-548299010.jpg)
-![1. Best for Beginners](https://images.gobaligo.id/images/2026-05/1778725100713-548299012.jpg)
-![1. Best for Beginners](https://images.gobaligo.id/images/2026-05/1778725101156-548299016.jpg)
-![1. Best for Beginners](https://images.gobaligo.id/images/2026-05/1778725101607-548301727.jpg)
-![1. Best for Beginners](https://images.gobaligo.id/images/2026-05/1778725102033-548301728.jpg)
-![1. Best for Beginners](https://images.gobaligo.id/images/2026-05/1778725102814-566814215.jpg)
-![1. Best for Beginners](https://images.gobaligo.id/images/2026-05/1778725103287-566814254.jpg)
-![1. Best for Beginners](https://images.gobaligo.id/images/2026-05/1778725103768-566814357.jpg)
-![1. Best for Beginners](https://images.gobaligo.id/images/2026-05/1778725104127-566814403.jpg)
-![1. Best for Beginners](https://images.gobaligo.id/images/2026-05/1778725104551-566826165.jpg)
+![1. Best Entry-Level Choice](https://images.gobaligo.id/images/2026-05/1778725099864-1.jpg)
+![1. Best Entry-Level Choice](https://images.gobaligo.id/images/2026-05/1778725100272-548299010.jpg)
+![1. Best Entry-Level Choice](https://images.gobaligo.id/images/2026-05/1778725100713-548299012.jpg)
+![1. Best Entry-Level Choice](https://images.gobaligo.id/images/2026-05/1778725101156-548299016.jpg)
+![1. Best Entry-Level Choice](https://images.gobaligo.id/images/2026-05/1778725101607-548301727.jpg)
+![1. Best Entry-Level Choice](https://images.gobaligo.id/images/2026-05/1778725102033-548301728.jpg)
+![1. Best Entry-Level Choice](https://images.gobaligo.id/images/2026-05/1778725102814-566814215.jpg)
+![1. Best Entry-Level Choice](https://images.gobaligo.id/images/2026-05/1778725103287-566814254.jpg)
+![1. Best Entry-Level Choice](https://images.gobaligo.id/images/2026-05/1778725103768-566814357.jpg)
+![1. Best Entry-Level Choice](https://images.gobaligo.id/images/2026-05/1778725104127-566814403.jpg)
+![1. Best Entry-Level Choice](https://images.gobaligo.id/images/2026-05/1778725104551-566826165.jpg)
 
 ```plain
 - **空間細節**：210 m² / 2260 ft²。
@@ -121,16 +123,16 @@ Jumeirah Bali features an all-villa design, with each room offering at least **2
 
 - **Garden Oasis Villa with Private Pool**
 
-![1. Best for Beginners](https://images.gobaligo.id/images/2026-05/1778725193263-1.jpg)
-![1. Best for Beginners](https://images.gobaligo.id/images/2026-05/1778725194013-350247948.jpg)
-![1. Best for Beginners](https://images.gobaligo.id/images/2026-05/1778725194417-548299010.jpg)
-![1. Best for Beginners](https://images.gobaligo.id/images/2026-05/1778725195239-548306335.jpg)
-![1. Best for Beginners](https://images.gobaligo.id/images/2026-05/1778725195624-548308257.jpg)
-![1. Best for Beginners](https://images.gobaligo.id/images/2026-05/1778725196004-566814215.jpg)
-![1. Best for Beginners](https://images.gobaligo.id/images/2026-05/1778725196461-566814357.jpg)
-![1. Best for Beginners](https://images.gobaligo.id/images/2026-05/1778725197049-566823797.jpg)
-![1. Best for Beginners](https://images.gobaligo.id/images/2026-05/1778725197471-566823886.jpg)
-![1. Best for Beginners](https://images.gobaligo.id/images/2026-05/1778725197897-566823898.jpg)
+![1. Best Entry-Level Choice](https://images.gobaligo.id/images/2026-05/1778725193263-1.jpg)
+![1. Best Entry-Level Choice](https://images.gobaligo.id/images/2026-05/1778725194013-350247948.jpg)
+![1. Best Entry-Level Choice](https://images.gobaligo.id/images/2026-05/1778725194417-548299010.jpg)
+![1. Best Entry-Level Choice](https://images.gobaligo.id/images/2026-05/1778725195239-548306335.jpg)
+![1. Best Entry-Level Choice](https://images.gobaligo.id/images/2026-05/1778725195624-548308257.jpg)
+![1. Best Entry-Level Choice](https://images.gobaligo.id/images/2026-05/1778725196004-566814215.jpg)
+![1. Best Entry-Level Choice](https://images.gobaligo.id/images/2026-05/1778725196461-566814357.jpg)
+![1. Best Entry-Level Choice](https://images.gobaligo.id/images/2026-05/1778725197049-566823797.jpg)
+![1. Best Entry-Level Choice](https://images.gobaligo.id/images/2026-05/1778725197471-566823886.jpg)
+![1. Best Entry-Level Choice](https://images.gobaligo.id/images/2026-05/1778725197897-566823898.jpg)
 
 ```plain
 - **空間細節**：210 m² / 2260 ft²。
@@ -142,18 +144,18 @@ Jumeirah Bali features an all-villa design, with each room offering at least **2
 
 ```
 
-### **2. Premium Scenic Upgrades**
+### **2. Scenic Upgrades**
 
 - **Sunset Villa with Private Pool**
 
-![2. Premium View Options](https://images.gobaligo.id/images/2026-05/1778725145574-1.jpg)
-![2. Premium View Options](https://images.gobaligo.id/images/2026-05/1778725146078-548299010.jpg)
-![2. Premium View Options](https://images.gobaligo.id/images/2026-05/1778725146470-548299012.jpg)
-![2. Premium View Options](https://images.gobaligo.id/images/2026-05/1778725146888-548299016.jpg)
-![2. Premium View Options](https://images.gobaligo.id/images/2026-05/1778725147306-548305000.jpg)
-![2. Premium View Options](https://images.gobaligo.id/images/2026-05/1778725147834-548305005.jpg)
-![2. Premium View Options](https://images.gobaligo.id/images/2026-05/1778725148376-566814215.jpg)
-![2. Premium View Options](https://images.gobaligo.id/images/2026-05/1778725148837-566818105.jpg)
+![2. Scenic Upgrades](https://images.gobaligo.id/images/2026-05/1778725145574-1.jpg)
+![2. Scenic Upgrades](https://images.gobaligo.id/images/2026-05/1778725146078-548299010.jpg)
+![2. Scenic Upgrades](https://images.gobaligo.id/images/2026-05/1778725146470-548299012.jpg)
+![2. Scenic Upgrades](https://images.gobaligo.id/images/2026-05/1778725146888-548299016.jpg)
+![2. Scenic Upgrades](https://images.gobaligo.id/images/2026-05/1778725147306-548305000.jpg)
+![2. Scenic Upgrades](https://images.gobaligo.id/images/2026-05/1778725147834-548305005.jpg)
+![2. Scenic Upgrades](https://images.gobaligo.id/images/2026-05/1778725148376-566814215.jpg)
+![2. Scenic Upgrades](https://images.gobaligo.id/images/2026-05/1778725148837-566818105.jpg)
 
 ```plain
 - **空間細節**：210 m² / 2260 ft²。
@@ -167,12 +169,12 @@ Jumeirah Bali features an all-villa design, with each room offering at least **2
 
 - **Ocean Villa with Private Pool**
 
-![2. Premium View Options](https://images.gobaligo.id/images/2026-05/1778725247903-1.jpg)
-![2. Premium View Options](https://images.gobaligo.id/images/2026-05/1778725248672-548299010.jpg)
-![2. Premium View Options](https://images.gobaligo.id/images/2026-05/1778725249224-548299029.jpg)
-![2. Premium View Options](https://images.gobaligo.id/images/2026-05/1778725249679-548308915.jpg)
-![2. Premium View Options](https://images.gobaligo.id/images/2026-05/1778725250220-548308916.jpg)
-![2. Premium View Options](https://images.gobaligo.id/images/2026-05/1778725250621-566818105.jpg)
+![2. Scenic Upgrades](https://images.gobaligo.id/images/2026-05/1778725247903-1.jpg)
+![2. Scenic Upgrades](https://images.gobaligo.id/images/2026-05/1778725248672-548299010.jpg)
+![2. Scenic Upgrades](https://images.gobaligo.id/images/2026-05/1778725249224-548299029.jpg)
+![2. Scenic Upgrades](https://images.gobaligo.id/images/2026-05/1778725249679-548308915.jpg)
+![2. Scenic Upgrades](https://images.gobaligo.id/images/2026-05/1778725250220-548308916.jpg)
+![2. Scenic Upgrades](https://images.gobaligo.id/images/2026-05/1778725250621-566818105.jpg)
 
 ```plain
 - **空間細節**：210 m² / 2260 ft²。
@@ -207,7 +209,7 @@ Jumeirah Bali features an all-villa design, with each room offering at least **2
 
 ```
 
-### **4. Group and Family Room Types**
+### **4. Group & Family Rooms**
 
 - **Two Bedroom Oceanfront Villa with Private Pool**
 
@@ -229,35 +231,35 @@ Jumeirah Bali features an all-villa design, with each room offering at least **2
 
 ```
 
-Even when rain interrupts your Bali trip, the island offers plenty of alternative activities to ensure you can still experience its wonderful culture and natural wonders. Through the 60 alternative plans shared in this article, we hope to provide solutions that allow you to fully enjoy your time and explore Bali's beauty, even on rainy days!
+***
 
-## 👥 Suitable For
+## 👥 Who It's For
 
-- **Honeymoon Couples:** Extremely private, with staff so detail-oriented they'll make you feel the ceremony of it all.
-- **Luxury Escapists:** Travelers looking to escape city stress and indulge in high-quality relaxation.
-- **Birthday/Anniversary Trips:** The hotel's facilities and services ensure flawless execution of your celebration.
+- **Honeymooners:** Exceptional privacy, and the staff's obsessive attention to detail will make you feel truly celebrated.
+- **Luxury Seekers:** Travelers looking to escape city stress and indulge in a high-quality retreat.
+- **Birthday/Anniversary Trips:** The hotel's facilities and service ensure flawless execution of special occasions.
 
 ![適合族群](https://images.gobaligo.id/images/2026-05/1778725612897-romantic.jpg)
 
-Even when rain interrupts your Bali trip, the island offers plenty of alternative activities to ensure you can still experience its wonderful culture and natural wonders. Through the 60 alternative plans shared in this article, we hope to provide solutions that allow you to fully enjoy your time and explore Bali's beauty, even on rainy days!
+***
 
 ## 💬 Real Guest Reviews
 
-"The attention to detail in the room is impeccable—spacious and spotlessly clean. The service from the staff is among the best I've experienced in Bali. The breakfast, in particular, is outstanding." (Source: Agoda ⭐ 9.3)
+> "The room details were handled perfectly—spacious and spotless. The staff provided some of the best service I've experienced in Bali. The breakfast, in particular, was outstanding." (Source: Agoda ⭐ 9.3)
 
-"The gardens and villas are impeccably maintained, exuding a royal and aristocratic vibe. While the price isn't cheap, the hotel's attention to detail makes the expense well worth it." (Source: Google)
+> "The gardens and villas are beautifully maintained, giving a royal, aristocratic feel. While not cheap, the hotel's focus on detail makes every penny worth it." (Source: Google)
 
 [https://www.instagram.com/reel/CsQ6MvSpBta/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==](https://www.instagram.com/reel/CsQ6MvSpBta/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
-Even when rain interrupts your Bali trip, the island offers plenty of alternative activities to ensure you can still experience its wonderful culture and natural wonders. Through the 60 alternative plans shared in this article, we hope to provide solutions that allow you to fully enjoy your time and explore Bali's beauty, even on rainy days!
+***
 
 ## 📌 Booking Information
 
-- **Rating:** Agoda guest rating 9.3⭐ | Booking rating 9.5⭐ | Trip rating 9.4
+- **Rating:** Agoda 9.3⭐ | Booking 9.5⭐ | Trip 9.4
 - **Address:** Kawasan Pecatu Indah Resort, Jl. Raya Uluwatu, Pecatu, South Kuta, Badung Regency, Bali 80361, Indonesia
-- **Pros:** Award-winning architectural design, all-villa private pools, and attentive service that even includes offering chilled towels at just the right moment.
-- **Cons:** The resort grounds are quite large, so getting around requires a buggy (electric shuttle) and you may need to wait; the beach in front of the hotel is a public area, and its cleanliness is heavily affected by seasonal currents.
+- **Pros:** Award-winning architectural design, all-villa private pools, and attentive service that includes offering chilled towels at every turn.
+- **Cons:** The resort is sprawling, so getting around requires a buggy (electric shuttle) which may involve a short wait; the beach in front is a public area, and its cleanliness can vary with seasonal currents.
 
-👉 Check Rates & Book: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=40316042) | [Booking](https://www.booking.com/hotel/id/jumeirah-bali-bali.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaGiIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Aq2rktAGwAIB0gIkZmFkZTE3MzItNjk3MS00NDliLThkZmUtZDRiMzlkMWEwNGEx2AIB4AIB&sid=6eb6ec19b5b6ad6faf1663a2ef8412a8&age=9&all_sr_blocks=573309902_416213410_2_1_0&checkin=2026-05-13&checkout=2026-05-14&dest_id=5733099&dest_type=hotel&dist=0&group_adults=2&group_children=1&hapos=1&highlighted_blocks=573309902_416213410_2_1_0&hpos=1&matching_block_id=573309902_416213410_2_1_0&no_rooms=1&req_adults=2&req_age=9&req_children=1&room1=A%2CA%2C9&sb_price_type=total&sr_order=popularity&sr_pri_blocks=573309902_416213410_2_1_0__1638824000&srepoch=1778685387&srpvid=81fc6b63e1b307f7&type=total&ucfs=1&) | [Trip](https://www.trip.com/t/wBQijSymgU2)
+👉 Check Rates & Book: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=40316042) | [Booking](https://www.booking.com/hotel/id/jumeirah-bali-bali.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaGiIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Aq2rktAGwAIB0gIkZmFkZTE3MzItNjk3MS00NDliLThkZmUtZDRiMzlkMWEwNGEx2AIB4AIB&sid=6eb6ec19b5b6ad6faf1663a2ef8412a8&age=9&all_sr_blocks=573309902_416213410_2_1_0&checkin=2026-05-13&checkout=2026-05-14&dest_id=5733099&dest_type=hotel&dist=0&group_adults=2&group_children=1&hapos=1&highlighted_blocks=573309902_416213410_2_1_0&hpos=1&matching_block_id=573309902_416213410_2_1_0&no_rooms=1&req_adults=2&req_age=9&req_children=1&room1=A%2CA%2C9&sb_price_type=total&sr_order=popularity&sr_pri_blocks=573309902_416213410_2_1_0__1638824000&srepoch=1778685387&srpvid=81fc6b63e1b307f7&type=total&ucfs=1&) | [Trip](https://hk.trip.com/hotels/bali-hotel-detail-65267918/jumeirah-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
 {{block:uluwatu}}

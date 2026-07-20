@@ -1,14 +1,13 @@
 ---
 slug: oshom-bali-nuanu-creative-city
-title: >-
-  【Canggu Accommodation Recommendation】Boutique Hotel in Nuanu Creative City:
-  Oshom Bali
+title: '【Canggu Accommodation Guide】Boutique Hotel in Nuanu Creative City: Oshom Bali'
 description: >-
-  Oshom Bali is a boutique hotel set to open in November 2024, located within
-  the Nuanu Creative City in Tabanan, Bali. This 'Creative City' is not far from
-  the famous Seminyak and Canggu areas, blending art, culture, and sustainable
-  development concepts to create a unique vacation experience.
+  Oshom Bali is a boutique hotel that opened in November 2024, located within
+  Nuanu Creative City in Tabanan, Bali. This 'creative city' is not far from the
+  famous Seminyak and Canggu, blending art, culture, and sustainability concepts
+  to create a unique getaway experience.
 pubDate: 2025-02-02T00:00:00.000Z
+updatedDate: 2026-07-20T00:00:00.000Z
 category:
   - 住宿推薦
 tags:
@@ -41,93 +40,93 @@ agoda_star_rating: 5
 latitude: -8.630688
 longitude: 115.095566
 lang: en
-_srcHash: bb74a4d8a484595dab27061cd7a6bd1b
+_srcHash: aa08500cc893433542f71a9c6593d11e
 ---
 
-Oshom Bali is a boutique hotel set to open in November 2024, located within the Nuanu Creative City in Tabanan, Bali. This 'Creative City' is not far from the famous Seminyak and Canggu areas, blending art, culture, and sustainable development concepts to create a unique vacation experience.
+Oshom Bali is a boutique hotel that opened in November 2024, located within Nuanu Creative City in Tabanan, Bali. This 'creative city' is not far from the famous Seminyak and Canggu, blending art, culture, and sustainability concepts to create a unique getaway experience.
 
-![【Canggu Accommodation Recommendation】Boutique Hotel in Nuanu](https://images.gobaligo.id/vocus/vocus_6d35a594e48ed55c23325be3bfd2b672.jpg)
+![【Canggu住宿推薦】Nuanu Creative City 的精品旅館：Oshom Bali](https://images.gobaligo.id/vocus/vocus_6d35a594e48ed55c23325be3bfd2b672.jpg)
 
-![【Canggu Accommodation Recommendation】Boutique Hotel in Nuanu](https://images.gobaligo.id/vocus/vocus_d37530d8b4a80bca04bb6e451368fab4.jpg)
+![【Canggu住宿推薦】Nuanu Creative City 的精品旅館：Oshom Bali](https://images.gobaligo.id/vocus/vocus_d37530d8b4a80bca04bb6e451368fab4.jpg)
 
-The hotel is nestled against a cliff, facing a black sand beach, and features only 11 rooms. It also boasts seven treehouses built above mangroves, a saltwater pool, and a refined restaurant. Soon, a pink-orange rooftop bar will be added, along with reading spaces and a yoga room, offering travelers more moments of tranquility.
+Set against a cliff and facing a black sand beach, the hotel features just 11 rooms, along with seven treehouses built over mangroves, a saltwater pool, and an exquisite restaurant. A peachy-orange rooftop bar is also set to launch soon, alongside planned reading spaces and a yoga room, offering travelers more moments of tranquility.
 
-Additionally, the hotel's founder, Daisy Angus, has curated a series of creative activities, such as painting workshops on the lawn and special 'Bed Talks,' similar to TED Talks, designed to inspire travelers' creativity and imagination.
+Additionally, the hotel's founder, Daisy Angus, has curated a series of creative activities, such as painting workshops on the lawn and special 'Bed Talks'—similar to TED Talks—designed to spark inspiration and creativity in guests.
 
-## 🛏️ Unique Room Types at Oshom
+## 🛏️ Oshom's Unique Room Types
 
-Upon entering the room, guests are greeted by traditional Indonesian carved doors, leading to spacious interiors that are up to three times larger than some apartments.
+Upon entering the room, the first thing that catches your eye is a traditional Indonesian carved door, with an interior that is spacious—even three times larger than some apartments.
 
-![Unique Room Types at Oshom](https://images.gobaligo.id/vocus/vocus_cc8584ee4552bacdcec960a23e800b28.jpg)
+![Oshom 的獨特房型](https://images.gobaligo.id/vocus/vocus_cc8584ee4552bacdcec960a23e800b28.jpg)
 
-![Unique Room Types at Oshom](https://images.gobaligo.id/vocus/vocus_68529a8c72cd60a0d261cba72455e8c4.jpg)
+![Oshom 的獨特房型](https://images.gobaligo.id/vocus/vocus_68529a8c72cd60a0d261cba72455e8c4.jpg)
 
-![Unique Room Types at Oshom](https://images.gobaligo.id/vocus/vocus_937b6e19fae497fba17ff000f6a466fa.jpg)
+![Oshom 的獨特房型](https://images.gobaligo.id/vocus/vocus_937b6e19fae497fba17ff000f6a466fa.jpg)
 
-![Unique Room Types at Oshom](https://images.gobaligo.id/vocus/vocus_106b219a3239c0f3aecc0c6ffc473408.jpg)
+![Oshom 的獨特房型](https://images.gobaligo.id/vocus/vocus_106b219a3239c0f3aecc0c6ffc473408.jpg)
 
-The rooms feature minimalist yet luxurious designs, equipped with:
+The room boasts a minimalist yet luxurious design, equipped with:
 
 - King-size bed
-- Fully equipped bathroom: oversized bathtub, double sinks, separate shower, and toiletries
-- Floor-to-ceiling windows: offering direct views of the spectacular ocean waves
-- Smart devices: iPad-controlled lighting and curtains for enhanced convenience
+- Full bathroom amenities: oversized bathtub, dual sinks, separate shower and toilet
+- Floor-to-ceiling windows: offering direct views of the stunning ocean waves
+- Smart features: iPad controls for lighting and curtains, enhancing convenience during your stay
 
-![Unique Room Types at Oshom](https://images.gobaligo.id/vocus/vocus_7f77840f495ab79c2c821d21250679bf.jpg)
+![Oshom 的獨特房型](https://images.gobaligo.id/vocus/vocus_7f77840f495ab79c2c821d21250679bf.jpg)
 
 ## ✨ Hotel Design Highlights:
 
-- The glitter ball in the wardrobe creates a romantic and dreamy atmosphere
-- Room walls are decorated with black sand from the volcanic beach in front of the hotel
-- All furniture and decorations are sourced from local Indonesian handicrafts, embodying sustainable development concepts
+- A glitter ball inside the wardrobe creates a romantic and dreamy atmosphere
+- The room walls are adorned with black sand sourced from the volcanic beach in front of the hotel
+- All furniture and decor are handcrafted Indonesian artisanal pieces, embracing the concept of sustainability
 
-The hotel offers a special bedtime story service, leaving a carefully selected short story by the bedside each night, allowing guests to drift off to sleep in the most comfortable way.
+The hotel offers a special nightly bedtime story, leaving a carefully selected short tale by the bedside each evening, allowing guests to drift into dreamland in the most soothing way.
 
-Additionally, there are no TVs in the rooms, but they can be provided upon request. Founder Daisy hopes guests can truly immerse themselves in the environment and spark their inner creativity.
+Additionally, there are no TVs in the rooms, though one can be provided upon request. Founder Daisy hopes guests can fully immerse themselves in the environment and spark their inner creativity.
 
-The room also features a meditation space equipped with a sound drum, a desk and chair, and a sketchbook, providing an inspirational setting for art-loving travelers.
+Each room also features a meditation space equipped with a sound drum, along with a desk, chair, and sketchbook, offering inspiration for travelers who love artistic creation.
 
-## 🍽️ Dining & Nightlife Experiences
+## 🍽️ Food & Nightlife Experience
 
 ### Restaurant
 
-Oshom Bali offers traditional Balinese cuisine and Western dishes, where guests can enjoy meals at the poolside restaurant.
+Oshom Bali serves traditional Balinese cuisine and Western dishes, which guests can enjoy at the restaurant by the pool.
 
-![Restaurant](https://images.gobaligo.id/vocus/vocus_b9eec4d74cfd62c8c277b148014d3ff5.jpg)
+![餐廳](https://images.gobaligo.id/vocus/vocus_b9eec4d74cfd62c8c277b148014d3ff5.jpg)
 
 ### Luna Beach Club
 
 ![Luna Beach Club](https://images.gobaligo.id/vocus/vocus_fca1b66cdf18d17de893b0bc2b70aa18.jpg)
 
-For a more vibrant nightlife experience, Luna Beach Club is just a 1-minute walk away, featuring multiple pools, bars, and beach party areas, with spectacular light shows at night.
+For a livelier nightlife experience, Luna Beach Club is just a one-minute walk away, featuring multiple pools, bars, and beach party areas, with spectacular light shows at night.
 
-Dine at the 369 bamboo restaurant here for a high-quality meal in a relaxed and pleasant atmosphere. Even if you're not a party enthusiast, you can still find your own relaxing moments.
+Dine at the 369 bamboo restaurant here for a high-quality meal in a relaxed and cheerful atmosphere—even if you're not a party enthusiast, you'll find your own moment of relaxation.
 
-## 🏝️ Conclusion: Oshom Bali, the Perfect Blend of Inspiration and Relaxation
+## 🏝️ Final Thoughts: Oshom Bali – The Perfect Blend of Inspiration and Relaxation
 
-Oshom Bali is not just a hotel, but a space that sparks creativity and offers tranquility. From the soothing sounds of the black sand beach to the dreamy accommodation experience with glowing lanterns and treehouses, everything here allows travelers to completely unwind, escape the hustle and bustle, and find inner peace and inspiration.
+Oshom Bali is more than just a hotel; it's a space that sparks creativity and offers serene tranquility. From the healing sounds of the black sand beach to the dreamy stays under glittering disco balls and in treehouses, every element here allows travelers to fully unwind, escape the noise, and find inner peace and inspiration.
 
-If you're planning a unique vacation experience that combines art, nature, and inspiration, Oshom Bali is definitely a must-visit destination!
+If you're planning a unique getaway that blends art, nature, and inspiration, Oshom Bali is an absolute must-consider!
 
-> ▶[**Oshom Bali Booking Link**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=64716205) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=117153593&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/zXbwVorS)
+> ▶[**Book Oshom Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=64716205) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-117153593/oshom-bali-at-nuanu-creative-city/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/zXbwVorS)
 
 ## Guest Reviews
 
-![Guest Reviews](https://images.gobaligo.id/vocus/vocus_5632ec2b0d5dcd05655cb651afef477b.jpg)
+![旅客評論](https://images.gobaligo.id/vocus/vocus_5632ec2b0d5dcd05655cb651afef477b.jpg)
 
-Oshom Bali is unlike any resort I've ever experienced. The seamless integration of the resort with the natural environment is astonishing, making you feel completely immersed in this serene setting while still enjoying top-notch luxury facilities.
+Oshom Bali is unlike any resort I've ever experienced. The seamless integration with the natural surroundings is breathtaking—you feel completely immersed in the serene environment while still enjoying top-tier luxury amenities.
 
-What truly sets Oshom apart is its exceptional service. The attentiveness of the staff is remarkable—they remember your preferences from day one, making every moment feel personalized and special. The sunrise yoga sessions on the deck are a spiritual cleanse, providing the perfect start to each day.
+What truly sets Oshom apart is its exceptional service. The staff's attentiveness is remarkable; they remember your preferences from day one, making every moment feel personalized and special. The sunrise yoga session on the deck is a soul-cleansing experience that sets the perfect tone for each day.
 
-Every detail at Oshom, from the design to the activities, reflects thoughtful consideration and creativity. It's absolutely worth every penny and a must-visit for anyone seeking a unique and rejuvenating journey!
+Every detail at Oshom, from the design to the activities, reflects thoughtful creativity. It's absolutely worth the value and a must-visit for anyone seeking a unique and rejuvenating journey!
 
-![Guest Reviews](https://images.gobaligo.id/vocus/vocus_df995ffa39a727de8bbf1a4a9ab14d23.jpg)
+![旅客評論](https://images.gobaligo.id/vocus/vocus_df995ffa39a727de8bbf1a4a9ab14d23.jpg)
 
-Oshom Bali is an incredibly beautiful and aesthetically pleasing place where we had a wonderful time. The breakfast was delicious, with an impressive variety that left us thoroughly satisfied. The staff were extremely friendly and helpful, always ready to meet our needs promptly.
+Oshom Bali is a stunningly beautiful and aesthetic place where we had a wonderful time. The breakfast was delicious, with an impressive variety. The staff were incredibly friendly and helpful, always ready to meet our needs promptly.
 
-What touched us the most was when the hotel's hostess noticed that I had just celebrated my birthday a few days prior. During breakfast, the staff specially brought me a birthday greeting, a surprise that made us feel incredibly warm and cared for.
+What touched us most was that the hotel hostess noticed my birthday had just passed a few days earlier. During breakfast, the staff specially offered their blessings—a surprise that felt incredibly warm and thoughtful.
 
-The room design is warm and beautiful, and you can hear the sound of the waves while lying in bed - it's truly an amazing experience. Overall, Oshom offers a unique and unforgettable stay, and we highly recommend this place!
+The room design is cozy and beautiful—lying in bed, you can hear the sound of the waves, which is truly an amazing experience. Overall, Oshom offers a unique and unforgettable stay, and we highly recommend it!
 
  BLOCK0 
  BLOCK1 

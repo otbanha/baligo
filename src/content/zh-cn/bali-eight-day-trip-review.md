@@ -4,6 +4,7 @@ slug: bali-eight-day-trip-review
 description: >-
   这是我们今年第二次造访巴厘岛。从10月11日到18日，我们在这座「神之岛」度过了难忘的八天七夜。之所以选择再次前来，是因为深深被巴厘岛的人文风情、自然景致与地道美食所吸引。这次旅程，我们分别入住了三间风格各异的酒店，从热闹的库塔海滩区、宁静的乌布
 pubDate: 2025-12-10T00:00:00.000Z
+updatedDate: 2026-07-20T00:00:00.000Z
 category:
   - 遊記分享
 tags:
@@ -16,7 +17,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_692eaecb9dd12eb2a1234bfb9597793e.png'
 originalUrl: 'https://vocus.cc/article/69170335fd89780001bcca63'
 lang: zh-cn
-_srcHash: 554152b61da98b6bef488301a940b947
+_srcHash: 9dac3e51f53b9779ab6e635ef70d0b3b
 ---
 
 > 以下内容改编自团友 [Pinkey Lo 分享游记](https://www.facebook.com/share/p/1XMLomzb3h/)：
@@ -31,21 +32,21 @@ _srcHash: 554152b61da98b6bef488301a940b947
 
 ### 抵达与换汇
 
-经过数小时的飞行，我们终于踏上巴厘岛的土地。机场外的热带空气扑面而来，带着淡淡的鸡蛋花香，让人瞬间感受到度假的氛围。办理完入境手续后，我们首先就去换钱。市区的换汇处通常汇率会更好一些。
+经过数小时的飞行，我们终于踏上巴厘岛的土地。机场外的热带空气扑面而来，带着淡淡的鸡蛋花香气，让人瞬间感受到度假的氛围。办理完入境手续后，我们首先就去换钱。市区的换汇处通常汇率会更好一些。
 
 {{block:換匯}}
 
 ### GOSHA x GOEMEROT 晚餐
 
-安顿好行李后，我们迫不及待地前往 GOSHA x GOEMEROT 享用抵达巴厘岛的第一餐。这家餐厅融合了现代与传统的巴厘风味，餐点摆盘精致，口味道地。在异国的第一个夜晚，我们一边享用美食，一边期待着接下来七天的精彩行程。
+安顿好行李后，我们迫不及待地前往 GOSHA x GOEMEROT 享用抵达巴厘岛的第一餐。这间餐厅融合了现代与传统的巴厘风味，餐点摆盘精致，口味道地。在异国的第一个夜晚，我们一边享用美食，一边期待着接下来七天的精彩行程。
 
 ### 入住 Aloft Bali Kuta at Beachwalk
 
-**住宿推荐：Aloft Bali Kuta at Beachwalk**
+**住宿推荐:Aloft Bali Kuta at Beachwalk**
 
 ![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/vocus/vocus_6c4dc60752ea4cbe9373a0cde09448cf.jpg)
 
-今晚入住的是位于库塔区的 Aloft Bali Kuta，我们选择了 Pool View Double 房型，房内配置两张舒适的双人床。虽然房间空间不算特别宽敞，但整体设计新颖时尚，清洁度极佳。最让人满意的是饭店的地理位置——与 Beachwalk 购物中心直接连通，想要逛街购物或寻找餐厅都极为便利。此外，距离热闹的 JL. Poppies II 街道也很近，步行即可抵达。饭店的早餐选择丰富且美味，服务人员态度亲切友善，为我们的巴厘岛之旅开了一个好头。
+今晚入住的是位于库塔区的 Aloft Bali Kuta,我们选择了 Pool View Double 房型,房内配置两张舒适的双人床。虽然房间空间不算特别宽敞,但整体设计新颖时尚,清洁度极佳。最让人满意的是饭店的地理位置——与 Beachwalk 购物中心直接连通,想要逛街购物或寻找餐厅都极为便利。此外,距离热闹的 JL. Poppies II 街道也很近,步行即可抵达。饭店的早餐选择丰富且美味,服务人员态度亲切友善,为我们的巴厘岛之旅开了一个好头。
 
 ![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788152563-643126482.jpg)
 
@@ -67,15 +68,15 @@ _srcHash: 554152b61da98b6bef488301a940b947
 
 ![入住 Aloft Bali Kuta at Beachwalk](https://images.gobaligo.id/images/2026-04/1776788156945-482956753.jpeg)
 
-> ▶[Aloft Kuta订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22572548) [Booking](https://booking.tpm.li/IiBScM3f) ▶[Trip.com订房](https://hk.trip.com/hotels/detail/?cityId=723&hotelId=72291150&checkIn=2025-07-31&checkOut=2025-08-01&adult=2&children=0&subStamp=726&crn=1&ages=&travelpurpose=0&curr=IDR&link=title&hoteluniquekey=H4sIAAAAAAAA_-P6xMjFJMEkxMTBKPWckePt8i9_WYUYjQw4LT4JOhqDgG-ng2f_oa8aMXP7HAJ4Ghltua4vLqj1cJjEGMXJAARCIo6OgiBGTai9o5I4x9SWPRYCjYwSf_uXrmZUYLTYLx7EEMWgpMbRerBfQ6AcKLJX1BFmiCeMAVTDwrH1FZsTK8eSCx2MMxjPLdujtJGxECTvkOqwg5HpBOOErwULmO59eqqyiwmi6hATC8eU2-KnmBguMTHcYmJ4xMTwionhExPYpF9QRU3MDF3MDJOYwUpnMTMsYmaQ4jUxNzQztDSyNDBPTTRXENI4827VETYjaw6gg7UE40M8PV0MSwpTzQpLLXOKCkwNGCcxMnl4n2KUMjQ3tjA0MjQ0MjKyNNYzsUgzK7bIK7bIzYqwYpZidPNgDGIzdHExN7CM0uJi9nQJEuSpjemtX2djLwXiKcJ4WiCeIYyXxFqVoevhnfFYqICxi5FDgNGDMYKxgvEVI0jVD3BIAABb4vdVpwEAAA&subChannel=&masterhotelid_tracelogid=4716192907ea7&NewTaxDescForAmountshowtype0=T&detailFilters=17|1~17~1*80|0|1~80~0&hotelType=normal&display=exavg&barcurr=IDR&locale=zh-HK&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D4662646)
+> ▶[Aloft Kuta订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22572548) [Booking](https://booking.tpm.li/IiBScM3f) ▶[Trip.com订房](https://hk.trip.com/hotels/bali-hotel-detail-72291150/aloft-bali-kuta-at-beachwalk/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
 ***
 
-## Day 2：海神庙巡礼与水明漾悠闲时光
+## Day 2:海神庙巡礼与水明漾悠闲时光
 
-### 上午：海神庙（Tanah Lot）
+### 上午:海神庙(Tanah Lot)
 
-早晨享用完饭店丰盛的早餐后，我们驱车前往巴厘岛最著名的地标之一——海神庙。这座建于16世纪的印度教寺庙矗立在海中的巨岩上，退潮时可以步行靠近，涨潮时则被海水环绕，形成一幅如诗如画的景象。站在岸边，看着海浪拍打着礁岩，寺庙在阳光下熠熠生辉，那种震撼感难以言喻。建议大家可以选择下午时分前往，夕阳西下时的海神庙更是美得令人屏息。
+早晨享用完饭店丰盛的早餐后,我们驱车前往巴厘岛最著名的地标之一——海神庙。这座建于16世纪的印度教寺庙矗立在海中的巨岩上,退潮时可以步行靠近,涨潮时则被海水环绕,形成一幅如诗如画的景象。站在岸边,看着海浪拍打着礁岩,寺庙在阳光下熠熠生辉,那种震撼感难以言喻。建议大家可以选择下午时分前往,夕阳西下时的海神庙更是美得令人屏息。
 
 **快速参考：**[巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/zh-cn/blog/bali-tanah-lot-guide/)
 
@@ -87,7 +88,7 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 **餐厅推荐:ENDO Seminyak**
 
-![中午:水明漾广场觅食与逛街](https://images.gobaligo.id/vocus/vocus_57caee0de0ee79e29675903fef6d5f69.jpg)
+![中午:水明漾廣場覓食與逛街](https://images.gobaligo.id/vocus/vocus_57caee0de0ee79e29675903fef6d5f69.jpg)
 
 中午我们在水明漾广场旁的 ENDO Seminyak 用餐,这是一次意外的惊喜!原本只是随意选择的餐厅,没想到餐点品质出乎意料地好。强力推荐他们的脏鸭餐(Bebek Betutu)和炒面(Mie Goreng),脏鸭外皮酥脆、肉质软嫩,搭配的香料恰到好处;炒面则是地道的巴厘风味,配料丰富,份量十足。
 
@@ -105,31 +106,31 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 ### 上午:酒店泳池时光
 
-今天不赶行程，早晨在酒店悠闲地享用早餐后，我们决定好好利用酒店的泳池设施。在巴厘岛的阳光下戏水放松，这才是度假该有的样子。泳池畔的躺椅上，我们一边晒着太阳，一边享受巴厘岛的太阳。
+今天不赶行程,早晨在酒店悠闲地享用早餐后,我们决定好好利用酒店的泳池设施。在巴厘岛的阳光下戏水放松,这才是度假该有的样子。泳池畔的躺椅上,我们一边晒着太阳,一边享受巴厘岛的太阳。
 
 ### 中午:退房与按摩
 
 中午时分办理退房手续后，我们前往附近的Spa中心享受巴厘岛传统按摩。巴厘岛的按摩以精油按摩闻名，技师手法专业，力道适中，经过一个多小时的疗程，旅途的疲惫一扫而空，身心都得到了彻底的放松。
 
-### 下午:Massimo意大利餐厅与冰淇淋
+### 下午：Massimo意大利餐厅与冰淇淋
 
-按摩后，我们来到Massimo意大利餐厅享用午餐。这间餐厅在巴厘岛颇负盛名，提供地道的意大利料理。餐点口味正宗，尤其是手工制作的意大利面和披萨，让人仿佛置身于意大利。用完餐后，别忘了品尝他们家的冰淇淋，口感绵密细致，是炎热天气中的最佳甜点。
+按摩后，我们来到Massimo意大利餐厅享用午餐。这家餐厅在巴厘岛颇负盛名，提供地道的意大利料理。餐点口味正宗，尤其是手工制作的意大利面和披萨，让人仿佛置身于意大利。用餐后，别忘了品尝他们家的冰淇淋，口感绵密细腻，是炎热天气中的最佳甜点。
 
 ### Grand Lucky超市采购
 
-**购物推荐:Grand Lucky超市**
+**购物推荐：Grand Lucky超市**
 
-前往乌布的途中，我们特别绕到Grand Lucky超市采购。这间超市是许多游客推荐的伴手礼采购地点，价格透明实惠，不用担心被当作观光客哄抬价格。超市内商品种类丰富，从巴厘岛咖啡、香料、饼干零食到日常用品应有尽有。我们在这里买了不少当地特色食品，准备带回台湾与亲友分享。
+前往乌布的途中，我们特别绕到Grand Lucky超市采购。这家超市是许多游客推荐的伴手礼采购地点，价格透明实惠，不用担心被当作观光客哄抬价格。超市内商品种类丰富，从巴厘岛咖啡、香料、饼干零食到日常用品应有尽有。我们在这里买了不少当地特色食品，准备带回台湾与亲友分享。
 
-### 入住 KAAMALA Resort & Spa Ubud
+### 入住KAAMALA Resort & Spa Ubud
 
-**住宿推荐:KAAMALA Resort & Spa Ubud**
+**住宿推荐：KAAMALA Resort & Spa Ubud**
 
 ![入住 KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/vocus/vocus_7adb6e2fa7eaede51b05f63f23f5d191.jpg)
 
 ![入住 KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/vocus/vocus_db9b8c8a544597b8ac21ec95f3030a15.jpg)
 
-傍晚时分，我们抵达了乌布的 KAAMALA Resort & Spa。这间度假村让我们一眼就爱上了！我们入住的是独栋 Villa 房型，当隔天早晨拉开窗帘的那一刻，眼前一片金黄色的稻田美景让我们惊叹不已。微风吹过稻浪，仿佛置身于世外桃源。
+傍晚时分，我们抵达了乌布的KAAMALA Resort & Spa。这家度假村让我们一眼就爱上了！我们入住的是独栋Villa房型，当隔天早晨拉开窗帘的那一刻，眼前一片金黄色的稻田美景让我们惊叹不已。微风吹过稻浪，仿佛置身于世外桃源。
 
 酒店提供的早餐以西式为主，虽然选择不算特别多，但每一道餐点都用心制作，味道相当不错。度假村内还设有无边泳池，从泳池望出去就是层层叠叠的稻田景观，美不胜收。最让我们印象深刻的是酒店的服务，工作人员会主动来与住客闲聊，关心入住状况，那种亲切感让人感觉不像是在酒店，而是在朋友家做客。
 
@@ -149,7 +150,7 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 ![入住 KAAMALA Resort & Spa Ubud](https://images.gobaligo.id/images/2026-04/1776952991750-dea274f7529242418b61fa3a9db11453.jpeg)
 
-▶[KAAMALA Resort & Spa 预订链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=12000629) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=55235957&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/lA23ZI8f)
+▶[KAAMALA Resort & Spa 订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=12000629) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-55235957/kaamala-resort-ubud/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/lA23ZI8f)
 
 ***
 
@@ -157,7 +158,7 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 ### 上午:酒店悠闲时光
 
-在乌布的第一个早晨，我们选择在酒店发呆，尽情享受 Villa 的私密空间与周遭的田园风光。坐在阳台上，望着眼前的稻田，听着远处传来的虫鸣鸟叫，这种远离尘嚣的宁静感，正是我们来乌布的目的。
+在乌布的第一个早晨，我们选择在酒店放空，尽情享受Villa的私密空间与周围的田园风光。坐在阳台上，望着眼前的稻田，听着远处传来的虫鸣鸟叫，这种远离喧嚣的宁静感，正是我们来乌布的目的。
 
 ### 中午:Bebek Tepi Sawah 午餐
 
@@ -165,15 +166,15 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 ![中午:Bebek Tepi Sawah 午餐](https://images.gobaligo.id/vocus/vocus_18d5fd887059ea02f0b30f3666e5d864.jpg)
 
-中午时分，我们前往 Bebek Tepi Sawah 用餐。这家餐厅的名字直译就是“稻田边的鸭子”，名副其实地坐落在美丽的稻田旁。餐厅采用传统巴厘风格布置，充满浓厚的在地氛围。我们选择了户外座位，一边欣赏清爽的田园风光，一边品尝地道的巴厘料理。微风徐徐吹来，带着稻香，让这顿午餐成为一种惬意的享受。餐厅的招牌烤鸭料理不容错过，肉质鲜嫩，香料调味恰到好处。
+中午时分，我们前往Bebek Tepi Sawah用餐。这间餐厅的名字直译就是「稻田边的鸭子」，名副其实地坐落在美丽的稻田旁。餐厅采用传统巴厘风格布置，充满浓厚的在地氛围。我们选择了户外座位，一边欣赏清爽的田园风光，一边品尝地道的巴厘料理。微风徐徐吹来，带着稻香，让这顿午餐成为一种惬意的享受。餐厅的招牌烤鸭料理不容错过，肉质鲜嫩，香料调味恰到好处。
 
-### 下午：Bali Reptile Park 爬虫公园
+### 下午:Bali Reptile Park 爬虫公园
 
-**景点推荐：Bali Reptile Park**
+**景点推荐:Bali Reptile Park**
 
-![下午：Bali Reptile Park 爬虫公园](https://images.gobaligo.id/vocus/vocus_be260f863fa3cf1d7f49877c02f31826.jpg)
+![下午:Bali Reptile Park 爬蟲公園](https://images.gobaligo.id/vocus/vocus_be260f863fa3cf1d7f49877c02f31826.jpg)
 
-饭后我们前往 Bali Reptile Park，这对喜爱爬虫类动物的游客来说绝对是必访景点！门票包含了园区员工的全程英语导览，这是这个景点最大的特色之一。导览员非常专业且热情，详细介绍每一种爬虫类的习性与特征，讲解生动有趣，即使原本对爬虫类有些害怕的人，也会被他们的热情所感染。
+饭后我们前往Bali Reptile Park，这对喜爱爬虫类动物的游客来说绝对是必访景点！门票包含了园区员工的全程英语导览，这是这个景点最大的特色之一。导览员非常专业且热情，详细介绍每一种爬虫类的习性与特征，讲解生动有趣，即使原本对爬虫类有些害怕的人，也会被他们的热情所感染。
 
 最特别的是，在导览过程中，我们有机会亲手触摸几种温驯的爬虫类，包括蟒蛇、蜥蜴等。工作人员会先确保安全，并教导正确的触摸方式。这种近距离接触的体验，让我们对这些生物有了全新的认识与理解。整个参观过程大约需要1.5到2小时，非常适合亲子同游。
 
@@ -188,37 +189,37 @@ https://youtube.com/shorts/oz_QUWvCK_8
 - 🦚**巴厘岛鸟园**：充满异国风情的热带天堂，汇聚全球珍奇鸟类与沉浸式自然景观。这里结合精彩鸟类表演与互动体验，非常适合亲子同游（[Klook优惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1148651&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8555ce542e)）
 - 🛍️ **玛森大象公园（Mason Elephant Park）**：探索巴厘岛唯一的专业大象救援园区与苏门答腊象亲密互动。欣赏园区内的大象表演，并通过喂食活动与这些温柔的巨兽建立连结（[Klook优惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1148651&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F24353-mason-elephant-park-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1c4e1cc903)）
 
-### 傍晚：乌布集市逛街
+### 傍晚：乌布市集逛街
 
-离开爬虫公园后，我们来到了乌布集市。这是乌布最热闹的区域，也是购买巴厘岛手工艺品的最佳地点。集市内贩售各式各样的商品，从传统服饰、木雕、银饰、编织包到绘画作品应有尽有。这里的价格需要议价，建议可以从店家开价的三分之一开始谈起，享受砍价的乐趣也是逛集市的一部分。集市的巷弄间还隐藏着许多咖啡馆与小餐馆，逛累了可以找个地方坐下来喝杯巴厘咖啡，感受乌布悠闲的氛围。
+离开爬虫公园后，我们来到了乌布市集。这是乌布最热闹的区域，也是购买巴厘岛手工艺品的最佳地点。市集内贩售各式各样的商品，从传统服饰、木雕、银饰、编织包到绘画作品应有尽有。这里的价格需要议价，建议可以从店家开价的三分之一开始谈起，享受杀价的乐趣也是逛市集的一部分。市集的巷弄间还隐藏着许多咖啡馆与小餐馆，逛累了可以找个地方坐下来喝杯巴厘咖啡，感受乌布悠闲的氛围。
 
 ### 晚餐：Taman Dedari
 
-![晚餐：Taman Dedari](https://images.gobaligo.id/vocus/vocus_7c3849870256761706f2f474869d65c5.jpg)
+![晚餐:Taman Dedari](https://images.gobaligo.id/vocus/vocus_7c3849870256761706f2f474869d65c5.jpg)
 
-![晚餐：Taman Dedari](https://images.gobaligo.id/vocus/vocus_796ff85cdb8cb8113b34f72429d7eb39.jpg)
+![晚餐:Taman Dedari](https://images.gobaligo.id/vocus/vocus_796ff85cdb8cb8113b34f72429d7eb39.jpg)
 
-![晚餐：Taman Dedari](https://images.gobaligo.id/vocus/vocus_380374cff55e52785bb3e991f3034f76.jpg)
+![晚餐:Taman Dedari](https://images.gobaligo.id/vocus/vocus_380374cff55e52785bb3e991f3034f76.jpg)
 
-晚上我们在 Taman Dedari 享用晚餐，为充实的一天画下句点。
+晚上我们在 Taman Dedari 享用晚餐，为充实的一天划下句点。
 
-**快速参考：**【[乌布美食+美景推荐】Taman Dedari 仙女公园](/zh-cn/blog/taman-dedari-ubud-food-scenery/)
+**快速参考：**[【乌布美食+美景推荐】Taman Dedari 仙女公园](/zh-cn/blog/taman-dedari-ubud-food-scenery/)
 
 ***
 
-## Day 5：金塔马尼火山与传统村落探索
+## Day 5：金塔玛尼火山与传统村落探索
 
-### 上午：金塔马尼与 Ritatkala Café
+### 上午:金塔马尼与 Ritatkala Café
 
-**景点与餐厅推荐：金塔马尼 & Ritatkala Café**
+**景点与餐厅推荐:金塔马尼 & Ritatkala Café**
 
-![上午：金塔马尼与 Ritatkala Café](https://images.gobaligo.id/vocus/vocus_3432f10b8a1acb758145140d33e88ac0.jpg)
+![上午:金塔瑪尼與 Ritatkala Café](https://images.gobaligo.id/vocus/vocus_3432f10b8a1acb758145140d33e88ac0.jpg)
 
-今天我们驱车前往巴厘岛著名的火山景观区——金塔马尼（Kintamani）。这里可以远眺巴杜尔火山（Mount Batur）与巴杜尔湖的壮丽景色，是巴厘岛必访的自然景点之一。
+今天我们驱车前往巴厘岛著名的火山景观区——金塔马尼(Kintamani)。这里可以远眺巴杜尔火山(Mount Batur)与巴杜尔湖的壮丽景色,是巴厘岛必访的自然景点之一。
 
-我们选择在 Ritatkala Café 用餐，这间景观咖啡厅坐拥绝佳的视野。强烈建议大家选择户外座位，面对着火山与湖泊，一边享用美食一边欣赏大自然的鬼斧神工。餐厅的鸡翅特别推荐，外皮酥脆，肉质多汁，搭配特调酱料十分美味。在凉爽的山丘气候中，喝着热咖啡，眺望远方的火山，那种心旷神怡的感觉难以言喻。
+我们选择在 Ritatkala Café 用餐,这间景观咖啡厅坐拥绝佳的视野。强烈建议大家选择户外座位,面对着火山与湖泊,一边享用美食一边欣赏大自然的鬼斧神工。餐厅的鸡翅特别推荐,外皮酥脆,肉质多汁,搭配特调酱料十分美味。在凉爽的山區气候中,喝着热咖啡,眺望远方的火山,那种心旷神怡的感觉难以言喻。
 
-**快速参考：**【巴厘岛金塔马尼12大景观火山咖啡厅推荐 🌄☕】(/blog/kintamani-volcano-cafes-restaurants/)
+**快速参考:**[巴厘岛金塔马尼12大景观火山咖啡厅推荐 🌄☕](/zh-cn/blog/kintamani-volcano-cafes-restaurants/)
 
 [巴厘岛金塔马尼巴杜尔火山湖｜日出登山 × 皇家游船 × 湖景咖啡厅 × 火山温泉全攻略](/zh-cn/blog/batur-lake-volcano-guide/)
 
@@ -226,17 +227,17 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 **景点推荐:Penglipuran Village**
 
-![下午:Penglipuran Village 传统村落](https://images.gobaligo.id/vocus/vocus_534f807ca0ff379512580af984f596cc.jpg)
+![下午:Penglipuran Village 傳統村落](https://images.gobaligo.id/vocus/vocus_534f807ca0ff379512580af984f596cc.jpg)
 
-离开金塔马尼后，我们前往 Penglipuran Village，这是一座保存完好的巴厘传统村落。村落内的建筑风格统一，充分展现了巴厘岛的传统建筑美学与文化特色。这里最特别的是，游客可以进入民居内部参观，这对于一直好奇传统巴厘民宅内部构造的我来说，简直是梦想成真！
+离开金塔马尼后,我们前往 Penglipuran Village,这是一座保存完好的巴厘传统村落。村落内的建筑风格统一,充分展现了巴厘岛的传统建筑美学与文化特色。这里最特别的是,游客可以进入民居内部参观,这对于一直好奇传统巴厘民宅内部构造的我来说,简直是梦想成真!
 
-村落内的街道干净整洁，两旁种植着竹林，走在其中感觉格外清幽。有些民宅会顺道售卖手工艺品或当地特产，价格是可以议价的，不妨试着与主人交流看看。我们在其中一户人家买了冰棒，主人非常友善，热情地邀请我们在院子里休息。坐在传统巴厘建筑的院落中，感受着微风与宁静，那种放松感让人完全不想离开。这里的居民生活步调缓慢，充满了人情味，是体验巴厘岛传统文化的绝佳地点。
+村落内的街道干净整洁,两旁种植着竹林,走在其中感觉格外清幽。有些民宅会顺道售卖手工艺品或当地特产,价格是可以议价的,不妨试着与主人交流看看。我们在其中一户人家买了冰棒,主人非常友善,热情地邀请我们在院子里休息。坐在传统巴厘建筑的院落中,感受着微风与宁静,那种放松感让人完全不想离开。这里的居民生活步调缓慢,充满了人情味,是体验巴厘岛传统文化的绝佳地点。
 
-**快速参考：**[穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/zh-cn/blog/penglipuran-village-bali-experience/)
+**快速参考：**[穿越时空的彭利普兰村庄：体验巴厘古老的魅力](/zh-cn/blog/penglipuran-village-bali-experience/)
 
 ### 梯田秋千体验
 
-![梯田秋千体验](https://images.gobaligo.id/vocus/vocus_36a252751643bc3058d7c23103032e53.jpg)
+![梯田鞦韆體驗](https://images.gobaligo.id/vocus/vocus_36a252751643bc3058d7c23103032e53.jpg)
 
 结束村落参观后，我们前往附近的梯田秋千景点。在层层叠叠的绿色梯田前荡秋千，是近年来巴厘岛最热门的体验活动之一。荡起秋千的那一刻，眼前是一片翠绿的稻田与远方的丛林，仿佛飞翔在大自然之中，那种自由与美好的感觉，成为这趟旅程中最难忘的回忆之一。
 
@@ -250,65 +251,65 @@ https://youtube.com/shorts/oz_QUWvCK_8
 
 ### 上午:酒店泳池时光
 
-在乌布的最后一个早晨，我们再次来到酒店的无边泳池，好好享受这片稻田美景。在泳池中漂浮着，望着眼前的田园风光，内心充满了平静与感恩。
+在乌布的最后一天早晨，我们再次来到酒店的无边泳池，好好享受这片稻田美景。在泳池中漂浮着，望着眼前的田园风光，内心充满了平静与感恩。
 
 ### 中午退房后:乌鲁瓦图断崖公路
 
-![中午退房后:乌鲁瓦图断崖公路](https://images.gobaligo.id/vocus/vocus_a123f697405c668b110a8f2b12af913f.jpg)
+![中午退房後:烏魯瓦圖斷崖公路](https://images.gobaligo.id/vocus/vocus_a123f697405c668b110a8f2b12af913f.jpg)
 
-退房后，我们驱车前往巴厘岛南部的乌鲁瓦图(Uluwatu)区域。沿着海岸线的断崖公路奔驰，一侧是蔚蓝的印度洋，一侧是峻峭的石灰岩悬崖，壮阔的景色让人心胸开阔。这段公路被誉为巴厘岛最美的海岸线之一，沿途有多个观景点可以停车拍照，千万别错过。
+退房后，我们驱车前往巴厘岛南部的乌鲁瓦图(Uluwatu)区域。沿着海岸线的断崖公路奔驰，一侧是蔚蓝的印度洋，一侧是峻峭的石灰岩悬崖，壮阔的景色让人的心胸开阔。这段公路被誉为巴厘岛最美的海岸线之一，沿途有多个观景点可以停车拍照，千万别错过。
 
 ### 下午:Pandawa Beach Roosterfish 下午茶
 
 ![下午:Pandawa Beach Roosterfish 下午茶](https://images.gobaligo.id/vocus/vocus_4cfd7bde880edf48f6923248b34146d2.jpg)
 
-我们在 Pandawa Beach 的 Roosterfish 餐厅享用下午茶。这间餐厅位于潘达瓦海滩旁，拥有绝佳的海景视野。点杯冰凉的饮料，配上轻食，坐在海风吹拂的露台上，看着海浪拍打着沙滩，这样的午后时光简单却美好。潘达瓦海滩的海水清澈，沙滩洁白，是巴厘岛较为清幽的海滩之一，适合想要远离人潮的旅客。
+我们在Pandawa Beach的Roosterfish餐厅享用下午茶。这间餐厅位于潘达瓦海滩旁，拥有绝佳的海景视野。点杯冰凉的饮料，配上轻食，坐在海风吹拂的露台上，看着海浪拍打着沙滩，这样的午后时光简单却美好。潘达瓦海滩的海水清澈，沙滩洁白，是巴厘岛较为清幽的海滩之一，适合想要远离人潮的旅客。
 
-### 傍晚:乌鲁瓦图神庙
+### 傍晚:乌鲁瓦图寺庙
 
-**景点推荐:乌鲁瓦图神庙 ⚠️注意猴子!**
+**景点推荐:乌鲁瓦图寺庙 ⚠️注意猴子!**
 
-![傍晚:乌鲁瓦图神庙](https://images.gobaligo.id/vocus/vocus_65cdfff2716506cd7615d0c7611c9c66.jpg)
+![傍晚:烏魯瓦圖神廟](https://images.gobaligo.id/vocus/vocus_65cdfff2716506cd7615d0c7611c9c66.jpg)
 
-傍晚时分，我们前往乌鲁瓦图神庙(Uluwatu Temple)，这座建于悬崖边的寺庙是巴厘岛最重要的宗教圣地之一，也是欣赏日落的最佳地点之一。寺庙矗立在高70米的悬崖峭壁上，面对着一望无际的印度洋，气势磅礴。
+傍晚时分,我们前往乌鲁瓦图寺庙(Uluwatu Temple),这座建于悬崖边的寺庙是巴厘岛最重要的宗教圣地之一,也是欣赏日落的最佳地点之一。寺庙矗立在高70米的悬崖峭壁上,面对着一望无际的印度洋,气势磅礴。
 
-**重要提醒：这里的猴子非常顽皮且大胆！** 我们亲眼目睹游客的眼镜被猴子抢走的情况。这些猴子经过长期与游客互动，已经学会如何快速抢夺眼镜、帽子、太阳眼镜等物品，然后「要求」用食物交换。因此，参观时请务必将随身物品收好，眼镜可以用绳子固定，尽量不要携带闪亮的饰品或食物，以免引起猴子的注意。
+**重要提醒:这里的猴子非常顽皮且大胆!** 我们亲眼目睹游客的眼镜被猴子抢走的情况。这些猴子经过长期与游客互动,已经学会如何快速抢夺眼镜、帽子、太阳眼镜等物品,然后「要求」用食物交换。因此,参观时请务必将随身物品收好,眼镜可以用绳子固定,尽量不要携带闪亮的饰品或食物,以免引起猴子的注意。
 
-**快速参考：**[巴厘岛乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](/zh-cn/blog/uluwatu-temple-travel-guide/)
+**快速参考：**[巴厘岛乌鲁瓦图寺庙/情人崖旅游指南：必看亮点与实用建议](/zh-cn/blog/uluwatu-temple-travel-guide/)
 
-尽管要小心猴子，但乌鲁瓦图神庙的景色确实令人震撼。夕阳西下时，金黄色的阳光洒在海面上，波光粼粼，神庙在逆光中显得更加神圣庄严。如果时间允许，可以留下来观赏传统的 Kecak Fire Dance 表演，在日落余晖中欣赏这场融合舞蹈、音乐与戏剧的文化盛宴。
+尽管要小心猴子,但乌鲁瓦图寺庙的景色确实令人震撼。夕阳西下时,金黄色的阳光洒在海面上,波光粼粼,寺庙在逆光中显得更加神圣庄严。如果时间允许,可以留下来观赏传统的 Kecak Fire Dance 表演,在日落余晖中欣赏这场融合舞蹈、音乐与戏剧的文化盛宴。
 
 **快速参考：**[Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演（附订票信息）](/zh-cn/blog/kecak-fire-dance-bali/)
 
-### 晚餐：Ulu Cliffhouse
+### 晚餐:Ulu Cliffhouse
 
-![晚餐：Ulu Cliffhouse](https://images.gobaligo.id/vocus/vocus_c2d5e6caeae53304208dc0744dfb4875.jpg)
+![晚餐:Ulu Cliffhouse](https://images.gobaligo.id/vocus/vocus_c2d5e6caeae53304208dc0744dfb4875.jpg)
 
-晚上我们在 Ulu Cliffhouse 用餐，这间餐厅同样位于悬崖边，拥有绝佳的海景视野。在星空下，听着海浪声，享用精致的料理，为今天精彩的行程画下完美的句点。
+晚上我们在 Ulu Cliffhouse 用餐,这间餐厅同样位于悬崖边,拥有绝佳的海景视野。在星空下,听着海浪声,享用精致的料理,为今天精彩的行程画下完美的句点。
 
 {{block:uluwatu}}
 
 ***
 
-## Day 7：金巴兰悠闲时光与疯狂采购
+## Day 7:金巴兰悠闲时光与疯狂采购
 
 ### 入住 Movenpick Resort & Spa Jimbaran
 
-**住宿推荐：Movenpick Resort & Spa Jimbaran**
+**住宿推荐:Movenpick Resort & Spa Jimbaran**
 
 今天我们来到旅程的最后一间酒店——Movenpick Resort & Spa Jimbaran，这也是我们第二次入住这家度假村。或许是因为回头客的关系，这次我们很幸运地被升级为泳池畔房型，从房间阳台就能直接跳入泳池，这种便利性让人感觉格外奢华。
 
-这家度假村拥有多项泳池设施，包括儿童戏水区、水上排球场等，还会定期举办各种水上活动，非常适合亲子家庭。酒店的早餐选择丰盛多样，从亚洲料理到西式餐点应有尽有，品质优良。最让人惊喜的是，每天下午都有免费的 Chocolate Happy Hour，提供各式巧克力甜点与热巧克力饮品，对于甜点爱好者来说简直是天堂！
+这家度假村拥有多项泳池设施，包括儿童戏水区、水上排球场等，还会定期举办各种水上活动，非常适合亲子家庭。酒店的早餐选择丰盛多样，从亚洲料理到西式餐点应有尽有，品质优良。最让人惊喜的是，每天下午都有免费的Chocolate Happy Hour，提供各式巧克力甜点与热巧克力饮品，对于甜点爱好者来说简直是天堂！
 
-Mövenpick Resort & Spa Jimbaran 是金巴兰地区的一个豪华5星度假村，提供了一个宁静和浪漫的度假选择，适合家庭。度假村位于Samasta购物中心的一角，生活机能还算方便。这个购物中心还有一家超好吃的猪肋排专卖店哦！请看小杰的介绍：
+Mövenpick Resort & Spa Jimbaran是金巴兰地区的一个豪华5星度假村，提供了一个宁静和浪漫的度假选择，适合家庭。度假村位于Samasta购物中心的一角，生活机能还算方便。这个购物中心还有一家超好吃的猪肋排专卖店哦！请看小杰的介绍：
 
 https://youtu.be/RodQvCZKwD0
 
-这个度假村适合所有年龄段的家庭，提供了多种活动和设施，满足家庭的需求。对于较小的孩子，度假村提供了一个 Meera Kids Club，主题是海盗，让他们在父母放松时享受游戏和活动。
+这个度假村适合所有年龄的家庭，提供了多种活动和设施，满足家庭的需求。对于较小的孩子，度假村提供了一个Meera Kids Club，主题是海盗，让他们在父母放松时享受游戏和活动。
 
-度假村还有专门的儿童游泳池，配备了泳池滑梯，确保整个家庭在阳光下享受无限的乐趣。
+度假村还有专门的孩子游泳池，配备了泳池滑梯，确保了整个家庭在阳光下享受无限的乐趣。
 
-对于较大的孩子和青少年，度假村提供了多种娱乐选择。他们可以在游戏室中享受最新的游戏机和多种桌游、电影和电视游戏。另外，度假村还有健身中心和spa，让父母可以放松和恢复，同时孩子们在活动中享受。
+对于较大的孩子和青少年，度假村提供了多种娱乐选择。他们可以在游戏室中享受最新的游戏机和多种桌游、电影和电视游戏机。另外，度假村还有健身中心和spa，让父母可以放松和恢复，同时孩子们在活动中享受。
 
 ![入住 Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953214005-719391807.jpg)
 
@@ -330,9 +331,9 @@ https://youtu.be/RodQvCZKwD0
 
 ![入住 Movenpick Resort & Spa Jimbaran](https://images.gobaligo.id/images/2026-04/1776953218269-719390754.jpg)
 
-▶[Mövenpick Resort & Spa空房查询&房价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1615522) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6373265&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazMLFJMEk1cPCMa3nwTk2IUYjA3mLr4KOSwpsua6vb3PwPHsGCF51OwTwREw58HwaeyJQfHHB_kCHRsZZM4FgZZhDFyMrWGoG48T_LcwbGcF6X6c47GBkOsG4XWEB0_2PnVKnWJg5OtkusXxliq5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDb2NxAz8AAKFKSWOGZAtaZnJiTXJqTWJIaUlkANMFMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQboIiFJeaUpkKcALTQLRVqh2GtDqbLn83pfdo988Wm3dhdbmJgjuJy8wFxuXFt7CMWpujYTywMv1gYmlgZuliZOU4xTQKS2xV2sfIEG_kEO0XoGupG6RpeYG1UllI0NDAwMDI1NTLXNUi0TEwyNLPQNbE0MTIz0zU0NzY1NjDUeHVl3YUnxkbWUpC4V2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xSgF1GBhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxOZqZuDs5Bxlw8Xs6RIk-EHv-fZ2a0t7KeaQcBfFD8uPeZt3nrbXAskZwuQC97zOOWFvvMA-EiafxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANq-PmcBAwAA&masterhotelid_tracelogid=100025527-0a9ab168-494266-1735301&detailFilters=17|1~17~1*31|6373265~31~6373265*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=216&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/JMjDzQtC)
+▶[Mövenpick Resort & Spa空房查询&房价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1615522) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-6373265/movenpick-resort-and-spa-jimbaran-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/JMjDzQtC)
 
-### 上午：酒店躺平
+### 上午:酒店躺平
 
 今天我们决定完全放松，在酒店内好好享受各项设施。上午在泳池畔晒太阳、游泳，偶尔点杯冰凉的饮料，完全进入度假模式。
 
@@ -340,13 +341,13 @@ https://youtu.be/RodQvCZKwD0
 
 **购物推荐:Krisna**
 
-下午我们前往 Krisna 纪念品商店，准备进行最后的疯狂采购。Krisna 是巴厘岛最大的连锁伴手礼商店，商品种类极为丰富，从食品、服饰、饰品到家居用品应有尽有，而且价格透明实惠，标价清楚，不需要议价，是购买伴手礼的最佳选择之一。
+下午我们前往Krisna纪念品商店，准备进行最后的疯狂采购。Krisna是巴厘岛最大的连锁伴手礼商店，商品种类极为丰富，从食品、服饰、饰品到家居用品应有尽有，而且价格透明实惠，标价清楚，不需要议价，是购买伴手礼的最佳选择之一。
 
-我们在这里买了大量的咖啡、饼干、巧克力、香料等特产，准备带回台湾与亲友分享。Krisna 有多个分店，每间店面都很大，建议预留至少1-2小时的购物时间。
+我们在这里买了大量的咖啡、饼干、巧克力、香料等特产，准备带回台湾与亲友分享。Krisna有多个分店，每间店面都很大，建议预留至少1-2小时的购物时间。
 
 ### 晚餐:Bebek Bengil (脏鸭餐厅)
 
-晚上我们就近在饭店旁的 Bebek Bengil 用餐，这间餐厅以脏鸭(Bebek Betutu)闻名，是巴厘岛的连锁餐厅。鸭肉经过长时间熏烤，外皮香脆，肉质软嫩入味，搭配香料与配菜，是地道的巴厘传统美食。在旅程接近尾声的夜晚，享用着美味的巴厘料理，内心充满了不舍与满足。
+晚上我们就近在饭店旁的Bebek Bengil用餐，这间餐厅以脏鸭(Bebek Betutu)闻名，是巴厘岛的连锁餐厅。鸭肉经过长时间熏烤，外皮香脆，肉质软嫩入味，搭配香料与配菜，是地道的巴厘传统美食。在旅程接近尾声的夜晚，享用着美味的巴厘料理，内心充满了不舍与满足。
 
 ***
 
@@ -358,7 +359,7 @@ https://youtu.be/RodQvCZKwD0
 
 ### 前往机场
 
-在前往机场的路上，我们回顾着这八天的点点滴滴——从库塔的热闹海滩、乌布的宁静田园，到金巴兰的悠闲海岸；从壮观的海神庙、神圣的乌鲁瓦图神庙，到传统的村落与火山美景；从地道的巴厘美食到亲切友善的当地人民。每一个画面都深深烙印在我们的记忆中。
+在前往机场的路上，我们回顾着这八天的点点滴滴——从库塔的热闹海滩、乌布的宁静田园，到金巴兰的悠闲海岸；从壮观的海神庙、神圣的乌鲁瓦图寺庙，到传统的村落与火山美景；从地道的巴厘美食到亲切友善的当地人民。每一个画面都深深烙印在我们的记忆中。
 
 ***
 
@@ -372,7 +373,7 @@ https://youtu.be/RodQvCZKwD0
 
 ### ⚠️ 小心猴子！
 
-在乌鲁瓦图神庙、圣猴森林等有猴子出没的景点，务必格外小心！我们亲眼目睹游客的眼镜被猴子抢走的情况。这些猴子非常聪明，懂得抢夺物品后「谈判交换」。建议：
+在乌鲁瓦图寺庙、圣猴森林等有猴子出没的景点，务必格外小心！我们亲眼目睹游客的眼镜被猴子抢走的情况。这些猴子非常聪明，懂得抢夺物品后「谈判交换」。建议：
 
 - 眼镜、太阳眼镜用绳子固定
 - 不要携带闪亮的饰品或食物
@@ -381,33 +382,33 @@ https://youtu.be/RodQvCZKwD0
 
 https://youtube.com/shorts/tpPWsvsH-Eo
 
-### ⚠️ 别轻视巴厘岛腹泻(Bali Belly)!——我们的亲身惨痛经历
+### ⚠️ 别轻忽巴厘岛腹泻（Bali Belly）！——我们的亲身惨痛经历
 
 这次旅程中，我的先生不幸遭遇了极为严重的 Bali Belly 事件，整个过程惊心动魄，在此详细分享，希望能让计划前往巴厘岛的朋友们引以为戒。
 
 **第6天晚上：症状开始出现**
 
-就在我们刚入住 Movenpick 酒店的第一个晚上，先生突然表示腹痛，想要上厕所。当晚他总共跑了三次厕所，整夜辗转难眠，睡眠质量极差。当时我们还以为只是轻微的水土不服，没想到这只是暴风雨前的宁静。
+就在我们刚入住Movenpick酒店的第一个晚上，先生突然表示腹痛，想要上厕所。当晚他总共跑了三次厕所，整夜辗转难眠，睡眠质量极差。当时我们还以为只是轻微的水土不服，没想到这只是暴风雨前的宁静。
 
 **第7天早上：病情急转直下**
 
 第二天早晨，先生起床后说他头痛欲裂。我伸手一摸他的额头，吓了一跳——他正在发高烧！紧接着，腹泻的症状开始加剧，他完全无法离开房间去享用早餐。我只好带着孩子先去餐厅用餐。
 
-然而，当我们用完早餐回到房间时，眼前的景象让我彻底惊吓到了。先生虚弱地坐在马桶上，整个上半身无力地趴靠在洗脸台上。他告诉我，因为肚子剧痛加上不断地想上厕所，他根本不敢离开马桶半步。孩子看到爸爸这个样子，还以为他晕倒了，当场吓哭。那一刻，我真的慌了。
+然而，当我们用完早餐回到房间时，眼前的景象让我彻底惊吓到了。先生虚弱地坐在马桶上，整个上半身无力地趴靠在洗脸台上。他告诉我，因为肚子剧痛加上不断想上厕所，他根本不敢离开马桶半步。孩子看到爸爸这个样子，还以为他晕倒了，当场吓哭。那一刻，我真的慌了。
 
 我立刻拿出从台湾带来的备用药物，给他服用了止痛退烧药与止泻药，然后让他好好休息。两个小时后，烧是退了，但腹泻的症状却丝毫没有缓解。意识到状况的严重性，我决定前往当地药店寻求协助。
 
 **前往药店求助**
 
-在药店，我向药剂师描述了先生的症状。药剂师非常专业地推荐了两种药物（照片中的药品），并详细说明了服用方式与注意事项。我赶紧买了药回到酒店让先生服用。
+在药店，我向药师描述了先生的症状。药师非常专业地推荐了两种药物（照片中的药品），并详细说明了服用方式与注意事项。我赶紧买了药回到酒店让先生服用。
 
-![别轻视巴厘岛腹泻(Bali Belly)!——我们的亲身惨痛经历](https://images.gobaligo.id/vocus/vocus_12d5b905724f2858e8e51a33065eb6c8.jpg)
+![別輕忽峇里島腹瀉(Bali Belly)!——我們的親身慘痛經歷](https://images.gobaligo.id/vocus/vocus_12d5b905724f2858e8e51a33065eb6c8.jpg)
 
-下午时分，我带着孩子去 Krisna 采购伴手礼，一方面是让孩子转移注意力，不要太担心爸爸；另一方面也是不想浪费难得的旅游时间。回到酒店后，看到先生的精神状态有稍微好转，我们才稍微放下心中的大石。
+下午时分，我带着孩子去Krisna采购伴手礼，一方面是让孩子转移注意力，不要太担心爸爸；另一方面也是不想浪费难得的旅游时间。回到酒店后，看到先生的精神状态有稍微好转，我们才稍微放下心中的大石。
 
 **晚餐的错误尝试**
 
-晚上，我们一起去酒店旁的 Bebek Bengil 用餐。先生非常小心，只敢喝清汤和吃白饭，想说这样应该不会有问题。但没想到，回到房间后他又开始腹泻了。这下我真的非常担心，不知道该怎么办才好，于是上网到社团发文求助。感谢社团的管理员与热心的团友们，在深夜时分给予了我们宝贵的建议与温暖的关心，让我们在异国他乡不至于太过慌张。
+晚上，我们一起去酒店旁的 Bebek Bengil 用餐。先生非常小心，只敢喝清汤和吃白饭，想着这样应该不会有问题。但没想到，回到房间后他又开始腹泻了。这下我真的非常担心，不知道该怎么办才好，于是上网到社团发帖求助。感谢社团的管理员和热心的团友们，在深夜时分给予了我们宝贵的建议和温暖的关心，让我们在异国他乡不至于太过慌张。
 
 **第8天：返台的艰辛旅程**
 
@@ -423,7 +424,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 **令人惊讶的「副作用」**
 
-这次的巴厘肚，让先生的体重从78公斤一路掉到73公斤，整整瘦了5公斤！虽然这绝对不是健康的减重方式，但也算是因祸得福吧？先生开玩笑说：「肚子痛起来的时候，我都觉得痛到快生小孩了！」
+这次的 Bali Belly，让先生的体重从78公斤一路掉到73公斤，整整瘦了5公斤！虽然这绝对不是健康的减重方式，但也算是因祸得福吧？先生开玩笑说：「肚子痛起来的时候，我都觉得痛到快生小孩了！」
 
 https://youtu.be/GivvqCXp11A
 
@@ -431,11 +432,11 @@ https://youtu.be/GivvqCXp11A
 
 事后我们仔细回想整个行程，我和孩子都平安无事，只有先生中招。我们推测可能的原因如下：
 
-1. **冰块问题**：第6天中午，先生在Pepito超市买了一杯满满冰块的现冲冰咖啡。巴厘岛的冰块来源不明，很可能就是祸首。
-2. **手部清洁**：男生有时候会偷懒，没有在饭前确实洗手。而我和孩子都很落实餐前洗手的习惯。偏偏那天晚上我们吃的是披萨，需要用手拿着吃，增加了感染的风险。
+1. **冰块问题**：第6天中午，先生在Pepito超市买了一杯满是冰块的现冲冰咖啡。巴厘岛的冰块来源不明，很可能就是祸首。
+2. **手部清洁**：男生有时候会偷懒，没有在饭前确实洗手。而我和孩子都很落实餐前洗手的习惯。偏偏那天晚上我们吃的是Pizza，需要用手拿着吃，增加了感染的风险。
 3. **益生菌的保护**：这8天的旅程中，我和孩子每天早上都有服用肠胃型益生菌，也许这在一定程度上保护了我们的肠胃健康。（注：此处仅为个人推测，非医疗建议）
 
-值得一提的是，这已经是我们今年第二次遇到巴厘肚。今年一月我们来巴厘岛待了6天，当时我们三人也先后有不同程度的腹泻，孩子甚至还发过烧。但那次症状相对轻微，服药后很快就恢复了。没想到这次先生的症状会如此严重，让我们真正体会到巴厘肚的威力。
+值得一提的是，这已经是我们今年第二次遇到Bali Belly。今年一月我们来巴厘岛待了6天，当时我们三人也先后有不同程度的腹泻，孩子甚至还发过烧。但那次症状相对轻微，服药后很快就恢复了。没想到这次先生的症状会如此严重，让我们真正体会到Bali Belly的威力。
 
 **给所有旅客的建议**
 
@@ -451,9 +452,9 @@ https://youtu.be/GivvqCXp11A
 
 **特别感谢**
 
-在此要特别感谢巴厘岛社群的管理员与所有群友们。在我最慌乱无助的时候，你们给予的建议、关心与支持，让我们能够冷静处理状况，顺利度过难关。这份温暖，我们会永远记在心中。
+在此要特别感谢巴厘岛社团的管理员与所有团友们。在我最慌乱无助的时候，你们给予的建议、关心与支持，让我们能够冷静处理状况，顺利度过难关。这份温暖，我们会永远记在心中。
 
-### 实用购物信息
+### 实用购物资讯
 
 **推荐采购地点:**
 
@@ -469,9 +470,9 @@ https://youtu.be/GivvqCXp11A
 
 尽管这次旅程中经历了先生严重的 Bali Belly 事件，让我们一度非常担忧，但这并没有减损我们对巴厘岛的热爱。反而让我们学会了更谨慎地面对旅行中可能遇到的风险，也更珍惜平安健康的每一刻。
 
-Sampai jumpa lagi, Bali!(再见了，巴厘岛!) 我们一定会再回来的。🌺
+Sampai jumpa lagi, Bali!（再见了，巴厘岛！）我们一定会再回来的。🌺
 
-你觉得 Pinkey Lo 他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿你的行程哦！
+您觉得 Pinkey Lo 他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
 {{block:遊記}}
 

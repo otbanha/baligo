@@ -5,6 +5,7 @@ description: >-
   如果你正在寻找一处既能拥抱巴厘岛自然风光，又能享受现代化便利的度假胜地，那么2023年底全新开业的巴厘岛坎古假日酒店（Holiday Inn Resort
   Bali Canggu By IHG）绝对值得列入你的首选清单。这家五星级度假村不仅坐拥绝佳地理位置，更以贴心的服务、完善的设施和极高的性价比，
 pubDate: 2025-10-08T00:00:00.000Z
+updatedDate: 2026-07-20T00:00:00.000Z
 category:
   - 住宿推薦
 tags:
@@ -25,12 +26,12 @@ agoda_star_rating: 5
 latitude: -8.656766891479492
 longitude: 115.13082122802734
 lang: zh-cn
-_srcHash: b57fcaa03e4759ab006ac79829776a71
+_srcHash: 0cb2638f3c849b57b96e119cbb5f44d0
 ---
 
 如果你正在寻找一处既能拥抱巴厘岛自然风光，又能享受现代化便利的度假胜地，那么2023年底全新开业的\*\*_巴厘岛坎古假日酒店（Holiday Inn Resort Bali Canggu By IHG）_**绝对值得列入你的首选清单。这家五星级度假村不仅坐拥绝佳地理位置，更以贴心的服务、完善的设施和极高的性价比，赢得了全球旅客的一致好评，在各大平台上获得高达**_9.4分的综合评分_\*\*。
 
-![Holiday Inn Resort Bali Canggu 巴厘岛坎古假日酒店：两大入住两小免费 豪华与舒适都有](https://images.gobaligo.id/vocus/vocus_4164487f518e958a96464f1555658ad1.jpg)
+![Holiday Inn Resort Bali Canggu 峇里島長谷假日酒店：兩大入住兩小免費 豪華與舒適都有](https://images.gobaligo.id/vocus/vocus_4164487f518e958a96464f1555658ad1.jpg)
 
 ***
 
@@ -38,7 +39,7 @@ _srcHash: b57fcaa03e4759ab006ac79829776a71
 
 酒店位于坎古（Canggu）心脏地带，步行即可到达沙滩，周边更有超过100家餐厅、咖啡厅和特色小店，生活机能极佳。正如旅客们在评价中提到的：「地理位置理想，距离海滩、商店和餐厅仅几步之遥，既方便探索周边，又是远离喧嚣的宁静避风港。」
 
-喜欢冲浪的人可以轻松前往Echo Beach或Berawa Beach挑战海浪，而爱好休闲的人则可以在绵延的沙滩上欣赏世界级的日落美景。酒店附近还有Canggu Market、Pepito超市等，无论想采购当地手工艺品或日常用品都非常方便。
+喜欢冲浪的人可以轻松前往Echo Beach或Berawa Beach挑战海浪，而爱好休闲的人则可以在绵延的沙滩上欣赏世界级的日落美景。酒店附近还有Canggu Market、Pepito超市等，无论想采买当地手工艺品或日常用品都非常方便。
 
 ***
 
@@ -67,7 +68,7 @@ _srcHash: b57fcaa03e4759ab006ac79829776a71
 
 「早餐自助餐非常出色，从新鲜热带水果到美味的国际菜肴应有尽有，让每个早晨都成为一种享受。」
 
-![丰富餐饮选择，早餐备受好评](https://images.gobaligo.id/vocus/vocus_f3023a2f7b257b63a50bff27203069b8.jpg)
+![豐富餐飲選擇，早餐備受好評](https://images.gobaligo.id/vocus/vocus_f3023a2f7b257b63a50bff27203069b8.jpg)
 
 「早餐选择多元，包括许多健康选项，还有包含在自助餐内的à la carte菜单，让人每天都有好心情开始一天。」
 
@@ -98,7 +99,7 @@ _srcHash: b57fcaa03e4759ab006ac79829776a71
 
 有旅客分享：
 
-「泳池区是一个放松的好地方，景观极佳。虽然有时躺椅较抢手，但因为我们多数时间都在海滩或外出探索，所以并不构成问题。」
+「泳池区是一个放松的好地方，景观极佳。虽然有时躺椅比较抢手，但因为我们多数时间都在海滩或外出探索，所以并不构成问题。」
 
 ***
 
@@ -106,9 +107,9 @@ _srcHash: b57fcaa03e4759ab006ac79829776a71
 
 许多旅客都特别提到酒店员工的出色服务，评价中屡见这样的称赞：
 
-“员工非常出色——总是友好、细心且真诚温暖。从入住到退房，我们都感受到无微不至的关照。”
+「员工非常出色——总是友好、细心且真诚温暖。从入住到退房，我们都感受到无微不至的关照。」
 
-“Handra非常友善且乐于助人，从入住建议到日常支持，他总是不遗余力确保我们感到舒适。”
+「Handra非常友善且乐于助人，从入住建议到日常支持，他总是不遗余力确保我们感到舒适。」
 
 员工的热情与专业，让整体住宿体验更加分。清洁度评分高达**9.7**，可见酒店在细节上的坚持。
 
@@ -116,19 +117,19 @@ _srcHash: b57fcaa03e4759ab006ac79829776a71
 
 ## 💰 物超所值，定价合理
 
-巴厘岛酒店平均价格约在$76–$100美元之间，而坎古假日酒店虽然定价稍高（约$151–$200），但提供的设施、服务与体验完全对得起这个价格。不少旅客直言：“性价比极高，整体体验轻松超越期望。”
+巴厘岛酒店平均价格约在$76–$100美元之间，而坎古假日酒店虽然定价稍高（约$151–$200），但提供的设施、服务与体验完全对得起这个价格。不少旅客直言：「性价比极高，整体体验轻松超越期望。」
 
-![物超所值，定价合理](https://images.gobaligo.id/vocus/vocus_f46a46076ac4642c59561fdae72f94bd.jpg)
+![物超所值，定價合理](https://images.gobaligo.id/vocus/vocus_f46a46076ac4642c59561fdae72f94bd.jpg)
 
-![物超所值，定价合理](https://images.gobaligo.id/vocus/vocus_03096e8f8cdecab5d48ef06a3ec5cd91.jpg)
+![物超所值，定價合理](https://images.gobaligo.id/vocus/vocus_03096e8f8cdecab5d48ef06a3ec5cd91.jpg)
 
 ***
 
 ## ✅ 总结：值得一再回访的度假胜地
 
-无论你是家庭旅游、情侣度假，还是独自旅行，巴厘岛坎古假日酒店都能提供你一个放松、享受且充满惊喜的住宿体验。优越的位置、贴心的客房设计、丰富的餐饮与设施，再加上令人难忘的员工服务，难怪许多旅客在评价中写道：
+无论你是家庭旅游、情侣度假，还是独自旅行，巴厘岛坎古假日酒店都能为你提供一个放松、享受且充满惊喜的住宿体验。优越的位置、贴心的客房设计、丰富的餐饮与设施，再加上令人难忘的员工服务，难怪许多旅客在评价中写道：
 
-“这绝对是坎古最迷人的住宿地点之一，是一个你会想一再回来的地方。”
+「这绝对是坎古最迷人的住宿地点之一，是一个你会想一再回来的地方。」
 
 **✈️ 实用信息：**
 
@@ -136,7 +137,7 @@ _srcHash: b57fcaa03e4759ab006ac79829776a71
 * 机场接送服务可供预约，从伍拉莱国际机场（DPS）出发约需45–60分钟车程
 * Agoda订房通常可找到最优惠价格
 
-> **▶**[**Holiday Inn Resort Bali Canggu 房价 & 空房查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=46874759) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=113562229&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6xczFJMEk9ZmZY8q_R1PZhBiNDCQsJgs5nj0DBDPaHTz7D33ViOntcQjgaWS8vrjAluu6m8MMxq9LJputYGTcyMgFEruU7LCDkekE41TFBUzTJ90yPcXCzPGQ9RLLd6boaqXs1EolKxMdpZLMkpxUJSulJ3v7n65rfb6iVUlHKSW1OBkoBGQl5uaX5pUA2cYWZnoGBkCRksQKzxQlK2MLHaXkxJzk0pzEktSQygKgEWY6SpnFziVFmQVBqbmZJSWpQGVpiTnFqSDxoNRioEwyWFDJD2hOEVQgMz8Pot0QRSwsMac0FeIGoI1uqVA7DGt1MJ3-bFvHi027cTvd1BDF6SbGA-T02EcsTNGxn1gYfrEwNLEydLEyTGJl5piquIuVJ8jE2T8wUtdQN0rXUErO0MDAwNTQ2NRU1yDR0sLYKNFI18TSxMjMQtfQwtxMo_X80stPjI2spVinHHg-jV2BUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm5ObqZGlZZQNF3NosIug3n_Fv99MpR2kmEPCXRQnB114q9p72l6L2dMlyPCD3vPt7daW9oF7XuecsDdeYB-pcu1RMEPPafsk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUATEkw7uUCAAA&masterhotelid_tracelogid=100051355-0a9832a2-494268-1876&detailFilters=17|1~17~1*31|113562229~31~113562229*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1235&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/KVi2lfgC)
+> **▶**[**Holiday Inn Resort Bali Canggu 房价 & 空房查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=46874759) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-113562229/holiday-inn-resort-bali-canggu-by-ihg/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/KVi2lfgC)
 
 准备好你的巴厘岛之旅了吗？这家假日酒店，很可能会成为你爱上坎古的理由之一。
 

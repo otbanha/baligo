@@ -5,7 +5,7 @@ description: >-
   走进努沙杜瓦最震撼的宫殿式度假村！深度开箱巴厘岛凯宾斯基酒店 Selasar Deli 下午茶：从挑高的印尼传统木建筑美学、精致的 Angkringan
   复古点心推车到壮丽的海景视野。本篇分享预约建议、必拍打卡点与亲子友善体验，带您在艺术殿堂中度过最奢华的午后。
 pubDate: 2025-05-25T00:00:00.000Z
-updatedDate: 2026-07-10T00:00:00.000Z
+updatedDate: 2026-07-20T00:00:00.000Z
 pubHour: null
 category:
   - 美食景點活動
@@ -23,9 +23,9 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bdbf1e9814d60a19a2a11d07a7609ac5.jpg'
 originalUrl: 'https://vocus.cc/article/6832c6c0fd897800014776ba'
 lang: zh-cn
-_srcHash: a9dbb79f4c2d1bb7181aad4ecb5fe2d2
+_srcHash: 85a93fc3f1851432ef9accbf2175bcb4
 ---
-**先说结论**：The Apurva Kempinski Bali 的 Selasar Deli 下午茶以宫殿级印尼传统木建筑美学闻名，被称为「巴厘岛最美下午茶」，海景座位需**靠运气**（建议提前预约并询问座位安排），供应复古点心推车 Angkringan 风格茶点，适合亲子与IG打卡双重需求的旅客。
+**先讲结论**：The Apurva Kempinski Bali 的 Selasar Deli 下午茶以宫殿级印尼传统木建筑美学闻名，被称为「巴厘岛最美下午茶」，海景座位需**靠运气**（建议提前预约并询问座位安排），供应复古点心推车 Angkringan 风格茶点，适合亲子与IG打卡双重需求的旅客。
 
 午后的阳光温柔地洒在巴厘岛努沙杜瓦的海岸线上，我们乘车抵达 **凯宾斯基酒店（The Apurva Kempinski Bali）**。这座依山而建的奢华度假村，从入口处就展现出惊人的气势——挑高的木质结构、精致的巴厘岛雕刻，中央水池里锦鲤悠游，孩子们兴奋地围观，整个空间充满了度假的悠闲氛围。
 
@@ -71,7 +71,7 @@ _srcHash: a9dbb79f4c2d1bb7181aad4ecb5fe2d2
 
 ✔️ 3小时无限享用甜咸点心✔️ 咖啡/茶/果汁畅饮✔️ 免费使用海滩区及泳池
 
-20多种精致点心任选，推荐：✅ 咸点：松露芝士三明治、印尼沙嗲串✅ 甜点：椰子慕斯、芒果百香果塔🚫 果汁较淡，建议点冰拿铁
+20多种精致点心任选，推荐：✅ 咸点：松露芝士三明治、印尼沙爹串✅ 甜点：椰子慕斯、芒果百香果塔🚫 果汁较淡，建议点冰拿铁
 
 服务员 **Christiani** 超贴心，看到我们拍照主动帮忙找角度，还多送了一份招牌甜点！
 
@@ -105,7 +105,7 @@ _srcHash: a9dbb79f4c2d1bb7181aad4ecb5fe2d2
 
 > [巴厘岛凯宾斯基酒店介绍](/zh-cn/blog/apurva-kempinski-bali-nusa-dua/)
 
-> 凯宾斯基订房链接： [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5941544)  [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=25195229&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-N6ysTFJMEkdY-Jo-_ft1YmIWZDAyONvXwGDxgttso7ejysEllnP9fBc537w6opjxY6BPBETDnwfBp74grTs9Z-kY4OXYysYIEZjHefNvJsZAzaIdf6WrTKYQcj0wnG_89fMS1gWnXwDM8pFhaOLROdLrHsY4yuVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DAwtjU3EjPwAAoWpJY4ZkC1p2cmJNcmpNYkhpSWQA0xUhHKbPYuaQoMyAoNTezpCQVqCotMac4FSQelFoMlEkGC4LMLoLyM_PzILoNUMTCEnNKUyEqgfa5pUKtMKyNfcTCFB37gmUv3ycWhl8sDE2sDF2sLBwT9rNOYmXlAPl3Fyuvr7OThaWnrmGIbpSu4QXWsyc_MEnJGxoYGJgaGpua6hokWloYGyUa6ZpYmhiZmumaG5qaGWn83tRx4ImxkbUUJDwVGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsRm5mDgbm0fZcDGHBrsI5j7_vfKjkbSDFLOnS5BitNPtvXIulvZaIJ4hjBe4izls79NNvPaRMJEk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkLEAIndwQlECAAA&masterhotelid_tracelogid=100051355-0a9832a2-494256-71562&detailFilters=17|1~17~1*31|25195229~31~25195229*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=270&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660)  [Booking.com](https://booking.tpm.li/QGYx9LPu)
+> 凯宾斯基订房链接： [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5941544)  [Trip](https://hk.trip.com/hotels/bali-hotel-detail-25195229/the-apurva-kempinski-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)  [Booking.com](https://booking.tpm.li/QGYx9LPu)
 
 这是一个让人舍不得离开的地方，或许，这就是巴厘岛的魅力吧！ 🌴☕️
 
