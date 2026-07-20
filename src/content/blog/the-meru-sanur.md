@@ -3,6 +3,7 @@ slug: 'the-meru-sanur'
 title: "The Meru Sanur｜沙努爾五星療癒度假村 全套房海景＆頂級 SPA 2026 - Go Bali Go"
 description: "沙努爾最美五星全套房度假村！The Meru Sanur 擁有壯闊海景套房、奧運規格泳池與世界級養生中心，2024 年底開幕即獲 Agoda 評分 9.1 旅人鑑賞優勝。詳解位置優勢、家庭設施與 2026 最新入住體驗，沙努爾高端放鬆的終極選擇。"
 pubDate: 2026-04-17
+updatedDate: 2026-07-20
 pubHour: 22
 category:
   - 住宿推薦

@@ -3,6 +3,7 @@ title: 【水明漾住宿推薦】Seminyak 市中心最高評分的浪漫私人 
 slug: 'equilibria-seminyak'
 description: 尋找峇里島最完美的蜜月或浪漫退隱地？深度開箱 eqUILIBRIA Seminyak。這座屢獲殊榮的別墅結合了尖端環保設計與 100% 私人管家服務。解析其獨特的瀑布泳池、竹林建築與高科技房控系統。地理位置卓越且鬧中取靜，是您 2026 體驗奢華島嶼生活的終極選擇。
 pubDate: 2026-04-19
+updatedDate: 2026-07-20
 pubHour: 16
 category:
   - 住宿推薦

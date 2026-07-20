@@ -3,6 +3,7 @@ slug: 'le-cliff-bali-uluwatu'
 title: "Le Cliff Bali｜烏魯瓦圖懸崖海景第一排 浪漫蜜月 Villa 推薦 2026 - Go Bali Go"
 description: "在烏魯瓦圖懸崖邊聽著海浪入睡！Le Cliff Bali 以絕美懸崖海景、私人泳池與極致隱私感聞名，是峇里島最浪漫的蜜月 Villa 之一。詳解入住體驗、設施亮點與最佳預訂時機，烏魯瓦圖完美渡假規劃指南。"
 pubDate: 2026-04-16
+updatedDate: 2026-07-20
 pubHour: 18
 category:
   - 住宿推薦

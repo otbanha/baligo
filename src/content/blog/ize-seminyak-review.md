@@ -3,6 +3,7 @@ title: "IZE Seminyak｜水明漾高 CP 值精品飯店深度評測 2026 - Go Bal
 slug: 'ize-seminyak-hotel-review'
 description: "水明漾 CP 值最高的精品設計旅館之一！IZE Seminyak 以合理價位提供精緻設計感客房、屋頂無邊際泳池與超便利位置。詳解各房型差異、設施使用心得與訂房時機，首訪水明漾旅客的強力推薦。"
 pubDate: 2026-04-18
+updatedDate: 2026-07-20
 pubHour: 16
 category:
   - 住宿推薦

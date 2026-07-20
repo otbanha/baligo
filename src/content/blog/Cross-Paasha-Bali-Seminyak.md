@@ -3,6 +3,7 @@ title: "Cross Paasha Bali Seminyak｜水明漾藝術精品 Villa 完整評測 20
 slug: 'cross-paasha-bali-seminyak'
 description: "水明漾最具藝術氣息的精品 Villa！Cross Paasha Bali Seminyak 以獨特文化融合設計與無邊際泳池聞名，是攝影打卡與蜜月旅行的熱門選擇。詳解入住體驗、設施亮點與性價比分析，帶你選對水明漾的理想住所。"
 pubDate: 2026-04-15
+updatedDate: 2026-07-20
 pubHour: 16
 category:
   - 住宿推薦
