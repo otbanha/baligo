@@ -101,6 +101,29 @@ for (const cat of NEWS_CATEGORIES) {
 }
 const availableCategories = NEWS_CATEGORIES.filter(c => categoryCounts[c] > 0);
 
+// 側欄「文章分類」：站內導覽用，連結到 /blog/category/[cat]/
+const SITE_CATEGORY_ORDER = [
+  '新手指南',
+  '住宿推薦',
+  '峇里島分區攻略',
+  '簽證通關',
+  '叫車包車',
+  '家庭親子',
+  '遊記分享',
+  '美食景點活動',
+  '新聞存檔',
+];
+const publishedSitePosts = (await getCollection('blog')).filter(isPublished);
+const siteAllCategories = [...new Set(publishedSitePosts.flatMap(p => getCategories(p.data.category)))];
+const siteCategories = [
+  ...SITE_CATEGORY_ORDER.filter(c => siteAllCategories.includes(c)),
+  ...siteAllCategories.filter(c => !SITE_CATEGORY_ORDER.includes(c)),
+];
+const siteCategoryCounts: Record<string, number> = {};
+for (const cat of siteCategories) {
+  siteCategoryCounts[cat] = publishedSitePosts.filter(p => getCategories(p.data.category).includes(cat)).length;
+}
+
 const pageTitle = isFirstPage
   ? '峇里島新聞 | 每日更新峇里島最新消息 - 小傑印尼'
   : `峇里島新聞（第 ${page.currentPage} 頁）| 小傑印尼`;
@@ -111,7 +134,7 @@ const faqs = [
   { q: '峇里島最新入境規定是什麼？', a: '印尼入境規定（簽證、落地簽費用、免簽名單）會不定期調整，建議以本站「簽證通關」分類與峇里島新聞中的最新公告為準，出發前 1-2 週再次確認，避免資訊過時。' },
   { q: '峇里島新聞多久更新一次？', a: '本站峇里島新聞每天追蹤印尼當地新聞來源、政府公告與現地社團，通常在重大消息發生後 24 小時內整理上稿，非機器自動轉載，力求即時且對旅客真正有用。' },
   { q: '峇里島今天天氣如何？火山有活動嗎？', a: '峇里島天氣與周邊火山（如阿貢火山）動態會直接反映在峇里島新聞的每日更新中；即時天氣也可參考本站的峇里島天氣頁面。' },
-  { q: '這些新聞從哪裡來、可信嗎？', a: '每則新聞會標註原始出處與連結，方便查證；整理彙編由長住峇里島的台灣人「小傑」親自完成，不是自動抓取或機器翻譯內容。' },
+  { q: '這些新聞從哪裡來、可信嗎？', a: '我們的新聞取材自各大印尼新聞網站；整理彙編由長住印尼的GoBaliGo台灣團隊親自完成，不是自動抓取或機器翻譯內容。' },
 ];
 ---
 
@@ -179,6 +202,28 @@ const faqs = [
   <TopStrip lang="zh-tw" />
 
   <div class="news-hub-layout">
+    <aside class="sidebar" data-pagefind-ignore>
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">📂 文章分類</h3>
+        <ul class="category-list">
+          <li>
+            <a href="/blog/" class="category-item">
+              <span class="cat-name">首頁</span>
+              <span class="cat-count">{publishedSitePosts.length}</span>
+            </a>
+          </li>
+          {siteCategories.map(cat => (
+            <li>
+              <a href={`/blog/category/${encodeURIComponent(cat)}/`} class={`category-item ${cat === '新聞存檔' ? 'active' : ''}`}>
+                <span class="cat-name">{cat}</span>
+                <span class="cat-count">{siteCategoryCounts[cat]}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </aside>
+
     <main class="news-hub-main">
 
       <nav class="breadcrumb" aria-label="breadcrumb">
@@ -191,7 +236,7 @@ const faqs = [
 
       {isFirstPage && (
         <p class="news-hub-intro">
-          峇里島新聞由長住峇里島的台灣人「小傑」整理彙編，每天追蹤印尼當地新聞來源、政府公告與現地社團，篩選出對來峇里島玩、住、生活最有用的峇里島最新消息——包含峇里島入境規定、峇里島天氣與峇里島火山示警、交通異動、治安提醒與活動資訊，通常在事件發生後 24 小時內更新完成，不是機器人自動轉載。無論你想知道峇里島現況、峇里島今天發生什麼事，還是在找 Bali news 中文版、峇里島旅遊新聞與峇里島即時新聞，這裡都是查證的第一站。
+          峇里島新聞由長住印尼的台灣人團隊整理彙編，每天追蹤印尼當地新聞來源、政府公告與現地社團，篩選出對來峇里島玩、住、生活最有用的峇里島最新消息——包含峇里島入境規定、峇里島天氣與峇里島火山示警、交通異動、治安提醒與活動資訊，通常在事件發生後 24 小時內更新完成，不是機器人自動轉載。無論你想知道峇里島現況、峇里島今天發生什麼事，還是在找 Bali news 中文版、峇里島旅遊新聞與峇里島即時新聞，這裡都是查證的第一站。
         </p>
       )}
 
@@ -253,8 +298,53 @@ const faqs = [
 </html>
 
 <style>
-  .news-hub-layout { max-width: 860px; margin: 0 auto; padding: 1.5em 1.2em 3em; }
-  .news-hub-main { width: 100%; }
+  .news-hub-layout {
+    display: grid;
+    grid-template-columns: 240px 1fr;
+    gap: 2em;
+    max-width: 1160px;
+    margin: 0 auto;
+    padding: 1.5em 1.2em 3em;
+    align-items: start;
+  }
+  .news-hub-main { width: 100%; max-width: 860px; min-width: 0; }
+
+  .sidebar { position: sticky; top: 64px; min-width: 0; }
+  .sidebar-section { margin-bottom: 1.8em; }
+  .sidebar-title {
+    font-size: 0.85em;
+    font-weight: 700;
+    color: var(--ocean, #0a3d6b);
+    letter-spacing: 0.05em;
+    margin: 0 0 0.8em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid rgba(197, 160, 89, 0.2);
+  }
+  .category-list { list-style: none; margin: 0; padding: 0; }
+  .category-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.45em 0.7em;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #3a4a5a;
+    font-size: 0.88em;
+    transition: all 0.15s;
+    margin-bottom: 0.2em;
+  }
+  .category-item:hover { background: rgba(10, 61, 107, 0.08); color: var(--ocean, #0a3d6b); }
+  .category-item.active { background: var(--ocean, #0a3d6b); color: #fff; }
+  .cat-name { flex: 1; }
+  .cat-count {
+    font-size: 0.78em;
+    background: rgba(10, 61, 107, 0.1);
+    color: var(--ocean, #0a3d6b);
+    padding: 0.1em 0.5em;
+    border-radius: 10px;
+    font-weight: 600;
+  }
+  .category-item.active .cat-count { background: rgba(255,255,255,0.2); color: #fff; }
 
   .breadcrumb { font-size: 0.85em; color: #888; margin-bottom: 1em; }
   .breadcrumb a { color: var(--ocean, #0a3d6b); text-decoration: none; }
@@ -314,6 +404,52 @@ const faqs = [
   .news-faq-item { border: 1px solid rgba(197,160,89,0.2); border-radius: 8px; padding: 0.7em 1em; }
   .news-faq-q { font-weight: 700; cursor: pointer; color: #1a2a3a; font-size: 0.95em; }
   .news-faq-a { margin: 0.6em 0 0; color: #445; font-size: 0.9em; line-height: 1.6; }
+
+  @media (max-width: 900px) {
+    .news-hub-layout { grid-template-columns: 1fr; gap: 0; padding: 0 0 3em; }
+    .news-hub-main { max-width: none; padding: 0 1.2em; }
+
+    .sidebar {
+      position: sticky;
+      top: 64px;
+      z-index: 90;
+      border-bottom: 2px solid rgba(197,160,89,0.25);
+      background: var(--ocean, #0a3d6b);
+      box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+      overflow: hidden;
+    }
+    .sidebar-title { display: none; }
+    .sidebar-section { margin: 0; }
+    .category-list {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      gap: 0.45em;
+      padding: 0.55em 1em;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+    }
+    .category-list::-webkit-scrollbar { display: none; }
+    .category-list li { flex-shrink: 0; }
+    .category-item {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3em;
+      padding: 0.3em 0.85em;
+      border-radius: 20px;
+      border: 1px solid rgba(255,255,255,0.2);
+      background: rgba(255,255,255,0.1);
+      color: rgba(255,255,255,0.85);
+      font-size: 0.83em;
+      font-weight: 600;
+      white-space: nowrap;
+      margin-bottom: 0;
+    }
+    .category-item:hover { background: rgba(255,255,255,0.18); color: #fff; }
+    .category-item.active { background: var(--gold, #c5a059); color: #fff; border-color: var(--gold, #c5a059); }
+    .cat-count { display: none; }
+  }
 
   @media (max-width: 600px) {
     .news-hub-thumb { width: 76px; height: 58px; }
