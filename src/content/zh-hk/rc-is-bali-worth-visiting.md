@@ -61,7 +61,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 尤其係爬火山、睇日出呢啲行程，通常半夜兩三點就要集合，溫度同日頭差好遠。我一開始都覺得「去海島帶外套會唔會太誇張」，點知最後真係好彩有帶。
 
-> [巴里島要帶外套嗎？峇里島穿搭攻略：旅行中必帶的8件衣物](https://gobaligo.id/zh-hk/blog/bali-packing-essentials/)
+> [巴里島要帶外套嗎？峇里島穿搭攻略：旅行中必帶的8件衣物](/zh-hk/blog/bali-packing-essentials/)
 
 ***
 
@@ -96,7 +96,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 我還記得同班飛機有一對母女，在機場直接買了十幾瓶礦泉水，超怕當地水不乾淨。
 結果後來幾天看她們一路提著那些水跑行程，幾乎都沒真正用到 😂
 
-> [Bali Belly 峇里島肚屙/腸胃炎/髒水病點自救？Bali Belly 紓緩成藥攻略](https://gobaligo.id/zh-hk/blog/bali-belly-medicine-guide/)
+> [Bali Belly 峇里島肚屙/腸胃炎/髒水病點自救？Bali Belly 紓緩成藥攻略](/zh-hk/blog/bali-belly-medicine-guide/)
 
 ***
 
@@ -114,7 +114,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 唔使一次換好多，但係身上有啲會安心啲。
 
-> [《峇里島換匯同錢銀管理終極懶人包》印尼/峇里島用咩錢？點換錢最抵？去邊度換錢最好？換匯推薦](https://gobaligo.id/zh-hk/blog/bali-currency-exchange-guide/)
+> [《峇里島換匯同錢銀管理終極懶人包》印尼/峇里島用咩錢？點換錢最抵？去邊度換錢最好？換匯推薦](/zh-hk/blog/bali-currency-exchange-guide/)
 
 ***
 
@@ -192,7 +192,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 所以現金最好都係準備啲。
 
-> [峇里島旅遊費用？峇里島旅遊要準備幾多現金？](https://gobaligo.id/zh-hk/blog/bali-travel-cash-budget-guide/)
+> [峇里島旅遊費用？峇里島旅遊要準備幾多現金？](/zh-hk/blog/bali-travel-cash-budget-guide/)
 
 ***
 
@@ -218,7 +218,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 小心啲總係安心啲。
 
-> [【信用卡盜刷/手續費/加%】峇里島簽卡安全嗎？](https://gobaligo.id/zh-hk/blog/bali-credit-card-safety-tips/)
+> [【信用卡盜刷/手續費/加%】峇里島簽卡安全嗎？](/zh-hk/blog/bali-credit-card-safety-tips/)
 
 # 峇里島旅行優缺點總整理 🌴
 
@@ -247,7 +247,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 呢種價錢放喺好多熱門海島幾乎好難想像。
 
-> [唔使 100 美元嘅水明漾私人泳池別墅](https://gobaligo.id/go/seminyak-villa-under-100)
+> [唔使 100 美元嘅水明漾私人泳池別墅](/go/seminyak-villa-under-100)
 
 尤其峇里島好多 Villa 都好有度假 feel，夜晚返房浸泳池、攤喺度發呆，真係會有種「呢個價錢係真㗎？」嘅感覺。
 
@@ -259,7 +259,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 ![1｜住宿 CP 值真係好高](https://images.gobaligo.id/images/2026-05/1780114466879-709266529_27672523185741878_3244504790469808433_n.jpg)
 
-今次我哋住咗一間感覺好正嘅精品小型旅館。詳細介紹：[Dune Seseh 坎古旁最新秘境美學公寓 極簡野奢](https://gobaligo.id/zh-hk/blog/dune-seseh/)
+今次我哋住咗一間感覺好正嘅精品小型旅館。詳細介紹：[Dune Seseh 坎古旁最新秘境美學公寓 極簡野奢](/zh-hk/blog/dune-seseh/)
 
 #### 📌 訂房資訊
 
@@ -294,9 +294,9 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 尤其係建於十世紀嘅聖泉寺，嗰種歷史感同宗教氛圍，真係會令人印象好深刻。
 
-- [【峇里島聖泉寺】Tirta Empul 完整指南：千年聖水淨化儀式流程、禁忌與必看重點](https://gobaligo.id/zh-hk/blog/tirta-empul-temple-guide/)
-- [峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](https://gobaligo.id/zh-hk/blog/bali-tanah-lot-guide/)
-- [峇里島烏魯瓦圖廟/情人崖旅遊指南：必看亮點與實用建議](https://gobaligo.id/zh-hk/blog/uluwatu-temple-travel-guide/)
+- [【峇里島聖泉寺】Tirta Empul 完整指南：千年聖水淨化儀式流程、禁忌與必看重點](/zh-hk/blog/tirta-empul-temple-guide/)
+- [峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](/zh-hk/blog/bali-tanah-lot-guide/)
+- [峇里島烏魯瓦圖廟/情人崖旅遊指南：必看亮點與實用建議](/zh-hk/blog/uluwatu-temple-travel-guide/)
 
 ***
 
@@ -330,7 +330,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 今日可能仲喺 Beach Club 放空，聽日又走去睇瀑布、爬火山、玩 ATV，旅行節奏好有變化，好難會悶。
 
-> [2026峇里島景點地圖推薦攻略 ｜500個最新峇里島人氣景點一次蒐全](https://gobaligo.id/zh-hk/blog/bali-top-500-attractions/)
+> [2026峇里島景點地圖推薦攻略 ｜500個最新峇里島人氣景點一次蒐全](/zh-hk/blog/bali-top-500-attractions/)
 
 {{block:戶外}}
 
@@ -447,7 +447,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 整體行起嚟壓力唔大，算係比較舒服嘅旅遊氛圍。
 
-> [推薦烏布五大藝術市集/藝術市場完整指南：購買紀念品/伴手禮，尋訪峇里島文化寶藏](https://gobaligo.id/zh-hk/blog/ubud-art-markets-guide/)
+> [推薦烏布五大藝術市集/藝術市場完整指南：購買紀念品/伴手禮，尋訪峇里島文化寶藏](/zh-hk/blog/ubud-art-markets-guide/)
 
 ***
 
@@ -471,7 +471,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 由靜靜哋嘅小酒館到大型派對都有。
 
-> [峇里島水明漾嘅五大夜店推薦：等你嗨翻天嘅夜生活體驗！](https://gobaligo.id/zh-hk/blog/seminyak-nightclubs-guide/)
+> [峇里島水明漾嘅五大夜店推薦：等你嗨翻天嘅夜生活體驗！](/zh-hk/blog/seminyak-nightclubs-guide/)
 
 ***
 
@@ -490,7 +490,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 有時半夜想買嘢都唔使太擔心。
 
-> [【2026 峇里島超市總攻略】30+ 間大型超市地圖指南：Grand Lucky、Pepito、Bintang 全解析與在地人必買清單](https://gobaligo.id/zh-hk/blog/bali-supermarket-guide-map/)
+> [【2026 峇里島超市總攻略】30+ 間大型超市地圖指南：Grand Lucky、Pepito、Bintang 全解析與在地人必買清單](/zh-hk/blog/bali-supermarket-guide-map/)
 
 ***
 
@@ -502,7 +502,7 @@ _srcHash: 00b53f97bee225d86727b77966e1ba75
 
 對怕熱嘅人嚟講，暑假去峇里島其實意外地舒服。
 
-[【寒暑假峇里島】帶細路親子長輩攻略：四大區域推薦、乾季天氣同住宿推薦](https://gobaligo.id/zh-hk/blog/family/)
+[【寒暑假峇里島】帶細路親子長輩攻略：四大區域推薦、乾季天氣同住宿推薦](/zh-hk/blog/family/)
 
 ***
 
@@ -528,7 +528,7 @@ https://youtube.com/shorts/arOR8IvtHbc
 
 玩足一日返去按摩，真係會變成每日固定行程 😂
 
-> [【精華篇】峇里島好評SPA推薦、到府按摩大集合 用區域劃分更方便查找](https://gobaligo.id/zh-hk/blog/spa/)
+> [【精華篇】峇里島好評SPA推薦、到府按摩大集合 用區域劃分更方便查找](/zh-hk/blog/spa/)
 
 ***
 
@@ -559,7 +559,7 @@ https://youtube.com/shorts/wai2lSW3vVU
 
 如果多人一齊分最低消費，其實會抵好多。
 
-> [【2026 峇里島必玩】唔好再淨係去咖啡廳！識玩嘅人都在「Beach Club Jumping」全島跳店攻略](https://gobaligo.id/zh-hk/blog/2026-bali-beach-club-guide/)
+> [【2026 峇里島必玩】唔好再淨係去咖啡廳！識玩嘅人都在「Beach Club Jumping」全島跳店攻略](/zh-hk/blog/2026-bali-beach-club-guide/)
 
 ***
 
@@ -580,7 +580,7 @@ https://youtube.com/shorts/wai2lSW3vVU
 
 而且而家好多舖頭都收卡，除咗傳統街市同小販之外，大部分消費都算方便。
 
-> [峇里島旅遊預算指南：睇明價格中嘅「K」點樣幫你控制預算](https://gobaligo.id/zh-hk/blog/bali-budget-tips-k-explained/)
+> [峇里島旅遊預算指南：睇明價格中嘅「K」點樣幫你控制預算](/zh-hk/blog/bali-budget-tips-k-explained/)
 
 # 峇里島旅行嘅缺點同注意事項｜出發前最好先知道 😅
 
@@ -620,7 +620,7 @@ https://youtube.com/shorts/wai2lSW3vVU
 
 [https://youtu.be/ByGkcmys01g](https://youtu.be/ByGkcmys01g)
 
-> [【咁樣玩居然唔塞車！】爽玩峇里島自由行攻略：交通、住宿、景點、美食、購物、SPA、夜生活，全方位規劃](https://gobaligo.id/zh-hk/blog/bali-free-travel-guide/)
+> [【咁樣玩居然唔塞車！】爽玩峇里島自由行攻略：交通、住宿、景點、美食、購物、SPA、夜生活，全方位規劃](/zh-hk/blog/bali-free-travel-guide/)
 
 ***
 
@@ -660,7 +660,7 @@ https://youtube.com/shorts/wai2lSW3vVU
 
 而且酒店、Villa 多數都會提供樽裝水，所以實際上又冇想像中咁唔方便。
 
-> [峇里島旅行健康小貼士：峇里島嘅飲用水同峇里島肚屙/腸胃炎（Bali Belly）指南](https://gobaligo.id/zh-hk/blog/bali-travel-health-tips/)
+> [峇里島旅行健康小貼士：峇里島嘅飲用水同峇里島肚屙/腸胃炎（Bali Belly）指南](/zh-hk/blog/bali-travel-health-tips/)
 
 ***
 
@@ -683,7 +683,7 @@ https://youtube.com/shorts/wai2lSW3vVU
 
 當然唔係間間舖頭都會亂開價，但喺市集買嘢嗰陣，都係要有啲心理準備。
 
-> [峇里島購物點樣講價？購物須知](https://gobaligo.id/zh-hk/blog/bali-shopping-bargaining-tips/)
+> [峇里島購物點樣講價？購物須知](/zh-hk/blog/bali-shopping-bargaining-tips/)
 
 ***
 
@@ -705,7 +705,7 @@ https://youtube.com/shorts/wai2lSW3vVU
 
 如果價錢平到離譜但啲評語好差，我自己就唔係好敢搏。
 
-> [【精華篇】峇里島好評SPA推薦、到府按摩大集合 用區域劃分更方便查找](https://gobaligo.id/zh-hk/blog/spa/)
+> [【精華篇】峇里島好評SPA推薦、到府按摩大集合 用區域劃分更方便查找](/zh-hk/blog/spa/)
 
 ***
 

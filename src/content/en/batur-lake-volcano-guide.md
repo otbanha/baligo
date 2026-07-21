@@ -33,7 +33,7 @@ originalUrl: 'https://vocus.cc/article/68e786abfd89780001c1b9b7'
 lang: en
 _srcHash: 849def694057ff25877763d47da624a0
 ---
-<a href="https://gobaligo.id/map/kintamani/" style="display:block;background:linear-gradient(135deg,#ff6b35,#f7c948,#2ec4b6);color:#fff;font-size:1.1rem;font-weight:700;text-align:center;padding:14px 20px;border-radius:12px;text-decoration:none;margin-bottom:24px;letter-spacing:0.03em;box-shadow:0 4px 16px rgba(0,0,0,0.18);">🗺️ Kintamani × Mount Batur Interactive Map ── Attractions, Cafés, Hot Springs at a Glance →</a>
+<a href="/map/kintamani/" style="display:block;background:linear-gradient(135deg,#ff6b35,#f7c948,#2ec4b6);color:#fff;font-size:1.1rem;font-weight:700;text-align:center;padding:14px 20px;border-radius:12px;text-decoration:none;margin-bottom:24px;letter-spacing:0.03em;box-shadow:0 4px 16px rgba(0,0,0,0.18);">🗺️ Kintamani × Mount Batur Interactive Map ── Attractions, Cafés, Hot Springs at a Glance →</a>
 
 ## **The Majestic and Serene Lake Batur**
 
@@ -101,7 +101,7 @@ This experience is perfect for:
 
 The entire tour lasts about 8 hours and includes hotel pickup and drop-off, attraction entrance fees, an English-speaking driver-guide, professional photography services, and snacks and bottled water.
 
-**Quick Reference:** [Conquer Bali's Volcano Without Waking Up Early! The Sunset Jeep Tour Lets You Snap Stunning Photos Effortlessly](https://gobaligo.id/en/blog/batur-volcano-sunset-jeep-tour/)
+**Quick Reference:** [Conquer Bali's Volcano Without Waking Up Early! The Sunset Jeep Tour Lets You Snap Stunning Photos Effortlessly](/en/blog/batur-volcano-sunset-jeep-tour/)
 
 ***
 
@@ -199,4 +199,4 @@ Most private drivers can arrange a day trip for you.
 
 {{block:ubud}}
 
-<a href="https://gobaligo.id/map/kintamani/" style="display:block;background:linear-gradient(135deg,#ff6b35,#f7c948,#2ec4b6);color:#fff;font-size:1.1rem;font-weight:700;text-align:center;padding:14px 20px;border-radius:12px;text-decoration:none;margin-top:24px;letter-spacing:0.03em;box-shadow:0 4px 16px rgba(0,0,0,0.18);">🗺️ Interactive Map of Kintamani Attractions – Check the map before you go for a smoother trip! →</a>
+<a href="/map/kintamani/" style="display:block;background:linear-gradient(135deg,#ff6b35,#f7c948,#2ec4b6);color:#fff;font-size:1.1rem;font-weight:700;text-align:center;padding:14px 20px;border-radius:12px;text-decoration:none;margin-top:24px;letter-spacing:0.03em;box-shadow:0 4px 16px rgba(0,0,0,0.18);">🗺️ Interactive Map of Kintamani Attractions – Check the map before you go for a smoother trip! →</a>

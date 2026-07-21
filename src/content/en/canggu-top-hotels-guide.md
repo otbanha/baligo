@@ -360,7 +360,7 @@ Beyond the distinctive rooms, La Mewali boasts a lagoon pool winding through the
 
 ![地理位置圖](https://images.gobaligo.id/vocus/vocus_41b9eed23368f2692e63ad665923dd6e.png)
 
-Please refer to the [Canggu Guide Map](https://gobaligo.id/map/canggu/)
+Please refer to the [Canggu Guide Map](/map/canggu/)
 
 ## You Might Also Like:
 

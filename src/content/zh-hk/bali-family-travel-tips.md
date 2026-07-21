@@ -30,9 +30,9 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 而每個人都要填寫/繳交嘅電子申報單/旅遊稅，請睇下面條link：
 
-> 延伸閱讀: [印尼/峇里島入境流程 - 落機/過海關/拎行李嘅流程](https://gobaligo.id/zh-hk/blog/bali-all-indonesia-arrival-guide/)
+> 延伸閱讀: [印尼/峇里島入境流程 - 落機/過海關/拎行李嘅流程](/zh-hk/blog/bali-all-indonesia-arrival-guide/)
 
-事先辦好電子簽證嘅好處係落機之後完全唔使排隊，仲可以用自動通關，慳返移民局查護照嘅時間。不過有一點要注意，就係未夠6歲嘅小朋友唔可以用自動通關，但係有專屬櫃檯幫佢哋過關（請睇: [入境印尼/峇里島嘅小朋友簽證/兒童簽證攻略](https://gobaligo.id/zh-hk/blog/bali-child-visa-guide/)）
+事先辦好電子簽證嘅好處係落機之後完全唔使排隊，仲可以用自動通關，慳返移民局查護照嘅時間。不過有一點要注意，就係未夠6歲嘅小朋友唔可以用自動通關，但係有專屬櫃檯幫佢哋過關（請睇: [入境印尼/峇里島嘅小朋友簽證/兒童簽證攻略](/zh-hk/blog/bali-child-visa-guide/)）
 
 ###
 
@@ -48,7 +48,7 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 呢個表只係參考，實際保障內容以各保險公司產品為準
 
-> [【峇里島旅遊保險】台港馬新旅客必睇！投保指南、海外醫療同不便險理賠避雷重點整理](https://gobaligo.id/zh-hk/blog/bali-travel-insurance-guide/)
+> [【峇里島旅遊保險】台港馬新旅客必睇！投保指南、海外醫療同不便險理賠避雷重點整理](/zh-hk/blog/bali-travel-insurance-guide/)
 
 ###
 
@@ -153,7 +153,7 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 峇里島有好多小販/掮客專劏觀光客，要小心提防。
 
-[> [峇里島安全嗎？ 揭露最新 6 大觀光詐騙！換錢、假簽證、熱點陷阱...見到呢種人請即刻轉身！](https://gobaligo.id/zh-hk/blog/bali-tourist-scams-2026/)
+[> [峇里島安全嗎？ 揭露最新 6 大觀光詐騙！換錢、假簽證、熱點陷阱...見到呢種人請即刻轉身！](/zh-hk/blog/bali-tourist-scams-2026/)
 
 ### 注意治安：
 

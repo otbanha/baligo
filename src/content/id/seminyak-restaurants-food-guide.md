@@ -163,9 +163,9 @@ Sekarang ada cabang di Seminyak dan Sanur, dua-duanya pakai konsep semi-outdoor 
 
 ![詳細地圖指引請按我](https://images.gobaligo.id/vocus/vocus_0c6c580e3c91135f65bd62b34da3d3f8.jpg)
 
-[Klik di sini untuk peta detail](https://gobaligo.id/map/seminyak/)
+[Klik di sini untuk peta detail](/map/seminyak/)
 
-Selain rekomendasi restoran di atas, kami juga sudah mengkurasi 25 restoran populer lainnya yang ada di dalam [Peta Panduan Seminyak](https://gobaligo.id/map/seminyak/) buatan kami. Mulai dari jajanan lokal, restoran tepi pantai, sampai kafe kekinian — semuanya ada! Yuk klik dan simpan peta ini biar kamu gampang rencanain setiap makan, tanpa kelewatan satu pun tempat wajib coba.
+Selain rekomendasi restoran di atas, kami juga sudah mengkurasi 25 restoran populer lainnya yang ada di dalam [Peta Panduan Seminyak](/map/seminyak/) buatan kami. Mulai dari jajanan lokal, restoran tepi pantai, sampai kafe kekinian — semuanya ada! Yuk klik dan simpan peta ini biar kamu gampang rencanain setiap makan, tanpa kelewatan satu pun tempat wajib coba.
 
 {{block:smk}}
 

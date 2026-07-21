@@ -179,24 +179,24 @@ Check this out: [8 Essential Apps for Traveling to Indonesia/Bali](/en/blog/bali
 
 We've compiled and continuously updated these maps over the years. Save them to your phone for quick reference even without internet:
 
-- [Kuta Guide Map](https://gobaligo.id/map/kuta/)
-- [Seminyak Guide Map](https://gobaligo.id/map/seminyak/)
-- [Canggu Guide Map](https://gobaligo.id/map/canggu/)
-- [Nuanu Creative City Guide Map](https://gobaligo.id/map/nuanu/)
-- [Ubud Guide Map](https://gobaligo.id/map/ubud/)
-- [Jimbaran Guide Map](https://gobaligo.id/map/jimbaran/)
-- [Uluwatu Guide Map](https://gobaligo.id/map/uluwatu/)
-- [Nusa Dua Guide Map](https://gobaligo.id/map/nusa-dua/)
-- [Sanur Guide Map](https://gobaligo.id/map/sanur/)
-- [Amed/Tulamben Guide Map](https://gobaligo.id/map/amed/)
-- [Lembongan/Ceningan Guide Map](https://gobaligo.id/map/lembongan/)
-- [Nusa Penida Guide Map](https://gobaligo.id/map/nusa-penida/)
+- [Kuta Guide Map](/map/kuta/)
+- [Seminyak Guide Map](/map/seminyak/)
+- [Canggu Guide Map](/map/canggu/)
+- [Nuanu Creative City Guide Map](/map/nuanu/)
+- [Ubud Guide Map](/map/ubud/)
+- [Jimbaran Guide Map](/map/jimbaran/)
+- [Uluwatu Guide Map](/map/uluwatu/)
+- [Nusa Dua Guide Map](/map/nusa-dua/)
+- [Sanur Guide Map](/map/sanur/)
+- [Amed/Tulamben Guide Map](/map/amed/)
+- [Lembongan/Ceningan Guide Map](/map/lembongan/)
+- [Nusa Penida Guide Map](/map/nusa-penida/)
 
 ## Supermarket Must-Buys
 
 {{video1}}
 
-[Bali Supermarket Map](https://gobaligo.id/map/supermarket/)
+[Bali Supermarket Map](/map/supermarket/)
 
 {{block:klook}}
 

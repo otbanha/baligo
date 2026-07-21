@@ -70,7 +70,7 @@ https://youtu.be/SpcgZ4iK7qs
 
 https://youtu.be/H-IocbLNpE4
 
-> [Lempuyang 天空之门深度攻略｜倒影是手机屏幕？六座庙怎么走？费用路线全摊开](https://gobaligo.id/zh-cn/blog/lempuyang-temple-gate-of-heaven/)
+> [Lempuyang 天空之门深度攻略｜倒影是手机屏幕？六座庙怎么走？费用路线全摊开](/zh-cn/blog/lempuyang-temple-gate-of-heaven/)
 
 接着去了 **摇摆天堂（Swing Heaven）**，这里不只是荡秋千的地方，还有多个打卡景点可以拍出超美的网红照～🌺 拍完照后导游还会帮忙抓角度，摄影技术一流！
 

@@ -78,7 +78,7 @@ _srcHash: 9345c4353be2ba27e81bb254bc662959
 观光税我也是先线上缴好，大约 USD$10。
 现在巴厘岛很多流程都慢慢电子化，提前处理真的会省下很多时间。
 
-> [2025巴厘岛入境变革一分钟搞懂：印尼/巴厘岛入境流程 - 下飞机/过海关/到领行李的流程](https://gobaligo.id/zh-cn/blog/2025-bali-immigration-process/)
+> [2025巴厘岛入境变革一分钟搞懂：印尼/巴厘岛入境流程 - 下飞机/过海关/到领行李的流程](/zh-cn/blog/2025-bali-immigration-process/)
 
 ***
 
@@ -211,7 +211,7 @@ The Apurva Kempinski Bali 赖佳莹提供
 
 下午茶一人约 USD$23 左右，以饭店等级跟景观来说，我觉得算合理。
 
-> [【巴厘岛奢华下午茶】凯宾斯基 (The Apurva Kempinski) Selasar Deli：宫殿级建筑、木雕艺术与梦幻午后时光](https://gobaligo.id/zh-cn/blog/kempinski-selasar-deli-afternoon-tea/)
+> [【巴厘岛奢华下午茶】凯宾斯基 (The Apurva Kempinski) Selasar Deli：宫殿级建筑、木雕艺术与梦幻午后时光](/zh-cn/blog/kempinski-selasar-deli-afternoon-tea/)
 
 ***
 
@@ -390,7 +390,7 @@ Yayasan Senyum Bali 赖佳莹提供
 
 The Nest Boutique Spa 赖佳莹提供
 
-> 收录在 [【精华篇】巴厘岛好评SPA推荐、到府按摩大集合 用区域划分更方便查找](https://gobaligo.id/zh-cn/blog/spa/)
+> 收录在 [【精华篇】巴厘岛好评SPA推荐、到府按摩大集合 用区域划分更方便查找](/zh-cn/blog/spa/)
 
 沙努尔真的很多按摩店，但这间我一直觉得整体品质很稳定。
 环境舒服、力道也不错，不是那种观光区随便做做的感觉。
@@ -467,7 +467,7 @@ Tirta Empul Temple 赖佳莹提供
 头发湿掉后真的只能自然风干🤣
 还好我自己有先带毛巾，不然骑车吹风应该会超崩溃。
 
-> [【巴厘岛圣泉寺】Tirta Empul 完整指南：千年圣水净化仪式流程、禁忌与必看重点](https://gobaligo.id/zh-cn/blog/tirta-empul-temple-guide/)
+> [【巴厘岛圣泉寺】Tirta Empul 完整指南：千年圣水净化仪式流程、禁忌与必看重点](/zh-cn/blog/tirta-empul-temple-guide/)
 
 ***
 
@@ -487,7 +487,7 @@ Penglipuran Village 赖佳莹提供
 
 有几间店还会卖一些当地小点心，如果骑车骑累了，很适合进去坐一下休息。
 
-> [穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](https://gobaligo.id/zh-cn/blog/penglipuran-village-bali-experience/)
+> [穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/zh-cn/blog/penglipuran-village-bali-experience/)
 
 ***
 
@@ -695,7 +695,7 @@ Jungle Gold Bali
 
 结果原本只是想「进去看看」，最后直接默默提了一袋出来🤣
 
-> 收录在 [【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](https://gobaligo.id/zh-cn/blog/bali-souvenirs-gift-guide/)
+> 收录在 [【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/zh-cn/blog/bali-souvenirs-gift-guide/)
 
 ***
 

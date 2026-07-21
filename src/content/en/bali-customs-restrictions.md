@@ -163,7 +163,7 @@ Power bank regulations are equally strict:
 
 _Reason:_ In recent years, there have been frequent incidents of power banks exploding or catching fire inside aircraft cabins, leading airlines worldwide to impose strict restrictions.
 
-> [Can power banks, portable chargers, USB fans, or neck fans be brought on a plane? 2025 latest rules summary](https://gobaligo.id/en/blog/airplane-power-bank-fan-rules-2025/)
+> [Can power banks, portable chargers, USB fans, or neck fans be brought on a plane? 2025 latest rules summary](/en/blog/airplane-power-bank-fan-rules-2025/)
 
 #### ❌ Pepper Spray
 

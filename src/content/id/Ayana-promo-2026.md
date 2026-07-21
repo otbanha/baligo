@@ -120,7 +120,7 @@ AYANA Resort adalah salah satu resor bintang lima paling populer di Bali. Punya 
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783681096008-spa-on-the-rock.jpeg)
 
-Mau tau lebih soal Ayana? Cek 👉[ Panduan Ayana](https://gobaligo.id/id/blog/ayana-resort-bali-guide/)
+Mau tau lebih soal Ayana? Cek 👉[ Panduan Ayana](/id/blog/ayana-resort-bali-guide/)
 
 ## Langsung Booking Promo Eksklusif di Sini
 

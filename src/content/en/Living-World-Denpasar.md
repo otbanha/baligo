@@ -306,8 +306,8 @@ This itinerary balances cultural experiences, shopping, dining, and relaxation w
 
 ![](https://images.gobaligo.id/vocus/vocus_f2221d446da58c692559cd133adbacab.png)
 
-[Denpasar Travel Map](https://gobaligo.id/map/denpasar/)
+[Denpasar Travel Map](/map/denpasar/)
 
-All the above attractions are already collected in the 'Denpasar Travel Map.' Click [here](https://gobaligo.id/map/denpasar/) to save it to your phone!
+All the above attractions are already collected in the 'Denpasar Travel Map.' Click [here](/map/denpasar/) to save it to your phone!
 
 {{block:親子}}

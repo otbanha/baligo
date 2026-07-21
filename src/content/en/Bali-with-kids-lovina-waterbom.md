@@ -53,7 +53,7 @@ Before the trip, I also referred to many experiences shared by seasoned traveler
 
 After arriving in Bali, we checked into Kuta for two nights. On the second day, we spent the whole day at Waterbom water park.
 
-> [【Bali Family Must-Do】Waterbom Bali Water Park Complete Guide: Asia's Best, Slide Ratings & Money-Saving Ticket Tips](https://gobaligo.id/en/blog/waterbom-bali-water-park-guide/)
+> [【Bali Family Must-Do】Waterbom Bali Water Park Complete Guide: Asia's Best, Slide Ratings & Money-Saving Ticket Tips](/en/blog/waterbom-bali-water-park-guide/)
 
 Knowing that flying can be tiring, especially with a child in tow, I deliberately kept the first two days relaxed by staying near the airport. This made transfers easy and let us slowly adjust to the travel pace without having to endure a long drive right after landing—making the trip feel easy from the very start.
 
@@ -149,7 +149,7 @@ I recommend arriving at least 30 minutes early to secure a front-row seat or a s
 
 Accompanied by the gamelan orchestra, the dancers' delicate eye movements, graceful gestures, and ornate costumes together showcase Bali's profound cultural heritage. Even if you don't understand the story, you'll be immersed in the rich atmosphere of the performance—it's truly an experience worth having.
 
-[【Must-Visit in Ubud】Ubud Royal Palace: A Gem of Balinese Culture and History | Opening Hours, Tickets, Performance Times, Nearby Attractions, Day Trip Recommendations](https://gobaligo.id/en/blog/ubud-royal-palace-tour-guide/)
+[【Must-Visit in Ubud】Ubud Royal Palace: A Gem of Balinese Culture and History | Opening Hours, Tickets, Performance Times, Nearby Attractions, Day Trip Recommendations](/en/blog/ubud-royal-palace-tour-guide/)
 
 {{block:ubud}}
 

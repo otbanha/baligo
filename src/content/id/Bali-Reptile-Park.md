@@ -144,7 +144,7 @@ Kedua taman punya restoran sendiri. Restoran di Reptile Park lebih sederhana, se
 **【Sore】Bali Bird Park – Disarankan stay 3-4 jam**
 Setelah makan siang, langsung jalan kaki ke bird park di sebelah! Tempat ini luas banget, punya lebih dari **250 spesies, ribuan ekor** burung dari kepulauan Indonesia dan seluruh dunia. Kamu bisa masuk ke kandang raksasa, biarkan burung rangkong dan kakak tua yang lucu terbang di atas kepalamu; jangan lewatkan **pertunjukan burung beo** dan **pertunjukan burung pemangsa** di jam tertentu setiap hari, keren banget! Taman burung ini juga punya lanskap tropis yang kece, air terjun, kolam teratai, arsitektur tradisional Bali, foto di mana aja kayak kartu pos.
 
-Info lengkap: [Panduan Lengkap Bali Bird Park: Spesies Burung Langka, Aktivitas Interaktif, dan Petualangan Konservasi Alam](https://gobaligo.id/id/blog/bali-bird-park-guide/)
+Info lengkap: [Panduan Lengkap Bali Bird Park: Spesies Burung Langka, Aktivitas Interaktif, dan Petualangan Konservasi Alam](/id/blog/bali-bird-park-guide/)
 
 > Beli tiket online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D9f20741f36) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-bird-park-80525/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 

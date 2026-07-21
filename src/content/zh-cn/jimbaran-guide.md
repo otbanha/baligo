@@ -26,7 +26,7 @@ https://youtu.be/2rvFv04KpAA
 
 ![峇里島自由行金巴蘭攻略：推薦30個玩樂景點全攻略｜2026旅遊指南](https://images.gobaligo.id/vocus/vocus_0787dc59265571ddcbf186366b00e3b5.png)
 
-可以定位/保存的[金巴兰攻略地图](https://gobaligo.id/map/jimbaran/)
+可以定位/保存的[金巴兰攻略地图](/map/jimbaran/)
 
 ## 金巴兰的美丽海滩 （👉🏼地图：[金巴兰必访景点](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing)）
 
@@ -56,7 +56,7 @@ https://youtu.be/qZKnpUnqu3Y
 
 如果您渴望一些刺激，金巴兰附近的Go Kart赛道将是您的理想之选。在这个赛道上，您可以租用卡丁车，挑战自己的驾驶技巧，享受高速竞赛的乐趣。无论您是赛车手，还是想体验赛车的刺激，这个活动都将给您一个难以忘怀的体验。而且，赛道设有基本的安全设施，确保您在享受过程中保持安全。
 
-> 想去玩务必先预约：[https://gobaligo.id/go/Go-Cart-Bali](https://gobaligo.id/go/Go-Cart-Bali)
+> 想去玩务必先预约：[/go/Go-Cart-Bali](/go/Go-Cart-Bali)
 
 ## GWK Culture Park：巴厘岛的文化宝库（👉🏼地图：[金巴兰必访景点](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing)）
 
@@ -168,6 +168,6 @@ Rock Bar是金巴兰一个著名的餐厅和酒吧，坐拥壮观的海景。这
 
 https://youtu.be/HKMalFa6zMw
 
-## 我們收集的全部30個景點請看「[金巴兰攻略地圖](https://gobaligo.id/map/jimbaran/)」
+## 我們收集的全部30個景點請看「[金巴兰攻略地圖](/map/jimbaran/)」
 
 {{block:攻略}}

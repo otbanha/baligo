@@ -43,15 +43,15 @@ embeds: []
 lang: id
 _srcHash: a513f26570e8b234cd7a1361abc532cc
 ---
-**Intinya**: Ini bagian kedua catatan perjalanan Bali 5 hari 4 malam, rutenya **Seminyak → Ubud → Seminyak**. Poin-poin yang wajib dicatat: **Kilo Kitchen** (restoran) di Seminyak, **Bintang Supermarket** (belanja oleh-oleh), Villa romantis Berry Amour; **Sangeh Monkey Forest** (hutan monyet) di Ubud, Sun Sun Warung dan Pak Malen Babi Guling (kuliner lokal), Ubud Traditional Spa. Untuk dua hari pertama rute Jimbaran dan masuk bandara, cek [bagian 1](https://gobaligo.id/id/blog/2026-03-29-092243/).
+**Intinya**: Ini bagian kedua catatan perjalanan Bali 5 hari 4 malam, rutenya **Seminyak → Ubud → Seminyak**. Poin-poin yang wajib dicatat: **Kilo Kitchen** (restoran) di Seminyak, **Bintang Supermarket** (belanja oleh-oleh), Villa romantis Berry Amour; **Sangeh Monkey Forest** (hutan monyet) di Ubud, Sun Sun Warung dan Pak Malen Babi Guling (kuliner lokal), Ubud Traditional Spa. Untuk dua hari pertama rute Jimbaran dan masuk bandara, cek [bagian 1](/id/blog/2026-03-29-092243/).
 
 > Catatan perjalanan di bawah ini diadaptasi dari postingan [YiShawn Huang](https://www.facebook.com/share/p/1DGMfZ4ZNV/)
 
-Kalau belum baca bagian sebelumnya, saran sih baca dulu **《**[**Bali 5 Hari 4 Malam Trip Bebas (Bagian 1)**](https://gobaligo.id/id/blog/2026-03-29-092243/)**》**, mulai dari tiba di Bali, sharing masuk bandara, penginapan Jimbaran, kuliner, sunset pantai, SPA, dan itinerary hari pertama & kedua — biar lebih nyambung ceritanya.
+Kalau belum baca bagian sebelumnya, saran sih baca dulu **《**[**Bali 5 Hari 4 Malam Trip Bebas (Bagian 1)**](/id/blog/2026-03-29-092243/)**》**, mulai dari tiba di Bali, sharing masuk bandara, penginapan Jimbaran, kuliner, sunset pantai, SPA, dan itinerary hari pertama & kedua — biar lebih nyambung ceritanya.
 
 ![峇里島五天四夜自由行（下）：水明漾、烏布、美食、Villa、猴子森林完整遊記](https://images.gobaligo.id/images/2026-06/1782646762456-_2026-06-28_18.38.54.png)
 
-[Klik di sini buat lihat pengalaman menginap Four Seasons Jimbaran di bagian 1](https://gobaligo.id/id/blog/2026-03-29-092243/)
+[Klik di sini buat lihat pengalaman menginap Four Seasons Jimbaran di bagian 1](/id/blog/2026-03-29-092243/)
 
 Bagian sebelumnya lebih fokus ke rute **Jimbaran**, nginep di private Villa, nikmatin pemandangan laut, SPA, dan restoran khas — ritmenya santai banget, dan resmi memulai perjalanan Bali yang udah ditunggu-tunggu.
 
@@ -113,7 +113,7 @@ Kalau harus milih satu dari dua villa yang kita tinggali selama trip ini, secara
 
 ![第三天](https://images.gobaligo.id/images/2026-03/1774366776561-496470436.jpg)
 
-Berry Amour Romantic Villas adalah kompleks villa bergaya romantis dengan rating bintang lima, total 20 villa, dan hanya menerima tamu pasangan serta tamu di atas 16 tahun. [Di sini](https://gobaligo.id/id/blog/seminyak-private-villas-guide/#berry-amour-romantic-villas) ada info lengkapnya.
+Berry Amour Romantic Villas adalah kompleks villa bergaya romantis dengan rating bintang lima, total 20 villa, dan hanya menerima tamu pasangan serta tamu di atas 16 tahun. [Di sini](/id/blog/seminyak-private-villas-guide/#berry-amour-romantic-villas) ada info lengkapnya.
 
 > Cek harga & ketersediaan kamar Berry Amour Romantic Villas [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=444466) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=981717&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6zszFJMEk9YCZY1LfmywhRgOLiUKOhbZc1xcfmuDgefirRkx_0RSHAJ4ZjFe_Wq9gZNzI2H8IKFif67CDkekAI9MJxr36C5hm7PjMeoqFmeMExyWWr0zR1UrZqZVKViY6SiWZJTmpSlZKz-b0Pu2e-WLTbiUdpZTU4mSgEJCVmJtfmlcCZJuaWOgZGABFShIrPFOUrMx1lJITc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdgMUsbDEnNJUiBOAFrqlQu0wrtXBdPnTRfOeNux5vqKVOJebUNvlhsS43LA29hELU3TsJxaGXywMTawMXawMk1iZOfbq72Jlc_Y3iXIKkVI0NDAwMDI1NTLXNUi0TASCJF0TSxNjAwtdQ2MjEwtjM43WsxtnPDU2spZinXLg-TR2BUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWyGpsauRqZRNlzMni5Bgvf-s-RqK1vaSzGHhLsorrzJvPbAhNP2WsyhwS6G4IRmIO0QaPFFjP-95QL7SJh8EmtVhm5IeEaveAFjAyNTFyO3AKMHYwRjBZDHuIqRYQMj4w7G_zDA-IoRZDoAOORmMs4CAAA&masterhotelid_tracelogid=100025527-0a9aaaab-494308-1324836&detailFilters=17%7C1~17~1*31%7C981717~31~981717*80%7C2%7C1~80~2*29%7C1~29~1%7C2&display=incavg&subStamp=1220&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/mGE2HtVB)
 
@@ -185,7 +185,7 @@ Kali ini pilih paket **Rice Farmer Massage**, isinya **60 menit Rice Farmer Mass
 
 Meskipun tekanan pijatnya nggak se-‘sampai’ yang kami rasain di SPA sebelumnya, tapi secara keseluruhan pelayanan, suasana, dan harganya oke banget. Buat standar di pusat kota Ubud, CP-nya worth it. Kalau kebetulan kamu punya jadwal seharian penuh jalan-jalan dan explore tempat di Ubud, ditutup dengan pijat relaksasi lalu balik ke hotel, menurutku itu itinerary yang nyaman banget.
 
-> [【Rangkuman】Rekomendasi SPA Terbaik di Bali, Kumpulan Pijat ke Kamar, Dibagi per Area Biar Gampang Cari](https://gobaligo.id/id/blog/spa/)
+> [【Rangkuman】Rekomendasi SPA Terbaik di Bali, Kumpulan Pijat ke Kamar, Dibagi per Area Biar Gampang Cari](/id/blog/spa/)
 
 {{block:ubud}}
 

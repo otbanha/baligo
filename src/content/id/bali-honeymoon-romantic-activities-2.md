@@ -47,7 +47,7 @@ Pilih penginapan yang paling cocok sesuai budget dan selera. Bali punya banyak p
 
 ![住宿選擇](https://images.gobaligo.id/images/2026-07/1782905263415-afa7a13c21dadea57a81cc3f3dc0102b.jpg)
 
-Cek juga panduan lebih dari 300 rekomendasi penginapan kami di '[Panduan Akomodasi Bali](https://gobaligo.id/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)'
+Cek juga panduan lebih dari 300 rekomendasi penginapan kami di '[Panduan Akomodasi Bali](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)'
 
 Selanjutnya kita bahas aktivitas romantis. Kamu bisa ikut berbagai kegiatan romantis buat bikin bulan madu makin spesial:
 

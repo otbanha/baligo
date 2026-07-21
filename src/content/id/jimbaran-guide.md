@@ -30,7 +30,7 @@ https://youtu.be/2rvFv04KpAA
 
 ![峇里島自由行金巴蘭攻略：推薦30個玩樂景點全攻略｜2026旅遊指南](https://images.gobaligo.id/vocus/vocus_0787dc59265571ddcbf186366b00e3b5.png)
 
-Peta panduan Jimbaran yang bisa kamu simpan/akses: [Jimbaran Guide Map](https://gobaligo.id/map/jimbaran/)
+Peta panduan Jimbaran yang bisa kamu simpan/akses: [Jimbaran Guide Map](/map/jimbaran/)
 
 ## Pantai Cantik di Jimbaran (👉🏼 Peta: [Tempat Wajib Kunjung di Jimbaran](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing))
 
@@ -60,7 +60,7 @@ https://youtu.be/qZKnpUnqu3Y
 
 Kalau kamu butuh sensasi yang lebih menantang, sirkuit Go Kart di dekat Jimbaran ini tempat yang pas banget. Di sini, kamu bisa sewa kart, uji skill nyetir, dan nikmatin serunya balapan kencang. Mau kamu jago balap atau cuma pengen coba sensasi balapan, aktivitas ini bakal kasih pengalaman yang nggak terlupakan. Apalagi sirkuitnya dilengkapi fasilitas keamanan dasar, jadi kamu tetap aman sambil bersenang-senang.
 
-> Mau main? Wajib booking dulu ya: [https://gobaligo.id/go/Go-Cart-Bali](https://gobaligo.id/go/Go-Cart-Bali)
+> Mau main? Wajib booking dulu ya: [/go/Go-Cart-Bali](/go/Go-Cart-Bali)
 
 ## GWK Culture Park: Harta Karun Budaya Bali (👉🏼 Peta: [Destinasi Wajib di Jimbaran](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing))
 
@@ -172,6 +172,6 @@ Layanan ini diantar langsung ke pintu hotel atau vila tempat kamu menginap, ada 
 
 https://youtu.be/HKMalFa6zMw
 
-## Semua 30 tempat yang kami kumpulkan bisa dilihat di 「[Peta Panduan Jimbaran](https://gobaligo.id/map/jimbaran/)」
+## Semua 30 tempat yang kami kumpulkan bisa dilihat di 「[Peta Panduan Jimbaran](/map/jimbaran/)」
 
 {{block:攻略}}

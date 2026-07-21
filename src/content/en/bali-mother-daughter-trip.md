@@ -214,7 +214,7 @@ Provided by Zhang Pingping
 
 In Bali, my favorite fruit is mangosteen. After Ketut learned our preference, he went to several places to find fresh mangosteen while we were at the spa. He even bought them for us, as locals can get them at half the price, but we insisted on paying him. As for durian, we didn't come across any good ones, and Ketut was more knowledgeable than the vendors. He would check the quality of the durian, and if it wasn't good after opening, he'd help us explain to the vendor, ensuring we didn't buy bad fruit. He truly had our best interests at heart.
 
-Quick Reference: [Queen of Tropical Fruits - Mangosteen Season in Indonesia/Bali](https://gobaligo.id/en/blog/bali-mangosteen-season/)
+Quick Reference: [Queen of Tropical Fruits - Mangosteen Season in Indonesia/Bali](/en/blog/bali-mangosteen-season/)
 
 ### Seafood Dinner with Sunset Views
 

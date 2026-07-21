@@ -40,7 +40,7 @@ Though the trip had a few bumps, it really drove home how important it is to sta
 
 **Quick Reference:**
 
-> Latest version: [【Entry Requirements】3 Must-Do Steps Before Traveling to Bali in 2026](https://gobaligo.id/en/blog/2025-bali-immigration-process/)
+> Latest version: [【Entry Requirements】3 Must-Do Steps Before Traveling to Bali in 2026](/en/blog/2025-bali-immigration-process/)
 
 ***
 
@@ -56,7 +56,7 @@ Business class meal
 
 The Lunar New Year is peak travel season, so ticket prices are notoriously high. But sometimes, shifting your perspective and slightly increasing your budget to choose business class can yield pleasant surprises. This experience taught me that flexible budgeting and choices can make a trip far more comfortable and enjoyable.
 
-> [How to Find the Cheapest Bali Flights? Trip.com Search Tips & Money-Saving Guide](https://gobaligo.id/en/blog/ticket/)
+> [How to Find the Cheapest Bali Flights? Trip.com Search Tips & Money-Saving Guide](/en/blog/ticket/)
 
 ***
 
@@ -138,7 +138,7 @@ When it comes to accommodations, this villa experience left our whole family ver
 
 > [Bali Travel: Recommended Family Villas with 3+ Bedrooms](/en/blog/bali-group-villa-stay/)
 
-> [Your Airbnb Might Disappear in August? Indonesia's Government Crackdown and Tips to Avoid Illegal Hotels and Villas](https://gobaligo.id/en/blog/airbnb-alert-2026/)
+> [Your Airbnb Might Disappear in August? Indonesia's Government Crackdown and Tips to Avoid Illegal Hotels and Villas](/en/blog/airbnb-alert-2026/)
 
 ***
 

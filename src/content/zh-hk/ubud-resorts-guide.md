@@ -757,7 +757,7 @@ Plataran Ubud Hotel & Spa 係烏布地區結合自然同現代奢華嘅完美住
 💬 **評價**｜「身處叢林正中間，房間舒服、服務五星，餐廳嘅印尼菜同國際菜都令人印象深刻，唯一問題就係唔捨得走！」
 「真正嘅烏布隱藏寶石，天然建材裝修、床鋪舒服、工作人員由入住到退房都係咁親切友善。」（來源：Tripadvisor）
 
-詳細介紹：[【2026 烏布新飯店】Sanggraloka Ubud 開箱：六月新開幕、叢林有機農場與避世度假別墅指南](https://gobaligo.id/zh-hk/blog/Sanggraloka-Ubud/)
+詳細介紹：[【2026 烏布新飯店】Sanggraloka Ubud 開箱：六月新開幕、叢林有機農場與避世度假別墅指南](/zh-hk/blog/Sanggraloka-Ubud/)
 
 📌 **訂房資訊**｜Agoda 9.5⭐  Trip 9.7⭐
 

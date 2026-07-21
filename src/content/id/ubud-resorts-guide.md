@@ -760,7 +760,7 @@ Resort villa bintang lima yang tersembunyi di desa Lodtunduh, selatan Ubud. Jauh
 💬 **Review**｜"Benar-benar di tengah hutan, kamar nyaman, layanan bintang lima, masakan Indonesia dan internasional di restoran bikin terkesan. Satu-satunya masalah: ogah pulang!"
 "Hidden gem Ubud sejati, dekorasi dari bahan alami, kasur empuk, staf ramah dari check-in sampai check-out." (Sumber: Tripadvisor)
 
-Info lengkap: [【Hotel Baru Ubud 2026】Review Sanggraloka Ubud: Buka Juni, Hutan Organik & Panduan Villa Pelarian](https://gobaligo.id/id/blog/Sanggraloka-Ubud/)
+Info lengkap: [【Hotel Baru Ubud 2026】Review Sanggraloka Ubud: Buka Juni, Hutan Organik & Panduan Villa Pelarian](/id/blog/Sanggraloka-Ubud/)
 
 📌 **Info Pemesanan**｜Agoda 9.5⭐  Trip 9.7⭐
 

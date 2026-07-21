@@ -41,7 +41,7 @@ _srcHash: f678377b756d1e4d50da1f7e130d4b6a
 - [水明漾亲子同乐的免费景点](https://www.youtube.com/watch?v=A4oeJvzmdTU&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW)
 - [乌布天空步道亲近大自然](/zh-cn/blog/ubud-campuhan-ridge-walk/)
 - [佩尼达岛亲子浮潜](/zh-cn/blog/nusa-penida-snorkeling-guide/)
-- [【巴厘岛室内景点】Trans Studio Bali 完全攻略：必玩五大设施](https://gobaligo.id/zh-cn/blog/trans-studio-bali/)
+- [【巴厘岛室内景点】Trans Studio Bali 完全攻略：必玩五大设施](/zh-cn/blog/trans-studio-bali/)
 - [适合小学以上学童的四轮ATV丛林探险](https://www.youtube.com/watch?v=9w6dllhn3h8&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW)
 - [安全、无难度的宝宝版泛舟（漂流河](/zh-cn/blog/nukuwera-river-tubing-adventure/)）
 - [乌布自行车游 超深入巴厘岛奇特体验](https://bit.ly/3pOCueS)
@@ -66,10 +66,10 @@ _srcHash: f678377b756d1e4d50da1f7e130d4b6a
 - [The Firefly Garden 萤火虫花园：巴厘岛最闪耀的生态保育与旅游胜地](/zh-cn/blog/the-firefly-garden-ubud/)
 - [🎮 ZONE OUT Bali：库塔最酷的虚拟实境冒险基地！](/zh-cn/blog/zone-out-bali-vr-adventure/)
 - [夜幕下的幻光雨林：巴厘岛乌布Hikaria沉浸式光影艺术体验](/zh-cn/blog/hikaria-ubud-light-show/)
-- [海豚乐园 Bali Exotic Marine Park：与海豚亲密互动，亲子必访乐园](https://gobaligo.id/zh-cn/blog/Bali-Exotic-Marine-Park/)
-- [【巴厘岛亲子景点】Bali Reptile Park 攻略：近距离看科莫多龙、巨蟒亲密互动](https://gobaligo.id/zh-cn/blog/Bali-Reptile-Park/)
-- [【巴厘岛亲子景点】Bali Farm House 攻略：巴厘岛山区欧洲庄园、草泥马互动](https://gobaligo.id/zh-cn/blog/Bali-Farm-House/)
-- [【巴厘岛亲子景点】十大亲子乐园完全攻略：野生动物园、海豚共舞、水上乐园](https://gobaligo.id/zh-cn/blog/top-10-kids-attractions-in-bali/)
+- [海豚乐园 Bali Exotic Marine Park：与海豚亲密互动，亲子必访乐园](/zh-cn/blog/Bali-Exotic-Marine-Park/)
+- [【巴厘岛亲子景点】Bali Reptile Park 攻略：近距离看科莫多龙、巨蟒亲密互动](/zh-cn/blog/Bali-Reptile-Park/)
+- [【巴厘岛亲子景点】Bali Farm House 攻略：巴厘岛山区欧洲庄园、草泥马互动](/zh-cn/blog/Bali-Farm-House/)
+- [【巴厘岛亲子景点】十大亲子乐园完全攻略：野生动物园、海豚共舞、水上乐园](/zh-cn/blog/top-10-kids-attractions-in-bali/)
 
 ## 如何体验这些活动？
 

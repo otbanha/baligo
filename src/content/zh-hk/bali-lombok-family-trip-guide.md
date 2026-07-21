@@ -278,7 +278,7 @@ https://youtube.com/shorts/3PmPpoHI_6c
 
 ![Bali Bird Park](https://images.gobaligo.id/vocus/vocus_f6aa64339e4c1dc2b4bd2cfec3b33115.jpg)
 
-詳細介紹：[Bali Bird Park 峇里島鳥園終極攻略：珍稀鳥種、互動活動與生態保育的奇幻旅程](https://gobaligo.id/zh-hk/blog/bali-bird-park-guide/)
+詳細介紹：[Bali Bird Park 峇里島鳥園終極攻略：珍稀鳥種、互動活動與生態保育的奇幻旅程](/zh-hk/blog/bali-bird-park-guide/)
 
 > 網上買飛：[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D9f20741f36) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-bird-park-80525/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -300,7 +300,7 @@ Libra Li提供
 
 ![Bali Reptile Park](https://images.gobaligo.id/vocus/vocus_0622339e61ec519ef81ef4527e6ceeff.jpg)
 
-詳細介紹：[Bali Reptile Park 攻略：近距離睇科莫多龍、巨蟒親密互動、門票價格與親子避雷指南](https://gobaligo.id/zh-hk/blog/Bali-Reptile-Park/)
+詳細介紹：[Bali Reptile Park 攻略：近距離睇科莫多龍、巨蟒親密互動、門票價格與親子避雷指南](/zh-hk/blog/Bali-Reptile-Park/)
 
 > 網上購票：[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F37955-bali-reptile-park-ticket%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7db7e3e24e) [Kkday](https://www.kkday.com/zh-tw/product/593869?qs=Bali+Reptile+Park&cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-reptile-park-128527409/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 

@@ -40,12 +40,12 @@ _srcHash: 5677372c1a68e5c790ef6fd8b9172e52
 
 1. 住宿：平均而言，中等价位的酒店每晚的价格约为400K-800K印尼盾，而高级度假村则在1000K以上。
 
-> 可以参考我们的[巴厘岛住宿推荐指南](https://gobaligo.id/zh-cn/blog/?lang=tw&cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
+> 可以参考我们的[巴厘岛住宿推荐指南](/zh-cn/blog/?lang=tw&cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 
 2. 餐饮：在一般没什么装修的餐厅用餐可能花费您20K-100K印尼盾，而更高档的餐厅则可能更高。
 3. 交通：短程出租车或摩托车的价格通常在20K-100K印尼盾之间，全天包车可能在600K-800K之间。
 
-> 参考我们的[巴厘岛司机推荐](https://gobaligo.id/zh-cn/blog/bali-private-car-drivers-guide/)
+> 参考我们的[巴厘岛司机推荐](/zh-cn/blog/bali-private-car-drivers-guide/)
 
 ## **管理开支**
 

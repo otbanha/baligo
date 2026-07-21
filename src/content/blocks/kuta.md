@@ -13,6 +13,6 @@ randomCount: 5
 
 ## 庫塔住宿主題介紹
 
-- [庫塔海灘旁精選飯店 18 家](https://gobaligo.id/admin/)
+- [庫塔海灘旁精選飯店 18 家](/admin/)
 - [庫塔 12 間精選市區飯店](/blog/best-kuta-hotels-list/)
 - [峇里島團體自由行旅遊：庫塔包棟villa 三房/四房/五房/六房以上的家庭別墅住宿推薦](/blog/bali-group-villa-stay/)

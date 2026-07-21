@@ -163,7 +163,7 @@ Aturan power bank juga sama ketatnya:
 
 _Alasan:_ Akhir-akhir ini sering terjadi kasus power bank meledak dan terbakar di dalam kabin pesawat, sehingga maskapai di berbagai negara menerapkan aturan yang ketat.
 
-> [Aturan Terbaru 2025: Bawa Power Bank & Kipas USB ke Pesawat](https://gobaligo.id/id/blog/airplane-power-bank-fan-rules-2025/)
+> [Aturan Terbaru 2025: Bawa Power Bank & Kipas USB ke Pesawat](/id/blog/airplane-power-bank-fan-rules-2025/)
 
 #### ❌ Semprotan Anti-Pepper
 

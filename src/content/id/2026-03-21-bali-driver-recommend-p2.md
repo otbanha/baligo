@@ -17,7 +17,7 @@ _srcHash: 49af3e4651e2d004619d00ac6f33ef7f
 
 **Apa isi halaman ini**: Halaman kedua dari "Papan Peringkat Sopir Sewa Mobil Bali Versi Netizen", berisi rekomendasi sopir yang bisa bahasa Mandarin dari anggota grup Facebook. Setiap tautan "Rekomendasi Netizen" di bawah nama sopir bisa diklik untuk cek postingan asli di grup — makin banyak rekomendasi, makin lama reputasinya terbangun. Tarif sewa mobil sekitar **Rp 600.000–800.000/hari (termasuk bensin, sekitar 10 jam)**, pas hubungi kasih tahu tanggal, jumlah orang, dan area yang mau dikunjungi.
 
-Halaman pertama, sopir yang kami rekomendasikan ada di [sini](https://gobaligo.id/id/blog/bali-private-car-drivers-guide/)
+Halaman pertama, sopir yang kami rekomendasikan ada di [sini](/id/blog/bali-private-car-drivers-guide/)
 
 <!-- shuffle-start -->
 

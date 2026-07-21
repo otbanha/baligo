@@ -169,7 +169,7 @@ Disediakan oleh Dai Yushan
 
 Disediakan oleh Dai Yushan
 
-> [Panduan Wisata Pura Uluwatu / Tebing Cinta di Bali: Spot Wajib & Tips Praktis](https://gobaligo.id/id/blog/uluwatu-temple-travel-guide/)
+> [Panduan Wisata Pura Uluwatu / Tebing Cinta di Bali: Spot Wajib & Tips Praktis](/id/blog/uluwatu-temple-travel-guide/)
 
 - Pantai Suluban (pantainya cantik banget!)
 
@@ -184,7 +184,7 @@ https://youtu.be/hQbBTktqEqY
 
 Perjalanan kali ini bikin aku puas banget. Kalau kamu lagi merencanakan liburan ke Bali, coba deh intip itinerary aku!
 
-> [【Rekomendasi Netizen】6 Kategori, 20+ Oleh-Oleh Khas Bali: Pilihan Terbaik untuk Kenangan Berharga](https://gobaligo.id/id/blog/bali-souvenirs-gift-guide/)
+> [【Rekomendasi Netizen】6 Kategori, 20+ Oleh-Oleh Khas Bali: Pilihan Terbaik untuk Kenangan Berharga](/id/blog/bali-souvenirs-gift-guide/)
 
 ## 【Rekomendasi Driver Sewa Mobil di Bali Part 2】
 

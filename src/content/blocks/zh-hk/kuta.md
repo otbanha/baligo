@@ -15,6 +15,6 @@ _srcHash: aafe9088e14f31a2efee051bea844bd0
 
 ## 庫塔住宿主題介紹
 
-- [庫塔海灘旁邊精選酒店 18 間](https://gobaligo.id/admin/)
+- [庫塔海灘旁邊精選酒店 18 間](/admin/)
 - [庫塔 12 間精選市區酒店](/zh-hk/blog/best-kuta-hotels-list/)
 - [峇里島團體自由行旅遊：庫塔包棟 villa 三房/四房/五房/六房以上嘅家庭別墅住宿推薦](/zh-hk/blog/bali-group-villa-stay/)

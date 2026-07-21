@@ -48,7 +48,7 @@ _srcHash: d0f91a0a99672fdb5de93ce8071470f0
 
 抵達峇里島之後，我哋先入住庫塔（Kuta）連住兩晚，第二日安排咗去Waterbom水上樂園玩足一日。
 
-> [【峇里島親子必玩】Waterbom Bali水上樂園全攻略：全亞洲第一、滑水道分級同買票慳錢建議](https://gobaligo.id/zh-hk/blog/waterbom-bali-water-park-guide/)
+> [【峇里島親子必玩】Waterbom Bali水上樂園全攻略：全亞洲第一、滑水道分級同買票慳錢建議](/zh-hk/blog/waterbom-bali-water-park-guide/)
 
 考慮到搭飛機之後容易攰，加上帶住小朋友一齊去，我特登將頭兩日安排得輕鬆啲，揀咗住喺機場附近，唔單止來回交通方便，仲可以等身體慢慢適應旅遊節奏，唔使一落機就長途拉車，旅程由一開始就輕鬆咗好多。
 
@@ -144,7 +144,7 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 伴隨住甘美朗樂團嘅演奏，舞者細膩嘅眼神、優雅嘅手勢，同埋華麗嘅服飾，一齊展現出峇里島深厚嘅文化底蘊。就算睇唔明故事內容，都可以沉浸喺現場濃厚嘅表演氛圍入面，非常值得體驗。
 
-[> 【烏布必訪景點】烏布皇宮：峇里島文化歷史嘅瑰寶｜開放時間、門票、表演時間、周邊景點、一日遊推薦](https://gobaligo.id/zh-hk/blog/ubud-royal-palace-tour-guide/)
+[> 【烏布必訪景點】烏布皇宮：峇里島文化歷史嘅瑰寶｜開放時間、門票、表演時間、周邊景點、一日遊推薦](/zh-hk/blog/ubud-royal-palace-tour-guide/)
 
 {{block:ubud}}
 

@@ -142,6 +142,6 @@ Left: Overall, I feel the service at Ayana Komodo doesn't quite reach five-star 
 
 Do you think Astrid Chang's itinerary looks amazing? Start planning your own Bali free-and-easy trip now! Feel free to share your itinerary in the community group too!
 
-Latest update: [Komodo officially limits visitors! Without a reservation in 2026, you'll be sent back to shore—spontaneous trips are history!](https://gobaligo.id/en/blog/komodo-booking-2026/)
+Latest update: [Komodo officially limits visitors! Without a reservation in 2026, you'll be sent back to shore—spontaneous trips are history!](/en/blog/komodo-booking-2026/)
 
 {{block:遊記}}

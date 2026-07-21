@@ -17,7 +17,7 @@ _srcHash: 49af3e4651e2d004619d00ac6f33ef7f
 
 **呢頁係咩嚟**：峇里島包車司機「網友評鑑名人榜」第二頁，收錄咗Facebook群組網友真實推薦嘅中文溝通司機。每個司機名下嘅「網友推薦」連結都係可以㩒入去睇嘅原始群組貼文，推薦數越多就代表口碑累積得越耐。包車行情大約 **Rp 600,000–800,000／日（包油費，約10個鐘）**，聯絡嗰陣記得講低日期、人數同想去嘅區域。
 
-第一頁，有我哋優先推薦嘅司機喺[呢度](https://gobaligo.id/zh-hk/blog/bali-private-car-drivers-guide/)
+第一頁，有我哋優先推薦嘅司機喺[呢度](/zh-hk/blog/bali-private-car-drivers-guide/)
 
 <!-- shuffle-start -->
 

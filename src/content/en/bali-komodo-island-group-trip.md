@@ -60,7 +60,7 @@ If you plan to enjoy a spa in Bali, it's best to book in advance via WhatsApp or
 
 Since our trip also included island hopping, we only had three days on Bali. But we chose to visit three different areas, and ended up spending every day stuck in traffic. If you want to explore more places, it's best to stay 1–2 days in the same area so you don't waste precious time on the road.
 
-> Editor's note: Moving within small areas is the golden rule for traveling in Bali! Check out the "[Bali Area Guide](https://gobaligo.id/en/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)"
+> Editor's note: Moving within small areas is the golden rule for traveling in Bali! Check out the "[Bali Area Guide](/en/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)"
 
 ![烏魯瓦圖火舞的門票可以在網上先買好（Sandra Yun提供）](https://images.gobaligo.id/vocus/vocus_d3a5a16996aa1d2906eea06f2716a19c.jpg)
 
@@ -72,7 +72,7 @@ We tried sea walking this time and found that the on-site ticket price was twice
 
 https://youtube.com/shorts/y5HMPegD5Rk
 
-15 unexpected water activities: [https://gobaligo.id/go/15-water-sports-bali](https://gobaligo.id/go/15-water-sports-bali)
+15 unexpected water activities: [/go/15-water-sports-bali](/go/15-water-sports-bali)
 
 > [Book Tanjung Benoa Water Sports (Multiple Combos)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F71411-tanjung-benoa-watersports-bali-bintang-dive-watersport-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dee5cfca3a7)
 

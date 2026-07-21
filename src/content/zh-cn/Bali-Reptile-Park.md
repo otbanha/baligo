@@ -138,7 +138,7 @@ _srcHash: 6e20630a18f8682a3aeb20e26c5a1c88
 【下午】巴厘岛鸟园（Bali Bird Park）－ 建议停留 3-4 小时
 午餐后，直接步行到隔壁的鸟园！这里占地广阔，拥有超过 **250 种、上千只**来自印尼群岛及世界各地的鸟类。你可以走进巨大的鸟舍，让可爱的犀鸟、鹦鹉在你头顶飞过；更不能错过每天固定时段的**鹦鹉秀**和**猛禽秀**，非常精彩！鸟园的造景也极具热带风情，瀑布、莲花池、传统巴厘岛建筑，随便拍都像明信片。
 
-详细介绍：[Bali Bird Park 巴厘岛鸟园终极攻略：珍稀鸟种、互动活动与生态保育的奇幻旅程](https://gobaligo.id/zh-cn/blog/bali-bird-park-guide/)
+详细介绍：[Bali Bird Park 巴厘岛鸟园终极攻略：珍稀鸟种、互动活动与生态保育的奇幻旅程](/zh-cn/blog/bali-bird-park-guide/)
 
 > 在线购票：[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D9f20741f36) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-bird-park-80525/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 

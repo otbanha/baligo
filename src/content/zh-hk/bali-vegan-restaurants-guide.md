@@ -90,6 +90,6 @@ _srcHash: 49bdde767bf82bc7bfb545f40cfa05f5
 
 ![峇里島Top 26 素食友善餐廳](https://images.gobaligo.id/vocus/vocus_a5d5b1f2d35fd1fdb7bd8882f8b50f94.png)
 
-呢30幾間餐廳嘅位置同詳細介紹請[撳地圖連結](https://gobaligo.id/map/vegetarian/)，等我哋一齊探索峇里島素食友善餐廳嘅無限魅力！
+呢30幾間餐廳嘅位置同詳細介紹請[撳地圖連結](/map/vegetarian/)，等我哋一齊探索峇里島素食友善餐廳嘅無限魅力！
 
 {{block:klook}}

@@ -48,7 +48,7 @@ _srcHash: d0f91a0a99672fdb5de93ce8071470f0
 
 抵达巴厘岛后，我们先入住库塔（Kuta）连住两晚，第二天安排到 Waterbom 水上乐园玩了一整天。
 
-> [【巴厘岛亲子必玩】Waterbom Bali 水上乐园全攻略：全亚洲第一、滑水道分级与购票省钱建议](https://gobaligo.id/zh-cn/blog/waterbom-bali-water-park-guide/)
+> [【巴厘岛亲子必玩】Waterbom Bali 水上乐园全攻略：全亚洲第一、滑水道分级与购票省钱建议](/zh-cn/blog/waterbom-bali-water-park-guide/)
 
 考虑到搭飞机后容易疲劳，加上带着小朋友同行，我刻意把前两天安排得比较轻松，选择住在机场附近，不但往返交通方便，也能让身体慢慢适应旅游节奏，不用一落地就长途拉车，旅程从一开始就轻松不少。
 
@@ -144,7 +144,7 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 伴随着甘美朗乐团的演奏，舞者细腻的眼神、优雅的手势，以及华丽的服饰，共同展现出巴厘岛深厚的文化底蕴。即使看不懂故事内容，也能沉浸在现场浓厚的表演氛围中，非常值得体验。
 
-[> 【乌布必访景点】乌布皇宫：巴厘岛文化历史的瑰宝｜开放时间、门票、表演时间、周边景点、一日游推荐](https://gobaligo.id/zh-cn/blog/ubud-royal-palace-tour-guide/)
+[> 【乌布必访景点】乌布皇宫：巴厘岛文化历史的瑰宝｜开放时间、门票、表演时间、周边景点、一日游推荐](/zh-cn/blog/ubud-royal-palace-tour-guide/)
 
 {{block:ubud}}
 

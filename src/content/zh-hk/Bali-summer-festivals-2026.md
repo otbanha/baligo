@@ -73,4 +73,4 @@ https://www.instagram.com/p/DaZ6ebdlGL-/?igsh=bjkzMXV5eG9uZGJ2
 
 更詳細嘅介紹同連結，請參考：
 
-[2026年印尼國定假日&峇里島節慶一整年完整指南：精彩活動日期一覽！](https://gobaligo.id/zh-hk/blog/2026-bali-festival-guide/)
+[2026年印尼國定假日&峇里島節慶一整年完整指南：精彩活動日期一覽！](/zh-hk/blog/2026-bali-festival-guide/)

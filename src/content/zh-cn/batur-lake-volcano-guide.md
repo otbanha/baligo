@@ -25,7 +25,7 @@ originalUrl: 'https://vocus.cc/article/68e786abfd89780001c1b9b7'
 lang: zh-cn
 _srcHash: 849def694057ff25877763d47da624a0
 ---
-<a href="https://gobaligo.id/map/kintamani/" style="display:block;background:linear-gradient(135deg,#ff6b35,#f7c948,#2ec4b6);color:#fff;font-size:1.1rem;font-weight:700;text-align:center;padding:14px 20px;border-radius:12px;text-decoration:none;margin-bottom:24px;letter-spacing:0.03em;box-shadow:0 4px 16px rgba(0,0,0,0.18);">🗺️ 金塔马尼 × 巴杜尔火山 互动地图 ── 景点、咖啡厅、温泉一图掌握 →</a>
+<a href="/map/kintamani/" style="display:block;background:linear-gradient(135deg,#ff6b35,#f7c948,#2ec4b6);color:#fff;font-size:1.1rem;font-weight:700;text-align:center;padding:14px 20px;border-radius:12px;text-decoration:none;margin-bottom:24px;letter-spacing:0.03em;box-shadow:0 4px 16px rgba(0,0,0,0.18);">🗺️ 金塔马尼 × 巴杜尔火山 互动地图 ── 景点、咖啡厅、温泉一图掌握 →</a>
 
 ## **壮丽与静谧共存的巴杜尔火山湖**
 
@@ -93,7 +93,7 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 
 整个行程约 8 小时，费用包含酒店接送、景点门票、英语司机导游、专业摄影服务与零食矿泉水。
 
-**快速参考：**[不用早起也能征服巴厘岛火山！日落吉普车之旅让你轻松拍大片](https://gobaligo.id/zh-cn/blog/batur-volcano-sunset-jeep-tour/)
+**快速参考：**[不用早起也能征服巴厘岛火山！日落吉普车之旅让你轻松拍大片](/zh-cn/blog/batur-volcano-sunset-jeep-tour/)
 
 ***
 
@@ -191,4 +191,4 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 
 {{block:ubud}}
 
-<a href="https://gobaligo.id/map/kintamani/" style="display:block;background:linear-gradient(135deg,#ff6b35,#f7c948,#2ec4b6);color:#fff;font-size:1.1rem;font-weight:700;text-align:center;padding:14px 20px;border-radius:12px;text-decoration:none;margin-top:24px;letter-spacing:0.03em;box-shadow:0 4px 16px rgba(0,0,0,0.18);">🗺️ 金塔马尼景点互动地图 ── 出发前先看地图，玩得更顺！→</a>
+<a href="/map/kintamani/" style="display:block;background:linear-gradient(135deg,#ff6b35,#f7c948,#2ec4b6);color:#fff;font-size:1.1rem;font-weight:700;text-align:center;padding:14px 20px;border-radius:12px;text-decoration:none;margin-top:24px;letter-spacing:0.03em;box-shadow:0 4px 16px rgba(0,0,0,0.18);">🗺️ 金塔马尼景点互动地图 ── 出发前先看地图，玩得更顺！→</a>

@@ -139,7 +139,7 @@ Ini surga privat yang didesain buat pasangan yang suka privasi dan kenyamanan. K
 
 Tipe kamar ini tetap mempertahankan elemen gaya gua, tapi berbentuk kamar biasa tanpa villa terpisah. Dilengkapi smart TV, Netflix, kulkas, alat kopi/teh, dan hair dryer. Kamarnya bersih, terang, dan kasurnya nyaman. Beberapa kamar bisa pilih pemandangan laguna atau kolam renang. Setiap kamar dibersihkan setiap hari, suasananya seragam dan elegan, cocok buat tamu dengan budget berbeda.
 
-## 📍 Lokasi dan Lingkungan Sekitar (untuk posisi, lihat [Peta Panduan Canggu](https://gobaligo.id/map/canggu/))
+## 📍 Lokasi dan Lingkungan Sekitar (untuk posisi, lihat [Peta Panduan Canggu](/map/canggu/))
 
 La Mewali terletak di **Jl. Raya Canggu**, nggak jauh dari area paling ramai di Canggu, tapi posisinya pintar banget menghindari arus kendaraan utama, jadi suasananya jauh lebih tenang dari yang kamu bayangkan.
 

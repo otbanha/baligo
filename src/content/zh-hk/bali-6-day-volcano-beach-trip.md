@@ -164,7 +164,7 @@ https://youtu.be/op78Dk8CjL4
 
 戴妤珊提供
 
-> [峇里島烏魯瓦圖廟/情人崖旅遊指南：必睇亮點同實用建議](https://gobaligo.id/zh-hk/blog/uluwatu-temple-travel-guide/)
+> [峇里島烏魯瓦圖廟/情人崖旅遊指南：必睇亮點同實用建議](/zh-hk/blog/uluwatu-temple-travel-guide/)
 
 - Suluban Beach（好靚嘅沙灘！）
 
@@ -179,7 +179,7 @@ https://youtu.be/hQbBTktqEqY
 
 今次旅程令我哋收穫滿滿，如果你正計劃緊峇里島之旅，不妨參考吓我嘅行程啦！
 
-> [【網友推薦】六大種類，超過20項峇里島伴手禮推薦指南：留住珍貴回憶嘅絕佳選擇](https://gobaligo.id/zh-hk/blog/bali-souvenirs-gift-guide/)
+> [【網友推薦】六大種類，超過20項峇里島伴手禮推薦指南：留住珍貴回憶嘅絕佳選擇](/zh-hk/blog/bali-souvenirs-gift-guide/)
 
 ## 【峇里島包車司機推薦 Part 2】
 

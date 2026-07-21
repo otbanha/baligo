@@ -49,7 +49,7 @@ Choose the best stay based on your budget and preferences. Bali offers a wide ra
 
 ![住宿選擇](https://images.gobaligo.id/images/2026-07/1782905263415-afa7a13c21dadea57a81cc3f3dc0102b.jpg)
 
-Check out our guide with over 300 accommodation recommendations: '[Bali Accommodation Guide](https://gobaligo.id/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)'
+Check out our guide with over 300 accommodation recommendations: '[Bali Accommodation Guide](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)'
 
 Next, let's dive into romantic activity planning. You can consider joining various romantic activities to add a special touch to your honeymoon:
 

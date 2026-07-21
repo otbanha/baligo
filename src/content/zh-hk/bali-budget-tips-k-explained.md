@@ -40,12 +40,12 @@ _srcHash: 5677372c1a68e5c790ef6fd8b9172e52
 
 1. 住宿：平均嚟講，中等價位嘅酒店每晚大約400K-800K印尼盾，而高級度假村就要1000K以上。
 
-> 可以參考我哋嘅[峇里島住宿推薦指南](https://gobaligo.id/zh-hk/blog/?lang=tw&cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
+> 可以參考我哋嘅[峇里島住宿推薦指南](/zh-hk/blog/?lang=tw&cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 
 2. 餐飲：喺一般冇乜裝修嘅餐廳食飯，可能使您20K-100K印尼盾，而高級啲嘅餐廳就可能更貴。
 3. 交通：短途的士或者電單車通常20K-100K印尼盾，全日包車可能600K-800K。
 
-> 參考我哋嘅[峇里島司機推薦](https://gobaligo.id/zh-hk/blog/bali-private-car-drivers-guide/)
+> 參考我哋嘅[峇里島司機推薦](/zh-hk/blog/bali-private-car-drivers-guide/)
 
 ## **管理開支**
 

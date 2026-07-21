@@ -96,6 +96,6 @@ Restoran vegan di Bali tersebar di berbagai destinasi wisata, dari Canggu hingga
 
 ![峇里島Top 26 素食友善餐廳](https://images.gobaligo.id/vocus/vocus_a5d5b1f2d35fd1fdb7bd8882f8b50f94.png)
 
-Lokasi dan info lengkap dari 30+ restoran ini bisa kamu lihat [di peta ini](https://gobaligo.id/map/vegetarian/). Yuk, kita jelajahi pesona restoran ramah vegan di Bali!
+Lokasi dan info lengkap dari 30+ restoran ini bisa kamu lihat [di peta ini](/map/vegetarian/). Yuk, kita jelajahi pesona restoran ramah vegan di Bali!
 
 {{block:klook}}

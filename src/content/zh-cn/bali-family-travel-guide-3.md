@@ -35,7 +35,7 @@ _srcHash: 7c7ccb757d75728db50ffcb686f5e693
 
 **快速参考：**
 
-> 最新版：[【入境规定】2026巴厘岛旅游前必完成的3个步骤](https://gobaligo.id/zh-cn/blog/2025-bali-immigration-process/)
+> 最新版：[【入境规定】2026巴厘岛旅游前必完成的3个步骤](/zh-cn/blog/2025-bali-immigration-process/)
 
 ***
 
@@ -51,7 +51,7 @@ _srcHash: 7c7ccb757d75728db50ffcb686f5e693
 
 过年是旅游旺季，机票价格本来就高得令人咋舌，但有时候换个角度思考，稍微提高一点预算选择商务舱，反而可能会有意外惊喜。这次的经历让我深刻体会到，灵活调整预算和选择，能让旅程更加舒适愉快。
 
-> [巴厘岛机票怎么买最便宜？Trip.com 搜索技巧与省钱攻略](https://gobaligo.id/zh-cn/blog/ticket/)
+> [巴厘岛机票怎么买最便宜？Trip.com 搜索技巧与省钱攻略](/zh-cn/blog/ticket/)
 
 ***
 
@@ -133,7 +133,7 @@ _srcHash: 7c7ccb757d75728db50ffcb686f5e693
 
 > [巴厘岛旅游：三房/四房以上的家庭别墅住宿推荐](/zh-cn/blog/bali-group-villa-stay/)
 
-> [您订的 Airbnb 民宿可能 8 月消失？印尼政府铁腕拆迁与合法饭店 Villa 避雷指南](https://gobaligo.id/zh-cn/blog/airbnb-alert-2026/)
+> [您订的 Airbnb 民宿可能 8 月消失？印尼政府铁腕拆迁与合法饭店 Villa 避雷指南](/zh-cn/blog/airbnb-alert-2026/)
 
 ***
 

@@ -94,6 +94,6 @@ Kalau kamu siap ninggalin ekspektasi 'yoga serius' dan datang dengan hati yang p
 
 Kalau kamu suka kelas yoga yang formal, cek ini:
 
-[Rekomendasi 10 Penginapan Yoga di Ubud, Bali: Pilihan Impian yang Menggabungkan Kelas Yoga dan Relaksasi Jiwa](https://gobaligo.id/id/blog/ubud-yoga-retreats-bali/)
+[Rekomendasi 10 Penginapan Yoga di Ubud, Bali: Pilihan Impian yang Menggabungkan Kelas Yoga dan Relaksasi Jiwa](/id/blog/ubud-yoga-retreats-bali/)
 
 {{block:戶外}}

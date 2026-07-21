@@ -120,7 +120,7 @@ Setelah selesai, kami minta Komang anter ke restoran favorit kami sepanjang perj
 
 Pagi-pagi kami berangkat dari Ubud menuju Pura Tanah Lot. Ke sana mungkin harus nyebrang air, jadi saran pakai sepatu yang bisa basah dan celana pendek. Katanya pas sunset pemandangannya cantik banget, sayang jadwal kami siang hari jadi nggak sempat lihat.
 
-> [Destinasi Wajib Kunjung di Bali: Panduan Lengkap Pura Tanah Lot — Pasang Surut & Tempat Sekitar](https://gobaligo.id/id/blog/bali-tanah-lot-guide/)
+> [Destinasi Wajib Kunjung di Bali: Panduan Lengkap Pura Tanah Lot — Pasang Surut & Tempat Sekitar](/id/blog/bali-tanah-lot-guide/)
 
 Pas sampai Pura Tanah Lot, baru sadar kami nggak sengaja bawa kunci hotel semalam. Komang langsung bilang dia bisa anter balik kuncinya dua hari lagi (udah dapat izin dari mbak supervisor hotel). Makasih banget, Komang!
 

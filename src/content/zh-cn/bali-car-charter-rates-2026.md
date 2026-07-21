@@ -72,8 +72,8 @@ _srcHash: 68f2ebbc05299567fc7da80ffc04ccab
 
 ## 📌 包车须知 & 推荐司机
 
-- 关于包车的注意事项（费用包含哪些、小费、超时计算等），请参考 👉[**这里**](https://gobaligo.id/zh-cn/blog/bali-private-car-hire-guide/)]
-- 团友们最常推荐的司机名单与联系方式，请参考 👉[**这里**](https://gobaligo.id/zh-cn/blog/bali-private-car-drivers-guide/)]
+- 关于包车的注意事项（费用包含哪些、小费、超时计算等），请参考 👉[**这里**](/zh-cn/blog/bali-private-car-hire-guide/)]
+- 团友们最常推荐的司机名单与联系方式，请参考 👉[**这里**](/zh-cn/blog/bali-private-car-drivers-guide/)]
 
 ***
 

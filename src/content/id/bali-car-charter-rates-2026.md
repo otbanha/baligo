@@ -72,8 +72,8 @@ Karena:
 
 ## 📌 Panduan Sewa Mobil & Rekomendasi Driver
 
-- Untuk info penting soal sewa mobil (termasuk apa aja, tips, hitungan lembur, dll), cek 👉[**di sini**](https://gobaligo.id/id/blog/bali-private-car-hire-guide/)
-- Daftar driver yang paling sering direkomendasikan sama anggota grup beserta kontaknya, cek 👉[**di sini**](https://gobaligo.id/id/blog/bali-private-car-drivers-guide/)
+- Untuk info penting soal sewa mobil (termasuk apa aja, tips, hitungan lembur, dll), cek 👉[**di sini**](/id/blog/bali-private-car-hire-guide/)
+- Daftar driver yang paling sering direkomendasikan sama anggota grup beserta kontaknya, cek 👉[**di sini**](/id/blog/bali-private-car-drivers-guide/)
 
 ***
 

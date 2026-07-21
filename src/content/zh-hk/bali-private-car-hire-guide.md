@@ -99,7 +99,7 @@ update:2026/06/20
 
 ![峇里島包車FAQ](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
 
-請睇：[【2026 峇里島交通公告】7月1日起包車價格調整通知：司機團隊最新報價、計費方式](https://gobaligo.id/zh-hk/blog/bali-car-charter-rates-2026/)
+請睇：[【2026 峇里島交通公告】7月1日起包車價格調整通知：司機團隊最新報價、計費方式](/zh-hk/blog/bali-car-charter-rates-2026/)
 
 **包車五人座係點定義？**
 

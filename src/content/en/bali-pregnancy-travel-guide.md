@@ -49,9 +49,9 @@ This Bali trip was an exciting first-time experience for me! I'm very grateful t
 
 These preparations may seem tedious, but they all contribute to a smoother journey, allowing me to fully enjoy every moment in Bali!
 
-> Further Reading: [[2026 Edition] Indonesia Bali Entry Using the 'All Indonesia' Arrival Card | Understand the Latest Process in 1 Minute: Get Off the Plane → Go Through Customs → Collect Luggage Full Guide](https://gobaligo.id/en/blog/bali-all-indonesia-arrival-guide/)
+> Further Reading: [[2026 Edition] Indonesia Bali Entry Using the 'All Indonesia' Arrival Card | Understand the Latest Process in 1 Minute: Get Off the Plane → Go Through Customs → Collect Luggage Full Guide](/en/blog/bali-all-indonesia-arrival-guide/)
 
-> Further Reading: [Bali Travel Tips: A Must-Read Beginner's Guide for First-Time Visitors to Bali](https://gobaligo.id/en/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
+> Further Reading: [Bali Travel Tips: A Must-Read Beginner's Guide for First-Time Visitors to Bali](/en/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
 
 ***
 
@@ -162,7 +162,7 @@ Our Ubud trip kicked off with an exhilarating rafting experience. We navigated t
 
 After rafting, we visited a famous Instagram-worthy café, known for its giant swings that let you soar over breathtaking rice terraces. The locals are incredibly skilled at taking photos, and the whole vibe made every shot look like a postcard—a perfect spot for snapping and sharing memories.
 
-> [【Ubud Swing Guide】Top 8 Most Beautiful Jungle Swings: Dress Tips, Photo Angles, and Crowd-Avoidance Guide](https://gobaligo.id/en/blog/ubud-jungle-swings-photo-guide/)
+> [【Ubud Swing Guide】Top 8 Most Beautiful Jungle Swings: Dress Tips, Photo Angles, and Crowd-Avoidance Guide](/en/blog/ubud-jungle-swings-photo-guide/)
 
 ![Tebasari Resto, Bar & Lounge](https://images.gobaligo.id/vocus/vocus_de5feafe85fbc690903411bfb7bf280f.jpg)
 
@@ -174,7 +174,7 @@ At lunchtime, we visited a famous crispy duck restaurant in Ubud. This dish is a
 **Ubud Royal Palace**
 After lunch, we toured the historic Ubud Royal Palace. The palace's architecture is distinctly Balinese, with intricate carvings and elaborate decorations that are truly awe-inspiring, offering a glimpse into the local traditional culture and historical heritage.
 
-> [【Ubud Must-Visit】Ubud Royal Palace: A Gem of Balinese Culture and History｜Opening Hours, Tickets, Performance Times, Nearby Attractions, Day Trip Guide](https://gobaligo.id/en/blog/ubud-royal-palace-tour-guide/)
+> [【Ubud Must-Visit】Ubud Royal Palace: A Gem of Balinese Culture and History｜Opening Hours, Tickets, Performance Times, Nearby Attractions, Day Trip Guide](/en/blog/ubud-royal-palace-tour-guide/)
 
 **Ubud Market**
 Next, we strolled through the Ubud Market, which is filled with a variety of handicrafts, clothing, and souvenirs. The market buzzed with lively energy, and we picked up a few locally made souvenirs to remember the trip.
@@ -200,7 +200,7 @@ Today's itinerary kicked off at The Avocado Factory, a breakfast spot focused on
 **Gigi Susu: Trendy Coffee & Bakery**
 Next, we visited the trendy coffee shop Gigi Susu, known for its specialty breads and coffee. The interior is stylish and perfect for photo ops, with a great atmosphere. The coffee was rich and smooth, paired with freshly baked local bread—a real treat.
 
-> For more info: Over 50 Canggu restaurants recommended by travelers, check out the "[Canggu Map Guide](https://gobaligo.id/map/canggu/)"
+> For more info: Over 50 Canggu restaurants recommended by travelers, check out the "[Canggu Map Guide](/map/canggu/)"
 
 ![第四天行程（長谷區Chill一日遊）：](https://images.gobaligo.id/vocus/vocus_e7a6051d70eb94791ccd07270bdcf2e8.png)
 
@@ -209,7 +209,7 @@ In the afternoon, we visited one of Bali's landmarks—Tanah Lot Temple. Perched
 
 ![第四天行程（長谷區Chill一日遊）：](https://images.gobaligo.id/vocus/vocus_c8901a744d0d658d299564b9ec2515af.jpg)
 
-> [Must-Visit Bali Attraction: Tanah Lot Temple Detailed Guide with Tides and Nearby Spots](https://gobaligo.id/en/blog/bali-tanah-lot-guide/)
+> [Must-Visit Bali Attraction: Tanah Lot Temple Detailed Guide with Tides and Nearby Spots](/en/blog/bali-tanah-lot-guide/)
 
 **The Lawn Canggu Beach Club**
 Our final stop of the day was The Lawn, a popular beach club in Canggu. With sun, sand, great food, and a lively crowd, we spent a leisurely afternoon lounging in the pool, sipping chilled cocktails, and waiting for Bali's famous sunset to slowly descend. As night fell, the beach lit up with a cozy and romantic vibe, letting us fully unwind and savor every moment of our vacation.

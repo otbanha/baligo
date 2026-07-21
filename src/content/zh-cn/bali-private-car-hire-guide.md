@@ -99,7 +99,7 @@ update:2026/06/20
 
 ![峇里島包車FAQ](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
 
-请看：[【2026 巴厘岛交通公告】7月1日起包车价格调整通知：司机团队最新报价、计费方式](https://gobaligo.id/zh-cn/blog/bali-car-charter-rates-2026/)
+请看：[【2026 巴厘岛交通公告】7月1日起包车价格调整通知：司机团队最新报价、计费方式](/zh-cn/blog/bali-car-charter-rates-2026/)
 
 **包车五人座的定义？**
 

@@ -282,7 +282,7 @@ Hari ini kami datang ke **Bali Bird Park**, taman burung yang cocok banget buat 
 
 ![Bali Bird Park](https://images.gobaligo.id/vocus/vocus_f6aa64339e4c1dc2b4bd2cfec3b33115.jpg)
 
-Info lengkap: [Panduan Lengkap Bali Bird Park: Spesies Burung Langka, Aktivitas Interaktif, dan Petualangan Konservasi Alam](https://gobaligo.id/id/blog/bali-bird-park-guide/)
+Info lengkap: [Panduan Lengkap Bali Bird Park: Spesies Burung Langka, Aktivitas Interaktif, dan Petualangan Konservasi Alam](/id/blog/bali-bird-park-guide/)
 
 > Beli tiket online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D9f20741f36) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-bird-park-80525/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -304,7 +304,7 @@ Libra Li提供
 
 ![Bali Reptile Park](https://images.gobaligo.id/vocus/vocus_0622339e61ec519ef81ef4527e6ceeff.jpg)
 
-Info lengkap: [Panduan Bali Reptile Park: Lihat Komodo dari dekat, interaksi akrab dengan piton raksasa, harga tiket, dan tips liburan keluarga](https://gobaligo.id/id/blog/Bali-Reptile-Park/)
+Info lengkap: [Panduan Bali Reptile Park: Lihat Komodo dari dekat, interaksi akrab dengan piton raksasa, harga tiket, dan tips liburan keluarga](/id/blog/Bali-Reptile-Park/)
 
 > Beli tiket online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F37955-bali-reptile-park-ticket%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7db7e3e24e) [Kkday](https://www.kkday.com/zh-tw/product/593869?qs=Bali+Reptile+Park&cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-reptile-park-128527409/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 

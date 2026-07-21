@@ -33,7 +33,7 @@ Awal Agustus kemarin, kita jalan-jalan ke Bali selama 12 hari. Perjalanan ini pe
 
 Karena Agustus sampai September itu musim ramai di Bali, antrean di konter visa on arrival dan imigrasi biasanya bisa 2-3 jam lebih. Untungnya, kita udah apply visa elektronik (EVoA) dari jauh-jauh hari, dan pakai gerbang otomatis, jadi proses imigrasinya lancar banget. Dari turun pesawat sampai ambil koper dan masuk hall kedatangan cuma butuh 7-8 menit. Saran gue, kalau bisa, mending apply visa elektronik dulu, bakal hemat banyak waktu.
 
-> Baca juga: [【2026版】Prosedur Masuk Bali Pakai Kartu Kedatangan 'All Indonesia'｜Pahami Langkah Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](https://gobaligo.id/id/blog/bali-all-indonesia-arrival-guide/)
+> Baca juga: [【2026版】Prosedur Masuk Bali Pakai Kartu Kedatangan 'All Indonesia'｜Pahami Langkah Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
 
 ## Kartu Internet
 
@@ -55,7 +55,7 @@ Lalu lintas di Bali bisa dibilang cuma satu kata: 'macet'. Karena liburan temank
 
 https://youtu.be/KQwrSiqq_Dw
 
-Redaksi: Referensi terbaik adalah '[Panduan Zona Bali](https://gobaligo.id/id/blog/?lang=tw&cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)' kami!
+Redaksi: Referensi terbaik adalah '[Panduan Zona Bali](/id/blog/?lang=tw&cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)' kami!
 
 ## Makanan
 

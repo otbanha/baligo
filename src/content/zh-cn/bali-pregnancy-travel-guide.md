@@ -46,9 +46,9 @@ _srcHash: c8b240b3b5f610ec85f52da0f309b0f1
 
 这些准备看似繁琐，但都能让旅程更为顺利，让我在巴厘岛的每一刻都尽情享受！
 
-> 延伸阅读：[【2026版】印尼巴厘岛入境使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](https://gobaligo.id/zh-cn/blog/bali-all-indonesia-arrival-guide/)
+> 延伸阅读：[【2026版】印尼巴厘岛入境使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/zh-cn/blog/bali-all-indonesia-arrival-guide/)
 
-> 延伸阅读：[巴厘岛旅游注意事项：第一次去巴厘岛必看的新手指南](https://gobaligo.id/zh-cn/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
+> 延伸阅读：[巴厘岛旅游注意事项：第一次去巴厘岛必看的新手指南](/zh-cn/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
 
 ***
 
@@ -159,7 +159,7 @@ https://youtu.be/laRb_l8BdLM
 
 泛舟结束后，来到一家非常有名的网红咖啡店，这里的特色是巨大的荡秋千，让我们可以一边荡秋千、一边眺望壮丽的稻田景色。当地人真的非常会拍照，整个氛围让每一张照片都美得像明信片一样，真的是拍照打卡的好地方。
 
-> [【乌布秋千攻略】8 大最美丛林秋千推荐：租礼服技巧、拍照角度与避开人潮全指南](https://gobaligo.id/zh-cn/blog/ubud-jungle-swings-photo-guide/)
+> [【乌布秋千攻略】8 大最美丛林秋千推荐：租礼服技巧、拍照角度与避开人潮全指南](/zh-cn/blog/ubud-jungle-swings-photo-guide/)
 
 ![Tebasari Resto, Bar & Lounge](https://images.gobaligo.id/vocus/vocus_de5feafe85fbc690903411bfb7bf280f.jpg)
 
@@ -171,7 +171,7 @@ Tebasari Resto, Bar & Lounge
 **乌布皇宫**
 午餐后，我们参观了历史悠久的乌布皇宫。皇宫的建筑风格非常具有巴厘岛特色，精致的雕刻和繁复的装饰让人惊叹不已，感受到当地的传统文化和历史气息。
 
-> [【乌布必访景点】乌布皇宫：巴厘岛文化历史的瑰宝｜开放时间、门票、表演时间、周边景点、一日游推荐](https://gobaligo.id/zh-cn/blog/ubud-royal-palace-tour-guide/)
+> [【乌布必访景点】乌布皇宫：巴厘岛文化历史的瑰宝｜开放时间、门票、表演时间、周边景点、一日游推荐](/zh-cn/blog/ubud-royal-palace-tour-guide/)
 
 **乌布市集**
 紧接着，我们在乌布市集闲逛，这里充满了各种手工艺品、服饰和纪念品。市集的气氛热闹非凡，我们也买了几件当地特色的纪念品，作为这次旅行的回忆。
@@ -197,7 +197,7 @@ https://youtu.be/JtxZHtijEkE
 **Gigi Susu：网红咖啡面包店**
 接着我们来到网红咖啡店Gigi Susu，这里以特色的面包和咖啡闻名。店内装潢时尚，拍照打卡非常有氛围，咖啡香浓顺滑，搭配当地新鲜烘焙的面包，真是一大享受。
 
-> 延伸阅读：超过50家网友推荐的坎古美食餐厅，请看「[坎古攻略地图](https://gobaligo.id/map/canggu/)」
+> 延伸阅读：超过50家网友推荐的坎古美食餐厅，请看「[坎古攻略地图](/map/canggu/)」
 
 ![第四天行程（長谷區Chill一日遊）：](https://images.gobaligo.id/vocus/vocus_e7a6051d70eb94791ccd07270bdcf2e8.png)
 
@@ -206,7 +206,7 @@ https://youtu.be/JtxZHtijEkE
 
 ![第四天行程（長谷區Chill一日遊）：](https://images.gobaligo.id/vocus/vocus_c8901a744d0d658d299564b9ec2515af.jpg)
 
-> [巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](https://gobaligo.id/zh-cn/blog/bali-tanah-lot-guide/)
+> [巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/zh-cn/blog/bali-tanah-lot-guide/)
 
 **The Lawn 坎古海滩俱乐部**
 今天的最后一站是坎古的知名沙滩俱乐部——The Lawn。这里聚集了阳光、沙滩、美食，还有比基尼美女和帅哥。我们在这里享受了一个悠闲的下午，泡在泳池里，喝着冰凉的鸡尾酒，并等待着巴厘岛著名的夕阳缓缓落下。夜幕降临后，海滩上灯火通明，氛围惬意又浪漫，让我们彻底放松，享受度假的每一刻。

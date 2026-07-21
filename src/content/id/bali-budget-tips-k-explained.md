@@ -44,12 +44,12 @@ Di Indonesia atau Bali, ada banyak pengeluaran umum yang perlu kamu tahu. Beriku
 
 1. Akomodasi: Rata-rata, hotel kelas menengah harganya sekitar 400K-800K IDR per malam, sementara resor mewah bisa di atas 1000K IDR.
 
-> Bisa cek [Panduan Rekomendasi Akomodasi di Bali](https://gobaligo.id/id/blog/?lang=tw&cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6) kami
+> Bisa cek [Panduan Rekomendasi Akomodasi di Bali](/id/blog/?lang=tw&cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6) kami
 
 2. Makanan: Makan di restoran biasa tanpa dekorasi mewah bisa habis 20K-100K IDR, sedangkan restoran yang lebih kelas atas bisa lebih mahal.
 3. Transportasi: Taksi atau ojek jarak pendek biasanya 20K-100K IDR, sementara sewa mobil seharian bisa 600K-800K IDR.
 
-> Cek [Panduan Driver di Bali](https://gobaligo.id/id/blog/bali-private-car-drivers-guide/) kami
+> Cek [Panduan Driver di Bali](/id/blog/bali-private-car-drivers-guide/) kami
 
 ## **Mengelola Pengeluaran**
 

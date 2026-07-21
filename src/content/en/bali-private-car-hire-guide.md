@@ -106,7 +106,7 @@ A must-read for finding a great driver ▶ "[Bali's Top Private Car Driver Hall 
 
 ![峇里島包車FAQ](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
 
-See: [2026 Bali Transportation Announcement: Car Charter Price Adjustment Notice from July 1 – Latest Driver Rates & Pricing](https://gobaligo.id/en/blog/bali-car-charter-rates-2026/)
+See: [2026 Bali Transportation Announcement: Car Charter Price Adjustment Notice from July 1 – Latest Driver Rates & Pricing](/en/blog/bali-car-charter-rates-2026/)
 
 **What does a five-seater car mean?**
 

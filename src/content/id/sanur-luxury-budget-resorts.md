@@ -863,11 +863,11 @@ Rating Agoda 8.8. Tamu pada suka lokasinya yang oke, akses langsung ke pantai, s
 
 ## Peta Lokasi
 
-Kami sudah menandai semua lokasi hotel/villa di [peta ini](https://gobaligo.id/map/sanur/), simpan ya!
+Kami sudah menandai semua lokasi hotel/villa di [peta ini](/map/sanur/), simpan ya!
 
 ![請看我們的「沙努爾家庭親子攻略地圖」](https://images.gobaligo.id/vocus/vocus_91e2cc2338270b8c6dacc10d6f57eaf1.png)
 
-[Lihat 'Peta Panduan Keluarga & Anak di Sanur' kami](https://gobaligo.id/map/sanur/)
+[Lihat 'Peta Panduan Keluarga & Anak di Sanur' kami](/map/sanur/)
 
 Baik kamu cari liburan mewah, liburan keluarga, atau akomodasi yang ramah di kantong, Sanur bisa memenuhi semua kebutuhan. Dari penginapan bintang lima yang kece sampai guest house mungil yang cozy, pilihan beragam di sini dijamin bikin setiap traveler nemuin tempat nginep yang pas buat menikmati sinar matahari dan pemandangan indah Bali.
 

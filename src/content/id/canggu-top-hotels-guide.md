@@ -363,7 +363,7 @@ Selain tipe kamar yang ikonik, La Mewali juga punya kolam laguna yang ngelilingi
 
 ![地理位置圖](https://images.gobaligo.id/vocus/vocus_41b9eed23368f2692e63ad665923dd6e.png)
 
-Cek dulu [Peta Panduan Canggu](https://gobaligo.id/map/canggu/)
+Cek dulu [Peta Panduan Canggu](/map/canggu/)
 
 ## Pasti kamu juga mau lihat:
 

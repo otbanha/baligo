@@ -164,7 +164,7 @@ https://youtu.be/op78Dk8CjL4
 
 戴妤珊提供
 
-> [巴厘岛乌鲁瓦图寺庙/情人崖旅游指南：必看亮点与实用建议](https://gobaligo.id/zh-cn/blog/uluwatu-temple-travel-guide/)
+> [巴厘岛乌鲁瓦图寺庙/情人崖旅游指南：必看亮点与实用建议](/zh-cn/blog/uluwatu-temple-travel-guide/)
 
 - Suluban Beach（美丽的沙滩！）
 
@@ -179,7 +179,7 @@ https://youtu.be/hQbBTktqEqY
 
 这次的旅程让我们收获满满，如果你正计划着巴厘岛之旅，不妨参考一下我的行程哦！
 
-> [【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](https://gobaligo.id/zh-cn/blog/bali-souvenirs-gift-guide/)
+> [【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/zh-cn/blog/bali-souvenirs-gift-guide/)
 
 ## 【巴厘岛包车司机推荐 Part 2】
 

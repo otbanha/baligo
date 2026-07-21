@@ -70,7 +70,7 @@ __VID0__
 
 https://youtu.be/H-IocbLNpE4
 
-> [Lempuyang 天空之門深度攻略｜倒影係手機螢幕？六座廟點行？費用路線全公開](https://gobaligo.id/zh-hk/blog/lempuyang-temple-gate-of-heaven/)
+> [Lempuyang 天空之門深度攻略｜倒影係手機螢幕？六座廟點行？費用路線全公開](/zh-hk/blog/lempuyang-temple-gate-of-heaven/)
 
 跟住去咗 **搖擺天堂（Swing Heaven）**，呢度唔只係盪韆鞦嘅地方，仲有多個打卡景點可以影到超靚嘅網美相～🌺 影完相之後導遊仲會幫手揾角度，攝影技術一流！
 

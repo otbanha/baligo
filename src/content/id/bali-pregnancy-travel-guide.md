@@ -50,9 +50,9 @@ Liburan ke Bali kali ini bener-bener first time yang penuh antusiasme! Makasih b
 
 Persiapan ini keliatannya ribet, tapi bikin perjalanan makin lancar. Aku bisa menikmati setiap momen di Bali!
 
-> Baca Juga: [【2026版】Panduan Masuk Bali Pakai Kartu 'All Indonesia'｜Pahami Proses Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](https://gobaligo.id/id/blog/bali-all-indonesia-arrival-guide/)
+> Baca Juga: [【2026版】Panduan Masuk Bali Pakai Kartu 'All Indonesia'｜Pahami Proses Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
 
-> Baca Juga: [Tips Liburan ke Bali: Panduan Pemula Wajib Baca Sebelum ke Bali](https://gobaligo.id/id/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
+> Baca Juga: [Tips Liburan ke Bali: Panduan Pemula Wajib Baca Sebelum ke Bali](/id/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
 
 ***
 
@@ -163,7 +163,7 @@ Perjalanan Ubud kita mulai dengan arung jeram yang seru. Melewati hutan hujan tr
 
 Setelah arung jeram, mampir ke sebuah cafe estetik yang terkenal banget. Keunikannya ada ayunan raksasa, jadi kita bisa sambil berayun sambil menikmati pemandangan sawah yang indah. Orang lokal di sini jago banget foto, suasananya bikin setiap foto terlihat seperti kartu pos. Tempat ini wajib banget buat foto-foto dan check-in.
 
-> [【Panduan Ayunan Ubud】8 Rekomendasi Ayunan Hutan Terindah: Tips Sewa Gaun, Sudut Foto & Cara Hindari Keramaian](https://gobaligo.id/id/blog/ubud-jungle-swings-photo-guide/)
+> [【Panduan Ayunan Ubud】8 Rekomendasi Ayunan Hutan Terindah: Tips Sewa Gaun, Sudut Foto & Cara Hindari Keramaian](/id/blog/ubud-jungle-swings-photo-guide/)
 
 ![Tebasari Resto, Bar & Lounge](https://images.gobaligo.id/vocus/vocus_de5feafe85fbc690903411bfb7bf280f.jpg)
 
@@ -175,7 +175,7 @@ Saat makan siang, kami mampir ke restoran bebek goreng terkenal di Ubud. Hidanga
 **Puri Ubud**
 Setelah makan siang, kami mengunjungi Puri Ubud yang penuh sejarah. Arsitektur puri ini khas banget Bali — ukiran detail dan ornamen rumitnya bikin kita takjub, serasa menyelami budaya dan sejarah tradisional setempat.
 
-> [【Destinasi Wajib di Ubud】Puri Ubud: Permata Budaya dan Sejarah Bali｜Jam Buka, Tiket Masuk, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Tur Harian](https://gobaligo.id/id/blog/ubud-royal-palace-tour-guide/)
+> [【Destinasi Wajib di Ubud】Puri Ubud: Permata Budaya dan Sejarah Bali｜Jam Buka, Tiket Masuk, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Tur Harian](/id/blog/ubud-royal-palace-tour-guide/)
 
 **Pasar Ubud**
 Setelah itu, kami jalan-jalan di Pasar Ubud. Di sini penuh dengan kerajinan tangan, pakaian, dan suvenir. Suasananya ramai banget, dan kami juga beli beberapa oleh-oleh khas sebagai kenang-kenangan perjalanan ini.
@@ -201,7 +201,7 @@ Hari ini dimulai dari The Avocado Factory, kafe sarapan yang fokus pada makanan 
 **Gigi Susu: Kafe Kopi & Roti Hits**
 Selanjutnya kami mampir ke kafe hits Gigi Susu, yang terkenal dengan roti dan kopi khasnya. Dekorasi interiornya stylish banget, cocok buat foto-foto. Kopinya creamy dan wangi, dipadukan dengan roti panggang lokal yang fresh — benar-benar nikmat.
 
-> Baca juga: Lebih dari 50 rekomendasi restoran di Canggu dari netizen, cek di「[Peta Panduan Canggu](https://gobaligo.id/map/canggu/)」
+> Baca juga: Lebih dari 50 rekomendasi restoran di Canggu dari netizen, cek di「[Peta Panduan Canggu](/map/canggu/)」
 
 ![第四天行程（長谷區Chill一日遊）：](https://images.gobaligo.id/vocus/vocus_e7a6051d70eb94791ccd07270bdcf2e8.png)
 
@@ -210,7 +210,7 @@ Sore harinya, kami menuju salah satu ikon Bali — Pura Tanah Lot. Pura yang ter
 
 ![第四天行程（長谷區Chill一日遊）：](https://images.gobaligo.id/vocus/vocus_c8901a744d0d658d299564b9ec2515af.jpg)
 
-> [Destinasi Wajib Kunjung di Bali: Panduan Lengkap Pura Tanah Lot — Pasang Surut & Tempat Sekitar](https://gobaligo.id/id/blog/bali-tanah-lot-guide/)
+> [Destinasi Wajib Kunjung di Bali: Panduan Lengkap Pura Tanah Lot — Pasang Surut & Tempat Sekitar](/id/blog/bali-tanah-lot-guide/)
 
 **The Lawn Canggu Beach Club**
 Perhentian terakhir hari ini adalah beach club terkenal di Canggu — The Lawn. Di sini ada sinar matahari, pantai, makanan enak, plus para bikini babes dan cowok ganteng. Kami menikmati sore yang santai di sini, berendam di kolam renang sambil minum cocktail dingin, dan menunggu sunset Bali yang legendaris perlahan turun. Begitu malam tiba, pantai jadi terang benderang, suasananya cozy dan romantis banget, bikin kami benar-benar rileks dan menikmati setiap momen liburan.

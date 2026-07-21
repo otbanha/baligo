@@ -180,24 +180,24 @@ Cek di sini: [8 aplikasi wajib buat traveling ke Indonesia/Bali](/id/blog/bali-t
 
 Kami udah merapikan & update bertahun-tahun — simpen aja di HP, bisa dipake tanpa internet buat referensi cepat:
 
-- [Peta攻略 Kuta](https://gobaligo.id/map/kuta/)
-- [Peta攻略 Seminyak](https://gobaligo.id/map/seminyak/)
-- [Peta攻略 Canggu](https://gobaligo.id/map/canggu/)
-- [Peta攻略 Nuanu Creative City](https://gobaligo.id/map/nuanu/)
-- [Peta攻略 Ubud](https://gobaligo.id/map/ubud/)
-- [Peta攻略 Jimbaran](https://gobaligo.id/map/jimbaran/)
-- [Peta攻略 Uluwatu](https://gobaligo.id/map/uluwatu/)
-- [Peta攻略 Nusa Dua](https://gobaligo.id/map/nusa-dua/)
-- [Peta攻略 Sanur](https://gobaligo.id/map/sanur/)
-- [Peta攻略 Amed/Tulamben](https://gobaligo.id/map/amed/)
-- [Peta攻略 Nusa Lembongan/Ceningan](https://gobaligo.id/map/lembongan/)
-- [Peta攻略 Nusa Penida](https://gobaligo.id/map/nusa-penida/)
+- [Peta攻略 Kuta](/map/kuta/)
+- [Peta攻略 Seminyak](/map/seminyak/)
+- [Peta攻略 Canggu](/map/canggu/)
+- [Peta攻略 Nuanu Creative City](/map/nuanu/)
+- [Peta攻略 Ubud](/map/ubud/)
+- [Peta攻略 Jimbaran](/map/jimbaran/)
+- [Peta攻略 Uluwatu](/map/uluwatu/)
+- [Peta攻略 Nusa Dua](/map/nusa-dua/)
+- [Peta攻略 Sanur](/map/sanur/)
+- [Peta攻略 Amed/Tulamben](/map/amed/)
+- [Peta攻略 Nusa Lembongan/Ceningan](/map/lembongan/)
+- [Peta攻略 Nusa Penida](/map/nusa-penida/)
 
 ## Wajib Beli di Supermarket
 
 {{video1}}
 
-[Peta supermarket besar di Bali](https://gobaligo.id/map/supermarket/)
+[Peta supermarket besar di Bali](/map/supermarket/)
 
 {{block:klook}}
 

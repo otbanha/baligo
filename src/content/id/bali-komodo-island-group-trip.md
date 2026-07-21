@@ -60,7 +60,7 @@ Kalau kamu mau spa di Bali, mending booking duluan lewat WhatsApp, atau minta dr
 
 Karena trip kali ini juga termasuk lompat pulau, jadi waktu di Bali cuma tiga hari. Tapi kita malah milih tiga area berbeda buat dijelajahi, hasilnya tiap hari habis di macet. Kalau kamu mau keliling lebih banyak, saran sih mending stay di satu area selama 1-2 hari aja, biar waktu berharga nggak habis di jalan.
 
-> Catatan redaksi: Bergerak dalam area kecil itu kunci utama traveling di Bali! Cek juga "[Panduan Zona Bali](https://gobaligo.id/id/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)"
+> Catatan redaksi: Bergerak dalam area kecil itu kunci utama traveling di Bali! Cek juga "[Panduan Zona Bali](/id/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)"
 
 ![烏魯瓦圖火舞的門票可以在網上先買好（Sandra Yun提供）](https://images.gobaligo.id/vocus/vocus_d3a5a16996aa1d2906eea06f2716a19c.jpg)
 
@@ -72,7 +72,7 @@ Kali ini kita coba underwater walking, ternyata harga beli tiket di tempat dua k
 
 https://youtube.com/shorts/y5HMPegD5Rk
 
-15 aktivitas air yang nggak terduga: [https://gobaligo.id/go/15-water-sports-bali](https://gobaligo.id/go/15-water-sports-bali)
+15 aktivitas air yang nggak terduga: [/go/15-water-sports-bali](/go/15-water-sports-bali)
 
 > [Pesan Aktivitas Air Tanjung Benoa (Banyak Pilihan)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F71411-tanjung-benoa-watersports-bali-bintang-dive-watersport-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dee5cfca3a7)
 

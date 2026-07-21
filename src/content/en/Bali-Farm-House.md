@@ -134,7 +134,7 @@ If you're bringing kids to Bali, don't miss this spot! Bali Farm House is a drea
 
 ## Practical Information
 
-**Address**: Located in the Pancasari area of Buleleng Regency, North Bali. While driving from Kuta in the south takes some time, the scenic route and the much cooler mountain climate make it a completely different kind of experience! (Location: [Ubud Guide Map > Kid-Friendly Playgrounds/Restaurants](https://gobaligo.id/map/ubud/))
+**Address**: Located in the Pancasari area of Buleleng Regency, North Bali. While driving from Kuta in the south takes some time, the scenic route and the much cooler mountain climate make it a completely different kind of experience! (Location: [Ubud Guide Map > Kid-Friendly Playgrounds/Restaurants](/map/ubud/))
 
 **Opening Hours**: Daily 09:00 - 17:00 (last entry at 16:00)
 

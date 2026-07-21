@@ -133,7 +133,7 @@ Buat kamu yang liburan ke Bali bawa anak, jangan sampai skip tempat ini! Bali Fa
 
 ## Info Praktis Buat Kamu
 
-**Alamat**: Berada di daerah Pancasari, Kabupaten Buleleng, Bali utara. Meski dari Kuta selatan butuh waktu perjalanan, tapi pemandangan sepanjang jalan indah banget, dan cuaca di pegunungan lebih sejuk dari pantai — benar-benar pengalaman yang beda! (Lokasi: [Peta Panduan Ubud > Tempat Bermain/Restoran Ramah Anak](https://gobaligo.id/map/ubud/))
+**Alamat**: Berada di daerah Pancasari, Kabupaten Buleleng, Bali utara. Meski dari Kuta selatan butuh waktu perjalanan, tapi pemandangan sepanjang jalan indah banget, dan cuaca di pegunungan lebih sejuk dari pantai — benar-benar pengalaman yang beda! (Lokasi: [Peta Panduan Ubud > Tempat Bermain/Restoran Ramah Anak](/map/ubud/))
 
 **Jam Buka**: Setiap hari 09:00 - 17:00 (masuk terakhir jam 16:00)
 

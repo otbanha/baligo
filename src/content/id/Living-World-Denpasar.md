@@ -305,8 +305,8 @@ Susunan ini nggak cuma bikin kamu bisa menikmati budaya, belanja, kuliner, dan s
 
 ![](https://images.gobaligo.id/vocus/vocus_f2221d446da58c692559cd133adbacab.png)
 
-[Peta Panduan Denpasar](https://gobaligo.id/map/denpasar/)
+[Peta Panduan Denpasar](/map/denpasar/)
 
-Semua lokasi wisata di atas udah dikumpulin di 'Peta Panduan Denpasar', klik [di sini](https://gobaligo.id/map/denpasar/) buat simpan ke HP kamu!
+Semua lokasi wisata di atas udah dikumpulin di 'Peta Panduan Denpasar', klik [di sini](/map/denpasar/) buat simpan ke HP kamu!
 
 {{block:親子}}

@@ -47,7 +47,7 @@ Bali is one of Asia's most popular travel destinations, and it's also incredibly
 - [Free Family Fun in Seminyak](https://www.youtube.com/watch?v=A4oeJvzmdTU&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW)
 - [Ubud Campuhan Ridge Walk: Get Close to Nature](/en/blog/ubud-campuhan-ridge-walk/)
 - [Family Snorkeling at Nusa Penida](/en/blog/nusa-penida-snorkeling-guide/)
-- [【Bali Indoor Attractions】Trans Studio Bali Complete Guide: Top 5 Must-Try Rides](https://gobaligo.id/en/blog/trans-studio-bali/)
+- [【Bali Indoor Attractions】Trans Studio Bali Complete Guide: Top 5 Must-Try Rides](/en/blog/trans-studio-bali/)
 - [ATV Jungle Adventure for Elementary School Kids and Up](https://www.youtube.com/watch?v=9w6dllhn3h8&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW)
 - [Safe, Easy Baby-Friendly River Tubing](/en/blog/nukuwera-river-tubing-adventure/)
 - [Ubud Cycling Tour: A Unique Bali Experience](https://bit.ly/3pOCueS)
@@ -72,10 +72,10 @@ Bali is one of Asia's most popular travel destinations, and it's also incredibly
 - [The Firefly Garden: Bali's Most Dazzling Eco-Conservation & Tourism Destination](/en/blog/the-firefly-garden-ubud/)
 - [🎮 ZONE OUT Bali: Kuta's Coolest Virtual Reality Adventure Base!](/en/blog/zone-out-bali-vr-adventure/)
 - [Enchanted Rainforest at Night: Hikaria Immersive Light Art Experience in Ubud, Bali](/en/blog/hikaria-ubud-light-show/)
-- [Bali Exotic Marine Park: Get Up Close with Dolphins – A Must-Visit for Families](https://gobaligo.id/en/blog/Bali-Exotic-Marine-Park/)
-- [【Bali Family Attraction】Bali Reptile Park Guide: Get Up Close with Komodo Dragons & Giant Pythons](https://gobaligo.id/en/blog/Bali-Reptile-Park/)
-- [【Bali Family Attraction】Bali Farm House Guide: European-Style Estate in the Bali Highlands & Alpaca Encounters](https://gobaligo.id/en/blog/Bali-Farm-House/)
-- [【Bali Family Attraction】Top 10 Kids' Parks Complete Guide: Safari, Dolphin Encounters, Water Parks](https://gobaligo.id/en/blog/top-10-kids-attractions-in-bali/)
+- [Bali Exotic Marine Park: Get Up Close with Dolphins – A Must-Visit for Families](/en/blog/Bali-Exotic-Marine-Park/)
+- [【Bali Family Attraction】Bali Reptile Park Guide: Get Up Close with Komodo Dragons & Giant Pythons](/en/blog/Bali-Reptile-Park/)
+- [【Bali Family Attraction】Bali Farm House Guide: European-Style Estate in the Bali Highlands & Alpaca Encounters](/en/blog/Bali-Farm-House/)
+- [【Bali Family Attraction】Top 10 Kids' Parks Complete Guide: Safari, Dolphin Encounters, Water Parks](/en/blog/top-10-kids-attractions-in-bali/)
 
 ## How to Experience These Activities
 

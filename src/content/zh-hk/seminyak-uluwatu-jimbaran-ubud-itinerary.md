@@ -118,7 +118,7 @@ https://youtu.be/op78Dk8CjL4
 
 朝早我哋由烏布出發去海神廟。行到海神廟可能要涉水，建議着可以浸水嘅鞋同短褲。聽講夕陽時分好靚，可惜我哋因為行程安排喺中午，冇得欣賞到。
 
-> [峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](https://gobaligo.id/zh-hk/blog/bali-tanah-lot-guide/)
+> [峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](/zh-hk/blog/bali-tanah-lot-guide/)
 
 我哋到海神廟嗰陣先發現唔小心帶咗前一晚酒店嘅鎖匙，Komang即刻話佢過兩日可以幫我哋送返去（已經得到酒店主管姐姐嘅同意），真係好感激佢！
 

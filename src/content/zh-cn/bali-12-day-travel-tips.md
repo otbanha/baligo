@@ -28,7 +28,7 @@ _srcHash: 4205fd602554bad05b0acae0d9e76629
 
 由于8月至9月是巴厘岛的旅游旺季，落地签证柜台和海关的排队时间通常需要2-3小时以上。幸运的是，我们提前申请了电子签证（EVoA），并使用自动通关闸门，这使得整个通关过程非常顺利。我们从下飞机到拿行李，进入入境大厅只花了7-8分钟。建议大家如果可以，还是先申请电子签证，这样会节省很多时间。
 
-> 延伸阅读：[【2026版】印尼巴厘岛入境使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](https://gobaligo.id/zh-cn/blog/bali-all-indonesia-arrival-guide/)
+> 延伸阅读：[【2026版】印尼巴厘岛入境使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/zh-cn/blog/bali-all-indonesia-arrival-guide/)
 
 ## 网卡
 
@@ -50,7 +50,7 @@ _srcHash: 4205fd602554bad05b0acae0d9e76629
 
 https://youtu.be/KQwrSiqq_Dw
 
-编按：参考我们的「[巴厘岛分区攻略](https://gobaligo.id/zh-cn/blog/?lang=tw&cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)」是最好的指南！
+编按：参考我们的「[巴厘岛分区攻略](/zh-cn/blog/?lang=tw&cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)」是最好的指南！
 
 ## 食物
 

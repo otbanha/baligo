@@ -77,7 +77,7 @@ Kami berangkat tepat jam 7:30 pagi dari hotel. Antar-jemput mobil pribadi bikin 
 
 https://youtu.be/H-IocbLNpE4
 
-> [Panduan Lengkap Lempuyang Gate of Heaven｜Apakah pantulannya layar HP? Cara jalan ke enam pura? Biaya dan rute lengkap](https://gobaligo.id/id/blog/lempuyang-temple-gate-of-heaven/)
+> [Panduan Lengkap Lempuyang Gate of Heaven｜Apakah pantulannya layar HP? Cara jalan ke enam pura? Biaya dan rute lengkap](/id/blog/lempuyang-temple-gate-of-heaven/)
 
 Lanjut ke **Swing Heaven**, tempat ini bukan cuma ayunan doang, tapi ada banyak spot foto keren buat dapetin foto estetik ala influencer 🌺. Abis foto, pemandu juga bantuin cari angle, jago banget soal fotografi!
 

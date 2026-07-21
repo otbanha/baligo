@@ -97,6 +97,6 @@ Bali's vegetarian restaurants are scattered across all major tourist hubs, from 
 
 ![峇里島Top 26 素食友善餐廳](https://images.gobaligo.id/vocus/vocus_a5d5b1f2d35fd1fdb7bd8882f8b50f94.png)
 
-For the locations and detailed introductions of these 30+ restaurants, [click the map link](https://gobaligo.id/map/vegetarian/) and let's explore the endless charm of Bali's vegetarian-friendly restaurants together!
+For the locations and detailed introductions of these 30+ restaurants, [click the map link](/map/vegetarian/) and let's explore the endless charm of Bali's vegetarian-friendly restaurants together!
 
 {{block:klook}}

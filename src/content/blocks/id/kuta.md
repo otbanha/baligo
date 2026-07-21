@@ -15,6 +15,6 @@ Mau tahu lebih banyak tips soal Kuta? Klik [di sini](/id/blog/kuta-guide/)
 
 ## Review Tempat Nginep di Kuta
 
-- [18 Rekomendasi Hotel Pilihan di Dekat Pantai Kuta](https://gobaligo.id/admin/)
+- [18 Rekomendasi Hotel Pilihan di Dekat Pantai Kuta](/admin/)
 - [12 Rekomendasi Hotel di Pusat Kota Kuta](/id/blog/best-kuta-hotels-list/)
 - [Wisata Kelompok ke Bali: Rekomendasi Villa Pribadi di Kuta untuk 3, 4, 5, 6 Kamar atau Lebih untuk Keluarga](/id/blog/bali-group-villa-stay/)

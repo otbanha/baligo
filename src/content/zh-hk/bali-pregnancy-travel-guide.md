@@ -46,9 +46,9 @@ _srcHash: c8b240b3b5f610ec85f52da0f309b0f1
 
 呢啲準備睇落好似好麻煩，但係都可以令旅程更加順利，令我可以喺峇里島嘅每一刻都盡情享受！
 
-> 延伸閱讀：[【2026版】印尼峇里島入境使用「All Indonesia」入境卡｜1分鐘搞懂最新流程：落機→過關→拎行李全攻略](https://gobaligo.id/zh-hk/blog/bali-all-indonesia-arrival-guide/)
+> 延伸閱讀：[【2026版】印尼峇里島入境使用「All Indonesia」入境卡｜1分鐘搞懂最新流程：落機→過關→拎行李全攻略](/zh-hk/blog/bali-all-indonesia-arrival-guide/)
 
-> 延伸閱讀：[峇里島旅遊注意事項：第一次去峇里島必睇嘅新手指南](https://gobaligo.id/zh-hk/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
+> 延伸閱讀：[峇里島旅遊注意事項：第一次去峇里島必睇嘅新手指南](/zh-hk/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
 
 ***
 
@@ -159,7 +159,7 @@ https://youtu.be/laRb_l8BdLM
 
 泛舟結束之後，嚟到一間好出名嘅網美咖啡店，呢度嘅特色係巨型盪鞦韆，可以一邊盪鞦韆、一邊望住壯麗嘅稻田景色。當地人真係好識影相，成個氛圍令每張相都靚到好似明信片咁，真係影相打卡嘅好地方。
 
-> [【烏布鞦韆攻略】8 大最美叢林鞦韆推薦：租禮服技巧、影相角度同避開人潮全指南](https://gobaligo.id/zh-hk/blog/ubud-jungle-swings-photo-guide/)
+> [【烏布鞦韆攻略】8 大最美叢林鞦韆推薦：租禮服技巧、影相角度同避開人潮全指南](/zh-hk/blog/ubud-jungle-swings-photo-guide/)
 
 ![Tebasari Resto, Bar & Lounge](https://images.gobaligo.id/vocus/vocus_de5feafe85fbc690903411bfb7bf280f.jpg)
 
@@ -171,7 +171,7 @@ Tebasari Resto, Bar & Lounge
 **烏布皇宮**
 食完晏晝，我哋去咗歷史悠久嘅烏布皇宮參觀。皇宮嘅建築風格好有峇里島特色，精緻嘅雕刻同複雜嘅裝飾令人嘆為觀止，感受到當地嘅傳統文化同歷史氣息。
 
-> [【烏布必訪景點】烏布皇宮：峇里島文化歷史嘅瑰寶｜開放時間、門票、表演時間、周邊景點、一日遊推薦](https://gobaligo.id/zh-hk/blog/ubud-royal-palace-tour-guide/)
+> [【烏布必訪景點】烏布皇宮：峇里島文化歷史嘅瑰寶｜開放時間、門票、表演時間、周邊景點、一日遊推薦](/zh-hk/blog/ubud-royal-palace-tour-guide/)
 
 **烏布市集**
 跟住，我哋喺烏布市集周圍行，呢度有好多手工藝品、衫褲同紀念品。市集氣氛好熱鬧，我哋都買咗幾件當地特色嘅紀念品，當係今次旅行嘅回憶。
@@ -197,7 +197,7 @@ https://youtu.be/JtxZHtijEkE
 **Gigi Susu：網紅咖啡麵包店**
 之後我哋去咗網紅咖啡店Gigi Susu，呢度以特色麵包同咖啡聞名。店內裝修好時尚，影相打卡好有氣氛，咖啡香濃順滑，配埋當地新鮮烘焙嘅麵包，真係一大享受。
 
-> 延伸閱讀：超過50個網友推薦嘅Canggu美食餐廳，請睇「[Canggu攻略地圖](https://gobaligo.id/map/canggu/)」
+> 延伸閱讀：超過50個網友推薦嘅Canggu美食餐廳，請睇「[Canggu攻略地圖](/map/canggu/)」
 
 ![第四天行程（長谷區Chill一日遊）：](https://images.gobaligo.id/vocus/vocus_e7a6051d70eb94791ccd07270bdcf2e8.png)
 
@@ -206,7 +206,7 @@ https://youtu.be/JtxZHtijEkE
 
 ![第四天行程（長谷區Chill一日遊）：](https://images.gobaligo.id/vocus/vocus_c8901a744d0d658d299564b9ec2515af.jpg)
 
-> [峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](https://gobaligo.id/zh-hk/blog/bali-tanah-lot-guide/)
+> [峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](/zh-hk/blog/bali-tanah-lot-guide/)
 
 **The Lawn Canggu Beach Club**
 今日最後一站係Canggu嘅知名沙灘俱樂部——The Lawn。呢度有陽光、沙灘、美食，仲有比基尼美女同靚仔。我哋喺度享受咗一個悠閒嘅下晝，浸喺泳池，飲住冰凍嘅雞尾酒，等住峇里島出名嘅日落慢慢落下。天黑之後，沙灘上燈火通明，氣氛又舒服又浪漫，令我哋完全放鬆，享受度假嘅每一刻。

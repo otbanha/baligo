@@ -142,6 +142,6 @@ Kiri: Secara keseluruhan, menurutku Ayana Komodo pelayanannya belum sampai level
 
 Menurut kamu itinerary Astrid Chang seru banget? Yuk, rencanain liburan seru ke Bali versi kamu sekarang! Jangan lupa kirim itinerary kamu ke grup ya!
 
-Update terbaru: [Komodo resmi 'batasi pengunjung'! 2026 kalau nggak booking, langsung disuruh balik ke daratan, jalan-jalan dadakan udah jadi sejarah!](https://gobaligo.id/id/blog/komodo-booking-2026/)
+Update terbaru: [Komodo resmi 'batasi pengunjung'! 2026 kalau nggak booking, langsung disuruh balik ke daratan, jalan-jalan dadakan udah jadi sejarah!](/id/blog/komodo-booking-2026/)
 
 {{block:遊記}}

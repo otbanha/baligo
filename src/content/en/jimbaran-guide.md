@@ -29,7 +29,7 @@ https://youtu.be/2rvFv04KpAA
 
 ![峇里島自由行金巴蘭攻略：推薦30個玩樂景點全攻略｜2026旅遊指南](https://images.gobaligo.id/vocus/vocus_0787dc59265571ddcbf186366b00e3b5.png)
 
-Pin & save the [Jimbaran Travel Map](https://gobaligo.id/map/jimbaran/)
+Pin & save the [Jimbaran Travel Map](/map/jimbaran/)
 
 ## Jimbaran’s Beautiful Beaches (👉🏼 Map: [Jimbaran Must-Visit Spots](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing))
 
@@ -59,7 +59,7 @@ https://youtu.be/qZKnpUnqu3Y
 
 If you're after some adrenaline, the Go-Kart track near Jimbaran is your ideal destination. Here, you can rent a kart, test your driving skills, and enjoy the thrill of high-speed racing. Whether you're a seasoned racer or just looking for an exciting experience, this activity promises an unforgettable time. The track is equipped with basic safety features to keep you secure while you have a blast.
 
-> Be sure to book in advance if you want to go: [https://gobaligo.id/go/Go-Cart-Bali](https://gobaligo.id/go/Go-Cart-Bali)
+> Be sure to book in advance if you want to go: [/go/Go-Cart-Bali](/go/Go-Cart-Bali)
 
 ## GWK Culture Park: Bali's Cultural Treasure (👉🏼 Map: [Must-Visit Attractions in Jimbaran](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing))
 
@@ -171,6 +171,6 @@ This service delivers directly to the entrance of your hotel or villa, with staf
 
 https://youtu.be/HKMalFa6zMw
 
-## For all 30 spots we've collected, check out the '[Jimbaran Guide Map](https://gobaligo.id/map/jimbaran/)'
+## For all 30 spots we've collected, check out the '[Jimbaran Guide Map](/map/jimbaran/)'
 
 {{block:攻略}}

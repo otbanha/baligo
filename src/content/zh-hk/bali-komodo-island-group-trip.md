@@ -60,7 +60,7 @@ Gede 喺社團有超多好評！[請參考呢度](/zh-hk/blog/bali-private-car-d
 
 因為我哋呢次行程仲要跳島，所以喺峇里島得返三日時間。但我哋揀咗三個唔同嘅區域去玩，結果日日都塞車塞到傻。如果你想去多啲地方，建議揀同一個區域住一至兩日，咁就唔會浪費寶貴嘅時間喺條路度。
 
-> 編按：盡量喺細區域移動先係峇里島旅遊嘅王道！請睇「[峇里島分區攻略](https://gobaligo.id/zh-hk/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)」
+> 編按：盡量喺細區域移動先係峇里島旅遊嘅王道！請睇「[峇里島分區攻略](/zh-hk/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)」
 
 ![烏魯瓦圖火舞的門票可以在網上先買好（Sandra Yun提供）](https://images.gobaligo.id/vocus/vocus_d3a5a16996aa1d2906eea06f2716a19c.jpg)
 
@@ -72,7 +72,7 @@ Gede 喺社團有超多好評！[請參考呢度](/zh-hk/blog/bali-private-car-d
 
 https://youtube.com/shorts/y5HMPegD5Rk
 
-15種意想不到嘅水上玩法：[https://gobaligo.id/go/15-water-sports-bali](https://gobaligo.id/go/15-water-sports-bali)
+15種意想不到嘅水上玩法：[/go/15-water-sports-bali](/go/15-water-sports-bali)
 
 > [預約南灣水上活動（多種組合）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F71411-tanjung-benoa-watersports-bali-bintang-dive-watersport-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dee5cfca3a7)
 

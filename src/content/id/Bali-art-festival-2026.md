@@ -108,7 +108,7 @@ Selain pertunjukan, di pusat seni juga ada area pameran gede yang menampilkan uk
 
 Kalau kamu nggak suka keramaian, saran datang **jam 10 pagi** ke venue, nikmati pameran kerajinan dan fotografi yang detail di ruang ber-AC, lalu siang hari cobain nasi babi guling atau ayam betutu khas Bali di pasar kuliner. Setelah istirahat sebentar, **jam 17.00** cari tempat duduk yang oke buat nonton tari outdoor, dan lanjut langsung nonton **jam 19.30** adu gamelan malam yang dahsyat. Seharian penuh, ini pengalaman budaya gratis tapi super mewah!
 
-> [【Panduan Denpasar 2026】Jelajahi 100 Kota Terbaik Dunia: Peta Budaya, Sejarah & Kuliner Ibu Kota Bali](https://gobaligo.id/id/blog/denpasar-culture-guide/)
+> [【Panduan Denpasar 2026】Jelajahi 100 Kota Terbaik Dunia: Peta Budaya, Sejarah & Kuliner Ibu Kota Bali](/id/blog/denpasar-culture-guide/)
 
 ### Penutup
 

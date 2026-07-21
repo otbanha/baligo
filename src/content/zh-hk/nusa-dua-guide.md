@@ -364,7 +364,7 @@ Dapur Bali 烹飪課程位於肉桂私人別墅（Kayumanis Nusa Dua Private Vil
 
 **旅遊小提示：** 海豚互動體驗名額有限，強烈建議提早經網上平台預訂。部分互動項目有年齡同身高限制，訂飛前記得先確認清楚。
 
-詳細介紹：[海豚樂園 Bali Exotic Marine Park 攻略：超近距離互動、落水同海豚共舞、分流避雷同全家行程規劃](https://gobaligo.id/zh-hk/blog/Bali-Exotic-Marine-Park/)
+詳細介紹：[海豚樂園 Bali Exotic Marine Park 攻略：超近距離互動、落水同海豚共舞、分流避雷同全家行程規劃](/zh-hk/blog/Bali-Exotic-Marine-Park/)
 
 > 網上購飛：[Kkday](https://www.kkday.com/zh-tw/product/138734-bali-exotic-dolphin-marine-park-indonesia?cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 

@@ -34,9 +34,9 @@ Currently, you need a visa to enter Indonesia! Travelers from Taiwan can apply f
 
 Everyone must also fill out and submit the electronic customs declaration and tourist tax. Please refer to the link below:
 
-> Read more: [Indonesia/Bali Arrival Guide - From Landing, Customs, to Baggage Claim](https://gobaligo.id/en/blog/bali-all-indonesia-arrival-guide/)
+> Read more: [Indonesia/Bali Arrival Guide - From Landing, Customs, to Baggage Claim](/en/blog/bali-all-indonesia-arrival-guide/)
 
-The advantage of applying for an e-Visa in advance is that you can skip the queue after landing and use the automated gates, bypassing immigration passport checks. The only catch is that children under 6 cannot use the automated gates, but there are dedicated counters to assist with clearance (see: [Guide to Children's Visas for Entering Indonesia/Bali](https://gobaligo.id/en/blog/bali-child-visa-guide/))
+The advantage of applying for an e-Visa in advance is that you can skip the queue after landing and use the automated gates, bypassing immigration passport checks. The only catch is that children under 6 cannot use the automated gates, but there are dedicated counters to assist with clearance (see: [Guide to Children's Visas for Entering Indonesia/Bali](/en/blog/bali-child-visa-guide/))
 
 ###
 
@@ -50,7 +50,7 @@ It is advisable to purchase overseas travel insurance to protect yourself and yo
 
 ![本表僅供參考，實際保障內容以各保險公司商品為主](https://images.gobaligo.id/vocus/vocus_9ca24acf53daac137bbe25fab121cf3d.jpg)
 
-> [【Bali Travel Insurance】A Must-Read for Travelers from Taiwan, Hong Kong, Macau, and Singapore! A Guide to Purchasing, Overseas Medical and Trip Interruption Insurance Claims Tips](https://gobaligo.id/en/blog/bali-travel-insurance-guide/)
+> [【Bali Travel Insurance】A Must-Read for Travelers from Taiwan, Hong Kong, Macau, and Singapore! A Guide to Purchasing, Overseas Medical and Trip Interruption Insurance Claims Tips](/en/blog/bali-travel-insurance-guide/)
 
 ###
 
@@ -157,7 +157,7 @@ When traveling in Bali, pay attention to food hygiene to avoid Bali belly. Here'
 
 Bali has many vendors and scammers who target tourists, so stay vigilant.
 
-[Is Bali Safe? Exposing the Top 6 Tourist Scams of 2026! Currency Exchange, Fake Visas, Hotspot Traps... If You See This Person, Turn Away Immediately!](https://gobaligo.id/en/blog/bali-tourist-scams-2026/)
+[Is Bali Safe? Exposing the Top 6 Tourist Scams of 2026! Currency Exchange, Fake Visas, Hotspot Traps... If You See This Person, Turn Away Immediately!](/en/blog/bali-tourist-scams-2026/)
 
 ### Safety Tips:
 

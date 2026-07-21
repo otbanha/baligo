@@ -17,5 +17,5 @@ _srcHash: cf1703486d6255c9025fe1536481107d
 - [👨‍👨‍👦‍👦【Tips Tur Grup】Sering Kena Masalah? 5 Hal yang Wajib Kamu Pikirkan!](/id/blog/bali-group-travel-tips/)
 - [🕍【The Apurva Kempinski Bali】Promo Terbatas USD$349 Termasuk Pajak + Sarapan + Teh Sore](/id/blog/apurva-kempinski-bali-deal/)
 - [🦒【Tur Keluarga Mewah Bali】Tidur Bareng Satwa: Hotel di Kebun Binatang, 6H5M USD$769](/id/blog/2026-03-29-023447/)
-- 👩‍❤️‍👨[【Menginap di Ayana: Kabur Berdua ke Pulau】Bali × Nusa Penida Romantis Mewah 6 Hari](https://gobaligo.id/id/blog/bali-romance-tour/)
-- 💥[ Promo Gila Ayana Mulai USD$188](https://gobaligo.id/id/blog/Ayana-promo-2026/)
+- 👩‍❤️‍👨[【Menginap di Ayana: Kabur Berdua ke Pulau】Bali × Nusa Penida Romantis Mewah 6 Hari](/id/blog/bali-romance-tour/)
+- 💥[ Promo Gila Ayana Mulai USD$188](/id/blog/Ayana-promo-2026/)

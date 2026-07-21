@@ -51,7 +51,7 @@ Sebelum berangkat, aku juga baca-baca pengalaman dari senior di grup. Makanya se
 
 Setelah sampai di Bali, kita nginep dua malam di Kuta. Hari kedua kita main seharian di Waterbom.
 
-> [【Wajib Coba buat Liburan Keluarga di Bali】Panduan Lengkap Waterbom Bali Water Park: Nomor 1 di Asia, Klasifikasi Seluncuran & Tips Hemat Tiket](https://gobaligo.id/id/blog/waterbom-bali-water-park-guide/)
+> [【Wajib Coba buat Liburan Keluarga di Bali】Panduan Lengkap Waterbom Bali Water Park: Nomor 1 di Asia, Klasifikasi Seluncuran & Tips Hemat Tiket](/id/blog/waterbom-bali-water-park-guide/)
 
 Karena mikir abis naik pesawat pasti capek, apalagi bawa anak kecil, aku sengaja bikin dua hari pertama lebih santai. Aku milih nginep di dekat bandara, selain gampang transportasi, badan juga bisa adaptasi pelan-pelan sama ritme liburan. Nggak perlu langsung perjalanan jauh begitu mendarat, liburan dari awal udah terasa lebih ringan.
 
@@ -147,7 +147,7 @@ Saran aku, masuk minimal 30 menit sebelum mulai biar bisa dapet kursi barisan de
 
 Diiringi alunan gamelan, gerakan mata penari yang detail, gestur tangan yang anggun, dan kostum yang megah, semuanya menggambarkan kekayaan budaya Bali yang dalam. Meskipun nggak ngerti jalan ceritanya, kamu tetap bisa larut dalam atmosfer pertunjukan yang kental banget. Worth it banget buat dicoba!
 
-> [【Wajib Kunjungi di Ubud】Ubud Royal Palace: Permata Sejarah & Budaya Bali | Jam Buka, Tiket, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Trip Sehari](https://gobaligo.id/id/blog/ubud-royal-palace-tour-guide/)
+> [【Wajib Kunjungi di Ubud】Ubud Royal Palace: Permata Sejarah & Budaya Bali | Jam Buka, Tiket, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Trip Sehari](/id/blog/ubud-royal-palace-tour-guide/)
 
 {{block:ubud}}
 

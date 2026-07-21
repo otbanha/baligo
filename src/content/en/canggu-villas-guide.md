@@ -89,7 +89,7 @@ Whether you're looking to soak up the sun on the beach, experience world-class s
 
 ZIN Resort & Villas, a four-star accommodation in the heart of Canggu, boasts an unbeatable location just a one-minute walk from the beach. This proximity lets you easily enjoy leisurely beach strolls and seamlessly access popular beach clubs like The Lawn, Echo Beach Club, and La Brisa.
 
-**Location** | ZIN Canggu Resort & Villas is just a one-minute walk from Canggu Beach and 200 meters from Nelayan Beach, close to several popular beach clubs and dining spots. (🗺️[Map Guide](https://gobaligo.id/map/canggu/)
+**Location** | ZIN Canggu Resort & Villas is just a one-minute walk from Canggu Beach and 200 meters from Nelayan Beach, close to several popular beach clubs and dining spots. (🗺️[Map Guide](/map/canggu/)
 
 **Facilities** | ZIN Café is at the entrance, with the villa reception area tucked behind it. The resort includes four exquisite teak private pool villas, two private pool bamboo houses, 24 deluxe rooms, and six junior suites. Each unit is thoughtfully furnished, offering king or twin bed options, a cozy seating or sofa area, full air conditioning, ceiling fans, smart TVs, free Wi-Fi, and a refrigerator. Guests can freely use the co-working space ZIN@work and sample some of Bali's best coffee, roasted on-site. The restaurant serves dishes that blend international and local ingredients and recipes. Whether enjoying Mediterranean cuisine on the Rooftop or relaxing at the riverside pool bar, guests are guaranteed a delightful experience.
 
@@ -121,7 +121,7 @@ ZIN Resort & Villas, a four-star accommodation in the heart of Canggu, boasts an
 
 These five-star luxury villas feature wooden floors, high thatched roofs, and wooden furnishings, offering an authentic Balinese experience at surprisingly affordable prices.
 
-**Location** | Kharista Villas is 2 km from Batu Bolong Beach. In fact, there are four beaches within 3 km. Three restaurants are within 150 meters of the villas. (🗺️[Map Guide](https://gobaligo.id/map/canggu/)
+**Location** | Kharista Villas is 2 km from Batu Bolong Beach. In fact, there are four beaches within 3 km. Three restaurants are within 150 meters of the villas. (🗺️[Map Guide](/map/canggu/)
 
 **Facilities** | Kharista Villas offers paid airport transfers and a 24-hour front desk. An à la carte breakfast is included in the villa rate.
 
@@ -155,7 +155,7 @@ One- and two-bedroom villas feature indoor and outdoor seating areas, a large ba
 
 These modern villas offer space and privacy, and are a great deal for the amenities they provide!
 
-**Location** | These four-star villas are located 1 km from both Pererenan Beach and Echo Beach. (🗺️[Map Guide](https://gobaligo.id/map/canggu/)
+**Location** | These four-star villas are located 1 km from both Pererenan Beach and Echo Beach. (🗺️[Map Guide](/map/canggu/)
 
 **Amenities** | Le Paradis Villas offers bicycle and car rental, as well as paid airport transfers. American breakfast is included in the villa rate. The on-site spa provides massages and a hot tub.
 
@@ -189,7 +189,7 @@ The one-, two-, and three-bedroom villas each feature a Balinese-style entrance,
 
 These four-star, adults-only villas boast striking modern design with high sloping ceilings, open staircases, and chic contemporary furniture and decor.
 
-**Location** | River Studio is 700 meters from Pererenan Beach, and a 13-minute walk to Seseh Beach. Several cafes and restaurants are within 200 meters. (🗺️[Map Guide](https://gobaligo.id/map/canggu/)
+**Location** | River Studio is 700 meters from Pererenan Beach, and a 13-minute walk to Seseh Beach. Several cafes and restaurants are within 200 meters. (🗺️[Map Guide](/map/canggu/)
 
 **Facilities** | The villa features one bedroom, a large living room, a bathroom with a rain shower, and a kitchenette equipped with an oven, toaster, and refrigerator. Folding doors open to a small pool and a leafy sun terrace with seating. Car rental is available on-site.
 
@@ -219,7 +219,7 @@ These four-star, adults-only villas boast striking modern design with high slopi
 
 This uniquely designed villa is the perfect getaway for couples or small families in the heart of vibrant Canggu.
 
-**Location** | THE WĀVE BALI sits in a quiet neighborhood, yet is just a short walk from Canggu's best and trendiest cafes, restaurants, and spas, as well as Echo Beach. (🗺️[Map Guide](https://gobaligo.id/map/canggu/)
+**Location** | THE WĀVE BALI sits in a quiet neighborhood, yet is just a short walk from Canggu's best and trendiest cafes, restaurants, and spas, as well as Echo Beach. (🗺️[Map Guide](/map/canggu/)
 
 **Facilities** | THE WĀVE BALI villa features two bedrooms and two private pools: a large ground-floor pool and a jacuzzi pool on the rooftop with stunning rice field views. Petal bath decorations, floating breakfasts, in-villa massages, a private driver, grocery service, chef service, and private fitness or surf instructors are available for an additional fee.
 
@@ -253,7 +253,7 @@ The villa's interior perfectly blends modern and contemporary styles, incorporat
 
 This five-star villa complex exudes charm and luxury. If you're searching for the perfect private pool villa in Canggu, Ametis should be at the top of your list.
 
-**Location** | The villa is 300 meters from Batu Bolong Beach and a three-minute drive to Echo Beach. (🗺️[Map Guide](https://gobaligo.id/map/canggu/)
+**Location** | The villa is 300 meters from Batu Bolong Beach and a three-minute drive to Echo Beach. (🗺️[Map Guide](/map/canggu/)
 
 **Facilities** | The private villa complex offers complimentary airport transfers and free shuttle service within the Canggu area. It features a spa, a fine dining restaurant, and a central lobby with a library. Each villa has a partially open or enclosed living area, oversized bedrooms and bathrooms with rain showers and bathtubs, plus a sun terrace with seating. Larger villas include a kitchenette with a fridge and coffee machine, along with a dining area. All villas offer 24-hour butler service. The private infinity pools are spacious and private.
 
@@ -287,7 +287,7 @@ This five-star villa complex exudes charm and luxury. If you're searching for th
 
 Theanna Villa and Spa's boutique villas in Canggu offer high-end interior design and exceptional customer service.
 
-**Location** | The hotel is tucked away on a quiet lane in Canggu, two kilometers from Batu Bolong Beach and a six-minute drive to Echo Beach. Three restaurants are within 100 meters. (🗺️[Map Guide](https://gobaligo.id/map/canggu/)
+**Location** | The hotel is tucked away on a quiet lane in Canggu, two kilometers from Batu Bolong Beach and a six-minute drive to Echo Beach. Three restaurants are within 100 meters. (🗺️[Map Guide](/map/canggu/)
 
 **Facilities** | Theanna Villa and Spa features a 24-hour front desk, restaurant, bar, small convenience store, and ATM. Laundry service is available for an additional fee. The on-site spa offers massage services, and guests can enjoy complimentary bicycles and free local area shuttle service. The 17 one- and two-bedroom villas include a seating area, outdoor dining area, and a bathroom with a separate bathtub and shower. The pool is a plunge pool, and aside from the Kirana Villa, there is a large pool.
 
@@ -319,7 +319,7 @@ Theanna Villa and Spa's boutique villas in Canggu offer high-end interior design
 
 Clifton Canggu Villas offers comfortable and luxurious villas in an excellent central location.
 
-**Location** | The villas are 200 meters from Nelayan Beach and 600 meters from Batu Bolong Beach. Numerous dining options are within walking distance. (🗺️[Map Guide](https://gobaligo.id/map/canggu/)
+**Location** | The villas are 200 meters from Nelayan Beach and 600 meters from Batu Bolong Beach. Numerous dining options are within walking distance. (🗺️[Map Guide](/map/canggu/)
 
 **Facilities** | Each standalone villa features one bedroom, a bathroom with a rain shower, and a seating area. A daily à la carte breakfast is available (for an additional fee). The private pool is sized for couples, with high walls around the pool and terrace for privacy. The villas also offer paid airport transfers and a 24-hour front desk.
 
@@ -351,7 +351,7 @@ Clifton Canggu Villas offers comfortable and luxurious villas in an excellent ce
 
 Beyond being a haven for Instagram-worthy cafes, Canggu's canvas has expanded to include a range of stunning villas and hotels.
 
-**Location** | The Cali Villas is a charming oasis just a 10-minute walk from Canggu Beach, blending Palm Springs allure with the island's natural charm. (🗺️[Map Guide](https://gobaligo.id/map/canggu/)
+**Location** | The Cali Villas is a charming oasis just a 10-minute walk from Canggu Beach, blending Palm Springs allure with the island's natural charm. (🗺️[Map Guide](/map/canggu/)
 
 **Amenities** | Each villa's interior is as pure as a cloud, with white walls. Cacti stand like guardians, adding a touch of desert whimsy to the environment. Inside, soft bedding invites guests to relax and dream, while a private pool sparkles daily, offering a sanctuary for repose in Bali's eternal summer. The villas offer two- to three-bedroom options, all equipped with modern amenities including air conditioning, Bose sound systems, fully equipped kitchens, and a well-stocked minibar. Additionally, the villas provide 24-hour gated security, ensuring safety and tranquility for all guests.
 
@@ -383,7 +383,7 @@ Beyond being a haven for Instagram-worthy cafes, Canggu's canvas has expanded to
 
 Watching the rice fields sway in the breeze, accompanied by the gentle chirping of birds, the whisper of the wind, and the warm touch of the sun, the tranquility of a private pool is truly unmatched.
 
-**Location** | Shore Amora Canggu is a short distance from Pererenan Beach, surrounded by trendy cafes perfect for couples to step out for a meal between embraces. (🗺️[Map Guide](https://gobaligo.id/map/canggu/)
+**Location** | Shore Amora Canggu is a short distance from Pererenan Beach, surrounded by trendy cafes perfect for couples to step out for a meal between embraces. (🗺️[Map Guide](/map/canggu/)
 
 **Amenities** | At Shore Amora, couples can enjoy a variety of relaxing and artistic activities, including pottery or perfume workshops, 'Sip and Paint' sessions, yoga classes, surfing, or boxing lessons. The villa features a private pool and hammock chairs for couples to enjoy time together.
 
@@ -417,7 +417,7 @@ At La Rose Villas and Suites Camp, you'll be immersed in a tropical paradise.
 
 Its unique design, landscaping, and attention to detail make this property, rich in traditional Balinese character, both memorable and standout.
 
-**Location** | The hotel is 750 meters from Batu Bolong Beach. Several restaurants are within 100 meters. (🗺️[Map guide](https://gobaligo.id/map/canggu/)
+**Location** | The hotel is 750 meters from Batu Bolong Beach. Several restaurants are within 100 meters. (🗺️[Map guide](/map/canggu/)
 
 **Facilities** | The hotel offers a 24-hour front desk, spa, and paid airport transfers. The private pool villa accommodates up to six guests with three bedrooms and a bathroom featuring a rain shower and separate bathtub. The villa also includes a kitchenette with a microwave, stove, and refrigerator, plus a dining table. There's an additional outdoor dining area and a spacious living area right next to the beautiful pool.
 
@@ -449,7 +449,7 @@ Its unique design, landscaping, and attention to detail make this property, rich
 
 Villa Canggu by Plataran is nestled in Bali's verdant rice paddies, set beside a tropical garden and river.
 
-**Location** | Though the hotel is in the city center, it feels wonderfully secluded. Guests stay in premium villas ranging from one to two bedrooms, most with private pools. (🗺️[Map Guide](https://gobaligo.id/map/canggu/)
+**Location** | Though the hotel is in the city center, it feels wonderfully secluded. Guests stay in premium villas ranging from one to two bedrooms, most with private pools. (🗺️[Map Guide](/map/canggu/)
 
 **Facilities** | The hotel features the luxurious Padma Spa, offering a range of therapies and beauty treatments designed to balance mind and body and rekindle your inner glow. Dining options include the popular Plataran At Canggu, a five-star restaurant set in a Joglo building, serving delicious Indonesian cuisine.
 
@@ -481,7 +481,7 @@ Villa Canggu by Plataran is nestled in Bali's verdant rice paddies, set beside a
 
 If you're searching for the best luxury villas in Canggu, Bali, check out the newly built Morning Glory Villa. Designed, built, and finished to high standards, it offers a lavish stay.
 
-**Location** | The villa is just over two kilometers from Pererenan Beach. Within a kilometer, there are three restaurants, and the nearest grocery store is a 20-minute walk away. (🗺️[Map Guide](https://gobaligo.id/map/canggu/)
+**Location** | The villa is just over two kilometers from Pererenan Beach. Within a kilometer, there are three restaurants, and the nearest grocery store is a 20-minute walk away. (🗺️[Map Guide](/map/canggu/)
 
 **Facilities** | This two-bedroom villa features a bathroom with a shower and separate bathtub, plus a kitchen equipped with a stove, refrigerator, and dishwasher. There's a dining table for six and an open-plan living area with a corner sofa. The arched veranda offers shaded seating and ceiling fans, overlooking a large pool and garden with seating and a rain shower. Paid airport transfers are available.
 
@@ -513,7 +513,7 @@ If you're searching for the best luxury villas in Canggu, Bali, check out the ne
 
 If you love exceptional architecture and light-filled rooms, the one-of-a-kind Villa Yasa is the perfect choice.
 
-**Location** | The villa is 700 meters from Batu Bolong Beach. If you prefer not to use the self-catering facilities, there are three restaurants within 200 meters. The nearest grocery store is a 20-minute walk away. (🗺️[Map Guide](https://gobaligo.id/map/canggu/)
+**Location** | The villa is 700 meters from Batu Bolong Beach. If you prefer not to use the self-catering facilities, there are three restaurants within 200 meters. The nearest grocery store is a 20-minute walk away. (🗺️[Map Guide](/map/canggu/)
 
 **Facilities** | The property offers bicycle and car rental services. This three-bedroom villa comfortably accommodates six guests. It features a massive double-height open-plan living area with a sofa and TV, a kitchen equipped with a stove, refrigerator, and coffee maker, plus a dining area. The outdoor pool is a good size, surrounded by greenery and a terrace.
 
@@ -545,7 +545,7 @@ If you love exceptional architecture and light-filled rooms, the one-of-a-kind V
 
 This modern four-star villa offers plenty of space and excellent self-catering facilities.
 
-**Location** | Villa Umami is just over a kilometer from Batu Bolong Beach and two kilometers from Pererenan Beach. There are three restaurants within 250 meters, and the nearest grocery store is a 15-minute walk away. (🗺️[Map Guide](https://gobaligo.id/map/canggu/)
+**Location** | Villa Umami is just over a kilometer from Batu Bolong Beach and two kilometers from Pererenan Beach. There are three restaurants within 250 meters, and the nearest grocery store is a 15-minute walk away. (🗺️[Map Guide](/map/canggu/)
 
 **Facilities** | The villa can accommodate up to six guests with three bedrooms. It features a large open-plan living room with a sofa, a kitchenette with a refrigerator, stove, and oven, and a dining area. The living room doors open onto a long, sunny terrace with seating and a pool of a good size. Villa Umami also offers paid airport transfer services.
 
@@ -577,7 +577,7 @@ This modern four-star villa offers plenty of space and excellent self-catering f
 
 OXO Townhouses sets a new standard for modern living in Canggu, offering a range of private villas from one-bedroom to two-bedroom units, making it the ultimate sanctuary for couples and groups of friends.
 
-**Location** | OXO Townhouses is conveniently located near Canggu Shortcut, within walking distance of Canggu's best cafes, restaurants, leisure facilities, and beaches. (🗺️[Map Guide](https://gobaligo.id/map/canggu/)
+**Location** | OXO Townhouses is conveniently located near Canggu Shortcut, within walking distance of Canggu's best cafes, restaurants, leisure facilities, and beaches. (🗺️[Map Guide](/map/canggu/)
 **Amenities** | Each studio unit features an open-plan design with generous space, a dedicated work area, and a private garden with a plunge pool. The living room, with sliding doors, seamlessly blends with the outdoor space—ideal for entertaining or finding personal tranquility. The open kitchen boasts a stylish yet functional aesthetic, with top-tier finishes and premium appliances.
 
 **Rooms** | The rooms are spacious and comfortable, blending a light industrial style with warmth, and are equipped with modern amenities to ensure a cozy stay for guests.
@@ -608,7 +608,7 @@ OXO Townhouses sets a new standard for modern living in Canggu, offering a range
 
 Domisili Villa Canggu Bali By Fays Hospitality is known for its spacious facilities, brand-new furniture, and meticulous upkeep, featuring a beautiful swimming pool and lounge area. Its standout feature is the separate guest villa design, offering added privacy. This newly completed boutique villa complex blends modern minimalist design with tropical style. ([Recommended by **Rosie Lu**](https://www.facebook.com/share/p/1E4Y3wDVig/))
 
-**Location** | The villa is situated in Canggu, surrounded by rice paddies that create a serene and relaxing atmosphere. It's about a 15-minute drive to Canggu Beach, and a 5-minute walk to restaurants and laundry services, with convenient access to the main road. (🗺️[Map Guide](https://gobaligo.id/map/canggu/)
+**Location** | The villa is situated in Canggu, surrounded by rice paddies that create a serene and relaxing atmosphere. It's about a 15-minute drive to Canggu Beach, and a 5-minute walk to restaurants and laundry services, with convenient access to the main road. (🗺️[Map Guide](/map/canggu/)
 
 **Facilities** | Each room features a private pool and kitchen, with 10 indoor pools across the resort. Free WiFi and parking are provided. The beautifully designed communal outdoor living area is the perfect spot to unwind with friends or a partner, plus 24-hour security and Amolas Cafe.
 

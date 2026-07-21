@@ -171,7 +171,7 @@ Bali di musim ramai bakal cantik banget, rame, penuh energi, tapi juga lebih mah
 
 Ringkasan checklist penting kali ini:
 
-- ✅ Booking penginapan sebulan lebih awal, kunci harga sebelum kurs naik (cek [300+ rekomendasi penginapan](https://gobaligo.id/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6) kami)
+- ✅ Booking penginapan sebulan lebih awal, kunci harga sebelum kurs naik (cek [300+ rekomendasi penginapan](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6) kami)
 - ✅ Urus eVOA online, hemat 1 jam antre
 - ✅ Ke bandara ambil waktu 3 jam, balik dari bandara ambil 3,5 jam
 - ✅ Usahakan area nginep dan area main deketan, hindari perjalanan jauh

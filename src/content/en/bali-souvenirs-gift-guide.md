@@ -295,7 +295,7 @@ A beloved Indonesian national brand you can find in supermarkets and convenience
 
 Just let it sit for 2–3 minutes to let the grounds settle, then sip only the top part. This way, you can protect your eyes naturally, without any chemical additives!
 
-Full details: [【Indonesia/Bali Coffee Powder Recommendation】Avoid This Coffee! Study of 500,000 People Shows 7x Higher Risk of Macular Degeneration — Switch to Natural, Additive-Free Kapal Api for Eye Health](https://gobaligo.id/en/blog/2026-06-19-013143/)
+Full details: [【Indonesia/Bali Coffee Powder Recommendation】Avoid This Coffee! Study of 500,000 People Shows 7x Higher Risk of Macular Degeneration — Switch to Natural, Additive-Free Kapal Api for Eye Health](/en/blog/2026-06-19-013143/)
 
 ***
 
@@ -303,8 +303,8 @@ Click the links below for more details to help you pick the best Bali souvenirs:
 
 - Bali [souvenirs you should never buy](https://youtu.be/d_TDRuMLzrQ)
 - A [large art shop just 10 minutes from the airport](https://youtu.be/mxnU1BxJCcM?t=367)
-- [Which Bali souvenirs can't be brought back to Taiwan? A complete guide to Taiwan customs rules](https://gobaligo.id/en/blog/bali-souvenirs-customs-restrictions/)
-- One-stop shopping at big supermarkets: [30+ Supermarket Map Guide: Grand Lucky, Pepito, Bintang — Full Breakdown & Local Must-Buys](https://gobaligo.id/en/blog/bali-supermarket-guide-map/)
+- [Which Bali souvenirs can't be brought back to Taiwan? A complete guide to Taiwan customs rules](/en/blog/bali-souvenirs-customs-restrictions/)
+- One-stop shopping at big supermarkets: [30+ Supermarket Map Guide: Grand Lucky, Pepito, Bintang — Full Breakdown & Local Must-Buys](/en/blog/bali-supermarket-guide-map/)
 
 ## Souvenir Wishlist
 

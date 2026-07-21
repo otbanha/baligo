@@ -17,5 +17,5 @@ _srcHash: cf1703486d6255c9025fe1536481107d
 - [👨‍👨‍👦‍👦【团体旅游如何安排】团体旅游易踩雷？5大难题你想过了吗？](/zh-cn/blog/bali-group-travel-tips/)
 - [🕍【巴厘岛凯宾斯基】限时促销 USD$349 含税+早餐+下午茶](/zh-cn/blog/apurva-kempinski-bali-deal/)
 - [🦒【巴厘岛豪华亲子团】与动物共眠：入住野生动物园饭店，6D5N USD$769](/zh-cn/blog/2026-03-29-023447/)
-- 👩‍❤️‍👨[【入住Ayana：专属两人的海岛私奔】巴厘岛 × 佩妮达岛浪漫轻奢6日游](https://gobaligo.id/zh-cn/blog/bali-romance-tour/)
-- 💥[ Ayana超杀优惠 USD$188 起](https://gobaligo.id/zh-cn/blog/Ayana-promo-2026/)
+- 👩‍❤️‍👨[【入住Ayana：专属两人的海岛私奔】巴厘岛 × 佩妮达岛浪漫轻奢6日游](/zh-cn/blog/bali-romance-tour/)
+- 💥[ Ayana超杀优惠 USD$188 起](/zh-cn/blog/Ayana-promo-2026/)

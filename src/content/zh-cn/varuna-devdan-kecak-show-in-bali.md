@@ -45,7 +45,7 @@ _srcHash: 6b173fc61b2f9902e871d45aa73a0fad
 
 **贴心提醒**：表演全长约 60 分钟，中场无休息，建议开演前先带家人上洗手间。
 
-[巴厘岛海洋公园 Varuna Show 指南：水下剧场票价、交通建议与 Bali Safari 一日游排法](https://gobaligo.id/zh-cn/blog/varuna-show-bali-safari/)
+[巴厘岛海洋公园 Varuna Show 指南：水下剧场票价、交通建议与 Bali Safari 一日游排法](/zh-cn/blog/varuna-show-bali-safari/)
 
 [> 在Klook购买Varuna Show](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)，已包含入园门票
 
@@ -63,7 +63,7 @@ _srcHash: 6b173fc61b2f9902e871d45aa73a0fad
 
 **亲子友善亮点**：现场提供儿童座椅、表演前有互动暖场，结束后还能跟舞者合照，全家回忆满满。
 
-[【巴厘岛必看】Devdan Show 天坛秀全攻略：购票优惠、座位选择与印尼五大岛文化巡礼](https://gobaligo.id/zh-cn/blog/devdan-show-nusa-dua/)
+[【巴厘岛必看】Devdan Show 天坛秀全攻略：购票优惠、座位选择与印尼五大岛文化巡礼](/zh-cn/blog/devdan-show-nusa-dua/)
 
 > > [Klook购票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1) [kkday购票](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072) [Trip购票](https://hk.trip.com/travel-guide/attraction/bali/devdan-show-10759118?curr=IDR&locale=zh-HK&poiType=3&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18064230)
 
@@ -85,7 +85,7 @@ _srcHash: 6b173fc61b2f9902e871d45aa73a0fad
 - 傍晚崖边风大，帮长辈准备薄外套
 - 火把点燃时会有一股热气和烟味，怕烟的小朋友可以往后坐
 
-[Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演（附订票信息）](https://gobaligo.id/zh-cn/blog/kecak-fire-dance-bali/)
+[Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演（附订票信息）](/zh-cn/blog/kecak-fire-dance-bali/)
 
 > [Klook购票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1304016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21638-uluwatu-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7692452023) [Kkday购票](https://www.kkday.com/zh-tw/product/129108-uluwatu-kecak-fire-dance-ticket-bali-indonesia?qs=kecak&cid=25072) [Trip购票](https://hk.trip.com/travel-guide/attraction/bali/kecak-dance-uluwatu-136629489?curr=IDR&locale=zh-HK&poiType=66&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18064230)
 
@@ -112,7 +112,7 @@ https://www.instagram.com/reel/DXOd_lRAfrM/?utm_source=ig_web_button_share_sheet
 
 **贴心提醒**：GWK园区很大，建议提早抵达顺便参观巨型神鹰雕像；前排座位能看清面具细节，但怕声响较大的孩子可选中后排。
 
-[【巴厘岛地标】GWK神鹰广场文化公园全攻略：世界最高雕像、传统舞蹈表演与美照取景点](https://gobaligo.id/zh-cn/blog/gwk-cultural-park-bali/)
+[【巴厘岛地标】GWK神鹰广场文化公园全攻略：世界最高雕像、传统舞蹈表演与美照取景点](/zh-cn/blog/gwk-cultural-park-bali/)
 
 > [Klook购票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1308000&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D267583b10e) [Trip购票](https://hk.trip.com/travel-guide/attraction/bali/garuda-wisnu-kencana-cultural-park-90757?curr=IDR&locale=zh_hk&poiType=3&ext-searchpage=1&lasttraceid=412fdea9-954a-0cc7-eab8-178eb2281978&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18082528)
 

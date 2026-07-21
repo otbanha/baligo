@@ -28,7 +28,7 @@ _srcHash: 4205fd602554bad05b0acae0d9e76629
 
 由於8月至9月係峇里島嘅旅遊旺季，落地簽證櫃檯同海關排隊時間通常要2-3個鐘以上。好彩我哋提前申請咗電子簽證（EVoA），仲用自動通關閘門，搞到成個通關過程好順利。我哋由落機到拎行李，入到入境大廳只係用咗7-8分鐘。建議大家如果可以，都係先申請電子簽證，咁樣會慳返好多時間。
 
-> 延伸閱讀：[【2026版】印尼峇里島入境使用「All Indonesia」入境卡｜1分鐘搞懂最新流程：落機→過海關→拎行李全攻略](https://gobaligo.id/zh-hk/blog/bali-all-indonesia-arrival-guide/)
+> 延伸閱讀：[【2026版】印尼峇里島入境使用「All Indonesia」入境卡｜1分鐘搞懂最新流程：落機→過海關→拎行李全攻略](/zh-hk/blog/bali-all-indonesia-arrival-guide/)
 
 ## 網卡
 
@@ -50,7 +50,7 @@ _srcHash: 4205fd602554bad05b0acae0d9e76629
 
 https://youtu.be/KQwrSiqq_Dw
 
-編按：參考我哋嘅「[峇里島分區攻略](https://gobaligo.id/zh-hk/blog/?lang=tw&cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)」就係最好嘅指南！
+編按：參考我哋嘅「[峇里島分區攻略](/zh-hk/blog/?lang=tw&cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)」就係最好嘅指南！
 
 ## 食物
 

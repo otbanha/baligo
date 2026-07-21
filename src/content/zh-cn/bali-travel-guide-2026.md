@@ -177,24 +177,24 @@ https://youtu.be/H5N5_UuK7TI
 
 我们经过多年的整理/持续更新，您可以存到手机里，不用网络也可以快速得到参考：
 
-- [库塔攻略地图](https://gobaligo.id/map/kuta/)
-- [水明漾攻略地图](https://gobaligo.id/map/seminyak/)
-- [坎古攻略地图](https://gobaligo.id/map/canggu/)
-- [努阿努创意城攻略地图](https://gobaligo.id/map/nuanu/)
-- [乌布攻略地图](https://gobaligo.id/map/ubud/)
-- [金巴兰攻略地图](https://gobaligo.id/map/jimbaran/)
-- [乌鲁瓦图攻略地图](https://gobaligo.id/map/uluwatu/)
-- [努沙杜瓦攻略地图](https://gobaligo.id/map/nusa-dua/)
-- [沙努尔攻略地图](https://gobaligo.id/map/sanur/)
-- [Amed/Tulemben攻略地图](https://gobaligo.id/map/amed/)
-- [蓝梦岛/金银岛攻略地图](https://gobaligo.id/map/lembongan/)
-- [佩尼达岛攻略地图](https://gobaligo.id/map/nusa-penida/)
+- [库塔攻略地图](/map/kuta/)
+- [水明漾攻略地图](/map/seminyak/)
+- [坎古攻略地图](/map/canggu/)
+- [努阿努创意城攻略地图](/map/nuanu/)
+- [乌布攻略地图](/map/ubud/)
+- [金巴兰攻略地图](/map/jimbaran/)
+- [乌鲁瓦图攻略地图](/map/uluwatu/)
+- [努沙杜瓦攻略地图](/map/nusa-dua/)
+- [沙努尔攻略地图](/map/sanur/)
+- [Amed/Tulemben攻略地图](/map/amed/)
+- [蓝梦岛/金银岛攻略地图](/map/lembongan/)
+- [佩尼达岛攻略地图](/map/nusa-penida/)
 
 ## 超市必买
 
 {{video1}}
 
-[巴厘岛大型超市地图](https://gobaligo.id/map/supermarket/)
+[巴厘岛大型超市地图](/map/supermarket/)
 
 {{block:klook}}
 

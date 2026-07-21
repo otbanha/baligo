@@ -136,6 +136,6 @@ https://youtu.be/czpeOwygHcE
 
 您觉得Astrid Chang他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
 
-最新更新：[科摩多正式「限客」！2026 没预约直接被赶回岸上，说走就走已成历史！](https://gobaligo.id/zh-cn/blog/komodo-booking-2026/)
+最新更新：[科摩多正式「限客」！2026 没预约直接被赶回岸上，说走就走已成历史！](/zh-cn/blog/komodo-booking-2026/)
 
 {{block:遊記}}

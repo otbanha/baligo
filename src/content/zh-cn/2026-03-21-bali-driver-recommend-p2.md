@@ -17,7 +17,7 @@ _srcHash: 49af3e4651e2d004619d00ac6f33ef7f
 
 **本页是什么**：巴厘岛包车司机「网友评鉴名人榜」第二页，收录脸书社团网友真实推荐的中文沟通司机。每位司机名下的「网友推荐」链接都是可点击查证的原始社团贴文，推荐数越多代表口碑累积越久。包车行情约 **Rp 600,000–800,000／天（含油资，约 10 小时）**，联系时请说明日期、人数与想去的区域。
 
-第一页，获得我们优先推荐的司机在[这里](https://gobaligo.id/zh-cn/blog/bali-private-car-drivers-guide/)
+第一页，获得我们优先推荐的司机在[这里](/zh-cn/blog/bali-private-car-drivers-guide/)
 
 <!-- shuffle-start -->
 

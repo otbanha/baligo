@@ -44,7 +44,7 @@ _srcHash: c834d2358af1466d8e454f2d15cf13dc
 
 ![住宿選擇](https://images.gobaligo.id/images/2026-07/1782905263415-afa7a13c21dadea57a81cc3f3dc0102b.jpg)
 
-請參考我哋超過300間住宿推薦嘅「[峇里島住宿指南](https://gobaligo.id/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)」
+請參考我哋超過300間住宿推薦嘅「[峇里島住宿指南](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)」
 
 跟住我哋介紹吓浪漫活動安排。你可以考慮參與多項浪漫活動，增添蜜月嘅特別氛圍：
 

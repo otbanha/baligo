@@ -31,7 +31,7 @@ In early August, we took a 12-day trip to Bali. The journey was full of surprise
 
 Since August to September is the peak tourist season in Bali, the queues at the visa-on-arrival counters and customs usually take over 2-3 hours. Fortunately, we applied for an electronic visa (EVoA) in advance and used the automated gates, which made the entire immigration process very smooth. From getting off the plane to picking up our luggage and entering the arrival hall, it only took 7-8 minutes. I recommend applying for an e-visa if possible, as it saves a lot of time.
 
-> Further reading: [【2026 Edition】Indonesia Bali Entry Using the "All Indonesia" Arrival Card｜Understand the Latest Process in 1 Minute: From Getting Off the Plane → Customs → Baggage Claim Full Guide](https://gobaligo.id/en/blog/bali-all-indonesia-arrival-guide/)
+> Further reading: [【2026 Edition】Indonesia Bali Entry Using the "All Indonesia" Arrival Card｜Understand the Latest Process in 1 Minute: From Getting Off the Plane → Customs → Baggage Claim Full Guide](/en/blog/bali-all-indonesia-arrival-guide/)
 
 ## SIM Card
 
@@ -53,7 +53,7 @@ Traffic in Bali can be summed up in one word: congested. Since my friend had a s
 
 https://youtu.be/KQwrSiqq_Dw
 
-Editor's note: Check out our [Bali Area Guide](https://gobaligo.id/en/blog/?lang=tw&cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5) for the best tips!
+Editor's note: Check out our [Bali Area Guide](/en/blog/?lang=tw&cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5) for the best tips!
 
 ## Food
 

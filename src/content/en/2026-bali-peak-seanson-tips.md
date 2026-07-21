@@ -171,7 +171,7 @@ Bali during peak season is beautiful, lively, and full of energy, but it's also 
 
 Here's a quick summary of key points:
 
-- ✅ Book accommodations one month early to lock in rates before they rise (see our [300+ accommodation recommendations](https://gobaligo.id/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6))
+- ✅ Book accommodations one month early to lock in rates before they rise (see our [300+ accommodation recommendations](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6))
 - ✅ Apply for eVOA online to save 1 hour of queue time
 - ✅ Allow 3 hours to get to the airport, 3.5 hours for return
 - ✅ Try to concentrate your accommodation and activities in one area to avoid long-distance travel

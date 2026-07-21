@@ -83,7 +83,7 @@ Tiga hari sebelum berangkat udah bisa lapor online, nanti tinggal screenshot QR 
 Soal pajak turis, aku juga udah bayar online duluan, sekitar USD$10.
 Sekarang di Bali banyak proses yang perlahan-lahan jadi digital, urus dari awal bener-bener ngirit banyak waktu.
 
-> [2025 Perubahan Masuk Bali Paham dalam 1 Menit: Prosedur Masuk Indonesia/Bali - Dari Turun Pesawat/Imigrasi/Ambil Bagasi](https://gobaligo.id/id/blog/2025-bali-immigration-process/)
+> [2025 Perubahan Masuk Bali Paham dalam 1 Menit: Prosedur Masuk Indonesia/Bali - Dari Turun Pesawat/Imigrasi/Ambil Bagasi](/id/blog/2025-bali-immigration-process/)
 
 ***
 
@@ -216,7 +216,7 @@ Apalagi arsitektur Kempinski sendiri megah banget, perpaduan elemen tradisional 
 
 Harga afternoon tea sekitar USD$23 per orang, menurut gue worth it untuk level hotel dan pemandangan yang ditawarkan.
 
-> [【Afternoon Tea Mewah di Bali】Kempinski (The Apurva Kempinski) Selasar Deli: Arsitektur Istana, Seni Ukir Kayu, dan Sore yang Impian](https://gobaligo.id/id/blog/kempinski-selasar-deli-afternoon-tea/)
+> [【Afternoon Tea Mewah di Bali】Kempinski (The Apurva Kempinski) Selasar Deli: Arsitektur Istana, Seni Ukir Kayu, dan Sore yang Impian](/id/blog/kempinski-selasar-deli-afternoon-tea/)
 
 ***
 
@@ -386,7 +386,7 @@ Kali ini aku balik lagi ke The Nest Boutique Spa, tempat yang hampir selalu aku 
 
 The Nest Boutique Spa (Foto: Lai Jiaying)
 
-> Termasuk dalam [【Edisi Lengkap】Rekomendasi Spa Terbaik di Bali & Kumpulan Pijat ke Villa, Dibagi per Area Biar Lebih Gampang Dicari](https://gobaligo.id/id/blog/spa/)
+> Termasuk dalam [【Edisi Lengkap】Rekomendasi Spa Terbaik di Bali & Kumpulan Pijat ke Villa, Dibagi per Area Biar Lebih Gampang Dicari](/id/blog/spa/)
 
 Sanur emang banyak banget tempat pijat, tapi aku rasa kualitas tempat ini konsisten banget.
 Lingkungannya nyaman, tekanannya pas, bukan yang asal-asalan kayak di kawasan turis.
@@ -463,7 +463,7 @@ Tapi aku harus kasih peringatan serius nih:
 Rambut basah beneran cuma bisa dikeringin alami 🤣
 Untung aku bawa handuk sendiri, kalau naik motor kena angin pasti super stres.
 
-> [【Pura Tirta Empul Bali】Panduan Lengkap: Proses Ritual Pemurnian Air Suci, Pantangan & Hal Penting yang Wajib Diketahui](https://gobaligo.id/id/blog/tirta-empul-temple-guide/)
+> [【Pura Tirta Empul Bali】Panduan Lengkap: Proses Ritual Pemurnian Air Suci, Pantangan & Hal Penting yang Wajib Diketahui](/id/blog/tirta-empul-temple-guide/)
 
 ***
 
@@ -486,7 +486,7 @@ Nggak perlu ngapa-ngapain, cukup jalan santai, lihat-lihat.
 
 Beberapa warung juga jual jajanan lokal. Kalau capek naik motor, cocok banget mampir duduk istirahat.
 
-> [Desa Penglipuran yang Abadi: Rasakan Pesona Kuno Bali](https://gobaligo.id/id/blog/penglipuran-village-bali-experience/)
+> [Desa Penglipuran yang Abadi: Rasakan Pesona Kuno Bali](/id/blog/penglipuran-village-bali-experience/)
 
 ***
 
@@ -683,7 +683,7 @@ Dan bukan cuma asal coba doang. Banyak rasa yang tropis banget, kayak kelapa, ga
 
 Awalnya cuma mau 'liat-liat doang', eh ujung-ujungnya bawa pulang satu bungkus 🤣
 
-> Termasuk dalam [【Rekomendasi Pengunjung】Panduan Oleh-Oleh Bali Lebih dari 20 Item dalam 6 Kategori: Pilihan Terbaik untuk Mengenang Momen Berharga](https://gobaligo.id/id/blog/bali-souvenirs-gift-guide/)
+> Termasuk dalam [【Rekomendasi Pengunjung】Panduan Oleh-Oleh Bali Lebih dari 20 Item dalam 6 Kategori: Pilihan Terbaik untuk Mengenang Momen Berharga](/id/blog/bali-souvenirs-gift-guide/)
 
 ***
 

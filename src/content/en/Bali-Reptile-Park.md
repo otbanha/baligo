@@ -144,7 +144,7 @@ Both parks have their own restaurants. The reptile park's restaurant is simpler,
 **【Afternoon】Bali Bird Park – Recommended 3-4 Hours**
 After lunch, just walk next door to the bird park! This sprawling sanctuary is home to over **250 species and thousands of birds** from across the Indonesian archipelago and around the world. You can step inside massive aviaries where charming hornbills and parrots fly right over your head; don’t miss the daily **parrot show** and **bird of prey show**—they’re absolutely spectacular! The park’s landscaping is incredibly tropical, with waterfalls, lotus ponds, and traditional Balinese architecture—every shot looks like a postcard.
 
-Detailed guide: [Bali Bird Park Ultimate Guide: Rare Birds, Interactive Activities, and Eco-Conservation Adventures](https://gobaligo.id/en/blog/bali-bird-park-guide/)
+Detailed guide: [Bali Bird Park Ultimate Guide: Rare Birds, Interactive Activities, and Eco-Conservation Adventures](/en/blog/bali-bird-park-guide/)
 
 > Online tickets: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D9f20741f36) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-bird-park-80525/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 

@@ -862,11 +862,11 @@ Agoda rating: 8.8. Guests praise the excellent location, direct beach access, he
 
 ## Location Map
 
-We've marked all the hotels and villas on [this map](https://gobaligo.id/map/sanur/) — feel free to save it!
+We've marked all the hotels and villas on [this map](/map/sanur/) — feel free to save it!
 
 ![請看我們的「沙努爾家庭親子攻略地圖」](https://images.gobaligo.id/vocus/vocus_91e2cc2338270b8c6dacc10d6f57eaf1.png)
 
-[Check out our Sanur Family & Kids Guide Map](https://gobaligo.id/map/sanur/)
+[Check out our Sanur Family & Kids Guide Map](/map/sanur/)
 
 Whether you're seeking a luxury getaway, a family vacation, or budget-friendly accommodation, Sanur has something for everyone. From upscale five-star stays to cozy boutique guesthouses, the diverse options here ensure every traveler can find their ideal lodging and soak up Bali's sunshine and scenery.
 

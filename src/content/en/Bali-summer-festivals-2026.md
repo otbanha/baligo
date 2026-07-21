@@ -79,4 +79,4 @@ https://www.instagram.com/p/DaZ6ebdlGL-/?igsh=bjkzMXV5eG9uZGJ2
 
 For more details and links, please refer to:
 
-[2026 Indonesia National Holidays & Bali Festival Guide: A Complete Year-Round Event Calendar!](https://gobaligo.id/en/blog/2026-bali-festival-guide/)
+[2026 Indonesia National Holidays & Bali Festival Guide: A Complete Year-Round Event Calendar!](/en/blog/2026-bali-festival-guide/)

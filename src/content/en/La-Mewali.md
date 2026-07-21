@@ -139,7 +139,7 @@ This is a private paradise designed for couples who value privacy and comfort. T
 
 This room type still maintains cave-style elements, but focuses on the room itself without a private villa. It comes equipped with a smart TV, Netflix, refrigerator, coffee/tea set, and hairdryer. The rooms are clean and bright, with comfortable beds. Some room options offer lagoon or pool views. Each room receives daily cleaning service, maintaining a consistent and elegant atmosphere suitable for visitors with different budgets.
 
-## 📍 Location & Surroundings (For location, please refer to the [Canggu Guide Map](https://gobaligo.id/map/canggu/))
+## 📍 Location & Surroundings (For location, please refer to the [Canggu Guide Map](/map/canggu/))
 
 La Mewali is located on **Jl. Raya Canggu**, not far from the liveliest area of Canggu, yet it cleverly avoids the main traffic flow, making the overall atmosphere much quieter than expected.
 

@@ -60,7 +60,7 @@ Gede 在社团拥有超多好评！[请参考这里](/zh-cn/blog/bali-private-ca
 
 由于我们这次行程还包括跳岛，因此在巴厘岛的时间只有三天。但我们却选择了三个不同的区域去游览，结果每天都在堵车中度过。如果你想要多逛一些地方，建议选择在同一区域待1-2天，这样才不会把宝贵的时间浪费在路上。
 
-> 编按：尽量小区域的移动才是巴厘岛旅游的王道啊！请看「[巴厘岛分区攻略](https://gobaligo.id/zh-cn/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)」
+> 编按：尽量小区域的移动才是巴厘岛旅游的王道啊！请看「[巴厘岛分区攻略](/zh-cn/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)」
 
 ![烏魯瓦圖火舞的門票可以在網上先買好（Sandra Yun提供）](https://images.gobaligo.id/vocus/vocus_d3a5a16996aa1d2906eea06f2716a19c.jpg)
 
@@ -72,7 +72,7 @@ Gede 在社团拥有超多好评！[请参考这里](/zh-cn/blog/bali-private-ca
 
 https://youtube.com/shorts/y5HMPegD5Rk
 
-15种意想不到的水上玩法：[https://gobaligo.id/go/15-water-sports-bali](https://gobaligo.id/go/15-water-sports-bali)
+15种意想不到的水上玩法：[/go/15-water-sports-bali](/go/15-water-sports-bali)
 
 > [预约南湾水上活动（多种组合）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F71411-tanjung-benoa-watersports-bali-bintang-dive-watersport-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dee5cfca3a7)
 

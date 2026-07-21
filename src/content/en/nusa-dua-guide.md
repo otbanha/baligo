@@ -370,7 +370,7 @@ Beyond dolphin interactions, the park also features sea lion shows, underwater o
 
 **Travel Tip:** Dolphin interaction experiences have limited availability, so it's highly recommended to book in advance through online platforms. Some interactive activities have age and height restrictions, so please check before booking.
 
-Detailed guide: [Bali Exotic Marine Park Guide: Up-Close Dolphin Encounters, Swimming with Dolphins, Crowd Avoidance Tips, and Family Itinerary Planning](https://gobaligo.id/en/blog/Bali-Exotic-Marine-Park/)
+Detailed guide: [Bali Exotic Marine Park Guide: Up-Close Dolphin Encounters, Swimming with Dolphins, Crowd Avoidance Tips, and Family Itinerary Planning](/en/blog/Bali-Exotic-Marine-Park/)
 
 > Online Tickets: [Kkday](https://www.kkday.com/zh-tw/product/138734-bali-exotic-dolphin-marine-park-indonesia?cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 

@@ -85,7 +85,7 @@ Entah kamu mau bersantai di pantai, surfing kelas dunia, atau menjelajahi pasar 
 
 ZIN Resort & Villas, akomodasi bintang empat di pusat Canggu, punya lokasi super strategis — cuma satu menit jalan kaki dari pantai. Jarak sedekat ini bikin kamu bisa santai jalan-jalan di pasir, dan dengan mudah mampir ke beach club terkenal kayak The Lawn, Echo Beach Club, La Brisa, dan lainnya.
 
-**Lokasi** | ZIN Canggu Resort & Villas cuma 1 menit jalan kaki dari Canggu Beach / 200 meter dari Nelayan Beach, dekat dengan beberapa beach club dan tempat makan terkenal. (🗺️[Petunjuk Peta](https://gobaligo.id/map/canggu/)
+**Lokasi** | ZIN Canggu Resort & Villas cuma 1 menit jalan kaki dari Canggu Beach / 200 meter dari Nelayan Beach, dekat dengan beberapa beach club dan tempat makan terkenal. (🗺️[Petunjuk Peta](/map/canggu/)
 
 **Fasilitas** | ZIN Coffee ada di pintu masuk, area resepsionis villa tersembunyi di belakang kafe. Villa terdiri dari empat villa mewah dengan kolam renang pribadi dari kayu jati, dua bamboo house dengan kolam renang pribadi, 24 kamar mewah, dan enam junior suite. Setiap unit didekorasi dengan apik, menawarkan pilihan tempat tidur king atau twin, area duduk atau sofa yang nyaman, AC menyeluruh, kipas angin gantung, smart TV, Wi-Fi gratis, dan kulkas. Tamu bisa bebas menggunakan co-working space ZIN@work dan mencicipi kopi terbaik Bali yang dipanggang langsung di tempat. Restoran menyajikan hidangan fusion internasional dan lokal. Baik menikmati makanan Mediterania di Rooftop atau bersantai di pool bar tepi sungai, semuanya menjamin pengalaman yang menyenangkan.
 
@@ -117,7 +117,7 @@ ZIN Resort & Villas, akomodasi bintang empat di pusat Canggu, punya lokasi super
 
 Villa bintang lima ini punya lantai kayu, atap alang-alang tinggi, dan furnitur kayu, memberikan pengalaman menginap ala Bali yang autentik dengan harga yang ramah di kantong.
 
-**Lokasi** | Kharista Villas berjarak 2 km dari Pantai Batu Bolong. Bahkan, dalam radius 3 km ada empat pantai. Dalam jarak 150 meter dari villa, ada tiga restoran. (🗺️[Petunjuk Peta](https://gobaligo.id/map/canggu/)
+**Lokasi** | Kharista Villas berjarak 2 km dari Pantai Batu Bolong. Bahkan, dalam radius 3 km ada empat pantai. Dalam jarak 150 meter dari villa, ada tiga restoran. (🗺️[Petunjuk Peta](/map/canggu/)
 
 **Fasilitas** | Kharista Villas menyediakan layanan antar-jemput bandara berbayar dan resepsionis 24 jam. Harga villa sudah termasuk sarapan ala carte.
 
@@ -151,7 +151,7 @@ Villa satu dan dua kamar tidur punya area duduk indoor dan outdoor, kamar mandi 
 
 Villa modern ini menawarkan ruang dan privasi, dengan harga yang sangat worth it untuk fasilitas yang disediakan!
 
-**Lokasi** | Villa bintang empat ini berjarak satu kilometer dari Pantai Pererenan dan Pantai Echo. (🗺️[Petunjuk Peta](https://gobaligo.id/map/canggu/)
+**Lokasi** | Villa bintang empat ini berjarak satu kilometer dari Pantai Pererenan dan Pantai Echo. (🗺️[Petunjuk Peta](/map/canggu/)
 
 **Fasilitas** | Le Paradis Villas menyediakan layanan sewa sepeda dan mobil, serta antar-jemput bandara berbayar. Sarapan ala Amerika sudah termasuk dalam harga villa. Spa di dalam hotel menawarkan pijat dan bak air panas.
 
@@ -185,7 +185,7 @@ Villa satu, dua, dan tiga kamar tidur masing-masing memiliki pintu masuk bergaya
 
 Villa bintang empat khusus dewasa ini punya desain modern yang mencolok, dengan atap tinggi miring, tangga terbuka, serta furnitur dan dekorasi modern yang kece.
 
-**Lokasi** | River Studio berjarak 700 meter dari Pantai Pererenan, jalan kaki 13 menit ke Pantai Seseh. Dalam radius 200 meter ada beberapa kafe dan restoran. (🗺️[Petunjuk Peta](https://gobaligo.id/map/canggu/)
+**Lokasi** | River Studio berjarak 700 meter dari Pantai Pererenan, jalan kaki 13 menit ke Pantai Seseh. Dalam radius 200 meter ada beberapa kafe dan restoran. (🗺️[Petunjuk Peta](/map/canggu/)
 
 **Fasilitas** | Vila ini punya satu kamar tidur, ruang tamu besar, satu kamar mandi dengan shower hujan, dan dapur kecil lengkap dengan oven, pemanggang roti, dan kulkas. Pintu lipat mengarah ke kolam renang kecil dan teras yang teduh dengan kursi santai. Ada juga layanan rental mobil di lokasi.
 
@@ -215,7 +215,7 @@ Villa bintang empat khusus dewasa ini punya desain modern yang mencolok, dengan 
 
 Vila dengan desain unik ini adalah tempat liburan sempurna untuk pasangan atau keluarga kecil di jantung Canggu yang super hidup.
 
-**Lokasi** | THE WĀVE BALI terletak di lingkungan yang tenang, tapi tetap dekat dengan kafe, restoran, dan spa paling keren di Canggu, plus Pantai Echo — semuanya bisa dijangkau dengan jalan kaki singkat. (🗺️[Petunjuk Peta](https://gobaligo.id/map/canggu/)
+**Lokasi** | THE WĀVE BALI terletak di lingkungan yang tenang, tapi tetap dekat dengan kafe, restoran, dan spa paling keren di Canggu, plus Pantai Echo — semuanya bisa dijangkau dengan jalan kaki singkat. (🗺️[Petunjuk Peta](/map/canggu/)
 
 **Fasilitas** | Vila THE WĀVE BALI punya dua kamar tidur dan dua kolam renang pribadi: kolam besar di lantai dasar dan kolam renang hydromassage di atap dengan pemandangan sawah yang keren abis. Ada juga dekorasi mandi bunga, sarapan terapung, pijat di vila, sopir pribadi, layanan belanja, layanan koki, dan pelatih fitness atau surfing pribadi (dengan biaya tambahan).
 
@@ -249,7 +249,7 @@ Interior vila memadukan gaya modern dan kontemporer dengan sempurna, ditambah se
 
 Villa bintang lima ini punya pesona dan kemewahan yang kental. Kalau kamu lagi cari private pool villa di Canggu yang oke punya, Ametis wajib masuk list utama kamu.
 
-**Lokasi** | Villa ini cuma 300 meter dari Pantai Batu Bolong, dan 3 menit naik mobil ke Echo Beach. (🗺️[Petunjuk peta](https://gobaligo.id/map/canggu/)
+**Lokasi** | Villa ini cuma 300 meter dari Pantai Batu Bolong, dan 3 menit naik mobil ke Echo Beach. (🗺️[Petunjuk peta](/map/canggu/)
 
 **Fasilitas** | Kompleks villa privat ini menyediakan layanan jemput bandara gratis dan antar-jemput gratis di area Canggu. Ada spa, restoran dengan hidangan fine dining, dan lobi pusat dengan perpustakaan. Setiap villa punya area duduk semi-terbuka atau tertutup, kamar tidur dan kamar mandi yang lebih besar dari rata-rata, dengan shower hujan dan bathtub. Ada juga sun deck dengan kursi santai. Villa yang lebih besar punya dapur mini dengan kulkas dan mesin kopi, plus area makan. Semua villa dilengkapi layanan butler 24 jam. Kolam renang infinity pribadi luas dan privasinya terjaga.
 
@@ -283,7 +283,7 @@ Villa bintang lima ini punya pesona dan kemewahan yang kental. Kalau kamu lagi c
 
 Boutique villa Theanna Villa and Spa di Canggu ini menawarkan desain interior kelas atas dan pelayanan pelanggan yang juara.
 
-**Lokasi** | Hotel ini ada di gang tenang Canggu, sekitar 2 km dari Pantai Batu Bolong, 6 menit naik mobil ke Echo Beach. Dalam radius 100 meter ada tiga restoran. (🗺️[Petunjuk peta](https://gobaligo.id/map/canggu/)
+**Lokasi** | Hotel ini ada di gang tenang Canggu, sekitar 2 km dari Pantai Batu Bolong, 6 menit naik mobil ke Echo Beach. Dalam radius 100 meter ada tiga restoran. (🗺️[Petunjuk peta](/map/canggu/)
 
 **Fasilitas** | Theanna Villa and Spa punya resepsionis 24 jam, restoran, bar, minimarket kecil, dan ATM. Ada juga layanan laundry dengan biaya tambahan. Spa di dalam hotel menawarkan pijat, plus ada sepeda gratis dan antar-jemput area lokal gratis. 17 vila satu dan dua kamar tidur dilengkapi area duduk, ruang makan outdoor, dan kamar mandi dengan bathtub serta shower terpisah. Kolam renangnya adalah plunge pool, kecuali Vila Kirana yang punya kolam besar.
 
@@ -315,7 +315,7 @@ Boutique villa Theanna Villa and Spa di Canggu ini menawarkan desain interior ke
 
 Clifton Canggu Villas menawarkan vila nyaman dan mewah di lokasi pusat yang super strategis.
 
-**Lokasi** | Vila ini cuma 200 meter dari Pantai Nelayan dan 600 meter dari Pantai Batu Bolong. Banyak pilihan tempat makan dalam jarak jalan kaki. (🗺️[Petunjuk peta](https://gobaligo.id/map/canggu/)
+**Lokasi** | Vila ini cuma 200 meter dari Pantai Nelayan dan 600 meter dari Pantai Batu Bolong. Banyak pilihan tempat makan dalam jarak jalan kaki. (🗺️[Petunjuk peta](/map/canggu/)
 
 **Fasilitas** | Setiap vila pribadi punya satu kamar tidur, satu kamar mandi dengan shower hujan, dan area duduk. Sarapan à la carte tersedia setiap hari (dengan biaya tambahan). Kolam renang pribadi ukurannya pas buat pasangan, dan dinding tinggi di sekitar kolam serta teras menjamin privasi. Vila juga menyediakan antar-jemput bandara berbayar dan resepsionis 24 jam.
 
@@ -347,7 +347,7 @@ Clifton Canggu Villas menawarkan vila nyaman dan mewah di lokasi pusat yang supe
 
 Selain jadi surga kafe Instagramable, Canggu sekarang juga punya banyak villa dan hotel kece yang estetik banget.
 
-**Lokasi** | The Cali Villas cuma 10 menit jalan kaki dari Pantai Canggu. Tempat ini oase yang memadukan pesona Palm Springs dengan keindahan alami pulau Bali. (🗺️[Petunjuk peta](https://gobaligo.id/map/canggu/)
+**Lokasi** | The Cali Villas cuma 10 menit jalan kaki dari Pantai Canggu. Tempat ini oase yang memadukan pesona Palm Springs dengan keindahan alami pulau Bali. (🗺️[Petunjuk peta](/map/canggu/)
 
 **Fasilitas** | Interior setiap villa seputih awan, dengan dinding putih bersih. Kaktus berdiri seperti penjaga, menambah sentuhan gurun yang unik. Di dalamnya ada tempat tidur empuk yang mengundang kamu untuk bersantai dan bermimpi, plus kolam renang pribadi yang berkilau setiap hari—surga buat bersantai di musim panas Bali yang abadi. Villa tersedia pilihan 2 hingga 3 kamar tidur, semuanya dilengkapi fasilitas modern seperti AC, sistem audio Bose, dapur lengkap, dan minibar yang isinya banyak. Selain itu, ada keamanan 24 jam buat memastikan kenyamanan dan ketenangan semua tamu.
 
@@ -379,7 +379,7 @@ Kamar | Interior villa ini elegan, setiap kamar tidur punya tempat tidur nyaman 
 
 Melihat sawah bergoyang ditiup angin, ditemani kicauan burung, bisikan angin, dan hangatnya matahari—sensasi damai di kolam renang pribadi itu nggak ada duanya.
 
-**Lokasi** | Shore Amora Canggu dekat dari Pantai Pererenan, dikelilingi banyak kafe kekinian. Cocok buat pasangan yang pengin keluar santai sambil menikmati kuliner. (🗺️[Petunjuk peta](https://gobaligo.id/map/canggu/)
+**Lokasi** | Shore Amora Canggu dekat dari Pantai Pererenan, dikelilingi banyak kafe kekinian. Cocok buat pasangan yang pengin keluar santai sambil menikmati kuliner. (🗺️[Petunjuk peta](/map/canggu/)
 
 **Fasilitas** | Di Shore Amora, pasangan bisa ikut berbagai aktivitas santai dan seni, seperti workshop keramik atau wewangian, kelas 'Sip and Paint', yoga, surfing, atau tinju. Villa punya kolam renang pribadi, plus kursi hammock buat quality time berdua.
 
@@ -413,7 +413,7 @@ Di La Rose Villas and Suites Camp, kamu bakal tenggelam dalam surga tropis bange
 
 Desainnya yang unik, pemandangannya, dan perhatian terhadap detail bikin properti dengan banyak ciri khas tradisional Bali ini jadi nggak terlupakan dan standout.
 
-**Lokasi** | Hotel ini cuma 750 meter dari Pantai Batu Bolong. Dalam radius 100 meter ada beberapa restoran. (🗺️[Petunjuk Peta](https://gobaligo.id/map/canggu/)
+**Lokasi** | Hotel ini cuma 750 meter dari Pantai Batu Bolong. Dalam radius 100 meter ada beberapa restoran. (🗺️[Petunjuk Peta](/map/canggu/)
 
 **Fasilitas** | Hotel punya resepsionis 24 jam, spa, dan layanan antar-jemput bandara berbayar. Vila dengan kolam renang pribadi bisa muat sampai enam orang, dengan tiga kamar tidur dan satu kamar mandi yang ada shower hujan dan bathtub terpisah. Vila juga dilengkapi dapur kecil dengan microwave, kompor, dan kulkas, plus meja makan. Di sampingnya ada area makan outdoor tambahan dan ruang tamu luas yang langsung menghadap kolam renang cantik.
 
@@ -445,7 +445,7 @@ Desainnya yang unik, pemandangannya, dan perhatian terhadap detail bikin propert
 
 Villa Canggu by Plataran ada di tengah sawah hijau Bali, dikelilingi taman tropis dan sungai.
 
-**Lokasi** | Meskipun hotel ini berada di pusat kota, rasanya cukup terpencil. Tamu menginap di vila-vila premium, mulai dari satu kamar tidur hingga dua kamar tidur, kebanyakan punya kolam renang pribadi. (🗺️[Petunjuk Peta](https://gobaligo.id/map/canggu/)
+**Lokasi** | Meskipun hotel ini berada di pusat kota, rasanya cukup terpencil. Tamu menginap di vila-vila premium, mulai dari satu kamar tidur hingga dua kamar tidur, kebanyakan punya kolam renang pribadi. (🗺️[Petunjuk Peta](/map/canggu/)
 
 **Fasilitas** | Hotel ini punya Padma Spa yang mewah, menawarkan berbagai terapi dan perawatan kecantikan untuk menyeimbangkan tubuh dan pikiran, serta menyalakan kembali cahaya batin. Pilihan makan di vila termasuk Plataran At Canggu yang populer banget, restoran bintang lima di dalam bangunan Joglo, menyajikan masakan Indonesia yang lezat.
 
@@ -477,7 +477,7 @@ Villa Canggu by Plataran ada di tengah sawah hijau Bali, dikelilingi taman tropi
 
 Kalau kamu lagi cari vila mewah terbaik di Canggu, Bali, wajib cek Morning Glory Villa yang baru dibangun. Vila ini didesain, dibangun, dan didekorasi dengan standar tinggi, bikin pengalaman menginap terasa super mewah.
 
-**Lokasi** | Vila ini jaraknya sedikit lebih dari dua kilometer dari Pantai Pererenan. Dalam radius satu kilometer dari vila, ada tiga restoran, dan toko kelontong terdekat butuh jalan kaki 20 menit. (🗺️[Petunjuk Peta](https://gobaligo.id/map/canggu/)
+**Lokasi** | Vila ini jaraknya sedikit lebih dari dua kilometer dari Pantai Pererenan. Dalam radius satu kilometer dari vila, ada tiga restoran, dan toko kelontong terdekat butuh jalan kaki 20 menit. (🗺️[Petunjuk Peta](/map/canggu/)
 
 **Fasilitas** | Vila dua kamar tidur ini punya kamar mandi dengan shower dan bathtub terpisah, dapur lengkap dengan kompor, kulkas, dan mesin pencuci piring. Ada meja makan untuk enam orang dan ruang tamu terbuka dengan sofa sudut. Balkon melengkung punya kursi teduh dan kipas gantung, menghadap ke kolam renang besar dan taman yang dilengkapi kursi dan shower hujan. Hotel menyediakan layanan antar-jemput bandara berbayar.
 
@@ -509,7 +509,7 @@ Kalau kamu lagi cari vila mewah terbaik di Canggu, Bali, wajib cek Morning Glory
 
 Kalau kamu suka arsitektur keren dan ruangan yang terang benderang, Villa Yasa yang unik banget ini pilihan sempurna.
 
-**Lokasi** | Villa ini cuma 700 meter dari Pantai Batu Bolong. Kalau males masak sendiri, ada tiga restoran dalam radius 200 meter. Toko kelontong terdekat jalan kaki 20 menit. (🗺️[Petunjuk peta](https://gobaligo.id/map/canggu/)
+**Lokasi** | Villa ini cuma 700 meter dari Pantai Batu Bolong. Kalau males masak sendiri, ada tiga restoran dalam radius 200 meter. Toko kelontong terdekat jalan kaki 20 menit. (🗺️[Petunjuk peta](/map/canggu/)
 
 **Fasilitas** | Hotel nyediain sewa sepeda dan mobil. Villa tiga kamar tidur ini muat nyaman buat enam orang. Ada ruang tamu terbuka dua lantai yang gede banget, lengkap sofa dan TV, dapur dengan kompor, kulkas, dan mesin kopi, plus area makan. Kolam renang outdoor ukurannya pas, dikelilingi tanaman hijau dan teras.
 
@@ -541,7 +541,7 @@ Kalau kamu suka arsitektur keren dan ruangan yang terang benderang, Villa Yasa y
 
 Villa bintang empat modern ini punya ruang yang luas dan fasilitas mandiri yang oke.
 
-**Lokasi** | Villa Umami jaraknya sedikit lebih dari 1 km dari Pantai Batu Bolong, dan 2 km dari Pantai Pererenan. Ada tiga restoran dalam radius 250 meter, toko kelontong terdekat jalan kaki 15 menit. (🗺️[Petunjuk peta](https://gobaligo.id/map/canggu/)
+**Lokasi** | Villa Umami jaraknya sedikit lebih dari 1 km dari Pantai Batu Bolong, dan 2 km dari Pantai Pererenan. Ada tiga restoran dalam radius 250 meter, toko kelontong terdekat jalan kaki 15 menit. (🗺️[Petunjuk peta](/map/canggu/)
 
 **Fasilitas** | Villa ini bisa muat sampai enam orang dengan tiga kamar tidur. Ada ruang tamu terbuka besar dengan sofa, dapur kecil lengkap kulkas, kompor, dan oven, plus area makan. Pintu ruang tamu mengarah ke teras berjemur yang memanjang, lengkap kursi dan kolam renang ukuran pas. Villa Umami juga menyediakan layanan antar-jemput bandara berbayar.
 
@@ -573,7 +573,7 @@ Villa bintang empat modern ini punya ruang yang luas dan fasilitas mandiri yang 
 
 OXO Townhouses menetapkan standar baru untuk kehidupan modern di Canggu, menawarkan deretan vila pribadi mulai dari satu kamar hingga dua kamar, menjadi surga utama bagi pasangan dan grup teman.
 
-**Lokasi** | OXO Townhouses dekat dengan Canggu Shorcut, aksesnya mudah, dan berjalan kaki bisa sampai ke kafe, restoran, fasilitas rekreasi, dan pantai terbaik di Canggu. (🗺️[Petunjuk Peta](https://gobaligo.id/map/canggu/)
+**Lokasi** | OXO Townhouses dekat dengan Canggu Shorcut, aksesnya mudah, dan berjalan kaki bisa sampai ke kafe, restoran, fasilitas rekreasi, dan pantai terbaik di Canggu. (🗺️[Petunjuk Peta](/map/canggu/)
 **Fasilitas** | Setiap unit studio memiliki desain terbuka dengan ruang yang luas, area kerja khusus, serta taman pribadi dan kolam renang dangkal. Ruang tamu dengan pintu geser menyatu mulus dengan ruang luar, cocok untuk menjamu tamu atau mencari ketenangan pribadi. Dapur terbuka memiliki estetika fungsional yang stylish, dengan finishing premium dan peralatan rumah tangga kelas atas.
 
 **Kamar** | Kamar-kamarnya luas dan nyaman, bergaya industrial ringan namun tetap hangat, dilengkapi fasilitas modern untuk kenyamanan tamu.
@@ -604,7 +604,7 @@ OXO Townhouses menetapkan standar baru untuk kehidupan modern di Canggu, menawar
 
 Domisili Villa Canggu Bali By Fays Hospitality terkenal dengan fasilitas luas, furnitur baru, dan perawatan yang teliti, memiliki kolam renang cantik dan area bersantai. Keunikannya terletak pada desain kamar vila terpisah yang memberikan lebih banyak privasi. Ini adalah kompleks vila butik yang baru selesai dibangun, dengan desain modern minimalis yang dipadukan dengan gaya tropis. ([Rekomendasi **Rosie Lu**](https://www.facebook.com/share/p/1E4Y3wDVig/))
 
-**Lokasi** | Vila ini terletak di Canggu, dikelilingi sawah yang menciptakan suasana tenang dan santai, sekitar 15 menit berkendara ke Pantai Canggu, 5 menit jalan kaki ke restoran dan laundry, akses mudah dan dekat dengan jalan utama. (🗺️[Petunjuk Peta](https://gobaligo.id/map/canggu/)
+**Lokasi** | Vila ini terletak di Canggu, dikelilingi sawah yang menciptakan suasana tenang dan santai, sekitar 15 menit berkendara ke Pantai Canggu, 5 menit jalan kaki ke restoran dan laundry, akses mudah dan dekat dengan jalan utama. (🗺️[Petunjuk Peta](/map/canggu/)
 
 **Fasilitas**｜Setiap kamar punya kolam renang pribadi dan dapur. Seluruh resort dilengkapi 10 kolam renang indoor, WiFi gratis, dan parkir. Ruang tamu outdoor bersama didesain cantik dan nyaman, tempat sempurna buat santai bareng teman atau pasangan. Juga ada keamanan 24 jam dan Amolas Cafe.
 

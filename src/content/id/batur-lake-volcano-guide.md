@@ -33,7 +33,7 @@ originalUrl: 'https://vocus.cc/article/68e786abfd89780001c1b9b7'
 lang: id
 _srcHash: 849def694057ff25877763d47da624a0
 ---
-<a href="https://gobaligo.id/map/kintamani/" style="display:block;background:linear-gradient(135deg,#ff6b35,#f7c948,#2ec4b6);color:#fff;font-size:1.1rem;font-weight:700;text-align:center;padding:14px 20px;border-radius:12px;text-decoration:none;margin-bottom:24px;letter-spacing:0.03em;box-shadow:0 4px 16px rgba(0,0,0,0.18);">🗺️ Peta Interaktif Kintamani × Gunung Batur ── Spot, Kafe, Pemandian Air Panas dalam Satu Gambar →</a>
+<a href="/map/kintamani/" style="display:block;background:linear-gradient(135deg,#ff6b35,#f7c948,#2ec4b6);color:#fff;font-size:1.1rem;font-weight:700;text-align:center;padding:14px 20px;border-radius:12px;text-decoration:none;margin-bottom:24px;letter-spacing:0.03em;box-shadow:0 4px 16px rgba(0,0,0,0.18);">🗺️ Peta Interaktif Kintamani × Gunung Batur ── Spot, Kafe, Pemandian Air Panas dalam Satu Gambar →</a>
 
 ## **Keindahan Megah dan Tenang Danau Batur Gunung Batur**
 
@@ -101,7 +101,7 @@ Pengalaman ini cocok banget buat:
 
 Seluruh perjalanan sekitar 8 jam, biaya sudah termasuk jemputan hotel, tiket masuk tempat wisata, sopir guide berbahasa Inggris, layanan fotografi profesional, serta camilan dan air mineral.
 
-**Referensi Cepat:** [Gak perlu bangun pagi juga bisa taklukkan gunung berapi di Bali! Tur Jeep Sunset bikin kamu gampang dapetin foto keren](https://gobaligo.id/id/blog/batur-volcano-sunset-jeep-tour/)
+**Referensi Cepat:** [Gak perlu bangun pagi juga bisa taklukkan gunung berapi di Bali! Tur Jeep Sunset bikin kamu gampang dapetin foto keren](/id/blog/batur-volcano-sunset-jeep-tour/)
 
 ***
 
@@ -199,4 +199,4 @@ Kebanyakan sopir sewaan bisa ngatur trip sehari penuh.
 
 {{block:ubud}}
 
-<a href="https://gobaligo.id/map/kintamani/" style="display:block;background:linear-gradient(135deg,#ff6b35,#f7c948,#2ec4b6);color:#fff;font-size:1.1rem;font-weight:700;text-align:center;padding:14px 20px;border-radius:12px;text-decoration:none;margin-top:24px;letter-spacing:0.03em;box-shadow:0 4px 16px rgba(0,0,0,0.18);">🗺️ Peta Interaktif Wisata Kintamani ── Cek peta dulu sebelum berangkat, biar makin lancar! →</a>
+<a href="/map/kintamani/" style="display:block;background:linear-gradient(135deg,#ff6b35,#f7c948,#2ec4b6);color:#fff;font-size:1.1rem;font-weight:700;text-align:center;padding:14px 20px;border-radius:12px;text-decoration:none;margin-top:24px;letter-spacing:0.03em;box-shadow:0 4px 16px rgba(0,0,0,0.18);">🗺️ Peta Interaktif Wisata Kintamani ── Cek peta dulu sebelum berangkat, biar makin lancar! →</a>

@@ -44,12 +44,12 @@ In Indonesia or Bali, there are many common expenses. Here are some examples:
 
 1. Accommodation: On average, mid-range hotels cost around 400K-800K IDR per night, while upscale resorts start at 1000K IDR and above.
 
-> Check out our [Bali Accommodation Guide](https://gobaligo.id/en/blog/?lang=tw&cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
+> Check out our [Bali Accommodation Guide](/en/blog/?lang=tw&cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 
 2. Dining: A meal at a simple local eatery may cost you 20K-100K IDR, while higher-end restaurants can be more expensive.
 3. Transportation: Short taxi or motorbike rides typically range from 20K-100K IDR, while a full-day car rental may cost between 600K-800K IDR.
 
-> See our [Bali Driver Recommendations](https://gobaligo.id/en/blog/bali-private-car-drivers-guide/)
+> See our [Bali Driver Recommendations](/en/blog/bali-private-car-drivers-guide/)
 
 ## **Managing Expenses**
 

@@ -164,9 +164,9 @@ Currently, there are branches in both Seminyak and Sanur, each featuring a semi-
 
 ![詳細地圖指引請按我](https://images.gobaligo.id/vocus/vocus_0c6c580e3c91135f65bd62b34da3d3f8.jpg)
 
-[Click for Detailed Map Guide](https://gobaligo.id/map/seminyak/)
+[Click for Detailed Map Guide](/map/seminyak/)
 
-Beyond the restaurants listed above, we've handpicked 25 more popular eateries, all included in our carefully crafted [Seminyak Food Map](https://gobaligo.id/map/seminyak/). From local street food and ocean-view dining to specialty cafés, we've got it all covered. Click to view and save this map, making it easy to plan every meal and never miss a must-try spot.
+Beyond the restaurants listed above, we've handpicked 25 more popular eateries, all included in our carefully crafted [Seminyak Food Map](/map/seminyak/). From local street food and ocean-view dining to specialty cafés, we've got it all covered. Click to view and save this map, making it easy to plan every meal and never miss a must-try spot.
 
 {{block:smk}}
 

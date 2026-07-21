@@ -120,7 +120,7 @@ After the tour, we asked Komang to take us to our favorite restaurant of the tri
 
 In the morning, we set off from Ubud to Tanah Lot Temple. You may need to wade through water to reach the temple, so it's best to wear water-friendly shoes and shorts. I've heard the sunset view is stunning, but unfortunately, our schedule placed us there at noon, so we couldn't enjoy it.
 
-> [Must-Visit Bali Attraction: Tanah Lot Temple Detailed Guide with Tides and Nearby Spots](https://gobaligo.id/en/blog/bali-tanah-lot-guide/)
+> [Must-Visit Bali Attraction: Tanah Lot Temple Detailed Guide with Tides and Nearby Spots](/en/blog/bali-tanah-lot-guide/)
 
 When we arrived at Tanah Lot, we realized we had accidentally taken the key from the previous night's hotel. Komang immediately offered to return it for us in a couple of days (after getting approval from the hotel manager, a lovely lady). We were so grateful to him!
 

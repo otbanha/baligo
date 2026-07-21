@@ -35,7 +35,7 @@ _srcHash: 7c7ccb757d75728db50ffcb686f5e693
 
 **快啲參考：**
 
-> 最新版：[【入境規定】2026峇里島旅遊前必完成嘅3大步驟](https://gobaligo.id/zh-hk/blog/2025-bali-immigration-process/)
+> 最新版：[【入境規定】2026峇里島旅遊前必完成嘅3大步驟](/zh-hk/blog/2025-bali-immigration-process/)
 
 ***
 
@@ -51,7 +51,7 @@ _srcHash: 7c7ccb757d75728db50ffcb686f5e693
 
 過年係旅遊旺季，機票價錢本來就貴到嚇親人，但有時候轉個角度諗，稍微提高少少預算揀商務艙，反而可能會有意外驚喜。今次嘅經驗令我深刻體會到，靈活調整預算同選擇，可以令旅程更加舒適愉快。
 
-> [峇里島機票點買最平？Trip.com 搜尋技巧同慳錢攻略](https://gobaligo.id/zh-hk/blog/ticket/)
+> [峇里島機票點買最平？Trip.com 搜尋技巧同慳錢攻略](/zh-hk/blog/ticket/)
 
 ***
 
@@ -133,7 +133,7 @@ _srcHash: 7c7ccb757d75728db50ffcb686f5e693
 
 > [峇里島旅遊：三房/四房以上嘅家庭別墅住宿推薦](/zh-hk/blog/bali-group-villa-stay/)
 
-> [你訂嘅 Airbnb 民宿可能 8 月消失？印尼政府鐵腕拆遷同合法酒店 Villa 避雷指南](https://gobaligo.id/zh-hk/blog/airbnb-alert-2026/)
+> [你訂嘅 Airbnb 民宿可能 8 月消失？印尼政府鐵腕拆遷同合法酒店 Villa 避雷指南](/zh-hk/blog/airbnb-alert-2026/)
 
 ***
 

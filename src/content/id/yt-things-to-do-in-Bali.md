@@ -58,7 +58,7 @@ Crazy with YU芳婷视频截图
 
 Ngomongin Bali, cobain nginep di tempat unik juga wajib banget. Mereka nginep di vila bambu alami di Ubud, semalem cuma USD$257 udah dapet kolam renang pribadi, dapur, dan dua kamar tidur — worth it banget. Desain vilanya kreatif, pas masuk ada kolam renang pribadi, area sofa di samping kolam bisa buat party kecil. Lantai dua ada kamar mandi sendiri dengan kaca besar langsung ke area mandi alami, suasananya tenang dan bikin betah. Dari balkon bisa lihat pemandangan gunung, tempat oke buat ngopi atau minum-minum santai.
 
-> [Jelajahi 10 Tree House / Bamboo Villa di Ubud yang Bikin Tercengang](https://gobaligo.id/id/blog/ubud-treehouse-bamboo-villa-stays/)
+> [Jelajahi 10 Tree House / Bamboo Villa di Ubud yang Bikin Tercengang](/id/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ## 4. Ayunan Bali
 

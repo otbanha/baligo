@@ -102,7 +102,7 @@ Mau cari sopir yang oke wajib lihat▶「[Daftar Sopir Sewa Mobil Terbaik di Bal
 
 ![峇里島包車FAQ](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
 
-Cek: [【Pengumuman Transportasi Bali 2026】Penyesuaian Tarif Sewa Mobil per 1 Juli: Harga Terbaru & Cara Hitung Biaya dari Tim Driver](https://gobaligo.id/id/blog/bali-car-charter-rates-2026/)
+Cek: [【Pengumuman Transportasi Bali 2026】Penyesuaian Tarif Sewa Mobil per 1 Juli: Harga Terbaru & Cara Hitung Biaya dari Tim Driver](/id/blog/bali-car-charter-rates-2026/)
 
 **Apa itu mobil 5 penumpang?**
 

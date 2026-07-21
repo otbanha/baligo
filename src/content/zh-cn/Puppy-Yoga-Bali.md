@@ -89,6 +89,6 @@ https://www.instagram.com/reel/DLOYzxLSP47/?utm_source=ig_web_button_share_sheet
 
 如果你喜欢正式的瑜伽课程请参考：
 
-> [巴厘岛乌布瑜伽住宿推荐：10间结合瑜伽课程与心灵放松的梦幻选择](https://gobaligo.id/zh-cn/blog/ubud-yoga-retreats-bali/)
+> [巴厘岛乌布瑜伽住宿推荐：10间结合瑜伽课程与心灵放松的梦幻选择](/zh-cn/blog/ubud-yoga-retreats-bali/)
 
 {{block:戶外}}

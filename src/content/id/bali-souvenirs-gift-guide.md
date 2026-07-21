@@ -295,7 +295,7 @@ Kalau kamu mau beli diffuser atau produk wewangian lainnya, selain ke markas Sec
 
 沖泡時只要靜置2-3分鐘讓咖啡渣沉澱，只喝上半部，就能用最天然、無化學負擔的方式守護靈魂之窗！
 
-詳細介紹：[【印尼/峇里島咖啡粉推薦】這種咖啡要少喝！50萬人研究：增7倍黃斑部病變風險，改喝天然無添加印尼國民咖啡 Kapal Api 護眼選品](https://gobaligo.id/id/blog/2026-06-19-013143/)
+詳細介紹：[【印尼/峇里島咖啡粉推薦】這種咖啡要少喝！50萬人研究：增7倍黃斑部病變風險，改喝天然無添加印尼國民咖啡 Kapal Api 護眼選品](/id/blog/2026-06-19-013143/)
 
 ***
 
@@ -303,8 +303,8 @@ Kalau kamu mau beli diffuser atau produk wewangian lainnya, selain ke markas Sec
 
 - 峇里島[千萬不要買的紀念品](https://youtu.be/d_TDRuMLzrQ)
 - 離機場10分鐘的[大型藝品店介紹](https://youtu.be/mxnU1BxJCcM?t=367)
-- [這些峇里島伴手禮不能帶回台灣！一次搞懂台灣海關規定](https://gobaligo.id/id/blog/bali-souvenirs-customs-restrictions/)
-- 大型超市一次購足：[30+ 間大型超市地圖指南：Grand Lucky、Pepito、Bintang 全解析與在地人必買清單](https://gobaligo.id/id/blog/bali-supermarket-guide-map/)
+- [這些峇里島伴手禮不能帶回台灣！一次搞懂台灣海關規定](/id/blog/bali-souvenirs-customs-restrictions/)
+- 大型超市一次購足：[30+ 間大型超市地圖指南：Grand Lucky、Pepito、Bintang 全解析與在地人必買清單](/id/blog/bali-supermarket-guide-map/)
 
 ## 伴手禮募集中
 

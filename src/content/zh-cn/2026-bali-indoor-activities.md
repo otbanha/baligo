@@ -46,7 +46,7 @@ https://youtube.com/shorts/POSTtRPKK5c
 
 Trans Studio Bali本身就是一个大型购物中心，而位于顶楼的超大室内游乐场有七大主题区，拥有23个游乐设施和景点，玩一整天都玩不完！如果您在巴厘岛旅行时遇到下雨，原来的计划无法进行，请不要担心！Trans Studio Bali室内主题乐园将为您提供一个充满乐趣和刺激的一天。请看上面小杰介绍的短片。
 
-详细介绍：[【巴厘岛室内景点】Trans Studio Bali 完全攻略：必玩五大设施](https://gobaligo.id/zh-cn/blog/trans-studio-bali/)
+详细介绍：[【巴厘岛室内景点】Trans Studio Bali 完全攻略：必玩五大设施](/zh-cn/blog/trans-studio-bali/)
 
 > [Trans Studio优惠门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794706&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99048-trans-studio-bali-ticket%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3D80fb6fdbba)
 

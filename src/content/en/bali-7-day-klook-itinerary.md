@@ -77,7 +77,7 @@ We departed promptly at 7:30 AM from our hotel, with private transfers making th
 
 https://youtu.be/H-IocbLNpE4
 
-> [Lempuyang Temple Gates of Heaven In-Depth Guide | Reflections on Your Phone Screen? How to Navigate the Six Temples? Full Cost and Route Breakdown](https://gobaligo.id/en/blog/lempuyang-temple-gate-of-heaven/)
+> [Lempuyang Temple Gates of Heaven In-Depth Guide | Reflections on Your Phone Screen? How to Navigate the Six Temples? Full Cost and Route Breakdown](/en/blog/lempuyang-temple-gate-of-heaven/)
 
 Next, we visited **Swing Heaven**, which offered more than just swings—there were multiple Instagram-worthy spots for stunning photos. 🌺 Our guide even helped with angles, showcasing top-notch photography skills!
 

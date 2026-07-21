@@ -31,7 +31,7 @@ Community Recommendations
 
 ![Betty Pinsky & 小吳](https://images.gobaligo.id/images/2026-03/1774787507921-pinsky_new.jpg)
 
-For our top picks on Page 1, see [here](https://gobaligo.id/en/blog/bali-private-car-drivers-guide/)
+For our top picks on Page 1, see [here](/en/blog/bali-private-car-drivers-guide/)
 
 ## Jimmi Liu
 

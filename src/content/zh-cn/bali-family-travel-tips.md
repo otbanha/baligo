@@ -30,9 +30,9 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 而每个人都必须填写/缴交的电子申报单/观光税，请参阅底下链接：
 
-> 延伸阅读：[印尼/巴厘岛入境流程 - 下飞机/过海关/到领行李的流程](https://gobaligo.id/zh-cn/blog/bali-all-indonesia-arrival-guide/)
+> 延伸阅读：[印尼/巴厘岛入境流程 - 下飞机/过海关/到领行李的流程](/zh-cn/blog/bali-all-indonesia-arrival-guide/)
 
-事先办理电子签证的好处是下飞机后完全免排队，还可以使用自动通关，省略移民局查核护照。唯有一点就是未满6岁的小朋友不能使用自动通关，但是有专属柜台协助通关（请看：[入境印尼/巴厘岛的小朋友签证/儿童签证攻略](https://gobaligo.id/zh-cn/blog/bali-child-visa-guide/)）
+事先办理电子签证的好处是下飞机后完全免排队，还可以使用自动通关，省略移民局查核护照。唯有一点就是未满6岁的小朋友不能使用自动通关，但是有专属柜台协助通关（请看：[入境印尼/巴厘岛的小朋友签证/儿童签证攻略](/zh-cn/blog/bali-child-visa-guide/)）
 
 ###
 
@@ -48,7 +48,7 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 本表仅供参考，实际保障内容以各保险公司商品为主
 
-> [【巴厘岛旅游保险】台港马新旅客必看！投保指南、海外医疗与不便险理赔避雷重点整理](https://gobaligo.id/zh-cn/blog/bali-travel-insurance-guide/)
+> [【巴厘岛旅游保险】台港马新旅客必看！投保指南、海外医疗与不便险理赔避雷重点整理](/zh-cn/blog/bali-travel-insurance-guide/)
 
 ###
 
@@ -153,7 +153,7 @@ _srcHash: 7fa947adf33727addbea3f57bc91b390
 
 巴厘岛有许多小贩/掮客专宰观光客，要小心提防。
 
-[> 巴厘岛安全吗？揭露最新 6 大观光诈骗！换钱、假签证、热点陷阱...看到这种人请立刻转身！](https://gobaligo.id/zh-cn/blog/bali-tourist-scams-2026/)
+[> 巴厘岛安全吗？揭露最新 6 大观光诈骗！换钱、假签证、热点陷阱...看到这种人请立刻转身！](/zh-cn/blog/bali-tourist-scams-2026/)
 
 ### 注意治安：
 

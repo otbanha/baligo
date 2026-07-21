@@ -369,7 +369,7 @@ Selain interaksi lumba-lumba, taman ini juga punya pertunjukan singa laut, kolam
 
 **Tips traveling:** Kuota interaksi lumba-lumba terbatas banget, mending pesan jauh-jauh hari lewat platform online. Beberapa aktivitas punya batasan umur dan tinggi badan, pastikan cek dulu sebelum booking.
 
-Baca selengkapnya: [Panduan Lengkap Bali Exotic Marine Park: Interaksi Super Dekat, Berenang Bareng Lumba-lumba, Tips Hindari Keramaian & Rencana Perjalanan Keluarga](https://gobaligo.id/id/blog/Bali-Exotic-Marine-Park/)
+Baca selengkapnya: [Panduan Lengkap Bali Exotic Marine Park: Interaksi Super Dekat, Berenang Bareng Lumba-lumba, Tips Hindari Keramaian & Rencana Perjalanan Keluarga](/id/blog/Bali-Exotic-Marine-Park/)
 
 > Beli Tiket Online: [Kkday](https://www.kkday.com/zh-tw/product/138734-bali-exotic-dolphin-marine-park-indonesia?cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 

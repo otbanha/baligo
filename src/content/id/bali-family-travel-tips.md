@@ -35,9 +35,9 @@ Sekarang masuk Indonesia wajib pakai visa, ya! Wisatawan Taiwan bisa mengurus **
 
 Setiap orang juga wajib mengisi/membayar e-Deklarasi dan pajak wisatawan. Cek link di bawah ini:
 
-> Baca juga: [Prosedur Masuk Indonesia/Bali - Turun Pesawat/Lewat Imigrasi/Ambil Bagasi](https://gobaligo.id/id/blog/bali-all-indonesia-arrival-guide/)
+> Baca juga: [Prosedur Masuk Indonesia/Bali - Turun Pesawat/Lewat Imigrasi/Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
 
-Keuntungan urus e-Visa dari rumah: begitu turun pesawat, kamu nggak perlu antre sama sekali, bahkan bisa pakai jalur otomatis (autogate) — nggak perlu diperiksa manual oleh petugas imigrasi. Cuma satu catatan: anak di bawah 6 tahun nggak bisa pakai autogate, tapi ada konter khusus yang bantu proses imigrasi (cek: [Panduan Visa Anak untuk Masuk Indonesia/Bali](https://gobaligo.id/id/blog/bali-child-visa-guide/))
+Keuntungan urus e-Visa dari rumah: begitu turun pesawat, kamu nggak perlu antre sama sekali, bahkan bisa pakai jalur otomatis (autogate) — nggak perlu diperiksa manual oleh petugas imigrasi. Cuma satu catatan: anak di bawah 6 tahun nggak bisa pakai autogate, tapi ada konter khusus yang bantu proses imigrasi (cek: [Panduan Visa Anak untuk Masuk Indonesia/Bali](/id/blog/bali-child-visa-guide/))
 
 ###
 
@@ -53,7 +53,7 @@ Disarankan untuk membeli asuransi perjalanan luar negeri demi melindungi hak kam
 
 Tabel ini hanya sebagai referensi, isi perlindungan sebenarnya tergantung pada produk masing-masing perusahaan asuransi.
 
-> [【Asuransi Perjalanan Bali】Wajib Dibaca untuk Traveler dari Taiwan, Hong Kong, Malaysia, Singapura! Panduan Asuransi, Klaim Medis Luar Negeri & Keterlambatan Penerbangan](https://gobaligo.id/id/blog/bali-travel-insurance-guide/)
+> [【Asuransi Perjalanan Bali】Wajib Dibaca untuk Traveler dari Taiwan, Hong Kong, Malaysia, Singapura! Panduan Asuransi, Klaim Medis Luar Negeri & Keterlambatan Penerbangan](/id/blog/bali-travel-insurance-guide/)
 
 ###
 
@@ -158,7 +158,7 @@ Pas liburan di Bali, kamu harus jaga kebersihan makanan, biar terhindar dari dia
 
 Di Bali banyak pedagang kaki lima atau calo yang suka nipu turis, jadi kamu harus waspada.
 
-[Bali aman nggak sih? Bocoran 6 Penipuan Turis Terbaru! Tukar uang, visa palsu, jebakan tempat wisata... Kalau lihat orang kayak gini, langsung minggir!](https://gobaligo.id/id/blog/bali-tourist-scams-2026/)
+[Bali aman nggak sih? Bocoran 6 Penipuan Turis Terbaru! Tukar uang, visa palsu, jebakan tempat wisata... Kalau lihat orang kayak gini, langsung minggir!](/id/blog/bali-tourist-scams-2026/)
 
 ### Jaga Keamanan:
 

@@ -220,7 +220,7 @@ Pengalaman paling seru di sini adalah **meminta staf membantu melilitkan ular pi
 
 Pemandu menemani全程, menjelaskan detail kebiasaan setiap hewan dan status konservasinya, jadi perjalanan 'keberanian' ini sekaligus jadi pelajaran alam yang hidup.
 
-Info lengkap: [Panduan Bali Reptile Park: Lihat Komodo dari dekat, interaksi akrab dengan piton raksasa, harga tiket, dan tips liburan keluarga](https://gobaligo.id/id/blog/Bali-Reptile-Park/)
+Info lengkap: [Panduan Bali Reptile Park: Lihat Komodo dari dekat, interaksi akrab dengan piton raksasa, harga tiket, dan tips liburan keluarga](/id/blog/Bali-Reptile-Park/)
 
 > Beli tiket online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F37955-bali-reptile-park-ticket%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7db7e3e24e) [Kkday](https://www.kkday.com/zh-tw/product/593869?qs=Bali+Reptile+Park&cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-reptile-park-128527409/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -278,7 +278,7 @@ Di Ubud, main ayunan aja bisa jadi pengalaman seru bareng keluarga. Di beberapa 
 
 Ini aktivitas seru yang bikin orang tua dan anak bisa bareng-bareng bikin kenangan manis. Anak-anak bisa asyik main ayunan sambil menikmati pemandangan alam khas Ubud, dan berbagi tawa bareng orang tua. Pengalaman unik ini pasti bakal nambah kehangatan dan keceriaan di perjalanan kalian.
 
-> [8 Rekomendasi Jungle Swing Terbaik: Tips Sewa Gaun, Sudut Foto, dan Cara Hindari Keramaian](https://gobaligo.id/id/blog/ubud-jungle-swings-photo-guide/)
+> [8 Rekomendasi Jungle Swing Terbaik: Tips Sewa Gaun, Sudut Foto, dan Cara Hindari Keramaian](/id/blog/ubud-jungle-swings-photo-guide/)
 
 ### Pengalaman Naik Balon Udara
 
@@ -407,7 +407,7 @@ Area tamannya aman dan bersih, hewan-hewannya jinak, cocok banget buat anak-anak
 
 Pas ke Bali lagi, jangan lupa masukin farm seru di pegunungan ini ke itinerary, bikin kenangan paling hangat bareng si kecil!
 
-Info lengkap: [Panduan Bali Farm House: Kebun Eropa di Pegunungan Bali, Interaksi Alpaca, dan Tips Tiket](https://gobaligo.id/id/blog/Bali-Farm-House/)
+Info lengkap: [Panduan Bali Farm House: Kebun Eropa di Pegunungan Bali, Interaksi Alpaca, dan Tips Tiket](/id/blog/Bali-Farm-House/)
 
 > Tiket diskon Bali Farm House [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1300404&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F118362-bali-farm-house-ticket%2F%3Fgad_source%3D1%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D47343%26utm_term%3D%26dd_referrer%3Dhttps%253A%252F%252Fwww.google.com%252F%26spm%3DLanguageCurrencySelectionPopup.MoreCurrency_LIST%26clickId%3Ded57c98434) [Trip](https://www.trip.com/travel-guide/attraction/bali/bali-farm-house-147620140/?locale=en-ID&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17788038)
 

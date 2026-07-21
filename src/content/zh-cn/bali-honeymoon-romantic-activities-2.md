@@ -44,7 +44,7 @@ _srcHash: c834d2358af1466d8e454f2d15cf13dc
 
 ![住宿選擇](https://images.gobaligo.id/images/2026-07/1782905263415-afa7a13c21dadea57a81cc3f3dc0102b.jpg)
 
-请参考我们超过300家住宿推荐的「[巴厘岛住宿指南](https://gobaligo.id/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%8D%90)」
+请参考我们超过300家住宿推荐的「[巴厘岛住宿指南](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%8D%90)」
 
 接下来我们介绍一下浪漫活动安排。您可以考虑参与多项浪漫活动，增添蜜月的特别氛围：
 

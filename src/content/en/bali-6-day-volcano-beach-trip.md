@@ -169,7 +169,7 @@ Photo by Yushan Dai
 
 Photo by Yushan Dai
 
-> [Bali Uluwatu Temple / Kecak Dance Travel Guide: Must-See Highlights & Practical Tips](https://gobaligo.id/en/blog/uluwatu-temple-travel-guide/)
+> [Bali Uluwatu Temple / Kecak Dance Travel Guide: Must-See Highlights & Practical Tips](/en/blog/uluwatu-temple-travel-guide/)
 
 - Suluban Beach (stunning beach!)
 
@@ -183,7 +183,7 @@ https://youtu.be/hQbBTktqEqY
 
 This trip was incredibly rewarding. If you're planning a trip to Bali, feel free to use my itinerary as a reference!
 
-> [【Recommended by Travelers】Over 20 Types of Bali Souvenirs: The Perfect Guide to Cherish Your Memories](https://gobaligo.id/en/blog/bali-souvenirs-gift-guide/)
+> [【Recommended by Travelers】Over 20 Types of Bali Souvenirs: The Perfect Guide to Cherish Your Memories](/en/blog/bali-souvenirs-gift-guide/)
 
 ## 【Bali Private Driver Recommendation Part 2】
 

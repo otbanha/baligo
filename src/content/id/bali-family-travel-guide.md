@@ -47,7 +47,7 @@ Bali adalah salah satu destinasi wisata paling populer di Asia, dan juga ramah b
 - [Tempat Gratis Ramah Anak di Seminyak](https://www.youtube.com/watch?v=A4oeJvzmdTU&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW)
 - [Campuhan Ridge Walk Ubud: Dekat dengan Alam](/id/blog/ubud-campuhan-ridge-walk/)
 - [Snorkeling Keluarga di Nusa Penida](/id/blog/nusa-penida-snorkeling-guide/)
-- [【Tempat Indoor Bali】Panduan Lengkap Trans Studio Bali: 5 Wahana Wajib Coba](https://gobaligo.id/id/blog/trans-studio-bali/)
+- [【Tempat Indoor Bali】Panduan Lengkap Trans Studio Bali: 5 Wahana Wajib Coba](/id/blog/trans-studio-bali/)
 - [Petualangan ATV 4 Roda di Hutan untuk Anak SD ke Atas](https://www.youtube.com/watch?v=9w6dllhn3h8&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW)
 - [River Tubing Versi Bayi yang Aman & Mudah](/id/blog/nukuwera-river-tubing-adventure/)
 - [Cycling di Ubud: Pengalaman Unik Menjelajah Bali](https://bit.ly/3pOCueS)
@@ -72,10 +72,10 @@ Bali adalah salah satu destinasi wisata paling populer di Asia, dan juga ramah b
 - [The Firefly Garden: Tempat Konservasi & Wisata Paling Berkilau di Bali](/id/blog/the-firefly-garden-ubud/)
 - [🎮 ZONE OUT Bali: Pangkalan Petualangan VR Paling Keren di Kuta!](/id/blog/zone-out-bali-vr-adventure/)
 - [Hikaria Ubud: Pengalaman Seni Cahaya Imersif di Hutan Malam Bali](/id/blog/hikaria-ubud-light-show/)
-- [Bali Exotic Marine Park: Interaksi Seru dengan Lumba-lumba, Wajib Kunjungi Keluarga](https://gobaligo.id/id/blog/Bali-Exotic-Marine-Park/)
-- [【Tempat Wisata Keluarga Bali】Panduan Bali Reptile Park: Lihat Komodo dari Dekat, Interaksi dengan Ular Raksasa](https://gobaligo.id/id/blog/Bali-Reptile-Park/)
-- [【Tempat Wisata Keluarga Bali】Panduan Bali Farm House: Kebun Eropa di Pegunungan Bali, Interaksi dengan Alpaka](https://gobaligo.id/id/blog/Bali-Farm-House/)
-- [【Tempat Wisata Keluarga Bali】Panduan Lengkap 10 Taman Bermain Terbaik: Safari, Lumba-lumba, Waterpark](https://gobaligo.id/id/blog/top-10-kids-attractions-in-bali/)
+- [Bali Exotic Marine Park: Interaksi Seru dengan Lumba-lumba, Wajib Kunjungi Keluarga](/id/blog/Bali-Exotic-Marine-Park/)
+- [【Tempat Wisata Keluarga Bali】Panduan Bali Reptile Park: Lihat Komodo dari Dekat, Interaksi dengan Ular Raksasa](/id/blog/Bali-Reptile-Park/)
+- [【Tempat Wisata Keluarga Bali】Panduan Bali Farm House: Kebun Eropa di Pegunungan Bali, Interaksi dengan Alpaka](/id/blog/Bali-Farm-House/)
+- [【Tempat Wisata Keluarga Bali】Panduan Lengkap 10 Taman Bermain Terbaik: Safari, Lumba-lumba, Waterpark](/id/blog/top-10-kids-attractions-in-bali/)
 
 ## Cara Nikmati Aktivitas Ini
 

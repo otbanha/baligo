@@ -49,4 +49,4 @@ In mid-2026, Bali welcomes a series of major religious and cultural festivals th
 - **Local Village and Nature Festivals (June–July):** Highlights include the Pandawa Beach Festival in the south (June 18–20), the Penglipuran Village Festival (July 10–12) celebrating traditional village architecture and lifestyle, and the Jatiluwih Rice Terrace Festival (July 20–22) held at a UNESCO World Heritage site, blending agriculture with hiking activities.
 - **International Beach and Music Events (July–August):** In July and August, Sanur Beach hosts the spectacular Bali Kite Festival with giant traditional kite competitions (exact dates TBD). Following that, the Ubud Jazz Festival (UVJF), recognized as one of Indonesia's top ten national events, will take center stage on August 7–8, bringing together world-class musicians for an international musical feast.
 
-> [2026 Indonesia National Holidays & Bali Festivals Full-Year Guide: A Complete List of Exciting Event Dates!](https://gobaligo.id/en/blog/2026-bali-festival-guide/)
+> [2026 Indonesia National Holidays & Bali Festivals Full-Year Guide: A Complete List of Exciting Event Dates!](/en/blog/2026-bali-festival-guide/)

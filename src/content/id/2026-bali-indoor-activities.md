@@ -54,7 +54,7 @@ https://youtube.com/shorts/POSTtRPKK5c
 
 Trans Studio Bali itu sebenarnya mall besar, dan di lantai paling atas ada taman bermain indoor super luas dengan 7 zona tema, punya 23 wahana dan atraksi — main seharian pun nggak bakal habis! Kalau lagi traveling di Bali terus tiba-tiba hujan, rencana awal jadi berantakan, jangan khawatir! Trans Studio Bali indoor theme park bakal kasih kamu hari yang penuh keseruan dan tantangan. Cek video singkat dari Xiao Jie di atas ya.
 
-Baca selengkapnya: [【Destinasi Indoor di Bali】Panduan Lengkap Trans Studio Bali: 5 Wahana Wajib Coba](https://gobaligo.id/id/blog/trans-studio-bali/)
+Baca selengkapnya: [【Destinasi Indoor di Bali】Panduan Lengkap Trans Studio Bali: 5 Wahana Wajib Coba](/id/blog/trans-studio-bali/)
 
 > [Tiket Diskon Trans Studio](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794706&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99048-trans-studio-bali-ticket%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3D80fb6fdbba)
 

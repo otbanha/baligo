@@ -15,6 +15,6 @@ _srcHash: aafe9088e14f31a2efee051bea844bd0
 
 ## 库塔住宿主题介绍
 
-- [库塔海滩旁精选酒店 18 家](https://gobaligo.id/admin/)
+- [库塔海滩旁精选酒店 18 家](/admin/)
 - [库塔 12 间精选市区酒店](/zh-cn/blog/best-kuta-hotels-list/)
 - [巴厘岛团体自由行旅游：库塔包栋villa 三房/四房/五房/六房以上的家庭别墅住宿推荐](/zh-cn/blog/bali-group-villa-stay/)

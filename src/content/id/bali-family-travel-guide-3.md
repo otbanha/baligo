@@ -41,7 +41,7 @@ Perjalanan ini emang ada sedikit drama, tapi bikin aku makin sadar betapa pentin
 
 **Referensi Cepat:**
 
-> Versi terbaru: [【Aturan Masuk】3 Langkah Wajib Sebelum Liburan ke Bali 2026](https://gobaligo.id/id/blog/2025-bali-immigration-process/)
+> Versi terbaru: [【Aturan Masuk】3 Langkah Wajib Sebelum Liburan ke Bali 2026](/id/blog/2025-bali-immigration-process/)
 
 ***
 
@@ -57,7 +57,7 @@ Makanan Bisnis Class
 
 Imlek emang high season, harga tiket udah pasti bikin melongo. Tapi kadang kalau dipikir ulang, naikin sedikit budget buat ambil bisnis class malah bisa jadi kejutan seru. Pengalaman kali ini bikin saya sadar, fleksibel soal budget dan pilihan bisa bikin perjalanan makin nyaman dan asik.
 
-> [Cara termurah beli tiket Bali? Tips cari dan hemat di Trip.com](https://gobaligo.id/id/blog/ticket/)
+> [Cara termurah beli tiket Bali? Tips cari dan hemat di Trip.com](/id/blog/ticket/)
 
 ***
 
@@ -139,7 +139,7 @@ Soal akomodasi, pengalaman nginep villa kali ini bikin sekeluarga puas banget. A
 
 > [Rekomendasi Villa Keluarga 3-4 Kamar di Bali](/id/blog/bali-group-villa-stay/)
 
-> [Airbnb-mu Mungkin Hilang Agustus? Panduan Hindari Penggusuran & Villa Legal di Bali](https://gobaligo.id/id/blog/airbnb-alert-2026/)
+> [Airbnb-mu Mungkin Hilang Agustus? Panduan Hindari Penggusuran & Villa Legal di Bali](/id/blog/airbnb-alert-2026/)
 
 ***
 

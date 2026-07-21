@@ -43,15 +43,15 @@ embeds: []
 lang: en
 _srcHash: a513f26570e8b234cd7a1361abc532cc
 ---
-**Key Highlights**: This is the second half of our 5-day, 4-night Bali travelogue, following the route **Seminyak → Ubud → Seminyak**. Must-visit spots worth bookmarking: **Kilo Kitchen** (restaurant) in Seminyak, **Bintang Supermarket** (souvenir shopping), Berry Amour romantic villa; **Sangeh Monkey Forest** in Ubud, Sun Sun Warung and Pak Malen's Babi Guling (local cuisine), and Ubud Traditional Spa. For the first two days' Jimbaran route and airport arrival, check out [Part 1](https://gobaligo.id/en/blog/2026-03-29-092243/).
+**Key Highlights**: This is the second half of our 5-day, 4-night Bali travelogue, following the route **Seminyak → Ubud → Seminyak**. Must-visit spots worth bookmarking: **Kilo Kitchen** (restaurant) in Seminyak, **Bintang Supermarket** (souvenir shopping), Berry Amour romantic villa; **Sangeh Monkey Forest** in Ubud, Sun Sun Warung and Pak Malen's Babi Guling (local cuisine), and Ubud Traditional Spa. For the first two days' Jimbaran route and airport arrival, check out [Part 1](/en/blog/2026-03-29-092243/).
 
 > The following travelogue is adapted from a post shared by [YiShawn Huang](https://www.facebook.com/share/p/1DGMfZ4ZNV/)
 
-If you haven't read the previous post yet, I recommend starting with **《[Bali 5-Day 4-Night Free & Easy (Part 1)](https://gobaligo.id/en/blog/2026-03-29-092243/)》**, which covers everything from arriving in Bali, airport entry, Jimbaran accommodation, food, beach sunsets, SPA, and the itinerary for the first two days—it'll make for a more cohesive read.
+If you haven't read the previous post yet, I recommend starting with **《[Bali 5-Day 4-Night Free & Easy (Part 1)](/en/blog/2026-03-29-092243/)》**, which covers everything from arriving in Bali, airport entry, Jimbaran accommodation, food, beach sunsets, SPA, and the itinerary for the first two days—it'll make for a more cohesive read.
 
 ![峇里島五天四夜自由行（下）：水明漾、烏布、美食、Villa、猴子森林完整遊記](https://images.gobaligo.id/images/2026-06/1782646762456-_2026-06-28_18.38.54.png)
 
-[Click here for Part 1: Jimbaran Four Seasons Stay Experience](https://gobaligo.id/en/blog/2026-03-29-092243/)
+[Click here for Part 1: Jimbaran Four Seasons Stay Experience](/en/blog/2026-03-29-092243/)
 
 The first part mainly followed the **Jimbaran** route, staying in a private villa, enjoying sea views, indulging in massages and specialty restaurants—a relaxed pace that truly kicked off this long-awaited Bali trip.
 
@@ -113,7 +113,7 @@ If we had to choose between the two villas on this trip, we personally preferred
 
 ![第三天](https://images.gobaligo.id/images/2026-03/1774366776561-496470436.jpg)
 
-Berry Amour Romantic Villas is a five-star rated romantic villa complex with 20 villas, accepting only couples and guests aged 16 and above. [Here](https://gobaligo.id/en/blog/seminyak-private-villas-guide/#berry-amour-romantic-villas) is a detailed introduction.
+Berry Amour Romantic Villas is a five-star rated romantic villa complex with 20 villas, accepting only couples and guests aged 16 and above. [Here](/en/blog/seminyak-private-villas-guide/#berry-amour-romantic-villas) is a detailed introduction.
 
 > Berry Amour Romantic Villas rates & availability: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=444466) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=981717&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6zszFJMEk9YCZY1LfmywhRgOLiUKOhbZc1xcfmuDgefirRkx_0RSHAJ4ZjFe_Wq9gZNzI2H8IKFif67CDkekAI9MJxr36C5hm7PjMeoqFmeMExyWWr0zR1UrZqZVKViY6SiWZJTmpSlZKz-b0Pu2e-WLTbiUdpZTU4mSgEJCVmJtfmlcCZJuaWOgZGABFShIrPFOUrMx1lJITc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdgMUsbDEnNJUiBOAFrqlQu0wrtXBdPnTRfOeNux5vqKVOJebUNvlhsS43LA29hELU3TsJxaGXywMTawMXawMk1iZOfbq72Jlc_Y3iXIKkVI0NDAwMDI1NTLXNUi0TASCJF0TSxNjAwtdQ2MjEwtjM43WsxtnPDU2spZinXLg-TR2BUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWyGpsauRqZRNlzMni5Bgvf-s-RqK1vaSzGHhLsorrzJvPbAhNP2WsyhwS6G4IRmIO0QaPFFjP-95QL7SJh8EmtVhm5IeEaveAFjAyNTFyO3AKMHYwRjBZDHuIqRYQMj4w7G_zDA-IoRZDoAOORmMs4CAAA&masterhotelid_tracelogid=100025527-0a9aaaab-494308-1324836&detailFilters=17%7C1~17~1*31%7C981717~31~981717*80%7C2%7C1~80~2*29%7C1~29~1%7C2&display=incavg&subStamp=1220&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/mGE2HtVB)
 
@@ -185,7 +185,7 @@ This time, we chose the **Rice Farmer Massage** package, which includes a **60-m
 
 The massage therapist’s pressure wasn’t as precise as the spas we visited earlier, but the overall service, ambiance, and price were great. For Ubud’s city center, the value for money is quite high. If you’re planning a full day of shopping and sightseeing in Ubud, ending with a relaxing massage before heading back to the hotel makes for a wonderfully comfortable itinerary.
 
-> [【Highlights】Top-Rated Spas in Bali & In-Room Massage Guide: Organized by Area for Easy Browsing](https://gobaligo.id/en/blog/spa/)
+> [【Highlights】Top-Rated Spas in Bali & In-Room Massage Guide: Organized by Area for Easy Browsing](/en/blog/spa/)
 
 {{block:ubud}}
 

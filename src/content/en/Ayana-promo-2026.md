@@ -117,7 +117,7 @@ AYANA Resort is one of Bali's most popular five-star resorts, featuring a privat
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783681096008-spa-on-the-rock.jpeg)
 
-Want to learn more about Ayana? Check out our 👉[ Ayana Guide](https://gobaligo.id/en/blog/ayana-resort-bali-guide/)
+Want to learn more about Ayana? Check out our 👉[ Ayana Guide](/en/blog/ayana-resort-bali-guide/)
 
 ## Book Now for Exclusive Deals
 

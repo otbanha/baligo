@@ -212,7 +212,7 @@ Disediakan oleh Zhang Pingping
 
 Di Bali, buah favoritku adalah manggis. Begitu Ketut tahu kesukaan kami, dia langsung keliling cari manggis segar pas kami lagi di Spa. Dia bahkan beliin sendiri karena harga lokal bisa setengahnya, tapi kami tetap bayar. Soal durian, kami kurang beruntung dapat yang bagus. Ketut lebih jago dari penjualnya. Dia ngecek kualitas durian, kalau dibuka jelek, dia bakal bantuin kami ngomong sama penjualnya biar nggak beli buah yang jelek. Bener-bener di posisi kami buat nyelesain masalah.
 
-Referensi Cepat: [Musim Manggis - Si Ratu Buah Tropis di Indonesia/Bali](https://gobaligo.id/id/blog/bali-mangosteen-season/)
+Referensi Cepat: [Musim Manggis - Si Ratu Buah Tropis di Indonesia/Bali](/id/blog/bali-mangosteen-season/)
 
 ### Makan Malam Seafood Sambil Lihat Sunset
 

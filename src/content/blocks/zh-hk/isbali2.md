@@ -16,5 +16,5 @@ _srcHash: cf1703486d6255c9025fe1536481107d
 - [👨‍👨‍👦‍👦【團體旅遊如何安排】團體旅遊易踩雷？5大難題你想過未？](/zh-hk/blog/bali-group-travel-tips/)
 - [🕍【峇里島凱賓斯基】限時促銷 USD349 含稅+早餐+下午茶](/zh-hk/blog/apurva-kempinski-bali-deal/)
 - [🦒【峇里島豪華親子團】同動物一齊瞓：入住野生動物園酒店，6D5N USD769](/zh-hk/blog/2026-03-29-023447/)
-- 👩‍❤️‍👨[【入住Ayana：專屬兩個人嘅海島私奔】峇里島 × 佩妮達島浪漫輕奢6日遊](https://gobaligo.id/zh-hk/blog/bali-romance-tour/)
-- 💥[ Ayana超抵優惠 USD188 起](https://gobaligo.id/zh-hk/blog/Ayana-promo-2026/)
+- 👩‍❤️‍👨[【入住Ayana：專屬兩個人嘅海島私奔】峇里島 × 佩妮達島浪漫輕奢6日遊](/zh-hk/blog/bali-romance-tour/)
+- 💥[ Ayana超抵優惠 USD188 起](/zh-hk/blog/Ayana-promo-2026/)

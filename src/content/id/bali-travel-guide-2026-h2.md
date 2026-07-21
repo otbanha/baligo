@@ -74,21 +74,21 @@ _srcHash: b927526db59a80d675be856326553283
 
 - **Terasering Jatiluwih:** Juli adalah waktu terbaik untuk menikmati terasering. Cahaya pagi yang menembus sawah menciptakan pemandangan super dreamy. Selain ikut festival, kamu bisa jalan-jalan santai, keliling pakai motor, atau ikut kelas yoga di tengah sawah.
 
-> [【Panduan Terasering Bali】Perbandingan Tegallalang vs. Jatiluwih: Tiket, Musim Terbaik, & Spot Foto Lengkap (Plus Rekomendasi Rute)](https://gobaligo.id/id/blog/bali-rice-terraces-comparison/)
+> [【Panduan Terasering Bali】Perbandingan Tegallalang vs. Jatiluwih: Tiket, Musim Terbaik, & Spot Foto Lengkap (Plus Rekomendasi Rute)](/id/blog/bali-rice-terraces-comparison/)
 
 - **Pantai Sanur:** Kondisi laut paling stabil di bulan Juli, cuaca cerah. Bisa nonton Festival Layang-Layang, snorkeling, atau naik kapal ke Nusa Lembongan dan Nusa Penida.
 
-> [【Panduan Lengkap Nusa Penida, Bali】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](https://gobaligo.id/id/blog/nusa-penida-guide/)
+> [【Panduan Lengkap Nusa Penida, Bali】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)
 
-> [【Panduan Wisata Nusa Lembongan/Ceningan】Jelajahi Tempat Wisata, Kuliner, Transportasi di Lembongan/Ceningan: Surga di Dekat Bali](https://gobaligo.id/id/blog/nusa-lembongan-ceningan-guide/)
+> [【Panduan Wisata Nusa Lembongan/Ceningan】Jelajahi Tempat Wisata, Kuliner, Transportasi di Lembongan/Ceningan: Surga di Dekat Bali](/id/blog/nusa-lembongan-ceningan-guide/)
 
 - **巴杜爾火山 (Mount Batur)：** 雲海機率極高，清晨日出與山頂日光最美。
 
-> [Bali Kintamani Batur Lake Volcano｜Sunrise Hiking × Royal Boat × Lake View Cafe × Mountain Playground × Hot Spring Full Guide](https://gobaligo.id/id/blog/batur-lake-volcano-guide/)）
+> [Bali Kintamani Batur Lake Volcano｜Sunrise Hiking × Royal Boat × Lake View Cafe × Mountain Playground × Hot Spring Full Guide](/id/blog/batur-lake-volcano-guide/)）
 
 - **彭麗普蘭村 (Penglipuran Village)：** 參加傳統村莊文化節，體驗峇里阿加族的建築、生活方式與手工藝傳承。
 
-> [穿越時空的 Penglipuran 村莊：體驗峇里古老的魅力](https://gobaligo.id/id/blog/penglipuran-village-bali-experience/)
+> [穿越時空的 Penglipuran 村莊：體驗峇里古老的魅力](/id/blog/penglipuran-village-bali-experience/)
 
 ***
 
@@ -116,16 +116,16 @@ _srcHash: b927526db59a80d675be856326553283
 
 - **烏布中心區 (Ubud Center)：** 為了爵士音樂節，務必提早訂房。感受一年一度的國際音樂盛事，欣賞世界級爵士樂手的精彩演奏。
 
-[2026 Panduan Lengkap Ubud, Bali: 100 Cara Mendalami Ubud | Eksplor Pesona Ubud](https://gobaligo.id/id/blog/ubud-guide/)
+[2026 Panduan Lengkap Ubud, Bali: 100 Cara Mendalami Ubud | Eksplor Pesona Ubud](/id/blog/ubud-guide/)
 
 - **Kabupaten Buleleng:** Ikut festival budaya terbesar di Bali Utara, rasakan khas lokal dan pertunjukan tradisional. Pemandangan pegunungan Buleleng juga punya pesona tersendiri, cuaca Agustus pas banget buat petualangan.
 - **Tanah Lot:** Sambil ikut festival, nikmati pemandangan Tanah Lot yang legendaris saat matahari terbenam.
 
-> [Destinasi Wajib Kunjung di Bali: Panduan Lengkap Pura Tanah Lot — Pasang Surut & Tempat Sekitar](https://gobaligo.id/id/blog/bali-tanah-lot-guide/)
+> [Destinasi Wajib Kunjung di Bali: Panduan Lengkap Pura Tanah Lot — Pasang Surut & Tempat Sekitar](/id/blog/bali-tanah-lot-guide/)
 
 - **Pantai Sanur:** Kondisi laut di Agustus stabil, cuaca cerah, cocok buat snorkeling, olahraga air, atau naik kapal ke pulau-pulau sekitar.
 
-[【Wisata Keluarga Bali】Panduan Sanur Ultimate Map: 50+ Tempat Makan, Icon Bali Mall, Spa Mewah & Akomodasi Worth It Anti Zonk](https://gobaligo.id/id/blog/sanur-guide/)
+[【Wisata Keluarga Bali】Panduan Sanur Ultimate Map: 50+ Tempat Makan, Icon Bali Mall, Spa Mewah & Akomodasi Worth It Anti Zonk](/id/blog/sanur-guide/)
 
 ***
 
@@ -153,15 +153,15 @@ _srcHash: b927526db59a80d675be856326553283
 
 - **Taman Ayun Royal Garden:** Ikut Festival Tari Barong, tenggelam dalam keanggunan dan drama tari Bali. Tamannya sendiri juga mahakarya arsitektur, cocok buat pecinta budaya.
 
-> [【2026 登巴薩攻略】走訪全球百大城市：峇里島首府文化、歷史與美食地圖](https://gobaligo.id/id/blog/denpasar-culture-guide/)
+> [【2026 登巴薩攻略】走訪全球百大城市：峇里島首府文化、歷史與美食地圖](/id/blog/denpasar-culture-guide/)
 
 - **藍夢島 (Nusa Lembongan)：** 參加衝浪與音樂節，或享受離島的寧靜與清澈海水。記住：9/27 海洋寧靜日需提早返回。
 
-> [【倫邦岸島/藍夢島景點攻略】探索藍夢島/金銀島景點、美食、交通：峇里島的鄰近天堂](https://gobaligo.id/id/blog/nusa-lembongan-ceningan-guide/)
+> [【倫邦岸島/藍夢島景點攻略】探索藍夢島/金銀島景點、美食、交通：峇里島的鄰近天堂](/id/blog/nusa-lembongan-ceningan-guide/)
 
 - **庫塔 (Kuta)：** 暑假的人潮散去，庫塔變得比較可愛。
 
-> [峇里島庫塔攻略玩樂指南：從衝浪、購物到 SPA，解鎖 50 個必訪熱點與旅遊秘訣](https://gobaligo.id/id/blog/kuta-guide/)
+> [峇里島庫塔攻略玩樂指南：從衝浪、購物到 SPA，解鎖 50 個必訪熱點與旅遊秘訣](/id/blog/kuta-guide/)
 
 ***
 
@@ -188,15 +188,15 @@ _srcHash: b927526db59a80d675be856326553283
 
 - **Nusa Penida：** Ikut festival pulau, nikmati Heaven's Gate, tebing spektakuler, dan manta ray.
 
-> [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](https://gobaligo.id/id/blog/nusa-penida-guide/)
+> [【Bali - Panduan Lengkap Nusa Penida】Peta, Kapal, Akomodasi, Transportasi, Sewa Mobil, Aktivitas, Fotografi, Tempat Wisata](/id/blog/nusa-penida-guide/)
 
 - **Pusat Ubud (Ubud Center)：** Wajib dikunjungi pecinta sastra. Selama Festival Penulis dan Pembaca, toko buku, kafe, dan hotel di Ubud mengadakan acara terkait. Pastikan booking kamar jauh-jauh hari.
 
-> [Panduan Wisata Bali: Apa yang Harus Dilakukan di Ubud untuk Pertama Kali? 20 Rekomendasi Tempat Wisata - Panduan Ubud](https://gobaligo.id/id/blog/ubud-top-20-attractions-guide/)
+> [Panduan Wisata Bali: Apa yang Harus Dilakukan di Ubud untuk Pertama Kali? 20 Rekomendasi Tempat Wisata - Panduan Ubud](/id/blog/ubud-top-20-attractions-guide/)
 
 - **Amed dan Tulamben：** Akhir Oktober kondisi laut masih oke, cocok banget buat diving kapal karam dan foto underwater.
 
-> [Hidden Gem di Timur Laut Bali: Panduan Lengkap Amed dan Tulamben - Diving, Pura Air, dan Spot Tersembunyi](https://gobaligo.id/id/blog/amed-tulamben-diving-guide/)
+> [Hidden Gem di Timur Laut Bali: Panduan Lengkap Amed dan Tulamben - Diving, Pura Air, dan Spot Tersembunyi](/id/blog/amed-tulamben-diving-guide/)
 
 ***
 
@@ -225,12 +225,12 @@ _srcHash: b927526db59a80d675be856326553283
 
 - **烏倫達努寺 (Ulun Danu Temple) & 布拉坦湖 (Lake Bratan)：** 參加水神廟節，在湖景寺廟的莊嚴儀式中靜思。11 月的雨讓湖水更澄澈，景色更迷幻。
 
-> [2026 Bali 完整 Ubud 攻略：100種深入認識 Ubud 的方式｜探索 Ubud 的魅力](https://gobaligo.id/id/blog/ubud-guide/)
+> [2026 Bali 完整 Ubud 攻略：100種深入認識 Ubud 的方式｜探索 Ubud 的魅力](/id/blog/ubud-guide/)
 
 - **珍布拉娜西部地區 (Jembrana Regency)：** 參加竹筒音樂節與水牛賽。西 Bali 相對遊客稀少，自然景觀原始，11 月綠景最濃。
 - **Sanur：** 全月節慶，包含食品展、瑜伽課、海洋活動與文化表演。這個月份 Sanur 活力十足。
 
-> [【Bali 親子景點】Sanur 攻略 Sanur 終極地圖：50+吃喝玩樂、Icon Bali 商場、頂級 Spa 與高 CP 值住宿避雷指南](https://gobaligo.id/id/blog/sanur-guide/)
+> [【Bali 親子景點】Sanur 攻略 Sanur 終極地圖：50+吃喝玩樂、Icon Bali 商場、頂級 Spa 與高 CP 值住宿避雷指南](/id/blog/sanur-guide/)
 
 - **德哥拉朗梯田 (Tegallalang Rice Terraces)：** 11 月是梯田最翠綠的季節（水稻生長期），清晨或傍晚漫步最佳。遊客少，光線柔和，適合攝影。
 
@@ -258,15 +258,15 @@ https://youtu.be/op78Dk8CjL4
 
 - **Pantai Pandawa (Pandawa Beach):** Ikut beach festival sambil menikmati pemandangan tebing spektakuler di Bali selatan. Saat Natal, Pantai Pandawa dihias dengan nuansa perayaan.
 
-> [【Panduan Lengkap Bali Selatan 2026】Rahasia Tersembunyi Bukit Peninsula: Sunset Jimbaran, Tebing Uluwatu & Pantai Tersembunyi](https://gobaligo.id/id/blog/bukit-peninsula-guide/)
+> [【Panduan Lengkap Bali Selatan 2026】Rahasia Tersembunyi Bukit Peninsula: Sunset Jimbaran, Tebing Uluwatu & Pantai Tersembunyi](/id/blog/bukit-peninsula-guide/)
 
 - **Uluwatu:** Pemandangan sore hari di pura tebing pada bulan Desember tetap spektakuler. Kamu bisa pesan pertunjukan tari tradisional pas sunset, rayain awal musim liburan.
 
-> [【Panduan Uluwatu】50 Rekomendasi Tempat Makan & Main di Uluwatu](https://gobaligo.id/id/blog/uluwatu-guide/)
+> [【Panduan Uluwatu】50 Rekomendasi Tempat Makan & Main di Uluwatu](/id/blog/uluwatu-guide/)
 
 - **Ubud:** Meski lagi musim ramai, Ubud tetap punya nuansa budaya yang kental. Sawah teraseringnya hijau banget, paling enak jalan pagi-pagi. Bisa juga ikut kelas yoga buat healing jiwa raga.
 
-> [Terapi Gong / Sound Healing di Ubud](https://gobaligo.id/id/blog/ubud-sound-healing/)
+> [Terapi Gong / Sound Healing di Ubud](/id/blog/ubud-sound-healing/)
 
 - **Denpasar:** Ikut Denpasar Festival, saksikan perayaan akhir tahun dan suasana tahun baru di ibu kota Bali. Ada bazar, konser, dan pertunjukan budaya seru.
 
@@ -304,10 +304,10 @@ https://youtu.be/op78Dk8CjL4
 
 - Juli-Agustus & pertengahan Desember wajib booking hotel 3 bulan sebelumnya, apalagi di Ubud dan Sanur.
 
-- [更多 2026 Bali 節慶整理](https://gobaligo.id/id/blog/2026-bali-festival-guide/)
-- [2026 Bali 自由行終極指南](https://gobaligo.id/id/blog/bali-ultimate-guide-2026/)
-- [Bali 雨季旅遊完整指南](https://gobaligo.id/id/blog/bali-rainy-season-travel-guide/)
-- [【2026 Bali 下雨/躲太陽行程備案】下雨躲太陽必看！60 個超強室內行程](https://gobaligo.id/id/blog/2026-bali-indoor-activities/)
+- [更多 2026 Bali 節慶整理](/id/blog/2026-bali-festival-guide/)
+- [2026 Bali 自由行終極指南](/id/blog/bali-ultimate-guide-2026/)
+- [Bali 雨季旅遊完整指南](/id/blog/bali-rainy-season-travel-guide/)
+- [【2026 Bali 下雨/躲太陽行程備案】下雨躲太陽必看！60 個超強室內行程](/id/blog/2026-bali-indoor-activities/)
 
 ***
 

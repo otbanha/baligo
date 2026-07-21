@@ -171,7 +171,7 @@ Trans Studio Bali is a popular attraction near Kuta, close to Seminyak. It’s s
 
 https://youtube.com/shorts/POSTtRPKK5c?si=MzT-rDEK1gBqU86W
 
-> [Trans Studio Bali Detailed Guide](https://gobaligo.id/en/blog/trans-studio-bali/)
+> [Trans Studio Bali Detailed Guide](/en/blog/trans-studio-bali/)
 
 Trans Studio Bali has seven themed zones with 23 rides and attractions—you could spend a whole day here and still not see it all! If you encounter rain during your Bali trip and your original plans fall through, don't worry! Trans Studio Bali's indoor theme park will provide a day full of fun and excitement. Check out the short video above by Xiao Jie for a quick introduction.
 
@@ -457,7 +457,7 @@ As one of Bali's most popular destinations, Kuta boasts the most diverse range o
 
 [> 16 Handpicked Hotels Near Kuta Beach](/admin/)
 
-[> 12 Kuta Hotels Ultimate Guide: City Shopping, Airport Transit, and High-Value Stays](https://gobaligo.id/en/blog/best-kuta-hotels-list/)
+[> 12 Kuta Hotels Ultimate Guide: City Shopping, Airport Transit, and High-Value Stays](/en/blog/best-kuta-hotels-list/)
 
 {{block:住宿}}
 

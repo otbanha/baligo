@@ -55,7 +55,7 @@ Seluruh area taman ramah disabilitas, lengkap dengan loker, ruang ganti, dan rua
 
 **Tips perjalanan:** Saran masuk pas buka pagi-pagi biar hindari keramaian siang. Bisa beli tiket online lewat Klook atau platform lain, biasanya ada diskon.
 
-Penjelasan lengkap: [Panduan Lengkap Waterbom Bali Water Park: Water Park Terbaik se-Asia, Klasifikasi Seluncuran & Tips Hemat Tiket](https://gobaligo.id/id/blog/waterbom-bali-water-park-guide/)
+Penjelasan lengkap: [Panduan Lengkap Waterbom Bali Water Park: Water Park Terbaik se-Asia, Klasifikasi Seluncuran & Tips Hemat Tiket](/id/blog/waterbom-bali-water-park-guide/)
 
 > Beli tiket online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F175-waterbom-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D6ed5430a3c) [Kkday](https://www.kkday.com/zh-tw/product/19712-waterbom-bali-waterpark-tickets?cid=25072) [Trip](https://www.trip.com/travel-guide/attraction/bali/waterbom-bali-98347/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -73,7 +73,7 @@ Area taman dibagi menjadi beberapa zona tematik: **Zona Safari Drive-Through** a
 
 **Tips perjalanan:** Taman Safari dan Marine Safari Bali di sebelahnya bisa dibeli tiket kombo dua hari, main satu tempat per hari — CP-nya gila banget! Lihat penjelasan di bawah.
 
-Penjelasan lengkap: [[Panduan Lengkap Bali Safari 2026] Menginap di Hotel Singa, Memberi Makan Harimau dari Kandang Besi, Perbandingan Tiket Paket & Rencana Perjalanan Anti-Ribet untuk Keluarga](https://gobaligo.id/id/blog/bali-safari-night-experience/)
+Penjelasan lengkap: [[Panduan Lengkap Bali Safari 2026] Menginap di Hotel Singa, Memberi Makan Harimau dari Kandang Besi, Perbandingan Tiket Paket & Rencana Perjalanan Anti-Ribet untuk Keluarga](/id/blog/bali-safari-night-experience/)
 
 > Beli tiket online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170-bali-safari-and-marine-park-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D5e2c8336f4) [Kkday](https://www.kkday.com/zh-tw/product/593851?cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/taman-safari-bali-90756/?locale=en-XX&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -93,7 +93,7 @@ Buat keluarga yang suka dunia laut, mending nggak usah buru-buru ke ujung pulau 
 
 **Tips traveling:** Tiket 2 hari bisa dipesen lewat platform agen resmi. Saran mainnya: mulai dari Marine Safari (buka Selasa–Minggu), baru lanjut ke Taman Safari.
 
-Info lengkap: [Panduan Marine Safari Bali](https://gobaligo.id/id/blog/marine-safari-bali-guide/)
+Info lengkap: [Panduan Marine Safari Bali](/id/blog/marine-safari-bali-guide/)
 
 > Beli tiket online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dff9b891d3a) [Kkday](https://www.kkday.com/zh-tw/product/582030?qs=%E5%B3%87%E9%87%8C%E5%B3%B6%E6%B5%B7%E6%B4%8B&groupOid=88&cid=25072) [Trip](https://www.trip.com/travel-guide/attraction/bali/marine-safari-bali-149824960/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -131,7 +131,7 @@ Bersebelahan dengan Bali Reptile Park (lihat di bawah), keduanya bisa dibeli tik
 
 **Tips perjalanan:** Disarankan pakai baju lengan panjang anti-nyamuk, dan masuk pagi hari saat cuaca masih sejuk untuk pengalaman terbaik.
 
-Info lengkap: [Panduan Lengkap Bali Bird Park: Spesies Burung Langka, Aktivitas Interaktif, dan Petualangan Konservasi Alam](https://gobaligo.id/id/blog/bali-bird-park-guide/)
+Info lengkap: [Panduan Lengkap Bali Bird Park: Spesies Burung Langka, Aktivitas Interaktif, dan Petualangan Konservasi Alam](/id/blog/bali-bird-park-guide/)
 
 > Beli tiket online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D9f20741f36) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-bird-park-80525/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -149,7 +149,7 @@ Pengalaman paling seru di sini adalah **meminta staf membantu melilitkan ular pi
 
 Pemandu menemani全程, menjelaskan detail kebiasaan setiap hewan dan status konservasinya, jadi perjalanan 'keberanian' ini sekaligus jadi pelajaran alam yang hidup.
 
-Info lengkap: [Panduan Bali Reptile Park: Lihat Komodo dari dekat, interaksi akrab dengan piton raksasa, harga tiket, dan tips liburan keluarga](https://gobaligo.id/id/blog/Bali-Reptile-Park/)
+Info lengkap: [Panduan Bali Reptile Park: Lihat Komodo dari dekat, interaksi akrab dengan piton raksasa, harga tiket, dan tips liburan keluarga](/id/blog/Bali-Reptile-Park/)
 
 > Beli tiket online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F37955-bali-reptile-park-ticket%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7db7e3e24e) [Kkday](https://www.kkday.com/zh-tw/product/593869?qs=Bali+Reptile+Park&cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-reptile-park-128527409/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -169,7 +169,7 @@ Selain interaksi lumba-lumba, taman ini juga punya pertunjukan singa laut, kolam
 
 **Tips traveling:** Kuota interaksi lumba-lumba terbatas banget, mending pesan jauh-jauh hari lewat platform online. Beberapa aktivitas punya batasan umur dan tinggi badan, pastikan cek dulu sebelum booking.
 
-Baca selengkapnya: [Panduan Lengkap Bali Exotic Marine Park: Interaksi Super Dekat, Berenang Bareng Lumba-lumba, Tips Hindari Keramaian & Rencana Perjalanan Keluarga](https://gobaligo.id/id/blog/Bali-Exotic-Marine-Park/)
+Baca selengkapnya: [Panduan Lengkap Bali Exotic Marine Park: Interaksi Super Dekat, Berenang Bareng Lumba-lumba, Tips Hindari Keramaian & Rencana Perjalanan Keluarga](/id/blog/Bali-Exotic-Marine-Park/)
 
 > Beli Tiket Online: [Kkday](https://www.kkday.com/zh-tw/product/138734-bali-exotic-dolphin-marine-park-indonesia?cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -203,7 +203,7 @@ Kalau kamu pikir indoor theme park di Bali cuma Trans Studio, AeroXSpace Adventu
 
 **Tips traveling:** Setiap wahana punya batasan tinggi badan (Space Coaster minimal 120cm, Stellar Ropes minimal 140cm, VR Cinema minimal 130cm). Anak 8 tahun ke atas bisa main sendiri, yang di bawah 8 tahun tapi tinggi di atas 110cm bisa ditemani orang tua. Tiket mulai dari IDR 175.000, mending datang weekday biar lebih sepi.
 
-Baca selengkapnya: [Taman Bermain Indoor 1000m² Baru di Sanur: AeroXSpace Adventure](https://gobaligo.id/id/blog/aeroxspace-sanur-indoor-playground/)
+Baca selengkapnya: [Taman Bermain Indoor 1000m² Baru di Sanur: AeroXSpace Adventure](/id/blog/aeroxspace-sanur-indoor-playground/)
 
 > Beli tiket online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F129545-aeroxspace-adventure-pass-in-denpasar-bali%2F%3Fspm%3DLanguageCurrencySelectionPopup.MoreLanguage_LIST%26clickId%3D040e88c578) [Trip](https://tw.trip.com/travel-guide/attraction/bali/aeroxspace-adventure-148887623?curr=IDR&locale=zh-TW&poiType=66&ext-searchpage=1&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -223,7 +223,7 @@ Kalau pas liburan tiba-tiba hujan sore ala tropis Bali, mending ajak anak-anak k
 
 **Tips Travel**: Saran beli tiket Fast track aja, biar bisa lewat jalur cepat tanpa antre — worth it banget. Di dalam mal juga banyak pilihan makanan, jadi bisa sekalian jalan-jalan sambil main.
 
-Baca selengkapnya: [Panduan Lengkap Trans Studio Bali: 5 Wahana Wajib Coba, Diskon Tiket & Rencana Cadangan Saat Hujan](https://gobaligo.id/id/blog/trans-studio-bali/)
+Baca selengkapnya: [Panduan Lengkap Trans Studio Bali: 5 Wahana Wajib Coba, Diskon Tiket & Rencana Cadangan Saat Hujan](/id/blog/trans-studio-bali/)
 
 > Beli tiket online: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99048-trans-studio-bali-ticket%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7de4b80bf3) [Kkday](https://www.kkday.com/zh-tw/product/154657-trans-studio-bali-theme-park-bali-seminyak-indonesia?qs=trans+studio&cid=25072) [Trip](https://tw.trip.com/travel-guide/attraction/bali/trans-studio-bali-theme-park-142709856/?locale=zh-TW&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
@@ -260,7 +260,7 @@ _Info tempat wisata di artikel ini sesuai saat penulisan. Harga tiket dan jam bu
 
 ![規劃親子峇里島行程的實用建議](https://images.gobaligo.id/images/2026-05/1780210997008-689d437ba3e141dc624b514a766ad8d9.jpg)
 
-[【Ubud Wisata Keluarga】50+ Aktivitas Favorit Anak-Anak: Panduan Lengkap Kebun Binatang, Petualangan Hutan, dan DIY Tradisional](https://gobaligo.id/id/blog/ubud-with-kids-guide/)
+[【Ubud Wisata Keluarga】50+ Aktivitas Favorit Anak-Anak: Panduan Lengkap Kebun Binatang, Petualangan Hutan, dan DIY Tradisional](/id/blog/ubud-with-kids-guide/)
 
 ## FAQ (Pertanyaan yang Sering Ditanyakan)
 
@@ -268,9 +268,9 @@ _Info tempat wisata di artikel ini sesuai saat penulisan. Harga tiket dan jam bu
 
 **Q2: Gimana cara beli tiket dua hari Taman Safari dan Marine Safari?** Bisa langsung tanya ke loket resmi Taman Safari untuk paket tiket dua hari. Beberapa platform agen resmi (misalnya Klook) juga kadang ngeluarin promo bundling. Disarankan pre-order di situs resmi atau platform tepercaya, karena kadang di loket tidak ada opsi tiket bundling. Kedua taman ini bersebelahan, jadi paling enak nginep dua hari di sekitar Gianyar atau Ubud.
 
-- [Rekomendasi Penginapan Ubud 2026｜30+ Panduan Lengkap Resor Ubud](https://gobaligo.id/id/blog/ubud-resorts-guide/)
-- [20+ Villa Kolam Renang Impian di Ubud: Dari Hutan Misterius hingga Kemewahan Sawah, Daftar Surga Tersembunyi Anti Gagal](https://gobaligo.id/id/blog/ubud-villa-pool-guide/)
-- [10 Villa Pohon/Bambu yang Memukau di Ubud](https://gobaligo.id/id/blog/ubud-treehouse-bamboo-villa-stays/)
+- [Rekomendasi Penginapan Ubud 2026｜30+ Panduan Lengkap Resor Ubud](/id/blog/ubud-resorts-guide/)
+- [20+ Villa Kolam Renang Impian di Ubud: Dari Hutan Misterius hingga Kemewahan Sawah, Daftar Surga Tersembunyi Anti Gagal](/id/blog/ubud-villa-pool-guide/)
+- [10 Villa Pohon/Bambu yang Memukau di Ubud](/id/blog/ubud-treehouse-bamboo-villa-stays/)
 
 **Q3: Kawasan kebun binatang di Bali terkonsentrasi di mana?** Bali Bird Park, Bali Reptile Park, Bali Zoo, dan Taman Safari / Marine Safari semuanya berada di **Kabupaten Gianyar**, jaraknya tidak jauh satu sama lain. Sangat cocok untuk rencana perjalanan 2-3 hari bertema hewan, dengan Ubud sebagai basis penginapan yang paling nyaman.
 

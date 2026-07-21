@@ -87,4 +87,4 @@ Berikut panduan festival dan acara paling hits di Bali dalam sebulan ke depan (J
 - **Lokasi:** Desa Munggu
 - **Deskripsi:** Upacara tradisional di mana para pria desa berbaris saling berhadapan sambil membawa tongkat bambu, bertujuan untuk mengusir roh jahat dan memohon kesehatan serta panen yang melimpah.
 
-> Mau lihat festival seru lainnya? Cek panduan lengkapnya di sini: [Panduan Lengkap Hari Libur Nasional Indonesia & Festival Bali 2026: Jadwal Acara Seru Sepanjang Tahun!](https://gobaligo.id/id/blog/2026-bali-festival-guide/)
+> Mau lihat festival seru lainnya? Cek panduan lengkapnya di sini: [Panduan Lengkap Hari Libur Nasional Indonesia & Festival Bali 2026: Jadwal Acara Seru Sepanjang Tahun!](/id/blog/2026-bali-festival-guide/)

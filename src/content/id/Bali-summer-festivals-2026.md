@@ -79,4 +79,4 @@ https://www.instagram.com/p/DaZ6ebdlGL-/?igsh=bjkzMXV5eG9uZGJ2
 
 Informasi lebih lanjut dan tautan, silakan lihat:
 
-[Panduan Lengkap Hari Libur Nasional Indonesia & Festival Bali 2026: Daftar Tanggal Acara Seru!](https://gobaligo.id/id/blog/2026-bali-festival-guide/)
+[Panduan Lengkap Hari Libur Nasional Indonesia & Festival Bali 2026: Daftar Tanggal Acara Seru!](/id/blog/2026-bali-festival-guide/)

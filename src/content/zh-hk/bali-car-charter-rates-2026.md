@@ -65,8 +65,8 @@ _srcHash: 68f2ebbc05299567fc7da80ffc04ccab
 ***
 
 ## 📌 包車須知 & 推薦司機
-- 關於包車嘅注意事項（費用包啲乜、小費、超時計算等），請參考 👉[**呢度**](https://gobaligo.id/zh-hk/blog/bali-private-car-hire-guide/)
-- 團友最常推薦嘅司機名單同聯絡方式，請參考 👉[**呢度**](https://gobaligo.id/zh-hk/blog/bali-private-car-drivers-guide/)
+- 關於包車嘅注意事項（費用包啲乜、小費、超時計算等），請參考 👉[**呢度**](/zh-hk/blog/bali-private-car-hire-guide/)
+- 團友最常推薦嘅司機名單同聯絡方式，請參考 👉[**呢度**](/zh-hk/blog/bali-private-car-drivers-guide/)
 
 ## 🙏 多謝各位體諒
 我哋知道多一筆費用會增加你嘅開支，但印尼盾真係跌得太勁、油價又貴咗好幾次。我哋希望繼續用**乾淨嘅車、安全嘅駕駛、熱情嘅服務**陪住你喺峇里島旅行。
@@ -80,8 +80,8 @@ _srcHash: 68f2ebbc05299567fc7da80ffc04ccab
 
 ## 📌 包車須知 & 推薦司機
 
-- 關於包車的注意事項（費用包含哪些、小費、超時計算等），請參考 👉[**這裡**](https://gobaligo.id/zh-hk/blog/bali-private-car-hire-guide/)]
-- 團友們最常推薦的司機名單與聯絡方式，請參考 👉[**這裡**](https://gobaligo.id/zh-hk/blog/bali-private-car-drivers-guide/)]
+- 關於包車的注意事項（費用包含哪些、小費、超時計算等），請參考 👉[**這裡**](/zh-hk/blog/bali-private-car-hire-guide/)]
+- 團友們最常推薦的司機名單與聯絡方式，請參考 👉[**這裡**](/zh-hk/blog/bali-private-car-drivers-guide/)]
 
 ***
 

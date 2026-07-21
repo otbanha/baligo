@@ -136,6 +136,6 @@ https://youtu.be/czpeOwygHcE
 
 你覺得Astrid Chang佢哋嘅行程好精彩嗎？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家去社團投稿你嘅行程㗎！
 
-最新更新：[科摩多正式「限客」！2026 冇預約直接俾人趕返上岸，話走就走已經成為歷史！](https://gobaligo.id/zh-hk/blog/komodo-booking-2026/)
+最新更新：[科摩多正式「限客」！2026 冇預約直接俾人趕返上岸，話走就走已經成為歷史！](/zh-hk/blog/komodo-booking-2026/)
 
 {{block:遊記}}

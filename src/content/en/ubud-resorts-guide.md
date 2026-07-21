@@ -758,7 +758,7 @@ Tucked away in the Lodtunduh village south of Ubud, this five-star villa resort 
 💬 **Reviews**｜"Right in the middle of the jungle, the room is comfortable, service is five-star, and the Indonesian and international dishes at the restaurant are impressive. The only problem is not wanting to leave!"
 "A true hidden gem in Ubud, with natural materials in the decor, comfortable beds, and staff who are consistently warm and friendly from check-in to check-out." (Source: Tripadvisor)
 
-Detailed Review: [【2026 New Ubud Hotel】Sanggraloka Ubud Unboxing: Opening June 2026, Jungle Organic Farm & Secluded Resort Villa Guide](https://gobaligo.id/en/blog/Sanggraloka-Ubud/)
+Detailed Review: [【2026 New Ubud Hotel】Sanggraloka Ubud Unboxing: Opening June 2026, Jungle Organic Farm & Secluded Resort Villa Guide](/en/blog/Sanggraloka-Ubud/)
 
 📌 **Booking Info**｜Agoda 9.5⭐  Trip 9.7⭐
 

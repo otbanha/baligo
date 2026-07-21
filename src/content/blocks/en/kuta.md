@@ -14,6 +14,6 @@ Want to learn more about Kuta? Click [here](/en/blog/kuta-guide/)
 
 ## Kuta Accommodation Themes
 
-- [18 Selected Hotels Near Kuta Beach](https://gobaligo.id/admin/)
+- [18 Selected Hotels Near Kuta Beach](/admin/)
 - [12 Top City Hotels in Kuta](/en/blog/best-kuta-hotels-list/)
 - [Bali Group Free Travel: Recommended Family Villas in Kuta with 3/4/5/6+ Bedrooms](/en/blog/bali-group-villa-stay/)

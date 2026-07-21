@@ -90,6 +90,6 @@ Canggu素食友好餐厅 Grazing on the Green
 
 ![峇里島Top 26 素食友善餐廳](https://images.gobaligo.id/vocus/vocus_a5d5b1f2d35fd1fdb7bd8882f8b50f94.png)
 
-这30+家餐厅的位置和详细介绍请[点击地图链接](https://gobaligo.id/map/vegetarian/)，让我们一起探索巴厘岛素食友好餐厅的无限魅力！
+这30+家餐厅的位置和详细介绍请[点击地图链接](/map/vegetarian/)，让我们一起探索巴厘岛素食友好餐厅的无限魅力！
 
 {{block:klook}}

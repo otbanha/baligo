@@ -172,7 +172,7 @@ Trans Studio Bali adalah tempat wisata populer di Kuta, dekat Seminyak. Cocok bu
 
 https://youtube.com/shorts/POSTtRPKK5c?si=MzT-rDEK1gBqU86W
 
-> [Info Lengkap Trans Studio Bali](https://gobaligo.id/id/blog/trans-studio-bali/)
+> [Info Lengkap Trans Studio Bali](/id/blog/trans-studio-bali/)
 
 Trans Studio Bali punya tujuh zona tema, total 23 wahana dan atraksi — main seharian pun nggak bakal selesai! Kalau lagi traveling di Bali terus tiba-tiba hujan, rencana awal jadi berantakan, jangan khawatir! Trans Studio Bali, taman hiburan indoor ini, bakal kasih kamu hari yang seru dan penuh keseruan. Cek video singkat dari Xiao Jie di atas ya.
 
@@ -458,7 +458,7 @@ Kuta adalah salah satu destinasi wisata paling populer di Bali. Pilihan akomodas
 
 > [16 Hotel Pilihan di Dekat Pantai Kuta](/admin/)
 
-> [12 Rekomendasi Hotel di Kuta: Panduan Lengkap Belanja di Pusat Kota, Transit Bandara, & Akomodasi High CP Value](https://gobaligo.id/id/blog/best-kuta-hotels-list/)
+> [12 Rekomendasi Hotel di Kuta: Panduan Lengkap Belanja di Pusat Kota, Transit Bandara, & Akomodasi High CP Value](/id/blog/best-kuta-hotels-list/)
 
 {{block:住宿}}
 
