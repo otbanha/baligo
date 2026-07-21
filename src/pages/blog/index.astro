@@ -525,6 +525,12 @@ const socialLinks = [
         <h1 id="cat-heading-text" class="cat-heading-title"></h1>
       </div>
 
+      <!-- 住宿推薦分類：Travelpayouts 搜尋比價小工具（JS 控制顯示） -->
+      <div id="accom-search-widget" style="display:none" aria-hidden="true">
+        <div id="tpwl-search"></div>
+        <div id="tpwl-tickets"></div>
+      </div>
+
       <!-- 新手指南分類介紹區塊（JS 控制顯示） -->
       <div id="newbie-guide-intro" style="display:none" aria-hidden="true">
 
@@ -889,6 +895,14 @@ const socialLinks = [
         homepageBlocks.style.display = (cat === 'all' && !q) ? 'block' : 'none';
       }
 
+      // 住宿推薦分類：顯示 Travelpayouts 搜尋比價小工具
+      const accomWidget = document.getElementById('accom-search-widget');
+      if (accomWidget) {
+        const isAccom = cat === '住宿推薦';
+        accomWidget.style.display = isAccom ? 'block' : 'none';
+        accomWidget.setAttribute('aria-hidden', isAccom ? 'false' : 'true');
+      }
+
       // 新手指南分類：顯示 intro 區塊 + 動態更新 meta tags
       const newbieIntro = document.getElementById('newbie-guide-intro');
       if (newbieIntro) {
@@ -1035,6 +1049,10 @@ const socialLinks = [
 </html>
 
 <style is:global>
+  #accom-search-widget {
+    margin: 0 0 1.5em;
+  }
+
   /* ---- 新手指南分類 intro ---- */
   .newbie-intro-text {
     margin: 1.2em 0 1.8em;
