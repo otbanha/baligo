@@ -501,8 +501,13 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
   .chat-bubble-btn {
     bottom: 180px;
     right: 1em;
+    width: 52px;
+    height: 52px;
+    padding: 0;
+    justify-content: center;
     transition: transform 0.18s ease, opacity 0.18s ease;
   }
+  .bubble-label { display: none; }
   .chat-bubble-btn.exploding {
     transform: scale(1.25) translateY(-8px);
     opacity: 0;
