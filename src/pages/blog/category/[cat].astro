@@ -74,6 +74,12 @@ const CAT_CONFIG: Record<string, {
   faqs?: { q: string; a: string }[];                 // FAQ 區塊 + FAQPage schema
   relatedTitle?: string;
   relatedItems?: { href: string; label: string; desc: string }[];
+  h1?: string;                                        // 覆寫預設的動態 H1（峇里島{cat}｜N 篇完整攻略）
+  areaTable?: {                                       // 住宿推薦：區域比較表（獨特內容＋長尾關鍵字）
+    caption: string;
+    headers: string[];
+    rows: { area: string; who: string; price: string; vibe: string; href: string }[];
+  };
 }> = {
   '新手指南': {
     title: '峇里島新手指南 2026｜25篇必看行前攻略 - Go Bali Go',
@@ -116,7 +122,8 @@ const CAT_CONFIG: Record<string, {
   },
 
   '住宿推薦': {
-    title: '峇里島住宿推薦 2026｜100+ 飯店 Villa 分區精選與訂房攻略 - Go Bali Go',
+    title: '峇里島住宿推薦｜600+完整攻略 - Go Bali Go',
+    h1: '峇里島住宿推薦｜600+完整攻略',
     description: '峇里島住哪一區好？水明漾、烏布、長谷、烏魯瓦圖、努沙杜瓦、金巴蘭、沙努爾、庫塔分區精選 100+ 飯店與私人泳池 Villa：親子度假村、蜜月奢華、平價高 CP、訂房省錢技巧一次看，2026 最新評測。',
     ogDescription: '峇里島住哪一區好？8 大熱門區域 100+ 飯店與 Villa 精選：親子、蜜月、奢華、平價與訂房省錢攻略，2026 最新評測。',
     pillarSlug: 'bali-accommodation-area-guide',
@@ -125,6 +132,20 @@ const CAT_CONFIG: Record<string, {
     pillarText: '讀「峇里島五大住宿區域比較」→',
     pillarDesc: '庫塔、水明漾、長谷、烏布、努沙杜瓦——一篇看懂每區優缺點、適合誰、價位與交通。選對區域，是訂房不踩雷的第一步。',
     introHtml: '峇里島這麼大，第一次來最常卡關的就是「到底要住哪一區」。<strong>水明漾（Seminyak）</strong>時尚好逛、<strong>長谷（Canggu）</strong>衝浪文青、<strong>烏布（Ubud）</strong>森林療癒、<strong>烏魯瓦圖（Uluwatu）</strong>懸崖海景，<strong>努沙杜瓦／金巴蘭</strong>適合親子與蜜月，<strong>庫塔</strong>則最方便購物與機場過境。這裡依「分區」與「主題」整理了 100+ 篇<strong>峇里島住宿推薦</strong>，從一晚不到 30 美元的高 CP 值飯店，到懸崖無邊際泳池的頂奢<strong>私人泳池 Villa</strong>，幫你快速鎖定最適合的<strong>峇里島飯店</strong>與度假村。',
+    areaTable: {
+      caption: '峇里島 8 大住宿區域比較——住哪一區最適合你？',
+      headers: ['區域', '適合誰', '每晚價位', '氛圍・交通', '看住宿'],
+      rows: [
+        { area: '水明漾 Seminyak', who: '首刷、購物美食控', price: 'US$40–200', vibe: '時尚好逛，餐廳酒吧最密集', href: '/blog/seminyak-beach-resorts-guide/' },
+        { area: '長谷 Canggu', who: '衝浪、數位游牧、文青', price: 'US$35–180', vibe: '海邊咖啡廳、潮流市集', href: '/blog/canggu-top-hotels-guide/' },
+        { area: '烏布 Ubud', who: '想療癒、看稻田叢林', price: 'US$40–300', vibe: '森林 SPA、無邊際泳池', href: '/blog/ubud-resorts-guide/' },
+        { area: '烏魯瓦圖 Uluwatu', who: '蜜月、拍海景', price: 'US$80–500', vibe: '懸崖海景，離市區較遠', href: '/blog/uluwatu-bali-villas-resorts-guide/' },
+        { area: '努沙杜瓦 Nusa Dua', who: '親子、長輩、想放鬆', price: 'US$70–400', vibe: '五星特區，沙灘平緩安全', href: '/blog/nusa-dua-resorts-guide/' },
+        { area: '金巴蘭 Jimbaran', who: '蜜月、海鮮夕陽控', price: 'US$60–500', vibe: '海灘夕陽，離機場近', href: '/blog/jimbaran-beachfront-hotels-guide/' },
+        { area: '沙努爾 Sanur', who: '親子、慢步調、跳離島', price: 'US$30–150', vibe: '日出海灘，氣氛悠閒', href: '/blog/sanur-luxury-budget-resorts/' },
+        { area: '庫塔 Kuta', who: '過境、預算有限', price: 'US$20–80', vibe: '最平價，近機場與購物', href: '/blog/best-kuta-hotels-list/' },
+      ],
+    },
     featuredSlugs: [
       'bali-accommodation-area-guide',
       'seminyak-beach-resorts-guide',
@@ -364,7 +385,7 @@ const faqSchema = config.faqs && config.faqs.length > 0 ? {
       </nav>
 
       <!-- 頁面標題 -->
-      <h1 class="cat-page-h1">峇里島{cat}｜{allPosts.length} 篇完整攻略</h1>
+      <h1 class="cat-page-h1">{config.h1 ?? `峇里島${cat}｜${allPosts.length} 篇完整攻略`}</h1>
 
       <!-- Pillar Page 推薦卡片 -->
       <div class="pillar-recommendation-card">
@@ -385,6 +406,31 @@ const faqSchema = config.faqs && config.faqs.length > 0 ? {
       <div class="cat-intro">
         <p set:html={config.introHtml} />
       </div>
+
+      <!-- 區域比較表（住宿推薦專屬：獨特內容＋長尾關鍵字） -->
+      {config.areaTable && (
+        <section class="cat-area-table-wrap">
+          <h2 class="cat-group-title">🗺️ {config.areaTable.caption}</h2>
+          <div class="cat-area-table-scroll">
+            <table class="cat-area-table">
+              <thead>
+                <tr>{config.areaTable.headers.map(h => <th>{h}</th>)}</tr>
+              </thead>
+              <tbody>
+                {config.areaTable.rows.map(r => (
+                  <tr>
+                    <th scope="row" class="area-cell">{r.area}</th>
+                    <td>{r.who}</td>
+                    <td class="price-cell">{r.price}</td>
+                    <td>{r.vibe}</td>
+                    <td><a href={r.href} class="area-link">看住宿 →</a></td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      )}
 
       <!-- H2 主題分組 -->
       {displayGroups.map(group => {
@@ -509,6 +555,19 @@ const faqSchema = config.faqs && config.faqs.length > 0 ? {
     line-height: 1.78;
     color: #3a4a5a;
   }
+
+  /* 區域比較表 */
+  .cat-area-table-wrap { margin-bottom: 2.6em; }
+  .cat-area-table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; border-radius: 10px; border: 1px solid rgba(10,61,107,0.12); }
+  .cat-area-table { width: 100%; min-width: 620px; border-collapse: collapse; font-size: 0.88em; background: #fff; }
+  .cat-area-table th, .cat-area-table td { padding: 0.7em 0.85em; text-align: left; border-bottom: 1px solid rgba(10,61,107,0.09); vertical-align: middle; }
+  .cat-area-table thead th { background: var(--ocean, #0a3d6b); color: #fff; font-weight: 600; white-space: nowrap; }
+  .cat-area-table tbody tr:last-child th, .cat-area-table tbody tr:last-child td { border-bottom: none; }
+  .cat-area-table tbody tr:nth-child(even) { background: rgba(10,61,107,0.025); }
+  .cat-area-table .area-cell { font-weight: 700; color: var(--ocean, #0a3d6b); white-space: nowrap; }
+  .cat-area-table .price-cell { white-space: nowrap; color: #b8860b; font-weight: 600; }
+  .cat-area-table .area-link { color: var(--ocean, #0a3d6b); font-weight: 600; text-decoration: none; white-space: nowrap; }
+  .cat-area-table .area-link:hover { text-decoration: underline; }
 
   /* Groups */
   .cat-group { margin-bottom: 2.4em; }
