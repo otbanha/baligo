@@ -518,6 +518,9 @@ const spaFaqSchema = isSpaGuide ? {
         <div class="prose">
           <div class="title">
             {category && <span class="article-category" data-pagefind-meta="category">{getCatLabel(Array.isArray(category) ? category[0] : category)}</span>}
+            {lang === 'en' && (
+              <script async src="https://tpwidg.com/content?trs=519937&shmarker=654252&place=bali&items=3&locale=en-US&powered_by=true&campaign_id=108&promo_id=4039" charset="utf-8"></script>
+            )}
             <h1>{title}</h1>
             <div class="date">
               <FormattedDate date={pubDate} />
