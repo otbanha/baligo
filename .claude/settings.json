@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "python3 /Users/macchiu/baligo/.claude/add-update-date.py",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/.claude/add-update-date.py\"",
             "timeout": 10
           }
         ]
