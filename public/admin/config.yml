@@ -103,9 +103,9 @@ collections:
         name: expiresAt
         widget: datetime
         required: false
-        date_format: "yyyy-MM-dd"
+        date_format: "YYYY-MM-DD"
         time_format: false
-        format: "yyyy-MM-dd"
+        format: "YYYY-MM-DD"
         hint: "留空表示長期有效"
 
   - name: blocks
