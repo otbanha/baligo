@@ -539,20 +539,14 @@ const spaFaqSchema = isSpaGuide ? {
               <a href={`/admin/#/collections/blog/entries/${Astro.params.slug}`} class="edit-link" target="_blank" rel="noopener">✏️ 編輯文章</a>
             </div>
 
-            {cats.includes('新聞存檔') && (
+            {cats.includes('新聞存檔') && source && (
               <div class="news-byline">
-                <span class="news-byline-author">
-                  整理：<a href="/about/">小傑</a>（長住峇里島的台灣人）·
-                  <a href="https://www.youtube.com/@j_indonesia" target="_blank" rel="noopener">YouTube 頻道</a>
+                <span class="news-byline-source">
+                  資料來源：
+                  {sourceUrl ? (
+                    <a href={sourceUrl} target="_blank" rel="nofollow noopener">{source}</a>
+                  ) : source}
                 </span>
-                {source && (
-                  <span class="news-byline-source">
-                    資料來源：
-                    {sourceUrl ? (
-                      <a href={sourceUrl} target="_blank" rel="nofollow noopener">{source}</a>
-                    ) : source}
-                  </span>
-                )}
               </div>
             )}
 
