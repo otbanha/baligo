@@ -524,6 +524,9 @@ const spaFaqSchema = isSpaGuide ? {
             {(!lang || lang === 'zh-tw' || lang === 'zh-hk') && (
               <script async src="https://tpwidg.com/content?currency=USD&trs=519937&shmarker=654252&locale=zh-TW&city_id=8&category=3&amount=3&powered_by=true&campaign_id=137&promo_id=4497" charset="utf-8"></script>
             )}
+            {lang === 'zh-cn' && (
+              <script async src="https://tpwidg.com/content?currency=USD&trs=519937&shmarker=654252&locale=zh-CN&city_id=8&category=3&amount=3&powered_by=true&campaign_id=137&promo_id=4497" charset="utf-8"></script>
+            )}
             <h1>{title}</h1>
             <div class="date">
               <FormattedDate date={pubDate} />
