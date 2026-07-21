@@ -1,63 +1,129 @@
 ---
-import AboutHeroImage from '../assets/blog-placeholder-about.jpg';
-import Layout from '../layouts/BlogPost.astro';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import TopStrip from '../components/TopStrip.astro';
+import Footer from '../components/Footer.astro';
+import { AUTHOR } from '../data/author';
+
+const lang = 'zh-tw';
+const basePath = 'about';
+
+const title = '關於小傑爸｜Go Bali Go 站長・峇里島旅遊部落客';
+const description = '認識 Go Bali Go 站長「小傑爸」：經營「小傑印尼」YouTube 頻道，長期分享峇里島住宿、簽證、交通與景點的第一手攻略，幫你訂房不踩雷、自由行不走冤枉路。';
+
+// ProfilePage + Person（@id 與文章 author 一致，做跨頁實體整合，補強 E-E-A-T）
+const profileSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ProfilePage',
+  mainEntity: {
+    '@type': 'Person',
+    '@id': AUTHOR.id,
+    name: AUTHOR.name,
+    url: AUTHOR.url,
+    jobTitle: AUTHOR.jobTitle,
+    description: AUTHOR.description,
+    sameAs: AUTHOR.sameAs,
+    worksFor: {
+      '@type': 'Organization',
+      name: 'Go Bali Go 峇里島旅遊攻略',
+      url: 'https://gobaligo.id',
+    },
+    knowsAbout: [
+      '峇里島住宿推薦', '峇里島 Villa', '峇里島飯店', '峇里島簽證',
+      '峇里島自由行', '峇里島包車', '峇里島景點', '峇里島美食',
+    ],
+  },
+};
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Go Bali Go', item: 'https://gobaligo.id' },
+    { '@type': 'ListItem', position: 2, name: '關於小傑爸', item: AUTHOR.url },
+  ],
+};
 ---
 
-<Layout
-	title="About Me"
-	description="Lorem ipsum dolor sit amet"
-	pubDate={new Date('August 08 2021')}
-	heroImage={AboutHeroImage}
->
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-		labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo
-		viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam
-		adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus
-		et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus
-		vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque
-		sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
-	</p>
+<html lang="zh-TW">
+<head>
+  <BaseHead title={title} description={description} type="website" />
+  <script type="application/ld+json" is:inline set:html={JSON.stringify(profileSchema)} />
+  <script type="application/ld+json" is:inline set:html={JSON.stringify(breadcrumbSchema)} />
+</head>
 
-	<p>
-		Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non
-		tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non
-		blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna
-		porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis
-		massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc.
-		Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis
-		bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra
-		massa massa ultricies mi.
-	</p>
+<body>
+  <Header lang={lang} basePath={basePath} />
+  <TopStrip lang={lang} />
 
-	<p>
-		Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl
-		suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet
-		nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae
-		turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem
-		dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat
-		semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus
-		vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum
-		facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam
-		vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla
-		urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
-	</p>
+  <main class="about-wrap">
+    <article class="about-card">
+      <header class="about-hero">
+        <span class="about-avatar" aria-hidden="true">小</span>
+        <div>
+          <h1>關於小傑爸</h1>
+          <p class="about-role">Go Bali Go 站長・「小傑印尼」YouTuber・峇里島旅遊部落客</p>
+        </div>
+      </header>
 
-	<p>
-		Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper
-		viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc
-		scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur
-		gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus
-		pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim
-		blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id
-		cursus metus aliquam eleifend mi.
-	</p>
+      <p>
+        嗨，我是<strong>小傑爸</strong>，<a href="https://www.youtube.com/@j_indonesia" target="_blank" rel="noopener">「小傑印尼」YouTube 頻道</a>
+        與 <strong>Go Bali Go 峇里島旅遊攻略</strong>網站的經營者。因為愛上峇里島，我把這幾年蒐集、整理與實際查證的資訊，
+        做成一個持續更新的中文攻略站，希望幫每一位第一次去峇里島的旅人少走冤枉路。
+      </p>
 
-	<p>
-		Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta
-		nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam
-		tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci
-		ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar
-		proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
-	</p>
-</Layout>
+      <h2>這個站在做什麼</h2>
+      <p>
+        Go Bali Go 目前收錄超過 <strong>600 篇</strong>峇里島旅遊文章，涵蓋<strong>住宿推薦、簽證通關、分區攻略、
+        叫車包車、家庭親子與美食景點</strong>六大主題，並提供免費的行程規劃工具與預算計算機。
+        所有住宿與價格資訊都會定期回頭校對、標註最後更新日期，讓你看到的是接近當下的實況，而不是過期資料。
+      </p>
+
+      <h2>為什麼可以信任這裡的住宿建議</h2>
+      <ul class="about-points">
+        <li>📍 <strong>分區實查</strong>：水明漾、烏布、長谷、烏魯瓦圖、努沙杜瓦等各區的定位、交通與適合的旅人類型，都以在地角度整理比較。</li>
+        <li>🏨 <strong>真實評價交叉比對</strong>：飯店與 Villa 推薦會參考 Agoda／Booking 的實際評分與房型資訊，不是隨機湊數。</li>
+        <li>🔄 <strong>持續更新</strong>：印尼簽證、eVOA、Airbnb 取締等會變動的規定，一有變化就更新，避免害你在現場踩雷。</li>
+        <li>🎥 <strong>公開露出</strong>：我同時在 YouTube 與 Facebook 分享峇里島內容，歡迎交叉查證、留言指正。</li>
+      </ul>
+
+      <h2>從這裡開始逛</h2>
+      <ul class="about-links">
+        <li><a href="/blog/category/住宿推薦/">🏨 峇里島住宿推薦｜分區精選 100+ 飯店 Villa</a></li>
+        <li><a href="/blog/category/峇里島分區攻略/">📍 峇里島分區攻略｜庫塔、水明漾、烏布、長谷</a></li>
+        <li><a href="/trip-planner/">🧭 峇里島行程規劃工具</a></li>
+        <li><a href="/bali-budget-calculator/">💰 峇里島預算計算機</a></li>
+      </ul>
+
+      <h2>找我 / 追蹤</h2>
+      <div class="about-social">
+        <a href="https://www.youtube.com/@j_indonesia" target="_blank" rel="noopener" class="about-social-btn yt">▶ YouTube「小傑印尼」</a>
+        <a href="https://www.facebook.com/bali.guide.blog" target="_blank" rel="noopener" class="about-social-btn fb">f Facebook 峇里島旅遊攻略</a>
+      </div>
+    </article>
+  </main>
+
+  <Footer />
+
+  <style>
+    .about-wrap { max-width: 760px; margin: 0 auto; padding: 32px 16px 80px; box-sizing: border-box; }
+    .about-card { background: var(--surface, #fff); border-radius: 16px; padding: clamp(20px, 4vw, 40px); box-shadow: var(--box-shadow, 0 4px 20px rgba(0,0,0,0.06)); }
+    .about-hero { display: flex; align-items: center; gap: 18px; margin-bottom: 1.2em; }
+    .about-avatar { flex: none; width: 68px; height: 68px; border-radius: 50%; background: linear-gradient(135deg, var(--ocean, #0f3860), #2a7bb8); color: #fff; font-weight: 800; font-size: 1.8em; display: flex; align-items: center; justify-content: center; }
+    .about-hero h1 { margin: 0; font-size: clamp(1.5em, 4vw, 2em); color: var(--ocean, #0f3860); line-height: 1.2; }
+    .about-role { margin: 0.3em 0 0; font-size: 0.9em; color: var(--text-light, #64748b); }
+    .about-card h2 { font-size: 1.15em; color: var(--ocean, #0f3860); margin: 1.6em 0 0.5em; }
+    .about-card p { line-height: 1.85; color: var(--text, #1f2937); }
+    .about-points, .about-links { list-style: none; padding: 0; margin: 0.4em 0; }
+    .about-points li { line-height: 1.8; margin-bottom: 0.7em; }
+    .about-links li { margin-bottom: 0.55em; }
+    .about-links a { color: var(--ocean, #0f3860); text-decoration: none; font-weight: 600; }
+    .about-links a:hover { text-decoration: underline; }
+    .about-social { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 0.6em; }
+    .about-social-btn { display: inline-flex; align-items: center; gap: 8px; padding: 0.55em 1em; border-radius: 999px; font-weight: 600; font-size: 0.9em; text-decoration: none; color: #fff; }
+    .about-social-btn.yt { background: #ff0000; }
+    .about-social-btn.fb { background: #1877f2; }
+    .about-social-btn:hover { opacity: 0.9; }
+  </style>
+</body>
+</html>

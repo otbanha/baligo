@@ -21,6 +21,7 @@
 import { readFileSync, existsSync } from 'fs';
 import { enhancedTitle, enhancedDescription, applyHkSubs } from '../utils/seo-keywords';
 import { getMapSlugByBlogUrl } from '../data/mapBlogMapping';
+import { AUTHOR_PERSON } from '../data/author';
 
 interface Props {
   title: string;
@@ -61,7 +62,7 @@ const blogUrl    = `https://gobaligo.id/${langPath}blog/`;
 
 // Keyword-enhanced title & description for JSON-LD
 const seoTitle = enhancedTitle(title, cats, lang ?? 'zh-tw');
-const seoDesc  = enhancedDescription(description, cats, lang ?? 'zh-tw');
+const seoDesc  = enhancedDescription(description, cats, lang ?? 'zh-tw', slug);
 
 const ogImage = (typeof heroImage === 'string' && heroImage.startsWith('http'))
   ? heroImage
@@ -180,7 +181,7 @@ const schemaArticle = {
   "datePublished": pubIso,
   "dateModified": modIso,
   "inLanguage": lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'zh-hk' ? 'zh-HK' : 'zh-TW',
-  "author": { "@type": "Organization", "name": "Go Bali Go", "url": "https://gobaligo.id" },
+  "author": AUTHOR_PERSON,
   "publisher": {
     "@type": "Organization",
     "name": "Go Bali Go 峇里島旅遊攻略",

@@ -130,6 +130,8 @@ export const UI: Record<Lang, UI> = {
 export type RelatedItem = { path: string; label: string; desc: string };
 export type Faq = { q: string; a: string };
 export type Group = { emoji: string; name: string; slugs: string[] };
+export type AreaRow = { area: string; who: string; price: string; vibe: string; path: string };
+export type AreaTable = { caption: string; headers: string[]; rows: AreaRow[] };
 
 export type ResolvedConfig = {
   title: string;
@@ -146,6 +148,7 @@ export type ResolvedConfig = {
   faqs?: Faq[];
   relatedTitle: string;
   relatedItems: RelatedItem[];
+  areaTable?: AreaTable;  // 住宿推薦：區域比較表（獨特內容＋長尾關鍵字）
   isRich: boolean;       // 有手動精選分組（需補「更多文章」）
 };
 
@@ -184,8 +187,111 @@ const ACCOM_GROUP_NAMES: Record<Lang, Record<string, string>> = {
   'id': { seminyak: 'Akomodasi Seminyak', ubud: 'Akomodasi Ubud', canggu: 'Akomodasi Canggu', uluwatu: 'Akomodasi Uluwatu', jimbaran: 'Akomodasi Jimbaran', nusadua: 'Akomodasi Nusa Dua', sanur: 'Akomodasi Sanur', kuta: 'Akomodasi Kuta', islands: 'Nusa Lembongan & Penida (Pulau)', family: 'Resor Keluarga', honeymoon: 'Akomodasi Bulan Madu', luxury: 'Resor Mewah Bintang 5', budget: 'Akomodasi Hemat & Terjangkau', villa: 'Vila Kolam Renang Pribadi', booking: 'Tips Booking & Jebakan' },
 };
 
+// ── 住宿推薦：區域比較表 ──────────────────────────────────────────────────────
+// 價位與連結各語言共用，只有文字本地化；順序必須與 ACCOM_AREA_TEXT.rows 一致。
+// 註：繁中（zh-tw）版另有一份 inline 在 src/pages/blog/category/[cat].astro，改動要兩處同步。
+const AREA_PATHS = [
+  'blog/seminyak-beach-resorts-guide/',
+  'blog/canggu-top-hotels-guide/',
+  'blog/ubud-resorts-guide/',
+  'blog/uluwatu-bali-villas-resorts-guide/',
+  'blog/nusa-dua-resorts-guide/',
+  'blog/jimbaran-beachfront-hotels-guide/',
+  'blog/sanur-luxury-budget-resorts/',
+  'blog/best-kuta-hotels-list/',
+];
+
+const AREA_PRICES = [
+  'US$40–200', 'US$35–180', 'US$40–300', 'US$80–500',
+  'US$70–400', 'US$60–500', 'US$30–150', 'US$20–80',
+];
+
+type AreaText = { caption: string; headers: string[]; rows: { area: string; who: string; vibe: string }[] };
+
+const ACCOM_AREA_TEXT: Record<Lang, AreaText> = {
+  'zh-tw': {
+    caption: '峇里島 8 大住宿區域比較——住哪一區最適合你？',
+    headers: ['區域', '適合誰', '每晚價位', '氛圍・交通', '看住宿'],
+    rows: [
+      { area: '水明漾 Seminyak', who: '首刷、購物美食控', vibe: '時尚好逛，餐廳酒吧最密集' },
+      { area: '長谷 Canggu', who: '衝浪、數位游牧、文青', vibe: '海邊咖啡廳、潮流市集' },
+      { area: '烏布 Ubud', who: '想療癒、看稻田叢林', vibe: '森林 SPA、無邊際泳池' },
+      { area: '烏魯瓦圖 Uluwatu', who: '蜜月、拍海景', vibe: '懸崖海景，離市區較遠' },
+      { area: '努沙杜瓦 Nusa Dua', who: '親子、長輩、想放鬆', vibe: '五星特區，沙灘平緩安全' },
+      { area: '金巴蘭 Jimbaran', who: '蜜月、海鮮夕陽控', vibe: '海灘夕陽，離機場近' },
+      { area: '沙努爾 Sanur', who: '親子、慢步調、跳離島', vibe: '日出海灘，氣氛悠閒' },
+      { area: '庫塔 Kuta', who: '過境、預算有限', vibe: '最平價，近機場與購物' },
+    ],
+  },
+  'zh-hk': {
+    caption: '峇里島 8 大住宿區域比較——住邊區最啱你？',
+    headers: ['區域', '啱邊個', '每晚價位', '氛圍・交通', '睇住宿'],
+    rows: [
+      { area: '水明漾 Seminyak', who: '第一次嚟、購物美食控', vibe: '時尚好行，餐廳酒吧最集中' },
+      { area: '長谷 Canggu', who: '衝浪、數位游牧、文青', vibe: '海邊咖啡廳、潮流市集' },
+      { area: '烏布 Ubud', who: '想療癒、睇稻田叢林', vibe: '森林 SPA、無邊際泳池' },
+      { area: '烏魯瓦圖 Uluwatu', who: '蜜月、影海景', vibe: '懸崖海景，離市區較遠' },
+      { area: '努沙杜瓦 Nusa Dua', who: '親子、長輩、想放鬆', vibe: '五星特區，沙灘平緩安全' },
+      { area: '金巴蘭 Jimbaran', who: '蜜月、海鮮日落控', vibe: '海灘日落，近機場' },
+      { area: '沙努爾 Sanur', who: '親子、慢步調、跳離島', vibe: '日出海灘，氣氛悠閒' },
+      { area: '庫塔 Kuta', who: '過境、預算有限', vibe: '最抵，近機場同購物' },
+    ],
+  },
+  'zh-cn': {
+    caption: '巴厘岛 8 大住宿区域比较——住哪一区最适合你？',
+    headers: ['区域', '适合谁', '每晚价位', '氛围・交通', '看住宿'],
+    rows: [
+      { area: '水明漾 Seminyak', who: '首次前往、购物美食控', vibe: '时尚好逛，餐厅酒吧最密集' },
+      { area: '长谷 Canggu', who: '冲浪、数字游民、文青', vibe: '海边咖啡厅、潮流市集' },
+      { area: '乌布 Ubud', who: '想疗愈、看稻田丛林', vibe: '森林 SPA、无边际泳池' },
+      { area: '乌鲁瓦图 Uluwatu', who: '蜜月、拍海景', vibe: '悬崖海景，离市区较远' },
+      { area: '努沙杜瓦 Nusa Dua', who: '亲子、长辈、想放松', vibe: '五星特区，沙滩平缓安全' },
+      { area: '金巴兰 Jimbaran', who: '蜜月、海鲜夕阳控', vibe: '海滩夕阳，离机场近' },
+      { area: '沙努尔 Sanur', who: '亲子、慢步调、跳离岛', vibe: '日出海滩，气氛悠闲' },
+      { area: '库塔 Kuta', who: '过境、预算有限', vibe: '最平价，近机场与购物' },
+    ],
+  },
+  'en': {
+    caption: 'Where to Stay in Bali — 8 Areas Compared',
+    headers: ['Area', 'Best for', 'Per night', 'Vibe & access', 'Stays'],
+    rows: [
+      { area: 'Seminyak', who: 'First-timers, shopping & dining', vibe: 'Stylish and walkable, densest restaurants & bars' },
+      { area: 'Canggu', who: 'Surfers, digital nomads, cafe-hoppers', vibe: 'Beach cafes and trendy markets' },
+      { area: 'Ubud', who: 'Wellness, rice fields & jungle', vibe: 'Jungle spas and infinity pools' },
+      { area: 'Uluwatu', who: 'Honeymooners, ocean views', vibe: 'Clifftop views, far from the centre' },
+      { area: 'Nusa Dua', who: 'Families, older travellers, resort downtime', vibe: 'Gated five-star strip, calm safe beach' },
+      { area: 'Jimbaran', who: 'Honeymooners, seafood & sunsets', vibe: 'Sunset beach, close to the airport' },
+      { area: 'Sanur', who: 'Families, slow pace, island hopping', vibe: 'Sunrise beach, laid-back' },
+      { area: 'Kuta', who: 'Layovers, tight budgets', vibe: 'Cheapest, near airport and shopping' },
+    ],
+  },
+  'id': {
+    caption: 'Menginap di Mana saat ke Bali — Perbandingan 8 Area',
+    headers: ['Area', 'Cocok untuk', 'Per malam', 'Suasana & akses', 'Akomodasi'],
+    rows: [
+      { area: 'Seminyak', who: 'Pemula, pecinta belanja & kuliner', vibe: 'Stylish dan mudah dijelajahi, restoran & bar terpadat' },
+      { area: 'Canggu', who: 'Peselancar, digital nomad, pencinta kafe', vibe: 'Kafe tepi pantai dan pasar kekinian' },
+      { area: 'Ubud', who: 'Wellness, sawah & hutan', vibe: 'Spa hutan dan infinity pool' },
+      { area: 'Uluwatu', who: 'Bulan madu, pemandangan laut', vibe: 'Panorama tebing, jauh dari pusat' },
+      { area: 'Nusa Dua', who: 'Keluarga, lansia, bersantai', vibe: 'Kawasan bintang lima, pantai tenang dan aman' },
+      { area: 'Jimbaran', who: 'Bulan madu, seafood & sunset', vibe: 'Pantai sunset, dekat bandara' },
+      { area: 'Sanur', who: 'Keluarga, santai, ke pulau sekitar', vibe: 'Pantai sunrise, suasana tenang' },
+      { area: 'Kuta', who: 'Transit, budget terbatas', vibe: 'Termurah, dekat bandara & belanja' },
+    ],
+  },
+};
+
+function accomAreaTable(lang: Lang): AreaTable {
+  const t = ACCOM_AREA_TEXT[lang];
+  return {
+    caption: t.caption,
+    headers: t.headers,
+    rows: t.rows.map((r, i) => ({ ...r, price: AREA_PRICES[i], path: AREA_PATHS[i] })),
+  };
+}
+
 // 住宿推薦：各語言文案（除分組名稱外）
-type AccomStrings = Omit<ResolvedConfig, 'groups' | 'featuredSlugs' | 'isRich'>;
+type AccomStrings = Omit<ResolvedConfig, 'groups' | 'featuredSlugs' | 'isRich' | 'areaTable'>;
 
 const ACCOM: Record<Lang, AccomStrings> = {
   'zh-tw': {
@@ -427,6 +533,7 @@ export function getCategoryConfig(lang: Lang, cat: string, count: number, allSlu
       ...s,
       groups: ACCOM_GROUP_SLUGS.map(g => ({ emoji: g.emoji, name: names[g.key], slugs: g.slugs })),
       featuredSlugs: ACCOM_FEATURED,
+      areaTable: accomAreaTable(lang),
       isRich: true,
     };
   }

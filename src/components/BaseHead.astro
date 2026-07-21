@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import { SITE_TITLE, SITE_URL, SITE_LOGO, SITE_OG_IMAGE } from '../consts';
+import { AUTHOR } from '../data/author';
 
 interface Props {
   title: string;
@@ -122,7 +123,7 @@ const fontsHref = fontsPath.startsWith('/zh-cn/')
 <title>{title}</title>
 <meta name="title" content={title} />
 <meta name="description" content={description} />
-<meta name="author" content="Go Bali Go" />
+<meta name="author" content={AUTHOR.name} />
 
 <!-- Open Graph -->
 <meta property="fb:app_id" content="1994862997907037" />
@@ -139,7 +140,7 @@ const fontsHref = fontsPath.startsWith('/zh-cn/')
 <meta property="og:image:type" content="image/jpeg" />
 {type === 'article' && publishedTime && <meta property="article:published_time" content={publishedTime} />}
 {type === 'article' && modifiedTime && <meta property="article:modified_time" content={modifiedTime} />}
-{type === 'article' && <meta property="article:author" content={SITE_URL} />}
+{type === 'article' && <meta property="article:author" content={AUTHOR.url} />}
 
 <!-- Twitter / X -->
 <meta property="twitter:card" content="summary_large_image" />

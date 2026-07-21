@@ -68,6 +68,11 @@ const blogBase = lp(lang, 'blog');
 const homeUrl = lp(lang, 'blog/');
 const canonicalUrl = categoryUrl(lang, cat);
 
+const areaTableViewLabel: Record<Lang, string> = {
+  'zh-tw': '看住宿 →', 'zh-hk': '睇住宿 →', 'zh-cn': '看住宿 →',
+  'en': 'View stays →', 'id': 'Lihat akomodasi →',
+};
+
 // ItemList schema（精選 10 篇）
 const top10Slugs = (config.featuredSlugs ?? config.groups.flatMap(g => g.slugs)).slice(0, 10);
 const itemListSchema = {
@@ -173,6 +178,30 @@ const hreflangs = [
         <p set:html={config.introHtml} />
       </div>
 
+      {config.areaTable && (
+        <section class="cat-area-table-wrap">
+          <h2 class="cat-group-title">🗺️ {config.areaTable.caption}</h2>
+          <div class="cat-area-table-scroll">
+            <table class="cat-area-table">
+              <thead>
+                <tr>{config.areaTable.headers.map(h => <th>{h}</th>)}</tr>
+              </thead>
+              <tbody>
+                {config.areaTable.rows.map(r => (
+                  <tr>
+                    <th scope="row" class="area-cell">{r.area}</th>
+                    <td>{r.who}</td>
+                    <td class="price-cell">{r.price}</td>
+                    <td>{r.vibe}</td>
+                    <td><a href={lp(lang, r.path)} class="area-link">{areaTableViewLabel[lang]}</a></td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      )}
+
       {displayGroups.map(group => {
         const groupPosts = group.slugs
           .map(s => postMap.get(s) || allPosts.find(p => p.id === s))
@@ -270,6 +299,19 @@ const hreflangs = [
   .pillar-card-cta:hover { background: #155c3e; text-decoration: none; }
 
   .cat-intro { margin-bottom: 2em; font-size: 0.97em; line-height: 1.78; color: #3a4a5a; }
+
+  /* 區域比較表 */
+  .cat-area-table-wrap { margin-bottom: 2.6em; }
+  .cat-area-table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; border-radius: 10px; border: 1px solid rgba(10,61,107,0.12); }
+  .cat-area-table { width: 100%; min-width: 620px; border-collapse: collapse; font-size: 0.88em; background: #fff; }
+  .cat-area-table th, .cat-area-table td { padding: 0.7em 0.85em; text-align: left; border-bottom: 1px solid rgba(10,61,107,0.09); vertical-align: middle; }
+  .cat-area-table thead th { background: var(--ocean, #0a3d6b); color: #fff; font-weight: 600; white-space: nowrap; }
+  .cat-area-table tbody tr:last-child th, .cat-area-table tbody tr:last-child td { border-bottom: none; }
+  .cat-area-table tbody tr:nth-child(even) { background: rgba(10,61,107,0.025); }
+  .cat-area-table .area-cell { font-weight: 700; color: var(--ocean, #0a3d6b); white-space: nowrap; }
+  .cat-area-table .price-cell { white-space: nowrap; color: #b8860b; font-weight: 600; }
+  .cat-area-table .area-link { color: var(--ocean, #0a3d6b); font-weight: 600; text-decoration: none; white-space: nowrap; }
+  .cat-area-table .area-link:hover { text-decoration: underline; }
 
   .cat-group { margin-bottom: 2.4em; }
   .cat-group-title {

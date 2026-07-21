@@ -55,6 +55,62 @@ const CAT_KEYWORDS: Record<string, Record<string, string>> = {
   },
 };
 
+// Slug → language → long-tail keyword suffix.
+// 頭部字（如「峇里島住宿推薦」）被 Agoda/Klook/真人部落客卡死，短期難搶；
+// 這裡針對 8 篇分區住宿 pillar 文章補長尾字（對手較弱、轉換率較高），
+// 只影響 meta description / JSON-LD description（渲染層），不碰 frontmatter，
+// 不會動 content_hash、不會觸發翻譯（見 project_translate_hash_trigger）。
+const SLUG_KEYWORDS: Record<string, Record<string, string>> = {
+  'seminyak-beach-resorts-guide': {
+    'zh-tw': '水明漾平價住宿、機場接送飯店推薦',
+    'zh-hk': '水明漾抵住酒店、機場接送酒店推薦',
+    'zh-cn': '水明漾平价住宿、机场接送酒店推荐',
+    'en':    'Seminyak budget stays · airport transfer hotels',
+  },
+  'ubud-resorts-guide': {
+    'zh-tw': '烏布叢林 Villa 泳池早餐、市中心飯店',
+    'zh-hk': '烏布叢林 Villa 泳池早餐、市中心酒店',
+    'zh-cn': '乌布丛林 Villa 泳池早餐、市中心酒店',
+    'en':    'Ubud jungle villa with pool breakfast · central hotels',
+  },
+  'canggu-top-hotels-guide': {
+    'zh-tw': '長谷衝浪住宿、咖啡廳周邊飯店推薦',
+    'zh-hk': '長谷衝浪住宿、咖啡廳周邊酒店推薦',
+    'zh-cn': '长谷冲浪住宿、咖啡厅周边酒店推荐',
+    'en':    'Canggu surf stays · cafe district hotels',
+  },
+  'uluwatu-bali-villas-resorts-guide': {
+    'zh-tw': '烏魯瓦圖懸崖 Villa、無邊際泳池推薦',
+    'zh-hk': '烏魯瓦圖懸崖 Villa、無邊際泳池推薦',
+    'zh-cn': '乌鲁瓦图悬崖 Villa、无边际泳池推荐',
+    'en':    'Uluwatu clifftop villa · infinity pool recommendations',
+  },
+  'nusa-dua-resorts-guide': {
+    'zh-tw': '努沙杜瓦親子飯店、全包式度假村',
+    'zh-hk': '努沙杜瓦親子酒店、全包式度假村',
+    'zh-cn': '努沙杜瓦亲子酒店、全包式度假村',
+    'en':    'Nusa Dua family hotels · all-inclusive resorts',
+  },
+  'jimbaran-beachfront-hotels-guide': {
+    'zh-tw': '金巴蘭海景飯店、海鮮夕陽餐廳推薦',
+    'zh-hk': '金巴蘭海景酒店、海鮮日落餐廳推薦',
+    'zh-cn': '金巴兰海景酒店、海鲜夕阳餐厅推荐',
+    'en':    'Jimbaran beachfront hotels · seafood sunset dining',
+  },
+  'sanur-luxury-budget-resorts': {
+    'zh-tw': '沙努爾親子飯店、日出海灘住宿',
+    'zh-hk': '沙努爾親子酒店、日出海灘住宿',
+    'zh-cn': '沙努尔亲子酒店、日出海滩住宿',
+    'en':    'Sanur family hotels · sunrise beach stays',
+  },
+  'best-kuta-hotels-list': {
+    'zh-tw': '庫塔機場飯店、庫塔購物住宿推薦',
+    'zh-hk': '庫塔機場酒店、庫塔購物住宿推薦',
+    'zh-cn': '库塔机场酒店、库塔购物住宿推荐',
+    'en':    'Kuta airport hotels · shopping district stays',
+  },
+};
+
 // Cantonese (zh-HK) term substitutions for localized search relevance
 const HK_SUBS: [RegExp, string][] = [
   [/飯店/g, '酒店'],
@@ -79,18 +135,28 @@ export function enhancedTitle(title: string, cats: string[], lang: string): stri
 /**
  * Enhance description with:
  * 1. Cantonese substitutions (zh-HK)
- * 2. Category keyword suffix (if description is short)
+ * 2. Slug-level long-tail keyword suffix (if available), else category keyword suffix
+ *    (only when description is short enough to still have room)
  */
-export function enhancedDescription(desc: string, cats: string[], lang: string): string {
+export function enhancedDescription(desc: string, cats: string[], lang: string, slug?: string): string {
   let out = lang === 'zh-hk' ? applyHkSubs(desc) : desc;
 
   const langKey = ['en', 'zh-cn', 'zh-hk'].includes(lang) ? lang : 'zh-tw';
 
-  for (const cat of cats) {
-    const kwMap = CAT_KEYWORDS[cat];
-    if (!kwMap) continue;
-    const kw = kwMap[langKey] ?? kwMap['zh-tw'];
-    if (!kw) continue;
+  const slugKwMap = slug ? SLUG_KEYWORDS[slug] : undefined;
+  const kw = slugKwMap
+    ? (slugKwMap[langKey] ?? slugKwMap['zh-tw'])
+    : (() => {
+        for (const cat of cats) {
+          const kwMap = CAT_KEYWORDS[cat];
+          if (!kwMap) continue;
+          const k = kwMap[langKey] ?? kwMap['zh-tw'];
+          if (k) return k;
+        }
+        return undefined;
+      })();
+
+  if (kw) {
     // Append only when description is short enough (Google shows ~155 chars)
     // and doesn't already contain the first keyword token
     const firstKw = kw.split(/[、·]/)[0].trim();
@@ -98,7 +164,6 @@ export function enhancedDescription(desc: string, cats: string[], lang: string):
       const sep = lang === 'en' ? ' · ' : '｜';
       out = `${out}${sep}${kw}`;
     }
-    break;
   }
 
   return out;
