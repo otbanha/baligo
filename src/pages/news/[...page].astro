@@ -124,6 +124,18 @@ for (const cat of siteCategories) {
   siteCategoryCounts[cat] = publishedSitePosts.filter(p => getCategories(p.data.category).includes(cat)).length;
 }
 
+// 只有這 8 個分類有靜態產生的 /blog/category/[cat]/ 頁面（見 src/pages/blog/category/[cat].astro
+// 的 getStaticPaths）；新聞存檔另有 /news/ 首頁，其餘分類（例如「旅行技巧」）沒有靜態頁，
+// 一律導回 /blog/?cat=... 走前端篩選，避免連到 404。
+const STATIC_CATEGORY_PAGES = new Set([
+  '新手指南', '住宿推薦', '峇里島分區攻略', '簽證通關', '叫車包車', '家庭親子', '遊記分享', '美食景點活動',
+]);
+const catPageUrl = (cat: string): string => {
+  if (cat === '新聞存檔') return '/news/';
+  if (STATIC_CATEGORY_PAGES.has(cat)) return `/blog/category/${encodeURIComponent(cat)}/`;
+  return `/blog/?lang=tw&cat=${encodeURIComponent(cat)}`;
+};
+
 const pageTitle = isFirstPage
   ? '峇里島新聞 | 每日更新峇里島最新消息 - 小傑印尼'
   : `峇里島新聞（第 ${page.currentPage} 頁）| 小傑印尼`;
@@ -214,7 +226,7 @@ const faqs = [
           </li>
           {siteCategories.map(cat => (
             <li>
-              <a href={`/blog/category/${encodeURIComponent(cat)}/`} class={`category-item ${cat === '新聞存檔' ? 'active' : ''}`}>
+              <a href={catPageUrl(cat)} class={`category-item ${cat === '新聞存檔' ? 'active' : ''}`}>
                 <span class="cat-name">{cat}</span>
                 <span class="cat-count">{siteCategoryCounts[cat]}</span>
               </a>
