@@ -3,7 +3,7 @@ title: Bvlgari Resort Bali｜寶格麗度假村 烏魯瓦圖懸崖頂奢別墅 2
 slug: bvlgari-resort-bali-uluwatu
 description: 峇里島最頂級的奢華住宿！Bvlgari Resort Bali 寶格麗度假村坐落烏魯瓦圖 160 公尺懸崖頂端，擁有私人海灘電梯、無敵印度洋海景與義式管家服務。完整解析 2026 最新入住評鑑、懸崖下午茶預約攻略，是名人御用的頂奢蜜月首選。
 pubDate: 2026-04-19
-updatedDate: 2026-07-20
+updatedDate: 2026-07-21
 pubHour: 16
 category:
   - 住宿推薦
